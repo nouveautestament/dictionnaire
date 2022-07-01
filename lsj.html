@@ -66,6 +66,7 @@
 <div id="banniere"><!--
 	--><span class="blocban">Ȼ</span><!--
 	--><a class="blocban" href="../index.html">INDEX</a><!--
+	--><a class="blocban" href="../agora/index.html">AGORA</a><!--
 	--><a class="blocban" href="../nd/nd.html">ND</a><!--
 	--><a class="blocban" href="../interlineaire/hellene/1-1.html">HELLENE</a><!--
 	--><a class="blocban" href="../interlineaire/romain/1-1.html">ROMAIN</a><!--
@@ -94,7 +95,7 @@
 
 <script>
 
-
+x = 0;
 
 function greek()
 {
@@ -127,10 +128,14 @@ function startWebsocket() {
 
 	ws.addEventListener('message', function (event) {
 
-		xx3 = document.createElement("div");
-		xx3.innerHTML = event.data+"<br><br>"
-		document.getElementById('main').appendChild(xx3);
-
+		if (event.data.indexOf('lsj|-|-|') != -1)
+		{
+			evda = event.data.replace('lsj|-|-|','')
+			
+			xx3 = document.createElement("div");
+			xx3.innerHTML = evda+"<br><br>"
+			document.getElementById('main').appendChild(xx3);
+		}
 	});
 
 
@@ -140,11 +145,12 @@ function startWebsocket() {
 
 		console.log('OPEN')
 
-		if (window.location.href.indexOf('#') != -1)
+		if (window.location.href.indexOf('#') != -1 && x == 0)
 		{
 			grk = decodeURI(window.location.href.split('#')[1])
 			document.getElementById('greek').value = grk
 			greek();
+			x = 1;
 		}
 
 });
