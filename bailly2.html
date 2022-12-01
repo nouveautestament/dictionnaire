@@ -1,0 +1,255 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Nouveau Testament">
+		<meta name="keywords" content="Nouveau Testament">
+	
+		<title>BAILLY</title>
+		
+		<script>
+                </script>
+		
+		<script src="out2.js"></script>
+		<script>
+		function lzw_decode(s,base=64) {
+    var sym="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_!#%()*+,./:;=?@[]^{|}~ $`";
+    sym +="\1\2\3\4\5\6\7\b\t\v\f\16\17\20\21\22\23\24\25\26\27\30\31\32\33\34\35\36\37\xf7&'>\0\n\r\"<\\";
+    var size=base*base*base;
+    var symd={};
+    for(var i=0; i<base; i++){
+        symd[sym.charAt(i)]=i;
+    }
+    var d=new Map();
+    var num=257;
+    var logb=Math.log2(base);
+    var logn=8/logb|0;
+    var i=0;
+    function unpack(pos=0) {
+        return symd[s[i++]]+(pos==logn ? 0 : base*unpack(pos+1));
+    }
+    var word=String.fromCharCode(unpack());
+    var prev=word;
+    var o=[word];
+    while(i<s.length) {
+        logn=Math.log2(num++)/logb|0;
+        var key=unpack();
+        word=key<256 ? String.fromCharCode(key) : d.has(key) ? d.get(key) : word+word.charAt(0);
+        o.push(word);
+        if(num==size-1) {
+            d.clear();
+            num=256;
+        }
+        d.set(num-2,prev+word.charAt(0));
+        prev=word;
+    }
+    return decodeURIComponent(escape(o.join("")));
+}
+bailly = lzw_decode(bailly).split("\n")
+		</script>
+		<style>
+			html {
+				margin:0;
+				padding:0;
+			}
+			
+			
+			body {
+				margin:0;
+				padding:0;
+				font-family:sans-serif;
+			}
+			
+			a {
+				color:black;
+				text-decoration:none;
+			}
+
+			a:hover {
+				text-decoration:underline;
+			}
+
+
+			
+			#here {
+				padding:8px;
+			}
+
+		</style>
+	</head>
+
+<body>
+
+
+<br>
+<div id="here">
+	<input style="font-size:1.3em" type="text" placeholder="CHERCHE HELLENE" name="greek" id="greek" onkeypress="if (event.keyCode == 13) greek()"/>
+	<br><br>
+	<div id="main">
+	</div>
+</div>
+
+</body>
+
+
+
+<script>
+
+xx = 0;
+
+function greek()
+{
+	document.getElementById('main').innerHTML = ""
+	
+	grk0 = document.getElementById('greek').value;	
+	
+	grk = document.getElementById('greek').value;	
+	grk = grk.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/^ +| +$/g,"")
+	
+	xx = 0
+	
+	
+element  = document.getElementById('main'); 
+fragment = document.createDocumentFragment();
+	
+	
+	//xx3 = document.createElement("div");
+	//fragment = document.createDocumentFragment();
+	//xx3.innerHTML = bailly[x]+"<br><br>"
+
+	for (x=0 ; x!=bailly.length ; x++)
+	{
+	
+		lineh = bailly[x].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+		
+		if (lineh.indexOf(grk) != -1)
+		{
+			xx3 = document.createElement("div");
+			
+			
+			re = new RegExp('('+grk0+')','gi')
+			bailly[x] =  bailly[x].replace(re,"<span style='background-color:#c6ffc5'>$1</span>")
+
+			
+			//bailly[x] =  bailly[x].replace(/(^\S+)/,"$1")
+			
+			xx3.innerHTML = bailly[x]+"<br><br>"
+			fragment.appendChild(xx3);
+			//document.getElementById('main').appendChild(xx3);
+			
+		}
+	
+	}
+	
+	element.appendChild(fragment);
+
+
+}
+
+function greek2(xx, grk)
+{
+	
+	lineh = bailly[xx].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
+		
+	if (lineh.indexOf(grk) != -1)
+	{
+		xx3 = document.createElement("div");
+		xx3.innerHTML = bailly[xx]+"<br><br>"
+		document.getElementById('main').appendChild(xx3);
+			
+	}
+
+	if (xx < bailly.length)
+	{
+		xx++
+		setTimeout(greek3(xx, grk),100)
+	}
+}
+
+
+
+
+
+tablegrec = {
+'A':'Α',
+'a':'α',
+'B':'Β',
+'b':'β',
+'G':'Γ',
+'g':'γ',
+'D':'Δ',
+'d':'δ',
+'E':'Ε',
+'e':'ε',
+'Z':'Ζ',
+'z':'ζ',
+'Ê':'Η',
+'ê':'η',
+'Th':'Θ',
+'th':'θ',
+'I':'Ι',
+'i':'ι',
+'K':'Κ',
+'k':'κ',
+'L':'Λ',
+'l':'λ',
+'M':'Μ',
+'m':'μ',
+'N':'Ν',
+'n':'ν',
+'Ks':'Ξ',
+'ks':'ξ',
+'O':'Ο',
+'o':'ο',
+'P':'Π',
+'p':'π',
+'R':'Ρ',
+'r':'ρ',
+'S':'Σ',
+'s':'σ',
+'s':'ς',
+'T':'Τ',
+'t':'τ',
+'U':'Υ',
+'u':'υ',
+'Y':'Υ',
+'y':'υ',
+'PH':'Φ',
+'ph':'φ',
+'Ch':'Χ',
+'ch':'χ',
+'Ps':'Ψ',
+'ps':'ψ',
+'Ô':'Ω',
+'ô':'ω',
+}
+
+
+
+function frel(frw) {
+
+frw=frw.replace(/ph/,"φ");
+frw=frw.replace(/th/,"θ");
+frw=frw.replace(/ks/,"ξ");
+frw=frw.replace(/ch/,"χ");
+frw=frw.replace(/ps/,"ψ");
+
+frw=frw.split('');
+	send='';
+	
+	for (z=0; z != frw.length;z++)
+	{
+		if (!tablegrec[frw[z]])
+			console.log('ERROR : '+frw[z])
+		
+		send+=tablegrec[frw[z]];
+	}
+	return send;
+}
+
+
+</script>
+</html>
