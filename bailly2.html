@@ -15,40 +15,43 @@
 		
 		<script src="out2.js"></script>
 		<script>
-		function lzw_decode(s,base=64) {
-    var sym="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_!#%()*+,./:;=?@[]^{|}~ $`";
-    sym +="\1\2\3\4\5\6\7\b\t\v\f\16\17\20\21\22\23\24\25\26\27\30\31\32\33\34\35\36\37\xf7&'>\0\n\r\"<\\";
-    var size=base*base*base;
-    var symd={};
-    for(var i=0; i<base; i++){
-        symd[sym.charAt(i)]=i;
-    }
-    var d=new Map();
-    var num=257;
-    var logb=Math.log2(base);
-    var logn=8/logb|0;
-    var i=0;
-    function unpack(pos=0) {
-        return symd[s[i++]]+(pos==logn ? 0 : base*unpack(pos+1));
-    }
-    var word=String.fromCharCode(unpack());
-    var prev=word;
-    var o=[word];
-    while(i<s.length) {
-        logn=Math.log2(num++)/logb|0;
-        var key=unpack();
-        word=key<256 ? String.fromCharCode(key) : d.has(key) ? d.get(key) : word+word.charAt(0);
-        o.push(word);
-        if(num==size-1) {
-            d.clear();
-            num=256;
-        }
-        d.set(num-2,prev+word.charAt(0));
-        prev=word;
-    }
-    return decodeURIComponent(escape(o.join("")));
-}
-bailly = lzw_decode(bailly).split("\n")
+		function lzw_decode(s,base=64) 
+		{
+			var sym="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_!#%()*+,./:;=?@[]^{|}~ $`";
+			sym +="\1\2\3\4\5\6\7\b\t\v\f\16\17\20\21\22\23\24\25\26\27\30\31\32\33\34\35\36\37\xf7&'>\0\n\r\"<\\";
+			var size=base*base*base;
+			var symd={};
+			for(var i=0; i<base; i++){
+				symd[sym.charAt(i)]=i;
+			}
+			var d=new Map();
+			var num=257;
+			var logb=Math.log2(base);
+			var logn=8/logb|0;
+			var i=0;
+			function unpack(pos=0) {
+				return symd[s[i++]]+(pos==logn ? 0 : base*unpack(pos+1));
+			}
+			var word=String.fromCharCode(unpack());
+			var prev=word;
+			var o=[word];
+			while(i<s.length) {
+				logn=Math.log2(num++)/logb|0;
+				var key=unpack();
+				word=key<256 ? String.fromCharCode(key) : d.has(key) ? d.get(key) : word+word.charAt(0);
+				o.push(word);
+				if(num==size-1) {
+					d.clear();
+					num=256;
+				}
+				d.set(num-2,prev+word.charAt(0));
+				prev=word;
+			}
+			return decodeURIComponent(escape(o.join("")));
+		}
+
+		bailly = lzw_decode(bailly).split("\n")
+
 		</script>
 		<style>
 			html {
@@ -100,7 +103,18 @@ bailly = lzw_decode(bailly).split("\n")
 
 xx = 0;
 
-function greek()
+
+hdw = function() {
+return new Promise((resolve, reject) => {
+    setTimeout(_ => { 
+      //console.log("hardwork over")
+      resolve();
+    }, 10)
+  })
+}
+
+
+async function greek()
 {
 	document.getElementById('main').innerHTML = ""
 	
@@ -113,7 +127,7 @@ function greek()
 	
 	
 element  = document.getElementById('main'); 
-fragment = document.createDocumentFragment();
+//fragment = document.createDocumentFragment();
 	
 	
 	//xx3 = document.createElement("div");
@@ -122,29 +136,34 @@ fragment = document.createDocumentFragment();
 
 	for (x=0 ; x!=bailly.length ; x++)
 	{
-	
-		lineh = bailly[x].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
 		
-		if (lineh.indexOf(grk) != -1)
+		if (bailly[x])
 		{
-			xx3 = document.createElement("div");
+			lineh = bailly[x].normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()
 			
-			
-			re = new RegExp('('+grk0+')','gi')
-			bailly[x] =  bailly[x].replace(re,"<span style='background-color:#c6ffc5'>$1</span>")
+			if (lineh.indexOf(grk) != -1)
+			{
+				
+				
+				
+				re = new RegExp('('+grk0+')','gi')
+				bailly[x] =  bailly[x].replace(re,"<span style='background-color:#c6ffc5'>$1</span>")
 
-			
-			//bailly[x] =  bailly[x].replace(/(^\S+)/,"$1")
-			
-			xx3.innerHTML = bailly[x]+"<br><br>"
-			fragment.appendChild(xx3);
-			//document.getElementById('main').appendChild(xx3);
-			
+				
+				//bailly[x] =  bailly[x].replace(/(^\S+)/,"$1")
+				
+				xx3 = document.createElement("div");
+				xx3.innerHTML = bailly[x]+"<br><br>"
+				document.getElementById('main').appendChild(xx3);
+				
+				//fragment.appendChild(xx3);
+				await hdw();
+			}
 		}
 	
 	}
 	
-	element.appendChild(fragment);
+	//element.appendChild(fragment);
 
 
 }
