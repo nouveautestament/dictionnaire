@@ -1,0 +1,1 @@
+lar[109940]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> soupirail, ouverture pour donner de l’air dans une mine, TH. <i>Ign. 24</i>.<p><b>Étym</b>. ψυχαγωγέω.`

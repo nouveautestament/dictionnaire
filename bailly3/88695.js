@@ -1,0 +1,1 @@
+lar[88695]=`<b>όεσσα, όεν :<br>      1</b> de rose, IL. <i>23, 186</i> ; EUR. <i>I.A. 1298 ; fig</i>. ANTH. <i>5, 81</i>.<br><b>      2</b> teint en rose, ANTH. <i>6, 250</i>.<p><b>Étym</b>. ῥόδον.`

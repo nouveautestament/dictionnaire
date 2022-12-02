@@ -1,0 +1,1 @@
+lar[30858]=`<b>εἰσ·παίω</b>, se précipiter dans <i>ou</i> sur, SOPH. <i>O.R. 1252 (ao</i>. εἰσέπαισεν) ; <i>avec l’acc</i>. EUR. <i>Rhes. 560</i>.<p><b>Étym</b>. <i>part. ao</i>. εἰσπαίσας.`

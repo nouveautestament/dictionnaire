@@ -1,0 +1,1 @@
+lar[95907]=`<b>εως (ἡ)</b> félicitations, APP. <i>Civ. 5, 69</i>.<p><b>Étym</b>. συνήδομαι.`

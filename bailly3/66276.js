@@ -1,0 +1,1 @@
+lar[66276]=`<b>ου (ὁ)</b> couleuvrée, <i>plante,</i> HPC. <i>408, 17</i>.`

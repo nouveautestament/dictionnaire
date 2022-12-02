@@ -1,0 +1,1 @@
+lar[76507]=`<b>παρδαλι·αγχές, έος-οῦς (τὸ)</b> <font color="purple">[δᾰ]</font> φάρμακον, ARSTT. <i>H.A. 9, 6, 3, ou simpl</i>. παρδαλιαγχές, <i>propr</i>. « qui suffoque les panthères, » <i>nom de l’</i>aconit, <i>plante vénéneuse,</i> DIOSC.<p>➳ <i>Ion</i>. πορδαλιαγχές, NIC. <i>Al. 38</i>.<p><b>Étym</b>. πάρδαλις, ἄγχω.`

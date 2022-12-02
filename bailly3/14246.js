@@ -1,0 +1,1 @@
+lar[14246]=`<b>ου (ὁ)</b> Argès, <i>Cyclope,</i> HÉS. <i>Th. 140</i>.<p>➳ <i>Gén. ion</i>. -εω, PHÉRÉCR. (SCH.-EUR. <i>Alc. 1) ; gén</i>. -ητος, E. BYZ. <i>v°</i> Ἀτρήνη ; <i>acc</i>. -ην, HÉS. <i>l. c</i>.`

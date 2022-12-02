@@ -1,0 +1,1 @@
+lar[18858]=`<b>(ὁ)</b> <font color="purple">[ᾰᾱ]</font> <i>dor. c</i>. βάκηλος ANTH. <i>7, 109</i>.`

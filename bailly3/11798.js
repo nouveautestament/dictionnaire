@@ -1,0 +1,1 @@
+lar[11798]=`<i>adv</i>., d’une manière immuable, SEXT. <i>227, etc</i>.`

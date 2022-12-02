@@ -1,0 +1,1 @@
+lar[41137]=`<b>έως</b>, <i>adj. m</i>. d’Hestiæa, <i>en Eubée,</i> THC. <i>7, 57</i> ; XÉN. <i>Hell. 2, 2, 3</i> ; ARSTT. <i>Pol. 5, 3, etc</i>.<p>➳ <i>Acc. pl</i>. Ἑστιαιᾶς, THC. <i>1, 114, non att</i>. Ἑστιαιεῖς, DS. <i>12, 7 et 22. Ion</i>. Ἱστιαιεύς, HDT. <i>8, 24</i>.<p><b>Étym</b>. Ἑστίαια.`

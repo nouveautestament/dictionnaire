@@ -1,0 +1,1 @@
+lar[51528]=`<b>ων (τὰ) :<br>      1</b> paniers qui pendent de chaque côté du bât d’un âne, AR. <i>Vesp. 169</i> ; ARTÉM. <i>4, 5</i>.<br><b>      2</b> grands paniers <i>pour les récoltes de fruits, pour la vendange, etc</i>. GEOP. <i>6, 11</i>.<p><b>Étym</b>. κάνης.`

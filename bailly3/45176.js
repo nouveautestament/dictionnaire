@@ -1,0 +1,1 @@
+lar[45176]=`<b>ης, ες</b>, qui a l’aspect de l’ambre, HPC. <i>1135h ;</i> PHILSTR. <i>27</i>.<p><b>Étym</b>. ἤλεκτρον, -ωδης.`

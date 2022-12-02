@@ -1,0 +1,1 @@
+lar[96789]=`<b>σφαιρο·ειδής, ής, ές</b>, semblable à une sphère, HPC. <i>Aër. 289</i> ; DÉMOCR. (ARSTT. <i>An. 1, 2, 3</i>) ; XÉN. <i>An. 5, 4, 12</i> ; PLAT. <i>Tim. 33b, etc.</i> ; τὸ σφαιροειδές, ARCHIM. l’ellipsoïde de révolution.<p><b>Étym</b>. σφαῖρα, εἶδος.`

@@ -1,0 +1,1 @@
+lar[37828]=`<b>εως (ἡ)</b> lamentation sur, PLUT. <i>M. 611a</i>.<p><b>Étym</b>. ἐπιθρηνέω.`

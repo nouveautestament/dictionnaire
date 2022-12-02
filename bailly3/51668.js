@@ -1,0 +1,1 @@
+lar[51668]=`<b>α, ον</b>, de sanglier, NONN. <i>D. 18, 245</i>.<p><b>Étym</b>. κάπρος.`

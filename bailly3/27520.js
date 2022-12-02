@@ -1,0 +1,1 @@
+lar[27520]=`<b>δονακό·χλοος, οος, οον</b> (<i>acc. sg. irrég</i>. δονακόχλοα) <font color="purple">[ᾰκ]</font> verdoyant de roseaux, EUR. <i>I.T. 400</i>.<p><b>Étym</b>. δόναξ, χλόα.`

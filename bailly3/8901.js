@@ -1,0 +1,1 @@
+lar[8901]=`<b>ος, ον</b> <font color="purple">[ᾰκ]</font> d’escarboucle, SPT. <i>Esth. 1, 7</i>.<p><b>Étym</b>. ἄνθραξ.`

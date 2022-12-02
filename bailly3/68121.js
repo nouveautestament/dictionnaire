@@ -1,0 +1,1 @@
+lar[68121]=`<b>νεο·δμής, ῆτος (ὁ, ἡ) :<br>      1</b> nouvellement dompté, HH. <i>Ap. 231</i>.<br><b>      2</b> <i>fig</i>. d’un hymen récent, EUR. <i>Med. 1366</i>.<p><b>Étym</b>. ν. δαμάω.`

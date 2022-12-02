@@ -1,0 +1,1 @@
+lar[81569]=`<b>πολιό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux blancs, STR. <i>293</i>.<p><b>Étym</b>. πολιός, θρίξ.`

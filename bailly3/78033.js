@@ -1,0 +1,1 @@
+lar[78033]=`<b>Πεντά·πυλα, ων (τὰ)</b> <font color="purple">[ᾰῠ]</font> Pentapyles, <i>propr</i>. « aux cinq portes, » <i>quartier de Syracuse,</i> PLUT. <i>Dio. 29</i>.<p><b>Étym</b>. π. πύλη.`

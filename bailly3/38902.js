@@ -1,0 +1,1 @@
+lar[38902]=`<b>ἐπιρροθέω-ῶ :<br>      1</b> faire du bruit en faveur de, <i>d’où</i> approuver bruyamment, SOPH. <i>fr. 700</i> ; EUR. <i>Hec. 553</i>.<br><b>      2</b> retentir de coups, ESCHL. <i>Ch. 427, d’où</i> éclater en reproches contre, <i>acc</i>. SOPH. <i>Tr. 264 ; abs</i>. répondre à des cris par des cris, ESCHL. <i>Ch. 459</i>.<p><b>Étym</b>. ἐπίρροθος.`

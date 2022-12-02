@@ -1,0 +1,1 @@
+lar[15211]=`<b>(ὁ)</b> Arsanias, <i>fl. d’Arménie,</i> PLUT. <i>Luc. 31</i>.`

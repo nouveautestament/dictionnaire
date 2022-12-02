@@ -1,0 +1,1 @@
+lar[96104]=`<b>ιδος (ἡ)</b> <i>s.-e</i>. λίθος, pierre qu’on trouvait dans la tête du thon συνοδοντίς, PLIN. <i>H.N. 37, 10, 67</i>.`

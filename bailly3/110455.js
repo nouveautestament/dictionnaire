@@ -1,0 +1,1 @@
+lar[110455]=`<b>(ὁ)</b> Ôromazès :<br><b>      1</b> <i>dieu des Perses,</i> PLUT. <i>Artax. 29 ; Is. et Os. 46, 47</i>.<br><b>      2</b> <i>père de Zoroastre,</i> PLAT. <i>1 Alc. 122a</i>.<p><b>Étym</b>. <i>zend</i> Ahuramazda <i>ou</i> Ormuzd ; <i>cf</i>. Ὠρομάσδης.`

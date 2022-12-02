@@ -1,0 +1,1 @@
+lar[85905]=`<b>προσ·καθέζομαι</b>, <i>litt</i>. être assis près de, <i>d’où</i> :<br><b>      1</b> camper près de, assiéger, <i>dat</i>. POL. <i>3, 98, 7 ; 8, 9, 6 ; acc</i>. THC. <i>1, 26 ; abs</i>. THC. <i>1, 11, etc. et 61</i> ; XÉN. <i>Hell. 1, 5, 21, etc.</i><br><b>      2</b> être assidu à, persévérer dans, <i>dat</i>. DÉM. <i>14, 15</i>.`

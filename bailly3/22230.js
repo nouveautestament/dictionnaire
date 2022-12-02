@@ -1,0 +1,1 @@
+lar[22230]=`<b>γλωσσο·μανία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> fureur de parler, TAT. <i>Or. ad Græc. 3, 812a Migne</i>.<p><b>Étym</b>. γλῶσσα, μ.`

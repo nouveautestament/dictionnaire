@@ -1,0 +1,1 @@
+lar[2514]=`<i>adv. épq. c</i>. ἀεικῶς, IL. <i>22, 336 ; par contr</i>. αἰκῶς, SOPH. <i>El. 102</i>.`

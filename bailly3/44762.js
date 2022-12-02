@@ -1,0 +1,1 @@
+lar[44762]=`<b>ας (ἡ)</b> moulage <i>ou</i> sculpture de figures d’êtres animés, RHÉT.<p><b>Étym</b>. ζωοπλάστης.`

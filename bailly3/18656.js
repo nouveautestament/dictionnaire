@@ -1,0 +1,1 @@
+lar[18656]=`<b>ἀόνος (ὁ)</b> <font color="purple">[ᾱ]</font> <i>sorte de poisson,</i> EPICH. (ATH. <i>321d, 327c</i>).`

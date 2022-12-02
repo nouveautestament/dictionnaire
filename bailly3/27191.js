@@ -1,0 +1,1 @@
+lar[27191]=`<b>διχο·γραφέω-ῶ</b> <font color="purple">[ῐᾰ]</font> écrire de deux manières, E. BYZ. <i>v°</i> Δώτιον.<p><b>Étym</b>. δίχα, -γράφος <i>de</i> γράφω.`

@@ -1,0 +1,1 @@
+lar[80484]=`<b>ητος (ἡ)</b> fidélité, HDT. <i>7, 52</i> ; PLAT. <i>Leg. 630c, etc</i>.<p><b>Étym</b>. πιστός¹.`

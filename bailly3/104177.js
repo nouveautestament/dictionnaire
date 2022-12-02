@@ -1,0 +1,1 @@
+lar[104177]=`<b>ος, ον :<br>      1</b> soumis à, dépendant de, <i>dat</i>. XÉN. <i>An. 2, 5, 7 ; gén</i>. ESCHL. <i>Pers. 24</i>.<br><b>      2</b> accusé de, <i>gén</i>. DÉM. <i>1315, 11</i>.<p><b>Étym</b>. ὑπέχω.`

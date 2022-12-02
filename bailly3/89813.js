@@ -1,0 +1,1 @@
+lar[89813]=`<b>ατος (τὸ)</b> air grave <i>ou</i> majestueux, aspect imposant, EPIC. (DL. <i>9, 77).</i><p><b>Étym</b>. σεμνόω.`

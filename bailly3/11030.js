@@ -1,0 +1,1 @@
+lar[11030]=`<b>ἄ·οπλος, ος, ον</b>, sans armes, THC. <i>4, 9</i> ; PLAT. <i>Prot. 321c ;</i> ἅρμα ἄ. XÉN. <i>Cyr. 6, 4, 16,</i> char non armé de faux.<p><b>Étym</b>. ἀ, ὅπλον ; <i>cf</i>. ἄνοπλος.`

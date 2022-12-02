@@ -1,0 +1,1 @@
+lar[23780]=`<b>ας (ἡ)</b> piège garni d’une amorce, CRAT. (POLL. <i>10, 156).</i><p><b>Étym</b>. δελεάζω.`

@@ -1,0 +1,1 @@
+lar[46876]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qu’on peut culiiver, PLAT. <i>Prot. 325b.</i><br><b>      2</b> guérissable, ARSTT. <i>H.A. 10, 3, 18</i>.<p><b>Étym</b>. <i>vb. de</i> θεραπεύω.`

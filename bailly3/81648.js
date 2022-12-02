@@ -1,0 +1,1 @@
+lar[81648]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> de beaucoup d’endroits <i>ou</i> de côtés, THC. <i>6, 32</i> ; LYS. <i>105, 7</i> ; PLAT. <i>Leg. 842c.</i><br><b>      2</b> <i>fig</i>. par beaucoup de raisons, THC. <i>4, 6</i> ; PLAT. <i>Conv. 178c</i>.<p><b>Étym</b>. *πολλαχός, -θεν.`

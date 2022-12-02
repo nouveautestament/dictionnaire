@@ -1,0 +1,1 @@
+lar[94551]=`<b>συν·αγρυπνέω-ῶ</b> <font color="purple">[ᾰ]</font> veiller avec, PHILSTR. <i>Ep. 44</i> ; ARISTÉN. <i>2, 22</i>.`

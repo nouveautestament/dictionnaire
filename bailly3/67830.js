@@ -1,0 +1,1 @@
+lar[67830]=`(<i>seul. prés., impf. et ao</i>.) voyager par mer, naviguer, OD. <i>4, 672 ; 14, 246</i> ; HDT. <i>1, 163, etc.</i> ; SOPH. <i>Ant. 717</i> ; EUR. (STOB. <i>Fl. 59, 18</i>) ; PLAT. <i>Rsp. 551c ; en parl. du poisson</i> ναυτίλος, ARSTT. <i>H.A. 9, 37</i>.<p>➳ <i>Inf. ao</i>. ναυτίλασθαι, DC. <i>56, 3</i>.<p><b>Étym</b>. ναυτίλος.`

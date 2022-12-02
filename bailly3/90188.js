@@ -1,0 +1,1 @@
+lar[90188]=`<b>σιδιο·ειδής, ής, ές</b> <font color="purple">[σῐ]</font> pâle <i>ou</i> jaunâtre comme une écorce de grenade, HPC. <i>58, 17 ; 490, 47, etc</i>.<p><b>Étym</b>. σίδιον, εἶδος.`

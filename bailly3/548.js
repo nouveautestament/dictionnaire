@@ -1,0 +1,1 @@
+lar[548]=`<font color="purple">[ᾰ]</font> <i>c</i>. ἀγήνωρ, NONN. <i>D. 12, 206</i>.`

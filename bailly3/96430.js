@@ -1,0 +1,1 @@
+lar[96430]=`<b>συν·υποστέλλω :<br>      1</b> resserrer, M. TYR. <i>21, 10</i>.<br><b>      2</b> raccourcir en même temps, SEXT. <i>M. 9, 262</i>.`

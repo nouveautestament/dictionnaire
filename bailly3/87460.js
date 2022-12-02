@@ -1,0 +1,1 @@
+lar[87460]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> sorte de vase à boire, ATH. <i>485e</i>.<p><b>Étym</b>. πτῶμα.`

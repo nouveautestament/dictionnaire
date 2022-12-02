@@ -1,0 +1,1 @@
+lar[37939]=`<b>ἐπι·καταράομαι-ῶμαι</b> <font color="purple">[ᾱρ]</font> faire des imprécations contre, maudire, SPT. <i>Num. 5, 19 ; 22, 17 ; 23, 7</i>.`

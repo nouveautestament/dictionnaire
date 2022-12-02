@@ -1,0 +1,1 @@
+lar[63661]=`<b>μεθυ·τρόφος, ος, ον</b>, qui produit (<i>propr</i>. qui nourrit) du vin, ANTH. <i>7, 24</i>.<p><b>Étym</b>. μ. τρέφω.`

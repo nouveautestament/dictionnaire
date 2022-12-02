@@ -1,0 +1,1 @@
+lar[101320]=`<b>ου</b>, <i>adj. m</i>. habitant <i>ou</i> originaire d’Hyampolis <i>en Phocide,</i> XÉN. <i>Hell. 6, 4, 27</i>.<p><b>Étym</b>. <i>v</i>. Ὑάμπολις.`

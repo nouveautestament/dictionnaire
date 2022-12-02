@@ -1,0 +1,1 @@
+lar[11348]=`<b>ἀ·παρασχημάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> qui ne peut pas prendre la forme de, <i>dat</i>. HDN GR. (<i>Cram. 3, p. 282, 13</i>).<br><b>      2</b> qui n’a pas de forme correspondante : οὐδέτερον ἀπ. ἀρσενικῷ, DRAC. <i>36, 11,</i> neutre qui n’a pas de correspondant masculin.<p><b>Étym</b>. ἀ, παρασχηματίζω.`

@@ -1,0 +1,1 @@
+lar[93646]=`<b>ατος (τὸ)</b> concession, consentement, POL. <i>1, 85, 3 ; 4, 73, 10 ; 5, 67, 8, etc</i>. PLUT. <i>Popl. 20</i>.<p><b>Étym</b>. συγχωρέω.`

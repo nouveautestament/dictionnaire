@@ -1,0 +1,1 @@
+lar[51593]=`<b>ωνος (ὁ)</b> Kapatôn, <i>Locrien,</i> THC. <i>3, 103</i>.`

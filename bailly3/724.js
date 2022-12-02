@@ -1,0 +1,1 @@
+lar[724]=`<b>ἀγλαό·φωνος, ος, ον</b>, à la belle voix, PROCL. <i>H. Mus. 2</i>.<p><b>Étym</b>. ἀ. φωνή.`

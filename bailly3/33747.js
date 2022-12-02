@@ -1,0 +1,1 @@
+lar[33747]=`<b>ἐμ·φωτίζω</b>, illuminer, éclairer, CLÉM. <i>799 au pass</i>.<p><b>Étym</b>. ἐν, φ.`

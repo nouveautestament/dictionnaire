@@ -1,0 +1,1 @@
+lar[94817]=`<b>συν·αντιλαμβάνομαι :<br>      1</b> aider à se rendre maître de, <i>gén</i>. DS. <i>14, 8</i>.<br><b>      2</b> aider à supporter, <i>acc</i>. SPT. <i>Num. 11, 17</i>.<br><b>      3</b> prendre le parti de, venir au secours de, <i>dat</i>. SPT. <i>Ex. 18, 22 ; Ps. 88, 21</i>.`

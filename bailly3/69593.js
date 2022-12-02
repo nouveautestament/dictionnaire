@@ -1,0 +1,1 @@
+lar[69593]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> <i>c</i>. ξοανοποιΐα LUC. <i>Syr. 34</i>.<p><b>Étym</b>. ξ. ἔργον.`

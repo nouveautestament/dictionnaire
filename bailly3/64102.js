@@ -1,0 +1,1 @@
+lar[64102]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> hydromel, <i>boisson faite d’eau miellée,</i> PLUT. <i>Cor. 3</i>.<p><b>Étym</b>. μέλι.`

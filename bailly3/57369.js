@@ -1,0 +1,1 @@
+lar[57369]=`<i>ou</i> <b>Κοτυτώ, οῦς (ἡ)</b> Kotyttô <i>ou</i> Kotytô, <i>déesse de l’impudicité, d’origine thrace, et honorée à Corinthe,</i> EUP. <i>2-1, 450 Meineke</i>.`

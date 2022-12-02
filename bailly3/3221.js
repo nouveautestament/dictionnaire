@@ -1,0 +1,1 @@
+lar[3221]=`<font color="purple">[στᾰ]</font> <i>adv</i>., dans l’agitation, dans le trouble, ISOCR. <i>401b</i>.`

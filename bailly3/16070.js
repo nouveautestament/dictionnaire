@@ -1,0 +1,1 @@
+lar[16070]=`<b>ἄ·σπληνος, ος, ον</b>, bon pour les maladies de la rate, DIOSC. <i>Parab. 2, 4</i> ; τὸ ἄσπληνον, DIOSC. <i>3, 151,</i> daurade <i>ou</i> ceterach, <i>sorte de fougère, réputée bonne contre ces maladies</i>.<p><b>Étym</b>. ἀ, σπλήν.`

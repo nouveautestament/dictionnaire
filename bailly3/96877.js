@@ -1,0 +1,1 @@
+lar[96877]=`<b>ου (ὁ) :<br>      1</b> petit coin, HPC. <i>Mochl. 863</i>.<br><b>      2</b> <i>p. anal</i>. nombre dont les trois facteurs sont inégaux, <i>par ex. 3 × 4 × 5 = 60,</i> NICOM. <i>Arithm. 118, 131</i>.<br><b>      3</b> bandage, ceinture, P. ÉG. <i>6, 4, 91</i>.<p><b>Étym</b>. σφήν.`

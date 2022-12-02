@@ -1,0 +1,1 @@
+lar[79434]=`<b>περι·στύφω</b> <font color="purple">[ῡ]</font> faire sécher en condensant, condenser, PLUT. <i>M. 659c</i>.`

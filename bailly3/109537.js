@@ -1,0 +1,1 @@
+lar[109537]=`<b>ας (ἡ) :<br>      1</b> action de chanter en s’accompagnant de la harpe, ARSTD. <i>t. 2, 310</i>.<br><b>      2</b> chant <i>ou</i> composition de psaumes, NAZ.<p><b>Étym</b>. ψαλμῳδός.`

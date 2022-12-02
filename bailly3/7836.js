@@ -1,0 +1,1 @@
+lar[7836]=`<b>ἄν·αυρος, ος, ον</b>, sans brise, sans souffle, LYC. <i>1424</i> ; MOSCH. <i>2, 31</i>.<p><b>Étym</b>. ἀν-, αὔρα.`

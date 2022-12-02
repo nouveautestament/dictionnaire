@@ -1,0 +1,1 @@
+lar[70358]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> maisonnette, AR. <i>Nub. 92</i> ; LYS. <i>92, 27</i> ; PLAT. <i>Eryx. 394d ; avec idée de mépris,</i> DÉM. <i>1319, 12</i>.<br><b>      2</b> petite tour qu’on plaçait sur le dos des éléphants, POL. (SUID. <i>v°</i> θωράκιον).<p>➳ Par crase τᾠκίδιον, AR. <i>Nub. 92</i>.<p><b>Étym</b>. οἶκος.`

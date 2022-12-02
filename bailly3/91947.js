@@ -1,0 +1,1 @@
+lar[91947]=`<b>σπληνόω-ῶ :<br>      1</b> entourer d’un bandage, d’une compresse, ORIB. <i>p. 99 Cocch.</i><br><b>      2</b> <i>p. anal</i>. comprimer, PHILSTR. <i>V. Ap. 350</i>.<p><b>Étym</b>. σπλήν.`

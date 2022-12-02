@@ -1,0 +1,1 @@
+lar[22825]=`<b>γυναικό·ψυχος, ος, ον</b> <font color="purple">[ῠῡ]</font> qui a une âme de femme, PROCL. <i>Ptol. p. 228</i>.<p><b>Étym</b>. γ. ψυχή.`

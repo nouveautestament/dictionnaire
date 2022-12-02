@@ -1,0 +1,1 @@
+lar[58193]=`<font color="purple">[ῠ]</font> <i>adv. c</i>. κρυφαίως, LUC. <i>Philops. 9</i>.`

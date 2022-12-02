@@ -1,0 +1,1 @@
+lar[17172]=`<b>αὐλακο·τομέω-ῶ</b> (<i>seul. part. prés. pass</i>.) <font color="purple">[ᾰ]</font> creuser des sillons, SEXT. <i>M. 9, 40</i>.<p><b>Étym</b>. αὖλαξ, -τόμος <i>de</i> τέμνω.`

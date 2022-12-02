@@ -1,0 +1,1 @@
+lar[82584]=`<b>πολύ·χροος-ους, οος-ους, οον-ουν</b>, de couleurs nombreuses <i>ou</i> diverses, ARSTT. <i>H.A. 1, 10, 2, etc</i>.<p>➳ <i>Poét</i>. πουλύχροος, OPP. <i>C. 4, 389</i>.<p><b>Étym</b>. π. χρόα.`

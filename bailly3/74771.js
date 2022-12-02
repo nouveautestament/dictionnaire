@@ -1,0 +1,1 @@
+lar[74771]=`<b>παμ·φάρμακος, ος, ον</b> <font color="purple">[μᾰ]</font> qui connaît <i>ou</i> manie tous les poisons, PD. <i>P. 4, 415</i>.<p><b>Étym</b>. π. φάρμακον.`

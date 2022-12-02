@@ -1,0 +1,1 @@
+lar[100222]=`<b>τρι·ημιτόνιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> <i>t. de mus</i>. un ton et demi, EUCL. <i>Intr. harm. 3, p. 188, l. 21</i> ; PLUT. <i>M. 389e, 430a</i>.<p><b>Étym</b>. τρ. ἡ.`

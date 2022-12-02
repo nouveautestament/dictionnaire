@@ -1,0 +1,1 @@
+lar[50900]=`<b>κακό·φατις</b>, <i>gén</i>. <b>ιδος</b> <font color="purple">[ᾰᾰῐδ]</font> <i>adj. f</i>. de mauvais augure, ESCHL. <i>Pers. 936</i>.<p><b>Étym</b>. κ. φάτις.`

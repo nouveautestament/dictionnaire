@@ -1,0 +1,1 @@
+lar[74977]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>s.e</i>. δεῖμα, frayeur panique, EN. TACT. <i>Pol. 27</i>.<p><b>Étym</b>. Πάν.`

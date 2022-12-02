@@ -1,0 +1,1 @@
+lar[24917]=`<b>δια·λείβομαι</b>, (<i>seul. part. prés</i>.) couler dans des directions différentes, PLUT. <i>M. 136b</i>.`

@@ -1,0 +1,1 @@
+lar[106378]=`<b>ω (ὁ)</b> sorte d’osier <i>ou</i> de jonc aquatique, AR. <i>Ran. 244, fr. 85</i> ; ARSTT. <i>H.A. 9, 40, 49</i> ; TH. <i>H.P. 4, 8, 1, etc</i>.`

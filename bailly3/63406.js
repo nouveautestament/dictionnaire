@@ -1,0 +1,1 @@
+lar[63406]=`<b>μεγαλό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> aux grands pieds, ARSTT. <i>H.A. 9, 21</i>.<p><b>Étym</b>. μ. πούς.`

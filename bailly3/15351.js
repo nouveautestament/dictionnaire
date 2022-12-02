@@ -1,0 +1,1 @@
+lar[15351]=`<b>ἀρτι·λόχευτος, ος, ον</b> <font color="purple">[ῐ]</font> qui vient d’être mis au monde, nouveau-né, A. PL. <i>122</i> ; NONN. <i>D. 3, 386, etc</i>.<p><b>Étym</b>. ἄ. λοχεύω.`

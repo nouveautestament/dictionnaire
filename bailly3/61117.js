@@ -1,0 +1,1 @@
+lar[61117]=`<font color="purple">[ῐφῐ]</font> <i>adv</i>., de côté, obliquement, IL. <i>14, 463</i> ; OD. <i>19, 451</i>.<p><b>Étym</b>. λέχριος.`

@@ -1,0 +1,1 @@
+lar[28847]=`<b>δύσ·ποτος, ος, ον</b>, difficile à boire, ESCHL. <i>Eum. 266</i>.<p><b>Étym</b>. δ. πίνω.`

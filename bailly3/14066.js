@@ -1,0 +1,1 @@
+lar[14066]=`<font color="purple">[ᾰ]</font> <i>adv. réc. c</i>. ἄπωθεν Q. SM. <i>6, 647</i> ; ANTH. <i>7, 172</i>.`

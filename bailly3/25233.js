@@ -1,0 +1,1 @@
+lar[25233]=`<b>δια·περαίνω :<br>      1</b> mener à terme : ὁδόν, PLAT. <i>Leg. 625b</i>, arriver au terme d’un voyage.<br><b>      2</b> exposer <i>ou</i> raconter jusqu’au bout, EUR. <i>Andr. 333</i> ; PLAT. <i>Phil. 47b.</i><br><b><i>Moy.</i></b> mener à terme : λόγον, PLAT. <i>Phædr. 263e</i>, son discours ; κρίσιν, EUR. <i>Hel. 26</i>, terminer un différend.`

@@ -1,0 +1,1 @@
+lar[10345]=`<b>ἀντι·προσφέρω</b>, apporter à son tour, XÉN. <i>Conv. 5, 9</i>.`

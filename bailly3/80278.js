@@ -1,0 +1,1 @@
+lar[80278]=`<b>ίδος (ἡ)</b> sorte de laitue amère, ARSTT. <i>H.A. 9, 6, 8</i> ; TH. <i>H.P. 7, 11, 4</i>.<p><b>Étym</b>. πικρός.`

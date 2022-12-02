@@ -1,0 +1,1 @@
+lar[82190]=`<b>πολύ·ολβος, ος, ον :<br>   I <i>intr.</i> :<br>      1</b> très heureux <i>ou</i> très riche, DP. <i>934</i> ; ANTH. <i>6, 114, etc.</i><br><b>      2</b> très abondant, <i>en parl. d’un repas,</i> ANTH. <i>9, 642</i>.<br><b>   II</b> <i>act</i>. qui rend très heureux, SAPPH. <i>fr. 59 (58) Bgk</i> ; ANTH. <i>8, 1, etc</i>.`

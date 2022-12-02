@@ -1,0 +1,1 @@
+lar[33089]=`<b>ἐμβατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> entrer dans, NIC. <i>Th. 147</i>.<br><b>      2</b> monter sur, saillir, ANTH. <i>7, 657</i>.<p><b>Étym</b>. ἐμβάτης.`

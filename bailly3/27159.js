@@ -1,0 +1,1 @@
+lar[27159]=`<b>ος, ον</b>, garni d’un siège, MÉLANIPP. (ATH. <i>651f</i>).<p><b>Étym</b>. δίφρος, ἔχω.`

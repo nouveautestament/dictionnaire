@@ -1,0 +1,1 @@
+lar[15901]=`<b>ίδος (ἡ)</b> <font color="purple">[κᾰῐδ]</font><br><b>      1</b> petit ver intestinal, HPC. <i>Aph. 1248</i> ; ARSTT. <i>H.A. 5, 19, 4</i>.<br><b>      2</b> larve de cousin, ARSTT. <i>H.A. 5, 19, 14</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec, cf</i>. ἀ <i>proth</i>.`

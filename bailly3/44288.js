@@ -1,0 +1,1 @@
+lar[44288]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de vipère ; <i>subst</i>. ὁ ἐχ. (<i>s.-e</i>. λίθος) PLIN. <i>H.N. 37, 11,</i> vipérine, <i>pierre précieuse</i>.<p><b>Étym</b>. ἔχις.`

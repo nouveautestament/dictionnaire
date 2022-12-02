@@ -1,0 +1,1 @@
+lar[50917]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> voix <i>ou</i> son désagréable, STR. <i>618</i> ; D. PHAL. <i>§ 255</i>.<p><b>Étym</b>. κακόφωνος.`

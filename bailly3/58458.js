@@ -1,0 +1,1 @@
+lar[58458]=`<b>κυδρόω-ῶ</b> <font color="purple">[ῡ]</font> glorifier, <i>au pass</i>. se glorifier, EL. <i>N.A. 4, 29</i>.<p><b>Étym</b>. κυδρός.`

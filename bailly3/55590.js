@@ -1,0 +1,1 @@
+lar[55590]=`<b>ου</b>, <i>épq</i>. <b>οιο (ἡ)</b> Kisamos (<i>auj</i>. Kísamos, <i>anc</i>. Kastéli Kisámou) <i>v. de Crète,</i> NONN. <i>D. 13, 237</i>.`

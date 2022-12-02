@@ -1,0 +1,1 @@
+lar[9937]=`<b>ἀντι·καταστρατοπεδεύω</b> <font color="purple">[ρᾰ]</font> camper en face, DH. <i>8, 84</i>.`

@@ -1,0 +1,1 @@
+lar[24331]=`<b>Δημο·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Dèmophanès, <i>h</i>. LYS. (<i>acc</i>. -ην) ; POL. <i>10, 25, 2</i>.`

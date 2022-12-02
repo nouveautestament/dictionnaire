@@ -1,0 +1,1 @@
+lar[20291]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de sarcler, GEOP. <i>2, 24</i>.<p><b>Étym</b>. βοτανίζω.`

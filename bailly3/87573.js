@@ -1,0 +1,1 @@
+lar[87573]=`<b>Πυθο·γένης, ους</b>, <i>acc</i>. <b>-εα (ὁ)</b> <font color="purple">[ῡ]</font> Pythogénès, <i>h</i>. HDT. <i>6, 23</i>.<p><b>Étym</b>. Πυθώ, γένος.`

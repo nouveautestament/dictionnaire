@@ -1,0 +1,1 @@
+lar[10568]=`importer <i>ou</i> recevoir en échange de marchandises exportées, DÉM. <i>926, 11 ; 931, 1</i>.<br><b><i>Moy.</i></b> importer une cargaison en échange de celle qu’on a exportée, XÉN. <i>Vect. 3, 2</i> ; DÉM. <i>931, 13, etc</i>.<p><b>Étym</b>. ἀντίφορτος.`

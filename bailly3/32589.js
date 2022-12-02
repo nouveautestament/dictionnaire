@@ -1,0 +1,1 @@
+lar[32589]=`<b>ἐλαχυ·πτέρυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> aux ailes courtes, PD. <i>P. 4, 29</i>.<p><b>Étym</b>. ἐ. πτερόν.`

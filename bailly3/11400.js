@@ -1,0 +1,1 @@
+lar[11400]=`<b>ἀ·παρόρμητος</b>, <i>seul. dor</i>. <b>ἀπαρόρματος, ος, ον</b> <font color="purple">[μᾱ]</font> non excité, inerte, THÉAGÈS (STOB. <i>Fl. 1, 69).</i><p><b>Étym</b>. ἀ, παρορμάω.`

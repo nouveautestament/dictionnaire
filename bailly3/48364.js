@@ -1,0 +1,1 @@
+lar[48364]=`<b>ος, ον</b> <font color="purple">[ῑᾰ]</font> qui provoque la sueur, HÉS. <i>O. 417</i>.<p><b>Étym</b>. ἶδος.`

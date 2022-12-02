@@ -1,0 +1,1 @@
+lar[59054]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> courbé en avant, voûté, AR. <i>Ach. 703</i> ; γήραϊ κυφός, OD. <i>2, 16, ou</i> διὰ γῆρας, DL. <i>6, 92,</i> courbé par la vieillesse.<p><b>Étym</b>. <i>v</i>. κῦφος.`

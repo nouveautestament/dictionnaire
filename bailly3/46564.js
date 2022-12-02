@@ -1,0 +1,1 @@
+lar[46564]=`<b>θεμερ·ῶπις, ιδος</b>, <i>adj. f</i>. qui a l’air posé, l’aspect grave, EMPÉD. <i>23 Mullach ; d’où</i> réservé, timide, ESCHL. <i>Pr. 134</i>.<p><b>Étym</b>. θέμερος, ὤψ.`

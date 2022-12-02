@@ -1,0 +1,1 @@
+lar[99962]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. τάφρος, J. AFR. <i>p. 314 Veterum mathematicorum opera, Thévenot</i>.`

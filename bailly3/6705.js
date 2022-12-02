@@ -1,0 +1,1 @@
+lar[6705]=`<b>εως (ἡ)</b> action de repincer (<i>propr</i>. de remordre) une racine, TH. <i>C.P. 3, 17, 5</i>.<p><b>Étym</b>. ἀναδάκνω.`

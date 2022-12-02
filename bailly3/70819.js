@@ -1,0 +1,1 @@
+lar[70819]=`<b>ὀκτά·γωνος, ος, ον</b>, à huit angles, A. TR. <i>9, p. 165</i> ; NICOM. <i>Arithm. 2, 11, 3, p. 95 Hoche</i>.<p><b>Étym</b>. ὀ. γωνία.`

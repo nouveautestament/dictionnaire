@@ -1,0 +1,1 @@
+lar[6309]=`<b>ἀμφι·πετάννυμι</b> (<i>seul. part. ao. poét</i>. -πετάσσας) déployer tout autour, ORPH. <i>Lith. 643</i>.`

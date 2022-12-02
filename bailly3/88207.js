@@ -1,0 +1,1 @@
+lar[88207]=`<b>ης (ἡ)</b> <i>n. du pétrole chez les Perses,</i> HDT. <i>6, 119, 4</i>.`

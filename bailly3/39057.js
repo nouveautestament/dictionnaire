@@ -1,0 +1,1 @@
+lar[39057]=`<b>ἐπι·σπλαγχνίζομαι</b>, sentir ses entrailles remuées par, s’émouvoir de, SPT. <i>Prov. 17, 5</i> ; SYMM. <i>Deut. 13, 8</i>.<p><b>Étym</b>. ἐπί, σπλάγχνον.`

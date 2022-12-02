@@ -1,0 +1,1 @@
+lar[20565]=`<b>βου·φορβός, ός, όν</b>, qui fait paître <i>ou</i> nourrit des bœufs, EUR. <i>I.T. 462</i> ; ὁ β. EUR. <i>I.T. 237</i> ; PLAT. <i>Pol. 268a</i>, bouvier <i>ou</i> éleveur de bœufs.<p><b>Étym</b>. βοῦς, φέρβω.`

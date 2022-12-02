@@ -1,0 +1,1 @@
+lar[93253]=`<b>συγ·καλινδέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> se rouler ensemble, PLUT. <i>M. 795, 902c</i>.`

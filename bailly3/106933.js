@@ -1,0 +1,1 @@
+lar[106933]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Fronto ; <i>n. d’h. rom</i>. ANTH. <i>12, 174</i>.`

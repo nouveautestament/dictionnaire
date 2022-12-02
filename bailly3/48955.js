@@ -1,0 +1,1 @@
+lar[48955]=`<b>η, ον</b> <font color="purple">[ῐμ]</font> fait avec des courroies, HDT. <i>4, 189</i> ; HPC. <i>Art. 837</i>.<p><b>Étym</b>. ἱμάς.`

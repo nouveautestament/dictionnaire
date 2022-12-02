@@ -1,0 +1,1 @@
+lar[25246]=`<b>ατος (τὸ)</b> rideau de séparation, voile, NYSS. <i>1, 637d</i>.`

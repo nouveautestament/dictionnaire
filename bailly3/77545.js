@@ -1,0 +1,1 @@
+lar[77545]=`<b>πεδι·οπλό·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui fait retentir la plaine du pied des chevaux, ESCHL. <i>Sept. 83 vulg</i>.<p><b>Étym</b>. π. ὁπλή, κτυπέω.`

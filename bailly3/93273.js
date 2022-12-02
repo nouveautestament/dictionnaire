@@ -1,0 +1,1 @@
+lar[93273]=`<b>συγ·καταβιβάζω</b> <font color="purple">[ῐ]</font> faire descendre ensemble, <i>acc</i>. POL. <i>5, 70, 8</i>.`

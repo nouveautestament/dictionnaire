@@ -1,0 +1,1 @@
+lar[76176]=`<b>παρα·σεσυρμένως</b>, <i>adv</i>., d’une manière dérisoire, PHIL. <i>2, 599</i>.<p><b>Étym</b>. π. σύρω.`

@@ -1,0 +1,1 @@
+lar[90560]=`<b>σιτο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui transporte du blé <i>ou</i> des vivres, HDT. <i>1, 80, etc.</i><br><b>      2</b> qui produit du blé, TH. <i>H.P. 8, 2, 8</i> ; PHIL. <i>2, 390</i>.<p><b>Étym</b>. σ. φέρω.`

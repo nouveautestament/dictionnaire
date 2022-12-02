@@ -1,0 +1,1 @@
+lar[26701]=`<b>ῶν (οἱ)</b> sectateurs de Diogène, ATH. <i>186a</i>.<p><b>Étym</b>. Διογένης.`

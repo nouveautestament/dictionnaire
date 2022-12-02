@@ -1,0 +1,1 @@
+lar[39422]=`<b>ἐπι·τίμαιος, ου (ὁ)</b> <font color="purple">[τῑ]</font> le détracteur, <i>surn. (avec jeu de mot) de l’historien Timée de Tauromenium,</i> ISTER (ATH. <i>272b</i>) ; DS. <i>5, 1</i>.<p><b>Étym</b>. ἐπί, Τιμαῖος, <i>cf</i>. ἐπιτιμάω.`

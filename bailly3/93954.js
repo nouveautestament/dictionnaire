@@ -1,0 +1,1 @@
+lar[93954]=`<b>συμ·μετακινέω-ῶ</b> <font color="purple">[ῑ]</font> déplacer ensemble <i>ou</i> en même temps, GAL. <i>10, 101</i>.`

@@ -1,0 +1,1 @@
+lar[32447]=`<font color="purple">[ᾱ]</font> planter des oliviers, cultiver l’olivier, AR. <i>fr. 167</i>.<p><b>Étym</b>. ἐλαία.`

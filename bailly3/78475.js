@@ -1,0 +1,1 @@
+lar[78475]=`<b>περι·βώμιον, ου (τὸ)</b> pourtour de l’autel, SPT. <i>2Par. 34, 3</i>.<p><b>Étym</b>. π. βωμός.`

@@ -1,0 +1,1 @@
+lar[20872]=`<b>βροτο·σσόος, ος, ον</b>, qui sauve les mortels, ORPH. <i>Lith. 750</i>.<p><b>Étym</b>. βρ. σῴζω.`

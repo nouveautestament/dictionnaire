@@ -1,0 +1,1 @@
+lar[22580]=`<font color="purple">[μᾰῐ]</font> <i>adv</i>., selon les règles de la grammaire, PLAT. <i>Theæt. 207a ;</i> ARSTT. <i>Nic. 2, 3 ; p. ext</i>. en lettré, PLUT. <i>M. 405a</i>.<p><b>Étym</b>. <i>p. opp. à</i> ἀγράμματος.`

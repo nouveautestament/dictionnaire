@@ -1,0 +1,1 @@
+lar[18794]=`<b>βαθυ·πρήων, ονος (ὁ, ἡ)</b> <font color="purple">[ᾰυ]</font> aux roches escarpées, P. SIL. <i>Ecphr. ag. Soph. 636</i>.<p><b>Étym</b>. β. πρηών.`

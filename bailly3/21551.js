@@ -1,0 +1,1 @@
+lar[21551]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. γειτνίασις, ALCIPHR. <i>1, 3, 3, conj</i>.<p><b>Étym</b>. γειτονιάω.`

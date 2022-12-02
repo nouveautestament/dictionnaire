@@ -1,0 +1,1 @@
+lar[25478]=`<font color="purple">[ῠᾱ]</font> <i>dor. c</i>. *διαρρύδην, <i>adv</i>., en passant comme l’eau qui coule, <i>ou</i> en se dissolvant, <i>càd</i>. sans laisser de trace, ESCHL. <i>Ch. 65</i>.<p><b>Étym</b>. <i>th</i>. διαρρυ- <i>de</i> διαρρέω, <i>et</i> -δην.`

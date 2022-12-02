@@ -1,0 +1,1 @@
+lar[15999]=`<i>adv</i>., sans sagesse, sottement, DS. <i>2, 29</i>.`

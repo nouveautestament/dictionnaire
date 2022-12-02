@@ -1,0 +1,1 @@
+lar[108836]=`<b>χοροστατέω-ῶ</b> <font color="purple">[ᾰ]</font>, conduire un chœur <i>ou</i> comme un chœur, PHIL. <i>2, 266</i>.<p><b>Étym</b>. χοροστάτης.`

@@ -1,0 +1,1 @@
+lar[12014]=`<b>ἀπίτης οἶνος (ὁ)</b> <font color="purple">[ᾰῑ]</font> cidre de poires, poiré, DIOSC. <i>5, 32</i> ; GEOP. <i>8, 5</i>.<p><b>Étym</b>. ἄπιον.`

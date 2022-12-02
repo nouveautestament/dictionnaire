@@ -1,0 +1,1 @@
+lar[59713]=`<b>οῦς (ἡ)</b> Lampidô, <i>f</i>. PLAT. <i>1 Alc. 123e ;</i> PLUT. <i>Ages. 1</i>.`

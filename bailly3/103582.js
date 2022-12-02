@@ -1,0 +1,1 @@
+lar[103582]=`<b>ὑπο·ναίω</b> (<i>seul. prés</i>.) habiter sous, <i>acc</i>. ANTH. <i>App. 268</i>.`

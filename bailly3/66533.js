@@ -1,0 +1,1 @@
+lar[66533]=`<b>ας (ἡ)</b> manière d’être uniforme, homogénéité, SEXT. <i>M. 1, 117</i>.<p><b>Étym</b>. μονοειδής.`

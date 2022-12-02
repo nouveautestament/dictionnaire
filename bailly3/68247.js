@@ -1,0 +1,1 @@
+lar[68247]=`<i>att</i>. <b>νεοττιά, ᾶς (ἡ) :<br>      1</b> nid, HDT. <i>3, 111</i> ; XÉN. <i>Hell. 7, 5, 10</i> ; PLAT. <i>Rsp. 548a.</i><br><b>      2</b> <i>p. anal</i>. ruche d’abeilles, JOS. <i>Macc. 14</i>.<p>➳ <i>Ion</i>. νεοσσιή, HDT. <i>l. c</i>.<p><b>Étym</b>. νεοττός.`

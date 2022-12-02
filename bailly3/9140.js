@@ -1,0 +1,1 @@
+lar[9140]=`<b>ἀν·ισχάνω</b>, tenir en haut, ORPH. <i>Arg. 445 ; cf</i>. ἀνέχω.`

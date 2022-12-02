@@ -1,0 +1,1 @@
+lar[62058]=`<b>ης (ἡ)</b> <font color="purple">[ῡᾰτ]</font> Lysistratè, <i>f. titre d’une comédie d’Aristophane</i>.<p><b>Étym</b>. <i>v</i>. Λυσίστρατος.`

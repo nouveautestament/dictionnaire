@@ -1,0 +1,1 @@
+lar[28347]=`<b>δυσ·εκλάλητος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à exprimer par la parole, DH. <i>Lys. 11</i>.<p><b>Étym</b>. δ. ἐκλαλέω.`

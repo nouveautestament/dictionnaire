@@ -1,0 +1,1 @@
+lar[55392]=`<b>οῦ (ὁ)</b> mouvement des hanches, HPC. <i>791h, etc</i>.<p><b>Étym</b>. κιγκλίζω.`

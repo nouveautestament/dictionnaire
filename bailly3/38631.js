@@ -1,0 +1,1 @@
+lar[38631]=`<b>ἐπι·παρουσία, ας (ἡ)</b> présence au-dessus de (l’horizon) <i>t. d’astr</i>. P. ALEX. <i>Apot. 26, p. 75, l. 11 Boer</i>.`

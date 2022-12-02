@@ -1,0 +1,1 @@
+lar[63831]=`<b>μελαν·άετος, ου (ὁ)</b> aigle <i>ou</i> faucon noir (<i>Falco fulvus</i> L.) ARSTT. <i>H.A. 9, 32</i>.<p><b>Étym</b>. μέλας, ἀετός.`

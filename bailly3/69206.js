@@ -1,0 +1,1 @@
+lar[69206]=`<b>ατος (τὸ) :<br>      1</b> mariage, <i>d’ord. au plur</i>. SOPH. <i>O.R. 980</i> ; EUR. <i>Ph. 1204, etc.</i><br><b>      2</b> jeune femme, épouse, EUR. <i>Tr. 420</i>.<p><b>Étym</b>. νυμφεύω.`

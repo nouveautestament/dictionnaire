@@ -1,0 +1,1 @@
+lar[62819]=`<b>ατος (τὸ)</b> réponse d’un oracle, HÉS. <i>fr. 39, 8 Gaisford</i> ; PD. <i>P. 4, 73, etc.</i> ; SOPH. <i>O.R. 992, etc.</i> ; PLAT. <i>Ep. 311d ;</i> PAUS. <i>3, 8, 5</i>.<p><b>Étym</b>. μαντεύομαι.`

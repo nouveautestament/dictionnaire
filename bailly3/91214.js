@@ -1,0 +1,1 @@
+lar[91214]=`<b>ας (ἡ)</b> <font color="purple">[δῑ]</font> <i>c</i>. σκοτοδίνη PLAT. <i>Soph. 264c</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>V. med. 12, 11, 144a, etc</i>.`

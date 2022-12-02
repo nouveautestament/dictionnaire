@@ -1,0 +1,1 @@
+lar[100741]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Trophimos, <i>h</i>. MÉN. (ATH. <i>781f</i>).<p><b>Étym</b>. <i>v</i>. τρόφιμος.`

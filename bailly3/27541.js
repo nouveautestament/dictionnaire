@@ -1,0 +1,1 @@
+lar[27541]=`<b>ή, όν</b>, glorieux, <i>d’où</i> magnifique (vêtement) SPT. <i>2Macc. 8, 35</i>.<p><b>Étym</b>. δόξα.`

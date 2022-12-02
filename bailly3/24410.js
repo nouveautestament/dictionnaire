@@ -1,0 +1,1 @@
+lar[24410]=`<b>ου (ὁ)</b> <font color="purple">[βᾰ]</font> qui traverse, AR. <i>fr. 726</i>.<p><b>Étym</b>. διαβαίνω.`

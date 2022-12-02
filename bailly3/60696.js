@@ -1,0 +1,1 @@
+lar[60696]=`<b>ου (τὸ)</b> temple élevé dans le Céramique en l’honneur des filles de Léôs, THC. <i>1, 20</i> ; DÉM. <i>1258, 25 ; 1259, 6</i>.<p><b>Étym</b>. Λεωκόραι.`

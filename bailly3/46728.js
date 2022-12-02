@@ -1,0 +1,1 @@
+lar[46728]=`<b>θεο·ξένιος, ου</b>, <i>adj. m</i>. protecteur des hôtes, <i>ép. d’Apollon,</i> PAUS. <i>7, 27, 4</i> ; τὰ θεοξένια, <i>fête en l’honneur d’Apollon, à Pellène,</i> PAUS. ibid. ; à Delphes, ATH. <i>372a ; en l’honneur des Dioscures, à Agrigente,</i> PLUT. <i>M. 557f</i>.<p><b>Étym</b>. θ. ξένος.`

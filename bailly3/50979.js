@@ -1,0 +1,1 @@
+lar[50979]=`<b>ου (ὁ)</b> Kalaminthios, <i>càd</i>. friand de calament, <i>n. de grenouille,</i> BATR. <i>227</i>.<p><b>Étym</b>. καλαμίνθη.`

@@ -1,0 +1,1 @@
+lar[67298]=`<b>μυρμηκίτης λίθος (ὁ)</b> pierre précieuse tachetée comme d’empreintes de fourmis, PLIN. <i>H.N. 37, 72</i>.<p><b>Étym</b>. μύρμηξ.`

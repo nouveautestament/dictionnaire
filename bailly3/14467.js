@@ -1,0 +1,1 @@
+lar[14467]=`<b>Ἀρετα·φίλα (ἡ)</b> <font color="purple">[ᾰτᾱ]</font> Arétaphila, <i>f</i>. PLUT. <i>M. 255e</i>.<p><b>Étym</b>. ἀρετή, φίλος.`

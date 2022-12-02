@@ -1,0 +1,1 @@
+lar[33327]=`<b>ἐμ·παλάσσω</b> <font color="purple">[πᾰ]</font> embarrasser, <i>d’où au pass</i>. s’embarrasser, s’emmêler, s’empêtrer, <i>avec</i> ἐν <i>et le dat</i>. HDT. <i>7, 85 ; avec le dat</i>. EL. <i>N.A. 15, 1 ; abs</i>. THC. <i>7, 84</i>.<p><b>Étym</b>. ἐν, π.`

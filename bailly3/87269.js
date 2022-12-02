@@ -1,0 +1,1 @@
+lar[87269]=`<b>ός, όν</b>, qui agit <i>ou</i> opère le premier, primitif, PLAT. <i>Leg. 897a</i>.<p><b>Étym</b>. πρ. ἔργον.`

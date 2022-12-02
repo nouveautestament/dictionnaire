@@ -1,0 +1,1 @@
+lar[93265]=`<b>συγ·καρκινόομαι-οῦμαι</b> <font color="purple">[ῐ]</font> enlacer ses racines, <i>en parl. du blé,</i> PHÉRÉCR. (<i>Com. fr. 2, 264</i>).`

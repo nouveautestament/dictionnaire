@@ -1,0 +1,1 @@
+lar[106379]=`<b>φληναφάω-ῶ</b> <font color="purple">[ᾰφ]</font> bavarder à tort et à travers, radoter, AR. <i>Eq. 664, Nub. 1475</i>.<p><b>Étym</b>. φλήναφος ; <i>cf</i>. φληναφέω.`

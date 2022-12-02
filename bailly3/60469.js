@@ -1,0 +1,1 @@
+lar[60469]=`<b>ά, όν</b> <font color="purple">[ῡ]</font> recouvert d’une enveloppe (peau, cosse, écale, <i>etc</i>.) NIC. <i>Th. 136, 803</i>.<p><b>Étym</b>. <i>v</i>. λέπυρον.`

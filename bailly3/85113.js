@@ -1,0 +1,1 @@
+lar[85113]=`<b>προσ·αλείφω</b> <font color="purple">[ᾰ]</font> enduire, <i>acc</i>. PLUT. <i>M. 559f ;</i> τινί τι, OD. <i>10, 392,</i> appliquer un enduit, un onguent sur qqn ; <i>au pass</i>. PLUT. <i>M. 911d</i>.`

@@ -1,0 +1,1 @@
+lar[79637]=`<b>περι·φρουρέω-ῶ</b>, entourer d’une garde ; <i>acc</i>. DC. <i>40, 36 ; au pass</i>. THC. <i>3, 21</i>.`

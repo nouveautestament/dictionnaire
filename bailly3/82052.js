@@ -1,0 +1,1 @@
+lar[82052]=`<font color="purple">[ῠῡ]</font> <i>seul. fém</i>. πολυκυδίστη, <i>c</i>. πολυκυδής ANTH. <i>7, 593 ; 9, 657</i>.`

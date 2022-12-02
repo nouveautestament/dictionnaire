@@ -1,0 +1,1 @@
+lar[28605]=`<b>δυσ·κόμιστος, ος, ον</b>, difficile à supporter, intolérable, SOPH. <i>Ant. 1346</i> ; EUR. <i>H.f. 1422</i>.<p><b>Étym</b>. δ. κομίζω.`

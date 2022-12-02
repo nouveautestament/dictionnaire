@@ -1,0 +1,1 @@
+lar[100993]=`<b>ου (ὁ)</b> caisse, coffre, DC.`

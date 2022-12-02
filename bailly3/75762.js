@@ -1,0 +1,1 @@
+lar[75762]=`<b>παρα·κοιμίζω</b>, faire coucher à côté, ALEX. POLYHIST. (EUS. <i>P.E. 423a</i>).`

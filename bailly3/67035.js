@@ -1,0 +1,1 @@
+lar[67035]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. μυθητής, PHŒN. COL. (ATH. <i>530a</i>).`

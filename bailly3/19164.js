@@ -1,0 +1,1 @@
+lar[19164]=`<b>βαρύ·λυπος, ος, ον</b> <font color="purple">[ᾰῠῡ]</font> <i>seul</i>. <i>• Sup</i>. -ότατος, accablé de chagrin, PLUT. <i>M. 114f</i>.<p><b>Étym</b>. β. λύπη.`

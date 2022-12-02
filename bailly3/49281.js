@@ -1,0 +1,1 @@
+lar[49281]=`imiter le sophiste Hippias, PHILSTR. <i>604</i>.<p><b>Étym</b>. Ἱππίας.`

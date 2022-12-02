@@ -1,0 +1,1 @@
+lar[97031]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> figure de danse, HDT. <i>6, 129</i>.<br><b>      2</b> figure de style, LGN <i>17, 1</i>.<p><b>Étym</b>. σχῆμα.`

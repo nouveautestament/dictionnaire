@@ -1,0 +1,1 @@
+lar[103133]=`<b>ης (ἡ)</b> <font color="purple">[ῐ, <i>p. exc</i>. ῑ]</font> préparatifs pour une réception, <i>d’où</i> réception, IL. <i>9, 73</i>.<p><b>Étym</b>. <i>fém. ion. de</i> ὑποδέξιος.`

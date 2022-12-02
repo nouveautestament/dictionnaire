@@ -1,0 +1,1 @@
+lar[16284]=`<b>ἀστραποβολέω-ῶ</b> <font color="purple">[ᾰπ]</font> lancer des éclairs, EUM. (<i>var</i>. ἀστραπηβ-).<p><b>Étym</b>. ἀστραπή, -βολος <i>de</i> βάλλω.`

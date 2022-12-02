@@ -1,0 +1,1 @@
+lar[22699]=`<b>ων (τὰ)</b> amarres d’un navire, ANTH. <i>10, 1</i>.<p><b>Étym</b>. γύης.`

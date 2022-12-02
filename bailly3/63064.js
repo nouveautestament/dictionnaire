@@ -1,0 +1,1 @@
+lar[63064]=`<b>(ὁ)</b> = <i>lat</i>. Massinissa, <i>roi de Numidie,</i> LUC. <i>Macr. 17</i>.`

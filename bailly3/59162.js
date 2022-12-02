@@ -1,0 +1,1 @@
+lar[59162]=`<b>ου (ὁ)</b> Kômarkhidès, <i>h</i>. AR. <i>Pax 1142</i>.<p><b>Étym</b>. <i>cf</i>. κωμάρχης.`

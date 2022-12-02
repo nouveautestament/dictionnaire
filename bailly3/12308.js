@@ -1,0 +1,1 @@
+lar[12308]=`<b>οῦ (ὁ)</b> division, HERMIAS <i>Plat. Phædr. p. 166</i>.<p><b>Étym</b>. ἀποδιορίζω.`

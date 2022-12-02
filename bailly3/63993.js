@@ -1,0 +1,1 @@
+lar[63993]=`<b>μελ·ίαμβος, ου (ὁ)</b> poète d’odes en vers ïambiques, CERCID. (DL. <i>6, 76).</i><p><b>Étym</b>. μέλι, ἴ.`

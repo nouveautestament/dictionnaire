@@ -1,0 +1,1 @@
+lar[36210]=`<b>ἐξ·οσιόω-ῶ</b>, dédier, consacrer, PLUT. <i>Cam. 20</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> <i>m. sign</i>. PLUT. <i>Arat. 53</i>.<br><b>      2</b> détourner de soi par une expiation, <i>acc</i>. DS. <i>15, 9</i>.<br><b>      3</b> accomplir les sacrifices expiatoires demandés par les dieux, PLUT. <i>M. 586f</i>.`

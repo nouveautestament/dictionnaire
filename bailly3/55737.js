@@ -1,0 +1,1 @@
+lar[55737]=`<b>ων (οἱ)</b> les habitants de Klazomènes, HDT. <i>1, 51, etc.</i> ; THC. <i>8, 14, etc</i>. (<i>v</i>. Κλαζομεναί).<p>➳ <i>Dans les inscr. att. du 5<sup>e</sup> siècle av. J.-C. l’écriture flotte entre</i> Κλαζομένιοι, CIA. <i>1, 228, 11 (452 av. J.-C.) etc., et</i> Κλαζζομένιοι, CIA. <i>230, 4 (450 av. J.-C.), v. Meisterh. p. 70, § 33, 1</i>.`

@@ -1,0 +1,1 @@
+lar[72725]=`<b>ὀρθο·λογία, ας (ἡ)</b> correction <i>ou</i> propriété du langage, PLAT. <i>Soph. 239b</i>.<p><b>Étym</b>. ὀ. λόγος.`

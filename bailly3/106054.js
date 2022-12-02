@@ -1,0 +1,1 @@
+lar[106054]=`<b>φιλό·πυρος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui aime le froment, ANTH. <i>6, 36</i>.<p><b>Étym</b>. φ. πυρός.`

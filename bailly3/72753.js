@@ -1,0 +1,1 @@
+lar[72753]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> longue tunique sans ceinture, <i>propr</i>. « qui se tient droite », AR. <i>Lys. 45</i> ; DC. <i>63, 17 et 22</i>.<p><b>Étym</b>. ὀρθοστάδην.`

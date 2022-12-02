@@ -1,0 +1,1 @@
+lar[52326]=`<b>κατα·δίδωμι :<br>      1 <i>tr.</i></b> partager, distribuer, DH. <i>Comp. 18</i>.<br><b>      2 <i>intr</i></b>. (<i>s.-e</i>. ἑαυτόν) se jeter dans, <i>avec</i> εἰς <i>et l’acc., en parl. d’un fleuve,</i> HDT. <i>4, 85</i> ; PLUT. <i>Fab. 6</i>.`

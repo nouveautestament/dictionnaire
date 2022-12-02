@@ -1,0 +1,1 @@
+lar[38247]=`<b>ἐπ·ιλαδόν</b> <font color="purple">[ῑᾰ]</font> <i>adv</i>., en foule, DP. <i>763</i>.<p><b>Étym</b>. ἐπί, ἰλαδόν.`

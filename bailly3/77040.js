@@ -1,0 +1,1 @@
+lar[77040]=`<b>ή, όν</b>, <i>au</i> <i>• Sup</i>. -ώτατος, qui est ivre et qui commet des inconvenances, AR. <i>Vesp. 1300</i>.<p><b>Étym</b>. πάροινος.`

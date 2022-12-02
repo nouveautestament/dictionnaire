@@ -1,0 +1,1 @@
+lar[5779]=`<i>adv</i>., sans peine, ESCHL. <i>Pr. 208</i> ; EUR. <i>Bacch. 194</i>.<p><b>Étym</b>. ἄμοχθος.`

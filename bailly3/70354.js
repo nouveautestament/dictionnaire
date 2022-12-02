@@ -1,0 +1,1 @@
+lar[70354]=`<b>ορος (ὁ) :<br>      1</b> habitant, HDT. <i>4, 34</i> ; XÉN. <i>Cyr. 3, 3, 31</i> ; ESCHL. <i>Suppl. 952, etc.</i> ; SOPH. <i>O.C. 728, etc.</i> ; EUR. <i>Andr. 1089</i>.<br><b>      2</b> qui colonise, colon, HDT. <i>7, 153</i> ; THC. <i>1, 26, etc</i>.<p><b>Étym</b>. οἰκέω.`

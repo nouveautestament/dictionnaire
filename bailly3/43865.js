@@ -1,0 +1,1 @@
+lar[43865]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. εὐώνυμος CORINN. <i>fr. 19</i>.`

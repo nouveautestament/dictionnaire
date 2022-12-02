@@ -1,0 +1,1 @@
+lar[16508]=`<i>(seul. prés.) éol. c</i>. ἀσυνετέω ne pas comprendre, ALC. <i>19 dout</i>.`

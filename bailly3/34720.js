@@ -1,0 +1,1 @@
+lar[34720]=`<b>ἐννεά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> à neuf lits, PHRYN. COM. (ATH. <i>47f</i>) ; DS. <i>Exc. 516, 40</i> ; THÉM. <i>223a</i>.<p><b>Étym</b>. ἐ. κλίνη.`

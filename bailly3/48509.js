@@ -1,0 +1,1 @@
+lar[48509]=`<i>ou</i> <b>ἰδῦοι, ων (οἱ)</b> témoins, SOL. (PHOT. <i>v°</i> ἰδύους) ; AR. <i>fr. 210 Bgk</i>.`

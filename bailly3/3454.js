@@ -1,0 +1,1 @@
+lar[3454]=`<b>ή, όν</b>, <i>c</i>. ἀκμαῖος, GAL. <i>2, 242 ; 6, 373 ; en parl. du style,</i> HERMOG. <i>3, 250, 16 Walz</i>.<p><b>Étym</b>. ἀκμάζω.`

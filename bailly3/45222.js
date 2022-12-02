@@ -1,0 +1,1 @@
+lar[45222]=`<b>Ἡλιό·δωρος, ου (ὁ)</b> Hèliodôros (Héliodore) :<br><b>      1</b> <i>Athénien,</i> DÉM. <i>35, 13 et 14 Baiter-Sauppe, etc.</i><br><b>      2</b> <i>autres, particul. rhéteur, auteur des Éthiopiques</i>.<p>•<i> Cp. com</i>. Ἡλιοδωρότερος, ANTH. <i>11, 134</i>.<p><b>Étym</b>. ἥ. δῶρον.`

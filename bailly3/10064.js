@@ -1,0 +1,1 @@
+lar[10064]=`<b>ἀντι·μάχομαι</b> <font color="darkgreen">(<i>ao</i>. ἀντεμαχεσάμην)</font> <font color="purple">[μᾰ]</font> lutter contre, résister, THC. <i>4, 68</i> ; PLUT. <i>M. 1156b, etc</i>.`

@@ -1,0 +1,1 @@
+lar[75975]=`<b>παρα·νέομαι</b> (<i>seul. prés</i>.) passer devant <i>ou</i> le long de, <i>acc</i>. A.RH. <i>2, 357</i>.`

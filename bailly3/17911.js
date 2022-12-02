@@ -1,0 +1,1 @@
+lar[17911]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> faiblesse, débilité, ANAXAG. (SEXT. <i>M. 7, 90).</i><p><b>Étym</b>. ἀφαυρός.`

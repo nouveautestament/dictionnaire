@@ -1,0 +1,1 @@
+lar[13752]=`<b>οῦ (ὁ)</b> action de se décharger l’estomac, DIOCL. <i>p. 188 Matthäi</i>.<p><b>Étym</b>. ἀποφορτίζομαι.`

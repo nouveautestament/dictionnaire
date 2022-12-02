@@ -1,0 +1,1 @@
+lar[109200]=`<b>χρυσο·λαβής, ής, ές</b> <font color="purple">[ῡᾰ]</font> à poignée d’or, MÉN. (POLL. <i>10, 145).</i><p><b>Étym</b>. χρ. λαβή.`

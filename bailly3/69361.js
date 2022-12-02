@@ -1,0 +1,1 @@
+lar[69361]=`<b>ου (ἡ)</b> <font color="purple">[θᾰ]</font> chère petite Xanthô, ANTH. <i>9, 570</i>.<p><b>Étym</b>. <i>dim. de</i> Ξανθώ.`

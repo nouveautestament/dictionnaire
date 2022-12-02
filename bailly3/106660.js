@@ -1,0 +1,1 @@
+lar[106660]=`<b>ου (τὸ)</b> sanctuaire de Phorbas, AND. <i>1, 62 Baiter-Sauppe</i>.<p><b>Étym</b>. Φόρβας.`

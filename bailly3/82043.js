@@ -1,0 +1,1 @@
+lar[82043]=`<b>πολυ·κτήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui possède beaucoup, très riche, opulent, IL. <i>5, 613</i> ; SOPH. <i>Ant. 843 ; avec le gén</i>. EUR. <i>Ion 581</i>.<p><b>Étym</b>. π. κτῆμα.`

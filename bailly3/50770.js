@@ -1,0 +1,1 @@
+lar[50770]=`<b>κακό·μαντις, εως (ὁ, ἡ)</b> <font color="purple">[κᾰ]</font> prophète de malheurs, ESCHL. <i>Pers. 10</i> ; A.RH. <i>3, 935</i>.<p><b>Étym</b>. κ. μάντις.`

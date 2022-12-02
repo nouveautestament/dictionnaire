@@ -1,0 +1,1 @@
+lar[84653]=`<b>ή, όν</b>, qui anticipe, PLUT. <i>M. 427b ;</i> RHÉT. <i>8, 666 W</i>.<p>•<i> Cp</i>. -ώτερος, DYSC. <i>Synt. 32, 8</i>.<p><b>Étym</b>. προλαμβάνω.`

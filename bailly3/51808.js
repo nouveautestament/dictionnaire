@@ -1,0 +1,1 @@
+lar[51808]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρο]</font> prison, SOPHR. (PHOT. <i>p. 132, 24).</i><p><b>Étym</b>. <i>cf. lat</i>. carcer.`

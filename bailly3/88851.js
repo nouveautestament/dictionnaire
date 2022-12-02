@@ -1,0 +1,1 @@
+lar[88851]=`<b>*ῥυηφενία</b>, <i>ion</i>. <b>ῥυηφενίη, ης (ἡ)</b> abondance, superflu, CALL. <i>Jov. 84</i>.<p><b>Étym</b>. ῥυηφενής.`

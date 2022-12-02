@@ -1,0 +1,1 @@
+lar[63808]=`<b>μελαμ·παγής, ής, ές</b> <font color="purple">[πᾱ]</font><br><b>      1</b> qui se fige en noircissant, ESCHL. <i>Sept. 737</i>.<br><b>      2</b> noir et dur, ESCHL. <i>Ag. 392</i>.<p><b>Étym</b>. μέλας, πήγνυμι.`

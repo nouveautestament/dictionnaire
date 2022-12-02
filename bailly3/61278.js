@@ -1,0 +1,1 @@
+lar[61278]=`<b>λιπαρ·άμπυξ, υκος (ὁ, ἡ)</b> <font color="purple">[ῐᾰῠκ]</font><br><b>      1</b> au bandeau brillant, PD. <i>N. 7, 22</i>.<br><b>      2</b> qui forme un cercle luisant, <i>càd</i>. gras, AR. <i>Ach. 671</i>.<p><b>Étym</b>. λιπαρός, ἄ.`

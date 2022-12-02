@@ -1,0 +1,1 @@
+lar[80437]=`<b>πισσ·άσφαλτος</b>, <i>att</i>. <b>πιττ·άσφαλτος, ου (ἡ)</b> mélange de poix et de bitume, <i>sorte de bitume liquide,</i> DIOSC. <i>1, 100</i>.`

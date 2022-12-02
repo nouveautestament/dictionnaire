@@ -1,0 +1,1 @@
+lar[42891]=`<i>adv</i>., de manière à plaire aux yeux, avec grâce <i>ou</i> convenance, ANT. (HARP.).`

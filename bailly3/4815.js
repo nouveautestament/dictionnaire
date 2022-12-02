@@ -1,0 +1,1 @@
+lar[4815]=`<b>ἀλλοτριο·επίσκοπος, ος, ον</b>, qui examine les affaires d’autrui, indiscret, NT. <i>1Petr. 4, 15</i>.`

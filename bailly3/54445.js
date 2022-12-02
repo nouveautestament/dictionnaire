@@ -1,0 +1,1 @@
+lar[54445]=`<b>ή, όν</b>, marqué comme d’un grain de mil, ADAM. <i>Physiogn. p. 342</i>.<p><b>Étym</b>. *κεγχρόω <i>de</i> κέγχρος.`

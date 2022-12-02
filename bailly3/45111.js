@@ -1,0 +1,1 @@
+lar[45111]=`<b>ἠθοποιέω-ῶ :<br>      1</b> façonner les mœurs, former le caractère, PLUT. <i>Per. 2</i> ; SEXT. <i>M. 6, 30</i>.<br><b>      2</b> décrire les mœurs, le caractère, DH. <i>Lys. 19</i>.<p><b>Étym</b>. ἠθοποιός.`

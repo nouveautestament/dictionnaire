@@ -1,0 +1,1 @@
+lar[26634]=`<b>δι·μάχαιρος, ος, ον</b> <font color="purple">[ῐᾰχ]</font> qui combat avec deux poignards, <i>sorte de gladiateurs,</i> ARTÉM. <i>2, 32</i>.<p><b>Étym</b>. δίς, μάχαιρα.`

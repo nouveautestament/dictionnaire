@@ -1,0 +1,1 @@
+lar[51448]=`<b>ας (ἡ)</b> <font color="purple">[πᾱ]</font> = <i>lat</i>. Campānia, Campanie (<i>auj</i>. Terra di Lavoro) <i>contrée d’Italie,</i> PLUT. <i>Fab. 6, Cic. 26, etc</i>.`

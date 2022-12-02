@@ -1,0 +1,1 @@
+lar[25679]=`<b>δια·σχάζω</b> <font color="darkgreen">(<i>ao. inf</i>. -σχάσαι)</font> ouvrir une veine, ARÉT. <i>Cur. m. acut. 1, 10</i>.`

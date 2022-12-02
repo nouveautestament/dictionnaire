@@ -1,0 +1,1 @@
+lar[38027]=`<i>adv</i>., dans un état précaire, ISOCR. <i>230e</i>.<p><b>Étym</b>. ἐπίκηρος.`

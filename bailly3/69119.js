@@ -1,0 +1,1 @@
+lar[69119]=`<b>νυκτερό·βιος, ος, ον</b>, qui cherche sa subsistance la nuit, ARSTT. <i>H.A. 1, 1, 28</i>.<p><b>Étym</b>. νύκτερος, βίος.`

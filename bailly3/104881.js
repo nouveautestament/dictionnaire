@@ -1,0 +1,1 @@
+lar[104881]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾱῐ]</font> <i>c</i>. φαριακόν NIC. <i>Al. 398</i>.`

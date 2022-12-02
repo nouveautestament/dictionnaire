@@ -1,0 +1,1 @@
+lar[107117]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> le fils de Phylée, <i>càd</i>. Mégès, IL. <i>2, 628 ; 5, 72 ; 13, 313 ; 19, 239</i>.<br><b>      2</b> Phyleidès, <i>h</i>. THC. <i>2, 2</i>.<p>➳ <i>Gén. épq</i>. Φυλείδεω, IL. <i>15, 519 ; ou</i> Φυλαείδαο <font color="purple">[ᾱ]</font> IL. <i>15, 528</i>.<p><b>Étym</b>. Φυλεύς.`

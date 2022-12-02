@@ -1,0 +1,1 @@
+lar[90075]=`<b>ῶν (οἱ)</b> les Sibes, <i>pple de l’Inde,</i> NONN. <i>D. 26, 218</i>.`

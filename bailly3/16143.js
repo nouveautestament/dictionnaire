@@ -1,0 +1,1 @@
+lar[16143]=`<b>ἀ·σταφίς, ίδος (ἡ)</b> <font color="purple">[ᾰφῐδ]</font> <i>c</i>. σταφίς, HDT. <i>2, 40</i> ; XÉN. <i>An. 4, 4, 9</i> ; PLAT. <i>Leg. 845b ;</i> COM. <i>etc</i>.`

@@ -1,0 +1,1 @@
+lar[59165]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> procession en l’honneur de Dionysos, CLÉM. <i>671</i>.<p><b>Étym</b>. κωμάζω.`

@@ -1,0 +1,1 @@
+lar[82911]=`<i>ion</i>. <b>Ποσειδωνιήτης, ου (ὁ)</b> habitant de Pæstum, <i>en Lucanie,</i> HDT. <i>1, 167</i>.`

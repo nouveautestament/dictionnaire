@@ -1,0 +1,1 @@
+lar[68333]=`<b>ων (οἱ)</b> = <i>lat</i>. Nervii, les Nerviens, <i>pple germanique,</i> PLUT. <i>Cæs. 20</i>.`

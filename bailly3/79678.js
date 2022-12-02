@@ -1,0 +1,1 @@
+lar[79678]=`<b>περι·χορεύω</b>, danser autour de, <i>acc</i>. LUC. <i>D. mar. 15, 3 ; abs</i>. EUR. <i>Ph. 315</i>.`

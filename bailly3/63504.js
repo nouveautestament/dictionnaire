@@ -1,0 +1,1 @@
+lar[63504]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la maison, <i>avec mouv</i>. OD. <i>16, 413</i>.<p><b>Étym</b>. μέγαρον, -δε.`

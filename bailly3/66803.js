@@ -1,0 +1,1 @@
+lar[66803]=`<i>adv</i>., comme un veau, NIC. <i>Al. 357</i>.<p><b>Étym</b>. μόσχος, -δον.`

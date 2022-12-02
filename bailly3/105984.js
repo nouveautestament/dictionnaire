@@ -1,0 +1,1 @@
+lar[105984]=`<b>Φιλό·παππος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philopappos, <i>h</i>. PLUT. <i>Qu. conv. 1, 10</i>.<p><b>Étym</b>. φ. πάππος.`

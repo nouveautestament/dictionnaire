@@ -1,0 +1,1 @@
+lar[13915]=`<b>ας (ἡ)</b> défaut de prévoyance, PLAT. <i>Lach. 197b ;</i> JOS. <i>B.J. 3, 5, 6</i>.<p><b>Étym</b>. ἀπρομηθής.`

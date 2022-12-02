@@ -1,0 +1,1 @@
+lar[79263]=`<b>περι·σκελίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sorte de caleçon <i>ou</i> de pantalon, MÉN. <i>4, 314 Meineke</i> ; PLUT. <i>M. 142c ;</i> LGS <i>1, 5, etc</i>.<p><b>Étym</b>. π. σκέλος.`

@@ -1,0 +1,1 @@
+lar[70542]=`<b>οἰνό·πεδον, ου (τὸ)</b> coteau planté de vigne, vignoble, IL. <i>9, 579</i> ; THGN. <i>838</i> ; THCR. <i>Idyl. 24, 129</i> ; PLUT. <i>M. 604b</i>.<p><b>Étym</b>. <i>neutre de</i> οἰνόπεδος.`

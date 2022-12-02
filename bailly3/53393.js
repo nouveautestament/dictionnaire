@@ -1,0 +1,1 @@
+lar[53393]=`<b>οῦ (ὁ)</b> interprétation sophistique, sophisme, BAS. <i>1, 548</i>.<p><b>Étym</b>. κατασοφίζομαι.`

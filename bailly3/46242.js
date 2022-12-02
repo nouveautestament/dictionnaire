@@ -1,0 +1,1 @@
+lar[46242]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῡ]</font> fils de Thalysios, IL. <i>4, 458</i>.`

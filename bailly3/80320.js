@@ -1,0 +1,1 @@
+lar[80320]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> qui ressemble à de la graisse, gras, HPC. <i>Art. 807</i> ; ARSTT. <i>P.A. 2, 6, 2</i>.<p><b>Étym</b>. πιμελή, -ωδης.`

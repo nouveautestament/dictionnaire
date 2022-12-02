@@ -1,0 +1,1 @@
+lar[95864]=`<b>ας (ἡ)</b> plaidoyer, défense, ESCHN. <i>54, 33</i> ; ARSTT. <i>Rhet. Al. 3, 26</i>.<p><b>Étym</b>. συνήγορος.`

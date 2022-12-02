@@ -1,0 +1,1 @@
+lar[68248]=`<i>att</i>. <b>νεόττιον, ου (τὸ) :<br>      1</b> petit d’un oiseau, oisillon, AR. <i>Av. 767</i> ; ARSTT. <i>H.A. 4, 9 ; 5, 8</i>.<br><b>      2</b> jaune d’œuf, DIPH. (<i>Com. fr. 4, 427).</i><p><b>Étym</b>. νεοττός.`

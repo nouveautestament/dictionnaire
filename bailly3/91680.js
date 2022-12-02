@@ -1,0 +1,1 @@
+lar[91680]=`<b>ός, όν</b>, qui travaille habilement, ANTH. <i>1, 106</i>.<p><b>Étym</b>. σοφός, ἔργον.`

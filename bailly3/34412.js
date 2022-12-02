@@ -1,0 +1,1 @@
+lar[34412]=`<b>ἐν·ευκαιρέω-ῶ</b>, s’occuper fructueusement de, <i>dat</i>. PHIL. <i>1, 309, 387</i> ; NYSS. <i>2, 253 Migne</i>.`

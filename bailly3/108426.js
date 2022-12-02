@@ -1,0 +1,1 @@
+lar[108426]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> <i>au plur</i>. poutres en croix dans une charpente, BITON (MATH. <i>p. 109).</i><p><b>Étym</b>. χιάζω².`

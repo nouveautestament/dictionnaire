@@ -1,0 +1,1 @@
+lar[64286]=`<b>μέν·ανδρος, ος, ον</b>, qui attend <i>ou</i> guette son mari, DIONYS. (ATH. <i>98d</i>).<p><b>Étym</b>. μένω, ἀνήρ.`

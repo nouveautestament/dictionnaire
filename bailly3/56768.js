@@ -1,0 +1,1 @@
+lar[56768]=`<b>κόμ·αιθος, ος, ον</b>, qui a les cheveux rouges <i>ou</i> roux, LYC. <i>934</i>.<p><b>Étym</b>. κόμη, αἴθω.`

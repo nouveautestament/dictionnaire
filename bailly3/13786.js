@@ -1,0 +1,1 @@
+lar[13786]=`<b>ἀπο·χειμάζει</b>, <i>impers</i>. il cesse de faire mauvais temps, ARSTT. <i>Probl. 26, 31, 2</i>.`

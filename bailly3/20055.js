@@ -1,0 +1,1 @@
+lar[20055]=`<b>ατος (τὸ)</b> son aigu (de trompettes, de flûtes), DC.<p><b>Étym</b>. <i>forme réc. p</i>. βόαμα.`

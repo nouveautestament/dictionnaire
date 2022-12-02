@@ -1,0 +1,1 @@
+lar[11623]=`<b>ἀπ·εκδέχομαι :<br>      1</b> attendre anxieusement, HLD. <i>2, 35</i> ; ALCIPHR. <i>3, 7 ; d’où</i> attendre, <i>en gén</i>. NT. <i>Phil. 3, 20</i> ; SEXT. <i>304</i>.<br><b>      2</b> recueillir, <i>d’où</i> comprendre d’après (ce qui a été dit) DYSC. <i>Conj. 493</i>.`

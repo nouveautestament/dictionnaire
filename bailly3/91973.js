@@ -1,0 +1,1 @@
+lar[91973]=`<b>σποδίτης ἄρτος (ὁ)</b> <font color="purple">[ῑ]</font> pain cuit sous la cendre, DIPH. (<i>Com. fr. 4, 387).</i><p><b>Étym</b>. σποδός.`

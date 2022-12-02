@@ -1,0 +1,1 @@
+lar[59945]=`<b>ου (ὁ)</b> Latmos (<i>auj</i>. Beşparmak Dağı) <i>mt. de Carie,</i> NONN. <i>D. 48, 581</i> ; Q. SM. <i>1, 282</i> ; EL. <i>N.A. 5, 14, etc</i>.`

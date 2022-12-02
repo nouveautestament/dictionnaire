@@ -1,0 +1,1 @@
+lar[91457]=`<b>σμηματο·φορεῖον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> nécessaire de toilette, AR. (<i>Com. fr. 2, 949).</i><p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 731, b, 14 (pas av. 307 av. J.-C.) ; v. Meisterh. p. 41 ; p. 139 (§ 63, 3).</i><p><b>Étym</b>. σμῆμα, φορέω.`

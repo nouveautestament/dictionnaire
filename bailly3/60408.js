@@ -1,0 +1,1 @@
+lar[60408]=`<b>λεπτό·θριος, ος, ον</b>, aux feuilles minces, NIC. <i>Th. 875</i> <font color="purple">[ῐ <i>irrég</i>.]</font>.<p><b>Étym</b>. λ. θρῖον.`

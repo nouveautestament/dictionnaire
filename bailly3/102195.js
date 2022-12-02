@@ -1,0 +1,1 @@
+lar[102195]=`<b>ὑπ·εξαναβαίνω :<br>      1</b> se retirer peu à peu, reculer, THCR. <i>Idyl. 22, 197</i>.<br><b>      2</b> s’élever peu à peu, CLÉM. <i>780</i>.`

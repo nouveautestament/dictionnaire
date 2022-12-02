@@ -1,0 +1,1 @@
+lar[24382]=`<b>ων (οἱ)</b> les Dèrousiæes, <i>peuple perse,</i> HDT. <i>1, 125</i>.`

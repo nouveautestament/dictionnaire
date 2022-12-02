@@ -1,0 +1,1 @@
+lar[78376]=`<b>περί·αλλος, ος, ον :<br>      1</b> qui s’enlace, qui s’enroule <i>ou</i> s’entrelace, ANTH. <i>5, 132</i>.<br><b>      2</b> qui surpasse les autres ; <i>adv</i>., περίαλλα, HH. <i>18, 46</i> ; PD. <i>P. 11, 8</i> ; SOPH. <i>O.R. 1219</i> ; AR. <i>Th. 1070,</i> par-dessus tout, supérieurement, extrêmement.<p><b>Étym</b>. περί, ἄλλος.`

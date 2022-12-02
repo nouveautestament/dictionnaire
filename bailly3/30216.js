@@ -1,0 +1,1 @@
+lar[30216]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> prairie humide, fond de vallée herbeuse, IL. <i>4, 483</i> ; THCR. <i>Idyl. 25, 16</i> ; CALL. <i>Dian. 193 ; p. ext</i>. contrée humide par suite d’inondation, A.RH. <i>3, 1202</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

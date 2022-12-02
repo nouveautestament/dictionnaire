@@ -1,0 +1,1 @@
+lar[5494]=`<b>ἀ·μετάληπτος, ος, ον</b>, qu’on ne peut mettre à la place d’un autre, DYSC. <i>Pron. 8</i>.`

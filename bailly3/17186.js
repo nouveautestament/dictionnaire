@@ -1,0 +1,1 @@
+lar[17186]=`<b>ῆρος (ὁ)</b> joueur d’aulos, HÉS. <i>Sc. 283, 299</i> ; THGN. <i>825</i> ; AR. <i>fr. 478</i>.<p><b>Étym</b>. αὐλέω.`

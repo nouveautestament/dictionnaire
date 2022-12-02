@@ -1,0 +1,1 @@
+lar[71170]=`<font color="darkgreen">(<i>ao</i>. ὡλοκαύτωσα)</font> <i>c</i>. ὁλοκαυτέω, XÉN. <i>Cyr. 8, 3, 24</i> ; JOS. <i>A.J. 3, 9, 1</i>.`

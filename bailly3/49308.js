@@ -1,0 +1,1 @@
+lar[49308]=`<b>Ἱππο·δάμας, αντος (ὁ)</b> <font color="purple">[δᾰ]</font> Hippodamas, <i>Troyen,</i> IL. <i>20, 401</i>.<p><b>Étym</b>. ἵ. δαμάω.`

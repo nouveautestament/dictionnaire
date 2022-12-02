@@ -1,0 +1,1 @@
+lar[77241]=`<b>ου (ὁ)</b> <font color="purple">[ᾱῐ]</font> Pasimèlos, <i>Corinthien,</i> XÉN. <i>Hell. 4, 4, 4</i>.<p><b>Étym</b>. *πάομαι, μῆλον.`

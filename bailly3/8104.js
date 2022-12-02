@@ -1,0 +1,1 @@
+lar[8104]=`<b>ἀνδρο·νομέομαι-οῦμαι</b> (<i>part. prés</i>.) se donner un air viril <i>ou</i> fier, M. ANT. <i>10, 19</i>.<p><b>Étym</b>. ἀνήρ, νόμος.`

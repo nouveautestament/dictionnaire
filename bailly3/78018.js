@@ -1,0 +1,1 @@
+lar[78018]=`<b>πενταπλασι·επί·πεμπτος, ος, ον</b>, cinq fois aussi grand avec un 5<sup>e</sup> en sus, NICOM. <i>Arithm. p. 122</i>.<p><b>Étym</b>. πενταπλάσιος, ἐπί, πέμπτος.`

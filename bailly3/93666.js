@@ -1,0 +1,1 @@
+lar[93666]=`<b>οῦ (ὁ)</b> qui se livre à des recherches <i>ou</i> à des discussions, NT. <i>1Cor. 1, 20</i>.<p><b>Étym</b>. συζητέω.`

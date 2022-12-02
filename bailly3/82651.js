@@ -1,0 +1,1 @@
+lar[82651]=`<b>πομφολυγέω-ῶ</b> <font color="purple">[ῠ]</font> se couvrir de bulles <i>ou</i> de mousse liquide, DIOSC. <i>5, 84</i>.<p><b>Étym</b>. πομφόλυξ.`

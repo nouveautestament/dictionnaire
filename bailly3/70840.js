@@ -1,0 +1,1 @@
+lar[70840]=`<b>ὀκτα·λοχία, ας (ἡ)</b> à huit compagnies, ASCLÉPIOD. <i>2, 9</i>.<p><b>Étym</b>. ὀ. λόχος.`

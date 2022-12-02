@@ -1,0 +1,1 @@
+lar[3187]=`<b>ας (ἡ)</b> caractère incompréhensible d’une chose, CIC. <i>Att. 13, 19, 3</i> ; SEXT. <i>376, 5 Bkk.</i> ; DL. <i>2, 92 ; 9, 61</i>.`

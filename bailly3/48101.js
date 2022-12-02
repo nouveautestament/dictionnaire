@@ -1,0 +1,1 @@
+lar[48101]=`<b>ατος (τὸ)</b> parfum, aromate, HDT. <i>2, 40, 86</i> ; LUC. <i>Syr. 20, 46 ; au pl</i>. épices, SIM. AM. <i>Iamb. fr. 14</i>.<p><b>Étym</b>. θυόω.`

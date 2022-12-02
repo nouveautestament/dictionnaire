@@ -1,0 +1,1 @@
+lar[64788]=`<b>μετα·λαμπαδεύω</b> <font color="purple">[πᾰ]</font> passer de main en main comme le flambeau que se transmettaient les coureurs, CLÉM. <i>Str. 2, 23</i>.<p><b>Étym</b>. μ. λαμπάς.`

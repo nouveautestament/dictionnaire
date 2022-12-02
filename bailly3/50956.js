@@ -1,0 +1,1 @@
+lar[50956]=`<b>η, ον</b>, d’un bleu de turquoise, DIOSC. <i>5, 160</i> ; καλάϊνα ὄστρακα, GAL. <i>13, 478,</i> vases d’un bleu de turquoise <i>qu’on fabriquait à Alexandrie, ou, sel. Schneider,</i> vases fabriqués avec un mélange de soufre et de natron (carbonate de soude naturel) ; <i>cf</i>. ANTH. <i>6, 295</i>.<p><b>Étym</b>. κάλαϊς, <i>cf</i>. καλλάϊνος.`

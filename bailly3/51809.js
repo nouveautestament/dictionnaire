@@ -1,0 +1,1 @@
+lar[51809]=`<b>ος, ον</b> <font color="purple">[ᾰρο]</font> <i>c</i>. πίτυρα, SIM. AM. <i>fr. 32 Bgk</i>.`

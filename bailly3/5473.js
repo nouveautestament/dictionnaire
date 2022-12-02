@@ -1,0 +1,1 @@
+lar[5473]=`<b>ἀμερσί·γαμος, ος, ον</b> <font color="purple">[ᾰῐᾰ]</font> qui empêche le mariage, NONN. <i>D. 7, 226</i>.<p><b>Étym</b>. ἀμέρδω¹, γάμος.`

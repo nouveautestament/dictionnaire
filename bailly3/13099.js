@@ -1,0 +1,1 @@
+lar[13099]=`<b>ἀπο·πλίσσομαι</b> <font color="darkgreen">(<i>ao</i>. ἀπεπλιξάμην)</font> se sauver à toutes jambes, AR. <i>Ach. 218</i>.`

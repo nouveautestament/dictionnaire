@@ -1,0 +1,1 @@
+lar[32283]=`<b>ἐκ·φαλαγγίζω</b> <font color="purple">[φᾰ]</font> sortir de la ligne de bataille, D. PHAL. <i>41, 13</i>.<p><b>Étym</b>. ἐκ, φάλαγξ.`

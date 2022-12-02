@@ -1,0 +1,1 @@
+lar[105124]=`<b>Φερέ·βοια, ας (ἡ)</b> Phérébœa, <i>femme de Thésée,</i> PHÉRÉC. (ATH. <i>557b</i>) ; PLUT. <i>Thes. 29</i>.<p><b>Étym</b>. φέρω, βοῦς.`

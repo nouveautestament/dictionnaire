@@ -1,0 +1,1 @@
+lar[109463]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτῐ]</font> <i>fém. de</i> χωρίτης, LUC. <i>D. deor. 20, 13</i>.`

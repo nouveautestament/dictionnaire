@@ -1,0 +1,1 @@
+lar[40749]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> rot, éructation, EROT. <i>266</i> ; DIOSC. <i>Eup. 2, 13</i> ; GAL. <i>3, 69, au pl</i>. ARÉT. <i>Caus. m. diut. 1, 5</i> ; CLÉM. <i>Pæd. 2, p. 219</i>.<p><b>Étym</b>. ἐρεύγομαι.`

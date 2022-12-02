@@ -1,0 +1,1 @@
+lar[40037]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ἕπταχα, DC. <i>55, 26</i> ; PHIL. <i>1, 28</i>.`

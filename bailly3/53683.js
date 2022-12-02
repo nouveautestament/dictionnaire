@@ -1,0 +1,1 @@
+lar[53683]=`<b>κατα·φρυάττομαι</b>, hennir en se cabrant, <i>d’où fig</i>. être rétif, ombrageux, fier, M. ANT. <i>7, 3 ; 9, 41</i>.`

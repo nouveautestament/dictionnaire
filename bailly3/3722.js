@@ -1,0 +1,1 @@
+lar[3722]=`<b>ἀκριτό·δακρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ῐ]</font> qui pleure abondamment, ANTH. <i>5, 236</i>.<p><b>Étym</b>. ἄ. δάκρυ.`

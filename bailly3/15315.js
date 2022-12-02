@@ -1,0 +1,1 @@
+lar[15315]=`<b>ἀρτι·άλωτος, ος, ον</b> <font color="purple">[ᾰλ]</font> nouvellement pris, XÉNOCR. <i>Al. 34</i>.`

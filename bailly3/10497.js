@@ -1,0 +1,1 @@
+lar[10497]=`<b>ἀντι·τεύχω</b> (<i>pl.q.pf. pass. poét. 3 sg</i>. ἀντιτέτυκτο) fabriquer en opposition à, ANTIM. <i>35 Kinkel</i>.`

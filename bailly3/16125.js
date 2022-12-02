@@ -1,0 +1,1 @@
+lar[16125]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> homard, ARSTT. <i>H.A. 4, 2, etc.</i> ; ATH.`

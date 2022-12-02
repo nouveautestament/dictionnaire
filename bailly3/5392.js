@@ -1,0 +1,1 @@
+lar[5392]=`<b>ας (ἡ)</b> non-participation à une chose, CORN. <i>35</i>.<p><b>Étym</b>. ἀμέθεκτος.`

@@ -1,0 +1,1 @@
+lar[99669]=`<b>ατος (τὸ)</b> copeau <i>ou</i> raclure de bois enlevée au tour, DIOSC. <i>1, 108</i>.<p><b>Étym</b>. τορνεύω.`

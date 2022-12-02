@@ -1,0 +1,1 @@
+lar[61126]=`<b>ου (ὁ)</b> Lilantos, <i>h</i>. PLUT. <i>Sept. sap. conv. 10</i>.<p><b>Étym</b>. λιλαίομαι.`

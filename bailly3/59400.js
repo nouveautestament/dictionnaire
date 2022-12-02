@@ -1,0 +1,1 @@
+lar[59400]=`<b>ου (ὁ)</b> Lagmos, <i>fl. du Pont,</i> LYC. <i>1333</i>.`

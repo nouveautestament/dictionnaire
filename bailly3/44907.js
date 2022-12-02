@@ -1,0 +1,1 @@
+lar[44907]=`<b>ας (ἡ)</b> action de conduire, <i>d’où</i> commandement, NAZ. <i>2, p. 172, 91</i>.<p><b>Étym</b>. ἡγέομαι.`

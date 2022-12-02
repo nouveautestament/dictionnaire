@@ -1,0 +1,1 @@
+lar[24391]=`<b>α, ον :<br>      1</b> de Dèô : ἡ Δηῴη (<i>ion</i>.) NONN. <i>D. 6, 3, c</i>. Δηωΐνη.<br><b>      2</b> consacré à Dèô, ANTH. <i>App. 50, 5</i>.<p><b>Étym</b>. Δηώ.`

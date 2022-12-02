@@ -1,0 +1,1 @@
+lar[23764]=`<b>ή, όν :<br>      1</b> disposé pour recevoir : τῆς τροφῆς, ARSTT. <i>Pol. 4, 4, 8,</i> la nourriture, <i>en parl. du ventre ; cf</i>. ARSTT. <i>H.A. 1, 2, 3, etc.</i><br><b>      2</b> capable de recevoir, <i>gén</i>. PLAT. <i>Def. 415a ;</i> ARSTT. <i>P.A. 2, 1, 19, etc. ; abs</i>. ARSTT. <i>Metaph. 4, 23, 1, etc</i>.<p><b>Étym</b>. δέχομαι.`

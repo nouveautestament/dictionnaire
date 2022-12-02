@@ -1,0 +1,1 @@
+lar[96796]=`<b>σφαιρο·ποιέω-ῶ</b>, façonner en forme de boule, arrondir, STR. <i>55</i> ; PLUT. <i>M. 355a</i>.<p><b>Étym</b>. σφαῖρα, ποιέω.`

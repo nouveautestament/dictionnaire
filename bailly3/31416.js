@@ -1,0 +1,1 @@
+lar[31416]=`<b>ἐκ·κεντέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐξεκέντησα) :</font><br><b>      1</b> faire sortir en piquant : τὰ ὄμματα, ARSTT. <i>H.A. 6, 5, 2,</i> crever les yeux.<br><b>      2</b> <i>p. ext</i>. percer de coups, POL. <i>5, 56, 12 ; 15, 33, 4 ; 25, 8, 6</i> ; POLYEN <i>5, 3, 8</i>.`

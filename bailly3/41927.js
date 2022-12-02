@@ -1,0 +1,1 @@
+lar[41927]=`<b>εὐ·δρακής, ής, ές</b> <font color="purple">[ᾰ]</font> au regard perçant, SOPH. <i>Ph. 847</i>.<p><b>Étym</b>. εὖ, δέρκομαι, <i>cf</i>. ἔδρακον.`

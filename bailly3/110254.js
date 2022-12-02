@@ -1,0 +1,1 @@
+lar[110254]=`<b>ου (ὁ)</b> Ômisès, <i>Perse,</i> PLUT. <i>Artax. 4</i> ; EL. <i>V.H. 1, 23</i>.`

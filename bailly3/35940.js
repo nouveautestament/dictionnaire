@@ -1,0 +1,1 @@
+lar[35940]=`<b>ἑξηκοντα·ταλαντία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font> classe des citoyens qui payent 60 talents d’impôts, DÉM. <i>183, 8 et 11</i>.<p><b>Étym</b>. ἑξ. τάλαντον.`

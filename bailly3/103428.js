@@ -1,0 +1,1 @@
+lar[103428]=`<b>ὑπο·κρώζω</b>, répondre par des croassements, LUC. <i>D. mort. 6, 4</i>.`

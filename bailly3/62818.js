@@ -1,0 +1,1 @@
+lar[62818]=`<b>α, ον :<br>      1</b> qui concerne un oracle, d’oracle, PD. <i>O. 6, 5</i> ; ESCHL. <i>Ag. 1265</i> ; SOPH. <i>O.R. 21, etc.</i><br><b>      2</b> qui rend des oracles, EUR. <i>Tr. 454, Or. 1666</i> ; AR. <i>Av. 722</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Ion 130. Poét</i>. μαντήϊος, PD. <i>P. 5, 69, etc</i>.<p><b>Étym</b>. μάντις.`

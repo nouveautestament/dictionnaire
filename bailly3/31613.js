@@ -1,0 +1,1 @@
+lar[31613]=`<b>έως (ὁ)</b> percepteur d’impôts, DC. <i>52, 28</i> ; THÉM. <i>461</i>.<p><b>Étym</b>. ἐκλέγω.`

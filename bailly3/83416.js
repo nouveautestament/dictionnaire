@@ -1,0 +1,1 @@
+lar[83416]=`<b>ή, όν</b> <font color="purple">[ᾰῑ]</font> de Priapos, <i>en Mysie,</i> PLUT. <i>Luc. 13</i>.<p><b>Étym</b>. Πρίαπος².`

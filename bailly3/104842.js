@@ -1,0 +1,1 @@
+lar[104842]=`<b>φαντασιο·κόπος, ος, ον</b> <font color="purple">[τᾰ]</font> charlatan, CHRYS.<p><b>Étym</b>. φαντασία, κόπτω.`

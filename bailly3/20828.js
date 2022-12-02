@@ -1,0 +1,1 @@
+lar[20828]=`<b>ή, όν</b>, atteint d’un goître, DIOSC. <i>4, 120</i>.<p><b>Étym</b>. βρογχοκήλη.`

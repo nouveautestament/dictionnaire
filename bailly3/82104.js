@@ -1,0 +1,1 @@
+lar[82104]=`<b>Πολυ·μήδης, ους (ὁ)</b> <font color="purple">[ῠ]</font> Polymèdès, <i>h</i>. THC. <i>2, 22, etc</i>.<p><b>Étym</b>. π. μήδομαι.`

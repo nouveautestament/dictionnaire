@@ -1,0 +1,1 @@
+lar[90433]=`<font color="purple">[ῐ]</font> <i>adv</i>., hors de la huche, CALL. <i>fr. 454</i>.<p><b>Étym</b>. σιπύη, -θεν.`

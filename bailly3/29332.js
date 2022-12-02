@@ -1,0 +1,1 @@
+lar[29332]=`<b>ἔγ·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> uni par mariage, marié, CHRYS. <i>3, 408</i> ; BAS. <i>1, 731</i>.<p><b>Étym</b>. ἐν, γάμος.`

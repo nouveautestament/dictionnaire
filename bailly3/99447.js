@@ -1,0 +1,1 @@
+lar[99447]=`<i>vb. de</i> τέμνω, PLAT. <i>Soph. 219d, Rsp. 510b, etc</i>.`

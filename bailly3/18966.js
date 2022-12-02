@@ -1,0 +1,1 @@
+lar[18966]=`<b>ου (ὁ)</b> = <i>lat</i>. Balbus, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 60, etc</i>.`

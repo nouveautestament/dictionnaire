@@ -1,0 +1,1 @@
+lar[9943]=`<b>ἀντι·κατατρέχω</b> <font color="darkgreen">(<i>ao.2</i> -κατέδραμον)</font> faire à son tour une incursion <i>ou</i> une irruption dans, <i>acc</i>. DC. <i>60, 9</i>.`

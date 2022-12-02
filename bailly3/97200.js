@@ -1,0 +1,1 @@
+lar[97200]=`<b>σωματο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ᾰῠᾰκ]</font> garde du corps, satellite d’un prince, <i>d’ord. au plur</i>. DS. <i>Exc. 529, 53</i> ; ARR. <i>An. 1, 6, 5</i> ; HDN <i>4, 13</i>.<p><b>Étym</b>. σῶμα, φύλαξ.`

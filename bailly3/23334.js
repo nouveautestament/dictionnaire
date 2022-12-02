@@ -1,0 +1,1 @@
+lar[23334]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui fait un partage, ESCHL. <i>Sept. 945</i> ; ARSTT. <i>fr. 383</i> ; LYS. (HARP.).<p><b>Étym</b>. δατέομαι.`

@@ -1,0 +1,1 @@
+lar[18978]=`<b>έων (οἱ) :<br>      1</b> les î. Baléares, DS.<br><b>      2</b> habitants des î. Baléares, POL.`

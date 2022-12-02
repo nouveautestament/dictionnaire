@@ -1,0 +1,1 @@
+lar[96848]=`<b>ου (ὁ)</b> soldat armé d’une fronde, frondeur, HDT. <i>7, 158</i> ; THC. <i>6, 22</i> ; PLAT. <i>Criti. 119b</i>.<p><b>Étym</b>. σφενδονάω.`

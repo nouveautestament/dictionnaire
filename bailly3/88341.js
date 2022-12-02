@@ -1,0 +1,1 @@
+lar[88341]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> bordé de rochers où se brisent les flots, STR. <i>243, etc</i>.<p><b>Étym</b>. ῥαχία,-ωδης.`

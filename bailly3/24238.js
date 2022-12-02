@@ -1,0 +1,1 @@
+lar[24238]=`<b>Δημο·δίκη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Dèmodikè, <i>f</i>. CALL. <i>22</i>.<p><b>Étym</b>. <i>fém. de</i> Δημόδικος.`

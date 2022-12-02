@@ -1,0 +1,1 @@
+lar[17433]=`<b>αὐτό·δαιτος, ος, ον</b>, qui se procure lui-même sa nourriture, LYC. <i>480</i>.<p><b>Étym</b>. αὐ. δαίς.`

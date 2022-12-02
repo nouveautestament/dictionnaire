@@ -1,0 +1,1 @@
+lar[66735]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> spare, <i>sorte de poisson,</i> ARSTT. <i>H.A. 6, 17</i> ; ANTH. <i>6, 304</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf. l’emprunt lat</i>. murmillō « gladiateur avec un poisson comme crête de casque ».`

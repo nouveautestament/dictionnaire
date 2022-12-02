@@ -1,0 +1,1 @@
+lar[26425]=`<b>δι·ϊθύνω</b> <font color="purple">[ῑθ]</font> diriger, gouverner, ANTH. <i>9, 107</i> ; THÉM. <i>50b</i>.`

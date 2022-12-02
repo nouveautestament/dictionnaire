@@ -1,0 +1,1 @@
+lar[36044]=`<b>ἐξ·ιχνοσκοπέω-ῶ</b>, observer la trace de, rechercher, <i>acc</i>. SOPH. <i>Tr. 271</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. SOPH. <i>Aj. 997</i>.`

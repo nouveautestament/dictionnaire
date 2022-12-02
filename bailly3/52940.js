@@ -1,0 +1,1 @@
+lar[52940]=`<b>ας (ἡ)</b> lieu en pente, HPC. <i>741h</i>.<p><b>Étym</b>. καταντίος.`

@@ -1,0 +1,1 @@
+lar[48638]=`<b>ἱερό·τροχος, ος, ον</b>, aux roues sacrées, <i>en parl. d’un char au service d’une déesse,</i> ORPH. <i>H. 13, 2</i>.<p><b>Étym</b>. ἱ. τροχός.`

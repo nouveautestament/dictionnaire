@@ -1,0 +1,1 @@
+lar[39362]=`<b>εως (ἡ)</b> accomplissement, ARSTT. <i>Probl. 10, 34</i> ; M. ANT. <i>1, 16</i> ; CLÉM. <i>453</i>.<p><b>Étym</b>. ἐπιτελέω.`

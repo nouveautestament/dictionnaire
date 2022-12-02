@@ -1,0 +1,1 @@
+lar[12100]=`<b>ἀ·πνεύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, sans souffle, SIMPL. <i>Epict. p. 11</i>.<p><b>Étym</b>. ἀ, πνεύμων.`

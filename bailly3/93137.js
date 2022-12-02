@@ -1,0 +1,1 @@
+lar[93137]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> Stoïcien, <i>avec idée de mépris,</i> HERMIAS (ATH. <i>563d</i>).<p><b>Étym</b>. *στωά <i>p</i>. στοά.`

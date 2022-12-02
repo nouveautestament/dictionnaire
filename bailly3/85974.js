@@ -1,0 +1,1 @@
+lar[85974]=`<b>προσ·καταστρέφω</b>, renverser en outre, <i>d’où au moy</i>. soumettre en outre, <i>acc</i>. DH. <i>Isocr. 14</i> ; DC. <i>37, 5, etc</i>.`

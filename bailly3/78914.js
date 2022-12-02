@@ -1,0 +1,1 @@
+lar[78914]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui est l’objet d’un combat, disputé par, <i>dat</i>. AR. <i>Av. 1404</i> ; THC. <i>7, 84</i> ; ISOCR. <i>172b, etc.</i><br><b>      2</b> digne d’être disputé, désirable, enviable, XÉN. <i>Conv. 3, 9, etc</i>.<p><b>Étym</b>. περιμάχομαι.`

@@ -1,0 +1,1 @@
+lar[98481]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> tension <i>ou</i> rigidité d’un membre, AR. <i>Lys. 553, 846</i>.<br><b>      2</b> rigidité spasmodique du corps, tétanos, HPC. <i>Aph. 1251</i> ; PLAT. <i>Tim. 84e ;</i> ARSTT. <i>H.A. 8, 24, 3</i>.<p><b>Étym</b>. τετανός.`

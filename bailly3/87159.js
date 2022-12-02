@@ -1,0 +1,1 @@
+lar[87159]=`<b>πρωτ·αιτία, ας (ἡ)</b> première cause, premier auteur, RHÉT. <i>6, 412 W</i>.<p><b>Étym</b>. πρ. αἰτία.`

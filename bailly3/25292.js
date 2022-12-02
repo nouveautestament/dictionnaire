@@ -1,0 +1,1 @@
+lar[25292]=`<b>δια·πλήσσω</b>, <i>att</i>. <b>-πλήττω :<br>      1</b> fendre, mettre en pièces (des chênes), IL. <i>23, 120 (var</i>. διαπλίσσοντες).<br><b>      2</b> frapper d’étonnement ; <i>au pass</i>. διαπλήττεσθαι πρός τι, EPICT. <i>Ench. 33, 13</i>, être frappé de qqe ch.`

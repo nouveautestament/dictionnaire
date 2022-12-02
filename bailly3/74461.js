@@ -1,0 +1,1 @@
+lar[74461]=`<b>Παλαί·χθων, ονος (ὁ)</b> <font color="purple">[ᾰ]</font> Palækhthôn, <i>père de Pélasgos,</i> ESCHL. <i>Suppl. 250, 347</i>.<p><b>Étym</b>. <i>v</i>. παλαίχθων.`

@@ -1,0 +1,1 @@
+lar[21180]=`<b>ωνος (ὁ)</b> le Gæsôn, <i>ruisseau ou étang, au sud de Mycale, en Ionie,</i> HDT. <i>9, 97</i> ; ARCHESTR. <i>et</i> EPHOR. (ATH. <i>311a</i>, e).`

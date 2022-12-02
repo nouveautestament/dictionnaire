@@ -1,0 +1,1 @@
+lar[84420]=`<b>οῦ (ὁ)</b> qui conduit, qui dirige, chef, HLD. <i>10, 4</i>.<p><b>Étym</b>. προκαθηγέομαι.`

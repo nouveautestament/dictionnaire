@@ -1,0 +1,1 @@
+lar[81270]=`<b>ποδηγέω-ῶ</b>, guider les pas, diriger, conduire, <i>acc</i>. PLAT. <i>Leg. 899a ;</i> LYC. <i>965 ; au pass</i>. ATH. <i>522c ;</i> DC. <i>63, 9</i>.<p><b>Étym</b>. ποδηγός.`

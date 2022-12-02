@@ -1,0 +1,1 @@
+lar[49071]=`<b>ή, όν</b>, qui sert à prendre avec de la glu, ARTÉM. <i>2, 19 ; subst</i>. τὰ Ἰξευτικά, Chasse à la glu, <i>titre d’un poème d’Oppien</i>.<p><b>Étym</b>. ἰξεύω.`

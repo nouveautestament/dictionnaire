@@ -1,0 +1,1 @@
+lar[73156]=`<b>ὀρχηστο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῐᾰλ]</font> maître de danse, XÉN. <i>Conv. 2, 15 ; 9, 3</i> ; LUC. <i>M. cond. 27, etc</i>.<p><b>Étym</b>. ὀρχηστής, διδάσκαλος.`

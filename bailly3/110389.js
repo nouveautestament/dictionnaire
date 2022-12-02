@@ -1,0 +1,1 @@
+lar[110389]=`<b>ητος (ἡ) :<br>      1</b> jeunesse, fraîcheur, beauté, X. ÉPH. <i>1, 1</i> ; SPT. <i>Ezech. 16, 14 ; Ps. 50, 2 ; 95, 6</i> ; HLD. <i>2, 32, p. 160 ; au pl</i>. XÉN. <i>Œc. 7, 43</i> ; maturité des fruits, ARSTT. <i>Plant. 1, 4, 14</i> ; TH. <i>H.P. 9, 1, 6</i>.<br><b>      2</b> parure, ornement, SPT. <i>Esaï. 44, 13</i>.<p><b>Étym</b>. ὡραῖος.`

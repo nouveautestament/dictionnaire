@@ -1,0 +1,1 @@
+lar[100133]=`<b>τριβ·ωλέτηρ</b>, <i>voc</i>. <b>-ώλετερ (ὁ)</b> <font color="purple">[ῐ]</font> qui détruit les chardons aquatiques, SAPPH. <i>fr. 88</i>.<p><b>Étym</b>. τρίβολος, ὄλλυμι.`

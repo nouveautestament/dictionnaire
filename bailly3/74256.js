@@ -1,0 +1,1 @@
+lar[74256]=`<i>adv</i>., en forme de leçon, doctement, CLÉM. <i>447</i>.<p>•<i> Sup</i>. -ώτατα, PHIL. <i>1, 319</i>.`

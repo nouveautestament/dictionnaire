@@ -1,0 +1,1 @@
+lar[25841]=`<b>δι·αφέψω</b> (<i>part. prés</i>.) réduire par la cuisson, ORIB. <i>p. 54 Matthäi</i>.`

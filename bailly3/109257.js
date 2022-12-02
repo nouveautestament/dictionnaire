@@ -1,0 +1,1 @@
+lar[109257]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> Khrysos :<br><b>      1</b> <i>n. d’esclave,</i> AR. <i>Vesp. 1251</i>.<br><b>      2</b> <i>autre,</i> ANTH. <i>11, 416</i>.`

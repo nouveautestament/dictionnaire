@@ -1,0 +1,1 @@
+lar[94200]=`<b>συμ·περιπίπτω</b>, tomber en même temps <i>ou</i> ensemble tout autour, HYPSÆUS (STOB. <i>Fl. 92, 10</i>).`

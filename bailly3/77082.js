@@ -1,0 +1,1 @@
+lar[77082]=`<b>οῦ (ὁ)</b> désarmement, DS. <i>2, 592 L. Dind</i>.<p><b>Étym</b>. παροπλίζω.`

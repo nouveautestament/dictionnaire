@@ -1,0 +1,1 @@
+lar[66216]=`<b>μνησι·πήμων, ων, ον</b> <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> μν. πόνος, ESCHL. <i>Ag. 180,</i> le remords.<p><b>Étym</b>. μνάομαι, πῆμα.`

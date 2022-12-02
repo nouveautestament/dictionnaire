@@ -1,0 +1,1 @@
+lar[17618]=`<b>αὐτο·νυχί</b> <font color="purple">[ῠῐ]</font><br><b>      1</b> cette nuit même, IL. <i>8, 197</i>.<br><b>      2</b> dans la même nuit, ARAT. <i>618</i>.<p><b>Étym</b>. αὐ. νύξ.`

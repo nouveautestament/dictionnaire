@@ -1,0 +1,1 @@
+lar[100131]=`<b>τρί·βροχος, ος, ον</b>, arrosé <i>ou</i> mouillé trois fois, DIOSC. <i>1, 65</i>.<p><b>Étym</b>. τρίς, βρέχω.`

@@ -1,0 +1,1 @@
+lar[68684]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> sobriété, tempérance, NYSS. <i>t. 3, p. 1101a</i>.<p><b>Étym</b>. νηφάλιος.`

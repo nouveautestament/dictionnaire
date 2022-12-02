@@ -1,0 +1,1 @@
+lar[81391]=`<b>ποικιλο·δέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> à la peau tachetée, EUR. <i>I.A. 226</i>.<p><b>Étym</b>. π. δέρμα.`

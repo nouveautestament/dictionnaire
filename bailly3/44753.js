@@ -1,0 +1,1 @@
+lar[44753]=`<b>ζῳο·θηρία, ας (ἡ)</b> chasse aux animaux vivants, PLAT. <i>Soph. 223b</i>.<p><b>Étym</b>. ζῷον, θήρα.`

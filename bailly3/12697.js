@@ -1,0 +1,1 @@
+lar[12697]=`<b>ἀπο·κυβεύω</b> <font color="purple">[ῡ]</font> jeter le dé, <i>càd</i>. tenter la fortune : περί τινος, DS. <i>17, 30,</i> au sujet de qqe ch.`

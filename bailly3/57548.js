@@ -1,0 +1,1 @@
+lar[57548]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰν]</font> les descendants de Kranaos, <i>càd</i>. les Athéniens, HDT. <i>8, 44</i> ; AR. <i>Av. 123</i>.<p><b>Étym</b>. <i>v</i>. Κραναή ; <i>cf</i>. Κραναός.`

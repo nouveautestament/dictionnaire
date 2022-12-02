@@ -1,0 +1,1 @@
+lar[38654]=`<b>ἐπι·πεντακοσιοστο·τέταρτος, ος, ον</b>, qui contient un entier et ¹⁄₅₀₄, A. QUINT. <i>p. 115</i>.`

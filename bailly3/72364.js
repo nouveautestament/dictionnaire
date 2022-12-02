@@ -1,0 +1,1 @@
+lar[72364]=`<b>ὁπλο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> préposé à la garde d’un arsenal, ATH. <i>538b</i>.<p><b>Étym</b>. ὅπλ. φύλαξ.`

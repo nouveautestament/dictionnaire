@@ -1,0 +1,1 @@
+lar[36807]=`<b>ἐπ·αρτύνω</b> <font color="purple">[ῡ]</font> ajuster : <i>fig</i>. ἐπ. ὄλεθρόν τινι, OPP. <i>C. 2, 443,</i> machiner la perte de qqn.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. 3 pl. poét</i>. ἐπαρτύνοντο)</font> préparer pour soi, HH. <i>Cer. 128</i>.<p>➳ <i>Fut. ion. et poét</i>. -υνέουσιν <font color="purple">[ῠ]</font> OPP. <i>l. c</i>.`

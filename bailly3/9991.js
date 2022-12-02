@@ -1,0 +1,1 @@
+lar[9991]=`<b>ἀντι·κριός, οῦ (ὁ)</b> contre-bélier, machine d’attaque, EN. TACT. <i>Pol. 32</i>.`

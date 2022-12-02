@@ -1,0 +1,1 @@
+lar[102231]=`<b>ὑπερ·αγωνιάω-ῶ</b> <font color="purple">[ᾰγ]</font> être inquiet <i>ou</i> préoccupé, DÉM. <i>1410, 4</i> ; διά τινα, PLAT. <i>Euthyd. 300c ;</i> τινος, JOS. <i>A.J. 16, 4, 1,</i> au sujet de qqn.`

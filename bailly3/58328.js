@@ -1,0 +1,1 @@
+lar[58328]=`<b>κυαμο·φαγία, ας (ἡ)</b> <font color="purple">[ᾰφᾰ]</font> action de manger des fèves, LUC. <i>V.H. 2, 24</i>.<p><b>Étym</b>. κ. φαγεῖν.`

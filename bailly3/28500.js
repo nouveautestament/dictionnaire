@@ -1,0 +1,1 @@
+lar[28500]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> difficulté de soigner, CASS. <i>Probl. p. 331, 18</i>.<p><b>Étym</b>. δυσθεράπευτος.`

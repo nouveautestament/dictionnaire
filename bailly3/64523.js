@@ -1,0 +1,1 @@
+lar[64523]=`<b>μεσο·κάρπιον, ου (τὸ)</b> mésocarpe <i>ou</i> milieu du carpe, <i>t. d’anat</i>. DIOSC. <i>3, 161</i>.<p><b>Étym</b>. μ. καρπός.`

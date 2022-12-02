@@ -1,0 +1,1 @@
+lar[61090]=`<b>ή, όν</b> <font color="purple">[λῐ]</font> qui concerne le travail de la pierre, SPT. <i>Ex. 28, 11 ; 31, 5</i> ; ἡ λιθουργική (<i>s.-e</i>. τέχνη) l’art de travailler la pierre, LYS. <i>fr. 25, 31</i>.<p><b>Étym</b>. λιθουργός.`

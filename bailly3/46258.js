@@ -1,0 +1,1 @@
+lar[46258]=`<b>εος-ους (τὸ)</b> effroi, étonnement, stupeur, <i>d’où particul</i>. admiration, IL. <i>4, 79</i> ; OD. <i>3, 372</i> ; PLAT. <i>Phædr. 254c, etc. ; avec un gén</i>. THC. <i>6, 31</i> ; PLUT. <i>Cæs. 32, etc</i>.<p>➳ <i>Gén</i>. ép. θάμβευς, OD. <i>24, 394</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

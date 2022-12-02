@@ -1,0 +1,1 @@
+lar[96599]=`<b>ας (ἡ)</b> vie sous la même tente, vie en commun, XÉN. <i>Hell. 5, 3, 20</i>.<p>➳ <i>Dor</i>. συσκανία <font color="purple">[κᾱ]</font> HIPPODAM. (STOB. <i>Fl. 43, 99).</i><p><b>Étym</b>. σύσκηνος.`

@@ -1,0 +1,1 @@
+lar[24779]=`<b>εως (ἡ)</b> action d’intercepter <i>ou</i> de bloquer, JOS. <i>A.J. 18, 6, 4</i>.<p><b>Étym</b>. διακλείω.`

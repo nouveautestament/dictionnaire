@@ -1,0 +1,1 @@
+lar[74406]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> παλάθη POLÉM. (ATH. <i>478d</i>) ; <i>cf</i>. παλάσιον.`

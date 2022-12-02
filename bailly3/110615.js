@@ -1,0 +1,1 @@
+lar[110615]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de devenir jaune <i>ou</i> pâle, pâleur, PLUT. <i>M. 364b ; au plur</i>. PLUT. <i>M. 652e</i>.<p><b>Étym</b>. ὠχριάω.`

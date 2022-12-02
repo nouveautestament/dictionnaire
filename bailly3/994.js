@@ -1,0 +1,1 @@
+lar[994]=`<b>ιδος</b> <i>et</i> <b>εως (ἡ)</b> chiendent (<i>Cynodon dactylon</i> L.) OD. <i>6, 90</i> ; THCR. <i>Idyl. 13, 42</i>.<p>➳ <i>Gén</i>. -ιδος, TH. <i>H.P. 1, 6, 10</i>.<p><b>Étym</b>. <i>fém. de</i> ἀγρώστης¹.`

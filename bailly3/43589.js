@@ -1,0 +1,1 @@
+lar[43589]=`<b>εὔ·τηκτος, ος, ον</b>, qui fond aisément, ARSTT. <i>Probl. 4, 2 ; An. 3, 10</i> ; SPT. <i>Sap. 19, 21</i> ; MAN. <i>6, 524</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Probl. 1, 50</i>.<p><b>Étym</b>. εὖ, τήκω.`

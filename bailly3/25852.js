@@ -1,0 +1,1 @@
+lar[25852]=`<b>δια·φιλοτιμέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. ήσομαι)</font> <font color="purple">[φῐτῑ]</font><br><b>      1</b> lutter, rivaliser : τινι ὑπέρ τινος, PLUT. <i>Arist. 16,</i> disputer à qqn l’honneur de qqe ch.<br><b>      2</b> mettre toute son ambition dans, employer tout son zèle à, <i>avec un part</i>. TH. <i>H.P. 4, 4, 1</i>.`

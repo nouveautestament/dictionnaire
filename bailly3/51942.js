@@ -1,0 +1,1 @@
+lar[51942]=`<b>καρτερό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> à l’âme ferme, courageux, IL. <i>13, 350, etc.</i> ; OD. <i>21, 25 ; en mauv. part,</i> violent <i>ou</i> opiniâtre, HÉS. <i>Th. 225</i>.<br><b>      2</b> au souffle puissant <i>ou</i> violent, HÉS. <i>Th. 378</i>.<p><b>Étym</b>. κ. θυμός.`

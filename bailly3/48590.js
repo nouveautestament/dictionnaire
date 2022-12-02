@@ -1,0 +1,1 @@
+lar[48590]=`<b>ἱεροθυτέω-ῶ</b> <font color="purple">[ῠ]</font> sacrifier, HÉRACLITE PARADOX. <i>Incred. 39</i>.<p><b>Étym</b>. ἱεροθύτης.`

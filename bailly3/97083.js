@@ -1,0 +1,1 @@
+lar[97083]=`<b>ῖδος (ἡ)</b> <font color="purple">[ῑδ]</font> <i>surn. d’Aphrodite, de sign. inconnue,</i> LYC. <i>832</i>.`

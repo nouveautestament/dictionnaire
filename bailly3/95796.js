@@ -1,0 +1,1 @@
+lar[95796]=`<i>adv.</i> :<br><b>      1</b> <i>act</i>. avec intelligence <i>ou</i> prudence, EUR. <i>I.A. 466</i> ; AR. <i>Vesp. 633</i>.<br><b>      2</b> <i>pass</i>. d’une manière intelligible, ARSTT. <i>Probl. 11, 27</i> ; PLUT. <i>Syll. 27</i>.<p><b>Étym</b>. συνετός.`

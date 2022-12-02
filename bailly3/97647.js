@@ -1,0 +1,1 @@
+lar[97647]=`<b>ταραχο·ποιός, ός, όν</b> <font color="purple">[ᾰᾰ]</font> qui cause du trouble, ES. <i>76 b Halm</i>.<p><b>Étym</b>. ταραχή, ποιέω.`

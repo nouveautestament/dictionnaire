@@ -1,0 +1,1 @@
+lar[10551]=`<b>Ἀντί·φημος, ου (ὁ)</b> Antiphèmos (<i>litt</i>. égal en renom) <i>h</i>. HDT. <i>7, 153</i> ; THC. <i>6, 4</i>.<p><b>Étym</b>. ἀ. φήμη.`

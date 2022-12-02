@@ -1,0 +1,1 @@
+lar[59328]=`<b>ης (ἡ)</b> la porte Lavernalis, <i>à Rome,</i> PLUT. <i>Syll. 6</i>.`

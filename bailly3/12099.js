@@ -1,0 +1,1 @@
+lar[12099]=`<b>ἀ·πνεύματος, ος, ον</b> <font color="purple">[μᾰ]</font> non exposé au vent <i>ou</i> à l’air, ARSTT. <i>Probl. 15, 5, 5</i> ; TH. <i>C.P. 1, 8, 3, etc</i>.<p><b>Étym</b>. ἀ, πνεῦμα.`

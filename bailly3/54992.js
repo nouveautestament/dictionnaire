@@ -1,0 +1,1 @@
+lar[54992]=`<b>ης (ἡ)</b> Kernè, <i>î. sur la côte occidentale de l’Afrique,</i> LYC. <i>18</i>.`

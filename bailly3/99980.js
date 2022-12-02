@@ -1,0 +1,1 @@
+lar[99980]=`<b>τραχόω-ῶ</b> <font color="purple">[ᾱ]</font> <i>c</i>. τραχύνω, JOS.`

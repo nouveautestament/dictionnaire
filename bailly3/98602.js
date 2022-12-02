@@ -1,0 +1,1 @@
+lar[98602]=`<b>τετρα·μερής, ής, ές</b> <font color="purple">[ᾰ]</font> formé de quatre parties, ARSTT. <i>fr. 43</i> ; PLUT. <i>M. 1139b ;</i> SEXT. <i>P. 1, 23, 237</i>.<p><b>Étym</b>. τ. μέρος.`

@@ -1,0 +1,1 @@
+lar[5978]=`<b>ἀμφ·αγαπάω-ῶ</b> <font color="purple">[ᾰγᾰ]</font> (<i>seul. prés. et ao.) c</i>. ἀμφαγαπάζω HÉS. <i>O. 58</i> ; ORACL. (DS. <i>Exc. p. 11).</i><p>➳ <i>Ao. 3 sg. poét</i>. ἀμφαγάπησε, HH. <i>Cer. 439</i>.`

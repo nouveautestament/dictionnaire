@@ -1,0 +1,1 @@
+lar[94549]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sorte de poisson de mer, EPICH. <i>fr. 47 Ahrens</i> ; ARSTT. <i>H.A. 2, 13, 8 ; 2, 15, 14</i>.`

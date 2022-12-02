@@ -1,0 +1,1 @@
+lar[106515]=`<b>ης (ἡ)</b> Phœbè, <i>fille d’Ouranos et mère de Latone,</i> HÉS. <i>Th. 136 ; fille de Léda,</i> EUR. <i>I.A. 50</i>.`

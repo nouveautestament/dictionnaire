@@ -1,0 +1,1 @@
+lar[103444]=`<b>ὑπο·λακτίζω</b>, ruer secrètement : εἴς τινα, LUC. <i>As. 28,</i> contre qqn, le fouler secrètement aux pieds.`

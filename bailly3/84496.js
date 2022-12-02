@@ -1,0 +1,1 @@
+lar[84496]=`<b>προ·καταρτίζω</b>, ajuster <i>ou</i> arranger auparavant, NT. <i>2Cor. 9, 5 ; au pass</i>. HPC. <i>24, 10 et 18</i>.`

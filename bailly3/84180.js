@@ -1,0 +1,1 @@
+lar[84180]=`<b>προ·εξαιτέω-ῶ</b>, réclamer auparavant, RHÉT. <i>1, 321 W</i>.`

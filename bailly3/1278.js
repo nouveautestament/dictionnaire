@@ -1,0 +1,1 @@
+lar[1278]=`<b>ἀδηλόω-ῶ</b>, rendre invisible, PHIL. <i>2, 510</i>.<p><b>Étym</b>. ἄδηλος.`

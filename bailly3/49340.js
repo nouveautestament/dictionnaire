@@ -1,0 +1,1 @@
+lar[49340]=`<b>ἱππο·κέλευθος, ος, ον :<br>      1</b> qui combat (<i>propr</i>. qui s’avance) sur un char, IL. <i>16, 126, etc.</i><br><b>      2</b> qui voyage à cheval, ANTH. <i>9, 210</i>.<p><b>Étym</b>. ἵ. κέλευθος.`

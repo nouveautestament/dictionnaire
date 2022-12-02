@@ -1,0 +1,1 @@
+lar[95964]=`<b>συν·θλάω-ῶ</b>, briser <i>ou</i> broyer ensemble, Ps.-ERATOSTH. <i>Cat. 11</i> ; DS. <i>1, 57 ; au pass</i>. ALEX. (<i>Com. fr. 3, 510</i>) ; NT. <i>Matth. 21, 44, etc</i>.`

@@ -1,0 +1,1 @@
+lar[84842]=`<b>προ·ομαλίζω</b> <font color="purple">[ᾰ]</font> aplanir auparavant, CHRYS.`

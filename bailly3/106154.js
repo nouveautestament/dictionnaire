@@ -1,0 +1,1 @@
+lar[106154]=`<b>φιλο·τραγήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐᾰ]</font> qui aime les friandises de dessert, EUB. (ATH. <i>642c</i>).<p><b>Étym</b>. φ. τράγημα.`

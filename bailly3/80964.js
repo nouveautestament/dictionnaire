@@ -1,0 +1,1 @@
+lar[80964]=`<b>πληθωριάω-ῶ</b>, être atteint de pléthore, GAL. <i>18, 728</i>.<p><b>Étym</b>. πληθώρα.`

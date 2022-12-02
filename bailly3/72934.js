@@ -1,0 +1,1 @@
+lar[72934]=`<b>ὀρνιθο·κόμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui élève des oiseaux, <i>particul</i>. des poules, ANAXIL. (ATH. <i>655a</i>).<p><b>Étym</b>. ὄρνις, κομέω.`

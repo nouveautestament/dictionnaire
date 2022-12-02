@@ -1,0 +1,1 @@
+lar[76321]=`<font color="darkgreen">(<i>f</i>. -τεμῶ, <i>ao.2</i> παρέταμον) :</font><br><b>      1</b> fendre sur le côté <i>ou</i> tout du long, AR. <i>Lys. 117, 132</i> ; POSIDON. (ATH. <i>152a</i>).<br><b>      2</b> couper plus qu’il ne faut, TH. <i>H.P. 6, 3, 2</i>.`

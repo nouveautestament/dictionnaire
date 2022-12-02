@@ -1,0 +1,1 @@
+lar[14706]=`<b>Ἀριστό·κλειτος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristokleitos, <i>h</i>. PLUT. <i>Lys. 2</i>.<p><b>Étym</b>. ἄ. κλειτός.`

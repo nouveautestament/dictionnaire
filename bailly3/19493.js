@@ -1,0 +1,1 @@
+lar[19493]=`<b>ή, όν</b>, qui concerne les machines de jet : τὰ βελικά, ATHÉNÉE MÉC. <i>8, 6,</i> les engins balistiques.<p><b>Étym</b>. βέλος.`

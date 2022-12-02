@@ -1,0 +1,1 @@
+lar[80520]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Pittakos :<br><b>      1</b> <i>un des sept sages,</i> HDT. <i>1, 27</i> ; PLAT. <i>Prot. 340c, etc.</i><br><b>      2</b> <i>roi des Édones,</i> THC. <i>4, 107</i>.`

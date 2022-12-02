@@ -1,0 +1,1 @@
+lar[85774]=`<b>προσ·ερεύγομαι</b> (<i>seul. prés</i>.) roter <i>ou</i> vomir contre ; <i>fig. avec l’acc.</i> : πέτρην, IL. <i>15, 621,</i> battre une roche avec bruit, <i>en parl. des flots, cf</i>. προσερυγγάνω.`

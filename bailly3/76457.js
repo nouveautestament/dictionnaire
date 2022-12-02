@@ -1,0 +1,1 @@
+lar[76457]=`<b>ατος (τὸ)</b> <font color="purple">[χᾰ]</font> fausse empreinte, CLÉM. <i>780 ; fig</i>. SYN. <i>Provid. 18, 1257a Migne</i>.<p><b>Étym</b>. παραχαράσσω.`

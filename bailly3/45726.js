@@ -1,0 +1,1 @@
+lar[45726]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἡπατῖτις 2, DIOSC.`

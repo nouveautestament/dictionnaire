@@ -1,0 +1,1 @@
+lar[82132]=`<b>ης</b>, recherchée par beaucoup de prétendants, OD. <i>4, 770 ; 14, 64 ; 23, 149</i>.<p><b>Étym</b>. π. μνάομαι.`

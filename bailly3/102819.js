@@ -1,0 +1,1 @@
+lar[102819]=`<b>ὑπερ·τέλλω</b> <font color="darkgreen">(<i>ao</i>. ὑπερέτειλα)</font> s’élever <i>ou</i> se montrer au-dessus, ANTH. <i>5, 236 ; en parl. du soleil qui s’élève au-dessus de l’horizon,</i> HDT. <i>3, 104</i> ; τινός, EUR. <i>Or. 839</i> ; τινί, ANTH. <i>9, 656</i> ; τι, ANTH. <i>8, 178,</i> de qqe ch.<br><b><i>Moy.</i></b> <i>m. sign</i>. OPP. <i>H. 5, 126</i>.`

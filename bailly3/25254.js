@@ -1,0 +1,1 @@
+lar[25254]=`<b>ατος (τὸ)</b> poutre transversale, étai de traverse, entretoise, pièce de contreventement, PHIL. BYZ. <i>74</i> ; HÉRON <i>254</i>.<p><b>Étym</b>. διαπήγνυμι.`

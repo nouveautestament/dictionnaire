@@ -1,0 +1,1 @@
+lar[102624]=`<b>ὑπερ·λαλέω-ῶ</b> <font color="purple">[ᾰ]</font> parler trop, PHILSTR. <i>Ep. 1</i>.`

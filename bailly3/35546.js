@@ -1,0 +1,1 @@
+lar[35546]=`<b>ἑξα·πλόος, ος, ον</b>, sextuple ; τὰ ἑξαπλᾶ, les six traductions, <i>édition donnée par Origène des traductions grecques de l’Ancien Testament, disposées en six colonnes (texte hébreu, texte hébreu en caractères grecs, traduction d’Aquila, des Septante, de Symmaque, de Théodotion).</i><p><b>Étym</b>. ἕξ, -πλοος.`

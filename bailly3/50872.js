@@ -1,0 +1,1 @@
+lar[50872]=`<b>κακό·σχολος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui emploie mal son loisir, <i>càd</i>. qui perd son temps, <i>d’où</i> paresseux, ANTH. <i>5, 104 ; ou</i> qui emploie mal son temps, ARR. <i>Epict. 2, 19, 15</i>.<br><b>      2</b> qui cause un retard funeste, ESCHL. <i>Ag. 194</i>.<p><b>Étym</b>. κ. σχολή.`

@@ -1,0 +1,1 @@
+lar[110493]=`<b>οῦ (ὁ)</b> Ôrôpos (<i>auj</i>. Skála Oropoú) <i>v. sur la côte est de la Grèce centrale,</i> HDT. <i>6, 101</i> ; THC. <i>2, 23 ; 3, 91, etc.</i> ; XÉN. <i>Hell. 7, 4, 1, etc</i>.<p>➳ ἡ Ὠρωπός, ARSTT. <i>fr. 117</i>.`

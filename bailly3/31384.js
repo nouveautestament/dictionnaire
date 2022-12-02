@@ -1,0 +1,1 @@
+lar[31384]=`<b>ἐκ·καλλύνω</b>, rendre beau <i>ou</i> propre, purifier, nettoyer, ARR. <i>Eux. 92</i>.`

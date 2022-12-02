@@ -1,0 +1,1 @@
+lar[90437]=`<b>ος, ον</b> <font color="purple">[ῐῠ]</font> du Sipylos : τὸ Σ. ἄκρον, SOPH. <i>Ant. 825 ; ou subst</i>. τὸ Σ. Ps.-PLUT. <i>Fluv. 9, 4,</i> le mt Sipylos.<p><b>Étym</b>. <i>cf</i>. Σίπυλος¹, Σίπυλος².`

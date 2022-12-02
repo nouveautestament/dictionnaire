@@ -1,0 +1,1 @@
+lar[57734]=`<b>ῆρος (ὁ)</b> le suspenseur, <i>n. de certains muscles,</i> GAL. <i>4, 264</i> ; P. ÉG. <i>6, 61</i>.<p><b>Étym</b>. κρεμάννυμι.`

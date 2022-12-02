@@ -1,0 +1,1 @@
+lar[32751]=`<b>ης (ἡ)</b> Éléphantine (<i>auj</i>. Gazīrat il-Fantīn) <i>î. et v. de la Thébaïde, en Égypte,</i> HDT. <i>2, 9, etc.</i> ; TH. <i>H.P. 1, 3, 5, etc</i>.<p><b>Étym</b>. ἐλεφάντινος.`

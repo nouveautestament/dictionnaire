@@ -1,0 +1,1 @@
+lar[3750]=`<b>ας (ἡ)</b> engagement à distance, escarmouche de tirailleurs, APP. <i>Civ. 1, 84</i>.<p><b>Étym</b>. ἀκρόβολος.`

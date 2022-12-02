@@ -1,0 +1,1 @@
+lar[23024]=`<i>adv</i>., avec art, avec habileté, EPIC. (PLUT. <i>M. 1097c</i>).<p><b>Étym</b>. δάϊος².`

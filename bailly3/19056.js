@@ -1,0 +1,1 @@
+lar[19056]=`<b>(ὁ)</b> Barakhias, <i>n. d’h. hébr</i>. NT. <i>Matth. 23, 35</i>.`

@@ -1,0 +1,1 @@
+lar[64227]=`<b>(ἡ)</b> = <i>lat</i>. « membrana », peau, <i>particul</i>. parchemin, NT. <i>2Tim. 4, 13</i>.`

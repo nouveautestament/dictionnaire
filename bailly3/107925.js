@@ -1,0 +1,1 @@
+lar[107925]=`<b>(ὁ)</b> <font color="purple">[ᾰῑᾰ]</font> Kharinadès, <i>h</i>. AR. <i>Vesp. 232</i>.<p><b>Étym</b>. <i>patr. de</i> Χαρῖνος.`

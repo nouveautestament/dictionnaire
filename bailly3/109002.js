@@ -1,0 +1,1 @@
+lar[109002]=`<i>adv</i>., utilement, commodément, PLUT. <i>M. 80b</i>.<p>•<i> Cp</i>. -ώτερον, ARR. <i>Epict. 2, 9, 19</i>.`

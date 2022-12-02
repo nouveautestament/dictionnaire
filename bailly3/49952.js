@@ -1,0 +1,1 @@
+lar[49952]=`<b>ή, όν</b> <font color="purple">[ῑᾰ]</font> d’Italiote, PLAT. <i>Ep. 326b ;</i> LUC. <i>H. conscr. 15, etc</i>.<p><b>Étym</b>. <i>v</i>. Ἰταλιώτης.`

@@ -1,0 +1,1 @@
+lar[25100]=`<b>δι·αναγιγνώσκω</b> <font color="darkgreen">(<i>f</i>. -αναγνώσομαι, <i>etc</i>.)</font> lire d’un bout à l’autre, <i>acc</i>. ISOCR. <i>275a ;</i> POL. <i>31, 21, 9</i>.`

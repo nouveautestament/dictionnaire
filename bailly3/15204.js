@@ -1,0 +1,1 @@
+lar[15204]=`<b>ου (ὁ)</b> Arsacide, <i>fils ou descendant d’Arsacès ; plur</i>. οἱ Ἀρσακίδαι, PLUT. <i>Crass. 32</i> ; ANTH. <i>6, 332, etc</i>. les Arsacides, <i>dynastie royale des Parthes</i>.<p>➳ <i>Gén. pl. poét</i>. -ιδέων, ANTH. <i>l. c</i>.<p><b>Étym</b>. Ἀρσάκης.`

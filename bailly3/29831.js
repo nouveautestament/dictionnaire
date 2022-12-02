@@ -1,0 +1,1 @@
+lar[29831]=`<b>ἔγ·ξυλος, ος, ον</b> <font color="purple">[ῠ]</font> (taillé) dans du bois <i>ou</i> fait de bois, EN. TACT. <i>Pol. c. 31</i>.<p><b>Étym</b>. ἐν, ξύλον.`

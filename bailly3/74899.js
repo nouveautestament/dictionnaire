@@ -1,0 +1,1 @@
+lar[74899]=`<b>αιΐδος (ἡ)</b> <font color="purple">[ᾰᾰῐδ]</font> <i>s.e</i>. γῆ, l’Achaïe, <i>càd</i>. la Grèce tout entière, A.RH. <i>1, 243</i>.<p><b>Étym</b>. Παναχαιοί.`

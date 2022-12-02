@@ -1,0 +1,1 @@
+lar[64973]=`<b>μετα·στένω</b>, gémir ensuite sur, déplorer ensuite, <i>acc</i>. OD. <i>4, 261</i> ; ESCHL. <i>Eum. 56</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Med. 996</i>.`

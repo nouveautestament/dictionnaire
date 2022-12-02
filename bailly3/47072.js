@@ -1,0 +1,1 @@
+lar[47072]=`<b>θεσφατη·λόγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui rend des oracles, ESCHL. <i>Ag. 1442</i>.<p><b>Étym</b>. θέσφατος, λέγω.`

@@ -1,0 +1,1 @@
+lar[39230]=`<b>ἐπι·συνδέω :<br>      1</b> lier ensemble par-dessus, <i>acc</i>. EN. TACT. <i>Pol. c. 37, p. 111</i>.<br><b>      2</b> lier encore, lier d’un nouveau lien, <i>ou</i> resserrer les liens, <i>fig</i>. HIÉROCL. (STOB. <i>Fl. 85, 21, t. 3, p. 150, l. 19</i>) ; τὴν ἀπορίαν μᾶλλον ἐπ. TH. <i>C.P. 2, 17, 7,</i> accroître encore les difficultés.`

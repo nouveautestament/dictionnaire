@@ -1,0 +1,1 @@
+lar[58348]=`<b>κυανό·θριξ, τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰῐχ]</font> aux cheveux d’un noir bleuâtre, ORPH. <i>Arg. 1192</i> ; ANTH. <i>6, 250</i>.<p><b>Étym</b>. κ. θρίξ.`

@@ -1,0 +1,1 @@
+lar[95387]=`<b>συν·εκπλήσσω</b>, <i>att</i>. <b>-πλήττω</b>, frapper de stupeur ensemble <i>ou</i> en même temps, PLUT. <i>M. 41c</i>.`

@@ -1,0 +1,1 @@
+lar[70282]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> couvert de grosses vagues, ESCHL. (ATH. <i>469f</i>) ; OPP. <i>H. 5, 273</i>.<p><b>Étym</b>. οἶδμα.`

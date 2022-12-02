@@ -1,0 +1,1 @@
+lar[26155]=`<b>δι·εκτιτραίνω</b> (<i>part. pf. pass. fém</i>. διεκτετρημέναι) transpercer, perforer, HLD. CHIR. (ORIB. <i>161 Mai</i>).`

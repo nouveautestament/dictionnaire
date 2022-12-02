@@ -1,0 +1,1 @@
+lar[40652]=`<b>ου</b>, <i>adj. f</i>. qui porte un hermès (statue de Dèmèter) <i>à Delphes,</i> POLÉM. (ATH. <i>416b</i>).<p><b>Étym</b>. Ἑρμῆς, ἔχω.`

@@ -1,0 +1,1 @@
+lar[95004]=`<b>συνασώματος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> également incorporel, NYSS.`

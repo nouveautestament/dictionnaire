@@ -1,0 +1,1 @@
+lar[26040]=`<font color="purple">[ῐῠ]</font> (<i>part. prés. fém</i>.) avoir deux jumeaux, SPT. <i>Cant. 4, 2</i>.<p><b>Étym</b>. δίδυμος.`

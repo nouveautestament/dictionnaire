@@ -1,0 +1,1 @@
+lar[95853]=`<b>συν·έψω :<br>      1</b> faire cuire avec <i>ou</i> en même temps, PLUT. <i>M. 658d ;</i> LUC. <i>J. tr. 30</i>.<br><b>      2</b> faire s’échauffer, <i>en parl. des humeurs,</i> HPC. <i>V. med. 16 ; de l’urine,</i> HPC. <i>Aër. 286, etc. ; d’où</i> produire de la fermentation, TH. <i>C.P. 1, 21, 2 ; 2, 4 ; 6, 18, 9</i>.`

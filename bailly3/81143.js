@@ -1,0 +1,1 @@
+lar[81143]=`<b>οῦ (ὁ) :<br>      1</b> boucle de cheveux, <i>au pl</i>. IL. <i>17, 52</i> ; A.RH. <i>2, 677</i> ; ANTH. <i>6, 237</i>.<br><b>      2</b> <i>p. anal</i>. tentacule du poulpe, ANTH. <i>9, 10</i>.<p><b>Étym</b>. πλέκω.`

@@ -1,0 +1,1 @@
+lar[100382]=`<b>τριποδη·φορέω-ῶ</b> <font color="purple">[ῐ]</font> offrir un trépied dans un temple, STR. <i>402</i>.<p><b>Étym</b>. τρίπους, -φόρος <i>de</i> φέρω.`

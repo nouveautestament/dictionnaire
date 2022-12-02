@@ -1,0 +1,1 @@
+lar[36787]=`<b>ἐπ·αριστερότης, ητος (ἡ)</b> <font color="purple">[ᾰ]</font> gaucherie, maladresse, ARSTT. <i>Virt. et vit. 6, 1</i>.<p><b>Étym</b>. ἐπαρίστερος.`

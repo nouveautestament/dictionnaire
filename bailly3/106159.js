@@ -1,0 +1,1 @@
+lar[106159]=`<b>φιλό·τροφος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à nourrir, à entretenir, ORPH. <i>H. 1, 5</i>.<p><b>Étym</b>. φ. τρέφω.`

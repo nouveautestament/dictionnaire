@@ -1,0 +1,1 @@
+lar[103743]=`<b>ίδος (ἡ)</b> <font color="purple">[τῠ]</font> pli en dessous : θώρακος, PLUT. <i>Alex. 16,</i> défaut de la cuirasse.<p><b>Étym</b>. ὑποπτύσσω.`

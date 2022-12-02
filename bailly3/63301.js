@@ -1,0 +1,1 @@
+lar[63301]=`<b>μεγαλ·άδικος, ος, ον</b> <font color="purple">[ᾰᾰῐ]</font> qui commet de grandes injustices, ARSTT. <i>Rhet. 2, 17, 4</i>.<p><b>Étym</b>. μ. ἄδικος.`

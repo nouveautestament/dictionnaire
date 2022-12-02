@@ -1,0 +1,1 @@
+lar[91389]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> vase à boire, haut et sans pied, tasse, OD. <i>14, 112</i> ; ALCM. <i>34</i> ; EUR. <i>Cycl. 256, 556</i> ; ARSTT. <i>Pol. 7, 2, 11</i>.<p><b>Étym</b>. <i>cf</i>. σκάφος.`

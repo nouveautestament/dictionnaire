@@ -1,0 +1,1 @@
+lar[109858]=`<b>ή, όν</b> <font color="purple">[ψῑ]</font> qui adoucit volontiers les aspirées, <i>particul</i>. qui écrit avec l’esprit doux, EUST. <i>515, 38</i>.<p><b>Étym</b>. ψιλόω.`

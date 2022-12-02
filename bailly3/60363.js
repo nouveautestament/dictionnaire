@@ -1,0 +1,1 @@
+lar[60363]=`<b>λεπιδόω-ῶ</b> <font color="purple">[ῐ]</font> couvrir d’écailles, <i>d’où, au pass.</i> :<br><b>      1</b> être couvert d’écailles, SEXT. <i>p. 14</i>.<br><b>      2</b> s’écailler, <i>en parl. d’os,</i> HPC. <i>774b</i>.<p><b>Étym</b>. λεπίς.`

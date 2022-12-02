@@ -1,0 +1,1 @@
+lar[6561]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> éruption avec bouillonnement, STR. <i>140</i>.<p><b>Étym</b>. ἀναβράζω.`

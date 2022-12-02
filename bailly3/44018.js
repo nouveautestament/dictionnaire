@@ -1,0 +1,1 @@
+lar[44018]=`<b>      1</b> être adolescent, ARTÉM. <i>1, 54</i> ; τὸ ἐφηβεῦον τῆς πόλεως, HLD. <i>7, 8,</i> la jeunesse, <i>càd</i>. les jeunes gens de la ville.<br><b>      2</b> se livrer aux exercices de l’adolescence, PAUS. <i>7, 27, 5</i>.<p><b>Étym</b>. ἔφηβος.`

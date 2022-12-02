@@ -1,0 +1,1 @@
+lar[27945]=`<b>*δροσία</b>, <i>ion</i>. <b>δροσίη, ης (ἡ)</b> rosée, <i>d’où</i> écume (d’un cheval) LUC. <i>Alex. 53</i>.<p><b>Étym</b>. δρόσος.`

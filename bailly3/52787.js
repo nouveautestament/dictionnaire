@@ -1,0 +1,1 @@
+lar[52787]=`<font color="purple">[μᾰ]</font> <i>vb. de</i> καταμανθάνω, HPC. <i>1195e</i>.`

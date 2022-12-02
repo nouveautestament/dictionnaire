@@ -1,0 +1,1 @@
+lar[95899]=`<i>mieux que</i> <b>συνηρεφία, ας (ἡ)</b> couvert <i>ou</i> ombrage épais, APP. <i>Civ. 4, 103</i>.<p><b>Étym</b>. συνηρεφής.`

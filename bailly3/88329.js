@@ -1,0 +1,1 @@
+lar[88329]=`<b>ή, όν</b> <font color="purple">[ᾰῐδ]</font> qui concerne l’art de coudre <i>ou</i> le métier de tailleur, CHRYS.<p><b>Étym</b>. *ῥαφιδεύω <i>de</i> ῥαφίς.`

@@ -1,0 +1,1 @@
+lar[51185]=`<b>καλλι·πέταλον, ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> quintefeuille, <i>plante,</i> DIOSC. <i>4, 42 ; v</i>. πεντάφυλλον.<p><b>Étym</b>. κ. πέταλον.`

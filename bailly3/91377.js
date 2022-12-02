@@ -1,0 +1,1 @@
+lar[91377]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> profession de cordonnier, PLAT. <i>Rsp. 397e, etc</i>.<p><b>Étym</b>. σκυτοτόμος.`

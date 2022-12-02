@@ -1,0 +1,1 @@
+lar[100536]=`<b>τριταιο·φυής, ής, ές</b> <font color="purple">[ῐτ]</font> de la nature de la fièvre tierce, HPC. <i>Epid. 1, 941, etc</i>.<p><b>Étym</b>. τριταῖος, φύω.`

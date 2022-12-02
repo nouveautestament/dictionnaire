@@ -1,0 +1,1 @@
+lar[26681]=`<i>ou</i> <b>Δινύτας (ὁ)</b> <font color="purple">[ῑ]</font> Dinyttas <i>ou</i> Dinytas, <i>h</i>. ANTH. <i>App. 374</i>.<p><b>Étym</b>. Δεῖνις ; <i>cf</i>. Διννύτας.`

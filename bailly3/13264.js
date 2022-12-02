@@ -1,0 +1,1 @@
+lar[13264]=`<i>adv.</i> :<br><b>      1</b> sans ressources, XÉN. <i>Hell. 7, 4, 8</i>.<br><b>      2</b> dans l’embarras, LYS. <i>151, 24</i> ; POL. <i>4, 18, 6, etc</i>.<p>•<i> Cp</i>. -ώτερον, THC. <i>1, 82</i> ; XÉN. <i>Ap. 18 ; ou</i> -ωτέρως, ANT. <i>121, 16. • Sup</i>. -ώτατα, PLAT. <i>Tim. 51a ;</i> ARSTT. <i>Meteor. 4, 7</i>.`

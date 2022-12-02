@@ -1,0 +1,1 @@
+lar[100056]=`<b>τρι·άδελφοι, ων (αἱ)</b> <font color="purple">[ᾰ]</font> les trois sœurs, <i>càd</i>. les Parques, SIB. <i>5, 215</i>.<p><b>Étym</b>. τρεῖς, ἀδελφός.`

@@ -1,0 +1,1 @@
+lar[63117]=`<b>ας (ἡ)</b> excitation à la débauche, XÉN. <i>Conv. 3, 10</i> ; PLUT. <i>M. 632d</i>.<p><b>Étym</b>. μαστροπεύω.`

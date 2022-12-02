@@ -1,0 +1,1 @@
+lar[23915]=`<b>δεξι·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> dont le nom signifie « à droite », qui est à droite, ESCHL. <i>Suppl. 607</i>.<p><b>Étym</b>. δεξιός, ὄνομα.`

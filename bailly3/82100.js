@@ -1,0 +1,1 @@
+lar[82100]=`<b>πολυ·μέριμνος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. plein de soucis, NYSS.<br><b>      2</b> <i>act</i>. qui cause beaucoup de soucis, ARSTT. <i>Mund. 6, 34</i>.<p><b>Étym</b>. π. μέριμνα.`

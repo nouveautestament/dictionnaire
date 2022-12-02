@@ -1,0 +1,1 @@
+lar[77846]=`<b>ῶν (αἱ)</b> Peltæ, <i>v. de Phrygie,</i> XÉN. <i>An. 1, 2, 10</i>.`

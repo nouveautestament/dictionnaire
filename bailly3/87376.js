@@ -1,0 +1,1 @@
+lar[87376]=`<b>εως (ἡ)</b> effroi, épouvante, ARSTT. <i>Mir. 157</i>.<p><b>Étym</b>. πτήσσω.`

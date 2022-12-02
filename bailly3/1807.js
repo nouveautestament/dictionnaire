@@ -1,0 +1,1 @@
+lar[1807]=`<b>ἀερό·τονον ὄργανον (τὸ)</b> <font color="purple">[ᾱ]</font> engin (pierrier) à air comprimé, PHIL. BYZ. <i>Bel. 60</i>.<p><b>Étym</b>. ἀ. τείνω.`

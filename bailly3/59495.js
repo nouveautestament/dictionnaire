@@ -1,0 +1,1 @@
+lar[59495]=`<b>λαθρο·πόδης</b> <i>ou</i> <b>λαθρό·πους (ὁ, ἡ)</b> <i>seul. acc. pl</i>. λαθροπόδας, ANTH. <i>9, 409,</i> qui s’avance secrètement <i>ou</i> insensiblement.<p><b>Étym</b>. λάθρᾳ, πούς.`

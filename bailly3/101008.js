@@ -1,0 +1,1 @@
+lar[101008]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. τυμβεῖος, NONN.`

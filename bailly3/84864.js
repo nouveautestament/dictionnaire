@@ -1,0 +1,1 @@
+lar[84864]=`<b>προ·ορχηστήρ, ῆρος (ὁ)</b> <i>litt</i>. qui conduit la danse, <i>d’où fig., chez les Thessaliens, c</i>. προστάτης <i>ou</i> προαγωνιστής, LUC. <i>Salt. 14</i>.<p><b>Étym</b>. π. ὀρχέομαι.`

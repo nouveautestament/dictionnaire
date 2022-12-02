@@ -1,0 +1,1 @@
+lar[61124]=`<b>ου (τὸ)</b> Lilæon :<br><b>      1</b> <i>mt. de l’Inde,</i> Ps.-PLUT. <i>Fluv. 25, 4</i>.<br><b>      2</b> <i>lieu de Doride,</i> LYC. <i>980</i>.`

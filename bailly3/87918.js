@@ -1,0 +1,1 @@
+lar[87918]=`<b>πυρι·φλεγής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui brûle avec flamme, au feu ardent, XÉN. <i>Hell. 5, 3, 19</i> ; PLUT. <i>M. 948c.</i><br><b>      2</b> avec une inflammation violente, HPC. <i>610, 24</i>.<br><b>      3</b> causé par une inflammation, ARÉT. <i>Caus. m. diut. 2, 2</i>.<p><b>Étym</b>. π. φλέγω.`

@@ -1,0 +1,1 @@
+lar[62066]=`<font color="purple">[ῡῐ]</font> <i>adv</i>., utilement, XÉN. <i>Œc. 20, 21</i> ; PLAT. <i>2 Alc. 146c ;</i> τινί, DC. <i>56, 40,</i> pour qqn.<p><b>Étym</b>. λυσιτελέω.`

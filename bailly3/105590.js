@@ -1,0 +1,1 @@
+lar[105590]=`<b>φίλ·εχθρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime l’inimitié, haineux, GAL. <i>19, 486</i> ; P. SIL. <i>Th. Pyth. 159</i>.<p><b>Étym</b>. φ. ἔχθρα.`

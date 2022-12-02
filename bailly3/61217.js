@@ -1,0 +1,1 @@
+lar[61217]=`<b>ου (ὁ)</b> sorte de plante aromatique, MNÉSIM. (ATH. <i>403d</i>).`

@@ -1,0 +1,1 @@
+lar[6229]=`<b>ἀμφι·λαχαίνω</b> (<i>seul. impf. 3 sg</i>. ἀμφελάχαινεν) bêcher autour de, <i>acc</i>. OD. <i>24, 242</i>.`

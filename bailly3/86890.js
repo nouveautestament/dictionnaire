@@ -1,0 +1,1 @@
+lar[86890]=`<b>προ·ϋποστυφή, ῆς (ἡ)</b> <font color="purple">[ῡφ]</font> emploi de mordants pour la préparation de la laine à teindre, THÉANO <i>Ep. 1</i>.<p><b>Étym</b>. π. ὑποστύφω.`

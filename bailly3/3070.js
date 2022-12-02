@@ -1,0 +1,1 @@
+lar[3070]=`<font color="purple">[κᾰ]</font> <i>adv</i>., sans méchanceté, sans malice, ingénument, DÉM. <i>1154, 18</i>.`

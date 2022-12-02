@@ -1,0 +1,1 @@
+lar[110348]=`<b>ᾠο·βραχής, ής, ές</b> <font color="purple">[ᾰ]</font> mouillé <i>ou</i> trempé dans du blanc d’œuf, P. ÉG. <i>6</i>.<p><b>Étym</b>. ᾠόν, βρέχω.`

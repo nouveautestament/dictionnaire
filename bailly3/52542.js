@@ -1,0 +1,1 @@
+lar[52542]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font><br><b>      1</b> action de briser, fracture, HPC. <i>1165g ;</i> ὄμματος, HPC. <i>1165g</i>, déviation de l’œil.<br><b>      2</b> <i>t. de phys</i>. réfraction de la lumière <i>ou</i> du son, ARSTT. <i>Probl. 11, 23 et 51 (p. opp. à</i> ἀνάκλασις).<p><b>Étym</b>. κατακλάω.`

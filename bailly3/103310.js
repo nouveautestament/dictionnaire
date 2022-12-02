@@ -1,0 +1,1 @@
+lar[103310]=`<b>ὑπο·καθίημι</b>, baisser un peu, <i>acc</i>. PHILSTR. <i>Gymn. 2, p. 277 Kays.</i> ; ὑπ. πώγωνος βάθη, EPHIPP. (ATH. <i>509d</i>) laisser croître sa barbe dans toute sa longueur.`

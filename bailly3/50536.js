@@ -1,0 +1,1 @@
+lar[50536]=`<b>ου (ὁ)</b> = <i>lat</i>. Cæcinus (<i>auj</i>. Corace) <i>fl. du Bruttium,</i> THC. <i>3, 103</i> ; EL. <i>V.H. 8, 18</i>.`

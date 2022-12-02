@@ -1,0 +1,1 @@
+lar[110158]=`<b>(τὸ)</b> DIOSC. <i>4, 28,</i> la petite saponaire à feuilles de basilic (<i>Saponaria ocimoïdes</i> ou <i>Silene gallica</i> L.).<p><b>Étym</b>. ὠκιμοειδής.`

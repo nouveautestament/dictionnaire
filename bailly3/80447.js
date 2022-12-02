@@ -1,0 +1,1 @@
+lar[80447]=`<b>*πισσο·κοπέω</b>, <i>seul. att</i>. <b>πιττο·κοπέω-ῶ :<br>      1</b> enduire de goudron, TH. <i>H.P. 5, 4, 5</i>.<br><b>      2</b> couvrir d’emplâtres de poix pour épiler, ALEX. (<i>Com. fr. 3, 508).</i><p><b>Étym</b>. πίσσα, κόπτω.`

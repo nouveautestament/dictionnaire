@@ -1,0 +1,1 @@
+lar[64795]=`<i>adv</i>., par métalepse, <i>t. de gr</i>. TRYPH. <i>Trop. p. 739</i>.`

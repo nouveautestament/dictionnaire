@@ -1,0 +1,1 @@
+lar[36142]=`<b>εως (ἡ)</b> impression, <i>d’où</i> empreinte : ἔν τινι, PLAT. <i>Tim. 80e</i>, sur qqe ch.<p><b>Étym</b>. ἐξομόργνυμι.`

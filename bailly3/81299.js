@@ -1,0 +1,1 @@
+lar[81299]=`<b>ητος (ἡ)</b> qualité d’un être muni de pieds, ARSTT. <i>P.A. 1, 3, 2 ; Metaph. 6, 12, 8</i>.<p><b>Étym</b>. πούς.`

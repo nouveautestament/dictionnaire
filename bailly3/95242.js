@@ -1,0 +1,1 @@
+lar[95242]=`<b>οῦ (ὁ)</b> action de se rapprocher tout à fait, STR. <i>174</i> ; SOR. <i>Obst. p. 78 ; avec</i> πρός <i>et l’acc</i>. ARR. <i>Epict. 1, 4, 8</i> ; PTOL. <i>Math. synt. t. 2, p. 120d ; Geogr. 1, 13, 1 ; 2, 1, 2 ; Tetr. 4, p. 209c ;</i> SEXT. <i>P. 3, 66 ; M. 10, 67</i>.<p><b>Étym</b>. συνεγγίζω.`

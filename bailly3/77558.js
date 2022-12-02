@@ -1,0 +1,1 @@
+lar[77558]=`<b>πεδο·τριβής, ής, ές</b> <font color="purple">[ῐ]</font> qui foule le sol, NONN. <i>D. 10, 361</i>.<p><b>Étym</b>. π. τρίβω.`

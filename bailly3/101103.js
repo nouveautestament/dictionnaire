@@ -1,0 +1,1 @@
+lar[101103]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> meurtre d’un tyran, PLUT. <i>Pel. 34, Arat. 16, M. 350c ;</i> LUC. <i>Tyr. 22</i>.<p><b>Étym</b>. τυραννοκτόνος.`

@@ -1,0 +1,1 @@
+lar[40511]=`<b>οῦ</b>, <i>adj. m</i>. querelleur, disputeur, AQU. <i>Ezech. 44, 6</i>.<p><b>Étym</b>. ἐρίζω.`

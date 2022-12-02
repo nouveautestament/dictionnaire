@@ -1,0 +1,1 @@
+lar[86379]=`<b>προσ·ράσσω</b>, heurter contre, <i>dat</i>. PAUS. <i>8, 27, 14</i>.`

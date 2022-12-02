@@ -1,0 +1,1 @@
+lar[38824]=`<b>ἐπι·προφαίνομαι</b> <font color="darkgreen">(<i>part. ao.2</i> ἐπιπροφανείς)</font> se montrer, se faire voir, A.RH. <i>3, 917</i>.`

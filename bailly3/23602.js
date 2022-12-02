@@ -1,0 +1,1 @@
+lar[23602]=`<b>δειπνο·κλήτωρ, ορος (ὁ)</b> qui invite à dîner, amphitryon, <i>d’où, p. ext</i>., maître d’hôtel, <i>c</i>. ἐλεάτρος, ARTÉM. (ATH. <i>171b</i>).<p><b>Étym</b>. δ. καλέω.`

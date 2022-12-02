@@ -1,0 +1,1 @@
+lar[81061]=`<b>      1</b> transformer en briques (de la terre) <i>acc</i>. HDT. <i>1, 179 ; abs</i>. AR. <i>Nub. 1126</i> ; LUC. <i>Sacr. 4, etc. ; d’où</i> mouler en forme de briques, AR. <i>Ran. 800</i>.<br><b>      2</b> construire en briques, <i>acc</i>. THC. <i>4, 67</i>.<br><b><i>Moy.</i></b> cuire des briques pour soi, THC. <i>2, 78</i>.<p><b>Étym</b>. πλίνθος.`

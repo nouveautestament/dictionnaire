@@ -1,0 +1,1 @@
+lar[60510]=`<b>Λευκαὶ στῆλαι (αἱ)</b> les Colonnes blanches, <i>lieu près de Marsyas en Phrygie,</i> HDT. <i>5, 118</i>.`

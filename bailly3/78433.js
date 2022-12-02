@@ -1,0 +1,1 @@
+lar[78433]=`<b>περι·βιάζομαι</b>, déployer une grande force, ES. <i>103 Halm</i>.`

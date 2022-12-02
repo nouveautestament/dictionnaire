@@ -1,0 +1,1 @@
+lar[80009]=`<b>πηγεσί·μαλλος, ος, ον</b> <font color="purple">[ῐ]</font> à l’épaisse toison, IL. <i>3, 197</i>.<p><b>Étym</b>. πήγνυμι, μαλλός.`

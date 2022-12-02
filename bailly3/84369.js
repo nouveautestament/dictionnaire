@@ -1,0 +1,1 @@
+lar[84369]=`<b>προθυμο·ποιέομαι-οῦμαι</b> <font color="purple">[ῡ]</font> remplir d’ardeur, <i>acc</i>. DS. <i>14, 56</i>.<p><b>Étym</b>. πρόθυμος, π.`

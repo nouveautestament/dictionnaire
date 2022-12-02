@@ -1,0 +1,1 @@
+lar[106102]=`<b>φιλοστεφανέω-ῶ</b> <font color="purple">[ῐᾰ]</font> aimer, rechercher <i>ou</i> disputer les couronnes, POL. <i>1, 16, 10 ; 7, 10, 2</i> ; PLUT. <i>M. 1000b</i>.<p><b>Étym</b>. φιλοστέφανος.`

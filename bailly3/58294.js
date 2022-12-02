@@ -1,0 +1,1 @@
+lar[58294]=`<b>κτιλόω-ῶ</b> (<i>seul. ao. moy. 3 pl</i>. ἐκτιλώσαντο) s’attacher, se concilier, <i>acc</i>. HDT. <i>4, 113</i>.<p><b>Étym</b>. κτίλος.`

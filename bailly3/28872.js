@@ -1,0 +1,1 @@
+lar[28872]=`<b>δυσ·πύητος, ος, ον</b> <font color="purple">[πῡ]</font> qui suppure difficilement, GAL.<p><b>Étym</b>. δ. <i>vb. de</i> πυέω.`

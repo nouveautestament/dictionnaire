@@ -1,0 +1,1 @@
+lar[101172]=`<b>ίδος</b> <font color="purple">[ῠᾱῐδ]</font> <i>adj. f. c</i>. Τυφαόνιος NONN. <i>D. 2, 287</i>.`

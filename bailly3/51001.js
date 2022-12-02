@@ -1,0 +1,1 @@
+lar[51001]=`<b>καλαμο·σφάκτης, ου</b> <font color="purple">[ᾰᾰ]</font> <i>adj. m</i>. qui étrangle <i>ou</i> tue avec un roseau, PHIL. <i>2, 536</i>.<p><b>Étym</b>. κ. σφάζω.`

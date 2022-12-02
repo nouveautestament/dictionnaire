@@ -1,0 +1,1 @@
+lar[94116]=`<b>συμ·πάρειμι</b> <font color="darkgreen">(<i>impf</i>. -παρῄειν, <i>f</i>. -πάρειμι, <i>etc</i>.)</font> s’avancer ensemble <i>ou</i> en même temps, XÉN. <i>Hell. 2, 1, 28</i> ; ESCHN. <i>42, 37</i>.<p><b>Étym</b>. εἶμι, aller.`

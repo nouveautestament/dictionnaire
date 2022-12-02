@@ -1,0 +1,1 @@
+lar[82658]=`s’échapper en bouillonnant comme des bulles, PD. <i>P. 4, 215</i>.<p><b>Étym</b>. πομφόλυξ.`

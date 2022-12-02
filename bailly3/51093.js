@@ -1,0 +1,1 @@
+lar[51093]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Kalligeitos, <i>h</i>. THC. <i>8, 6 et 39</i>.`

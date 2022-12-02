@@ -1,0 +1,1 @@
+lar[60293]=`<b>ατος (τὸ)</b> ce qu’on pèle, <i>càd.</i> :<br><b>      1</b> pelure, HPC. <i>641, 44</i> ; ALEX. (ATH. <i>55c</i>).<br><b>      2</b> coque, AR. <i>Av. 673</i> ; EL. <i>N.A. 4, 12</i>.<br><b>      3</b> peau, PLAT. <i>Tim. 76a.</i><br><b>      4</b> enveloppe (d’une plante, d’une graine, <i>etc</i>.) TH. <i>H.P. 4, 11, 6</i>.<p><b>Étym</b>. λέπω.`

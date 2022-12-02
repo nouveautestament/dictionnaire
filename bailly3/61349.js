@@ -1,0 +1,1 @@
+lar[61349]=`<b>λιπο·πτόλεμος, ος, ον</b> <font color="purple">[ῐ]</font> qui abandonne la guerre, NONN. <i>D. 35, 389</i>.<p><b>Étym</b>. λ. πτ.`

@@ -1,0 +1,1 @@
+lar[15568]=`<b>ή, όν</b>, qui peut être <i>ou</i> qui est la cause première de, PROCL. <i>Inst. theol. 70, etc</i>.<p>•<i> Cp</i>. -ώτερος, NYSS. <i>2, 66b</i>.<p><b>Étym</b>. ἀρχηγός.`

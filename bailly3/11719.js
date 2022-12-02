@@ -1,0 +1,1 @@
+lar[11719]=`<b>ἀπεπτέω-ῶ</b>, ne pas digérer, PLUT. <i>M. 136d ;</i> LUC. <i>Par. 57</i>.<p><b>Étym</b>. ἄπεπτος.`

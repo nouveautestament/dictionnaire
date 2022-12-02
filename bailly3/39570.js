@@ -1,0 +1,1 @@
+lar[39570]=`<b>ἐπι·φθονέω-ῶ :<br>      1</b> porter envie à, <i>dat</i>. HDT. <i>9, 79 ; au pass</i>. être jalousé, DH. <i>9, 43</i>.<br><b>      2</b> reprocher : τινί τι, OD. <i>11, 149,</i> qqe ch. à qqn.<p>➳ <i>Sbj. 2 sg. poét</i>. -έῃς, OD. <i>l. c</i>.`

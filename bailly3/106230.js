@@ -1,0 +1,1 @@
+lar[106230]=`<b>φιλτρο·ποιός, ός, όν</b>, qui prépare des philtres amoureux, ARISTÉN. <i>2, 18</i>.<p><b>Étym</b>. φίλτρον, ποιέω.`

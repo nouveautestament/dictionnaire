@@ -1,0 +1,1 @@
+lar[52842]=`<b>κατα·μιαίνω :<br>      1</b> souiller, <i>fig. acc</i>. PD. <i>P. 4, 178</i> ; PLAT. <i>Leg. 937d, etc.</i><br><b>      2</b> <i>particul</i>. prendre des vêtements sales <i>ou</i> sombres en signe de deuil, HDT. <i>6, 58</i>.<p><b>Étym</b>. κατατάμνεσθαι <i>Cobet</i>.`

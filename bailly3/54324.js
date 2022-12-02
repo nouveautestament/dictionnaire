@@ -1,0 +1,1 @@
+lar[54324]=`<i>adj. fém. (seul. gén. ion</i>. καυστείρης) brûlant, NIC. <i>Th. 924 ; fig</i>. μάχης, IL. <i>4, 342 ; 12, 316,</i> d’un combat chaud, ardent.<p><b>Étym</b>. <i>fém. de</i> καυστήρ.`

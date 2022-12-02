@@ -1,0 +1,1 @@
+lar[102975]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Hypios, <i>fl. de Bithynie,</i> A.RH. <i>2, 795</i>.`

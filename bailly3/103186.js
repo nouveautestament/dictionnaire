@@ -1,0 +1,1 @@
+lar[103186]=`<b>ᾶς (ἡ)</b> enlèvement graduel de la peau, ORIB. <i>p. 98 Cocch</i>.<p><b>Étym</b>. ὑποδέρω.`

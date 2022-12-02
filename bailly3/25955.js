@@ -1,0 +1,1 @@
+lar[25955]=`<b>δια·ψέγω</b>, blâmer fortement, PLAT. <i>Leg. 639a ;</i> EL. <i>V.H. 2, 22</i>.`

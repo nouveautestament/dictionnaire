@@ -1,0 +1,1 @@
+lar[85204]=`<b>προσ·ανίημι</b>, relâcher en outre, <i>acc</i>. PLUT. <i>M. 1145d</i>.`

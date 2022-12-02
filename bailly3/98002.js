@@ -1,0 +1,1 @@
+lar[98002]=`<b>ου (ὁ)</b> Teiribazos (Tiribaze) <i>Perse,</i> ISOCR. <i>4, 135 Baiter-Sauppe</i>.`

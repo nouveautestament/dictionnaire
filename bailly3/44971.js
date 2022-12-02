@@ -1,0 +1,1 @@
+lar[44971]=`<b>ἡδύ·βιος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui vit agréablement, PROCL. <i>Ptol. p. 230</i>.<br><b>      2</b> qui rend la vie agréable : τὰ ἡδύβια, CHRYSIPP. (ATH. <i>647c</i>) sorte de pâtisserie.<p><b>Étym</b>. ἡδύς, βίος.`

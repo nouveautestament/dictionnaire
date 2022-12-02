@@ -1,0 +1,1 @@
+lar[87142]=`<b>πρω·πέρυσι</b> <font color="purple">[ῠ]</font> <i>att. c</i>. προπέρυσι(ν), <i>sel</i>. PHRYN. <i>et</i> DYSC.`

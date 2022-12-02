@@ -1,0 +1,1 @@
+lar[26744]=`<b>δι·οιστρέω-ῶ</b>, aiguillonner fortement, DS. <i>4, 12</i> ; PHILSTR. <i>42</i>.`

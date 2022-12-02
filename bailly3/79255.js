@@ -1,0 +1,1 @@
+lar[79255]=`<b>περι·σκάπτω :<br>      1</b> creuser autour, <i>particul</i>. déchausser (la vigne) TH. <i>H.P. 4, 14, 7, etc.</i> ; GEOP. <i>3, 3, 6, etc.</i><br><b>      2</b> retourner en creusant, <i>au pass</i>. DH. <i>2, 31</i>.`

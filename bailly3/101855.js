@@ -1,0 +1,1 @@
+lar[101855]=`<b>ὑο·φόρβιον, ου (τὸ)</b> troupeau de porcs <i>ou</i> de truies, STR. <i>197, 218</i>.<p><b>Étym</b>. ὗς, φορβή.`

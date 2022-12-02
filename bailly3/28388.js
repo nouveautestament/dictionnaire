@@ -1,0 +1,1 @@
+lar[28388]=`<b>δυσ·εντερία, ας (ἡ)</b> <font color="purple">[ῠ]</font> dysenterie, affection des intestins, HDT. <i>8, 115</i> ; HPC. <i>1161e ;</i> PLAT. <i>Tim. 86a, Theæt. 142b ;</i> ARSTT. <i>H.A. 10, 7, 1</i> ; POL. <i>32, 25, 14</i>.<p>➳ <i>Ion</i>. -ίη, HDT. HPC. <i>ll. cc</i>.<p><b>Étym</b>. δ. ἔντερα.`

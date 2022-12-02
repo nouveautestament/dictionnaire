@@ -1,0 +1,1 @@
+lar[84638]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’avance, DC. <i>fr. Vat. p. 187</i>.<p><b>Étym</b>. προλαμβάνω.`

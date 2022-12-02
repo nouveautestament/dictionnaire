@@ -1,0 +1,1 @@
+lar[77038]=`<b>ατος (τὸ)</b> qui est un objet d’insulte pour un homme pris de vin, PLUT. <i>M. 350c ;</i> LGS <i>4, 19</i>.<p><b>Étym</b>. παροινέω.`

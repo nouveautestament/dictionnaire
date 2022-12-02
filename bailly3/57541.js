@@ -1,0 +1,1 @@
+lar[57541]=`<b>κραμβο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> mangeur de choux, BATR. <i>221</i>.<p><b>Étym</b>. κράμβη, φαγεῖν.`

@@ -1,0 +1,1 @@
+lar[60766]=`<b>ορος (ὁ) :<br>      1</b> pillard, OD. <i>15, 427</i> ; NIC. <i>Th. 347</i>.<br><b>      2</b> <i>adj</i>. qui détruit, qui ruine, ANTH. <i>9, 649 ; au fém</i>. NONN. <i>Jo. 10, 8</i>.<p><b>Étym</b>. <i>v</i>. ληϊστήρ.`

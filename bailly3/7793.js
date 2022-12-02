@@ -1,0 +1,1 @@
+lar[7793]=`<b>ἀνάτριπτος, ος, ον</b>, usé par le frottement, usé, DIOSC. <i>3, 40</i>.<p><b>Étym</b>. <i>vb. de</i> ἀνατρίβω.`

@@ -1,0 +1,1 @@
+lar[49042]=`<b>ης (ἡ)</b> Inèssa (<i>auj</i>. S. Maria di Lecodia <i>ou</i> Poggio Cocola près de Paternò) <i>v. de Sicile, voisine de l’Etna,</i> THC. <i>3, 104</i>.`

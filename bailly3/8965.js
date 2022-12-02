@@ -1,0 +1,1 @@
+lar[8965]=`<b>ἀνθρωπό·μορφος, ος, ον</b>, à forme humaine, STR. <i>805</i> ; PLUT. <i>M. 149c, 167d ;</i> LUC. <i>Alex. 12 et 16, etc.</i> ; τὸ ἀ. DIOSC. <i>4, 76, c</i>. μανδραγόρας.<p><b>Étym</b>. ἄ. μορφή.`

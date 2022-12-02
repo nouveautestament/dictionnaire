@@ -1,0 +1,1 @@
+lar[71216]=`<b>ὁλό·σκιος, ος, ον</b>, tout couvert d’ombre <i>ou</i> d’ombrages, STR. <i>260</i>.<p><b>Étym</b>. ὅλ. σκιά.`

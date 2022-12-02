@@ -1,0 +1,1 @@
+lar[86450]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> prédominance des humeurs, HPC. <i>1185a.</i><br><b>      2</b> insigne du rang, pompe, magnificence, PLAT. <i>Rsp. 577a</i>.<p><b>Étym</b>. προΐστημι.`

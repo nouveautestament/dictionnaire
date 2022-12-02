@@ -1,0 +1,1 @@
+lar[61933]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> Lykôpée, <i>h</i>. THCR. <i>Idyl. 7, 4</i>.`

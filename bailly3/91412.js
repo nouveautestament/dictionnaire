@@ -1,0 +1,1 @@
+lar[91412]=`<b>ατος (τὸ)</b> raillerie, sarcasme, AR. <i>Pl. 316, etc.</i> ; ἐν σκώμματος μέρει, ESCHN. <i>17, 41,</i> en manière de moquerie ; <i>joint à</i> γέλως, DÉM. <i>1261, 14, etc</i>.<p><b>Étym</b>. σκώπτω.`

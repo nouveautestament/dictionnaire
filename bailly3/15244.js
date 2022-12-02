@@ -1,0 +1,1 @@
+lar[15244]=`<b>ης (ἡ)</b> mesure persane de 1 médimne et 3 chénices attiques, environ 56 litres, HDT. <i>1, 192</i>.`

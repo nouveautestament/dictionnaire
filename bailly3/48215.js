@@ -1,0 +1,1 @@
+lar[48215]=`<b>ἰαμβ·έλεγος, ου (ὁ)</b> vers demi-ïambique, demi-élégiaque, <i>càd. pentamètre dont la première partie est un penthémimère ïambique</i> : ⏑ ‒ ⏑ ‒ ‒ ‒ ⏑⏑ ‒ ⏑⏑ ‒, HÉPH. <i>15, 13</i>.<p><b>Étym</b>. ἰ. ἔλεγος.`

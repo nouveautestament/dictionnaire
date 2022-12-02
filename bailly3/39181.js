@@ -1,0 +1,1 @@
+lar[39181]=`<i>adv.</i> :<br><b>      1</b> avec application, avec art, ESCHN. <i>10, 30</i>.<br><b>      2</b> vivement, avec force, HDT. <i>1, 30</i> ; DH. <i>7, 34</i>.<p>➳ <i>Ion</i>. ἐπιστρεφέως, HDT. <i>l. c</i>.<p><b>Étym</b>. ἐπιστρεφής.`

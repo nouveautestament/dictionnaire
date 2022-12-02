@@ -1,0 +1,1 @@
+lar[96756]=`<b>ης, ες</b>, glouton comme un porc, PLUT. <i>M. 716e ;</i> PHILSTR. <i>Im. p. 511</i>.<p><b>Étym</b>. σῦς, -ωδης.`

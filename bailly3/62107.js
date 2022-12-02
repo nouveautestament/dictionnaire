@@ -1,0 +1,1 @@
+lar[62107]=`<b>λυτρο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime le prix d’une rançon, SIB. <i>8, 494</i>.<p><b>Étym</b>. λύτρον, χαίρω.`

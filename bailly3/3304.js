@@ -1,0 +1,1 @@
+lar[3304]=`<b>ῆρος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui calme : ἀ. χαλινός, SOPH. <i>O.C. 714,</i> frein qui calme l’ardeur, qui dompte.<p><b>Étym</b>. ἀκέομαι.`

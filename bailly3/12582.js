@@ -1,0 +1,1 @@
+lar[12582]=`<b>ατος (τὸ)</b> lamentation, ARR. <i>Epict. 2, 16</i>.<p><b>Étym</b>. ἀποκλαίω.`

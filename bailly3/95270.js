@@ -1,0 +1,1 @@
+lar[95270]=`<b>εως (ἡ) :<br>      1</b> sentiment intime, conscience (de ses propres pensées, de ses propres actes) NT. <i>2Cor. 4, 2 ; 5, 11, etc.</i> ; DS. <i>4, 6</i> ; LUC. <i>Am. 49</i>.<br><b>      2</b> <i>au sens mor</i>. conscience du bien et du mal, DH. <i>Thuc. 8</i> ; SPT. <i>Sap. 17, 11</i> ; NT. <i>Ap. 23, 1, etc. ; 1Tim. 3, 9</i>.<p><b>Étym</b>. σύνοιδα.`

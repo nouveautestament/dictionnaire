@@ -1,0 +1,1 @@
+lar[39020]=`<b>ἐπί·σκοτος, ος, ον</b>, qui est dans l’ombre, obscur, PLUT. <i>Æmil. 17</i>.<p><b>Étym</b>. ἐπί, σκότος.`

@@ -1,0 +1,1 @@
+lar[76771]=`<b>παρ·επιτομή, ῆς (ἡ)</b> incision auprès, PHIL. BYZ. <i>Bel. 63, 64</i>.<p><b>Étym</b>. π. ἐπιτομή.`

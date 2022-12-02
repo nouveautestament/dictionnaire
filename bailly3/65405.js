@@ -1,0 +1,1 @@
+lar[65405]=`<b>μηλό·νομος, ος, ον</b>, où paissent les brebis, ANTH. <i>9, 103</i>.<p><b>Étym</b>. μῆλον¹, νέμω.`

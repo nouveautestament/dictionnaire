@@ -1,0 +1,1 @@
+lar[70975]=`<b>ὀλιγ·άρκεια, ας (ἡ)</b> <font color="purple">[ῐ]</font> frugalité, tempérance, NAZ. <i>2, 576 Migne</i>.<p><b>Étym</b>. ὀλιγαρκής.`

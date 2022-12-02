@@ -1,0 +1,1 @@
+lar[69033]=`<b>ά, όν</b>, humide, EUR. <i>Ion 106, 149, I.T. 1042,</i> ALC. <i>598, etc.</i> ; THC. <i>3, 21, etc.</i> ; τὸ νοτερόν, PLAT. <i>Tim. 60c</i>, l’humidité.<p><b>Étym</b>. νότος.`

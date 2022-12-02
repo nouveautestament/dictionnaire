@@ -1,0 +1,1 @@
+lar[19401]=`<b>βαυκο·πανοῦργος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui aime à finasser, finassier, ARSTT. <i>Nic. 4, 7, 15</i>.<p><b>Étym</b>. βαυκός, π.`

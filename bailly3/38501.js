@@ -1,0 +1,1 @@
+lar[38501]=`<b>ἐπι·νεανιεύομαι</b> <font color="purple">[ᾱ]</font> agir en jeune homme, avec une ardeur juvénile, PLUT. <i>M. 1079d ;</i> PHIL. <i>1, 203 ; 2, 371</i>.`

@@ -1,0 +1,1 @@
+lar[13356]=`<b>ἀπο·σμιλεύω</b> <font color="purple">[ῑ]</font> rogner, tailler, <i>d’où</i> polir, SYN. <i>Ep. 101</i> ; THÉM. <i>251d</i>.`

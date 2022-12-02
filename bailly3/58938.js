@@ -1,0 +1,1 @@
+lar[58938]=`<b>α, ον</b>, de Cyrus, XÉN. <i>Hell. 3, 2, 18</i> ; οἱ Κύρειοι, XÉN. <i>Hell. 3, 2, 7,</i> les troupes de Cyrus.<p><b>Étym</b>. Κῦρος.`

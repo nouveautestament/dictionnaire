@@ -1,0 +1,1 @@
+lar[95417]=`<b>συν·εκτιθηνέομαι-οῦμαι</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> nourrir <i>ou</i> élever ensemble, PLUT. <i>M. 321d, 662b</i>.`

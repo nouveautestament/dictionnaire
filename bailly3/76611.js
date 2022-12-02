@@ -1,0 +1,1 @@
+lar[76611]=`<b>παρ·εκδέχομαι</b>, interpréter mal <i>ou</i> d’une autre manière, M. ANT. <i>5, 6</i> ; ORIG. <i>1, 536 Migne, etc</i>.`

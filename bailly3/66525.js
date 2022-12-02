@@ -1,0 +1,1 @@
+lar[66525]=`<b>μονο·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> qui n’a qu’un doigt, LUC. <i>V.H. 1, 23</i>.`

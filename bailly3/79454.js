@@ -1,0 +1,1 @@
+lar[79454]=`<b>ος, ον</b>, entouré, enveloppé, OPP. <i>H. 4, 146</i>.<p><b>Étym</b>. <i>vb. de</i> περιέχω.`

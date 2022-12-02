@@ -1,0 +1,1 @@
+lar[81938]=`<b>πολύ·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux <i>ou</i> aux poils abondants, GEOP. <i>17, 2, 1</i> ; ANTH. <i>6, 276</i>.<p><b>Étym</b>. π. θρίξ.`

@@ -1,0 +1,1 @@
+lar[36912]=`<b>ἐπ·εγκάπτω</b>, avaler par-dessus, AR. <i>Eq. 493</i>.`

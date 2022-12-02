@@ -1,0 +1,1 @@
+lar[69395]=`devenir jaune, TH. <i>H.P. 3, 15, 6 dout</i>.<p><b>Étym</b>. ξανθός.`

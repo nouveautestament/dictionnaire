@@ -1,0 +1,1 @@
+lar[58932]=`<b>ιος (ἡ)</b> Kyraunis (<i>auj</i>. Kerkennah) <i>petite î. sur la côte de Libye,</i> HDT. <i>4, 194</i>.`

@@ -1,0 +1,1 @@
+lar[75163]=`<b>πάν·σπερμος, ος, ον</b>, composé de semences de toutes sortes, ANTH. <i>6, 98</i>.<p><b>Étym</b>. π. σπέρμα.`

@@ -1,0 +1,1 @@
+lar[95152]=`<b>συν·διαστρέφω :<br>      1</b> tordre <i>ou</i> enrouler autour de, <i>dat. au pass</i>. PLUT. <i>M. 466f.</i><br><b>      2</b> pervertir <i>ou</i> corrompre avec, <i>au pass</i>. PLUT. <i>Lys. 17</i>.`

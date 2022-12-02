@@ -1,0 +1,1 @@
+lar[38192]=`<b>ἐπι·κτάομαι-ῶμαι :<br>      1</b> se procurer en sus, acquérir en outre, <i>acc</i>. HDT. <i>2, 79</i> ; PLAT. <i>Rsp. 330a ; d’où</i> agrandir, augmenter : ἀρχήν, THC. <i>1, 144,</i> son empire.<br><b>      2</b> se procurer, acquérir, <i>acc</i>. ESCHL. <i>Eum. 671</i> ; SOPH. <i>Ant. 846</i>.`

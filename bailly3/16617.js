@@ -1,0 +1,1 @@
+lar[16617]=`<b>ατος (τὸ)</b> empêchement, obstacle, NYSS.<p><b>Étym</b>. ἀσχολέω.`

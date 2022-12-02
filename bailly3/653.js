@@ -1,0 +1,1 @@
+lar[653]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> <i>poét., c</i>. ἀγκύλος, NONN. <i>D. 6, 21</i>.`

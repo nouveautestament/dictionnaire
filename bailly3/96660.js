@@ -1,0 +1,1 @@
+lar[96660]=`<b>συ·σταθεύω</b> <font color="purple">[ᾰ]</font> aider à mettre en feu, AR. <i>Lys. 844</i>.`

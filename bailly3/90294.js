@@ -1,0 +1,1 @@
+lar[90294]=`se moquer de, <i>acc</i>. DL. <i>9, 111</i> ; LUC. <i>Prom. 8</i> ; EL. <i>V.H. 3, 40</i>.<p><b>Étym</b>. σίλλος.`

@@ -1,0 +1,1 @@
+lar[104987]=`<b>ου (ὁ)</b> sac de cuir, valise, AR. <i>fr. 303</i>.<p>➳ <i>Dans une inscr. att</i>. φάσκωλος, <i>non</i> φάσκαλος, CIA. <i>2, 665, 6 (envir. 385 av. J.-C.) ; v. Meisterh. p. 14, 15</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

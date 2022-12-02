@@ -1,0 +1,1 @@
+lar[41544]=`<b>εὐ·αίρετος, ος, ον :<br>      1</b> facile à prendre, HDT. <i>7, 130</i>.<br><b>      2</b> facile à choisir, XÉN. <i>Mem. 3, 1, 10 (var</i>. εὐεύρετος).<p><b>Étym</b>. εὖ, αἱρέω.`

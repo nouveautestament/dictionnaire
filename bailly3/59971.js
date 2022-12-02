@@ -1,0 +1,1 @@
+lar[59971]=`<b>λα·τύπη, ης (ἡ)</b> <font color="purple">[ᾱῠ]</font><br><b>      1</b> éclat d’une pierre qu’on taille, STR. <i>808</i> ; PLUT. <i>M. 156b.</i><br><b>      2</b> pierre à chaux, PLUT. <i>M. 954a</i>.<p><b>Étym</b>. λᾶς, τύπτω.`

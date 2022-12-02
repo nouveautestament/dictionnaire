@@ -1,0 +1,1 @@
+lar[17625]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> sentiment personnel <i>ou</i> expérience personnelle, POL. <i>3, 108, 2</i> ; DH. <i>Dem. 1023</i>.<br><b>      2</b> <i>t. de gr</i>. qualité des mots réfléchis, <i>p. opp. à celle des mots transitifs,</i> DYSC. <i>Synt. 147</i>.<p><b>Étym</b>. αὐτοπαθής.`

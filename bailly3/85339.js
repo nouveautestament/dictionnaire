@@ -1,0 +1,1 @@
+lar[85339]=`<b>προσ·βιάζομαι :<br>      1</b> faire violence à, violenter, <i>acc</i>. AR. <i>Pl. 16</i> ; PLAT. <i>Ep. 321b, etc. ; au pass. (part. ao</i>. προσβιασθείς) être contraint par la violence, THC. <i>1, 106</i>.<br><b>      2</b> s’emparer de force de, <i>dat</i>. DS. <i>30, 39</i>.`

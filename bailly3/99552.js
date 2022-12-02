@@ -1,0 +1,1 @@
+lar[99552]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. coupé, châtré, <i>en parl. d’animaux,</i> ANTIPH. (ATH. <i>402e</i>) ; ARSTT. <i>H.A. 6, 21, 4 ; 6, 28, 2 ; en parl. d’hommes,</i> HDN <i>1, 11, 7</i>.<p><b>Étym</b>. τέμνω.`

@@ -1,0 +1,1 @@
+lar[3055]=`<i>adv</i>., à contre-temps, ESCHL. <i>Ch. 624, etc.</i> ; HPC. <i>V. med. 11, etc</i>.<p>•<i> Cp</i>. -οτέρως, HPC. <i>Acut. 955</i>.`

@@ -1,0 +1,1 @@
+lar[9343]=`<b>ἄν·οστος, ος, ον</b>, sans saveur, sans goût, TH. <i>C.P. 4, 13, 2</i> ; PLUT. <i>M. 915c</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>l. c</i>.<p><b>Étym</b>. ἀν-, ὄζω.`

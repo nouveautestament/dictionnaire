@@ -1,0 +1,1 @@
+lar[26842]=`<b>δι·οργανόω-ῶ</b> <font color="purple">[ᾰ]</font> pourvoir complètement d’organes, JAMBL. <i>V. Pyth. 66</i>.`

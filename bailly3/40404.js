@@ -1,0 +1,1 @@
+lar[40404]=`<b>ἐρί·βωλος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. ἐριβῶλαξ IL. <i>21, 154 et une fois dans l’</i>OD. <i>5, 34</i> ; HH. <i>Cer. 471</i>.`

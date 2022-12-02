@@ -1,0 +1,1 @@
+lar[96803]=`<b>ῆρος (ὁ) :<br>      1</b> sorte de pommeau au sommet du chandelier dans le temple des Juifs, SPT. <i>Gen. 14, 23</i> (<i>v</i>. σφυρωτήρ).<br><b>      2</b> sorte d’ornement de pilier, SPT. <i>Ex. 25, 31</i>.<p><b>Étym</b>. σφαιρόω.`

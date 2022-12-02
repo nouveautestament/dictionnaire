@@ -1,0 +1,1 @@
+lar[54435]=`<b>ίδος (ἡ) :<br>   I</b> millet, <i>c</i>. κέγχρος, <i>au pl</i>. HPC. <i>572, 39</i>.<br><b>   II</b> <i>p. anal.</i> :<br><b>      1</b> sorte de petit faucon, ARSTT. <i>H.A. 6, 1, etc.</i><br><b>      2</b> petit oiseau qui se nourrit de millet, EL. <i>N.A. 13, 25</i>.<p><b>Étym</b>. κέγχρος.`

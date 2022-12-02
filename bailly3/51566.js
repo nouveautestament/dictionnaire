@@ -1,0 +1,1 @@
+lar[51566]=`<b>κανονο·γραφία, ας (ἡ)</b> <font color="purple">[κᾰᾰφ]</font> rédaction d’une table <i>ou</i> canon astronomique, PTOL. <i>1, 109</i>.<p><b>Étym</b>. κανών, γράφω.`

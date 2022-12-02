@@ -1,0 +1,1 @@
+lar[100150]=`<b>τρί·γληνος, ος, ον</b>, à trois prunelles, <i>càd</i>. à trois yeux (Hékatè) ATH. <i>325a ;</i> ἕρματα τρίγληνα, IL. <i>14, 183</i> ; OD. <i>18, 298,</i> pendants d’oreilles figurant trois prunelles, <i>càd</i>. garnis de trois perles.<p><b>Étym</b>. τρ. γλήνη.`

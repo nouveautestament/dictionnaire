@@ -1,0 +1,1 @@
+lar[68911]=`<b>ή, όν :<br>      1</b> conforme à la loi, légal, PLAT. <i>Leg. 625a ;</i> ARSTT. <i>Nic. 8, 15</i>.<br><b>      2</b> qui a l’expérience de la loi, qui connaît la loi, habile jurisconsulte, STR. <i>539</i> ; ANTH. <i>11, 382</i> ; PLUT. <i>Syll. 36, M. 271e</i>.<p>•<i> Sup</i>. νομικώτατος, PLAT. <i>Min. 317e</i>.<p><b>Étym</b>. νόμος.`

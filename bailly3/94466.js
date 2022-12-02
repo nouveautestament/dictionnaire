@@ -1,0 +1,1 @@
+lar[94466]=`<b>συμ·φροντίζω</b>, s’inquiéter ensemble : τινός, LUC. <i>Dem. enc. 25,</i> de qqn ; τινὶ περί τινος, SYN. <i>23,</i> se préoccuper de qqe ch. avec qqn.`

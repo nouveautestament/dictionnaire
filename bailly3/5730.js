@@ -1,0 +1,1 @@
+lar[5730]=`<b>εως (ἡ)</b> non-participation, CHRYS. <i>9, 824</i>.<p><b>Étym</b>. ἀμοιρέω.`

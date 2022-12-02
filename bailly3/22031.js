@@ -1,0 +1,1 @@
+lar[22031]=`<b>εος (τὸ)</b> <font color="purple">[ᾰ]</font> <i>poét. c</i>. γάλα, lait, IL. <i>2, 471 ; 16, 643</i> ; NIC. <i>Al. 385 ; etc</i>.`

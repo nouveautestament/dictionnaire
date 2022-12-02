@@ -1,0 +1,1 @@
+lar[1708]=`<b>ἀεί·φατος, ος, ον</b> <font color="purple">[φᾰ]</font> toujours célébré, SIB. <i>3, 415</i>.<p><b>Étym</b>. ἀ. φημί.`

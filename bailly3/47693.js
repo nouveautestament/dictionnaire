@@ -1,0 +1,1 @@
+lar[47693]=`<b>ή, όν :<br>      1</b> qui concerne le triomphe, triomphal, STR. <i>3, 4, 13 ; 5, 2, 2 Kram.</i> ; DH. <i>2, 923 Reiske</i> ; JOS. <i>B.J. 7, 5, 4</i>.<br><b>      2</b> qui a joui des honneurs du triomphe, PLUT. <i>Cam. 21, Crass. 1</i>.<p><b>Étym</b>. θρίαμβος.`

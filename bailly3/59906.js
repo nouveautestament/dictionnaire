@@ -1,0 +1,1 @@
+lar[59906]=`<b>ου (ὁ)</b> Larynthios, <i>surn. de Zeus,</i> LYC. <i>1092</i>.`

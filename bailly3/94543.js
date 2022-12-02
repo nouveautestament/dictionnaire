@@ -1,0 +1,1 @@
+lar[94543]=`<b>συν·άγνυμι</b>, <i>ion. et anc. att</i>. <b>ξυν·άγνυμι</b> (<i>seul. ao. 3 sg. et 3 pl. inf</i>. συνάξαι) mettre en pièces, IL. <i>11, 114 ; 13, 166</i> ; OD. <i>14, 383</i>.<p>➳ <i>Ao. 3 sg</i>. συνέαξε, IL. <i>11, 114 ; ion. 3 sg</i>. ξυνέαξε, IL. <i>13, 166 ; ion. 3 pl</i>. συνέαξαν, OD. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[54483]=`<b>ος, ον</b>, que l’on garde <i>ou</i> que l’on soigne comme un trésor, PLAT. <i>Leg. 931a</i>.<p><b>Étym</b>. κεῖμαι.`

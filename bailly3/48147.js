@@ -1,0 +1,1 @@
+lar[48147]=`<b>θωρακο·πώλης, ου (ὁ)</b> <font color="purple">[ᾱ]</font> marchand de cuirasses, AR. <i>Pax, Index personarum</i>.<p><b>Étym</b>. θ. πωλέω.`

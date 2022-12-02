@@ -1,0 +1,1 @@
+lar[68263]=`<b>νεο·σύστατος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> nouvellement réuni, HÉRODOTUS (ORIB. <i>2, 420 B.-Dar</i>.).<br><b>      2</b> nouveau prosélyte, JOS. <i>B.J. 2, 8, 9</i>.<p><b>Étym</b>. ν. συνίστημι.`

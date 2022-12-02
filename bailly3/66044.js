@@ -1,0 +1,1 @@
+lar[66044]=`<b>μισό·λογος, ος, ον</b> <i>ou tard</i>. μισολόγος <font color="purple">[ῑ]</font> qui hait les discours, les discussions savantes <i>ou</i> la science, PLAT. <i>Phæd. 89d, Rsp. 411d, etc</i>.<p><b>Étym</b>. μισέω, λόγος.`

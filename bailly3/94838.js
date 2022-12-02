@@ -1,0 +1,1 @@
+lar[94838]=`<b>συν·απείργω</b>, écarter en même temps de, <i>gén</i>. NYSS.`

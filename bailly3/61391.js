@@ -1,0 +1,1 @@
+lar[61391]=`<i>adj. f. épq</i>. λὶς πέτρη, OD. <i>12, 64, 79,</i> pierre unie, glissante.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *lh₁i-t-, lisse ; <i>cf</i>. *λίς³, λιτός, λισσός, λεῖος.`

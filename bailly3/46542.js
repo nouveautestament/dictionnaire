@@ -1,0 +1,1 @@
+lar[46542]=`<b>θελξί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui charme le cœur, EUR. <i>Bacch. 402</i> ; ANTH. <i>9, 505</i>.<p><b>Étym</b>. θ. φρήν.`

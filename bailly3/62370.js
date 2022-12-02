@@ -1,0 +1,1 @@
+lar[62370]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> fille de Mænalos, <i>au plur</i>. les Ménalides, NONN. <i>D. 14, 346 ; 34, 164, etc</i>.<p><b>Étym</b>. Μαίναλος.`

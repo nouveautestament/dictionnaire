@@ -1,0 +1,1 @@
+lar[80247]=`<b>ηκος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. πίθηκος, NAZ. <i>3, 1057 Migne</i>.`

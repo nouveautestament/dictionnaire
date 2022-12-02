@@ -1,0 +1,1 @@
+lar[91504]=`<b>ή, όν</b> <font color="purple">[μῑ]</font> en forme de bistouri, HLD. CHIR. (CHIR. <i>p. 94, 11 Cocch</i>.) ; P. ÉG. <i>6, 91</i>.<p><b>Étym</b>. σμιλίον.`

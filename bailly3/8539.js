@@ -1,0 +1,1 @@
+lar[8539]=`<b>ἀν·έργαστος, ος, ον :<br>      1</b> non travaillé, <i>d’où</i> brut, informe, imparfait, ARSTT. <i>Metaph. 8, 6, 3</i> ; DS. <i>14, 18, etc.</i><br><b>      2</b> non travaillé de main d’homme, HDN <i>5, 3, 11</i>.<br><b>      3</b> non traité (sujet de travail) POL. <i>10, 43, 1</i>.<p><b>Étym</b>. ἀν-, ἐργάζομαι.`

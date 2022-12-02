@@ -1,0 +1,1 @@
+lar[41510]=`<b>Εὐ·αγόρη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Euagorè, <i>Néréide,</i> HÉS. <i>Th. 257</i>.<p><b>Étym</b>. <i>cf</i>. Εὐαγόρας.`

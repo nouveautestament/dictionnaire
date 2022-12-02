@@ -1,0 +1,1 @@
+lar[15543]=`<b>Ἀρχέ·πολις, ιδος (ὁ)</b> Arkhépolis, <i>Athénien,</i> PLAT. <i>Crat. 394c ;</i> DÉM. <i>1253, 7</i>.<p><b>Étym</b>. <i>v</i>. ἀρχέπολις.`

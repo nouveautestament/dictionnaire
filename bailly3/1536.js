@@ -1,0 +1,1 @@
+lar[1536]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> fille d’Adrèstos, IL. <i>5, 412</i>.<p><b>Étym</b>. Ἄδρηστος.`

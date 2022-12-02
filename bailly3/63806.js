@@ -1,0 +1,1 @@
+lar[63806]=`<b>μελάμ·βροτος, ος, ον :<br>      1</b> habité par des hommes noirs, EUR. <i>Archel. fr. 230, 3 Nauck</i>.<br><b>      2</b> homme à peau noire, EUR. <i>Phaëth. fr. 771, 4 Nauck</i>.<p><b>Étym</b>. μ. βροτός.`

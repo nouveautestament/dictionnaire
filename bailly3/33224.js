@@ -1,0 +1,1 @@
+lar[33224]=`<b>ἐμ·μαίνομαι</b>, être furieux contre, <i>dat</i>. JOS. <i>A.J. 17, 6, 5</i> ; NT. <i>Ap. 26, 11</i>.<p><b>Étym</b>. ἐν, μ.`

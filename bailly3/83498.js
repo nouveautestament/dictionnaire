@@ -1,0 +1,1 @@
+lar[83498]=`<b>προ·αδικέω-ῶ</b> <font color="purple">[ᾰῐ]</font> faire tort le premier, être l’offenseur, ARSTT. <i>Rhet. Al. 3, 33 ; au pass</i>. être provoqué, attaqué, DÉM. <i>289, 8</i> ; ESCHN. <i>72, 71, etc</i>.`

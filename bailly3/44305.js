@@ -1,0 +1,1 @@
+lar[44305]=`<b>ἑψ·άνδρα, ας</b>, <i>adj. f</i>. qui fait cuire les hommes, <i>en parl. de Médée,</i> ANTH. <i>15, 26</i>.<p><b>Étym</b>. ἕψω, ἀνήρ.`

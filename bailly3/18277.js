@@ -1,0 +1,1 @@
+lar[18277]=`<b>ἀ·φρούρητος, ος, ον :<br>      1</b> sans gardien, PLAT. <i>Leg. 760a ;</i> PLUT. <i>Flam. 10 ; avec un gén</i>. φυλακῆς ἀφρούρητος, GAL. <i>4, 614,</i> sans garde.<br><b>      2</b> sans garnison, POL. <i>4, 25, 7</i> ; PLUT. <i>M. 340f</i>.<p><b>Étym</b>. ἀ, φρουρέω.`

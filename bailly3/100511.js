@@ -1,0 +1,1 @@
+lar[100511]=`<b>τρί·στροφος, ος, ον</b>, tordu trois fois, ORIB. <i>p. 29 Mai</i>.<p><b>Étym</b>. τρ. στρέφω.`

@@ -1,0 +1,1 @@
+lar[4185]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> coupable, IL. <i>3, 18</i> ; OD. <i>20, 121</i> ; τινός, A.RH. <i>1, 1338,</i> envers qqn.<p><b>Étym</b>. ἀλιταίνω.`

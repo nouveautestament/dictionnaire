@@ -1,0 +1,1 @@
+lar[11413]=`<b>ἀπαρτι·λογία, ας (ἡ)</b> compte rond, somme complète, ANT. (POLL. <i>2, 120</i>) ; DC. <i>43, 26</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>7, 29</i>.<p><b>Étym</b>. ἀπαρτί, λόγος.`

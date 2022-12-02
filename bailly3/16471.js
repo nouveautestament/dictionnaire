@@ -1,0 +1,1 @@
+lar[16471]=`<i>adv</i>., sans utilité, XÉN. <i>Hell. 6, 3, 1</i> ; ARSTT. <i>Pol. 5, 8, 13</i>.`

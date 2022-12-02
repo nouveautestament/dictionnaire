@@ -1,0 +1,1 @@
+lar[36780]=`<b>όνος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> défenseur, A.RH. <i>1, 1039</i> ; ORPH. <i>89</i>.<p><b>Étym</b>. ἐπαρήγω.`

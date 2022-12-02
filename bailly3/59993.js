@@ -1,0 +1,1 @@
+lar[59993]=`<b>ου (ὁ)</b> Laphrios, <i>surn. d’Hermès,</i> LYC. <i>835</i>.`

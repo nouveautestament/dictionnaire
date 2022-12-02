@@ -1,0 +1,1 @@
+lar[76222]=`<b>παρά·σπασις, εως (ἡ)</b> <font color="purple">[πᾰ]</font> <i>c</i>. παρασπασμός PORPH. <i>Abst. 1, p. 17</i>.`

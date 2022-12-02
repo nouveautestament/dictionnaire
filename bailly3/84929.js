@@ -1,0 +1,1 @@
+lar[84929]=`<b>προ·περικαθαίρω</b> <font color="purple">[ᾰ]</font> purifier d’abord tout autour, A. TR. <i>3, 215</i>.`

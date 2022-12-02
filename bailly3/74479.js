@@ -1,0 +1,1 @@
+lar[74479]=`<b>η, ον</b> <font color="purple">[ᾰᾱῑ]</font> du mt Palatin, DH. <i>2, 70</i>.<p><b>Étym</b>. <i>v</i>. Παλάτιον.`

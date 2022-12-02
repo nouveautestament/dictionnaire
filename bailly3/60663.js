@@ -1,0 +1,1 @@
+lar[60663]=`<b>οῦ (ὁ)</b> lapidation, ESCHL. <i>Eum. 189</i> ; EUR. <i>fr. 870</i>.<p><b>Étym</b>. λεύω.`

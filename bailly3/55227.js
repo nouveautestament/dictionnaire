@@ -1,0 +1,1 @@
+lar[55227]=`<b>ος, ον</b>, qu’on peut cultiver <i>ou</i> qu’on cultive en jardin, A. TR. <i>12, p. 239</i>.<p><b>Étym</b>. κηπεύω.`

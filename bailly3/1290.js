@@ -1,0 +1,1 @@
+lar[1290]=`<b>ἀ·δηνής, ής, ές</b>, sans expérience de, <i>gén</i>. SIM. AM. <i>Iamb. fr. 7, 53</i>.<p><b>Étym</b>. ἀ, δῆνος.`

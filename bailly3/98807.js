@@ -1,0 +1,1 @@
+lar[98807]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Teutaros, <i>h</i>. LYC. <i>51, 458</i>.`

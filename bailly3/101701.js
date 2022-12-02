@@ -1,0 +1,1 @@
+lar[101701]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> habitant des bois, <i>ép. de Pan,</i> ANTH. <i>6, 106</i>.<p><b>Étym</b>. ὕλη.`

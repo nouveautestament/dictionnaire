@@ -1,0 +1,1 @@
+lar[5192]=`<i>att</i>. <b>ἁμαλός, ή, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> mou, tendre (jeune animal) IL. <i>22, 310</i> ; OD. <i>20, 14</i>.<br><b>      2</b> <i>p. suite,</i> faible, EUR. <i>Her. 75</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

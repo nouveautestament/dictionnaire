@@ -1,0 +1,1 @@
+lar[89009]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. ῥώψ, OPP. <i>C. 4, 393</i>.`

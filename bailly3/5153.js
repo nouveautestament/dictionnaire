@@ -1,0 +1,1 @@
+lar[5153]=`<b>ή, όν</b> <font color="purple">[ᾰμ]</font> d’Amazone, PLUT. <i>Pomp. 35</i>.`

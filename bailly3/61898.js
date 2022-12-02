@@ -1,0 +1,1 @@
+lar[61898]=`<b>Λυκο·πολίτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> habitant de la Ville des loups (Λύκων πόλις) <i>en Égypte,</i> PLUT. <i>Is. et Os. 30, 72</i>.`

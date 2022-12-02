@@ -1,0 +1,1 @@
+lar[101023]=`<b>τυμβό·χωστος, ος, ον</b>, amoncelé en forme de tombeau, SOPH. <i>Ant. 848</i>.<p><b>Étym</b>. τύμβος, χώννυμι.`

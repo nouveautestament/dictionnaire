@@ -1,0 +1,1 @@
+lar[5963]=`<font color="purple">[ᾰ]</font> <i>adv</i>., sans fermer la bouche : ἀ. πίνειν, LUC. <i>Lex. 8,</i> boire d’un trait.<p><b>Étym</b>. ἀ, μύω.`

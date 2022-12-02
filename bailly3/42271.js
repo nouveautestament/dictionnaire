@@ -1,0 +1,1 @@
+lar[42271]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Euthynos, <i>h</i>. DÉM. <i>537, 14</i> ; ARSTT. <i>Rhet. 2, 19, etc</i>.`

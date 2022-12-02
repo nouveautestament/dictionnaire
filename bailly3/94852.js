@@ -1,0 +1,1 @@
+lar[94852]=`<b>συν·απογεννάω-ῶ</b>, engendrer en même temps, PLOT. <i>672b, etc</i>.`

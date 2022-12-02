@@ -1,0 +1,1 @@
+lar[94949]=`<b>σύν·αρθρος, ος, ον</b>, <i>t. de gr</i>. accompagné de l’article, DYSC. <i>Pron. p. 121b</i>.<p><b>Étym</b>. <i>v</i>. ἄρθρον.`

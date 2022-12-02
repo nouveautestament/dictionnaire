@@ -1,0 +1,1 @@
+lar[57219]=`<b>ω</b>, <i>adj. f</i>. à fruits noirs (figuier, raisin, <i>etc</i>.) AR. <i>Pax 628</i>.<p><b>Étym</b>. κορώνη.`

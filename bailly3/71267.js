@@ -1,0 +1,1 @@
+lar[71267]=`<b>Ὀλυμπίας ἄνεμος (ὁ)</b> <font color="purple">[ᾱ]</font> vent qui souffle du mt Olympe, <i>càd. pour Athènes, de l’O. N. O</i>. ARSTT. <i>Meteor. 2, 6, 8, etc</i>.<p><b>Étym</b>. Ὄλυμπος.`

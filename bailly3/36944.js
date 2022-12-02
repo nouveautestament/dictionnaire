@@ -1,0 +1,1 @@
+lar[36944]=`<b>ἐπει·ή</b> <font color="purple">[ει toujours bref]</font> <i>conj</i>. puisqu’en vérité, IL. <i>1, 156, etc.</i> ; OD. <i>9, 276</i>.<p><b>Étym</b>. ἐπεί, ἦ.`

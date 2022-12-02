@@ -1,0 +1,1 @@
+lar[1142]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>éol. c</i>. ἀγών, ALC. <i>103</i>.`

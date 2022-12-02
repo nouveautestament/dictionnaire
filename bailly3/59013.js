@@ -1,0 +1,1 @@
+lar[59013]=`<b>κυσο·δόχη, ης (ἡ)</b> poteau où l’on attachait les courtisanes et les esclaves coupables, ALCIPHR. <i>3, 72</i>.`

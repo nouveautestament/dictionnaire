@@ -1,0 +1,1 @@
+lar[46611]=`<b>ου (ὁ)</b> Théogénidès, <i>h</i>. PLUT. <i>X orat. And. 12</i>.<p><b>Étym</b>. <i>patr. de</i> Θεογένης.`

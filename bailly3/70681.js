@@ -1,0 +1,1 @@
+lar[70681]=`<b>οἰσο·φάγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> œsophage, <i>canal qui transporte les aliments de la bouche à l’estomac,</i> ARSTT. <i>P.A. 2, 3, 9, etc</i>.<p><b>Étym</b>. οἴσω, φαγεῖν.`

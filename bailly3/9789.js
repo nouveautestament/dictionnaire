@@ -1,0 +1,1 @@
+lar[9789]=`<b>ἀντι·γενεηλογέω</b> <font color="darkgreen">(<i>ao</i>. ἀντεγενεηλόγησα)</font> <i>ion</i>. attribuer une autre généalogie, HDT. <i>2, 143</i>.<p><b>Étym</b>. ἀ. γενεαλογέω.`

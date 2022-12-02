@@ -1,0 +1,1 @@
+lar[100719]=`<b>τροπο·φορέω-ῶ</b>, supporter le caractère de qqn, se plier à ses habitudes, CIC. <i>Att. 13, 29, 2</i>.<p><b>Étym</b>. τρόπος, φορά.`

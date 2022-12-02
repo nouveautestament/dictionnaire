@@ -1,0 +1,1 @@
+lar[32877]=`<b>ατος (τὸ)</b> ce qu’on tire :<br><b>      1</b> scorie de l’argent, DIOSC. <i>5, 101</i> ; GAL. <i>13, 269c.</i><br><b>      2</b> butin, MAN. <i>4, 200</i>.<p><b>Étym</b>. ἑλκύω.`

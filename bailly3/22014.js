@@ -1,0 +1,1 @@
+lar[22014]=`<b>(ἡ)</b> Gidika, <i>f</i>. DOSITH. (PLUT. <i>Parall. min. 34</i>).`

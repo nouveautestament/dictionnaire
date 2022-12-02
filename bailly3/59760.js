@@ -1,0 +1,1 @@
+lar[59760]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> pétulance, hardiesse, effronterie, PLUT. <i>Ant. 24</i>.<p><b>Étym</b>. λαμυρός.`

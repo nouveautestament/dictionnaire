@@ -1,0 +1,1 @@
+lar[32069]=`<b>ἐκ·συριγγόω-ῶ</b> <font color="purple">[ῡ]</font> rendre fistuleux, <i>d’où au pass</i>. percer et suppurer par une ouverture fistuleuse, <i>en parl. d’abcès,</i> HPC. <i>Coac. 180</i>.`

@@ -1,0 +1,1 @@
+lar[64241]=`<font color="purple">[ῑ]</font> <i>adv</i>., avec colère <i>ou</i> ressentiment, PLAT. <i>Ep. 319b</i>.<p><b>Étym</b>. μηνίω.`

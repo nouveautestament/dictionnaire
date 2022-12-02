@@ -1,0 +1,1 @@
+lar[87880]=`<b>πυρί·κτυπος, ος, ον</b> <font color="purple">[ῠῠ]</font> qui fait du bruit <i>ou</i> craque dans le feu (<i>v</i>. πυρίκτιτος).<p><b>Étym</b>. π. κτύπος.`

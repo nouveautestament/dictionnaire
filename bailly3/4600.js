@@ -1,0 +1,1 @@
+lar[4600]=`<b>ἁλι·φθερόω-ῶ</b> <font color="purple">[ᾰ]</font> détruire par un naufrage, SOPH. (EM. <i>776).</i><p><b>Étym</b>. ἅλς, φθείρω.`

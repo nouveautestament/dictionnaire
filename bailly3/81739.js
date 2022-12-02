@@ -1,0 +1,1 @@
+lar[81739]=`<b>πολύ·αστρος, ος, ον</b>, aux astres nombreux, EUR. <i>Ion 870</i>.<p><b>Étym</b>. π. ἀστήρ.`

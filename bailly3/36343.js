@@ -1,0 +1,1 @@
+lar[36343]=`<b>ας (ἡ)</b> territoire des Éordes, THC. <i>2, 99</i>.<p><b>Étym</b>. <i>v</i>. Ἐορδοί.`

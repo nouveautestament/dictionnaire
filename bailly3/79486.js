@@ -1,0 +1,1 @@
+lar[79486]=`<b>ατος (τὸ)</b> scorie, <i>d’où</i> matière de rebut, rebut, CHRYSIPP. (PLUT. <i>Pro Nobil. § 12).</i><p><b>Étym</b>. περιτήκω.`

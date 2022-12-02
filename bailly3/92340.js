@@ -1,0 +1,1 @@
+lar[92340]=`<b>στεμματο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte une guirlande, PTOL. <i>Tetr. 176</i>.<p><b>Étym</b>. στέμμα, φέρω.`

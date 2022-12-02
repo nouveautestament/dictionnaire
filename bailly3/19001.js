@@ -1,0 +1,1 @@
+lar[19001]=`<b>ης (ἡ)</b> <font color="purple">[σᾰ]</font> balsamine, <i>plante,</i> DIOSC. <i>App. 460</i>.<p><b>Étym</b>. βάλσαμον.`

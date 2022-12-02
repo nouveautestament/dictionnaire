@@ -1,0 +1,1 @@
+lar[58547]=`<b>Κυκλο·βόρος, ου (ὁ)</b> Kykloboros (<i>litt</i>. qui dévore tout autour) <i>torrent de l’Attique,</i> AR. <i>Eq. 137, fr. 539 Dind</i>.<p><b>Étym</b>. κύκλος, βιβρώσκω.`

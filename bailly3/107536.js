@@ -1,0 +1,1 @@
+lar[107536]=`<b>χαλα·τονέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> relâcher la tension, diminuer l’intensité, PORPH. <i>Ptol. Harm. p. 294</i>.<p><b>Étym</b>. χαλάω, τόνος.`

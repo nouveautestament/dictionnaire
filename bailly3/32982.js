@@ -1,0 +1,1 @@
+lar[32982]=`<b>έως (ὁ)</b> d’Ellopia, <i>en Eubée,</i> STR. <i>445, 446 ; au plur. épq</i>. Ἐλλοπιῆες, les Eubéens, NONN. <i>D. 13, 166</i> ; CALL. <i>Del. 20</i>.<p><b>Étym</b>. Ἐλλοπία.`

@@ -1,0 +1,1 @@
+lar[91886]=`<b>ου</b> <font color="purple">[ᾱῑ]</font> qui habite dans une caverne, PAUS. <i>10, 32, 5</i>.<p><b>Étym</b>. σπήλαιον.`

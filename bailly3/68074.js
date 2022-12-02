@@ -1,0 +1,1 @@
+lar[68074]=`<b>ων (τὰ)</b> <i>s.-e</i>. ἱερά, fête de Némésis en l’honneur des morts, DÉM. <i>1031, 13</i>.<p><b>Étym</b>. Νέμεσις.`

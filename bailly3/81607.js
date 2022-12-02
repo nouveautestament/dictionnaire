@@ -1,0 +1,1 @@
+lar[81607]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Politès :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>2, 791, etc.</i><br><b>      2</b> <i>compagnon d’Ulysse,</i> OD. <i>10, 224</i>.<p><b>Étym</b>. <i>v</i>. πολίτης.`

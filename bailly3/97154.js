@@ -1,0 +1,1 @@
+lar[97154]=`<b>ου (ὁ)</b> Sokratidès, <i>h</i>. DÉM. <i>49, 6 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Σωκράτης.`

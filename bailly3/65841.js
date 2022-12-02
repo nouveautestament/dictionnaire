@@ -1,0 +1,1 @@
+lar[65841]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> imitation, image, ESCHL. (POLL. <i>7, 60</i>) ; EUR. <i>Tr. 922</i> ; PLAT. <i>Crat. 423b</i>.<p><b>Étym</b>. μιμέομαι.`

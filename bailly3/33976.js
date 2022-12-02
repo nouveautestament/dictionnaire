@@ -1,0 +1,1 @@
+lar[33976]=`<b>ἐν·αποπνίγω</b> <font color="purple">[ῑ]</font> (<i>inf. ao.2 pass</i>. -πνιγῆναι) suffoquer dans, <i>dat</i>. LUC. <i>Per. 24, ou</i> ἐν <i>et le dat</i>. ATH. <i>325d</i>.`

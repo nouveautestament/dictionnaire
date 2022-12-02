@@ -1,0 +1,1 @@
+lar[61630]=`<b>εως (ἡ)</b> action de rendre oblique, <i>d’où</i> direction oblique, <i>particul. en parl. de l’écliptique,</i> OCELL. <i>2, 23</i> ; PTOL. <i>Math. synt. 2, p. 88b ;</i> PLUT. <i>M. 890e</i>.<p>➳ <i>Acc. pl. ion</i>. λοξώσιας, EPIGR. (SYN. <i>p. 312c</i>).<p><b>Étym</b>. λοξόω.`

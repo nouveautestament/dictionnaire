@@ -1,0 +1,1 @@
+lar[109982]=`<b>ψυχορραγέω-ῶ</b> <font color="purple">[ᾰ]</font> lutter contre la mort (<i>litt</i>. avoir l’âme <i>ou</i> la vie brisée) EUR. <i>Alc. 20, H.f. 324</i> ; A.RH. <i>2, 833</i> ; PLUT. <i>M. 362e</i>.<p><b>Étym</b>. ψυχορραγής.`

@@ -1,0 +1,1 @@
+lar[93291]=`<b>συγ·καταζάω-ῶ</b> (<i>seul. prés. et impf</i>.) passer sa vie avec <i>ou</i> ensemble, PLUT. <i>M. 749d, 1129b</i>.`

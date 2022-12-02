@@ -1,0 +1,1 @@
+lar[92412]=`<b>στερεο·ειδής, ής, ές</b>, d’apparence solide, T. LOCR. (PLAT. <i>Tim. 32b</i>).<p><b>Étym</b>. στ. εἶδος.`

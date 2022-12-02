@@ -1,0 +1,1 @@
+lar[95668]=`<b>συν·επιρρέω</b>, couler <i>ou</i> se répandre de tous côtés, DH. <i>10, 16</i> ; PLUT. <i>M. 696d</i>.`

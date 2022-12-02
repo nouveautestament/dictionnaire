@@ -1,0 +1,1 @@
+lar[80155]=`<b>ου (ὁ)</b> pieu long d’une coudée, ANON. (SUID.).<p><b>Étym</b>. πηχίζω.`

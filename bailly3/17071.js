@@ -1,0 +1,1 @@
+lar[17071]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> desséché, sec, <i>en parl. de la peau,</i> HÉS. <i>O. 586 ; de la bouche,</i> CALL. <i>Cer. 6 ; de cheveux sales,</i> SIM. (DH. <i>Comp. 26) ; de plantes,</i> ORPH. <i>Arg. 248 ; fig</i>. raide <i>ou</i> immobile de stupeur, OPP. <i>H. 2, 78</i>.<p><b>Étym</b>. αὖος.`

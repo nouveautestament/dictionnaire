@@ -1,0 +1,1 @@
+lar[77797]=`<i>dor</i>. <b>πελίκα, ας (ἡ)</b> <font color="purple">[ᾱ]</font> coupe de bois, CRAT. (<i>Com. fr. 2, 34</i>) ; ATH. <i>494</i> a-b.`

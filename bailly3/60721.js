@@ -1,0 +1,1 @@
+lar[60721]=`<b>Λεω·χάρης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Léôkharès, <i>h</i>. PLAT. <i>Ep. 361a ;</i> DÉM. <i>1080, etc.</i> ; PLUT. <i>Alex. 40, etc</i>.<p>➳ <i>Acc</i>. -ην, IS. <i>5, 3 et 19</i> ; DÉM. <i>44, 41 Baiter-Sauppe, et</i> -η, DÉM. <i>44 Baiter-Sauppe</i>.<p><b>Étym</b>. λ. χαίρω ; <i>cf</i>. Χαρίλαος.`

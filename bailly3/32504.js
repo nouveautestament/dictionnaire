@@ -1,0 +1,1 @@
+lar[32504]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> <i>c</i>. ἔλασις, XÉN. <i>Hipp. 4, 4</i> ; JOS. <i>A.J. 2, 10, 2</i>.`

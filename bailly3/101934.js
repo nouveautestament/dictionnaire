@@ -1,0 +1,1 @@
+lar[101934]=`<b>ὑπ·αμείβομαι</b> <font color="purple">[ῠᾰ]</font> πόντον, OPP. <i>H. 1, 651, litt</i>. échanger (la terre) pour la mer, <i>càd</i>. aller vivre dans la mer, <i>en parl. des dauphins qui auraient jadis été des hommes</i>.`

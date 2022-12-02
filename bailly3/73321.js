@@ -1,0 +1,1 @@
+lar[73321]=`<b>ὀστρακό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> dont la peau est une écaille <i>ou</i> dure comme de l’écaille, ANTH. <i>6, 196</i>.<p><b>Étym</b>. ὄ. χρόα.`

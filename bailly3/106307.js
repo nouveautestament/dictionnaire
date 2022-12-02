@@ -1,0 +1,1 @@
+lar[106307]=`<b>ινος (ὁ)</b> = <i>lat</i>. flamen, flamine, <i>prêtre romain,</i> DH. <i>2, 64</i> ; PLUT. <i>Num. 7</i>.`

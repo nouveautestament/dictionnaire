@@ -1,0 +1,1 @@
+lar[37931]=`<b>ἐπι·καταλαμβάνω</b>, surprendre, atteindre, <i>acc</i>. THC. <i>2, 90 ; 3, 111</i> ; PLAT. <i>Tim. 39c ; au pass</i>. DS. <i>18, 71</i> ; ARSTT. <i>H.A. 9, 6, 1</i>.`

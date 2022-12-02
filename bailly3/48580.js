@@ -1,0 +1,1 @@
+lar[48580]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à la représentation des choses saintes, MAN. (G. SYNC. <i>p. 40b</i>).<p><b>Étym</b>. ἱ. γράφω.`

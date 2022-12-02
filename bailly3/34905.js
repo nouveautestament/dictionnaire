@@ -1,0 +1,1 @@
+lar[34905]=`<b>ἐν·ριγόω-ῶ</b> <font color="purple">[ῑ]</font> grelotter de froid dans, <i>dat</i>. AR. <i>Pl. 846</i>.`

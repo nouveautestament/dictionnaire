@@ -1,0 +1,1 @@
+lar[74613]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. Πήλιον.`

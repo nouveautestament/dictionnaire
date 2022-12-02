@@ -1,0 +1,1 @@
+lar[109262]=`<b>χρυσο·σπόρος, ος, ον</b> <font color="purple">[ῡ]</font> qui sème l’or, NONN. <i>D. 10, 145</i>.<p><b>Étym</b>. χρ. σπείρω.`

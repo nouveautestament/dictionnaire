@@ -1,0 +1,1 @@
+lar[49231]=`<b>ιος (ὁ)</b> <font color="purple">[ᾰ]</font> Hipparis (<i>auj</i>. Ippari) <i>fl. de Sicile,</i> PD. <i>O. 5, 27, etc</i>.`

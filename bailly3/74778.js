@@ -1,0 +1,1 @@
+lar[74778]=`<b>Πάμ·φιλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Pamphilos, <i>h</i>. AR. <i>Pl. 173, etc.</i> ; XÉN. <i>Hell. 5, 1, 2, etc</i>.<p><b>Étym</b>. πᾶς, φίλος.`

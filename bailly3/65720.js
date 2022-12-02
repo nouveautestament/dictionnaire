@@ -1,0 +1,1 @@
+lar[65720]=`<b>μικρ·όμματος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui a les yeux petits, ARSTT. <i>Physiogn. 3, 13</i>.<p><b>Étym</b>. μ. ὄμμα.`

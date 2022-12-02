@@ -1,0 +1,1 @@
+lar[86599]=`<b>προσ·φεύγω :<br>      1</b> se réfugier auprès de, <i>dat</i>. PLUT. <i>Pomp. 46, etc.</i><br><b>      2</b> être accusé en outre, DÉM. <i>977, 27, vb</i>. προσφευκτέον.`

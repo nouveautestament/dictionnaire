@@ -1,0 +1,1 @@
+lar[13292]=`<b>εως (ἡ)</b> <font color="purple">[ῑμ]</font> mouvement d’un navire qui manœuvre de côté en demi-cercle (<i>cf</i>. ἀποσιμόω) APP. <i>Civ. 4, 71</i>.<p><b>Étym</b>. ἀποσιμόω.`

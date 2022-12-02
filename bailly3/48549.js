@@ -1,0 +1,1 @@
+lar[48549]=`<b>ου (τὸ)</b> <font color="purple">[ᾱτ]</font> le clergé, <i>au sens collect</i>. BAS. <i>4, 713 Migne</i>.<p><b>Étym</b>. ἱερατεύω.`

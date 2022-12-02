@@ -1,0 +1,1 @@
+lar[78077]=`<b>πεντεκαιδεκά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, long de quinze coudées, ARSTT. <i>Mir. 96</i> ; DS. <i>17, 115</i>.<p><b>Étym</b>. π. πῆχυς.`

@@ -1,0 +1,1 @@
+lar[27910]=`<b>ος, ον</b> <font color="purple">[ῑῠ]</font> aigu <i>ou</i> perçant, MOSCH. <i>1, 8</i>.<p><b>Étym</b>. δριμύς.`

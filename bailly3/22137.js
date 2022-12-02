@@ -1,0 +1,1 @@
+lar[22137]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec une sensation de douceur, SEXT. <i>264, 29 ; 269, 25 ; 334, 19 Bkk</i>.`

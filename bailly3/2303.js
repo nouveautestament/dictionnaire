@@ -1,0 +1,1 @@
+lar[2303]=`<b>αἰγό·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b>, <i>dat</i>. <b>ῳ</b>, <i>acc</i>. <b>ων</b>, aux cornes de chèvre, A. PL. <i>4, 234</i> ; ὁ αἰγ. ARAT. <i>286</i> ; PLUT. <i>M. 908c ;</i> LUC. <i>Astr. 7,</i> le Capricorne, <i>signe du Zodiaque</i>.<p><b>Étym</b>. αἴξ, κέρας.`

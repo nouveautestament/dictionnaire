@@ -1,0 +1,1 @@
+lar[72738]=`<b>ὀρθό·πνοος-ους, οος-ους, οον-ουν</b>, asthmatique qui ne peut respirer que debout <i>ou</i> le corps droit sur son séant, HPC. <i>645, 38</i>.<p><b>Étym</b>. ὀ. πνέω.`

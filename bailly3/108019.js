@@ -1,0 +1,1 @@
+lar[108019]=`<b>ης, ες</b>, sujet aux bâillements, <i>d’où</i> somnolent, nonchalant, DL. <i>4, 32</i> ; τὸ χασμῶδες, PLUT. <i>M. 92,</i> nonchalance.<p><b>Étym</b>. χάσμη, -ωδης.`

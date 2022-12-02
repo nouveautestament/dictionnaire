@@ -1,0 +1,1 @@
+lar[72743]=`<b>ὀρθό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος :<br>      1</b> qui se tient droit sur ses pieds, NIC. <i>Al. 419</i>.<br><b>      2</b> escarpé, à pic (rocher), SOPH. <i>Ant. 985</i>.<p><b>Étym</b>. ὀ. πούς.`

@@ -1,0 +1,1 @@
+lar[45577]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> remise de la moitié d’un impôt, d’une amende, <i>etc</i>. LUC. <i>Nec. 14</i>.<p><b>Étym</b>. ἡμιτελής.`

@@ -1,0 +1,1 @@
+lar[45463]=`<b>ος, ον</b> <font color="purple">[μῐ]</font> en forme de demi-cercle, demi-circulaire ; HLD. <i>8, 14 conj</i>.<p><b>Étym</b>. ἡμι-, κύκλος.`

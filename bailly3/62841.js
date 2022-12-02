@@ -1,0 +1,1 @@
+lar[62841]=`<b>μαντι·πόλος, ος, ον</b> <font color="purple">[ῐ]</font> qui prédit l’avenir, devin, EUR. <i>Hec. 120</i> ; LUC. <i>J. tr. 31</i> ; MAN. <i>6, 306</i>.<p><b>Étym</b>. μάντις, πολέω.`

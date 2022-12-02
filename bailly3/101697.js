@@ -1,0 +1,1 @@
+lar[101697]=`<font color="purple">[ῠ]</font> <i>(seul. prés.) c</i>. ὑλακτέω, CHARIT. <i>6, 4</i>.`

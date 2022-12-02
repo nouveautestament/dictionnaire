@@ -1,0 +1,1 @@
+lar[6932]=`<b>εως (ἡ)</b> <font color="purple">[κῑ]</font><br><b>      1</b> action d’agiter les bras levés pour se préparer à la lutte, <i>d’où</i> prélude d’une lutte, PLAT. <i>Leg. 722d.</i><br><b>      2</b> <i>fig</i>. excitation, émotion, SOPH. <i>O.R. 727</i>.`

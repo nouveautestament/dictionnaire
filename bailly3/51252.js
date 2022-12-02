@@ -1,0 +1,1 @@
+lar[51252]=`<b>καλλί·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> aux belles feuilles, ANACR. <i>42, 2</i>.<p><b>Étym</b>. κ. φύλλον.`

@@ -1,0 +1,1 @@
+lar[73562]=`<b>ου (τὸ)</b> gencive, ARSTT. <i>H.A. 1, 11</i> ; DL. <i>7, 176 ; d’ord. au plur</i>. ESCHL. <i>Ch. 898</i> ; HPC. <i>Aph. 3, 25</i> ; PLAT. <i>Phædr. 251c</i>.`

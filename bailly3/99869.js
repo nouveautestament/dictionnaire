@@ -1,0 +1,1 @@
+lar[99869]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> τραγῳδία, DL. <i>3, 80</i>.`

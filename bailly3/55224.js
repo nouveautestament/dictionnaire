@@ -1,0 +1,1 @@
+lar[55224]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font> plante potagère <i>ou</i> de jardin, AR. <i>Av. 1099</i> ; APD. (ATH. <i>682d</i>).<p><b>Étym</b>. κηπεύω.`

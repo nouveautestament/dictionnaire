@@ -1,0 +1,1 @@
+lar[88731]=`<b>ῥοθέω-ῶ</b>, gronder comme les vagues, ESCHL. <i>fr. 321 Dind.</i> ; SOPH. <i>Ant. 259</i> ; τινι, SOPH. <i>Ant. 290,</i> gronder <i>ou</i> murmurer contre qqn.<p><b>Étym</b>. ῥόθος.`

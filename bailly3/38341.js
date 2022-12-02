@@ -1,0 +1,1 @@
+lar[38341]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec affliction, DS. <i>17, 18</i> ; PHIL. <i>1, 130, 136</i>.`

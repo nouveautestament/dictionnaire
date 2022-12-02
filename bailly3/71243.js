@@ -1,0 +1,1 @@
+lar[71243]=`<b>οῦ (ὁ)</b> lamentation, AR. <i>Vesp. 390</i> ; THC. <i>7, 71</i> ; PLAT. <i>Ax. 368b ; particul</i>. lamentation funèbre, ATH. <i>619b</i>.<p><b>Étym</b>. ὀλοφύρομαι.`

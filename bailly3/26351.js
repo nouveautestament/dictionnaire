@@ -1,0 +1,1 @@
+lar[26351]=`<b>δί·ζως</b> (<i>acc. sg</i>. -ων) à double forme (Pan demi-homme, demi-chèvre) THCR. <i>Syr. 5</i>.<p><b>Étym</b>. <i>cf</i>. δίζωος.`

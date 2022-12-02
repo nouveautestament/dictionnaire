@@ -1,0 +1,1 @@
+lar[44993]=`<b>ου (ὁ)</b> Hèdylos :<br><b>      1</b> <i>Athénien,</i> DÉM. <i>40, 23 Baiter-Sauppe</i>.<br><b>      2</b> <i>autres,</i> ATH. <i>297b ;</i> ANTH. <i>4, 1, etc</i>.<p><b>Étym</b>. ἡδύς.`

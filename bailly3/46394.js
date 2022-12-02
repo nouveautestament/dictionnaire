@@ -1,0 +1,1 @@
+lar[46394]=`<b>θεαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> évoquer les dieux, JAMBL. <i>Myst. 112, 10</i>.<p><b>Étym</b>. θεός, ἀγωγός.`

@@ -1,0 +1,1 @@
+lar[6855]=`<b>ας (ἡ) :<br>      1</b> insensibilité, PLAT. <i>Phil. 34a, Tim. 74e, etc.</i><br><b>      2</b> <i>p. suite,</i> stupidité, inconscience, ISOCR. <i>300c ;</i> DÉM. <i>564, 12</i> ; ARSTT. <i>Nic. 2, 8, etc</i>.`

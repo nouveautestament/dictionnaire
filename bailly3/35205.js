@@ -1,0 +1,1 @@
+lar[35205]=`<b>ἐν·υφ·ίζω</b> <font color="purple">[ῠ]</font> former un résidu dans, GEOP. <i>6, 5, 6</i>.<p><b>Étym</b>. ἐν, ὑπό, ἵζω.`

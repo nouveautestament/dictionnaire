@@ -1,0 +1,1 @@
+lar[7704]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> levée d’un camp, POL. <i>6, 40, 1</i>.`

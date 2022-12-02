@@ -1,0 +1,1 @@
+lar[92134]=`<b>ικος (ἡ)</b> <font color="purple">[ᾰῐκ]</font> pieu qui retient les filets des chasseurs, THCR. <i>Epigr. 3</i> ; ANTH. <i>6, 109</i> ; PLUT. <i>Pel. 8 ; différ. de</i> σχαλίς, OPP. <i>H. 4, 607</i>.`

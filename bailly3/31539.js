@@ -1,0 +1,1 @@
+lar[31539]=`<b>ἐκ·λαγχάνω</b> <font color="darkgreen">(<i>f</i>. -λήξομαι, <i>ao.2</i> ἐξέλαχον, <i>etc</i>.)</font> obtenir du sort <i>ou</i> pour lot, SOPH. <i>El. 760, O.C. 1337</i> ; LUC. <i>Sol. 5</i>.`

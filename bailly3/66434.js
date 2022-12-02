@@ -1,0 +1,1 @@
+lar[66434]=`<b>μολυνο·πραγμονέομαι-οῦμαι</b> <font color="purple">[ῡ]</font> être couvert d’outrages, AR. <i>Ach. 360</i>.<p><b>Étym</b>. μολύνω, πρᾶγμα.`

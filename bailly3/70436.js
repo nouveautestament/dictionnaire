@@ -1,0 +1,1 @@
+lar[70436]=`<b>ατος (τὸ)</b> lamentation, plainte qui excite la pitié, EUR. <i>Her. 158</i>.<p><b>Étym</b>. οἰκτίζω.`

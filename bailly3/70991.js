@@ -1,0 +1,1 @@
+lar[70991]=`<b>*ὀλιγηπελία</b>, <i>ion</i>. <b>ὀλιγηπελίη, ης (ἡ)</b> <font color="purple">[ῐγ]</font> faiblesse, épuisement, OD. <i>5, 468</i>.<p><b>Étym</b>. ὀλιγηπελής.`

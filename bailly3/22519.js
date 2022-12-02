@@ -1,0 +1,1 @@
+lar[22519]=`<b>Γορθυαίων ὄρη (τὰ)</b> les mts des Gorthyæes, <i>entre l’Arménie et la Mésopotamie,</i> PLUT. <i>Alex. 31</i>.`

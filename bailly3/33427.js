@@ -1,0 +1,1 @@
+lar[33427]=`<b>ἐμ·πεταννύω</b> <font color="darkgreen">(<i>impf</i>. ἐνεπετάννυον)</font> <i>c</i>. ἐμπετάννυμι XÉN. <i>Cyr. 1, 6, 40</i>.`

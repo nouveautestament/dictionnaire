@@ -1,0 +1,1 @@
+lar[72182]=`<b>ὀξυτονέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> finir en pointe, NAZ.<br><b>      2</b> prononcer <i>ou</i> écrire avec l’accent aigu, ATH. <i>400b ;</i> GRAMM.<p><b>Étym</b>. ὀξύτονος.`

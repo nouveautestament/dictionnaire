@@ -1,0 +1,1 @@
+lar[89312]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> plancher, SPT. <i>3Macc. 4, 10</i> ; POL. <i>1, 22, 6, etc.</i><br><b>      2</b> pont de navire, TH. <i>H.P. 5, 7, 5</i>.<p><b>Étym</b>. σανιδόω.`

@@ -1,0 +1,1 @@
+lar[32041]=`<b>ἐκ·σκεδάννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao</i>. ἐξεσκέδασα)</font> disperser, AR. <i>Eq. 795</i>.`

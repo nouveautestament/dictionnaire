@@ -1,0 +1,1 @@
+lar[37233]=`<b>ἐπ·ηγορεύω</b>, parler contre, se plaindre de : τινί τι, HDT. <i>1, 90,</i> faire un reproche à qqn.<p><b>Étym</b>. ἐπί, ἀγορεύω.`

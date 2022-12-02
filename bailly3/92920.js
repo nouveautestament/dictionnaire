@@ -1,0 +1,1 @@
+lar[92920]=`<b>στρεψο·δικέω-ῶ</b> <font color="purple">[ῐ]</font> pervertir la justice, AR. <i>Nub. 434</i>.<p><b>Étym</b>. στρέφω, δίκη.`

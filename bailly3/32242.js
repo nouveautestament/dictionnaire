@@ -1,0 +1,1 @@
+lar[32242]=`<b>ἐκ·τρυγίζω</b> <font color="purple">[ῠ]</font> ôter la lie, nettoyer, GEOP. <i>5, 2, 13</i>.`

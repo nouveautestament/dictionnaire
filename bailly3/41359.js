@@ -1,0 +1,1 @@
+lar[41359]=`<b>ἑτερό·πλοκος, ος, ον</b>, irrégulièrement combiné, DIOM. <i>481, 13</i>.<p><b>Étym</b>. ἕ. πλέκω.`

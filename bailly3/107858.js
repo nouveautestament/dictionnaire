@@ -1,0 +1,1 @@
+lar[107858]=`<b>οῦ (ὁ)</b> habitant <i>ou</i> originaire de Kharax, LUC. <i>Macr. 15, 17</i>.<p><b>Étym</b>. Χάραξ.`

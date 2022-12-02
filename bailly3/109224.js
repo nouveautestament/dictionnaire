@@ -1,0 +1,1 @@
+lar[109224]=`<b>χρυσό·πατρος, ος, ον</b> <font color="purple">[ῡ]</font> né d’une pluie d’or, <i>ép. de Persée,</i> LYC. <i>838</i>.<p><b>Étym</b>. χρ. πατήρ.`

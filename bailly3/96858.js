@@ -1,0 +1,1 @@
+lar[96858]=`<b>ας (ἡ)</b> Sphèkeia, <i>anc. n. de Kypros (Chypre)</i> LYC. <i>447</i>.`

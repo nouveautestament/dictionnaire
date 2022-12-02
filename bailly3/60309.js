@@ -1,0 +1,1 @@
+lar[60309]=`<i>ou</i> <b>Λεοννάτος, ου (ὁ)</b> Léonnatos, <i>h</i>. PLUT. <i>Eum. 3, Alex. 21, etc. ; plur</i>. Λεόννατοι, PLUT. <i>Alex. fort. 2, 13,</i> des hommes comme Léonnatos.`

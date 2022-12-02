@@ -1,0 +1,1 @@
+lar[64931]=`<b>εως (ἡ) :<br>      1</b> changement, renversement, PLAT. <i>Leg. 895b ;</i> PLUT. <i>M. 556b, etc. ; particul</i>. changement de dispositions, changement d’esprit, POL. <i>27, 1, 9 ; p. suite,</i> défection, POL. <i>3, 99, 3</i>.<br><b>      2</b> instabilité, STR. <i>1, 1, 21 ; 1, 2, 34, etc. Kram</i>.<p><b>Étym</b>. μεταπίπτω.`

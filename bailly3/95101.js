@@ -1,0 +1,1 @@
+lar[95101]=`<b>οῦ (ὁ)<br>      1</b> arbitre avec un autre, DÉM. <i>898, 25, etc.</i><br><b>      2</b> qui vit avec un autre compagnon, LUC. <i>Ep. sat. 36</i>.<p><b>Étym</b>. συνδιαιτάω.`

@@ -1,0 +1,1 @@
+lar[25872]=`<b>δια·φράγνυμι</b> <font color="purple">[ῡ]</font><br><b>      1</b> séparer par une cloison <i>ou</i> par des cloisons, TH. <i>H.P. 8, 5, 2</i>.<br><b>      2</b> séparer par des palissades, barricader, PLUT. <i>Æmil. 13</i>.<br><b><i>Moy.</i></b> barricader pour soi, PLUT. <i>Cam. 34</i>.<p><b>Étym</b>. <i>cf</i>. διαφράσσω.`

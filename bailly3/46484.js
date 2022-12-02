@@ -1,0 +1,1 @@
+lar[46484]=`<i>inf. ao.2 de</i> τίθημι <i>ou inf. ao.1 de</i> θείνω.`

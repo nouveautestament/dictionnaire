@@ -1,0 +1,1 @@
+lar[1847]=`<b>ης (ἡ) :<br>      1</b> sécheresse, OPP. <i>C. 1, 134</i>.<br><b>      2</b> <i>p. suite,</i> brunissure (de la peau) NIC. <i>Th. 304</i> ; (d’un vieux bouclier de cuir) OD. <i>22, 184 (ion</i>. ἄζη).<p><b>Étym</b>. ἄζω.`

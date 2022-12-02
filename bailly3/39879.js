@@ -1,0 +1,1 @@
+lar[39879]=`<b>ἐπ·ορίνω</b> <font color="purple">[ῑ]</font> exciter encore <i>ou</i> en outre, MAN. <i>6, 597</i>.`

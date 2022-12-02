@@ -1,0 +1,1 @@
+lar[83533]=`<b>προ·αμείβομαι</b> <font color="purple">[ᾰ]</font> recevoir le premier une chose qui ne serait livrable qu’en échange d’une autre, PLAT. <i>Leg. 921e</i>.`

@@ -1,0 +1,1 @@
+lar[59735]=`<b>λαμπρο·φαής, ής, ές</b>, à la lumière brillante, ORPH. <i>H. 77, 2</i> ; MAN. <i>4, 53</i>.<p><b>Étym</b>. λ. φάος.`

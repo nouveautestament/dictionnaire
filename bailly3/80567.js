@@ -1,0 +1,1 @@
+lar[80567]=`(<i>seul. prés. et impf</i>.) <font color="purple">[ῐ]</font> <i>c</i>. πιφαύσκω.<p>➳ <i>Part. prés</i>. πιφάσκων, NONN. <i>D. 18, 34 (sel. d’autres,</i> πιφαύσκων) ; <i>3 sg. impf</i>. πίφασκε, SIB. <i>1, 6 ; moy. 2 sg. prés</i>. πιφάσκεαι, HÉS. <i>Th. 655</i>.<p><b>Étym</b>. <i>corrigé en</i> πιφαύσκεαι.`

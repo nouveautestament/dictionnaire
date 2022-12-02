@@ -1,0 +1,1 @@
+lar[50868]=`<b>κακο·σφυξία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais pouls, GAL. <i>6, 117, etc.</i> ; ARÉT. <i>p. 21</i>.<p><b>Étym</b>. κ. σφύζω.`

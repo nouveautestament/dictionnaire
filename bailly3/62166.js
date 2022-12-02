@@ -1,0 +1,1 @@
+lar[62166]=`<b>ικος (ἡ)</b> sorte de tissu, M. RUBR. <i>24</i>.`

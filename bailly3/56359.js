@@ -1,0 +1,1 @@
+lar[56359]=`<b>ωνος (ὁ)</b> Knôsiôn, <i>n. d’un jeune garçon,</i> ESCHN. <i>48, 10</i>.`

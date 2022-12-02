@@ -1,0 +1,1 @@
+lar[14169]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> qu’on doit maudire, maudit, SOPH. <i>Ant. 972</i>.<p>➳ <i>Ion</i>. ἀρητός, IL. <i>17, 37</i>.<p><b>Étym</b>. ἀράομαι.`

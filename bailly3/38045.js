@@ -1,0 +1,1 @@
+lar[38045]=`<b>ἐπι·κλεής, ής, ές :<br>      1</b> célèbre, A.RH. <i>4, 1472</i>.<br><b>      2</b> connu par, qui tire son nom de, <i>dat</i>. OPP. <i>H. 2, 130</i>.<p><b>Étym</b>. ἐπί, κλέος.`

@@ -1,0 +1,1 @@
+lar[31100]=`<b>ἐκ·βλύζω</b> <font color="darkgreen">(<i>ao</i>. ἐξέβλυσα) :</font><br><b>      1 <i>intr.</i></b> jaillir de, ORPH. <i>Lith. 484</i> ; SPT. <i>Prov. 3, 10</i> ; CLÉM. <i>1, 720a Migne</i>.<br><b>      2 <i>tr.</i></b> faire jaillir, PLUT. <i>T. Gracch. 13</i>.`

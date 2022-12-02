@@ -1,0 +1,1 @@
+lar[87736]=`<i>interj</i>. oh ! dieux ! oh ! <i>cri d’admiration,</i> PLAT. <i>Euthyd. 303a</i>.`

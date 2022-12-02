@@ -1,0 +1,1 @@
+lar[21868]=`<b>γεωμορέω-ῶ</b>, cultiver la terre, ALEXANDR. (EUS. <i>P.E. 427d</i>).<p><b>Étym</b>. γεωμόρος.`

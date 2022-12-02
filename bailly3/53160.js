@@ -1,0 +1,1 @@
+lar[53160]=`<b>κατα·προΐημι</b> <font color="darkgreen">(<i>seul. au moy</i>. καταπροΐεμαι, <i>f</i>. -προήσομαι)</font> laisser tomber, laisser échapper, laisser se perdre, <i>acc</i>. POL. <i>3, 81, 4</i> ; SYN. <i>163d ;</i> τοὺς καιρούς, POL. <i>1, 77, 3, etc</i>. les occasions, <i>etc</i>.`

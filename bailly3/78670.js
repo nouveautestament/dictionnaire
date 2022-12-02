@@ -1,0 +1,1 @@
+lar[78670]=`<b>περί·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> plein de courroux, ESCHL. <i>Sept. 725 ; adv</i>. περίθυμον, PLUT. <i>Mar. 19,</i> avec une grande irritation.<p><b>Étym</b>. π. θυμός.`

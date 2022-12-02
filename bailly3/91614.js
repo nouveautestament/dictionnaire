@@ -1,0 +1,1 @@
+lar[91614]=`<b>ων (οἱ)</b> = <i>lat</i>. Suevi, les Suèves, <i>pple germain,</i> PLUT. <i>Pomp. 51, etc</i>.`

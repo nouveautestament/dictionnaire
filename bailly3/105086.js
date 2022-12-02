@@ -1,0 +1,1 @@
+lar[105086]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> le fils de Pheidôn, AR. <i>Nub. 65</i>.<p><b>Étym</b>. <i>patr. de</i> Φείδων.`

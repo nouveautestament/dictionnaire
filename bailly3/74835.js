@@ -1,0 +1,1 @@
+lar[74835]=`<b>ας (ἡ)</b> <font color="purple">[ᾰνᾰ]</font> panacée, <i>càd</i>. remède contre tous les maux, CALL. <i>Ap. 39 ; fig</i>. LGN <i>38</i>.<p><b>Étym</b>. πανακής.`

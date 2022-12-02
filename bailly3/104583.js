@@ -1,0 +1,1 @@
+lar[104583]=`<b>ου (ὁ)</b> = <i>lat</i>. Fabricius, <i>n. d’h. rom</i>. PLUT. <i>Pyrrh. 18, etc. ; plur</i>. οἱ Φαβρίκιοι, PLUT. <i>Arist. c. Cat. ma. 1,</i> la famille des Fabricius.`

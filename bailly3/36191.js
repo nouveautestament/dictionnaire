@@ -1,0 +1,1 @@
+lar[36191]=`<b>ἔξ·ορκος, ος, ον</b>, lié par un serment, <i>ou sel. d’autres,</i> qui prononce la formule sacramentelle, PD. <i>O. 13, 140</i>.<p><b>Étym</b>. ἐξ, ὅρκος.`

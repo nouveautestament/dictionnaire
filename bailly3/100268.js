@@ -1,0 +1,1 @@
+lar[100268]=`<b>τρι·κύαθος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui contient trois cyathes, ANACR. <i>29</i>.<p><b>Étym</b>. τρεῖς, κύαθος.`

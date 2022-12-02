@@ -1,0 +1,1 @@
+lar[27878]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> faux, IL. <i>18, 551</i> ; HÉS. <i>Sc. 292</i> ; ANTH. <i>9, 383, 384, etc</i>.<p>➳ <i>Rare en prose,</i> PLUT. <i>Cleom. 26</i> ; ALCIPHR. <i>3, 19</i>.<p><b>Étym</b>. <i>cf</i>. δρέπανον.`

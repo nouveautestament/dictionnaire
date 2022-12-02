@@ -1,0 +1,1 @@
+lar[69133]=`<b>νυκτί·δρομος, ος, ον</b>, qui accomplit sa course la nuit, ORPH. <i>H. 8, 2</i>.<p><b>Étym</b>. ν. δραμεῖν.`

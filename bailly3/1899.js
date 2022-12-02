@@ -1,0 +1,1 @@
+lar[1899]=`<b>όνος (ἡ)</b> Aèdôn, <i>fille de Pandarée, qui fut changée en rossignol,</i> OD. <i>19, 518</i>.`

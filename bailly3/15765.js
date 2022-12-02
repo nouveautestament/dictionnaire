@@ -1,0 +1,1 @@
+lar[15765]=`<b>οῦ</b>, <i>épq</i>. -άο, <i>adj. m</i>. des Asbystes (Zeus), NONN.`

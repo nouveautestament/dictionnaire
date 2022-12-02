@@ -1,0 +1,1 @@
+lar[110227]=`<b>ὠλεσί·καρπος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> stérile, OD. <i>10, 510</i> ; TH. <i>H.P. 3, 1, 3</i>.<br><b>      2</b> qui rend stérile, <i>en parl. du tambour des prêtres de Cybèle,</i> OPP. <i>C. 3, 283</i>.<p><b>Étym</b>. ὄλλυμι, καρπός.`

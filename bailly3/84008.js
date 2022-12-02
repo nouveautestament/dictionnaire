@@ -1,0 +1,1 @@
+lar[84008]=`<b>ος, ον :<br>      1</b> trahi, livré, SOPH. <i>El. 126 ; cf</i>. EUR. <i>Hipp. 595</i>.<br><b>      2</b> délaissé, SOPH. <i>El. 1074</i>.<p><b>Étym</b>. <i>vb</i>. προδίδωμι.`

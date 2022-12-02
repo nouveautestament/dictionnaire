@@ -1,0 +1,1 @@
+lar[65797]=`<b>οῦ (ὁ)</b> <font color="purple">[μῐ]</font> action de mesurer par milles, STR. <i>266</i>.<p><b>Étym</b>. μιλιάζω.`

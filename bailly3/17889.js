@@ -1,0 +1,1 @@
+lar[17889]=`<b>έως (ὁ)</b> nageoire sous le ventre du thon femelle, ARSTT. <i>H.A. 5, 9, 6</i>.`

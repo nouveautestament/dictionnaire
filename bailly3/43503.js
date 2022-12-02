@@ -1,0 +1,1 @@
+lar[43503]=`<b>εὐ·σύγκρυπτος, ος, ον</b>, facile à cacher, HPC. <i>Fract. 753</i> ; ARÉT. <i>Caus. m. diut. 1, 8</i>.<p><b>Étym</b>. εὖ, συγκρύπτω.`

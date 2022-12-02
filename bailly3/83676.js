@@ -1,0 +1,1 @@
+lar[83676]=`<b>ος, ον</b>, qui est tombé avant le temps, TH. <i>H.P. 3, 3, 8</i>.<p><b>Étym</b>. προαποπίπτω.`

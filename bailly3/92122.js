@@ -1,0 +1,1 @@
+lar[92122]=`<b>α, ον</b> <font color="purple">[τᾰ]</font> qui coule goutte à goutte, P. ALEX. <i>Apot. 23, p. 50, l. 20 Boer</i>.<p><b>Étym</b>. σταλαγμίας.`

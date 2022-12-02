@@ -1,0 +1,1 @@
+lar[64522]=`<i>adv</i>., au milieu, DYSC. <i>Adv. p. 588, 27 ; 610, 30 Bkk</i>.<p>➳ <i>Poét</i>. μέσσοι, ALC. <i>17</i>.<p><b>Étym</b>. μέσος.`

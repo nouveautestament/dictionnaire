@@ -1,0 +1,1 @@
+lar[9723]=`<b>ἀντ·εφορμάω-ῶ</b>, se précipiter contre, HLD. <i>8, 16</i>.`

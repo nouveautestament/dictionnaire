@@ -1,0 +1,1 @@
+lar[67602]=`<b>ή, όν</b>, foulé, PLUT. <i>C. Gracch. 7</i>.<p><b>Étym</b>. νάσσω.`

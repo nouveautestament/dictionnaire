@@ -1,0 +1,1 @@
+lar[79055]=`<b>περι·παμφανάω</b> (<i>seul. part. prés. fém. épq</i>. -φανόωσα) <font color="purple">[φᾰ]</font> briller tout autour, DP. <i>530</i>.`

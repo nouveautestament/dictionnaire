@@ -1,0 +1,1 @@
+lar[66004]=`<b>ας (ἡ) :<br>      1</b> service à gages, fonction salariée, XÉN. <i>Ath. 1, 3,</i> PLAT. <i>Gorg. 515e ;</i> DS. <i>16, 61</i>.<br><b>      2</b> revenu, rente, LUC. <i>Nav. 13</i>.<p><b>Étym</b>. μισθοφόρος.`

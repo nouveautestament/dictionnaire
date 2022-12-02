@@ -1,0 +1,1 @@
+lar[70830]=`<i>adv. c</i>. ὀκτάκις JAMBL. <i>Nicom. ar. p. 127b</i>.`

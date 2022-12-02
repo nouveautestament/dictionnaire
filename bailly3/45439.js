@@ -1,0 +1,1 @@
+lar[45439]=`<b>ἡμί·θνητος, ος, ον</b>, à demi mortel, qui vit et meurt tour à tour, <i>en parl. des Dioscures,</i> LYC. <i>511</i>.<p><b>Étym</b>. ἡμι-, θνητός.`

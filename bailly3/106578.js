@@ -1,0 +1,1 @@
+lar[106578]=`<b>Φοινικό·στολος, ος, ον</b> <font color="purple">[ῑ]</font> de l’armée des Phéniciens, PD. <i>N. 9, 67</i>.<p><b>Étym</b>. Φ. στέλλω.`

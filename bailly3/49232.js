@@ -1,0 +1,1 @@
+lar[49232]=`<b>ου (τὸ)</b> sorte de verveine, DIOSC. <i>4, 61</i>.`

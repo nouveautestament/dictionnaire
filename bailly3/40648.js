@@ -1,0 +1,1 @@
+lar[40648]=`<b>Ἑρμό·τιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Hermotimos, <i>h</i>. HDT. <i>8, 103</i> ; ARSTT. <i>Metaph. 1, 3</i> ; PLUT. <i>Per. 24</i>.<p><b>Étym</b>. Ἑ. τιμή.`

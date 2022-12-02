@@ -1,0 +1,1 @@
+lar[11767]=`<b>ἀ·περικάλυπτος, ος, ον</b> <font color="purple">[κᾰ]</font> non enveloppé, non caché, ouvert, ARSTT. <i>Plant. 2, 2, 18</i>.<p><b>Étym</b>. ἀ, περικαλύπτω.`

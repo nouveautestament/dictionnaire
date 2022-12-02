@@ -1,0 +1,1 @@
+lar[19323]=`<b>ή, όν</b>, des Bastarnes, STR. PLUT.<p><b>Étym</b>. βαστάρναι.`

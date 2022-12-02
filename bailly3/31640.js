@@ -1,0 +1,1 @@
+lar[31640]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> serviteur chargé d’essuyer la vaisselle, NAZ. <i>2, 222b Migne</i>.<p><b>Étym</b>. ἐκμάσσω.`

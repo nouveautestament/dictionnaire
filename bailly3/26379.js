@@ -1,0 +1,1 @@
+lar[26379]=`<b>δι·ημερόω-ῶ</b>, adoucir, <i>fig</i>. assouplir, cultiver, TH. <i>C.P. 3, 20, 6</i>.`

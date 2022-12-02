@@ -1,0 +1,1 @@
+lar[102309]=`<b>ὑπερ·άτοπος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait absurde, DÉM. <i>213, 25</i>.`

@@ -1,0 +1,1 @@
+lar[21870]=`<b>ή, όν</b>, qui concerne le partage des terres ; γ. νόμος, DH. <i>10, 39,</i> loi agraire.<p><b>Étym</b>. γεωμόρος.`

@@ -1,0 +1,1 @@
+lar[17630]=`<b>αὐτο·παράκλητος, ος, ον</b>, qui s’exhorte lui-même, <i>d’où</i> qui agit spontanément, CHRYS.<p><b>Étym</b>. αὐ. παρακαλέω.`

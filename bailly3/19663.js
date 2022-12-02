@@ -1,0 +1,1 @@
+lar[19663]=`<b>ή, όν :<br>      1</b> atteint de toux, HPC. <i>1236, 4</i>.<br><b>      2</b> bon pour guérir la toux, béchique, A. TR. DIOSC.<p><b>Étym</b>. βήξ.`

@@ -1,0 +1,1 @@
+lar[9681]=`<b>ἀντ·ερανίζω</b> (<i>part. prés. pass</i>.) <font color="purple">[ρᾰ]</font> rémunérer, ANTH. <i>9, 12</i>.`

@@ -1,0 +1,1 @@
+lar[74844]=`<b>παν·ακρίς, ίδος</b> <font color="purple">[ᾰν]</font> <i>adj. f</i>. qui voltige sur la surface des fleurs, <i>ép. des abeilles,</i> CALL. <i>Jov. 50</i>.<p><b>Étym</b>. π. ἄκρα.`

@@ -1,0 +1,1 @@
+lar[40136]=`<b>ἐρασι·πλόκαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux tresses charmantes, PD. <i>P. 4, 136</i> ; IBYC. (HDN RH. <i>Schem. p. 61, 1).</i><p><b>Étym</b>. ἐράω, πλόκαμος.`

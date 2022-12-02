@@ -1,0 +1,1 @@
+lar[19835]=`<i>adv</i>., selon l’usage de la vie ordinaire, D. THR. <i>629, 18</i> ; CHRYS.`

@@ -1,0 +1,1 @@
+lar[86409]=`<b>*προσ·στάζω</b>, <i>dor</i>. <b>ποτι·στάζω</b>, faire tomber goutte à goutte, distiller : πραῢν ὄαρον, PD. <i>P. 4, 244,</i> de douces paroles ; τινὶ μορφάν, PD. <i>O. 6, 127, litt</i>. distiller sur qqn la beauté.`

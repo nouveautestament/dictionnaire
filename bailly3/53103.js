@@ -1,0 +1,1 @@
+lar[53103]=`<b>εως (ἡ) :<br>      1</b> étonnement, <i>particul. en mauv. part,</i> consternation, effroi, stupeur, THC. <i>7, 42</i> ; POL. <i>3, 103, 2</i> ; DS. <i>17, 116</i>.<br><b>      2</b> admiration, POL. <i>3, 90, 14</i>.<br><b>      3</b> fixité du regard, HPC. <i>1226a</i>.<p><b>Étym</b>. καταπλήσσω.`

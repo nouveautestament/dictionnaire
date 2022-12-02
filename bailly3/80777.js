@@ -1,0 +1,1 @@
+lar[80777]=`<b>πλατυ·ρρημοσύνη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> prolixité, TIMON (DL. <i>4, 67).</i><p><b>Étym</b>. πλ. ῥῆμα.`

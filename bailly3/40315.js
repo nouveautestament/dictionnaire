@@ -1,0 +1,1 @@
+lar[40315]=`<b>ή, όν</b>, d’Érétrie : Ἐ. φιλόσοφοι, DL. <i>1, 17,</i> les philosophes d’Érétrie, <i>disciples de Ménédème</i> ; Ἐ. αἵρεσις, DL. <i>1, 18,</i> l’École (de philosophes) d’Érétrie.<p><b>Étym</b>. Ἐρέτρια.`

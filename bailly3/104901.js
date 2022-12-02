@@ -1,0 +1,1 @@
+lar[104901]=`<b>*φαρμακία</b>, <i>ion</i>. <b>φαρμακίη, ης</b> <font color="purple">[μᾰ]</font> <i>c</i>. φαρμακεία, MAN. <i>2, 310</i> ; SIB. <i>5, p. 576</i> ; SPT. <i>Ex. 7, 11 ; au plur</i>. HPC. <i>1244d, 1245h</i>.`

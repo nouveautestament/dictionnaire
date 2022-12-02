@@ -1,0 +1,1 @@
+lar[59128]=`<b>ῆνος (ὁ) :<br>      1</b> cuisse, <i>c</i>. κωλῆ, EUP. (ATH. <i>368</i>).<br><b>      2</b> <i>au plur</i>. os des jambes, ARSTT. <i>H.A. 3, 7, etc</i>.`

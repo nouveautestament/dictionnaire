@@ -1,0 +1,1 @@
+lar[3066]=`<b>ἀ·κακοποιός, ός, όν</b> <font color="purple">[κᾰ]</font> qui ne fait pas de mal, CHRYS.`

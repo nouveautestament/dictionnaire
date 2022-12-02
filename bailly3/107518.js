@@ -1,0 +1,1 @@
+lar[107518]=`<b>χαλαί·ρυπος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> eau de nitre pour laver le linge, CRAT. (<i>Com. fr. 2, 212</i>) ; POLÉM. (MACR. <i>Sat. 5, 19</i>) ; DIOSC. <i>Noth. 2, 193</i>.<p><b>Étym</b>. χαλάω, ῥύπος.`

@@ -1,0 +1,1 @@
+lar[33525]=`<b>ῆς (ἡ)</b> souffle, <i>d’où</i> :<br><b>      1</b> souffle du vent, STR. <i>182</i>.<br><b>      2</b> respiration, NYSS. <i>1, 131</i>.<p><b>Étym</b>. ἐμπνέω.`

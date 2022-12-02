@@ -1,0 +1,1 @@
+lar[67127]=`<b>ῶν (οἱ)</b> les Mylètides, <i>partisans politiques exilés de Syracuse et établis à Himéra,</i> THC. <i>6, 5</i>.`

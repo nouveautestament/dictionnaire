@@ -1,0 +1,1 @@
+lar[54698]=`<b>κενοδοξέω-ῶ</b>, avoir des opinions vaines <i>ou</i> peu fondées, HLD. <i>9, 19</i>.<p><b>Étym</b>. κενόδοξος.`

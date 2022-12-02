@@ -1,0 +1,1 @@
+lar[62532]=`<b>ας (ἡ)</b> long discours, prolixité, PLAT. <i>Gorg. 449c, Prot. 335b</i>.<p><b>Étym</b>. μακρολόγος.`

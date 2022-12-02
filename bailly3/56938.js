@@ -1,0 +1,1 @@
+lar[56938]=`<b>έως (ὁ)</b> ciseau de sculpteur, DS. <i>1, 35</i> ; LUC. <i>Somn. 13</i>.<p><b>Étym</b>. κόπτω.`

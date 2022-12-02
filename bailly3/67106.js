@@ -1,0 +1,1 @@
+lar[67106]=`<b>ου (ὁ)</b> Mykonos (<i>auj</i>. Mýkonos) <i>une des Cyclades,</i> ESCHL. <i>Pers. 885</i> ; HDT. <i>6, 118</i> ; THC. <i>3, 29</i>.`

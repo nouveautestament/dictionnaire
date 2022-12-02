@@ -1,0 +1,1 @@
+lar[43076]=`<b>ατος (τὸ)</b> expédient, ALCIDAM. <i>p. 88, au pl</i>.<p><b>Étym</b>. εὐπορέω.`

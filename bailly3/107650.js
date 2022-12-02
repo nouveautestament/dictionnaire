@@ -1,0 +1,1 @@
+lar[107650]=`<b>χαλκο·βόας, ου</b> <font color="purple">[ᾱς]</font> <i>adj. m</i>. aux cris retentissants comme l’airain, à la voix retentissante, SOPH. <i>O.C. 1046</i>.<p><b>Étym</b>. χ. βοάω.`

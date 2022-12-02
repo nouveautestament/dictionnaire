@@ -1,0 +1,1 @@
+lar[11483]=`<b>ἀπ·αυτομολέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀπηυτομόλησα, <i>pl.q.pf</i>. ἀπηυτομολήκειν)</font> être transfuge, THC. <i>7, 75</i> ; πρός τινα, DH. <i>Orat. proœm. 2,</i> auprès de qqn.`

@@ -1,0 +1,1 @@
+lar[72454]=`<b>ων (τὰ) :<br>      1</b> vue, EUR. <i>Ion 1127</i>.<br><b>      2</b> présents, cadeaux de visite faits à la jeune mère qui présente son enfant, CALL. <i>Dian. 74</i>.<br><b>      3</b> <i>fig</i>. ὁ. θυμοῦ, HÉRODICUS (ATH. <i>219d</i>) les yeux de l’âme.<p><b>Étym</b>. ὄψομαι.`

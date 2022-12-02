@@ -1,0 +1,1 @@
+lar[17297]=`<b>ας (ἡ)</b> l’Ausonie, <i>anc. n. de l’Italie,</i> DH. DC. <i>etc</i>.<p>➳ <i>Ion</i>. -ίη, ANTH. <i>9, 384 ; 14, 121</i>.`

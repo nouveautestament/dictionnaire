@@ -1,0 +1,1 @@
+lar[82730]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> galette pour les sacrifices, AR. <i>Th. 285, etc.</i> ; PLAT. <i>Rsp. 455c ;</i> ARSTT. <i>fr. 447</i>.<p><b>Étym</b>. πέπτω.`

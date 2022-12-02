@@ -1,0 +1,1 @@
+lar[5514]=`<b>ἀ·μετάτρεπτος, ος, ον</b>, immuable, inaltérable, PLUT. <i>Thes. 17</i>.<p><b>Étym</b>. ἀ, μετατρέπω.`

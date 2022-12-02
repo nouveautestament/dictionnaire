@@ -1,0 +1,1 @@
+lar[102778]=`<b>ὑπέρ·πονος, ος, ον</b>, épuisé par la fatigue <i>ou</i> la souffrance, PLUT. <i>Alex. 61</i>.<p><b>Étym</b>. ὑ. πονέω.`

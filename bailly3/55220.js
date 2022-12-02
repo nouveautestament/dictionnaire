@@ -1,0 +1,1 @@
+lar[55220]=`THCR. <i>Idyl. 2, 100 ; crase dor. p</i>. καὶ ἐπεί.`

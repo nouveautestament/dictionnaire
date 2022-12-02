@@ -1,0 +1,1 @@
+lar[54884]=`<b>κερ·αυλία, ας (ἡ)</b> sonnerie de trompe, CORN. <i>6</i>.<p><b>Étym</b>. κέρας, αὐλέω.`

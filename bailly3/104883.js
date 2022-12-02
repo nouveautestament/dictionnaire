@@ -1,0 +1,1 @@
+lar[104883]=`<b>ιος (ἡ)</b> Phâris, <i>v. de Laconie,</i> IL. <i>2, 582</i>.`

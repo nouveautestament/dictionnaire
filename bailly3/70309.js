@@ -1,0 +1,1 @@
+lar[70309]=`<i>vb. de</i> οἴομαι, ARSTT. <i>Phys. 3, 6, 12, etc</i>.`

@@ -1,0 +1,1 @@
+lar[71134]=`<b>ὁλκ·ήρης, ης, ες</b>, <i>propr</i>. ajusté de manière à se traîner, <i>d’où</i> rampant, NIC. <i>Th. 351, 356</i>.<p><b>Étym</b>. ὁλκή, *ἄρω.`

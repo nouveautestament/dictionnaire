@@ -1,0 +1,1 @@
+lar[16920]=`<font color="purple">[ᾰπ]</font> (<i>seul. prés</i>.) faire route, PHÉRÉCR. <i>fr. 27 Mein</i>.<p><b>Étym</b>. ἀτραπός.`

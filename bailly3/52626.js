@@ -1,0 +1,1 @@
+lar[52626]=`<b>κατα·κρημνίζω</b>, précipiter de haut en bas, DÉM. <i>446, 11</i> ; PLUT. <i>Mar. 45, etc.</i> ; ἐκ τριήρους, XÉN. <i>Hell. 2, 1, 31,</i> d’une galère ; ἀπὸ τῶν ἵππων, POL. <i>3, 116, 12,</i> de leurs chevaux ; ἀπὸ κρημνοῦ, SPT. <i>2Par. 25, 12,</i> du haut d’un précipice.<p>➳ <i>Fut. 3 sg. att</i>. κατακρημνιεῖ, DÉMÉTR. (ATH. <i>253f</i>).`

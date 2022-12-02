@@ -1,0 +1,1 @@
+lar[16526]=`<b>ἀ·συνουσίαστος, ος, ον</b>, sans compagnon, insociable, CHRYS.<p><b>Étym</b>. ἀ, συνουσιάζω.`

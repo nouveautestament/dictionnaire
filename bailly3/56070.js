@@ -1,0 +1,1 @@
+lar[56070]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> petit lit, AR. <i>Th. 261</i> ; CRAT. (<i>Com. fr. 2, 99).</i><p><b>Étym</b>. κλίνη.`

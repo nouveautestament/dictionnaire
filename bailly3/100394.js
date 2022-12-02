@@ -1,0 +1,1 @@
+lar[100394]=`<b>τρι·πόλιστος, ος, ον</b> <font color="purple">[ῐπ]</font> retourné, <i>càd</i>. renouvelé trois fois, qui frappe trois générations, SOPH. <i>Ant. 858</i>.<p><b>Étym</b>. τρίς, πολίζω.`

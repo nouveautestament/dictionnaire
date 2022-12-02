@@ -1,0 +1,1 @@
+lar[18766]=`<b>βαθυ·κρήπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰῡῑδ]</font> aux fondements profonds, MUS. <i>229</i> ; NONN. <i>Jo. 6, p. 83, 8</i>.<p><b>Étym</b>. β. κρηπίς.`

@@ -1,0 +1,1 @@
+lar[101531]=`<b>ου (τὸ) :<br>      1</b> petite aiguière, petite cruche, HPC. <i>49, 53</i>.<br><b>      2</b> petite clepsydre, THÉON 2 <i>Ptol. p. 6</i>.<p><b>Étym</b>. ὑδρία.`

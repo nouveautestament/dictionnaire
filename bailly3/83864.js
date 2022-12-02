@@ -1,0 +1,1 @@
+lar[83864]=`<b>εως (ἡ)</b> connaissance anticipée, prévision, PLUT. <i>M. 399d, 982c ;</i> LUC. <i>Alex. 8, etc. ; t. de méd</i>. prévision de la marche d’une maladie, ANTH. <i>11, 382</i>.<p><b>Étym</b>. προγιγνώσκω.`

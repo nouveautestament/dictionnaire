@@ -1,0 +1,1 @@
+lar[61373]=`<b>λίπ·ουρος</b>, <i>mieux que</i> <b>λείπ·ουρος, ος, ον</b> <font color="purple">[ῐ]</font> qui est sans queue, CALL. <i>fr. 76, 2</i>.<p><b>Étym</b>. λ. οὐρά.`

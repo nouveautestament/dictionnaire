@@ -1,0 +1,1 @@
+lar[16696]=`<b>ἀ·τάρμυκτος, ος, ον</b>, qui ne tremble pas, ferme, NIC. <i>Al. 161 ; cf</i>. ἀτάρβηκτος.<p><b>Étym</b>. ἀ, ταρμύσσω.`

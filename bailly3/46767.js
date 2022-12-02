@@ -1,0 +1,1 @@
+lar[46767]=`<b>ας (ἡ)</b> vue de Dieu, vision divine, BAS. <i>4, 380 Migne</i>.<p><b>Étym</b>. θεόπτης.`

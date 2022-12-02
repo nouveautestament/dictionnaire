@@ -1,0 +1,1 @@
+lar[81719]=`<b>πολυ·άρατος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> qui est l’objet de beaucoup de souhaits, PLAT. <i>Theæt. 165e</i>.<p>➳ <i>Ion</i>. πολυάρητος, OD. <i>6, 280 ; 19, 404</i> ; HH. <i>Cer. 220</i>.<p><b>Étym</b>. π. ἀράομαι.`

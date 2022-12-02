@@ -1,0 +1,1 @@
+lar[52320]=`<b>εως (ἡ)</b> division, PHILOD. <i>V. Herc. 1, col. 30</i>.<p><b>Étym</b>. καταδιαιρέω.`

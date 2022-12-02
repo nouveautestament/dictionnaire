@@ -1,0 +1,1 @@
+lar[56535]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kœranos (<i>litt</i>. le maître) <i>h</i>. IL. <i>2, 677 ; 17, 611, etc</i>.`

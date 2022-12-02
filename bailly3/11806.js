@@ -1,0 +1,1 @@
+lar[11806]=`<b>ή, όν</b>, propre à séparer, à écarter, à exclure, A. APHR. (<i>Fr. philos. ed. Mullach p. 49 ; correct. de Karsten p</i>. παρεκτικός).<p><b>Étym</b>. ἀπείργω.`

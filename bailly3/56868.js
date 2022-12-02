@@ -1,0 +1,1 @@
+lar[56868]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire du dème attique Konthylè, <i>de la tribu Pandionide,</i> AR. <i>Vesp. 233</i>.`

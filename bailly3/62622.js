@@ -1,0 +1,1 @@
+lar[62622]=`<b>μαλακιέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. μαλακιάω EL. <i>N.A. 1, 32 ; 5, 12 ; 9, 4 ; 16</i>.<p><b>Étym</b>. <i>conj</i>. μαλκίω <i>L. Dind</i>.`

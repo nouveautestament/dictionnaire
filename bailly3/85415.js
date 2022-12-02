@@ -1,0 +1,1 @@
+lar[85415]=`<b>προσ·διαπλάσσω</b>, <i>att</i>. <b>-πλάττω</b>, façonner en outre, imaginer, HPC. <i>584g ;</i> HIM. <i>Or. 12, 2</i>.`

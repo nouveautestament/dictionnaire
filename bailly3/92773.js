@@ -1,0 +1,1 @@
+lar[92773]=`<b>ου (ὁ) :<br>      1</b> but que l’on vise, XÉN. <i>Ages. 1, 25</i> ; EL. <i>N.A. 1, 31</i>.<br><b>      2</b> conjecture, ESCHL. <i>Suppl. 243</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *steg<sup>h</sup>-, piquer, poteau ; <i>cf. angl</i>. sting, <i>all</i>. Stange.`

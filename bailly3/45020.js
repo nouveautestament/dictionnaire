@@ -1,0 +1,1 @@
+lar[45020]=`<b>*ἡδύ·πολις</b>, <i>dor</i>. <b>ἁδύ·πολις (ὁ, ἡ)</b> <font color="purple">[ᾱῠ]</font> (<i>seul. nom</i>.) cher à la cité, SOPH. <i>O.R. 510</i>.<p><b>Étym</b>. ἡ. πόλις.`

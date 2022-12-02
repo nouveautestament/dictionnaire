@@ -1,0 +1,1 @@
+lar[17268]=`<i>dor</i>. αὐονά, <b>ᾶς (ἡ)</b> sécheresse, ESCHL. <i>Eum. 332, 345</i>.<p><b>Étym</b>. αὖος.`

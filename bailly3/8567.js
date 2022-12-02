@@ -1,0 +1,1 @@
+lar[8567]=`<b>ἀνερυθριάω-ῶ</b> <font color="purple">[ῠ]</font> se mettre à rougir, XÉN. <i>Conv. 3, 12</i> ; PLAT. <i>Charm. 158c</i>.<p><b>Étym</b>. ἀνά, ἐ.`

@@ -1,0 +1,1 @@
+lar[90960]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> <i>c</i>. σκιραφεῖον, AMPHIS (<i>Com. fr. 3, 310</i>) ; DIN. (HARP. <i>v°</i> σκιράφια).`

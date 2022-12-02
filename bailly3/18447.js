@@ -1,0 +1,1 @@
+lar[18447]=`<font color="purple">[ᾱχ]</font> <i>dor. c</i>. ἤχημα.`

@@ -1,0 +1,1 @@
+lar[3668]=`<b>ἀκρατο·φόρος, ος, ον</b> <font color="purple">[ᾱτ]</font><br><b>      1</b> qui apporte, <i>càd</i>. qui donne du vin pur (Dionysos) PAUS. <i>8, 39, 4</i>.<br><b>      2</b> qui porte <i>ou</i> contient du vin pur (vase) JOS. <i>B.J. 5, 13, 6 ; cf</i>. CIC. <i>Fin. 3, 4, 15</i>.<p><b>Étym</b>. ἄ. φέρω.`

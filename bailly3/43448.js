@@ -1,0 +1,1 @@
+lar[43448]=`<b>εὔ·σπλαγχνος, ος, ον :<br>      1</b> qui a les entrailles saines, HPC. <i>89c.</i><br><b>      2</b> miséricordieux, NT. <i>Eph. 4, 32 ; 1Petr. 3, 8</i>.<p><b>Étym</b>. εὖ, σπλάγχνον.`

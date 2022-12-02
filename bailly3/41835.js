@@ -1,0 +1,1 @@
+lar[41835]=`<b>ας (ἡ)</b> heureux festin, HARMOD. (ATH. <i>149b, 479d</i>).<p><b>Étym</b>. εὔδειπνος.`

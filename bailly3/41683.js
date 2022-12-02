@@ -1,0 +1,1 @@
+lar[41683]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en touchant, délicatement <i>ou</i> adroitement, LUC. <i>Harm. 1</i> ; ARÉT. <i>Cur. m. acut. 1, 6</i>.<br><b>      2</b> <i>fig</i>. d’une manière intelligible, M. ANT. <i>11, 18, 10</i>.<p>➳ <i>Ion</i>. εὐαφέως, ARÉT. <i>l. c</i>.<p><b>Étym</b>. εὐαφής.`

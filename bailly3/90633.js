@@ -1,0 +1,1 @@
+lar[90633]=`<b>οπος (ὁ)</b> <font color="purple">[ᾰ]</font> taupe, CRAT. (<i>Com. fr. 2, 70</i>) ; AR. <i>Ach. 879</i>.<p><b>Étym</b>. <i>pré-grec, var. ou métath. de</i> σπάλαξ ; <i>rapprochement avec</i> σκάλλω <i>par étym. populaire</i> « l’animal fouisseur ».`

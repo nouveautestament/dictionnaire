@@ -1,0 +1,1 @@
+lar[99158]=`<b>εως (ἡ)</b> action d’épiler, d’arracher poil à poil, ARSTT. <i>Nic. 7, 5, 3</i>.<p><b>Étym</b>. τίλλω.`

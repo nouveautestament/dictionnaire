@@ -1,0 +1,1 @@
+lar[93940]=`<b>συμ·μελής, ής, ές</b>, qui s’harmonise <i>ou</i> s’accorde avec, EL. <i>N.A. 9, 29</i> ; PHILSTR. <i>Im. 1, 779</i> ; LGN (<i>W. 9, 559).</i><p><b>Étym</b>. σ. μέλος.`

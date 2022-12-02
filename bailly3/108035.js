@@ -1,0 +1,1 @@
+lar[108035]=`<b>ατος (τὸ)</b> terre amollie et sans consistance, PLUT. <i>Sert. 17</i>.<p><b>Étym</b>. χαυνόω.`

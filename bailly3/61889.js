@@ -1,0 +1,1 @@
+lar[61889]=`<b>λυκο·κτόνος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> tueur de loups, ANTH. <i>13, 22 ; ép. d’Apollon,</i> SOPH. <i>El. 6</i> ; PLUT. <i>M. 566a.</i><br><b>      2</b> τὸ λυκοκτόνον, GAL. <i>13, 158,</i> sorte d’aconit pour empoisonner les loups.<p><b>Étym</b>. λύκος, κτείνω.`

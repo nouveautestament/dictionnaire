@@ -1,0 +1,1 @@
+lar[74229]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> direction <i>ou</i> éducation des enfants, <i>d’où</i> éducation, <i>en gén</i>. PLAT. <i>Rsp. 491e, etc.</i><br><b>      2</b> <i>p. ext</i>. soins qu’on donne (à une plante, PLUT. <i>M. 2e ;</i> à un malade, EUR. <i>Or. 883, etc</i>.).<p><b>Étym</b>. παιδαγωγός.`

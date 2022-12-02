@@ -1,0 +1,1 @@
+lar[90234]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> de Sicile, sicilien, OD. <i>24, 211, 366, 389</i> ; THGN. <i>783</i> ; EUR. <i>Tr. 222, etc.</i> ; TH. <i>H.P. 8, 4, 3, etc.</i> ; οἱ Σικελοί, OD. <i>10, 383</i> ; HDT. <i>6, 22, etc.</i> ; THC. <i>3, 88, etc</i>. les Siciliens.<p><b>Étym</b>. <i>v</i>. Σικελία.`

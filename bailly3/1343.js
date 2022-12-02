@@ -1,0 +1,1 @@
+lar[1343]=`<b>ἀ·διάπλαστος, ος, ον</b>, non encore façonné, informe, PLAT. <i>Tim. 91d</i>.<p><b>Étym</b>. ἀ, διαπλάσσω.`

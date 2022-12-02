@@ -1,0 +1,1 @@
+lar[63589]=`<b>μεθ·ερμηνεύω</b> (<i>part. pf. pass</i>. μεθηρμηνευμένος) interpréter, traduire, POL. <i>6, 26, 6</i> ; PLUT. <i>Cato ma. 2, etc</i>.`

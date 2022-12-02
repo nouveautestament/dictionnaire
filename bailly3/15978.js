@@ -1,0 +1,1 @@
+lar[15978]=`<b>ἀ·σμάραγος, ος, ον</b> <font color="purple">[μᾰᾰ]</font> sans bruit, OPP. <i>H. 3, 428</i>.<p><b>Étym</b>. ἀ, σμαραγή.`

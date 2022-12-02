@@ -1,0 +1,1 @@
+lar[8505]=`<i>adv</i>., sans pouvoir être arrêté, PLUT. <i>Ages. 27</i>.`

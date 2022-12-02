@@ -1,0 +1,1 @@
+lar[107521]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> <i>c</i>. κάλανδρος, OPP.`

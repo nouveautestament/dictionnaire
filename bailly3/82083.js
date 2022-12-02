@@ -1,0 +1,1 @@
+lar[82083]=`<b>πολυ·μαθής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui sait beaucoup, très savant, AR. <i>Vesp. 1175</i> ; PLAT. <i>Leg. 810e</i>.<p><b>Étym</b>. π. μανθάνω.`

@@ -1,0 +1,1 @@
+lar[57880]=`<b>*κριβανο·ειδής</b>, <i>réc</i>. <b>κλιβανο·ειδής, ής, ές</b> <font color="purple">[ῑᾰ]</font> semblable à un four de campagne, DIOSC. <i>1, 96</i>.<p><b>Étym</b>. κρίβανος, εἶδος.`

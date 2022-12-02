@@ -1,0 +1,1 @@
+lar[101731]=`<b>ου (ὁ)</b> <font color="purple">[ῡῐ]</font> Hyllikhos, <i>h</i>. CALL. <i>fr. 77</i>.`

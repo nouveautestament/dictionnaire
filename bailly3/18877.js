@@ -1,0 +1,1 @@
+lar[18877]=`<b>ου (τὸ)</b> bâton pour la marche, ESCHL. <i>Ch. 632, etc.</i> ; EUR. <i>Ph. 1732, etc</i>. THCR. CALL. <i>etc</i>.<p><b>Étym</b>. <i>du proto-grec</i> *bak-tlo-, <i>cf. lat</i>. baculum ; <i>p.-ê. emprunt à un substrat pré-indo-europ</i>.`

@@ -1,0 +1,1 @@
+lar[90189]=`<b>ου (τὸ)</b> <font color="purple">[σῐ]</font> écorce de grenade, HPC. <i>574, 25</i> ; AR. <i>Nub. 881</i> ; TH. <i>C.P. 5, 6, 1</i>.<p>➳ <font color="purple">[σῐ]</font> AR. <i>l. c.</i> ; <font color="purple">[σῑ]</font> LUC. <i>Trag. 156</i>.<p><b>Étym</b>. σίδη.`

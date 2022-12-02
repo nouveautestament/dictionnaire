@@ -1,0 +1,1 @@
+lar[62336]=`<b>ας (ἡ)</b> Mæa :<br><b>      1</b> <i>fille d’Atlas, mère d’Hermès,</i> HH. <i>Merc. 3</i> ; ESCHL. <i>Ch. 813</i> ; SOPH. <i>El. 1395, etc.</i> ; PLUT. <i>M. 285c.</i><br><b>      2</b> <i>autres,</i> ANTH. <i>6, 346, etc</i>.<p>➳ <i>Ion</i>. Μαίη, HÉS. <i>Th. 938</i>.`

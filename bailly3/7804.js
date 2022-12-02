@@ -1,0 +1,1 @@
+lar[7804]=`<b>ἀνα·τρύζω</b>, pousser un cri aigu, Q. SM. <i>13, 107</i>.`

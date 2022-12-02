@@ -1,0 +1,1 @@
+lar[81499]=`<b>Πολεμ·αίνετος, ου (ὁ)</b> Polémænétos, <i>h</i>. ISOCR. <i>19, 5 et 45 Baiter-Sauppe</i>.<p><b>Étym</b>. π. αἰνέω.`

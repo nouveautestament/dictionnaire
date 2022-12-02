@@ -1,0 +1,1 @@
+lar[72656]=`<b>ου (τὸ)</b> aunée, <i>plante, la même que</i> νεκτάριον, DIOSC. <i>5, 66</i>.`

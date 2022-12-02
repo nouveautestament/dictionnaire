@@ -1,0 +1,1 @@
+lar[96810]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à la gangrène, ARCHIG. (GAL. <i>3, 263).</i><p><b>Étym</b>. σφάκελος, -ωδης.`

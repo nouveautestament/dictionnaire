@@ -1,0 +1,1 @@
+lar[38297]=`<i>adv</i>., d’une manière répréhensible, ORIG. <i>p. 60</i>.<p><b>Étym</b>. ἐπίληπτος.`

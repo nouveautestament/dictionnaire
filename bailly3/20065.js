@@ -1,0 +1,1 @@
+lar[20065]=`<font color="darkgreen">(<i>seul. part. pf. pass</i>. βεβοθρισμένος)</font> <i>c</i>. βοθρεύω, βοθρέω DIOSC. <i>p. 117, 8, éd. Cocch</i>.`

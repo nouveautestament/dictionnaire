@@ -1,0 +1,1 @@
+lar[80331]=`<i>ou</i> <b>πῖν</b>, <i>abréviation familière pour</i> πιεῖν, <i>dans le sens de l’impér</i>. « bois », ANTH. <i>11, 140</i> ; THPP. COM. (ATH. <i>470f</i>) ; <i>v</i>. πίνω.`

@@ -1,0 +1,1 @@
+lar[86588]=`<b>ατος (τὸ) :<br>      1</b> victime offerte en sacrifice, EUR. <i>Hec. 41, I.T. 243, etc.</i> ; PLUT. <i>Thes. c. Rom. 2 ; au plur. en parl. d’une seule victime,</i> EUR. <i>Hec. 265</i>.<br><b>      2</b> sacrifice, ESCHL. <i>Ag. 1278</i> ; EUR. <i>Tr. 624</i>.<p><b>Étym</b>. προσφάζω.`

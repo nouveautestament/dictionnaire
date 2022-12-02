@@ -1,0 +1,1 @@
+lar[70172]=`<i>adv</i>., plaintivement, D. PHAL.<p>•<i> Cp</i>. -ωτέρως, ARSTT. <i>Pol. 8, 5, 22</i>.`

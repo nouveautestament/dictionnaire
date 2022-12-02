@@ -1,0 +1,1 @@
+lar[18006]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> action d’allumer : περὶ λύχνων ἁφάς, HDT. <i>7, 215,</i> vers le moment où l’on allume les lampes ; μεχρὶ λύχνων ἁφῶν, ATH. <i>526c</i>, jusqu’à l’heure où l’on allume les lampes ; <i>cf</i>. DH. <i>11, 33</i> ; DS. <i>19, 31, etc</i>.<p><b>Étym</b>. ἅπτω.`

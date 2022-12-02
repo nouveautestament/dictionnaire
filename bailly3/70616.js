@@ -1,0 +1,1 @@
+lar[70616]=`<b>ῶν (οἱ)</b> les habitants de l’Œnôtrie, ARSTT. <i>Pol. 7, 9</i>.<p><b>Étym</b>. <i>v</i>. Οἰνωτρία.`

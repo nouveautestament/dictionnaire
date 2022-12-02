@@ -1,0 +1,1 @@
+lar[45716]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ἧπαρ, AR. <i>fr. 421</i> ; HÉGÉSANDRE <i>et</i> ALEX. (ATH. <i>108a</i>).`

@@ -1,0 +1,1 @@
+lar[74923]=`<b>ος, ον</b>, qui ressemble à Pandélétos, <i>renommé pour sa fourberie,</i> AR. <i>Nub. 921</i>.<p><b>Étym</b>. *Πανδέλετος.`

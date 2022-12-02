@@ -1,0 +1,1 @@
+lar[59179]=`<b>ή, όν</b>, de villageois, SYN. <i>Ep. 11, 1348d Migne</i>.<p><b>Étym</b>. κωμήτης.`

@@ -1,0 +1,1 @@
+lar[19643]=`<i>ou</i> <b>βησασᾶ (τὸ)</b> sorte de plante, <i>c</i>. ἅρμαλα, A. TR. <i>4, 222</i> ; DIOSC. <i>3, 53</i>.<p><b>Étym</b>. <i>mot syrien</i>.`

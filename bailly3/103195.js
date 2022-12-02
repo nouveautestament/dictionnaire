@@ -1,0 +1,1 @@
+lar[103195]=`<b>ὑπο·δράττομαι</b>, chercher à s’emparer secrètement de, <i>gén</i>. PLUT. <i>Cæs. 14</i>.`

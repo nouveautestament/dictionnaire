@@ -1,0 +1,1 @@
+lar[105887]=`<b>φιλο·λακεδαιμόνιος, ος, ον</b> <font color="purple">[ῐᾰ]</font> ami des Lacédémoniens, THÉM. <i>96a</i>.`

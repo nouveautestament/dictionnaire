@@ -1,0 +1,1 @@
+lar[68175]=`<b>νεο·κράς, ᾶτος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> nouvellement mêlé ; ὁ ν. (<i>s.-e</i>. οἶνος) PLAT. COM. (ATH. <i>665b</i>) vin fraîchement trempé.<br><b>      2</b> récemment uni, qui s’est joint tout à l’heure (à nous), ESCHL. <i>Ch. 344</i>.<p><b>Étym</b>. ν. κεράννυμι.`

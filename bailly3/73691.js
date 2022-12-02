@@ -1,0 +1,1 @@
+lar[73691]=`<b>οὐρεσι·φοίτης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. qui fréquente les montagnes, <i>ép. de Bacchus et d’Apollon,</i> ANTH. <i>9, 524, etc</i>.<p><b>Étym</b>. οὖρος 5, φοιτάω.`

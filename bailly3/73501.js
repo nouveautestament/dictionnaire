@@ -1,0 +1,1 @@
+lar[73501]=`<b>ου (ὁ)</b> = <i>lat</i>. Vettius, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 6, etc</i>.`

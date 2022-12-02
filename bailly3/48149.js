@@ -1,0 +1,1 @@
+lar[48149]=`<b>ου (ὁ)</b> = <i>lat</i>. Thoranius, lieutenant de Métellus, PLUT. <i>Sert. 12</i>.`

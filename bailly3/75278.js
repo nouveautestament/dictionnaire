@@ -1,0 +1,1 @@
+lar[75278]=`<b>παντ·όπτης</b>, <i>adj. m</i>. qui voit tout, ESCHL. <i>Suppl. 139, etc.</i> ; SOPH. <i>O.C. 1085</i> ; AR. <i>Av. 1058</i>.<p>➳ <i>Dor</i>. -ας, ESCHL. <i>l.c</i>.<p><b>Étym</b>. π. ὄψομαι.`

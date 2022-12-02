@@ -1,0 +1,1 @@
+lar[68872]=`<b>νοθα·γενής, ής, ές</b>, <i>dor. c</i>. *νοθηγενής <font color="purple">[ᾱ]</font> de naissance illégitime, EUR. <i>Andr. 912, 942 ; Ion 592, etc</i>.<p><b>Étym</b>. νόθος, γένος.`

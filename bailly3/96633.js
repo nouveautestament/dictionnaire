@@ -1,0 +1,1 @@
+lar[96633]=`<b>ή, όν</b>, qui réunit <i>ou</i> consolide les chairs, P. ÉG. <i>154, 264 Briau</i>.<p><b>Étym</b>. συσσαρκόω.`

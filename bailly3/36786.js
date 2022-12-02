@@ -1,0 +1,1 @@
+lar[36786]=`<b>ἐπ·αρίστερος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui est à gauche, HDT. <i>2, 93</i>.<br><b>      2</b> <i>fig</i>. gauche, maladroit, DS. <i>Exc. Vat. p. 5</i> ; PLUT. <i>Cato ma. 19</i> ; ATH. <i>179f, 184e</i>.<p><b>Étym</b>. ἐπί, ἀριστερός.`

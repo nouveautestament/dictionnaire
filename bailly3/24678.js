@@ -1,0 +1,1 @@
+lar[24678]=`<b>δί·αιθρος, ος, ον</b>, tout à fait clair <i>ou</i> serein (temps) PLUT. <i>Syll. 7</i>.<p><b>Étym</b>. διά, αἴθρα.`

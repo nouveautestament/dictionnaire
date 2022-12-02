@@ -1,0 +1,1 @@
+lar[84991]=`<b>ατος (τὸ) :<br>      1</b> boisson de vin et de miel pour le déjeuner, PLUT. <i>M. 624c.</i><br><b>      2</b> boisson légère qu’on prenait avant le repas pour exciter l’appétit, ATH. <i>58b, 66c, etc.</i> ; PLUT. <i>M. 734a</i>.<p><b>Étym</b>. προπίνω.`

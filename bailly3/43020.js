@@ -1,0 +1,1 @@
+lar[43020]=`<b>εὐ·πίλητος, ος, ον</b> <font color="purple">[ῑ]</font> bien foulé, ARSTT. <i>Sens. 2, 12, au cp</i>. -ότερος.<p><b>Étym</b>. εὖ, πιλέω.`

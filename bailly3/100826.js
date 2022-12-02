@@ -1,0 +1,1 @@
+lar[100826]=`<b>τρύγο·ιπος, ου (ὁ)</b> <font color="purple">[ῠ]</font> filtre pour clarifier le vin, AR. <i>Pax 535, Pl. 1087</i>.<p><b>Étym</b>. τρύξ, ἶπος.`

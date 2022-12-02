@@ -1,0 +1,1 @@
+lar[106032]=`<b>φιλο·πότης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui aime à boire, grand buveur, ivrogne, HDT. <i>2, 174</i> ; HPC. <i>Aër. 280</i> ; AR. <i>Vesp. 79</i> ; EUP. <i>2-1, 512 Meineke</i> ; ARSTT. <i>H.A. 6, 2, 5</i> ; ATH. <i>433b</i>.<p><b>Étym</b>. φ. πίνω.`

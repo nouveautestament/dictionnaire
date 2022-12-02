@@ -1,0 +1,1 @@
+lar[71020]=`<b>ὀλιγο·κάλαμος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui a peu de tiges, TH. <i>C.P. 4, 11, 4, au cp</i>. -ώτερος.<p><b>Étym</b>. ὀλ. κάλαμος.`

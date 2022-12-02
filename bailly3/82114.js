@@ -1,0 +1,1 @@
+lar[82114]=`<b>πολυ·μήτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m. c</i>. πολύμητις ANON. (HSCH.).`

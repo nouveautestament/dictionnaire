@@ -1,0 +1,1 @@
+lar[26298]=`<i>adv</i>., avec circonspection, XÉN. <i>Œc. 7, 18</i>.<p><b>Étym</b>. διασκέπτομαι.`

@@ -1,0 +1,1 @@
+lar[36699]=`<b>ατος (τὸ)</b> fleur, <i>sorte d’écume,</i> HPC. <i>69a, 71h, 211e, etc</i>.<p><b>Étym</b>. ἐπανθίζω.`

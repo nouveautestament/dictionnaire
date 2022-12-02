@@ -1,0 +1,1 @@
+lar[78774]=`<b>Περί·κλειτος, ου (ὁ)</b> Périkleitos, <i>joueur de lyre,</i> Ps.-PLUT. <i>Mus. 6, etc</i>.`

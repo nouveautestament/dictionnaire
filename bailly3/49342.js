@@ -1,0 +1,1 @@
+lar[49342]=`<b>ἱππο·κένταυρος, ου (ὁ)</b> hippocentaure, moitié homme, moitié cheval, XÉN. <i>Cyr. 4, 3, 17</i> ; PLAT. <i>Phædr. 229d ; au fém</i>. LUC. <i>Zeux. 3</i>.<p><b>Étym</b>. ἵ. κένταυρος.`

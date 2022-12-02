@@ -1,0 +1,1 @@
+lar[79558]=`<b>περι·τυμπανίζω</b> <font color="purple">[ᾰ]</font> battre du tambour autour de, assourdir du bruit du tambour, <i>acc</i>. PLUT. <i>M. 144d, 167c</i>.`

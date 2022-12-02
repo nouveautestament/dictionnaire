@@ -1,0 +1,1 @@
+lar[105324]=`<b>ου</b>, <i>adj. m</i>. de Phthia, EUR. <i>Andr. 507, etc.</i> ; οἱ Φθῖοι, IL. <i>13, 686, 698, 699,</i> les habitants de Phthia.<p><b>Étym</b>. Φθία.`

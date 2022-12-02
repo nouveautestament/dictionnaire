@@ -1,0 +1,1 @@
+lar[30666]=`<b>εἰσ·αθρέω</b>, <i>poét</i>. <b>ἐσ·αθρέω-ῶ</b> <font color="purple">[ᾱ]</font> regarder, <i>d’où</i> apercevoir, voir, <i>acc</i>. IL. <i>3, 450</i> ; ANTH. <i>7, 669 ; 9, 159 ; App. 197, 3</i> ; THCR. <i>Idyl. 25, 215, etc</i>.<p>➳ <i>Poét</i>. ἐσαθρέω, IL. THCR. <i>Idyl. ll. cc</i>.`

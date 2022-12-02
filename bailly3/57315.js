@@ -1,0 +1,1 @@
+lar[57315]=`<b>ης (ἡ)</b> houppe, <i>d’où</i> :<br><b>      1</b> frange <i>ou</i> bouffette sur un vêtement, SPT. <i>Ex. 28, 35</i>.<br><b>      2</b> <i>c</i>. ἐγκόμβωμα, D. CHR. <i>2, 382</i>.<p><b>Étym</b>. <i>cf</i>. κορύμβη.`

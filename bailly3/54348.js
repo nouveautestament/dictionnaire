@@ -1,0 +1,1 @@
+lar[54348]=`<b>ή, όν</b>, brûlé (par le bout) EUR. <i>Cycl. 633</i>.<p><b>Étym</b>. <i>vb. de</i> καίω, <i>cf</i>. καυστός.`

@@ -1,0 +1,1 @@
+lar[95857]=`<b>σύν·ηβος, ος, ον</b>, compagnon de jeunesse, EUR. <i>H.f. 438</i>.<p><b>Étym</b>. σύν, ἥβη.`

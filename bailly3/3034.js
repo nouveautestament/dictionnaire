@@ -1,0 +1,1 @@
+lar[3034]=`<b>ή, όν</b> <font color="purple">[ᾰκᾰ]</font> <i>c</i>. Ἀκαδημαϊκός, GAL. <i>2, 16</i> ; PLUT. <i>M. 102d, etc</i>.`

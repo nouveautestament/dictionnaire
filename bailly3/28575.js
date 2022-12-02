@@ -1,0 +1,1 @@
+lar[28575]=`<b>δυσ·κέραστος, ος, ον</b>, qui se mêle difficilement à, qui se prête difficilement à, <i>avec</i> πρός <i>et l’acc</i>. PLUT. <i>Dio. 52, M. 754c</i>.<p><b>Étym</b>. δ. κεράννυμι.`

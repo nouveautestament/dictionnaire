@@ -1,0 +1,1 @@
+lar[4360]=`<b>ηκος (ὁ)</b> Halex (<i>auj</i>. Alece) <i>fl. de la haute Italie,</i> THC. <i>3, 99</i>.`

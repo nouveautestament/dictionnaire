@@ -1,0 +1,1 @@
+lar[18078]=`<b>ἀφ·ιερόω-ῶ</b>, <i>f</i>. ώσω, consacrer, dédier, <i>acc</i>. DS. <i>1, 90</i> ; DIOCL. CARYST. (ATH. <i>110b</i>).<br><b><i>Moy.</i></b> accomplir des rites expiatoires, ESCHL. <i>Eum. 451 (pf. 1 pl</i>. ἀφιερώμεθα).<p><b>Étym</b>. ἀπό, ἱ.`

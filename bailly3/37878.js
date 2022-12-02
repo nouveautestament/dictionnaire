@@ -1,0 +1,1 @@
+lar[37878]=`<b>ἐπι·καινίζω</b> (<i>ao. pass</i>.) renouveler, innover, SPT. <i>1Macc. 10, 44</i>.`

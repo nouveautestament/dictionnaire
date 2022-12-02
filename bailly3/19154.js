@@ -1,0 +1,1 @@
+lar[19154]=`<b>βαρυ·κάρδιος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au cœur lourd, <i>càd</i>. endurci, insensible, SPT. <i>Ps. 4, 3</i> ; NONN. <i>Jo. 4, 39, etc.</i> ; NAZ. <i>Or. 7, p. 784c, etc</i>.<p><b>Étym</b>. β. καρδία.`

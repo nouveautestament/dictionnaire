@@ -1,0 +1,1 @@
+lar[80243]=`<i>mieux que</i> <b>Πιθηκοῦσαι, ῶν (αἱ)</b> les Pithèkuses (<i>propr</i>. remplies de singes) <i>n. de deux î. sur la côte de Campanie,</i> ARSTT. <i>Mir. 37</i> ; STR. <i>54, etc</i>.<p><b>Étym</b>. <i>contr. de</i> *πιθηκόεσσα, <i>fém. de</i> *πιθηκόεις, <i>de</i> πίθηκος.`

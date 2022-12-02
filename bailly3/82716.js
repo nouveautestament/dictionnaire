@@ -1,0 +1,1 @@
+lar[82716]=`<i>c</i>. ποντοπορέω OD. <i>5, 278 ; 7, 267</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ORACL. (PLUT. <i>Thes. 24).</i><p>➳ <i>Inf. prés. épq</i>. -έμεναι, OD. <i>5, 277</i>.`

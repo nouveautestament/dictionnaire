@@ -1,0 +1,1 @@
+lar[78078]=`<b>πεντεκαιδεκα·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰσ]</font> quinze fois aussi grand, ATH. <i>57f ;</i> PLUT. <i>M. 892a</i>.<p><b>Étym</b>. π. -πλασίων.`

@@ -1,0 +1,1 @@
+lar[33021]=`<b>ἐλπιδο·δώτης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. qui donne de l’espoir, ANTH. <i>9, 525, 6</i>.<p><b>Étym</b>. ἐλπίς, δίδωμι.`

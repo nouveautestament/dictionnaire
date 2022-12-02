@@ -1,0 +1,1 @@
+lar[73726]=`<b>ου (τὸ)</b> urine, HDT. <i>2, 111, etc.</i> ; HPC. <i>Aph. 4, 79, etc</i>.<p><b>Étym</b>. οὐρέω¹.`

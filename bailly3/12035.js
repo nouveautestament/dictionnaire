@@ -1,0 +1,1 @@
+lar[12035]=`<b>ἀ·πλατής, ής, ές</b> <font color="purple">[ᾰτ]</font> sans largeur, ARSTT. <i>An. pr. 1, 41, 4, etc.</i> ; PLUT. <i>M. 390d ;</i> LUC. <i>Herm. 74, etc</i>.<p><b>Étym</b>. ἀ, πλάτος.`

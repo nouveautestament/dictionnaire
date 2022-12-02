@@ -1,0 +1,1 @@
+lar[52112]=`<b>κατα·βακχεύω</b>, transporter de fureur bachique, EUM. <i>p. 154, d’où au pass</i>. être transporté de fureur bachique, EUM. <i>p. 293</i>.`

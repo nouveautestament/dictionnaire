@@ -1,0 +1,1 @@
+lar[38069]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font> inclination, penchant, ANTIP. (STOB. <i>Fl. 29, 78, t. 2, p. 13, l. 18</i>) ; PLUT. <i>M. 1045b</i>.<p><b>Étym</b>. ἐπικλίνω.`

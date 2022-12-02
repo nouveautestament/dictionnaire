@@ -1,0 +1,1 @@
+lar[67109]=`<b>οῦ (ὁ)</b> raillerie, moquerie, SPT. <i>2Macc. 7, 39, Ps. 34, 16</i> ; MÉN. RHÉT. <i>8, 724, 759 W</i>.<p><b>Étym</b>. μυκτηρίζω.`

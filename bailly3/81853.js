@@ -1,0 +1,1 @@
+lar[81853]=`<b>πολυ·δίψιος, ος, ον</b> <font color="purple">[ῠ]</font> très altéré, desséché, aride, IL. <i>4, 171 ; ou</i> dont on a grande soif, <i>càd</i>. très désiré, <i>sel</i>. ATH. <i>433e ; ou mauv. leç. p</i>. πολυΐψιος, <i>sel</i>. STR. <i>370 ; mais cf</i>. Ἄργος ἄνυδρον, HÉS. <i>fr. 97 Göttling</i>.<p><b>Étym</b>. π. δίψα.`

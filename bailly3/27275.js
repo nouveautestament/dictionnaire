@@ -1,0 +1,1 @@
+lar[27275]=`<b>δι·ωθίζω</b> (<i>part. prés. moy</i>. -ιζόμενοι) repousser violemment, APP. <i>Civ. 2, 117</i>.<p><b>Étym</b>. διά, ὠθίζω.`

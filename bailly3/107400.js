@@ -1,0 +1,1 @@
+lar[107400]=`<b>φωνο·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font> disputer (<i>litt</i>. combattre) sur des mots, SEXT. <i>P. 1, 195</i>.<p><b>Étym</b>. φωνή, μάχομαι.`

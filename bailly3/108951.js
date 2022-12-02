@@ -1,0 +1,1 @@
+lar[108951]=`<b>χρηματο·δαίτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui répartit les biens, ESCHL. <i>Sept. 730</i>.<p><b>Étym</b>. χρῆμα, δαίομαι.`

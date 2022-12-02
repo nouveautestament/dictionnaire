@@ -1,0 +1,1 @@
+lar[35057]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec tension, avec force, HDT. <i>1, 18, etc</i>.<p><b>Étym</b>. ἐντείνω.`

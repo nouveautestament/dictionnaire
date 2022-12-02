@@ -1,0 +1,1 @@
+lar[90288]=`<i>mieux que</i> <b>Σειληνός, οῦ (ὁ)</b> <font color="purple">[ῑ]</font> Silènos (Silène) :<br><b>      1</b> <i>compagnon de Dionysos</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Lys. 26, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Σιληνός, CIA. <i>1, 33, 3 (433 av. J.-C.) ; v. Meisterh. p. 43</i>.`

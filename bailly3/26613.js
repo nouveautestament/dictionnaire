@@ -1,0 +1,1 @@
+lar[26613]=`<b>δί·κυρτος, ος, ον</b> <font color="purple">[ῐ]</font> à deux bosses, GEOP. <i>16, 22, 4</i>.<p><b>Étym</b>. δίς, κυρτός.`

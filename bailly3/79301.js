@@ -1,0 +1,1 @@
+lar[79301]=`<b>περι·σπέρχω</b> (<i>seul. prés</i>.) :<br><b>      1 <i>tr.</i></b> faire se hâter de tous côtés, presser, harceler, OPP. <i>H. 2, 334</i>.<br><b>      2 <i>intr.</i></b> s’agiter, être agité, OPP. <i>H. 3, 449, etc</i>.`

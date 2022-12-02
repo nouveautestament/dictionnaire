@@ -1,0 +1,1 @@
+lar[69479]=`<b>ξενο·κυστ·απάτη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> union clandestine avec des femmes étrangères, ANTH. <i>11, 7</i>.<p><b>Étym</b>. ξ. κύστη, ἀπατάω.`

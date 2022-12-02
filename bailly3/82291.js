@@ -1,0 +1,1 @@
+lar[82291]=`<b>πολύ·ποτμος, ος, ον</b> <font color="purple">[ῠ]</font> qui préside aux destinées de beaucoup, <i>càd</i>. de tous, ORPH. <i>H. 69</i>.<p><b>Étym</b>. π. πότμος.`

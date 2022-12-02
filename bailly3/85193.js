@@ -1,0 +1,1 @@
+lar[85193]=`<b>προσ·αναχρώννυμαι</b>, communiquer sa couleur à, déteindre sur, <i>dat</i>. PLUT. <i>M. 672f ;</i> τὸ ψεῦδος, PLUT. <i>M. 16f</i>, donner une couleur de mensonge.`

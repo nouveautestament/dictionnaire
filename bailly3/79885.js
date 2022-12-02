@@ -1,0 +1,1 @@
+lar[79885]=`<b>ου (ὁ)</b> Pétrakhos, <i>mt. de Béotie,</i> PLUT. <i>Syll. 17</i>.`

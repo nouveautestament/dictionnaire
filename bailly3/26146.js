@@ -1,0 +1,1 @@
+lar[26146]=`<b>εως (ἡ)</b> action de tomber à travers, GAL. <i>ad Glauc. 11, 134</i>.<p><b>Étym</b>. διεκπίπτω.`

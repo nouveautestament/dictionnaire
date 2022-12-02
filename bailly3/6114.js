@@ -1,0 +1,1 @@
+lar[6114]=`<b>ἀμφι·δονέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀμφεδόνησα)</font> agiter en tous sens <i>ou</i> violemment, <i>acc</i>. ANTH. <i>9, 668</i>.`

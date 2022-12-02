@@ -1,0 +1,1 @@
+lar[99825]=`<b>ας (ἡ)</b> la trabée, <i>vêtement romain,</i> DH. <i>2, 70</i>.<p><b>Étym</b>. <i>lat</i>. trabea.`

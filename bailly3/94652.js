@@ -1,0 +1,1 @@
+lar[94652]=`<b>ατος (τὸ) :<br>      1</b> échange de relations, <i>d’où</i> commerce intime, HPC. <i>19, 24</i>.<br><b>      2</b> relations d’affaires, DÉM. <i>766, 3 ; p. suite,</i> convention, pacte, contrat, DÉM. <i>869, 22 ; 896, 10, etc.</i> ; ARSTT. <i>Rhet. 1, 1, 10, etc.</i> ; DH. <i>6, 22</i>.<p><b>Étym</b>. συναλλάσσω.`

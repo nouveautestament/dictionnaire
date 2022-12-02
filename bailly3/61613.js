@@ -1,0 +1,1 @@
+lar[61613]=`<b>ου (ὁ)</b> = <i>lat</i> Lollius, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 16, etc.</i> ; ANTH. <i>7, 243, etc</i>.`

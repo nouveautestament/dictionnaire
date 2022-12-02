@@ -1,0 +1,1 @@
+lar[39749]=`<b>ἐπι·ψαίρω</b> (<i>seul. sbj. prés</i>.) effleurer, <i>acc</i>. OPP. <i>H. 4, 512</i>.`

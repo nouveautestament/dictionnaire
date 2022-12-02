@@ -1,0 +1,1 @@
+lar[93329]=`<b>συγ·κατακυλίνδω</b> (<i>pf. pass</i>. -κεκύλισμαι) <font color="purple">[ῠ]</font> faire rouler en même temps, DH. <i>Comp. p. 168</i>.`

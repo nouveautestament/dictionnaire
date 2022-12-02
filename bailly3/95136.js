@@ -1,0 +1,1 @@
+lar[95136]=`<b>συν·διαπλέω</b>, naviguer ensemble à travers, LUC. <i>Bis acc. 27</i>.`

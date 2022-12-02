@@ -1,0 +1,1 @@
+lar[106208]=`<b>φιλο·ψευδής, ής, ές</b> <font color="purple">[ῐ]</font> qui aime à mentir, IL. <i>12, 164</i> ; PLAT. <i>Rsp. 485d ;</i> τὸ φ. PLUT. <i>M. 61d, c</i>. φιλοψευδία.<p><b>Étym</b>. φ. ψεῦδος.`

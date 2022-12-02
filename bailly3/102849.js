@@ -1,0 +1,1 @@
+lar[102849]=`<b>ή, όν</b>, très vanté <i>ou</i> qui mérite fort d’être vanté, SPT. <i>Cant. tr. puer. 30, 32</i>.<p><b>Étym</b>. ὑπερυμνέω.`

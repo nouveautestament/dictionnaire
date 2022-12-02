@@ -1,0 +1,1 @@
+lar[84414]=`<b>προ·καθαριεύω</b> <font color="purple">[θᾰ]</font> se conserver pur auparavant, PAUS. <i>7, 26, 7</i>.`

@@ -1,0 +1,1 @@
+lar[10380]=`<b>ἀντι·σημαίνω :<br>      1</b> faire un signe à son tour <i>ou</i> en échange, JOS. <i>A.J. 19, 1, 10</i>.<br><b>      2</b> donner des présages contraires, PAUS. <i>10, 23, 3</i>.`

@@ -1,0 +1,1 @@
+lar[43870]=`<b>εὐ·ωπός, ός, όν :<br>      1</b> beau à voir, beau, EUR. <i>Or. 918</i> ; DP. <i>1075</i> ; BABR. <i>124</i>.<br><b>      2</b> qui voit bien <i>ou</i> qui voit de loin, <i>en parl. des yeux,</i> ARSTT. <i>G.A. 5, 1, 38</i> ; EL. <i>N.A. 5, 47 ; 8, 12</i>.<p>•<i> Cp</i>. -ότερος, EL. <i>N.A. 5, 47</i>.<p><b>Étym</b>. εὖ, ὤψ.`

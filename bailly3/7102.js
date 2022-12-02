@@ -1,0 +1,1 @@
+lar[7102]=`<b>ἀνα·λιχμάομαι-ῶμαι</b>, enlever en léchant, JOS. <i>A.J. 8, 15, 6</i> ; PHILSTR. <i>V. Ap. 5, 42</i>.`

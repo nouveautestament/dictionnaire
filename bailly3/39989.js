@@ -1,0 +1,1 @@
+lar[39989]=`<b>ἑπτα·μελής, ής, ές</b>, formé de sept membres, PROCL. <i>Plat. Tim. 204</i>.<p><b>Étym</b>. ἑ. μέλος.`

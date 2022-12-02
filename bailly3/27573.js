@@ -1,0 +1,1 @@
+lar[27573]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> combat avec la lance, PLUT. <i>Tim. 28, Pyrrh. 7</i> ; LIB. <i>4, 1047</i>.<p><b>Étym</b>. *δορατίζομαι, <i>de</i> δόρυ.`

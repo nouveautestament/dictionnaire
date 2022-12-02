@@ -1,0 +1,1 @@
+lar[55637]=`<i>att</i>. <b>Κιττός, οῦ (ὁ)</b> le Kissos <i>ou</i> Kittos, <i>mt. de Macédoine,</i> XÉN. <i>Cyn. 11, 1</i> ; NIC. <i>Th. 804</i> ; LYC. <i>1237</i>.`

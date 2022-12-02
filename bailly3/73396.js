@@ -1,0 +1,1 @@
+lar[73396]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> Otrée, <i>roi de Phrygie,</i> IL. <i>3, 186</i> ; HH. <i>Ven. 146</i>.<p><b>Étym</b>. <i>cf</i>. ὀτρύνω.`

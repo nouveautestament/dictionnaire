@@ -1,0 +1,1 @@
+lar[14121]=`<b>ἀραιό·πορος, ος, ον</b> <font color="purple">[ᾰ]</font> aux pores clairsemés, flasque, A. APHR. <i>Probl. 1, 2</i>.<p><b>Étym</b>. ἀ. πόρος.`

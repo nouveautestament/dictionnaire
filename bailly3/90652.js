@@ -1,0 +1,1 @@
+lar[90652]=`<b>ου (τὸ)</b> <font color="purple">[δᾰ]</font> piège placé sur le chemin, obstacle pour faire tomber, SPT. <i>Jos. 23, 13 ; 1Reg. 18, 21</i> ; NT. <i>Rom. 11, 9 ; 1Petr. 2, 7 ; fig</i>. scandale, SPT. <i>Lev. 19, 14, etc.</i> ; NT. <i>Matth. 18, 7 ; Luc. 17, 1, etc</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ou emprunt à une autre langue indo-europ</i>.`

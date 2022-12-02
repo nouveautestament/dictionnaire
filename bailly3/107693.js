@@ -1,0 +1,1 @@
+lar[107693]=`<b>χαλκό·στομος, ος, ον :<br>      1</b> à bec d’airain, <i>ép. d’un éperon de navire,</i> ESCHL. <i>Pers. 415</i>.<br><b>      2</b> à ouverture <i>ou</i> à bouche d’airain, <i>ép. d’une trompette,</i> SOPH. <i>Aj. 17</i>.<p><b>Étym</b>. χ. στόμα.`

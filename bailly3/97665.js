@@ -1,0 +1,1 @@
+lar[97665]=`<b>η, ον</b> = <i>lat</i>. Tarentinus, Tarentin, ANTH. <i>7, 198</i>.<p><b>Étym</b>. <i>cf</i>. Ταραντῖνος.`

@@ -1,0 +1,1 @@
+lar[61049]=`<b>λιθο·δερκής, ής, ές</b> <font color="purple">[ῐ]</font> dont le regard pétrifie, A. PL. <i>147</i>.<p><b>Étym</b>. λ. δέρκομαι.`

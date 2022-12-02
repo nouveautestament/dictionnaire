@@ -1,0 +1,1 @@
+lar[54819]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> potier, MAN. <i>4, 291</i>.<p><b>Étym</b>. κέραμος, ἔργον.`

@@ -1,0 +1,1 @@
+lar[62951]=`<b>ης (ἡ)</b> = <i>lat</i>. Marina, <i>n. de f. rom</i>. ANTH. <i>9, 528</i>.<p><b>Étym</b>. <i>cf</i>. Μαρῖνος.`

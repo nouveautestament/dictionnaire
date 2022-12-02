@@ -1,0 +1,1 @@
+lar[31797]=`<b>ἐκ·πέραμα, ατος (τὸ)</b> <font color="purple">[ρᾱ]</font> sortie, ESCHL. <i>Ch. 655</i>.<p><b>Étym</b>. ἐκπεράω.`

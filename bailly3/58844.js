@@ -1,0 +1,1 @@
+lar[58844]=`<b>ός, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui mène des chiens en laisse, piqueur, N. DAM. <i>p. 449, 27</i>.<br><b>      2</b> chef d’une compagnie de philosophes cyniques, PARMÉNISC. (ATH. <i>156e</i>).<p><b>Étym</b>. κύων, ἕλκω.`

@@ -1,0 +1,1 @@
+lar[34283]=`<b>ας (ἡ)</b> embuscade, EPICH. <i>(Bkk. p. 95, 27).</i><p><b>Étym</b>. ἐνέδρα.`

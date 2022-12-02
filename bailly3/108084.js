@@ -1,0 +1,1 @@
+lar[108084]=`<b>χειμο·φυγέω-ῶ</b> <font color="purple">[ῠ]</font> fuir l’hiver <i>ou</i> le mauvais temps, STR. <i>35</i>.<p><b>Étym</b>. χεῖμα, φεύγω.`

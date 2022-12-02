@@ -1,0 +1,1 @@
+lar[75412]=`<b>ας (ἡ)</b> secours apporté, PLAT. <i>Leg. 778a ;</i> POL. <i>2, 5, 2, etc</i>.<p><b>Étym</b>. παραβοηθέω.`

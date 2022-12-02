@@ -1,0 +1,1 @@
+lar[13315]=`<b>ἀπο·σκηνέω-ῶ</b>, habiter sous une tente à part de, <i>gén</i>. XÉN. <i>An. 3, 4, 35</i>.<p><b>Étym</b>. ἀπόσκηνος.`

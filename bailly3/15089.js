@@ -1,0 +1,1 @@
+lar[15089]=`<b>ῶνος (ὁ)</b> <font color="purple">[ρᾰ]</font> arrhes, <i>d’où</i> gage, ANTIPH. (STOB. <i>Fl. 61, 2</i>) ; IS. <i>71, 20</i> ; ARSTT. <i>Pol. 1, 4, 5, etc</i>.<p><b>Étym</b>. <i>mot d’orig. sémitique</i>.`

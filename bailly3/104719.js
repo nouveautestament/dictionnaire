@@ -1,0 +1,1 @@
+lar[104719]=`<b>φαλαγγόω-ῶ</b> <font color="purple">[φᾰ]</font><br><b>      1</b> aplanir avec le rouleau, <i>acc</i>. POLYEN <i>5, 2, 6</i>.<br><b>      2</b> faire mouvoir à l’aide de rouleaux, PHIL. BYZ. (MATH. <i>98).</i><p><b>Étym</b>. φάλαγξ.`

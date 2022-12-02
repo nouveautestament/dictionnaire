@@ -1,0 +1,1 @@
+lar[19751]=`<b>βινητιάω-ῶ</b> <font color="purple">[ῑ]</font> avoir des désirs lascifs, AR. LUC.<p><b>Étym</b>. βινέω.`

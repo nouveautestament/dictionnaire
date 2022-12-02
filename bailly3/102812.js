@@ -1,0 +1,1 @@
+lar[102812]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> tension excessive, <i>d’où</i> élévation, M. ANT. <i>10, 8</i>.<p><b>Étym</b>. ὑπερτείνω.`

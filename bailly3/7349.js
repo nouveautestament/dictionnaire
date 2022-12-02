@@ -1,0 +1,1 @@
+lar[7349]=`<b>ἀνά·πειρα, ας (ἡ) :<br>      1</b> essai, expérience, POL. <i>26, 7, 8</i>.<br><b>      2</b> exercice militaire, POL. <i>10, 20, 6</i>.<p>➳ <i>Avec sync</i>. ἄμπειρα, STR. <i>421</i>.<p><b>Étym</b>. ἀνά, πεῖρα.`

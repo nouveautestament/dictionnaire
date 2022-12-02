@@ -1,0 +1,1 @@
+lar[62164]=`<b>ου (τὸ)</b> fanon des bœufs, LUC. <i>Lex. 3</i>.`

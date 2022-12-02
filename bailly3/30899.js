@@ -1,0 +1,1 @@
+lar[30899]=`<b>εἰσ·τρέφω</b> (<i>part. pr. pass</i>. -όμενος) nourrir dans, <i>dat</i>. NYSS. <i>2, 1032d</i>.`

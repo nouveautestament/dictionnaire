@@ -1,0 +1,1 @@
+lar[12146]=`<b>ἀπο·βλύζω :<br>      1 <i>intr.</i></b> sourdre, PHILSTR. <i>775</i>.<br><b>      2 <i>tr.</i></b> vomir, IL. <i>9, 491</i>.`

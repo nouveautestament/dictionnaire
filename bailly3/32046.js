@@ -1,0 +1,1 @@
+lar[32046]=`<b>ἐκ·σμάω-ῶ</b>, essuyer des vases, HDT. <i>3, 148</i>.`

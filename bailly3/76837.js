@@ -1,0 +1,1 @@
+lar[76837]=`<b>πάρ·ηβος, ος, ον :<br>      1</b> qui n’est plus dans la fleur de l’âge, A. PL. <i>289</i>.<br><b>      2</b> qui est dans la fleur de l’âge, PHIL. <i>2, 40</i>.<p><b>Étym</b>. π. ἥβη.`

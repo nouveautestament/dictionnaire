@@ -1,0 +1,1 @@
+lar[27324]=`<b>ῆρος (ὁ)</b> qui dompte, qui maîtrise, <i>gén</i>. HH. <i>21, 5</i> ; ALCM. (SCH.-PD. <i>P. 4, 318).</i><p><b>Étym</b>. δαμάω.`

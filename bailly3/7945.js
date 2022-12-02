@@ -1,0 +1,1 @@
+lar[7945]=`<b>οῦ (ὁ)</b> qui vit dans la retraite, anachorète, ECCL.<p><b>Étym</b>. ἀναχωρέω.`

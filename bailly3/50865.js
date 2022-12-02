@@ -1,0 +1,1 @@
+lar[50865]=`<b>κακό·στομος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> injurieux (<i>propr</i>. de mauvaise bouche) EUR. <i>I.A. 1001</i>.<br><b>      2</b> désagréable à prononcer, LGN <i>43, 1</i>.<p><b>Étym</b>. κ. στόμα.`

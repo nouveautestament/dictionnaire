@@ -1,0 +1,1 @@
+lar[27880]=`<b>δρεπανη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>litt</i>. qui porte une faux <i>ou</i> des faux, <i>càd</i>. armé de faux, XÉN. <i>An. 1, 7, 10 ; 1, 8, 10</i> ; POL. <i>5, 53, 10</i> ; DS. <i>17, 53</i>.<p><b>Étym</b>. δρεπάνη, φέρω.`

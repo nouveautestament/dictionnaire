@@ -1,0 +1,1 @@
+lar[18242]=`<b>ἀφρο·γενής, ής, ές</b> <font color="purple">[α]</font> né de l’écume (de la mer), <i>ép. d’Aphrodite,</i> HÉS. <i>Th. 196</i> ; A. PL. <i>4, 211</i>.<p><b>Étym</b>. ἀφρός, γίγνομαι.`

@@ -1,0 +1,1 @@
+lar[61153]=`<b>Λιμ·έντερος, ου (ὁ)</b> « Ventre-affamé », <i>n. de parasite,</i> ALCIPHR. <i>3, 59</i>.<p><b>Étym</b>. λιμός, ἔντερον.`

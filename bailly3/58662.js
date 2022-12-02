@@ -1,0 +1,1 @@
+lar[58662]=`<b>ου</b> <font color="purple">[ῡᾰᾱ]</font> <i>adj. m.</i> :<br><b>      1</b> <i>pass</i>. houleux, agité, ESCHL. <i>Suppl. 555</i> ; HDT. <i>2, 111</i>.<br><b>      2</b> <i>act</i>. qui soulève les vagues, HDT. <i>8, 118</i>.<p>➳ <i>Ion</i>. -ίης, HDT. <i>ll. cc</i>.<p><b>Étym</b>. κῦμα.`

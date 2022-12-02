@@ -1,0 +1,1 @@
+lar[77892]=`<b>ίδος (ἡ)</b> sorte de poisson, NUMÉN. (ATH. <i>309f</i>).`

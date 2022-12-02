@@ -1,0 +1,1 @@
+lar[81271]=`<b>ας (ἡ)</b> action de guider, LYC. <i>846</i>.<p><b>Étym</b>. ποδηγός.`

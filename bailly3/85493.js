@@ -1,0 +1,1 @@
+lar[85493]=`<b>προσ·είκελος, η, ον</b>, qui ressemble à, <i>dat</i>. HDT. <i>2, 12, etc</i>.`

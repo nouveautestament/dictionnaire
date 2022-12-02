@@ -1,0 +1,1 @@
+lar[100003]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱχ]</font> aspérité, <i>particul</i>. aspérité de la paupière devenant raboteuse à l’intérieur, <i>sorte de maladie,</i> DIOSC. <i>1, 77</i>.<p><b>Étym</b>. τραχόω.`

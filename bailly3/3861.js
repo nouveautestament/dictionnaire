@@ -1,0 +1,1 @@
+lar[3861]=`<b>Ἀκρούριον ὄρος (τὸ)</b> Akrourion, <i>mt de Phocide,</i> PLUT. <i>Phoc. 33</i>.<p><b>Étym</b>. ἄ. ὄρος.`

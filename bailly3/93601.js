@@ -1,0 +1,1 @@
+lar[93601]=`<b>συγ·χειροπονέω-ῶ</b>, mettre la main à un travail avec, LUC. <i>Lex. 2</i>.`

@@ -1,0 +1,1 @@
+lar[29031]=`<b>ας (ἡ)</b> <font color="purple">[χῡ]</font> saveur désagréable, mauvais goût, TH. <i>C.P. 6, 12, 12</i>.<p><b>Étym</b>. δύσχυμος.`

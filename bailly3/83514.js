@@ -1,0 +1,1 @@
+lar[83514]=`<b>εως (ἡ)</b> pressentiment, PLUT. <i>M. 127d</i>.<p><b>Étym</b>. προαισθάνομαι.`

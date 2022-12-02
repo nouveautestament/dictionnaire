@@ -1,0 +1,1 @@
+lar[87978]=`être d’un rouge ardent, être roux, SPT. <i>Lev. 13, 17, etc.</i> ; PHIL. <i>1, 194</i>.<p><b>Étym</b>. πυρρός.`

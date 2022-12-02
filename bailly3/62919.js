@@ -1,0 +1,1 @@
+lar[62919]=`<b>ωνος (ὁ)</b> Mardiôn, <i>eunuque,</i> PLUT. <i>Ant. 60</i>.<p><b>Étym</b>. <i>v</i>. Μάρδοι, Μαρδόνιοι.`

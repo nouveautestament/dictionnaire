@@ -1,0 +1,1 @@
+lar[31600]=`<b>ἐκ·λικμάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐξελίκμησε)</font> vanner, <i>fig</i>. SPT. <i>Judith 2, 27</i>.`

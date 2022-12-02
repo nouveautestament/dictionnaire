@@ -1,0 +1,1 @@
+lar[1598]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. Ἄδωνις, ANTH. <i>6, 275</i>.`

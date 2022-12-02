@@ -1,0 +1,1 @@
+lar[84142]=`<b>προ·εμπίπτω</b> <font color="darkgreen">(<i>f</i>. -εμπεσοῦμαι, <i>ao.2</i> -ενέπεσον, <i>etc</i>.)</font> tomber auparavant dans <i>ou</i> sur, <i>dat</i>. PLUT. <i>M. 948a ;</i> HLD. <i>9, 5</i> ; εἰς <i>et l’acc</i>. DL. <i>4, 39</i>.`

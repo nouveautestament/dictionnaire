@@ -1,0 +1,1 @@
+lar[89808]=`<b>σεμνό·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> vénérable, ESCHL. <i>Ch. 358, Eum. 833</i>.<p><b>Étym</b>. σ. τιμή.`

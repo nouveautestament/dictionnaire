@@ -1,0 +1,1 @@
+lar[101914]=`<font color="purple">[ῠ]</font> <i>vb. de</i> ὑπάγω, CLÉM. <i>288</i>.`

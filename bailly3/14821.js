@@ -1,0 +1,1 @@
+lar[14821]=`<b>ων (οἱ)</b> <i>n. d’un pple du Nord,</i> ORPH. <i>Arg. 1077</i>.<p><b>Étym</b>. ἄρκτος.`

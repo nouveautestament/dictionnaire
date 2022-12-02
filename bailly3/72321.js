@@ -1,0 +1,1 @@
+lar[72321]=`<b>ων (οἱ)</b> les Hoplètes, <i>une des 4 tribus de l’ancienne Attique, ainsi nommée de</i> Ὅπλης, HDT. <i>5, 66</i> ; EUR. <i>Ion 1580</i>.`

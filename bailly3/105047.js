@@ -1,0 +1,1 @@
+lar[105047]=`<b>ου (ὁ)</b> = <i>lat</i>. Favonius, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 46, Brut. 34, etc</i>.`

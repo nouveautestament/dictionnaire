@@ -1,0 +1,1 @@
+lar[26467]=`<b>δικαιοδοτέω-ῶ</b> <font color="purple">[ῐ]</font> rendre la justice, STR. <i>48, 501, 808</i> ; PLUT. <i>M. 779a</i>.<p><b>Étym</b>. δικαιοδότης.`

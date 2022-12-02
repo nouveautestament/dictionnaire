@@ -1,0 +1,1 @@
+lar[9494]=`<b>ή, όν :<br>      1</b> rémunératoire, BAS. <i>3, 404 Migne</i>.<br><b>      2</b> <i>t. de gr</i>. corrélatif, D. THR. <i>636, 13</i> ; DYSC. <i>Adv. 568, 583 ; Conj. 503</i>.<p><b>Étym</b>. ἀνταποδίδωμι.`

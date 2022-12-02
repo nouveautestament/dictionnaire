@@ -1,0 +1,1 @@
+lar[78016]=`<b>πεντά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰ]</font> de cinq coudées, HDT. <i>9, 83</i> ; TH. <i>H.P. 9, 4, 2, etc</i>.<p><b>Étym</b>. π. πῆχυς.`

@@ -1,0 +1,1 @@
+lar[21342]=`<b>*γανάεις, εσσα, εν</b>, <i>seul. plur</i>. γανάεντες <font color="purple">[ᾰᾰ]</font> qui fait resplendir, qui glorifie, ESCHL. <i>Suppl. 1019 (corr</i>. γανάοντες, <i>Gottfried Hermann, Æschyli Tragœdiae, 1852).</i><p><b>Étym</b>. γάνος ; <i>cf</i>. γανάω.`

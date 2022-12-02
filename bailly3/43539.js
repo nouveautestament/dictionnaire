@@ -1,0 +1,1 @@
+lar[43539]=`<i>adv</i>., avec une bonne tenue, <i>particul</i>. avec un extérieur décent <i>ou</i> un maintien grave, XÉN. <i>Cyr. 1, 3, 8</i> ; AR. <i>Vesp. 1210</i> ; ARSTT. <i>Nic. 1, 10, 13</i>.<p>•<i> Cp</i>. -ονέστερον, PLAT. <i>Epin. 981a ;</i> DÉM. <i>1400, 10</i>.<p><b>Étym</b>. εὐσχήμων.`

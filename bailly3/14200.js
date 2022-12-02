@@ -1,0 +1,1 @@
+lar[14200]=`<b>ιδος (ἡ)</b> <i>s.-e</i>. χώρα, territoire d’Arbèles, PLUT. <i>Pomp. 36, etc</i>.<p><b>Étym</b>. Ἄρβηλα.`

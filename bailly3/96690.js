@@ -1,0 +1,1 @@
+lar[96690]=`<b>συ·στηρίζω</b>, appuyer sur, fixer dans, <i>dat</i>. PTOL. <i>Math. synt. t. 1, p. 155, 9 Halm</i>.`

@@ -1,0 +1,1 @@
+lar[594]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> purification, <i>d’où</i> sacrifice funéraire, DS. <i>4, 39</i>.<p><b>Étym</b>. ἁγίζω.`

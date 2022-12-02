@@ -1,0 +1,1 @@
+lar[47019]=`<b>ου (τὸ)</b> temple de Dèmèter législatrice, AR. <i>Th. 278, 880</i> ; CIA. <i>2, 1059, 12 (321 av. J.-C.) ; v. Meisterh. p. 42</i>.<p><b>Étym</b>. θεσμοφόρος.`

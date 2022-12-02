@@ -1,0 +1,1 @@
+lar[65870]=`<i>ou</i> <b>μίνθη, ης (ἡ)</b> menthe, <i>plante aromatique,</i> HIPPON. <i>fr. 81</i> ; TH. <i>H.P. 2, 4, 1, etc.</i> ; ATH. <i>49e</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[94143]=`<b>συμ·παταγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> frapper avec bruit l’un contre l’autre, SEXT. <i>M. 6, 20</i>.`

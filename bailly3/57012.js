@@ -1,0 +1,1 @@
+lar[57012]=`<b>ου (ὁ)</b> <i>seul. au plur</i>. bon génie, dieu bienfaisant, <i>chez les Scythes,</i> LUC. <i>Tox. 7</i>.`

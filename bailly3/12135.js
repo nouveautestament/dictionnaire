@@ -1,0 +1,1 @@
+lar[12135]=`<b>εως (ἡ)</b> germination, pousse, HPC. <i>485, 3</i> ; GAL. <i>4, 491</i>.<p><b>Étym</b>. ἀποβλαστάνω.`

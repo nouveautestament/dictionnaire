@@ -1,0 +1,1 @@
+lar[47471]=`<i>adv</i>., en forme de coupole, DL. <i>2, 9</i> ; DIOSC. <i>4, 76</i>.<p><b>Étym</b>. θολοειδής.`

@@ -1,0 +1,1 @@
+lar[76057]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> action d’aigrir, d’exaspérer, SPT. <i>Ps. 94, 8</i> ; NT. <i>Hebr. 3, 8</i>.<p><b>Étym</b>. παραπικραίνω.`

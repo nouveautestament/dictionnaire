@@ -1,0 +1,1 @@
+lar[34125]=`<b>ἑνδεκ·ήρης (ἡ)</b> (<i>s.-e</i>. ναῦς) navire à onze bancs de rameurs, TH. <i>H.P. 5, 8, 1</i> ; ATH. <i>203d</i>.<p><b>Étym</b>. ἕ. ἐρέσσω.`

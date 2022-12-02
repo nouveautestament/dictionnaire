@@ -1,0 +1,1 @@
+lar[10290]=`<b>ας (ἡ) :<br>      1</b> vent en lutte avec (un autre vent) TH. <i>Vent. 28</i>.<br><b>      2</b> vent contraire, ARSTT. <i>Plant. 2, 4, 10</i> ; HDN <i>5, 4, etc</i>.<p><b>Étym</b>. ἀντίπνοος.`

@@ -1,0 +1,1 @@
+lar[29093]=`<b>δωδεκα·μήχανος, ος, ον</b> <font color="purple">[ᾰχᾰ]</font><br><b>      1</b> qui connaît douze postures, AR. <i>Ran. 1327</i> ; PLAT. COM. <i>2-2, 661</i>.<br><b>      2</b> qui parcourt les douze constellations, EUR. <i>fr. 755</i>.<p><b>Étym</b>. δ. μηχανή.`

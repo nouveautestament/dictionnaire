@@ -1,0 +1,1 @@
+lar[61334]=`<b>ης, ες</b> <font color="purple">[ῐῡ]</font> <i>c</i>. λιποθυμικός ARCHIG. (ORIB. <i>2, 152 B.-Dar</i>.).<p><b>Étym</b>. λιποθυμία, -ωδης.`

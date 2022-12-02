@@ -1,0 +1,1 @@
+lar[55068]=`<b>ας (ἡ)</b> mal de tête continuel, GAL. <i>7, 747</i> ; ARÉT. <i>Cur. m. diut. 1, 2</i>.<p><b>Étym</b>. <i>fém. de</i> κεφάλαιος.`

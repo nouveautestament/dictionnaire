@@ -1,0 +1,1 @@
+lar[33123]=`<b>ἐμβοθρόω-ῶ</b>, creuser comme une fosse, HPC. <i>269, 8</i>.<p><b>Étym</b>. ἔμβοθρος.`

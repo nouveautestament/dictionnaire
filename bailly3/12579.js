@@ -1,0 +1,1 @@
+lar[12579]=`<i>part. aor. de</i> ἀποκλάω, briser, ANACR. <i>17</i>.`

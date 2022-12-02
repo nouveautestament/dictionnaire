@@ -1,0 +1,1 @@
+lar[96811]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> sauge, <i>plante,</i> EUP. (PLUT. <i>M. 662e</i>) ; AR. <i>Th. 486</i> ; TH. <i>H.P. 6, 1, 4</i>.`

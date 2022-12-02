@@ -1,0 +1,1 @@
+lar[59383]=`allonger, étendre, ANTIPH. <i>(Bkk. p. 106, 5).</i><p><b>Étym</b>. <i>p.-ê. pré-grec ou emprunt à un substrat pré-indo-europ. ; cf</i>. λαγών, <i>lat</i>. langueō.`

@@ -1,0 +1,1 @@
+lar[50171]=`<b>ου (ὁ)</b> glouton, CRAT. (<i>Com. fr. 2, 78, 7).</i><p><b>Étym</b>. <i>pré-grec</i>.`

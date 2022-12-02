@@ -1,0 +1,1 @@
+lar[64458]=`<b>μεσ·αφέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> celui qu’on lance dans la carrière (char, coursier) <i>d’où fig</i>. messager, envoyé, CHRYS. <i>6, 974</i>.<p><b>Étym</b>. μ. ἀφίημι.`

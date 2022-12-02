@@ -1,0 +1,1 @@
+lar[53512]=`<i>vb. de</i> κατασχάζω, DIOSC. <i>Ther. 2, p. 61 Spr</i>.`

@@ -1,0 +1,1 @@
+lar[12668]=`<b>ἀπο·κροτέω-ῶ</b>, faire claquer ses doigts, STR. <i>672</i>.`

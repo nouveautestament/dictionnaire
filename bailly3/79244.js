@@ -1,0 +1,1 @@
+lar[79244]=`<b>περί·σεμνος, ος, ον</b>, très grave, majestueux, AR. <i>Vesp. 604</i> ; EUP. <i>2-1, 563 Meineke</i>.<p><b>Étym</b>. π. σεμνός.`

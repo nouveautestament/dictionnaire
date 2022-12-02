@@ -1,0 +1,1 @@
+lar[31344]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> désir ardent, NYSS. <i>1, 554a</i>.<p><b>Étym</b>. ἐκθυμέω.`

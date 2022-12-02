@@ -1,0 +1,1 @@
+lar[74878]=`<b>παν·άρετος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait vertueux, LUC. <i>Philops. 6</i>.<p><b>Étym</b>. π. ἀρετή.`

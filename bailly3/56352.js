@@ -1,0 +1,1 @@
+lar[56352]=`<b>ου (τὸ)</b> <font color="purple">[ᾰκ]</font> petit pivot, HÉRON <i>Spir. p. 191, 29</i>.<p><b>Étym</b>. <i>dim. de</i> κνώδαξ.`

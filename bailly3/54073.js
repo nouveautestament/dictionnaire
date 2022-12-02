@@ -1,0 +1,1 @@
+lar[54073]=`<b>κατ·ισχναίνω</b>, rendre très maigre, <i>d’où</i> :<br><b>      1</b> exténuer, épuiser, ESCHL. <i>Eum. 138</i> ; PLAT. <i>Rsp. 561c.</i><br><b>      2</b> <i>p. ext</i>. affaiblir, diminuer, TH. <i>Od. 47</i> ; CALL. <i>Ep. 49</i>.`

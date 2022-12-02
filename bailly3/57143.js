@@ -1,0 +1,1 @@
+lar[57143]=`<b>α, ον</b> <font color="purple">[ῠ]</font> des Corybantes, DP. <i>524</i>.<p><b>Étym</b>. Κορύβας.`

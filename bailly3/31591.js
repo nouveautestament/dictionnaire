@@ -1,0 +1,1 @@
+lar[31591]=`<b>ἐκ·λευκαίνω</b>, faire blanchir, <i>acc</i>. EUR. <i>I.T. 1387</i> ; CHRYS. <i>6, 329 ; au pass</i>. devenir tout à fait blanc, TH. <i>C.P. 5, 9, 9</i> ; SPT. <i>Dan. 12, 9</i>.`

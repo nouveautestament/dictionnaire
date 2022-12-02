@@ -1,0 +1,1 @@
+lar[29507]=`<b>ἐγ·καταβρέχω</b> <font color="darkgreen">(<i>ao. sbj. 2 sg</i>. -βρέξῃς)</font> humecter <i>ou</i> tremper dans, <i>dat</i>. GEOP. <i>13, 1, 7</i>.<p><b>Étym</b>. ἐν, κ.`

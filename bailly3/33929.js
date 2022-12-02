@@ -1,0 +1,1 @@
+lar[33929]=`<b>ἐν·αποβρέχω</b> <font color="purple">[ᾰ]</font> mouiller dans, <i>dat</i>. HPC. <i>893b</i>.`

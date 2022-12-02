@@ -1,0 +1,1 @@
+lar[58222]=`<b>(τὸ)</b> Krôphi, <i>mt. de la haute Égypte,</i> HDT. <i>2, 28</i>.`

@@ -1,0 +1,1 @@
+lar[99761]=`<i>crase poét.</i> :<br><b>      1</b> <i>p</i>. τοῦ ἕνεκα, IL. <i>1, 96,</i> à cause de cela, à cause de quoi.<br><b>      2</b> <i>p</i>. τοῦ ἕνεκα ; <i>att. p</i>. τίνος ἕνεκα ; A. PL. <i>275, 11,</i> à cause de quoi ? pourquoi ?`

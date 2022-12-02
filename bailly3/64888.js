@@ -1,0 +1,1 @@
+lar[64888]=`<b>μετα·πείθω</b>, faire changer de résolution, dissuader, PLAT. <i>Rsp. 399b ;</i> DÉM. <i>303 fin</i> ; τινὰ περί τινος, AR. <i>Ach. 626,</i> faire prendre à qqn sur qqe ch. une résolution nouvelle ; <i>au pass</i>. se laisser persuader de, changer de sentiment, XÉN. <i>Hell. 7, 1, 15</i> ; PLAT. <i>Rsp. 413b ;</i> DÉM. <i>1438, 21</i>.`

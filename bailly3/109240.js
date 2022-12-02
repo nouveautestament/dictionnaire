@@ -1,0 +1,1 @@
+lar[109240]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> sorte de plante inconnue, ARISTÉN. <i>1, 10</i>.`

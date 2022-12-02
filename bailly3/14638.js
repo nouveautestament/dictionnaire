@@ -1,0 +1,1 @@
+lar[14638]=`<b>ἀρισθ·άρματος, ος, ον</b> <font color="purple">[ᾰαᾰ]</font> qui l’emporte dans la course des chars, PD. <i>I. 5, 36</i>.<p><b>Étym</b>. ἄριστος, ἅρμα.`

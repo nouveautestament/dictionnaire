@@ -1,0 +1,1 @@
+lar[18091]=`<b>ἀφ·ιλαρύνω</b> <font color="purple">[ῐᾰῡ]</font> égayer, DL. <i>7, 86</i>.<p><b>Étym</b>. ἀπό, ἱλ.`

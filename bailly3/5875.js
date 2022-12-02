@@ -1,0 +1,1 @@
+lar[5875]=`<b>α, ον</b>, qui sert à brider : ἀμπυκτήρια φάλαρα πώλων, SOPH. <i>O.C. 1069,</i> rênes ajustées à la tête des chevaux.<p><b>Étym</b>. ἀμπυκτήρ.`

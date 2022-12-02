@@ -1,0 +1,1 @@
+lar[40756]=`<b>ἐρυγό·βιος, ος, ον</b> <font color="purple">[ῠ]</font> qui passe sa vie à vomir, NAZ. <i>4, 108 Migne</i>.<p><b>Étym</b>. ἐρεύγομαι, βίος.`

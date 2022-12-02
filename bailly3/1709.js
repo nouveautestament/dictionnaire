@@ -1,0 +1,1 @@
+lar[1709]=`<b>ἀει·φεγγής, ής, ές</b>, toujours brillant, NYSS. <i>1, 984 Migne</i>.<p><b>Étym</b>. ἀ. φέγγος.`

@@ -1,0 +1,1 @@
+lar[106114]=`<b>φιλο·συγγενής, ής, ές</b> <font color="purple">[ῐ]</font> qui aime ses parents, HIÉROCL. (STOB. <i>449, 39) ; sup</i>. φιλοσυγγενέστατος, D. CHR. <i>1, 136</i>.`

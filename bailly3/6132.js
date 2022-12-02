@@ -1,0 +1,1 @@
+lar[6132]=`<b>ης</b>, <i>adj. f.</i> :<br><b>      1</b> poussée des deux côtés par les rames ; <i>sel. d’autres,</i> ballottée (sur les flots) IL. <i>2, 165</i> ; OD. <i>3, 162, etc. ; fig. en parl. d’un chant,</i> TRIPHIOD. <i>667 ; de colère,</i> CHRIST. <i>Ecphr. 21</i>.<br><b>      2</b> enroulée, NONN. <i>D. 48, 328</i>.<p><b>Étym</b>. ἀμφιέλιξ.`

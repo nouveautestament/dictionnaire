@@ -1,0 +1,1 @@
+lar[39944]=`<b>ἑπτ·άβουλος, ος, ον</b> <font color="purple">[ᾰ]</font> sept fois irréfléchi, HIPPON. <i>fr. 113B (conj. Miller Mél. de litt. gr. p. 246</i> : « τοῦτον τὸν ἑπτάδουλον ἑπτάβουλόν τε »).<p><b>Étym</b>. ἑ. ἄβουλος.`

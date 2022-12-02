@@ -1,0 +1,1 @@
+lar[7731]=`<b>εως (ἡ) :<br>      1</b> lever du soleil, ARSTT. <i>Mund. 3, 10</i> ; PLUT. <i>M. 972b.</i><br><b>      2</b> suspension <i>ou</i> cessation (d’un fléau) PLUT. <i>Num. 13</i>.<p><b>Étym</b>. ἀνέχω.`

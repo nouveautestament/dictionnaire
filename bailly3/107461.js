@@ -1,0 +1,1 @@
+lar[107461]=`<b>χαιρε·κακέω-ῶ</b> <font color="purple">[ᾰ]</font> aimer le mal, PHIL. <i>3, 44</i>.<p><b>Étym</b>. χ. κακός.`

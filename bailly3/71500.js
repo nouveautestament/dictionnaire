@@ -1,0 +1,1 @@
+lar[71500]=`<b>ὁμό·ζωνος, ος, ον</b>, situé dans une même zone, P. ALEX. <i>Apot. 12, p. 26, l. 5 Boer</i>.<p><b>Étym</b>. ὁμ. ζώνη.`

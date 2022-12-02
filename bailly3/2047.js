@@ -1,0 +1,1 @@
+lar[2047]=`<b>ἀ·θησαύριστος, ος, ον :<br>      1</b> qu’on ne peut mettre en réserve, PLAT. <i>Leg. 844d.</i><br><b>      2</b> non mis en lieu sûr, TH. <i>H.P. 6, 4, 11</i>.<p><b>Étym</b>. ἀ, θησαυρίζω.`

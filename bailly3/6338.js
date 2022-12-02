@@ -1,0 +1,1 @@
+lar[6338]=`<b>ἀμφι·πτολεμο·πηδησί·στρατος, ος, ον</b> <font color="purple">[ᾰτ]</font> dont l’armée s’élance de toutes parts à la guerre, EUP. <i>393 Kock</i>.<p><b>Étym</b>. ἀ. πτ. πηδάω, στρατός.`

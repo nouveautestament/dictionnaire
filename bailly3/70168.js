@@ -1,0 +1,1 @@
+lar[70168]=`<b>οῦ (ὁ)</b> plainte, lamentation, <i>au plur</i>. ESCHL. <i>Pr. 33</i> ; EUR. <i>Hec. 156, etc.</i> ; PLAT. <i>Rsp. 387b, 398d, etc</i>.<p><b>Étym</b>. ὀδύρομαι.`

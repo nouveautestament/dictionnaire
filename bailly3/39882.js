@@ -1,0 +1,1 @@
+lar[39882]=`<b>ἐπ·ορνύω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπώρνυε)</font> <i>v</i>. ἐπόρνυμι IL. <i>15, 613</i>.`

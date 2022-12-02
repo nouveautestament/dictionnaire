@@ -1,0 +1,1 @@
+lar[73578]=`<b>οὐλό·χυται</b>, <i>mieux que</i> <b>οὐλο·χύται, ῶν (αἱ)</b> <font color="purple">[χῠ]</font> grains d’orge moulus grossièrement qu’on répandait avant le sacrifice sur la tête de la victime et sur l’autel, IL. <i>1, 449, 458</i> ; OD. <i>3, 445 ; 4, 761, etc</i>.<p><b>Étym</b>. οὐλή², χυτός.`

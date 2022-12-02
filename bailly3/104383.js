@@ -1,0 +1,1 @@
+lar[104383]=`<b>ὑφ·έννυμι</b>, vêtir sous, <i>seul. au moy</i>. ὑφέννυμαι, se vêtir en dessous, CALL. <i>fr. 59 conj</i>.`

@@ -1,0 +1,1 @@
+lar[81352]=`<b>ποιη·βόρος, ος, ον</b>, qui se nourrit d’herbe, herbivore, ŒNOM. (EUS. <i>P.E. 215).</i><p><b>Étym</b>. ποίη¹, βιβρώσκω.`

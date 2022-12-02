@@ -1,0 +1,1 @@
+lar[103152]=`<b>ατος (τὸ) :<br>      1</b> semelle fixée sous le pied et attachée par des lanières <i>ou</i> des cordons s’entre-croisant, OD. <i>15, 369 ; 18, 361</i> ; HDT. <i>1, 195, etc.</i> ; PLAT. <i>1 Alc. 128a, etc.</i><br><b>      2</b> ὑπόδημα κοῖλον, STR. <i>734, ou abs</i>. ὑπόδημα, AR. <i>Pl. 983,</i> soulier qui enveloppe tout le pied.<p><b>Étym</b>. ὑποδέω.`

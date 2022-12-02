@@ -1,0 +1,1 @@
+lar[93360]=`<b>συγ·κατασβέννυμι</b> <font color="purple">[ῡ]</font> éteindre avec, PLUT. <i>M. 973d</i>.`

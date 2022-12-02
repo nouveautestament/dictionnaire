@@ -1,0 +1,1 @@
+lar[15488]=`<b>ας (ἡ)</b> origine antique, RHÉT. <i>2, 139, 25 W., etc</i>.`

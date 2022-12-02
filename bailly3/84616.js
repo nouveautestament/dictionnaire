@@ -1,0 +1,1 @@
+lar[84616]=`<b>προ·κυλινδέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> se rouler <i>ou</i> se jeter aux pieds de, <i>gén</i>. DÉM. <i>450, 2</i> ; ARSTT. <i>H.A. 9, 8, 3 ; dat</i>. AR. <i>Av. 501</i>.`

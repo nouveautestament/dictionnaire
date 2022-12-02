@@ -1,0 +1,1 @@
+lar[95208]=`<b>συν·δοκιμάζω</b> <font color="purple">[ῐ]</font> examiner avec <i>ou</i> en même temps, PLAT. <i>Theæt. 197b ;</i> ISOCR. <i>20c ;</i> PLUT. <i>Arist. 22 ; avec</i> περί <i>et le gén</i>. PLUT. <i>M. 62f ;</i> σ. εἴτε… εἴτε, PLAT. <i>Tim. 20d</i>, examiner si… ou si….`

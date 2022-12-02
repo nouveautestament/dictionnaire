@@ -1,0 +1,1 @@
+lar[39902]=`<b>ἔπ·ουρος, ος, ον :<br>      1</b> <i>act</i>. qui souffle, favorablement, SOPH. <i>Tr. 954</i>.<br><b>      2</b> <i>pass</i>. poussé par un bon vent, <i>fig</i>. CLÉM. <i>130</i>.<p><b>Étym</b>. ἐπί, οὖρος.`

@@ -1,0 +1,1 @@
+lar[41329]=`<font color="purple">[ῑ]</font> <i>adv</i>., en se déplaçant par une impulsion étrangère, PROCL. <i>Plat. 1 Alc. p. 61, 63</i>.`

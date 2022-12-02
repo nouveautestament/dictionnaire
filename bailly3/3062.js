@@ -1,0 +1,1 @@
+lar[3062]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> innocence, simplicité, DÉM. <i>1372, 23</i> ; ARSTT. <i>Rhet. 2, 12, 15, etc</i>.<p><b>Étym</b>. ἄκακος.`

@@ -1,0 +1,1 @@
+lar[68517]=`<i>adv</i>., avec aptitude à nager, en nageant, PHIL. <i>De eleph. 118</i>.`

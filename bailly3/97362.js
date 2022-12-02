@@ -1,0 +1,1 @@
+lar[97362]=`<i>pl. neutre de</i> ὅδε.`

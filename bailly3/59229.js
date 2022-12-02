@@ -1,0 +1,1 @@
+lar[59229]=`<b>(ἡ)</b> = <i>lat</i>. Consa, <i>v. d’Étrurie,</i> PLUT. <i>Flam. 1</i>.`

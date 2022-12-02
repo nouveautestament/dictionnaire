@@ -1,0 +1,1 @@
+lar[78340]=`<b>περι·αγαπάω-ῶ</b> <font color="purple">[ᾰᾰπ]</font> aimer par-dessus tout, EUN. <i>56, 4</i>.`

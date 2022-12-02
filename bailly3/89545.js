@@ -1,0 +1,1 @@
+lar[89545]=`<b>οῦ</b> <font color="purple">[ᾰῠ]</font> <i>adj. m</i>. qui joue des drames satyriques, acteur de drames satyriques, DH. <i>7, 72</i>.<p><b>Étym</b>. σατυρίζω.`

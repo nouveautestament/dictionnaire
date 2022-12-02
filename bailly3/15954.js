@@ -1,0 +1,1 @@
+lar[15954]=`<b>ἀσκο·θύλακος, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> peau d’une bête dépouillée, <i>d’où</i> peau travaillée, sac, AR. <i>fr. 217</i>.<p><b>Étym</b>. ἀσκός, θ.`

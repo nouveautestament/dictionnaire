@@ -1,0 +1,1 @@
+lar[103630]=`<b>ὑπό·ξηρος, ος, ον :<br>      1</b> un peu sec, HPC. <i>176a, 1216a ;</i> PLUT. <i>M. 915e.</i><br><b>      2</b> un peu maigre, un peu décharné, HPC. <i>Art. 837</i>.<p><b>Étym</b>. ὑ. ξηρός.`

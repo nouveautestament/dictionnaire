@@ -1,0 +1,1 @@
+lar[103065]=`<b>ὑπο·γείνομαι</b> <font color="darkgreen">(<i>inf. ao.1</i> ὑπογείνασθαι)</font> enfanter, <i>acc</i>. EUPHOR. <i>fr. 61</i>.`

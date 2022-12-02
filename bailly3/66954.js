@@ -1,0 +1,1 @@
+lar[66954]=`<b>ή, όν</b>, qui concerne l’emploi du levier, PHIL. BYZ. ; <i>particul</i>. pour réduire les luxations, HPC. <i>Mochl. 868</i>.<p><b>Étym</b>. μοχλός.`

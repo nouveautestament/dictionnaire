@@ -1,0 +1,1 @@
+lar[5252]=`<b>ου (ὁ)</b> descendant d’Amarsyas, SIM. (PLUT. <i>Thes. 17</i>).`

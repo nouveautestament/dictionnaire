@@ -1,0 +1,1 @@
+lar[1052]=`<b>ἀγχίλωψ, ωπος (ὁ)</b> anchilôps, fistule vers le grand angle de l’œil, près du sac lacrymal, GAL. <i>2, 271</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

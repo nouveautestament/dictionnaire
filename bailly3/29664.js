@@ -1,0 +1,1 @@
+lar[29664]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne une accusation <i>ou</i> un accusateur, ARSTT. <i>Nic. 8, 13, 4</i>.<p><b>Étym</b>. ἔγκλημα.`

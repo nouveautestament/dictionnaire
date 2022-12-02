@@ -1,0 +1,1 @@
+lar[78790]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> inondation, EL. <i>N.A. 16, 15 ; fig</i>. CLÉM.<p><b>Étym</b>. περικλύζω.`

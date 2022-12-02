@@ -1,0 +1,1 @@
+lar[68536]=`<b>νηλιπο·και·βλεπ·έλαιος, ος, ον</b>, qui va nu-pieds et au teint huileux, <i>sobriquet des philosophes,</i> ANTH. <i>App. 288</i>.<p><b>Étym</b>. νήλιπος, καί, βλέπω, ἔλαιον.`

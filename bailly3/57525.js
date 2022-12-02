@@ -1,0 +1,1 @@
+lar[57525]=`<i>adv</i>., avec impétuosité, IL. <i>10, 162, etc.</i> ; OD. <i>8, 247</i>.<p><b>Étym</b>. κραιπνός.`

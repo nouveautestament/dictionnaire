@@ -1,0 +1,1 @@
+lar[68646]=`<b>νησόω-ῶ</b>, changer en île, APP. (SUID. <i>v°</i> ᾔομεν).<p><b>Étym</b>. νῆσος.`

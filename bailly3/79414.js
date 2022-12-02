@@ -1,0 +1,1 @@
+lar[79414]=`<b>περι·στόμιος, α, ον</b>, qui entoure la bouche, OPP. <i>H. 3, 603</i> ; τὸ περιστόμιον :<br><b>      1</b> ouverture d’un vase, POL. <i>22, 11, 15</i>.<br><b>      2</b> têtière d’un joueur de flûte, PLUT. <i>M. 456c</i>.<p><b>Étym</b>. π. στόμα.`

@@ -1,0 +1,1 @@
+lar[95480]=`<b>συν·ενείκομαι</b> (<i>seul. prés</i>.) se heurter contre, <i>dat</i>. HÉS. <i>Sc. 440</i>.`

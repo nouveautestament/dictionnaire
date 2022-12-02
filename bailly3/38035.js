@@ -1,0 +1,1 @@
+lar[38035]=`<b>ἐπι·κίνυμαι</b> <font color="purple">[ῑν]</font> (<i>seul. prés</i>.) s’élancer contre, <i>dat</i>. Q. SM. <i>12, 145</i>.`

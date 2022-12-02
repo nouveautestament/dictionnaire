@@ -1,0 +1,1 @@
+lar[65150]=`<b>ή, όν</b>, qui concerne l’observation des phénomènes célestes, PTOL. <i>Math. synt. 1, 2</i> ; ἡ μετεωροσκοπική (<i>s.-e</i>. τέχνη) PROCL. <i>Eucl. p. 12,</i> l’art d’observer les phénomènes célestes.<p><b>Étym</b>. μετεωροσκόπος.`

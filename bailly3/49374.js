@@ -1,0 +1,1 @@
+lar[49374]=`<b>(ὁ)</b> <font color="purple">[ᾱ]</font> Hippolokhidas, <i>h</i>. THC. <i>4, 78</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Ἱππόλοχος.`

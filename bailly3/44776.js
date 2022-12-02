@@ -1,0 +1,1 @@
+lar[44776]=`<b>ή, όν</b>, qui concerne la nourriture <i>ou</i> l’élevage des animaux, PLAT. <i>Pol. 263e ;</i> CLÉM. <i>Str. 1, p. 338</i> ; ἡ ζῳοτροφική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 267a</i>, l’élevage des animaux.<p><b>Étym</b>. ζῳοτρόφος.`

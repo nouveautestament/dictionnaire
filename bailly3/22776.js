@@ -1,0 +1,1 @@
+lar[22776]=`<b>γυμνο·σπέρματος, ος, ον</b> <font color="purple">[ᾰ]</font> dont les graines sont nues, <i>càd</i>. non enveloppées, TH. <i>H.P. 1, 11, 2 ; 8, 4, 1</i>.<p><b>Étym</b>. γ. σπέρμα.`

@@ -1,0 +1,1 @@
+lar[93922]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Symmaque, <i>n. d’h., particul. n. d’un écrivain</i>.`

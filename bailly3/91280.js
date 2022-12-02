@@ -1,0 +1,1 @@
+lar[91280]=`<b>ατος (τὸ)</b> <font color="purple">[ῠᾰκ]</font> mauvais chien, garnement, ANTH. <i>3, 7 ; 7, 433</i>.<p><b>Étym</b>. σκυλακεύω.`

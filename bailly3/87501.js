@@ -1,0 +1,1 @@
+lar[87501]=`<b>έως</b>, <i>adj. m</i>. de Pygèles, XÉN. <i>Hell. 1, 2, 2</i>.<p>➳ <i>Dans les inscr. att. nom. pl</i>. Πυγαλῆς, CIA. <i>1, 234, 7 (446 av. J.-C.) et</i> Πυγελῆς, CIA. <i>1, 237, 29 (443 av. J.-C.) etc. ; v. Meisterh. p. 12, 4</i>.<p><b>Étym</b>. Πύγελα.`

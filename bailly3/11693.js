@@ -1,0 +1,1 @@
+lar[11693]=`<b>ἀπ·εναντίον</b>, <i>adv.</i> :<br><b>      1</b> en face de, <i>gén</i>. HDT. <i>7, 55</i> ; DS. <i>18, 34, etc. ; dat</i>. GAL. <i>4, 292</i>.<br><b>      2</b> de devant, <i>gén</i>. SPT. <i>Cant. 6, 4</i>.<p><b>Étym</b>. ἀ. ἐναντίον.`

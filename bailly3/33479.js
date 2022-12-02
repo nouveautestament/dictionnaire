@@ -1,0 +1,1 @@
+lar[33479]=`<b>ατος (τὸ)</b> objet enlacé, tressé, ARTÉM. <i>4, 83</i> ; CHRYS. <i>4, 159</i>.<p><b>Étym</b>. ἐμπλέκω.`

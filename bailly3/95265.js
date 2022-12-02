@@ -1,0 +1,1 @@
+lar[95265]=`<b>συν·εθέλω</b>, vouloir avec <i>ou</i> vouloir la même chose, être d’accord, XÉN. <i>Hipp. 9, 7</i> ; τινί, EN. TACT. <i>Pol. 11,</i> sur qqe ch., décider qqe ch. d’un commun accord.<p>➳ <i>Poét. ou de prose réc</i>. συνθέλω, SOPH. <i>O.C. 1344</i> ; EUR. <i>Tr. 62, etc.</i> ; ARSTT. <i>Nic. 9, 5, 2</i>.`

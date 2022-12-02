@@ -1,0 +1,1 @@
+lar[10310]=`<b>ἀντι·πορθέω-ῶ</b>, ravager à son tour <i>ou</i> en retour, EUR. <i>Tr. 359</i>.`

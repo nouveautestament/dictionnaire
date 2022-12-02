@@ -1,0 +1,1 @@
+lar[89088]=`<b>σαγη·φορέω-ῶ</b> <font color="purple">[ᾰ]</font> porter une saie, STR. <i>196</i>.<p><b>Étym</b>. σάγος, -φορος <i>de</i> φέρω.`

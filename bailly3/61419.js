@@ -1,0 +1,1 @@
+lar[61419]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> suppliant, ESCHL. <i>Suppl. 809</i>.<p><b>Étym</b>. λιτή.`

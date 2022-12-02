@@ -1,0 +1,1 @@
+lar[95364]=`<b>συν·εκλαμβάνω</b>, retrancher <i>ou</i> excepter avec, PTOL. <i>Harm. 2, 3</i>.`

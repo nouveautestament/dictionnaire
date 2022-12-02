@@ -1,0 +1,1 @@
+lar[90932]=`employer un mot qui n’a pas de sens déterminé, GAL. <i>8, 662</i>.<p><b>Étym</b>. σκινδαψός.`

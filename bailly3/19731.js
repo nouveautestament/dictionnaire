@@ -1,0 +1,1 @@
+lar[19731]=`<b>ων (τὰ)</b> Bitthères, <i>v. de Palestine,</i> ARSTT. (EUS. <i>H.E. 4, 6</i>).`

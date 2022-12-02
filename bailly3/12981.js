@@ -1,0 +1,1 @@
+lar[12981]=`<b>εως (ἡ)</b> retour dans les foyers, ARR. <i>An. 7, 4, 4 ; 7, 12, 1</i>.<p><b>Étym</b>. ἀπονοστέω.`

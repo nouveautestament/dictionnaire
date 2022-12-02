@@ -1,0 +1,1 @@
+lar[76626]=`<b>παρ·εκπυρόομαι-οῦμαι</b> <font color="purple">[ῠ]</font> s’enflammer pendant le temps, dans l’intervalle, ARSTT. <i>Meteor. 1, 4, 6</i>.`

@@ -1,0 +1,1 @@
+lar[38517]=`<b>ἐπι·νέω</b> <font color="darkgreen">(<i>f</i>. -νεύσομαι)</font> nager <i>ou</i> flotter sur, ALEX. (ATH. <i>650c</i>) ; ARSTT. <i>H.A. 9, 37, 3</i> ; ἐπί τινος, ATH. <i>667e</i>, sur qqe ch.<p>➳ <i>Prés. part. acc. sg. non contr</i>. ἐπινέοντα, ARSTT. <i>l. c</i>.`

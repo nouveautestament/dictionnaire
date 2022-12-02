@@ -1,0 +1,1 @@
+lar[91051]=`<b>σκληρ·όφθαλμος, ος, ον</b>, malade de l’humeur qui se porte aux yeux et y sèche, ARSTT. <i>H.A. 2, 13, 12 etc</i>.<p><b>Étym</b>. σκληρός, ὀφθαλμός.`

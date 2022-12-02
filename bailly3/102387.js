@@ -1,0 +1,1 @@
+lar[102387]=`<b>ὑπερ·δέω-ῶ</b>, lier au-dessus de, <i>rég. ind. au dat</i>. ANTH. <i>6, 166</i>.`

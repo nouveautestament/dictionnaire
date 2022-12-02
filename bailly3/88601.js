@@ -1,0 +1,1 @@
+lar[88601]=`<b>ατος (τὸ)</b> <font color="purple">[ρῑ]</font> <i>c</i>. ῥίνημα, CTÉS. <i>Ind. 25</i> ; ORIB. <i>311 Matthäi</i>.`

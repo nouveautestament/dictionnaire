@@ -1,0 +1,1 @@
+lar[58444]=`<b>Κυδ·ίππη, ης (ἡ)</b> <font color="purple">[ῡ]</font> Kydippè, <i>f</i>. HDT. <i>7, 165</i>.<p><b>Étym</b>. κῦδος, ἵππος.`

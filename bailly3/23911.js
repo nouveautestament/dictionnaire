@@ -1,0 +1,1 @@
+lar[23911]=`<b>δεξί·πυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui reçoit le feu, EUR. <i>Suppl. 65</i>.<p><b>Étym</b>. δέχομαι, πῦρ.`

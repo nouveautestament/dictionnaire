@@ -1,0 +1,1 @@
+lar[74168]=`<b>πάγ·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> <i>c</i>. παγχρύσεος PD. <i>O. 7, 4, etc.</i> ; SOPH. <i>El. 510, etc</i>.<p><b>Étym</b>. π. χρυσός.`

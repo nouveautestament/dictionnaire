@@ -1,0 +1,1 @@
+lar[91915]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite étincelle, NYSS.<p><b>Étym</b>. σπινθήρ.`

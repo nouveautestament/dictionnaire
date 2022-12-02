@@ -1,0 +1,1 @@
+lar[103507]=`<b>εως (ἡ)</b> <font color="purple">[λῠ]</font> relâchement en dessous, paralysie, SPT. <i>Nah. 2, 10</i> ; ARÉT. <i>Caus. m. diut. 2, 9</i>.<p><b>Étym</b>. ὑπολύω.`

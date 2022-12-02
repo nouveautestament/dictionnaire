@@ -1,0 +1,1 @@
+lar[18686]=`<i>ou</i> <b>βάβριος, ου (ὁ)</b> Babrias <i>ou</i> Babrios (Babrius), <i>fabuliste grec</i>.`

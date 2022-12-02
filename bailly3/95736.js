@@ -1,0 +1,1 @@
+lar[95736]=`<b>ή, όν</b>, qui coopère à, <i>d’où</i> secourable, utile, M. ANT. <i>6, 42</i> ; ARR. <i>Epict. 2, 22, 20</i> ; τὸ σ. ARR. <i>Epict. 4, 4, 18,</i> coopération, assistance.<p><b>Étym</b>. συνεργέω.`

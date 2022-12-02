@@ -1,0 +1,1 @@
+lar[87264]=`<b>πρωτό·τομος, ος, ον</b>, coupé le premier <i>ou</i> pour la première fois, TH. <i>H.P. 4, 14, 6</i> ; ANTH. <i>9, 412</i>.<p><b>Étym</b>. πρ. τέμνω.`

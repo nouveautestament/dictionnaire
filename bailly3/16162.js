@@ -1,0 +1,1 @@
+lar[16162]=`<b>ἀ·στελεχής, ής, ές</b>, sans tronc <i>ou</i> sans tige, TH. <i>H.P. 1, 3, 1</i>.<p><b>Étym</b>. ἀ, στέλεχος.`

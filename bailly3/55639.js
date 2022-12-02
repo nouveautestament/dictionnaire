@@ -1,0 +1,1 @@
+lar[55639]=`<b>κισσο·στέφανος, ος, ον</b> <font color="purple">[ᾰ]</font> couronné de lierre, ANTH. <i>9, 524, 11</i>.<p><b>Étym</b>. κισσός, στέφανος.`

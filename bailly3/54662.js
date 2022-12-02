@@ -1,0 +1,1 @@
+lar[54662]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> coquille d’œuf, LYC. <i>89</i>.<p><b>Étym</b>. κέλυφος.`

@@ -1,0 +1,1 @@
+lar[98266]=`<b>Τεμενῖτις ἄκρα (ἡ)</b> la colline de l’enceinte sacrée, THC. <i>7, 3 ; v</i>. Τεμενίτης.`

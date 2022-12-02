@@ -1,0 +1,1 @@
+lar[19013]=`<font color="purple">[ᾰκ]</font> (<i>seul. prés</i>.) claquer des dents, trembler de froid, HIPPON. <i>fr. 17</i> (PLUT. <i>M. 1058f</i>) ; <i>cf</i>. βαμβαίνω.`

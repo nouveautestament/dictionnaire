@@ -1,0 +1,1 @@
+lar[96728]=`<b>συ·σφάλλομαι</b>, faire glisser ensemble, <i>d’où au pass</i>. glisser <i>ou</i> s’affaisser ensemble, M. TYR. <i>13, 4</i>.`

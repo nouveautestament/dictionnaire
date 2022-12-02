@@ -1,0 +1,1 @@
+lar[77480]=`<b>παχύ·κνημος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux gros mollets <i>ou</i> aux grosses jambes, AR. <i>Pl. 560</i> ; DL. <i>7, 1</i>.<p><b>Étym</b>. π. κνήμη.`

@@ -1,0 +1,1 @@
+lar[17929]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> action de ne pas épargner, <i>d’où</i> :<br><b>      1</b> prodigalité, profusion, PLAT. <i>Def. 412c ;</i> PLUT. <i>M. 762d.</i><br><b>      2</b> traitement rigoureux, NT. <i>Col. 2, 23</i>.<p><b>Étym</b>. ἀφειδής.`

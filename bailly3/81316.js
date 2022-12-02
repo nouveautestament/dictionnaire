@@ -1,0 +1,1 @@
+lar[81316]=`<b>οῦ (ὁ)</b> Potheinos, <i>h</i>. PLUT. <i>Pomp. 77, Ant. 60, etc</i>.<p><b>Étym</b>. <i>v</i>. ποθεινός.`

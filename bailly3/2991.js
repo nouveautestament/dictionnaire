@@ -1,0 +1,1 @@
+lar[2991]=`<font color="purple">[ῐδ]</font> <i>adv</i>., soudainement, THC. <i>2, 53</i>.`

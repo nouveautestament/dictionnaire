@@ -1,0 +1,1 @@
+lar[18835]=`<b>βαθύ·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> de couleur foncée, sombre, DIOSC. <i>5, 109</i>.<p><b>Étym</b>. β. χρόα.`

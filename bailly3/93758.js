@@ -1,0 +1,1 @@
+lar[93758]=`<b>εως (ἡ) :<br>      1</b> concentration de lumière, PLUT. <i>M. 625f.</i><br><b>      2</b> lumière d’un corps qui brille dans toutes ses parties, PLUT. <i>M. 929c, 931a</i>.<p><b>Étym</b>. συλλάμπω.`

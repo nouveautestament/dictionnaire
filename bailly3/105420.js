@@ -1,0 +1,1 @@
+lar[105420]=`<b>φίλ·αγρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la campagne, LUC. <i>Lex. 3</i>.<p><b>Étym</b>. φ. ἀγρός.`

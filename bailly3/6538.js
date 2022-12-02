@@ -1,0 +1,1 @@
+lar[6538]=`<b>εως (ἡ)</b> nouvelle germination, renaissance, TH. <i>H.P. 8, 1, 6</i>.<p><b>Étym</b>. ἀναβλαστάνω.`

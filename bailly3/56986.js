@@ -1,0 +1,1 @@
+lar[56986]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> sorte de petit gâteau, DIOSC. <i>4, 190</i>.<p><b>Étym</b>. κοπτή.`

@@ -1,0 +1,1 @@
+lar[46729]=`<b>Θεό·ξενος, ου (ὁ)</b> Théoxénos :<br><b>      1</b> <i>Athénien,</i> DÉM. <i>22, 60 Baiter-Sauppe</i>.<br><b>      2</b> <i>écrivain,</i> LUC. <i>Scyth. 8</i>.<p><b>Étym</b>. <i>cf</i>. θεοξένιος.`

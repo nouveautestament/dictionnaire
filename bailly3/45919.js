@@ -1,0 +1,1 @@
+lar[45919]=`<b>ωνος (ὁ)</b> Héron, <i>mathématicien d’Alexandrie</i>.`

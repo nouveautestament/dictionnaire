@@ -1,0 +1,1 @@
+lar[84800]=`<b>προ·νύξ</b>, <i>adv</i>., pendant toute la nuit, SIM. AM. <i>fr. 7, 46</i>.<p><b>Étym</b>. π. νύξ.`

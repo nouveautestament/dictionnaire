@@ -1,0 +1,1 @@
+lar[43432]=`<b>εὔ·σκεπτος, ος, ον</b>, facile à examiner, PLAT. <i>Phil. 65d</i>.<p><b>Étym</b>. εὖ, σκέπτομαι.`

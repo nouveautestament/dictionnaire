@@ -1,0 +1,1 @@
+lar[59601]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> λακίζω, ANTIPH. <i>fr. 181 Kock</i> ; POÈT. (LUC. <i>Pisc. 2</i>).`

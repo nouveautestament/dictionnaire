@@ -1,0 +1,1 @@
+lar[41919]=`<i>adv</i>., avec approbation de, <i>dat</i>. POL. <i>18, 34, 10</i>.<p><b>Étym</b>. εὐδοκέω.`

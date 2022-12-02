@@ -1,0 +1,1 @@
+lar[8441]=`<b>ἀν·επικαλύπτως</b> <font color="purple">[κᾰ]</font> <i>adv</i>., sans se cacher, ouvertement, DS. <i>2, 21</i>.<p><b>Étym</b>. ἀν-, ἐπικαλύπτω.`

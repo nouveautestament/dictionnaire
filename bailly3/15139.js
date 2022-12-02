@@ -1,0 +1,1 @@
+lar[15139]=`<i>adv</i>., sans pencher, avec fermeté, PHIL. <i>1, 409</i> ; CLÉM. <i>1, 176 Migne</i> ; CLÉM. <i>60</i>.<p><b>Étym</b>. ἀρρεπής.`

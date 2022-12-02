@@ -1,0 +1,1 @@
+lar[100842]=`<b>ίδος (ἡ)</b> truelle <i>ou</i> cuiller, LUC. <i>Lex. 7</i>.<p><b>Étym</b>. <i>lat</i>. trulla.`

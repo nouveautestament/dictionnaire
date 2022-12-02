@@ -1,0 +1,1 @@
+lar[22261]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> digne d’un Gnathôn, <i>càd</i>. d’un parasite, PLUT. <i>M. 707e</i>.<p><b>Étym</b>. Γνάθων.`

@@ -1,0 +1,1 @@
+lar[102031]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰτ]</font><br><b>      1</b> charge <i>ou</i> fonction de consul, consulat, PLUT. <i>Popl. 10, etc.</i><br><b>      2</b> <i>c</i>. ἀνθυπατεία, APP. <i>Iber. 83</i>.<p><b>Étym</b>. ὑπατεύω.`

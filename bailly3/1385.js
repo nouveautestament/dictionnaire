@@ -1,0 +1,1 @@
+lar[1385]=`<b>ἀ·διαφόρητος, ος, ον :<br>      1</b> qui ne transpire pas, A. TR. <i>2, 7, p. 155</i>.<br><b>      2</b> indifférent, JAMBL. <i>Nicom. ar. 108, 15</i>.<p><b>Étym</b>. ἀδιαφορέω.`

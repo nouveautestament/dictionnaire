@@ -1,0 +1,1 @@
+lar[92581]=`<font color="purple">[ῐᾰ]</font> étendre un lit de feuillage, d’herbe, de paille, DIOSC. <i>3, 29</i>.<p><b>Étym</b>. στιβάς.`

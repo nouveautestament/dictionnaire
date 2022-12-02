@@ -1,0 +1,1 @@
+lar[72342]=`<b>ὁπλο·θήκη, ης (ἡ)</b> dépôt d’armes, arsenal, PLUT. <i>Syll. 14, M. 159e ;</i> EL. <i>V.H. 6, 12</i> ; SPT. <i>2Par. 32, 27</i>.<p><b>Étym</b>. ὅπλ. θήκη.`

@@ -1,0 +1,1 @@
+lar[91009]=`<b>ης (ἡ)</b> Skiônè, <i>v. de Thrace,</i> HDT. <i>7, 123</i> ; THC. <i>4, 120, etc.</i> ; AR. <i>Vesp. 210</i>.`

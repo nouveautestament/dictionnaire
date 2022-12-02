@@ -1,0 +1,1 @@
+lar[64988]=`<b>μετα·συγκρίνω</b> <font color="purple">[ῑ]</font> renouveler <i>ou</i> rafraîchir le corps par l’évacuation des humeurs, GAL. <i>10, 86</i> ; P. ÉG. <i>3, 63</i>.`

@@ -1,0 +1,1 @@
+lar[16293]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> inaptitude au commandement d’une armée, DH. <i>9, 31</i>.<p><b>Étym</b>. ἀστρατήγητος.`

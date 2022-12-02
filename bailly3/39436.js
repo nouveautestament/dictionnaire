@@ -1,0 +1,1 @@
+lar[39436]=`<b>ἐπί·τιμος, ος, ον</b> <font color="purple">[τῑ]</font> honoré, <i>particul. à Athènes,</i> qui jouit de tous ses droits et privilèges, <i>p. opp. à</i> ἄτιμος, THC. <i>5, 34</i> ; XÉN. <i>Hell. 2, 2, 10</i> ; AR. <i>Ran. 702</i> ; χρήματα ἐπίτιμα, DÉM. <i>634, 13,</i> propriété non confisquée (bien que le propriétaire soit en exil).<p><b>Étym</b>. ἐπί, τιμή.`

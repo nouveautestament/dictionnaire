@@ -1,0 +1,1 @@
+lar[51870]=`<b>ου (τὸ) :<br>      1</b> petit fruit, TH. <i>Od. 32</i>.<br><b>      2</b> ellébore, HIPPIATR. <i>p. 43, 15</i>.<p><b>Étym</b>. <i>dim. de</i> καρπός.`

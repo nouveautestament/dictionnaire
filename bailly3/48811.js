@@ -1,0 +1,1 @@
+lar[48811]=`<b>α, ον</b> <font color="purple">[ῐκ]</font> protecteur des suppliants, OD. <i>13, 213</i>.<p><b>Étym</b>. ἱκέτης.`

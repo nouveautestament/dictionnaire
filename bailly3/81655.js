@@ -1,0 +1,1 @@
+lar[81655]=`<b>Πόλλιος οἶνος (ὁ)</b> <i>vin d’un lieu inconnu, près de Syracuse,</i> EL. <i>V.H. 12, 31</i>.`

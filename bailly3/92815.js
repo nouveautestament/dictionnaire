@@ -1,0 +1,1 @@
+lar[92815]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) avoir envie de faire une expédition, DC. <i>53, 25 ; fr. 40, 33</i>.<p><b>Étym</b>. στρατεύω.`

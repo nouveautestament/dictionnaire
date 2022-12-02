@@ -1,0 +1,1 @@
+lar[93002]=`<b>ων (αἱ)</b> <font color="purple">[ᾰ]</font> les Strophades (<i>auj</i>. Strofádes <i>ou</i> Strofádia) <i>n. de deux î. de la mer Ionienne,</i> A.RH. <i>2, 297</i> ; ANTH. <i>App. 251, etc</i>.<p><b>Étym</b>. <i>pl. de</i> στροφάς.`

@@ -1,0 +1,1 @@
+lar[19536]=`<b>ῖδος</b>, <i>acc</i>. <b>ῖν (ἡ)</b> Bendis, <i>n. d’Artémis en Thrace, honorée aussi sous ce nom au Pirée,</i> LUC. <i>J. tr. 8</i>.<p><b>Étym</b>. <i>p.-ê. c</i>. Μενδῖς.`

@@ -1,0 +1,1 @@
+lar[14522]=`<b>ης (ἡ)</b> <font color="purple">[ᾱ]</font> Arètè :<br><b>      1</b> <i>femme d’Alkinoos, roi des Phéaciens,</i> OD. <i>7, 54</i>.<br><b>      2</b> <i>autres,</i> EL. <i>V.H. 12, 47, etc</i>.`

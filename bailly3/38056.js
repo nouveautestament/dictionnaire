@@ -1,0 +1,1 @@
+lar[38056]=`<b>ίτιδος</b> <font color="purple">[ῑτ]</font> <i>adj. f. c</i>. ἐπίκληρος IS. (HARP.).`

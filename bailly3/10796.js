@@ -1,0 +1,1 @@
+lar[10796]=`<i>att</i>. <b>ἁνυστικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui conduit à un résultat, efficace, ARSTT. <i>Physiogn. 6, 44</i> ; POL. <i>8, 5, 3</i>.<p>•<i> Cp</i>. -ώτερος, POL. <i>l. c. ; • Sup</i>. -ώτατος, JOS. <i>B.J. 1, 17, 8 (var</i>. ἀνυτικωτάτους).<p><b>Étym</b>. ἀνυστός.`

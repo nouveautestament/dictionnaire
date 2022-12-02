@@ -1,0 +1,1 @@
+lar[10873]=`<i>adv</i>., inutilement, ARSTT. <i>Nic. 1, 3, 6</i>.<p><b>Étym</b>. ἀνωφελής.`

@@ -1,0 +1,1 @@
+lar[86785]=`<b>προ·τίκτω</b>, enfanter auparavant, HPC. <i>262, 16</i>.`

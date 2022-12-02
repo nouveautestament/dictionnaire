@@ -1,0 +1,1 @@
+lar[88188]=`<i>adv</i>., avec véhémence, brusquement, PLUT. <i>M. 418e</i>.<p><b>Étym</b>. ῥάγδος.`

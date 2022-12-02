@@ -1,0 +1,1 @@
+lar[63140]=`<b>ματαιο·πονέω-ῶ</b> <font color="purple">[ᾰ]</font> se donner une peine inutile, perdre sa peine, POL. <i>9, 2, 2, etc</i>.<p><b>Étym</b>. ματαιοπόνος.`

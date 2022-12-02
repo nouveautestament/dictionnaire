@@ -1,0 +1,1 @@
+lar[62647]=`<b>μαλακό·ψυχος, ος, ον</b> <font color="purple">[ᾰᾰῡ]</font> qui a l’âme faible, qui est pusillanime, CHRYS. <i>2, 552</i>.<p><b>Étym</b>. μαλακός, ψυχή.`

@@ -1,0 +1,1 @@
+lar[88403]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit cours d’eau, ruisseau, ARSTT. <i>Probl. 11, 18</i> ; PLUT. <i>Thes. 27</i>.<p><b>Étym</b>. <i>dim. de</i> ῥεῦμα.`

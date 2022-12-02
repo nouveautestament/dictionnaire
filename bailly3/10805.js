@@ -1,0 +1,1 @@
+lar[10805]=`<b>ατος (τὸ)</b> exhaussement, élévation, ES.<p><b>Étym</b>. ἀνυψόω.`

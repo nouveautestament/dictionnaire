@@ -1,0 +1,1 @@
+lar[10416]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> qui est d’un parti contraire, adversaire politique, JOS. <i>B.J. 1, 4, 6</i> ; DC. <i>73, 4</i>.<p><b>Étym</b>. ἀντιστασιάζω.`

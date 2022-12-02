@@ -1,0 +1,1 @@
+lar[67532]=`<font color="darkgreen">(<i>seul. impér. prés. 2 sg</i>. μώεο)</font> <i>c</i>. μῶμαι, EPICH. (XÉN. <i>Mem. 2, 1, 20</i>).`

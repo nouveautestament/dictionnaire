@@ -1,0 +1,1 @@
+lar[27049]=`<b>δισσό·πους, ποδος (ὁ, ἡ)</b> à deux pieds, ORACL. (PORPH. <i>dans</i> EUS. <i>P.E. 121b, 201c</i>).<p><b>Étym</b>. δισσός, πούς.`

@@ -1,0 +1,1 @@
+lar[84280]=`<b>προ·ευδοκιμέω-ῶ</b> <font color="purple">[ῐ]</font> avoir une bonne réputation antérieurement acquise : τὸ προευδοκιμοῦν, DC. <i>39, 25,</i> bonne renommée acquise ; οἱ προευδοκιμηκότες, DH. <i>Rhet. 5, 6,</i> hommes déjà illustres.`

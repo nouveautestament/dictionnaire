@@ -1,0 +1,1 @@
+lar[1182]=`<b>ἄ·δασμος, ος, ον</b>, exempt de tribut, ESCHL. <i>fr. 54</i>.<p><b>Étym</b>. ἀ, δασμός.`

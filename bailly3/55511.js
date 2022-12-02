@@ -1,0 +1,1 @@
+lar[55511]=`<b>α, ον</b> <font color="purple">[ῑ]</font> <i>vb. de</i> κινέω, PLAT. <i>Amat. 134a ;</i> ARSTT. <i>Pol. 2, 8 ; au neutre,</i> PLAT. <i>Rsp. 373a, etc</i>.`

@@ -1,0 +1,1 @@
+lar[2566]=`<b>αἱματ·ωπός, ός, όν</b> <font color="purple">[ᾰ]</font> au regard sanguinaire, EUR. <i>Or. 256, Ph. 870</i>.<p><b>Étym</b>. αἷ. ὤψ.`

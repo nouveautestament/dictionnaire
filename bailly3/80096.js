@@ -1,0 +1,1 @@
+lar[80096]=`<b>ου (τὸ)</b> Pèlousion (Péluse, <i>auj</i>. ruines près de Baloza) <i>v. d’Égypte à l’embouchure du Nil,</i> HDT. <i>2, 141</i> ; ARSTT. <i>H.A. 9, 27</i> ; PLUT. <i>Pomp. 77, etc</i>.`

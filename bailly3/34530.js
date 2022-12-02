@@ -1,0 +1,1 @@
+lar[34530]=`<b>ος, ον</b>, introduit, inséré, THGN. <i>435</i>.<p><b>Étym</b>. ἐντίθημι.`

@@ -1,0 +1,1 @@
+lar[70948]=`<b>ὀλεσί·πτολις, εως (ὁ, ἡ)</b> qui ruine <i>ou</i> détruit une ville <i>ou</i> des villes, TRIPHIOD. <i>453, 583</i>.<p><b>Étym</b>. ὄλλυμι, πτόλις.`

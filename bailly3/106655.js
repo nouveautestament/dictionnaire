@@ -1,0 +1,1 @@
+lar[106655]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en portant <i>ou</i> en étant porté, <i>càd</i>. en chaise, en litière, EUR. <i>Andr. 1166, Rhes. 888</i> ; DÉM. <i>1263, 11</i> ; PLUT. <i>Cor. 24, etc.</i><br><b>      2</b> par un transport rapide, vivement, SOPH. <i>O.R. 1310</i>.<p><b>Étym</b>. φορά, -δην.`

@@ -1,0 +1,1 @@
+lar[83814]=`<b>προ·βοάω-οῶ :<br>      1</b> crier en avant, <i>càd</i>. à haute voix, IL. <i>12, 277</i> ; SOPH. <i>Ph. 218</i>.<br><b>      2</b> proclamer, BAS.`

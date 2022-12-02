@@ -1,0 +1,1 @@
+lar[62887]=`<b>μαραθωνο·μάχος, ου (ὁ)</b> <font color="purple">[ᾰᾰᾰ]</font> combattant de Marathon, <i>càd</i>. brave guerrier, AR. <i>Nub. 986</i>.<p><b>Étym</b>. Μαραθών, μάχομαι.`

@@ -1,0 +1,1 @@
+lar[40086]=`<b>ἐπ·ώμιος, ος, ον</b>, placé sur l’épaule, LUC. <i>Am. 44</i> ; ALCIPHR. <i>1, 1</i>.<p><b>Étym</b>. ἐπί, ὦμος.`

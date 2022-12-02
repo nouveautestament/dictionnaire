@@ -1,0 +1,1 @@
+lar[33583]=`<b>ης (ἡ)</b> Empousa :<br><b>      1</b> <i>spectre envoyé par Hékatè,</i> AR. <i>Ran. 293, Eccl. 1056</i> ; DÉM. <i>270, 25</i>.<br><b>      2</b> <i>Hékatè elle-même,</i> AR. <i>fr. 426</i>.`

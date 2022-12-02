@@ -1,0 +1,1 @@
+lar[44306]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> facile à cuire, HPC. <i>641, 45</i> ; ARSTT. <i>Probl. 20, 4, 5</i> ; DIOSC. <i>2, 129</i> ; τὰ ἑψανά, DIOCL. (ATH. <i>68e</i>) <i>c</i>. ἑψήματα.<p><b>Étym</b>. ἕψω.`

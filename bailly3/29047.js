@@ -1,0 +1,1 @@
+lar[29047]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec confusion, avec trouble, CLÉM. <i>197, 36 Sylb</i>.`

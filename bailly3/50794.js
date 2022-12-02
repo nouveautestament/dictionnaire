@@ -1,0 +1,1 @@
+lar[50794]=`<b>κακό·νομος, ος, ον</b> <font color="purple">[ᾰ]</font> régi par de mauvaises lois, HDT. <i>1, 65</i>.<p>•<i> Sup</i>. -ώτατος, PHIL. <i>p. 864</i>.<p><b>Étym</b>. κ. νόμος.`

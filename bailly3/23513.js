@@ -1,0 +1,1 @@
+lar[23513]=`<i>adv</i>., de façon à démontrer, par une preuve directe, ARSTT. <i>An. pr. 1, 7, 3</i> ; PLUT. <i>M. 747c ;</i> DYSC. <i>Pron. 271a, 301c</i>.`

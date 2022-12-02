@@ -1,0 +1,1 @@
+lar[22594]=`<b>γραμματο·φύλαξ, ακος (ὁ)</b> <font color="purple">[μᾰῠᾰκ]</font> gardien d’archives, archiviste, INSCR.`

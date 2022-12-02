@@ -1,0 +1,1 @@
+lar[57865]=`<i>adv</i>., vers la Crète <i>ou</i> en Crète, <i>avec mouv</i>. OD. <i>19, 186</i>.<p><b>Étym</b>. Κρήτη, -δε.`

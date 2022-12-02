@@ -1,0 +1,1 @@
+lar[13008]=`<b>ἀπο·ξύρω</b>, raser, POLYEN <i>1, 24 ; au pass</i>. DC. <i>57, 10</i>.<br><b><i>Moy.</i></b> se faire raser (la tête) PLUT. <i>Oth. 2</i>.`

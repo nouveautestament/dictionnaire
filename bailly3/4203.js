@@ -1,0 +1,1 @@
+lar[4203]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. Ἤλεκτραι.`

@@ -1,0 +1,1 @@
+lar[50073]=`<b>ἰχθυο·τρόφος, ος, ον</b>, qui nourrit des poissons, abondant en poissons, PLUT. <i>Luc. 39</i>.<p><b>Étym</b>. ἰ. τρέφω.`

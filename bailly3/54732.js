@@ -1,0 +1,1 @@
+lar[54732]=`<b>ίδος</b> <font color="purple">[ῐδ]</font><br><b>   I</b> <i>adj. f.</i> :<br><b>      1</b> de centaure, <i>càd</i>. grossière, brutale, NONN. <i>D. 13, 44</i>.<br><b>      2</b> femme de centaure, PHILSTR. <i>p. 813</i>.<br><b>   II</b> <i>subst</i>. ἡ κ. centaurée, <i>plante,</i> TH. <i>H.P. 9, 8, 7</i>.<p><b>Étym</b>. Κένταυρος.`

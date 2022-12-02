@@ -1,0 +1,1 @@
+lar[74707]=`<b>Παμ·μένης, ους (ὁ)</b> Pamménès, <i>h</i>. DÉM. <i>21, 22, etc. Baiter-Sauppe</i> ; PLUT. <i>Pel. 18, etc</i>.<p>➳ <i>Acc</i>. -ην, PAUS. <i>8, 27, 2, etc. ; ou</i> -η, DS. <i>16, 34, etc</i>.<p><b>Étym</b>. π. μένω.`

@@ -1,0 +1,1 @@
+lar[13004]=`<b>ἀπ·οξύνω :<br>      1</b> amincir par le bout, aiguiser, <i>acc</i>. LUC. <i>D. mar. 2, 2 ; fig</i>. ἀπ. φωνήν, PLUT. <i>T. Gracch. 2,</i> rendre la voix aiguë, perçante.<br><b>      2</b> rendre acide, ANTYLL. <i>106, 21</i>.<p>➳ <i>Part. pf. pass</i>. ἀπωξυσμένος, POL. <i>1, 22, 7, ou</i> ἀπωξυμμένος, POL. <i>18, 1, 13</i>.`

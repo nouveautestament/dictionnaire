@@ -1,0 +1,1 @@
+lar[81881]=`<b>πολυ·εμέω-ῶ</b>, vomir abondamment, GAL.<p><b>Étym</b>. π. ἐ.`

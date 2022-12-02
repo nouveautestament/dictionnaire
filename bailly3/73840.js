@@ -1,0 +1,1 @@
+lar[73840]=`<b>όεσσα, όεν</b> <font color="purple">[ο̄φ]</font> infesté de serpents, ANTIM. <i>78 Kinkel ; subst</i>. ἡ Ὀφιοῦσα (<i>s.-e</i>. νῆσος) l’î. aux serpents, <i>càd</i>. Kythnos, ARSTT. <i>fr. 479</i>.<p>➳ Sur <font color="purple">[ο̄φ]</font> <i>cf</i>. ὄφις.<p><b>Étym</b>. ὄφις.`

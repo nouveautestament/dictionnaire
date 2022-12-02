@@ -1,0 +1,1 @@
+lar[7020]=`<b>ή, όν</b>, propre à ranimer, DIOSC. <i>2, 163</i>.`

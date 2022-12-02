@@ -1,0 +1,1 @@
+lar[44754]=`<b>ή, όν</b>, qui concerne la chasse aux animaux, PLAT. <i>Soph. 221b ;</i> ἡ ζῳοθηρική, <i>Soph. 222a</i>, la chasse aux animaux.<p><b>Étym</b>. ζῳοθηρία.`

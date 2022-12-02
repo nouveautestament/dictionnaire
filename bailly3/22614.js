@@ -1,0 +1,1 @@
+lar[22614]=`<b>ου (ὁ)</b> Grasos, <i>plaine près de Troie,</i> NIC. <i>Th. 669</i>.`

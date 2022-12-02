@@ -1,0 +1,1 @@
+lar[57950]=`<b>κριό·μυξος, ος, ον</b> <font color="purple">[ῑ]</font> morveux comme un bélier, CERCID. (GAL. <i>10, 137).</i><p><b>Étym</b>. κριός, μύξα.`

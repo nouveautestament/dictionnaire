@@ -1,0 +1,1 @@
+lar[99469]=`<b>τοιγάρ·τοι</b>, <i>renforcement de</i> τοιγάρ, <i>touj. au commenc. d’une phrase,</i> ESCHL. <i>Suppl. 655</i> ; PLAT. <i>Phæd. 82d, Gorg. 471c, etc</i>.`

@@ -1,0 +1,1 @@
+lar[24617]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. διάζευξις, ANTH. <i>5, 9</i>.`

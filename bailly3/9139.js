@@ -1,0 +1,1 @@
+lar[9139]=`<i>2 sg. impér. prés. moy. ou impf. moy. de</i> ἀνίστημι.`

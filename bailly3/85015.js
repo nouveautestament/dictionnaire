@@ -1,0 +1,1 @@
+lar[85015]=`<b>προ·πράτωρ, ορος (ὁ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. προπράτης DIN. <i>et</i> IS. (POLL. <i>7, 11</i>).`

@@ -1,0 +1,1 @@
+lar[96391]=`<b>συν·τύραννος, ου (ὁ)</b> tyran <i>ou</i> roi avec un autre, PLUT. <i>M. 105b</i>.<p><b>Étym</b>. σύν, τύραννος.`

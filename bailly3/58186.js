@@ -1,0 +1,1 @@
+lar[58186]=`<font color="purple">[ῠ]</font> <i>adv. c</i>. κρυφῇ, en cachette, en secret, OD. <i>14, 330 ; 19, 299</i> ; Q. SM. <i>14, 60</i>.<p><b>Étym</b>. κρύπτω, -δον.`

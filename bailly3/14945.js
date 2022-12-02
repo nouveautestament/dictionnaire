@@ -1,0 +1,1 @@
+lar[14945]=`<b>ας (ἡ)</b> peau d’agneau, HDN GR. <i>Philet. p. 404 Pierson</i>.<p><b>Étym</b>. ἀρήν.`

@@ -1,0 +1,1 @@
+lar[108458]=`<b>ύος (ἡ)</b> <font color="purple">[χῑ]</font> corps de mille hommes, XÉN. <i>Cyr. 2, 4, 3 ; 6, 3, 13 et 31 ; 7, 5, 17, etc</i>.<p><b>Étym</b>. χιλιοστός.`

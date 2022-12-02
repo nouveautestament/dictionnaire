@@ -1,0 +1,1 @@
+lar[21739]=`<b>γεόομαι-γεοῦμαι</b> <font color="darkgreen">(<i>seul. part. ao. pass</i>. γεωθείς)</font> devenir terre, se changer en terre, DS. <i>3, 40</i> ; NYSS. <i>2, 233d Migne</i>.<p><b>Étym</b>. γῆ.`

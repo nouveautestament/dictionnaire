@@ -1,0 +1,1 @@
+lar[38735]=`<b>ἐπίπλοον-ουν, όου-ου (τὸ)</b> membrane qui recouvre les intestins, épiploon, HPC. <i>Aph. 1254</i> ; ARSTT. <i>H.A. 1, 16, 18, etc</i>.<p><b>Étym</b>. ἐπίπλοος¹.`

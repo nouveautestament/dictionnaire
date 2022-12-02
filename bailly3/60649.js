@@ -1,0 +1,1 @@
+lar[60649]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. seul. au pl</i>. αἱ Λευκτρίδες, les Leuctrides, <i>filles de Stédasos,</i> PLUT. <i>Pel. 20</i>.`

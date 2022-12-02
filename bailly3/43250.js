@@ -1,0 +1,1 @@
+lar[43250]=`<b>Εὐρυ·βία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Eurybia, <i>f</i>. HÉS. <i>Th. 375</i>.<p><b>Étym</b>. εὐ. βία.`

@@ -1,0 +1,1 @@
+lar[32360]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> action d’échapper par la fuite, fuite, SPT. <i>3Macc. 4, 19</i>.<p><b>Étym</b>. ἐκφεύγω.`

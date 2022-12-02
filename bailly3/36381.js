@@ -1,0 +1,1 @@
+lar[36381]=`<b>ἔπ·αγρος, ος, ον</b> <font color="purple">[ᾰ]</font> heureux à la chasse, ARSTT. <i>H.A. 9, 18</i>.<p><b>Étym</b>. ἐπί, ἄγρα.`

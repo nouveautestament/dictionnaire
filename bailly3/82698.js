@@ -1,0 +1,1 @@
+lar[82698]=`<b>ποντό·βροχος, ος, ον</b>, trempé <i>ou</i> plongé dans la mer, SPT. <i>3Macc. 6, 4</i>.<p><b>Étym</b>. πόντος, βρέχω.`

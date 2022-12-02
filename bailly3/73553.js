@@ -1,0 +1,1 @@
+lar[73553]=`<b>οὐλο·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> offert avec la tête entière, <i>en parl. d’une victime,</i> HH. <i>Merc. 137</i>.<p><b>Étym</b>. οὖλος¹, κάρηνον.`

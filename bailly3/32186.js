@@ -1,0 +1,1 @@
+lar[32186]=`<b>ου (ὁ) :<br>      1</b> castrat, eunuque, HDT. <i>3, 92 ; 6, 9</i>.<br><b>      2</b> animal châtré (bœuf, <i>etc</i>.) ARSTT. <i>Probl. 10, 57</i> ; LUC. <i>Cron. 12</i>.<p><b>Étym</b>. ἐκτομή.`

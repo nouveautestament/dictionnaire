@@ -1,0 +1,1 @@
+lar[44714]=`<b>ου (ὁ)</b> Zôïlos (Zoïle) <i>célèbre critique et détracteur d’Homère</i>, PLUT. <i>Qu. conv. 5, 4, 2</i>.`

@@ -1,0 +1,1 @@
+lar[107719]=`<b>χαλκό·φωνος, ου (ὁ)</b> sorte de pierre qui a un son métallique, PLIN. <i>H.N. 37, 10, 56</i>.`

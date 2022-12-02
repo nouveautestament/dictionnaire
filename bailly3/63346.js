@@ -1,0 +1,1 @@
+lar[63346]=`<b>μεγαλο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui a de grands sentiments, magnanime, XÉN. <i>Œc. 21, 8</i> ; τὸ μεγαλογνῶμον, XÉN. <i>Ages. 9, 6,</i> la magnanimité.<p><b>Étym</b>. μ. γνώμη.`

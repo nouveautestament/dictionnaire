@@ -1,0 +1,1 @@
+lar[47208]=`<b>θηλυτοκέω-ῶ</b> <font color="purple">[ῠ]</font> mettre au monde des enfants <i>ou</i> des petits du sexe féminin, HPC. <i>233</i> ; ARSTT. <i>H.A. 6, 19, 4 ; G.A. 4, 1, 22</i>.<p><b>Étym</b>. θηλυτόκος.`

@@ -1,0 +1,1 @@
+lar[74831]=`<b>πάν·αισχρος, ος, ον</b> <font color="purple">[ᾰν]</font> tout à fait honteux, D. CHR. <i>1, 584</i>.<p>•<i> Sup</i>. παναίσχιστος, ANTH. <i>6, 163</i>.<p><b>Étym</b>. π. αἰσχρός.`

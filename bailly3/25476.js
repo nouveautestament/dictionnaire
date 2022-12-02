@@ -1,0 +1,1 @@
+lar[25476]=`<b>διά·ρρομβος, ος, ον</b>, qui a la forme d’un losange, HIPPIATR. <i>p. 197</i>.<p><b>Étym</b>. διά, ῥόμβος.`

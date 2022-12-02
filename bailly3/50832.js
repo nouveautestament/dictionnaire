@@ -1,0 +1,1 @@
+lar[50832]=`<b>ης (ἡ)</b> <font color="purple">[κᾰ]</font> méchanceté, DÉM. <i>800, 17</i> ; POL. <i>4, 23, 8, etc</i>.<p><b>Étym</b>. κακοπράγμων.`

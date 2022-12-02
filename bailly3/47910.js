@@ -1,0 +1,1 @@
+lar[47910]=`<font color="purple">[ῡᾱ]</font> <i>c</i>. θυμιάω, GEOP. <i>6, 13, 2</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. GEOP. <i>6, 12, 1</i>.`

@@ -1,0 +1,1 @@
+lar[59827]=`<b>λαο·τόμος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> tailleur de pierres, MAN. <i>4, 325 ; 6, 416</i> ; P. SIL. <i>Ecphr. amb. 116, 139</i>.<p><b>Étym</b>. λ. τέμνω.`

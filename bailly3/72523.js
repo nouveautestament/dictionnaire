@@ -1,0 +1,1 @@
+lar[72523]=`<font color="purple">[ᾰ]</font> munir d’organes, HPC. <i>1, 165 Lind</i>.<p><b>Étym</b>. ὄργανον.`

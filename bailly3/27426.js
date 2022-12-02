@@ -1,0 +1,1 @@
+lar[27426]=`<font color="purple">[ῐ]</font> faire une longue course, ANTH. <i>11, 82</i> ; δ. πολλοὺς πλοῦς, EL. (SUID.) fournir de nombreuses traversées ; <i>fig</i>. δ. τὸν τῆς φύσεως δρόμον, PHIL. <i>1, 9,</i> prolonger le cours naturel de l’existence ; δ. τὸν αἰῶνα, PHIL. <i>2, 198,</i> prolonger le temps.<p><b>Étym</b>. δόλιχος <i>ou</i> δολιχός.`

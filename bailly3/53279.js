@@ -1,0 +1,1 @@
+lar[53279]=`<b>ής, ές</b>, qui découle, qui tombe, SOPH. <i>Ant. 1010</i>.<p><b>Étym</b>. καταρρέω.`

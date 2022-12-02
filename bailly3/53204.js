@@ -1,0 +1,1 @@
+lar[53204]=`<b>εως (ἡ)</b> <font color="purple">[τᾱᾱ]</font> malédiction, SPT. <i>Num. 23, 11 ; Jer. 39, 12</i>.<p><b>Étym</b>. καταράομαι.`

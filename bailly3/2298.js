@@ -1,0 +1,1 @@
+lar[2298]=`<b>ή, όν</b>, qui concerne la chasse aux chèvres <i>ou</i> aux chamois, EL. <i>N.A. 14, 16</i>.<p><b>Étym</b>. <i>v</i>. αἰγοθήρας.`

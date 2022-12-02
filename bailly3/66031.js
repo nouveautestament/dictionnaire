@@ -1,0 +1,1 @@
+lar[66031]=`<b>μισό·θηρος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait la chasse : τὸ μ. aversion pour la chasse, XÉN. <i>Cyn. 3, 9</i>.<p><b>Étym</b>. μ. θήρα.`

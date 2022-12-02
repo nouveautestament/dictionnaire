@@ -1,0 +1,1 @@
+lar[100486]=`<font color="purple">[ᾰκῐ]</font> <i>adv</i>., trois fois, ANTH. <i>5, 195</i>.<p><b>Étym</b>. τρισσός, -άκις.`

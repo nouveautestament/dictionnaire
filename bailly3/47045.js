@@ -1,0 +1,1 @@
+lar[47045]=`<b>θεσπιῳδέω-ῶ :<br>      1</b> être prophète, rendre un oracle, ESCHL. <i>Ag. 1161</i> ; EUR. <i>Ph. 969</i> ; AR. <i>Pl. 9</i> ; LUC. <i>C. deor. 12, etc.</i> ; τι, POSIDON. (ATH. <i>213b</i>) faire une prédiction.<br><b>      2</b> chanter par une inspiration divine, PLAT. <i>Ax. 367d</i>.<p><b>Étym</b>. θεσπιῳδός.`

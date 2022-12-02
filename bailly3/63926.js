@@ -1,0 +1,1 @@
+lar[63926]=`<b>μελαν·ωπός, ός, όν</b> <font color="purple">[ᾰ]</font> à l’œil noir, M. SID. <i>64</i>.<p><b>Étym</b>. μ. ὤψ.`

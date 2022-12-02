@@ -1,0 +1,1 @@
+lar[38222]=`<b>ἐπι·κυλίω :<br>      1</b> faire rouler sur, <i>dat</i>. POL. <i>3, 53, 4</i> ; DS. <i>19, 19 ; au pass</i>. rouler sur, <i>dat</i>. PLUT. <i>M. 831e ;</i> τὰ ἐπικυλιόμενα, APD. POL. matériel de siège roulant.<br><b>      2</b> faire rouler vers, <i>d’où au pass</i>. rouler vers, dégénérer en, <i>avec</i> εἰς <i>et l’acc</i>. GAL. <i>19, 560</i>.`

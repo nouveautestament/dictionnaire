@@ -1,0 +1,1 @@
+lar[93716]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰῐ]</font> « le fils du mangeur de figues », HIPPON. <i>fr. 134</i> ; ARCHIL. <i>183</i>.<p><b>Étym</b>. <i>patron. com. de</i> συκοτράγος.`

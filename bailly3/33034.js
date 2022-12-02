@@ -1,0 +1,1 @@
+lar[33034]=`<b>ας (ἡ)</b> l’Élymæe, <i>contrée de Susiane,</i> EL. <i>N.A. 12, 23</i>.`

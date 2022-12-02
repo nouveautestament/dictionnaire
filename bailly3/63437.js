@@ -1,0 +1,1 @@
+lar[63437]=`<b>μεγαλό·σφυκτος, ος, ον</b> <font color="purple">[ᾰ]</font> dont le pouls est fort, GAL. <i>2, 387, 412</i>.<p><b>Étym</b>. μ. σφύζω.`

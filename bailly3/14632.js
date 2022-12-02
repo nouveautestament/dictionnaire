@@ -1,0 +1,1 @@
+lar[14632]=`<b>ης (ἡ)</b> Arisba, <i>v. de Lesbos,</i> HDT. <i>1, 151</i>.`

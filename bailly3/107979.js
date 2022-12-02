@@ -1,0 +1,1 @@
+lar[107979]=`<b>ῶντος (ὁ)</b> Kharnabôn, <i>roi des Gètes,</i> SOPH. <i>fr. 528</i>.`

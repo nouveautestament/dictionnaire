@@ -1,0 +1,1 @@
+lar[74370]=`<b>ου (ὁ)</b> = Pætus, <i>n. d’h. rom</i>. LUC. <i>Alex. 60</i>.`

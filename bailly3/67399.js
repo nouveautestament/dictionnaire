@@ -1,0 +1,1 @@
+lar[67399]=`<font color="purple">[ῠ]</font> <i>vb. de</i> μυσάττω, ORIB. <i>p. 183 Mai</i>.`

@@ -1,0 +1,1 @@
+lar[104273]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> teinture écarlate <i>ou</i> d’un pourpre vif, NIC. <i>Th. 511</i> ; ANTH. <i>6, 254</i>.`

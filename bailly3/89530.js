@@ -1,0 +1,1 @@
+lar[89530]=`<b>ῶν (οἱ)</b> les Sattagydes, <i>pple persan,</i> HDT. <i>3, 91</i>.`

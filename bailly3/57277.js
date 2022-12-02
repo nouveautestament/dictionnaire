@@ -1,0 +1,1 @@
+lar[57277]=`<b>κοσμο·κράτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> maître du monde, ORPH. <i>H. 8, 11, 11, 11</i> ; NT. <i>Eph. 6, 12</i>.<p><b>Étym</b>. κόσμος, κρατέω.`

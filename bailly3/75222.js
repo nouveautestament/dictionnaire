@@ -1,0 +1,1 @@
+lar[75222]=`<b>πάν·τευχος, ος, ον</b>, armé de toutes pièces, ORACL. (DAM. <i>de Princ. p. 196).</i><p><b>Étym</b>. π. τεῦχος.`

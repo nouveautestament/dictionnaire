@@ -1,0 +1,1 @@
+lar[77109]=`<b>παρ·ορμίζω</b> <font color="darkgreen">(<i>f</i>. ιῶ)</font> faire aborder (un navire), LYS. <i>132, 6</i>.`

@@ -1,0 +1,1 @@
+lar[32711]=`<b>Ἐλευθερο·κίλικες, ων (οἱ)</b> <font color="purple">[κῐ]</font> habitants de la Cilicie indépendante, DS. <i>3, 55</i> ; CIC. <i>Att. 5, 20 ; Fam. 15, 4</i>.<p><b>Étym</b>. Ἐλευθέρα Κιλικία.`

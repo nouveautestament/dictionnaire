@@ -1,0 +1,1 @@
+lar[85535]=`<b>προσ·εκταράσσω</b> <font color="purple">[τᾰ]</font> troubler en outre <i>ou</i> encore plus, PLUT. <i>M. 463f ;</i> DC. <i>61, 8</i>.`

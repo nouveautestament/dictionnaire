@@ -1,0 +1,1 @@
+lar[77015]=`<b>παρ·οδύρομαι</b> <font color="purple">[ῡ]</font> pleurer sur, déplorer, <i>acc</i>. DC. <i>43, 19</i>.`

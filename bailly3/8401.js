@@ -1,0 +1,1 @@
+lar[8401]=`<b>ἀν·επαίσχυντος, ος, ον</b>, irrépréhensible, qui n’a pas à rougir, NT. <i>2Tim. 2, 15</i>.<p><b>Étym</b>. ἀν-, ἐπαισχύνομαι.`

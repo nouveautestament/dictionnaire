@@ -1,0 +1,1 @@
+lar[11926]=`<b>ἀπ·ήορος, ος, ον</b>, <i>litt</i>. qui se lève loin de, <i>d’où</i> qui apparaît <i>ou</i> se tient à distance de, <i>gén</i>. ARAT. <i>396, 895</i>.<p>➳ <i>Dor</i>. ἀπάορος <font color="purple">[πᾱ]</font> PD. <i>P. 8, 90</i> ; ἀπήωρος.<p><b>Étym</b>. ἀπό, ἀείρω.`

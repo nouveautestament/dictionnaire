@@ -1,0 +1,1 @@
+lar[24860]=`<b>ων (οἱ)</b> les Montagnards, <i>l’un des trois partis politiques d’Athènes, après Solon,</i> AR. <i>Vesp. 1223</i> ; PLUT. <i>Sol. 13</i> (Διακρία, la Diakrie, <i>lieu d’Athènes,</i> HSCH. <i>de</i> διά, ἄκρος).`

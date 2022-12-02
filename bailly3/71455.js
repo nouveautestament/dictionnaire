@@ -1,0 +1,1 @@
+lar[71455]=`<b>ὁμο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui est du même avis, THC. <i>8, 92</i> ; ὁ. τινί, XÉN. <i>Hell. 2, 3, 15, etc</i>. uni de cœur et de sentiments avec qqn.<p><b>Étym</b>. ὁμ. γνώμη.`

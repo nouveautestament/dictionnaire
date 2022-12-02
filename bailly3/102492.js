@@ -1,0 +1,1 @@
+lar[102492]=`<b>ὑπέρ·ηδυς, υς, υ</b>, <i>seul</i>. <i>• Sup</i>. ὑπερήδιστος, extrêmement agréable, LUC. <i>Tim. 41</i>.<p><b>Étym</b>. ὑ. ἡδύς.`

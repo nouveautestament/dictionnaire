@@ -1,0 +1,1 @@
+lar[89301]=`<font color="purple">[δᾰᾰ]</font> avoir la couleur de l’arsenic rouge, DIOSC. <i>5, 121</i>.<p><b>Étym</b>. σανδαράχη.`

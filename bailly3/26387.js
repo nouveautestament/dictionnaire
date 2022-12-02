@@ -1,0 +1,1 @@
+lar[26387]=`<i>adv.</i> :<br><b>      1</b> séparément, M. ANT. <i>11, 16</i> ; HLD. <i>10, 23</i>.<br><b>      2</b> <i>t. de gr</i>. avec diérèse, HDN GR. <i>Philet. p. 407 Pierson</i>.<p><b>Étym</b>. διαιρέω.`

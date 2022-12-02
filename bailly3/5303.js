@@ -1,0 +1,1 @@
+lar[5303]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à obscurcir, DIOSC. <i>2, 179</i>.<p><b>Étym</b>. ἀμαυρόω.`

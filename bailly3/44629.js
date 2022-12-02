@@ -1,0 +1,1 @@
+lar[44629]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> balance, AQU. <i>Prov. 11, 1</i>.<p><b>Étym</b>. <i>dim. de</i> ζυγόν.`

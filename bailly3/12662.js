@@ -1,0 +1,1 @@
+lar[12662]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> réponse, POL. <i>Exc. Vat. 12, 26b, 1</i>.<br><b>      2</b> sentence judiciaire, condamnation, NT. <i>2Cor. 1, 9</i>.<p><b>Étym</b>. ἀποκρίνω.`

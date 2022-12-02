@@ -1,0 +1,1 @@
+lar[92852]=`<b>στρατο·κῆρυξ, υκος (ὁ)</b> <font color="purple">[ᾰῡκ]</font> héraut d’armée, SPT. <i>3Reg. 22, 36</i> ; ARR. <i>Tact. 10, 4</i>.<p><b>Étym</b>. στρ. κῆρυξ.`

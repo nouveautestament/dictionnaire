@@ -1,0 +1,1 @@
+lar[69099]=`<b>νυκτάλ·ωψ, ωπος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>   I</b> qui ne voit que pendant la nuit, HPC. <i>110e.</i><br><b>   II</b> <i>subst</i>. ἡ νυκτάλωψ, nyctalopie, HPC. <i>Epid. 1193</i> ; ARSTT. <i>G.A. 5, 1, 28</i> ; P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

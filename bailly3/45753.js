@@ -1,0 +1,1 @@
+lar[45753]=`<b>οῦ (ὁ)</b> tailleur (<i>propr</i>. qui raccommode) BATR. <i>184</i> ; XÉN. <i>Cyr. 1, 6, 16 (vulg</i>. ἀκεσταί).<p>➳ <i>Rejeté par les anciens grammairiens comme non grec</i>.<p><b>Étym</b>. ἠπάω.`

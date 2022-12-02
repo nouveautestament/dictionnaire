@@ -1,0 +1,1 @@
+lar[85364]=`<b>προσ·γεννάω-ῶ</b>, engendrer en outre, BAS.`

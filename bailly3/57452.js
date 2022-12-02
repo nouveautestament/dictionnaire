@@ -1,0 +1,1 @@
+lar[57452]=`<b>ή, όν</b>, qui peut alléger, soulager, ARSTT. <i>Cæl. 4, 3</i> ; HIÉROCL. (STOB. <i>Fl. 65, 24).</i><p><b>Étym</b>. κουφίζω.`

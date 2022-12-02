@@ -1,0 +1,1 @@
+lar[46360]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> <i>c</i>. θαυματουργία, PHILSTR. <i>V. Ap. 6, 19</i>.<p><b>Étym</b>. θαυμάσιος, ἔργον.`

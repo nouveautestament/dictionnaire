@@ -1,0 +1,1 @@
+lar[98236]=`<i>ou</i> <b>Τελμισεύς, έως (ὁ)</b> habitant <i>ou</i> originaire de Telmèssos, <i>v. de Carie,</i> LUC. <i>Philops. 22</i>.<p><b>Étym</b>. <i>cf</i>. Τελμησσεύς.`

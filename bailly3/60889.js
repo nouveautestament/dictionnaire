@@ -1,0 +1,1 @@
+lar[60889]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. Λητωϊάς A.RH. <i>4, 346</i> ; ANTH. <i>9, 22</i>.<p>➳ <i>Voc</i>. Λητωΐ, ANTH. <i>6, 202 ; dor</i>. Λατωΐ <font color="purple">[ᾱ]</font> ANTH. <i>6, 272</i>.`

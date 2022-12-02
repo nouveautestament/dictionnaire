@@ -1,0 +1,1 @@
+lar[61614]=`<b>ατος (τὸ)</b> direction oblique, MAN. <i>1, 307 ; au plur</i>. MAN. <i>4, 479</i>.<p><b>Étym</b>. λοξεύω.`

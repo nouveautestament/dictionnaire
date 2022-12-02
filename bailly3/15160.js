@@ -1,0 +1,1 @@
+lar[15160]=`<b>ἀρρη·φόροι, ων (αἱ)</b> Arrhéphores, nom de quatre jeunes Athéniennes, de sept à onze ans, choisies par l’archonte-roi dans les familles nobles pour porter processionnellement les vêtements ou objets sacrés d’Athèna Polias, PAUS. <i>1, 27</i>.<p><b>Étym</b>. <i>p</i>. *ἀρσηφόροι, <i>de</i> *Ἄρση = *Ἀέρση, <i>postér</i>. Ἕρση, <i>et</i> φέρω.`

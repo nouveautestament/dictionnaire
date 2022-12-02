@@ -1,0 +1,1 @@
+lar[15050]=`<b>ωνος (ὁ)</b> <font color="purple">[πᾰ]</font> Harpaliôn, <i>h</i>. IL. <i>13, 644</i> ; NONN. <i>D. 30, 194</i> ; ANTH. <i>6, 93, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἅρπαλος.`

@@ -1,0 +1,1 @@
+lar[83353]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de prêtre, BAS.<p><b>Étym</b>. πρεσβύτερος.`

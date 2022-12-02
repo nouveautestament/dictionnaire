@@ -1,0 +1,1 @@
+lar[109350]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> <i>dim. de</i> χυλός, M. ANT. <i>6, 13</i>.`

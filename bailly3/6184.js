@@ -1,0 +1,1 @@
+lar[6184]=`<b>ἀμφι·κίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[κῑ]</font> soutenu tout autour par des colonnes, SOPH. <i>Ant. 285</i>.`

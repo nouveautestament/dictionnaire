@@ -1,0 +1,1 @@
+lar[54003]=`<i>adv</i>., faussement, ORIG. <i>c. Cels. p. 302, 311</i>.<p><b>Étym</b>. καταψεύδω.`

@@ -1,0 +1,1 @@
+lar[84128]=`<b>προ·ελέγχω</b>, réfuter auparavant. ŒNOM. (EUS. <i>P.E. 261b</i>).`

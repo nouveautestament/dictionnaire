@@ -1,0 +1,1 @@
+lar[74545]=`<b>παλιμ·πράτης, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> revendeur, <i>ép. de Socrate,</i> SOCR. <i>Ep. 1</i>.<p><b>Étym</b>. π. πιπράσκω.`

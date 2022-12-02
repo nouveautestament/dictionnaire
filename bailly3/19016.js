@@ -1,0 +1,1 @@
+lar[19016]=`<b>όνος (ἡ)</b> <i>dor. c</i>. βεμβράς, EPICH. <i>et</i> SOPHR. (ATH. <i>287b, 305c</i>).`

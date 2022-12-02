@@ -1,0 +1,1 @@
+lar[85638]=`<b>προσ·επάρχω</b>, être en outre gouverneur de, <i>gén</i>. JOS. <i>A.J. 8, 2, 3</i>.`

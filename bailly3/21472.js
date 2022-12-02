@@ -1,0 +1,1 @@
+lar[21472]=`<b>ατος (τὸ)</b> sujet d’orgueil, EUR. <i>Tr. 1250</i> ; ARSTD. <i>t. 2, 394</i>.<p><b>Étym</b>. γαυρόω.`

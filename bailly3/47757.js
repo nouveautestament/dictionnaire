@@ -1,0 +1,1 @@
+lar[47757]=`<b>εως (ἡ)</b> action de faire asseoir, <i>en parl. de la cérémonie d’initiation aux mystères des Corybantes,</i> PLAT. <i>Euthyd. 277d</i>.<p><b>Étym</b>. θρονόω.`

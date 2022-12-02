@@ -1,0 +1,1 @@
+lar[49709]=`<b>ἰσο·παχής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font> égal en épaisseur, ARSTT. <i>H.A. 4, 2</i> ; TH. <i>H.P. 3, 5, 6</i>.<p><b>Étym</b>. ἴ. πάχος.`

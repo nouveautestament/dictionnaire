@@ -1,0 +1,1 @@
+lar[84665]=`<b>προ·λοχίζω</b> <font color="darkgreen">(<i>f. att</i>. -ιῶ) :</font><br><b>      1</b> garnir d’embuscades auparavant : τὰς ὁδούς, THC. <i>3, 110 (cf</i>. THC. <i>2, 81</i> ; PLUT. <i>Sert. 13</i>) dresser d’avance une embuscade sur une route.<br><b>      2</b> tendre d’avance une embuscade, HLD. <i>6, 13 ; au pass</i>. THC. <i>3, 112</i>.`

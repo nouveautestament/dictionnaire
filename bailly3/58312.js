@@ -1,0 +1,1 @@
+lar[58312]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κύαθος, PHÉRÉCR. (POLL. <i>6, 105</i>).`

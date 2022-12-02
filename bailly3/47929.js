@@ -1,0 +1,1 @@
+lar[47929]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec courage, HDN <i>4, 3</i>.`

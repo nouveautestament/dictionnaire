@@ -1,0 +1,1 @@
+lar[73085]=`<b>ῆς (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ὀρυχή, DH. <i>4, 59</i> ; DIOSC. <i>4, 151</i>.`

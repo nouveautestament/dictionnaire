@@ -1,0 +1,1 @@
+lar[31541]=`<b>ἐκ·λακτίζω :<br>      1</b> agiter les jambes convulsivement comme pour ruer, HPC. <i>132c, 839h.</i><br><b>      2</b> <i>p. ext</i>. lancer sa jambe (en avant, en l’air, <i>etc</i>.) ; σκέλος οὐράνιον ἐκλ. AR. <i>Vesp. 1492,</i> lancer sa jambe en l’air.`

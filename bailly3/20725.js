@@ -1,0 +1,1 @@
+lar[20725]=`<b>βραχυ·σίδηρος</b>, <i>seul. dor</i>. <b>βραχυσίδαρος, ος, ον</b> <font color="purple">[ᾰῠῐᾱ]</font> dont le fer est court, PD. <i>N. 3, 79</i>.`

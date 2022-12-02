@@ -1,0 +1,1 @@
+lar[79353]=`<i>att</i>. <b>περίττωσις, εως (ἡ) :<br>      1</b> réplétion, pléthore, HPC. <i>1185b.</i><br><b>      2</b> évacuation, selles, ARSTT. <i>H.A. 1, 2, 3, etc</i>.<p><b>Étym</b>. περισσόω.`

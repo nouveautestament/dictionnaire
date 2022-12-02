@@ -1,0 +1,1 @@
+lar[24205]=`<b>δημ·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font> banni par le peuple : δ. φυγή, ESCHL. <i>Suppl. 614</i>, exil voté par le peuple.<p><b>Étym</b>. δῆμος, ἐλαύνω.`

@@ -1,0 +1,1 @@
+lar[53716]=`<b>ατος (τὸ)</b> sujet de joie, <i>en mauv. part,</i> jouet de, THGN. <i>1107</i>.<p><b>Étym</b>. καταχαίρω.`

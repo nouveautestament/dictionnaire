@@ -1,0 +1,1 @@
+lar[65733]=`<b>μικρο·πρόσωπος, ος, ον</b> <font color="purple">[ῑ]</font> qui a une petite figure, ARSTT. <i>Physiogn. 3, 13</i>.<p><b>Étym</b>. μ. πρόσωπον.`

@@ -1,0 +1,1 @@
+lar[101949]=`<b>ὑπ·αναμέλπω</b> <font color="purple">[ῠᾰᾰ]</font> entonner ensuite un chant, EL. <i>N.A. 14, 5</i>.`

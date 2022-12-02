@@ -1,0 +1,1 @@
+lar[57785]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger de la viande, STR. <i>771</i> ; PLUT. <i>M. 132a</i>.<p><b>Étym</b>. κρεωφάγος.`

@@ -1,0 +1,1 @@
+lar[68006]=`<b>νεκρό·μαντις, εως (ὁ)</b> devin qui prédit l’avenir en évoquant les morts, LYC. <i>682</i>.<p><b>Étym</b>. ν. μάντις.`

@@ -1,0 +1,1 @@
+lar[92434]=`<b>στεριφο·ποιέω-ῶ</b> <font color="purple">[ῐ]</font> affermir, consolider, SUID.<p><b>Étym</b>. στέριφος, ποιέω.`

@@ -1,0 +1,1 @@
+lar[92535]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m.</i> :<br><b>      1</b> en forme de colonne, LUC. <i>Philops. 11</i>.<br><b>      2</b> inscrit sur une colonne en signe d’infamie, déshonoré, flétri, ISOCR. <i>348d ;</i> DÉM. <i>122, 24</i> ; ARSTT. <i>Rhet. 2, 23, 25</i>.<p><b>Étym</b>. στήλη.`

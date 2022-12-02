@@ -1,0 +1,1 @@
+lar[71168]=`<b>ὁλοκαυτέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ὡλοκαύτουν)</font> consumer entièrement une victime par le feu, XÉN. <i>An. 7, 8, 5, etc.</i> ; PLUT. <i>M. 694b</i>.<p><b>Étym</b>. ὁλόκαυτος.`

@@ -1,0 +1,1 @@
+lar[90993]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. σκῖρος, DIOSC. <i>1, 1</i>.`

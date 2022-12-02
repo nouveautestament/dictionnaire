@@ -1,0 +1,1 @@
+lar[14475]=`<b>ἀρετη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> vertueux, PHILOD. <i>74</i>.<p><b>Étym</b>. ἀρετή, φέρω.`

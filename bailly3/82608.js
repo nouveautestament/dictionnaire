@@ -1,0 +1,1 @@
+lar[82608]=`<b>πολυ·ωπής, ής, ές</b>, qui a beaucoup d’yeux <i>ou</i> d’ouvertures, NIC. <i>Al. 323, 450</i> ; ANTH. <i>6, 27</i>.<p>•<i> Cp</i>. -έστερος NIC.<p><b>Étym</b>. π. ὤψ.`

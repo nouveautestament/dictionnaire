@@ -1,0 +1,1 @@
+lar[75527]=`<b>παρα·διόρθωσις, εως (ἡ)</b> action de faire une correction mauvaise, PLUT. <i>M. 33b</i>.<p><b>Étym</b>. π. διορθόω.`

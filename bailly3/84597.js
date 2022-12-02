@@ -1,0 +1,1 @@
+lar[84597]=`<b>προ·κρέμαμαι</b>, suspendre en avant, ARSTT. <i>Physiogn. 6, 19</i>.`

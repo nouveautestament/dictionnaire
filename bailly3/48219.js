@@ -1,0 +1,1 @@
+lar[48219]=`<b>ή, όν</b>, ïambique, ARSTT. <i>Poet. 5, 6 ; 24, 10</i> ; DH. <i>Comp. p. 120, 8</i> ; μέτρον ἰαμβικόν, HÉPH. <i>5, 1</i> ; D. PHAL. <i>25, 9,</i> le vers ïambique ; <i>subst</i>. ἡ ἰαμβική, ATH. <i>629c</i>, l’ïambique, <i>sorte de danse</i>.<p><b>Étym</b>. ἴαμβος.`

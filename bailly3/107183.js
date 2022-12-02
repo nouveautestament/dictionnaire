@@ -1,0 +1,1 @@
+lar[107183]=`<b>Φυλο·νόμη, ης (ἡ)</b> Phylonomè, <i>f</i>. PLUT. <i>Parall. min. 36</i>.<p><b>Étym</b>. φυλή, νέμω.`

@@ -1,0 +1,1 @@
+lar[49784]=`<font color="purple">[ῑ̆]</font> <i>adv</i>., naturellement, <i>p. opp. à</i> τυπικῶς, NYSS. <i>1, 864</i>.`

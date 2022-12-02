@@ -1,0 +1,1 @@
+lar[40127]=`<b>ή, όν</b>, aimable, agréable, <i>en parl. de contrées,</i> OD. <i>7, 18 ; de villes,</i> IL. <i>9, 531, 577</i> ; THCR. <i>Idyl. 28, 21, etc. ; du Taygète, de choses, en gén</i>. DP. <i>777</i> ; AR. <i>Lys. 1297 ; rar. en parl. de pers</i>. ORPH. <i>Arg. 335</i>.<p>➳ <i>Éol. acc</i>. ἐράνναν, THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. ἐράω.`

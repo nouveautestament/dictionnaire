@@ -1,0 +1,1 @@
+lar[78539]=`<b>περι·δουπέομαι-οῦμαι</b>, retentir tout autour, PHILSTR. <i>742</i>.`

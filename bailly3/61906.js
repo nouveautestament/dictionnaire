@@ -1,0 +1,1 @@
+lar[61906]=`<b>λυκο·σκυτάλιον, ου (τὸ)</b> <font color="purple">[ῠῠᾰ]</font> sorte de maïs, <i>plante,</i> DIOSC. <i>4, 152</i>.<p><b>Étym</b>. λ. σκ.`

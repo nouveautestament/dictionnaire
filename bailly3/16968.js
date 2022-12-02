@@ -1,0 +1,1 @@
+lar[16968]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> sans cheveux, NONN. <i>D. 3, 392</i>.<br><b>      2</b> sans poils, CALL. <i>Dian. 77</i>.<p><b>Étym</b>. <i>cf</i>. ἄθριξ.`

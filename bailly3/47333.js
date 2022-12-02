@@ -1,0 +1,1 @@
+lar[47333]=`<b>θηρο·φονεύς, έως (ὁ)</b> destructeur (<i>litt</i>. tueur) d’animaux sauvages, OPP. <i>C. 1, 538</i>.<p><b>Étym</b>. θ. φονεύω.`

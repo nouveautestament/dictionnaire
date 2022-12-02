@@ -1,0 +1,1 @@
+lar[71718]=`<font color="purple">[ῑ]</font> <i>adv</i>., de même rang, avec une égale considération <i>ou</i> des honneurs égaux, GAL. <i>4, 169</i>.`

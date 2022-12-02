@@ -1,0 +1,1 @@
+lar[97738]=`<b>ης (ἡ)</b> Tarphè, <i>v. des Locriens,</i> IL. <i>2, 533</i>.`

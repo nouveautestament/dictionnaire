@@ -1,0 +1,1 @@
+lar[57078]=`<b>ῶν (οἱ)</b> les habitants de Corioles (<i>lat</i>. Cŏrĭŏlī) <i>v. du Latium,</i> PLUT. <i>Cor. 8</i>.`

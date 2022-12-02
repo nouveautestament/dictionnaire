@@ -1,0 +1,1 @@
+lar[33807]=`<b>ἐν·αίθομαι</b> (<i>seul. prés</i>.) brûler dans, Q. SM. <i>11, 94</i>.`

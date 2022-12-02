@@ -1,0 +1,1 @@
+lar[25515]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> signe <i>ou</i> trait distinctif, PTOL. <i>Geogr. 455c, etc</i>.<p><b>Étym</b>. διασημαίνω.`

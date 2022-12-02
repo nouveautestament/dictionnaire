@@ -1,0 +1,1 @@
+lar[65283]=`<i>adv</i>., d’aucun des deux côtés, CORN. <i>C. 17, p. 171</i> ; LIB. <i>t. 3, p. 4, 11</i>.<p><b>Étym</b>. μηδέτερος, -θεν.`

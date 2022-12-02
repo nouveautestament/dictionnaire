@@ -1,0 +1,1 @@
+lar[81440]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> action de faire paître un troupeau, PHIL. <i>1, 594, 596</i>.<p><b>Étym</b>. ποιμαίνω.`

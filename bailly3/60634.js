@@ -1,0 +1,1 @@
+lar[60634]=`<b>λευκό·φυλλος, ος, ον</b>, aux feuilles blanches, DIOSC. <i>4, 104</i>.<p><b>Étym</b>. λ. φύλλον.`

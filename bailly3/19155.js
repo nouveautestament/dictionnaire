@@ -1,0 +1,1 @@
+lar[19155]=`<b>βαρυ·κέφαλος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font><br><b>      1</b> à lourde <i>ou</i> large tête, ARR. <i>Cyn. 4, 4</i>.<br><b>      2</b> <i>fig</i>. au faîte surchargé, VITR. <i>3, 2, lat</i>. « barycephalæ ædes ».`

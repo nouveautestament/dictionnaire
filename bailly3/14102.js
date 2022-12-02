@@ -1,0 +1,1 @@
+lar[14102]=`<b>ης (ἡ)</b> femme arabe, D. BYZ. <i>v°</i> Ἀραβία ; SPT. <i>Job 42, 18</i>.`

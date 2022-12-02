@@ -1,0 +1,1 @@
+lar[49647]=`<b>ἰσο·κέφαλος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> qui a une tête semblable, IBYC. <i>fr. 16, 3</i>.<p><b>Étym</b>. ἴ. κεφαλή.`

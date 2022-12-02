@@ -1,0 +1,1 @@
+lar[41942]=`<b>εὐ·έανος, ος, ον</b> <font color="purple">[ᾰ]</font> bien <i>ou</i> richement vêtu, MOSCH. <i>4, 75</i> ; MAX. <i>π. κατ. 477, 562</i>.<p><b>Étym</b>. εὖ, ἑανός.`

@@ -1,0 +1,1 @@
+lar[101615]=`(<i>seul. prés</i>.) chanter, célébrer, CALL. <i>Jov. 76</i>.<p><b>Étym</b>. <i>cf</i>. ὑδέω.`

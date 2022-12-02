@@ -1,0 +1,1 @@
+lar[41820]=`<i>adv</i>., heureusement, AR. <i>Pax 856</i> ; XÉN. <i>Hell. 3, 2, 9</i>.`

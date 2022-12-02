@@ -1,0 +1,1 @@
+lar[12938]=`<b>ἀπο·νεκρόω-ῶ</b>, faire mourir, <i>d’où au pass</i>. mourir, périr, DS. <i>2, 12</i> ; LUC. <i>V.H. 2, 1 ; fig</i>. tuer (l’espoir, la pudeur, <i>etc</i>.) RHÉT. <i>1, 472 W.</i> ; ARR. <i>Epict. 4, 5, 21</i>.`

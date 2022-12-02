@@ -1,0 +1,1 @@
+lar[41143]=`<b>ἑστιαρχέω-ῶ</b>, présider à un festin, <i>càd</i>. donner un dîner comme maître de maison, LUC. <i>Am. 10</i>.<p><b>Étym</b>. ἑστιάρχης.`

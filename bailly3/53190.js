@@ -1,0 +1,1 @@
+lar[53190]=`<b>κατά·πυκνος, ος, ον :<br>   I</b> dense, <i>d’où</i> :<br><b>      1</b> très épais, THCR. <i>Epigr. 1, 1</i>.<br><b>      2</b> très dur, HPC. <i>406, 9</i>.<br><b>   II</b> fréquent : εἴς <i>ou</i> ἐπί τι, DYSC. <i>(Bkk. p. 598, 33</i>) qui emploie <i>ou</i> admet fréquemment qqe ch. (un mot, une construction, <i>etc</i>.).<p><b>Étym</b>. κ. πυκνός.`

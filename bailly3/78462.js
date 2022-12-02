@@ -1,0 +1,1 @@
+lar[78462]=`<b>περι·βόσκω</b>, faire paître autour ; <i>au pass.</i> :<br><b>      1</b> paître aux alentours, NIC. <i>Al. 391, Th. 611, etc.</i><br><b>      2</b> se développer, s’amonceler autour, CALL. <i>Ap. 84</i>.`

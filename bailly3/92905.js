@@ -1,0 +1,1 @@
+lar[92905]=`<b>ή, όν</b>, propre à tordre ; τὸ στρ., PLAT. <i>Pol. 282d</i>, l’art de tordre.<p><b>Étym</b>. στρέφω.`

@@ -1,0 +1,1 @@
+lar[73111]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> situation d’orphelin, PLAT. <i>Leg. 741a, etc.</i> ; LYS. <i>176, 23, etc.</i><br><b>      2</b> <i>p. ext</i>. privation, manque, PD. <i>I. 7, 6</i>.<p><b>Étym</b>. ὀρφανός.`

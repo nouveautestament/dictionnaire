@@ -1,0 +1,1 @@
+lar[3984]=`<b>ἀ·κύματος, ος, ον</b> <font color="purple">[ῡᾰ]</font> <i>c</i>. ἄκυμος POÈT. <i>(Bkk. 6</i>).`

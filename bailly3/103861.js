@@ -1,0 +1,1 @@
+lar[103861]=`<b>ὑπο·σπειρίδιον, ου (τὸ)</b> <font color="purple">[ρῑ]</font> base d’une spirale, HÉRON <i>Spir. 164</i>.<p><b>Étym</b>. ὑ. σπεῖρα.`

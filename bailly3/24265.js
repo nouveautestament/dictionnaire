@@ -1,0 +1,1 @@
+lar[24265]=`<b>ου (ὁ)</b> Dèmokratidès, <i>h</i>. DÉM. <i>929, 26</i>.<p><b>Étym</b>. <i>patr. de</i> Δημοκράτης.`

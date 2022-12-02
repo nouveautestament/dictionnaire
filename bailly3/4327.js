@@ -1,0 +1,1 @@
+lar[4327]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> véracité, SEXT. <i>276, 16 Bkk</i>.<p><b>Étym</b>. ἀληθεύω.`

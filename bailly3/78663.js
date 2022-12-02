@@ -1,0 +1,1 @@
+lar[78663]=`<b>περιθρηνέομαι-οῦμαι</b>, retentir de lamentations, PLUT. <i>Ant. 56</i>.`

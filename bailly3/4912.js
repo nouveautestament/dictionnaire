@@ -1,0 +1,1 @@
+lar[4912]=`<i>d’où</i> <b>ἀλοιμός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> crépissure, SOPH. <i>fr. 73</i>.<p>➳ ἀλοιμμός, CIA. <i>2, 831, 3 (vers 391 av. J.-C.)</i> ; ἀλοιμοῦ, CIA. <i>2, 167, 85 (peu après 307 av. J.-C.) ; v. Meisterh. p. 74, 8</i>.<p><b>Étym</b>. <i>pour</i> *ἀλοιφμός <i>de</i> ἀλείφω.`

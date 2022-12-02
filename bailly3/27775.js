@@ -1,0 +1,1 @@
+lar[27775]=`<i>adv</i>., en saisissant, en empoignant, Q. SM. <i>13, 91</i>.<p><b>Étym</b>. δράσσομαι.`

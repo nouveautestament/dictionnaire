@@ -1,0 +1,1 @@
+lar[20088]=`<i>adv</i>., à la façon des bœufs <i>ou</i> dans la langue des bœufs, JAMBL. <i>V. Pyth. 47</i> ; PORPH. <i>V. Pyth. 31</i>.<p><b>Étym</b>. *βοΐζω, <i>de</i> βοῦς.`

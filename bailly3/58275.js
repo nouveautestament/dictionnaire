@@ -1,0 +1,1 @@
+lar[58275]=`<b>ου (τὸ)</b> Ktèsion, <i>port de Scyros,</i> PLUT. <i>Cim. 8</i>.`

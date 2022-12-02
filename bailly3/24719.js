@@ -1,0 +1,1 @@
+lar[24719]=`<b>δια·καθιζάνω</b>, aller à la selle, SPT. <i>Deut. 23, 13</i>.`

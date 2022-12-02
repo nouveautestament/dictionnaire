@@ -1,0 +1,1 @@
+lar[37062]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en montant dessus, ANTH. <i>9, 668</i>.<p><b>Étym</b>. ἐπεμβαίνω, -δον.`

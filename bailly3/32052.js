@@ -1,0 +1,1 @@
+lar[32052]=`<b>ἐκ·σπερματίζω</b> <font color="purple">[ᾰ]</font> recevoir une semence, <i>d’où</i> enfanter, SPT. <i>Num. 5, 28</i>.<p><b>Étym</b>. ἐκ, σπέρμα.`

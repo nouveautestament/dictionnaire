@@ -1,0 +1,1 @@
+lar[80863]=`<b>πλεκτανόω-ῶ</b> <font color="purple">[ᾰ]</font> tresser, HPC. <i>279, 48</i>.<p><b>Étym</b>. πλεκτάνη.`

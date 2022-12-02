@@ -1,0 +1,1 @@
+lar[11479]=`<b>ἄ·παυστος, ος, ον</b>, incessant, sans fin, ESCHL. <i>Suppl. 574</i> ; SOPH. <i>Aj. 1187</i> ; THC. <i>2, 49 ; joint à</i> ἀθάνατος, PLAT. <i>Crat. 417c ; avec le gén</i>. ἄ. γόων, EUR. <i>Suppl. 82,</i> qui ne cesse de gémir.<p><b>Étym</b>. ἀ, παύομαι.`

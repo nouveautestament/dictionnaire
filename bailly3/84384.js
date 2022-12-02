@@ -1,0 +1,1 @@
+lar[84384]=`<b>προ·ΐζω</b>, siéger en avant <i>ou</i> le premier, présider, PLOT. <i>Enn. 5, 8, 11</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HDT. <i>8, 67</i>.`

@@ -1,0 +1,1 @@
+lar[69483]=`<b>ξενο·λόγος, ος, ον</b>, qui recrute des troupes étrangères <i>ou</i> mercenaires, POL. <i>1, 32, 1 ; 5, 63, 9</i> ; PLUT. <i>Dio. 23</i>.<p><b>Étym</b>. ξένος, λέγω.`

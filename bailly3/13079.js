@@ -1,0 +1,1 @@
+lar[13079]=`<b>ορος (ὁ)</b> qui modèle, qui façonne, MAN. <i>4, 243</i>.<p><b>Étym</b>. ἀποπλάσσω.`

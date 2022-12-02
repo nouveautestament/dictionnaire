@@ -1,0 +1,1 @@
+lar[19210]=`<b>βαρυ·ταρβής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui cause un profond effroi, terrible, ESCHL. <i>fr. 55</i>.<p><b>Étym</b>. β. τάρβος.`

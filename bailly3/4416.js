@@ -1,0 +1,1 @@
+lar[4416]=`<b>ου (ὁ)</b> Allia, <i>fl. d’Italie,</i> PLUT. <i>Cam. 18, 24</i>.`

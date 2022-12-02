@@ -1,0 +1,1 @@
+lar[52795]=`<b>κατ·αμάομαι-ῶμαι</b> <font color="purple">[ᾰμ]</font> <i>au moy</i>. moissonner, <i>d’où</i> ramasser, <i>acc</i>. IL. <i>24, 165</i> ; τῆς κεφαλῆς κόνιν, JOS. <i>B.J. 2, 21, 3,</i> répandre de la cendre sur sa tête.`

@@ -1,0 +1,1 @@
+lar[110443]=`<b>ωνος (ὁ)</b> sorte d’oiseau de l’Inde, EL. <i>N.A. 17, 22</i>.`

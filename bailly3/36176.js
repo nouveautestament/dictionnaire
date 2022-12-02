@@ -1,0 +1,1 @@
+lar[36176]=`<b>ἐξ·ορθιάζω :<br>      1</b> élever la voix, prononcer en s’écriant, <i>acc</i>. ESCHL. <i>Ch. 271</i>.<br><b>      2 <i>intr.</i></b> se dresser, se raidir, PLUT. <i>M. 371f</i>.`

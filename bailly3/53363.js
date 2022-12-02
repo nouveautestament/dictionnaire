@@ -1,0 +1,1 @@
+lar[53363]=`<b>κατα·σκιάζω</b> <font color="darkgreen">(<i>f</i>. -σκιάσω, <i>att</i>. -σκιῶ)</font> ombrager, couvrir : τί τινι, PLAT. <i>Tim. 74d</i>, une chose d’une autre ; <i>abs</i>. EUR. <i>Ion 1142</i> ; κόνει τινά, SOPH. <i>O.C. 406,</i> couvrir qqn de poussière, <i>càd</i>. de terre, <i>d’où</i> ensevelir qqn.`

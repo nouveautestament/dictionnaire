@@ -1,0 +1,1 @@
+lar[103914]=`<b>ὑπό·στρυφνος, ος, ον</b>, un peu astringent, un peu âpre, HPC. <i>549, 31</i> ; DIOSC. <i>3, 7 ; 4, 140</i>.<p><b>Étym</b>. ὑ. στρυφνός.`

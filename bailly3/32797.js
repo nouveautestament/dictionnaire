@@ -1,0 +1,1 @@
+lar[32797]=`<b>(ὁ)</b> Éliézer, <i>n. d’h. hébreu,</i> SPT. <i>Gen. 15, 2</i> ; NT. <i>Luc. 3, 29, etc</i>.`

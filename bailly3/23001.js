@@ -1,0 +1,1 @@
+lar[23001]=`<b>δαΐ·σφαλτος, ος, ον</b> <font color="purple">[δᾰ]</font> où l’on est renversé dans la mêlée (lutte), LYC. <i>170</i>.<p><b>Étym</b>. δαΐς², σφάλλω.`

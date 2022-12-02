@@ -1,0 +1,1 @@
+lar[64145]=`<b>μελί·χροος-ους, οος-ους, οον-ουν :<br>      1</b> qui a la couleur du miel, ANTH. <i>12, 165, etc.</i><br><b>      2</b> miellé, HPC. <i>526, 39, etc</i>.<p>➳ <i>Dat</i>. -οϊ, TRIPHIOD. <i>113</i>.<p><b>Étym</b>. μ. χρόα.`

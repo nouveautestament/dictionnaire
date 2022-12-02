@@ -1,0 +1,1 @@
+lar[95689]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> attention <i>ou</i> sollicitude commune, JAMBL. <i>V. Pyth. § 69 West. (var. de</i> συνεπίστασις).<p><b>Étym</b>. συνεπιτείνω.`

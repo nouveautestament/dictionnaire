@@ -1,0 +1,1 @@
+lar[93981]=`<b>συμ·μετριάζω</b>, conserver dans la juste mesure, DH. <i>Comp. 11</i>.<p><b>Étym</b>. συμμετρία.`

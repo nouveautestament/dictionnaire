@@ -1,0 +1,1 @@
+lar[78146]=`<b>ου (ἡ)</b> à cinquante rames : ναῦς π. PD. <i>P. 4, 436 ; ou abs</i>. π. EUR. <i>I.T. 1124, etc.</i> ; THC. <i>1, 14, etc</i>. navire à cinquante rames ; <i>cf</i>. πεντηκόντερος.<p><b>Étym</b>. π. ἐρέσσω.`

@@ -1,0 +1,1 @@
+lar[62845]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> art du devin, science prophétique, IL. <i>1, 72 ; au pl</i>. IL. <i>2, 832 ; 11, 330</i>.<p>➳ <i>Dor</i>. -ύνα, PD. <i>O. 6, 112</i>.<p><b>Étym</b>. μάντις.`

@@ -1,0 +1,1 @@
+lar[14439]=`<b>ή, όν</b> <font color="purple">[ᾰᾰῑτ]</font> qui concerne l’Aréopage ; ὁ Ἀ. le discours sur l’Aréopage, <i>titre de discours de Lysias et d’Isocrate</i>.<p><b>Étym</b>. Ἀρεοπαγίτης ; <i>cf</i>. Ἀρειοπαγιτικός.`

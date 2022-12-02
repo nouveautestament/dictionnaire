@@ -1,0 +1,1 @@
+lar[97523]=`<b>ή, όν</b> <font color="purple">[ᾰρ]</font> qu’on peut ébranler, THPP. COM. (POLL. <i>5, 98</i>).`

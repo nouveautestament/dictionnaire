@@ -1,0 +1,1 @@
+lar[92956]=`<b>στρογγυλό·καυλος, ος, ον</b> <font color="purple">[ῠ]</font> à tige arrondie, TH. <i>H.P. 7, 4, 5</i>.<p><b>Étym</b>. στρ. καυλός.`

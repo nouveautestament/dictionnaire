@@ -1,0 +1,1 @@
+lar[18944]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> suppositoire, HPC. <i>658, 51</i>.<p><b>Étym</b>. βάλανος.`

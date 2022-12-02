@@ -1,0 +1,1 @@
+lar[98103]=`<b>ων (οἱ)</b> les Tectosages, <i>pple de Gaule établi en Asie,</i> PLUT. <i>Syll. 4, etc</i>.`

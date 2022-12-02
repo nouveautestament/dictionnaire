@@ -1,0 +1,1 @@
+lar[85727]=`<b>προσ·επισύρω</b> <font color="purple">[ῡ]</font> attirer en outre, PHIL. <i>1, 695 ; 2, 297</i>.`

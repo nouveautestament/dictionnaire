@@ -1,0 +1,1 @@
+lar[16447]=`<b>ἀ·σύμβλητος, ος, ον :<br>      1</b> avec qui l’on ne peut avoir commerce, insociable, SOPH. <i>fr. 350</i>.<br><b>      2</b> qu’on ne peut comparer : τινι, ARSTT. <i>Metaph. 12, 8</i> ; PLUT. avec qqe ch.<br><b>      3</b> qu’on ne peut conjecturer <i>ou</i> comprendre, SOPH. <i>Tr. 694</i> ; EL. <i>N.A. 6, 60</i>.<p><b>Étym</b>. ἀ, συμβάλλω.`

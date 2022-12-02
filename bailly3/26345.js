@@ -1,0 +1,1 @@
+lar[26345]=`<b>ορος (ὁ)</b> chercheur, NAZ. <i>4, 127a Migne</i>.<p><b>Étym</b>. δίζημαι.`

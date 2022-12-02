@@ -1,0 +1,1 @@
+lar[25419]=`<b>δι·αράσσω</b> <font color="purple">[ᾰρ]</font> (<i>seul. opt. ao. 2 sg</i>. διαράξειας) rompre, briser, HDT. <i>3, 12</i>.`

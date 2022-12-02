@@ -1,0 +1,1 @@
+lar[44744]=`<b>ας (ἡ)</b> production de vers, <i>par suite de putréfaction</i>, TH. <i>C.P. 5, 9, 3</i>.<p><b>Étym</b>. *ζῳογόνος, <i>de</i> ζῷον, γίγνομαι.`

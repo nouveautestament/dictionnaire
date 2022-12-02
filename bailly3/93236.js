@@ -1,0 +1,1 @@
+lar[93236]=`<b>συγ·καθιδρύω</b>, consacrer une fondation en même temps : τινί τινα, PLUT. <i>M. 44e</i>, à un dieu en même temps qu’à un autre.`

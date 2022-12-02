@@ -1,0 +1,1 @@
+lar[48214]=`<b>ἰαμβειο·φάγος, ου (ὁ)</b> <font color="purple">[φᾰ]</font> mangeur d’ïambes, <i>en parl. d’Eschine, qui avait été acteur,</i> DÉM. <i>274, 6</i>.<p><b>Étym</b>. ἰ. φαγεῖν.`

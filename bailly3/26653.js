@@ -1,0 +1,1 @@
+lar[26653]=`<b>δί·μορφος, ος, ον</b> <font color="purple">[ῐ]</font> à double forme, LYC. <i>111</i> ; DS. <i>Exc. 2, 519 et 522</i>.<p><b>Étym</b>. δίς, μορφή.`

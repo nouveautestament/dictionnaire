@@ -1,0 +1,1 @@
+lar[32398]=`<b>ἐκ·χονδρίζω</b>, rendre cartilagineux, GAL. <i>2, 397</i>.<p><b>Étym</b>. ἐκ, χόνδρος.`

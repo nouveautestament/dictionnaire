@@ -1,0 +1,1 @@
+lar[106921]=`<b>εως (ἡ) :<br>      1</b> intelligence, bon sens, sagesse, OD. <i>3, 244</i> ; LYC. <i>1456</i> ; OPP. <i>H. 1, 653</i>.<br><b>      2</b> connaissances acquises, expérience, OD. <i>4, 258</i>.<p><b>Étym</b>. φρήν.`

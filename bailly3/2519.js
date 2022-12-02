@@ -1,0 +1,1 @@
+lar[2519]=`<b>αἴλ·ουρος, ου (ὁ, ἡ)</b> chat, chatte, ARSTT. <i>H.A. 5, 2, 7, etc</i>.<p>➳ <i>Ion</i>. αἰέλουρος, HDT. <i>2, 66</i> ; AR. <i>Ach. 879</i>.<p><b>Étym</b>. <i>p.-ê</i>. αἰόλος, οὐρά « à la queue remuante ».`

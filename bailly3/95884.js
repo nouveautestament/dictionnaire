@@ -1,0 +1,1 @@
+lar[95884]=`<b>εως (ἡ)</b> rapports journaliers avec qqn, ARSTT. <i>Eud. 7, 5, 3</i>.`

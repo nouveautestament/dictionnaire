@@ -1,0 +1,1 @@
+lar[72447]=`<b>ας (ἡ)</b> vue, spectacle, ANTH. <i>6, 210</i> ; NT. <i>Luc. 1, 22 ; 24, 23 ; Ap. 26, 19</i>.`

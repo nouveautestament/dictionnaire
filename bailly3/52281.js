@@ -1,0 +1,1 @@
+lar[52281]=`<b>κατα·δακτυλικός, οῦ</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. amant <font color="purple">[<i>Bailly</i>]</font> <i>ou</i> enclin <i>ou</i> habile à tripoter <font color="purple">[<i>P. Chantraine</i>]</font>, AR. <i>Eq. 1381</i>.<p><b>Étym</b>. κ. δάκτυλος.`

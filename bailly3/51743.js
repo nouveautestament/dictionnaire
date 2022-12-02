@@ -1,0 +1,1 @@
+lar[51743]=`<b>ή, όν</b>, enclin à souffrir de maux d’estomac, HPC. <i>Epid. 3, 1108</i>.<p><b>Étym</b>. καρδιαλγής.`

@@ -1,0 +1,1 @@
+lar[29168]=`<b>ης (ἡ)</b> Dôrikha, <i>f</i>. SAPPH. (STR. <i>808</i>) ; POSIDIPP. (ATH. <i>596c</i>).`

@@ -1,0 +1,1 @@
+lar[49829]=`<b>ἱστιο·δρομέω-ῶ</b>, cingler à pleines voiles, POL. <i>1, 60, 9</i> ; DS. <i>3, 27</i>.<p><b>Étym</b>. ἱστίον, δρόμος.`

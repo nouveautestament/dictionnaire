@@ -1,0 +1,1 @@
+lar[19881]=`<b>ας (ἡ)</b> ébourgeonnement, TH. <i>C.P. 3, 16, 1</i>.<p><b>Étym</b>. <i>v</i>. βλαστολογέω.`

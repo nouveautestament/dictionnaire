@@ -1,0 +1,1 @@
+lar[109849]=`<b>ψιλό·ταπις, ιδος (ἡ)</b> <font color="purple">[ῑᾰῐδ]</font> tapis de Perse ras, <i>sorte de tapis qui n’avait de poil que d’un côté,</i> CLÉARQ. <i>etc</i>. (ATH. <i>255e, 548e</i>) ; <i>p. opp. à</i> ἀμφίταπις, LYCON (DL. <i>5, 72</i>) ; <i>qqf. écrit</i> ψιλόδαπις, CLÉM. <i>Pæd. 2, 9, 77</i>.<p><b>Étym</b>. ψ. τάπης.`

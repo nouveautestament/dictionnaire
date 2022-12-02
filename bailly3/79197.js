@@ -1,0 +1,1 @@
+lar[79197]=`<b>περι·πυκάζω</b> <font color="purple">[ῠ]</font> épaissir tout autour, A. TAT. <i>1, 15</i>.<br><b><i>Moy.</i></b> mettre en touffes épaisses : τι ἀμφί τι, CTÉS. <i>Ind. 11,</i> une chose autour d’une autre.`

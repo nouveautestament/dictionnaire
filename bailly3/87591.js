@@ -1,0 +1,1 @@
+lar[87591]=`<b>Πυθο·χρήστης</b>, <i>dor</i>. <b>Πυθοχρήστας (ὁ)</b> <font color="purple">[ῡ]</font> inspiré par la Pythie, ESCHL. <i>Ch. 940</i>.`

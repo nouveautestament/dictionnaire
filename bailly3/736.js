@@ -1,0 +1,1 @@
+lar[736]=`<b>ιθος (ἡ)</b> <font color="purple">[ῑ]</font> gousse d’ail, AR. <i>Ach. 763, Vesp. 680</i> ; NIC. <i>Th. 874</i>.<p><b>Étym</b>. <i>cf</i>. γελγίς.`

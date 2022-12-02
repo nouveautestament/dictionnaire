@@ -1,0 +1,1 @@
+lar[3031]=`<b>ή, όν</b>, de l’Académie, platonicien, PLUT. <i>Dem. c. Cic. 1</i> ; LUC. <i>Pisc. 43, etc</i>.`

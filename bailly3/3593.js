@@ -1,0 +1,1 @@
+lar[3593]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> orge, NIC. <i>Al. 106 au pl</i>.<p><b>Étym</b>. <i>inconnue ; p.-ê. mot d’origine étrangère</i>.`

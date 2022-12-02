@@ -1,0 +1,1 @@
+lar[25120]=`<b>δια·ναυμαχέω-ῶ</b> <font color="purple">[μᾰ]</font> livrer un combat naval, HDT. <i>5, 86 ; 8, 63</i> ; ISOCR. <i>60e</i>.`

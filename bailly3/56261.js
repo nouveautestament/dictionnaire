@@ -1,0 +1,1 @@
+lar[56261]=`<b>ου (ὁ)</b> Knèmos, <i>Spartiate,</i> THC. <i>2, 80, 83, 86</i>.`

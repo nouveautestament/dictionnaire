@@ -1,0 +1,1 @@
+lar[24442]=`<b>δια·βορβορύζω</b>, éprouver <i>ou</i> faire entendre des borborygmes, HPC. <i>1252c et 1255</i> h (<i>partic. prés</i>. -ύζοντα) ; <i>401, 16</i>.<p><b>Étym</b>. <i>ao. sbj. 3 sg</i>. -ύξῃ.`

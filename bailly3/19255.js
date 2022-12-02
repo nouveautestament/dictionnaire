@@ -1,0 +1,1 @@
+lar[19255]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> Basileidès, <i>h</i>. AR. <i>Eccl. 97 (acc. pl</i>. βασιλείδας).<br><b>      2</b> οἱ βασιλεῖδαι, les Basilides, <i>n. d’une famille,</i> PLAT. <i>Criti. 116c ; cf</i>. βασιλίδαι.<p>➳ <i>Ion</i>. βασιληΐδης, HDT. <i>6, 132</i>.<p><b>Étym</b>. <i>patr. de</i> βασιλεύς.`

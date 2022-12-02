@@ -1,0 +1,1 @@
+lar[21605]=`<b>ωνος (ὁ)</b> Gélon :<br><b>      1</b> <i>tyran de Syracuse,</i> HDT. <i>7, 145, etc.</i> ; PLUT. <i>etc.</i><br><b>      2</b> <i>autres,</i> POL. PLUT. ANTH. <i>6, 107</i>.`

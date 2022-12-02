@@ -1,0 +1,1 @@
+lar[11896]=`<b>ἀπηλεγέω-ῶ</b>, n’avoir aucun souci de, A.RH. <i>2, 17</i>.<p><b>Étym</b>. ἀπηλεγής.`

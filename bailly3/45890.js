@@ -1,0 +1,1 @@
+lar[45890]=`<b>ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. disciple du médecin Hèrophilos, GAL. <i>8, 90</i> ; οἱ Ἡροφίλειοι, disciples d’Hèrophilos, STR. <i>579</i> ; GAL. <i>8, 156</i>.<p><b>Étym</b>. Ἡρόφιλος.`

@@ -1,0 +1,1 @@
+lar[7021]=`<b>ἀνα·κτίζω :<br>      1</b> rebâtir, créer de nouveau, STR. <i>403</i> ; JOS. <i>A.J. 11, 4, 3, etc.</i><br><b>      2</b> <i>fig</i>. régénérer, CLÉM. <i>2, 259 Migne</i>.`

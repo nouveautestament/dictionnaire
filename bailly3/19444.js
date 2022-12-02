@@ -1,0 +1,1 @@
+lar[19444]=`<b>ή, όν</b>, propre à consolider, à garantir, EPICT. <i>Ench. 52</i>.<p><b>Étym</b>. βεβαιόω.`

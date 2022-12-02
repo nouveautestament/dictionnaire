@@ -1,0 +1,1 @@
+lar[95018]=`<b>συν·αυλίζομαι</b>, habiter <i>ou</i> vivre avec, BABR. <i>106, 6</i> ; PHALAR. <i>Ep. 34</i> ; NT. <i>Ap. 1, 4</i>.<p><b>Étym</b>. σ. αὐλίζω.`

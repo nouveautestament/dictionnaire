@@ -1,0 +1,1 @@
+lar[8474]=`<b>ἀν·επι·πρόσθητος, ος, ον</b>, non couvert par un corps interposé, PORPH. <i>Sent. 27</i>.<p><b>Étym</b>. ἀν-, ἐπί, προστίθημι.`

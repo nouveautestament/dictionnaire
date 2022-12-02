@@ -1,0 +1,1 @@
+lar[81253]=`<b>ποδά·νιπτρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> eau pour laver les pieds, eau d’un bain de pieds, <i>au plur</i>. OD. <i>19, 343 et 504 ; au sg</i>. AR. <i>fr. 290 Dind</i>.<p><b>Étym</b>. πούς, νίπτω ; <i>cf</i>. ποδόνιπτρον.`

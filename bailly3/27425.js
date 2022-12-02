@@ -1,0 +1,1 @@
+lar[27425]=`<b>δολιχ·εγχής, ής, ές</b> <font color="purple">[ῐ]</font> à la longue javeline, IL. <i>21, 155</i>.<p><b>Étym</b>. δολιχός, ἔγχος.`

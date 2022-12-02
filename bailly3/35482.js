@@ -1,0 +1,1 @@
+lar[35482]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰπ]</font> asservissement, POL. <i>6, 49, 1</i>.<p><b>Étym</b>. ἐξανδραποδίζω.`

@@ -1,0 +1,1 @@
+lar[80272]=`<i>adv</i>., de manière à rendre aigre, SEXT. <i>M. 367</i>.<p><b>Étym</b>. πικραίνω.`

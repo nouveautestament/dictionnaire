@@ -1,0 +1,1 @@
+lar[87524]=`<b>ης, ες</b>, creusé en forme d’auge, ARSTT. <i>H.A. 5, 15, 17</i>.<p><b>Étym</b>. πύελος, -ωδης.`

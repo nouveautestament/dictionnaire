@@ -1,0 +1,1 @@
+lar[93586]=`<b>συγ·ξαίνω</b>, carder avec <i>ou</i> ensemble, CRATÈS (PLUT. <i>M. 830c</i>).`

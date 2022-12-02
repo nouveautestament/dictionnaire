@@ -1,0 +1,1 @@
+lar[8883]=`<b>ου (ὁ)</b> bruant, <i>ou p.-ê</i>. bergeronnette jaune, <i>oiseau,</i> ARSTT. <i>H.A. 8, 3, 5</i>.`

@@ -1,0 +1,1 @@
+lar[13692]=`<b>εως (ἡ)</b> cicatrisation, A. APHR. <i>Probl. 1, 111</i> ; DIOSC. <i>2, 5, etc</i>.<p><b>Étym</b>. ἀπουλόω.`

@@ -1,0 +1,1 @@
+lar[3182]=`<b>ἀ·κατάληκτος, ος, ον :<br>      1</b> qui ne cesse pas, OCELL. <i>4, 1</i> ; ARR. <i>Epict. 1, 17, 3</i> ; DL. <i>7, 51</i>.<br><b>      2</b> <i>t. de pros</i>. dont le dernier pied n’est pas tronqué, acatalectique, DRAC. <i>134, 7</i> ; HÉPH. <i>4, 1</i> ; A. QUINT. <i>p. 50</i>.<p><b>Étym</b>. ἀ, καταλήγω.`

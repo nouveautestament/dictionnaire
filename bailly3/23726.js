@@ -1,0 +1,1 @@
+lar[23726]=`<b>δεκατ·ώνης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> fermier des dîmes, ANAXIL. (POLL. <i>9, 29).</i><p><b>Étym</b>. δέκατος, ὠνέομαι.`

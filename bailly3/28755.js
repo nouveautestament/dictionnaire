@@ -1,0 +1,1 @@
+lar[28755]=`<b>δυσ·παράβλητος, ος, ον</b> <font color="purple">[πᾰ]</font> incomparable, PLUT. <i>Ant. 27</i>.<p><b>Étym</b>. δ. παραβάλλω.`

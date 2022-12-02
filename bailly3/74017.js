@@ -1,0 +1,1 @@
+lar[74017]=`<b>α, ον :<br>      1</b> qui arrive <i>ou</i> se fait tard, PD. <i>I. 4, 59</i>.<br><b>      2</b> qui arrive trop tard, tardif, XÉN. <i>Hell. 5, 4, 3</i> ; TH. <i>H.P. 2, 8, 1</i> ; PLUT. <i>M. 119c</i>.<p>•<i> Cp</i>. ὀψιαίτερος, ARSTT. <i>Meteor. 2, 5, 10 ; ou</i> ὀψίτερος, PLUT. <i>l. c. ; • Sup</i>. ὀψιαίτατος, XÉN. <i>l. c</i>.<p><b>Étym</b>. ὀψέ.`

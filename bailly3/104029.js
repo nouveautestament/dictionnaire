@@ -1,0 +1,1 @@
+lar[104029]=`<b>ὑπο·τρίζω</b>, faire entendre un petit bruit aigu, EL. <i>N.A. 7, 7 ; 7, 8</i> ; NONN. <i>D. 11, 219</i> ; ANTH. <i>11, 352</i>.`

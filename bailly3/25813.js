@@ -1,0 +1,1 @@
+lar[25813]=`<b>δι·αυθεντέω-ῶ :<br>      1</b> affirmer avec certitude, SEXT. <i>284, 5 Bkk.</i><br><b>      2</b> dominer, <i>gén</i>. CHRYS. <i>9, 778e Migne</i>.`

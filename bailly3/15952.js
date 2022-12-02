@@ -1,0 +1,1 @@
+lar[15952]=`<b>ου (τὸ)</b> Asculum, <i>v. d’Italie,</i> STR. PLUT. <i>etc</i>.`

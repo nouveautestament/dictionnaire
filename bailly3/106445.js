@@ -1,0 +1,1 @@
+lar[106445]=`<b>φλυακο·γράφος, ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> qui écrit des bouffonneries, ATH. <i>86a, 649a, 702b</i>.<p><b>Étym</b>. φλύαξ, γράφω.`

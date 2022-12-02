@@ -1,0 +1,1 @@
+lar[5228]=`<b>ἁμαξο·πληθής, ής, ές</b> <font color="purple">[ᾰμ]</font> qui pourrait remplir un chariot, EUR. <i>Ph. 1158</i> ; LUC. <i>V.H. 2, 41, etc</i>.<p><b>Étym</b>. ἅ. πλῆθος.`

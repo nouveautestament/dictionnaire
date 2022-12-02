@@ -1,0 +1,1 @@
+lar[88791]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> fait en forme de massue, DC. <i>72, 18</i>.<p><b>Étym</b>. *ῥοπαλόω <i>de</i> ῥόπαλον.`

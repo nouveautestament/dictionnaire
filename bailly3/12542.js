@@ -1,0 +1,1 @@
+lar[12542]=`<b>ἀπό·κενος, ος, ον</b>, tout à fait vide, DIOSC. <i>5, 45</i> ; HÉRON <i>Spir. 212</i>.<p><b>Étym</b>. ἀ. κενός.`

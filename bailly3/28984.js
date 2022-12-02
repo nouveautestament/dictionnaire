@@ -1,0 +1,1 @@
+lar[28984]=`<i>adv</i>., de façon à pouvoir être difficilement supporté, <i>d’où</i> avec impatience, <i>en parl. d’un malade,</i> HPC. <i>1161h ; au sens mor</i>. SOPH. <i>O.R. 770, 783</i> ; δ. φέρειν <i>ou</i> ἐνεγκεῖν, supporter avec impatience <i>ou</i> indignation, <i>joint à</i> χαλεπῶς, HDN <i>4, 13, 14</i>.`

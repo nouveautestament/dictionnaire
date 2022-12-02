@@ -1,0 +1,1 @@
+lar[40568]=`<b>ου (ὁ)</b> Hermæos :<br><b>      1</b> <i>n. d’h</i>. DÉM. <i>953, 19</i> ; PLUT. <i>Luc. 17, etc.</i><br><b>      2</b> <i>n. d’un mois argien (24 oct.-22 nov. romain</i>) POLYEN <i>8, 32</i>.<p><b>Étym</b>. Ἑρμῆς.`

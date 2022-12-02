@@ -1,0 +1,1 @@
+lar[92605]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> marqué d’un fer rouge, <i>en parl. des mauvais esclaves,</i> AR. <i>Lys. 331</i> ; XÉN. <i>Hell. 5, 3, 24</i> ; LYS. (ATH. <i>612c</i>).<br><b>      2</b> propriétaire dont les biens sont marqués comme grevés d’hypothèques, CRAT. (<i>Com. fr. 2, 220).</i><p><b>Étym</b>. στίγμα.`

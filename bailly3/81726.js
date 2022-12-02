@@ -1,0 +1,1 @@
+lar[81726]=`<b>πολύ·αρκυς, υος (ὁ, ἡ)</b> aux filets nombreux, OPP. <i>C. 4, 10</i>.<p><b>Étym</b>. π. ἄ.`

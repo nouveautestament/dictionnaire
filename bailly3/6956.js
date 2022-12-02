@@ -1,0 +1,1 @@
+lar[6956]=`<b>ἀνα·κλονέω-ῶ</b>, agiter en tous sens, OPP. <i>H. 3, 478</i>.`

@@ -1,0 +1,1 @@
+lar[103644]=`<b>ὑπο·παρενθυμέομαι-οῦμαι</b> <font color="purple">[θῡ]</font> laisser son attention se relâcher un peu, ARR. <i>Epict. 4, 3, 5</i>.`

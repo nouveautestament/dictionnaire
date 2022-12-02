@@ -1,0 +1,1 @@
+lar[68007]=`<b>νεκρο·νώμης, ου (ὁ)</b> qui ensevelit les morts, MAN. <i>4, 192</i>.<p><b>Étym</b>. ν. νωμάω.`

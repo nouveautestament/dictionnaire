@@ -1,0 +1,1 @@
+lar[73880]=`<b>ης, ες :<br>      1</b> qui ressemble à des sourcils, EROT. <i>86</i>.<br><b>      2</b> <i>fig</i>. orgueilleux, NAZ. <i>3, 1076 Migne</i>.<p><b>Étym</b>. ὀφρ. -ωδης.`

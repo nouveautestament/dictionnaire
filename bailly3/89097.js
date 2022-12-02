@@ -1,0 +1,1 @@
+lar[89097]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Sadyattès, <i>roi de Lydie,</i> HDT. <i>1, 16, 18, 73</i>.`

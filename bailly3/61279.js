@@ -1,0 +1,1 @@
+lar[61279]=`<b>λιπαρ·αυγής, ής, ές</b> <font color="purple">[ῐᾰ]</font> luisant, brillant, PHILOX. (ATH. <i>643a</i>).<p><b>Étym</b>. λ. αὐγή.`

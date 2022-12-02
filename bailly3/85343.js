@@ -1,0 +1,1 @@
+lar[85343]=`<b>προσ·βιόω-ῶ</b>, vivre plus longtemps, survivre, PLUT. <i>Num. 21, etc</i>.`

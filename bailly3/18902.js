@@ -1,0 +1,1 @@
+lar[18902]=`<b>ης (ἡ) :<br>      1</b> prêtresse de Bacchus, bacchante, ESCHL. <i>Eum. 25</i> ; SOPH. <i>Ant. 1125</i> ; PLAT. <i>etc. ; en gén</i>. toute femme inspirée, EUR. <i>Hec. 123, etc.</i><br><b>      2</b> sorte de poire, NIC. <i>Th. 513 ; Al. 354</i>.<p>➳ <i>Dor</i>. βάκχα, EUR. <i>Bacch. 169</i> ; ANTH. <i>7, 774, etc</i>.<p><b>Étym</b>. βάκχος.`

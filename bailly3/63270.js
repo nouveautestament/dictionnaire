@@ -1,0 +1,1 @@
+lar[63270]=`<b>μαψι·λόγος, ος, ον</b> <font color="purple">[ῐ]</font> qui parle <i>ou</i> avertit en vain, HH. <i>Merc. 546</i>.<p><b>Étym</b>. μάψ, λέγω.`

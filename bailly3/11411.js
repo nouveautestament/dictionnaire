@@ -1,0 +1,1 @@
+lar[11411]=`<i>adv</i>., justement, exactement, DL. <i>7, 60</i>.<p><b>Étym</b>. ἀπαρτίζω.`

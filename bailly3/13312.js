@@ -1,0 +1,1 @@
+lar[13312]=`<b>ἀπο·σκευάζω</b>, démolir, enlever : ὀροφήν, LYCURG. <i>166, 9,</i> un toit.<br><b><i>Moy.</i></b> :<br><b>      1</b> emporter ses bagages pour les déposer (en lieu sûr) POL. <i>2, 26, 6</i>.<br><b>      2</b> se défaire <i>ou</i> se débarrasser de, <i>acc</i>. LUC. <i>Tyr. 1, etc.</i> ; HDN <i>4, 13, 9, etc</i>.`

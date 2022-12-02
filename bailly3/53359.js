@@ -1,0 +1,1 @@
+lar[53359]=`<b>ατος (τὸ)</b> voile, tenture, couverture, ESCHL. <i>Ch. 999</i>.<p><b>Étym</b>. κατασκηνόω.`

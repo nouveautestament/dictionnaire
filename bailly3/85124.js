@@ -1,0 +1,1 @@
+lar[85124]=`<b>προσ·αμπέχω</b>, revêtir en outre, CHÉRÉM. (ATH. <i>608b</i>) ; <i>au pass</i>. s’embarrasser dans, <i>dat</i>. ANTH. <i>12, 93</i>.`

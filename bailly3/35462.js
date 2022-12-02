@@ -1,0 +1,1 @@
+lar[35462]=`<b>ἐξ·αναπείθω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐξανέπεισε)</font> parvenir à persuader, HERMÉS. <i>5, 8</i>.`

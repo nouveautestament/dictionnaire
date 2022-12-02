@@ -1,0 +1,1 @@
+lar[49519]=`<b>α, ον</b> <font color="purple">[ῑ̆]</font> <i>c</i>. ἶσος, NIC. <i>Th. 360</i> ; ἡ ἰσαία (<i>s.-e</i>. μοῖρα) CALL. <i>Jov. 63</i> ; PHILSTR. <i>567,</i> l’égalité.`

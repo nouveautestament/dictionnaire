@@ -1,0 +1,1 @@
+lar[3490]=`<font color="purple">[λᾰ]</font> <i>adv</i>., sans flatterie, CIC. <i>Att. 13, 51, 1</i>.`

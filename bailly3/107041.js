@@ -1,0 +1,1 @@
+lar[107041]=`<b>φυγοπονέω-ῶ</b>, fuir le travail, ORIG. <i>c. Cels. 348</i>.<p><b>Étym</b>. φυγόπονος.`

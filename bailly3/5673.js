@@ -1,0 +1,1 @@
+lar[5673]=`<b>ωνος (ὁ)</b> Ammon, <i>n. égypt. de Zeus,</i> HDT. <i>2, 42</i> ; PLAT. <i>Pol. 257b, etc.</i> ; εἰς <i>ou</i> ἐν Ἄμμωνος (<i>s.-e</i>. ἱερῷ) DS. <i>17, 49</i> ; PLUT. <i>Lys. 20, etc</i>. dans le temple d’Ammon.<p>➳ <i>Voc</i>. -ων, PD. <i>fr. 7</i>.`

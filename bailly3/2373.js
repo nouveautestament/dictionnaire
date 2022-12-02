@@ -1,0 +1,1 @@
+lar[2373]=`<i>gén. épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[ᾱῐ]</font> <i>c</i>. Ἀϊδωνεύς, NONN. <i>D. 30, 172</i> ; Q. SM. <i>3, 15, etc</i>.`

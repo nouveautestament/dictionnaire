@@ -1,0 +1,1 @@
+lar[20812]=`<font color="purple">[ῑ]</font> <i>adv</i>., avec un grondement de colère, NONN. <i>Jo. 11, 38</i>.<p><b>Étym</b>. βριμάομαι, -δον.`

@@ -1,0 +1,1 @@
+lar[45601]=`<b>ἡμι·φυής, ής, ές</b> <font color="purple">[ῐ]</font> qui n’a crû qu’à moitié, à demi avorté, MÉN. (POLL. <i>6, 161).</i><p><b>Étym</b>. ἡμι-, φύω.`

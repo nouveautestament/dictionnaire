@@ -1,0 +1,1 @@
+lar[74869]=`<b>παν·α·πείριτος, ος, ον</b> <font color="purple">[ᾰνᾰῑτ]</font> tout à fait sans borne, immense, OPP. <i>C. 2, 517</i>.<p><b>Étym</b>. π. α <i>nég</i>. πέρας.`

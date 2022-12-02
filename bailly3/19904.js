@@ -1,0 +1,1 @@
+lar[19904]=`<b>εος-ους (τὸ)</b> humeur visqueuse, ARSTT. <i>H.A. 8, 2, 26</i>.`

@@ -1,0 +1,1 @@
+lar[100990]=`<b>ου (ὁ)</b> Tyliphos, <i>n. de pâtre,</i> PLUT. <i>Parall. min. 36</i>.`

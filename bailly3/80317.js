@@ -1,0 +1,1 @@
+lar[80317]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> <i>c</i>. πιλητός, STR. <i>307, 733 ; en parl. des bonnets des Flamines,</i> DH. <i>2, 64, etc</i>.<p><b>Étym</b>. πιλόω.`

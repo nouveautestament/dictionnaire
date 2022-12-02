@@ -1,0 +1,1 @@
+lar[16313]=`<b>ἀστρο·γείτων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, voisin des astres, ESCHL. <i>Pr. 721</i>.<p><b>Étym</b>. ἄστρον, γ.`

@@ -1,0 +1,1 @@
+lar[5321]=`<b>ικος (ὁ)</b> <font color="purple">[ῑκ]</font> vase à bords relevés, ATH. <i>480c ; particul</i>. appareil à distillation, DIOSC. <i>5, 110</i>.<p><b>Étym</b>. <i>cf</i>. ἄμβων.`

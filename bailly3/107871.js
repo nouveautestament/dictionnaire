@@ -1,0 +1,1 @@
+lar[107871]=`<b>ου (τὸ)</b> <font color="purple">[χᾰ]</font> <i>c</i>. χαρακτήρ, JOS. <i>Hypomn. 144</i>.`

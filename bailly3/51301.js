@@ -1,0 +1,1 @@
+lar[51301]=`<b>καλο·καιρινός, ή, όν</b> <font color="purple">[ᾰ]</font> de la belle saison, HIPPIATR. <i>p. 271</i>.<p><b>Étym</b>. κ. καιρός.`

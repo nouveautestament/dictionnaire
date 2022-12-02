@@ -1,0 +1,1 @@
+lar[35933]=`<b>ἑξηκοντά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> à 60 lits de table, DS. <i>16, 83</i>.<p><b>Étym</b>. ἑξ. κλίνη.`

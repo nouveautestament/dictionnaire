@@ -1,0 +1,1 @@
+lar[17521]=`<b>αὐτοκινέω-ῶ</b> <font color="purple">[ῑ]</font> avoir en soi le principe du mouvement, PROCL.`

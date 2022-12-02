@@ -1,0 +1,1 @@
+lar[60062]=`être lisse, uni, ARSTT. <i>P.A. 2, 14, 3</i>.<p><b>Étym</b>. <i>conj. p</i>. ἀλεάζω.`

@@ -1,0 +1,1 @@
+lar[84878]=`<b>προ·παιδοποιέω-ῶ</b>, enfanter auparavant, STOB. <i>Ecl. 1, 946</i>.`

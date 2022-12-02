@@ -1,0 +1,1 @@
+lar[73080]=`<b>ὀρτυγοτροφέω-ῶ</b> <font color="purple">[ῠ]</font> nourrir des cailles, M. ANT. <i>1, 6</i>.<p><b>Étym</b>. ὀρτυγοτρόφος.`

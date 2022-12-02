@@ -1,0 +1,1 @@
+lar[77608]=`<b>Πειθι·άνασσα, ης (ἡ)</b> <font color="purple">[ᾰν]</font> Peithianassa, <i>f</i>. NONN. <i>D. 8, 193</i>.<p><b>Étym</b>. πείθω, ἄνασσα.`

@@ -1,0 +1,1 @@
+lar[108316]=`<i>néo-att</i>. <b>Χερρονήσιος, α, ον</b>, de la Chersonèse de Thrace, EUR. <i>Hec. 8, 38, etc</i>.<p>➳ <i>Dans une inscr. att. de 452 av. J.-C</i>. Χερσονήσιος ; <i>à partir de 451 av. J.-C</i>. Χερρονήσιοι ; <i>v. Meisterh. p. 76, 2</i>.<p><b>Étym</b>. Χερσόνησος.`

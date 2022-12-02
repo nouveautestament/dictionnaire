@@ -1,0 +1,1 @@
+lar[78900]=`<b>περί·λυπος, ος, ον</b> <font color="purple">[ῡ]</font> très triste, affligé, HPC. <i>390, 53</i> ; ISOCR. <i>11b ;</i> ARSTT. <i>Nic. 4, 3, 18</i>.<p><b>Étym</b>. π. λύπη.`

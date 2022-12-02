@@ -1,0 +1,1 @@
+lar[73119]=`<b>α, ον</b>, d’Orphée, EUR. <i>Alc. 969</i> ; PLAT. <i>Leg. 829e</i>.<p><b>Étym</b>. Ὀρφεύς.`

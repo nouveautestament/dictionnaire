@@ -1,0 +1,1 @@
+lar[28633]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> difficulté pour apprendre, PLAT. <i>Charm. 159e, Theæt. 195c, Leg. 812e ; au plur</i>. PLAT. <i>Rsp. 618d.</i><br><b>      2</b> <i>p. suite,</i> lenteur d’esprit, PLAT. <i>Ep. 315c</i>.<p><b>Étym</b>. δυσμαθής.`

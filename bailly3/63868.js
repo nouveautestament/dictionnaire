@@ -1,0 +1,1 @@
+lar[63868]=`<b>οῦς (ἡ)</b> Mélantho, <i>servante d’Ulysse,</i> OD. <i>18, 321 ; 19, 65</i>.`

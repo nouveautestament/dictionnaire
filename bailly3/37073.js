@@ -1,0 +1,1 @@
+lar[37073]=`<b>ἐπ·εμέω-ῶ</b> <font color="darkgreen">(<i>ao. part</i>. ἐπεμέσας)</font> vomir sur, <i>dat</i>. NYSS. <i>2, 560</i>.`

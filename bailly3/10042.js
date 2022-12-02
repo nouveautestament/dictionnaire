@@ -1,0 +1,1 @@
+lar[10042]=`<b>ἀντι·λογίζομαι</b> <font color="darkgreen">(<i>ao</i>. ἀντελογισάμην)</font> calculer de son côté <i>ou</i> par contre, XÉN. <i>Hell. 6, 5, 24</i> ; ANT. <i>117, 13</i>.`

@@ -1,0 +1,1 @@
+lar[78535]=`<b>περι·διπλόω-ῶ</b>, plier, empaqueter, SPT. <i>Judith 10, 5</i>.`

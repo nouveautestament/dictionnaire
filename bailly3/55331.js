@@ -1,0 +1,1 @@
+lar[55331]=`<b>ου (τὸ)</b> vomitif (<i>probabl</i>. huile de poisson) CRAT. (<i>Com. fr. 2, 165).</i><p><b>Étym</b>. κῆτος.`

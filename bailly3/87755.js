@@ -1,0 +1,1 @@
+lar[87755]=`<b>ή, όν</b> <font color="purple">[ῡᾰῐδ]</font> en forme de pyramide, pyramidal, JAMBL. <i>Nicom. ar. 133</i>.<p><b>Étym</b>. πυραμίς.`

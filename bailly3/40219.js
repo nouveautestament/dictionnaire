@@ -1,0 +1,1 @@
+lar[40219]=`<b>ἐργο·στόλος, ου (ὁ)</b> qui préside à un travail, CHARIT. <i>4, 2</i>.<p><b>Étym</b>. ἔργον, στέλλω.`

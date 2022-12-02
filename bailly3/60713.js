@@ -1,0 +1,1 @@
+lar[60713]=`<b>λεω·σφέτερος, ος, ον</b>, compatriote, concitoyen, HDT. <i>9, 33</i>.<p><b>Étym</b>. λ. σφέτερος.`

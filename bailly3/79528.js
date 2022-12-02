@@ -1,0 +1,1 @@
+lar[79528]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en poussant tout autour, A.RH. <i>2, 143</i>.<p><b>Étym</b>. περίτροπος, -δην.`

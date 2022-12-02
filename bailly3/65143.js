@@ -1,0 +1,1 @@
+lar[65143]=`<b>μετεωρο·ποιέω-ῶ</b>, lever en l’air, élever, hausser, HPC. <i>832d</i>.<p><b>Étym</b>. μετέωρος, ποιέω.`

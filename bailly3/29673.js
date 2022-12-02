@@ -1,0 +1,1 @@
+lar[29673]=`<i>adv</i>., d’une manière coupable, ORIG. <i>1, 1233d Migne</i>.`

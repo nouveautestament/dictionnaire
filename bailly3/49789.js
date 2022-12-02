@@ -1,0 +1,1 @@
+lar[49789]=`<b>ος, ον</b> <font color="purple">[ῑ̆σ]</font> égal en durée, CLÉOM. <i>78, 18</i> ; PTOL. <i>Tetr. 36</i>.<p><b>Étym</b>. ἰσόχρονος.`

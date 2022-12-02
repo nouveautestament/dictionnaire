@@ -1,0 +1,1 @@
+lar[35983]=`<b>ἐξ·ιδρύω</b>, faire asseoir, SOPH. <i>O.C. 11</i>.<br><b><i>Moy.</i></b> asseoir, établir, <i>fig</i>. EUR. <i>fr. 877</i>.`

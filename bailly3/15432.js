@@ -1,0 +1,1 @@
+lar[15432]=`<b>ἀρτοφαγέω-ῶ</b> <font color="purple">[φᾰ]</font> manger du pain, HDT. <i>2, 77</i> ; HPC. <i>530, 14</i>.<p><b>Étym</b>. ἀρτοφάγος.`

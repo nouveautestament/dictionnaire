@@ -1,0 +1,1 @@
+lar[59240]=`<b>ου (τὸ)</b> Kônôpion, <i>lieu près du Palus-Mæotide,</i> EL. <i>N.A. 6, 65</i>.`

@@ -1,0 +1,1 @@
+lar[26945]=`<b>διπλασι·επί·τριτος, ος, ον</b>, plus grand de 2 ⅓, NICOM. <i>Arithm. 101, 35 ; 107, 22</i> ; JAMBL. <i>69a, etc</i>.`

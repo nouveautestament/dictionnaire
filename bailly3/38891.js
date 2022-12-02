@@ -1,0 +1,1 @@
+lar[38891]=`<b>ἐπι·ρρητέον</b>, il faut ajouter, PLUT. <i>M. 36</i>.<p><b>Étym</b>. ἐπί, ἐρῶ.`

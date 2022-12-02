@@ -1,0 +1,1 @@
+lar[51481]=`<i>ou</i> <b>καννάβευμα, ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> modèle, ébauche, AR. <i>fr. 561, conj. de Schneid. p</i>. κινάβευμα.<p><b>Étym</b>. κάναβος.`

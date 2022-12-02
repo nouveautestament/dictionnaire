@@ -1,0 +1,1 @@
+lar[63952]=`démembrer, dépecer, APD. <i>3, 12, 6</i>.<p><b>Étym</b>. μέλος.`

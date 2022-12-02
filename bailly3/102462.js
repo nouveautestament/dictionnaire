@@ -1,0 +1,1 @@
+lar[102462]=`<b>ὑπερ·έρχομαι :<br>      1</b> passer par-dessus, franchir, <i>acc</i>. XÉN. <i>An. 4, 4, 3</i> ; EL. <i>N.A. 16, 21</i> ; JOS. <i>A.J. 3, 1, 5</i>.<br><b>      2</b> l’emporter sur, vaincre : τινι, PD. <i>O. 13, 20,</i> en qqe ch.`

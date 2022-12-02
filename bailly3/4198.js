@@ -1,0 +1,1 @@
+lar[4198]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> jeune coq, BABR. <i>5, 1 ; 97, 9</i>.<p><b>Étym</b>. ἀλέκτωρ.`

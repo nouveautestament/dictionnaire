@@ -1,0 +1,1 @@
+lar[10229]=`<b>Ἀντί·πατρος, ου (ὁ)</b> Antipatros (Antipater) :<br><b>      1</b> <i>général d’Alexandre le Grand,</i> DÉM. <i>362</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>7, 118</i> ; DÉM. <i>933, 23, etc</i>.<p>➳ <font color="purple">[πᾰ]</font> ANTH. <i>6, 49</i>.<p><b>Étym</b>. ἀ. πατήρ.`

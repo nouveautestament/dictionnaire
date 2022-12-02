@@ -1,0 +1,1 @@
+lar[105235]=`<b>φηλόω-ῶ</b>, tromper, voler, ESCHL. <i>Ag. 492</i> ; EUR. <i>Suppl. 243</i> ; LYC. <i>785</i> ; A.RH. <i>3, 983</i> ; BABR. <i>16, 12</i>.<p><b>Étym</b>. φηλός.`

@@ -1,0 +1,1 @@
+lar[1456]=`<b>ἄ·διψος, ος, ον :<br>      1</b> qui n’a pas soif, HPC. <i>180b ;</i> EUR. <i>Cycl. 574</i> ; ARSTT. <i>P.A. 3, 6, 8</i>.<br><b>      2</b> qui ne produit pas la soif, XÉNOCR. <i>Al. 67</i> ; DIOSC. <i>1, 183</i> ; GAL. <i>6, 316</i>.<p><b>Étym</b>. ἀ, δίψα.`

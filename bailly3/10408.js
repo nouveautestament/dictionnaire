@@ -1,0 +1,1 @@
+lar[10408]=`<b>ἀντι·σπουδάζω</b> <font color="darkgreen">(<i>ao</i>. ἀντεσπούδασα)</font> s’opposer vivement à, <i>dat</i>. DC. <i>40, 55</i>.`

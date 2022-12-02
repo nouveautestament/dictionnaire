@@ -1,0 +1,1 @@
+lar[20050]=`<b>βο·ηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>prés. sbj. 3 pl. poét</i>. βοηλατέωσι) pousser un cri <i>ou</i> des cris, OPP. <i>C. 4, 64</i>.<p><b>Étym</b>. βοή, ἐλαύνω.`

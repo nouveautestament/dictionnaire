@@ -1,0 +1,1 @@
+lar[100087]=`<b>τριακοντα·στάδιος, ος, ον</b> <font color="purple">[ᾱκᾰδ]</font> de trente stades, STR. <i>804</i>.<p><b>Étym</b>. τρ. στάδιον.`

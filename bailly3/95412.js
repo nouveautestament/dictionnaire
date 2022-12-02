@@ -1,0 +1,1 @@
+lar[95412]=`<b>συν·εκτείνω :<br>      1</b> étendre avec <i>ou</i> en même temps, HÉRACLITE GRAMM. <i>All. Hom. 54 ; p. suite,</i> mettre en parallèle avec, ZOS. <i>4, 33</i>.<br><b>      2</b> rendre égal à, PLUT. <i>M. 901b</i>.`

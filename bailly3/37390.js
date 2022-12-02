@@ -1,0 +1,1 @@
+lar[37390]=`<b>ἐπι·βραβεύω</b> <font color="purple">[ᾰ]</font> adjuger, décerner, ES. <i>231.3 Chambry</i>.`

@@ -1,0 +1,1 @@
+lar[68569]=`<i>adv</i>., sans chagrin, PROTAG. (PLUT. <i>M. 118e</i>).<p><b>Étym</b>. νηπενθής.`

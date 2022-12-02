@@ -1,0 +1,1 @@
+lar[56624]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> cheville <i>ou</i> clef, <i>pour tendre les cordes d’un instrument,</i> LUC. <i>D. deor. 7, 4</i>.<br><b>      2</b> gâteau, AR. <i>Ran. 507, etc.</i> ; ATH. <i>96d, etc</i>.<p><b>Étym</b>. <i>cf</i>. κόλλοψ.`

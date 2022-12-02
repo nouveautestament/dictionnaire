@@ -1,0 +1,1 @@
+lar[46142]=`<b>α, ον</b> <font color="purple">[θᾰ]</font> <i>c</i>. θαλάσσιος, SIB. <i>3, p. 431</i> ; ORIB. <i>346, 351, 352, 356 Matthäi</i>.`

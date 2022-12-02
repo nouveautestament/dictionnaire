@@ -1,0 +1,1 @@
+lar[104170]=`<b>ὑπό·χολος, ος, ον</b>, un peu bilieux, HPC. <i>493, 30 ; 518, 5</i> ; ARÉT. <i>Caus. m. acut. 2, 1</i> ; SEXT. <i>M. 1, 308</i>.<p><b>Étym</b>. ὑ. χολή.`

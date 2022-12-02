@@ -1,0 +1,1 @@
+lar[65633]=`<font color="purple">[ῐᾰ]</font> <i>adv. c</i>. μίγα NIC. <i>Al. 277, 349</i>.<p><b>Étym</b>. μίγα, -δην.`

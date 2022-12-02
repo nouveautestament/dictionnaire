@@ -1,0 +1,1 @@
+lar[81829]=`<b>πολυ·δάπανος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font><br><b>      1</b> qui dépense beaucoup, prodigue, XÉN. <i>Ap. 19</i>.<br><b>      2</b> qui cause beaucoup de dépenses, coûteux, HDT. <i>2, 137</i> ; XÉN. <i>Lac. 5, 3</i>.<p><b>Étym</b>. π. δαπάνη.`

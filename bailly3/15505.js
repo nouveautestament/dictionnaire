@@ -1,0 +1,1 @@
+lar[15505]=`<b>ων (τὰ)</b> assemblée pour l’élection des magistrats, POL. <i>4, 67, 1</i> ; DH. <i>6, 89</i> ; PLUT. <i>Cam. 42, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀρχαιρεσία.`

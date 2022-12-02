@@ -1,0 +1,1 @@
+lar[828]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾱν]</font><br><b>      1</b> fonction d’agoranome, ARSTT. <i>Pol. 7, 12, 7</i>.<br><b>      2</b> <i>à Rome,</i> fonction d’édile, POL. <i>10, 40, 1</i> ; PLUT. <i>Æmil. 3, etc</i>.`

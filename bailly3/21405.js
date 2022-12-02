@@ -1,0 +1,1 @@
+lar[21405]=`<b>α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> <i>mot dor. de Sicile,</i> taureau de labour, DIONYS. (ATH. <i>98d</i>).<p><b>Étym</b>. γᾶ, ἀρόω.`

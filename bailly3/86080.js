@@ -1,0 +1,1 @@
+lar[86080]=`<b>πρόσ·κυνες, ων (οἱ)</b> <font color="purple">[ῠ]</font> flatteurs qui font le chien couchant, HIPPIAS (ATH. <i>259a</i>).<p><b>Étym</b>. π. κύων.`

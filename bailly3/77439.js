@@ -1,0 +1,1 @@
+lar[77439]=`<b>παυσι·κάπη, ης (ἡ)</b> <font color="purple">[ῐκᾰ]</font> sorte de muselière pour empêcher les esclaves de manger, AR. <i>fr. 287 Dind</i>.<p><b>Étym</b>. π. κάπη.`

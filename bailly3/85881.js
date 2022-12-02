@@ -1,0 +1,1 @@
+lar[85881]=`<b>προσ·ιδρύω</b>, établir auprès de, <i>dat</i>. PROCL. <i>Plat. 1 Alc. p. 138 Creuz.</i> ; HLD. <i>p. 417, 3</i>.`

@@ -1,0 +1,1 @@
+lar[82522]=`<b>Πολυ·φόντης (ὁ)</b> <font color="purple">[ῠ]</font> Polyphontès, <i>h</i>. IL. <i>4, 395</i> ; ESCHL. <i>Sept. 448</i>.<p>➳ <i>Voc</i>. Πολυφόντα, ANTH. <i>3, 5</i>.<p><b>Étym</b>. π. πεφνεῖν.`

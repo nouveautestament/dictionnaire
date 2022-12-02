@@ -1,0 +1,1 @@
+lar[104702]=`<b>φακο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> en forme de lentille, lenticulaire, ARSTT. <i>Cæl. 2, 4, 8</i> ; PLUT. <i>M. 288b ;</i> ANON. I AR. <i>p. 90, 23</i> ; φακοειδὲς ὑγρόν, ÆT. le cristallin de l’œil.<p><b>Étym</b>. φακός, εἶδος.`

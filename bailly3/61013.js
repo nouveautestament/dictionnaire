@@ -1,0 +1,1 @@
+lar[61013]=`<b>λιθ·άργυρος, ου (ἡ)</b> <font color="purple">[ῐῠ]</font><br><b>   I</b> <i>subst.</i> :<br><b>      1</b> litharge d’argent, NIC. <i>Al. 607</i>.<br><b>      2</b> mélange d’argent et de plomb, <i>sorte d’étain,</i> DIOSC. <i>5, 102</i>.<br><b>   II</b> <i>adj</i>. en litharge <i>ou</i> en étain, ACHÆ. (ATH. <i>451d</i>).<p><b>Étym</b>. λίθος, ἄ.`

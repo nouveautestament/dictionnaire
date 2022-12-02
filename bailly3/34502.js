@@ -1,0 +1,1 @@
+lar[34502]=`<b>ἐν·θάπτω</b>, ensevelir dans, <i>dat</i>. ESCHN. <i>14, 14</i> ; DH. <i>5, 48</i> ; DS. <i>1, 66</i>.<p>➳ <i>Fut. 2 pass</i>. ἐνταφήσομαι <font color="purple">[ᾰ]</font> PLUT. <i>Dio. 43 ; ao.2</i> ἐνετάφην, ESCHN. <i>l. c. ; inf. pf</i>. ἐντεθάφθαι, ARR. <i>An. 7, 1, 6</i>.`

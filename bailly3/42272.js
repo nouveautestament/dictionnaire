@@ -1,0 +1,1 @@
+lar[42272]=`<b>εως (ἡ) :<br>      1</b> action de rendre droit, GAL. <i>18, 481</i>.<br><b>      2</b> direction en ligne droite, ARSTT. <i>Meteor. 4, 9, 8, etc</i>.<p><b>Étym</b>. εὐθύνω.`

@@ -1,0 +1,1 @@
+lar[10436]=`<b>ας (ἡ) :<br>      1</b> correspondance, disposition symétrique, ARSTT. <i>Probl. 10, 30</i> ; PLUT. <i>M. 474b.</i><br><b>      2</b> <i>particul</i>. permutation de sons <i>ou</i> de lettres, <i>t. de gr</i>. ATH. <i>501b</i>.<p><b>Étym</b>. ἀντίστοιχος.`

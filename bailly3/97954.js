@@ -1,0 +1,1 @@
+lar[97954]=`<b>ῶν (αἱ)</b> Tégyræ, <i>v. de Béotie,</i> PLUT. <i>Pel. 16, 17, 19, etc</i>.`

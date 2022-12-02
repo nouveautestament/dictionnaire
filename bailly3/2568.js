@@ -1,0 +1,1 @@
+lar[2568]=`<i>part. prés. pass. ion. de</i> αἱμόω.`

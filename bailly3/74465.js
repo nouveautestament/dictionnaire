@@ -1,0 +1,1 @@
+lar[74465]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de vieillir, vétusté, STR. <i>243</i> ; PLUT. <i>M. 656b, etc</i>.<p><b>Étym</b>. παλαιόω.`

@@ -1,0 +1,1 @@
+lar[20413]=`<b>ωνος :<br>      1 ὁ</b> β. Boukoliôn, <i>Troyen,</i> IL. <i>6, 21</i> ; NONN. <i>etc. ; autre,</i> Q. SM.<br><b>      2 ἡ</b> β. Boukoliôn, <i>v. d’Arcadie,</i> THC. <i>4, 134</i>.<p><b>Étym</b>. βουκόλος.`

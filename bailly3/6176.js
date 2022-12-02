@@ -1,0 +1,1 @@
+lar[6176]=`<b>ἀμφι·καρής, ής, ές</b> <font color="purple">[κᾰ]</font><br><b>      1</b> <i>c</i>. ἀμφικάρηνος NIC. <i>Th. 812</i>.<br><b>      2</b> <i>p. anal</i>. à deux places <i>ou</i> sièges, OD. <i>17, 231 (sel. d’autres,</i> ἀμφὶ κάρη).<p><b>Étym</b>. ἀ. κάρη.`

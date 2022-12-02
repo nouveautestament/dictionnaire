@@ -1,0 +1,1 @@
+lar[94053]=`<b>συμ·παλαμάομαι-ῶμαι</b> <font color="purple">[πᾰλᾰ]</font> machiner <i>ou</i> tramer ensemble, SYN. <i>212, 148b</i>.`

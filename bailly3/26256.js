@@ -1,0 +1,1 @@
+lar[26256]=`<b>ατος (τὸ)</b> excitant, stimulant, APP. <i>Civ. 5, 53</i>.<p><b>Étym</b>. διερεθίζω.`

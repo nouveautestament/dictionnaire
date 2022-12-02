@@ -1,0 +1,1 @@
+lar[93725]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> <i>fém. de</i> συκοφάντης, AR. <i>Pl. 970</i>.`

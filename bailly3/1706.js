@@ -1,0 +1,1 @@
+lar[1706]=`<b>ἀει·τελής, ής, ές</b>, toujours parfait, ALCIN. <i>Intr. 477</i>.<p><b>Étym</b>. ἀ. τέλος.`

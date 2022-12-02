@@ -1,0 +1,1 @@
+lar[46078]=`<b>εως (ἡ)</b> action de faire du bruit, <i>d’où</i> bruit, NYSS. <i>1, 536a</i>.<p><b>Étym</b>. ἠχέω.`

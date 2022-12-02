@@ -1,0 +1,1 @@
+lar[14898]=`<b>ῆς (ἡ)</b> union, Q. SM. <i>11, 361</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂er-, ajuster, <i>cf</i>. ἀραρίσκω, ἅρμα.`

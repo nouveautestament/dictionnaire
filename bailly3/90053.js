@@ -1,0 +1,1 @@
+lar[90053]=`<b>σθενο·βριθής, ής, ές</b> <font color="purple">[ῑ]</font> très robuste, POLYEN <i>4, 7, 1</i>.<p><b>Étym</b>. σθένος βρίθω.`

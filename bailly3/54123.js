@@ -1,0 +1,1 @@
+lar[54123]=`<b>κατ·ολολύζω</b>, pousser un cri de triomphe sur, <i>gén</i>. ESCHL. <i>Ag. 1118</i>.`

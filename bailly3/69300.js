@@ -1,0 +1,1 @@
+lar[69300]=`<i>adv</i>., paresseusement, nonchalamment, HPC. <i>1244f ;</i> POL. <i>1, 74, 2, etc</i>.<p><b>Étym</b>. νωθρός.`

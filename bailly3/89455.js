@@ -1,0 +1,1 @@
+lar[89455]=`<b>σαρκό·ρριζος, ος, ον</b>, dont la racine est charnue, TH. <i>H.P. 7, 12, 1, etc</i>.<p><b>Étym</b>. σ. ῥίζα.`

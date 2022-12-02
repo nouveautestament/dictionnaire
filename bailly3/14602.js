@@ -1,0 +1,1 @@
+lar[14602]=`<b>ἀρι·κύμων, ονος</b> <font color="purple">[ᾰῐῡ]</font> <i>adj. f</i>. très féconde, HPC. <i>262, etc</i>.<p><b>Étym</b>. ἀρι-, κυέω.`

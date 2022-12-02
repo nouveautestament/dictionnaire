@@ -1,0 +1,1 @@
+lar[10062]=`<b>ύος (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἀντιμάχησις ERATOSTH. (SCH.-VEN. <i>Il. 19, 233</i>).`

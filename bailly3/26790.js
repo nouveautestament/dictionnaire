@@ -1,0 +1,1 @@
+lar[26790]=`<b>εως (ἡ)</b> convention, POL. <i>3, 27, 9</i> ; DS. <i>Exc. 7, 18 Mai</i>.<p><b>Étym</b>. διομολογέω.`

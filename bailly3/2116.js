@@ -1,0 +1,1 @@
+lar[2116]=`<b>ἀ·θυμίατος, ος, ον</b> <font color="purple">[ῡᾱ]</font> qui ne peut s’exhaler, ARSTT. <i>Meteor. 4, 8, 5</i>.<p><b>Étym</b>. ἀ, θυμιάω.`

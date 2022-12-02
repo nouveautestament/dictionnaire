@@ -1,0 +1,1 @@
+lar[50274]=`<b>ή, όν</b> <font color="purple">[κᾰ]</font><br><b>      1</b> enveloppé de, <i>dat</i>. AR. <i>Ran. 1212</i>.<br><b>      2</b> que l’on touche ; ὄργανον, ATH. <i>174c</i>, instrument dont on joue en le touchant, au moyen de touches.<p><b>Étym</b>. <i>vb. de</i> καθάπτω.`

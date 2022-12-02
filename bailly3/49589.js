@@ -1,0 +1,1 @@
+lar[49589]=`<b>(ἡ)</b> <i>seul. au pl</i>. sorte de champignon <i>qui pousse sur les chênes et les noyers,</i> P. ÉG. <i>6, 49</i>.<p><b>Étym</b>. <i>cf. lat</i>. siccus, <i>ital</i>. esca.`

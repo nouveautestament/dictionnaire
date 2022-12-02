@@ -1,0 +1,1 @@
+lar[63480]=`<b>μεγαλ·ωφελής, ής, ές</b> <font color="purple">[ᾰ]</font> grandement utile, PLUT. <i>M. 553d, etc</i>.<p><b>Étym</b>. μ. ὠφελέω.`

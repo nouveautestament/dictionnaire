@@ -1,0 +1,1 @@
+lar[92966]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> arrondissement, rondeur, HPC. <i>Art. 827</i>.<p><b>Étym</b>. στρογγυλόω.`

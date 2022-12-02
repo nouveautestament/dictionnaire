@@ -1,0 +1,1 @@
+lar[67942]=`<b>νεή·φατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se fait entendre pour la première fois, HH. <i>Merc. 443</i>.<p><b>Étym</b>. νέος, φημί.`

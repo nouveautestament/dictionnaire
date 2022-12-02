@@ -1,0 +1,1 @@
+lar[20504]=`<b>βοῦ·πληκτρος, ος, ον</b>, qui aiguillonne les bœufs, ANTH. <i>6, 41</i>.<p><b>Étym</b>. βοῦς, πλῆκτρον.`

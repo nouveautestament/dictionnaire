@@ -1,0 +1,1 @@
+lar[57611]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> force, vigueur, SPT. <i>Ps. 45, 3</i> ; CHRYS. <i>1, 648, etc</i>.<p><b>Étym</b>. κραταιός.`

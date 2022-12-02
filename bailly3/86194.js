@@ -1,0 +1,1 @@
+lar[86194]=`<b>ατος (τὸ)</b> ce qu’on porte à sa bouche, nourriture, aliment, HPC. <i>421, 51 ; 422, 20</i>.<p><b>Étym</b>. προσοίσομαι, <i>v</i>. προσφέρω.`

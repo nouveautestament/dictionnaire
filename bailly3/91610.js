@@ -1,0 +1,1 @@
+lar[91610]=`<b>ου (ὁ)</b> <i>sorte de gâteau,</i> CHRYSIPP. (ATH. <i>647c</i>).`

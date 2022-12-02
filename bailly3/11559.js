@@ -1,0 +1,1 @@
+lar[11559]=`<b>ης</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. d’Épire, OD. <i>7, 8</i>.<p><b>Étym</b>. Ἄπειρος.`

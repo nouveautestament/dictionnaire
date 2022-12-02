@@ -1,0 +1,1 @@
+lar[29212]=`<b>ῆρος (ὁ)</b> donateur, dispensateur, OD. <i>8, 325</i> ; HÉS. <i>Th. 46, etc</i>.<p><b>Étym</b>. δίδωμι.`

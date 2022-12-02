@@ -1,0 +1,1 @@
+lar[75539]=`<b>παραδοξο·ποιός, ός, όν</b>, qui fait des choses incroyables <i>ou</i> merveilleuses, des miracles, CHRYS.<p><b>Étym</b>. παράδοξος, ποιέω.`

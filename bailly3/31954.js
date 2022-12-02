@@ -1,0 +1,1 @@
+lar[31954]=`<b>ἐκ·προμολεῖν</b>, s’avancer hors de, sortir de, <i>gén</i>. A.RH. <i>4, 1587 ; abs</i>. ORPH. <i>Lith. 700</i>.<p><b>Étym</b>. ἐκ, πρό, μολεῖν ; <i>cf</i>. *βλώσκω.`

@@ -1,0 +1,1 @@
+lar[31825]=`<b>ἐκ·πέτομαι</b> <font color="darkgreen">(<i>ao.2</i> ἐξέπτην)</font> <i>c</i>. ἐκπέταμαι, BATR. <i>215</i> ; HÉS. <i>O. 98</i>.`

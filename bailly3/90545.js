@@ -1,0 +1,1 @@
+lar[90545]=`<b>ή, όν</b> <font color="purple">[σῑ]</font> <i>c</i>. σιτοποιϊκός, GAL. <i>6, 37b</i>.`

@@ -1,0 +1,1 @@
+lar[84269]=`<b>προ·εσθίω</b> (<i>seul. prés. et impf</i>. προήσθιον) manger auparavant, LUC. <i>Par. 59</i>.<p><b>Étym</b>. <i>v</i>. προέδω <i>et</i> προφαγεῖν.`

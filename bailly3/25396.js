@@ -1,0 +1,1 @@
+lar[25396]=`<b>δια·πυέω-ῶ</b> <font color="purple">[ῡ]</font> suppurer, HPC. <i>1252g</i>.`

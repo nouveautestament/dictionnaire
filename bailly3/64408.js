@@ -1,0 +1,1 @@
+lar[64408]=`<b>ῶν (οἱ)</b> les Mermnades, <i>famille royale de Lydie,</i> HDT. <i>1, 7 et 14</i>.`

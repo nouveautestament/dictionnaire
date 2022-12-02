@@ -1,0 +1,1 @@
+lar[57424]=`<b>ου (τὸ)</b> Kourion, <i>v. de Chypre,</i> HDT. <i>5, 113</i> ; ARSTT. <i>Mir. 142, etc</i>.`

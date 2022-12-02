@@ -1,0 +1,1 @@
+lar[92584]=`<b>στιβαδο·ποιέομαι-οῦμαι</b> <font color="purple">[ῐᾰ]</font> se faire un lit de feuilles, <i>etc</i>. ARSTT. <i>H.A. 8, 30, 4 ; 9, 7, 2</i>.<p><b>Étym</b>. στιβάς, ποιέω.`

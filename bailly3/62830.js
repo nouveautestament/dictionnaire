@@ -1,0 +1,1 @@
+lar[62830]=`<b>ου (ὁ)</b> Mantias, <i>h</i>. ESCHN. <i>Ep. 4</i> ; ARSTT. <i>Rhet. 2, 23</i>.<p><b>Étym</b>. μάντις.`

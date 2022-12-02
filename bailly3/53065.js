@@ -1,0 +1,1 @@
+lar[53065]=`rendre tout à fait amer, EUM. <i>p. 265</i>.<p><b>Étym</b>. κατάπικρος.`

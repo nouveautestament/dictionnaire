@@ -1,0 +1,1 @@
+lar[36143]=`<b>ἐξ·όμφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> au nombril saillant, DIOSC. <i>4, 70</i> ; GAL. <i>2, 274</i> ; ἐξόμφαλον πάθος, P. ÉG. <i>6, 51,</i> hernie ombilicale.<p><b>Étym</b>. ἐξ, ὀμφαλός.`

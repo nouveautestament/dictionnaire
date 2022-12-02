@@ -1,0 +1,1 @@
+lar[77488]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> épaississement, <i>d’où</i> grosseur, ARSTT. <i>Meteor. 4, 6, 4</i> ; TH. <i>C.P. 6, 11, 7</i>.<p><b>Étym</b>. παχύνω.`

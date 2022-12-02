@@ -1,0 +1,1 @@
+lar[66628]=`<b>μονό·σκηπτρος, ος, ον</b>, qui tient seul le sceptre, ESCHL. <i>Suppl. 374</i>.<p><b>Étym</b>. μ. σκῆπτρον.`

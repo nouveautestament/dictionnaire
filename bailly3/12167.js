@@ -1,0 +1,1 @@
+lar[12167]=`<b>ἀπο·βρύκω</b> <font color="darkgreen">(<i>impf</i>. ἀπέβρυκον)</font> <font color="purple">[ῡ]</font> arracher <i>ou</i> mordre à belles dents, <i>gén</i>. EUB. (ATH. <i>572a</i>) ; ANTH. <i>7, 506</i>.<p><b>Étym</b>. <i>v</i>. ἀποβρόχω.`

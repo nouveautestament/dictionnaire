@@ -1,0 +1,1 @@
+lar[68687]=`<b>ή, όν</b>, qui n’enivre pas, PLAT. <i>Phil. 61c</i>.<p><b>Étym</b>. *νηφαίνω, <i>de</i> νήφω.`

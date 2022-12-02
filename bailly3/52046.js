@@ -1,0 +1,1 @@
+lar[52046]=`<b>α, ᾳ, αν</b>, <i>voc</i>. <b>α (ὁ)</b> = <i>lat</i>. Casca, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 66, etc</i>.<p>➳ <i>Voc</i>. -α, PLUT. <i>l. c. ; Brut. 15, 45 ; gén</i>. -α, PLUT. <i>Brut. 15, 17</i>.`

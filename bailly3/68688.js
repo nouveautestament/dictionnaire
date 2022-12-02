@@ -1,0 +1,1 @@
+lar[68688]=`<i>adv</i>., avec vigilance, CHRYS. <i>4, 569</i>.<p><b>Étym</b>. νήφω.`

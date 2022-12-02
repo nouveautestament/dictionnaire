@@ -1,0 +1,1 @@
+lar[92987]=`<b>ου (τὸ)</b> herbe à foulon <i>ou</i> saponaire pour nettoyer, HPC. <i>571, 54</i> ; TH. <i>H.P. 6, 4, 3 ; 6, 8, 3</i>.`

@@ -1,0 +1,1 @@
+lar[70426]=`<b>οἰκο·φόρος, ος, ον</b>, qui porte sa maison, <i>en parl. de la tortue,</i> SCYMN. <i>fr. 115</i>.<p><b>Étym</b>. οἶκ. φέρω ; <i>cf</i>. φερέοικος.`

@@ -1,0 +1,1 @@
+lar[80801]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Platon, PLUT. <i>Qu. conv. 7, 2, 1, etc.</i> ; ANTH. <i>11, 305</i> ; οἱ Πλατωνικοί, LUC. <i>Herm. 16, etc</i>. les disciples de Platon, les Platoniciens.<p>•<i> Sup</i>. Πλατωνικώτατος, LUC. <i>V.H. 2, 19</i>.<p><b>Étym</b>. Πλάτων.`

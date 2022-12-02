@@ -1,0 +1,1 @@
+lar[88829]=`<b>ου (ὁ)</b> bruit des vagues qui se brisent, NIC. <i>Al. 390</i> ; LYC. <i>402, 696, etc</i>.`

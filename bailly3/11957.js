@@ -1,0 +1,1 @@
+lar[11957]=`<b>ητος (ἡ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> manque d’autorité pour persuader, invraisemblance, ESCHN. <i>36, 23</i>.<br><b>      2</b> incrédulité, défiance, JOS. <i>c. Ap. 1, 34</i>.<p><b>Étym</b>. ἀπίθανος.`

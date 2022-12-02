@@ -1,0 +1,1 @@
+lar[41360]=`<b>ἑτερό·πλοος-ους, οος-ους, οον-ουν</b>, valable pour une seule navigation (aller <i>ou</i> retour) <i>en parl. d’un prêt à la grosse,</i> DÉM. <i>916, 3, etc</i>.<p><b>Étym</b>. ἕ. πλέω.`

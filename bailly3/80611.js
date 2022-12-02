@@ -1,0 +1,1 @@
+lar[80611]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> plateau rond pour faire le pain <i>ou</i> la pâtisserie, THCR. <i>Idyl. 15, 115</i> ; NIC. (ATH. <i>369c dout</i>.).<p><b>Étym</b>. πλατύς.`

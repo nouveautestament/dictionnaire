@@ -1,0 +1,1 @@
+lar[67770]=`<b>ας (ἡ)</b> construction de navires <i>ou</i> armement d’une flotte, EUR. <i>Cycl. 459</i> ; THC. <i>4, 108</i> ; PLAT. <i>Leg. 803a, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>1, 27</i>.<p><b>Étym</b>. ναυπηγός.`

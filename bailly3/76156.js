@@ -1,0 +1,1 @@
+lar[76156]=`<b>παρα·ρριπτέω-ῶ</b>, jeter devant, <i>rég. ind. au dat</i>. SPT. <i>Ps. 83, 11</i> ; ALCIPHR. <i>3, 51</i>.<p><b>Étym</b>. π. ῥιπτός.`

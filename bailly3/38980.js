@@ -1,0 +1,1 @@
+lar[38980]=`<b>ἐπι·σκεπάζω</b>, couvrir, cacher, SPT. <i>Thren. 3, 42 et 43</i>.`

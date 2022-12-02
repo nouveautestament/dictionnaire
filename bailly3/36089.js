@@ -1,0 +1,1 @@
+lar[36089]=`<b>ος, ον</b>, chassé de son pays <i>ou</i> transporté hors de son pays, Ps.-CALLISTH. <i>p. 79 Müll</i>.<p><b>Étym</b>. ἐξοικίζω.`

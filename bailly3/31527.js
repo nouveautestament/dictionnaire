@@ -1,0 +1,1 @@
+lar[31527]=`<b>ἐκ·κυνηγετέω-ῶ</b> <font color="purple">[ῠ]</font> poursuivre avec une meute, ESCHL. <i>Eum. 231</i> ; EUR. <i>Ion 1422</i> ; LYC. <i>1025</i>.`

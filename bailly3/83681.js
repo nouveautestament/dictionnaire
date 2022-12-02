@@ -1,0 +1,1 @@
+lar[83681]=`<b>προ·αποσβέννυμι :<br>      1 <i>tr.</i></b> éteindre d’abord <i>ou</i> auparavant, <i>fig</i>. M. ANT. <i>3, 1, etc.</i><br><b>      2</b> <i>intr. (à l’ao.2</i> προαπέσβην) DC. <i>55, 11,</i> s’éteindre <i>ou</i> mourir auparavant.`

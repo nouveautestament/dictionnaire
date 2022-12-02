@@ -1,0 +1,1 @@
+lar[23008]=`<b>ιδος (ἡ)</b> gousse d’ail, GAL. <i>Lex. Hipp. 19, 92 ; cf</i>. δέτις.`

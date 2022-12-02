@@ -1,0 +1,1 @@
+lar[16821]=`<b>ας (ἡ)</b> <font color="purple">[τῑ]</font> impunité, CHRYS.<p><b>Étym</b>. ἀτιμώρητος.`

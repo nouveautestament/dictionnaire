@@ -1,0 +1,1 @@
+lar[19063]=`<font color="purple">[ᾰρι]</font> <i>adv.</i> :<br><b>      1</b> en langue étrangère, AR. <i>fr. 45</i> ; APP. <i>Mithr. 50</i>.<br><b>      2</b> à la façon des barbares, PLUT. <i>M. 336c</i>.<p><b>Étym</b>. βαρβαρίζω.`

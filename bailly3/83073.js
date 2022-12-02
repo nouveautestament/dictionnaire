@@ -1,0 +1,1 @@
+lar[83073]=`<font color="purple">[ῐ]</font> <i>adv</i>., agréablement, PHILSTR. <i>491</i>.<p><b>Étym</b>. πότιμος.`

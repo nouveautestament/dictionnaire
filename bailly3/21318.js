@@ -1,0 +1,1 @@
+lar[21318]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme dans un repas de noces, ARSTT. <i>Nic. 4, 2, 20</i> ; NYSS. <i>2, 1020a</i>.`

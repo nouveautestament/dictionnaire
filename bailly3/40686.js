@@ -1,0 +1,1 @@
+lar[40686]=`<b>ης, ες</b>, qui s’étend de proche en proche comme une dartre, PHIL. <i>2, 205, etc</i>.<p><b>Étym</b>. ἑρπήν, -ωδης.`

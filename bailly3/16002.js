@@ -1,0 +1,1 @@
+lar[16002]=`<i>gén. ion</i>. <b>εω (ὁ)</b> Aspathinès, <i>Perse,</i> HDT. <i>3, 70, etc</i>.`

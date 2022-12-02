@@ -1,0 +1,1 @@
+lar[6706]=`<b>ἀνα·διαρθρόω-ῶ</b>, diviser par articulations, TH. <i>C.P. 2, 16, 4 dout</i>.`

@@ -1,0 +1,1 @@
+lar[2513]=`<b>ἄ·ϊκτος, ος, ον</b>, inaccessible, HH. <i>Merc. 346 conj</i>.<p><b>Étym</b>. ἀ, ἱκνέομαι.`

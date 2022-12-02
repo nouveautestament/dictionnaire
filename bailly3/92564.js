@@ -1,0 +1,1 @@
+lar[92564]=`<b>εως (ἡ)</b> action de se fixer, <i>en parl. d’un mal,</i> HPC. <i>1134a</i>.<p><b>Étym</b>. στηρίζω.`

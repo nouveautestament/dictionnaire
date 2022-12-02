@@ -1,0 +1,1 @@
+lar[99429]=`<b>τλησι·κάρδιος, ος, ον</b> <font color="purple">[σῐ]</font> au cœur patient, courageux, ESCHL. <i>Pr. 159, Ag. 430</i>.<p><b>Étym</b>. *τλάω, καρδία ; <i>cf</i>. ταλακάρδιος.`

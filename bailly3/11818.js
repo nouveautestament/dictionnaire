@@ -1,0 +1,1 @@
+lar[11818]=`<b>ἀπ·ερωέω</b> <font color="darkgreen">(<i>ao. opt. 2 sg</i>. ἀπερωήσειας)</font> se retirer de, renoncer à, <i>gén</i>. IL. <i>16, 723</i>.`

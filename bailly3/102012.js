@@ -1,0 +1,1 @@
+lar[102012]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui existe par soi-même <i>ou</i> réellement, PLUT. <i>M. 1046c ;</i> SEXT. <i>P. 3, 66, etc.</i><br><b>      2</b> qui peut servir de fondement, POSIDON. (DL. <i>7, 91).</i><p><b>Étym</b>. ὑπάρχω.`

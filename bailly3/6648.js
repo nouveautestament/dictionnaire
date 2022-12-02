@@ -1,0 +1,1 @@
+lar[6648]=`<b>ἀν·αγρία, ας (ἡ)</b> manque de gibier, temps où l’on ne chasse pas, XÉN. <i>Cyn. 5, 34</i>.<p><b>Étym</b>. ἀν-, ἄγρα.`

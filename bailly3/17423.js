@@ -1,0 +1,1 @@
+lar[17423]=`<b>αὐτό·γνωτος, ος, ον</b>, qui juge <i>ou</i> se décide par soi-même, <i>d’où</i> spontané, volontaire, SOPH. <i>Ant. 875</i>.<p><b>Étym</b>. αὐ. γιγνώσκω.`

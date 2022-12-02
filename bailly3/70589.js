@@ -1,0 +1,1 @@
+lar[70589]=`<b>οἰνο·φόρος, ος, ον</b>, qui porte du vin, <i>càd.</i> :<br><b>      1</b> qui produit du vin, ARCHESTR. (ATH. <i>321c</i>).<br><b>      2</b> qui contient du vin, CRITIAS (ATH. <i>432d</i>) ; HDN <i>8, 4, 9</i>.<p><b>Étym</b>. οἶν. φέρω.`

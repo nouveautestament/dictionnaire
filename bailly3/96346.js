@@ -1,0 +1,1 @@
+lar[96346]=`<b>συν·τολμάω-ῶ</b>, oser ensemble <i>ou</i> en même temps, EUN. <i>p. 481 Boiss</i>.`

@@ -1,0 +1,1 @@
+lar[10612]=`<b>ἀντί·χροος, οος, οον</b>, de couleurs qui contrastent, NAZ. <i>2, 184</i>.<p><b>Étym</b>. ἀ. χρόα.`

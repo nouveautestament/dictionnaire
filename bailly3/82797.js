@@ -1,0 +1,1 @@
+lar[82797]=`<b>έως (ὁ)</b> Porkée, <i>n. du serpent de Kalydna,</i> LYC. <i>347</i>.`

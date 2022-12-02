@@ -1,0 +1,1 @@
+lar[92862]=`<b>Στρατό·νικος, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> Stratonikos, <i>h</i>. PLAT. <i>Sis. 387a, etc</i>.<p><b>Étym</b>. <i>v</i>. Στρατονίκη.`

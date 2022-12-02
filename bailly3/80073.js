@@ -1,0 +1,1 @@
+lar[80073]=`<b>ου (τὸ)</b> le Pélion (<i>auj</i>. Pílio) <i>mt. de Thessalie,</i> IL. <i>2, 744 ; 16, 144</i> ; OD. <i>11, 316</i> ; HDT. <i>4, 179, etc.</i> ; EUR. <i>Andr. 1277, etc</i>.<p>➳ <i>Dor</i>. Πάλιον <font color="purple">[ᾱ]</font> PD. <i>P. 2, 85, etc</i>.`

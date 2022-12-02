@@ -1,0 +1,1 @@
+lar[84110]=`<b>προ·εκτίλλω</b>, arracher d’abord brin à brin, GAL. <i>14, 349, etc</i>.`

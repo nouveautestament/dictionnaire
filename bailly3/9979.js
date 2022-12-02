@@ -1,0 +1,1 @@
+lar[9979]=`<b>ἀντι·κομπάζω</b>, répondre par des forfanteries, PLUT. <i>Ant. 62</i>.`

@@ -1,0 +1,1 @@
+lar[11080]=`<b>ἀπ·αγκυλόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> recourber, ATH. <i>667c.</i><br><b>      2</b> <i>t. de méc</i>. boucler (un cordon) HÉRON <i>Aut. 271</i>.`

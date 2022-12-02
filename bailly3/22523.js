@@ -1,0 +1,1 @@
+lar[22523]=`<b>ας (ἡ)</b> la contrée de Gortyne, <i>en Crète,</i> TH. <i>H.P. 1, 9, 5</i>.<p><b>Étym</b>. Γόρτυν.`

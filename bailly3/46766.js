@@ -1,0 +1,1 @@
+lar[46766]=`<b>θε·όπτης, ου (ὁ)</b> celui qui voit <i>oua</i> vu Dieu, <i>en parl. de Moïse et du prophète Élie,</i> PHIL. <i>1, 579</i>.<p><b>Étym</b>. θεός, ὄψομαι.`

@@ -1,0 +1,1 @@
+lar[80563]=`<b>υος (ἡ)</b> Pitys, <i>nymphe,</i> LUC. <i>D. deor. 22, 4, etc</i>.`

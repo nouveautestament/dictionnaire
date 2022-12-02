@@ -1,0 +1,1 @@
+lar[80939]=`<i>ou mieux</i> <b>πληβήϊοι, ων (οἱ)</b> = <i>lat</i>. plēbeji, les plébéiens, <i>à Rome,</i> DH. <i>1, 252 Reiske</i>.`

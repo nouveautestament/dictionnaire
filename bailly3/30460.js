@@ -1,0 +1,1 @@
+lar[30460]=`<b>εἰλικρινέω-ῶ</b> <font color="purple">[ῐῐ]</font><br><b>      1</b> purifier, ARSTT. <i>Mund. 5, 12</i>.<br><b>      2</b> distinguer nettement, BUTHER. (STOB. <i>Ecl. 1 p. 16).</i><p><b>Étym</b>. εἰλικρινής.`

@@ -1,0 +1,1 @@
+lar[104480]=`<b>ὑψι·γέννητος, ος, ον</b> <font color="purple">[ῐ]</font> qui croît en hauteur, qui pousse haut, ESCHL. <i>Eum. 43</i>.<p><b>Étym</b>. ὕ. γεννάω.`

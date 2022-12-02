@@ -1,0 +1,1 @@
+lar[54438]=`<b>κεγχρο·βόλος, ος, ον</b>, qui jette du millet ; <i>au pl</i>. οἱ Κεγχροβόλοι, LUC. <i>V.H. 1, 13,</i> les semeurs de millet, <i>ou plutôt</i> « les artilleurs bombardant à coups de grains de millet, » les … armilleurs, <i>pple fabuleux</i>.<p><b>Étym</b>. κέγχρος, βάλλω.`

@@ -1,0 +1,1 @@
+lar[1464]=`<b>ης (ἡ)</b> <i>ion</i>. ignorance, CALL. <i>fr. 338</i>.`

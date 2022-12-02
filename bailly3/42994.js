@@ -1,0 +1,1 @@
+lar[42994]=`<b>εὐ·περίστολος, ος, ον</b>, dont la robe enveloppe bien le corps, <i>d’où</i> décent, modeste, PTOL. <i>Tetr. 164</i>.<p><b>Étym</b>. εὖ, περιστολή.`

@@ -1,0 +1,1 @@
+lar[32309]=`<b>ἐκφερο·μυθέω-ῶ</b> <font color="purple">[ῡ]</font> divulguer, CORN. <i>80 ; au pass</i>. EN. TACT. <i>Pol. 22</i> ; BAS. <i>3, 472c Migne</i>.<p><b>Étym</b>. ἐκφέρω, μῦθος.`

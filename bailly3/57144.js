@@ -1,0 +1,1 @@
+lar[57144]=`<b>ίδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f</i>. de Corybante, NONN. <i>D. 2, 695, etc</i>.<p><b>Étym</b>. Κορύβας.`

@@ -1,0 +1,1 @@
+lar[18348]=`<b>ας</b> <i>ou</i> <b>Ἀχαιά, ᾶς (ἡ)</b> Akhæa, <i>càd.</i> :<br><b>      1</b> Dèmèter, <i>en Attique,</i> HDT. <i>5, 61</i> ; AR. <i>Ach. 709</i>.<br><b>      2</b> Athèna, <i>à Lucérie, en Apulie,</i> ARSTT. <i>Mir. 117</i>.<p>➳ Ἀχαιά, EM. <i>180, 42. Ion</i>. Ἀχαιΐη, HDT. <i>l. c</i>.`

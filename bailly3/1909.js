@@ -1,0 +1,1 @@
+lar[1909]=`<i>adv</i>., d’une manière inaccoutumée, inattendue, THC. <i>4, 17</i>.<p><b>Étym</b>. ἀήθης.`

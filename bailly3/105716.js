@@ -1,0 +1,1 @@
+lar[105716]=`<b>φιλο·γεωμέτρης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui aime la géométrie, PTOL. <i>Tetr. 163</i>.<p><b>Étym</b>. φ. γεωμετρία.`

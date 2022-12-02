@@ -1,0 +1,1 @@
+lar[30233]=`<b>ας (ἡ)</b> forme, apparence, PHIL. <i>2, 354</i>.<p><b>Étym</b>. <i>cf</i>. ἰδέα.`

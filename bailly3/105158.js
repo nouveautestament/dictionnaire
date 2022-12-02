@@ -1,0 +1,1 @@
+lar[105158]=`<b>φερε·στάφυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui porte <i>ou</i> produit des raisins, ORPH. <i>Lith. 262</i> ; ANTH. <i>9, 363</i> ; ARCHESTR. (ATH. <i>112b</i>).<p><b>Étym</b>. φ. σταφυλή.`

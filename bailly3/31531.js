@@ -1,0 +1,1 @@
+lar[31531]=`<b>ἐκ·κωδωνίζω</b> (<i>inf. ao. pass</i>. -ισθῆναι) publier au son de la cloche, ATH. <i>219b</i>.`

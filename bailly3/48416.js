@@ -1,0 +1,1 @@
+lar[48416]=`<b>ας (ἡ)</b> <font color="purple">[ῐδ]</font> hospitalité privée, ANON. (SUID.).<p><b>Étym</b>. ἰδιόξενος.`

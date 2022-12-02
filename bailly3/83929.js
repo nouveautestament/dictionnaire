@@ -1,0 +1,1 @@
+lar[83929]=`<b>προ·διαμαρτύρομαι</b> <font color="purple">[ῡ]</font> prendre d’avance à témoin, <i>acc</i>. POL. <i>26, 3, 6</i>.`

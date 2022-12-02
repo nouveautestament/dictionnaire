@@ -1,0 +1,1 @@
+lar[24554]=`<b>διαδηματο·φόρος, ος, ον</b> <font color="purple">[μᾰ]</font> qui porte un diadème, PLUT. <i>Ant. 54</i>.<p><b>Étym</b>. δ. φέρω.`

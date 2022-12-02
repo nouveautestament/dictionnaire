@@ -1,0 +1,1 @@
+lar[37865]=`<b>ἐπι·καθαιρέω-ῶ</b> <font color="darkgreen">(<i>ao.2</i> ἐπικαθεῖλον)</font> détruire <i>ou</i> abattre en outre <i>ou</i> ensuite, THC. <i>8, 20</i>.`

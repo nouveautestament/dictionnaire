@@ -1,0 +1,1 @@
+lar[34592]=`<b>α, ον</b>, simple, un, DL. <i>7, 35</i> ; A. QUINT. <i>p. 5</i> ; PROCL. <i>Plat. Parm. 564 Stallb</i>.<p><b>Étym</b>. <i>th</i>. ἑν- <i>de</i> εἷς.`

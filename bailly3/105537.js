@@ -1,0 +1,1 @@
+lar[105537]=`<b>φιλ·έγγυος, ος, ον</b> <font color="purple">[ῐ]</font> qui s’offre volontiers comme caution, STR. <i>215</i>.<p><b>Étym</b>. φ. ἐγγύη.`

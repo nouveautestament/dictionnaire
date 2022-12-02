@@ -1,0 +1,1 @@
+lar[74498]=`<b>παλίγ·γλωσσος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui parle à rebours, faux, PD. <i>N. 1, 88</i>.<br><b>      2</b> qui parle une langue étrangère, PD. <i>I. 6, 35</i>.<p><b>Étym</b>. π. γλῶσσα.`

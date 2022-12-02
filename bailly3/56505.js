@@ -1,0 +1,1 @@
+lar[56505]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit lien, PHIL. BYZ. <i>p. 64</i>.<p><b>Étym</b>. <i>dim. de</i> κοίνωμα.`

@@ -1,0 +1,1 @@
+lar[2802]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Æpytos, <i>roi d’Arcadie,</i> PD. <i>O. 6, 55, etc</i>.`

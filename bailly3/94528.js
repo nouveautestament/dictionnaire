@@ -1,0 +1,1 @@
+lar[94528]=`<b>συν·άγγελος, ου (ὁ)</b> envoyé collègue d’un autre, HDT. <i>7, 230</i>.<p><b>Étym</b>. σ. ἄγγελος.`

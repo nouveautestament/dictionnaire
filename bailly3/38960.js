@@ -1,0 +1,1 @@
+lar[38960]=`<b>ἐπι·σθένω</b> (<i>3 sg. impf</i>. ἐπέσθενε) avoir la force de, <i>avec l’inf</i>. Q. SM. <i>4, 567, etc</i>.`

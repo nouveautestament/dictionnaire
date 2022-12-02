@@ -1,0 +1,1 @@
+lar[27627]=`<b>οῦ (ὁ)</b> sac de cuir (<i>litt</i>. peau <i>ou</i> cuir préparé) OD. <i>2, 354, 380</i>.<p><b>Étym</b>. δέρω.`

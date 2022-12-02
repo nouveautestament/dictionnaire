@@ -1,0 +1,1 @@
+lar[9848]=`<b>ας (ἡ)</b> <font color="purple">[δῐκᾰ]</font> contestation, procès, AQU. <i>Prov. 20, 3</i>.<p><b>Étym</b>. ἀντιδικάζομαι.`

@@ -1,0 +1,1 @@
+lar[19241]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> AR. <i>Lys. 478</i> ; PLAT. <i>Rsp. 503d ;</i> DÉM. <i>855, 2</i>.<p><b>Étym</b>. <i>vb. de</i> βασανίζω.`

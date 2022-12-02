@@ -1,0 +1,1 @@
+lar[9244]=`<b>ἀν·όλεθρος, ος, ον</b>, qui n’a pas subi de dommage <i>ou</i> qui n’a pas péri, IL. <i>13, 761</i>.<p><b>Étym</b>. ἀν-, ὄ.`

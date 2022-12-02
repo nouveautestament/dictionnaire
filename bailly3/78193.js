@@ -1,0 +1,1 @@
+lar[78193]=`<i>adv.</i> :<br><b>      1</b> en toute confiance, DL. <i>9, 71</i> ; JAMBL. <i>V. Pyth. p. 368</i> ; PTOL. <i>Math. synt. t. 1, p. 78, 24</i>.<br><b>      2</b> fortement, DL. <i>4, 56</i> ; STR. <i>696</i>.<p><b>Étym</b>. πείθω.`

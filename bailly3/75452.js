@@ -1,0 +1,1 @@
+lar[75452]=`<b>παρα·γονάτιον, ου (τὸ)</b> <font color="purple">[ᾰτ]</font> intervalle entre deux nœuds d’une tige de roseau, SYN. <i>270a</i>.<p><b>Étym</b>. π. γόνυ.`

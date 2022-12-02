@@ -1,0 +1,1 @@
+lar[94032]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> <i>c</i>. σύμπηξις, HERM. (STOB. <i>Ecl. phys. p. 1100</i>).`

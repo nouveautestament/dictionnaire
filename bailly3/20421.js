@@ -1,0 +1,1 @@
+lar[20421]=`<b>βού·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> à tête de bœuf, EMPÉD. (EL. <i>N.A. 16, 29</i>) ; PLUT. <i>M. 358d</i>.<p><b>Étym</b>. βοῦς, *κρᾶνον, κάρηνον.`

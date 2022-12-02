@@ -1,0 +1,1 @@
+lar[109846]=`<b>ψιλο·μετρία, ας (ἡ)</b> <font color="purple">[ψῑ]</font><br><b>      1</b> poésie purement métrique, <i>càd</i>. poésie héroïque, sans accompagnement de chant, ARSTT. <i>Poet. 2, 5</i>.<br><b>      2</b> composition en prose, THÉM. <i>319a</i>.<p><b>Étym</b>. ψ. μέτρον.`

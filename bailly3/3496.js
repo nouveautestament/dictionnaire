@@ -1,0 +1,1 @@
+lar[3496]=`<b>ατος (τὸ)</b> action licencieuse, PLUT. <i>Crass. 32</i> ; M. ANT. <i>11, 20, etc</i>.<p><b>Étym</b>. ἀκολασταίνω.`

@@ -1,0 +1,1 @@
+lar[56116]=`<b>α, ον</b> <font color="purple">[ῐ]</font> volé, furtif, LUC. <i>Ic. 20</i> ; A. LIB. <i>23, 4</i>.<p><b>Étym</b>. κλόπιμος.`

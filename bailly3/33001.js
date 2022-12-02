@@ -1,0 +1,1 @@
+lar[33001]=`<b>ἑλμινθιάω-ῶ</b>, avoir des vers, ARSTT. <i>H.A. 9, 6, 8</i>.<p><b>Étym</b>. ἕλμινς.`

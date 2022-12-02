@@ -1,0 +1,1 @@
+lar[40014]=`<b>ἑπτά·πυργος, ος, ον</b> <font color="purple">[ᾰ]</font> à sept tours, EUR. <i>Ph. 245</i>.<p><b>Étym</b>. ἑ. πύργος.`

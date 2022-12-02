@@ -1,0 +1,1 @@
+lar[31765]=`<b>ἐκ·παιφάσσω</b> (<i>seul. prés</i>.) s’élancer avec fureur, IL. <i>5, 803</i>.`

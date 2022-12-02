@@ -1,0 +1,1 @@
+lar[1044]=`<b>ἀγχί·γυος, ος, ον</b> <font color="purple">[ῐ]</font> voisin de campagne, voisin, A.RH. <i>1, 1222</i> ; DP. <i>215</i>.<p><b>Étym</b>. ἄ. γύης.`

@@ -1,0 +1,1 @@
+lar[57718]=`<b>οντος (ὁ)</b> <i>propr</i>. le plus fort, <i>d’où</i> :<br><b>      1</b> maître, chef, IL. <i>8, 31</i>.<br><b>      2</b> homme de naissance noble, OD. <i>4, 22</i>.<p><b>Étym</b>. <i>indo-europ</i>. *ḱreiH-, splendeur ; <i>cf. sscr</i>. śrī- ; <i>v</i>. κρείουσα.`

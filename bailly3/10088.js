@@ -1,0 +1,1 @@
+lar[10088]=`<b>ἀντι·μετασπάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀντιμετέσπασα)</font> tirer en deux sens contraires, JOS. <i>A.J. 13, 5, 3</i>.`

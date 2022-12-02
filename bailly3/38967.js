@@ -1,0 +1,1 @@
+lar[38967]=`<b>ἐπισιτέω-ῶ</b> <font color="purple">[σῑ]</font> fournir des vivres, SYN. <i>De regn. p. 17</i>.<p><b>Étym</b>. ἐπίσιτος.`

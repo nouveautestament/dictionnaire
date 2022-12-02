@@ -1,0 +1,1 @@
+lar[36833]=`<b>ἐπ·ασχάλλω</b> (<i>prés</i>.) s’indigner : ἐπί τινι, MAN. <i>3, 86,</i> de qqe ch.`

@@ -1,0 +1,1 @@
+lar[16347]=`<b>ἄ·στροφος, ος, ον :<br>      1</b> qui ne se retourne pas, SOPH. <i>O.C. 490</i>.<br><b>      2</b> qui ne se détourne pas, fixe, immobile, ESCHL. <i>Ch. 99</i>.<br><b>      3</b> non contourné, non entortillé, PLAT. <i>Pol. 282d.</i><br><b>      4</b> sans strophe, HÉPH. <i>Poem. 5, 1</i>.<p><b>Étym</b>. ἀ, στρέφω.`

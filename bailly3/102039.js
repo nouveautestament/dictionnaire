@@ -1,0 +1,1 @@
+lar[102039]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> de consul <i>ou</i> de consulat, consulaire, DS. <i>20, 91</i> ; PLUT. <i>Cam. 1, etc.</i><br><b>      2</b> de rang consulaire, PLUT. <i>Sert. 27</i> ; ὁ ὑπ. DH. <i>6, 96, etc</i>. personnage consulaire.<p><b>Étym</b>. ὕπατος.`

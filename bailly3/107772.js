@@ -1,0 +1,1 @@
+lar[107772]=`<b>χαμαι·λεύκη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>autre n. de la plante</i> χαμαίγειρος, DIOSC. <i>Noth. 3, 126</i>.`

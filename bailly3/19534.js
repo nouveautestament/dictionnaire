@@ -1,0 +1,1 @@
+lar[19534]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> temple de Bendis, XÉN. <i>Hell. 2, 4, 11</i> ; LUC.<p><b>Étym</b>. βενδῖς.`

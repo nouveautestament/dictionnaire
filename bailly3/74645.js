@@ -1,0 +1,1 @@
+lar[74645]=`<b>ου (ὁ)</b> fils, descendant de Pallante, <i>ANTH</i>. 6.247 ; EUR. <i>Hipp</i>. 35.<p><b>Étym</b>. Πάλλας.`

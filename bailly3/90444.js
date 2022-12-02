@@ -1,0 +1,1 @@
+lar[90444]=`<b>σιρο·μάστης, ου (ὁ) :<br>      1</b> sorte de sonde dont les éclaireurs d’une armée se servaient pour explorer le sol, PHIL. BYZ. <i>Bel. p. 100, 5</i>.<br><b>      2</b> sorte de hallebarde, SPT. <i>3Reg. 18, 28, etc.</i> ; JOS. <i>A.J. 7, 2, 2, etc</i>.<p><b>Étym</b>. σιρός, μαστήρ.`

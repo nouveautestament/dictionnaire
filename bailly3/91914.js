@@ -1,0 +1,1 @@
+lar[91914]=`<b>ῆρος (ὁ)</b> Spinther, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 67, etc</i>.`

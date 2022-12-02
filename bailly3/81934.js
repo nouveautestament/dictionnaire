@@ -1,0 +1,1 @@
+lar[81934]=`<b>πολύ·θρεπτος, ος, ον :<br>      1</b> produit (<i>propr</i>. nourri) en grand nombre, ORPH. <i>H. 42, 6</i>.<br><b>      2</b> qui nourrit abondamment, CHRISTOD. <i>Ecphr. 376</i>.<p><b>Étym</b>. π. τρέφω.`

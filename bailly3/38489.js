@@ -1,0 +1,1 @@
+lar[38489]=`<b>ἐπι·μύρομαι</b> <font color="purple">[ῡ]</font> (<i>seul. prés</i>.) être baigné par la mer, A.RH. <i>1, 938</i>.`

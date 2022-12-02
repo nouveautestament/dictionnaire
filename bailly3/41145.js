@@ -1,0 +1,1 @@
+lar[41145]=`<b>άδος</b>, <i>adj. f</i>. de Vesta ; <i>d’ord. au plur</i>. αἱ Ἑστιάδες παρθένοι, PLUT. <i>Num. 13, Fab. 18, Crass. 1, etc. ; ou abs</i>. αἱ Ἑστιάδες, DH. <i>2, 64</i> ; PLUT. <i>Rom. 3 et 22, Num. 9, Ant. 21, etc</i>. les Vestales, <i>prêtresses de Vesta, à Rome</i>.<p><b>Étym</b>. Ἑστία.`

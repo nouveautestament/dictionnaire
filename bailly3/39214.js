@@ -1,0 +1,1 @@
+lar[39214]=`<b>ἐπι·συλλογίζομαι</b>, raisonner sur, DYSC. <i>Conj. 519, 27</i> ; JAMBL. <i>V. Pyth. 44</i>.`

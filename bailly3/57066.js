@@ -1,0 +1,1 @@
+lar[57066]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Corinthe <i>ou</i> de Corinthien, XÉN. <i>Hell. 6, 2, 9</i> ; STR. <i>450, etc</i>.<p><b>Étym</b>. Κορίνθιος.`

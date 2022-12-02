@@ -1,0 +1,1 @@
+lar[60764]=`<b>ή, όν</b>, qui peut être emmené comme butin, pillé, IL. <i>9, 406</i>.<p><b>Étym</b>. <i>vb. de</i> ληΐζομαι.`

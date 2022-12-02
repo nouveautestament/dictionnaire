@@ -1,0 +1,1 @@
+lar[13184]=`<b>ἀπο·πυρίζω</b> (<i>seul. prés. 1 pl. dor</i>. -πυρίζομες <font color="purple">[ῠ]</font>) rôtir sur la braise, EPICH. (ATH. <i>277e</i>).<p><b>Étym</b>. ἀποπυρίς.`

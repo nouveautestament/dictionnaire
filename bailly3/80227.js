@@ -1,0 +1,1 @@
+lar[80227]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., d’une manière persuasive <i>ou</i> plausible, AR. <i>Th. 268</i> ; PLAT. <i>Ap. 17a, etc</i>.<p>•<i> Cp</i>. -ώτερον, PLAT. <i>Phæd. 63b, etc</i>.<p><b>Étym</b>. πιθανός.`

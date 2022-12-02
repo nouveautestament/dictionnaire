@@ -1,0 +1,1 @@
+lar[47683]=`<b>οῦ (ὁ)</b> observateur d’une religion, <i>particul</i>. moine, SYN. <i>167c</i>.<p><b>Étym</b>. θρησκεύω.`

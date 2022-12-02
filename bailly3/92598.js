@@ -1,0 +1,1 @@
+lar[92598]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. στίβος, ORIG. <i>3, 773 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[109513]=`<b>άδος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Psakas, <i>litt</i>. qui envoie de la salive en parlant, <i>n. d’h</i>. AR. <i>Ach. 1150</i>.<p><b>Étym</b>. <i>v</i>. ψακάς.`

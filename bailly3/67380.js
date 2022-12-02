@@ -1,0 +1,1 @@
+lar[67380]=`<b>ου (τὸ) :<br>      1</b> baie de myrte, AR. <i>Av. 62, 160, 1100</i> ; PLAT. <i>Rsp. 372c.</i><br><b>      2</b> <i>c</i>. κλειτορίς, AR. <i>Lys. 1004</i>.<p><b>Étym</b>. μύρτος.`

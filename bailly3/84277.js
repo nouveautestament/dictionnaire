@@ -1,0 +1,1 @@
+lar[84277]=`<i>adv</i>., libéralement, généreusement, ARSTT. <i>Nic. 4, 2, 8</i>.`

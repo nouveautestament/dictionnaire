@@ -1,0 +1,1 @@
+lar[10087]=`<b>ἀντι·μεταρρέω</b>, couler en arrière, refluer, PLUT. <i>M. 904a</i>.`

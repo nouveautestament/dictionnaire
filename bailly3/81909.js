@@ -1,0 +1,1 @@
+lar[81909]=`<b>πολυ·ήμερος, ος, ον :<br>      1</b> de plusieurs jours, qui dure plusieurs jours, HPC. <i>Art. 832</i> ; PLUT. <i>Luc. 21</i> ; ATH. <i>639c.</i><br><b>      2</b> plein de jours, très âgé, ARÉT. STR. <i>5, 14, 97</i>.<p><b>Étym</b>. π. ἡμέρα.`

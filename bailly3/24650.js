@@ -1,0 +1,1 @@
+lar[24650]=`<b>δια·θηριόω-ῶ</b> (<i>seul. pass. prés. 3 sg</i>. -ιοῦται) rendre tout à fait sauvage, PLUT. <i>M. 330b</i>.`

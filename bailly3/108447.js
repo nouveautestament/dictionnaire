@@ -1,0 +1,1 @@
+lar[108447]=`<b>χιλιό·κωμος, ος, ον</b> <font color="purple">[χῑ]</font> qui contient mille villages, STR. <i>561</i>.<p><b>Étym</b>. χ. κώμη.`

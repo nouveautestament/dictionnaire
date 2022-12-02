@@ -1,0 +1,1 @@
+lar[42290]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> trajet direct, PLAT. <i>Leg. 747a ;</i> ARSTT. <i>Aud. 34</i>.<br><b>      2</b> direction droite des pores, des conduits, <i>en parl. d’arbres,</i> TH. <i>H.P. 5, 6, 2</i>.<p><b>Étym</b>. εὐθύπορος.`

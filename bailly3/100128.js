@@ -1,0 +1,1 @@
+lar[100128]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à un chardon, HERMAS <i>3, 6</i>.<p><b>Étym</b>. τρίβολος, -ωδης.`

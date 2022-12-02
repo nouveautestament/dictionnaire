@@ -1,0 +1,1 @@
+lar[80798]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Platon :<br><b>      1</b> <i>philosophe célèbre, disciple de Socrate, ainsi nommé de sa large stature (son vrai nom était</i> Ἀριστοκλῆς) ; <i>au plur</i>. Πλάτωνες, ANTH. <i>9, 358</i>, des philosophes comme Platon, des Platon.<br><b>      2</b> <i>poète de l’ancienne comédie</i>.<p><b>Étym</b>. πλατύς.`

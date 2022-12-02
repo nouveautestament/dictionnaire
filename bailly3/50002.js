@@ -1,0 +1,1 @@
+lar[50002]=`<b>ῶν (οἱ)</b> les Iurkes, <i>pple scythe,</i> HDT. <i>4, 22</i>.`

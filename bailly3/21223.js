@@ -1,0 +1,1 @@
+lar[21223]=`<b>α, ον</b> <font color="purple">[γᾰ]</font><br><b>      1</b> qui allaite, NONN. <i>D. 3, 389</i>.<br><b>      2</b> blanc comme du lait, NONN. <i>D. 6, 338</i>.<p><b>Étym</b>. γάλα.`

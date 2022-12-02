@@ -1,0 +1,1 @@
+lar[88528]=`<b>εος-ους (τὸ)</b> froid, gelée, OD. <i>5, 472</i> ; HDT. <i>6, 44</i> ; XÉN. <i>Cyr. 6, 1, 14</i> ; PLAT. <i>Euthyphr. 4d ; au pl</i>. XÉN. <i>Œc. 7, 23 ; particul</i>. frisson de la fièvre, HPC. <i>V. med. 15, etc.</i> ; PLAT. <i>Tim. 62b ; au plur</i>. HPC. <i>Fract. 774</i>.<p><b>Étym</b>. <i>p</i>. *Ϝρῖγος ; <i>cf. lat</i>. frīgus.`

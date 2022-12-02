@@ -1,0 +1,1 @@
+lar[81181]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui amène <i>ou</i> annonce du vent, ARAT. <i>785</i>.<p><b>Étym</b>. πνεῦμα.`

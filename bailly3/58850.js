@@ -1,0 +1,1 @@
+lar[58850]=`<b>κυν·οφθαλμίζομαι</b> <font color="purple">[ῠ]</font> regarder avec des yeux de chien, <i>càd</i>. impudemment, SYN. <i>128</i>.<p><b>Étym</b>. κ. ὀφθαλμός.`

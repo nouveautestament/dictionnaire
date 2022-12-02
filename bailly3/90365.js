@@ -1,0 +1,1 @@
+lar[90365]=`<font color="purple">[ῐᾱ]</font> (<i>pf</i>. σεσινάπικα) appliquer des sinapismes, XÉNARQ. (<i>Com. fr. 3, 624) ; au pass</i>. avoir un sinapisme appliqué qqe part, MÉD. <i>p. 300 Matthäi</i>.<p><b>Étym</b>. σίναπι.`

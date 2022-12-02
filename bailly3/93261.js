@@ -1,0 +1,1 @@
+lar[93261]=`<b>ή, όν</b>, flexible, ARSTT. <i>Inc. an. 9, 11</i>.<p><b>Étym</b>. <i>vb. de</i> συγκάμπτω.`

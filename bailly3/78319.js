@@ -1,0 +1,1 @@
+lar[78319]=`<b>άδος (ἡ)</b> <font color="purple">[ῑκᾰδ]</font> pariétaire, <i>plante,</i> GAL. <i>14, 397</i>.<p><b>Étym</b>. πέρδιξ.`

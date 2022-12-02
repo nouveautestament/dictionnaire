@@ -1,0 +1,1 @@
+lar[92851]=`<b>Στρατό·δημος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Stratodèmos, <i>h</i>. THC. <i>2, 67</i>.<p><b>Étym</b>. στρ. δῆμος.`

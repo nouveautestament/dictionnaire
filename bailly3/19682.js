@@ -1,0 +1,1 @@
+lar[19682]=`<b>βι·αρκής, ής, ές</b>, qui suffit aux besoins de la vie, ANTH. <i>6, 179</i> ; NONN. <i>Jo. 108, 26, etc</i>.<p><b>Étym</b>. βίος, ἀρκέω.`

@@ -1,0 +1,1 @@
+lar[83775]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πρόβατον, AR. <i>Pl. 293, 299, 922</i> ; PLAT. <i>Phædr. 259a</i>.`

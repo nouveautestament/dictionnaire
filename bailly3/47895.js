@@ -1,0 +1,1 @@
+lar[47895]=`<b>ης, ες</b>, semblable à la sarriette, TH. <i>H.P. 6, 7, 5</i>.<p><b>Étym</b>. θ. -ωδης.`

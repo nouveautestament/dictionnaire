@@ -1,0 +1,1 @@
+lar[43703]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> le fils d’Euphèmos, HDT. <i>4, 150</i>.<p>➳ <i>Dor</i>. Εὐφαμίδας, THC. <i>5, 55</i>.<p><b>Étym</b>. Εὔφημος.`

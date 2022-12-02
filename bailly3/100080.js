@@ -1,0 +1,1 @@
+lar[100080]=`<b>τριακοντά·μοιρον, ου (τὸ)</b> <font color="purple">[ῑᾱᾰ]</font> un trentième, PROCL. <i>Ptol. 1, 14, p. 45</i>.<p><b>Étym</b>. τρ. μοῖρα.`

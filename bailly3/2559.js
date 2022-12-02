@@ -1,0 +1,1 @@
+lar[2559]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. αἱματοποιός, PORPH. (EUS. <i>3, 204 Migne).</i><p><b>Étym</b>. αἷ. ἔργον.`

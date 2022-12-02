@@ -1,0 +1,1 @@
+lar[52644]=`<i>adv</i>., en cachette, en secret, PTOL. <i>Tetr. p. 64</i>.<p><b>Étym</b>. κατακρύπτω.`

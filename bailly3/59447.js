@@ -1,0 +1,1 @@
+lar[59447]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. λῆδος².`

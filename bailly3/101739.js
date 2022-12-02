@@ -1,0 +1,1 @@
+lar[101739]=`<b>ὑλο·δίαιτος, ος, ον</b> <font color="purple">[ῡ]</font> matériel, SYN. <i>Hymn. 3, 381, 730</i>.<p><b>Étym</b>. ὕλη, δίαιτα.`

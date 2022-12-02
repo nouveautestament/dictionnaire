@@ -1,0 +1,1 @@
+lar[96130]=`<b>ῆρος (ὁ)</b> fondateur d’une colonie, PD. <i>O. 6, 8 ; fr. 185</i> ; LYC. <i>964</i>.<p><b>Étym</b>. συνοικίζω.`

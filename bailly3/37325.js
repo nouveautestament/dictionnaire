@@ -1,0 +1,1 @@
+lar[37325]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’embarquement <i>ou</i> l’équipage, POL. <i>3, 95, 5 ; subst</i>. τὸ ἐπιβατικόν, ARSTT. <i>Pol. 7, 6, 8</i> ; POL. <i>1, 47, 9,</i> l’équipage.<p><b>Étym</b>. ἐπιβάτης.`

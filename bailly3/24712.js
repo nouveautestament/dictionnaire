@@ -1,0 +1,1 @@
+lar[24712]=`<b>δι·αιωρέομαι-οῦμαι</b>, se répandre à travers l’espace, s’élever dans les airs, PLAT. <i>Tim. 78e</i>.`

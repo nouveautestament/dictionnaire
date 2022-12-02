@@ -1,0 +1,1 @@
+lar[67084]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> champignon, NIC. (ATH. <i>372f</i>).<p><b>Étym</b>. <i>cf</i>. μύκης.`

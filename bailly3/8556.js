@@ -1,0 +1,1 @@
+lar[8556]=`<b>ἀν·ερμάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> non lesté, PLAT. <i>Theæt. 144a.</i><br><b>      2</b> <i>p. suite,</i> qui n’a pas d’aplomb, d’assiette, PLUT. <i>M. 704b ; fig</i>. PLUT. <i>M. 501d</i>.<p><b>Étym</b>. ἀν-, ἑρματίζω.`

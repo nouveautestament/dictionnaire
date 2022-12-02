@@ -1,0 +1,1 @@
+lar[102500]=`<b>ὑπ·έρημος, ος, ον</b>, presque désert, PLUT. <i>Popl. 4, Æmil. 8, etc</i>.`

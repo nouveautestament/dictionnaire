@@ -1,0 +1,1 @@
+lar[88454]=`<b>(ὁ, ἡ)</b> <i>seul. aux cas suiv. : gén</i>. ῥηνός, <i>acc</i>. ῥῆνα, NIC. <i>Th. 453 ; dat. pl</i>. ῥήνεσσι(ν) A.RH. <i>4, 1497,</i> agneau, brebis.`

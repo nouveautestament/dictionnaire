@@ -1,0 +1,1 @@
+lar[11120]=`<i>adv.</i> :<br><b>      1</b> sans éducation, grossièrement, EUR. <i>Ion 247</i> ; PLAT. <i>Rsp. 559d ;</i> ESCHN. <i>87 fin, etc.</i><br><b>      2</b> dans l’ignorance de, <i>gén</i>. PHILSTR. <i>273</i>.`

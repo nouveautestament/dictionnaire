@@ -1,0 +1,1 @@
+lar[48952]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font> Himaléôn, <i>h</i>. NONN. <i>D. 32, 234</i>.`

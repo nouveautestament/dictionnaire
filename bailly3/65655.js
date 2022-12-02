@@ -1,0 +1,1 @@
+lar[65655]=`<b>Μίδου κρήνη (ἡ)</b> fontaine de Midas, <i>près de Thymbrion, en Phrygie,</i> XÉN. <i>An. 1, 2, 13</i>.`

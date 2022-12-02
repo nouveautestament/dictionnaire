@@ -1,0 +1,1 @@
+lar[34701]=`<b>ἐν·ναυπηγέω-ῶ</b>, construire des vaisseaux dans, THC. <i>1, 13, dout</i>.`

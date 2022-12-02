@@ -1,0 +1,1 @@
+lar[38542]=`<b>ἐπι·νομίς, ίδος (ἡ) :<br>      1</b> appendice aux Lois, <i>titre d’un ouvrage de Platon ; p. anal. en parl. du Deutéronome,</i> PHIL. <i>1, 495</i>.<br><b>      2</b> <i>à Rome,</i> étrenne, présent d’usage, ATH. <i>97d.</i><br><b>      3</b> partie d’une trirème, ATH. <i>97d</i>.<p><b>Étym</b>. ἐπί, νόμος.`

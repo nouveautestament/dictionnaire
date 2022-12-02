@@ -1,0 +1,1 @@
+lar[31519]=`<b>ατος (τὸ)</b> machine que l’on faisait tourner sur la scène pour montrer ce qui était censé se passer à l’intérieur d’une maison, POLL. <i>4, 127, etc</i>.<p><b>Étym</b>. ἐκκυκλέω.`

@@ -1,0 +1,1 @@
+lar[80707]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> qui ressemble à un rivage plat et uni, STR. <i>348 ; subst</i>. τὰ πλαταμώδη, ARSTT. <i>H.A. 5, 16</i>, les grèves.<p><b>Étym</b>. πλαταμών, -ωδης.`

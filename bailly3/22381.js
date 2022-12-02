@@ -1,0 +1,1 @@
+lar[22381]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. γογγυστής THÉODOT. <i>Prov. 16, 28</i>.`

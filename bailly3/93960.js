@@ -1,0 +1,1 @@
+lar[93960]=`<b>συμ·μετανοέω-οῶ</b>, se repentir avec, <i>dat</i>. NYSS.`

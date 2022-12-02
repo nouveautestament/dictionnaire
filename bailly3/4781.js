@@ -1,0 +1,1 @@
+lar[4781]=`<i>adv. c</i>. ἄλλοθεν, THCR. <i>Idyl. 9, 6 var</i>.`

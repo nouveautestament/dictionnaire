@@ -1,0 +1,1 @@
+lar[87213]=`<b>πρωτό·κουρος, ος, ον</b>, tondu pour la première fois, ARSTT. <i>H.A. 8, 8, 2</i>.<p><b>Étym</b>. πρ. κείρω.`

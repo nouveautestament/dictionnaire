@@ -1,0 +1,1 @@
+lar[38799]=`<b>ἐπι·πρό</b>, <i>adv</i>., loin en avant, en continuant, A.RH. <i>2, 133</i> ; DP. <i>276</i>.`

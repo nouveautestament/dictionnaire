@@ -1,0 +1,1 @@
+lar[79937]=`<b>ου (ὁ)</b> Peukestès, <i>Macédonien,</i> DS. <i>19, 43, etc</i>.<p>➳ <i>Dor</i>. Πευκέστας, <i>gén</i>. -ου, PLUT. <i>Eum. 16,</i> et -α, PLUT. <i>Alex. 41 ; dat</i>. -ᾳ.`

@@ -1,0 +1,1 @@
+lar[68404]=`<b>ή, όν</b>, qui se penche, PHIL.<p><b>Étym</b>. νεύω.`

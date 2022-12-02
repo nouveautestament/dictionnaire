@@ -1,0 +1,1 @@
+lar[45223]=`<b>ἡλιο·ειδής, ής, ές</b>, semblable au soleil, PLAT. <i>Rsp. 508b et e</i>; GAL. <i>4, 362</i>.<p>•<i> Sup</i>. -έστατος, PLAT. <i>Rsp. 508b</i>.<p><b>Étym</b>. ἥ. εἶδος.`

@@ -1,0 +1,1 @@
+lar[45004]=`<b>ή, όν</b>, propre à assaisonner, ARSTT. <i>Probl. 20, 6 ; fig</i>. PLAT. <i>Soph. 223a</i>.<p><b>Étym</b>. ἡδύνω.`

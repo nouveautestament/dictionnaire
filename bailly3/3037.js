@@ -1,0 +1,1 @@
+lar[3037]=`<b>ἀ·καθαίρετος, ος, ον</b>, indestructible, <i>d’où</i> terrible (combat, main, <i>etc</i>.) PHIL. <i>1, 39, etc</i>.<p><b>Étym</b>. ἀ, καθαιρέω.`

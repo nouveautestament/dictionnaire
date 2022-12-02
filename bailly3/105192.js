@@ -1,0 +1,1 @@
+lar[105192]=`<b>ή, όν</b>, supportable, tolérable, EUR. <i>Hec. 159</i>.<p><b>Étym</b>. <i>vb. de</i> φέρω.`

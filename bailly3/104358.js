@@ -1,0 +1,1 @@
+lar[104358]=`<b>ὑφαντο·δόνητος, ος, ον</b> <font color="purple">[ῠ]</font> tissé par la navette au mouvement agile, AR. <i>Av. 943</i>.<p><b>Étym</b>. ὑφαντός, δονέω.`

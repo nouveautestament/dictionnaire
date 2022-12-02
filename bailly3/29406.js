@@ -1,0 +1,1 @@
+lar[29406]=`<b>ἐγ·γώνιος, ος, ον</b>, qui forme un angle, <i>particul</i>. un angle droit, THC. <i>1, 93</i> ; TH. <i>H.P. 1, 10, 1 ; 3, 15, 4</i>.<p>•<i> Cp</i>. -ώτερος, TH. <i>ll. cc</i>.<p><b>Étym</b>. ἐν, γωνία.`

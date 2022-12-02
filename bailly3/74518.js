@@ -1,0 +1,1 @@
+lar[74518]=`<b>παλίμ·βαμος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> qui va et vient, PD. <i>P. 9, 33</i>.<p><b>Étym</b>. π. βῆμα.`

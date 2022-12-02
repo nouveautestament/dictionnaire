@@ -1,0 +1,1 @@
+lar[75411]=`<b>παρα·βοάω-ῶ</b>, pousser des cris, des clameurs, DÉM. <i>1559, 16</i>.`

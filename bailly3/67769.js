@@ -1,0 +1,1 @@
+lar[67769]=`<b>ος</b> <i>ou</i> <b>η, ον</b> <font color="purple">[ῐ]</font> propre à la construction des navires, HDT. <i>5, 23</i> ; THC. <i>4, 108</i> ; XÉN. <i>Hell. 5, 2, 16</i> ; PLAT. <i>Leg. 706b, etc</i>.<p>➳ <i>Fém</i>. -ίμη, PLAT. <i>Leg. 705c</i>.<p><b>Étym</b>. ναυπηγέω.`

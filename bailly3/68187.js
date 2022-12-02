@@ -1,0 +1,1 @@
+lar[68187]=`<b>νεο·λαμπής, ής, ές</b>, qui brille d’une lumière nouvelle, MAN. <i>4, 510</i>.<p><b>Étym</b>. ν. λάμπω.`

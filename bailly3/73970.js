@@ -1,0 +1,1 @@
+lar[73970]=`<i>gén</i>. <b>ὀπός (ἡ)</b> regard, vue, EMPÉD. <i>et</i> ANTIM. (STR. <i>364).</i><p><b>Étym</b>. ὄπωπα.`

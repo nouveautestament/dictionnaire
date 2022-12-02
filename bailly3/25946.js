@@ -1,0 +1,1 @@
+lar[25946]=`<b>δια·χωρίζω</b>, <i>f</i>. ίσω, <i>att</i>. -ιῶ, diviser, séparer, <i>acc</i>. XÉN. <i>Œc. 9, 7</i> ; PLAT. <i>Tim. 59c, Phil. 17a ; avec</i> ἀπό <i>et le gén</i>. PLAT. <i>Pol. 262b</i>.`

@@ -1,0 +1,1 @@
+lar[92471]=`<b>ῆρος</b>, <i>adj. m</i>. couvert de peau <i>ou</i> de cuir, IBYC. <i>fr. 59 (55) Bgk</i>.<p><b>Étym</b>. στέρφος.`

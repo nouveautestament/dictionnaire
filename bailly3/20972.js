@@ -1,0 +1,1 @@
+lar[20972]=`<b>(ἡ) :<br>      1</b> action de manger, <i>mot ion., seul. gén</i>. βρωτύος <font color="purple">[ῠ]</font> PHILOX. (ATH. <i>147c</i>), <i>et acc</i>. βρωτύν <font color="purple">[ῡ]</font> IL. <i>19, 205</i> ; OD. <i>18, 407</i>.<br><b>      2</b> nourriture, ANTH. <i>11, 371 (acc</i>.).<p><b>Étym</b>. βιβρώσκω.`

@@ -1,0 +1,1 @@
+lar[55148]=`<b>ῶν (οἱ)</b> Kèdes, <i>dème attique de la tribu Érekhthéide,</i> DÉM. <i>47, 5 Baiter-Sauppe</i>.`

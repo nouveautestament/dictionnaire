@@ -1,0 +1,1 @@
+lar[13743]=`<b>ἀπο·φλύζω</b> (<i>seul. ao</i>. ἀπέφλυσα, ARCHIL. <i>32, et sbj. ao</i>. ἀποφλύξω, A.RH. <i>3, 583</i>) rejeter en bouillonnant.`

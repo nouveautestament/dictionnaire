@@ -1,0 +1,1 @@
+lar[102421]=`<b>ὑπερ·εκπαίω</b>, abattre tout à fait, <i>d’où</i> l’emporter sur, <i>acc</i>. CLÉM. <i>239</i>.`

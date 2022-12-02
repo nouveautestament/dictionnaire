@@ -1,0 +1,1 @@
+lar[28852]=`<b>δυσ·πραξία, ας (ἡ)</b> <i>c</i>. δυσπραγία, ESCHL. <i>Pr. 966</i> ; SOPH. <i>O.C. 1399</i> ; EUR. <i>I.T. 514 ; au plur</i>. ESCHL. <i>Eum. 769</i> ; SOPH. <i>Aj. 759</i> ; ISOCR. <i>137a ;</i> ARSTT. <i>Nic. 1, 11</i>.<p><b>Étym</b>. δ. πράσσω.`

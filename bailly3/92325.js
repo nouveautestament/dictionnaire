@@ -1,0 +1,1 @@
+lar[92325]=`<b>α, ον</b>, en forme de tronc : στελεχιαία φλέψ, GAL. <i>4, 141,</i> veine porte.<p><b>Étym</b>. στέλεχος.`

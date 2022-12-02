@@ -1,0 +1,1 @@
+lar[55350]=`<b>ῆνος (ὁ) :<br>   I</b> frelon, bourdon, XÉN. <i>Cyr. 2, 2, 25</i> ; ARSTT. <i>H.A. 5, 22, etc.</i><br><b>   II</b> <i>fig. càd.</i> :<br><b>      1</b> qui exploite le travail des autres, HÉS. <i>O. 302</i> ; AR. <i>Vesp. 1114</i> ; PLAT. <i>Rsp. 552c.</i><br><b>      2</b> homme faible, lâche, impuissant, EUR. <i>Tr. 191, Bacch. 1362</i>.`

@@ -1,0 +1,1 @@
+lar[76301]=`<b>ου (ὁ) :<br>      1</b> celui qui ouvre les cadavres sur le côté pour les embaumer, <i>en Égypte,</i> DS. <i>1, 91</i>.<br><b>      2</b> voleur avec effraction, POL. <i>13, 6, 4</i>.<p><b>Étym</b>. παρασχίζω.`

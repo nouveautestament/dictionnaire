@@ -1,0 +1,1 @@
+lar[9599]=`<b>ἀντ·εμφαίνω</b>, exposer une opinion contraire, POL. <i>18, 11, 12</i>.`

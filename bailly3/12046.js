@@ -1,0 +1,1 @@
+lar[12046]=`<b>ἀ·πλήθυντος, ος, ον</b>, non multiplié, PORPH. <i>Sent. 39, p. 94, etc</i>.<p><b>Étym</b>. ἀ, πληθύνω.`

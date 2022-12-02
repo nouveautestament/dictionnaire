@@ -1,0 +1,1 @@
+lar[80836]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’un très grand nombre d’endroits, AR. <i>fr. 668 Dind</i>.<p><b>Étym</b>. *πλείσταχος, <i>de</i> πλεῖστος, -θεν.`

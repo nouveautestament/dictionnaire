@@ -1,0 +1,1 @@
+lar[55950]=`<b>κλεψί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui cache sa pensée, dissimulé, NONN. <i>D. 8, 47</i>.<p><b>Étym</b>. κλέπτω, νόος.`

@@ -1,0 +1,1 @@
+lar[109100]=`<b>χρυσ·ελεφαντ·ήλεκτρος, ος, ον</b> <font color="purple">[ῡ]</font> fait <i>ou</i> incrusté d’or, d’ivoire et de vermeil, MAMERC. (PLUT. <i>Tim. 31).</i><p><b>Étym</b>. χρ. ἐλέφας, ἤλεκτρον.`

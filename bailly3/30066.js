@@ -1,0 +1,1 @@
+lar[30066]=`<b>ου (τὸ)</b> banc de rameurs, LYC. <i>1320</i>.<p><b>Étym</b>. ἕδος.`

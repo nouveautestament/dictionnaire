@@ -1,0 +1,1 @@
+lar[93914]=`<b>συμ·μασάομαι</b> <font color="purple">[μᾰ]</font> mâcher ensemble, NAZ.`

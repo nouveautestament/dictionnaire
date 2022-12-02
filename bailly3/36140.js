@@ -1,0 +1,1 @@
+lar[36140]=`<i>adv</i>., d’une manière avouée, CLÉM. <i>2, 268 Migne</i>.<p><b>Étym</b>. ἐξομολογέω.`

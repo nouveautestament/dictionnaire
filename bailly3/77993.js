@@ -1,0 +1,1 @@
+lar[77993]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> cinq centième, AR. <i>Eccl. 1007</i> ; LYS. <i>176, 13</i>.<p><b>Étym</b>. πεντακόσιοι.`

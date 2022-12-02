@@ -1,0 +1,1 @@
+lar[40316]=`<b>άδος</b>, <i>adj. f</i>. d’Érétrie ; <i>subst</i>. ἡ Ἐρ. (<i>s.-e</i>. γῆ) HPC. <i>496, 23</i> ; DIOSC. <i>5, 171,</i> terre d’Érétrie, <i>sorte d’argile</i>.<p><b>Étym</b>. Ἐρέτρια.`

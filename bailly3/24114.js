@@ -1,0 +1,1 @@
+lar[24114]=`<b>Δηΐ·μαχος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Dèïmakhos, <i>h</i>. A.RH. <i>2, 957</i> ; PLUT. <i>Lyc. 23</i> ; ANTH. <i>9, 215, etc</i>.<p><b>Étym</b>. δήϊος, μάχη.`

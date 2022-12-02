@@ -1,0 +1,1 @@
+lar[61081]=`<b>λιθοτομέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> tailler dans la pierre, LUC. <i>J. tr. 10</i>.<br><b>      2</b> tailler la pierre, opérer de la pierre, <i>acc</i>. P. ÉG. <i>6, 60</i>.<p><b>Étym</b>. λιθοτόμον.`

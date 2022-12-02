@@ -1,0 +1,1 @@
+lar[83277]=`<b>πρασο·κουρίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> courtilière, STRATT. (<i>Com. fr. 2, 787</i>) ; ARSTT. <i>H.A. 5, 19, 12</i> ; TH. <i>H.P. 7, 5, 4 etc</i>.<p><b>Étym</b>. πράσον, κείρω.`

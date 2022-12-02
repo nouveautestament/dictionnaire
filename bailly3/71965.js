@@ -1,0 +1,1 @@
+lar[71965]=`<b>ὀνομα·κλυτός, ή, όν</b> <i>ou</i> <b>ὀνομάκλυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au nom célèbre, IL. <i>22, 51</i> ; PD. <i>fr. 279</i> ; IBYC. <i>9</i>.<p>➳ <i>Ion</i>. οὐνομακλυτός, SIM. AM. <i>fr. 7, 87</i>.<p><b>Étym</b>. ὄν. κλυτός.`

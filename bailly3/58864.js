@@ -1,0 +1,1 @@
+lar[58864]=`<b>κυν·ώπης</b>, <i>voc</i>. <b>κυνῶπα (ὁ)</b> <font color="purple">[ῠ]</font> aux regards de chien, <i>càd</i>. impudent, IL. <i>1, 159</i>.<p><b>Étym</b>. κύων, ὤψ.`

@@ -1,0 +1,1 @@
+lar[56253]=`<b>α, ον</b>, qui concerne la jambe, HPC. (GAL. <i>Lex. Hipp. 19, 112).</i><p><b>Étym</b>. κνήμη.`

@@ -1,0 +1,1 @@
+lar[1459]=`<b>ἀ·δμής, ῆτος (ὁ, ἡ) :<br>      1</b> indompté, non encore soumis au joug, OD. <i>4, 637, p. anal</i>. encore vierge, OD. <i>6, 109, etc.</i><br><b>      2</b> non soumis à, <i>gén</i>. BACCHYL. <i>33 (pl. dor</i>. -ᾶτες).<p><b>Étym</b>. ἀ, δάμνημι.`

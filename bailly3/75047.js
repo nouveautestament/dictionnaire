@@ -1,0 +1,1 @@
+lar[75047]=`<b>παν·θηλής, ής, ές</b>, tout à fait verdoyant, ANTH. <i>9, 282</i>.<p><b>Étym</b>. π. θάλλω.`

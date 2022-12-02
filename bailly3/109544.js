@@ -1,0 +1,1 @@
+lar[109544]=`<b>ας (ἡ)</b> joueuse de lyre <i>ou</i> de harpe, ION (ATH. <i>634f</i>) ; PLAT. <i>Prot. 347d ;</i> ARSTT. <i>fr. 408, etc</i>.<p><b>Étym</b>. <i>fém. de</i> ψάλτης.`

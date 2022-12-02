@@ -1,0 +1,1 @@
+lar[26071]=`<b>δι·εγκόπτω</b>, secouer <i>ou</i> heurter fortement, STOB. <i>Ecl. 1, 173 Mein</i>.`

@@ -1,0 +1,1 @@
+lar[73166]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> roitelet, <i>oiseau,</i> AR. <i>Vesp. 1513</i> ; ARAT. <i>1025</i>.<p>➳ ὄρχιλος, ARSTT. <i>H.A. 9, 1</i> ; TH. <i>Sign. 3, 2 ; 4, 4</i>.<p><b>Étym</b>. <i>cf</i>. τροχίλος.`

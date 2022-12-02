@@ -1,0 +1,1 @@
+lar[16233]=`<b>ἀ·στομάχητος, ος, ον</b> <font color="purple">[μᾰ]</font> sans colère, ALCIPHR. <i>2, 2, 2</i>.<p><b>Étym</b>. ἀ, <i>lat</i>. stŏmăchari.`

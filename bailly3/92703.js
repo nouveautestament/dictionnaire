@@ -1,0 +1,1 @@
+lar[92703]=`<b>στολ·άρχης, ου (ὁ)</b> commandant d’une flotte, ANTH. <i>App. 204</i>.<p><b>Étym</b>. στόλος, ἄρχω.`

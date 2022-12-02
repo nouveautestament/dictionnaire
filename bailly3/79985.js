@@ -1,0 +1,1 @@
+lar[79985]=`<b>ης, ες</b>, qui ressemble à une verge, LUC. <i>Lex. 12</i>.<p><b>Étym</b>. πέος, -ωδης.`

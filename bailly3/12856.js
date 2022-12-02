@@ -1,0 +1,1 @@
+lar[12856]=`<b>ἀπο·μαλακίζομαι</b> <font color="purple">[μᾰᾰ]</font><br><b>      1</b> montrer de la mollesse, ARSTT. <i>H.A. 9, 7, 4</i>.<br><b>      2</b> ne pouvoir, par mollesse, se plier (à un régime de vie) PLUT. <i>Lyc. 10</i>.`

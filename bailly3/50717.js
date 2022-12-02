@@ -1,0 +1,1 @@
+lar[50717]=`<b>κακο·είμων, ων, ον</b> <font color="purple">[ᾰ]</font> mal vêtu, OD. <i>18, 41</i>.<p><b>Étym</b>. κ. εἷμα.`

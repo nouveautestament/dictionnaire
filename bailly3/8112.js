@@ -1,0 +1,1 @@
+lar[8112]=`<b>ἀνδρόσ·αιμον, ου (τὸ)</b> androsème (<i>litt</i>. sang d’homme) <i>plante,</i> DIOSC.<p><b>Étym</b>. ἀνήρ, αἷμα.`

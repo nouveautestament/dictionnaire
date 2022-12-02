@@ -1,0 +1,1 @@
+lar[19141]=`<b>βαρυεργέω-ῶ</b> <font color="purple">[ᾰῠ]</font> être accablé de travail, GEOP. <i>11, p. 159 conj</i>.<p><b>Étym</b>. βαρυεργής.`

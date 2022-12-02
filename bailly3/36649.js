@@ -1,0 +1,1 @@
+lar[36649]=`<b>ἐπ·αναστρέφω :<br>      1</b> se retourner sur <i>ou</i> vers, faire volte-face, AR. <i>Ran. 1102</i>.<br><b>      2</b> faire volte-face pour résister, THC. <i>4, 130 ; 8, 105</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> <i>m. sign</i>. XÉN. <i>Hipp. 8, 25</i> ; AR. <i>Eq. 244</i>.<br><b>      2</b> revenir à la surface en se retournant, ARSTT. <i>fr. 316</i>.`

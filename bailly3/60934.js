@@ -1,0 +1,1 @@
+lar[60934]=`<b>ή, όν</b> <font color="purple">[ῐβ]</font> qui est au sud-ouest, PTOL. <i>au cp</i>. -ώτερος.<p><b>Étym</b>. λίψ ; <i>cf</i>. βορρόλιψ <i>et</i> λιβόνοτος.`

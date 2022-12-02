@@ -1,0 +1,1 @@
+lar[84404]=`<b>προ·ϊσχναίνω</b>, se dessécher <i>ou</i> maigrir auparavant, ARSTT. <i>Probl. 3, 23</i>.`

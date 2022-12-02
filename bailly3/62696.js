@@ -1,0 +1,1 @@
+lar[62696]=`<b>Μαλιακὸς κόλπος (ὁ)</b> le golfe Maliaque, <i>en Thessalie, près des Thermopyles,</i> STR. <i>330, etc.</i> ; HLD. <i>2, 34, etc</i>.<p><b>Étym</b>. Μαλιεύς.`

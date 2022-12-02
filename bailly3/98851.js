@@ -1,0 +1,1 @@
+lar[98851]=`<b>ή, όν</b>, industrieux, habile, <i>d’où</i> travaillé, artificiel, POL. <i>32, 20, 9</i>.<p><b>Étym</b>. τεχνητός.`

@@ -1,0 +1,1 @@
+lar[14218]=`<b>ου (ὁ)</b> Arganthônios, <i>roi de Tartessos,</i> HDT. <i>1, 163, 165</i>.`

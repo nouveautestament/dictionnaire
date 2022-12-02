@@ -1,0 +1,1 @@
+lar[57827]=`<b>ων (αἱ)</b> <font color="purple">[ῑ]</font> Krènides, <i>propr</i>. « les Sources », <i>anc. n. de Philippes, en Macédoine,</i> STR. <i>331</i> ; APP. <i>Civ. 4, 105</i>.<p><b>Étym</b>. κρήνη.`

@@ -1,0 +1,1 @@
+lar[37121]=`<b>ἐπ·εξεργάζομαι :<br>      1</b> accomplir en outre, DÉM. <i>276, 18 ; d’où</i> accomplir, achever, <i>en gén</i>. ION <i>fr. 63 Nauck</i>.<br><b>      2</b> faire périr encore une fois, SOPH. <i>Ant. 1288</i>.<br><b>      3</b> travailler de nouveau, <i>acc</i>. LUC. <i>Tim. 37</i>.`

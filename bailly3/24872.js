@@ -1,0 +1,1 @@
+lar[24872]=`<b>ή, όν :<br>      1</b> qui réfute où qui résout, <i>gén</i>. CLÉM. <i>821</i>.<br><b>      2</b> qui marque qu’on use de subterfuge, <i>en parl. de verbes tels que</i> παραλογίζομαι, κλέπτω, ἀπατῶ, DYSC. <i>Synt. 284, 20</i>.<p><b>Étym</b>. διακρούω.`

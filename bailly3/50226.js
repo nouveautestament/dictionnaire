@@ -1,0 +1,1 @@
+lar[50226]=`<b>ας (ἡ) :<br>      1</b> la Cadmée, <i>citadelle de Thèbes, bâtie par Kadmos,</i> XÉN. <i>Hell. 5, 2, 29, etc.</i><br><b>      2</b> Kadmeia, <i>sœur de Néoptolème,</i> PLUT. <i>Pyrrh. 5</i>.`

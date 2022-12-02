@@ -1,0 +1,1 @@
+lar[31107]=`<b>εως (ἡ)</b> exclamation, cri, PHIL. <i>2, 159</i> ; HLD. <i>10, 17</i>.<p><b>Étym</b>. ἐκβοάω.`

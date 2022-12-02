@@ -1,0 +1,1 @@
+lar[87567]=`<b>πυθμενέω-ῶ</b>, <i>t. de math</i>. avoir sa racine, Ps.-JAMBL. <i>Theol. arithm. p. 166</i>.<p><b>Étym</b>. πυθμήν.`

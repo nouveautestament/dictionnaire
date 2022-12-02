@@ -1,0 +1,1 @@
+lar[29392]=`<b>ων (οἱ)</b> les habitants d’Engyion, POSIDON. (PLUT. <i>Marc. 20</i>).`

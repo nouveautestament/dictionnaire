@@ -1,0 +1,1 @@
+lar[55222]=`<b>α, ον</b>, de jardin, NIC. <i>Th. 88</i>.<p><b>Étym</b>. κῆπος.`

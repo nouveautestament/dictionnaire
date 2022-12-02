@@ -1,0 +1,1 @@
+lar[109522]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> construit en forme de voûte, voûté, DH. <i>3, 68</i>.<p><b>Étym</b>. ψαλιδόω.`

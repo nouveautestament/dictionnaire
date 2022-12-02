@@ -1,0 +1,1 @@
+lar[5159]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμᾰ]</font> Amatheia, <i>Néréide,</i> IL. <i>18, 48</i>.`

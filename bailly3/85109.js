@@ -1,0 +1,1 @@
+lar[85109]=`<b>προσ·ακούω</b> <font color="purple">[ᾰ]</font> entendre en outre, XÉN. <i>Hell. 2, 4, 22, etc.</i> ; PLUT. <i>M. 37f, 71e ;</i> EL. <i>N.A. 4, 19, etc</i>.`

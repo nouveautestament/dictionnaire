@@ -1,0 +1,1 @@
+lar[63748]=`<b>μει·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> dont le nom désigne un nombre d’unités moindre, JAMBL. <i>Nicom. ar. p. 68a</i>.<p><b>Étym</b>. μείων, ὄνομα.`

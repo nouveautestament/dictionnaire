@@ -1,0 +1,1 @@
+lar[47866]=`<i>seul. pl</i>. <b>θυλήματα, ων (τὰ)</b> <font color="purple">[ῡ]</font> offrandes pour un sacrifice, sacrifice, AR. <i>Pax 1040</i> ; PHÉRÉCR. (<i>Com. fr. 2, 261</i>) ; TÉLÉCL. (<i>Com. fr. 2, 370</i>) ; TH. <i>Char. 10 (vulg</i>. θυηλήματα).<p><b>Étym</b>. θυλέομαι.`

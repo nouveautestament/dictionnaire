@@ -1,0 +1,1 @@
+lar[101773]=`<i>gén</i>. <b>ὑμῶν</b>, <i>dat</i>. <b>ὑμῖν</b>, <i>acc</i>. <b>ὑμᾶς</b> <font color="purple">[ῡ]</font> vous, <i>plur. de</i> σύ.<p><b>Étym</b>. <i>v</i>. σύ.`

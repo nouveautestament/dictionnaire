@@ -1,0 +1,1 @@
+lar[95336]=`<b>συν·εκδημέω-ῶ</b>, voyager à l’étranger avec, EPHOR. <i>t. 1, p. 275 Fragmenta historicorum græcorum, Müller</i> ; PLUT. <i>Cato mi. 5</i>.`

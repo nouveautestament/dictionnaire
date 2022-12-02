@@ -1,0 +1,1 @@
+lar[104408]=`<b>ὑφ·ιζάνω :<br>   I. 1</b> s’asseoir sous, être posé <i>ou</i> fixé sous, <i>dat</i>. EUR. <i>Ph. 1382</i>.<br><b>      2</b> s’affaisser, ARR. <i>An. 2, 27</i> ; APP. <i>Mithr. 36</i>.<br><b>      3</b> déposer, former un dépôt, <i>en parl. d’un liquide,</i> GEOP. <i>9, 26, 1</i>.<br><b>   II</b> être assis derrière, PYRGION (ATH. <i>143e</i>).`

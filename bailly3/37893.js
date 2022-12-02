@@ -1,0 +1,1 @@
+lar[37893]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> ce qui recouvre, enveloppe, ARSTT. <i>P.A. 4, 10, 28</i>.<p><b>Étym</b>. ἐπικαλύπτω.`

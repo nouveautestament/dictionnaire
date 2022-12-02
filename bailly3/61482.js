@@ -1,0 +1,1 @@
+lar[61482]=`<b>ου (ὁ)</b> Longouros, <i>lieu de Sicile,</i> LYC. <i>868</i>.`

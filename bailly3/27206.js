@@ -1,0 +1,1 @@
+lar[27206]=`<b>δί·χορδος, ος, ον</b> <font color="purple">[ῐ]</font> à deux cordes, SOPATR. (ATH. <i>183b</i>) ; τὸ δίχορδον, EUPHRON (ATH. <i>380b</i>) le dichorde, instrument à deux cordes.<p><b>Étym</b>. δίς, χορδή.`

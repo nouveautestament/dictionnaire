@@ -1,0 +1,1 @@
+lar[24672]=`<b>διά·θυρα, ων (τὰ)</b> <font color="purple">[ῠ]</font> sorte d’avant-toit <i>ou</i> de péristyle couvert devant une porte, VITR. <i>6, 10</i>.<p><b>Étym</b>. διά, θύρα.`

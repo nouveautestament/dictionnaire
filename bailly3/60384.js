@@ -1,0 +1,1 @@
+lar[60384]=`<b>ή, όν</b>, qui concerne la lèpre, DIOSC. <i>1, 50 ; 2, 67 ; 3, 102</i>.<p><b>Étym</b>. λέπρα.`

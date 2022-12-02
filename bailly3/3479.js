@@ -1,0 +1,1 @@
+lar[3479]=`<b>ἀ·κοινο·νόητος, ος, ον</b>, qui n’a pas le sens commun, A. GELL. <i>12, 12</i>.<p><b>Étym</b>. ἀ, κοινός, νοέω.`

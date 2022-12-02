@@ -1,0 +1,1 @@
+lar[1823]=`<b>ἀερσί·πορος, ος, ον</b> <font color="purple">[ῐ]</font> qui va en s’élevant <i>ou</i> dans les hautes régions, NONN. <i>D. 1, 285</i>.<p><b>Étym</b>. ἀείρω, πόρος.`

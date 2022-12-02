@@ -1,0 +1,1 @@
+lar[100723]=`<b>ῆρος (ὁ)</b> qui nourrit, qui fortifie, XÉNARQ. (ATH. <i>64a</i>).<p><b>Étym</b>. <i>c</i>. *τροφωτήρ, <i>de</i> τρέφω.`

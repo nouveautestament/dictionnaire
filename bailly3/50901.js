@@ -1,0 +1,1 @@
+lar[50901]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais bruit, médisance, EL. <i>V.H. 3, 7</i>.<p><b>Étym</b>. κακόφημος.`

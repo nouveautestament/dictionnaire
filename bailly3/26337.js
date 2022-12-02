@@ -1,0 +1,1 @@
+lar[26337]=`<b>δι·εχθρεύω</b>, être ennemi déclaré de, <i>dat</i>. DH. <i>4, 70</i> ; τὸ διεχθρεῦον, inimitié déclarée, ALCIPHR. <i>2, 3, 13</i>.`

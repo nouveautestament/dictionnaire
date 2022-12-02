@@ -1,0 +1,1 @@
+lar[50985]=`<b>ιδος (ὁ)</b> Kalamis, <i>sculpteur,</i> LUC. <i>Im. 4, 6, etc</i>.`

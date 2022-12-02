@@ -1,0 +1,1 @@
+lar[99732]=`<i>gén. sg. masc. et neutre</i> :<br><b>      1</b> <i>de l’art</i>. ὁ, ἡ, τό.<br><b>      2</b> <i>poét. c</i>. οὗ, <i>gén. du relat</i>. ὅς, ἥ, ὅ.<br><b>      3</b> <i>poét. c</i>. τούτου, <i>gén. du démonstr</i>. οὗτος.<br><b>      4</b> <i>att. c</i>. τίνος, <i>gén. de</i> τίς <i>interrog</i>.`

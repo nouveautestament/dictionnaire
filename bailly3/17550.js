@@ -1,0 +1,1 @@
+lar[17550]=`<b>αὐτο·κτόνος, ος, ον :<br>      1</b> qui tue (les siens) de sa propre main, EUR. <i>Med. 1254</i>.<br><b>      2</b> meurtrier, <i>en gén</i>. ANTH. <i>7, 152</i>.<p><b>Étym</b>. <i>v</i>. αὐτόκτονος.`

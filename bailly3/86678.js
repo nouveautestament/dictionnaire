@@ -1,0 +1,1 @@
+lar[86678]=`<b>εως (ἡ)</b> action d’aller vers, PLAT. <i>Tim. 40c au plur</i>.<p><b>Étym</b>. προσχωρέω.`

@@ -1,0 +1,1 @@
+lar[1306]=`<b>ἀ·διαβίβαστος, ος, ον</b> <font color="purple">[ῐ]</font> intransitif, <i>t. de gr</i>. DYSC. <i>Synt. 286, 287</i>.<p><b>Étym</b>. ἀ, διαβιβάζω.`

@@ -1,0 +1,1 @@
+lar[19787]=`<b>ας (ἡ)</b> destruction de la vie, ORPH. <i>H. 72, 8</i>.<p><b>Étym</b>. βιοφθόρος.`

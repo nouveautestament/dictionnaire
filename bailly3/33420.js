@@ -1,0 +1,1 @@
+lar[33420]=`<b>ἐμ·περισπούδαστος, ος, ον</b>, dans lequel on s’empresse, très fréquenté, JOS. <i>c. Ap. 2, 35</i>.<p><b>Étym</b>. ἐν, π.`

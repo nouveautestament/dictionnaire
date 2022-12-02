@@ -1,0 +1,1 @@
+lar[22840]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> de vautour, BAS. <i>2, 780c ; 1171b</i>.<p><b>Étym</b>. γύψ.`

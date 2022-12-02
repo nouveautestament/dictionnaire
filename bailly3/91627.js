@@ -1,0 +1,1 @@
+lar[91627]=`<b>ου (τὸ)</b> Sounion (Sunium, <i>auj</i>. Soúnio <i>ou</i> Kavokolónes) <i>promont. au S.-E. de l’Attique,</i> OD. <i>3, 278</i> ; HDT. <i>6, 87, etc.</i> ; THC. <i>7, 28, etc</i>.`

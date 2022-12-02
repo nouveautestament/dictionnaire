@@ -1,0 +1,1 @@
+lar[52772]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> endroit où l’on délie son attelage <i>ou</i> ses bagages, <i>càd</i>. hôtellerie, auberge, NT. <i>Marc. 14, 14</i>.<br><b>      2</b> séjour, résidence, POL. <i>2, 36, 1</i> ; SPT. <i>1Reg. 9, 22, etc</i>.<p><b>Étym</b>. καταλύω.`

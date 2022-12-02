@@ -1,0 +1,1 @@
+lar[90196]=`<b>ίδος</b> <font color="purple">[σῑῐδ]</font> <i>adj. f</i>. de Sidon, NONN. <i>D. 41, 243</i>.<p><b>Étym</b>. Σιδών.`

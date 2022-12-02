@@ -1,0 +1,1 @@
+lar[94086]=`<b>συμ·παρανήχομαι</b>, nager ensemble près du rivage, LUC. <i>Tox. 20</i>.`

@@ -1,0 +1,1 @@
+lar[50129]=`<b>ης, ες</b> <font color="purple">[ῐ]</font><br><b>      1</b> violet, HPC. <i>Progn. 40</i>.<br><b>      2</b> qui a l’odeur de la violette, DIOSC. <i>5, 171</i>.<p><b>Étym</b>. ἴον, -ωδης.`

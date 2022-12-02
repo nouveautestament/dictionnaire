@@ -1,0 +1,1 @@
+lar[44260]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite vipère, ARSTT. <i>H.A. 5, 34, 2</i>.<p><b>Étym</b>. ἔχις.`

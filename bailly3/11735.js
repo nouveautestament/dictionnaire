@@ -1,0 +1,1 @@
+lar[11735]=`<b>ας (ἡ) :<br>      1</b> travail pour finir, achèvement, PLAT. <i>Prot. 312d ;</i> ARSTT. <i>Poet. 4, 6</i>.<br><b>      2</b> action de produire, production, cause, PLAT. <i>Gorg. 462c.</i><br><b>      3</b> maniement d’une affaire, PLAT. <i>Euthyphr. 13d ; particul</i>. traitement d’une maladie, PLAT. <i>2 Alc. 140b</i>.<p><b>Étym</b>. ἀπεργάζομαι.`

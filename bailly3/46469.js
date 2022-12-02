@@ -1,0 +1,1 @@
+lar[46469]=`<b>ας (ἡ)</b> tante, NAZ. <i>3, 1600 Migne</i>.<p><b>Étym</b>. <i>fém. de</i> θεῖος².`

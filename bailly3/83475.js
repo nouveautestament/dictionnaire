@@ -1,0 +1,1 @@
+lar[83475]=`<b>προ·αγνεύω</b>, purifier par l’abstinence, ARR. <i>Epict. 3, 21, 14</i> ; JOS. <i>A.J. 4, 3, 12</i>.`

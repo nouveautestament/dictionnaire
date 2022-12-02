@@ -1,0 +1,1 @@
+lar[53506]=`<b>κατα·σφίγγω</b>, serrer fortement, PLUT. <i>M. 983d ;</i> JOS. <i>A.J. 3, 7, 2</i>.`

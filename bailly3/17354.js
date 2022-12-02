@@ -1,0 +1,1 @@
+lar[17354]=`<b>αὐτ·επιτάκτης, ου (ὁ)</b> qui commande par lui-même, maître absolu, PLAT. <i>Pol. 260e</i>.<p><b>Étym</b>. αὐτός, ἐπιτάσσω.`

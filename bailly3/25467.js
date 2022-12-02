@@ -1,0 +1,1 @@
+lar[25467]=`<b>ῆς (ἡ)</b> <font color="purple">[ρῐ]</font> <i>c</i>. διάρριψις PRATIN. <i>1, 17 Bgk</i>.`

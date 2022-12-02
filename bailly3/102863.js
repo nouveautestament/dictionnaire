@@ -1,0 +1,1 @@
+lar[102863]=`<b>ής, ές</b>, éminent, supérieur, SPT. <i>Dan. 2, 31</i> ; AQU. <i>Ps. 46, 5 ; 122, 4</i>.<p>•<i> Cp</i>. -έστερος, EL. (SUID.) ; <i>sup</i>. -έστατος, J. DAMASC.<p><b>Étym</b>. ὑπερφέρω.`

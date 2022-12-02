@@ -1,0 +1,1 @@
+lar[75146]=`<b>παν·όψιος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. brillant, <i>litt</i>. visible à tous, IL. <i>21, 397</i>.<br><b>      2</b> <i>act</i>. qui voit tout, NONN. <i>D. 14, 169</i>.<p><b>Étym</b>. π. ὄψομαι.`

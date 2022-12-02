@@ -1,0 +1,1 @@
+lar[18288]=`<b>ἀ·φυγής, ής, ές</b> <font color="purple">[ῠ]</font> qui n’a pas la force de fuir, <i>gén</i>. SEXT. <i>M. 11, 164</i>.<p><b>Étym</b>. ἀ, φυγεῖν.`

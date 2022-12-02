@@ -1,0 +1,1 @@
+lar[96534]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> panier, corbeille, ALEX. (<i>Com. fr. 3, 437</i>).`

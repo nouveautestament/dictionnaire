@@ -1,0 +1,1 @@
+lar[5715]=`<i>att</i>. ἁμόθεν <font color="purple">[ᾰ]</font> <i>adv</i>., de quelque côté ; <i>d’ord</i>. ἁ. γε, OD. <i>1, 10</i> ; ἁ. γέ ποθεν, PLAT. <i>Gorg. 492d ; rar</i>. ἁ. <i>seul</i>. OPP. <i>C. 1, 401</i>.<p><b>Étym</b>. ἀμός, -θεν.`

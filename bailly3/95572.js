@@ -1,0 +1,1 @@
+lar[95572]=`<b>συν·επανέρχομαι</b> <font color="purple">[ᾰ]</font> retourner avec, <i>dat</i>. SYN. <i>21b</i>.`

@@ -1,0 +1,1 @@
+lar[79140]=`<b>ή, όν</b>, atteint de péripneumonie, PLUT. <i>M. 699e, etc</i>.<p><b>Étym</b>. περιπνευμονία.`

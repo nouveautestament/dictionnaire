@@ -1,0 +1,1 @@
+lar[71989]=`<b>ὀνοματο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui crée des mots, <i>particul</i>. par onomatopée, ATH. <i>99c</i>.<p><b>Étym</b>. ὄ. ποιέω.`

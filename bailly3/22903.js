@@ -1,0 +1,1 @@
+lar[22903]=`<font color="purple">[ᾰ]</font> <i>préfixe augmentatif : v</i>. δάσκιος, δαφοινός, <i>etc</i>.<p><b>Étym</b>. <i>Cf</i>. ζα-.`

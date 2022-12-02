@@ -1,0 +1,1 @@
+lar[89468]=`<b>σαρκο·φυΐα, ας (ἡ)</b> production <i>ou</i> croissance de chair, HPC. <i>Fract. 774</i>.<p><b>Étym</b>. σ. φύω.`

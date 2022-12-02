@@ -1,0 +1,1 @@
+lar[73882]=`<font color="purple">[ᾰ]</font> <i>adv</i>., tout à fait, beaucoup, <i>dev. un sup.</i> : ὄχ' ἄριστος, IL. <i>1, 69, etc</i>. de beaucoup le meilleur <i>ou</i> le plus brave.<p><b>Étym</b>. ἔχω ; <i>cf</i>. ἔξοχα.`

@@ -1,0 +1,1 @@
+lar[74227]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> art <i>ou</i> manière de diriger <i>ou</i> d’instruire les enfants, CLÉM. <i>145</i>.<p><b>Étym</b>. παιδαγωγέω.`

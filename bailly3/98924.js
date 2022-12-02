@@ -1,0 +1,1 @@
+lar[98924]=`<b>Τηλέ·γονος, ου (ὁ)</b> Tèlégonos, <i>fils d’Ulysse et de Circé,</i> HÉS. <i>Th. 1014, etc</i>.<p><b>Étym</b>. τ. γίγνομαι.`

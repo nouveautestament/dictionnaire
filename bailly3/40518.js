@@ -1,0 +1,1 @@
+lar[40518]=`<b>ἐρί·σφηλος, ος, ον</b>, qui ébranle fortement, STÉSICH. <i>fr. 80</i>.<p><b>Étym</b>. ἐρι-, σφάλλω.`

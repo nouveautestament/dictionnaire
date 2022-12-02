@@ -1,0 +1,1 @@
+lar[81180]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>   I</b> petit vent, DAMOX. (ATH. <i>102d au pl</i>.).<br><b>   II</b> souffle de vie, souffle, ARR. <i>Epict. 3, 13, 15 ; d’où</i> :<br><b>      1</b> petite âme, M. ANT. <i>2, 2</i>.<br><b>      2</b> vie misérable, POL. <i>15, 31, 5</i>.<p><b>Étym</b>. πνεῦμα.`

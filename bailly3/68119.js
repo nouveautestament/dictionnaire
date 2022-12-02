@@ -1,0 +1,1 @@
+lar[68119]=`<b>νεο·δίδακτος, ος, ον</b> <font color="purple">[ῐ]</font> appris depuis peu, <i>en parl. d’une nouvelle pièce de théâtre,</i> LUC. <i>Tim. 46</i>.<p><b>Étym</b>. ν. διδάσκω.`

@@ -1,0 +1,1 @@
+lar[29395]=`<b>ἐγ·γυμνάζω</b>, exercer à : τὴν ψυχήν τινι, LUC. <i>Salt. 6,</i> exercer l’âme à qqe ch.<br><b><i>Moy.</i></b> s’exercer, PLAT. <i>Phædr. 228e ;</i> τινι, PLUT. <i>Cæs. 28,</i> à qqe ch.<p><b>Étym</b>. ἐν, γ.`

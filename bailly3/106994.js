@@ -1,0 +1,1 @@
+lar[106994]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>autre n. de la plante</i> βατράχιον, DIOSC. <i>3, 17</i>.<p><b>Étym</b>. φρύνη.`

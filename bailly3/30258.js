@@ -1,0 +1,1 @@
+lar[30258]=`<b>εἰδο·ποιέω-ῶ :<br>      1</b> donner une forme à, modeler, <i>acc</i>. PLUT. <i>Alex. 1 ; M. 1054b ;</i> THEOL. <i>p. 4</i> ; PHIL. <i>1, 31</i>.<br><b>      2</b> spécifier, CLÉM. <i>925</i>.<p>➳ <i>Part. pf. pass</i>. εἰδοπεποιημένος, PROCL. <i>Plat. Parm. 629</i>.<p><b>Étym</b>. εἶδος, ποιέω.`

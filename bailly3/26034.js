@@ -1,0 +1,1 @@
+lar[26034]=`<b>ου (τὸ)</b> <font color="purple">[ῐῠ]</font> temple de Didymes, <i>consacré à Apollon,</i> PLUT. <i>Pomp. 24</i> ; CLÉM. <i>36</i>.<p><b>Étym</b>. Δίδυμα.`

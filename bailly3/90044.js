@@ -1,0 +1,1 @@
+lar[90044]=`<b>Σθενέ·λαος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Sthénélaos :<br><b>      1</b> <i>Troyen,</i> IL. <i>16, 586</i>.<br><b>      2</b> <i>éphore lacédémonien,</i> XÉN. <i>Hell. 2, 2, 2</i>.<p><b>Étym</b>. σθένος, λαός.`

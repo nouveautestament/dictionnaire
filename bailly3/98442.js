@@ -1,0 +1,1 @@
+lar[98442]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰᾰ]</font> durée de quarante ans, DH. <i>2, 58</i> ; PHIL. <i>2, 175</i>.<p><b>Étym</b>. τεσσαρακονταετής.`

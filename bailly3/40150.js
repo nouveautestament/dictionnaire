@@ -1,0 +1,1 @@
+lar[40150]=`<b>ας (ἡ)</b> amante, EUP. <i>414 Kock</i> ; PÉRICT. (STOB. <i>Fl. 85, 19, t. 3, p. 145, l. 2</i>) ; EL. <i>N.A. 3, 40</i>.<p><b>Étym</b>. ἐράω.`

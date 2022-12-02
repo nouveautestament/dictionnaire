@@ -1,0 +1,1 @@
+lar[53969]=`<b>κατ·ευημερέω-ῶ</b> (<i>pf</i>. κατευημέρηκα) avoir beaucoup de bonheur, ESCHN. <i>40, 7</i>.`

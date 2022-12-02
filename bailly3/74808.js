@@ -1,0 +1,1 @@
+lar[74808]=`<b>παν·αγρέτις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. πάναγρος, ANTH. <i>6, 75</i>.`

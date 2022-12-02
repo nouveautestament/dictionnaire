@@ -1,0 +1,1 @@
+lar[89866]=`<b>ου (ὁ)</b> = <i>lat</i>. Servilius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 37, etc.</i> ; οἱ Σερουΐλιοι, PLUT. <i>Cæs. 72, etc</i>. les Servilius, <i>cf</i>. Σερβίλιος.`

@@ -1,0 +1,1 @@
+lar[50588]=`<b>η, ον</b> <font color="purple">[ῐ]</font> à l’endroit convenable (pour donner la mort) MACH. (ATH. <i>581b dout.) cf</i>. καίριος.<p><b>Étym</b>. καιρός.`

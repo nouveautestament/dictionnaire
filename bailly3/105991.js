@@ -1,0 +1,1 @@
+lar[105991]=`<b>φιλο·πένης, ητος (ὁ, ἡ)</b> qui aime les pauvres, CHRYST. <i>t. 6, p. 811, 32</i>.`

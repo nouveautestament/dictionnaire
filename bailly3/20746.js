@@ -1,0 +1,1 @@
+lar[20746]=`<b>βραχυ·χρόνιος, ος, ον</b> <font color="purple">[ᾰ]</font> de peu de durée, PLAT. <i>Tim. 75b ;</i> τὸ βρ. PLUT. <i>M. 107a</i>, courte durée.<p><b>Étym</b>. βρ. χρόνος.`

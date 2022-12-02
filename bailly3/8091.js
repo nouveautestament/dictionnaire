@@ -1,0 +1,1 @@
+lar[8091]=`<b>Ἀνδρο·μάχη, ης (ἡ)</b> <font color="purple">[μᾰ]</font> Andromakhè (Andromaque) <i>femme d’Hector,</i> IL. <i>6, 371, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἀνδρόμαχος.`

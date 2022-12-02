@@ -1,0 +1,1 @@
+lar[75321]=`<b>παν·ωνία, ας (ἡ)</b> vente d’objets de toute nature, ZOS. <i>2, 38</i>.<p><b>Étym</b>. π. ὦνος.`

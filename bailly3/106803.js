@@ -1,0 +1,1 @@
+lar[106803]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>c</i>. φρατρικός, DÉM. <i>1092 fin</i>.`

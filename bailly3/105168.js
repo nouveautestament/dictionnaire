@@ -1,0 +1,1 @@
+lar[105168]=`<b>ου (ὁ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. Φερητιάδης, <i>en parl. d’Admètos,</i> SOPH. <i>fr. 345</i>.`

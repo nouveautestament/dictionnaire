@@ -1,0 +1,1 @@
+lar[95771]=`<i>adv</i>., dans l’ombre, obscurément, CHRYS. <i>10, 258 Migne</i>.<p><b>Étym</b>. συσκιάζω.`

@@ -1,0 +1,1 @@
+lar[1905]=`<b>ἀηθέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἀήθεον, <i>corr. p</i>. ἀήθεσον)</font> <i>c</i>. ἀηθέσσω A.RH. <i>1, 1171</i>.`

@@ -1,0 +1,1 @@
+lar[94331]=`<b>συμποσί·αρχος, ου (ὁ)</b> président d’un banquet, chargé d’en régler l’ordonnance, <i>etc</i>. XÉN. <i>An. 6, 1, 30</i>.<p><b>Étym</b>. συμπόσιον, ἄρχω.`

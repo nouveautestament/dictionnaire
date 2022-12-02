@@ -1,0 +1,1 @@
+lar[35275]=`<b>ἐξ·αγώνιος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui ne concerne pas la lutte <i>ou</i> le concours, <i>d’où en gén</i>. étranger au sujet, ESCHN. <i>(Bkk. 260, 11</i>) ; LUC. <i>Gymn. 19</i>.<br><b>      2</b> exclu de toute compétition, PHIL. <i>2, 60</i>.<p><b>Étym</b>. ἐξ, ἀγών.`

@@ -1,0 +1,1 @@
+lar[58289]=`<b>ορος (ὁ)</b> qui possède, maître, DS. <i>Exc. p. 599, 17</i> ; ANTH. <i>7, 206</i> ; NT. <i>Ap. 4, 34</i>.<p><b>Étym</b>. κτάομαι.`

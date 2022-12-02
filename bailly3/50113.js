@@ -1,0 +1,1 @@
+lar[50113]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> <i>c</i>. ἰχωροειδής, HPC. <i>494, 3</i> ; ARSTT. <i>H.A. 7, 7, 3</i>.<p><b>Étym</b>. ἰχώρ, -ωδης.`

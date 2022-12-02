@@ -1,0 +1,1 @@
+lar[103549]=`<b>ὑπο·μνάομαι-ῶμαι</b> <font color="darkgreen">(<i>2 pl. impf. épq</i>. ὑπεμνάασθε)</font> chercher à séduire, <i>acc</i>. OD. <i>22, 38</i>.`

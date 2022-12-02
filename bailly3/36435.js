@@ -1,0 +1,1 @@
+lar[36435]=`<b>ἐπ·άϊστος, ος, ον</b>, notoire, connu, <i>avec un part.</i> : ἐπ. ἐγένετο ἐργασάμενος, HDT. <i>2, 119,</i> il fut connu de notoriété publique pour avoir fait.<p><b>Étym</b>. ἐπαΐω.`

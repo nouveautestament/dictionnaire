@@ -1,0 +1,1 @@
+lar[93587]=`<b>συγ·ξέω</b>, polir dans toutes ses parties, avec soin, <i>fig</i>. DH. <i>Comp. 22</i> ; PLUT. <i>M. 833c et d, etc</i>.`

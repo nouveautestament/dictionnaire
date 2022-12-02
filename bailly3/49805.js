@@ -1,0 +1,1 @@
+lar[49805]=`<i>interj. exclamation de regret ou cri de douleur,</i> MÉN. (PHOT. <i>114, 7</i>).`

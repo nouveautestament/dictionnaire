@@ -1,0 +1,1 @@
+lar[99311]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Tiro, Tiron, <i>affranchi de Cicéron,</i> PLUT. <i>Cic. 41, 49</i>.`

@@ -1,0 +1,1 @@
+lar[62259]=`<b>ιδος</b>, <i>adj. f. c</i>. Μαγνητικός PD. <i>P. 2, 45</i> ; A.RH. <i>1, 238</i> ; STR. <i>437</i> ; μ. λίθος, EUR. (PLAT. <i>Ion 533d</i>) ; TH. <i>Lap. fr. 2, 41</i> ; EUB. (ATH. <i>112f</i>) aimant.<p>➳ <i>Dat. pl. poét</i>. -ίδεσσιν, PD. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. Μάγνης.`

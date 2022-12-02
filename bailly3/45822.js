@@ -1,0 +1,1 @@
+lar[45822]=`<b>ου (ὁ)</b> protecteur, chef, roi, A.RH. <i>2, 513</i> ; P. SIL. <i>Ecphr. ag. Soph. 178</i>.<p><b>Étym</b>. ἦρα².`

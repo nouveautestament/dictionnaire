@@ -1,0 +1,1 @@
+lar[74053]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> gourmandise raffinée, ESCHN. <i>6, 33</i> ; PLUT. <i>M. 669a</i>.<p><b>Étym</b>. ὀψοφάγος.`

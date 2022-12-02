@@ -1,0 +1,1 @@
+lar[47622]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> θρᾶττα, ANAXANDR. (ATH. <i>329f</i>).`

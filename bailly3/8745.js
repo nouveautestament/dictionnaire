@@ -1,0 +1,1 @@
+lar[8745]=`<b>*ἀν·ήσσητος</b>, <i>dor</i>. <b>ἀν·άσσατος, ος, ον</b> <font color="purple">[σᾱ]</font> non vaincu, invincible, THCR. <i>Idyl. 6, 45</i>.<p><b>Étym</b>. ἀν-, ἡσσάομαι.`

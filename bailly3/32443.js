@@ -1,0 +1,1 @@
+lar[32443]=`<b>ἐλαι·ακόνη, ης (ἡ)</b> <font color="purple">[ᾰκ]</font> pierre huilée servant à aiguiser, P. ÉG. <i>245, 52</i>.<p><b>Étym</b>. ἐλαία, ἀκόνη.`

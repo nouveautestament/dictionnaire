@@ -1,0 +1,1 @@
+lar[39565]=`<b>ἐπι·φθάνω</b> (<i>seul. part. ao</i>. ἐπιφθάς) arriver le premier, BATR. <i>217</i>.`

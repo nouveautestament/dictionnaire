@@ -1,0 +1,1 @@
+lar[90400]=`<b>ίδος</b> <font color="purple">[ῐῐδ]</font> <i>adj. f</i>. de Sinuessa, ANTH. <i>App. 110</i>.<p><b>Étym</b>. <i>v</i>. Σινόεσσα.`

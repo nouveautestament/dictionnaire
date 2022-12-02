@@ -1,0 +1,1 @@
+lar[28526]=`<b>δυσ·ίδρως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui sue difficilement, TH. <i>fr. 9, 18</i>.<p><b>Étym</b>. δ. ἱδρώς.`

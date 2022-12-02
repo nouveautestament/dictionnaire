@@ -1,0 +1,1 @@
+lar[51080]=`<b>ου (ἡ)</b> <font color="purple">[ᾰρ]</font> Kalliaros, <i>v. de Locride,</i> IL. <i>2, 531</i>.`

@@ -1,0 +1,1 @@
+lar[54756]=`<b>κεντρο·βαρικά, ῶν (τὰ)</b> traité sur les centres de gravité, <i>ouvrage d’Archimède</i>.<p><b>Étym</b>. κέντρον, βαρύς.`

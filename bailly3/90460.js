@@ -1,0 +1,1 @@
+lar[90460]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>plante aromatique, p.-ê</i>. la menthe aquatique (<i>Mentha aquatica</i> L.) <i>ou, sel. d’autres,</i> une sorte de cresson (<i>Nepeta cataria</i> L.) ANTH. <i>4, 1, 19</i> <font color="purple">[σῐ]</font> NIC. <i>Th. 896</i> <font color="purple">[σῑ]</font>.`

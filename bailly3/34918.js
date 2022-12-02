@@ -1,0 +1,1 @@
+lar[34918]=`<b>ἐν·σάττω</b>, bourrer, <i>acc</i>. ALCIPHR. <i>3, 7</i>.`

@@ -1,0 +1,1 @@
+lar[66581]=`<b>μονο·μάχιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> combat singulier, LUC. <i>D. mer. 13, 5</i> ; APP. <i>Celt. 4, 10</i>.<p><b>Étym</b>. μονομάχος.`

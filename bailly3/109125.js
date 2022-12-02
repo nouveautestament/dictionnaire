@@ -1,0 +1,1 @@
+lar[109125]=`<b>χρυσ·εραστής, οῦ (ὁ)</b> <font color="purple">[ῡ]</font> qui a l’amour de l’or, BABR. <i>21</i>.`

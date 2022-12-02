@@ -1,0 +1,1 @@
+lar[104516]=`<b>ὑψι·παγής, ής, ές</b> <font color="purple">[ῐᾰ]</font> <i>litt</i>. « fixé en hauteur », qui se dresse fixe, ANTH. <i>8, 177</i> ; A. PL. <i>132</i>.<p><b>Étym</b>. ὕ. πήγνυμι.`

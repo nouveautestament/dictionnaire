@@ -1,0 +1,1 @@
+lar[21766]=`<b>ορος (ὁ)</b> <font color="purple">[ᾱ]</font> Gérânor, <i>Spartiate,</i> XÉN. <i>Hell. 7, 1, 25</i>.`

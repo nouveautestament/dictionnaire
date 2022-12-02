@@ -1,0 +1,1 @@
+lar[87246]=`<b>πρωτό·ρριζος, ος, ον</b>, qui est la cause (<i>litt</i>. la racine) première d’une chose, LUC. <i>Am. 19</i>.<p><b>Étym</b>. πρ. ῥίζα.`

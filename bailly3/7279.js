@@ -1,0 +1,1 @@
+lar[7279]=`<b>ων (οἱ)</b> disciples d’Anaxagore, PLAT. <i>Crat. 409b</i>.`

@@ -1,0 +1,1 @@
+lar[106008]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour des richesses, PLUT. <i>Lyc. 30, Crass. 2, etc.</i> ; HIÉROCL. (STOB. <i>Fl. 3, 81).</i><p><b>Étym</b>. φιλόπλουτος.`

@@ -1,0 +1,1 @@
+lar[7765]=`<b>ἀνα·τιτράω</b> (<i>part. ao</i>. ἀνατρήσας) percer, DIOSC. <i>1, 7, 9</i> ; TRYPH. (ATH. <i>182e</i>).`

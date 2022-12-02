@@ -1,0 +1,1 @@
+lar[97949]=`<b>ος, ον</b>, voisin du toit, situé dans la partie supérieure de la maison, IL. <i>6, 248</i>.<p><b>Étym</b>. τέγος.`

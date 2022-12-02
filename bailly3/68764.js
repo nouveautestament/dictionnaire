@@ -1,0 +1,1 @@
+lar[68764]=`<b>Νικο·κλῆς, έους (ὁ)</b> <font color="purple">[ῑ]</font> Nikoklès, <i>h</i>. PD. <i>I. 7, 62</i>.<p>➳ <i>Voc</i>. -κλεις, PLUT. <i>Phoc. 36 ; gén. poét</i>. -κλέος, PD. <i>l. c</i>.<p><b>Étym</b>. νικάω, κλέος.`

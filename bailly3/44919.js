@@ -1,0 +1,1 @@
+lar[44919]=`<b>Ἡγησί·δικος, ου (ὁ)</b> <font color="purple">[ῐῐ]</font> Hègèsidikos, <i>h</i>. ANTH. <i>6, 155</i>.<p><b>Étym</b>. ἡγέομαι, δίκη.`

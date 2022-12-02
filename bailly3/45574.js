@@ -1,0 +1,1 @@
+lar[45574]=`<b>ἡμί·σχετος, ος, ον</b>, qui contient une moitié, OLYMPIOD. <i>Plat. Phæd. p. 341</i>.<p><b>Étym</b>. ἡμι-, σχετός.`

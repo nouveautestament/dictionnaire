@@ -1,0 +1,1 @@
+lar[66716]=`<b>ας (ἡ)</b> <i>d’ord. au plur</i>. μορίαι <i>ou</i> μορίαι ἐλαῖαι, olivier sacré, <i>n. de divers oliviers que l’on conservait en certains lieux d’Athènes, à l’Aréopage, à l’Académie,</i> AR. <i>Nub. 1005</i> ; LYS. <i>109, 11, etc</i>.<p><b>Étym</b>. <i>cf</i>. μόριος.`

@@ -1,0 +1,1 @@
+lar[106513]=`<b>φοιβάω-ῶ</b>, purifier, rendre brillant, THCR. <i>Idyl. 17, 134</i>.<p><b>Étym</b>. φοῖβος.`

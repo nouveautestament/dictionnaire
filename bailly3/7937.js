@@ -1,0 +1,1 @@
+lar[7937]=`<font color="purple">[ῠ]</font> <i>vb. de</i> ἀναχέω, CLÉM. <i>272</i>.`

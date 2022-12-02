@@ -1,0 +1,1 @@
+lar[103326]=`<b>ὑπο·κάρφω</b>, rendre qqe peu sec <i>ou</i> dur, NIC. <i>Al. 80</i>.`

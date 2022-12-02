@@ -1,0 +1,1 @@
+lar[85608]=`<b>προσ·εξαπατάω-ῶ</b> <font color="purple">[ᾰᾰτ]</font> tromper en outre <i>ou</i> encore, HPC. <i>Art. 812</i> ; ARSTT. <i>Rhet. 3, 11, 6</i> ; DC. <i>49, 19</i>.`

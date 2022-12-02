@@ -1,0 +1,1 @@
+lar[14751]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) être disciple d’Aristote, STR. <i>104, 609</i>.<p><b>Étym</b>. Ἀριστοτέλης.`

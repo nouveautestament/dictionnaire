@@ -1,0 +1,1 @@
+lar[99998]=`<b>τραχύ·φλοιος, ος, ον</b> <font color="purple">[ᾱ]</font> à écorce raboteuse, TH. <i>H.P. 1, 5, 2</i>.<p><b>Étym</b>. τρ. φλοιός.`

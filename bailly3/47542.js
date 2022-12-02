@@ -1,0 +1,1 @@
+lar[47542]=`<b>(ὁ)</b> pierre de Thrace, <i>qu’on disait s’enflammer dans l’eau,</i> DIOSC. <i>5, 146</i> ; PLIN. <i>H.N. 33, 5, 30</i>.<p><b>Étym</b>. Θρᾴκη.`

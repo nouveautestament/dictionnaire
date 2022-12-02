@@ -1,0 +1,1 @@
+lar[75698]=`<b>παρα·κατηγόρημα, ατος (τὸ)</b> <i>t. de philos. stoïcienne et de gr</i>. proposition où l’objet dont on parle est grammaticalement régime (Σωκράτει μεταμέλει, <i>p. opp. à une prop. où Socrate serait sujet,</i> Σωκράτης περιπατεῖ) RHÉT. <i>2, 612 W. ; v</i>. κατηγόρημα <i>et</i> παρασύμβαμα.`

@@ -1,0 +1,1 @@
+lar[47604]=`<b>θρασυ·ξενία, ας (ἡ)</b> <font color="purple">[ᾰσ]</font> hardiesse d’un étranger, PLAT. <i>Leg. 879e</i>.<p><b>Étym</b>. θρ. ξένος.`

@@ -1,0 +1,1 @@
+lar[109372]=`<b>ου (τὸ) :<br>   I</b> tout ce qu’on verse, <i>particul.</i> :<br><b>      1</b> eau pour se laver, pour se baigner, LYC. <i>1099</i>.<br><b>      2</b> <i>au pl</i>. libations, A.RH. <i>1, 1075 ; 2, 927</i> ; ORPH. <i>Arg. 32</i>.<br><b>   II</b> eau qui coule, eau d’un fleuve, LYC. <i>701</i>.<p><b>Étym</b>. χέω.`

@@ -1,0 +1,1 @@
+lar[45598]=`<b>ἡμι·φάριον, ου (τὸ)</b> <font color="purple">[ῐᾱ]</font> demi-manteau, ARISTÉN. <i>1, 4</i>.<p><b>Étym</b>. ἡμι-, φᾶρος.`

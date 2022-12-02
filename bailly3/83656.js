@@ -1,0 +1,1 @@
+lar[83656]=`<b>προ·αποκτείνω</b>, tuer d’abord, LUC. <i>Cat. 8</i> ; DC. <i>54, 9, etc</i>.`

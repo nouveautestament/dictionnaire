@@ -1,0 +1,1 @@
+lar[25701]=`<b>δια·ταμιεύω</b> <font color="purple">[τᾰ]</font> (<i>seul. prés. inf</i>.) mettre en réserve, PLAT. <i>Leg. 805e.</i><br><b><i>Moy.</i></b> (<i>prés. part.) m. sign</i>. PLAT. <i>Criti. 111d</i>.`

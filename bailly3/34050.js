@@ -1,0 +1,1 @@
+lar[34050]=`<b>ἐν·ασχολέω-ῶ</b>, occuper à : θεάμασι τὰς ὄψεις ἐν. BAS. <i>1, 496d</i>, occuper ses yeux à des spectacles ; <i>au pass</i>. s’occuper à, <i>dat</i>. POL. <i>9, 17, 1</i>.`

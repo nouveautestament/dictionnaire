@@ -1,0 +1,1 @@
+lar[12653]=`<b>ἀπο·κρέμαμαι</b> <font color="darkgreen">(<i>impf</i>. ἀπεκρεμάμην)</font> être suspendu, ARSTT. <i>H.A. 5, 21, 4</i> ; Q. SM. <i>11, 197</i>.`

@@ -1,0 +1,1 @@
+lar[45526]=`<b>α, ον</b> <font color="purple">[ῐ]</font> long d’une demi-coudée, DIOSC. <i>3, 145</i> ; GEOP. <i>10, 4, 1</i>.<p><b>Étym</b>. ἡμίπηχυς.`

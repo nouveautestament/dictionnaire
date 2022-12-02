@@ -1,0 +1,1 @@
+lar[94984]=`<b>συν·ασεβέω-ῶ</b> <font color="purple">[ᾰ]</font> être complice d’une impiété, ANT. <i>125, 29</i> ; DS. <i>16, 61</i>.`

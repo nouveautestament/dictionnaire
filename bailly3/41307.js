@@ -1,0 +1,1 @@
+lar[41307]=`<b>ἑτερο·δύναμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> de pouvoir différent, PORPH. (STOB. <i>Ecl. 1, 838).</i><p><b>Étym</b>. ἕ. δύναμις.`

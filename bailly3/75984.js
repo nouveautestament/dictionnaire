@@ -1,0 +1,1 @@
+lar[75984]=`<b>παρ·ανθέω-ῶ</b>, perdre sa fleur, se flétrir, TH. <i>H.P. 7, 11, 3 ; fig</i>. CLÉM. <i>201</i>.`

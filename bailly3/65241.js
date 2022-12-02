@@ -1,0 +1,1 @@
+lar[65241]=`<b>ας (ἡ)</b> art de faire des vers, LGN <i>fr. 3, 9</i>.<p><b>Étym</b>. μετροποιέω.`

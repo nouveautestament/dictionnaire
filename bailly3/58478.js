@@ -1,0 +1,1 @@
+lar[58478]=`<b>ή, όν</b> <font color="purple">[ῐκ]</font> de Cyzique ; στατὴρ Κ. DÉM. <i>914, 11 ; ou simpl</i>. Κυζικηνός, DÉM. <i>570, 15,</i> monnaie d’or de Cyzique = 28 drachmes attiques ; οἱ Κυζικηνοί, HDT. <i>4, 76,</i> les habitants de Cyzique.<p><b>Étym</b>. Κύζικος.`

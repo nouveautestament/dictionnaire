@@ -1,0 +1,1 @@
+lar[54758]=`<b>*κεντρο·δήλητις</b>, <i>dor</i>. <b>κεντρο·δάλητις, ιδος</b> <font color="purple">[ᾱ]</font> <i>adj. f</i>. qui tourmente avec l’aiguillon, ESCHL. <i>Suppl. 563 conj</i>.<p><b>Étym</b>. κέντρον, δηλέω.`

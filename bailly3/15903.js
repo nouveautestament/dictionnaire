@@ -1,0 +1,1 @@
+lar[15903]=`<b>ἄ·σκαφος, ος, ον</b> <font color="purple">[κᾰ]</font> non creusé, non foui, STR. <i>502</i>.<p><b>Étym</b>. ἀ, σκάπτω.`

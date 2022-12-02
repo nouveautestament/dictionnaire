@@ -1,0 +1,1 @@
+lar[8667]=`<b>ἀν·ήδυντος, ος, ον</b>, sans agrément, ARSTT. <i>Pol. 8, 5, 25 ; Probl. 20, 23</i> ; ATH. <i>366b, 564a ;</i> PLUT. <i>M. 799d, etc</i>.<p><b>Étym</b>. ἀν-, ἡδύνω.`

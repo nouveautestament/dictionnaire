@@ -1,0 +1,1 @@
+lar[67765]=`<b>α, ον</b>, de Naupacte, ESCHL. <i>Suppl. 262</i>.<p><b>Étym</b>. Ναύπακτος.`

@@ -1,0 +1,1 @@
+lar[81249]=`<b>α, ον</b>, de Podaleirios, ANTH. <i>9, 361</i>.<p><b>Étym</b>. <i>v</i>. Ποδαλείριος.`

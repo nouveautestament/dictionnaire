@@ -1,0 +1,1 @@
+lar[67833]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. de</i> ναύτης, THPP. COM. <i>2, 283</i>.`

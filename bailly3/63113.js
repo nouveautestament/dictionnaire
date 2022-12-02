@@ -1,0 +1,1 @@
+lar[63113]=`<b>μαστο·ειδής, ής, ές</b>, semblable à un sein, SOSIB. (ATH. <i>115a</i>) ; ARSTT. <i>H.A. 4, 4, 19</i> ; POL. <i>5, 70, 6</i> ; DS. <i>17, 75</i>.<p><b>Étym</b>. μαστός, εἶδος.`

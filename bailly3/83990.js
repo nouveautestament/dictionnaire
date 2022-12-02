@@ -1,0 +1,1 @@
+lar[83990]=`<b>προ·διορίζω</b>, définir auparavant, <i>acc</i>. DS. <i>1, 4 ; 12, 2</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DS. <i>1, 5</i>.`

@@ -1,0 +1,1 @@
+lar[40105]=`<b>ἐπ·ωρύω</b> <font color="purple">[ῡ]</font> hurler sur <i>ou</i> vers, SPT. <i>Zach. 11, 8</i> ; ANTH. <i>9, 311</i>.`

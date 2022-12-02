@@ -1,0 +1,1 @@
+lar[96198]=`<i>adv</i>., d’un point de vue général, MARIN. <i>V. Procl. 13</i>.`

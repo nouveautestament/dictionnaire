@@ -1,0 +1,1 @@
+lar[48656]=`<b>Ἱερο·φῶν, ῶντος (ὁ)</b> Hiérophôn, <i>amiral athénien,</i> THC. <i>3, 105</i>.<p><b>Étym</b>. ἱ. φάω.`

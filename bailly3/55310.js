@@ -1,0 +1,1 @@
+lar[55310]=`<b>ή, όν</b>, de héraut, GAL. <i>2, 171</i> ; CLÉM. <i>1, 692 Migne</i>.<p><b>Étym</b>. κῆρυξ.`

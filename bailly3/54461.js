@@ -1,0 +1,1 @@
+lar[54461]=`<b>ίδος (ἡ) :<br>      1</b> fruit du cèdre, AR. <i>Th. 486</i> ; TH. <i>H.P. 1, 12, 1</i>.<br><b>      2</b> sorte de genévrier, <i>arbuste de Phrygie, semblable au cèdre,</i> TH. <i>H.P. 1, 9, 4</i>.<p><b>Étym</b>. κέδρος.`

@@ -1,0 +1,1 @@
+lar[100170]=`<font color="purple">[ῐγ]</font> <i>adv</i>., en forme de triangle, NICOM. <i>Arithm. 2, 119</i>.<p><b>Étym</b>. τριγωνίζω.`

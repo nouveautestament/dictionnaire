@@ -1,0 +1,1 @@
+lar[65897]=`<b>ή, όν</b> <font color="purple">[ῐῠ]</font> qui diminue, qui fait maigrir, C. AUR. <i>p. 282</i>.<p><b>Étym</b>. μινύθω.`

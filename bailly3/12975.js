@@ -1,0 +1,1 @@
+lar[12975]=`<b>ας (ἡ)</b> absence de raison, <i>d’où</i> :<br><b>      1</b> désespoir, THC. <i>1, 82 ; 7, 67</i> ; fol orgueil, TH. <i>Char. 6</i> ; LUC. <i>Nigr. 23</i>.<br><b>      2</b> fol emportement, DÉM. <i>310, 9, etc.</i> ; POL. <i>1, 70, 5, etc.</i><br><b>      3</b> folle témérité, POL. <i>1, 82, 1, etc.</i> ; PLUT. <i>Alc. 13</i>.<p><b>Étym</b>. ἀπό, νόος.`

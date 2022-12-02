@@ -1,0 +1,1 @@
+lar[90389]=`<b>(τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σίνηπι NIC. (ATH. <i>366d</i>).`

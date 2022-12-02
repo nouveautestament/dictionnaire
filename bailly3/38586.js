@@ -1,0 +1,1 @@
+lar[38586]=`<b>ἐπι·οινοχοεύω</b>, verser le vin à, <i>dat</i>. HH. <i>Ven. 205</i>.`

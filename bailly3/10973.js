@@ -1,0 +1,1 @@
+lar[10973]=`<b>ας (ἡ)</b> DIOSC. <i>2, 208</i> ; GAL. <i>13, 353 ; et</i> <b>ἀξούγγιον, ου (τὸ)</b> DIOSC. <i>1, 179 ; 4, 186, etc.</i> ; GAL. <i>13, 542</i> ; HIPPIATR. <i>2, 878, 879, etc</i>. = <i>lat</i>. axungia, graisse de porc, axonge.`

@@ -1,0 +1,1 @@
+lar[9769]=`<b>ἀντι·βιβρώσκω</b> <font color="darkgreen">(<i>f. pass</i>. ἀντιβρωθήσομαι)</font> dévorer à son tour, ATH. <i>343c</i>.`

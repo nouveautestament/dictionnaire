@@ -1,0 +1,1 @@
+lar[17234]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Aulôn <i>en Messénie,</i> XÉN.<p><b>Étym</b>. Αὐλών.`

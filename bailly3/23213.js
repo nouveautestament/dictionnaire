@@ -1,0 +1,1 @@
+lar[23213]=`<b>(ὁ)</b> Daniel, <i>n. d’h. hébreu,</i> SPT.`

@@ -1,0 +1,1 @@
+lar[87541]=`<font color="purple">[ῡ]</font> consulter la Pythie, EUST. <i>p. 274, 16</i>.<p><b>Étym</b>. Πυθώ.`

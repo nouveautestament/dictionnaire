@@ -1,0 +1,1 @@
+lar[18158]=`<b>ας (ἡ)</b> absence de crainte, PLAT. <i>Leg. 649a ; Def. 413a ;</i> ARSTT. <i>Nic. 2, 7</i> ; PLUT. <i>Cleom. 9 ; etc</i>.<p><b>Étym</b>. ἄφοβος.`

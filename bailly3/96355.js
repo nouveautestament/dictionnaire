@@ -1,0 +1,1 @@
+lar[96355]=`<b>συντονόω-ῶ :<br>      1</b> fortifier, A. TR. <i>8, 493, etc.</i><br><b>      2</b> marquer du même accent, DYSC. <i>Synt. 5, 442, etc</i>.<p><b>Étym</b>. σύντονος.`

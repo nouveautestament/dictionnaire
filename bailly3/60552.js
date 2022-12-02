@@ -1,0 +1,1 @@
+lar[60552]=`<b>ων (αἱ)</b> les filles de Leukippos, EUR. <i>Hel. 1466</i>.<p><b>Étym</b>. Λεύκιππος.`

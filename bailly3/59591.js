@@ -1,0 +1,1 @@
+lar[59591]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> l’insecte criard, <i>ép. de la cigale, mot dor</i>. EL. <i>N.A. 10, 44</i>.<p><b>Étym</b>. <i>inconnue ; cf</i>. λάσκω.`

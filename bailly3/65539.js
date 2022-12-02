@@ -1,0 +1,1 @@
+lar[65539]=`<i>adv</i>., de mère, comme une mère, DH. <i>Rhet. 9, 4</i>.`

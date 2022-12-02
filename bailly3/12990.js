@@ -1,0 +1,1 @@
+lar[12990]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> rognure d’ongle, DL. <i>8, 17</i>.<p><b>Étym</b>. ἀπονυχίζω.`

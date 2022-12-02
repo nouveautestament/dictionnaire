@@ -1,0 +1,1 @@
+lar[32834]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> rameau de la vigne, sarment, NIC. <i>Al. 181</i> ; DP. <i>1157</i>.<p>➳ ἡ ἕ. OPP. <i>C. 4, 262</i>.`

@@ -1,0 +1,1 @@
+lar[49557]=`<b>ἰσ·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῑ̆ῐκ]</font> de même âge, XÉN. <i>Conv. 8, 1</i> ; PHIL. <i>1, 6</i>.<p><b>Étym</b>. ἴ. ἧλιξ.`

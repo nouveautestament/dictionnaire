@@ -1,0 +1,1 @@
+lar[93909]=`<b>συμ·μάρπτω</b> <font color="darkgreen">(<i>ao</i>. συνέμαρψα) :</font><br><b>      1</b> saisir avec <i>ou</i> ensemble, ORACL. (HDT. <i>6, 86</i>) ; EUR. <i>Cycl. 397</i>.<br><b>      2</b> briser ensemble, IL. <i>10, 467</i>.`

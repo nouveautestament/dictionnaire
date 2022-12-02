@@ -1,0 +1,1 @@
+lar[89542]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Satyrios, <i>poète de l’Anthologie,</i> ANTH. <i>6, 11</i>.<p><b>Étym</b>. Σάτυρος.`

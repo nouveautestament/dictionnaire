@@ -1,0 +1,1 @@
+lar[11349]=`<b>ἀ·παρατήρητος, ος, ον</b>, non observé <i>ou</i> qui ne peut être observé, ORIG. <i>3, 619</i>.<p><b>Étym</b>. ἀ, παρατηρέω.`

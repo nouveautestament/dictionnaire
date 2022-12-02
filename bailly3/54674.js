@@ -1,0 +1,1 @@
+lar[54674]=`<b>ας (ἡ)</b> dépopulation, ESCHL. <i>Pers. 730</i>.<p><b>Étym</b>. κένανδρος.`

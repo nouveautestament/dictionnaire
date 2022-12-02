@@ -1,0 +1,1 @@
+lar[18888]=`<b>ου (τὸ)</b> Bakkheion, <i>lieu de Lesbos,</i> LUC. <i>Ind. 11</i>.`

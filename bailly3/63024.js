@@ -1,0 +1,1 @@
+lar[63024]=`<b>ου</b>, <i>adj. m</i>. de Marôneia <i>en Thrace,</i> XÉN. <i>An. 7, 3, 16</i> ; DÉM. <i>1213, 1</i>.<p>➳ <i>Dans les inscr. att</i>. Μαρωνίτης, CIA. <i>1, 226, 5 (454 av. J.-C.) ; v. Meisterh. p. 42</i>.<p><b>Étym</b>. <i>v</i>. Μαρώνεια.`

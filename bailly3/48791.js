@@ -1,0 +1,1 @@
+lar[48791]=`<b>ἰκελόω-ῶ</b> <font color="purple">[ῐ]</font> rendre semblable, ANTH. <i>9, 83</i>.<p><b>Étym</b>. ἴκελος.`

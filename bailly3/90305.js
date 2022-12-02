@@ -1,0 +1,1 @@
+lar[90305]=`<b>ας (ἡ)</b> = <i>lat</i>. Silvia, <i>mère de Romulus,</i> PLUT. <i>Rom. 3, etc</i>.`

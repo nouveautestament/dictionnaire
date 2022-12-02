@@ -1,0 +1,1 @@
+lar[11040]=`<i>c</i>. ἀοριστεύω PROCL. <i>Inst. theol. c. 124</i> ; RHÉT. <i>4, 82 W</i>.`

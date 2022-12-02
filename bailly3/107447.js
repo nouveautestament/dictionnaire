@@ -1,0 +1,1 @@
+lar[107447]=`<b>ας (ἡ)</b> <font color="purple">[χᾱ]</font> Khaa, <i>v. d’Élide,</i> IL. <i>7, 135</i> (<i>var. p</i>. Φειά).`

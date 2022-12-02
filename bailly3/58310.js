@@ -1,0 +1,1 @@
+lar[58310]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de la forme <i>ou</i> de la contenance d’un cyathe, THÉM. <i>Par. p. 302, 2</i>.`

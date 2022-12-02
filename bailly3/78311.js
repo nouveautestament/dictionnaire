@@ -1,0 +1,1 @@
+lar[78311]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Pergame, A. PL. <i>91</i> ; ἡ Περγαμία, PD. <i>I. 6, 45,</i> territoire de Pergame, <i>en Mysie</i>.<p><b>Étym</b>. Πέργαμος.`

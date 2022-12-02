@@ -1,0 +1,1 @@
+lar[99541]=`<b>ων (οἱ)</b> habitants de Tolophôn, <i>v. des Locriens Ozoles,</i> THC. <i>3, 101</i>.`

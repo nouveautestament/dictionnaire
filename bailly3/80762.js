@@ -1,0 +1,1 @@
+lar[80762]=`<b>πλατύ·λογχος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à large pointe, AR. <i>fr. 401 ; subst</i>. τὸ πλατύλογχον, STR. <i>828</i>, lance <i>ou</i> javelot à large fer, sorte de pertuisane.<p><b>Étym</b>. πλ. λόγχη.`

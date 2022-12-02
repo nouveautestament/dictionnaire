@@ -1,0 +1,1 @@
+lar[108245]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite tortue ; ARR. <i>Eux. 10 ; fig</i>. croupe <i>ou</i> culasse d’une machine de jet, HÉRON <i>Bel. 10 ; cf</i>. χελώνη.<p><b>Étym</b>. <i>dim. de</i> χελώνη.`

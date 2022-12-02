@@ -1,0 +1,1 @@
+lar[43298]=`<b>ῶν (αἱ)</b> Eurymènæ, <i>v. de Magnésie, en Thessalie,</i> A.RH. <i>1, 597</i>.<p><b>Étym</b>. <i>cf</i>. εὐρυμενής.`

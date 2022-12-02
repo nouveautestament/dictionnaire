@@ -1,0 +1,1 @@
+lar[44779]=`<b>ζῳοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des animaux <i>ou</i> de la chair d’animaux, ARSTT. <i>H.A. 8, 3, 16</i>.<p><b>Étym</b>. ζῳοφάγος.`

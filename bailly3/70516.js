@@ -1,0 +1,1 @@
+lar[70516]=`<b>οἰνό·γαρον, ου (τὸ)</b> sauce faite de vin et de saumure de poisson, AÉT. <i>3, 85</i>.<p><b>Étym</b>. οἶν. γάρον.`

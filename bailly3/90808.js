@@ -1,0 +1,1 @@
+lar[90808]=`<b>ή, όν</b>, qui concerne le transport des bagages : στρατὸς σκ. XÉN. <i>Lac. 13, 4,</i> le corps des σκευοφόροι ; βάρος σκ. XÉN. <i>Cyr. 6, 1, 54,</i> la charge d’une bête de somme.<p><b>Étym</b>. σκευοφόρος.`

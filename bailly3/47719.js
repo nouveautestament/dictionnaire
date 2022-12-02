@@ -1,0 +1,1 @@
+lar[47719]=`<b>ακος (ὁ)</b> Thrinax, <i>fils du Soleil,</i> NONN. <i>D. 14, 44</i>.<p><b>Étym</b>. <i>v</i>. θρῖναξ.`

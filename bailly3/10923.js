@@ -1,0 +1,1 @@
+lar[10923]=`<b>ἀξιομάχως</b> <font color="purple">[μᾰ]</font> <i>adv</i>., de manière à lutter, à forces égales, PLUT. <i>Thes. 4</i>.`

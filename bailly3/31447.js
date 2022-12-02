@@ -1,0 +1,1 @@
+lar[31447]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> refus, DS. <i>20, 12, dout</i>.<p><b>Étym</b>. ἐκκλίνω.`

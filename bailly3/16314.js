@@ -1,0 +1,1 @@
+lar[16314]=`<b>ἀστρο·δίαιτος, ος, ον</b>, qui vit en plein air, à la belle étoile, ORPH. <i>H. 11, 5</i>.<p><b>Étym</b>. ἄ. δίαιτα.`

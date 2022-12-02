@@ -1,0 +1,1 @@
+lar[107847]=`<b>α, ον</b> <font color="purple">[χᾰ]</font> de ravin, de torrent, NONN. <i>D. 15, 191, etc.</i> ; ἡ χαραδραίη (<i>ion</i>.) A. PL. <i>230, c</i>. χαράδρα.<p><b>Étym</b>. χαράδρα.`

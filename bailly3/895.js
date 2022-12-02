@@ -1,0 +1,1 @@
+lar[895]=`<b>ου (ὁ)</b> Agrianès, <i>fl. de Thrace,</i> HDT. <i>4, 90</i>.`

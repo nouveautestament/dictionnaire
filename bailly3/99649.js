@@ -1,0 +1,1 @@
+lar[99649]=`<b>ου (ὁ)</b> vautour, CALL. <i>fr. 204</i> ; LYC. <i>357, 1080</i> ; τ. ὑγρόφοιτος, LYC. <i>87,</i> vautour aquatique, <i>càd</i>. cygne.`

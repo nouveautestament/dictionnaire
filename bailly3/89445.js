@@ -1,0 +1,1 @@
+lar[89445]=`<b>σαρκο·λάτρης, ου (ὁ)</b> qui adore la chair, sensuel, NAZ. <i>3, 185, 467 Migne</i>.<p><b>Étym</b>. σ. λατρεύω.`

@@ -1,0 +1,1 @@
+lar[17865]=`<b>ῶν (οἱ)</b> les Aphamiôtes, <i>sorte de serfs ou d’esclaves en Crète,</i> SOSICR. (ATH. <i>263f</i>) ; STR. <i>701</i>.`

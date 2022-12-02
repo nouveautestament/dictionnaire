@@ -1,0 +1,1 @@
+lar[21009]=`<b>ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> trompette en spirale (<i>différ. de</i> σάλπιγξ), cor à bouquin, POL. <i>12, 4, 6 ; 15, 12, 2</i> ; DH. <i>2, 8</i>.<p><b>Étym</b>. <i>Cf. lat</i>. būcĭna.`

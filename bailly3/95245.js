@@ -1,0 +1,1 @@
+lar[95245]=`<b>συν·εγγυάω-ῶ</b>, donner également sous caution, livrer également, PLUT. <i>Cato mi. 25</i>.<br><b><i>Moy.</i></b> attester en même temps, PHIL. <i>2, 60</i>.`

@@ -1,0 +1,1 @@
+lar[17429]=`<b>αὐτό·γυος, ος, ον</b> (charrue) dont le soc fait corps <i>ou</i> est d’une seule pièce avec le reste, <i>càd. avec l’</i>ἔλυμα <i>et l’</i>ἱστοβοεύς, HÉS. <i>O. 431</i> ; A.RH. <i>3, 232, 1285</i>.<p><b>Étym</b>. αὐ. γύης.`

@@ -1,0 +1,1 @@
+lar[60449]=`<b>ας (ἡ)</b> travail délicat, JOS. <i>A.J. 3, 6, 4</i> ; BITON <i>109 ; en parl. de travaux de l’esprit,</i> THÉM. <i>448</i>.<p><b>Étym</b>. λεπτουργός.`

@@ -1,0 +1,1 @@
+lar[55648]=`<b>κισσο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> à qui le lierre est cher, ORPH. <i>H. 51, 12</i>.<p><b>Étym</b>. κισσός, χαρίζομαι.`

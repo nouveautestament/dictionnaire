@@ -1,0 +1,1 @@
+lar[75023]=`<b>πανηγυρι·άρχης, ου (ὁ)</b> <font color="purple">[ᾰνῠ]</font> président d’une assemblée πανήγυρις, PLUT. <i>M. 679b</i>.<p><b>Étym</b>. πανήγυρις, ἄρχω.`

@@ -1,0 +1,1 @@
+lar[73257]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>att. c</i>. ἀστακός, ARISTOM. (ATH. <i>658a</i>).`

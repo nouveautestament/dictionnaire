@@ -1,0 +1,1 @@
+lar[56852]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec un bruit retentissant, ANTH. <i>7, 531</i>.<p><b>Étym</b>. κοναβέω, -δον.`

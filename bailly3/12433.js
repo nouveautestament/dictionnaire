@@ -1,0 +1,1 @@
+lar[12433]=`<b>ἀπο·θρῴσκω</b> <font color="darkgreen">(<i>f</i>. ἀποθοροῦμαι, <i>ao.2</i> ἀπέθορον) :</font><br><b>      1</b> s’élancer hors de, <i>gén</i>. IL. <i>2, 702, etc.</i> ; OD. <i>1, 58</i>.<br><b>      2</b> s’élancer de, du haut de, <i>avec</i> ἀπό <i>et le gén</i>. HDT. <i>1, 80, etc.</i><br><b>      3</b> s’élancer, se dresser, HÉS. <i>Sc. 375</i>.`

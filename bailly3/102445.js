@@ -1,0 +1,1 @@
+lar[102445]=`<b>ὑπερ·εντυγχάνω</b>, intervenir, <i>particul</i>. intercéder pour : τινός, CLÉM. <i>126 ; ou</i> ὑπέρ τινος, NT. <i>Rom. 8, 26,</i> pour qqn.`

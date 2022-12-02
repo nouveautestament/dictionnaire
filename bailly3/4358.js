@@ -1,0 +1,1 @@
+lar[4358]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> errant, vagabond, OD. <i>19, 74</i> ; COL. <i>210 ; subst</i>. un vagabond, OD. <i>17, 376</i>.<p><b>Étym</b>. ἄλη.`

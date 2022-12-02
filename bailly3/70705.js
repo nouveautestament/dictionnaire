@@ -1,0 +1,1 @@
+lar[70705]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> transport furieux, comme d’un animal piqué par un taon, JOS. <i>Macc. 3</i>.<p><b>Étym</b>. οἰστρήλατος.`

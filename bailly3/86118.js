@@ -1,0 +1,1 @@
+lar[86118]=`<b>προσ·λοιδορέω-ῶ</b>, adresser de nouveaux outrages à, <i>dat</i>. DC. <i>38, 10</i> ; THÉM. <i>289a.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>A.J. 7, 8, 1</i>.<p>➳ <i>Ao. pass. au sens moy</i>. JOS. <i>A.J. 15, 7, 4</i>.`

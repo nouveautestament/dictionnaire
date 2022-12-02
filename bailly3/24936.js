@@ -1,0 +1,1 @@
+lar[24936]=`<b>δια·λευκαίνω :<br>      1</b> mêler de blanc, blanchir, PHILSTR. <i>883</i>.<br><b>      2</b> <i>fig</i>. éclaircir, DIOSC. <i>Iob. p. 50</i>.`

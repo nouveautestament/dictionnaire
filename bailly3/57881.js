@@ -1,0 +1,1 @@
+lar[57881]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> <i>c</i>. κριβάνη, PHÉRÉCR. (SCH.-AR. <i>Ach. 86</i>).`

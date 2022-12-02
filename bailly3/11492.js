@@ -1,0 +1,1 @@
+lar[11492]=`<b>ἄ·παχος, ος, ον</b>, sans épaisseur, PROCL. <i>Ptol. p. 45</i>.<p><b>Étym</b>. ἀ, πάχος.`

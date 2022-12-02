@@ -1,0 +1,1 @@
+lar[72481]=`<b>ος, ον</b>, <i>c</i>. ὀπωρικός ; ὀπώριμον δένδρον, ANON. (SUID.) arbre qui donne ses fruits à la fin de l’été.<p><b>Étym</b>. ὀπώρα.`

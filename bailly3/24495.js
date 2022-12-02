@@ -1,0 +1,1 @@
+lar[24495]=`<b>δια·γνωρίζω</b> <font color="darkgreen">(<i>ao</i>. διεγνώρισα)</font> faire connaître, divulguer, PHIL. <i>1, 210</i> ; περί τινος, NT. <i>Luc. 2, 17</i>, ce qui concerne qqe ch.`

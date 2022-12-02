@@ -1,0 +1,1 @@
+lar[79057]=`<b>περι·παπταίνω</b>, regarder tout autour : τι, ARAT. <i>297,</i> promener ses yeux sur qqe ch.`

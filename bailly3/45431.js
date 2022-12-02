@@ -1,0 +1,1 @@
+lar[45431]=`<b>ἡμί·θαλπτος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié chaud, HLD. <i>2, 19</i>.<p><b>Étym</b>. ἡμι-, θάλπω.`

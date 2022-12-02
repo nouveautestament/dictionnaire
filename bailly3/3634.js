@@ -1,0 +1,1 @@
+lar[3634]=`<b>ῶν (αἱ)</b> Akræ (<i>auj</i>. Palazzolo Acréide) <i>v. de Sicile,</i> THC. <i>6, 5</i> ; PLUT. <i>Dio. 27</i>.<p><b>Étym</b>. ἄκρος.`

@@ -1,0 +1,1 @@
+lar[23225]=`<b>ου (ὁ)</b> Daoukhos, <i>Perse,</i> XÉN. <i>Cyr. 6, 3, 29</i>.`

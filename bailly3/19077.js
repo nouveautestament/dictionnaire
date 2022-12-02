@@ -1,0 +1,1 @@
+lar[19077]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. βάρβιτος DH. <i>7, 72</i> ; NÉANTH. (ATH. <i>175e</i>), <i>etc</i>.`

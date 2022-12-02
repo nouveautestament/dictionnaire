@@ -1,0 +1,1 @@
+lar[35094]=`<b>ἔν·τοκος, ος, ον :<br>      1</b> qui enfante, LYC. <i>185</i>.<br><b>      2</b> avec intérêts, NYSS. <i>3, 226, 231, 234</i>.<p><b>Étym</b>. ἐντίκτω.`

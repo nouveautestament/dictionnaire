@@ -1,0 +1,1 @@
+lar[82840]=`<b>α (ὁ)</b> = <i>lat</i>. Porsenna <i>n. d’h. étrusque,</i> PLUT. <i>Popl. 17, etc</i>.`

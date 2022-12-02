@@ -1,0 +1,1 @@
+lar[82357]=`<b>Πολυ·σθενής (ὁ)</b> Polysthénès, <i>h</i>. DÉM. <i>23, 202 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. πολυσθενής.`

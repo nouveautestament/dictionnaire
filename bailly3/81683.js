@@ -1,0 +1,1 @@
+lar[81683]=`<b>ας (ἡ)</b> abondance <i>ou</i> excès de sang, ARSTT. <i>P.A. 3, 6, 6</i>.<p><b>Étym</b>. πολύαιμος.`

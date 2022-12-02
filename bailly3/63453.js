@@ -1,0 +1,1 @@
+lar[63453]=`<b>μεγαλό·φιλος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui a de puissants amis, P. ALEX. <i>Apot. 24, p. 66, l. 1 Boer</i>.<p><b>Étym</b>. μ. φίλος.`

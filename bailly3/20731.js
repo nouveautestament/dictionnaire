@@ -1,0 +1,1 @@
+lar[20731]=`<b>βραχυ·σύλλαβος, ος, ον</b> <font color="purple">[ᾰῠσᾰ]</font> formé de syllabes brèves, DH. <i>Comp. p. 218</i> ; LGN <i>41, 3</i>.<p><b>Étym</b>. βρ. συλλαβή.`

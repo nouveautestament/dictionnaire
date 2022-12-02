@@ -1,0 +1,1 @@
+lar[85032]=`<b>ή, όν</b>, qui se précipite en avant, téméraire, M. ANT. <i>11, 10</i>.<p><b>Étym</b>. προπίπτω.`

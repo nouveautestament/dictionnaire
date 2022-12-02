@@ -1,0 +1,1 @@
+lar[75923]=`<b>παρ·αμεύομαι</b> (<i>seul. f</i>. -εύσομαι) <font color="purple">[ᾰμ]</font> surpasser, <i>acc</i>. PD. <i>N. 11, 13</i>.`

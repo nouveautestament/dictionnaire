@@ -1,0 +1,1 @@
+lar[106552]=`<b>ᾶ, οῦν</b> <font color="purple">[νῑ]</font> d’un rouge de pourpre, AR. <i>Av. 272</i> ; τὸ Φοινικιοῦν, PAUS. <i>1, 28, 8,</i> le tribunal rouge, <i>ainsi nommé de sa couleur rouge, à Athènes</i>.<p><b>Étym</b>. φοῖνιξ.`

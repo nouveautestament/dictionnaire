@@ -1,0 +1,1 @@
+lar[77687]=`<b>πεισί·βροτος, ος, ον</b>, à qui obéissent les mortels, ESCHL. <i>Ch. 362</i>.<p><b>Étym</b>. πείθω, βροτός.`

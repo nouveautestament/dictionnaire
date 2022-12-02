@@ -1,0 +1,1 @@
+lar[27865]=`<b>*δράστης</b>, <i>seul. ion</i>. <b>δρήστης, ου (ὁ) :<br>      1</b> qui agit, ARCHIL. <i>67</i>.<br><b>      2</b> énergique, MAN. <i>5, 85</i>.<p><b>Étym</b>. δράω.`

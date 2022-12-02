@@ -1,0 +1,1 @@
+lar[33956]=`<b>ἐν·απολείπω</b>, laisser un dépôt sur <i>ou</i> dans, <i>avec</i> ἐν <i>et le dat</i>. XÉNOCR. <i>Al. 58 ; ou abs</i>. PLUT. <i>M. 91b, 1053b, etc</i>.`

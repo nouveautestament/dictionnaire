@@ -1,0 +1,1 @@
+lar[62912]=`<b>ή, όν</b>, du pays des Margianes, <i>pple au N. du Taurus</i> ; PLUT. <i>Crass. 24</i>.`

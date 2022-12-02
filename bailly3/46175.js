@@ -1,0 +1,1 @@
+lar[46175]=`<b>θαλασσό·πρασον, ου (τὸ)</b> <font color="purple">[θᾰρᾰ]</font> algue marine, ATHÉNÉE MÉC. <i>18, 5</i>.<p><b>Étym</b>. θάλασσα, πράσον.`

@@ -1,0 +1,1 @@
+lar[70537]=`<b>Οἰνό·μαος, ου (ὁ)</b> Œnomaos :<br><b>      1</b> <i>h</i>. IL. <i>5, 706</i>.<br><b>      2</b> <i>particul. roi de Pise, père d’Hippodameia,</i> PD. <i>O. 1, 76</i> ; EUR. <i>I.T. 2, etc. ; ironiqu., en parl. d’Eschine, qui avait joué le rôle d’Œnomaos dans qqe tragédie,</i> DÉM. <i>18, 180 Baiter-Sauppe</i>.<p><b>Étym</b>. οἶν. *μάω, <i>v</i>. μέμαα.`

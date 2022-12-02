@@ -1,0 +1,1 @@
+lar[24536]=`<b>ῆρος (ὁ)</b> qui reçoit et transmet (des signaux) EN. TACT. <i>Pol. 6, p. 24 ; 7, p. 26</i>.<p><b>Étym</b>. διαδέχομαι.`

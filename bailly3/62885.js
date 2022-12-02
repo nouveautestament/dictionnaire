@@ -1,0 +1,1 @@
+lar[62885]=`<b>(ὁ)</b> <font color="purple">[ᾰᾰ]</font> Marathônis, <i>h</i>. ANTH. <i>7, 340</i>.<p><b>Étym</b>. Μαραθών.`

@@ -1,0 +1,1 @@
+lar[77688]=`<b>Πεισι·δίκη, ης (ἡ)</b> <font color="purple">[ῐῐ]</font> Peisidikè, <i>f</i>. Ps.-PLUT. <i>Fluv. 22, 1</i>.<p><b>Étym</b>. πείθω, δίκη.`

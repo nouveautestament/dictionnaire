@@ -1,0 +1,1 @@
+lar[88148]=`<b>εως (ἡ) :<br>      1</b> formation d’un calus, <i>particul</i>. soudure d’un os au moyen d’un calus, HPC. <i>Fract. 766, 792</i>.<br><b>      2</b> <i>fig</i>. endurcissement, PLUT. <i>M. 281d ; fig</i>. NT. <i>Marc. 3, 5 ; Eph. 4, 18 ; Rom. 11, 25</i>.<p><b>Étym</b>. πωρόω.`

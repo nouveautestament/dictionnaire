@@ -1,0 +1,1 @@
+lar[33374]=`<i>adv</i>., fermement, constamment, ESCHL. <i>Ag. 854, 975, Eum. 335</i> ; SOPH. <i>Tr. 487</i> ; PLAT. <i>Ax. 372a ;</i> POL. <i>2, 19, 1</i>.<p><b>Étym</b>. ἔμπεδος¹.`

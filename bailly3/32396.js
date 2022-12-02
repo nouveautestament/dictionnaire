@@ -1,0 +1,1 @@
+lar[32396]=`<b>ἐκ·χολόω-ῶ</b>, changer en bile, GAL. <i>6, 359</i> ; A. APHR. <i>Probl. 25, 24</i> ; ORIB. <i>1, 287 B.-Dar</i>.<p><b>Étym</b>. ἐκ, χολή.`

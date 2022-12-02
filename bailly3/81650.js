@@ -1,0 +1,1 @@
+lar[81650]=`<font color="purple">[ᾰ]</font> <i>adv</i>., dans plusieurs directions, en beaucoup d’endroits, <i>avec mouv</i>. THC. <i>2, 47 ; avec le gén</i>. XÉN. <i>Hell. 4, 4, 16</i>.<p><b>Étym</b>. *πολλαχός, -σε.`

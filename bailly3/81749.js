@@ -1,0 +1,1 @@
+lar[81749]=`<b>πολύ·βατος, ος, ον</b> <font color="purple">[ῠᾰ]</font> très fréquenté, PD. <i>fr. 45</i>.<p><b>Étym</b>. π. βαίνω.`

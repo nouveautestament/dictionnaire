@@ -1,0 +1,1 @@
+lar[29602]=`<b>ἐγ·κατιλλώπτω</b> <font color="darkgreen">(<i>ao. part</i>. -ώψας)</font> cligner les yeux pour se moquer de, <i>dat</i>. ESCHL. <i>Eum. 113 ; Sisyph</i>. (POLL. <i>10, 20).</i><p><b>Étym</b>. ἐν, κ.`

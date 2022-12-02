@@ -1,0 +1,1 @@
+lar[106639]=`<b>φονοκτονέω-ῶ</b>, souiller d’un meurtre, <i>acc</i>. SPT. <i>Num. 35, 33</i>.<p><b>Étym</b>. φονοκτόνος.`

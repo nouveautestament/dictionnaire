@@ -1,0 +1,1 @@
+lar[72424]=`<b>ὀπό·φυλλον, ου (τὸ)</b> graine de laserpitium, DIOSC. <i>Par. 1, 69</i>.<p><b>Étym</b>. ὀπός, φύλλον.`

@@ -1,0 +1,1 @@
+lar[46527]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui agit de son plein gré, A.RH. <i>2, 556</i>.<p><b>Étym</b>. θέλω.`

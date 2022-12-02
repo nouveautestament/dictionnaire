@@ -1,0 +1,1 @@
+lar[56478]=`<b>κοινο·θυλακέω-ῶ</b> <font color="purple">[ῡᾰ]</font> faire bourse commune, AR. <i>(Bkk. p. 47, 7).</i><p><b>Étym</b>. κοινός, θύλακος.`

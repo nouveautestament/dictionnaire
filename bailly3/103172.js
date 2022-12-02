@@ -1,0 +1,1 @@
+lar[103172]=`<b>ὑπο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῐκᾰ]</font> sous-instructeur, sous-maître <i>ou</i> maître adjoint, PLAT. <i>Ion 536a ;</i> CIC. <i>Fam. 9, 18</i>.`

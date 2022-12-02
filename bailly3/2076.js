@@ -1,0 +1,1 @@
+lar[2076]=`<i>adv</i>., dans le dème Athmonia, IS. <i>6, 33 Baiter-Sauppe</i>.`

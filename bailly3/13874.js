@@ -1,0 +1,1 @@
+lar[13874]=`<b>ας (ἡ)</b> <font color="purple">[ᾱσ]</font> défaut de vente, manque d’acheteurs, DÉM. <i>820, 2 ; 909, 24</i>.<p><b>Étym</b>. ἄπρατος.`

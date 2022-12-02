@@ -1,0 +1,1 @@
+lar[21543]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> voisinage, ARSTT. <i>P.A. 3, 10, 5, etc.</i> ; TH. <i>C.P. 6, 18, 7</i>.<br><b>      2</b> le voisinage, les voisins, PLUT. <i>Per. 19, Cor. 24</i>.<br><b>      3</b> proximité, ressemblance, ARSTT. <i>Eud. 3, 5, 1, etc.</i> ; POL. <i>1, 9, 1</i>.<p><b>Étym</b>. γειτνιάω.`

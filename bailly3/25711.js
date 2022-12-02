@@ -1,0 +1,1 @@
+lar[25711]=`<b>δια·ταφρεύω</b>, creuser un fossé entre, séparer par un fossé, se retrancher au moyen d’un fossé, POL. <i>3, 105, 11 ; 14, 2, 3</i> ; PLUT. <i>Pomp. 62</i>.`

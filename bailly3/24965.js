@@ -1,0 +1,1 @@
+lar[24965]=`<b>οῦ (ὁ) :<br>      1</b> calcul, DÉM. <i>951, 20</i>.<br><b>      2</b> raisonnement, PLAT. <i>Ax. 367a ;</i> STR. <i>284</i>.<br><b>      3</b> conversation, discussion, PLUT. <i>M. 180c</i>.<p><b>Étym</b>. διαλογίζομαι.`

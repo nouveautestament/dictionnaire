@@ -1,0 +1,1 @@
+lar[100102]=`<b>τριακοστό·δυος, ος, ον</b> <font color="purple">[ᾱ]</font> trente-deuxième, NICOM. <i>Arithm. 1, 8</i>.<p><b>Étym</b>. τριακοστός, δύο.`

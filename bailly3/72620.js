@@ -1,0 +1,1 @@
+lar[72620]=`<b>ή, όν :<br>   I</b> <i>au pr.</i> :<br><b>      1</b> tendu, allongé, IL. <i>2, 543</i>.<br><b>      2</b> qu’on tend, qu’on allonge, <i>en parl. d’armes pour combattre de près, p. opp. à</i> παλτόν, STR. <i>448</i>.<br><b>   II</b> <i>fig</i>. désiré, qui excite le désir, ARSTT. <i>An. 3, 10, 3, etc</i>.<p><b>Étym</b>. <i>vb. de</i> ὀρέγω.`

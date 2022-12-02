@@ -1,0 +1,1 @@
+lar[97185]=`<b>σωματο·πλαστέω-ῶ</b> <font color="purple">[μᾰ]</font> <i>c</i>. σωματοποιέω JUL. <i>fragmentum epistolæ, 294b</i>.<p><b>Étym</b>. σῶμα, πλαστός.`

@@ -1,0 +1,1 @@
+lar[19216]=`<font color="purple">[ᾰῠ]</font> <i>adv</i>., avec l’accent grave, MŒR. AMMON.Gr. <i>etc</i>.`

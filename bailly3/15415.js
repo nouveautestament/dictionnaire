@@ -1,0 +1,1 @@
+lar[15415]=`<b>ή, όν</b>, de boulanger, ATH. <i>113a</i>.<p><b>Étym</b>. ἀρτοποιός.`

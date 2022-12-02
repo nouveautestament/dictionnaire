@@ -1,0 +1,1 @@
+lar[76425]=`<b>παραφρονέω-ῶ</b>, être hors de son bon sens, déraisonner, être fou, HDT. <i>1, 109, etc.</i> ; HPC. <i>Progn. 39</i> ; ESCHL. <i>Sept. 806</i> ; SOPH. <i>Ph. 815, etc</i>.<p>➳ <i>Poét</i>. παραιφρονέω, THCR. <i>Idyl. 25, 262</i>.<p><b>Étym</b>. παράφρων.`

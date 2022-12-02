@@ -1,0 +1,1 @@
+lar[29082]=`<b>δωδεκ·άεθλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a douze fois remporté le prix (Hèraklès) A. PL. <i>99</i>.<p><b>Étym</b>. δ. ἄεθλον.`

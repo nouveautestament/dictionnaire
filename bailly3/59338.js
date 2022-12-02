@@ -1,0 +1,1 @@
+lar[59338]=`<b>ας (ἡ)</b> Lavinia, <i>n. de f. rom</i>. PLUT. <i>Rom. 2</i>.`

@@ -1,0 +1,1 @@
+lar[2300]=`<b>αἰγο·κερεύς, έως</b>, <i>ion</i>. <b>-ῆος (ὁ)</b> Capricorne, <i>signe du Zodiaque,</i> ARAT. <i>386</i>.<p><b>Étym</b>. αἴξ, κέρας.`

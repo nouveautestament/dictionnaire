@@ -1,0 +1,1 @@
+lar[48663]=`<b>ἱερ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> dont le nom est sacré, LUC. <i>Lex. 10</i>.<p><b>Étym</b>. ἱ. ὄνομα.`

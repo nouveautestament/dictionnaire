@@ -1,0 +1,1 @@
+lar[79693]=`<b>περι·χώομαι</b> <font color="darkgreen">(<i>ao. 3 sg. poét</i>. περιχώσατο)</font> être fortement irrité : τινί τινος, IL. <i>9, 449 ; 14, 266,</i> contre une personne au sujet d’une autre.`

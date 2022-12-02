@@ -1,0 +1,1 @@
+lar[6669]=`<b>ἀνα·δαίω</b> (<i>seul. part. prés. pass</i>.) partager (un terrain) ORACL. (HDT. <i>4, 159</i>).<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>f</i>. -δάσομαι, <i>ao</i>. ἀνεδασάμην)</font> faire un nouveau partage de terres, THC. <i>5, 4</i> ; PLUT. <i>Agis 8</i>.`

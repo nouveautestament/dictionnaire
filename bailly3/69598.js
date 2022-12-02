@@ -1,0 +1,1 @@
+lar[69598]=`<b>ξουθό·πτερος, ος, ον</b>, aux ailes d’un jaune d’or, EUR. <i>H.f. 487</i>.<p><b>Étym</b>. ξουθός, πτερόν.`

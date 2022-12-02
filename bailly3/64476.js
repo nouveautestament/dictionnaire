@@ -1,0 +1,1 @@
+lar[64476]=`<b>μεσ·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font><br><b>      1</b> qui est entre deux âges, d’âge moyen, ARTÉM. <i>1, 31</i> ; GEOP. <i>1, 12, 16</i>.<br><b>      2</b> de taille moyenne, Ps.-CALLISTH. (<i>Notices des mss. t. 13, p. 288).</i><p><b>Étym</b>. μ. ἧλιξ.`

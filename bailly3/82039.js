@@ -1,0 +1,1 @@
+lar[82039]=`<b>πολύ·κρουνος, ος, ον :<br>      1</b> qui a de nombreuses sources, ARSTD. <i>t. 1, 235</i>.<br><b>      2</b> par où l’eau s’échappe comme de nombreuses sources, ANTH. <i>9, 669</i>.<p><b>Étym</b>. π. κρουνός.`

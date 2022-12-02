@@ -1,0 +1,1 @@
+lar[93934]=`<b>συμ·μειόω-ῶ</b>, amoindrir ensemble <i>ou</i> en même temps, GAL. <i>4, 128</i> ; PROCL. <i>Ptol. p. 182</i>.`

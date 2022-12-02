@@ -1,0 +1,1 @@
+lar[85440]=`<b>προσ·δικάζω</b> <font color="purple">[ῐ]</font> adjuger, <i>rég. ind. au dat</i>. DH. <i>11, 52</i>.<br><b><i>Moy.</i></b> engager en outre un procès au sujet de, <i>gén</i>. DÉM. <i>976, 2</i>.`

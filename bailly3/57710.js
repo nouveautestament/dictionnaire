@@ -1,0 +1,1 @@
+lar[57710]=`<b>κρειο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. κρεωφάγος, NIC. <i>Th. 50 dout</i>.`

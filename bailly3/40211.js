@@ -1,0 +1,1 @@
+lar[40211]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> <i>c</i>. ἐργολαβία, ALCIPHR. <i>1, 34</i> ; SPT. <i>Sir. 29, 19</i>.`

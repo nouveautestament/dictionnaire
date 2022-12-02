@@ -1,0 +1,1 @@
+lar[348]=`<b>ἀ·γάνωτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> non étamé, POSIDON. (P. ÉG. <i>7, 298).</i><p><b>Étym</b>. ἀ. γανόω.`

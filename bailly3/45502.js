@@ -1,0 +1,1 @@
+lar[45502]=`<b>οῦ (ὁ)</b> action de donner moitié en sus, ANT. (HARP.).<p><b>Étym</b>. *ἡμιολιάζω, <i>de</i> ἡμιόλιος.`

@@ -1,0 +1,1 @@
+lar[10613]=`<b>ἀντι·χρώζω</b> <font color="darkgreen">(<i>impf</i>. ἀντέχρωζον)</font> colorer <i>ou</i> peindre à son tour, LIB. <i>4, 1071</i>.`

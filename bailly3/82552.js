@@ -1,0 +1,1 @@
+lar[82552]=`<b>πολυ·χείμερος, ος, ον</b> <font color="purple">[ῠ]</font> très orageux, OPP. <i>C. 1, 429</i>.<p><b>Étym</b>. π. χειμέριος.`

@@ -1,0 +1,1 @@
+lar[21385]=`<b>ων (τὰ)</b> <font color="purple">[ργᾰ]</font> foule remuante <i>ou</i> fourmillante, SOPHR. <i>et</i> ALC. COM. (SCH.-AR. <i>Ach. 3).</i><p><b>Étym</b>. <i>Cf</i>. γαργαίρω.`

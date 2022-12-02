@@ -1,0 +1,1 @@
+lar[99131]=`<b>ας (ἡ)</b> <i>var. de</i> Τιθορέα PLUT. <i>Syll. 15, etc</i>.`

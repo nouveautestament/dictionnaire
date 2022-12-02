@@ -1,0 +1,1 @@
+lar[9916]=`<b>ἀντι·καρτερέω-ῶ</b>, résister courageusement à, <i>avec</i> πρός <i>et l’acc</i>. DC. <i>39, 41</i>.`

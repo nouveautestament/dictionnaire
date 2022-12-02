@@ -1,0 +1,1 @@
+lar[30302]=`<font color="darkgreen">(<i>seul. impér. prés. pass</i>. εἰθίζεο)</font> <i>c</i>. ἐθίζω, PYTHAG. <i>Aur. carm. 9, 35</i>.`

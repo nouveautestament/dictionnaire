@@ -1,0 +1,1 @@
+lar[45676]=`<b>Ἡνί·οχοι, ων (οἱ)</b> les Hèniokhes (<i>propr</i>. cavaliers <i>ou</i> conducteurs de chars) <i>pple du Pont,</i> ARSTT. <i>Pol. 8, 4</i> ; STR. <i>496</i>.<p><b>Étym</b>. <i>plur. de</i> ἡνίοχος.`

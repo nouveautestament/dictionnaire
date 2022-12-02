@@ -1,0 +1,1 @@
+lar[57978]=`<font color="purple">[ῐτ]</font> <i>adv.</i> :<br><b>      1</b> en état de crise, GAL. <i>4, 365</i>.<br><b>      2</b> avec jugement, avec discernement, ARTÉM. <i>4, Præf., p. 201, 6</i> ; NYSS. <i>2, 83d</i>.`

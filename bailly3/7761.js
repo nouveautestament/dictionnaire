@@ -1,0 +1,1 @@
+lar[7761]=`<b>ἀνα·τίκτω</b>, enfanter de nouveau, EL. <i>N.A. 1, 17</i>.`

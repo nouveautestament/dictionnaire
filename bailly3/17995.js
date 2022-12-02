@@ -1,0 +1,1 @@
+lar[17995]=`<i>adv</i>., sans qu’on puisse éviter, SPT. <i>3Macc. 7, 9</i>.`

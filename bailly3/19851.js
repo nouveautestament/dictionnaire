@@ -1,0 +1,1 @@
+lar[19851]=`<b>ητος (ἡ) :<br>      1</b> déformation des pieds tournés en dehors, ARSTT. <i>Inc. an. 16, 4</i>.<br><b>      2</b> <i>p. ext</i>. courbure <i>ou</i> enroulement en dehors, <i>en parl. de cheveux,</i> ARSTT. <i>Probl. 14, 4</i>.<p><b>Étym</b>. βλαισός.`

@@ -1,0 +1,1 @@
+lar[4001]=`<font color="purple">[ῡ]</font> <i>adv. c</i>. ἀκωλύτως, DÉMOCR. (<i>Fabricii bibliotheca græca 4, 338).</i><p><b>Étym</b>. ἀκώλυτος.`

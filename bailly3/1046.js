@@ -1,0 +1,1 @@
+lar[1046]=`<b>ἀγχι·θανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> près de mourir, NONN.<p><b>Étym</b>. ἄ. θανεῖν.`

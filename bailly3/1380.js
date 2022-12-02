@@ -1,0 +1,1 @@
+lar[1380]=`<b>ας (ἡ)</b> absence de souillure, NT. <i>Tit. 2, 7 dout</i>.<p><b>Étym</b>. ἀδιάφθορος.`

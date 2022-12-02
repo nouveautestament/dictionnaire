@@ -1,0 +1,1 @@
+lar[80806]=`<i>sg. fém. et pl. neutre de</i> πλέος <i>ou</i> πλέως.`

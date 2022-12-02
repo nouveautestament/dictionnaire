@@ -1,0 +1,1 @@
+lar[102533]=`<b>ή, όν</b>, qui marque la supériorité, superlatif, RHÉT. <i>7, 430 W</i>.<p><b>Étym</b>. ὑπερτίθημι.`

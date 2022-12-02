@@ -1,0 +1,1 @@
+lar[103673]=`<b>ὑπό·πετρος, ος, ον</b>, pierreux en dessous, dont le sol est pierreux, HDT. <i>2, 12</i> ; TH. <i>C.P. 3, 20, 5</i> ; STR. <i>761</i> ; PLUT. <i>M. 247e</i>.<p><b>Étym</b>. ὑ. πέτρα.`

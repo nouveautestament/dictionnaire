@@ -1,0 +1,1 @@
+lar[79058]=`<b>περι·πάσσω</b>, <i>att</i>. <b>περι·πάττω</b>, répandre autour : τι, SOTAD. (<i>Com. fr. 3, 586</i>) qqe ch. ; ἄλευρόν τινι, TH. <i>H.P. 9, 1, 7,</i> saupoudrer qqe ch. de farine ; <i>au pass</i>. être saupoudré : ὑπό τινος, ARSTT. <i>H.A. 4, 8, 27</i> ; τινι, GAL. <i>6, 533,</i> de qqe ch.`

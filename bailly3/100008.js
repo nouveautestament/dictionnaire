@@ -1,0 +1,1 @@
+lar[100008]=`<b>ου</b> <i>et</i> <b>α (ὁ)</b> <font color="purple">[ᾱ]</font> la Trébie (<i>auj</i>. Trebbia) <i>fl. de la Haute-Italie,</i> PLUT. <i>Fab. 2, etc</i>.<p>➳ <i>Gén</i>. -ου, PLUT. <i>Fab. 3</i> ; -α, POL. <i>3, 69 et 72</i>.`

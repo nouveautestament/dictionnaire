@@ -1,0 +1,1 @@
+lar[9350]=`<b>ἀν·ούατος, ος, ον</b> <font color="purple">[ᾰ]</font> sans oreilles, THCR. <i>Epigr. 4, 3</i>.<p><b>Étym</b>. ἀν-, οὖς.`

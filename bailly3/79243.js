@@ -1,0 +1,1 @@
+lar[79243]=`<b>περι·σείω</b> (<i>seul. 3 pl. impf. pass. épq</i>. περισσείοντο) agiter tout autour, secouer de tous côtés, IL. <i>19, 382 ; 22, 315</i>.`

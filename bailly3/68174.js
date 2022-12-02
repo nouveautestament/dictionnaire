@@ -1,0 +1,1 @@
+lar[68174]=`<b>νεό·κοτος, ος, ον</b>, de provenance nouvelle, nouveau, ESCHL. <i>Pers. 256, Sept. 804</i>.<p><b>Étym</b>. ν. κότος ; <i>cf</i>. ἀλλόκοτος.`

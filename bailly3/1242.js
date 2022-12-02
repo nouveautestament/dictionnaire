@@ -1,0 +1,1 @@
+lar[1242]=`<b>ἀδελφο·πρεπῶς</b>, <i>adv</i>. <font color="purple">[ᾰ]</font> comme il sied à un frère <i>ou</i> à une sœur, SPT. <i>4Macc. 10, 12</i>.<p><b>Étym</b>. ἀδ. πρέπω.`

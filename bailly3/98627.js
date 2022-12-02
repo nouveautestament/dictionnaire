@@ -1,0 +1,1 @@
+lar[98627]=`<b>τετρα·πάλαιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> long, large, <i>etc</i>. de quatre palmes, HDT. <i>2, 149</i> ; ATH. <i>199f</i>.<p><b>Étym</b>. τ. παλαιστή.`

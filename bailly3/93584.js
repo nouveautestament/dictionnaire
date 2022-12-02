@@ -1,0 +1,1 @@
+lar[93584]=`<b>σύγ·κωμος, ος, ον</b>, qui participe à une fête avec, <i>dat</i>. ESCHL. <i>fr. 392 Dind., conj. ; abs</i>. EUR. <i>Bacch. 1171</i> ; AR. <i>Ach. 264</i>.<p><b>Étym</b>. σ. κῶμος.`

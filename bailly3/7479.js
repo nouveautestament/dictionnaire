@@ -1,0 +1,1 @@
+lar[7479]=`<b>ἀνα·πτερο·φορέω-ῶ</b>, porter de nouveau des ailes, PHIL.<p><b>Étym</b>. ἀνά, πτερόν, -φόρος <i>de</i> φέρω.`

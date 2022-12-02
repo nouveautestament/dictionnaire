@@ -1,0 +1,1 @@
+lar[1016]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠ]</font> rassemblement, foule, EUR. <i>I.A. 753</i>.<p>➳ <i>Dat</i>. ἀγύρει, IL. <i>16, 661 ; 24, 141 ; acc</i>. ἄγυριν, OD. <i>3, 31</i>.<p><b>Étym</b>. <i>éol. c</i>. ἀγορά.`

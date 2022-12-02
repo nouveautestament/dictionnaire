@@ -1,0 +1,1 @@
+lar[23065]=`<b>δακτυλιο·γλύφος, ου (ὁ)</b> <font color="purple">[ῠῠ]</font> graveur <i>ou</i> ciseleur sur bagues, DL. <i>1, 57 ; 8, 1</i>.<p><b>Étym</b>. δακτύλιος, γλύφω.`

@@ -1,0 +1,1 @@
+lar[52851]=`<b>κατά·μιτος, ος, ον</b> <font color="purple">[ῐ]</font> garni de cordes tendues, PROTAGORID. (ATH. <i>176b</i>).<p><b>Étym</b>. κ. μίτος.`

@@ -1,0 +1,1 @@
+lar[35603]=`<b>ής, ές</b>, suffisant, ESCHL. <i>Pers. 237</i> ; SOPH. <i>Tr. 334</i>.<p><b>Étym</b>. ἐξαρκέω.`

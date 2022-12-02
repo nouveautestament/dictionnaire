@@ -1,0 +1,1 @@
+lar[68792]=`<b>Νικό·φημος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikophèmos, <i>h</i>. XÉN. <i>Hell. 4, 8, 8</i> ; DÉM. <i>1132, 27</i>.<p><b>Étym</b>. νίκη, φήμη.`

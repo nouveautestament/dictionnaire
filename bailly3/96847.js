@@ -1,0 +1,1 @@
+lar[96847]=`<b>εως (ἡ)</b> action de lancer avec la fronde, <i>d’où</i> coup de fronde, HPC. <i>Fract. 751</i> ; PLAT. <i>Leg. 794c ;</i> APD. POL. <i>15c</i>.<p><b>Étym</b>. σφενδονάω.`

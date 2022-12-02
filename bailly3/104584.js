@@ -1,0 +1,1 @@
+lar[104584]=`<b>ου (ὁ)</b> = <i>lat</i>. Favorinus, <i>n. d’h. rom</i>. PLUT. <i>De prim. frig. 1</i> ; LUC. <i>Demon. 12, etc</i>.`

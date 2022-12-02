@@ -1,0 +1,1 @@
+lar[80764]=`<b>πλατυ·μήλη, ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> large sonde, ANTYLL. (ORIB. <i>3, 612 B.-Dar</i>.).<p><b>Étym</b>. πλ. μήλη.`

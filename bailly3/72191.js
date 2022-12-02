@@ -1,0 +1,1 @@
+lar[72191]=`<b>ὀξυ·φλεγμασία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[μᾰ]</font> âcreté des humeurs, HPC. <i>563, 1</i>.<p><b>Étym</b>. ὀ. φλέγμα.`

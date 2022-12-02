@@ -1,0 +1,1 @@
+lar[71800]=`<b>ήων (οἱ)</b> <font color="purple">[ᾰ]</font> <i>épq</i>. habitants d’Omphalion en Thessalie, RHIAN. (E. BYZ. <i>v.°</i> Παραύαιοι).<p><b>Étym</b>. Ὀμφάλιον.`

@@ -1,0 +1,1 @@
+lar[104439]=`<b>ὑψηγορέω-ῶ</b>, avoir le verbe haut, parler avec hauteur <i>ou</i> jactance, PHIL. <i>1, 365</i> ; RHÉT. <i>1, 444 W</i>.<p><b>Étym</b>. ὑψηγόρος.`

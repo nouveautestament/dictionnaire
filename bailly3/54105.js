@@ -1,0 +1,1 @@
+lar[54105]=`<b>κατ·οικτείρω</b>, <i>ou mieux</i> <b>κατ·οικτίρω :<br>      1</b> avoir pitié de, <i>acc</i>. HDT. <i>4, 167, etc.</i> ; XÉN. <i>Cyr. 7, 3, 13</i> ; SOPH. <i>O.R. 13</i> ; EUR. <i>Her. 446, etc.</i><br><b>      2 <i>intr.</i></b> s’apitoyer, HDT. <i>7, 46</i> ; ARSTT. <i>Rhet. 2, 20, 6</i>.`

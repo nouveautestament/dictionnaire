@@ -1,0 +1,1 @@
+lar[87543]=`<b>Πυθ·άρατος, ου (ὁ)</b> <font color="purple">[ῡρᾱ]</font> Pytharatos, <i>h</i>. PLUT. <i>X orat. Dem. 56, etc</i>.<p><b>Étym</b>. Πυθώ, ἀράομαι.`

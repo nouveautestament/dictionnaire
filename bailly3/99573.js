@@ -1,0 +1,1 @@
+lar[99573]=`frapper d’un accent, accentuer, RHÉT. <i>6, 45 W</i>.<p><b>Étym</b>. τόνος.`

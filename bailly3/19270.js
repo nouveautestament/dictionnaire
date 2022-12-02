@@ -1,0 +1,1 @@
+lar[19270]=`<b>ΐδος</b> <font color="purple">[ᾰῐῐδ]</font><br><b>      1</b> <i>adj. f</i>. de roi, de reine, IL. <i>6, 193</i> ; HÉS. <i>Th. 462</i> ; EUR. <i>Hipp. 1281</i>.<br><b>      2</b> <i>subst</i>. ἡ β. reine, MAN. <i>1, 283</i>.<p><b>Étym</b>. βασιλεύς.`

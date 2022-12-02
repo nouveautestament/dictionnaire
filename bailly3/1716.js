@@ -1,0 +1,1 @@
+lar[1716]=`<b>ἀεί·φυλλος, ος, ον</b>, toujours feuillu, toujours vert, ARSTT. <i>G.A. 5, 3, 25</i> ; TH. <i>C.P. 1, 10, 7</i> ; PLUT. <i>M. 723e</i>, f.<p><b>Étym</b>. ἀ. φύλλον.`

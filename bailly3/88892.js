@@ -1,0 +1,1 @@
+lar[88892]=`<b>ῥυπαρο·μέλας, αινα, αν</b>, <i>gén</i>. <b>ανος, αίνης, ανος</b> <font color="purple">[ῠᾰᾱς, ᾰν]</font> d’un noir sale, A. MYND. (ATH. <i>395d</i>).`

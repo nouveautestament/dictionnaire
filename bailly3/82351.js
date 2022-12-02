@@ -1,0 +1,1 @@
+lar[82351]=`<b>πολύ·σεμνος, ος, ον</b> <font color="purple">[ῠ]</font> vénérable, auguste, ORPH. <i>H. 21, 9</i> ; ANTH. <i>App. 281</i>.<p><b>Étym</b>. π. σεμνός.`

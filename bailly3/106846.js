@@ -1,0 +1,1 @@
+lar[106846]=`<b>ης (ἡ)</b> <font color="purple">[ᾰβ]</font> <i>ion. c</i>. φρενοβλάβεια, MAN. <i>6, 599</i>.`

@@ -1,0 +1,1 @@
+lar[88920]=`<b>ῥυσί·διφρος, ος, ον</b> <font color="purple">[ῡ]</font> qui dirige habilement un char, PD. <i>I. 2, 31</i>.<p><b>Étym</b>. ῥύομαι, δίφρος.`

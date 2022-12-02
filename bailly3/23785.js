@@ -1,0 +1,1 @@
+lar[23785]=`<b>οῦ (ὁ)</b> poisson salé du fl. Delkôn <i>ou</i> du lac Delkos, <i>en Thrace,</i> ATH. <i>118b</i>.`

@@ -1,0 +1,1 @@
+lar[97141]=`<b>σωκέω-ῶ</b>, avoir la force, la vigueur, ESCHL. <i>Eum. 36 ; avec l’inf</i>. avoir la force, le pouvoir de, SOPH. <i>El. 119</i>.<p><b>Étym</b>. σῶκος.`

@@ -1,0 +1,1 @@
+lar[100624]=`<b>τριχό·βρως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui mange les poils ; <i>subst</i>. οἱ τριχόβρωτες, AR. <i>Ach. 1111, sorte de</i> teignes.<p><b>Étym</b>. θρίξ, βιβρώσκω.`

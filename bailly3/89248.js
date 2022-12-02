@@ -1,0 +1,1 @@
+lar[89248]=`<b>υκος (ὁ)</b> Sambyx, <i>inventeur de la sambuque,</i> EUPH. (ATH. <i>635a</i>) <i>v</i>. σαμβύκη.`

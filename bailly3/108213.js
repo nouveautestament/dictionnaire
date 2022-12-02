@@ -1,0 +1,1 @@
+lar[108213]=`<b>ου (τὸ) :<br>      1</b> carapace de tortue, NIC. <i>Al. 574</i>.<br><b>      2</b> écaille d’huître, ARAT. <i>494</i>.<p><b>Étym</b>. χέλυς.`

@@ -1,0 +1,1 @@
+lar[51118]=`<b>καλλιεπέω-ῶ</b>, bien parler, parler agréablement, avec élégance, PLAT. <i>Ap. 17b ;</i> ARSTT. <i>Rhet. 3, 2</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. THC. <i>6, 83</i> ; PLAT. <i>Hipparch. 225c</i>.<p>➳ <i>Part. pf. pass</i>. κεκαλλιεπημένος, PLAT. <i>Ap. 17b</i>.<p><b>Étym</b>. καλλιεπής.`

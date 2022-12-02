@@ -1,0 +1,1 @@
+lar[59729]=`<b>λαμπρολογέω-ῶ</b>, parler en termes pompeux de, vanter, <i>acc</i>. EUM. <i>p. 317</i>.<p><b>Étym</b>. λ. λόγος.`

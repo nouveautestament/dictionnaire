@@ -1,0 +1,1 @@
+lar[42695]=`<b>εὐ·μήρυτος, ος, ον</b> <font color="purple">[ῡ]</font> facile à filer, LUC. <i>Fug. 12</i>.<p><b>Étym</b>. εὖ, μηρύομαι.`

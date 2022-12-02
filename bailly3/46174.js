@@ -1,0 +1,1 @@
+lar[46174]=`<b>θαλασσο·πότης, ου (ὁ)</b> <font color="purple">[θᾰ]</font> qui boit la mer, <i>mot com</i>. LUC. <i>V.H. 1, 42</i>.<p><b>Étym</b>. θ. πίνω.`

@@ -1,0 +1,1 @@
+lar[96347]=`<b>ῆς (ἡ) :<br>      1</b> diminution, DC. <i>78, 28</i>.<br><b>      2</b> décision, décret, AQU. <i>Esai. 28, 22</i>.<p><b>Étym</b>. συντέμνω.`

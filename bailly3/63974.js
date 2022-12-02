@@ -1,0 +1,1 @@
+lar[63974]=`<b>ῆτος (ὁ)</b> <i>autre n. de la plante</i> δίψακος, DIOSC. <i>Noth. 3, 13</i>.`

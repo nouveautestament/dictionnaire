@@ -1,0 +1,1 @@
+lar[66195]=`<b>ου</b>, <i>adj. m</i>. de Mnèsarkhos, CALL. <i>fr. 29 Bgk</i>.<p><b>Étym</b>. Μνήσαρχος.`

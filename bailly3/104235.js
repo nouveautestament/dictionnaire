@@ -1,0 +1,1 @@
+lar[104235]=`<b>ὑπ·ωλένιος, ος, ον</b>, que l’on porte sous le bras, THCR. <i>Idyl. 17, 30</i>.<p><b>Étym</b>. ὑ. ὠλένη.`

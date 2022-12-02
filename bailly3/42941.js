@@ -1,0 +1,1 @@
+lar[42941]=`<b>εὐ·παρείσδυτος, ος, ον</b> <font color="purple">[ῠ]</font> où l’on peut facilement pénétrer, HPC. <i>Art. 797</i>.<p><b>Étym</b>. εὖ, παρεισδύομαι.`

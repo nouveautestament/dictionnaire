@@ -1,0 +1,1 @@
+lar[34441]=`<i>vb. de</i> ἐνέψω, ARÉT. <i>Cur. m. acut. 1, 1</i>.`

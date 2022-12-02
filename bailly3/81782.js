@@ -1,0 +1,1 @@
+lar[81782]=`<b>πολύ·γαμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> polygame, <i>en parl. de l’homme et de la femme,</i> ORIG. <i>3, 1568 Migne</i>.<p><b>Étym</b>. πολύς, γαμέω.`

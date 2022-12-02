@@ -1,0 +1,1 @@
+lar[33237]=`<b>ἐμμεθόδως</b>, <i>adv</i>., méthodiquement, CLÉOM. <i>65, 7</i> ; DYSC. <i>Synt. 155, 21</i> ; SEXT. <i>642, 24 Bkk</i>.`

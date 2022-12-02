@@ -1,0 +1,1 @@
+lar[52816]=`<b>κατα·μελεϊστί</b>, <i>adv</i>., par membres, par morceaux, ARAT. <i>624</i>.<p><b>Étym</b>. κ. μέλος.`

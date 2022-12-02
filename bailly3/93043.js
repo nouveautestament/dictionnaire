@@ -1,0 +1,1 @@
+lar[93043]=`<b>στρωματό·δεσμον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. στρωματόδεσμος AR. <i>fr. 249 Dind.</i> ; XÉN. <i>An. 5, 4, 13</i> ; PLAT. <i>Theæt. 175e ;</i> ESCHN. <i>41, 18</i>.`

@@ -1,0 +1,1 @@
+lar[74013]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> tardif, IL. <i>2, 325</i> ; TH. <i>H.P. 1, 9, 7, etc.</i><br><b>      2</b> récent, PLUT. <i>M. 674f</i>.<p>•<i> Sup</i>. -ώτατος, XÉN. <i>Œc. 17, 4 et 5</i>.<p><b>Étym</b>. ὀψέ.`

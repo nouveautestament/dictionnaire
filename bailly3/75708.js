@@ -1,0 +1,1 @@
+lar[75708]=`<b>ατος (τὸ) :<br>      1</b> encouragement, exhortation, DH. <i>6, 47</i>.<br><b>      2</b> précepte, maxime, PLAT. <i>Leg. 688a, etc. ; cf</i>. παρακέλευσμα.`

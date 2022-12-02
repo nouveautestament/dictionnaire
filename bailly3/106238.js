@@ -1,0 +1,1 @@
+lar[106238]=`<b>φίλ·υμνος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les chants, ANACR. <i>43</i>.`

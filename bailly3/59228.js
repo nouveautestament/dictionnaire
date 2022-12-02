@@ -1,0 +1,1 @@
+lar[59228]=`<b>κωνο·φόρος, ος, ον</b>, qui porte des fruits coniques (comme les pins, <i>etc</i>.) TH. <i>H.P. 9, 3, 4</i>.<p><b>Étym</b>. κ. φέρω.`

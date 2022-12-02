@@ -1,0 +1,1 @@
+lar[7087]=`<b>ατος (τὸ)</b> support, <i>d’où</i> :<br><b>      1</b> bandage pour soutenir un membre blessé, HPC. <i>748d.</i><br><b>      2</b> construction qui en supporte une autre, substruction, DS. <i>17, 71</i> ; DH. <i>3, 69 ; 4, 59, etc</i>.<p><b>Étym</b>. ἀναλαμβάνω.`

@@ -1,0 +1,1 @@
+lar[100882]=`<b>τρυφερό·σαρκος, ος, ον</b> <font color="purple">[ῠ]</font> dont la chair est tendre, au corps délicat, XÉNOCR. <i>Al. 30</i> ; ANTYLL. (ORIB. <i>p. 301 Matthäi).</i><p><b>Étym</b>. τρυφερός, σάρξ.`

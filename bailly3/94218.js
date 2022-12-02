@@ -1,0 +1,1 @@
+lar[94218]=`<b>συμ·περιτρέχω</b>, courir ensemble autour, parcourir ensemble, LUC. <i>Dem. enc. 37</i>.`

@@ -1,0 +1,1 @@
+lar[7120]=`<b>ή, όν</b>, analogique, proportionnel, PLUT. <i>M. 1145a ;</i> SEXT. <i>M. 1, 119</i>.<p><b>Étym</b>. ἀνάλογος.`

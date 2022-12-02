@@ -1,0 +1,1 @@
+lar[59113]=`<b>κωθωνο·πλύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui lave les goujons, SOPHR. (ATH. <i>309c</i>).<p><b>Étym</b>. κώθων, πλύνω.`

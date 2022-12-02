@@ -1,0 +1,1 @@
+lar[105704]=`<b>φιλό·βορος, ος, ον</b> <font color="purple">[ῐ]</font> vorace, <i>au</i> <i>• Sup</i>. -ώτατος, HERMÉS. (STOB. <i>Ecl. 1, 960).</i><p><b>Étym</b>. φ. βορά.`

@@ -1,0 +1,1 @@
+lar[77442]=`<b>παυσί·πονος, ος, ον</b> <font color="purple">[ῐ]</font> qui met fin aux peines, EUR. <i>I.T. 451</i>.<p><b>Étym</b>. π. πόνος.`

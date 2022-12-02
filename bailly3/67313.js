@@ -1,0 +1,1 @@
+lar[67313]=`<b>μυρο·θήκη, ης (ἡ)</b> <font color="purple">[ῠ]</font> boîte à parfums, CHRYS. <i>6, 682</i>.<p><b>Étym</b>. μύρον, θήκη.`

@@ -1,0 +1,1 @@
+lar[13186]=`<b>ἀπο·πυτίζω</b> <font color="purple">[ῡ]</font> cracher avec force, HPC. <i>1217b ;</i> ARSTT. <i>H.A. 4, 3, 5 ; intr</i>. jaillir avec force, AR. <i>Lys. 205</i>.`

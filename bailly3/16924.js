@@ -1,0 +1,1 @@
+lar[16924]=`<b>ου (ὁ)</b> <i>transcr. du n. lat</i>. Atratīnus, DH.`

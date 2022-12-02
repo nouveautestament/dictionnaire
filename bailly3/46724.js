@@ -1,0 +1,1 @@
+lar[46724]=`<b>θεό·μορφος, ος, ον</b>, d’une forme <i>ou</i> d’une beauté divine, ANTH. <i>12, 196</i>.<p><b>Étym</b>. θ. μορφή.`

@@ -1,0 +1,1 @@
+lar[87505]=`<font color="purple">[ῡ]</font> faire des obscénités, <i>acc</i>. AR. <i>Th. 1120</i> ; THCR. <i>Idyl. 5, 41</i> ; ANTH. <i>9, 317</i>.<p><b>Étym</b>. πυγή.`

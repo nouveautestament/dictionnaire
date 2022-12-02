@@ -1,0 +1,1 @@
+lar[103772]=`<b>ὑπο·ρρήγνυμι</b> <font color="purple">[νῡ]</font> <font color="darkgreen">(<i>f</i>. -ρρήξω, <i>ao.2 pass</i>. ὑπερράγην, <i>etc</i>.)</font> déchirer par-dessous, <i>d’où p. ext. au pass</i>. se déchirer, se rompre, s’entr’ouvrir, IL. <i>8, 558 ; 16, 300</i> ; EL. <i>N.A. 6, 15</i>.<p><b>Étym</b>. ὑ. ῥήγνυμι.`

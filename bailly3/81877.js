@@ -1,0 +1,1 @@
+lar[81877]=`<b>πολυ·έλαιος, ος, ον</b>, qui produit beaucoup d’huile, XÉN. <i>Vect. 5, 3</i>.<p><b>Étym</b>. π. ἔλαιον.`

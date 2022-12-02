@@ -1,0 +1,1 @@
+lar[73851]=`<b>ὀφιο·σταφύλη, ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> vigne-blanche <i>ou</i> couleuvrée, DIOSC. <i>4, 184</i>.<p><b>Étym</b>. ὄφ. σταφυλή.`

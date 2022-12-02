@@ -1,0 +1,1 @@
+lar[55178]=`<b>όνος (ἡ)</b> <i>propr</i>. enchanteresse ; <i>au pl</i>. les enchanteresses, <i>càd</i>. les Sirènes, PD. <i>fr. 25</i>.<p><b>Étym</b>. κηλέω.`

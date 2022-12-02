@@ -1,0 +1,1 @@
+lar[52880]=`<b>κατ·αναγιγνώσκω</b>, lire jusqu’au bout, ATH. <i>610d</i>.`

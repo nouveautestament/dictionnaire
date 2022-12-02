@@ -1,0 +1,1 @@
+lar[80877]=`<b>ατος (τὸ) :<br>      1</b> excès, surplus, SPT. <i>Num. 31, 32</i>.<br><b>      2</b> <i>t. de gr</i>. pléonasme, DYSC. <i>Synt. 137, 28, etc</i>.<p><b>Étym</b>. πλεονάζω.`

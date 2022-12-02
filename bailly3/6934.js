@@ -1,0 +1,1 @@
+lar[6934]=`<b>ἀνα·κίρνημι</b> (<i>seul. prés</i>.) mélanger, PHIL. <i>1, 184 ; au pass</i>. être mélangé <i>ou</i> tempéré, PLAT. <i>Ax. 371d.</i><br><b>Moy. ἀνακίρναμαι</b> (<i>seul. prés</i>.) mélanger, SOPH. <i>fr. 239 ; fig</i>. contracter (des amitiés) EUR. <i>Hipp. 254</i>.`

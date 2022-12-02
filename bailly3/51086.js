@@ -1,0 +1,1 @@
+lar[51086]=`<b>καλλι·βλέφαρος, ος, ον</b> <font color="purple">[φᾰ]</font><br><b>      1</b> aux belles paupières, EUR. <i>Ion 189</i>.<br><b>      2</b> qui embellit les paupières ; <i>subst</i>. τὸ καλλιβλέφαρον, DIOSC. <i>1, 86, etc.</i> ; GAL. <i>13, 260,</i> sorte de fard.<p><b>Étym</b>. κ. βλέφαρον.`

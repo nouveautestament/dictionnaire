@@ -1,0 +1,1 @@
+lar[53271]=`<i>ion</i>. <b>καταρροπίη, ης (ἡ)</b> mouvement descendant, inclinaison, HPC. <i>47, 13</i>.<p><b>Étym</b>. κατάρροπος.`

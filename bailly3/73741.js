@@ -1,0 +1,1 @@
+lar[73741]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit bien, petite fortune, NICOM. COM. (ATH. <i>58a</i>) ; ARR. <i>Epict. 2, 2, 10</i>.<p><b>Étym</b>. <i>dim. de</i> οὐσία.`

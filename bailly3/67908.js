@@ -1,0 +1,1 @@
+lar[67908]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> νεβρίς, ARTÉM. <i>4, 72</i>.`

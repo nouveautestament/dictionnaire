@@ -1,0 +1,1 @@
+lar[91209]=`<b>(ὁ)</b> <font color="purple">[ῑᾱ]</font> <i>litt</i>. « l’obscur, le ténébreux » : <i>surn. de Zeus, assembleur de nuages (cf</i>. νεφεληγερέτης) PAUS. <i>3, 10, 6</i>.<p><b>Étym</b>. σκότος.`

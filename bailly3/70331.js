@@ -1,0 +1,1 @@
+lar[70331]=`<b>ή, όν :<br>      1</b> qui s’approprie, PLAT. <i>Soph. 223b.</i><br><b>      2</b> qui s’accorde : πρός τι, PLUT. <i>M. 759e</i>, avec qqe ch.<p><b>Étym</b>. οἰκειόω.`

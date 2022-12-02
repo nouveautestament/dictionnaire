@@ -1,0 +1,1 @@
+lar[93369]=`<b>συγ·κατασπάω-ῶ</b>, tirer en bas avec, entraîner avec, XÉN. <i>Cyr. 5, 5, 24</i> ; LUC. <i>Nigr. 11</i> ; τί τινι, LUC. <i>D. mort. 8,</i> entraîner une chose avec une autre ; <i>au pass</i>. être entraîné avec, PLUT. <i>M. 914e</i>.`

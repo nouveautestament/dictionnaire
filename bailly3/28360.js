@@ -1,0 +1,1 @@
+lar[28360]=`<b>δυσ·εκπύητος, ος, ον</b> <font color="purple">[ῠῡ]</font> qui suppure avec peine, P. ÉG. <i>138, 51</i>.<p><b>Étym</b>. δ. ἐκπυέω.`

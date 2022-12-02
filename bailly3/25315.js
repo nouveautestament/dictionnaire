@@ -1,0 +1,1 @@
+lar[25315]=`<b>δια·ποιέω-ῶ</b>, achever, réaliser, DH. <i>5, 45 (part. ao</i>. -ήσαντας) <i>dout.</i> ; SPT. <i>Dan. 8, 24 (fut</i>. -ήσει) <i>dout</i>.`

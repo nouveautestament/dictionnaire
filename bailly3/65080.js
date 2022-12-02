@@ -1,0 +1,1 @@
+lar[65080]=`<b>μετ·εκβιβάζω</b> <font color="purple">[ῐ]</font> faire passer <i>ou</i> transporter d’un lieu dans un autre, DC. <i>48, 47</i>.`

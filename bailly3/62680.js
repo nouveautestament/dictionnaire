@@ -1,0 +1,1 @@
+lar[62680]=`<font color="purple">[ᾰκ]</font> (<i>seul. pass. prés</i>. ESCHL. <i>Pr. 79, 952</i> ; PLAT. <i>Ep. 317c, etc. et part. ao</i>. μαλθακισθείς, EUR. <i>Med. 291</i> ; PLAT. <i>Rsp. 458) c</i>. μαλακίζω.`

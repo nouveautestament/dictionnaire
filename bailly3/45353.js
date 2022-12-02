@@ -1,0 +1,1 @@
+lar[45353]=`<b>ἡμερο·σκόπος, ος, ον</b>, qui veille pendant le jour, ESCHL. <i>Sept. 66</i> ; AR. <i>Av. 1174 ; subst</i>. ὁ ἡμ. guetteur <i>ou</i> sentinelle de jour, HDT. <i>7, 182, 192</i> ; SOPH. <i>Ant. 253, etc</i>.<p><b>Étym</b>. ἡμέρα, σκοπέω.`

@@ -1,0 +1,1 @@
+lar[10846]=`<b>ίδος (ἡ)</b> <i>autre nom de la plante</i> ὀνωνίς, DIOSC. <i>3, 21</i>.`

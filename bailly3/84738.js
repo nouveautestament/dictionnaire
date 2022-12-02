@@ -1,0 +1,1 @@
+lar[84738]=`<b>προ·μίγνυμι</b> <font color="darkgreen">(<i>ao.2 inf. pass</i>. προμιγῆναι)</font> mêler auparavant, <i>d’où au pass</i>. s’unir auparavant avec, <i>dat</i>. IL. <i>9, 452</i>.`

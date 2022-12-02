@@ -1,0 +1,1 @@
+lar[62673]=`<b>ης (ἡ)</b> Malènè, <i>lieu sur le territoire d’Atarnée en Asie Mineure,</i> HDT. <i>6, 29</i>.`

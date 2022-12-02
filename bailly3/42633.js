@@ -1,0 +1,1 @@
+lar[42633]=`<b>εὐ·μάραθος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> abondant en fenouil, ANTH. <i>9, 318</i>.<p><b>Étym</b>. εὖ, μάραθον.`

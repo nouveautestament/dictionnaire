@@ -1,0 +1,1 @@
+lar[40830]=`<b>ας (ἡ)</b> Érysthéia, <i>v. de Chypre,</i> NONN. <i>D. 13, 445</i>.<p><b>Étym</b>. <i>cf</i>. Εὐρύσθεια.`

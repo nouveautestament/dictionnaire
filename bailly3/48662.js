@@ -1,0 +1,1 @@
+lar[48662]=`<b>ωνος (ὁ)</b> Hiéron :<br><b>      1</b> <i>roi de Syracuse,</i> HDT. <i>7, 156, etc.</i><br><b>      2</b> <i>l’un des trente tyrans d’Athènes,</i> XÉN. <i>Hell. 2, 3, 1</i>.<br><b>      3</b> <i>autres,</i> AR. <i>Eccl. 757, etc</i>.<p><b>Étym</b>. ἱερός.`

@@ -1,0 +1,1 @@
+lar[30282]=`<b>εἰδωλο·μανία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> culte passionné des idoles, BAS. <i>3, 169d Migne</i> ; NYSS. <i>3, 913d Migne</i>.<p><b>Étym</b>. <i>cf</i>. εἰδωλομανέω.`

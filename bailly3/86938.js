@@ -1,0 +1,1 @@
+lar[86938]=`<b>προ·φάω</b> (<i>sbj. prés. 3 sg. épq</i>. προφάῃσιν) briller auparavant <i>ou</i> en avant, MAX. <i>π. κατ. 280</i>.<p><b>Étym</b>. π. φάω.`

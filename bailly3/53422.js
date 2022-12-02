@@ -1,0 +1,1 @@
+lar[53422]=`<b>ή, όν</b>, propre à resserrer, à réprimer, à contenir, <i>gén</i>. GAL. <i>14, 763</i> ; SEXT. <i>M. 6, 19</i>.<p>•<i> Cp</i>. -ώτερος, PTOL. <i>Tetr. p. 172, 26</i>.<p><b>Étym</b>. καταστέλλω.`

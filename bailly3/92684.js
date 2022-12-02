@@ -1,0 +1,1 @@
+lar[92684]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> littéral, alphabétique, EUST. <i>35, 24</i>.<p><b>Étym</b>. στοιχεῖον.`

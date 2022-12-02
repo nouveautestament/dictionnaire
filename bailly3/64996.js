@@ -1,0 +1,1 @@
+lar[64996]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> transformation, ARSTT. <i>Sens. 6</i> ; CHRYS. <i>4, 443</i>.<p><b>Étym</b>. μετασχηματίζω.`

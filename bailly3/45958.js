@@ -1,0 +1,1 @@
+lar[45958]=`<b>ου (ὁ)</b> Hésiode, <i>poète grec,</i> PD. <i>I. 6, 98</i> ; HDT. <i>2, 53 ; 4, 32, etc</i>.`

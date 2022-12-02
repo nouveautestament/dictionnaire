@@ -1,0 +1,1 @@
+lar[21383]=`<b>ου (ὁ)</b> <font color="purple">[ᾰλ]</font> <i>c</i>. γαργαλισμός AR. <i>Th. 133</i>.`

@@ -1,0 +1,1 @@
+lar[68275]=`<b>ος, ον</b>, de jeune homme, Ps.-PHOCYL. <i>213</i> ; ANT. (STOB. <i>Fl. 68, 37).</i><p><b>Étym</b>. νεότης.`

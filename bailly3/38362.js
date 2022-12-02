@@ -1,0 +1,1 @@
+lar[38362]=`<b>ἐπι·μανθάνω</b>, apprendre en outre <i>ou</i> ensuite, <i>p. opp. à</i> προμανθάνω, THC. <i>1, 138 ; avec un inf</i>. HDT. <i>1, 131 ; avec</i> εἰ, HDT. <i>2, 160</i>.`

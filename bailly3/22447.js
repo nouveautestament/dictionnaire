@@ -1,0 +1,1 @@
+lar[22447]=`<b>γονοποιέω-ῶ</b>, engendrer, enfanter, GEOP. <i>19, 4</i> ; SPT.<p><b>Étym</b>. *γονοποιός, <i>de</i> γόνος, ποιέω.`

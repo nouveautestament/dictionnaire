@@ -1,0 +1,1 @@
+lar[51150]=`<b>Καλλι·κρίτη, ης (ἡ)</b> <font color="purple">[ῐτ]</font> Kallikritè, <i>nymphe,</i> PLAT. <i>Theag. 125d</i>.<p><b>Étym</b>. κ. κρίνω.`

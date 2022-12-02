@@ -1,0 +1,1 @@
+lar[79569]=`<b>ος, ον :<br>      1</b> visible à tous, SOPH. <i>Aj. 229</i> ; ANTH. <i>8, 202</i>.<br><b>      2</b> connu de tous, célèbre, SOPH. <i>Aj. 599</i>.<p><b>Étym</b>. περιφαίνομαι.`

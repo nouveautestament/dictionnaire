@@ -1,0 +1,1 @@
+lar[78468]=`<b>περι·βρομέω-ῶ</b>, frémir <i>ou</i> bourdonner autour, A.RH. <i>4, 17 ; avec l’acc</i>. A.RH. <i>1, 879</i>.<p>➳ <i>Impf. itér</i>. περιβρομέεσκον, A.RH. <i>4, 17</i>.`

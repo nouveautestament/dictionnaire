@@ -1,0 +1,1 @@
+lar[63206]=`<b>ου (τὸ)</b> tombeau de Mausole, <i>à Halicarnasse, d’où</i> mausolée, <i>particul</i>. mausolée de l’empereur Auguste, <i>à Rome,</i> STR. <i>236</i>.<p><b>Étym</b>. Μαύσωλος.`

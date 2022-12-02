@@ -1,0 +1,1 @@
+lar[84024]=`<b>προ·εγκαλέω-ῶ</b> <font color="purple">[ᾰ]</font> accuser auparavant : ὁ προεγκαλῶν, <i>titre d’une comédie de Ménandre</i> (STOB. <i>Fl. 62, 17</i>).`

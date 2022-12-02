@@ -1,0 +1,1 @@
+lar[102222]=`<b>ὑπερ·αγανακτέω-ῶ</b> <font color="purple">[ᾰᾰν]</font> être extrêmement mécontent <i>ou</i> s’indigner fortement : τινος, PLAT. <i>Rsp. 535e ;</i> τινι, ESCHN. <i>9, 13,</i> de qqe ch. ; <i>abs</i>. ARSTT. <i>fr. 157</i> ; EL. <i>V.H. 8, 9</i>.`

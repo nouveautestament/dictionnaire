@@ -1,0 +1,1 @@
+lar[1070]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Ankhisès (Anchise) :<br><b>      1</b> <i>père d’Énée,</i> IL. <i>2, 819, etc.</i><br><b>      2</b> <i>autres,</i> THCR. <i>Idyl. 1, 106, etc</i>.<p>➳ <i>Gén. épq</i>. -αο, <i>ou</i> -εω, HH. <i>Ven. 53, 126 ; acc. dor</i>. -αν <font color="purple">[ᾱ]</font> THCR. <i>Idyl. l. c</i>.`

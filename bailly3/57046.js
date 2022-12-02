@@ -1,0 +1,1 @@
+lar[57046]=`<b>κορέω-ῶ :<br>      1</b> nettoyer en balayant, en lavant, <i>acc</i>. OD. <i>20, 149</i> ; DÉM. <i>313, 12</i>.<br><b>      2</b> <i>c</i>. βινεῖν, SAPPH. <i>53</i> ; ANACR. <i>5</i>.`

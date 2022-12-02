@@ -1,0 +1,1 @@
+lar[58924]=`<b>ου (ἡ)</b> <font color="purple">[υ]</font> Chypre (<i>auj</i>. Kýpros, <i>turc</i> Kibris) <i>î. de la côte sud de l’Asie Mineure,</i> OD. <i>4, 83, etc.</i> ; HDT. <i>2, 182</i> ; THC. <i>1, 94, etc</i>.`

@@ -1,0 +1,1 @@
+lar[106563]=`<b>φοινικο·έανος, ος, ον</b> <font color="purple">[νῑ]</font> au tissu de pourpre, PD. <i>fr. 53, 14 conj</i>.`

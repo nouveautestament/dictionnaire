@@ -1,0 +1,1 @@
+lar[84121]=`<b>προ·εκφοιτάω-ῶ :<br>      1</b> se répandre auparavant, DC. <i>69, 1</i>.<br><b>      2</b> dépasser la mesure, STOB. <i>Ecl. 1, 270</i>.`

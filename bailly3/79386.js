@@ -1,0 +1,1 @@
+lar[79386]=`<b>περιστερο·ειδής, ής, ές</b>, du genre des pigeons <i>ou</i> des colombes, ARSTT. <i>H.A. 6, 4, 1, etc</i>.<p><b>Étym</b>. περιστερά, εἶδος.`

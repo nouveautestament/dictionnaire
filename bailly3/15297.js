@@ -1,0 +1,1 @@
+lar[15297]=`<b>ονος (ὁ) :<br>      1</b> voile d’artimon, NT. <i>Ap. 27, 40</i>.<br><b>      2</b> sorte de poulie, VITR. <i>10, 5</i>.<p><b>Étym</b>. <i>inconnue</i>.`

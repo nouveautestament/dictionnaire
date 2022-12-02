@@ -1,0 +1,1 @@
+lar[9832]=`<b>ἀντι·διαλέγομαι</b>, objecter à, <i>dat</i>. CHRYSIPP. (DL. <i>7, 202</i>).`

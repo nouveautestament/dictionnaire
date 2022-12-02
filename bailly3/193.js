@@ -1,0 +1,1 @@
+lar[193]=`<font color="darkgreen">(<i>seul. sbj. ao. 1 pl. épq</i>. ἀβροτάξομεν)</font> s’égarer, se perdre, <i>gén</i>. IL. <i>10, 65</i>.<p><b>Étym</b>. <i>p.-ê</i>. ἤμβροτον, ἀμβροτεῖν, <i>v</i>. ἁμαρτάνω ; <i>cf</i>. ἄβροτος = ἄμβροτος.`

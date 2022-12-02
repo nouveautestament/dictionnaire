@@ -1,0 +1,1 @@
+lar[87676]=`<b>ΐτιδος (ἡ)</b> <font color="purple">[ῠᾰῑῐδ]</font> protectrice des portes, <i>ép. d’Athèna,</i> LYC. <i>356</i>.<p><b>Étym</b>. πύλη.`

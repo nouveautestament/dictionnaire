@@ -1,0 +1,1 @@
+lar[1454]=`<b>ἀδιψέω-ῶ</b>, n’avoir pas soif, HPC. <i>Coac. 218</i>.<p><b>Étym</b>. ἄδιψος.`

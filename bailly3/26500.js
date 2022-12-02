@@ -1,0 +1,1 @@
+lar[26500]=`<b>ου (τὸ)</b> <font color="purple">[δῐ]</font> geôle, prison, PLAT. <i>Phædr. 249a ;</i> JUNC. (STOB. <i>611, 28).</i><p><b>Étym</b>. δικαιόω.`

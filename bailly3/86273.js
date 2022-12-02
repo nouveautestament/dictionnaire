@@ -1,0 +1,1 @@
+lar[86273]=`<b>εως (ἡ)</b> action de prendre en outre, PHIL. <i>1, 485</i> ; CLÉM. <i>861, etc</i>.<p><b>Étym</b>. προσπαραλαμβάνω.`

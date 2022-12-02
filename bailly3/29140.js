@@ -1,0 +1,1 @@
+lar[29140]=`<b>(ὁ)</b> <i>dor. c</i>. ζωμός, EPILYC. <i>fr. conj</i>.`

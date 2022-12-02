@@ -1,0 +1,1 @@
+lar[87164]=`<b>Πρώτ·αρχος, ου (ὁ)</b> Prôtarkhos, <i>h</i>. PLAT. <i>Phil. 11a, etc</i>.<p><b>Étym</b>. <i>v</i>. πρώταρχος.`

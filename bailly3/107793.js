@@ -1,0 +1,1 @@
+lar[107793]=`<b>χαμαί·ρρυτον, ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>autre n. de la plante</i> στρούθιον, DIOSC. <i>Noth. 2, 193</i>.`

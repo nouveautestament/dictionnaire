@@ -1,0 +1,1 @@
+lar[73235]=`<b>ου (τὸ)</b> graine légumineuse, <i>d’où</i> légume, HDT. <i>2, 37, etc. ; d’ord. au plur</i>. HPC. <i>404, 29</i> ; XÉN. <i>An. 4, 4, 9</i> ; PLAT. <i>Criti. 115a, etc</i>.`

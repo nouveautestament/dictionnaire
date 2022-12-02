@@ -1,0 +1,1 @@
+lar[69519]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> <i>au plur</i>. raclure, rognure, SEXT. <i>P. 1, 129</i> ; M. ANT. <i>8, 50</i>.<br><b>      2</b> gravure, inscription, ANTH. <i>9, 328</i>.<p><b>Étym</b>. ξέω.`

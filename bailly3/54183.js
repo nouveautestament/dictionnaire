@@ -1,0 +1,1 @@
+lar[54183]=`<b>κατορχίτης οἶνος (ὁ)</b> vin préparé avec des figues sèches, DIOSC. <i>5, 41</i>.<p><b>Étym</b>. <i>cf</i>. συκίτης.`

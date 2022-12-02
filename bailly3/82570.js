@@ -1,0 +1,1 @@
+lar[82570]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> abondance de biens, richesse, XÉN. <i>Conv. 4, 42</i>.<p><b>Étym</b>. πολυχρήματος.`

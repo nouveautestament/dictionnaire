@@ -1,0 +1,1 @@
+lar[10028]=`<b>ἀντι·λεσχαίνω</b>, jaser contre, PÉRICT. (STOB. <i>458, 3</i>).`

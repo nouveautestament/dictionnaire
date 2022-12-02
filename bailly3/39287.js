@@ -1,0 +1,1 @@
+lar[39287]=`<b>ἐπί·σφυρος, ος, ον</b> <font color="purple">[ῠ]</font> qui recouvre la cheville, ANTH. <i>6, 107</i>.<p><b>Étym</b>. ἐπί, σφύρα.`

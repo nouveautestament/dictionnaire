@@ -1,0 +1,1 @@
+lar[13431]=`<b>ίδος (ἡ)</b> spoliatrice, voleuse, AR. <i>Nub. 730</i>.`

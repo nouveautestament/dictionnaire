@@ -1,0 +1,1 @@
+lar[279]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., bien, HPC. <i>Off. 742</i> ; ARSTT. <i>Rhet. 2, 11, 1</i> ; SPT. <i>1Reg. 20, 7, etc</i>.<p><b>Étym</b>. ἀγαθός.`

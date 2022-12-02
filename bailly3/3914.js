@@ -1,0 +1,1 @@
+lar[3914]=`<b>α, ον :<br>      1</b> attique, DP. <i>1023</i> ; LYC. <i>504</i> ; NONN. <i>D. 27, 282 ; 44, 265</i>.<br><b>      2</b> d’Aktè, <i>en Ionie,</i> THC. <i>4, 52</i>.<p><b>Étym</b>. Ἀκτή.`

@@ -1,0 +1,1 @@
+lar[10591]=`<b>ἀντι·φωτισμός, οῦ (ὁ)</b> réflexion de la lumière, PLUT. <i>Nic. 21</i>.<p><b>Étym</b>. ἀ. φωτίζω.`

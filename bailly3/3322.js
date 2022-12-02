@@ -1,0 +1,1 @@
+lar[3322]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> qui secourt <i>ou</i> sauve (Apollon) EUR. <i>Andr. 882</i>.<p><b>Étym</b>. ἀκέομαι.`

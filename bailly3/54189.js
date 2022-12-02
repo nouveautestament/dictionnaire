@@ -1,0 +1,1 @@
+lar[54189]=`<b>κατ·ουλόω-ῶ</b>, cicatriser, DS. <i>Exc. Vat. 521, 73 ; d’où au pass</i>. se cicatriser, ANTH. <i>9, 311</i>.`

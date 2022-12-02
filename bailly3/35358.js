@@ -1,0 +1,1 @@
+lar[35358]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> action de lancer un trait, GAL. <i>5, 337</i>.<p><b>Étym</b>. ἐξακοντίζω.`

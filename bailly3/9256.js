@@ -1,0 +1,1 @@
+lar[9256]=`<i>adv</i>., sans pluie, CLÉM.`

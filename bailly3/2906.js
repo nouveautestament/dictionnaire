@@ -1,0 +1,1 @@
+lar[2906]=`<b>αἰσχροποιέω-ῶ :<br>      1</b> commettre des obscénités, ATH. <i>342c.</i><br><b>      2</b> déshonorer, HPC. <i>2, 41</i>.<p><b>Étym</b>. αἰσχροποιός.`

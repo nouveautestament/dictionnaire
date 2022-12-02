@@ -1,0 +1,1 @@
+lar[93782]=`<b>συλ·ληρέω-ῶ</b>, s’occuper ensemble de frivolités, de folies, NAZ.<p><b>Étym</b>. σ. λῆρος.`

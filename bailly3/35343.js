@@ -1,0 +1,1 @@
+lar[35343]=`<b>ἐξ·ακανθόομαι-οῦμαι</b> <font color="purple">[ᾰκ]</font> se hérisser d’épines, TH. <i>H.P. 6, 4, 2</i>.<p><b>Étym</b>. ἐξ, ἄκανθα.`

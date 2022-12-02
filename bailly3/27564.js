@@ -1,0 +1,1 @@
+lar[27564]=`<b>ας (ἡ)</b> opinion complaisante de sa propre sagesse, PLAT. <i>Phil. 49a, Soph. 231b ;</i> PLUT. <i>M. 999e</i>.<p><b>Étym</b>. δοξόσοφος.`

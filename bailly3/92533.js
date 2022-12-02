@@ -1,0 +1,1 @@
+lar[92533]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> στήλη, STR. <i>171</i>.`

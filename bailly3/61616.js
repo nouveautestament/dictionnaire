@@ -1,0 +1,1 @@
+lar[61616]=`<b>άδος (ἡ)</b> (<i>s.-e</i>. ὁδός) marche oblique du zodiaque, écliptique, <i>t. d’astronomie,</i> ANON. I AR. <i>p. 96, 11</i>.<p><b>Étym</b>. λοξός.`

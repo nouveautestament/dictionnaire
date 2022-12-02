@@ -1,0 +1,1 @@
+lar[31031]=`<b>ἑκατοντά·κρηπις, ιδος (ὁ, ἡ)</b> <font color="purple">[κᾰ]</font> à cent bases, JUL. <i>Ep. 180</i>.<p><b>Étym</b>. ἑ. κρηπίς.`

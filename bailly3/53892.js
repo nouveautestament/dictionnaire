@@ -1,0 +1,1 @@
+lar[53892]=`<b>ή, όν</b>, qui est la marque de l’autorité, CLÉM. <i>134</i>.<p><b>Étym</b>. κατεξουσιάζω.`

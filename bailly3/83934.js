@@ -1,0 +1,1 @@
+lar[83934]=`<b>προ·διαπέμπομαι</b>, envoyer d’avance devant soi, POL. <i>8, 20, 3</i>.`

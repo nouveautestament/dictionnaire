@@ -1,0 +1,1 @@
+lar[103221]=`<i>adv</i>., selon le mode hypodorien, ARSTT. <i>Probl. 19, 30 ; 48, 1</i>.<p><b>Étym</b>. <i>v</i>. ὑποδώριος.`

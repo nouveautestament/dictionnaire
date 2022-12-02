@@ -1,0 +1,1 @@
+lar[49165]=`<i>adv</i>., à la manière des Juifs, judaïquement, JOS. <i>B.J. 6, 1, 3</i> ; NT. <i>Gal. 2, 14</i>.`

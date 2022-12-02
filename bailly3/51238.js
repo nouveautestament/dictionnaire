@@ -1,0 +1,1 @@
+lar[51238]=`<b>ας (ἡ) :<br>      1</b> beauté d’un travail, PLUT. <i>Per. 13</i>.<br><b>      2</b> habileté dans un art, ATH. <i>191b ;</i> PORPH. <i>Abst. 4, 3</i> ; SOPATER (<i>W. 5, 22).</i><p><b>Étym</b>. καλλίτεχνος.`

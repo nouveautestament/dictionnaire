@@ -1,0 +1,1 @@
+lar[39441]=`<b>ἐπι·τιτράω</b> (<i>inf. ao</i>. ἐπιτρῆσαι) percer à la surface, ORIB. <i>p. 98</i>.`

@@ -1,0 +1,1 @@
+lar[17118]=`pour *ἀϝείρω, <i>c</i>. ἀείρω, ALCM. (DIOSC. <i>Col. 2, 29 Bgk</i>).`

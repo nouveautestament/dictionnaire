@@ -1,0 +1,1 @@
+lar[15684]=`<i>contr. de</i> ἀρόω, <i>ou fut. de</i> αἴρω.`

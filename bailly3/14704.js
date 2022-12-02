@@ -1,0 +1,1 @@
+lar[14704]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> Aristokleia, <i>f</i>. DÉM. <i>59, 19 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. Ἀριστοκλῆς.`

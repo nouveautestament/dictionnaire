@@ -1,0 +1,1 @@
+lar[32140]=`<b>ἐκ·τεφρόω-ῶ</b>, réduire en cendres, STR. <i>248</i> ; PLUT. <i>M. 696b ;</i> DIOSC. <i>1, 181</i>.<p><b>Étym</b>. ἐκ, τέφρα.`

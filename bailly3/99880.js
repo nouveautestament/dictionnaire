@@ -1,0 +1,1 @@
+lar[99880]=`<b>τραγῳδο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> poète tragique, AR. <i>Th. 30</i> ; PLAT. <i>Rsp. 597e, etc</i>.<p><b>Étym</b>. τραγῳδία, ποιέω.`

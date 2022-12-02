@@ -1,0 +1,1 @@
+lar[32172]=`<b>ατος (τὸ)</b> morceau, segment, zone, ARSTT. <i>Meteor. 2, 5, 12</i>.<p><b>Étym</b>. ἐκτέμνω.`

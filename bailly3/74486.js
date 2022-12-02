@@ -1,0 +1,1 @@
+lar[74486]=`<font color="purple">[ᾰ]</font><br><b>      1</b> attirer en servant d’appeau (<i>v</i>. παλεύτρια) AR. <i>Av. 1083, 1087</i>.<br><b>      2</b> <i>fig</i>. attirer dans un piège, allécher, séduire, PLUT. <i>M. 52b, Syll. 28, etc</i>.`

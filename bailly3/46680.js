@@ -1,0 +1,1 @@
+lar[46680]=`<b>θεο·κρατία, ας (ἡ)</b> <font color="purple">[ᾰτ]</font> théocratie, gouvernement de Dieu, JOS. <i>c. Ap. 2, 16</i>.<p><b>Étym</b>. θ. κράτος.`

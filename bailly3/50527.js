@@ -1,0 +1,1 @@
+lar[50527]=`<b>α (ὁ)</b> prison souterraine pour les criminels, <i>à Sparte,</i> THC. <i>1, 134</i> ; PAUS. <i>4, 18, 4</i> ; PLUT. <i>Ages. 19</i>.<p><b>Étym</b>. <i>cf</i>. καιέτας.`

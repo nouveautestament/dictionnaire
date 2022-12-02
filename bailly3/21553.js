@@ -1,0 +1,1 @@
+lar[21553]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> voisinage, STR. <i>591</i>.<p><b>Étym</b>. γείτων.`

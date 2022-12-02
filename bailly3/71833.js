@@ -1,0 +1,1 @@
+lar[71833]=`<b>ὄντος (τὸ)</b> <i>neutre de</i> ὤν, <i>part. prés. de</i> εἰμί, être.`

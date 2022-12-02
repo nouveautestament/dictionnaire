@@ -1,0 +1,1 @@
+lar[98084]=`<b>τεκνοφονέω-ῶ</b>, tuer ses propres enfants, ANTH. <i>9, 345</i>.<p><b>Étym</b>. τεκνοφόνος.`

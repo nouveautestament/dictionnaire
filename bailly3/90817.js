@@ -1,0 +1,1 @@
+lar[90817]=`<b>οῦ (ὁ)</b> qui surveille <i>ou</i> examine les bagages, CRAT. (<i>Com. fr. 2, 106).</i><p><b>Étym</b>. σκεῦος, ὤρα.`

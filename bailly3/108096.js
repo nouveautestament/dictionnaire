@@ -1,0 +1,1 @@
+lar[108096]=`<b>ου (τὸ)</b> <font color="purple">[ᾰμ]</font> <i>dim. de</i> χειράμαξα PÉTRON. <i>Satyr. 28</i>.`

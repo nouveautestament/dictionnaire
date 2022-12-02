@@ -1,0 +1,1 @@
+lar[49758]=`<font color="purple">[ῑ̆ᾰ]</font> avec une égale vitesse, POL. <i>34, 4, 6</i> ; STR. <i>25</i>.<p><b>Étym</b>. ἰσοταχής.`

@@ -1,0 +1,1 @@
+lar[88516]=`<b>ου</b> (ῥ) <font color="purple">[ᾰ]</font> Rhigbasos, <i>chef indien,</i> NONN. <i>D. 26, 249</i>.`

@@ -1,0 +1,1 @@
+lar[74872]=`<b>παν·απήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰᾰ]</font> qui ne cause aucune douleur, aucun mal à, <i>dat</i>. HÉS. <i>O. 809</i> ; ANTH. <i>9, 525</i>.<p><b>Étym</b>. π. ἀπήμων.`

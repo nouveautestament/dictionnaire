@@ -1,0 +1,1 @@
+lar[31034]=`<b>ἑκατόντ·ανδρος, ος, ον</b> <font color="purple">[κᾰ]</font> de cent hommes, JUL. <i>396b Migne</i>.<p><b>Étym</b>. ἑ. ἀνήρ.`

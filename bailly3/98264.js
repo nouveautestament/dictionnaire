@@ -1,0 +1,1 @@
+lar[98264]=`<b>ατος (τὸ)</b> enceinte sacrée, bois sacré, temple, DC. <i>42, 26 ; 57, 9</i>.<p><b>Étym</b>. τεμενίζω.`

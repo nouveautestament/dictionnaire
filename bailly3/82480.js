@@ -1,0 +1,1 @@
+lar[82480]=`<b>ας (ἡ)</b> abondance de nourriture, de suc nourricier, TH. <i>C.P. 5, 15, 4</i> ; CLÉM. <i>176</i>.<p><b>Étym</b>. πολυτρόφος.`

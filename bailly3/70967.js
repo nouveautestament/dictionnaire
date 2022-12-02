@@ -1,0 +1,1 @@
+lar[70967]=`<font color="purple">[ῐγ]</font> <i>adv</i>., peu souvent, rarement, ATT. (EUR. <i>Or. 919</i>) ; PHILIPP. (DÉM. <i>161, 24) etc</i>.<p><b>Étym</b>. ὀλίγος, -άκις.`

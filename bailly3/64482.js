@@ -1,0 +1,1 @@
+lar[64482]=`faire la sieste <i>ou</i> méridienne, JOS. <i>A.J. 7, 2, 1</i> ; STR. <i>694</i>.<p><b>Étym</b>. μεσημβρία.`

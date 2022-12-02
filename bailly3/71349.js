@@ -1,0 +1,1 @@
+lar[71349]=`<b>ὀμβρο·δοσία, ας (ἡ)</b> action de procurer de la pluie, CHRYS. <i>7, 325</i>.<p><b>Étym</b>. ὄμβρος, δοτός.`

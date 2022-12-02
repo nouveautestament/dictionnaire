@@ -1,0 +1,1 @@
+lar[96533]=`<font color="purple">[ῡ]</font> (<i>seul. prés. et impf</i>. ἐσύριττον) <i>att. c</i>. συρίζω.`

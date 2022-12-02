@@ -1,0 +1,1 @@
+lar[105995]=`<b>φιλοπευστέω-ῶ</b> <font color="purple">[ῐ]</font> aimer à savoir <i>ou</i> à questionner, être curieux, POL. <i>3, 59, 6</i> ; STR. <i>644</i>.<p><b>Étym</b>. φιλοπεύστης.`

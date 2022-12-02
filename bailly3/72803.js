@@ -1,0 +1,1 @@
+lar[72803]=`<b>όεσσα, όεν</b> <font color="purple">[ῑᾰ]</font> préparé avec de l’origan, NIC. <i>Th. 65</i>.<p><b>Étym</b>. ὀρίγανος.`

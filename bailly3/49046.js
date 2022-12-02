@@ -1,0 +1,1 @@
+lar[49046]=`<i>seul. nom. et acc</i>. <b>ἶνιν</b>, <i>ou sel. d’autres,</i> <b>ἴνις, ἴνιν (ὁ, ἡ)</b> enfant, fils <i>ou</i> fille, ESCHL. <i>Eum. 323, etc. ; Suppl. 43, 251</i> ; EUR. <i>H.f. 354, Tr. 571</i> ; LYC. <i>570 ; fém. seul</i>. EUR. <i>I.A. 119</i>.`

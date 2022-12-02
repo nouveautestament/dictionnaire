@@ -1,0 +1,1 @@
+lar[19820]=`<b>υος (ὁ)</b> Bitys, <i>Argien,</i> ARSTT.`

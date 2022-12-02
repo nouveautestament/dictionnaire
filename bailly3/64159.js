@@ -1,0 +1,1 @@
+lar[64159]=`<b>οῦ (ὁ)</b> attente, retard, délai, EPIC. (STOB. <i>Fl. 16, 28, t. 1, p. 276, l. 23</i>) ; DH. <i>7, 17, etc</i>.<p><b>Étym</b>. μέλλω.`

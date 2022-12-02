@@ -1,0 +1,1 @@
+lar[17994]=`<b>ἄ·φευκτος, ος, ον</b>, inévitable, PHILÉM. PLUT.<p><b>Étym</b>. ἀ, φεύγω.`

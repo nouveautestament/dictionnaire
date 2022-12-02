@@ -1,0 +1,1 @@
+lar[273]=`<b>ἀγαθόω-ῶ</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> faire du bien à, <i>acc</i>. SPT. <i>Jer. 51, 27, ou dat</i>. SPT. <i>1Reg. 25, 31</i>.<br><b>      2</b> faire le bien, NUMÉN. (EUS. <i>3, 905 Migne).</i><p><b>Étym</b>. ἀγαθός.`

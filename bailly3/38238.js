@@ -1,0 +1,1 @@
+lar[38238]=`<b>ἐπι·κωλύω</b>, empêcher, <i>acc</i>. THC. <i>6, 17</i> ; XÉN. <i>Œc. 8, 4</i> ; τινά τι, SOPH. <i>Ph. 1242,</i> qqn de faire qqe ch.`

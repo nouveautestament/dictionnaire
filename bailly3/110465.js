@@ -1,0 +1,1 @@
+lar[110465]=`<b>εος (τὸ)</b> <i>dor. c</i>. ὄρος, montagne, THCR. <i>Idyl. 1, 75, 123</i>.`

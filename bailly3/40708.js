@@ -1,0 +1,1 @@
+lar[40708]=`<b>αου (ὁ) :<br>      1</b> bélier, LYC. <i>1316</i>.<br><b>      2</b> sanglier, CALL. <i>fr. 335</i>.<p><b>Étym</b>. <i>inconnue</i>.`

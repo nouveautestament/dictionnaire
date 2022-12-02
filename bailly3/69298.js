@@ -1,0 +1,1 @@
+lar[69298]=`<b>ητος (ἡ)</b> lenteur, nonchalance, HPC. <i>171c ;</i> ARSTT. <i>Rhet. 2, 15, 3</i>.<p><b>Étym</b>. νωθρός.`

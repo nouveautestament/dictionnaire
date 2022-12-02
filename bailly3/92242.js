@@ -1,0 +1,1 @@
+lar[92242]=`<b>σταχυό·θριξ, τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰῐχ]</font> à la chevelure d’épis, couronné d’épis, ANTH. <i>4, 1, 43</i>.<p><b>Étym</b>. στ. θρίξ.`

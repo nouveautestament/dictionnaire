@@ -1,0 +1,1 @@
+lar[89415]=`<b>(τὸ)</b> <i>au plur</i>. <b>σάρια (τὰ)</b> <i>plante aquatique d’Égypte,</i> TH. <i>H.P. 4, 8, 5</i>.`

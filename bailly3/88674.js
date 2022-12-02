@@ -1,0 +1,1 @@
+lar[88674]=`<b>ῥοδ·έλαιον, ου (τὸ)</b> huile <i>ou</i> essence de rose, GAL. <i>14, 545</i>.<p><b>Étym</b>. ῥ. ἔλαιον.`

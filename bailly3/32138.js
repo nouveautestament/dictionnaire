@@ -1,0 +1,1 @@
+lar[32138]=`<b>έως (ὁ)</b> setier, la 6<sup>e</sup> partie d’un médimne, AR. <i>Eccl. 547</i>.<p><b>Étym</b>. ἕκτος.`

@@ -1,0 +1,1 @@
+lar[36282]=`<b>οῦ (ὁ)</b> action d’éveiller, BAS. <i>3, 932b Migne</i>.<p><b>Étym</b>. ἐξυπνίζω.`

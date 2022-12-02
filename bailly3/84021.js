@@ -1,0 +1,1 @@
+lar[84021]=`<b>προ·εγγράφω</b> <font color="purple">[ᾰ]</font> consigner auparavant dans un écrit, DC. <i>39, 17</i>.`

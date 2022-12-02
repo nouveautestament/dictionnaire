@@ -1,0 +1,1 @@
+lar[18178]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qui rend semblable <i>ou</i> qui assimile à soi-même, JAMBL. PROCL.<p><b>Étym</b>. ἀφομοιόω.`

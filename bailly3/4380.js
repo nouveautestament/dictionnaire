@@ -1,0 +1,1 @@
+lar[4380]=`<b>ἀλητο·βόρος, ος, ον</b> <font color="purple">[ᾰ]</font> mangeur de farine, <i>càd</i>. mendiant, NAZ. <i>Carm. 14, 94, p. 89c</i>.<p><b>Étym</b>. ἀλητόν, βιβρώσκω.`

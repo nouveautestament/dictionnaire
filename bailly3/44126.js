@@ -1,0 +1,1 @@
+lar[44126]=`<b>      1</b> surveiller, veiller à : τι, ESCHL. <i>Suppl. 627, 678 ; Eum. 530</i> ; τινός, ESCHL. <i>Pers. 7</i> ; περί τινος, LUC. <i>Char. 10,</i> à qqe ch.<br><b>      2</b> être éphore, THC. <i>8, 6</i> ; XÉN. <i>Hell. 1, 3, 1</i>.<p><b>Étym</b>. ἔφορος.`

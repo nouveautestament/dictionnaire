@@ -1,0 +1,1 @@
+lar[105612]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> baiser, ESCHL. <i>fr. 135</i> ; SOPH. <i>fr. 482</i> ; EUR. <i>Andr. 416, etc.</i> ; XÉN. <i>Mem. 1, 3, 8, etc</i>.<p>➳ <i>Dor</i>. φίλαμα <font color="purple">[λᾱ]</font> MOSCH. <i>3, 69</i>.<p><b>Étym</b>. φιλέω.`

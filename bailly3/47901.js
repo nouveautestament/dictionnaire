@@ -1,0 +1,1 @@
+lar[47901]=`<b>θυμ·ηγερέω-ῶ</b> <font color="purple">[ῡ]</font> rassembler son courage, OD. <i>7, 283</i>.<p><b>Étym</b>. θυμός, ἀγείρω.`

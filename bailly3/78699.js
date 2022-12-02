@@ -1,0 +1,1 @@
+lar[78699]=`<b>περι·κάθημαι :<br>      1</b> être assis autour de : τραπέζῃ, HDT. <i>3, 32,</i> d’une table ; τινα, HDT. <i>3, 14,</i> auprès de qqn.<br><b>      2</b> camper autour de, assiéger, <i>acc</i>. HDT. <i>1, 103 ; 5, 126, etc</i>.<p>➳ <i>Ion</i>. περικάτημαι, HDT. <i>ll. cc. ; impf. 3 pl</i>. περιεκατέατο, HDT. <i>8, 111</i>.`

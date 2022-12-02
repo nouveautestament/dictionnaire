@@ -1,0 +1,1 @@
+lar[35677]=`<b>οῦ (ὁ)</b> action de se changer en écume, CLÉM. <i>1, 297 Migne</i>.<p><b>Étym</b>. ἐξαφρίζω.`

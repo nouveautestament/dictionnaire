@@ -1,0 +1,1 @@
+lar[107672]=`<b>χαλκο·μίτρας, α</b> <font color="purple">[ᾱ final]</font> à la ceinture garnie d’airain <i>ou</i> de cuivre, PD. <i>N. 10 fin</i>.<p><b>Étym</b>. χ. μίτρα.`

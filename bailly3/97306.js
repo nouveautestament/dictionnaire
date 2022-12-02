@@ -1,0 +1,1 @@
+lar[97306]=`<b>ατος (τὸ)</b> leçon de sagesse, <i>d’où</i> leçon, correction, ESCHL. <i>Suppl. 992</i> ; APP. <i>Lib. 78</i>.<p><b>Étym</b>. σωφρονίζω.`

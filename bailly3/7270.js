@@ -1,0 +1,1 @@
+lar[7270]=`<i>adv</i>., sans contradiction, <i>d’où</i> promptement, POL. <i>23, 8, 11, etc</i>.`

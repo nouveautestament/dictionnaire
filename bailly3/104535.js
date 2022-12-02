@@ -1,0 +1,1 @@
+lar[104535]=`<b>ὑψί·πυργος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> aux hautes tours, SIM. <i>fr. 115, 3 Bgk</i> ; ESCHL. <i>Eum. 688</i> ; SOPH. <i>Tr. 354</i> ; EUR. <i>Tr. 376</i>.<br><b>      2</b> haut comme une tour, ESCHL. <i>Suppl. 96</i>.<p><b>Étym</b>. ὕ. πύργος.`

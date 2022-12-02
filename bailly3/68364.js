@@ -1,0 +1,1 @@
+lar[68364]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> fait de nerfs, ARSTT. <i>G.A. 5, 7, 17</i>.<br><b>      2</b> fibreux, <i>en parl. de plantes,</i> PLAT. <i>Pol. 279e.</i><br><b>      3</b> nerveux, STR. <i>154</i>.<br><b>      4</b> muni de cordes, <i>en parl. d’une lyre,</i> DS. <i>1, 16</i>.<p><b>Étym</b>. νεῦρον.`

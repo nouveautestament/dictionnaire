@@ -1,0 +1,1 @@
+lar[90349]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠ]</font> Simylos, <i>h</i>. DÉM. <i>18, 262 Baiter-Sauppe, etc</i>.`

@@ -1,0 +1,1 @@
+lar[58440]=`<b>Κυδι·μάχη, ης (ἡ)</b> <font color="purple">[ῡῐᾰ]</font> Kydimakhè, <i>f</i>. LUC. <i>Tox. 26</i>.<p><b>Étym</b>. <i>v</i>. Κυδίμαχος.`

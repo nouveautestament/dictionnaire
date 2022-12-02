@@ -1,0 +1,1 @@
+lar[109670]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> narration <i>ou</i> description mensongère, inexacte, ARCHYT. (STOB. <i>Ecl. phys. p. 724).</i><p><b>Étym</b>. ψευδογράφος.`

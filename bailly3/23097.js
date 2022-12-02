@@ -1,0 +1,1 @@
+lar[23097]=`<b>Δαμ·άγων (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Dâmagôn, <i>h</i>. THC. <i>3, 92</i>.<p><b>Étym</b>. δᾶμος, ἀγών.`

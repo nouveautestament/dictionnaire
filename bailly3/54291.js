@@ -1,0 +1,1 @@
+lar[54291]=`<b>ου (ὁ) :<br>      1</b> petite tige servant de lampadaire, JOS. <i>B.J. 7, 5, 5</i>.<br><b>      2</b> verge, DS. <i>p. 521, 10</i>.<p><b>Étym</b>. καυλός.`

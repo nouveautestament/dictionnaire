@@ -1,0 +1,1 @@
+lar[89797]=`<b>οῦ (τὸ)</b> sorte de saule, DIOSC. <i>1, 135 ; cf</i>. ἄγνος.`

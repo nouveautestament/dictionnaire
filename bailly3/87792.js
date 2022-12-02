@@ -1,0 +1,1 @@
+lar[87792]=`<b>πυργο·σείστης, ου (ὁ)</b> qui ébranle les tours, <i>n. d’une machine de guerre,</i> RHÉT. <i>3, 580 W</i>.<p><b>Étym</b>. πύργος, σείω.`

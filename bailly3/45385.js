@@ -1,0 +1,1 @@
+lar[45385]=`<b>ἡμι·βάρβαρος, ος, ον</b> <font color="purple">[ῐᾰρο]</font> à demi barbare, STR. <i>611</i>.<p><b>Étym</b>. ἡμι-, β.`

@@ -1,0 +1,1 @@
+lar[97470]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> femme de charge, intendante, IL. <i>6, 390 ; 24, 302</i> ; OD. <i>2, 345</i> ; XÉN. <i>Œc. 9, 11 ; 10, 10 ; fig</i>. dispensatrice, PD. <i>O. 14, 9 ; 13, 10</i>.<p>➳ <i>Ion</i>. ταμίη, HOM. OD. <i>ll. cc</i>.<p><b>Étym</b>. τέμνω.`

@@ -1,0 +1,1 @@
+lar[105155]=`<b>φερε·σσακής, ής, ές</b>, <i>gén</i>. <b>έος</b> <font color="purple">[ᾰ]</font> qui porte un bouclier, HÉS. <i>Sc. 13</i> ; TRIPHIOD. <i>11</i> ; NONN. <i>D. 26, 291 ; Jo. 18, 60</i>.<p><b>Étym</b>. φ. σάκος.`

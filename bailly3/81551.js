@@ -1,0 +1,1 @@
+lar[81551]=`<b>πολια·νόμος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> édile <i>ou</i> magistrat municipal, DC. <i>43, 28 et 48</i>.<p><b>Étym</b>. πόλις, νέμω.`

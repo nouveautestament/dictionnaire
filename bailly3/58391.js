@@ -1,0 +1,1 @@
+lar[58391]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κυβερνήτης, OD. <i>8, 557 ; fig</i>. PD. <i>P. 4, 488</i>.<p>➳ <i>Dor</i>. κυβερνατήρ <font color="purple">[ᾱ]</font> PD. <i>l. c. etc</i>.<p><b>Étym</b>. κυβερνάω.`

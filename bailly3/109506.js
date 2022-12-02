@@ -1,0 +1,1 @@
+lar[109506]=`couper en petits morceaux, PORPH. <i>Abst. 2, 6</i>.<p><b>Étym</b>. <i>cf</i>. ψάω.`

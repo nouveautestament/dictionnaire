@@ -1,0 +1,1 @@
+lar[86351]=`<b>προσ·πολεμέω-ῶ</b>, faire la guerre à, <i>dat</i>. THC. <i>8, 96</i> ; XÉN. <i>An. 1, 6, 6</i> ; PLAT. <i>Rsp. 332e, etc</i>.`

@@ -1,0 +1,1 @@
+lar[91506]=`<b>(ὁ)</b> Smindyridès :<br><b>      1</b> <i>n. d’un homme célèbre pour son luxe,</i> HDT. <i>6, 127</i> ; EL. <i>V.H. 9, 24, etc.</i><br><b>      2</b> <i>autre,</i> AND. <i>1, 15 Baiter-Sauppe</i>.`

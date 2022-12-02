@@ -1,0 +1,1 @@
+lar[35098]=`<b>ίδος (ἡ)</b> incision, balafre qu’on se fait en signe de deuil, SPT. <i>Lev. 19, 28 ; 21, 5 ; Jer. 16, 6</i>.<p><b>Étym</b>. ἐντέμνω.`

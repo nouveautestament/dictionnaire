@@ -1,0 +1,1 @@
+lar[74714]=`<b>παμ·μήστωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> tout à fait inventif, tout à fait industrieux, POÈT. (DS. <i>Exc. Vat. p. 123</i>) ; LYC. <i>490</i>.<p><b>Étym</b>. π. μήστωρ.`

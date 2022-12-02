@@ -1,0 +1,1 @@
+lar[36264]=`<b>ἐξ·υδρωπιάω-ῶ</b>, devenir <i>ou</i> être hydropique, ARSTT. <i>H.A. 5, 20, 5</i>.<p><b>Étym</b>. ἐξ, ὕδρωψ.`

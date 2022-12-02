@@ -1,0 +1,1 @@
+lar[101782]=`<b>ὑμενο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> qui ressemble à une membrane, membraneux, HPC. <i>595, 41 ; 1013f ;</i> ARSTT. <i>H.A. 3, 15, 1</i>.<p><b>Étym</b>. ὑμήν, εἶδος.`

@@ -1,0 +1,1 @@
+lar[2188]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> javelot de chasse <i>ou</i> de combat, IL. <i>2, 774</i> ; OD. <i>4, 626</i> ; ANTH. <i>6, 57</i>.<p><b>Étym</b>. <i>inconnue</i>.`

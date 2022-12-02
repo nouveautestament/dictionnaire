@@ -1,0 +1,1 @@
+lar[11199]=`<b>ἁπαλο·σύγκριτος, ος, ον</b> <font color="purple">[ᾰᾰῐ]</font> d’une chair délicate et ferme, ORIB. <i>p. 9, 12 Mai</i>.<p><b>Étym</b>. ἁ. σύγκριτος.`

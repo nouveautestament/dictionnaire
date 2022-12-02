@@ -1,0 +1,1 @@
+lar[73398]=`<b>ά, όν :<br>      1</b> prompt, rapide, agile, IL. <i>1, 321 ; 6, 381</i> ; OD. <i>4, 23</i> ; AR. <i>Av. 912</i> ; μάζα, MATR. (ATH. <i>136d</i>) pâte faite à la hâte.<br><b>      2</b> perçant, déchirant, OPP. <i>H. 2, 529</i>.<p><b>Étym</b>. <i>cf</i>. ὀτρύνω.`

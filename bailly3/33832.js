@@ -1,0 +1,1 @@
+lar[33832]=`<b>ἐν·αλδαίνω</b> (<i>part. ao. fém</i>. ἐναλδήνασα) faire croître dans, NIC. <i>Al. 409</i>.`

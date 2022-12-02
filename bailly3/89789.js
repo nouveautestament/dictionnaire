@@ -1,0 +1,1 @@
+lar[89789]=`<b>ατος (τὸ) :<br>      1</b> sujet d’orgueil, DC. <i>50, 27</i>.<br><b>      2</b> orgueil, SEXT. <i>P. 3, 201</i>.<p><b>Étym</b>. σεμνολογέω.`

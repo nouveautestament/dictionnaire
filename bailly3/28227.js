@@ -1,0 +1,1 @@
+lar[28227]=`<b>δυσ·απούλωτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à cicatriser, qui se cicatrise difficilement, AÉT. <i>14, 2</i> ; HIPPIATR. <i>86, 90</i>.<p><b>Étym</b>. δ. ἀπουλόω.`

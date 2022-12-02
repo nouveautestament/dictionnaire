@@ -1,0 +1,1 @@
+lar[96573]=`<b>εως (ἡ)</b> <font color="purple">[ρῠ]</font> <i>c</i>. σύρρευσις, POL. <i>9, 43, 5</i> ; DS. <i>1, 39</i> ; DH. <i>Comp. 16</i>.`

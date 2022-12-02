@@ -1,0 +1,1 @@
+lar[82308]=`<b>πολυ·πρόβατος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>sup</i>. -ώτατος, riche en moutons, en troupeaux, HDT. <i>5, 49</i>.<p><b>Étym</b>. π. πρόβατον.`

@@ -1,0 +1,1 @@
+lar[51336]=`<b>ων (οἱ)</b> <font color="purple">[ᾰ]</font> habitants des Kalydnes <i>ou</i> de Kalydna, HDT. <i>7, 99</i>.<p><b>Étym</b>. <i>v</i>. Καλύδναι, Καλύδνα.`

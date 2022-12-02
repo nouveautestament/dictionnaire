@@ -1,0 +1,1 @@
+lar[27000]=`<b>διπυρίτης ἄρτος (ὁ)</b> <font color="purple">[ῠῑ]</font> pain cuit deux fois, biscuit, HPC. <i>546, 13</i>.<p><b>Étym</b>. δίπυρος.`

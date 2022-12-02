@@ -1,0 +1,1 @@
+lar[110069]=`(<i>seul. prés</i>.) broyer <i>ou</i> émietter, NT. <i>Luc. 6, 1</i>.<br><b><i>Moy.</i></b> broyer pour son usage, <i>acc</i>. NIC. <i>Th. 629</i>.<p><b>Étym</b>. ψάω.`

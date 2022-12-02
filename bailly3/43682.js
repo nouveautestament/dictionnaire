@@ -1,0 +1,1 @@
+lar[43682]=`<b>εὐ·υποχώρητος, ος, ον</b>, qui fait place <i>ou</i> cède facilement, HERM. (STOB. <i>Ecl. 1, 1086).</i><p><b>Étym</b>. εὖ, ὑποχωρέω.`

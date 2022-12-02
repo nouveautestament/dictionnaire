@@ -1,0 +1,1 @@
+lar[46804]=`<b>θεό·συτος, ος, ον</b> <font color="purple">[ῠ]</font> ESCHL. <i>Pr. 116, 596, et</i> <b>θεό·σσυτος</b> <font color="purple">[ῠ]</font> ESCHL. <i>Pr. 643,</i> envoyé par les dieux.<p><b>Étym</b>. θ. σεύομαι.`

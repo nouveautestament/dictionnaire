@@ -1,0 +1,1 @@
+lar[95041]=`<b>συν·άχνυμαι</b> (<i>seul. prés. et impf</i>.) <font color="purple">[νῠ]</font> s’affliger avec, Q. SM. <i>2, 625</i> ; NONN. <i>D. 11, 213</i>.`

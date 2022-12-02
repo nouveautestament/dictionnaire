@@ -1,0 +1,1 @@
+lar[91571]=`<b>ου (ὁ)</b> habitant de Soles, <i>dans l’î. de Chypre,</i> HDT. <i>5, 110, etc</i>.<p><b>Étym</b>. Σόλοι.`

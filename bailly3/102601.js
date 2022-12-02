@@ -1,0 +1,1 @@
+lar[102601]=`<b>ὑπερ·κομίζω</b>, transporter par-dessus <i>ou</i> de l’autre côté, STR. <i>73</i>.`

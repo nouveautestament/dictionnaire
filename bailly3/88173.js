@@ -1,0 +1,1 @@
+lar[88173]=`<b>ῥαβδο·νόμος, ου (ὁ)</b> <i>litt</i>. « qui règle (les choses) au moyen d’une baguette », <i>à Rome,</i> licteur, PLUT. <i>Æmil. 32</i>.<p><b>Étym</b>. ῥάβδος, νέμω.`

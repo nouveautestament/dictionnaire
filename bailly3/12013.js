@@ -1,0 +1,1 @@
+lar[12013]=`<font color="purple">[ῐ]</font> <i>vb. de</i> ἄπειμι², XÉN. <i>An. 5, 3, 1</i> ; LUC. <i>Herm. 82, etc</i>.`

@@ -1,0 +1,1 @@
+lar[77737]=`<b>*Πελασγία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> Pélasgie, <i>n. commun à plus. contrées habitées par les Pélasges, particul. la Grèce,</i> HDT. <i>2, 56</i>.<p><b>Étym</b>. Πελασγοί.`

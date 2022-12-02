@@ -1,0 +1,1 @@
+lar[37081]=`<b>ἐπ·εμφέρω</b> (<i>prés</i>.) apporter en outre, ajouter, HIPPODAM. (STOB. <i>Fl. 103, 206) ; au pass</i>. NIC. <i>Al. 28</i>.`

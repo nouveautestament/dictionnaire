@@ -1,0 +1,1 @@
+lar[39415]=`<b>ἐπι·τηλίς, ίδος (ἡ)</b> pavot cornu, <i>plante,</i> NIC. <i>Th. 852</i>.`

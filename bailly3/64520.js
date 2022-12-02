@@ -1,0 +1,1 @@
+lar[64520]=`<b>*μεσόθι</b>, <i>seul</i>. <b>μεσσόθι</b>, <i>adv</i>., au milieu, HÉS. <i>O. 367</i> ; A.RH. <i>1, 1278</i> ; ARAT. <i>231, 527 ; avec le gén</i>. au milieu de, A.RH. <i>2, 172</i> ; ARAT. <i>511</i>.<p><b>Étym</b>. μέσος, -θι.`

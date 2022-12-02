@@ -1,0 +1,1 @@
+lar[50903]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec de mauvaises paroles, MAN. <i>5, 223</i>.`

@@ -1,0 +1,1 @@
+lar[3591]=`<i>ou</i> <b>ἀκοστέω</b> (<i>seul. part. ao</i>. ἀκοστήσας) nourri d’orge, bien nourri, IL. <i>6, 506 ; 15, 263</i>.<p><b>Étym</b>. ἀκοστή.`

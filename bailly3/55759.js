@@ -1,0 +1,1 @@
+lar[55759]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾱ]</font> serfs travaillant à la terre, <i>chez les Crétois,</i> CALLISTR. (ATH. <i>263e</i>).<p><b>Étym</b>. κλαρόω.`

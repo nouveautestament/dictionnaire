@@ -1,0 +1,1 @@
+lar[88990]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> fort, robuste, <i>en parl. de la force du corps,</i> PLAT. <i>Ax. 365a ;</i> ARSTT. <i>Physiogn. 5, 8, etc. ; en parl. de choses,</i> fort, solide, HDT. <i>3, 22</i> ; ANTH. <i>7, 413</i>.<p>•<i> Cp</i>. -ώτερος, HDT. <i>l. c. ; • Sup</i>. -ώτατος, PLUT. <i>C. Gracch. 4</i> ; DIOSC. <i>1, 15</i>.<p><b>Étym</b>. ῥώμη.`

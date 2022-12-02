@@ -1,0 +1,1 @@
+lar[93441]=`<font color="purple">[δῡ]</font> <i>vb. de</i> συγκινδυνεύω CIC. <i>Att. 9, 4, 2</i> ; EPICT. <i>Ench. 32, 3</i>.`

@@ -1,0 +1,1 @@
+lar[21189]=`<b>γαλα·θηνός, ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui tète encore, <i>càd</i>. tout jeune, tendre, délicat, <i>en parl. d’animaux (faons,</i> OD. <i>4, 336 ; agneaux,</i> HDT. <i>1, 183</i> ; THCR. <i>Idyl. 18, 41, etc.) ; en parl. d’enfants,</i> CLÉARQ. (ATH. <i>396c</i>).<p><b>Étym</b>. γάλα, θῆσθαι.`

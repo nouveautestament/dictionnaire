@@ -1,0 +1,1 @@
+lar[26067]=`<b>εως (ἡ) :<br>      1</b> délivrance d’une caution, DÉM. <i>724, 6</i>.<br><b>      2</b> rachat, libération, DH. <i>11, 32</i>.<p><b>Étym</b>. διεγγυάω.`

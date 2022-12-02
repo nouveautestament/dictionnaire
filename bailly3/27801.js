@@ -1,0 +1,1 @@
+lar[27801]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Drakontidès (<i>litt</i>. fils <i>ou</i> descendant de Dracon) :<br><b>      1</b> <i>surn. de Cécrops,</i> AR. <i>Vesp. 438 (voc</i>. -ίδη).<br><b>      2</b> <i>l’un des trente tyrans,</i> AR. <i>Vesp. 157</i> ; XÉN. <i>Hell. 2, 3, 2, etc</i>.<p><b>Étym</b>. Δράκων.`

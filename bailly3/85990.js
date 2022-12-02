@@ -1,0 +1,1 @@
+lar[85990]=`<b>προσ·κατερείπω</b>, détruire complètement, PAUS. <i>3, 7, 10</i>.`

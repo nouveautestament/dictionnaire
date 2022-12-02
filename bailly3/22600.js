@@ -1,0 +1,1 @@
+lar[22600]=`<b>γραμμο·ειδής, ής, ές</b>, qui a la forme d’une ligne, A. QUINT. <i>p. 105</i> ; P. ALEX. <i>Apot. 16, p. 35, l. 2 Boer</i>.<p><b>Étym</b>. γραμμή, εἶδος.`

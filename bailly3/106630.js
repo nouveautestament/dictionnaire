@@ -1,0 +1,1 @@
+lar[106630]=`<b>φονάω-ῶ</b> (<i>seul. prés</i>.) aimer le carnage <i>ou</i> le meurtre, SOPH. <i>Ph. 1209</i> ; EL. <i>V.H. 2, 44 ; 3, 9</i> ; φονῶν τὸ ὄμμα, PHILSTR. <i>874</i> ; HLD. <i>p. 68,</i> qui a le regard sanguinaire.<p><b>Étym</b>. φονή, <i>pour la format. cf</i>. τομάω, φαρμακάω.`

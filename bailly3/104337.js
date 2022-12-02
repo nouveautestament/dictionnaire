@@ -1,0 +1,1 @@
+lar[104337]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐχ]</font><br><b>      1</b> fouet armé de pointes pour les esclaves, AR. <i>Ran. 619, Pax 746</i> ; PLUT. <i>M. 1087f ;</i> ALCIPHR. <i>3, 43</i>.<br><b>      2</b> maladie des chevaux, <i>lorsque les poils de la queue deviennent raides comme les piquants du porc-épic,</i> HIPPIATR. <i>p. 171, 10</i>.<p><b>Étym</b>. ὕστριξ.`

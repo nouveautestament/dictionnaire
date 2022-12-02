@@ -1,0 +1,1 @@
+lar[13100]=`<b>ἀπόπλοος-ους, όου-ου (ὁ) :<br>      1</b> départ par eau, HDT. <i>8, 79</i>.<br><b>      2</b> retour par eau, XÉN. <i>An. 5, 6, 20</i> ; ARSTT. <i>Poet. 15, 10 ; 23, 7</i>.<p><b>Étym</b>. ἀποπλέω.`

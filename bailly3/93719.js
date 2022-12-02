@@ -1,0 +1,1 @@
+lar[93719]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> calomnie, ESCHN. <i>33, 19</i> ; PLUT. <i>Per. 37</i>.<br><b>      2</b> artifice de sophiste, ARSTT. <i>Soph. el. 15, 5</i>.<p><b>Étym</b>. συκοφαντέω.`

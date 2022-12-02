@@ -1,0 +1,1 @@
+lar[66949]=`<b>εως (ἡ)</b> action de déplacer avec un levier, <i>d’où</i> :<br><b>      1</b> réduction d’une luxation, HPC. <i>761g, 773c, etc.</i><br><b>      2</b> extirpation, ARÉT. <i>p. 117, 15</i>.<p><b>Étym</b>. μοχλεύω.`

@@ -1,0 +1,1 @@
+lar[107638]=`faire tourner rapidement sur le bout du doigt une pièce de cuivre sans la laisser tomber, ALEX. <i>(Bkk. p. 116, 10).</i><p><b>Étym</b>. χαλκός.`

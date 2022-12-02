@@ -1,0 +1,1 @@
+lar[9366]=`<b>ας (ἡ)</b> tranquillité assurée, sécurité, DL. <i>2, 87 dout</i>.<p><b>Étym</b>. ἀνοχλέω.`

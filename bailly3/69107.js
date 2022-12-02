@@ -1,0 +1,1 @@
+lar[69107]=`<b>ατος (τὸ)</b> lieu où les troupeaux passent la nuit, POL. <i>12, 4, 9</i>.<p><b>Étym</b>. νυκτερεύω.`

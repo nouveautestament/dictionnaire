@@ -1,0 +1,1 @@
+lar[62324]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> instruction qu’on reçoit d’un maître, D. CHR. <i>1, 155</i>.<p><b>Étym</b>. μαθητής.`

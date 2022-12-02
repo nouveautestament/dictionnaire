@@ -1,0 +1,1 @@
+lar[92403]=`<b>ου (τὸ) :<br>      1</b> moyen de se faire aimer, <i>n. d’une plante,</i> DIOSC. <i>4, 92</i>.<br><b>      2</b> <i>p. ext</i>. amour, ESCHL. <i>Ch. 241 ; au pl</i>. ESCHL. <i>Pr. 492, Eum. 192</i> ; EUR. <i>Hipp. 256</i>.<p><b>Étym</b>. στέργω.`

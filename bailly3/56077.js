@@ -1,0 +1,1 @@
+lar[56077]=`<b>κλινο·πώλιον, ου (τὸ)</b> <font color="purple">[ῑ]</font> marché où l’on vend des lits, des litières, <i>etc</i>. CRATÈS <i>Ep. 4</i>.<p><b>Étym</b>. κλίνη, πωλέω.`

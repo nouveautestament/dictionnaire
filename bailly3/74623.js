@@ -1,0 +1,1 @@
+lar[74623]=`<b>παλί·ρροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui reflue, EUR. <i>I.T. 1397</i>.<br><b>      2</b> agité d’un mouvement de flux et de reflux, OPP. <i>H. 2, 398 ; fig</i>. qui retombe sur la tête de qqn, EUR. <i>H.f. 759, etc</i>.<p><b>Étym</b>. π. ῥέω.`

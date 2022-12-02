@@ -1,0 +1,1 @@
+lar[19732]=`<b>ΐδος</b> <font color="purple">[ῐῠ <i>par licence p</i>. ῑῡ]</font> <i>adj. f</i>. de Bithynie, ANTH. <i>9, 808</i>.`

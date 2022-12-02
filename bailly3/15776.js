@@ -1,0 +1,1 @@
+lar[15776]=`<i>adv</i>., d’une manière impie, DC. <i>79, 9 (au</i> <i>• Sup</i>. ἀσεβέστατα).<p><b>Étym</b>. ἀσεβής.`

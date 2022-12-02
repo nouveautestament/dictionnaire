@@ -1,0 +1,1 @@
+lar[81296]=`<b>ποδο·ρρώρη, ης</b>, <i>adj. f</i>. aux pieds robustes <i>ou p.-ê</i>. agiles, CALL. <i>Dian. 215</i>.<p><b>Étym</b>. π. ῥώννυμι <i>ou</i> ῥώομαι.`

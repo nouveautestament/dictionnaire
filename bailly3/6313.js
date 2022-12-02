@@ -1,0 +1,1 @@
+lar[6313]=`<b>ἀμφι·πίπτω</b> (<i>prés. et ao.2</i> ἀμφέπεσον) se jeter autour de, embrasser, OD. <i>8, 523 ; dat</i>. SOPH. <i>Tr. 938 ; fig. avec l’acc</i>. PD. <i>O. 11, 98</i>.`

@@ -1,0 +1,1 @@
+lar[99349]=`<b>τιταν·ολέτης, ου (ὁ)</b> <font color="purple">[ῑᾱ]</font> destructeur des Titans, AUS. <i>Epigr. 29</i>.<p><b>Étym</b>. Τ. ὄλλυμι.`

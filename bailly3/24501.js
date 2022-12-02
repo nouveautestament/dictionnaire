@@ -1,0 +1,1 @@
+lar[24501]=`<b>δια·γογγύζω :<br>      1</b> murmurer entre soi, <i>en parl. de plus. pers</i>. NT. <i>Luc. 15, 2, etc.</i> ; κατά τινος, SPT. <i>Ex. 16, 7, 8</i> ; ἐπί τινα, SPT. <i>Num. 14, 2</i>, contre qqn.<br><b>      2</b> murmurer, <i>en gén</i>. HLD. <i>7, 27</i>.`

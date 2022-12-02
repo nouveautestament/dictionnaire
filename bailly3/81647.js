@@ -1,0 +1,1 @@
+lar[81647]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> maintes fois, souvent, HDT. <i>1, 42 ; 6, 21</i> ; XÉN. <i>An. 7, 3, 12</i>.<br><b>      2</b> de beaucoup de sortes, ESCHL. <i>Suppl. 468 ; en prose att</i>. PLAT. <i>Theæt. 179c, etc</i>.<p><b>Étym</b>. *πολλαχός <i>de</i> πολύς.`

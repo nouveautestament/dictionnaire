@@ -1,0 +1,1 @@
+lar[79633]=`<b>α, ον</b>, méprisable, NAZ. <i>3, 1223 Migne</i>.<p><b>Étym</b>. περιφρονέω.`

@@ -1,0 +1,1 @@
+lar[77785]=`devenir livide, HPC. <i>Coac. 152, 153</i>.<p><b>Étym</b>. πελιός.`

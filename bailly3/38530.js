@@ -1,0 +1,1 @@
+lar[38530]=`<b>Ἐπί·νικος, ου (ὁ)</b> <font color="purple">[νῑ]</font> Épinikos, <i>h</i>. DÉM. <i>1491</i>.<p><b>Étym</b>. <i>v</i>. ἐπίνικος.`

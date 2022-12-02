@@ -1,0 +1,1 @@
+lar[40889]=`<b>άδος</b>, <i>adj. f</i>. amoureuse, ANTH. <i>9, 627</i>.<p><b>Étym</b>. ἔρως.`

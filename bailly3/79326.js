@@ -1,0 +1,1 @@
+lar[79326]=`<i>att</i>. <b>περιττολογία, ας (ἡ)</b> redondance, verbosité, ISOCR. <i>250e</i>.<p><b>Étym</b>. περισσολόγος.`

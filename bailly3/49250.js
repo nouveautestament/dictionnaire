@@ -1,0 +1,1 @@
+lar[49250]=`<b>ή, όν</b>, qui aime aller à cheval, bon cavalier, PLUT. <i>Alc. 23</i>.<p><b>Étym</b>. ἱππάζομαι.`

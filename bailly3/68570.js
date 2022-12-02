@@ -1,0 +1,1 @@
+lar[68570]=`<b>νη·πενθής, ής, ές</b>, qui dissipe le chagrin, <i>ép. d’Apollon,</i> ANTH. <i>9, 525, 13, ou</i> la douleur physique, OD. <i>4, 221</i> ; TH. <i>H.P. 9, 15</i> ; LUC. <i>Salt. 79</i>.<p><b>Étym</b>. νη-, πένθος.`

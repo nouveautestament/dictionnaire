@@ -1,0 +1,1 @@
+lar[95553]=`<b>συν·εξυμνέω-ῶ</b>, célébrer en même temps par un hymne, THÉM. <i>102b</i>.`

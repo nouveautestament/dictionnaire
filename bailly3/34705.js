@@ -1,0 +1,1 @@
+lar[34705]=`<b>ἐν·νεάζω :<br>      1</b> passer sa jeunesse dans, <i>dat</i>. HPC. <i>Aph. 1246</i>.<br><b>      2</b> être dans la fleur de la jeunesse, PHILSTR. <i>Ep. 51</i>.`

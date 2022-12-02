@@ -1,0 +1,1 @@
+lar[5969]=`<b>α, ον</b> <font color="purple">[ᾰῠ]</font> seulement effleuré, PLAT. <i>Ax. 366a</i>.<p><b>Étym</b>. ἀμυχή.`

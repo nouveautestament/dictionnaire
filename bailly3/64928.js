@@ -1,0 +1,1 @@
+lar[64928]=`<b>μετα·πρέπω</b> (<i>seul. prés. et impf</i>.) se distinguer parmi, <i>dat</i>. IL. <i>2, 481 ; avec ἐν et le dat</i>. A.RH. <i>3, 443</i> ; ORPH. <i>Arg. 804</i> ; πᾶσί τινι, HÉS. <i>Th. 377, ou</i> πάντεσσί τι, A.RH. <i>2, 784,</i> se distinguer entre tous par qqe ch.`

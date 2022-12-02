@@ -1,0 +1,1 @@
+lar[101846]=`<b>ὑο·ειδής, ής, ές</b>, en forme d’Υ (upsilon) : ὑοειδὲς ὀστοῦν, GAL. <i>2, 375 ; 4, 474,</i> os hyoïde (en forme d’Υ) qui tient à la racine de la langue.<p><b>Étym</b>. Ὗ, εἶδος.`

@@ -1,0 +1,1 @@
+lar[63811]=`<b>μελαμ·πέταλος, ος, ον</b> <font color="purple">[τᾰ]</font> aux feuilles noires, ANTH. <i>4, 1, 14</i>.<p><b>Étym</b>. μ. πέταλον.`

@@ -1,0 +1,1 @@
+lar[31274]=`<b>ας (ἡ)</b> l’art de lancer de loin <i>ou</i> au loin, IL. <i>5, 54 (au plur</i>.) ANTH. <i>6, 26, 2 ; 7, 29, 6</i> ; A. PL. <i>173, 2</i> ; STR. <i>357 etc</i>.<p><b>Étym</b>. ἑκηβόλος.`

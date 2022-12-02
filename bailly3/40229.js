@@ -1,0 +1,1 @@
+lar[40229]=`<b>ης, ες</b>, laborieux, difficile, HPC. <i>Aph. 1245</i> ; XÉN. <i>Mem. 2, 6, 9</i> ; PLUT. <i>Marc. 30</i> ; ἐργῶδές ἐστιν, <i>avec l’inf</i>. ARSTT. <i>Nic. 9, 10, 5,</i> il est difficile <i>ou</i> pénible de.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Nic. 1, 18, 8</i> ; LUC. <i>Halc. 4. • Sup</i>. -έστατος, XÉN. <i>Mem. 1, 3, 6</i>.<p><b>Étym</b>. ἔργον, -ωδης.`

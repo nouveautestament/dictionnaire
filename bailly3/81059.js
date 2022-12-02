@@ -1,0 +1,1 @@
+lar[81059]=`<b>ου (τὸ)</b> briqueterie, AR. <i>fr. 275</i> ; LYS. (HARP. <i>v° πλινθεῖον).</i><p>➳ <i>Dans une inscr. att. seul. au sens de</i> « plinthe » (<i>v</i>. πλίνθος) CIA. <i>2 add. 834, b, 2, 67 (329 av. J.-C.), v. Meisterh. p. 41</i>.<p><b>Étym</b>. πλινθεύω.`

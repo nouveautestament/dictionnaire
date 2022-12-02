@@ -1,0 +1,1 @@
+lar[9132]=`<b>ἀν·ισόω-ῶ</b> <font color="purple">[ᾰῐ]</font> (<i>seul. prés. et part. ao. pass</i>. ἀνισωθείς) égaler, égaliser, XÉN. <i>Cyr. 7, 5, 65</i> ; PLAT. <i>Pol. 289e ; au pass</i>. devenir égal, HDT. <i>7, 103</i>.<br><b><i>Moy.</i></b> égaler à soi <i>ou</i> pour soi, OPP. <i>H. 5, 37 (opt. ao. 3 sg</i>. ἀνισώσαιτο).<p><b>Étym</b>. ἀνά, ἰσόω.`

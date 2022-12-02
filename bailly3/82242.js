@@ -1,0 +1,1 @@
+lar[82242]=`<b>ης (ἡ)</b> <font color="purple">[σῠ]</font> course errante de tous côtés, MAN. <i>4, 222</i>.<p><b>Étym</b>. πολύπλαγκτος.`

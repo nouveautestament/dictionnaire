@@ -1,0 +1,1 @@
+lar[106473]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> éruption de pustules, HPC. (GAL. <i>Lex. Hipp. 19, 152).</i><p><b>Étym</b>. φλύζω.`

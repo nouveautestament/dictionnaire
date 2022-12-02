@@ -1,0 +1,1 @@
+lar[58661]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> gonflement <i>ou</i> soulèvement des vagues, ARSTT. <i>Inc. an. 9, 9</i>.<p><b>Étym</b>. κυμαίνω.`

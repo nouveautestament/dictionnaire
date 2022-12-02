@@ -1,0 +1,1 @@
+lar[52434]=`<b>ος, ον</b> <font color="purple">[βᾰ]</font><br><b>      1</b> qui descend du ciel, ORACL. (PORPH. <i>cité par</i> EUS. <i>P.E. 239c</i>).<br><b>      2</b> propice au retour, <i>ép. d’Apollon, qu’on invoquait pour rentrer dans sa patrie,</i> SCH.-EUR. <i>Ph. 1408</i>.<p><b>Étym</b>. καταιβατός.`

@@ -1,0 +1,1 @@
+lar[37950]=`<b>ἐπι·καταστρέφω</b>, renverser et poser sur, <i>dat</i>. DIOSC. <i>5, 91</i> ; GEOP. <i>10, 56, 6</i>.`

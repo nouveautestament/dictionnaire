@@ -1,0 +1,1 @@
+lar[82161]=`<b>πολυ·νιφής, ής, ές</b> <font color="purple">[ῠῐ]</font> tout couvert de neige, EUR. <i>Hel. 1326</i>.<p><b>Étym</b>. π. νείφω.`

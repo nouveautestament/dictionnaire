@@ -1,0 +1,1 @@
+lar[92280]=`<b>ητος (ἡ)</b> resserrement, constipation, HPC. <i>404, 27</i>.<p><b>Étym</b>. στεγνός.`

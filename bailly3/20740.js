@@ -1,0 +1,1 @@
+lar[20740]=`<b>βραχύ·τονος, ος, ον</b> <font color="purple">[ᾰῠ]</font> tendu de court : σκόρπιος βρ. PLUT. <i>Marc. 15,</i> scorpion (machine de siège) à courts faisceaux <i>ou</i> à cordes tordues, <i>càd</i>. trapu, surbaissé.<p>•<i> Cp</i>. -ώτερος, PHIL. BYZ. <i>Bel. 53</i>.<p><b>Étym</b>. βρ. τείνω.`

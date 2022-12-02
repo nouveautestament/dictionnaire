@@ -1,0 +1,1 @@
+lar[98327]=`<b>ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> tendre, facile à cuire, TH. <i>H.P. 8, 8, 6 ; C.P. 3, 21, 3 ; 4, 12, 1, etc.</i> ; PLUT. <i>M. 701d</i>.<p>•<i> Cp</i>. -ονέστερος, TH. <i>C.P. 5, 6, 12</i>.<p><b>Étym</b>. <i>cf</i>. τέρην.`

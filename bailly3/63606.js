@@ -1,0 +1,1 @@
+lar[63606]=`<b>μεθ·ίδρυσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> translation, déplacement, STR. <i>372</i> ; PLUT. <i>M. 927a</i>.<p><b>Étym</b>. μεθιδρύω.`

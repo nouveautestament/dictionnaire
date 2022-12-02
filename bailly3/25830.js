@@ -1,0 +1,1 @@
+lar[25830]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> transparence, clarté, <i>au pr</i>. TH. <i>Lap. 30 ; fig</i>. PLUT. <i>M. 354b ;</i> CLÉM. <i>374</i>.<p><b>Étym</b>. διαφαίνω.`

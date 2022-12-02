@@ -1,0 +1,1 @@
+lar[27138]=`<b>δί·φορος, ος, ον</b>, qui produit deux récoltes par an, AR. <i>Eccl. 708</i> ; ANTIPH. (ATH. <i>77d</i>).<p><b>Étym</b>. δίς, φέρω.`

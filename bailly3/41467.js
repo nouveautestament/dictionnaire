@@ -1,0 +1,1 @@
+lar[41467]=`<b>ἐτυμό·δρυς, υος (ἡ)</b> <font color="purple">[ῠμῡς, ῠο]</font> chêne franc, <i>arbre,</i> TH. <i>H.P. 3, 8, 2</i>.<p><b>Étym</b>. ἔ. δρῦς.`

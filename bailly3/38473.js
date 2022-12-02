@@ -1,0 +1,1 @@
+lar[38473]=`<b>ἐπί·μορτος, ος, ον</b>, pour une part : γῆ ἐπ. SOL. (POLL. <i>7, 151</i>) terre affermée moyennant un partage des produits.<p><b>Étym</b>. ἐπί, μορτή.`

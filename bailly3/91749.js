@@ -1,0 +1,1 @@
+lar[91749]=`<b>εως (ἡ)</b> <font color="purple">[γᾰ]</font> action d’emmailloter, NAZ. <i>2, 436 Migne</i>.<p><b>Étym</b>. σπαργανόω.`

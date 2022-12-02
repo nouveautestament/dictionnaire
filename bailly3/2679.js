@@ -1,0 +1,1 @@
+lar[2679]=`<b>ου (ὁ)</b> Ænitus, <i>fils d’Amulius,</i> PLUT. <i>Parall. min. 36</i>.`

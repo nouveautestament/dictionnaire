@@ -1,0 +1,1 @@
+lar[47911]=`<b>ή, όν</b> <font color="purple">[ῡᾱ]</font> propre à parfumer, PLAT. <i>Tim. 61c</i>.<p><b>Étym</b>. θυμιατός.`

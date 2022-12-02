@@ -1,0 +1,1 @@
+lar[3622]=`<b>(ὁ)</b> Akouphis, <i>chef des Nyséens,</i> PLUT. <i>Alex. 58</i>.`

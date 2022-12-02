@@ -1,0 +1,1 @@
+lar[17500]=`<b>αὐτό·ϊσος, ος, ον</b> <font color="purple">[ῐ]</font> égal en soi, ARSTT. <i>fr. 182</i> ; τὸ αὐτόϊσον, PROCL. l’égalité en soi.`

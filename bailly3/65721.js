@@ -1,0 +1,1 @@
+lar[65721]=`<b>μικρό·μυρτος, ος, ον</b> <font color="purple">[ῑ]</font> dont les baies sont petites comme celles du myrte, TH. <i>C.P. 6, 18, 5</i>.<p><b>Étym</b>. μ. μύρτον.`

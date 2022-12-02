@@ -1,0 +1,1 @@
+lar[105788]=`<b>φιλο·θέωρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime les spectacles, ALEX. (POLL. <i>6, 168</i>) ; ARSTT. <i>Nic. 1, 8, 10</i> ; CIC. <i>Fam. 7, 16</i> ; PLUT. <i>M. 1095c.</i><br><b>      2</b> qui aime à contempler, à méditer sur, <i>gén</i>. ARR. <i>Epict. 1, 29, 58</i> ; DH. <i>1, 6, 4</i>.<p><b>Étym</b>. φ. θεωρέω.`

@@ -1,0 +1,1 @@
+lar[54125]=`<b>κατ·ολοφύρομαι</b> <font color="purple">[ῡ]</font> se lamenter sur, <i>acc</i>. EUR. <i>Or. 339</i> ; XÉN. <i>Cyr. 7, 3, 16</i> ; πολλὰ κ. ἑαυτόν, DH. <i>5, 12,</i> se répandre en lamentations sur soi-même.`

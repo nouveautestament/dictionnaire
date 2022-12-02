@@ -1,0 +1,1 @@
+lar[104697]=`<b>ῆς (ἡ)</b> Phakè, <i>litt</i>. « lentille <i>ou</i> tachetée de rousseur » :<br><b>      1</b> <i>sœur d’Ulysse,</i> ATH. <i>158c.</i><br><b>      2</b> <i>sobriquet d’Hégémon de Thasos, auteur de parodies,</i> ATH. <i>406e.</i><br><b>      3</b> <i>titre d’une pièce de Sopatros,</i> ATH. <i>702b</i>.<p><b>Étym</b>. <i>v</i>. φακῆ.`

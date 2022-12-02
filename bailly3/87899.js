@@ -1,0 +1,1 @@
+lar[87899]=`<b>πυρι·σμάραγος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> qui pétille <i>ou</i> craque au feu, ANTH. <i>15, 21, 8</i>.<p><b>Étym</b>. π. σμαραγέω.`

@@ -1,0 +1,1 @@
+lar[3105]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ᾰκ]</font> épineux, NIC. <i>Th. 638</i>.<p><b>Étym</b>. ἄκανθα.`

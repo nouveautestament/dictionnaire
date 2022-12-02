@@ -1,0 +1,1 @@
+lar[72875]=`<b>ου (ὁ)</b> tige, pousse, <i>particul</i>. trognon de chou, ATH. <i>62f</i>.<p><b>Étym</b>. <i>propr. part. ao.2 moy. de</i> ὄρνυμι.`

@@ -1,0 +1,1 @@
+lar[65960]=`<b>μισ·αργυρία, ας (ἡ)</b> <font color="purple">[ῑῠ]</font> haine <i>ou</i> mépris de l’argent, DS. <i>15, 88</i>.<p><b>Étym</b>. μ. ἀργύριον.`

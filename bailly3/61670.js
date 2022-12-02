@@ -1,0 +1,1 @@
+lar[61670]=`<b>(ὁ)</b> = <i>lat</i>. Lucumo, <i>n. d’h. étrusque,</i> PLUT. <i>Cam. 15</i>.`

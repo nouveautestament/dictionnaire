@@ -1,0 +1,1 @@
+lar[65689]=`<b>μικρ·αῦλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῑᾰκ]</font> aux petits sillons, ANTH. <i>6, 36</i>.`

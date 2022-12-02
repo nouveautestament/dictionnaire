@@ -1,0 +1,1 @@
+lar[56299]=`<b>ου (τὸ)</b> sorte de trèfle, DIOSC. <i>3, 123</i>.`

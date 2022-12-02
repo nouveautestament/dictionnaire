@@ -1,0 +1,1 @@
+lar[107989]=`<b>(ἡ)</b> Kharopôs, <i>f</i>. PLUT. <i>Is. et Os. 29</i>.`

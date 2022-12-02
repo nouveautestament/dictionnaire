@@ -1,0 +1,1 @@
+lar[94869]=`<b>συν·αποικίζω</b>, faire émigrer ensemble <i>ou</i> en même temps, LUC. <i>Nav. 3</i>.`

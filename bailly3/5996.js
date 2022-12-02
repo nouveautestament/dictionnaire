@@ -1,0 +1,1 @@
+lar[5996]=`<b>ἀμφ·αραβίζω</b> <font color="purple">[ᾰρᾰ]</font> (<i>seul. impf. 3 sg</i>. ἀμφαράβιζεν) <i>c</i>. ἀμφαραβέω HÉS. <i>Sc. 64</i>.`

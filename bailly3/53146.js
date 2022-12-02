@@ -1,0 +1,1 @@
+lar[53146]=`<b>κατα·πραγματεύομαι</b> <font color="purple">[μᾰ]</font> intriguer pour, employer des moyens pour, <i>gén</i>. NAZ. <i>1, 341</i>.`

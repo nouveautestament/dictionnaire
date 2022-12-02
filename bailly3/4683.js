@@ -1,0 +1,1 @@
+lar[4683]=`<i>ou</i> <b>ἀλκυόνειον, ου (τὸ)</b> zoophyte semblable à un nid d’alcyon, HPC. GAL.`

@@ -1,0 +1,1 @@
+lar[14565]=`<b>(ὁ)</b> Ariapeithès, <i>Scythe,</i> HDT. <i>4, 76</i>.`

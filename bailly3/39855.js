@@ -1,0 +1,1 @@
+lar[39855]=`<b>ἔπ·οξυς, υς, υ</b>, aigrelet, légèrement aigre, HPC. <i>Acut. 394</i>.<p><b>Étym</b>. ἐπί, ὀξύς.`

@@ -1,0 +1,1 @@
+lar[53062]=`<b>κατα·πιέζω</b>, presser fortement, comprimer, ARSTT. <i>Plant. 2, 3, 7</i> ; NAZ. <i>1, 27, etc</i>.`

@@ -1,0 +1,1 @@
+lar[2585]=`<i>gén. épq</i>. <b>-αο (ὁ)</b> le fils d’Æmôn (Laerkès) IL. <i>17, 467</i>.`

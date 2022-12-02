@@ -1,0 +1,1 @@
+lar[43681]=`<b>εὔ·υπνος, ος, ον</b>, qui dort bien <i>ou</i> facilement, HPC. <i>267, 37</i>.<p><b>Étym</b>. εὖ, ὕπνος.`

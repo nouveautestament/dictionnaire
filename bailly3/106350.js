@@ -1,0 +1,1 @@
+lar[106350]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne l’humeur, les glaires, ARSTT. <i>H.A. 10, 1, 10</i> ; GAL. <i>Lex. Hipp. 590</i>.<br><b>      2</b> plein d’humeur, glaireux, A. APHR. <i>Probl. 1, 2</i>.<p>•<i> Cp</i>. -ώτερος, A. APHR. <i>l.c.</i> ; ORIB. <i>1, 100</i>.<p><b>Étym</b>. φλέγμα.`

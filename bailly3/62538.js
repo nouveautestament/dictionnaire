@@ -1,0 +1,1 @@
+lar[62538]=`<b>μακροπαραληκτέω-ῶ</b>, avoir la pénultième longue, DRAC. <i>30, 6</i>.<p><b>Étym</b>. μακροπαράληκτος.`

@@ -1,0 +1,1 @@
+lar[78513]=`<b>περι·δέξιον, ου (τὸ)</b> bracelet au bras droit, SPT. <i>Ex. 35, 22 ; Esaï. 3, 21</i>.<p><b>Étym</b>. π. δεξιά.`

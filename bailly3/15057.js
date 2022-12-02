@@ -1,0 +1,1 @@
+lar[15057]=`<b>ατος (τὸ)</b> pillage, PLAT. <i>Leg. 906d ;</i> PLUT. <i>Cato ma. 13</i>.<p><b>Étym</b>. ἁρπάζω.`

@@ -1,0 +1,1 @@
+lar[11091]=`<b>ἀπ·αγριόω-ῶ</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> rendre sauvage, <i>en parl. d’animaux,</i> PLAT. <i>Pol. 274b ; en parl. de plantes,</i> TH. <i>H.P. 3, 2, 2, etc.</i><br><b>      2</b> donner un aspect sauvage, <i>d’où au pass</i>. avoir un aspect sauvage, SOPH. <i>Ph. 226</i>.<br><b>      3</b> <i>fig</i>. exaspérer, PLUT. <i>Tim. 1, 41</i>.`

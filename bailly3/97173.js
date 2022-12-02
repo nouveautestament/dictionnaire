@@ -1,0 +1,1 @@
+lar[97173]=`<b>οῦ (ὁ)</b> maître d’exercices gymniques, DL. <i>8, 46</i>.<p><b>Étym</b>. σωμασκέω.`

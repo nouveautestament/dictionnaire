@@ -1,0 +1,1 @@
+lar[47580]=`<b>θρασυ·κάρδιος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au cœur intrépide, IL. <i>10, 41 ; 13, 343</i> ; HÉS. <i>Sc. 448</i> ; ANACR. <i>1, 4 (corr. p</i>. θρεοκάρδιος).<p><b>Étym</b>. θρ. καρδία.`

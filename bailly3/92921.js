@@ -1,0 +1,1 @@
+lar[92921]=`<b>στρεψο·δικο·πανουργία, ας (ἡ)</b> <font color="purple">[ῐᾰ]</font> perversion de la justice par de mauvaises chicanes, AR. <i>Av. 1468</i>.<p><b>Étym</b>. στρέφω, δίκη, πανουργία.`

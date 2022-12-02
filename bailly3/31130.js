@@ -1,0 +1,1 @@
+lar[31130]=`<b>ἐκγαλάκτωσις, εως (ἡ)</b> <font color="purple">[γᾰ]</font> changement en lait, TH. <i>C.P. 4, 4, 7</i>.<p><b>Étym</b>. ἐκγαλακτόω.`

@@ -1,0 +1,1 @@
+lar[3260]=`<b>ἀ·κέλευστος, ος, ον</b>, qui agit spontanément, sans avoir reçu d’ordres, ESCHL. <i>Ag. 731</i> ; SOPH. <i>Aj. 1263</i> ; EUR. <i>El. 71, Ion 1359</i> ; PLAT. <i>Leg. 953d</i>.<p><b>Étym</b>. ἀ, κελεύω.`

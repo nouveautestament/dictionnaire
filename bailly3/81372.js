@@ -1,0 +1,1 @@
+lar[81372]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. ποικιλτής, ALEX. (<i>Com. fr. 3, 524</i>).`

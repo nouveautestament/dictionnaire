@@ -1,0 +1,1 @@
+lar[103478]=`<b>ὑπο·ληρέω-ῶ</b>, déraisonner un peu, EL. <i>V.H. 3, 37</i>.`

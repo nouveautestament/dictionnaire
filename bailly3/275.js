@@ -1,0 +1,1 @@
+lar[275]=`<b>ων (οἱ)</b> les Agathyrses, <i>peuple scythe de la Sarmatie d’Europe,</i> HDT. <i>4, 48, 104</i>.`

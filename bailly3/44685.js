@@ -1,0 +1,1 @@
+lar[44685]=`<b>ας (ἡ)</b> capture d’un prisonnier vivant, POL. <i>1, 15, 2, etc.</i> ; STR. <i>359</i> ; ζωγρείᾳ ἁλῶναι, POL. <i>5, 86, 5</i>, être pris vivant ; ζωγρείᾳ ἐγκρατῆ γίγνεσθαί τινος, POL. <i>1, 9, 8 ; ou</i> ζωγρείᾳ κύριον γίγνεσθαί τινος, POL. <i>1, 17, 4</i>, se rendre maître de qqn <i>ou</i> le capturer vivant.<p><b>Étym</b>. ζωγρεύς ; <i>cf</i>. ζωγρία.`

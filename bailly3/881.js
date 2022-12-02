@@ -1,0 +1,1 @@
+lar[881]=`<b>ατος (τὸ) :<br>      1</b> gibier, butin, EUR. <i>Bacch. 1241 ; fig</i>. XÉN. <i>Mem. 3, 11, 7</i>.<br><b>      2</b> piège, filets, ESCHL. <i>Ag. 1048</i>.<p><b>Étym</b>. ἀγρεύω.`

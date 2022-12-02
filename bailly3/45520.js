@@ -1,0 +1,1 @@
+lar[45520]=`<b>ἡμι·πέπανος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à moitié mûr, HÉRODOTUS (ORIB. <i>p. 81 Matthäi).</i><p><b>Étym</b>. ἡμι-, π.`

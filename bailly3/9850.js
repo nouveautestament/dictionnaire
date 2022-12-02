@@ -1,0 +1,1 @@
+lar[9850]=`<b>ἀντί·δικος, ου (ὁ)</b> <font color="purple">[ῐῐ]</font><br><b>      1</b> adversaire dans un procès, partie adverse, ESCHN. <i>50, 22, etc.</i> ; οἱ ἀ. PLAT. <i>Phædr. 273c</i>, les adversaires, les parties.<br><b>      2</b> <i>p. suite,</i> ennemi, ESCHL. <i>Ag. 41</i>.<p><b>Étym</b>. ἀ. δίκη.`

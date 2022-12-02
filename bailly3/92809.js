@@ -1,0 +1,1 @@
+lar[92809]=`<b>στρατ·άρχης, ου (ὁ)</b> <font color="purple">[ᾰτ]</font> chef d’armée, HDT. <i>3, 157 ; 8, 44</i> ; ESCHL. <i>fr. 181 Dind</i>.<p><b>Étym</b>. στρατός, ἄρχω.`

@@ -1,0 +1,1 @@
+lar[89051]=`<font color="darkgreen">(<i>f</i>. ίσω <i>ou</i> ιῶ, <i>ao</i>. ἐσαββάτισα, <i>pf</i>. σεσαββάτικα)</font> <font color="purple">[βᾰ]</font> célébrer le sabbat, SPT. <i>Ex. 16, 30 ; 2Par. 36, 21 ; 1Esdr. 1, 58</i>.<p><b>Étym</b>. σάββατον.`

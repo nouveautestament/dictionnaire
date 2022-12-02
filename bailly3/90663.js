@@ -1,0 +1,1 @@
+lar[90663]=`<b>ῆρος (ὁ)</b> tout homme qui creuse la terre (vigneron, <i>etc</i>.) HOM. <i>fr. 2</i> ; XÉN. (POLL. <i>7, 148).</i><p><b>Étym</b>. σκάπτω.`

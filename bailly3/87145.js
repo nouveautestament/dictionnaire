@@ -1,0 +1,1 @@
+lar[87145]=`<font color="purple">[ᾱ]</font> <i>adv</i>., de la proue, PD. <i>P. 4, 39 ; 10, 81</i> ; THC. <i>7, 36, etc.</i> ; ἐκ πρῴραθεν, THCR. <i>Idyl. 22, 11</i> ; ἀπὸ πρῴραθεν, Q. SM. <i>14, 378, m. sign</i>.<p>➳ <i>Ion</i>. πρῴρηθεν, Q. SM. <i>l. c</i>.<p><b>Étym</b>. πρῷρα, -θεν.`

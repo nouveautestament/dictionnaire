@@ -1,0 +1,1 @@
+lar[98260]=`<b>ου (ὁ)</b> Téménidès, <i>Athénien,</i> ESCHN. <i>3, 333</i>.<p><b>Étym</b>. τέμενος.`

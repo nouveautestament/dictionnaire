@@ -1,0 +1,1 @@
+lar[3752]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> engagement à distance, escarmouche, XÉN. <i>An. 3, 4, 18 ; Cyr. 6, 2, 15</i>.<p><b>Étym</b>. ἀκροβολίζομαι.`

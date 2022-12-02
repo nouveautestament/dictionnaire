@@ -1,0 +1,1 @@
+lar[57287]=`<b>ας (ἡ)</b> création du monde, ARSTT. <i>Metaph. 1, 4, 5</i> ; THÉM. <i>317d ;</i> SPT. <i>4Macc. 14, 7 ; titre d’un ouvrage d’Empédocle,</i> ARSTT. <i>Phys. 2, 4, 5</i>.<p><b>Étym</b>. κοσμοποιός.`

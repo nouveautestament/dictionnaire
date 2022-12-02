@@ -1,0 +1,1 @@
+lar[72347]=`<b>ὁπλο·μάχης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὁπλομάχος, PLAT. <i>Euthyd. 299c</i>.`

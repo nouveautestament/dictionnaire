@@ -1,0 +1,1 @@
+lar[26348]=`<b>δί·ζυξ, -ζυγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font><br><b>      1</b> attelé à deux, IL. <i>5, 195 ; 10, 473</i>.<br><b>      2</b> double, ANTH. <i>4, 3, 86</i> ; NONN. <i>D. 22, 352</i>.<p><b>Étym</b>. δίς, ζεύγνυμι.`

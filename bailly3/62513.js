@@ -1,0 +1,1 @@
+lar[62513]=`<b>μακρό·θριξ, τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux longs cheveux <i>ou</i> aux longs poils, GEOP. <i>18, 9, 6</i>.<p><b>Étym</b>. μ. θρίξ.`

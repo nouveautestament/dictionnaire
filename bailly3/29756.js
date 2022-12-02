@@ -1,0 +1,1 @@
+lar[29756]=`<b>ἐγ·κρικόω-ῶ</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐνεκρίκωσε)</font> <font color="purple">[ῐ]</font> entourer d’un anneau, HPC. <i>279, 54</i>.<p><b>Étym</b>. ἐν, κρ.`

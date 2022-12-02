@@ -1,0 +1,1 @@
+lar[52836]=`<b>κατα·μηλόω-ῶ</b>, enfoncer une sonde, <i>d’où</i> s’enfoncer les doigts dans la bouche pour se faire vomir, PHRYN. COM. <i>2-1, 604, 9 Mein. ; fig</i>. κημὸν κ. AR. <i>Eq. 1150,</i> enfoncer comme une sonde (dans la bouche d’un concussionnaire, pour lui faire rendre gorge) la boîte aux votes d’un juge.`

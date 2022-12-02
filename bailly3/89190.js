@@ -1,0 +1,1 @@
+lar[89190]=`<b>ορος (ὁ)</b> = <i>lat</i>. Salinator, <i>n. d’h. rom</i>. PLUT. <i>Sert. 7</i>.`

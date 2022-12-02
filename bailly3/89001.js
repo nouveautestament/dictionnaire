@@ -1,0 +1,1 @@
+lar[89001]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> = <i>lat</i>. Rōmŭlus, <i>n. d’h. rom</i>. PLUT. <i>Rom. 2, etc</i>.`

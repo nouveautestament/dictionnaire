@@ -1,0 +1,1 @@
+lar[51223]=`<b>ης (ἡ)</b> Kallistè (<i>propr</i>. très belle) <i>n. d’une des Sporades, postér</i>. Théra, HDT. <i>4, 147</i> ; PD. <i>P. 4, 258</i> ; CALL. <i>Ep. 27</i>.<p><b>Étym</b>. <i>fém. de</i> κάλλιστος.`

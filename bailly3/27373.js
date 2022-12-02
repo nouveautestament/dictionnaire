@@ -1,0 +1,1 @@
+lar[27373]=`<b>δοκησί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui se croit intelligent, CALLIAS (POLL. <i>4, 9).</i><p><b>Étym</b>. δόκησις, νόος.`

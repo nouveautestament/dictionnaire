@@ -1,0 +1,1 @@
+lar[71983]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’imposition d’un nom, qui sert à dénommer, SCH.-IL. <i>5, 60</i>.<p><b>Étym</b>. ὀνοματοθέτης.`

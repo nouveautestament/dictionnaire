@@ -1,0 +1,1 @@
+lar[86038]=`<b>προσ·κοινωνέω-ῶ :<br>      1</b> faire part : τινι, PLAT. <i>Leg. 757d</i>, à qqn ; τινί τινος, DC. <i>37, 56, etc</i>. de qqe ch. à qqn ; τινι ἀπό τινος, DÉM. <i>918, 1,</i> donner à qqn une part de qqe ch.<br><b>      2</b> avoir part à, <i>gén</i>. PLAT. <i>Soph. 252a</i>.`

@@ -1,0 +1,1 @@
+lar[37210]=`<b>α, ον</b>, souhaitable, désirable, CLÉM. <i>556</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπεύχομαι.`

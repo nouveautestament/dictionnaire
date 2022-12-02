@@ -1,0 +1,1 @@
+lar[132]=`<b>ας (ἡ)</b> manque de secours, SPT. <i>Sir. 51, 10</i>.<p><b>Étym</b>. ἀβοήθητος.`

@@ -1,0 +1,1 @@
+lar[82037]=`<b>πολυ·κρόταλος, ος, ον</b> <font color="purple">[ᾰ]</font> très sonore, retentissant, NONN. <i>D. 5, 255</i>.`

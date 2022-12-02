@@ -1,0 +1,1 @@
+lar[109699]=`<b>ψευδο·λογιστής, οῦ (ὁ)</b> faux <i>ou</i> mauvais raisonneur, <i>titre d’un ouvrage de Lucien</i>.<p><b>Étym</b>. ψ. λογίζομαι.`

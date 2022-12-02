@@ -1,0 +1,1 @@
+lar[85023]=`<b>προ·προκαταΐγδην</b> <font color="purple">[ᾰᾱ]</font> <i>adv</i>., en s’élançant avec impétuosité, A.RH. <i>2, 595</i>.`

@@ -1,0 +1,1 @@
+lar[107076]=`<b>ας (ἡ)</b> <font color="purple">[ῠλᾰ]</font> bandelette pour servir de préservatif, d’amulette, Anon. <i>de vir. herb. 182</i>.<p><b>Étym</b>. φυλάσσω.`

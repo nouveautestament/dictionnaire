@@ -1,0 +1,1 @@
+lar[53175]=`<b>κατα·πτοέω-οῶ</b>, frapper de stupeur, <i>acc</i>. LUC. <i>Philopatr. 29</i> ; GEOP. <i>2, 2, 6</i>.`

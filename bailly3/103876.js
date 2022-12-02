@@ -1,0 +1,1 @@
+lar[103876]=`<b>ος, ον</b>, <i>ou</i> <b>ὑποστατός, ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qu’on peut supporter, auquel on peut résister, EUR. <i>Suppl. 737 ; fr. 177, 2</i>.<br><b>      2</b> qui existe, SEXT. <i>M. 10, 60</i> ; JAMBL. <i>Anecdota græca, De Villoisson, t. 2, p. 198</i> ; CLÉM. <i>915, etc</i>.<p><b>Étym</b>. ὑφίστημι.`

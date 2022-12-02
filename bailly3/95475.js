@@ -1,0 +1,1 @@
+lar[95475]=`<b>συν·εμφέρω</b>, attribuer une part à chacun, M. ANT. <i>3, 4</i>.`

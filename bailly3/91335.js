@@ -1,0 +1,1 @@
+lar[91335]=`<b>ου (ὁ)</b> Skymnos (Scymnus) <i>géographe</i>.<p><b>Étym</b>. <i>v</i>. σκύμνος.`

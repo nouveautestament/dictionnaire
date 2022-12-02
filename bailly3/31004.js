@@ -1,0 +1,1 @@
+lar[31004]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> Hékatombæôn, <i>1<sup>er</sup> mois du calendrier attique (2<sup>e</sup> moitié de juillet et 1<sup>re</sup> d’août</i>) ANT. <i>146, 25</i> ; ARSTT. <i>H.A. 5, 11</i> ; TH. <i>H.P. 4, 11, 5</i> ; PLUT. <i>Thes. 12, etc</i>.<p><b>Étym</b>. ἑκατόμβη.`

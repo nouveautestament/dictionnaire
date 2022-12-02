@@ -1,0 +1,1 @@
+lar[74464]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font> ancienneté, antiquité, SPT. <i>Job 36, 28 ; 37, 10, 20</i>.<p><b>Étym</b>. παλαιόω.`

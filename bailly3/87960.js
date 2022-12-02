@@ -1,0 +1,1 @@
+lar[87960]=`<b>πυρ·πάλαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> forgé au feu, PD. <i>O. 10, 96</i>.<p><b>Étym</b>. πῦρ, παλάμη.`

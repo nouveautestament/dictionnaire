@@ -1,0 +1,1 @@
+lar[51778]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> lourdeur de tête, POLÉM. (MACR. <i>Sat. 5, 9).</i><p><b>Étym</b>. καρηβαρέω.`

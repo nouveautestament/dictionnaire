@@ -1,0 +1,1 @@
+lar[85378]=`<b>ής, ές</b>, qui a encore besoin de, <i>gén</i>. PLAT. <i>Tim. 33d ;</i> LUC. <i>Demon. 4, etc</i>.<p><b>Étym</b>. προσδέομαι.`

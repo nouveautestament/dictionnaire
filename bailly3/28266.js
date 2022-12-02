@@ -1,0 +1,1 @@
+lar[28266]=`<b>δύσ·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui concerne une union funeste, EUR. <i>Hel. 693, Tr. 1114</i> ; LYC. <i>1089</i> ; γάμοι δ. EUR. <i>Ph. 1047,</i> union funeste.<p><b>Étym</b>. δ. γάμος.`

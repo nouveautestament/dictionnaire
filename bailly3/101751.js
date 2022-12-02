@@ -1,0 +1,1 @@
+lar[101751]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui concerne la coupe du bois ; ἡ ὑλοτομική (<i>s.-e</i>. τέχνη) l’art de couper le bois, DL. <i>3, 100</i>.<p><b>Étym</b>. ὑλοτόμος.`

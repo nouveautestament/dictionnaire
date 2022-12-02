@@ -1,0 +1,1 @@
+lar[103798]=`<b>ὑπο·σαίρω</b> <font color="darkgreen">(<i>f</i>. ὑποσαρῶ, <i>ao</i>. ὑπέσηρα, <i>pf.2</i> ὑποσέσηρα) :</font><br><b>      1</b> ouvrir un peu la bouche, <i>abs</i>. EUM. <i>p. 361</i> ; ὀδόντας, OPP. <i>C. 2, 243,</i> montrer un peu les dents.<br><b>      2</b> <i>p. ext</i>. se fendre, s’entr’ouvrir, <i>en parl. de fruits mûrs,</i> PHILSTR. <i>Im. 1, 31</i>.`

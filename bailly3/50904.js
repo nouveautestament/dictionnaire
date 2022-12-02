@@ -1,0 +1,1 @@
+lar[50904]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> destructeur, NIC. <i>Al. 465</i>.<p><b>Étym</b>. <i>cf</i>. κακοφθόρος.`

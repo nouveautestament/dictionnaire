@@ -1,0 +1,1 @@
+lar[73600]=`<i>contr. pour</i> ὁ ἐν, AR. <i>Th. 1165, ou pour</i> οἱ ἐν, EUR. <i>Med. 819</i>.`

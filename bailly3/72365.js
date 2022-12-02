@@ -1,0 +1,1 @@
+lar[72365]=`<b>ὁπλο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime les armes, belliqueux, ORPH. <i>H. 31, 6 ; 64, 2</i>.<p><b>Étym</b>. ὅπλ. χαίρω.`

@@ -1,0 +1,1 @@
+lar[67299]=`<b>μυρμηκο·ειδής, ής, ές</b>, qui ressemble à une fourmi, de la nature des fourmis, CASS. <i>Probl. 19</i>.<p><b>Étym</b>. μύρμηξ, εἶδος.`

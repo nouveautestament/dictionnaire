@@ -1,0 +1,1 @@
+lar[79036]=`<b>περι·ορχέομαι-οῦμαι</b>, danser autour, LUC. <i>Salt. 8</i>.`

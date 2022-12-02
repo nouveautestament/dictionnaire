@@ -1,0 +1,1 @@
+lar[93216]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> σύγγραμμα LUC. <i>Her. 1</i> ; LGN <i>1, 1</i>.`

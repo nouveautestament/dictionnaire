@@ -1,0 +1,1 @@
+lar[75720]=`<b>ου (τὸ)</b> instrument pour une ponction, GAL. <i>12, 16</i>.<p><b>Étym</b>. παρακεντέω.`

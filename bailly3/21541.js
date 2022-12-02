@@ -1,0 +1,1 @@
+lar[21541]=`<font color="darkgreen">(<i>seul. impf</i>. ἐγειτνίαζον)</font> <i>c</i>. γειτνιάω, ARSTT. <i>Plant. 2, 8, 6</i> ; ES. <i>75 Halm</i>.`

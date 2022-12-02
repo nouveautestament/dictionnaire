@@ -1,0 +1,1 @@
+lar[77546]=`<b>πεδο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> qui marche sur le sol, ESCHL. <i>Ch. 591</i>.<p><b>Étym</b>. <i>dor. p</i>. *πεδοβήμων, <i>de</i> πέδον, βαίνω.`

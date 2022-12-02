@@ -1,0 +1,1 @@
+lar[75670]=`<b>ος, ον</b>, intempestif, <i>d’où</i> inconvenant, coupable, criminel, HÉS. <i>O. 327</i>.<p><b>Étym</b>. π. καιρός.`

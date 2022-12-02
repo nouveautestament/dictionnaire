@@ -1,0 +1,1 @@
+lar[306]=`<b>ου (τὸ)</b> <font color="purple">[ᾰγμᾰ]</font> statuette, petite image, PLUT. <i>Lyc. 25, Syll. 22</i> ; LUC. <i>Somn. 3</i>.<p><b>Étym</b>. ἄγαλμα.`

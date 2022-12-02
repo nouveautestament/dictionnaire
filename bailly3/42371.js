@@ -1,0 +1,1 @@
+lar[42371]=`<b>*εὐ·κάρηνος</b>, <i>épq</i>. <b>ἠϋ·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> à la belle tête, M. SID. <i>24</i>.<p><b>Étym</b>. εὖ, κάρηνον.`

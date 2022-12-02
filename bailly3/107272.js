@@ -1,0 +1,1 @@
+lar[107272]=`<b>ου (ὁ)</b> « le naturel », <i>mot formé par</i> PLUT. <i>M. 292d, d’après φύσις pour expliquer le n. pr</i>. βύσιος.`

@@ -1,0 +1,1 @@
+lar[55696]=`<i>f. att</i>. -ιῶ, <i>c</i>. καχλάζω, rire aux éclats, ALCIPHR. <i>1, 33</i>.`

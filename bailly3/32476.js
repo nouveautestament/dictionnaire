@@ -1,0 +1,1 @@
+lar[32476]=`<b>οῦ (ὁ)</b> qui cultive l’olivier.<p><b>Étym</b>. <i>v</i>. ἐλαιούργιον.`

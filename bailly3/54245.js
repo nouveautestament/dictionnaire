@@ -1,0 +1,1 @@
+lar[54245]=`<b>κατωπιάω-ῶ</b>, baisser les yeux <i>ou</i> le visage (de honte <i>ou</i> de douleur) ARSTT. <i>H.A. 8, 24</i> ; Q. SM. <i>3, 133, etc</i>.<p>➳ <i>Part. prés. épq</i>. κατωπιόων, Q. SM. <i>l. c</i>.<p><b>Étym</b>. κατωπός.`

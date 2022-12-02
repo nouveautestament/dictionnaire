@@ -1,0 +1,1 @@
+lar[73499]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Vespasianus, <i>n. d’h. rom</i>. PLUT. <i>Popl. 15, etc</i>.`

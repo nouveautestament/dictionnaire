@@ -1,0 +1,1 @@
+lar[105336]=`<b>ή, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> consumé, détruit, mort, ESCHL. <i>Pers. 220, 523 ; Eum. 97 ; fr. 257</i> ; EUR. <i>Alc. 100, etc.</i> ; PLUT. <i>M. 955c ;</i> LUC. <i>D. deor. 26, 2</i>.<br><b>      2</b> exposé à périr, sujet à la destruction, ARSTT. <i>Phys. 3, 1, 5</i>.<p><b>Étym</b>. <i>vb. de</i> φθίω.`

@@ -1,0 +1,1 @@
+lar[26272]=`<b>οῦ (ὁ)</b> interprète, NT. <i>1Cor. 14, 28</i> ; CHRYS. <i>3, 485</i>.`

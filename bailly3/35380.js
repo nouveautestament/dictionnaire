@@ -1,0 +1,1 @@
+lar[35380]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui frotte, qui enduit, GAL.<p><b>Étym</b>. ἐξαλείφω.`

@@ -1,0 +1,1 @@
+lar[3628]=`<b>αντος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰᾱ]</font><br><b>      1</b> ὁ Ἀ. l’Akragas (<i>auj</i>. San Biago) <i>fl. de Sicile,</i> THC. <i>6, 4, etc.</i><br><b>      2</b> ὁ Ἀ. THC. <i>7, 46, 50, etc. ou</i> ἡ Ἀ. PD. <i>O. 3, 2 ; P. 6, 6, etc</i>. Agrigente (<i>auj</i>. Agrigento) <i>v. sur le fl. Akragas</i>.`

@@ -1,0 +1,1 @@
+lar[41592]=`<b>εὐανδρέω-ῶ :<br>      1</b> abonder en hommes beaux, forts, courageux, <i>etc</i>. STR. <i>46, 192, 259</i> ; PLUT. <i>Cato ma. 26</i>.<br><b>      2</b> être dans toute sa force, PLUT. <i>Cam. 6</i> ; APP. <i>Syr. 37</i>.<br><b><i>Moy.</i></b> abonder en hommes beaux, forts, courageux, <i>etc</i>. OCELL. <i>4</i> ; SCYMN. <i>249</i>.<p><b>Étym</b>. εὔανδρος.`

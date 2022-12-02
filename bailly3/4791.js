@@ -1,0 +1,1 @@
+lar[4791]=`<b>ἀλλοιοτροπέομαι-οῦμαι</b>, prendre des formes diverses, GAL. <i>Lex. Hipp. 19, 75</i>.<p><b>Étym</b>. ἀλλοιότροπος.`

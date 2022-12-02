@@ -1,0 +1,1 @@
+lar[100140]=`<b>ας (ἡ)</b> <font color="purple">[ῐβ]</font> port d’un manteau usé, PLUT. <i>M. 52c, 352c</i>.`

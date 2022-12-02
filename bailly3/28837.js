@@ -1,0 +1,1 @@
+lar[28837]=`<b>δύσ·πονος, ος, ον</b>, fatigant, pénible, SOPH. <i>Ant. 1276</i>.<p><b>Étym</b>. δ. πόνος.`

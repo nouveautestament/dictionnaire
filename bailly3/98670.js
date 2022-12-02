@@ -1,0 +1,1 @@
+lar[98670]=`<b>τετρ·άρχης, ου (ὁ)</b> tétrarque :<br><b>      1</b> <i>chef d’une région sur quatre dans une province, ou chef avec trois autres,</i> STR. <i>567</i> ; PLUT. <i>Ant. 56, 58</i>.<br><b>      2</b> <i>chef d’un détachement de soixante-quatre hommes,</i> ARR. <i>Tact. 10, 1</i>.<p><b>Étym</b>. τ. ἄρχω.`

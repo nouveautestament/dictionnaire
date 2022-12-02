@@ -1,0 +1,1 @@
+lar[50964]=`<b>καλαμ·αύλης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> joueur de chalumeau. ATH. <i>176d</i>.<p><b>Étym</b>. κάλαμος, αὐλός.`

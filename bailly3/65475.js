@@ -1,0 +1,1 @@
+lar[65475]=`<b>ου (τὸ)</b> sorte d’athamante, <i>plante ombellifère,</i> DIOSC. <i>1, 3</i>.`

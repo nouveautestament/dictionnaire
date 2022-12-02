@@ -1,0 +1,1 @@
+lar[48819]=`<b>ου</b>, <i>adj. m</i>. qui répand l’humidité, <i>càd</i>. la pluie, <i>ép. de Zeus,</i> A.RH. <i>2, 522</i> ; CLÉM. <i>753</i>.<p><b>Étym</b>. ἰκμάς.`

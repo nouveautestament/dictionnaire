@@ -1,0 +1,1 @@
+lar[96440]=`<b>ής, ές</b> <font color="purple">[ῠφ]</font> tissé ensemble, ARSTT. <i>H.A. 9, 40, 8</i>.<p><b>Étym</b>. συνυφαίνω.`

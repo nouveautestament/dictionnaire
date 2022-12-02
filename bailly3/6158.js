@@ -1,0 +1,1 @@
+lar[6158]=`<b>Ἀμφί·θεος, ου (ὁ)</b> Amphithéos, <i>h</i>. AR. <i>Ach. 46, etc.</i> ; PLUT. <i>Lys. 27, etc</i>.<p><b>Étym</b>. ἀ. θεός.`

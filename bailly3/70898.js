@@ -1,0 +1,1 @@
+lar[70898]=`<i>mauv. prononc. de</i> ὁράω, AR. <i>Vesp. 45</i>.`

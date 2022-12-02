@@ -1,0 +1,1 @@
+lar[100413]=`<b>τριπυλο·ειδής, ής, ές</b> <font color="purple">[ῐῠ]</font> semblable à une porte triple, EL. TACT. <i>31, 4</i>.<p><b>Étym</b>. τρίπυλον, εἶδος.`

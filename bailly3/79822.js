@@ -1,0 +1,1 @@
+lar[79822]=`<b>α, ον</b>, de Pessinunte, Ps.-PLUT. <i>Fluv. 9, 1</i> ; Πεσσινουντία ἡ θεά, HDN <i>1, 11, 3,</i> la déesse de Pessinunte, <i>càd</i>. Cybèle.`

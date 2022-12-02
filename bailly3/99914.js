@@ -1,0 +1,1 @@
+lar[99914]=`<b>τραπεζο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> en forme de table, STR. <i>682</i> ; PLUT. <i>M. 895d</i>.<p><b>Étym</b>. τρ. εἶδος.`

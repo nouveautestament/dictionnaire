@@ -1,0 +1,1 @@
+lar[82079]=`<b>ας (ἡ)</b> <font color="purple">[ῠμᾰ]</font> grand savoir, LUC. <i>Salt. 33</i> ; STR. <i>2, 7</i>.<p><b>Étym</b>. πολυμαθής.`

@@ -1,0 +1,1 @@
+lar[36399]=`<b>ἐπ·αέξω</b> <font color="purple">[ᾰ]</font> faire croître, <i>d’où au pass</i>. croître, SIM. AM. <i>fr. 7, 85</i> ; NIC. <i>Th. 449</i>.`

@@ -1,0 +1,1 @@
+lar[104525]=`<b>ὑψί·πολις, ιος (ὁ, ἡ)</b> <font color="purple">[ψῐ]</font> qui occupe un haut rang dans la cité, SOPH. <i>Ant. 370</i>.<p><b>Étym</b>. ὕ. πόλις.`

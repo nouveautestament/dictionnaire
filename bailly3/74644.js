@@ -1,0 +1,1 @@
+lar[74644]=`<b>άδος (ἡ)</b> fille, descendante de Pallante, ANTH. <i>6, 247</i> ; EUR. <i>Hipp. 35</i>.<p><b>Étym</b>. Πάλλας.`

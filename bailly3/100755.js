@@ -1,0 +1,1 @@
+lar[100755]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> composé de trochées, trochaïque, GRAMM.<p><b>Étym</b>. τροχαῖος.`

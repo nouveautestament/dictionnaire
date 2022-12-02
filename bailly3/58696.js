@@ -1,0 +1,1 @@
+lar[58696]=`<b>ου (τὸ)</b> <font color="purple">[ῠῑ]</font> cumin, <i>plante et graine qui servait pour assaisonnement,</i> COM. (ATH. <i>68a, etc</i>.).`

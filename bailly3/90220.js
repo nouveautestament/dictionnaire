@@ -1,0 +1,1 @@
+lar[90220]=`<b>οῦ (ὁ)</b> Sikanos :<br><b>      1</b> <i>général syracusain,</i> THC. <i>6, 73</i>.<br><b>      2</b> <i>fl. d’Ibérie,</i> THC. <i>6, 2</i>.`

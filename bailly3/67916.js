@@ -1,0 +1,1 @@
+lar[67916]=`<b>νεβρό·γονος, ος, ον</b>, qui provient d’un faon, CLÉOBULINA (PLUT. <i>M. 150e</i>).<p><b>Étym</b>. νεβρός, γίγνομαι.`

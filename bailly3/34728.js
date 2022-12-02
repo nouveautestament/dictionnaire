@@ -1,0 +1,1 @@
+lar[34728]=`<b>(αἱ)</b> les Neuf routes, <i>lieu de Thrace, dans la région d’Amphipolis,</i> HDT. <i>7, 114</i> ; THC. <i>1, 100, etc</i>.<p><b>Étym</b>. ἐ. ὁδός.`

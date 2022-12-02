@@ -1,0 +1,1 @@
+lar[9208]=`<b>ἀν·οικείωτος, ος, ον</b>, sans lien de parenté, sans rapport, M. ANT. <i>12, 30</i>.<p><b>Étym</b>. ἀν-, οἰκειόω.`

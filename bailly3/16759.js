@@ -1,0 +1,1 @@
+lar[16759]=`<b>ἀ·τερμάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font> sans fin, infini, DS. <i>19, 1 ; joint à</i> ἀόριστος, THÉM. <i>ou à</i> ἀπεριόριστος, BAS.<p><b>Étym</b>. ἀ, τερματίζω.`

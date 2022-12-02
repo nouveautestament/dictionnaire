@@ -1,0 +1,1 @@
+lar[42620]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> facilité de mouvement, allure dégagée, MUSON. (STOB. <i>19, 11</i>) ; DL. <i>6, 70</i>.<br><b>      2</b> relâchement (du ventre) CIC. <i>Fam. 16, 18, 1</i>.<p><b>Étym</b>. εὔλυτος.`

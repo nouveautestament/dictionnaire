@@ -1,0 +1,1 @@
+lar[6350]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν (ὁ)</b> Amphis :<br><b>      1</b> <i>autre n. d’Amphiaraos,</i> ESCHL. <i>fr. 367</i>.<br><b>      2</b> <i>poète comique,</i> ATH. <i>8c, etc</i>.`

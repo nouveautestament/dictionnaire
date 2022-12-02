@@ -1,0 +1,1 @@
+lar[59366]=`<i>adv.</i> :<br><b>      1</b> avec force, avec véhémemce, THGN. <i>987</i> ; TH. <i>H.P. 4, 7, 1</i> ; DS. <i>5, 26, etc.</i><br><b>      2</b> avec voracité, ESCHL. <i>Pr. 1021</i> ; ARSTT. <i>H.A. 8, 5, etc</i>.<p>•<i> Cp</i>. -ότερον, CORN. <i>p. 217</i>.<p><b>Étym</b>. λάβρος.`

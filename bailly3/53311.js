@@ -1,0 +1,1 @@
+lar[53311]=`<i>vb. de</i> κατασείω SOR. <i>Obst. p. 89 Erm</i>.`

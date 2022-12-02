@@ -1,0 +1,1 @@
+lar[108008]=`(<i>seul. prés</i>.) regarder bouche béante, <i>càd</i>. avec admiration <i>ou</i> envie, <i>acc</i>. AR. <i>Vesp. 695</i>.<p><b>Étym</b>. <i>fréqu. de</i> χάσκω.`

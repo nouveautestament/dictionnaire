@@ -1,0 +1,1 @@
+lar[88272]=`<b>ίδος (ὁ)</b> <font color="purple">[ῐδ]</font> hache recourbée, HÉRON <i>Bel. 140</i>.<p><b>Étym</b>. ῥάμφος.`

@@ -1,0 +1,1 @@
+lar[53067]=`<b>κατα·πιλέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> couvrir de vêtements fourrés, ALCIPHR. <i>2, 2</i>.<br><b>      2</b> fouler, feutrer, BAS. <i>2, 125</i>.`

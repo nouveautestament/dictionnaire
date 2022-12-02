@@ -1,0 +1,1 @@
+lar[92443]=`<b>στερνο·βριθής, ής, ές</b> <font color="purple">[ῑ]</font> qui a un fort poitrail, POLYEN <i>4, 7, 12</i>.`

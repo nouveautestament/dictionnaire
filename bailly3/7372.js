@@ -1,0 +1,1 @@
+lar[7372]=`<b>ἀναπηρόω-ῶ</b>, estropier, PLAT. <i>Phil. 310e ;</i> ARSTT. <i>Probl. 32, 6</i>.`

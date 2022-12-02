@@ -1,0 +1,1 @@
+lar[50151]=`<b>ίδος</b>, <i>adj. f</i>. ionienne, DP. <i>553 ; subst</i>. ἡ Ἰ. CALL. <i>Ep. 26</i> ; PLUT. <i>Luc. 16,</i> l’Ionienne, <i>n. de f</i>.<p><b>Étym</b>. Ἴων².`

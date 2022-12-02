@@ -1,0 +1,1 @@
+lar[60941]=`<b>ά, όν :<br>      1</b> qui coule goutte à goutte, humide de rosée, ANTH. <i>15, 25</i>.<br><b>      2</b> humide, froid, sombre, EROT. <i>ad Hipp. p. 242</i>.<p><b>Étym</b>. <i>inconnue</i>.`

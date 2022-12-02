@@ -1,0 +1,1 @@
+lar[69977]=`<b>ξυστρο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> boîte pour l’étrille <i>ou</i> racloir du bain, ARTÉM. <i>1, 66</i>.<p><b>Étym</b>. ξύστρον, φύλαξ.`

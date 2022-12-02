@@ -1,0 +1,1 @@
+lar[94554]=`<b>συναγυρτός, ός, όν</b> <font color="purple">[ᾰ]</font> recueilli, PLAT. <i>Leg. 845e</i>.<p><b>Étym</b>. συναγείρω.`

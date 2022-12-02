@@ -1,0 +1,1 @@
+lar[54549]=`<i>adv</i>., avec mesure, EL. <i>N.A. 2, 11, etc</i>.<p><b>Étym</b>. κοσμέω.`

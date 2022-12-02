@@ -1,0 +1,1 @@
+lar[59258]=`<b>κωπηλατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ramer, ARSTT. <i>Rhet. Al. 25, 7</i> ; POL. <i>1, 21, 1</i>.<br><b>      2</b> manœuvrer comme une rame, <i>acc</i>. EUR. <i>Cycl. 461</i>.<p><b>Étym</b>. κωπηλάτης.`

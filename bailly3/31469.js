@@ -1,0 +1,1 @@
+lar[31469]=`<b>εως (ἡ)</b> action de faire éclore en cassant à coups de bec, ARSTT. <i>H.A. 6, 3, 12</i>.<p><b>Étym</b>. ἐκκολάπτω.`

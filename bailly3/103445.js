@@ -1,0 +1,1 @@
+lar[103445]=`<b>ὑπο·λαλέω-ῶ</b> <font color="purple">[ᾰ]</font> parler tout bas, murmurer, chuchoter, APD. POL. <i>13</i>.`

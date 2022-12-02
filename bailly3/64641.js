@@ -1,0 +1,1 @@
+lar[64641]=`<font color="purple">[ῐ]</font><br><b>      1</b> <i>prép</i>. jusqu’à, <i>gén</i>. ARÉT. <i>p. 33, 53 ; p. 39, 29, etc.</i><br><b>      2</b> <i>conj</i>. jusqu’à ce que, <i>avec l’ind</i>. ARÉT. <i>p. 134, 38 ; avec ἄν et le sbj</i>. ARÉT. <i>p. 134, 37</i>.<p><b>Étym</b>. <i>v</i>. μέσφα.`

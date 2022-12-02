@@ -1,0 +1,1 @@
+lar[106959]=`<font color="purple">[ῡᾰ]</font> ramasser du menu bois mort, des broussailles, BAS. <i>Hom. 9</i>.<p><b>Étym</b>. φρύγανον.`

@@ -1,0 +1,1 @@
+lar[31287]=`<b>ἐκ·θαρρέω</b> <i>ou</i> <b>ἐκ·θαρσέω-ῶ</b>, avoir pleine confiance : τινι, PLUT. <i>Rom. 26,</i> en qqe ch. ; ὑπό τινος, PLUT. <i>Galb. 7,</i> être encouragé par qqn.`

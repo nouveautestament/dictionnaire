@@ -1,0 +1,1 @@
+lar[63987]=`<b>ου (ὁ)</b> Mélètos :<br><b>      1</b> <i>l’un des trente tyrans,</i> XÉN. <i>Hell. 2, 4, 36, etc.</i><br><b>      2</b> <i>poète tragique, accusateur de Socrate,</i> AR. <i>Ran. 1302</i> ; XÉN. <i>Mem. 4, 4, 4, etc.</i> ; PLAT. <i>Euthyphr. 2b, etc</i>.`

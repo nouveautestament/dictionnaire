@@ -1,0 +1,1 @@
+lar[67914]=`<b>οῦ (ὁ)</b> action de revêtir une peau de faon, ARIGNOT. (HARP. <i>131, 22 Bkk</i>.).<p><b>Étym</b>. νεβρίζω.`

@@ -1,0 +1,1 @@
+lar[66111]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> Mitrogathès, <i>chef lydien,</i> ESCHL. <i>Pers. 43</i>.`

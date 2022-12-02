@@ -1,0 +1,1 @@
+lar[45384]=`<b>ἡμι·αστραγάλιον, ου (τὸ)</b> <font color="purple">[ῐᾰᾰ]</font> demi-astragale <i>ou</i> osselet, ARSTT. <i>H.A. 2, 1, 33</i>.<p><b>Étym</b>. ἡμι-, ἀστράγαλος.`

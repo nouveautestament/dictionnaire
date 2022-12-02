@@ -1,0 +1,1 @@
+lar[88580]=`<b>ατος (τὸ)</b> jet : ῥίμματα ποδῶν, ARION (EL. <i>N.A. 12, 45</i>) attitude du danseur qui jette le pied en avant.<p><b>Étym</b>. ῥίπτω.`

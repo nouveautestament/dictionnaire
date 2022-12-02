@@ -1,0 +1,1 @@
+lar[4992]=`<b>ου (ὁ)</b> Alyattès, <i>roi de Lydie,</i> HDT. <i>1, 26, etc</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>l. c., etc. ; acc</i>. -ην, PLUT. <i>Mal. Her. 22 ; ou</i> -εα, HDT. <i>1, 73, etc</i>.`

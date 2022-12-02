@@ -1,0 +1,1 @@
+lar[20287]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. βοτάνη, PHIL. <i>1, 8, au plur</i>.`

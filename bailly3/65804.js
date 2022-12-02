@@ -1,0 +1,1 @@
+lar[65804]=`<b>ου (τὸ)</b> vase pour le minium <i>ou</i> vermillon, ANTH. <i>6, 205</i>.<p><b>Étym</b>. μίλτος.`

@@ -1,0 +1,1 @@
+lar[68743]=`<b>(ὁ)</b> <font color="purple">[νῑᾰ]</font> Nikiadès, <i>h</i>. THC. <i>4, 118</i> ; DÉM. <i>1305, 1</i>.<p><b>Étym</b>. <i>patr. de</i> Νικίας.`

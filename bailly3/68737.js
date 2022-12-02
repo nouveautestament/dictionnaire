@@ -1,0 +1,1 @@
+lar[68737]=`<b>ου (ὁ)</b> Nikètès, <i>propr</i>. « le Vainqueur », <i>h</i>. ANTH. <i>11, 188</i> ; PHILSTR. <i>V. soph. 1, 19</i>.<p><b>Étym</b>. νικάω.`

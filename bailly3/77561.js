@@ -1,0 +1,1 @@
+lar[77561]=`<b>ά</b> (<i>dor</i>.) <b>όν</b>, <i>vb. de</i> μετεωρίζω, THCR. <i>Epigr. 17, 5 conj</i>.`

@@ -1,0 +1,1 @@
+lar[91189]=`<b>ῶνος (ὁ)</b> Scorpiôn, <i>n. d’un mois grec,</i> PTOL. <i>Math. synt. 2, 168 Halm</i>.<p><b>Étym</b>. σκορπίος.`

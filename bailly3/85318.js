@@ -1,0 +1,1 @@
+lar[85318]=`<b>προσ·αυρίζω</b>, atteindre à, <i>dat</i>. ESCHL. <i>fr. 402</i>.`

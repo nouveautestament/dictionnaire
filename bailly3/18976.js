@@ -1,0 +1,1 @@
+lar[18976]=`<b>εντος (ὁ)</b> <i>transcript. du n. de l’empereur rom</i>. Valens, ANTH. <i>App. 322</i> ; LIB.`

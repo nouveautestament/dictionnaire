@@ -1,0 +1,1 @@
+lar[104631]=`<b>ης (ἡ)</b> Phædimè, <i>f. perse,</i> HDT.`

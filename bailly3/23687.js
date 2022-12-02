@@ -1,0 +1,1 @@
+lar[23687]=`<b>δεκά·πηχυς, υς, υ</b> <font color="purple">[ᾰ]</font> de dix coudées, HDT. <i>9, 81</i> ; POL. <i>17, 16, 2 (acc</i>. -υν) ; LUC. <i>Tim. 4</i>.<p><b>Étym</b>. δ. πῆχυς.`

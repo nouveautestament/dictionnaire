@@ -1,0 +1,1 @@
+lar[43723]=`<b>ου (τὸ) :<br>      1</b> euphorbe (<i>Euphorbium</i> L.) <i>plante grasse,</i> DIOSC. <i>3, 96</i> ; GAL. <i>18, 609</i>.<br><b>      2</b> suc de l’euphorbe, DIOSC. <i>3, 96</i>.<p><b>Étym</b>. εὔφορβος.`

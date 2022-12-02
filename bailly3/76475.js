@@ -1,0 +1,1 @@
+lar[76475]=`<b>παρα·χρίω</b>, enduire, <i>particul</i>. blanchir sur le côté <i>ou</i> tout au long, HIPPON. <i>fr. 50</i>.`

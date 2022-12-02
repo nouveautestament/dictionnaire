@@ -1,0 +1,1 @@
+lar[50258]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> propre à détruire, PHIL. <i>2, 548, 561</i> ; CLÉM. <i>2, 492 Migne</i>.<br><b>      2</b> propre à dissoudre, à résoudre, GAL. <i>13, 130</i> ; DIOSC. <i>2, 124</i>.<p><b>Étym</b>. καθαιρέω.`

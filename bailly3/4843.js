@@ -1,0 +1,1 @@
+lar[4843]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> adoption de coutumes étrangères, SPT. <i>2Macc. 4, 13 ; 6, 24</i>.<p><b>Étym</b>. ἀλλόφυλος.`

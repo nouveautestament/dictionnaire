@@ -1,0 +1,1 @@
+lar[15138]=`<b>ἀ·ρρεπής, ής, ές</b>, qui ne penche ni d’un côté ni de l’autre, <i>d’où</i> :<br><b>      1</b> indifférent, <i>joint à</i> ἄποτος <i>et à</i> ἀργός, PLUT. <i>M. 1015a ; à</i> ἀμαυρός, PLUT. <i>M. 1062b ;</i> ἀ. πρός τι, PLUT. <i>M. 1070a</i>, indifférent pour qqe ch.<br><b>      2</b> ferme, inébranlable, PHIL. <i>2, 25</i>.<p><b>Étym</b>. ἀ, ῥέπω.`

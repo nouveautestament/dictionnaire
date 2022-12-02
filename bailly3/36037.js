@@ -1,0 +1,1 @@
+lar[36037]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> qui peut sortir : τοῖς οὐκ ἐξιτόν ἐστι, HÉS. <i>Th. 732,</i> il leur est impossible de sortir.<p><b>Étym</b>. <i>vb. de</i> ἔξειμι².`

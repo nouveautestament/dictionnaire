@@ -1,0 +1,1 @@
+lar[97952]=`<b>εως (ἡ)</b> action de mouiller, d’humecter, HPC. <i>1200b, etc</i>.<p><b>Étym</b>. τέγγω.`

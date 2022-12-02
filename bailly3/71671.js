@@ -1,0 +1,1 @@
+lar[71671]=`<b>ὁμορροθέω-ῶ :<br>      1</b> faire du bruit ensemble, EL. <i>N.A. 6, 32</i>.<br><b>      2</b> <i>particul</i>. faire un bruit cadencé en ramant ensemble, ORPH. <i>Arg. 254 ; fig</i>. agir de concert, SOPH. <i>Ant. 536 ; p. suite,</i> être d’accord, AR. <i>Av. 852</i> ; τινι, EUR. <i>Or. 530,</i> avec qqe ch.<p><b>Étym</b>. ὁμόρροθος.`

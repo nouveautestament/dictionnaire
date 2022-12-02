@@ -1,0 +1,1 @@
+lar[78379]=`<b>ατος (τὸ)</b> ce qu’on attache autour de son cou, <i>particul</i>. amulette, talisman, POL. <i>Fr. gr. 63</i> ; DS. <i>5, 64</i> ; ANTH. <i>11, 257</i>.<p><b>Étym</b>. περιάπτω.`

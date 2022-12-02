@@ -1,0 +1,1 @@
+lar[74439]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> art de lutter, lutte, IL. <i>23, 701</i> ; OD. <i>8, 103, 126 (var</i>. παλαιμοσύνη) ; A. PL. <i>1, 2</i>.<p><b>Étym</b>. παλαίω.`

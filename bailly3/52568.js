@@ -1,0 +1,1 @@
+lar[52568]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> lavement, HPC. <i>47, 18</i>.<p><b>Étym</b>. κατακλύζω.`

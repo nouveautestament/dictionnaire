@@ -1,0 +1,1 @@
+lar[8135]=`<i>adv</i>., virilement, ISOCR. <i>239b ;</i> POL. <i>1, 14, 3, etc</i>.<p>•<i> Sup</i>. -έστατα, XÉN. <i>Mem. 4, 8, 1</i>.`

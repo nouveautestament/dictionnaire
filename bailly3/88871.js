@@ -1,0 +1,1 @@
+lar[88871]=`<b>ου (ὁ)</b> <i>c</i>. Ῥυμιτάλκης, PLUT. <i>Reg. apophth. Cæs. Aug. 2</i>.`

@@ -1,0 +1,1 @@
+lar[78694]=`<b>περι·καθαρίζω</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> purifier complètement, <i>acc</i>. SPT. <i>Deut. 30, 6</i>.<br><b>      2</b> chasser en purifiant, <i>acc</i>. SPT. <i>Lev. 19, 23</i>.`

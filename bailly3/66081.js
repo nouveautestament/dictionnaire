@@ -1,0 +1,1 @@
+lar[66081]=`<b>μισο·φίλιππος, ος, ον</b> <font color="purple">[ῑῐλ]</font> qui hait Philippe, ennemi de Philippe, ESCHN. <i>30, 6</i>.`

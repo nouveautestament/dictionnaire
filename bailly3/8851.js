@@ -1,0 +1,1 @@
+lar[8851]=`<b>ἀνθο·βαφής, ής, ές</b> <font color="purple">[βᾰ]</font> teint en couleurs variées, LUC. <i>Am. 41</i> ; PHIL. <i>2, 478</i>.`

@@ -1,0 +1,1 @@
+lar[98405]=`<b>Τέρπ·ανδρος, ου (ὁ)</b> Terpandros, <i>poète lyrique,</i> PD. <i>fr. 92</i>.<p><b>Étym</b>. τέρπω, ἀνήρ.`

@@ -1,0 +1,1 @@
+lar[6424]=`<b>ἀμφι·φορεύς, έως (ὁ)</b> grand vase à deux anses, amphore, OD. <i>24, 74, etc. ; particul</i>. urne funéraire, IL. <i>23, 92</i>.<p><b>Étym</b>. ἀ. φέρω.`

@@ -1,0 +1,1 @@
+lar[56732]=`<b>εως (ἡ) :<br>      1</b> action de gonfler, d’enfler, HDN <i>1, 15, 11</i>.<br><b>      2</b> <i>au plur</i>. sinuosité, PTOL. <i>Geogr. p. 43, 13 Wilberg</i>.<p><b>Étym</b>. κολπόω.`

@@ -1,0 +1,1 @@
+lar[92120]=`<b>σταλαγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. σταλάζω, SIB. <i>5, 117 dout</i>.`

@@ -1,0 +1,1 @@
+lar[90171]=`<b>σιδηρό·τευκτος, ος, ον</b> <font color="purple">[ῐ]</font> fabriqué par le fer, POÈT. (ATH. <i>699f</i>).<p><b>Étym</b>. σ. τεύχω.`

@@ -1,0 +1,1 @@
+lar[9011]=`<b>ἀνθ·υπέρχομαι :<br>      1</b> se glisser <i>ou</i> s’insinuer à son tour, NICÉPH. <i>1, 601 W.</i><br><b>      2</b> prendre la place de, se substituer à, DYSC. <i>Synt. 95, 9 ; 112, 6</i>.<p><b>Étym</b>. ἀντί, ὑ.`

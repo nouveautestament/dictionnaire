@@ -1,0 +1,1 @@
+lar[18568]=`<b>ἀχυρο·δόκη, ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> grange pour la paille, XÉN. <i>Œc. 18, 7</i>.<p><b>Étym</b>. ἄχυρον, δέκομαι <i>c</i>. δέχομαι.`

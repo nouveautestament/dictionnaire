@@ -1,0 +1,1 @@
+lar[4679]=`<b>ης (ἡ)</b> Alkmènè (Alcmène) <i>mère d’Hèraklès,</i> IL. <i>14, 323</i> ; OD. <i>11, 266, etc</i>.<p>➳ <i>Dor</i>. -μήνα, PD. <i>P. 4, 305</i> ; THCR. <i>Idyl. 13, 20, et</i> -μάνα <font color="purple">[μᾱ]</font> SIM. <i>fr. 8</i>.`

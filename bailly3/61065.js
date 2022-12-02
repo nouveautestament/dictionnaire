@@ -1,0 +1,1 @@
+lar[61065]=`<b>λιθό·λευστος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> lapidé, DS. <i>3, 47</i> ; ἄρης, SOPH. <i>Aj. 254,</i> mort causée par lapidation.<br><b>      2</b> digne d’être lapidé, CALL. <i>Ep. 42, 5</i>.<p><b>Étym</b>. λ. λεύω.`

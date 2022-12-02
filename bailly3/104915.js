@@ -1,0 +1,1 @@
+lar[104915]=`<b>φαρμακοπωλέω-ῶ</b> <font color="purple">[μᾰ]</font> vendre des drogues (médicaments, <i>etc</i>.) AR. <i>fr. 95</i> ; DL. <i>10, 8</i>.<p><b>Étym</b>. φαρμακοπώλης.`

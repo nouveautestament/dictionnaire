@@ -1,0 +1,1 @@
+lar[60875]=`<b>ή, όν</b>, de brigand <i>ou</i> de pirate, <i>en parl. de choses</i> (vaisseau, navire, THC. <i>4, 9</i> ; DS. <i>3, 43</i> ; vie, ARSTT. <i>Pol. 1, 5</i> ; DS. <i>2, 48) ; en parl. de pers</i>. STR. <i>293</i> ; PLUT. <i>M. 277e ;</i> τὸ λῃστρικόν, vaisseau de pirate, PLUT. <i>Pomp. 24, ou</i> troupe de pirates, THC. <i>1, 4</i>.<p><b>Étym</b>. λῃστής.`

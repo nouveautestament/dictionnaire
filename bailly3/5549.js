@@ -1,0 +1,1 @@
+lar[5549]=`<b>ἀ·μήνυτος, ος, ον</b> <font color="purple">[ῡ]</font> non annoncé, caché, HLD. <i>8, 13</i>.<p><b>Étym</b>. ἀ, μηνύω.`

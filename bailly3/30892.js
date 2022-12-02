@@ -1,0 +1,1 @@
+lar[30892]=`<b>εἰσ·τελέω-ῶ</b> (<i>inf. prés. pass</i>. -τελεῖσθαι) ranger dans : εἰς γένος, PLAT. <i>Pol. 290e</i>, dans une classe.`

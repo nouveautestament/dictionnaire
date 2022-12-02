@@ -1,0 +1,1 @@
+lar[88908]=`<b>ῥυπόω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. part. pf. pass</i>. ῥερυπωμένος) salir, souiller, OD. <i>6, 59</i> ; HPC. <i>616, 36, etc</i>.<p><b>Étym</b>. ῥύπος.`

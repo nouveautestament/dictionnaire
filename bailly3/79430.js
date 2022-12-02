@@ -1,0 +1,1 @@
+lar[79430]=`<b>περι·στρώννυμι</b>, étendre autour, ATH. <i>18a ;</i> NONN. <i>D. 37, 590</i>.`

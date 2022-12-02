@@ -1,0 +1,1 @@
+lar[1651]=`<b>ἀεί·δρομος, ος, ον</b>, qui court toujours, NAZ. <i>3, 429 Migne</i>.<p><b>Étym</b>. ἀ. δραμεῖν.`

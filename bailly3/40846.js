@@ -1,0 +1,1 @@
+lar[40846]=`<b>Ἐρυσί·χθων, ονος (ὁ)</b> <font color="purple">[ῠ]</font> Érysikhthôn, <i>fils de Cécrops,</i> PLAT. <i>Criti. 110a</i>.<p><b>Étym</b>. <i>v</i>. ἐρυσίχθων.`

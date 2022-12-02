@@ -1,0 +1,1 @@
+lar[76553]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de verser auprès <i>ou</i> sur, ARÉT. <i>Caus. m. diut. 2, 1</i>.<p><b>Étym</b>. παρεγχέω.`

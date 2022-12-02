@@ -1,0 +1,1 @@
+lar[44038]=`<b>ἐφ·ημερεύω</b>, être garde <i>ou</i> de service pendant le jour, POL. <i>22, 10, 6</i> ; τινί, DS. <i>11, 8,</i> pour veiller à qqe ch.<p><b>Étym</b>. ἐπί, ἡ.`

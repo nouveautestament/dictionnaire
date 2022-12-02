@@ -1,0 +1,1 @@
+lar[94010]=`<b>συμ·μισοπονηρέω-ῶ</b> <font color="purple">[ῑ]</font> haïr ensemble le mal <i>ou</i> les méchants, SPT. <i>2Macc. 4, 36</i>.`

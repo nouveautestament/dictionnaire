@@ -1,0 +1,1 @@
+lar[17750]=`<b>αὐτο·φίλαυτος, ος, ον</b> <font color="purple">[ῐ]</font> plein de l’amour de soi-même, JOS. <i>A.J. 5, 6, 3</i>.`

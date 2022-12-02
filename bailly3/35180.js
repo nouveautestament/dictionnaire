@@ -1,0 +1,1 @@
+lar[35180]=`<b>έως</b>, <i>épq</i>. <b>-ῆος (ὁ)</b> <font color="purple">[ῡ]</font> Ényée (<i>litt</i>. le Belliqueux) <i>h</i>. IL. <i>9, 668</i> ; Q. SM. <i>1, 530</i>.<p><b>Étym</b>. Ἐνυώ.`

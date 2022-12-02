@@ -1,0 +1,1 @@
+lar[71801]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὀμφάλιος, PHÆNIAS (ATH. <i>58e</i>).`

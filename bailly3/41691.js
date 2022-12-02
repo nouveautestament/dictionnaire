@@ -1,0 +1,1 @@
+lar[41691]=`<b>εὔ·βιος, ος, ον</b>, qui se procure aisément de quoi vivre, ARSTT. <i>H.A. 9, 36</i>.<p>•<i> Sup</i>. -ώτατος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. εὖ, βίος.`

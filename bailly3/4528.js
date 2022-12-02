@@ -1,0 +1,1 @@
+lar[4528]=`<b>ἁλί·πεδον, ου (τὸ)</b> <font color="purple">[ᾰῐ]</font> sol voisin de la mer, plaine de sable, TH. <i>H.P. 7, 15, 2</i> ; LYC. <i>681</i>.<p>➳ <font color="purple">[ῑ]</font> LYC. <i>l. c</i>.<p><b>Étym</b>. ἅλς, πέδον.`

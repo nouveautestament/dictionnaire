@@ -1,0 +1,1 @@
+lar[1653]=`<b>ἀει·εστώ, όος-οῦς (ἡ)</b> existence éternelle, ANT. (HARP.).<p><b>Étym</b>. ἀ. εἰμί ; <i>cf</i>. εὐεστώ, ἀπεστώ.`

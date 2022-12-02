@@ -1,0 +1,1 @@
+lar[75837]=`<b>παρα·λέγω :<br>      1</b> dire par hasard, <i>acc</i>. PLUT. <i>M. 653e.</i><br><b>      2</b> déraisonner, avoir le délire, HPC. <i>Epid. 1, 954, 976</i>.<br><b>      3</b> arracher un à un des cheveux, des poils, AR. <i>Eccl. 904</i>.`

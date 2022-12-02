@@ -1,0 +1,1 @@
+lar[27308]=`<i>adv</i>., d’une manière déterminée, distinctement, <i>d’où</i> particulièrement, ARSTT. <i>H.A. 3, 19, 8</i> ; PLUT. <i>M. 415a ;</i> GAL. <i>12, 39</i>.<p><b>Étym</b>. διορίζω.`

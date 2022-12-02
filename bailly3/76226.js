@@ -1,0 +1,1 @@
+lar[76226]=`<b>παρα·σπείρω</b> <font color="darkgreen">(<i>f</i>. -σπερῶ, <i>part. pf. pass</i>. παρεσπαρμένος) :</font><br><b>      1</b> semer auprès <i>ou</i> parmi, TH. <i>C.P. 3, 10, 3 ; au pass</i>. être parsemé, PLAT. <i>Ax. 366a.</i><br><b>      2</b> <i>au pass</i>. être situé entre, STR. <i>829</i>.`

@@ -1,0 +1,1 @@
+lar[85930]=`<b>ατος (τὸ)</b> paiement supplémentaire fait au trésor par les fermiers des impôts, DÉM. <i>731, 5 et 11 au pl</i>.<p><b>Étym</b>. προσκαταβάλλω.`

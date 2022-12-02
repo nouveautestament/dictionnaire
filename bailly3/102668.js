@@ -1,0 +1,1 @@
+lar[102668]=`<b>εως (ἡ)</b> intelligence suprême, PLOT. <i>Enn. 6, 8, 16, p. 1375, 8 Creuz</i>.<p><b>Étym</b>. ὑπερνοέω.`

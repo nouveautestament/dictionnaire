@@ -1,0 +1,1 @@
+lar[5171]=`<i>adv. c</i>. ἅμα, CALL. <i>L. Pall. 75</i>.`

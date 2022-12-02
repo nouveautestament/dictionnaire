@@ -1,0 +1,1 @@
+lar[97855]=`<b>ταφρο·ποιέω-ῶ</b>, faire une tranchée, creuser une fosse, DS. <i>Exc. 502, 68</i>.<p><b>Étym</b>. τάφρος, ποιέω.`

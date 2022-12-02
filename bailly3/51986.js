@@ -1,0 +1,1 @@
+lar[51986]=`<b>καρυό·φυλλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> giroflier, <i>arbre,</i> GAL. <i>14, 462, etc</i>.<p><b>Étym</b>. κ. φύλλον.`

@@ -1,0 +1,1 @@
+lar[100077]=`<b>τριακοντά·κωπος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> à trente rames, POL. <i>23, 36, 13</i>.<p><b>Étym</b>. τρ. κώπη.`

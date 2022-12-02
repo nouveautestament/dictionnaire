@@ -1,0 +1,1 @@
+lar[7838]=`<b>*ἄ·ναυς</b>, <i>seul</i>. νᾶες ἄναες <font color="purple">[νᾱ]</font> <i>dor. p</i>. *ἄνηες, ESCHL. <i>Pers. 680,</i> vaisseaux qui n’en sont plus, vaisseaux perdus.<p><b>Étym</b>. ἀ, ναῦς.`

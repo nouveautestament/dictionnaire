@@ -1,0 +1,1 @@
+lar[67311]=`<b>μυρο·βρεχής, ής, ές</b> <font color="purple">[ῠ]</font> imprégné d’huile parfumée, SPT. <i>3Macc. 4, 6</i>.<p><b>Étym</b>. μ. βρέχω.`

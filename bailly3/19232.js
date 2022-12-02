@@ -1,0 +1,1 @@
+lar[19232]=`<b>βαρυ·ώδυνος, ος, ον</b> <font color="purple">[ᾰῠῠ]</font> aux douleurs intolérables, NONN. <i>D. 48, 808</i>.<p><b>Étym</b>. β. ὀδύνη.`

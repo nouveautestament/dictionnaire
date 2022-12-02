@@ -1,0 +1,1 @@
+lar[85039]=`<font color="purple">[ῠᾱ]</font> <i>vb. de</i> προπυριάω ANTYLL. (ORIB. <i>2, 445 B.-Dar</i>.).`

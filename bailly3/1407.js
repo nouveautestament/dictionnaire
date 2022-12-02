@@ -1,0 +1,1 @@
+lar[1407]=`<b>ἀ·δικαιολόγητος, ος, ον</b> <font color="purple">[ῐ]</font> non justifiable, CHRYS. <i>7, 359</i>.<p><b>Étym</b>. ἀ, δικαιολογέω.`

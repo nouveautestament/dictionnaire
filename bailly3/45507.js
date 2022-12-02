@@ -1,0 +1,1 @@
+lar[45507]=`<b>ή, όν</b>, de mulet, qui convient à des mulets, XÉN. <i>An. 7, 5, 1</i> ; STR. <i>282</i>.<p><b>Étym</b>. ἡμίονος.`

@@ -1,0 +1,1 @@
+lar[17284]=`<b>αὐρι·βάτης, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui marche rapidement, ESCHL. <i>fr. 266</i>.<p><b>Étym</b>. αὖρι <i>adv</i>., = ταχέως, GRAMM. <i>dans Bkk. 464, 9, étymol. inconnue</i> ; βαίνω.`

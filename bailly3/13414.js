@@ -1,0 +1,1 @@
+lar[13414]=`<b>ἀπο·στεγανόω-ῶ</b> <font color="purple">[γᾰ]</font> fermer hermétiquement, MOSCHION HIST. (ATH. <i>207b ; vulg</i>. ἀποστεγνόω).<p><b>Étym</b>. ἀ. στεγανός.`

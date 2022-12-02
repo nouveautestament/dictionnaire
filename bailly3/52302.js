@@ -1,0 +1,1 @@
+lar[52302]=`<b>εως (ἡ) :<br>      1</b> action de lier, d’attacher, PLUT. <i>M. 771a.</i><br><b>      2</b> <i>particul</i>. action de faire un sortilège au moyen d’un nœud (<i>v</i>. κατάδεσμος) PLAT. <i>Leg. 933a</i>.<p><b>Étym</b>. καταδέω¹.`

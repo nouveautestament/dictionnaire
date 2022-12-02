@@ -1,0 +1,1 @@
+lar[39432]=`<b>ορος (ὁ)</b> <font color="purple">[τῑ]</font> vengeur, <i>d’où</i> protecteur, OD. <i>9, 270</i>.<p><b>Étym</b>. ἐπιτιμάω.`

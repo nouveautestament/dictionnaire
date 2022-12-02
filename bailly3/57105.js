@@ -1,0 +1,1 @@
+lar[57105]=`<i>ou</i> <b>κόρνοψ, οπος (ὁ)</b> sauterelle, <i>mot thessal. d’Œta, c</i>. πάρνοψ, STR. <i>613</i>.`

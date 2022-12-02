@@ -1,0 +1,1 @@
+lar[60645]=`<b>λευκό·ψαρος, ος, ον</b> <font color="purple">[ᾱ]</font> d’un blanc gris, grisâtre, HIPPIATR.<p><b>Étym</b>. λ. ψαρός.`

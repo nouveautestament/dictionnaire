@@ -1,0 +1,1 @@
+lar[110095]=`<b>οῦ (ὁ)</b> action de crier ὤ ὤ, <i>d’où</i> cri, ESCHL. <i>Eum. 123</i>.<p><b>Étym</b>. ὤζω.`

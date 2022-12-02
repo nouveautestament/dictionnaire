@@ -1,0 +1,1 @@
+lar[75777]=`<font color="purple">[ᾰκ]</font> <i>adv</i>., avec intelligence, M. ANT. <i>6, 42</i>.`

@@ -1,0 +1,1 @@
+lar[46268]=`<b>ης (ἡ)</b> vin fait avec le marc, GEOP. <i>6, 13, 2</i>.`

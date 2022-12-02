@@ -1,0 +1,1 @@
+lar[36910]=`<b>ἐπεγερτικῶς</b>, <i>adv</i>., en excitant, CLÉM. <i>1, 492 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[41496]=`<b>Εὐ·άγγελος, ου (ὁ)</b> Euangélos, <i>h</i>. COM. (ATH. <i>644d</i>) ; PLUT. <i>Per. 16</i> ; LUC. <i>Ind. 8, etc</i>.<p><b>Étym</b>. <i>v</i>. εὐάγγελος.`

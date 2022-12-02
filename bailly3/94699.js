@@ -1,0 +1,1 @@
+lar[94699]=`<b>συν·αναδέχομαι</b>, prendre en même temps sur soi, <i>fig. acc</i>. POL. <i>16, 5, 6</i>.`

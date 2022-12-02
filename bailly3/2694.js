@@ -1,0 +1,1 @@
+lar[2694]=`<b>αἰν·ολέτης, ου (ὁ)</b> terrible destructeur, ORPH. <i>Arg. 427</i>.<p><b>Étym</b>. αἰν. ὄλλυμι.`

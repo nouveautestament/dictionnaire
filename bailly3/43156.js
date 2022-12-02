@@ -1,0 +1,1 @@
+lar[43156]=`<i>adv.</i> :<br><b>      1</b> dans le sens de la largeur, transversalement. IL. <i>11, 251</i>.<br><b>      2</b> de côté, IL. <i>15, 541</i> ; εὐ. πατάξ, AR. <i>Av. 1258,</i> au large ! hors d’ici !.<p><b>Étym</b>. εὐρύς.`

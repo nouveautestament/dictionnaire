@@ -1,0 +1,1 @@
+lar[88598]=`<b>ωνος (ὁ)</b> Rhinthôn, <i>poète tarentin,</i> ANTH. <i>7, 414</i> ; ATH. <i>111c, etc</i>.`

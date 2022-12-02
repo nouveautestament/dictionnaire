@@ -1,0 +1,1 @@
+lar[89656]=`<b>ης, ες</b>, qui ressemble à Silène <i>ou</i> à un silène, PLAT. <i>Conv. 216d</i>.<p><b>Étym</b>. Σειληνός, -ωδης.`

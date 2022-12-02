@@ -1,0 +1,1 @@
+lar[101430]=`<b>ὑγρό·φλοιος, ος, ον</b>, à l’écorce humide <i>ou</i> tendre, GEOP. <i>9, 16, 2</i>.<p><b>Étym</b>. ὑ. φλοιός.`

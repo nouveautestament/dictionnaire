@@ -1,0 +1,1 @@
+lar[36709]=`<b>εως (ἡ)</b> <font color="purple">[νῐ]</font><br><b>      1</b> action de rendre tout à fait égal, PHIL. <i>2, 479</i>.<br><b>      2</b> cotisation, NAZ. <i>3, 133 Migne</i>.<p><b>Étym</b>. ἐπανισόω.`

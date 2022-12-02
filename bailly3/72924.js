@@ -1,0 +1,1 @@
+lar[72924]=`<b>ὀρνιθό·γαλον, ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> ornithogale, <i>plante,</i> DIOSC. <i>2, 174</i>.<p><b>Étym</b>. ὄρνις, γάλα.`

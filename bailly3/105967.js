@@ -1,0 +1,1 @@
+lar[105967]=`<b>φιλο·νύμφιος, ος, ον</b> <font color="purple">[ῐλ]</font> qui aime les fiancés <i>ou</i> les jeunes époux, ANTH. <i>10, 21</i>.<p><b>Étym</b>. φ. νύμφη.`

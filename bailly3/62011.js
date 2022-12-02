@@ -1,0 +1,1 @@
+lar[62011]=`<b>ή, όν</b> <font color="purple">[ῡᾰ]</font> de Lysias, DH. <i>Lys. 12, etc.</i> ; PLUT. <i>M. 42d</i>.<p><b>Étym</b>. Λυσίας.`

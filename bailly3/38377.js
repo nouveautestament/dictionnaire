@@ -1,0 +1,1 @@
+lar[38377]=`<b>ἐπι·μαστίω</b> (<i>seul. impf. 3 sg</i>. ἐπεμάστιε) flageller, frapper, NONN. <i>D. 1, 80</i>.<p><b>Étym</b>. ἐπί, μάστιξ.`

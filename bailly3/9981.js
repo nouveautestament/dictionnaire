@@ -1,0 +1,1 @@
+lar[9981]=`<b>ἀντι·κόντωσις, εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> action de s’appuyer sur un bâton, HPC. <i>819, 824</i>.<p><b>Étym</b>. ἀντικοντόω.`

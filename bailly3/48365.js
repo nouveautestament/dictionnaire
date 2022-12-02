@@ -1,0 +1,1 @@
+lar[48365]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> Idalion, <i>promont. et v. de Chypre,</i> THCR. <i>Idyl. 15, 100</i>.`

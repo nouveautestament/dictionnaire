@@ -1,0 +1,1 @@
+lar[16632]=`<b>ητος (ἡ)</b> <font color="purple">[μᾰ]</font> nature incorporelle, CHRYS.<p><b>Étym</b>. ἀσώματος.`

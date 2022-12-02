@@ -1,0 +1,1 @@
+lar[104258]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>c</i>. Ὑρκάνιος, PLUT. <i>Crass. 21, etc.</i><br><b>      2</b> Hyrkanos, <i>n. de chien,</i> PLUT. <i>Sol. an. 14</i>.`

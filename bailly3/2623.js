@@ -1,0 +1,1 @@
+lar[2623]=`<b>αἱμυλο·μήτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> habile dans l’art de tromper, HH. <i>Merc. 13</i>.<p><b>Étym</b>. αἱμύλος, μῆτις.`

@@ -1,0 +1,1 @@
+lar[31635]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’une manière dégagée, aisément, PLUT. <i>Lyc. 17</i>.<p><b>Étym</b>. ἔκλυτος.`

@@ -1,0 +1,1 @@
+lar[84145]=`<b>προ·εμφανίζομαι</b> <font color="purple">[ᾰ]</font> se montrer devant <i>ou</i> avant, <i>gén</i>. LGN <i>17, 3</i>.`

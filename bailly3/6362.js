@@ -1,0 +1,1 @@
+lar[6362]=`<b>ή, όν</b>, propre à la controverse, PLAT. <i>Pol. 306</i> a : ἡ -ική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 226a</i>, l’art de la controverse ; τὸ ἀμφισβητητικόν, PLAT. <i>Soph. 225a</i>, la controverse.`

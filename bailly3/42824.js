@@ -1,0 +1,1 @@
+lar[42824]=`<b>εὐξυλο·εργός, ός, όν</b> <font color="purple">[ῠ]</font> habile à travailler le bois, MAN. <i>4, 324</i>.<p><b>Étym</b>. εὔξυλος, ἔργον.`

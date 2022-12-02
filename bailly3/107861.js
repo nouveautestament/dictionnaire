@@ -1,0 +1,1 @@
+lar[107861]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> action de planter des échalas, PHÉRÉCR. (ATH. <i>269c</i>).<p><b>Étym</b>. χαρακίζω.`

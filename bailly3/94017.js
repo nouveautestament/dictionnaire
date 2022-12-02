@@ -1,0 +1,1 @@
+lar[94017]=`<b>ῆς (ἡ) :<br>      1</b> séjour en commun, CHRYSIPP. (PLUT. <i>M. 1054f</i>) ; SEXT. <i>M. 9, 72, etc.</i><br><b>      2</b> vie commune, MUSON. (STOB. <i>Fl. 69, 23).</i><p><b>Étym</b>. συμμένω.`

@@ -1,0 +1,1 @@
+lar[71951]=`<b>ὀνο·κένταυρος, ου (ὁ)</b> âne-centaure <i>ou</i> onocentaure, <i>sorte de démon,</i> SPT. <i>Esaï. 13, 24 ; 34, 11, 14</i>.<p><b>Étym</b>. ὄν. κένταυρος.`

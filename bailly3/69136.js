@@ -1,0 +1,1 @@
+lar[69136]=`<b>νυκτι·κρυφής, ής, ές</b> <font color="purple">[ῠφ]</font> qui se cache la nuit, ARSTT. <i>Metaph. 6, 15, 9</i>.<p><b>Étym</b>. ν. κρύπτω.`

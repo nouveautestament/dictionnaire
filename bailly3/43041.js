@@ -1,0 +1,1 @@
+lar[43041]=`<b>ας (ἡ)</b> heureuse navigation, ESCHL. <i>Suppl. 1046</i> ; SOPH. <i>O.R. 423, Ph. 1465</i> ; PLUT. <i>Mar. 46</i>.<p>➳ <i>Épq. et ion</i>. -οίη, IL. <i>9, 362 ; poét</i>. -οΐη, ANTH. <i>9, 9 et 107 ; App. 283</i>.<p><b>Étym</b>. εὔπλοος.`

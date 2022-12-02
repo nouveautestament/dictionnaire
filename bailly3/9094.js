@@ -1,0 +1,1 @@
+lar[9094]=`<b>ἀν·ίουλος, ος, ον</b>, qui n’a pas encore de duvet, CHRIST. <i>Ecphr. 136, 291</i>.<p><b>Étym</b>. ἀν-, ἴ.`

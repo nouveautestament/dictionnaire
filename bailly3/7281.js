@@ -1,0 +1,1 @@
+lar[7281]=`<b>ου (ὁ)</b> Anaxandridès (Anaxandride) :<br><b>      1</b> <i>roi lacédémonien,</i> HDT. <i>1, 67, etc.</i><br><b>      2</b> <i>poète de la moyenne comédie</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>l. c</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀνάξανδρος.`

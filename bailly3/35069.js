@@ -1,0 +1,1 @@
+lar[35069]=`<b>ἐν·τεχνάζω</b>, montrer son habileté dans <i>ou</i> parmi, LIB. <i>4, 1041</i>.`

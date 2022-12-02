@@ -1,0 +1,1 @@
+lar[18876]=`<b>α, ον</b>, de Bactres, HDT. ESCHL. EUR. ; οἱ βάκτριοι, HDT. ESCHL. XÉN. les habitants de Bactres.<p>➳ <i>Fém. ion</i>. -ίη, HDT. <i>4, 204, etc</i>.<p><b>Étym</b>. βάκτρα.`

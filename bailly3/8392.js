@@ -1,0 +1,1 @@
+lar[8392]=`<b>ἀν·εξιχνίαστος, ος, ον</b>, dont on ne peut saisir la trace, qu’on ne peut découvrir, SPT. <i>Job 5, 9 ; 9, 10</i> ; NT. <i>Rom. 11, 33 ; Eph. 3, 8</i>.<p><b>Étym</b>. ἀν-, ἐξιχνιάζω.`

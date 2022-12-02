@@ -1,0 +1,1 @@
+lar[31668]=`<b>ἐκ·μελής, ής, ές</b>, dissonant, T. LOCR. <i>101b ;</i> PLUT. <i>Demetr. 1 ; fig</i>. déplacé, peu convenable, XÉN. <i>Ep. 2, 4 ; en parl. d’une ambition démesurée,</i> PLUT. <i>Lys. 23</i>.<p><b>Étym</b>. ἐκ, μέλος.`

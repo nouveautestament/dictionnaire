@@ -1,0 +1,1 @@
+lar[70110]=`<i>barbarisme d’un Scythe p</i>. ὁδός, AR. <i>Th. 1222</i>.`

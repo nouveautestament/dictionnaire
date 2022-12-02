@@ -1,0 +1,1 @@
+lar[15035]=`<b>ου (ὁ)</b> Harpagos :<br><b>      1</b> <i>ministre d’Astyage,</i> HDT. <i>1, 80, etc.</i><br><b>      2</b> <i>général de Darius, fils d’Hystaspe,</i> HDT. <i>6, 28, etc</i>.`

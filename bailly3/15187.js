@@ -1,0 +1,1 @@
+lar[15187]=`<b>ἀ·ρρυπάρως</b>, <i>adv</i>., sans souillure, NAZ. <i>2, 424 Migne</i>.`

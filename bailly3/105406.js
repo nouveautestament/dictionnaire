@@ -1,0 +1,1 @@
+lar[105406]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Phila, <i>f</i>. DÉM. <i>Or. 59, 19 Baiter-Sauppe, etc.</i> ; ANTH. <i>6, 118</i> ; PLUT. <i>Demetr. 14, 22, etc</i>.<p><b>Étym</b>. φίλος.`

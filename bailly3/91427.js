@@ -1,0 +1,1 @@
+lar[91427]=`<b>εως (ἡ)</b> raillerie, moquerie, ALEX. (<i>Com. fr. 3, 454).</i><p><b>Étym</b>. σκώπτω.`

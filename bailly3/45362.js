@@ -1,0 +1,1 @@
+lar[45362]=`<b>ἡμερό·φωνος, ος, ον</b>, qui appelle <i>ou</i> salue le jour, <i>en parl. du coq,</i> SIM. <i>fr. 123</i>.<p><b>Étym</b>. ἡμέρα, φωνή.`

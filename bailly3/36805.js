@@ -1,0 +1,1 @@
+lar[36805]=`<b>ἐπ·αρτίζω</b>, préparer, A.RH. <i>1, 1210 (opt. ao. poét. 3 sg</i>. ἐπαρτίσσειεν), <i>d’où au pass</i>. se préparer, être prêt à, <i>avec l’inf</i>. A.RH. <i>1, 877</i>.<p><b>Étym</b>. <i>impf. 3 pl. poét</i>. ἐπαρτίζοντο.`

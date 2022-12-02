@@ -1,0 +1,1 @@
+lar[55058]=`<b>ου (ὁ)</b> machine pour lancer des projectiles, POL. <i>27, 9 ; cf. lat</i>. cestrosphendone, LIV. <i>42, 65</i>.`

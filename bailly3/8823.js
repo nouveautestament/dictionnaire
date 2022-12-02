@@ -1,0 +1,1 @@
+lar[8823]=`<b>ῆς (ἡ)</b> Anthènè, <i>v. de l’Inde,</i> NONN. <i>D. 26, 87</i>.`

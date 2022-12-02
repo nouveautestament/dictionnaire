@@ -1,0 +1,1 @@
+lar[96255]=`<b>συν·οψοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> se régaler avec, PLUT. <i>M. 124c</i>.`

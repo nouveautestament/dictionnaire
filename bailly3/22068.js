@@ -1,0 +1,1 @@
+lar[22068]=`<b>ης, ες</b>, de l’espèce de la chouette, ARSTT. <i>H.A. 2, 12, 7</i>.<p><b>Étym</b>. γλαύξ, -ωδης.`

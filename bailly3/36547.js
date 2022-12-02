@@ -1,0 +1,1 @@
+lar[36547]=`<b>ἐπ·αμφιάζω</b>, revêtir par-dessus, MÉN. (STOB. <i>Fl. 3, 22</i>).<br><b><i>Moy.</i></b> se revêtir par-dessus, ARSTD. <i>t. 1, 72</i> ; BAS. <i>1, 124 Migne</i>.`

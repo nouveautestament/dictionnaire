@@ -1,0 +1,1 @@
+lar[84214]=`<b>προ·εξορμάω-ῶ :<br>      1</b> s’élancer devant, XÉN. <i>Mem. 3, 13, 5</i> ; DC. <i>46, 37</i>.<br><b>      2</b> s’élancer <i>ou</i> sortir avant le temps, ARSTT. <i>H.A. 7, 10, 6</i>.`

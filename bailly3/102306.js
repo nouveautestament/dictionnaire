@@ -1,0 +1,1 @@
+lar[102306]=`<b>ὑπερ·αστράπτω</b>, briller d’un vif éclat, ARR. <i>Cyn. 4, 5</i>.`

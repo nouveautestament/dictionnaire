@@ -1,0 +1,1 @@
+lar[64361]=`<b>ορος (ὁ)</b> Mentor :<br><b>      1</b> <i>ami d’Ulysse,</i> OD. <i>2, 225, etc.</i><br><b>      2</b> <i>Troyen,</i> IL. <i>13, 171</i>.<br><b>      3</b> <i>autres,</i> DÉM. <i>23, 154, 157 Baiter-Sauppe</i> ; PLUT. <i>Eum. 2, etc</i>.<p>➳ <i>Voc</i>. Μέντορ, OD. <i>2, 243 ; 22, 213, etc</i>.<p><b>Étym</b>. μένος.`

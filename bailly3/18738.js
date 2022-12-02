@@ -1,0 +1,1 @@
+lar[18738]=`<b>βαθύ·γειος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au sol profond, <i>càd</i>. fécond, CALL. <i>Ap. 64</i> ; TH. <i>H.P. 4, 11, 9 ; etc.</i> ; DS. PHIL. <i>etc</i>.<p>•<i> Sup</i>. βαθυγειότατος, PHIL. <i>1, 332 ; 2, 76</i>.<p>➳ <i>Ion</i>. βαθύγαιος, HDT. <i>4, 23 ; att</i>. βαθύγεως, ως, ων, TH. <i>C.P. 2, 4, 10</i>.`

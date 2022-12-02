@@ -1,0 +1,1 @@
+lar[29157]=`<b>      1</b> parler dorien, STR. <i>333</i> ; PLUT. <i>M. 421b ; au pass</i>. être écrit en dorien, DYSC. <i>Synt. 3, p. 277</i>.<br><b>      2</b> chanter selon le mode dorien, HSCH.<p>➳ <i>Inf. prés. dor</i>. δωρίσδεν, THCR. <i>Idyl. 15, 93</i>.<p><b>Étym</b>. Δωρίς.`

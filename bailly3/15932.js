@@ -1,0 +1,1 @@
+lar[15932]=`<b>ἀ·σκίαστος, ος, ον</b>, non ombragé, sans ombre, ONOS. <i>10, 1, 4</i>.<p><b>Étym</b>. ἀ, σκιάζω.`

@@ -1,0 +1,1 @@
+lar[97777]=`<b>ταυρο·γενής, ής, ές</b>, né d’un taureau, <i>ép. de Dionysos,</i> ORPH. <i>fr. 28, 7</i>.<p><b>Étym</b>. τ. γίγνομαι.`

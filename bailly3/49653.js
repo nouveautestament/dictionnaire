@@ -1,0 +1,1 @@
+lar[49653]=`<b>ἰσό·κοιλος, ος, ον</b> <font color="purple">[ῑ̆]</font> également creux, PLUT. <i>M. 1021a</i>.<p><b>Étym</b>. ἴ. κοῖλος.`

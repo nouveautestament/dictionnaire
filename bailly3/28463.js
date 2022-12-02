@@ -1,0 +1,1 @@
+lar[28463]=`<b>ας (ἡ)</b> jalousie furieuse, ATH. <i>589b</i>.<p><b>Étym</b>. δύσζηλος.`

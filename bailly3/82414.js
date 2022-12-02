@@ -1,0 +1,1 @@
+lar[82414]=`<b>ας (ἡ)</b> modulations variées d’un chant, ANTH. <i>7, 198</i>.<p><b>Étym</b>. πολύστροφος.`

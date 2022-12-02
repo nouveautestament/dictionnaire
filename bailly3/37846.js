@@ -1,0 +1,1 @@
+lar[37846]=`<b>ἐπι·θυμίς, ίδος (ἡ)</b> <font color="purple">[ῠ]</font> bouquet de thym, DIOSC. <i>3, 38</i>.<p><b>Étym</b>. ἐπί, θύμος.`

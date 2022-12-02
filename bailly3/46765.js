@@ -1,0 +1,1 @@
+lar[46765]=`<b>θεο·πρόσπολος, ου (ὁ)</b> serviteur des dieux, PTOL. <i>Tetr. 71</i>.`

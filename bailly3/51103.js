@@ -1,0 +1,1 @@
+lar[51103]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> belle écriture, PLUT. <i>M. 397c.</i><br><b>      2</b> beau style, PLUT. <i>M. 145f, etc.</i> ; DL. <i>3, 66</i>.<p><b>Étym</b>. καλλιγράφος.`

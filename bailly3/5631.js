@@ -1,0 +1,1 @@
+lar[5631]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> ἅμμα, GAL. <i>2, 398</i>.`

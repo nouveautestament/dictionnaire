@@ -1,0 +1,1 @@
+lar[3141]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en un instant, DH. <i>5, 87 Reiske</i>.<p><b>Étym</b>. ἀκαρής, <i>cf</i>. ἀκαρί.`

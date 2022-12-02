@@ -1,0 +1,1 @@
+lar[105975]=`<b>Φιλό·ξενος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philoxénos, <i>h</i>. AR. <i>Ran. 934, Vesp. 84, Nub. 686</i> ; XÉN. <i>An. 5, 2, 15</i> ; PLUT. <i>Alex. 22, etc</i>.`

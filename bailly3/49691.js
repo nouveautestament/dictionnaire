@@ -1,0 +1,1 @@
+lar[49691]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> part égale, THC. <i>7, 75 ; particul</i>. égalité de droits, DC. <i>52, 4</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Aër. 288</i>.<p><b>Étym</b>. ἰσόμοιρος.`

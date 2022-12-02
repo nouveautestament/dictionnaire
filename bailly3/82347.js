@@ -1,0 +1,1 @@
+lar[82347]=`<b>πολυσαρκέω-ῶ</b> <font color="purple">[ῠ]</font> avoir beaucoup d’embonpoint, NYSS.<p><b>Étym</b>. πολύσαρκος.`

@@ -1,0 +1,1 @@
+lar[80688]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> écriture fausse, faux, JOS. <i>Vit. 11</i>.<p><b>Étym</b>. πλαστογράφος.`

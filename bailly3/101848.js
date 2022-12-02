@@ -1,0 +1,1 @@
+lar[101848]=`<b>ης (ἡ)</b> Hyoessa, <i>font. près de Trœzène,</i> SOPH. (ATH. <i>122f</i>).<p><b>Étym</b>. *ὑόεις, fréquenté par les porcs, <i>de</i> ὗς.`

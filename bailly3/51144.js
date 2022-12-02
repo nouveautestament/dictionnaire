@@ -1,0 +1,1 @@
+lar[51144]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> Kallikrateia, <i>f</i>. ANTH. <i>7, 224</i>.<p><b>Étym</b>. <i>v</i>. Καλλικράτης.`

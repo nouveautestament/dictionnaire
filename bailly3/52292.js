@@ -1,0 +1,1 @@
+lar[52292]=`<b>κατα·δειλιάω-ῶ :<br>      1</b> être abattu, paralysé par la peur, DÉM. <i>1410, 5</i> ; HDN <i>2, 5, 8</i>.<br><b>      2</b> reculer par crainte devant, <i>acc</i>. XÉN. <i>An. 7, 6, 22</i>.`

@@ -1,0 +1,1 @@
+lar[95743]=`<b>συν·έρδω</b> <font color="darkgreen">(<i>f</i>. συνέρξω)</font> faire avec, aider, SOPH. <i>El. 350, Tr. 83</i>.`

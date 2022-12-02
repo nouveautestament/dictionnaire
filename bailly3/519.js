@@ -1,0 +1,1 @@
+lar[519]=`<b>ας (ἡ) :<br>      1</b> fierté, arrogance, POL. <i>10, 35, 8</i> ; SPT. <i>2Macc. 9, 7 ; 3 Macc. 3, 2, 3, etc.</i><br><b>      2</b> ostentation, SPT. <i>Sap. 2, 9, etc.</i><br><b>      3</b> pétulance, LGS <i>2, 3</i>.`

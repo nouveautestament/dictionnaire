@@ -1,0 +1,1 @@
+lar[96265]=`<b>ή, όν</b>, mis en ordre, arrangé, composé, DL. <i>7, 64</i>.<p><b>Étym</b>. συντάσσω.`

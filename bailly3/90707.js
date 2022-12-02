@@ -1,0 +1,1 @@
+lar[90707]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> époque favorable pour façonner la vigne, HÉS. <i>O. 570</i> ; GEOP. <i>3, 4, 5</i>.<p><b>Étym</b>. <i>v</i>. σκάφος².`

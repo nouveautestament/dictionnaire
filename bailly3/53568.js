@@ -1,0 +1,1 @@
+lar[53568]=`<b>κατα·τορνεύω</b>, fabriquer <i>ou</i> polir au tour, HÉRON <i>Spir. p. 180, 19</i>.`

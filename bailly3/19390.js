@@ -1,0 +1,1 @@
+lar[19390]=`<font color="purple">[ᾰ]</font> <i>c</i>. βαυκαλάω, ALEX. <i>(Bkk. 85, 14</i>).`

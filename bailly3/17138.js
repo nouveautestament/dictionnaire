@@ -1,0 +1,1 @@
+lar[17138]=`<b>αὐθ·αίμων, ων, ον</b>, <i>gén</i>. <b>-ονος</b>, qui est du même sang, frère, sœur, parent, SOPH. <i>Tr. 1041</i>.<p><b>Étym</b>. αὐτός, αἷμα.`

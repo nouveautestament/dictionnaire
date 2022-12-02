@@ -1,0 +1,1 @@
+lar[15113]=`<b>ἀρρενο·γόνος, ος, ον</b>, qui engendre <i>ou</i> qui produit des enfants mâles, ARSTT. <i>H.A. 7, 1, 19</i> ; TH. <i>H.P. 9, 18, 5 ; en parl. de certaines préparations médicales,</i> DIOSC. <i>3, 140</i>.<p>➳ ἀρσενο-, HPC. <i>683, 55</i>.<p><b>Étym</b>. ἄρρην, γίγνομαι.`

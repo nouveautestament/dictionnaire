@@ -1,0 +1,1 @@
+lar[21201]=`<b>γαλακτο·παγής, ής, ές</b> <font color="purple">[γᾰπᾰ]</font> blanc comme du lait caillé, ANTH. <i>5, 60 ; 12, 204</i>.<p><b>Étym</b>. γ. πήγνυμι.`

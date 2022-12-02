@@ -1,0 +1,1 @@
+lar[69493]=`<b>Ξενό·τιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Xénotimos, <i>h</i>. THC. <i>2, 23</i> ; ISOCR. <i>369b, etc</i>.<p><b>Étym</b>. <i>cf</i>. ξενότιμος.`

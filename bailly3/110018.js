@@ -1,0 +1,1 @@
+lar[110018]=`<b>ψυχρολουτέω-ῶ</b>, prendre un bain froid, HPC. <i>484, 37</i> ; AR. <i>fr. 39</i> ; PLUT. <i>Alc. 23, M. 52e ;</i> LUC. <i>Ic. 31, etc</i>.<p><b>Étym</b>. ψυχρολούτης.`

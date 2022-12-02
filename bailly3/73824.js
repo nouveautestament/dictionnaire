@@ -1,0 +1,1 @@
+lar[73824]=`<i>adv</i>., en forme d’œil, DIOSC. <i>4, 58</i>.<p><b>Étym</b>. ὀφθαλμοειδής.`

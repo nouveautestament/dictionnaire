@@ -1,0 +1,1 @@
+lar[17425]=`<b>αὐτο·γόνος, ος, ον</b>, qui produit par soi-même, NONN. <i>D. 9, 229</i>.<p><b>Étym</b>. αὐ. γίγνομαι.`

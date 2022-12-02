@@ -1,0 +1,1 @@
+lar[76006]=`<b>παρα·νυκτερεύω</b>, passer la nuit près de, <i>dat</i>. PLUT. <i>Pel. 35, etc</i>.`

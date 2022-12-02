@@ -1,0 +1,1 @@
+lar[13768]=`<b>ἀπο·φυσάω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ῡ]</font><br><b>      1</b> dissiper par son souffle, AR. <i>Vesp. 330</i> ; ARSTT. <i>Meteor. 2, 6, 18</i>.<br><b>      2</b> exhaler, LUC. <i>Nav. 26</i>.`

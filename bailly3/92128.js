@@ -1,0 +1,1 @@
+lar[92128]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> <i>c</i>. σταλακτίς DIOSC. <i>5, 114</i>.<p><b>Étym</b>. <i>vb. de</i> σταλάσσω.`

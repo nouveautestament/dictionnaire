@@ -1,0 +1,1 @@
+lar[105564]=`<b>φιλ·εργός, ός, όν</b> <font color="purple">[ῐ]</font> qui aime le travail, laborieux, DÉM. <i>957, 28</i> ; PLUT. <i>M. 552a ;</i> τὸ φιλεργόν, EL. <i>V.H. 13, 1,</i> amour du travail.<p><b>Étym</b>. φ. ἔργον.`

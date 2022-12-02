@@ -1,0 +1,1 @@
+lar[71068]=`<b>ὀλιγο·τρόφος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> peu nourrissant, HPC. <i>85a ;</i> TH. <i>C.P. 3, 13, 4</i> ; DIPH. (ATH. <i>51b</i>).<br><b>      2</b> qui prend peu de nourriture, sobre, ARSTT. <i>P.A. 4, 5, 60</i>.<p><b>Étym</b>. ὀλ. τρέφω.`

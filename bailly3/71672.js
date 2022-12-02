@@ -1,0 +1,1 @@
+lar[71672]=`<b>ὁμο·ρρόθιος, ος, ον</b>, qui fait du bruit en même temps, <i>particul</i>. qui rame en même temps, <i>p. suite, fig</i>. qui agit de concert, qui est d’accord, ANTH. <i>7, 374</i>.<p><b>Étym</b>. ὁμ. ῥοθέω.`

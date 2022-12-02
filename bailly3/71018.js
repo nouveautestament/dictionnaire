@@ -1,0 +1,1 @@
+lar[71018]=`<b>ὀλιγό·ϊνος, ος, ον</b> <font color="purple">[ῐῑ]</font> qui a les fibres rares <i>ou</i> faibles, TH. <i>H.P. 5, 1, 5</i>.<p><b>Étym</b>. ὀλ. ἴς.`

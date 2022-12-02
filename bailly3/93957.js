@@ -1,0 +1,1 @@
+lar[93957]=`<b>συμ·μετακοσμέω-ῶ</b>, modifier le costume avec, <i>d’où au pass</i>. changer de costume <i>ou</i> d’habitudes avec, <i>dat</i>. PLUT. <i>Alex. 47</i>.`

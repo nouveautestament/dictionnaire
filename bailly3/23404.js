@@ -1,0 +1,1 @@
+lar[23404]=`<b>οῦ</b> <font color="purple">[ῐ]</font> <i>adj. m., c</i>. δαψιλής, ample, vaste (espace du ciel) EMPÉD. (ARSTT. <i>Cæl. 2, 13</i>).`

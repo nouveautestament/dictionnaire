@@ -1,0 +1,1 @@
+lar[84558]=`<b>προ·κλαίω</b> <font color="darkgreen">(<i>impf</i>. προὔκλαιον)</font> pleurer d’avance <i>ou</i> auparavant, SOPH. <i>Tr. 963</i> ; τινά, HDT. <i>5, 8</i> ; EUR. <i>Alc. 529,</i> pleurer d’avance sur qqn.`

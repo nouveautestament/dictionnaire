@@ -1,0 +1,1 @@
+lar[43871]=`<b>ας (ἡ)</b> beau temps, belle saison, LGS <i>1, 9</i>.<p><b>Étym</b>. εὔωρος².`

@@ -1,0 +1,1 @@
+lar[25825]=`<b>δι·αφαιρέω-ῶ</b>, enlever tout à fait, P. ÉG. <i>187, 28</i> ; SPT. <i>1Reg. 17, 39</i>.`

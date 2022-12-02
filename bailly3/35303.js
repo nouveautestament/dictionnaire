@@ -1,0 +1,1 @@
+lar[35303]=`<b>(ὁ)</b> Exathrès, <i>Perse,</i> PLUT. <i>Alex. 43</i>.`

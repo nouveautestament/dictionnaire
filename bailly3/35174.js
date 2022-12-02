@@ -1,0 +1,1 @@
+lar[35174]=`<b>ος, ον</b>, qui est dans l’eau, aquatique, JAMBL. <i>Myst. 30, 3</i>.<p><b>Étym</b>. ἔνυδρος.`

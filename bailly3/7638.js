@@ -1,0 +1,1 @@
+lar[7638]=`<b>ἀνα·σπαράσσω</b> <font color="purple">[πᾰ]</font> (<i>seul. impf</i>.) arracher, EUR. <i>Bacch. 1104</i>.`

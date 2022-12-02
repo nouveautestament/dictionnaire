@@ -1,0 +1,1 @@
+lar[37650]=`<b>ἐπι·δίψιος, ος, ον</b>, qui donne soif, qui altère, NIC. <i>Th. 436</i>.`

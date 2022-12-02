@@ -1,0 +1,1 @@
+lar[41321]=`<b>ητος (ἡ)</b> différence, dissemblance, PLAT. <i>Parm. 160d, 164a ;</i> PHIL. <i>1, 5</i>.<p><b>Étym</b>. ἑτεροῖος.`

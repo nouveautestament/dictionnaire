@@ -1,0 +1,1 @@
+lar[22224]=`<b>γλωσσο·γάστωρ, ορος (ὁ)</b> dont la langue nourrit le ventre, qui vit de sa langue, COM. (POLL. <i>2, 108).</i><p><b>Étym</b>. γλῶσσα, γαστήρ.`

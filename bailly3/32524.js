@@ -1,0 +1,1 @@
+lar[32524]=`<b>*ἐλάσσωσις</b>, <i>seul. att</i>. <b>ἐλάττωσις, εως (ἡ) :<br>   I</b> <i>act</i>. action d’amoindrir, PLAT. <i>Def. 412b ;</i> ARSTT. <i>Top. 6, 3, 7</i>.<br><b>   II</b> <i>pass.</i> :<br><b>      1</b> défaite, ARSTT. <i>Rhet. Al. 37, 4</i> ; POL. <i>2, 36, 6, etc.</i><br><b>      2</b> faute, défaut, PLUT. <i>M. 2c</i>.<p><b>Étym</b>. ἐλασσόω.`

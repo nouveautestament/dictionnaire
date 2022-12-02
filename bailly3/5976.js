@@ -1,0 +1,1 @@
+lar[5976]=`<b>ἀμφ·άγαμαι</b> <font color="darkgreen">(<i>ao. 3 pl. poét</i>. ἀμφαγάσαντο)</font> <font color="purple">[ᾰγᾰ]</font> admirer, <i>litt</i>. entourer d’admiration, Q. SM. <i>7, 722</i>.<p><b>Étym</b>. ἀμφί, ἄ.`

@@ -1,0 +1,1 @@
+lar[90469]=`<b>α, ον</b> <font color="purple">[ῑῠ]</font> de Sisyphe, EUR. <i>H.f. 1102, etc.</i> ; LUC. <i>Nav. 21, etc</i>.<p><b>Étym</b>. Σίσυφος.`

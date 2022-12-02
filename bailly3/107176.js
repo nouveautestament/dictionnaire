@@ -1,0 +1,1 @@
+lar[107176]=`<b>εως (ἡ)</b> <font color="purple">[ῡῐν]</font> classification, <i>litt</i>. division en tribus <i>ou</i> en espèces, CLÉM. <i>449</i>.<p><b>Étym</b>. φυλοκρινέω.`

@@ -1,0 +1,1 @@
+lar[82948]=`<b>ου (ὁ)</b> = <i>lat</i>. Postumius, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 12, etc. ; au plur</i>. οἱ Ποστούμιοι, PLUT. <i>Fort. Rom. 12,</i> les Postumius.`

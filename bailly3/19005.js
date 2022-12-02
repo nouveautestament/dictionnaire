@@ -1,0 +1,1 @@
+lar[19005]=`<b>ης, ες</b> <font color="purple">[σᾰ]</font> balsamique, PLIN. <i>H.N. 12, 19</i>.<p><b>Étym</b>. βάλσαμον, -ωδης.`

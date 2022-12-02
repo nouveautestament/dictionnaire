@@ -1,0 +1,1 @@
+lar[19219]=`<b>βαρύ·φθογγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui produit un bruit sourd, qui gronde sourdement, <i>ou au contr</i>. retentissant, <i>en parl. du rugissement du lion,</i> HH. <i>Ven. 160 ; du mugissement du bœuf,</i> ARSTT. <i>G.A. 5, 7, 13, etc</i>.<p><b>Étym</b>. β. φθέγγομαι.`

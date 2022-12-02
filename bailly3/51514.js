@@ -1,0 +1,1 @@
+lar[51514]=`<b>κανητο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> vannier, HIPPON. <i>fr. 116</i>.<p><b>Étym</b>. κάνης, ποιέω.`

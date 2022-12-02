@@ -1,0 +1,1 @@
+lar[82624]=`<b>α, ον</b>, qui conduit, conducteur, PD. <i>P. 1, 66</i> ; EUR. <i>I.A. 1322 ; particul. ép. d’Hermès, conducteur des âmes aux enfers,</i> ESCHL. <i>Eum. 91</i> ; SOPH. <i>Aj. 832, etc</i>.<p><b>Étym</b>. πομπή.`

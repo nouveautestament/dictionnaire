@@ -1,0 +1,1 @@
+lar[14330]=`<b>ἀργυρο·γνώμων, ονος (ὁ)</b> <font color="purple">[ῠ]</font> essayeur d’argent, PLAT. <i>Virt. 378e ;</i> ARSTT. <i>Rhet. 1, 15</i> ; PLUT. <i>Crass. 2, etc</i>.<p><b>Étym</b>. ἄ. γνώμων.`

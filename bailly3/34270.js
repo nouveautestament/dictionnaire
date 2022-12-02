@@ -1,0 +1,1 @@
+lar[34270]=`<b>ῆρος</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui enveloppe, SOPH. <i>Tr. 674</i>.<p><b>Étym</b>. ἐνδύω.`

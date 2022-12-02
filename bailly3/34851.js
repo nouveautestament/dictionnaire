@@ -1,0 +1,1 @@
+lar[34851]=`<b>ἐν·όριος, ος, ον</b>, renfermé dans des limites ; ἐνόριοι θεοί, HLD. <i>10, 1,</i> les divinités d’un pays ; <i>fém. réc. subst</i>. ἡ ἐνορία (<i>s.-e</i>. ἐκκλησία <i>ou</i> διοίκησις) NYSS. <i>3, 1001 Migne,</i> circonscription d’une église, diocèse, paroisse.<p><b>Étym</b>. ἐν, ὅρος.`

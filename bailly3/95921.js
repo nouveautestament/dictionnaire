@@ -1,0 +1,1 @@
+lar[95921]=`<b>συν·θαυμάζω</b>, s’étonner <i>ou</i> admirer ensemble <i>ou</i> également, PLAT. <i>Theæt. 162c</i>.`

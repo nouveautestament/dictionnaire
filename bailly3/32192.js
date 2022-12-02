@@ -1,0 +1,1 @@
+lar[32192]=`<b>ἔκ·τονος, ος, ον</b>, qui n’est pas dans le ton, qui détonne, CLÉM. <i>1068a Migne</i>.<p><b>Étym</b>. ἐκ, τόνος.`

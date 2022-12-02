@@ -1,0 +1,1 @@
+lar[63302]=`<b>μεγαλ·αλκής, ής, ές</b> <font color="purple">[γᾰ]</font> d’une grande force, d’une grande puissance, PÆAN (PLUT. <i>Flam. 16, etc</i>.).<p><b>Étym</b>. μ. ἀλκή.`

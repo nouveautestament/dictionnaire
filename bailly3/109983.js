@@ -1,0 +1,1 @@
+lar[109983]=`<b>ψυχο·ρραγής, ής, ές</b> <font color="purple">[ῡᾰ]</font> dont l’âme <i>ou</i> la vie se brise, <i>càd</i>. qui lutte avec la mort, EUR. <i>I.T. 1466</i>.<p><b>Étym</b>. ψ. ῥήγνυμι.`

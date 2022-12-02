@@ -1,0 +1,1 @@
+lar[22860]=`<font color="purple">[ῡ]</font> <i>adv</i>., en cercle, en rond, LIB. <i>4, 1071</i>.<p><b>Étym</b>. γῦρος, -θεν.`

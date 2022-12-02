@@ -1,0 +1,1 @@
+lar[46871]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> θεραπεύω, XÉN. <i>Mem. 2, 1, 28</i> ; PLAT. <i>Rsp. 408b, etc.</i> ; ARSTT. <i>Rhet. Al. 30, 7</i>.`

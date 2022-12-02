@@ -1,0 +1,1 @@
+lar[68237]=`<b>νεο·σκαφής, ής, ές</b> <font color="purple">[ᾰ]</font> nouvellement creusé, LYC. <i>1097</i>.`

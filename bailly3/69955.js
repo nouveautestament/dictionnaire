@@ -1,0 +1,1 @@
+lar[69955]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> grain de poussière, atome qui voltige dans l’air, HPC. <i>1231c</i>.<p><b>Étym</b>. <i>dim. de</i> ξύσμα.`

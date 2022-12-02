@@ -1,0 +1,1 @@
+lar[45658]=`<i>adv</i>., par énigme <i>ou</i> allusion, CLÉM. <i>985</i>.<p><b>Étym</b>. αἰνίσσω.`

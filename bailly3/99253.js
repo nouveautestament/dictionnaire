@@ -1,0 +1,1 @@
+lar[99253]=`<b>Τιμό·λυτος, ου (ὁ)</b> <font color="purple">[ῑῠ]</font> Timolytos, <i>h</i>. ANTH. <i>7, 654</i>.<p><b>Étym</b>. τιμή, λύω.`

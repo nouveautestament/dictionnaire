@@ -1,0 +1,1 @@
+lar[57259]=`<i>adv</i>., avec ordre, HIÉROCL. (PHOT. <i>Bibl. p. 465, 9</i>).`

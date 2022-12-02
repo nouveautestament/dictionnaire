@@ -1,0 +1,1 @@
+lar[32266]=`<font color="purple">[ῠ]</font> <i>adv</i>., en relief, SEXT. <i>228, 12 Bkk</i>.<p><b>Étym</b>. ἔκτυπος.`

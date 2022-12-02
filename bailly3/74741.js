@@ -1,0 +1,1 @@
+lar[74741]=`<b>παμ·πληθής, ής, ές :<br>      1</b> tous en masse, XÉN. <i>Hell. 6, 5, 26</i>.<br><b>      2</b> tout à fait nombreux, <i>au sg</i>. ARSTT. <i>H.A. 6, 13, 5, etc. ; au pl</i>. PLAT. <i>Leg. 782b ;</i> ISOCR. <i>268c ; neutre adv</i>. παμπληθὲς ἀπέσχε τοῦ, DÉM. <i>347, 8,</i> il s’en fallut du tout au tout que.<p><b>Étym</b>. π. πλῆθος.`

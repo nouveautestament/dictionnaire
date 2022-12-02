@@ -1,0 +1,1 @@
+lar[56095]=`<i>gén</i>. <b>ύος (ἡ)</b> <font color="purple">[ῑ]</font> pente, penchant, colline, IL. <i>16, 390</i> ; OD. <i>5, 470</i> ; SOPH. <i>Tr. 271, etc.</i> ; EUR. <i>Alc. 578, etc</i>.<p>➳ <i>Acc. sg</i>. κλιτύν, OD. <i>l. c. ; acc. pl</i>. κλιτῦς, IL. <i>l. c.</i> ; <font color="purple">[ῡ]</font> <i>dans ces deux passages</i>.<p><b>Étym</b>. κλίνω.`

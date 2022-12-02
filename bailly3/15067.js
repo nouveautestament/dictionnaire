@@ -1,0 +1,1 @@
+lar[15067]=`<b>ῶν (οἱ)</b> <i>nom des</i> philosophes <i>ou</i> sages <i>en Égypte,</i> DÉMOCR. (CLÉM. <i>357</i>).`

@@ -1,0 +1,1 @@
+lar[104720]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> maladie des cils qui croissent en divers sens, GAL. <i>2, 391 ; 14, 767, 771</i>.<p><b>Étym</b>. φαλαγγόω.`

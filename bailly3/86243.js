@@ -1,0 +1,1 @@
+lar[86243]=`<b>προσ·οχθίζω</b> <font color="darkgreen">(<i>f</i>. ιῶ) :</font><br><b>      1</b> s’irriter contre, en vouloir à, <i>dat</i>. SPT. <i>Ps. 94, 10, etc.</i> ; SIB. <i>3, 272 ; avec</i> ἐν <i>et le dat</i>. SPT. <i>Ezech. 36, 31</i>.<br><b>      2</b> traiter outrageusement, <i>au pass</i>. SPT. <i>2Reg. 1, 21</i>.<p><b>Étym</b>. π. ὀχθέω.`

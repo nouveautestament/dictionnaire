@@ -1,0 +1,1 @@
+lar[57454]=`<b>κουφολογέω-ῶ</b>, parler à la légère, APP. <i>Iber. 18</i> ; THÉM. <i>152b</i>.<p><b>Étym</b>. κουφολόγος.`

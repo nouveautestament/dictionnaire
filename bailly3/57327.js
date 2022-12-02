@@ -1,0 +1,1 @@
+lar[57327]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> olivier sauvage, AR. <i>Pl. 586</i> ; TH. <i>H.P. 4, 14, 12</i> ; ANTH. <i>9, 357</i>.`

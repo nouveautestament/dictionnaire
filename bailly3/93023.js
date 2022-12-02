@@ -1,0 +1,1 @@
+lar[93023]=`<i>adv</i>., comme avec des coliques <i>ou</i> tranchées, ARCHIG. (GAL. <i>7, 415).</i><p><b>Étym</b>. στροφώδης.`

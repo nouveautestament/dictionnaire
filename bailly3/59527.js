@@ -1,0 +1,1 @@
+lar[59527]=`<b>ου (ὁ)</b> = <i>lat</i>. Lælius, <i>n. d’h. rom</i>. PLUT. <i>T. Gracch. 8, Cato mi. 7, etc</i>.`

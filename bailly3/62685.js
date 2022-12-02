@@ -1,0 +1,1 @@
+lar[62685]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰκ]</font> <i>c</i>. μαλακότης, HPC. <i>896e</i>.`

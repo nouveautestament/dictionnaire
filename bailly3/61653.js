@@ -1,0 +1,1 @@
+lar[61653]=`<b>ης (ἡ)</b> = <i>lat</i>. Luca (<i>auj</i>. Lucca, Lucques) <i>v. de Ligurie, en Italie,</i> PLUT. <i>Pomp. 51, Cæs. 21</i>.`

@@ -1,0 +1,1 @@
+lar[32378]=`<b>ἐκ·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font><br><b>      1</b> laisser aller, lâcher, ANTH. <i>11, 354</i>.<br><b>      2 <i>intr.</i></b> se relâcher, devenir lâche <i>ou</i> flasque, HPC. <i>255, 12</i>.`

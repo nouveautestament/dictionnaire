@@ -1,0 +1,1 @@
+lar[50838]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>ion</i>. trame criminelle, complot perfide, IL. <i>15, 16</i> ; OD. <i>12, 26 ; au pl</i>. OD. <i>2, 23</i>.<p><b>Étym</b>. <i>cf</i>. κακορραφέω.`

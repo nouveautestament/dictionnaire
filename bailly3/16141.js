@@ -1,0 +1,1 @@
+lar[16141]=`<font color="purple">[τᾰ]</font> <i>adv</i>., avec instabilité, PHIL. <i>1, 181</i>.`

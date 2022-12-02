@@ -1,0 +1,1 @@
+lar[22662]=`<b>ου (ὁ)</b> sorte de javelot, le <i>pilum</i> romain, POL. <i>6, 22, 1 et 4</i> ; PLUT. <i>Syll. 18</i>.`

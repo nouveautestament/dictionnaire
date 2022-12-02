@@ -1,0 +1,1 @@
+lar[105273]=`<b>ή, όν</b>, qui rend un son, PLUT. <i>M. 1017f</i>.<p><b>Étym</b>. <i>vb. de</i> φθέγγομαι.`

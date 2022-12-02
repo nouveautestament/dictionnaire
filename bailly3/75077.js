@@ -1,0 +1,1 @@
+lar[75077]=`<b>παν·ίχνια, ων (τὰ)</b> <font color="purple">[ᾰν]</font> toutes les traces de pas, toute la piste, OPP. <i>C. 1, 454</i>.<p><b>Étym</b>. π. ἴχνος.`

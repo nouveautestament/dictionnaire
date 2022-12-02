@@ -1,0 +1,1 @@
+lar[24567]=`<b>δια·διφρεύω</b> (<i>seul. ao. 3 sg</i>. διεδίφρευσε) conduire un char à travers, <i>dat</i>. EUR. <i>Or. 990</i>.`

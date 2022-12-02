@@ -1,0 +1,1 @@
+lar[65174]=`<b>εως (ἡ)</b> émigration, PLAT. <i>Leg. 850a, Phæd. 117e ; en parl. de l’âme,</i> migration, PLAT. <i>Ap. 40c</i>.<p><b>Étym</b>. μετοικέω.`

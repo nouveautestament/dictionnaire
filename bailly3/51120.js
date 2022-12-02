@@ -1,0 +1,1 @@
+lar[51120]=`<b>καλλί·εργος, ος, ον</b>, artistement travaillé, PLAT. (PHIL. <i>2, 490 et 610).</i><p><b>Étym</b>. κ. ἔργον.`

@@ -1,0 +1,1 @@
+lar[91629]=`<b>α (ὁ)</b> = <i>lat</i>. Sura, <i>n. d’h. rom</i>. PLUT. <i>Cic. 15, etc</i>.`

@@ -1,0 +1,1 @@
+lar[5757]=`<b>ἀμορίτης ἄρτος (ὁ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. ἀμόρα, SPT. <i>1Par. 16, 3</i>.`

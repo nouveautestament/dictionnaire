@@ -1,0 +1,1 @@
+lar[67823]=`<b>ου (ὁ) :<br>      1</b> marin, matelot, IL. <i>4, 76, etc.</i> ; OD. <i>1, 171, etc.</i> ; XÉN. <i>Hell. 1, 1, 16, etc.</i><br><b>      2</b> <i>p. anal. avec les matelots qui font ensemble une traversée,</i> compagnon, associé, DIONYS. (ATH. <i>443d</i>).<p>➳ <i>Dor</i>. ναύτας, EUR. <i>Hec. 921</i>.<p><b>Étym</b>. ναῦς ; <i>emprunt lat</i>. nauta.`

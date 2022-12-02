@@ -1,0 +1,1 @@
+lar[1330]=`<b>ἀ·διαλήπτως</b>, <i>adv</i>., sans interruption, PHILOD. <i>De ira 1, p. 77</i>.<p><b>Étym</b>. ἀ, διάληπτος.`

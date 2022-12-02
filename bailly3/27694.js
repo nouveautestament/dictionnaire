@@ -1,0 +1,1 @@
+lar[27694]=`<b>έως (ὁ)</b> <font color="purple">[ῐχ]</font> habitant <i>ou</i> originaire de Doulikhion, OD. <i>18, 424 ; etc</i>.<p>➳ <i>Gén. épq</i>. -ιῆος, OD. <i>18, 395 ; acc. épq</i>. -ιῆα, OD. <i>18, 127</i>.<p><b>Étym</b>. Δουλίχιον.`

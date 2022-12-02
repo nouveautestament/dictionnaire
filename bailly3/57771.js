@@ -1,0 +1,1 @@
+lar[57771]=`<b>ου (ὁ)</b> Kresphontès, <i>h</i>. PLAT. <i>Leg. 683d, 692b</i>.`

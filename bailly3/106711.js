@@ -1,0 +1,1 @@
+lar[106711]=`<b>φορμο·φόρος, ου (ὁ)</b> portefaix, <i>particul</i>. porteur de nattes, de fagots, DL. <i>9, 53</i> ; ATH. <i>354c</i>.<p><b>Étym</b>. φορμός, φέρω.`

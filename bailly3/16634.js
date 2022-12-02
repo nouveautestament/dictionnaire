@@ -1,0 +1,1 @@
+lar[16634]=`<font color="purple">[μᾰ]</font> <i>adv</i>., sans corps, NYSS.<p><b>Étym</b>. ἀσώματος.`

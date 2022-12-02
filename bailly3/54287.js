@@ -1,0 +1,1 @@
+lar[54287]=`<b>ή, όν</b>, qui concerne la tige, <i>particul</i>. qui ressemble à une tige, TH. <i>H.P. 7, 9, 1</i>.<p><b>Étym</b>. καυλός.`

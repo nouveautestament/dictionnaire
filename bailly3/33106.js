@@ -1,0 +1,1 @@
+lar[33106]=`<b>ἐμ·βιοτεύω</b>, vivre dans, s’enraciner dans, <i>avec</i> ἐν <i>et le dat</i>. ARÉT. <i>Cur. m. diut. 1, 4</i>.<p><b>Étym</b>. ἐν, β.`

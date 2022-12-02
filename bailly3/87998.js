@@ -1,0 +1,1 @@
+lar[87998]=`<b>πυρρο·ποίκιλος, ος, ον</b> <font color="purple">[ῐ]</font> tacheté de rouge, PLIN. <i>H.N. 36, 22, 43</i>.<p><b>Étym</b>. π. ποικίλος.`

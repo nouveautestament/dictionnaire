@@ -1,0 +1,1 @@
+lar[92219]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠῑ]</font> le dieu du raisin, <i>ép. de Dionysos,</i> EL. <i>V.H. 3, 41</i>.<p><b>Étym</b>. σταφυλή.`

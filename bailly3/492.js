@@ -1,0 +1,1 @@
+lar[492]=`<b>ἀ·γενεαλόγητος, ος, ον</b> <font color="purple">[ᾱλ]</font> sans généalogie, NT. <i>Hebr. 7, 3</i>.<p><b>Étym</b>. ἀ, γενεαλογέω.`

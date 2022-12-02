@@ -1,0 +1,1 @@
+lar[102597]=`<b>ὑπερ·κλονέω-ῶ</b>, agiter profondément, bouleverser, <i>acc</i>. SIB. <i>4, 129</i>.`

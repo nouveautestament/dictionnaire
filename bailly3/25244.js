@@ -1,0 +1,1 @@
+lar[25244]=`<b>*δια·πέσσω</b>, <i>seul. att</i>. <b>διαπέττω</b> (<i>seul. prés. inf</i>. -πέττειν) digérer complètement, <i>acc</i>. ARSTT. <i>G.A. 4, 1, 40</i>.`

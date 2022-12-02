@@ -1,0 +1,1 @@
+lar[92370]=`<b>εος-ους (τὸ)</b> anxiété, détresse, ESCHL. <i>Eum. 520</i>.<p><b>Étym</b>. στενός, <i>cf</i>. στεῖνος.`

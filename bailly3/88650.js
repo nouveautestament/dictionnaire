@@ -1,0 +1,1 @@
+lar[88650]=`<b>ῥιψοκινδυνέω-ῶ</b> <font color="purple">[ῡ]</font> se jeter au milieu du danger, DC. <i>66, 8</i>.<p><b>Étym</b>. ῥιψοκίνδυνος.`

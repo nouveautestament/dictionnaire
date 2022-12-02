@@ -1,0 +1,1 @@
+lar[78862]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> bavardage à tort et à travers, GAL. <i>9, 216</i>.<p><b>Étym</b>. περιλαλέω.`

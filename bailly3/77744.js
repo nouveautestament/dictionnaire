@@ -1,0 +1,1 @@
+lar[77744]=`<b>ῶν (οἱ) :<br>      1</b> les Pélasges, <i>anciens habitants de la Grèce,</i> IL. <i>2, 6, 81</i>.<br><b>      2</b> <i>habitants de l’Asie Mineure,</i> IL. <i>2, 840 ; 10, 429</i>.<br><b>      3</b> <i>habitants de Crète,</i> OD. <i>19, 77</i>.<br><b>      4</b> les Grecs, <i>en gén</i>. EUR. <i>Or. 857, etc</i>.`

@@ -1,0 +1,1 @@
+lar[46438]=`<b>θεατρο·ποιός, οῦ (ὁ)</b> qui fait un théâtre (<i>ou p.-ê</i>. une pièce de théâtre) ANAXANDR. <i>34 Kock</i>.<p><b>Étym</b>. θ. ποιέω.`

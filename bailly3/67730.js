@@ -1,0 +1,1 @@
+lar[67730]=`<b>ου (ὁ)</b> Naukleidès, <i>h</i>. THC. <i>2, 2</i> ; XÉN. <i>Hell. 2, 4, 36</i> ; DÉM. <i>1378, 23</i>.<p>➳ <i>Dor</i>. Ναυκλείδας, XÉN. <i>l. c</i>.<p><b>Étym</b>. <i>patr. de</i> Ναυκλῆς.`

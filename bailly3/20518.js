@@ -1,0 +1,1 @@
+lar[20518]=`<b>(ὁ)</b> Bouris, <i>h</i>. PLUT. <i>Apophth. lac. 60</i>.`

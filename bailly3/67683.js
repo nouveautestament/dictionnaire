@@ -1,0 +1,1 @@
+lar[67683]=`<b>ης (ἡ)</b> aromate de l’Inde, TH. <i>H.P. 9, 7, 3</i>.`

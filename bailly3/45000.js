@@ -1,0 +1,1 @@
+lar[45000]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> agréable, doux, HH. <i>Merc. 241, 449</i> ; A.RH. <i>2, 407, etc</i>.<p>•<i> Sup</i>. ἡδυμέστατος, ALCM. (EM. <i>420, 47).</i><p><b>Étym</b>. ἡδύς.`

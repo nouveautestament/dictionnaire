@@ -1,0 +1,1 @@
+lar[7202]=`<b>ατος (τὸ)</b> lumière, flambeau, PLUT. <i>M. 890a ;</i> DL. <i>7, 145</i>.<p><b>Étym</b>. ἀνάπτω².`

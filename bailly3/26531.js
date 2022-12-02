@@ -1,0 +1,1 @@
+lar[26531]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> à deux cornes, ANTH. <i>6, 111</i>.<p><b>Étym</b>. δίς, κέρας.`

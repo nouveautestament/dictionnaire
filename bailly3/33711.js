@@ -1,0 +1,1 @@
+lar[33711]=`<b>ή, όν</b>, propre à boucher, à obstruer, HPC. <i>397, 34</i>.<p><b>Étym</b>. ἐμφράσσω.`

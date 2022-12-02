@@ -1,0 +1,1 @@
+lar[61727]=`(<i>seul. prés</i>.) tendre des embûches à, <i>dat</i>. ANTH. <i>9, 251</i>.<p><b>Étym</b>. λόχος, <i>cf</i>. λοχάω.`

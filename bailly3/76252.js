@@ -1,0 +1,1 @@
+lar[76252]=`<b>παρα·στίζω</b>, marquer d’un point à côté, JAMBL. <i>Nicom. ar. 55c</i>.`

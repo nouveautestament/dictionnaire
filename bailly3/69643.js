@@ -1,0 +1,1 @@
+lar[69643]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> petit morceau de bois, DIOSC. <i>1, 90</i>.<p><b>Étym</b>. ξύλον.`

@@ -1,0 +1,1 @@
+lar[105416]=`<b>φιλ·αγρέτις, ιδος</b> <font color="purple">[φῐ]</font> <i>adj. f</i>. qui aime la chasse, ANTH. <i>9, 396</i>.<p><b>Étym</b>. φ. ἄγρα.`

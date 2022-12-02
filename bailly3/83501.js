@@ -1,0 +1,1 @@
+lar[83501]=`<b>προ·αιδέομαι-οῦμαι</b>, avoir des obligations : τινί τι, HDT. <i>1, 61 ; 3, 140,</i> à qqn pour qqe ch.<p>➳ <i>Ion. prés</i>. προαιδεῦμαι, HDT. <i>3, 140 ; pl.q.pf. 3 sg</i>. προῃδέατο, HDT. <i>1, 61</i>.`

@@ -1,0 +1,1 @@
+lar[87841]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> bouilli, GAL. <i>6, 384</i>.<p><b>Étym</b>. <i>vb. de</i> πυριάζω.`

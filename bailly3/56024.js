@@ -1,0 +1,1 @@
+lar[56024]=`<b>ή, όν</b>, désigné <i>ou</i> conféré par le sort, PLAT. <i>Leg. 759b ;</i> ISOCR. <i>265a ;</i> ESCHN. <i>3, 34, etc. p. opp. à</i> χειροτονητός <i>ou</i> αἱρετός.<p><b>Étym</b>. <i>vb. de</i> κληρόω.`

@@ -1,0 +1,1 @@
+lar[11774]=`<b>ἀ·περιμερίμνως</b>, <i>adv</i>., sans réflexion, sans prévoyance, AR. <i>Nub. 136</i>.<p><b>Étym</b>. ἀ, περιμέριμνος.`

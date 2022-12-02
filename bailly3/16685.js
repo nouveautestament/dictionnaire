@@ -1,0 +1,1 @@
+lar[16685]=`<b>ης, ες</b> <font color="purple">[τᾰᾰ]</font> non exposé à se troubler, ARSTT. <i>Div. per somn. 2, 6, au cp</i>. -έστερος.<p><b>Étym</b>. ἀτάραχος, -ωδης.`

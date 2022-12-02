@@ -1,0 +1,1 @@
+lar[9525]=`<b>ου (ὁ)</b> rebelle, révolté, CHRYS.<p><b>Étym</b>. ἀνταίρω.`

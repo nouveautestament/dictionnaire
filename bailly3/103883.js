@@ -1,0 +1,1 @@
+lar[103883]=`<b>ατος (τὸ)</b> faible gémissement, EUM. <i>5, 16</i>.<p><b>Étym</b>. ὑποστενάζω.`

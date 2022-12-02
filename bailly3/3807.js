@@ -1,0 +1,1 @@
+lar[3807]=`<b>ἀκρο·νυγῶς</b> <font color="purple">[ῠ]</font> <i>adv</i>., de manière à se toucher par les extrémités, GAL. <i>2, 369</i>.<p><b>Étym</b>. ἄ. νύσσω.`

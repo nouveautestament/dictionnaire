@@ -1,0 +1,1 @@
+lar[92945]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> <i>c</i>. στροβιλοειδής, PLUT. <i>Syll. 17</i>.<p><b>Étym</b>. στρόβιλος, -ωδης.`

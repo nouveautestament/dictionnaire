@@ -1,0 +1,1 @@
+lar[68239]=`<b>νεό·σμηκτος, ος, ον :<br>      1</b> fraîchement poli, IL. <i>13, 342</i> ; PLUT. <i>Æmil. 32</i>.<br><b>      2</b> fraîchement taillé, ANTH. <i>6, 227</i>.<p><b>Étym</b>. ν. σμήχω.`

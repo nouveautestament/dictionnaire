@@ -1,0 +1,1 @@
+lar[62308]=`<b>οῦ (ὁ)</b> sein :<br><b>      1</b> sein d’homme, IL. <i>4, 133, etc.</i> ; OD. <i>22, 8</i>.<br><b>      2</b> sein de femme, IL. <i>22, 80, 83, etc.</i> ; OD. <i>11, 448 ; en parl. d’animaux,</i> CALL. <i>Jov. 48</i>.<p>➳ <i>Dor</i>. μασδός, THCR. <i>Idyl. 3, 15</i>.<p><b>Étym</b>. μαστός.`

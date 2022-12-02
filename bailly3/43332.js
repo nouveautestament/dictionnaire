@@ -1,0 +1,1 @@
+lar[43332]=`<b>εὐρύ·στερνος, ος, ον</b>, à la large poitrine, au large sein, <i>en parl. de la Terre,</i> HÉS. <i>Th. 117 ; du ciel,</i> A. PL. <i>303</i> ; ORPH. <i>Lith. 639 ; d’Athèna,</i> THCR. <i>Idyl. 18, 36, etc</i>.<p><b>Étym</b>. εὐ. στέρνον.`

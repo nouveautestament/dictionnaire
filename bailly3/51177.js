@@ -1,0 +1,1 @@
+lar[51177]=`<b>καλλιουργέω-ῶ</b>, travailler avec art, THÉM. <i>Or. 20, p. 237</i>.<p><b>Étym</b>. καλλίων, ἔργον.`

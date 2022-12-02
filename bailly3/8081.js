@@ -1,0 +1,1 @@
+lar[8081]=`<b>Ἀνδρο·κύδης, ου (ὁ)</b> Androkydès, <i>peintre,</i> PLUT. <i>Pel. 25, M. 665d</i>.<p><b>Étym</b>. ἀνήρ, κῦδος.`

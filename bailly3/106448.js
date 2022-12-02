@@ -1,0 +1,1 @@
+lar[106448]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱρ]</font> <i>cf</i>. φλυαρία <i>au plur</i>. DH. <i>Comp. 18 fin</i> ; JOS. <i>c. Ap. 2, 9</i>.`

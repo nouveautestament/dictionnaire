@@ -1,0 +1,1 @@
+lar[14084]=`<b>οῦ (ὁ)</b> expulsion, persécution, SPT. <i>Thren. 1, 8</i>.<p><b>Étym</b>. ἀπωθέω.`

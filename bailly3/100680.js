@@ -1,0 +1,1 @@
+lar[100680]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Trœzène, THC. <i>2, 56</i>.<p><b>Étym</b>. Τροιζήν.`

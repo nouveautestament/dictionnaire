@@ -1,0 +1,1 @@
+lar[104870]=`<b>(ὁ)</b> Pharandatès, <i>Perse,</i> HDT. <i>7, 79 ; 9, 76</i>.<p>➳ <i>Gén. ion</i>. Φαρανδάτεος, HDT. <i>9, 76</i>.`

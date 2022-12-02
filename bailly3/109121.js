@@ -1,0 +1,1 @@
+lar[109121]=`<b>χρυσεό·ταρσος, ος, ον</b> <font color="purple">[ῡ]</font> aux talonnières d’or, <i>ép. d’Hermès,</i> ORPH. <i>Arg. 338</i>.<p><b>Étym</b>. χρ. ταρσός.`

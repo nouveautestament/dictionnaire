@@ -1,0 +1,1 @@
+lar[80097]=`<b>ου (ὁ)</b> Pèlousios, <i>fondateur de Péluse,</i> PLUT. <i>Is. et Os. 17</i>.`

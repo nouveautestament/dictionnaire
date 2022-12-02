@@ -1,0 +1,1 @@
+lar[4802]=`<i>adv</i>., d’une manière étrange, PLAT. <i>Lys. 216a ;</i> PHÉRÉCR. <i>(Bkk. 14, 28</i>).`

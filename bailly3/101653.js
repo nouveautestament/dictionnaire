@@ -1,0 +1,1 @@
+lar[101653]=`<b>έως (ὁ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. ὑϊδοῦς, ISOCR. <i>424a</i>.`

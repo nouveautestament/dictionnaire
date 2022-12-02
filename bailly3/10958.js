@@ -1,0 +1,1 @@
+lar[10958]=`<b>ἄ·ξιφος, ος, ον</b> <font color="purple">[ῐ]</font> sans épée, LYC. <i>50</i>.<p><b>Étym</b>. ἀ, ξίφος.`

@@ -1,0 +1,1 @@
+lar[74134]=`<b>Παγ·κράτης, ου (ὁ)</b> <font color="purple">[ᾰτ]</font> Pankratès, <i>h</i>. LUC. <i>Philops. 34, 36</i>.<p>➳ <i>Gén. épq</i>. -εος, ANTH. <i>4, 1, 18 ; acc</i>. -ην, PLUT. MUS. <i>20</i>.<p><b>Étym</b>. <i>v</i>. παγκρατής.`

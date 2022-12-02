@@ -1,0 +1,1 @@
+lar[67870]=`<b>νε·ανθής, ής, ές</b>, nouvellement fleuri, NIC. <i>Al. 622 ; fig</i>. ANTH. <i>App. 111</i>.<p><b>Étym</b>. ν. ἄνθος.`

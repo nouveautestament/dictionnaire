@@ -1,0 +1,1 @@
+lar[33127]=`<b>έως (ὁ)</b> ce qu’on enfonce <i>ou</i> ce qui sert à enfoncer :<br><b>      1</b> plantoir, ANTH. <i>6, 21</i>.<br><b>      2</b> pieu, cheville, HÉRON <i>Spir. 180</i>.<br><b>      3</b> forme, gabarit, mandrin, HÉRON ; PHIL. BYZ.<p><b>Étym</b>. ἐμβάλλω.`

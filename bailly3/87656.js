@@ -1,0 +1,1 @@
+lar[87656]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> γραπτὴ π. tableau, ANTH. <i>9, 346</i>.<p><b>Étym</b>. <i>cf</i>. πυκτίον.`

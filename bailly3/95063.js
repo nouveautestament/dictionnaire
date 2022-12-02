@@ -1,0 +1,1 @@
+lar[95063]=`<b>σύν·δενδρος, ος, ον</b>, rempli d’arbres, boisé, POL. <i>12, 4, 2</i> ; DS. <i>5, 65</i> ; DICÉARQ. <i>p. 12</i> ; BABR. <i>43 ; subst</i>. τὸ σύνδενδρον, PLUT. <i>M. 310e</i>, le fourré.<p><b>Étym</b>. σ. δένδρον.`

@@ -1,0 +1,1 @@
+lar[11206]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> amollissement, HPC. <i>817f</i>.<p><b>Étym</b>. ἁπαλύνω.`

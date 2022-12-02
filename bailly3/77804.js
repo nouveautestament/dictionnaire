@@ -1,0 +1,1 @@
+lar[77804]=`<b>ης (ἡ)</b> <i>dim. de</i> πελίκη, ALCM. <i>74b ;</i> CLITARQ. (ATH. <i>495c</i>).`

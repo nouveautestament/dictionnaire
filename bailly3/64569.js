@@ -1,0 +1,1 @@
+lar[64569]=`<b>μεσο·συλλαβέω-ῶ</b> <font color="purple">[ᾰ]</font> prendre ou embrasser par le milieu, A. APHR. <i>Probl. 2, 14</i>.<p><b>Étym</b>. μ. συλλαβή.`

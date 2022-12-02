@@ -1,0 +1,1 @@
+lar[90567]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> écuelle de terre, ANTIPH. (ATH. <i>169f</i>).`

@@ -1,0 +1,1 @@
+lar[94028]=`<b>ου (ὁ)</b> celui qui est initié avec un autre, collègue dans le sacerdoce, BAS. <i>4, 937 Migne</i>.<p><b>Étym</b>. συμμύω.`

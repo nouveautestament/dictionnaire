@@ -1,0 +1,1 @@
+lar[36116]=`<b>ῆς (ἡ)</b> action de tirer au dehors, extraction, P. ÉG. <i>350 Briau</i>.<p><b>Étym</b>. ἐξέλκω.`

@@ -1,0 +1,1 @@
+lar[62433]=`<b>ου (ὁ)</b> Makartatos, <i>h</i>. DÉM. <i>1050, etc</i>.`

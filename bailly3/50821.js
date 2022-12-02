@@ -1,0 +1,1 @@
+lar[50821]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> porté à faire le mal, malfaisant, PTOL. <i>Tetr. 210</i>.<p><b>Étym</b>. κακοποιέω.`

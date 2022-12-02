@@ -1,0 +1,1 @@
+lar[406]=`<font color="darkgreen">(<i>f</i>. εύσω, <i>ao</i>. ἠγγάρευσα, <i>pf. inus</i>.)</font> <font color="purple">[γᾰ]</font> requérir pour une corvée, <i>d’où</i> contraindre, <i>en gén., acc</i>. NT. <i>Matth. 5, 41 ; 27, 32 ; Marc. 15, 21</i> ; JOS. <i>A.J. 13, 2, 3 ; au pass</i>. être requis, MÉN. <i>4, 201 Meineke</i>.<p><b>Étym</b>. ἄγγαρος.`

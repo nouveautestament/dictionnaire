@@ -1,0 +1,1 @@
+lar[48448]=`<b>ἰδιό·χροος, οος, οον</b> <font color="purple">[ῐδ]</font> qui a sa couleur propre, naturelle, PTOL. <i>Tetr. p. 103</i>.<p><b>Étym</b>. ἴδ. χρόα.`

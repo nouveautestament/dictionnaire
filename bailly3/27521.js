@@ -1,0 +1,1 @@
+lar[27521]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> plein de roseaux, BACCHYL. <i>fr. 30, 3</i> (ATH. <i>20d</i>) ; A.RH. <i>2, 818</i>.<p><b>Étym</b>. δόναξ, -ωδης.`

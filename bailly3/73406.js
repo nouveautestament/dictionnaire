@@ -1,0 +1,1 @@
+lar[73406]=`<b>(ὁ)</b> fils d’Otryntée, IL. <i>20, 383</i>.<p><b>Étym</b>. <i>patr. de</i> Ὀτρυντεύς.`

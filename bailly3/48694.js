@@ -1,0 +1,1 @@
+lar[48694]=`invoquer Apollon par le cri ἰὴ παιών, AR. <i>Eq. 408</i>.<p><b>Étym</b>. ἰή, Παιών.`

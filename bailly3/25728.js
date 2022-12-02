@@ -1,0 +1,1 @@
+lar[25728]=`<b>εως (ἡ)</b> conservation, préservation, DS. <i>2, 50</i> ; SPT. <i>Ex. 16, 33 ; Num. 17, 10 ; 18, 8</i>.<p><b>Étym</b>. διατηρέω.`

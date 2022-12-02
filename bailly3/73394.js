@@ -1,0 +1,1 @@
+lar[73394]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> rapide, agile, OPP. <i>H. 2, 273</i> ; Q. SM. <i>11, 107</i>.<p><b>Étym</b>. <i>cf</i>. ὀτρηρός.`

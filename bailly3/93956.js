@@ -1,0 +1,1 @@
+lar[93956]=`<b>συμ·μετακλίνομαι</b> <font color="purple">[ῑ]</font> se mettre à table ensemble, CLÉM. <i>Pæd. 2, 7, 54</i>.`

@@ -1,0 +1,1 @@
+lar[86485]=`<b>προσ·τηρέω-ῶ</b>, fixer les yeux sur, observer, PHLÉG. TR. <i>p. 119, 11</i>.`

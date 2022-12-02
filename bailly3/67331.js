@@ -1,0 +1,1 @@
+lar[67331]=`<b>μυρο·στάφυλον, ου (τὸ)</b> <font color="purple">[ῠᾰῠ]</font> sorte de raisin parfumé, GEOP. <i>4, 94</i>.<p><b>Étym</b>. μ. σταφυλή.`

@@ -1,0 +1,1 @@
+lar[97011]=`<i>mieux que</i> <b>σχένδυλα, ης (ἡ)</b> <font color="purple">[ῡ]</font> sorte de tenaille de charpentier, ANTH. <i>11, 203</i>.<p>➳ <i>Dans une inscr. att. de 329 av. J.-C. ; v. Meisterh. p. 94, 6</i>.<p><b>Étym</b>. σχεῖν.`

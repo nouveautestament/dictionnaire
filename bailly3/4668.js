@@ -1,0 +1,1 @@
+lar[4668]=`<b>ἀλκί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, aux sentiments courageux, belliqueux, ESCHL. <i>Pers. 92</i>.<p><b>Étym</b>. ἀλκή, φρήν.`

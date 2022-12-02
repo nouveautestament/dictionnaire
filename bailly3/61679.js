@@ -1,0 +1,1 @@
+lar[61679]=`<b>ας (ἡ)</b> celle qui aime à se baigner, <i>ép. de Dèmèter, en Arcadie,</i> PAUS. <i>8, 25, 6 et 7</i>.<p><b>Étym</b>. λούω.`

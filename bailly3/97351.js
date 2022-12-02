@@ -1,0 +1,1 @@
+lar[97351]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> poêle à frire, AR. <i>Eq. 929</i> ; EUP. <i>2-1, 489 Meineke</i> ; PLAT. COM. <i>2-2, 672 Mein.</i> ; LUC. <i>Conv. 38</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. τήγανον.`

@@ -1,0 +1,1 @@
+lar[33628]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> purulent, DIOSC. <i>1, 94</i> ; A. APHR. <i>Probl. 62, 25</i> ; ARÉT. <i>Caus. m. diut. 1, 8</i>.<p><b>Étym</b>. ἔμπυος.`

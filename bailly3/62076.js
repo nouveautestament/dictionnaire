@@ -1,0 +1,1 @@
+lar[62076]=`(<i>part. prés</i>.) être en fureur contre, <i>dat</i>. SOPH. <i>Ant. 633</i>.<p><b>Étym</b>. λύσσα.`

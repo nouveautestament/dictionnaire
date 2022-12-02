@@ -1,0 +1,1 @@
+lar[34531]=`<b>ἐν·θετταλίζομαι</b> <font color="darkgreen">(<i>pf. 1 pl</i>. ἐντεθετταλίσμεθα)</font> <font color="purple">[τᾰ]</font> envelopper d’un manteau thessalien, EUP. <i>201 Kock</i>.<p><b>Étym</b>. ἐν, Θέτταλος.`

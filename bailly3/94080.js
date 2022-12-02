@@ -1,0 +1,1 @@
+lar[94080]=`<b>εως (ἡ)</b> action de recevoir <i>ou</i> de prendre ensemble <i>ou</i> en même temps, PHIL. <i>1, 134</i>.<p><b>Étym</b>. συμπαραλαμβάνω.`

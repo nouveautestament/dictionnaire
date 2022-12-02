@@ -1,0 +1,1 @@
+lar[51545]=`<b>ου (τὸ)</b> <font color="purple">[νᾰ]</font> <i>c</i>. κάνναβις, DIOSC. <i>3, 165</i> ; GEOP. <i>3, 4, 12</i>.`

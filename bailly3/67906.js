@@ -1,0 +1,1 @@
+lar[67906]=`<b>ῆς (ἡ)</b> <i>contr. de</i> νεβρέα, ας (ἡ) <i>s.-e</i>. δορά, peau de faon, ORPH. <i>Arg. 447, etc</i>.<p><b>Étym</b>. νεβρός.`

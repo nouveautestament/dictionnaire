@@ -1,0 +1,1 @@
+lar[97773]=`<b>ταυρο·βόας, ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. au mugissement de taureau, ORPH. <i>5, 3</i>.<p><b>Étym</b>. ταῦρος, βοάω.`

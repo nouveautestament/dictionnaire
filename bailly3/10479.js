@@ -1,0 +1,1 @@
+lar[10479]=`<i>adv</i>., en opposition avec, NYSS. <i>1, 459</i>.`

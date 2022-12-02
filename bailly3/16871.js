@@ -1,0 +1,1 @@
+lar[16871]=`<b>ἀ·τοκέω-ῶ</b> (<i>seul. prés. et inf. ao</i>. ἀτοκῆσαι) ne pas enfanter, PHIL. <i>1, 478, 480</i>.<p><b>Étym</b>. ἀ, τοκεύς.`

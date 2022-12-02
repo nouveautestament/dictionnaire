@@ -1,0 +1,1 @@
+lar[64451]=`<b>μεσ·αύλη, ης (ἡ)</b> cour intérieure entre deux corps de bâtiment, VITR. <i>6, 10</i>.<p><b>Étym</b>. μέσος, αὐλή ; <i>v</i>. μέσαυλος.`

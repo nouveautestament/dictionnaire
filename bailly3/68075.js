@@ -1,0 +1,1 @@
+lar[68075]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, irrité, indigné, NONN. <i>Jo. 4, 218, etc</i>.<p><b>Étym</b>. νεμεσάω.`

@@ -1,0 +1,1 @@
+lar[40806]=`<b>ων (οἱ)</b> sorte d’affranchis, <i>à Sparte,</i> MYRON (ATH. <i>271f</i>).<p><b>Étym</b>. ἐρύκω.`

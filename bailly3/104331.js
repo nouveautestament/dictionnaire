@@ -1,0 +1,1 @@
+lar[104331]=`<b>ὑστερό·χρονος, ος, ον</b>, qui est d’un temps postérieur à, <i>gén</i>. RHÉT. <i>7, 208 W</i>.<p><b>Étym</b>. ὕ. χρόνος.`

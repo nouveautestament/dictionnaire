@@ -1,0 +1,1 @@
+lar[31064]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> le centième, HDT. <i>1, 47</i> ; THC. <i>8, 68 ; etc.</i> ; ἡ ἑκατοστή, l’impôt du centième ; <i>au plur</i>. AR. <i>Vesp. 658 ; particul</i>. l’intérêt de un pour cent, PLUT. <i>Luc. 20</i>.<p><b>Étym</b>. ἑκατόν.`

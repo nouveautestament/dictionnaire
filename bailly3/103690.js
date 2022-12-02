@@ -1,0 +1,1 @@
+lar[103690]=`<b>Ὑπο·πλάκιος, α, ον</b> <font color="purple">[ᾰ]</font> situé au pied du mont Plakos, IL. <i>6, 397</i> ; DÉMÉTR. SCEPS. (ATH. <i>644a</i>).<p><b>Étym</b>. ὑ. Πλάκος.`

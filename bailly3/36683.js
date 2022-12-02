@@ -1,0 +1,1 @@
+lar[36683]=`<b>ἐπ·ανεμέω</b> (<i>prés</i>.) :<br><b>      1</b> rejeter en vomissant, HPC. <i>Epid. 1, 948</i>.<br><b>      2</b> ramener de l’estomac dans la bouche, <i>en parl. des ruminants,</i> GAL. <i>2, 545</i>.`

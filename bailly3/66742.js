@@ -1,0 +1,1 @@
+lar[66742]=`<b>ου (τὸ)</b> mûre, EPICH. <i>fr. 161 b Ahrens</i> ; ESCHL. <i>fr. 114, 259</i> ; SOPH. <i>fr. 462b ;</i> ATH. <i>51b</i>.<p><b>Étym</b>. <i>inconnue ; cf. l’emprunt lat</i>. mōrum, <i>d’où all</i>. Maulbeere, <i>angl</i>. mulberry.`

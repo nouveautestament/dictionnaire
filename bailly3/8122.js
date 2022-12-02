@@ -1,0 +1,1 @@
+lar[8122]=`<b>ἀνδροφαγέω-ῶ</b> <font color="purple">[φᾰ]</font> manger de la chair humaine, HDT. <i>4, 106</i>.<p><b>Étym</b>. ἀνδροφάγος.`

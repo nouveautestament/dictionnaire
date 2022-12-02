@@ -1,0 +1,1 @@
+lar[18744]=`<b>βαθύ·γνοφος, ος, ον</b> <font color="purple">[ᾰ]</font> plongé dans des ténèbres profondes, NAZ. <i>2, 279</i>.<p><b>Étym</b>. β. γνόφος.`

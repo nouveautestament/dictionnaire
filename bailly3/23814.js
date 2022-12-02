@@ -1,0 +1,1 @@
+lar[23814]=`<b>δελφινο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui porte un dauphin <i>ou</i> des dauphins (dans ses flots), ESCHL. <i>fr. 150</i>.<br><b>      2</b> muni d’un dauphin de plomb <i>ou</i> de fer (<i>v</i>. δελφίς II, 1), THC. <i>7, 41</i> ; PHÉRÉCR. <i>fr. 10</i>.<p><b>Étym</b>. δελφίς, φέρω.`

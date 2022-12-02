@@ -1,0 +1,1 @@
+lar[58343]=`<b>Κυάν·ιππος, ου (ὁ)</b> Kyanippos, <i>h</i>. PLUT. <i>Parall. min. 19, etc</i>.<p><b>Étym</b>. κ. ἵππος.`

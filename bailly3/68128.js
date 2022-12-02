@@ -1,0 +1,1 @@
+lar[68128]=`<b>νεό·δρεπτος, ος, ον</b>, fraîchement cueilli, ESCHL. <i>Suppl. 324 ; d’où</i> couvert de feuillage fraîchement cueilli, THCR. <i>Idyl. 26, 8</i>.<p><b>Étym</b>. ν. δρέπω.`

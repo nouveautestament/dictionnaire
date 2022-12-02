@@ -1,0 +1,1 @@
+lar[88688]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> pommade <i>ou</i> poudre de senteur à la rose, DIOSC. <i>1, 131</i>.<p><b>Étym</b>. ῥόδον.`

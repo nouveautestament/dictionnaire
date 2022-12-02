@@ -1,0 +1,1 @@
+lar[74448]=`<b>ή, όν</b>, habitant <i>ou</i> originaire de Péluse, PLUT. <i>Is. et Os. 17</i>.`

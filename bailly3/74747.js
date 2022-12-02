@@ -1,0 +1,1 @@
+lar[74747]=`<b>παμ·ποίκιλος, ος, ον</b> <font color="purple">[ῐλ]</font><br><b>      1</b> couvert de broderies, IL. <i>6, 289, etc.</i> ; de couleurs variées, PD. <i>N. 10, 68</i>.<br><b>      2</b> <i>fig</i>. qui change facilement de forme, très souple, très habile, PLAT. <i>Tim. 82b</i>.<p>➳ <i>Fém</i>. -η, PLAT. <i>l.c</i>.<p><b>Étym</b>. π. ποικίλος.`

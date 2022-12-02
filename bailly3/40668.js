@@ -1,0 +1,1 @@
+lar[40668]=`<i>ou</i> <b>Ἐρξίης, ου (ὁ)</b> actif, puissant, <i>traduct. grecque du n. persan de Darius,</i> HDT. <i>6, 98</i>.<p><b>Étym</b>. ἔργω ; <i>sel. d’autres,</i> Ἑρξείης <i>ou</i> Ἑρξίης, <i>de</i> εἵργω.`

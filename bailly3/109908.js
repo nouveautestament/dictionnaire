@@ -1,0 +1,1 @@
+lar[109908]=`<b>οῦ (ὁ) :<br>      1</b> refroidissement, frisson, MAN. <i>2, 443</i> ; PORPH. <i>Abst. 1, 28</i>.<br><b>      2</b> dessèchement, SPT. <i>Ezech. 26, 5 et 14</i>.<p><b>Étym</b>. ψύχω.`

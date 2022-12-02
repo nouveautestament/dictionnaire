@@ -1,0 +1,1 @@
+lar[4463]=`<b>ἁλι·ηχής, ής, ές</b> <font color="purple">[ᾰ]</font> qui retentit du bruit de la mer <i>ou</i> qui résonne comme la mer, MUS. <i>26</i>.<p><b>Étym</b>. ἅλς, ἠχώ.`

@@ -1,0 +1,1 @@
+lar[79902]=`<b>πετρο·κυλιστής, οῦ (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> Σίσυφος π. Sisyphe roulant son rocher, <i>pièce d’Eschyle, fr. 217 Dind.</i><br><b>      2</b> qui fait rouler des quartiers de roc, STR. <i>710</i>.<p><b>Étym</b>. πέτρα, κυλίω.`

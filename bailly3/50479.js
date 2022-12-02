@@ -1,0 +1,1 @@
+lar[50479]=`<b>καθ·υλομανέω-ῶ</b> <font color="purple">[ᾰῡᾰ]</font> pousser follement (<i>càd</i>. à l’excès) en bois, CLÉM. <i>1, 329 Migne ; fig</i>. HPC. <i>1276, 41</i>.`

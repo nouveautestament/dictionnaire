@@ -1,0 +1,1 @@
+lar[45379]=`<b>ἡμί·ανδρος, ου (ὁ)</b> à moitié homme, eunuque, HIPPON. <i>fr. 114</i> ; LUC. <i>D. deor. 2, 3, 1</i>.<p><b>Étym</b>. ἡμι-, ἀνήρ.`

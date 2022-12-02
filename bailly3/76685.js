@@ -1,0 +1,1 @@
+lar[76685]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> modification du sens par le nombre <i>ou</i> la personne, <i>t. de gr</i>. DYSC. <i>Synt. 74, 182, etc.</i><br><b>      2</b> sens d’un mot, PHALAR. <i>Ep. 110</i> ; STOB. <i>Ecl. 1, 1004</i>.<p><b>Étym</b>. παρεμφαίνω.`

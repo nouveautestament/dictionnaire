@@ -1,0 +1,1 @@
+lar[53656]=`<b>κατα·φοιβάζω</b>, prophétiser sous l’inspiration de Phébus, EUM. <i>p. 466</i>.`

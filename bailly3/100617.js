@@ -1,0 +1,1 @@
+lar[100617]=`<b>ου (τὸ)</b> <font color="purple">[ῐχῐδ]</font> <i>dim. de</i> τριχίς, ALEX. <i>et</i> CALL. (ATH. <i>303a, 329a</i>).`

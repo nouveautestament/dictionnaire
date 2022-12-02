@@ -1,0 +1,1 @@
+lar[51385]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> voûté, cintré, STR. <i>16, 1, 5 Kram.</i> ; ATH. <i>139f, 196c</i>.<p><b>Étym</b>. <i>vb. de</i> *καμαρόω <i>de</i> καμάρα.`

@@ -1,0 +1,1 @@
+lar[88199]=`<b>ῥαγο·στράγγισος, ου (ὁ)</b> <i>litt</i>. « Pressure-raisin », <i>n. de parasite,</i> ALCIPHR.<p><b>Étym</b>. ῥάξ, στραγγίζω.`

@@ -1,0 +1,1 @@
+lar[87490]=`<b>ων (τὰ)</b> <font color="purple">[ᾰν]</font> <i>s.-e</i>. ἱερά, la fête des Pyanepsies, <i>en l’honneur d’Apollon, à Athènes, ainsi nommée parce qu’on y mangeait une bouillie de fèves et autres légumes,</i> ATH. <i>408a ;</i> PLUT. <i>Thes. 22, etc</i>.<p><b>Étym</b>. πύανος, ἕψω.`

@@ -1,0 +1,1 @@
+lar[576]=`<b>ἀγησί·χορος, ος, ον</b> <font color="purple">[ᾱῐ]</font> qui conduit le chœur <i>ou</i> la danse, PD. <i>P. 1, 4</i>.<p><b>Étym</b>. ἡγέομαι, χορός.`

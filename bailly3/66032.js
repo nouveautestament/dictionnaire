@@ -1,0 +1,1 @@
+lar[66032]=`<b>μισό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῑῐχ]</font> ennemi de la chevelure, CLÉM. <i>261</i>.`

@@ -1,0 +1,1 @@
+lar[59645]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> doué de la parole, SPT. <i>Job 38, 14</i>.<br><b>      2</b> dont on parle, renommé, SPT. <i>Sir. 18, 33</i>.<p><b>Étym</b>. <i>vb. de</i> λαλέω.`

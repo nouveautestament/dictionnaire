@@ -1,0 +1,1 @@
+lar[19953]=`<b>ῆς (ἡ) :<br>      1</b> bêlement, OD. <i>12, 266 ; en parl. de chèvres,</i> OPP. <i>C. 2, 365</i>.<br><b>      2</b> <i>p. ext</i>. vagissement, ESCHL. <i>Sept. 348</i> ; EUR. <i>Cycl. 48</i>.<p>➳ <i>Dor</i>. βλαχά <font color="purple">[ᾱᾱ]</font> ESCHL. EUR. <i>ll. cc</i>.<p><b>Étym</b>. <i>Pour la syll</i>. βλη- <i>cf. lat</i>. bāl- <i>de</i> bālāre.`

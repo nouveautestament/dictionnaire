@@ -1,0 +1,1 @@
+lar[102017]=`<b>ὑπ·αρτάω-ῶ</b> <font color="purple">[ῠ]</font> suspendre, fixer en l’air, EL. <i>N.A. 5, 7</i>.`

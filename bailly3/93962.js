@@ -1,0 +1,1 @@
+lar[93962]=`<b>συμ·μεταποιέω-ῶ</b>, modifier ensemble, DIOSC. <i>Iob. 3, p. 65</i>.`

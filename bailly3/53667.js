@@ -1,0 +1,1 @@
+lar[53667]=`<b>κατά·φορτος, ος, ον</b>, surchargé de, accablé du poids de, <i>gén</i>. JOS. <i>Vit. vol. 2, p. 12</i>.<p><b>Étym</b>. κ. φόρτος.`

@@ -1,0 +1,1 @@
+lar[71992]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> nominal, de la nature du nom, ARSTT. <i>An. post. 2, 10, 2</i>.<p><b>Étym</b>. ὄ. -ωδης.`

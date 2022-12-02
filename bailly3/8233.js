@@ -1,0 +1,1 @@
+lar[8233]=`<b>ἀν·εκκαίω</b>, brûler complètement, HÉRODOTUS (ORIB. <i>2, 403 B.-Dar</i>.).`

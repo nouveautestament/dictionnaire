@@ -1,0 +1,1 @@
+lar[76582]=`<b>παρ·εισβιάζομαι</b>, faire entrer de force, JAMBL. <i>Nicom. ar. 17b</i>.`

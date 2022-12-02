@@ -1,0 +1,1 @@
+lar[7055]=`<b>ἀνά·κωλος, ος, ον</b>, aux jambes courtes (<i>litt</i>. aux membres courts) <i>en parl. d’un chameau,</i> DS. <i>2, 54 ; p. anal. en parl. d’une tunique,</i> PLUT. <i>M. 261f</i>.<p><b>Étym</b>. ἀνά, κῶλον.`

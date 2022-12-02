@@ -1,0 +1,1 @@
+lar[7499]=`<b>εως (ἡ)</b> battement de bas en haut <i>ou</i> d’arrière en avant, <i>d’où</i> détente d’une machine de jet, HÉRON <i>127, 132, etc</i>.<p><b>Étym</b>. ἀναπίπτω.`

@@ -1,0 +1,1 @@
+lar[95608]=`<b>συν·επιγίγνομαι</b>, s’approcher <i>ou</i> survenir ensemble <i>ou</i> en même temps, DS. <i>Exc. 520, 25</i>.`

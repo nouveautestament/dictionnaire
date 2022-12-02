@@ -1,0 +1,1 @@
+lar[23132]=`<b>ου (ὁ)</b> Damastès :<br><b>      1</b> <i>n. du brigand surnommé</i> ὁ Προκρούστης, PLUT. <i>Thes. 11</i>.<br><b>      2</b> <i>historien contemporain d’Hérodote,</i> DH. <i>1, 12, etc.</i> ; PLUT. <i>Cam. 19 ; etc</i>.<p><b>Étym</b>. δαμάζω.`

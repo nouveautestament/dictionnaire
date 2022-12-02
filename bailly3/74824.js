@@ -1,0 +1,1 @@
+lar[74824]=`<b>Πάν·αιμα (τὰ)</b> Panæmes (<i>litt</i>. tout couvert de sang) <i>contrée de Samos,</i> PLUT. <i>Qu. gr. 56</i>.<p><b>Étym</b>. π. αἷμα.`

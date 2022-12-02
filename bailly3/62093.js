@@ -1,0 +1,1 @@
+lar[62093]=`<b>ης, ες :<br>      1</b> semblable à un enragé, IL. <i>13, 53</i>.<br><b>      2</b> enragé, furieux, EUR. <i>Bacch. 981</i> ; ANTH. <i>9, 574</i>.<br><b>      3</b> λ. νόσος, SOPH. <i>Aj. 452,</i> maladie furieuse semblable à la rage.<p><b>Étym</b>. λύσσα, -ωδης.`

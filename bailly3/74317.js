@@ -1,0 +1,1 @@
+lar[74317]=`<b>παιδοτροφέω-ῶ</b>, élever (<i>propr</i>. nourrir) des enfants, AR. <i>Lys. 956</i> ; LUC. <i>D. mer. 2, 1</i>.<p><b>Étym</b>. παιδοτρόφος.`

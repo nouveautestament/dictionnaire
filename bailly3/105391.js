@@ -1,0 +1,1 @@
+lar[105391]=`<b>ας (ἡ)</b> Phigaleia, <i>v. d’Arcadie,</i> ORACL. (PAUS. <i>8, 42, 6</i>).`

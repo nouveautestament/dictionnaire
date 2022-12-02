@@ -1,0 +1,1 @@
+lar[90925]=`<b>ακος (ὁ, ἡ)</b> <font color="purple">[ῐᾰκ]</font> agile, NIC. <i>Th. 577</i> ; ὁ σκ. NIC. <i>Al. 67,</i> le lièvre.`

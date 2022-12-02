@@ -1,0 +1,1 @@
+lar[108006]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. qui vient de chez Charon, <i>en parl. des sénateurs qui prétendaient tenir leur dignité de César, alors assassiné (cf</i>. Orcinii senatores, SUÉT. <i>Aug. 35</i>) PLUT. <i>Ant. 15</i>.<p><b>Étym</b>. Χάρων.`

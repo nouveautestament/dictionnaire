@@ -1,0 +1,1 @@
+lar[14373]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> riche en argent, XÉN. <i>Vect. 4, 3</i>.<p><b>Étym</b>. ἄ. -ωδης.`

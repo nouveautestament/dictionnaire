@@ -1,0 +1,1 @@
+lar[73106]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ὄρυξις, LUC. <i>Ner. 1 et 3</i>.`

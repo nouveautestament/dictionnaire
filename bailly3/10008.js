@@ -1,0 +1,1 @@
+lar[10008]=`<b>ή, όν</b>, d’Anticyre, GAL. <i>13, 227</i> ; τὸ Ἀ. l’ellébore, <i>litt</i>. la plante d’Anticyre, DIOSC. <i>4, 152</i>.<p><b>Étym</b>. Ἀντίκυρα.`

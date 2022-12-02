@@ -1,0 +1,1 @@
+lar[83449]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> fait en forme de scie, dentelé, AR. <i>fr. 139</i> ; ARSTT. <i>H.A. 3, 7, 2</i> ; PHILSTR. <i>99, 867</i>.<p><b>Étym</b>. πρίων.`

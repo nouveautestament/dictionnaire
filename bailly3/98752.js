@@ -1,0 +1,1 @@
+lar[98752]=`<font color="purple">[ᾰ]</font> père, <i>t. de respect et d’affection à l’égard d’un homme plus âgé,</i> IL. <i>4, 412</i>.<p><b>Étym</b>. <i>cf. lat</i>. tāta.`

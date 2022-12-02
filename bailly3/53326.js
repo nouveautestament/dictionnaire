@@ -1,0 +1,1 @@
+lar[53326]=`<b>κατα·σιτέομαι-οῦμαι</b> <font color="purple">[ῑ]</font> dévorer, HDT. <i>1, 216</i> ; DS. <i>3, 35</i>.`

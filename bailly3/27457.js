@@ -1,0 +1,1 @@
+lar[27457]=`<b>δολό·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> aux paroles perfides, SOPH. <i>Tr. 840 (ms. mais incorr. ; conj</i>. δολιόμυθα, ὀλόεντα, δολοφόνα <i>ou</i> δολοπλόκα).<p><b>Étym</b>. δόλος, μῦθος.`

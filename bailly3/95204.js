@@ -1,0 +1,1 @@
+lar[95204]=`<b>συν·διψάω-ῶ</b>, avoir soif avec, ARSTT. <i>Eud. 7, 9, 6</i>.`

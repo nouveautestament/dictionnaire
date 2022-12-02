@@ -1,0 +1,1 @@
+lar[74573]=`<b>παλίν·δρομος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui court en sens inverse, qui revient sur ses pas, LUC. <i>Tim. 37</i>.<br><b>      2</b> <i>fig</i>. incertain, SEXT. <i>P. 2, 203</i>.<p><b>Étym</b>. π. δραμεῖν.`

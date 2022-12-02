@@ -1,0 +1,1 @@
+lar[31051]=`<b>ἑκατοντά·χοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰᾰ]</font> qui produit au centuple, TH. <i>H.P. 8, 7, 4</i> (-χοα).<p><b>Étym</b>. ἑ. χέω.`

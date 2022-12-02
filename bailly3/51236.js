@@ -1,0 +1,1 @@
+lar[51236]=`<b>καλλιτεχνέω-ῶ</b> <font color="purple">[ῐ]</font> travailler avec art, OLYMPIOD. DIAC. <i>in Eccl. p. 544a</i>.<p><b>Étym</b>. καλλίτεχνος.`

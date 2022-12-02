@@ -1,0 +1,1 @@
+lar[82988]=`<b>ποταμο·φόρητος, ος, ον</b> <font color="purple">[ᾰ]</font> emporté par le fleuve, NT. <i>Apoc. 12, 15</i>.<p><b>Étym</b>. π. φορέω.`

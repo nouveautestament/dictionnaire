@@ -1,0 +1,1 @@
+lar[109948]=`<b>ψυχ·απάτης, ου</b> <font color="purple">[ῡᾰᾰ]</font> <i>adj. m.</i> :<br><b>      1</b> qui trompe l’âme, ANTH. <i>12, 256</i>.<br><b>      2</b> qui séduit, captive <i>ou</i> réjouit l’âme, ANTH. <i>5, 106</i> ; ERATOSTH. (CLÉM. <i>183).</i><p><b>Étym</b>. ψ. ἀπατάω.`

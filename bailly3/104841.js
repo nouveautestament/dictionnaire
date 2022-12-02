@@ -1,0 +1,1 @@
+lar[104841]=`<b>φαντασιο·κοπέω-ῶ</b> <font color="purple">[τᾰ]</font><br><b>      1 <i>intr.</i></b> se frapper l’imagination, se tourmenter de chimères, se repaître d’illusions, SPT. <i>Sir. 4, 34</i>.<br><b>      2 <i>tr.</i></b> tromper par des apparences, aveugler par des illusions, CHRYS.<p><b>Étym</b>. φαντασιοκόπος.`

@@ -1,0 +1,1 @@
+lar[95966]=`<b>εως (ἡ)</b> compression, ARSTT. <i>Respir. 4, 9 ; fig</i>. LGN <i>10, 6</i>.<p><b>Étym</b>. συνθλίβω.`

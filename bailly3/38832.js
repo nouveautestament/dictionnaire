@@ -1,0 +1,1 @@
+lar[38832]=`<b>ἐπι·πτήσσω</b>, se blottir, s’accroupir, ARSTD. (PHILSTR. <i>V. soph. p. 584</i>).`

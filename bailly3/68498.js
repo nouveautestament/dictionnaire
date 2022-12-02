@@ -1,0 +1,1 @@
+lar[68498]=`filer, PLAT. <i>Pol. 289c, confond ses temps avec</i> νέω³.<p>➳ <i>Impf. itér</i>. νήθεσκον, ANTH. <i>14, 134</i>.`

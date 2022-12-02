@@ -1,0 +1,1 @@
+lar[75123]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> la fille de Panopée, <i>càd</i>. Æglè, HÉS. (PLUT. <i>Thes. 20).</i><p><b>Étym</b>. Πανοπεύς².`

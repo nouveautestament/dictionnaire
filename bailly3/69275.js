@@ -1,0 +1,1 @@
+lar[69275]=`<b>νυχθ·ήμερος, ος, ον</b>, qui dure un jour et une nuit, M. RUBR. <i>15</i> ; τὸ νυχθήμερον, NT. <i>2Cor. 11, 25</i> ; GEOP. <i>5, 8, 8, etc</i>. durée d’un jour et d’une nuit, <i>càd</i>. de 24 heures.<p><b>Étym</b>. νύξ, ἡμέρα.`

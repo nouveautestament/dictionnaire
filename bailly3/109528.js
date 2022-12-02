@@ -1,0 +1,1 @@
+lar[109528]=`<b>ψαλλη·γενής, ής, ές</b>, né des accords de la lyre, BION (DL. <i>4, 52).</i><p><b>Étym</b>. ψάλλω, γένος.`

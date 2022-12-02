@@ -1,0 +1,1 @@
+lar[109274]=`<b>χρυσό·τοξος, ος, ον</b> <font color="purple">[ῡ]</font> à l’arc d’or, PD. <i>O. 14, 15</i>.<p><b>Étym</b>. χρ. τόξον.`

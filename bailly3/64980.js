@@ -1,0 +1,1 @@
+lar[64980]=`<b>μετα·στρατοπεδεύω</b> <font color="purple">[ᾰτ]</font> changer de campement, POL. <i>3, 112, 2, etc.</i> ; PLUT. <i>M. 228d, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Cyr. 3, 3, 23, etc.</i> ; DH. <i>9, 6</i>.`

@@ -1,0 +1,1 @@
+lar[73963]=`<b>ὀχυρόω-ῶ</b> <font color="purple">[ῠ]</font> (<i>pl.q.pf. pass</i>. ὠχυρώμην) fortifier, POL. <i>14, 9, 9 ; au pass</i>. PLAT. <i>Ax. 371b.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Cyr. 5, 4, 39</i> ; POL. <i>1, 18, 3</i>.<p><b>Étym</b>. ὀχυρός.`

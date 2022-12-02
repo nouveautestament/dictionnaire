@@ -1,0 +1,1 @@
+lar[97845]=`<b>ταφο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à un tombeau, DC. <i>67, 9</i>.<p><b>Étym</b>. τάφος¹, εἶδος.`

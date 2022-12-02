@@ -1,0 +1,1 @@
+lar[20920]=`<b>ωνος (ὁ)</b> Brysôn, PLAT. <i>Ep. 360c ;</i> ARSTT. <i>Soph. el. 11, etc</i>.`

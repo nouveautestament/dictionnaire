@@ -1,0 +1,1 @@
+lar[78987]=`<b>ας (ἡ)</b> voyage <i>ou</i> exploration autour, STR. <i>369, 417 ; particul.</i> :<br><b>      1</b> tournée de patrouille, ronde, EN. TACT. <i>Pol. 22, 26</i>.<br><b>      2</b> action de parcourir un pays, un livre, <i>etc</i>. pour étudier, EPIC. (DL. <i>8, 36).</i><p><b>Étym</b>. περιοδεύω.`

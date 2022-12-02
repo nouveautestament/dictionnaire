@@ -1,0 +1,1 @@
+lar[52147]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>vb. de</i> καταβιβάζω PLAT. <i>Rsp. 539e</i>.`

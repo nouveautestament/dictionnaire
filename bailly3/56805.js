@@ -1,0 +1,1 @@
+lar[56805]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui consiste en petits morceaux détachés, en incises brèves et multipliées, LUC. <i>Bis acc. 28</i>.<p><b>Étym</b>. κόμμα.`

@@ -1,0 +1,1 @@
+lar[108119]=`<b>χειρο·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> lourd, capable de charger la main, PHILÉT. (ATH. <i>418c</i>).<p><b>Étym</b>. χ. βάρος.`

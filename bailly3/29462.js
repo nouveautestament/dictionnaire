@@ -1,0 +1,1 @@
+lar[29462]=`<b>ἐγ·καίνια, ων (τὰ)</b> fête d’inauguration (d’un temple) <i>chez les Juifs,</i> SPT. <i>Dan. 3, 2</i> ; NT. <i>Joh. 10, 22</i>.<p><b>Étym</b>. ἐν, καινός.`

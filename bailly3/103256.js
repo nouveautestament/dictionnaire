@@ -1,0 +1,1 @@
+lar[103256]=`<b>ος, ον :<br>      1</b> placé dessous : <i>subst</i>. τὸ ὑπόθετον, ANTIPH. (POLL. <i>4, 183</i>) ; GAL. <i>14, 468, etc</i>. suppositoire, <i>t. de méd.</i><br><b>      2</b> supposé, DH. <i>9 fin</i>.<p><b>Étym</b>. <i>vb. de</i> ὑποτίθημι.`

@@ -1,0 +1,1 @@
+lar[63489]=`<b>έως</b> <font color="purple">[ᾰ]</font> Mégarée, <i>fils de Créon,</i> ESCHL. <i>Sept. 474</i> ; SOPH. <i>Ant. 1303</i>.`

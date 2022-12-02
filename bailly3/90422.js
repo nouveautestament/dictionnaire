@@ -1,0 +1,1 @@
+lar[90422]=`<b>ου (τὸ)</b> sium <i>ou</i> berle (<i>Sium latifolium</i> L.) <i>plante aquatique,</i> THCR. <i>Idyl. 5, 125</i> ; DIOSC. <i>2, 154, etc</i>.`

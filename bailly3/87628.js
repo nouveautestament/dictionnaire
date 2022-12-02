@@ -1,0 +1,1 @@
+lar[87628]=`<b>πυκνο·πλοέω-οῶ</b>, naviguer souvent, HIPPARQ. <i>1033 Migne</i>.<p><b>Étym</b>. π. πλόος.`

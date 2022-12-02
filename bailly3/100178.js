@@ -1,0 +1,1 @@
+lar[100178]=`<b>τρι·δάκτυλος, ος, ον</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> qui a trois doigts, <i>en parl. de certains animaux,</i> ARSTT. <i>fr. 275</i> ; DIOSC. <i>Noth. 1, 134</i>.<br><b>      2</b> long <i>ou</i> large de trois doigts, HPC. <i>Art. 799, etc.</i> ; D. CHR. <i>Or. 64, 10, t. 2, p. 331 R</i>.<p><b>Étym</b>. τρ. δάκτυλος.`

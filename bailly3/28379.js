@@ -1,0 +1,1 @@
+lar[28379]=`<b>δυσ·έμβλητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à emboîter, à remettre, HPC. <i>833c</i>.<p><b>Étym</b>. δ. ἐμβάλλω.`

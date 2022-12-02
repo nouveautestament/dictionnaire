@@ -1,0 +1,1 @@
+lar[46097]=`le matin ; ἠῶθι πρό, IL. <i>11, 50</i> ; OD. <i>5, 469 ; 6, 36</i> ; ARAT. <i>309,</i> avant l’aurore.<p><b>Étym</b>. ἠώς, -θι.`

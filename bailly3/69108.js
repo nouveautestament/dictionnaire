@@ -1,0 +1,1 @@
+lar[69108]=`<b>οῦ (ὁ)</b> qui chasse <i>ou</i> pêche la nuit, PLAT. <i>Leg. 824b</i>.<p><b>Étym</b>. νυκτερεύω.`

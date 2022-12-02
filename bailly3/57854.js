@@ -1,0 +1,1 @@
+lar[57854]=`<b>κρησ·φύγετον, ου (τὸ)</b> <font color="purple">[ῠ]</font> lieu de refuge, asile, HDT. <i>5, 124 ; 7, 51 ; 9, 15</i> ; LUC. <i>M. cond. 11</i> ; EUN. <i>10</i>.<p><b>Étym</b>. κράς, φεύγω.`

@@ -1,0 +1,1 @@
+lar[610]=`<b>ου (ὁ)</b> <font color="purple">[κᾰ]</font> brassée, faisceau, HH. <i>Merc. 82</i>.<p><b>Étym</b>. <i>cf</i>. ἀγκάλη.`

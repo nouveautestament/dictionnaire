@@ -1,0 +1,1 @@
+lar[65984]=`<b>μισθ·αποδότης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui paye un salaire dû, une juste rémunération, NT. <i>Hebr. 11, 6</i>.<p><b>Étym</b>. μισθός, ἀποδίδωμι.`

@@ -1,0 +1,1 @@
+lar[101223]=`<b>ου</b>, <i>voc</i>. <b>-η (ὁ)</b> <font color="purple">[ῠ]</font> Tykhiadès, <i>h</i>. LUC. <i>Philops. 1, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Τυχίος.`

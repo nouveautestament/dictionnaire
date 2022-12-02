@@ -1,0 +1,1 @@
+lar[48427]=`<b>ας (ἡ)</b> <font color="purple">[ῐδ]</font> aspect particulier, PTOL. <i>Tetr. p. 155</i>.<p><b>Étym</b>. ἰδιο-πρόσωπος.`

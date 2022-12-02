@@ -1,0 +1,1 @@
+lar[99858]=`<b>Τραγό·παν, πανος (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Panbouc, <i>oiseau fabuleux d’Éthiopie,</i> MELA <i>3, 9</i> ; PLIN. <i>H.N. 10, 49, 70</i>.`

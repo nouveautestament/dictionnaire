@@ -1,0 +1,1 @@
+lar[14457]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> fils <i>ou</i> descendant d’Arestôr, A.RH. <i>1, 325, etc</i>.<p>➳ <i>Gén. épq</i>. -αο, NONN. <i>D. 37, 55</i>.<p><b>Étym</b>. Ἀρέστωρ.`

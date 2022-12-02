@@ -1,0 +1,1 @@
+lar[108151]=`<b>χειρο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat <i>ou</i> lutte avec les mains, PLUT. <i>Qu. gr. 32</i>.`

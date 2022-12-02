@@ -1,0 +1,1 @@
+lar[88863]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> abri, refuge, ESCHL. <i>Suppl. 84</i> ; SOPH. <i>Aj. 159</i> ; EUR. <i>Her. 260</i> ; τινος, ARSTT. <i>fr. 301,</i> contre qqe ch.<p><b>Étym</b>. ῥύομαι.`

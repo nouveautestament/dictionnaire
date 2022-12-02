@@ -1,0 +1,1 @@
+lar[109676]=`<b>ψευδο·δίπτερος, ος, ον</b>, disposé en apparence pour deux ailes, <i>en parl. d’un temple dont les côtés n’ont qu’un rang de colonnes, bien que l’espace ait été réservé pour deux rangs,</i> VITR. <i>3, 1</i>.<p><b>Étym</b>. ψ. δίπτερος.`

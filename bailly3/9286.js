@@ -1,0 +1,1 @@
+lar[9286]=`<b>ας (ἡ)</b> défaut d’accord, incohérence, contradiction, STR. <i>98</i> ; PLUT. <i>Nic. c. Crass. 1</i>.<p><b>Étym</b>. ἀνομόλογος.`

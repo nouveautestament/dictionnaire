@@ -1,0 +1,1 @@
+lar[59348]=`<b>ου (ὁ)</b> <font color="purple">[α]</font> <i>c</i>. λαβραγόρης, PRATIN. (ATH. <i>624f</i>).`

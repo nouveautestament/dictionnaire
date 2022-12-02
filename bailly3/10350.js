@@ -1,0 +1,1 @@
+lar[10350]=`<b>ἀντι·προτείνω</b>, tendre <i>ou</i> offrir à son tour, XÉN. <i>Hell. 4, 1, 31</i> ; DH. <i>8, 19</i>.<br><b><i>Moy.</i></b> proposer à son tour, DC. <i>65, 1</i>.`

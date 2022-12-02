@@ -1,0 +1,1 @@
+lar[103374]=`<b>ὑπο·κλαίω :<br>      1</b> pleurer en secret, ESCHL. <i>Ag. 69</i> ; POLÉM. <i>Physiogn. 1, 12, p. 254</i>.<br><b>      2</b> pleurer à la suite de : οἰμωγάς, SOPH. <i>Ph. 190 conj</i>. répéter des gémissements, <i>en parl. de l’écho</i>.`

@@ -1,0 +1,1 @@
+lar[15667]=`<b>ἀρχι·τρίκλινος, ου (ὁ)</b> <font color="purple">[ῑ̆ῐῑν]</font> président d’un banquet, HLD. <i>7, 27</i> ; NT. <i>Joh. 2, 9</i>.<p><b>Étym</b>. ἀ. τρίκλινον.`

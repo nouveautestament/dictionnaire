@@ -1,0 +1,1 @@
+lar[10069]=`<b>ἀντι·μεθίστημι</b>, transporter d’un côté à un autre, bouleverser, AR. <i>Th. 362</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> se transporter d’un autre côté, LUC. <i>Dem. enc. 37</i>.<br><b>      2</b> changer de place mutuellement, prendre la place l’un de l’autre, ARSTT. <i>Phys. 4, 2, 5, etc</i>.`

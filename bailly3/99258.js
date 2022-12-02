@@ -1,0 +1,1 @@
+lar[99258]=`<b>Τιμο·ξένα, ης (ἡ)</b> <font color="purple">[ῑ]</font> Timoxéna, <i>f</i>. PLUT. <i>Conj. præc. 48, etc</i>. (<i>v</i>. Τιμόξενος).`

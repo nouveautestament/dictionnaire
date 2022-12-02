@@ -1,0 +1,1 @@
+lar[58209]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> semblable à un toupet, LUC. <i>Lex. 13</i>.<p><b>Étym</b>. κρωβύλος, -ωδης.`

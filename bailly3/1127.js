@@ -1,0 +1,1 @@
+lar[1127]=`<b>ος, ον</b>, non anguleux, ARSTT. <i>Metaph. 4, 14, 1</i> ; TH. <i>H.P. 3, 42, 2</i>.<p><b>Étym</b>. ἀ, γωνία.`

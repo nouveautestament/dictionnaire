@@ -1,0 +1,1 @@
+lar[15085]=`<b>ἄ·ρραβδος, ος, ον</b>, sans bâton, NAZ. <i>2, 649 Migne</i>.<p>➳ <i>Par licence poét</i>. ἄραβδος, NAZ. <i>3, 1180 Migne</i>.<p><b>Étym</b>. ἀ, ῥάβδος.`

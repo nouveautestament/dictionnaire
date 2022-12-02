@@ -1,0 +1,1 @@
+lar[24020]=`<b>ῆς (ἡ)</b> <i>litt</i>. (bois) lié, <i>càd</i>. en faisceau, <i>d’où</i> torche, IL. <i>11, 554 ; 17, 663</i> ; AR. <i>Vesp. 1361</i>.<p><b>Étym</b>. <i>fém. de</i> δετός.`

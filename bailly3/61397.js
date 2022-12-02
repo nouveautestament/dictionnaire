@@ -1,0 +1,1 @@
+lar[61397]=`<b>ῶν (αἱ)</b> sorte de dés <i>ou</i> de jetons que l’on coupait en deux et dont deux hôtes (ξένοι) gardaient chacun une moitié comme signe de reconnaissance pour eux et leur famille, PLAT. <i>Conv. 193a</i>.<p><b>Étym</b>. <i>fém. de</i> λίσπος.`

@@ -1,0 +1,1 @@
+lar[73935]=`<b>ης, ες</b>, importun, fatigant, LUCIL. (A. GELL. <i>18, 8).</i><p><b>Étym</b>. ὀχληρός, -ωδης ; <i>leçon fausse p</i>. ληρώδης.`

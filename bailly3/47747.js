@@ -1,0 +1,1 @@
+lar[47747]=`<b>ης (ἡ)</b> Throniè, <i>fille de Bélos,</i> HÉS. <i>fr. 9 Gaisford</i>.`

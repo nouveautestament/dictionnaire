@@ -1,0 +1,1 @@
+lar[101067]=`<b>ου (ὁ)</b> sorte d’oiseau, <i>p.-ê</i>. pivert, ARSTT. <i>H.A. 9, 1, 17</i>.<p><b>Étym</b>. τύπτω.`

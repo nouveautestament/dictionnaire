@@ -1,0 +1,1 @@
+lar[57119]=`<b>ου (ὁ)</b> Korrhagos :<br><b>      1</b> <i>Macédonien,</i> ESCHN. <i>3, 165 Baiter-Sauppe</i>.<br><b>      2</b> <i>fils de Démétrius Poliorcète,</i> PLUT. <i>Demetr. 53</i>.<br><b>      3</b> <i>autres,</i> PLUT. <i>Demetr. 2</i> ; EL. <i>V.H. 4, 15</i>.`

@@ -1,0 +1,1 @@
+lar[1752]=`<b>ἀεξί·νοος, ος, ον</b> <font color="purple">[ῐ]</font> qui développe l’intelligence, PROCL. <i>H. Mus. 16</i>.<p><b>Étym</b>. ἀ. νόος.`

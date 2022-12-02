@@ -1,0 +1,1 @@
+lar[94540]=`<b>ατος (τὸ) :<br>      1</b> amas, <i>particul</i>. concrétion pierreuse <i>ou</i> calcul dans les reins, HPC. <i>1175c, 1230d.</i><br><b>      2</b> masse, <i>en parl. d’une armée,</i> SPT. <i>Eccl. 12, 11</i>.<p><b>Étym</b>. συνάγω.`

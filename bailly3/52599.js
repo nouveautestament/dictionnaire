@@ -1,0 +1,1 @@
+lar[52599]=`<b>ῆς (ἡ) :<br>      1</b> coupe, taille, TH. <i>C.P. 2, 12, 6</i>.<br><b>      2</b> entaille, ARTÉM. <i>1, 50, etc</i>.<p><b>Étym</b>. κατακόπτω.`

@@ -1,0 +1,1 @@
+lar[84282]=`<b>προ·ευκρινέω-ῶ</b> <font color="purple">[ῐ]</font> considérer avec soin auparavant, ARÉT. <i>Cur. m. diut. 1, 5, etc</i>.`

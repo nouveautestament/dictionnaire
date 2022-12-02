@@ -1,0 +1,1 @@
+lar[38692]=`<b>ἐπι·πλανάομαι-ῶμαι</b> <font color="purple">[ᾰν]</font> errer <i>ou</i> se répandre sur, <i>acc</i>. DÉMOCR. (CLÉM. <i>357</i>) ; <i>dat</i>. HLD. <i>7, 17 ; abs</i>. LGS <i>1, 2</i>.<p>➳ <i>Ao</i>. ἐπεπλανησάμην, DÉMOCR. <i>l. c. ; ou</i> ἐπεπλανήθην, HLD. <i>3, 5</i>.`

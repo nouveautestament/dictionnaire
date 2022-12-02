@@ -1,0 +1,1 @@
+lar[32793]=`<i>adv</i>., en roulant dans leurs orbites, ESCHL. <i>Pr. 882</i>.<p><b>Étym</b>. ἑλίσσω.`

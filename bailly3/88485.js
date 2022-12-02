@@ -1,0 +1,1 @@
+lar[88485]=`<b>α, ον</b>, <i>vb. de</i> εἴρω², PLAT. <i>Leg. 730b, Soph. 227d, etc</i>.`

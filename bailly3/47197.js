@@ -1,0 +1,1 @@
+lar[47197]=`<b>θηλύ·παις, παιδος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui a engendré <i>ou</i> enfanté une fille, LYC. <i>851</i>.<p><b>Étym</b>. θ. παῖς.`

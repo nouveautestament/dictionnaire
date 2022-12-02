@@ -1,0 +1,1 @@
+lar[20411]=`<b>ου (τὸ) :<br>      1</b> troupeau de bœufs, HDT. <i>1, 126</i>.<br><b>      2</b> adoucissement, soulagement (<i>cf</i>. βουκόλημα), ANTH. <i>9, 150</i>.<p><b>Étym</b>. βουκόλος.`

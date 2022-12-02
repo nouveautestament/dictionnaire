@@ -1,0 +1,1 @@
+lar[62527]=`<b>μακρο·κομέω-ῶ</b>, avoir une longue chevelure, STR. <i>520</i>.<p><b>Étym</b>. μ. κόμη.`

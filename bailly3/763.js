@@ -1,0 +1,1 @@
+lar[763]=`<b>ου (τὸ)</b> instrument <i>ou</i> appareil pour les purifications, HÉRON <i>219</i>.<p><b>Étym</b>. ἁγνίζω.`

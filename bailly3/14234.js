@@ -1,0 +1,1 @@
+lar[14234]=`<b>ης (ἡ)</b> argémone <i>ou</i> aigremoine, <i>sorte de pavot,</i> DIOSC. <i>2, 208</i>.`

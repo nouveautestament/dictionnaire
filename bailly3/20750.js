@@ -1,0 +1,1 @@
+lar[20750]=`<i>onomatopée pour imiter le coassement des grenouilles,</i> AR. <i>Ran. 209, etc.</i> ; ES. <i>298 Halm</i>.`

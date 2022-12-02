@@ -1,0 +1,1 @@
+lar[94205]=`<b>συμ·περιπολέω-ῶ</b>, tourner ensemble autour, <i>d’où</i> accompagner sans cesse, PLUT. <i>M. 745e, 766b ;</i> PHIL. <i>1, 16</i> ; JOS. <i>c. Ap. 2, 2</i>.`

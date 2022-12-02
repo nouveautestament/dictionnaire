@@ -1,0 +1,1 @@
+lar[76368]=`<b>παρα·τυπόω-ῶ</b> <font color="purple">[ῠ]</font> frapper d’une fausse marque, contrefaire, BAS.`

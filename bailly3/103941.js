@@ -1,0 +1,1 @@
+lar[103941]=`<b>ὑπο·σφάγιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> endroit où l’on égorge la victime, <i>càd</i>. bas de la gorge, GAL. <i>De usu part. 16, 10</i>.<p><b>Étym</b>. ὑ. σφάζω.`

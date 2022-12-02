@@ -1,0 +1,1 @@
+lar[36078]=`<b>ἐξ·οιδέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἐξῴδουν, <i>pf</i>. ἐξῴδηκα)</font> se gonfler, EUR. <i>Cycl. 227</i> ; LUC. <i>D. mort. 14, 5 ; fig</i>. se gonfler d’importance, s’enorgueillir, POL. <i>6, 18, 7</i>.`

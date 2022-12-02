@@ -1,0 +1,1 @@
+lar[62147]=`<b>λυχνο·φόρος, ος, ον</b>, qui porte une lampe <i>ou</i> une lanterne, PLUT. <i>Pomp. 52</i> ; ATH. <i>214d</i>.<p><b>Étym</b>. λύχνος, φέρω.`

@@ -1,0 +1,1 @@
+lar[88354]=`<b>εως (ἡ)</b> action de ronfler, ronflement, HPC. <i>Acut. 386</i>.<p><b>Étym</b>. ῥέγκω.`

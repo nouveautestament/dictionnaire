@@ -1,0 +1,1 @@
+lar[100345]=`<b>τρι·πέδιλον, ου (τὸ)</b> <font color="purple">[ῐῑ]</font> <i>sorte de plante,</i> DIOSC. <i>Noth. 3, 109</i>.<p><b>Étym</b>. τρ. πέδιλον.`

@@ -1,0 +1,1 @@
+lar[7318]=`<b>ἀνα·παιδεύω</b>, instruire de nouveau <i>ou</i> complètement, SOPH. <i>fr. 434</i> ; AR. <i>Eq. 1099</i>.`

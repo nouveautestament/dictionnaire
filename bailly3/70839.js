@@ -1,0 +1,1 @@
+lar[70839]=`<b>ὀκτά·κωλος, ος, ον</b> <font color="purple">[ᾰ]</font> de huit membres, HÉPH. <i>p. 125, 11</i>.<p><b>Étym</b>. ὀ. κῶλον.`

@@ -1,0 +1,1 @@
+lar[7661]=`<b>ος, ον</b> <font color="purple">[τᾰ]</font> qui concerne la résurrection de J.-C., NAZ. <i>3, 280 Migne, etc</i>.<p><b>Étym</b>. ἀνίστημι.`

@@ -1,0 +1,1 @@
+lar[84651]=`<font color="purple">[ᾰ]</font> placer devant, <i>gén</i>. DYSC. <i>Synt. 13, 18</i>.<p><b>Étym</b>. πρόλημμα.`

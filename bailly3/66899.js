@@ -1,0 +1,1 @@
+lar[66899]=`<b>Μουσ·ηγέτης, ου (ὁ)</b> conducteur des Muses, <i>surn. d’Apollon,</i> PAUS. <i>1, 2, 5</i> ; PLUT. <i>M. 745a</i>.<p>➳ <i>Dor</i>. Μουσαγέτας <font color="purple">[ᾱᾱ]</font> PD. (HÉPH. <i>p. 42</i>) ; <font color="purple">[ᾰᾱ]</font> ORPH. <i>H. 33, 6</i>.<p><b>Étym</b>. μ. ἡγέομαι.`

@@ -1,0 +1,1 @@
+lar[29804]=`<b>ἔγ·κυος, ος, ον</b>, <i>c</i>. ἐγκύμων <i>au pr. en parl. de pers</i>. ARSTT. <i>H.A. 3, 20</i> ; DH. <i>9, 22</i> ; DS. <i>4, 2 ; d’animaux,</i> ARSTT. <i>H.A. 5, 5 ; fig</i>. ANTH. <i>9, 156</i> ; NONN. <i>D. 3, 29, etc</i>.<p><b>Étym</b>. ἐν, κυέω.`

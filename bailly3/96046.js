@@ -1,0 +1,1 @@
+lar[96046]=`<b>συν·ναυστολέω-ῶ</b>, naviguer avec qqn, SOPH. <i>Ph. 550</i>.`

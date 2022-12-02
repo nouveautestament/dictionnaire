@@ -1,0 +1,1 @@
+lar[47297]=`<b>θηριοτροφέω-ῶ</b>, élever comme une bête sauvage, ALCIPHR. <i>fr. 5, 1</i>.<p><b>Étym</b>. θηριοτρόφος.`

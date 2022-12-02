@@ -1,0 +1,1 @@
+lar[52283]=`<b>κατα·δάμναμαι</b> <font color="darkgreen">(<i>impf. 3 sg</i>. κατεδάμνατο)</font> <font color="purple">[νᾰ]</font> <i>c</i>. καταδαμάζω HH. <i>Merc. 137</i>.<p><b>Étym</b>. κ. δάμνημι.`

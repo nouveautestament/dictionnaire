@@ -1,0 +1,1 @@
+lar[46417]=`<b>ου (ὁ)</b> Théasidès, <i>Spartiate,</i> HDT. <i>6, 85</i>.`

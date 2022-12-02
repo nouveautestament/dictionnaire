@@ -1,0 +1,1 @@
+lar[97293]=`<b>ῆς (ἡ)</b> la Sôphène, <i>contrée d’Arménie,</i> PLUT. <i>Luc. 24 ; Pomp. 33, etc</i>.`

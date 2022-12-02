@@ -1,0 +1,1 @@
+lar[54687]=`<b>κεν·εμβατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> s’avancer dans le vide, <i>au pr</i>. LUC. <i>Somn. 26 ; fig. càd</i>. faire de vains efforts, de vaines démarches, PLUT. <i>Flam. 10</i>.<br><b>      2</b> <i>t. de chirurgie,</i> plonger dans une partie creuse, <i>en parl. de la sonde,</i> P. ÉG.<p><b>Étym</b>. κενός, ἐμβατέω.`

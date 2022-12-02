@@ -1,0 +1,1 @@
+lar[34713]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., de dix-neuf manières, MAX. <i>π. κατ. p. 126 Ludv</i>.<p><b>Étym</b>. ἐ. -χως.`

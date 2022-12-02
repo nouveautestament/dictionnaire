@@ -1,0 +1,1 @@
+lar[98675]=`<b>τετρά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> à quatre signes, <i>càd</i>. à quatre temps (<i>comme le spondée, le dactyle ou l’anapeste</i>) QUINT.<p><b>Étym</b>. τ. σῆμα.`

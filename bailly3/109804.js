@@ -1,0 +1,1 @@
+lar[109804]=`<b>ψηφο·κλέπτης, ου (ὁ)</b> escamoteur, prestidigitateur, ATH. <i>19b</i>.<p><b>Étym</b>. ψ. κλέπτω.`

@@ -1,0 +1,1 @@
+lar[89371]=`<b>ου (ὁ)</b> Sarangès, <i>fl. du Pont,</i> ORPH. <i>Arg. 1059</i>.<p><b>Étym</b>. <i>ind</i>. Çaranga.`

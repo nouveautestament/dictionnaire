@@ -1,0 +1,1 @@
+lar[8330]=`<b>ἀν·εμπλήκτως</b>, <i>adv</i>., intrépidement, PLUT. <i>Galb. 23</i>.<p><b>Étym</b>. ἀν-, ἐμπλήσσω.`

@@ -1,0 +1,1 @@
+lar[59408]=`<i>adv. au cp</i>. λαγνίστερον, d’une façon plus relâchée, PHIL. <i>1, 634</i>.`

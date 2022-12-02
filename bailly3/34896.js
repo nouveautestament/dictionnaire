@@ -1,0 +1,1 @@
+lar[34896]=`<b>εως (ἡ)</b> action de troubler, gêne, incommodité, ennui, DL. <i>7, 14 et 112</i> ; ARSTT. <i>Interpr. 6, 4</i>.<p><b>Étym</b>. ἐνοχλέω.`

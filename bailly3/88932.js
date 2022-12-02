@@ -1,0 +1,1 @@
+lar[88932]=`<b>ῥυσό·καρφος, ος, ον</b> <font color="purple">[ῡ]</font> aux branches rugueuses, DIOSC. <i>1, 13</i>.<p><b>Étym</b>. ῥυσός, κάρφος.`

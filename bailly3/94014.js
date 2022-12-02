@@ -1,0 +1,1 @@
+lar[94014]=`<b>συμ·μοιράω-ῶ</b>, attribuer un lot par la voie du sort, M. ANT. <i>2, 5</i>.`

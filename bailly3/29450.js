@@ -1,0 +1,1 @@
+lar[29450]=`<b>ἐγ·καθιδρύω</b> : établir <i>ou</i> ériger sur, <i>dat</i>. EUR. <i>I.T. 978 ; avec</i> ἐν <i>et le dat</i>. (ATH. <i>473b</i>) ; <i>au pass</i>. avoir sa place sur <i>ou</i> dans, ARSTT. <i>Mund. 6, 5</i>.<p>➳ <i>Act. prés</i>. -ύουσιν, ATH. <i>l. c. ; ao. inf</i>. -ιδρῦσαι, EUR. <i>l. c. ; pf. pass. part</i>. -ιδρυμένας, ARSTT. <i>l. c</i>.<p><b>Étym</b>. ἐν, κ.`

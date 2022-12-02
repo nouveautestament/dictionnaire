@@ -1,0 +1,1 @@
+lar[41762]=`<b>ίδος (ἡ)</b> femme de bonne naissance, JOS. <i>A.J. 7, 3, 3</i>.<p><b>Étym</b>. εὐγενής.`

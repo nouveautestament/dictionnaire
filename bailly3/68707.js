@@ -1,0 +1,1 @@
+lar[68707]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> Nikæa (Nicée) :<br><b>      1</b> <i>v. de Thessalie,</i> DÉM. <i>71, 11, etc.</i> ; ESCHN. <i>45, 33, etc.</i><br><b>      2</b> <i>n. de f</i>. NONN. <i>D. 15, 290 ; 16, 154</i>.<p>➳ <i>Ion</i>. Νικαίη, NONN. <i>ll. cc</i>.<p><b>Étym</b>. νίκη.`

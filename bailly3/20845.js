@@ -1,0 +1,1 @@
+lar[20845]=`<b>ου (ὁ)</b> folle avoine, <i>plante,</i> TH. <i>H.P. 8, 9, 2</i>.`

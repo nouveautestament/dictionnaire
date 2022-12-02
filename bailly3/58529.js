@@ -1,0 +1,1 @@
+lar[58529]=`<b>ου (ἡ)</b> <font color="purple">[ῠᾰῑ]</font> cyclamen, <i>plante,</i> THCR. <i>Idyl. 5, 123</i>.<p><b>Étym</b>. κύκλος.`

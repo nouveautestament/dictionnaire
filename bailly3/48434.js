@@ -1,0 +1,1 @@
+lar[48434]=`<b>ίας (ἡ)</b> <font color="purple">[ῐδῐσ]</font> constitution propre, ORIB. <i>p. 105 Matthäi</i> ; SEXT. <i>P. 1, 79</i>.<p><b>Étym</b>. ἰδιοσύγκριτος.`

@@ -1,0 +1,1 @@
+lar[40296]=`<font color="darkgreen">(<i>impf. poét</i>. ἔρεπτον)</font> couvrir, LIB. <i>1, 282, etc. ; particul</i>. couronner, PD. <i>P. 4, 240</i> ; IL. <i>3, 72</i>.<br><b><i>Moy.</i></b> (<i>seul. prés</i>.) se couvrir : κεφαλήν τινι, CRAT. (ATH. <i>681b</i>) la tête de qqe ch. (d’un manteau, d’un voile, <i>etc</i>.).<p><b>Étym</b>. <i>cf</i>. ἐρέφω.`

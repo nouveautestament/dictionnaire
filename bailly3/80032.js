@@ -1,0 +1,1 @@
+lar[80032]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Pèdasos :<br><b>      1</b> <i>v. de Troade,</i> IL. <i>6, 35 ; 20, 92 ; 21, 87</i>.<br><b>      2</b> <i>v. de Messénie,</i> IL. <i>9, 152, 294</i>.`

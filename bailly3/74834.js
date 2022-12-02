@@ -1,0 +1,1 @@
+lar[74834]=`<b>παν·ακαρπής, ής, ές</b> <font color="purple">[ᾰνᾰ]</font> tout à fait stérile, NIC. <i>Th. 612</i>.<p><b>Étym</b>. π. ἄκαρπος.`

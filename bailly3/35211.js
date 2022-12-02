@@ -1,0 +1,1 @@
+lar[35211]=`<b>ἐν·ωθέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐνέωσα)</font> pousser dans <i>ou</i> sur, <i>dat</i>. A.RH. <i>4, 1243</i> ; εἰς <i>et l’acc</i>. PLUT. <i>Luc. 28</i>.`

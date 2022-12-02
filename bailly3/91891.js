@@ -1,0 +1,1 @@
+lar[91891]=`<font color="purple">[ῐ]</font> <i>adv</i>., de loin, ANTIM. <i>77 Kinkel</i>.<p><b>Étym</b>. σπιδής, -θεν.`

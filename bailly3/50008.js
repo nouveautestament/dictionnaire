@@ -1,0 +1,1 @@
+lar[50008]=`<b>Ἰφι·άνασσα, ης (ἡ)</b> <font color="purple">[ῑφᾰν]</font> Iphianassa :<br><b>      1</b> <i>fille d’Agamemnon,</i> IL. <i>9, 145, 287</i>.<br><b>      2</b> <i>Néréïde,</i> LUC. <i>D. mar. 14</i>.<br><b>      3</b> <i>autre,</i> Q. SM. <i>8, 295</i>.<p><b>Étym</b>. ἶφι, ἄνασσα.`

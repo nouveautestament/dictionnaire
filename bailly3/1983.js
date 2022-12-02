@@ -1,0 +1,1 @@
+lar[1983]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’une façon illicite, APP. <i>Lib. 53</i>.`

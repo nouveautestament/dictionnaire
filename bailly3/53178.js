@@ -1,0 +1,1 @@
+lar[53178]=`<i>adv</i>., d’une manière méprisable, avec mépris, CLÉM. <i>458</i>.`

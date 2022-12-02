@@ -1,0 +1,1 @@
+lar[62182]=`<b>ων (τὰ)</b> Lôrymes, <i>v. de Carie,</i> THC. <i>8, 43</i>.`

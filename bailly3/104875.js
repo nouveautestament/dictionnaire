@@ -1,0 +1,1 @@
+lar[104875]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> carquois, IL. <i>1, 45 ; 15, 443</i> ; OD. <i>9, 314</i> ; PD. <i>O. 2, 151</i> ; PLAT. <i>Theæt. 180a, etc</i>.<p>➳ <i>Épq. et ion</i>. φαρέτρη, HOM. <i>ll. cc</i>.<p><b>Étym</b>. <i>probabl. emprunt, p.-ê. à l’iranien ; rapprochement avec</i> φέρω <i>par étym. populaire</i>.`

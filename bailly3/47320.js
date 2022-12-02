@@ -1,0 +1,1 @@
+lar[47320]=`<b>θηρο·μιγής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> à demi bête sauvage (Centaure) OPP. <i>C. 2, 6</i>.<br><b>      2</b> qui tient de la nature des bêtes sauvages, PLUT. <i>Mar. 20</i>.<p><b>Étym</b>. θ. μίγνυμι.`

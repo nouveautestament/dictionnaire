@@ -1,0 +1,1 @@
+lar[77808]=`<b>ης (ἡ)</b> Pella (<i>auj</i>. Pélla), <i>v. de Macédoine,</i> HDT. <i>7, 123</i> ; THC. <i>2, 99, 100</i> ; XÉN. <i>Hell. 5, 2, 13, etc</i>.`

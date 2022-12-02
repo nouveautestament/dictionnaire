@@ -1,0 +1,1 @@
+lar[85170]=`<b>προσ·αναπίπτω</b>, s’asseoir auprès de qqn, POL. <i>31, 4, 6</i>.`

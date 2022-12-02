@@ -1,0 +1,1 @@
+lar[62856]=`<font color="purple">[ᾱ]</font> <i>adv</i>., rarement, TH. <i>Sign. 2, 7</i>.<p>•<i> Cp</i>. -ότερον, XÉN. <i>Cyr. 7, 5, 6</i> ; ARSTT. <i>Respir. 10, 3</i>.<p><b>Étym</b>. μανός.`

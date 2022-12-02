@@ -1,0 +1,1 @@
+lar[53120]=`<b>εως (ἡ)</b> action d’étrangler, d’étouffer, ARSTT. <i>Probl. 38, 3</i> ; TH. <i>H.P. 5, 9, 4</i> ; ἱδρῶτος, TH. <i>Sud. 39,</i> suppression de la sueur.<p><b>Étym</b>. καταπνίγω.`

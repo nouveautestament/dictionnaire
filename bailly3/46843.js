@@ -1,0 +1,1 @@
+lar[46843]=`<b>θεοφορέω-ῶ :<br>      1</b> inspirer d’un souffle divin, CLÉM. <i>2, 325, 513 ; d’où au pass</i>. être inspiré par un dieu, LUC. <i>Philops. 38</i> ; SEXT. <i>P. 1, 101</i>.<br><b>      2</b> honorer comme un dieu, diviniser, SEXT. <i>M. 9, 32</i>.<p><b>Étym</b>. θεοφόρος.`

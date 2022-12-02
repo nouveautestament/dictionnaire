@@ -1,0 +1,1 @@
+lar[18028]=`<b>εως (ἡ)</b> <i>c</i>. ἀφηνιασμός HIÉROCL. <i>C. aur. p. 456 Mullach</i>.`

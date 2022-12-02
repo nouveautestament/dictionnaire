@@ -1,0 +1,1 @@
+lar[88189]=`<b>ος, ον</b>, violent, excessif, désordonné, GAL. <i>6, 442a</i>.<p><b>Étym</b>. ῥήγνυμι.`

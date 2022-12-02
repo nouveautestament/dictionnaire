@@ -1,0 +1,1 @@
+lar[74117]=`<b>παγ·κατάρατος, ος, ον</b> <font color="purple">[κᾰρᾱ]</font> tout à fait exécrable, AR. <i>Lys. 588</i>.<p><b>Étym</b>. π. κατάρατος.`

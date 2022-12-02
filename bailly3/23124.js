@@ -1,0 +1,1 @@
+lar[23124]=`<b>Δαμάσ·ιππος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Damasippos, <i>h</i>. EL. <i>V.H. 4, 20</i> ; POL. <i>31, 25, etc</i>.<p><b>Étym</b>. <i>cf</i>. δαμάσιππος.`

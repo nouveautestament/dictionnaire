@@ -1,0 +1,1 @@
+lar[42540]=`<b>εὔ·κτητος, ος, ον</b>, bien acquis <i>ou</i> facile à acquérir, ANTH. <i>App. 47</i> ; ARISTÉN. <i>2, 15</i>.<p><b>Étym</b>. εὖ, κτάομαι.`

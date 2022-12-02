@@ -1,0 +1,1 @@
+lar[38372]=`<b>ἐπι·μασάομαι-ῶμαι</b> <font color="purple">[μᾱ]</font> manger ensuite <i>ou</i> en outre, ALCIPHR. <i>3, 51</i> ; GEOP. <i>12, 30, 9</i>.`

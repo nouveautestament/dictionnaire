@@ -1,0 +1,1 @@
+lar[65489]=`<b>ου (τὸ)</b> <i>au sg. seul</i>. POSIDIPP. (ATH. <i>154b</i>), <i>d’ord. au pl</i>. τὰ μηρία :<br><b>      1</b> os des cuisses d’une victime, IL. <i>1, 40, 461, etc.</i> ; OD. <i>3, 456, etc.</i> ; HÉS. <i>O. 335</i> ; SOPH. <i>Ant. 1008</i> ; AR. <i>Av. 193, etc.</i><br><b>      2</b> cuisses, BION <i>1, 84</i>.<p><b>Étym</b>. μηρός.`

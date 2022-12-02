@@ -1,0 +1,1 @@
+lar[19080]=`<b>οῦ (ὁ)</b> sorte de coupe, <i>c</i>. μύστρον, AR. <i>fr. 320</i>.`

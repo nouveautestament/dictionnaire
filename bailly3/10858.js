@@ -1,0 +1,1 @@
+lar[10858]=`<b>ἀν·ωρύομαι</b>, pousser des hurlements, ANTH. <i>7, 468</i> ; HLD. <i>10, 16</i>.<p><b>Étym</b>. ἀνά, ὠ.`

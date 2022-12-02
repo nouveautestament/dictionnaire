@@ -1,0 +1,1 @@
+lar[13971]=`<b>ἀ·πρόσοιστος, ος, ον</b>, dont on ne peut supporter le choc, irrésistible, ESCHL. <i>Pers. 91</i>.<p><b>Étym</b>. ἀ, προσοίσω, <i>v</i>. προσφέρω.`

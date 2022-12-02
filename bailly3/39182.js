@@ -1,0 +1,1 @@
+lar[39182]=`<b>εως (ἡ) :<br>      1</b> renversement, torsion, HPC. <i>Art. 794</i>.<br><b>      2</b> retour sur soi-même, conversion, repentir, SYMM. <i>Jer. 3, 22</i>.<p><b>Étym</b>. ἐπιστρέφω.`

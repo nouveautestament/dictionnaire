@@ -1,0 +1,1 @@
+lar[13371]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petit fragment, CIC. <i>Att. 2, 1</i>.<p><b>Étym</b>. ἀπόσπασμα.`

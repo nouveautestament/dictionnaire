@@ -1,0 +1,1 @@
+lar[88318]=`<b>ης, ες</b> <font color="purple">[ᾰᾰῑ]</font> semblable à une rave, TH. <i>H.P. 7, 6, 2</i>.<p><b>Étym</b>. ῥαφανίς, -ωδης.`

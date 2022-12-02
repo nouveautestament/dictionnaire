@@ -1,0 +1,1 @@
+lar[77620]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>c</i>. πεινητικός, PLUT. <i>M. 646</i>.`

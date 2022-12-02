@@ -1,0 +1,1 @@
+lar[2998]=`<b>ίδος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>adj. f</i>. de captif, SOPH. <i>Aj. 71</i>.<br><b>      2</b> <i>subst</i>. ἡ αἰχμ. captive de guerre, SOPH. <i>Aj. 1228</i> ; EUR. <i>Tr. 28</i>.`

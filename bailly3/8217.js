@@ -1,0 +1,1 @@
+lar[8217]=`<b>ἀνεισί·δωρος, ου</b> <font color="purple">[ῐ]</font> <i>adj. f. c</i>. ἀνησιδώρα, ALCIPHR. <i>1, 3</i>.`

@@ -1,0 +1,1 @@
+lar[71736]=`<b>ὁμό·ϋλος, ος, ον</b> <font color="purple">[ῡ]</font> de même bois, <i>p. ext</i>. de même matière, NICOM. <i>Harm. p. 11</i> ; JAMBL. <i>V. Pyth. p. 98</i>.<p><b>Étym</b>. ὁμ. ὕλη.`

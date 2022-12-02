@@ -1,0 +1,1 @@
+lar[103013]=`<b>ὑπο·βάκχειος, ου (ὁ)</b> <i>s.-e</i>. πούς, pied d’une brève et de deux longues (⏑ ‒ ‒) <i>t. de métr</i>. DH. <i>Comp. t. 5, p. 111, 5 ; 117, 4</i>.`

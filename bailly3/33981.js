@@ -1,0 +1,1 @@
+lar[33981]=`<b>ἐν·αποσημαίνω</b>, montrer dans, <i>dat</i>. PLUT. <i>Cim. 2</i>.<br><b><i>Moy.</i></b> laisser comme l’empreinte d’un sceau sur, <i>dat</i>. CLÉM. <i>792</i> ; PHILSTR. <i>836</i>.`

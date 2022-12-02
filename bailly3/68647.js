@@ -1,0 +1,1 @@
+lar[68647]=`<i>att</i>. <b>νῆττα, ης (ἡ)</b> canard, AR. <i>Av. 566, Pax 1004</i> ; COM. (ATH. <i>128d, 395e, etc</i>.).<p>➳ <i>Béot</i>. νᾶσσα, AR. <i>Ach. 875</i>.<p><b>Étym</b>. <i>p.-ê. indo-europ</i>. *h₂enh₂t-, canard, <i>cf. sscr</i>. ātí, <i>lat</i>. anas ; <i>p.-ê. rapprochement avec</i> νήχω.`

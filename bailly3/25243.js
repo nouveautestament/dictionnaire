@@ -1,0 +1,1 @@
+lar[25243]=`<b>*δια·πεσσεύω</b>, <i>seul. att</i>. <b>διαπεττεύω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. διεπέττευε)</font> risquer sur un coup de dés, <i>acc</i>. LUC. <i>Am. 16</i>.`

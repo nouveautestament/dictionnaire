@@ -1,0 +1,1 @@
+lar[26541]=`<b>δικη·φόρος, ου (ὁ)</b> <font color="purple">[ῐ]</font> vengeur (<i>litt</i>. qui apporte la justice <i>ou</i> la vengeance) ESCHL. <i>Ag. 525, 1577 ; Ch. 120</i>.<p><b>Étym</b>. δίκη, φέρω.`

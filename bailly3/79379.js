@@ -1,0 +1,1 @@
+lar[79379]=`<b>ᾶς (ἡ)</b> colombe, pigeon, HDT. <i>1, 138</i> ; ARSTT. <i>H.A. 6, 4, 1, etc</i>.<p><b>Étym</b>. <i>cf</i>. περιστερός.`

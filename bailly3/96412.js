@@ -1,0 +1,1 @@
+lar[96412]=`<b>συν·υποβάλλω :<br>      1</b> soumettre en même temps, PLUT. <i>t. 5, 2, p. 694 a Wyttenbach</i>.<br><b>      2</b> contribuer à, <i>avec</i> πρός <i>et l’acc</i>. CLÉM. <i>924</i>.`

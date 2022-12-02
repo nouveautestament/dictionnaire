@@ -1,0 +1,1 @@
+lar[31593]=`<b>ἐκ·λήγω</b> <font color="darkgreen">(<i>f</i>. -λήξω)</font> cesser, renoncer à, <i>gén</i>. SOPH. <i>El. 1312</i>.`

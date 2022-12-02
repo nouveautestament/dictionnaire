@@ -1,0 +1,1 @@
+lar[68597]=`<b>ος, ον</b>, de Nérée : Νήρεια τέκνα, EUPHRON (ATH. <i>343b</i>) les enfants de Nérée, <i>càd</i>. les poissons.<p><b>Étym</b>. Νηρεύς.`

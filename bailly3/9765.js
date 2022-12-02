@@ -1,0 +1,1 @@
+lar[9765]=`<b>εως (ἡ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> opposition, résistance, PLUT. <i>Cæs. 38, etc.</i><br><b>      2</b> seconde base d’une colonne, VITR. <i>10, 15</i>.<p><b>Étym</b>. ἀντιβαίνω.`

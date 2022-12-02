@@ -1,0 +1,1 @@
+lar[460]=`<b>ας (ἡ)</b> l’élève (<i>càd</i>. l’élevage) des troupeaux, PLAT. <i>Pol. 261e</i>.`

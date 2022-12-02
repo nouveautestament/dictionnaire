@@ -1,0 +1,1 @@
+lar[52148]=`<b>κατα·βιβρώσκω</b> <font color="darkgreen">(<i>f</i>. καταβρώσομαι, <i>ao.1</i> κατέβρωσα, <i>ao.2</i> κατέβρων, <i>pf</i>. καταβέβρωκα)</font> avaler, dévorer, engloutir, HH. <i>Ap. 127</i> ; HDT. <i>4, 199 ; fig</i>. dévorer (son bien, sa fortune, <i>etc</i>.) ATT. ; <i>au pass</i>. PALÆPH. <i>3, 3</i>.`

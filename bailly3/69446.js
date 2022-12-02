@@ -1,0 +1,1 @@
+lar[69446]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> réception d’un étranger, THC. <i>6, 46</i>.<p><b>Étym</b>. ξενίζω.`

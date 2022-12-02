@@ -1,0 +1,1 @@
+lar[36167]=`<b>ας (ἡ)</b> <font color="purple">[ῐσ]</font> prise d’armes, XÉN. <i>An. 1, 7, 10 ; particul. pour une revue,</i> DS. <i>19, 3</i>.<p><b>Étym</b>. ἐξοπλίζω.`

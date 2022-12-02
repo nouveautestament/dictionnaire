@@ -1,0 +1,1 @@
+lar[46869]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> Thérapeia, <i>n. de navire,</i> PLUT. <i>Stoïc. rep. 1</i>.<p><b>Étym</b>. <i>v</i>. θεραπεία.`

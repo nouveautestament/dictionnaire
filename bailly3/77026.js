@@ -1,0 +1,1 @@
+lar[77026]=`<b>παρ·οικίζω</b>, faire habiter auprès, établir auprès, <i>rég. ind. au dat</i>. HDT. <i>4, 180 ; d’où</i> παρῳκισμένος, η, ον, LUC. <i>Am. 6,</i> établi auprès de, voisin de, <i>dat.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. CALL. <i>Ep. 25</i>.`

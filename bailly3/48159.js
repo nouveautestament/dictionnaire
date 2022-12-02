@@ -1,0 +1,1 @@
+lar[48159]=`<i>gén</i>. <b>θωός</b>, <i>gén. pl</i>. θώων (ὁ) animal féroce, <i>p.-ê</i>. le chacal (<i>Canis aureus</i> L. ; <i>sel. d’autres, viverna zibetha</i>) IL. <i>11, 474</i> ; HDT. <i>4, 192</i> ; ARSTT. <i>H.A. 9, 1, 28 ; 9, 44, 9</i> ; THCR. <i>Idyl. 1, 71, etc</i>.`

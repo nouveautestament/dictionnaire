@@ -1,0 +1,1 @@
+lar[882]=`<b>έως (ὁ) :<br>      1</b> chasseur, pêcheur, <i>ép. de Pan, Apollon, Poséidon, etc</i>. PD. <i>P. 9, 67</i> ; EUR. <i>Bacch. 1192</i> ; LUC. <i>Pisc. 47, etc.</i><br><b>      2</b> sorte d’oiseau, EL. <i>N.A. 8, 24</i> |.<p>➳ <i>Voc</i>. ἀγρεῦ, ANTH. <i>10, 22</i>.<p><b>Étym</b>. ἄγρα.`

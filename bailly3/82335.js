@@ -1,0 +1,1 @@
+lar[82335]=`<b>πολύ·ρριζος, ος, ον</b>, aux nombreuses racines, TH. <i>H.P. 9, 10, 2</i> ; ANTH. <i>App. 6</i>.<p><b>Étym</b>. π. ῥίζα.`

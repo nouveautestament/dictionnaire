@@ -1,0 +1,1 @@
+lar[73507]=`<b>α, ον</b> <font color="purple">[ᾰτ]</font> <i>c</i>. οὐθατόεις ANTH. <i>9, 430</i>.`

@@ -1,0 +1,1 @@
+lar[33148]=`<b>ἐμ·βρίθω</b> <font color="purple">[ῑ]</font> fondre avec violence sur, ANTH. <i>7, 532</i>.<p><b>Étym</b>. ἐν, βρ.`

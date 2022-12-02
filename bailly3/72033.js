@@ -1,0 +1,1 @@
+lar[72033]=`<b>ὀνυχο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à un ongle, DIOSC. <i>1, 77</i>.<p><b>Étym</b>. ὄνυξ, εἶδος.`

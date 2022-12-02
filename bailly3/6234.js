@@ -1,0 +1,1 @@
+lar[6234]=`<b>ἀμφί·λινος, ος, ον</b> <font color="purple">[λῐ]</font> entouré de lin <i>ou</i> de fil, SOPH. <i>fr. 43</i>.<p><b>Étym</b>. ἀ. λίνον.`

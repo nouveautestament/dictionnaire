@@ -1,0 +1,1 @@
+lar[100312]=`<b>ας (ἡ)</b> pêche au trident, PLAT. <i>Soph. 220e</i>.<p><b>Étym</b>. τριόδους.`

@@ -1,0 +1,1 @@
+lar[41166]=`<i>adv</i>., en visant de manière à toucher : τοῦ σκοποῦ, HLD. <i>7, 5,</i> le but ; <i>d’où abs</i>. avec succès, POL. <i>Tetr. p. 9, 10 ; p. suite,</i> convenablement, BAS. <i>3, 420, 489 Migne</i>.<p><b>Étym</b>. στοχάζομαι.`

@@ -1,0 +1,1 @@
+lar[100273]=`<b>τρι·λαμπής, ής, ές</b> <font color="purple">[ῐ]</font> qui brille d’un triple éclat, NAZ.<p><b>Étym</b>. τρεῖς, λάμπω.`

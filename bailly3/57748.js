@@ -1,0 +1,1 @@
+lar[57748]=`<b>κρεο·βόρος, ος, ον</b>, qui mange de la chair crue, qui vit de chair crue, ESCHL. <i>Suppl. 287 conj</i>.<p><b>Étym</b>. κρέας, βιβρώσκω.`

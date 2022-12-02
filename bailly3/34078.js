@@ -1,0 +1,1 @@
+lar[34078]=`<b>ἐν·αυχέω-ῶ</b>, se glorifier de, <i>dat</i>. PHIL. <i>1, 422</i>.`

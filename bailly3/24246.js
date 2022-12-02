@@ -1,0 +1,1 @@
+lar[24246]=`<b>δημο·κηδής, οῦ (ὁ)</b> qui soigne les intérêts du peuple, STR. <i>652</i> ; DH. <i>5, 19</i> ; PLUT. <i>Popl. 10</i>.<p><b>Étym</b>. δ. κήδομαι.`

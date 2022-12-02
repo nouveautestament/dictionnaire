@@ -1,0 +1,1 @@
+lar[87163]=`<b>πρώτ·αρχος, ος, ον :<br>      1</b> qui marque le commencement d’une chose, ESCHL. <i>Ag. 1192</i>.<br><b>      2</b> chef, gouverneur, SPT. <i>2Macc. 10, 11</i>.<p><b>Étym</b>. πρ. ἄρχω.`

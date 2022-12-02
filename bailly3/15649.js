@@ -1,0 +1,1 @@
+lar[15649]=`<b>ἀρχι·προφήτης, ου (ὁ)</b> chef des prophètes, PHIL. <i>1, 594, etc.</i> ; CLÉM. <i>303</i>.`

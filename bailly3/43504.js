@@ -1,0 +1,1 @@
+lar[43504]=`<b>εὐ·συκοφάντητος, ος, ον</b> <font color="purple">[ῡκ]</font> qu’on peut facilement chicaner <i>ou</i> calomnier, PLUT. <i>M. 707f</i>.<p><b>Étym</b>. εὖ, συκοφαντέω.`

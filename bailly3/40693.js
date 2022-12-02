@@ -1,0 +1,1 @@
+lar[40693]=`<i>mot imaginé par</i> PLAT. <i>Crat. 419, pour expliquer l’étymol. de</i> τερπνόν, <i>v</i>. τερπνός.`

@@ -1,0 +1,1 @@
+lar[34854]=`<b>ἐν·όρκιος, ος, ον</b>, confirmé par serment, PD. <i>O. 2, 166</i> ; τὸ ἐνόρκιον, SPT. <i>Num. 5, 21,</i> serment pour soutenir une affirmation.<p><b>Étym</b>. ἐν, ὅρκος.`

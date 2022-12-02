@@ -1,0 +1,1 @@
+lar[25584]=`<b>      1</b> s’employer avec zèle, POL. <i>4, 33, 9</i>.<br><b>      2</b> exciter à, <i>avec la prop. inf</i>. POL. <i>Fr. gr. 36</i>.<br><b><i>Moy.</i></b> s’employer avec zèle, IS. (HARP.).`

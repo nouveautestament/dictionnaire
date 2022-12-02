@@ -1,0 +1,1 @@
+lar[42191]=`<b>εὐ·θήμων, ων, ον :<br>      1</b> <i>pass</i>. bien arrangé, harmonieux, A.RH. <i>1, 569</i>.<br><b>      2</b> <i>act</i>. qui met tout bien en ordre, ESCHL. <i>Ch. 84 ; p. suite,</i> qui aime l’ordre, soigneux, ARSTT. <i>H.A. 9, 17</i>.<p><b>Étym</b>. εὖ, τίθημι.`

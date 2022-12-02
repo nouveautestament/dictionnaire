@@ -1,0 +1,1 @@
+lar[4665]=`<b>Ἀλκίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Alkis, <i>f</i>. ANTH. <i>7, 189</i>.<p><b>Étym</b>. ἀλκή.`

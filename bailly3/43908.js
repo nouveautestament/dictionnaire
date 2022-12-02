@@ -1,0 +1,1 @@
+lar[43908]=`<b>ἐφ·άπαξ</b>, <i>adv.</i> :<br><b>      1</b> une fois pour toutes, EUP. <i>175 Kock ; 96, 17 Bekker, Anecdota græca, vol. 1</i> ; NT. <i>Rom. 6, 10 ; Hebr. 7, 27</i>.<br><b>      2</b> pour une fois, NT. <i>1Cor. 15, 6</i>.<p><b>Étym</b>. ἐπί, ἅπαξ.`

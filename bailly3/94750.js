@@ -1,0 +1,1 @@
+lar[94750]=`<b>συν·άναρχος, ος, ον</b> <font color="purple">[ᾰν]</font> de même sans commencement, coéternel, ANTH. <i>1, 24</i>.`

@@ -1,0 +1,1 @@
+lar[11732]=`<b>ἀ·περάτωτος, ος, ον</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> sans bornes, PLUT. <i>M. 424d.</i><br><b>      2</b> sans terme, sans fin, PLUT. <i>M. 1056c</i>.<p><b>Étym</b>. ἀ, περατόω.`

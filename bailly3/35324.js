@@ -1,0 +1,1 @@
+lar[35324]=`<i>adv.</i> :<br><b>      1</b> d’une manière choisie, remarquablement, ARR. <i>Epict. 1, 6, 12</i>.<br><b>      2</b> spécialement, PLUT. <i>M. 667f</i>.<p><b>Étym</b>. ἐξαίρετος.`

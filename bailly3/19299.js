@@ -1,0 +1,1 @@
+lar[19299]=`(<i>genre inconnu</i>) sorte de canard, AR. <i>Av. 885</i> ; ARSTT. <i>H.A. 8, 3</i>.<p>➳ ἡ β. SCH.-AR. <i>l. c. dout</i>.`

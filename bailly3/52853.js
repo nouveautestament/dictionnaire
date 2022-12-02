@@ -1,0 +1,1 @@
+lar[52853]=`<b>κατα·μνηστεύομαι</b> <i>(seul. prés.) c</i>. μνηστεύομαι, rechercher, briguer, EUM. <i>p. 201</i>.`

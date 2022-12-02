@@ -1,0 +1,1 @@
+lar[30463]=`<font color="purple">[ῐῐ]</font> <i>adv</i>., purement, <i>càd.</i> :<br><b>      1</b> sans mélange, PLAT. <i>Menex. 245d.</i><br><b>      2</b> simplement, absolument, PLAT. <i>Rsp. 477a ;</i> ARSTT. <i>Phys. 1, 4, 5</i>.<p>➳ <i>Ion</i>. -ινέως, HPC. <i>1121e</i>.<p><b>Étym</b>. εἰλικρινής.`

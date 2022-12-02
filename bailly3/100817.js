@@ -1,0 +1,1 @@
+lar[100817]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. τρύξ, GEOP. <i>7, 12, 7 ; 7, 20, 43</i> ; ARÉT. <i>Cur. m. acut. 2, 3</i>.<p>➳ <i>Ion</i>. τρυγίη, ARÉT. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[28318]=`<b>δυσ·διόρθωτος, ος, ον</b>, difficile à corriger, BAS. <i>2, 1015</i> ; CHRYS. <i>1, 657 ; etc</i>.<p><b>Étym</b>. δ. διορθόω.`

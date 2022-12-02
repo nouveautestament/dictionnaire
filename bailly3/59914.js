@@ -1,0 +1,1 @@
+lar[59914]=`<b>ης (ἡ)</b> injure, outrage, mépris, HDT. <i>6, 67</i> ; ÆSCHR. (ATH. <i>335e</i>).`

@@ -1,0 +1,1 @@
+lar[17651]=`<b>αὐτο·ποσόν, οῦ (τὸ)</b> la quantité en soi, PLOT. <i>Enn. 2, 690</i>.`

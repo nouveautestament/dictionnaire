@@ -1,0 +1,1 @@
+lar[23104]=`<font color="purple">[ᾰᾰ]</font> (<i>seul. prés. opt. 3 sg</i>. -ίζοι) dompter, soumettre, PD. <i>P. 5, 129</i>.<br><b><i>Moy.</i></b> (<i>seul. part. prés. dor</i>. -ιζομένα) EUR. <i>Hipp. 231</i>.<p><b>Étym</b>. δάμαλις.`

@@ -1,0 +1,1 @@
+lar[86996]=`<b>προ·χαίρω :<br>      1</b> se réjouir d’avance, PLAT. <i>Phil. 39d ;</i> ORPH. <i>H. 85, 9</i>.<br><b>      2</b> <i>à l’impér. 3 sg</i>. προχαιρέτω, ESCHL. <i>Ag. 251,</i> qu’il soit heureux auparavant, <i>càd</i>. à quoi bon s’en occuper d’avance ?`

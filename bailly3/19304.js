@@ -1,0 +1,1 @@
+lar[19304]=`<b>(ὁ)</b> Bassakès, <i>Perse,</i> HDT. <i>7, 75</i>.`

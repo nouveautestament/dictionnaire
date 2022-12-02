@@ -1,0 +1,1 @@
+lar[32211]=`<i>adv</i>., hors de, <i>gén. avec idée de mouvement,</i> OD. <i>14, 277</i>.<p><b>Étym</b>. ἐκτός, -σε.`

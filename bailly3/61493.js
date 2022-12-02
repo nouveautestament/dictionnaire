@@ -1,0 +1,1 @@
+lar[61493]=`<i>adv.</i> :<br><b>      1</b> par la parole, JAMBL. (STOB. <i>Fl. 3, 147</i>).<br><b>      2</b> logiquement, selon les règles du raisonnement, ARSTT. <i>Metaph. 6, 4, 13, etc</i>.<p>•<i> Cp</i>. -ώτερον, ARSTT. <i>Cæl. 1, 7, 15</i> ; PORPH. <i>Isag. 1</i>.`

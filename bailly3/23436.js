@@ -1,0 +1,1 @@
+lar[23436]=`<i>adv</i>., d’une façon vulgaire <i>ou</i> commune, PROCL. <i>Plat. Parm. p. 880 Stallb</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> δημεύω.`

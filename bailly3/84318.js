@@ -1,0 +1,1 @@
+lar[84318]=`<b>ας (ἡ)</b> plaidoyer pour autrui, défense de qqn, LUC. <i>Pisc. 22</i>.<p><b>Étym</b>. προήγορος.`

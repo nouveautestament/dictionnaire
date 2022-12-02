@@ -1,0 +1,1 @@
+lar[26826]=`<b>δί·οπος, ος, ον</b>, percé de deux trous (flûte) ATH. <i>176f ; cf</i>. διόπαι.<p><b>Étym</b>. δίς, ὀπή.`

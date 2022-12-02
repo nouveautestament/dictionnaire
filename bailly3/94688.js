@@ -1,0 +1,1 @@
+lar[94688]=`<b>συν·αναβόσκομαι</b>, croître ensemble, PLUT. <i>M. 409a</i>.`

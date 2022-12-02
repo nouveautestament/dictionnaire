@@ -1,0 +1,1 @@
+lar[19309]=`<b>ου (τὸ)</b> <font color="purple">[σᾰ]</font> petit renard de Libye, HDT. <i>4, 192</i>.<p><b>Étym</b>. βασσάρα.`

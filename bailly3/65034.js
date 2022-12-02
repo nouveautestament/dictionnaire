@@ -1,0 +1,1 @@
+lar[65034]=`<b>μετα·φύομαι</b> <font color="darkgreen">(<i>ao.2</i> μετέφυν, <i>pf</i>. μεταπέφυκα) :</font><br><b>      1</b> naître <i>ou</i> croître ensuite, HPC. <i>251, 54</i>.<br><b>      2</b> devenir par un changement, EMPÉD. <i>319 Karsten</i>.`

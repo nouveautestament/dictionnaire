@@ -1,0 +1,1 @@
+lar[13224]=`<b>ἀπο·ρρέμβομαι</b> (<i>seul. prés</i>.) se laisser étourdir, être ahuri, M. ANT. <i>3, 4 ; 4, 22</i>.`

@@ -1,0 +1,1 @@
+lar[18296]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> anchois <i>ou</i> sardine, <i>poisson,</i> AR. (ATH. <i>96c</i>) ; COM. (ATH. <i>284f, 285e</i>) ; ARSTT. <i>H.A. 6, 15 ; etc</i>.<p>➳ <i>Gén. pl</i>. ἀφύων (non ἀφυῶν) AR. <i>Eq. 666 ; Ach. 640</i> ; LUC. <i>Pisc. 48</i> ; ARC. <i>135, 3</i> ; CHŒROB. <i>2, 17, 5, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀφύα.`

@@ -1,0 +1,1 @@
+lar[106464]=`<b>ου</b>, <i>adj. m</i>. habitant <i>ou</i> originaire du dème Phlyées, HIPPON. <i>fr. 32</i>.`

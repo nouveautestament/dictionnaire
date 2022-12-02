@@ -1,0 +1,1 @@
+lar[79679]=`<b>περι·χρήματος, ος, ον</b> <font color="purple">[ᾰ]</font> très riche, OCELL. <i>4, 7</i>.<p><b>Étym</b>. π. χρῆμα.`

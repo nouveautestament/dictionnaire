@@ -1,0 +1,1 @@
+lar[92083]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> échauffé, brûlé peu à peu, ESCHL. <i>Pr. 22</i>.<p><b>Étym</b>. <i>vb. de</i> σταθεύω.`

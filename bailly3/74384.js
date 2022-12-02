@@ -1,0 +1,1 @@
+lar[74384]=`<b>ος, ον</b>, propre à guérir, salutaire, ESCHL. <i>Suppl. 1067</i> ; SOPH. <i>Ph. 1345</i> ; AR. <i>Ach. 1223, etc. ; avec le gén</i>. ANTH. <i>9, 420 ; subst</i>. ὁ παιώνιος, SOPH. <i>Tr. 1208,</i> médecin ; ἡ παιωνία, PAUS. <i>1, 2, 5 ; 34, 3,</i> la secourable (Athèna).<p>➳ <i>Fém</i>. -ία, SOPH. <i>Ph. 1345</i>.<p><b>Étym</b>. Παιών.`

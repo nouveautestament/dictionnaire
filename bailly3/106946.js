@@ -1,0 +1,1 @@
+lar[106946]=`<b>ή, όν</b>, propre à veiller sur, à garder, JAMBL. <i>Myst. 3, 10, etc</i>.<p><b>Étym</b>. φρουρέω.`

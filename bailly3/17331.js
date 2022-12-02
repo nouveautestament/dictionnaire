@@ -1,0 +1,1 @@
+lar[17331]=`<b>αὐταρκέω-ῶ</b> (<i>seul. prés. et ao</i>.) se suffire à soi-même, subsister par soi-même, TH. <i>H.P. 4, 13, 5 ; 8, 6, 1</i>.<p>➳ <i>Ao. sans augm. 3 sg</i>. αὐτάρκησεν, SPT. <i>Deut. 32, 10 ; qqf. p. erreur dans les mss. p</i>. ἀνταρκέω, THC. <i>7, 15</i> ; ISOCR. <i>132c</i>.<p><b>Étym</b>. αὐτάρκης.`

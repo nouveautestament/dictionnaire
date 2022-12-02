@@ -1,0 +1,1 @@
+lar[93126]=`<b>ος, ον</b>, <i>c</i>. στυφελός, ESCHL. <i>Pers. 303, Pr. 748</i> ; SOPH. <i>Ant. 250</i> ; EUR. <i>Bacch. 1137</i> ; LYC. <i>737</i>.`

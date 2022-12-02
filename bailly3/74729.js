@@ -1,0 +1,1 @@
+lar[74729]=`<b>Παμμώνια ὄρη (τὰ)</b> les mts Pammônies, <i>près de Mégare,</i> NIC. <i>Th. 214</i>.`

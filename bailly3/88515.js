@@ -1,0 +1,1 @@
+lar[88515]=`<b>α, ον</b> <font color="purple">[ῑᾰ]</font> glacial, EMPÉD. <i>124 Mullach</i>.<p><b>Étym</b>. ῥῖγος.`

@@ -1,0 +1,1 @@
+lar[25487]=`<b>εως (ἡ) :<br>      1</b> action de lever : ἱστίων, DL. <i>3, 40,</i> action de hisser les voiles ; ἐκ διάρσεως μάχεσθαι, POL. <i>2, 33, 5,</i> combattre avec le tranchant de l’épée, en frappant de taille.<br><b>      2</b> <i>fig</i>. élévation (du style) LGN <i>8, 1</i>.<p><b>Étym</b>. διαίρω.`

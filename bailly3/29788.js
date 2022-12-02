@@ -1,0 +1,1 @@
+lar[29788]=`<b>ἐγκυκλέω-ῶ</b>, faire tourner dans, <i>d’où au moy</i>. se mouvoir en tournant dans, HPC. <i>de Arte p. 6, 37 ; fig</i>. être pris comme dans un engrenage, AR. <i>Vesp. 699</i>.<p><b>Étym</b>. ἔγκυκλος.`

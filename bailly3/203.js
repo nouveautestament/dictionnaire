@@ -1,0 +1,1 @@
+lar[203]=`<b>ας (ἡ)</b> absence de pluie, sécheresse, JOS. <i>A.J. 8, 13, 2</i> ; SIB. <i>3, 540</i> ; SPT. <i>Sir. 32, 26, etc</i>.<p><b>Étym</b>. ἄβροχος.`

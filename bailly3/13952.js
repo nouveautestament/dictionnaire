@@ -1,0 +1,1 @@
+lar[13952]=`<b>ἀ·πρόσθετος, ος, ον</b>, non accru par addition, THEOL. <i>30</i>.<p><b>Étym</b>. ἀ, προστίθημι.`

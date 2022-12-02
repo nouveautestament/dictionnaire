@@ -1,0 +1,1 @@
+lar[69202]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. νυμφαῖος, PAUS. <i>1, 44, 3</i>.`

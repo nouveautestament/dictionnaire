@@ -1,0 +1,1 @@
+lar[23776]=`<b>οῦ (ὁ)</b> action d’amorcer avec un appât, ARSTT. <i>H.A. 4, 8, 30</i> ; DYSC. <i>311a</i>.<p><b>Étym</b>. δελεάζω.`

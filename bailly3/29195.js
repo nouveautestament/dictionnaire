@@ -1,0 +1,1 @@
+lar[29195]=`<b>δωρο·φόρος, ος, ον</b>, qui apporte des présents, PD. <i>P. 5, 116 ; particul</i>. tributaire, EUPH. <i>fr. 73</i>.<p><b>Étym</b>. δῶρον, φέρω.`

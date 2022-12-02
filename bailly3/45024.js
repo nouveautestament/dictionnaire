@@ -1,0 +1,1 @@
+lar[45024]=`<b>ἡδυ·πότις, ιδος (ἡ)</b> <font color="purple">[ῠ]</font> sorte de vase à boire, EPIGEN. (ATH. <i>469).</i><p><b>Étym</b>. <i>fém. de</i> ἡδυπότης.`

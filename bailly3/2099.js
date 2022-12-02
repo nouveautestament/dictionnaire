@@ -1,0 +1,1 @@
+lar[2099]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> en troupe, BAS. <i>1, 172 Migne</i>.`

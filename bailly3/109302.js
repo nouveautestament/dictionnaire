@@ -1,0 +1,1 @@
+lar[109302]=`<b>χρυσο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῡῐ]</font><br><b>      1</b> à la tunique d’or, PD. <i>fr. 207</i>.<br><b>      2</b> à l’écorce d’or <i>ou</i> d’un jaune d’or, ANTH. <i>6, 102</i>.<p><b>Étym</b>. χρ. χιτών.`

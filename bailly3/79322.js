@@ -1,0 +1,1 @@
+lar[79322]=`<b>*περισσο·δάκτυλος</b>, <i>seul. att</i>. <b>περιττο·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> dont les doigts sont d’inégale longueur, GEOP. <i>14, 7, 9</i>.`

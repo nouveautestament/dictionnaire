@@ -1,0 +1,1 @@
+lar[54389]=`<b>όεσσα, όεν</b> <font color="purple">[ᾱ]</font> qui ressemble à de l’orge grillée, NIC. <i>Th. 40</i>.<p><b>Étym</b>. κάχρυς.`

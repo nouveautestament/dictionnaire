@@ -1,0 +1,1 @@
+lar[108504]=`<b>χιονό·βολος, ος, ον</b>, couvert de neige, <i>litt</i>. où la neige est tombée, STR. <i>409</i>.<p><b>Étym</b>. χ. βάλλω.`

@@ -1,0 +1,1 @@
+lar[22657]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> énigmatique, LUC. <i>J. tr. 28</i> ; ATH. <i>456c</i>.<p><b>Étym</b>. γρῖφος, -ωδης.`

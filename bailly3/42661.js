@@ -1,0 +1,1 @@
+lar[42661]=`<i>adv</i>., harmonieusement, PHIL. <i>1, 410</i> ; MACH. (ATH. <i>577d</i>).<p>•<i> Sup</i>. εὐμελέστατα, MOSCHION <i>Mul. pass. 12, p. 24</i>.<p><b>Étym</b>. εὐμελής¹.`

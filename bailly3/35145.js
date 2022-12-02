@@ -1,0 +1,1 @@
+lar[35145]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> objet de délices <i>ou</i> d’orgueil, SPT. <i>Eccl. 2, 8</i> ; PHIL. <i>1, 690</i>.<p><b>Étym</b>. ἐντρυφάω.`

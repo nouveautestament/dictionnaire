@@ -1,0 +1,1 @@
+lar[14576]=`<b>ἀρί·δακρυς, υς, υ</b> <font color="purple">[ᾰῐδαῠ]</font><br><b>      1</b> accompagné de larmes abondantes, ESCHL. <i>Pers. 947</i>.<br><b>      2</b> qui pleure abondamment, ARSTT. <i>H.A. 9, 1, 1 ; Probl. 30, 1, 7</i>.<p><b>Étym</b>. ἀρι-, δάκρυ.`

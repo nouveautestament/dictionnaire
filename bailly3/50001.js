@@ -1,0 +1,1 @@
+lar[50001]=`<b>(ὁ)</b> <font color="purple">[ῑῡᾰ]</font> <i>dor. p</i>. *ἰυκτής, qui fait un bruit aigu, <i>particul</i>. siffleur <i>ou</i> chanteur, THCR. <i>Idyl. 8, 30</i>.<p><b>Étym</b>. ἰύζω.`

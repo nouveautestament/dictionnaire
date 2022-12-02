@@ -1,0 +1,1 @@
+lar[107575]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> légèreté d’esprit, OD. <i>16, 310 au pl</i>.`

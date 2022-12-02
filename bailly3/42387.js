@@ -1,0 +1,1 @@
+lar[42387]=`<b>εὐ·κατάλυτος, ος, ον</b> <font color="purple">[ῠ]</font> facile à dissoudre, à détruire, XÉN. <i>Hell. 3, 5, 14 au cp</i>. -ώτερος.<p><b>Étym</b>. εὖ, καταλύω.`

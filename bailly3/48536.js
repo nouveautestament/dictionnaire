@@ -1,0 +1,1 @@
+lar[48536]=`<b>ἱερακό·μορφος, ος, ον</b> <font color="purple">[ᾱ]</font> de la forme d’un épervier, SEXT. <i>p. 155</i> ; PHIL. BYBL. (EUS. <i>P.E. 41d</i>).<p><b>Étym</b>. ἱ. μορφή.`

@@ -1,0 +1,1 @@
+lar[5031]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠῐδ]</font> petite chaîne, PHIL. <i>2, 152</i>.<p><b>Étym</b>. ἅλυσις.`

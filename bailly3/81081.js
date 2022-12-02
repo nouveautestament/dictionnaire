@@ -1,0 +1,1 @@
+lar[81081]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. flottante, TH. <i>H.P. 4, 10, 2</i>.<p><b>Étym</b>. πλέω.`

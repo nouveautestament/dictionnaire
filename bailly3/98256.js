@@ -1,0 +1,1 @@
+lar[98256]=`<b>τεμαχο·πώλης, ου (ὁ)</b> (ᾰ) marchand de salaisons, ANTIPH. (ATH. <i>120a</i>).`

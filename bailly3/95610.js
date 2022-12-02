@@ -1,0 +1,1 @@
+lar[95610]=`<b>συν·επιγράφω</b> <font color="purple">[ᾰ]</font> attribuer à, PLUT. <i>M. 816d.</i><br><b><i>Moy.</i></b> souscrire à, s’associer à, PHIL. <i>1, 464</i> ; CLÉM. <i>840, etc</i>.`

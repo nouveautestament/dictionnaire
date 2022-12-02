@@ -1,0 +1,1 @@
+lar[105789]=`<b>φιλο·θήβαιος, ος, ον</b> <font color="purple">[ῐ]</font> ami des Thébains, THÉM. <i>114, 15 ; titre d’une comédie d’Antiphane,</i> ATH. <i>169c, 225f, 622f</i>.`

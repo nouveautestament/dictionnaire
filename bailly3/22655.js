@@ -1,0 +1,1 @@
+lar[22655]=`<font color="purple">[ῑ]</font> (<i>seul. prés</i>.) parler par énigmes, DIPH. (ATH. <i>451b</i>).<p><b>Étym</b>. γρῖφος.`

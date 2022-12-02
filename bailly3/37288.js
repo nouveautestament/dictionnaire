@@ -1,0 +1,1 @@
+lar[37288]=`<b>ή, όν</b>, porté à suivre, qui suit, MÉTOP. (STOB. <i>Fl. 1, 64, vol. 1, p. 21, l. 9).</i><p><b>Étym</b>. ἕπομαι.`

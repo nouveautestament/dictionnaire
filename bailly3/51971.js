@@ -1,0 +1,1 @@
+lar[51971]=`<b>ου (ὁ)</b> vase en forme de coquille de noix, SPT. <i>Ex. 25, 33, 34 ; 37, 20, 21</i>.<p><b>Étym</b>. κάρυον.`

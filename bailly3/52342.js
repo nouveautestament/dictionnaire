@@ -1,0 +1,1 @@
+lar[52342]=`<b>εως (ἡ) :<br>      1</b> asservissement, THC. <i>3, 10 ; 7, 66</i>.<br><b>      2</b> servitude, PLAT. <i>Leg. 776d</i>.<p><b>Étym</b>. καταδουλόω.`

@@ -1,0 +1,1 @@
+lar[109756]=`<font color="purple">[ῠ]</font> <i>adv</i>., sous un faux nom, ESCHL. <i>Pr. 85</i>.`

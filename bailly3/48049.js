@@ -1,0 +1,1 @@
+lar[48049]=`<b>θυρσο·ειδής, ής, ές</b>, en forme de thyrse, DIOSC. <i>3, 19</i>.<p><b>Étym</b>. θ. εἶδος.`

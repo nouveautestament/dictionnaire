@@ -1,0 +1,1 @@
+lar[94447]=`déplorer son sort, Ps.-PLUT. <i>V. Hom. 14</i>.<p><b>Étym</b>. συμφορά.`

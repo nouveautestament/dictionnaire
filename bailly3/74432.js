@@ -1,0 +1,1 @@
+lar[74432]=`<b>παλαιό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, dont l’esprit n’est pas novice, expert, expérimenté, ESCHL. <i>Eum. 838, Suppl. 593</i>.<p><b>Étym</b>. π. φρήν.`

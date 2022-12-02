@@ -1,0 +1,1 @@
+lar[12889]=`<b>ἀπο·μηνίω</b>, marquer son ressentiment, garder rancune : τινί, IL. <i>2, 772, etc</i>. à qqn.`

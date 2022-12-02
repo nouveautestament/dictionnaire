@@ -1,0 +1,1 @@
+lar[51682]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῠ]</font> débauché, STR. <i>661</i>.<p><b>Étym</b>. καπυρίζω.`

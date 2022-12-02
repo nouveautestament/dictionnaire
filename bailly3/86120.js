@@ -1,0 +1,1 @@
+lar[86120]=`<b>προσ·λυσσάω-ῶ</b>, se jeter avec rage sur, <i>dat</i>. JOS. <i>A.J. 7, 9, 4</i>.`

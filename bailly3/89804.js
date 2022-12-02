@@ -1,0 +1,1 @@
+lar[89804]=`<b>σεμνο·προσωπέω-ῶ</b>, prendre un air grave, ANTH. <i>11, 382</i> ; DC. <i>65, 5</i> ; ἐπί τινι, AR. <i>Nub. 363,</i> à l’adresse de qqn.<p><b>Étym</b>. σεμνός, πρόσωπον.`

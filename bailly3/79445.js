@@ -1,0 +1,1 @@
+lar[79445]=`<b>περι·σφηκόω-ῶ</b>, comprimer tout autour, HPC. <i>Ep. 1277, 42 ; 1278, 47</i> ; DIOSC. <i>5, 26</i>.`

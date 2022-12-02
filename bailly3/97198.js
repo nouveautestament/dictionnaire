@@ -1,0 +1,1 @@
+lar[97198]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠλᾰ]</font> service de la garde d’un prince, DS. <i>16, 93 ; 17, 65</i>.<p><b>Étym</b>. σωματοφύλαξ.`

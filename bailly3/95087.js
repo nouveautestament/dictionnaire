@@ -1,0 +1,1 @@
+lar[95087]=`<b>συν·διαβρέχω</b>, arroser <i>ou</i> imbiber avec, GAL. <i>6, 176 Chart</i>.`

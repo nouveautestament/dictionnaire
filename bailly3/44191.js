@@ -1,0 +1,1 @@
+lar[44191]=`<b>ἐχέ·κολλος, ος, ον</b>, qui colle, gluant, HPC. <i>Art. 799</i> ; TH. <i>H.P. 5, 6, 2</i> ; PLUT. <i>M. 966d ;</i> τὸ ἐχέκολλον, PLUT. <i>M. 735e</i>, glu.<p><b>Étym</b>. ἔχω, κόλλα.`

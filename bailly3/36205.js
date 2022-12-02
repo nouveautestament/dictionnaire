@@ -1,0 +1,1 @@
+lar[36205]=`<b>ἔξ·ορρος, ος, ον</b>, qui n’a plus de petit-lait, TH. <i>H.P. 1, 11, 3</i>.<p><b>Étym</b>. ἐξ, ὀρρός.`

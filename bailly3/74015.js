@@ -1,0 +1,1 @@
+lar[74015]=`<b>ὀψί·νοος, οος, οον</b> <font color="purple">[ῐ]</font> dont la sagesse est tardive, PD. <i>P. 5, 36</i> ; NONN. <i>Jo. 3, 23</i>.<p><b>Étym</b>. ὀψέ, νόος.`

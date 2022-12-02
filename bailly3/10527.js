@@ -1,0 +1,1 @@
+lar[10527]=`<b>ἀντιτυπέω-ῶ</b> <font color="purple">[ῠ]</font> <i>litt</i>. renvoyer un coup <i>ou</i> un choc, <i>d’où</i> résister fortement, HPC. <i>665, 6</i> ; PLAT. <i>Crat. 420d ; avec</i> πρός <i>et l’acc</i>. A. TAT. <i>2, 38 ; avec le dat</i>. ARSTT. <i>Meteor. 3, 1, 4</i>.<p><b>Étym</b>. ἀντίτυπος.`

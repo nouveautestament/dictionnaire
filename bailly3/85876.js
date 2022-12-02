@@ -1,0 +1,1 @@
+lar[85876]=`<b>προσθό·δομος, ος, ον</b>, qui se tient devant la maison, <i>d’où p.-ê</i>. protecteur de la maison, ESCHL. <i>Ch. 321</i>.<p><b>Étym</b>. πρόσθεν, δόμος.`

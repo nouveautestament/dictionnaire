@@ -1,0 +1,1 @@
+lar[7575]=`<b>ἀνά·ρροπος, ος, ον</b>, qui tend à remonter, qui remonte, HPC. <i>Mochl. 860</i> ; GAL. <i>8, 602, 623</i>.<p><b>Étym</b>. ἀναρρέπω.`

@@ -1,0 +1,1 @@
+lar[42087]=`<b>εὔ·ζωστος, ος, ον</b>, qu’il faut garnir <i>ou</i> garni d’une bonne ceinture, HPC. <i>Art. 791 au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. εὖ, ζώννυμι.`

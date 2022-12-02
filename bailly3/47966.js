@@ -1,0 +1,1 @@
+lar[47966]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱ]</font> petit thon, Eriphus (ATH. <i>302e</i>).<p><b>Étym</b>. θύννος.`

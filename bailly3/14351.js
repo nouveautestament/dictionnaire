@@ -1,0 +1,1 @@
+lar[14351]=`<b>ἀργυρό·πεζα, ας</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. aux pieds d’argent, <i>ép. de Thétis,</i> IL. <i>1, 538, etc.</i> ; OD. <i>24, 92</i> ; HH. <i>Ap. 319 ; d’Aphrodite,</i> PD. <i>P. 9, 9 ; d’Artémis,</i> NONN. <i>D. 34, 47</i>.<p><b>Étym</b>. ἄ. πέζα.`

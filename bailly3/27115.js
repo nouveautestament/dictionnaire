@@ -1,0 +1,1 @@
+lar[27115]=`<b>ου (ὁ)</b> Diyllos, <i>h</i>. PLUT. <i>Herod. mal. 26 ; au plur</i>. Δίυλλοι, PLUT. <i>Glor. Ath. 1 (ms</i>. Δίυλοι) des hommes comme Diyllos.`

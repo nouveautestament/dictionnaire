@@ -1,0 +1,1 @@
+lar[64796]=`<b>ή, όν</b>, qu’on peut partager, NAZ. <i>2, 441 Migne</i>.<p><b>Étym</b>. <i>vb. de</i> μεταλαμβάνω.`

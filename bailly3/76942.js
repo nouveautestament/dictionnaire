@@ -1,0 +1,1 @@
+lar[76942]=`<b>παρ·ίκω</b> <font color="purple">[ῑ]</font> <i>c</i>. παρήκω, PD. <i>P. 6, 43</i>.<p><b>Étym</b>. π. ἵκω.`

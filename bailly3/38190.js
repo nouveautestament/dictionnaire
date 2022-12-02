@@ -1,0 +1,1 @@
+lar[38190]=`<b>εως (ἡ) :<br>      1</b> action de cacher, dissimulation, PLUT. <i>Nic. 23</i> ; ARÉT. <i>Cur. m. diut. 1, 5</i>.<br><b>      2</b> signification cachée, CLÉM. <i>4, 777, 937 ; 2, 68 Migne</i>.<p><b>Étym</b>. ἐπικρύπτω.`

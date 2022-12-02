@@ -1,0 +1,1 @@
+lar[38546]=`<b>ἐπί·νοσος, ος, ον</b>, malade, maladif, ARSTT. <i>Nic. 3, 4, 4</i> ; TH. <i>Col. 48</i> ; DS. <i>2, 48</i>.`

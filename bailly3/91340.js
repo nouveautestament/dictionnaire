@@ -1,0 +1,1 @@
+lar[91340]=`<b>α, ον</b> <font color="purple">[ῡ]</font> de Scyros ; οἱ Σκύριοι, PD. <i>fr. 73, etc.</i> ; HDT. <i>7, 183, etc</i>. les habitants de Scyros.<p><b>Étym</b>. Σκῦρος.`

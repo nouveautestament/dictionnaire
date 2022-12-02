@@ -1,0 +1,1 @@
+lar[22485]=`<b>ος, ον</b>, de Gorgone, ESCHL. <i>Pr. 793</i> ; τὸ Γοργόνειον, ISOCR. <i>382</i> ; PLUT. <i>Them. 10,</i> le bouclier d’Athèna avec une tête de Gorgone.<p>➳ <i>Inscr. att</i>. -ειον, CIA. <i>2, 736, b, 3 (307 av. J.-C.), et</i> -εον, <i>ibid. 708, 12 (pas av. 340 av. J.-C.)</i>.<p><b>Étym</b>. Γοργώ.`

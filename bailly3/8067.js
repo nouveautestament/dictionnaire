@@ -1,0 +1,1 @@
+lar[8067]=`<b>Ἀνδρο·κλῆς, έους (ὁ)</b> Androklès, <i>h</i>. AR. <i>Vesp. 1187, etc</i>.<p>➳ <i>Voc</i>. Ἀνδρόκλεις, IS. <i>6, 53 Baiter-Sauppe</i>.<p><b>Étym</b>. ἀνήρ, κλέος.`

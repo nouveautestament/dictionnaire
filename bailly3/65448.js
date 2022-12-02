@@ -1,0 +1,1 @@
+lar[65448]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> cause de colère <i>ou</i> de ressentiment, offense grave, IL. <i>22, 358</i> ; OD. <i>11, 73</i>.<br><b>      2</b> ressentiment, courroux, EUR. <i>Ph. 934</i> ; PLAT. <i>Phædr. 244d ;</i> PLUT. <i>M. 149d ;</i> ANT. <i>127, 1 ; 128, 4</i>.<p><b>Étym</b>. μηνίω.`

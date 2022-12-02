@@ -1,0 +1,1 @@
+lar[95029]=`<b>συν·αφεψέω-ῶ</b>, faire bouillir en même temps, DIOSC. <i>Par. 2</i>.`

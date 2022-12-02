@@ -1,0 +1,1 @@
+lar[10144]=`<b>ἀντι·οχεύομαι</b>, voiturer au-devant de <i>ou</i> à son tour, ANTH. <i>11, 284</i>.`

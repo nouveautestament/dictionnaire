@@ -1,0 +1,1 @@
+lar[37105]=`<b>ἐπ·εντρώματα, ων (τὰ)</b> désirs raffinés <i>ou</i> sensuels, EPIC. (ATH. <i>546e</i>).`

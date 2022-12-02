@@ -1,0 +1,1 @@
+lar[69965]=`<b>ή, όν</b>, qui gratte, <i>d’où</i> âcre, mordicant, <i>d’où</i> astringent, PHILOTIM. (ATH. <i>81b</i>).<p><b>Étym</b>. ξύω.`

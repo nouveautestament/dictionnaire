@@ -1,0 +1,1 @@
+lar[44804]=`<b>ζώ·πυρος, ος, ον</b> <font color="purple">[ῠ]</font> qui ranime le feu, qui ranime, qui vivifie, PHILSTR. <i>42</i> ; CLÉM. <i>590</i>.<p><b>Étym</b>. ζωός, πῦρ.`

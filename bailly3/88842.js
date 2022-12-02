@@ -1,0 +1,1 @@
+lar[88842]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec affluence, en foule, abondamment, CRAT. (<i>Com. fr. 2, 206</i>) ; PLUT. <i>Syll. 21, etc</i>.<p><b>Étym</b>. ῥέω, -δην.`

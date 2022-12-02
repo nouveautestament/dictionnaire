@@ -1,0 +1,1 @@
+lar[91815]=`<b>ου (τὸ)</b> petite bande de toile, vêtement léger, XÉN. <i>Hell. 4, 5, 4</i>.<p><b>Étym</b>. σπεῖρον.`

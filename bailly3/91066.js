@@ -1,0 +1,1 @@
+lar[91066]=`<b>ή, όν</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui a la vue faible, SIM. AM. <i>fr. 19 Bgk</i>.<br><b>      2</b> qui est d’une avarice sordide, ANON. <i>Arstt. Nic. 182, 27</i>.<p><b>Étym</b>. κνίψ.`

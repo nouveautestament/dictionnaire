@@ -1,0 +1,1 @@
+lar[89764]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>litt</i>. ligne, rangée, ANTH. <i>6, 295 ; d’où au pl</i>. lignes d’un écrit, <i>p. suite,</i> page, feuille, ANTH. <i>6, 227</i> ; POSIDIPP. (ATH. <i>596d</i>) ; POL. <i>5, 33, 3 ; d’où</i> livre, ANTH. <i>7, 138, etc</i>.`

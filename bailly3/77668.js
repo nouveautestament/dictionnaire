@@ -1,0 +1,1 @@
+lar[77668]=`<b>(ἡ)</b> <i>seul. acc</i>. πείρινθα, IL. <i>24, 190</i> ; OD. <i>15, 131 ; postér. gén</i>. πείρινθος, A.RH. <i>3, 873,</i> panier d’osier qu’on adaptait à un char.`

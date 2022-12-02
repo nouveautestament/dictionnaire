@@ -1,0 +1,1 @@
+lar[19709]=`<b>βιβλιο·κάπηλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> libraire, LUC. <i>Ind. 4, 24</i>.`

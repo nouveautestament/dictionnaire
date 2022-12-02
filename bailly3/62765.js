@@ -1,0 +1,1 @@
+lar[62765]=`<b>(ὁ)</b> Mandrès, <i>h</i>. PLUT. <i>Prov. 57</i>.`

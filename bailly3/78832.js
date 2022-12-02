@@ -1,0 +1,1 @@
+lar[78832]=`<b>περι·κρώζω</b>, croasser autour, DC. <i>58, 5</i>.`

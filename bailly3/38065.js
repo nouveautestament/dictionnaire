@@ -1,0 +1,1 @@
+lar[38065]=`<b>ου (ὁ)</b> (<i>s.-e</i>. σεισμός) tremblement de terre qui déplace le sol à angle aigu, ARSTT. <i>Mund. 4, 30</i>.<p><b>Étym</b>. ἐπικλίνω.`

@@ -1,0 +1,1 @@
+lar[84565]=`<b>ή, όν :<br>      1</b> qui provoque, EL. <i>N.A. 4, 16</i> ; PLUT. <i>Marc. 7</i>.<br><b>      2</b> propre à provoquer, à exciter, <i>gén</i>. DIOSC. <i>1, 162</i>.<p><b>Étym</b>. προκαλέω.`

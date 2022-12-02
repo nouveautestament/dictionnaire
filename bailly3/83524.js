@@ -1,0 +1,1 @@
+lar[83524]=`<b>προ·ακροβολίζομαι</b>, engager des escarmouches, <i>fig</i>. CHRYS. <i>10, 175 Migne</i>.`

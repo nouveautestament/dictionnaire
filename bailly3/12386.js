@@ -1,0 +1,1 @@
+lar[12386]=`<i>ou mieux</i> <b>ἄπωθεν :<br>   I</b> <i>adv.</i> :<br><b>      1</b> de loin, THC. <i>2, 81, etc.</i><br><b>      2</b> au loin, THC. <i>6, 7</i> ; XÉN. <i>Cyn. 5, 8, etc.</i> ; ARSTT. <i>Mund. 3, 2, etc.</i><br><b>   II</b> <i>prép</i>. loin de, <i>gén</i>. THC. <i>3, 111</i> ; EUR. <i>I.T. 108</i> ; ESCHN. <i>14, 12</i>.<p><b>Étym</b>. ἀπό, -θεν.`

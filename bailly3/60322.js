@@ -1,0 +1,1 @@
+lar[60322]=`<b>ῆς (ἡ)</b> <i>autre n. de la plante</i> κακαλία, DIOSC. <i>4, 123</i>.<p><b>Étym</b>. <i>fém. de</i> λεοντικός.`

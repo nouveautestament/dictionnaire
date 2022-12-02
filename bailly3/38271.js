@@ -1,0 +1,1 @@
+lar[38271]=`<b>ος, ον</b>, choisi, de choix, <i>en parl. de choses (bois, etc.)</i> EL. <i>V.H. 5, 6 ; en parl. de pers</i>. οἱ ἐπίλεκτοι, XÉN. <i>An. 3, 4, 43 ; Hell. 5, 3, 23</i> ; POL. <i>6, 26, 6, etc</i>. soldats d’élite.<p><b>Étym</b>. ἐπιλέγω.`

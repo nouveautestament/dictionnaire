@@ -1,0 +1,1 @@
+lar[17344]=`<b>αὐτ·ενέργητος, ος, ον</b>, qui agit par lui-même, JAMBL. PROCL.<p><b>Étym</b>. αὐτός, ἐνεργέω.`

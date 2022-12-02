@@ -1,0 +1,1 @@
+lar[42961]=`<b>εὐ·πέδιος, ος, ον</b>, au bon sol <i>ou</i> aux belles plaines, Q. SM. <i>11, 125</i>.<p><b>Étym</b>. εὖ, πεδίον.`

@@ -1,0 +1,1 @@
+lar[79626]=`<b>ος, ον</b>, entouré d’une clôture <i>ou</i> d’une enceinte ; τὸ περίφρακτον, PLUT. <i>Thes. 12</i> ; LUC. <i>Bacch. 6,</i> enceinte sacrée.<p><b>Étym</b>. περιφράσσω.`

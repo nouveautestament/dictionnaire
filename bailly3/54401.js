@@ -1,0 +1,1 @@
+lar[54401]=`<b>εως (ἡ)</b> action d’avaler gloutonnement, ARSTT. <i>H.A. 8, 6, 1</i>.<p><b>Étym</b>. κάπτω.`

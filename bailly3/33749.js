@@ -1,0 +1,1 @@
+lar[33749]=`<b>*ἐμ·ψάω</b>, <i>seul. poét</i>. <b>ἐνιψάομαι-ῶμαι</b>, gratter dans <i>ou</i> sur, CALL. <i>fr. 121</i>.`

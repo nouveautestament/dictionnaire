@@ -1,0 +1,1 @@
+lar[55189]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> tache, souillure, JOB (PHOT. <i>Bibl. p. 188, 31).</i><p><b>Étym</b>. κηλιδόω.`

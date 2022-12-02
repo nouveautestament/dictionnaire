@@ -1,0 +1,1 @@
+lar[102910]=`<b>ὑπέρ·ψυχρος, ος, ον</b>, extrêmement froid, glacial, <i>fig</i>. LUC. <i>H. conscr. 16</i>.<p><b>Étym</b>. ὑ. ψυχρός.`

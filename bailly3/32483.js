@@ -1,0 +1,1 @@
+lar[32483]=`<b>ἐλαιό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font> planté d’oliviers, ESCHL. <i>Pers. 884</i> ; STR. <i>570</i> ; τὸ ἐλαιόφυτον, PLUT. <i>M. 524a</i>, plant d’oliviers.<p><b>Étym</b>. ἐλαία, φυτόν.`

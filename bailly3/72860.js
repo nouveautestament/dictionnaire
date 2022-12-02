@@ -1,0 +1,1 @@
+lar[72860]=`<b>ὁρκ·ώμοτος, ος, ον</b>, par qui l’on jure, que l’on atteste dans un serment, LYC. <i>707</i>.<p><b>Étym</b>. ὅρκος, ὄμνυμι.`

@@ -1,0 +1,1 @@
+lar[78945]=`<b>περι·ναίω</b> (<i>seul. prés. moy</i>.) habiter alentour, ESCHL. <i>Suppl. 1021</i>.`

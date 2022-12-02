@@ -1,0 +1,1 @@
+lar[36785]=`<b>ἐπ·αριθμέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>prés</i>.) :<br><b>      1</b> compter en outre, PAUS. <i>10, 5, 8</i>.<br><b>      2</b> compter d’après, <i>rég. ind. au dat</i>. ARSTD. <i>4, 223</i>.`

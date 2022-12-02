@@ -1,0 +1,1 @@
+lar[55336]=`<b>κητο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se nourrit de gros poissons, ORACL. (PAUS. <i>10, 12, 3).</i><p><b>Étym</b>. κῆτος, φαγεῖν.`

@@ -1,0 +1,1 @@
+lar[71307]=`<b>ὁμαιχμέω-ῶ</b>, avoir sa lance unie à celle d’un autre, combattre comme allié, OPP. <i>H. 5, 160</i>.<p><b>Étym</b>. ὅμαιχμος.`

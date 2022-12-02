@@ -1,0 +1,1 @@
+lar[91385]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> petite coupe, ATH. <i>477e.</i><br><b>      2</b> crâne, P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. <i>dim. de</i> σκύφος.`

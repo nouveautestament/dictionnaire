@@ -1,0 +1,1 @@
+lar[63942]=`<b>1</b> s’inquiéter, se préoccuper : τινός, THGN. <i>1125</i> ; THCR. <i>Idyl. 9, 12,</i> de qqe ch. ; τινά, THCR. <i>Idyl. 10, 52,</i> de qqn ; <i>avec l’inf</i>. THGN. <i>185,</i> de faire qqe ch.<br><b>2</b> prendre soin de, soigner : τινά, HDT. <i>8, 115</i> ; HPC. <i>598, 26,</i> qqn.<p><b>Étym</b>. μελέδη.`

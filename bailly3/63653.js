@@ -1,0 +1,1 @@
+lar[63653]=`<b>μεθυσο·κότταβος, ου</b> <font color="purple">[ῠᾰ]</font> <i>adj. m</i>. qui s’enivre au jeu du cottabe, AR. <i>Ach. 525</i>.<p><b>Étym</b>. μέθυσος, κ.`

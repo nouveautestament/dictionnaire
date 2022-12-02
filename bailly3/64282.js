@@ -1,0 +1,1 @@
+lar[64282]=`<b>μεν·αίχμης, ου (ὁ, ἡ)</b> à la lance ferme, inébranlable, ANACR. <i>74</i>.<p>➳ <i>Dor</i>. μεναίχμας <font color="purple">[ᾱ]</font> ANTH. <i>6, 84</i>.<p><b>Étym</b>. μένω, αἰχμή.`

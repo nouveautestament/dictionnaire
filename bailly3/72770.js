@@ -1,0 +1,1 @@
+lar[72770]=`<b>ὀρθό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, dont l’esprit est tendu par l’attente <i>ou</i> par l’espérance, SOPH. <i>fr. 923 Dind</i>.<p><b>Étym</b>. ὀ. φρήν.`

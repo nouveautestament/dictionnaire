@@ -1,0 +1,1 @@
+lar[8511]=`<b>ἀν·επι·τεχνήτως</b>, <i>adv</i>., sans travail d’art, sans art, sans dessein, PLUT. <i>M. 900b</i>.<p><b>Étym</b>. ἀν-, ἐπί, τέχνη.`

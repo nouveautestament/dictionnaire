@@ -1,0 +1,1 @@
+lar[1848]=`<b>ου (ὁ)</b> Azaès, <i>roi myth. de l’Atlantide,</i> PLAT. <i>Crit. 114c</i>.`

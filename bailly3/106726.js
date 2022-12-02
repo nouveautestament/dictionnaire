@@ -1,0 +1,1 @@
+lar[106726]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> propre au transport des marchandises par mer, THC. <i>6, 88</i> ; XÉN. <i>Hell. 5, 1, 21</i>.<p><b>Étym</b>. φορτηγός.`

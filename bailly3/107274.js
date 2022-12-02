@@ -1,0 +1,1 @@
+lar[107274]=`<b>φυσιόω-ῶ</b> <font color="purple">[ῡ]</font> enfler d’orgueil, de vanité, <i>acc</i>. NT. <i>1Cor. 8, 1 ; au pass</i>. NT. <i>1Cor. 4, 6</i>.<p><b>Étym</b>. φῦσα.`

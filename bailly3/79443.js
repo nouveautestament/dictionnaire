@@ -1,0 +1,1 @@
+lar[79443]=`<b>εως (ἡ)</b> faux pas, chute, HPC. <i>Mochl. 852</i>.<p><b>Étym</b>. περισφάλλομαι.`

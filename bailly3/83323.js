@@ -1,0 +1,1 @@
+lar[83323]=`<i>adv</i>., décemment, convenablement, PD. <i>O. 3, 16</i> ; ESCHL. <i>Ag. 687 ; avec le dat</i>. PLAT. <i>Leg. 699d, etc. ; avec le gén</i>. PLAT. <i>Menex. 239c</i>.<p><b>Étym</b>. πρέπων, <i>part. prés. de</i> πρέπω.`

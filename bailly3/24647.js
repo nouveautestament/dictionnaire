@@ -1,0 +1,1 @@
+lar[24647]=`<b>δια·θηλύνω</b> (<i>seul. prés. 3 pl</i>. -ύνουσι) <i>litt</i>. rendre tout à fait efféminé, amener à un état de dégénérescence complète, TH. <i>C.P. 1, 16, 1</i>.`

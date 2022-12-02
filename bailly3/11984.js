@@ -1,0 +1,1 @@
+lar[11984]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> poirier, ARSTT. <i>H.A. 5, 19, 22</i> ; TH. <i>H.P. 1, 3, 3</i>.<br><b>      2</b> poire, AR. <i>fr. 476, 3</i> ; TH. <i>Char. 2, 3</i> ; PLUT. <i>Cato mi. 46, etc.</i><br><b>      3</b> sorte d’euphorbe, <i>plante,</i> TH. <i>H.P. 9, 9, 5</i> ; DIOSC. <i>4, 177</i>.`

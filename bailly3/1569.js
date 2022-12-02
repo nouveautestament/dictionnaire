@@ -1,0 +1,1 @@
+lar[1569]=`<i>adv. seul. cp</i>. ἁδροτέρως, plus fortement, HPC. <i>Aph. 1243</i>.<p><b>Étym</b>. ἁδρός.`

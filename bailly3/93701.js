@@ -1,0 +1,1 @@
+lar[93701]=`<b>ης (ἡ)</b> Sykinè, <i>contrée près du lac Bolbè,</i> ARSTT. <i>H.A. 2, 17</i>.`

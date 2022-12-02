@@ -1,0 +1,1 @@
+lar[86138]=`<b>προ·σμήχω</b>, frotter <i>ou</i> essuyer auparavant, GEOP. <i>16, 15, 2</i>.`

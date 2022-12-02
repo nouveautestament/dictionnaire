@@ -1,0 +1,1 @@
+lar[27804]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Drakontios, <i>h</i>. XÉN. <i>An. 4, 8, 25 ; 6, 6, 30</i>.`

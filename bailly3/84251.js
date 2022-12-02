@@ -1,0 +1,1 @@
+lar[84251]=`<b>προ·επιταράσσω</b> <font color="purple">[τᾰ]</font> troubler auparavant, GAL. <i>9, 426</i>.`

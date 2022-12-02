@@ -1,0 +1,1 @@
+lar[80625]=`<b>πλακίτης ἄρτος</b> <font color="purple">[ᾰῑ]</font> SOPHR. (ATH. <i>110c</i>) pain plat.<p><b>Étym</b>. πλάξ.`

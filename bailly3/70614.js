@@ -1,0 +1,1 @@
+lar[70614]=`<b>εως (ἡ)</b> ivresse légère, (<i>p. opp. à</i> μέθη <i>et à</i> παροινία) PLUT. <i>M. 503f et 645a ; au plur. (dat</i>. οἰνώσεσι) DL. <i>7, 183</i>.<p><b>Étym</b>. οἰνόω.`

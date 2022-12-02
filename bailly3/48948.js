@@ -1,0 +1,1 @@
+lar[48948]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> limoneux, fangeux, HPC. <i>204a ;</i> PLUT. <i>M. 935a ;</i> ARR. <i>Ind. 41, 3</i>.<p><b>Étym</b>. ἰλύς, -ωδης.`

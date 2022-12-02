@@ -1,0 +1,1 @@
+lar[55318]=`<b>ατος (τὸ) :<br>      1</b> emplâtre de cire, HPC. <i>398, 54 ; 402, 27</i>.<br><b>      2</b> mixture d’huile et de cire <i>à l’usage des athlètes,</i> PLUT. <i>M. 638e</i> (<i>cf. lat</i>. ceroma) ; <i>d’où</i> l’emplacement même de la lutte, PLUT. <i>M. 790e ;</i> PLIN. <i>H.N. 35, 2</i>.<p><b>Étym</b>. κηρόω.`

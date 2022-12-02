@@ -1,0 +1,1 @@
+lar[97575]=`<b>τανύ·σκιος, ος, ον</b> <font color="purple">[ᾰ]</font> à l’ombre épaisse <i>ou</i> profonde, OPP. <i>C. 4, 356</i>.<p><b>Étym</b>. τανυ-, σκιά.`

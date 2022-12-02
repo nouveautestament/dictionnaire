@@ -1,0 +1,1 @@
+lar[67810]=`<b>ναυσι·φόρητος, ος, ον</b> <font color="purple">[ῐ]</font> transporté sur des navires, PD. <i>P. 1, 33</i>.<p><b>Étym</b>. ν. φορέω.`

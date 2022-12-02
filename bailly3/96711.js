@@ -1,0 +1,1 @@
+lar[96711]=`<b>συ·στρατοπεδεύομαι</b> <font color="purple">[ᾰ]</font> camper avec, XÉN. <i>Hell. 6, 5, 19</i>.`

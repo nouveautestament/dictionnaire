@@ -1,0 +1,1 @@
+lar[27299]=`<b>δι·ώνυμος, ος, ον</b>, dont le nom se répand au loin, fameux, renommé, PLUT. <i>Tim. 30</i> ; JOS. <i>B.J. 5, 1, 3</i> ; APP. <i>Civ. 4, 54 et 115 ; Hisp. 43</i>.<p><b>Étym</b>. διά, ὄνομα.`

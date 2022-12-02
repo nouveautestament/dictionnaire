@@ -1,0 +1,1 @@
+lar[7385]=`<b>εως (ἡ) :<br>      1</b> action de remettre (un membre) HPC. <i>746a.</i><br><b>      2</b> reproduction, formation nouvelle (de chair) HPC. <i>748g</i>.<p><b>Étym</b>. ἀναπλάσσω.`

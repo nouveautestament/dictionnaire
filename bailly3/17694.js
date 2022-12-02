@@ -1,0 +1,1 @@
+lar[17694]=`<b>αὐτο·σοφία, ας (ἡ)</b> la sagesse même, CHRYS. NYSS.`

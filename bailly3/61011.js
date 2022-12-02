@@ -1,0 +1,1 @@
+lar[61011]=`<b>λιθ·αργύρεος, α, ον</b> <font color="purple">[ῐῠ]</font> <i>c</i>. λιθαργύρινος STÉSICH. (ATH. <i>451d</i>).`

@@ -1,0 +1,1 @@
+lar[104776]=`<b>ῆνος (ὁ)</b> Phallène, <i>litt</i>. « le dieu du phallus », <i>ép. de Bacchus,</i> PAUS. <i>10, 19, 3</i>.<p><b>Étym</b>. φαλλός.`

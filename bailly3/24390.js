@@ -1,0 +1,1 @@
+lar[24390]=`<b>ης (ἡ)</b> <i>litt</i>. la fille de Dèô, <i>càd</i>. Perséphonè, CALL. <i>fr. 48</i>.<p><b>Étym</b>. Δηώ.`

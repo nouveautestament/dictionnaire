@@ -1,0 +1,1 @@
+lar[69861]=`<b>Ξυνιὰς λίμνη (ἡ)</b> le lac de Xynia (<i>auj</i>. lac Xyniáđa) <i>en Thessalie,</i> A.RH. <i>1, 168</i>.`

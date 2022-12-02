@@ -1,0 +1,1 @@
+lar[109722]=`<b>ψευδο·πολίχνιον, ου (τὸ)</b> localité qui n’a d’une petite ville que l’apparence, JOS. <i>B.J. 4, 9, 9</i>.`

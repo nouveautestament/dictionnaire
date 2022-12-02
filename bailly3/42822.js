@@ -1,0 +1,1 @@
+lar[42822]=`<b>εὐ·ξόανος, ος, ον</b>, qui fait de belles statues, MAN. <i>4, 569</i>.<p><b>Étym</b>. εὖ, ξόανον.`

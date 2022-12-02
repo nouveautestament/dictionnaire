@@ -1,0 +1,1 @@
+lar[52219]=`<b>κατα·γιγαρτίζω</b> <font color="purple">[γῐ]</font> ôter le noyau, <i>fig</i>. déflorer, AR. <i>Ach. 275</i>.<p><b>Étym</b>. κ. γίγαρτον.`

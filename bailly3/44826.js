@@ -1,0 +1,1 @@
+lar[44826]=`<b>ή, όν</b>, serré autour du corps, PLUT. <i>Alex. 32</i>.<p><b>Étym</b>. <i>vb. de</i> ζώννυμι.`

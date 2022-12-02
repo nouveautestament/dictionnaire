@@ -1,0 +1,1 @@
+lar[108050]=`<b>ω (ὁ)</b> Kheiléôs, <i>Arcadien,</i> PLUT. <i>Them. 6, Herod. mal. 41</i>.`

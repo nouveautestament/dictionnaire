@@ -1,0 +1,1 @@
+lar[61134]=`<font color="purple">[ῑ]</font> souffrir de la faim, HDT. <i>6, 28 ; 7, 25</i>.<p><b>Étym</b>. λιμός.`

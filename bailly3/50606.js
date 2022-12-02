@@ -1,0 +1,1 @@
+lar[50606]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> affranchi de César, de l’empereur, DC. <i>56, 32 ; 69, 7, etc</i>.<p><b>Étym</b>. Καῖσαρ.`

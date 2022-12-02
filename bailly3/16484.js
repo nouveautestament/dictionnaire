@@ -1,0 +1,1 @@
+lar[16484]=`<b>ἀ·συνάλλακτος, ος, ον</b>, sans relations, insociable, DH. ; PLUT. <i>M. 416f, etc</i>.<p><b>Étym</b>. ἀ, συναλλάσσω.`

@@ -1,0 +1,1 @@
+lar[85448]=`<b>προσ·δοκέω-ῶ</b>, paraître <i>ou</i> se montrer en outre, <i>avec l’inf</i>. DÉM. <i>617, 7, etc</i>.`

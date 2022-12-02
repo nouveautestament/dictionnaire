@@ -1,0 +1,1 @@
+lar[96267]=`<b>συν·ταλασιουργέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> filer de la laine avec, CLÉARQ. (ATH. <i>516b</i>).`

@@ -1,0 +1,1 @@
+lar[93714]=`<b>συκο·πέδιλος, ος, ον</b> <font color="purple">[ῡῑ]</font> délateur (<i>litt</i>. aux talonnières de figues, <i>avec le sens de</i> συκοφάντης <i>et sur le modèle de l’homér</i>. χρυσοπέδιλος) AR. <i>Eq. 529</i>.<p><b>Étym</b>. σῦκον, πέδιλον.`

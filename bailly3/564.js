@@ -1,0 +1,1 @@
+lar[564]=`<b>(ὁ)</b> Agèsandridas, <i>Spartiate,</i> THC. <i>8, 91</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀγήσανδρος.`

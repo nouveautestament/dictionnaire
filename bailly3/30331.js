@@ -1,0 +1,1 @@
+lar[30331]=`<i>adv</i>., par hasard, au hasard, à l’aventure, ESCHL. <i>Pr. 450, 885</i> ; SOPH. <i>O.R. 979</i> ; PLAT. <i>Prot. 326d, etc.</i> ; ARSTT. <i>Metaph. 7, 3, 16</i>.<p><b>Étym</b>. *εἴκω².`

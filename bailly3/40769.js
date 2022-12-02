@@ -1,0 +1,1 @@
+lar[40769]=`<b>α, ον</b>, d’Érythres, <i>en Ionie,</i> HDT. <i>1, 18 ; 6, 8</i> ; THC. <i>3, 33 ; 8, 14, etc. ; subst</i>. ἡ Ἐρυθραῖα (<i>s.-e</i>. χώρα) THC. <i>8, 24 et 33,</i> le territoire d’Érythres.<p><b>Étym</b>. Ἐρυθραί.`

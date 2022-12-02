@@ -1,0 +1,1 @@
+lar[40841]=`<b>ἐρυσί·πτολις</b>, <i>voc</i>. <b>ι</b>, <i>gén</i>. <b>ιος (ἡ)</b> <font color="purple">[ῠ]</font> protectrice des villes, <i>ép. d’Athèna,</i> IL. <i>6, 305</i> ; HH. <i>10, 1 ; 28, 3</i>.<p><b>Étym</b>. ἔρυμαι, πτόλις.`

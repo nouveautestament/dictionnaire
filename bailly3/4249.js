@@ -1,0 +1,1 @@
+lar[4249]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> <i>fém. de</i> ἀλεξητήρ ANTH. <i>9, 764</i> ; NONN. <i>D. 25, 429, etc</i>.`

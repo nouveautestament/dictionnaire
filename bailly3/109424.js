@@ -1,0 +1,1 @@
+lar[109424]=`<b>οῦ (ὁ)</b> fondeur, SPT. <i>Jud. 17, 4</i> ; PROCL. <i>Ptol. p. 250</i>.<p><b>Étym</b>. χωνεύω.`

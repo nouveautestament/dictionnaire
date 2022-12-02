@@ -1,0 +1,1 @@
+lar[3718]=`<b>ης (ἡ)</b> <font color="purple">[ῐσ]</font> la fille d’Akrisios (Danaè) IL. <i>14, 319</i>.`

@@ -1,0 +1,1 @@
+lar[107509]=`<b>χαλαζο·βόλος, ος, ον</b> <font color="purple">[χᾰ]</font> qui envoie (<i>litt</i>. qui lance) de la grêle, PLUT. <i>M. 499f</i>.<p><b>Étym</b>. χάλαζα, βάλλω.`

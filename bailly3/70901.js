@@ -1,0 +1,1 @@
+lar[70901]=`<b>ων (τὰ)</b> <i>anc. forme p</i>. Ἄλπια, les Alpes, POSIDON. (ATH. <i>233d</i>).`

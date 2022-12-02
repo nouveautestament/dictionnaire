@@ -1,0 +1,1 @@
+lar[61005]=`<b>λιγύ·φθογγος, ος, ον</b> <font color="purple">[ῐ]</font> à la voix claire <i>ou</i> au bruit sonore, IL. <i>2, 442, etc.</i> ; OD. <i>2, 6, etc.</i> ; THGN. <i>241</i> ; ANTH. <i>9, 266, etc</i>.<p><b>Étym</b>. λ. φθέγγω.`

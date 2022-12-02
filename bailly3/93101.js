@@ -1,0 +1,1 @@
+lar[93101]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> tronc, <i>d’où</i> bâton, A.RH. <i>1, 1117</i> ; POL. <i>22, 10, 4</i>.<br><b>      2</b> <i>c</i>. κύτος, NIC. <i>Th. 952, Al. 70</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

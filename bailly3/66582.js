@@ -1,0 +1,1 @@
+lar[66582]=`<b>μονο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui combat seul à seul, en combat singulier, ESCHL. <i>Sept. 798</i> ; EUR. <i>Ph. 1300, 1325, 1362</i>.<br><b>      2</b> ὁ μ. gladiateur, <i>à Rome,</i> LUC. <i>Demon. 57</i> ; HDN <i>1, 15, 16</i>.<p><b>Étym</b>. μ. μάχομαι.`

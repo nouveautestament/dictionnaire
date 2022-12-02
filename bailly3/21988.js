@@ -1,0 +1,1 @@
+lar[21988]=`<b>γιγαντο·μαχία, ας (ἡ)</b> <font color="purple">[γῐμᾰ]</font> combat <i>ou</i> guerre des Géants, PLAT. <i>Rsp. 378c ; Soph. 246a ;</i> PLUT. <i>Ant. 60, etc</i>.<p><b>Étym</b>. γίγας, μάχη.`

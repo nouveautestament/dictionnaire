@@ -1,0 +1,1 @@
+lar[96049]=`<b>συν·νεανιεύομαι</b> <font color="purple">[ᾱ]</font> se conduire ensemble, comme des jeunes gens, DC. <i>51, 8 ; 72, 4</i>.`

@@ -1,0 +1,1 @@
+lar[44576]=`<b>*ζήτω</b>, <i>seul. dor</i>. ζάτω <font color="purple">[ᾱ]</font> <i>au part. prés. fém</i>. ζάτοισα, THCR. <i>Idyl. 1, 83</i>.<p><b>Étym</b>. <i>v</i>. ζητέω <i>fin</i>.`

@@ -1,0 +1,1 @@
+lar[97360]=`<b>ου (ὁ)</b> Tagônios (<i>auj</i>. Tajuña) <i>affl. du Tage en Espagne,</i> PLUT. <i>Sert. 17</i>.`

@@ -1,0 +1,1 @@
+lar[29651]=`<b>ἐγ·κινδυνεύω</b> (<i>seul. prés</i>. -ομεν) <font color="purple">[ῡ]</font> courir un danger dans <i>ou</i> sur, <i>dat</i>. NYSS. <i>2, 119a</i>.<p><b>Étym</b>. ἐν, κ.`

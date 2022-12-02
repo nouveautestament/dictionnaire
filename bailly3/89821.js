@@ -1,0 +1,1 @@
+lar[89821]=`<b>ου (ὁ) :<br>      1</b> = <i>lat</i>. Sextĭlius, <i>n. d’h. rom</i>. PLUT. <i>Mar. 40, etc.</i><br><b>      2</b> = <i>lat</i>. Sextilis, <i>n. d’un mois romain, plus tard appelé</i> Augustus, <i>càd</i>. le mois d’août, PLUT. <i>Rom. 15, Num. 19, M. 273d, etc</i>.`

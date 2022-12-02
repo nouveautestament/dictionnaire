@@ -1,0 +1,1 @@
+lar[34494]=`<b>ἐν·θαλασσεύω</b>, <i>att</i>. <b>-ττεύω</b> <font color="purple">[θᾰ]</font><br><b>      1</b> vivre dans la mer, EL. <i>N.A. 9, 3</i>.<br><b>      2</b> être sur mer, LGS <i>2, 12</i>.<p><b>Étym</b>. ἐν, θάλασσα.`

@@ -1,0 +1,1 @@
+lar[6642]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> transposition de lettres formant un sens, anagramme (<i>p. ex</i>. λόχος <i>et</i> χόλος ; Ἥρα <i>et</i> ἀήρ) ARTÉM. <i>336 Reiff</i>.`

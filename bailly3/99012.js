@@ -1,0 +1,1 @@
+lar[99012]=`<b>τηξι·μελής, ής, ές</b> <font color="purple">[ῐ]</font> qui consume <i>ou</i> épuise les membres, ANTH. <i>7, 234</i>.<p><b>Étym</b>. τήκω, μέλος.`

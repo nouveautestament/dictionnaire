@@ -1,0 +1,1 @@
+lar[23069]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> ouvrier en bagues, PHILYLL. <i>et</i> PHÉRÉCR. (POLL. <i>7, 108 et 179).</i><p><b>Étym</b>. δακτύλιον, ἔργον.`

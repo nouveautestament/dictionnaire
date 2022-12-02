@@ -1,0 +1,1 @@
+lar[72889]=`<b>ὁρμιη·βόλος, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui jette sa ligne, pêcheur à la ligne, ANTH. <i>6, 196 ; 7, 693</i>.<p><b>Étym</b>. ὁρμιά, βάλλω.`

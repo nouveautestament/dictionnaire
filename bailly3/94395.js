@@ -1,0 +1,1 @@
+lar[94395]=`<b>σύμ·πτωχος, ος, ον</b>, compagnon de mendicité, SYN. <i>214d</i>.<p><b>Étym</b>. σ. πτωχός.`

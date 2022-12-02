@@ -1,0 +1,1 @@
+lar[950]=`<i>adv</i>., en venant des champs, OD. <i>13, 268 ; 15, 428</i>.<p><b>Étym</b>. ἀ. -θεν.`

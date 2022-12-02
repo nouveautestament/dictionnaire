@@ -1,0 +1,1 @@
+lar[41063]=`<b>ή, όν</b>, des Hespérides, JUBA (ATH. <i>83b</i>).<p><b>Étym</b>. <i>v</i>. Ἑσπερίς.`

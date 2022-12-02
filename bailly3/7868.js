@@ -1,0 +1,1 @@
+lar[7868]=`<b>ἀνα·φλεγμαίνω</b> <font color="darkgreen">(<i>ao</i>. ἀνεφλέγμηνα)</font> s’enflammer, être enflammé, PLUT. <i>Ant. 82 ; au pass</i>. JUL. <i>83c</i>.`

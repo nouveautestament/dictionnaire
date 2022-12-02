@@ -1,0 +1,1 @@
+lar[77809]=`<b>ης (ἡ) :<br>      1</b> vase à traire le lait, IL. <i>16, 642</i> ; POÈT. (PLUT. <i>M. 409d</i>) ; THCR. <i>Idyl. 1, 26</i>.<br><b>      2</b> vase à boire, HIPPON. (ATH. <i>495</i> c-d).`

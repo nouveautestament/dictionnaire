@@ -1,0 +1,1 @@
+lar[74494]=`<b>παλιγ·γέλως, ωτος (ὁ)</b> <font color="purple">[ᾰ]</font> rire <i>ou</i> raillerie mutuelle, PHIL. <i>1, 528</i>.<p><b>Étym</b>. πάλιν, γέλως.`

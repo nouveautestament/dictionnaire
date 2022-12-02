@@ -1,0 +1,1 @@
+lar[108868]=`<i>3 sg. prés. ind. de</i> χράω, <i>ou rar. c</i>. χρῇ, <i>2 sg. prés. ind. de</i> χράομαι.`

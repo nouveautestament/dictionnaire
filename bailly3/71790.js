@@ -1,0 +1,1 @@
+lar[71790]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> cupule des glands employée en tannerie, P. ÉG. <i>3, 42</i>.<p><b>Étym</b>. ὄμφαξ.`

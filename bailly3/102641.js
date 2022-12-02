@@ -1,0 +1,1 @@
+lar[102641]=`<b>ὑπερ·μάχομαι</b> <font color="darkgreen">(<i>f</i>. -μαχέσομαι, <i>att</i>. -μαχοῦμαι, <i>ao</i>. -εμαχεσάμην)</font> <font color="purple">[ᾰ]</font> combattre pour, prendre la défense de, <i>gén</i>. SOPH. <i>O.R. 265</i> ; PLUT. <i>Cato mi. 53, etc</i>.`

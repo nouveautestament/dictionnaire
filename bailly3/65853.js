@@ -1,0 +1,1 @@
+lar[65853]=`<b>      1 <i>intr.</i></b> rester, IL. <i>2, 392 ; 10, 549</i> ; A.RH. <i>1, 226</i> ; ANTH. <i>4, 4</i>.<br><b>      2 <i>tr.</i></b> veiller sur, garder, <i>acc</i>. HH. <i>8, 6</i>.<p>➳ <i>Seul. prés</i>. IL. HH. <i>ll. cc.</i> ; OPP. <i>H. 1, 145</i> ; ANTH. <i>l. c. ; et impf. 3 sg</i>. μίμναζε, OPP. <i>H. 5, 463</i>.<p><b>Étym</b>. μίμνω.`

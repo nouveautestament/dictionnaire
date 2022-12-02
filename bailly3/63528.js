@@ -1,0 +1,1 @@
+lar[63528]=`<b>ων (οἱ)</b> les grands, les premiers de l’État, SPT. <i>Dan. 3, 24</i> ; NT. <i>Marc. 6, 21, etc</i>.<p><b>Étym</b>. μέγιστος ; <i>pour la formation, cf</i>. νεᾶνες, ξυνᾶνες.`

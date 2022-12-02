@@ -1,0 +1,1 @@
+lar[72788]=`<b>ὀρθρο·φοιτο·συκοφαντο·δικο·ταλαίπωρος, ος, ον</b> <font color="purple">[ῡῐκᾰ]</font> habitude d’un malheureux qui vient dès le point du jour au tribunal rempli de sycophantes, AR. <i>Vesp. 505</i>.`

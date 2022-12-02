@@ -1,0 +1,1 @@
+lar[85786]=`<b>εως (ἡ)</b> action d’amener à soi, <i>particul</i>. action de prendre de la nourriture, ARSTT. <i>Probl. 30, 14, 4</i>.<p><b>Étym</b>. προσίημι.`

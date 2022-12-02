@@ -1,0 +1,1 @@
+lar[40829]=`<b>ἐρυσ·άρματες</b> <font color="purple">[ῠμᾰ]</font> (<i>nom</i>. IL. <i>15, 354, et acc</i>. ἐρυσάρματας, HÉS. <i>Sc. 369</i>) qui traînent un char.<p><b>Étym</b>. ἐρύω, ἅρμα.`

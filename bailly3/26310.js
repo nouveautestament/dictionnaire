@@ -1,0 +1,1 @@
+lar[26310]=`<b>δι·ετίζω</b>, durer <i>ou</i> vivre plus d’une année, ARSTT. <i>H.A. 5, 33 ; 9, 41</i> ; TH. <i>H.P. 1, 2, 2</i>.<p><b>Étym</b>. διά, ἔτος.`

@@ -1,0 +1,1 @@
+lar[110410]=`<b>ὠρεσί·δουπος, ος, ον</b> <font color="purple">[ῐ]</font> qui fait du bruit sur les montagnes, qui fait retentir les montagnes, ANTH. <i>9, 524 conj. p</i>. ὠρεσίλοιπος.<p><b>Étym</b>. <i>poét. p</i>. *ὀρεσίδουπος, <i>de</i> ὄρος, δουπέω.`

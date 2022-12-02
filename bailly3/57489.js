@@ -1,0 +1,1 @@
+lar[57489]=`<b>ου (ὁ)</b> lit de repos, <i>d’où</i> mauvais lit, grabat, RHINTHON <i>et</i> CRITON (POLL. <i>10, 35</i>) ; NT. <i>Marc. 2, 4, 9, etc. ; Joh. 5, 8 ; Ap. 5, 15, etc</i>.<p><b>Étym</b>. <i>mot macéd. selon Poll</i>.`

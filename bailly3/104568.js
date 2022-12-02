@@ -1,0 +1,1 @@
+lar[104568]=`<b>Φ, φ, ϕ</b> (φῖ) (τὸ) <i>indécl</i>. phi, <i>21<sup>e</sup> lettre de l’alphabet grec,</i> PLAT. <i>Crat. 427a ;</i> PLUT. <i>M. 738c.</i><br><i>Comme chiffre,</i> φʹ = 500 ; ͵φ = 500 000.`

@@ -1,0 +1,1 @@
+lar[85602]=`<b>προσ·εξαγριαίνω</b> <font color="purple">[ᾰ]</font> aigrir encore plus <i>ou</i> en outre, JOS. <i>A.J. 2, 14, 3</i>.`

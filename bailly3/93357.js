@@ -1,0 +1,1 @@
+lar[93357]=`<b>συγ·καταρριπτέω-ῶ</b> (<i>seul. prés</i>.) s’abaisser à des relations avec, <i>dat</i>. DS. <i>Exc. p. 577, 30</i>.`

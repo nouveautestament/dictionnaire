@@ -1,0 +1,1 @@
+lar[39829]=`<b>ἐπ·οκτα·μερής, ής, ές</b> <font color="purple">[ᾰ]</font> qui contient huit parties en plus, NICOM. <i>Arithm. 1, 23, éd. Hoche, p. 72</i>.<p><b>Étym</b>. ἐπί, ὀκτώ, μέρος.`

@@ -1,0 +1,1 @@
+lar[94102]=`<b>συμ·παρατηρέω-ῶ</b>, observer ensemble <i>ou</i> en même temps, DÉM. <i>204, 20</i> ; SEXT. <i>P. 2, 100</i> ; ARSTD. <i>t. 2, 44</i>.`

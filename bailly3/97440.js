@@ -1,0 +1,1 @@
+lar[97440]=`<b>ή, όν</b> <font color="purple">[ᾰᾰγῐ]</font> qui concerne l’art de travailler la laine, XÉN. <i>Œc. 9, 7</i> ; PLAT. <i>Pol. 282c ;</i> ἡ ταλασιουργική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 282a, etc</i>. l’art de travailler la laine.<p><b>Étym</b>. ταλασιουργός.`

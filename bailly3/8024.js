@@ -1,0 +1,1 @@
+lar[8024]=`<b>ἀνδρ·ηλάτης, ου (ὁ)</b> <font color="purple">[λᾰ]</font> qui chasse un homme de ses foyers, qui bannit un homme, ESCHL. <i>Sept. 637</i>.<p><b>Étym</b>. ἀνήρ, ἑλαύνω.`

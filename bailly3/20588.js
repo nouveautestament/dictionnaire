@@ -1,0 +1,1 @@
+lar[20588]=`<b>ου (ἡ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> prunellier ARÉT. <i>Cur. m. acut. 2, 2</i> ; GEOP. <i>10, 39</i>.<br><b>      2</b> prunelle <i>ou</i> prune sauvage, ANTH. <i>9, 377</i>.`

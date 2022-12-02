@@ -1,0 +1,1 @@
+lar[14255]=`<b>ων (οἱ)</b> les habitants d’Argilos, THC. <i>1, 132 ; 4, 103</i>.<p><b>Étym</b>. Ἄργιλος.`

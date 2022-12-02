@@ -1,0 +1,1 @@
+lar[24797]=`<b>δια·κολλάω-ῶ</b>, coller l’un contre l’autre, coller ensemble, LUC. <i>Ind. 16 ; au pass</i>. λίθῳ διακεκολλημένος, LUC. <i>Hipp. 6</i>, formé de plaques de marbre reliées entre elles par du ciment.`

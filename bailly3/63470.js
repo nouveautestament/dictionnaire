@@ -1,0 +1,1 @@
+lar[63470]=`<font color="purple">[ᾰῡ]</font> <i>adv</i>., avec magnanimité, DÉM. <i>384, 18</i> ; POL. <i>1, 8, 4, etc</i>.`

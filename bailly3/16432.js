@@ -1,0 +1,1 @@
+lar[16432]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans chicane, PLUT. <i>M. 529d</i>.<p>•<i> Cp</i>. -ότερον, SEXT.`

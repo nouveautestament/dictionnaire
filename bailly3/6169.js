@@ -1,0 +1,1 @@
+lar[6169]=`<b>ἀμφί·θρεπτος, ος, ον</b>, épais, <i>ou</i> coagulé (<i>litt</i>. bien nourri) tout autour, <i>en parl. de sang,</i> SOPH. <i>Tr. 572</i>.<p><b>Étym</b>. ἀ. τρέφω.`

@@ -1,0 +1,1 @@
+lar[36051]=`<b>ἑξ·και·τεσσαρακοντά·μετρος, ος, ον</b>, de quarante-six mesures, SCH.-AR. <i>Pax 974</i>.`

@@ -1,0 +1,1 @@
+lar[53906]=`<b>κατ·επιδείκνυμαι</b>, faire montre de, <i>avec</i> ὅτι, M. ANT. <i>11, 13</i>.`

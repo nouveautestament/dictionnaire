@@ -1,0 +1,1 @@
+lar[66937]=`<b>μουσ·ῳδός, ός, όν</b>, qui chante mélodieusement, MAN. <i>5, 143</i>.<p><b>Étym</b>. μοῦσα, ᾠδή.`

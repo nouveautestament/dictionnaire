@@ -1,0 +1,1 @@
+lar[101676]=`<b>ὑλ·αγωγέω-ῶ</b> <font color="purple">[ῡᾰ]</font> transporter du bois <i>ou</i> des matériaux, DÉM. <i>1041, 2</i>.<p><b>Étym</b>. ὕλη, ἀγωγός.`

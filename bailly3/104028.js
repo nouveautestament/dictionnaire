@@ -1,0 +1,1 @@
+lar[104028]=`<b>ὑπο·τρίβω</b> <font color="purple">[ῑ]</font> frotter en dessous, user en dessous par le frottement, HPC. <i>231, 46</i> ; DIEUCH. (ORIB. <i>1, 291 B.-Dar.) ; abs</i>. user le sabot, <i>en parl. d’un cheval,</i> DS. <i>17, 94</i>.`

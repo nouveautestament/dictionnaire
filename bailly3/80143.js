@@ -1,0 +1,1 @@
+lar[80143]=`<b>πηρο·μελής, ής, ές</b>, aux membres estropiés, EPIGR. (DL. <i>5, 40).</i><p><b>Étym</b>. πηρός, μέλος.`

@@ -1,0 +1,1 @@
+lar[92167]=`<b>στασιο·ποιός, ός, όν</b> <font color="purple">[τᾰ]</font> qui excite une sédition, JOS. <i>Vit. 27</i>.<p><b>Étym</b>. στάσις, ποιέω.`

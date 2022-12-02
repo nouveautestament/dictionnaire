@@ -1,0 +1,1 @@
+lar[12]=`<b>(ἡ)</b> <font color="brown">pendant d’oreille</font>, ALCM. <i>113</i> ; AR. <i>fr. 567</i>.`

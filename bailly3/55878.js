@@ -1,0 +1,1 @@
+lar[55878]=`<b>ορος (ὁ)</b> Kleitôr :<br><b>      1</b> <i>h</i>. ANTH. <i>6, 11, etc.</i><br><b>      2</b> <i>v. d’Arcadie avec une fontaine renommée,</i> PD. <i>N. 10, 86, etc</i>.`

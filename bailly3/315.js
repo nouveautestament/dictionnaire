@@ -1,0 +1,1 @@
+lar[315]=`<b>ἀγαλμο·τυπής (ὁ, ἡ)</b> <font color="purple">[ᾰγῠ]</font> qui sculpte, MAN. <i>4, 569 dout</i>.<p><b>Étym</b>. ἄγ. τύπτω.`

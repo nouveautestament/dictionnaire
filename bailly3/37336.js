@@ -1,0 +1,1 @@
+lar[37336]=`<b>ἐπι·βιβάσκω</b> (<i>seul. prés</i>.) <font color="purple">[βῐ]</font> <i>c</i>. ἐπιβιβάζω ARSTT. <i>H.A. 6, 18</i>.`

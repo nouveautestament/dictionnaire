@@ -1,0 +1,1 @@
+lar[58554]=`<b>κυκλο·έλικτος, ος, ον</b>, qui se meut circulairement, ORPH. <i>H. 7, 11</i>.<p><b>Étym</b>. κύκλος, ἑλίσσω.`

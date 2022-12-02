@@ -1,0 +1,1 @@
+lar[109383]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> χυτρίς, HPC. <i>879</i> ; AR. <i>Ach. 463, 1175</i> ; ALEX. <i>et</i> MÉLÉAGR. (ATH. <i>502b et c</i>) ; LUC. <i>Prom. 2</i>.<p>➳ <i>Ion</i>. κυθρίδιον, CLÉM. <i>165</i>.`

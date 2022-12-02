@@ -1,0 +1,1 @@
+lar[58172]=`<b>ου (τὸ)</b> morceau de glace, JUL. <i>341b Migne</i>.<p><b>Étym</b>. <i>cf</i>. κρύσταλλος.`

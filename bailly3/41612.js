@@ -1,0 +1,1 @@
+lar[41612]=`<b>εὐ·αξίωτος, ος, ον</b>, accessible aux prières, CHRYS. <i>6, 875</i>.<p><b>Étym</b>. εὖ, ἀξιόω.`

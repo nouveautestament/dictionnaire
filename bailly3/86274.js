@@ -1,0 +1,1 @@
+lar[86274]=`<b>προσ·παραμένω</b>, continuer de rester, ES. <i>337 Halm</i>.`

@@ -1,0 +1,1 @@
+lar[29900]=`<b>ῶνος (ὁ)</b> vivier pour les anguilles, ARSTT. <i>H.A. 8, 4, 34</i>.<p><b>Étym</b>. ἔγχελυς.`

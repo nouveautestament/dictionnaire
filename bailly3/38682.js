@@ -1,0 +1,1 @@
+lar[38682]=`<b>ἐπι·πίλναμαι</b> <font color="purple">[νᾰ]</font> (<i>seul. prés. 3 sg</i>.) s’approcher, OD. <i>6, 44</i>.`

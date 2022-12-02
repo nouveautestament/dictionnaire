@@ -1,0 +1,1 @@
+lar[61171]=`<b>ου (ὁ)</b> Limnèsios (<i>propr</i>. le marécageux) <i>n. de grenouille,</i> BATR. <i>221</i>.<p><b>Étym</b>. λίμνη.`

@@ -1,0 +1,1 @@
+lar[35170]=`<b>ἐνυγρο·θηρευτής, οῦ (ὁ)</b> <i>litt</i>. celui qui cherche son gibier dans l’eau, pêcheur, PLAT. <i>Leg. 824c</i>.<p><b>Étym</b>. ἔνυγρος, θηρευτής.`

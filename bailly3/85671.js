@@ -1,0 +1,1 @@
+lar[85671]=`<b>προσ·επιδιορίζω</b>, distinguer <i>ou</i> discerner en outre, <i>acc</i>. GAL. <i>10, 449</i>.`

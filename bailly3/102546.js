@@ -1,0 +1,1 @@
+lar[102546]=`<b>ου (τὸ)</b> <font color="purple">[θῠ]</font> pierre <i>ou</i> poutre transversale au-dessus d’une porte, OD. <i>7, 90</i> ; HÉS. <i>Sc. 271</i>.<p><b>Étym</b>. ὑπέρθυρος.`

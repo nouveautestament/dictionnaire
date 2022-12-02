@@ -1,0 +1,1 @@
+lar[31288]=`<b>εως (ἡ)</b> action de prendre confiance <i>ou</i> courage, PORPH. <i>Abst. 1, 50</i>.<p><b>Étym</b>. ἐκθαρρέω.`

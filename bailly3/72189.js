@@ -1,0 +1,1 @@
+lar[72189]=`<b>ὀξυ·φεγγής, ής, ές</b> <font color="purple">[ῠ]</font> d’un vif éclat, CHÆRÉM. (ATH. <i>608f</i>).<p><b>Étym</b>. ὀ. φέγγος.`

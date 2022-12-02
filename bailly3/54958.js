@@ -1,0 +1,1 @@
+lar[54958]=`<b>(ἡ)</b> Kerkina (<i>auj</i>. Kerkennah) <i>î. et v. de la côte d’Afrique, près de la Petite Syrte,</i> PLUT. <i>Mar. 40</i>.`

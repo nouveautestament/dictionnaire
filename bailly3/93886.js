@@ -1,0 +1,1 @@
+lar[93886]=`<b>α, ον</b>, <i>vb. de</i> συμβουλεύω, THC. <i>1, 140 ; au neutre,</i> ISOCR. <i>Antid. § 187</i>.`

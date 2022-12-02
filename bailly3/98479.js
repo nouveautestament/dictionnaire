@@ -1,0 +1,1 @@
+lar[98479]=`<b>τετανό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰῐχ]</font> aux cheveux longs et plats, PLAT. <i>Euthyphr. 2b ;</i> SEXT. <i>M. 5, 95</i>.<p><b>Étym</b>. τετανός, θρίξ.`

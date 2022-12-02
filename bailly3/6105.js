@@ -1,0 +1,1 @@
+lar[6105]=`<b>ἀμφι·δήριτος, ος, ον</b> <font color="purple">[ρῑ]</font> disputé, douteux, THC. <i>4, 134</i> ; POL. <i>35, 2, 14</i>.<p><b>Étym</b>. ἀ. δηρίομαι.`

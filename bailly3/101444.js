@@ -1,0 +1,1 @@
+lar[101444]=`<b>Ὑδάρκης λαός (ὁ)</b> le peuple Hydarque, <i>pple indien,</i> NONN. <i>D. 26, 218</i>.`

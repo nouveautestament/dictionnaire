@@ -1,0 +1,1 @@
+lar[60077]=`<b>ου (ἡ)</b> Lébédos, <i>v. ion. de Lydie,</i> HDT. <i>1, 142</i> ; THC. <i>8, 19</i>.`

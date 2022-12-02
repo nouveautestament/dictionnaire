@@ -1,0 +1,1 @@
+lar[45590]=`<b>ἡμι·τριταϊκός, ή, όν</b> <font color="purple">[ρῐ]</font> <i>c</i>. ἡμιτριταῖος PROCL. <i>Ptol. p. 277</i>.`

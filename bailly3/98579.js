@@ -1,0 +1,1 @@
+lar[98579]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. θριδακίνη, HIPPON. (ATH. <i>69d</i>).<p><b>Étym</b>. <i>par étym. populaire de</i> τρι- « trois » <i>dans</i> θριδακίνη.`

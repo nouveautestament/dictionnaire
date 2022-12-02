@@ -1,0 +1,1 @@
+lar[7188]=`<b>εως (ἡ)</b> action d’amener à soi en pelotonnant, BAS.`

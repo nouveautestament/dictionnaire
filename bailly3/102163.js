@@ -1,0 +1,1 @@
+lar[102163]=`<b>ὑπ·έλαφρος, ος, ον</b> <font color="purple">[ᾰ]</font> quelque peu léger, SEXT. <i>M. 1, 63</i>.<p><b>Étym</b>. ὑ. ἐλαφρός.`

@@ -1,0 +1,1 @@
+lar[45365]=`<i>adv</i>., avec douceur, avec bonté, POL. <i>5, 54, 9</i>.<p>•<i> Cp</i>. -ωτέρως, PLAT. <i>Leg. 867d ;</i> PLUT. <i>Alex. 49. • Sup</i>. -ώτατα, DC. <i>58, 18</i>.<p><b>Étym</b>. ἥμερος.`

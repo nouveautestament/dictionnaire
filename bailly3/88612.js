@@ -1,0 +1,1 @@
+lar[88612]=`<b>ῥινό·σιμος, ος, ον</b> <font color="purple">[ῑ ῑ]</font> au nez camus, LUC. <i>Bacch. 2</i>.<p><b>Étym</b>. ῥίς, σιμός.`

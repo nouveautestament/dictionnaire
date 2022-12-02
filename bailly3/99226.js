@@ -1,0 +1,1 @@
+lar[99226]=`<font color="purple">[τῑμ]</font> <i>adv</i>., avec un sentiment de respect, PHIL.`

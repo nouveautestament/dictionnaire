@@ -1,0 +1,1 @@
+lar[62635]=`<b>μαλακο·κρανεύς, έως (ὁ)</b> <font color="purple">[ᾰᾰᾱ]</font> sorte d’oiseau, <i>propr</i>. « à tête molle », ARSTT. <i>H.A. 9, 22, 2</i>.<p><b>Étym</b>. μ. κράνος.`

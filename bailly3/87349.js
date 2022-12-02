@@ -1,0 +1,1 @@
+lar[87349]=`<font color="purple">[ῠ]</font> <i>adv</i>., en forme d’aile, TH. <i>H.P. 3, 12, 7</i>.<p><b>Étym</b>. πτερυγοειδής.`

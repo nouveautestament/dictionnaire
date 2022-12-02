@@ -1,0 +1,1 @@
+lar[69257]=`<b>ης (ἡ)</b> Nyssa, <i>sœur de Mithridate,</i> PLUT. <i>Luc. 18</i>.`

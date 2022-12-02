@@ -1,0 +1,1 @@
+lar[60063]=`<b>ης (ἡ)</b> Léæna, <i>f</i>. PLUT. <i>Garrul. 8, etc</i>.<p><b>Étym</b>. <i>v</i>. λέαινα.`

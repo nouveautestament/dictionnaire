@@ -1,0 +1,1 @@
+lar[11192]=`<b>ἁπαλό·θριξ</b>, <i>gén</i>. <b>-τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰῐχ]</font> à la chevelure douce <i>ou</i> souple, EUR. <i>Bacch. 1185</i>.<p><b>Étym</b>. ἁπαλός, θρίξ.`

@@ -1,0 +1,1 @@
+lar[72892]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> qui ressemble à la sauge, PLIN. <i>H.N. 37, 10</i>.<p><b>Étym</b>. ὅρμινον, -ωδης.`

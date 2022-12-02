@@ -1,0 +1,1 @@
+lar[79998]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πήγανον, TH. <i>H.P. 1, 10, 4</i> ; NIC. <i>Th. 531, Al. 49</i>.`

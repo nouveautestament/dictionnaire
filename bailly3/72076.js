@@ -1,0 +1,1 @@
+lar[72076]=`<b>ὀξυ·γώνιος, ος, ον</b> <font color="purple">[ῠ]</font> à angles aigus, EUCL. <i>Elem. 1, def. 21</i> ; THEOL. <i>p. 15d</i>.<p>•<i> Sup</i>. -ώτατος, ARSTT. <i>Cæl. 8</i>.<p><b>Étym</b>. ὀ. γωνία.`

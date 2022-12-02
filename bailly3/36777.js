@@ -1,0 +1,1 @@
+lar[36777]=`<b>ἐπ·αρδεύω</b> (<i>prés</i>.) arroser, CLÉM. <i>1, 697 Migne</i> ; NONN. <i>D. 11, 166</i> ; SIB. <i>5, 58</i>.`

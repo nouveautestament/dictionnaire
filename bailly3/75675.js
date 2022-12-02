@@ -1,0 +1,1 @@
+lar[75675]=`<b>παρα·καλπάζω</b>, caresser, flatter, <i>acc</i>. PLUT. <i>Alex. 6</i>.`

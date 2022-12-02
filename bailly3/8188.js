@@ -1,0 +1,1 @@
+lar[8188]=`<b>ἀ·νεικία, ας (ἡ)</b> concorde, <i>nom du nombre cinq,</i> NICOM. <i>Theol. 57</i> ; THEOL. <i>p. 26, 27</i>.<p><b>Étym</b>. ἀ, νεῖκος.`

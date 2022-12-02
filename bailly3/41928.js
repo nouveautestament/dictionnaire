@@ -1,0 +1,1 @@
+lar[41928]=`<b>εὐ·δράνεια, ας (ἡ)</b> <font color="purple">[ᾰν]</font> vigueur du corps activité, énergie, SPT. <i>Sap. 13, 19</i>.<p><b>Étym</b>. εὖ, δραίνω.`

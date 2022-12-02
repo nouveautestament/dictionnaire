@@ -1,0 +1,1 @@
+lar[49690]=`<b>ἰσομοιρέω-ῶ</b> <font color="purple">[ῑ̆]</font> avoir une part égale, XÉN. <i>Cyr. 2, 2, 17</i> ; πρός τινα, THC. <i>6, 16</i> ; ISOCR. <i>90a</i>, à celle de qqn ; τινος, DÉM. <i>1172, 27,</i> avoir une part égale de qqe ch.<p><b>Étym</b>. ἰσόμοιρος.`

@@ -1,0 +1,1 @@
+lar[110063]=`<b>ψωρο·ειδής, ής, ές</b>, qui ressemble à la gale, de la nature de la gale, DIOSC. <i>1, 12</i> ; ORIB. <i>119 Matthäi</i> ; A. TR. <i>9, p. 550</i>.<p><b>Étym</b>. ψώρα, εἶδος.`

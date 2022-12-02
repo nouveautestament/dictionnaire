@@ -1,0 +1,1 @@
+lar[3999]=`<b>ἀ·κώλιστος, ος, ον</b>, non divisé en plusieurs membres, DH. <i>Comp. p. 172, 2</i>.<p><b>Étym</b>. ἀ, κῶλον.`

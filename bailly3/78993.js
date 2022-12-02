@@ -1,0 +1,1 @@
+lar[78993]=`<i>adv</i>., périodiquement. PLUT. <i>M. 893b</i>.`

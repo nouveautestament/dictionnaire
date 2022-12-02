@@ -1,0 +1,1 @@
+lar[1837]=`<b>ου (ὁ)</b> Aétios, <i>rhéteur,</i> ANTH. <i>7, 362</i>.`

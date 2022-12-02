@@ -1,0 +1,1 @@
+lar[340]=`<b>ἀγανο·βλέφαρος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> au doux regard, IBYC. (ATH. <i>564f</i>) ; ANTH. <i>9, 604</i>.<p><b>Étym</b>. ἀγανός, βλέφαρον.`

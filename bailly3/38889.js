@@ -1,0 +1,1 @@
+lar[38889]=`<b>ἐπί·ρρησις, εως (ἡ) :<br>      1</b> incantation magique, LUC. <i>Philops. 31</i>.<br><b>      2</b> blâme, reproche, PLUT. <i>M. 19c</i>.<p><b>Étym</b>. ἐπί, ϝρη- <i>d’où</i> ῥη-, <i>cf</i>. ἐρῶ.`

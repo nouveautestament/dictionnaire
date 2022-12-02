@@ -1,0 +1,1 @@
+lar[51450]=`<b>καμπεσί·γυιος, ος, ον</b> <font color="purple">[σῐ]</font> qui plie les membres ; καμπεσίγυια παίγνια, ORPH. (CLÉM. <i>p. 15</i>) poupées articulées, à membres flexibles.<p><b>Étym</b>. κάμπτω, γυῖον.`

@@ -1,0 +1,1 @@
+lar[19074]=`<b>ου (ὁ)</b> pêcher sauvage, GEOP. <i>10, 13</i>.`

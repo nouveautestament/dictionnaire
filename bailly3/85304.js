@@ -1,0 +1,1 @@
+lar[85304]=`<b>προσ·ασκέω-ῶ :<br>      1</b> exercer en outre, <i>d’où</i> habituer en outre, POL. <i>5, 109, 4</i>.<br><b>      2</b> cultiver, <i>pass</i>. JOS. <i>B.J. 3, 3, 2</i>.`

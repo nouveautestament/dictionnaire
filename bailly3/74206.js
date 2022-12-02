@@ -1,0 +1,1 @@
+lar[74206]=`<b>ᾶνος (ὁ)</b> Péan, <i>surn. d’Apollon,</i> THCR. <i>Epigr. 1, 3, etc</i>.<p><b>Étym</b>. <i>cf</i>. Παιών <i>et</i> Παιήων.`

@@ -1,0 +1,1 @@
+lar[27866]=`<b>ου (ὁ)</b> esclave fugitif, SIB. <i>4, 520 ; d’où</i> mauvais esclave, PD. <i>P. 4, 511 (nomin. sg. dor</i>. δράστας).<p><b>Étym</b>. *διδράσκω.`

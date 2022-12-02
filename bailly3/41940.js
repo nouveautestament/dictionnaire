@@ -1,0 +1,1 @@
+lar[41940]=`<b>εὔ·δωρος, ος, ον</b>, qui donne abondamment, OPP. <i>H. 2, 39</i> ; P. SIL. <i>Ecphr. ag. Soph. 920</i>.<p><b>Étym</b>. εὖ, δῶρον.`

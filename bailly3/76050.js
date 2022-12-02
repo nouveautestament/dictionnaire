@@ -1,0 +1,1 @@
+lar[76050]=`<b>παρα·πηδάω-ῶ :<br>      1</b> sauter par-dessus, <i>fig. acc</i>. ESCHN. <i>81, 28</i>.<br><b>      2</b> sauter sur, XÉN. <i>Cyn. 6, 22</i> ; SEXT. <i>M. 11, 53 ; avec</i> εἰς <i>et l’acc</i>. ATH. <i>522</i>.`

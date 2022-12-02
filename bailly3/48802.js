@@ -1,0 +1,1 @@
+lar[48802]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> supplication, THC. <i>1, 24 ; 3, 67</i> ; PLAT. <i>Ap. 39a ; au plur</i>. PLAT. <i>Conv. 183a ;</i> ἱκ. θεῶν, LYS. <i>194, 21,</i> supplications aux dieux.<p><b>Étym</b>. ἱκετεύω.`

@@ -1,0 +1,1 @@
+lar[93303]=`<b>ος, ον</b>, qui consent <i>ou</i> approuve, <i>dat</i>. PHILIPP. (DÉM. <i>284, 3</i>) ; DS. <i>15, 92 ; avec</i> πρός <i>et l’acc</i>. JOS. <i>A.J. 4, 8, 23</i>.<p><b>Étym</b>. <i>v</i>. συγκαταινέω.`

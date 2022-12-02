@@ -1,0 +1,1 @@
+lar[78965]=`<b>περι·νίσσομαι :<br>      1</b> aller tout autour, circuler, PHOCYL. <i>7</i>.<br><b>      2</b> faire le tour de, accomplir son évolution, s’écouler, <i>en parl. du temps,</i> EUR. <i>Alc. 449</i>.`

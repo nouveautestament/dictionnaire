@@ -1,0 +1,1 @@
+lar[19358]=`<b>ου (ὁ)</b> mesure de 50 setiers <i>ou</i> de 3 amphores, SPT. <i>2Esdr. 7, 22</i> ; NT. <i>Luc. 16, 6 ; cf</i>. βάδος.`

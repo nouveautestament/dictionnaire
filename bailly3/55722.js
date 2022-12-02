@@ -1,0 +1,1 @@
+lar[55722]=`<b>κλαδαρό·ρυγχος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>autre n. de l’oiseau</i> τροχίλος, EL. <i>N.A. 12, 15</i>.<p><b>Étym</b>. κλ. ῥύγχος.`

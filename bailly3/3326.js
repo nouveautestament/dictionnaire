@@ -1,0 +1,1 @@
+lar[3326]=`<b>ἀκεσ·ώδυνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui calme la douleur, PÆTUS (HPC. <i>1279, 2</i>) ; ANTH. <i>9, 815</i>.<p><b>Étym</b>. ἄκος, ὀδύνη.`

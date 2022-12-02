@@ -1,0 +1,1 @@
+lar[71821]=`<b>ὁμωνυμέω-ῶ</b> <font color="purple">[ῠ]</font> porter le même nom que, <i>dat</i>. ATH. <i>491c</i>.<p><b>Étym</b>. ὁμώνυμος.`

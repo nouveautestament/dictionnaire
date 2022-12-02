@@ -1,0 +1,1 @@
+lar[105403]=`<font color="purple">[ῑ]</font> <i>c</i>. φείδομαι, ANTH. <i>15, 25</i>.`

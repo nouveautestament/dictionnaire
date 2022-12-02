@@ -1,0 +1,1 @@
+lar[43856]=`être affecté d’une odeur agréable : ὑπό τινος, SEXT. <i>M. 7, 193,</i> par qqe ch.<p><b>Étym</b>. εὐωδής.`

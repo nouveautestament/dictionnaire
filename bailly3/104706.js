@@ -1,0 +1,1 @@
+lar[104706]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> en forme de lentille, lenticulaire, ÆT. <i>9, 28</i> ; HLD. CHIR. (ORIB. <i>dans Schneider, Eclogæ physicæ t. 1, p. 469).</i><p><b>Étym</b>. *φακόω <i>de</i> φακός.`

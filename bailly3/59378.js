@@ -1,0 +1,1 @@
+lar[59378]=`<b>Λαγαριτανὸς οἶνος (ὁ)</b> vin de Lagaria, <i>v. d’Italie, près de Thurii,</i> STR. <i>263</i>.`

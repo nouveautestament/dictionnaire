@@ -1,0 +1,1 @@
+lar[99622]=`<b>τοξο·χίτων, ωνος (ὁ, ἡ)</b> équipé avec un arc et des flèches, EPICH. (SCH.-IL. <i>19, 1</i>).`

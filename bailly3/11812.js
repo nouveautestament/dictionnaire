@@ -1,0 +1,1 @@
+lar[11812]=`<b>ἀπ·ερυθριάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀπηρυθρίασα, <i>pf</i>. ἀπηρυθρίακα)</font> <font color="purple">[ῠ]</font><br><b>      1</b> ne plus rougir, être impudent, AR. <i>Nub. 1216</i> ; LUC. <i>J. voc. 8</i>.<br><b>      2</b> perdre sa rougeur, LUC. <i>Lex. 4</i>.`

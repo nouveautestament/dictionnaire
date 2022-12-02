@@ -1,0 +1,1 @@
+lar[18826]=`<b>βαθύ·φυλλος, ος, ον</b> <font color="purple">[ᾰῠφ]</font> au feuillage épais, MOSCH. <i>5, 11</i>.<p><b>Étym</b>. β. φύλλον.`

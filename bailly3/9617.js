@@ -1,0 +1,1 @@
+lar[9617]=`<b>ἀντ·έξειμι</b> <font color="darkgreen">(<i>impf</i>. -εξῄειν)</font> marcher contre, XÉN. <i>Hell. 4, 5, 10</i> ; POL. <i>1, 24, 10, etc</i>.`

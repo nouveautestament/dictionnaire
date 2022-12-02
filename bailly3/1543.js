@@ -1,0 +1,1 @@
+lar[1543]=`<b>άδος</b>, <i>adj. f</i>. de l’Adriatique, DP. <i>92</i>.<p><b>Étym</b>. Ἀδρίας.`

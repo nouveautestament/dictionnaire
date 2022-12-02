@@ -1,0 +1,1 @@
+lar[103707]=`<b>ὑπο·ποίκιλος, ος, ον</b> <font color="purple">[κῐ]</font> qqe peu bigarré, HPC. <i>1194a ;</i> DIOSC. <i>1, 21</i>.<p><b>Étym</b>. ὑ. ποικίλος.`

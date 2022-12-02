@@ -1,0 +1,1 @@
+lar[16851]=`<i>seul. ion</i>. <b>ἀτμενίη, ης (ἡ)</b> servitude, ANTH. <i>9, 764</i> ; MAN. <i>6, 59</i>.<p><b>Étym</b>. ἀτμήν.`

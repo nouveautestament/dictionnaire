@@ -1,0 +1,1 @@
+lar[79122]=`<b>περι·πλευμονικῶς</b>, <i>adv</i>., avec inflammation des poumons, HPC. <i>Coac. 127</i>.`

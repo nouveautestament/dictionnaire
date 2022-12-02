@@ -1,0 +1,1 @@
+lar[64437]=`<b>μέσ·ακτος, ος, ον</b>, situé entre deux rivages, ESCHL. <i>Pers. 889</i>.<p><b>Étym</b>. μέσος, ἀκτή.`

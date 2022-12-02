@@ -1,0 +1,1 @@
+lar[83729]=`<b>προ·αυδάω-ῶ</b> (<i>seul. inf. prés</i>.) déclarer une guerre, AR. <i>Av. 556</i>.`

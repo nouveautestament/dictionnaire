@@ -1,0 +1,1 @@
+lar[47688]=`<b>ας (ἡ)</b> Thria, <i>dème attique de la tribu Onéide,</i> SYN. <i>Ep. 135</i> ; Θρίᾳ, à Thria, CIA. <i>1, 277, 2 (415 av. J.-C.) ; v. Meisterh. p. 115, 3</i>.`

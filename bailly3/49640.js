@@ -1,0 +1,1 @@
+lar[49640]=`<b>ἰσο·θάνατος, ος, ον</b> <font color="purple">[ῑ̆ᾰᾰ]</font> égal <i>ou</i> semblable à la mort, SOPH. <i>fr. 329</i>.<p><b>Étym</b>. ἴ. θάνατος.`

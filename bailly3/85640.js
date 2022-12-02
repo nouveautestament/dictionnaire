@@ -1,0 +1,1 @@
+lar[85640]=`<b>προσ·επαυρίσκομαι</b> <font color="darkgreen">(<i>ao</i>. προσεπηυράμην)</font> jouir en outre de, <i>gén</i>. HPC. <i>509, 22</i>.`

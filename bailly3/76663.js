@@ -1,0 +1,1 @@
+lar[76663]=`<b>παρ·εμβύω</b>, boucher les interstices, bourrer, LUC. <i>H. conscr. 22</i>.`

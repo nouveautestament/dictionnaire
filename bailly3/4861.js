@@ -1,0 +1,1 @@
+lar[4861]=`<b>ου</b> <font color="purple">[μᾰ]</font> <i>adj. m</i>. qui souffre de palpitations, ADAM. <i>Physiogn. 2, 39</i>.<p><b>Étym</b>. ἅλμα¹.`

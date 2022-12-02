@@ -1,0 +1,1 @@
+lar[32575]=`<b>ας (ἡ) :<br>      1</b> légèreté, <i>particul</i>. légèreté d’esprit <i>ou</i> de caractère, frivolité, NT. <i>2Cor. 11, 17</i> ; BAS. <i>3, 1024a Migne</i>.<br><b>      2</b> allégement, ARÉT. <i>Cur. m. diut. 2, 2</i>.<p><b>Étym</b>. ἐλαφρός.`

@@ -1,0 +1,1 @@
+lar[105997]=`<b>φιλο·πευστία, ας (ἡ)</b> <font color="purple">[φῐ]</font> désir <i>ou</i> habitude de questionner, curiosité, PLUT. <i>M. 518c</i>.<p><b>Étym</b>. φιλοπεύστης.`

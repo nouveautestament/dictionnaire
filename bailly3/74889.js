@@ -1,0 +1,1 @@
+lar[74889]=`<b>παν·ατρεκής, ής, ές</b> <font color="purple">[ᾰν]</font> tout à fait véritable, infaillible, ANTH. <i>7, 594 ; neutre adv</i>. πανατρεκές, A.RH. <i>4, 1332,</i> très certainement.<p><b>Étym</b>. π. ἀτρεκής.`

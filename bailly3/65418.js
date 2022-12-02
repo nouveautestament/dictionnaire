@@ -1,0 +1,1 @@
+lar[65418]=`<b>μηλο·φόνος, ος, ον</b>, qui tue des brebis, ESCHL. <i>Ag. 738</i> ; OPP. <i>C. 3, 263</i>.<p><b>Étym</b>. μῆλον¹, πεφνεῖν.`

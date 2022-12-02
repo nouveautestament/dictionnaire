@@ -1,0 +1,1 @@
+lar[250]=`<b>Ἀγαθο·δαιμονιασταί</b> <i>ou</i> <b>Ἀγαθο·δαιμονισταί, ῶν (οἱ)</b> <font color="purple">[ᾰᾰ]</font> <i>litt</i>. « dévots au bon génie », <i>càd</i>. petits buveurs, <i>parce qu’ils ne faisaient que goûter au vin qui était consacré au dieu,</i> ARSTT. <i>Eud. 3, 6</i>.<p><b>Étym</b>. ἀγ. δαίμων.`

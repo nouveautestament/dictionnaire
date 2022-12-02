@@ -1,0 +1,1 @@
+lar[38772]=`<b>ἐπι·πομπεύω</b>, triompher sur, triompher de, <i>dat</i>. PLUT. <i>Cæs. 56</i>.`

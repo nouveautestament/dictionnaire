@@ -1,0 +1,1 @@
+lar[104713]=`<b>ου (ὁ)</b> <font color="purple">[φᾰῑ]</font><br><b>      1</b> soldat d’une phalange ; <i>à Rome,</i> légionnaire, POL. <i>4, 12, 12</i> ; DS. <i>18, 2</i> ; DH. <i>4, 18</i>.<br><b>      2</b> <i>c</i>. φαλαγγίον 2, GAL. <i>13, 239 ; cf</i>. φαλαγγίτιον.<p><b>Étym</b>. φάλαγξ.`

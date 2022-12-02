@@ -1,0 +1,1 @@
+lar[25507]=`<b>ή, όν</b> <font color="purple">[σᾰ]</font> propre à éclaircir, à expliquer, DYSC. <i>Conj. 487, 31</i>.<p><b>Étym</b>. διασαφέω.`

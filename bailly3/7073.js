@@ -1,0 +1,1 @@
+lar[7073]=`<b>ἀν·αλδής, ής, ές :<br>      1</b> qui ne croît pas, qui reste petit, ARAT. <i>394, ou</i> chétif, AR. <i>Vesp. 1045</i>.<br><b>      2</b> qui arrête la croissance, ARAT. <i>333</i>.<p><b>Étym</b>. ἀν-, ἀλδαίνω.`

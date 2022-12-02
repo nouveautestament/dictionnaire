@@ -1,0 +1,1 @@
+lar[79332]=`<b>περισσό·νοος-ους, οος-ους, οον-ουν</b>, doué d’un esprit supérieur, d’une prudence remarquable, OPP. <i>H. 3, 12</i> ; NONN. <i>D. 5, 222</i>.<p><b>Étym</b>. π. νόος.`

@@ -1,0 +1,1 @@
+lar[90742]=`<b>ος, ον</b>, de Skelmis, CALL. <i>fr. 105</i>.<p><b>Étym</b>. Σκέλμις.`

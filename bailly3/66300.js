@@ -1,0 +1,1 @@
+lar[66300]=`<b>ή, όν</b>, qui marque des degrés, PTOL. <i>Tetr. 109</i>.<p><b>Étym</b>. μοῖρα.`

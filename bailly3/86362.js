@@ -1,0 +1,1 @@
+lar[86362]=`<b>εως (ἡ)</b> action de se heurter contre, <i>gén</i>. DH. <i>1, 201 Reiske</i>.<p><b>Étym</b>. προσπταίω.`

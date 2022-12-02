@@ -1,0 +1,1 @@
+lar[68563]=`<b>νηο·φόρος, ος, ον</b>, qui porte des navires, ANTH. <i>10, 16, 8</i>.<p><b>Étym</b>. ν. φέρω.`

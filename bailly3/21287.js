@@ -1,0 +1,1 @@
+lar[21287]=`<b>ή, όν</b> = <i>lat</i>. Gallicus, de Gaule, des Gaulois, gaulois, PTOL. <i>2, 10, 2, etc.</i> ; DC. <i>79, 7</i>.<p><b>Étym</b>. <i>Cf</i>. Γαλατικός, <i>plus us. en ce sens</i>.`

@@ -1,0 +1,1 @@
+lar[22107]=`<font color="darkgreen">(<i>sbj. ao. 3 sg</i>. γλισχρανθῇ)</font> devenir gluant <i>ou</i> visqueux, HPC. <i>Art. 822e</i>.<p><b>Étym</b>. γλίσχρος.`

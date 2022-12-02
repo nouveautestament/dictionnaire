@@ -1,0 +1,1 @@
+lar[71335]=`<b>ὀμβρέω-ῶ :<br>   I <i>intr.</i></b> pleuvoir, HÉS. <i>O. 413</i> ; A.RH. <i>3, 1399</i> ; LYC. <i>79</i>.<br><b>   II <i>tr</i>.<br>      1</b> laisser couler, faire couler, PHIL. <i>1, 402, etc.</i> ; NONN. <i>D. 2, 33</i>.<br><b>      2</b> mouiller, humecter : τι δακρύοις, ANTH. <i>7, 340,</i> qqe ch. de ses larmes.<p><b>Étym</b>. ὄμβρος.`

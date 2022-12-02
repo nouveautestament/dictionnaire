@@ -1,0 +1,1 @@
+lar[29009]=`<b>εως (ἡ)</b> mécontentement, ennui, PLOT. <i>Enn. 1, 164 Creuz</i>.<p><b>Étym</b>. δυσχεραίνω.`

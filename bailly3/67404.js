@@ -1,0 +1,1 @@
+lar[67404]=`<b>μυσ·αχθής, ής, ές</b> <font color="purple">[ῠ]</font> odieux, exécrable, NIC. <i>Th. 361</i> ; ANTH. <i>9, 253</i>.<p><b>Étym</b>. μύσος, ἄχθος.`

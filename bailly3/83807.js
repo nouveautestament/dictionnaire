@@ -1,0 +1,1 @@
+lar[83807]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la construction des fortifications : ἡ προβληματουργική (<i>s.-e</i>. τέχνη) l’art de construire des machines de défense, PLAT. <i>Pol. 280d</i>.<p><b>Étym</b>. πρόβλημα, ἔργον.`

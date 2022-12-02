@@ -1,0 +1,1 @@
+lar[39210]=`<b>ἐπι·συκοφαντέω-ῶ</b> <font color="purple">[ῡ]</font> calomnier encore, <i>acc</i>. HYPÉR. (POLL. <i>8, 31</i>) ; PLUT. <i>Ant. 21</i>.`

@@ -1,0 +1,1 @@
+lar[70838]=`<b>ὀκτα·κότυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> de huit cotyles, ATH. <i>180a</i>.<p><b>Étym</b>. ὀκτώ, κοτύλη.`

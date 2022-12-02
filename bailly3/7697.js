@@ -1,0 +1,1 @@
+lar[7697]=`<b>εως (ἡ)</b> action de déboucher, <i>d’où</i> :<br><b>      1</b> ouverture, TH. <i>C.P. 3, 17, 6 au plur.</i> ; DIOSC. <i>1, 68</i>.<br><b>      2</b> embouchure, estuaire, PLUT. <i>M. 590e.</i><br><b>      3</b> <i>fig</i>. action d’ouvrir l’appétit, ATH. <i>132f</i>.`

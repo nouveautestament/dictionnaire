@@ -1,0 +1,1 @@
+lar[45534]=`<b>ἡμί·πνοος-ους, οος-ους, οον-ουν</b>, qui respire à moitié, <i>càd</i>. à demi mort, BATR. <i>255</i>.<p><b>Étym</b>. ἡμι-, πνέω.`

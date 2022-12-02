@@ -1,0 +1,1 @@
+lar[46717]=`<b>θεό·μιμος, ος, ον</b> <font color="purple">[ῑ]</font> qui imite Dieu, DIOTOG. (STOB. <i>Fl. 48, 62).</i><p><b>Étym</b>. θ. μιμέομαι.`

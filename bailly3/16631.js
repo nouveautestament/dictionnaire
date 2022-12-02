@@ -1,0 +1,1 @@
+lar[16631]=`<b>ἀ·σώματος, ος, ον</b> <font color="purple">[μᾰ]</font> sans corps, incorporel, PLAT. <i>Phæd. 85e, etc</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Phys. 4, 1, 5 et 10 ; • Sup</i>. -ώτατος, ARSTT. <i>An. 1, 5, 4</i>.<p><b>Étym</b>. ἀ, σῶμα.`

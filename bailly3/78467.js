@@ -1,0 +1,1 @@
+lar[78467]=`<b>περι·βρίθω</b> <font color="purple">[ῑθ]</font><br><b>      1</b> être très pesant, NIC. <i>Al. 180, Th. 851</i> ; ARAT. <i>1049</i>.<br><b>      2</b> être surchargé de, <i>dat</i>. NIC. <i>Al. 143</i>.`

@@ -1,0 +1,1 @@
+lar[94670]=`<b>σύν·αμα</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., en même temps avec, <i>dat</i>. ARSTT. <i>Plant. 2, 7, 1</i> ; THCR. <i>Idyl. 25, 126 ; abs</i>. ensemble, LUC. <i>Pisc. 51 ; M. cond. 1, Bis acc. 11, Apol. 15, Harm. 3, Tim. 23</i> ; ANTH. <i>7, 9, 3</i>.<p><b>Étym</b>. σ. ἅμα.`

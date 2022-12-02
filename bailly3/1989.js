@@ -1,0 +1,1 @@
+lar[1989]=`<font color="purple">[ρᾰ]</font> <i>adv</i>., sans pouvoir être guéri, PHIL. <i>2, 404</i>.`

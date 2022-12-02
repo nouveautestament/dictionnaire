@@ -1,0 +1,1 @@
+lar[23116]=`<b>ῆνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Damasène, <i>Géant,</i> NONN. <i>D. 25, 453</i>.`

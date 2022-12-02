@@ -1,0 +1,1 @@
+lar[19365]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰῐδ]</font> petite grenouille, rainette, PLUT. <i>M. 984</i>.<p><b>Étym</b>. βάτραχος.`

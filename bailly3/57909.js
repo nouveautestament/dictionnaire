@@ -1,0 +1,1 @@
+lar[57909]=`<b>κριθο·τράγος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui mange de l’orge, AR. <i>Av. 231</i>.<p><b>Étym</b>. κριθή, τρώγω.`

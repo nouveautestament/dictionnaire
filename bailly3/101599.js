@@ -1,0 +1,1 @@
+lar[101599]=`<b>ας (ἡ)</b> action de porter de l’eau, LUC. <i>D. mar. 6, 2</i>.<p><b>Étym</b>. ὑδροφόρος.`

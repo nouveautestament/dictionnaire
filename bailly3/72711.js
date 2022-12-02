@@ -1,0 +1,1 @@
+lar[72711]=`<b>ὀρθό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> dont les cheveux se dressent, <i>ou</i> qui fait dresser les cheveux, ESCHL. <i>Ch. 32</i>.<p><b>Étym</b>. ὀ. θρίξ.`

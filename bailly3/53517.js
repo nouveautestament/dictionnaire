@@ -1,0 +1,1 @@
+lar[53517]=`<b>ος, ον :<br>      1</b> retenu, contenu, SOPH. <i>Ant. 1253</i>.<br><b>      2</b> possédé, inspiré, PAUS. <i>10, 12, 11</i> ; DH. <i>1, 31</i>.<p><b>Étym</b>. κατέχω.`

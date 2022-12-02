@@ -1,0 +1,1 @@
+lar[47635]=`<b>*θράω</b> (<i>seul. inf. ao.1 moy</i>. θρήσασθαι) s’asseoir, être assis, PHILÉT. (ATH. <i>192e</i>).<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

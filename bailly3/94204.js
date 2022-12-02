@@ -1,0 +1,1 @@
+lar[94204]=`<b>συμ·περιποιέω-ῶ</b>, aider à acquérir : τὴν ἀρχήν τινι, POL. <i>3, 49, 9</i> ; DS. <i>11, 81,</i> aider qqn à acquérir le pouvoir.`

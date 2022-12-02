@@ -1,0 +1,1 @@
+lar[48029]=`<b>θυρο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à une porte <i>ou</i> à une fenêtre, GAL. <i>2, 414</i> ; HIPPIATR. <i>140, 18</i>.<p><b>Étym</b>. θύρα, εἶδος.`

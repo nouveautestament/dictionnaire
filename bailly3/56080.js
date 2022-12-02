@@ -1,0 +1,1 @@
+lar[56080]=`<b>ῆρος (ὁ) :<br>      1</b> lit de repos, chaise longue, OD. <i>18, 190</i> ; THCR. <i>Idyl. 2, 86 et 113 ; 24, 43</i>.<br><b>      2</b> bière, cercueil, ANTH. <i>7, 634</i>.<p><b>Étym</b>. κλίνω.`

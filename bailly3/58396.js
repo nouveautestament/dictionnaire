@@ -1,0 +1,1 @@
+lar[58396]=`<b>ου (ὁ)</b> Kyberniskos, <i>h</i>. HDT. <i>7, 98</i>.`

@@ -1,0 +1,1 @@
+lar[77507]=`<b>παχυ·χειλής, ής, ές</b> <font color="purple">[ᾰῠ]</font> aux lèvres épaisses, ARSTT. <i>H.A. 4, 4, 7</i>.<p><b>Étym</b>. π. χεῖλος.`

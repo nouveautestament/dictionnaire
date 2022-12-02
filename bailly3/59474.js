@@ -1,0 +1,1 @@
+lar[59474]=`<b>λαθι·πήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῐ]</font> qui fait oublier la douleur, ORPH. <i>H. 2, 11, conj.p</i>. λυσιπήμων.<p><b>Étym</b>. λ. πῆμα.`

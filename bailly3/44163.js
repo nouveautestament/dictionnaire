@@ -1,0 +1,1 @@
+lar[44163]=`<b>ἐφ·υπνόω-ῶ</b>, s’endormir sur <i>ou</i> près de, ES. <i>173 de Furia</i>.<p><b>Étym</b>. ἐπί, ὑ.`

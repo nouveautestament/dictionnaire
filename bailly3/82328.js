@@ -1,0 +1,1 @@
+lar[82328]=`<b>πολύ·ρραπτος, ος, ον</b>, cousu fortement <i>ou</i> en plusieurs endroits, THCR. <i>Idyl. 25, 265</i>.<p><b>Étym</b>. π. ῥάπτω.`

@@ -1,0 +1,1 @@
+lar[17039]=`<b>ου (ὁ)</b> <i>transcr. du n. rom</i>. Attius, DH. PLUT. <i>etc</i>.`

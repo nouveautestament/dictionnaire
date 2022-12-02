@@ -1,0 +1,1 @@
+lar[33522]=`<b>ή, όν</b>, dans lequel on souffle, NICOM. <i>Harm. 5, 8</i> ; ἐμπνευστὰ ὄργανα, ARSTT. (ATH. <i>174c</i>) instruments à vent.<p><b>Étym</b>. <i>vb. de</i> ἐμπνέω.`

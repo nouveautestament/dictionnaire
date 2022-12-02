@@ -1,0 +1,1 @@
+lar[53127]=`<b>κατα·πολιτεύομαι</b> <font color="purple">[ῑ]</font> attaquer, circonvenir <i>ou</i> vaincre par des moyens politiques, <i>acc</i>. DÉM. <i>442, 21</i> ; PLUT. <i>Lyc. 9, Pomp. 51, Galb. 20</i>.`

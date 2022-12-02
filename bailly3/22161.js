@@ -1,0 +1,1 @@
+lar[22161]=`<b>γλυκυ·ηχής, ής, ές</b> <font color="purple">[ῠῠ]</font> aux doux sons, ANTH. <i>9, 26</i>.<p><b>Étym</b>. γλ. ἦχος.`

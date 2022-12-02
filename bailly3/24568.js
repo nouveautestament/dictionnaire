@@ -1,0 +1,1 @@
+lar[24568]=`<b>δια·δοκιμάζω</b> <font color="purple">[κῐ]</font> distinguer en vérifiant, XÉN. <i>Œc. 19, 16</i>.`

@@ -1,0 +1,1 @@
+lar[8552]=`<b>ἀν·ερίθευτος, ος, ον</b> <font color="purple">[ῑ]</font> qui ne cherche pas querelle, impartial, PHIL. <i>2, 555</i>.<p><b>Étym</b>. ἀν-, ἐριθεύω.`

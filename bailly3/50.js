@@ -1,0 +1,1 @@
+lar[50]=`<b>ἀ·βαρής, ής, ές</b> <font color="purple">[βᾰ]</font><br><b>      1</b> non pesant, léger, ARSTT. <i>Cæl. 1, 8, 16, etc.</i><br><b>      2</b> <i>fig</i>. non désagréable, agréable, NT. <i>2Cor. 11, 9</i>.<p><b>Étym</b>. ἀ, βάρος.`

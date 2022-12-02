@@ -1,0 +1,1 @@
+lar[64750]=`<b>ατος (τὸ)</b> mélange de chaud et de froid, mélange tiède, HPC. <i>945d ;</i> PLUT. <i>M. 951e</i>.<p><b>Étym</b>. μετακεράννυμι.`

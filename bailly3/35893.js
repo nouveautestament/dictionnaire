@@ -1,0 +1,1 @@
+lar[35893]=`<b>οῦ (ὁ)</b> qui dédaigne, PHILOD. π. κακ. <i>24, 6 Sauppe</i>.<p><b>Étym</b>. ἐξευτελίζω.`

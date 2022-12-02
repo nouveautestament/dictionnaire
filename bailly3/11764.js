@@ -1,0 +1,1 @@
+lar[11764]=`<b>ἀ·περιήχητος, ος, ον</b>, non troublé par le bruit d’alentour, NYSS. <i>1, 627, etc</i>.<p><b>Étym</b>. ἀ, περιηχέω.`

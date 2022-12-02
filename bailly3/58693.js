@@ -1,0 +1,1 @@
+lar[58693]=`<b>η, ον</b> <font color="purple">[ῠῑῐ]</font> de cumin, A. TR. <i>1, p. 4</i>.<p><b>Étym</b>. κύμινον.`

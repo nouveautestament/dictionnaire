@@ -1,0 +1,1 @@
+lar[8324]=`<b>ἀνεμο·τρεφής, ής, ές</b>, <i>litt</i>. nourri par le vent, <i>d’où</i> :<br><b>      1</b> soulevé <i>ou</i> grossi par le vent, <i>en parl. de la mer,</i> IL. <i>15, 625</i>.<br><b>      2</b> aguerri par le vent, <i>en parl. d’une branche d’arbre, transformée en bois de lance, et qui a subi les assauts du vent,</i> IL. <i>11, 256</i>.<p><b>Étym</b>. ἄ. τρέφω.`

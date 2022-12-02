@@ -1,0 +1,1 @@
+lar[74843]=`<b>Πάν·ακρα, ων (τὰ)</b> <font color="purple">[πᾰ]</font> Panakres (<i>litt</i>. la montagne tout à fait haute) <i>mt. de Crète,</i> CALL. <i>H. 1, 51</i>.<p><b>Étym</b>. π. ἄκρα.`

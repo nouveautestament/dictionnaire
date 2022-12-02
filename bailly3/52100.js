@@ -1,0 +1,1 @@
+lar[52100]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de prostituée, HIPPON. <i>fr. 74</i>.<p><b>Étym</b>. <i>cf</i>. κασωρεύω.`

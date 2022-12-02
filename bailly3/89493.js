@@ -1,0 +1,1 @@
+lar[89493]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> vieux chêne pourri, CALL. <i>Jov. 22</i> ; NICÆN. (PARTH. <i>11, 2</i>).`

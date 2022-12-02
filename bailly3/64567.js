@@ -1,0 +1,1 @@
+lar[64567]=`<b>μεσό·στενος, ος, ον</b>, étroit <i>ou</i> mince au milieu, <i>en parl. d’une poulie dont la gorge réduit le diamètre de sa section moyenne,</i> APD. POL. <i>18</i>.<p><b>Étym</b>. μ. στενός.`

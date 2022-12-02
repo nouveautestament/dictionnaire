@@ -1,0 +1,1 @@
+lar[82492]=`<b>πολύ·ϋπνος, ος, ον</b>, qui procure un sommeil profond, ORPH. <i>H. 2, 4</i>.<p><b>Étym</b>. π. ὕπνος.`

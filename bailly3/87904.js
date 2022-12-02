@@ -1,0 +1,1 @@
+lar[87904]=`<b>πυρί·στακτος, ος, ον</b> <font color="purple">[ῠ]</font> d’où le feu découle, EUR. <i>Cycl. 298</i>.<p><b>Étym</b>. π. στάζω.`

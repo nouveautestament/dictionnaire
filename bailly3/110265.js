@@ -1,0 +1,1 @@
+lar[110265]=`<b>ὠμό·βρωτος, ος, ον :<br>      1</b> mangé cru, NIC. <i>Al. 428</i>.<br><b>      2</b> qui mange de la chair crue, EUR. <i>Tr. 436, etc</i>.<p><b>Étym</b>. ὠμός, βιβρώσκω.`

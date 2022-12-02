@@ -1,0 +1,1 @@
+lar[10084]=`<b>ἀντι·μεταλαμβάνω</b>, prendre en échange, PLUT. <i>M. 785c ;</i> JOS. <i>A.J. 16, 3, 1</i>.`

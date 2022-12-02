@@ -1,0 +1,1 @@
+lar[59016]=`<b>ιγγος (ἡ)</b> petite vessie, HPC. (GAL. <i>Lex. Hipp. 19, 116).</i><p><b>Étym</b>. κύστις.`

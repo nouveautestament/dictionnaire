@@ -1,0 +1,1 @@
+lar[83946]=`<b>προ·διασκοπέω-ῶ</b>, considérer auparavant, DC. <i>fragm. 77, 2</i>.`

@@ -1,0 +1,1 @@
+lar[22863]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> cercle, rond, POL. <i>29, 11, 5</i> ; PLUT. <i>M. 202f ;</i> SPT. <i>Job 22, 14 ; particul</i>. fosse creusée circulairement pour planter un arbre, TH. <i>C.P. 3, 4, 1</i> ; EL. <i>N.A. 9, 32</i>.`

@@ -1,0 +1,1 @@
+lar[79825]=`<b>οῦ (τὸ)</b> <i>seul. plur</i>. échiquier de 36 cases formé par cinq lignes en longueur et cinq en largeur pour le jeu de trictrac, SOPH. <i>fr. 381 Dind</i>.<p><b>Étym</b>. <i>v</i>. πεντέγραμμον <i>et</i> γραμμή.`

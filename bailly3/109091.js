@@ -1,0 +1,1 @@
+lar[109091]=`<b>χρυσ·άττικος οἶνος (ὁ)</b> vin artificiel qu’on fabriquait en Attique, A. TR. <i>3, 50</i>.<p><b>Étym</b>. χρ. Ἀττικός.`

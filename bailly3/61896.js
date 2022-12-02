@@ -1,0 +1,1 @@
+lar[61896]=`<b>λυκο·πέρσιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> sorte de plante solanée d’Égypte, GAL. <i>13, 106</i>.<p><b>Étym</b>. λύκος, πέρθω.`

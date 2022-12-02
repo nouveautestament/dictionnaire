@@ -1,0 +1,1 @@
+lar[32813]=`<b>ἑλικο·δρόμος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> à la course sinueuse, ORPH. <i>H. 8, 10</i>.<br><b>      2</b> circulaire, EUR. <i>Bacch. 1067 conj</i>.<p><b>Étym</b>. ἐ. δραμεῖν.`

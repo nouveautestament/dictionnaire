@@ -1,0 +1,1 @@
+lar[73938]=`<b>ή, όν</b>, qui concerne la foule, PROCL. <i>Ptol. 3, 18</i>.<p><b>Étym</b>. ὄχλος.`

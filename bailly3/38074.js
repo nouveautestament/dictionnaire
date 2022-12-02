@@ -1,0 +1,1 @@
+lar[38074]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> inondation, THC. <i>3, 89</i> ; TH. <i>fr. 11, 12</i>.<p><b>Étym</b>. ἐπικλύζω.`

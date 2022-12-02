@@ -1,0 +1,1 @@
+lar[107546]=`<b>χαλεπ·ήρης, ης, ες</b> <font color="purple">[ᾰ]</font> fâcheux, pénible, difficile, MIMNERME <i>11, 4</i> (STR. <i>47).</i><p><b>Étym</b>. χαλεπός, *ἄρω.`

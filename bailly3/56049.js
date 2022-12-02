@@ -1,0 +1,1 @@
+lar[56049]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰῐδ]</font> <i>c</i>. κλιμάκιον, AMIPS. <i>fr. 12</i>.`

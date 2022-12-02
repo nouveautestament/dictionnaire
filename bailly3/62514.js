@@ -1,0 +1,1 @@
+lar[62514]=`<b>μακροθυμέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> avoir de la longanimité : ἐπί τινι, NT. <i>Matth. 18, 26 ; Luc. 18, 7,</i> à l’égard de qqn.<br><b>      2</b> être persévérant, PLUT. <i>M. 593f</i>.<p><b>Étym</b>. μακρόθυμος.`

@@ -1,0 +1,1 @@
+lar[102528]=`<b>ὑπερ·θερμαίνω</b>, échauffer trop, HPC. <i>446, 36 ; 447, 4 ; au pass</i>. ARSTT. <i>Probl. 1, 12, 2</i> ; PLUT. <i>M. 911b</i>.`

@@ -1,0 +1,1 @@
+lar[40767]=`<b>ῶν (αἱ)</b> Érythres :<br><b>      1</b> <i>v. de Béotie,</i> IL. <i>2, 499</i> ; HDT. <i>9, 15 et 19</i>.<br><b>      2</b> <i>v. d’Ionie, colonie de la préc</i>. HDT. <i>1, 142</i> ; THC. <i>8, 24</i> ; ARSTT. <i>Pol. 5, 6</i>.<p><b>Étym</b>. ἐρυθρός.`

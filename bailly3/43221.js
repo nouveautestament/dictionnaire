@@ -1,0 +1,1 @@
+lar[43221]=`<b>ἐϋ·ρραφής, ής, ές</b> <font color="purple">[ᾰ]</font> bien cousu, bien attaché, OD. <i>2, 354, 380</i> ; DP. <i>940</i> ; ANTH. <i>6, 233</i>.<p><b>Étym</b>. εὖ, ῥάπτω.`

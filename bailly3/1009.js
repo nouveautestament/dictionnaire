@@ -1,0 +1,1 @@
+lar[1009]=`<b>ας (ἡ)</b> <font color="purple">[νᾰ]</font> défaut d’exercice, oisiveté, AR. <i>Ran. 1088</i> ; ARSTT. <i>Nic. 3, 5, 15</i>.<p><b>Étym</b>. ἀγύμναστος.`

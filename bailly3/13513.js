@@ -1,0 +1,1 @@
+lar[13513]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱγ]</font><br><b>      1</b> impression d’un sceau, seing, ATH. <i>585d.</i><br><b>      2</b> signe imprimé sur, signe, SPT. <i>Jer. 22, 24</i>.<p><b>Étym</b>. ἀποσφραγίζω.`

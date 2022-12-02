@@ -1,0 +1,1 @@
+lar[88727]=`<b>Ῥοδ·ῶπις (ἡ)</b> Rhodôpis, <i>f</i>. HDT. <i>2, 134, 135</i> ; PLUT. <i>Pyth. or. 14, etc</i>.<p><b>Étym</b>. <i>v</i>. ῥοδῶπις.`

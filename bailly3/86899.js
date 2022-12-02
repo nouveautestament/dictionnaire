@@ -1,0 +1,1 @@
+lar[86899]=`<b>προ·ϋποφαίνω</b>, faire entrevoir auparavant, PLUT. <i>M. 583b</i>.`

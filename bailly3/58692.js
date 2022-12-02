@@ -1,0 +1,1 @@
+lar[58692]=`<font color="purple">[ῠῑ]</font> saupoudrer de cumin, LUC. <i>Alex. 25</i>.<p><b>Étym</b>. κύμινον.`

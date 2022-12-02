@@ -1,0 +1,1 @@
+lar[46206]=`<b>θαλέω-ῶ</b> <font color="purple">[ᾱ]</font> <i>v</i>. θηλέω.`

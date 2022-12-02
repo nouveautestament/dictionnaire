@@ -1,0 +1,1 @@
+lar[16429]=`<b>ἀ·σύζυγος, ος, ον</b> <font color="purple">[ῠγ]</font> <i>c</i>. ἀσυζυγής DYSC. <i>Synt. 100</i>.`

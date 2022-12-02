@@ -1,0 +1,1 @@
+lar[99666]=`<b>ου (τὸ)</b> petit bouton, PHIL. BYZ. <i>Bel. p. 75d</i>.<p><b>Étym</b>. <i>dim. de</i> τόρμος.`

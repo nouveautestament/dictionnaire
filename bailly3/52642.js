@@ -1,0 +1,1 @@
+lar[52642]=`<b>ή, όν</b>, propre à abattre, à refouler, <i>p. opp. à</i> ἐπιπολαστικός, ARSTT. <i>Probl. 3, 18, 1</i>.<p><b>Étym</b>. κατακρούω.`

@@ -1,0 +1,1 @@
+lar[39651]=`<b>ἐπι·χαράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[χᾰ]</font><br><b>      1</b> graver sur : βοῦν νομίσμασιν, PLUT. <i>Popl. 11,</i> un bœuf sur des monnaies.<br><b>      2</b> entailler, découper, TH. <i>H.P. 6, 2, 5</i>.`

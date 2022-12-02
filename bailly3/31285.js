@@ -1,0 +1,1 @@
+lar[31285]=`<b>ἐκ·θαμνόομαι-οῦμαι</b> (<i>prés</i>.) se couvrir de rejetons, TH. <i>H.P. 1, 3, 3</i>.<p><b>Étym</b>. ἐκ, θάμνος.`

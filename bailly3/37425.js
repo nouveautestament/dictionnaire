@@ -1,0 +1,1 @@
+lar[37425]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> nuptial, EUM. <i>p. 223</i>.<p><b>Étym</b>. ἐπίγαμος.`

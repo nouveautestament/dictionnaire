@@ -1,0 +1,1 @@
+lar[30152]=`<b>ἐθελό·κακος, ος, ον</b> <font color="purple">[ᾰ]</font> volontairement méchant, DH. <i>3, 1755 Reiske</i> ; ŒNOM. (EUS. <i>3, 369c Migne).</i><p><b>Étym</b>. ἐθέλω, κακός.`

@@ -1,0 +1,1 @@
+lar[54607]=`<b>κελαινό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, à l’esprit sombre, à l’âme noire, impénétrable, ESCHL. <i>Eum. 459</i>.<p><b>Étym</b>. κ. φρήν.`

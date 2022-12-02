@@ -1,0 +1,1 @@
+lar[11288]=`<b>ἁπαξ·απλῶς</b>, <i>adv</i>., tout d’une fois, en général, en un mot, LUC. <i>Per. 3</i> ; SEXT. <i>M. 7, 20, etc</i>.<p><b>Étym</b>. ἄ. ἁπλῶς.`

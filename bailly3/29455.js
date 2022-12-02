@@ -1,0 +1,1 @@
+lar[29455]=`<b>οῦ (ὁ)</b> hésitation <i>ou</i> halte de la parole avant certains sons, DH. <i>Dem. 43</i>.<p><b>Étym</b>. *ἐγκαθίζω, <i>de</i> ἐν, κ.`

@@ -1,0 +1,1 @@
+lar[14762]=`<b>(ὁ)</b> <font color="purple">[ᾰφῐ]</font> Aristophilidas, <i>h</i>. HDT. <i>3, 136</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀριστόφιλος.`

@@ -1,0 +1,1 @@
+lar[77947]=`(<i>part. prés</i>. πενιχρόμενος) être pauvre, SIB. <i>3, 245</i>.`

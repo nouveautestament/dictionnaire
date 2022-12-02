@@ -1,0 +1,1 @@
+lar[103962]=`<i>adv</i>., au subjonctif, DYSC. <i>Synt. 226</i>.`

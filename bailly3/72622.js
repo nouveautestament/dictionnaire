@@ -1,0 +1,1 @@
+lar[72622]=`<b>ου (ὁ)</b> Oréxartès, <i>fl. de Parthiène,</i> PLUT. <i>Alex. 45</i>.`

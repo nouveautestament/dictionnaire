@@ -1,0 +1,1 @@
+lar[24136]=`<b>ου (ὁ)</b> qui mord, mordant, A. PL. <i>266 ; fig</i>. PLUT. <i>M. 55b</i>.<p>➳ <i>Dat. dor. avec un subst. neutre</i> δήκτᾳ στόματι, A. PL. <i>l. c</i>.<p><b>Étym</b>. δάκνω.`

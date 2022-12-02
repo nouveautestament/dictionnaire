@@ -1,0 +1,1 @@
+lar[72401]=`<b>ὁποσοσ·οῦν, ηοῦν, ονοῦν</b>, quelque grand <i>ou</i> nombreux que (il, elle <i>ou</i> cela) soit, n’importe combien, THC. <i>4, 37, etc.</i> ; PLAT. <i>Soph. 245c</i>.<p>➳ <i>Dat. pl. ion</i>. ὁκοσῃσιῶν, HDT. <i>5, 20</i>.<p><b>Étym</b>. ὁπόσος, οὖν.`

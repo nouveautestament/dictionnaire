@@ -1,0 +1,1 @@
+lar[30605]=`<b>εως (ἡ)</b> pacification, CLÉM. <i>Str. 4, 6, 40</i>.<p><b>Étym</b>. εἰρηνοποιέω.`

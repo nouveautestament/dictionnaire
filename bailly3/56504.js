@@ -1,0 +1,1 @@
+lar[56504]=`<b>ατος (τὸ)</b> relations intimes, PLUT. <i>M. 338a</i>.<p><b>Étym</b>. κοινόω.`

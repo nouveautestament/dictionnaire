@@ -1,0 +1,1 @@
+lar[51816]=`<b>ου</b> <font color="purple">[ῐῑ]</font> <i>adj. m</i>. de la famille de Karkinos, AR. <i>Vesp. 1505</i>.`

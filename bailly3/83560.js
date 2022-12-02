@@ -1,0 +1,1 @@
+lar[83560]=`<b>προ·αναλογία, ας (ἡ)</b> analogie antérieure, DAMASC.<p><b>Étym</b>. <i>Wolf, Anecd. 3, 235</i>.`

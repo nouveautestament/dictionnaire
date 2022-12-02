@@ -1,0 +1,1 @@
+lar[77793]=`<b>πελιδνόω-ῶ</b>, rendre livide, <i>au pass</i>. devenir <i>ou</i> être livide, HPC. <i>Art. 840</i> ; ARSTT. <i>Probl. 8, 1</i>.<p><b>Étym</b>. πελιδνός.`

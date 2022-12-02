@@ -1,0 +1,1 @@
+lar[108236]=`<b>χελύ·κλονος, ος, ον</b>, à l’écaille retentissante, <i>ép. d’une lyre,</i> ORPH. <i>Arg. 381</i>.<p><b>Étym</b>. χέλυς, κλονέω.`

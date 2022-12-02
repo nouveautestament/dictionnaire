@@ -1,0 +1,1 @@
+lar[8958]=`<b>ἀνθρωπο·λάτρης, ου (ὁ)</b> adorateur d’un homme, <i>particul</i>. hérétique qui niait la divinité de Jésus-Christ, NAZ. <i>3, 185, 467 Migne</i>.<p><b>Étym</b>. ἄ. λατρεύω.`

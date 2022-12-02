@@ -1,0 +1,1 @@
+lar[64323]=`<b>οῦς (ἡ)</b> Ménestô, <i>Océanide,</i> HÉS. <i>Th. 357</i>.`

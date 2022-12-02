@@ -1,0 +1,1 @@
+lar[31082]=`<b>ἐκ·βεβαιόω-ῶ, <i>seul. moy</i>. ἐκβεβαιόομαι-οῦμαι</b>, affermir, PLUT. <i>Ages. 19, Pomp. 19 et 41, etc</i>.`

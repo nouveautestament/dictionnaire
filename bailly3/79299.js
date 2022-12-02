@@ -1,0 +1,1 @@
+lar[79299]=`(<i>seul. part. prés</i>. περισπερχέων) être fort agité, très ému de, <i>dat</i>. HDT. <i>7, 207</i>.<p><b>Étym</b>. περισπερχής.`

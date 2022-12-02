@@ -1,0 +1,1 @@
+lar[110563]=`<b>ὠτο·ειδής, ής, ές</b>, semblable à une oreille, RUF. <i>59</i>.<p><b>Étym</b>. οὖς, εἶδος.`

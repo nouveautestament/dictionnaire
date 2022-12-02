@@ -1,0 +1,1 @@
+lar[109665]=`<b>ψευδ·ισόδομος, ος, ον</b>, construit de manière à simuler des assises de pierre égales, VITR. <i>2, 8</i>.`

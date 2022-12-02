@@ -1,0 +1,1 @@
+lar[69354]=`être nonchalant, AQU. <i>Prov. 18, 9 ; 24, 10 ; Hab. 2, 10</i>.<p><b>Étym</b>. νωχελής.`

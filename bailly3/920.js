@@ -1,0 +1,1 @@
+lar[920]=`<b>ἀγριο·ποιός, ός, όν</b>, qui crée des caractères farouches, <i>en parl. d’Eschyle,</i> AR. <i>Ran. 837</i>.<p><b>Étym</b>. ἄγρ. ποιέω.`

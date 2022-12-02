@@ -1,0 +1,1 @@
+lar[69442]=`<i>adv.</i> :<br><b>      1</b> comme un étranger, PLAT. <i>Crat. 407b.</i><br><b>      2</b> d’une façon hospitalière, ATH. <i>536c</i>.`

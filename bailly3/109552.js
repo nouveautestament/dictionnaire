@@ -1,0 +1,1 @@
+lar[109552]=`<b>ῖδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>sorte de poisson de mer, d’ord. appelé</i> ὗς, NUMÉN. (ATH. <i>327a</i>).<p><b>Étym</b>. ψάμαθος.`

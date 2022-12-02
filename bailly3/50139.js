@@ -1,0 +1,1 @@
+lar[50139]=`<i>gén</i>. <b>Ἴωνος (ὁ)</b> Iôn (Ion) :<br><b>      1</b> <i>personn. myth., souche des Ioniens,</i> HDT. <i>5, 66, etc.</i><br><b>      2</b> <i>poète tragique de Chio,</i> PLUT. <i>Thes. 20, etc.</i><br><b>      3</b> <i>rhapsode d’Éphèse,</i> PLAT. <i>Ion 530, etc.</i><br><b>      4</b> <i>autres,</i> THC. <i>8, 38</i> ; PLUT. <i>Æmil. 26, etc</i>.`

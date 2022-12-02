@@ -1,0 +1,1 @@
+lar[28212]=`<b>δυσ·απόδεικτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à démontrer, PLAT. <i>Rsp. 487e</i>.<p><b>Étym</b>. δ. ἀποδείκνυμι.`

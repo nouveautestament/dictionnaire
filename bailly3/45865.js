@@ -1,0 +1,1 @@
+lar[45865]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> = <i>lat</i>. Erĭdănus, l’Éridan :<br><b>      1</b> <i>fl. descendant des monts Rhipées,</i> HÉS. <i>Th. 338</i> ; HDT. <i>3, 115 ; confondu postér. avec le Pô,</i> EUR. <i>Hipp. 737</i> ; POL. <i>2, 16, 6</i> ; STR. <i>215</i>.<br><b>      2</b> <i>fl. d’Attique,</i> STR. <i>397</i> ; PAUS. <i>1, 19, 5</i>.`

@@ -1,0 +1,1 @@
+lar[37122]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> élaboration, PTOL. <i>Tetr. 117</i> ; CLÉM. <i>2, 404 Migne</i>.<p><b>Étym</b>. ἐπεξεργάζομαι.`

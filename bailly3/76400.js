@@ -1,0 +1,1 @@
+lar[76400]=`<b>παρα·φθαδόν</b> <font color="purple">[ᾰδ]</font> <i>adv</i>., en devançant : ἀλλήλων, OPP. <i>H. 3, 298,</i> à l’envi les uns des autres.<p><b>Étym</b>. παραφθάνω, -δον.`

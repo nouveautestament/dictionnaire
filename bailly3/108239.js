@@ -1,0 +1,1 @@
+lar[108239]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> lèvre, AR. <i>Vesp. 1083</i>.<br><b>      2</b> mâchoire, EL. <i>N.A. 16, 12</i>.<br><b>      3</b> <i>éol. c</i>. χελώνη, SAPPH. (ORION <i>p. 87, 31).</i><p><b>Étym</b>. χέλυς.`

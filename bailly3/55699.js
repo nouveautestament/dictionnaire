@@ -1,0 +1,1 @@
+lar[55699]=`<b>ων (τὰ)</b> <font color="purple">[ῑ]</font> <i>c</i>. κίχορα AR. <i>fr. 281 Dind</i>.`

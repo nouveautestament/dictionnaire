@@ -1,0 +1,1 @@
+lar[110398]=`<b>ου (ὁ)</b> = <i>lat</i>. Horatius, <i>n. d’h. rom</i>. PLUT. <i>Popl. 12, 14, 15 ; Fort. Rom. 3 ; au plur</i>. Ὡράτιοι, PLUT. <i>Parall. min. 16,</i> les Horaces.`

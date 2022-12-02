@@ -1,0 +1,1 @@
+lar[35499]=`<b>ἐξ·ανθρακόω-ῶ</b> <font color="purple">[ᾰκ]</font> réduire complètement en charbons, ION <i>fr. 28, p. 571 Nauck</i>.<p><b>Étym</b>. ἐξ, ἄνθραξ.`

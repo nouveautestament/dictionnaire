@@ -1,0 +1,1 @@
+lar[80004]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> glaçon, glace, HÉS. <i>O. 503</i>.<p><b>Étym</b>. πήγνυμι.`

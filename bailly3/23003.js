@@ -1,0 +1,1 @@
+lar[23003]=`<font color="purple">[τᾰ]</font> (<i>seul. part. prés</i>. δαιταλωμένους) se repaître de, manger, <i>acc</i>. LYC. <i>654</i>.<p><b>Étym</b>. δαιταλεύς.`

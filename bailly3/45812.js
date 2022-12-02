@@ -1,0 +1,1 @@
+lar[45812]=`<b>ή, όν :<br>      1</b> d’Hèraklès, ATH. <i>500a.</i><br><b>      2</b> d’Hèrakleia, <i>en Bithynie, en parl. d’animaux, de choses (crabes, noix, etc</i>.) ARSTT. <i>H.A. 4, 2, 3 ; P.A. 4, 8</i> ; TH. <i>H.P. 1, 10, 6, etc</i>.<p><b>Étym</b>. Ἡρακλεώτης.`

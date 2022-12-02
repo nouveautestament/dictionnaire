@@ -1,0 +1,1 @@
+lar[50186]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de Kabèsos, <i>v. sur l’Hellespont,</i> IL. <i>13, 363</i>.`

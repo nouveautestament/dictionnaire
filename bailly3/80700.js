@@ -1,0 +1,1 @@
+lar[80700]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>propr</i>. claquette, pétale du pavot, du coquelicot <i>ou</i> de l’anémone, qu’on faisait claquer entre ses doigts pour savoir si l’on était aimé, THCR. <i>Idyl. 11, 57</i> ; NIC. (ATH. <i>683f</i>) ; JOS. <i>A.J. 3, 7, 6</i>.<p><b>Étym</b>. πλαταγή.`

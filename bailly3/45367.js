@@ -1,0 +1,1 @@
+lar[45367]=`<b>οῦ (ὁ)</b> le purificateur, <i>ép. d’Hèraklès, qui avait purgé la terre de divers monstres,</i> M. TYR. <i>3, 7</i>.<p><b>Étym</b>. ἡμερόω.`

@@ -1,0 +1,1 @@
+lar[55599]=`<b>ου (ὁ)</b> ciste, <i>arbrisseau,</i> TH. <i>H.P. 6, 1, 4</i> ; EUP. (PLUT. <i>M. 662e</i>).<p><b>Étym</b>. <i>cf</i>. κίστος.`

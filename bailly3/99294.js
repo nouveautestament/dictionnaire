@@ -1,0 +1,1 @@
+lar[99294]=`<i>(seul. prés.) c</i>. τίνυμι PLUT. <i>Brut. 33</i>.`

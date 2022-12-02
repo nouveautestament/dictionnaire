@@ -1,0 +1,1 @@
+lar[73998]=`<b>ὀψι·γαμίου γραφή</b> <i>ou</i> <b>ὀψι·γαμίου δίκη (ἡ)</b> <font color="purple">[ῐᾰ]</font> action judiciaire pour mariage contracté après l’âge légal, ARISTON (STOB. <i>Fl. 67, 16</i>) ; PLUT. <i>Lys. fin</i>.<p><b>Étym</b>. ὀψέ, γαμέω.`

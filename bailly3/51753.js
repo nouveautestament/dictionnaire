@@ -1,0 +1,1 @@
+lar[51753]=`<b>καρδιο·ειδής, ής, ές</b>, en forme de cœur, HERMIAS <i>Phædr. p. 199</i>.<p><b>Étym</b>. κ. εἶδος.`

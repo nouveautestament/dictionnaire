@@ -1,0 +1,1 @@
+lar[77140]=`<b>ατος (τὸ)</b> mets friand ; <i>fig</i>. assaisonnement, agrément, ESCHL. <i>Ag. 1447</i>.<p><b>Étym</b>. παροψωνέω.`

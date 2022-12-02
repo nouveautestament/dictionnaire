@@ -1,0 +1,1 @@
+lar[15843]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> d’Asie, asiatique, STR. <i>723</i> ; ANTH. <i>11, 147</i> ; ATH. <i>etc</i>.<p><b>Étym</b>. Ἀσία.`

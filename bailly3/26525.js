@@ -1,0 +1,1 @@
+lar[26525]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> faculté de se terminer par une syllabe brève <i>ou</i> longue, M. VICT. <i>6-1, p. 62, 12, 16 Gramm. lat. Keil</i>.<p><b>Étym</b>. δικατάληκτος.`

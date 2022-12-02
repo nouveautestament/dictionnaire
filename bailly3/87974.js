@@ -1,0 +1,1 @@
+lar[87974]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Pyrrhasidès, <i>litt</i>. fils de Pyrrhasos, Q. SM. <i>2, 247</i>.`

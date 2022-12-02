@@ -1,0 +1,1 @@
+lar[78603]=`<b>ής, ές</b>, qui entoure, PHILSTR. <i>822</i>.<p><b>Étym</b>. περιέχω.`

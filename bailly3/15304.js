@@ -1,0 +1,1 @@
+lar[15304]=`<b>ατος (τὸ)</b> objet suspendu :<br><b>      1</b> pendant d’oreille, HDT. <i>2, 69</i>.<br><b>      2</b> poids, charge, ARSTT. <i>Mech. 18, 1 ; 20, 1</i> ; STR. <i>11</i> ; PLUT. <i>M. 591d, etc</i>.<p><b>Étym</b>. ἀρτάω.`

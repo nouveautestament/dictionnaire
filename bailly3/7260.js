@@ -1,0 +1,1 @@
+lar[7260]=`<b>ἀν·ανταγώνιστος, ος, ον</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> sans combat, THC. <i>4, 92</i> ; ἀν. εὔνοια, THC. <i>2, 45,</i> bienveillance qui ne provoque pas de contradiction.<br><b>      2</b> irrésistible, à qui l’on ne peut opposer de résistance, PLUT. <i>Phoc. 14</i>.<p><b>Étym</b>. ἀν-, ἀνταγωνίζομαι.`

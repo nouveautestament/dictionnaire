@@ -1,0 +1,1 @@
+lar[103888]=`<b>ὑπο·στερνίζομαι</b>, placer sous sa poitrine, PLUT. <i>M. 324f</i>.<p><b>Étym</b>. ὑ. στέρνον.`

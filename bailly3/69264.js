@@ -1,0 +1,1 @@
+lar[69264]=`<i>adv</i>., en baissant la tête comme pour s’assoupir, GAL. <i>Lex. Hipp. 19, 91 v°</i> γλοιάζειν.<p><b>Étym</b>. νυστάζω.`

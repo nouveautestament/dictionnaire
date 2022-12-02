@@ -1,0 +1,1 @@
+lar[99193]=`<b>ους</b>, <i>poét</i>. <b>εος (ὁ)</b> <font color="purple">[ῑᾰ]</font> Timarès, <i>h</i>. ANTH. <i>7, 652</i>.`

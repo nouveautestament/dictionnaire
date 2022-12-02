@@ -1,0 +1,1 @@
+lar[75520]=`<b>παρα·διηγέομαι-οῦμαι</b>, exposer incidemment, <i>acc</i>. ARSTT. <i>Rhet. 3, 16, 5</i> ; DH. <i>Thuc. 13</i>.`

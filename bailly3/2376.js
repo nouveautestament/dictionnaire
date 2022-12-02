@@ -1,0 +1,1 @@
+lar[2376]=`<b>αἰδό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> qui a des sentiments de pitié, SOPH. <i>O.C. 237</i>.<br><b>      2</b> qui a des sentiments de respect, EUR. <i>Alc. 659</i>.<p><b>Étym</b>. αἰδώς, φρήν.`

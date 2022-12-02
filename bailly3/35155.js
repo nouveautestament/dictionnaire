@@ -1,0 +1,1 @@
+lar[35155]=`<font color="purple">[ῠ]</font> <i>adv</i>., en s’enveloppant <i>ou</i> en se roulant dans qqe ch. de manière à mouler les formes du corps, IL. <i>24, 163</i> ; A.RH. <i>1, 264 ; 2, 861</i> ; Q. SM. <i>5, 530</i>.<p><b>Étym</b>. ἐν, τύπος.`

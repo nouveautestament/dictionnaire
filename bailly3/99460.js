@@ -1,0 +1,1 @@
+lar[99460]=`<b>   I</b> <i>adv. démonstr. corrél. de</i> πόθεν, ποθέν <i>et</i> ὅθεν :<br><b>      1</b> de là, HÉS. <i>Sc. 32</i> ; ἐκ τόθεν, A.RH. <i>4, 520, m. sign.</i><br><b>      2</b> d’après cela, par suite, ESCHL. <i>Ag. 220</i>.<br><b>   II</b> <i>adv. relat. c</i>. ὅθεν, d’où, ESCHL. <i>Pers. 100</i>.<p><b>Étym</b>. <i>th. démonstr</i>. το-, -θεν.`

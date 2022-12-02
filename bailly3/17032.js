@@ -1,0 +1,1 @@
+lar[17032]=`<b>ωνος (ὁ)</b> <font color="purple">[τῐ]</font> petit Athénien, AR. <i>Pax 214</i>.<p><b>Étym</b>. <i>dim. com. de</i> Ἀττικός.`

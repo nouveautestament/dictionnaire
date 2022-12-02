@@ -1,0 +1,1 @@
+lar[49697]=`<b>ἰσο·νέμητος, ος, ον</b> <font color="purple">[ῑ̆]</font> également réparti, NAZ. <i>2, 105</i>.<p><b>Étym</b>. ἴ. νέμω.`

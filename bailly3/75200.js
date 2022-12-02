@@ -1,0 +1,1 @@
+lar[75200]=`<font color="purple">[τᾰ]</font> <i>adv</i>., de tous côtés, partout, <i>avec mouv</i>. AR. <i>Vesp. 1004</i> ; DÉM. <i>46, 29, etc</i>.<p><b>Étym</b>. π. -χοι.`

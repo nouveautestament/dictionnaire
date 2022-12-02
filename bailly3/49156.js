@@ -1,0 +1,1 @@
+lar[49156]=`<b>ἰο·τυπής, ής, ές</b> <font color="purple">[ῑῠ]</font> percé d’un trait, ANTH. <i>5, 87 ; 9, 265</i>.<p><b>Étym</b>. ἰός¹, τύπτω.`

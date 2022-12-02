@@ -1,0 +1,1 @@
+lar[51488]=`<b>ου (τὸ)</b> Kanastron, <i>promontoire de Thrace,</i> STR. <i>330</i>.`

@@ -1,0 +1,1 @@
+lar[12845]=`<b>ἀπο·λωφέω</b>, <i>ion. c</i>. *ἀπολωφάω-ῶ, faire reposer, calmer, HPC. <i>1280, 58</i>.`

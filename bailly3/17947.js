@@ -1,0 +1,1 @@
+lar[17947]=`<b>ἀφ·ελκόω-ῶ</b>, <i>f</i>. ώσω :<br><b>      1</b> ulcérer ; <i>au pass</i>. s’ulcérer, HPC. <i>1136b ;</i> ARSTT. <i>Probl. 9, 1, 1</i>.<br><b>      2</b> pratiquer une incision (dans le tronc d’un pin, <i>etc</i>.) TH. <i>H.P. 9, 1, 5 ; 9, 2, 1</i>.<p><b>Étym</b>. ἀπό, ἑλκόω.`

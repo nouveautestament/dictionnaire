@@ -1,0 +1,1 @@
+lar[94811]=`<font color="darkgreen">(<i>impf</i>. συνήντεον)</font> <i>v</i>. συναντάω.`

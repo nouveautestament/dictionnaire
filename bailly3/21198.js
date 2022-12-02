@@ -1,0 +1,1 @@
+lar[21198]=`<b>γαλακτο·ειδής, ής, ές</b> <font color="purple">[γᾰ]</font> semblable à du lait, PARMÉN. (STOB. <i>Ecl. 1, 574</i>) ; ARSTT. <i>H.A. 10, 1, 16</i> ; PLUT. <i>M. 892f</i>.<p><b>Étym</b>. γ. εἶδος.`

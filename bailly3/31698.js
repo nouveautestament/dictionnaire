@@ -1,0 +1,1 @@
+lar[31698]=`<b>ἐκ·μυθόω-ῶ</b> <font color="purple">[ῡ]</font> arranger en forme de fable, PHILSTR. <i>767</i>.`

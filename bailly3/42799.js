@@ -1,0 +1,1 @@
+lar[42799]=`<b>ου</b>, <i>adj. m</i>. semblable à un eunuque, <i>d’où</i> impuissant, stérile, HPC. <i>Aër. 294</i> ; ARSTT. <i>G.A. 2, 7, 15 ; en parl. de fruits,</i> PLAT. COM. <i>2-2, 636, 1, 4 Mein. ; d’une tige,</i> TH. <i>H.P. 4, 11, 4</i>.<p><b>Étym</b>. εὐνοῦχος.`

@@ -1,0 +1,1 @@
+lar[2018]=`<b>ἄ·θηλυς, υς, υ</b>, <i>gén</i>. <b>εος :<br>      1</b> non efféminé, PLUT. <i>M. 285c.</i><br><b>      2</b> non féminin, PLUT. <i>Lyc. c. Num. 3</i>.<p><b>Étym</b>. ἀ, θῆλυς.`

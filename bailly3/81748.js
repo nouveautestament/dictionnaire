@@ -1,0 +1,1 @@
+lar[81748]=`<b>πολυ·βάρβαρος, ος, ον</b> <font color="purple">[ῠᾰρο]</font> tout à fait barbare, SIB. <i>3, 520</i>.`

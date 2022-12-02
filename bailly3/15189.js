@@ -1,0 +1,1 @@
+lar[15189]=`<b>ἀ·ρρύπωτος, ος, ον</b> <font color="purple">[ῠ]</font> non souillé, BAS. <i>4, 132 Migne</i>.<p><b>Étym</b>. ἀ, ῥυπόω.`

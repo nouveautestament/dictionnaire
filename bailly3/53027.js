@@ -1,0 +1,1 @@
+lar[53027]=`<b>καταπελτ·αφέτης</b>, <i>ou mieux</i> <b>καταπαλτ·αφέτης, ου (ὁ)</b> <font color="purple">[ᾰφ]</font> un servant de catapulte, PHIL. BYZ. <i>Bel. p. 82, 13</i>.<p>➳ <i>Dans une inscr. att</i>. καταπαλταφέτης CIA. <i>2, 316, 27 (281 av. J.-C.) v. Meisterh. p. 12</i>.<p><b>Étym</b>. καταπέλτης, ἀφίημι.`

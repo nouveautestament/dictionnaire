@@ -1,0 +1,1 @@
+lar[9454]=`<b>ἀντ·αναμένω</b> (<i>seul. part. ao</i>. -αναμείνας) attendre de son côté, THC. <i>3, 12</i>.`

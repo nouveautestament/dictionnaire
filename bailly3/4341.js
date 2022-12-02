@@ -1,0 +1,1 @@
+lar[4341]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀλήθεια, THGN. <i>1224</i>.`

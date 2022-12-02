@@ -1,0 +1,1 @@
+lar[52375]=`<b>κατα·ζευγοτροφέω-ῶ</b>, entretenir des attelages de luxe, IS. <i>55, 23</i>.`

@@ -1,0 +1,1 @@
+lar[36312]=`<b>εως (ἡ)</b> expulsion (d’une articulation), <i>d’où</i> luxation, HPC. <i>Art. 811</i>.<p><b>Étym</b>. ἐξωθέω.`

@@ -1,0 +1,1 @@
+lar[76256]=`<b>παρα·στορέννυμι</b> <font color="darkgreen">(<i>f</i>. -στορέω, <i>att</i>. -στορῶ)</font> étendre <i>ou</i> abattre auprès, AR. <i>Eq. 481</i>.`

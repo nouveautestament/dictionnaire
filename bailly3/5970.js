@@ -1,0 +1,1 @@
+lar[5970]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> déchirure, THCR. <i>Idyl. 24, 124</i>.<p><b>Étym</b>. ἀμύσσω.`

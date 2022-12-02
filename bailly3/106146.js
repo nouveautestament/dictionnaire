@@ -1,0 +1,1 @@
+lar[106146]=`<b>εως (ἡ)</b> <font color="purple">[ῐτῑ]</font> générosité, libéralité, BAS. <i>3, 491b au plur</i>.<p><b>Étym</b>. φιλοτιμέομαι.`

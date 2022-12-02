@@ -1,0 +1,1 @@
+lar[84215]=`<b>προ·εξυμνέω-ῶ</b>, célébrer auparavant, OLYMPIOD. <i>Plat. 1 Alc. p. 95 Creuz</i>.`

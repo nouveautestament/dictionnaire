@@ -1,0 +1,1 @@
+lar[93904]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> condisciple, PLAT. <i>Euthyd. 272c ;</i> ANAXIPP. (<i>Com. fr. 4, 459).</i><p><b>Étym</b>. συμμανθάνω.`

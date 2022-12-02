@@ -1,0 +1,1 @@
+lar[87271]=`<b>πρωτο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se montre pour la première fois, SYN. <i>Hymn. 3, 135</i>.<p>•<i> Sup</i>. πρωτοφανέστατος, Ps.-JAMBL. <i>Theol. arithm. p. 16</i>.<p><b>Étym</b>. πρ. φαίνω.`

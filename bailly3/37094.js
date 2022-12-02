@@ -1,0 +1,1 @@
+lar[37094]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> addition d’un enthymème à l’appui d’un premier, GR. COR. <i>p. 1147, 25</i> ; BAS. <i>1, 13</i>.<p><b>Étym</b>. ἐπί, ἐνθυμέομαι.`

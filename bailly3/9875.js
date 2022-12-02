@@ -1,0 +1,1 @@
+lar[9875]=`<b>ἀντί·ζηλος, ου (ὁ, ἡ)</b> adversaire, rival, SPT. <i>Lev. 18, 18 ; Sir. 26, 6</i>.<p><b>Étym</b>. ἀ. ζῆλος.`

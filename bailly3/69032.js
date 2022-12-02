@@ -1,0 +1,1 @@
+lar[69032]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> du sud-est, PROCL. <i>Ptol. 2, 3, p. 85, 92</i>.<p><b>Étym</b>. νοταπηλιώτης.`

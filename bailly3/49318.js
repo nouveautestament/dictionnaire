@@ -1,0 +1,1 @@
+lar[49318]=`<b>ἱππο·δίνητος, ος, ον</b> <font color="purple">[δῑ]</font> qui tourbillonne dans un chariot, BACCHYL. <i>5, 2</i>.<p><b>Étym</b>. ἵ. δινέω.`

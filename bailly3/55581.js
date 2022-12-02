@@ -1,0 +1,1 @@
+lar[55581]=`<b>κιρσο·ειδής, ής, ές</b>, de la nature des varices, variqueux, HPC. <i>451</i> ; GAL. <i>4, 565, etc</i>.<p><b>Étym</b>. κιρσός, εἶδος.`

@@ -1,0 +1,1 @@
+lar[61525]=`<b>λογο·μανέω-ῶ</b> <font color="purple">[ᾰ]</font> être passionné pour l’éloquence <i>ou</i> la science, CHION. <i>Ep. 15</i>.<p><b>Étym</b>. λ. μαίνομαι.`

@@ -1,0 +1,1 @@
+lar[45541]=`<b>ος, ον</b> <font color="purple">[ῐῠ]</font> à demi brûlé, ANTH. <i>7, 401</i>.<p><b>Étym</b>. ἡμι-, πυρόω.`

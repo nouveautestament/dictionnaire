@@ -1,0 +1,1 @@
+lar[3164]=`<b>Ἄ·καστος, ου (ὁ)</b> <font color="purple">[ᾰκ]</font> Akastos :<br><b>      1</b> <i>roi de Doulikhion,</i> OD. <i>14, 336</i>.<br><b>      2</b> <i>roi d’Iolkhos,</i> PD. <i>N. 4, 93 ; 5, 55</i> ; EUR. <i>Alc. 732, etc.</i><br><b>      3</b> <i>roi d’Athènes,</i> ARSTT. <i>Ath. 3, 3</i>.<p><b>Étym</b>. ἀ <i>intens.,</i> κέκασμαι.`

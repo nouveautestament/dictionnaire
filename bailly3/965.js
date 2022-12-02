@@ -1,0 +1,1 @@
+lar[965]=`<b>ιδος (ἡ) :<br>      1</b> campagnarde, villageoise, SAPPH. <i>70 (éol</i>. -οϊῶτις).<br><b>      2</b> sauvage (forêt) ANTH. <i>7, 411</i>.`

@@ -1,0 +1,1 @@
+lar[64485]=`<b>*μεσ·ημέριος</b>, <i>dor</i>. <b>μεσ·αμέριος, ος, ον</b> <font color="purple">[ᾱ]</font> de midi ; <i>adv</i>., μεσαμέριον, THCR. <i>Idyl. 7, 21,</i> à midi.<p><b>Étym</b>. μέσος, ἡμέρα.`

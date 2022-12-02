@@ -1,0 +1,1 @@
+lar[56209]=`<b>ωπός (ὁ)</b> voleur, HDT. <i>1, 41 ; 2, 115</i> ; EUR. <i>Rhes. 709, etc.</i> ; XÉN. <i>An. 4, 6, 17, etc</i>.<p><b>Étym</b>. κλέπτω.`

@@ -1,0 +1,1 @@
+lar[48401]=`<b>ἰδιο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐδ]</font> qui a son opinion particulière, qui pense par soi-même, PHRYN. COM. <i>2-1, 587, 1 Mein.</i> ; HPC. <i>Aër. 295</i> ; ARSTT. <i>Nic. 7, 9, 3</i>.<p><b>Étym</b>. ἴδ. γνώμη.`

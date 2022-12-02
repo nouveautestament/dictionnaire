@@ -1,0 +1,1 @@
+lar[86375]=`<b>προσ·ραίνω</b>, verser sur, <i>rég. ind. au dat</i>. AR. <i>Eccl. 379</i> ; STR. <i>675 ; abs</i>. ARSTT. <i>H.A. 9, 35 ; au pass</i>. ARSTT. <i>H.A. 8, 10, 3, etc</i>.`

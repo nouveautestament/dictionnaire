@@ -1,0 +1,1 @@
+lar[45596]=`<b>ἡμι·φανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui paraît <i>ou</i> qu’on voit à moitié, STR. <i>807</i>.<p><b>Étym</b>. ἡμι-, φαίνω.`

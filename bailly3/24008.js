@@ -1,0 +1,1 @@
+lar[24008]=`<b>ας (ἡ) :<br>      1</b> pouvoir du maître sur ses esclaves, autorité du maître de maison, ARSTT. <i>Pol. 1, 3, 4 ; 3, 6, 3</i>.<br><b>      2</b> pouvoir absolu, despotisme, <i>à la façon des Orientaux,</i> PLAT. <i>Leg. 698a ;</i> ISOCR. <i>113d ; p. opp. à</i> δουλεία, PLAT. <i>Parm. 133e</i>.<p><b>Étym</b>. δεσπότης.`

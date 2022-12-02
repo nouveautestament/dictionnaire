@@ -1,0 +1,1 @@
+lar[72320]=`<b>ητος (ὁ)</b> Hoplès, <i>fils d’Ion,</i> HDT. <i>5, 66</i>.<p><b>Étym</b>. <i>v</i>. Ὅπλητες.`

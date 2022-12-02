@@ -1,0 +1,1 @@
+lar[22158]=`<b>γλυκύ·δακρυς, υς, υ</b>, <i>gén</i>. <b>-υος</b> <font color="purple">[ῠῠα]</font> qui fait couler de douces larmes, ANTH. <i>7, 419 ; 12, 167</i>.<p><b>Étym</b>. γλ. δάκρυ.`

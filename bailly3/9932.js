@@ -1,0 +1,1 @@
+lar[9932]=`<b>ἀντι·καταπέμπω</b>, renvoyer en retour <i>ou</i> à son tour, BAS. <i>2, 677</i>.`

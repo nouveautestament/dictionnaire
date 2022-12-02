@@ -1,0 +1,1 @@
+lar[31520]=`<b>εως (ἡ)</b> action de mettre au jour, divulgation, CLÉM. <i>Str. 3, 4</i>.<p><b>Étym</b>. ἐκκυκλέω.`

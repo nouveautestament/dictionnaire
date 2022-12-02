@@ -1,0 +1,1 @@
+lar[41481]=`<b>ἐτωσιο·εργός, ός, όν</b>, qui travaille négligemment, HÉS. <i>O. 409</i>.<p><b>Étym</b>. ἐτώσιος, ἔργον.`

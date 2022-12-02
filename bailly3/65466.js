@@ -1,0 +1,1 @@
+lar[65466]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> indication, THC. <i>6, 62</i> ; CLÉARQ. (ATH. <i>457) ; au pl</i>. ORPH. <i>H. 85, 16</i> ; MAN. <i>4, 556</i>.<p><b>Étym</b>. μηνύω.`

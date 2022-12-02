@@ -1,0 +1,1 @@
+lar[100162]=`<b>τριγονέω-ῶ</b> <font color="purple">[ῐ]</font> enfanter <i>ou</i> mettre bas pour la troisième fois, TH. <i>C.P. 1, 9, 3</i>.<p><b>Étym</b>. τρίγονος.`

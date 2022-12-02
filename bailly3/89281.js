@@ -1,0 +1,1 @@
+lar[89281]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> marjolaine, <i>plante,</i> DIOSC. <i>3, 47</i> ; ARÉT. <i>Cur. m. acut. 2, 10 ; cf</i>. ἀμάρακος.`

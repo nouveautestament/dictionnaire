@@ -1,0 +1,1 @@
+lar[105063]=`<b>ου (ὁ)</b> Pheidias (Phidias) <i>sculpteur célèbre,</i> AR. <i>Pax 605, 616</i> ; PLAT. <i>Prot. 311e, Men. 91d, etc</i>.<p>➳ <i>Voc</i>. Φειδία, ANTIPH. (ATH. <i>38b</i>) ; A. PL. <i>81</i>.<p><b>Étym</b>. φείδομαι.`

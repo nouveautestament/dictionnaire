@@ -1,0 +1,1 @@
+lar[97100]=`<b>σχοινο·στρόφος, ος, ον</b>, qui tresse une corde avec du jonc, PLUT. <i>M. 473</i>.<p><b>Étym</b>. σχοῖνος, στρέφω.`

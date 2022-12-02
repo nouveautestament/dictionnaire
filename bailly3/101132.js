@@ -1,0 +1,1 @@
+lar[101132]=`<b>τυρόεις-οῦς, όεσσα-οῦσσα, όεν-οῦν</b> <font color="purple">[ῡ]</font> fait avec du fromage : τυρόεις ἄρτος, SOPHR. (ATH. <i>110d</i>) <i>ou subst</i>. ὁ τυρόεις, HÉGÉMON (ATH. <i>698f</i>) ; THCR. <i>Idyl. 1, 58,</i> pain <i>ou</i> gâteau au fromage.<p>➳ <i>Acc. sg. masc</i>. τυρόεντα, <i>trisyll. par synér</i>. THCR. HÉGÉMON <i>ll. cc</i>.<p><b>Étym</b>. τυρός.`

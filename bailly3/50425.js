@@ -1,0 +1,1 @@
+lar[50425]=`<b>καθ·ιμάω-ῶ</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> faire descendre au moyen d’une corde, <i>acc</i>. AR. <i>Vesp. 379, 396</i>.<br><b>      2</b> faire descendre, <i>en gén</i>. BABR. <i>94, 3 ; d’où au pass</i>. être descendu, DC. <i>45, 2</i>.`

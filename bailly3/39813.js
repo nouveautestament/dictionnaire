@@ -1,0 +1,1 @@
+lar[39813]=`<b>ἐπ·οικτείρω</b>, <i>att</i>. <b>ἐπ·οικτίρω</b>, se lamenter sur : τινά, SOPH. <i>O.R. 671, etc.</i> ; τινός, XÉNOPHAN. (DL. <i>3, 86</i>) qqn ; <i>abs</i>. ESCHL. <i>Ag. 1069</i>.`

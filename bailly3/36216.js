@@ -1,0 +1,1 @@
+lar[36216]=`<b>ἐξ·ότου</b>, <i>adv</i>., depuis que, SOPH. <i>Ph. 493</i>.`

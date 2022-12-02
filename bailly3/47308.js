@@ -1,0 +1,1 @@
+lar[47308]=`<b>θηρο·βολέω-ῶ</b>, percer de traits les bêtes sauvages, SOPH. <i>Ph. 165</i>.<p><b>Étym</b>. θήρ, -βόλος <i>de</i> βάλλω.`

@@ -1,0 +1,1 @@
+lar[67054]=`<b>μυθο·πλόκος, ος, ον</b> <font color="purple">[ῡ]</font> <i>propr</i>. « qui tresse des paroles », persuasif, SAPPH. <i>fr. 125 Bgk</i>.<p><b>Étym</b>. μῦθος, πλέκω.`

@@ -1,0 +1,1 @@
+lar[27419]=`<b>δολιό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, à l’esprit perfide, fourbe, rusé, ESCHL. <i>Ch. 947</i> ; EUR. <i>I.A. 1301</i>.<p><b>Étym</b>. δόλιος, φρήν.`

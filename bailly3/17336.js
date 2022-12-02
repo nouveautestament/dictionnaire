@@ -1,0 +1,1 @@
+lar[17336]=`<b>αὐτ·αρχή, ῆς (ἡ)</b> le principe absolu, <i>càd</i>. Dieu, SIMPL.<p><b>Étym</b>. αὐτός, ἀρχή.`

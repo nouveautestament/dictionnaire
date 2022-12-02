@@ -1,0 +1,1 @@
+lar[93449]=`<b>συγ·κλαίω</b>, pleurer avec, <i>dat</i>. LUC. <i>As. 22</i> ; ANTH. <i>9, 573</i>.`

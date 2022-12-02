@@ -1,0 +1,1 @@
+lar[85745]=`<b>προσ·επιτροπεύω</b>, être tenu plus longtemps en tutelle, DÉM. <i>833, 18</i>.`

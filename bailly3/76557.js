@@ -1,0 +1,1 @@
+lar[76557]=`<b>ας (ἡ) :<br>      1</b> fonction d’assesseur, DÉM. <i>1273, 22</i>.<br><b>      2</b> action d’adjoindre <i>ou</i> de s’adjoindre, ARSTT. <i>P.A. 2, 7, 2</i>.<p><b>Étym</b>. πάρεδρος.`

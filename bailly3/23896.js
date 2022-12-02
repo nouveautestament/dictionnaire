@@ -1,0 +1,1 @@
+lar[23896]=`<b>Δεξί·νικος, ου</b> <font color="purple">[ῐῑ]</font> Dexinikos, <i>h</i>. AR. <i>Pl. 800</i>.<p><b>Étym</b>. δέχομαι, νίκη.`

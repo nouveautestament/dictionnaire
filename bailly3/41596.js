@@ -1,0 +1,1 @@
+lar[41596]=`<b>εὔ·ανδρος, ος, ον :<br>      1</b> abondant en hommes beaux, forts, courageux, PD. <i>P. 1, 40</i> ; EUR. <i>Tr. 229, 8, etc.</i> ; AR. <i>Nub. 300</i> ; PLUT. <i>M. 209e, etc.</i><br><b>      2</b> qui rend les hommes heureux, ESCHL. <i>Eum. 1031</i>.<p>•<i> Sup</i>. -ότατος, PLUT. <i>l. c</i>.<p><b>Étym</b>. εὖ, ἀνήρ.`

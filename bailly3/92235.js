@@ -1,0 +1,1 @@
+lar[92235]=`<b>σταχυη·τόμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui coupe des épis, ANTH. <i>6, 95</i>.<p><b>Étym</b>. στάχυς, τέμνω.`

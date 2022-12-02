@@ -1,0 +1,1 @@
+lar[9935]=`<b>ἀντι·κατασκευάζω</b>, établir à l’encontre <i>ou</i> à la place de, DH. <i>1, 5</i>.`

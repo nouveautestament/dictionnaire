@@ -1,0 +1,1 @@
+lar[23184]=`<b>ου (ὁ)</b> Damyllos, <i>h</i>. LUC. <i>D. mer. 11, 2</i>.`

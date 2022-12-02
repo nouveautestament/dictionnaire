@@ -1,0 +1,1 @@
+lar[8259]=`<i>adv</i>., d’une manière supportable, OD. <i>9, 350</i> ; XÉN. <i>Hell. 7, 3, 1</i> ; ISOCR. <i>84d, etc</i>.`

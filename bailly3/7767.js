@@ -1,0 +1,1 @@
+lar[7767]=`<b>ή, όν</b>, propre à couper en haut, SYMM. <i>Ps. 54, 22</i>.<p><b>Étym</b>. ἀνατέμνω.`

@@ -1,0 +1,1 @@
+lar[23208]=`<b>ατος (τὸ)</b> <font color="purple">[δᾰ]</font> prêt d’argent à intérêts, DÉM. <i>925, 24</i> ; δ. ποιεῖσθαι, THC. <i>1, 121</i> = δανείζεσθαι, faire un emprunt à intérêts.<p><b>Étym</b>. δανείζω.`

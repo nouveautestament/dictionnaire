@@ -1,0 +1,1 @@
+lar[37008]=`<b>ἐπ·εισρέω</b> (<i>seul. prés</i>.) couler en outre dans <i>ou</i> sur, PLUT. <i>Num. 20, M. 702a, etc.</i> ; LUC. <i>Alex. 49</i> ; ATH. <i>156e</i>.`

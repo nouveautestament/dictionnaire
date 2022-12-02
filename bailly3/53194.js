@@ -1,0 +1,1 @@
+lar[53194]=`<b>*κατα·πυρίζω</b>, <i>seul. avec sync. et assimil. poét</i>. καππυρίζω.`

@@ -1,0 +1,1 @@
+lar[53798]=`<b>κατα·ψοφέω-ῶ</b>, faire retentir, <i>acc</i>. CLÉM. <i>301</i>.`

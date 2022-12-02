@@ -1,0 +1,1 @@
+lar[39381]=`<i>adv</i>., avec diligence, avec soin, à fond, DH. <i>Comp. 25</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ἐπιτηδεύω.`

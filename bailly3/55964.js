@@ -1,0 +1,1 @@
+lar[55964]=`<b>α, ον :<br>      1</b> qui concerne Kléônes, de Kléônes, PD. <i>N. 4, 27, etc.</i><br><b>      2</b> originaire <i>ou</i> habitant de Kléônes, PLUT. <i>Tim. 4, etc</i>.<p><b>Étym</b>. Κλεωναί.`

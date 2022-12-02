@@ -1,0 +1,1 @@
+lar[64961]=`<b>μετα·σκιρτάω-ῶ</b>, bondir <i>ou</i> s’élancer d’un lieu dans un autre, CHRYS. <i>6, 259</i>.`

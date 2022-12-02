@@ -1,0 +1,1 @@
+lar[43304]=`<b>Εὐρυ·νόμη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Eurynomè, <i>f</i>. IL. <i>18, 398</i> ; HÉS. <i>Th. 358, 907, etc</i>.<p>➳ <i>Nom. dor</i>. Εὐρυνόμα, ANTH. <i>6, 55</i>.<p><b>Étym</b>. <i>cf</i>. Εὐρύνομος.`

@@ -1,0 +1,1 @@
+lar[98776]=`<i>ion. et dor. c</i>. τίνος <i>de</i> τίς ; τευ, <i>enclit. ion. et dor. c</i>. τινός <i>de</i> τίς.`

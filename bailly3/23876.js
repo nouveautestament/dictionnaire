@@ -1,0 +1,1 @@
+lar[23876]=`<b>ῶνος (ὁ)</b> plant d’arbres, verger, AQU. <i>Gen. 21, 33 ; 1Reg. 31, 13</i>.<p><b>Étym</b>. δένδρον.`

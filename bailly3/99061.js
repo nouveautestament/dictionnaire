@@ -1,0 +1,1 @@
+lar[99061]=`<b>(ὁ)</b> Tibisis (<i>auj</i>. Timiș) <i>affl. de l’Ister,</i> HDT. <i>4, 49</i>.`

@@ -1,0 +1,1 @@
+lar[106254]=`<b>οῦς (ἡ)</b> <font color="purple">[ῐ]</font> Philô, <i>f</i>. ANTH. <i>7, 463</i>.<p><b>Étym</b>. φίλος.`

@@ -1,0 +1,1 @@
+lar[91708]=`(<i>seul. prés</i>.) palpiter, s’agiter convulsivement, ARSTT. <i>Respir. 3, 2</i> ; POL. <i>15, 33, 5</i> ; A.RH. <i>4, 874, etc.</i> ; ANTH. <i>6, 30</i> ; DH. <i>4, 39</i> ; PLUT. <i>M. 975c</i>.<p><b>Étym</b>. ἀσπαίρω.`

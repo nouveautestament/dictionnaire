@@ -1,0 +1,1 @@
+lar[85914]=`armer en outre, PLUT. <i>Cleom. 23</i>.`

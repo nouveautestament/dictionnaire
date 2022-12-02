@@ -1,0 +1,1 @@
+lar[93352]=`<b>συγ·καταπράσσω</b>, <i>att</i>. <b>-πράττω</b>, aider à faire, à achever, DÉM. <i>63, 2</i> ; DC. <i>59, 10</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DÉM. <i>96, 21</i>.`

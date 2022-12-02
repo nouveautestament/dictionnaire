@@ -1,0 +1,1 @@
+lar[56240]=`<b>οῦ (ὁ)</b> démangeaison, NIC. <i>Al. 251, 422</i>.<p><b>Étym</b>. κνήθω.`

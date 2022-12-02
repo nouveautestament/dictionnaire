@@ -1,0 +1,1 @@
+lar[59357]=`<b>λαβρο·στομέω-ῶ</b> <font color="purple">[α]</font> parler avec véhémence <i>ou</i> avec intempérance, ESCHL. <i>Pr. 327</i>.<p><b>Étym</b>. λάβρος, στόμα.`

@@ -1,0 +1,1 @@
+lar[83169]=`<b>ου (ὁ)</b> = <i>lat</i>. Publius, <i>n. d’h. rom</i>. PLUT. <i>Crass. 9</i>.<p><b>Étym</b>. <i>cf</i>. Πόπλιος.`

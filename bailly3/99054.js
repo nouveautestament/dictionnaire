@@ -1,0 +1,1 @@
+lar[99054]=`<b>τιαρο·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui porte une tiare, M. TYR. <i>26, 7</i>.<p><b>Étym</b>. τ. φέρω.`

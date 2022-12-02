@@ -1,0 +1,1 @@
+lar[15442]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>litt</i>. ordonnateur (<i>cf</i>. ἁρμοστής), magistrat d’Argos <i>et</i> d’Épidaure, THC. <i>5, 47</i>.<p><b>Étym</b>. ἀρτύνω.`

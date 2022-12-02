@@ -1,0 +1,1 @@
+lar[22915]=`<b>δᾳδουργέω-ῶ</b> <i>(seul. prés.) c</i>. δᾳδοκοπέω, <i>litt</i>. travailler le tronc d’un pin, TH. <i>C.P. 5, 16, 2 ; au pass</i>. TH. <i>H.P. 4, 16, 1</i>.<p><b>Étym</b>. δᾳδουργός.`

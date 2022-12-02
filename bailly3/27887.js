@@ -1,0 +1,1 @@
+lar[27887]=`<font color="darkgreen">(<i>seul. impf. poét</i>. δρέπτον)</font> <i>c</i>. δρέπω, MOSCH. <i>2, 69</i>.<br><b><i>Moy.</i></b> (<i>seul. part. prés.) m. sign</i>. OPP. <i>C. 2, 38</i> ; ANTH. <i>10, 41</i> ; A. PL. <i>4, 231</i>.`

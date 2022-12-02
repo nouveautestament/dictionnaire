@@ -1,0 +1,1 @@
+lar[56656]=`<b>κολλυρίτης ἄρτος (ὁ)</b> <font color="purple">[ῡ]</font> pain grossier, <i>particul</i>. fait de pâte sans levain, SPT. <i>1Par. 16, 3</i>.<p><b>Étym</b>. κολλύρα.`

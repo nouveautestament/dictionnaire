@@ -1,0 +1,1 @@
+lar[95250]=`<b>συν·εγχυλίζω</b> <font color="purple">[ῡ]</font> transformer en suc avec, MÉD. <i>p. 42 Matthäi</i>.`

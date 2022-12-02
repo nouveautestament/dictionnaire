@@ -1,0 +1,1 @@
+lar[1893]=`<b>ἀ·ηδονία, ας (ἡ)</b> absence de plaisir, DL. <i>2, 89</i>.<p><b>Étym</b>. ἀ, ἡδονή.`

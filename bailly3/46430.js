@@ -1,0 +1,1 @@
+lar[46430]=`<b>θεατροκοπέω-ῶ</b> <font color="purple">[ᾱ]</font> rechercher les applaudissements sur la scène : ὕμνους, SIB. <i>5, 141,</i> en chantant des hymnes ; <i>au pass</i>. être applaudi au théâtre, TAT. <i>Or. ad Græc. 19, c. 849a Migne</i>.<p><b>Étym</b>. θεατροκόπος.`

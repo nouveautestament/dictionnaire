@@ -1,0 +1,1 @@
+lar[79429]=`<b>ατος (τὸ) :<br>      1</b> couverture de lit, DL. <i>5, 73</i>.<br><b>      2</b> tapis, tapisserie, rideau, CALLIX. (ATH. <i>197b</i>).<p><b>Étym</b>. περιστρώννυμι.`

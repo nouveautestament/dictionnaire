@@ -1,0 +1,1 @@
+lar[11900]=`<b>ἀπ·ηλιθιόω-ῶ</b> <font color="purple">[λῐ]</font> rendre stupide, DIOSC. <i>5, 25</i>.`

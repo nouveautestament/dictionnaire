@@ -1,0 +1,1 @@
+lar[41965]=`<b>ή, όν :<br>      1</b> <i>pass</i>. bien constitué, PLAT. <i>Leg. 684c ;</i> ARSTT. <i>Nic. 10, 5, 9</i>.<br><b>      2</b> <i>act</i>. qui rend fort, vigoureux, ARSTT. <i>Nic. 5, 1, 5</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>G.A. 1, 18 ; 2, 7</i>.<p><b>Étym</b>. εὔεκτος.`

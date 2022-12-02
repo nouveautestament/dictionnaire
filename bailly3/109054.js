@@ -1,0 +1,1 @@
+lar[109054]=`<b>ή, όν :<br>      1</b> qui concerne le temps <i>ou</i> une période de temps, PLUT. <i>Sol. 27</i> ; τὰ χρονικά (<i>s.-e</i>. βιβλία) PLUT. <i>Them. 27</i> ; αἱ χρονικαί (<i>s.-e</i>. γραφαί) DH. <i>1, 8</i> ; LUC. <i>Macr. 22,</i> chroniques, annales.<br><b>      2</b> <i>t. de gr</i>. qui concerne l’augment temporel, EUST. <i>72, 45</i>.<p><b>Étym</b>. χρόνος.`

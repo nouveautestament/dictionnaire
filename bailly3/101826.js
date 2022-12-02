@@ -1,0 +1,1 @@
+lar[101826]=`<b>ὑμνο·ποιός, οῦ (ὁ, ἡ)</b> qui compose des hymnes, EUR. <i>Rhes. 651 ; subst</i>. ὁ ὑμν. EUR. <i>Suppl. 180,</i> poète d’hymnes.<p><b>Étym</b>. ὕ. ποιέω.`

@@ -1,0 +1,1 @@
+lar[93654]=`<b>ων (αἱ)</b> les Sydriades, <i>nymphes de l’Indus,</i> NONN. <i>D. 32, 288 (dat. pl. épq</i>. Συδριάδεσσιν).<p><b>Étym</b>. <i>cf</i>. Ὑδριάδες.`

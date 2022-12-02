@@ -1,0 +1,1 @@
+lar[64529]=`<b>μεσο·κρινής, ής, ές</b> <font color="purple">[ῐ]</font> qui sépare par le milieu, qui sert de séparation, PLUT. <i>M. 843d</i>.<p><b>Étym</b>. μ. κρίνω.`

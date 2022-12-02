@@ -1,0 +1,1 @@
+lar[72982]=`<b>ὀροβο·φαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des lentilles, HPC. <i>p. 1037f</i>.<p><b>Étym</b>. ὄροβος, φαγεῖν.`

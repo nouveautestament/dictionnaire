@@ -1,0 +1,1 @@
+lar[74611]=`<b>ῶν (τὰ)</b> <font color="purple">[ᾰῐν]</font> sorte de strophes qui se correspondent inversement, <i>p. ex.</i> : α-β, β-α, HÉPH. <i>p. 123</i>.<p><b>Étym</b>. παλινῳδέω.`

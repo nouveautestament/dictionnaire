@@ -1,0 +1,1 @@
+lar[2556]=`<b>αἱματο·ρρόφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui avale du sang, ESCHL. <i>Eum. 193</i> ; SOPH. <i>fr. 813</i>.<p><b>Étym</b>. αἷ. ῥοφέω.`

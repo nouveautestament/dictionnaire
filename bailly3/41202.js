@@ -1,0 +1,1 @@
+lar[41202]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à faire lever une croûte sur une plaie, LYCUS (ORIB. <i>2, 230, 7 B.-Dar</i>.) ; DAMOCR. (GAL. <i>14, 198</i>) ; DIOSC. <i>2, 83 ; 5, 133</i>.<p><b>Étym</b>. ἐσχαρόω.`

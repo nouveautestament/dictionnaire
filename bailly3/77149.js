@@ -1,0 +1,1 @@
+lar[77149]=`<b>ου (ὁ)</b> Parrhèsiadès, <i>n. fictif d’esclave,</i> LUC. <i>Pisc. 25</i>.<p><b>Étym</b>. παρρησία.`

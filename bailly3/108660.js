@@ -1,0 +1,1 @@
+lar[108660]=`<b>(ὁ)</b> Khœak, <i>n. d’un mois égyptien,</i> ANTH. <i>9, 383</i> ; PLUT. <i>Rom. 12</i>.`

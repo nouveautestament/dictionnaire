@@ -1,0 +1,1 @@
+lar[87293]=`<b>οῦ (ὁ)</b> éternuement, HPC. <i>Aph. 1256</i> ; THC. <i>2, 49</i> ; PLAT. <i>Conv. 189a ;</i> AR. <i>Av. 720, etc</i>.<p><b>Étym</b>. πταίρω.`

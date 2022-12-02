@@ -1,0 +1,1 @@
+lar[94336]=`<b>συμ·πραγματεύομαι</b> <font color="darkgreen">(<i>f</i>. -εύσομαι, <i>ao</i>. συνεπραγματευσάμην <i>ou</i> συνεπραγματεύθην)</font> <font color="purple">[μᾰ]</font> traiter d’affaires <i>ou</i> d’une affaire avec : τινι, PLUT. <i>Cato ma. 21,</i> avec qqn ; τι, LYCURG. <i>5,</i> traiter qqe affaire avec qqn ; <i>abs</i>. PLUT. <i>M. 417a</i>.`

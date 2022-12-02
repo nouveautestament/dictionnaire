@@ -1,0 +1,1 @@
+lar[104667]=`<b>ίδος</b>, <i>adj. f</i>. brillante, HH. <i>Cer. 51</i>.<p>➳ <i>Éol</i>. φαίνολις, ιδος, SAPPH. <i>fr. 95 Bgk</i>.<p><b>Étym</b>. φαίνω.`

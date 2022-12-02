@@ -1,0 +1,1 @@
+lar[31]=`<b>ῶν (αἱ)</b> <font color="brown">Abæ</font>, <i>v. de Phocide avec un oracle d’Apollon,</i> HDT. <i>1, 46, cf</i>. Ἄβα.`

@@ -1,0 +1,1 @@
+lar[49001]=`<b>ἱμερό·φωνος, ος, ον</b> <font color="purple">[ῑ]</font> à la voix charmante, SAPPH. <i>42</i> ; THCR. <i>Idyl. 28, 7</i>.<p><b>Étym</b>. ἵμερος, φωνή.`

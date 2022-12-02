@@ -1,0 +1,1 @@
+lar[44011]=`<b>ου (τὸ)</b> le pubis, HÉRACLIDE SYR. (ATH. <i>647a</i>) ; DIOSC. <i>1, 3 ; 2, 127</i>.<p><b>Étym</b>. ἐφηβαῖος.`

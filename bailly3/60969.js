@@ -1,0 +1,1 @@
+lar[60969]=`<i>adv</i>., en effleurant, OD. <i>22, 278</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *sleiǵ-, glisser ; <i>cf</i>. λίγδος, <i>all</i>. schleichen, <i>néerl</i>. slijk.`

@@ -1,0 +1,1 @@
+lar[81131]=`<b>πλουτο·κρατέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être gouverné par les riches, RHÉT. <i>9, 195 W</i>.<p><b>Étym</b>. πλ. κρατέω.`

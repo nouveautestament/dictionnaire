@@ -1,0 +1,1 @@
+lar[107288]=`<b>ῆς (ἡ)</b> <i>avec ou sans</i> μᾶζα, sorte de gâteau fait d’un mélange de farine et de vin grossièrement pétris, AR. <i>Vesp. 610</i> ; ANTH. <i>7, 736</i> ; ATH. <i>114f, 149a</i>.`

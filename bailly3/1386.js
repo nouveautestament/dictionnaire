@@ -1,0 +1,1 @@
+lar[1386]=`<b>ἀ·διαφορία, ας (ἡ)</b> indifférence, CIC. <i>Acad. pr. 2, 42 ; Att. 2, 17</i> ; PLUT. <i>M. 1071f, etc</i>.<p><b>Étym</b>. ἀδιάφορος.`

@@ -1,0 +1,1 @@
+lar[65378]=`<b>ίδος</b>, <i>adj. f</i>. : Μ. αἶα, CALL. <i>Del. 287</i> ; Μ. γῆ, <i>ou simpl</i>. ἡ Μ. HDT. <i>7, 198 ; 8, 31,</i> le territoire de Mèlis, la Mélide, <i>contrée de Thessalie</i> ; Μ. λίμνη, SOPH. <i>Tr. 636, c</i>. Μηλιεὺς κόλπος.`

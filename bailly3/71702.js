@@ -1,0 +1,1 @@
+lar[71702]=`<b>ὁμό·στολος, ος, ον</b>, vêtu de même, <i>d’où</i> semblable, ESCHL. <i>Suppl. 496</i>.<p><b>Étym</b>. ὁμ. στολή.`

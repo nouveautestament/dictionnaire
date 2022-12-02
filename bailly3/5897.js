@@ -1,0 +1,1 @@
+lar[5897]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀμυδρός NIC. <i>Th. 274</i>.`

@@ -1,0 +1,1 @@
+lar[33415]=`<b>ῆς (ἡ)</b> action d’embrasser, de contenir, CLÉOM. <i>12, 21</i>.<p><b>Étym</b>. ἐμπεριέχω.`

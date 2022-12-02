@@ -1,0 +1,1 @@
+lar[15998]=`<b>ἄ·σοφος, ος, ον</b>, qui manque de sagesse, sot, fou, THGN. <i>370</i> ; PD. <i>O. 3, 48</i> ; EUR. XÉN. <i>etc</i>.<p><b>Étym</b>. ἀ, σοφός.`

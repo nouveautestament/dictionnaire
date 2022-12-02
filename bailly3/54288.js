@@ -1,0 +1,1 @@
+lar[54288]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> sorte de goujon, ATH. <i>355b</i>.<p><b>Étym</b>. καυλός.`

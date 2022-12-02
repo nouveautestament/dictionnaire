@@ -1,0 +1,1 @@
+lar[82218]=`<b>πολυ·πάμφαος, ος, ον</b> <font color="purple">[ῠ]</font> tout resplendissant, ANTH. <i>9, 591</i>.`

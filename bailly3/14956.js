@@ -1,0 +1,1 @@
+lar[14956]=`<b>ης (ἡ)</b> Arnè :<br><b>      1</b> <i>v. de Béotie,</i> IL. <i>2, 507 ; 7, 9, etc.</i><br><b>      2</b> <i>v. de Thessalie,</i> HÉS. <i>Sc. 475</i> ; THC. <i>1, 12, etc</i>.`

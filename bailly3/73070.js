@@ -1,0 +1,1 @@
+lar[73070]=`<b>ου (ὁ)</b> = Hortensius, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 25, etc</i>.`

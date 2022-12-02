@@ -1,0 +1,1 @@
+lar[70094]=`<b>      1</b> conduire sur la route, guider, <i>acc</i>. ESCHL. <i>Pr. 727</i> ; EUR. <i>H.f. 1402</i> ; PHOCYL. <i>22</i> ; NT. <i>Ap. 8, 31</i>.<br><b>      2</b> rendre accessible, frayer un chemin.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, X. ÉPH. <i>5, 1, p. 87, 10</i>.<p><b>Étym</b>. ὁδηγός.`

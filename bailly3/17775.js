@@ -1,0 +1,1 @@
+lar[17775]=`<i>adv</i>., de la propre main (de qqn) LYCURG. <i>165, 8</i> ; PAUS. <i>7, 16, 4</i>.<p><b>Étym</b>. αὐτόχειρ ; <i>cf</i>. αὐτοχερί.`

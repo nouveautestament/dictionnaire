@@ -1,0 +1,1 @@
+lar[39988]=`<b>ἑπτά·λοφος, ος, ον</b> <font color="purple">[ᾰ]</font> aux sept collines (la ville, <i>càd</i>. Rome) CIC. <i>Att. 3, 5, 2</i> ; PLUT. <i>M. 280d ;</i> ANTH. <i>14, 121</i>.<p><b>Étym</b>. ἑ. λόφος.`

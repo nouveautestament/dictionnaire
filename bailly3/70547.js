@@ -1,0 +1,1 @@
+lar[70547]=`<b>ου (ὁ) :<br>      1</b> fils d’Œnops : IL. <i>5, 707</i>.<br><b>      2</b> Œnopidès, <i>mathém. de Chios,</i> PLAT. <i>Amat. commenc</i>.<p><b>Étym</b>. Οἴνωψ.`

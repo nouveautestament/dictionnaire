@@ -1,0 +1,1 @@
+lar[68171]=`<b>νεό·κοπος, ος, ον</b>, qui vient d’être coupé, EUP. <i>20 Kock</i>.<p><b>Étym</b>. ν. κόπτω.`

@@ -1,0 +1,1 @@
+lar[106956]=`<b>φρυαγμο·σέμνακος, ος, ον</b> <font color="purple">[νᾰ]</font> à la fois hautain et solennel, d’une morgue prétentieuse, AR. <i>Vesp. 135</i>.<p><b>Étym</b>. φρυαγμός, σεμνός.`

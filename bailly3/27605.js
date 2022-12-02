@@ -1,0 +1,1 @@
+lar[27605]=`<b>ου (ἡ)</b> Doriskos, <i>plaine (auj</i>. Romigik) <i>et ville (auj</i>. Đorískos) <i>de Thrace,</i> HDT. <i>5, 98 ; 7, 25, 59, 105</i> ; ESCHN. <i>3, 82</i> ; DÉM. <i>8, 64</i>.<p><b>Étym</b>. <i>Baiter-Sauppe</i>.`

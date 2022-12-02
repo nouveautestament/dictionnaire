@@ -1,0 +1,1 @@
+lar[45114]=`<b>ἠθο·ποιός, ός, όν</b>, qui forme le caractère, PLUT. <i>Them. 2, Num. 16, Dio. 9, Lyc. 21</i>.<p><b>Étym</b>. ἦθος, ποιέω.`

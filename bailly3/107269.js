@@ -1,0 +1,1 @@
+lar[107269]=`<b>φυσιο·λόγος, ου (ὁ)</b> <font color="purple">[ῠ]</font> philosophe naturaliste, <i>càd</i>. qui s’occupe des choses de la nature, ARSTT. <i>Metaph. 1, 5, 11 ; 1, 8, 17, etc.</i> ; TH. <i>C.P. 6, 3, 5</i> ; PLUT. <i>M. 1098d</i>.<p><b>Étym</b>. φύσις, λέγω.`

@@ -1,0 +1,1 @@
+lar[100940]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. τρωκτικός HÉS. <i>O. 702</i>.`

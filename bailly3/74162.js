@@ -1,0 +1,1 @@
+lar[74162]=`<b>παγ·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. tout à fait réjouissant, HERMAP. (AMM. MARC. <i>17, 4, 22</i>).<br><b>      2</b> <i>pass</i>. tout à fait joyeux, ASTRAMPS. <i>Onir. c. 5</i>.<p><b>Étym</b>. π. χαίρω.`

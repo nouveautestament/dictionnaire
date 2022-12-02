@@ -1,0 +1,1 @@
+lar[50824]=`<b>κακο·πολιτεία, ας (ἡ)</b> <font color="purple">[κᾰῑτ]</font> mauvais gouvernement, mauvais état des affaires publiques, POL. <i>15, 21, 3</i> ; PLUT. <i>Lyc. 7, Pomp. 75, etc</i>.<p><b>Étym</b>. κ. πολιτεία.`

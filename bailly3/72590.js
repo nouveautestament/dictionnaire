@@ -1,0 +1,1 @@
+lar[72590]=`<b>ὀρει·θαλής, ής, ές</b> <font color="purple">[ᾰ]</font> qui croît sur les montagnes, LYC. <i>1423</i>.<p><b>Étym</b>. ὄρος, θάλλω.`

@@ -1,0 +1,1 @@
+lar[20191]=`<b>βοο·σκόπος, ος, ον</b>, qui surveille les bœufs, NONN. <i>D. 31, 225</i>.<p><b>Étym</b>. βοῦς, σκοπέω.`

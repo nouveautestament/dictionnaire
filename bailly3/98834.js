@@ -1,0 +1,1 @@
+lar[98834]=`<b>ά, όν</b>, de couleur cendrée, gris cendré, ARSTT. <i>H.A. 3, 12, 1 ; 9, 45, 3</i> ; NIC. <i>Th. 173</i> ; BABR. <i>65, 1</i>.<p><b>Étym</b>. τέφρα.`

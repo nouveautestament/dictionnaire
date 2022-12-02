@@ -1,0 +1,1 @@
+lar[95923]=`<b>συν·θεάομαι-ῶμαι :<br>      1</b> voir <i>ou</i> regarder avec d’autres, XÉN. <i>Œc. 3, 7</i> ; PLAT. <i>Lach. 178a ;</i> ANT. <i>124, 27</i>.<br><b>      2</b> examiner ensemble <i>ou</i> en même temps, XÉN. <i>An. 6, 4, 15</i> ; PLAT. <i>Leg. 967e.</i><br><b>      3</b> voir d’ensemble, d’un coup d’œil, POL. <i>Exc. Vat. p. 376 Mai ; cf. 1, 27, 7 ; 16, 6, 7</i>.`

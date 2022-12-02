@@ -1,0 +1,1 @@
+lar[71610]=`<i>adv.</i> :<br><b>      1</b> d’un accord unanime, de l’aveu de tous, THC. <i>6, 90</i> ; XÉN. <i>Hell. 2, 3, 38, etc</i>. PLAT. <i>Lach. 186b, Theæt. 157e, etc.</i><br><b>      2</b> d’une manière conforme <i>ou</i> analogue à, d’accord avec, <i>dat</i>. XÉN. <i>Œc. 1, 11, etc</i>. DL. <i>3, 87</i>.<p><b>Étym</b>. ὁμολογέω.`

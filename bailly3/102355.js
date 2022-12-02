@@ -1,0 +1,1 @@
+lar[102355]=`<b>εως (ἡ)</b> <font color="purple">[ῠσ]</font> débordement, surabondance, SUID. <i>v°</i> Καλλισθένης.<p><b>Étym</b>. ὑπερβλύζω.`

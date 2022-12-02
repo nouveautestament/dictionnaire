@@ -1,0 +1,1 @@
+lar[92213]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> Staphylè, <i>f</i>. NONN. <i>D. 29, 249, etc</i>.<p><b>Étym</b>. σταφυλή.`

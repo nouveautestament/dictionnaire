@@ -1,0 +1,1 @@
+lar[55796]=`<i>acc</i>. <b>-εα (ὁ)</b> Kléadès, <i>h</i>. HDT. <i>9, 85</i>.<p>➳ <i>Dor</i>. Κλεάδας, ANTH. <i>9, 688</i>.<p><b>Étym</b>. <i>patr. dér. de</i> κλέος.`

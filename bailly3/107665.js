@@ -1,0 +1,1 @@
+lar[107665]=`<b>χαλκό·κρατος, ος, ον</b> <font color="purple">[ᾱτ]</font> mêlé de cuivre, <i>en parl. de monnaies falsifiées,</i> POLYEN <i>4, 10, 2</i>.<p><b>Étym</b>. χ. κεράννυμι.`

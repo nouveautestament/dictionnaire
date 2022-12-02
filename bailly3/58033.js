@@ -1,0 +1,1 @@
+lar[58033]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> sorte d’hyène, <i>bête féroce de l’Inde,</i> DS. <i>3, 35</i>.<p><b>Étym</b>. <i>cf</i>. κροκούτας, κροκούττας.`

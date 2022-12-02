@@ -1,0 +1,1 @@
+lar[97428]=`<b>ταλα·πείριος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui a subi beaucoup d’épreuves, qui a beaucoup souffert, OD. <i>6, 193 ; 7, 24 ; 14, 511 ; 17, 84</i>.<br><b>      2</b> aventurier, vagabond, ANTH. <i>10, 66</i>.<p><b>Étym</b>. *τλάω, πεῖρα.`

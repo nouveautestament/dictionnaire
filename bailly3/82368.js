@@ -1,0 +1,1 @@
+lar[82368]=`<b>πολυ·σκόπελος, ος, ον</b>, couvert de rochers <i>ou</i> d’écueils, M. SID. <i>5</i>.<p><b>Étym</b>. π. σκόπελος.`

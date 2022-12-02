@@ -1,0 +1,1 @@
+lar[44859]=`<b>ης (ἡ)</b> Hèbè (Hébé) :<br><b>      1</b> <i>déesse de la jeunesse,</i> IL. <i>4, 2</i> ; OD. <i>11, 603</i> ; HÉS. <i>Th. 950, etc.</i><br><b>      2</b> <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. ἥβη.`

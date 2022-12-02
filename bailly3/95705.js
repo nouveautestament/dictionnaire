@@ -1,0 +1,1 @@
+lar[95705]=`<b>συν·επιχειρέω-ῶ</b>, attaquer ensemble <i>ou</i> en même temps, POL. <i>3, 84, 1</i>.`

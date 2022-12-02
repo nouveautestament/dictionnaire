@@ -1,0 +1,1 @@
+lar[39806]=`<b>ῆς (ἡ)</b> construction élevée sur une autre, échafaudage, CLÉM. <i>864</i>.<p><b>Étym</b>. ἐποικοδομέω.`

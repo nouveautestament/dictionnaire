@@ -1,0 +1,1 @@
+lar[73147]=`<i>adv</i>., par rangées, homme par homme, HDT. <i>7, 144</i>.<p><b>Étym</b>. ὄρχος, -δόν.`

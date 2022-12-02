@@ -1,0 +1,1 @@
+lar[60900]=`<b>ά, όν</b> <font color="purple">[ᾰρ]</font><br><b>      1</b> chaud, tiède (sang, eau, <i>etc</i>.) IL. <i>11, 477, etc.</i> ; OD. <i>24, 45, etc.</i> ; A.RH. <i>3, 300, 876, 1064, etc.</i><br><b>      2</b> <i>p. suite,</i> doux, agréable (sommeil, vent, <i>etc</i>.) IL. <i>14, 164</i> ; A.RH. <i>2, 1032, etc</i>.<p><b>Étym</b>. <i>cf</i>. χλιαρός.`

@@ -1,0 +1,1 @@
+lar[4646]=`<b>(ὁ)</b> Alkidas :<br><b>      1</b> <i>dor. c</i>. *Ἀλκίδης, <i>càd</i>. Hèraklès, ANTH. <i>3, 13</i>.<br><b>      2</b> <i>amiral lacédémonien,</i> THC. <i>3, 30, etc</i>.<p>➳ <i>Voc</i>. -α, THC. <i>3, 30 ; dat</i>. -ᾳ, THC. <i>3, 69, etc. ; gén. ion</i>. -εω, A. PL. <i>4, 50</i>.<p><b>Étym</b>. ἀλκή.`

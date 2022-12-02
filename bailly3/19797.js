@@ -1,0 +1,1 @@
+lar[19797]=`<b>(ὁ)</b> Bisaltès, <i>h</i>. HDT.`

@@ -1,0 +1,1 @@
+lar[96871]=`<i>3 sg. ind. ao. act. épq. de</i> σφάλλω.`

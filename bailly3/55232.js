@@ -1,0 +1,1 @@
+lar[55232]=`<b>κηπίδες νύμφαι (αἱ)</b> nymphes des jardins, ARISTÉN. <i>1, 3 conj</i>.<p><b>Étym</b>. κῆπος.`

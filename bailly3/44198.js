@@ -1,0 +1,1 @@
+lar[44198]=`<i>ou</i> <b>Ἐχέλλης, ου (ὁ)</b> Ekhellos <i>ou</i> Ekhellès, <i>h</i>. ANTH. <i>7, 445</i>.`

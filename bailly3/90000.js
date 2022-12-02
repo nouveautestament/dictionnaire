@@ -1,0 +1,1 @@
+lar[90000]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> gâteau de sésame et de miel, HPC. <i>555, 7</i> ; AR. <i>Pax 869, etc</i>.<p><b>Étym</b>. <i>contr. de</i> *σησαμέα, <i>adj. f. de</i> σησάμη.`

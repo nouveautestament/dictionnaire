@@ -1,0 +1,1 @@
+lar[53527]=`<b>κατα·σώχω</b>, broyer, user en frottant, HDT. <i>4, 75</i>.`

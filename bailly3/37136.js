@@ -1,0 +1,1 @@
+lar[37136]=`<b>ἐπ·εξ·οιωνίζομαι</b> (<i>seul. prés</i>.) prendre de nouveau les augures, GAL. <i>8, 471</i>.`

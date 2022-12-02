@@ -1,0 +1,1 @@
+lar[18376]=`<b>ἄ·χαλκος, ος, ον :<br>      1</b> sans airain <i>ou</i> sans cuivre : ἄχ. ἀσπίδων, SOPH. <i>O.R. 190,</i> sans boucliers d’airain.<br><b>      2</b> sans argent, NAZ. <i>3, 1180a Migne</i>.<p><b>Étym</b>. ἀ, χαλκός.`

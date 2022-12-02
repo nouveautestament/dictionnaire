@@ -1,0 +1,1 @@
+lar[57431]=`<b>(τὸ)</b> <i>indécl</i>. bière d’orge et de miel, <i>chez les Égyptiens, les Ibères et les Bretons,</i> DIOSC. <i>2, 110</i>.`

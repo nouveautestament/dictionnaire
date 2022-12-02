@@ -1,0 +1,1 @@
+lar[99129]=`<b>ός, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui allaite, LYC. <i>1398 ; subst</i>. ὁ τ. nourricier, ORPH. <i>H. 10, 18</i> ; NIC. <i>Al. 31, etc.</i> ; ἡ τ. nourrice, PD. <i>fr. 14</i>.<br><b>      2</b> <i>p. ext</i>. qui paye, qui compense, <i>gén</i>. EUR. <i>I.A. 1230</i>.<p><b>Étym</b>. τιθήνη.`

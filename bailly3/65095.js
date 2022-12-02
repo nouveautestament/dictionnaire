@@ -1,0 +1,1 @@
+lar[65095]=`<b>μετ·έμφυτος, ος, ον</b> <font color="purple">[ῠ]</font> greffé d’une tige sur une autre, ANTH. <i>9, 4</i>.`

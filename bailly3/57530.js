@@ -1,0 +1,1 @@
+lar[57530]=`<b>ου (τὸ)</b> <font color="purple">[ᾱᾰ]</font> petit mélange, DIOSC. <i>Par. 1, 207</i>.<p><b>Étym</b>. <i>dim. de</i> κρᾶμα.`

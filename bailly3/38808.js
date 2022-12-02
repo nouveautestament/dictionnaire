@@ -1,0 +1,1 @@
+lar[38808]=`<b>ἐπι·προνέομαι</b> <font color="darkgreen">(<i>3 pl. impf. poét</i>. ἐπιπρονέοντο)</font> s’avancer, A.RH. <i>4, 1588</i>.`

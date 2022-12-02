@@ -1,0 +1,1 @@
+lar[49925]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de fortifier, CLÉM. <i>1, 1293 Migne</i>.<p><b>Étym</b>. ἰσχυροποιέω.`

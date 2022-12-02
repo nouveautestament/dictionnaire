@@ -1,0 +1,1 @@
+lar[23509]=`<b>α, ον</b>, qu’on peut <i>ou</i> qu’il faut montrer, XÉN. <i>Mem. 3, 5, 8</i> ; TH. <i>C.P. 3, 7, 5</i> ; δεικτέον μοι, DÉM. <i>244, 23,</i> c’est mon devoir de montrer.<p><b>Étym</b>. <i>vb. de</i> δείκνυμι.`

@@ -1,0 +1,1 @@
+lar[52597]=`<b>κατα·κονδυλίζω</b> <font color="purple">[ῠ]</font> abattre d’un coup de poing, frapper à coups de poing, ESCHN. <i>84, 22</i> ; SPT. <i>Amos 5, 11</i> ; PHIL. <i>1, 387</i>.`

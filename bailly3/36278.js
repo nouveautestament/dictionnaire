@@ -1,0 +1,1 @@
+lar[36278]=`<b>ἐξ·υπηρετέω-ῶ</b> <font color="purple">[ῠ]</font> prêter son ministère à, <i>abs</i>. SOPH. <i>Tr. 1156</i> ; τινι, LYS. <i>122, 16,</i> à qqn ; <i>au pass</i>. être requis pour un service, être commandé <i>ou</i> dirigé, EL. TACT. <i>35, 1</i>.`

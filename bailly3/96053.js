@@ -1,0 +1,1 @@
+lar[96053]=`<b>συν·νέμω</b>, partager <i>ou</i> attribuer ensemble, PLUT. <i>Rom. 16, etc. ; au pass</i>. PLUT. <i>M. 424a, 744f.</i><br><b><i>Moy.</i></b> paître ensemble, ARSTT. <i>H.A. 6, 18, 17</i>.`

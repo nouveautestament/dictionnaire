@@ -1,0 +1,1 @@
+lar[64907]=`<b>μετα·πλάσσω</b>, <i>att</i>. <b>-πλάττω :<br>      1</b> modeler autrement, transformer, PLAT. <i>Tim. 50a, 92b, etc. ; au pass</i>. être transformé, LUC. <i>Halc. 4</i>.<br><b>      2</b> <i>t. de gr</i>. modeler d’après, former sur le modèle de, EUST. <i>Il. p. 122, 9 ; 365, 13</i>.<br><b><i>Moy.</i></b> transformer, ANTH. <i>9, 708</i>.`

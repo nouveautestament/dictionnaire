@@ -1,0 +1,1 @@
+lar[72500]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾱ]</font> ce que l’on voit, spectacle, XÉN. <i>Cyr. 3, 3, 66 ; Eq. 9, 4 ; Hier. 1, 4</i> ; ARSTT. <i>Nic. 10, 2, etc</i>.<p><b>Étym</b>. ὁράω.`

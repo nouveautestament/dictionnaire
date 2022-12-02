@@ -1,0 +1,1 @@
+lar[28809]=`<b>ας (ἡ) :<br>      1</b> digestion difficile, MACH. (ATH. <i>341b</i>).<br><b>      2</b> indigestion, GAL. <i>7, 37</i> ; HIPPIATR. <i>106, 11</i>.<p><b>Étym</b>. δύσπεπτος.`

@@ -1,0 +1,1 @@
+lar[94926]=`<b>συν·αποτίλλω</b>, épiler avec <i>ou</i> en même temps, DIOSC. <i>1, 7</i>.`

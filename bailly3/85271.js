@@ -1,0 +1,1 @@
+lar[85271]=`<b>προσ·αποτιμάω-ῶ</b> <font color="purple">[ῑ]</font> estimer <i>ou</i> évaluer en outre, <i>acc</i>. DÉM. <i>1036, 17</i>.`

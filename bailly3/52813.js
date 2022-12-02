@@ -1,0 +1,1 @@
+lar[52813]=`<b>κατα·μειδιάω-ῶ</b>, sourire de, se moquer en souriant de, <i>gén</i>. JOS. <i>B.J. 3, 7, 33</i>.`

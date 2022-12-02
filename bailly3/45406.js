@@ -1,0 +1,1 @@
+lar[45406]=`<b>ἡμι·δακτυλιαῖος, α, ον</b> <font color="purple">[ῐῠ]</font> long d’un demi-doigt, SEXT. <i>M. 10, 137</i>.<p><b>Étym</b>. ἡμιδακτύλιον.`

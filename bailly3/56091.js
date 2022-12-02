@@ -1,0 +1,1 @@
+lar[56091]=`<b>οῦ (ὁ) :<br>      1</b> lit de repos, siège allongé, IL. <i>8, 436, etc.</i> ; OD. <i>1, 145</i> ; THGN. <i>1191</i> ; EUR. <i>Or. 1440</i> ; ARAT. <i>251 ; p. ext</i>. lit, HPC. <i>657, 3</i>.<br><b>      2</b> <i>c</i>. ἔγκλισις, TH. <i>Col. 5</i>.<p><b>Étym</b>. κλίνω.`

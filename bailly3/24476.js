@@ -1,0 +1,1 @@
+lar[24476]=`<b>δια·γεύω</b> (<i>seul. ao. 3 sg</i>. διέγευσε) donner le goût de, <i>fig</i>. τινός τινα διαγεύειν, EUN. <i>Exc. p. 80, 15 Nieb</i>. faire goûter qqe ch. à qqn.<br><b><i>Moy.</i></b> (<i>seul. prés</i>.) déguster, <i>acc</i>. PLUT. <i>Mar. 44 ; M. 469b ;</i> GEOP. <i>7, 7, 1</i>.`

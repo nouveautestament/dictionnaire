@@ -1,0 +1,1 @@
+lar[89118]=`<b>σάκ·ανδρος, ου (ὁ)</b> <font color="purple">[ᾰκ]</font> parties de la femme, AR. <i>Lys. 824</i>.<p><b>Étym</b>. σάκος, ἀνήρ.`

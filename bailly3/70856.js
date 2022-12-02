@@ -1,0 +1,1 @@
+lar[70856]=`<b>ὀκτά·ρρυμος, ος, ον</b> <font color="purple">[ῡ]</font> à huit timons, XÉN. <i>Cyr. 6, 1, 52</i>.<p><b>Étym</b>. ὀ. ῥυμός.`

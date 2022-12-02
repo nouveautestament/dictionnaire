@@ -1,0 +1,1 @@
+lar[25623]=`<b>δια·στοιβάζω</b> (<i>part. prés</i>.) insérer en guise de bourre, HDT. <i>1, 179</i>.`

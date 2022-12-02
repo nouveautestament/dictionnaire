@@ -1,0 +1,1 @@
+lar[15845]=`<b>Ἀσιατο·γενής, ής, ές</b> <font color="purple">[ᾰᾱ]</font> originaire d’Asie, asiatique, ESCHL. <i>Pers. 12</i>.<p><b>Étym</b>. Ἀσία, γένος.`

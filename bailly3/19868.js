@@ -1,0 +1,1 @@
+lar[19868]=`<b>ου (τὸ)</b> germe, bourgeon, NIC. <i>Al. 622, au plur</i>.<p><b>Étym</b>. βλαστάνω.`

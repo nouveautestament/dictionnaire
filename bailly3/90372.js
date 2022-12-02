@@ -1,0 +1,1 @@
+lar[90372]=`<b>ου (ὁ)</b> Sinatos, <i>h</i>. PLUT. <i>Mul. virt. 20, etc</i>.`

@@ -1,0 +1,1 @@
+lar[27245]=`<b>Διψ·αναπαυσί·λυπος, ου (ὁ)</b> <font color="purple">[ᾰᾰῐῡ]</font> <i>litt</i>. Soif-trève-au-chagrin, <i>n. de parasite,</i> ALCIPHR. <i>3, 67</i>.<p><b>Étym</b>. δίψα, ἀναπαύω, λύπη.`

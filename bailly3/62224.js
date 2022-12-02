@@ -1,0 +1,1 @@
+lar[62224]=`<i>mieux que</i> <b>Μάγδολος, ου (ἡ)</b> Magdôlos, <i>v. d’Égypte,</i> HDT. <i>2, 159</i>.`

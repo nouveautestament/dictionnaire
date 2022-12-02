@@ -1,0 +1,1 @@
+lar[7307]=`<b>ἀν·αξιόπιστος, ος</b> <i>ou</i> <b>α, ον</b>, indigne de foi, A. QUINT. <i>p. 70</i>.<p><b>Étym</b>. ἀν-, ἀ.`

@@ -1,0 +1,1 @@
+lar[55565]=`<b>ου (ὁ)</b> compas, GAL. <i>2, 19</i>.<p><b>Étym</b>. <i>lat</i>. circinus.`

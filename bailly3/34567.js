@@ -1,0 +1,1 @@
+lar[34567]=`<b>ου (τὸ)</b> sorte de plante ombellifère, PHÉRÉCR. (ATH. <i>316c</i>).`

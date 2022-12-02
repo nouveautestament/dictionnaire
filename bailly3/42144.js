@@ -1,0 +1,1 @@
+lar[42144]=`<b>εὐ·ηχής, ής, ές</b>, au bruit harmonieux <i>ou</i> sonore, CALL. <i>Del. 296</i> ; PLUT. <i>M. 437d</i>.<p>➳ <i>Dor</i>. εὐαχής <font color="purple">[ᾱ]</font> PD. <i>P. 2, 1</i>.<p><b>Étym</b>. εὖ, ἦχος.`

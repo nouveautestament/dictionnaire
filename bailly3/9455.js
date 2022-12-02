@@ -1,0 +1,1 @@
+lar[9455]=`<b>ἀντ·αναπαύομαι</b>, se reposer à son tour, POLYEN <i>1, 14</i>.`

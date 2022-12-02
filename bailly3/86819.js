@@ -1,0 +1,1 @@
+lar[86819]=`<b>προ·τρύγαιος, α, ον</b> <font color="purple">[ῠ]</font> qui préside aux vendanges, A. TAT. <i>2, 2</i>.<p><b>Étym</b>. π. τρύγη.`

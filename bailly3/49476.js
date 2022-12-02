@@ -1,0 +1,1 @@
+lar[49476]=`<b>εως (ἡ)</b> <font color="purple">[ῑπ]</font> pression, compression, HPC. <i>Art. 813</i>.<p><b>Étym</b>. ἰπόω.`

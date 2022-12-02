@@ -1,0 +1,1 @@
+lar[12414]=`<b>οῦ (ὁ)</b> action de mettre en réserve, DS. <i>3, 70</i>.<p><b>Étym</b>. ἀποθησαυρίζω.`

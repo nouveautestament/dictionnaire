@@ -1,0 +1,1 @@
+lar[107263]=`<b>φυσιο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> qui conjecture la nature d’une personne <i>ou</i> d’une chose, <i>particul</i>. qui sait juger qqn d’après sa mine, son air, sa physionomie, ARSTT. <i>G.A. 4, 3, 32 ; Physiogn. 1, 4 ; 2, 3, etc</i>.<p><b>Étym</b>. φύσις, γνώμων.`

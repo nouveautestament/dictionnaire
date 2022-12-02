@@ -1,0 +1,1 @@
+lar[16897]=`<i>adv</i>., d’une manière étrange, inconvenante <i>ou</i> absurde, THC. <i>7, 30</i> ; PLAT. <i>Phæd. 95b ; etc</i>.`

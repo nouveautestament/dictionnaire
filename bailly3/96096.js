@@ -1,0 +1,1 @@
+lar[96096]=`<b>ας (ἡ) :<br>      1</b> voyage fait de compagnie, CIC. <i>Att. 10, 7, 2</i> ; PLUT. <i>M. 48a ; p. ext</i>. compagnie, société, fréquentation, MÉN. <i>Monost. 24</i> ; PLUT. <i>Galb. 20</i>.<br><b>      2</b> société de voyageurs, caravane, STR. <i>204, 528</i> ; NT. <i>Luc. 2, 44 ; p. ext</i>. famille, SPT. <i>Neh. 7, 5, etc</i>.<p><b>Étym</b>. σύνοδος.`

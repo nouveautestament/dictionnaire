@@ -1,0 +1,1 @@
+lar[67853]=`<b>νε·άγγελτος, ος, ον</b>, nouvellement annoncé, ESCHL. <i>Ch. 736</i>.<p><b>Étym</b>. νέος, ἀγγέλλω.`

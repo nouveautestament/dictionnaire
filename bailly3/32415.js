@@ -1,0 +1,1 @@
+lar[32415]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de se répandre hors de, épanchement, écoulement (d’un liquide) ARSTT. <i>Meteor. 2, 1, 12</i> ; HÉRON <i>Aut. 247</i>.<p><b>Étym</b>. ἐκχέω.`

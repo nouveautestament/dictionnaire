@@ -1,0 +1,1 @@
+lar[28397]=`<b>δυσ·εξάλειπτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à effacer, <i>fig</i>. POL. <i>Exc. Vat. p. 460</i> ; DS. <i>3, 6</i> ; LGN <i>7, 3</i> ; HDN <i>2, 3</i>.<p><b>Étym</b>. δ. ἐξαλείφω.`

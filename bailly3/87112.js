@@ -1,0 +1,1 @@
+lar[87112]=`<b>πρωϊ·ανθής, ής, ές</b>, qui fleurit de bonne heure, TH. <i>C.P. 5, 1, 12</i>.<p><b>Étym</b>. π. ἄνθος.`

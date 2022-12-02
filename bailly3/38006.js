@@ -1,0 +1,1 @@
+lar[38006]=`<b>εως (ἡ)</b> action de railler, raillerie, HDN RH. <i>Schem. 52, 4</i>.<p><b>Étym</b>. ἐπικερτομέω.`

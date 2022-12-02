@@ -1,0 +1,1 @@
+lar[6388]=`<b>ἀμφί·ταπος, ος, ον</b> <font color="purple">[τᾰ]</font> velu <i>ou</i> laineux des deux côtés, CALLIX. (ATH. <i>197b</i>) ; SPT. <i>2Reg. 17, 28</i> ; ὁ ἀμφ. SPT. <i>Prov. 7, 16,</i> tapis laineux des deux côtés.<p><b>Étym</b>. ἀμφί, τάπης.`

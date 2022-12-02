@@ -1,0 +1,1 @@
+lar[71495]=`<b>ὁμό·ζυγος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> attelé ensemble, PLUT. <i>M. 1008d ; p. ext</i>. apparié, HPC. <i>Off. 746</i>.<br><b>      2</b> <i>fig</i>. homogène, ARÉT. <i>p. 33, 51</i>.<p><b>Étym</b>. ὁμ. ζυγός.`

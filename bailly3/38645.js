@@ -1,0 +1,1 @@
+lar[38645]=`<b>ης (ἡ)</b> <i>ion</i>. confiance, SIM. (STOB. <i>Fl. 98, 16).</i><p><b>Étym</b>. ἐπιπείθης.`

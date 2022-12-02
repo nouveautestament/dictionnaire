@@ -1,0 +1,1 @@
+lar[41716]=`<b>εὐβολέω-ῶ</b>, amener un heureux coup de dés, LUC. <i>Am. 16</i>.<p><b>Étym</b>. εὔβολος.`

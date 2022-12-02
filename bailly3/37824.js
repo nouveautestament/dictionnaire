@@ -1,0 +1,1 @@
+lar[37824]=`<b>ἐπι·θραύω</b>, briser, rompre, ANTH. <i>6, 105</i>.`

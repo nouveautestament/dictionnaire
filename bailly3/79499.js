@@ -1,0 +1,1 @@
+lar[79499]=`<b>ος, ον</b>, coupé tout autour, escarpé de tous côtés, POL. <i>1, 56, 4</i>.<p><b>Étym</b>. περιτέμνω.`

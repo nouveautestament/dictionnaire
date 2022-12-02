@@ -1,0 +1,1 @@
+lar[71921]=`<b>ου (ὁ) :<br>      1</b> le fils d’Onètôr, <i>càd</i>. Phrontis, OD. <i>3, 282</i>.<br><b>      2</b> Onètoridès, <i>Béotien,</i> THC. <i>2, 2</i>.<p><b>Étym</b>. <i>patr. de</i> Ὀνήτωρ.`

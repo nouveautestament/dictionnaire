@@ -1,0 +1,1 @@
+lar[90858]=`<b>σκηπτροφορέω-ῶ</b>, porter le sceptre, commander, ANTH. <i>12, 56</i>.<p><b>Étym</b>. σκηπτροφόρος.`

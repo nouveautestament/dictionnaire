@@ -1,0 +1,1 @@
+lar[21842]=`<font color="purple">[ῡ]</font> (<i>seul. prés</i>.) assaillir de plaisanteries grossières, <i>comme faisaient les oisifs sur le pont, pendant les mystères d’Éleusis,</i> PLUT. <i>Syll. 6 et 13</i>.<p><b>Étym</b>. γέφυρα.`

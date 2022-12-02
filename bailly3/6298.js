@@ -1,0 +1,1 @@
+lar[6298]=`<b>ἀμφι·περιπλάσσομαι</b> <font color="darkgreen">(<i>seul. ao. pass. part. fém</i>. -πλασθεῖσα)</font> se former <i>ou</i> se modeler tout autour, ORPH. <i>Lith. 80</i>.`

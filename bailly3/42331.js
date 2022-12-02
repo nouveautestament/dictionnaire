@@ -1,0 +1,1 @@
+lar[42331]=`<b>εὐθύ·ωρος, ος, ον</b>, direct ; <i>adv</i>., εὐθύωρον, XÉN. <i>An. 2, 2, 16</i> ; EL. <i>N.A. 11, 16,</i> en ligne droite, directement.<p><b>Étym</b>. εὐ. ὅρος.`

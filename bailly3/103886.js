@@ -1,0 +1,1 @@
+lar[103886]=`<font color="purple">[ᾰ]</font> <i>c</i>. ὑποστεναχίζω Q. SM. <i>14, 37</i>.`

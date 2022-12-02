@@ -1,0 +1,1 @@
+lar[91734]=`<b>οῦ (ὁ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> action de déchirer, déchirement, EUR. <i>Hec. 656, Bacch. 735 ; au plur</i>. EUR. <i>Ph. 1525, Tr. 453</i>.<br><b>      2</b> convulsion, ESCHL. <i>fr. 165 Dind.</i> ; SOPH. <i>Tr. 778, 1254</i> ; PLUT. <i>M. 134b ;</i> LUC. <i>Salt. 39</i>.<p><b>Étym</b>. σπαράσσω.`

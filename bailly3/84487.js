@@ -1,0 +1,1 @@
+lar[84487]=`<b>προ·καταπίνω</b> <font color="darkgreen">(<i>f</i>. -πίομαι, <i>ao.2</i> -κατέπιον, <i>etc</i>.)</font> avaler, <i>d’où</i> dévorer auparavant, JOS. <i>B.J. 5, 10, 3</i>.`

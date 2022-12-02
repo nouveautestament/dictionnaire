@@ -1,0 +1,1 @@
+lar[6649]=`<b>ἀνα·γρύζω</b>, pousser un grognement, AR. <i>Nub. 945</i> ; οὐδ' ἀν. XÉN. <i>Œc. 2, 11,</i> ne pas souffler mot.<p><b>Étym</b>. <i>litt</i>. ne pas même murmurer.`

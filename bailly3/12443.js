@@ -1,0 +1,1 @@
+lar[12443]=`<b>ἀπο·θωρήσσω</b>, ôter sa cuirasse, <i>ou, en gén.,</i> son armure, SIB. <i>3, 455 (ion. p</i>. -άσσω).<p><b>Étym</b>. ἀπό, θώρηξ, <i>ion. p</i>. θώραξ.`

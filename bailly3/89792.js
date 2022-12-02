@@ -1,0 +1,1 @@
+lar[89792]=`<i>adv</i>., en termes graves <i>ou</i> magnifiques, APP. <i>Mithr. 70</i>.`

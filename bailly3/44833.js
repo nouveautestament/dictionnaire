@@ -1,0 +1,1 @@
+lar[44833]=`<b>ζώ·φυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui fait vivre, vivifiant, ESCHL. <i>Suppl. 857</i>.<br><b>      2</b> qui produit des êtres vivants, fertile, fécond, PLUT. <i>Rom. 20</i> ; τὰ ζώφυτα, DIUS (STOB. <i>Fl. 65, 16</i>) les plantes.<p><b>Étym</b>. ζωός, φύω.`

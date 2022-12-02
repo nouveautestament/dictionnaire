@@ -1,0 +1,1 @@
+lar[76586]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de s’introduire furtivement, de se glisser dans, <i>avec</i> εἰς <i>et l’acc</i>. CHRYSIPP. (ATH. <i>137f</i>) ; TH. <i>C.P. 1, 7, 2</i> ; PLUT. <i>M. 47c.</i><br><b>      2</b> adjonction, DYSC. <i>Synt. 87, 19</i>.<p><b>Étym</b>. παρεισδύομαι.`

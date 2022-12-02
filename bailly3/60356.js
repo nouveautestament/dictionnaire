@@ -1,0 +1,1 @@
+lar[60356]=`<b>(τὸ)</b> <i>seul. nom., voc. et acc. sg</i>. roche nue, rocher, ESCHL. <i>Ag. 284, 298</i> ; ANTH. <i>7, 496, etc.</i> ; PLUT. <i>M. 507b ;</i> λέπας Ἀκραῖον, THC. <i>7, 78,</i> le mt Akræon, <i>en Sicile</i>.<p><b>Étym</b>. <i>p.-ê. emprunt méditerranéen ; cf. lat</i>. lapis.`

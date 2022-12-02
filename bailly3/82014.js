@@ -1,0 +1,1 @@
+lar[82014]=`<b>πολυ·κοίλιος, ος, ον</b> <font color="purple">[ῠ]</font> à plusieurs ventres, ARSTT. <i>P.A. 3, 15, 1</i>.<p><b>Étym</b>. π. κοιλία.`

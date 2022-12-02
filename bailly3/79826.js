@@ -1,0 +1,1 @@
+lar[79826]=`<b>πεσσονομέω-ῶ :<br>      1</b> disposer les pièces du jeu de trictrac <i>ou</i> jouer au trictrac, CRATÈS (POLL. <i>7, 204</i>).<br><b>      2</b> <i>p. ext</i>. disposer, diriger, gouverner, ESCHL. <i>Suppl. 13</i>.<p><b>Étym</b>. πεσσός, νόμος.`

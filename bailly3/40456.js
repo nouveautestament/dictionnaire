@@ -1,0 +1,1 @@
+lar[40456]=`<b>ἐρι·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐῡ]</font> très fécond, ESCHL. <i>Ag. 115</i>.<p><b>Étym</b>. ἐρι-, κύω.`

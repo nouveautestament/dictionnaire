@@ -1,0 +1,1 @@
+lar[89028]=`(<i>seul. prés</i>.) ronfler, SOR. <i>Obst. 185 Erm</i>.<p><b>Étym</b>. <i>cf. lat</i>. rugio, ructo.`

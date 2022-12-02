@@ -1,0 +1,1 @@
+lar[19889]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. βλασφημία, SYN. <i>198b</i>.`

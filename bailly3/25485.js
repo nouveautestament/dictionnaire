@@ -1,0 +1,1 @@
+lar[25485]=`<b>ῆς (ἡ)</b> crevasse, <i>d’où</i> rupture, interruption, intervalle, <i>dans l’application d’un bandage,</i> HPC. <i>Art. 822</i>.<p><b>Étym</b>. διαρρήγνυμι.`

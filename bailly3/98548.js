@@ -1,0 +1,1 @@
+lar[98548]=`<b>α, ον</b> <font color="purple">[τρᾰῠ]</font> long, large <i>ou</i> épais de quatre doigts, DIOSC. <i>1, 84</i> ; SEXT. <i>M. 10, 156</i>.<p><b>Étym</b>. τετραδάκτυλος.`

@@ -1,0 +1,1 @@
+lar[45298]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Èmathiôn, <i>h</i>. HÉS. <i>Th. 985</i>.<p>➳ <i>Voc</i>. -ίων, NONN. <i>D. 4, 183</i>.`

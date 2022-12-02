@@ -1,0 +1,1 @@
+lar[70832]=`<b>ὀκτακισ·μύριοι, αι, α</b> <font color="purple">[ᾰῡ]</font> quatre-vingt mille, DS. <i>14, 47</i>.<p><b>Étym</b>. ὀκτάκις, μύριοι.`

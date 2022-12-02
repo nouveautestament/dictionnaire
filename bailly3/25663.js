@@ -1,0 +1,1 @@
+lar[25663]=`<b>δια·σφαιρίζω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. διεσφαίριζε)</font> se jeter de l’un à l’autre comme une balle, EUR. <i>Bacch. 1136</i>.`

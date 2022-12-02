@@ -1,0 +1,1 @@
+lar[64953]=`<b>μετα·σαλεύω</b> <font color="purple">[σᾰ]</font> donner une secousse de manière à séparer, ORIG. <i>c. Cels. t. 1, p. 387</i>.`

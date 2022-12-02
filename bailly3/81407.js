@@ -1,0 +1,1 @@
+lar[81407]=`<b>ποικιλό·πτερος, ος, ον</b> <font color="purple">[ῐ]</font> aux ailes bigarrées <i>ou</i> tachetées, EUR. <i>Hipp. 1270 ; fig</i>. PRATIN. (ATH. <i>617d</i>).<p><b>Étym</b>. π. πτερόν.`

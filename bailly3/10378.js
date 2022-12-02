@@ -1,0 +1,1 @@
+lar[10378]=`<b>ἀντι·σηκόω-ῶ :</b> faire contrepoids, contrebalancer : τινος, EUR. <i>Hec. 57,</i> qqe ch. ; <i>avec le dat.</i> : τινι δὶς ῥοπῇ, ESCHL. <i>Pers. 437,</i> peser deux fois autant que qqe ch. ; <i>avec double rég</i>. τινὶ ἀ. τι, LUC. <i>Trag. 243,</i> compenser une chose par une autre.`

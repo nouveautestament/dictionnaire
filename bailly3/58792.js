@@ -1,0 +1,1 @@
+lar[58792]=`<b>κυνό·δηκτος, ος, ον</b> <font color="purple">[ῡ]</font> causé par la morsure d’un chien, ARSTT. <i>H.A. 9, 44, 8</i>.<p><b>Étym</b>. κύων, δάκνω.`

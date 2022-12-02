@@ -1,0 +1,1 @@
+lar[62130]=`<b>ου (ὁ)</b> <i>propr</i>. « petite lampe », <i>sorte de poisson,</i> LUC. <i>V.H. 2, 30</i>.<p><b>Étym</b>. λύχνος.`

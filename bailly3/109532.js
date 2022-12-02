@@ -1,0 +1,1 @@
+lar[109532]=`<i>adv</i>., comme un psaume, CHRYS. <i>t. 6, p. 976</i> ; NYSS. <i>143</i>.`

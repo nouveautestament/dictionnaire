@@ -1,0 +1,1 @@
+lar[55527]=`<font color="purple">[ᾰ]</font> ressembler au cinname <i>ou</i> au cannelier, DIOSC. <i>5, 139</i>.<p><b>Étym</b>. κιννάμωμον.`

@@ -1,0 +1,1 @@
+lar[96780]=`<i>adv</i>., à la façon d’une sphère, d’un globe, ARSTT. <i>Mund. 3, 5</i> ; PLUT. <i>M. 404f</i>.`

@@ -1,0 +1,1 @@
+lar[95059]=`<b>σύν·δειπνον, ου (τὸ)</b> souper <i>ou</i> repas en commun, AR. <i>fr. 204 Dind.</i> ; PLAT. <i>Conv. 172b ;</i> LYS. (ATH. <i>365b</i>) ; PLUT. <i>M. 679a</i>.<p><b>Étym</b>. σ. δεῖπνον.`

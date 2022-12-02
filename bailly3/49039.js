@@ -1,0 +1,1 @@
+lar[49039]=`<b>ἰνέω-ῶ</b> (<i>seul. prés. et fut. pass</i>.) faire évacuer, purger, <i>d’où au pass</i>. être expulsé par une purgation, HPC. <i>418, 6 et 8 ; 419, 38</i>.<br><b><i>Moy.</i></b> (<i>fut</i>. ἰνήσομαι <i>au sens pass.) m. sign</i>. HPC. <i>610, 10 ; 642, 55</i>.`

@@ -1,0 +1,1 @@
+lar[99490]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit mur, RHÉT. <i>1, 642, 5 W</i>.`

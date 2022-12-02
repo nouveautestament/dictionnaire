@@ -1,0 +1,1 @@
+lar[42230]=`<b>εὐθύ·γραμμος, ος, ον</b>, rectiligne, ARSTT. <i>Cæl. 2, 4, 1</i> ; τὸ εὐθύγραμμον, ARSTT. <i>An. pr. 2, 25, 2 ; Probl. 16, 4, 2</i> ; TH. <i>H.P. 1, 12, 1,</i> la ligne droite.<p><b>Étym</b>. εὐθύς, γραμμή.`

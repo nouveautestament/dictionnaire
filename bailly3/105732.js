@@ -1,0 +1,1 @@
+lar[105732]=`<b>ή, όν</b> <font color="purple">[φῐ]</font> <i>c</i>. φιλογυμναστής, PLAT. <i>Rsp. 455e ;</i> ARSTT. <i>Eud. 2, 5, 5</i>.`

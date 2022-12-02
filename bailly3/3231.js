@@ -1,0 +1,1 @@
+lar[3231]=`<b>ἀ·καταχώριστος, ος, ον</b>, non mis en ordre, non rangé, ARSTT. <i>Probl. 28, 1</i>.<p><b>Étym</b>. ἀ, καταχωρίζω.`

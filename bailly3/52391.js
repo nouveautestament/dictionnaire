@@ -1,0 +1,1 @@
+lar[52391]=`<font color="purple">[εᾱ]</font> <i>vb. de</i> καταθεάομαι PROCL. <i>Plat. Parm. 537</i>.`

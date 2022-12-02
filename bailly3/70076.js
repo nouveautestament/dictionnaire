@@ -1,0 +1,1 @@
+lar[70076]=`<b>α, ον</b> de voyage : τὰ ὁδαῖα, OD. <i>8, 163 ; 15, 445,</i> marchandises que l’on transporte, cargaison.<p><b>Étym</b>. ὁδός.`

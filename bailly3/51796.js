@@ -1,0 +1,1 @@
+lar[51796]=`<b>Καρικο·εργής</b>, <i>par contr. éol</i>. <b>Καρικευργής, ής, ές</b> <font color="purple">[ᾱῐ]</font> fait par un Carien, <i>càd</i>. fait sans goût, ANACR. <i>91</i>.<p><b>Étym</b>. Καρικός, ἔργον.`

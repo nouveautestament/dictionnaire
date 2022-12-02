@@ -1,0 +1,1 @@
+lar[41758]=`anoblir, PHILÉM. <i>fr. 189</i>.<p><b>Étym</b>. εὐγενής.`

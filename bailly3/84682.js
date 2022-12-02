@@ -1,0 +1,1 @@
+lar[84682]=`<b>έως (ὁ)</b> Promanthée, <i>litt</i>. « celui qui sait l’avenir, » <i>ép. de Zeus,</i> LYC. <i>537</i>.<p><b>Étym</b>. προμανθάνω.`

@@ -1,0 +1,1 @@
+lar[7455]=`<b>οῦ (ὁ)</b> qui envoie sur terre (l’ombre d’un mort) ESCHL. <i>Pers. 650</i>.<p><b>Étym</b>. ἀναπέμπω.`

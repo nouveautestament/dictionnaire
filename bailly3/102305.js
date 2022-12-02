@@ -1,0 +1,1 @@
+lar[102305]=`<b>ὑπερ·άστειος, ος, ον</b>, extrêmement spirituel, ATH. <i>250e</i>.<p><b>Étym</b>. ὑ. ἀστεῖος.`

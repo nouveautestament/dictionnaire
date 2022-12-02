@@ -1,0 +1,1 @@
+lar[33672]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ἐμφαντικῶς, SEXT. <i>643 Bkk.</i> ; CHRYS. <i>9, 642 Migne</i>.`

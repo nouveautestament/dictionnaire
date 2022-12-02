@@ -1,0 +1,1 @@
+lar[109231]=`<b>χρυσο·πλόκαμος, ος, ον</b> <font color="purple">[ῡᾰ]</font> aux boucles <i>ou</i> aux tresses d’or, HH. <i>Ap. 205</i>.`

@@ -1,0 +1,1 @@
+lar[108737]=`<b>όεσσα, όεν :<br>      1</b> plein de bile, bilieux, NIC. <i>Th. 253</i>.<br><b>      2</b> qui ressemble à de la bile, NIC. <i>Al. 12, 17</i> ; OPP. <i>C. 1, 381</i>.<p><b>Étym</b>. χόλος.`

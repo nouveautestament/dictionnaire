@@ -1,0 +1,1 @@
+lar[96151]=`<b>συν·ολισθαίνω</b>, glisser <i>ou</i> tomber avec, <i>dat</i>. PLUT. <i>M. 807d ; abs</i>. ARSTT. (STR. <i>182</i>) ; PLUT. <i>Per. 6, etc</i>.`

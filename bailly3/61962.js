@@ -1,0 +1,1 @@
+lar[61962]=`<b>λυπρό·βιος, ος, ον</b>, qui vit tristement, misérablement, STR. <i>318</i>.<p><b>Étym</b>. λυπρός, βίος.`

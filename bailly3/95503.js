@@ -1,0 +1,1 @@
+lar[95503]=`<b>συν·εξανθέω-ῶ</b>, fleurir avec <i>ou</i> en même temps, PLUT. <i>M. 434b</i>.`

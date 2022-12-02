@@ -1,0 +1,1 @@
+lar[52749]=`<b>ας (ἡ)</b> correspondance, proportion, NICOM. <i>Arithm. 100</i>.<p><b>Étym</b>. κατάλληλος.`

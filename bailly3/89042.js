@@ -1,0 +1,1 @@
+lar[89042]=`<b>ωνος (ὁ)</b> Sabakôn, <i>n. d’h. rom</i>. PLUT. <i>Mar. 5</i>.`

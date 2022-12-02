@@ -1,0 +1,1 @@
+lar[44570]=`<b>ος, ον</b>, <i>vb. de</i> ζητέω, SOPH. <i>Aj. 470</i> ; AR. <i>Th. 604, etc. ; au neutre,</i> PLAT. <i>Phil. 58e, etc</i>.`

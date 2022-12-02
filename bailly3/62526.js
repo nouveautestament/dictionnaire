@@ -1,0 +1,1 @@
+lar[62526]=`<b>μακρο·κέφαλος, ος, ον</b> <font color="purple">[φᾰ]</font> à longue tête, STR. <i>520</i>.<p>•<i> Sup</i>. -ώτατος, HPC. <i>Aër. 289</i>.<p><b>Étym</b>. μ. κεφαλή.`

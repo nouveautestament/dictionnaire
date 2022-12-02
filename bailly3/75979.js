@@ -1,0 +1,1 @@
+lar[75979]=`<b>παρα·νέω</b>, nager le long de <i>ou</i> au delà de, <i>dat</i>. LUC. <i>Lex. 5</i>.`

@@ -1,0 +1,1 @@
+lar[60847]=`<b>Ληρό·κριτος, ου (ὁ)</b> Lèrokritos (Lèrocrite) <i>parodie du nom de Démocrite</i> (Δημόκριτος) EPIC. (DL. <i>10, 4).</i><p><b>Étym</b>. λῆρος, κρίνω.`

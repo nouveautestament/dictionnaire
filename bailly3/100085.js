@@ -1,0 +1,1 @@
+lar[100085]=`<b>τριακοντά·πους</b>, <i>gén</i>. <b>ποδος (ὁ, ἡ)</b> <font color="purple">[ᾱᾰ]</font> long <i>ou</i> haut de trente pieds, DH. <i>9, 68 dout</i>.<p><b>Étym</b>. τρ. πούς.`

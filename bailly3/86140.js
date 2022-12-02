@@ -1,0 +1,1 @@
+lar[86140]=`<b>εως (ἡ)</b> action d’attaquer, attaque, assaut, combat, THC. <i>5, 72</i> ; DC. <i>40, 2, etc</i>.<p><b>Étym</b>. προσμίγνυμι.`

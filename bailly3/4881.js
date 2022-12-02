@@ -1,0 +1,1 @@
+lar[4881]=`<b>*ἄλξ</b> (<i>seul. dat</i>. <b>ἀλκί</b>) force : ἀλκὶ πεποιθώς, IL. <i>5, 299</i> ; OD. <i>6, 130,</i> confiant dans sa force ; <i>cf</i>. THGN. <i>949</i>.<p><b>Étym</b>. <i>cf</i>. ἀλκή.`

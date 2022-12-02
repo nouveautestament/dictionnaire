@@ -1,0 +1,1 @@
+lar[79979]=`<font color="darkgreen">(<i>impf</i>. ἐπέφυκον)</font> <font color="purple">[ῡ]</font> <i>prés. épq. formé du pf</i>. πέφυκα <font color="purple">[ῡ]</font> être, HÉS. <i>O. 148, Th. 152, Sc. 76</i>.`

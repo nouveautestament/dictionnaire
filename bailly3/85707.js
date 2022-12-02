@@ -1,0 +1,1 @@
+lar[85707]=`<b>προσ·επιπλήσσω</b>, <i>att</i>. <b>-πλήττω</b>, reprocher en outre, ARSTT. <i>Rhet. 3, 7, 9</i> (<i>var</i>. προεπι-).`

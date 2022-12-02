@@ -1,0 +1,1 @@
+lar[49244]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> fils d’Hippasos, IL. <i>13, 411 ; 17, 348, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Ἵππασος.`

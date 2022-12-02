@@ -1,0 +1,1 @@
+lar[41151]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾱ]</font> sorte de plante, PLIN. <i>H.N. 24, 102</i>.<p><b>Étym</b>. ἑστιάτωρ.`

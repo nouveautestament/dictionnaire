@@ -1,0 +1,1 @@
+lar[20851]=`<b>ου (ὁ)</b> Brontès, <i>litt</i>. le Tonnant, <i>Cyclope,</i> HÉS. <i>Th. 140</i>.<p><b>Étym</b>. βροντάω.`

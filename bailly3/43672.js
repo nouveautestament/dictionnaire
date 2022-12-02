@@ -1,0 +1,1 @@
+lar[43672]=`<b>Εὔ·τυχος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Eutykhos, <i>h</i>. ANTH. <i>11, 215 ; App. 221</i>.<p><b>Étym</b>. <i>cf</i>. εὐτυχής.`

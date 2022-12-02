@@ -1,0 +1,1 @@
+lar[59838]=`<b>λαο·χαρής, ής, ές</b> <font color="purple">[ᾱᾰ]</font> qui réjouit le peuple, J. GÉOM. <i>H. in Virg. 4, p. 867</i>.<p><b>Étym</b>. λ. χαίρω ; <i>cf</i>. Χαρίλαος.`

@@ -1,0 +1,1 @@
+lar[56724]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> habitant d’un golfe, PHILSTR. <i>126, 254</i>.<p><b>Étym</b>. κόλπος.`

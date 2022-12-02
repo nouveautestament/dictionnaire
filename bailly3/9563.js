@@ -1,0 +1,1 @@
+lar[9563]=`<b>ἀντ·εκθέω</b>, s’élancer contre, ARR. <i>An. 1, 21</i>.`

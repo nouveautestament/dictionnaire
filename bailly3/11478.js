@@ -1,0 +1,1 @@
+lar[11478]=`<i>adv</i>., sans cesse, DC. <i>37, 46</i>.<p><b>Étym</b>. ἄπαυστος.`

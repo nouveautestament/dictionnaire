@@ -1,0 +1,1 @@
+lar[50533]=`<b>ου (ὁ)</b> vent du sud-est, <i>sel. d’autres,</i> du sud-ouest = <i>lat</i>. vulturnus, AR. <i>Eq. 437</i> ; ARSTT. <i>Mund. 4, etc.</i> ; TH. <i>Sign. 2, 11, etc.</i> ; PLUT. <i>Sert. 17, etc</i>.`

@@ -1,0 +1,1 @@
+lar[103467]=`<b>ὑπό·λευκος, ος, ον</b>, blanchâtre <i>ou</i> blanc en partie, HPC. <i>Epid. 3, 1090</i> ; ARSTT. <i>H.A. 4, 2, 11</i> ; TH. <i>C.P. 2, 4, 3</i>.<p><b>Étym</b>. ὑ. λευκός.`

@@ -1,0 +1,1 @@
+lar[97639]=`<b>ταράξ·ιππος, ος, ον</b> <font color="purple">[τᾰ]</font> qui trouble <i>ou</i> effraye les chevaux, <i>en parl. de Poséidon,</i> D. CHR. <i>1, 691 ; en parl. d’un autel ou d’un tombeau dans le stade, à Olympie,</i> PAUS. <i>6, 20, 15, etc.</i> ; ANTH. <i>14, 4</i>.<p><b>Étym</b>. ταράσσω, ἵππος.`

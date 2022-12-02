@@ -1,0 +1,1 @@
+lar[67550]=`<b>μωρό·σοφος, ος, ον</b>, follement sage <i>ou</i> sagement fou, LUC. <i>Alex. 40</i>.<p><b>Étym</b>. μωρός, σοφός.`

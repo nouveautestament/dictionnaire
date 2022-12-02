@@ -1,0 +1,1 @@
+lar[69140]=`<b>νυκτι·λόχος, ος, ον</b> <font color="purple">[ῐ]</font> qui tend des embûches pendant la nuit, NONN. <i>Jo. 19, 18</i>.<p><b>Étym</b>. ν. λόχος.`

@@ -1,0 +1,1 @@
+lar[103983]=`<b>ὑπο·τέλλομαι</b>, s’élever de dessous, A.RH. <i>2, 83</i>.`

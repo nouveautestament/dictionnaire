@@ -1,0 +1,1 @@
+lar[87766]=`<b>ων (οἱ)</b> les habitants de Pyrasos, THC. <i>2, 22</i>.<p><b>Étym</b>. Πύρασος².`

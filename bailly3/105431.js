@@ -1,0 +1,1 @@
+lar[105431]=`<b>φιλ·αδύναμος, ος, ον</b> <font color="purple">[ῐᾰῠᾰ]</font> qui ôte les forces, <i>au</i> <i>• Sup</i>. -ώτατος, HPC. <i>Acut. 394</i>.<p><b>Étym</b>. φίλος, ἀδ.`

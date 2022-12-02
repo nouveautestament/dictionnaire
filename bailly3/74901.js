@@ -1,0 +1,1 @@
+lar[74901]=`<b>Παν·αχαΐς, ΐδος</b> <font color="purple">[ᾰᾰῐδ]</font> <i>adj. f</i>. honorée par tous les Achéens, <i>càd</i>. par tous les Grecs, <i>ép. d’Athèna,</i> PAUS. <i>7, 20, 2</i>.<p><b>Étym</b>. Παναχαιοί.`

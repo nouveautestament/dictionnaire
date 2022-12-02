@@ -1,0 +1,1 @@
+lar[73342]=`<b>ή, όν</b>, qui frappe l’odorat, ARSTT. <i>An. 2, 9, etc</i>.<p><b>Étym</b>. <i>vb. de</i> ὀσφραίνομαι.`

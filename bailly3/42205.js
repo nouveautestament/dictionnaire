@@ -1,0 +1,1 @@
+lar[42205]=`<i>adv</i>., en touchant le but, <i>d’où</i> justement, correctement, SPT. <i>2Macc. 15, 38</i>.`

@@ -1,0 +1,1 @@
+lar[77648]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Peirasos, <i>h</i>. Q. SM. <i>11, 52</i>.`

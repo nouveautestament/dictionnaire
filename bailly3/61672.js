@@ -1,0 +1,1 @@
+lar[61672]=`<b>ας (ἡ)</b> = <i>lat</i>. Lucrētia, Lucrèce, <i>n. de f. rom</i>. DH. <i>4, 65</i> ; PLUT. <i>Num. 21, Popl. 1, 12, etc</i>.`

@@ -1,0 +1,1 @@
+lar[107745]=`<font color="purple">[χᾰ]</font> <i>adv</i>., sur <i>ou</i> vers la terre, à terre, <i>avec mouv</i>. IL. <i>3, 29, etc.</i> ; OD. <i>21, 136, etc.</i> ; EUR. <i>Bacch. 633</i> ; AR. <i>Ach. 341, 344</i> ; PLUT. <i>Syll. 28 ; sans mouv</i>. LUC. <i>Lex. 2, etc</i>.<p><b>Étym</b>. <i>th</i>. χαμα-, -ζε.`

@@ -1,0 +1,1 @@
+lar[53514]=`<b>κατα·σχεδιάζω</b>, traiter légèrement, négliger, faire fi de, <i>gén</i>. JOS. <i>B.J. 3, 8, 9</i>.`

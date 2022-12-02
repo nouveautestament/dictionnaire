@@ -1,0 +1,1 @@
+lar[105395]=`<i>ion</i>. <b>φιδαλείη, ης (ἡ)</b> <font color="purple">[ῐδᾰ]</font> Phidaleia, <i>f</i>. NONN. <i>D. 36, 177, etc</i>.`

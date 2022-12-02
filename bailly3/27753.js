@@ -1,0 +1,1 @@
+lar[27753]=`<b>δουρί·φατος, ος, ον</b> <font color="purple">[ῐᾰ]</font> tué par la lance, OPP. <i>H. 4, 556</i>.<p><b>Étym</b>. δόρυ, πεφνεῖν.`

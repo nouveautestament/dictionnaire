@@ -1,0 +1,1 @@
+lar[76242]=`<font color="purple">[τᾰ]</font> <i>vb. de</i> παρίστημι, PHIL. <i>2, 19, etc.</i> ; CLÉM. <i>2, 12 Migne, etc</i>.`

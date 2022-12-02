@@ -1,0 +1,1 @@
+lar[93094]=`<i>gén</i>. <b>στυγός (ἡ)</b> <font color="purple">[ῠγ]</font><br><b>   I</b> froid glacial, frisson, TH. <i>C.P. 5, 14, 4 au plur.</i><br><b>   II</b> <i>p. suite,</i> ce qui donne le frisson, <i>d’où</i> :<br><b>      1</b> objet horrible, monstre, ESCHL. <i>Ch. 532</i>.<br><b>      2</b> horreur, ALCIPHR. <i>3, 34</i>.<p><b>Étym</b>. στυγέω.`

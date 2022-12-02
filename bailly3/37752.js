@@ -1,0 +1,1 @@
+lar[37752]=`<b>ἐπι·ζυγέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. part. prés. duel</i> ἐπιζυγέοντε) être attachés tous deux ensemble, NIC. <i>fr. 2, 22</i>.<p><b>Étym</b>. ἐπί, ζυγόν.`

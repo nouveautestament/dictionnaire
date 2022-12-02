@@ -1,0 +1,1 @@
+lar[102870]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> outre mesure, excessivement, IL. <i>13, 293 ; 18, 300</i> ; OD. <i>17, 481 ; 21, 285</i>.<br><b>      2</b> avec orgueil <i>ou</i> arrogance, OD. <i>1, 227 ; 4, 663, etc</i>.`

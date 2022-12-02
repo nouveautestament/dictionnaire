@@ -1,0 +1,1 @@
+lar[11978]=`<b>ἀ·πινής, ής, ές</b> <font color="purple">[ῐ]</font> non sale, propre, ATH. <i>661d</i>.<p><b>Étym</b>. ἀ, πίνος.`

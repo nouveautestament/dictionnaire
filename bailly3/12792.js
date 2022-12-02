@@ -1,0 +1,1 @@
+lar[12792]=`<b>Ἀπολλο·κράτης, ους (ὁ)</b> Apollokratès, PLUT. <i>Dio. 37</i>.<p>➳ <i>Acc</i>. -ην, PLUT. <i>Dio. 56</i>.<p><b>Étym</b>. Ἀ. κράτος.`

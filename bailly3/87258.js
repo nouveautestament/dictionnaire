@@ -1,0 +1,1 @@
+lar[87258]=`donner le droit d’aînesse, SPT. <i>Deut. 21, 16</i>.<p><b>Étym</b>. πρωτότοκος.`

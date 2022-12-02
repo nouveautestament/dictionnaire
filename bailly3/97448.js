@@ -1,0 +1,1 @@
+lar[97448]=`<b>ῶν (οἱ)</b> <font color="purple">[ῠᾰ]</font> les descendants de Talthybios, HDT. <i>7, 134, etc</i>.<p><b>Étym</b>. <i>v</i>. Ταλθύβιος.`

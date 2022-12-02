@@ -1,0 +1,1 @@
+lar[98609]=`<b>τετρα·μναῖος, α, ον</b>, du prix <i>ou</i> du poids de quatre mines, DS. <i>3, 16</i>.<p><b>Étym</b>. τ. μνᾶ.`

@@ -1,0 +1,1 @@
+lar[80423]=`<b>*Πισεύς (ὁ)</b> <font color="purple">[ῑ]</font> (<i>seul. acc. pl. ion</i>. Πισῆας) les Pisées, <i>habitants de Pisa,</i> THCR. <i>Idyl. 25, 201</i>.<p><b>Étym</b>. Πῖσα.`

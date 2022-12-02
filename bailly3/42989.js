@@ -1,0 +1,1 @@
+lar[42989]=`<b>εὐ·περίοπτος, ος, ον</b>, qu’on peut dédaigner, méprisable, POL. <i>fr. 30</i>.<p><b>Étym</b>. εὖ, περιόψομαι.`

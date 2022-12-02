@@ -1,0 +1,1 @@
+lar[108424]=`<font color="purple">[ῑ]</font> chanter à la mode de Khios, <i>càd</i>. exécuter des modulations trop savantes à la façon de Dèmokritos de Khios, AR. <i>fr. 558</i>.<p><b>Étym</b>. Χῖος.`

@@ -1,0 +1,1 @@
+lar[26831]=`<b>δι·όπτης, ου (ὁ) :<br>      1</b> qui veille sur toutes choses, <i>ép. de Zeus,</i> AR. <i>Ach. 435</i>.<br><b>      2</b> éclaireur, espion, DC. <i>78, 14</i> ; δ. στρατιᾶς Ἑλλάδος, EUR. <i>Rhes. 234,</i> espion envoyé pour observer l’armée grecque.<p><b>Étym</b>. διόψομαι.`

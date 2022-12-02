@@ -1,0 +1,1 @@
+lar[58307]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> bruit produit par un choc, bruit retentissant (de coups sur la tête en signe de deuil) EUR. <i>Andr. 1212</i> ; (d’instruments, tambours, <i>etc</i>.) DC. <i>51, 17</i> ; (du tonnerre, CRITI. <i>dans</i> SEXT. <i>563, 20).</i><p><b>Étym</b>. κτυπέω.`

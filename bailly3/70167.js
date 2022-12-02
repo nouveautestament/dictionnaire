@@ -1,0 +1,1 @@
+lar[70167]=`<b>ατος (τὸ)</b> <i>c</i>. ὀδυρμός <i>d’ord. au pl</i>. ESCHL. <i>Ch. 508</i> ; SOPH. <i>Tr. 50, 936 ; au sg</i>. EUR. <i>Tr. 1227</i>.`

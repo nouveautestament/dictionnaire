@@ -1,0 +1,1 @@
+lar[55048]=`<b>ας (ἡ)</b> Cestilia, <i>n. de f. rom</i>. EL. <i>V.H. 14, 45</i>.`

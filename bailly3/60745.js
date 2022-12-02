@@ -1,0 +1,1 @@
+lar[60745]=`<b>ης (ἡ)</b> le Lèthè, <i>fl. des Enfers,</i> LUC. <i>D. mort. 13, 6</i> ; PAUS. <i>9, 39, 8</i>.<p>➳ <i>Dor</i>. Λάθα <font color="purple">[ᾱᾱ]</font> PLUT. <i>Cons. ad Apoll. 15</i>.`

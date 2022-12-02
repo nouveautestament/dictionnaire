@@ -1,0 +1,1 @@
+lar[19213]=`<b>βαρύ·τλητος, ος, ον</b> <font color="purple">[ᾰυ]</font><br><b>      1</b> <i>pass</i>. difficile à supporter, intolérable, A. PL. <i>245</i>.<br><b>      2</b> <i>act</i>. qui supporte avec peine, NAUMACH. (STOB. <i>Fl. 58, 5</i>) ; ANTH. <i>7, 343</i>.<p><b>Étym</b>. β. τλῆναι.`

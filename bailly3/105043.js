@@ -1,0 +1,1 @@
+lar[105043]=`<i>p</i>. *φάϝω, <i>anc. forme de</i> φάω, EUST. <i>1728, 7</i> ; HSCH., EM.`

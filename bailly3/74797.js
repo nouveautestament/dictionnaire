@@ -1,0 +1,1 @@
+lar[74797]=`<b>παμ·ψέκτωρ, ορος</b>, <i>adj. m</i>. qui blâme tout, détracteur, MAN. <i>4, 58</i>.<p><b>Étym</b>. π. ψέγω.`

@@ -1,0 +1,1 @@
+lar[89128]=`<b>ατος (τὸ)</b> liquide filtré, DS. <i>5, 28 dout</i>.<p><b>Étym</b>. σακκελίζω.`

@@ -1,0 +1,1 @@
+lar[98460]=`<b>τεσσαρεσκαιδεκα·σύλλαβος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> de quatorze syllabes, HÉPH. <i>p. 47</i>.`

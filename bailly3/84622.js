@@ -1,0 +1,1 @@
+lar[84622]=`<b>προ·κυμάτια, ων (τὰ)</b> <font color="purple">[ῡᾰ]</font> digue, jetée, JOS. <i>A.J. 15, 9, 7</i>.<p><b>Étym</b>. π. κῦμα.`

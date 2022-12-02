@@ -1,0 +1,1 @@
+lar[105399]=`<b>ης (ἡ)</b> PLUT. <i>Rom. 17, 25, etc. ; d’ord. plur</i>. <b>Φιδῆναι, ῶν (αἱ)</b> Fidènes, <i>v. de la Sabine en Italie,</i> PLUT. <i>Rom. 23, 25 ; Popl. 22, etc</i>.`

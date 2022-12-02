@@ -1,0 +1,1 @@
+lar[15724]=`<b>ου (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> baignoire, IL. <i>10, 576, etc.</i> ; OD. <i>3, 468, etc.</i> ; PAUS. <i>10, 34, 8, etc.</i><br><b>      2</b> sorte de coupe, CRAT. (POLL. <i>6, 98).</i><p><b>Étym</b>. <i>pré-grec</i>.`

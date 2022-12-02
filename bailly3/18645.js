@@ -1,0 +1,1 @@
+lar[18645]=`<b>ος, ον</b> <font color="purple">[ῡᾰ]</font> qui ne réjouit pas (<i>litt</i>. qui n’entraîne pas) le cœur, POL. <i>9, 1, 5</i>.<p><b>Étym</b>. ἀ, ψυχαγωγέω.`

@@ -1,0 +1,1 @@
+lar[53126]=`<b>κατα·πολιορκέομαι-οῦμαι</b>, s’emparer de, occuper, <i>acc. fig</i>. EUM. <i>p. 437</i>.`

@@ -1,0 +1,1 @@
+lar[73708]=`<b>οὐρι·βάτας, ου</b> <font color="purple">[ῐᾰᾱ]</font> <i>adj. m. poét. c</i>. ὀρειβάτης, EUR. <i>fr. 775, 25</i>.`

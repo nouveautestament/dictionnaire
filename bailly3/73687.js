@@ -1,0 +1,1 @@
+lar[73687]=`<b>οὐρεσι·βώτας, ου</b> <font color="purple">[ῐᾱ]</font> <i>adj. m</i>. où l’on paît sur les montagnes, SOPH. <i>Ph. 1148</i>.<p><b>Étym</b>. οὖρος 5, βόσκω.`

@@ -1,0 +1,1 @@
+lar[74445]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne la lutte <i>ou</i> les lutteurs, PAUS. <i>1, 19, 3</i>.<br><b>      2</b> exercé <i>ou</i> propre à la lutte, ARSTT. <i>Rhet. 1, 5, 14</i> ; LUC. <i>D. deor. 20, 14</i>.<br><b>      3</b> produit <i>ou</i> entretenu par l’habitude de la lutte, PLUT. <i>M. 130a</i>.<p><b>Étym</b>. παλαιστή.`

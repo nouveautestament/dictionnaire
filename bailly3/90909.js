@@ -1,0 +1,1 @@
+lar[90909]=`<b>η, ον</b> <font color="purple">[λῐ]</font> <i>c</i>. σκιλλιτικός, DIOSC. <i>Par. 1, 78</i> ; ORIB. <i>65 Mai</i>.`

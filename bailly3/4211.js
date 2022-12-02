@@ -1,0 +1,1 @@
+lar[4211]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à un coq, EUN. (PHOT. <i>Bibl. 24).</i><p><b>Étym</b>. ἀ. -ωδης.`

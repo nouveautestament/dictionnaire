@@ -1,0 +1,1 @@
+lar[102180]=`<b>ατος (τὸ)</b> <font color="purple">[δῠ]</font> vêtement de dessous, ANTH. <i>6, 201, 292</i>.<p><b>Étym</b>. ὑπενδύω.`

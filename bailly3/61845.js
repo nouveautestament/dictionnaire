@@ -1,0 +1,1 @@
+lar[61845]=`<b>ου (ὁ)</b> Lykarètos, <i>roi de Samos,</i> HDT. <i>3, 143 ; 5, 27</i>.`

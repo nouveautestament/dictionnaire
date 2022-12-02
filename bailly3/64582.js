@@ -1,0 +1,1 @@
+lar[64582]=`<b>μεσ·ουράνιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui occupe le milieu du ciel, ARSTT. <i>Meteor. 3, 6, 8</i>.<p><b>Étym</b>. μ. οὐρανός.`

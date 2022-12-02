@@ -1,0 +1,1 @@
+lar[95567]=`<b>συν·επαιτιάομαι-ῶμαι</b>, accuser ensemble <i>ou</i> en même temps de, <i>gén</i>. THC. <i>1, 135</i> ; PLUT. <i>Per. 10 ; abs</i>. PLUT. <i>Them. 23</i>.`

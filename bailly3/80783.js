@@ -1,0 +1,1 @@
+lar[80783]=`<b>πλατύ·σαρκος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la chair épaisse, charnu, POLÉM. <i>270 dout</i>.<p><b>Étym</b>. πλατύς, σάρξ.`

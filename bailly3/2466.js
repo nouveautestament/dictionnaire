@@ -1,0 +1,1 @@
+lar[2466]=`<b>ή, όν :<br>      1</b> brûlé, AR. <i>Th. 246</i>.<br><b>      2</b> étincelant, <i>en parlant d’un bouclier,</i> PD. <i>P. 8, 48</i>.<br><b>      3</b> sombre, noir (cendre), CALL. <i>Dian. 69</i>.<p><b>Étym</b>. αἴθω.`

@@ -1,0 +1,1 @@
+lar[77169]=`<b>παρ·υπομιμνῄσκω</b> <font color="darkgreen">(<i>f</i>. -υπομνήσω, <i>etc</i>.)</font> rappeler en passant, <i>acc</i>. POL. <i>5, 31, 3</i>.`

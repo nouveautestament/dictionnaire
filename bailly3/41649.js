@@ -1,0 +1,1 @@
+lar[41649]=`<b>εὐ·αρίθμητος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à compter, peu nombreux, HPC. <i>Acut. 383</i> ; XÉN. <i>Hipp. 5, 5</i> ; PLAT. <i>Ap. 40d, Conv. 179c</i>.<p><b>Étym</b>. εὖ, ἀριθμέω.`

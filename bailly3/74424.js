@@ -1,0 +1,1 @@
+lar[74424]=`<b>*παλαιο·μήτωρ</b>, <i>dor</i>. <b>παλαιο·μάτωρ, ορος (ἡ)</b> <font color="purple">[ᾰᾱ]</font> mère antique, EUR. <i>Suppl. 638</i>.<p><b>Étym</b>. π. μήτηρ.`

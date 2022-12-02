@@ -1,0 +1,1 @@
+lar[24961]=`<b>ῆς (ἡ) :<br>      1</b> énumération détaillée, <i>d’où</i> évaluation exacte, ARSTT. <i>Pol. 2, 8, 15 ; Eud. 2, 5, 8</i>.<br><b>      2</b> dialogue, entretien, Ps.-PLUT. <i>V. Hom. 36</i>.<p><b>Étym</b>. διαλέγω.`

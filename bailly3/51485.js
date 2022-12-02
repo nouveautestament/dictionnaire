@@ -1,0 +1,1 @@
+lar[51485]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Kanakè, <i>fille d’Æolos,</i> CALL. <i>Cer. 100</i> ; ANTH. <i>11, 254</i>.`

@@ -1,0 +1,1 @@
+lar[1400]=`<b>ἀ·διέξοδος, ος, ον :<br>      1</b> sans issue, PLUT. <i>M. 179b ;</i> APP. <i>Mithr. 100</i>.<br><b>      2</b> qui ne peut sortir, ANTH. <i>11, 395</i>.`

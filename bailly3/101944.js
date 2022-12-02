@@ -1,0 +1,1 @@
+lar[101944]=`<b>ὑπ·αναθλίβω</b> <font color="purple">[ῠᾰνῑ]</font> faire jaillir en pressant, PLUT. <i>M. 901d</i>.`

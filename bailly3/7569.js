@@ -1,0 +1,1 @@
+lar[7569]=`<b>ἀνα·ρροιβδέω-ῶ</b>, engloutir avec bruit, OD. <i>12, 104</i> ; SOPH. <i>fr. 390</i>.<p><b>Étym</b>. ἀνά, ῥοιβδέω.`

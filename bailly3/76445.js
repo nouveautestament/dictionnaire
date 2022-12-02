@@ -1,0 +1,1 @@
+lar[76445]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>c</i>. παραφυάς, TH. <i>H.P. 7, 2, 5 ; p. anal. en parl. d’animaux,</i> ARSTT. <i>G.A. 4, 4, 43 et 45</i>.<br><b>      2</b> déviation de l’épine dorsale, HPC. <i>Art. 810</i>.<p><b>Étym</b>. παραφύω.`

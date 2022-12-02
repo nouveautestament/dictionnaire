@@ -1,0 +1,1 @@
+lar[89085]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> seine, <i>grand filet de pêcheur,</i> PLUT. <i>M. 169c ;</i> LUC. <i>Tim. 22, etc.</i><br><b>      2</b> <i>p. ext</i>. filet de chasseur, BABR. <i>43, 8</i>.`

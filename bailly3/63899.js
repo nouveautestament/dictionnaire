@@ -1,0 +1,1 @@
+lar[63899]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> noirceur, ARSTT. <i>Phys. 7, 2, 9</i>.<p><b>Étym</b>. μέλας.`

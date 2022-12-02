@@ -1,0 +1,1 @@
+lar[104806]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de rendre visible, <i>d’où</i> déclaration, CHRYS.<br><b>      2</b> action de devenir visible, manifestation, ARSTT. <i>Plant. 2, 1, 2, etc</i>.<p><b>Étym</b>. φανερόω.`

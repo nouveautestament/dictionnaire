@@ -1,0 +1,1 @@
+lar[9435]=`<b>εως (ἡ)</b> <font color="purple">[ᾰμ]</font> compensation, SPT. <i>Ps. 118, 112</i>.<p><b>Étym</b>. ἀνταμείβομαι.`

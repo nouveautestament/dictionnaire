@@ -1,0 +1,1 @@
+lar[6484]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> amome (<i>Cissus vitiginea</i> L.) <i>arbrisseau indien,</i> ARSTT. <i>fr. 105</i> ; TH. <i>H.P. 9, 7, 2</i> ; DIOSC. <i>1, 14, etc</i>.`

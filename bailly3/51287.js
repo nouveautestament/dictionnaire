@@ -1,0 +1,1 @@
+lar[51287]=`<b>καλο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[κᾰ <i>par licence pour</i> κᾱ, βᾱ]</font> qui marche avec des échasses, MAN. <i>4, 287</i>.<p><b>Étym</b>. κᾶλον, βαίνω.`

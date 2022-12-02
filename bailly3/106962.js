@@ -1,0 +1,1 @@
+lar[106962]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡᾰ]</font> action de ramasser du menu bois mort, des broussailles, THC. <i>7, 4, 13</i> ; POLYEN <i>1, 18</i> ; JOS. <i>B.J. 4, 9, 8</i>.<p><b>Étym</b>. φρυγανίζομαι.`

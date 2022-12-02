@@ -1,0 +1,1 @@
+lar[56366]=`<i>onomatopée pour imiter le cri des grenouilles,</i> AR. <i>Ran. 209, etc</i>.`

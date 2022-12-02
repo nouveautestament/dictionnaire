@@ -1,0 +1,1 @@
+lar[35920]=`<b>Ἐξηκεστιδ·αλκίδαι, ῶν (οἱ)</b> disciples des joueurs de lyre Exèkestidès et Alkidès, COM. ANON. (HSCH.).`

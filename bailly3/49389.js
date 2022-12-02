@@ -1,0 +1,1 @@
+lar[49389]=`<b>Ἱππο·μέδων, οντος (ὁ)</b> Hippomédon, <i>h</i>. ESCHL. <i>Sept. 488</i> ; EUR. <i>Suppl. 881, etc</i>.<p><b>Étym</b>. ἵ. μέδομαι.`

@@ -1,0 +1,1 @@
+lar[83948]=`<b>προ·διαστέλλω</b>, distinguer auparavant, DYSC. <i>Synt. p. 282, 18</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> s’expliquer d’avance clairement, JOS. <i>A.J. 4, 8, 4 ; acc</i>. JOS. <i>c. Ap. 1, 27</i>.<br><b>      2</b> s’entendre d’avance avec, <i>dat. avec</i> ἵνα, ATH. <i>521a</i>.`

@@ -1,0 +1,1 @@
+lar[81871]=`<b>πολυ·ειδής, ής, ές</b>, de différentes sortes, varié, THC. <i>7, 71 ; p. opp. à</i> μονοειδής, PLAT. <i>Rsp. 612a ; à</i> ἁπλοῦς, PLAT. <i>Phædr. 238a ;</i> τὸ π. <i>c</i>. πολυειδία, ARSTT. <i>Col. 3, 1</i>.<p>•<i> Cp</i>. -έστερος, DH. <i>Comp. 19 ; • Sup</i>. -έστατος, T. LOCR. <i>101b</i>.<p><b>Étym</b>. π. εἶδος.`

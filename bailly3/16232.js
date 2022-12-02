@@ -1,0 +1,1 @@
+lar[16232]=`<b>ἄ·στολος, ος, ον</b>, qui n’est pas une robe : ἄ. χιτών, SOPH. <i>fr. 791,</i> tunique qui ne couvre pas le corps.<p><b>Étym</b>. ἀ, στολή.`

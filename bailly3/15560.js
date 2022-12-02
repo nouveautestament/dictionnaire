@@ -1,0 +1,1 @@
+lar[15560]=`<b>ἀρχέ·χορος, ος, ον</b>, qui conduit le chœur, EUR. <i>Tr. 151</i> ; ANTH. <i>App. 221</i>.<p><b>Étym</b>. ἄρχω, χορός.`

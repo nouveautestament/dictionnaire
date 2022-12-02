@@ -1,0 +1,1 @@
+lar[5197]=`<b>ος, ον</b> <font color="purple">[ᾰμᾰλ]</font> obscur, invisible, ALC. <i>122</i>.`

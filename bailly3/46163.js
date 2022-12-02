@@ -1,0 +1,1 @@
+lar[46163]=`<b>θαλασσο·κράτωρ</b>, <i>att</i>. <b>θαλαττο·κράτωρ, ορος (ὁ)</b> <font color="purple">[θᾰᾰτ]</font> qui domine sur mer, HDT. <i>5, 83</i> ; THC. <i>8, 63</i>.<p>➳ θαλαττ. XÉN. <i>Hell. 1, 6, 2</i>.<p><b>Étym</b>. θ. κρατέω.`

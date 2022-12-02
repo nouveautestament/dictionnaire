@@ -1,0 +1,1 @@
+lar[5533]=`<i>adv.</i> :<br><b>      1</b> sans mesure, PLAT. <i>Phæd. 86c.</i><br><b>      2</b> immodérément XÉN. <i>Cyr. 1, 6, 34</i>.<p>•<i> Cp</i>. -ότερον, A. TR. <i>1, p. 15 ; • Sup</i>. -ότατα, A. TR.`

@@ -1,0 +1,1 @@
+lar[1402]=`<b>ἀ·διερεύνητος, ος, ον :<br>      1</b> non examiné à fond, non fouillé, <i>en parl. de pers</i>. PLUT. <i>Dio. 19</i>.<br><b>      2</b> qu’on ne peut examiner à fond, PLAT. <i>Tim. 25d</i>.<p><b>Étym</b>. ἀ, διερευνάω.`

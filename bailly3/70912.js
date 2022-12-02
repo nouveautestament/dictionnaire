@@ -1,0 +1,1 @@
+lar[70912]=`<b>Ὀλβιο·πολῖται (οἱ)</b> les Olbiopolites <i>ou</i> habitants d’Olbiopolis (<i>auj</i>. ruines de Stomagil, près d’Oczakow) HDT. <i>4, 18</i>.`

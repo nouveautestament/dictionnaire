@@ -1,0 +1,1 @@
+lar[35487]=`<b>ἐξ·ανέρχομαι</b> (<i>part. ao.2</i> ἐξανελθών) <font color="purple">[ᾰ]</font> sortir de, <i>gén</i>. EUR. <i>Tr. 748</i>.`

@@ -1,0 +1,1 @@
+lar[92629]=`<b>ή, όν</b>, brillant, IL. <i>14, 351</i> ; ARSTT. <i>Physiogn. 6, 38</i> ; LUC. <i>Im. 9, etc</i>.<p><b>Étym</b>. στίλβω.`

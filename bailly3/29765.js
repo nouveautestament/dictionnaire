@@ -1,0 +1,1 @@
+lar[29765]=`<b>ατος (τὸ)</b> embuscade, J. AFR. <i>p. 312 Veterum mathematicorum opera, Thévenot</i>.<p><b>Étym</b>. ἐγκρύπτω.`

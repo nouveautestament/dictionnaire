@@ -1,0 +1,1 @@
+lar[14550]=`<b>ἀρθρόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἤρθρωσα ; <i>pass. fut</i>. ἀρθρωθήσομαι ; <i>part. pf</i>. ἠρθρωμένος) :</font><br><b>      1</b> ajuster au moyen d’articulations, emboîter, HERMIPP. (ATH. <i>668a</i>).<br><b>      2</b> diviser par articulations, articuler, XÉN. <i>Mem. 1, 4, 12</i>.<p><b>Étym</b>. ἄρθρον.`

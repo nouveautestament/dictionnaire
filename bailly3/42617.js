@@ -1,0 +1,1 @@
+lar[42617]=`<b>εὔ·λοχος, ος, ον</b>, propice aux accouchements (Artémis) EUR. <i>Hipp. 166</i> ; CALL. <i>Ep. 56</i>.<p><b>Étym</b>. εὖ, λέχος.`

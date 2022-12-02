@@ -1,0 +1,1 @@
+lar[75424]=`<b>παρα·βουκολέω-ῶ</b>, séduire par des moyens déshonnêtes, ŒNOM. (EUS. <i>P.E. 211c</i>).`

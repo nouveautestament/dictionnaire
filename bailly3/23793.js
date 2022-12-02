@@ -1,0 +1,1 @@
+lar[23793]=`<b>δελτόομαι-οῦμαι</b> (<i>seul. part. prés. plur</i>. -ουμένας) prendre note sur ses tablettes, ESCHL. <i>Suppl. 179</i>.<p><b>Étym</b>. δέλτος.`

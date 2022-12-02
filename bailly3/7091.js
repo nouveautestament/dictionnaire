@@ -1,0 +1,1 @@
+lar[7091]=`<b>ῆρος (ὁ)</b> vase à puiser de l’eau pour les sacrifices chez les Juifs, JOS. <i>A.J. 8, 3, 7</i>.<p><b>Étym</b>. ἀναλαμβάνω.`

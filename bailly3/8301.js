@@ -1,0 +1,1 @@
+lar[8301]=`<b>ας (ἡ)</b> désespoir, ASCLÉP. <i>Tact. 5, 2</i> ; BAS. <i>1, 481 Migne</i>.<p><b>Étym</b>. ἀνέλπιστος.`

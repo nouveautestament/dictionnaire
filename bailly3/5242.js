@@ -1,0 +1,1 @@
+lar[5242]=`<b>α, ον</b> <font color="purple">[ᾰμᾰ]</font> des monts Amarantes, <i>en Colchide,</i> A.RH. <i>2, 401</i>.`

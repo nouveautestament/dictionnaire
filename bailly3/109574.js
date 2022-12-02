@@ -1,0 +1,1 @@
+lar[109574]=`<b>ωνος (ὁ)</b> Psammôn, <i>philosophe égyptien,</i> PLUT. <i>Alex. 27</i>.`

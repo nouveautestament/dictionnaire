@@ -1,0 +1,1 @@
+lar[73472]=`<b>οὐδέ·πω</b>, <i>adv</i>., pas encore, ESCHL. <i>Pr. 329, etc.</i> ; SOPH. <i>Ph. 16</i> ; XÉN. <i>Cyr. 2, 1, 20</i> ; PLAT. <i>Phæd. 92b, etc. ; avec un prés</i>. LUC. <i>M. cond. 21 ; avec intercalat. d’une particule</i> : οὐδέ τί πω, IL. <i>1, 108</i>.<p><b>Étym</b>. οὐδέ, πώ.`

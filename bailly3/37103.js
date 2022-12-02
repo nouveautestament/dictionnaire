@@ -1,0 +1,1 @@
+lar[37103]=`<b>ἐπ·εντίθημι</b> <font color="darkgreen">(<i>ao.2 opt. 3 sg</i>. ἐπενθείη)</font> intercaler, <i>particul</i>. intercaler par épenthèse, DYSC. <i>Adv. 558, 16 ; Synt. 55, 5 ; 240, 6</i>.`

@@ -1,0 +1,1 @@
+lar[17431]=`<b>αὐτο·δάϊκτος, ος, ον</b>, qui se déchire lui-même, ESCHL. <i>Sept. 735</i> ; qui se tue, ANTH. <i>9, 293</i>.<p><b>Étym</b>. αὐ. δαΐζω.`

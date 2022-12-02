@@ -1,0 +1,1 @@
+lar[8872]=`<b>ἀνθο·λόγος, ος, ον</b>, qui recueille la fleur de, ANTH. <i>12, 249</i>.<p><b>Étym</b>. ἄνθος, λέγω.`

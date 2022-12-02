@@ -1,0 +1,1 @@
+lar[49793]=`<b>ἰσό·χροος, ος, ον</b> <font color="purple">[ῑ̆]</font> d’une couleur uniforme, DIOSC. <i>2, 176</i>.<p><b>Étym</b>. ἴ. χρόα.`

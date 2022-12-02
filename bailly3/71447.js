@@ -1,0 +1,1 @@
+lar[71447]=`<b>ὁμό·γλωσσος</b>, <i>att</i>. <b>-ωττος, ος, ον</b>, qui parle la même langue, HDT. <i>8, 144</i> ; XÉN. <i>Cyr. 1, 1, 5</i> ; τινι, HDT. <i>1, 57, 171,</i> que qqn.<p><b>Étym</b>. ὁμ. γλῶσσα.`

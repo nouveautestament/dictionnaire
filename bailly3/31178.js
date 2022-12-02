@@ -1,0 +1,1 @@
+lar[31178]=`<b>ἐκ·δημαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> capter par des menées démagogiques, DH. <i>5, 61 ; 7, 4 et 56</i>.`

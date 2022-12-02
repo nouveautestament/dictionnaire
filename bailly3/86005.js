@@ -1,0 +1,1 @@
+lar[86005]=`couper la barbe, ATH. <i>565a</i>.`

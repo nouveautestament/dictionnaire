@@ -1,0 +1,1 @@
+lar[26077]=`<b>δί·εδρος, ος, ον :<br>      1</b> où deux personnes peuvent s’asseoir ; <i>subst</i>. τὸ δ. siège pour deux personnes, CALLIX. (ATH. <i>197b</i>).<br><b>      2</b> <i>fig</i>. dissident, adversaire, ARSTT. <i>H.A. 9, 1, 10</i>.<p><b>Étym</b>. δίς, ἕδρα.`

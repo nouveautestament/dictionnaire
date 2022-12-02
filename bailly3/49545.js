@@ -1,0 +1,1 @@
+lar[49545]=`<b>ιδος (ἡ)</b> pastel (<i>Isatis tinctoria</i> L.) <i>plante,</i> HPC. <i>874h ;</i> TH. <i>Sens. 77</i> ; DIOSC. <i>2, 216</i>.`

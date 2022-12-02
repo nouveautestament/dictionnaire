@@ -1,0 +1,1 @@
+lar[57286]=`<b>ή, όν</b>, qui concerne la création du monde, PHIL. <i>1, 4</i>.<p><b>Étym</b>. κοσμοποιέω.`

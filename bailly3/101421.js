@@ -1,0 +1,1 @@
+lar[101421]=`<b>ὑγρο·σκελής, ής, ές</b>, aux jambes souples <i>ou</i> délicates, LIB. <i>Ep. 585b</i>.<p><b>Étym</b>. ὑ. σκέλος.`

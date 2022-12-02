@@ -1,0 +1,1 @@
+lar[55046]=`<b>ου (τὸ)</b> brin d’étoupe, HÉROD. ATT. (STOB. <i>Fl. 76, 6</i>).`

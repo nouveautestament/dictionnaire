@@ -1,0 +1,1 @@
+lar[47943]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. θύμος, DIOSC. <i>3, 44</i> ; ANTH. <i>9, 226</i>.`

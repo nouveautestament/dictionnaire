@@ -1,0 +1,1 @@
+lar[104925]=`<b>ή, όν</b>, préparé avec du poison, empoisonné, MAN. <i>4, 52</i>.<p><b>Étym</b>. <i>vb. de</i> φαρμάσσω.`

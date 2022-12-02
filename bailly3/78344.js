@@ -1,0 +1,1 @@
+lar[78344]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾱ]</font> réfraction, inflexion, ARAT. <i>688</i>.<p><b>Étym</b>. περιάγνυμι.`

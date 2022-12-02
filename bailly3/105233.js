@@ -1,0 +1,1 @@
+lar[105233]=`<b>ικος (ὁ)</b> = <i>lat</i>. Felix, <i>n. d’h. rom</i>. PLUT. <i>Syll. 34, etc</i>.`

@@ -1,0 +1,1 @@
+lar[41449]=`<b>ἑτοιμο·πειθής, ής, ές</b>, prêt à obéir, HDN GR. <i>Epim. p. 38 Boissonade</i>.<p><b>Étym</b>. ἕ. πείθομαι.`

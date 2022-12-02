@@ -1,0 +1,1 @@
+lar[32953]=`<b>α, ον</b>, de l’Hellespont, HDT. <i>7, 95</i> ; XÉN. <i>Hell. 3, 4, 11, etc</i>.<p><b>Étym</b>. Ἑλλήσποντος.`

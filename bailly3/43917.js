@@ -1,0 +1,1 @@
+lar[43917]=`<b>ῆς (ἡ)</b> agrément, convenance, CLÉOM. <i>86, 19</i> ; ARR. <i>Epict. 1, 22, 2, etc.</i> ; PLUT. <i>M. 780b</i>.<p><b>Étym</b>. ἐφαρμόζω.`

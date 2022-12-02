@@ -1,0 +1,1 @@
+lar[2676]=`<b>εως (ἡ)</b> allusion, PLOT. <i>Enn. 2, 1380 Creuz</i>.<p><b>Étym</b>. αἰνίσσομαι.`

@@ -1,0 +1,1 @@
+lar[83092]=`<b>οῦ (ὁ)</b> celui qui donne à boire, qui abreuve, AQU. <i>Gen. 40, 1</i>.<p><b>Étym</b>. ποτίζω.`

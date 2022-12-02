@@ -1,0 +1,1 @@
+lar[90512]=`<b>ατος (τὸ)</b> <font color="purple">[σῑ]</font> nourriture, POÉT.<p><b>Étym</b>. <i>Wernsd. Philæ Carm. gr. p. 42, 227</i>.`

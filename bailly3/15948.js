@@ -1,0 +1,1 @@
+lar[15948]=`<b>α, ον</b>, qui concerne Asklèpios ; τὰ Ἀ. PLAT. <i>Ion 530a</i>, PAUS. les fêtes d’Asklèpios, <i>à Épidaure</i>.<p>➳ INSCR. <i>att. gén</i>. Ἀσκληπιέων, CIA. <i>2, 741 (334-330 av. J.-C.), à côté de</i> Ἀσκληπιείων.`

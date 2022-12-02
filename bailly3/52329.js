@@ -1,0 +1,1 @@
+lar[52329]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> celui qui condamne, JAMBL. <i>V. Pyth. p. 242</i>.<p><b>Étym</b>. καταδικάζω.`

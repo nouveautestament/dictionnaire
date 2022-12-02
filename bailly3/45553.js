@@ -1,0 +1,1 @@
+lar[45553]=`<font color="purple">[ῐ]</font> <i>adv</i>., à moitié, PLAT. <i>Rsp. 601c</i>.<p><b>Étym</b>. ἥμισυς.`

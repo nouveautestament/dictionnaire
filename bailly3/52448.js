@@ -1,0 +1,1 @@
+lar[52448]=`<b>εως (ἡ)</b> promesse, PLUT. <i>T. Gracch. 4</i>.<p><b>Étym</b>. καταινέω.`

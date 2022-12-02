@@ -1,0 +1,1 @@
+lar[87984]=`<b>πυρριχ·ίαμβος, ου (ὁ)</b> <font color="purple">[ῐχ]</font> mètre composé de pyrrhiques et d’ïambes, GRAMM. <i>3, 306 Cramer, Anecdota græca</i>.<p><b>Étym</b>. πυρρίχιος, ἴαμβος.`

@@ -1,0 +1,1 @@
+lar[76123]=`<b>ατος (τὸ)</b> heurt contre, <i>d’où</i> méprise, ŒNOM. (EUS. <i>3, 376 Migne).</i><p><b>Étym</b>. παραπταίω.`

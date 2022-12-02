@@ -1,0 +1,1 @@
+lar[9853]=`<b>ἀντι·δογματίζω</b> <font color="purple">[μᾰ]</font> prêcher une doctrine contraire, NYSS. <i>1, 4</i>.`

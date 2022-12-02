@@ -1,0 +1,1 @@
+lar[58837]=`<b>κυνο·σπάρακτος, ος, ον</b> <font color="purple">[ῠπᾰ]</font> déchiré par des chiens, SOPH. <i>Ant. 1198</i>.<p><b>Étym</b>. κύων, σπαράσσω.`

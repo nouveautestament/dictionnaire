@@ -1,0 +1,1 @@
+lar[61204]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐῠ]</font> Limyros, <i>fl. sur la côte sud de Lycie,</i> Q. SM. <i>8, 103</i>.`

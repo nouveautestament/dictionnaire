@@ -1,0 +1,1 @@
+lar[50567]=`<b>ητος (ἡ) :<br>      1</b> nouveauté, fraîcheur, PLUT. <i>Per. 13</i> ; PHILSTR. <i>922</i>.<br><b>      2</b> nouveauté, singularité, THC. <i>3, 38</i> ; ISOCR. <i>208b ; souv. au pl</i>. ISOCR. <i>23a ;</i> DC. <i>44, 3</i>.<p><b>Étym</b>. καινός.`

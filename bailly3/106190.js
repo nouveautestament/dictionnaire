@@ -1,0 +1,1 @@
+lar[106190]=`<b>φιλο·χορευτής, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> qui aime à conduire le chœur, AR. <i>Ran. 402, 408</i>.<p><b>Étym</b>. φ. χορεύω.`

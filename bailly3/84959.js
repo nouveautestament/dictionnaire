@@ -1,0 +1,1 @@
+lar[84959]=`<b>προ·πιστεύω :<br>      1</b> croire, ajouter foi, DÉM. <i>662, 20</i> ; DH. <i>11, 20, etc. ; au pass</i>. être cru, XÉN. <i>Ages. 4, 4</i>.<br><b>      2</b> rendre croyable, SEXT. <i>P. 1, 116 ; M. 8, 62, 122, 261</i>.`

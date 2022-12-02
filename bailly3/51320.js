@@ -1,0 +1,1 @@
+lar[51320]=`<b>Κάλπιος αὐχήν (ὁ)</b> le col Kalpios, <i>chaîne de mt. au N. de l’Europe,</i> ORPH. <i>Arg. 1128</i>.`

@@ -1,0 +1,1 @@
+lar[90285]=`<b>ου (ὁ)</b> = <i>lat</i>. Sĭlentiārius, <i>surn. d’un poète de l’Anthologie,</i> Paulus Silentiarius, ANTH. <i>5, 217</i>.`

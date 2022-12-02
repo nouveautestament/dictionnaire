@@ -1,0 +1,1 @@
+lar[55179]=`<b>οῦ (ὁ)</b> charme, enchantement, OD. <i>11, 334 ; 13, 2</i>.<p><b>Étym</b>. κηλέω.`

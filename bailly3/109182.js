@@ -1,0 +1,1 @@
+lar[109182]=`<b>χρυσό·καρπος, ος, ον</b>, aux fruits d’or, <i>n. du lierre,</i> DIOSC. <i>2, 210</i>.`

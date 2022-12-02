@@ -1,0 +1,1 @@
+lar[84409]=`<b>ιος (ἡ)</b> <font color="purple">[οῑω]</font> action de poursuivre, poursuite, HÉS. <i>Sc. 154</i>.<p><b>Étym</b>. π. ἰωκή.`

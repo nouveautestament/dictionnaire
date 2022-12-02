@@ -1,0 +1,1 @@
+lar[27351]=`<b>δογματο·ποιέω-ῶ</b> <font color="purple">[μᾰ]</font> rendre un décret, POL. <i>1, 81, 4</i>.<p><b>Étym</b>. δόγμα, ποιέω.`

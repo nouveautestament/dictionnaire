@@ -1,0 +1,1 @@
+lar[4893]=`<b>ας (ἡ)</b> irréflexion, POL. <i>5, 15, 3, etc.</i> ; PLUT. <i>Arist. c. Cat. ma. 4, M. 114e, 466</i> c : <i>joint à</i> δειλία, APP. <i>Mac. 14</i>.<p><b>Étym</b>. ἀλόγιστος.`

@@ -1,0 +1,1 @@
+lar[42841]=`<b>εὔ·οδμος, ος, ον</b>, qui a une odeur agréable, PD. <i>fr. 45, 14</i> ; TH. <i>H.P. 9, 13, 3</i> ; THCR. <i>Idyl. 3, 23 ; 17, 29</i>.<p><b>Étym</b>. εὖ, ὀδμή.`

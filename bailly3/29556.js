@@ -1,0 +1,1 @@
+lar[29556]=`<b>εως (ἡ)</b> engloutissement, PHIL. <i>1, 116</i>.<p><b>Étym</b>. ἐγκαταπίνω.`

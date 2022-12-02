@@ -1,0 +1,1 @@
+lar[80628]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Plakos, <i>mt de Mysie,</i> IL. <i>6, 396, 425</i>.`

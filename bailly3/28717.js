@@ -1,0 +1,1 @@
+lar[28717]=`<b>δυσ·όκνως</b> <font color="purple">[ῠ]</font> <i>adv</i>., avec regret, avec peine, M. ANT. <i>5, 1</i> ; HDN <i>6, 7, 3</i>.<p><b>Étym</b>. δ. ὄκνος.`

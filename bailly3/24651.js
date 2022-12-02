@@ -1,0 +1,1 @@
+lar[24651]=`<b>δια·θιγγάνω</b> (<i>seul. pass. prés. inf</i>. -άνεσθαι) toucher continuellement, ARSTT. <i>H.A. 10, 1, 7</i>.`

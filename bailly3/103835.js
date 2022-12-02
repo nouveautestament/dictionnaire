@@ -1,0 +1,1 @@
+lar[103835]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> ombrage (des arbres) HPC. <i>1273, 33</i>.<p><b>Étym</b>. ὑποσκιάζω.`

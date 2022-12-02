@@ -1,0 +1,1 @@
+lar[102560]=`<b>ὑπέρ·ινος, ος, ον</b> <font color="purple">[ῐ]</font> affaibli par d’excessives purgations, HPC. <i>1185e ; ou</i> par une fécondité excessive, ARSTT. <i>G.A. 3, 1, 16</i>.<p><b>Étym</b>. ὑπέρ, ἰνέω.`

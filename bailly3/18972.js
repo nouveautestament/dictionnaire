@@ -1,0 +1,1 @@
+lar[18972]=`<b>ου (ὁ)</b> sorte de carpe, ARSTT. <i>H.A. 6, 14, 12</i> (<i>var</i>. βαλῖνος ; <i>cf</i>. βαλλιρός).`

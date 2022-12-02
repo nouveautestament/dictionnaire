@@ -1,0 +1,1 @@
+lar[14240]=`NONN. <i>D. 16, 124 ; voc</i>. ἀργέτι, ANTH. <i>5, 254, formes réc. p. anal. avec les dat. et acc. épq</i>. ἀργέτι, ἀργέτα, <i>de</i> ἀργής.`

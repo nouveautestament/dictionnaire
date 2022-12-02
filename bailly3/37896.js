@@ -1,0 +1,1 @@
+lar[37896]=`<b>ἐπι·κάμνω</b>, se préoccuper <i>ou</i> souffrir de, <i>dat</i>. EL. <i>V.H. 14, 6</i>.`

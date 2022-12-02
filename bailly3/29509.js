@@ -1,0 +1,1 @@
+lar[29509]=`<b>ἐγ·καταγέλαστος, ος, ον</b>, exposé aux risées, ridicule, ESCHN. <i>64, 31 dout</i>.<p><b>Étym</b>. ἐν, κ.`

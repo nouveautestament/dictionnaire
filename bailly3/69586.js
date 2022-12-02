@@ -1,0 +1,1 @@
+lar[69586]=`<b>ός, όν</b> <font color="purple">[ῐ]</font> qui tire l’épée, ESCHL. <i>Eum. 592</i>.<p><b>Étym</b>. ξ. ἕλκω.`

@@ -1,0 +1,1 @@
+lar[43246]=`<font color="purple">[ᾰτ]</font> être fourbe comme Eurybatos, DIOGÉN. <i>4, 7</i>.<p><b>Étym</b>. Εὐρύβατος.`

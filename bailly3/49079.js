@@ -1,0 +1,1 @@
+lar[49079]=`<b>α, ον</b> <font color="purple">[ξῑ]</font> d’Ixion, IL. <i>14, 317</i>.<p><b>Étym</b>. Ἰξίων.`

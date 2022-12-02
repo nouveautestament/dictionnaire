@@ -1,0 +1,1 @@
+lar[79819]=`<i>att</i>. <b>πεττευτικός, ή, όν</b>, qui concerne le jeu de trictrac, PLAT. <i>Rsp. 333b, 374c ; subst</i>. ἡ πεττευτική, PLAT. <i>Gorg. 450d</i>, l’art de jouer au trictrac ; τὸ πεττευτικόν, PLAT. <i>Charm. 174b, ou</i> τὰ πεττευτικά, PLAT. <i>1 Alc. 110e</i>, le jeu de trictrac.<p><b>Étym</b>. πεττεύω.`

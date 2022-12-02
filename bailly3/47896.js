@@ -1,0 +1,1 @@
+lar[47896]=`<b>θυμ·ελαία, ας (ἡ)</b> <font color="purple">[ῠ]</font> thymélée (<i>p.-ê. Daphne cnidium</i> L.) plante à baies laxatives, DIOSC. <i>4, 173</i>.<p><b>Étym</b>. θύμος, ἐλαία.`

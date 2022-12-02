@@ -1,0 +1,1 @@
+lar[85696]=`<b>προσ·επιμανθάνω</b>, apprendre en outre pour soi, <i>acc</i>. DS. <i>4, 25</i> ; GAL. <i>6, 34</i>.`

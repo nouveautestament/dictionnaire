@@ -1,0 +1,1 @@
+lar[45366]=`<b>εως (ἡ)</b> action d’adoucir une nature sauvage, <i>particul.</i> :<br><b>      1</b> action de cultiver, TH. <i>C.P. 2, 4, 3</i>.<br><b>      2</b> action de civiliser, PLUT. <i>Num. 6</i>.<br><b>      3</b> action de purger de bêtes sauvages, DS. <i>1, 24</i>.<p><b>Étym</b>. ἡμερόω.`

@@ -1,0 +1,1 @@
+lar[28119]=`<b>ου (ὁ) :<br>      1</b> plongeur, CALL. <i>fr. 147</i> ; LYC. <i>752</i> ; OPP. <i>H. 2, 436</i>.<br><b>      2</b> plongeur, <i>oiseau,</i> LYC. <i>387</i>.<p><b>Étym</b>. δύπτω.`

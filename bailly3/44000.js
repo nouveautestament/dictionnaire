@@ -1,0 +1,1 @@
+lar[44000]=`<b>ή, όν</b>, <i>t. de gramm</i>. désidératif, CLÉM. <i>661</i>.<p><b>Étym</b>. ἐφετός.`

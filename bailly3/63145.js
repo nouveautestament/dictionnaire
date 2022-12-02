@@ -1,0 +1,1 @@
+lar[63145]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. ματαιότης, POLÉM. <i>Physiogn. 1, 6</i> ; ADAM. <i>1, 5</i>.`

@@ -1,0 +1,1 @@
+lar[104531]=`<b>ὑψί·πρῳρος, ος, ον</b>, à la proue élevée, STR. <i>195,</i> PORPH. (EUS. <i>P.E. 195d</i>).<p><b>Étym</b>. ὕ. πρῴρα.`

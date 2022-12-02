@@ -1,0 +1,1 @@
+lar[17704]=`<b>αὐτο·στράτηγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> chef de troupe indépendant, DC.`

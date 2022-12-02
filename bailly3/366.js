@@ -1,0 +1,1 @@
+lar[366]=`<b>(ἡ)</b> <i>indécl</i>. Agar, <i>n. de f. hébreu,</i> SPT. <i>Gen. 16, 1</i>.`

@@ -1,0 +1,1 @@
+lar[13156]=`<b>ἀπο·προτέμνω</b> (<i>part. ao.2</i> -προταμών) couper une part, une tranche de, <i>gén</i>. OD. <i>8, 475</i>.`

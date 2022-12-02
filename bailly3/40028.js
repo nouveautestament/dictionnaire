@@ -1,0 +1,1 @@
+lar[40028]=`<b>ἑπτα·τόκος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a enfanté sept fois, NONN. <i>D. 13, 148</i>.<p><b>Étym</b>. ἑ. τίκτω.`

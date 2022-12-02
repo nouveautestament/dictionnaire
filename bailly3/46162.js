@@ -1,0 +1,1 @@
+lar[46162]=`<b>*θαλασσο·κρατία</b>, <i>att</i>. <b>θαλαττο·κρατία, ας (ἡ)</b> <font color="purple">[θᾰᾰτ]</font> empire de la mer, STR. <i>48</i>.`

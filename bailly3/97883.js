@@ -1,0 +1,1 @@
+lar[97883]=`<b>ταχύ·γλωσσος, ος, ον</b> <font color="purple">[ᾰ]</font> qui parle vite <i>ou</i> trop vite, HPC. <i>1050d, etc</i>.<p>•<i> Cp</i>. -ότερος, HPC.<p><b>Étym</b>. τ. γλῶσσα.`

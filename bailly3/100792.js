@@ -1,0 +1,1 @@
+lar[100792]=`<i>adv</i>., en rond, circulairement, DIOSC. <i>3, 117</i>.<p><b>Étym</b>. τροχοειδής.`

@@ -1,0 +1,1 @@
+lar[29033]=`<b>δυσ·χώρητος, ος, ον</b>, d’où il est difficile de sortir, POL. <i>24, 1, 13</i> (δυσχώριστος <i>Reiske).</i><p><b>Étym</b>. δ. χωρέω.`

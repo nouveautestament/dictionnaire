@@ -1,0 +1,1 @@
+lar[94016]=`<b>συμ·μοναρχέω-ῶ</b>, partager le pouvoir absolu avec, <i>dat</i>. APP. <i>Civ. 5, 54</i>.`

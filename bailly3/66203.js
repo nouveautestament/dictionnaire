@@ -1,0 +1,1 @@
+lar[66203]=`<b>*μνησι·δωρέω</b>, <i>seul. dor</i>. <b>μνασιδωρέω</b> <font color="purple">[ῐ]</font> ne pas oublier d’offrir des présents, ORACL. (DÉM. <i>531, 12 ; 1072, 25).</i><p><b>Étym</b>. μν. δῶρον.`

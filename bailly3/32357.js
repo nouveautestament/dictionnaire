@@ -1,0 +1,1 @@
+lar[32357]=`<b>άδος (ἡ)</b> <font color="purple">[ῠ]</font> pousse, scion, rejeton, ARSTT. <i>P.A. 3, 14</i>.<p><b>Étym</b>. ἐκφύω.`

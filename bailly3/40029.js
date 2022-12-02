@@ -1,0 +1,1 @@
+lar[40029]=`<b>ἑπτά·τονος, ος, ον</b> <font color="purple">[ᾰ]</font> à sept tons <i>ou</i> cordes, EUR. <i>Alc. 446</i>.<p><b>Étym</b>. ἑ. τόνος.`

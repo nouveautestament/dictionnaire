@@ -1,0 +1,1 @@
+lar[38990]=`<b>ή, όν</b>, qui peut <i>ou</i> doit être réparé <i>ou</i> restauré, PLAT. <i>Pol. 270a</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπισκευάζω.`

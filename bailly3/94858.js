@@ -1,0 +1,1 @@
+lar[94858]=`écorcher <i>ou</i> dépouiller avec, GAL. <i>4, 73 ; 83, 92 ; 7, 413</i>.`

@@ -1,0 +1,1 @@
+lar[77618]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> famélique, affamé, OPP. <i>C. 4, 94</i> ; τὸ πειναλέον, PLUT. <i>M. 129b</i>, la faim.<p>➳ <i>Fém</i>. -ος, ANTH. <i>6, 218</i>.<p><b>Étym</b>. πεῖνα.`

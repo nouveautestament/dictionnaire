@@ -1,0 +1,1 @@
+lar[10712]=`<b>ἀν·υγραίνω :<br>      1</b> humecter, HPC. <i>560</i> ; TH. <i>C.P. 1, 16, 2, etc.</i> ; LUC. <i>Am. 3, etc.</i><br><b>      2</b> <i>fig</i>. amollir, PLUT. <i>M. 156d, etc</i>.`

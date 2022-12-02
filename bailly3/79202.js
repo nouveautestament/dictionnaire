@@ -1,0 +1,1 @@
+lar[79202]=`<b>περι·ρραίνω :<br>      1</b> humecter tout autour, <i>acc</i>. HIPPIATR. <i>p. 94, 16</i>.<br><b>      2</b> arroser, asperger tout autour pour purifier, <i>acc</i>. AR. <i>Lys. 1130</i>.<br><b><i>Moy.</i></b> se laver, PLUT. <i>Lyc. 2</i> ; ἀπὸ κρήνης, ATH. <i>43d</i>, avec de l’eau puisée à une fontaine.<p><b>Étym</b>. π. ῥαίνω.`

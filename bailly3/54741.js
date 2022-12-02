@@ -1,0 +1,1 @@
+lar[54741]=`<b>εως (ἡ)</b> action d’aiguillonner, de piquer, ARSTT. <i>Respir. 6, 5</i>.<p><b>Étym</b>. κεντέω.`

@@ -1,0 +1,1 @@
+lar[46212]=`<b>ας (ἡ)</b> <font color="purple">[θᾰ]</font> Thalia (Thalie) :<br><b>      1</b> <i>une des trois Grâces,</i> HÉS. <i>Th. 909</i>.<br><b>      2</b> <i>Muse de la comédie,</i> PLUT. <i>M. 744f, 746</i>.<p>➳ <i>Ion</i>. Θαλίη, HÉS. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. Θάλεια.`

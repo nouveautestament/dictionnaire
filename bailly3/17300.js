@@ -1,0 +1,1 @@
+lar[17300]=`<b>ίδος :<br>   I</b> <i>adj. fém</i>. d’Ausonie, ANTH. <i>App. 312</i>.<br><b>   II</b> <i>subst</i>. (ἡ) :<br><b>      1</b> (<i>s.-e</i>. γῆ) l’Ausonie, l’Italie, APP. <i>Civ. 5, 57, 59</i> ; CHRIST. <i>Ecphr. 303</i>.<br><b>      2</b> l’Ausonienne, ANTH. <i>App. 259</i>.`

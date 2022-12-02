@@ -1,0 +1,1 @@
+lar[106402]=`<b>(ὁ)</b> Phlogidas, <i>Spartiate,</i> EPHOR. (PLUT. <i>Lys. 17</i>).`

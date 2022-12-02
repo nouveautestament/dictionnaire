@@ -1,0 +1,1 @@
+lar[23229]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰᾰν]</font><br><b>      1</b> dépense, argent dépensé, <i>d’ord. au plur</i>. XÉN. <i>Cyr. 8, 1, 3 ; etc.</i> ; PHILÉM. (STOB. <i>Fl. 97, 18) ; au sg</i>. ARSTT. <i>Nic. 4, 2, 2</i>.<br><b>      2</b> ressources pour des dépenses, <i>au plur</i>. POL. <i>9, 42, 4</i>.<p><b>Étym</b>. δαπανάω.`

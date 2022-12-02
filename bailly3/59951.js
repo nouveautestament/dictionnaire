@@ -1,0 +1,1 @@
+lar[59951]=`<b>ατος (τὸ)</b> <font color="purple">[λᾱ]</font> bloc de pierre de taille, DS. <i>3, 13</i>.<p><b>Étym</b>. λατομέω.`

@@ -1,0 +1,1 @@
+lar[13873]=`<b>ας (ἡ) :<br>      1</b> inaction, inertie, EUR. <i>Or. 426</i> ; PLAT. <i>Soph. 262c.</i><br><b>      2</b> repos, loisir ; <i>au plur</i>. vacances des tribunaux, PLUT. <i>Syll. 8</i>.<br><b>      3</b> insuccès, ESCHN. <i>26, 38</i>.<p><b>Étym</b>. ἄπρακτος.`

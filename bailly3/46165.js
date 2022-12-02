@@ -1,0 +1,1 @@
+lar[46165]=`<b>θαλασσο·μέδων, οντος (ὁ)</b> <font color="purple">[θᾰ]</font> maître de la mer, NONN. <i>D. 21, 95</i>.<p><b>Étym</b>. θ. μέδων.`

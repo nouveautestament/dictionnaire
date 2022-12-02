@@ -1,0 +1,1 @@
+lar[79586]=`<b>περι·φθείρομαι</b>, se consumer, dépérir, ISOCR. <i>Ep. 9, 10</i> ; LYCURG. <i>153, 5</i>.`

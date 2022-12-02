@@ -1,0 +1,1 @@
+lar[77500]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> grosse voix <i>ou</i> parole épaisse, empâtée, STR. <i>646</i>.<p><b>Étym</b>. παχύστομος.`

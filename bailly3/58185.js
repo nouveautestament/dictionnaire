@@ -1,0 +1,1 @@
+lar[58185]=`<b>*κρυφή, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> action de cacher, <i>seul. dans la loc</i>. ἐν κρυφῇ, SPT. <i>Jud. 4, 21 ; 9, 31 ; Ruth 3, 7 ; ou adv</i>. κρυφῇ, en cachette, en secret, SOPH. <i>Ant. 85, etc.</i> ; XÉN. <i>Conv. 5, 8</i>.<p>➳ <i>Dor</i>. κρυφᾷ, PD. <i>O. 1, 75</i>.<p><b>Étym</b>. κρύπτω.`

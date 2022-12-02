@@ -1,0 +1,1 @@
+lar[85842]=`<b>προσ·ήμερος, ος, ον</b>, qui ne dure qu’un jour, ARTÉM. <i>4, 48</i>.<p><b>Étym</b>. π. ἡμέρα.`

@@ -1,0 +1,1 @@
+lar[41408]=`<b>ἑτερό·χρως</b>, <i>gén</i>. <b>ωτος (ὁ, ἡ)</b> de peau, <i>càd</i>. de chair différente ; ἑτερόχρωτες ὕπνοι, LUC. <i>Am. 42</i> (ἐνερόχρ. <i>Cobet</i>) sommeil auprès d’un être de sexe différent.<p><b>Étym</b>. ἕ. χρώς.`

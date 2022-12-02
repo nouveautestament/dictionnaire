@@ -1,0 +1,1 @@
+lar[34158]=`<b>ἐν·δημιουργέω-ῶ</b>, produire <i>ou</i> faire naître dans, <i>dat</i>. PLUT. <i>M. 17b, 634c, 1084a</i>.`

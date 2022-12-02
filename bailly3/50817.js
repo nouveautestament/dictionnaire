@@ -1,0 +1,1 @@
+lar[50817]=`<b>κακό·πλαστος, ος, ον</b> <font color="purple">[κᾰ]</font> mal formé, mal imaginé, HERMOG. (<i>W. 3, 7</i>) ; SOPATER (<i>W. 5, 72</i>) ; CHRYS. <i>4, 516</i>.<p><b>Étym</b>. κ. πλαστός.`

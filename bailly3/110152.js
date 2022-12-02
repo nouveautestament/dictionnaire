@@ -1,0 +1,1 @@
+lar[110152]=`<b>ου (ὁ)</b> Ôkellos, <i>Lacédémonien,</i> XÉN. <i>Hell. 5, 4, 22</i>.`

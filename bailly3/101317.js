@@ -1,0 +1,1 @@
+lar[101317]=`<b>ὑαλ·ῶπις, ιδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. qui a l’aspect du verre, ORPH. <i>Lith. 607</i>.<p><b>Étym</b>. ὕαλος, ὤψ.`

@@ -1,0 +1,1 @@
+lar[87433]=`<b>υγγός (ἡ)</b> <i>sorte d’oiseau aquatique, appelé aussi</i> ὑβρίς, ARSTT. <i>H.A. 9, 12, 5</i>.`

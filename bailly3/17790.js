@@ -1,0 +1,1 @@
+lar[17790]=`<b>αὐτό·χυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui s’épanche <i>ou</i> se répand de soi-même, ARSTD. <i>t. 1, 253 (var</i>. -χυμος) ; NONN.<br><b>      2</b> <i>p. ext</i>. qui se déploie de soi-même, Ps.-PHOCYL. <i>127</i>.<p><b>Étym</b>. αὐ. χέω.`

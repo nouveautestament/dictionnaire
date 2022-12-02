@@ -1,0 +1,1 @@
+lar[16333]=`<b>ἀστρονομέω-ῶ</b>, <i>f</i>. ήσω, étudier les astres, s’occuper d’astronomie, AR. <i>Nub. 194</i> ; PLAT. <i>Theæt. 173e.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. DL. <i>1, 34</i> ; JAMBL.<p><b>Étym</b>. ἀστρονόμος.`

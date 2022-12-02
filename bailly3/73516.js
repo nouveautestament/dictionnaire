@@ -1,0 +1,1 @@
+lar[73516]=`<b>Οὐΐκας πότας ἱερόν (τὸ)</b> le temple de Vicapota, <i>à Rome,</i> PLUT. <i>Popl. 10</i>.`

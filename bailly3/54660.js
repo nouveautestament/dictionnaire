@@ -1,0 +1,1 @@
+lar[54660]=`<b>ου (ὁ)</b> Keltos, <i>Troyen,</i> Q. SM. <i>7, 611</i>.`

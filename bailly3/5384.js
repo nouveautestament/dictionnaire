@@ -1,0 +1,1 @@
+lar[5384]=`<b>ων (οἱ)</b> les Ambrons, <i>pple gaulois,</i> PLUT. <i>Mar. 15, 9</i>.`

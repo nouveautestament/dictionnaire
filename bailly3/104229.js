@@ -1,0 +1,1 @@
+lar[104229]=`<b>ητος (ἡ) :<br>      1</b> position d’un corps renversé, TH. <i>H.P. 1, 10, 2 ; fig</i>. hauteur, fierté, JAMBL. <i>V. Pyth. 15</i>.<br><b>      2</b> <i>p. ext</i>. platitude, <i>en parl. du sol,</i> STR. <i>347 ; fig. en parl. du style,</i> HERMOG. <i>t. 3, p. 297, etc</i>.<p><b>Étym</b>. ὕπτιος.`

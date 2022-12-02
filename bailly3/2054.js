@@ -1,0 +1,1 @@
+lar[2054]=`<b>ἄθλημα, ατος (τὸ)</b> <font color="purple">[ᾱθλ]</font><br><b>      1</b> combat, lutte, PLAT. <i>Leg. 833c ;</i> PLUT. <i>Lyc. 19, etc. ; d’où</i> hauts faits, exploits, APHTH. <i>Prog. c. 12</i>.<br><b>      2</b> prix du combat, DÉM. <i>1408</i>.<br><b>      3</b> instruments de travail d’un pêcheur, THCR. <i>Idyl. 21, 9</i>.<p><b>Étym</b>. ἀθλέω.`

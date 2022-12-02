@@ -1,0 +1,1 @@
+lar[54307]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> pelisse persane <i>ou</i> babylonienne, <i>garnie de fourrure,</i> AR. <i>Vesp. 1132</i> ; ATH. <i>622c, etc</i>.`

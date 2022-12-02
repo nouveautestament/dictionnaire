@@ -1,0 +1,1 @@
+lar[24274]=`<b>δημολογέω-ῶ</b> (<i>seul. ao. inf</i>. -ῆσαι) parler au peuple de façon à plaire, ANTH. <i>7, 440</i>.<p><b>Étym</b>. δημολόγος.`

@@ -1,0 +1,1 @@
+lar[105853]=`<b>φιλο·κορίνθιος, ου (ὁ)</b> <font color="purple">[φῐ]</font> ami des Corinthiens, THÉM. <i>335d</i>.`

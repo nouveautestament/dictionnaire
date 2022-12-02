@@ -1,0 +1,1 @@
+lar[15675]=`<b>ἀρχοντιάω-ῶ</b>, désirer être le chef, SCH.-AR. <i>Vesp. 341</i>.<p><b>Étym</b>. ἄρχων.`

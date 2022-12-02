@@ -1,0 +1,1 @@
+lar[109816]=`<b>ψηφο·φόρος</b>, <i>mieux que</i> ψηφηφόρος, <b>ος, ον</b>, qui apporte son vote, DH. <i>7, 59</i>.<p><b>Étym</b>. ψῆφος, φέρω.`

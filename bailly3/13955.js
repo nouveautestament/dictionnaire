@@ -1,0 +1,1 @@
+lar[13955]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans pouvoir être abordé, PLUT. <i>M. 45f</i>.`

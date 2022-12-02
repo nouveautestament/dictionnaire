@@ -1,0 +1,1 @@
+lar[17458]=`<b>αὐτο·δουλεία, ας (ἡ)</b> la servitude même, PROCL.`

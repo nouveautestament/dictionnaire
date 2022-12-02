@@ -1,0 +1,1 @@
+lar[93032]=`<b>α, ον</b> <font color="purple">[ῡ]</font> du Strymon, ESCHL. <i>Pers. 869</i> ; EUR. <i>Rhes. 387, etc.</i> ; οἱ Στρυμόνιοι, HDT. <i>7, 75,</i> les riverains du Strymon, les Thraces.<p><b>Étym</b>. Στρυμών.`

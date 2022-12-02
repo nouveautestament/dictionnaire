@@ -1,0 +1,1 @@
+lar[50922]=`<b>κακοχροέω-οῶ</b> <font color="purple">[ᾰ]</font> avoir un mauvais teint, DIOSC. <i>1, 183</i>.<p><b>Étym</b>. κακόχροος.`

@@ -1,0 +1,1 @@
+lar[34477]=`<b>ἐν·ηρεμέω-ῶ</b>, se reposer tranquillement dans, PHIL. <i>1, 465 ; 2, 50, 140</i> ; HLD. <i>1, 18</i>.<p><b>Étym</b>. ἐν, ἤρεμος.`

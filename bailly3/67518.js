@@ -1,0 +1,1 @@
+lar[67518]=`<b>μωμέω-ῶ</b>, PROCL. <i>Hes. O. 756 ; moy</i>. <b>μωμέομαι-οῦμαι</b> (<i>seul. prés. ind. et part</i>.) THGN. <i>169, 369, c</i>. μωμάομαι.`

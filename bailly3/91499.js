@@ -1,0 +1,1 @@
+lar[91499]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> entaille dans la pierre, <i>d’où</i> éclat de pierre <i>ou</i> de marbre, AR. <i>Ran. 819</i>.<p><b>Étym</b>. σμιλεύω.`

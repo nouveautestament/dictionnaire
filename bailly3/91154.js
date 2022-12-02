@@ -1,0 +1,1 @@
+lar[91154]=`<b>σκορδό·ζεμα, ατος (τὸ)</b> décoction d’ail, HÉROPHIL. <i>1, 410 Ideler, Physici et medici græci minores</i>.<p><b>Étym</b>. σκόρδον, ζέμα.`

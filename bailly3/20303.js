@@ -1,0 +1,1 @@
+lar[20303]=`<b>ά, όν</b>, qui se ramasse en grappe, en forme de grappe, TH. <i>H.P. 1, 11, 5</i>.<p><b>Étym</b>. βότρυς.`

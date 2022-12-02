@@ -1,0 +1,1 @@
+lar[49328]=`<b>ἱππο·θήλης, ου (ὁ)</b> mulet qui tète une jument, ARSTT. <i>H.A. 6, 23, 7</i>.<p><b>Étym</b>. ἵ. θηλάζω.`

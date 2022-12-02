@@ -1,0 +1,1 @@
+lar[68993]=`<b>ά, όν</b>, qui rend malade, malsain, insalubre, HPC. <i>Aph. 1256</i> ; XÉN. <i>Cyr. 1, 6, 16</i>.<p><b>Étym</b>. νόσος.`

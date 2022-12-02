@@ -1,0 +1,1 @@
+lar[67539]=`<b>μωρό·καλος, ος, ον</b> <font color="purple">[ᾰ]</font> à la fois fou et d’un bon naturel, PTOL. <i>Tetr. 158</i>.<p><b>Étym</b>. μωρός, καλός.`

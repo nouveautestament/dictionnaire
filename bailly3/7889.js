@@ -1,0 +1,1 @@
+lar[7889]=`<b>ἀν·αφρόδιτος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui ne connaît pas l’amour, PLUT. <i>M. 57d.</i><br><b>      2</b> malheureux en amour, LUC. <i>D. deor. 15, 2</i>.<br><b>      3</b> sans grâce, sans charme, PLUT. <i>Ant. 4</i>.<p><b>Étym</b>. ἀν-, Ἀφροδίτη.`

@@ -1,0 +1,1 @@
+lar[66260]=`<b>ός, όν</b>, qui a la voix sourde, P. ÉG. <i>80, 10</i>.`

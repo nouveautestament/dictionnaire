@@ -1,0 +1,1 @@
+lar[6055]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾰ]</font> action d’aller autour : ἀ. Τρώων, IL. <i>5, 623,</i> les Troyens qui s’avancent autour.<p><b>Étym</b>. ἀμφιβαίνω.`

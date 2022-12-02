@@ -1,0 +1,1 @@
+lar[25426]=`<i>vb. de</i> διαρθρόω, SIMPL. <i>Epict. p. 4</i>.`

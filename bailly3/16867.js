@@ -1,0 +1,1 @@
+lar[16867]=`<b>οῦ (ὁ)</b> vapeur humide, ARSTT. <i>Probl. 1, 21 ; en parl. de transpiration,</i> PHIL. ; <i>d’où</i> vapeur <i>en gén</i>. ESCHL. <i>Ag. 1311, etc.</i> ; PLUT. LUC. <i>etc</i>.<p><b>Étym</b>. <i>inconnue</i>.`

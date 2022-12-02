@@ -1,0 +1,1 @@
+lar[26212]=`<b>εως (ἡ)</b> charge de cavalerie, PLUT. <i>Syll. 18</i> ; HLD. <i>9, 18</i>.`

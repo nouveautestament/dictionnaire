@@ -1,0 +1,1 @@
+lar[67862]=`<b>νε·αλής, ής, ές</b> <font color="purple">[ᾱ]</font> fraîchement salé, DÉM. <i>788, 22</i> ; LUC. <i>Nec. 15</i> ; GAL. <i>13, 458</i>.<p><b>Étym</b>. ν. ἅλς.`

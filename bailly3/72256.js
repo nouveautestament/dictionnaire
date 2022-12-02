@@ -1,0 +1,1 @@
+lar[72256]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῑ]</font> qui observe curieusement, indiscret, NONN. <i>D. 7, 193</i> ; MAN. <i>6, 584</i>.<p><b>Étym</b>. ὀπιπεύω.`

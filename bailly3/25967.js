@@ -1,0 +1,1 @@
+lar[25967]=`<b>δια·ψιθυρίζω</b> <font color="purple">[ψῐῠ]</font> murmurer, chuchoter, POL. <i>15, 26, 8</i> ; LUC. <i>Somn. 25</i>.`

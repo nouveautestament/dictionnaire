@@ -1,0 +1,1 @@
+lar[25355]=`<b>δι·αποσῴζω</b> (<i>seul. ao. pass. 3 pl</i>. -απεσώθησαν) sauver d’un danger, ARR. <i>Ind. 37</i>.`

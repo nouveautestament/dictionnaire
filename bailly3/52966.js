@@ -1,0 +1,1 @@
+lar[52966]=`<b>κατα·ξενόω-ῶ</b> (<i>part. pf. pass</i>. κατεξενωμένος) recevoir comme un hôte, ESCHL. <i>Ch. 706</i>.`

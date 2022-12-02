@@ -1,0 +1,1 @@
+lar[13777]=`<b>ἀπο·χάζομαι</b> (<i>seul. prés. et impf</i>.) s’éloigner de, <i>gén</i>. OD. <i>11, 95</i> ; A. PL. <i>181</i>.<p>➳ <i>Prés. impér. 2 sg. poét</i>. ἀποχάζεο, OD. <i>l. c., etc. Impf. 3 sg</i>. ἀπεχάζετο, APOLLIN. <i>Ps. 37, 19</i>.`

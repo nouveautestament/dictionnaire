@@ -1,0 +1,1 @@
+lar[84140]=`<b>προ·εμπίπλημι</b> <font color="darkgreen">(<i>f</i>. -εμπλήσω, <i>ao</i>. -ενέπλησα, <i>etc</i>.)</font> remplir auparavant, LUC. <i>Cal. 8</i>.`

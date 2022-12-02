@@ -1,0 +1,1 @@
+lar[107920]=`<b>Χαρί·λαος, ου (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Kharilaos, <i>h</i>. HDT. <i>8, 131</i> ; ARSTT. <i>Pol. 5, 12</i> ; PLUT. <i>Lyc. 3, 5, etc</i>.<p>➳ <i>Dor</i>. Χαρίλας <font color="purple">[ᾱς]</font> PLUT. <i>Apophth. lac. Archidam. 1 ; ion</i>. Χαρίλεως, HDT. <i>3, 145, 146</i>.<p><b>Étym</b>. χάρις, λαός.`

@@ -1,0 +1,1 @@
+lar[23029]=`<b>οῦ (τὸ)</b> bête féroce (<i>litt</i>. qui mord) AR. <i>Av. 1069</i> ; TH. <i>H.P. 9, 19, 3</i>.<p><b>Étym</b>. δάκνω ; <i>cf</i>. ἑρπετόν.`

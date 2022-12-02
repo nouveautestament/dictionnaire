@@ -1,0 +1,1 @@
+lar[25155]=`<i>adv</i>., par l’exercice de la pensée, ARR. <i>Epict. 1, 14, 7</i>.`

@@ -1,0 +1,1 @@
+lar[94744]=`<b>συν·αναπληρόω-ῶ :<br>      1</b> remplir en même temps <i>ou</i> entièrement, TH. <i>H.P. 4, 13, 4</i>.<br><b>      2</b> compenser, POL. <i>23, 18, 7</i> ; PLUT. <i>M. 795b</i>.`

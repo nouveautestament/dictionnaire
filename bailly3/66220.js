@@ -1,0 +1,1 @@
+lar[66220]=`<b>μνησι·στέφανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui prétend à une couronne, PD. <i>fr. 278 Bgk</i>.<p><b>Étym</b>. μνάομαι, στέφανος.`

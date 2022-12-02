@@ -1,0 +1,1 @@
+lar[17136]=`<font color="purple">[ᾱ]</font> <i>adv</i>., avec présomption <i>ou</i> arrogance, AR. <i>Ran. 1020</i> ; PLAT. <i>Leg. 720c</i>.<p>•<i> Cp</i>. αὐθαδέστερον, PLAT. <i>Ap. 34c</i>.<p><b>Étym</b>. αὐθάδης.`

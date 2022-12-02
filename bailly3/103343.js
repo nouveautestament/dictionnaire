@@ -1,0 +1,1 @@
+lar[103343]=`<b>ὑπο·κατορύσσω</b>, creuser par-dessous, saper, SOPHR. (ATH. <i>480b</i>) <i>au pass</i>.`

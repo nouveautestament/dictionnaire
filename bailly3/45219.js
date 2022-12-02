@@ -1,0 +1,1 @@
+lar[45219]=`<b>ἡλιοβολέομαι-οῦμαι</b>, être frappé par le soleil, ZÉNOB. <i>5, 53</i>.<p><b>Étym</b>. ἡλιόβολος.`

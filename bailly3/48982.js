@@ -1,0 +1,1 @@
+lar[48982]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f. c</i>. Ἰμβράσιος NIC. <i>Al. 150</i>.`

@@ -1,0 +1,1 @@
+lar[73504]=`<i>par élis. p</i>. οὔτε <i>dev. une voy. avec esprit rude</i>.`

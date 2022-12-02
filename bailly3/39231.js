@@ -1,0 +1,1 @@
+lar[39231]=`<b>ἐπι·συνδίδωμι</b>, se joindre à, s’ajouter à, PLUT. <i>Æmil. 14</i>.`

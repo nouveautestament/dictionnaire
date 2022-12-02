@@ -1,0 +1,1 @@
+lar[54939]=`<b>ῴου</b>, <i>adj. m</i>. qui préside au gain, <i>ép. d’Hermès,</i> LUC. <i>Tim. 41</i> ; PLUT. <i>M. 472b ; d’Apollon,</i> LYC. <i>208</i>.<p><b>Étym</b>. κέρδος.`

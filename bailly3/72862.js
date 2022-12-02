@@ -1,0 +1,1 @@
+lar[72862]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ὁρμαθός GAL. <i>13, 258</i>.`

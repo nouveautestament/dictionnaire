@@ -1,0 +1,1 @@
+lar[75007]=`<b>παν·ετώσιος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait vide, vain <i>ou</i> inutile, ORPH. <i>Arg. 1226</i>.<p><b>Étym</b>. π. ἐτώσιος.`

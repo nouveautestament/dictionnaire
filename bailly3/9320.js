@@ -1,0 +1,1 @@
+lar[9320]=`<b>ἄν·ορμος, ος, ον</b>, (port) où l’on ne doit pas aborder ; <i>fig. en parl. du</i> « port » <i>de l’hymen funeste, où Œdipe n’aurait pas dû aborder,</i> SOPH. <i>O.R. 423</i>.<p><b>Étym</b>. ἀν-, ὅρμος.`

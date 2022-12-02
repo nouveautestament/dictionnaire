@@ -1,0 +1,1 @@
+lar[28830]=`<b>δυσ·πόλεμος, ος, ον</b>, malheureux à la guerre, ESCHL. <i>Pers. 1013</i>.<p><b>Étym</b>. δ. πόλεμος.`

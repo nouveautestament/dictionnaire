@@ -1,0 +1,1 @@
+lar[85976]=`<b>προσ·κατατάσσω</b>, <i>att</i>. <b>προσ·κατατάττω</b>, ranger en outre, <i>d’où</i> :<br><b>      1</b> ajouter, <i>acc</i>. POL. <i>3, 20, 1</i>.<br><b>      2</b> unir à, appliquer à, <i>dat</i>. ARR. <i>Epict. 4, 1, 98</i>.`

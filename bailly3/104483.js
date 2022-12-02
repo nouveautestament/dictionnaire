@@ -1,0 +1,1 @@
+lar[104483]=`<b>ὑψι·δαίδαλτος, ος, ον</b> <font color="purple">[ῐ]</font> haut et habilement travaillé, BACCHYL. <i>3, 18</i>.<p><b>Étym</b>. ὕ. δαίδαλος.`

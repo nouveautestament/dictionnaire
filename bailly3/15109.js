@@ -1,0 +1,1 @@
+lar[15109]=`<i>vb. de</i> *ἀρρενίζω, rendre mâle <i>ou</i> viril, CLÉM. <i>217</i>.<p><b>Étym</b>. ἄρρην.`

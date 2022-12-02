@@ -1,0 +1,1 @@
+lar[44392]=`<b>Ζά·λευκος, ου (ὁ)</b> Zaleukos, <i>législateur des Locriens,</i> ARSTT. <i>Pol. 2, 9, 5</i> ; PLUT. <i>Num. 4, etc</i>.<p><b>Étym</b>. <i>cf</i>. ζάλευκος.`

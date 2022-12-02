@@ -1,0 +1,1 @@
+lar[19423]=`<b>ή, όν</b>, dégoûtant, répugnant, abominable, NT. <i>Tit. 1, 16</i> ; PHIL. <i>2, 261</i>.<p><b>Étym</b>. βδελύσσομαι.`

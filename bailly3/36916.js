@@ -1,0 +1,1 @@
+lar[36916]=`<b>ἐπ·εγκλάω-ῶ</b>, tourner vers : ὀφθαλμούς, DC. <i>79, 16</i> ; βλέφαρα ἔς τινα, DC. <i>51, 12,</i> tourner les yeux vers qqn.`

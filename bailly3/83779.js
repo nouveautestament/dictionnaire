@@ -1,0 +1,1 @@
+lar[83779]=`<b>προβατο·κόμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> berger, RHÉT. <i>3, 607 W</i>.`

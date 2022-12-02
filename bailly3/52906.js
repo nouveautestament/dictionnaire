@@ -1,0 +1,1 @@
+lar[52906]=`<b>κατά·νευρος, ος, ον</b>, nerveux, plein de nerfs, HIPPIATR. <i>170, 18 ; 228, 30</i>.<p><b>Étym</b>. κ. νεῦρον.`

@@ -1,0 +1,1 @@
+lar[108093]=`<b>χειρ·αλγία, ας (ἡ)</b> goutte (<i>litt</i>. douleur) aux mains, CHRYS. <i>t. 2, p. 644, 41</i>.<p><b>Étym</b>. χ. ἄλγος.`

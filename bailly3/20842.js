@@ -1,0 +1,1 @@
+lar[20842]=`<b>ης, ες</b>, du dieu Bromios, <i>càd</i>. de Bacchus, bachique, ANTH. <i>11, 27</i>.<p><b>Étym</b>. βρόμιος.`

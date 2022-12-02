@@ -1,0 +1,1 @@
+lar[67270]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font> infinité, SPT. <i>Sap. 12, 22</i>.<p><b>Étym</b>. μυρίος.`

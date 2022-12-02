@@ -1,0 +1,1 @@
+lar[73018]=`<b>ὀροφη·φόρος, ος, ον</b>, qui porte un toit (construction) ANTH. <i>9, 631</i>.<p><b>Étym</b>. ὀροφή, φέρω.`

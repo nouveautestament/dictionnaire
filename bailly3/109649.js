@@ -1,0 +1,1 @@
+lar[109649]=`<b>ψευδ·επιχάρμειος, ος, ον</b>, faussement attribué à Épicharme, ATH. <i>648d</i>.<p><b>Étym</b>. ψ. Ἐπίχαρμος.`

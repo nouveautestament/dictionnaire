@@ -1,0 +1,1 @@
+lar[7294]=`<b>Ἀναξί·δαμος, ου (ὁ)</b> <font color="purple">[δᾱ]</font> Anaxidamos, <i>roi lacédémonien,</i> PLUT. <i>Syll. 17, 19</i>.<p><b>Étym</b>. ἄναξ, δᾶμος <i>dor. c</i>. δῆμος.`

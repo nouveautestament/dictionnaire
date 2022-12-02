@@ -1,0 +1,1 @@
+lar[74722]=`<b>ου (ὁ)</b> Pammilos, <i>fondateur de Sélinonte,</i> THC. <i>6, 4</i>.`

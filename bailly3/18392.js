@@ -1,0 +1,1 @@
+lar[18392]=`<font color="purple">[χᾰῐ]</font> <i>adv</i>., sans grâce, sans agrément, ATH. <i>281e ;</i> DC. <i>66, 9, etc. ; cf</i>. ἀχαρίστως.`

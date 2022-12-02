@@ -1,0 +1,1 @@
+lar[26039]=`<b>έως (ὁ)</b> <font color="purple">[ῐῠ]</font> de Didymes, <i>ép. d’Apollon,</i> ORPH. <i>H. 33, 7</i>.<p>➳ <i>Voc</i>. -εῦ, ORPH. <i>l. c. Acc</i>. -ῆ, SCYMN.<p><b>Étym</b>. Δίδυμα.`

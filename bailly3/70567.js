@@ -1,0 +1,1 @@
+lar[70567]=`<b>οἰν·όπτης, ου (ὁ)</b> inspecteur du vin, agent chargé de veiller à ce qu’on mouille le vin dans les repas publics, COM. (ATH. <i>425a</i>) ; GEOP. <i>7, 7, 1</i>.<p><b>Étym</b>. οἶν. ὄψομαι.`

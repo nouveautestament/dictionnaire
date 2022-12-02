@@ -1,0 +1,1 @@
+lar[5009]=`<b>ἀλυκτο·πέδη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>d’ord. plur</i>. entraves dont on ne peut se dégager, HÉS. <i>Th. 521</i> ; A.RH. <i>2, 1249 ; au sg</i>. ANTH. <i>5, 230</i>.<p><b>Étym</b>. ἀλύσσω, πέδη.`

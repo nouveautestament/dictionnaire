@@ -1,0 +1,1 @@
+lar[45101]=`<b>ἠθμο·ειδής, ής, ές</b>, pareil à un crible, percé comme un crible, PLUT. <i>M. 699a ;</i> ὀστοῦν, GAL. os ethmoïde, <i>càd</i>. percé de petits trous, <i>à la racine du nez</i>.<p><b>Étym</b>. ἠθμός, εἶδος.`

@@ -1,0 +1,1 @@
+lar[102709]=`<b>ὑπερ·οργίζομαι</b>, entrer dans une violente colère, DC. <i>50, 25 ; 55, 11</i>.`

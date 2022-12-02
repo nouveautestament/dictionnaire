@@ -1,0 +1,1 @@
+lar[31093]=`<b>ἐκ·βλαστάνω :<br>      1 <i>intr.</i></b> germer, éclore, TH. <i>C.P. 1, 3 ; fig</i>. PLAT. <i>Rsp. 565d.</i><br><b>      2 <i>tr.</i></b> faire pousser, faire éclore, HPC. <i>380, 51</i> ; ARÉT. <i>Cur. m. acut. p. 103</i>.`

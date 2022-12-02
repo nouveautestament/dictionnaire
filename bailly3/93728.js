@@ -1,0 +1,1 @@
+lar[93728]=`<b>συκοφορέω-ῶ</b> <font color="purple">[ῡ]</font> porter, <i>càd</i>. produire des figues, ANTH. <i>9, 563</i>.<p><b>Étym</b>. συκοφόρος.`

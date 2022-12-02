@@ -1,0 +1,1 @@
+lar[35944]=`<b>ή, όν</b>, soixantième, HDT. <i>6, 126, etc.</i> ; τὸ ἑξηκοστόν, GÉM. <i>El. astr. 18, 9,</i> soixantième partie d’un degré, minute.<p><b>Étym</b>. ἑξήκοντα.`

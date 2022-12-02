@@ -1,0 +1,1 @@
+lar[34336]=`<b>ἐν·εξεμέω-ῶ</b>, vomir dans <i>ou</i> sur, POLYZ. (POLL. <i>10, 76</i>).`

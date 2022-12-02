@@ -1,0 +1,1 @@
+lar[109757]=`<i>adv.</i> :<br><b>      1</b> faussement, EUR. <i>I.T. 1309</i> ; THC. <i>1, 137</i> ; PLAT. <i>Phil. 40d, etc.</i><br><b>      2</b> sans fondement, POL. <i>5, 110, 7</i>.<p><b>Étym</b>. ψευδής.`

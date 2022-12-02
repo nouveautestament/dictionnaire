@@ -1,0 +1,1 @@
+lar[60720]=`<b>λεω·φόρος, ος, ον</b>, qui porte le peuple, <i>càd</i>. par où passe le peuple, HDT. <i>1, 187</i> ; EUR. <i>Rhes. 881</i> ; λ. ὁδός, HDN <i>8, 5, 12 ; ou subst</i>. ἡ λεωφόρος, PLAT. <i>Leg. 763c ;</i> HDN <i>3, 12, 5, etc</i>. rue <i>ou</i> route.<p><b>Étym</b>. λ. φέρω.`

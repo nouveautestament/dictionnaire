@@ -1,0 +1,1 @@
+lar[1092]=`<b>οῦ (ὁ)</b> Ankhoménos, <i>h</i>. AR.`

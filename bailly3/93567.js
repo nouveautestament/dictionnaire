@@ -1,0 +1,1 @@
+lar[93567]=`<b>συγκυνηγετέω-ῶ</b> <font color="purple">[κῠ]</font> <i>c</i>. συγκυνηγέω, PLUT. <i>Alex. 41, M. 97a, 173d</i>.`

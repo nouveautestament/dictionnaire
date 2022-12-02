@@ -1,0 +1,1 @@
+lar[73084]=`<b>ας (ἡ)</b> <i>sorte de boudin,</i> EPICH. (ATH. <i>93f</i>).`

@@ -1,0 +1,1 @@
+lar[93732]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῡ]</font> lieu planté de figuiers, SPT. <i>Jer. 5, 17</i>.<p><b>Étym</b>. σῦκον.`

@@ -1,0 +1,1 @@
+lar[66470]=`<b>ή, όν :<br>      1</b> qui concerne le pouvoir d’un seul, PLAT. <i>Leg. 756e ;</i> τὸ μοναρχικόν, PLAT. <i>Leg. 693e ;</i> ARSTT. <i>Pol. 2, 6, 18, c</i>. μοναρχία.<br><b>      2</b> partisan de la monarchie, APP. <i>Civ. 5, 54</i>.<p>•<i> Cp</i>. μοναρχικώτερος, POL. <i>10, 26, 2</i>.<p><b>Étym</b>. μόναρχος.`

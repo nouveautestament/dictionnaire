@@ -1,0 +1,1 @@
+lar[3937]=`<font color="purple">[ῑ]</font> <i>adv</i>., en forme de rayons, LUC. <i>Salt. 18</i>.<p><b>Étym</b>. ἀκτίς, -δον.`

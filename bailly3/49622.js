@@ -1,0 +1,1 @@
+lar[49622]=`<b>ἰσο·δίαιτος, ος, ον</b> <font color="purple">[ῑ̆σ]</font> qui a le même genre de vie : πρός τινα, THC. <i>1, 6</i> ; τινι, LUC. <i>Bis acc. 23,</i> que qqn.<p><b>Étym</b>. ἴ. δίαιτα.`

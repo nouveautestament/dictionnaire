@@ -1,0 +1,1 @@
+lar[38948]=`<b>ἐπι·σήμανσις, εως (ἡ)</b> empreinte d’un signe, marque, ARSTT. <i>Probl. 24, 18</i>.<p><b>Étym</b>. ἐπισημαίνω.`

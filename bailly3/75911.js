@@ -1,0 +1,1 @@
+lar[75911]=`<b>παρα·μασήτης, ου (ὁ)</b> <font color="purple">[μᾰ]</font> parasite, ALEX. <i>et</i> TIMOCL. (<i>Com. fr. 3, 492, 597).</i><p><b>Étym</b>. π. μασάομαι.`

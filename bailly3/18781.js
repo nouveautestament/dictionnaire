@@ -1,0 +1,1 @@
+lar[18781]=`<b>βαθύ·πεδος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux plaines profondes, <i>càd</i>. encaissées, PD. <i>N. 3, 17</i>.<p><b>Étym</b>. β. πέδον.`

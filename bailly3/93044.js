@@ -1,0 +1,1 @@
+lar[93044]=`<b>στρωματό·δεσμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> couverture de voyage, en toile <i>ou</i> en cuir, <i>pour envelopper la literie,</i> PLUT. <i>Cæs. 49</i>.<p><b>Étym</b>. στρῶμα, δεσμός.`

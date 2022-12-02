@@ -1,0 +1,1 @@
+lar[104739]=`<b>ου (ὁ)</b> Phalanthos, <i>h</i>. PLUT. <i>Pyth. or. 27</i>.<p><b>Étym</b>. <i>v</i>. φάλανθος.`

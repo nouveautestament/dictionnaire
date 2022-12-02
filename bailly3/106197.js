@@ -1,0 +1,1 @@
+lar[106197]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., par amour de l’argent, avec avarice, ISOCR. <i>7a, etc</i>.`

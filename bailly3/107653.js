@@ -1,0 +1,1 @@
+lar[107653]=`<b>χαλκο·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> à la pointe <i>ou</i> aux pointes d’airain, IL. <i>22, 225</i>.`

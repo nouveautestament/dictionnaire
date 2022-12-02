@@ -1,0 +1,1 @@
+lar[48877]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰρ]</font> chant joyeux, ARISTOCL. (ATH. <i>621c</i>).<p><b>Étym</b>. ἱλαρῳδός.`

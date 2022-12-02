@@ -1,0 +1,1 @@
+lar[64781]=`<b>μετα·κτίζω</b>, bâtir ailleurs <i>ou</i> rebâtir, reconstruire, STR. <i>631</i>.`

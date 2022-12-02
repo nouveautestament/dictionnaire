@@ -1,0 +1,1 @@
+lar[57007]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la façon des corbeaux, CHRYS. <i>4, 634</i>.<p><b>Étym</b>. κόραξ.`

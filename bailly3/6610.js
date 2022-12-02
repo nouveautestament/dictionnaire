@@ -1,0 +1,1 @@
+lar[6610]=`<font color="purple">[άν]</font> <i>adv</i>., forcément, PLAT. <i>Ax. 366a</i>.`

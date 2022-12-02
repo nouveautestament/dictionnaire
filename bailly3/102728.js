@@ -1,0 +1,1 @@
+lar[102728]=`<b>ος, ον</b>, qui l’emporte sur, supérieur, HH. <i>11, 2</i> ; PD. <i>N. 3, 40</i> ; ESCHL. <i>Pr. 429</i> ; SOPH. <i>Tr. 1096</i> ; ὑ. ἄλλων, IL. <i>6, 208 ; 11, 784,</i> supérieur aux autres.<p>•<i> Sup</i>. ὑπεροχώτατος, PD. <i>P. 2, 70</i>.<p>➳ <i>Ion. et épq</i>. ὑπείροχος, IL. HH. <i>ll. cc</i>.<p><b>Étym</b>. ὑπερέχω.`

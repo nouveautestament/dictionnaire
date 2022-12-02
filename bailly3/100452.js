@@ -1,0 +1,1 @@
+lar[100452]=`<b>*τρισκαιδεκά·πηχυς</b>, <i>dor</i>. <b>τρισκαιδεκά·παχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰᾱ]</font> de treize coudées, THCR. <i>Idyl. 15, 17</i>.<p><b>Étym</b>. τρ. πῆχυς.`

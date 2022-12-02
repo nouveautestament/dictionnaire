@@ -1,0 +1,1 @@
+lar[19738]=`<b>ας (ἡ)</b> <font color="purple">[βῑ]</font> vesce, <i>plante,</i> GEOP. <i>3, 6, 7</i>.`

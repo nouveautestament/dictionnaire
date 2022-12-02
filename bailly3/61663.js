@@ -1,0 +1,1 @@
+lar[61663]=`<b>ου (ὁ)</b> = <i>lat</i>. Lucillus, <i>poète de l’Anthologie,</i> ANTH. <i>11, 10, etc</i>.`

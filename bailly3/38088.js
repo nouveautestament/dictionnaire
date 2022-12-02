@@ -1,0 +1,1 @@
+lar[38088]=`<b>ἐπι·κοιμάομαι-ῶμαι</b> <font color="darkgreen">(<i>f</i>. -ήσομαι, <i>ao. pass</i>. ἐπεκοιμήθην) :</font><br><b>      1</b> tomber endormi à la suite de qqe ch. HPC. <i>Aph. 1254</i>.<br><b>      2</b> être couché sur, dormir sur, PLAT. <i>Euthyd. 300e ; avec le dat</i>. LUC. <i>Alex. 49 ; fig</i>. s’endormir sur, POL. <i>2, 13, 4</i>.`

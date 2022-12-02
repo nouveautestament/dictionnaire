@@ -1,0 +1,1 @@
+lar[12715]=`<b>ἀπο·κωφόω-ῶ</b>, rendre sourd et muet, ARR. <i>Epict. 2, 20, 37</i> ; SPT. <i>Ezech. 3, 26 ; 24, 27, etc</i>.`

@@ -1,0 +1,1 @@
+lar[94687]=`<b>συν·αναβοάω-οῶ</b>, pousser des cris ensemble, XÉN. <i>Cyr. 5, 1, 6</i>.`

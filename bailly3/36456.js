@@ -1,0 +1,1 @@
+lar[36456]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de suivre de près, suite, conséquence, PLUT. <i>M. 1015c ;</i> M. ANT. <i>6, 44 ; 9, 28</i> ; SEXT. <i>643, 25 Bkk</i>.<p><b>Étym</b>. ἐπακολουθέω.`

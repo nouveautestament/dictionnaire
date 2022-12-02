@@ -1,0 +1,1 @@
+lar[18827]=`<b>βαθύ·φωνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la voix profonde, SPT. <i>Esaï. 33, 19 (corr</i>. βαρύφ-).<p><b>Étym</b>. β. φωνή.`

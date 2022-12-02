@@ -1,0 +1,1 @@
+lar[69369]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> le mois d’avril, <i>chez les Macédoniens,</i> DS. <i>18, 56</i>.`

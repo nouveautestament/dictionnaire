@@ -1,0 +1,1 @@
+lar[72507]=`<font color="purple">[ᾱ]</font> <i>vb. de</i> ὁράω, THEOL. <i>p. 38</i>.`

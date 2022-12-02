@@ -1,0 +1,1 @@
+lar[44003]=`<b>ή, όν</b>, vers qui <i>ou</i> vers quoi l’on tend, désirable, ARSTT. <i>Phys. 1, 9, 3 ; cf</i>. PLUT. <i>M. 374d</i>.<p><b>Étym</b>. <i>vb. de</i> ἐφίημι.`

@@ -1,0 +1,1 @@
+lar[21432]=`<b>γαστρο·κνημία, ας (ἡ)</b> le mollet (<i>litt</i>. la partie pansue de la jambe), ARSTT. <i>H.A. 1, 15, 5</i> ; LUC. <i>V.H. 1, 22, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>828a</i>.<p><b>Étym</b>. γαστήρ, κνήμη.`

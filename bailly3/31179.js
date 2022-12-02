@@ -1,0 +1,1 @@
+lar[31179]=`<b>ἐκ·δημέω-ῶ</b>, être absent de son pays, être à l’étranger, HDT. <i>1, 30</i> ; SOPH. <i>O.R. 114</i> ; PLAT. <i>Leg. 864e, 952d, 961a</i>.<p><b>Étym</b>. ἔκδημος.`

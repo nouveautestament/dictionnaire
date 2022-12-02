@@ -1,0 +1,1 @@
+lar[33636]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> charbon qu’on laisse couver sous la cendre pour rallumer le feu, ARSTT. <i>fr. 216, 217 ; fig</i>. LGS <i>1, 29</i> ; PHIL. <i>1, 187, 455, 478, etc</i>.<p><b>Étym</b>. ἐμπυρεύω.`

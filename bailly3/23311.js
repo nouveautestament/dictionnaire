@@ -1,0 +1,1 @@
+lar[23311]=`<b>ου</b>, <i>adj. m</i>. le dieu aux pampres touffus (Bacchus), PAUS. <i>1, 43, 5</i>.`

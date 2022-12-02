@@ -1,0 +1,1 @@
+lar[79746]=`<b>*περόνημα</b>, <i>seul. dor</i>. <b>περόναμα, ατος (τὸ)</b> <font color="purple">[νᾱ]</font> robe de laine sans manches, ouverte sur les côtés, et formée de deux morceaux d’étoffe rattachés sur les épaules et de distance en distance, sur les côtés, par des agrafes, THCR. <i>Idyl. 15, 79</i>.<p><b>Étym</b>. περονάω.`

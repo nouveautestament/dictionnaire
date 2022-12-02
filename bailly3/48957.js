@@ -1,0 +1,1 @@
+lar[48957]=`<b>ἱμαντο·μάχος, ος, ον</b> <font color="purple">[ῐμᾰχ]</font> qui combat avec le ceste, ORACL. (TZETZ. <i>Hist. 7, 421).</i><p><b>Étym</b>. ἱμάς, μάχομαι.`

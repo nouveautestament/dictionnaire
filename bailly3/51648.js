@@ -1,0 +1,1 @@
+lar[51648]=`<i>adv</i>., comme de la fumée, GAL. <i>4, 507</i>.<p><b>Étym</b>. καπνώδης.`

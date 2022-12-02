@@ -1,0 +1,1 @@
+lar[27998]=`<b>δρυο·κοίτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui vit (<i>litt</i>. qui couche) dans les chênes, <i>ép. de la cigale,</i> ANTH. <i>7, 190</i>.<p><b>Étym</b>. δρῦς, κοίτη.`

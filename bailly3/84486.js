@@ -1,0 +1,1 @@
+lar[84486]=`<b>προ·καταπίμπρημι</b> <font color="darkgreen">(<i>f</i>. -καταπρήσω, <i>ao</i>. -κατέπρησα, <i>etc</i>.)</font> brûler auparavant, DC. <i>66, 3</i>.`

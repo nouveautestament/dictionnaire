@@ -1,0 +1,1 @@
+lar[9482]=`<b>ἀντ·αξιόω-ῶ</b>, réclamer en retour, THC. <i>6, 16</i> ; τινά τι, MACH. (ATH. <i>579a</i>) qqe ch. à qqn.`

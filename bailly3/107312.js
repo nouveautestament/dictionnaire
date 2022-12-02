@@ -1,0 +1,1 @@
+lar[107312]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui concerne les plantes, TH. (ATH. <i>55e, 74a, 77c</i>).<br><b>      2</b> analogue à une plante : τὸ φυτικόν, ARSTT. <i>Nic. 1, 13, 18,</i> principe de vie pour les végétaux ; φ. ζῷον, ARSTT. <i>P.A. 4, 5, 47, c</i>. ζῳόφυτον.<p><b>Étym</b>. φυτόν.`

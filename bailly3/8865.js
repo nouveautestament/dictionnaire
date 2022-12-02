@@ -1,0 +1,1 @@
+lar[8865]=`<b>ἀνθο·κρατέω-ῶ</b> <font color="purple">[ᾰτ]</font> commander aux fleurs, <i>mot emphatique blâmé par</i> LUC. <i>Pseud. 24</i>.<p><b>Étym</b>. ἄνθος, κρ.`

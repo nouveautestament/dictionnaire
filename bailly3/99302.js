@@ -1,0 +1,1 @@
+lar[99302]=`<i>onomatopée pour imiter le cri d’un oiseau,</i> AR. <i>Av. 237, etc</i>.`

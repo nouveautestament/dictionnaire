@@ -1,0 +1,1 @@
+lar[43642]=`<b>εὐ·τριβής, ής, ές</b> <font color="purple">[ῐ]</font> bien broyé, finement pulvérisé, DIOSC. <i>5, 139</i>.<p>➳ <i>Poét</i>. ἐϋτριβής, NIC. <i>Al. 328, 405</i> ; ANTH. <i>6, 299</i>.<p><b>Étym</b>. εὖ, τρίβω, <i>cf</i>. *εὔτριψ.`

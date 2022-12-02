@@ -1,0 +1,1 @@
+lar[48595]=`<b>ου (ὁ)</b> Hiérokleidès, <i>h</i>. ANTH. <i>7, 635</i>.<p><b>Étym</b>. <i>patr. de</i> Ἱεροκλῆς.`

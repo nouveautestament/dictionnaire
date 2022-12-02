@@ -1,0 +1,1 @@
+lar[62560]=`<b>μακρό·σκιος, ος, ον</b>, à ombre allongée, A. TAT. ASTR. <i>Isag. in Arat. 156d Petau</i>.<p><b>Étym</b>. μ. σκιά.`

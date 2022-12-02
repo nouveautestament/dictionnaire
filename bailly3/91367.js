@@ -1,0 +1,1 @@
+lar[91367]=`<b>σκυτο·βραχίων, ονος (ὁ, ἡ)</b> <font color="purple">[ῡᾰ]</font> muni d’un bras de cuir, ATH. <i>515d</i>.<p><b>Étym</b>. σκῦτος, βραχίων.`

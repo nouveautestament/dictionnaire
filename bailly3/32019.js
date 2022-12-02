@@ -1,0 +1,1 @@
+lar[32019]=`<b>ἔκ·ρυθμος, ος, ον</b>, sans rythme, sans harmonie, SEXT. <i>756, 3 Bkk.</i> ; PHILSTR. <i>352 ; en parl. du pouls,</i> irrégulier, GAL. <i>2, 258e</i>.<p><b>Étym</b>. ἐκ, ῥυθμός.`

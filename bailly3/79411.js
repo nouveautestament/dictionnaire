@@ -1,0 +1,1 @@
+lar[79411]=`<b>ος, ον</b>, rangé <i>ou</i> aligné tout autour, DÉM. <i>1251, 23</i>.<p><b>Étym</b>. περιστείχω.`

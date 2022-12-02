@@ -1,0 +1,1 @@
+lar[81872]=`<b>ας (ἡ)</b> variété d’aspects <i>ou</i> de formes, PLAT. <i>Rsp. 580d ;</i> CLÉM. <i>163, 800</i>.<p><b>Étym</b>. πολυειδής.`

@@ -1,0 +1,1 @@
+lar[18748]=`<b>βαθυ·δινήεις, εσσα, εν</b> <font color="purple">[ᾰῠῑ]</font> aux tourbillons profonds, IL. <i>21, 15</i>.<p><b>Étym</b>. β. δίνη.`

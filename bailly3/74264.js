@@ -1,0 +1,1 @@
+lar[74264]=`<i>adv</i>., dès l’enfance, NT. <i>Marc. 9, 21</i>.<p><b>Étym</b>. παιδίον, -θεν.`

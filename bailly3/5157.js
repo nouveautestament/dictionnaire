@@ -1,0 +1,1 @@
+lar[5157]=`(<i>seul. prés</i>.) <font color="purple">[ᾰᾰ]</font> être ignorant, PLAT. <i>Rsp. 535e ;</i> τι <i>ou</i> εἴς τι, PLAT. <i>Leg. 689 c et d,</i> en qqe ch.<p><b>Étym</b>. ἀμαθής.`

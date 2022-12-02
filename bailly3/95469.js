@@ -1,0 +1,1 @@
+lar[95469]=`<b>συν·εμπορεύομαι</b>, faire en même temps du commerce, SYN. <i>145c, 147d</i>.`

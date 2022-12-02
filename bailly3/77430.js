@@ -1,0 +1,1 @@
+lar[77430]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. παῦρος, NIC. <i>Th. 210</i>.`

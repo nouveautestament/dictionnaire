@@ -1,0 +1,1 @@
+lar[59336]=`<b>λαβιδόω-ῶ</b> <font color="purple">[ᾰῐ]</font> agrafer, DIOSC. <i>Par. 1, 53</i>.<p><b>Étym</b>. λαβίς.`

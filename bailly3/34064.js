@@ -1,0 +1,1 @@
+lar[34064]=`<b>ου (τὸ)</b> demeure, séjour, EUR. <i>Hel. 1107 au plur</i>.<p><b>Étym</b>. ἔναυλος³.`

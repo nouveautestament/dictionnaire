@@ -1,0 +1,1 @@
+lar[81702]=`<b>ου</b>, <i>épq</i>. <b>αο (ὁ)</b> <font color="purple">[ᾰνῐ, <i>gén</i>. ᾱο]</font> Polyanaktidès, <i>litt</i>. le fils de Polyanax, <i>h</i>. SAPPH. <i>fr. 86 (80) Bgk</i>.<p><b>Étym</b>. π. ἄναξ.`

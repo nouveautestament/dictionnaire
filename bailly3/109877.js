@@ -1,0 +1,1 @@
+lar[109877]=`<b>Ψιχο·διαλέκτης, ου (ὁ)</b> <font color="purple">[ψῑ]</font> Cause-des-miettes, n. <i>de parasite,</i> ALCIPHR. <i>3, 45</i>.<p><b>Étym</b>. ψίξ, διαλέγομαι.`

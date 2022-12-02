@@ -1,0 +1,1 @@
+lar[499]=`<b>ας (ἡ)</b> bassesse de sentiments, PLUT. <i>Dem. c. Cic. 5</i>.<p><b>Étym</b>. ἀγεννής.`

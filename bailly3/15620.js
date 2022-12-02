@@ -1,0 +1,1 @@
+lar[15620]=`<b>Ἀρχι·κράτης, ους (ὁ)</b> <font color="purple">[ᾰτ]</font> Arkhikratès, <i>h</i>. POL. <i>40, 4</i>.<p><b>Étym</b>. ἄ. κράτος.`

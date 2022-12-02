@@ -1,0 +1,1 @@
+lar[5531]=`<b>ἀμετρο·πότης, ου (ὁ)</b> qui boit sans mesure, ANTH. <i>9, 644</i>.<p><b>Étym</b>. ἄ. πίνω.`

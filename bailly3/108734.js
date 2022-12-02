@@ -1,0 +1,1 @@
+lar[108734]=`<b>χολό·βαφος, ος, ον</b> <font color="purple">[ᾰ]</font> teint en vert jaunâtre, <i>d’où</i> d’une teinte jaune vert, ARÉT. <i>Caus. m. acut. 2, 4</i>.<p><b>Étym</b>. χολή, βάπτω.`

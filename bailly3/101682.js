@@ -1,0 +1,1 @@
+lar[101682]=`<b>α, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> de bois, de forêt, sauvage, THCR. <i>Idyl. 23, 10</i> ; ANTH. <i>11, 365</i> ; EL. <i>N.A. 16, 10</i>.<br><b>      2</b> <i>t. de philos</i>. matériel, corporel, PROCL. <i>H. Sol. 3</i>.<p><b>Étym</b>. ὕλη.`

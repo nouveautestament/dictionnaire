@@ -1,0 +1,1 @@
+lar[5971]=`<b>ἀ·μυχνός</b> <i>ou</i> <b>ἀ·μυχρός, ός, όν</b>, non souillé, pur, saint, SOPH. <i>fr. 834</i>.<p><b>Étym</b>. <i>cf</i>. ἀμυσχρός.`

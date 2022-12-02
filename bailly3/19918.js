@@ -1,0 +1,1 @@
+lar[19918]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) cligner de l’œil, CLÉM. <i>294</i>.<p><b>Étym</b>. βλέφαρον.`

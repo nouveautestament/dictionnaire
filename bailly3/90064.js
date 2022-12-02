@@ -1,0 +1,1 @@
+lar[90064]=`<i>ion</i>. <b>σιελίζω</b> <font color="purple">[ῐᾰ]</font> répandre de la salive, baver, HPC. <i>Prorrh. 77</i>.<p><b>Étym</b>. σίαλον.`

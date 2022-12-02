@@ -1,0 +1,1 @@
+lar[88883]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Rhyndakos (<i>auj</i>. Mustafakemalpaşa, Orhaneli <i>ou</i> Adırnaz) <i>fl. de Phrygie,</i> LYC. <i>1364</i> ; STR. <i>550, etc</i>.`

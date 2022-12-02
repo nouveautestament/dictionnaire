@@ -1,0 +1,1 @@
+lar[29513]=`<b>ἐγ·καταδαμάζω</b> <font color="purple">[δᾰ]</font> <font color="darkgreen">(<i>ao. pass. part</i>. -δαμασθέν)</font> cribler de piqûres, HPC. <i>1229e</i>.<p><b>Étym</b>. ἐν, κ.`

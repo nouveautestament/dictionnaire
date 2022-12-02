@@ -1,0 +1,1 @@
+lar[24207]=`<b>(ἡ)</b> <i>c</i>. Δημήτηρ, <i>d’ord. à l’acc</i>. Δήμητραν, EPIGR. (PAUS. <i>1, 37, 2</i>) ; PLAT. <i>Crat. 404b ;</i> ARSTT. <i>Œc. 2</i> ; DS. <i>1, 13, etc.</i> ; PLUT. <i>Alc. 22, etc. ; au dat</i>. Δημήτρᾳ, PLUT. <i>De Arat. sign. 7</i>.`

@@ -1,0 +1,1 @@
+lar[104561]=`<b>ατος (τὸ)</b> position élevée, PHIL. <i>2, 408 ; au plur</i>. PHOCYL. <i>68</i> ; SIB. <i>8, 234 ; particul. en parl. de l’ascension d’un astre,</i> SEXT. <i>M. 5, 33</i> ; ὕ. μέγιστον, PLUT. <i>M. 149a, 782d</i>, point culminant.<p><b>Étym</b>. ὑψόω.`

@@ -1,0 +1,1 @@
+lar[62929]=`<b>ιδος</b>, <i>adj. f</i>. Μ. λίμνη, EL. <i>N.A. 6, 32,</i> le lac Maréotide (<i>auj</i>. lac Mariout).<p><b>Étym</b>. Μάρεια.`

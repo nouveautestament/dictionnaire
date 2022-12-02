@@ -1,0 +1,1 @@
+lar[36231]=`<b>ἐξ·ουρέω-ῶ :<br>      1</b> évacuer par les urines, ARSTT. <i>H.A. 6, 23, 2</i>.<br><b>      2</b> uriner, EL. <i>N.A. 11, 18</i>.`

@@ -1,0 +1,1 @@
+lar[38576]=`<b>ή, όν</b>, qui peut faire sécher à la surface, DIOSC. <i>4, 140</i>.`

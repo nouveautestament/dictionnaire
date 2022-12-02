@@ -1,0 +1,1 @@
+lar[85224]=`<b>προσ·άπαξ</b> <font color="purple">[ᾰπ]</font> <i>adv</i>., en une seule fois, LIB. <i>4, 586</i> ; APHTH.<p><b>Étym</b>. <i>W. 1, 112</i>.`

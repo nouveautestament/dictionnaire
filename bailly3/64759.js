@@ -1,0 +1,1 @@
+lar[64759]=`<b>μετα·κλαίω</b>, pleurer ensuite, <i>càd</i>. déplorer la perte de, <i>acc</i>. IL. <i>11, 764</i>.<br><b><i>Moy.</i></b> pleurer avec <i>ou</i> en même temps, EUR. <i>Hec. 214</i>.`

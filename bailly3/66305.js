@@ -1,0 +1,1 @@
+lar[66305]=`<b>ου (ὁ)</b> <font color="purple">[ρῐ]</font> Mœrikhos, <i>h</i>. LUC. <i>D. mort. 11, 1</i>.`

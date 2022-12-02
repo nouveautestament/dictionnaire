@@ -1,0 +1,1 @@
+lar[59012]=`<b>ου (ὁ)</b> parties de la femme, AR. <i>Ran. 430, etc</i>.<p><b>Étym</b>. κύω.`

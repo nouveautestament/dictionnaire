@@ -1,0 +1,1 @@
+lar[52627]=`<b>οῦ (ὁ)</b> action de précipiter, ATHÉNÉE MÉC. <i>37, 6</i>.<p><b>Étym</b>. κατακρημνίζω.`

@@ -1,0 +1,1 @@
+lar[41468]=`<b>ἐτυμό·θροος, οος, οον</b> <font color="purple">[ῠ]</font> véridique, NONN. <i>Jo. 1, 60</i>.<p><b>Étym</b>. ἔ. θρέω.`

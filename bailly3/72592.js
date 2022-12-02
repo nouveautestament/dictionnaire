@@ -1,0 +1,1 @@
+lar[72592]=`<b>ος, ον</b> <font color="purple">[τῐ]</font> qui habite dans les montagnes, PD. <i>fr. 306 Bgk</i>.<p><b>Étym</b>. ὄρος, κτίζω.`

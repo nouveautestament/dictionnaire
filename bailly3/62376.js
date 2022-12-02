@@ -1,0 +1,1 @@
+lar[62376]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. μαίνη, AR. <i>Ran. 985</i> ; ARSTT. <i>H.A. 6, 15, etc</i>.<p>➳ <font color="purple">[ῑ]</font> OPP. <i>H. 1, 108</i>.`

@@ -1,0 +1,1 @@
+lar[82604]=`<b>*πολυωνυμία</b>, <i>ion</i>. <b>πολυωνυμίη, ης (ἡ)</b> <font color="purple">[νῠ]</font> grand nombre de noms, CALL. <i>Dian. 7</i>.<p><b>Étym</b>. πολυώνυμος.`

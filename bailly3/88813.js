@@ -1,0 +1,1 @@
+lar[88813]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Rŭtĭlliānus, <i>n. d’h. rom</i>. LUC. <i>Alex. 4, etc</i>.`

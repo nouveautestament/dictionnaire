@@ -1,0 +1,1 @@
+lar[35062]=`<b>ή, όν</b>, que l’on peut aborder facilement, d’un commerce facile, PLUT. <i>Alc. 13, M. 9f</i>.<p><b>Étym</b>. ἐντυγχάνω.`

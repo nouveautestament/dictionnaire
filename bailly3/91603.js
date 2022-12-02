@@ -1,0 +1,1 @@
+lar[91603]=`<b>σορο·εργός, οῦ (ὁ, ἡ)</b> qui fabrique des cercueils, MAN. <i>4, 191</i>.<p><b>Étym</b>. σ. ἔργον.`

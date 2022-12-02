@@ -1,0 +1,1 @@
+lar[12568]=`<b>ἀπο·κινέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> repousser : τινα θυράων, OD. <i>22, 107,</i> écarter qqn des portes.<br><b>      2 <i>intr.</i></b> s’éloigner, EN. TACT. <i>Pol. 10</i>.<p>➳ <i>Ao. itér. 3 sg</i>. ἀποκινήσασκε, IL. <i>11, 635</i>.`

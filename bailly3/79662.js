@@ -1,0 +1,1 @@
+lar[79662]=`<b>ῆρος (ὁ)</b> <font color="purple">[χᾰ]</font> instrument de chirurgie pour déchausser les dents, C. AUR. <i>Chron. 2, 4, p. 372</i>.<p><b>Étym</b>. περιχαράσσω.`

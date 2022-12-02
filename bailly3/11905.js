@@ -1,0 +1,1 @@
+lar[11905]=`<b>ἀ·πήμαντος, ος, ον :<br>      1</b> sain et sauf, OD. <i>19, 282</i>.<br><b>      2</b> qui ne cause pas de douleur, <i>d’où</i> bienfaisant, ESCHL. <i>Suppl. 576</i> ; inoffensif, NIC. <i>Th. 492</i>.<p><b>Étym</b>. ἀ, πημαίνω.`

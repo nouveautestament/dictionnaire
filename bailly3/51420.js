@@ -1,0 +1,1 @@
+lar[51420]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. καμινεύς, LUC. <i>Sacr. 6</i>.`

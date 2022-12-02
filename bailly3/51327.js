@@ -1,0 +1,1 @@
+lar[51327]=`<b>ου (ὁ)</b> = <i>lat</i>. calceus, chaussure, PLUT. <i>Æmil. 5, M. 813e</i>.`

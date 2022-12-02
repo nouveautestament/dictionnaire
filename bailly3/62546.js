@@ -1,0 +1,1 @@
+lar[62546]=`<b>ας (ἡ)</b> longue route, long voyage, STR. <i>636</i>.<p><b>Étym</b>. μακρόπορος.`

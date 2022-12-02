@@ -1,0 +1,1 @@
+lar[47402]=`<font color="darkgreen">(<i>seul. prés. part. fém. dor</i>. θίγοισα)</font> <i>c</i>. θιγγάνω, PD. <i>P. 8, 24</i>.<p><b>Étym</b>. <i>cf</i>. θιγγάνω.`

@@ -1,0 +1,1 @@
+lar[105951]=`<b>φιλό·μυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime les parfums, les essences, ALEX. (ATH. <i>691d</i>) ; τὸ φιλόμυρον, EL. <i>N.A. 16, 24,</i> l’amour des parfums.<p><b>Étym</b>. φ. μύρον.`

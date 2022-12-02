@@ -1,0 +1,1 @@
+lar[95314]=`<b>συν·εισκρίνω</b> <font color="purple">[ῑ]</font> faire entrer <i>ou</i> admettre avec, PLUT. <i>M. 902a</i>.`

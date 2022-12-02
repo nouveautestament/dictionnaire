@@ -1,0 +1,1 @@
+lar[6121]=`<b>ος, ον</b>, déchiré tout autour <i>ou</i> de tous côtés, ANTH. <i>6, 84</i>.<p><b>Étym</b>. ἀμφιδρύπτω.`

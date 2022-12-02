@@ -1,0 +1,1 @@
+lar[90382]=`<b>σινδονο·φορέω-ῶ</b>, porter une robe de lin fin, STR. <i>711</i>.<p><b>Étym</b>. σινδών, -φορος <i>de</i> φέρω.`

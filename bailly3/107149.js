@@ -1,0 +1,1 @@
+lar[107149]=`<b>φυλλοβολέω-ῶ :<br>      1</b> pousser des feuilles, AR. <i>Nub. 1007 ; ou au contr</i>. perdre ses feuilles, ARSTT. <i>G.A. 5, 3, 25 et 34</i> ; TH. <i>H.P. 1, 9, 6</i>.<br><b>      2</b> joncher <i>ou</i> couvrir d’une pluie de feuilles et de fleurs, <i>acc</i>. HDN <i>8, 7 ; au pass</i>. HDN <i>7, 10</i> ; PHIL. <i>2, 591</i>.<p><b>Étym</b>. φυλλοβόλος.`

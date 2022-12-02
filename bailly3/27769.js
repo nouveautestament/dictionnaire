@@ -1,0 +1,1 @@
+lar[27769]=`<b>δοχμό·λοφος, ος, ον</b>, dont l’aigrette retombe s’agitant (sur le casque) ESCHL. <i>Sept. 114</i>.<p><b>Étym</b>. δοχμός, λόφος.`

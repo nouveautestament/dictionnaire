@@ -1,0 +1,1 @@
+lar[95356]=`<b>συν·εκκλησιάζω</b>, assister à l’assemblée avec, PLUT. <i>Sol. 18</i>.`

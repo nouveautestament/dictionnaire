@@ -1,0 +1,1 @@
+lar[1743]=`<b>ἄ·ελπτος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> inespéré, inattendu ; ἐξ ἀέλπτου, HDT. <i>1, 111,</i> à l’improviste ; ἐξ ἀέλπτων, SOPH. <i>Aj. 715,</i> contre toute attente.<br><b>      2</b> dont on désespère, SOL. <i>35, etc.</i><br><b>   II</b> <i>act</i>. qui désespère, HH. <i>Ap. 91, etc</i>.<p><b>Étym</b>. ἀ, ἔλπομαι.`

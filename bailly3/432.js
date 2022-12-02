@@ -1,0 +1,1 @@
+lar[432]=`<b>ου (ὁ)</b> Angélos, <i>h</i>. PLUT. <i>Pyrrh. 2</i>.<p><b>Étym</b>. ἄγγελος.`

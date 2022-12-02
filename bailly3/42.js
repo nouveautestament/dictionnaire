@@ -1,0 +1,1 @@
+lar[42]=`<b>ας (ἡ)</b> <font color="purple">[ᾰβ]</font> <font color="brown">Abantia</font>, <i>v. d’Épire,</i> LYC. <i>1043</i>.<p><b>Étym</b>. <i>v</i>. Ἄβαντες.`

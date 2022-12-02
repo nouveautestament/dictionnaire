@@ -1,0 +1,1 @@
+lar[14575]=`<b>ἀρι·δάκρυος, ος, ον</b> <font color="purple">[ᾰῐδα]</font> qui pleure abondamment, ARSTT. <i>Probl. 3, 24</i>.<p><b>Étym</b>. ἀρι-, δάκρυ.`

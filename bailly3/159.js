@@ -1,0 +1,1 @@
+lar[159]=`<b>ἀ·βούτης, ου</b>, <i>adj. m</i>. sans bœufs, pauvre, HÉS. <i>O. 453</i>.<p><b>Étym</b>. ἀ, βοῦς.`

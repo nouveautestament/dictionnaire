@@ -1,0 +1,1 @@
+lar[11853]=`<b>ἀπ·ευνάζω</b> (<i>part. ao. pass</i>. ἀπευνασθείς) bercer, assoupir, SOPH. <i>Tr. 1242</i>.`

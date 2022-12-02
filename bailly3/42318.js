@@ -1,0 +1,1 @@
+lar[42318]=`<b>εὐθυ·φερής, ής, ές</b> <font color="purple">[ῠ]</font> qui mène (<i>propr</i>. qui porte) directement, PLAT. <i>Leg. 815b</i>.<p><b>Étym</b>. εὐ. φέρω.`

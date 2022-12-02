@@ -1,0 +1,1 @@
+lar[3987]=`<b>ἀ·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> stérile, EUR. <i>Andr. 158 ; en parl. de la terre,</i> MOSCH. (STOB. <i>Ecl. 1, 242).</i><p><b>Étym</b>. ἀ, κύω.`

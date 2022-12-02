@@ -1,0 +1,1 @@
+lar[37849]=`<b>ἐπ·ιθύνω</b> <font color="purple">[ῑῡ]</font> diriger, dresser, SOPH. <i>Ph. 1059</i> ; A.RH. <i>3, 1325</i>.`

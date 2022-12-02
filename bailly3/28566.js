@@ -1,0 +1,1 @@
+lar[28566]=`<b>δυσ·καταφρόνητος, ος, ον</b> <font color="purple">[κᾰ]</font> qu’on ne peut mépriser, XÉN. <i>Cyr. 8, 1, 42, au cp</i>. -ότερος.<p><b>Étym</b>. δ. καταφρονέω.`

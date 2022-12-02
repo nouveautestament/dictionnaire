@@ -1,0 +1,1 @@
+lar[21178]=`<b>ου (ὁ)</b> sorte de javeline <i>à l’usage des Celtes</i> POL. <i>6, 39, 3 ; des Ibères,</i> ATH. <i>273f ; des Carthaginois,</i> DS. <i>15, 57</i>.`

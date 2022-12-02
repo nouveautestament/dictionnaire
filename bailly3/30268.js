@@ -1,0 +1,1 @@
+lar[30268]=`<b>ου (τὸ)</b> petite poésie, poésie fugitive, GRAMM.<p><b>Étym</b>. <i>dim. de</i> εἶδος.`

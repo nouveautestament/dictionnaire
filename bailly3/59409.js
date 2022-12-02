@@ -1,0 +1,1 @@
+lar[59409]=`<b>λαγο·δαίτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui mange les lièvres (aigle) ESCHL. <i>Ag. 123</i>.<p><b>Étym</b>. λαγώς, δαίνυμαι.`

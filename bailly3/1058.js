@@ -1,0 +1,1 @@
+lar[1058]=`<b>ἀγχι·νεφής, ής, ές</b> <font color="purple">[ῐ]</font> voisin des nuages, ANTH. <i>6, 219, 14</i> ; NONN. <i>D. 3, 208, etc</i>.<p><b>Étym</b>. ἄ. νέφος.`

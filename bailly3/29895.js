@@ -1,0 +1,1 @@
+lar[29895]=`<b>ἐγ·χειρόομαι-οῦμαι</b>, prendre en main, se charger de, <i>acc</i>. DC.<p><b>Étym</b>. ἐν, χείρ.`

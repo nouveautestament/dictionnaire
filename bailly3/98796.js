@@ -1,0 +1,1 @@
+lar[98796]=`<b>τευμάομαι-ῶμαι</b>, fabriquer, ANTIM. <i>3 Kinkel</i>.`

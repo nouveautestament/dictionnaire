@@ -1,0 +1,1 @@
+lar[77386]=`<b>πατρονομέομαι-οῦμαι</b>, suivre les lois et les coutumes des ancêtres <i>ou p.-ê</i>. regarder comme une loi la volonté de son père, PLAT. <i>Leg. 680e ;</i> PLUT. <i>Dio. 10</i>.<p><b>Étym</b>. πατρονόμος.`

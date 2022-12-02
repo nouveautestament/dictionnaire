@@ -1,0 +1,1 @@
+lar[43579]=`<b>ης (ἡ)</b> la Frugalité <i>personnifiée,</i> CÉB. <i>3, 3 Bgk</i>.`

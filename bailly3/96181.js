@@ -1,0 +1,1 @@
+lar[96181]=`<b>συν·ομοπαθέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. συνομοιοπαθέω, ARSTT. <i>Rhet. 3, 7, 5</i> ; PLUT. <i>M. 96f, etc</i>.`

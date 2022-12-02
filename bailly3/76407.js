@@ -1,0 +1,1 @@
+lar[76407]=`<b>παρ·αφίημι</b> <font color="purple">[ᾰφ]</font> laisser de côté, omettre, <i>acc</i>. ARSTT. <i>Nic. 8, 1</i>.`

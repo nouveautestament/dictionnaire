@@ -1,0 +1,1 @@
+lar[23739]=`<b>ας (ἡ)</b> Dékéleia (Décélie) <i>dème attique de la tribu Hippothoontide,</i> THC. <i>6, 93 ; 7, 27, etc.</i> ; XÉN. DÉM. <i>etc</i>.<p>➳ <i>Ion</i>. -ελέη, HDT. <i>9, 15, etc</i>.`

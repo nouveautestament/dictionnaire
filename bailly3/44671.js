@@ -1,0 +1,1 @@
+lar[44671]=`<b>ας (ἡ)</b> soutien de la vie, RHÉT. <i>1, 599 W</i>.<p><b>Étym</b>. ζωαρκής.`

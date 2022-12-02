@@ -1,0 +1,1 @@
+lar[104551]=`<font color="purple">[ῐ]</font> <i>adv</i>., en haut, IL. <i>10, 16 ; 17, 676 ; 19, 376, etc.</i> ; A.RH. <i>1, 590 ; 2, 354 ; avec un. gén</i>. en haut de, au-dessus de, NONN. <i>Jo. 15, 22</i>.<p><b>Étym</b>. ὕψος, -θι.`

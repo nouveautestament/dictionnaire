@@ -1,0 +1,1 @@
+lar[52399]=`<font color="purple">[μᾰ]</font> <i>c</i>. καταναθεματίζω, NT. <i>Matth. 26, 74</i>.<p><b>Étym</b>. <i>v</i>. κατάθεμα.`

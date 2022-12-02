@@ -1,0 +1,1 @@
+lar[50181]=`<b>ων (τὰ)</b> Kabeires, <i>v. du Pont,</i> PLUT. <i>Luc. 14, etc</i>.`

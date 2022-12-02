@@ -1,0 +1,1 @@
+lar[87773]=`<i>adv</i>., en forme de tour, <i>càd</i>. en masse compacte, IL. <i>12, 43 ; 13, 152 ; 15, 618</i>.<p><b>Étym</b>. πύργος, -δον.`

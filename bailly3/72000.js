@@ -1,0 +1,1 @@
+lar[72000]=`<b>ατος (τὸ)</b> lithosperme violet, <i>plante, la même que</i> ὀσμάς, φλονῖτις <i>et</i> ὄνωνις, DIOSC. <i>3, 147</i>.`

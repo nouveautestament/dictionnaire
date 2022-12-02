@@ -1,0 +1,1 @@
+lar[24782]=`<b>δια·κληρονομέω-ῶ</b> (<i>part. prés. pass</i>. -ούμενον) partager par le sort, partager, LGN <i>12, 4</i>.`

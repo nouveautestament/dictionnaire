@@ -1,0 +1,1 @@
+lar[72298]=`<b>ὀπισθο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se trouve par derrière, GAL. <i>4, 473</i>.<p><b>Étym</b>. ὄπισθε, φαίνω.`

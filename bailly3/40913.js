@@ -1,0 +1,1 @@
+lar[40913]=`<i>voyez à</i> εἰσ- <i>les composés de la préposition</i> ἐσ- <i>qui ne seraient pas mentionnés ci-dessous</i>.`

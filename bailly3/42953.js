@@ -1,0 +1,1 @@
+lar[42953]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> <i>c</i>. εὐπατέρεια MÉN. <i>616 Kock</i>.`

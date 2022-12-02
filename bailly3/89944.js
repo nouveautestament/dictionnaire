@@ -1,0 +1,1 @@
+lar[89944]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. γῆ, HDT. <i>2, 38,</i> terre argileuse, propre à recevoir l’empreinte d’un sceau.<p><b>Étym</b>. σημαίνω.`

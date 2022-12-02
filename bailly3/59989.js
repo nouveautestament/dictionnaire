@@ -1,0 +1,1 @@
+lar[59989]=`<b>ωνος (ὁ)</b> Laurôn, <i>v. d’Espagne,</i> PLUT. <i>Sert. 18, Pomp. 18, etc</i>.`

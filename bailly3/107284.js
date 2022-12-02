@@ -1,0 +1,1 @@
+lar[107284]=`<b>ου (ὁ)</b> Physkos :<br><b>      1</b> <i>mt. (auj</i>. Fuscaldo) <i>près de Crotone,</i> THCR. <i>Idyl. 4, 23</i>.<br><b>      2</b> <i>affl. du Tigre (auj</i>. canal Nahr-Katur), XÉN. <i>An. 2, 4, 25</i>.<p>➳ <i>Gén. dor</i>. Φύσκω, THCR. <i>l.c</i>.`

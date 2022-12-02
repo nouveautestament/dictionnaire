@@ -1,0 +1,1 @@
+lar[80081]=`<b>πηλο·ειδῶς</b>, <i>adv</i>., avec l’apparence de l’argile, NYSS.<p><b>Étym</b>. πηλός, εἶδος.`

@@ -1,0 +1,1 @@
+lar[107178]=`<b>ή, όν</b> <font color="purple">[ῡῐν]</font> apte à classer, <i>litt</i>. à diviser en tribus <i>ou</i> en espèces, CLÉM. <i>488</i>.<p><b>Étym</b>. φυλοκρινέω.`

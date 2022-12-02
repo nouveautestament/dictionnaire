@@ -1,0 +1,1 @@
+lar[86404]=`<b>ή, όν</b>, qui a la faculté d’attirer, <i>gén</i>. ARSTT. <i>H.A. 10, 3, 3</i>.<p><b>Étym</b>. προσσπάω.`

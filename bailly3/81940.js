@@ -1,0 +1,1 @@
+lar[81940]=`<b>πολύ·θρονος, ος, ον</b>, qui contient beaucoup de plantes médicinales, NIC. <i>Th. 875</i>.<p><b>Étym</b>. π. θρόνον.`

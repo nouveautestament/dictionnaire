@@ -1,0 +1,1 @@
+lar[80986]=`<i>ou</i> <b>πλήμυρα, ας (ἡ)</b> <font color="purple">[ῡ]</font> flux, marée montante, PLUT. <i>M. 897c ;</i> ANTH. <i>9, 291, etc. ; fig</i>. SEXT. <i>M. 11, 157</i>.<p><b>Étym</b>. πλήμη.`

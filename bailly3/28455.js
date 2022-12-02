@@ -1,0 +1,1 @@
+lar[28455]=`<b>δυσ·ετυμολόγητος, ος, ον</b> <font color="purple">[ῠῠ]</font> dont l’étymologie est difficile à trouver, CORN. <i>20</i>.<p><b>Étym</b>. δ. ἐτυμολογέω.`

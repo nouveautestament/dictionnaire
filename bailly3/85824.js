@@ -1,0 +1,1 @@
+lar[85824]=`<i>adv</i>., en désignant par un nom commun, PHIL. <i>1, 150</i>.<p><b>Étym</b>. προσηγορικός.`

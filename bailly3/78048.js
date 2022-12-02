@@ -1,0 +1,1 @@
+lar[78048]=`<b>Πεντά·τευχος, ου (ἡ)</b> <i>s.-e</i>. βίβλος, le Pentateuque, <i>titre collectif des cinq livres de Moïse</i>.<p><b>Étym</b>. π. τεῦχος.`

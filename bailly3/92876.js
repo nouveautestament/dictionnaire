@@ -1,0 +1,1 @@
+lar[92876]=`<b>ου (ὁ</b> <i>ou</i> <b>ἡ)</b> Stratos (<i>auj</i>. ruines près du village moderne de Strátos, non loin de Lepenoú) <i>v. d’Acarnanie,</i> THC. <i>2, 80, etc.</i> ; XÉN. <i>Hell. 4, 6, 4, etc</i>.<p>➳ ὁ Στρ. POL. <i>5, 13 ; 14, 96, etc.</i> ; ἡ Στρ. PAUS. <i>6, 2, 1, etc</i>.`

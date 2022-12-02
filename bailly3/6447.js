@@ -1,0 +1,1 @@
+lar[6447]=`<b>ἀμφορεαφορέω-ῶ</b> <font color="purple">[εᾱ]</font> porter des amphores, AR. <i>fr. 285</i>.<p><b>Étym</b>. ἀμφορεαφόρος, porteur d’amphores.`

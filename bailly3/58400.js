@@ -1,0 +1,1 @@
+lar[58400]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> joueur, XÉN. <i>Hell. 6, 3, 16, etc</i>.<p><b>Étym</b>. κυβεύω.`

@@ -1,0 +1,1 @@
+lar[51728]=`<font color="purple">[δᾰ]</font> (<i>seul. prés</i>.) parler de cresson, AR. <i>Th. 617</i>.<p><b>Étym</b>. κάρδαμον.`

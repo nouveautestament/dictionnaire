@@ -1,0 +1,1 @@
+lar[26832]=`<b>ου (τὸ)</b> phénomène d’optique, BITON.<p><b>Étym</b>. διόψομαι.`

@@ -1,0 +1,1 @@
+lar[26479]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> administration de la justice, PHIL. <i>2, 365</i>.<p><b>Étym</b>. δικαιονόμος.`

@@ -1,0 +1,1 @@
+lar[8817]=`<b>ἀνθ·ηδών, όνος (ἡ) :<br>      1</b> abeille, EL. <i>N.A. 15, 1 ; cf</i>. ἀνθρηδών.<br><b>      2</b> sorte de nèfle, TH. <i>H.P. 3, 12, 5</i>.<p><b>Étym</b>. ἄνθος.`

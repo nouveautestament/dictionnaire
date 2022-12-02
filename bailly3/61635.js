@@ -1,0 +1,1 @@
+lar[61635]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit plat, écuelle, AR. <i>Pl. 812</i>.<p><b>Étym</b>. <i>dim. de</i> λοπάς.`

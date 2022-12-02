@@ -1,0 +1,1 @@
+lar[61323]=`<b>λιπο·δεής</b>, <i>mieux que</i> <b>λειπο·δεής, ής, ές</b>, qui est dans le besoin, pauvre, PYTHAG. <i>Epist. 2</i>.<p><b>Étym</b>. λ. δέος.`

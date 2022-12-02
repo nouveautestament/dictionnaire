@@ -1,0 +1,1 @@
+lar[22163]=`<b>ας (ἡ)</b> <font color="purple">[ῠῠῡ]</font> humeur douce <i>ou</i> facile, <i>d’où</i> :<br><b>      1</b> facilité, laisser-aller, <i>p. opp. à</i> ἐγκράτεια, PLAT. <i>Leg. 635d.</i><br><b>      2</b> douceur de caractère, bienveillance, PLUT. <i>Them. 10 ; M. 970b</i>.<p><b>Étym</b>. γλυκύθυμος.`

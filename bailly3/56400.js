@@ -1,0 +1,1 @@
+lar[56400]=`grogner comme le porc, AR. <i>Ach. 746</i>.<p><b>Étym</b>. κοΐ.`

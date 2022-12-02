@@ -1,0 +1,1 @@
+lar[73193]=`<b>ὁσαχῇ·περ</b> <font color="purple">[ᾰ]</font> <i>adv</i>., d’autant de façons que, aussi souvent que, PLAT. <i>Tim. 43e</i>.<p><b>Étym</b>. *ὁσαχός, περ.`

@@ -1,0 +1,1 @@
+lar[107000]=`<b>φρυνο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> qui ressemble à un crapaud, ARSTT. <i>Probl. 1, 22</i>.<p><b>Étym</b>. φρῦνος, εἶδος.`

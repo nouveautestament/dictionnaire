@@ -1,0 +1,1 @@
+lar[68425]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> qui concerne les reins <i>ou</i> la région des reins, HPC. <i>661, 38</i>.<p><b>Étym</b>. νεφρός.`

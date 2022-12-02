@@ -1,0 +1,1 @@
+lar[43774]=`<b>εὔ·φωνος, ος, ον :<br>      1</b> qui a une belle <i>ou</i> forte voix, AR. <i>Eccl. 713</i> ; XÉN. <i>Hell. 2, 4, 20</i>.<br><b>      2</b> harmonieux, PD. <i>I. 1, 64 ; P. 1, 38</i> ; ESCHL. <i>Ag. 1187</i> ; PLUT. <i>M. 622c</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Probl. 9, 8 ; • Sup</i>. -ότατος, HDN <i>2, 6, 7</i>.<p><b>Étym</b>. εὖ, φωνή.`

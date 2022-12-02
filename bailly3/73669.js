@@ -1,0 +1,1 @@
+lar[73669]=`<b>οὐρανό·πολις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> ville céleste, ATH. <i>20c ;</i> CLÉM. <i>242</i>.<p><b>Étym</b>. οὐρ. πόλις.`

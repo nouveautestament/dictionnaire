@@ -1,0 +1,1 @@
+lar[29512]=`<b>ἐγ·καταγράφω</b> <font color="purple">[ᾰφ]</font> inscrire parmi, <i>dat</i>. EL. (SUID. <i>v°</i> ἕρκος).<p><b>Étym</b>. ἐν, κ.`

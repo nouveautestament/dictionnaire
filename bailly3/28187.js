@@ -1,0 +1,1 @@
+lar[28187]=`<b>δυσ·ανάφορος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> dont on s’éveille difficilement, BAS. <i>3, 449 Migne</i>.<p><b>Étym</b>. δ. ἀναφέρω.`

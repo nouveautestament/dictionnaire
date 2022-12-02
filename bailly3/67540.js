@@ -1,0 +1,1 @@
+lar[67540]=`<b>μωρο·κλέπτης, ου (ὁ)</b> voleur maladroit <i>ou</i> sot, ES. <i>38 Halm</i>.<p><b>Étym</b>. μωρός, κλέπτης.`

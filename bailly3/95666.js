@@ -1,0 +1,1 @@
+lar[95666]=`<b>συν·επιπονέω-ῶ</b>, contribuer de son propre travail, XÉN. <i>Cyr. 5, 4, 17 dout</i>.`

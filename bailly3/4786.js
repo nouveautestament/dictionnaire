@@ -1,0 +1,1 @@
+lar[4786]=`<b>ἀλλοιό·μορφος, ος, ον</b>, de forme différente, HANN. <i>Per. p. 3</i> ; ONOS. <i>10, 10</i>.<p><b>Étym</b>. ἀλλοῖος, μορφή.`

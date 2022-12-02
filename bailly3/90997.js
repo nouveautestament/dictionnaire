@@ -1,0 +1,1 @@
+lar[90997]=`<b>ή, όν</b> <font color="purple">[ῑρ]</font> des roches Scironiennes, ANTH. <i>7, 496</i>.<p><b>Étym</b>. Σκίρων.`

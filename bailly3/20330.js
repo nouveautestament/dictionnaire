@@ -1,0 +1,1 @@
+lar[20330]=`<b>ωνος (ὁ)</b> Botôn, <i>h</i>. DL. PLUT. <i>etc</i>.`

@@ -1,0 +1,1 @@
+lar[95474]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de laisser comprendre en même temps, allusion, ATH. <i>325b ;</i> SEXT. <i>M. 7, 239</i> ; CLÉM. <i>680</i>.<p><b>Étym</b>. συνεμφαίνω.`

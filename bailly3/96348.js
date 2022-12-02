@@ -1,0 +1,1 @@
+lar[96348]=`<b>ας (ἡ)</b> concision, brièveté, PLAT. <i>Phædr. 267b ;</i> LYCURG. <i>161, 44</i> ; ARSTT. <i>Rhet. 3, 6, 1</i>.<p><b>Étym</b>. σύντομος.`

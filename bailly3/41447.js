@@ -1,0 +1,1 @@
+lar[41447]=`<b>ἑτοιμο·κόλλιξ, ικος (ὁ)</b> qui partage volontiers son pain, COM. (<i>Com. fr. 4, 645, 163).</i><p><b>Étym</b>. ἕ. κόλλιξ.`

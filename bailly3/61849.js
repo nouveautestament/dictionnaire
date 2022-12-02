@@ -1,0 +1,1 @@
+lar[61849]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Lykastè, <i>Bacchante,</i> NONN. <i>D. 29, 263</i>.`

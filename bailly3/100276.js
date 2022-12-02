@@ -1,0 +1,1 @@
+lar[100276]=`<i>adv</i>., avec des prières renouvelées <i>ou</i> instantes, ANTH. <i>5, 271</i>.`

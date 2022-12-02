@@ -1,0 +1,1 @@
+lar[32900]=`<b>ἐλ·λαμπρύνω :<br>      1</b> rendre éclatant, JOS. <i>A.J. 18, 3, 4</i> ; APP. <i>1, 9, 40 Schweigh. ; d’où au pass</i>. se montrer avec éclat, déployer de la magnificence, THC. <i>6, 12</i>.<br><b>      2</b> <i>p. suite, fig. au pass</i>. s’enorgueillir, LUC. <i>Dom. 1</i> ; τινι, DC. <i>73, 10,</i> de qqe ch.<p><b>Étym</b>. ἐν, λ.`

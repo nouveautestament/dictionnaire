@@ -1,0 +1,1 @@
+lar[81120]=`enrichir, ESCHL. <i>Ag. 586</i> ; XÉN. <i>Cyr. 8, 2, 22, etc. ; fig</i>. XÉN. <i>Mem. 5, 2, 9 ; ironiq. en parl. de calamités,</i> ESCHL. <i>Ag. 1268 ; au pass</i>. s’enrichir, être enrichi, XÉN. <i>Cyr. 5, 1, 27, etc. ; fig</i>. SOPH. <i>O.R. 30</i>.<p><b>Étym</b>. πλοῦτος.`

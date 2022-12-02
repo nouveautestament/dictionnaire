@@ -1,0 +1,1 @@
+lar[22044]=`<b>ου (ὁ)</b> Glaukétès, <i>h</i>. AR. <i>Pax 1008 ; Th. 1033</i> ; DÉM. ESCHN.`

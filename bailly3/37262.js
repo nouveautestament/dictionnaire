@@ -1,0 +1,1 @@
+lar[37262]=`<b>ἐπ·ῃόνιος, ος, ον</b>, qui est sur le rivage, ANTH. <i>5, 125</i>.<p><b>Étym</b>. ἐπί, ᾐών.`

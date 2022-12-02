@@ -1,0 +1,1 @@
+lar[102209]=`<b>ὑπ·εξέχω</b> (<i>seul. ao.2</i> ὑπεξέσχον) sortir secrètement, HDT. <i>5, 72 ; 6, 74 ; 8, 132</i> ; DC. <i>Exc. p. 14, 43</i>.`

@@ -1,0 +1,1 @@
+lar[27970]=`<b>αντος (ὁ)</b> <font color="purple">[ῠ]</font> Dryas :<br><b>      1</b> <i>Lapithe,</i> IL. <i>1, 263</i> ; HÉS. <i>Sc. 179</i>.<br><b>      2</b> <i>autres,</i> IL. <i>6, 130</i> ; SOPH. <i>Ant. 955, etc</i>.<p><b>Étym</b>. δρῦς.`

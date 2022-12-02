@@ -1,0 +1,1 @@
+lar[609]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> objet qu’on tient embrassé <i>ou</i> qu’on porte sur ses bras, LUC. <i>Am. 74</i>.<br><b>      2</b> embrassement, LYC. <i>308</i>.<p><b>Étym</b>. ἀγκαλίζομαι.`

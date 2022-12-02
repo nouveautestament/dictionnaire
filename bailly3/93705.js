@@ -1,0 +1,1 @@
+lar[93705]=`<b>ου</b> <font color="purple">[ῡῑ]</font><br><b>      1</b> de figues : σ. οἶνος, DIOSC. <i>5, 41,</i> vin préparé avec des figues.<br><b>      2</b> protecteur des figuiers, <i>ép. de Dionysos, chez les Lacédémoniens,</i> ATH. <i>78c</i>.<p><b>Étym</b>. σῦκον.`

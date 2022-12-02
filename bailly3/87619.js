@@ -1,0 +1,1 @@
+lar[87619]=`<font color="purple">[ᾰ]</font> <i>adv</i>., fréquemment, ARSTT. <i>Probl. 3, 9, 1, etc</i>.<p><b>Étym</b>. πυκνός, -άκις.`

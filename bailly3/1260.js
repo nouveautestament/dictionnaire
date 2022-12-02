@@ -1,0 +1,1 @@
+lar[1260]=`<b>ἄ·δετος, ος, ον :<br>      1</b> non lié, libre, DÉM. <i>753, 1</i>.<br><b>      2</b> non assujetti, relâché, HPC. <i>Art. 808</i>.<br><b>      3</b> qui n’a pas de chaussures liées aux pieds, qui est pieds nus, PHILSTR. <i>921</i>.<p><b>Étym</b>. ἀ, δέω.`

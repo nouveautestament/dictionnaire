@@ -1,0 +1,1 @@
+lar[21191]=`<b>ή, όν</b> <font color="purple">[γᾰ]</font> blanc comme du lait, DIOSC. <i>2, 205</i>.<p><b>Étym</b>. γάλα.`

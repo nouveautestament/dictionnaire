@@ -1,0 +1,1 @@
+lar[89069]=`<font color="purple">[ᾰᾰ]</font> avoir qqe ressemblance avec l’assa fœtida, GAL. <i>16, 745</i>.<p><b>Étym</b>. σαγάπηνον.`

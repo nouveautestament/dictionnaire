@@ -1,0 +1,1 @@
+lar[74950]=`<b>πανδοκέω-ῶ</b>, prendre entièrement sur soi, se charger entièrement de, <i>acc</i>. ESCHL. <i>Sept. 18</i>.<p><b>Étym</b>. πάνδοκος.`

@@ -1,0 +1,1 @@
+lar[84213]=`<b>προ·εξομαλίζω</b> <font color="purple">[ᾰ]</font> aplanir auparavant, JOS. <i>B.J. 3, 7, 3</i>.`

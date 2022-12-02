@@ -1,0 +1,1 @@
+lar[36]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <font color="brown">petit carré de mosaïque</font>, MOSCHION HIST. (ATH. <i>207d</i>).<p><b>Étym</b>. ἄβαξ.`

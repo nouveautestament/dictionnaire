@@ -1,0 +1,1 @@
+lar[13435]=`<b>ἀπο·στεφανόω-ῶ</b> <font color="purple">[φᾰ]</font> dépouiller de la couronne, <i>acc</i>. LUC. <i>J. tr. 10</i>.`

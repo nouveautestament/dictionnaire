@@ -1,0 +1,1 @@
+lar[48301]=`<b>ας (ἡ)</b> <font color="purple">[ῑᾱ]</font> science de la médecine, SOPH. <i>Tr. 1002</i>.<p>➳ <i>Ion</i>. ἰητορίη, ANTH. <i>8, 91, 92</i>.<p><b>Étym</b>. ἰάομαι.`

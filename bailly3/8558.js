@@ -1,0 +1,1 @@
+lar[8558]=`<i>adv</i>., d’une manière inexplicable, CHRYS. <i>5, 890</i>.`

@@ -1,0 +1,1 @@
+lar[56086]=`<font color="purple">[ῐσ]</font> <i>adv</i>., hors de la tente, IL. <i>1, 391</i>.<p><b>Étym</b>. κλισίη, -θεν.`

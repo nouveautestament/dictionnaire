@@ -1,0 +1,1 @@
+lar[50072]=`<b>ή, όν</b>, qui concerne un vivier, GEOP. <i>20, 1</i>.<p><b>Étym</b>. ἰχθυοτρόφος.`

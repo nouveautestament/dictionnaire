@@ -1,0 +1,1 @@
+lar[98385]=`<b>α, ον</b>, de Térina, <i>v. du Bruttium</i> ; T. κόλπος, THC. <i>6, 104,</i> le golfe de Térina.<p><b>Étym</b>. <i>auj</i>. golfo di Sant’Eufemia.`

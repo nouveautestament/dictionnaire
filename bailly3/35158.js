@@ -1,0 +1,1 @@
+lar[35158]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> empreinte, PHILSTR. <i>86</i> ; CLÉM. <i>1, 717 Migne</i>.<p><b>Étym</b>. ἐντυπόω.`

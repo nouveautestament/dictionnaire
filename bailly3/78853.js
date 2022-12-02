@@ -1,0 +1,1 @@
+lar[78853]=`<b>περι·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> baigné tout autour par les flots, EUR. <i>Tr. 796</i> ; ARCHESTR. (ATH. <i>29b et 111f</i>).<p><b>Étym</b>. π. κῦμα.`

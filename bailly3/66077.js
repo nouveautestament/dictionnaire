@@ -1,0 +1,1 @@
+lar[66077]=`<b>ας (ἡ)</b> aversion pour ses enfants, PLUT. <i>M. 4e, 13d ;</i> PHIL. <i>2, 451</i>.<p><b>Étym</b>. μισότεκνος.`

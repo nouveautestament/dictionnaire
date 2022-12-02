@@ -1,0 +1,1 @@
+lar[32277]=`<b>ᾶς (ἡ)</b> <font color="purple">[ῠ]</font> belle-mère, mère de l’époux, IL. <i>22, 451 ; 24, 770</i> ; PLUT. <i>M. 143a</i>.<p>➳ <i>Ion</i>. ἑκυρή, IL. <i>ll. cc. ; en prose, d’ord</i>. πενθερά.<p><b>Étym</b>. <i>cf</i>. ἑκυρός.`

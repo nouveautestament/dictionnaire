@@ -1,0 +1,1 @@
+lar[87553]=`<b>ου (ὁ)</b> Pythès, <i>h</i>. THC. <i>2, 29, etc.</i> ; PAUS. <i>6, 14, 12, etc</i>.<p>➳ <i>Gén. ion</i>. Πύθεω, THC. <i>l. c</i>.`

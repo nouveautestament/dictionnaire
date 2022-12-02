@@ -1,0 +1,1 @@
+lar[44066]=`<b>ἐφι·άλτης, ου (ὁ)</b> cauchemar (<i>litt</i>. qui saute sur, qui oppresse) STR. <i>19</i> ; DIOSC. <i>3, 157</i> ; ARTÉM. <i>214 Reiff</i>.<p>➳ <i>Éol</i>. ἐπιάλτης, ALC. <i>129</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i> ; ἐπί, ἅλλομαι « sauter sur quelqu’un » <i>par étym. populaire</i>.`

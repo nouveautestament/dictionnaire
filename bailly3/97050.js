@@ -1,0 +1,1 @@
+lar[97050]=`<b>σχιζό·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> dont les pieds sont séparés en doigts, ARSTT. <i>H.A. 8, 3, 12 ; P.A. 1, 2 ; Metaph. 6, 12, etc</i>.<p><b>Étym</b>. σχίζω, πούς.`

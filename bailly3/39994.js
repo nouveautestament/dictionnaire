@@ -1,0 +1,1 @@
+lar[39994]=`<b>ἑπτά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> de sept mois, HDT. <i>6, 69</i> ; HPC. <i>254, 24</i> ; ARSTT. <i>H.A. 7, 4, 9 ; subst</i>. ἡ ἑπτάμηνος, PLUT. <i>M. 907b</i>, durée <i>ou</i> période de sept mois.<p><b>Étym</b>. ἑ. μήν.`

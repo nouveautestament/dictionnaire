@@ -1,0 +1,1 @@
+lar[44005]=`<b>ατος (τὸ)</b> invention, BAS. <i>3, 165c Migne</i>.<p><b>Étym</b>. ἐφευρίσκω.`

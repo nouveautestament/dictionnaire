@@ -1,0 +1,1 @@
+lar[81232]=`être couvert d’herbe <i>ou</i> de gazon, STR. <i>236, 538, 770</i>.<p><b>Étym</b>. πόα.`

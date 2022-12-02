@@ -1,0 +1,1 @@
+lar[59048]=`<b>α, ον</b> <font color="purple">[ῡᾰ]</font> <i>c</i>. κυφός, ANTH. <i>6, 297</i>.`

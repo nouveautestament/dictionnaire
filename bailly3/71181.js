@@ -1,0 +1,1 @@
+lar[71181]=`<b>ὁλο·κωνῖτις, ίτιδος (ἡ)</b> <font color="purple">[ῑτ]</font> <i>sorte de plante à racines tuberculeuses,</i> HPC. <i>626, 4</i>.<p><b>Étym</b>. ὅλ. κώνειον.`

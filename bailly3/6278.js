@@ -1,0 +1,1 @@
+lar[6278]=`<b>ἀμφί·νοος-ους, οος-ους, οον-ουν</b>, qui est dans le doute, indécis, TIMON <i>2, 2</i>.<p><b>Étym</b>. ἀ. νόος.`

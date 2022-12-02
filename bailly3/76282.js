@@ -1,0 +1,1 @@
+lar[76282]=`<b>παρα·σύνθημα, ατος (τὸ)</b> signal donné par signes convenus outre le mot d’ordre, POL. <i>9, 13, 19</i> ; ONOS. <i>26</i>.`

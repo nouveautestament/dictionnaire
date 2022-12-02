@@ -1,0 +1,1 @@
+lar[87779]=`<b>ου (ὁ)</b> coffre-fort, SEXT. <i>M. 9, 78</i> ; ARTÉM. <i>1, 76</i>.<p><b>Étym</b>. <i>dim. de</i> πύργος.`

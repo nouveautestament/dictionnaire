@@ -1,0 +1,1 @@
+lar[29521]=`<b>ἐγ·κατακαίω</b> (<i>seul. prés</i>.) brûler dans, <i>dat</i>. LUC. <i>Pisc. 52</i>.<p><b>Étym</b>. ἐν. κ.`

@@ -1,0 +1,1 @@
+lar[83360]=`<font color="purple">[ῡ]</font> <i>adv</i>., comme les vieillards, PLUT. <i>Thes. 14</i>.`

@@ -1,0 +1,1 @@
+lar[14009]=`<b>ας (ἡ)</b> fermeté d’allure, <i>litt</i>. le fait de ne pas faire de faux pas, PLAT. <i>Leg. 669e</i>.<p><b>Étym</b>. ἄπταιστος.`

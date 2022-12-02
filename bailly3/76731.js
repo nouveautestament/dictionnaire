@@ -1,0 +1,1 @@
+lar[76731]=`<b>παρ·εξειρεσία, ας (ἡ)</b> partie d’un vaisseau sans rames, <i>càd</i>. extrémité de la proue <i>ou</i> de la poupe, THC. <i>4, 12</i> ; PLUT. <i>M. 347b</i>.`

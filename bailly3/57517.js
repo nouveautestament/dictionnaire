@@ -1,0 +1,1 @@
+lar[57517]=`<b>κραιπαλάω-ῶ</b> <font color="purple">[πᾰ]</font><br><b>      1</b> avoir la tête lourde par suite de l’ivresse, AR. <i>Pl. 298</i> ; PLAT. <i>Conv. 176d.</i><br><b>      2</b> parler <i>ou</i> agir comme un homme ivre, PHILYLL. (ATH. <i>31a</i>).<p><b>Étym</b>. κραιπάλη.`

@@ -1,0 +1,1 @@
+lar[49104]=`<b>ἰο·βλέφαρος, ος, ον</b> <font color="purple">[ᾰ]</font> aux paupières noires, aux yeux noirs, MAN. <i>5, 145</i> ; LUC. <i>Im. 8, etc</i>.<p>➳ <i>Dor</i>. ἰογλέφαρος, PD. <i>fr. 113</i>.<p><b>Étym</b>. ἴον, βλέφαρον.`

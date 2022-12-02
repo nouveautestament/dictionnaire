@@ -1,0 +1,1 @@
+lar[32179]=`<b>ἐκ·τοκίζω</b>, exiger un intérêt, SYMM. <i>Ps. 28, 8 ; Esaï. 66, 9</i> ; ἐκτ. τινὶ τόκον ἀργυρίου, SPT. <i>Deut. 23, 19,</i> exiger de qqn l’intérêt d’une somme d’argent.`

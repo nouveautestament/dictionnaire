@@ -1,0 +1,1 @@
+lar[76651]=`<i>adv</i>., d’une manière superflue, DIOSC. <i>Iob. p. 51, etc</i>.<p><b>Étym</b>. παρέλκω.`

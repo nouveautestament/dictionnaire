@@ -1,0 +1,1 @@
+lar[94969]=`<i>adv</i>., en un accord parfait, PLAT. <i>Leg. 967e</i>.<p><b>Étym</b>. συναρμόττω.`

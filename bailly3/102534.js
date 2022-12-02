@@ -1,0 +1,1 @@
+lar[102534]=`<b>ὑπερ·θέω :<br>      1</b> courir par-dessus <i>ou</i> au delà, franchir en courant, <i>acc</i>. ESCHL. <i>Eum. 562</i> ; LUC. <i>Am. 7 ; fig</i>. EUR. <i>fr. 232</i>.<br><b>      2</b> l’emporter, <i>abs</i>. EUR. <i>Andr. 195</i> ; sur, <i>acc</i>. PLAT. <i>Leg. 648d</i>.`

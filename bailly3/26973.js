@@ -1,0 +1,1 @@
+lar[26973]=`<b>δί·πνοος, οος, οον</b>, percé de deux trous pour laisser passer l’air, GAL. <i>Lex. Hipp. 19, 93</i>.<p><b>Étym</b>. δίς, πνοή.`

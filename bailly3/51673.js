@@ -1,0 +1,1 @@
+lar[51673]=`<b>ου (ὁ)</b> porc, <i>poisson de mer, qui fait entendre un grognement,</i> ALEX. (ATH. <i>107f</i>) ; ATH. <i>355f</i>.<p><b>Étym</b>. <i>dim. de</i> κάπρος.`

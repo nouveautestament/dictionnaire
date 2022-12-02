@@ -1,0 +1,1 @@
+lar[52764]=`<b>κατα·λούομαι</b> <font color="darkgreen">(<i>2 sg. att</i>. καταλόει, <i>ou, sel. d’autres,</i> καταλούει)</font> dépenser, gaspiller en frais de bains, <i>acc</i>. AR. <i>Nub. 828</i>.`

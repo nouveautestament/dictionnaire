@@ -1,0 +1,1 @@
+lar[63239]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> μάχομαι, PLAT. <i>Soph. 249 ; var. p</i>. μαχητέον.`

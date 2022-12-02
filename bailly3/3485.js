@@ -1,0 +1,1 @@
+lar[3485]=`<b>ας (ἡ)</b> insociabilité, PLAT. <i>Ep. 318e</i>.<p><b>Étym</b>. ἀ, κοινωνός.`

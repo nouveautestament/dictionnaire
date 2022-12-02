@@ -1,0 +1,1 @@
+lar[107690]=`<b>χαλκο·σάνδαλος, ος, ον</b> <font color="purple">[δᾰ]</font> aux sandales d’airain, PORPH. (EUS. <i>P.E. 113d</i>).<p><b>Étym</b>. χ. σάνδαλον.`

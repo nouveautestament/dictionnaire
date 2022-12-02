@@ -1,0 +1,1 @@
+lar[53350]=`<b>ή, όν :<br>      1</b> propre à produire, à faire, <i>gén</i>. ARSTT. <i>Virt. et vit. p. 224, 15 Sylb.</i><br><b>      2</b> propre à confirmer, à affirmer, à décider, <i>p. opp. à</i> λυτικός, ARSTT. <i>Rhet. 2, 26, 3</i>.<p><b>Étym</b>. κατασκευάζω.`

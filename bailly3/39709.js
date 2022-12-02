@@ -1,0 +1,1 @@
+lar[39709]=`<b>ας (ἡ)</b> action de fournir en outre, en sus, NT. <i>Eph. 4, 16</i> ; PHIL. <i>1, 19</i>.<p><b>Étym</b>. ἐπιχορηγέω.`

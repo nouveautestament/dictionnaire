@@ -1,0 +1,1 @@
+lar[6850]=`<i>adv</i>., négativement, DL. <i>9, 75</i>.`

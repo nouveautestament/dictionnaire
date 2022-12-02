@@ -1,0 +1,1 @@
+lar[48350]=`<b>α, ον</b> <font color="purple">[ῑῠ]</font> d’Ibykos, PLAT. <i>Parm. 137a</i>.<p><b>Étym</b>. Ἴβυκος.`

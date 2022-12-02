@@ -1,0 +1,1 @@
+lar[960]=`<b>ἀγροικό·σοφος, ου (ὁ)</b> philosophe rustique, PHIL. <i>1, 448</i>.<p><b>Étym</b>. ἀ. σοφός.`

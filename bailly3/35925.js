@@ -1,0 +1,1 @@
+lar[35925]=`<b>ἑξηκοντα·δύο</b>, <i>n. de n. indécl</i>. soixante-deux, THÉODOT. <i>Dan. 5, 31</i>.`

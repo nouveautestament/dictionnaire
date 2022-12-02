@@ -1,0 +1,1 @@
+lar[22705]=`<b>(ὁ)</b> le trésor de Gygès, <i>à Delphes,</i> HDT. <i>1, 14</i>.<p><b>Étym</b>. Γύγης.`

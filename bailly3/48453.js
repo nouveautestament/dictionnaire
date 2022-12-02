@@ -1,0 +1,1 @@
+lar[48453]=`<b>ατος (τὸ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> propriété particulière, caractère propre, ARSTT. <i>Plant. 1, 7, 8</i> ; POL. <i>2, 14, 3</i> ; ATH. <i>696e.</i><br><b>      2</b> <i>t. de rhét</i>. particularité de style, DH. <i>Pomp. p. 783</i>.<p><b>Étym</b>. ἰδιόω.`

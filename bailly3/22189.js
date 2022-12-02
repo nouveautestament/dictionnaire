@@ -1,0 +1,1 @@
+lar[22189]=`<b>ας (ἡ)</b> <font color="purple">[ῠῠ]</font> douce voix, doux langage, DS. <i>3, 69</i>.<p><b>Étym</b>. γλυκύφωνος.`

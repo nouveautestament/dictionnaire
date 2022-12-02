@@ -1,0 +1,1 @@
+lar[16641]=`<b>ίδος</b> <font color="purple">[ᾱῐδ]</font> <i>adj. f</i>. de l’Asôpos, <i>en Béotie</i> ; ἡ Ἀ. PD. <i>I. 7, 39</i> ; DS. <i>poét</i>. fille de l’Asôpos, <i>en parl. de villes (Thèbes, Égine,</i> PD. <i>I. 7, 39</i> ; STR. NONN. <i>etc. ; Corcyre,</i> A.RH. <i>4, 566).</i><p><b>Étym</b>. Ἀσωπός.`

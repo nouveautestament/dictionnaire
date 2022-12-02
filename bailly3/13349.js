@@ -1,0 +1,1 @@
+lar[13349]=`<b>ἀπο·σκυλεύω</b> <font color="purple">[ῡ]</font> dépouiller, THCR. <i>Idyl. 24, 5</i>.<p><b>Étym</b>. ἀ. σκῦλον.`

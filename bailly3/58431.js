@@ -1,0 +1,1 @@
+lar[58431]=`<b>ῶν (οἱ)</b> Kydantides, <i>dème att. de la tribu Ægéide,</i> DÉM. <i>52, 24 Baiter-Sauppe</i> ; ἐγ Κυδαντιδῶν, CIA. <i>2, add. 785, z, 5 (après 350 av. J.-C.)</i> dans le dème Kydantides, <i>v. Meisterh. p. 176, 19</i>.`

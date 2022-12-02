@@ -1,0 +1,1 @@
+lar[104193]=`<b>ατος (τὸ)</b> matière évacuée, excrément, HPC. <i>Aph. 1243, 1261</i> ; TH. <i>Char. 20, etc</i>.<p><b>Étym</b>. ὑποχωρέω.`

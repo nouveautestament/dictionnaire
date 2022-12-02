@@ -1,0 +1,1 @@
+lar[59084]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> sorte de sardine, HICÉS. (ATH. <i>284f</i>).`

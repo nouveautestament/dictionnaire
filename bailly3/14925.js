@@ -1,0 +1,1 @@
+lar[14925]=`<b>ατος (τὸ)</b> assemblage, ajustement, EUR. <i>Hel. 411</i>.<p><b>Étym</b>. ἁρμόζω.`

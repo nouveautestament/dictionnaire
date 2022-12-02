@@ -1,0 +1,1 @@
+lar[34576]=`<font color="purple">[ῡ]</font> <i>vb. de</i> ἐνθυμέομαι, EPICH. <i>fr. 137 Ahrens</i> ; DÉM. <i>40, 18</i>.`

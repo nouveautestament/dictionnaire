@@ -1,0 +1,1 @@
+lar[85331]=`<b>προσ·βαθύνω</b> <font color="purple">[ᾰῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> rendre encore plus profond, ORIB. <i>93 Cocch</i>.`

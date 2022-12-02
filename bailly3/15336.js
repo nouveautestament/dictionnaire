@@ -1,0 +1,1 @@
+lar[15336]=`<b>ἀρτι·δρεπής, ής, ές</b>, nouvellement cueilli, HLD. <i>2, 23</i>.<p><b>Étym</b>. ἄ. δρέπω.`

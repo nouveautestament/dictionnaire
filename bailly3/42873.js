@@ -1,0 +1,1 @@
+lar[42873]=`<i>adv</i>., avec sang-froid, THC. <i>1, 122</i>.`

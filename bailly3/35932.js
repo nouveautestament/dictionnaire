@@ -1,0 +1,1 @@
+lar[35932]=`<b>ἑξηκοντ·άκις</b>, <i>poét</i>. <b>-άκι</b> <font color="purple">[ᾰ]</font> <i>adv</i>., soixante fois, PD. <i>O. 13, 141</i>.<p><b>Étym</b>. ἑξ. -άκις.`

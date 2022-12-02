@@ -1,0 +1,1 @@
+lar[108360]=`faire entendre avec la flûte des sons nasillards comme le cri de l’oie, DIPH. (ATH. <i>657e</i>).<p><b>Étym</b>. χήν.`

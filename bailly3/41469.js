@@ -1,0 +1,1 @@
+lar[41469]=`<b>Ἐτυμο·κλῆς, έους (ὁ)</b> <font color="purple">[ῠ]</font> Étymoklès, <i>h</i>. XÉN. <i>Hell. 5, 4, 32 ; 6, 5, 33</i> ; PLUT. <i>Ages. 25</i>.<p><b>Étym</b>. ἔ. κλέος.`

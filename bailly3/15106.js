@@ -1,0 +1,1 @@
+lar[15106]=`<b>οῦ (τὸ)</b> <font color="purple">[ῐ]</font> arsenic, <i>substance métallique,</i> TH. <i>Lap. 40</i>.<p>➳ ἀρσενικόν, ARSTT. <i>Probl. 38, 2</i> ; STR. <i>726</i>.`

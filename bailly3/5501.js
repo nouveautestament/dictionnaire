@@ -1,0 +1,1 @@
+lar[5501]=`<i>adv</i>., sans se laisser dissuader, EPIC. (PLUT. <i>M. 1117f</i>).`

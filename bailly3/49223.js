@@ -1,0 +1,1 @@
+lar[49223]=`<b>Ἵππ·αλκμος, ου (ὁ)</b> Hippalkmos, <i>h</i>. PLUT. <i>Qu. gr. 37</i>.`

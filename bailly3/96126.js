@@ -1,0 +1,1 @@
+lar[96126]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite habitation commune à plusieurs familles, ARSTT. (STOB. <i>Fl. 118, 29).</i><p><b>Étym</b>. συνοικία.`

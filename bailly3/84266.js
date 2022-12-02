@@ -1,0 +1,1 @@
+lar[84266]=`<b>προ·ερωτάω-ῶ</b>, interroger auparavant, ARSTT. <i>Soph. el. 6</i> ; SEXT. <i>P. 2, 234</i>.`

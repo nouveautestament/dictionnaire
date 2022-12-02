@@ -1,0 +1,1 @@
+lar[28400]=`<b>δυσ·έξαπτος, ος, ον</b> <font color="purple">[ῠ]</font> qui se dégage difficilement (des liens du corps) PLUT. <i>Rom. 28</i>.<p><b>Étym</b>. δ. ἐξάπτω.`

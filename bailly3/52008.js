@@ -1,0 +1,1 @@
+lar[52008]=`<b>ου (ὁ)</b> <font color="purple">[χᾰ]</font> requin, <i>propr</i>. le poisson aux dents aiguës, PHILOX. <i>et</i> SOPHR. (ATH. <i>5d, 306d</i>) <i>etc</i>.<p><b>Étym</b>. κάρχαρος.`

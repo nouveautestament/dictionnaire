@@ -1,0 +1,1 @@
+lar[67775]=`<i>gén. épq</i>. <b>-αο (ὁ)</b> <font color="purple">[ᾰ]</font> le fils de Nauplios, <i>càd</i>. Prœtos, A.RH. <i>1, 136</i>.<p><b>Étym</b>. Ναύπλιος.`

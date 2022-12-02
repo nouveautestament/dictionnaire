@@ -1,0 +1,1 @@
+lar[7528]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱῑ]</font> coquillage de mer, IBYC. <i>34</i> ; EPICH. (ATH. <i>85d, 86a, b).</i><p><b>Étym</b>. <i>cf</i>. νηρίτης.`

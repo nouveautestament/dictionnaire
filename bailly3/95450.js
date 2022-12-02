@@ -1,0 +1,1 @@
+lar[95450]=`<b>ή, όν</b>, qui aime le monde, sociable, PLUT. <i>M. 757c</i>.<p><b>Étym</b>. συνελεύσομαι.`

@@ -1,0 +1,1 @@
+lar[35722]=`<b>ἐξ·ειλύω</b> (<i>seul. part. ao</i>. ἐξειλυσθείς) dérouler, THCR. <i>Idyl. 24, 17</i>.`

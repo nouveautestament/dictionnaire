@@ -1,0 +1,1 @@
+lar[108612]=`rendre jaunâtre <i>ou</i> d’un vert tendre, SOPH. <i>fr. 959</i>.<p><b>Étym</b>. χλωρός.`

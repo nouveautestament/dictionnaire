@@ -1,0 +1,1 @@
+lar[100921]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne la vie dans des trous : τὰ τρωγλοδυτικά, ARSTT. <i>H.A. 1, 1, 27,</i> les animaux qui vivent dans des trous.<p><b>Étym</b>. τρωγλοδύτης.`

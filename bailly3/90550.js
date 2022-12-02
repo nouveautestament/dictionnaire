@@ -1,0 +1,1 @@
+lar[90550]=`<b>σιτο·πομπία, ας (ἡ)</b> <font color="purple">[σῑ]</font><br><b>      1</b> transport <i>ou</i> convoi de blé <i>ou</i> de vivres, DÉM. <i>254, 22 ; 307, 16 ; 326, 11 ; 671, 12</i>.<br><b>      2</b> fourniture <i>ou</i> approvisionnements de blé, DS. <i>14, 55</i>.<p><b>Étym</b>. σῖτος, -πομπος <i>de</i> πέμπω.`

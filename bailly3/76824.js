@@ -1,0 +1,1 @@
+lar[76824]=`<b>παρ·ευτακτέω-ῶ</b>, faire régulièrement son service, POL. <i>3, 50, 7, etc</i>.<p><b>Étym</b>. π. εὐτακτέω.`

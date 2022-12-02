@@ -1,0 +1,1 @@
+lar[60334]=`<b>λεοντο·δέρης, ου (ὁ)</b> pierre précieuse de couleur fauve comme la peau d’un lion, ORPH. <i>Lith. 613</i>.<p><b>Étym</b>. λ. δέρος.`

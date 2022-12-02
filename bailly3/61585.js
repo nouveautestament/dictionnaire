@@ -1,0 +1,1 @@
+lar[61585]=`<b>ος, ον</b>, injurieux, outrageant, EUR. <i>Cycl. 534</i> ; ANTH. <i>5, 176</i> ; ὁ λ. PLUT. <i>M. 177d</i>, insulteur ; τὸ λοίδορον, ARSTT. <i>Physiogn. 4, 6</i> ; PLUT. <i>M. 810d</i>, insulte, outrage.<p><b>Étym</b>. <i>inconnue</i>.`

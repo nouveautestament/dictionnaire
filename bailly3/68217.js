@@ -1,0 +1,1 @@
+lar[68217]=`<b>νεο·πολῖτις, ιδος</b> <font color="purple">[ῑτῐδ]</font> <i>adj. f. de</i> νεοπολίτης APP. <i>Civ. 1, 76</i>.`

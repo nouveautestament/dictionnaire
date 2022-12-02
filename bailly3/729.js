@@ -1,0 +1,1 @@
+lar[729]=`<b>ἀ·γλαφύρως</b> <font color="purple">[ᾰφῠ]</font> <i>adv</i>., sans poli, grossièrement, ATH. <i>431d</i>.<p><b>Étym</b>. ἀ, γλαφυρός.`

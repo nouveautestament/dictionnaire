@@ -1,0 +1,1 @@
+lar[68321]=`<i>adv</i>., nouvellement, récemment, HPC. <i>598, 12</i>.<p><b>Étym</b>. νεοχμός.`

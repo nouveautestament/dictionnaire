@@ -1,0 +1,1 @@
+lar[3399]=`<b>ιδος (ἡ)</b> Akis (<i>auj</i>. Alcantara) <i>fl. de Sicile,</i> THCR. <i>Idyl. 1, 69</i>.`

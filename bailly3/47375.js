@@ -1,0 +1,1 @@
+lar[47375]=`<i>att</i>. <b>θῆττα, ης (ἡ) :<br>      1</b> <i>subst</i>. femme mercenaire : θ. γυνή, A.RH. <i>1, 193, m. sign.</i><br><b>      2</b> <i>adj. f</i>. de mercenaire, de thète, EUR. <i>Alc. 2,</i> EL. <i>204</i>.<p><b>Étym</b>. θής.`

@@ -1,0 +1,1 @@
+lar[78975]=`<b>εως (ἡ)</b> <font color="purple">[τῐ]</font> action de mouiller autour, AÉT. <i>4, p. 66, 43</i>.<p><b>Étym</b>. περινοτίζω.`

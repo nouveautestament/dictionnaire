@@ -1,0 +1,1 @@
+lar[104619]=`<b>ου (ὁ)</b> Phaennos, <i>h</i>. ANTH. <i>4, 1, etc</i>.<p><b>Étym</b>. <i>v</i>. φαεννός.`

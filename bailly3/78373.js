@@ -1,0 +1,1 @@
+lar[78373]=`<b>περι·αλλάσσω</b>, changer complètement, CHRYS.`

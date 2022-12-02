@@ -1,0 +1,1 @@
+lar[97999]=`<b>ης, ες :<br>      1</b> qui ressemble à la colique τεινεσμός, HPC. <i>Epid. 1, 974</i>.<br><b>      2</b> <i>en parl. de pers</i>. constipé, ARÉT. <i>Caus. m. acut. 2, 5</i>.<p><b>Étym</b>. τ. -ωδης.`

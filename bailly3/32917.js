@@ -1,0 +1,1 @@
+lar[32917]=`<b>ἑλλεβοριάω-ῶ</b>, avoir besoin d’ellébore, être fou, HPC. <i>1287, 17</i>.<p><b>Étym</b>. ἑλλέβορος.`

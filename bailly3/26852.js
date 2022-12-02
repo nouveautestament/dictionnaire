@@ -1,0 +1,1 @@
+lar[26852]=`<b>ή, όν</b>, propre à redresser, à corriger, ARSTT. <i>Nic. 5, 2, 12</i>.<p><b>Étym</b>. διορθόω.`

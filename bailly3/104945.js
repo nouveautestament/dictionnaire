@@ -1,0 +1,1 @@
+lar[104945]=`<b>ας (ἡ)</b> <font color="purple">[σᾱ]</font><br><b>      1</b> territoire de Pharsale, PLUT. <i>Cæs. 42</i>.<br><b>      2</b> Pharsalia, PLUT. <i>Pyth. or. 8, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Φαρσάλιος.`

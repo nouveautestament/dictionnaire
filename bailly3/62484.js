@@ -1,0 +1,1 @@
+lar[62484]=`<b>μακρ·ηγορία</b>, <i>dor</i>. <b>μακρ·αγορία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> long discours, PD. <i>P. 8, 31</i>.<p><b>Étym</b>. <i>v</i>. μακρηγορέω.`

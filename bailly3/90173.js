@@ -1,0 +1,1 @@
+lar[90173]=`<b>σιδηρο·τομέω-ῶ</b> <font color="purple">[ῐ]</font> couper avec du fer, ANTH. <i>9, 311</i>.<p><b>Étym</b>. σ. -τομος <i>de</i> τέμνω.`

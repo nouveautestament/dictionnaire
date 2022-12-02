@@ -1,0 +1,1 @@
+lar[90715]=`<b>ου (ὁ)</b> Skédasos, <i>Béotien,</i> PLUT. <i>Pel. 20, 21, etc</i>.`

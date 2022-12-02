@@ -1,0 +1,1 @@
+lar[30592]=`<i>adv</i>., pacifiquement, HDT. <i>3, 145</i>.`

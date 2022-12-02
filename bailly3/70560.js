@@ -1,0 +1,1 @@
+lar[70560]=`<b>οἰνο·ποσία, ας (ἡ)</b> action de boire du vin, HPC. <i>389, 44</i> ; ARSTT. <i>Probl. 3, 1</i> ; EL. <i>V.H. 2, 41</i>.<p><b>Étym</b>. οἶν. πότος.`

@@ -1,0 +1,1 @@
+lar[9545]=`<b>ή, όν</b>, de récrimination <i>ou</i> d’excuse, RHÉT. <i>4, 673 W</i>.<p><b>Étym</b>. ἀντέγκλημα.`

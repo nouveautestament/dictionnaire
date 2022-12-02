@@ -1,0 +1,1 @@
+lar[70385]=`<b>ῆς (ἡ)</b> bâtisse, construction, NT. <i>Eph. 2, 21, etc.</i> ; GEOP. <i>3, 1, 2 ; plur</i>. NT. <i>Matth. 24, 1 ; fig</i>. NT. <i>1Cor. 3, 9</i>.<p><b>Étym</b>. <i>v</i>. οἰκοδομέω.`

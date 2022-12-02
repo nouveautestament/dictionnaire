@@ -1,0 +1,1 @@
+lar[53861]=`<b>κατ·ελπίζω</b>, espérer fortement, DS. <i>15, 33 ; avec l’inf. fut</i>. HDT. <i>8, 136</i> ; POL. <i>2, 31, 8</i>.`

@@ -1,0 +1,1 @@
+lar[90848]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> bâton, <i>d’où</i> sceptre, IL. <i>13, 59 ; 24, 247</i> ; CALL. <i>fr. an. 48 Schn.</i> ; ANTH. <i>6, 83 ; 7, 731 ; 9, 233</i>.<p><b>Étym</b>. σκήπτω.`

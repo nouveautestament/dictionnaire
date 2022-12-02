@@ -1,0 +1,1 @@
+lar[106587]=`<i>adv</i>., de manière à voir tout en rouge, SEXT. <i>M. 7, 198</i>.<p><b>Étym</b>. φοινίσσω.`

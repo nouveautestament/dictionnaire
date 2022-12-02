@@ -1,0 +1,1 @@
+lar[93634]=`<b>σύγ·χρωτα</b> <i>ou</i> <b>συγ·χρῶτα</b> <font color="purple">[ᾰ]</font> <i>adv</i>., chair contre chair, ARTÉM. <i>1, 82</i>.<p><b>Étym</b>. σ. χρώς.`

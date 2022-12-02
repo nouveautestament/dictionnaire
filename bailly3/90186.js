@@ -1,0 +1,1 @@
+lar[90186]=`<b>σιδηρ·ωρυχεῖον, ου (τὸ)</b> <font color="purple">[ῐῠ]</font> mine de fer, PTOL. <i>2, 11, 26</i>.<p><b>Étym</b>. σ. ὀρύσσω.`

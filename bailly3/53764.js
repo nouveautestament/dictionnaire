@@ -1,0 +1,1 @@
+lar[53764]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> (<i>seul. plur.) c</i>. καταχύσματα, THÉM. <i>294</i>.<p><b>Étym</b>. <i>v</i>. κατάχυσμα.`

@@ -1,0 +1,1 @@
+lar[28189]=`<b>δυσ·άνεκτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à supporter, XÉN. <i>Mem. 2, 2, 8</i>.<p><b>Étym</b>. δ. ἀνέχω.`

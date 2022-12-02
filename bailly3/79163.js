@@ -1,0 +1,1 @@
+lar[79163]=`<b>περι·πόλιος, ος, ον</b>, situé autour d’une ville, STR. <i>325 ; subst</i>. τὸ περιπόλιον :<br><b>      1</b> banlieue, faubourg, SPT. <i>1Par. 6, 56</i>.<br><b>      2</b> fort voisin d’une ville <i>ou</i> qui défend une ville, THC. <i>3, 99 ; 6, 45 ; 7, 48, sel. d’autres,</i> résidence des περίπολοι.<p><b>Étym</b>. π. πόλις.`

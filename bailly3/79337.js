@@ -1,0 +1,1 @@
+lar[79337]=`<b>περισσο·σύλλαβος, ος, ον</b> <font color="purple">[ᾰ]</font> imparisyllabique, E. BYZ. <i>v°</i> Φλεγύα.<p><b>Étym</b>. περισσός, συλλαβή.`

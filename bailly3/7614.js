@@ -1,0 +1,1 @@
+lar[7614]=`<b>ἀνα·σκαλεύω</b> <font color="purple">[κᾰ]</font> déterrer en creusant, PLAT. COM. (POLL. <i>2, 83 conj</i>.).`

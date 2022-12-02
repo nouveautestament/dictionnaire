@@ -1,0 +1,1 @@
+lar[46401]=`<b>ου (ὁ)</b> Théæros, <i>fl. de Thrace,</i> ANTH. <i>7, 514 ; cf</i>. Τέαρος.`

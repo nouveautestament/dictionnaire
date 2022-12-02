@@ -1,0 +1,1 @@
+lar[94884]=`<b>συν·αποκρίνω</b> <font color="purple">[ῑ]</font> séparer en même temps, ARSTT. <i>H.A. 7, 1, 12</i> ; SOR. <i>Obst. p. 89 Dietz</i>.`

@@ -1,0 +1,1 @@
+lar[53581]=`<b>κατα·τρύζω</b>, fatiguer de son bavardage (<i>propr</i>. de son roucoulement) ANTH. <i>11, 321</i>.`

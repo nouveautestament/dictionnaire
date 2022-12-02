@@ -1,0 +1,1 @@
+lar[37779]=`<b>ἐπι·θαρρέω-ῶ :<br>      1</b> mettre sa confiance dans, <i>dat</i>. PLUT. <i>Brut. 37</i> ; SEXT. <i>274</i>.<br><b>      2</b> s’enhardir contre : ἐπ. τῷ πελάγει, EL. <i>N.A. 5, 56,</i> s’aventurer sur mer.`

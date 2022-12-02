@@ -1,0 +1,1 @@
+lar[949]=`<b>ἀγρο·δότης, ου (ὁ)</b> qui procure du gibier, ANTH. <i>6, 27</i>.<p><b>Étym</b>. ἄγρα, δίδωμι.`

@@ -1,0 +1,1 @@
+lar[1581]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> impuissance <i>ou</i> pauvreté (du style), DH. <i>Dem. 26</i>.`

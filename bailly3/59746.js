@@ -1,0 +1,1 @@
+lar[59746]=`<b>ων (τὰ)</b> fête des flambeaux, <i>à Pallène, en l’honneur de</i> Διονύσιος Λαμπτήρ, PAUS. <i>7, 27, 3</i>.`

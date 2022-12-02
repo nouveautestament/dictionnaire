@@ -1,0 +1,1 @@
+lar[22050]=`<font color="darkgreen">(<i>seul. part. prés</i>. γλαυκίζοντος)</font> être d’un gris bleu, STR. <i>222</i>.<p><b>Étym</b>. γλαυκός.`

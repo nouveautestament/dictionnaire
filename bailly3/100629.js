@@ -1,0 +1,1 @@
+lar[100629]=`<b>τρι·χόλωτος, ος, ον</b> <font color="purple">[ῐ]</font> trois fois irritant, tout à fait odieux, ANTH. <i>9, 168</i>.<p><b>Étym</b>. τρ. χολόω.`

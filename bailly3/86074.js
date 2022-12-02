@@ -1,0 +1,1 @@
+lar[86074]=`<b>εως (ἡ)</b> acquisition nouvelle, ARTÉM. <i>3, 61</i>.<p><b>Étym</b>. προσκτάομαι.`

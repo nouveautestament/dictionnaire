@@ -1,0 +1,1 @@
+lar[20372]=`<b>βου·θερής, ής, ές</b>, où paissent les bœufs durant l’été, <i>ou simpl</i>. où paissent les bœufs, qui nourrit les bœufs, SOPH. <i>Tr. 188</i>.<p><b>Étym</b>. βοῦς, θέρος.`

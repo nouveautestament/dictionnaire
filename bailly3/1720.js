@@ -1,0 +1,1 @@
+lar[1720]=`<b>ἀ·εκαζόμενος, η, ον</b>, ne voulant pas, qui agit malgré soi, IL. <i>6, 458</i> ; OD. <i>18, 135</i>.<p><b>Étym</b>. ἀ, ἑκών.`

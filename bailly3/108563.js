@@ -1,0 +1,1 @@
+lar[108563]=`<b>οῦ (ὁ)</b> le Khliaros, <i>anc. n. du Gange,</i> Ps.-PLUT. <i>Fluv. 4, 1</i>.`

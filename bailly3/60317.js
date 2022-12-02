@@ -1,0 +1,1 @@
+lar[60317]=`<b>ου (ὁ)</b> Léontiadès, <i>h</i>. HDT. <i>7, 205, 233</i> ; THC. <i>2, 2</i> ; XÉN. <i>Hell. 5, 2, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Λέων.`

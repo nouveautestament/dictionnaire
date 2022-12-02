@@ -1,0 +1,1 @@
+lar[89583]=`<b>ας (ἡ)</b> <font color="purple">[σᾰ]</font> clarté (d’un son, <i>etc</i>.) PLAT. <i>Leg. 812d ; p. suite,</i> évidence, certitude, ESCHL. <i>Sept. 67</i> ; PLAT. <i>Phædr. 277d ;</i> ISOCR. <i>Antid. § 189 ; p. opp. à</i> ἀσάφεια, PLAT. <i>Rsp. 478c, etc</i>.<p><b>Étym</b>. σαφηνής.`

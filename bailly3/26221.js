@@ -1,0 +1,1 @@
+lar[26221]=`<b>δι·εξέρπω</b> (<i>seul. prés</i>.) se glisser à travers, sortir <i>ou</i> glisser à travers, ARSTT. <i>Mund. 6, 16</i>.<p><b>Étym</b>. <i>part. prés</i>. -ων.`

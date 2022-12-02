@@ -1,0 +1,1 @@
+lar[71007]=`<b>ὀλιγο·δίαιτος, ος, ον</b> <font color="purple">[δῐ]</font> qui vit de peu, ATH. <i>548</i>.<p><b>Étym</b>. ὀλ. δίαιτα.`

@@ -1,0 +1,1 @@
+lar[32371]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de germer, croissance, germination, ARSTT. <i>P.A. 2, 14, 6</i> ; TH. <i>H.P. 8, 1, 5 ; fig</i>. ἔκφ. ἀρετῆς, PLAT. <i>Leg. 777e</i>, expansion <i>ou</i> développement de la vertu.<br><b>      2</b> germe, pousse, POL. <i>18, 1, 6</i> ; GEOP. <i>12, 19, 1</i>.<p><b>Étym</b>. ἐκφύω.`

@@ -1,0 +1,1 @@
+lar[1670]=`<i>adv</i>., toujours en mouvement, ARSTT. <i>Mund. 6, 37</i>.`

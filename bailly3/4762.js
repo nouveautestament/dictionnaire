@@ -1,0 +1,1 @@
+lar[4762]=`<b>ων (οἱ)</b> = <i>lat</i>. Allobroges, Allobroges, <i>pple gaulois (auj</i>. Dauphiné <i>et</i> Savoie) PLUT. <i>Cic. 18, etc</i>.`

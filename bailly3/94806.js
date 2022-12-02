@@ -1,0 +1,1 @@
+lar[94806]=`<b>συν·ανοίγνυμι</b> <font color="darkgreen">(<i>impf. pass. 3 sg</i>. συνανεῴγνυτο)</font> <font color="purple">[ᾰ]</font> ouvrir en même temps <i>ou</i> ensemble, THÉM. <i>235c</i>.`

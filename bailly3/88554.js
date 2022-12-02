@@ -1,0 +1,1 @@
+lar[88554]=`<b>ή, όν</b>, d’herborisation : τὸ ῥιζοτομικόν, AMÉR. (ATH. <i>681f</i>) traité d’herborisation.<p><b>Étym</b>. ῥιζοτόμος.`

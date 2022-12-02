@@ -1,0 +1,1 @@
+lar[40117]=`<i>adv</i>., à terre, <i>avec mouv</i>. IL. <i>12, 156</i> ; OD. <i>15, 527 ; 22, 85</i> ; HÉS. <i>O. 419, 471</i> ; ESCHL. <i>fr. 155 ; sans mouv</i>. MOSCH. <i>2, 66</i>.<p>➳ <i>Dor</i>. ἔρασδε, THCR. <i>Idyl. 7, 146</i>.<p><b>Étym</b>. *ἔρα, -δε.`

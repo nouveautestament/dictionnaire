@@ -1,0 +1,1 @@
+lar[99060]=`ον (ὁ) Tibios, <i>n. d’esclave,</i> LUC. <i>Tim. 22 ; Gall. 29, etc</i>.`

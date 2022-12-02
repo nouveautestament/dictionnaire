@@ -1,0 +1,1 @@
+lar[17567]=`<b>ου (τὸ)</b> ellébore blanc, HIPPIATR. <i>87, 11</i>.`

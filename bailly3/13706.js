@@ -1,0 +1,1 @@
+lar[13706]=`<b>ἀπο·φαιδρύνω</b>, éclaircir, <i>d’où</i> purifier, nettoyer, Q. SM. <i>5, 616</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ANTH. <i>9, 419</i>.`

@@ -1,0 +1,1 @@
+lar[78216]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en se fourvoyant, ISOCR. <i>197</i>.<br><b>      2</b> irrégulièrement, HPC. <i>Epid. 1, 941</i>.<p><b>Étym</b>. πλανάω.`

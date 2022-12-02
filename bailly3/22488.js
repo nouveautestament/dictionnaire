@@ -1,0 +1,1 @@
+lar[22488]=`<b>ου (τὸ)</b> <i>nom mystique donné à la lune,</i> CLÉM. <i>2, 80b Migne</i>.`

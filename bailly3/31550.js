@@ -1,0 +1,1 @@
+lar[31550]=`<b>ἐκ·λαξεύω</b>, tailler et polir, SPT. <i>Deut. 10, 3</i>.`

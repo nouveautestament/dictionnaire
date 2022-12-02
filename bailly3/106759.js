@@ -1,0 +1,1 @@
+lar[106759]=`<b>ης (ἡ)</b> vin sur, A. TR. <i>7, 295</i>.<p><b>Étym</b>. <i>lat</i>. pōsca.`

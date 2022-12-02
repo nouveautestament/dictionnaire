@@ -1,0 +1,1 @@
+lar[54490]=`<b>ου</b>, <i>adj. m</i>. de Kéos, AR. <i>Ran. 970</i>.<p><b>Étym</b>. Κέως.`

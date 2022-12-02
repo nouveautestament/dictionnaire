@@ -1,0 +1,1 @@
+lar[30398]=`<b>εἰκοστο·τέταρτος, η, ον</b>, vingt-quatrième, PLUT. <i>M. 935d ;</i> τὸ εἰκοστοτέταρτον, la 24<sup>e</sup> partie, NICOM. <i>Arithm. 80 Ast</i>.<p><b>Étym</b>. εἰ. τέταρτος.`

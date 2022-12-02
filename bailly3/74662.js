@@ -1,0 +1,1 @@
+lar[74662]=`<b>(ὁ)</b> = <i>lat</i>. Palma, <i>n. d’h. rom</i>. A. PL. <i>35</i>.`

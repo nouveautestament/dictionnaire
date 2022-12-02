@@ -1,0 +1,1 @@
+lar[91002]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> petit ver, mite, CRANTOR. (DL. <i>4, 27</i>).`

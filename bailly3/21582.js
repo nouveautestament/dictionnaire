@@ -1,0 +1,1 @@
+lar[21582]=`<b>ων (οἱ)</b> les Géléontes, <i>l’une des quatre tribus ioniennes primitives,</i> EUR. E. BYZ. ; <i>synon. de</i> γεωργοί, laboureurs, <i>sel</i>. PLUT. <i>Sol. 33</i>.`

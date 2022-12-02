@@ -1,0 +1,1 @@
+lar[57435]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> jeunesse, ANTH. <i>6, 281, etc</i>.<p>➳ <i>Dor</i>. κωροσύνα, THCR. <i>Idyl. 24, 57</i>.<p><b>Étym</b>. <i>fém. de</i> κουρόσυνος.`

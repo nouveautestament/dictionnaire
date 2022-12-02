@@ -1,0 +1,1 @@
+lar[87675]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πυλαιαστής, D. CHR.`

@@ -1,0 +1,1 @@
+lar[22029]=`<b>εσσα, εν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>c</i>. γλαγερός ANTH. <i>5, 56</i>.<br><b>      2</b> blanc comme du lait, OPP. <i>H. 4, 113</i>.<p><b>Étym</b>. γλάγος.`

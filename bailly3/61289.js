@@ -1,0 +1,1 @@
+lar[61289]=`<b>λιπαρό·θρονος, ος, ον</b> <font color="purple">[ῐᾰ]</font> au siège brillant, ESCHL. <i>Eum. 806</i>.<p><b>Étym</b>. λ. θρόνος.`

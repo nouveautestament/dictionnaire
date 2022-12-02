@@ -1,0 +1,1 @@
+lar[96418]=`<b>συν·υποζεύγνυμι</b>, atteler ensemble, IDOM. (ATH. <i>533d</i>).`

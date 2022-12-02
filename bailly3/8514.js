@@ -1,0 +1,1 @@
+lar[8514]=`<i>adv</i>., improprement, sans convenance, LYS. <i>187, 14</i>.<p>•<i> Cp</i>. -ότερον, PLAT. <i>Leg. 813b</i>.`

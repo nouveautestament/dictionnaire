@@ -1,0 +1,1 @@
+lar[15003]=`<b>οῦ</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. de laboureur, ANTH. <i>6, 41 ; 9, 23</i>.<p><b>Étym</b>. ἄροτρον.`

@@ -1,0 +1,1 @@
+lar[103607]=`<b>οῦ (ὁ)</b> falsificateur, corrupteur, PROCL. <i>Ptol. 3, 18, p. 230</i>.<p><b>Étym</b>. ὑπονοθεύω.`

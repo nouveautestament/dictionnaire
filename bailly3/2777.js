@@ -1,0 +1,1 @@
+lar[2777]=`<b>ατος (τὸ)</b> liquide pour bassiner, DC. <i>55, 17</i>.`

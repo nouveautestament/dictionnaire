@@ -1,0 +1,1 @@
+lar[43133]=`<b>εὔ·πρυμνος, ος, ον</b>, à la belle poupe, à la poupe solide, IL. <i>4, 248</i> ; EUR. <i>I.T. 1000, etc</i>.<p><b>Étym</b>. εὖ, πρύμνα.`

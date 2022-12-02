@@ -1,0 +1,1 @@
+lar[21266]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. γαληνός, LUC. <i>Halc. 2</i>.`

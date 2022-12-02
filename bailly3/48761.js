@@ -1,0 +1,1 @@
+lar[48761]=`<b>ἰθυ·τενής, ής, ές</b> <font color="purple">[ῑῠ]</font><br><b>      1</b> tendu droit, droit, ANTH. <i>6, 65 et 103</i> ; PTOL. <i>Geogr. p. 9, 23</i>.<br><b>      2</b> perpendiculaire, A. PL. <i>261</i>.<p><b>Étym</b>. ἰ. τείνω.`

@@ -1,0 +1,1 @@
+lar[98899]=`<b>ίδος (ἡ)</b> tante paternelle <i>ou</i> maternelle, DÉM. <i>818, 4 ; 1039, 4</i> ; MÉN. <i>4, 238 Meineke</i> ; PLUT. <i>M. 838b</i>.<p>➳ <i>Dans une inscr. att. avec double aspirat</i>. θηθίς, <i>v. Meisterh. p. 79, 1,a</i>.<p><b>Étym</b>. τήθη.`

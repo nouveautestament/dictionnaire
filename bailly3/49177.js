@@ -1,0 +1,1 @@
+lar[49177]=`<b>ίδος (ἡ) :<br>      1</b> Ioulis, <i>v. de Kéos,</i> PLUT. <i>Dem. 1</i>.<br><b>      2</b> <i>adj. f</i>. d’Ioulis, CALL. (ATH. <i>318c</i>).`

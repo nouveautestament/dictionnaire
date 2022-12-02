@@ -1,0 +1,1 @@
+lar[55695]=`manger des grives, faire bonne chère, AR. <i>Nub. 983</i> (<i>sel. d’autres, c</i>. κιχλίζω).<br><b><i>Moy.</i></b> <i>m. sign</i>. AR. <i>fr. 313 Dind</i>.<p><b>Étym</b>. κίχλη.`

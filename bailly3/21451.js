@@ -1,0 +1,1 @@
+lar[21451]=`<b>ή, όν</b>, de vaisseau marchand (cargaison), XÉN. <i>An. 5, 8, 1 (var</i>. γαυλιτικός).<p><b>Étym</b>. γαῦλος.`

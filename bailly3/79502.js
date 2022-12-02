@@ -1,0 +1,1 @@
+lar[79502]=`<b>ου (τὸ) :<br>      1</b> péritoine (<i>v</i>. περιτόναιος) HIPPIATR.<br><b>      2</b> bras <i>ou</i> manivelle d’une machine à presser, HLD. CHIR. <i>1, 468 Schneider, Eclogæ physicæ</i>.<p><b>Étym</b>. περίτονος.`

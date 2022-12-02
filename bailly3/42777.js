@@ -1,0 +1,1 @@
+lar[42777]=`<b>εὐ·νόθευτος, ος, ον</b>, qui s’altère facilement, CORN. <i>20</i>.<p><b>Étym</b>. εὖ, νοθεύω.`

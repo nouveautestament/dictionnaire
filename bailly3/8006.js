@@ -1,0 +1,1 @@
+lar[8006]=`<b>-α, -ᾳ, -αν (ὁ)</b> Andréas (Andrée) <i>h</i>. HDT. <i>6, 126, etc</i>.<p>➳ <i>Voc</i>. -έα, ANTH. <i>7, 673. Gén. ion. et épq</i>. -εω, HDT. <i>l. c.</i> ; ANTH. <i>7, 672</i>.<p><b>Étym</b>. ἀνήρ.`

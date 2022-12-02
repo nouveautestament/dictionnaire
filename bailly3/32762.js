@@ -1,0 +1,1 @@
+lar[32762]=`<b>ἐλεφαντο·μάχος, ος, ον</b> <font color="purple">[μᾰ]</font> qui combat contre des éléphants, STR. <i>775</i>.<p><b>Étym</b>. ἐ. μάχομαι.`

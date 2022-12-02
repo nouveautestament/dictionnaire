@@ -1,0 +1,1 @@
+lar[20566]=`<b>βού·φορτος, ος, ον</b>, qui porte de lourds fardeaux, ANTH. <i>6, 222</i>.<p><b>Étym</b>. βου-, φόρτος.`

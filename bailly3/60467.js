@@ -1,0 +1,1 @@
+lar[60467]=`<b>ης, ες</b> <font color="purple">[ῡ]</font><br><b>      1</b> formé de cosses, d’écales <i>ou</i> de tuniques superposées, TH. <i>H.P. 4, 6, 2 ; 7, 9, 4, etc.</i><br><b>      2</b> partie écailleuse d’un corps : τὰ λεπυριώδη, ARSTT. <i>H.A. 5, 15,</i> l’enveloppe d’écailles.<p><b>Étym</b>. λεπύριον, -ωδης.`

@@ -1,0 +1,1 @@
+lar[99098]=`<b>τιθασο·τρόφος, ος, ον</b> <font color="purple">[ῐᾱ]</font> qui élève des animaux domestiques (poules, <i>etc</i>.) OPP. <i>C. 1, 354</i>.<p><b>Étym</b>. τιθασός, τρέφω.`

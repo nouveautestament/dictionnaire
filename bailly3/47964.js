@@ -1,0 +1,1 @@
+lar[47964]=`<b>ου (τὸ)</b> offrande à Poséidon du premier thon capturé, CAR. (ATH. <i>297e</i>).<p><b>Étym</b>. θύννος.`

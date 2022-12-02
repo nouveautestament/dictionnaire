@@ -1,0 +1,1 @@
+lar[96508]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> petit roseau, PLUT. <i>M. 456a.</i><br><b>      2</b> petite fistule, HPC. <i>1201d.</i><br><b>      3</b> <i>c</i>. συριγγίδιον, PHIL. BYZ.<p><b>Étym</b>. <i>dim. de</i> σῦριγξ.`

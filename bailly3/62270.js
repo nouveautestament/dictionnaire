@@ -1,0 +1,1 @@
+lar[62270]=`<b>ωνος (ὁ)</b> Magon :<br><b>      1</b> <i>général carthaginois,</i> PLUT. <i>Tim. 17, 22</i>.<br><b>      2</b> <i>fils d’Hamilcar Barca, frère d’Annibal,</i> POL. <i>3, 71, etc</i>.`

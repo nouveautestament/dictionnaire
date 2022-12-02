@@ -1,0 +1,1 @@
+lar[6671]=`<b>ἀνα·δάκνω</b> <font color="darkgreen">(<i>f</i>. -δήξομαι, <i>ao</i>. ἀνεδήχθην, <i>pf. inus</i>.) :</font><br><b>      1</b> mordre tout autour, TH. <i>C.P. 3, 17, 4</i>.<br><b>      2</b> <i>p. ext</i>. mordre, <i>en gén. ; d’où, en parl. de remèdes,</i> irriter, HPC. <i>t. 8, p. 322 Littré</i> ; RUF. (ORIB. <i>2, 206 B.-Dar</i>.).`

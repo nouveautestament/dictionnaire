@@ -1,0 +1,1 @@
+lar[34860]=`faire entrer dans un port, dans une rade, faire mouiller dans, <i>dat</i>. STR. <i>245</i> ; SYN. <i>167a.</i><br><b><i>Moy.</i></b> entrer dans un port, mouiller dans, <i>dat</i>. STR. <i>5, 4, 6 Kram.</i> ; DH. <i>1, 56</i> ; PHIL. <i>1, 327, 670, etc.</i> ; DC. <i>50, 12, 7 ; fig</i>. THGN. <i>1274</i>.`

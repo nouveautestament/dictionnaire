@@ -1,0 +1,1 @@
+lar[109567]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de sable, ANTH. <i>9, 551</i>.<p><b>Étym</b>. ψάμμος.`

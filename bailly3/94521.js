@@ -1,0 +1,1 @@
+lar[94521]=`<b>Συν·ααρών, ῶνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> collègue d’Aaron dans le sacerdoce, ANTH. <i>8, 83</i>.<p><b>Étym</b>. σ. Ἀαρών, <i>n. hébreu</i>.`

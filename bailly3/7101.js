@@ -1,0 +1,1 @@
+lar[7101]=`<b>ἀν·άλιστος, ος, ον</b> <font color="purple">[ᾰλ]</font> non salé, TIMON (DL. <i>4, 67).</i><p><b>Étym</b>. ἀν-, ἀλίζω.`

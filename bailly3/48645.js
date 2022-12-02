@@ -1,0 +1,1 @@
+lar[48645]=`<b>ἱεροφαντέω-ῶ :<br>      1</b> être hiérophante, LUC. <i>Alex. 39</i>.<br><b>      2</b> expliquer comme hiérophante les mystères sacrés, HÉRACLITE GRAMM. <i>All. Hom. 64 ; au pass</i>. PHIL. <i>1, 194</i>.<p><b>Étym</b>. ἱεροφάντης.`

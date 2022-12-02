@@ -1,0 +1,1 @@
+lar[91411]=`recourber, rouler, NIC. <i>Th. 229</i>.<p><b>Étym</b>. σκώληξ.`

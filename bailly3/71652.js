@@ -1,0 +1,1 @@
+lar[71652]=`<b>ὁμο·ποιός, ός, όν</b>, qui donne un résultat semblable, JAMBL. <i>Nicom. ar. p. 137a</i>.<p><b>Étym</b>. ὁμ. ποιέω.`

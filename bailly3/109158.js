@@ -1,0 +1,1 @@
+lar[109158]=`<b>χρυσο·βέλεμνος, ος, ον</b> <font color="purple">[ῡ]</font> aux traits d’or, aux flèches d’or, <i>ép. d’Apollon, d’Érôs,</i> ANTH. <i>9, 623</i>.<p><b>Étym</b>. χρ. βέλεμνον.`

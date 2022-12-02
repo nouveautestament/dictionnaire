@@ -1,0 +1,1 @@
+lar[56947]=`<b>ου (ὁ)</b> sorte d’encens, DIOSC. <i>1, 81</i>.`

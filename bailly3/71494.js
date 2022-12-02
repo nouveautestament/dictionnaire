@@ -1,0 +1,1 @@
+lar[71494]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> communauté de joug, action de travailler en commun, DH. <i>Comp. 25</i>.<p><b>Étym</b>. ὁμόζυγος.`

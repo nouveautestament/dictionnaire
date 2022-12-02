@@ -1,0 +1,1 @@
+lar[19324]=`<b>(ὁ)</b> Bastas, <i>h</i>. EUP. LUC.`

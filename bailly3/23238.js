@@ -1,0 +1,1 @@
+lar[23238]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> petit tapis, HIPPARCH. COM. (ATH. <i>477f</i>).<p><b>Étym</b>. <i>dim. de</i> δάπις.`

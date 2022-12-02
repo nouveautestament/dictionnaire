@@ -1,0 +1,1 @@
+lar[3439]=`<b>ας (ἡ)</b> <font color="purple">[ῐσ]</font> propriété d’être indéclinable, DYSC. <i>(Bkk. 551, 552).</i><p><b>Étym</b>. ἄκλιτος.`

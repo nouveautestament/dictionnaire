@@ -1,0 +1,1 @@
+lar[152]=`<b>ος, ον :<br>      1</b> qui agit <i>ou</i> se fait involontairement, involontaire, PLAT. <i>Leg. 733d.</i><br><b>      2</b> qui se fait contre la volonté de qqn, désagréable, DH. <i>5, 74</i>.<p><b>Étym</b>. ἀβουλέω.`

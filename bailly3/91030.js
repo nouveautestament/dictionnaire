@@ -1,0 +1,1 @@
+lar[91030]=`<b>σκληρο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> à tête dure, TH. <i>Cur. morb. t. 2, p. 318</i>.<p><b>Étym</b>. σκλ. κεφαλή.`

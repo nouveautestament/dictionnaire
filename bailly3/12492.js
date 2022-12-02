@@ -1,0 +1,1 @@
+lar[12492]=`<b>ἀπο·καισαρόομαι-οῦμαι</b> <font color="purple">[σᾰ]</font> devenir un César, M. ANT. <i>6, 30</i>.<p><b>Étym</b>. ἀπό, Καῖσαρ.`

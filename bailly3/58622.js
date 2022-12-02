@@ -1,0 +1,1 @@
+lar[58622]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de se rouler, HIPPIATR. <i>p. 210, 8</i>.<br><b>      2</b> lieu où les animaux se vautrent (dans la fange), NT. <i>2Petr. 2, 22</i>.<p><b>Étym</b>. κυλίνδω.`

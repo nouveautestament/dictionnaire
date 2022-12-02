@@ -1,0 +1,1 @@
+lar[37782]=`<b>ἐπι·θαυμάζω :<br>      1</b> admirer, PLUT. <i>Marc. 30</i> ; ARR. <i>Epict. 1, 26, 12</i>.<br><b>      2</b> donner des honoraires à, <i>acc</i>. AR. <i>Nub. 1147</i>.`

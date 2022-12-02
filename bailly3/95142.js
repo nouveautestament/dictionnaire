@@ -1,0 +1,1 @@
+lar[95142]=`<b>συν·διαπράσσω</b>, <i>att</i>. <b>-άττω</b>, mener à terme, <i>càd.</i> :<br><b>      1</b> exercer (une charge, un pouvoir, <i>etc</i>.) avec, <i>dat</i>. LUC. <i>D. deor. 24, 1</i>.<br><b>      2</b> accomplir avec, ISOCR. <i>48</i>.<br><b><i>Moy.</i></b> négocier avec, XÉN. <i>An. 4, 8, 24</i>.`

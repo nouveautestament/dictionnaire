@@ -1,0 +1,1 @@
+lar[105530]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour de soi, égoïsme, ARSTT. <i>Nic. 9, 8</i> ; PLUT. <i>M. 48f ;</i> CIC. <i>Att. 13, 13</i>.<p><b>Étym</b>. φίλαυτος.`

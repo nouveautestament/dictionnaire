@@ -1,0 +1,1 @@
+lar[90623]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> sarcloir, hoyau, STR. <i>147,</i> JOS. <i>B.J. 2, 8, 9</i>.<p><b>Étym</b>. σκάλλω.`

@@ -1,0 +1,1 @@
+lar[60631]=`<b>Λευκ·όφρυς, υος (ἡ)</b> Leukophrys :<br><b>      1</b> <i>anc. n. de Ténédos,</i> LYC. <i>346</i>.<br><b>      2</b> <i>v. sur le Méandre, près de Magnésie, avec un temple à Artémis,</i> XÉN. <i>Hell. 3, 2, 19 ; 4, 8, 17, etc</i>.<p><b>Étym</b>. λευκόφρυς.`

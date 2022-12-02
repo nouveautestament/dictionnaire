@@ -1,0 +1,1 @@
+lar[76424]=`<b>παρ·αφρίζω</b>, jeter de l’écume auprès de, aux bords de, NIC. <i>Al. 223</i>.`

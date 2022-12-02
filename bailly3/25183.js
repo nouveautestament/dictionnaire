@@ -1,0 +1,1 @@
+lar[25183]=`<b>διά·ξυλον, ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> poutre de traverse, APD. POL. <i>34</i>.<br><b>      2</b> <i>autre n. de l’</i>ἀσπάλαθος, DIOSC. <i>1, 19</i>.`

@@ -1,0 +1,1 @@
+lar[71956]=`<b>ὀνο·κρόταλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> cormoran, <i>oiseau aquatique,</i> PLIN. <i>H.N. 10, 66</i>.<p><b>Étym</b>. ὄν. κρότος.`

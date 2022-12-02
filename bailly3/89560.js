@@ -1,0 +1,1 @@
+lar[89560]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font> des Samnites, PLUT. <i>Marc. 24</i>.<p><b>Étym</b>. Σαυνῖται.`

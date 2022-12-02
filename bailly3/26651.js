@@ -1,0 +1,1 @@
+lar[26651]=`<b>ου (ὁ)</b> <font color="purple">[ῐῑ]</font><br><b>      1</b> qui a double ration <i>ou</i> double solde, ARR. <i>An. 6, 9, 3 ; 7, 23, 3</i>.<br><b>      2</b> chef d’une demi-cohorte, LUC. <i>D. mer. 9, 5 ; J. tr. 48</i> ; EL. TACT. <i>5, 2</i>.<p><b>Étym</b>. διμοιρία.`

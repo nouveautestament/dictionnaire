@@ -1,0 +1,1 @@
+lar[82972]=`<b>ποταμ·ήρυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qu’on puise dans un fleuve, <i>fig</i>. P. SIL. <i>Ecphr. ag. Soph. 1013</i>.<p><b>Étym</b>. π. ἀρύω¹.`

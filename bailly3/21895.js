@@ -1,0 +1,1 @@
+lar[21895]=`<b>γεω·τόμος, ος, ον</b>, qui fend la terre, <i>d’où</i> qui cultive <i>ou</i> laboure, ANTH. <i>10, 101</i>.<p><b>Étym</b>. γῆ, τέμνω.`

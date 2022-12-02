@@ -1,0 +1,1 @@
+lar[88168]=`<b>οῦ (ὁ)</b> action de frapper avec une baguette, NAZ. <i>1, 461c Migne</i>.<p><b>Étym</b>. ῥαβδίζω.`

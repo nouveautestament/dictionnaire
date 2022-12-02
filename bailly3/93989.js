@@ -1,0 +1,1 @@
+lar[93989]=`<b>συμ·μήστωρ, ορος (ὁ)</b> conseiller, auxiliaire, A.RH. <i>1, 228</i>.`

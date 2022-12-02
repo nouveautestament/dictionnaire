@@ -1,0 +1,1 @@
+lar[17944]=`<b>ας (ἡ)</b> simplicité, naïveté, ANTIPH. (ATH. <i>446c</i>) ; <i>en parl. du genre de vie,</i> POL. <i>6, 48, 3 ; en parl. du style,</i> ATH. <i>693f</i>.<p>➳ <i>Ion</i>. ἀφελίη, HPC. <i>22, 43</i>.<p><b>Étym</b>. ἀφελής.`

@@ -1,0 +1,1 @@
+lar[28480]=`<b>δυσ·ήνεμος, ος, ον</b> <font color="purple">[ῠ]</font> où souffle un vent violent, DP. <i>759</i>.<p>➳ <i>Dor</i>. δυσάνεμος <font color="purple">[ᾱ]</font> SOPH. <i>Ant. 591</i>.<p><b>Étym</b>. δ. ἄνεμος.`

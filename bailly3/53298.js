@@ -1,0 +1,1 @@
+lar[53298]=`<b>κατ·αρχαιρεσιάζω</b>, supplanter par l’intrigue dans une élection, PLUT. <i>C. Gracch. 11</i> ; LGN <i>44</i>.`

@@ -1,0 +1,1 @@
+lar[17554]=`<b>αὐτό·κυκλος, ου (ὁ)</b> le cercle en soi, <i>càd</i>. le cercle conçu mathématiquement, le cercle idéal, THÉM. <i>165a</i>.`

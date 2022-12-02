@@ -1,0 +1,1 @@
+lar[55535]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> harpe à dix cordes, <i>d’un son triste,</i> SPT. <i>Sam. 1, 10, 5, etc. ; 1 Macc. 3, 46, etc.</i> ; JOS. <i>A.J. 7, 12, 13</i>.<p><b>Étym</b>. κινυρός.`

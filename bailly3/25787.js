@@ -1,0 +1,1 @@
+lar[25787]=`<b>δια·τρύγιος ὄρχος (ὁ)</b> <font color="purple">[ῠ]</font> espace ensemencé entre deux rangées de vigne, <i>ou</i> vigne dont les fruits mûrissent à époques différentes, OD. <i>24, 342</i>.<p><b>Étym</b>. διά, τρύγη.`

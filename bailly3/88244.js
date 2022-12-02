@@ -1,0 +1,1 @@
+lar[88244]=`<b>ῥακ·ενδύτης, ου</b> <font color="purple">[ᾰῠ]</font> <i>adj. m</i>. vêtu de haillons, RHÉT. <i>3, 465 W</i>.<p><b>Étym</b>. ῥάκος, ἐνδύω.`

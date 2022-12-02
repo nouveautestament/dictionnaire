@@ -1,0 +1,1 @@
+lar[45719]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> poisson qui a la couleur de foie, EUB. (ATH. <i>108a</i>) ; ARSTT. <i>H.A. 2, 17, 27 ; cf</i>. ATH. <i>300e</i>.<p><b>Étym</b>. ἧπαρ.`

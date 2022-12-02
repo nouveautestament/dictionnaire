@@ -1,0 +1,1 @@
+lar[56740]=`<b>ας (ἡ)</b> piscine, bain, PLAT. <i>Rsp. 453d ;</i> ALEX. (ATH. <i>18c</i>) ; DS. <i>11, 25, etc</i>.<p><b>Étym</b>. κολυμβάω.`

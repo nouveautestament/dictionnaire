@@ -1,0 +1,1 @@
+lar[23335]=`<b>ιδος (ὁ)</b> Datis, <i>général de Darius,</i> HDT. <i>6, 94, etc.</i> ; PLAT. <i>Menex. 240a, Leg. 698c ;</i> PLUT. <i>Arist. 5, etc. ; ironiq</i>. τὸ Δάτιδος μέλος, AR. <i>Pax 289,</i> le langage mélodieux de Datis (qui parlait le grec fort mal).<p>➳ <i>Ion. gén</i>. ιος, HDT. <i>7, 88 ; dat</i>. -ι, HDT. <i>7, 10</i>.`

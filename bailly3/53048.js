@@ -1,0 +1,1 @@
+lar[53048]=`<b>κατα·πετροκοπέω-ῶ</b>, briser sur les rochers, DS. <i>16, 60</i>.`

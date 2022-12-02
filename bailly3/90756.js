@@ -1,0 +1,1 @@
+lar[90756]=`<i>adv</i>., comme un bandage, HPC. <i>Fract. 770g</i>.<p><b>Étym</b>. σκέπαρνον, -δον.`

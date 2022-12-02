@@ -1,0 +1,1 @@
+lar[2271]=`<b>Αἰγί·παν, ανος (ὁ)</b> Pan aux pieds de chèvre, <i>surn. du dieu rom. Silvanus,</i> PLUT. <i>M. 313b</i>.<p><b>Étym</b>. αἴξ, Πάν.`

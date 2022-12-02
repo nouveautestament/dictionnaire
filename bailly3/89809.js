@@ -1,0 +1,1 @@
+lar[89809]=`<b>σεμνό·τροπος, ος, ον</b>, de manières graves, POÈT.<p><b>Étym</b>. <i>Cram. 4, 271</i>.`

@@ -1,0 +1,1 @@
+lar[95683]=`<b>συν·επιστένω</b> (<i>seul. prés</i>.) gémir ensemble, PLUT. <i>Galb. 23</i>.`

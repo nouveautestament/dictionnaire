@@ -1,0 +1,1 @@
+lar[105860]=`<b>φιλο·κρινέω-ῶ</b> <font color="purple">[ῐῐ]</font> aimer à approfondir, à juger à fond, à distinguer, ARSTD. <i>t. 1, 228</i> ; LIB. <i>4, 11</i>.`

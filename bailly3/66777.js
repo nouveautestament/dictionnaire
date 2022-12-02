@@ -1,0 +1,1 @@
+lar[66777]=`<b>ατος (τὸ)</b> forme, figure, extérieur, ESCHL. <i>Ag. 873</i> ; EPIC. (SEXT. <i>P. 2, 25 ; M. 7, 267) ; au pl</i>. ESCHL. <i>Ag. 1218, Eum. 412</i> ; EUR. <i>Hel. 19</i> ; AQU. <i>Gen. 31, 19</i>.<p><b>Étym</b>. μορφόω.`

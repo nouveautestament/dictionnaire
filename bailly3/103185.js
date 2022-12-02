@@ -1,0 +1,1 @@
+lar[103185]=`<b>ὑπο·δμώς, ῶος (ὁ)</b> serviteur subalterne <i>ou simpl</i>. serviteur, OD. <i>4, 386</i> ; MATR. (ATH. <i>135f</i>).<p><b>Étym</b>. ὑ. δμώς.`

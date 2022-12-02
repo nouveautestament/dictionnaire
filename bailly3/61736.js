@@ -1,0 +1,1 @@
+lar[61736]=`<b>ατος (τὸ) :<br>      1</b> fruit d’un accouchement, enfant, EUR. <i>Ion 921, etc.</i><br><b>      2</b> accouchement, enfantement, EUR. <i>El. 1124 ; fig</i>. le sein maternel, ESCHL. <i>Ag. 1392</i>.<p><b>Étym</b>. λοχεύω.`

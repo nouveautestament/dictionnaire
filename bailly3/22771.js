@@ -1,0 +1,1 @@
+lar[22771]=`<b>γυμνοποδέω-ῶ</b> (<i>seul. prés</i>.) aller pieds nus, SOCR. <i>Ep. 13</i> ; NAZ. <i>2, 649b Migne</i>.<p><b>Étym</b>. γυμνόπους.`

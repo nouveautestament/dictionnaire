@@ -1,0 +1,1 @@
+lar[25578]=`<b>ατος (τὸ) :<br>      1</b> déchirure, brèche, interruption, PLUT. <i>Æmil. 20</i>.<br><b>      2</b> moyen pour épiler <i>ou</i> drogue pour faire tomber les poils, DIOSC. <i>1, 6, p. 17</i> ; LUC. <i>2, 440 Reitz</i>.<p><b>Étym</b>. διασπάω.`

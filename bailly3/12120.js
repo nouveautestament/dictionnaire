@@ -1,0 +1,1 @@
+lar[12120]=`<b>ου (ὁ)</b> <font color="purple">[βᾰ]</font> écuyer faisant, dans les jeux publics, des exercices de voltige (<i>cf. lat</i>. desultor) PLUT. <i>Phoc. 20</i>.<p><b>Étym</b>. ἀποβαίνω.`

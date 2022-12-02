@@ -1,0 +1,1 @@
+lar[101381]=`<i>cp. irrég. d’un adj. inus</i>. *ὑγιός, <i>c</i>. ὑγιής, SOPHR. (EM. <i>774, 41</i>).`

@@ -1,0 +1,1 @@
+lar[47331]=`<b>θηρό·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> à forme (<i>propr</i>. à type) de bête sauvage, ORPH. <i>H. 23, 5, etc</i>.<p><b>Étym</b>. θ. τύπτω.`

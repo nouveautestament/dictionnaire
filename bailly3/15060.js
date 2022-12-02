@@ -1,0 +1,1 @@
+lar[15060]=`<b>οῦ (ὁ)</b> ravisseur, pillard, TAT. <i>Or. ad Græc. 10</i>.<p><b>Étym</b>. ἁρπάζω.`

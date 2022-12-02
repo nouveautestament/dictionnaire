@@ -1,0 +1,1 @@
+lar[9636]=`<b>ἀντ·έπειμι</b> <font color="darkgreen">(<i>impf</i>. -επῄειν)</font> marcher contre, <i>dat</i>. THC. <i>7, 6, etc</i>.`

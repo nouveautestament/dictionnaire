@@ -1,0 +1,1 @@
+lar[52659]=`<b>ή, όν</b>, fragile, ARSTT. <i>Meteor. 4, 9, 8, etc</i>.<p><b>Étym</b>. κατάγνυμι.`

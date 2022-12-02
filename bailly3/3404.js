@@ -1,0 +1,1 @@
+lar[3404]=`<i>ou</i> <b>ἀκιπήσιος, ου (ὁ)</b> esturgeon, ATH. <i>294f</i>.<p><b>Étym</b>. <i>cf. lat</i>. acipenser.`

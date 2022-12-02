@@ -1,0 +1,1 @@
+lar[98051]=`<b>ης, ες</b>, qui peut servir de preuve <i>ou</i> de fondement à une induction, ARSTT. <i>Rhet. 2, 25, 14</i>.<p><b>Étym</b>. τεκμήριον, -ωδης.`

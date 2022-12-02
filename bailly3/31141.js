@@ -1,0 +1,1 @@
+lar[31141]=`<b>ἐκ·γεννάω-ῶ</b> (<i>prés. inf</i>.) engendrer, EUP. (ATH. <i>373e</i>).`

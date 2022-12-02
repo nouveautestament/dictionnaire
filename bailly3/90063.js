@@ -1,0 +1,1 @@
+lar[90063]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. σιαλίς, CALL. (HSCH.).`

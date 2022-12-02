@@ -1,0 +1,1 @@
+lar[83189]=`<b>πραγματο·λογέω-ῶ</b> <font color="purple">[μᾰ]</font><br><b>      1</b> faire un récit détaillé, ARSTT. <i>Rhet. Al. 32, 2</i>.<br><b>      2</b> discuter, chicaner, DL. <i>9, 62</i>.<p><b>Étym</b>. πρ. λόγος.`

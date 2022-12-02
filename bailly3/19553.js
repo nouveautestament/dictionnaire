@@ -1,0 +1,1 @@
+lar[19553]=`<b>ου (τὸ)</b> vêtement grossier, ANACR. <i>19</i>.`

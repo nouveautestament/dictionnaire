@@ -1,0 +1,1 @@
+lar[68014]=`<b>νεκρ·ορύκτης, ου (ὁ)</b> qui déterre les morts, PHLÉG. TR. <i>Mir. 1</i>.<p><b>Étym</b>. ν. ὀρύσσω.`

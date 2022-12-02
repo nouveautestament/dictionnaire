@@ -1,0 +1,1 @@
+lar[27990]=`ARSTD. <i>t. 1, 293, ou</i> <b>Δρυμοῦσσα, ης (ἡ)</b> Drymousa <i>ou</i> Drymoussa, <i>î. près de Klazomène,</i> THC. <i>8, 31</i> ; POL. <i>22, 27, 5</i>.<p><b>Étym</b>. <i>fém. de</i> *δρυμόεις, couvert de chênes <i>ou</i> de bois, <i>de</i> δρυμός.`

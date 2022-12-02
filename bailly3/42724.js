@@ -1,0 +1,1 @@
+lar[42724]=`<b>εὔ·μουσος, ος, ον :<br>      1</b> habile dans la pratique des arts, des lettres, <i>etc. p. opp. à</i> ἄμουσος, AR. <i>Th. 112</i> ; LUC. <i>Am. 53</i>.<br><b>      2</b> harmonieux, EUR. <i>I.T. 145</i>.`

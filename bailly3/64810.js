@@ -1,0 +1,1 @@
+lar[64810]=`<b>ας (ἡ) :<br>      1</b> travail de mine, PLAT. <i>Criti. 114e ; au plur</i>. PLAT. <i>Leg. 842d ;</i> D. PHAL. (ATH. <i>233e</i>).<br><b>      2</b> opérations de mine dans un siège, DS. <i>16, 74</i>.<br><b>      3</b> mine, fosse, PLAT. <i>Leg. 761c</i>.<p><b>Étym</b>. μέταλλον.`

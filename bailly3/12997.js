@@ -1,0 +1,1 @@
+lar[12997]=`<b>εως (ἡ)</b> séjour à l’étranger, PLUT. <i>Pomp. 80, etc</i>.<p><b>Étym</b>. ἀποξενόω.`

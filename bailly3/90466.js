@@ -1,0 +1,1 @@
+lar[90466]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à une fourrure épaisse et grossière, SOPH. <i>fr. 362 Dind</i>.<p><b>Étym</b>. σίσυρνα, -ωδης.`

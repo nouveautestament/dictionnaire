@@ -1,0 +1,1 @@
+lar[4234]=`<b>η, ον</b>, d’Alexandrie, Alexandrin, STR. <i>599</i> ; NT. <i>Ap. 27, 6, etc</i>.<p><b>Étym</b>. Ἀλεξάνδρεια.`

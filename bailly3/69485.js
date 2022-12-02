@@ -1,0 +1,1 @@
+lar[69485]=`<b>ξενο·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> se troubler, s’effaroucher, PLUT. <i>Phil. 12, etc. ; M. 601c, 607e</i>.<p><b>Étym</b>. ξ. πάθος.`

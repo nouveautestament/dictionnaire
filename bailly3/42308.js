@@ -1,0 +1,1 @@
+lar[42308]=`<b>εὐθυτομέω-ῶ</b> <font color="purple">[ῠ]</font> couper en droite ligne, ORIB. <i>4 Mai</i>.<p><b>Étym</b>. εὐθύτομος.`

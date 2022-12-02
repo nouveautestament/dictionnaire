@@ -1,0 +1,1 @@
+lar[51941]=`<b>καρτερο·βρόντης, ου</b>, <i>adj. m</i>. au tonnerre retentissant, PD. <i>fr. 127, 2</i>.<p><b>Étym</b>. κ. βροντή.`

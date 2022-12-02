@@ -1,0 +1,1 @@
+lar[38278]=`<b>ἐπί·λευκος, ος, ον</b>, blanc à la surface, blanchâtre, TH. <i>H.P. 3, 7, 5</i>.`

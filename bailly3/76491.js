@@ -1,0 +1,1 @@
+lar[76491]=`<b>παρα·ψελλίζω</b>, bégayer <i>ou</i> balbutier légèrement, STR. <i>70</i>.`

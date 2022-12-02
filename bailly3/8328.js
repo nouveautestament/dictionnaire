@@ -1,0 +1,1 @@
+lar[8328]=`<b>ἀνεμο·φόρητος, ος, ον</b>, emporté par le vent, CIC. <i>Att. 13, 37</i> ; LUC. <i>Lex. 7</i>.<p><b>Étym</b>. ἄ. φορέω.`

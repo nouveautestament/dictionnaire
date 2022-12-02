@@ -1,0 +1,1 @@
+lar[2257]=`<b>ωπος</b> <font color="purple">[ῐ]</font><br><b>      1 (ὁ)</b> folle avoine, <i>plante,</i> TH. <i>C.P. 5, 15, 15</i>.<br><b>      2 (ἡ)</b> sorte de chêne à glands comestibles, égilops, TH. <i>H.P. 3, 8, 2</i>.<br><b>      3 (ὁ)</b> fistule lacrymale, maladie des yeux, DIOSC. <i>1, 155</i>.<p>➳ <i>Gén. poét</i>. -οπος, NIC. <i>Th. 857</i>.`

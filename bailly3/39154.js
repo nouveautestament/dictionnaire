@@ -1,0 +1,1 @@
+lar[39154]=`<b>ου (τὸ)</b> petite lettre, billet, PLUT. <i>Ages. 13</i> ; M. ANT. <i>1, 7, etc</i>.<p><b>Étym</b>. ἐπιστολή.`

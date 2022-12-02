@@ -1,0 +1,1 @@
+lar[48939]=`<b>ης, ες</b>, qui louche, <i>en parl. des yeux eux-mêmes,</i> HPC. <i>607, 44</i>.<p><b>Étym</b>. ἰλλός, -ωδης.`

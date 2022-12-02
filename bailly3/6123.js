@@ -1,0 +1,1 @@
+lar[6123]=`<b>ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. ἀμφίδρυπτος, IL. <i>2, 700</i> ; ORACL. (HDT. <i>6, 77</i>).`

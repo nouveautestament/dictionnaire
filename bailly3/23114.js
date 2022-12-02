@@ -1,0 +1,1 @@
+lar[23114]=`<b>(ἡ)</b> Damasalkida, <i>Indienne,</i> Ps.-PLUT. <i>Fluv. 25, 1</i>.`

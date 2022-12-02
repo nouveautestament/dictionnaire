@@ -1,0 +1,1 @@
+lar[45630]=`<b>Ἠμωδὰ ὄρη (τὰ)</b> DP. <i>1162, ou simpl</i>. τὰ Ἠμωδά, PLUT. <i>Alex. fort. 2, 2,</i> les mts Émôdes (<i>auj</i>. Belurtagh) <i>se rattachant au massif de l’Himalaya</i>.`

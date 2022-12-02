@@ -1,0 +1,1 @@
+lar[105790]=`<b>φιλό·θηλυς, υς, υ</b> <font color="purple">[ῐ]</font> qui aime les femelles, lascif, <i>en parl. d’oiseaux,</i> EL. <i>N.A. 2, 43</i>.<p><b>Étym</b>. φ. θῆλυς.`

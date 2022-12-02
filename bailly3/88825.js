@@ -1,0 +1,1 @@
+lar[88825]=`<b>εως (ἡ)</b> action d’avaler, d’engloutir, ARSTT. <i>Meteor. 4, 3, 14</i>.<p><b>Étym</b>. ῥοφέω.`

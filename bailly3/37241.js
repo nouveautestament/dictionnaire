@@ -1,0 +1,1 @@
+lar[37241]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> couvercle, SOPH. <i>fr. 877</i> ; POSIDIPP. (SUID. <i>v°</i> ἀπηλιώτης).<p><b>Étym</b>. <i>cf</i>. ἔφηλις.`

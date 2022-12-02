@@ -1,0 +1,1 @@
+lar[5752]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> petite robe de pourpre, PAUS. (EUST. <i>ad</i> DP. <i>p. 525).</i><p><b>Étym</b>. ἀμοργίς.`

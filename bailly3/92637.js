@@ -1,0 +1,1 @@
+lar[92637]=`teindre avec du noir d’antimoine, DÉMOCR. (<i>Fabricii bibliotheca græca 5, 337</i>).<br><b><i>Moy.</i></b> se teindre les sourcils avec du noir d’antimoine, GAL. <i>6, 439</i> ; SPT. <i>4Reg. 9, 30 ; Ezech. 23, 40</i>.<p><b>Étym</b>. στίμμις.`

@@ -1,0 +1,1 @@
+lar[77204]=`<b>παρ·ωνυμιάζω</b> <font color="purple">[ῠ]</font> donner un nom tiré d’un autre de même forme, ARSTT. <i>Phys. 7, 3, 2, etc</i>.<p><b>Étym</b>. παρώνυμος.`

@@ -1,0 +1,1 @@
+lar[68040]=`<b>νεκταρο·σταγής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> dont les gouttes sont du nectar, AR. <i>fr. 563</i> ; EUB. (ATH. <i>28f</i>).<p><b>Étym</b>. νέκταρ, στάζω.`

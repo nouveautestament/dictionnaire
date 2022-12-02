@@ -1,0 +1,1 @@
+lar[10897]=`<b>ἀξι·έραστος, ος, ον</b>, digne d’être aimé avec passion, XÉN. <i>Cyr. 5, 2, 9</i> ; PLUT. <i>Thes. c. Rom. 2</i> ; LUC. <i>D. mort. 9, 2, etc</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Conv. 8, 14</i>.<p><b>Étym</b>. ἄ. ἐράω.`

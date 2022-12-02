@@ -1,0 +1,1 @@
+lar[16404]=`<b>ἄ·στυφος, ος, ον</b> <font color="purple">[ῡ]</font> non astringent, A. TR. <i>2, 1</i>.<p><b>Étym</b>. ἀ, στύφω.`

@@ -1,0 +1,1 @@
+lar[27043]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en deux endroits, ARSTT. <i>An. 1, 3, 14</i>.<p><b>Étym</b>. δισσός, -αχῆ.`

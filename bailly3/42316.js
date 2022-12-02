@@ -1,0 +1,1 @@
+lar[42316]=`<b>εὐθύ·τριχος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. εὐθύθριξ, ARSTT. <i>H.A. 9, 44, 7</i> ; POLÉM. <i>Physiogn. 2, 3</i>.`

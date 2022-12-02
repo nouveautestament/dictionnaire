@@ -1,0 +1,1 @@
+lar[42327]=`<b>εὐθυ·ῶνυξ, υχος (ὁ, ἡ)</b> <i>ou</i> <b>εὐθυ·ώνυχος, ος, ον</b> <font color="purple">[ῠχ]</font> qui a les ongles droits, ARSTT. <i>H.A. 3, 9, 6, etc</i>.<p><b>Étym</b>. εὐ. ὄνυξ.`

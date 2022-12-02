@@ -1,0 +1,1 @@
+lar[93841]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. συμβίβασις JAMBL. <i>V. Pyth. 69</i>.`

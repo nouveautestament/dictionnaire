@@ -1,0 +1,1 @@
+lar[12430]=`<b>ατος (τὸ)</b> touffe de racines coupées, ORPH. <i>Arg. 1003</i>.<p><b>Étym</b>. ἀποθρίζω.`

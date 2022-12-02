@@ -1,0 +1,1 @@
+lar[77966]=`<b>ή, όν</b>, qui revient tous les cinq ans, quinquennal, PLUT. <i>M. 748f</i>.<p><b>Étym</b>. πενταέτηρος.`

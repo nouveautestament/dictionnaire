@@ -1,0 +1,1 @@
+lar[101082]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>   I</b> objet modelé :<br><b>      1</b> vase, urne, SOPH. <i>El. 54</i>.<br><b>      2</b> contour, figure, traits, EUR. <i>Ph. 162</i>.<br><b>   II</b> impression sur les sens, PLUT. <i>M. 1121c</i>.<p><b>Étym</b>. τυπόω.`

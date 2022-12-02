@@ -1,0 +1,1 @@
+lar[22130]=`<b>ων (τὰ)</b> <i>litt</i>. fesses, nom de deux saillies de la moelle cérébrale, près de la glande pinéale, GAL. <i>4, 502</i>.<p><b>Étym</b>. γλουτός.`

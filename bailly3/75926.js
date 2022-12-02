@@ -1,0 +1,1 @@
+lar[75926]=`<b>παρα·μηκύνω</b>, traîner en longueur, temporiser, ANON. (ATH. <i>502d</i>).`

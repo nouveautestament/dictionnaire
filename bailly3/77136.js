@@ -1,0 +1,1 @@
+lar[77136]=`<b>ατος (τὸ)</b> ce qu’on mange avec <i>ou</i> sur son pain, ATH. <i>367c ;</i> PHILSTR. <i>662</i>.<p><b>Étym</b>. παροψάομαι.`

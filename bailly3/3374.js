@@ -1,0 +1,1 @@
+lar[3374]=`<b>ης, ες</b> <font color="purple">[ᾰῐ]</font> pointu, TH. <i>H.P. 4, 12, 2</i>.<p><b>Étym</b>. ἀκίς, -ωδης.`

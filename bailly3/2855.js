@@ -1,0 +1,1 @@
+lar[2855]=`<b>ωνος (ὁ)</b> Æsiôn, <i>h</i>. DÉM. <i>21, 165, etc. Baiter-Sauppe</i> ; ARSTT. <i>Rhet. 3, 10</i>.`

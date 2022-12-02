@@ -1,0 +1,1 @@
+lar[69255]=`<b>ου</b>, <i>adj. m. mot syracusain,</i> boiteux, NONN. <i>D. 9, 22</i>.`

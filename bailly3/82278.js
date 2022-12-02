@@ -1,0 +1,1 @@
+lar[82278]=`<b>πολύ·ποινος, ος, ον</b> <font color="purple">[ῠ]</font> qui châtie fortement, PARMÉN. (SEXT. <i>M. 7, 11).</i><p><b>Étym</b>. π. ποινή.`

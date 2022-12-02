@@ -1,0 +1,1 @@
+lar[43506]=`<b>εὐ·συλλόγιστος, ος, ον :<br>      1</b> qui se prête au raisonnement, ARSTT. <i>Rhet. 1, 1, 12</i>.<br><b>      2</b> qu’on peut aisément conclure <i>ou</i> conjecturer, POL. <i>12, 18, 8</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. εὖ, συλλογίζομαι.`

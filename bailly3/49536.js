@@ -1,0 +1,1 @@
+lar[49536]=`<b>ἰσ·άριθμος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font>, égal en nombre à, <i>dat</i>. PLAT. <i>Tim. 41d, etc.</i> ; ARSTT. <i>Nic. 8, 3, 1</i> ; CALL. <i>Del. 175</i>.<p>➳ <i>Ion</i>. ἰσήριθμος, ANTH. <i>6, 84, 328</i> ; LYC. <i>1258</i>.<p><b>Étym</b>. ἴ. ἀριθμός.`

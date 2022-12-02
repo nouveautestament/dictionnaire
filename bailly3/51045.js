@@ -1,0 +1,1 @@
+lar[51045]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kalèsios, <i>h</i>. IL. <i>6, 18</i>.`

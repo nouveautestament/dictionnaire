@@ -1,0 +1,1 @@
+lar[57288]=`<b>κοσμο·ποιός, ός, όν</b>, qui crée le monde, PARMÉNID. (PLUT. <i>M. 884d</i>).<p><b>Étym</b>. κόσμος, ποιέω.`

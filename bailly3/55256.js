@@ -1,0 +1,1 @@
+lar[55256]=`<b>κηρεσσι·φόρητος, ος, ον</b> <font color="purple">[ῐ]</font> apporté par les génies de la mort, IL. <i>8, 527</i>.<p><b>Étym</b>. κήρ, φορέω.`

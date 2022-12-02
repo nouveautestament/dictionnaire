@@ -1,0 +1,1 @@
+lar[72682]=`<b>      1</b> pousser des cris aigus, ESCHL. <i>Pers. 687</i>.<br><b>      2</b> dresser, lever, <i>acc</i>. A. PL. <i>261, 2</i>.<p><b>Étym</b>. ὄρθιος.`

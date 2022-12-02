@@ -1,0 +1,1 @@
+lar[66061]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font><br><b>      1</b> haine des méchants <i>ou</i> du mal, ARSTT. <i>Virt. et vit. 5, 3</i>.<br><b>      2</b> haine de qqn pour sa méchanceté, DS. <i>16, 23</i>.<p><b>Étym</b>. μισοπόνηρος.`

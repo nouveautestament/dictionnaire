@@ -1,0 +1,1 @@
+lar[12627]=`<b>ἀπο·κολπόομαι-οῦμαι</b>, s’enfoncer en forme de golfe, ARSTT. <i>Mund. 3, 9</i>.`

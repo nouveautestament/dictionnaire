@@ -1,0 +1,1 @@
+lar[19266]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐ]</font> reine, princesse, SOPH. <i>fr. 292 ; cf</i>. E. BYZ. <i>v°</i> Ἀγάμεια.`

@@ -1,0 +1,1 @@
+lar[85333]=`<b>προσ·βακχεύω :<br>      1 <i>tr.</i></b> exciter un transport bachique : τὸν οἶστρόν τινι, PHILSTR. <i>790,</i> aiguillonner qqn d’un transport bachique.<br><b>      2 <i>intr.</i></b> éprouver un transport bachique, PHILSTR. <i>667</i>.`

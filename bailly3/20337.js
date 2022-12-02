@@ -1,0 +1,1 @@
+lar[20337]=`<b>ου (ὁ)</b> buffle, ARSTT. <i>P.A. 3, 2</i> ; POL. <i>12, 3, 5</i> ; DS. <i>2, 51 ; etc</i>.`

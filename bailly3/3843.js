@@ -1,0 +1,1 @@
+lar[3843]=`<b>ἀκρο·στήθιον, ου (τὸ)</b> le haut de la poitrine, ARSTT. <i>Physiogn. 6, 10</i>.<p><b>Étym</b>. ἄ. στῆθος.`

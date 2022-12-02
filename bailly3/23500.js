@@ -1,0 +1,1 @@
+lar[23500]=`<b>δειελιάω-ῶ</b> (<i>seul. part. ao</i>. -ιήσας) attendre <i>ou</i> guetter jusqu’au soir (<i>sel. d’autres,</i> prendre le repas du soir), OD. <i>17, 599</i>.<p><b>Étym</b>. δείελος.`

@@ -1,0 +1,1 @@
+lar[72151]=`<b>ὀξύ·πτερος, ος, ον</b>, aux ailes rapides, au vol rapide, SPT. <i>Deut. 14, 13</i>.<p><b>Étym</b>. ὀ. πτερόν.`

@@ -1,0 +1,1 @@
+lar[40445]=`<b>ου (ὁ)</b> = <i>lat</i>. Ericius, <i>n. d’h. rom</i>. PLUT. <i>Syll. 16 et 18</i>.`

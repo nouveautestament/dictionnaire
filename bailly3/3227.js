@@ -1,0 +1,1 @@
+lar[3227]=`<b>ἀ·κατάτακτος, ος, ον</b>, non mis en ordre, non ordonné, indéfini, PROCL. <i>Plat. Parm. 560 Stallb</i>.<p><b>Étym</b>. ἀ, κατατάσσω.`

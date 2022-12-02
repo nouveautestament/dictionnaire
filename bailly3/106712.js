@@ -1,0 +1,1 @@
+lar[106712]=`<b>ου (ἡ)</b> sorte de figuier, ANDROT. (ATH. <i>75d</i>).`

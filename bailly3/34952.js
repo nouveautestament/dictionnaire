@@ -1,0 +1,1 @@
+lar[34952]=`<b>ἔν·σπονδος, ος, ον :<br>      1</b> compris dans une trêve <i>ou</i> un traité, THC. <i>3, 10, d’où</i> allié : τινος, THC. <i>1, 31</i> ; τινι, THC. <i>1, 40 ; 3, 65, etc.</i> ; EUR. <i>Bacch. 924,</i> de qqn.<br><b>      2</b> <i>p. suite,</i> bien disposé pour, <i>avec</i> πρός <i>et l’acc</i>. EL. <i>N.A. 8, 25, etc</i>.<p><b>Étym</b>. ἐν, σπονδή.`

@@ -1,0 +1,1 @@
+lar[7906]=`<b>εως (ἡ) :<br>      1</b> exclamation, PLUT. <i>Brut. 24</i>.<br><b>      2</b> déclamation, PLUT. <i>M. 1071c</i>.`

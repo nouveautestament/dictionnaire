@@ -1,0 +1,1 @@
+lar[31062]=`<b>ἑκατοστο·λόγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> percepteur du centième, BAS. <i>1, 165c</i>.<p><b>Étym</b>. ἑ. λέγω.`

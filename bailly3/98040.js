@@ -1,0 +1,1 @@
+lar[98040]=`<b>ου (τὸ)</b> petite fortification, XÉN. <i>Hell. 2, 1, 28</i>.<p><b>Étym</b>. <i>dim. de</i> τεῖχος.`

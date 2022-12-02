@@ -1,0 +1,1 @@
+lar[44084]=`<b>ἐφ·ίμερος, ος, ον</b> <font color="purple">[ῑ]</font> désirable, souhaitable, HÉS. <i>Sc. 15, Th. 132</i> ; ESCHL. <i>Ch. 840</i> ; SOPH. <i>O.R. 1375</i> ; THCR. <i>Idyl. 1, 61 ; 8, 82</i>.<p><b>Étym</b>. ἐπί, ἵ.`

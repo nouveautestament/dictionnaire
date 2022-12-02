@@ -1,0 +1,1 @@
+lar[63873]=`<b>ου (τὸ)</b> temple d’Athèna <i>en Lycie,</i> Q. SM. <i>3, 233</i>.<p><b>Étym</b>. μελάνιππος.`

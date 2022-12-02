@@ -1,0 +1,1 @@
+lar[65349]=`<b>ου (τὸ) :<br>      1</b> suc de pavot, opium, HPC. <i>407, 39</i> ; TH. <i>H.P. 9, 8, 2</i>.<br><b>      2</b> méconium, <i>excrément des enfants nouveau-nés,</i> HPC. <i>409, 25</i> ; ARSTT. <i>H.A. 7, 10</i>.<p><b>Étym</b>. μήκων.`

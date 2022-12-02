@@ -1,0 +1,1 @@
+lar[33627]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui produit de la suppuration, HPC. <i>387, 26</i>.<p><b>Étym</b>. ἐμπυέω.`

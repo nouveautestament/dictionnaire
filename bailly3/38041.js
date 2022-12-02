@@ -1,0 +1,1 @@
+lar[38041]=`<b>ἐπι·κλαίω</b> <font color="darkgreen">(<i>ao</i>. ἐπέκλαυσα) :</font><br><b>      1</b> pleurer sur, <i>dat</i>. NONN. <i>D. 30, 114</i>.<br><b>      2</b> pleurer en réponse <i>ou</i> encore plus, AR. <i>Th. 1063</i>.<p>➳ <i>Att</i>. ἐπικλάω, <i>d’où inf</i>. ἐπικλάειν, AR. <i>Th. 1063</i>.`

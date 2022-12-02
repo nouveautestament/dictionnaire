@@ -1,0 +1,1 @@
+lar[44733]=`<b>ου (τὸ)</b> petite ceinture de femme, AR. <i>Lys. 72</i> ; ARSTT. <i>Mir. 32</i> ; ANTH. <i>5, 158</i> ; PLUT. <i>M. 154b</i>.<p><b>Étym</b>. ζώνη.`

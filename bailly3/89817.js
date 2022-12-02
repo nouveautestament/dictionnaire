@@ -1,0 +1,1 @@
+lar[89817]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Sĕnĕcio, <i>n. d’h. rom</i>. PLUT. <i>Thes. 1, Dio. 1</i>.`

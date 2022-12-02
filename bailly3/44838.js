@@ -1,0 +1,1 @@
+lar[44838]=`<b>ζῳ·ωνυμία, ας (ἡ)</b> <font color="purple">[ῠ]</font> nom tiré d’un animal, <i>en parl. du Zodiaque</i>, EUST. <i>Il. 4, 227, 6 Van der Valk</i>.<p><b>Étym</b>. ζῷον, ὄνομα.`

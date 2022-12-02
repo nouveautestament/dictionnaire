@@ -1,0 +1,1 @@
+lar[87456]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui s’abat sur ; <i>subst. au pl</i>. oiseaux de proie <i>ou</i> Harpyies, SOPH. <i>Ph. 1902</i> ; qui se blottit de peur, peureuse, HOM. <i>Epigr. 8, 2</i>.<p><b>Étym</b>. πτώσσω.`

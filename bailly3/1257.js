@@ -1,0 +1,1 @@
+lar[1257]=`<b>ἄ·δεσμος, ος, ον</b>, sans lien : ἄ. φυλακή, THC. <i>3, 34,</i> captivité (sous bonne garde, mais) sans fers ni prison ; ἄδ. δεσμός, EUR. <i>Suppl. 32,</i> lien qui n’en est pas un ; ἄδ. βαλλάντια, PLUT. <i>M. 503d</i>, bourse ouverte.<p><b>Étym</b>. ἀ, δεσμός.`

@@ -1,0 +1,1 @@
+lar[98594]=`<b>τετρα·κότυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> de quatre cotyles (un peu plus de cinq litres) THÉOPHILE COM. (ATH. <i>472d</i>) ; ALEX. (ATH. <i>484c</i>).<p><b>Étym</b>. τ. κοτύλη.`

@@ -1,0 +1,1 @@
+lar[63369]=`<b>μεγαλό·καυλος, ος, ον</b> <font color="purple">[ᾰ]</font> à grosse tige, TH. <i>H.P. 7, 6, 3</i>.<p><b>Étym</b>. μ. καυλός.`

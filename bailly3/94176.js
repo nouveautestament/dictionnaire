@@ -1,0 +1,1 @@
+lar[94176]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui aide à conduire tout autour <i>ou</i> à conduire de côté et d’autre, PLAT. <i>Rsp. 533d</i>.<p><b>Étym</b>. συμπεριάγω.`

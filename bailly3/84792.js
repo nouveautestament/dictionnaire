@@ -1,0 +1,1 @@
+lar[84792]=`<b>πρό·νομος, ος, ον</b>, qui paît en allant devant soi <i>ou</i> en allant çà et là, ESCHL. <i>Suppl. 691</i>.<p><b>Étym</b>. π. νέμω.`

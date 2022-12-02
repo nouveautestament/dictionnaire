@@ -1,0 +1,1 @@
+lar[99024]=`<b>ους</b>, <i>ion</i>. <b>εω (ὁ)</b> Tèrès, <i>roi des Odryses,</i> HDT. <i>4, 80 ; 7, 137</i> ; THC. <i>2, 29, etc.</i> ; XÉN. <i>An. 7, 2, 22, etc</i>.`

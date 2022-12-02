@@ -1,0 +1,1 @@
+lar[84640]=`<b>προ·λάμπω</b>, montrer sa lumière, briller avec éclat, SYN. <i>Hymn. 2, 2, etc</i>.`

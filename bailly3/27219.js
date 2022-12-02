@@ -1,0 +1,1 @@
+lar[27219]=`<b>α, ον</b> <font color="purple">[δῐ]</font> divisé en deux parties égales, <i>d’où</i> qui paraît par moitié (la lune) P. ALEX. <i>Apot. 16, p. 35, l. 13 Boer</i>.<p><b>Étym</b>. διχοτομία.`

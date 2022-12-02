@@ -1,0 +1,1 @@
+lar[94638]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> onguent, SOR. <i>Obst. 50, 17 Dietz, 274 Dietz</i>.`

@@ -1,0 +1,1 @@
+lar[5461]=`<b>α, ον</b>, d’un instant, <i>litt</i>. si court qu’on ne le peut diviser, CHRYSIPP. (PLUT. <i>M. 1046d</i>).<p><b>Étym</b>. ἀμερής.`

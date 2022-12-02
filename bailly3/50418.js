@@ -1,0 +1,1 @@
+lar[50418]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de s’asseoir, de se fixer, NYSS. <i>3, 365</i>.`

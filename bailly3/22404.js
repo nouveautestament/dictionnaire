@@ -1,0 +1,1 @@
+lar[22404]=`<b>ας (ἡ)</b> Gomorrhe, <i>v. de Judée,</i> NT. <i>Rom. 9, 29 ; 2Petr. 2, 6</i>.`

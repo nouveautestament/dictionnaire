@@ -1,0 +1,1 @@
+lar[44917]=`<b>Ἡγησι·άναξ, ακτος (ὁ)</b> <font color="purple">[ᾰν]</font> Hègèsianax, <i>h</i>. PLUT. <i>Adv. Epic. 20</i>.<p><b>Étym</b>. ἡγέομαι, ἄναξ.`

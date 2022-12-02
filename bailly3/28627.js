@@ -1,0 +1,1 @@
+lar[28627]=`<b>δύσ·λοφος, ος, ον :<br>      1</b> pénible pour le cou, difficile à supporter, THGN. <i>846, 1018 ; fig</i>. ESCHL. <i>Pr. 931</i>.<br><b>      2</b> impatient du joug, EL. <i>N.A. 16, 9</i>.<p>•<i> Cp</i>. -ώτερος, ESCHL. <i>l. c</i>.`

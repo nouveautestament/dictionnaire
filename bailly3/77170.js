@@ -1,0 +1,1 @@
+lar[77170]=`<b>εως (ἡ)</b> avis donné par occasion, M. ANT. <i>1, 10</i>.<p><b>Étym</b>. παρυπομιμνῄσκω.`

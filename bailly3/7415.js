@@ -1,0 +1,1 @@
+lar[7415]=`<b>ἀνα·πλωτάζω</b>, flotter à la surface, CLÉM. <i>187</i>.<p><b>Étym</b>. ἀνά, πλωτός.`

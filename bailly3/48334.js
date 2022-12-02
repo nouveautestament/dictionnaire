@@ -1,0 +1,1 @@
+lar[48334]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἰαχή, ORPH. <i>48, 3 dout</i>.`

@@ -1,0 +1,1 @@
+lar[9204]=`(<i>seul. prés</i>.) faire gonfler, gonfler, TH. <i>C.P. 4, 13, 7 ; au pass</i>. se gonfler, HPC. <i>Acut. 385</i>.<p><b>Étym</b>. ἀνά, οἰδαίνω.`

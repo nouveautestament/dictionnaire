@@ -1,0 +1,1 @@
+lar[92033]=`<b>ή, όν</b>, digne d’être recherché, PLAT. <i>Hipp. ma. 297b ;</i> ARSTT. <i>Nic. 8, 14, 4</i>.<p><b>Étym</b>. <i>vb. de</i> σπουδάζω.`

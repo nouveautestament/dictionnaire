@@ -1,0 +1,1 @@
+lar[37501]=`<b>ἐπι·δάκνω</b> <font color="darkgreen">(<i>f</i>. -δήξομαι)</font> mordre sur, NIC. <i>Al. 19, 121</i> ; MNÉSITH. (ATH. <i>32e</i>) ; <i>fig. en parl. de l’effet de la fumée sur les yeux,</i> ARSTT. (STOB. <i>Fl. 20, 55</i>).`

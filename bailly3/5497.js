@@ -1,0 +1,1 @@
+lar[5497]=`<i>adv</i>., sans regret, THÉM. <i>231a ;</i> ES. <i>4 de Furia</i>.`

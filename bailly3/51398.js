@@ -1,0 +1,1 @@
+lar[51398]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Kameiros (<i>auj</i>. Ferachio) <i>v. de l’î. de Rhodes,</i> IL. <i>2, 656</i>.`

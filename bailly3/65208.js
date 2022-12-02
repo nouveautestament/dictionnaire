@@ -1,0 +1,1 @@
+lar[65208]=`<b>ή, όν</b>, de participe : τὸ μετοχικόν, EUST. <i>Il. p. 32, 33, etc.</i> ; DH. <i>6, 791, 868 Reiske, etc.</i> ; DYSC. <i>Pron. 340c, Adv. 554, 9, etc</i>. le participe.<p><b>Étym</b>. μετοχή.`

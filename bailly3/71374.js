@@ -1,0 +1,1 @@
+lar[71374]=`<b>ὁμ·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font><br><b>      1</b> de même âge, <i>d’où</i> compagnon, OD. <i>15, 197 ; 16, 419</i> ; HÉS. <i>O. 442, 445</i> ; EUR. <i>Hipp. 1098, etc.</i><br><b>      2</b> de même grandeur, LUC. <i>Im. 13</i>.<p>➳ <i>Dor</i>. ὁμᾶλιξ <font color="purple">[ᾱ]</font> MOSCH. <i>2, 102</i>.<p><b>Étym</b>. ὁμός, ἧλιξ.`

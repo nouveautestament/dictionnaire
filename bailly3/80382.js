@@ -1,0 +1,1 @@
+lar[80382]=`<font color="purple">[ῐῠ]</font> <i>adv</i>., avec prudence, sagement, EPICRAT. (ATH. <i>59d</i>).<p><b>Étym</b>. πινυτός.`

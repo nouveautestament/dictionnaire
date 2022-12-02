@@ -1,0 +1,1 @@
+lar[27914]=`<font color="darkgreen">(<i>f. moy</i>. -ύξεται)</font> <font color="purple">[ῑ]</font> piquer par une saveur aigre, <i>fig</i>. traiter avec aigreur, durement, LIB. <i>4, 799</i>.<p><b>Étym</b>. δριμύς.`

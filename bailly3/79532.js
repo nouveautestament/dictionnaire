@@ -1,0 +1,1 @@
+lar[79532]=`<b>περι·τροχάζω :<br>      1</b> courir autour de, <i>acc</i>. APD. <i>1, 9, 26</i>.<br><b>      2</b> <i>p. ext</i>. marcher autour, HIPPIATR. <i>115, 18</i>.`

@@ -1,0 +1,1 @@
+lar[99074]=`<b>(ὁ, ἡ)</b> tigre, tigresse, <i>se décline d’après trois thèmes</i> :<br><b>      1</b> <i>th</i>. τιγρι- : <i>gén</i>. τίγριος, ARSTT. <i>H.A. 8, 28, 14</i> ; TH. <i>H.P. 5, 4, 7</i>.<br><b>      2</b> <i>th</i>. τιγρε- <i>au pl. : acc</i>. τίγρεις, PLUT. <i>M. 144d, 167c.</i><br><b>      3</b> <i>th</i>. τιγριδ- : <i>gén</i>. τίγριδος, DC. <i>70, 9 ; 76, 7</i>.`

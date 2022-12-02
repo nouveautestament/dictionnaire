@@ -1,0 +1,1 @@
+lar[101033]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> atteint de l’hydropisie τυμπανίας, A. TR. <i>9, 522, 524</i>.`

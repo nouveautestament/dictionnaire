@@ -1,0 +1,1 @@
+lar[103950]=`<b>ης, ες</b> <font color="purple">[ῐᾰ]</font> propre à être fendu <i>ou</i> à se fendre en éclats, DIOSC. <i>5, 181</i>.`

@@ -1,0 +1,1 @@
+lar[83998]=`<b>πρό·δομος, ος, ον</b>, qui est devant la maison, <i>gén</i>. ESCHL. <i>fr. 386 ; abs</i>. ANTH. <i>6, 285 ; subst</i>. ὁ πρ. IL. <i>9, 473 ; 24, 673</i> ; OD. <i>4, 302,</i> partie antérieure d’une maison, vestibule.<p><b>Étym</b>. π. δόμος.`

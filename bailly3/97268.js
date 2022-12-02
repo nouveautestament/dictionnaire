@@ -1,0 +1,1 @@
+lar[97268]=`<b>ή, όν</b>, capable de sauver, de conserver, de préserver, <i>gén</i>. ARSTT. <i>Top. 6, 12, 6 ; M. mor. 1, 2, 4 ; Probl. 23, 7, etc</i>.<p><b>Étym</b>. σῴζω.`

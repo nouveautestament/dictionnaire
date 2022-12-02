@@ -1,0 +1,1 @@
+lar[5462]=`<b>ἀμεριμνέω-ῶ</b>, n’avoir pas d’inquiétude, JAMBL. <i>V. Pyth. 5</i>.<p><b>Étym</b>. ἀμέριμνος.`

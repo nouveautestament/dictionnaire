@@ -1,0 +1,1 @@
+lar[33967]=`<b>εως (ἡ)</b> action de laisser une empreinte sur, <i>dat</i>. TH. <i>C.P. 6, 1, 1</i>.<p><b>Étym</b>. ἐναπομόργνυμι.`

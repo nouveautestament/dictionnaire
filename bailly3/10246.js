@@ -1,0 +1,1 @@
+lar[10246]=`<b>ἀντι·περιάγω</b>, diriger circulairement contre, ARSTT. <i>Mir. 139</i> ; POL. <i>1, 22, 8</i>.`

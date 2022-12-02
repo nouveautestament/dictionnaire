@@ -1,0 +1,1 @@
+lar[67320]=`<b>μυρό·πνοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ]</font> qui exhale des parfums, parfumé, embaumé, ANTH. <i>5, 16 ; 12, 95</i>.<p><b>Étym</b>. μ. πνέω.`

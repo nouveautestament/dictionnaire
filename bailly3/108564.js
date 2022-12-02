@@ -1,0 +1,1 @@
+lar[108564]=`<b>ητος (ἡ)</b> <font color="purple">[ῑ̆ᾰ]</font> chaleur douce, tiédeur, PROCL. <i>Ptol. 1, 20, p. 53</i>.<p><b>Étym</b>. χλιαρός.`

@@ -1,0 +1,1 @@
+lar[105669]=`<b>φίλ·ιππος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime les chevaux, PD. <i>N. 9, 74</i> ; SOPH. <i>fr. 523, 738</i> ; EUR. <i>Hec. 9</i>.<p>•<i> Sup</i>. φιλιππότατος, XÉN. <i>An. 1, 9, 5</i>.<p><b>Étym</b>. φίλος, ἵππος.`

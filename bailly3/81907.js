@@ -1,0 +1,1 @@
+lar[81907]=`<b>πολυ·ηλάκατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> riche en roseaux, ESCHL. <i>fr. 6 Dind</i>.<p><b>Étym</b>. π. ἠλακάτη.`

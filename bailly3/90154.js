@@ -1,0 +1,1 @@
+lar[90154]=`<b>σιδηρό·δεσμος, ος, ον</b> <font color="purple">[ῐ]</font> attaché avec des liens de fer, SPT. <i>3Macc. 4, 9</i>.<p><b>Étym</b>. σ. δεσμός.`

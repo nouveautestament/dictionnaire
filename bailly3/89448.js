@@ -1,0 +1,1 @@
+lar[89448]=`<b>σαρκο·παγής, ής, ές</b> <font color="purple">[πᾰ]</font> fait d’une chair pétrifiée, A. PL. <i>134</i>.<p><b>Étym</b>. σ. πήγνυμι.`

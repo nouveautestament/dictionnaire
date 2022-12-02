@@ -1,0 +1,1 @@
+lar[99843]=`<b>ῶν (αἱ)</b> PLUT. <i>Per. 25,</i> Tragies (l’île aux boucs) <i>petite î. près de Samos</i>.<p><b>Étym</b>. τράγος.`

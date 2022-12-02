@@ -1,0 +1,1 @@
+lar[1439]=`<i>ou</i> ἀδινῶς <font color="purple">[ᾰῐ]</font> <i>adv</i>., d’une manière serrée, <i>d’où</i> avec force, avec véhémence, IL. <i>19, 314, etc</i>.`

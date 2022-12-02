@@ -1,0 +1,1 @@
+lar[73079]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> lieu où l’on élève des cailles, ARSTT. <i>Probl. 10, 5</i>.<p><b>Étym</b>. ὀρτυγοτρόφος.`

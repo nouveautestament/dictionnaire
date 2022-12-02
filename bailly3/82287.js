@@ -1,0 +1,1 @@
+lar[82287]=`<b>πολυ·πόταμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> aux nombreux fleuves, EUR. <i>H.f. 409</i>.<p><b>Étym</b>. π. ποταμός.`

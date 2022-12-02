@@ -1,0 +1,1 @@
+lar[68022]=`<b>νεκροφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des morts <i>ou</i> des cadavres, STR. <i>827</i>.<p><b>Étym</b>. νεκροφάγος.`

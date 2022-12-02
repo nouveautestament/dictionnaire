@@ -1,0 +1,1 @@
+lar[24081]=`<b>δεχ·άμματος, ος, ον</b> <font color="purple">[μᾰ]</font> à dix nœuds <i>ou</i> mailles, XÉN. <i>Cyn. 10, 2</i>.<p><b>Étym</b>. δέκα, ἅμμα.`

@@ -1,0 +1,1 @@
+lar[74701]=`<b>παμ·μεγέθης, ης, ες</b>, tout à fait grand, XÉN. <i>Mem. 3, 6, 13</i> ; PLAT. <i>Parm. 164d, etc. ; adv. neutre,</i> παμμέγεθες, ESCHN. <i>42, 4,</i> fortement.<p><b>Étym</b>. π. μέγεθος.`

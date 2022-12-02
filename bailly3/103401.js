@@ -1,0 +1,1 @@
+lar[103401]=`<b>ὑπο·κόπτω</b>, couper dessous <i>ou</i> en bas, PLUT. <i>Eum. 7 ; au pass</i>. JOS. <i>B.J. 6, 8, 4 ; fig</i>. JOS. <i>B.J. 5, 1, 4 ; 6, 1, 3</i>.`

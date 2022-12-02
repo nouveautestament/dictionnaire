@@ -1,0 +1,1 @@
+lar[88117]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art d’élever les jeunes chevaux, EL. <i>N.A. 4, 6</i>.<p><b>Étym</b>. πωλοτρόφος.`

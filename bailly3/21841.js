@@ -1,0 +1,1 @@
+lar[21841]=`<b>ων (οἱ)</b> les habitants de Géphyra (Γέφυρα), <i>anc. n. de Tanagra,</i> HDT. <i>5, 55, 57, 61 ; au sg</i>. ORACL. (DL. <i>6, 33</i>).`

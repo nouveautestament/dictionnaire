@@ -1,0 +1,1 @@
+lar[79866]=`<b>η, ον :<br>      1</b> de Pétèlia, PLUT. <i>Crass. 11</i>.<br><b>      2</b> τὸ Πετηλῖνον ἄλσος, le bois de Pétèlia, <i>près de Rome,</i> PLUT. <i>Cam. 36</i>.<p><b>Étym</b>. Πετηλία.`

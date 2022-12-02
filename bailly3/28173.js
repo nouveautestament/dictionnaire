@@ -1,0 +1,1 @@
+lar[28173]=`<b>δυσ·ανάληπτος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font><br><b>      1</b> difficile à remettre dans son premier état, JUL. <i>Or. 6, 181a ;</i> ATH. (ORIB. <i>3, 81 B.-Dar</i>.).<br><b>      2</b> difficile à reprendre (par le souvenir), qu’on se rappelle difficilement, ALCID. <i>Soph. p. 85 Reiske</i>.<p><b>Étym</b>. δ. ἀναλαμβάνω.`

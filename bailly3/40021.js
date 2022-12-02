@@ -1,0 +1,1 @@
+lar[40021]=`<b>ἑπτά·στομος, ος, ον :<br>      1</b> à sept bouches, <i>en parl. de l’écho,</i> NONN. <i>D. 1, 242</i>.<br><b>      2</b> à sept bouches <i>ou</i> portes, SOPH. <i>fr. 778</i> ; EUR. <i>Suppl. 401, etc</i>.<p><b>Étym</b>. ἑ. στόμα.`

@@ -1,0 +1,1 @@
+lar[72210]=`<b>(ὁ)</b> = <i>lat</i>. Ovicula, <i>surn. d’h. rom</i>. PLUT. <i>Fab. 1</i>.`

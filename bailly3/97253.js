@@ -1,0 +1,1 @@
+lar[97253]=`<b>Σωσι·κράτης, ους</b>, <i>voc</i>. <b>Σωσίκρατες (ὁ)</b> <font color="purple">[ῐᾰ]</font> Sosikratès, <i>h</i>. ANTH. <i>5, 113</i>.<p><b>Étym</b>. σῴζω, κράτος.`

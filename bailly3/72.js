@@ -1,0 +1,1 @@
+lar[72]=`<b>(ὁ)</b> <i>indécl</i>. père, NT. <i>Marc. 14, 36 ; Rom. 8, 15, etc</i>.<p><b>Étym</b>. <i>mot hébreu</i>.`

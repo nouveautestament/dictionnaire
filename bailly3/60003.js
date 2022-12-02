@@ -1,0 +1,1 @@
+lar[60003]=`<b>λαφυροπωλέω-ῶ</b> <font color="purple">[ᾰῡ]</font><br><b>      1</b> vendre le butin, XÉN. <i>An. 6, 6, 38</i>.<br><b>      2</b> vendre comme butin, <i>acc</i>. POL. <i>5, 24, 10</i> ; DS. <i>17, 14</i>.<p><b>Étym</b>. λαφυροπώλης.`

@@ -1,0 +1,1 @@
+lar[9356]=`<b>ἀν·ούσιος, ος, ον</b>, sans substance, PROCL. <i>Plat. 1 Alc. 88</i>.<p><b>Étym</b>. ἀν-, οὐσία.`

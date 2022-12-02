@@ -1,0 +1,1 @@
+lar[105966]=`<b>φιλο·νοσέω-ῶ</b> <font color="purple">[ῐ]</font> être maladif, ALCIPHR. <i>2, 2, 2</i>.`

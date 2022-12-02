@@ -1,0 +1,1 @@
+lar[107025]=`<b>φυγ·αρσενία, ας (ἡ)</b> <font color="purple">[ῠ]</font> éloignement pour le sexe mâle, MAN. <i>4, 64</i>.<p><b>Étym</b>. φ. ἄρσην.`

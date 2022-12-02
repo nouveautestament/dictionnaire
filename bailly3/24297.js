@@ -1,0 +1,1 @@
+lar[24297]=`(<i>seul. prés. inf</i>.) imiter Démosthène, PLUT. <i>Cic. 24</i> ; NAZ. <i>3, 312a Migne</i>.<p><b>Étym</b>. Δημοσθένης.`

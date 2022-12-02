@@ -1,0 +1,1 @@
+lar[16430]=`<font color="purple">[ῠγ]</font> <i>adv</i>., non conjointement, isolément, en détail, ARCHIG. (GAL. <i>8, 625</i>).`

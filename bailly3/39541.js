@@ -1,0 +1,1 @@
+lar[39541]=`<b>ἐπι·φαιδρύνω</b> <font color="purple">[ῡ]</font> rendre clair, brillant, A.RH. <i>4, 663 ; au pass</i>. HLD. <i>10, 25</i>.`

@@ -1,0 +1,1 @@
+lar[95202]=`<b>συν·δισκεύω</b>, lancer le disque avec <i>ou</i> en même temps, LUC. <i>D. deor. 14, 2</i>.`

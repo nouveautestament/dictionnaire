@@ -1,0 +1,1 @@
+lar[96429]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> coexistence, PLOT. <i>695b, 273b</i>.<p><b>Étym</b>. συνυφίσταμαι.`

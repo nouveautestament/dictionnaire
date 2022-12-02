@@ -1,0 +1,1 @@
+lar[34422]=`<b>ἐν·ευτυχέω-ῶ</b> <font color="purple">[ῠ]</font> être heureux dans, <i>dat</i>. ARSTD. <i>t. 1, 111</i>.`

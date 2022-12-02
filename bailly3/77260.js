@@ -1,0 +1,1 @@
+lar[77260]=`<b>πασπαλη·φάγος, ος, ον</b> <font color="purple">[ᾰλφᾰ]</font> qui mange un grain <i>ou</i> de la farine de millet, HIPPON. <i>fr. 69</i>.<p><b>Étym</b>. πασπάλη, φαγεῖν.`

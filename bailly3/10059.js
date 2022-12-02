@@ -1,0 +1,1 @@
+lar[10059]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰχ]</font> Antimakheia, <i>lieu de Kos,</i> PLUT. <i>Qu. gr. 58</i>.<p><b>Étym</b>. Ἀντίμαχος.`

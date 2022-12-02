@@ -1,0 +1,1 @@
+lar[30018]=`<b>ύος (ἡ)</b> le manger, <i>d’où</i> nourriture <i>en gén., touj. au gén., d’ord. joint à</i> πόσιος « boisson » IL. <i>1, 469</i> ; OD. <i>3, 473 ; ou à</i> ποτῆτος « boisson » OD. <i>4, 788 ; employé seul,</i> OD. <i>6, 250</i>.<p><b>Étym</b>. ἔδω.`

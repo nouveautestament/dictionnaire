@@ -1,0 +1,1 @@
+lar[72145]=`<b>ὀξυ·πλήξ, ῆγος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui bat (ses rives) avec bruit, <i>en parl. de l’Achéron,</i> SOPH. <i>fr. 469</i>.<p><b>Étym</b>. ὀ. πλήσσω.`

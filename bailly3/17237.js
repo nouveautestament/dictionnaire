@@ -1,0 +1,1 @@
+lar[17237]=`<b>αὐλ·ῶπις, ιδος</b>, <i>adj. f.</i> :<br><b>      1</b> percé de trous pour les yeux, <i>ép. d’une visière de casque, ou plutôt</i> muni d’un tube (<i>pour recevoir l’aigrette</i>) IL. <i>5, 182, etc.</i><br><b>      2</b> allongé (comme un tube) <i>en parl. d’une lance,</i> SOPH. <i>fr. 851</i>.<p><b>Étym</b>. αὐλός, ὤψ.`

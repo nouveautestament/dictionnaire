@@ -1,0 +1,1 @@
+lar[83688]=`<b>προ·αποτάσσομαι</b>, renoncer à une chose auparavant, PHIL. <i>2, 326</i>.`

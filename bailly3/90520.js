@@ -1,0 +1,1 @@
+lar[90520]=`<b>σιτο·δασία, ας (ἡ)</b> <font color="purple">[ῑδᾰ]</font> distribution de blé, DH. <i>3, 1412 Reiske</i>.<p><b>Étym</b>. σ. δαίομαι.`

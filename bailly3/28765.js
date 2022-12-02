@@ -1,0 +1,1 @@
+lar[28765]=`<b>δυσ·παρακόμιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à transporter, PLUT. <i>Demetr. 19</i> ; δ. πλοῦς, POL. <i>3, 61, 2,</i> navigation difficile.<p><b>Étym</b>. δ. παρακομίζω.`

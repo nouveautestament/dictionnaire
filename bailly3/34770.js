@@ -1,0 +1,1 @@
+lar[34770]=`<b>ἐν·νήχομαι</b>, nager dans, PLUT. <i>M. 994b ;</i> PHIL. <i>1, 693</i> ; ANTYLL. (ORIB. <i>1, 524 B.-Dar</i>.).`

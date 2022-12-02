@@ -1,0 +1,1 @@
+lar[33797]=`<b>ἐν·ᾴδω</b>, chanter parmi (d’autres) ARSTT. <i>Probl. 19, 15</i>.`

@@ -1,0 +1,1 @@
+lar[31074]=`<b>εως (ἡ)</b> <font color="purple">[ᾰρω]</font> introduction de la barbarie, PLUT. <i>Tim. 17</i>.<p><b>Étym</b>. ἐκβαρβαρόω.`

@@ -1,0 +1,1 @@
+lar[86672]=`<b>προσ·χρῶτα</b>, <i>adv</i>., corps contre corps, ARTÉM. <i>1, 79</i>.<p><b>Étym</b>. <i>pour</i> πρὸς χρῶτα, <i>acc. de</i> χρώς.`

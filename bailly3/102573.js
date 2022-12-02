@@ -1,0 +1,1 @@
+lar[102573]=`<b>ὑπερ·καθαίρω</b> <font color="purple">[κᾰ]</font> purger sans mesure, HPC. <i>Aph. 1260</i> ; GAL. <i>t. 18, 1, p. 144, 8</i> ; LEX. <i>p. 582</i>.`

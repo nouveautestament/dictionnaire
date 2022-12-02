@@ -1,0 +1,1 @@
+lar[17806]=`<b>(οἱ)</b> les Aukhates, <i>pple scythe,</i> HDT.`

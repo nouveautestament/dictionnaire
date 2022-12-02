@@ -1,0 +1,1 @@
+lar[71333]=`<b>οῦ (ὁ)</b> Ombèlos, <i>fl. de l’Inde,</i> NONN. <i>D. 26, 49</i>.`

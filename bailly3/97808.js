@@ -1,0 +1,1 @@
+lar[97808]=`<b>ταυρο·φόρος, ος, ον</b>, qui porte pour insigne un taureau, E. BYZ. <i>v°</i> Ταυρόεις.<p><b>Étym</b>. τ. φέρω.`

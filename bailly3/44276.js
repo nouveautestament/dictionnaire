@@ -1,0 +1,1 @@
+lar[44276]=`<b>έων (αἱ)</b> <font color="purple">[ῐ]</font> sorte de rats à poil hérissé, de Libye, HDT. <i>4, 192</i>.<p><b>Étym</b>. ἐχῖνος.`

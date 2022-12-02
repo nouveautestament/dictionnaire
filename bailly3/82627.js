@@ -1,0 +1,1 @@
+lar[82627]=`<b>έως (ὁ) :<br>      1</b> conducteur, OD. <i>4, 362 ; particul</i>. guide, OD. <i>3, 325, 376</i>.<br><b>      2</b> qui fait partie d’une procession, THC. <i>6, 58</i>.<p>➳ <i>Plur. nom. ion</i>. -ῆες, OD. <i>4, 362 ; att</i>. -ῆς, PLAT. COM. <i>2-2, 645 Mein</i>.<p><b>Étym</b>. πέμπω.`

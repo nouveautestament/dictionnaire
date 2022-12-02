@@ -1,0 +1,1 @@
+lar[63549]=`<b>(ἡ)</b> = <i>lat</i>. Medullina, <i>n. de f. rom</i>. PLUT. <i>Parall. min. 19</i>.`

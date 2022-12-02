@@ -1,0 +1,1 @@
+lar[85629]=`<i>adv</i>., de manière à être semblable, D. CHRYS. <i>1, 402</i>.<p><b>Étym</b>. προσέοικα.`

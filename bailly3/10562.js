@@ -1,0 +1,1 @@
+lar[10562]=`<b>ἀντι·φιλοφρονέομαι-οῦμαι</b> <font color="purple">[φῐ]</font> témoigner de l’affection en retour, PLUT. <i>Sert. 20</i> ; JOS. <i>A.J. 14, 11, 5</i>.`

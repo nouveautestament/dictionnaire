@@ -1,0 +1,1 @@
+lar[31057]=`<b>ιδος</b> <font color="purple">[ᾰ]</font> <i>adj. fém. de</i> ἑκατοντούτης ATH. <i>697e</i>.`

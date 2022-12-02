@@ -1,0 +1,1 @@
+lar[28976]=`<b>δύσ·φθαρτος, ος, ον</b>, qui se gâte difficilement, HICÉS. <i>et</i> DIPH. (ATH. <i>87d, 121c</i>).<p><b>Étym</b>. δ. φθείρω.`

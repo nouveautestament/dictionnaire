@@ -1,0 +1,1 @@
+lar[49992]=`<b>έων (οἱ)</b> habitants d’Itôn, THC. <i>5, 3</i>.<p><b>Étym</b>. Ἴτων.`

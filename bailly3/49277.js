@@ -1,0 +1,1 @@
+lar[49277]=`<b>ἱππ·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> praticable pour les chevaux, OD. <i>4, 607, etc.</i> ; LUC. <i>Rh. præc. 3</i>.<br><b>      2</b> fabriqué (<i>litt</i>. allongé) en forme de cheval, <i>en parl. du cheval de Troie,</i> TRIPHIOD. <i>2</i>.<p><b>Étym</b>. ἵ. ἐλαύνω.`

@@ -1,0 +1,1 @@
+lar[86204]=`<b>ή, όν</b> <font color="purple">[μῑ]</font> qui concerne la vie en société : ἡ προσομιλητική (<i>s.-e</i>. τέχνη) l’art de vivre en société, PLAT. <i>Soph. 222c</i>.<p><b>Étym</b>. προσομιλέω.`

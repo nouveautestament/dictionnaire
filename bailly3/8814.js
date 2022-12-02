@@ -1,0 +1,1 @@
+lar[8814]=`<b>άδος (ἡ)</b> vigne d’Anthèdonia, ATH. <i>31c</i>.<p><b>Étym</b>. <i>v</i>. Ἀνθηδονία.`

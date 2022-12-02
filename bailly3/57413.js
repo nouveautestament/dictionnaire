@@ -1,0 +1,1 @@
+lar[57413]=`<b>οῦ (ὁ)</b> danse des Curètes, DH. <i>2, 71</i>.<p><b>Étym</b>. Κουρής².`

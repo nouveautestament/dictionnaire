@@ -1,0 +1,1 @@
+lar[47606]=`<b>θρασυ·πτόλεμος, ος, ον</b> <font color="purple">[ᾰ]</font> intrépide à la guerre, ANTH. <i>App. 201</i>.<p><b>Étym</b>. θρ. πτόλεμος.`

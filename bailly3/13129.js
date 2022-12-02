@@ -1,0 +1,1 @@
+lar[13129]=`<b>ἀπο·πρατίζομαι</b> <font color="purple">[ᾱτ]</font> vendre, SPT. <i>Tob. 1, 7</i>.<p><b>Étym</b>. ἀπό, πιπράσκω.`

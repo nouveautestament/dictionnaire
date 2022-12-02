@@ -1,0 +1,1 @@
+lar[60711]=`<b>Λεω·σθένης, ους</b>, <i>acc</i>. <b>-ην (ὁ)</b> Léôsthénès, <i>démagogue athénien,</i> ESCHN. <i>2, 21 Baiter-Sauppe</i> ; PLUT. <i>Pyrrh. 1, etc</i>.<p><b>Étym</b>. λεώς, σθένος ; <i>cf</i>. Σθενέλαος <i>et</i> Δημοσθένης.`

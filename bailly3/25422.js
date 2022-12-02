@@ -1,0 +1,1 @@
+lar[25422]=`<b>δι·αρετίζομαι</b> <font color="purple">[ᾱ]</font> (<i>seul. prés. inf</i>.) rivaliser de vertu, SYN. <i>De regn. 19, 1101c Migne</i>.`

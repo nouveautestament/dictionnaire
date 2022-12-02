@@ -1,0 +1,1 @@
+lar[106912]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> orgueil, présomption, POL. <i>Fr. gr. 136</i> ; THÉM. <i>251b</i>.<p><b>Étym</b>. φρονηματίζομαι.`

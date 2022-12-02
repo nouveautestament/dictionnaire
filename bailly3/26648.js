@@ -1,0 +1,1 @@
+lar[26648]=`<b>ου (ὁ)</b> Dimnos, <i>h</i>. DS. <i>17, 79</i> ; PLUT. <i>Alex. 49</i>.`

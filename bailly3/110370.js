@@ -1,0 +1,1 @@
+lar[110370]=`<b>ὠπάομαι-ῶμαι</b>, voir, regarder, OPP. <i>C. 1, 316, etc</i>.<p><b>Étym</b>. ὠπή.`

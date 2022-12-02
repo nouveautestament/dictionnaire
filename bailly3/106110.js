@@ -1,0 +1,1 @@
+lar[106110]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec tendresse pour les siens, ARSTT. <i>H.A. 9, 37</i> ; PLUT. <i>Fab. 21</i> ; JOS. <i>A.J. 4, 6, 8 ; en gén. en parl. de lettres,</i> CIC. <i>Att. 15, 17</i>.<p>•<i> Cp</i>. -ότερον, GEOP. <i>16, 21, 6 ; • Sup</i>. -ότατα, DL. <i>1, 121</i> ; JAMBL. <i>V. Pyth. p. 22, 53</i>.`

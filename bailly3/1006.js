@@ -1,0 +1,1 @@
+lar[1006]=`<b>ου (ὁ)</b> Agylæos, <i>h</i>. PLUT. <i>Cleom. 8</i>.`

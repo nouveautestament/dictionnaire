@@ -1,0 +1,1 @@
+lar[29612]=`<b>ἐγ·καττύω</b> (<i>pf. 3 sg</i>. ἐγκεκάττυται) coudre dans, mettre une pièce à, <i>avec</i> ἐν <i>et le dat</i>. ALEX. (ATH. <i>568b</i>).<p><b>Étym</b>. ἐν, κ.`

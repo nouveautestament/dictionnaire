@@ -1,0 +1,1 @@
+lar[15892]=`<b>Ἀσκανία λίμνη (ἡ)</b> le lac Askania, <i>en Phrygie,</i> ARR.`

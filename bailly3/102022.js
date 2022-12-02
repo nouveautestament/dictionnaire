@@ -1,0 +1,1 @@
+lar[102022]=`<b>ὑπ·ασκέω-ῶ</b>, exercer comme un athlète, RHÉT. <i>1, 270 W</i>.`

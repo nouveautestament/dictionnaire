@@ -1,0 +1,1 @@
+lar[56610]=`<font color="purple">[ᾰ]</font> souffleter, <i>acc</i>. NT. <i>Matth. 26, 67 ; 1Cor. 4, 11</i>.<p><b>Étym</b>. κόλαφος.`

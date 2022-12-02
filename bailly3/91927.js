@@ -1,0 +1,1 @@
+lar[91927]=`<b>ή, όν</b>, qui concerne les entrailles, DIOSC. <i>1, 82</i>.<p><b>Étym</b>. σπλάγχνον.`

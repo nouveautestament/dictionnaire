@@ -1,0 +1,1 @@
+lar[27576]=`<b>δορατο·παχής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> de l’épaisseur d’une lance, XÉN. <i>Cyn. 10, 3</i>.<p><b>Étym</b>. δόρυ, πάχος.`

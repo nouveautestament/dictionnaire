@@ -1,0 +1,1 @@
+lar[105052]=`<b>ης (ἡ)</b> Fébratè, <i>n. du jour où l’on célébrait les Lupercales à Rome,</i> PLUT. <i>Rom. 21</i>.`

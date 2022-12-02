@@ -1,0 +1,1 @@
+lar[10548]=`<b>οντος (ὁ)</b> Antiphérôn, <i>h</i>. ARSTT. <i>Mem. 1</i>.<p><b>Étym</b>. ἀντιφέρω.`

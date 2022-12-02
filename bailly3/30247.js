@@ -1,0 +1,1 @@
+lar[30247]=`<i>adv</i>., de façon à concerner la connaissance, PROCL. <i>Plat. Parm. 625, 649</i>.`

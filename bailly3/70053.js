@@ -1,0 +1,1 @@
+lar[70053]=`<b>ου (τὸ)</b> étui (pour les javelots et la hache) OD. <i>21, 61</i>.<p><b>Étym</b>. ὄγκος.`

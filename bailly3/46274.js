@@ -1,0 +1,1 @@
+lar[46274]=`<b>θαμνο·ειδής, ής, ές</b>, semblable à un arbrisseau, TH. <i>H.P. 3, 17, 3</i> ; DIOSC. <i>3, 130 ; 4, 110</i>.<p><b>Étym</b>. θάμνος, ἐἶδος.`

@@ -1,0 +1,1 @@
+lar[70221]=`<b>ὁθ·ούνεκα</b>, <i>ou mieux</i> <b>ὁθ·οὔνεκα</b>, <i>p</i>. ὅτου ἕνεκα :<br><b>      1</b> parce que, <i>avec l’ind</i>. SOPH. <i>Aj. 123, 553, etc.</i><br><b>      2</b> que, <i>avec l’ind</i>. ESCHL. <i>Pr. 330</i> ; SOPH. <i>El. 47, 617, etc. ; rar. avec l’opt</i>. SOPH. <i>O.C. 944</i>.<p><b>Étym</b>. <i>cf</i>. οὕνεκα.`

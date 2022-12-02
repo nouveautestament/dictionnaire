@@ -1,0 +1,1 @@
+lar[55762]=`<b>κλασι·βῶλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾰῐᾰκ]</font> qui brise les mottes, ANTH. <i>6, 41</i>.<p><b>Étym</b>. κλάω, βῶλαξ.`

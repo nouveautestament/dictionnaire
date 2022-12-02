@@ -1,0 +1,1 @@
+lar[86521]=`<b>προ·στύφω</b> <font color="purple">[ῡφ]</font><br><b>      1</b> rendre épais auparavant, TH. <i>Od. 24</i> ; DIOSC. <i>1, 48</i>.<br><b>      2</b> préparer la laine pour la teinture au moyen de mordants, CLÉM. <i>144 ; fig</i>. CLÉM. <i>366</i>.`

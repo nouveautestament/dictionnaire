@@ -1,0 +1,1 @@
+lar[80306]=`<b>πιλνάω-ῶ</b> (<i>seul. prés. 3 sg</i>. πιλνᾷ) approcher de, jeter contre, <i>rég. ind. au dat</i>. HÉS. <i>O. 512</i>.<p><b>Étym</b>. <i>v</i>. πίλναμαι.`

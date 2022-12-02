@@ -1,0 +1,1 @@
+lar[7444]=`<b>ἀνα·πολεμέω-ῶ</b>, recommencer la guerre, STR. <i>833</i>.`

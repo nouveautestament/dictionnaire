@@ -1,0 +1,1 @@
+lar[100411]=`<b>τρί·πτυχος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> formé d’une peau repliée trois fois, <i>càd</i>. d’une triple peau, IL. <i>11, 353</i>.<br><b>      2</b> <i>p. suite,</i> triple, EUR. <i>H.f. 474, etc</i>.<p><b>Étym</b>. τρεῖς, πτυχή.`

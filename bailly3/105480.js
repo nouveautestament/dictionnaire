@@ -1,0 +1,1 @@
+lar[105480]=`<b>φιλ·ανθρακεύς, έως (ὁ)</b> <font color="purple">[ῐᾰκ]</font> ami des charbonniers, AR. <i>Ach. 336</i>.<p><b>Étym</b>. φ. ἄνθραξ.`

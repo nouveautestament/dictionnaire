@@ -1,0 +1,1 @@
+lar[82452]=`<font color="purple">[ῠῑμ]</font> avoir en grand honneur, NUMÉN. (EUS. <i>P.E. 727d</i>).<p><b>Étym</b>. πολυτίμητος.`

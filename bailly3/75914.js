@@ -1,0 +1,1 @@
+lar[75914]=`<b>παρα·μεθίημι</b>, laisser de côté, laisser aller, négliger, HPC. <i>616, 43 ; avec un gén. partit</i>. HPC. <i>600, 15</i>.`

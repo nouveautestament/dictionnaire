@@ -1,0 +1,1 @@
+lar[62211]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. μέγαρον², MÉN. (<i>Com. fr. 4, 310</i>).`

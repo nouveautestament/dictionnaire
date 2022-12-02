@@ -1,0 +1,1 @@
+lar[50678]=`<b>κακοβλαστέω-ῶ</b> <font color="purple">[ᾰ]</font> pousser mal, avec peine, <i>en parl. de plantes,</i> TH. <i>C.P. 4, 7, 2</i>.<p><b>Étym</b>. κακόβλαστος.`

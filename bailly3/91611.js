@@ -1,0 +1,1 @@
+lar[91611]=`<b>ου (ὁ)</b> <i>sorte d’antilope,</i> OPP. <i>C. 2, 382</i>.`

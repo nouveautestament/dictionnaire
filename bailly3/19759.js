@@ -1,0 +1,1 @@
+lar[19759]=`<b>βιο·θανασία, ας (ἡ)</b> <font color="purple">[ᾰνᾰ]</font> mort violente, PTOL. <i>Tetr. 85</i>.<p><b>Étym</b>. βία, θάνατος.`

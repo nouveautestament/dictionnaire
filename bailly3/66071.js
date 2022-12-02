@@ -1,0 +1,1 @@
+lar[66071]=`<b>μισο·πώγων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> ennemi de la barbe, <i>titre d’un pamphlet de l’empereur Julien</i>.`

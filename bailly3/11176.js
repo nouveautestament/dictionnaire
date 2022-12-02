@@ -1,0 +1,1 @@
+lar[11176]=`<b>ου (ὁ)</b> <font color="purple">[ᾰπᾰ]</font> cochon de lait, DL. <i>8, 20</i>.<p><b>Étym</b>. ἁπαλός.`

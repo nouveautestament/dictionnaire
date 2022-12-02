@@ -1,0 +1,1 @@
+lar[46285]=`<b>ας (ἡ)</b> <font color="purple">[ᾰνᾰ]</font> action de donner la mort, ANTH. <i>5, 114</i>.<p><b>Étym</b>. θανατηφόρος.`

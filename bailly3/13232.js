@@ -1,0 +1,1 @@
+lar[13232]=`<b>ατος (τὸ)</b> interdiction, PLAT. <i>Pol. 296a</i>.`

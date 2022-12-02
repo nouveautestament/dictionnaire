@@ -1,0 +1,1 @@
+lar[65045]=`<b>μετα·χείμασις, εως (ἡ)</b> <font color="purple">[μᾰ]</font> mauvais temps tardif, VÉG. <i>Mil. 4, 40</i> <font color="purple">[μεταχειμάζειν <i>dans l’édition de Lang</i>]</font>.<p><b>Étym</b>. μ. χειμάζω.`

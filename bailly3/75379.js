@@ -1,0 +1,1 @@
+lar[75379]=`<b>παρα·βασιλεύω</b> <font color="purple">[βᾰῐ]</font><br><b>      1</b> régner auprès de, <i>dat</i>. EUN. <i>p. 53</i>.<br><b>      2</b> abuser de l’autorité royale, SPT. <i>3Macc. 6, 24</i>.`

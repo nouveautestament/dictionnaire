@@ -1,0 +1,1 @@
+lar[56172]=`<b>κλυτό·πωλος, ος, ον</b> <font color="purple">[ῠ]</font> aux coursiers renommés, aux nobles coursiers, IL. <i>5, 654, etc</i>.<p><b>Étym</b>. κλ. πῶλος.`

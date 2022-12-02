@@ -1,0 +1,1 @@
+lar[7982]=`<font color="purple">[ρᾰᾰ]</font> <i>adv</i>., par homme, OD. <i>13, 14</i> ; ESCHL. <i>Ag. 1595</i>.<p><b>Étym</b>. ἀνήρ.`

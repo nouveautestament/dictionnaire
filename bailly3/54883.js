@@ -1,0 +1,1 @@
+lar[54883]=`<b>κερ·αύλης, ου (ὁ)</b> sonneur de trompe, LUC. <i>Trag. 33</i> ; ARCHIL. (POLL. <i>4, 71).</i><p><b>Étym</b>. κέρας, αὐλέω.`

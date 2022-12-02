@@ -1,0 +1,1 @@
+lar[60195]=`<b>λειριο·πολφ·ανεμώνη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> sorte de bouillie de fleurs de lis et d’anémones, PHÉRÉCR. (ATH. <i>269d</i>).<p><b>Étym</b>. λείριον, πόλφος, ἀνεμώνη.`

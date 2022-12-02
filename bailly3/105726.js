@@ -1,0 +1,1 @@
+lar[105726]=`<b>ας (ἡ)</b> <font color="purple">[φῐμᾰ]</font> goût pour les lettres <i>ou</i> pour les livres, STOB. <i>Ecl. 2, 120</i>.<p><b>Étym</b>. φιλογράμματος.`

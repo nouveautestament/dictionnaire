@@ -1,0 +1,1 @@
+lar[57870]=`<b>ῶν (οἱ)</b> les Krètines, <i>habitants de Krètinæon, brg près d’Éphèse,</i> PLUT. <i>Prov. 1, 57</i>.`

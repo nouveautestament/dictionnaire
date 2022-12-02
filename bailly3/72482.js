@@ -1,0 +1,1 @@
+lar[72482]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> de la fin de l’été, IL. <i>21, 346</i> ; OD. <i>5, 328, etc.</i> ; HÉS. <i>O. 672, 675</i> ; ἀστήρ, IL. <i>5, 5,</i> la canicule.<p><b>Étym</b>. ὀπώρα.`

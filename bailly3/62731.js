@@ -1,0 +1,1 @@
+lar[62731]=`<b>ου</b> (ὁ) Malkhos, <i>roi d’Arabie,</i> PLUT. <i>Ant. 61</i>.`

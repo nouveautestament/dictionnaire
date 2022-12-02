@@ -1,0 +1,1 @@
+lar[29161]=`<b>ου (τὸ)</b> Dôrion :<br><b>      1</b> <i>v. près de Pylos,</i> IL. <i>2, 594</i>.<br><b>      2</b> <i>lieu de Doride,</i> ESCHN. <i>2, 116 Baiter-Sauppe, etc</i>.`

@@ -1,0 +1,1 @@
+lar[97657]=`<b>η, ον</b> <font color="purple">[ῠ]</font> effrayé, épouvanté, ESCHL. <i>Sept. 240</i>.<p><b>Étym</b>. τάρβος.`

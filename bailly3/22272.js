@@ -1,0 +1,1 @@
+lar[22272]=`<b>ου (ὁ)</b> sorte d’oiseau, <i>p.-ê</i>. le jaseur (<i>Ampelis garrulus</i> Gessner, <i>Emberiza nivalis</i> L.), ARSTT. <i>H.A. 9, 16, 2</i>.`

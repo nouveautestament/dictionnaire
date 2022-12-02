@@ -1,0 +1,1 @@
+lar[61164]=`<b>ας (ἡ)</b> <font color="purple">[νᾰ]</font> eau stagnante, flaque d’eau, ARSTT. <i>Probl. 25, 2, 3</i>.<p><b>Étym</b>. λίμνη.`

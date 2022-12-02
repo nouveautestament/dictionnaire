@@ -1,0 +1,1 @@
+lar[27938]=`<b>ονος (ὁ)</b> navire de course, CASSIOD.<p><b>Étym</b>. δρόμος.`

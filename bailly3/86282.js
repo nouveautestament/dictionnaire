@@ -1,0 +1,1 @@
+lar[86282]=`<b>προσ·παρίστημι</b> (<i>seul. ao.2 impers</i>. προσπαρέστη) il vint à l’esprit (à qqn) de, <i>inf</i>. DC. <i>Exc. 119</i>.<br><b><i>Moy</i>. προσπαρίσταμαι</b> <font color="darkgreen">(<i>f</i>. -παραστήσομαι, <i>ao</i>. -παρεστησάμην)</font> exciter, <i>acc</i>. JOS. <i>A.J. 19, 1, 10 ; particul</i>. s’approprier, se rendre maître, DC. <i>50, 12</i>.`

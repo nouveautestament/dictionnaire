@@ -1,0 +1,1 @@
+lar[20999]=`<font color="darkgreen">(<i>seul. ao. 3 sg</i>. ἔβυξε)</font> pousser son cri, <i>en parl. du hibou,</i> DC. <i>56, 29 ; 72, 24</i>.<p><b>Étym</b>. <i>Cf</i>. βύας.`

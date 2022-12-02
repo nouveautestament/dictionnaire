@@ -1,0 +1,1 @@
+lar[36641]=`<b>ἐπ·αναρριπίζω</b> <font color="purple">[ῑπ]</font> rallumer en soufflant, JOS. <i>A.J. 19, 2, 2</i>.`

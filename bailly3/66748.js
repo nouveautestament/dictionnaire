@@ -1,0 +1,1 @@
+lar[66748]=`<b>έως (ὁ)</b> Morrhée, <i>h</i>. NONN. <i>D. 26, 72, etc</i>.<p>➳ <i>Voc</i>. Μορρεῦ, NONN. <i>D. 34, 28, etc. ; gén. épq</i>. -έος NONN. <i>D. 30, 79, etc., et</i> -ῆος, NONN. <i>D. 27, 33, etc. ; dat. épq</i>. -έϊ, NONN. <i>D. 34, 179, et</i> -ῆϊ, NONN. <i>D. 22, 67, etc. ; acc</i>. -έα, NONN. <i>D. 30, 93, etc</i>.`

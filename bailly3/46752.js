@@ -1,0 +1,1 @@
+lar[46752]=`<b>ος, ον</b>, de Théopompe : Θ. μέτρον, HÉPH. <i>13, 9,</i> le mètre de Théopompe, <i>càd</i>. 4 péons et un crétique.<p><b>Étym</b>. Θεόπομπος.`

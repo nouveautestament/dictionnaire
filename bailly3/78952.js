@@ -1,0 +1,1 @@
+lar[78952]=`<b>εως (ἡ)</b> inclinaison, APD. POL. <i>34, 41</i>.<p><b>Étym</b>. περινεύω.`

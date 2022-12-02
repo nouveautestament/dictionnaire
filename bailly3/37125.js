@@ -1,0 +1,1 @@
+lar[37125]=`<b>ἐπ·εξέρπω</b> (<i>part. prés</i>.) se glisser peu à peu, HPC. <i>378, 48</i>.`

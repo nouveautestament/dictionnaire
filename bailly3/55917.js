@@ -1,0 +1,1 @@
+lar[55917]=`<b>Κλεό·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kléostratos, <i>h</i>. XÉN. <i>Hell. 1, 3, 13</i>.<p><b>Étym</b>. κλ. στρατός.`

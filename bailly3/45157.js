@@ -1,0 +1,1 @@
+lar[45157]=`(<i>seul. prés</i>.) errer çà et là, fuir, IL. <i>2, 470 ; 13, 104</i> ; EMPÉD. <i>388 Stein</i>.<p>➳ <i>Prés. ind. 3 pl</i>. -ουσι, IL. <i>2, 470</i> ; EMPÉD. <i>l. c. ; part. fém. pl</i>. -ουσαι, IL. <i>13, 104</i>.<p><b>Étym</b>. ἀλάομαι.`

@@ -1,0 +1,1 @@
+lar[40133]=`<b>ου (ὁ)</b> <font color="purple">[ᾰσῑ]</font> Érasinidès :<br><b>      1</b> <i>général corinthien,</i> THC. <i>7, 7</i>.<br><b>      2</b> <i>général athénien,</i> XÉN. <i>Hell. 1, 5, 16</i>.<p><b>Étym</b>. Ἐρασῖνος.`

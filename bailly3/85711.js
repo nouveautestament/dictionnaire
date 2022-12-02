@@ -1,0 +1,1 @@
+lar[85711]=`<b>προσ·επιρρέω</b> <font color="darkgreen">(<i>f</i>. -ρρυήσομαι, <i>ao.2</i> προσεπερρύην, <i>etc</i>.)</font> affluer en outre, HPC. <i>461, 44</i>.`

@@ -1,0 +1,1 @@
+lar[52753]=`<b>κατ·αλοάω-οῶ</b> <font color="purple">[ᾰλ]</font> écraser sur l’aire, <i>d’où fig</i>. abîmer, rouer de coups, XÉN. <i>Cyr. 7, 1, 31</i> ; ESCHN. <i>46, 36</i> ; LUC. <i>Ic. 15</i>.`

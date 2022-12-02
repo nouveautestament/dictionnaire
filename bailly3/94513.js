@@ -1,0 +1,1 @@
+lar[94513]=`<b>συμ·ψιθυρίζω</b> <font color="purple">[ῐῠ]</font> chuchoter avec, <i>dat</i>. PLUT. <i>M. 519f</i>.`

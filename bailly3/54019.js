@@ -1,0 +1,1 @@
+lar[54019]=`<i>adv</i>., très exactement, avec grand soin, GAL. <i>12, 90</i>.<p><b>Étym</b>. κατακριβόω.`

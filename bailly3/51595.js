@@ -1,0 +1,1 @@
+lar[51595]=`<b>ιος (ἡ)</b> <i>autre n. de la mesure</i> χοῖνιξ, POLYEN <i>4, 3, 32</i>.`

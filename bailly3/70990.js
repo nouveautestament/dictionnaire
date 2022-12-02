@@ -1,0 +1,1 @@
+lar[70990]=`<b>ὀλιγη·πελής, ής, ές</b> <font color="purple">[ῐ]</font> faible, épuisé, ANTH. <i>7, 380</i>.<p><b>Étym</b>. ὀλ. πέλομαι.`

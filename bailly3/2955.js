@@ -1,0 +1,1 @@
+lar[2955]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font> sujet d’accusation, grief, ESCHL. <i>Pr. 194</i> ; THC. <i>5, 72 ; au plur</i>. ESCHL. <i>Pr. 255</i>.<p><b>Étym</b>. αἰτιάω.`

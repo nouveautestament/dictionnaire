@@ -1,0 +1,1 @@
+lar[108136]=`<b>χειρο·θεσία, ας (ἡ)</b> action de poser les mains, <i>particul</i>. de promener les doigts sur la lyre, ARTÉMON (ATH. <i>637c</i>).<p><b>Étym</b>. χ. τίθημι.`

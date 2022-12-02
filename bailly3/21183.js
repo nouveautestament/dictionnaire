@@ -1,0 +1,1 @@
+lar[21183]=`<b>ων (οἱ)</b> les Gétules, <i>habitants de la Gétulie</i> (<i>v</i>. Γαιτουλία), STR. <i>131, etc.</i> ; APP. <i>Num. 5</i> ; DC. <i>etc</i>.`

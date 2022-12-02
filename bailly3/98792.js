@@ -1,0 +1,1 @@
+lar[98792]=`<b>ου</b>, <i>épq</i>. <b>-οιο (ὁ)</b> Teukros (Teucer) :<br><b>      1</b> <i>fils de Télamôn, frère d’Ajax,</i> IL. <i>6, 31 ; 12, 336 ; 13, 91, 170, etc.</i> ; PD. <i>N. 4, 46, etc.</i> ; SOPH. <i>Aj. 342, etc.</i><br><b>      2</b> <i>autres,</i> ANTH. <i>6, 57, etc</i>.<p>➳ <i>Gén. épq</i>. Τεύκροιο, Q. SM. <i>4, 200, etc</i>.<p><b>Étym</b>. <i>inconnue</i>.`

@@ -1,0 +1,1 @@
+lar[46846]=`<i>adv</i>., avec un transport divin, PLUT. <i>M. 45f</i>.`

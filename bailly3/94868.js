@@ -1,0 +1,1 @@
+lar[94868]=`<b>συν·αποθνῄσκω</b>, mourir avec, <i>dat</i>. HDT. <i>3, 16 ; 5, 47 ; 7, 222 ; abs</i>. PLAT. <i>Phæd. 88d ; fig. en parl. de choses (maladie, désir, etc</i>.) HPC. <i>Aph. 1246</i> ; GORG. <i>5, 550 Walz</i> ; ISOCR. <i>425c ;</i> ARSTT. <i>H.A. 10, 7, 3 ; G.A. 4, 7, 3</i> ; DS. <i>15, 79</i>.`

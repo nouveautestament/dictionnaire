@@ -1,0 +1,1 @@
+lar[14559]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐ]</font> Ariadnè (Ariane), <i>fille de Minos,</i> OD. <i>11, 321</i> ; HÉS. <i>Th. 947, etc</i>.<p>➳ <i>Dor</i>. -άδνα, THCR. <i>Idyl. 2, 46</i> ; A. PL. <i>4, 146</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

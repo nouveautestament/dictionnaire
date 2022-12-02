@@ -1,0 +1,1 @@
+lar[35614]=`<b>εως (ἡ) :<br>      1</b> action d’élever, CLÉOM. <i>1, 1, 2</i>.<br><b>      2</b> action d’enlever, de détruire, SPT. <i>Jer. 12, 17</i> ; CLÉM. <i>2, 377 Migne</i>.<br><b>      3</b> départ, SPT. <i>Num. 10, 6</i>.<p><b>Étym</b>. ἐξαίρω.`

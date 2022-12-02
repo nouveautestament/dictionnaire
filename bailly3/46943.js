@@ -1,0 +1,1 @@
+lar[46943]=`<b>ου (τὸ)</b> graine de lupin, DIOSC. <i>Par. 2, 67</i>.<p><b>Étym</b>. θέρμος.`

@@ -1,0 +1,1 @@
+lar[10999]=`<b>ἄ·οζος, ου (ὁ)</b> serviteur dans un sacrifice, ESCHL. <i>Ag. 231</i>.<p><b>Étym</b>. <i>p</i>. *ἀόδιος, <i>de</i> ἀ <i>cop. et</i> ὁδός ; <i>cf</i>. ἀκόλουθος.`

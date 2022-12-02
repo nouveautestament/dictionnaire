@@ -1,0 +1,1 @@
+lar[67209]=`<b>μυρεψέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> fabriquer (<i>propr</i>. faire cuire) des parfums, ES. <i>322 b Halm</i>.<br><b>      2</b> <i>fig</i>. distiller, raffiner, NYSS. <i>1, 624a, 675d</i>.<p><b>Étym</b>. μυρεψός.`

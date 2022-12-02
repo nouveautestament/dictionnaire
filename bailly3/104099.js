@@ -1,0 +1,1 @@
+lar[104099]=`<b>ὑπο·φῆτις, ιδος (ἡ)</b> <i>fém. de</i> ὑποφήτης ATH. <i>590e ;</i> ANTH. <i>6, 46</i>.<p>➳ <i>Dor. acc</i>. ὑποφᾶτιν, ANTH. <i>l. c. ; plur. nom</i>. ὑποφάτιες <font color="purple">[ᾱ]</font> PD. <i>P. 2, 140</i>.<p><b>Étym</b>. ὑποφαύτιες <i>Bœckh,</i> ὑποφάντιες <i>Bgk</i>.`

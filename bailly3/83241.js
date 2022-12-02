@@ -1,0 +1,1 @@
+lar[83241]=`<b>ης (ἡ)</b> Praxilla, <i>femme poète de Sicyone,</i> PLUT. <i>Prov. 118</i>.<p>➳ <i>Ion</i>. Πρήξιλλα, ANTH. <i>9, 26</i>.`

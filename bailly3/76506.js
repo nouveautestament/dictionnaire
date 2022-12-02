@@ -1,0 +1,1 @@
+lar[76506]=`<b>παρδαλή·φορος, ος, ον</b> <font color="purple">[δᾰ]</font> porté par une panthère <i>ou</i> un léopard, SOPH. <i>fr. 16 Dind</i>.<p><b>Étym</b>. παρδαλῆ, φέρω.`

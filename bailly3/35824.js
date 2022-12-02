@@ -1,0 +1,1 @@
+lar[35824]=`<b>εως (ἡ)</b> action d’appuyer <i>ou</i> de s’appuyer, POL. <i>6, 23, 4</i>.<p><b>Étym</b>. ἐξερείδω.`

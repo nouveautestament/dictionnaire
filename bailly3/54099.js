@@ -1,0 +1,1 @@
+lar[54099]=`<b>οῦ (ὁ)</b> <i>c</i>. κατοίκισιςPLAT. <i>Ep. 336d, Leg. 683a ;</i> ARSTT. <i>Meteor. 1, 14, etc</i>.`

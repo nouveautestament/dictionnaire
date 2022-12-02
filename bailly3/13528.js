@@ -1,0 +1,1 @@
+lar[13528]=`<b>ατος (τὸ)</b> fragment, lambeau, M. ANT. <i>4, 29</i>.<p><b>Étym</b>. ἀποσχίζω.`

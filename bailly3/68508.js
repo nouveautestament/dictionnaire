@@ -1,0 +1,1 @@
+lar[68508]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. naval, maritime, THC. <i>2, 24 ; 3, 85</i> ; A.RH. <i>4, 239</i>.<p><b>Étym</b>. ναῦς.`

@@ -1,0 +1,1 @@
+lar[109998]=`<b>ός, όν</b>, qui évoque les ombres, CLÉARQ. (PROCL.).<p><b>Étym</b>. ψ. ἕλκω.`

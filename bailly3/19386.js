@@ -1,0 +1,1 @@
+lar[19386]=`<b>ου (ὁ)</b> Battos :<br><b>      1</b> <i>roi de Cyrène,</i> HDT. PD. <i>etc.</i><br><b>      2</b> <i>général corinthien,</i> THC.<br><b>      3</b> <i>autres,</i> THCR. PLUT. <i>etc</i>.`

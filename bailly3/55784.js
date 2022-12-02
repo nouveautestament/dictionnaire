@@ -1,0 +1,1 @@
+lar[55784]=`<b>κλαυσί·γελως, ωτος (ὁ)</b> <font color="purple">[ῐ]</font> rire mêlé de larmes, XÉN. <i>Hell. 7, 2, 9</i> ; D. PHAL. <i>28 ; au pl</i>. PLUT. <i>M. 1097f ; surn. de Phrynè,</i> APD. (ATH. <i>591c</i>).<p><b>Étym</b>. κλαίω, γέλως.`

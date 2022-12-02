@@ -1,0 +1,1 @@
+lar[15730]=`<b>ἄ·σαντος, ος, ον</b>, qu’on ne peut fléchir par des caresses, inflexible, ESCHL. <i>Ch. 422</i>.<p><b>Étym</b>. ἀ, σαίνω.`

@@ -1,0 +1,1 @@
+lar[70030]=`<b>(οἱ, αἱ, τὰ)</b> <i>n. de nombre indécl</i>. quatre-vingts, THC. <i>5, 47, etc</i>.<p>➳ <i>Par contr</i>. ὀγδώκοντα, IL. <i>2, 568, 652</i> ; HDT. <i>1, 163</i> ; THCR. <i>Idyl. 4, 34, etc</i>.<p><b>Étym</b>. ὄγδοος.`

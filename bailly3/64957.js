@@ -1,0 +1,1 @@
+lar[64957]=`<b>ή, όν</b>, apte à changer, à améliorer, DL. <i>3, 100</i>.<p><b>Étym</b>. μετασκευάζω.`

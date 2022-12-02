@@ -1,0 +1,1 @@
+lar[16250]=`<b>ἄ·στοχος, ος, ον :<br>      1</b> qui manque le but, <i>d’où, avec le gén</i>. qui n’atteint pas, PLAT. <i>Tim. 19e ;</i> ANTH. <i>9, 370</i>.<br><b>      2</b> sans but, absurde, POL. <i>5, 49</i>.<p><b>Étym</b>. ἀ, στοχάζομαι.`

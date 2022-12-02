@@ -1,0 +1,1 @@
+lar[29489]=`<b>ἐγ·κανθίς, ίδος (ἡ)</b> caroncule au coin de l’œil, <i>d’où</i> maladie de la caroncule, GAL. <i>5, 271</i> ; DIOSC. <i>Par. 1, 8</i> ; P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. ἐν, κανθός.`

@@ -1,0 +1,1 @@
+lar[77624]=`<b>ή, όν</b>, affamé, famélique, ARSTT. <i>Nic. 2, 5, 5</i>.<p>•<i> Cp</i>. -ώτερος, PLUT. <i>M. 635d</i>.<p><b>Étym</b>. πεινάω.`

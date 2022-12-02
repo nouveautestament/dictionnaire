@@ -1,0 +1,1 @@
+lar[78345]=`<b>ής, ές</b> <font color="purple">[ᾱ]</font><br><b>      1</b> entièrement brisé, ANTH. <i>6, 163</i>.<br><b>      2</b> arrondi, PLUT. <i>M. 494b ;</i> ANTH. <i>6, 204</i>.<br><b>      3</b> recourbé, convexe, PLUT. <i>M. 404c.</i><br><b>      4</b> lié derrière le dos, A. PL. <i>4, 195</i>.<p><b>Étym</b>. περιάγνυμι.`

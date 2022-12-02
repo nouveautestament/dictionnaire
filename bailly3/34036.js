@@ -1,0 +1,1 @@
+lar[34036]=`<b>ἔν·αρχος, ος, ον :<br>      1</b> qui est au pouvoir, qui est en charge, APP. <i>Civ. 1, 14</i>.<br><b>      2</b> <i>pass</i>. qui est sous l’autorité de, STOB. <i>Ecl. 2, 56</i>.<p><b>Étym</b>. ἐν, ἀρχή.`

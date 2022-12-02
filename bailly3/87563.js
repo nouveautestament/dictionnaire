@@ -1,0 +1,1 @@
+lar[87563]=`<b>Πυθιο·νίκης, ου (ὁ)</b> <font color="purple">[ῡῑ]</font> vainqueur aux jeux Pythiques, PD. <i>P. 9, 1</i> ; HDT. <i>8, 47</i>.<p>➳ <i>Dor</i>. Πυθιονίκας <font color="purple">[ᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. Πυθιονίκη.`

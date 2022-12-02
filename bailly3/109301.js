@@ -1,0 +1,1 @@
+lar[109301]=`<b>χρυσό·χειρ, -χειρος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> aux mains (chargées) d’or, <i>càd</i>. d’anneaux d’or, LUC. <i>Tim. 20</i>.<p><b>Étym</b>. χρ. χείρ.`

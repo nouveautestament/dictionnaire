@@ -1,0 +1,1 @@
+lar[100399]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> triple prostitution, ANTIPH. (ATH. <i>587b</i>).<p><b>Étym</b>. τρίπορνος.`

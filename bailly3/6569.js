@@ -1,0 +1,1 @@
+lar[6569]=`<b>ἀνα·βροντάω-ῶ</b>, faire éclater le tonnerre, TRIPHIOD. <i>118</i>.`

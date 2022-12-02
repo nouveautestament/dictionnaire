@@ -1,0 +1,1 @@
+lar[81017]=`<b>οῦ (ὁ)</b> créancier d’une masse formée de cotisations, DÉM. <i>547, 18 ; 574, 14 ; 776, 7</i>.<p><b>Étym</b>. πληρόω.`

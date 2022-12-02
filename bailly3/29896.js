@@ -1,0 +1,1 @@
+lar[29896]=`<b>ἐγ·χειροτονέω-ῶ</b> (<i>pl.q.pf. pass. 3 sg</i>. ἐνεχειροτόνητο) élire en levant la main, élire, DC. <i>41, 39</i>.<p><b>Étym</b>. ἐν, χ.`

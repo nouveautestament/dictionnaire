@@ -1,0 +1,1 @@
+lar[92498]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> en forme de couronne, EUR. <i>I.A. 1058</i>.<p><b>Étym</b>. στέφανος, -ωδης.`

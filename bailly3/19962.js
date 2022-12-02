@@ -1,0 +1,1 @@
+lar[19962]=`<i>adv</i>., faiblement, mollement, HPC. <i>671, 31</i>.`

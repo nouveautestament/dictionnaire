@@ -1,0 +1,1 @@
+lar[6586]=`<b>ἀνα·γελάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀνεγέλασα)</font> éclater de rire, XÉN. <i>Cyr. 5, 1, 5, etc.</i> ; ἐπί τινι, XÉN. <i>Cyr. 6, 1, 34,</i> au sujet de qqe ch.`

@@ -1,0 +1,1 @@
+lar[93751]=`<b>συλλαβο·μαχέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> disputer sur des syllabes, PHIL. <i>1, 526</i>.<p><b>Étym</b>. συλλαβή, μάχομαι.`

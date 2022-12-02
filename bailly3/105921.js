@@ -1,0 +1,1 @@
+lar[105921]=`<b>φίλ·ομβρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la pluie, <i>en parl. des plantes,</i> ANTH. <i>5, 144</i>.<p><b>Étym</b>. φ. ὄμβρος.`

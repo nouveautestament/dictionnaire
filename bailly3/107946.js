@@ -1,0 +1,1 @@
+lar[107946]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρῐ]</font> bonne grâce, enjouement, XÉN. <i>Cyr. 2, 2, 13</i>.<p><b>Étym</b>. χάρις.`

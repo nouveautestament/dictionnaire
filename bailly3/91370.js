@@ -1,0 +1,1 @@
+lar[91370]=`<b>σκυτο·δεψός, οῦ (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. σκυτοδέψης, PLAT. <i>Gorg. 517e ;</i> LUC. <i>V. auct. 11</i>.`

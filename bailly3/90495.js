@@ -1,0 +1,1 @@
+lar[90495]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> engraissé, <i>en parl. d’animaux,</i> EPIGEN. <i>3, 537 Meineke</i> ; POL. <i>39, 2, 7, etc. ; en parl. d’enfants,</i> XÉN. <i>An. 5, 4, 32</i>.<p><b>Étym</b>. <i>vb. de</i> σιτεύω.`

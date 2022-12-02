@@ -1,0 +1,1 @@
+lar[20595]=`<b>βραγχιο·ειδής, ής, ές</b>, semblable aux branchies des poissons, ARSTT. <i>H.A. 4, 2, 13</i>.<p><b>Étym</b>. βράγχιον, εἶδος.`

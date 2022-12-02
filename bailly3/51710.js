@@ -1,0 +1,1 @@
+lar[51710]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> chef, souverain, XÉN. <i>Hell. 1, 4, 3</i>.<p><b>Étym</b>. <i>mot perse</i>.`

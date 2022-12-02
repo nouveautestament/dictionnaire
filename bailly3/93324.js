@@ -1,0 +1,1 @@
+lar[93324]=`<b>εως (ἡ)</b> bon arrangement, PHILOD. <i>V. Herc. 1, 38, 39</i>.<p><b>Étym</b>. συγκατακοσμέω.`

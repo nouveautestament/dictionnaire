@@ -1,0 +1,1 @@
+lar[49864]=`<b>ου (ἡ)</b> Istros, <i>v. à l’embouchure du Danube,</i> ARSTT. <i>Pol. 5, 5, 2</i>.`

@@ -1,0 +1,1 @@
+lar[5703]=`<b>ου (τὸ) :<br>      1</b> vase pour le sang des sacrifices, OD. <i>3, 444</i>.<br><b>      2</b> membrane qui enveloppe le fœtus, EMPÉD. (POLL. <i>2, 223).</i><p><b>Étym</b>. ἀμνός.`

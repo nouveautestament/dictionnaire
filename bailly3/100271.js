@@ -1,0 +1,1 @@
+lar[100271]=`<b>τρί·κωλος, ος, ον</b> <font color="purple">[ῐ]</font> à trois membres ; τὸ τρίκωλον, DH. <i>Comp. 8</i> ; QUINT. <i>9, 3, 77,</i> phrase <i>ou</i> période à trois membres.<p><b>Étym</b>. τρεῖς, κῶλον.`

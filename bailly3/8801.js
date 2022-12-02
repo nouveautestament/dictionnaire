@@ -1,0 +1,1 @@
+lar[8801]=`<b>ἀνθ·εστιάω-ῶ</b> (<i>part. ao. pass</i>. ἀνθεστιαθείς) traiter <i>ou</i> régaler à son tour, PLUT. <i>Ant. 32</i> ; LUC. <i>Am. 9</i>.<p><b>Étym</b>. ἀντί, ἑ.`

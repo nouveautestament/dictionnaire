@@ -1,0 +1,1 @@
+lar[71726]=`<b>ὁμό·τρητος, ος, ον</b>, percé ensemble <i>ou</i> de la même manière, NONN. <i>Jo. 19, 18</i>.<p><b>Étym</b>. ὁμ. τρητός.`

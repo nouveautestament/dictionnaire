@@ -1,0 +1,1 @@
+lar[107385]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> φωνή, CLÉARQ. (ATH. <i>623c</i>) ; ANTH. <i>5, 132</i>.`

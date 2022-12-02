@@ -1,0 +1,1 @@
+lar[85410]=`<b>προσ·διαναγκάζω</b> <font color="purple">[ᾰν]</font> contraindre en outre, HPC. <i>Art. 792</i>.`

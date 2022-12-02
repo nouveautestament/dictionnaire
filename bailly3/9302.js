@@ -1,0 +1,1 @@
+lar[9302]=`<b>ἀν·οργάζω</b> (<i>part. pf. pass</i>. ἀνωργασμένος) masser, amollir, HPC. <i>543, 51</i>.<p><b>Étym</b>. ἀνά, ὀ.`

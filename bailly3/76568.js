@@ -1,0 +1,1 @@
+lar[76568]=`<i>inf. ao.2,</i> céder la place, céder, obéir, SOPH. <i>O.C. 1334 ; impers. c</i>. παρείκει, PLAT. <i>Soph. 254c</i>.`

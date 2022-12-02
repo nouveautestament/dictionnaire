@@ -1,0 +1,1 @@
+lar[30116]=`<i>3 sg. sbj. prés. ion. de</i> εἰμί.`

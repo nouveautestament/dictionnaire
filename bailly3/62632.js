@@ -1,0 +1,1 @@
+lar[62632]=`<b>μαλακό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰῐχ]</font> aux cheveux doux, souples, ARSTT. <i>G.A. 5, 3, 19</i>.<p><b>Étym</b>. μ. θρίξ.`

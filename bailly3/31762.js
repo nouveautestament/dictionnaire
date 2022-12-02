@@ -1,0 +1,1 @@
+lar[31762]=`<b>ατος (τὸ)</b> nourrisson, rejeton, EUR. <i>Cycl. 601</i>.<p><b>Étym</b>. ἐκπαιδεύω.`

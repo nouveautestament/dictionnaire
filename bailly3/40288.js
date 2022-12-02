@@ -1,0 +1,1 @@
+lar[40288]=`<b>ῶν (οἱ)</b> les Érembes, <i>pple arabe,</i> OD. <i>4, 84</i> ; DP. <i>180, 963</i> ; STR. <i>2, 38, etc</i>.`

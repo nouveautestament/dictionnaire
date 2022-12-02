@@ -1,0 +1,1 @@
+lar[99344]=`<b>ίδος (ἡ)</b> <font color="purple">[τῑᾱ]</font><br><b>      1</b> <i>adj. f</i>. de Titan, Titan, A.RH. <i>4, 131</i>.<br><b>      2</b> <i>subst</i>. Titanide, <i>sœur ou fille des Titans,</i> ESCHL. <i>Pr. 874, Eum. 6</i> ; EUR. <i>Hel. 382, etc</i>.<p>➳ <i>Ion</i>. Τιτηνίς, A.RH. <i>l. c. etc</i>.<p><b>Étym</b>. Τιτάν.`

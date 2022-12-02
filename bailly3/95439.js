@@ -1,0 +1,1 @@
+lar[95439]=`<b>συν·εκφωνέω-ῶ :<br>      1</b> prononcer ensemble, LGN <i>38, 3</i>.<br><b>      2</b> s’écrier en même temps, A. TAT. <i>1, 12</i>.`

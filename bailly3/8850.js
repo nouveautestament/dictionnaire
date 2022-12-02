@@ -1,0 +1,1 @@
+lar[8850]=`<b>ἀνθο·βαφεύς, έως (ὁ)</b> <font color="purple">[βᾰ]</font> teinturier en couleurs variées, BAS. <i>2, 55</i>.<p><b>Étym</b>. ἄνθος, βάπτω.`

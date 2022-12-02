@@ -1,0 +1,1 @@
+lar[51752]=`<b>καρδιό·δηκτος, ος, ον</b>, qui mord <i>ou</i> ronge le cœur, ESCHL. <i>Ag. 1471</i>.<p><b>Étym</b>. κ. δάκνω.`

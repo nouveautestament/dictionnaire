@@ -1,0 +1,1 @@
+lar[43843]=`<b>εὔ·χωρος, ος, ον</b>, spacieux, PTOL. <i>de Jud. fac. p. 26</i>.<p><b>Étym</b>. εὖ, χώρα.`

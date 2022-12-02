@@ -1,0 +1,1 @@
+lar[65681]=`<b>ά, όν</b>, <i>dor. et béot. c</i>. μικρός, AR. <i>Ach. 909</i> ; CALL. <i>Cer. 110, fr. 179 ; adv</i>. μικκόν, THCR. <i>Idyl. 5, 66,</i> un peu.`

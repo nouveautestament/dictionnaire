@@ -1,0 +1,1 @@
+lar[21731]=`<b>ῆς (ἡ)</b> gentiane, <i>plante,</i> DIOSC. <i>3, 3</i>.<p>➳ <font color="purple">[ᾱ]</font> DAMOCR. (GAL. <i>13, 789, 894, 900, 926), mais</i> <font color="purple">[ᾰ]</font> <i>ibid. 902</i>.`

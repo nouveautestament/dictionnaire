@@ -1,0 +1,1 @@
+lar[76904]=`<b>ας (ἡ)</b> immolation d’une jeune fille, PLUT. <i>M. 314c</i>.<p><b>Étym</b>. παρθενοκτόνος.`

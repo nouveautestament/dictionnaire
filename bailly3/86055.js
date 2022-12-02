@@ -1,0 +1,1 @@
+lar[86055]=`<b>προσ·κορής, ής, ές :<br>      1</b> <i>act</i>. qui rassasie, qui cause la satiété, LUC. <i>D. mort. 26, 2</i>.<br><b>      2</b> <i>pass</i>. rassasié, dégoûté, HLD. <i>3, 4</i>.<p><b>Étym</b>. π. κόρος.`

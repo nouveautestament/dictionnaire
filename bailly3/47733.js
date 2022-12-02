@@ -1,0 +1,1 @@
+lar[47733]=`<i>gén</i>. <b>θριπός (ὁ)</b> <font color="purple">[ῑπ]</font> ver qui ronge le bois, TH. <i>H.P. 5, 4, 4</i> ; ANTH. <i>12, 190</i>.<p><b>Étym</b>. θρίβω.`

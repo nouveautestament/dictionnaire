@@ -1,0 +1,1 @@
+lar[3383]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font> absence de danger, GAL. <i>9, 491</i>.<p><b>Étym</b>. ἀκίνδυνος.`

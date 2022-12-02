@@ -1,0 +1,1 @@
+lar[21648]=`<b>ας (ἡ)</b> <font color="purple">[ᾱλ]</font> horoscope, JOS. <i>A.J. 18, 6, 9</i> ; SEXT. ORIG. <i>etc</i>.<p><b>Étym</b>. γενεθλιαλόγος.`

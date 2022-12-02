@@ -1,0 +1,1 @@
+lar[22027]=`<b>γλαάω</b> <font color="purple">[ᾰγ]</font> (<i>seul. part. prés. ion</i>. γλαγόων) être laiteux, ANTH. <i>9, 384, 23</i>.<p><b>Étym</b>. γλάγος.`

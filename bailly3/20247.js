@@ -1,0 +1,1 @@
+lar[20247]=`<b>υος (ὁ)</b> <i>seul. plur</i>. βόρυες, animal inconnu de Libye, HDT. <i>4, 192. Cf</i>. ὄρυς.`

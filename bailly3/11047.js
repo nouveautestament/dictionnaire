@@ -1,0 +1,1 @@
+lar[11047]=`<i>adv. c</i>. ἀορίστως DYSC. <i>Synt. p. 69, 5, etc</i>.`

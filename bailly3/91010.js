@@ -1,0 +1,1 @@
+lar[91010]=`<b>ή, όν</b>, de couleur sombre, M. RUBR. <i>p. 13</i>.<p><b>Étym</b>. σκιά.`

@@ -1,0 +1,1 @@
+lar[44460]=`<b>ζευγηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> conduire un attelage de chevaux <i>ou</i> de bœufs, XÉN. <i>An. 6, 1, 8</i>.<p><b>Étym</b>. ζευγηλάτης.`

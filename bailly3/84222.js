@@ -1,0 +1,1 @@
+lar[84222]=`<b>προ·επᾴδω</b>, chanter auparavant un chant sur, <i>dat</i>. ORIG. <i>1, 988 Migne</i>.`

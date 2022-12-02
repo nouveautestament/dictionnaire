@@ -1,0 +1,1 @@
+lar[74511]=`<b>Παλι·κάμπης (ὁ)</b> <i>ou</i> <b>Παλι·κάμπη (ἡ)</b> <font color="purple">[ᾰῐ]</font> Palikampès, <i>h. ou</i> Palikampè, <i>f</i>. ANTH. <i>11, 107</i>.<p><b>Étym</b>. π. κάμπτω.`

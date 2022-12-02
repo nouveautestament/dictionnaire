@@ -1,0 +1,1 @@
+lar[68814]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Nisa, <i>v. de Béotie,</i> IL. <i>2, 508</i>.`

@@ -1,0 +1,1 @@
+lar[13327]=`<b>ἀπό·σκληρος, ος, ον</b>, tout à fait dur, MYIA <i>Ep. 12, p. 608, Pythagoreorum epistulæ, Herscher</i>.<p><b>Étym</b>. ἀ. σκληρός.`

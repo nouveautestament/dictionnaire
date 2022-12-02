@@ -1,0 +1,1 @@
+lar[82820]=`<b>πορνο·τρόφος, ος, ον</b>, qui entretient des prostituées, PHIL. <i>1, 550</i>.<p><b>Étym</b>. π. τρέφω, <i>cf</i>. πορνοβοσκός.`

@@ -1,0 +1,1 @@
+lar[48514]=`<i>interj. terme d’invocation,</i> TIMOTH.<p><b>Étym</b>. ἵημι.`

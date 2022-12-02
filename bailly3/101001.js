@@ -1,0 +1,1 @@
+lar[101001]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> callosité, GAL. <i>2, 389, 390</i> ; P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. τυλόω.`

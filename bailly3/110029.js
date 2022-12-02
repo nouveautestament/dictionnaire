@@ -1,0 +1,1 @@
+lar[110029]=`<b>ψυχρό·σαρκος, ος, ον</b>, qui a les chairs froides, HPC. <i>1180g</i>.<p><b>Étym</b>. ψ. σάρξ.`

@@ -1,0 +1,1 @@
+lar[67185]=`<b>μυο·πάρων, ωνος (ὁ)</b> vaisseau léger de pirate, brigantin, PLUT. <i>Luc. 2</i> ; APP. <i>Mithr. 92</i>.<p><b>Étym</b>. μῦς, παρών.`

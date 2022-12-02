@@ -1,0 +1,1 @@
+lar[45213]=`<font color="purple">[ῐκ]</font> être dans la force de l’âge, HERM. (STOB. <i>Ecl. 1, 1098).</i><p><b>Étym</b>. ἡλικία.`

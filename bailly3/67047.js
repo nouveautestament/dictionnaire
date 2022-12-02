@@ -1,0 +1,1 @@
+lar[67047]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> récit fabuleux, PLAT. <i>Leg. 663e, Phædr. 229c ;</i> PLUT. <i>Thes. 14</i> ; LUC. <i>Philops. 37</i>.<p><b>Étym</b>. μυθολογέω.`

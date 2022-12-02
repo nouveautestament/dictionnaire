@@ -1,0 +1,1 @@
+lar[29205]=`<b>ου (ὁ)</b> Dôsiadès :<br><b>      1</b> <i>historien,</i> ATH. <i>143a, 264a.</i><br><b>      2</b> <i>poète,</i> LUC. <i>Lex. 25</i> ; ANTH. <i>15, 25 et 26</i>.`

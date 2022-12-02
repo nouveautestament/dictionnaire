@@ -1,0 +1,1 @@
+lar[77333]=`<b>ου (ἡ)</b> Patmos (<i>auj</i>. Pátmos) <i>une des Sporades,</i> THC. <i>3, 33, etc</i>.`

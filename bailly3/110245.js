@@ -1,0 +1,1 @@
+lar[110245]=`<b>ὠμή·λυσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> farine d’orge non grillée, <i>p. ext</i>. farine, HPC. <i>471, 19 ; 570, 4, etc.</i> ; GAL. <i>Lex. Hipp. 19, 156 v°</i> ὠμήλυσις : κατὰ τόπ. <i>6, 3</i> ; DIOSC. <i>2 (cf</i>. ὠμὴ λύσις, DIOSC. <i>3, 29, m. sign. v</i>. ὠμός).`

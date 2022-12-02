@@ -1,0 +1,1 @@
+lar[1530]=`<b>ἀ·δρέπανος, ος, ον</b> <font color="purple">[ᾰν]</font> non touché par la faux, SOPH. <i>fr. 804</i>.<p><b>Étym</b>. ἀ, δρέπανον.`

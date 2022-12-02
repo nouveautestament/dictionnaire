@@ -1,0 +1,1 @@
+lar[2608]=`<b>αἱμο·ρυγχιάω-ῶ</b>, avoir le bec sanglant, HERMIPP. <i>fr. 79</i>.<p><b>Étym</b>. αἷμα, ῥύγχος.`

@@ -1,0 +1,1 @@
+lar[26454]=`<b>δι·ϊχνεύω</b>, suivre à la piste, scruter avec soin, OPP. <i>H. 3, 37</i> ; POL. <i>4, 68, 3</i>.`

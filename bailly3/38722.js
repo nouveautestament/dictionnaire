@@ -1,0 +1,1 @@
+lar[38722]=`<b>εως (ἡ)</b> action de remplir par-dessus, GAL. <i>4, 471</i>.<p><b>Étym</b>. ἐπιπληρόω.`

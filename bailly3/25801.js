@@ -1,0 +1,1 @@
+lar[25801]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à donner une forme, THEOL. <i>34, 24</i>.`

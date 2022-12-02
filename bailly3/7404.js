@@ -1,0 +1,1 @@
+lar[7404]=`<b>ή, όν</b>, propre à combler (un vide) DIOSC. <i>5, 4</i>.<p><b>Étym</b>. ἀναπλήρωμα.`

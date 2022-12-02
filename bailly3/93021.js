@@ -1,0 +1,1 @@
+lar[93021]=`<b>στροφόω-ῶ</b>, tourner, tordre, <i>d’où au pass</i>. avoir des coliques, ARR. <i>Epict. 4, 9, 4</i> ; DIOSC. <i>1, 30</i>.<p><b>Étym</b>. στρόφος.`

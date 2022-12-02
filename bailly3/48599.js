@@ -1,0 +1,1 @@
+lar[48599]=`<b>ἱερό·ληπτος, ος, ον</b>, saisi d’un transport sacré, MAN. <i>4, 227</i>.<p><b>Étym</b>. ἱ. ληπτός.`

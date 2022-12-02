@@ -1,0 +1,1 @@
+lar[26191]=`<b>δι·ενεργέω-ῶ</b>, agir fortement, CRITON (STOB. <i>Fl. 44, 12</i>) ; JAMBL. <i>Protr. 164</i>.`

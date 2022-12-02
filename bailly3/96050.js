@@ -1,0 +1,1 @@
+lar[96050]=`<b>συν·νεκρόω-ῶ</b>, mortifier ensemble, NAZ. <i>1, 397 ; 3, 213 Migne</i>.`

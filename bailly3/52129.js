@@ -1,0 +1,1 @@
+lar[52129]=`<b>ου (ὁ)</b> <font color="purple">[βᾰ]</font> <i>propr</i>. qui descend, guerrier qui combat sur son char <i>ou</i> à pied, <i>selon le besoin,</i> PLAT. <i>Criti. 119b</i>.<p><b>Étym</b>. καταβαίνω, <i>v</i>. καταιβάτης.`

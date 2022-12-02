@@ -1,0 +1,1 @@
+lar[80469]=`<b>ή, όν :<br>      1</b> confiant, crédule, ARSTT. <i>Rhet. 1, 12, 19</i> ; τὸ πιστευτικόν, M. ANT. <i>1, 14</i>, la confiance.<br><b>      2</b> qui inspire créance, PLAT. <i>Gorg. 455a</i>.<p><b>Étym</b>. πιστευτός.`

@@ -1,0 +1,1 @@
+lar[78413]=`<b>ας (ἡ)</b> lumière répandue tout autour, CLÉM. <i>680</i>.<p><b>Étym</b>. περιαυγής.`

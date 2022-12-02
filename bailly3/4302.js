@@ -1,0 +1,1 @@
+lar[4302]=`<font color="purple">[ᾰ]</font><br><b>      1</b> moudre, OD. <i>7, 104</i>.<br><b>      2</b> écraser, <i>en gén</i>. A.RH. <i>4, 1094</i> ; LYC. <i>159</i>.<p><b>Étym</b>. ἀλέω.`

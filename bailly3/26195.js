@@ -1,0 +1,1 @@
+lar[26195]=`<b>δι·ενιαυτίζω</b> (<i>inf. prés</i>.) vivre une année entière, HDT. <i>4, 7</i>.<p><b>Étym</b>. διά, ἐνιαυτός.`

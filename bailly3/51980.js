@@ -1,0 +1,1 @@
+lar[51980]=`<b>καρυκοποιέω-ῶ</b> <font color="purple">[ᾰῡ]</font> faire un civet, un ragoût, AR. <i>Eq. 343</i>.<p><b>Étym</b>. καρυκοποιός.`

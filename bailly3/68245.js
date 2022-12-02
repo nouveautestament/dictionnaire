@@ -1,0 +1,1 @@
+lar[68245]=`<i>att</i>. <b>νεόττευσις, εως (ἡ)</b> action de faire son nid, ARSTT. <i>H.A. 6, 1, 6</i>.<p><b>Étym</b>. νεοττεύω.`

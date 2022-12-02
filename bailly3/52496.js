@@ -1,0 +1,1 @@
+lar[52496]=`<b>ου (ὁ)</b> celui qui brûle (les morts <i>ou</i> les victimes d’un sacrifice) <i>chez les Crétois,</i> PLUT. <i>M. 296b</i>.<p><b>Étym</b>. κατακαίω.`

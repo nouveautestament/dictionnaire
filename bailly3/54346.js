@@ -1,0 +1,1 @@
+lar[54346]=`<b>ου (τὸ)</b> fer rouge <i>ou</i> brûlant pour cautériser, LUC. <i>Apol. 2 ; fig</i>. DS. <i>20, 54</i>.<p><b>Étym</b>. καίω.`

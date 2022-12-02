@@ -1,0 +1,1 @@
+lar[51408]=`<b>καμηλο·πάρδαλις, εως (ἡ)</b> <font color="purple">[κᾰδᾰ]</font> girafe (<i>propr</i>. chameau tacheté comme un léopard) DS. <i>2, 51</i> ; ATH. <i>201c ;</i> HLD. <i>10, 27, etc</i>.<p><b>Étym</b>. κ. πάρδαλις.`

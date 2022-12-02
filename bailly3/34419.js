@@ -1,0 +1,1 @@
+lar[34419]=`<b>ἐν·ευστομέω-ῶ</b>, chanter mélodieusement dans, <i>dat</i>. PHILSTR. <i>870</i>.`

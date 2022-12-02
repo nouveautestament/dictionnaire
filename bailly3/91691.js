@@ -1,0 +1,1 @@
+lar[91691]=`<b>όνος (ἡ)</b> <font color="purple">[ᾰ]</font> tiraillement, spasme, HPC. <i>451, 28, etc</i>.<p>➳ <i>Dat. pl. épq</i>. σπαδόνεσσιν, NIC. <i>Al. 317</i>.<p><b>Étym</b>. σπάω.`

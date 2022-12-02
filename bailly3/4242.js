@@ -1,0 +1,1 @@
+lar[4242]=`<b>ἀλεξ·άνεμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui préserve du vent, OD. <i>14, 529</i> ; PHIL. <i>1, 666</i> ; ALCIPHR. <i>3, 41</i>.<p><b>Étym</b>. ἀλέξω, ἄνεμος.`

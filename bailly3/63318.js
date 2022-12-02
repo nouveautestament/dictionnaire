@@ -1,0 +1,1 @@
+lar[63318]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> grandeur, magnificence, ATH. <i>130f ;</i> SPT. <i>Jer. 33, 9</i> ; NT. <i>Luc. 9, 43</i>.<p><b>Étym</b>. μεγαλεῖος.`

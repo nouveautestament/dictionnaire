@@ -1,0 +1,1 @@
+lar[57536]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κράμβη, ANTIPH. (POLL. <i>6, 54</i>).`

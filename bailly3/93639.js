@@ -1,0 +1,1 @@
+lar[93639]=`<b>ή, όν</b> <font color="purple">[χῠ]</font> propre à confondre, à troubler, PLUT. <i>M. 948d</i>.<p><b>Étym</b>. συγχέω.`

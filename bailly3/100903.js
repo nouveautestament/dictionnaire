@@ -1,0 +1,1 @@
+lar[100903]=`<i>seul. dans</i> φωνὰ τρύχνα, THCR. <i>Idyl. 10, 37,</i> voix mélodieuse <i>ou</i> sonore ; <i>sel. d’autres, mais peu vraisembl. c</i>. στρύχνος.`

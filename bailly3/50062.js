@@ -1,0 +1,1 @@
+lar[50062]=`<b>ἰχθυο·λογέω-ῶ</b>, disserter sur les poissons, s’occuper d’ichthyologie, ATH. <i>308d</i>.<p><b>Étym</b>. ἰ. λόγος.`

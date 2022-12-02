@@ -1,0 +1,1 @@
+lar[79777]=`<b>ή, όν</b>, qui concerne la prise d’une ville, ATHÉNÉE MÉC. <i>5, 12 dout</i>.<p><b>Étym</b>. πέρσις.`

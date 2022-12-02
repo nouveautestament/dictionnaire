@@ -1,0 +1,1 @@
+lar[97209]=`<b>ου (ὁ)</b> Sôpæos, <i>h</i>. ISOCR. <i>17, 3 Baiter-Sauppe</i>.`

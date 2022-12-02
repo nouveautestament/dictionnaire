@@ -1,0 +1,1 @@
+lar[53061]=`<b>κατα·πιαίνω</b> <font color="darkgreen">(<i>ao. pass</i>. κατεπιάνθην, <i>pf</i>. καταπεπίασμαι)</font> <font color="purple">[ῑ]</font> rendre très gras, engraisser, PLAT. <i>Leg. 807a ;</i> EL. <i>V.H. 9, 13</i>.`

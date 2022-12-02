@@ -1,0 +1,1 @@
+lar[63218]=`<b>μαχαιρο·μαχέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> combattre avec le sabre, POL. <i>10, 20, 3</i>.<p><b>Étym</b>. μάχαιρα, μάχη.`

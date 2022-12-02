@@ -1,0 +1,1 @@
+lar[99845]=`<font color="purple">[ᾰ]</font><br><b>      1</b> sentir le bouc, DIOSC. <i>1, 12</i>.<br><b>      2</b> muer de voix, entrer dans la puberté, HPC. <i>1175g ;</i> ARSTT. <i>H.A. 7, 1, 3, etc</i>.<p><b>Étym</b>. τράγος.`

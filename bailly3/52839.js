@@ -1,0 +1,1 @@
+lar[52839]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> indication, dénonciation, révélation, HIM. <i>Ecl. p. 110, 6</i>.<p><b>Étym</b>. καταμηνύω.`

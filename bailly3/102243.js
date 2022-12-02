@@ -1,0 +1,1 @@
+lar[102243]=`<b>ὑπερ·αισχύνομαι</b>, être extrêmement confus : ἐπί τινι, ESCHN. <i>5, 21,</i> de qqe ch. ; μή, ESCHN. <i>75, 9,</i> être tout à fait troublé de la crainte que, <i>etc. ; avec un part</i>. DROM. <i>5, 741 Meineke</i>.`

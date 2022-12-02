@@ -1,0 +1,1 @@
+lar[73512]=`<b>ου (ὁ)</b> = <i>lat</i>. Vibius, <i>n. d’h. rom</i>. PLUT. <i>Crass. 4, etc</i>.`

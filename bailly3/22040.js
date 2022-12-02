@@ -1,0 +1,1 @@
+lar[22040]=`<b>ακός (ἡ)</b> plante à suc laiteux, EM. <i>232, 38</i> ; Ps.-ZONAR. <i>439</i> ; ARC. <i>125, 5 ; par correct. p</i>. γλαύξ, DIOSC. <i>4, 141</i> ; GAL. <i>13, 166</i>.<p><i>cf</i>. γλαύξ III.`

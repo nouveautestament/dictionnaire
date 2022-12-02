@@ -1,0 +1,1 @@
+lar[104515]=`<b>ὑψί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font><br><b>      1</b> aux sentiments élevés : τὸ ὑψίνουν, NAZ. l’élévation de l’âme.<br><b>      2</b> orgueilleux, NONN. <i>D. 9, 207 ; 48, 458 ; Jo. 8, 59</i>.<p><b>Étym</b>. ὕ. νόος.`

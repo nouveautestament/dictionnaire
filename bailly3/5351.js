@@ -1,0 +1,1 @@
+lar[5351]=`<b>ἀμβλ·ωθρίδιος, ος, ον</b> <font color="purple">[ῐδ]</font><br><b>      1</b> <i>act</i>. qui fait avorter, ARÉT. <i>Caus. m. acut. 2, 11</i>.<br><b>      2</b> <i>pass</i>. τὸ ἀμβλωθρίδιον, avorton, PHIL. <i>1, 59</i>.<p><b>Étym</b>. ἀ. ὠθέω.`

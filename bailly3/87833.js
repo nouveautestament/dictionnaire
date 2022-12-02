@@ -1,0 +1,1 @@
+lar[87833]=`<b>πυρη·τόκος, ος, ον</b> <font color="purple">[ῠ]</font> qui engendre <i>ou</i> fait jaillir du feu, ANTH. <i>6, 90</i>.<p><b>Étym</b>. πῦρ, τίκτω.`

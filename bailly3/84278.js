@@ -1,0 +1,1 @@
+lar[84278]=`<b>προ·ετοιμάζω</b> <font color="darkgreen">(<i>f</i>. -ετοιμάσω, <i>ao</i>. -ητοίμασα)</font> préparer <i>ou</i> tenir prêt d’avance, PLUT. <i>M. 230e, etc.</i><br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. ion. sans augm</i>. προετοιμαζόμην, <i>ao. ion</i>. προετοιμασάμην)</font> <i>m. sign. acc</i>. HDT. <i>7, 21 ; 8, 24</i>.`

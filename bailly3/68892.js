@@ -1,0 +1,1 @@
+lar[68892]=`<b>*Νομαία, ας</b>, <i>ion</i>. <b>Νομαίη, ης (ἡ)</b> Nomæa, <i>propr</i>. « la pastoure », <i>n. de chevrière,</i> THCR. <i>Idyl. 27, 40</i>.<p><b>Étym</b>. νομή.`

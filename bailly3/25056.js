@@ -1,0 +1,1 @@
+lar[25056]=`<b>δια·μικρολογέομαι-οῦμαι</b> <font color="purple">[μῑ]</font> <font color="darkgreen">(<i>impf. 3 sg</i>. διεμικρολογεῖτο)</font> opposer de petites raisons : πρός τινα, PLUT. <i>Sol. 30</i>, à qqn, <i>càd</i>. chicaner qqn.`

@@ -1,0 +1,1 @@
+lar[36991]=`<b>ἐπ·εισκυκλέω-ῶ</b> <font color="purple">[ῠ]</font> <font color="darkgreen">(<i>ao. pass</i>. ἐπεισεκυκλήθην)</font> faire rouler <i>ou</i> faire glisser l’un après l’autre dans, LUC. <i>H. conscr. 13 ; au pass</i>. LUC. <i>C. deor. 9</i> ; ἄλλ' ἐπ' ἄλλοις, LGN <i>22, 4,</i> des choses les unes après les autres.`

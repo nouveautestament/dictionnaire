@@ -1,0 +1,1 @@
+lar[9317]=`<b>ἀν·ορμάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀνώρμησα)</font> s’élancer, HSCH.<br><b><i>Moy.</i></b> <i>m. sign.</i> : ἀν. στόλον, OPP. <i>H. 3, 105,</i> se préparer avec ardeur à une expédition.`

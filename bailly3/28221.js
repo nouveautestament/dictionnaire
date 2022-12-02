@@ -1,0 +1,1 @@
+lar[28221]=`<b>δυσ·απόπτωτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui tombe <i>ou</i> qui s’échappe difficilement, TH. <i>H.P. 1, 11, 8</i>.<p><b>Étym</b>. δ. ἀποπίπτω.`

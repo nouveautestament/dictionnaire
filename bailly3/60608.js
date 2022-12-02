@@ -1,0 +1,1 @@
+lar[60608]=`<b>ου (ὁ)</b> Leukos :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>compagnon d’Ulysse,</i> IL. <i>4, 491</i>.<br><b>      2</b> <i>tyran de Crète,</i> LYC. <i>1218</i>.<br><b>   II</b> <i>fl. de Macédoine,</i> PLUT. <i>Æmil. 16 et 21</i>.`

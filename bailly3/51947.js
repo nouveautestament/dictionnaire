@@ -1,0 +1,1 @@
+lar[51947]=`<b>καρτερό·χειρ</b>, <i>gén</i>. <b>-χειρος (ὁ, ἡ)</b> aux fortes mains, aux mains puissantes, HH. <i>7, 3</i>.<p><b>Étym</b>. κ. χείρ.`

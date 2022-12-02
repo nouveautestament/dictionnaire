@@ -1,0 +1,1 @@
+lar[36059]=`<b>ἐξ·οδεύω :<br>      1 <i>intr.</i></b> se mettre en route, POL. <i>5, 95, 6, etc.</i> ; DS. <i>19, 63 ; etc.</i> ; SPT. <i>1Esdr. 4, 23 ; 1 Macc. 15, 41 ; 2, 12, 19 ; etc.</i><br><b>      2 <i>tr.</i></b> faire mourir, <i>d’où au pass</i>. mourir, SPT. <i>Jud. 5, 27</i> ; NYSS. <i>2, 232c Migne</i>.`

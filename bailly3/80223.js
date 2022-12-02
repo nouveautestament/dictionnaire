@@ -1,0 +1,1 @@
+lar[80223]=`<b>ας (ἡ)</b> <font color="purple">[πῐ]</font> l’art de persuader, de rendre vraisemblable, THÉM. <i>Or. 26, 330a</i>.<p><b>Étym</b>. πιθανουργός.`

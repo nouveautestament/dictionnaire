@@ -1,0 +1,1 @@
+lar[79806]=`<b>ή, όν</b> <font color="purple">[ῠῐ]</font> de l’année précédente, <i>en parl. de pers</i>. PLAT. <i>Leg. 855c ; d’animaux,</i> ARSTT. <i>H.A. 9, 41, 9, etc. ; de choses (fruits, vin, etc</i>.) AR. <i>Ran. 986</i> ; TH. <i>H.P. 3, 12, 4</i> ; EL. <i>N.A. 7, 47, etc</i>.<p><b>Étym</b>. πέρυσι.`

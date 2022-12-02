@@ -1,0 +1,1 @@
+lar[86144]=`<b>προσ·μοιράζω</b>, donner en partage, HERMÈS (STOB. <i>Ecl. phys. 1, 956).</i><p><b>Étym</b>. π. μοῖρα.`

@@ -1,0 +1,1 @@
+lar[55517]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> qu’on peut mouvoir, mobile, PLAT. <i>Tim. 58d ;</i> ARSTT. <i>Nic. 5, 7</i> ; τὸ κινητόν, PLUT. <i>M. 1012e, 1024d</i>, ce qu’on peut mouvoir.<p>➳ <i>Fém</i>. κινητός, PLAT. <i>Tim. 37d</i>.<p><b>Étym</b>. <i>vb. de</i> κινέω.`

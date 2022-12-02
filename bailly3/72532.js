@@ -1,0 +1,1 @@
+lar[72532]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> actif, industrieux, EUR. <i>Andr. 1015</i>.<p><b>Étym</b>. <i>cf</i>. ὄργανον.`

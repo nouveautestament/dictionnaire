@@ -1,0 +1,1 @@
+lar[75367]=`<b>      1</b> <i>p</i>. παρά, <i>quand le régime précède, v</i>. παρά.<br><b>      2</b> <i>p</i>. πάρεστι : οὐδ' ὁ κωλύσων πάρα, SOPH. <i>El. 1197,</i> et il n’y avait personne pour l’empêcher ; <i>cf</i>. ESCHL. <i>Pers. 163, Eum. 385, Sept. 786</i> ; SOPH. <i>O.R. 1236, El. 278, 778</i>.`

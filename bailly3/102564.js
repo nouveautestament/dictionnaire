@@ -1,0 +1,1 @@
+lar[102564]=`<b>ὑπερ·ισθμίζω</b>, transporter par-dessus un isthme, POL. <i>5, 101, 4, etc</i>.<p><b>Étym</b>. ὑ. ἰσθμός.`

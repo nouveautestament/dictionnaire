@@ -1,0 +1,1 @@
+lar[109603]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> <i>c</i>. ψιθυρός, ESCHL. <i>Suppl. 1042</i>.`

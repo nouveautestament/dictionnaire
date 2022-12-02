@@ -1,0 +1,1 @@
+lar[56187]=`<b>ων (αἱ)</b> les Fileuses, <i>divinités qui filent la trame de la vie des hommes,</i> OD. <i>7, 197</i>.<p><b>Étym</b>. κλώθω.`

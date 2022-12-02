@@ -1,0 +1,1 @@
+lar[76447]=`<b>παρα·φυτεύω</b> <font color="purple">[ῠ]</font> planter auprès, PLUT. <i>M. 648a</i>.`

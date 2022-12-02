@@ -1,0 +1,1 @@
+lar[60840]=`<i>adv</i>., en prenant, NYSS. <i>2, 24a</i>.`

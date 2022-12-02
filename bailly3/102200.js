@@ -1,0 +1,1 @@
+lar[102200]=`<b>ὑπ·εξάπτω</b>, allumer en dessous <i>ou</i> peu à peu, EL. <i>N.A. 14, 20, etc. ; fig. au pass</i>. EL. <i>V.H. 14, 41</i>.`

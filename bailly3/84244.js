@@ -1,0 +1,1 @@
+lar[84244]=`<b>προ·επιπάσσω</b>, saupoudrer auparavant, A. TR. <i>12, 777</i>.`

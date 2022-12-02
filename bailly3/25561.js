@@ -1,0 +1,1 @@
+lar[25561]=`<b>δια·σκώπτω</b>, railler, <i>acc</i>. PLUT. <i>M. 82b</i> (<i>part. prés.) ; au pass</i>. être échangé sous forme de railleries, de plaisanteries, <i>en parl. de propos,</i> XÉN. <i>Cyr. 8, 4, 23</i>.<p><b>Étym</b>. <i>impf. 3 sg</i>. διεσκώπτετο ; <i>var</i>. διεσκώπτοντο <i>au sens moy</i>.`

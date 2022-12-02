@@ -1,0 +1,1 @@
+lar[87315]=`frapper avec le talon, <i>d’où</i> :<br><b>      1</b> ruer, HIPPIATR. <i>p. 141, 28</i>.<br><b>      2</b> <i>fig</i>. fouler aux pieds, supplanter, duper, SPT. <i>Gen. 27, 36, etc.</i> ; PHIL. <i>1, 125</i>.<p><b>Étym</b>. πτέρνα.`

@@ -1,0 +1,1 @@
+lar[74606]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en se retournant, en changeant, POL. <i>Exc. 9, 45, 6</i>.`

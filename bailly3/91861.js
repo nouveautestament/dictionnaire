@@ -1,0 +1,1 @@
+lar[91861]=`<b>ή, όν</b>, de parasite, de bouffon, PLUT. <i>M. 664a</i>.<p><b>Étym</b>. σπερμολόγος.`

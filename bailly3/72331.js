@@ -1,0 +1,1 @@
+lar[72331]=`<b>ὁπλιτα·γωγός, ός, όν</b> <font color="purple">[ῑ]</font> qui transporte des hoplites, THC. <i>6, 25</i>.<p><b>Étym</b>. ὁπλίτης, ἄγω.`

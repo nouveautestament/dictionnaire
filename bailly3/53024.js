@@ -1,0 +1,1 @@
+lar[53024]=`<b>κατα·πείρω</b> <font color="darkgreen">(<i>f</i>. -περῶ, <i>ao.2 pass</i>. κατεπάρην) :</font><br><b>      1</b> traverser, percer, HLD. <i>10, 32</i> ; PHALAR. <i>Ep. 13, p. 76</i>.<br><b>      2</b> fixer à travers, <i>d’où au pass</i>. se fixer à travers, P. ÉG. <i>6, 31</i>.`

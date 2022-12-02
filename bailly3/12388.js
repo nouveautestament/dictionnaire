@@ -1,0 +1,1 @@
+lar[12388]=`<b>ἀπο·θεόω-εῶ</b>, diviniser, POL. <i>12, 23, 4</i> ; DS. <i>3, 57</i> ; PLUT. <i>Num. 6, etc</i>.<p><b>Étym</b>. ἀπό, θεός.`

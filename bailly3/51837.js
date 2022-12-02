@@ -1,0 +1,1 @@
+lar[51837]=`<b>ων (τὰ)</b> fêtes d’Apollon Karneios, HDT. <i>7, 206 ; 8, 72</i> ; THC. <i>5, 75</i> ; PLUT. <i>M. 727d</i>.<p><b>Étym</b>. <i>v</i>. Καρνεῖος.`

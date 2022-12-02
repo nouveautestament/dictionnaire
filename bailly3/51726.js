@@ -1,0 +1,1 @@
+lar[51726]=`<b>ης (ἡ)</b> <font color="purple">[δᾰᾰ]</font> sorte de pain assaisonné de cresson, <i>chez les Perses,</i> ATH. <i>114f</i>.<p><b>Étym</b>. κάρδαμον.`

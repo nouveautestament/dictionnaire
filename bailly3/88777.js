@@ -1,0 +1,1 @@
+lar[88777]=`<b>ου (ὁ)</b> Rhombos, <i>anc. n. de l’Hèbre, fl. de Thrace,</i> Ps.-PLUT. <i>Fluv. 3, 1</i>.<p><b>Étym</b>. <i>v</i>. ῥόμβος.`

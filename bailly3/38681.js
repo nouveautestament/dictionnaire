@@ -1,0 +1,1 @@
+lar[38681]=`<b>ἐπι·πικρόω-ῶ</b>, rendre tout à fait amer, EMPÉD. (DL. <i>8, 76</i>).`

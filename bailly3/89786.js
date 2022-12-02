@@ -1,0 +1,1 @@
+lar[89786]=`<b>σεμνο·κομπέω-ῶ</b>, parler avec emphase, ESCHL. <i>fr. 120 Nauck</i>.<p><b>Étym</b>. σ. κόμπος.`

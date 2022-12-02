@@ -1,0 +1,1 @@
+lar[47445]=`<i>c</i>. θαάσσω, s’asseoir, être assis, ESCHL. <i>Suppl. 595</i> ; SOPH. <i>O.R. 2</i>.`

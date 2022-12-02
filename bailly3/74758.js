@@ -1,0 +1,1 @@
+lar[74758]=`<b>πάμ·πρεπτος, ος, ον</b>, visible pour tous, bien en vue, ESCHL. <i>Ag. 117</i>.<p><b>Étym</b>. π. πρέπω.`

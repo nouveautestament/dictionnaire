@@ -1,0 +1,1 @@
+lar[86518]=`<b>προστυπόω-ῶ</b> <font color="purple">[ῠ]</font> appliquer en pressant : τί τινι, GAL. <i>2, 700</i> ; CLÉM. <i>234,</i> une ch. sur une autre.<p><b>Étym</b>. πρόστυπος.`

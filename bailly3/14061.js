@@ -1,0 +1,1 @@
+lar[14061]=`<i>ou</i> <b>ἄπφα</b>, papa, <i>t. d’amitié,</i> GRAMM. <i>p. 441, 11 Bekker, Anecdota græca</i>.<p><b>Étym</b>. <i>cf</i>. ἄππα.`

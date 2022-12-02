@@ -1,0 +1,1 @@
+lar[95407]=`<b>συν·εκσῴζω</b>, sauver aussi <i>ou</i> contribuer à sauver d’un danger, SOPH. <i>O.C. 566</i> ; ANT. <i>140, 28</i>.`

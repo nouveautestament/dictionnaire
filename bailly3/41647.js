@@ -1,0 +1,1 @@
+lar[41647]=`<b>εὐ·άρεστος, ος, ον</b> <font color="purple">[ᾰ]</font> qui plaît, agréable : τινι, SPT. <i>Sap. 4, 10</i> ; NT. <i>2Cor. 5, 9</i> ; παρά τινι, SPT. <i>Sap. 9, 10</i> ; πρός τινα, CLÉM. <i>882,</i> à qqn ; τὸ εὐάρεστον, NT. <i>Rom. 12, 2, c</i>. εὐαρέστησις.<p><b>Étym</b>. εὖ, ἀρέσκω.`

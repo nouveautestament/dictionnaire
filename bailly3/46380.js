@@ -1,0 +1,1 @@
+lar[46380]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> art de faire des tours d’adresse, PLAT. <i>Leg. 675a.</i><br><b>      2</b> <i>au sens chrétien,</i> action de faire des miracles, CHRYS. <i>10, 49 Migne</i>.<p><b>Étym</b>. θαυματουργός.`

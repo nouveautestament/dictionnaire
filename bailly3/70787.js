@@ -1,0 +1,1 @@
+lar[70787]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de s’accroupir, de replier ses genoux, HPC. <i>839h, 857c ;</i> LUC. <i>Salt. 41</i>.<p><b>Étym</b>. ὀκλάζω.`

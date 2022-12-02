@@ -1,0 +1,1 @@
+lar[41659]=`<b>εὐ·άρτυτος, ος, ον</b> <font color="purple">[ῡ]</font> bien préparé, ATH. <i>165b</i>.<p><b>Étym</b>. εὖ, ἀρτύω.`

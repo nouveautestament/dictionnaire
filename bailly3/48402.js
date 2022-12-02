@@ -1,0 +1,1 @@
+lar[48402]=`<b>ἰδιο·γονία, ας (ἡ)</b> <font color="purple">[ῐδ]</font> génération <i>ou</i> production d’un être de même espèce, PLAT. <i>Pol. 265d</i>.<p><b>Étym</b>. ἴδ. γόνος.`

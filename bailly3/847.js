@@ -1,0 +1,1 @@
+lar[847]=`<font color="purple">[ᾰ]</font> <i>adv</i>., dans l’assemblée, HÉS. <i>Th. 89</i>.<p><b>Étym</b>. ἀγορή, -φι.`

@@ -1,0 +1,1 @@
+lar[50739]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰᾰσ]</font> mort misérable, P. ALEX. <i>Apot. 24, p. 62, l. 4 Boer</i>.<p><b>Étym</b>. κακοθάνατος.`

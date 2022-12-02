@@ -1,0 +1,1 @@
+lar[44284]=`<b>ου (τὸ)</b> vipérine (<i>Echium rubrum</i> L.) <i>plante,</i> DIOSC. <i>4, 27</i>.<p><b>Étym</b>. ἔχις.`

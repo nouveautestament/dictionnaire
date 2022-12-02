@@ -1,0 +1,1 @@
+lar[102085]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> concession, condescendance, PLAT. <i>Leg. 727a, 815a ;</i> TH. <i>Char. 25</i> ; PLUT. <i>M. 751d</i>.<p><b>Étym</b>. ὑπείκω.`

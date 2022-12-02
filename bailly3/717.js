@@ -1,0 +1,1 @@
+lar[717]=`<b>ἀγλαο·τριαίνας, ου</b>, <i>adj</i>. au beau trident, PD. <i>O. 1, 40 (accent. éol</i>. -τρίαιναν <font color="purple">[ᾰν]</font>).<p><b>Étym</b>. ἀ. τρίαινα.`

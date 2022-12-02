@@ -1,0 +1,1 @@
+lar[21753]=`<b>ης (ἡ)</b> Gérana, <i>reine des Pygmées,</i> EL. <i>N.A. 15, 29</i> ; ATH. <i>392b, etc</i>.<p><b>Étym</b>. <i>Cf</i>. γερανός.`

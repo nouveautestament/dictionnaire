@@ -1,0 +1,1 @@
+lar[90399]=`<b>ης (ἡ)</b> = <i>lat</i>. Sinuessa, <i>v. du Latium,</i> PLUT. <i>Marc. 26, etc</i>.`

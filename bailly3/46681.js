@@ -1,0 +1,1 @@
+lar[46681]=`<b>θεο·κρήπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> fondé par les dieux, NONN. <i>D. 24, 96</i>.<p><b>Étym</b>. θ. κρηπίς.`

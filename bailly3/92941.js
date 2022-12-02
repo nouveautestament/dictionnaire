@@ -1,0 +1,1 @@
+lar[92941]=`<b>στροβιλο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> en forme de toupie <i>ou</i> de pomme de pin, TH. <i>H.P. 3, 12, 9</i> ; STR. <i>795</i>.<p><b>Étym</b>. στρόβιλος, εἶδος.`

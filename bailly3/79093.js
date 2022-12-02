@@ -1,0 +1,1 @@
+lar[79093]=`<b>περι·πηχύνω</b>, entourer de ses bras, embrasser, CALL. <i>fr. 344</i>.<p><b>Étym</b>. π. πῆχυς.`

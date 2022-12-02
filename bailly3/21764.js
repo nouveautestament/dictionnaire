@@ -1,0 +1,1 @@
+lar[21764]=`<b>γερανο·πόδιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>autre n. de la plante</i> λυχνίς, DIOSC. <i>3, 114</i>.<p><b>Étym</b>. γέρανος, πούς.`

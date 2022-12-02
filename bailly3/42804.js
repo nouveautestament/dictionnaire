@@ -1,0 +1,1 @@
+lar[42804]=`<b>εὐνουχο·ειδής, ής, ές</b>, semblable à un eunuque, impuissant, HPC. <i>Aër. 293, au</i> <i>• Sup</i>. -έστατος.<p><b>Étym</b>. εὐνοῦχος, εἶδος.`

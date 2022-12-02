@@ -1,0 +1,1 @@
+lar[1791]=`<b>*ἀερό·μικτος</b>, <i>seul. ion</i>. <b>ἠερόμικτος, ος, ον</b>, qui se mêle dans les airs, ORPH. <i>fr. 28, 14</i>.`

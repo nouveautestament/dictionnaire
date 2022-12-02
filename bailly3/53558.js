@@ -1,0 +1,1 @@
+lar[53558]=`<b>κατα·τιλάω-ῶ</b> <font color="purple">[ῑ]</font> embrener : τινος, AR. <i>Av. 1051</i> ; κατά τινος, ARTÉM. <i>2, 24,</i> qqn <i>ou</i> qqe ch. ; <i>au pass</i>. AR. <i>Av. 1117</i>.`

@@ -1,0 +1,1 @@
+lar[108166]=`<i>adv</i>., de main d’homme, POL. <i>10, 10, 12</i> ; DH. <i>1, p. 595, 47 Reiske</i> ; JOS. <i>B.J. 7, 8, 3</i>.`

@@ -1,0 +1,1 @@
+lar[60834]=`<b>εως (ἡ)</b> cessation, fin, ESCHL. <i>Eum. 505</i> ; A.RH. <i>1, 1086</i>.<p><b>Étym</b>. λήγω.`

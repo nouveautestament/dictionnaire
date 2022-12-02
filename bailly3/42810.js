@@ -1,0 +1,1 @@
+lar[42810]=`<b>εὔ·νωτος, ος, ον</b>, dont le dos est fort, ARSTT. <i>Physiogn. 5, 8</i>.<p><b>Étym</b>. εὖ, νῶτος.`

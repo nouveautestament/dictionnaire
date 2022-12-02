@@ -1,0 +1,1 @@
+lar[99710]=`<b>τοσαυτηΐ, τοσουτοΐ</b> <i>ou</i> <b>τοσουτονί</b> <font color="purple">[ῑ]</font> <i>att. c</i>. τοσοῦτος, AR. <i>Pl. 427</i> ; PLAT. <i>Hipp. ma. 292c</i>.`

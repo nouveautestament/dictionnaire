@@ -1,0 +1,1 @@
+lar[99861]=`<b>τραγο·πώγων</b>, <i>gén</i>. <b>ωνος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> à barbe de bouc, CRAT. (<i>Com. fr. 2, 78</i>).<br><b>      2</b> <i>subst</i>. salsifis, <i>légume,</i> TH. <i>H.P. 7, 7, 1</i> ; DIOSC. <i>1, 128</i>.<p><b>Étym</b>. τρ. πώγων.`

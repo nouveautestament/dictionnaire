@@ -1,0 +1,1 @@
+lar[40786]=`<b>ἐρυθρό·κομος, ος, ον</b>, aux cheveux rouges, PLIN. <i>H.N. 13, 19</i>.<p><b>Étym</b>. ἐ. κόμη.`

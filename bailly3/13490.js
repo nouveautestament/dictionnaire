@@ -1,0 +1,1 @@
+lar[13490]=`<b>ατος (τὸ) :<br>      1</b> écorchure, lambeau arraché, HPC. <i>426, 10, etc.</i> ; DIOSC. <i>1, 36</i>.<br><b>      2</b> fragment, débris, ARSTT. <i>Mir. 42</i>.<p><b>Étym</b>. ἀποσύρω.`

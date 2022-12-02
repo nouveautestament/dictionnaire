@@ -1,0 +1,1 @@
+lar[40275]=`<b>ος, ον</b>, qui tombe en ruines, PHIL. <i>1, 197</i>.<p><b>Étym</b>. ἐρείπω.`

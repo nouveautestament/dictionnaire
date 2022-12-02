@@ -1,0 +1,1 @@
+lar[9516]=`<b>ἀντ·απωθέω-ῶ</b>, repousser à son tour, ARSTT. <i>Probl. 24, 9, 3</i>.`

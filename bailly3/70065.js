@@ -1,0 +1,1 @@
+lar[70065]=`<b>εως (ἡ)</b> action de grossir, de gonfler, ARSTT. <i>Respir. 20, 5</i>.<p><b>Étym</b>. ὀγκόω.`

@@ -1,0 +1,1 @@
+lar[71234]=`<b>ητος (ἡ)</b> totalité, généralité, ARSTT. <i>Metaph. 4, 26, 3</i> ; SEXT. <i>M. 10, 52</i>.<p><b>Étym</b>. ὅλος.`

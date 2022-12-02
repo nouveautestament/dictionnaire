@@ -1,0 +1,1 @@
+lar[82833]=`<i>adv.</i> :<br><b>      1</b> de loin, ATT.<br><b>      2</b> depuis longtemps, ATT.<p><b>Étym</b>. πόρρω, -θεν.`

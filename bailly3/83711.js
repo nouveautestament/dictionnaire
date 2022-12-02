@@ -1,0 +1,1 @@
+lar[83711]=`<b>προ·αρπάζω</b>, enlever d’avance <i>ou</i> auparavant, LUC. <i>Tim. 54 ; fig</i>. anticiper sur, <i>acc</i>. PLAT. <i>Gorg. 454c ;</i> LUC. <i>Tox. 6</i> ; SEXT. <i>M. 1, 157</i>.`

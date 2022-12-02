@@ -1,0 +1,1 @@
+lar[74632]=`<b>α</b> <i>ou</i> <b>Παλλαδᾶς, ᾶ (ὁ)</b> Palladas, <i>poète de l’Anthologie</i>.<p>➳ Παλλάδας, ANTH. <i>5, 71, etc.</i> ; Παλλαδᾶς, ANTH. <i>6, 86, etc</i>.<p><b>Étym</b>. Παλλάς.`

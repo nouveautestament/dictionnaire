@@ -1,0 +1,1 @@
+lar[761]=`<b>οῦ (ὁ)</b> purification, DH. <i>3, 22</i> ; SPT. <i>Num. 6, 3</i>.<p><b>Étym</b>. ἁγνίζω.`

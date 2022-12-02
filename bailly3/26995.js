@@ -1,0 +1,1 @@
+lar[26995]=`<b>δι·πτυχής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. δίπτυχος, ARSTT. <i>H.A. 3, 5</i>.`

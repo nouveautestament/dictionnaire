@@ -1,0 +1,1 @@
+lar[87777]=`<b>η, ον</b> <font color="purple">[ῐ]</font> qui concerne les tours, <i>et, p. suite,</i> la ville ; ESCHL. <i>Pers. 859</i>.<p><b>Étym</b>. πύργος.`

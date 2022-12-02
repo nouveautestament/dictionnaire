@@ -1,0 +1,1 @@
+lar[88692]=`<b>ῥοδο·δάφνη, ης (ἡ)</b> laurier-rose, <i>arbrisseau,</i> DIOSC. <i>4, 82</i> ; LUC. <i>As. 17</i>.<p><b>Étym</b>. ῥ. δάφνη.`

@@ -1,0 +1,1 @@
+lar[84582]=`<b>προ·κολάζω</b>, punir <i>ou</i> châtier auparavant, ARSTT. <i>Rhet. 2, 3, 15</i>.`

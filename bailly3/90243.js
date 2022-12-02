@@ -1,0 +1,1 @@
+lar[90243]=`<b>ου (ὁ)</b> Sikinnos, <i>h</i>. HDT. <i>8, 75</i> ; PLUT. <i>Them. 12, etc</i>.`

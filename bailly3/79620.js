@@ -1,0 +1,1 @@
+lar[79620]=`<b>ατος (τὸ) :<br>      1</b> clôture, enceinte, STR. <i>710</i>.<br><b>      2</b> enveloppe, T. LOCR. <i>100b</i>.<p><b>Étym</b>. περιφράσσω.`

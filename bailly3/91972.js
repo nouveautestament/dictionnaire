@@ -1,0 +1,1 @@
+lar[91972]=`<b>α, ον</b>, de couleur cendrée, SIM. AM. <i>Iamb. fr. 6, 43</i> ; ARSTT. <i>fr. 271</i>.<p><b>Étym</b>. σποδός.`

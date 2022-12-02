@@ -1,0 +1,1 @@
+lar[57897]=`<b>ΐδος (ἡ)</b> Krithèis, <i>f</i>. Ps.-PLUT. <i>V. Hom. 1, 2 et 3</i>.`

@@ -1,0 +1,1 @@
+lar[106534]=`<b>φοινικ·άνθεμος, ος, ον</b> <font color="purple">[ῑ]</font> aux fleurs écarlates, PD. <i>P. 4, 114</i>.<p><b>Étym</b>. φοῖνιξ, ἄνθεμον.`

@@ -1,0 +1,1 @@
+lar[95179]=`<b>συν·διεκπίπτω :<br>      1</b> pénétrer en même temps dans, <i>dat</i>. GAL. <i>7, 455</i>.<br><b>      2</b> s’élancer tout à coup ensemble, PLUT. <i>Popl. 19</i>.`

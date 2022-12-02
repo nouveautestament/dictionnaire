@@ -1,0 +1,1 @@
+lar[15399]=`<b>ἀρτί·χυτος, ος, ον</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> nouvellement répandu, OPP. <i>H. 2, 617</i> ; NONN. <i>D. 39, 226</i>.<br><b>      2</b> nouvellement inondé, NONN. <i>D. 13, 431</i>.<p><b>Étym</b>. ἄ. χέω.`

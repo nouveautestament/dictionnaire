@@ -1,0 +1,1 @@
+lar[9447]=`<b>οῦ (ὁ)</b> notion réfléchie marquée par un pronom réfléchi, DYSC. <i>Pron. 70b</i>.<p><b>Étym</b>. ἀντανακλάω.`

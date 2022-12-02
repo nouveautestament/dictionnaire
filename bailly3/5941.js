@@ -1,0 +1,1 @@
+lar[5941]=`<font color="purple">[ᾰ]</font> XÉN. <i>Cyr. 8, 6, 6</i> ; AR. <i>Lys. 661 ; plur</i>. ἀμυντέα, SOPH. <i>Ant. 677, vb. de</i> ἀμύνω.`

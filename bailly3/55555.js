@@ -1,0 +1,1 @@
+lar[55555]=`<b>ου (ὁ)</b> Kios, <i>fl. près de Kios, en Bithynie,</i> A.RH. <i>1, 1178</i>.`

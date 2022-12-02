@@ -1,0 +1,1 @@
+lar[56623]=`<b>ης (ἡ)</b> gomme, HDT. <i>2, 86 ; d’où</i> colle, ARSTT. <i>Meteor. 4, 4</i> ; PLUT. <i>M. 983e, etc</i>.`

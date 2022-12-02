@@ -1,0 +1,1 @@
+lar[20742]=`<b>βραχύ·υπνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> dont le sommeil est court, qui dort peu, ARSTT. <i>Somn. 1, 13 ; H.A. 4, 10, 3</i>.<p><b>Étym</b>. βρ. ὕπνος.`

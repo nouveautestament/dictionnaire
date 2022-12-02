@@ -1,0 +1,1 @@
+lar[70680]=`<b>ου</b> <i>ou</i> <b>οἰσός, οῦ (ὁ)</b> osier, TH. <i>H.P. 6, 2, 2</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *ueh₁i-, enrouler, plier <i>des rameaux flexibles ; cf</i>. ἰτέα, ἴτυς, <i>lat</i>. vi- <i>de</i> vieō, vīmen ; <i>autrement p.-ê. pré-grec</i>.`

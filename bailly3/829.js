@@ -1,0 +1,1 @@
+lar[829]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> qui concerne la fonction d’agoranome, PLAT. <i>Rsp. 425d ;</i> ARSTT. <i>Pol. 2, 5, 21 ; ou</i> d’édile, DH. <i>6, 95</i> ; PLUT. <i>Pomp. 53, etc</i>.`

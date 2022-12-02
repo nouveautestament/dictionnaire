@@ -1,0 +1,1 @@
+lar[20729]=`<b>βραχύ·στομος, ος, ον</b> <font color="purple">[ᾰ]</font> à bouche <i>ou</i> à ouverture étroite, <i>en parl. de vases,</i> PLUT. <i>M. 47e ; d’un port,</i> STR. <i>641</i>.<p><b>Étym</b>. βρ. στόμα.`

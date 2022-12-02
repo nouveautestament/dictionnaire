@@ -1,0 +1,1 @@
+lar[68221]=`<b>νεο·πρεπής, ής, ές :<br>      1</b> qui convient à la jeunesse, PLAT. <i>Leg. 892d.</i><br><b>      2</b> qui a l’air jeune, PLUT. <i>T. Gracch. 2</i>.<p><b>Étym</b>. ν. πρέπω.`

@@ -1,0 +1,1 @@
+lar[48529]=`<b>ῶν (αἱ)</b> le Lieu sacré, <i>en Sicile,</i> PLUT. <i>Tim. 30</i>.<p><b>Étym</b>. ἱερός.`

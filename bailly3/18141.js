@@ -1,0 +1,1 @@
+lar[18141]=`<b>ἄ·φλεκτος, ος, ον :<br>      1</b> non brûlé, non consumé, EUR. <i>Hel. 1334</i>.<br><b>      2</b> non cuit, A.RH. <i>1, 1074</i>.<p><b>Étym</b>. ἀ, φλέγω.`

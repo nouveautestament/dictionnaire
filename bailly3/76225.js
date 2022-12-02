@@ -1,0 +1,1 @@
+lar[76225]=`<b>παρα·σπειράω-ῶ</b>, rouler en spirale : παρεσπειραμένος, APD. <i>3, 14, 6,</i> roulé en spirale.`

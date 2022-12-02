@@ -1,0 +1,1 @@
+lar[56903]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Konnidas, <i>précepteur de Thésée,</i> PLUT. <i>Thes. 4</i>.`

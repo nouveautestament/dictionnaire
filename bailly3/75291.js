@@ -1,0 +1,1 @@
+lar[75291]=`<b>παντο·τινάκτης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. qui ébranle le monde, ORPH. <i>H. 14, 8</i>.<p><b>Étym</b>. π. τινάσσω.`

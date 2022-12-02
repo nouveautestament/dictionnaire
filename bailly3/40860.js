@@ -1,0 +1,1 @@
+lar[40860]=`<i>adv</i>., dans le dème Erkhia <i>(sans mouv.)</i>, PLAT. <i>1 Alc. 123c</i>.`

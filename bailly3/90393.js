@@ -1,0 +1,1 @@
+lar[90393]=`<b>ιδος</b>, <i>acc</i>. <b>ιν (ὁ)</b> <font color="purple">[ῐῐδ]</font> qui endommage, qui fait du tort à, dévastateur, malfaiteur, ESCHL. <i>Ag. 718</i> ; POÈT. (ARSTT. <i>Rhet. 3, 3, 2</i>) ; CALL. <i>Ap. 90</i> ; LYC. <i>539</i> ; κτεάνων, SOPH. <i>fr. 230 Dind. (acc</i>. σίνιν) qui pille les biens.<p><b>Étym</b>. σίνω.`

@@ -1,0 +1,1 @@
+lar[79689]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., en répandant tout autour, HPC. <i>528, 38</i>.<p><b>Étym</b>. περιχέω, -δα.`

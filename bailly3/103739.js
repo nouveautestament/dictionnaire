@@ -1,0 +1,1 @@
+lar[103739]=`<b>ου</b>, <i>adj. m</i>. soupçonneux, défiant, SOPH. <i>Ph. 135</i> ; εἴς τινα, THC. <i>6, 60,</i> à l’égard de qqn ; <i>en parl. d’un cheval,</i> ombrageux, XÉN. <i>Eq. 3, 9</i>.<p><b>Étym</b>. <i>cf</i>. ὕποπτος.`

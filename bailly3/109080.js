@@ -1,0 +1,1 @@
+lar[109080]=`<b>χρυσ·άνθεμον, ου (τὸ)</b> <font color="purple">[ῡ]</font> chrysanthème, <i>fleur,</i> DIOSC. <i>4, 58</i>.<p><b>Étym</b>. χρ. ἄνθεμον.`

@@ -1,0 +1,1 @@
+lar[19357]=`<b>ου (ὁ)</b> sorte de raie, <i>poisson,</i> ARSTT. <i>H.A. 2, 13, 6, etc. ; cf</i>. βατίς 2.`

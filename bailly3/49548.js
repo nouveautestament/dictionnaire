@@ -1,0 +1,1 @@
+lar[49548]=`<b>ή, όν</b>, d’Isaurie, <i>en Asie Mineure, surn. de Servilius,</i> PLUT. <i>Cæs. 37, etc</i>.`

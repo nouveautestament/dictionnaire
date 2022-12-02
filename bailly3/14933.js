@@ -1,0 +1,1 @@
+lar[14933]=`<i>adv</i>., d’une manière proportionnée <i>ou</i> convenable, HÉRON <i>Aut. 253</i> ; PLUT. <i>M. 438a</i>.<p><b>Étym</b>. ἁρμοστός.`

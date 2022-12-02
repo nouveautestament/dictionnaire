@@ -1,0 +1,1 @@
+lar[78653]=`<b>περι·θεωρέω-ῶ</b>, regarder tout autour, de tous côtés, LUC. <i>Herm. 44</i>.`

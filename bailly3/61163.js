@@ -1,0 +1,1 @@
+lar[61163]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de marais, d’étang, THCR. <i>Idyl. 5, 17</i> ; BABR. <i>115, 1 ; ép. d’Artémis,</i> PAUS. <i>3, 7, 4</i>.<p><b>Étym</b>. λίμνη.`

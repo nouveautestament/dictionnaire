@@ -1,0 +1,1 @@
+lar[90704]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> batelier, D. PHAL. <i>§ 97</i> ; STR. <i>817</i>.<p><b>Étym</b>. σκάφη.`

@@ -1,0 +1,1 @@
+lar[100261]=`<b>τρι·κόρυφος, ος, ον</b> <font color="purple">[ῐῠ]</font> à trois sommets, STR. <i>256</i>.<p><b>Étym</b>. τρεῖς, κορυφή.`

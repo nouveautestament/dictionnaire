@@ -1,0 +1,1 @@
+lar[55295]=`<b>κηρόω-ῶ</b>, perdre, détruire, CLÉM. <i>76</i>.<p><b>Étym</b>. κήρ.`

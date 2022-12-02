@@ -1,0 +1,1 @@
+lar[84328]=`<b>εως (ἡ)</b> joie éprouvée d’avance, PLAT. <i>Rsp. 584c</i>.<p><b>Étym</b>. προήδομαι.`

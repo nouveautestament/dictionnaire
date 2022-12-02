@@ -1,0 +1,1 @@
+lar[28398]=`<b>δυσ·εξανάλωτος, ος, ον</b> <font color="purple">[ῠᾰᾱ]</font> difficile à dépenser, inépuisable, HPC. <i>383, 9</i>.<p><b>Étym</b>. δ. ἐξαναλίσκω.`

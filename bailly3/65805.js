@@ -1,0 +1,1 @@
+lar[65805]=`<b>α, ον</b>, de minium, de vermilion, ANTH. <i>6, 103</i>.<p><b>Étym</b>. μίλτος.`

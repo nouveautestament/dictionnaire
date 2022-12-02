@@ -1,0 +1,1 @@
+lar[70504]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de vin, fait avec du vin, ARCHESTR. (ATH. <i>310d</i>).<p><b>Étym</b>. οἶνος.`

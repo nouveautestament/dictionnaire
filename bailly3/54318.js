@@ -1,0 +1,1 @@
+lar[54318]=`<b>ας (ἡ)</b> chapeau macédonien à larges bords pour garantir du soleil, MÉN. (POLL. <i>10, 162</i>) ; ANTH. <i>6, 335</i> ; POL. <i>4, 4, 5</i> ; PLUT. <i>Ant. 54, M. 760b, etc</i>.<p><b>Étym</b>. καίω.`

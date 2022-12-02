@@ -1,0 +1,1 @@
+lar[74672]=`<b>ου (τὸ)</b> <font color="purple">[σᾰ]</font> <i>c</i>. βάλσαμον, PAUS. <i>9, 28, 3</i>.`

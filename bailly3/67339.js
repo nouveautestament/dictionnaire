@@ -1,0 +1,1 @@
+lar[67339]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Myrrhinè, <i>f</i>. THC. <i>6, 55 ; personnage de la pièce d’Aristophane, Lysistrata</i>.<p>➳ <i>Dans les inscr. att. avec double</i> ρ : Μυρρίνη, CIA. <i>2, 763, 19 (4<sup>e</sup> siècle av. J.-C.), etc. ; v. Meisterh. p. 74, 11</i>.<p><b>Étym</b>. <i>v</i>. μυρρίνη.`

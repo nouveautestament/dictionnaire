@@ -1,0 +1,1 @@
+lar[35644]=`<b>ἐξ·ατονέω-ῶ</b>, être mou, affaibli, s’affaiblir, ARSTT. <i>H.A. 9, 45, 6</i>.`

@@ -1,0 +1,1 @@
+lar[105174]=`<b>ου (τὸ)</b> panier pour porter le poisson, MÉN. <i>4, 253 Meineke</i> ; EL. <i>N.A. 17, 18</i> ; ALCIPHR. <i>1, 9, etc</i>.<p><b>Étym</b>. φέρω.`

@@ -1,0 +1,1 @@
+lar[11056]=`<b>ῆρος (ὁ) :<br>      1</b> courroie d’un havresac, OD. <i>13, 438 ; 17, 198</i>.<br><b>      2</b> baudrier, OD. <i>11, 609 ; au plur. dat</i>. ἀορτήρεσσιν, IL. <i>11, 31 ; p. anal</i>. ceinturon, PHÉRÉCR. (POLL. <i>10, 162</i>).<br><b>      3</b> ἀορτῆρες ἵπποι, CHRYS. <i>6, 974,</i> chevaux de trait.<p><b>Étym</b>. ἀείρω.`

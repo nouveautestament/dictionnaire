@@ -1,0 +1,1 @@
+lar[25437]=`<i>adv. (seul</i>. <i>• Sup</i>. διαρκέστατα) d’une manière suffisante, en donnant satisfaction à des besoins, XÉN. <i>Mem. 2, 8, 6</i>.<p><b>Étym</b>. διαρκής.`

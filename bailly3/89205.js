@@ -1,0 +1,1 @@
+lar[89205]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> <i>lacon. c</i>. θάλεα ; <i>au dat. pl. poét</i>. σάλεσσιν, ALCM. <i>10</i>.`

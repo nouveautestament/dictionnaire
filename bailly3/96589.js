@@ -1,0 +1,1 @@
+lar[96589]=`<b>συ·σκέπτομαι</b> <font color="darkgreen">(<i>fut</i>. συσκέψομαι)</font> <i>c</i>. συσκοπέω, examiner ensemble, <i>au pr. et fig</i>. HDN <i>1, 17</i>.`

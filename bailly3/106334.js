@@ -1,0 +1,1 @@
+lar[106334]=`<b>φλεβοτομέω-ῶ</b>, couper les veines <i>ou</i> une veine, <i>d’où</i> saigner : τινα, HPC. <i>Aph. 1254</i> ; GAL. <i>Lex. Hipp. 19, 151,</i> qqn.<p><b>Étym</b>. φλεβοτόμος.`

@@ -1,0 +1,1 @@
+lar[32842]=`<b>ου (ὁ)</b> Hélixos, <i>h</i>. THC. <i>8, 80</i> ; XÉN. <i>Hell. 1, 3, 15, etc</i>.`

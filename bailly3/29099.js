@@ -1,0 +1,1 @@
+lar[29099]=`<b>δωδεκά·πολις, ις, ι</b>, <i>gén</i>. <b>ιος</b> <font color="purple">[ᾰ]</font> qui comprend douze villes, HDT. <i>7, 95</i>.<p><b>Étym</b>. δ. πόλις.`

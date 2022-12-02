@@ -1,0 +1,1 @@
+lar[98148]=`<b>τελεό·μηνος, ος, ον</b>, qui a son nombre de mois révolu, SOPH. <i>Tr. 829</i> ; τ. τέκνον, ARSTT. <i>H.A. 7, 4, 20,</i> enfant qui vient à terme.<p><b>Étym</b>. τέλεος, μήν.`

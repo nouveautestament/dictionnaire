@@ -1,0 +1,1 @@
+lar[6273]=`<b>ἀμφι·νέμομαι</b> <font color="darkgreen">(<i>prés. et impf</i>. ἀμφενεμόμην)</font> résider autour de, dans la région de, <i>acc</i>. IL. <i>2, 521</i> ; OD. <i>19, 132 ; fig</i>. PD. <i>P. 5, 14</i>.`

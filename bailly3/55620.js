@@ -1,0 +1,1 @@
+lar[55620]=`<b>*κίσσησις</b>, <i>att</i>. <b>κίττησις, εως (ἡ)</b> envie de femme enceinte, GAL. <i>2, 278e</i>.<p><b>Étym</b>. κισσάω.`

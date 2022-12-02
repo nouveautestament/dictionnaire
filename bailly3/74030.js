@@ -1,0 +1,1 @@
+lar[74030]=`<b>ὀψί·τυχος, ος, ον</b> <font color="purple">[ῐ]</font> obtenu longtemps après, MAN. <i>5, 71</i>.<p><b>Étym</b>. ὀψέ, τυγχάνω.`

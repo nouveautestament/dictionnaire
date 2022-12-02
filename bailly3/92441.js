@@ -1,0 +1,1 @@
+lar[92441]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> στέρνον, RHÉT. <i>1, 531, 27 dout. W</i>.`

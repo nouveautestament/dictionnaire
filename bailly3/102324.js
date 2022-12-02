@@ -1,0 +1,1 @@
+lar[102324]=`<b>ὑπερ·βάθμιος, ος, ον</b>, qui franchit le seuil, MARIN. <i>V. Procl. 13, p. 30</i>.<p><b>Étym</b>. ὑ. βαθμός.`

@@ -1,0 +1,1 @@
+lar[14733]=`<b>ἀριστό·νικος, ος, ον</b> <font color="purple">[ᾰνῑ]</font> qui remporte la plus belle victoire, ATH. <i>457b</i>.<p><b>Étym</b>. ἄ. νίκη.`

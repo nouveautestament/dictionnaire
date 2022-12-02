@@ -1,0 +1,1 @@
+lar[38031]=`<b>ἐπι·κινδυνεύω</b> <font color="purple">[ῡ]</font> <i>seul. au pass</i>. ἐπικινδυνεύομαι, être exposé à un danger, être aventuré, DÉM. <i>915, 14</i>.<p><b>Étym</b>. ἐπικίνδυνος.`

@@ -1,0 +1,1 @@
+lar[66429]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> plomb, MŒR. <i>256</i>.<p><b>Étym</b>. <i>cf</i>. μόλυβδος.`

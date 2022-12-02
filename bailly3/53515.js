@@ -1,0 +1,1 @@
+lar[53515]=`<b>εως (ἡ) :<br>      1</b> action de retenir, d’empêcher, RHÉT. <i>1, 616 W.</i><br><b>      2</b> possession, jouissance, SPT. <i>Gen. 47, 11, etc</i>.<p><b>Étym</b>. κατασχεῖν.`

@@ -1,0 +1,1 @@
+lar[13641]=`<b>ἀπο·τραχύνω</b>, rendre rude, <i>fig</i>. DH. <i>Comp. 22 ; au pass</i>. se durcir, <i>au propre,</i> TH. <i>H.P. 6, 4, 2 ; fig. en parl. du caractère,</i> être rude : τὸ ἀποτραχυνόμενον, LGN <i>21, 1,</i> manque de souplesse.<p>➳ <i>Pf. 3 sg</i>. ἀποτετράχυκε, DH. <i>l. c</i>.`

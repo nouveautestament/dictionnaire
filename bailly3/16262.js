@@ -1,0 +1,1 @@
+lar[16262]=`<font color="darkgreen">(<i>impf</i>. ἠστραγάλιζον)</font> <font color="purple">[ᾰγᾰ]</font> jouer aux osselets, CRAT. (ATH. <i>267e</i>) ; PLAT. <i>Lys. 206e, etc.</i> ; τινί, ARISTÉN. <i>1, 23,</i> avec qqn.<p><b>Étym</b>. ἀστράγαλος.`

@@ -1,0 +1,1 @@
+lar[47612]=`<b>θρασύ·στομος, ος, ον</b> <font color="purple">[ᾰ]</font> qui parle hardiment, arrogant, ESCHL. <i>Sept. 612, Ag. 1399</i> ; EUR. <i>fr. 3</i>.<p><b>Étym</b>. θρ. στόμα.`

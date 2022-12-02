@@ -1,0 +1,1 @@
+lar[18933]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui concerne un bain, de bain, GEOP. <i>10, 29, 4</i> ; ἡ βαλανευτική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 227a</i>, l’art de se baigner <i>ou</i> de baigner.<p><b>Étym</b>. βαλανεύω.`

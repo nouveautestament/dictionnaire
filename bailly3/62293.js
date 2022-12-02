@@ -1,0 +1,1 @@
+lar[62293]=`<b>ας (ἡ)</b> Mazæa, <i>n. de fl. thrace,</i> LUC. <i>Tox. 44</i>.`

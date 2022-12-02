@@ -1,0 +1,1 @@
+lar[79699]=`<b>ατος (τὸ) :<br>      1</b> ce qu’on ôte en frottant tout autour, ordure, NT. <i>1Cor. 4, 13</i>.<br><b>      2</b> délivrance, SPT. <i>Tob. 5, 19</i>.<p><b>Étym</b>. περιψάω.`

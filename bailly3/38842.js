@@ -1,0 +1,1 @@
+lar[38842]=`<b>ἐπι·πυνθάνομαι</b>, être informé ensuite de, <i>gén</i>. DH. <i>Thuc. 29, 3</i>.`

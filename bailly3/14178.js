@@ -1,0 +1,1 @@
+lar[14178]=`<b>α, ον</b> <font color="purple">[ᾰα]</font> d’araignée, ANTH. <i>6, 39, etc.</i> ; ἡ ἀραχναίη (<i>ion</i>.) ANTH. <i>9, 233,</i> araignée.<p><b>Étym</b>. ἀράχνη.`

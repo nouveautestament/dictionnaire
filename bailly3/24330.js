@@ -1,0 +1,1 @@
+lar[24330]=`<b>δημο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> visible au peuple, public, PHIL. <i>2, 169</i>.<p><b>Étym</b>. δ. φαίνω.`

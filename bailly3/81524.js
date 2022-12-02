@@ -1,0 +1,1 @@
+lar[81524]=`<b>πολεμο·κέλαδος, ος, ον</b> <font color="purple">[ᾰ]</font> qui aime le bruit de la guerre, POÈT. (DH. <i>Comp. 17).</i><p><b>Étym</b>. πόλεμος, κ.`

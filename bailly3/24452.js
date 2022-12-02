@@ -1,0 +1,1 @@
+lar[24452]=`<b>δια·βραβεύω</b> <font color="purple">[ᾰβ]</font> (<i>seul. ao. 3 sg</i>. διεβράβευσεν) distribuer <i>ou</i> attribuer comme récompense, ES. <i>35 de Furia</i>.`

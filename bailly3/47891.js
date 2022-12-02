@@ -1,0 +1,1 @@
+lar[47891]=`<b>ιδος (ὁ) :<br>      1</b> le Tibre, fl. d’Italie, PLUT. <i>Rom. 1, Cam. 18, etc.</i> ; ANTH. <i>9, 352</i> ; DP. <i>352</i>.<br><b>      2</b> Thymbris, <i>fl. ou p.-ê. mt. de Sicile,</i> THCR. <i>Idyl. 1, 116</i>.`

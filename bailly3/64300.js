@@ -1,0 +1,1 @@
+lar[64300]=`<b>μενε·δήϊος, ος, ον</b>, qui soutient l’effort de l’ennemi, IL. <i>12, 247 ; 13, 228</i>.<p>➳ <i>Dor</i>. μενεδάϊος <font color="purple">[ᾱ]</font> ANTH. <i>7, 208</i>.<p><b>Étym</b>. μένω, δήϊος.`

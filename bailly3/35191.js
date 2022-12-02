@@ -1,0 +1,1 @@
+lar[35191]=`<b>ἐν·ύπνιος, ος, ον</b>, qui apparaît en songe, ESCHL. <i>Sept. 710</i> ; ANTH. <i>12, 124</i>.<p><b>Étym</b>. ἐν, ὕπνος.`

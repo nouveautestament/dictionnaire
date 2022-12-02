@@ -1,0 +1,1 @@
+lar[24727]=`<font color="purple">[κᾰ]</font> (<i>slmt ao. 3 sg</i>. διεκάναξε) traverser avec bruit, <i>acc</i>. EUR. <i>Cycl</i>. 157.<p><b>Étym</b>. διά, <i>cf</i>. καναχέω <i>et</i> ἐγκανάσσω.`

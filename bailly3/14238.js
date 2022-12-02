@@ -1,0 +1,1 @@
+lar[14238]=`<b>οῦ</b>, <i>adj. m</i>. qui éclaircit (le ciel, en chassant les nuages), <i>sel. d’autres, au contraire,</i> qui amasse des nuages blancs ; <i>enfin sel. d’autres,</i> rapide, tumultueux, orageux, <i>ép. du Notus, seul. au gén</i>. ἀργεστᾶο, IL. <i>11, 306 ; 21, 334</i>.<p><b>Étym</b>. <i>v</i>. Ἀργέστης.`

@@ -1,0 +1,1 @@
+lar[28305]=`<b>δυσ·διαφόρητος, ος, ον</b>, qui transpire difficilement, GAL. <i>2, 392 ; 6, 311, etc</i>.<p><b>Étym</b>. δ. διαφορέω.`

@@ -1,0 +1,1 @@
+lar[105455]=`<b>φιλ·ακόλαστος, ος, ον</b> <font color="purple">[ῐᾰκ]</font> qui se plaît dans l’intempérance, déréglé, libertin, PLUT. <i>Tim. 14</i>.<p><b>Étym</b>. φίλος, ἀκ.`

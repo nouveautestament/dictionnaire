@@ -1,0 +1,1 @@
+lar[84019]=`(<i>seul. prés</i>.) avoir envie de trahir, DAMASC. (PHOT. <i>Bibl. 347, 4).</i><p><b>Étym</b>. προδίδωμι.`

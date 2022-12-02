@@ -1,0 +1,1 @@
+lar[106498]=`<b>ή, όν</b>, craintif, timide, ARSTT. <i>Pol. 8, 7, 5</i>.<p><b>Étym</b>. φοβέω.`

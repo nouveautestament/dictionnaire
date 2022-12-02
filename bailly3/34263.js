@@ -1,0 +1,1 @@
+lar[34263]=`<b>ἐνδυναμόω-ῶ</b> <font color="darkgreen">(<i>ao. pass</i>. ἐνεδυναμώθην)</font> <font color="purple">[ῠᾰ]</font> rendre fort <i>ou</i> puissant, NT. <i>1Tim. 1, 12 ; au pass</i>. NT. <i>Rom. 4, 20 ; fig</i>. se fortifier (dans sa vanité) SPT. <i>Ps. 51, 9</i>.<p><b>Étym</b>. ἐνδύναμος.`

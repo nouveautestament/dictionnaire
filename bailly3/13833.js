@@ -1,0 +1,1 @@
+lar[13833]=`<b>ἀπο·ψαλίζω</b> <font color="purple">[ψᾰ]</font> couper avec des ciseaux, DIOSC. <i>1, 130</i>.`

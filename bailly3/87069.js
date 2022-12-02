@@ -1,0 +1,1 @@
+lar[87069]=`<i>adv</i>., en se poussant en avant, SEXT. <i>M. 10, 83</i>.`

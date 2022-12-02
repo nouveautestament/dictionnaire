@@ -1,0 +1,1 @@
+lar[18890]=`<b>ου (ὁ)</b> Bakkheios, <i>h</i>. PLAT. <i>Ep. 309c</i>.<p><b>Étym</b>. <i>v</i>. βακχεῖος.`

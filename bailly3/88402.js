@@ -1,0 +1,1 @@
+lar[88402]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui souffre d’un écoulement d’humeurs, ARSTT. <i>Probl. 31, 5, 1</i>.<br><b>      2</b> qui coule, qui suppure, PLUT. <i>M. 131b ;</i> DIOSC. <i>2, 153</i>.<p><b>Étym</b>. ῥεῦμα.`

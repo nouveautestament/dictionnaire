@@ -1,0 +1,1 @@
+lar[49914]=`<b>ἰσχ·ουρέω-ῶ</b>, avoir une rétention d’urine, HÉRODOTUS (ORIB. <i>2, 462 B.-Dar</i>.).<p><b>Étym</b>. ἴσχω, οὖρον.`

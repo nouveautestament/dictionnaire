@@ -1,0 +1,1 @@
+lar[98867]=`<b>ας (ἡ)</b> traité <i>ou</i> dissertation sur un art, exposé des règles d’un art, CIC. <i>Att. 4, 16</i> ; PLUT. <i>M. 514a ;</i> SEXT. <i>P. 2, 205, etc</i>.<p><b>Étym</b>. τεχνολόγος.`

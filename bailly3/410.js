@@ -1,0 +1,1 @@
+lar[410]=`<b>ου (ὁ)</b> <font color="purple">[γᾰ]</font> courrier persan, <i>requis par corvée de relais en relais pour le service du roi,</i> ANON. (SUID.).<p><b>Étym</b>. <i>mot persan</i>.`

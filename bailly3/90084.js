@@ -1,0 +1,1 @@
+lar[90084]=`<b>οῦ (ὁ)</b> <font color="purple">[σῐ]</font> qui prédit d’après les Livres sibyllins, PLUT. <i>Mar. 42</i>.<p><b>Étym</b>. σίβυλλα.`

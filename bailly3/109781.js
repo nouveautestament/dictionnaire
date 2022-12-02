@@ -1,0 +1,1 @@
+lar[109781]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> dont les mains tâtonnent, <i>en parl. des malades,</i> HPC. <i>Prorrh. 70</i>.<p><b>Étym</b>. ψηλαφάω, -ωδης.`

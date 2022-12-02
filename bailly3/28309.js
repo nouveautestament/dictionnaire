@@ -1,0 +1,1 @@
+lar[28309]=`<b>δυσ·διέξακτος, ος, ον</b>, difficile à conduire jusqu’au terme, PORPH. <i>Abst. 4, 18, p. 362</i>.<p><b>Étym</b>. δ. διεξάγω.`

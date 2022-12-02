@@ -1,0 +1,1 @@
+lar[676]=`<b>ἀγκυρο·μήλη, ης (ἡ)</b> <font color="purple">[ῡ]</font> sonde recourbée, HPC. (EROT. <i>51).</i><p><b>Étym</b>. ἄγκυρα, μ.`

@@ -1,0 +1,1 @@
+lar[95786]=`<b>συνεταιρέω-ῶ</b>, se prostituer avec, ESCHN. <i>Ep. p. 124 dout</i>.<p><b>Étym</b>. συνέταιρος.`

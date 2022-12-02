@@ -1,0 +1,1 @@
+lar[64721]=`<b>ος, ον</b>, qui poursuit, <i>gén</i>. SOPH. <i>El. 1387</i>.<p><b>Étym</b>. μεταδραμεῖν.`

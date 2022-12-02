@@ -1,0 +1,1 @@
+lar[56361]=`<i>mieux que</i> <b>Κνωσσός, οῦ (ὁ)</b> Knôsos, <i>v. de Crète,</i> IL. <i>2, 646 ; 18, 591</i> ; OD. <i>19, 178</i> ; PLAT. <i>Leg. 625a, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Κνωσός <i>(v. Meisterh. p. 75, 12).</i>`

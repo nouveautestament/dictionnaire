@@ -1,0 +1,1 @@
+lar[2701]=`<b>αἰνο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font>, qui souffre des maux affreux, OD. <i>18, 201</i>.<p><b>Étym</b>. αἰν. πάθος.`

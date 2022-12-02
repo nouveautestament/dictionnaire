@@ -1,0 +1,1 @@
+lar[88423]=`<b>ου (ὁ)</b> = <i>lat</i>. Rēgŭlus, <i>n. d’h. rom</i>. PLUT. <i>San. tu. 5</i>.<p><b>Étym</b>. <i>cf</i>. Ῥήγουλος.`

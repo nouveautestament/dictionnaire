@@ -1,0 +1,1 @@
+lar[49314]=`<b>ἱππό·δαμος, ος, ον</b> <font color="purple">[ᾰ]</font> dompteur de chevaux, IL. <i>2, 23, etc.</i> ; OD. <i>3, 17</i>.<p><b>Étym</b>. ἵ. δαμάω.`

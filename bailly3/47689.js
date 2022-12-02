@@ -1,0 +1,1 @@
+lar[47689]=`être inspiré de la divinité, prophétiser, SOPH. <i>fr. 415</i> ; EUR. <i>fr. 481</i>.<p><b>Étym</b>. θριαί.`

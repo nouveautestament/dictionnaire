@@ -1,0 +1,1 @@
+lar[17851]=`<b>ου (ὁ)</b> celui qui retranche, PTOL. <i>Tetr. 189</i>.`

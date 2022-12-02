@@ -1,0 +1,1 @@
+lar[56576]=`<b>ωνος (ὁ)</b> pépin de grenade, HPC. <i>606, 9</i> ; SOL. (PHRYN. <i>p. 396).</i><p><b>Étym</b>. κόκκος.`

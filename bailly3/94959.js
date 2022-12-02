@@ -1,0 +1,1 @@
+lar[94959]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> qui dîne avec, LUC. <i>As. 21</i>.<p><b>Étym</b>. σ. ἄριστον.`

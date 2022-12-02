@@ -1,0 +1,1 @@
+lar[83839]=`<b>προ·γανόω-ῶ</b> <font color="purple">[ᾰ]</font> récréer auparavant, PHIL. <i>1, 104 ; 2, 416</i>.`

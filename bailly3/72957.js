@@ -1,0 +1,1 @@
+lar[72957]=`<font color="purple">[ῑ]</font> <i>barbarisme d’un Triballe p</i>. ὄρνισι, AR. <i>Av. 1677</i>.`

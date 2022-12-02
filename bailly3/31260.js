@@ -1,0 +1,1 @@
+lar[31260]=`<b>ατος (τὸ)</b> éruption cutanée, DIOSC. <i>1, 53</i> ; EROT. <i>142</i> ; GEOP. <i>1, 12, 19</i>.<p><b>Étym</b>. ἐκζέω.`

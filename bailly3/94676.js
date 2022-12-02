@@ -1,0 +1,1 @@
+lar[94676]=`<b>συν·αμπέχω</b>, <i>anc. att</i>. <b>ξυναμπέχω</b>, envelopper entièrement, cacher, ESCHL. <i>Pr. 521</i>.`

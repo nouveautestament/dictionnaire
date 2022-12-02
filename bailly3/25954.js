@@ -1,0 +1,1 @@
+lar[25954]=`<b>δια·ψαύω</b>, toucher à, <i>gén</i>. HPC. <i>Art. 824</i> ; PLUT. <i>M. 1080e</i>.`

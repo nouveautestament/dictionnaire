@@ -1,0 +1,1 @@
+lar[9337]=`<i>adv.</i> :<br><b>      1</b> d’une manière sacrilège, SOPH. <i>Ph. 257</i>.<br><b>      2</b> par suite d’un crime impie, EUR. <i>El. 677, etc</i>.<p><b>Étym</b>. ἀνόσιος.`

@@ -1,0 +1,1 @@
+lar[31235]=`<b>ἐκ·δύνω</b> <font color="purple">[ῡ]</font> (<i>seul. prés. et impf</i>.) se dépouiller de, <i>acc</i>. OD. <i>1, 437 (impf. 3 sg. poét</i>. ἔκδυνε) ; ARSTT. <i>H.A. 5, 17 (prés</i>. ἐκδύνουσι) ; SPT. <i>Prov. 11, 8 (prés</i>. ἐκδύνει).<br><b><i>Moy.</i></b> <i>m. sign</i>. ORPH. <i>Arg. 240 (impf. 3 pl. poét</i>. ἐκδύνοντο).<p><b>Étym</b>. <i>cf</i>. ἐκδύω.`

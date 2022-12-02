@@ -1,0 +1,1 @@
+lar[85933]=`<b>προσ·καταγιγνώσκω :<br>      1</b> condamner en outre, ANT. <i>122, 44</i>.<br><b>      2</b> adjuger, DÉM. <i>1281, 3</i>.`

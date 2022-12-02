@@ -1,0 +1,1 @@
+lar[66087]=`<b>μισό·χριστος, ος, ον</b> <font color="purple">[μῑ]</font> qui hait le Christ, <i>p. opp. à</i> φιλόχριστος, NAZ. <i>2, 436, 536 Migne</i>.<p><b>Étym</b>. μ. Χριστός.`

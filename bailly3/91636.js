@@ -1,0 +1,1 @@
+lar[91636]=`<b>ου (ὁ)</b> Sousamithrès, <i>Perse,</i> PLUT. <i>Alc. 39</i>.`

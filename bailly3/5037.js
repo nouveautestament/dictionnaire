@@ -1,0 +1,1 @@
+lar[5037]=`<b>ας (ἡ)</b> <font color="purple">[ῡῐ]</font> dommage, perte, POL. <i>4, 47, 1</i>.<p><b>Étym</b>. ἀλυσιτελής.`

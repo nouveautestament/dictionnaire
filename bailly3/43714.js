@@ -1,0 +1,1 @@
+lar[43714]=`<b>εὔ·φθογγος, ος, ον</b> ; qui résonne agréablement, harmonieux, THGN. <i>534</i> ; EUR. <i>Tr. 127</i>.<p>•<i> Cp</i>. -ότερος, ESCHL. <i>Ch. 341 ; • Sup</i>. -ότατος, STR. <i>718</i>.<p><b>Étym</b>. εὖ, φθέγγω.`

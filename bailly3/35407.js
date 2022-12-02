@@ -1,0 +1,1 @@
+lar[35407]=`<b>ἐξ·αλύσκω</b> <font color="darkgreen">(<i>f</i>. -ύξω, <i>ao</i>. ἐξήλυξα)</font> échapper à, <i>acc</i>. EUR. <i>El. 219, etc. ; gén</i>. OPP. <i>H. 3, 104 ; abs</i>. ESCHL. <i>Eum. 111</i> ; EUR. <i>Hec. 1194</i>.`

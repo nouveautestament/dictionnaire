@@ -1,0 +1,1 @@
+lar[104380]=`<b>ὑφ·έλκω :<br>      1</b> tirer par-dessous : τὸν χοῦν, THC. <i>2, 76,</i> tirer par-dessous en minant les matériaux amoncelés.<br><b>      2</b> tirer en bas : τινὰ ποδοῖιν, IL. <i>14, 477,</i> qqn par les pieds ; κάτωθεν τὸ κλιμάκιον, PLUT. <i>M. 781e</i>, tirer en bas la petite échelle.<br><b><i>Moy.</i></b> tirer à soi, <i>acc</i>. AR. <i>Eccl. 319</i>.`

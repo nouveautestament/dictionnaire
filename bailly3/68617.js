@@ -1,0 +1,1 @@
+lar[68617]=`<b>ας (ἡ)</b> Nèsæa, <i>v. de l’Inde,</i> NONN. <i>D. 26, 88</i>.`

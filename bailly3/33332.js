@@ -1,0 +1,1 @@
+lar[33332]=`<b>ἐμ·πανηγυρίζω</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> tenir des assemblées solennelles, PLUT. <i>Per. c. Fab. 1</i>.<br><b>      2</b> venir dans une assemblée pour plaider une cause, PLUT. <i>M. 532b ;</i> SYN. <i>Ep. 79, 1449c Migne</i>.<p><b>Étym</b>. ἐν, π.`

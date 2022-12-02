@@ -1,0 +1,1 @@
+lar[101205]=`<b>ων (οἱ)</b> victimes qu’on brûlait en l’honneur du dieu Typhôn, <i>en Égypte,</i> MAN. (PLUT. <i>M. 380e</i>).<p><b>Étym</b>. Τυφῶν.`

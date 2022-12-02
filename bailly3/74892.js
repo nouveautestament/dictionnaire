@@ -1,0 +1,1 @@
+lar[74892]=`<b>παν·άϋπνος, ος, ον</b> <font color="purple">[ᾰν]</font> toujours privé du sommeil, OPP. <i>H. 2, 659</i>.<p><b>Étym</b>. π. ἄϋπνος.`

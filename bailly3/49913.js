@@ -1,0 +1,1 @@
+lar[49913]=`<i>adv</i>., avec gêne <i>ou</i> retenue, PLAT. <i>Crat. 415c</i>.<p><b>Étym</b>. ἴσχω.`

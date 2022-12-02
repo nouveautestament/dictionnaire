@@ -1,0 +1,1 @@
+lar[78801]=`<b>περι·κολούω</b>, couper tout autour, mutiler, rogner, NIC. <i>Al. 267 ; fig</i>. amoindrir, humilier, PLUT. <i>M. 139b</i>.`

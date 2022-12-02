@@ -1,0 +1,1 @@
+lar[96798]=`<b>ου (ὁ)</b> Sphæros, <i>h</i>. PLUT. <i>Lyc. 5</i> ; CLÉOM. <i>2, 11, etc</i>.<p><b>Étym</b>. σφαῖρα.`

@@ -1,0 +1,1 @@
+lar[42268]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. εὔθυνος, ARSTT. <i>fr. 406, au gén. pl</i>. εὐθυνῶν.`

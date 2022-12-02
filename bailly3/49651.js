@@ -1,0 +1,1 @@
+lar[49651]=`<b>ἰσό·κληρος, ος, ον</b> <font color="purple">[ῑ̆]</font> qui a obtenu un héritage égal, une part égale <i>ou, p. suite,</i> un sort égal, PLUT. <i>Lyc. 8</i>.<p><b>Étym</b>. ἴ. κλῆρος.`

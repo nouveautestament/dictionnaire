@@ -1,0 +1,1 @@
+lar[237]=`<b>ου (ὁ)</b> Agatharkhidas :<br><b>      1</b> <i>général corinthien,</i> THC. <i>2, 83</i>.<br><b>      2</b> <i>géographe</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀγάθαρχος.`

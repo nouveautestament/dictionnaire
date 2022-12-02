@@ -1,0 +1,1 @@
+lar[1638]=`<b>ἀει·γενετήρ, ῆρος (ὁ)</b> qui engendre éternellement, ORPH. <i>H. 7, 5</i>.`

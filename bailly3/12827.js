@@ -1,0 +1,1 @@
+lar[12827]=`<b>ἀπο·λυμαίνομαι</b> <font color="purple">[ῡ]</font> se purifier (par des ablutions) IL. <i>1, 313, 314</i> ; A.RH. <i>4, 702</i>.`

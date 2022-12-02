@@ -1,0 +1,1 @@
+lar[56405]=`ouvrir de grands yeux étonnés, avoir l’air hébété, AR. <i>Th. 852</i>.`

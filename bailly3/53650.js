@@ -1,0 +1,1 @@
+lar[53650]=`<b>καταφλεξί·πολις, ιος</b> <font color="purple">[ξῐ]</font> <i>adj. f</i>. qui met le feu à une ville, ANTH. <i>5, 2</i>.<p><b>Étym</b>. καταφλέγω, πόλις.`

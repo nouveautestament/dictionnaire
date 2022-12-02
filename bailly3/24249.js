@@ -1,0 +1,1 @@
+lar[24249]=`<b>Δημο·κλῆς, έους (ὁ)</b> Dèmoklès, <i>h</i>. DÉM. <i>784, 22</i> ; PLUT. <i>Demetr. 24, etc</i>.<p>➳ <i>Voc</i>. Δημόκλεις, THGN. <i>919 ; gén. épq</i>. -κλέος, ANTH. <i>App. 355 ; dans une inscr. att. gén</i>. -κλέϳους, CIA. <i>2, 872, 3, 12 (341 av. J.-C.)</i> — <i>Dor</i>. Δαμοκλῆς <font color="purple">[ᾱ]</font> POL. <i>13, 5</i>.<p><b>Étym</b>. δῆμος, κλέος.`

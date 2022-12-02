@@ -1,0 +1,1 @@
+lar[20695]=`<b>βραχυ·κέφαλος, ου (ὁ)</b> <font color="purple">[ᾰῠᾰ]</font> <i>litt</i>. à tête courte, <i>sorte de poisson,</i> XÉNOCR.<p><b>Étym</b>. βρ. κεφαλή.`

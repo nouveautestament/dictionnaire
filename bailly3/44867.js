@@ -1,0 +1,1 @@
+lar[44867]=`<b>ου (ὁ)</b> <i>= lat</i>. Evius, <i>n. d’h</i>. DOSITH. (PLUT. <i>Parall. min. 33</i>).`

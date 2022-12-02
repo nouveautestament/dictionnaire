@@ -1,0 +1,1 @@
+lar[65570]=`<b>μητρο·φόνος, ος, ον</b>, qui tue sa mère, meurtrier de sa mère, parricide, ESCHL. <i>Eum. 257, 268</i>.<p>➳ <i>Dor</i>. ματροφόνος <font color="purple">[ᾱ]</font> ESCHL. <i>ll. cc</i>.<p><b>Étym</b>. μ. πεφνεῖν.`

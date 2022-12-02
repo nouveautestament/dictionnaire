@@ -1,0 +1,1 @@
+lar[63266]=`<i>adv</i>., vainement, <i>càd.</i> :<br><b>      1</b> en vain, inutilement, IL. <i>2, 120</i> ; μὰψ ὀμόσαι, IL. <i>15, 40,</i> prononcer un serment qu’on ne tiendra pas, ESCHL. <i>Sept. 768</i>.<br><b>      2</b> sottement, follement, IL. <i>5, 759 ; 20, 298, 348</i>.<br><b>      3</b> sans raison, au hasard, IL. <i>2, 214 ; 5, 759</i> ; OD. <i>3, 138</i>.`

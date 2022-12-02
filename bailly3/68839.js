@@ -1,0 +1,1 @@
+lar[68839]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾱ]</font> Niphatès (<i>auj</i>. Hatrasch) <i>chaîne de mt. d’Arménie,</i> PLUT. <i>Alex. 31</i>.`

@@ -1,0 +1,1 @@
+lar[16286]=`<b>ἀστραπό·φρικτος, ος, ον</b> <font color="purple">[ᾰπ]</font> qui frissonne de la lueur des éclairs, <i>p. suite,</i> des atteintes de la foudre, CHRYS.<p><b>Étym</b>. ἀστραπή, φρίσσω.`

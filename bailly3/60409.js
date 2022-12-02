@@ -1,0 +1,1 @@
+lar[60409]=`<b>λεπτό·ϊνος, ος, ον</b> <font color="purple">[ῑ]</font> aux fibres ténues, minces, délicates, TH. <i>H.P. 3, 9, 3</i>.<p><b>Étym</b>. λ. ἴς.`

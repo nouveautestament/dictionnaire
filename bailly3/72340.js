@@ -1,0 +1,1 @@
+lar[72340]=`<b>ὁπλο·δοτέω-ῶ</b>, donner des armes à, <i>acc</i>. SPT. <i>1Macc. 14, 32</i>.<p><b>Étym</b>. ὅπλον, δοτός.`

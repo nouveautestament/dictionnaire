@@ -1,0 +1,1 @@
+lar[71606]=`<i>vb. de</i> ὁμολογέω, XÉN. <i>Cyr. 2, 1, 8</i> ; PLAT. <i>Phil. 37e, Tim. 51e, etc</i>.`

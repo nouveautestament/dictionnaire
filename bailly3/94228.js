@@ -1,0 +1,1 @@
+lar[94228]=`<b>συμ·πετάννυμι</b> <font color="purple">[ῡ]</font> déployer ensemble, EN. TACT. <i>Pol. 37, 4</i>.`

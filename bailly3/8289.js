@@ -1,0 +1,1 @@
+lar[8289]=`<b>ἀν·ελκόω-ῶ</b>, faire suppurer de nouveau, CASS. <i>Probl. 9</i>.<p><b>Étym</b>. ἀνά, ἑλκόω.`

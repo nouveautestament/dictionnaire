@@ -1,0 +1,1 @@
+lar[5734]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit vase à traire, THCR. <i>Idyl. 25, 106</i>.<p><b>Étym</b>. ἀμολγός.`

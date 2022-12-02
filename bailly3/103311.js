@@ -1,0 +1,1 @@
+lar[103311]=`<b>ὑπο·καθίσταμαι :<br>      1</b> déposer au fond, GAL. <i>19, 605</i>.<br><b>      2</b> mettre à la place, substituer, HDN <i>8, 8, 3</i>.`

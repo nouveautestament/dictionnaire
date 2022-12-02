@@ -1,0 +1,1 @@
+lar[106589]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῑ]</font> bois de palmiers, EL. <i>N.A. 16, 18</i> ; JOS. <i>B.J. 4, 8, 2</i>.<p><b>Étym</b>. φοῖνιξ.`

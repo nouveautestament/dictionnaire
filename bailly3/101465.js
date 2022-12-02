@@ -1,0 +1,1 @@
+lar[101465]=`<b>ὑδατό·κλυστος, ος, ον</b> <font color="purple">[ῠᾰ]</font> lavé dans l’eau, PLUT. <i>M. 134e</i>.<p><b>Étym</b>. ὕδ. κλύζω.`

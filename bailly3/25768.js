@@ -1,0 +1,1 @@
+lar[25768]=`<b>ή, όν</b>, propre à détourner, à dissuader, PLUT. <i>M. 783f</i>.<p><b>Étym</b>. διατρέπω.`

@@ -1,0 +1,1 @@
+lar[17997]=`<b>ἀφ·έψαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui brûle sans flamme <i>ou</i> sans étincelle, HSCH.<p><b>Étym</b>. ἀφέψω.`

@@ -1,0 +1,1 @@
+lar[84082]=`<b>προ·έκκρισις, εως (ἡ)</b> <font color="purple">[ῐσ]</font> séparation préalable, ARTÉM. <i>4, 84 vulg</i>.<p><b>Étym</b>. προεκκρίνω.`

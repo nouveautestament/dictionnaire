@@ -1,0 +1,1 @@
+lar[106893]=`<font color="purple">[ῐ]</font> exhaler un souffle bruyant, souffler avec force, <i>en parl. des boucs et des chèvres,</i> THCR. <i>Idyl. 5, 141 ; qqf. des chevaux,</i> HDT. <i>3, 87</i> ; ANTH. <i>9, 281 ; des coqs,</i> EL. <i>N.A. 7, 7</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

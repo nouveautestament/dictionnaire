@@ -1,0 +1,1 @@
+lar[1691]=`<b>ἀει·παρθένος, ου (ἡ)</b> toujours vierge, qui fait vœu de chasteté, <i>en parl. des vestales, à Rome,</i> DC. <i>37, 35, 4 ; 37, 45, 1 ; 51, 19, 2</i>.`

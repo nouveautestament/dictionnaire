@@ -1,0 +1,1 @@
+lar[81467]=`<b>ποιο·νόμος, ος, ον</b>, qui broute l’herbe, ESCHL. <i>Ag. 1169</i>.<p><b>Étym</b>. ποία, νέμω.`

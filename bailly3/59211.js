@@ -1,0 +1,1 @@
+lar[59211]=`<b>ας (ἡ)</b> confection d’une comédie, PLUT. <i>M. 348a</i>.<p><b>Étym</b>. κωμῳδοποιός.`

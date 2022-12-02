@@ -1,0 +1,1 @@
+lar[109501]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> vain, frivole, faux, LYC. <i>1420 conj</i>.`

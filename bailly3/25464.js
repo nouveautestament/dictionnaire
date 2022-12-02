@@ -1,0 +1,1 @@
+lar[25464]=`<b>δια·ρριπίζω</b> <font color="purple">[ρῑ]</font> disperser par le vent, éparpiller, HLD. <i>9, 14</i>.`

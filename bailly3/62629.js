@@ -1,0 +1,1 @@
+lar[62629]=`<b>μαλακο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰᾰ]</font> au caractère doux, facile, ESCHL. <i>Pr. 188</i>.<p><b>Étym</b>. μ. γνώμη.`

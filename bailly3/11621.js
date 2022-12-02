@@ -1,0 +1,1 @@
+lar[11621]=`<b>ἀπ·έκ</b>, <i>dev. une voy</i>. <b>ἀπ·έξ</b> <font color="purple">[ᾰ]</font> <i>prép</i>. hors de, <i>gén</i>. HH. <i>Ap. 110</i> ; Q. SM. <i>4, 540</i>.<p><b>Étym</b>. <i>p</i>. ἀπ' ἐκ, ἀπ' ἐξ.`

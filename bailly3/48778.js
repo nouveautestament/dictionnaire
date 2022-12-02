@@ -1,0 +1,1 @@
+lar[48778]=`<b>ητος (ἡ)</b> <font color="purple">[ῐᾰ]</font> suffisance, <i>càd.</i> :<br><b>      1</b> quantité <i>ou</i> longueur suffisante, PLAT. <i>Leg. 930c.</i><br><b>      2</b> aptitude, capacité, PLAT. <i>Lys. 215a ;</i> NT. <i>2Cor. 3, 5</i>.<p><b>Étym</b>. ἱκανός.`

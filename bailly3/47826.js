@@ -1,0 +1,1 @@
+lar[47826]=`<b>θυη·δόχος, ος, ον</b>, qui reçoit des parfums, ANTH. <i>8, 25</i>.<p><b>Étym</b>. θύος, δέχομαι.`

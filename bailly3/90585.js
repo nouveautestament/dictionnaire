@@ -1,0 +1,1 @@
+lar[90585]=`<font color="purple">[σῑ]</font> pomper à l’aide d’un siphon, AR. <i>Th. 557</i>.<p><b>Étym</b>. σίφων.`

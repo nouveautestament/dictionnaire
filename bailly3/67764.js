@@ -1,0 +1,1 @@
+lar[67764]=`<b>ναυ·μέδων, οντος (ὁ)</b> qui commande aux navires, <i>ép. de Poséidon,</i> LYC. <i>157</i>.<p><b>Étym</b>. ν. μέδων.`

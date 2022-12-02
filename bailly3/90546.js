@@ -1,0 +1,1 @@
+lar[90546]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> préparation d’aliments, XÉN. <i>Œc. 7, 21</i>.<p><b>Étym</b>. σιτοποιός.`

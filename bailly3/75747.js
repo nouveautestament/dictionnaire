@@ -1,0 +1,1 @@
+lar[75747]=`<b>ος, ον</b>, qu’on appelle à son secours, <i>d’où subst.</i> :<br><b>      1</b> avocat, défenseur (<i>cf. lat</i>. advocatus) DÉM. <i>341, 10, etc.</i><br><b>      2</b> intercesseur, PHIL. <i>2, 520, etc., d’où</i> le Paraclet, <i>pour désigner le Saint-Esprit,</i> NT. <i>Joh. 14, 16, etc</i>.<p><b>Étym</b>. παρακαλέω.`

@@ -1,0 +1,1 @@
+lar[42684]=`<b>εὐμεταπτώτως</b>, <i>adv</i>., avec propension à tomber, ARR. <i>Epict. 2, 22, 8Cor</i>.`

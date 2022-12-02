@@ -1,0 +1,1 @@
+lar[16269]=`<b>ή, όν</b> <font color="purple">[ᾰγᾰ]</font> garni d’osselets ; ἀστραγαλωτὴ μάστιξ, CRATÈS (POLL. <i>10, 54</i>), PLUT. <i>ou</i> ἀστραγαλωτὸς ἱμάς, POSIDON. (ATH. <i>153a</i>) fouet garni d’osselets.<p><b>Étym</b>. *ἀστραγαλόω, <i>de</i> ἀστράγαλος.`

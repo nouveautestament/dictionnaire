@@ -1,0 +1,1 @@
+lar[109222]=`<b>χρυσο·πάρυφος, ος, ον</b> <font color="purple">[ῡᾰῠ]</font> à bordure d’or, PLUT. <i>Demetr. 41</i>.<p><b>Étym</b>. χρ. παρυφή.`

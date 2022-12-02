@@ -1,0 +1,1 @@
+lar[63598]=`<b>μεθ·ηλικιόομαι-οῦμαι</b> <font color="purple">[ῐκ]</font> passer d’un âge à un autre, BAS. <i>2, 25 Migne</i>.<p><b>Étym</b>. μετά, ἡλικία.`

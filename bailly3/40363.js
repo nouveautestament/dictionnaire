@@ -1,0 +1,1 @@
+lar[40363]=`<b>άδος (ἡ)</b> solitude, THCR. <i>Idyl. 27, 62 dout</i>.<p><b>Étym</b>. ἔρημος.`

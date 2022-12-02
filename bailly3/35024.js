@@ -1,0 +1,1 @@
+lar[35024]=`<b>ἐν·τείχιος, ος, ον</b>, entouré de murs, de remparts, DH. <i>1, 26</i>.<p><b>Étym</b>. ἐν, τεῖχος.`

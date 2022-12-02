@@ -1,0 +1,1 @@
+lar[22747]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> petit gymnase, ARR. <i>Epict. 2, 16, 29</i>.<p><b>Étym</b>. <i>dim. de</i> γυμνάσιον.`

@@ -1,0 +1,1 @@
+lar[52624]=`<b>κατα·κρήμναμαι</b> <font color="purple">[νᾰ]</font> <i>(seul. prés.) c</i>. κατακρέμαμαι, HPC. <i>464, 20</i> ; AR. <i>Nub. 376</i>.`

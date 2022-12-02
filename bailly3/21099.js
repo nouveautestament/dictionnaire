@@ -1,0 +1,1 @@
+lar[21099]=`<b>ας (ἡ)</b> moquerie bouffonne, mauvaise plaisanterie, PLAT. <i>Rsp. 606c ;</i> ARSTT. <i>Nic. 2, 7, 13</i> ; PLUT. <i>Lyc. 12 ; etc</i>.<p><b>Étym</b>. βωμολόχος.`

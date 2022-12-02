@@ -1,0 +1,1 @@
+lar[42639]=`<b>Εὐ·μάρης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Eumarès, <i>h</i>. LYS. <i>135, 38</i>.<p>➳ <i>Dor</i>. Εὐμάρας <font color="purple">[ᾰᾱ]</font> THCR. <i>Idyl. 5, 10, 73, 119. Gén. ion</i>. Εὐμάρεω, ANTH. <i>7, 284</i>.<p><b>Étym</b>. <i>cf</i>. εὐμαρής.`

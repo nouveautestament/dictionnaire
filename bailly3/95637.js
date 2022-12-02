@@ -1,0 +1,1 @@
+lar[95637]=`<b>συν·επικουρέω-ῶ</b>, venir ensemble <i>ou</i> en même temps au secours de, <i>dat</i>. XÉN. <i>Cyr. 1, 6, 24</i> ; SEXT. <i>M. 5, 32 ; abs</i>. XÉN. <i>Hier. 3, 2</i>.`

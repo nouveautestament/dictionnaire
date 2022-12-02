@@ -1,0 +1,1 @@
+lar[51139]=`<b>καλλι·κόλωνος, ος, ον</b> <font color="purple">[ῐ]</font> aux belles collines, DÉMÉTR. SCEPS. (SCH.-IL. <i>20, 53).</i><p><b>Étym</b>. κ. κολώνη.`

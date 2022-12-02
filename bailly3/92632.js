@@ -1,0 +1,1 @@
+lar[92632]=`<b>ή, όν</b>, propre à faire briller, JOS.<p><b>Étym</b>. στιλπνόω.`

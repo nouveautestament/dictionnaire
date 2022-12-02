@@ -1,0 +1,1 @@
+lar[64684]=`<b>μετα·γεννάω-ῶ</b>, faire renaître, régénérer, JOS. <i>A.J. 11, 3, 3</i>.`

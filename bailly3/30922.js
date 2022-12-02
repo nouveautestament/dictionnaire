@@ -1,0 +1,1 @@
+lar[30922]=`<b>εἰσ·ωπός, ός, όν :<br>      1</b> qui est en vue de, <i>gén</i>. IL. <i>15, 653</i>.<br><b>      2</b> en face de, <i>dat</i>. A.RH. <i>2, 751</i> ; ARAT. <i>79, 122</i>.<p><b>Étym</b>. εἰς, ὤψ.`

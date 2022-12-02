@@ -1,0 +1,1 @@
+lar[24987]=`<b>δια·λωβάω-ῶ</b> (<i>seul. part. pf. pass</i>. διαλελωβημένος) gâter, mutiler, corrompre, PLUT. <i>Cæs. 58</i>.<br><b><i>Moy.</i></b> mutiler, <i>acc</i>. POL. <i>11, 4, 1</i> ; PLUT. <i>M. 986e</i>.`

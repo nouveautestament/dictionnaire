@@ -1,0 +1,1 @@
+lar[69381]=`<b>ξανθο·κάρυον, ου (τὸ)</b> <font color="purple">[κᾱ]</font> sorte de noix, ÆT. <i>1, p. 9b, 40</i>.`

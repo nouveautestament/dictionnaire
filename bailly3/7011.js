@@ -1,0 +1,1 @@
+lar[7011]=`<b>ἀνα·κροτέω-ῶ</b>, <i>poét</i>. <b>ἀγ·κροτέω</b>, battre des mains, applaudir, AR. <i>Eq. 651, Vesp. 1314</i> ; ἀν. τὰς χεῖρας, ESCHN. <i>33, 36, etc.</i> ; τὼ χεῖρε, AR. <i>Pl. 789, m. sign</i>.`

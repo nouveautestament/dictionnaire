@@ -1,0 +1,1 @@
+lar[103842]=`<b>ὑπό·σκοπος, ος, ον</b>, dont on s’abrite pour mieux voir, <i>en parl. de la main,</i> ESCHL. <i>fr. 73</i>.<p><b>Étym</b>. ὑποσκέπτομαι.`

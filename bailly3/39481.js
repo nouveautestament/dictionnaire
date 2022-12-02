@@ -1,0 +1,1 @@
+lar[39481]=`<b>εως (ἡ)</b> action de percer à la surface, ORIB. <i>p. 98, 12</i>.<p><b>Étym</b>. ἐπιτιτράω.`

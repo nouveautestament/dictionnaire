@@ -1,0 +1,1 @@
+lar[77358]=`<b>ου (ὁ)</b> = <i>lat</i>. patricius, patricien, DH. <i>2, 8, etc</i>.`

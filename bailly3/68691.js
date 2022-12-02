@@ -1,0 +1,1 @@
+lar[68691]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui nage, XÉNOCR. <i>Al. 1</i>.<p><b>Étym</b>. νήχω.`

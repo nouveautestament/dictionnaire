@@ -1,0 +1,1 @@
+lar[103213]=`<b>ὑπο·δύσφορος, ος, ον</b>, un peu impatient <i>ou</i> mécontent, HPC. <i>Prorrh. 70, Coac. 124</i>.`

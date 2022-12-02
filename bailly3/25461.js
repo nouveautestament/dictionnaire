@@ -1,0 +1,1 @@
+lar[25461]=`<b>ατος (τὸ)</b> allées et venues d’un chien qui se jette de côté et d’autre en bondissant çà et là, XÉN. <i>Cyn. 4, 4</i>.<p><b>Étym</b>. διαρρίπτω.`

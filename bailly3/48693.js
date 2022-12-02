@@ -1,0 +1,1 @@
+lar[48693]=`<b>ἰη·παιήων, ήονος (ὁ) :<br>      1</b> dieu qu’on invoque par le cri ἰὴ παιών <i>ou</i> παιάν, <i>càd</i>. Apollon, HH. <i>Ap. 272</i> ; A.RH. <i>2, 702</i>.<br><b>      2</b> hymne en l’honneur d’Apollon, HH. <i>Ap. 500, 517</i>.<p><b>Étym</b>. ἰή, Παιήων.`

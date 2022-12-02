@@ -1,0 +1,1 @@
+lar[18642]=`<b>έων (οἱ)</b> habitants des î. d’Apsyrte <i>ou</i> Absyrte, A.RH. (<i>v</i>. Ἀψυρτίδες).`

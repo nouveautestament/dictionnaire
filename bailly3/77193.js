@@ -1,0 +1,1 @@
+lar[77193]=`<b>Παρ·ωκεανίτης, ου</b> <font color="purple">[ᾰνῑ]</font> <i>adj. m. c</i>. Παρωκεάνιος THPP. (ATH. <i>526d</i>) ; STR. <i>835, etc</i>.`

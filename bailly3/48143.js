@@ -1,0 +1,1 @@
+lar[48143]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> action de cuirasser, SPT. <i>2Macc. 5, 3</i>.<p><b>Étym</b>. θωρακίζω.`

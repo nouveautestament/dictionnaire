@@ -1,0 +1,1 @@
+lar[53255]=`<b>κατά·ρριζος, ος, ον</b>, qui a de nombreuses, de fortes <i>ou</i> de profondes racines, TH. <i>H.P. 1, 6, 8</i>.<p><b>Étym</b>. κ. ῥίζα.`

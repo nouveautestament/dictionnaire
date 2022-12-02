@@ -1,0 +1,1 @@
+lar[59026]=`<b>ου</b> <font color="purple">[ῠῑ]</font> <i>adj. m</i>. de Kytina, <i>v. de Thessalie,</i> LYC. <i>1020, 1389</i>.`

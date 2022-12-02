@@ -1,0 +1,1 @@
+lar[71974]=`<i>adv</i>., par un nom propre <i>ou</i> particulier, ATH. <i>646a</i>.`

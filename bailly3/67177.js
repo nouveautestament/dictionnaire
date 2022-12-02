@@ -1,0 +1,1 @@
+lar[67177]=`<b>μυο·θήρας, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui fait la chasse aux souris, ARSTT. <i>H.A. 9, 6, 9</i>.<p><b>Étym</b>. μ. θήρα.`

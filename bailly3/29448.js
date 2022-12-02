@@ -1,0 +1,1 @@
+lar[29448]=`<b>ἐγ·καθηβάω-ῶ</b> <font color="darkgreen">(<i>inf. prés</i>. -ᾶν)</font> passer sa jeunesse dans, <i>d’où</i> s’exercer à, EUR. <i>Hipp. 1096</i>.<p><b>Étym</b>. ἐν, κ.`

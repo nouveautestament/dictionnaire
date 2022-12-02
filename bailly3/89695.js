@@ -1,0 +1,1 @@
+lar[89695]=`<b>ου (ὁ)</b> = <i>lat</i>. Secundus, <i>n. d’h. rom</i>. PLUT. <i>Oth. 9 ; particul. poète de l’Anthologie,</i> ANTH. <i>9, 600, etc</i>.`

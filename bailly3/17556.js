@@ -1,0 +1,1 @@
+lar[17556]=`<b>αὐτο·κύριος, ου (ὁ)</b> <font color="purple">[ῡ]</font> maître absolu, NAZ.`

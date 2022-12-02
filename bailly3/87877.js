@@ -1,0 +1,1 @@
+lar[87877]=`<b>πυρί·κμητος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> travaillé au feu, CALL. <i>Del. 145</i>.<br><b>      2</b> brûlé, NIC. <i>Th. 241</i>.<p><b>Étym</b>. π. <i>vb. de</i> κάμνω.`

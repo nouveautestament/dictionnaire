@@ -1,0 +1,1 @@
+lar[8119]=`<b>ωνος (ὁ)</b> Androtiôn :<br><b>      1</b> <i>disciple d’Isocrate,</i> DÉM. <i>24, 6 Baiter-Sauppe, etc.</i> ; PLUT. <i>Dem. 15, etc.</i><br><b>      2</b> <i>historien,</i> PLUT. <i>Sol. 15, etc.</i><br><b>      3</b> <i>autres,</i> PLAT. <i>Gorg. 478b, etc</i>.`

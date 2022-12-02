@@ -1,0 +1,1 @@
+lar[2536]=`<b>αἱματ·εκχυσία, ας (ἡ)</b> <font color="purple">[ῠ]</font> effusion de sang, NT. <i>Hebr. 9, 22</i>.<p><b>Étym</b>. αἷμα, ἐκχέω.`

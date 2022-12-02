@@ -1,0 +1,1 @@
+lar[4917]=`<b>ιδος (ἡ)</b> gentiane amère, DIOSC. <i>3, 3</i>.<p><b>Étym</b>. ἀλόη.`

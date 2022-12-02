@@ -1,0 +1,1 @@
+lar[89409]=`<b>οῦς (ἡ)</b> Sardaigne, <i>î. de la Méditerranée,</i> HDT. <i>1, 170</i> ; AR. <i>Vesp. 700, etc</i>.<p>➳ <i>Gén</i>. Σαρδόνος, POL. <i>1, 24, 5, etc. ; ou</i> Σαρδῶνος, STR. <i>106</i>.`

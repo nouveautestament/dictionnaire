@@ -1,0 +1,1 @@
+lar[44683]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en peintre, SEXT. <i>M. 11, 255</i>.`

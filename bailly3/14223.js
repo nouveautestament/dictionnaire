@@ -1,0 +1,1 @@
+lar[14223]=`<b>ας (ἡ)</b> <i>c</i>. Γαργαφία, ALCIPHR. <i>3, 1</i>.<p>➳ <i>Ion</i>. -ίη, CALL. <i>740 Pfeiffer</i>.`

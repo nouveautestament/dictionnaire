@@ -1,0 +1,1 @@
+lar[4207]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de poulet, HPC. <i>645a</i>.<p><b>Étym</b>. ἀλεκτρυών.`

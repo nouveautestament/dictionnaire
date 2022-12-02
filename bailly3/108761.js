@@ -1,0 +1,1 @@
+lar[108761]=`<b>ης, ες :<br>      1</b> qui ressemble à du gruau, grumeux, HPC. <i>585, 33</i> ; ATH. <i>115d.</i><br><b>      2</b> cartilagineux, HPC. <i>Fract. 778</i> ; ARSTT. <i>H.A. 1, 12, 1 ; 1, 16, 3, etc. ; p. opp. à</i> νευρώδης <i>ou</i> ὀστώδης, ARSTT. <i>H.A. 2, 1, 46</i> ; τὸ χονδρῶδες, ARSTT. <i>H.A. 4, 1, 22,</i> la partie cartilagineuse.<p><b>Étym</b>. χ. -ωδης.`

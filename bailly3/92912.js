@@ -1,0 +1,1 @@
+lar[92912]=`<b>ης (ἡ)</b> Strepsa, <i>lieu sur la frontière de Thrace et de Macédoine,</i> ESCHN. <i>2, 27 Baiter-Sauppe</i>.`

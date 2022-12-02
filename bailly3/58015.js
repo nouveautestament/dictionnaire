@@ -1,0 +1,1 @@
+lar[58015]=`<b>κροκό·βαπτος, ος, ον</b>, teint avec du safran, de couleur jaune, ESCHL. <i>Pers. 660</i>.<p><b>Étym</b>. κρόκος, βάπτω.`

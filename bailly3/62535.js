@@ -1,0 +1,1 @@
+lar[62535]=`<b>μακρο·μεγέθης, ης, ες</b>, de taille allongée, ORIG. <i>3, 822 Migne</i>.<p><b>Étym</b>. μ. μέγεθος.`

@@ -1,0 +1,1 @@
+lar[103043]=`<b>ὑπο·βορβορύζω</b>, avoir des borborygmes, gronder intérieurement, HPC. <i>Coac. 126, 1121</i> ; ARÉT. <i>Caus. m. acut. 2, 6</i>.`

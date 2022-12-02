@@ -1,0 +1,1 @@
+lar[108400]=`<b>(τὸ)</b> <i>seul. dat. sg</i>. χήτεϊ, manque, défaut, IL. <i>6, 463 ; 19, 324, etc.</i> ; HH. <i>Ap. 78</i> ; HDT. <i>9, 11</i> ; ORPH. <i>Lith. 76 ; p. contract</i>. χήτει, OD. <i>16, 35</i> ; PLAT. <i>Phædr. 239d</i>, à défaut de, faute de, <i>gén</i>.<p><b>Étym</b>. <i>cf</i>. χατέω.`

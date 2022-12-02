@@ -1,0 +1,1 @@
+lar[96105]=`<b>σύν·οδος, ος, ον</b>, compagnon <i>ou</i> compagne de voyage, ARR. <i>Epict. 2, 14, 8 ; 3, 21, 5</i> ; ANTH. <i>7, 635</i> ; MAN. <i>5, 58</i>.<p><b>Étym</b>. σύν, ὁδός.`

@@ -1,0 +1,1 @@
+lar[58392]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui concerne le pilote <i>ou</i> la manœuvre du gouvernail, ORACL. (PLUT. <i>Sol. 14</i>).`

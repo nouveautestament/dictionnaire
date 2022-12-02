@@ -1,0 +1,1 @@
+lar[43148]=`<b>εὐ·πυροφόρος, ος, ον</b> <font color="purple">[ῡ]</font> fertile en blé, STR. <i>241</i>.<p><b>Étym</b>. εὖ, π.`

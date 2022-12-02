@@ -1,0 +1,1 @@
+lar[32053]=`<b>ἐκ·σπερματόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> monter en graine, TH. <i>H.P. 7, 1, 7</i>.`

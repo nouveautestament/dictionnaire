@@ -1,0 +1,1 @@
+lar[68331]=`<b>ωτος (ὁ)</b> = <i>lat</i>. Nĕpōs, <i>n. d’h. rom</i>. PLUT. <i>Luc. 43, etc</i>.`

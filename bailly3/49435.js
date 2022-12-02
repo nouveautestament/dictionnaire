@@ -1,0 +1,1 @@
+lar[49435]=`<b>ἱππο·τραγέλαφος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> animal fantastique, à la fois cheval, bouc et cerf, PHILÉM. (ATH. <i>497f</i>).<p><b>Étym</b>. ἵ. τράγος, ἔλαφος.`

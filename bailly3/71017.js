@@ -1,0 +1,1 @@
+lar[71017]=`<b>ὀλιγό·θερμος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a que peu de chaleur, ARSTT. <i>P.A. 2, 7, 8, etc</i>.<p><b>Étym</b>. ὀλ. θέρμη.`

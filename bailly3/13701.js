@@ -1,0 +1,1 @@
+lar[13701]=`<b>ἀπ·ουρόω-ῶ</b>, avoir le vent contraire, POL. <i>16, 15, 4</i>.<p><b>Étym</b>. ἀ. οὖρος.`

@@ -1,0 +1,1 @@
+lar[46364]=`<b>οῦ (ὁ)</b> admirateur, ARSTT. <i>Rhet. 2, 6, 24</i>.<p><b>Étym</b>. θαυμάζω.`

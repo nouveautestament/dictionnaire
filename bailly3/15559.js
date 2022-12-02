@@ -1,0 +1,1 @@
+lar[15559]=`<b>Ἀρχε·φῶν, ῶντος (ὁ)</b> Arkhéphôn, DH. <i>Din. 12</i> ; MACH. (ATH. <i>244b</i>) <i>etc</i>.<p><b>Étym</b>. ἄ. φάω.`

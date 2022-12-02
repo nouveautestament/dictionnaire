@@ -1,0 +1,1 @@
+lar[24135]=`<b>ος, ον</b>, qui mord, <i>gén</i>. EUR. <i>Hec. 235, fig</i>.`

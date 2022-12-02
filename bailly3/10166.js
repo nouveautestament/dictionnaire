@@ -1,0 +1,1 @@
+lar[10166]=`<font color="purple">[πᾰ]</font> <i>adv</i>., à forces égales <i>ou</i> avec un succès égal, THC. <i>8, 87</i>.`

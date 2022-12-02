@@ -1,0 +1,1 @@
+lar[24630]=`<b>δια·θάλπω</b> (<i>part. prés</i>. -θάλπων), pénétrer d’une douce chaleur, PLUT. <i>M. 799b</i>.`

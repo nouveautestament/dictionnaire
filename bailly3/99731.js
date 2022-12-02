@@ -1,0 +1,1 @@
+lar[99731]=`<i>enclit. d’ord. sans accent, att. c</i>. τινός, <i>gén. de</i> τὶς <i>indéfini</i>.`

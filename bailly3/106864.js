@@ -1,0 +1,1 @@
+lar[106864]=`<b>φρεν·ώλης, ης, ες</b>, qui a l’esprit perdu, ESCHL. <i>Sept. 757</i>.<p><b>Étym</b>. φρήν, ὄλλυμι.`

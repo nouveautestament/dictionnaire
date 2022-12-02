@@ -1,0 +1,1 @@
+lar[54571]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Cécrops, AR. <i>Av. 1407</i>.<p>➳ <i>Voc</i>. Κεκροπί, ANTH. <i>5, 134</i>.<p><b>Étym</b>. <i>v</i>. Κεκρόπιος.`

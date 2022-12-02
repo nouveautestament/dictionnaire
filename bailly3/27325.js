@@ -1,0 +1,1 @@
+lar[27325]=`<b>ορος (ὁ)</b> Dmètôr (<i>litt</i>. le dompteur) <i>h</i>. OD. <i>17, 443</i>.<p><b>Étym</b>. <i>cf</i>. δμητήρ.`

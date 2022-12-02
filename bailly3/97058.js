@@ -1,0 +1,1 @@
+lar[97058]=`<b>η, ον</b> <font color="purple">[ῑῐ]</font> de lentisque, HPC. <i>587, 2</i> ; DIOSC. <i>1, 50, etc</i>.<p><b>Étym</b>. σχῖνος.`

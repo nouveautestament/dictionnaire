@@ -1,0 +1,1 @@
+lar[62133]=`<b>λυχνό·βιος, ος, ον</b>, qui vit à la lumière des lampes, SÉN. <i>Ep. 122</i>.<p><b>Étym</b>. λύχνος, βίος.`

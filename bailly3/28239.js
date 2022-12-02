@@ -1,0 +1,1 @@
+lar[28239]=`<b>δυσ·άρμοστος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> disjoint, <i>en parl. d’une tour,</i> APP. <i>Mithr. 34</i>.<br><b>      2</b> <i>fig</i>. désuni, en désaccord, PLUT. <i>Eum. 13</i>.<p><b>Étym</b>. δ. ἁρμόττω.`

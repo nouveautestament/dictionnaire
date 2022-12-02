@@ -1,0 +1,1 @@
+lar[36609]=`<b>ἐπ·ανακρούω</b>, faire reculer ; <i>au moy</i>. reculer, <i>en parl. d’un navire,</i> AR. <i>Av. 648</i>.`

@@ -1,0 +1,1 @@
+lar[8488]=`<b>ἀν·επιστάτητος, ος, ον</b> <font color="purple">[τᾰ]</font> sans intendant, sans président, M. TYR. <i>14, 8</i>.<p><b>Étym</b>. ἀν-, ἐπιστατέω.`

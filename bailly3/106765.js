@@ -1,0 +1,1 @@
+lar[106765]=`<b>ή, όν</b>, des Francs, ANTH. <i>App. 312</i>.<p><b>Étym</b>. Φράγγοι.`

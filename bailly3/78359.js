@@ -1,0 +1,1 @@
+lar[78359]=`<b>ή, όν</b>, enlevé <i>ou</i> coupé tout autour, THC. <i>2, 13</i> ; PLUT. <i>M. 828b ;</i> LUC. <i>Im. 3</i>.<p><b>Étym</b>. <i>vb. de</i> περιαιρέω.`

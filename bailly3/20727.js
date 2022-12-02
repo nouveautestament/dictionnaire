@@ -1,0 +1,1 @@
+lar[20727]=`<b>βραχύ·σκιος, ος, ον</b> <font color="purple">[ᾰῐ]</font> à l’ombre courte, ORIG. <i>1, 469a</i>.<p><b>Étym</b>. βρ. σκιά.`

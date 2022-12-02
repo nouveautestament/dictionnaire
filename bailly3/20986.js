@@ -1,0 +1,1 @@
+lar[20986]=`<b>ου :<br>      1</b> <i>subst</i>. ἡ β. Byblos, <i>v. de Phénicie (auj</i>. Byblos <i>ou</i> Jbeil), <i>célèbre par le culte d’Adonis,</i> STR. <i>755</i> ; NONN. <i>D. 3, 109</i> ; LUC. <i>Syr. 7 ; etc.</i><br><b>      2</b> <i>adj</i>. de Byblos, DP. <i>912 ; avec</i> χώρα, PLUT. <i>Is. et Os. 15</i>.`

@@ -1,0 +1,1 @@
+lar[82795]=`<b>ή, όν</b>, qui a le talent de procurer, qui procure <i>ou</i> fournit, <i>gén</i>. XÉN. <i>Mem. 3, 1, 6</i> ; PLAT. <i>Gorg. 517d ;</i> ARSTT. <i>Rhet. 1, 9, 4</i> ; ποριστικὴ βίβλος, EN. TACT. traité des approvisionnements <i>ou</i> de l’intendance.<p><b>Étym</b>. πορίζω.`

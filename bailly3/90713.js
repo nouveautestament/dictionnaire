@@ -1,0 +1,1 @@
+lar[90713]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> dispersion, OD. <i>1, 116 ; 20, 225</i> ; ARÉT. <i>Cur. m. diut. 1, 3</i>.<p><b>Étym</b>. σκεδάννυμι.`

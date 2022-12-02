@@ -1,0 +1,1 @@
+lar[108143]=`<b>χειρο·κρατία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> domination par mainmise, domination par la force, tyrannie, POL. <i>6, 9, 6</i> ; DS. <i>Exc. 608, 46</i> ; APP. <i>Civ. 1, 17</i>.<br><b>      2</b> action d’en venir aux mains, engagement, mêlée, DH. <i>8, 72 (forme</i> -κρασία, <i>v. ci-dessus).</i><p><b>Étym</b>. χ. κρατέω.`

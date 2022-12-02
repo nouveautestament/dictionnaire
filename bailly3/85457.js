@@ -1,0 +1,1 @@
+lar[85457]=`<b>ῆς (ἡ)</b> admission, réception, EPIC. (DL. <i>10, 89).</i><p><b>Étym</b>. προσδέχομαι.`

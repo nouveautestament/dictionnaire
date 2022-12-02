@@ -1,0 +1,1 @@
+lar[72045]=`<b>ὀξ·έλαιον, ου (τὸ)</b> mélange d’huile et de vinaigre, XÉNOCR. <i>Al. 59</i>.<p><b>Étym</b>. ὄξος, ἔλαιον.`

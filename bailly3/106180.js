@@ -1,0 +1,1 @@
+lar[106180]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec des sentiments d’amitié <i>ou</i> de bienveillance, HDT. <i>2, 121 ; 3, 13, 51</i> ; XÉN. <i>Cyr. 3, 3, 10</i> ; PLAT. <i>Criti. 120e</i>.<p>•<i> Cp</i>. -ώτερον, HPC. <i>ou</i> -εστέρως, XÉN. <i>Conv. 1, 10</i>.<p><b>Étym</b>. φιλόφρων.`

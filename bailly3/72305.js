@@ -1,0 +1,1 @@
+lar[72305]=`<b>ὀπισθό·χειρ, ειρος (ὁ, ἡ)</b> qui a les mains derrière le dos, DC. <i>Exc. p. 14, 33</i>.<p><b>Étym</b>. ὄπισθε, χείρ.`

@@ -1,0 +1,1 @@
+lar[109900]=`<i>adv</i>., craintivement, avec poltronnerie, PLUT. <i>M. 47b ;</i> LUC. <i>Im. 7 et 28</i>.<p><b>Étym</b>. ψοφοδεής.`

@@ -1,0 +1,1 @@
+lar[94236]=`<b>εως (ἡ)</b> action de ficher <i>ou</i> de fixer ensemble, <i>d’où</i> :<br><b>      1</b> coagulation, consistance, HPC. <i>Aër. 292</i> ; ARSTT. <i>Mund. 4, 7, etc.</i> ; PLUT. <i>M. 95b, 433d, etc.</i><br><b>      2</b> consolidation, CHIRURG.<br><b>      3</b> assemblage, ajustement, HDN <i>4, 2, 12</i> ; NICÉPH. <i>1, 496 W</i>.<p><b>Étym</b>. συμπήγνυμι.`

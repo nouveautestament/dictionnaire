@@ -1,0 +1,1 @@
+lar[66060]=`<b>μισοπονηρέω-ῶ</b> <font color="purple">[ῑ]</font> haïr les méchants, LYS. <i>186, 32</i> ; POL. <i>9, 39, 6</i>.<p><b>Étym</b>. μισοπόνηρος.`

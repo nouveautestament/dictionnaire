@@ -1,0 +1,1 @@
+lar[14864]=`<b>ἁρματηλατέω-ῶ</b> <font color="purple">[μᾰᾰ]</font> conduire un char, HDT. <i>5, 9</i> ; XÉN. <i>Conv. 4, 6</i>.<p><b>Étym</b>. ἁρματηλάτης.`

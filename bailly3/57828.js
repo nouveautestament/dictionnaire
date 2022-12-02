@@ -1,0 +1,1 @@
+lar[57828]=`<b>ου (τὸ)</b> <font color="purple">[ῑδ]</font> <i>dim. de</i> κρηνίς, ARSTT. <i>Mir. 117</i>.`

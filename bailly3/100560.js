@@ -1,0 +1,1 @@
+lar[100560]=`<b>τριτό·σπονδος, ος, ον</b> <font color="purple">[ῐ]</font> αἰών, ESCHL. <i>Ag. 245,</i> vie où l’on offre pour la troisième fois des libations à Zeus Sauveur (Ζεὺς Σωτήρ), <i>p. suite,</i> longue et heureuse vie.<p><b>Étym</b>. τρίτος, σπένδω.`

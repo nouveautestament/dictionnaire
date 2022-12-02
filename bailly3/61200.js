@@ -1,0 +1,1 @@
+lar[61200]=`<b>λιμο·φορεύς, έως (ὁ)</b> <font color="purple">[ῑ]</font> qui cause (<i>propr</i>. qui apporte) la faim <i>ou</i> la famine, ANTH. <i>11, 371</i>.<p><b>Étym</b>. λιμός, φέρω.`

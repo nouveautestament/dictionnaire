@@ -1,0 +1,1 @@
+lar[57687]=`<b>κρε·άγρα, ας (ἡ) :<br>      1</b> crochet <i>ou</i> fourchette pour tirer la viande du pot, AR. <i>Eq. 772, etc.</i> ; ANAXIPP. (ATH. <i>169b</i>).<br><b>      2</b> crochet, <i>en gén</i>. AR. <i>Eccl. 1002</i>.<p><b>Étym</b>. κρέας, ἀγρέω.`

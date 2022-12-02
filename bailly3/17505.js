@@ -1,0 +1,1 @@
+lar[17505]=`<b>αὐτό·κακος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> mauvais en soi, PHRYN. <i>(Bkk. 8</i>) ; τὸ αὐτόκακον, PLOT. le mal en soi, le mal absolu.<br><b>      2</b> mauvais pour lui-même, qui se maltraite lui-même, THPP. COM. <i>(Bkk. 83, 6).</i><p><b>Étym</b>. αὐ. κακός.`

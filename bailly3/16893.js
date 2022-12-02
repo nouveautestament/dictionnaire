@@ -1,0 +1,1 @@
+lar[16893]=`<b>ἀ·τόπαστος, ος, ον</b>, qui échappe aux conjectures, ESCHL. <i>fr. 114</i>.<p><b>Étym</b>. ἀ, τοπάζω.`

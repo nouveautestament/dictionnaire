@@ -1,0 +1,1 @@
+lar[35476]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., au grand jour, ouvertement, OD. <i>20, 48</i>.<p><b>Étym</b>. ἐξαναφαίνω, -δον.`

@@ -1,0 +1,1 @@
+lar[51975]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῡ]</font> cuisinier habile à préparer des ragoûts, CLÉM. <i>268</i>.<p><b>Étym</b>. καρυκεύω.`

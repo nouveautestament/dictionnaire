@@ -1,0 +1,1 @@
+lar[59010]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> sanction, THC. <i>6, 103</i> ; JOS. <i>A.J. 4, 8, 44, etc.</i><br><b>      2</b> accomplissement, exécution, PLAT. <i>Gorg. 450b</i>.<p><b>Étym</b>. κυρόω.`

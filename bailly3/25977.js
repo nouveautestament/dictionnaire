@@ -1,0 +1,1 @@
+lar[25977]=`<b>δί·βροχος, ος, ον</b>, mouillé deux fois ; δίβροχον ἔλαιον, DIOSC. <i>1, 65,</i> huile obtenue par un second pressurage.<p><b>Étym</b>. δίς, βρέχω.`

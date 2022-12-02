@@ -1,0 +1,1 @@
+lar[89791]=`<b>σεμνο·λόγος, ος, ον</b>, qui parle avec gravité <i>ou</i> avec emphase, DÉM. <i>271, 19</i>.<p><b>Étym</b>. σεμνός, λέγω.`

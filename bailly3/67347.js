@@ -1,0 +1,1 @@
+lar[67347]=`<b>μυρρίτης λίθος (ὁ)</b> pierre précieuse qui a la couleur du myrte, PLIN. <i>H.N. 37, 63</i>.<p><b>Étym</b>. μύρρα.`

@@ -1,0 +1,1 @@
+lar[38738]=`<b>ἐπίπλοος-ους, οος-ους, οον-ουν :<br>      1</b> qui navigue contre, qui se porte contre (l’ennemi) <i>en parl. de vaisseaux,</i> POL. <i>1, 27, 8, etc.</i><br><b>      2</b> qui navigue à la suite d’un autre navire <i>ou</i> d’une flotte, DS. <i>20, 50</i>.<p><b>Étym</b>. ἐπιπλέω.`

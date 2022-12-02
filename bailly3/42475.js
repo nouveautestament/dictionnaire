@@ -1,0 +1,1 @@
+lar[42475]=`<b>εὐ·κομιδής, ής, ές</b> <font color="purple">[ῐ]</font> bien soigné, HDT. <i>4, 53, au</i> <i>• Sup</i>. -έστατος.<p><b>Étym</b>. εὖ, κομιδή.`

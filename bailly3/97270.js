@@ -1,0 +1,1 @@
+lar[97270]=`<b>Σω·στράτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Sôstratè, <i>f</i>. AR. <i>Vesp. 1397, Eccl. 41, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Σώστρατος.`

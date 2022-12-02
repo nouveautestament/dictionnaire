@@ -1,0 +1,1 @@
+lar[94785]=`<b>συν·ανδραγαθέω-ῶ</b> <font color="purple">[ᾰγᾰ]</font> lutter virilement ensemble, DS. <i>1, 55</i>.`

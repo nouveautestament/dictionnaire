@@ -1,0 +1,1 @@
+lar[100798]=`<b>ός, όν</b>, agile, rapide, PD. <i>fr. 144 (146) Bgk</i>.<p><b>Étym</b>. τρέχω.`

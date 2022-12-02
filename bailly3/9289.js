@@ -1,0 +1,1 @@
+lar[9289]=`<i>adv</i>., contradictoirement, GAL. <i>Hipp. et Plat. 5, 470</i>.`

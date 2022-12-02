@@ -1,0 +1,1 @@
+lar[47054]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Thessalie, Thessalien, EUR. <i>Andr. 1176</i>.<p><b>Étym</b>. Θεσσαλία.`

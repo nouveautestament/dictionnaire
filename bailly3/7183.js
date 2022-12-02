@@ -1,0 +1,1 @@
+lar[7183]=`<b>εως (ἡ)</b> action de mesurer avec soin, STR. <i>11 ; fig</i>. action d’apprécier, PLUT. <i>Sol. 27</i>.`

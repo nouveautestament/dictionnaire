@@ -1,0 +1,1 @@
+lar[31964]=`<b>ἐκ·πτοέω-οῶ</b>, effrayer, <i>au pass</i>. être frappé de stupeur, de surprise <i>ou</i> d’admiration, EUR. <i>Cycl. 185</i> ; POL. <i>5, 36, 3</i> ; HDN <i>5, 4, 1</i>.`

@@ -1,0 +1,1 @@
+lar[21040]=`<b>βυρσόω-ῶ</b>, recouvrir de cuir, ATHÉNÉE MÉC. <i>12, 10</i>.<p><b>Étym</b>. βύρσα.`

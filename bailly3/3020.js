@@ -1,0 +1,1 @@
+lar[3020]=`<i>adv</i>., éternellement, CHRYS.`

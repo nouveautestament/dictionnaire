@@ -1,0 +1,1 @@
+lar[60816]=`<b>ων (τὰ)</b> fêtes du pressoir en l’honneur de Bacchus et avec des concours dramatiques, AR. <i>Ach. 1155</i> ; ATH. <i>130d, etc</i>.<p><b>Étym</b>. Λῆναι.`

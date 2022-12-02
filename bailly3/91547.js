@@ -1,0 +1,1 @@
+lar[91547]=`<font color="purple">[ᾰ]</font> s’avancer fièrement, avec arrogance, ANTH. <i>5, 273, 280 ; 11, 382, etc</i>.<p><b>Étym</b>. σοβαρός.`

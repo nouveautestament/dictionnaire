@@ -1,0 +1,1 @@
+lar[92683]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. aligné, NONN. <i>Jo. 6, 22</i> ; ἐλᾶαι στ. SOL. (POLL. <i>5, 36</i>) oliviers plantés en ligne ; <i>subst</i>. ἡ στ. sorte de lavande (<i>Lavandula stœchas</i> L.) <i>plante,</i> ORPH. <i>Arg. 916</i> ; DIOSC. <i>3, 31</i>.<p><b>Étym</b>. στείχω.`

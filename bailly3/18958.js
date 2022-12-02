@@ -1,0 +1,1 @@
+lar[18958]=`<b>βαλαντιο·τόμος, ου (ὁ)</b> <font color="purple">[βᾰ]</font> <i>c</i>. βαλαντιητόμος, PLAT. <i>Rsp. 552d ;</i> ESCHN. <i>etc</i>.`

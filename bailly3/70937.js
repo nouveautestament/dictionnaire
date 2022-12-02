@@ -1,0 +1,1 @@
+lar[70937]=`<i>mieux que</i> <b>ὠλεκρανίζω</b> <font color="purple">[ᾱ]</font> heurter du coude, COM. <i>(Bkk. p. 56, 17).</i><p><b>Étym</b>. ὀλέκρανον.`

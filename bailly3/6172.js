@@ -1,0 +1,1 @@
+lar[6172]=`<b>ας (ἡ)</b> Amphikæa, <i>v. de Phocide,</i> HDT. <i>8, 33</i>.`

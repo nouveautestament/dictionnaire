@@ -1,0 +1,1 @@
+lar[61062]=`<b>λιθο·κρήδεμνος, ος, ον</b> <font color="purple">[ῐ]</font> couronné de pierres, COL. <i>102</i>.<p><b>Étym</b>. λ. κρήδεμνον.`

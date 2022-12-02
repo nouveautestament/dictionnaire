@@ -1,0 +1,1 @@
+lar[38642]=`<b>ἐπι·πεδόω-ῶ</b>, faire une surface plane, JAMBL. <i>Nicom. ar. p. 37</i>.`

@@ -1,0 +1,1 @@
+lar[90914]=`<b>ιος (ἡ)</b> Skilloustis, <i>î. de la mer des Indes,</i> PLUT. <i>Alex. 66</i>.`

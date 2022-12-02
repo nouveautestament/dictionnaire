@@ -1,0 +1,1 @@
+lar[56916]=`<b>οῦ (ὁ)</b> perche, bâton, <i>d’où</i> :<br><b>      1</b> perche <i>ou</i> gaffe de batelier, OD. <i>9, 487</i> ; HDT. <i>2, 136 ; 4, 195</i> ; EUR. <i>Alc. 254, I.T. 1350</i>.<br><b>      2</b> bois de lance <i>ou</i> de javelot, <i>d’où</i> javelot, épieu, LUC. <i>H. conscr. 29, Tox. 55</i>.`

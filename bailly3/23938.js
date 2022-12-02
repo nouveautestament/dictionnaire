@@ -1,0 +1,1 @@
+lar[23938]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. δειράς, SOPH. <i>Ph. 491</i>.`

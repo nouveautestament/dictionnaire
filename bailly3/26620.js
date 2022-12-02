@@ -1,0 +1,1 @@
+lar[26620]=`<b>δί·κωπος, ος, ον</b> <font color="purple">[ῐ]</font> à deux rames, EUR. <i>Alc. 252</i> ; POL. <i>34, 3, 2</i>.<p><b>Étym</b>. δίς, κώπη.`

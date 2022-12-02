@@ -1,0 +1,1 @@
+lar[73475]=`<i>adv</i>., d’aucun des deux côtés, LYS. <i>148, 28</i> ; GAL. <i>8, 529</i>.<p><b>Étym</b>. οὐδέτερος, -θεν.`

@@ -1,0 +1,1 @@
+lar[75638]=`<b>εως (ἡ)</b> enlèvement, soustraction, THC. <i>1, 122</i> ; destruction, PLAT. <i>Rsp. 573e</i>.<p><b>Étym</b>. παραιρέω.`

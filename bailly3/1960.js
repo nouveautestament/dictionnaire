@@ -1,0 +1,1 @@
+lar[1960]=`<b>ἀ·θαύμαστος, ος, ον :<br>      1</b> non étonné, LUC. <i>Am. 13</i>.<br><b>      2</b> qui me s’étonne de rien, ATH. <i>233b</i>.<p><b>Étym</b>. ἀ, θαυμάζω.`

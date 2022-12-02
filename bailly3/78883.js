@@ -1,0 +1,1 @@
+lar[78883]=`<i>adv</i>., collectivement, CLÉM. <i>802, etc</i>.`

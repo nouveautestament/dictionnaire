@@ -1,0 +1,1 @@
+lar[51791]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῑδ]</font> petite squille (<i>sorte de crustacé</i>), ARSTT. <i>H.A. 5, 15, 15</i>.<p><b>Étym</b>. <i>dim. de</i> καρίς.`

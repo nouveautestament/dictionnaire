@@ -1,0 +1,1 @@
+lar[3087]=`<b>ἀκαμαντο·λόγχης, ου</b> <font color="purple">[κᾰᾰχ]</font> <i>adj. m</i>. à la lance infatigable, PD. <i>I. 6, 10</i>.<p><b>Étym</b>. ἀκάμας, λόγχη.`

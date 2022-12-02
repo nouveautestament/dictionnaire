@@ -1,0 +1,1 @@
+lar[28121]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Dyras, <i>fl. du territoire de Trakhis,</i> HDT. <i>7, 198</i> ; LYC. <i>916</i>.`

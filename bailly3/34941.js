@@ -1,0 +1,1 @@
+lar[34941]=`<b>ἐν·σκοτίζω</b>, envelopper de ténèbres, NYSS. <i>1, 386</i>.`

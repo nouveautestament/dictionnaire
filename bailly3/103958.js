@@ -1,0 +1,1 @@
+lar[103958]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> subordination, soumission, DH. <i>3, 66</i> ; NT. <i>2Cor. 9, 13, Gal. 2, 5</i>.<br><b>      2</b> <i>t. de gr</i>. subjonctif, DYSC. <i>Synt. 301, etc</i>.<p><b>Étym</b>. ὑποτάσσω.`

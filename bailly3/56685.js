@@ -1,0 +1,1 @@
+lar[56685]=`<b>ων (τὰ)</b> <font color="purple">[κᾰ]</font> tripes, ANTH. <i>10, 103</i>.`

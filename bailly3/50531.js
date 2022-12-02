@@ -1,0 +1,1 @@
+lar[50531]=`<b>α (ὁ)</b> <font color="purple">[τᾱ]</font> <i>pl</i>. οἱ καίεται, creux, fosse, STR. <i>223</i>.<p><b>Étym</b>. <i>cf</i>. καιάδας, καιετάεις.`

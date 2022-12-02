@@ -1,0 +1,1 @@
+lar[4000]=`<b>ἄ·κωλος, ος, ον</b>, sans membres, <i>càd</i>. mutilé, PAUS. <i>1, 24, 3</i>.<p><b>Étym</b>. ἀ, κῶλον.`

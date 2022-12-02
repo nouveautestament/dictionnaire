@@ -1,0 +1,1 @@
+lar[95787]=`<font color="darkgreen">(<i>f</i>. συνεταιρισθήσομαι)</font> contracter amitié avec, prendre pour ami, <i>acc</i>. AQU. <i>Ps. 15, 7</i>.<p><b>Étym</b>. συνέταιρος.`

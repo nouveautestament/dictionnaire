@@ -1,0 +1,1 @@
+lar[69350]=`<b>ας (ἡ)</b> l’action de porter sur son dos, DS. <i>2, 54</i>.<p><b>Étym</b>. νωτοφόρος.`

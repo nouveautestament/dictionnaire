@@ -1,0 +1,1 @@
+lar[80315]=`<b>ου (ἡ)</b> Pilôros (<i>auj</i>. port de Pyrgađíkia) <i>v. de Macédoine,</i> HDT. <i>7, 122</i>.`

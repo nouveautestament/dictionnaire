@@ -1,0 +1,1 @@
+lar[78633]=`<b>Περι·ήρης, ους (ὁ)</b> Périèrès :<br><b>      1</b> <i>roi de Messénie,</i> HÉS. (TZETZ. <i>Sch. Lyc. 284</i>).<br><b>      2</b> <i>fondateur de Zanklè,</i> THC. <i>6, 4</i>.<br><b>      3</b> <i>autres,</i> IL. <i>16, 177, etc</i>.<p>➳ <i>Gén. épq</i>. -εος, IL. <i>l. c.</i> ; -ου, APD. <i>1, 9, 5 ; acc</i>. -ην, APD. <i>1, 9, 5</i>.<p><b>Étym</b>. π. *ἄρω.`

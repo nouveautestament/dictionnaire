@@ -1,0 +1,1 @@
+lar[72985]=`<b>ὄρ·ογκοι, ων (οἱ)</b> sommets de montagnes, NIC. <i>Al. 41</i> ; DP. <i>286</i>.<p><b>Étym</b>. ὄρος, ὄγκος.`

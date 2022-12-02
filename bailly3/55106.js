@@ -1,0 +1,1 @@
+lar[55106]=`<b>κεφαλο·τόμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> coupeur de têtes, STR. <i>531</i>.<p><b>Étym</b>. κεφαλή, τέμνω.`

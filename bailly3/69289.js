@@ -1,0 +1,1 @@
+lar[69289]=`<b>ας (ἡ)</b> lenteur, nonchalance, <i>d’où</i> lourdeur d’esprit, PLAT. <i>Theæt. 195c, etc.</i> ; LUC. <i>Ind. 22, etc</i>.<p><b>Étym</b>. νωθής.`

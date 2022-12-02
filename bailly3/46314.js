@@ -1,0 +1,1 @@
+lar[46314]=`<b>ου (ὁ)</b> Tharréleidès, <i>h</i>. AR. <i>Av. 17</i>.`

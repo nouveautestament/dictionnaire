@@ -1,0 +1,1 @@
+lar[16926]=`<b>εως (ἡ)</b> DIOSC. <i>2, 145, etc., ou mieux</i> <b>ἀτράφαξυς, υος (ἡ)</b> EM. <i>565, 17</i> ; EUST. <i>Il. 539, 5 ; etc. ou</i> ἀδράφαξυς, PHÉRÉCR. GAL. ORIB. <i>ou</i> ἁδράφαξυς, EUST. <i>Il. 539, 5,</i> arroche, <i>légume ; cf</i>. ψευδατράφαξυς.`

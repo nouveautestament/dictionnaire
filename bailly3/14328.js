@@ -1,0 +1,1 @@
+lar[14328]=`<b>ἀργυρογνωμονέω-ῶ</b> (<i>seul. prés. et part. ao</i>.) essayer de l’argent, EUM. <i>434 ; fig</i>. RHÉT. <i>1, 433 W</i>.<p><b>Étym</b>. ἀργυρογνώμων.`

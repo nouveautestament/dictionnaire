@@ -1,0 +1,1 @@
+lar[1669]=`<b>ἀει·κίνητος, ος, ον</b> <font color="purple">[ῑ]</font> agité d’un mouvement perpétuel, PLAT. <i>Phædr. 245c</i>.<p><b>Étym</b>. ἀ. κινέω.`

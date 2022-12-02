@@ -1,0 +1,1 @@
+lar[81924]=`<b>ητος (ἡ)</b> pluralité de dieux, polythéisme, ORIG. <i>1, 653 Migne</i>.<p><b>Étym</b>. πολύθεος.`

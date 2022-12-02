@@ -1,0 +1,1 @@
+lar[46702]=`<b>Θεό·λυτος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Théolytos, <i>h</i>. THC. <i>2, 102</i>.<p><b>Étym</b>. θ. λυτός.`

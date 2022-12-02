@@ -1,0 +1,1 @@
+lar[20322]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>c</i>. βόστρυχος, PHÉRÉCR. (POLL. <i>2, 27, corr. Bgk</i>).<br><b>      2</b> tige d’une grappe, GAL. <i>6, 342</i>.`

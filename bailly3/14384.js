@@ -1,0 +1,1 @@
+lar[14384]=`<i>adv.</i> :<br><b>      1</b> paresseusement, avec inertie <i>ou</i> négligence, XÉN. <i>Mem. 2, 4, 7</i> ; DÉM. <i>66, 16</i>.<br><b>      2</b> <i>p. suite,</i> vainement, STR. <i>128</i>.<p>•<i> Cp</i>. ἀργότερον, XÉN. <i>Œc. 15, 4, ou</i> -οτέρως, STOB. <i>Ecl. 2, 46. • Sup</i>. -ότατα, XÉN. <i>Œc. 15, 1</i> ; DÉM. <i>144, 10</i>.<p><b>Étym</b>. ἀργός².`

@@ -1,0 +1,1 @@
+lar[625]=`<b>ή, όν</b>, recourbé en crochet, crochu, POL. <i>46, 23, 10</i>.<p><b>Étym</b>. ἀγκιστρόω.`

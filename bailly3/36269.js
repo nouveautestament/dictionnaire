@@ -1,0 +1,1 @@
+lar[36269]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> instrument pour enlever une membrane, P. ÉG. <i>92 Briau</i>.<p><b>Étym</b>. ἐξυμενίζω.`

@@ -1,0 +1,1 @@
+lar[66321]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> femme adultère, NT. <i>Matth. 12, 39 ; 16, 4 ; Jac. 4, 4, etc.</i><br><b>      2</b> le crime d’adultère, NT. <i>2Petr. 2, 14</i>.<p><b>Étym</b>. μοιχός.`

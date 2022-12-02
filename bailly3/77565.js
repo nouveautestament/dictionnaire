@@ -1,0 +1,1 @@
+lar[77565]=`<b>πεζαρχέω-ῶ</b>, commander l’infanterie, THÉM. <i>152e</i>.<p><b>Étym</b>. πέζαρχος.`

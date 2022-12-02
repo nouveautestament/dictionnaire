@@ -1,0 +1,1 @@
+lar[26486]=`<font color="purple">[ῐᾱ]</font> <i>vb. de</i> δικαιοπραγέω, JAMBL. <i>Protr. 350</i>.`

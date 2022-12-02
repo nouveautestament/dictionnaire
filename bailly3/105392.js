@@ -1,0 +1,1 @@
+lar[105392]=`<b>έως (ὁ)</b> habitant de Phigaleia, HDT. <i>6, 83</i>.<p><b>Étym</b>. <i>v</i>. Φιγάλεια.`

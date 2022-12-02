@@ -1,0 +1,1 @@
+lar[19264]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰῐ]</font> <i>c</i>. βασιλεύς, ANTIM. <i>5 Kinkel</i>.`

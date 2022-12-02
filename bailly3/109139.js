@@ -1,0 +1,1 @@
+lar[109139]=`<b>α, ον</b> <font color="purple">[ῡ]</font> qui consiste en or, <i>particul</i>. en monnaie d’or, DL. <i>4, 38</i>.<p><b>Étym</b>. χρυσίον.`

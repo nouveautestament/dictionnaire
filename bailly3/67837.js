@@ -1,0 +1,1 @@
+lar[67837]=`<b>ναυτολογέω-ῶ</b>, lever des matelots <i>ou</i> réunir des passagers, ANTH. <i>9, 415</i>.<p><b>Étym</b>. ναυτολόγος.`

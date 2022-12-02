@@ -1,0 +1,1 @@
+lar[87481]=`<b>πτωχο·ποιός, ός, όν :<br>      1</b> faiseur de mendiants, <i>en parl. d’Euripide, qui avait abusé de ces personnages,</i> AR. <i>Ran. 842</i>.<br><b>      2</b> qui réduit à la mendicité, PLUT. <i>Arist. c. Cat. ma. 3</i>.<p><b>Étym</b>. πτωχός, ποιέω.`

@@ -1,0 +1,1 @@
+lar[14583]=`<b>ῶν (οἱ)</b> les Arizantes, <i>pple de Médie,</i> HDT. <i>1, 101</i>.`

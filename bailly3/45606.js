@@ -1,0 +1,1 @@
+lar[45606]=`<b>ος, ον</b> <font color="purple">[μῐῐκ]</font> qui contient un demi-chénice ; <i>subst</i>. τὸ ἡμιχοίνικον, TH. <i>H.P. 8, 4, 5,</i> demi-chénice.<p><b>Étym</b>. ἡμιχοῖνιξ.`

@@ -1,0 +1,1 @@
+lar[3492]=`<b>ἀ·κολασία, ας (ἡ)</b> <font color="purple">[λᾰ]</font> défaut de répression, PLAT. <i>Gorg. 505b, etc. ; d’où</i> licence, désordre, <i>p. opp. à</i> σωφροσύνη, THC. <i>3, 37</i> ; ARSTT. <i>Rhet. 1, 9</i> ; ATH. <i>633e ; plur</i>. LYS. <i>146, 34</i> ; PLAT. <i>Leg. 884, etc</i>.<p><b>Étym</b>. ἀ, κολάζω.`

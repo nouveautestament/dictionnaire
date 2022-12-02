@@ -1,0 +1,1 @@
+lar[89122]=`<b>σακεσ·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte une grande barbe, PLAT. COM. <i>2-2, 657 Mein</i>.<p><b>Étym</b>. σάκος², φέρω.`

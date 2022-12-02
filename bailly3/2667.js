@@ -1,0 +1,1 @@
+lar[2667]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par énigmes, DL. <i>9, 3</i>.<p>•<i> Cp</i>. -ωδέστερον, PLAT. <i>Charm. 164d</i>.`

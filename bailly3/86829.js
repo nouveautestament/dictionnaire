@@ -1,0 +1,1 @@
+lar[86829]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’ébaucher, de modeler, HDN GR.<p><b>Étym</b>. προτυπόω.`

@@ -1,0 +1,1 @@
+lar[22250]=`<b>γλωττο·στροφέω-ῶ</b>, faire tourner sa langue, AR. <i>Nub. 792</i>.<p><b>Étym</b>. γλῶττα, -στροφος <i>de</i> στρέφω.`

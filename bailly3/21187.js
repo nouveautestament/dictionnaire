@@ -1,0 +1,1 @@
+lar[21187]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰᾰ]</font> Galadræ, <i>v. de Macédoine,</i> LYC. <i>1444</i>.`

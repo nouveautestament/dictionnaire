@@ -1,0 +1,1 @@
+lar[100779]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> poulie, ATHÉNÉE MÉC.<p><b>Étym</b>. <i>cf</i>. τροχιλία.`

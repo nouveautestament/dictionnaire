@@ -1,0 +1,1 @@
+lar[43327]=`<b>εὐρυ·σθενής, ής, ές</b>, dont la force s’étend au loin, puissant au loin, IL. <i>7, 455 ; 8, 201</i> ; OD. <i>13, 140 (touj. en parl. de Poséidon</i>), PD. <i>O. 13, 77 ; en parl. d’Apollon,</i> PD. <i>I. 2, 18, etc</i>.<p><b>Étym</b>. εὐ. σθένος.`

@@ -1,0 +1,1 @@
+lar[75000]=`<b>παν·έρημος, ος, ον</b> <font color="purple">[ᾰ]</font> entièrement désert, STR. <i>805</i> ; LUC. <i>D. mort. 27, 2</i>.<p><b>Étym</b>. π. ἔρημος.`

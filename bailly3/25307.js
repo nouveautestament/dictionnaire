@@ -1,0 +1,1 @@
+lar[25307]=`<b>ή, όν</b>, propre à faire transpirer <i>ou</i> évaporer, ARÉT. <i>Cur. m. acut. 1, 1</i>.`

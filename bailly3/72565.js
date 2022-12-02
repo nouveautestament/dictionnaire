@@ -1,0 +1,1 @@
+lar[72565]=`<b>α, ον</b>, de la longueur d’une brasse, ANTH. <i>6, 114</i>.<p><b>Étym</b>. ὄργυια.`

@@ -1,0 +1,1 @@
+lar[56722]=`<b>α, ον</b>, de Kolophôn : οἱ Κολοφώνιοι, HDT. <i>1, 147, 150</i> ; THC. <i>3, 36,</i> les habitants de Kolophôn ; Κολοφωνίων λιμήν, THC. <i>5, 2,</i> port des Kolophoniens <i>en Chalcidique</i> ; ἡ Κολοφωνία (<i>s.-e</i>. πίσσα) GAL. <i>14, 534</i> ; HIPPIATR. <i>p. 70, 2, etc.,</i> la colophane <i>ou</i> résine de Kolophôn.<p><b>Étym</b>. Κολοφών.`

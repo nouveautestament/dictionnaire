@@ -1,0 +1,1 @@
+lar[45189]=`siéger au tribunal des héliastes, AR. <i>Vesp. 772 (fut. 2 sg</i>. -άσει) ; <i>Lys. 380 (fut. dor. 2 sg</i>. -άξει) ; <i>Eq. 798 (ao. inf</i>. -άσασθαι).<p><b>Étym</b>. Ἡλιαία.`

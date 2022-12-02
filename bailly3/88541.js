@@ -1,0 +1,1 @@
+lar[88541]=`<b>ή, όν</b>, de la racine, PLUT. <i>fr. 49</i>.<p><b>Étym</b>. ῥίζα.`

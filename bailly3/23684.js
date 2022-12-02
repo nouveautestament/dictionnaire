@@ -1,0 +1,1 @@
+lar[23684]=`<b>δεκά·παλαι</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., il y a bien longtemps, <i>litt</i>. dix fois longtemps, dix siècles, AR. <i>Eq. 1154</i> ; PHILONID. (ATH. <i>23e</i>).<p><b>Étym</b>. δ. πάλαι.`

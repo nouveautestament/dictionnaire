@@ -1,0 +1,1 @@
+lar[24066]=`<b>δευτερό·πρωτος, ος, ον</b>, le premier d’un second ordre, d’une seconde série : τὸ δευτερόπρωτον σάββατον, le premier sabbat après le second jour de la Pâque, NT. <i>Luc. 6, 1</i>.<p><b>Étym</b>. δ. πρῶτος.`

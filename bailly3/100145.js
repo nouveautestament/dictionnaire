@@ -1,0 +1,1 @@
+lar[100145]=`<b>τρι·γερήνιος, ος, ον</b> <font color="purple">[ρῐ]</font> qui a trois fois l’âge de Nestor le Gérénien, M. ANT. <i>4, 50</i>.<p><b>Étym</b>. τρεῖς, Γερήνιος.`

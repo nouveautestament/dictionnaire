@@ -1,0 +1,1 @@
+lar[16785]=`<b>ου (ὁ)</b> Ateius, <i>n. rom</i>. PLUT.`

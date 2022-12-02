@@ -1,0 +1,1 @@
+lar[103018]=`<b>ὑπο·βάσκανος, ος, ον</b> <font color="purple">[κᾰ]</font> quelque peu malveillant, MAN. <i>5, 45</i>.`

@@ -1,0 +1,1 @@
+lar[79526]=`<b>περί·τρομος, ος, ον</b>, qui tremble de tous ses membres, OPP. <i>H. 2, 309</i>.<p><b>Étym</b>. π. τρέμω.`

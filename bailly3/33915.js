@@ -1,0 +1,1 @@
+lar[33915]=`<b>ἐν·απάρχομαι</b> <font color="purple">[ᾰπ]</font> commencer, ES. <i>291 b Halm</i>.`

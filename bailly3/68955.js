@@ -1,0 +1,1 @@
+lar[68955]=`<b>νομο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des lois, magistrat chargé de veiller à l’exécution des lois, <i>nom postérieur des Onze</i> (<i>v</i>. ἕνδεκα) <i>à Athènes,</i> XÉN. <i>Œc. 9, 15</i> ; PLAT. <i>Leg. 671d, Ep. 356d ;</i> ARSTT. <i>Pol. 3, 16</i>.<p><b>Étym</b>. νόμος, φύλαξ.`

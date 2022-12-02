@@ -1,0 +1,1 @@
+lar[752]=`<b>ή, όν :<br>      1</b> qui conserve la chasteté, <i>p. opp. à</i> ἀφροδισιαστικός, ARSTT. <i>H.A. 1, 1, 30</i>.<br><b>      2</b> propre à purifier : τὸ ἁγνευτικόν, PHIL. <i>2, 206,</i> sacrifice expiatoire, purification.`

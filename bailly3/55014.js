@@ -1,0 +1,1 @@
+lar[55014]=`<b>Κέρσικα νῆσος (ἡ)</b> l’î. de Corse, PLUT. <i>Parall. min. 13</i>.`

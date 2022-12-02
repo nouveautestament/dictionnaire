@@ -1,0 +1,1 @@
+lar[66552]=`<b>μονό·κερως</b>, <i>gén</i>. <b>ω (ὁ, ἡ)</b> qui n’a qu’une corne, ARSTT. <i>G.A. 3, 2 ; H.A. 2, 1</i> ; PLUT. <i>Per. 6</i> ; ὁ. μ. (<i>gén</i>. -ωτος) EL. <i>N.A. 16, 20</i> ; SPT. <i>Num. 23, 22 ; Ps. 21, 22 ; 28, 6,</i> la licorne, <i>animal</i>.<p><b>Étym</b>. μ. κέρας.`

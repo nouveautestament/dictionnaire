@@ -1,0 +1,1 @@
+lar[32569]=`<b>ἐλαφο·κτόνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tue les cerfs (Artémis) EUR. <i>I.T. 1113</i>.<p><b>Étym</b>. ἔ. κτείνω.`

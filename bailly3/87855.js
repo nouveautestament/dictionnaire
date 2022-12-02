@@ -1,0 +1,1 @@
+lar[87855]=`<b>πυρί·βρωτος, ος, ον</b> <font color="purple">[ῠ]</font> dévoré par le feu, STR. <i>805</i>.<p><b>Étym</b>. π. βιβρώσκω.`

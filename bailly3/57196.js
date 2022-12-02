@@ -1,0 +1,1 @@
+lar[57196]=`<b>κορυφα·γενής, ής, ές</b> <font color="purple">[ῠᾱ]</font> né de la tête de Zeus, <i>ép. d’Athèna,</i> PLUT. <i>M. p. 381e</i>.<p><b>Étym</b>. κορυφή, γένος.`

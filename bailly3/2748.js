@@ -1,0 +1,1 @@
+lar[2748]=`(<i>seul. prés</i>.) :<br><b>      1</b> agiter vivement en tous sens, faire tourner, OD. <i>20, 27</i>.<br><b>      2</b> orner de couleurs variées, tacheter, NIC. <i>Th. 155 ; au pass</i>. se tacheter, se teindre de couleurs variées, HÉS. <i>Sc. 339</i>.<p><b>Étym</b>. αἰόλος.`

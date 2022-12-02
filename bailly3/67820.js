@@ -1,0 +1,1 @@
+lar[67820]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> pauvre petit mousse, NAZ. <i>2, 14a</i>.<p><b>Étym</b>. ναύτης.`

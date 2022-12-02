@@ -1,0 +1,1 @@
+lar[77581]=`<b>πεζο·λόγος, ου (ὁ)</b> prosateur, DRAC. <i>49, 23</i> ; DYSC. <i>Pron. 343a</i>.<p><b>Étym</b>. π. λέγω.`

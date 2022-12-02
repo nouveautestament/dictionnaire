@@ -1,0 +1,1 @@
+lar[27908]=`<font color="purple">[ῑ]</font> <i>adv</i>., aigrement, avec une saveur <i>ou</i> une odeur aigre <i>ou</i> piquante, <i>d’où fig</i>. fortement (aimer, souffrir) ANAXANDR. (<i>Com. fr. 3, 168</i>) ; EL. <i>N.A. 7, 15</i>.<p>•<i> Cp</i>. δριμύτερον, ARSTT. <i>Probl. 12, 7. • Sup</i>. δριμύτατα, EL. <i>V.H. 12, 1</i>.<p><b>Étym</b>. δριμύς.`

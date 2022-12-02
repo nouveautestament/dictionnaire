@@ -1,0 +1,1 @@
+lar[26444]=`<b>δι·ϊστορέω-ῶ</b>, raconter tout au long, P. SIL. <i>Th. Pyth. 78</i>.`

@@ -1,0 +1,1 @@
+lar[5301]=`<font color="purple">[ᾰ]</font> <i>adv</i>., obscurément, ARSTT. <i>Cæl. 1, 9, 16</i> ; ANTH. <i>12, 254</i>.<p><b>Étym</b>. ἀμαυρός.`

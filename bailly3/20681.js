@@ -1,0 +1,1 @@
+lar[20681]=`<b>ων (οἱ)</b> les Brachmanes <i>ou</i> Brahmanes :<br><b>      1</b> <i>prêtres indiens,</i> DS. <i>17, 102</i> ; STR. LUC.<br><b>      2</b> <i>pple indien,</i> ARR.`

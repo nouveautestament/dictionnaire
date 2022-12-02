@@ -1,0 +1,1 @@
+lar[61662]=`<b>ου (ὁ)</b> = <i>lat</i>. Lucilius, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 54, etc.</i> ; ANTH. <i>5, 68</i>.`

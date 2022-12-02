@@ -1,0 +1,1 @@
+lar[49675]=`<b>ου (ὁ)</b> Isomantos, <i>fl. de Béotie,</i> PLUT. <i>Lys. 29</i>.`

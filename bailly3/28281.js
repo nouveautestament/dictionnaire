@@ -1,0 +1,1 @@
+lar[28281]=`<b>ας (ἡ)</b> infortune, malheur, AND. <i>20, 27</i>.<p><b>Étym</b>. δυσδαίμων.`

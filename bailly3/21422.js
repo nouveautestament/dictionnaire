@@ -1,0 +1,1 @@
+lar[21422]=`<b>γαστρί·μαργος, ου (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> glouton, goulu, PD. <i>O. 1, 83</i> ; XANTH. (ATH. <i>415c</i>) ; ARSTT. <i>Nic. 3, 11, 3 ; etc</i>.<p><b>Étym</b>. γαστήρ, μάργος ; <i>cf</i>. λαίμαργος.`

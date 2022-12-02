@@ -1,0 +1,1 @@
+lar[103807]=`<b>ατος (τὸ)</b> petit éclat qui se détache par suite d’un choc, GAL. <i>Meth. 10, 887</i>.<p><b>Étym</b>. ὑποσείω.`

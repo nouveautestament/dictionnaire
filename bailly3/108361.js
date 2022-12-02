@@ -1,0 +1,1 @@
+lar[108361]=`<b>ου (τὸ)</b> petite oie, oison, MÉNIPP. (ATH. <i>664e</i>).<p><b>Étym</b>. <i>dim. de</i> χήν.`

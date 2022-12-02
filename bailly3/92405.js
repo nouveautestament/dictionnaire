@@ -1,0 +1,1 @@
+lar[92405]=`<b>στεργο·ξύνευνος, ος, ον</b> <font color="purple">[ῠ]</font> qui aime tendrement son mari <i>ou</i> sa femme, LYC. <i>935</i>.<p><b>Étym</b>. στέργω, *ξύνευνος, <i>att. c</i>. σύνευνος.`

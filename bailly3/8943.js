@@ -1,0 +1,1 @@
+lar[8943]=`<b>ἀνθρωπο·γράφος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰφ]</font> peintre de portraits <i>ou</i> d’hommes, PLIN. <i>H.N. 35, 37</i>.<p><b>Étym</b>. ἄ. γράφω.`

@@ -1,0 +1,1 @@
+lar[51661]=`<b>καπ·πυρίζω</b> <font color="purple">[ῠ]</font> prendre feu, s’enflammer, THCR. <i>Idyl. 2, 24</i>.<p><b>Étym</b>. <i>par sync. et assimil. p</i>. *καταπυρίζω, <i>de</i> κατά, πῦρ.`

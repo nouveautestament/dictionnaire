@@ -1,0 +1,1 @@
+lar[9543]=`<b>ἀντ·εγκαλέω-ῶ</b> <font color="purple">[κᾰ]</font> récriminer, reprocher à son tour, DÉM. <i>1012, 17</i> ; τινι, ISOCR. <i>360d</i>, à qqn.`

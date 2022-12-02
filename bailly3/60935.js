@@ -1,0 +1,1 @@
+lar[60935]=`<b>ου (ὁ)</b> = <i>lat</i>. Līvĭus, <i>n. d’h. rom</i>. PLUT. <i>Fab. 3, etc. ; C. Gracch. 8, etc</i>.`

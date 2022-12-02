@@ -1,0 +1,1 @@
+lar[77716]=`<b>πελαγο·δρόμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui navigue (<i>propr</i>. qui court) en pleine mer, ORPH. <i>H. 73, 5</i>.<p><b>Étym</b>. πέλαγος, δραμεῖν.`

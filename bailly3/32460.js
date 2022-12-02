@@ -1,0 +1,1 @@
+lar[32460]=`<b>ἐλαιο·κάπηλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand d’huile au détail (<i>cf</i>. ἐλαιοπώλης) LIB. <i>4, 39</i>.<p><b>Étym</b>. ἔ. κάπηλος.`

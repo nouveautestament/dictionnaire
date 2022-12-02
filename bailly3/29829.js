@@ -1,0 +1,1 @@
+lar[29829]=`<b>ἐγ·ξέω-ῶ</b> <font color="darkgreen">(<i>ao. sbj. 3 sg</i>. ἐγξέσῃ)</font> racler, <i>càd</i>. graver sur, <i>dat</i>. EUR. <i>fr. 300 conj</i>.<p><b>Étym</b>. ἐν, ξέω.`

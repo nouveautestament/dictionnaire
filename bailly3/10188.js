@@ -1,0 +1,1 @@
+lar[10188]=`<b>ἀντι·παραπλέω</b>, s’avancer contre (l’ennemi en naviguant) le long (de la côte) THC. <i>2, 83</i>.`

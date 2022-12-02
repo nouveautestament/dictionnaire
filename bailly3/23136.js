@@ -1,0 +1,1 @@
+lar[23136]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰτ]</font> la dompteuse, ANTH. <i>11, 403</i>.<p><b>Étym</b>. δαμάω.`

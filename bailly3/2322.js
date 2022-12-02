@@ -1,0 +1,1 @@
+lar[2322]=`<b>ή, όν</b>, d’Égypte, égyptien, PLUT. <i>Cæs. 55, etc</i>.`

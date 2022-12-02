@@ -1,0 +1,1 @@
+lar[35994]=`<b>ἐξ·ίκω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐξῖκεν)</font> <i>c</i>. ἐξικνέομαι, ORPH. <i>Arg. 394</i>.`

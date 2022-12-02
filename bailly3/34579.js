@@ -1,0 +1,1 @@
+lar[34579]=`<b>ἐν·θυμίζομαι</b> <font color="purple">[ῡ]</font> désirer, <i>acc</i>. APP. <i>Mithr. 120, Civ. 4, 63</i>.<p><b>Étym</b>. ἐν, θυμός.`

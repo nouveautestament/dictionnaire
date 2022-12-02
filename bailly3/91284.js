@@ -1,0 +1,1 @@
+lar[91284]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. σκυλάκειος, PHIL. <i>1, 202</i>.`

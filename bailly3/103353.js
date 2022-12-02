@@ -1,0 +1,1 @@
+lar[103353]=`<b>ὑπο·κέλλω</b>, être insensiblement entraîné, <i>avec</i> εἰς <i>et l’acc</i>. LGN.`

@@ -1,0 +1,1 @@
+lar[23578]=`<b>ου (ὁ) :<br>   I</b> danse en rond, ronde, ARCHÉDIC. (ATH. <i>467d</i>).<br><b>   II</b> vase rond :<br><b>      1</b> vase à boire de forme arrondie, COM. (ATH. <i>467d</i>).<br><b>      2</b> bassin rond pour se laver les pieds, <i>chez les Cyrénéens, ibid.</i><br><b>   III</b> grange, aire, ATH. <i>ibid</i>.<p><b>Étym</b>. <i>cf</i>. δῖνος.`

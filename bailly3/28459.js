@@ -1,0 +1,1 @@
+lar[28459]=`<b>δυσ·εύρετος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> difficile à trouver, ESCHL. <i>Pr. 816</i> ; XÉN. <i>Vect. 4, 13</i> ; LUC. <i>Tim. 25 ; joint à</i> σπάνιος, PLUT. <i>M. 97b.</i><br><b>      2</b> où l’on trouve difficilement son chemin, inaccessible (forêt) EUR. <i>Bacch. 1221</i>.<p><b>Étym</b>. δ. εὑρίσκω.`

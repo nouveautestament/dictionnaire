@@ -1,0 +1,1 @@
+lar[62639]=`<b>μαλακό·σαρκος, ος, ον</b> <font color="purple">[ᾰλᾰ]</font> à la chair molle, ARSTT. <i>H.A. 1, 1, 7</i>.<p>•<i> Cp</i>. -ώτερος, DIOCLÈS (ATH. <i>305b</i>).<p><b>Étym</b>. μαλακός, σάρξ.`

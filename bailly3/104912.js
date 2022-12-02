@@ -1,0 +1,1 @@
+lar[104912]=`<b>φαρμακο·ποιός, οῦ (ὁ, ἡ)</b> <font color="purple">[μᾰ]</font> qui fabrique des drogues (médicaments, poisons, couleurs pour la teinture, <i>etc</i>.) ESCHL. <i>fr. 448</i>.<p><b>Étym</b>. φ. ποιέω.`

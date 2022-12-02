@@ -1,0 +1,1 @@
+lar[5915]=`<i>adv</i>. <font color="purple">[ᾰῡᾱ]</font> d’Amyclées, PD. <i>N. 11, 34</i>.<p><b>Étym</b>. Ἀμύκλαι, -θεν.`

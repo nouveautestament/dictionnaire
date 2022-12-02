@@ -1,0 +1,1 @@
+lar[86868]=`<b>προ·ϋπεκλύω</b>, dissoudre <i>ou</i> affaiblir auparavant, HLD. <i>9, 17</i>.`

@@ -1,0 +1,1 @@
+lar[7255]=`<b>ἀνα·νίσσομαι</b> (<i>seul. prés</i>.) remonter, revenir, OPP. <i>H. 5, 410</i>.`

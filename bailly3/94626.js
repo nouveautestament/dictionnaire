@@ -1,0 +1,1 @@
+lar[94626]=`<i>vb. de</i> συνάγω, HPC. <i>51, 29</i> ; PLAT. <i>Rsp. 537c ;</i> ARSTT. <i>Rhet. 1, 15, 33, etc</i>.`

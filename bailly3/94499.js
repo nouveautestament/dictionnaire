@@ -1,0 +1,1 @@
+lar[94499]=`<b>εως (ἡ)</b> accord, consentement, NT. <i>2Cor. 6, 25</i> ; ORIG. <i>2, 1684 Migne</i>.<p><b>Étym</b>. συμφωνέω.`

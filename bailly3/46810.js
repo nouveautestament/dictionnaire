@@ -1,0 +1,1 @@
+lar[46810]=`<b>θεό·τευκτος, ος, ον</b>, fabriqué, fait par la divinité, ANTH. <i>15, 22</i> ; NYSS. <i>1, 272</i>.<p><b>Étym</b>. θ. τεύχω.`

@@ -1,0 +1,1 @@
+lar[104440]=`<b>ας (ἡ)</b> ton d’un homme qui a le verbe haut, orgueil, jactance, PHIL. <i>1, 206</i> ; LGN <i>8, 1</i>.<p><b>Étym</b>. ὑψηγόρος.`

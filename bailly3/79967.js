@@ -1,0 +1,1 @@
+lar[79967]=`<b>οῦς (ἡ)</b> Péphrèdô, <i>une des Græes,</i> HÉS. <i>Th. 273</i>.`

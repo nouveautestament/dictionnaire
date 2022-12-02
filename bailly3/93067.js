@@ -1,0 +1,1 @@
+lar[93067]=`<b>στυγνο·ποιός, ός, όν</b>, qui rend sombre, BAS. <i>4, 661 Migne</i>.<p><b>Étym</b>. στ. ποιέω.`

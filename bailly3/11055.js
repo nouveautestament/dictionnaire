@@ -1,0 +1,1 @@
+lar[11055]=`<b>ῆς (ἡ) :<br>      1</b> aorte, <i>grande artère,</i> ARSTT. <i>H.A. 1, 17, 14, etc.</i><br><b>      2</b> <i>au plur</i>. les bronches, HPC. <i>415, 14</i>.<br><b>      3</b> sac <i>ou</i> besace, MÉN. (POLL. <i>10, 137).</i><p><b>Étym</b>. ἀείρω.`

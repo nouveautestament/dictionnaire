@@ -1,0 +1,1 @@
+lar[11330]=`<b>ἀ·παραμίλλητος, ος, ον</b> <font color="purple">[ᾰμ]</font> contre qui l’on ne peut lutter, JOS. <i>A.J. 8, 7, 3</i>.<p><b>Étym</b>. ἀ, παραμιλλάομαι.`

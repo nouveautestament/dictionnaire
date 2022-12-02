@@ -1,0 +1,1 @@
+lar[12802]=`<b>ου (ὁ)</b> Apollônidès, <i>h</i>. XÉN. <i>An. 3, 1, 26</i>.<p>➳ <i>Voc</i>. -ίδη, PLUT. <i>Cato mi. 66. Dor</i>. -ίδας, PD. <i>fr. 204</i>.`

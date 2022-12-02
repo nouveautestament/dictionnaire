@@ -1,0 +1,1 @@
+lar[81497]=`<b>Πολεμα·γένης, ους (ὁ)</b> <font color="purple">[ᾱ]</font> Polémagénès, <i>h</i>. ESCHN. <i>1, 156 Baiter-Sauppe</i>.<p><b>Étym</b>. πόλεμος, γένος.`

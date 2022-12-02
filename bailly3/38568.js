@@ -1,0 +1,1 @@
+lar[38568]=`<b>ἐπι·ξεναγός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> commandant d’une brigade, EL. TACT. <i>16, 4</i>.<p><b>Étym</b>. <i>v</i>. ἐπιξεναγία.`

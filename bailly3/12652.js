@@ -1,0 +1,1 @@
+lar[12652]=`<b>ἀπό·κρατος, ος, ον</b> <font color="purple">[ᾰτ]</font> sans force, PHIL. <i>1, 209</i>.<p><b>Étym</b>. ἀ. κράτος.`

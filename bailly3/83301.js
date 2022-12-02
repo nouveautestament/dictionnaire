@@ -1,0 +1,1 @@
+lar[83301]=`<b>πραΰ·θυμος, ος, ον</b> <font color="purple">[ᾱῠῡ]</font> qui a bon cœur, SPT. <i>Prov. 14, 30</i>.<p><b>Étym</b>. πρ. θυμός.`

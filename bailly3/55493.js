@@ -1,0 +1,1 @@
+lar[55493]=`<b>έως</b>, <i>adj. m</i>. de Kindyè, <i>brg de Carie,</i> HDT. <i>5, 118</i>.<p>➳ <i>Dans les inscr. att. sur des listes de peuples tributaires, plur</i>. Κινδυῆς, CIA. <i>1, 240, 66 (440 av. J.-C.) et p. assimil</i>. Κυνδυῆς, CIA. <i>1, 230, fr. 24 (450 av. J.-C.) ; v. Meisterh. p. 23, 6</i>.`

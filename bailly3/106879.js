@@ -1,0 +1,1 @@
+lar[106879]=`<b>ῶν (αἱ)</b> <font color="purple">[ῑκ]</font> <i>c</i>. φρίκια DIOSC. <i>1, 181</i>.`

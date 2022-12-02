@@ -1,0 +1,1 @@
+lar[42954]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> fille d’un père illustre, IL. <i>6, 292</i> ; OD. <i>22, 227</i> ; A.RH. <i>1, 570 ; cf</i>. MOSCH. <i>2, 29</i> ; ANTH. <i>9, 688</i>.<br><b>      2</b> qui appartient à un père illustre, EUR. <i>Hipp. 68</i>.<p>➳ <i>Ion</i>. -είη, ANTH. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. εὐπάτωρ.`

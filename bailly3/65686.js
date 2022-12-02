@@ -1,0 +1,1 @@
+lar[65686]=`<b>μικρ·αδικητής, οῦ</b> <font color="purple">[ῑᾰῐ]</font> <i>adj. m</i>. qui commet des injustices dans de petites choses, ARSTT. <i>Rhet. 2, 17</i>.<p><b>Étym</b>. μικρός, ἀδικέω.`

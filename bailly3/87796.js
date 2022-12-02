@@ -1,0 +1,1 @@
+lar[87796]=`<b>πυργο·φόρος, ος, ον</b>, qui porte une tour, <i>en parl. d’éléphants,</i> PLUT. <i>M. 307b ;</i> HLD. <i>9, 16 ; en parl. de Cybèle,</i> ANTH. <i>5, 260</i>.<p><b>Étym</b>. πύργος, φέρω.`

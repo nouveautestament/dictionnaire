@@ -1,0 +1,1 @@
+lar[63233]=`<b>α (ὁ)</b> <font color="purple">[ᾰᾱᾱ]</font> Makhatas, <i>h</i>. ANTH. <i>7, 438 (voc</i>. -άτα).<p><b>Étym</b>. <i>v</i>. μαχατάς.`

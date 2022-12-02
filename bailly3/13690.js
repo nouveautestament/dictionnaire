@@ -1,0 +1,1 @@
+lar[13690]=`<b>ων (οἱ)</b> les Apuliens, STR. <i>etc</i>.<p><b>Étym</b>. <i>v</i>. Ἀπουλία.`

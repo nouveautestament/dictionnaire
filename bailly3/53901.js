@@ -1,0 +1,1 @@
+lar[53901]=`<b>εως (ἡ)</b> action de presser vivement, de précipiter, DL. <i>7, 113</i>.<p><b>Étym</b>. κατεπείγω.`

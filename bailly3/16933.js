@@ -1,0 +1,1 @@
+lar[16933]=`<b>ας (ἡ) :<br>      1</b> réalité, exacte vérité, HDT. <i>4, 152, etc</i>. EUR. (STOB. <i>Fl. 43, 22) ; etc.</i><br><b>      2</b> la Justice personnifiée, PD. <i>O. 11, 13</i>.<p>➳ <i>Ion</i>. -είη, HPC. <i>84g, ou mieux</i> ἀτρεκίη, HDT. <i>l. c.</i> ; ANTH. <i>4, 3, 123 ; 8, 7, etc</i>.<p><b>Étym</b>. ἀτρεκής.`

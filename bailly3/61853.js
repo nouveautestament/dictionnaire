@@ -1,0 +1,1 @@
+lar[61853]=`<b>ου (ἡ)</b> <font color="purple">[ῠ]</font> sorte de plante, NIC. <i>Th. 840</i>.`

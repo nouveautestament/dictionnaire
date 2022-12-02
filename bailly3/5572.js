@@ -1,0 +1,1 @@
+lar[5572]=`<b>ας (ἡ)</b> sorte de thon (<i>scomber</i> ou <i>pelamys sarda</i>) ARSTT. <i>H.A. 2, 15, 14, etc.</i> ; PLUT. <i>M. 966a, etc</i>.`

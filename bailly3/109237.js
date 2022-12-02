@@ -1,0 +1,1 @@
+lar[109237]=`<b>χρυσο·ποιός, οῦ (ὁ)</b> ouvrier qui travaille l’or, LUC. <i>Char. 12</i>.<p><b>Étym</b>. χρ. ποιέω.`

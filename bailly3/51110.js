@@ -1,0 +1,1 @@
+lar[51110]=`<b>καλλι·δίνας, ου</b> <font color="purple">[ῐῑᾱ]</font> <i>adj. m. dor</i>. qui roule de belles eaux, EUR. <i>H.f. 368</i>.<p><b>Étym</b>. κ. δίνη.`

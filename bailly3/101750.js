@@ -1,0 +1,1 @@
+lar[101750]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> coupe d’arbres <i>ou</i> de bois, ARSTT. <i>Pol. 1, 11, 4</i> ; EL. <i>N.A. 3, 21</i>.<p><b>Étym</b>. ὑλοτόμος.`

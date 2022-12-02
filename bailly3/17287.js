@@ -1,0 +1,1 @@
+lar[17287]=`<b>ου (τὸ)</b> <i>transcr. du lat</i>. aurum, or, ZOS. <i>4, 28</i>.`

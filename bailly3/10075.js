@@ -1,0 +1,1 @@
+lar[10075]=`<b>ἀντι·μερίζομαι</b>, faire part à son tour <i>ou</i> en retour, ANTH. <i>6, 209</i>.`

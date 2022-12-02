@@ -1,0 +1,1 @@
+lar[103245]=`<b>ὑπο·θειάζω</b>, honorer presque comme une divinité, PHILSTR. <i>V. Ap. 1, 3 ; 6, 11</i>.`

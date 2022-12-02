@@ -1,0 +1,1 @@
+lar[54243]=`<b>κατωνακο·φόρος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> esclave vêtu de l’habit appelé κατωνάκη, THPP. (ATH. <i>271d</i>).<p><b>Étym</b>. κατωνάκη, φέρω.`

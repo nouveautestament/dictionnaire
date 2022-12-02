@@ -1,0 +1,1 @@
+lar[29642]=`<b>ἐγ·κέρχνω</b> (<i>seul. prés</i>.) produire de l’enrouement, HPC. <i>393, 48</i>.<p><b>Étym</b>. ἐν, κ.`

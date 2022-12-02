@@ -1,0 +1,1 @@
+lar[14145]=`<b>ης (ἡ)</b> sorte de plante des bords de l’Araxe, <i>appelée aussi</i> μισοπάρθενος, PLUT. <i>M. 1162f</i>.<p><b>Étym</b>. Ἀράξης.`

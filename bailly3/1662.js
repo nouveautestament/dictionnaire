@@ -1,0 +1,1 @@
+lar[1662]=`<b>ης (ἡ)</b> indignité, insulte, IL. <i>24, 19</i> ; OD. <i>20, 308</i> ; HDT. <i>1, 73, 115</i>.<p><b>Étym</b>. <i>épq. et ion. c</i>. αἰκία.`

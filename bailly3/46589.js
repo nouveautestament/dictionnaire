@@ -1,0 +1,1 @@
+lar[46589]=`<b>ης (ἡ)</b> esprit de justice, ORPH. <i>H. 78, 6</i>.<p><b>Étym</b>. θεμιστός.`

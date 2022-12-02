@@ -1,0 +1,1 @@
+lar[24197]=`<b>εως (ἡ)</b> confiscation au profit de l’État (<i>lat</i>. publicatio) : χρημάτων, PLAT. <i>Prot. 325c ; cf</i>. DÉM. <i>215, 24</i> ; ARSTT. <i>Pol. 4, 14, 3</i> ; τῶν ὑπαρχόντων, DÉM. <i>528, 7</i> ; DH. <i>4, 4</i>, confiscation des biens, de la fortune (d’un citoyen).<p><b>Étym</b>. δημεύω.`

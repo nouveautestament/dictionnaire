@@ -1,0 +1,1 @@
+lar[56088]=`<b>ου (τὸ)</b> <font color="purple">[ῐσ]</font> habitation des esclaves près de celle du maître, OD. <i>24, 208 (avec la leç</i>. κλεισίον <i>ou</i> κλήσιον).<p><b>Étym</b>. κλισία.`

@@ -1,0 +1,1 @@
+lar[78831]=`<b>περι·κρύπτω</b>, cacher tout autour <i>ou</i> avec soin, LUC. <i>D. mort. 10, 8, etc.</i><br><b><i>Moy.</i></b> se cacher à, <i>acc</i>. DL. <i>6, 61</i>.`

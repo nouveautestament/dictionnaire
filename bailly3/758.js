@@ -1,0 +1,1 @@
+lar[758]=`<b>η, ον</b>, <i>ou</i> <b>ἄγνιος, α, ον</b>, d’agnus-castus, PLUT. <i>M. 693f</i>.<p><b>Étym</b>. ἄγνος.`

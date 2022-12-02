@@ -1,0 +1,1 @@
+lar[28944]=`<b>δύσ·τροπος, ος, ον</b>, d’un caractère difficile, intraitable, EUR. <i>Hipp. 161 ; joint à</i> δύσκολος, DÉM. <i>73 ; à</i> σκυθρωπός, PLUT. <i>M. 361b</i>.<p><b>Étym</b>. δ. τρόπος.`

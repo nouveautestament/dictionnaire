@@ -1,0 +1,1 @@
+lar[18994]=`se trémousser, danser, <i>mot de Sicile et de la Grande-Grèce,</i> EPICH. <i>et</i> SOPHR. (ATH. <i>362b</i>).<p><b>Étym</b>. βάλλω.`

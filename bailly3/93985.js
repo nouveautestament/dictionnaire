@@ -1,0 +1,1 @@
+lar[93985]=`<b>συμ·μηνία, ας (ἡ)</b> temps où la lune ne se montre pas, espace entre deux lunes, M. RUBR. <i>46</i>.<p><b>Étym</b>. σ. μήνη.`

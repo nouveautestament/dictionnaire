@@ -1,0 +1,1 @@
+lar[59473]=`<b>λαθι·κηδής, ής, ές</b> <font color="purple">[ᾰῐ]</font> qui fait oublier le chagrin, IL. <i>22, 83</i> ; PLUT. <i>M. 657d ;</i> A. PL. <i>4, 273</i>.<p>➳ <i>Dor</i>. λαθικάδης <font color="purple">[ᾱ]</font> ALC. <i>41</i>.<p><b>Étym</b>. λαθεῖν, κῆδος.`

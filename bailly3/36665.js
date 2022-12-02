@@ -1,0 +1,1 @@
+lar[36665]=`<b>ἐπ·αναφωνέω-ῶ</b> (<i>part. prés. pass</i>.) redire après, SEXT. <i>M. 1, 130</i>.`

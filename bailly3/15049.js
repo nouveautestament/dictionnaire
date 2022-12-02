@@ -1,0 +1,1 @@
+lar[15049]=`<b>ος, ον</b> <font color="purple">[πᾰ]</font> d’Harpalos, PLUT. <i>Phoc. 22, etc</i>.<p><b>Étym</b>. Ἅρπαλος.`

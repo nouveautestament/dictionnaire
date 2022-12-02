@@ -1,0 +1,1 @@
+lar[90205]=`<b>ίδος</b> <font color="purple">[σῑῐδ]</font> <i>adj. c</i>. Σιδώνιος, NONN. <i>D. 9, 99, etc</i>.`

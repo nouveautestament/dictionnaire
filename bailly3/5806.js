@@ -1,0 +1,1 @@
+lar[5806]=`<b>(ὁ)</b> La-vigne, <i>h</i>. ALCIPHR. <i>3, 30</i>.<p><b>Étym</b>. ἄμπελος.`

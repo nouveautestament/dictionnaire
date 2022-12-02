@@ -1,0 +1,1 @@
+lar[38442]=`<b>ατος (τὸ)</b> <font color="purple">[χᾰ]</font> invention, expédient, machination, HIPPODAM. (STOB. <i>Fl. 43, 93).</i><p><b>Étym</b>. ἐπιμηχανάομαι.`

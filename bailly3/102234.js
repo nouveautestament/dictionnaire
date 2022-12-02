@@ -1,0 +1,1 @@
+lar[102234]=`<b>ὑπερ·αής, ής, ές</b> <font color="purple">[ᾱ]</font> qui souffle avec violence, IL. <i>11, 297</i>.<p><b>Étym</b>. ὕ. ἄημι.`

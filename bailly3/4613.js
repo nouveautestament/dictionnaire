@@ -1,0 +1,1 @@
+lar[4613]=`<b>(ὁ)</b> fils <i>ou</i> descendant d’Alcée, PD. <i>O. 6, 115 (gén. pl. dor</i>. -ϊδᾶν).<p><b>Étym</b>. Ἀλκαῖος.`

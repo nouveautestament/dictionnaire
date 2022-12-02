@@ -1,0 +1,1 @@
+lar[57760]=`<b>κρεουργέω-ῶ</b>, couper de la viande par morceaux, LUC. <i>Syr. 55</i> ; JOS. <i>A.J. 13, 12, etc</i>.<p><b>Étym</b>. κρεουργός.`

@@ -1,0 +1,1 @@
+lar[1367]=`<b>ἀ·διάστολος, ος, ον :<br>      1</b> non déterminatif de, <i>gén</i>. DYSC. <i>Pron. 273, etc.</i><br><b>      2</b> indéterminé, DYSC. <i>Pron. 306</i>.<p><b>Étym</b>. ἀ, διαστολή.`

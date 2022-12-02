@@ -1,0 +1,1 @@
+lar[105761]=`<b>φιλ·οδίτης, ου (ὁ)</b> <font color="purple">[ῐῑ]</font> ami des voyageurs, <i>ép. de Pan,</i> ANTH. <i>6, 102</i>.<p><b>Étym</b>. φ. ὁδίτης.`

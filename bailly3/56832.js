@@ -1,0 +1,1 @@
+lar[56832]=`<b>κομπο·λακέω-ῶ</b> <font color="purple">[ᾱ]</font> tenir des propos emphatiques et sots, AR. <i>Ran. 961</i>.<p><b>Étym</b>. κόμπος, λακέω.`

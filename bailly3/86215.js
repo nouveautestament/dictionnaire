@@ -1,0 +1,1 @@
+lar[86215]=`<b>προσ·ονειδίζω</b>, reprocher en outre <i>ou</i> encore plus, JOS. <i>B.J. 2, 2, 5, A.J. 16, 3, 1, etc</i>.`

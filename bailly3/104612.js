@@ -1,0 +1,1 @@
+lar[104612]=`<b>ίδος</b>, <i>adj. f</i>. de Phaéthon, ANTH. <i>9, 782</i> ; A. PL. <i>77, etc</i>.<p><b>Étym</b>. Φαέθων.`

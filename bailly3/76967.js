@@ -1,0 +1,1 @@
+lar[76967]=`<font color="purple">[ῐ]</font> <i>c</i>. παριτητέον PHIL. <i>1, 532</i>.`

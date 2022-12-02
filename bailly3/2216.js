@@ -1,0 +1,1 @@
+lar[2216]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> Ægialeia, <i>femme de Diomède,</i> IL. <i>5, 412</i>.`

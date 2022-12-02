@@ -1,0 +1,1 @@
+lar[44192]=`<i>adv</i>., en s’attachant comme de la colle, DIOSC. <i>5, 172</i>.`

@@ -1,0 +1,1 @@
+lar[64111]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font> de miel, <i>fig</i>. ZÉNON (DL. <i>6, 51).</i><p><b>Étym</b>. μέλι.`

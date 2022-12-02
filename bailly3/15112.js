@@ -1,0 +1,1 @@
+lar[15112]=`<b>ας (ἡ)</b> progéniture mâle, ARSTT. <i>H.A. 7, 6, 2, etc</i>.<p><b>Étym</b>. ἀρρενογόνος.`

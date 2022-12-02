@@ -1,0 +1,1 @@
+lar[73795]=`<b>ου</b> <i>ou</i> <b>α (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> Ophellas, <i>h</i>. TH. <i>H.P. 4, 3, 2</i>.<br><b>      2</b> Ofella, <i>n. d’h. rom</i>. PLUT. <i>Lys. c. Syll. 2</i>.<p>➳ <i>Gén</i>. -ου, TH. <i>l. c. ; ou</i> α, PLUT. <i>Syll. 33</i>.`

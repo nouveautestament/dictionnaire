@@ -1,0 +1,1 @@
+lar[19253]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῐ]</font> reine, princesse, OD. <i>4, 770</i> ; PD. ESCHL. ; <i>joint à</i> γυνή, ESCHL. <i>Pers. 623</i> ; EUR. <i>El. 988 ; en parl. de déesses, joint à</i> θεά, AR. <i>Pax 974</i>.<p>➳ <i>Ion</i>. βασιληΐη, HDT. <i>4, 33, etc</i>.<p><b>Étym</b>. βασιλεύς.`

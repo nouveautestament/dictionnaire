@@ -1,0 +1,1 @@
+lar[98683]=`<b>τετρά·στιχος, ος, ον</b> <font color="purple">[ῐ]</font> disposé sur quatre rangs, SPT. <i>Ex. 28, 17 ; 36, 8</i>.<p><b>Étym</b>. τ. στίχος.`

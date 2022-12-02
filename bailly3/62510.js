@@ -1,0 +1,1 @@
+lar[62510]=`<b>μακρο·ημερεύω</b>, vivre de longs jours, CHRYS. <i>6, 999</i>.<p><b>Étym</b>. μ. ἡμέρα.`

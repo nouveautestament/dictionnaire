@@ -1,0 +1,1 @@
+lar[87585]=`<b>Πυθο·νίκη, ης (ἡ)</b> <font color="purple">[ῡῑ]</font> Pythonikè, <i>f</i>. PLUT. <i>Phoc. 22</i>.<p><b>Étym</b>. <i>fém. de</i> Πυθόνικος.`

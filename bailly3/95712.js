@@ -1,0 +1,1 @@
+lar[95712]=`<b>συν·επόμνυμι :<br>      1</b> jurer ensemble : τι, AR. <i>Lys. 237,</i> qqe ch.<br><b>      2</b> jurer en même temps de, <i>inf</i>. XÉN. <i>An. 7, 6, 19</i>.`

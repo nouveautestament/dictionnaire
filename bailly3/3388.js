@@ -1,0 +1,1 @@
+lar[3388]=`<b>ἀκινητέω-ῶ</b> <font color="purple">[ῑ]</font> être immobile, demeurer en repos, HPC. <i>596, 30</i> ; GAL. <i>19, 460</i>.<p><b>Étym</b>. ἀκίνητος.`

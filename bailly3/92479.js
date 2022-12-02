@@ -1,0 +1,1 @@
+lar[92479]=`<b>στεφανη·πλόκος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tresse des couronnes, TH. <i>H.P. 6, 8, 1</i> ; PLUT. <i>M. 645f</i>.<p><b>Étym</b>. στεφάνη, πλέκω.`

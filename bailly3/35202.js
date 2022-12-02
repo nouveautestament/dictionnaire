@@ -1,0 +1,1 @@
+lar[35202]=`<b>ἐν·υφαίνω</b> <font color="purple">[ῠ]</font> tisser <i>ou</i> broder dans : τινί τι, ATH. <i>535f</i>, qqe ch. sur une étoffe ; <i>cf. au pass</i>. HDT. <i>3, 47</i>.`

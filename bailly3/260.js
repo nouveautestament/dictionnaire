@@ -1,0 +1,1 @@
+lar[260]=`<b>Ἀγαθο·νίκη, ης (ἡ)</b> <font color="purple">[ᾰᾰῑ]</font> Agathonikè, <i>f</i>. ANTH. <i>1, 18</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀγαθόνικος.`

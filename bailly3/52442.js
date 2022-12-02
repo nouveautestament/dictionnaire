@@ -1,0 +1,1 @@
+lar[52442]=`<b>οῦ (ὁ)</b> trouble, agitation, mouvement désordonné, <i>au pl</i>. EPIC. (APH. <i>546e</i>) ; PLUT. <i>M. 1090b</i>.<p><b>Étym</b>. καταιγίζω.`

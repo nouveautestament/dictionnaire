@@ -1,0 +1,1 @@
+lar[72698]=`<b>ὀρθο·γώνιος, ος, ον</b>, à angle droit, rectangulaire, T. LOCR. <i>98a ;</i> ARSTT. <i>An. 2, 2, 2</i>.<p><b>Étym</b>. ὀ. γωνία.`

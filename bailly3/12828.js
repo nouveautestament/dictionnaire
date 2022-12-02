@@ -1,0 +1,1 @@
+lar[12828]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῡ]</font> qui détruit, qui bouleverse, OD. <i>17, 220, 377</i>.<p><b>Étym</b>. ἀπολυμαίνομαι.`

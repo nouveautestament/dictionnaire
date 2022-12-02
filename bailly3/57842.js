@@ -1,0 +1,1 @@
+lar[57842]=`<b>ας (ἡ)</b> bluteau pour tamiser la farine, AR. <i>Eccl. 991</i>.`

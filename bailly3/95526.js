@@ -1,0 +1,1 @@
+lar[95526]=`<b>συν·εξερευνάομαι-ῶμαι</b>, rechercher avec, PLAT. <i>Theæt. 155e</i>.`

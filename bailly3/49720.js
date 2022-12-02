@@ -1,0 +1,1 @@
+lar[49720]=`<b>ἰσο·πολιτεία, ας (ἡ)</b> <font color="purple">[ῑ̆ῑτ]</font><br><b>      1</b> égalité de droits civils, ARSTT. <i>fr. 537</i>.<br><b>      2</b> réciprocité de droits entre deux États contractants, POL. <i>16, 26, 9</i>.<p><b>Étym</b>. ἴ. πολιτεία.`

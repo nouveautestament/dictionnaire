@@ -1,0 +1,1 @@
+lar[13634]=`<i>adv.</i> :<br><b>      1</b> précisément, absolument, ISOCR. <i>126b ;</i> DÉM. <i>1402, 16</i>.<br><b>      2</b> d’une manière tranchante, durement, CIC. <i>Att. 12, 6</i>.<p><b>Étym</b>. ἀπότομος.`

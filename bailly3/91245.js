@@ -1,0 +1,1 @@
+lar[91245]=`<font color="purple">[ῠᾰ]</font> repousser dédaigneusement, mépriser, DH. <i>Orat. proœm. 1 ; au pass</i>. PEMPEL. (STOB. <i>Fl. 79, 52</i>) ; SPT. <i>Sir. 26, 28</i>.<p><b>Étym</b>. σκύβαλον.`

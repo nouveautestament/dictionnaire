@@ -1,0 +1,1 @@
+lar[46881]=`<b>ΐδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. qui honore, ORACL. (JUL. <i>451b</i>).<p><b>Étym</b>. θεραπεύω.`

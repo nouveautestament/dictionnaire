@@ -1,0 +1,1 @@
+lar[62250]=`<b>ας (ἡ)</b> Magnaura, <i>promont. de Thrace,</i> ANTH. <i>9, 655</i>.`

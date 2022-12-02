@@ -1,0 +1,1 @@
+lar[48266]=`<b>ου (ὁ)</b> <font color="purple">[δᾰ]</font> Iardanos, <i>fl.</i> :<br><b>      1</b> <i>d’Élide,</i> IL. <i>7, 135</i>.<br><b>      2</b> <i>de Crète,</i> OD. <i>3, 292</i>.`

@@ -1,0 +1,1 @@
+lar[78299]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> émigrant, SPT. <i>Gen. 14, 13</i> ; PHIL. <i>1, 439</i>.<p><b>Étym</b>. περάω.`

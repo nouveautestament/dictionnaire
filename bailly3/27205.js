@@ -1,0 +1,1 @@
+lar[27205]=`<b>δί·χοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui contient deux conges, de deux conges, POSIDON. (ATH. <i>495a</i>) ; τὸ δίχουν, DIOSC. <i>3, 59,</i> mesure de deux conges.<p><b>Étym</b>. δίς, χόος.`

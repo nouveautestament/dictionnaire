@@ -1,0 +1,1 @@
+lar[18357]=`<i>gén</i>. <b>εω (ὁ)</b> <font color="purple">[ᾰῐν]</font> <i>c</i>. ἀχαΐνη, ANTH. <i>6, 165</i>.`

@@ -1,0 +1,1 @@
+lar[15367]=`<b>ἀρτί·πος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> <i>seul nomin. v</i>. ἀρτίπους.`

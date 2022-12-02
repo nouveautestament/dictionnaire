@@ -1,0 +1,1 @@
+lar[17293]=`<b>ων (τὰ)</b> Ausigdes, <i>v. de Libye,</i> CALL. <i>ou</i> Αὐσίγδα, LYC. <i>885</i>.`

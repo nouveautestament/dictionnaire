@@ -1,0 +1,1 @@
+lar[58502]=`<b>Κυθηρο·δίκης, ου (ὁ)</b> <font color="purple">[ῠῐ]</font> juge pour Cythère, <i>titre de magistrat à Sparte,</i> THC. <i>4, 53</i>.<p><b>Étym</b>. Κύθηρα, δίκη.`

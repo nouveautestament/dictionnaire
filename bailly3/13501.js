@@ -1,0 +1,1 @@
+lar[13501]=`<b>ἀπο·σφαλμέω-ῶ</b> (<i>part. ao</i>. -ήσας) faire un faux pas, POL. <i>35, 5</i>.`

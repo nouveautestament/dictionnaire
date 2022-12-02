@@ -1,0 +1,1 @@
+lar[64022]=`<b>μελί·κομπος, ος, ον</b> <font color="purple">[ῐ]</font> au son doux comme le miel, PD. <i>I. 2, 46</i>.<p><b>Étym</b>. μέλι, κομπέω.`

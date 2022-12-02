@@ -1,0 +1,1 @@
+lar[75966]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰνᾱλ]</font><br><b>      1</b> dépense faite mal à propos <i>ou</i> en pure perte, PLUT. <i>Pyrrh. 30</i> ; EL. <i>V.H. 1, 17</i> ; PHIL. <i>2, 519, 600</i> ; JOS. <i>B.J. 4, 5, 2</i>.<br><b>      2</b> <i>en parl. de pers</i>. être inutile et encombrant, DÉMAD. <i>178, 35</i>.<p><b>Étym</b>. παραναλίσκω.`

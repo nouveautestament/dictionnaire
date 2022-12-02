@@ -1,0 +1,1 @@
+lar[103316]=`<b>ὑπο·κάμπτω</b>, faire des détours, XÉN. <i>Cyn. 5, 16</i> ; se détourner avant d’atteindre le but, ESCHL. <i>Ag. 786</i>.`

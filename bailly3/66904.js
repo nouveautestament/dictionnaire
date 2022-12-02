@@ -1,0 +1,1 @@
+lar[66904]=`<b>ου (ὁ)</b> <font color="purple">[ῐκ]</font> Mousikios, <i>poète de l’Anthologie,</i> ANTH. <i>9, 39</i>.<p><b>Étym</b>. μουσικός.`

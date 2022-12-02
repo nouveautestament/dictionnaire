@@ -1,0 +1,1 @@
+lar[12254]=`<b>ή, όν :<br>      1</b> acceptable, PLUT. <i>M. 1061a.</i><br><b>      2</b> <i>p. suite,</i> agréable, SEXT. <i>706</i> ; DIOSC. <i>Parab. 1 proœm</i>.<p>•<i> Cp</i>. -ότερος, DIOSC. <i>l. c</i>.<p><b>Étym</b>. ἀποδέχομαι.`

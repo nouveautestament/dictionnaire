@@ -1,0 +1,1 @@
+lar[48040]=`<font color="darkgreen">(<i>seul. part. prés. gén. pl. fém</i>. θυρσαδδοᾶν, <i>c</i>. θυρσαζουσῶν)</font> célébrer la fête de Bacchus avec le thyrse, AR. <i>Lys. 1313</i>.<p><b>Étym</b>. <i>lac. p</i>. *θυρσάζω, <i>de</i> θύρσος.`

@@ -1,0 +1,1 @@
+lar[77440]=`<b>παυσί·λυπος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui apaise le chagrin, SOPH. <i>fr. 375 Dind.</i> ; EUR. <i>Bacch. 772</i>.<p><b>Étym</b>. π. λύπη.`

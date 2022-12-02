@@ -1,0 +1,1 @@
+lar[28410]=`<b>δυσ·εξίλαστος, ος, ον</b> <font color="purple">[ῠῑ]</font> difficile à adoucir, à apaiser, PLUT. <i>M. 609e</i>.<p><b>Étym</b>. δ. ἐξιλάσκομαι.`

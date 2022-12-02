@@ -1,0 +1,1 @@
+lar[73951]=`<b>ὀχλο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> ami du peuple, M. ANT. <i>1, 16</i> ; MAN. <i>4, 277</i>.<p><b>Étym</b>. ὄ. χαίρω.`

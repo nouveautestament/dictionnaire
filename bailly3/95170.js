@@ -1,0 +1,1 @@
+lar[95170]=`<b>συν·διαφθείρω</b>, détruire en même temps, ARSTT. <i>H.A. 7, 4, 18 ; au pass</i>. être gâté <i>ou</i> périr avec, <i>dat</i>. ISOCR. <i>167d ;</i> DIN. <i>110, 37</i> ; DH. <i>3, 36</i>.<p>➳ <i>pf</i>. συνδιέφθορα <i>au sens pass</i>. DS. <i>Exc. p. 541, 45</i>.`

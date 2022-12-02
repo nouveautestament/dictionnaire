@@ -1,0 +1,1 @@
+lar[100451]=`<font color="purple">[πᾱ]</font> <i>dor. c</i>. τρισκαιδεκάπηχυς.`

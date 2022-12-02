@@ -1,0 +1,1 @@
+lar[78713]=`<i>pl. neutre, vb. de</i> περικαλύπτω, AR. <i>Nub. 727</i>.`

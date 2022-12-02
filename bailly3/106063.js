@@ -1,0 +1,1 @@
+lar[106063]=`<b>φίλ·ορνις, ιθος (ὁ, ἡ)</b> <font color="purple">[φῐῑθ]</font><br><b>      1</b> <i>act</i>. qui aime les oiseaux, PLUT. <i>Num. 4</i> ; OPP. <i>C. 1, 78</i>.<br><b>      2</b> aimé <i>ou</i> recherché des oiseaux, ESCHL. <i>Eum. 23</i>.`

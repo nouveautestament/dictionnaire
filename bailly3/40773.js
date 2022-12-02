@@ -1,0 +1,1 @@
+lar[40773]=`<b>ου</b>, <i>adj. m</i>. qui a le teint rouge, rougeaud, ARSTT. <i>Categ. 8, 15</i>.`

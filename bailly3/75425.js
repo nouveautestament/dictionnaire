@@ -1,0 +1,1 @@
+lar[75425]=`<b>παρα·βραβεύω</b> <font color="purple">[βρᾰ]</font> juger contre le droit, d’une manière inique, dans un concours d’athlètes, PLUT. <i>M. 535c ; en gén. au pass</i>. POL. <i>24, 1, 12</i>.`

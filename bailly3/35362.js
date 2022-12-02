@@ -1,0 +1,1 @@
+lar[35362]=`<b>αι, α</b> <font color="purple">[ᾰκ]</font> six cents, HDT. <i>1, 51, etc.</i> ; XÉN. <i>An. 5, 5, 4, etc</i>.<p><b>Étym</b>. ἕξ, -κοσιοι.`

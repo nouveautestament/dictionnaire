@@ -1,0 +1,1 @@
+lar[84329]=`<b>προ·ησσάω</b>, <i>att</i>. <b>-ηττάω-ῶ</b>, vaincre d’avance, POL. <i>2, 53, 3 ; surt. au pass</i>. POL. <i>3, 90, 4 ; 10, 7, 6</i> ; DS. <i>13, 79</i>.`

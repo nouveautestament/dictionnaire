@@ -1,0 +1,1 @@
+lar[18485]=`<b>ἀχλυόω-ῶ</b>, <i>f</i>. ώσω <font color="purple">[ᾱ]</font> envelopper de brumes, de vapeurs, obscurcir, TH. <i>Vent. 35</i> ; ARÉT. <i>120, 18</i> ; SYN. <i>141d</i>.<p><b>Étym</b>. ἀχλύς.`

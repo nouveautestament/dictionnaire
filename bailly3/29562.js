@@ -1,0 +1,1 @@
+lar[29562]=`<b>ἐγ·κατασήπομαι</b> <font color="darkgreen">(<i>ao.2, 3 sg</i>. ἐγκατεσάπη)</font> se pourrir, STOB. <i>Fl. 2, 95</i>.<p><b>Étym</b>. ἐν, κ.`

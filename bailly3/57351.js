@@ -1,0 +1,1 @@
+lar[57351]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> en forme de cavité, GAL. <i>4, 282</i>.<p><b>Étym</b>. κοτυληδών, -ωδης.`

@@ -1,0 +1,1 @@
+lar[1354]=`<i>adv</i>., sans distinction, GAL. <i>16, 240</i>.`

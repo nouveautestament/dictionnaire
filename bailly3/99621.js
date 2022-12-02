@@ -1,0 +1,1 @@
+lar[99621]=`<b>τοξο·φόρος, ος, ον</b>, qui porte un arc, <i>ép. d’Artémis,</i> IL. <i>21, 483 ; d’Apollon,</i> HH. <i>Ap. 13, 126 ; d’Hèraklès,</i> EUR. <i>Tr. 801 ; des Crétois,</i> PD. <i>P. 5, 54 ; des Phrygiens,</i> EUR. <i>Rhes. 32 ; des Mèdes,</i> ANTH. <i>App. 73 ; subst</i>. οἱ τοξοφόροι, HDT. <i>1, 103,</i> les archers.<p><b>Étym</b>. τόξον, φέρω.`

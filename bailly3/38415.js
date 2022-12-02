@@ -1,0 +1,1 @@
+lar[38415]=`<b>ητος (ἡ)</b> qualité d’un nombre entier avec fraction, JAMBL. <i>Nicom. ar. 98</i>.<p><b>Étym</b>. ἐπιμερής.`

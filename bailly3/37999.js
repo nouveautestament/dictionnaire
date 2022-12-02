@@ -1,0 +1,1 @@
+lar[37999]=`<b>ἐπι·κερδαίνω</b>, gagner en outre, PLUT. <i>Flam. 3</i>.`

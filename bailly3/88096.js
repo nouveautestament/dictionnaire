@@ -1,0 +1,1 @@
+lar[88096]=`<b>ῆρος (ὁ)</b> vendeur, HERMIPP. (<i>Com. fr. 2, 416 ; var</i>. πωλητήριος) ; PHIL. <i>1, 161</i>.<p><b>Étym</b>. πωλέω.`

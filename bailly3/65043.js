@@ -1,0 +1,1 @@
+lar[65043]=`<b>μετα·χαρακτηρίζω</b> <font color="purple">[χᾰ]</font> changer le caractère, JUL. <i>79</i>.`

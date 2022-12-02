@@ -1,0 +1,1 @@
+lar[7148]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾱ]</font> qui dépense, PLAT. <i>Rsp. 552b</i>.`

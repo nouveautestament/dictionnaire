@@ -1,0 +1,1 @@
+lar[58318]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> désigné <i>ou</i> décidé par le sort au moyen de fèves, XÉN. <i>Mem. 1, 2, 9</i> ; PLUT. <i>M. 12e</i>.<p><b>Étym</b>. κυαμεύω.`

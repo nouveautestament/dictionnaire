@@ -1,0 +1,1 @@
+lar[84989]=`<b>προ·πολιτεύω</b> <font color="purple">[ῑ]</font> administrer auparavant les affaires publiques, POL. <i>4, 14, 7</i>.<br><b><i>Moy.</i></b> participer aux affaires publiques avant <i>ou</i> de préférence à, <i>gén</i>. THÉM. <i>205c ;</i> DC. <i>52, 21</i>.<p><b>Étym</b>. π. πολιτεύομαι.`

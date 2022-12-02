@@ -1,0 +1,1 @@
+lar[84014]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> le temps qui précède le coucher du soleil, MAN. <i>6, 566</i>.<p><b>Étym</b>. προδύω.`

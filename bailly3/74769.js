@@ -1,0 +1,1 @@
+lar[74769]=`<b>παμφαλάω-ῶ</b> <font color="purple">[φᾰ]</font> jeter de tous côtés des regards effarés, HIPPON. (SCH.-A.RH. <i>2, 127</i>) ; ANACR. <i>160</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. LYC. <i>1433</i>.`

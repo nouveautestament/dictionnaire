@@ -1,0 +1,1 @@
+lar[68394]=`<b>νευρο·χονδρώδης, ης, ες</b>, plein de nerfs et de cartilages, GAL. <i>4, 157</i>.<p><b>Étym</b>. νεῦρον, χ.`

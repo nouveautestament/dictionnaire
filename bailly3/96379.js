@@ -1,0 +1,1 @@
+lar[96379]=`<b>ας (ἡ) :<br>      1</b> nourriture <i>ou</i> éducation en commun, PLUT. <i>Cato ma. 20 ; p. suite,</i> vie en commun, relations habituelles, commerce, POL. <i>6, 5, 10</i> ; STR. <i>337</i> ; DS. <i>Exc. 580, 46</i> ; DH. <i>6, 74</i>.<br><b>      2</b> nourrisson, progéniture, ANTH. <i>7, 216</i>.<p><b>Étym</b>. σύντροφος.`

@@ -1,0 +1,1 @@
+lar[11220]=`<b>Ἀπαμεῖτις λίμνη (ἡ)</b> le lac d’Apameia, <i>en Syrie,</i> EL. <i>N.A. 12, 29</i>.<p><b>Étym</b>. Ἀπάμεια.`

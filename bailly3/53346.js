@@ -1,0 +1,1 @@
+lar[53346]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petit vase, HÉRON <i>p. 160</i>.<p><b>Étym</b>. κατασκεύασμα.`

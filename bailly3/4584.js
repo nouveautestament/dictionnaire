@@ -1,0 +1,1 @@
+lar[4584]=`<b>ἀλιτο·φροσύνη, ης (ἡ)</b> <font color="purple">[ᾰῐῠ]</font> scélératesse, ANTH. <i>7, 648</i>.<p><b>Étym</b>. *ἀλιτόφρων, <i>de</i> *ἀλιταίνω, φρήν.`

@@ -1,0 +1,1 @@
+lar[105321]=`<b>ης (ἡ)</b> petite vieille étique, AR. <i>Eccl. 935</i>.<p><b>Étym</b>. φθίνω.`

@@ -1,0 +1,1 @@
+lar[41503]=`<b>εὐ·άγητος, ος, ον</b> <font color="purple">[ᾱ]</font> qui se meut facilement, AR. <i>Nub. 274</i>.<p><b>Étym</b>. εὖ, ἡγέομαι.`

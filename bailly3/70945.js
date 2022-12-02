@@ -1,0 +1,1 @@
+lar[70945]=`<b>ὀλεσί·θηρ, ηρος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui détruit les bêtes féroces, EUR. <i>Ph. 664</i>.<p><b>Étym</b>. ὄλλυμι, θήρ.`

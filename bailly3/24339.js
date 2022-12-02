@@ -1,0 +1,1 @@
+lar[24339]=`<b>Δημο·χάρης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Dèmokharès, <i>h</i>. DÉM. <i>1145, 21 ; 1147, 11, etc.</i> ; POL. PLUT. <i>etc</i>.<p>➳ <i>Dat</i>. -ει, <i>mais</i> -ῃ, DIOG. <i>Erot. 2 ; acc</i>. -ην, <i>mais</i> -η, PLUT. <i>X orat. Eschn. 15. — Dor</i>. Δαμο- <font color="purple">[ᾱ]</font> PLUT. <i>Ages. 18, 19</i>.`

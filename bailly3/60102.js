@@ -1,0 +1,1 @@
+lar[60102]=`<b>ων (τὰ)</b> Leibèthres, <i>région montagneuse de Thrace, séjour d’Orphée,</i> ORPH. <i>Arg. 50, 1371</i> ; PLUT. <i>Alex. 14</i>.<p><b>Étym</b>. <i>plur. de</i> λείβηθρον.`

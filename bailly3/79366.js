@@ -1,0 +1,1 @@
+lar[79366]=`<b>περι·σταυρόω-ῶ</b>, entourer de pieux <i>ou</i> d’une palissade, <i>acc</i>. THC. <i>2, 75 ; au pass</i>. XÉN. <i>An. 7, 4, 14</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. XÉN. <i>Hell. 3, 2, 2</i>.`

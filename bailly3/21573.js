@@ -1,0 +1,1 @@
+lar[21573]=`<b>ή, όν</b>, porté à rire, rieur, LUC. <i>V. auct. 26</i> ; SEXT. <i>P. 2, 211</i> ; CLÉM. <i>Str. 8, p. 926, 927</i>.<p><b>Étym</b>. γελάω.`

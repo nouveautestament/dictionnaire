@@ -1,0 +1,1 @@
+lar[66105]=`<b>ου (ὁ)</b> Mitræos, <i>Perse,</i> XÉN. <i>Hell. 2, 1, 8</i>.`

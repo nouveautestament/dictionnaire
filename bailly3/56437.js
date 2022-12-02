@@ -1,0 +1,1 @@
+lar[56437]=`<b>κοιλο·σώματος, ος, ον</b> <font color="purple">[ᾰ]</font> au corps creux, ANTIPH. (ATH. <i>449b</i>).<p><b>Étym</b>. κοῖλος, σῶμα.`

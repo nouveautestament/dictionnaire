@@ -1,0 +1,1 @@
+lar[63777]=`<b>μελάγ·χλωρος, ος, ον</b>, d’un jaune <i>ou</i> d’un vert foncé, DIOSC. <i>1, 58</i> ; ARÉT. <i>Caus. m. diut. 2, 1, etc</i>.<p><b>Étym</b>. μ. χλωρός.`

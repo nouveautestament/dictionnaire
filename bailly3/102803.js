@@ -1,0 +1,1 @@
+lar[102803]=`<b>ὑπερ·σπουδάζω</b>, s’occuper avec beaucoup de soin <i>ou</i> d’empressement : περί τι, LUC. <i>Anach. 9</i> ; PHILSTR. <i>V. Ap. 5, 26</i> ; JOS. <i>A.J. 15, 3, 6,</i> de qqe ch.`

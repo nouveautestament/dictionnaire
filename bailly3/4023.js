@@ -1,0 +1,1 @@
+lar[4023]=`<b>ἀλαβαστρο·θήκη, ης (ἡ)</b> <font color="purple">[ᾰλᾰ]</font><br><b>      1</b> armoire pour les vases d’albâtre, DÉM. <i>415, 5 (sous la forme</i> ἀλαβαστο-).<br><b>      2</b> boîte à parfums, AR. <i>fr. 433</i>.<p><b>Étym</b>. ἀ. θήκη.`

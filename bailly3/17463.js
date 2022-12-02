@@ -1,0 +1,1 @@
+lar[17463]=`<b>αὐτο·ειδής, ής, ές</b>, semblable à soi-même, toujours le même, M. ANT. <i>11, 12</i>.<p><b>Étym</b>. αὐ. εἶδος.`

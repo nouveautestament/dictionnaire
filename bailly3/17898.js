@@ -1,0 +1,1 @@
+lar[17898]=`<b>ἀφ·αρμόζω</b> <i>ou</i> <b>ἀφ·αρμόττω</b> <font color="darkgreen">(<i>ao</i>. ἀφήρμοσα)</font> n’être pas d’accord, ŒNOM. (EUS. <i>P.E. 217d</i>).<p><b>Étym</b>. ἀπό, ἁρ.`

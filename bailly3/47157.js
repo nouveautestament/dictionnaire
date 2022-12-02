@@ -1,0 +1,1 @@
+lar[47157]=`<b>ή, όν</b>, digne d’admiration, HÉS. <i>Th. 31</i> ; TYRT. <i>7, 29</i>.<p><b>Étym</b>. θηέομαι.`

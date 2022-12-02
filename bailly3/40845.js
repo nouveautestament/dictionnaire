@@ -1,0 +1,1 @@
+lar[40845]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> berger qui porte une houlette, ALCM. <i>20</i>.`

@@ -1,0 +1,1 @@
+lar[103456]=`<b>ὑπο·λείβω :<br>      1</b> répandre en libation, ESCHL. <i>Ag. 69</i>.<br><b>      2</b> faire couler de dessous, <i>d’où au pass</i>. couler de dessous, sourdre, STR. <i>578</i>.<br><b>      3</b> faire couler peu à peu, <i>d’où au pass</i>. couler goutte à goutte, HPC. <i>601, 54</i> ; NIC. <i>Al. 24</i>.`

@@ -1,0 +1,1 @@
+lar[33803]=`<b>ἔν·αθλος, ος, ον</b> <font color="purple">[ᾱ]</font> qui oblige à lutter, pénible, PHIL. <i>1, 646</i>.<p><b>Étym</b>. ἐν, ἆθλος.`

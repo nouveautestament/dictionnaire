@@ -1,0 +1,1 @@
+lar[102141]=`<b>ὑπ·εκρήγνυμι</b>, briser peu à peu de manière à faire éclater, PLUT. <i>Cam. 3</i>.`

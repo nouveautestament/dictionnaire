@@ -1,0 +1,1 @@
+lar[59752]=`<font color="purple">[ῠ]</font> briller comme un ver luisant, TH. <i>Lap. fr. 2, 58, 59</i> ; DIOSC. <i>5, 99</i>.<p><b>Étym</b>. λαμπυρίς.`

@@ -1,0 +1,1 @@
+lar[63846]=`<b>μελαν·ειδέω-ῶ</b>, avoir l’aspect noirâtre, GAL. <i>Lex. Hipp. 19, 156</i>.<p><b>Étym</b>. μ. εἶδος.`

@@ -1,0 +1,1 @@
+lar[44124]=`<b>ου (τὸ)</b> lieu de réunion des éphores, <i>à Sparte,</i> XÉN. <i>Ages. 1, 36</i> ; PLUT. <i>M. 232f</i>.<p><b>Étym</b>. ἔφορος.`

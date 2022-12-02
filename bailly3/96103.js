@@ -1,0 +1,1 @@
+lar[96103]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sorte de thon du Nil, ATH. <i>312b ;</i> DIPH. SIPHN. (ATH. <i>356f</i>).<p><b>Étym</b>. συνόδους.`

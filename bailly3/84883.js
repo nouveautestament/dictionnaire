@@ -1,0 +1,1 @@
+lar[84883]=`<b>προ·παλαίω</b> <font color="purple">[ᾰ]</font> lutter auparavant contre, <i>dat</i>. HLD. <i>2, 7</i>.`

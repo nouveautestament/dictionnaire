@@ -1,0 +1,1 @@
+lar[79313]=`<b>περισσ·άρτιος, ος, ον</b>, pair-impair, <i>en parl. des nombres pairs qui divisés par le carré ou le cube de 2 deviennent impairs, par ex.</i> : 24 : 2³ = 3, NICOM. <i>Arithm. 1, 10</i>.<p><b>Étym</b>. περισσός, ἄρτιος.`

@@ -1,0 +1,1 @@
+lar[67805]=`<b>ναυσι·πόρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui navigue par mer, EUR. <i>Rhes. 48</i>.<br><b>      2</b> <i>c</i>. ναυπόρος, EUR. <i>I.A. 172</i>.`

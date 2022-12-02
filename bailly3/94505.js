@@ -1,0 +1,1 @@
+lar[94505]=`<b>εως (ἡ)</b> contact, ARSTT. <i>P.A. 2, 17, 9</i> ; PTOL. <i>Harm. p. 15b</i>.<p><b>Étym</b>. συμψαύω.`

@@ -1,0 +1,1 @@
+lar[51591]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> capable de remplir un chariot, <i>d’où</i> abondant, AR. <i>fr. 413 au cp</i>. -ώτερος.<p><b>Étym</b>. καπάνη.`

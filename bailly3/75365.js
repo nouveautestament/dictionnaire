@@ -1,0 +1,1 @@
+lar[75365]=`<b>ης, ες</b> <font color="purple">[ᾰῡ]</font> semblable au papyrus, GAL. <i>152, 3</i>.<p><b>Étym</b>. πάπυρος, -ωδης.`

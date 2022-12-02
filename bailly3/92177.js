@@ -1,0 +1,1 @@
+lar[92177]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière séditieuse, ARSTT. <i>Pol. 5, 6, 15</i>.`

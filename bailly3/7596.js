@@ -1,0 +1,1 @@
+lar[7596]=`<b>ἀναρχο·φωτό·μυστος, ος, ον</b>, qui brille d’une lumière éternelle et mystérieuse, P. SIL. <i>Th. Pyth. 174</i>.<p><b>Étym</b>. ἄναρχος, φῶς, μυέω.`

@@ -1,0 +1,1 @@
+lar[81029]=`<b>πλησί·γναθος, ος, ον</b> <font color="purple">[ᾰ]</font> qui remplit la mâchoire, SOPATR. (ATH. <i>109e</i>).<p><b>Étym</b>. πλήθω, γνάθος.`

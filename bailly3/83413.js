@@ -1,0 +1,1 @@
+lar[83413]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> de Priape, ANTH. <i>6, 254</i> ; Πριάπειον μέτρον, DH. <i>Comp. 4,</i> mètre priapéien, <i>formé d’un vers glyconique et d’un phérécratien</i>.<p>➳ <i>Ion</i>. Πριήπειος, ANTH. <i>6, 254</i>.<p><b>Étym</b>. Πρίαπος.`

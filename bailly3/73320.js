@@ -1,0 +1,1 @@
+lar[73320]=`<b>ὀστρακο·φορία, ας (ἡ)</b> <font color="purple">[ᾰκ]</font> action de voter sur une coquille, <i>càd</i>. dans une condamnation par ostracisme, ARSTT. <i>fr. 396</i> ; PLUT. <i>Alc. 13</i>.<p><b>Étym</b>. ὄ. -φορος <i>de</i> φέρω.`

@@ -1,0 +1,1 @@
+lar[109307]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui concerne la fonte, <i>càd</i>. le travail de l’or, ARSTT. <i>Spir. 9, 2 ; subst</i>. ἡ χρυσοχοϊκὴ τέχνη, DÉM. <i>521, 29,</i> l’art de travailler l’or, l’orfèvrerie.<p><b>Étym</b>. χρυσοχόος.`

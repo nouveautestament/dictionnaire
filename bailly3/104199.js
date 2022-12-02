@@ -1,0 +1,1 @@
+lar[104199]=`<b>ὑπό·ψαμμος, ος, ον :<br>      1</b> mêlé de sable, PLUT. <i>M. 898b.</i><br><b>      2</b> <i>p. suite,</i> ensablé, <i>en parl. d’un marais,</i> XÉN. <i>Hell. 2, 3, 19 ; d’une mer,</i> PLUT. <i>Pomp. 78</i>.<p>•<i> Cp</i>. -ότερος, HDT. <i>2, 12</i>.<p><b>Étym</b>. ὑ. ψάμμος.`

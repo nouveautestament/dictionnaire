@@ -1,0 +1,1 @@
+lar[5700]=`<b>ἀμνηστέω-ῶ</b> (<i>seul. prés</i>.) oublier, SOPH. <i>El. 482</i> ; ARAT. <i>847 ; au pass</i>. être oublié, THC. <i>1, 20</i>.<p>➳ <i>Dor</i>. ἀμνα-, SOPH. <i>l. c</i>.<p><b>Étym</b>. ἄμνηστος.`

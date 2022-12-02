@@ -1,0 +1,1 @@
+lar[48023]=`<font color="purple">[ῠ]</font> <i>dat. épq. de</i> θύρη, <i>adv</i>., à la porte, au dehors, OD. <i>9, 238, etc.</i> ; HÉS. <i>O. 363, etc</i>.<p><b>Étym</b>. θύρα, -φι.`

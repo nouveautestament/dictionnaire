@@ -1,0 +1,1 @@
+lar[14125]=`<b>ἀραιό·στυλος, ος, ον</b> <font color="purple">[ᾰῡ]</font> aux colonnes espacées, VITR. <i>3, 2</i>.<p><b>Étym</b>. ἀ. στῦλος.`

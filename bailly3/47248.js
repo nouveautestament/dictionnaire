@@ -1,0 +1,1 @@
+lar[47248]=`<b>*θηράτειρα</b>, <i>seul. ion</i>. θηρήτειρα, <b>ας (ἡ)</b> chasseresse, CALL. <i>Del. 230</i>.<p><b>Étym</b>. <i>fém. de</i> θηρατήρ.`

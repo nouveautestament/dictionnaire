@@ -1,0 +1,1 @@
+lar[108246]=`<b>ου (τὸ)</b> <i>autre n. de la plante nommée</i> cyclamen, DIOSC. <i>Noth. 2, 194</i> ; APUL. <i>Herb. 17</i>.`

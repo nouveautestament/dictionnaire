@@ -1,0 +1,1 @@
+lar[11942]=`<b>εως (ἡ)</b> retentissement, écho, M. ANT. <i>4, 3</i> ; GAL. <i>2, 246</i>.<p><b>Étym</b>. ἀπηχέω.`

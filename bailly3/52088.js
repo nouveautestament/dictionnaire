@@ -1,0 +1,1 @@
+lar[52088]=`<b>ος, ον</b>, de Castor ; Καστόρειον μέλος, PD. <i>P. 2, 127</i> ; PLUT. <i>Lyc. 22, M. 1140c ;</i> Καστόρειος ὕμνος, PD. <i>I. 1, 21, propr</i>. chant de Castor, <i>chant de guerre que les Spartiates jouaient sur la flûte</i>.<p><b>Étym</b>. Κάστωρ.`

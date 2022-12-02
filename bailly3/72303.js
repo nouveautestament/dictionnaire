@@ -1,0 +1,1 @@
+lar[72303]=`<b>ὀπισθο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> soldat <i>ou</i> troupe d’arrière-garde, XÉN. <i>An. 4, 1, 6</i>.<p><b>Étym</b>. ὄπισθε, φύλαξ.`

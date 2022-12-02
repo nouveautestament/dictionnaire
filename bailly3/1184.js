@@ -1,0 +1,1 @@
+lar[1184]=`<b>ἀδαχέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> gratter une démangeaison, AR. <i>fr. 360 ; cf</i>. ἀδαξάω.`

@@ -1,0 +1,1 @@
+lar[57392]=`<b>ου (ὁ)</b> lapin, ATH. <i>400f ;</i> EL. <i>N.A. 13, 15, var</i>. κόνικλος.<p><b>Étym</b>. <i>lat</i>. cuniculus ; <i>cf</i>. κουνίκουλος.`

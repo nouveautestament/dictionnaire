@@ -1,0 +1,1 @@
+lar[31807]=`<b>ἐκ·περιοδεύω</b>, faire complètement le tour de, <i>acc</i>. PLUT. <i>M. 705d ;</i> JOS. <i>A.J. 17, 2, 4 ; fig</i>. examiner à fond, SEXT. <i>232, 1 Bkk</i>.`

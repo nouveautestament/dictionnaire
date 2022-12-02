@@ -1,0 +1,1 @@
+lar[29126]=`<b>α, ον</b>, de Dodone, HDT. <i>2, 55, etc.</i> ; DH. <i>1, 14, etc.</i> ; Ζεὺς Δ. IL. <i>16, 233</i> ; PD. <i>fr. 29</i> ; PLAT. <i>Phædr. 275b, etc</i>. Zeus de Dodone ; δρὺς Δ. STR. <i>329,</i> chêne de Dodone ; μαντεῖα Δ. EUR. <i>Andr. 886,</i> oracles de Dodone.<p><b>Étym</b>. Δωδώνη.`

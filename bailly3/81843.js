@@ -1,0 +1,1 @@
+lar[81843]=`<b>πολυ·δευκής, ής, ές</b> <font color="purple">[ῠ]</font> tout à fait doux, NIC. <i>Th. 209, 625</i>.<p><b>Étym</b>. π. δευκής.`

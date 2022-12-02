@@ -1,0 +1,1 @@
+lar[79951]=`expressément, LYS. <i>117, 40</i>.<p><b>Étym</b>. <i>loi</i>.`

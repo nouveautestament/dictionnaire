@@ -1,0 +1,1 @@
+lar[85725]=`<b>προσ·επιστείχω</b> <font color="darkgreen">(<i>ao.2</i> -επέστιχον, <i>etc</i>.)</font> s’approcher peu à peu de, <i>dat</i>. ORPH. <i>Arg. 536</i>.`

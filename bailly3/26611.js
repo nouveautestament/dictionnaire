@@ -1,0 +1,1 @@
+lar[26611]=`<b>δί·κυκλος, ος, ον</b> <font color="purple">[ῐῠ]</font> à deux roues, LIB. <i>1, 25</i> ; τὸ δίκυκλον, DC. <i>76, 7,</i> voiture à deux roues.<p><b>Étym</b>. δίς, κύκλος.`

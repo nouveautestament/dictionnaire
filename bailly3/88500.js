@@ -1,0 +1,1 @@
+lar[88500]=`<i>adv</i>., en orateur <i>ou</i> en rhéteur, selon les règles de l’art oratoire, PLAT. <i>Gorg. 471e ;</i> ESCHN. <i>10, 30</i>.<p>•<i> Cp</i>. -ώτερον, DH. <i>Is. 8</i>.`

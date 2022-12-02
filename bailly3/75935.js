@@ -1,0 +1,1 @@
+lar[75935]=`<b>παρα·μιμνῄσκομαι</b> <font color="darkgreen">(<i>pf</i>. παραμέμνημαι)</font> rappeler en passant, faire en passant mention de, <i>gén</i>. HDT. <i>7, 96, 99</i> ; SOPH. <i>Tr. 1124</i>.`

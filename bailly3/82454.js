@@ -1,0 +1,1 @@
+lar[82454]=`<b>ας (ἡ)</b> <font color="purple">[τῑ]</font> haut prix, JAMBL. <i>V. Pyth. 40</i>.<p><b>Étym</b>. πολύτιμος.`

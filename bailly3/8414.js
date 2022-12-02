@@ -1,0 +1,1 @@
+lar[8414]=`<b>ἀν·επέκτατος, ος, ον</b> <font color="purple">[τᾰ]</font> qui ne s’allonge pas (déclinaison) <i>càd</i>. parisyllabique, D. THR. <i>632, 10</i> ; DYSC. <i>conj. 511, 24 ; Adv. 613, 23</i>.<p><b>Étym</b>. ἀν-, ἐπεκτείνω.`

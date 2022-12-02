@@ -1,0 +1,1 @@
+lar[11284]=`<b>ἀπ·ανύω</b> <font color="darkgreen">(<i>ao</i>. ἀπήνυσα ; <i>ao. pass</i>. ἀπηνύσθην <font color="purple">[ᾰν]</font>)</font> achever (<i>s.-e</i>. ὁδόν) un voyage, arriver au terme, OD. <i>7, 326</i> ; Q. SM. <i>1, 51</i>.`

@@ -1,0 +1,1 @@
+lar[104937]=`<b>ους</b>, <i>acc. ion</i>. <b>-εα (ὁ)</b> Pharnoukhès, <i>Perse,</i> HDT. <i>7, 88</i>.`

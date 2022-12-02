@@ -1,0 +1,1 @@
+lar[47188]=`<b>θηλύ·λαλος, ος, ον</b> <font color="purple">[ῠᾰ]</font> au parler de femme, MAN. <i>4, 322</i>.<p><b>Étym</b>. θ. λαλέω.`

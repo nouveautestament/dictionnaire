@@ -1,0 +1,1 @@
+lar[1796]=`<b>ἀερο·νηχής, ής, ές</b> <font color="purple">[ᾱ]</font> qui nage dans l’air, AR. <i>Nub. 337</i>.<p><b>Étym</b>. ἀ. νήχομαι.`

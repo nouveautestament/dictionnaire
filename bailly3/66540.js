@@ -1,0 +1,1 @@
+lar[66540]=`<b>μονό·ζωστος, ος, ον</b>, qui va sans suite, solitaire, HERMÉSIAN. (ATH. <i>597c</i>).<p><b>Étym</b>. μ. ζώννυμι.`

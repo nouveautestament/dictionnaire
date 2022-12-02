@@ -1,0 +1,1 @@
+lar[60400]=`<b>ως, ων</b>, <i>c</i>. λεπτόγειος : τὸ λεπτόγεων, THC. <i>1, 2,</i> la maigreur <i>ou</i> l’aridité du sol.`

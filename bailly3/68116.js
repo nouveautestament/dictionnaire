@@ -1,0 +1,1 @@
+lar[68116]=`<b>νεο·γύνης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. nouvellement marié, AMIPS. (POLL. <i>3, 48).</i><p><b>Étym</b>. ν. γυνή.`

@@ -1,0 +1,1 @@
+lar[88628]=`<b>ατος (τὸ)</b> <font color="purple">[ῥῑ]</font> ventilation, souffle, ANTH. <i>5, 294 au pl</i>.<p><b>Étym</b>. ῥιπίζω.`

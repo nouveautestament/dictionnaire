@@ -1,0 +1,1 @@
+lar[108839]=`<b>χορο·τερπής, ής, ές</b>, qui se plaît aux chœurs de danse, NONN. <i>D. 14, 249</i>.<p><b>Étym</b>. χορός, τέρπω.`

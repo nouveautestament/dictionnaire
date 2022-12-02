@@ -1,0 +1,1 @@
+lar[19642]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire du dème Bèsa, IS., <i>etc.</i> ; CIA. <i>1, 180, c, 10 (418/414 av. J.-C.) etc</i>.<p><b>Étym</b>. βῆσα.`

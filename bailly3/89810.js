@@ -1,0 +1,1 @@
+lar[89810]=`<b>σεμνο·τυφία, ας (ἡ)</b> <font color="purple">[ῡ]</font> vanité, orgueil, M. ANT. <i>9, 29</i>.<p><b>Étym</b>. σ. τῦφος.`

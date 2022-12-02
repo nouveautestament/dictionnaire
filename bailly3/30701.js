@@ -1,0 +1,1 @@
+lar[30701]=`<b>εἰσ·αῦθις</b>, <i>adv</i>., une autre fois, plus tard, EUR. <i>Suppl. 415</i> ; PLAT. <i>Prot. 357b, Phædr. 254d, etc</i>.`

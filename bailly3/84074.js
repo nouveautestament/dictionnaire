@@ -1,0 +1,1 @@
+lar[84074]=`<b>προ·εκκαθαίρω</b> <font color="purple">[ᾰ]</font> purifier d’abord, JOS. <i>A.J. 18, 5, 2</i>.`

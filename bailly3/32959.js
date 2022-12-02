@@ -1,0 +1,1 @@
+lar[32959]=`<b>οῦ (ὁ)</b> <font color="purple">[λῐ]</font> percepteur du droit de mouillage, DÉM. <i>917, 10</i>.<p><b>Étym</b>. ἐλλιμενίζω.`

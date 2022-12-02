@@ -1,0 +1,1 @@
+lar[95709]=`<b>συν·επιψηφίζω</b>, confirmer par son suffrage, ARSTT. <i>Pol. 2, 10, 7</i> ; POL. <i>22, 15, 1</i>.`

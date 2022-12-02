@@ -1,0 +1,1 @@
+lar[52703]=`<b>κατα·λειόω-ῶ</b>, rendre tout à fait lisse, uni, XÉN. <i>Eq. 10, 7</i>.`

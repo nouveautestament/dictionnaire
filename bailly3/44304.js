@@ -1,0 +1,1 @@
+lar[44304]=`<b>α, ον</b> <font color="purple">[ᾰλ]</font> cuit, NIC. <i>Al. 565</i>.<p><b>Étym</b>. ἕψω.`

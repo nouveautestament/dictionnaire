@@ -1,0 +1,1 @@
+lar[10714]=`<b>ἀν·ύδατος, ος, ον</b> <font color="purple">[ῡᾰ]</font> sans eau, MAN. <i>1, 144</i>.<p><b>Étym</b>. ἀν-, ὕδωρ.`

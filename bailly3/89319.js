@@ -1,0 +1,1 @@
+lar[89319]=`<b>ωνος</b>, <i>adj. m</i>. imbécile, sot, ARR. <i>Epict. 3, 22, 83</i>.<p><b>Étym</b>. σάννας.`

@@ -1,0 +1,1 @@
+lar[665]=`<font color="purple">[ῠ]</font> <i>adv</i>., en un style arrondi <i>ou</i> périodique, DH. <i>Thuc. 31</i>.<p><b>Étym</b>. ἀγκύλος.`

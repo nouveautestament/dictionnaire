@@ -1,0 +1,1 @@
+lar[97027]=`<i>adv.</i> :<br><b>      1</b> durement, cruellement, ISOCR. <i>390d.</i><br><b>      2</b> difficilement, avec peine, M. ANT. <i>1, 15</i>.<p>•<i> Sup</i>. -ώτατα, SOPH. <i>Tr. 879</i>.`

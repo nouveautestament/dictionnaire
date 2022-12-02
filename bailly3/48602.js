@@ -1,0 +1,1 @@
+lar[48602]=`<b>ἱερο·μαθής, ής, ές</b> <font color="purple">[ᾰ]</font> qui s’instruit dans les choses saintes, JOB. MON. (PHOT. <i>Bibl. p. 208a, l. 41 Bekker).</i><p><b>Étym</b>. ἱ. μανθάνω.`

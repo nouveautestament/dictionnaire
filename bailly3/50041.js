@@ -1,0 +1,1 @@
+lar[50041]=`<b>ἰχθυβολέω-ῶ</b> <font color="purple">[ῠ]</font> pêcher en harponnant le poisson, ANTH. <i>7, 381, 635</i>.<p><b>Étym</b>. ἰχθυβόλος.`

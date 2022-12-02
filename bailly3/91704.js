@@ -1,0 +1,1 @@
+lar[91704]=`<b>σπαθίτης οἶνος (ὁ)</b> <font color="purple">[ᾰῑ]</font> vin de palmier, A. TR.<p><b>Étym</b>. σπάθη.`

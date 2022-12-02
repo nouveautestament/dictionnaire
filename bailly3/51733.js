@@ -1,0 +1,1 @@
+lar[51733]=`<b>ης (ἡ)</b> <font color="purple">[δᾰῠ]</font> Kardamylè :<br><b>      1</b> <i>v. de Messénie (auj</i>. Karđamýli, <i>anc</i>. Skarđamoúla) IL. <i>9, 150</i> ; HDT. <i>8, 73</i>.<br><b>      2</b> <i>v. de Chio,</i> THC. <i>8, 24</i>.`

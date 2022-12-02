@@ -1,0 +1,1 @@
+lar[99396]=`<b>ου (ὁ)</b> = <i>lat</i>. Titurius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 24</i>.`

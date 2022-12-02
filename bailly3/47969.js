@@ -1,0 +1,1 @@
+lar[47969]=`<b>ή, όν</b>, propre à la pêche au thon, LUC. <i>Sat. 24</i>.<p><b>Étym</b>. *θυννεύω <i>de</i> θύννος.`

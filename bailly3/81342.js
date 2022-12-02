@@ -1,0 +1,1 @@
+lar[81342]=`<b>ας (ἡ)</b> sorte de savon, SPT. <i>Malach. 3, 2 ; Jer. 2, 22</i>.`

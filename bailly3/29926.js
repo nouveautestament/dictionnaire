@@ -1,0 +1,1 @@
+lar[29926]=`<b>ἐγ·χράω</b> (<i>part. pf. pass</i>. ἐγκεχρημένος) porter un coup, diriger une attaque contre, <i>avec</i> πρός <i>et l’acc</i>. HDT. <i>7, 145 dout</i>.<p><b>Étym</b>. <i>p</i>. *ἐγχράϝω, <i>c</i>. ἐγχραύω.`

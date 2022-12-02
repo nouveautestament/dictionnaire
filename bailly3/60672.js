@@ -1,0 +1,1 @@
+lar[60672]=`<font color="darkgreen">(<i>f</i>. λεύσω, <i>ao</i>. ἔλευσα, <i>pf. inus. ; pass. f</i>. λευσθήσομαι, <i>ao</i>. ἐλεύσθην, <i>pf. inus</i>.)</font> lapider, THC. <i>5, 60</i> ; EUR. <i>El. 328 ; au pass</i>. SOPH. <i>O.C. 435,</i> EUR. <i>I.A. 1350</i> ; JOS. <i>c. Ap. 2, 27</i>.<p><b>Étym</b>. <i>inconnue</i>.`

@@ -1,0 +1,1 @@
+lar[41853]=`<b>εὐ·διάγωγος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. qui passe agréablement son temps, joyeux, DIOSC. <i>4, 61</i>.<br><b>      2</b> <i>act</i>. réjouissant, agréable, PHIL. <i>1, 52</i>.<p><b>Étym</b>. εὖ, διάγω.`

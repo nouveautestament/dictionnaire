@@ -1,0 +1,1 @@
+lar[53931]=`<i>vb. de</i> κατεργάζομαι, XÉNOCR. <i>Al. 51</i> ; DIOSC. <i>Iob. p. 50</i>.`

@@ -1,0 +1,1 @@
+lar[3347]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans tache, CHRYS. <i>6, 962</i>.`

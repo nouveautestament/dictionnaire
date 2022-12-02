@@ -1,0 +1,1 @@
+lar[25756]=`<b>δια·τοξεύω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διετόξευσεν)</font> lancer comme une flèche, <i>acc</i>. HLD. <i>5, 32</i>.<br><b><i>Moy.</i></b> disputer le prix de l’arc, XÉN. <i>Cyr. 1, 4, 4</i> ; τινί, PARTH. <i>4,</i> à qqn.`

@@ -1,0 +1,1 @@
+lar[16344]=`<b>ἀστρο·φαής, ής, ές</b> <font color="purple">[φᾰ]</font> brillant comme un astre, EUMOLP. (DS. <i>1, 11 ; var</i>. -φανής).<p><b>Étym</b>. ἄστρον, φάος.`

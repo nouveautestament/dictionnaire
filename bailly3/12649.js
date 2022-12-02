@@ -1,0 +1,1 @@
+lar[12649]=`<b>ἀπο·κραιπαλάω-ῶ</b> <font color="purple">[πᾰ]</font><br><b>      1</b> cuver son vin, PLUT. <i>Ant. 30</i>.<br><b>      2</b> agir <i>ou</i> parler comme un homme ivre, THGNT. (ATH. <i>616a</i>).`

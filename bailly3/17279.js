@@ -1,0 +1,1 @@
+lar[17279]=`<b>(ὁ)</b> Auras, <i>affl. de l’Ister,</i> HDT.`

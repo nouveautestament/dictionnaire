@@ -1,0 +1,1 @@
+lar[56954]=`<b>κοπραγωγέω-ῶ</b> (<i>inf. dor</i>. -αγωγῆν) transporter du fumier, AR. <i>Lys. 1174</i>.<p><b>Étym</b>. κοπραγωγός.`

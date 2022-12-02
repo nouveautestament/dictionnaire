@@ -1,0 +1,1 @@
+lar[52743]=`<b>α, ον</b>, propre à réconcilier, qui réconcilie, PHIL. <i>1, 673</i>.<p><b>Étym</b>. καταλλάσσω.`

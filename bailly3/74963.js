@@ -1,0 +1,1 @@
+lar[74963]=`<b>Πάν·δροσος, ου (ἡ)</b> Pandrosos, <i>fille de Cécrops, honorée dans un sanctuaire qui faisait partie de l’Érekhthéion sur l’Acropole,</i> AR. <i>Lys. 439</i>.<p><b>Étym</b>. π. δρόσος.`

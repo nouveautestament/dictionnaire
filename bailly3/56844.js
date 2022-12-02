@@ -1,0 +1,1 @@
+lar[56844]=`<b>ή, όν</b>, agencé avec art, DH. <i>Comp. 22, p. 170, 1</i>.<p><b>Étym</b>. κομψεύω.`

@@ -1,0 +1,1 @@
+lar[56134]=`<font color="purple">[ῠ]</font> <i>att. c</i>. κλυδάζομαι, DL. <i>5, 66</i>.`

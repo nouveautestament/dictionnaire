@@ -1,0 +1,1 @@
+lar[101093]=`<font color="purple">[ῠ]</font> <i>vb. de</i> τυραννέω, DL. <i>1, 64</i>.`

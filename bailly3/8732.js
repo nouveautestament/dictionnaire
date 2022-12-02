@@ -1,0 +1,1 @@
+lar[8732]=`<i>adv</i>., sans repos, SEXT. <i>M. 10, 223</i>.`

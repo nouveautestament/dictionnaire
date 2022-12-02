@@ -1,0 +1,1 @@
+lar[16271]=`<b>ας (ἡ)</b> Astræa (Astrée) :<br><b>      1</b> <i>fille de Thémis,</i> ARAT.<br><b>      2</b> <i>autre,</i> NONN.<p>➳ <i>Ion</i>. -αίη, NONN. <i>D. 6, 102</i>.`

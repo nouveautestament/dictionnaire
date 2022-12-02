@@ -1,0 +1,1 @@
+lar[11309]=`<b>ἀ·παραδειγμάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font> non confirmé par des exemples, PTOL. <i>Tetr. 3, p. 170</i>.<p><b>Étym</b>. ἀ, παραδειγματίζω.`

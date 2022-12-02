@@ -1,0 +1,1 @@
+lar[38709]=`<b>εως (ἡ)</b> action de naviguer contre, d’attaquer un navire, THC. <i>7, 36</i>.<p><b>Étym</b>. ἐπιπλέω.`

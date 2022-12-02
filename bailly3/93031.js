@@ -1,0 +1,1 @@
+lar[93031]=`<b>ου</b> <font color="purple">[ῡᾱ]</font> <i>adj. m</i>. qui souffle du Strymon, <i>en parl. du vent,</i> HDT. <i>8, 118</i> ; CALL. <i>Del. 26</i> ; ANTH. <i>7, 502</i>.<p>➳ <i>Ion</i>. Στρυμονίης, HDT. ANTH. <i>ll. cc</i>.<p><b>Étym</b>. Στρυμών.`

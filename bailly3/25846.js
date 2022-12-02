@@ -1,0 +1,1 @@
+lar[25846]=`<b>δια·φθονέω-ῶ</b>, porter envie : τινι, SPT. <i>Esth. 6, 3,</i> à qqn ; <i>au pass</i>. être envié, JOS. <i>A.J. 2, 6, 7</i>.`

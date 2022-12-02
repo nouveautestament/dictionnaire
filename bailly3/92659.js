@@ -1,0 +1,1 @@
+lar[92659]=`<b>ας (ἡ)</b> <font color="purple">[τῐ]</font> versification, PLUT. <i>M. 45b</i>.<p><b>Étym</b>. στιχοποιός.`

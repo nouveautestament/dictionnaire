@@ -1,0 +1,1 @@
+lar[39793]=`<b>ἐπ·οδύρομαι</b> <font color="purple">[ῡ]</font> se lamenter sur, ANTH. <i>7, 10</i>.`

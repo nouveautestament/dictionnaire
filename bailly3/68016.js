@@ -1,0 +1,1 @@
+lar[68016]=`<b>νεκροστολέω-ῶ</b>, transporter les morts, LUC. <i>Char. 24</i>.<p><b>Étym</b>. νεκροστόλος.`

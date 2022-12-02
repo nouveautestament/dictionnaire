@@ -1,0 +1,1 @@
+lar[71668]=`<b>ὁμ·οροφέω-ῶ</b>, vivre sous le même toit, ES. <i>10 Halm</i>.<p><b>Étym</b>. ὁμ. ὀροφή.`

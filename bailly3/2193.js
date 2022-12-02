@@ -1,0 +1,1 @@
+lar[2193]=`<b>ου (ὁ)</b> citoyen de la tribu Ægéide, <i>à Athènes,</i> AR. <i>Eq. 1067</i> ; DÉM. <i>60, 28 Baiter-Sauppe</i>.`

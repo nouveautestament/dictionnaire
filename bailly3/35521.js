@@ -1,0 +1,1 @@
+lar[35521]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> tromperie, ruse, HÉS. <i>Th. 205</i> ; THGN. <i>390</i> ; XÉN. <i>An. 7, 1, 25</i>.<p><b>Étym</b>. ἐξαπατάω.`

@@ -1,0 +1,1 @@
+lar[62651]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> action d’amollir, amollissement, A. APHR. <i>Probl. 31, 18</i>.<p><b>Étym</b>. μαλακύνω.`

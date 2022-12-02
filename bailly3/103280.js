@@ -1,0 +1,1 @@
+lar[103280]=`<b>ατος (τὸ)</b> <font color="purple">[θῡᾱμ]</font> parfum d’aromates que l’on brûle, HPC. <i>673, 10</i> ; DIOSC. <i>1, 12</i> ; GAL. <i>14, 490</i>.<p><b>Étym</b>. ὑποθυμιάω.`

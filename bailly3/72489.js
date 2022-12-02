@@ -1,0 +1,1 @@
+lar[72489]=`<b>ὀπωρο·φόρος, ος, ον</b>, qui produit (<i>propr</i>. qui porte) des fruits, ANTH. <i>7, 321</i>.<p><b>Étym</b>. ὀπώρα, φέρω.`

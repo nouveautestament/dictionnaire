@@ -1,0 +1,1 @@
+lar[103825]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> excavation, DIOSC. <i>5, 106</i>.<p><b>Étym</b>. ὑποσκάπτω.`

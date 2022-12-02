@@ -1,0 +1,1 @@
+lar[45048]=`<b>ἠ·έ</b>, <i>conj. épq. c</i>. ἤ, ou, IL. <i>7, 195, etc.</i> ; OD. <i>12, 229, etc</i>.<p><b>Étym</b>. <i>indo-europ</i>. *h₁ē-ue, <i>pour</i> *ἠϝέ, *ἦϝε <i>de</i> ἦ 1 <i>et</i> ϝε <i>= lat</i>. -ve.`

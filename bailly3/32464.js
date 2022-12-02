@@ -1,0 +1,1 @@
+lar[32464]=`<b>ἐλαιό·μελι, ιτος (τὸ)</b> <font color="purple">[ῐτ]</font> gomme coulant de l’olivier, DIOSC. <i>1, 37</i>.<p><b>Étym</b>. ἐ. μέλι.`

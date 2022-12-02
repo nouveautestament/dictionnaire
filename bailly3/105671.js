@@ -1,0 +1,1 @@
+lar[105671]=`<b>φιλ·ιπποτρόφος, ος, ον</b> <font color="purple">[φῐ]</font> qui nourrit <i>ou</i> entretient des chevaux pour les courses, PHALAR. <i>Ep. 68</i>.<p><b>Étym</b>. φίλος, ἱπποτρόφος.`

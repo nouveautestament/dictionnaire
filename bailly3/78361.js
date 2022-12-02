@@ -1,0 +1,1 @@
+lar[78361]=`<b>περι·αίρω</b>, lever <i>ou</i> enlever autour, <i>acc</i>. JOS. <i>A.J. 17, 7</i>.`

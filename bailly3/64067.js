@@ -1,0 +1,1 @@
+lar[64067]=`<b>έως (ὁ)</b> éleveur d’abeilles, apiculteur, ARSTT. <i>H.A. 9, 40, 37</i>.<p><b>Étym</b>. μέλισσα.`

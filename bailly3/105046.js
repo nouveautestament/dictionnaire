@@ -1,0 +1,1 @@
+lar[105046]=`<b>ωνος (ὁ)</b> Phaôn :<br><b>      1</b> <i>pythagoricien,</i> ALEX. (ATH. <i>161c</i>).<br><b>      2</b> <i>amant de Sappho,</i> LUC. <i>D. mort. 9, 2, etc.</i> ; EL. <i>V.H. 12, 18, etc</i>.`

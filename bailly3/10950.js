@@ -1,0 +1,1 @@
+lar[10950]=`<b>ἀξιο·τέκμαρτος, ος, ον</b>, <i>seul. au cp</i>. -ότερος, plus propre à convaincre, plus convaincant, XÉN. <i>Mem. 4, 4, 10</i>.<p><b>Étym</b>. ἄ. τεκμαίρομαι.`

@@ -1,0 +1,1 @@
+lar[102577]=`<b>ὑπερ·κάθημαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> être campé au-dessus, <i>avec</i> ἐπί <i>et le gén</i>. XÉN. <i>An. 5, 2, 1</i>.<br><b>      2</b> <i>fig</i>. être sur les talons <i>ou</i> sur le dos de, presser vivement, <i>gén</i>. XÉN. <i>An. 5, 1, 9</i>.`

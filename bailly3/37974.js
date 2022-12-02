@@ -1,0 +1,1 @@
+lar[37974]=`<b>ἐπι·κατονομάζω</b>, offrir <i>ou</i> consacrer au nom de qqn, CLÉM. <i>1, 392</i>.`

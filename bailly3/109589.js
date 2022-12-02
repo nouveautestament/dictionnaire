@@ -1,0 +1,1 @@
+lar[109589]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφᾰ]</font> sécheresse, DIOSC. <i>1, 128</i>.<p><b>Étym</b>. ψαφαρός.`

@@ -1,0 +1,1 @@
+lar[21683]=`<b>ος, ον</b>, qui concerne l’action d’engendrer, sexuel, ANTH. <i>15, 12</i>.`

@@ -1,0 +1,1 @@
+lar[49649]=`<b>ἰσο·κιννάμωμον, ου (τὸ)</b> <font color="purple">[ῑ̆ᾰ]</font> sorte de cannelle, <i>aromate,</i> PLIN. <i>H.N. 12, 43</i>.<p><b>Étym</b>. ἴ. κιννάμωμον.`

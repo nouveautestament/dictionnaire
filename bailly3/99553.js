@@ -1,0 +1,1 @@
+lar[99553]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> <i>éol. c</i>. ταμίας, ALC. <i>87</i>.`

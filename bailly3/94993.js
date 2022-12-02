@@ -1,0 +1,1 @@
+lar[94993]=`<b>οῦ (ὁ)</b> marche de soldats qui s’avancent les boucliers serrés l’un contre l’autre, DS. <i>16, 3</i> ; PLUT. <i>Tim. 27</i> ; ARR. <i>Tact. 11, 4, etc</i>.<p><b>Étym</b>. συνασπίζω.`

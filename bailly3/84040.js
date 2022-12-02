@@ -1,0 +1,1 @@
+lar[84040]=`<b>προ·εθίζω</b>, accoutumer d’avance : πρός τι, ARSTT. <i>Pol. 8, 1, 2, ou</i> ἐπί τι, PLUT. <i>M. 531a</i>, à qqe ch. ; <i>abs</i>. XÉN. <i>Cyr. 6, 2, 29</i>.`

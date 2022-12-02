@@ -1,0 +1,1 @@
+lar[31564]=`<b>ή, όν</b>, fait en électuaire, HPC. <i>401, 41</i>.<p><b>Étym</b>. ἐκλεικτόν.`

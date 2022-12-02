@@ -1,0 +1,1 @@
+lar[74964]=`<b>πάν·δυρτος, ος, ον :<br>      1</b> tout à fait lamentable, ESCHL. <i>Pers. 940</i>.<br><b>      2</b> plaintif (le rossignol) SOPH. <i>El. 1077</i>.<p><b>Étym</b>. π. *δύρομαι, <i>cf</i>. πανόδυρτος.`

@@ -1,0 +1,1 @@
+lar[15562]=`<b>ἀρχη·γενής, ής, ές</b>, qui est la première cause de, <i>gén</i>. ESCHL. <i>Ag. 1628</i>.<p><b>Étym</b>. ἀρχή, γίγνομαι.`

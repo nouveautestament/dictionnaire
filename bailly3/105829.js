@@ -1,0 +1,1 @@
+lar[105829]=`<b>φιλο·κέρδεια, ας (ἡ)</b> <font color="purple">[ῐ]</font> amour du gain, XÉN. <i>Cyn. 13, 12</i> ; PLAT. <i>Leg. 649d</i>.<p><b>Étym</b>. φιλοκερδής.`

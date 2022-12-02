@@ -1,0 +1,1 @@
+lar[99837]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de bouc, ANTH. <i>11, 325</i> ; ἡ τραγέα (<i>s.-e</i>. δορά) TH. <i>Od. 60</i> ; PLUT. <i>M. 294f ; p. contr</i>. ἡ τραγῆ, POLL. <i>4, 118,</i> peau de bouc.<p><b>Étym</b>. τράγος.`

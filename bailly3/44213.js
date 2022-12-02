@@ -1,0 +1,1 @@
+lar[44213]=`<b>ἐχέ·σαρκος, ος, ον</b>, qui s’attache à la peau, qui colle au corps, ATH. <i>590f</i>.<p><b>Étym</b>. ἔχω, σάρξ.`

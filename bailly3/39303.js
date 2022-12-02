@@ -1,0 +1,1 @@
+lar[39303]=`<b>ἐπ·ισχύω :<br>   I <i>tr.</i></b> rendre fort <i>ou</i> puissant, XÉN. <i>Œc. 11, 13</i>.<br><b>   II <i>intr</i>.<br>      1</b> avoir <i>ou</i> prendre de la force, TH. <i>C.P. 2, 1, 4</i> ; DS. <i>5, 59</i>.<br><b>      2</b> insister avec force, NT. <i>Luc. 28, 5</i>.`

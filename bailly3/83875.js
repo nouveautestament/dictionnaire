@@ -1,0 +1,1 @@
+lar[83875]=`<b>ας (ἡ)</b> <font color="purple">[νᾰ]</font> exercice préparatoire, CLÉM. <i>415</i> ; JAMBL. (STOB. <i>Fl. 81, 18).</i><p><b>Étym</b>. προγυμνάζω.`

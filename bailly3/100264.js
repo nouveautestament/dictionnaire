@@ -1,0 +1,1 @@
+lar[100264]=`<b>τρί·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> à trois têtes, SOPH. <i>Tr. 1098</i> ; EUR. <i>H.f. 611, 1277</i>.<p><b>Étym</b>. τρεῖς, *κρᾶνον.`

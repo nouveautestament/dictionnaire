@@ -1,0 +1,1 @@
+lar[26388]=`<b>δι·ήρης, ης, ες</b>, qui forme un double <i>ou</i> un second étage (<i>cf</i>. ὑπερῷον) : τὸ διῆρες μελάθρων, EUR. <i>Ph. 90,</i> le second étage, <i>càd</i>. le faîte du palais ; <i>particul. en parl. de deux étages de rameurs, abs</i>. τὸ δ. PLUT. <i>M. 77e</i>, navire à deux rangs de rames ; <i>cf</i>. τριήρης.<p><b>Étym</b>. δίς, ἀραρίσκω <i>et</i> ἐρέσσω.`

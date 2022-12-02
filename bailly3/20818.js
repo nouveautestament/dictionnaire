@@ -1,0 +1,1 @@
+lar[20818]=`<b>βρισ·άρματος, ος, ον</b> <font color="purple">[ῑμᾰ]</font> qui fait plier un char sous son poids, HH. <i>7, 1</i> ; HÉS. <i>Sc. 441</i>.<p><b>Étym</b>. βρίθω, ἅρμα.`

@@ -1,0 +1,1 @@
+lar[79194]=`<b>ή, όν :<br>      1</b> exposé aux accidents de la vie, ARR. <i>Epict. 3, 6, 6</i>.<br><b>      2</b> qui tombe dans, <i>dat</i>. EPIC. (PLUT. <i>M. 420d</i>).<p><b>Étym</b>. περιπίπτω.`

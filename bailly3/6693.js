@@ -1,0 +1,1 @@
+lar[6693]=`<b>ἀνα·δέρω</b> <font color="darkgreen">(<i>ao</i>. ἀνέδειρα) :</font><br><b>      1</b> écorcher, PD. <i>fr. 217</i> ; HPC. <i>189, 25</i> ; PLUT. <i>M. 567b.</i><br><b>      2</b> <i>fig</i>. mettre à nu, découvrir, LUC. <i>Pseud. 20</i>.<p>➳ <i>Prés. 3 pl. poét</i>. ἀνδέροισιν, PD. <i>fr. 217</i>.`

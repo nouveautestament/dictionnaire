@@ -1,0 +1,1 @@
+lar[78589]=`<i>adv</i>., avec circonspection, PLAT. <i>Ax. 365b ;</i> PHIL. <i>1, 672</i>.<p><b>Étym</b>. περισκέπτομαι.`

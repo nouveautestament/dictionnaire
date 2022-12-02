@@ -1,0 +1,1 @@
+lar[103145]=`<b>ὑπο·δέχνυμαι</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑποδέχομαι ORPH. <i>Arg. 82</i> ; ANTH. <i>8, 148, 253</i>.`

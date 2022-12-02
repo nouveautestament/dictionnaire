@@ -1,0 +1,1 @@
+lar[87474]=`<b>πτωχ·ελένη, ης (ἡ)</b> une Hélène mendiante, une courtisane, ATH. <i>585b</i>.<p><b>Étym</b>. πτωχός, Ἑλένη.`

@@ -1,0 +1,1 @@
+lar[68720]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑᾱῐ]</font> Nikasis, <i>f</i>. ANTH. <i>7, 482</i>.<p><b>Étym</b>. νικάω.`

@@ -1,0 +1,1 @@
+lar[108515]=`<b>χιονόω-ῶ :<br>      1</b> couvrir de neige, <i>d’où au pass</i>. être couvert de neige, DL. <i>6, 23 (var</i>. κεχιονισμένους).<br><b>      2</b> changer en neige, <i>d’où au pass</i>. devenir blanc comme neige, SPT. <i>Ps. 67, 14</i>.<p><b>Étym</b>. χιών.`

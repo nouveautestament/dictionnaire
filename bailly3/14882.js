@@ -1,0 +1,1 @@
+lar[14882]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἁρματηλασία, <i>avec jeu de mots sur</i> ἀμαρτωλία, AR. <i>Pax 415</i>.`

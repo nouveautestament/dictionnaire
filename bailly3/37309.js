@@ -1,0 +1,1 @@
+lar[37309]=`<b>ἐπι·βακχεύω</b>, s’abandonner à des transports bachiques, NICOSTR. <i>fr. 4</i>.`

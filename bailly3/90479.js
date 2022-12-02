@@ -1,0 +1,1 @@
+lar[90479]=`<b>σιτ·αγωγός, ός, όν</b> <font color="purple">[ῑᾰ]</font> qui transporte du blé, HDT. <i>7, 147, 186</i> ; THC. <i>6, 30 ; 8, 4</i> ; XÉN. <i>An. 1, 7, 15 ; Hell. 5, 4, 61</i> ; AND. <i>22, 21, etc</i>.<p><b>Étym</b>. σῖτος, ἄγω.`

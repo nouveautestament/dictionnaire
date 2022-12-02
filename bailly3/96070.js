@@ -1,0 +1,1 @@
+lar[96070]=`<b>εως (ἡ)</b> action de filer <i>ou</i> de tisser avec, M. ANT. <i>4, 40</i>.<p><b>Étym</b>. συννέω².`

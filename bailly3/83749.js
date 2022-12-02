@@ -1,0 +1,1 @@
+lar[83749]=`<b>προ·βαδίζω</b> <font color="purple">[ᾰ]</font> marcher devant, <i>gén</i>. PLUT. <i>M. 707b</i>.`

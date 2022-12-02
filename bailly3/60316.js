@@ -1,0 +1,1 @@
+lar[60316]=`<i>adv</i>., comme un lion, SPT. <i>2Macc. 11, 11</i>.<p><b>Étym</b>. λέων, -δον.`

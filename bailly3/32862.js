@@ -1,0 +1,1 @@
+lar[32862]=`<b>ήεσσα, ῆεν</b>, couvert d’ulcères, MAN. <i>1, 162</i>.<p><b>Étym</b>. ἕλκος.`

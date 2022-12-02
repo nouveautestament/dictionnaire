@@ -1,0 +1,1 @@
+lar[28823]=`<b>δυσπνοέω-οῶ</b> (<i>part. prés</i>.) :<br><b>      1</b> respirer avec peine, ARÉT. <i>Caus. m. diut. 1, 11</i> ; GAL. <i>2, 264a.</i><br><b>      2</b> exhaler une odeur désagréable, P. SIL. <i>Th. Pyth. 30</i>.<p>➳ <i>Ion</i>. δυσπνοιέω, ARÉT. <i>l. c</i>.<p><b>Étym</b>. δύσπνοος.`

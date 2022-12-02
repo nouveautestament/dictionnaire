@@ -1,0 +1,1 @@
+lar[5161]=`<b>ἀ·μάθητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> ignorant de, <i>gén</i>. PHRYN. COM. <i>2-1, 583, 3 Mein</i>.<p><b>Étym</b>. ἀ, μανθάνω.`

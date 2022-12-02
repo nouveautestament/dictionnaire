@@ -1,0 +1,1 @@
+lar[28913]=`<b>δυσ·τέκμαρτος, ος, ον</b>, difficile à conjecturer, à deviner, ESCHL. <i>Pr. 497</i> ; SOPH. <i>O.R. 109</i> ; EUR. <i>Hel. 718</i> ; DH. <i>4, 29</i> ; PLUT. <i>Cato mi. 72</i>.<p><b>Étym</b>. δ. τεκμαίρω.`

@@ -1,0 +1,1 @@
+lar[110428]=`<b>οῦ (ὁ</b> <i>ou</i> <b>ἡ)</b> <i>ou</i> <b>Ὠρικὸς λιμήν (ὁ)</b> Ôrikos (<i>auj</i>. Orikum) <i>port au N. de l’Épire,</i> HDT. <i>9, 93 (accentué</i> Ὤρικος).<p>➳ ὁ Ὠ. POL. <i>7, 19, 2</i> ; PLUT. <i>Cæs. 37</i> ; ἡ Ὠ. SCYMN. <i>441</i> ; APP. <i>Civ. 2, 54</i>.`

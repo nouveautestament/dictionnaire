@@ -1,0 +1,1 @@
+lar[79935]=`<b>ῶν (οἱ)</b> les fils de Peukée (Périmèdès <i>et</i> Dryalos) HÉS. <i>Sc. 187</i>.<p><b>Étym</b>. Πευκεύς.`

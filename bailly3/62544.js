@@ -1,0 +1,1 @@
+lar[62544]=`<b>μακρο·πονία, ας (ἡ)</b> effort prolongé, ES. <i>173 de Furia</i>.<p><b>Étym</b>. μ. πόνος.`

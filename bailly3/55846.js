@@ -1,0 +1,1 @@
+lar[55846]=`<b>ου (ὁ)</b> Kléippidès, <i>amiral athénien,</i> THC. <i>3, 3</i>.<p><b>Étym</b>. *Κλέϊππος, <i>de</i> κλέος, ἵππος.`

@@ -1,0 +1,1 @@
+lar[57024]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> de petite fille, <i>d’où en gén</i>. puéril, PLUT. <i>M. 528a, 645d, 990b ;</i> CLÉM. <i>207</i>.<p><b>Étym</b>. κοράσιον, -ωδης.`

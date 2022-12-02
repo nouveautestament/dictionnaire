@@ -1,0 +1,1 @@
+lar[18498]=`<b>ἀ·χόρευτος, ος, ον :<br>      1</b> non accompagné de danses, <i>d’où</i> triste, SOPH. <i>El. 1069</i> ; EUR. <i>Tr. 120</i> ; TÉLEST. (ATH. <i>617b</i>) ; NONN. <i>D. 4, 323, etc.</i><br><b>      2</b> exclu des danses <i>ou</i> du chœur, PLAT. <i>Leg. 654a</i>.<p><b>Étym</b>. ἀ, χορεύω.`

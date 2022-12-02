@@ -1,0 +1,1 @@
+lar[24191]=`<b>Δήμ·αρχος, ου (ὁ)</b> Dèmarkhos (Démarque) <i>h</i>. THC. <i>8, 85</i> ; XÉN. <i>Hell. 1, 1, 29</i>.<p>➳ <i>Dor</i>. Δάμ- <font color="purple">[ᾱ]</font> PAUS. <i>6, 8, 2 (cf</i>. ANTH. <i>App. 374).</i><p><b>Étym</b>. <i>v</i>. δήμαρχος.`

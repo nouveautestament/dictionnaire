@@ -1,0 +1,1 @@
+lar[10027]=`<b>εως (ἡ) :<br>      1</b> réponse, HPC. <i>24, 44</i>.<br><b>      2</b> dialogue, PHILSTR. <i>244</i>.<br><b>      3</b> contradiction, JOS. <i>A.J. 18, 1, 3</i>.<p><b>Étym</b>. ἀντιλέγω.`

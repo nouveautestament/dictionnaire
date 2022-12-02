@@ -1,0 +1,1 @@
+lar[58647]=`<b>ου (ὁ)</b> Kyllos, <i>h</i>. ANTH. <i>11, 16</i> ; ἡ Κύλλου πήρα, <i>litt</i>. la Besace de Kyllos, <i>lieu de l’Hymette, avec un temple à Aphrodite,</i> CRAT. (<i>Com. fr. 2, 79</i>) ; AR. (<i>Com. fr. 2, 1058</i>).`

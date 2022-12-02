@@ -1,0 +1,1 @@
+lar[21634]=`<b>γενεα·λόγος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> généalogiste, DH. <i>1, 13</i> ; DL. <i>1, 115</i>.<p><b>Étym</b>. γενεά, λέγω.`

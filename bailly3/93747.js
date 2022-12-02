@@ -1,0 +1,1 @@
+lar[93747]=`<b>ορος (ὁ)</b> <font color="purple">[ῡ]</font> qui dépouille, spoliateur, ESCHL. <i>Suppl. 927</i> ; NONN. <i>D. 24, 306</i>.<p><b>Étym</b>. συλάω.`

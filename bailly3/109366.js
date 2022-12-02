@@ -1,0 +1,1 @@
+lar[109366]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>dim. de</i> χυμός, SOTAD. (ATH. <i>293e</i>).`

@@ -1,0 +1,1 @@
+lar[99376]=`<b>ου (ὁ)</b> = <i>lat</i>. Titinius, <i>n. d’h. rom</i>. PLUT. <i>Brut. 43, etc</i>.`

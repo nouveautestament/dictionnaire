@@ -1,0 +1,1 @@
+lar[80960]=`<b>οῦ (ὁ)</b> multiplication, accroissement, ORIG. <i>1, 449 Migne</i>.<p><b>Étym</b>. πληθύνω.`

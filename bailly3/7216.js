@@ -1,0 +1,1 @@
+lar[7216]=`<b>ἀν·άμπυξ, υκος (ὁ, ἡ)</b> <font color="purple">[ῠκ]</font> sans bandeau sur le front, CALL. <i>Cer. 125</i>.<p><b>Étym</b>. ἀν-, ἄ.`

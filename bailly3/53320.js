@@ -1,0 +1,1 @@
+lar[53320]=`<b>κατα·σιγάζω</b> <font color="purple">[ῑ]</font> faire taire, <i>acc</i>. ARSTT. <i>H.A. 9, 8</i> ; EL. <i>N.A. 16, 23, etc. ; d’où au pass</i>. être forcé de se taire, ATH. <i>10c</i>.`

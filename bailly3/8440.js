@@ -1,0 +1,1 @@
+lar[8440]=`<b>ἀν·επιθύμητος, ος, ον</b> <font color="purple">[ῡ]</font> sans désirs, sans passions, CLÉM. <i>632</i> ; STOB. <i>Ecl. 2, 302</i>.<p><b>Étym</b>. ἀν-, ἐπιθυμέω.`

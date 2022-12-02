@@ -1,0 +1,1 @@
+lar[96158]=`<b>συν·ολοφύρομαι</b> <font color="purple">[ῡ]</font> se lamenter ensemble, THÉON <i>Prog. 117, 22 ; cf</i>. RHÉT. <i>10, 1, 238 W</i>.`

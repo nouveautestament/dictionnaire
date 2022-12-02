@@ -1,0 +1,1 @@
+lar[92452]=`<b>ος, ον</b>, aux vastes plaines, SOPH. <i>O.C. 691</i>.<p><b>Étym</b>. στ. ἔχω.`

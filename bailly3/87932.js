@@ -1,0 +1,1 @@
+lar[87932]=`<b>πυρο·βόρος, ος, ον</b> <font color="purple">[ῡ]</font> qui mange du froment, Q. SM. <i>2, 197</i>.<p><b>Étym</b>. πυρός, βιβρώσκω.`

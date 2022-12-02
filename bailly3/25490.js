@@ -1,0 +1,1 @@
+lar[25490]=`<b>ῆς (ἡ)</b> <font color="purple">[τᾰ]</font> morceau coupé, fragment, ESCHL. <i>Sept. 935 (conj. p</i>. διατομή).<p><b>Étym</b>. διαρταμέω.`

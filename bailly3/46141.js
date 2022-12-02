@@ -1,0 +1,1 @@
+lar[46141]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> marin, PD. <i>P. 2, 92</i> ; NONN. <i>D. 6, 308</i>.<br><b>      2</b> <i>c</i>. ἁλιπόρφυρος, TRIPHIOD. <i>345</i>.<p><b>Étym</b>. θάλασσα.`

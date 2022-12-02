@@ -1,0 +1,1 @@
+lar[835]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> achat au marché, achat, PLAT. <i>Soph. 219d</i>.<p><b>Étym</b>. ἀγοράζω.`

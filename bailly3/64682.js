@@ -1,0 +1,1 @@
+lar[64682]=`<b>μετα·γενής, ής, ές</b>, né plus tard, <i>d’où en gén</i>. dernier, MÉN. (ATH. <i>559f</i>).<p>•<i> Cp</i>. -έστερος, DS. <i>11, 14 ; 12, 11</i> ; DH. <i>Thuc. 9</i> ; LUC. <i>Salt. 80</i>.<p><b>Étym</b>. μ. γίγνομαι.`

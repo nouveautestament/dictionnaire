@@ -1,0 +1,1 @@
+lar[106294]=`<b>ατος (τὸ)</b> <font color="purple">[ῑῡ]</font> rejeton, <i>d’où</i> fils, descendant, ESCHL. <i>Ag. 1281</i> ; PLUT. <i>M. 241a, etc</i>.<p><b>Étym</b>. φιτύω.`

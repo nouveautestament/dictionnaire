@@ -1,0 +1,1 @@
+lar[79942]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de pin, <i>càd.</i> :<br><b>      1</b> qui coule d’un pin ; δάκρυ, EUR. <i>Med. 1200,</i> goutte de résine.<br><b>      2</b> en bois de pin, SOPH. <i>Tr. 1198</i> ; EUR. <i>Hec. 575</i>.<p><b>Étym</b>. πεύκη.`

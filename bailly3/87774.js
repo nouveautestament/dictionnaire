@@ -1,0 +1,1 @@
+lar[87774]=`<b>πυργηρέω-ῶ</b>, <i>au pass</i>. être bloqué, ESCHL. <i>Sept. 22, 184</i> ; se tenir comme dans une tour, EUR. <i>Or. 762, 1574, etc</i>.<p><b>Étym</b>. πυργήρης.`

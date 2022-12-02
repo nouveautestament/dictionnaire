@@ -1,0 +1,1 @@
+lar[21120]=`<b>ου (ὁ) :<br>      1</b> habitant de Gabales, <i>v. de Syrie,</i> JOS.<br><b>      2</b> sorte de gomme, originaire de Gabales, DIOSC. <i>1, 79</i> (Γάβαλα, STR. <i>etc</i>.).`

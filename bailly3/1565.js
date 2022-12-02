@@ -1,0 +1,1 @@
+lar[1565]=`<b>εως (ἡ)</b> croissance des plantes, ARSTT. <i>Phys. 3, 1, 6</i>.<p><b>Étym</b>. ἁδρύνω.`

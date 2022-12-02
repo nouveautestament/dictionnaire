@@ -1,0 +1,1 @@
+lar[153]=`<i>adv</i>., involontairement, PLUT. <i>M. 631c ;</i> SEXT. <i>P. 7, 3 Bkk</i>.`

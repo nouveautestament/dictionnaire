@@ -1,0 +1,1 @@
+lar[12727]=`<b>ἀπο·λάπτω</b>, avaler en lapant, laper, <i>gén</i>. AR. <i>Nub. 811</i>.`

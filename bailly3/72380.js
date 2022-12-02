@@ -1,0 +1,1 @@
+lar[72380]=`<b>ὁποῖόσ·περ, άπερ, όνπερ</b>, quel, de quelle nature, de quelle sorte, ESCHL. <i>Ch. 669</i> ; XÉN. <i>Œc. 4, 5</i>.<p><b>Étym</b>. ὁποῖος, περ.`

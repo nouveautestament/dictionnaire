@@ -1,0 +1,1 @@
+lar[4248]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de se mettre sur la défensive, HDT. <i>9, 18</i>.<br><b>      2</b> remède, HPC. <i>1279, 14</i>.<p><b>Étym</b>. ἀλέξω.`

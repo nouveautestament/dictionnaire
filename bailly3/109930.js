@@ -1,0 +1,1 @@
+lar[109930]=`<b>ων (οἱ)</b> les Psylles, <i>pple de Cyrénaïque, renommés comme charmeurs de serpents,</i> HDT. <i>4, 173</i> ; EL. <i>N.A. 1, 57, etc.</i> ; PAUS. <i>9, 28, 1</i> ; STR. <i>538, 838</i>.`

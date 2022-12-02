@@ -1,0 +1,1 @@
+lar[107360]=`<b>(ὁ)</b> Phôkidès, <i>h</i>. DÉM. <i>25, 38 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Φωκίς.`

@@ -1,0 +1,1 @@
+lar[21150]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en venant de Gadeires, EUTHYD. (ATH. <i>116c</i>) ; ANTH. <i>14, 121 ; etc</i>.<p><b>Étym</b>. Γάδειρα, -θεν.`

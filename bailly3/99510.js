@@ -1,0 +1,1 @@
+lar[99510]=`<b>οῦ (ὁ)</b> prêt à intérêts, <i>d’où</i> usure, XÉN. <i>Vect. 4, 6</i> ; ARSTT. <i>Pol. 1, 11, 3</i>.<p><b>Étym</b>. τοκίζω.`

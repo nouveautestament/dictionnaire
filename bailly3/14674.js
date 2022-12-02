@@ -1,0 +1,1 @@
+lar[14674]=`<b>ης (ἡ)</b> Aristè (<i>litt</i>. l’Excellente) <i>f</i>. ANTH. <i>5, 16</i>.<p><b>Étym</b>. <i>fém. de</i> ἄριστος.`

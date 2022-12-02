@@ -1,0 +1,1 @@
+lar[57692]=`<b>ας (ἡ)</b> <font color="purple">[ᾱν]</font> distribution des chairs d’une victime, LUC. <i>Prom. 5</i> ; ATH. <i>532d, etc</i>.<p><b>Étym</b>. κρεανόμος.`

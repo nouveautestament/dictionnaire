@@ -1,0 +1,1 @@
+lar[73718]=`<b>οὐριόω-ῶ</b>, faire flotter sa crinière au vent, ANTH. <i>9, 777</i>.<p><b>Étym</b>. οὔριος.`

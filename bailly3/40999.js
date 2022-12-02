@@ -1,0 +1,1 @@
+lar[40999]=`<i>ou</i> <b>ἐσσία, ας (ἡ)</b> <i>vieux mot att. ou forgé par</i> PLAT. <i>Crat. 401c, c</i>. οὐσία.`

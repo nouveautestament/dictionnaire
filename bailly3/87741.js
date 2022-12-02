@@ -1,0 +1,1 @@
+lar[87741]=`<b>πυραγρέτης καρκίνος (ὁ)</b> <font color="purple">[ῠ]</font> pince recourbée pour remuer <i>ou</i> manier du feu, ANTH. <i>6, 92</i>.<p><b>Étym</b>. πυράγρα.`

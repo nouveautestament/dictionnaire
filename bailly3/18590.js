@@ -1,0 +1,1 @@
+lar[18590]=`<b>ἄ·ψαυστος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> non touché, intact, HDT. <i>8, 41</i> ; ANTH. <i>5, 217,</i> LYC. NONN.<br><b>      2</b> qu’on ne peut toucher, sacré, THC. <i>4, 97</i> ; APP. <i>Civ. 2, 41, 138</i>.<br><b>   II</b> <i>act</i>. qui ne touche pas à, <i>gén</i>. SOPH. <i>O.R. 969</i> ; A.RH. <i>2, 113</i>.<p><b>Étym</b>. ἀ, ψαύω.`

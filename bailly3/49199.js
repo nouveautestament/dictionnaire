@@ -1,0 +1,1 @@
+lar[49199]=`<b>ἰπνο·καής, ής, ές</b> <font color="purple">[ᾰ]</font> brûlé <i>ou</i> cuit au four, LUC. <i>Lex. 6</i>.<p><b>Étym</b>. ἰπνός, καίω.`

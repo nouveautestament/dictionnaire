@@ -1,0 +1,1 @@
+lar[58345]=`<b>κυανο·βενθής, ής, ές</b> <font color="purple">[ῡᾰ]</font> au fond sombre, AR. <i>fr. 209</i>.<p><b>Étym</b>. κ. βένθος.`

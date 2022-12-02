@@ -1,0 +1,1 @@
+lar[108880]=`toucher légèrement à la surface, blesser légèrement.<p>➳ <i>Seul. ao. sbj. 3 sg</i>. χραύσῃ, IL. <i>5, 138 ; part. acc</i>. χραύσαντα, Q. SM. <i>11, 76</i>.<p><b>Étym</b>. <i>éol. c</i>. χράω¹.`

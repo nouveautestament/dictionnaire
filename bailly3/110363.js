@@ -1,0 +1,1 @@
+lar[110363]=`<b>ας (ἡ)</b> faculté de pondre, ponte, ARSTT. <i>H.A. 4, 11, 5 ; G.A. 1, 20, 11</i> ; PLUT. <i>M. 637f ; au plur</i>. HLD. <i>9, 22</i> ; GEOP. <i>14, 7, 9</i>.<p><b>Étym</b>. ᾠοτόκος.`

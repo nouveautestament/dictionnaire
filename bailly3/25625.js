@@ -1,0 +1,1 @@
+lar[25625]=`<b>έως (ὁ)</b> instrument de chirurgie pour pratiquer des incisions, GAL. <i>2, 93d, 97b</i> ; P. ÉG. <i>6, 78</i>.<p><b>Étym</b>. διαστέλλω.`

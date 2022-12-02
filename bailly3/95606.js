@@ -1,0 +1,1 @@
+lar[95606]=`<b>συν·επιβουλεύω</b>, dresser ensemble <i>ou</i> en même temps des embûches contre, <i>dat</i>. IS. <i>61, 40</i> ; DH. <i>3, 29 ; 4, 30 ; abs</i>. XÉN. <i>Hell. 5, 4, 22</i> ; DS. <i>5, 50</i> ; PLUT. <i>M. 64c</i>.`

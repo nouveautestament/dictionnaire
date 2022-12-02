@@ -1,0 +1,1 @@
+lar[15462]=`<font color="purple">[ᾰ]</font> <i>ion. c</i>. ἀρύω¹, HDT. <i>6, 119</i>.`

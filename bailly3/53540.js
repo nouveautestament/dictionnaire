@@ -1,0 +1,1 @@
+lar[53540]=`<b>κατα·τέγγω</b>, arroser, mouiller, HPC. <i>639, 28</i>.`

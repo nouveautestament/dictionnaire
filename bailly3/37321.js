@@ -1,0 +1,1 @@
+lar[37321]=`<b>ἐπι·βαστάζω</b>, porter sur, soupeser, EUR. <i>Cycl. 379</i>.`

@@ -1,0 +1,1 @@
+lar[55233]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κῆπος, PLUT. <i>M. 1098b ;</i> DL. <i>3, 20</i>.`

@@ -1,0 +1,1 @@
+lar[64536]=`<b>μεσο·μάζιον, ου (τὸ)</b> intervalle entre les deux seins, milieu de la poitrine, DIOCL. (ORIB. <i>p. 109 Mai).</i><p><b>Étym</b>. μ. μαζός.`

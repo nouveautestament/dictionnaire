@@ -1,0 +1,1 @@
+lar[41735]=`<b>εὐ·βριθής, ής, ές</b> <font color="purple">[ῑ]</font> bien chargé, ANTH. <i>6, 288</i>.<p><b>Étym</b>. εὖ, βρίθω.`

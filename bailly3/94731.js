@@ -1,0 +1,1 @@
+lar[94731]=`<b>συν·αναμίγνυμι</b>, <i>anc. att</i>. <b>ξυν·αναμίγνυμι</b>, mêler l’un avec l’autre, ATH. <i>177b ; au pass</i>. se mêler à, <i>dat</i>. PLUT. <i>Phil. 21, M. 256a ;</i> ATH. <i>256a ; fig</i>. devenir une partie de, <i>dat</i>. LUC. <i>Char. 15</i>.`

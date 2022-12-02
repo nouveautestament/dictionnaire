@@ -1,0 +1,1 @@
+lar[91727]=`<b>σπανο·σιτία, ας (ἡ)</b> <font color="purple">[ᾰσῑ]</font> disette de vivres et de fourrages, XÉN. <i>Hell. 4, 8, 7 ; au plur</i>. DS. <i>1, 53</i>.<p><b>Étym</b>. σπανός, σῖτος.`

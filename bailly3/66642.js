@@ -1,0 +1,1 @@
+lar[66642]=`<b>μονοσυλλαβέω-ῶ</b> <font color="purple">[ᾰ]</font> n’avoir qu’une syllabe, DYSC. <i>Pron. 294b, etc</i>.<p><b>Étym</b>. μονοσύλλαβος.`

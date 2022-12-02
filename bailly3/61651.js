@@ -1,0 +1,1 @@
+lar[61651]=`<b>ου (ὁ)</b> le mt Lugdunus, <i>près de la Saône, à Lyon,</i> Ps.-PLUT. <i>Fluv. 6, 4</i>.`

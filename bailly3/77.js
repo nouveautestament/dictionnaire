@@ -1,0 +1,1 @@
+lar[77]=`<b>ή, όν</b> <font color="purple">[ρῑ]</font> digne d’un Abdéritain, sot, LUC. <i>H. conscr. 2</i> ; τὸ Ἀβδηριτικόν, CIC. <i>Att. 7, 7,</i> sottise, niaiserie.<p><b>Étym</b>. Ἀβδηρίτης.`

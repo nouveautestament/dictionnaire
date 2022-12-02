@@ -1,0 +1,1 @@
+lar[81699]=`<b>πολυ·άλφιτος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit beaucoup de farine, TH. <i>H.P. 8, 4, 2</i>.<p><b>Étym</b>. π. ἄλφιτον.`

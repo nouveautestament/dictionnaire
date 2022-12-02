@@ -1,0 +1,1 @@
+lar[79339]=`<b>περισσο·ταγής, ής, ές</b> <font color="purple">[ᾰ]</font> mis dans la série des nombres impairs, NICOM. <i>Arithm. p. 103</i>.<p><b>Étym</b>. π. τάσσω.`

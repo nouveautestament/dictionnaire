@@ -1,0 +1,1 @@
+lar[88088]=`<b>εως (ἡ)</b> dressage de jeunes chevaux, XÉN. <i>Eq. 2, 1</i>.<p><b>Étym</b>. πωλεύω.`

@@ -1,0 +1,1 @@
+lar[76304]=`<b>παρα·ταιναρίζω</b> <font color="purple">[νᾰ]</font> célébrer les fêtes Ταινάρια, HERMIPP. (<i>Com. fr. 2, 391</i>).`

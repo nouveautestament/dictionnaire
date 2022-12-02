@@ -1,0 +1,1 @@
+lar[60258]=`<b>οῦ (τὸ)</b> Lekton (<i>auj</i>. cap Baba) <i>promontoire de Troade,</i> IL. <i>14, 283</i> ; HDT. <i>9, 114</i> ; THC. <i>8, 101, etc</i>.`

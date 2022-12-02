@@ -1,0 +1,1 @@
+lar[58040]=`<b>ου (τὸ)</b> Krokylion, <i>v. d’Étolie,</i> THC. <i>3, 96</i>.`

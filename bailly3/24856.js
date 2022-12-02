@@ -1,0 +1,1 @@
+lar[24856]=`<font color="purple">[ῑβ]</font> <i>vb. de</i> διακριβόω, PLUT. <i>Lys. 12</i>.`

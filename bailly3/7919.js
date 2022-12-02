@@ -1,0 +1,1 @@
+lar[7919]=`<b>ἀνα·χάσκω</b> (<i>seul. prés</i>. AR. <i>Av. 502, et impf</i>. LUC. <i>V.H. 2, 1) c</i>. ἀναχαίνω.<p>➳ <i>Impf. poét. 3 sg</i>. ἄγχασκε, PHÉRÉCR. <i>(Bkk. 340, 21</i>).`

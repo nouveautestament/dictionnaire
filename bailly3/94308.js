@@ -1,0 +1,1 @@
+lar[94308]=`<b>συμ·πολιορκέω-ῶ</b>, assiéger ensemble, HDT. <i>1, 161</i> ; THC. <i>3, 20</i> ; DÉM. <i>663, 21 ; au pass</i>. POL. <i>2, 7, 8</i>.`

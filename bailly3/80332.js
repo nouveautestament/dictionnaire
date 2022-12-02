@@ -1,0 +1,1 @@
+lar[80332]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., comme des planches : ῥήματα πινακηδὸν ἀποσπῶν, AR. <i>Ran. 824</i>, tirant les mots un à un comme les planches d’un navire.<p><b>Étym</b>. πίναξ, -δον.`

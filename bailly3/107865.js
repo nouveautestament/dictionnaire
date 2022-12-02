@@ -1,0 +1,1 @@
+lar[107865]=`<b>χαρακοποιέομαι-οῦμαι</b> <font color="purple">[ᾰᾰ]</font> se construire une palissade, un retranchement, APP. <i>Civ. 5, 110</i>.<p><b>Étym</b>. χάραξ, ποιέω.`

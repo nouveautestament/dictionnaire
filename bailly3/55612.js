@@ -1,0 +1,1 @@
+lar[55612]=`<b>κισσ·ήρης, ης, ες</b>, couvert de lierre, SOPH. <i>Ant. 1132</i>.<p><b>Étym</b>. κισσός, *ἄρω.`

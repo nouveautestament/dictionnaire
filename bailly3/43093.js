@@ -1,0 +1,1 @@
+lar[43093]=`<b>εὔ·πρακτος, ος, ον :<br>      1</b> <i>pass</i>. facile à faire <i>ou</i> à obtenir, XÉN. <i>An. 2, 3, 20</i>.<br><b>      2</b> <i>act</i>. qui réussit, heureux, MAN. <i>1, 352</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>l. c</i>.<p>➳ <i>Ion</i>. εὔπρηκτος, OPP. <i>H. 5, 63</i>.<p><b>Étym</b>. εὖ, πράσσω.`

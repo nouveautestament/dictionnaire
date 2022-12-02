@@ -1,0 +1,1 @@
+lar[19158]=`<b>βαρύ·κρανος, ος, ον</b> <font color="purple">[ᾰυᾱ]</font> qui a la tête lourde, NAZ. <i>2, 241</i>.<p><b>Étym</b>. β. *κρᾶνον, <i>cf</i>. κάρηνον.`

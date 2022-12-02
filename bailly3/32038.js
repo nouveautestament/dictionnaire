@@ -1,0 +1,1 @@
+lar[32038]=`<b>ἐκ·σιωπάω-ῶ :<br>      1</b> se taire, ARR. <i>An. 6, 4, 5</i>.<br><b>      2 <i>tr.</i></b> faire taire, <i>d’où pass</i>. être réduit au silence, POL. <i>28, 4, 13</i>.`

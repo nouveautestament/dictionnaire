@@ -1,0 +1,1 @@
+lar[62913]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> Margitès, <i>n. d’un personnage sot et infatué de lui-même,</i> PLUT. <i>Dem. 23</i> ; LUC. <i>Herm. 17 ; etc.</i><br><b>      2</b> <i>titre d’un poème satirique attribué à Homère,</i> ARSTT. <i>Poet. 4, 10</i>.<p><b>Étym</b>. μάργος.`

@@ -1,0 +1,1 @@
+lar[709]=`<b>Ἀγλαο·νίκη, ης (ἡ)</b> <font color="purple">[ῑ]</font> Aglaonikè, <i>f</i>. ANTH. <i>5, 199</i>.<p><b>Étym</b>. ἀ. νίκη.`

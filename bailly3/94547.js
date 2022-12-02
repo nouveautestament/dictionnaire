@@ -1,0 +1,1 @@
+lar[94547]=`<b>συν·αγρεύω</b>, chasser à la fois avec, <i>dat</i>. ANTH. <i>9, 337</i>.`

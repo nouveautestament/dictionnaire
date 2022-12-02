@@ -1,0 +1,1 @@
+lar[88609]=`<b>ῥινο·πύλη, ης (ἡ)</b> <font color="purple">[ῑῠ]</font> petite porte, poterne, guichet, POL. <i>8, 27, 8</i>.<p><b>Étym</b>. ῥίς, π.`

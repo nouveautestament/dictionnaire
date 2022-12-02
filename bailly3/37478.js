@@ -1,0 +1,1 @@
+lar[37478]=`<b>ος, ον</b>, reconnu, connu, SPT. <i>Job 18, 19</i>.<p><b>Étym</b>. ἐπιγιγνώσκω.`

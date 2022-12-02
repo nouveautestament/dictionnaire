@@ -1,0 +1,1 @@
+lar[95349]=`<b>συν·εκκαίδεκα</b> (οἱ, αἱ, τὰ) <i>indécl</i>. seize ensemble, seize par seize, DÉM. <i>260, 27 ; 561, 26</i>.`

@@ -1,0 +1,1 @@
+lar[56896]=`<b>ας (ἡ) :<br>      1</b> lieu rempli de poussière où les oiseaux peuvent se rouler et se baigner, ARSTT. <i>H.A. 9, 8, 1</i>.<br><b>      2</b> arène de lutteurs, LYC. <i>866</i> ; PLUT. <i>M. 638c ;</i> THÉM. <i>229, 3 ; 244, 21, etc</i>.<p><b>Étym</b>. κονίζω.`

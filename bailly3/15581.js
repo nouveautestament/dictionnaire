@@ -1,0 +1,1 @@
+lar[15581]=`<b>ἀρχι·γόης, ητος (ὁ)</b> <font color="purple">[ῐ]</font> maître-charlatan, chef des imposteurs, NAZ. <i>Arcan. 6, 79, p. 206 Dronke</i>.`

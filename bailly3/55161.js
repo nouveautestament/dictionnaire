@@ -1,0 +1,1 @@
+lar[55161]=`insulter, blesser, <i>acc</i>. LYC. <i>1386</i>.<p><b>Étym</b>. κηκάς.`

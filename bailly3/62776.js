@@ -1,0 +1,1 @@
+lar[62776]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> folie, AR. <i>fr. 647</i>.<p><b>Étym</b>. μαίνομαι.`

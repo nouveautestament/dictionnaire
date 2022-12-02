@@ -1,0 +1,1 @@
+lar[57067]=`<b>οῦ (ὁ)</b> l’Homme aux mœurs corinthiennes, <i>càd</i>. le Débauché, <i>titre de comédies de Philétæros et de Poliokhos (Com. fr. 1, 356b</i>).<p><b>Étym</b>. κορινθιάζομαι.`

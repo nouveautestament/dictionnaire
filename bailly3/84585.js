@@ -1,0 +1,1 @@
+lar[84585]=`<b>προ·κόλπιον, ου (τὸ) :<br>      1</b> partie de vêtement qui couvre le sein, TH. <i>Char. 6 et 22</i>.<br><b>      2</b> partie antérieure <i>ou</i> entrée d’un golfe, A. TAT. <i>1, 1</i>.<p><b>Étym</b>. π. κόλπος.`

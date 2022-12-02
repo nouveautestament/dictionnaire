@@ -1,0 +1,1 @@
+lar[94198]=`<b>συμ·περιπατέω-ῶ</b> <font color="purple">[ᾰ]</font> se promener autour de <i>ou</i> circuler avec, <i>dat</i>. PLAT. <i>Prot. 314e ;</i> MÉN. <i>4, 104 Meineke</i> ; PLUT. <i>Flam. 21, Pomp. 10</i> ; ATH. <i>545b ;</i> LUC. <i>Bis acc. 32 ; abs</i>. ARSTT. <i>Rhet. 3, 9, 6</i>.`

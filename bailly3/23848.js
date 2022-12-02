@@ -1,0 +1,1 @@
+lar[23848]=`<b>ιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> qui convient aux plantations d’arbres (terre), DH. <i>1, 37</i>.<br><b>      2</b> qui s’attache <i>ou</i> s’enlace aux arbres (vigne), STR. <i>231</i>.<br><b>      3</b> qui vit de la vie d’un arbre (nymphe, dryade), ANTH. <i>9, 665</i>.<p><b>Étym</b>. <i>fém. de</i> δενδρίτης.`

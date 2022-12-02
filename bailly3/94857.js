@@ -1,0 +1,1 @@
+lar[94857]=`<b>εως (ἡ)</b> action de démontrer avec, PLUT. <i>M. t. 5, 2, p. 740 c Wyttenbach</i>.<p><b>Étym</b>. συναποδείκνυμι.`

@@ -1,0 +1,1 @@
+lar[46721]=`<b>θεό·μοιρος, ος, ον</b>, qui participe de la nature divine, ECPHANT. (STOB. <i>323, 58).</i><p>➳ <i>Fém</i>. -μοίρη, ECPHANT. <i>l. c</i>.<p><b>Étym</b>. θ. μοῖρα.`

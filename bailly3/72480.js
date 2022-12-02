@@ -1,0 +1,1 @@
+lar[72480]=`<b>ή, όν</b>, de la fin de l’été <i>ou</i> du commencement de l’automne, GEOP. <i>4, 4, 14</i>.<p><b>Étym</b>. ὀπώρα.`

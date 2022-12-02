@@ -1,0 +1,1 @@
+lar[62788]=`<b>ης, ες</b> <font color="purple">[ᾰῐ]</font> qui ressemble à un fou, fou, insensé, HPC. <i>195c</i>.<p><b>Étym</b>. μανικός, -ωδης.`

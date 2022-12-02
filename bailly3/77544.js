@@ -1,0 +1,1 @@
+lar[77544]=`<b>πεδιο·νόμος, ος, ον</b>, qui habite les plaines, ESCHL. <i>Sept. 272</i>.<p><b>Étym</b>. πεδίον, νέμω.`

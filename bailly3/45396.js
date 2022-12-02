@@ -1,0 +1,1 @@
+lar[45396]=`<b>ἡμι·γενής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> de race mêlée, croisé, <i>d’où</i> imparfait, PLAT. <i>Tim. 66d.</i><br><b>      2</b> à demi formé, <i>en parl. de fruits,</i> TH. <i>H.P. 1, 14, 1</i>.<p><b>Étym</b>. ἡμι-, γίγνομαι.`

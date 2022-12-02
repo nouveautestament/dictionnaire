@@ -1,0 +1,1 @@
+lar[39513]=`<b>ή, όν</b>, qui concerne une tutelle, PLAT. <i>Leg. 927e ;</i> DH. <i>Lys. 20</i>.<p><b>Étym</b>. ἐπίτροπος.`

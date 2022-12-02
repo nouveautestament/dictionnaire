@@ -1,0 +1,1 @@
+lar[10638]=`<b>ἄντ·οικος, ος, ον</b>, qui habite <i>ou</i> vit aux antipodes, PLUT. <i>M. 898b ;</i> GAL. <i>2, 45</i>.<p><b>Étym</b>. ἀ. οἶκος.`

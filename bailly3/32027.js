@@ -1,0 +1,1 @@
+lar[32027]=`<b>ἐκ·σαρκίζω</b> (<i>part. pf. pass</i>. ἐκσεσαρκισμένος) enlever les chairs, décharner, SPT. <i>Ezech. 24, 4</i>.`

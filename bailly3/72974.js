@@ -1,0 +1,1 @@
+lar[72974]=`<b>α, ον</b>, de la grosseur d’un grain de vesce, TH. <i>H.P. 8, 5, 1</i> ; DIOSC. <i>4, 155 ; subst</i>. τὰ ὀροβιαῖα, GAL. <i>14, 511,</i> pilules de la grosseur d’un grain de vesce.<p><b>Étym</b>. ὄροβος.`

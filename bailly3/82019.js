@@ -1,0 +1,1 @@
+lar[82019]=`<b>πολύ·κολπος, ος, ον</b> <font color="purple">[ῠ]</font> à plusieurs seins, GAL. <i>4, 277</i>.<p><b>Étym</b>. π. κόλπος.`

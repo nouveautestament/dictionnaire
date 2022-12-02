@@ -1,0 +1,1 @@
+lar[98720]=`<b>ῶν (οἱ)</b> habitants des Quatre régions, <i>n. des</i> Besses, <i>pple de Thrace,</i> STR. <i>fr. 58</i> ; E. BYZ. <i>v°</i> Τετραχωρῖται.<p><b>Étym</b>. τετράχωρος.`

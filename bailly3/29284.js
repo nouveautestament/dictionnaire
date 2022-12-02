@@ -1,0 +1,1 @@
+lar[29284]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> septuple, NICOM. <i>Arithm. 53</i> ; JOS. <i>A.J. 11, 8, 6</i> ; PHIL. <i>2, 206</i>.<p><b>Étym</b>. ἑβδόματος.`

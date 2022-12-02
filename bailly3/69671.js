@@ -1,0 +1,1 @@
+lar[69671]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> bastonnade, POL. <i>6, 37, 2</i>.<p><b>Étym</b>. ξυλοκόπος.`

@@ -1,0 +1,1 @@
+lar[31736]=`<b>ἔκ·νοος-ους, οος-ους, οον-ουν</b>, qui a l’esprit égaré, insensé, PLUT. <i>C. Gracch. 19</i>.<p><b>Étym</b>. ἐκ, νόος.`

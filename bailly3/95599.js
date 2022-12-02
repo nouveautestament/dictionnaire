@@ -1,0 +1,1 @@
+lar[95599]=`<b>συν·επέχω</b>, rapporter en même temps à, JAMBL. <i>Nicom. ar. 8c</i>.`

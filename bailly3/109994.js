@@ -1,0 +1,1 @@
+lar[109994]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> nourriture de l’âme, CHRYS. <i>p. 275, 44</i>.<p><b>Étym</b>. ψυχοτρόφος.`

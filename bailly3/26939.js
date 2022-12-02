@@ -1,0 +1,1 @@
+lar[26939]=`<b>διπλασι·επί·εκτος, ος, ον</b>, plus grand de 2 ⅙, NICOM. <i>Arithm. p. 102, l. 2 Ast</i>.`

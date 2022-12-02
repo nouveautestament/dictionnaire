@@ -1,0 +1,1 @@
+lar[104686]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Phæstis, <i>mère d’Aristote,</i> DH. <i>Amm. 1, 5</i> ; ANTH. <i>App. 378</i>.`

@@ -1,0 +1,1 @@
+lar[80]=`<b>(ὁ)</b> fouet, HIPPON. (HSCH.).<p><b>Étym</b>. <i>pré-grec</i>.`

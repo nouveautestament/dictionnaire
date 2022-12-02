@@ -1,0 +1,1 @@
+lar[20144]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font> de fiente de vache, de bouse, AR. <i>Ran. 295</i>.<p><b>Étym</b>. βόλιτον.`

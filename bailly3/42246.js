@@ -1,0 +1,1 @@
+lar[42246]=`<b>εὐθυ·κέλευθος, ος, ον</b> <font color="purple">[ῠ]</font> qui marche en ligue droite, ARAT. <i>1031</i>.<p><b>Étym</b>. εὐ. κέλευθος.`

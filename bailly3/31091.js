@@ -1,0 +1,1 @@
+lar[31091]=`<b>ἐκ·βιβρώσκω</b>, dévorer, GEOP. <i>2, 35, 7 (ao. pass. part</i>. -βρωθέντα) ; <i>fig</i>. CORN. <i>180</i>.`

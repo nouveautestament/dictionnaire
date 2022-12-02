@@ -1,0 +1,1 @@
+lar[22857]=`<b>ου (ὁ)</b> <font color="purple">[ῡῑ]</font> <i>s.-e</i>. ἄρτος, pain de fleur de farine, GEOP. <i>20, 41</i>.<p><b>Étym</b>. γῦρις.`

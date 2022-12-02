@@ -1,0 +1,1 @@
+lar[38229]=`<b>ἐπι·κυρόω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> sanctionner, confirmer, <i>acc</i>. SOPH. <i>El. 793</i> ; THC. <i>3, 71</i> ; XÉN. <i>An. 3, 2, 32, etc.</i><br><b>      2</b> décréter, décider, <i>avec une prop. inf</i>. EUR. <i>Or. 862</i>.`

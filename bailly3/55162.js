@@ -1,0 +1,1 @@
+lar[55162]=`<b>άδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. malfaisant, nuisible, NIC. <i>Al. 185 ; fig</i>. CALL. <i>fr. 253</i>.<p><b>Étym</b>. κηκίω.`

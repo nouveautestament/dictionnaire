@@ -1,0 +1,1 @@
+lar[83714]=`<b>προ·ασιτέω-ῶ</b> <font color="purple">[ᾰῑ]</font> manquer de nourriture auparavant, GAL. <i>14, 663</i> ; ANTYLL. (ORIB. <i>2, 58 B.-Dar</i>.).`

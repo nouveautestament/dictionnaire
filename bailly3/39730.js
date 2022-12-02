@@ -1,0 +1,1 @@
+lar[39730]=`<b>ἐπι·χρωματίζω</b> <font color="purple">[ᾰ]</font> colorer, PLAT. <i>Rsp. 601a</i>.`

@@ -1,0 +1,1 @@
+lar[65282]=`<b>μηδ·έτερος, α, ον</b>, aucun des deux, PLAT. <i>Rsp. 470b, Phil. 43d, etc. ; qqf. séparé par une prép.</i> : οἱ μηδὲ μεθ' ἑτέρων, THC. <i>2, 67 ; cf. 5, 48 ; 6, 44, etc.</i> ; ceux qui ne sont d’aucun des deux partis, les neutres.<p><b>Étym</b>. μηδέ, ἕτερος.`

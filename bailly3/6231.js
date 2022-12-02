@@ -1,0 +1,1 @@
+lar[6231]=`<b>ἀμφι·λείπω</b>, abandonner de tous côtés, Q. SM. <i>12, 106</i>.`

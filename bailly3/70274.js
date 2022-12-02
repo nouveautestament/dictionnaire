@@ -1,0 +1,1 @@
+lar[70274]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> poème sur Œdipe, PAUS. <i>9, 5, 11</i>.<p><b>Étym</b>. Οἰδίπους.`

@@ -1,0 +1,1 @@
+lar[107343]=`faire rôtir, faire griller, <i>d’où au pass</i>. être rôti, être grillé.<p>➳ <i>Act. seul. prés</i>. HPC. <i>6, 566, et ao</i>. ἔφῳσα, HPC. <i>8, 244, 276 Littré. Pass. seul. pf</i>. ἔφῳσμαι, HPC. <i>5, 436 Littré, etc.</i> ; GEOP. <i>20, 2 ; ou</i> πέφῳσμαι, HPC. <i>887, 1229h ;</i> ATH. <i>647c</i>.<p><b>Étym</b>. φωΐς.`

@@ -1,0 +1,1 @@
+lar[97651]=`<b>α, ον</b> <font color="purple">[βᾰ]</font><br><b>   I</b> <i>pass.</i> :<br><b>      1</b> timide, craintif, HH. <i>Merc. 165</i>.<br><b>      2</b> effrayé, SOPH. <i>Tr. 957</i>.<br><b>      3</b> causé par la crainte, MAX. <i>π. κατ. 331</i>.<br><b>   II</b> <i>act</i>. terrible, NONN. <i>D. 25, 191</i>.<p><b>Étym</b>. τάρβος.`

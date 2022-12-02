@@ -1,0 +1,1 @@
+lar[2586]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire d’Hémonie, COL. <i>17</i>.<p>➳ <i>Nom. pl. épq</i>. -ῆες, A.RH. <i>2, 509</i>.`

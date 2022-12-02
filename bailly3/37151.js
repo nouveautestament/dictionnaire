@@ -1,0 +1,1 @@
+lar[37151]=`<b>ἐπ·ερεθίζω :<br>      1</b> stimuler, exciter, PLUT. <i>Eum. 11</i>.<br><b>      2</b> faire vibrer (une lyre) ANTH. <i>9, 270</i>.`

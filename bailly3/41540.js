@@ -1,0 +1,1 @@
+lar[41540]=`<b>εὐ·αιμορράγητος, ος, ον</b> <font color="purple">[ᾰ]</font> sujet aux hémorrhagies, GAL. <i>2, 279d ;</i> P. ÉG. <i>156 Briau</i>.<p><b>Étym</b>. εὖ, αἱμορραγέω.`

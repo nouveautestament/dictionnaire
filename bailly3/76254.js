@@ -1,0 +1,1 @@
+lar[76254]=`<b>ου (τὸ)</b> <font color="purple">[ῐχῐ]</font> petit acrostiche, DL. <i>8, 78</i>.<p><b>Étym</b>. <i>dim. de</i> παραστιχίς.`

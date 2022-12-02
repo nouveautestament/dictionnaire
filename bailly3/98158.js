@@ -1,0 +1,1 @@
+lar[98158]=`<b>τελεσί·καρπος, ος, ον</b> <font color="purple">[ῐ]</font> qui amène ses fruits à maturité, STR. <i>687</i>.<p><b>Étym</b>. τελέω, καρπός.`

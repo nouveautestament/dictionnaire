@@ -1,0 +1,1 @@
+lar[4473]=`<b>έως (ὁ)</b> <font color="purple">[ᾰῐ]</font> d’Halicarnasse, LYS. <i>28, 17</i> ; DÉM. <i>35, 20 Baiter-Sauppe, etc</i>.<p>➳ <i>Dans les inscr. att. touj. écrit par</i> σσ : Ἁλικαρνασσῆς, CIA. <i>1, 226, 12 (454 av. J.-C.) ; 256, 34 (428 av. J.-C.), etc. v. Meisterh. p. 75, 12. Poét</i>. -ασεύς, CALL. <i>9, 1, 13 ; ion</i>. -ησεύς, HDT. <i>1, 144, etc</i>.`

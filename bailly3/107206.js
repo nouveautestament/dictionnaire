@@ -1,0 +1,1 @@
+lar[107206]=`<b>εως (ἡ)</b> <font color="purple">[ῡᾱ]</font> action de délayer, de pétrir, SPT. <i>Hos. 10, 4</i>.<p>➳ <i>Ion</i>. φύρησις, ARÉT. <i>Cur. m. acut. 2, 3</i>.<p><b>Étym</b>. φυράω.`

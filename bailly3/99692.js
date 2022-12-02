@@ -1,0 +1,1 @@
+lar[99692]=`<b>ης (ἡ)</b> Torônè (<i>auj</i>. Toróni) <i>v. de Macédoine,</i> HDT. <i>7, 22, 122</i> ; THC. <i>4, 110, etc</i>.`

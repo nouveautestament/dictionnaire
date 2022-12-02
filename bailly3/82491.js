@@ -1,0 +1,1 @@
+lar[82491]=`<b>ας (ἡ)</b> sommeil profond, PHIL. <i>2, 672</i>.<p><b>Étym</b>. πολύϋπνος.`

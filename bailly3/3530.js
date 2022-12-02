@@ -1,0 +1,1 @@
+lar[3530]=`<b>ἀ·κονίατος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> non enduit de chaux, TH. <i>H.P. 8, 11, 1</i> ; GAL. <i>13, 637</i>.<p><b>Étym</b>. ἀ, κονιάω.`

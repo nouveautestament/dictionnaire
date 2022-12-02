@@ -1,0 +1,1 @@
+lar[65239]=`<b>μετρο·νόμος, ου (ὁ)</b> inspecteur des poids et mesures, <i>à Athènes ; suiv</i>. ARSTT. <i>Ath. 51, 2, il y en avait 10, 5 pour la Ville, 5 pour le Pirée (suiv. les gramm. anciens, 9 pour la Ville et 15 pour le Pirée</i>) DIN. (POLL. <i>4, 167</i>) ; GRAMM. <i>p. 278, 25 Bekker, Anecdota græca, etc</i>.<p><b>Étym</b>. μέτρον, νέμω.`

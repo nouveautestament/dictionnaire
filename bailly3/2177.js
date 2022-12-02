@@ -1,0 +1,1 @@
+lar[2177]=`<i>interj. de surprise,</i> oh ! AR. <i>Pax 1066</i>.`

@@ -1,0 +1,1 @@
+lar[97436]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui concerne l’art de filer, XÉN. <i>Œc. 7, 6</i>.<p><b>Étym</b>. τλῆναι.`

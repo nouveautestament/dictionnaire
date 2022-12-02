@@ -1,0 +1,1 @@
+lar[12829]=`<b>ἀ·πολυπραγμόνητος, ος, ον</b>, dont il ne faut pas s’occuper avec trop de soin, NYSS. <i>1, 208a, etc</i>.<p><b>Étym</b>. ἀ, πολυπραγμονέω.`

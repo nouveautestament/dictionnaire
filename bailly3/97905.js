@@ -1,0 +1,1 @@
+lar[97905]=`<b>ταχύ·μυθος, ος, ον</b> <font color="purple">[ᾰῠῡ]</font> à la parole prompte, NONN. <i>D. 21, 274</i>.<p><b>Étym</b>. τ. μῦθος.`

@@ -1,0 +1,1 @@
+lar[28083]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> action de fortifier, PLOT. <i>Enn. 841, 6 Creuz</i>.<p><b>Étym</b>. δυναμόω.`

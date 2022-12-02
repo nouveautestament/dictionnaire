@@ -1,0 +1,1 @@
+lar[49498]=`<b>ἱρο·δρόμος, ος, ον</b> <font color="purple">[ῑ]</font> qui lutte à la course dans les jeux sacrés, ANTH. <i>9, 329</i>.<p><b>Étym</b>. ἱρός, δραμεῖν.`

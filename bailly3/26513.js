@@ -1,0 +1,1 @@
+lar[26513]=`<b>*δικασπολία</b>, <i>seul. ion</i>. <b>δικασπολίη, ης (ἡ)</b> <font color="purple">[δῐ]</font> jugement, ORPH. <i>Arg. 379</i> ; ANTH. <i>11, 376</i> ; MAN. <i>2, 261</i>.<p><b>Étym</b>. δικασπόλος.`

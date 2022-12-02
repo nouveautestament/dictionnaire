@@ -1,0 +1,1 @@
+lar[103723]=`<b>ὑπο·πρεσβύτερος, ος, ον</b> <font color="purple">[βῠ]</font> un peu plus âgé, AR. <i>fr. 128</i>.`

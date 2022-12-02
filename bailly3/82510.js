@@ -1,0 +1,1 @@
+lar[82510]=`<b>πολύ·φθοος, ος, ον</b>, où l’on offre un grand nombre de gâteaux sacrés, PLUT. <i>M. 292f</i>.<p><b>Étym</b>. π. φθόϊς.`

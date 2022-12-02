@@ -1,0 +1,1 @@
+lar[51490]=`<b>καναχέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> (<i>seul. prés. et ao</i>.) :<br><b>      1 <i>intr.</i></b> faire du bruit, résonner, OD. <i>19, 469</i>.<br><b>      2 <i>tr.</i></b> faire résonner, <i>acc</i>. A.RH. <i>4, 907</i>.<p>➳ <i>Prés</i>. CRAT. (<i>Com. fr. 2, 119, 7 et 162) ; ao. 3 sg</i>. κανάχησε, OD. <i>19, 469, etc</i>.<p><b>Étym</b>. καναχή.`

@@ -1,0 +1,1 @@
+lar[38135]=`<b>ἐπι·κούριος, ος, ον</b>, secourable, protecteur, PAUS. <i>8, 41, 7</i>.<p><b>Étym</b>. ἐπίκουρος.`

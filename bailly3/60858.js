@@ -1,0 +1,1 @@
+lar[60858]=`<b>ῶν (οἱ)</b> Lèstades, <i>litt</i>. Repaire de pirates <i>ou</i> de brigands, <i>village de l’î. de Naxos,</i> ARSTT. (ATH. <i>348b</i>).<p><b>Étym</b>. λῃστής.`

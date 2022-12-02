@@ -1,0 +1,1 @@
+lar[63475]=`<font color="purple">[ᾰῠ]</font> <i>adv. au cp</i>. -ωτέρως, avec un plus grand dénominateur, JAMBL. <i>Nicom. ar. 120b</i>.`

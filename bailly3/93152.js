@@ -1,0 +1,1 @@
+lar[93152]=`<b>συ·αγρεσία, ας (ἡ)</b> chasse au sanglier, ANTH. <i>6, 34</i>.<p><b>Étym</b>. σῦς, ἀγρέω.`

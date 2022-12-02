@@ -1,0 +1,1 @@
+lar[13801]=`<b>ατος (τὸ)</b> matière expectorée, crachat, HPC. <i>415, 54</i>.<p><b>Étym</b>. ἀποχρέμπτομαι.`

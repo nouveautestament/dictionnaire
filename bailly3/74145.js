@@ -1,0 +1,1 @@
+lar[74145]=`<b>παγ·κτησία, ας (ἡ)</b> possession de tout, CLÉM. <i>2, 629d Migne</i>.<p><b>Étym</b>. π. κτάομαι.`

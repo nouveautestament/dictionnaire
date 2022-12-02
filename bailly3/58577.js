@@ -1,0 +1,1 @@
+lar[58577]=`<b>ατος (τὸ)</b> objet de forme circulaire :<br><b>      1</b> roue, EUR. <i>Ph. 1185</i>.<br><b>      2</b> κ. βυρσότονον, EUR. <i>Bacch. 124,</i> tambour (<i>litt</i>. peau tendue circulairement).<br><b>      3</b> couronne, NYSS. <i>1, 670a.</i><br><b>      4</b> enroulement, DS. <i>3, 35</i>.<p><b>Étym</b>. κυκλόω.`

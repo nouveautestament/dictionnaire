@@ -1,0 +1,1 @@
+lar[15437]=`<b>ἀρτο·φόρον, ου (τὸ)</b> corbeille pour porter le pain, ATH. <i>129e</i>.<p><b>Étym</b>. ἄ. φέρω.`

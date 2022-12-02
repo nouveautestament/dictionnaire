@@ -1,0 +1,1 @@
+lar[45032]=`<b>οῦ (ὁ)</b> assaisonnement, <i>d’où</i> grâce, amabilité, SPT. <i>Ex. 20, 34</i>.<p><b>Étym</b>. ἡδύνω.`

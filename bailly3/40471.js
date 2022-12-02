@@ -1,0 +1,1 @@
+lar[40471]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> couvert de figuiers sauvages, STR. <i>598</i>.<p><b>Étym</b>. ἐρινεός, -ωδης.`

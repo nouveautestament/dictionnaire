@@ -1,0 +1,1 @@
+lar[40156]=`<b>ἐρατο·πλόκαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux tresses aimables, ORPH. <i>H. 43, 2</i>.<p><b>Étym</b>. ἐρατός, πλόκαμος.`

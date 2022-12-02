@@ -1,0 +1,1 @@
+lar[88630]=`<b>ή, όν</b> <font color="purple">[ρῑ]</font> agité <i>ou</i> transporté par le vent, SPT. <i>Jer. 22, 14</i>.<p><b>Étym</b>. <i>vb. de</i> ῥιπίζω.`

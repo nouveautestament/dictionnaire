@@ -1,0 +1,1 @@
+lar[83605]=`<b>προ·ανούσιος, ος, ον</b>, qui n’existait pas à l’origine, SYN. <i>Hymn. 2, 72</i>.<p><b>Étym</b>. π. ἀνούσιος.`

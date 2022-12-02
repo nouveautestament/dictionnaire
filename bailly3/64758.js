@@ -1,0 +1,1 @@
+lar[64758]=`<font color="darkgreen">(<i>impf. 3 sg</i>. μετεκιρνᾶτο)</font> <i>c</i>. μετακεράννυμαι, SPT. <i>Sap. 16, 21</i>.`

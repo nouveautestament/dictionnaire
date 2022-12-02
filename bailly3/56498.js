@@ -1,0 +1,1 @@
+lar[56498]=`<b>κοινό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, en communauté de sentiments avec, <i>dat</i>. EUR. <i>I.T. 1008, Ion 577, etc</i>.<p><b>Étym</b>. κοινός, φρήν.`

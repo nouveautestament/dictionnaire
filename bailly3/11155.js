@@ -1,0 +1,1 @@
+lar[11155]=`<b>ἀπ·ακριβόω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ώσω ; <i>part. pf. pass</i>. ἀπηκριβωμένος <font color="purple">[ῑ]</font>)</font> travailler avec soin, achever, PLAT. <i>Leg. 810b, etc.</i> ; ISOCR. <i>43a, etc</i>.`

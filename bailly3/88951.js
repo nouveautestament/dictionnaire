@@ -1,0 +1,1 @@
+lar[88951]=`<b>ῥυτιδόω-ῶ</b> <font color="darkgreen">(<i>f</i>. ώσω, <i>part. pf. pass</i>. ἐρρυτιδωμένος)</font> <font color="purple">[ῠῐ]</font> rider, ARSTT. <i>Probl. 24, 7 ; au pass</i>. ARSTT. <i>H.A. 6, 25, 1</i> ; TH. <i>H.P. 3, 10, 3</i> ; LUC. <i>Luct. 16, etc.</i> ; ῥυτιδούμενοι ὀφθαλμοί, HPC. <i>1165e</i>, yeux bridés.<p><b>Étym</b>. ῥυτίς.`

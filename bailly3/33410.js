@@ -1,0 +1,1 @@
+lar[33410]=`<b>ή, όν</b>, qui comprend, qui embrasse, DYSC. <i>Synt. 36, 1 Bkk.</i> ; SEXT. <i>161, 16 Bkk</i>.<p><b>Étym</b>. ἐμπεριλαμβάνω.`

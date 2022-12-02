@@ -1,0 +1,1 @@
+lar[2898]=`<b>αἰσχρο·κερδής, ής, ές</b>, cupide <i>ou</i> avare, HDT. <i>1, 187</i> ; EUR. <i>Andr. 451</i> ; PLAT. <i>Rsp. 408c ;</i> ARSTT. <i>Nic. 4, 1, 43</i>.<p>•<i> Sup</i>. -έστατος, AND. <i>4, 32 Baiter-Sauppe</i>.<p><b>Étym</b>. αἰ. κέρδος.`

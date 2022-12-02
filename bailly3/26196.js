@@ -1,0 +1,1 @@
+lar[26196]=`<b>δι·ενίημι</b> (<i>part. prés. pass</i>. διενιέμενος) introduire à travers <i>ou</i> dans, ORIB. <i>p. 320</i> ; RUF. <i>p. 223</i>.`

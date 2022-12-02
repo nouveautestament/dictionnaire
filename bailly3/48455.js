@@ -1,0 +1,1 @@
+lar[48455]=`<b>ἰδι·ώνυμος, ος, ον</b> <font color="purple">[ῐδῠ]</font> appelé de son nom propre, RHÉT. <i>7, 22, 7 W</i>.<p><b>Étym</b>. ἴδ. ὄνομα.`

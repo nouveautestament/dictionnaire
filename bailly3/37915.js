@@ -1,0 +1,1 @@
+lar[37915]=`<b>ἐπι·καταβαίνω</b>, descendre vers : ἐς Πλαταίας, HDT. <i>9, 25</i> ; πρὸς τὴν πόλιν, THC. <i>6, 97,</i> vers Platées, vers la ville ; <i>particul</i>. descendre vers la mer, THC. <i>7, 23, 36</i>.`

@@ -1,0 +1,1 @@
+lar[3621]=`<font color="darkgreen">(<i>f</i>. ιῶ)</font> <font color="purple">[ᾰ]</font> faire entendre : τινά τι, SPT. <i>Jud. 13, 23 ; Ps. 50, 9 ; Cant. 2, 14,</i> qqe ch. à qqn.<p><b>Étym</b>. ἀκούω.`

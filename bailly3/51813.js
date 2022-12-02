@@ -1,0 +1,1 @@
+lar[51813]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> sorte de plante, <i>la même que</i> πολύγονον, DIOSC. <i>4, 4</i>.`

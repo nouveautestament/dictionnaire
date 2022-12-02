@@ -1,0 +1,1 @@
+lar[15570]=`<i>adv</i>., dès l’origine, primitivement, HDT. <i>1, 131, etc.</i> ; ESCHL. <i>fr. 427</i> ; SOPH. <i>fr. 132 ; p. suite,</i> en principe, <i>d’où</i> absolument, HDT. <i>5, 18</i>.<p>➳ <i>Inus. en prose att. où l’on dit de préfér</i>. ἐξ ἀρχῆς. <i>Dor</i>. ἀρχᾶθεν, PD. <i>O. 9, 59 ; I. 3, 25</i>.<p><b>Étym</b>. ἀρχή, -θεν.`

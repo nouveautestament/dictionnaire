@@ -1,0 +1,1 @@
+lar[19492]=`<b>υος (ὁ)</b> Bélésys, <i>satrape de Syrie et d’Assyrie,</i> XÉN. <i>etc</i>.`

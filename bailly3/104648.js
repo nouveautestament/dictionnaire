@@ -1,0 +1,1 @@
+lar[104648]=`<i>adv</i>., joyeusement, avec entrain, XÉN. <i>Cyr. 4, 6, 6</i>.<p><b>Étym</b>. φαιδρός.`

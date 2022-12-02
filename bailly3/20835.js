@@ -1,0 +1,1 @@
+lar[20835]=`<b>οῦ (ὁ)</b> Broméros, <i>Macédonien,</i> THC. <i>4, 83</i>.`

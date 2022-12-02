@@ -1,0 +1,1 @@
+lar[23806]=`<font color="darkgreen">(<i>seul. part. ao</i>. -ίσαντες)</font> <font color="purple">[ῑν]</font> plonger à la manière d’un dauphin : τὸ κάρα, LUC. <i>Lex. 5,</i> sa tête.<p><b>Étym</b>. δελφίς.`

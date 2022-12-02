@@ -1,0 +1,1 @@
+lar[71175]=`<i>adv</i>., entièrement, intégralement, CHRYS. <i>2, 697</i>.`

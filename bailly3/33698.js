@@ -1,0 +1,1 @@
+lar[33698]=`<b>ἔμ·φλοξ</b>, <i>gén</i>. <b>ογος (ὁ, ἡ)</b> contenant la flamme, ANTH. <i>6, 5</i>.<p><b>Étym</b>. ἐν, φλ.`

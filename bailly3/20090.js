@@ -1,0 +1,1 @@
+lar[20090]=`<b>(ὁ)</b> Bœôrix, <i>roi cimbre,</i> PLUT.`

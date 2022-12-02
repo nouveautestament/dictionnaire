@@ -1,0 +1,1 @@
+lar[104543]=`<b>ὑψι·φαής, ής, ές</b> <font color="purple">[ῐ]</font> qui brille en haut <i>ou</i> de haut, qu’on voit de loin, élevé, ANTH. <i>7, 701</i>.<p><b>Étym</b>. ὕ. φάος.`

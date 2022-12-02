@@ -1,0 +1,1 @@
+lar[18511]=`<b>ἀχραδο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰδ]</font> marchand de poires sauvages, NICOPH. (ATH. <i>126e</i>).<p><b>Étym</b>. ἀχράς, πωλέω.`

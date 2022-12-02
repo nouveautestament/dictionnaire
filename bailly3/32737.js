@@ -1,0 +1,1 @@
+lar[32737]=`<b>εως (ἡ) :<br>      1</b> venue, arrivée, DH. <i>3, 59</i>.<br><b>      2</b> <i>abs. t. eccl</i>. la venue de Jésus-Christ, NT. <i>Ap. 7, 52</i>.`

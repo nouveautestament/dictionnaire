@@ -1,0 +1,1 @@
+lar[92431]=`<i>adv</i>., avec valeur privative <i>ou</i> négative, ARSTT. <i>An. pr. 1, 4, 14 ; Metaph. 9, 5, 8</i> ; GAL. <i>2, 16</i>.`

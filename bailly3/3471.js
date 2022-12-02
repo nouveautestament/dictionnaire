@@ -1,0 +1,1 @@
+lar[3471]=`<b>ἄ·κνηστος, ου (ἡ)</b> <i>autre n. de la plante purgative</i> χαμέλεια, la racleuse, DIOSC. <i>4, 172</i>.`

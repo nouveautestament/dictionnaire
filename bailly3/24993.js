@@ -1,0 +1,1 @@
+lar[24993]=`<b>δια·μανθάνω</b> (<i>seul. impf. 3 sg</i>. διεμάνθανε) s’informer : τι, PHILSTR. <i>20</i>, de qqe ch.`

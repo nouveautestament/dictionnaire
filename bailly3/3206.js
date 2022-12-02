@@ -1,0 +1,1 @@
+lar[3206]=`<b>ἀ·κατάποτος, ος, ον</b>, qu’on ne peut avaler en buvant, SPT. <i>Job 20, 18</i>.<p><b>Étym</b>. ἀ, καταπίνω.`

@@ -1,0 +1,1 @@
+lar[107489]=`<i>voc</i>. -η (ὁ) Khærônidès, <i>h</i>. ANTH. <i>7, 451</i>.<p><b>Étym</b>. <i>patr. de</i> Χαίρων.`

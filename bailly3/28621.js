@@ -1,0 +1,1 @@
+lar[28621]=`<b>δύσ·κωφος, ος, ον</b>, tout à fait sourd, HPC. <i>149e ;</i> ARSTT. <i>Insomn. 2, 6</i> ; STR. <i>658</i> ; DIOSC. <i>5, 88</i>.<p><b>Étym</b>. δ. κωφός.`

@@ -1,0 +1,1 @@
+lar[74122]=`<b>Παγ·κλέων, ωνος (ὁ)</b> Pankléôn, <i>Athénien,</i> LYS. <i>Or. 23, 1 Baiter-Sauppe</i>.<p><b>Étym</b>. π. κλέος.`

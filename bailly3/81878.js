@@ -1,0 +1,1 @@
+lar[81878]=`<b>πολυ·έλεος, ος, ον</b>, très miséricordieux, SPT. <i>Ex. 34, 6 ; Num. 14, 8, etc</i>.<p><b>Étym</b>. π. ἔλεος.`

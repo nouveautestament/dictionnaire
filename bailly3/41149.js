@@ -1,0 +1,1 @@
+lar[41149]=`<b>ας (ἡ)</b> <font color="purple">[ᾱτ]</font> festin, SPT. <i>4Reg. 25, 30</i>.<p><b>Étym</b>. ἑστιάτωρ.`

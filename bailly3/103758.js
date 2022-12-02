@@ -1,0 +1,1 @@
+lar[103758]=`<b>ὑπό·πυρος, ος, ον</b> <font color="purple">[πῠ]</font> qui fait jaillir du feu, SOPH. <i>fr. 378</i>.<p><b>Étym</b>. ὑ. πῦρ.`

@@ -1,0 +1,1 @@
+lar[1145]=`<b>ἄ·δᾳδος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> sans flambeau, sans torche, TH. <i>H.P. 5, 1, 5</i>.<p><b>Étym</b>. ἀ, δᾴς.`

@@ -1,0 +1,1 @@
+lar[27313]=`<b>εως (ἡ) :<br>      1</b> expulsion du souffle, expiration, ARSTT. <i>Probl. 34, 8</i>.<br><b>      2</b> <i>fig</i>. défense contre une accusation, ARSTT. <i>Rhet. 1, 12, 8</i>.<p><b>Étym</b>. διωθέω.`

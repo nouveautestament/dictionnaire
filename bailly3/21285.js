@@ -1,0 +1,1 @@
+lar[21285]=`<b>γαλλ·ιαμβικός, ή, όν</b>, galliambique, qui concerne le mètre galliambe (<i>v</i>. γαλλίαμβος) HÉPH. <i>12, 5</i>.<p><b>Étym</b>. γαλλίαμβος.`

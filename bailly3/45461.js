@@ -1,0 +1,1 @@
+lar[45461]=`<b>ἡμι·κύαθος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> demi-cyathe, GAL. <i>13, 982</i> ; ARÉT. <i>Cur. m. acut. 2, 2</i>.<p><b>Étym</b>. ἡμι-, κ.`

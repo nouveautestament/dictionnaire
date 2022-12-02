@@ -1,0 +1,1 @@
+lar[41909]=`<b>εὔ·δμητος, ος, ον</b>, bien construit, OD. <i>20, 302</i> ; HÉS. <i>Sc. 242</i> ; A.RH. <i>1, 317</i>.<p>➳ <i>Épq. touj</i>. ἐΰδμητος, IL. <i>1, 448</i> ; OD. <i>22, 24, etc.</i> ; HÉS. A.RH. <i>ll. cc. Dor</i>. εὔδματος <font color="purple">[ᾱ]</font> PD. <i>P. 12, 3</i>.<p><b>Étym</b>. εὖ, δέμω.`

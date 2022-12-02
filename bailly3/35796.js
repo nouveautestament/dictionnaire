@@ -1,0 +1,1 @@
+lar[35796]=`<b>ἐξ·επᾴδω</b>, apaiser par des enchantements, charmer, PLAT. <i>Phæd. 77e ;</i> PLUT. <i>M. 384a ; pass</i>. se laisser calmer par des exhortations, SOPH. <i>O.C. 1194</i>.`

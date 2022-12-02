@@ -1,0 +1,1 @@
+lar[62880]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Marathon (<i>auj</i>. Marathónas), <i>village et dème attique sur la côte S.-E. de l’Attique,</i> OD. <i>7, 80</i> ; ESCHL. <i>Pers. 475</i> ; HDT. <i>1, 62 ; 6, 117, etc.</i> ; THC. <i>1, 18, etc.</i> ; DÉM. <i>172, 23, etc</i>.<p>➳ ἡ Μ. PD. <i>O. 13, 106</i>.<p><b>Étym</b>. <i>cf</i>. μαραθών.`

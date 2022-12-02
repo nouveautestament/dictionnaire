@@ -1,0 +1,1 @@
+lar[45704]=`<b>ῶν (αἱ)</b> les ἢ οἵη, <i>poème d’Hésiode dont chaque partie commençait par</i> ἢ οἵη, PAUS. <i>9, 31, 5</i> ; ATH. <i>428b</i>.`

@@ -1,0 +1,1 @@
+lar[57568]=`<b>κρανοποιέω-ῶ</b> <font color="purple">[ᾰ]</font> fabriquer des casques en parole, <i>càd</i>. ne parler que de casques, d’armures, <i>etc</i>. AR. <i>Ran. 1018</i>.<p><b>Étym</b>. κρανοποιός.`

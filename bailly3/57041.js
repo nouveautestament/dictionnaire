@@ -1,0 +1,1 @@
+lar[57041]=`<b>ων (τὰ)</b> fête de Korè <i>ou</i> Perséphonè, PLUT. <i>Dio. 56</i>.<p><b>Étym</b>. Κόρη.`

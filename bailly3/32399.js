@@ -1,0 +1,1 @@
+lar[32399]=`<b>ἐκ·χορδόω-ῶ</b>, faire vibrer les cordes d’une lyre, SOPATR. (ATH. <i>175c</i>).<p><b>Étym</b>. ἐκ, χορδή.`

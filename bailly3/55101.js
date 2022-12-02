@@ -1,0 +1,1 @@
+lar[55101]=`<b>κεφαλο·κρούστης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de tarentule qui mord à la tête, SCH.-NIC. <i>Th. 763</i>.<p><b>Étym</b>. κεφαλή, κρούω.`

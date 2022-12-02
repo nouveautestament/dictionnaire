@@ -1,0 +1,1 @@
+lar[77602]=`<b>ή, όν</b>, qui obéit volontiers, obéissant, ARSTT. <i>Nic. 1, 13, 18, etc</i>.<p><b>Étym</b>. πείθαρχος.`

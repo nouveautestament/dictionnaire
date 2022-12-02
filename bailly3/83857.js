@@ -1,0 +1,1 @@
+lar[83857]=`<b>προ·γηράσκω :<br>      1</b> vieillir avant, <i>gén</i>. HPC. <i>Aër. 284</i>.<br><b>      2</b> <i>abs</i>. vieillir avant le temps, LUC. <i>Rh. præc. 10, etc.</i> ; CLÉM. <i>228</i>.`

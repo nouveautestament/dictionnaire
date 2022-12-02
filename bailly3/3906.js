@@ -1,0 +1,1 @@
+lar[3906]=`faire une partie de plaisir au bord de la mer, PLUT. <i>M. 768b</i>.<p><b>Étym</b>. ἀκτή¹.`

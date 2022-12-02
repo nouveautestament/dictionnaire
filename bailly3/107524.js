@@ -1,0 +1,1 @@
+lar[107524]=`<b>χαλ·αργός, ός, όν</b> <font color="purple">[χᾱ]</font> aux pieds agiles : ἅμιλλαι, SOPH. <i>El. 861,</i> courses de chevaux aux sabots agiles.<p><b>Étym</b>. <i>dor. p</i>. *χηλαργός <i>de</i> χηλή, ἀργός.`

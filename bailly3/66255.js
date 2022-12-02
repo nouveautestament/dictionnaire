@@ -1,0 +1,1 @@
+lar[66255]=`<i>p. contr</i>. <b>μνῴτης, ου (ὁ)</b> serf <i>en Crète,</i> HERMON (ATH. <i>267c</i>).<p><b>Étym</b>. μνωΐα.`

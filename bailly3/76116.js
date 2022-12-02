@@ -1,0 +1,1 @@
+lar[76116]=`<b>παρα·πρεσβεία, ας (ἡ)</b> ambassade malhabile <i>ou</i> infidèle, DÉM. <i>515, 27</i>.`

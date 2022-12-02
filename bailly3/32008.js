@@ -1,0 +1,1 @@
+lar[32008]=`<b>ἐκ·ρινίζω</b>, chercher en flairant, LUC. <i>Philops. 22</i>.<p><b>Étym</b>. ἐκ, ῥίς.`

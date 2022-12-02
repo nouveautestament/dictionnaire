@@ -1,0 +1,1 @@
+lar[24888]=`<b>δια·κυνοφθαλμίζομαι</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) regarder en face avec l’impudence d’un chien, COM. (<i>Com. fr. 4, 633</i>).`

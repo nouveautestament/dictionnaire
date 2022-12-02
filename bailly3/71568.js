@@ -1,0 +1,1 @@
+lar[71568]=`<b>ὁμοιό·χρονος, ος, ον</b>, de même durée, de même mesure, DH. <i>Comp. 12</i>.<p><b>Étym</b>. ὅμ. χρόνος.`

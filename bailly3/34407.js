@@ -1,0 +1,1 @@
+lar[34407]=`<b>ἐν·ευδαιμονέω-ῶ</b>, être <i>ou</i> vivre heureux dans, THC. <i>2, 44</i> ; DS. <i>Exc. 601, 3</i>.`

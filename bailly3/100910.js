@@ -1,0 +1,1 @@
+lar[100910]=`<b>(οἱ)</b> les Trôades, <i>pple thrace,</i> PLUT. <i>Apophth. lac. 42</i>.`

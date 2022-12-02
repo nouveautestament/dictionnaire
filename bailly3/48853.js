@@ -1,0 +1,1 @@
+lar[48853]=`<b>ου (ὁ) :<br>      1</b> milan, <i>oiseau,</i> HDT. <i>2, 22</i> ; SOPH. <i>fr. 113, 890</i> ; AR. <i>Av. 502, etc.</i> ; PLAT. <i>Phæd. 82a ; etc.</i><br><b>      2</b> sorte de loup, OPP. <i>C. 3, 331</i>.`

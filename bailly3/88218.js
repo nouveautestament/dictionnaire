@@ -1,0 +1,1 @@
+lar[88218]=`<font color="darkgreen">(<i>seul. aux formes poét. suiv. : impér. ao. 2 pl</i>. ῥάσσατε, OD. <i>20, 150 ; pf. pass. 3 pl</i>. ἐρράδαται, OD. <i>20, 354 ; pl.q.pf. 3 pl</i>. ἐρράδατο, IL. <i>12, 431)</font> c</i>. ῥαίνω.`

@@ -1,0 +1,1 @@
+lar[54858]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> caroubier, <i>arbre,</i> GEOP. <i>11, 1</i>.<p><b>Étym</b>. <i>cf</i>. κερατεία, κερατία.`

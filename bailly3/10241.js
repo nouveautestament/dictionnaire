@@ -1,0 +1,1 @@
+lar[10241]=`<b>ἀντι·πέραιος, ος, ον</b>, situé en face, <i>particul</i>. de l’autre côté de la mer : τὰ ἀ. IL. <i>2, 635,</i> le bord opposé.<p>➳ <i>Fém</i>. -αια <font color="purple">[ᾰ <i>fin</i>.]</font>, A.RH. <i>2, 351</i> ; DP. <i>962</i>.<p><b>Étym</b>. ἀντίπερα.`

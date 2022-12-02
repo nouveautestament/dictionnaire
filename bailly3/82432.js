@@ -1,0 +1,1 @@
+lar[82432]=`<b>πολυ·σώματος, ος, ον</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> à plusieurs corps, PLUT. <i>M. 427b.</i><br><b>      2</b> au corps puissant, DS. <i>1, 26</i>.<p><b>Étym</b>. π. σῶμα.`

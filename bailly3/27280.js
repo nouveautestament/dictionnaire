@@ -1,0 +1,1 @@
+lar[27280]=`<b>ου (ὁ)</b> <i>c</i>. διωκτήρ, <i>d’où</i> persécuteur, NT. <i>1Tim. 1, 13</i> ; NAZ. <i>1, 584 Migne</i>.`

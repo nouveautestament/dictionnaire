@@ -1,0 +1,1 @@
+lar[143]=`<b>ου (ἡ)</b> Abolos, <i>fl. de Sicile,</i> PLUT. <i>Tim. 34 dout</i>.`

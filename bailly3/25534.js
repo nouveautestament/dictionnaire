@@ -1,0 +1,1 @@
+lar[25534]=`<b>οῦ (ὁ)</b> celui qui disperse, PHIL. <i>1, 89 et 171</i>.<p><b>Étym</b>. διασκεδάννυμι.`

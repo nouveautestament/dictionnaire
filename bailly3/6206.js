@@ -1,0 +1,1 @@
+lar[6206]=`<b>ἀμφι·κτίονες, ων (οἱ)</b> qui habitent autour, voisins, <i>en parl. de peuples,</i> PD. <i>P. 4, 66 ; 10, 8 ; N. 6, 40 ; I. 3, 26</i> ; HDT. <i>8, 104</i>.<p><b>Étym</b>. ἀ. *κτίω, <i>cf</i>. κτίζω.`

@@ -1,0 +1,1 @@
+lar[90221]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> habitant de la Sicanie (<i>v</i>. Σικανία), THC. <i>6, 2</i> ; CALL. <i>Dian. 57</i>.<p><b>Étym</b>. Σικανία.`

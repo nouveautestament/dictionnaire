@@ -1,0 +1,1 @@
+lar[54617]=`<b>ατος (τὸ)</b> <font color="purple">[λᾰ]</font> bruit d’une eau qui coule, OPP. <i>C. 4, 305</i>.<p><b>Étym</b>. κελαρύζω.`

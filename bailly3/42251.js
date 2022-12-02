@@ -1,0 +1,1 @@
+lar[42251]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> franchise, POLÉM. <i>Physiogn. 1, 6</i>.<p><b>Étym</b>. εὐ. λόγος.`

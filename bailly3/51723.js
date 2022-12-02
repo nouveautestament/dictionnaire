@@ -1,0 +1,1 @@
+lar[51723]=`<b>ῶνος (ὁ)</b> <font color="purple">[βᾰ]</font> machine à lancer des javelots <i>ou</i> bastion d’où on lance des javelots, PHIL. BYZ.<p><b>Étym</b>. <i>Math. vet. p. 92</i>.`

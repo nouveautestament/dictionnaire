@@ -1,0 +1,1 @@
+lar[33629]=`<font color="purple">[ῠ]</font> (<i>seul. prés</i>.) :<br><b>      1</b> produire un abcès purulent intérieur, <i>d’où au pass</i>. avoir un abcès purulent intérieur, HPC. <i>V.C. 898</i>.<br><b>      2</b> <i>intr. m. sign. pass</i>. ARÉT. <i>Caus. m. diut. 1, 14</i>.<p><b>Étym</b>. ἔμπυος.`

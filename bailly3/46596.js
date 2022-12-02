@@ -1,0 +1,1 @@
+lar[46596]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> prophétique, ORACL. (EUS. <i>P.E. 5, 16).</i><p><b>Étym</b>. θεμιτός, -ωδης.`

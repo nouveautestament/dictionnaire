@@ -1,0 +1,1 @@
+lar[44376]=`<b>ου (τὸ)</b> torture, TIMOSTRATOS <i>fr. 3</i>.`

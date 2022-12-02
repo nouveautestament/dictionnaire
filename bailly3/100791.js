@@ -1,0 +1,1 @@
+lar[100791]=`<b>τροχο·ειδής, ής, ές</b>, en forme de roue <i>ou</i> de cercle, circulaire, THGN. <i>7</i> ; HDT. <i>2, 170</i> ; ORACL. (HDT. <i>7, 140).</i><p><b>Étym</b>. τροχός, εἶδος.`

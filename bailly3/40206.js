@@ -1,0 +1,1 @@
+lar[40206]=`<b>ἐργο·διώκτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> surveillant de travaux, contremaître, SPT. <i>Ex. 3, 7 ; 1Esdr. 5, 56</i> ; PHIL. <i>2, 86</i>.<p><b>Étym</b>. ἔργον, διώκω.`

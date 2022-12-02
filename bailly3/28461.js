@@ -1,0 +1,1 @@
+lar[28461]=`<b>δυσ·έφοδος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à aborder, DS. <i>1, 57 au</i> <i>• Sup</i>. -ώτατος.<p><b>Étym</b>. δ. ἔφοδος.`

@@ -1,0 +1,1 @@
+lar[33838]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vraisemblablement, LUC. <i>V.H. 1, 2</i>.<p><b>Étym</b>. ἐναλήθης.`

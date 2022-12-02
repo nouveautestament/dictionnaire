@@ -1,0 +1,1 @@
+lar[64439]=`<b>(ὁ)</b> <i>c</i>. Μεσσάλας, PLUT. <i>Pomp. 54 ; au plur</i>. Μεσάλαι, PLUT. <i>Sol. c. Popl. 1</i>.`

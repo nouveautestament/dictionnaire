@@ -1,0 +1,1 @@
+lar[88590]=`<b>ῥινεγχυτέω-ῶ</b> <font color="purple">[ῑῠ]</font> injecter dans le nez, DIOSC. <i>2, 210</i>.<p><b>Étym</b>. ῥινεγχύτης.`

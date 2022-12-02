@@ -1,0 +1,1 @@
+lar[76846]=`<b>ή, όν</b>, propre à consoler, <i>d’où</i> à adoucir, à calmer, <i>en parl. de remèdes, avec le gén</i>. HPC. <i>Acut. 392, etc.</i> ; PHILONID. (ATH. <i>675e</i>).<p><b>Étym</b>. παρήγορος.`

@@ -1,0 +1,1 @@
+lar[82864]=`<b>ιδος</b> <font color="purple">[ῠῑῐδ]</font> <i>adj. f</i>. qui concerne le porphyre, ARSTD. <i>t. 2, 349</i>.<p><b>Étym</b>. <i>fém. de</i> πορφυρίτης.`

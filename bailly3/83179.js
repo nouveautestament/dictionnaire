@@ -1,0 +1,1 @@
+lar[83179]=`<b>α, ον</b> <font color="purple">[μᾰ]</font> <i>vb. de</i> πραγματεύομαι ARSTT. <i>Pol. 7, 14, 8, etc. ; au neutre,</i> ARSTT. <i>Top. 1, 14, 5, etc</i>.`

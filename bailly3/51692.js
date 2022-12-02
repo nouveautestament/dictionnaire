@@ -1,0 +1,1 @@
+lar[51692]=`<i>par apoc. et assimil. devant un</i> ρ <i>p</i>. κατά <i>dans</i> κάρ ῥα, IL. <i>20, 421</i> ; κὰρ ῥόον, IL. <i>12, 33</i>.`

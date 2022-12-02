@@ -1,0 +1,1 @@
+lar[94729]=`<b>συν·αναμαλάσσω</b> <font color="purple">[μᾰ]</font> pétrir ensemble, DIOSC. <i>Par. 2, 20</i>.`

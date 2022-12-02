@@ -1,0 +1,1 @@
+lar[64678]=`<b>οῦ (ὁ)</b> transvasement, GEOP. <i>7, 6</i>.<p><b>Étym</b>. μεταγγίζω.`

@@ -1,0 +1,1 @@
+lar[77657]=`<font color="purple">[ᾱ]</font> <i>adv</i>., comme un pirate, PHIL. <i>1, 664</i>.`

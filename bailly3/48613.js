@@ -1,0 +1,1 @@
+lar[48613]=`<b>ἱεροποιέω-ῶ :<br>   I</b> faire un sacrifice, célébrer une cérémonie religieuse, PLAT. <i>Lys. 207d ;</i> ANT. <i>146, 39</i> ; DÉM. <i>552, 2</i>.<br><b>   II</b> consacrer, <i>d’où</i> :<br><b>      1</b> sanctifier, CLÉM. <i>71</i>.<br><b>      2</b> diviniser, ARSTD. <i>t. 1, 191</i>.<p><b>Étym</b>. ἱεροποιός.`

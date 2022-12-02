@@ -1,0 +1,1 @@
+lar[40575]=`<b>ατος (τὸ)</b> appui, soutien, HPC. <i>Off. 749</i>.<p><b>Étym</b>. ἑρμάζω.`

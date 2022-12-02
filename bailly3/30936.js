@@ -1,0 +1,1 @@
+lar[30936]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Hékabè (Hécube) <i>femme de Priam,</i> IL. <i>6, 451, etc.</i> ; PLAT. <i>Ion 535b, etc. ; titre d’une tragédie d’Euripide</i>.<p>➳ <i>Dor</i>. Ἑκάβα, EUR. <i>Tr. 136</i> ; THCR. <i>Idyl. 15, 139</i>.`

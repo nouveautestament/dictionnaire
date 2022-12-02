@@ -1,0 +1,1 @@
+lar[48641]=`<b>ας (ἡ)</b> accomplissement d’un sacrifice <i>ou</i> d’une cérémonie religieuse, sacrifice, PLAT. <i>Leg. 774e ;</i> PLUT. <i>Alex. 2</i> ; HDN <i>3, 8, 7</i>.<p><b>Étym</b>. ἱερουργός.`

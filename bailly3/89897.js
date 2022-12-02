@@ -1,0 +1,1 @@
+lar[89897]=`<b>ου (ὁ)</b> Seuthès, <i>roi des Odryses en Thrace,</i> THC. <i>2, 97, 101 ; 4, 101</i> ; XÉN. <i>An. 7, 1, 5, etc</i>.<p>➳ <i>Voc</i>. Σεύθη, XÉN. <i>An. 7, 3, 26, etc</i>.`

@@ -1,0 +1,1 @@
+lar[22007]=`<b>ου (ὁ) :<br>      1</b> petite flûte phénicienne, sorte de fifre au son nasillard et plaintif, COM. (ATH. <i>174f</i>).<br><b>      2</b> air joué sur cette flûte, ATH. <i>618c</i>.`

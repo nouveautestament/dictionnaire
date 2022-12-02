@@ -1,0 +1,1 @@
+lar[88521]=`<b>η, ον</b> <font color="purple">[ῑγ]</font> le plus glacial, <i>d’où</i> le plus terrible, A.RH. <i>2, 215 ; sup. neutre adv</i>. ῥίγιστα, IL. <i>5, 873,</i> de la manière la plus terrible.<p><b>Étym</b>. <i>sup. dérivé de</i> ῥῖγος ; <i>cf</i>. ῥίγιον.`

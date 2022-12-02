@@ -1,0 +1,1 @@
+lar[39563]=`<b>οῦ (ὁ)</b> cérémonie de consécration, STR. <i>275</i>.<p><b>Étym</b>. ἐπιφημίζω.`

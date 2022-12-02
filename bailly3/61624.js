@@ -1,0 +1,1 @@
+lar[61624]=`<b>ητος (ἡ) :<br>      1</b> direction oblique, STR. <i>90</i> ; PLUT. <i>M. 906b, 907a.</i><br><b>      2</b> <i>fig</i>. ambiguïté, PLUT. <i>M. 409c</i>.<p><b>Étym</b>. λοξός.`

@@ -1,0 +1,1 @@
+lar[98361]=`<b>ου (ἡ)</b> térébinthe, <i>arbre qui donne la résine térébenthine,</i> TH. <i>H.P. 3, 2, 6, etc. ; cf</i>. τέρμινθος.`

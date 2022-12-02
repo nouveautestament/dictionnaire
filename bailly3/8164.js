@@ -1,0 +1,1 @@
+lar[8164]=`<b>ἀν·εδάφιστος, ος, ον</b> <font color="purple">[δᾰ]</font> non aplani, ARSTT. <i>Probl. 23, 29, 2</i>.<p><b>Étym</b>. ἀν-, ἐδαφίζω.`

@@ -1,0 +1,1 @@
+lar[57436]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> de jeune garçon, de jeune homme, ANTH. <i>6, 156</i>.`

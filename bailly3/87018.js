@@ -1,0 +1,1 @@
+lar[87018]=`<b>ατος (τὸ)</b> ce qu’on verse <i>ou</i> ce qui s’épanche au dehors, ARSTT. <i>P.A. 2, 1, 22</i>.<p><b>Étym</b>. προχέω.`

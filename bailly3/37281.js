@@ -1,0 +1,1 @@
+lar[37281]=`<i>adv</i>., avec exaltation <i>ou</i> orgueil, CHRYS. <i>6, 966</i>.<p><b>Étym</b>. ἐπηρμένος, <i>part. pf. pass. de</i> ἐπαίρω.`

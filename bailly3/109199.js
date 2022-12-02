@@ -1,0 +1,1 @@
+lar[109199]=`<b>χρυσο·κρόταλος, ος, ον</b> <font color="purple">[ῡᾰ]</font> aux crotales <i>ou</i> cliquettes d’or, ANTH. <i>5, 271</i>.<p><b>Étym</b>. χρ. κρόταλον.`

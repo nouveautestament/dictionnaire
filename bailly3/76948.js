@@ -1,0 +1,1 @@
+lar[76948]=`<b>ος, ον :<br>      1</b> qui accompagne à cheval, POL. <i>11, 18, 5</i>.<br><b>      2</b> <i>subst</i>. ὁ π. cheval de renfort, JUL. <i>Ep. 19, 388b, 31, 404c</i>.<p><b>Étym</b>. π. ἵππος.`

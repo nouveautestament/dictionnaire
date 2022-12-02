@@ -1,0 +1,1 @@
+lar[93119]=`<b>ακος (ὁ)</b> Styrax, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. <i>cf</i>. στύραξ¹, στύραξ².`

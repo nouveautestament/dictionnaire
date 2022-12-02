@@ -1,0 +1,1 @@
+lar[98806]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Teutaros, LYC. <i>56</i>.<p><b>Étym</b>. <i>v</i>. Τεύταρος.`

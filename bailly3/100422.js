@@ -1,0 +1,1 @@
+lar[100422]=`<i>adv</i>., très malheureusement, NAZ. <i>Carm. p. 12d</i>.`

@@ -1,0 +1,1 @@
+lar[15048]=`<font color="darkgreen">(<i>prés. et inf. ao</i>. -ίσαι)</font> <font color="purple">[πᾰ]</font><br><b>      1</b> accueillir avec empressement, ESCHL. <i>Sept. 243</i>.<br><b>      2</b> exiger impérieusement, ESCHL. <i>Eum. 983</i>.<p><b>Étym</b>. ἁρπαλέος.`

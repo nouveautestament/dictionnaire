@@ -1,0 +1,1 @@
+lar[49508]=`<b>(ἡ)</b> Is (<i>auj</i>. Hit) <i>v. de Babylonie,</i> HDT. <i>1, 179</i>.`

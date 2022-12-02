@@ -1,0 +1,1 @@
+lar[47068]=`<b>Θεστόρειος μάντις (ὁ)</b> le devin Kalkhas (Calchas) <i>fils de Thestôr,</i> SOPH. <i>Aj. 801</i>.`

@@ -1,0 +1,1 @@
+lar[87099]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῠᾰῑῐδ]</font> protectrice du Prytanée, <i>ép. d’Hestia,</i> HERMIAS (ATH. <i>149d</i>).<p><b>Étym</b>. πρυτανεῖον.`

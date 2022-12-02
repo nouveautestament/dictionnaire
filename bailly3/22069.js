@@ -1,0 +1,1 @@
+lar[22069]=`<b>ατος (τὸ)</b> glaucome, affection de l’œil dont le cristallin devient d’un bleu terne, ARSTT. <i>G.A. 5, 1, 28</i> ; MÉD.<p><b>Étym</b>. γλαυκόω.`

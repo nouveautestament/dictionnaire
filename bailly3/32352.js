@@ -1,0 +1,1 @@
+lar[32352]=`<b>ἐκ·φροντίζω</b>, songer à, méditer, imaginer, EUR. <i>I.T. 1323</i> ; AR. <i>Nub. 695</i> ; THC. <i>3, 45</i> ; PLUT. <i>M. 409b</i>.`

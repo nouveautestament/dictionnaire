@@ -1,0 +1,1 @@
+lar[67370]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Myrtilos :<br><b>      1</b> <i>fils de Zeus ou d’Hermès et cocher d’Œnomaos,</i> SOPH. <i>El. 508</i> ; EUR. <i>Or. 991, etc.</i><br><b>      2</b> <i>autres,</i> THC. <i>5, 19, 24, etc</i>.`

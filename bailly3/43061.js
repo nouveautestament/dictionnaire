@@ -1,0 +1,1 @@
+lar[43061]=`<b>ας (ἡ) :<br>      1</b> bienfaisance, LUC. <i>Im. 21</i> ; DL. <i>10, 10</i>.<br><b>      2</b> <i>au pl</i>. bienfaits, HIÉROCL. (STOB. <i>Fl. 84, 20, t. 3, p. 127, l. 6).</i><p><b>Étym</b>. εὐποιός.`

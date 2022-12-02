@@ -1,0 +1,1 @@
+lar[103853]=`<b>ὑπο·σπαδίας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> qui a l’ouverture du canal de l’urèthre trop petite, GAL. <i>2, 271, 396</i>.`

@@ -1,0 +1,1 @@
+lar[49654]=`<b>ἰσο·κόρυφος, ος, ον</b> <font color="purple">[ῑ̆ῠ]</font> aux sommets d’égale hauteur, DH. <i>3, 9</i>.<p><b>Étym</b>. ἴ. κορυφή.`

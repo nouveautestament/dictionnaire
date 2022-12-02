@@ -1,0 +1,1 @@
+lar[67403]=`<font color="purple">[ῠ]</font> <font color="darkgreen">(<i>f</i>. μυσαχθήσομαι, <i>ao</i>. ἐμυσάχθην, <i>pf. inus</i>.)</font> éprouver de l’horreur <i>ou</i> de l’aversion : ἐπί τινι, LUC. <i>Prom. 4,</i> pour qqe ch. ; τι, HPC. <i>477, 25</i> ; EUR. <i>Med. 1149</i> ; XÉN. <i>Cyr. 1, 3, 5,</i> avoir qqe ch. en horreur.<p><b>Étym</b>. μύσος.`

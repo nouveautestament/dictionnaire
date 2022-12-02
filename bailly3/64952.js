@@ -1,0 +1,1 @@
+lar[64952]=`<b>εως (ἡ)</b> transplantation, TH. <i>C.P. 1, 4, 2</i>.<p><b>Étym</b>. μεταίρω.`

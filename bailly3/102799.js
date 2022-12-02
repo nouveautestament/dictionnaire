@@ -1,0 +1,1 @@
+lar[102799]=`<b>ὑπερ·σοφιστεύω</b>, surpasser en subtilité de sophiste, PHILSTR. <i>V. soph. 2, 15</i>.`

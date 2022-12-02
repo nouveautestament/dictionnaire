@@ -1,0 +1,1 @@
+lar[85675]=`<b>προσ·επιθεάομαι-εῶμαι</b>, contempler en outre, LGN <i>30, 1</i>.`

@@ -1,0 +1,1 @@
+lar[32876]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> absorption, ARSTT. <i>Plant. 1, 1, 21</i>.<br><b>      2</b> attraction, ARÉT. <i>Caus. m. diut. 1, 10</i>.<p><b>Étym</b>. ἑλκύω.`

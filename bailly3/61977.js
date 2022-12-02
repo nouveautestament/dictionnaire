@@ -1,0 +1,1 @@
+lar[61977]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> qui joue de la lyre, HELLAD. (PHOT. <i>Bibl. p. 529, 37 Bekker).</i><p><b>Étym</b>. λυρίζω.`

@@ -1,0 +1,1 @@
+lar[12644]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰβ]</font><br><b>      1</b> jet du fond d’une coupe (<i>v</i>. ἀποκοτταβίζω) ATH. <i>667c.</i><br><b>      2</b> vomissement, HÉRODOTUS <i>p. 68, 22 Matthäi, 21 veterum et clarorum medicorum græcorum opuscula</i>.`

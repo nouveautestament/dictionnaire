@@ -1,0 +1,1 @@
+lar[96091]=`<b>συν·νυμφοστολέω-ῶ</b>, aider à parer la mariée et lui faire cortège, EUM. <i>438</i>.`

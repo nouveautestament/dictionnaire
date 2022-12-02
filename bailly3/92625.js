@@ -1,0 +1,1 @@
+lar[92625]=`<b>ου (ὁ)</b> Stilbônidès, <i>h</i>. AR. <i>Av. 139</i>.<p><b>Étym</b>. <i>patr. de</i> Στίλβων, <i>avec jeu de mots sur</i> στίλβω.`

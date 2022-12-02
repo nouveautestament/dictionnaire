@@ -1,0 +1,1 @@
+lar[27460]=`<b>ΐδος (ἡ)</b> <i>s.-e</i>. χώρα, le pays des Dolopes, A.RH. <i>1, 68</i>.<p><b>Étym</b>. Δόλοπες.`

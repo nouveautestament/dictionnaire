@@ -1,0 +1,1 @@
+lar[65600]=`<b>μηχανοποιέω-ῶ</b> <font color="purple">[ᾰ]</font> fabriquer des machines, HPC. <i>763a ; au pass</i>. HPC. <i>772a.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>765b</i>.<p><b>Étym</b>. μηχανοποιός.`

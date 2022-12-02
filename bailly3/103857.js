@@ -1,0 +1,1 @@
+lar[103857]=`<b>ὑπο·σπανίζω</b>, PHIL. <i>2, 64 ; 73, 105 ; d’ord</i>. ὑποσπανίζομαι <font color="purple">[ᾰ]</font> commencer à manquer de, <i>gén.</i> : βορᾶς, ESCHL. <i>Pers. 489,</i> de nourriture ; τί δ' ἐστὶ χρείας τῆσδ' ὑπεσπανισμένον ; SOPH. <i>Aj. 740,</i> qu’a-t-on négligé de ce qu’il fallait faire ?`

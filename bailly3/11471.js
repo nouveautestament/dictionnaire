@@ -1,0 +1,1 @@
+lar[11471]=`<b>ἀπ·αυθαδίζομαι</b> <font color="purple">[θᾱ]</font> être arrogant <i>ou</i> présomptueux, PLAT. <i>Ap. 37a</i>.`

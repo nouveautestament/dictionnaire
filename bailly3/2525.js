@@ -1,0 +1,1 @@
+lar[2525]=`<b>ή, όν</b> ensanglanté, EUR. <i>I.T. 630</i>.<p><b>Étym</b>. αἱμάσσω.`

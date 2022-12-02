@@ -1,0 +1,1 @@
+lar[39417]=`<b>εως (ἡ)</b> observation attentive, surveillance, SPT. <i>Sam. 1, 15, 23</i>.<p><b>Étym</b>. ἐπιτηρέω.`

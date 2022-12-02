@@ -1,0 +1,1 @@
+lar[10349]=`<b>εως (ἡ)</b> proposition contraire, HERMOG. <i>Rhet. 3, 109, 8</i>.<p><b>Étym</b>. ἀντιπροτείνω.`

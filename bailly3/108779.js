@@ -1,0 +1,1 @@
+lar[108779]=`<b>χορδο·πώλης, ου (ὁ)</b> marchand de cordes à boyau, CRITIAS (POLL. <i>7, 154).</i><p><b>Étym</b>. χ. πωλέω.`

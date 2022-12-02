@@ -1,0 +1,1 @@
+lar[52054]=`<b>ης (ἡ)</b> Kassandanè, <i>femme de Cyrus, mère de Cambyse,</i> HDT. <i>2, 1 ; 3, 2</i>.`

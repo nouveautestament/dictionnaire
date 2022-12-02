@@ -1,0 +1,1 @@
+lar[96649]=`<b>σύσ·σιτος, ος, ον</b> <font color="purple">[ῑ]</font> qui mange avec, HDT. <i>5, 24 ; subst</i>. ὁ σ. THGN. <i>309</i> ; AR. <i>Vesp. 557, etc.</i> ; XÉN. <i>Cyr. 8, 7, 14</i> ; PLAT. <i>Leg. 806e, Ep. 350c, etc</i>. convive, commensal.<p><b>Étym</b>. σύν, σῖτος.`

@@ -1,0 +1,1 @@
+lar[22634]=`<b>ου (ὁ)</b> sorte de crabe, DIPH. (ATH. <i>106d</i>).`

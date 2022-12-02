@@ -1,0 +1,1 @@
+lar[91321]=`<b>ατος (τὸ)</b> lambeau écorché <i>ou</i> arraché, ANTH. <i>5, 130, 248</i>.<p><b>Étym</b>. σκύλλω.`

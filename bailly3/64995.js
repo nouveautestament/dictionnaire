@@ -1,0 +1,1 @@
+lar[64995]=`<b>μετα·σχηματίζω</b> (<i>part. pf. pass</i>. μετεσχηματισμένος) <font color="purple">[μᾰ]</font> revêtir d’une autre forme, transformer, PLAT. <i>Leg. 903e ;</i> PLUT. <i>M. 426c ; au pass</i>. PLAT. <i>Leg. 906c</i>.`

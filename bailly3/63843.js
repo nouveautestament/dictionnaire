@@ -1,0 +1,1 @@
+lar[63843]=`<b>ος, ον</b>, de thon mariné ; τὰ μελάνδρυα, XÉNOCR. <i>Al. 73,</i> morceaux de thon mariné.<p><b>Étym</b>. μελάνδρυς.`

@@ -1,0 +1,1 @@
+lar[21825]=`<b>α (ὁ)</b> = <i>lat</i>. Geta, Géta, <i>empereur romain,</i> APP. HDN DC.`

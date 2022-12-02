@@ -1,0 +1,1 @@
+lar[88420]=`<b>η, ον</b> <font color="purple">[ῑ]</font> de Rhégium, THC. <i>4, 1 et 25</i> ; EL. <i>N.A. 5, 9, etc.</i> ; οἱ Ῥηγῖνοι, les habitants de Rhégium, HDT. <i>7, 171</i> ; THC. <i>4, 24, etc</i>.<p><b>Étym</b>. Ῥήγιον.`

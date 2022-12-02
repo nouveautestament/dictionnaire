@@ -1,0 +1,1 @@
+lar[23878]=`<b>ιδος</b>, <i>adj. f.</i> :<br><b>      1</b> couvert d’arbres, boisé, EUR. <i>H.f. 790</i>.<br><b>      2</b> qui convient aux arbres, ESCHL. <i>fr. 36</i>.<p><b>Étym</b>. δένδρον.`

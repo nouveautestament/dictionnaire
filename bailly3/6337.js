@@ -1,0 +1,1 @@
+lar[6337]=`<b>ἀμφί·πρυμνος, ος, ον</b>, à double proue, <i>càd</i>. à double gouvernail, SOPH. <i>fr. 135</i>.<p><b>Étym</b>. ἀ. πρύμνα.`

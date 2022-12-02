@@ -1,0 +1,1 @@
+lar[29617]=`<b>ος, ον</b>, peint à l’encaustique, MART. <i>4, 47</i> ; τὸ ἔγκαυστον, peinture à l’encaustique, PLIN. <i>H.N. 35, 40</i>.<p><b>Étym</b>. ἐγκαίω.`

@@ -1,0 +1,1 @@
+lar[11088]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font> prohibitif, PLUT. <i>M. 1038a</i>.`

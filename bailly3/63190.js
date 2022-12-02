@@ -1,0 +1,1 @@
+lar[63190]=`<b>      1</b> préparer le mets ματτύη, ATH. <i>663f.</i><br><b>      2</b> manger le mets ματτύη, ALEX. (ATH. <i>663f</i>).<p><b>Étym</b>. ματτύη.`

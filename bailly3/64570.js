@@ -1,0 +1,1 @@
+lar[64570]=`<b>μεσό·σφαιρον, ου (τὸ)</b> sphère <i>ou</i> boule de moyenne grandeur, M. RUBR. <i>65</i>.<p><b>Étym</b>. μ. σφαῖρα.`

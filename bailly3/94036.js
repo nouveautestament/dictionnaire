@@ -1,0 +1,1 @@
+lar[94036]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. συμπάθεια, HPC.<p><b>Étym</b>. συμπαθέω.`

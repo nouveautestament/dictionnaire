@@ -1,0 +1,1 @@
+lar[67531]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. μῶνυξ EUR. <i>I.A. 250</i>.`

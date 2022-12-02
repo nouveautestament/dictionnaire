@@ -1,0 +1,1 @@
+lar[57633]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> attache solide, GAL. <i>12, 232, etc.</i><br><b>      2</b> prise, capture, PROCL. <i>Ptol. p. 36, 3</i>.<p><b>Étym</b>. κρατέω.`

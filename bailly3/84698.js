@@ -1,0 +1,1 @@
+lar[84698]=`<b>ων (τὰ)</b> <font color="purple">[μᾰ]</font> <i>sorte de fête lacédémonienne,</i> SOSIB. (ATH. <i>674a</i>).<p><b>Étym</b>. πρόμαχος.`

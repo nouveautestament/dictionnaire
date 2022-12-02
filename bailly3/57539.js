@@ -1,0 +1,1 @@
+lar[57539]=`<b>η, ον</b>, <i>au</i> <i>• Sup</i>. -ότατος, rôti, grillé, desséché, AR. <i>Eq. 539</i>.`

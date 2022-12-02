@@ -1,0 +1,1 @@
+lar[76259]=`<b>παρα·στρατοπεδεύω</b> <font color="purple">[ᾰτ]</font> camper auprès de, <i>dat</i>. POL. <i>1, 88, 4, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. CHION. <i>Epist. 3</i>.`

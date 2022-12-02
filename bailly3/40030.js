@@ -1,0 +1,1 @@
+lar[40030]=`<b>ἑπτα·φαής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> à sept lumières, ORPH. <i>H. 6, 8</i>.<p><b>Étym</b>. ἑ. φάος.`

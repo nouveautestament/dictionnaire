@@ -1,0 +1,1 @@
+lar[55397]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> turban <i>ou</i> diadème <i>des rois d’Asie, particul. de Perse,</i> PHIL. <i>2, 155</i>.<br><b>      2</b> danse des Arcadiens, ATH. <i>631d</i>.<p><b>Étym</b>. <i>R. asiatique, cf</i>. κίταρις.`

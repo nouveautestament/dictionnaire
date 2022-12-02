@@ -1,0 +1,1 @@
+lar[62961]=`<b>ου (ὁ)</b> = <i>lat</i>. Marcellus, <i>n. d’h. rom</i>. PLUT. <i>Rom. 29, Mar. 1, etc</i>.`

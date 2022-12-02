@@ -1,0 +1,1 @@
+lar[98906]=`<b>όνος (ἡ) :<br>      1</b> liquéfaction, fusion, DS. <i>1, 39</i>.<br><b>      2</b> putréfaction, pourriture, PLAT. <i>Tim. 82e ; au pl</i>. T. LOCR. <i>102c.</i><br><b>      3</b> consomption, dépérissement, OD. <i>11, 201</i> ; APP. <i>Civ. 1, 107</i>.<br><b>      4</b> remède contre l’obésité, HPC. <i>665, 39</i>.<p><b>Étym</b>. τήκω.`

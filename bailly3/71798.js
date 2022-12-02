@@ -1,0 +1,1 @@
+lar[71798]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> section du cordon ombilical, PLAT. <i>Theæt. 149e</i>.<p><b>Étym</b>. ὀμφαλητόμος.`

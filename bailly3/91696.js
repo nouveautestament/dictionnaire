@@ -1,0 +1,1 @@
+lar[91696]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> dont la trame est serrée, ESCHL. <i>fr. 331</i> ; SOPH. (POLL. <i>7, 36</i>) ; DÉMOCR. (ATH. <i>525d</i>).<p><b>Étym</b>. <i>vb. de</i> σπαθάω.`

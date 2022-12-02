@@ -1,0 +1,1 @@
+lar[76842]=`<b>εως (ἡ)</b> secours, soulagement, MOSCHION <i>Mul. pass. 58</i>.<p><b>Étym</b>. παρηγορέω.`

@@ -1,0 +1,1 @@
+lar[50435]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> action d’établir, APD. POL. <i>18</i>.<p><b>Étym</b>. καθίζω.`

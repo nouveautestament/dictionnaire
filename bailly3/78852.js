@@ -1,0 +1,1 @@
+lar[78852]=`<b>περι·κυμαίνω</b> <font color="purple">[ῡ]</font> entourer de ses flots, ORPH. <i>H. 82, 3</i>.`

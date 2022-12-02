@@ -1,0 +1,1 @@
+lar[14627]=`<b>ιδος (ἡ)</b> <i>sorte de plante</i>, GAL. <i>2, 88b ;</i> PLIN. <i>H.N. 24, 94</i>.<p><b>Étym</b>. <i>cf</i>. ἄρον.`

@@ -1,0 +1,1 @@
+lar[68044]=`<b>νεκυ·ηγός, ός, όν</b>, qui conduit les morts, ANTH. <i>7, 68</i>.<p><b>Étym</b>. νέκυς, ἄγω.`

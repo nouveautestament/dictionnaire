@@ -1,0 +1,1 @@
+lar[80952]=`<b>πληθοποιέω-ῶ</b>, multiplier, <i>t. d’arithm</i>. JAMBL. <i>Protr. p. 378</i>.<p><b>Étym</b>. πληθοποιός.`

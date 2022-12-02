@@ -1,0 +1,1 @@
+lar[15849]=`<b>ἀσιγμο·ποιέω-ῶ</b>, faire un poème sans y employer de sigma, ATH. <i>455e</i>.<p><b>Étym</b>. ἄσιγμος, ποιέω.`

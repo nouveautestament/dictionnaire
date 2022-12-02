@@ -1,0 +1,1 @@
+lar[93486]=`<b>συγ·κοιμίζω</b>, faire coucher avec, <i>dat</i>. AR. <i>Av. 1734</i>.`

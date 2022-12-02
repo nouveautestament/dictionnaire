@@ -1,0 +1,1 @@
+lar[67584]=`<i>adv. barbarisme d’un Scythe pour</i> ναίχι, AR. <i>Th. 1183, 1218</i>.`

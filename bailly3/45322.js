@@ -1,0 +1,1 @@
+lar[45322]=`<b>εως (ἡ)</b> action de passer la journée, AQU. <i>Ps. 1, 2</i>.<p><b>Étym</b>. ἡμερεύω.`

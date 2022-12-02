@@ -1,0 +1,1 @@
+lar[109710]=`<b>ψευδ·όνειρος, ου (ὁ)</b> qui rêve des choses fausses, CHARIT. <i>3, 7</i>.`

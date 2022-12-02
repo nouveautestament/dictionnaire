@@ -1,0 +1,1 @@
+lar[19399]=`<b>ίδος (ἡ)</b> Baukis (Baucis) <i>f</i>. ERINN. ANTH.`

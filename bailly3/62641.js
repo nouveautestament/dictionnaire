@@ -1,0 +1,1 @@
+lar[62641]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>au phys</i>. mollesse, tendresse, ARSTT. <i>Meteor. 4, 4 ; au pl</i>. PLAT. <i>Crat. 432b.</i><br><b>      2</b> <i>au mor</i>. faiblesse, PLUT. <i>Oth. 9</i>.<p><b>Étym</b>. μαλακός.`

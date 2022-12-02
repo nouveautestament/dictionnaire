@@ -1,0 +1,1 @@
+lar[5246]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰρᾰ]</font> eau transportée par un conduit, NAZ. <i>2, 265 Migne</i>.<p><b>Étym</b>. ἀμαρεύω.`

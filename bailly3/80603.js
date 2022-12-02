@@ -1,0 +1,1 @@
+lar[80603]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. πλάδος, EMPÉD. <i>75 Diels</i>.`

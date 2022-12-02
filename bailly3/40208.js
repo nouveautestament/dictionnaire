@@ -1,0 +1,1 @@
+lar[40208]=`<b>ἐργο·δότης, ου (ὁ)</b> qui donne un travail à faire, qui donne leur tâche aux ouvriers, XÉN. <i>Cyr. 8, 2, 5</i> ; ARÉT. <i>Caus. m. diut. 1, 6</i>.<p><b>Étym</b>. ἔργον, δίδωμι.`

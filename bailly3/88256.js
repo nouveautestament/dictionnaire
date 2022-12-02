@@ -1,0 +1,1 @@
+lar[88256]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> déguenillé, DC. <i>65, 20</i>.<br><b>      2</b> ridé, ANTH. <i>5, 21</i> ; GAL. <i>11, 132</i>.<p><b>Étym</b>. ῥάκος, -ωδης.`

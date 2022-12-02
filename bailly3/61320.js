@@ -1,0 +1,1 @@
+lar[61320]=`<b>λιπο·γνώμων</b>, <i>mieux que</i> <b>λειπο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui ne marque pas, <i>càd</i>. qui a perdu ses dents et dont on ne peut connaître l’âge, <i>en parl. d’un cheval,</i> GRAMM. ; <i>p. anal. en parl. d’un homme,</i> LUC. <i>Lex. 6</i>.<p><b>Étym</b>. λείπω, γνώμη.`

@@ -1,0 +1,1 @@
+lar[88147]=`<b>ατος (τὸ)</b> callosité, HPC. <i>Fract. 770</i>.<p><b>Étym</b>. πωρόω.`

@@ -1,0 +1,1 @@
+lar[76028]=`<b>οῦ (τὸ)</b> sorte de collyre en poudre, HPC. <i>636, 26</i>.<p><b>Étym</b>. <i>vb. de</i> παραπάσσω.`

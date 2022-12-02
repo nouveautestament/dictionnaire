@@ -1,0 +1,1 @@
+lar[1406]=`<b>ἀ·δικαιοδότητος, ος, ον</b> <font color="purple">[ῐ]</font> où l’on ne peut obtenir justice, DS. <i>Exc. 616</i>.<p><b>Étym</b>. ἀ, δικαιοδοτέω.`

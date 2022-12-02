@@ -1,0 +1,1 @@
+lar[100377]=`<i>adv</i>., triplement, ARSTT. <i>Plant. 2, 7, 1</i>.<p><b>Étym</b>. τριπλόος.`

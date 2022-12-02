@@ -1,0 +1,1 @@
+lar[83799]=`<b>προ·βιόω-ῶ</b>, vivre auparavant, CLÉM. <i>580</i> ; τὰ προβεβιωμένα, POL. <i>11, 2, 9</i> ; PLUT. <i>M. 10b, 561a</i>, la vie antérieure.`

@@ -1,0 +1,1 @@
+lar[12434]=`<b>εως (ἡ)</b> <font color="purple">[ῡᾱ]</font> évaporation, PLUT. <i>M. 647f</i>.<p><b>Étym</b>. ἀποθυμιάω.`

@@ -1,0 +1,1 @@
+lar[59101]=`<b>κωδωνοφορέω-ῶ</b>, faire la ronde avec des clochettes, AR. <i>Av. 841</i> ; DC. <i>54, 4</i>.<br><b><i>Moy.</i></b> se faire accompagner de gens porteurs de cloches <i>ou</i> de trompettes, STR. <i>712</i>.<p><b>Étym</b>. κωδωνοφόρος.`

@@ -1,0 +1,1 @@
+lar[76124]=`<b>παρα·πταίω</b> (<i>part. pf</i>. παρεπταικώς) faire un faux pas, <i>fig</i>. faillir, errer, PLUT. <i>M. 909a</i>.`

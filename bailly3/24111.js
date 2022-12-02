@@ -1,0 +1,1 @@
+lar[24111]=`<b>Δηϊ·δάμεια, ας (ἡ)</b> <font color="purple">[ῐδᾰ]</font> Dèïdameia, <i>f</i>. BION <i>2, 22</i> ; Q. SM. <i>7, 184</i> ; PLUT. <i>Thes. 30 ; etc</i>.<p>➳ <i>Ion</i>. -είη, Q. SM. <i>7, 249</i>.<p><b>Étym</b>. δήϊος, δάμνημι.`

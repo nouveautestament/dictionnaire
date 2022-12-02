@@ -1,0 +1,1 @@
+lar[71706]=`<b>ὁμό·ταφος, ος, ον</b> <font color="purple">[ᾰ]</font> déposé dans la même tombe, ESCHN. <i>20 fin</i> ; τινος, PLUT. <i>M. 359b</i>, que qqn.<p><b>Étym</b>. ὁμ. θάπτω.`

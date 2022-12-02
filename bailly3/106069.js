@@ -1,0 +1,1 @@
+lar[106069]=`<b>φιλ·όρτυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῐῠγ]</font> qui aime les cailles, PLAT. <i>Lys. 212d</i>.`

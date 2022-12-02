@@ -1,0 +1,1 @@
+lar[55839]=`<b>Κλεινό·δημος, ου (ὁ)</b> Kleinodèmos, <i>h</i>. PLUT. <i>Glor. Ath. 1</i>.<p><b>Étym</b>. κλ. δῆμος.`

@@ -1,0 +1,1 @@
+lar[91343]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> ἄσκυρον <i>ou</i> ἄκυρον, NIC. <i>Th. 74</i>.`

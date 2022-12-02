@@ -1,0 +1,1 @@
+lar[109815]=`<b>ας (ἡ)</b> action d’apporter son vote, ARSTT. <i>Pol. 2, 8, 5 ; Rhet. Al. 39, 16 ; d’où en gén</i>. vote, DH. <i>4, 20 ; 7, 59</i> ; PLUT. <i>Cor. 20, etc.,</i> αἱ ὑπατικαὶ ψ. PLUT. <i>Marc. 4,</i> votes aux comices consulaires.<p><b>Étym</b>. ψηφοφόρος, <i>cf</i>. ψηφηφορία.`

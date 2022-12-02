@@ -1,0 +1,1 @@
+lar[72689]=`<b>ὀρθο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font> marcher le corps droit <i>ou</i> droit devant soi, ANTH. <i>9, 11</i>.<p><b>Étym</b>. ὀ. βατός.`

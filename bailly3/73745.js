@@ -1,0 +1,1 @@
+lar[73745]=`<b>ῶν (οἱ)</b> les Usipes, <i>pple de Germanie,</i> PLUT. <i>Cæs. 22</i>.`

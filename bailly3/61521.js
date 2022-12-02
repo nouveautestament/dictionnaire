@@ -1,0 +1,1 @@
+lar[61521]=`<b>λογο·θήρας, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui va à la chasse des mots, PHIL. <i>3, 685</i>.<p><b>Étym</b>. λ. θηράω.`

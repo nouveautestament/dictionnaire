@@ -1,0 +1,1 @@
+lar[22970]=`<b>ή, όν :<br>      1</b> possédé d’un dieu, PLUT. <i>M. 862f ; t. eccl</i>. possédé du démon, CLÉM. <i>2, 320b Migne</i>.<br><b>      2</b> envoyé <i>ou</i> inspiré par un dieu, <i>en parl. de choses,</i> PLUT. <i>M. 363a, 996d, etc</i>.<p><b>Étym</b>. δαίμων.`

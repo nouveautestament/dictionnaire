@@ -1,0 +1,1 @@
+lar[44632]=`<b>ου (ὁ)</b> <font color="purple">[ῠῑ]</font> <i>c</i>. ζευγίτης, DÉM. <i>43, 54 dout</i>.<p><b>Étym</b>. ζυγόν.`

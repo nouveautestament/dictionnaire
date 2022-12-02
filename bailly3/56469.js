@@ -1,0 +1,1 @@
+lar[56469]=`<b>κοινο·βούλιον, ου (τὸ) :<br>      1</b> assemblée générale, conseil, POL. <i>28, 16, 1</i> ; STR. <i>385</i>.<br><b>      2</b> place de l’assemblée, APP. <i>Civ. 1, 51</i>.<p><b>Étym</b>. κοινός, βουλή.`

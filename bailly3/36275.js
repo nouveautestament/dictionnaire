@@ -1,0 +1,1 @@
+lar[36275]=`<b>ἐξ·υπειπεῖν</b> <font color="purple">[ῠ]</font> ordonner : τινί τι, EUR. <i>Bacch. 1266,</i> qqe ch. à qqn.`

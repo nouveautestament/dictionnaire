@@ -1,0 +1,1 @@
+lar[64330]=`<b>μενε·φύλοπις, ιος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> qui attend le combat de pied ferme, ANTH. <i>6, 84</i>.<p><b>Étym</b>. μ. φύλοπις.`

@@ -1,0 +1,1 @@
+lar[20830]=`<b>ου (ὁ) :<br>      1</b> trachée-artère, HPC. <i>Aph. 1257</i> ; ARSTT. <i>Probl. 11, 11</i>.<br><b>      2</b> gorgée, ARR. <i>Epict. 3, 12, 17</i>.`

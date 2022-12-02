@@ -1,0 +1,1 @@
+lar[34470]=`<b>ἐν·ημερεύω</b>, passer la journée dans, <i>dat</i>. DS. <i>17, 70</i>.`

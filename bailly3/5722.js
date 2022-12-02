@@ -1,0 +1,1 @@
+lar[5722]=`<b>άδος</b> <font color="purple">[ᾰμᾰδ]</font> <i>adj. f.</i> : ἀ. χλαῖνα, OD. <i>14, 521,</i> manteau de rechange.<p><b>Étym</b>. ἀμοιβή.`

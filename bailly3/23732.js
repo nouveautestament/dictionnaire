@@ -1,0 +1,1 @@
+lar[23732]=`<b>δεκά·χιλοι, αι, α</b> <font color="purple">[ᾰῑ]</font> dix mille, IL. <i>5, 860 ; 14, 148, etc</i>.<p><b>Étym</b>. δ. χίλιοι.`

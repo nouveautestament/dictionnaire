@@ -1,0 +1,1 @@
+lar[13598]=`<b>εως (ἡ)</b> fonte (de neige) STR. <i>291</i>.<p><b>Étym</b>. ἀποτήκω.`

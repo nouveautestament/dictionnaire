@@ -1,0 +1,1 @@
+lar[65105]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> passage d’un corps dans un autre, CLÉM. <i>757</i>.<p><b>Étym</b>. μετενσωματόω.`

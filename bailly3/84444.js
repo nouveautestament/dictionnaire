@@ -1,0 +1,1 @@
+lar[84444]=`<b>προ·καταβάλλω</b>, jeter à bas <i>ou</i> renverser auparavant, PHIL. <i>1, 320, etc.</i><br><b><i>Moy.</i></b> jeter d’avance les fondements de, fonder d’avance, <i>acc</i>. DC. <i>43, 49</i>.`

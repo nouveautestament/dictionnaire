@@ -1,0 +1,1 @@
+lar[78464]=`<b>περι·βραχιόνιος, ος, ον</b> <font color="purple">[ᾰχῑ]</font> qui entoure le bras, PLUT. <i>Dem. 30</i> ; τὸ περιβραχιόνιον, XÉN. <i>Cyr. 6, 1, 51 ; 6, 4, 2</i> ; DH. <i>10, 37,</i> bracelet.<p><b>Étym</b>. π. βραχίων.`

@@ -1,0 +1,1 @@
+lar[3152]=`<b>ας (ἡ)</b> stérilité, ESCHL. <i>Eum. 801</i> ; HPC. <i>378, 491</i> ; ARSTT. <i>Mir. 122, 2, etc</i>.<p>➳ <i>Ion</i>. -ίη <font color="purple">[ῑ]</font> SIB. <i>4, 73</i>.<p><b>Étym</b>. ἄκαρπος.`

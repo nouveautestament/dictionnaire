@@ -1,0 +1,1 @@
+lar[105308]=`<b>ιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f. c</i>. Φθιῶτις, HDT. <i>1, 56</i>.`

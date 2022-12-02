@@ -1,0 +1,1 @@
+lar[63610]=`<b>μεθ·ιζάνω</b>, déplacer, <i>acc</i>. ARÉT. <i>Cur. m. acut. 2, 4</i>.`

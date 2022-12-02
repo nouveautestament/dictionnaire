@@ -1,0 +1,1 @@
+lar[38314]=`<b>ἐπι·λιπής, ής, ές</b> <font color="purple">[ῐπ]</font> un peu gras, ORIB. <i>p. 114 Cocch</i>.<p><b>Étym</b>. ἐπί, λίπος.`

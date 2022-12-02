@@ -1,0 +1,1 @@
+lar[44862]=`<b>ῆρος (ὁ)</b> adolescent, ANTH. <i>6, 76</i> ; COL. <i>71</i>.<p><b>Étym</b>. ἡβάω.`

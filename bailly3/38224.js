@@ -1,0 +1,1 @@
+lar[38224]=`<b>ἐπι·κυματίζω</b> <font color="purple">[ῡᾰ]</font> se soutenir sur les flots, nager sur, EL. <i>Ep. rust. 18</i> ; PHIL. <i>1, 445, 553 ; 2, 300</i>.`

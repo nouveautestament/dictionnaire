@@ -1,0 +1,1 @@
+lar[93674]=`<b>σύ·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> <i>c</i>. σύζυγος, EUR. <i>Alc. 921</i> ; PLAT. <i>Phædr. 254a ;</i> ISOCR. <i>Antid. § 182</i>.`

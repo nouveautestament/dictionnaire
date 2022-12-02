@@ -1,0 +1,1 @@
+lar[58149]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> froid, HDT. <i>4, 28</i> ; SOPH. <i>fr. 448</i> ; ANTH. <i>6, 252 ; d’où</i> la saison du froid, HDT. <i>4, 8 ; au plur</i>. STR. <i>494, etc.</i><br><b>      2</b> froid de la fièvre, frisson, DIOSC. <i>3, 60</i>.<p><b>Étym</b>. <i>cf</i>. κρύος.`

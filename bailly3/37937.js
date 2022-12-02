@@ -1,0 +1,1 @@
+lar[37937]=`<b>ἐπι·καταπλάσσω</b>, appliquer un cataplasme sur, <i>dat</i>. HPC. <i>Fract. 767</i>.`

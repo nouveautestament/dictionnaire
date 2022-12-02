@@ -1,0 +1,1 @@
+lar[1490]=`<b>ατος (τὸ)</b> action déshonorante, PLUT. <i>M. 977e</i>.<p><b>Étym</b>. ἀδοξέω.`

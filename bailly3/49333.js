@@ -1,0 +1,1 @@
+lar[49333]=`<b>ῶν (οἱ)</b> les Hippothoontides, descendants d’Hippothoôn, DÉM. <i>60, 31 Baiter-Sauppe</i>.<p>➳ <i>Anc. att</i>. Ἱπποθωντίδης ; <i>v. Meisterh. p. 17, 6, note 101</i>.<p><b>Étym</b>. Ἱπποθόων.`

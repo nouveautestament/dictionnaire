@@ -1,0 +1,1 @@
+lar[84210]=`<b>προ·εξιλεόομαι-εοῦμαι</b> <font color="purple">[ῑ]</font> se rendre qqn propice, SOSTRAT. (STOB. <i>Fl. 64, 35</i>).`

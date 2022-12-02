@@ -1,0 +1,1 @@
+lar[60484]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. Lesbienne, IL. <i>9, 271</i>.<p><b>Étym</b>. Λέσβος.`

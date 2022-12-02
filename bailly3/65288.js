@@ -1,0 +1,1 @@
+lar[65288]=`<b>ης (ἡ)</b> Mèdèsigistè, <i>f</i>. Ps.-PLUT. <i>Fluv. 12, 3</i>.`

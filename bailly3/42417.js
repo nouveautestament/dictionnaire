@@ -1,0 +1,1 @@
+lar[42417]=`<b>εὐ·κερματέω-ῶ</b> <font color="purple">[ᾰ]</font> être riche en monnaie, EUB. (PHOT. <i>v°</i> εὐκερματεῖν).<p><b>Étym</b>. εὖ, κέρμα.`

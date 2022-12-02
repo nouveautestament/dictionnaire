@@ -1,0 +1,1 @@
+lar[85329]=`<b>προσ·αφοσιόω-ῶ</b>, dévouer, consacrer en outre, EUM. <i>p. 194</i>.`

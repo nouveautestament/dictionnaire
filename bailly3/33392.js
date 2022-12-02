@@ -1,0 +1,1 @@
+lar[33392]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> approche, SEXT. <i>467, 10 ; 565, 22 Bkk</i>.<p><b>Étym</b>. ἐμπελάζω.`

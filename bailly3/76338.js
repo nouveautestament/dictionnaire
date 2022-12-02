@@ -1,0 +1,1 @@
+lar[76338]=`<b>παρ·ατμίζω</b>, exposer de tous côtés à la vapeur de, <i>dat</i>. GEOP. <i>11, 18, 13</i>.`

@@ -1,0 +1,1 @@
+lar[54775]=`<b>ή, όν :<br>      1</b> propre à vider, qui vide, EL. <i>N.A. 14, 4</i>.<br><b>      2</b> qui fait évacuer, qui purge, GAL. <i>19, 206</i>.<p><b>Étym</b>. κενόω.`

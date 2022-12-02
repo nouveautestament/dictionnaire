@@ -1,0 +1,1 @@
+lar[46307]=`<b>ων (τὰ)</b> les Thargélies, <i>fête d’Apollon et d’Artémis,</i> HIPPON. (ATH. <i>570a</i>) ; ARCHIL. (HSCH.) ; DÉM. <i>518, 1</i>.<p><b>Étym</b>. <i>loi</i>.`

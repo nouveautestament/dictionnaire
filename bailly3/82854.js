@@ -1,0 +1,1 @@
+lar[82854]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne la pêche <i>ou</i> les pêcheurs de coquillages à pourpre, EUR. <i>I.T. 263</i>.<p><b>Étym</b>. πορφυρεύω.`

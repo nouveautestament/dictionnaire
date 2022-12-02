@@ -1,0 +1,1 @@
+lar[61353]=`<b>λιπό·ρρινος, ος, ον</b> <font color="purple">[ῐῑ]</font> qui a la peau grasse <i>ou</i> luisante, NIC. <i>Al. 550</i>.<p><b>Étym</b>. λίπος, ῥινός.`

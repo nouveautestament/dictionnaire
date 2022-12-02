@@ -1,0 +1,1 @@
+lar[90854]=`<b>ας (ἡ) :<br>      1</b> port du sceptre, <i>d’où</i> commandement militaire, ESCHL. <i>Pers. 297 ; p. ext</i>. pouvoir, autorité, LYC. <i>111</i> ; ANTH. <i>App. 357</i>.<br><b>      2</b> charge <i>ou</i> dignité de porte-sceptre <i>chez les Perses,</i> STR. <i>498</i>.<p><b>Étym</b>. σκηπτοῦχος.`

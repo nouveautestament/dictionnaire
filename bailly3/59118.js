@@ -1,0 +1,1 @@
+lar[59118]=`<b>ίδος</b> <font color="purple">[ῡῐδ]</font> <i>adj. f</i>. du Cocyte, OPP. <i>H. 3, 487</i>.<p><b>Étym</b>. Κώκυτος.`

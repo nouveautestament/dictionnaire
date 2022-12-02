@@ -1,0 +1,1 @@
+lar[2965]=`<b>ας (ἡ)</b> recherche <i>ou</i> exposition des causes, STR. <i>1, 3, 4 ; 17, 3, 10 Kram.</i> ; DYSC. <i>Conj. 498, 7 ; etc</i>.<p><b>Étym</b>. <i>cf</i>. αἰτιολογέω.`

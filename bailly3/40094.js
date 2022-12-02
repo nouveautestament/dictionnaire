@@ -1,0 +1,1 @@
+lar[40094]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> surnom (<i>lat</i>. cognomen) POL. <i>5, 21, 7, etc.</i> ; DH. <i>5, 25</i>.<br><b>      2</b> prénom (<i>lat</i>. adnomen) PLUT. <i>1, 406 c et d</i> ; DC. <i>72, 22</i>.<br><b>      3</b> nom donné par suite de qqe particularité (<i>v</i>. ἐπώνυμος).<p><b>Étym</b>. <i>neutre de</i> ἐπώνυμος.`

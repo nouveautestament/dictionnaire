@@ -1,0 +1,1 @@
+lar[3194]=`<b>ἀ·κατάλυτος, ος, ον</b> <font color="purple">[ῠ]</font> indissoluble, DH. <i>10, 31</i> ; NT. <i>Hebr. 7, 16</i>.<p><b>Étym</b>. ἀ, καταλύω.`

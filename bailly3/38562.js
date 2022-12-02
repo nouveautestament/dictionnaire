@@ -1,0 +1,1 @@
+lar[38562]=`<b>ἐπι·νωτίζω</b>, placer sur le dos de, <i>dat</i>. EUR. <i>H.f. 362</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PAUS. (EUST. <i>1282, 55</i>).`

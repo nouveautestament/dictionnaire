@@ -1,0 +1,1 @@
+lar[94259]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> travail d’imagination, fiction, NYSS.<p><b>Étym</b>. συμπλάσσω.`

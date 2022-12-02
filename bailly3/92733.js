@@ -1,0 +1,1 @@
+lar[92733]=`<b>στομαχέω-ῶ</b> <font color="purple">[ᾰ]</font> être dégoûté, NYSS. <i>1, 788a</i>.`

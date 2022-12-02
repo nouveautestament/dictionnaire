@@ -1,0 +1,1 @@
+lar[35580]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀραίωσις, ARÉT. <i>Caus. m. acut. 2, 2</i>.`

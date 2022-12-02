@@ -1,0 +1,1 @@
+lar[76083]=`<b>παρα·πληρόω-ῶ</b>, compléter, ARSTT. <i>Mech. 1, 5, etc</i>.`

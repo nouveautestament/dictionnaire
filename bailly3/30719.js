@@ -1,0 +1,1 @@
+lar[30719]=`<b>*εἰσγραφή</b>, <i>anc. att</i>. <b>ἐσγραφή, ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> inscription, DC. <i>59, 2</i>.<p><b>Étym</b>. εἰσγράφω.`

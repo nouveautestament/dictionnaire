@@ -1,0 +1,1 @@
+lar[55877]=`<b>Κλειτ·ώνυμος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Kleitônymos, <i>h</i>. ANTH. <i>7, 388, etc</i>.<p><b>Étym</b>. κλ. ὄνομα.`

@@ -1,0 +1,1 @@
+lar[47292]=`<b>θηριό·μορφος, ος, ον</b>, qui a la forme d’une bête sauvage, PROCL. <i>Ptol. p. 278, 28 ; 281, 26</i>.<p><b>Étym</b>. θ. μορφή.`

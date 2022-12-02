@@ -1,0 +1,1 @@
+lar[79561]=`<b>περι·υλακτέω-ῶ</b> <font color="purple">[ῠ]</font> aboyer autour de, <i>acc</i>. A. TAT. <i>2, 29</i>.`

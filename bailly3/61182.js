@@ -1,0 +1,1 @@
+lar[61182]=`<b>λιμνο·σώματος, ος, ον</b> <font color="purple">[ᾰ]</font> dont le corps, <i>càd</i>. la chair sent le marécage, EUB. (ATH. <i>300c</i>).<p><b>Étym</b>. λ. σῶμα.`

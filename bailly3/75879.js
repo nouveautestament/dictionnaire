@@ -1,0 +1,1 @@
+lar[75879]=`<b>ητος (ἡ)</b> parallélisme, <i>d’où</i> analogie, similitude, DYSC. <i>Adv. (Bkk. 550, 27</i>) ; <i>Synt. p. 318, 22</i>.<p><b>Étym</b>. παράλληλος.`

@@ -1,0 +1,1 @@
+lar[83772]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne le soin des brebis : κύων, PHILSTR. <i>278</i> ; LGS <i>3, 7,</i> chien de berger ; ἡ προβατευτική (<i>avec et sans</i> τέχνη) XÉN. <i>Œc. 5, 3,</i> l’art d’élever <i>ou</i> de garder les brebis.<p><b>Étym</b>. προβατεύω.`

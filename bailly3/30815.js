@@ -1,0 +1,1 @@
+lar[30815]=`<b>*εἰσ·μαίομαι</b> <font color="darkgreen">(<i>seul. ao. épq. 3 sg.,</i> ἐσεμάσσατο)</font> atteindre profondément, causer une grande peine à, <i>acc</i>. IL. <i>20, 425 ; avec un double acc</i>. IL. <i>17, 564</i>.`

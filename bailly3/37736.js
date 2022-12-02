@@ -1,0 +1,1 @@
+lar[37736]=`<b>Ἐπι·ζεφύριος, ος, ον</b> <font color="purple">[ῠ]</font> situé près du promontoire Zéphyrion, <i>au sud de l’Italie,</i> PD. <i>O. 10, 15</i> ; HDT. <i>6, 23</i> ; THC. <i>7, 1, etc</i>.<p><b>Étym</b>. ἐπί, Ζεφύριον.`

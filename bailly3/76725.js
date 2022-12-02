@@ -1,0 +1,1 @@
+lar[76725]=`<font color="purple">[ᾰγ]</font> conduire à travers, HDT. <i>4, 158</i>.<p><b>Étym</b>. <i>corr</i>. παρῆγον.`

@@ -1,0 +1,1 @@
+lar[45450]=`<b>ἡμι·κλήριον, ου (τὸ)</b> demi-héritage, IS. <i>64, 2</i> ; DÉM. <i>1173, 6 ; pléon</i>. τοῦ κλήρου τὸ ἡμ. IS. <i>86, 18,</i> la moitié de l’héritage.<p><b>Étym</b>. ἡμι-, κλῆρος.`

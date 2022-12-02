@@ -1,0 +1,1 @@
+lar[17316]=`<i>seul. ion</i>. <b>αὐταγρεσίη, ης (ἡ)</b> choix volontaire, CALL. <i>fr. 120</i>.<p><b>Étym</b>. αὐτάγρετος.`

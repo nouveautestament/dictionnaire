@@ -1,0 +1,1 @@
+lar[90016]=`<b>*σησαμό·φωκτος</b>, <i>dor</i>. <b>σασαμό·φωκτος, ος, ον</b> <font color="purple">[ᾰ]</font> rôti avec aspersion de sésame, PHILOX. <i>3, 607 Bgk</i>.<p><b>Étym</b>. σήσαμον, φώγω.`

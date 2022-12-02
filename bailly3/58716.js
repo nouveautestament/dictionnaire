@@ -1,0 +1,1 @@
+lar[58716]=`<b>κυν·άγχη, ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> collier de chien, ANTH. <i>6, 34, 35</i>.<br><b>      2</b> <i>t. de méd</i>. esquinancie, HPC. <i>V. med. 16, etc</i>.<p><b>Étym</b>. κύων, ἄγχω.`

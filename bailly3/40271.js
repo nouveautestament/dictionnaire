@@ -1,0 +1,1 @@
+lar[40271]=`<b>ῶν (οἱ)</b> <i>p.-ê</i>. querelleurs et chicaneurs, THCR. <i>Idyl. 15, 50</i>.<p><b>Étym</b>. <i>sens et leç. dout</i>.`

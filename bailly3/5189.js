@@ -1,0 +1,1 @@
+lar[5189]=`<b>ἀμαλλο·δέτης, ου (ὁ)</b> <font color="purple">[ᾰμ]</font> <i>c</i>. ἀμαλλοδετήρ THCR. <i>Idyl. 10, 44</i> ; ANTH. <i>10, 16</i>.`

@@ -1,0 +1,1 @@
+lar[73675]=`<b>οὐρανο·στεγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui recouvre le ciel, ESCHL. <i>fr. 298 Dind</i>.<p><b>Étym</b>. οὐρ. στέγω.`

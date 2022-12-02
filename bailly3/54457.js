@@ -1,0 +1,1 @@
+lar[54457]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. κέδρινος, NIC. <i>Al. 488</i>.`

@@ -1,0 +1,1 @@
+lar[83479]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> prédiction, ARSTT. <i>Poet. 15, 10</i> ; PLUT. <i>Syll. 7</i>.<br><b>      2</b> proclamation, APP. <i>Civ. 1, 26</i>.<p><b>Étym</b>. προαγορεύω.`

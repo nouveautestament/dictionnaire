@@ -1,0 +1,1 @@
+lar[409]=`<b>ος, ον</b> <font color="purple">[γᾰ]</font> disposé par relais : ἄγγαρον πῦρ, ESCHL. <i>Ag. 282,</i> signaux de feu de distance en distance.<p><b>Étym</b>. ἄγγαρος¹.`

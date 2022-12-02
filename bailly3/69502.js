@@ -1,0 +1,1 @@
+lar[69502]=`<b>ξενο·φόνος, ος, ον</b>, qui tue des étrangers, EUR. <i>I.T. 776</i> ; PLAT. <i>Ep. 336d</i>.<p>➳ <i>Ion</i>. ξεινοφόνος, NONN. <i>D. 9, 41</i>.<p><b>Étym</b>. ξ. πεφνεῖν.`

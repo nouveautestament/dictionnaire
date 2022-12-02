@@ -1,0 +1,1 @@
+lar[92604]=`<b>στιγματη·φορέω-ῶ</b> <font color="purple">[ᾰ]</font> porter des marques de tatouage, LUC. <i>Syr. 59</i>.<p><b>Étym</b>. στίγμα, -φορος <i>de</i> φέρω.`

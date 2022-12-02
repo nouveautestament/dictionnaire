@@ -1,0 +1,1 @@
+lar[27012]=`<i>suff. marquant une idée de mouvement, comme</i> -δε : <i>v</i>. ἄλλυδις, οἴκαδίς, <i>etc</i>.`

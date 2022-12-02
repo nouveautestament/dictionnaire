@@ -1,0 +1,1 @@
+lar[89154]=`<b>Σαλα·βακχώ, οῦς (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Salabakkhô, <i>f</i>. AR. <i>Eq. 765, Th. 805</i>.<p><b>Étym</b>. σαλεύω, βάκχος.`

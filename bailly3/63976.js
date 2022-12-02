@@ -1,0 +1,1 @@
+lar[63976]=`<b>ου (ὁ)</b> <font color="purple">[ᾰγ]</font> Mélèsagoras, <i>h</i>. ANTH. <i>7, 500</i>.`

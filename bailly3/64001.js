@@ -1,0 +1,1 @@
+lar[64001]=`<b>μελί·γλωσσος, ος, ον</b>, à la langue de miel, à la douce parole, ESCHL. <i>Pr. 172</i> ; BACCHYL. <i>3, 97 ; fr. 4, 63</i> ; AR. <i>Av. 908</i>.<p><b>Étym</b>. μ. γλῶσσα.`

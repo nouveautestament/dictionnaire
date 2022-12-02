@@ -1,0 +1,1 @@
+lar[18213]=`<font color="purple">[ᾱᾰ]</font> <i>adv</i>., follement, IL. <i>3, 436 ; 12, 62 ; 23, 320, 426</i>.<p><b>Étym</b>. ἀφραδής.`

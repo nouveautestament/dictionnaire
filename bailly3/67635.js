@@ -1,0 +1,1 @@
+lar[67635]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. νᾶπυ, NIC. <i>Al. 430</i>.`

@@ -1,0 +1,1 @@
+lar[84183]=`<b>προ·εξαμαρτάνω</b> <font color="purple">[ᾰμ]</font> commettre une faute auparavant, ISOCR. <i>75b ;</i> τι εἴς τινα, ISOCR. <i>123c</i>, commettre une faute à l’égard de qqn.`

@@ -1,0 +1,1 @@
+lar[34417]=`<b>ἐν·ευρίσκω</b>, trouver dans, <i>dat</i>. JOS. <i>B.J. 5, 13, 5</i>.`

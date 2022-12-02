@@ -1,0 +1,1 @@
+lar[9795]=`<b>ἀντι·γεραίρω</b>, honorer en retour, APP. <i>Civ. 2, 140</i>.`

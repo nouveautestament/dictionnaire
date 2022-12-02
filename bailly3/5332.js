@@ -1,0 +1,1 @@
+lar[5332]=`<b>ῆρος (ὁ)</b> qui émousse, Anon. <i>de vir. herb. 65</i>.<p><b>Étym</b>. ἀμβλύνω.`

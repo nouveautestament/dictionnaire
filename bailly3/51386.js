@@ -1,0 +1,1 @@
+lar[51386]=`<b>ῆνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> sorte de poisson, ANTH. <i>11, 20</i>.<br><b>      2</b> poisson, <i>en gén</i>. EMPÉD. <i>334b ;</i> PLUT. <i>M. 685f</i>.`

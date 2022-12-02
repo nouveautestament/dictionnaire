@@ -1,0 +1,1 @@
+lar[108449]=`<b>χιλιό·ναυς, εως (ὁ, ἡ)</b> <font color="purple">[χῑ]</font> formé de mille vaisseaux, EUR. <i>Or. 352, Andr. 106, I.A. 174</i>.<p><b>Étym</b>. χ. ναῦς.`

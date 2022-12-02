@@ -1,0 +1,1 @@
+lar[106212]=`<b>φιλό·ψογος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à blâmer, EUR. <i>Ph. 198, El. 904</i> ; PLAT. <i>Prot. 346c</i>.<p><b>Étym</b>. φ. ψέγω.`

@@ -1,0 +1,1 @@
+lar[105867]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> amour des richesses, cupidité, BAS. <i>1, 496d</i>.<p><b>Étym</b>. φιλοκτήμων.`

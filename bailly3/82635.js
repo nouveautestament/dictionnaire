@@ -1,0 +1,1 @@
+lar[82635]=`<b>ῶν (οἱ) :<br>      1</b> les partisans de Pompée, les Pompéiens, PLUT. <i>Luc. 42</i>.<br><b>      2</b> les habitants de Pompeï, PLUT. <i>Syll. 21</i>.<p><b>Étym</b>. Πομπήϊοι <i>et</i> Πομπήϊος.`

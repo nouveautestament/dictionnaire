@@ -1,0 +1,1 @@
+lar[1035]=`<b>ἀγχέ·μαχος, ος, ον :<br>      1</b> qui combat de près, brave, IL. <i>13, 5</i> ; HÉS. <i>Sc. 25</i>.<br><b>      2</b> qui sert à combattre de près : ἀγχ. ὅπλα, XÉN. <i>Cyr. 1, 2, 13,</i> armes pour combattre de près.<p><b>Étym</b>. ἄγχι, μάχομαι.`

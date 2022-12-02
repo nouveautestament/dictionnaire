@@ -1,0 +1,1 @@
+lar[109549]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Psamathè :<br><b>      1</b> <i>Néréide,</i> HÉS. <i>Th. 260</i>.<br><b>      2</b> <i>autres,</i> HÉS. <i>Th. 1004, etc</i>.`

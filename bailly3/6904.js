@@ -1,0 +1,1 @@
+lar[6904]=`<b>ἀνά·καρ</b>, <i>adv</i>., en remontant, GAL.<p><b>Étym</b>. ἀνά, κάρα.`

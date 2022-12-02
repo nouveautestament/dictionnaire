@@ -1,0 +1,1 @@
+lar[88506]=`prononcer un arrêt, juger, <i>acc</i>. LYC. <i>1400</i>.<p><b>Étym</b>. ῥήτρα.`

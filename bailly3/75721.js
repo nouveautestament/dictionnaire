@@ -1,0 +1,1 @@
+lar[75721]=`<b>παρα·κερδαίνω</b>, gagner plus qu’on ne le doit <i>ou</i> plus que d’autres, NAZ. <i>2, 572 Migne</i>.`

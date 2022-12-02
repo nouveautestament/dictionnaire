@@ -1,0 +1,1 @@
+lar[99022]=`<b>ατος (τὸ)</b> observation grammaticale, DYSC. <i>Synt. p. 143</i>.<p><b>Étym</b>. τηρέω.`

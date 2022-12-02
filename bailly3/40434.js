@@ -1,0 +1,1 @@
+lar[40434]=`<b>ἐρί·θαλλος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. ἐριθηλής, SIM. <i>fr. 54 Bgk</i>.`

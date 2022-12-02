@@ -1,0 +1,1 @@
+lar[47470]=`<b>θολο·ειδής, ής, ές</b>, en forme de coupole, arrondi, TH. <i>H.P. 3, 9, 6</i> ; ATH. <i>205c ;</i> DC. <i>53, 27</i>.<p><b>Étym</b>. θόλος, εἶδος.`

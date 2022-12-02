@@ -1,0 +1,1 @@
+lar[44382]=`<b>ζά·κορος</b> <i>ou</i> <b>ζα·κόρος, ου (ὁ, ἡ)</b> sorte de prêtre subalterne, préposé au service d’un temple, mais avec un rang plus élevé que le νεωκόρος, MÉN. (<i>Com. fr. 4, 105</i>) ; <i>avec un gén</i>. ζ. θεῶν, PLUT. <i>Cam. 30</i> ; ζ. Ἀφροδίτης, HYPÉR. (ATH. <i>590e</i>) prêtre des dieux, d’Aphrodite.<p><b>Étym</b>. <i>incert</i>.`

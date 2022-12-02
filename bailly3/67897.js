@@ -1,0 +1,1 @@
+lar[67897]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en jeune homme, LUC. <i>H. conscr. 50</i>.<p>•<i> Cp</i>. νεαρωτέρως, ISOCR. <i>280c</i>.<p><b>Étym</b>. νεαρός.`

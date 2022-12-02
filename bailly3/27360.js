@@ -1,0 +1,1 @@
+lar[27360]=`<b>δοιδυκο·φοβά (ἡ)</b> <font color="purple">[ῡ]</font> qui redoute le bruit du pilon, <i>ép. de la goutte,</i> LUC. <i>Trag. 200</i>.<p><b>Étym</b>. δοίδυξ, φόβος.`

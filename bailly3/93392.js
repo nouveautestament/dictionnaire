@@ -1,0 +1,1 @@
+lar[93392]=`<b>συγ·καταχώννυμι</b> <font color="purple">[ῡ]</font> enfouir ensemble sous des décombres, GEOP. <i>1, 6, 3</i>.`

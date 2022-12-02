@@ -1,0 +1,1 @@
+lar[102588]=`<b>ὑπερ·κατάληκτος, ος, ον</b>, hypercatalectique, qui a une syllabe de trop à la fin, <i>t. de métr</i>. HÉPH. <i>p. 25</i>.<p><b>Étym</b>. ὑ. καταλήγω.`

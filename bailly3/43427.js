@@ -1,0 +1,1 @@
+lar[43427]=`<b>εὐ·σκάνδιξ</b>, <i>gén</i>. <b>ικος (ὁ, ἡ)</b> <font color="purple">[ῑκ]</font> abondant en cerfeuil, ANTH. <i>9, 318</i>.<p><b>Étym</b>. εὖ, σκάνδιξ.`

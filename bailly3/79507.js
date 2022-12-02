@@ -1,0 +1,1 @@
+lar[79507]=`<b>περί·τρανος, ος, ον</b> <font color="purple">[ᾱ]</font> qui a le son très clair, très net, PLUT. <i>M. 4b ;</i> SYN. <i>15b, etc</i>.`

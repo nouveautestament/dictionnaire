@@ -1,0 +1,1 @@
+lar[62587]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> objet d’éloignement <i>ou</i> de répulsion, SPT. <i>2Esdr. 9, 1 et 11</i>.<p><b>Étym</b>. μακρύνω.`

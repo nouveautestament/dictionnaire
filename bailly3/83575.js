@@ -1,0 +1,1 @@
+lar[83575]=`<b>προ·αναστέλλω</b>, contenir <i>ou</i> réprimer d’avance, <i>acc</i>. PLUT. <i>Per. 15</i>.`

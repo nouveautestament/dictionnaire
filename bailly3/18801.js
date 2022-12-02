@@ -1,0 +1,1 @@
+lar[18801]=`<b>βαθύ·ρροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> au courant profond, <i>en parl. de l’Océan,</i> IL. <i>7, 422, etc.</i> ; OD. <i>11, 13, etc. ; d’un fleuve,</i> IL. <i>21, 8</i> ; SOPH. <i>Tr. 559 ; fig. en parl. du temps,</i> au cours rapide, SYN. <i>Hymn. 9, 61</i>.<p><b>Étym</b>. β. ῥέω.`

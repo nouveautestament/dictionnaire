@@ -1,0 +1,1 @@
+lar[96571]=`<b>ας (ἡ)</b> <i>anc. att</i>. <b>ξύρροια</b>, action de couler ensemble, <i>d’où</i> :<br><b>      1</b> confluent, POL. <i>2, 32, 2</i>.<br><b>      2</b> écoulement de divers points en un même endroit, HPC. (A. TR. <i>1, 102c</i>) ; ARÉT. <i>p. 127, 39</i>.<p>➳ <i>Ion</i>. ξυρροίη, ARÉT. <i>l. c</i>.<p><b>Étym</b>. σύρροος.`

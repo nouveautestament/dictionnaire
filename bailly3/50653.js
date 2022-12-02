@@ -1,0 +1,1 @@
+lar[50653]=`<b>κακιζό·τεχνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui trouve toujours à blâmer, qui n’est jamais content de son œuvre, PAUS. <i>1, 26, 7</i>.<p><b>Étym</b>. κακίζω, τέχνη.`

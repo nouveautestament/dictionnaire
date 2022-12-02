@@ -1,0 +1,1 @@
+lar[41338]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> sujet à la migraine, ANTYLL. (ORIB. <i>2, 425, 2 B.-Dar</i>.).<p><b>Étym</b>. ἑτεροκρανία.`

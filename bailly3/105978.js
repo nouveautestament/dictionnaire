@@ -1,0 +1,1 @@
+lar[105978]=`<b>φιλο·παθής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui s’émeut volontiers, sensible, PHIL. <i>1, 62, 106, 155, 338, 397</i>.<p><b>Étym</b>. φ. πάθος.`

@@ -1,0 +1,1 @@
+lar[5008]=`<i>seul. prés. act</i>. HPC. <i>8, 30 Littré (vulg</i>. ἀλύει, <i>592, 36), et pf. pass. épq</i>. ἀλαλύκτημαι, IL. <i>10, 94, c</i>. ἀλυκτάζω.`

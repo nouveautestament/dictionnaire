@@ -1,0 +1,1 @@
+lar[66824]=`<b>ατος (τὸ)</b> rouleau <i>ou</i> tampon de charpie, HPC. <i>1194f</i>.<p><b>Étym</b>. μοτόω.`

@@ -1,0 +1,1 @@
+lar[63584]=`<b>εως (ἡ)</b> participation, PLAT. <i>Soph. 256a, etc. ; au plur</i>. ARSTT. <i>Pol. 3, 5, 6 ; t. de log</i>. κατὰ μέθεξιν, ARSTT. <i>Top. 5, 4, 7,</i> par compréhension, comme étant compris <i>ou</i> contenu dans un tout.<p><b>Étym</b>. μετέχω.`

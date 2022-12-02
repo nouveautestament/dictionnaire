@@ -1,0 +1,1 @@
+lar[70986]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., en peu d’endroits, PLAT. <i>Charm. 160c ;</i> ARSTT. <i>Rhet. 3, 5</i>.<p><b>Étym</b>. ὀλ. -αχου.`

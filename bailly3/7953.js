@@ -1,0 +1,1 @@
+lar[7953]=`<b>ῆρος (ὁ)</b> qui rafraîchit, EUR. <i>Andr. fr. 26, 3</i>.<p><b>Étym</b>. ἀναψύχω.`

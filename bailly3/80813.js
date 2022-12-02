@@ -1,0 +1,1 @@
+lar[80813]=`<b>α, ον</b>, de la longueur <i>ou</i> de l’étendue d’un arpent, XÉN. <i>Cyr. 7, 5, 11, etc.</i> ; PLAT. <i>Criti. 116a ;</i> STR. <i>755</i>.<p><b>Étym</b>. πλέθρον.`

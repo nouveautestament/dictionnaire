@@ -1,0 +1,1 @@
+lar[56730]=`<b>ης, ες :<br>      1</b> qui a beaucoup de golfes, de baies, EUR. <i>I.A. 120</i> ; DC. <i>48, 50</i>.<br><b>      2</b> sinueux, POL. <i>4, 44, 7, etc.</i><br><b>      3</b> <i>fig. en parl. du style,</i> prolixe, DH. <i>Dem. 18</i>.<p><b>Étym</b>. κόλπος, -ωδης.`

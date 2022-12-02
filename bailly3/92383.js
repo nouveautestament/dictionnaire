@@ -1,0 +1,1 @@
+lar[92383]=`<b>στενό·χωρος, ος, ον</b>, qui occupe peu de place, étroit, HPC. <i>589, 19</i>.<p><b>Étym</b>. στ. χώρα.`

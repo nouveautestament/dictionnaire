@@ -1,0 +1,1 @@
+lar[79266]=`<b>περι·σκεπάζω</b>, couvrir tout autour, entièrement, TH. <i>H.P. 4, 5, 3</i> ; ANTH. <i>5, 104</i>.`

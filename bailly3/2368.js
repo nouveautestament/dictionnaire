@@ -1,0 +1,1 @@
+lar[2368]=`<b>ου (τὸ) :<br>      1</b> parties honteuses, HDT. <i>2, 30 et 48 ; au pl</i>. IL. <i>13, 568</i> ; HÉS. <i>O. 731, etc. ; en parl. de la femme,</i> HDT. <i>1, 108, etc.</i><br><b>      2</b> τὸ αἰδ. θαλάσσιον, NIC. (ATH. <i>105c</i>) priape de mer, <i>animal marin</i>.<p><b>Étym</b>. αἰδοῖος.`

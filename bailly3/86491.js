@@ -1,0 +1,1 @@
+lar[86491]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> peine arbitraire ajoutée à la peine légale, DÉM. <i>700, 16</i>.<p><b>Étym</b>. προστιμάω.`

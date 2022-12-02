@@ -1,0 +1,1 @@
+lar[64513]=`<b>μεσό·γραφος, ος, ον</b> <font color="purple">[ᾰ]</font> dessiné au milieu : μ. γραμμή, PLUT. <i>Marc. 14,</i> ligne moyenne proportionnelle ; τὸ μεσόγραφον, ANTH. <i>App. 25, 11, m. sign</i>.<p><b>Étym</b>. μέσος, γράφω.`

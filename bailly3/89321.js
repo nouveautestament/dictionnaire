@@ -1,0 +1,1 @@
+lar[89321]=`<b>ου</b>, <i>adj. m. c</i>. σάννας, RHINTHON (HSCH.).`

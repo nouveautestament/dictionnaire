@@ -1,0 +1,1 @@
+lar[76412]=`<b>παρα·φορέω-ῶ</b>, apporter devant, <i>dat</i>. AR. <i>Eq. 1215 ; au pass</i>. HDT. <i>1, 133</i>.<br><b><i>Moy.</i></b> apporter pour soi, amasser, PLAT. <i>Leg. 858b</i>.<p>➳ <i>Prés. pass. 3 sg. ion</i>. παραφορέεται, HDT. <i>l. c</i>.`

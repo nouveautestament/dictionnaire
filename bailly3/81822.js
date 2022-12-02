@@ -1,0 +1,1 @@
+lar[81822]=`<b>πολυ·δάκρυος, ος, ον</b> <font color="purple">[ῠῠ]</font> qui fait verser des larmes abondantes, IL. <i>17, 192</i> ; TYRT. <i>8, 7</i> ; EUR. <i>H.f. 426</i> ; A.RH. <i>2, 916</i>.<p><b>Étym</b>. <i>cf</i>. πολύδακρυς.`

@@ -1,0 +1,1 @@
+lar[35034]=`<i>adv</i>., en activité, en action, PLAT. <i>Leg. 905e</i>.<p><b>Étym</b>. <i>cf</i>. ἐντελεχής ; <i>mauv. leç. p</i>. ἐνδελεχῶς.`

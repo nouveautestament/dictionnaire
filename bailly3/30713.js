@@ -1,0 +1,1 @@
+lar[30713]=`<b>εἰσ·βδάλλω</b> (<i>inf. prés</i>.) sucer en pénétrant dans, GAL. <i>4, 374</i>.`

@@ -1,0 +1,1 @@
+lar[91453]=`<b>σμηκτὶς γῆ (ἡ)</b> terre qui a la propriété de nettoyer, HPC. <i>667, 1</i>.<p><b>Étym</b>. σμήχω.`

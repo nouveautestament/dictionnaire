@@ -1,0 +1,1 @@
+lar[78300]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui vient d’au delà, <i>particul</i>. d’outre-mer, M. RUBR. <i>p. 6, 7</i>.<p><b>Étym</b>. πέρατος.`

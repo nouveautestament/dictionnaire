@@ -1,0 +1,1 @@
+lar[11739]=`<b>ἀπ·έρδω</b> (<i>part. ao. plur</i>. ἀπέρξαντες) accomplir, HDT. <i>4, 62</i>.<p><b>Étym</b>. ἀπό, ἔρδω.`

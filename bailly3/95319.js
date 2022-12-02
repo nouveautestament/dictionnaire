@@ -1,0 +1,1 @@
+lar[95319]=`<b>συν·εισπλέω</b>, entrer ensemble <i>ou</i> en même temps dans un port, XÉN. <i>Hell. 1, 6, 16</i>.`

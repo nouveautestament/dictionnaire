@@ -1,0 +1,1 @@
+lar[86834]=`<b>προ·ϋγιαίνω</b> <font color="purple">[ῠ]</font> être en bonne santé auparavant, HPC. <i>1, 166 Lind</i>.`

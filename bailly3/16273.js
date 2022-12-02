@@ -1,0 +1,1 @@
+lar[16273]=`<b>ου (ὁ)</b> Astræos :<br><b>      1</b> <i>h</i>. HÉS. NONN. <i>etc.</i><br><b>      2</b> <i>fl. de Thrace,</i> EL. ; <i>de Mysie,</i> PLUT.`

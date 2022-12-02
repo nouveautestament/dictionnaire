@@ -1,0 +1,1 @@
+lar[82916]=`<b>Ποσειδωνο·πετής, ής, ές</b>, envoyé par Poséidon, <i>propr</i>. « tombé de Poséidon », ŒNOM. (EUS. <i>P.E. 234b</i>).<p><b>Étym</b>. Ποσειδῶν, πίπτω.`

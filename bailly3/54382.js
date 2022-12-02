@@ -1,0 +1,1 @@
+lar[54382]=`<b>ηκος (ὁ) :<br>      1</b> caillou du bord <i>ou</i> du fond de l’eau, GAL. <i>13, 288, 289</i> ; STR. <i>182, etc.</i><br><b>      2</b> <i>p. ext</i>. sable mêlé de cailloux du bord de l’eau, THC. <i>4, 26</i>.`

@@ -1,0 +1,1 @@
+lar[76102]=`<b>παρ·αποδύομαι</b>, <i>en parl. d’athlètes,</i> se déshabiller à côté de ses adversaires pour lutter avec eux, PLAT. <i>Theæt. 162b</i>.`

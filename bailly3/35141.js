@@ -1,0 +1,1 @@
+lar[35141]=`<b>ἐν·τροχάζω</b>, tourner en cercle, faire le manège, <i>en parl. d’un cheval,</i> HIPPIATR. <i>p. 111, 6</i>.`

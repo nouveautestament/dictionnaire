@@ -1,0 +1,1 @@
+lar[50682]=`<font color="darkgreen">(<i>seul. part. ao</i>. κακοβουληθεῖσα)</font> être mal inspiré, EUR. <i>Ion 877 dout</i>.<p><b>Étym</b>. κακόβουλος.`

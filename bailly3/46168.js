@@ -1,0 +1,1 @@
+lar[46168]=`<b>θαλασσο·νόμος, ος, ον</b> <font color="purple">[θᾰ]</font> qui vit (<i>propr</i>. qui paît) dans la mer, EMPÉD. <i>300 Mullach</i> ; NONN. <i>D. 37, 265</i>.<p><b>Étym</b>. θ. νέμω.`

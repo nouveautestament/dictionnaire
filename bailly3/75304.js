@@ -1,0 +1,1 @@
+lar[75304]=`<b>πάν·τρομος, ος, ον</b>, tout tremblant, ESCHL. <i>Sept. 294</i>.<p><b>Étym</b>. π. τρέμω.`

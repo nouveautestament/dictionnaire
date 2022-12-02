@@ -1,0 +1,1 @@
+lar[21261]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Galènè :<br><b>      1</b> <i>Néréïde,</i> HÉS. <i>Th. 244</i> ; ANACR. <i>56</i> ; ANTH. <i>7, 668, etc.</i><br><b>      2</b> <i>autres,</i> PAUS. ATH.<p>➳ <i>Acc. pl</i>. Γαλήνας, PHILÉT. (ATH. <i>587f</i>).`

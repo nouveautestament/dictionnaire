@@ -1,0 +1,1 @@
+lar[29567]=`<b>εως (ἡ)</b> irruption <i>ou</i> atteinte d’un mal, DIOSC. <i>7, 4</i>.<p><b>Étym</b>. ἐγκατασκήπτω.`

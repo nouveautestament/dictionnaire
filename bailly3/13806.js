@@ -1,0 +1,1 @@
+lar[13806]=`<b>ἀπο·χρήματος, ος, ον</b> <font color="purple">[μᾰ]</font> qui enlève la fortune, ruineux, ESCHL. <i>Ch. 275</i>.<p><b>Étym</b>. ἀπό, χρῆμα.`

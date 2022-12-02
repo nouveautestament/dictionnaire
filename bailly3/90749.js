@@ -1,0 +1,1 @@
+lar[90749]=`<i>ou</i> <b>σχενδύλιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> pince à double dent pour arracher les clous, tenailles, HÉRON <i>Bel. 123</i>.<p><b>Étym</b>. <i>dim. de</i> σχενδύλη.`

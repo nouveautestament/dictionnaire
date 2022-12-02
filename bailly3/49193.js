@@ -1,0 +1,1 @@
+lar[49193]=`<b>ἰόω-ἰῶ</b> <font color="purple">[ῑ]</font> couvrir de rouille, <i>d’où au pass</i>. se couvrir de rouille, ARSTT. <i>Col. 3, 8</i> ; TH. <i>Char. 10</i> ; DIOSC. <i>5, 89, etc</i>.<p><b>Étym</b>. ἰός.`

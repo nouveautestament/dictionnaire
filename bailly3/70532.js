@@ -1,0 +1,1 @@
+lar[70532]=`<b>οἰνο·κάχλη, ης (ἡ)</b> femme excitée par le vin, THPP. COM. (POLL. <i>2, 18).</i><p><b>Étym</b>. οἶν. καχλάζω.`

@@ -1,0 +1,1 @@
+lar[101436]=`<b>ὑγρο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> à l’humide tunique, NONN. <i>D. 23, 112, 311</i>.<p><b>Étym</b>. ὑ. χιτών.`

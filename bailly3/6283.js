@@ -1,0 +1,1 @@
+lar[6283]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Amphios, <i>h</i>. IL. <i>2, 830 ; 5, 612</i>.`

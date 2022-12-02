@@ -1,0 +1,1 @@
+lar[61400]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> <i>lacon. c</i>. ἀγαθός, AR. <i>Lys. 1171</i>.`

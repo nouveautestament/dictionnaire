@@ -1,0 +1,1 @@
+lar[106092]=`<i>vb. de</i> φιλοσοφέω, PLAT. <i>Euthyd. 288d ;</i> ISOCR. <i>Antid. § 304</i> ; LUC. <i>Herm. 45</i> ; ATH. <i>632b</i>.`

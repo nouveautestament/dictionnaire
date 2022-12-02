@@ -1,0 +1,1 @@
+lar[34682]=`<b>ἐννα·ετής, ής, ές</b>, <i>ou</i> <b>ἐννα·έτης, ης, ες</b>, qui dure neuf ans, de neuf ans, THCR. <i>Idyl. 26, 29</i> ; ἐννάετες, <i>adv</i>., pendant neuf ans, HÉS. <i>Th. 801</i>.<p><b>Étym</b>. ἐννέα, ἔτος.`

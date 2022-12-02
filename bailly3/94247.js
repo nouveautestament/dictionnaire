@@ -1,0 +1,1 @@
+lar[94247]=`<b>συμ·πιλόω-ῶ</b> <font color="purple">[ῑ]</font> <i>c</i>. συμπιλέω, DIOSC. <i>1, 6</i>.`

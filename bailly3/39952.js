@@ -1,0 +1,1 @@
+lar[39952]=`<b>ἑπτά·δυμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui fait partie d’un ensemble de sept enfants, ARSTT. (STR. <i>695).</i><p><b>Étym</b>. <i>formé p. anal. avec</i> δίδυμος.`

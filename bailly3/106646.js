@@ -1,0 +1,1 @@
+lar[106646]=`<b>φονόω-ῶ</b>, souiller de sang, OPP. <i>C. 4, 192</i>.<p><b>Étym</b>. φόνος.`

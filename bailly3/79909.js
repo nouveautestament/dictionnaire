@@ -1,0 +1,1 @@
+lar[79909]=`<b>ου (ὁ)</b> Pierre :<br><b>      1</b> <i>un des douze apôtres</i> NT. <i>Matth. 4, 18, etc.</i><br><b>      2</b> <i>rhéteur,</i> ANTH. <i>7, 579</i>.`

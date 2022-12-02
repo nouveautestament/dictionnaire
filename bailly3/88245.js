@@ -1,0 +1,1 @@
+lar[88245]=`<font color="purple">[ᾰ]</font> <i>c</i>. ῥαχίζω, PLAT. COM. <i>2-2, 695 Mein</i>.`

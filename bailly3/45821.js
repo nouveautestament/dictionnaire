@@ -1,0 +1,1 @@
+lar[45821]=`<b>ἠρ·άνθεμον, ου (τὸ)</b> sorte d’anthémis, <i>fleur,</i> DIOSC. <i>3, 154</i>.<p><b>Étym</b>. ἦρ, ἄνθεμον.`

@@ -1,0 +1,1 @@
+lar[59411]=`<b>λαγοθηρέω-ῶ</b> <font color="purple">[ᾰ]</font> chasser le lièvre, AR. <i>Lys. 789</i>.<p><b>Étym</b>. λαγοθήρας.`

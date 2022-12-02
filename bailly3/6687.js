@@ -1,0 +1,1 @@
+lar[6687]=`<b>ἀναδενδρῖτις ἄμπελος (ἡ)</b> vigne qui monte aux arbres, GEOP. <i>5, 61</i>.`

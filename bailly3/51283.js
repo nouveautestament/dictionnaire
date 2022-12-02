@@ -1,0 +1,1 @@
+lar[51283]=`<b>α, ον</b>, qu’on peut <i>ou</i> qu’il faut orner, CLÉM. <i>1, 560 Migne</i>.<p><b>Étym</b>. <i>vb. de</i> καλλωπίζω.`

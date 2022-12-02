@@ -1,0 +1,1 @@
+lar[6972]=`<b>ατος (τὸ) :<br>      1</b> cosmétique pour empêcher (les cheveux) de tomber, DIOSC. <i>2, 164</i>.<br><b>      2</b> emplâtre, DIOSC. <i>1, 153</i>.`

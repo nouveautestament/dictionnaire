@@ -1,0 +1,1 @@
+lar[15722]=`<b>ἀ·σάλπικτος, ος, ον</b>, qui ne résonne pas du bruit de la trompette : ἀ. ὥρα, SOPH. <i>fr. 351,</i> l’heure que ne trouble pas le bruit de la trompette, <i>càd</i>. le milieu de la nuit.<p><b>Étym</b>. ἀ, σαλπίζω.`

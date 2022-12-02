@@ -1,0 +1,1 @@
+lar[18829]=`<b>βαθυ·χαιτήεις, εσσα, εν</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. βαθυχαίτης ESCHL. <i>fr. 450</i> ; ANTH. <i>App. 3</i>.`

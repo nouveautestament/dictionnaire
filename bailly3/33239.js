@@ -1,0 +1,1 @@
+lar[33239]=`<b>ἐμ·μειδιάω-ῶ</b>, sourire à <i>ou</i> dans, PHILSTR. <i>950 ; en parl. de chiens joyeux de flairer la piste,</i> XÉN. <i>Cyn. 4, 3</i>.<p><b>Étym</b>. ἐν, μ.`

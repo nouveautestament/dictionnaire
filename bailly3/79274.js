@@ -1,0 +1,1 @@
+lar[79274]=`<b>περί·σκιος, ος, ον</b>, où l’ombre fait un tour entier ; <i>subst</i>. οἱ Περίσκιοι, POSIDON. (STR. <i>135</i>) ; CLÉOM. <i>1, 7,</i> les Périscies, <i>pple des zones glaciales où le soleil accomplissant son tour entier au-dessus de l’horizon fait tourner l’ombre autour du corps en une journée</i>.<p><b>Étym</b>. π. σκιά.`

@@ -1,0 +1,1 @@
+lar[4565]=`<b>ἁλι·στεφής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἁλιστέφανος MUS. <i>49</i> ; ORPH. <i>Arg. 146</i>.<p><b>Étym</b>. ἅ. στέφω.`

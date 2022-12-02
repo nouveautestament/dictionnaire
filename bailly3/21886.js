@@ -1,0 +1,1 @@
+lar[21886]=`<b>ου (τὸ) :<br>      1</b> champ cultivé, verger, bien de campagne, ferme, THÉAGÈS (SCH.-PD. <i>N. 3, 21</i>) ; STR. <i>671</i> ; DH. <i>1, 37</i> ; SPT. <i>Gen. 26, 14 ; Prov. 24, 5 ; Sir. 27, 6, etc.</i><br><b>      2</b> fruit, récolte, SPT. <i>Prov. 24, 5</i>.<p><b>Étym</b>. γεωργός.`

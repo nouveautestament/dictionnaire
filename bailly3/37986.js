@@ -1,0 +1,1 @@
+lar[37986]=`<b>ἐπι·κείρω</b> <font color="darkgreen">(<i>f</i>. -κερῶ, <i>ao. épq</i>. ἐπέκερσα)</font> tondre à la surface, raser, <i>d’où</i> entamer, IL. <i>16, 394</i> ; TH. <i>H.P. 8, 7, 4</i>.`

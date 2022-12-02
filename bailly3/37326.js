@@ -1,0 +1,1 @@
+lar[37326]=`<b>ός</b> <i>ou</i> <b>ή, όν</b> <font color="purple">[ᾰ]</font> où l’on peut monter, accessible, HDT. <i>4, 62</i> ; PLAT. <i>Tim. 24e ; fig</i>. accessible (à la corruption) PLUT. <i>Dem. 14</i>.<p>➳ <i>Fém</i>. -ή, DC. <i>44, 44</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπιβαίνω.`

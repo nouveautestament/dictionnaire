@@ -1,0 +1,1 @@
+lar[98344]=`<b>τερατό·μορφος, ος, ον</b> <font color="purple">[ᾰ]</font> de forme monstrueuse, CASS. <i>Probl. 51</i>.<p><b>Étym</b>. τέρας, μορφή.`

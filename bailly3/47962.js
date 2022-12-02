@@ -1,0 +1,1 @@
+lar[47962]=`<b>ης (ἡ)</b> femelle du thon, HIPPON. <i>fr. 35</i>.<p><b>Étym</b>. θύννος.`

@@ -1,0 +1,1 @@
+lar[109618]=`<b>ή, όν :<br>      1</b> qui prononce mal certains sons (<i>différ. de</i> τραυλός, bègue) AR. <i>fr. 356</i> ; ARSTT. <i>H.A. 1, 11 ; Probl. 11, 30</i> ; PLUT. <i>M. 963d.</i><br><b>      2</b> mal articulé, obscur, inintelligible, ESCHL. <i>Pr. 816</i>.`

@@ -1,0 +1,1 @@
+lar[69102]=`<b>ος, ον</b>, auquel on rend un culte nocturne, <i>ép. de Dionysos,</i> ANTH. <i>9, 524</i> ; PLUT. <i>M. 389a ;</i> τὰ νυκτέλια, PLUT. <i>M. 291a</i>, fêtes nocturnes de Bacchus.<p><b>Étym</b>. νύξ, τελέω.`

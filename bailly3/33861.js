@@ -1,0 +1,1 @@
+lar[33861]=`<b>ἐν·αμβλύνω</b> <font color="purple">[ῡ]</font> émousser. PLUT. <i>Nic. 14</i>.`

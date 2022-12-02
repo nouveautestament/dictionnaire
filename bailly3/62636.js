@@ -1,0 +1,1 @@
+lar[62636]=`<b>μαλακο·πτυχής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> aux plis souples, flexible, PHILOX. (ATH. <i>147e</i>).<p><b>Étym</b>. μ. πτυχή.`

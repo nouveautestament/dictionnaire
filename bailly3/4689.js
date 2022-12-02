@@ -1,0 +1,1 @@
+lar[4689]=`<b>όνος (ἡ)</b> Halkyôn (Halcyon) <i>n. de f. titre de dialogues de Platon et de Lucien</i>.<p><b>Étym</b>. <i>v</i>. ἁλκυών.`

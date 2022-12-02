@@ -1,0 +1,1 @@
+lar[105159]=`<b>φερέ·σταχυς</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ᾰ]</font> qui porte des épis, NONN. <i>D. 42, 330</i>.<p><b>Étym</b>. φ. στάχυς.`

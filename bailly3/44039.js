@@ -1,0 +1,1 @@
+lar[44039]=`<b>ας (ἡ) :<br>      1</b> service quotidien des prêtres dans le temple, <i>chez les Juifs,</i> SPT. <i>1Par. 9, 33 ; 2, 5, 11 ; etc. ; 1Esdr. 1, 2</i>.<br><b>      2</b> ordre de succession des prêtres pour le service du temple pendant le jour, SPT. <i>1Par. 23, 6 ; Neh. 13, 30</i> ; NT. <i>Luc. 1, 5 et 8</i> ; JOS. <i>A.J. 12, 6, 1</i>.<p><b>Étym</b>. ἐφήμερος.`

@@ -1,0 +1,1 @@
+lar[28139]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾱε]</font> insalubrité de l’air, STR. <i>213 ; au plur</i>. STR. <i>184</i>.<p><b>Étym</b>. δυσάερος.`

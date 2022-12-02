@@ -1,0 +1,1 @@
+lar[60333]=`<b>λεοντο·δάμας</b>, <i>gén</i>. <b>αντος</b>, <i>acc</i>. <b>αν</b> <font color="purple">[ᾰᾱς]</font> qui dompte les lions, PD. <i>fr. 53</i>.<p><b>Étym</b>. λ. δαμάω.`

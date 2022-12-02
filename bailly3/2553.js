@@ -1,0 +1,1 @@
+lar[2553]=`<b>αἱματο·πώτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui boit <i>ou</i> suce le sang, AR. <i>Eq. 198, 208</i>.<p><b>Étym</b>. αἷ. πίνω, <i>cf</i>. πέπωκα.`

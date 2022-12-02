@@ -1,0 +1,1 @@
+lar[59604]=`<b>λακκό·πλουτος, ου (ὁ)</b> <i>propr</i>. « le Trésor de la fosse » <i>surn. de l’Athénien Kallias, qui passait pour avoir trouvé un trésor enfoui,</i> PLUT. <i>Arist. 5 ; p. ext</i>. homme riche, ALCIPHR. <i>1, 9</i>.<p><b>Étym</b>. λάκκος, πλοῦτος.`

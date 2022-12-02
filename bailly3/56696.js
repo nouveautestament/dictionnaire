@@ -1,0 +1,1 @@
+lar[56696]=`<b>ου (τὸ) :<br>      1</b> mets, aliment, ATH. <i>262a.</i><br><b>      2</b> côlon, gros boyau, AR. <i>Eq. 455</i> ; NIC. <i>Al. 23</i> ; ARSTT. <i>P.A. 3, 14 (souv. écrit κῶλον dans les mss., mais à tort, comme le montre la quantité dans</i> AR. <i>et</i> NIC.).`

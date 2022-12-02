@@ -1,0 +1,1 @@
+lar[101147]=`<b>Τυρο·φάγος, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> Tyrophagos, <i>litt</i>. « mangeur de fromage, » <i>n. de rat,</i> BATR. <i>226</i>.<p><b>Étym</b>. τ. φαγεῖν.`

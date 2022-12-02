@@ -1,0 +1,1 @@
+lar[30622]=`<b>εἰρο·πόκος, ος, ον</b>, dont la laine peut être peignée, <i>càd</i>. à l’épaisse toison, IL. <i>5, 137</i> ; OD. <i>9, 443</i> ; HÉS. <i>Th. 446, O. 232</i> ; THCR. <i>Idyl. 8, 9</i>.<p><b>Étym</b>. εἶρος, πέκω.`

@@ -1,0 +1,1 @@
+lar[96678]=`<b>συ·στεγάζω</b> (<i>part. pf. pass</i>. συνεστεγασμένος) couvrir ensemble, <i>ou</i> complètement, PLAT. <i>Tim. 75c ; au pass</i>. XÉN. <i>Cyr. 2, 6, 17</i>.`

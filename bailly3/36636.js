@@ -1,0 +1,1 @@
+lar[36636]=`<b>οῦ (ὁ)</b> action de revenir sur, ORIG. <i>p. 3227 Migne</i>.<p><b>Étym</b>. *ἐπαναποδίζω, <i>de</i> ἐπί, ἀ.`

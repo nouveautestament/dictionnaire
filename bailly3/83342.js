@@ -1,0 +1,1 @@
+lar[83342]=`<b>ος, ον</b>, respectable, vénérable, ANTH. <i>2, 19, 11</i>.<p><b>Étym</b>. <i>ion. c</i>. *πρέσβειος, <i>de</i> πρέσβυς.`

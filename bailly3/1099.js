@@ -1,0 +1,1 @@
+lar[1099]=`<b>α, ον</b>, plus proche de, <i>gén</i>. HDT. <i>7, 175</i>.<p><b>Étym</b>. <i>th</i>. ἀγχο-, <i>cf</i>. ἀγχοῦ, -τερος.`

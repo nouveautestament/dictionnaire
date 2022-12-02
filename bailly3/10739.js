@@ -1,0 +1,1 @@
+lar[10739]=`<b>ἀνυπερθετέω-ῶ</b>, être impatient de tout délai, agir sans retard, AQU. <i>Ps. 77, 21, 59</i>.<p><b>Étym</b>. ἀνυπέρθετος.`

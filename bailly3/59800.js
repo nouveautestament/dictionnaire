@@ -1,0 +1,1 @@
+lar[59800]=`<b>λαο·ηγησία, ας (ἡ)</b> <font color="purple">[λᾱ]</font> gouvernement (<i>propr</i>. conduite) du peuple, TRIPHIOD. <i>49</i>.<p><b>Étym</b>. λ. ἡγέομαι.`

@@ -1,0 +1,1 @@
+lar[79139]=`<b>περι·πνευμονία, ας (ἡ)</b> péripneumonie, <i>inflammation des poumons,</i> LUC. <i>M. cond. 31</i>.<p>➳ <i>Ion</i>. περιπνευμονίη, ARÉT. <i>Caus. m. acut. 2, 1</i>.<p><b>Étym</b>. π. πνεύμων.`

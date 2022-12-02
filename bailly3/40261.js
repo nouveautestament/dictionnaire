@@ -1,0 +1,1 @@
+lar[40261]=`<b>οῦ (ὁ)</b> qui irrite, qui provoque, SPT. <i>Deut. 21, 18</i>.<p><b>Étym</b>. ἐρεθίζω.`

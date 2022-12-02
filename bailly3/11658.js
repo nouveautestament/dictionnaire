@@ -1,0 +1,1 @@
+lar[11658]=`<b>ἀπ·ελέγχω</b> <font color="darkgreen">(<i>f</i>. -έγξω, <i>ao</i>. ἀπήλεγξα, <i>pf. inus</i>.)</font> réfuter, convaincre d’erreur, ANT. <i>131, 35 ; 133, 33</i> ; STR. <i>70, 90</i> ; M. ANT. <i>8, 36, etc. ; au pass</i>. ANT. <i>132, 2, etc</i>.`

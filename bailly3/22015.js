@@ -1,0 +1,1 @@
+lar[22015]=`Giezè, <i>n. pr</i>. SPT. <i>4Reg. 4</i>.`

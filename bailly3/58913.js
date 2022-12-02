@@ -1,0 +1,1 @@
+lar[58913]=`<b>ου (ὁ)</b> carpe, <i>poisson,</i> ARSTT. <i>H.A. 4, 11, etc</i>.`

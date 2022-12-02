@@ -1,0 +1,1 @@
+lar[95696]=`<b>συν·επιτρίβω</b> <font color="purple">[ῑβ]</font> broyer, <i>d’où</i> détruire <i>ou</i> ruiner ensemble, XÉN. <i>An. 5, 8, 20</i>.`

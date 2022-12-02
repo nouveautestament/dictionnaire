@@ -1,0 +1,1 @@
+lar[36272]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> fuite, ORPH. <i>Arg. 682</i>.<p><b>Étym</b>. ἐξυπαλύσκω.`

@@ -1,0 +1,1 @@
+lar[40847]=`<b>ἐρυσί·χθων, ονος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui trace des sillons dans la terre, STRATON (ATH. <i>382e</i>).<p><b>Étym</b>. ἔρυμαι, χθών.`

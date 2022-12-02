@@ -1,0 +1,1 @@
+lar[80276]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> légèrement amer : πικρίδια σῦκα, ATH. <i>78a</i>, figues un peu amères.<p><b>Étym</b>. πικρός.`

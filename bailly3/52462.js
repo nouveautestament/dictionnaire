@@ -1,0 +1,1 @@
+lar[52462]=`<b>ῆρος (ὁ)</b> qui déshonore, <i>gén</i>. ESCHL. <i>Ag. 1363</i>.<p><b>Étym</b>. καταισχύνω.`

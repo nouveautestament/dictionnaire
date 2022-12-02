@@ -1,0 +1,1 @@
+lar[76431]=`<b>παρα·φρουρέω-ῶ</b>, faire bonne garde près de, veiller sur, <i>acc</i>. STR. <i>166</i> ; HLD. <i>8, 3</i>.`

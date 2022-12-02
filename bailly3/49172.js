@@ -1,0 +1,1 @@
+lar[49172]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Julianus, Julien, <i>n. d’h. rom</i>. ANTH. <i>15, 45, etc</i>.<p>➳ <font color="purple">[⏑‒⏑‒⏑]</font> A. PL. <i>387</i> ; <font color="purple">[⏑‒⏑⏑‒]</font> ANTH. <i>9, 689, 779</i> ; A. PL. <i>69, etc.</i> ; <font color="purple">[‒ ‒⏑⏑⏑]</font> ANTH. <i>14, 148</i>.`

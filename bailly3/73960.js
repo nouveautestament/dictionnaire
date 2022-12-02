@@ -1,0 +1,1 @@
+lar[73960]=`<b>ὀχυρο·ποιέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> fortifier, POL. <i>1, 18, 4</i>.<p><b>Étym</b>. ὀχυρός, π.`

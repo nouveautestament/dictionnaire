@@ -1,0 +1,1 @@
+lar[74014]=`<font color="purple">[ῐ]</font> <i>adv</i>., tardivement, PROCL.`

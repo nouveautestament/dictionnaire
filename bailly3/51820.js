@@ -1,0 +1,1 @@
+lar[51820]=`<b>καρκινο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> semblable à un crabe, ARSTT. <i>P.A. 4, 8</i> ; EL. <i>N.A. 6, 20</i>.<p><b>Étym</b>. κ. εἶδος.`

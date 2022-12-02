@@ -1,0 +1,1 @@
+lar[16335]=`<b>ας (ἡ)</b> astronomie, AR. <i>Nub. 201</i> ; PLAT. <i>Conv. 188b</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Aër. 281</i>.<p><b>Étym</b>. ἀστρονόμος.`

@@ -1,0 +1,1 @@
+lar[58602]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐ]</font><br><b>      1</b> armoire où l’on serre les coupes et vases à boire, AR. (ATH. <i>460d</i>) ; LUC. <i>Lex. 7</i>.<br><b>      2</b> orgie, réunion de buveurs, CRAT. (ATH. <i>534e</i>).<p><b>Étym</b>. κύλιξ.`

@@ -1,0 +1,1 @@
+lar[29043]=`<b>δυσ·ώνυμος, ος, ον</b> <font color="purple">[ῠῠ]</font><br><b>      1</b> au nom odieux, IL. <i>6, 255 ; 12, 116</i> ; OD. <i>19, 571</i> ; SOPH. <i>O.C. 528,</i> A.RH. <i>2, 258</i>.<br><b>      2</b> au nom de mauvais augure, SOPH. <i>Aj. 914</i>.<p><b>Étym</b>. δ. ὄνομα.`

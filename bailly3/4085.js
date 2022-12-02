@@ -1,0 +1,1 @@
+lar[4085]=`<b>ῶν (οἱ)</b> Alains, <i>pple de Sarmatie,</i> LUC. <i>Tox. 51, etc</i>.`

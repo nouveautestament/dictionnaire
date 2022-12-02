@@ -1,0 +1,1 @@
+lar[35070]=`<b>ας (ἡ)</b> habileté, science, NYSS. <i>3, 260</i>.<p><b>Étym</b>. ἔντεχνος.`

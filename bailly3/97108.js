@@ -1,0 +1,1 @@
+lar[97108]=`<b>ης, ες</b>, plein de joncs, NIC. <i>Al. 153</i> ; DIOSC. <i>4, 150</i>.<p><b>Étym</b>. σχοῖνος, -ωδης.`

@@ -1,0 +1,1 @@
+lar[44982]=`<b>ἡδύ·θροος, οος, οον</b>, à la voix (<i>propr</i>. au son) agréable, EUR. <i>El. 703</i> ; ANTH. <i>9, 524</i>.<p><b>Étym</b>. ἡ. θρέω.`

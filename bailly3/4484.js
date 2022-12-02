@@ -1,0 +1,1 @@
+lar[4484]=`<b>ἁλι·κρήπις, ιδος (ἡ)</b> <font color="purple">[ᾰπῑδ]</font> dont le pied plonge dans la mer, NONN. <i>D. 1, 289</i>.<p><b>Étym</b>. ἅλς, κρηπίς.`

@@ -1,0 +1,1 @@
+lar[16066]=`<b>ας (ἡ)</b> dureté de cœur, CHRYS.<p><b>Étym</b>. ἄσπλαγχνος.`

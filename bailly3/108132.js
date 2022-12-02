@@ -1,0 +1,1 @@
+lar[108132]=`<b>χειρο·δρόπος, ος, ον</b>, qui coupe avec sa main, qui cueille, NIC. <i>Th. 752</i>.<p><b>Étym</b>. χ. δρέπω ; <i>cf</i>. χέδροψ.`

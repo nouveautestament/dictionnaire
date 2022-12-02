@@ -1,0 +1,1 @@
+lar[69999]=`<b>(ἡ)</b> oasis, <i>région fertile d’un désert,</i> EL. <i>N.A. 10, 25</i>.<p><b>Étym</b>. <i>copte</i> ouahsi, <i>arabe</i> wah ; <i>cf</i>. αὔασις.`

@@ -1,0 +1,1 @@
+lar[93685]=`<b>ων (οἱ)</b> = <i>lat</i>. Suillii, <i>n. d’une famille romaine,</i> PLUT. <i>Popl. 11</i>.`

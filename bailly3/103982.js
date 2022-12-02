@@ -1,0 +1,1 @@
+lar[103982]=`<b>ὑπο·τελίς, ίδος (ἡ)</b> aptitude <i>ou</i> faculté naturelle de l’homme pour parvenir au souverain bien, HÉRILLOS (DL. <i>7, 165).</i><p><b>Étym</b>. ὑ. τέλος.`

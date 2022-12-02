@@ -1,0 +1,1 @@
+lar[51964]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite noix, noisette, PHILYLL. <i>fr. 18</i>.<p><b>Étym</b>. <i>dim. de</i> κάρυον.`

@@ -1,0 +1,1 @@
+lar[85521]=`<b>προσ·εκκόπτω</b>, retrancher en outre, TÉLÈS (STOB. <i>Fl. 108, 83</i>).`

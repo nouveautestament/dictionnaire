@@ -1,0 +1,1 @@
+lar[905]=`<b>ἀγριο·βάλανος, ου (ἡ)</b> <font color="purple">[βᾰᾰ]</font> yeuse, chêne sauvage, AQU. <i>et</i> THÉODOT. <i>Esaï. 44, 14</i>.`

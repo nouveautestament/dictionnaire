@@ -1,0 +1,1 @@
+lar[48141]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> du thorax, de la poitrine, AÉT. <i>p. 169, 17</i>.<p><b>Étym</b>. θώραξ.`

@@ -1,0 +1,1 @@
+lar[1012]=`<b>ἀ·γύναικος, ου</b>, PHRYN. (POLL. <i>3, 48</i>) ; <b>ἀ·γύναιξ, αικος</b>, SOPH. <i>fr. 5</i> ; <b>ἀ·γύναιος, ου</b>, DC. <i>56, 1, 2</i> ; <b>ἄ·γυνος, ου</b>, AR. <i>fr. 571</i> <font color="purple">[ῠ]</font> sans femme, non marié.<p><b>Étym</b>. ἀ, γυνή.`

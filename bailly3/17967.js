@@ -1,0 +1,1 @@
+lar[17967]=`<b>ἀφ·ερπετόομαι-οῦμαι</b>, devenir reptile, STOB. <i>Ecl. 1, 1098</i>.`

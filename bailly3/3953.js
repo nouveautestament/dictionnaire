@@ -1,0 +1,1 @@
+lar[3953]=`<i>adv</i>., sans être créé, BAS. <i>2, 891, etc</i>.`

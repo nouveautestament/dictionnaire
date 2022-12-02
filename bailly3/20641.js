@@ -1,0 +1,1 @@
+lar[20641]=`<b>βραδυτοκέω-ῶ</b> <font color="purple">[ᾰῠ]</font> (<i>seul. part. prés. fém</i>.) enfanter tardivement, CHRYS. <i>2, 795d</i>.<p><b>Étym</b>. βραδυτόκος.`

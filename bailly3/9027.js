@@ -1,0 +1,1 @@
+lar[9027]=`<b>ἀνθ·υφίσταμαι</b> <font color="darkgreen">(<i>ao.1</i> ἀνθυπέστησα, <i>inf. ao.2</i> ἀνθυποστῆναι)</font> entreprendre à son tour, DÉM. <i>536, 21</i>.`

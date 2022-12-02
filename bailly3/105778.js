@@ -1,0 +1,1 @@
+lar[105778]=`<b>φιλο·ζήλως</b> <font color="purple">[ῐ]</font> <i>adv</i>., avec une grande ardeur, HIPPODAM. (STOB. <i>Fl. 43, 94).</i><p><b>Étym</b>. φ. ζῆλος.`

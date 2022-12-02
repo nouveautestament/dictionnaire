@@ -1,0 +1,1 @@
+lar[76090]=`<b>παρα·πλήσσω</b>, <i>att</i>. <b>-πλήττω :<br>      1</b> toucher mal d’un instrument à cordes, PHILSTR. <i>779 ; litt</i>. frapper (les cordes) à côté.<br><b>      2</b> frapper de démence ; παραπεπληγμένος, EUR. <i>H.f. 935</i> ; AR. <i>Lys. 831, etc</i>. frappé de folie, insensé.`

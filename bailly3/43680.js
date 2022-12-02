@@ -1,0 +1,1 @@
+lar[43680]=`<b>εὐ·υπέρβλητος, ος, ον</b>, aisé à franchir, à surpasser, ARSTT. <i>Nic. 4, 2, 19</i>.<p><b>Étym</b>. εὖ, ὑπερβάλλω.`

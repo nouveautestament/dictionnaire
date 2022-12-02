@@ -1,0 +1,1 @@
+lar[45374]=`<font color="purple">[ῑ]</font> <i>seul. en composition</i> à demi, à moitié.<p><b>Étym</b>. <i>cf</i>. ἥμισυς.`

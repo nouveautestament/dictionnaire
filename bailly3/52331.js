@@ -1,0 +1,1 @@
+lar[52331]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> déclaré coupable, APP. <i>Civ. 1, 2</i>.<br><b>      2</b> condamné à, <i>gén</i>. DS. <i>13, 63, etc</i>.<p><b>Étym</b>. <i>cf</i>. καταδίκη.`

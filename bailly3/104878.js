@@ -1,0 +1,1 @@
+lar[104878]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> φαρέτρα, MOSCH. <i>1, 20</i>.`

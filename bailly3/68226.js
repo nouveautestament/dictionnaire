@@ -1,0 +1,1 @@
+lar[68226]=`<b>νεο·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui vient de se rompre, ARÉT. <i>p. 62, 31</i>.<p><b>Étym</b>. ν. ῥήγνυμι.`

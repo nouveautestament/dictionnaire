@@ -1,0 +1,1 @@
+lar[14477]=`<i>gén</i>. <b>Ἀρέως (ὁ)</b> Arée, <i>roi de Lacédémone,</i> PLUT. <i>Agis 3, etc</i>.`

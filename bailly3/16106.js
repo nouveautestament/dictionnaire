@@ -1,0 +1,1 @@
+lar[16106]=`NAZ. <i>et</i> <b>Ἀσσυρίηθεν</b>, ORPH. <font color="purple">[ῠ]</font> <i>adv</i>., d’Assyrie.<p><b>Étym</b>. Ἀσσυρίη, <i>v</i>. Ἀσσυρία ; -θεν.`

@@ -1,0 +1,1 @@
+lar[66519]=`<b>μονογνωμονέω-ῶ</b>, avoir une opinion propre <i>ou</i> s’en tenir à son opinion, être volontaire, opiniâtre, PHILOD.<p><b>Étym</b>. μονογνώμων.`

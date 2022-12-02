@@ -1,0 +1,1 @@
+lar[5001]=`<b>ου (ἡ)</b> Alykos, <i>v. du Péloponnèse,</i> CALL. (E. BYZ. <i>v°</i> Ἄλυκος).`

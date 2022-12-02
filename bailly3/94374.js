@@ -1,0 +1,1 @@
+lar[94374]=`<b>συμ·προσμίγνυμι</b> <font color="purple">[νῡ]</font> se mêler à, <i>dat</i>. PLAT. <i>Theæt. 183e</i>.`

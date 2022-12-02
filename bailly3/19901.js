@@ -1,0 +1,1 @@
+lar[19901]=`<b>ων (οἱ)</b> STR. HLD. <b>βλέμυες</b> <font color="purple">[ῠ]</font> NONN. <i>D. 26, 341, etc.</i> ; THCR. <i>Idyl. 7, 114</i> ; DP. <i>220,</i> les Blemmyes <i>ou</i> Blémyes, <i>pple éthiopien</i>.<p>➳ <i>Dat. pl. poét</i>. -ύεσσι, NONN. <i>D. 17, 397</i>.`

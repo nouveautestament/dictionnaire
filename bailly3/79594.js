@@ -1,0 +1,1 @@
+lar[79594]=`<i>adv</i>., ardemment, PLUT. <i>Cato ma. 1</i>.<p><b>Étym</b>. περιφλεγής.`

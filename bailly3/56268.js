@@ -1,0 +1,1 @@
+lar[56268]=`<b>κνησιάω-ῶ</b>, avoir envie de se gratter, <i>d’où</i> éprouver une démangeaison, AR. <i>Eccl. 919</i> ; PLAT. <i>Gorg. 494c</i>.<p><b>Étym</b>. κνάω.`

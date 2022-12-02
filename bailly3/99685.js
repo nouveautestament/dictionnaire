@@ -1,0 +1,1 @@
+lar[99685]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Torylaos, <i>h</i>. THC. <i>4, 78</i>.`

@@ -1,0 +1,1 @@
+lar[70015]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. τέχνη, métier d’usurier, ARSTT. <i>Pol. 1, 10, 4</i>.<p><b>Étym</b>. ὀβολοστάτης.`

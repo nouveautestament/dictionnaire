@@ -1,0 +1,1 @@
+lar[5404]=`<b>ἀ·μείλικτος, ος, ον</b>, qu’on ne peut adoucir, amer, dur, <i>fig. en parl. de choses (paroles,</i> IL. <i>11, 137 ; liens,</i> HÉS. <i>Th. 659 ; ressentiment,</i> A.RH. <i>3, 337, etc</i>.) ; <i>de pers</i>. DH. <i>9, 44</i> ; PLUT. <i>M. 76b, etc. ; d’Hadès,</i> BION <i>8, 3, etc</i>.<p><b>Étym</b>. ἀ, μειλίσσω.`

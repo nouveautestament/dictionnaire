@@ -1,0 +1,1 @@
+lar[58607]=`<b>κυλινδέω-ῶ</b> (<i>seul. prés., impf. et fut.) att. c</i>. κυλίνδω, XÉN. <i>An. 4, 7, 4, etc.</i> ; AR. <i>Av. 502, etc</i>.<p>➳ <i>Impf. itér. 3 pl</i>. κυλινδέσκοντο, PD. <i>P. 4, 209</i>.`

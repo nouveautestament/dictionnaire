@@ -1,0 +1,1 @@
+lar[78854]=`<b>περί·κυρτος, ος, ον</b>, dont la surface est déprimée tout autour, convexe, SEXT. <i>M. 7, 307</i>.<p><b>Étym</b>. π. κυρτός.`

@@ -1,0 +1,1 @@
+lar[67755]=`<b>ναυμαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre sur mer, HDT. <i>7, 143</i> ; THC. <i>3, 54</i> ; XÉN. <i>Hell. 1, 1, 9</i> ; τινι, THC. <i>1, 112</i> ; πρός τινα, THC. <i>2, 83</i> ; XÉN. <i>Hell. 2, 1, 9, etc</i>. contre qqn ; <i>fig</i>. AR. <i>Vesp. 479</i>.<p><b>Étym</b>. ναυμάχος.`

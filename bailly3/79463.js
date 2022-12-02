@@ -1,0 +1,1 @@
+lar[79463]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>mot arcadien, c</i>. εὐνοῦχος, HÉPH. (PHOT. <i>Bibl. 147, 14</i>).`

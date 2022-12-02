@@ -1,0 +1,1 @@
+lar[1842]=`<b>ἀετο·φόρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> porte-aigle, porte-enseigne, PLUT. <i>Cæs. 52</i>.<p><b>Étym</b>. ἀ, φέρω.`

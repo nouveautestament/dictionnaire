@@ -1,0 +1,1 @@
+lar[54714]=`<b>κενό·σπουδος, ος, ον :<br>      1</b> qui s’attache à des choses futiles, PLUT. <i>M. 560b, etc.</i><br><b>      2</b> sans valeur, futile, CIC. <i>Att. 9, 1</i>.<p><b>Étym</b>. κ. σπουδή.`

@@ -1,0 +1,1 @@
+lar[52686]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> mauvais propos, parole méchante <i>ou</i> injurieuse, NT. <i>1Petr. 2, 1 ; 2Cor. 12, 20</i>.<p><b>Étym</b>. κατάλαλος.`

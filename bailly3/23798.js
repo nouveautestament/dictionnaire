@@ -1,0 +1,1 @@
+lar[23798]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit cochon, AR. <i>Th. 237, Lys. 1061, etc.</i> ; EUB. (ATH. <i>330c</i>) ; <i>etc</i>.<p><b>Étym</b>. <i>dim. de</i> δέλφαξ.`

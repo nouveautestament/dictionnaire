@@ -1,0 +1,1 @@
+lar[69270]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. νύχιος, ORPH. <i>H. 8, 6</i>.`

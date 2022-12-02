@@ -1,0 +1,1 @@
+lar[16970]=`<b>ἄ·τριψ, ιβος (ὁ, ἡ)</b> <font color="purple">[ῐβ]</font> non frayé (chemin), APP. <i>Iber. 6, 62</i>.<p><b>Étym</b>. <i>gén. pl</i>. ἀτρίβων, <i>conj</i>. ἀτριβῶν <i>de</i> ἀτριβής ; <i>v. ce mot</i>.`

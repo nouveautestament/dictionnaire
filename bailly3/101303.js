@@ -1,0 +1,1 @@
+lar[101303]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> petit vase de verre, DIOSC. <i>Par. 1, 10</i>.<p><b>Étym</b>. ὕαλος.`

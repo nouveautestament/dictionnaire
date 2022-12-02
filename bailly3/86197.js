@@ -1,0 +1,1 @@
+lar[86197]=`<b>προσ·οίχομαι</b>, s’approcher de, <i>acc</i>. PD. <i>P. 6, 4</i>.`

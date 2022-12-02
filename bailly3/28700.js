@@ -1,0 +1,1 @@
+lar[28700]=`<b>δυσ·ξύμβλητος</b> <i>ou</i> <b>δυσ·σύμβλητος, ος, ον :<br>      1</b> difficile à associer, insociable, ARTÉM. <i>4, 56</i> (δυσσυμβλ-).<br><b>      2</b> difficile à comprendre, à interpréter (prodige) DC. <i>56, 29</i>.<p><b>Étym</b>. <i>att</i>. δυσξυμβλ-.`

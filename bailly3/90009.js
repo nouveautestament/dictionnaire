@@ -1,0 +1,1 @@
+lar[90009]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Sèsamon (<i>auj</i>. Amasra) <i>v. de Paphlagonie,</i> IL. <i>2, 853</i> ; A.RH. <i>2, 941, etc</i>.`

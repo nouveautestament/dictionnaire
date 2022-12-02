@@ -1,0 +1,1 @@
+lar[79164]=`<b>περί·πολις, ιος (ὁ, ἡ)</b> qui va de ville en ville, comme une troupe de comédiens, PHRYN. COM. (POLL. <i>7, 203).</i><p><b>Étym</b>. π. πόλις.`

@@ -1,0 +1,1 @@
+lar[6269]=`<b>ἀμφι·μυκάομαι</b> <font color="darkgreen">(<i>seul. pf. 3 sg</i>. ἀμφιμέμυκε)</font> <font color="purple">[ῡ]</font> mugir tout autour, OD. <i>10, 227</i>.`

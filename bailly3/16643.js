@@ -1,0 +1,1 @@
+lar[16643]=`<b>Ἀσωπό·δωρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Asôpodôros, <i>h</i>. PD. HDT.<p><b>Étym</b>. Ἀσωπός, δῶρον.`

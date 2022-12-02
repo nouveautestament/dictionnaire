@@ -1,0 +1,1 @@
+lar[44428]=`<b>ζα·χρειής, ής, ές</b>, violent, impétueux, IL. <i>5, 522 ; adv</i>. ζαχρειές, NIC. <i>Th. 290</i>, fortement, violemment.<p><b>Étym</b>. ζα-, χράω.`

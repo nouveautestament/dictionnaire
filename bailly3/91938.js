@@ -1,0 +1,1 @@
+lar[91938]=`<b>σπληνιάω-ῶ</b>, être malade de la rate, ARSTT. <i>P.A. 3, 7, 15 ; Probl. 9, 5</i> ; PLUT. <i>Pyrrh. 3</i>.<p><b>Étym</b>. σπλήν.`

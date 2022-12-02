@@ -1,0 +1,1 @@
+lar[25903]=`<b>διά·φωνος, ος, ον</b>, discordant, DS. <i>4, 55</i> ; PLUT. <i>M. 1039d ; avec le dat</i>. qui ne s’accorde pas avec, LUC. <i>Cyn. 16</i>.<p><b>Étym</b>. διά, φωνή.`

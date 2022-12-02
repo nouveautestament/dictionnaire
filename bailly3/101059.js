@@ -1,0 +1,1 @@
+lar[101059]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Tynnikhos, <i>h</i>. PLAT. <i>Ion 534d ;</i> ANTH. <i>7, 229</i>.`

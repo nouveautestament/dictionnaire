@@ -1,0 +1,1 @@
+lar[40513]=`<i>adv</i>., en disputant, PLAT. <i>Rsp. 454b ; Phil. 17a ;</i> ARSTT. <i>Top. 8, 2, 11</i>.`

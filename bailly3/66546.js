@@ -1,0 +1,1 @@
+lar[66546]=`<b>μονο·κάλαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui n’a qu’une tige, ATH. <i>184a ;</i> GAL. <i>6, 320</i>.`

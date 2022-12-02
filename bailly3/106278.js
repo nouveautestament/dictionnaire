@@ -1,0 +1,1 @@
+lar[106278]=`<b>έως (ὁ)</b> <font color="purple">[ῑ]</font> Phinée, <i>roi de Thrace,</i> ESCHL. <i>Eum. 50</i> ; A.RH. <i>2, 178, etc</i>.<p>➳ <i>Voc</i>. Φινεῦ, A.RH. <i>2, 438 ; décl. dor. : gén</i>. Φινῆος, A.RH. <i>2, 277 ; dat</i>. -ῆϊ, A.RH. <i>2, 550 ; acc</i>. -ῆα, A.RH. <i>2, 277, 294, 580, 647, etc</i>.`

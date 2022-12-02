@@ -1,0 +1,1 @@
+lar[62982]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰρῠ]</font><br><b>      1</b> mouvement vibratoire de la lumière, HPC. <i>Progn. 46</i> ; PLAT. <i>Rsp. 518a, Criti. 116c.</i><br><b>      2</b> <i>p. anal. au pl</i>. mouvement rapide et qui éblouit, OD. <i>8, 265</i> ; HH. <i>Ap. 203</i>.<p><b>Étym</b>. μαρμαρύσσω.`

@@ -1,0 +1,1 @@
+lar[66503]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> stabilité, fixité, fermeté, PROCL. <i>Plat. 1 Alc. p. 60</i>.<p><b>Étym</b>. μόνιμος.`

@@ -1,0 +1,1 @@
+lar[29199]=`<b>(ἡ)</b> la généreuse, <i>surn. de Dèmèter,</i> HH. <i>Cer. 122</i>.<p><b>Étym</b>. δίδωμι.`

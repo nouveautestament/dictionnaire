@@ -1,0 +1,1 @@
+lar[89297]=`<b>ος, ον</b> <font color="purple">[δᾰᾰῐ]</font> d’un rouge d’arsenic, HDT. <i>1, 98</i> ; EL. <i>N.A. 17, 23</i>.<p><b>Étym</b>. σανδαράκη.`

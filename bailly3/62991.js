@@ -1,0 +1,1 @@
+lar[62991]=`<b>ιος (ὁ)</b> ravisseur, ESCHL. <i>Suppl. 826</i>.<p><b>Étym</b>. μάρπτω.`

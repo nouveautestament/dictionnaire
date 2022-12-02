@@ -1,0 +1,1 @@
+lar[72813]=`<b>ή, όν</b>, de mulet, PLAT. <i>Lys. 208b ;</i> ESCHN. <i>42, 36</i> ; IS. <i>55, 24, etc</i>.<p><b>Étym</b>. ὀρεύς.`

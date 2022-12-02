@@ -1,0 +1,1 @@
+lar[23604]=`<b>δειπνο·λόγος, ου (ὁ)</b> qui traite de l’art de souper, ATH. <i>29a</i>.<p><b>Étym</b>. δεῖπνον, λέγω.`

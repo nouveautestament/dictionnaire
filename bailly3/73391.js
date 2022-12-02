@@ -1,0 +1,1 @@
+lar[73391]=`<b>ου (ὁ)</b> <i>sorte de plante,</i> EPICH. (ATH. <i>71a</i>).`

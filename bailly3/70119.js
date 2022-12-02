@@ -1,0 +1,1 @@
+lar[70119]=`<b>ας (ἡ) :<br>      1</b> marche, voyage, HH. <i>Merc. 85</i> ; HDT. <i>2, 29</i> ; XÉN. <i>Œc. 7, 23, au pl</i>. XÉN. <i>Cyr. 1, 2, 10, etc.</i><br><b>      2</b> <i>particul</i>. voyage par terre, <i>p. opp. à</i> voyage par mer, HDT. <i>8, 118</i>.<p>➳ <i>Ion</i>. -ίη, HH. HDT. <i>ll. cc.</i> ; HPC. <i>Fract. 762</i>.<p><b>Étym</b>. ὁδοιπόρος.`

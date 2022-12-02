@@ -1,0 +1,1 @@
+lar[7491]=`<b>εως (ἡ) :<br>      1</b> action de déployer, d’ouvrir, ARSTT. <i>P.A. 3, 1, 13</i>.<br><b>      2</b> <i>fig</i>. explication, ARSTT. <i>Rhet. Al. 26, 5</i> ; PLUT. <i>M. 382d</i>.<p><b>Étym</b>. ἀναπτύσσω.`

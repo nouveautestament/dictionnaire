@@ -1,0 +1,1 @@
+lar[60031]=`<b>ους (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Lakharès, <i>h</i>. PLUT. <i>Demetr. 33, etc</i>.<p><b>Étym</b>. λαός, χαίρω ; <i>cf</i>. Χαρίλαος.`

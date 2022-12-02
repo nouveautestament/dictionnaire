@@ -1,0 +1,1 @@
+lar[44836]=`<b>ης, ες</b>, vivant, animé, ARÉT. <i>Caus. m. diut. 1, 5</i>.<p><b>Étym</b>. ζωός, -ωδης.`

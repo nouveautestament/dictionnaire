@@ -1,0 +1,1 @@
+lar[8366]=`<b>ἀν·έντευκτος, ος, ον</b>, qu’on ne peut aborder, <i>d’où</i> :<br><b>      1</b> insociable, hautain, fier, PLUT. <i>M. 10a.</i><br><b>      2</b> incorruptible, PLUT. <i>M. 355a</i>.<p><b>Étym</b>. ἀν-, ἐντυγχάνω.`

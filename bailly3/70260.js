@@ -1,0 +1,1 @@
+lar[70260]=`<font color="darkgreen">(<i>seul. prés. act</i>. ANTH. <i>9, 356 et impf. pass. 3 pl. épq</i>. ὠΐγνυντο, IL. <i>2, 809)</font> c</i>. οἴγω.`

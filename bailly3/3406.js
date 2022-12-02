@@ -1,0 +1,1 @@
+lar[3406]=`<b>οῦς (ὁ) :<br>      1</b> femme grimacière, PLUT. <i>Prov. 65</i>.<br><b>      2</b> <i>p. suite,</i> figure grimaçante pour effrayer les enfants, CHRYSIPP. (PLUT. <i>M. 1040b</i>).`

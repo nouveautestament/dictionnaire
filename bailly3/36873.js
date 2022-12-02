@@ -1,0 +1,1 @@
+lar[36873]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> ἐπαφίημι, GEOP. <i>18, 3, 1</i>.`

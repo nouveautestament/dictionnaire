@@ -1,0 +1,1 @@
+lar[40387]=`<i>préfixe augmentatif <i>ou</i> d’intensité,</i> très, fort <i>(v. la plupart des mots suiv</i>. ἐριαυγής, ἐριαύχην, ἐριαχθής, <i>etc.).</i><p><b>Étym</b>. <i>indo-europ</i>. *ser-, haut.`

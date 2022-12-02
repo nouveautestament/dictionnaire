@@ -1,0 +1,1 @@
+lar[82280]=`<b>πολυ·πόνηρος, ος, ον</b> <font color="purple">[ῠ]</font> tout à fait méchant, MÉLAMP. <i>Div. ex nævis p. 506 Fr</i>.<p><b>Étym</b>. π. πονηρός.`

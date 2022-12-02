@@ -1,0 +1,1 @@
+lar[23718]=`<b>δεκατη·λόγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> percepteur de dîmes, DÉM. <i>679, 27</i>.<p><b>Étym</b>. δεκάτη, λέγω.`

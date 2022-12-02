@@ -1,0 +1,1 @@
+lar[80587]=`<b>πλαγιο·φορέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être emporté <i>ou</i> se mouvoir obliquement, SOR.<p><b>Étym</b>. πλ. φορέω.`

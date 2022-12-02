@@ -1,0 +1,1 @@
+lar[103581]=`<b>ὑπό·μωρος, ος, ον</b>, un peu fou, quelque peu sot, LUC. <i>Ic. 29</i>.<p><b>Étym</b>. ὑ. μωρός.`

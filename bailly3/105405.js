@@ -1,0 +1,1 @@
+lar[105405]=`<b>Φίκιον ὄρος (τὸ)</b> <font color="purple">[φῑ]</font> le mt Phikion, <i>près de Thèbes,</i> HÉS. <i>Sc. 33</i>.`

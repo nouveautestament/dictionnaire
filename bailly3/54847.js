@@ -1,0 +1,1 @@
+lar[54847]=`<b>ου :<br>   I</b> <i>adj. m</i>. qui a des cornes, cornu, SOPH. <i>El. 568</i>.<br><b>   II</b> <i>subst.</i> :<br><b>      1</b> bête sauvage à cornes, EUR. <i>Cycl. 52</i>.<br><b>      2</b> serpent qui a comme des cornes, NIC. <i>Th. 260</i> ; DS. <i>3, 50</i>.<br><b>      3</b> ver qui ronge les figues, TH. <i>H.P. 5, 4, 5</i>.<p><b>Étym</b>. κέρας.`

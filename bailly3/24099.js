@@ -1,0 +1,1 @@
+lar[24099]=`<b>οῦ (ὁ)</b> morsure, <i>d’où</i> :<br><b>      1</b> <i>au propre,</i> douleur vive, HPC. <i>221e ;</i> TH. <i>H.P. 4, 4, 5</i>.<br><b>      2</b> <i>fig</i>. parole mordante, propos caustique, PLUT. <i>M. 68e, etc</i>.<p><b>Étym</b>. δάκνω.`

@@ -1,0 +1,1 @@
+lar[71145]=`<b>ὁλμο·κοπέω-ῶ</b>, broyer dans un mortier, A. TR. <i>11, p. 632, etc</i>.<p><b>Étym</b>. ὅλμος, κόπτω.`

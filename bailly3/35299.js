@@ -1,0 +1,1 @@
+lar[35299]=`<b>ἑξα·έτις, ιδος</b>, <i>adj. f</i>. de six ans, THCR. <i>Idyl. 14, 33</i>.`

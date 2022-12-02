@@ -1,0 +1,1 @@
+lar[104105]=`<b>ὑπο·φθείρω</b>, gâter <i>ou</i> ruiner intérieurement, HPC. <i>Epid. 1, 939</i>.`

@@ -1,0 +1,1 @@
+lar[97195]=`<b>σωματο·φρουρητήρ, ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> garde du corps, MAN. <i>4, 232</i>.<p><b>Étym</b>. σῶμα, φρουρέω.`

@@ -1,0 +1,1 @@
+lar[103231]=`<b>ὑπο·ζοφόω-ῶ :<br>      1 <i>tr.</i></b> couvrir de ténèbres, NICÉPH. <i>1, 479 W.</i><br><b>      2 <i>intr.</i></b> être un peu sombre, NIC. <i>Th. 337 au part. prés. fém. épq</i>. ὑποζοφόωσα ; <i>sel. d’autres épq. p</i>. *ὑποζοφάουσα <i>de</i> *ὑποζοφάω.`

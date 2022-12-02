@@ -1,0 +1,1 @@
+lar[34574]=`<b>ης, ες</b> <font color="purple">[ῡᾰ]</font> en forme d’enthymème, ARSTT. <i>Rhet. Al. 33, 3</i>.<p><b>Étym</b>. ἐνθύμημα, -ωδης.`

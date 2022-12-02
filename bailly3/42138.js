@@ -1,0 +1,1 @@
+lar[42138]=`<b>εὐ·ήρετμος, ος, ον :<br>      1</b> bien disposé pour la rame, ESCHL. <i>Pers. 376</i>.<br><b>      2</b> bien garni de rames, SOPH. <i>O.C. 716</i> ; EUR. <i>Ion 1160</i>.<p><b>Étym</b>. εὖ, ἐρετμόν.`

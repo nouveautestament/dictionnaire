@@ -1,0 +1,1 @@
+lar[44775]=`<b>ας (ἡ)</b> action de nourrir des animaux, PLAT. <i>Pol. 261d</i>.<p><b>Étym</b>. ζῳοτρόφος.`

@@ -1,0 +1,1 @@
+lar[40410]=`<b>ἐρί·γληνος, ος, ον</b>, aux larges prunelles, <i>càd</i>. aux grands yeux, OPP. <i>C. 1, 310</i>.<p><b>Étym</b>. ἐρι-, γλήνη.`

@@ -1,0 +1,1 @@
+lar[17283]=`<b>ου (ὁ)</b> <i>transcr. du n. d’h. rom</i>. Aurēlius, POL. PLUT. <i>etc</i>.`

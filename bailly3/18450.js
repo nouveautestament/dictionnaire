@@ -1,0 +1,1 @@
+lar[18450]=`<b>ή, όν</b>, pénible, affligeant, <i>en parl. de choses,</i> EUR. <i>Hec. 1240</i> ; XÉN. <i>Mem. 4, 8, 1 ; en parl. de pers</i>. qui est à charge, déplaisant, EUR. <i>Hipp. 94</i>.<p>•<i> Sup</i>. ἀχθεινότατος, XÉN. <i>l. c</i>.<p><b>Étym</b>. ἄχθος.`

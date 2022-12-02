@@ -1,0 +1,1 @@
+lar[45839]=`<b>ἠρεμέω-ῶ</b>, être calme, tranquille, <i>p. opp. à</i> κινέομαι, HPC. <i>Fract. 755 ; cf</i>. ARSTT. <i>Phys. 6, 8, 8, etc. ; au mor</i>. XÉN. <i>Ages. 7, 3</i> ; PLAT. <i>Leg. 891a, etc</i>.<p>➳ <i>Dor</i>. ἀρ- <font color="purple">[ᾱ]</font> T. LOCR. <i>95d</i>.<p><b>Étym</b>. *ἠρεμής.`

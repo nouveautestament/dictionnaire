@@ -1,0 +1,1 @@
+lar[61101]=`<b>ας (ἡ)</b> = <i>lat</i>. Licinia, <i>n. de f. rom</i>. PLUT. <i>Qu. gr. 83, Crass. 1, etc</i>.`

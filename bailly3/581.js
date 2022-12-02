@@ -1,0 +1,1 @@
+lar[581]=`<font color="darkgreen">(<i>f</i>. άσω, <i>ao</i>. ἡγίασα, <i>pf. inus. ; pass. ao</i>. ἡγιάσθην, <i>pf</i>. ἡγίασμαι)</font> <font color="purple">[ᾰγ]</font><br><b>      1</b> sanctifier, consacrer comme saint, consacrer, ANTH. <i>App. 339</i> ; SPT. <i>Gen. 2, 3 ; Ex. 13, 2, etc.</i><br><b>      2</b> souiller, SPT. <i>Deut. 22, 9</i>.<p><b>Étym</b>. ἅγιος.`

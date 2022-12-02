@@ -1,0 +1,1 @@
+lar[60373]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. raboteuse, THCR. <i>Idyl. 1, 40 ; subst</i>. ἡ λ. OPP. <i>H. 1, 129,</i> colline raboteuse.<p><b>Étym</b>. λέπρα.`

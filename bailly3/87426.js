@@ -1,0 +1,1 @@
+lar[87426]=`<i>ou</i> <b>πτυελίζω</b> <font color="purple">[ᾰ]</font> avoir la bouche pleine de salive, HPC. <i>Prorrh. 69, etc</i>.<p><b>Étym</b>. πτύαλον.`

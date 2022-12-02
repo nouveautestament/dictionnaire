@@ -1,0 +1,1 @@
+lar[64843]=`<b>ος, ον</b>, qui se repent, repentant, DS. <i>Exc. Vat. p. 56</i>.<p><b>Étym</b>. μεταμέλομαι.`

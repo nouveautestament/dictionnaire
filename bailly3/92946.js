@@ -1,0 +1,1 @@
+lar[92946]=`<b>ου (ὁ) :<br>      1</b> tourbillon, tournoiement, ESCHL. <i>Ag. 657</i>.<br><b>      2</b> ceinture, ESCHL. <i>Suppl. 457 (var</i>. στρόφος).<p><b>Étym</b>. στρέφω.`

@@ -1,0 +1,1 @@
+lar[18954]=`<b>ου (τὸ)</b> <font color="purple">[βᾰῑδ]</font> petite bourse, EUP. (POLL. <i>10, 151</i>) ; HLD. <i>96</i>.<p><b>Étym</b>. <i>dim. de</i> βαλάντιον.`

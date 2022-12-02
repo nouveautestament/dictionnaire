@@ -1,0 +1,1 @@
+lar[49777]=`<b>ἰσο·φαής, ής, ές</b> <font color="purple">[ῑ̆]</font> d’un éclat égal, NAZ. <i>5, 1434 Migne</i>.<p><b>Étym</b>. ἴ. φάος.`

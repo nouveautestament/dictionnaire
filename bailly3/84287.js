@@ -1,0 +1,1 @@
+lar[84287]=`<b>προ·ευτρεπίζω</b> <font color="darkgreen">(<i>f</i>. ίσω, <i>part. pf. pass</i>. προηυτρεπισμένος)</font> tenir tout prêt, JOS. <i>A.J. 20, 6, 3</i> ; HLD. <i>7, 24, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>A.J. 20, 4, 2</i>.`

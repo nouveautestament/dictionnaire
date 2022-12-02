@@ -1,0 +1,1 @@
+lar[51128]=`<b>Καλλι·θόη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Kallithoè, <i>f</i>. HH. <i>Cer. 100</i>.<p><b>Étym</b>. κ. θέω.`

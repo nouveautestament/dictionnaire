@@ -1,0 +1,1 @@
+lar[107507]=`<b>χαλαζῖτις λίθος (ἡ)</b> <font color="purple">[χᾰ]</font> pierre précieuse semblable à un grain de grêle, GEOP. <i>1, 14, 1</i>.<p><b>Étym</b>. χάλαζα.`

@@ -1,0 +1,1 @@
+lar[74884]=`<b>παν·αρκής, ής, ές</b> <font color="purple">[ᾰν]</font> qui suffit à tout, <i>càd</i>. grand, fort, puissant, CALL. <i>fr. 48</i>.<p><b>Étym</b>. π. ἀρκέω.`

@@ -1,0 +1,1 @@
+lar[24168]=`<b>ή, όν</b>, qu’on peut montrer, ARSTT. <i>Xen. 5, 1</i>.<p><b>Étym</b>. <i>vb. de</i> δηλόω.`

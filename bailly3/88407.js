@@ -1,0 +1,1 @@
+lar[88407]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ῥευστικός ORACL. (EUS. <i>P.E. 146b</i>).`

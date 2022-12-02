@@ -1,0 +1,1 @@
+lar[101704]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Hylè :<br><b>      1</b> <i>v. de Béotie,</i> IL. <i>2, 500 ; 5, 708 ; 7, 221</i>.<br><b>      2</b> <i>v. de Chypre,</i> LYC. <i>448</i>.<p><b>Étym</b>. ὕλη, <i>cf</i>. Ὗλαι.`

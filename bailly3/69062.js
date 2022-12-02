@@ -1,0 +1,1 @@
+lar[69062]=`<b>(ὁ)</b> = <i>lat</i>. Numa, <i>roi de Rome,</i> PLUT. <i>Num. 1</i>.<p><b>Étym</b>. <i>cf</i>. Νομᾶς.`

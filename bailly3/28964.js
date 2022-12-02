@@ -1,0 +1,1 @@
+lar[28964]=`<b>δυσ·υπονόητος, ος, ον</b> <font color="purple">[ῠῠ]</font> soupçonneux, PHIL. <i>2, 268</i>.<p><b>Étym</b>. δ. ὑπονοέω.`

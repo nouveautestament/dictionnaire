@@ -1,0 +1,1 @@
+lar[6948]=`<b>ος, ον</b>, rappelé au service (<i>lat</i>. evocatus) DC. <i>45, 12 et 24</i>.<p><b>Étym</b>. ἀνακαλέω.`

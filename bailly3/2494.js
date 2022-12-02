@@ -1,0 +1,1 @@
+lar[2494]=`<b>   1</b> agiter vivement, secouer, SOPH. <i>fr. 486</i> ; ANTH. <i>7, 27 ; fig</i>. BACCHYL. <i>fr. 26 ; au pass</i>. être agité, SAPPH. <i>4</i> (κατθυσσόμενα <i>Bgk</i>).<br><b>   2 <i>intr.</i></b> s’agiter, vaciller, trembloter, ARAT. <i>1033</i>.<p><b>Étym</b>. αἴθω.`

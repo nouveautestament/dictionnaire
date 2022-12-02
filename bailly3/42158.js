@@ -1,0 +1,1 @@
+lar[42158]=`<b>εὐ·θανατέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> mourir d’une belle mort, bien mourir, POL. <i>5, 38, 9</i> ; JOS. <i>A.J. 9, 4, 5</i>.<p><b>Étym</b>. εὐθάνατος.`

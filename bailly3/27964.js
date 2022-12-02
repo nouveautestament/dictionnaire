@@ -1,0 +1,1 @@
+lar[27964]=`<b>ου (ὁ)</b> = <i>lat</i>. Drusus, <i>n. rom</i>. PLUT. <i>Cato mi. 1, etc.</i> ; DS. APP. <i>etc</i>.<p>➳ <i>Voc</i>. -ε, ANTH. <i>9, 405</i>.`

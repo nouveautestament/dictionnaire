@@ -1,0 +1,1 @@
+lar[3546]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Akontios, <i>fils de Lykaon,</i> CALL. <i>fr. 102</i>.`

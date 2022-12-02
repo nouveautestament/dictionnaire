@@ -1,0 +1,1 @@
+lar[72339]=`<b>*ὁπλιτο·πάλης</b>, <i>dor</i>. <b>ὁπλιτο·πάλας, ου (ὁ)</b> <font color="purple">[ᾰλᾱ]</font> qui combat pesamment armé, ESCHL. <i>fr. 427 Dind</i>.<p><b>Étym</b>. ὁπλίτης, πάλη.`

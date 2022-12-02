@@ -1,0 +1,1 @@
+lar[94954]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> συναριθμέω, HÉRODOTUS (ORIB. <i>2, 465 B.-Dar</i>.) ; PLOT. <i>Enn. 1, 66 Creuz</i>.`

@@ -1,0 +1,1 @@
+lar[93231]=`<b>συγ·καθείργω</b>, enfermer ensemble, XÉN. <i>Cyr. 6, 1, 36</i> ; PLUT. <i>Ant. 79 ; au pass</i>. ESCHN. <i>26, 9</i> ; LUC. <i>Cal. 18</i>.`

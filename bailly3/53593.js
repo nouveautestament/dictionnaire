@@ -1,0 +1,1 @@
+lar[53593]=`<b>κατ·αυαίνω</b>, faire sécher, dessécher, ARCHIL. <i>55</i>.`

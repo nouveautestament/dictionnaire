@@ -1,0 +1,1 @@
+lar[91934]=`<b>σπλεκόω-ῶ</b>, avoir des relations sexuelles, AR. <i>Lys. 152 conj. p</i>. πλεκόω.`

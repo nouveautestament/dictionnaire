@@ -1,0 +1,1 @@
+lar[31106]=`<b>εως (ἡ)</b> action de porter secours contre, <i>gén</i>. ATHÉNÉE MÉC. <i>12, 6</i>.<p><b>Étym</b>. ἐκβοηθέω.`

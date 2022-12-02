@@ -1,0 +1,1 @@
+lar[2492]=`<b>αἰθυιό·θρεπτος, ος, ον</b>, qui se nourrit de mouettes, LYC. <i>237</i>.<p><b>Étym</b>. αἴθυια, τρέφω.`

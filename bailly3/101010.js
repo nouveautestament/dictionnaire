@@ -1,0 +1,1 @@
+lar[101010]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m. c</i>. τυμβεῖος, ANTH. <i>7, 198</i>.`

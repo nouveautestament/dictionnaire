@@ -1,0 +1,1 @@
+lar[23721]=`<b>οῦ</b> <font color="purple">[ᾰ]</font> <i>c</i>. δεκασμός, THÉM. <i>65c, dout</i>.<p><b>Étym</b>. *δεκατίζω, <i>de</i> δέκατος, <i>càd. sel. cette étymol</i>. prélèvement, par prévarication, d’un 10<sup>e</sup>, <i>ou, par ext.,</i> d’une part ; <i>mais v</i>. δεκάζω.`

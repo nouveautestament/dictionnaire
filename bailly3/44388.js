@@ -1,0 +1,1 @@
+lar[44388]=`<b>οῦ (ὁ)</b> trésor du temple de Jérusalem, SPT. <i>1Par</i>. 28.11.<p><b>Étym</b>. <i>mot hébreu</i>.`

@@ -1,0 +1,1 @@
+lar[92322]=`<b>ου</b>, plantain à feuilles lancéolées, TH. <i>H.P. 7, 11, 2</i>.`

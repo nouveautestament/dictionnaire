@@ -1,0 +1,1 @@
+lar[93373]=`<b>συγ·κατασύρω</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> entraîner <i>ou</i> ôter avec, PHIL. <i>2, 666</i>.`

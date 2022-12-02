@@ -1,0 +1,1 @@
+lar[97835]=`<b>ητος (ἡ) :<br>      1</b> identité, ARSTT. <i>Nic. 8, 12, 3 ; Metaph. 2, 1, 9</i>.<br><b>      2</b> répétition (d’une lettre, d’un son, <i>etc</i>.) DH.<p><b>Étym</b>. ταὐτό.`

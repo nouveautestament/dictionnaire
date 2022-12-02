@@ -1,0 +1,1 @@
+lar[26404]=`<font color="purple">[ῑῠ]</font> <i>adv</i>., en style dithyrambique, D. PHAL.`

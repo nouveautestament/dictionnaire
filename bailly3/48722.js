@@ -1,0 +1,1 @@
+lar[48722]=`<b>ου</b> <font color="purple">[ῐᾰ]</font> <i>adj. m</i>. d’Ithaque, EUR. <i>Cycl. 103</i> ; AR. <i>Vesp. 185 ; subst</i>. ὁ Ἴ. l’Ithacien, <i>càd</i>. Ulysse, OD. <i>17, 207</i> ; AR. <i>Vesp. 185</i>.<p><b>Étym</b>. Ἰθάκη.`

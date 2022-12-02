@@ -1,0 +1,1 @@
+lar[99089]=`<b>ας (ἡ)</b> <font color="purple">[ῐασ]</font> action d’apprivoiser, PLAT. <i>Pol. 264c</i>.<p><b>Étym</b>. τιθασεύω.`

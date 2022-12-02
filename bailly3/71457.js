@@ -1,0 +1,1 @@
+lar[71457]=`<b>ὁμό·γραμμος, ος, ον</b>, de même lettre : ὁμόγραμμοι ἀθληταί, LUC. <i>Herm. 40,</i> athlètes qui ont tiré la même lettre, <i>càd</i>. désignés par le sort pour combattre ensemble.<p><b>Étym</b>. ὁμ. γράμμα.`

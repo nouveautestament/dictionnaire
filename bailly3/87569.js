@@ -1,0 +1,1 @@
+lar[87569]=`<i>adv</i>., avec nombre racine, Ps.-JAMBL. <i>Theol. arithm. p. 34, 8</i>.`

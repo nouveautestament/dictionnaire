@@ -1,0 +1,1 @@
+lar[90361]=`<b>ος, ον</b> <font color="purple">[ῐᾰ]</font> qui dévore <i>ou</i> engloutit, <i>d’où</i> :<br><b>      1</b> nuisible, funeste, HPC. <i>Art. 816 ; avec le gén</i>. HDT. <i>5, 92</i>.<br><b>      2</b> vorace, gourmand, PLUT. <i>M. 3a ; p. suite,</i> sensuel, débauché, ANACR. <i>52</i>.<p><b>Étym</b>. σίνομαι, -μωρος ; <i>cf</i>. ἰόμωρος.`

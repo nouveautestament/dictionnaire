@@ -1,0 +1,1 @@
+lar[1339]=`<b>ἀ·δίαντος, ος, ον :<br>      1</b> non mouillé, SIM. <i>fr. 37, 3</i> ; τὸ ἀδ. TH. <i>H.P. 7, 10, 5</i> ; THCR. <i>Idyl. 13, 41 ; ou</i> ἡ ἀδ. ORPH. <i>Arg. 918,</i> adiante, <i>sorte de fougère</i>.<br><b>      2</b> non humide de sueur, non affaibli, sans défaillance, PD. <i>N. 7, 73</i>.<p>➳ <i>Adj. fém</i>. -άντη, SIM. <i>l. c</i>.<p><b>Étym</b>. ἀ, διαίνω.`

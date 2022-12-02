@@ -1,0 +1,1 @@
+lar[47714]=`<b>ης, ες</b> <font color="purple">[ῐᾰ]</font> semblable à de la laitue, DIOSC. <i>2, 160</i>.<p><b>Étym</b>. θρίδαξ, -ωδης.`

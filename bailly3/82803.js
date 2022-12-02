@@ -1,0 +1,1 @@
+lar[82803]=`<b>ου (τὸ)</b> lieu de prostitution ; AR. <i>Vesp. 1283, etc.</i> ; ANT. <i>113, 5, etc</i>.<p><b>Étym</b>. πόρνη.`

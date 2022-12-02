@@ -1,0 +1,1 @@
+lar[94704]=`<b>συν·αναθάλλω</b>, croître en même temps que, <i>dat</i>. CLÉM. <i>1, 1037 Migne</i>.`

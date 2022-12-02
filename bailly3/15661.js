@@ -1,0 +1,1 @@
+lar[15661]=`<b>ας (ἡ)</b> <font color="purple">[χῐ]</font> architecture, construction, SPT. <i>Ex. 35, 33</i> ; BITON <i>107</i>.<p><b>Étym</b>. ἀρχιτέκτων.`

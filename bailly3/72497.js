@@ -1,0 +1,1 @@
+lar[72497]=`<b>ὅπωσ·περ</b>, <i>adv</i>., de même que, SOPH. <i>Aj. 1179, etc</i>.<p>➳ <i>Ion</i>. ὅκωσπερ, HDT. <i>9, 120</i>.<p><b>Étym</b>. ὅπως, περ.`

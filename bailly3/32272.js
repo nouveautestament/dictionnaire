@@ -1,0 +1,1 @@
+lar[32272]=`<b>ἔκ·τυφος, ος, ον</b> <font color="purple">[ῡ]</font> enflé, ampoulé, <i>fig</i>. ŒNOM. (EUS. <i>3, 365b Migne).</i><p><b>Étym</b>. ἐκ, τῦφος.`

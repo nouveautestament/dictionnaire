@@ -1,0 +1,1 @@
+lar[79234]=`<b>οῦ (ὁ)</b> bruit des trompettes alentour, JUL. <i>168d</i>.<p><b>Étym</b>. περισαλπίζω.`

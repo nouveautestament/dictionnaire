@@ -1,0 +1,1 @@
+lar[108686]=`<b>ου (τὸ) :<br>      1</b> petit cochon, AR. <i>Ach. 740, 747, 777, 808 ; comme sobriquet,</i> ATH. <i>165b.</i><br><b>      2</b> <i>dim. de</i> χοῖρος 3, AR. <i>Vesp. 1353</i>.<p><b>Étym</b>. χοῖρος.`

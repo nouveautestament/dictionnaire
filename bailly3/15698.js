@@ -1,0 +1,1 @@
+lar[15698]=`<b>ἀρωματο·φόρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui produit (<i>litt</i>. qui porte) des aromates, ARSTT. <i>Plant. 1, 6</i> ; STR. <i>39</i> ; PLUT. <i>Alex. 25, etc.</i> ; LUC. <i>Macr. 17</i>.<br><b>      2</b> préposé au service des épices (<i>litt</i>. qui porte les épices) JOS. <i>A.J. 17, 8, 3</i>.<p><b>Étym</b>. ἄρωμα¹, φέρω.`

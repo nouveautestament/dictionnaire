@@ -1,0 +1,1 @@
+lar[21830]=`<b>ατος (τὸ) :<br>      1</b> goût (d’un aliment, d’une chose qconque) AR. <i>Ach. 187</i> ; ARSTT. <i>H.A. 1, 6, 8 ; etc.</i><br><b>      2</b> ce qu’on goûte, aliment, HPC. <i>Acut. 385</i>.<br><b>      3</b> action de goûter, EUR. <i>Cycl. 150</i> ; PLUT.<p><b>Étym</b>. γεύω.`

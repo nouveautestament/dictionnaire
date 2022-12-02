@@ -1,0 +1,1 @@
+lar[65243]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> emploi d’un nom pour un autre, EL. <i>V.H. 2, 32</i>.<br><b>      2</b> <i>t. de rhét</i>. métonymie, EM. <i>460, 47</i> ; Ps.-PLUT. <i>V. Hom. § 23</i>.<p><b>Étym</b>. μετά, ὄνομα.`

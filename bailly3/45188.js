@@ -1,0 +1,1 @@
+lar[45188]=`<b>ου (ὁ)</b> fils d’Hèlios, LUC. <i>Am. 2</i>.<p><b>Étym</b>. <i>patr. de</i> Ἥλιος.`

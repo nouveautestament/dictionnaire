@@ -1,0 +1,1 @@
+lar[14749]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’Aristote, CIC. <i>Att. 13, 19</i> ; DH. <i>6, 746 Reiske, etc</i>.<p><b>Étym</b>. Ἀριστοτέλης.`

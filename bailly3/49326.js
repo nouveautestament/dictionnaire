@@ -1,0 +1,1 @@
+lar[49326]=`<i>adv</i>., de dessus un cheval <i>ou</i> en sautant de cheval, OD. <i>8, 515 ; 11, 531</i>.<p><b>Étym</b>. ἵππος, -θεν.`

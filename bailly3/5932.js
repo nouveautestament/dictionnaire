@@ -1,0 +1,1 @@
+lar[5932]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῡ]</font> Amymônè :<br><b>      1</b> <i>Danaïde,</i> A.RH. <i>1, 137</i> ; LUC. <i>D. mar. 6, etc.</i><br><b>      2</b> <i>fontaine près de Lerne,</i> CALL. <i>L. Pall. 48, etc</i>.`

@@ -1,0 +1,1 @@
+lar[89053]=`<b>οῦ (ὁ)</b> <font color="purple">[βᾰ]</font> célébration du sabbat, PLUT. <i>M. 166a ;</i> NT. <i>Hebr. 4, 9</i>.<p><b>Étym</b>. σαββατίζω.`

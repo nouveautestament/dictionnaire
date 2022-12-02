@@ -1,0 +1,1 @@
+lar[96931]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱγ]</font> empreinte d’un sceau, EUR. <i>Hipp. 864</i> ; XÉN. <i>Hell. 1, 4, 3</i> ; MÉN. <i>4, 226 Meineke</i>.<p><b>Étym</b>. σφραγίζω.`

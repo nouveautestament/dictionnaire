@@ -1,0 +1,1 @@
+lar[23825]=`<b>ύος (ἡ)</b> matrice, HPC. <i>680, 13</i> ; ARSTT. <i>H.A. 3, 1, 21</i>.<p><b>Étym</b>. <i>indo-europ</i>. *g<sup>w</sup>elb<sup>h</sup>u-, utérus ; <i>cf</i>. ἀδελφός, <i>sscr</i>. gárbha-.`

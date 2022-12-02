@@ -1,0 +1,1 @@
+lar[106556]=`<b>ου (ὁ)</b> <font color="purple">[ῑῑ]</font> vin de palmier <i>ou</i> de dattes, DIOSC. <i>5, 40</i>.<p><b>Étym</b>. φοῖνιξ.`

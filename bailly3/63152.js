@@ -1,0 +1,1 @@
+lar[63152]=`<b>ματαιόω-ῶ</b> <font color="purple">[μᾰ]</font> rendre vain <i>ou</i> sot, <i>au pass</i>. être déçu, MÉLÉT. <i>3, 5 Cramer, d’où impers</i>. être dit, pensé <i>ou</i> fait sottement : μεματαίωταί σοι, SPT. <i>1Sam. 13, 13,</i> tu as sottement agi.<p><b>Étym</b>. μάταιος.`

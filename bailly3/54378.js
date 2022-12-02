@@ -1,0 +1,1 @@
+lar[54378]=`<b>καχ·ήμερος, ος, ον</b> <font color="purple">[ᾰ]</font> qui passe sa vie (<i>propr</i>. ses jours) tristement, ANTH. <i>9, 508</i>.<p><b>Étym</b>. κακός, ἡμέρα.`

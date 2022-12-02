@@ -1,0 +1,1 @@
+lar[51675]=`<b>καπρο·φόνος, ος, ον</b>, qui tue des sangliers, ANTH. <i>9, 83</i>.<p><b>Étym</b>. κ. πεφνεῖν.`

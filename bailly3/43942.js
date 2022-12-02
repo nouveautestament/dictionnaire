@@ -1,0 +1,1 @@
+lar[43942]=`<i>part. pf. pass. de</i> ἐφίημι <i>ou de</i> ἐφέννυμι.`

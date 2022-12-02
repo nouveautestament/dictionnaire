@@ -1,0 +1,1 @@
+lar[24463]=`<b>δια·βυνέω-ῶ</b> <font color="purple">[ῡ]</font> <i>seul. moy. (prés. ind. 3 pl</i>. -έονται) <i>c</i>. διαβύω, HDT. <i>4, 71</i>.`

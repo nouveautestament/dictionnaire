@@ -1,0 +1,1 @@
+lar[53772]=`<b>κατα·χωνεύω</b>, jeter en fonte, fondre : τι, DÉM. <i>617, 23</i> ; STR. <i>398, etc.,</i> qqe ch. (un métal) ; κ. τοῦ στόματος χρυσίον τινός, APP. <i>Mithr. 21,</i> couler de l’or dans la bouche de qqn.`

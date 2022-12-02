@@ -1,0 +1,1 @@
+lar[8426]=`<b>ἀν·επίγραφος, ος, ον</b> <font color="purple">[ᾰφ]</font> sans inscription <i>ou</i> titre, POL. <i>8, 33, 6</i> ; DS. <i>1, 64 ; fig</i>. LUC. <i>Nec. 15, Cat. 25</i>.<p><b>Étym</b>. ἀν-, ἐπιγραφή.`

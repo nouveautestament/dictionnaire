@@ -1,0 +1,1 @@
+lar[36596]=`<b>ἐπ·ανακάμπτω</b>, se replier, revenir : ἐπί τι, ARSTT. <i>Probl. 17, 3</i> ; εἴς τι, CLÉM. <i>Str. 8, p. 777,</i> vers qqe ch. ; <i>abs</i>. ARSTT. <i>H.A. 3, 1, 15 ; 3, 3, 21</i>.`

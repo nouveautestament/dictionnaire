@@ -1,0 +1,1 @@
+lar[23664]=`<b>δεκά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui peut contenir dix lits de table, XÉN. <i>Œc. 8, 13</i>.<br><b>      2</b> de la longueur de dix lits de table, ARSTT. <i>Mir. 57</i>.<p><b>Étym</b>. δ. κλίνη.`

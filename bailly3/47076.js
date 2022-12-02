@@ -1,0 +1,1 @@
+lar[47076]=`<b>ου (ὁ)</b> celui qui pose, <i>d’où</i> :<br><b>      1</b> qui donne, qui crée, PLAT. <i>Crat. 389d.</i><br><b>      2</b> qui donne en dépôt <i>ou</i> en gage, IS. <i>82, 18</i>.<p><b>Étym</b>. τίθημι.`

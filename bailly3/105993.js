@@ -1,0 +1,1 @@
+lar[105993]=`<b>φιλο·πέρσης, ου (ὁ)</b> <font color="purple">[ῐ]</font> ami des Perses, THÉM. <i>132b</i>.<p><b>Étym</b>. φ. Πέρσαι.`

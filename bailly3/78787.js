@@ -1,0 +1,1 @@
+lar[78787]=`<b>περι·κλύζω</b>, baigner tout autour, ARSTT. <i>Mir. 91 ; au pass</i>. THC. <i>6, 3</i> ; PLUT. <i>Mar. 36, etc. ; fig</i>. περικλύζεσθαι κακοῖς, LIB. être plongé dans le malheur.`

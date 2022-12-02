@@ -1,0 +1,1 @@
+lar[648]=`<b>ἀγκυλο·βλέφαρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> dont les paupières adhèrent entre elles <i>ou</i> avec le blanc de l’œil, CELS. <i>7, 7</i>.<p><b>Étym</b>. <i>v</i>. ἀγκυλοβλέφαρον.`

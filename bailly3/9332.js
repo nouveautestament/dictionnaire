@@ -1,0 +1,1 @@
+lar[9332]=`<b>ητος (ἡ)</b> impiété sacrilège, PLAT. <i>Euthyphr. 5d ;</i> ISOCR. <i>257d</i>.<p><b>Étym</b>. ἀνόσιος.`

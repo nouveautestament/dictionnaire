@@ -1,0 +1,1 @@
+lar[12992]=`<b>ἀπο·νωτίζω</b>, faire tourner le dos, mettre en fuite, <i>acc</i>. SOPH. <i>fr. 638</i> ; EUR. <i>Bacch. 763</i>.`

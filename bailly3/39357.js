@@ -1,0 +1,1 @@
+lar[39357]=`<b>ας (ἡ)</b> autorité, charge, POLYEN <i>6, 9, 3</i>.<p><b>Étym</b>. ἐπιτελής.`

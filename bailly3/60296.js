@@ -1,0 +1,1 @@
+lar[60296]=`<b>ου (τὸ)</b> = <i>lat</i>. linteum, morceau de toile, linge, M. RUBR. <i>6</i> ; NT. <i>Joh. 13, 4</i>.<p><b>Étym</b>. <i>cf</i>. λίντεον.`

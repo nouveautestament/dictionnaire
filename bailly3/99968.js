@@ -1,0 +1,1 @@
+lar[99968]=`<b>α, ον</b> <font color="purple">[ᾰῐ]</font> du cou, STR. <i>127, 772</i>.<p><b>Étym</b>. τράχηλος.`

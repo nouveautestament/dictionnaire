@@ -1,0 +1,1 @@
+lar[58888]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> <i>c</i>. κυπασσίς, LYC. <i>333</i>.`

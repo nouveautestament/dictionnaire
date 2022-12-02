@@ -1,0 +1,1 @@
+lar[35065]=`<i>mauv. prononc. de</i> ἐντευθενί, AR. <i>Th. 1212</i>.`

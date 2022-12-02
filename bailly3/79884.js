@@ -1,0 +1,1 @@
+lar[79884]=`<b>πετρ·άκης, ης, ες</b> <font color="purple">[ᾱ]</font> dur <i>ou</i> aigu comme un roc, ORPH. <i>Lith. 228</i>.<p><b>Étym</b>. π. ἀκή.`

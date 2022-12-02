@@ -1,0 +1,1 @@
+lar[46789]=`<b>θεό·σοφος, ος, ον</b>, instruit des choses divines, PORPH. <i>Abst. 2, 35</i> ; JAMBL. <i>Myst. 249, 10</i>.<p><b>Étym</b>. θ. σοφός.`

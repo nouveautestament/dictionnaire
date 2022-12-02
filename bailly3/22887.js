@@ -1,0 +1,1 @@
+lar[22887]=`<b>οῦ (ὁ)</b> action de mesurer au moyen de l’équerre, LYS. (HARP.) ; <i>fig</i>. action de mesurer (des vers) à l’équerre, AR. <i>Ran. 956</i>.<p><b>Étym</b>. *γωνιάζω, <i>de</i> γωνία.`

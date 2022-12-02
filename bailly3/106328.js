@@ -1,0 +1,1 @@
+lar[106328]=`<b>ή, όν</b>, qui concerne les veines, ARSTT. <i>H.A. 3, 1, 13 ; P.A. 2, 1, 21, etc</i>.<p><b>Étym</b>. φλέψ.`

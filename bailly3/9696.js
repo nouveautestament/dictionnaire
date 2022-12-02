@@ -1,0 +1,1 @@
+lar[9696]=`<b>ἀντ·έρως, ωτος (ὁ)</b> amour pour amour, amour partagé, PLAT. <i>Phædr. 255d</i>.`

@@ -1,0 +1,1 @@
+lar[41968]=`<b>εὐ·έλαιος, ος, ον</b>, riche en oliviers, <i>ou</i> abondant en huile, STR. <i>243</i>.<p><b>Étym</b>. εὖ, ἐλαία <i>ou</i> ἔλαιον.`

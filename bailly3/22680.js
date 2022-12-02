@@ -1,0 +1,1 @@
+lar[22680]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> Gryneion, <i>v. et port d’Éolide, avec un temple à Apollon,</i> XÉN. <i>Hell. 3, 1, 6 ; etc</i>.`

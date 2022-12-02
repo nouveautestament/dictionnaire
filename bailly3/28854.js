@@ -1,0 +1,1 @@
+lar[28854]=`<b>ας (ἡ)</b> indécence, laideur, JOS. <i>A.J. 3, 7, 1</i>.<p><b>Étym</b>. δυσπρεπής.`

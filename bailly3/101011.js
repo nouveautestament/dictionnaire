@@ -1,0 +1,1 @@
+lar[101011]=`<b>τυμβο·γέρων, οντος (ὁ)</b> vieillard près du tombeau, TH. (PHOT. <i>p. 610, 1</i>) ; PHRYN. COM. <i>4, 680 Mein</i>.<p><b>Étym</b>. τύμβος, γέρων.`

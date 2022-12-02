@@ -1,0 +1,1 @@
+lar[97760]=`<b>Ταΰ·γετος, ου (ὁ)</b> <font color="purple">[ᾱῠ]</font> <i>c</i>. Ταΰγετον EL. <i>N.A. 3, 27</i> ; ANTH. <i>App. 289</i>.`

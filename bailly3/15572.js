@@ -1,0 +1,1 @@
+lar[15572]=`<b>ου (ὁ)</b> Arkhiadès, <i>h</i>. DÉM. <i>1081, 2, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀρχίας.`

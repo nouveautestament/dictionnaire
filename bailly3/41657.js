@@ -1,0 +1,1 @@
+lar[41657]=`<b>εὔ·αρνος, ος, ον :<br>      1</b> riche en agneaux <i>ou</i> en troupeaux, ANTH. <i>6, 108</i>.<br><b>      2</b> qui a de nombreux agneaux <i>ou</i> brebis, ANTH. <i>7, 657</i>.<p><b>Étym</b>. εὖ, ἀρήν.`

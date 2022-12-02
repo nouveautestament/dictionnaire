@@ -1,0 +1,1 @@
+lar[68537]=`<b>ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui va nu-pieds, A.RH. <i>3, 646</i>.<br><b>      2</b> <i>p. ext</i>. pauvre, LYC. <i>635</i>.<p><b>Étym</b>. νη-, ἦλιψ, chaussure dorienne.`

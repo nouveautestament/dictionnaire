@@ -1,0 +1,1 @@
+lar[81443]=`<b>α, ον</b>, de berger, pastoral, EUR. <i>fr. 740 Nauck (var</i>. ποίμνια) ; ANTH. <i>6, 73 ; 8, 22, etc.</i> ; τὸ ποιμένιον, OPP. <i>C. 3, 264 ; 4, 269,</i> troupeau de moutons.<p><b>Étym</b>. ποιμήν.`

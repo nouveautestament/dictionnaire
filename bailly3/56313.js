@@ -1,0 +1,1 @@
+lar[56313]=`<b>Κνισό·ζωμος</b>, <i>mieux que</i> <b>Κνισσό·ζωμος, ου (ὁ)</b> Jus-de-viande-rôtie, <i>n. d’un parasite,</i> ALCIPHR. <i>3, 6</i>.<p><b>Étym</b>. κνῖσα, ζωμός.`

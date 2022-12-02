@@ -1,0 +1,1 @@
+lar[30721]=`(<i>part. prés</i>.) <font color="purple">[ᾰ]</font> prêter à intérêts, PLAT. <i>Rsp. 555c</i>.`

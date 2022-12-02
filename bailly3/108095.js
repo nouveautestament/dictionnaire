@@ -1,0 +1,1 @@
+lar[108095]=`<b>χειρ·άμαξα, ης (ἡ)</b> <font color="purple">[ᾰμ]</font> voiture à bras, ANTYLL. (ORIB. <i>p. 117</i>).`

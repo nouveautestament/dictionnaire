@@ -1,0 +1,1 @@
+lar[37611]=`<b>ἐπι·διατρίβω</b> <font color="purple">[ῑβ]</font><br><b>      1</b> passer le temps à, s’occuper à, <i>dat</i>. TH. <i>Od. 11 ; abs</i>. HDN <i>2, 11, 2</i>.<br><b>      2</b> passer le temps : ἐπ. ἡμέρας, JOS. <i>A.J. 11, 5, 2,</i> passer les jours, <i>d’où</i> durer longtemps ARSTT. <i>Meteor. 3, 1, 10</i>.`

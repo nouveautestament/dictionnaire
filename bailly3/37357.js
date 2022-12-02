@@ -1,0 +1,1 @@
+lar[37357]=`<i>adv</i>., avec application de l’esprit, EPIC. (DL. <i>10, 50</i>).`

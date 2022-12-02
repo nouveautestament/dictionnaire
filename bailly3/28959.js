@@ -1,0 +1,1 @@
+lar[28959]=`<b>δύσ·υπνος, ος, ον</b> <font color="purple">[δῠ]</font> qui a de la peine à dormir, AGATHIN. (ORIB. <i>2, 396 B.-Dar</i>.).<p><b>Étym</b>. δ. ὕπνος.`

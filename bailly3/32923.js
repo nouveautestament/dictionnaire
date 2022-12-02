@@ -1,0 +1,1 @@
+lar[32923]=`<b>ἑλλεβορο·ποσία, ας (ἡ)</b> action de boire une infusion d’ellébore, HPC. <i>1160b</i>.<p><b>Étym</b>. ἑ. ποτός.`

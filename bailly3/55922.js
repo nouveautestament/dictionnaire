@@ -1,0 +1,1 @@
+lar[55922]=`<b>Κλεο·φῶν, ῶντος (ὁ)</b> Kléophôn :<br><b>      1</b> <i>démagogue athénien,</i> AR. <i>Ran. 678, etc.</i> ; ESCHN. <i>3, 150 Baiter-Sauppe</i> ; ARSTT. <i>Rhet. 1, 15, etc.</i><br><b>      2</b> <i>général athénien,</i> AR. <i>Th. 805, etc.</i> ; XÉN. <i>Hell. 1, 7, 35</i>.<br><b>      3</b> <i>autres,</i> ARSTT. <i>Poet. 2, 22, etc</i>.<p><b>Étym</b>. κλ. *φάω.`

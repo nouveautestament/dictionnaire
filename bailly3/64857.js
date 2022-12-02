@@ -1,0 +1,1 @@
+lar[64857]=`<b>μετ·αμφιέννυμι</b> <font color="purple">[ῡ]</font> faire changer de vêtement, DL. <i>7, 25</i>.<br><b><i>Moy.</i></b> changer de vêtement, revêtir, <i>acc</i>. PLUT. <i>Nic. 3</i> ; HDN <i>3, 5, 9</i> ; μ. τινι, THPP. (ATH. <i>533c</i>) changer de vêtement avec qqn ; <i>fig</i>. DL. <i>3, 67</i>.`

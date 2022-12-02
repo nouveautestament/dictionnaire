@@ -1,0 +1,1 @@
+lar[38926]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐπαρυστήρ <i>ou</i> ἐπιχυτήρ, AQU. <i>Zach. 4, 2</i>.<p><b>Étym</b>. ἐπιρρέω.`

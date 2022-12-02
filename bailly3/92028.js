@@ -1,0 +1,1 @@
+lar[92028]=`<b>ατος (τὸ) :<br>      1</b> objet de soin, de zèle, PLAT. <i>Phædr. 249d.</i><br><b>      2</b> œuvre faite avec soin, ARR. <i>An. 7, 7, 13</i> ; SEXT. <i>P. 3, 279</i>.<p><b>Étym</b>. σπουδάζω.`

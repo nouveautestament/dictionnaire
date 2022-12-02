@@ -1,0 +1,1 @@
+lar[58707]=`<b>οῦς (ἡ)</b> <font color="purple">[ῡ]</font> Kymô, <i>Néréide,</i> HÉS. <i>Th. 255</i>.<p><b>Étym</b>. κῦμα.`

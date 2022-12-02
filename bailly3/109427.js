@@ -1,0 +1,1 @@
+lar[109427]=`<b>ης (ἡ) :<br>      1</b> creuset de fondeur, POSIDON. (ATH. <i>233d</i>) ; DIOSC. <i>5, 85</i> ; ANTH. <i>9, 528</i>.<br><b>      2</b> écheneau de fondeur, entonnoir par où coule le métal en fusion, PHÉRÉCR. (ATH. <i>269c</i>) ; PLAT. <i>Rsp. 411a ;</i> PLUT. <i>M. 903e ;</i> EL. <i>V.H. 2, 41 ; N.A. 2, 40, etc</i>.<p><b>Étym</b>. <i>contr. de</i> χοάνη.`

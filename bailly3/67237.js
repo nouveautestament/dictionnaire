@@ -1,0 +1,1 @@
+lar[67237]=`<b>μυρίνης οἶνος (ὁ)</b> vin parfumé, <i>très recherché des dames romaines,</i> DIPH. (ATH. <i>132d</i>) ; POSIDIPP. (ATH. <i>32b</i>) ; EL. <i>V.H. 12, 31</i>.<p><b>Étym</b>. μύρον.`

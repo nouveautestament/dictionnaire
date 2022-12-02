@@ -1,0 +1,1 @@
+lar[38326]=`<b>ή, όν :<br>      1</b> apte à réfléchir, sensé, prudent, ARR. <i>Epict. 2, 10, 3</i> ; PTOL. <i>Tetr. 155, 160</i> ; CLÉM. <i>254</i>.<br><b>      2</b> <i>t. de gr</i>. qui marque une conclusion, <i>en parl. de la particule</i> οὐκοῦν, DYSC. <i>Conj. 525, 28</i>.<p><b>Étym</b>. ἐπιλογίζομαι.`

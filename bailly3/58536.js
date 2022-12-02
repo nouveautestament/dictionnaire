@@ -1,0 +1,1 @@
+lar[58536]=`<b>εως (ἡ)</b> <font color="purple">[υ]</font> impulsion circulaire, <i>d’où</i> mouvement circulaire, PLAT. <i>Tim. 39c, etc</i>.<p><b>Étym</b>. κυκλέω.`

@@ -1,0 +1,1 @@
+lar[30881]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> percepteur, AQU. <i>Ex. 5, 6 et 13 ; Job 39, 7</i>.<p><b>Étym</b>. εἰσπράσσω.`

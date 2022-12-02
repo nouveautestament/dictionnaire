@@ -1,0 +1,1 @@
+lar[28588]=`<b>ατος (τὸ)</b> mauvais lot, sort malheureux, malheur, POL. <i>Exc. Vat. p. 437</i> ; DS. <i>Exc. Vat. p. 92</i>.<p><b>Étym</b>. δυσκληρέω.`

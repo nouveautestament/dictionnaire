@@ -1,0 +1,1 @@
+lar[46678]=`<b>θεό·κραντος, ος, ον</b>, accompli par les dieux, ESCHL. <i>Ag. 1488</i>.<p><b>Étym</b>. θ. κραίνω.`

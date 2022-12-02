@@ -1,0 +1,1 @@
+lar[110531]=`<b>ή, όν</b>, <i>vb. de</i> ὠθέω, HDN GR. <i>Epim. p. 103 Boissonade</i>.`

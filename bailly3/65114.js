@@ -1,0 +1,1 @@
+lar[65114]=`<b>εως (ἡ)</b> remplacement d’un vieux bandage par un nouveau, HPC. <i>759a, 763g</i>.<p><b>Étym</b>. μετεπιδέω.`

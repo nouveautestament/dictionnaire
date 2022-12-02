@@ -1,0 +1,1 @@
+lar[69314]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui s’agite, se meut, NIC. <i>fr. 6, 3</i>.<p><b>Étym</b>. νωμάω.`

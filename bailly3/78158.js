@@ -1,0 +1,1 @@
+lar[78158]=`<b>πέντ·οζος, ος, ον</b>, à cinq nœuds <i>ou</i> branches ; ἡ π. HÉS. <i>O. 740,</i> la main.<p><b>Étym</b>. π. ὄζος.`

@@ -1,0 +1,1 @@
+lar[100105]=`<b>ορος</b> <font color="purple">[ᾱ]</font> <i>adj. f</i>. qui a eu trois époux, <i>ou p. ext</i>. plusieurs époux, LYC. <i>851</i>.<p><b>Étym</b>. τρεῖς, ἀνήρ.`

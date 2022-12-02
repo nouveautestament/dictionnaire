@@ -1,0 +1,1 @@
+lar[26888]=`<b>Διοσ·κορίνθιος, ου (ὁ)</b> <i>le mois macédonien</i> Dioskorinthios, SPT. <i>2Macc. 11, 21</i>.<p><b>Étym</b>. Διός, Κόρινθος.`

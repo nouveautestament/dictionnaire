@@ -1,0 +1,1 @@
+lar[18480]=`<b>ἄ·χλοος-ους, οος-ους, οον-ουν :<br>      1</b> sans herbages, EUR. <i>Hel. 1327</i>.<br><b>      2</b> sans verdure, desséché, HPC. <i>218b ;</i> OPP. <i>H. 2, 496</i>.<p><b>Étym</b>. ἀ, χλόα.`

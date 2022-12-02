@@ -1,0 +1,1 @@
+lar[11454]=`<b>ἀπ·ατιμάζω</b> (<i>part. pf. pass</i>. ἀπητιμασμένος) <font color="purple">[ῑ]</font> déshonorer, outrager, ESCHL. <i>Eum. 95</i>.`

@@ -1,0 +1,1 @@
+lar[68011]=`<b>νεκρο·πρεπής, ής, ές</b>, qui convient pour un mort, NAZ. <i>2, 290</i>.<p><b>Étym</b>. ν. πρέπω.`

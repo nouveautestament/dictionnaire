@@ -1,0 +1,1 @@
+lar[108493]=`<b>ης (ἡ)</b> Khionè :<br><b>      1</b> <i>femme ou, sel. d’autres, fille de Borée,</i> Ps.-PLUT. <i>Fluv. 5, 3</i>.<br><b>      2</b> <i>autre,</i> LYCURG. <i>Leocr. 98</i>.<p><b>Étym</b>. χιών.`

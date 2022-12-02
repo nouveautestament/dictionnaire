@@ -1,0 +1,1 @@
+lar[68924]=`<b>ή, όν</b>, pensé, réputé, supposé, SEXT. <i>P. 3, 24, 232, p. 186</i>.<p><b>Étym</b>. <i>vb. de</i> νομίζω.`

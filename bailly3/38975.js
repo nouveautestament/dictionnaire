@@ -1,0 +1,1 @@
+lar[38975]=`<b>ἐπι·σκαίρω</b> (<i>seul. prés</i>.) bondir sur, EL. <i>N.A. 14, 8</i> ; NONN. <i>D. 48, 902</i>.`

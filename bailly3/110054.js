@@ -1,0 +1,1 @@
+lar[110054]=`<b>ψωμο·κόλαφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui se laisse souffleter pour un morceau de pain <i>ou</i> de viande, vil parasite, DIPH. (ATH. <i>262d</i>).`

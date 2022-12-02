@@ -1,0 +1,1 @@
+lar[50708]=`<b>κάκ·οδμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui sent mauvais, HPC. <i>Progn. 40</i>.<p><b>Étym</b>. κ. ὀδμή.`

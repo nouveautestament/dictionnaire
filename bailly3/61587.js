@@ -1,0 +1,1 @@
+lar[61587]=`nuire, faire tort, SPT. <i>Prov. 19, 19</i>.<p><b>Étym</b>. λοιμός.`

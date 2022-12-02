@@ -1,0 +1,1 @@
+lar[49490]=`<b>ἰρινό·μικτος, ος, ον</b> <font color="purple">[ῑῐν]</font> mélangé d’huile d’iris, PHILOX. (ATH. <i>490c</i>).<p><b>Étym</b>. ἴρινον, μικτός.`

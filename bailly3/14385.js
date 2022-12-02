@@ -1,0 +1,1 @@
+lar[14385]=`<b>ης (ἡ)</b> tache, saleté, PHÉRÉCR. <i>fr. 55 Mein</i>.<p><b>Étym</b>. ἄρδω.`

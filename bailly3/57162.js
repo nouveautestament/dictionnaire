@@ -1,0 +1,1 @@
+lar[57162]=`<b>ᾶ (ὁ)</b> morveux, MÉN. <i>fr. 940 Mein</i>.<p><b>Étym</b>. κόρυζα.`

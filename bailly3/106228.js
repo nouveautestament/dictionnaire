@@ -1,0 +1,1 @@
+lar[106228]=`<b>φιλτρο·δότης, ου (ὁ)</b> qui fournit un philtre, <i>n. de certaines plantes,</i> DIOSC. <i>4, 60</i>.<p><b>Étym</b>. φίλτρον, δίδωμι.`

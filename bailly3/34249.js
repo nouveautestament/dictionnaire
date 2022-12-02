@@ -1,0 +1,1 @@
+lar[34249]=`<b>ας (ἡ)</b> mobilier d’une maison, POL. <i>18, 18, 6</i>.<p><b>Étym</b>. ἔνδον, ἔχω ; <i>cf</i>. ἐνδομένια.`

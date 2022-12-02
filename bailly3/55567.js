@@ -1,0 +1,1 @@
+lar[55567]=`<b>κιρκόω-ῶ</b>, enserrer dans un anneau, ESCHL. <i>Pr. 74</i>.<p><b>Étym</b>. κίρκος.`

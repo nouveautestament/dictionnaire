@@ -1,0 +1,1 @@
+lar[37998]=`<b>ἐπι·κεραστικός, ή, όν</b>, propre à tempérer les humeurs, GAL. <i>6, 343</i>.<p><b>Étym</b>. ἐπικεράννυμι.`

@@ -1,0 +1,1 @@
+lar[11214]=`<b>ἀπ·αμβλίσκω</b> <font color="darkgreen">(<i>f</i>. -αμβλώσω, <i>ao</i>. ἀπήμβλωσα) :</font><br><b>      1</b> avorter, PLUT. <i>Pomp. 53</i>.<br><b>      2</b> faire avorter, <i>d’où</i> faire tomber les fruits avant leur maturité, PLUT. <i>Arat. 32</i>.`

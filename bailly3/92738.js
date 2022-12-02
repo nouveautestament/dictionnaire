@@ -1,0 +1,1 @@
+lar[92738]=`<b>ου</b>, qui a la bouche dure, <i>en parl. d’un cheval,</i> J. AFR.<p><b>Étym</b>. στόμα.`

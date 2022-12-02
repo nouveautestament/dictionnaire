@@ -1,0 +1,1 @@
+lar[40237]=`<b>ας (ἡ)</b> laine, CALLIX. (ATH. <i>197b</i>) ; STR. <i>196</i>.<p><b>Étym</b>. <i>cf</i>. ἔριον.`

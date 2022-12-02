@@ -1,0 +1,1 @@
+lar[42566]=`<b>*εὐλάζω</b> (<i>seul. inf. fut. dor</i>. εὐλαξεῖν) labourer, <i>ou simpl</i>. fouiller la terre, ORACL. (THC. <i>5, 16).</i><p><b>Étym</b>. <i>v</i>. εὐλάκα.`

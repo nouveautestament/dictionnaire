@@ -1,0 +1,1 @@
+lar[22846]=`<b>Γυραίη πέτρη (ἡ)</b> <font color="purple">[ῡ]</font> la Roche de Gyrè, <i>l’un des rocs du groupe</i> Γυραί, OD. <i>4, 507</i> ; Q. SM. <i>14, 570</i>.`

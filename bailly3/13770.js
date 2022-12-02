@@ -1,0 +1,1 @@
+lar[13770]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> jeune pousse, rejeton, TH. <i>H.P. 6, 4, 4</i> ; POL. <i>18, 1, 10</i>.<br><b>      2</b> <i>t. d’anat</i>. apophyse, <i>partie saillante des os à laquelle sont attachés les tendons,</i> HPC.<p><b>Étym</b>. ἀποφύω.`

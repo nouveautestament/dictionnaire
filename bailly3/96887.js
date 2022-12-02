@@ -1,0 +1,1 @@
+lar[96887]=`<i>et</i> <b>σφιν</b>, <i>pron. encl. de la 3<sup>e</sup> pers. au dat. sg. plur. et duel, v</i>. σφε-.`

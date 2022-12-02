@@ -1,0 +1,1 @@
+lar[96504]=`<i>ion</i>. <b>Συρίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Syria, <i>une des Cyclades, auj</i>. Syros, OD. <i>15, 403</i>.`

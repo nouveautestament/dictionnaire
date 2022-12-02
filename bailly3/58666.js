@@ -1,0 +1,1 @@
+lar[58666]=`<b>κυματο·ειδής, ής, ές</b> <font color="purple">[ῡᾰ]</font> houleux, orageux, ARSTT. <i>Probl. 26, 16</i>.<p><b>Étym</b>. κῦμα, εἶδος.`

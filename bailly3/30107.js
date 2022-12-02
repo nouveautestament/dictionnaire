@@ -1,0 +1,1 @@
+lar[30107]=`<b>(ὁ)</b> Ézéchias, <i>roi de Judée,</i> NT. <i>Matth. 1, 9, 10</i>.`

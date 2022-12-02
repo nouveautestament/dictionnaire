@@ -1,0 +1,1 @@
+lar[82080]=`<b>ας (ἡ)</b> <i>n. d’une muse, chez les Sicyoniens,</i> PLUT. <i>Qu. conv. 9, 14, 7</i>.<p><b>Étym</b>. πολυμαθής.`

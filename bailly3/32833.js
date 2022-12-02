@@ -1,0 +1,1 @@
+lar[32833]=`<b>ῶν (οἱ)</b> les Élimiôtes, <i>ou</i> habitants d’Élimia, THC. <i>2, 99</i> ; STR. <i>434</i>.<p><b>Étym</b>. Ἐλιμία.`

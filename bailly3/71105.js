@@ -1,0 +1,1 @@
+lar[71105]=`<b>ῶνος (ἡ)</b> Olizôn, <i>v. de Magnésie,</i> IL. <i>2, 717</i>.`

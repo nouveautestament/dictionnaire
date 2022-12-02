@@ -1,0 +1,1 @@
+lar[8058]=`<b>ἀνδρο·δάμας, αντος (ὁ, ἡ)</b> <font color="purple">[δᾰ]</font><br><b>      1</b> qui dompte les hommes, PD. <i>N. 3, 37</i>.<br><b>      2</b> qui tue son époux, PD. <i>N. 9, 16</i>.<p><b>Étym</b>. ἀνήρ, δαμάω.`

@@ -1,0 +1,1 @@
+lar[102440]=`<b>ὑπερ·ένδοξος, ος, ον</b>, tout à fait illustre, SPT. <i>Cant. tr. puer. (Dan. 3, 53), etc</i>.`

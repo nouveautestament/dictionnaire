@@ -1,0 +1,1 @@
+lar[96]=`<b>ων (τὰ)</b> Abiles (<i>auj</i>. Suq Wadi Barada) <i>v. de Cœlé-Syrie,</i> POL. <i>5, 15, 22, etc</i>.`

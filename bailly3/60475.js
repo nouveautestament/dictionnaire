@@ -1,0 +1,1 @@
+lar[60475]=`<b>ης (ἡ)</b> Lerne, <i>lac d’Argolide avec un fl. et un village du même nom,</i> ESCHL. <i>Pr. 652</i> ; EUR. <i>Ph. 613</i> ; STR. <i>368</i>.<p>➳ <i>Dor. gén</i>. Λέρνας, EUR. <i>H.f. 420</i>.`

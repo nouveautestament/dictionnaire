@@ -1,0 +1,1 @@
+lar[60723]=`<b>(οἱ)</b> les Lèges, <i>pple à la pointe sud de la mer Caspienne,</i> PLUT. <i>Pomp. 35</i>.`

@@ -1,0 +1,1 @@
+lar[65931]=`<b>μιξό·θηλυς (ὁ, ἡ)</b> à moitié féminin, PHILSTR. <i>V. soph. 2, p. 623, 1</i>.<p><b>Étym</b>. μ. θῆλυς.`

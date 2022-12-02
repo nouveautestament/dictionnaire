@@ -1,0 +1,1 @@
+lar[10216]=`<b>ἀντι·παριππεύω</b>, s’avancer avec de la cavalerie sur le flanc (de l’ennemi) ARR. <i>An. 5, 16</i>.`

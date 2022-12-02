@@ -1,0 +1,1 @@
+lar[95036]=`<b>συν·αφομοιόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre entièrement semblable à, <i>dat</i>. PLUT. <i>M. 52e</i>.`

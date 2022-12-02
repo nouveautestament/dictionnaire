@@ -1,0 +1,1 @@
+lar[10257]=`<b>ἀντι·περιποιέομαι-οῦμαι</b>, marquer une action réciproque, DYSC. <i>Synt. 299</i>.`

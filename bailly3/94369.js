@@ -1,0 +1,1 @@
+lar[94369]=`<b>συμ·προπορεύομαι</b>, s’avancer ensemble, SPT. <i>Deut. 31, 8</i>.`

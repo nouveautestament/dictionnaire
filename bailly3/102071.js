@@ -1,0 +1,1 @@
+lar[102071]=`<b>ὑπ·εγείρω</b> <font color="purple">[ῠ]</font> éveiller doucement, <i>fig. càd</i>. exciter peu à peu, PHILSTR. <i>519, 799, etc.</i> ; EL. <i>N.A. 6, 1</i>.`

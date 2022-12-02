@@ -1,0 +1,1 @@
+lar[21140]=`<b>γαγγραινόομαι-οῦμαι</b>, être atteint de gangrène, HPC. <i>Art. 828</i>.<p><b>Étym</b>. γάγγραινα.`

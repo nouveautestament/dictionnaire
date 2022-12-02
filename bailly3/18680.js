@@ -1,0 +1,1 @@
+lar[18680]=`<font color="purple">[ᾰ]</font> <i>interj. d’étonnement ou d’admiration,</i> oh ! EUR. <i>Cycl. 156</i> ; AR. <i>Av. 272</i> ; βαβαὶ βαβαί, CHRYSIPP. (ATH. <i>158b</i>), oh ! oh ! <i>avec un gén</i>. βαβαὶ τοῦ λόγου, PLAT. <i>Phil. 23b</i>, oh ! quel discours !.`

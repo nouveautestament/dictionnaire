@@ -1,0 +1,1 @@
+lar[49686]=`<b>ἰσο·μήκης, ης, ες</b> <font color="purple">[ῑ̆]</font> égal en longueur, de même longueur, PLAT. <i>Rsp. 546c ;</i> ARSTT. <i>H.A. 2, 15, 14</i>.<p><b>Étym</b>. ἴ. μῆκος.`

@@ -1,0 +1,1 @@
+lar[31791]=`<i>adv</i>., ἐκπ. διακεῖσθαι, DÉM. <i>1447, 17,</i> être saisi de frayeur.`

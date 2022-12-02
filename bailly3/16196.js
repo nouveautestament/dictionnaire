@@ -1,0 +1,1 @@
+lar[16196]=`<b>ου (ὁ)</b> qui lance des éclairs (<i>Zeus</i>) CORN. <i>N.D. 9</i>.<p><b>Étym</b>. ἀστεροπή.`

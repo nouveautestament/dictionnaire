@@ -1,0 +1,1 @@
+lar[104571]=`<b>η, ον (τὰ)</b> très brillant, le plus brillant, OD. <i>13, 93</i> ; ANTH. <i>8, 9</i>.<p><b>Étym</b>. <i>superl. d’un adj. inus. ; cf</i>. φαάντερος.`

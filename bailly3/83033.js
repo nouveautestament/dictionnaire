@@ -1,0 +1,1 @@
+lar[83033]=`<b>Ποτηριο·φλύαρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Verre-à-la-bouche, <i>n. de parasite,</i> ALCIPHR. <i>3, 57</i>.<p><b>Étym</b>. ποτήριον, φλυαρέω.`

@@ -1,0 +1,1 @@
+lar[94384]=`<b>συμ·προφητεύω</b>, prophétiser <i>ou</i> prédire ensemble, PLUT. <i>M. 860d</i>.`

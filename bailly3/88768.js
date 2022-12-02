@@ -1,0 +1,1 @@
+lar[88768]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Rhœteion, A.RH. <i>1, 929, etc</i>.<p><b>Étym</b>. Ῥοίτειον.`

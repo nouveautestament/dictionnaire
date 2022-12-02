@@ -1,0 +1,1 @@
+lar[5011]=`<b>ἀ·λύμαντος, ος, ον</b> <font color="purple">[ῡ]</font> non injurié, PLUT. <i>M. 5e</i>.<p><b>Étym</b>. ἀ, λυμαίνομαι.`

@@ -1,0 +1,1 @@
+lar[89760]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de Sélinunte, THC. <i>6, 6 ; 7, 58 ; 8, 26</i>.<p><b>Étym</b>. Σελινοῦς.`

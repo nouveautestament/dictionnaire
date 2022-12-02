@@ -1,0 +1,1 @@
+lar[50126]=`<b>ου (ὁ)</b> = <i>lat</i>. Johannes, Jean, <i>n. hébreu,</i> NT. <i>Matth. 3, 1, etc</i>.<p>➳ <i>trisyll. p. syniz</i>. <font color="purple">[‒ ‒ ‒]</font> ANTH. <i>App. 336</i>.`

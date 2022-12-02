@@ -1,0 +1,1 @@
+lar[105713]=`<b>φιλο·γέλοιος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les plaisanteries, ARSTT. <i>Rhet. 2, 13, 15 ; Virt. et vit. 6, 5</i>.<p><b>Étym</b>. φ. γελοῖος.`

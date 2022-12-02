@@ -1,0 +1,1 @@
+lar[22120]=`<i>litt</i>. coller les paupières, <i>càd</i>. cligner de l’œil par moquerie <i>ou</i> fermer les yeux pour dormir, GAL.<p><b>Étym</b>. γλοιά.`

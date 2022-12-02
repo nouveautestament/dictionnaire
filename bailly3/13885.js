@@ -1,0 +1,1 @@
+lar[13885]=`<b>ἀ·πρίατος, η, ον</b> <font color="purple">[ῐᾰ]</font> non acheté, rendu sans rançon, HH. <i>Cer. 132, et probabl</i>. IL. <i>1, 99</i>.<p><b>Étym</b>. ἀ, πρίαμαι.`

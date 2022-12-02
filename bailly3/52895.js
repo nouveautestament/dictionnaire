@@ -1,0 +1,1 @@
+lar[52895]=`<b>κατα·ναρκάω-ῶ</b>, employer un narcotique contre, <i>d’où</i> rendre lourd, accabler, plonger dans la torpeur, <i>gén</i>. NT. <i>2Cor. 11, 8 ; 12, 13 ; au pass</i>. être plongé dans la torpeur, HPC. <i>1, 1194</i>.`

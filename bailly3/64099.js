@@ -1,0 +1,1 @@
+lar[64099]=`<b>ου (τὸ)</b> <i>s.-e</i>. κυνίδιον, sorte de petit chien de l’î. Μελίτη <font color="purple">[le bichon maltais ?]</font> ARSTT. <i>H.A. 9, 6 fin</i> ; TH. <i>Char. 21, etc</i>.`

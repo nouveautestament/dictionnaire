@@ -1,0 +1,1 @@
+lar[79991]=`<b>ῶν (αἱ)</b> Pèges, <i>propr</i>. « les Sources » :<br><b>      1</b> <i>port de Mégaride (auj</i>. Alepokhóri) THC. <i>1, 103</i>.<br><b>      2</b> <i>fontaine de Mysie,</i> A.RH. <i>1, 1222</i>.<p><b>Étym</b>. πηγή.`

@@ -1,0 +1,1 @@
+lar[69899]=`<b>ξυνόω-ῶ</b> <font color="purple">[ῡ]</font> rendre commun à tous, NONN. <i>Jo. 20, 80</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. CLÉARQ. (ARR. <i>Ind. 20, 4</i>) ; MAN. <i>2, 492</i>.<p><b>Étym</b>. ξυνός.`

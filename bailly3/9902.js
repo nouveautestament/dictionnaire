@@ -1,0 +1,1 @@
+lar[9902]=`<b>ἀντι·θύρετρος, ος, ον</b> <font color="purple">[ῠ]</font> qui tient lieu de porte, NONN. <i>Jo. 11, 140</i>.<p><b>Étym</b>. ἀ. θύρετρον.`

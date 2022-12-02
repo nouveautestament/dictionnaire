@@ -1,0 +1,1 @@
+lar[78665]=`<b>περί·θριξ, -τριχος (ὁ)</b> <font color="purple">[ῐχ]</font> les premiers cheveux qui poussent autour de la tête, POÈT. (SUID.).`

@@ -1,0 +1,1 @@
+lar[72664]=`<i>éol. c</i>. ὁράω, SAPPH. <i>fr. 2, 11 Bgk ; inf</i>. ὀρῆν, AR. <i>Lys. 1077 ; part</i>. ὀρείς, PITTAC. (DL. <i>1, 81</i>).<br><b><i>Moy</i>. ὄρημαι</b> (<i>prés. 2 sg</i>. ὄρηαι) <i>m. sign</i>. OD. <i>14, 343</i>.`

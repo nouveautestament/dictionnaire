@@ -1,0 +1,1 @@
+lar[83269]=`<b>ων (οἱ)</b> les Prasies, <i>pple indien,</i> NONN. <i>D. 26, 61</i> ; EL. <i>N.A. 16, 20, etc</i>.`

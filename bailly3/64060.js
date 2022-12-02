@@ -1,0 +1,1 @@
+lar[64060]=`<b>μελί·σπονδα, ων (τὰ)</b> <i>s.-e</i>. ἱερά, sacrifices où l’on fait des libations de miel, PLUT. <i>M. 464c, 672b</i>.<p><b>Étym</b>. μέλι, σπένδω.`

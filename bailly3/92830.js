@@ -1,0 +1,1 @@
+lar[92830]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en bon général, AR. <i>Av. 362</i> ; POL. <i>11, 16, 5</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>4, 19, 5 ; 10, 32, 7</i>.`

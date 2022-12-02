@@ -1,0 +1,1 @@
+lar[87686]=`<b>Πυλη·γενής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. Πυλοιγενής, HH. <i>Ap. 398</i> ; EUPH. <i>fr. 59</i>.`

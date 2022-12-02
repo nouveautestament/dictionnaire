@@ -1,0 +1,1 @@
+lar[6865]=`<b>ας (ἡ)</b> impudence, XÉN. <i>Cyr. 1, 2, 7, etc.</i> ; PLAT. <i>Leg. 701a, Conv. 192a, etc</i>.<p><b>Étym</b>. ἀναίσχυντος.`

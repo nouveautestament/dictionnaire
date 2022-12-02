@@ -1,0 +1,1 @@
+lar[75223]=`<b>πάν·τεχνος, ος, ον</b>, utile à tous les arts, ESCHL. <i>Pr. 7</i>.<p><b>Étym</b>. π. τέχνη.`

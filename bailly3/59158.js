@@ -1,0 +1,1 @@
+lar[59158]=`dormir d’un sommeil lourd et continu, HPC. <i>468, 52</i>.<p><b>Étym</b>. κῶμα.`

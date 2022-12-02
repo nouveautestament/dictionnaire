@@ -1,0 +1,1 @@
+lar[55473]=`<b>ας (ἡ)</b> <font color="purple">[ῐνᾰ]</font> odeur de bouc, <i>d’où</i> odeur infecte (des aisselles, d’une barbe sale), LUC. <i>D. mort. 10, 9</i>.`

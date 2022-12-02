@@ -1,0 +1,1 @@
+lar[19710]=`<b>βιβλιο·λάθας, α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> <i>mot dor</i>. qui oublie ses propres ouvrages, <i>surn. du grammairien Didyme, qui avait écrit tant de traités qu’il ne pouvait se les rappeler tous,</i> ATH. <i>139c</i>.<p><b>Étym</b>. βιβλίον, λανθάνω.`

@@ -1,0 +1,1 @@
+lar[19187]=`<b>βαρυ·πειθής, ής, ές</b> <font color="purple">[ᾰῠ]</font> lent à obéir, NONN. <i>D. 3, p. 31, 10</i>.<p><b>Étym</b>. β. πείθω.`

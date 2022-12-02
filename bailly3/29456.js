@@ -1,0 +1,1 @@
+lar[29456]=`<i>vb. de</i> ἐγκαθίζω, faire asseoir dans <i>ou</i> sur, ORIB. <i>1, 575 R.-Dar</i>.`

@@ -1,0 +1,1 @@
+lar[107319]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. φυτηκομία, NYSS.`

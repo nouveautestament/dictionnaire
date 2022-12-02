@@ -1,0 +1,1 @@
+lar[80522]=`<b>ου</b> <font color="purple">[ᾰ]</font> Pittalos, <i>médecin,</i> AR. <i>Vesp. 1432</i>.<p><b>Étym</b>. πίττα.`

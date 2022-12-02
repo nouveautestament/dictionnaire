@@ -1,0 +1,1 @@
+lar[6523]=`<b>*ἀνα·βαΰζω</b>, <i>seul. poét</i>. <b>ἀμ·βαΰζω</b>, crier, dire en criant, ESCHL. <i>Pers. 638 Weil</i>.`

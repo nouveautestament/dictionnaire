@@ -1,0 +1,1 @@
+lar[49145]=`<b>ἰο·πλόκαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> aux tresses aux reflets violets, PD. <i>P. 1, 1</i> ; SIM. <i>fr. 21</i>.<p><b>Étym</b>. ἴον, πλόκαμος.`

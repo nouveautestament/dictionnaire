@@ -1,0 +1,1 @@
+lar[95509]=`<b>συν·εξαποστέλλω</b> (<i>fut.2 pass</i>. συνεξαποσταλήσομαι) envoyer avec <i>ou</i> ensemble, POL. <i>8, 21, 6</i> ; DS. <i>14, 20 ; au pass</i>. POL. <i>23, 15, 11</i>.`

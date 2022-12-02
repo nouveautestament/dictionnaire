@@ -1,0 +1,1 @@
+lar[30495]=`<b>ή, όν</b>, qui concerne les hilotes, des hilotes, PLUT. <i>Sol. 21 et 22</i> ; τὸ εἱλωτικόν, les hilotes, PAUS. <i>4, 23, 1</i>.<p><b>Étym</b>. εἵλως.`

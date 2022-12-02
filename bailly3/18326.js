@@ -1,0 +1,1 @@
+lar[18326]=`<b>ἀφ·υστερέω-ῶ</b>, <i>f</i>. ήσω :<br><b>      1 <i>intr.</i></b> rester en arrière, être en retard, POL. <i>1, 52, 8 ; 22, 5, 2</i> ; DH. <i>10, 26 ; etc.</i><br><b>      2 <i>tr.</i></b> retenir, SPT. <i>Neh. 9, 20</i>.`

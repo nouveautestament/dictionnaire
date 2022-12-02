@@ -1,0 +1,1 @@
+lar[93607]=`<b>συγ·χόνδρωσις, εως (ἡ)</b> union de deux os par un cartilage, GAL.<p><b>Étym</b>. σ. χόνδρος.`

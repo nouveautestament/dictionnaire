@@ -1,0 +1,1 @@
+lar[50534]=`<b>ας (ἡ)</b> = <i>lat</i>. Cæcilia, <i>n. de f</i>. PLUT. <i>Syll. 6, etc</i>.`

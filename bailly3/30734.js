@@ -1,0 +1,1 @@
+lar[30734]=`<b>εἰσ·εάω-ῶ</b> (<i>inf. ao</i>. εἰσεᾶσαι) laisser entrer <i>ou</i> faire entrer, GEOP. <i>15, 2, 27</i>.`

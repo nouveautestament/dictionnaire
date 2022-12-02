@@ -1,0 +1,1 @@
+lar[32380]=`<b>ἐκ·χαλκεύω</b>, fabriquer en cuivre <i>ou</i> en airain, JOS. <i>A.J. 3, 7, 6</i>.`

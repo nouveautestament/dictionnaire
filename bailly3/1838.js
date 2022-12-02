@@ -1,0 +1,1 @@
+lar[1838]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> <i>s.-e</i>. λίθος, aétite, <i>pierre qu’on trouvait, disait-on, dans les nids d’aigle,</i> EL. <i>N.A. 1, 35</i> ; DIOSC. <i>5, 161, etc</i>.<p><b>Étym</b>. ἀετός.`

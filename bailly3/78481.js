@@ -1,0 +1,1 @@
+lar[78481]=`<b>ητος (ἡ)</b> voisinage de la terre, PTOL. <i>Tetr. p. 17, 6</i>.<p><b>Étym</b>. περίγειος.`

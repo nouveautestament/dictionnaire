@@ -1,0 +1,1 @@
+lar[15155]=`<b>ας (ἡ) :<br>      1</b> célébration des mystères, SYN. <i>Provid. 4, 1272c Migne</i>.<br><b>      2</b> acte infâme, JUL. <i>210d ;</i> CLÉM. <i>76a Migne</i>.<p><b>Étym</b>. ἀρρητουργός.`

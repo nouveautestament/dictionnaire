@@ -1,0 +1,1 @@
+lar[52913]=`<b>κατ·ανθίζω</b>, orner de fleurs, <i>d’où p. ext</i>. orner, parer, DS. <i>18, 26</i> ; CALLISTR. <i>p. 913</i>.`

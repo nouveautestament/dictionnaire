@@ -1,0 +1,1 @@
+lar[94548]=`<b>συν·αγριαίνω</b>, s’exaspérer <i>ou</i> être exaspéré avec, <i>dat</i>. THÉM. <i>191c</i>.`

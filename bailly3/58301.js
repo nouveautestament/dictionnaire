@@ -1,0 +1,1 @@
+lar[58301]=`<b>ου (ὁ) :<br>      1</b> fondateur, ARSTT. <i>fr. 507</i> ; DL. <i>2, 120</i> ; ATH. <i>345d ; d’où</i> le créateur, SPT. <i>2Reg. 22, 32 ; Judith 9, 12 ; Sir. 24, 8 ; 2 Macc. 1, 24, etc.</i><br><b>      2</b> qui rétablit, qui restaure, PLUT. <i>Cic. 22</i>.<p><b>Étym</b>. κτίζω.`

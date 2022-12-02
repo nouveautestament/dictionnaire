@@ -1,0 +1,1 @@
+lar[70064]=`<b>ατος (τὸ) :<br>      1</b> enflure, <i>fig</i>. faste, orgueil, LIB. <i>119</i>.<br><b>      2</b> forme arrondie, <i>d’où</i> coude, ORIB. <i>p. 44 Mai</i>.<p><b>Étym</b>. ὀγκόω.`

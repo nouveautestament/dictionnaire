@@ -1,0 +1,1 @@
+lar[103498]=`<b>ὑπό·λογος, ος, ον</b>, porté en compte : ὑπόλογον ποιεῖσθαί τι, PLAT. <i>Lach. 189b, ou</i> τίθεσθαί τι, PLAT. <i>Prot. 349c</i>, imputer qqe ch. à qqn, rendre qqn responsable de qqe ch. ; φημὶ τούτοις ὑπόλογον εἶναι αὐτῶν τὴν φυγήν, LYS. <i>180, 36,</i> je dis que leur exil est imputable à ceux-ci.<p><b>Étym</b>. ὑ. λέγω.`

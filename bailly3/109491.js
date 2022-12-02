@@ -1,0 +1,1 @@
+lar[109491]=`<b>Ψ, ψ</b> (ψῖ) psi, <i>23<sup>e</sup> lettre de l’alphabet grec, équivaut à</i> πσ, βσ, φσ. <i>Comme chiffre</i> ψʹ = 700, ͵ψ = 700 000.`

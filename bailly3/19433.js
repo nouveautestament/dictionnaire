@@ -1,0 +1,1 @@
+lar[19433]=`<b>ου (ὁ)</b> puanteur (d’un vent), COM. ANON. <i>65</i>.<p><b>Étym</b>. βδύλλω.`

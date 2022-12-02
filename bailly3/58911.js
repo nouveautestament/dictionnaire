@@ -1,0 +1,1 @@
+lar[58911]=`<b>κυπριν·έλαιον, ου (τὸ)</b> <font color="purple">[ῡῐ]</font> huile <i>ou</i> parfum de cyprus, A. TR. <i>3, p. 184</i>.<p><b>Étym</b>. κύπρινος, ἔλ.`

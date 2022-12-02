@@ -1,0 +1,1 @@
+lar[84454]=`<b>προ·καταδουλόω-ῶ</b> <font color="purple">[ᾰᾰ]</font> asservir <i>ou</i> soumettre auparavant, DS. <i>12, 1</i>.`

@@ -1,0 +1,1 @@
+lar[12991]=`<i>adv</i>., sans peine, sans fatigue, HDT. <i>9, 2</i> ; THC. <i>1, 122, etc</i>.<p>•<i> Cp</i>. -ώτερον, THC. <i>1, 11</i> ; XÉN. <i>Cyr. 1, 6, 8. • Sup</i>. -ώτατα, XÉN. <i>Mem. 2, 1, 24</i>.<p><b>Étym</b>. ἄπονος.`

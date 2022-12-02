@@ -1,0 +1,1 @@
+lar[24069]=`<b>δευτερο·ταγής, ής, ές</b> <font color="purple">[ᾰ]</font> placé au second rang, NICOM. <i>Theol. 18</i>.<p><b>Étym</b>. δ. τάσσω.`

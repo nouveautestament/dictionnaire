@@ -1,0 +1,1 @@
+lar[1770]=`<b>η, ον</b> <font color="purple">[ᾱῐ]</font> aérien, limpide comme l’air, azuré, ARSTT. <i>Metaph. 8, 7, 5</i>.<p><b>Étym</b>. ἀήρ.`

@@ -1,0 +1,1 @@
+lar[44439]=`<b>ᾶς (ἡ)</b> longue robe descendant jusqu’aux pieds, <i>à l’usage des Arabes</i>, HDT. <i>7, 69 ; des Thraces, etc</i>. HDT. <i>7, 75 ; cf</i>. XÉN. <i>An. 7, 4, 4</i>.<p><b>Étym</b>. <i>mot d’orig. étrangère</i>.`

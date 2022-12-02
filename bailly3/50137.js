@@ -1,0 +1,1 @@
+lar[50137]=`<b>οῦ (ἡ)</b> Iôlkos, <i>v. de Thessalie, lieu de rassemblement des Argonautes,</i> HÉS. <i>Th. 997</i> ; PD. <i>I. 8, 87, etc.</i> ; EUR. <i>Alc. 249, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἰαωλκός.`

@@ -1,0 +1,1 @@
+lar[42569]=`<b>(ἡ)</b> <font color="purple">[ᾰᾱ]</font> soc de charrue <i>ou</i> hoyau, ORACL. (THC. <i>5, 16, au dat</i>. εὐλάκᾳ).<p><b>Étym</b>. <i>mot lacon. c</i>. αὖλαξ.`

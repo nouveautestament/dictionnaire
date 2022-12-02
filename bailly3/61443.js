@@ -1,0 +1,1 @@
+lar[61443]=`<b>λιφ·αιμία</b>, <i>mieux que</i> <b>λειφ·αιμία, ας (ἡ)</b> <font color="purple">[λῐ]</font> manque de sang, anémie, PHIL. <i>2, 512</i>.<p><b>Étym</b>. <i>cf</i>. λιφαιμέω.`

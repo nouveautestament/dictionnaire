@@ -1,0 +1,1 @@
+lar[16742]=`<i>adv.</i> :<br><b>      1</b> incomplètement, ARSTT. <i>Pol. 3, 1, 5</i>.<br><b>      2</b> imparfaitement, PLUT. <i>M. 472f ;</i> NYSS. <i>etc</i>.<p><b>Étym</b>. ἀτελής.`

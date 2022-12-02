@@ -1,0 +1,1 @@
+lar[57003]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῑῐδ]</font> <i>dim. de</i> κορακῖνος PHÉRÉCR. <i>et</i> ANAXANDR. (ATH. <i>309a, 329e</i>).`

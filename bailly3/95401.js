@@ -1,0 +1,1 @@
+lar[95401]=`<b>συν·εκπτύω</b>, cracher <i>ou</i> rejeter en même temps, NYSS.`

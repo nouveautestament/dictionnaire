@@ -1,0 +1,1 @@
+lar[102281]=`<font color="purple">[ᾰ]</font> <i>adv</i>., tout à fait au haut de, <i>gén</i>. ES. <i>4 Halm</i>.<p><b>Étym</b>. ὑπεράνω, -θεν.`

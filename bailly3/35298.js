@@ -1,0 +1,1 @@
+lar[35298]=`<b>ας (ἡ)</b> durée de six ans, PHIL. <i>2, 277, 371, etc.</i> ; JOS. <i>A.J. 16, 1, 1</i>.<p><b>Étym</b>. ἑξαετής.`

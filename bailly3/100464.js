@@ -1,0 +1,1 @@
+lar[100464]=`<b>τρί·σκαλμος, ος, ον</b>, à trois rangs de rames, ESCHL. <i>Pers. 679, 1074</i> ; PLUT. <i>Æmil. 6</i>.<p><b>Étym</b>. τρ. σκαλμός.`

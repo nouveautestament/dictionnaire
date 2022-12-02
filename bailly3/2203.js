@@ -1,0 +1,1 @@
+lar[2203]=`<b>Αἰγειών (ὁ)</b> l’impétueux (Poséidon) CALL. <i>73</i>.<p><b>Étym</b>. ἀΐσσω.`

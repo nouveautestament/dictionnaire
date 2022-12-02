@@ -1,0 +1,1 @@
+lar[13908]=`<i>adv</i>., à l’improviste, ARCHIG. (ORIB. <i>2, 160 B.-Dar</i>.).<p><b>Étym</b>. ἀπροϊδής.`

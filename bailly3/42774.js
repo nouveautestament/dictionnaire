@@ -1,0 +1,1 @@
+lar[42774]=`<b>εὐνοέω-οῶ</b>, être bienveillant, HDT. <i>9, 79</i> ; τινι, HDT. <i>7, 237</i> ; SOPH. <i>Aj. 689</i> ; LYS. <i>131, 1,</i> pour qqn ; <i>au pass</i>. être traité avec bienveillance, MÉN. (STOB. <i>Fl. 1, 125</i>) ; PHALAR. <i>Ep. 4, p. 10</i>.<p><b>Étym</b>. εὔνοος.`

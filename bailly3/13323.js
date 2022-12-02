@@ -1,0 +1,1 @@
+lar[13323]=`<b>ἀπο·σκίδναμαι</b> <font color="darkgreen">(<i>seul. prés. inf</i>. -ασθαι, IL. <i>23, 4</i> ; THC. <i>6, 98 ; et partic</i>. -άμενος, HDT. <i>4, 113</i> ; DH. <i>5, 76</i>)</font> se disperser, s’éloigner de, <i>gén</i>.<p><b>Étym</b>. <i>cf</i>. ἀποσκεδάννυμι.`

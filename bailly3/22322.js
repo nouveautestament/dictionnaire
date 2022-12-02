@@ -1,0 +1,1 @@
+lar[22322]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> intelligence, sagesse, prudence, SOL. <i>fr. 16</i>.<p><b>Étym</b>. γνώμων.`

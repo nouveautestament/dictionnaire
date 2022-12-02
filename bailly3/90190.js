@@ -1,0 +1,1 @@
+lar[90190]=`<b>οῦ (τὸ)</b> <font color="purple">[σῐ]</font> (<i>s.-e</i>. φάρμακον) remède à l’écorce de grenade, P. ÉG. <i>6, 22</i>.<p><b>Étym</b>. σίδιον.`

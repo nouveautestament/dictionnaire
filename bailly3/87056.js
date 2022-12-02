@@ -1,0 +1,1 @@
+lar[87056]=`<b>ή, όν</b>, qui concerne le prélude d’un poème <i>ou</i> d’une pièce, HÉPH. <i>p. 123, 6 Gaisf</i>.<p><b>Étym</b>. προῳδός.`

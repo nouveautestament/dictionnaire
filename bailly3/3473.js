@@ -1,0 +1,1 @@
+lar[3473]=`<b>ἀ·κνίσωτος, ος, ον</b> <font color="purple">[ῑ]</font> <i>c</i>. ἄκνισος 1 ESCHL. <i>fr. 422</i> ; LUC. <i>Bis acc. 2</i>.<p><b>Étym</b>. ἀ, κνισόω.`

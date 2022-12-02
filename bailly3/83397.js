@@ -1,0 +1,1 @@
+lar[83397]=`<b>ή, όν</b>, qui a la propriété de brûler, d’enflammer, <i>p. suite,</i> de faire gonfler, GAL. <i>Lex. Hipp. 19, 132, au</i> <i>• Sup</i>. -ώτατος.<p><b>Étym</b>. πίμπρημι.`

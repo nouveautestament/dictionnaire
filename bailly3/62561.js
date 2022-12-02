@@ -1,0 +1,1 @@
+lar[62561]=`<b>μακρο·σύλλαβος, ος, ον</b> <font color="purple">[λᾰ]</font> qui a une syllabe longue, DH. <i>Dem. 38</i>.<p><b>Étym</b>. μ. συλλαβή.`

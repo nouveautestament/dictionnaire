@@ -1,0 +1,1 @@
+lar[94703]=`<b>συν·αναζητέω-ῶ</b>, rechercher avec, HLD. <i>6, 7</i>.`

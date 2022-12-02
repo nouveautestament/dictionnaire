@@ -1,0 +1,1 @@
+lar[61142]=`<b>ου (τὸ)</b> <font color="purple">[λῐ]</font> <i>dim. de</i> λιμήν, STR. <i>5, 2, 6 ; 17, 1, 9 Kram</i>.`

@@ -1,0 +1,1 @@
+lar[68230]=`<b>νεό·ρρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule depuis peu, SOPH. <i>El. 894</i> ; ANTH. <i>9, 363</i>.<p><b>Étym</b>. ν. ῥέω.`

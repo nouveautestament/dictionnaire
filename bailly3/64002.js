@@ -1,0 +1,1 @@
+lar[64002]=`<b>ατος (τὸ) :<br>      1</b> chanson, MOSCH. <i>3, 93</i>.<br><b>      2</b> pipeau, flûte, MOSCH. <i>3, 56 (var</i>. μείλιγμα).<p><b>Étym</b>. μελίζω².`

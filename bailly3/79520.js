@@ -1,0 +1,1 @@
+lar[79520]=`<b>ής, ές</b> <font color="purple">[ῐβ]</font> usé tout autour, tout usé, ANTH. <i>6, 63 ; p. ext</i>. usé, A.RH. <i>1, 1175</i>.<p><b>Étym</b>. περιτρίβω.`

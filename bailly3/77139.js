@@ -1,0 +1,1 @@
+lar[77139]=`<b>παρ·οψωνέω-ῶ</b>, acheter des friandises en cachette, AR. <i>Eccl. 226</i> ; CRAT. (<i>Com. fr. 2, 71</i>).`

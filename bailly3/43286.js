@@ -1,0 +1,1 @@
+lar[43286]=`<b>εὐρυ·κόωσα, ης (ἡ)</b> qu’on entend au loin, sonore, retentissant, <i>ép. de Ketô, déesse de la mer,</i> EUPH. <i>fr. 87</i>.`

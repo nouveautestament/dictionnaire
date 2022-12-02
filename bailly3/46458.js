@@ -1,0 +1,1 @@
+lar[46458]=`<b>θεηλατέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font><br><b>      1</b> être frappé par la divinité, HLD. <i>8, 10</i>.<br><b>      2</b> se plaindre d’un malheur envoyé par les dieux, HLD. <i>6, 8</i>.<p><b>Étym</b>. θεήλατος.`

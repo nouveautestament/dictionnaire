@@ -1,0 +1,1 @@
+lar[53589]=`<b>κατα·τύπτομαι</b> <font color="darkgreen">(<i>seul. prés. 2 pl. sync</i>. καττύπτεσθε)</font> se frapper, SAPPH. <i>67</i>.`

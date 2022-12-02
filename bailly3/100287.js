@@ -1,0 +1,1 @@
+lar[100287]=`<b>ας (ἡ)</b> <font color="purple">[ῐμ]</font> réunion de trois mesures, <i>t. de métr</i>. TRICHA <i>1, p. 259, 29, Scriptores metrici græci, Westphal</i>.<p><b>Étym</b>. τρίμετρος.`

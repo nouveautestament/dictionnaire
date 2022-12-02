@@ -1,0 +1,1 @@
+lar[51202]=`<b>καλλί·πυγος, ος, ον</b> <font color="purple">[ῐῡ]</font> aux belles fesses, CERCID. (ATH. <i>554c</i>).<p><b>Étym</b>. κ. πυγή.`

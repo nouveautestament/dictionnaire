@@ -1,0 +1,1 @@
+lar[28940]=`<b>δυ·στρατοπέδευτος, ος, ον</b> <font color="purple">[ᾰ]</font> peu commode pour camper, EN. TACT. <i>Pol. c. 8, p. 26</i>.<p><b>Étym</b>. δ. στρατοπεδεύω.`

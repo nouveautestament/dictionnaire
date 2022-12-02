@@ -1,0 +1,1 @@
+lar[27992]=`<b>δρυμο·χαρής, ής, ές</b> <font color="purple">[ῡᾰ]</font> qui se plaît dans les bois, ORPH. <i>H. 50, 12</i>.<p><b>Étym</b>. δρυμός, χαίρω.`

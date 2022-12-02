@@ -1,0 +1,1 @@
+lar[49575]=`<b>ἰσθμο·ειδής, ής, ές</b>, qui ressemble à un isthme, <i>Per. Eux. p. 7</i>.<p><b>Étym</b>. ἰσθμός, εἶδος.`

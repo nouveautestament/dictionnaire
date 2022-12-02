@@ -1,0 +1,1 @@
+lar[45556]=`<b>ἡμί·σικλον, ου (τὸ)</b> <font color="purple">[μῐ]</font> demi-sicle, JOS. <i>A.J. 7, 13, 1</i>.<p><b>Étym</b>. ἡμι-, σίκλος.`

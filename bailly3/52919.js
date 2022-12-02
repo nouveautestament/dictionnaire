@@ -1,0 +1,1 @@
+lar[52919]=`<b>κατα·νίσσομαι</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> descendre de, <i>avec</i> ἐξ <i>et le gén</i>. A.RH. <i>2, 976</i>.<br><b>      2</b> aller à travers, parcourir, <i>acc</i>. HERMÉSIAN. <i>65</i>.`

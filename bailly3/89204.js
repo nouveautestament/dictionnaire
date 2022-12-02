@@ -1,0 +1,1 @@
+lar[89204]=`<b>Σαλμωνίς ἄκρη (ἡ)</b> le promontoire Salmônis, <i>en Crète,</i> A.RH. <i>4, 169 ; abs</i>. Σαλμωνίς, <i>m. sign</i>. DP. <i>110</i>.`

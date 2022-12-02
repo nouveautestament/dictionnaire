@@ -1,0 +1,1 @@
+lar[46383]=`<b>ου (ἡ)</b> Thapsakos (<i>auj</i>. ruines près de Karkamış et Jarabulus) <i>v. sur l’Euphrate,</i> XÉN. <i>An. 1, 4, 11</i> ; PLUT. <i>Alex. 68</i>.`

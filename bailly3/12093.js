@@ -1,0 +1,1 @@
+lar[12093]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> non lavé, sale : ἀ. σπόγγος, ARSTT. <i>H.A. 5, 16,</i> sorte d’éponge d’un jaune sale.<p><b>Étym</b>. ἄπλυτος.`

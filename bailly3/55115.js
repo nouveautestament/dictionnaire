@@ -1,0 +1,1 @@
+lar[55115]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière charmante, ISOCR. <i>17e ;</i> PLAT. <i>Phædr. 273e ;</i> AR. <i>Ach. 248</i>.<p>•<i> Sup</i>. -ώτατα, XÉN. <i>Hipp. 1, 1</i>.<p><b>Étym</b>. κεχαρισμένος.`

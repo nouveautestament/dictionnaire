@@ -1,0 +1,1 @@
+lar[79657]=`<b>περι·χαλινόω-ῶ</b> <font color="purple">[ᾰῑ]</font> ajuster un mors tout autour, brider, APP. <i>Syr. 26</i>.`

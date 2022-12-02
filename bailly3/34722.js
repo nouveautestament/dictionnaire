@@ -1,0 +1,1 @@
+lar[34722]=`<b>ἐννεά·κυκλος, ος, ον</b> <font color="purple">[ᾰ]</font> à neuf cercles, COL. <i>214</i> ; NONN. <i>D. 4, 317</i>.<p><b>Étym</b>. ἐ. κύκλος.`

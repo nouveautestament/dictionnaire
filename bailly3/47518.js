@@ -1,0 +1,1 @@
+lar[47518]=`<b>ας (ἡ)</b> Thouria :<br><b>      1</b> <i>v. de Messénie, d’où adj</i>. Θουριάτης.<br><b>      2</b> <i>c</i>. Θούριοι, <i>v. de Lucanie,</i> THC. <i>6, 61, 104 ; 7, 35</i>.`

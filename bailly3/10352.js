@@ -1,0 +1,1 @@
+lar[10352]=`<b>ἀντι·προφέρω</b>, produire <i>ou</i> alléguer d’un autre côté, NYSS. <i>2, 161 Migne</i>.`

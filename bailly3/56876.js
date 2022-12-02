@@ -1,0 +1,1 @@
+lar[56876]=`<b>κονι·βατία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῐᾰτ]</font> action de marcher dans la poussière <i>ou</i> dans le sable, HPC. <i>366, 55 dout</i>.<p><b>Étym</b>. κόνις, βατός.`

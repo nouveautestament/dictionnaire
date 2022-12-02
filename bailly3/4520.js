@@ -1,0 +1,1 @@
+lar[4520]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> vain, inutile, <i>d’ord. en parl. de choses (trait,</i> IL. <i>4, 498 ; 5, 18, etc. parole,</i> IL. <i>5, 715 ; 24, 92, etc. ; expédition,</i> IL. <i>4, 179 ; voyage,</i> OD. <i>2, 273, etc</i>.) ; <i>rar. en parl. de pers</i>. IL. <i>10, 324 ; adv. neutre</i> ἅλιον, IL. <i>13, 410</i> ; SOPH. <i>O.C. 1469,</i> vainement.`

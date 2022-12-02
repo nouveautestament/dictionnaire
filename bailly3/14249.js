@@ -1,0 +1,1 @@
+lar[14249]=`<b>ας (ἡ) :<br>      1</b> oisiveté, repos, PLAT. <i>Leg. 761a ; au plur. trad. du lat</i>. feriæ, ARR. <i>Epict. 4, 8, 33</i> ; APP. <i>Civ. 1, 56</i>.<br><b>      2</b> <i>en mauv. part,</i> inertie, paresse, EUR. <i>Med. 297, etc.</i> ; XÉN. <i>Mem. 2, 7, 7, etc.</i> ; PLAT. <i>Conv. 191b, etc</i>.<p><b>Étym</b>. ἀργός² ; <i>cf</i>. ἀεργία.`

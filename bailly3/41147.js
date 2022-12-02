@@ -1,0 +1,1 @@
+lar[41147]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. ἑστιατόριον, PHILSTR. <i>605</i>.`

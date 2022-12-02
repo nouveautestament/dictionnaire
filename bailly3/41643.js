@@ -1,0 +1,1 @@
+lar[41643]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> satisfaction, DH. <i>10, 57</i> ; JOS. <i>A.J. 12, 62</i>.<p><b>Étym</b>. εὐαρεστέω.`

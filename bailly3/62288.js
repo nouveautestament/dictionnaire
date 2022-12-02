@@ -1,0 +1,1 @@
+lar[62288]=`<b>(ὁ)</b> Madyès, <i>roi des Scythes,</i> HDT. <i>1, 103</i>.`

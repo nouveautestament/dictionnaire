@@ -1,0 +1,1 @@
+lar[107247]=`<b>ατος (τὸ)</b> <font color="purple">[ῡᾱμ]</font> bruit d’une respiration forte, ESCHL. <i>Eum. 53</i>.<p><b>Étym</b>. φυσιάω.`

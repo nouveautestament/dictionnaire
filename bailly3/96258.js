@@ -1,0 +1,1 @@
+lar[96258]=`<b>συνταγματαρχέω-ῶ</b> <font color="purple">[μᾰ]</font> être commandant d’une compagnie, d’un bataillon, PHIL. <i>2, 60</i>.<p><b>Étym</b>. συνταγματάρχης.`

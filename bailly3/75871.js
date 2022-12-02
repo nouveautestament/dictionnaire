@@ -1,0 +1,1 @@
+lar[75871]=`<i>adv.</i> :<br><b>      1</b> alternativement, tour à tour, T. LOCR. <i>95c ;</i> ARSTT. <i>Respir. 2, 4, etc.</i><br><b>      2</b> irrégulièrement, <i>p. opp. à</i> en alignement, THC. <i>2, 102</i>.<p><b>Étym</b>. παραλλάσσω.`

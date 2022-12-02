@@ -1,0 +1,1 @@
+lar[18408]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. <b>ἤχει</b>, <i>3 sg. impf. de</i> ἠχέω.`

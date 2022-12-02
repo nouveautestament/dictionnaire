@@ -1,0 +1,1 @@
+lar[101783]=`<b>ὑμενό·πτερος, ος, ον</b> <font color="purple">[ῠ]</font> aux ailes membraneuses, STR. <i>703</i> ; LUC. <i>Musc. enc. 1</i>.<p><b>Étym</b>. ὑμήν, πτερόν.`

@@ -1,0 +1,1 @@
+lar[12403]=`<b>ἀπο·θέω</b>, s’éloigner en courant, XÉN. <i>Cyr. 7, 5, 40 ; en parl. des Grecs qui déploient leurs voiles comme pour prendre la fuite,</i> HDT. <i>8, 56</i>.`

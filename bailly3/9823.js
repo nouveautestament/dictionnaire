@@ -1,0 +1,1 @@
+lar[9823]=`<b>ἀντι·δημαγωγέω-ῶ</b> <font color="purple">[ᾰγ]</font> être chef d’un parti populaire contre un chef rival, PLUT. <i>C. Gracch. 8</i>.`

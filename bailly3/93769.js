@@ -1,0 +1,1 @@
+lar[93769]=`<b>ος, ον</b>, réuni, rassemblé, HÉCAT. ABD. (JOS. <i>c. Ap. 1, 22, p. 156).</i><p><b>Étym</b>. συλλέγω.`

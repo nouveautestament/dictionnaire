@@ -1,0 +1,1 @@
+lar[24369]=`<b>δήπου·θε</b>, <i>adv</i>., BAT. (STOB. <i>Fl. 6, 29) et</i> <b>δήπουθεν</b>, <i>particul. devant une voy., adv. c</i>. δήπου, AR. <i>Pl. 140</i> ; LYS. <i>106, 23</i> ; PLAT. <i>Phil. 62e ;</i> οὐδαμῶς δ. DÉM. <i>832, 15</i>, en aucune façon sans doute.`

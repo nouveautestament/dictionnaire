@@ -1,0 +1,1 @@
+lar[90578]=`<b>ή, όν :<br>      1</b> débile, faible, infirme, A.RH. <i>1, 204</i>.<br><b>      2</b> qui a le ventre creux, affamé, PLAT. COM. (ATH. <i>344e</i>) ; OPP. <i>H. 3, 183</i>.`

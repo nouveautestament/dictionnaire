@@ -1,0 +1,1 @@
+lar[31173]=`<b>ἐκ·δηθύνω</b> <font color="purple">[ῡ]</font> (<i>sbj. prés</i>. -ύνῃ) se prolonger, ARÉT. <i>Cur. m. diut. p. 114</i>.`

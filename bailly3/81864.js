@@ -1,0 +1,1 @@
+lar[81864]=`<b>ας</b>, <i>ion</i>. <b>-η, ης (ἡ)</b> <font color="purple">[ῠ]</font> Polydôra :<br><b>      1</b> <i>fille d’Okéanos,</i> HÉS. <i>Th. 353</i>.<br><b>      2</b> <i>fille de Pélée,</i> IL. <i>16, 175</i>.<p><b>Étym</b>. <i>v</i>. Πολύδωρος.`

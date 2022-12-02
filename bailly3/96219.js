@@ -1,0 +1,1 @@
+lar[96219]=`<b>συν·ορμέω-ῶ</b>, mouiller ensemble, <i>t. de mar</i>. POL. <i>5, 68, 6 ; 5, 110, 2</i>.`

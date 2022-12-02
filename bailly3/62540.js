@@ -1,0 +1,1 @@
+lar[62540]=`<b>μακρο·περιοδεύτως</b>, <i>adv</i>., avec de longs détours, DYSC. <i>Pron. 261b</i>.<p><b>Étym</b>. μ. περιοδεύω.`

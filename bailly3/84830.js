@@ -1,0 +1,1 @@
+lar[84830]=`<b>προ·οικοδομέω-ῶ :<br>      1</b> bâtir auparavant, <i>au pass</i>. LUC. <i>Alex. 14</i>.<br><b>      2</b> bâtir devant, <i>gén</i>. PHIL. BYZ. <i>Bel. 84</i>.`

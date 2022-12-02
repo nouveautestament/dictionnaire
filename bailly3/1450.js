@@ -1,0 +1,1 @@
+lar[1450]=`<b>ἀ·δίστακτος, ος, ον</b>, indubitable, sûr, PTOL. <i>Geogr. 1, 4</i>.<p><b>Étym</b>. ἀ, διστάζω.`

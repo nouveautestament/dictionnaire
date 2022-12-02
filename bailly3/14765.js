@@ -1,0 +1,1 @@
+lar[14765]=`<b>Ἀριστο·φῶν, ῶντος (ὁ)</b> <font color="purple">[ᾰ]</font> Aristophôn, THC. <i>8, 86</i> ; XÉN. <i>Hell. 6, 3, 2, etc</i>.<p>➳ <i>Poét</i>. Ἀριστοφόων, ANTH. <i>7, 441</i>.`

@@ -1,0 +1,1 @@
+lar[92462]=`<b>στερρο·ποιέω-ῶ</b>, rendre fort <i>ou</i> puissant, APP. <i>Lib. 61</i>.<br><b><i>Moy.</i></b> raffermir, renforcer, POL. <i>5, 24, 10</i>.<p><b>Étym</b>. στ. ποιέω.`

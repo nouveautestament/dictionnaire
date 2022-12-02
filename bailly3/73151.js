@@ -1,0 +1,1 @@
+lar[73151]=`<b>οῦ (ὁ)</b> <i>att. c</i>. ὀρχηθμός, ESCHL. <i>Eum. 375</i> ; PANYAS. (ATH. <i>37d</i>) ; LUC. <i>Salt. 23</i>.`

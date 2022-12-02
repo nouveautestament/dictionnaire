@@ -1,0 +1,1 @@
+lar[71731]=`<b>ὁμό·τροφος, ος, ον</b>, nourri <i>ou</i> élevé ensemble, <i>dat., qqf. gén.</i> : τινι, HH. <i>Ap. 199</i> ; τινος, HH. <i>Dian. 2,</i> nourri, <i>càd</i>. élevé avec qqn ; ὁμότροφα τοῖσι ἀνθρώποισι θηρία, HDT. <i>2, 66,</i> animaux domestiques (<i>propr</i>. élevés avec les gens de la maison).<p><b>Étym</b>. ὁμ. τρέφω.`

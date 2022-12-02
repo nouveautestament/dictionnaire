@@ -1,0 +1,1 @@
+lar[67152]=`<b>α, ον</b>, de Myndos (<i>auj</i>. Gümüşlük) <i>petite v. sur la côte de Carie,</i> HDT. <i>5, 33</i> ; THCR. <i>Idyl. 2, 29</i> ; LYC. <i>950, 1261</i>.`

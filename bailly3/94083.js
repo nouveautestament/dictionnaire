@@ -1,0 +1,1 @@
+lar[94083]=`<b>συμ·παραναλίσκω</b> <font color="purple">[ᾰνᾱ]</font> consumer <i>ou</i> épuiser en même temps, DC. <i>47, 39</i>.`

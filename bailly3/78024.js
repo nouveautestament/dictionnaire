@@ -1,0 +1,1 @@
+lar[78024]=`<font color="purple">[ᾰσ]</font> <i>adv</i>., au quintuple, SPT. <i>Gen. 43, 34</i>.<p><b>Étym</b>. πενταπλάσιος.`

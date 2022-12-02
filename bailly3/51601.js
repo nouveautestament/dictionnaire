@@ -1,0 +1,1 @@
+lar[51601]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en sortant de l’étable, LYC. <i>95</i>.<p><b>Étym</b>. κάπη, -θεν.`

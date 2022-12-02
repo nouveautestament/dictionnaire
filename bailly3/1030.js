@@ -1,0 +1,1 @@
+lar[1030]=`<b>ας (ἡ)</b> = <i>lat</i>. Ancharia, <i>mère d’Octavie,</i> PLUT. <i>Ant. 31</i>.`

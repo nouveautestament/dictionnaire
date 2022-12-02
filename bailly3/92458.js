@@ -1,0 +1,1 @@
+lar[92458]=`<b>στεροπ·ηγερέτα (ὁ)</b> <font color="purple">[ᾰ, <i>mais</i> ᾱ <i>par position</i>]</font> l’assembleur d’éclairs, IL. <i>16, 298</i> ; Q. SM. <i>2, 164</i> ; NONN. <i>D. 8, 370, etc. (cf</i>. νεφεληγερέτα).<p><b>Étym</b>. στεροπή, ἀγείρω.`

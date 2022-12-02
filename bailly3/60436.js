@@ -1,0 +1,1 @@
+lar[60436]=`<b>λεπτό·σπερμος, ος, ον</b>, dont les graines sont fines, petites, DIOSC. <i>4, 94</i>.<p><b>Étym</b>. λ. σπέρμα.`

@@ -1,0 +1,1 @@
+lar[24063]=`<b>ας (ἡ) :<br>      1</b> discours de l’orateur qui parle le second, DÉM. <i>454, 24 (argum.) p. opp. à</i> πρωτολογία.<br><b>      2</b> second discours sur un même sujet, HERMOG. (<i>W. 1, 433 titre).</i><p><b>Étym</b>. δευτερολόγος.`

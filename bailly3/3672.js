@@ -1,0 +1,1 @@
+lar[3672]=`<b>ἀκρα·χολέω-ῶ</b> (<i>seul. part. prés</i>.) <font color="purple">[ᾱχ]</font> s’irriter, s’emporter, PLAT. <i>Leg. 731d</i>.<p><b>Étym</b>. ἀχράχολος.`

@@ -1,0 +1,1 @@
+lar[7283]=`<b>ἀνα·ξέω</b> (<i>part. pf. pass</i>. ἀνεξεσμένος) racler de nouveau, polir, JOS. <i>A.J. 13, 6, 6</i>.`

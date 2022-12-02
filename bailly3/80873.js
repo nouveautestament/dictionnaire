@@ -1,0 +1,1 @@
+lar[80873]=`<i>adv</i>., à un plus haut degré, particulièrement, SOR. <i>Fract. 251, 29 Id</i>.<p><b>Étym</b>. πλεονάζω.`

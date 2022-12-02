@@ -1,0 +1,1 @@
+lar[107853]=`<b>οῦ (ὁ)</b> <font color="purple">[χᾰ]</font> pluvier, <i>oiseau de ravin, dont la voracité était proverbiale,</i> AR. <i>Av. 266, 1141</i> ; PLAT. <i>Gorg. 494b ;</i> ARSTT. <i>H.A. 8, 3, 14 ; 9, 11, 2</i> ; PLUT. <i>M. 681c ;</i> EL. <i>N.A. 17, 13</i>.<p><b>Étym</b>. χαράδρα.`

@@ -1,0 +1,1 @@
+lar[109021]=`<b>ατος (τὸ)</b> <i>c</i>. χρίσμα, ESCHL. <i>Ag. 94</i> ; XÉNOPHAN. <i>et</i> ACHÆ. (ATH. <i>526b, 689b</i>).`

@@ -1,0 +1,1 @@
+lar[105505]=`<b>φιλ·άρετος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime la vertu, vertueux, ARSTT. <i>Nic. 1, 8, 10</i>.<p><b>Étym</b>. φ. ἀρετή.`

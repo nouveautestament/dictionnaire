@@ -1,0 +1,1 @@
+lar[14653]=`<b>ἀρι·στάφυλος, ος, ον</b> <font color="purple">[ᾰᾰῠ]</font> chargé de grappes, ANTH. <i>9, 580 (var</i>. ἐριστ-).<p><b>Étym</b>. ἀρι-, σταφυλή.`

@@ -1,0 +1,1 @@
+lar[95098]=`<b>συν·διαιρέω-ῶ</b>, séparer <i>ou</i> distinguer en même temps, PLUT. <i>M. 425b, etc</i>.`

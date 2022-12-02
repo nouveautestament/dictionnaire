@@ -1,0 +1,1 @@
+lar[293]=`<b>ἁ·γάλακτος, ος, ον</b> <font color="purple">[ᾰγᾰ]</font>  = ὁμόθηλος HSCH., frère de lait.<p><b>Étym</b>. ἁ– <i>copul</i>., γάλα.`

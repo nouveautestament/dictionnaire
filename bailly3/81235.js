@@ -1,0 +1,1 @@
+lar[81235]=`<b>ας (ἡ)</b> sarcleuse, ARCHIPP. (<i>Com. fr. 2, 727) ; au plur. titre d’une pièce de Phrynikhos (Com. Att. fr. 1, 380 Kock) etc</i>.<p><b>Étym</b>. ποάζω.`

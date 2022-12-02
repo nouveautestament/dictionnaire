@@ -1,0 +1,1 @@
+lar[35575]=`<b>ἐξ·απωθέω-ῶ</b> <font color="darkgreen">(<i>ao. 2 pl</i>. ἐξαπώσατε)</font> repousser, EUR. <i>Rhes. 811</i>.`

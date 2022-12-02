@@ -1,0 +1,1 @@
+lar[72093]=`<b>ὀξυ·θάνατος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font><br><b>      1</b> <i>act</i>. qui tue promptement, STR. <i>823</i>.<br><b>      2</b> <i>pass</i>. qui meurt promptement, EUN. <i>Exc. p. 293 Mai</i>.<p>•<i> Cp</i>. -ώτερος, STR. <i>l. c</i>.<p><b>Étym</b>. ὀ. θάνατος.`

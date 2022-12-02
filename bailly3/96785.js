@@ -1,0 +1,1 @@
+lar[96785]=`<b>οῦ (ὁ)</b> joueur de balle, ANTH. <i>5, 214</i> ; A. CAR. (ATH. <i>548b</i>).<p><b>Étym</b>. σφαιρίζω.`

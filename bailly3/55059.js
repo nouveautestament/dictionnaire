@@ -1,0 +1,1 @@
+lar[55059]=`<b>(ὁ)</b> Kétos, <i>fl. près de Kymè,</i> ARSTT. <i>Mir. 95</i>.`

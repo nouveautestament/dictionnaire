@@ -1,0 +1,1 @@
+lar[15180]=`<b>ἀ·ρρυθμέω-ῶ</b> (<i>seul. prés</i>.) manquer de rythme, de nombre, PLAT. <i>Leg. 802e</i>.<p><b>Étym</b>. ἄρρυθμος.`

@@ -1,0 +1,1 @@
+lar[19603]=`<b>ατος (τὸ)</b> expectoration, crachat, HPC. <i>475, 40</i>.<p><b>Étym</b>. βήσσω.`

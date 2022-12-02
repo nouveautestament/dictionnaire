@@ -1,0 +1,1 @@
+lar[23691]=`<b>δεκά·πλεθρος, ος, ον</b>, qui contient dix plèthres, THC. <i>6, 102</i>.<p><b>Étym</b>. δ. πλέθρον.`

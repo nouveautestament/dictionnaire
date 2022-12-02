@@ -1,0 +1,1 @@
+lar[3994]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> annulation, DH. <i>8, 21</i>.<p><b>Étym</b>. ἀκυρόω.`

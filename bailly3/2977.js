@@ -1,0 +1,1 @@
+lar[2977]=`<b>ης (ἡ) :<br>      1</b> le mt Etna, PD. <i>P. 1, 36</i> ; THC. <i>3, 116, etc.</i><br><b>      2</b> Etna (<i>postér</i>. Catane, <i>auj</i>. S. Maria di Licodia) <i>v. de Sicile,</i> PD. <i>P. 1, 115 ; N. 9, 3</i> ; THCR. <i>Idyl. 1, 65, etc</i>.<p>➳ <i>Dor</i>. Αἴτνα, PD. THCR. <i>Idyl. ll. cc</i>.`

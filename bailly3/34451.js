@@ -1,0 +1,1 @@
+lar[34451]=`<b>ἐν·ζώννυμι</b>, ceindre, entourer d’une ceinture, <i>acc</i>. PLUT. <i>Syll. 28</i>.`

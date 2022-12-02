@@ -1,0 +1,1 @@
+lar[32626]=`<b>ἐλεγξί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui éprouve <i>ou</i> conserve la fidélité conjugale, ANTH. <i>9, 125</i>.<p><b>Étym</b>. ἐλέγχω, γάμος.`

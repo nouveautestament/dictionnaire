@@ -1,0 +1,1 @@
+lar[69005]=`<b>νοσο·ποιός, ός, όν :<br>      1</b> qui rend malade, MNÉSITH. (ATH. <i>80e</i>) ; GAL. <i>2, 316</i>.<br><b>      2</b> qui provoque des troubles, factieux, DH. <i>8, 90</i>.<p><b>Étym</b>. νόσος, ποιέω.`

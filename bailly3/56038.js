@@ -1,0 +1,1 @@
+lar[56038]=`<b>ορος (ὁ) :<br>      1</b> héraut, appariteur, PLUT. <i>M. 128f.</i><br><b>      2</b> témoin d’une assignation, DÉM. <i>244, 3, etc</i>.<p><b>Étym</b>. καλέω ; <i>cf</i>. κλητήρ.`

@@ -1,0 +1,1 @@
+lar[48319]=`<b>ἰατρό·μαντις, εως (ὁ)</b> <font color="purple">[ῑᾱ]</font> médecin infaillible, ESCHL. <i>Suppl. 263 ; fig</i>. ESCHL. <i>Ag. 1628</i>.<p><b>Étym</b>. ἰ. μάντις.`

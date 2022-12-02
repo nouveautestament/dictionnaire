@@ -1,0 +1,1 @@
+lar[82221]=`<b>πολυ·πάρθενος, ος, ον</b> <font color="purple">[ῠ]</font> aux nombreuses jeunes filles, ORPH. <i>51, 12</i>.<p><b>Étym</b>. π. παρθένος.`

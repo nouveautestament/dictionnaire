@@ -1,0 +1,1 @@
+lar[43822]=`<b>ας (ἡ) :<br>      1</b> facilité <i>ou</i> abondance de ressources, usage commode <i>ou</i> facile, ARSTT. <i>Œc. 1, 6, 9</i> ; POL. <i>9, 7, 5</i> ; DS. <i>1, 13, etc.</i><br><b>      2</b> crédit, DS. <i>1, 79</i>.<p><b>Étym</b>. εὔχρηστος.`

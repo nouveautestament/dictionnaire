@@ -1,0 +1,1 @@
+lar[69572]=`<b>ξιφη·φόρος, ος, ον :<br>      1</b> qui porte une épée, EUR. <i>Or. 1505</i> ; ANTIPH. (ATH. <i>623b</i>) ; HDN <i>7, 10, 13</i>.<br><b>      2</b> ξ. ἀγῶνες, ESCHL. <i>Ch. 584,</i> combats à l’épée.<br><b>      3</b> ὁ ξ. <i>c</i>. ξιφίας 2, THÉON 2 <i>Sch.-Arat. 1091</i>.<p><b>Étym</b>. ξ. φέρω.`

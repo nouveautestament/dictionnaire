@@ -1,0 +1,1 @@
+lar[8726]=`<b>ἀν·ήνωρ, ορος</b>, <i>adj. m</i>. qui n’est pas un homme, lâche, OD. <i>10, 301</i> ; HÉS. <i>O. 749</i>.<p><b>Étym</b>. ἀν-, ἀνήρ.`

@@ -1,0 +1,1 @@
+lar[68977]=`<i>adv</i>., d’une manière malsaine, ARSTT. <i>Pol. 6, 6, 4</i>.`

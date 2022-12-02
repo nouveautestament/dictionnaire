@@ -1,0 +1,1 @@
+lar[63155]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> Matallos, <i>Perse,</i> ESCHL. <i>Pers. 314</i>.`

@@ -1,0 +1,1 @@
+lar[56527]=`<b>ου (ὁ)</b> Kœraneios, <i>promont. entre Naxos et Paros,</i> EL. <i>N.A. 8, 3</i>.<p><b>Étym</b>. <i>cf</i>. Κοιράνειον.`

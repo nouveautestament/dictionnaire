@@ -1,0 +1,1 @@
+lar[65791]=`<b>ίδος</b> <font color="purple">[μῑῐδ]</font> <i>adj. f</i>. de Milet, Milésienne, PARTH. <i>11, 2</i>.<p><b>Étym</b>. Μίλητος.`

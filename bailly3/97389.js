@@ -1,0 +1,1 @@
+lar[97389]=`<b>τακερό·χρως, ωτος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> à la peau tendre et délicate, ANTIPH. (ATH. <i>449b</i>).<p><b>Étym</b>. τακερός, χρώς.`

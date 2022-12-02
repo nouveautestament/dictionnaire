@@ -1,0 +1,1 @@
+lar[105137]=`<b>Φερε·κύδης, ους (ὁ)</b> <font color="purple">[ῡ]</font> Phérékydès (Phérécyde), <i>philosophe ionien de Syros,</i> STR. <i>487</i> ; PLUT. <i>Syll. 36, etc</i>.<p>➳ <i>Gén</i>. -ους, DL. <i>Proœm. 10 ; ion</i>. -εω, DL. <i>1, 11 ; acc</i>. -ην, <i>ou</i> -η ; STR. <i>18</i>.<p><b>Étym</b>. φ. κῦδος.`

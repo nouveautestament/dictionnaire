@@ -1,0 +1,1 @@
+lar[27733]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de bois, OD. <i>8, 493, etc.</i> ; A.RH. <i>2, 1017</i> ; NONN. <i>Jo. 3, 73 ; 13, 120</i>.<p>➳ <i>Acc. fém. dor</i>. -έαν, ANTH. <i>9, 152</i>.<p><b>Étym</b>. <i>th</i>. δουρατ- <i>de</i> δόρυ.`

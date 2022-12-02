@@ -1,0 +1,1 @@
+lar[324]=`<b>Ἀγα·μήδης, ους (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agamèdès, <i>h</i>. HH. <i>Ap. 296</i>.<p><b>Étym</b>. ἀγα-, μήδομαι.`

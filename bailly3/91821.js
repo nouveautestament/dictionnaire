@@ -1,0 +1,1 @@
+lar[91821]=`<b>σπειρόω-ῶ :<br>      1</b> envelopper de langes, CALL. <i>Del. 6, etc.</i><br><b>      2</b> ramasser, concentrer autour, HPC. <i>278, 47 ; 279, 15</i>.<p><b>Étym</b>. σπεῖρον.`

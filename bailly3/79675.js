@@ -1,0 +1,1 @@
+lar[79675]=`<b>περι·χθών, όνος (ὁ, ἡ)</b> qui entoure toute la terre, ANTH. <i>9, 778</i>.<p><b>Étym</b>. π. χθών.`

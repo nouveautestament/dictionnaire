@@ -1,0 +1,1 @@
+lar[9627]=`<b>ἀντ·εξίσταμαι</b> <font color="darkgreen">(<i>ao.2</i> -εξέστην)</font> s’insurger contre, PLUT. <i>M. 946d</i>.`

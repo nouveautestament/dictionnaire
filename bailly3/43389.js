@@ -1,0 +1,1 @@
+lar[43389]=`<b>Εὐ·σάγηνος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Bonne-nasse, Bon-filet, <i>n. de pêcheur,</i> ALCIPHR. <i>1, 17</i>.<p><b>Étym</b>. εὖ, σαγήνη.`

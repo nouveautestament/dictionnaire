@@ -1,0 +1,1 @@
+lar[108332]=`<b>ῆνος (ὁ)</b> Khéphrèn <i>ou</i> Chéphrem, <i>roi d’Égypte,</i> HDT. <i>2, 127</i>.`

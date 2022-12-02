@@ -1,0 +1,1 @@
+lar[61666]=`<b>ου (ὁ)</b> = <i>lat</i>. Lucius, <i>n. d’h. rom</i>. ANTH. <i>11, 15</i> ; LUC. <i>As. 2, etc</i>.`

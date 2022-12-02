@@ -1,0 +1,1 @@
+lar[47615]=`<b>θρασυ·χάρμης, ου (ὁ)</b> <font color="purple">[ρᾰῠ]</font> intrépide au combat, Q. SM. <i>4, 502</i>.<p><b>Étym</b>. θρ. χάρμη.`

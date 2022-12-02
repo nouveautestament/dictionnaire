@@ -1,0 +1,1 @@
+lar[42452]=`<b>εὔ·κληρος</b>, <i>dor. poét</i>. <b>ἐΰ·κλαρος, ος, ον</b> <font color="purple">[ᾱ]</font> bien partagé, heureux, A. PL. <i>296</i>.<p><b>Étym</b>. εὖ, κλῆρος.`

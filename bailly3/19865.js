@@ -1,0 +1,1 @@
+lar[19865]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. βάλσαμον, <i>par métath</i>. NIC. <i>Al. 64</i>.`

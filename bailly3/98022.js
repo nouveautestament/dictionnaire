@@ -1,0 +1,1 @@
+lar[98022]=`<b>ας (ἡ)</b> construction d’un rempart, d’une forteresse, PLUT. <i>Nic. 18</i>.<p><b>Étym</b>. τειχοδόμος.`

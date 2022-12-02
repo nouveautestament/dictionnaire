@@ -1,0 +1,1 @@
+lar[14511]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> secours : τινος, ESCHL. <i>Pr. 547</i> ; SOPH. <i>O.C. 829,</i> venant de qqn ; πημάτων, SOPH. <i>El. 876,</i> contre des douleurs.<p><b>Étym</b>. ἀρήγω.`

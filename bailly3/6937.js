@@ -1,0 +1,1 @@
+lar[6937]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> action de se briser en se courbant, <i>particul.</i> :<br><b>      1</b> brusque inflexion d’un cours d’eau, POL. <i>4, 43, 9</i>.<br><b>      2</b> réflexion de la lumière, ARSTT. <i>An. post. 2, 15, 1</i>.<br><b>      3</b> répercussion du son, ARSTT. <i>Sens. 2, 6, etc</i>.`

@@ -1,0 +1,1 @@
+lar[76671]=`<b>παρ·εμπλάσσω</b>, <i>att</i>. <b>-πλάττω</b>, boucher, fermer, <i>en parl. d’une plaie, des pores, etc</i>. DIOSC. <i>5, 152, etc.</i> ; A. TR. <i>2, p. 155</i>.`

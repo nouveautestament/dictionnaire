@@ -1,0 +1,1 @@
+lar[103272]=`<b>ὑπο·θορυβέω-ῶ</b> <font color="purple">[ρῠ]</font> commencer à faire du bruit, THC. <i>4, 28</i>.`

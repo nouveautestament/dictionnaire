@@ -1,0 +1,1 @@
+lar[38590]=`<i>part. prés. neutre de</i> ἔπειμι².`

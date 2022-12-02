@@ -1,0 +1,1 @@
+lar[88355]=`<b>εος-ους (τὸ)</b> étoffe teinte, ANACR. <i>138</i>.<p><b>Étym</b>. <i>cf</i>. ῥέζω².`

@@ -1,0 +1,1 @@
+lar[70001]=`<i>adv</i>., DYSC. <i>Adv. p. 611, 28, d’où avec une prép</i>. ἐς ὄβδην, POÈT. (EM. <i>612, 54</i>) sous les yeux, devant les yeux.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₃ek<sup>w</sup>-, voir ; <i>cf</i>. ὄψομαι, -δην.`

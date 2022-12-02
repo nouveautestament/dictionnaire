@@ -1,0 +1,1 @@
+lar[76353]=`<b>ατος (τὸ)</b> écorchure <i>ou</i> inflammation par suite de frottement, entretaillure, RHÉT. <i>6, 319 W.</i> ; ANTYLL. (ORIB. <i>2, 441 B.-Dar</i>.).<p><b>Étym</b>. παρατρίβω.`

@@ -1,0 +1,1 @@
+lar[92544]=`<b>ατος (τὸ) :<br>      1</b> pièce debout, bouton, support, bride, amarre, HÉRON <i>Bel. 5</i>.<br><b>      2</b> le pénis, RUF. <i>p. 31, 51 Clinch</i>.<p><b>Étym</b>. ἵστημι.`

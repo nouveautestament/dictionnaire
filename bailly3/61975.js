@@ -1,0 +1,1 @@
+lar[61975]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> λύρα, AR. <i>Ran. 1304</i>.`

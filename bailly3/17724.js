@@ -1,0 +1,1 @@
+lar[17724]=`<i>adv.</i> :<br><b>      1</b> pleinement, absolument, EPIC. (DL. <i>10, 85</i>).<br><b>      2</b> avec indépendance, arbitrairement, LYS. <i>fr. 22</i> ; POL. <i>3, 29, 3</i>.<p><b>Étym</b>. αὐτοτελής.`

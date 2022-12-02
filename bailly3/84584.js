@@ -1,0 +1,1 @@
+lar[84584]=`<b>προ·κολλάω-ῶ</b>, coller ensemble auparavant, HÉRON <i>246</i>.`

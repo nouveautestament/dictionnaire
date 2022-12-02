@@ -1,0 +1,1 @@
+lar[38212]=`<b>εως (ἡ)</b> action de concevoir avant d’être délivrée d’un premier enfant, CLÉM. <i>p. 223 ; titre d’un traité hippocratique,</i> HPC. <i>260</i>.<p><b>Étym</b>. ἐπικυέω.`

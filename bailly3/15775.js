@@ -1,0 +1,1 @@
+lar[15775]=`<b>εως (ἡ)</b> conduite impie, impiété, PLUT. <i>M. 671f</i>.<p><b>Étym</b>. ἀσεβέω.`

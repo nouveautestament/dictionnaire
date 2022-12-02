@@ -1,0 +1,1 @@
+lar[59061]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> onguent au cyphi, A. TR. <i>1, p. 22</i>.<p><b>Étym</b>. κῦφι.`

@@ -1,0 +1,1 @@
+lar[19297]=`<b>ή, όν</b>, qui jette un sort, envieux, méchant, PLUT. <i>M. 682d ;</i> PHILOD. <i>De sup. 25 ; joint à</i> φθοροποιός, E. BYZ. <i>v°</i> Θίβα.<p><b>Étym</b>. βασκαίνω.`

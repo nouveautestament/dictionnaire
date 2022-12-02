@@ -1,0 +1,1 @@
+lar[80387]=`<b>ου (ὁ)</b> Pixôdôros, <i>h</i>. PLUT. <i>Alex. 10</i>.<p><b>Étym</b>. <i>cf</i>. Πιξώδαρος.`

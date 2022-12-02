@@ -1,0 +1,1 @@
+lar[105280]=`<b>φθειριάω-ῶ :<br>      1</b> être pouilleux, DL. <i>5, 5</i>.<br><b>      2</b> être atteint de la maladie pédiculaire, PLUT. <i>Syll. 36</i>.<p><b>Étym</b>. φθείρ.`

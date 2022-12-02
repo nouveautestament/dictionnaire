@@ -1,0 +1,1 @@
+lar[17231]=`<b>άδος (ἡ)</b> habitante <i>ou</i> nymphe des vallons, ORPH. <i>H. 50</i>.<p><b>Étym</b>. αὐλών.`

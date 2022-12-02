@@ -1,0 +1,1 @@
+lar[101439]=`<i>adv.</i> :<br><b>      1</b> avec humidité, ARSTT. <i>H.A. 10, 3</i> ; ATH. <i>479c.</i><br><b>      2</b> d’un regard humide, PHILSTR. <i>Ep. 24, p. 10, 19 Boiss.</i><br><b>      3</b> <i>fig</i>. mollement, avec souplesse, XÉN. <i>Eq. 1, 6</i> ; ATH. <i>479e ;</i> ALCIDAM. <i>p. 84</i>.<p>•<i> Cp</i>. -οτέρως, XÉN. ARSTT. <i>ll. cc</i>.<p><b>Étym</b>. ὑγρός.`

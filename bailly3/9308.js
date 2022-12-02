@@ -1,0 +1,1 @@
+lar[9308]=`<b>ἀνορεκτέω-ῶ</b>, n’avoir pas d’appétit, GAL. <i>2, 264</i> ; ANTYLL. <i>et</i> RUF. <i>74 et 234 Matthäi</i>.<p><b>Étym</b>. ἀνόρεκτος.`

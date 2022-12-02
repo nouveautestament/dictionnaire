@@ -1,0 +1,1 @@
+lar[14574]=`<i>ou</i> <b>Ἀρριδαῖος, ου (ὁ)</b> Aridæos, <i>fils de Philippe de Macédoine,</i> PLUT. <i>Alex. 10, etc</i>.`

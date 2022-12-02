@@ -1,0 +1,1 @@
+lar[13053]=`<b>ἀπο·περονάω-ῶ</b>, écarter au moyen d’une agrafe, HPC. <i>848b</i>.`

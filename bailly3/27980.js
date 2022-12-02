@@ -1,0 +1,1 @@
+lar[27980]=`<b>(ὁ)</b> Drymas (<i>litt</i>. habitant des bois) <i>ép. d’Apollon,</i> LYC. <i>522</i>.<p><b>Étym</b>. δρυμός.`

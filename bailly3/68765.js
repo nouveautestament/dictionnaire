@@ -1,0 +1,1 @@
+lar[68765]=`<b>Νικο·κράτης, ους</b>, <i>acc</i>. <b>ην (ὁ)</b> <font color="purple">[ῑᾰ]</font> Nikokratès, <i>h</i>. PLUT. <i>Mul. virt. 19</i>.<p><b>Étym</b>. νίκη, κράτος.`

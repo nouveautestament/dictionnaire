@@ -1,0 +1,1 @@
+lar[19160]=`<b>βαρύ·κτυπος, ος, ον</b> <font color="purple">[ᾰτῠ]</font> qui frappe avec un bruit sourd <i>ou</i> retentissant, <i>ép. de Zeus, de Poséidon,</i> HH. <i>Cer. 3, 334, 441, 460</i> ; HÉS. <i>O. 79 ; Th. 388, 818</i> ; PD. <i>O. 1, 72 ; etc. ; de la mer,</i> ANTH. <i>9, 753</i>.<p><b>Étym</b>. β. κτύπος.`

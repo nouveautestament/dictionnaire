@@ -1,0 +1,1 @@
+lar[109056]=`<b>ου (ἡ)</b> Khronion, <i>f</i>. ALCIPHR. <i>3, 11</i>.<p><b>Étym</b>. χρόνος.`

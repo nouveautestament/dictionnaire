@@ -1,0 +1,1 @@
+lar[38628]=`<b>ἐπι·παρέρχομαι</b>, s’avancer vers <i>ou</i> jusqu’à, <i>avec</i> παρά, πρός <i>ou</i> ἐπί <i>et l’acc</i>. DC. <i>40, 35, etc</i>.`

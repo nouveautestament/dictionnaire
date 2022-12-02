@@ -1,0 +1,1 @@
+lar[90571]=`<b>σιτ·ώνης, ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> <i>à Athènes,</i> commissaire chargé des achats de blé, DÉM. <i>310, 1</i>.<br><b>      2</b> marchand de blé, LIB. <i>4, 164</i>.<p><b>Étym</b>. σῖτος, ὠνέομαι.`

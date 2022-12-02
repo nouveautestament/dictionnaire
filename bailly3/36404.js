@@ -1,0 +1,1 @@
+lar[36404]=`<b>ἐπ·αιάζω</b>, <i>f</i>. άξω, se lamenter, gémir sur, <i>dat</i>. LUC. <i>D. deor. 14, 2 ; acc</i>. NIC. <i>Al. 303 ; abs</i>. BION <i>1, 2</i>.`

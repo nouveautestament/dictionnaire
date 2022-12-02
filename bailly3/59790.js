@@ -1,0 +1,1 @@
+lar[59790]=`<b>ας (ἡ)</b> <font color="purple">[ᾱᾰφ]</font> recensement (<i>propr</i>. inscription) du peuple, SPT. <i>3Macc. 2, 28</i>.<p><b>Étym</b>. λ. γράφω.`

@@ -1,0 +1,1 @@
+lar[27986]=`<b>ας</b> <font color="purple">[ῡ]</font> <i>adj. f</i>. habitante des bois, <i>ép. d’Artémis,</i> ORPH. <i>H. 35, 12 dout</i>.<p><b>Étym</b>. δρυμός.`

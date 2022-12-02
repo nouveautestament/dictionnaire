@@ -1,0 +1,1 @@
+lar[56144]=`<b>ου (ὁ)</b> Klyménos, <i>père d’Eurydice et roi d’Orchomène,</i> OD. <i>3, 452</i> ; PD. <i>O. 4, 31</i>.<p><b>Étym</b>. <i>cf</i>. κλύμενος.`

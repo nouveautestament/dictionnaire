@@ -1,0 +1,1 @@
+lar[37007]=`<b>ἐπ·εισπράττω</b> <font color="purple">[ᾱ]</font> exiger en outre, DC. <i>74, 8</i>.`

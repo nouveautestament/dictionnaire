@@ -1,0 +1,1 @@
+lar[52860]=`<b>κατα·μορφόω-ῶ</b>, imprimer une forme, NYSS. <i>1, 578, etc</i>.`

@@ -1,0 +1,1 @@
+lar[76484]=`<b>εως (ἡ)</b> action de se retirer, <i>d’où</i> :<br><b>      1</b> cession, abandon, DS. <i>13, 43</i> ; DH. <i>4, 27, etc.</i><br><b>      2</b> <i>t. de log</i>. concession, ARR. <i>Epict. 1, 7, 16</i>.<p><b>Étym</b>. παραχωρέω.`

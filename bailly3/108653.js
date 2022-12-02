@@ -1,0 +1,1 @@
+lar[108653]=`<b>ου (ὁ)</b> Khoaspès, <i>fl. de Susiane (d’ord</i>. Εὐλαῖος) HDT. <i>1, 188, etc.</i> ; PLUT. <i>Exil. 6</i> ; EL. <i>V.H. 12, 40</i> ; LUC. <i>Nec. 7, etc</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>1, 188 ; acc. ion</i>. -εα, HDT. <i>5, 49 ; mais</i> -ην, HDT. <i>5, 52</i>.`

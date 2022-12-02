@@ -1,0 +1,1 @@
+lar[59697]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. éclairée, brillante de la lueur des flambeaux, SOPH. <i>O.C. 1049</i>.<p><b>Étym</b>. <i>v</i>. λαμπάς¹.`

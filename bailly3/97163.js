@@ -1,0 +1,1 @@
+lar[97163]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. σωληνάριον GAL. <i>14, 787</i> ; PHIL. BYZ. <i>Bel. p. 75</i>.`

@@ -1,0 +1,1 @@
+lar[9580]=`<b>ἀντ·εκφέρω</b>, opposer : τί τινι, PLUT. <i>M. 72e</i>, une chose à une autre.`

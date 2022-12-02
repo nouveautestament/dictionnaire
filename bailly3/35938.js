@@ -1,0 +1,1 @@
+lar[35938]=`<b>άδος (ἡ)</b> soixantième partie, STR. <i>113</i>.<p><b>Étym</b>. ἑξήκοντα.`

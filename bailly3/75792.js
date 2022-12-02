@@ -1,0 +1,1 @@
+lar[75792]=`<b>εως (ἡ)</b> <font color="purple">[ᾰκ]</font> action d’entendre mal, GAL. <i>Sympt. 7, 56, dout</i>.<p><b>Étym</b>. παρακούω.`

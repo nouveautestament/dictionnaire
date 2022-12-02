@@ -1,0 +1,1 @@
+lar[67277]=`<b>μυριό·φυλλον, ου (τὸ)</b> <font color="purple">[μῡ]</font> mille-feuilles, <i>plante aquatique,</i> DIOSC. <i>4, 115</i>.<p><b>Étym</b>. μ. φύλλον.`

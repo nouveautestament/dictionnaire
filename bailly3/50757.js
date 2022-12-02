@@ -1,0 +1,1 @@
+lar[50757]=`<b>κακο·κλεής, ής, ές</b> <font color="purple">[ᾰ]</font> mal famé, infâme, TRYPH. <i>125</i>.<p><b>Étym</b>. κ. κλέος.`

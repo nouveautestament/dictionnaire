@@ -1,0 +1,1 @@
+lar[90655]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> semblable au cerfeuil, TH. <i>H.P. 7, 11, 1</i>.<p><b>Étym</b>. σκάνδιξ, -ωδης.`

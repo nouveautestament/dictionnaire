@@ -1,0 +1,1 @@
+lar[92508]=`<b>εος-ους (τὸ) :<br>      1</b> couronne, ESCHL. <i>Ch. 95</i>.<br><b>      2</b> guirlande, SOPH. <i>O.R. 913</i>.<br><b>      3</b> bandelette, <i>particul</i>. bandelette sacrée, ESCHL. <i>Ag. 1265, etc.</i><br><b>      4</b> libation, ESCHL. <i>Sept. 101</i>.<p><b>Étym</b>. στέφω.`

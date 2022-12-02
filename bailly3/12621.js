@@ -1,0 +1,1 @@
+lar[12621]=`<b>ἀπο·κοιμάομαι-ῶμαι :<br>      1</b> découcher, EUP. (PLUT. <i>Cim. 15</i>) ; PLAT. <i>Leg. 762c.</i><br><b>      2</b> aller dormir un peu, HDT. <i>8, 76</i> ; XÉN. <i>Cyr. 2, 4, 26, etc.</i> ; AR. <i>Vesp. 213</i> ; POL. <i>3, 79, 10</i>.`

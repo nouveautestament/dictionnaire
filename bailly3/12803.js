@@ -1,0 +1,1 @@
+lar[12803]=`<b>ου (τὸ)</b> temple d’Apollon, <i>près de Naupaktos,</i> THC. <i>1, 91</i>.<p><b>Étym</b>. <i>neutre de</i> Ἀπολλώνιος.`

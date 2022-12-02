@@ -1,0 +1,1 @@
+lar[59815]=`<b>λαο·ξόος, όου (ὁ)</b> <font color="purple">[ᾱ]</font> tailleur de pierres, TIMON (SEXT. <i>M. 7, 8</i>) ; ANTH. <i>App. 305</i>.<p><b>Étym</b>. λᾶας, ξέω.`

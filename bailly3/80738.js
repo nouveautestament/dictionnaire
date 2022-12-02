@@ -1,0 +1,1 @@
+lar[80738]=`<b>πλατόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre plat en taillant, AR. <i>Ach. 552</i>.<p><b>Étym</b>. πλάτη.`

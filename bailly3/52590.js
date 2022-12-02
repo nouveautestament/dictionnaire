@@ -1,0 +1,1 @@
+lar[52590]=`<b>κατα·κολυμβάω-ῶ</b>, s’enfoncer sous l’eau, plonger, ARSTT. <i>H.A. 7, 2</i> ; LUC. <i>J. tr. 48</i>.`

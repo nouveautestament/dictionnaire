@@ -1,0 +1,1 @@
+lar[95989]=`<b>συν·ιαίνω</b>, réchauffer <i>ou</i> récréer ensemble, OPP. <i>C. 3, 167</i>.`

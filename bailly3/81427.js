@@ -1,0 +1,1 @@
+lar[81427]=`<b>ή, όν</b>, orné de couleurs variées, <i>d’où</i> brodé, SPT. <i>Ex. 35, 35</i> ; enjolivé, LGN <i>43, 2</i>.<p><b>Étym</b>. <i>vb. de</i> ποικίλλω.`

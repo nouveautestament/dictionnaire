@@ -1,0 +1,1 @@
+lar[49769]=`<b>ἰσό·τονος, ος, ον</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> également tendu, avec la même tension <i>ou</i> la même intensité, DIOSC. <i>5, 141</i>.<br><b>      2</b> avec le même accent, <i>t. de gr</i>. HERMOG. (<i>Rhet. p. 291 W</i>.).<p><b>Étym</b>. ἴ. τόνος.`

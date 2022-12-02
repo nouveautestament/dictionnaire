@@ -1,0 +1,1 @@
+lar[109017]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amitié pour les gens de bien, ARSTT. <i>Rhet. 1, 5, 4</i>.<p><b>Étym</b>. χρηστόφιλος.`

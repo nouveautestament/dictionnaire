@@ -1,0 +1,1 @@
+lar[104760]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à Phalère, XÉN. <i>Hipp. 3, 1</i> ; PLUT. <i>Thes. 17</i>.<p>➳ <i>Dans une inscr. att., au lieu de</i> Φαληροῖ, Φαληρε (<i>p.-ê. p</i>. Φαληρεῖ) CIA. <i>2, 768, 1, 24 (fin du 4<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 116, 10</i>.<p><b>Étym</b>. Φάληρον.`

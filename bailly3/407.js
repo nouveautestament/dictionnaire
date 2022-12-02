@@ -1,0 +1,1 @@
+lar[407]=`<b>ου (τὸ)</b> <font color="purple">[γᾰ]</font> service des courriers montés, <i>en Perse,</i> HDT. <i>9, 98</i>.<p><b>Étym</b>. ἄγγαρος.`

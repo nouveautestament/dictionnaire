@@ -1,0 +1,1 @@
+lar[7609]=`<b>ἀν·ασθμαίνω</b>, respirer avec effort, OPP. <i>H. 5, 212</i> ; Q. SM. <i>4, 244 ; 8, 374</i>.<p><b>Étym</b>. ἀνά, ἀ.`

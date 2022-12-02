@@ -1,0 +1,1 @@
+lar[54605]=`<b>οῦ</b> (genre inconnu) <i>c</i>. Κελαιναί, PLUT. <i>Parall. min. 5</i>.`

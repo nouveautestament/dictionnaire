@@ -1,0 +1,1 @@
+lar[56415]=`<b>ή, όν :<br>      1</b> qui a un flux de ventre, GAL. <i>6, 525</i>.<br><b>      2</b> qui consiste en un flux de ventre, GAL. <i>19, 421</i>.<p><b>Étym</b>. κοιλία.`

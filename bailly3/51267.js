@@ -1,0 +1,1 @@
+lar[51267]=`<b>καλλι·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> au beau nom ; <i>subst</i>. ὁ καλλ. sorte de poisson, <i>p.-ê. le même que</i> οὐρανοσκόπος, HPC. <i>357, 43 ; 543, 39</i> ; ARSTT. <i>H.A. 8, 13</i> ; EL. <i>N.A. 13, 4</i>.<p><b>Étym</b>. κ. ὄνομα.`

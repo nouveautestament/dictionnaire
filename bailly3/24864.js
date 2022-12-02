@@ -1,0 +1,1 @@
+lar[24864]=`<b>ητος (ἡ)</b> <font color="purple">[ῐτ]</font> aptitude à distinguer, PROCL. <i>Plat. Parm. p. 793 Stallb</i>.<p><b>Étym</b>. διακριτικός.`

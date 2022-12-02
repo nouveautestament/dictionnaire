@@ -1,0 +1,1 @@
+lar[60881]=`<i>dor</i>. <b>Λατογένεια, ας (ἡ)</b> <font color="purple">[ᾱ]</font> Artémis, <i>fille de Latone,</i> ESCHL. <i>Sept. 148</i>.<p><b>Étym</b>. <i>cf</i>. Λητογενής.`

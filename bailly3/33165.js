@@ -1,0 +1,1 @@
+lar[33165]=`<b>ἐμβρυο·θλάστης, ου (ὁ)</b> instrument pour broyer et extraire le fœtus, GAL. <i>2, 91 et 99</i>.<p><b>Étym</b>. ἐ. θλάω.`

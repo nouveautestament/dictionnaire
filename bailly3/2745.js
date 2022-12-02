@@ -1,0 +1,1 @@
+lar[2745]=`<b>ά, όν</b> <font color="purple">[ῐ]</font> de couleurs variées, THCR. <i>Idyl. 1, 5, 6 conj</i>.<p><b>Étym</b>. αἰόλος.`

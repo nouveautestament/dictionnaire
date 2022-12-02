@@ -1,0 +1,1 @@
+lar[49212]=`<b>ἵππ·αγρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> cheval sauvage, OPP. <i>C. 3, 252</i>.<p><b>Étym</b>. ἵππος, ἄγριος.`

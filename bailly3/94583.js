@@ -1,0 +1,1 @@
+lar[94583]=`<b>οῦ (ὁ) :<br>      1</b> rassemblement, union, PLUT. <i>M. 884d ;</i> BABR. <i>28</i> ; SEXT. <i>P. 3, 47</i>.<br><b>      2</b> <i>t. de rhét</i>. accumulation, RHÉT. (<i>W. 8, 439</i>) ; QUINT. <i>8, 4, 27</i>.<p><b>Étym</b>. συναθροίζω.`

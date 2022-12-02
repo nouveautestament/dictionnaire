@@ -1,0 +1,1 @@
+lar[83860]=`<b>προ·γλυκαίνω</b> <font color="purple">[ῠ]</font> édulcorer auparavant, GAL. <i>6, 330</i>.`

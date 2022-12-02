@@ -1,0 +1,1 @@
+lar[103165]=`<b>ὑπο·διαπήγνυμι</b> (<i>seul. intr. au pf</i>. ὑποδιαπέπηγα) être solidement enfoncé, PHIL. BYZ. <i>Bel. 52</i>.`

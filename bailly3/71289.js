@@ -1,0 +1,1 @@
+lar[71289]=`<b>ὀλυνθο·φόρος, ος, ον</b>, qui produit des figues tardives <i>ou</i> qui ne mûrissent pas, ARSTT. (ATH. <i>77f</i>) ; TH. <i>C.P. 5, 1, 8</i>.<p><b>Étym</b>. ὄλυνθος, φέρω.`

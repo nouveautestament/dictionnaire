@@ -1,0 +1,1 @@
+lar[45031]=`<b>ἡδυσματό·ληρος, ος, ον</b> <font color="purple">[ᾰ]</font> assaisonné avec raffinement, ARCHESTR. (ATH. <i>311c</i>).<p><b>Étym</b>. ἥδυσμα, λῆρος.`

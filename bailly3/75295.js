@@ -1,0 +1,1 @@
+lar[75295]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> habitude de manger de tout sans distinction, JOS. <i>Macc. 2, p. 499</i>.<p><b>Étym</b>. παντοφάγος.`

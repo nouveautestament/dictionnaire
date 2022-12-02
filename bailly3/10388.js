@@ -1,0 +1,1 @@
+lar[10388]=`<b>ἀντί·σκιος, ος, ον</b>, qui a l’ombre dans une direction opposée, NONN. <i>D. 7, 311</i> ; JUL. <i>Or. 4, 147c</i>.<p><b>Étym</b>. ἀ. σκιά.`

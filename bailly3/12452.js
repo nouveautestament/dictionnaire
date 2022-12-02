@@ -1,0 +1,1 @@
+lar[12452]=`<b>εως (ἡ)</b> émigration, DH. <i>2, 36 conj</i>.<p><b>Étym</b>. ἀποικέω.`

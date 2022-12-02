@@ -1,0 +1,1 @@
+lar[49404]=`<b>ἱππο·πόταμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> cheval de rivière, <i>particul</i>. du Nil, hippopotame, GAL. <i>13, 942</i>.<p>➳ <i>D’ord</i>. ἵππος ποτάμιος.<p><b>Étym</b>. ἵ. ποταμός.`

@@ -1,0 +1,1 @@
+lar[74782]=`<b>παμ·φύγδην</b>, <i>adv</i>., en complète déroute, OPP. <i>H. 2, 548</i>.<p><b>Étym</b>. π. φεύγω, -δην.`

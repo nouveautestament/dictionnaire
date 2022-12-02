@@ -1,0 +1,1 @@
+lar[58497]=`<i>par nécessité métr</i>. Κυθέρηθεν <font color="purple">[ῠ]</font> <i>adv</i>., de Cythère, HERMÉS. <i>fr. 2, 69</i>.<p><b>Étym</b>. Κυθήρη, -θεν ; <i>cf</i>. Κυθηρόθεν.`

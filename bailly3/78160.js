@@ -1,0 +1,1 @@
+lar[78160]=`<b>πεντ·όροβον, ου (τὸ)</b> pivoine, <i>plante (propr</i>. à cinq téguments) DIOSC. <i>3, 157</i>.<p><b>Étym</b>. π. ὄροβος.`

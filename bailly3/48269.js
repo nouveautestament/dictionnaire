@@ -1,0 +1,1 @@
+lar[48269]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire d’Iasos : οἱ Ἰασῆς, CIA. <i>1, 230, 15b</i> (<i>450 av. J.-C.), etc. ; ou</i> οἱ Ἰασεῖς, CIA. <i>2, 962, 14 (4<sup>e</sup>/3<sup>e</sup> siècle av. J.-C. ; v. Meisterh. p. 75, 12</i>) les habitants d’Iasos.<p><b>Étym</b>. Ἴασος².`

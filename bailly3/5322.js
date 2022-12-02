@@ -1,0 +1,1 @@
+lar[5322]=`<i>dor. c</i>. ἀμπλακίσκω, <i>seul. prés</i>. THÉAGÈS (STOB. <i>Fl. 1, 68 Mein</i>.) ; <i>impf. itér</i>. ἀμβλάκισκον, PHINTYS (STOB. <i>74, 61) ; ao.2</i> ἤμβλακον, ARCHIL. <i>73</i>.`

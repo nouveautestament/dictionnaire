@@ -1,0 +1,1 @@
+lar[69026]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> enlevé furtivement, dérobé, HÉS. <i>fr. 5, 2 Göttling</i>.<p><b>Étym</b>. νόσφι.`

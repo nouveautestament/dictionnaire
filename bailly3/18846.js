@@ -1,0 +1,1 @@
+lar[18846]=`<i>acc</i>. <b>βάϊν (ἡ)</b> feuille <i>ou</i> branche de palmier, SPT. <i>1Macc. 13, 37</i> (βάϊν ἥν, <i>correct. p</i>. βαΐνην) ; CHÆRÉM. (PORPH. <i>Abst. 4, 7).</i><p><b>Étym</b>. <i>Orig. égypt</i>.`

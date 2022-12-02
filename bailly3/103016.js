@@ -1,0 +1,1 @@
+lar[103016]=`<b>ὑπο·βαρβαρίζω</b> <font color="purple">[ᾰρῐ]</font> parler <i>ou</i> écrire un peu comme un étranger, <i>càd</i>. peu correctement, PLAT. <i>Lys. 223a ;</i> ARSTD. <i>t. 2, 95</i>.`

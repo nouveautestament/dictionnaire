@@ -1,0 +1,1 @@
+lar[80773]=`<b>πλατυ·πόρφυρος, ος, ον</b> <font color="purple">[ᾰῠῠ]</font> ARCHIPP. (POLL. <i>7, 63</i>) à large bande de pourpre, <i>en parl. du laticlave romain,</i> SIB. <i>8, 73</i>.<p><b>Étym</b>. πλ. πορφύρα.`

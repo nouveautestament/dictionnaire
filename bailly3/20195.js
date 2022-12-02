@@ -1,0 +1,1 @@
+lar[20195]=`<b>βοό·στικτος, ος, ον</b>, qui consiste à égorger des bœufs (sacrifice), NONN. <i>D. 5, 281</i>.<p><b>Étym</b>. βοῦς, στίζω.`

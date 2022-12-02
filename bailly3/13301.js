@@ -1,0 +1,1 @@
+lar[13301]=`<b>ἀπο·σκάπτω :<br>      1</b> ôter en creusant, PLAT. <i>Leg. 760e.</i><br><b>      2</b> <i>particul</i>. couper une route par une tranchée, XÉN. <i>An. 2, 4, 4</i>.<p>➳ <i>Fut. 2 pass</i>. ἀποσκαφήσομαι, POLYEN <i>5, 10, 3</i>.`

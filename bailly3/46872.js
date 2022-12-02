@@ -1,0 +1,1 @@
+lar[46872]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. θεραπευτής ARCHYT. (ATH. <i>545f</i>) ; XÉN. <i>Cyr. 7, 5, 65</i> ; PLUT. <i>Lyc. 11</i>.`

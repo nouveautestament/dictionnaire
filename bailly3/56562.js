@@ -1,0 +1,1 @@
+lar[56562]=`<b>κοκκο·βόας</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. au cri éclatant, <i>ép. du coq,</i> SOPH. <i>fr. 900</i>.<p><b>Étym</b>. κόκκυ, βοάω.`

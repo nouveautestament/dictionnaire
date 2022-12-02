@@ -1,0 +1,1 @@
+lar[108381]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en sortant du trou, de la tanière, ORPH. <i>Lith. 701</i>.<p><b>Étym</b>. χηραμός, -θεν.`

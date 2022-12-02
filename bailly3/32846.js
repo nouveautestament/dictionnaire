@@ -1,0 +1,1 @@
+lar[32846]=`<b>οῦντος (ὁ)</b> l’Élisonte, <i>fl. d’Élide,</i> THCR. <i>Idyl. 25, 9</i>.`

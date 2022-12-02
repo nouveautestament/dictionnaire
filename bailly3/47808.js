@@ -1,0 +1,1 @@
+lar[47808]=`<b>θυγατρό·γαμος, ου</b> <font color="purple">[ῠᾰμ]</font> <i>adj. m</i>. marié avec sa propre fille, NONN. <i>D. 12, 73</i> ; BAS. <i>3, 640 Migne</i>.<p><b>Étym</b>. θ. γαμέω.`

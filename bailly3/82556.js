@@ -1,0 +1,1 @@
+lar[82556]=`<b>πολύ·χειρος, ος, ον</b> <font color="purple">[ῠ]</font> qui agit avec l’aide de beaucoup de bras, <i>càd</i>. tout-puissant, HÉRACLITE GRAMM. <i>All. Hom. 25</i>.<p><b>Étym</b>. π. χείρ.`

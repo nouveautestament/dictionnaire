@@ -1,0 +1,1 @@
+lar[75066]=`<b>παν·ίλαος, ος, ον</b> <font color="purple">[ᾰῑ]</font> tout à fait doux, OPP. <i>H. 2, 40</i> ; NONN. <i>Jo. 6, 40</i>.<p><b>Étym</b>. π. ἵλαος.`

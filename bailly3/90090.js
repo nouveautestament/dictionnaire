@@ -1,0 +1,1 @@
+lar[90090]=`<font color="purple">[ῑᾰ]</font> <i>adv.</i> :<br><b>      1</b> en silence, SOPH. <i>Ph. 258, El. 1236, etc.</i> ; AR. <i>Ach. 59, etc.</i> ; σῖγα, ESCHL. <i>Ag. 1344,</i> silence !.<br><b>      2</b> silencieusement, doucement, sans bruit, ESCHL. <i>Ag. 449</i> ; SOPH. <i>Ant. 700, etc</i>.<p><b>Étym</b>. σιγή.`

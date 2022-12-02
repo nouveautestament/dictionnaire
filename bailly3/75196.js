@@ -1,0 +1,1 @@
+lar[75196]=`<b>Πάντ·αυχος, ου (ὁ)</b> Pantaukhos, <i>Macédonien,</i> PLUT. <i>Pyrrh. 7, etc</i>.<p><b>Étym</b>. π. αὐχέομαι.`

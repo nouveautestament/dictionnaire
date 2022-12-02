@@ -1,0 +1,1 @@
+lar[51910]=`<b>ου (ὁ)</b> Karpyllidès, <i>h</i>. ANTH. <i>9, 52</i>.<p><b>Étym</b>. καρπός.`

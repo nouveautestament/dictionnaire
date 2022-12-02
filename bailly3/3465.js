@@ -1,0 +1,1 @@
+lar[3465]=`<b>ου (τὸ)</b> petite enclume, ES. <i>413 Halm</i>.<p><b>Étym</b>. ἄκμων.`

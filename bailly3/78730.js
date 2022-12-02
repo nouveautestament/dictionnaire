@@ -1,0 +1,1 @@
+lar[78730]=`<b>εως (ἡ)</b> action de surprendre de tous côtés, d’envelopper, TH. <i>H.P. 7, 10, 3</i>.<p><b>Étym</b>. περικαταλαμβάνω.`

@@ -1,0 +1,1 @@
+lar[73428]=`<b>ου (ὁ)</b> = <i>lat</i>. Valerius, <i>n. d’h. rom</i>. PLUT. <i>Rom. 14, etc</i>.`

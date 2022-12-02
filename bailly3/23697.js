@@ -1,0 +1,1 @@
+lar[23697]=`<b>δεκ·άρχης, ου (ὁ) :<br>      1</b> commandant de dix hommes, décurion, HDT. <i>7, 81</i>.<br><b>      2</b> <i>à Rome,</i> décemvir, DH. <i>2, 14</i>.<p><b>Étym</b>. δ. ἄρχω.`

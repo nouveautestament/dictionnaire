@@ -1,0 +1,1 @@
+lar[68969]=`<b>νοο·σφαλής, ής, ές</b> <font color="purple">[ᾰ]</font> dont la raison chancelle, NONN. <i>D. 17, 277</i>.<p><b>Étym</b>. νόος, σφάλλω.`

@@ -1,0 +1,1 @@
+lar[104908]=`<b>φαρμακό·μαντις, εως</b> (ὁ) <font color="purple">[μᾰ]</font> sorcier qui prophétise au moyen de drogues, <i>titre d’une comédie d’Anaxandride,</i> ATH. <i>261f</i>.<p><b>Étym</b>. φάρμακον, μάντις.`

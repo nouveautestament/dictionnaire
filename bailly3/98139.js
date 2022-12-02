@@ -1,0 +1,1 @@
+lar[98139]=`<b>ή, όν</b>, capable d’accomplir, d’achever, de parfaire, CLÉM. <i>800</i>.<p><b>Étym</b>. τελειόω.`

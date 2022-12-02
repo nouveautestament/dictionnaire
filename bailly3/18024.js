@@ -1,0 +1,1 @@
+lar[18024]=`<b>ἄφ·ημαι</b> <font color="darkgreen">(<i>seul. part. prés</i>. ἀφήμενος)</font> être assis à l’écart, IL. <i>15, 106</i>.<p><b>Étym</b>. ἀπό, ἧμαι.`

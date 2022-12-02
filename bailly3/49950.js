@@ -1,0 +1,1 @@
+lar[49950]=`<b>ίδος</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> <i>adj. f</i>. d’Italie, italienne, ANTH. <i>7, 383</i>.<br><b>      2</b> <i>subst</i>. (ἡ) DC. <i>54, 22 dout</i>. l’Italie.<p><b>Étym</b>. Ἰταλία.`

@@ -1,0 +1,1 @@
+lar[40475]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> figue sauvage, SOPH. <i>fr. 190</i>.<br><b>      2</b> figuier sauvage, STRATT. (ATH. <i>76d</i>) ; LYC. <i>741</i> ; NIC. <i>Al. 319</i>.`

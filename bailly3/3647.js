@@ -1,0 +1,1 @@
+lar[3647]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> impuissance à se gouverner <i>ou</i> à se maîtriser, intempérance, <i>p. opp. à</i> ἐγκράτεια, PLAT. <i>Leg. 734b, 886a, etc.</i><br><b>      2</b> manque de force, faiblesse, HPC. <i>Prorrh. 80h, Epid. 1123a, Aph. 1253</i>.<p><b>Étym</b>. ἀκρατής.`

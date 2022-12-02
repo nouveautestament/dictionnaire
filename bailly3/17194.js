@@ -1,0 +1,1 @@
+lar[17194]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῡ]</font> nature immatérielle <i>ou</i> incorporelle, HIÉROCL. <i>C. aur. p. 479 Mullach</i>.<p><b>Étym</b>. ἄϋλος.`

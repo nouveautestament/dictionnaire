@@ -1,0 +1,1 @@
+lar[17817]=`<i>inf. ao. pass. de</i> αὔξω.`

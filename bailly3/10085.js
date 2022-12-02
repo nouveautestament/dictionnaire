@@ -1,0 +1,1 @@
+lar[10085]=`<b>εως (ἡ)</b> action de prendre en échange, échange, changement, PLUT. <i>M. 438d, 466b ;</i> GAL. <i>2, 281</i>.<p><b>Étym</b>. ἀντιμεταλαμβάνω.`

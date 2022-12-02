@@ -1,0 +1,1 @@
+lar[22041]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> instrument pour tailler la pierre, SOPH. <i>fr. 477</i> ; CALL. <i>fr. 159</i>.`

@@ -1,0 +1,1 @@
+lar[29209]=`<b>ωνος (ὁ)</b> Dôsôn (<i>litt</i>. qui doit donner, qui promet toujours) <i>surn. d’Antigone II de Macédoine,</i> PLUT. <i>Æmil. 11</i>.<p><b>Étym</b>. δίδωμι.`

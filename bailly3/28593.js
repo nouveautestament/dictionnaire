@@ -1,0 +1,1 @@
+lar[28593]=`<b>δυσ·κοίλιος, ος, ον</b>, dont le ventre est resserré, PLUT. <i>M. 137a ;</i> DIOSC. <i>1, 139</i>.<p><b>Étym</b>. δ. κοιλία.`

@@ -1,0 +1,1 @@
+lar[76453]=`<b>παρα·φωτισμός, οῦ (ὁ)</b> réfraction de la lumière, POSIDON. (STR. <i>138).</i><p><b>Étym</b>. π. φωτίζω.`

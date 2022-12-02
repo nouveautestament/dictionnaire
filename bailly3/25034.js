@@ -1,0 +1,1 @@
+lar[25034]=`<b>οῦ (ὁ) :<br>      1</b> partage, distribution, DS. <i>11, 47</i> ; SPT. <i>Ezech. 48, 19</i> ; JOS. <i>A.J. 10, 11, 7</i>.<br><b>      2</b> division, dissension, NT. <i>Luc. 12, 51</i>.<p><b>Étym</b>. διαμερίζω.`

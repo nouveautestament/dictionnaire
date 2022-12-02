@@ -1,0 +1,1 @@
+lar[72945]=`<b>ὀρνιθο·σκόπος, ος, ον</b>, qui sert à prendre les augures, SOPH. <i>Ant. 999</i>.<p><b>Étym</b>. ὄρνις, σκοπέω.`

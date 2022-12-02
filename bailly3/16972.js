@@ -1,0 +1,1 @@
+lar[16972]=`<b>ἀτρομέω-ῶ</b> (<i>seul. part. prés</i>.) ne pas trembler, OPP. <i>H. 3, 355</i>.<p><b>Étym</b>. ἄτρομος.`

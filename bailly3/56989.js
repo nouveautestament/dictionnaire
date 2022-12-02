@@ -1,0 +1,1 @@
+lar[56989]=`<b>ή, όν</b>, qui frappe, coupe <i>ou</i> pénètre, SYN. <i>327c</i>.<p><b>Étym</b>. κόπτω.`

@@ -1,0 +1,1 @@
+lar[22598]=`<b>(ἡ)</b> <i>seul. voc</i>. Γραμμί, Grammis, <i>f</i>. LUC. <i>D. mer. 13, 4</i>.`

@@ -1,0 +1,1 @@
+lar[78751]=`<b>περι·κέφαλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> moise <i>ou</i> bois couronnant le sommet d’un poteau, ATH. (<i>Math. vet. p. 6).</i><p><b>Étym</b>. π. κεφαλή.`

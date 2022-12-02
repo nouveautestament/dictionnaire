@@ -1,0 +1,1 @@
+lar[56363]=`(<i>seul. prés</i>.) dormir, OD. <i>4, 809</i> ; PD. <i>O. 13, 100 ; P. 1, 16</i> ; ANTH. <i>5, 294</i>.`

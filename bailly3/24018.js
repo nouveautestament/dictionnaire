@@ -1,0 +1,1 @@
+lar[24018]=`<b>ου (ὁ)</b> cher petit maître, EUR. <i>Cycl. 267</i>.<p><b>Étym</b>. <i>dim. de</i> δεσπότης.`

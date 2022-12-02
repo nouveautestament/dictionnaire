@@ -1,0 +1,1 @@
+lar[95644]=`<b>συν·επικωμάζω</b>, faire ensemble une orgie, SATYR. (ATH. <i>534e</i>) ; SEXT. <i>M. 6, 8</i>.`

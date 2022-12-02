@@ -1,0 +1,1 @@
+lar[1786]=`<b>ἀερο·μαχία, ας (ἡ)</b> <font color="purple">[ᾱμᾰ]</font> combat dans les airs, LUC. <i>V.H. 1, 48</i>.<p><b>Étym</b>. ἀ. μάχη.`

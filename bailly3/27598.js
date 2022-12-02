@@ -1,0 +1,1 @@
+lar[27598]=`<b>δορί·παλτος, ος, ον</b> <font color="purple">[ῐ]</font> qui brandit la lance, ESCHL. <i>Ag. 117</i>.<p><b>Étym</b>. δόρυ, πάλλω.`

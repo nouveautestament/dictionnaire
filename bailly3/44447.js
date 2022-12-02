@@ -1,0 +1,1 @@
+lar[44447]=`<font color="purple">[ᾰ]</font> faire bouillir, AGAP. (GEOP. <i>c. 129).</i><p><b>Étym</b>. ζέμα.`

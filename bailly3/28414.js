@@ -1,0 +1,1 @@
+lar[28414]=`<b>δυσ·έξοδος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> dont l’issue est difficile, ARSTT. <i>Pol. 7, 11</i> ; LYC. <i>1099</i> ; PAUS. <i>2, 31, 1</i>.<br><b>      2</b> dont l’issue est funeste, <i>fig</i>. HPC. <i>1133b</i>.<p><b>Étym</b>. δ. ἔξοδος.`

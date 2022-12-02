@@ -1,0 +1,1 @@
+lar[22849]=`<font color="purple">[ῡ]</font> tourner en rond autour, <i>d’où</i> circuler, aller et venir, ARCHIL. (PLUT. <i>Superst. 7</i>) ; STR. <i>259</i> ; BABR. <i>29, 4</i>.<p><b>Étym</b>. γῦρος.`

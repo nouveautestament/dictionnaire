@@ -1,0 +1,1 @@
+lar[31098]=`<b>ή, όν</b>, propre à repousser, ARSTT. <i>H.A. 9, 6, 2</i>.<p><b>Étym</b>. ἐκβάλλω.`

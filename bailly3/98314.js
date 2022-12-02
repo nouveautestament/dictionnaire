@@ -1,0 +1,1 @@
+lar[98314]=`<b>      1</b> <i>ion. et dor. p</i>. τίνος, <i>gén. de</i> τίς, <i>interrog</i>. IL. <i>2, 225 ; 24, 128</i> ; OD. <i>4, 463 ; ou encl</i>. (τεο) <i>p</i>. τινός, <i>gén. de</i> τίς, <i>indéf</i>. OD. <i>16, 305</i>.<br><b>      2</b> <i>gén. de</i> τύ, <i>dor. c</i>. σύ, ALCM. <i>17 (67) Bgk</i>.`

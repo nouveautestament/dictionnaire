@@ -1,0 +1,1 @@
+lar[1994]=`<b>ἄ·θερμος, ος, ον</b>, sans chaleur, PLAT. <i>Phæd. 106a</i>.<p><b>Étym</b>. ἀ. θερμός.`

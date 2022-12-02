@@ -1,0 +1,1 @@
+lar[11558]=`<b>ἀπειρ·αγάθως</b> <font color="purple">[ρᾰᾰ]</font> <i>adv</i>., sans avoir l’expérience <i>ou</i> le sentiment du bien, DS. <i>15, 40</i>.`

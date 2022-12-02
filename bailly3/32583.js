@@ -1,0 +1,1 @@
+lar[32583]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐλαφοειδής, EUN. (PHOT. <i>3, 245b</i>).<p><b>Étym</b>. ἔλαφος, -ωδης.`

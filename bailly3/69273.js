@@ -1,0 +1,1 @@
+lar[69273]=`<b>νυχη·βόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui dévore pendant la nuit, NIC. <i>Th. 446</i>.<p><b>Étym</b>. νύξ, βιβρώσκω.`

@@ -1,0 +1,1 @@
+lar[48729]=`<b>ατος (τὸ)</b> marche, <i>d’où</i> mouvement, IL. <i>5, 778</i> ; HH. <i>Ap. 114</i> ; CALL. <i>Cer. 59</i>.<p><b>Étym</b>. εἶμι.`

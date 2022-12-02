@@ -1,0 +1,1 @@
+lar[103105]=`<b>ὑπό·γυρος, ος, ον</b> <font color="purple">[ῡρ]</font> courbé légèrement, PHILSTR. <i>Im. 40</i>.`

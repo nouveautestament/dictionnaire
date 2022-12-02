@@ -1,0 +1,1 @@
+lar[39833]=`<b>ἐπ·ολισθαίνω</b> <font color="darkgreen">(<i>f</i>. -ολισθήσω) :</font><br><b>      1</b> glisser sur, tomber en glissant sur, <i>fig</i>. ἀμπλακίαις, ANTH. <i>5, 278,</i> dans des fautes.<br><b>      2</b> glisser en s’appuyant sur, ANTH. <i>10, 15</i>.`

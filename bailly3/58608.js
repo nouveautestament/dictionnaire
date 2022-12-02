@@ -1,0 +1,1 @@
+lar[58608]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de rouler, de s’ébattre, PLUT. <i>Ant. 9 ; fig</i>. PLAT. <i>Soph. 268a</i>.<p><b>Étym</b>. κυλινδέω.`

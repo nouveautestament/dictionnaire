@@ -1,0 +1,1 @@
+lar[55149]=`<i>adv</i>., κ. ἔχειν, ARSTD. <i>53, 12,</i> être plein de sollicitude.`

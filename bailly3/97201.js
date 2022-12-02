@@ -1,0 +1,1 @@
+lar[97201]=`<b>σωματόω-ῶ</b> <font color="purple">[ᾰ]</font> unir en un corps, rendre compact, consistant, ARSTT. <i>G.A. 2, 4, 20, etc. ; au pass</i>. prendre de la consistance, TH. <i>C.P. 6, 11, 14</i>.<p><b>Étym</b>. σῶμα.`

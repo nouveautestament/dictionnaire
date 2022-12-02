@@ -1,0 +1,1 @@
+lar[102197]=`<b>ὑπ·εξαναδύομαι</b> <font color="darkgreen">(<i>f</i>. -αναδύσομαι, <i>ao.2</i> -ανέδυν, <i>etc</i>.)</font> s’élever de dessous <i>ou</i> peu à peu, THCR. <i>Idyl. 22, 123</i> ; ἁλός, IL. <i>13, 352,</i> du sein de la mer.`

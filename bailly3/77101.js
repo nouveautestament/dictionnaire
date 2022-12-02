@@ -1,0 +1,1 @@
+lar[77101]=`<b>παρ·ορκέω-ῶ</b>, violer un serment, APP. <i>1, 91 Schweigh.</i> ; PHILSTR. <i>219</i>.`

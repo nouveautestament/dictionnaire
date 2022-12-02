@@ -1,0 +1,1 @@
+lar[100338]=`<b>τρι·πάνουργος, ος, ον</b> <font color="purple">[ῐᾰ]</font> très perfide (<i>litt</i>. trois fois perfide) ANTH. <i>12, 57</i>.<p><b>Étym</b>. τρ. πανοῦργος.`

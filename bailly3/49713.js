@@ -1,0 +1,1 @@
+lar[49713]=`<b>ἰσο·πλατής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font> égal en largeur à, THC. <i>3, 21</i>.<p><b>Étym</b>. ἴ. πλάτος.`

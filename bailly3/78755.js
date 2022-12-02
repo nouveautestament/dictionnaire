@@ -1,0 +1,1 @@
+lar[78755]=`<b>περι·κίδναμαι</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) se répandre autour de, <i>dat</i>. ANTH. <i>5, 292 ; 9, 765 ; avec</i> εἰς <i>et l’acc</i>. ANTH. <i>9, 651</i>.`

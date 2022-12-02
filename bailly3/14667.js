@@ -1,0 +1,1 @@
+lar[14667]=`<b>ἀριστερό·χειρ, ειρος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> gaucher, SYN. <i>160b</i>.<p><b>Étym</b>. ἀριστερός, χείρ.`

@@ -1,0 +1,1 @@
+lar[10301]=`<b>ἀντι·πολίζω</b>, bâtir une cité rivale, bâtir ville contre ville, JOS. <i>B.J. 5, 2, 4</i>.<p><b>Étym</b>. ἀντίπολις.`

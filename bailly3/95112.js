@@ -1,0 +1,1 @@
+lar[95112]=`<b>συν·διάκτορος, ου (ὁ)</b> qui conduit <i>ou</i> transporte avec un autre, LUC. <i>Char. 1</i>.`

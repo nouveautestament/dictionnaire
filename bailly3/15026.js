@@ -1,0 +1,1 @@
+lar[15026]=`<b>ης (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> croc pour tirer un seau du puits, MÉN. (AMMON.Gr. <i>p. 30</i>).<br><b>      2</b> râteau, EUR. <i>Cycl. 33</i>.<p><b>Étym</b>. ἁρπάζω.`

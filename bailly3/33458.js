@@ -1,0 +1,1 @@
+lar[33458]=`<b>ίδος (ἡ) :<br>      1</b> sorte de grand cousin, <i>insecte,</i> AR. <i>Nub. 157, Av. 245</i> ; ARSTT. <i>H.A. 1, 5, 13 ; 5, 19, 14</i>.<br><b>      2</b> larve du taon, ARSTT. <i>H.A. 1, 1, 17</i>.<p><b>Étym</b>. <i>cf. lat</i>. ăpis.`

@@ -1,0 +1,1 @@
+lar[35914]=`<b>ή, όν</b>, propre à raconter <i>ou</i> à expliquer, HERMOG. <i>Rhet. 225, 21</i> ; SEXT. <i>420 Bkk.</i> ; CLÉM. <i>1, 820 ; 2, 588 Migne</i> ; τὰ ἐξηγητικά (<i>s.-e</i>. βιβλία) PLUT. <i>Nic. 23,</i> traités de l’interprétation des songes.<p><b>Étym</b>. ἐξηγέομαι.`

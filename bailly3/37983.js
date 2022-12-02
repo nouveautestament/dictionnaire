@@ -1,0 +1,1 @@
+lar[37983]=`<b>ἐπι·καχλάζω</b> <font color="darkgreen">(<i>impf. itér. 3 sg</i>. ἐπικαχλάζεσκεν)</font> se heurter avec fracas contre, <i>dat</i>. A.RH. <i>4, 944</i>.`

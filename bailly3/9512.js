@@ -1,0 +1,1 @@
+lar[9512]=`<b>ἀντ·αποτειχίζω</b>, fortifier de son côté, DC. <i>43, 7</i>.`

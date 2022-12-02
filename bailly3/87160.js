@@ -1,0 +1,1 @@
+lar[87160]=`<b>πρωτ·αίχμεια, ων (τὰ)</b> première part <i>ou</i> prémices du butin, LYC. <i>469</i>.<p><b>Étym</b>. πρ. αἰχμή.`

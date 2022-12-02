@@ -1,0 +1,1 @@
+lar[9908]=`<font color="darkgreen">(<i>ao</i>. ἀντεκάθισα)</font> établir à la place de, SPT. <i>4Reg. 17, 26</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao.2</i> ἀντικαθεζόμην)</font> s’établir <i>ou</i> camper en face, HDT. <i>4, 3, etc.</i> ; THC. <i>1, 30, etc</i>.<p>➳ <i>Ion</i>. -κατίζομαι, <i>d’où ao</i>. -κατεζόμην, HDT. <i>l. c</i>.`

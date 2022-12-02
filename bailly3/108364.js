@@ -1,0 +1,1 @@
+lar[108364]=`<b>ου (τὸ)</b> basse-cour pour les oies, VARR. <i>R.R. 3, 10, 1, etc.</i> ; COLUM. <i>8, 14, 1</i>.<p><b>Étym</b>. χηνοβοσκός.`

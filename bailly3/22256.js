@@ -1,0 +1,1 @@
+lar[22256]=`<b>οῦ (ὁ)</b> mâchoire (d’homme <i>ou</i> d’animal), IL. <i>13, 671 ; 16, 405</i> ; OD. <i>16, 175</i> ; EUR. <i>Hipp. 1223 ; au plur</i>. OD. <i>18, 29</i> ; EUR. <i>Med. 1201 ; pour la loc</i>. ἀλλοτρίοις γναθμοῖσι γελᾶν, <i>v</i>. ἀλλότριος.<p><b>Étym</b>. <i>poét. c</i>. γνάθος.`

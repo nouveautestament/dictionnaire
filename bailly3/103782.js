@@ -1,0 +1,1 @@
+lar[103782]=`<b>ὑπο·ρροφέω-ῶ</b>, engloutir, TIMAR. (<i>Not. des mss. 9, 2, p. 200).</i><p><b>Étym</b>. ὑ. ῥοφέω.`

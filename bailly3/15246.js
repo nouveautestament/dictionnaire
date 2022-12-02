@@ -1,0 +1,1 @@
+lar[15246]=`<b>ης (ἡ)</b> Artazôstrè, <i>n. de f. persan,</i> HDT. <i>6, 43</i>.`

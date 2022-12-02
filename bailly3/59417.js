@@ -1,0 +1,1 @@
+lar[59417]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῡ]</font> <i>dim. de</i> λάγυνος, DIPH. (ATH. <i>499e</i>).`

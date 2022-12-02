@@ -1,0 +1,1 @@
+lar[82639]=`<b>ή, όν :<br>      1</b> qui concerne les processions, pompes <i>ou</i> cérémonies publiques, XÉN. <i>Eq. 11, 1</i> ; DS. <i>18, 26</i> ; PLUT. <i>Æmil. 33, etc.</i><br><b>      2</b> <i>p. suite,</i> pompeux, de montre, d’apparat, PLUT. <i>Mar. 22 ; en parl. du style,</i> DH. <i>Is. 19</i> ; LGN <i>8</i>.<p><b>Étym</b>. πομπή.`

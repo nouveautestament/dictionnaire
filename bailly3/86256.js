@@ -1,0 +1,1 @@
+lar[86256]=`<b>πρόσ·παιος, ος, ον</b>, soudain, récent, ESCHL. <i>Ag. 347</i> ; NIC. <i>Th. 690</i> ; LYC. <i>211</i> ; ἐκ προσπαίου, ARSTT. <i>Nic. 9, 5, 2</i> ; POL. <i>6, 43, 3,</i> tout à coup <i>ou</i> récemment.<p><b>Étym</b>. π. παίω.`

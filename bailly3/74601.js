@@ -1,0 +1,1 @@
+lar[74601]=`<b>παλιν·τριβής, ής, ές</b> <font color="purple">[ᾰῐβ]</font><br><b>      1</b> usé par le frottement, <i>càd</i>. souvent battu, SIM. AM. <i>Iamb. fr. 6, 43</i>.<br><b>      2</b> rusé, fourbe, SOPH. <i>Ph. 448</i>.<p><b>Étym</b>. π. τρίβω.`

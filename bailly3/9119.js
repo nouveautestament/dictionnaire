@@ -1,0 +1,1 @@
+lar[9119]=`<b>ἀνισο·πλατής, ής, ές</b> <font color="purple">[ᾰῐᾰ]</font> de largeur inégale, EUCL. <i>Opt. 6, p. 8, l. 19 Heiberg et Menge</i>.<p><b>Étym</b>. ἄν. πλάτος.`

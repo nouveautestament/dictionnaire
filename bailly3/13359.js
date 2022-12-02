@@ -1,0 +1,1 @@
+lar[13359]=`<b>ἀπο·σμύχω</b> <i>ou</i> <b>ἀπο·σμύττω</b> (<i>part. ao.2 pass</i>. ἀποσμυγείς) consumer par le feu, <i>d’où</i> consumer, dévorer, <i>fig</i>. LUC. <i>D. mort. 6, 3</i>.<p><b>Étym</b>. <i>conj</i>. ὑποσμύχω.`

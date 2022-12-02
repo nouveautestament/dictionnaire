@@ -1,0 +1,1 @@
+lar[26857]=`<b>οῦ (ὁ) :<br>      1</b> division, distinction, PLAT. <i>Tim. 38c</i>, POL. <i>282e ;</i> ARSTT. <i>Nic. 5, 74</i>.<br><b>      2</b> définition, ARSTT. <i>Soph. el. 6, 1</i> ; TH. (DL. <i>5, 43</i>) ; GAL. <i>2, 233</i>.<p><b>Étym</b>. διορίζω.`

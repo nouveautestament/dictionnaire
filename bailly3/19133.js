@@ -1,0 +1,1 @@
+lar[19133]=`<b>βαρυ·δάκρυος, ος, ον</b> <font color="purple">[ᾰῠα]</font> qui pleure abondamment ; éploré, NONN. <i>D. 40, 194</i> ; CHRIST. <i>Ecphr. 194</i>.<p><b>Étym</b>. β. δάκρυ.`

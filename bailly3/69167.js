@@ -1,0 +1,1 @@
+lar[69167]=`<b>νυκτο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> ouvrage écrit pendant des veilles, PLUT. <i>M. 634a, 803c</i>.<p><b>Étym</b>. ν. γράφω.`

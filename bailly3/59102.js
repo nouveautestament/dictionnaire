@@ -1,0 +1,1 @@
+lar[59102]=`<b>κωδωνο·φόρος, ος, ον</b>, qui porte une cloche, STR. <i>15, 1, 52 et 55 Kram</i>.<p><b>Étym</b>. κώδων, φέρω.`

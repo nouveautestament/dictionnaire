@@ -1,0 +1,1 @@
+lar[77858]=`<b>(τὸ)</b> <i>seul. nom. et acc. sg</i>. être prodigieux, prodige, monstre, <i>touj. en parl. d’êtres vivants d’une grosseur énorme, en parl. d’un dauphin,</i> HH. <i>Ap. 401 ; d’ord. en mauv. part, en parl. du Cyclope,</i> OD. <i>9, 428 ; de Scylla,</i> OD. <i>12, 87 ; du serpent Python,</i> HH. <i>Ap. 374 ; en parl. d’Hèphæstos,</i> IL. <i>18, 410</i>.`

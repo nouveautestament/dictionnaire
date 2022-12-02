@@ -1,0 +1,1 @@
+lar[108927]=`<i>part. neutre de l’impers</i>. χρή.`

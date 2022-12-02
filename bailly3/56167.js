@@ -1,0 +1,1 @@
+lar[56167]=`<b>κλυτό·μητις, ιος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> célèbre pour sa sagesse <i>ou</i> son talent, HH. <i>19, 1</i> ; A. PL. <i>4, 43</i>.<p>➳ <i>Voc</i>. -ι, A. PL. <i>l. c</i>.<p><b>Étym</b>. κλ. μῆτις.`

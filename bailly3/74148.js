@@ -1,0 +1,1 @@
+lar[74148]=`<b>πάγ·ξενος, ος, ον</b>, <i>seul. adv</i>. πάγξενα, SOPH. <i>fr. 18 Dind</i>. pour tous les étrangers également.<p><b>Étym</b>. π. ξένος.`

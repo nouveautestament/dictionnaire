@@ -1,0 +1,1 @@
+lar[4851]=`<font color="purple">[ῠῐ]</font> <i>adv</i>., ailleurs, <i>avec ou sans mouv.</i> : ἄ. ἄλλη, OD. <i>5, 71,</i> l’une d’un côté, l’autre de l’autre ; ἄ. ἄλλῃ, IL. <i>13, 279,</i> tantôt ici, tantôt là, <i>ou</i> tantôt d’une façon, tantôt d’une autre.<p><b>Étym</b>. ἄλλος.`

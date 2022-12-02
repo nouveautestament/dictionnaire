@@ -1,0 +1,1 @@
+lar[76721]=`<b>παρ·εντίθημι</b> <font color="purple">[τῐ]</font><br><b>      1</b> interposer, insérer, entremêler, GAL. <i>6, 574</i> ; ORIB. <i>p. 85 Mai</i>.<br><b>      2</b> insérer à tort, LGN <i>27, 1</i> ; GAL. <i>18, 179</i>.`

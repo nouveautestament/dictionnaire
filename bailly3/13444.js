@@ -1,0 +1,1 @@
+lar[13444]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> point d’appui pour un levier, HPC. <i>515, 19</i>.<p><b>Étym</b>. ἀποστηρίζω.`

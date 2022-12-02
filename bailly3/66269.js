@@ -1,0 +1,1 @@
+lar[66269]=`<b>ου (ὁ) :<br>      1</b> travail pénible, effort, IL. <i>4, 27</i>.<br><b>      2</b> souffrance, douleur, SOPH. <i>O.C. 1744</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

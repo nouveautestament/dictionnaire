@@ -1,0 +1,1 @@
+lar[92358]=`<b>στενο·θώραξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾱκ]</font> à poitrine étroite, GAL.<p><b>Étym</b>. στ. θώραξ.`

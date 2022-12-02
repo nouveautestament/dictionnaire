@@ -1,0 +1,1 @@
+lar[44672]=`<b>ας (ἡ)</b> un éléphant, <i>unité tactique</i>, EL. TACT.<p><b>Étym</b>. ζῴαρχος.`

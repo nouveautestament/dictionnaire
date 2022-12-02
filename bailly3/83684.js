@@ -1,0 +1,1 @@
+lar[83684]=`<b>προ·αποσπάω-ῶ</b>, arracher auparavant, DC. <i>54, 31</i>.`

@@ -1,0 +1,1 @@
+lar[77224]=`<b>(ὁ)</b> Pasakas, <i>n. du cheval de Cyrus le jeune,</i> PLUT. <i>Artax. 9</i>.`

@@ -1,0 +1,1 @@
+lar[103347]=`<b>εως (ἡ) :<br>      1</b> action de brûler en dessous, ORIB. <i>37 Matthäi</i>.<br><b>      2</b> action de chauffer en dessous, <i>particul</i>. de chauffer une chaudière pour un bain, PLUT. <i>M. 658e</i>.<p><b>Étym</b>. ὑποκαίω.`

@@ -1,0 +1,1 @@
+lar[89859]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> Sériphos, <i>une des Cyclades,</i> PD. <i>P. 12, 21</i> ; ISOCR. <i>19, 9 Baiter-Sauppe, etc</i>.`

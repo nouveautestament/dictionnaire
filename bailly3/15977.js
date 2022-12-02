@@ -1,0 +1,1 @@
+lar[15977]=`<b>ατος (τὸ)</b> chant, chanson, PLAT. <i>Prot. 343c, etc</i>.<p><b>Étym</b>. ᾄδω.`

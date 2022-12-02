@@ -1,0 +1,1 @@
+lar[94459]=`<b>εως (ἡ)</b> compression, obstruction, TH. <i>C.P. 5, 11, 3</i>.<p><b>Étym</b>. συμφράσσω.`

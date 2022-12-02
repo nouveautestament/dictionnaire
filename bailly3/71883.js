@@ -1,0 +1,1 @@
+lar[71883]=`<b>ου (ὁ)</b> <i>sg. et pl</i>. le dieu <i>ou</i> les dieux des songes, IL. <i>2, 6, etc.</i> ; OD. <i>24, 12</i> ; HÉS. <i>Th. 212</i>.<p><b>Étym</b>. <i>v</i>. ὄνειρος.`

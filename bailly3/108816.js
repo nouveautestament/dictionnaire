@@ -1,0 +1,1 @@
+lar[108816]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec la passion des chœurs, MAX. <i>π. κατ. 496</i>.<p><b>Étym</b>. χοροιμανής.`

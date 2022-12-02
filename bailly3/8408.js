@@ -1,0 +1,1 @@
+lar[8408]=`<b>ἀν·επανόρθωτος, ος, ον :<br>      1</b> qu’on ne peut redresser, incorrigible, PLUT. <i>M. 49b.</i><br><b>      2</b> non corrigé, ARR. <i>Epict. 3, 1, 11</i>.<br><b>      3</b> qui n’est pas à corriger, parfait, PHIL. <i>2, 614</i>.<p><b>Étym</b>. ἀν-, ἐπανορθόω.`

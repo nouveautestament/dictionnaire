@@ -1,0 +1,1 @@
+lar[109357]=`<b>χυλόω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> réduire en jus, <i>d’où au pass</i>. devenir juteux, T. LOCR. <i>101a.</i><br><b>      2</b> exprimer le jus, DIOSC. <i>2, 212 ; avec l’acc.</i> : μῆλα, GEOP. <i>8, 27, 2,</i> presser des pommes <i>ou</i> des oranges pour en exprimer le jus.<p><b>Étym</b>. χυλός.`

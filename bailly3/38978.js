@@ -1,0 +1,1 @@
+lar[38978]=`<b>ἐπι·σκέλισις, εως (ἡ)</b> <font color="purple">[ῐσ]</font> le premier bond d’un cheval qui part au galop, XÉN. <i>Eq. 7, 12</i>.<p><b>Étym</b>. ἐπί, σκέλος.`

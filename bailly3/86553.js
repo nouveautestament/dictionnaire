@@ -1,0 +1,1 @@
+lar[86553]=`<b>προ·συντρίβω</b> <font color="purple">[ῑ]</font> briser auparavant, DC. <i>59, 20</i>.`

@@ -1,0 +1,1 @@
+lar[49186]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Justinianus, Justinien, <i>empereur d’Orient,</i> ANTH. <i>1, 6, etc</i>.`

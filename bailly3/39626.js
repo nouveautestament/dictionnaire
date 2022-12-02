@@ -1,0 +1,1 @@
+lar[39626]=`<b>ἐπι·φυλλίς, ίδος (ἡ)</b> grappillon, petite grappe qu’on laisse sur la vigne, DIOSC. <i>4, 144</i> ; ANTH. <i>6, 191 ; fig</i>. mauvaise poésie <i>ou</i> morceau de rebut, méchante grappaille, DH. <i>Rhet. 10, 18, en parl. des auteurs eux-mêmes, d’un méchant poète, d’un méchant écrivain,</i> AR. <i>Ran. 92</i>.<p><b>Étym</b>. ἐπί, φύλλον.`

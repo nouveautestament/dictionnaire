@@ -1,0 +1,1 @@
+lar[79524]=`<b>ος, ον</b>, usé par les allées et venues, ORACL. (SCH.-EUR. <i>Ph. 638).</i><p><b>Étym</b>. περιτρίβω.`

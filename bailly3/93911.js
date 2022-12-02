@@ -1,0 +1,1 @@
+lar[93911]=`<b>συμ·μαρτύρομαι</b> <font color="purple">[τῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> prendre ensemble à témoin, NT. <i>Apoc. 22, 18</i>.`

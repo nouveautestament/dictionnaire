@@ -1,0 +1,1 @@
+lar[38803]=`<b>ἐπι·προέχομαι</b> <font color="darkgreen">(<i>3 pl. impf</i>. ἐπιπρούχοντο)</font> avancer en saillie, A.RH. <i>4, 524</i>.`

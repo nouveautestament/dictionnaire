@@ -1,0 +1,1 @@
+lar[15549]=`<b>η, ον</b>, le plus ancien, ESCHL. <i>fr. 186</i>.<p><b>Étym</b>. <i>sup. de</i> ἀρχή ; <i>sel. Lobeck</i> ἀρχέστρατος, chef de l’armée, <i>càd</i>. du peuple, de ἄρχω, στρατός.`

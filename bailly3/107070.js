@@ -1,0 +1,1 @@
+lar[107070]=`<b>ου (τὸ)</b> Phyktéon, <i>v</i>. HÉS. <i>fr. 30 Gaisford</i>.<p><b>Étym</b>. <i>cf</i>. Φυκτεύς.`

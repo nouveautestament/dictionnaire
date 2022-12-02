@@ -1,0 +1,1 @@
+lar[21258]=`<b>α, ον</b> <font color="purple">[γᾰ]</font> calme, serein, ANTH. <i>10, 21, etc.</i> ; ἡ γαληναίη, A.RH. <i>1, 1156, c</i>. γαλήνη.`

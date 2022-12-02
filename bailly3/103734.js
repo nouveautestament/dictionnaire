@@ -1,0 +1,1 @@
+lar[103734]=`<b>ὑπο·πτερνίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sous-talon, étrier, coussinet, HÉRON <i>Bel. 18</i> ; PHIL. BYZ. <i>Bel. 35</i>.<p><b>Étym</b>. ὑ. πτέρνα.`

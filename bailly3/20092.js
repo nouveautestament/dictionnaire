@@ -1,0 +1,1 @@
+lar[20092]=`<b>βοιωτ·άρχης, ου (ὁ)</b> béotarque, <i>titre des chefs politiques et militaires des cités confédérées de Béotie, élus annuellement,</i> HDT. <i>9, 15 ; cf</i>. βοιώταρχος.`

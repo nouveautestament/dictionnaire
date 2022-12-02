@@ -1,0 +1,1 @@
+lar[46436]=`<b>θεατρό·μορφος, ος, ον</b> <font color="purple">[ᾱ]</font> en forme de théâtre, LYC. <i>600</i>.<p><b>Étym</b>. θ. μορφή.`

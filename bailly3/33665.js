@@ -1,0 +1,1 @@
+lar[33665]=`<b>ή, όν</b>, propre à signifier, significatif de, <i>gén</i>. PLUT. <i>M. 747e, etc. ; abs</i>. significatif, expressif, POL. <i>18, 6, 2</i> ; PLUT. <i>M. 1009e</i>.<p>•<i> Cp</i>. -ώτερος, PLUT. <i>M. 1009e</i>.<p><b>Étym</b>. ἐμφαίνω.`

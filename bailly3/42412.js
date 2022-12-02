@@ -1,0 +1,1 @@
+lar[42412]=`<b>εὔ·κεντρος, ος, ον</b>, muni d’un fort aiguillon, ANTH. <i>9, 339</i>.<p><b>Étym</b>. εὖ, κέντρον.`

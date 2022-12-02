@@ -1,0 +1,1 @@
+lar[47978]=`<b>θυννο·σκόπος, ου (ὁ, ἡ)</b> qui guette les thons, ARSTT. <i>H.A. 4, 10, 8</i> ; PLUT. <i>M. 980a</i>.<p><b>Étym</b>. θ. σκοπέω.`

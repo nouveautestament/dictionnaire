@@ -1,0 +1,1 @@
+lar[62423]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> action de vanter <i>ou</i> d’envier le bonheur d’autrui, PLAT. <i>Rsp. 591d ;</i> ARSTT. <i>Rhet. 9, 4</i> ; PLUT. <i>M. 471c</i>.<p><b>Étym</b>. μακαρίζω.`

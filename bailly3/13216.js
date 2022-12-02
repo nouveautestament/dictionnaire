@@ -1,0 +1,1 @@
+lar[13216]=`<b>ἀπο·ρραίω</b>, arracher violemment : τινά τι, OD. <i>1, 404</i> ; τινά τινος, HÉS. <i>Th. 393,</i> qqe ch. à qqn.<p><b>Étym</b>. ἀ. ῥαίω.`

@@ -1,0 +1,1 @@
+lar[60535]=`<b>λευκ·αυγής, ής, ές</b>, à la lumière blanche, brillant, éclatant, ANTIPH. (ATH. <i>623b</i>).<p><b>Étym</b>. λ. αὐγή.`

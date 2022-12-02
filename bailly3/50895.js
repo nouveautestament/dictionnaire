@@ -1,0 +1,1 @@
+lar[50895]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de malfaiteur, ARSTT. <i>Rhet. 2, 16</i>.<p><b>Étym</b>. κακοῦργος.`

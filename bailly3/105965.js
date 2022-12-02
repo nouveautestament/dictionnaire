@@ -1,0 +1,1 @@
+lar[105965]=`<b>Φιλό·νομος, ου (ὁ)</b> Philonomos :<br><b>      1</b> <i>fils d’Élektryon,</i> APD. <i>2, 4, 5</i>.<br><b>      2</b> <i>autres,</i> EL. <i>fr. 3</i> (STOB. <i>Fl. 79, 38), etc</i>.<p><b>Étym</b>. φ. νόμος.`

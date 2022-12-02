@@ -1,0 +1,1 @@
+lar[70216]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de linge fin, LUC. <i>Alex. 12, 15</i>.<p><b>Étym</b>. ὀθόνη.`

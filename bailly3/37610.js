@@ -1,0 +1,1 @@
+lar[37610]=`<b>ἐπι·διατίθημι</b>, arranger en outre, DC. <i>62, 15</i>.<br><b><i>Moy.</i></b> déposer comme caution, comme garantie pour soi, DÉM. <i>896, 22</i> ; LYS. (HARP.).`

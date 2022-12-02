@@ -1,0 +1,1 @@
+lar[86043]=`<b>προσ·κομίζω</b>, amener, apporter, transporter, <i>acc</i>. THC. <i>4, 115</i> ; DÉM. <i>1277, 12, etc. ; au pass</i>. THC. <i>1, 51</i> ; XÉN. <i>Hell. 5, 1, 19</i>.<br><b><i>Moy.</i></b> amener <i>ou</i> transporter pour soi, <i>acc</i>. THC. <i>1, 54 ; particul</i>. importer chez soi, XÉN. <i>Cyr. 6, 1, 23, etc</i>.`

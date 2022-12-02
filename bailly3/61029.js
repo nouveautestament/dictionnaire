@@ -1,0 +1,1 @@
+lar[61029]=`<b>ή, όν</b> <font color="purple">[λῐ]</font> qui concerne les pierres, P. ÉG. <i>6, 60</i> ; τὰ λιθικά (<i>s.-e</i>. βιβλία), poème sur les pierres précieuses, <i>attribué à Orphée</i>.`

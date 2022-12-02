@@ -1,0 +1,1 @@
+lar[18999]=`<b>ῆς (ἡ)</b> marrube noir (<i>Porrum nigrum</i> L.), <i>plante,</i> DIOSC. <i>3, 117</i>.`

@@ -1,0 +1,1 @@
+lar[27079]=`<b>δισ·ύπατος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> deux fois consul, PLUT. <i>M. 777b ;</i> ARR. <i>Epict. 4, 1, 6</i> ; PHILSTR. <i>V. soph. 2, 1, 1</i>.`

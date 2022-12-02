@@ -1,0 +1,1 @@
+lar[65919]=`<b>μιξ·άνθρωπος, ου (ὁ)</b> à moitié homme, à moitié animal, THÉM. <i>284a ;</i> LIB. <i>3, 282</i>.<p><b>Étym</b>. μίξ, ἄνθρωπος.`

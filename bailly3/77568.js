@@ -1,0 +1,1 @@
+lar[77568]=`<b>πεζ·έταιροι, ων (οἱ)</b> fantassins, gardes du corps du roi de Macédoine, DÉM. <i>23, 2</i> ; PLUT. <i>Flam. 17, M. 197c</i>.<p><b>Étym</b>. π. ἑταῖρος.`

@@ -1,0 +1,1 @@
+lar[72752]=`<b>ου (ὁ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. ὀρθοστάδιον AR. (POLL. <i>7, 49</i>).`

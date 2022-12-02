@@ -1,0 +1,1 @@
+lar[42850]=`<b>εὐοινέω-ῶ</b>, produire du bon vin <i>ou</i> beaucoup de vin, STR. <i>516</i> ; M. TYR. <i>30, 4</i>.<p><b>Étym</b>. εὔοινος.`

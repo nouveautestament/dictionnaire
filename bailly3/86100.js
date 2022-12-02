@@ -1,0 +1,1 @@
+lar[86100]=`<b>εως (ἡ)</b> action de briller sur, illumination, EPIC. (DL. <i>10, 109).</i><p><b>Étym</b>. προσλάμπω.`

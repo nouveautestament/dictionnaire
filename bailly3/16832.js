@@ -1,0 +1,1 @@
+lar[16832]=`<b>ας (ἡ)</b> <font color="purple">[τῐ]</font> insolvabilité, CIC. <i>Att. 14, 19</i>.<p><b>Étym</b>. ἄτιτος.`

@@ -1,0 +1,1 @@
+lar[37954]=`<b>ἐπι·κατατέμνω</b>, pousser encore plus avant une mine, une tranchée, DÉM. <i>977, 7</i>.`

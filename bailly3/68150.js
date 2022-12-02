@@ -1,0 +1,1 @@
+lar[68150]=`<b>νεό·θρεπτος, ος, ον</b>, de croissance récente, <i>propr</i>. nourri <i>ou</i> devenu fort tout récemment, A.RH. <i>3, 1400</i>.<p><b>Étym</b>. ν. τρέφω.`

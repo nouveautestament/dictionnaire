@@ -1,0 +1,1 @@
+lar[66515]=`<b>μονό·γληνος, ος, ον</b>, qui n’a qu’une prunelle, qu’un œil, LYC. <i>659</i>.<p>➳ <i>ion</i>. μουνόγληνος, ANTH. <i>7, 748</i> ; CALL. <i>Dian. 53</i>.<p><b>Étym</b>. μ. γλήνη.`

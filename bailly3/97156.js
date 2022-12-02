@@ -1,0 +1,1 @@
+lar[97156]=`<font color="purple">[ᾰ]</font> <i>c</i>. σωκρατέω, ALCIPHR. <i>2, 2</i> ; AR. <i>Nub. Arg. 4</i>.`

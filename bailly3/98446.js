@@ -1,0 +1,1 @@
+lar[98446]=`<b>τεσσαρακοντά·λιτρος, ος, ον</b>, <i>att</i>. <b>τεττ-</b>, de quarante livres, DINOL. (POLL.).<p><b>Étym</b>. τ. λίτρα.`

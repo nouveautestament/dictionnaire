@@ -1,0 +1,1 @@
+lar[65694]=`<b>μικρο·γλάφυρος, ος, ον</b> <font color="purple">[ῑᾰῠ]</font> petit et poli, ARSTT. <i>Physiogn. 3, 13</i>.<p><b>Étym</b>. μ. γλαφυρός.`

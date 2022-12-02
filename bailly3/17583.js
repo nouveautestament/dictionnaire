@@ -1,0 +1,1 @@
+lar[17583]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> ce qui arrive de soi-même, chance, hasard, HPC. <i>406</i> ; DH. <i>1, 4</i>.<p><b>Étym</b>. αὐτοματίζω.`

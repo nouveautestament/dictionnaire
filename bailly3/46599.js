@@ -1,0 +1,1 @@
+lar[46599]=`<b>ῶν (αἱ)</b> Thénes (<i>auj</i>. Kastélli <i>ou</i> Sambás) <i>v. de Crète,</i> CALL. <i>Jov. 43</i>.`

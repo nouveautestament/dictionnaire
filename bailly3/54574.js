@@ -1,0 +1,1 @@
+lar[54574]=`<i>adv</i>., en cachette, ARR. <i>Epict. 3, 7, 11</i>.<p><b>Étym</b>. κρύπτω.`

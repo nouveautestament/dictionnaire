@@ -1,0 +1,1 @@
+lar[46156]=`<b>θαλασσο·γενής, ής, ές</b> <font color="purple">[θᾰ]</font> né de la mer, ARCHESTR. (ATH. <i>92e</i>).<p><b>Étym</b>. θ. γίγνομαι.`

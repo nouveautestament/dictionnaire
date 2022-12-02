@@ -1,0 +1,1 @@
+lar[102346]=`<b>εως (ἡ)</b> <font color="purple">[ῐβᾰ]</font> <i>conj. p</i>. ὑπέρβασις, POL. <i>4, 19, 8</i>.`

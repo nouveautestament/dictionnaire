@@ -1,0 +1,1 @@
+lar[95654]=`<b>συν·επιμειδιάω-ῶ</b>, sourire pour flatter <i>ou</i> approuver, PLUT. <i>M. 672e</i>.`

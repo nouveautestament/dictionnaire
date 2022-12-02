@@ -1,0 +1,1 @@
+lar[60086]=`<b>ου (τὸ)</b> frange, bordure, <i>fig. en parl. du bord de la matrice,</i> HPC. <i>656, 10</i>.`

@@ -1,0 +1,1 @@
+lar[39375]=`<b>ἐπι·τέρπω</b>, réjouir, <i>d’où au pass</i>. se réjouir de, <i>dat</i>. OD. <i>14, 228</i> ; HH. <i>Ap. 146</i> ; HÉS. <i>Th. 158</i> ; PD. <i>O. 5, 22</i> ; ἐπ. θυμόν ; HH. <i>Ap. 204,</i> se réjouir dans son cœur ; <i>avec l’inf</i>. ANTH. <i>9, 766</i>.`

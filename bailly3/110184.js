@@ -1,0 +1,1 @@
+lar[110184]=`<b>ὠκυ·πέδιλος, ος, ον</b> <font color="purple">[ῠῑ]</font> aux sandales, <i>càd</i>. aux pieds agiles, NONN. <i>D. 8, 220</i>.<p><b>Étym</b>. ὠ. πέδιλον.`

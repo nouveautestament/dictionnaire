@@ -1,0 +1,1 @@
+lar[10489]=`<b>ἀντι·ταχής, ής, ές</b> <font color="purple">[τᾰ]</font> qui s’avance rapidement contre, THÉM.<p><b>Étym</b>. ἀ. τάχος.`

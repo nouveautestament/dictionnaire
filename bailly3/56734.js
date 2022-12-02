@@ -1,0 +1,1 @@
+lar[56734]=`<b>(ἡ)</b> sorte d’écrevisse, EPICH. (ATH. <i>105b</i>).`

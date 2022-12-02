@@ -1,0 +1,1 @@
+lar[259]=`<b>Ἀγαθο·κλῆς, έους (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agathoklès (Agathocle) :<br><b>      1</b> <i>sophiste,</i> PLAT. <i>Prot. 316d.</i><br><b>      2</b> <i>tyran de Syracuse,</i> POL. <i>etc</i>.<p><b>Étym</b>. ἀγαθός, κλέος.`

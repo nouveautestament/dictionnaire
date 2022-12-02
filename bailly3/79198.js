@@ -1,0 +1,1 @@
+lar[79198]=`<b>περί·πυστος, ος, ον</b>, connu alentour, célèbre, A.RH. <i>4, 213</i> ; COL. <i>75</i> ; ANTH. <i>7, 42 ; etc</i>.<p><b>Étym</b>. π. πυνθάνομαι.`

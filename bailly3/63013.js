@@ -1,0 +1,1 @@
+lar[63013]=`<b>μαρτυρο·ποιέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> prendre à témoin, CORN. <i>16</i>.<p><b>Étym</b>. μάρτυς, ποιέω.`

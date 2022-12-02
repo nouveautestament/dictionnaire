@@ -1,0 +1,1 @@
+lar[93967]=`<b>ᾶς (ἡ)</b> action de transposer <i>ou</i> le fait d’être transposé avec, NYSS. <i>2, 236 Migne</i>.<p><b>Étym</b>. συμμεταφέρω.`

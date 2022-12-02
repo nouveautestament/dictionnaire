@@ -1,0 +1,1 @@
+lar[44152]=`<b>ἐφ·υδάτιος, α, ον</b> <font color="purple">[ῡᾰ]</font> aquatique, A.RH. <i>1, 1229 (fém. ion</i>. -ίη).<p>➳ ῡ <i>irrég. pour</i> ῠ.<p><b>Étym</b>. ἐπί, ὕδωρ.`

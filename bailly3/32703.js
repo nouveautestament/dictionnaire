@@ -1,0 +1,1 @@
+lar[32703]=`parler <i>ou</i> agir librement, PLAT. <i>Leg. 701e ;</i> ARSTT. <i>Pol. 5, 11, 13</i> ; PLUT. <i>M. 6e</i>.<p>➳ <i>Part. ao. acc. pl</i>. ἐλευθεριάξαντας, EPIM. (DL. <i>1, 113).</i><p><b>Étym</b>. ἐλεύθερος.`

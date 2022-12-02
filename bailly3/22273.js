@@ -1,0 +1,1 @@
+lar[22273]=`<b>ης, ες</b>, semblable à la plante γνάφαλον, <i>càd</i>. cotonneux, DIOSC. <i>3, 37</i> ; RUF. (ORIB. <i>2, 215 Buss.-Dar</i>.).<p><b>Étym</b>. γνάφαλον, -ωδης.`

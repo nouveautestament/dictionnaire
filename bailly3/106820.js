@@ -1,0 +1,1 @@
+lar[106820]=`<b>ου (ὁ)</b> du dème Phréarrhes, DÉM. <i>Or. 13, 84, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. Φρέαρροι.`

@@ -1,0 +1,1 @@
+lar[96303]=`<b>ή, όν</b>, qui accomplit, PTOL. <i>Harm. p. 34b ; subst</i>. ὁ σ. (<i>s.-e</i>. χρόνος) SEXT. <i>M. 10, 91,</i> le parfait, <i>p. opp. à</i> παρατατικός, <i>t. de gr</i>.<p><b>Étym</b>. συντελέω.`

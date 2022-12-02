@@ -1,0 +1,1 @@
+lar[93413]=`<b>συγ·κατορύσσω</b>, <i>att</i>. <b>-ύττω</b>, enfouir ensemble <i>ou</i> avec, <i>dat. au pass</i>. SATYR. (ATH. <i>249a</i>) ; τί τινι, PLUT. <i>Lys. 30</i> ; LUC. <i>Luct. 14,</i> qqe ch. avec qqn ; τινά τινι, PLUT. <i>M. 1113,</i> une personne avec une autre.`

@@ -1,0 +1,1 @@
+lar[103261]=`<b>ὑπο·θήγω</b>, aiguiser, <i>p. suite,</i> exciter un peu <i>ou</i> par-dessous, EL. <i>N.A. 8, 2 ; 5, 39 ; au pass</i>. EL. (SUID. <i>v°</i> ἀωρία).`

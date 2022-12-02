@@ -1,0 +1,1 @@
+lar[69321]=`<b>ιος (ἡ)</b> Nônakris :<br><b>      1</b> <i>v. du nord de l’Arcadie,</i> HDT. <i>6, 74</i>.<br><b>      2</b> <i>contrée autour de cette ville,</i> PLUT. <i>Alex. 77</i>.`

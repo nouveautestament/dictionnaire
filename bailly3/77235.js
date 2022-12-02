@@ -1,0 +1,1 @@
+lar[77235]=`<b>Πασί·θεος, ου (ὁ)</b> <font color="purple">[ᾱῐ]</font> Pasithéos, <i>Troyen,</i> Q. SM. <i>10, 86</i>.<p><b>Étym</b>. π. θεός.`

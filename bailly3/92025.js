@@ -1,0 +1,1 @@
+lar[92025]=`<b>ας (ἡ)</b> brigue pour une charge, PLUT. <i>Æmil. 38</i> ; DC. <i>52, 15</i> ; PHIL. <i>1, 290</i>.<p><b>Étym</b>. σπουδάρχης.`

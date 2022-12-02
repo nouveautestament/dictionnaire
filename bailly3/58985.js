@@ -1,0 +1,1 @@
+lar[58985]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>mot lacédém</i>. jeune homme, AR. <i>Lys. 983, 1248</i>.`

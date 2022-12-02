@@ -1,0 +1,1 @@
+lar[6190]=`<b>ἀμφικλινῶς</b> <font color="purple">[ῐν]</font> <i>adv</i>., en penchant de l’un et de l’autre côté, avec incertitude, PHIL. <i>2, 171</i>.`

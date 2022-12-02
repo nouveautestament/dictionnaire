@@ -1,0 +1,1 @@
+lar[77844]=`<b>Πέλ·οψ, οπος (ὁ)</b> Pélops (<i>litt</i>. Visage-pâle) <i>fils de Tantale, époux d’Hippodameia,</i> PD. <i>O. 1, 111, etc.</i> ; HDT. <i>7, 8, etc.</i> ; THC. <i>1, 9, etc.</i> ; SOPH. <i>El. 504, etc</i>.<p><b>Étym</b>. πελός, ὄψ².`

@@ -1,0 +1,1 @@
+lar[17597]=`<b>αὐτο·μηνί</b>, <i>adv</i>., dans le mois même, ATTIC. (EUS. <i>P.E. 796d</i>).`

@@ -1,0 +1,1 @@
+lar[75863]=`<b>ων (οἱ)</b> les Paraliens <i>ou</i> population du littoral <i>à Mèlos,</i> THC. <i>3, 92</i>.<p><b>Étym</b>. Πάραλος.`

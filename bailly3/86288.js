@@ -1,0 +1,1 @@
+lar[86288]=`<b>προσ·πάσσω</b>, répandre en saupoudrant sur, <i>dat</i>. ORIB. <i>148 Matthäi</i> ; SPT. <i>Tob. 11, 10, etc</i>.`

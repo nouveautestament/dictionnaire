@@ -1,0 +1,1 @@
+lar[101907]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠᾰ]</font> obéissance, soumission, NT. <i>Rom. 5, 19</i>.<p><b>Étym</b>. ὑπακούω.`

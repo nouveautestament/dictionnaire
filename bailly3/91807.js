@@ -1,0 +1,1 @@
+lar[91807]=`<b>ας (ἡ)</b> spirée (<i>Spiræa ulmaria</i> L.) <i>plante,</i> TH. <i>H.P. 1, 14, 2 ; 6, 1, 4</i>.`

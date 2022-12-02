@@ -1,0 +1,1 @@
+lar[50991]=`<b>καλαμο·γραφίη, ης (ἡ)</b> <font color="purple">[ᾰᾰᾰ]</font> <i>ion</i>. écriture à l’aide d’un roseau <i>ou</i> d’une plume, MAN. <i>4, 72</i>.<p><b>Étym</b>. κάλαμος, γράφω.`

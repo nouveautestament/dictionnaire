@@ -1,0 +1,1 @@
+lar[110552]=`<b>ὠτ·εγχύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> seringue pour injections dans les oreilles, GAL. κατὰ τόπ. <i>3</i>.<p><b>Étym</b>. οὖς, ἐγχέω.`

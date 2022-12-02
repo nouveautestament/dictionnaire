@@ -1,0 +1,1 @@
+lar[50077]=`<b>ἰχθυ·παγής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui fixe solidement (<i>càd</i>. qui harponne) le poisson, ANTH. <i>6, 27</i>.<p><b>Étym</b>. ἰ. πήγνυμι.`

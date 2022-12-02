@@ -1,0 +1,1 @@
+lar[99309]=`<b>α, ον</b> <font color="purple">[τῑ]</font> de Tirynthe, PD. <i>O. 11, 31</i> ; SOPH. <i>Tr. 270</i> ; EUR. <i>Alc. 481, etc.</i> ; ἡ Τιρυνθίη χώρη, HDT. <i>6, 76,</i> le territoire de Tirynthe ; οἱ Τιρύνθιοι, PD. <i>I. 5, 28, etc.</i> ; HDT. <i>9, 86, etc.,</i> les Tirynthiens.<p><b>Étym</b>. Τίρυνς.`

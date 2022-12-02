@@ -1,0 +1,1 @@
+lar[6763]=`<b>ἀναζωγράφησις, εως (ἡ)</b> <font color="purple">[ᾰφ]</font> reproduction par la peinture, CHRYSIPP. (DL. <i>7, 201</i>).`

@@ -1,0 +1,1 @@
+lar[9952]=`<b>ἀντι·κατολισθαίνω</b>, glisser en arrière, P. ÉG. <i>276 Briau</i>.`

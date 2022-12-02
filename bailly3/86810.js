@@ -1,0 +1,1 @@
+lar[86810]=`<b>προ·τρέφω</b>, nourrir auparavant, A. TR. <i>8, 464</i>.`

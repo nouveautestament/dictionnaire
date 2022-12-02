@@ -1,0 +1,1 @@
+lar[88771]=`<b>ῥοΐτης οἶνος (ὁ)</b> vin de grenade, DIOSC. <i>5, 34</i>.<p><b>Étym</b>. ῥοιά.`

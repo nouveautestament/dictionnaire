@@ -1,0 +1,1 @@
+lar[49551]=`<b>ων (τὰ)</b> <font color="purple">[ῑ]</font> les fêtes d’Isis, DS. <i>1, 14, 87</i>.<p><b>Étym</b>. Ἶσις.`

@@ -1,0 +1,1 @@
+lar[60914]=`<b>ου (ὁ, ἡ)</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> ὁ λ. arbre à encens, HDT. <i>4, 75</i> ; SOPH. <i>fr. 906</i> ; TH. <i>H.P. 9, 4, 3</i> ; DIOSC. <i>1, 83</i>.<br><b>      2</b> encens, résine odorante, ANTH. <i>6, 231, etc. ; en ce sens, qqf. fém</i>. PD. <i>fr. 87, 2</i> ; EUR. <i>Bacch. 144</i> ; NIC. <i>Th. 107</i>.`

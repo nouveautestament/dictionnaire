@@ -1,0 +1,1 @@
+lar[67044]=`<b>μυθό·λατρις, ιος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> adorateur du Verbe, <i>càd</i>. du Christ, NAZ.<p><b>Étym</b>. μ. λάτρις.`

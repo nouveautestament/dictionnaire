@@ -1,0 +1,1 @@
+lar[68052]=`<b>νεκυο·σσόος, ος, ον</b>, qui ressuscite les morts, NONN. <i>Jo. 5, 25, etc</i>.<p><b>Étym</b>. νέκυς, σεύω.`

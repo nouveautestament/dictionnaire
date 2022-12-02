@@ -1,0 +1,1 @@
+lar[74140]=`<b>παγ·κράτιστος, η, ον</b> <font color="purple">[ᾰτ]</font> tout à fait supérieur, P. SIL. <i>Ecphr. ag. Soph. 22</i>.<p><b>Étym</b>. π. κράτιστος.`

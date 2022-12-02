@@ -1,0 +1,1 @@
+lar[21123]=`<b>ου (ὁ)</b> = <i>lat</i>. Gabinius, <i>n. d’une</i> gens <i>plébéienne, à Rome,</i> PLUT. <i>Cato mi. 33</i> ; DC. <i>etc</i>.`

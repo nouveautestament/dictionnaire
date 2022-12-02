@@ -1,0 +1,1 @@
+lar[100506]=`<b>ας (ἡ)</b> <font color="purple">[στῐ]</font><br><b>      1</b> triple rangée, GAL. <i>14, 771</i>.<br><b>      2</b> réunion de trois vers, GRAMM. (SCH.-AR. <i>Ran. 324).</i><p><b>Étym</b>. τρίστιχος.`

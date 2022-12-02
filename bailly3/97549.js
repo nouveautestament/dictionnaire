@@ -1,0 +1,1 @@
+lar[97549]=`<b>τανύ·κραιρος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> aux longues cornes, OPP. <i>C. 1, 191</i> ; ANTH. <i>6, 74</i>.<br><b>      2</b> <i>p. anal</i>. à la haute cime, NONN.<p><b>Étym</b>. τανυ-, κραῖρα.`

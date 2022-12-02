@@ -1,0 +1,1 @@
+lar[105858]=`<b>φιλό·κρατον, ου (τὸ)</b> <font color="purple">[ῐ]</font> sorte de médicament, GAL. <i>14, 161</i>.`

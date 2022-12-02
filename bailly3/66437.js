@@ -1,0 +1,1 @@
+lar[66437]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Molyros, <i>h</i>. HÉS. (PAUS. <i>9, 36, 7</i>).`

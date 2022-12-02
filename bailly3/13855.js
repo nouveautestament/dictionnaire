@@ -1,0 +1,1 @@
+lar[13855]=`<b>ἀπο·ψωλέω-ῶ</b> (<i>part. pf. pass</i>. ἀπεψωλημένος) retrousser le prépuce, AR. <i>Ach. 16, etc</i>.<p><b>Étym</b>. ἀ. ψωλός.`

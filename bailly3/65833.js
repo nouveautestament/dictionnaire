@@ -1,0 +1,1 @@
+lar[65833]=`<b>μίμ·αυλος, ου (ὁ)</b> <font color="purple">[ῑ]</font> acteur de pantomimes, <i>p.-ê</i>. qui joue des pantomimes au son de la flûte, ATH. <i>452f</i>.<p><b>Étym</b>. μῖμος, αὐλός.`

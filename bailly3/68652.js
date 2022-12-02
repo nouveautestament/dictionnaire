@@ -1,0 +1,1 @@
+lar[68652]=`<b>ας (ἡ) :<br>      1</b> jeûne, HPC. <i>Aph. 1243, etc. ; au plur</i>. HDT. <i>4, 186</i> ; νηστείας ὄζειν, ARSTT. <i>Probl. 13, 7,</i> avoir une odeur de jeûne.<br><b>      2</b> jour de jeûne, <i>particul. à Athènes, le 3<sup>e</sup> jour des Thesmophories, 16<sup>e</sup> du mois Pyanepsiôn,</i> ATH. <i>307f ;</i> ALCIPHR. <i>3, 39</i>.<p><b>Étym</b>. νηστεύω.`

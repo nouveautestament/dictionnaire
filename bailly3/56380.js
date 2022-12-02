@@ -1,0 +1,1 @@
+lar[56380]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> coquillage d’où l’on tire la pourpre, PHIL. <i>1, 536 ; fig</i>. ANTH. <i>9, 214</i>.<p><b>Étym</b>. κόγχη.`

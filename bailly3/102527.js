@@ -1,0 +1,1 @@
+lar[102527]=`<b>ὑπερ·θεραπεύω</b> <font color="purple">[ᾰ]</font> combler de soins, de prévenances, HLD. <i>1, 9</i>.`

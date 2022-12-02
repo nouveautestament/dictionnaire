@@ -1,0 +1,1 @@
+lar[39153]=`<b>ος</b> <i>ou</i> <b>α, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui se fait par lettre, par correspondance, PHILSTR. <i>187</i>.<br><b>      2</b> promis par une lettre, <i>càd</i>. qui n’existe que sur le papier, DÉM. <i>45, 12</i>.<p><b>Étym</b>. ἐπιστολή.`

@@ -1,0 +1,1 @@
+lar[43277]=`<b>εὐρύ·κερως</b>, <i>gén</i>. <b>ωτος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> aux larges cornes, OPP. <i>C. 2, 293</i>.<p><b>Étym</b>. εὐ. κέρας.`

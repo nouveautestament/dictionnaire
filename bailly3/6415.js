@@ -1,0 +1,1 @@
+lar[6415]=`<b>ἀμφί·τυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui frappe des deux côtés, Q. SM. <i>1, 159</i>.<p><b>Étym</b>. ἀ. τύπτω.`

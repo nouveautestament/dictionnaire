@@ -1,0 +1,1 @@
+lar[64635]=`<b>μεστόω-ῶ</b>, remplir : τινος, ARSTT. <i>H.A. 9, 37, etc</i>. de qqe ch. ; <i>fig</i>. SOPH. <i>Ant. 280 ; au pass</i>. être rempli de, être plein de, SOPH. <i>El. 713</i> ; PLAT. <i>Leg. 649b, 713c, etc</i>.<p><b>Étym</b>. μεστός.`

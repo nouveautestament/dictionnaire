@@ -1,0 +1,1 @@
+lar[84862]=`<b>προ·ορούω</b>, s’élancer au-devant de, devancer vivement, <i>gén</i>. THÉM. <i>7c</i>.`

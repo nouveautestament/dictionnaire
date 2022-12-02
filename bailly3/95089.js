@@ -1,0 +1,1 @@
+lar[95089]=`<b>συν·διαγράφω</b> <font color="purple">[ᾰφ]</font> effacer ensemble, NYSS.`

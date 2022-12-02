@@ -1,0 +1,1 @@
+lar[12216]=`<b>ἀπο·γυμνάζω</b>, exercer, ESCHL. <i>Sept. 441</i> ; ARSTT. <i>H.A. 9, 40, 12</i>.`

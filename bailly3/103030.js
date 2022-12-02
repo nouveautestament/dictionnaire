@@ -1,0 +1,1 @@
+lar[103030]=`<b>ὑπό·βλαισος, ος, ον</b>, un peu tortu <i>ou</i> cagneux, ARSTT. <i>Inc. an. 16, 1</i>.<p><b>Étym</b>. ὑ. βλαισός.`

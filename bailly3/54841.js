@@ -1,0 +1,1 @@
+lar[54841]=`<b>οῦ (ὁ)</b> action de mélanger, CORN. <i>5</i>.<p><b>Étym</b>. κεράννυμι.`

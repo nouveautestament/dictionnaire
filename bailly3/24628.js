@@ -1,0 +1,1 @@
+lar[24628]=`<b>δι·άημι</b>, souffler à travers, <i>en parl. du vent,</i> OD. <i>5, 478 ; 19, 440 ; avec l’acc</i>. HÉS. <i>O. 517 ; avec le gén</i>. HÉS. <i>O. 514</i>.<p>➳ <i>Act. prés. ind. 3 sg</i>. διάησι, HÉS. <i>ll. cc. Impf. 3 sg</i>. διάει (<i>c</i>. de *διαέω) OD. <i>ll. cc</i>.`

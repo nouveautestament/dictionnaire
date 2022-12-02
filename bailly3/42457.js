@@ -1,0 +1,1 @@
+lar[42457]=`<b>ἐϋ·κνήμις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> dont les roues ont de beaux rayons, NONN. <i>D. 7, 140</i>.<p><b>Étym</b>. εὖ, κνήμη.`

@@ -1,0 +1,1 @@
+lar[89166]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλᾰ]</font> salamandre, <i>sorte de grand lézard,</i> ARSTT. <i>H.A. 5, 19, 25</i> ; TH. <i>Ign. 60 ; Sign. 15</i> ; EL. <i>N.A. 2, 31</i> ; DIOSC. <i>2, 67, 77, etc</i>.`

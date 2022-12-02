@@ -1,0 +1,1 @@
+lar[33184]=`<b>ἐμ·βύω</b>, bourrer, <i>d’où</i> boucher avec, <i>dat</i>. AR. <i>Vesp. 128</i>.<p><b>Étym</b>. ἐν, β.`

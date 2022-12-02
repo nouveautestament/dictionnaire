@@ -1,0 +1,1 @@
+lar[19405]=`<i>adv</i>., de la maison, CLÉON (<i>Bgk p. 522).</i><p><b>Étym</b>. βαυρία, -θεν.`

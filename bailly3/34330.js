@@ -1,0 +1,1 @@
+lar[34330]=`<b>ἐνενηκοντά·πηχυς</b>, <i>gén</i>. <b>εος (ὁ, ἡ)</b> de quatre-vingt-dix coudées, ATH. <i>201e</i>.<p><b>Étym</b>. ἐ. πῆχυς.`

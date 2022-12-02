@@ -1,0 +1,1 @@
+lar[6320]=`<b>ἀμφι·πλήξ, ῆγος (ὁ, ἡ)</b> qui frappe des deux côtés, SOPH. <i>Tr. 930 ; fig</i>. SOPH. <i>O.R. 417</i>.<p><b>Étym</b>. ἀ. πλήσσω.`

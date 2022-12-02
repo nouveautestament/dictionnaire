@@ -1,0 +1,1 @@
+lar[94174]=`<b>συμ·περάω-ῶ</b>, fermer, PLOT. <i>de Pulchr. p. 134 Creuz</i>.`

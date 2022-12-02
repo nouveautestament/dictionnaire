@@ -1,0 +1,1 @@
+lar[60474]=`<b>α, ον</b>, de Lerne, PD. <i>O. 7, 33</i> ; EUR. <i>Ph. 126, etc.</i> ; ὕδρη Λερναίη (<i>ion</i>.) HÉS. <i>Th. 314</i> ; Λερναία ὕδρα, SOPH. <i>Tr. 574 ; 1094, etc</i>. l’hydre de Lerne ; <i>subst</i>. τὰ Λερναῖα, PAUS. <i>2, 36, 7 ; 8, 15, 9,</i> les fêtes de Lerne <i>à Corinthe ou à Argos</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Ion 191</i>.<p><b>Étym</b>. Λέρνα, Λέρνη.`

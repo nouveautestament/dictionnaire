@@ -1,0 +1,1 @@
+lar[105140]=`<b>ου (ὁ)</b> Pherendatès, <i>chef perse,</i> HDT. <i>7, 67</i>.`

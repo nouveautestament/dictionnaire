@@ -1,0 +1,1 @@
+lar[7066]=`<b>εως (ἡ)</b> splendeur, éclat, PLUT. <i>M. 419f</i>.<p><b>Étym</b>. ἀναλάμπω.`

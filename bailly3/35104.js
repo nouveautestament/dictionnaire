@@ -1,0 +1,1 @@
+lar[35104]=`<b>ἔν·τοπος, ος, ον :<br>      1</b> qui se trouve dans le même lieu, SOPH. <i>Ph. 212, 1171, etc.</i> ; PLAT. <i>Leg. 848d.</i><br><b>      2</b> propre à un lieu, à un pays, local, indigène, SOPH. <i>O.C. 1457</i> ; NAUSICR. (ATH. <i>325e</i>).<p><b>Étym</b>. ἐν, τόπος.`

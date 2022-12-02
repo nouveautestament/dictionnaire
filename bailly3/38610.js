@@ -1,0 +1,1 @@
+lar[38610]=`<b>ἐπι·παιανίζω</b> <font color="purple">[ᾱ]</font> chanter un péan sur, DS. <i>5, 29</i> ; PLUT. <i>Marc. 22</i>.`

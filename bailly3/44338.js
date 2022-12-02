@@ -1,0 +1,1 @@
+lar[44338]=`laisser vieillir <i>ou</i> laisser se faisander, <i>en parl. de viande,</i> GAL. <i>6, 321 ; 8, 782</i>.<p><b>Étym</b>. ἔωλος.`

@@ -1,0 +1,1 @@
+lar[49338]=`<b>ἱππό·καμπος, ου (ὁ) :<br>      1</b> monstre marin fantastique avec un corps de cheval et une queue recourbée de poisson, STR. <i>384</i> ; PHILSTR. <i>774</i>.<br><b>      2</b> cheval marin <i>ou</i> hippocampe, <i>petit poisson de mer,</i> EL. <i>N.A. 14, 20</i> ; DIOSC. <i>2, 3</i>.<p><b>Étym</b>. ἵ. κάμπη 2.`

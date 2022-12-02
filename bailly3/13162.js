@@ -1,0 +1,1 @@
+lar[13162]=`avoir vue sur, <i>avec</i> εἰς <i>et l’acc</i>. JOS. <i>A.J. 15, 9, 6</i>.<p><b>Étym</b>. ἄποπτος.`

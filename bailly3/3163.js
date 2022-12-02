@@ -1,0 +1,1 @@
+lar[3163]=`<b>Ἀ·κάστη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Akastè, <i>Océanide,</i> HH. <i>Cer. 421</i> ; HÉS. <i>Th. 356</i>.<p><b>Étym</b>. <i>fém. de</i> Ἄκαστος.`

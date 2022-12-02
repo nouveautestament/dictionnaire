@@ -1,0 +1,1 @@
+lar[9900]=`<b>ἀντί·θρονος, ος, ον</b>, qui siège en face de, en opposition à, NAZ. <i>1, 1089 ; 3, 417 Migne</i>.<p><b>Étym</b>. ἀ. θρόνος.`

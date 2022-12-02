@@ -1,0 +1,1 @@
+lar[26214]=`<b>δι·εξελέγχω</b> (<i>seul. prés</i>.) réfuter complètement, GAL. <i>3, 187d ;</i> LUC. <i>Alex. 61</i> ; THÉM. <i>259b</i>.`

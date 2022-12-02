@@ -1,0 +1,1 @@
+lar[34174]=`<b>ἐν·διαλύω</b>, dissoudre dans, SOR. <i>Obst. p. 248 Erm</i>.`

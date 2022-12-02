@@ -1,0 +1,1 @@
+lar[23760]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Dĕcurio, Décurion, <i>h</i>. ANTH. <i>4, 3, titre</i>.`

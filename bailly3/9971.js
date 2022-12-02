@@ -1,0 +1,1 @@
+lar[9971]=`<b>ἀντι·κλίνω</b> <font color="purple">[ῑν]</font> faire pencher en sens contraire, MUS. <i>107</i>.`

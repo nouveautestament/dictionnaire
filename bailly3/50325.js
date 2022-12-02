@@ -1,0 +1,1 @@
+lar[50325]=`<b>καθ·εῖς</b>, SPT. <i>3Macc. 5, 24, ou</i> εἷς καθεῖς, NT. <i>Marc. 14, 19, etc</i>. un par un, l’un après l’autre, chacun.<p><b>Étym</b>. <i>p</i>. καθ' ἕνα <i>de</i> κατά, εἷς, <i>p.-ê. par analogie avec</i> οὐδείς <i>et</i> μηδείς.`

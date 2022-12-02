@@ -1,0 +1,1 @@
+lar[51881]=`<b>καρπο·γόνος, ος, ον</b>, qui produit des fruits, fertile, DIOSC. <i>5, 159</i>.<p><b>Étym</b>. κ. γίγνομαι.`

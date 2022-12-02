@@ -1,0 +1,1 @@
+lar[90725]=`<b>*σκελετεία</b>, <i>seul. ion</i>. <b>σκελετίη, ης (ἡ)</b> dessèchement, GAL. <i>2, 102</i> ; ARÉT. <i>Cur. m. diut. 2, 13</i>.<p><b>Étym</b>. σκελετός.`

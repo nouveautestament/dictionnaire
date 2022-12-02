@@ -1,0 +1,1 @@
+lar[53564]=`<b>κατα·τολμάω-ῶ :<br>      1</b> s’enhardir contre, affronter hardiment, <i>gén</i>. POL. <i>3, 103, 5, etc.</i> ; DS. <i>3, 3</i>.<br><b>      2</b> oser, entreprendre résolument : τι, HLD. <i>7, 24,</i> qqe ch. ; <i>avec l’inf</i>. SPT. <i>2Macc. 3, 24, etc</i>.`

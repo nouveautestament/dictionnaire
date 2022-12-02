@@ -1,0 +1,1 @@
+lar[107030]=`<b>ου (τὸ)</b> sorte de tumeur à l’aine, GAL. <i>ad Glauc. 11, 72</i>.<p><b>Étym</b>. <i>p.-ê. par dissimil. p</i>. *φλύγεθλον, <i>cf</i>. φλύκταινα, φλύω.`

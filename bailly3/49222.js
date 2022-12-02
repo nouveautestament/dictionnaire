@@ -1,0 +1,1 @@
+lar[49222]=`<b>ου (ὁ)</b> <font color="purple">[ᾰιᾱ]</font> habile cavalier (<i>cf</i>. δραπετίδας <i>de</i> δραπέτης) ; <i>sel. d’autres,</i> fils d’Hippalos, <i>ép. de Castor,</i> THCR. <i>Idyl. 24, 127</i>.<p><b>Étym</b>. ἵππος.`

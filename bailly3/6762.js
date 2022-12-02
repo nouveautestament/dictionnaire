@@ -1,0 +1,1 @@
+lar[6762]=`<b>ἀνα·ζωγραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> reproduire par la peinture, STR. <i>354</i> ; ARR. <i>Epict. 2, 18, 16, etc</i>.`

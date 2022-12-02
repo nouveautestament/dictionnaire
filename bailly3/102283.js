@@ -1,0 +1,1 @@
+lar[102283]=`<b>ὑπερ·απατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> tromper complètement, ANTH. <i>9, 761</i>.`

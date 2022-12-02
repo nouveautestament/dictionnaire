@@ -1,0 +1,1 @@
+lar[103372]=`<b>ὑποκλαδόν</b>, <i>adv</i>., en pliant les genoux, OPP. <i>C. 4, 205</i>.<p><b>Étym</b>. ὑποκλάζω, -δον.`

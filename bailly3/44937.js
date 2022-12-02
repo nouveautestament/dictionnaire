@@ -1,0 +1,1 @@
+lar[44937]=`<b>ορος (ὁ) :<br>      1</b> conducteur, guide, HH. <i>Merc. 14</i>.<br><b>      2</b> chef, commandant, IL. <i>2, 79 ; 3, 153, etc. ; ép. de Zeus, chez les Lacédémoniens,</i> XÉN. <i>Lac. 13, 2 ; d’Apollon,</i> EUR. <i>Med. 426</i>.<p>➳ <i>Dor</i>. ἁγήτωρ <font color="purple">[ᾱ]</font> XÉN. EUR. <i>ll. cc</i>.<p><b>Étym</b>. ἡγέομαι.`

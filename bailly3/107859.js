@@ -1,0 +1,1 @@
+lar[107859]=`<b>ου</b> <font color="purple">[ᾰᾰᾱ]</font> <i>adj. m.</i> :<br><b>      1</b> propre à faire des pieux, <i>en parl. d’un roseau très fort,</i> TH. <i>H.P. 4, 11, 1</i>.<br><b>      2</b> <i>subst</i>. ὁ χ. sorte d’euphorbe, <i>vulg</i>. le tithymalle des haies (<i>Euphorbia characias</i> L.) DIOSC. <i>4, 165</i>.<p><b>Étym</b>. χάραξ.`

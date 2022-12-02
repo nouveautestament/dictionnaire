@@ -1,0 +1,1 @@
+lar[16671]=`<b>ἀταλό·ψυχος, ος, ον</b> <font color="purple">[ᾰᾰῡ]</font> à l’âme douce <i>ou</i> faible, ANTH. <i>5, 297</i>.<p><b>Étym</b>. ἀταλός, ψυχή.`

@@ -1,0 +1,1 @@
+lar[40514]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font> Éristobareia, <i>v. de l’Inde,</i> NONN. <i>D. 26, 338</i>.`

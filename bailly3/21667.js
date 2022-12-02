@@ -1,0 +1,1 @@
+lar[21667]=`<b>γενειο·συλλεκτάδαι, ῶν (οἱ)</b> qui laissent croître (<i>litt</i>. qui rassemblent) leur barbe, <i>ép. des Cyniques,</i> ATH. <i>157b ; pour la formation, cf</i>. ῥακιοσυρραπτάδης.<p><b>Étym</b>. γένειον, συλλέγω.`

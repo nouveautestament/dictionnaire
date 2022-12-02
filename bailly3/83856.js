@@ -1,0 +1,1 @@
+lar[83856]=`<b>προ·γηθέω-ῶ</b>, se réjouir d’avance, PHIL. <i>1, 602</i>.`

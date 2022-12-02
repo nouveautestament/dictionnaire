@@ -1,0 +1,1 @@
+lar[22475]=`<b>ου (ὁ)</b> Gorgias :<br><b>      1</b> <i>rhéteur célèbre,</i> XÉN. <i>An. 2, 6, 16, etc.</i> ; AR. <i>Vesp. 421 etc. ; son nom sert de titre à un dialogue de Platon</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Dem. 55</i> ; LUC. ATH. <i>etc</i>.<p>➳ <i>Voc</i>. Γοργία, PLUT. <i>Sept. sap. conv. 17</i>.`

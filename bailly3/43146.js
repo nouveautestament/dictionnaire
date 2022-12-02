@@ -1,0 +1,1 @@
+lar[43146]=`<b>εὔ·πυργος, ος, ον</b>, aux belles <i>ou</i> fortes tours, IL. <i>7, 71</i> ; HÉS. <i>Sc. 270</i>.<p>➳ <i>Poét</i>. ἠΰπυργος, PD. <i>N. 4, 12</i>.<p><b>Étym</b>. εὖ, πύργος.`

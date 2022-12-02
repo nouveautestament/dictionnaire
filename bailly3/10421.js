@@ -1,0 +1,1 @@
+lar[10421]=`<b>ἀντιστατέω-ῶ</b> <font color="purple">[τᾰ]</font> résister, s’opposer à, <i>dat</i>. PLAT. <i>Gorg. 513c ; avec</i> πρός <i>et l’acc</i>. PLUT. <i>M. 802b ; abs</i>. HDT. <i>3, 62</i>.<p><b>Étym</b>. ἀντιστάτης.`

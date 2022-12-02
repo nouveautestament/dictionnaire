@@ -1,0 +1,1 @@
+lar[61355]=`<b>λιποσαρκέω-ῶ</b> <font color="purple">[ῐ]</font> être décharné, maigre, TH. <i>H.P. 8, 10</i>.<p><b>Étym</b>. λιπόσαρκος.`

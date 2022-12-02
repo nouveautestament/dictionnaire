@@ -1,0 +1,1 @@
+lar[27713]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> servitude, OD. <i>22, 423</i> ; HDT. <i>1, 129</i> ; OPP. <i>C. 3, 257</i>.<p>➳ <i>Dor</i>. -ύνα, PD. <i>P. 12, 27</i> ; ESCHL. <i>Sept. 112</i> ; EUR. <i>Ph. 200,</i> ANDR. <i>110. Les pros. att. emploient</i> δουλεία.<p><b>Étym</b>. δοῦλος.`

@@ -1,0 +1,1 @@
+lar[42819]=`<b>εὐ·ξήραντος, ος, ον</b>, qui sèche facilement, ARSTT. <i>Longæv. 5 ; G.A. 5, 3, 11</i> ; TH. <i>C.P. 1, 2, 4</i>.<p><b>Étym</b>. εὖ, ξηραίνω.`

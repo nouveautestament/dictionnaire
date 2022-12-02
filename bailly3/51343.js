@@ -1,0 +1,1 @@
+lar[51343]=`<b>ης, ες</b> <font color="purple">[ᾰῠ]</font> qui ressemble à un calice, à un bouton de fleur, TH. <i>H.P. 3, 10, 4</i>.<p><b>Étym</b>. κάλυξ, -ωδης.`

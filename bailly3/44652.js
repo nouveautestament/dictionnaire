@@ -1,0 +1,1 @@
+lar[44652]=`<b>ζυγ·ωθρίζω</b> <font color="purple">[ῠ]</font> peser, <i>ou, sel. d’autres</i>, mettre sous les verrous, enfermer, AR. <i>Nub. 745</i>.<p><b>Étym</b>. ζυγόν, ὠθέω.`

@@ -1,0 +1,1 @@
+lar[32937]=`<b>ηνος (ὁ)</b> Hellène, <i>fils de Deucalion, regardé comme le père des Hellènes,</i> HÉS. <i>fr. 28, 1 Gaisford</i> ; THC. <i>1, 3, etc</i>.`

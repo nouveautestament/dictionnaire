@@ -1,0 +1,1 @@
+lar[31099]=`<b>ος, ον :<br>      1</b> rejeté, LYC. <i>1079</i>.<br><b>      2</b> qui doit être rejeté, mis au rebut ; <i>seul. cp</i>. -ότερος, HÉRACLITE ÉPH. <i>fr. 96</i> (STR. <i>784</i>) ; PHIL. <i>1, 477</i>.<p><b>Étym</b>. ἐκβάλλω.`

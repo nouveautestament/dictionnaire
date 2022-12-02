@@ -1,0 +1,1 @@
+lar[25979]=`<b>διγαμία, ας (ἡ)</b> <font color="purple">[ῐγᾰ]</font> second mariage, BAS. <i>4, 673a Migne</i> ; NAZ. <i>292b Migne</i>.<p><b>Étym</b>. δίγαμος.`

@@ -1,0 +1,1 @@
+lar[44437]=`<b>ᾶς (ἡ) :<br>      1</b> sorte de blé, épeautre, <i>pour les chevaux ; seul. pl</i>. OD. <i>4, 41, etc.</i> ; HDT. <i>2, 36</i> ; XÉN. <i>An. 5, 4, 27</i> ; TH. <i>H.P. 8, 1, 3, etc.</i><br><b>      2</b> pli au palais des chevaux, HIÉROCL. (HIPPIATR.).<p><b>Étym</b>. <i>indo-europ</i>. *ieuh₁-, blé, épeautre ; <i>cf. sscr</i>. yáva-.`

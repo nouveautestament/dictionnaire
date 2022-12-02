@@ -1,0 +1,1 @@
+lar[61298]=`<font color="purple">[ῑᾰ]</font> <i>adv</i>., avec ténacité <i>ou</i> persévérance : λ. παρακαλεῖν θεούς, PLAT. <i>Leg. 931c</i>, invoquer les dieux avec persévérance ; λ. ἔχειν, souhaiter vivement de, <i>avec l’inf</i>. PLAT. <i>Prot. 315e, ou</i> témoigner un désir importun que, <i>avec une prop. inf</i>. PLAT. <i>Prot. 335b</i>.<p><b>Étym</b>. λιπαρής.`

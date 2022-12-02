@@ -1,0 +1,1 @@
+lar[24668]=`<b>δια·θρυμματίς, ίδος (ἡ)</b> <font color="purple">[μᾰ]</font> sorte de gâteau, ANTIPH. (ATH. <i>661f</i>) ; <i>cf</i>. θρυμματίς.`

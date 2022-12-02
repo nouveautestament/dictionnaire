@@ -1,0 +1,1 @@
+lar[28174]=`<font color="purple">[ῠᾰᾰ]</font> <i>adv</i>., δ. ἔχειν, RUF. (ORIB. <i>2, 276 B.-Dar</i>.) être difficile à remettre dans son premier état.`

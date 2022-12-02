@@ -1,0 +1,1 @@
+lar[49078]=`<b>ου (τὸ)</b> feuille de l’atractylis, GAL. <i>Lex. Hipp. 19, 106</i>.<p><b>Étym</b>. ἰξία.`

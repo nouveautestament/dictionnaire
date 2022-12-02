@@ -1,0 +1,1 @@
+lar[101291]=`<b>ης (ἡ) :<br>      1</b> hyène, <i>bête féroce de Libye,</i> HDT. <i>4, 192</i> ; ARSTT. <i>H.A. 6, 32, etc.</i><br><b>      2</b> sorte de sole, <i>poisson,</i> NUMÉN. (ATH. <i>326f</i>) ; EL. <i>N.A. 13, 27</i>.<br><b>      3</b> <i>au pl</i>. femmes consacrées au culte de Mithra, PORPH. <i>Abst. 4, 16</i>.<p><b>Étym</b>. ὗς.`

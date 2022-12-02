@@ -1,0 +1,1 @@
+lar[10744]=`<b>ἀν·υπήκοος, ος, ον</b>, qui n’obéit pas, indocile à, <i>gén</i>. PLAT. <i>Tim. 73a, 91b</i>.<p><b>Étym</b>. ἀν-, ὑ.`

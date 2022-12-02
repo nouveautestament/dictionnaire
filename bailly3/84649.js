@@ -1,0 +1,1 @@
+lar[84649]=`<b>προ·λεύσσω</b> (<i>seul. prés</i>.) prévoir, <i>acc</i>. SOPH. <i>Ph. 1360</i>.`

@@ -1,0 +1,1 @@
+lar[55593]=`<b>κισηρο·ειδής</b>, <i>mieux que</i> <b>κισσηρο·ειδής, ής, ές</b>, qui ressemble à la pierre ponce, TH. <i>H.P. 3, 7, 5</i> ; PLUT. <i>M. 890c</i>.<p><b>Étym</b>. κίσηρις, εἶδος.`

@@ -1,0 +1,1 @@
+lar[29593]=`<b>ἐγ·κατείργω</b>, arrêter, empêcher, ARÉT. <i>Caus. m. acut. 1, 5 (part. ao</i>. -κατειρχθέν, <i>changé à tort en</i> -καθειρχθέν).<p><b>Étym</b>. ἐν, κ. ; <i>v</i>. ἐγκαθείργω.`

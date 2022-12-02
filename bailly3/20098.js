@@ -1,0 +1,1 @@
+lar[20098]=`<b>ου (τὸ)</b> <font color="purple">[ῑδ]</font> petit Béotien, <i>dim. comiq. de</i> βοιωτός, AR. <i>Ach. 872</i>.`

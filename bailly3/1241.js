@@ -1,0 +1,1 @@
+lar[1241]=`<b>ἀδελφο·ποιέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> adopter comme frère <i>ou</i> comme sœur, CHRYS.`

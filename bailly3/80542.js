@@ -1,0 +1,1 @@
+lar[80542]=`<font color="purple">[ῐῠ]</font><br><b>      1 <i>intr.</i></b> battre l’air de ses mains, GAL. <i>San. tuend. 2, 10</i>.<br><b>      2 <i>tr.</i></b> verser avec bruit, <i>acc</i>. HPC.<p><b>Étym</b>. πίτυλος.`

@@ -1,0 +1,1 @@
+lar[18939]=`<b>βαλανη·φάγος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> qui se nourrit de glands, ORACL. (HDT. <i>1, 66</i>) ; PLUT. <i>Cor. 3</i> ; NONN.<p><b>Étym</b>. βάλανος, φαγεῖν.`

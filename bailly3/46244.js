@@ -1,0 +1,1 @@
+lar[46244]=`<b>θαλύσιος ἄρτος (ὁ)</b> <font color="purple">[ᾰῡ]</font> pain fait avec les prémices de la récolte et offert à Dèmèter, ATH. <i>114a</i>.<p><b>Étym</b>. θάλλω.`

@@ -1,0 +1,1 @@
+lar[59918]=`<b>λασιό·κνημος, ος, ον</b> <font color="purple">[ᾰ]</font> aux cuisses velues, OPP. <i>C. 2, 186</i>.<p><b>Étym</b>. λ. κνήμη.`

@@ -1,0 +1,1 @@
+lar[66176]=`<b>ατος (τὸ) :<br>      1</b> le fait de se souvenir, ARSTT. <i>Mem. 1</i>.<br><b>      2</b> ce dont on garde le souvenir, ce à quoi l’on songe, ARSTT. <i>Rhet. 1, 3, 13</i> ; PLUT. <i>M. 786e ;</i> LUC. <i>Salt. 44</i>.<p><b>Étym</b>. μνημονεύω.`

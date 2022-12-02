@@ -1,0 +1,1 @@
+lar[14806]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> graine de genièvre, HPC. <i>572, 36, etc.</i> ; PLUT. <i>M. 383e</i>.`

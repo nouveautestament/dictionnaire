@@ -1,0 +1,1 @@
+lar[74155]=`<b>πάγ·ουρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>proprement</i> à queue résistante, <i>particul.</i> :<br><b>      1</b> crabe, AR. <i>Eq. 606</i> ; ARSTT. <i>H.A. 4, 2, 3</i>.<br><b>      2</b> le phénix, LYC. <i>419</i>.<p><b>Étym</b>. πάγος, οὐρά.`

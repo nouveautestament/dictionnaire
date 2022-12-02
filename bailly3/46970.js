@@ -1,0 +1,1 @@
+lar[46970]=`<b>θερμο·τραγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger des lupins, LUC. <i>Lex. 5</i>.<p><b>Étym</b>. θέρμος, τρώγω.`

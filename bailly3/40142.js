@@ -1,0 +1,1 @@
+lar[40142]=`<b>ἐρασι·χρήματος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui aime passionnément l’argent, XÉN. <i>Mem. 1, 2, 5</i> ; PHILSTR. <i>621</i>.<p><b>Étym</b>. ἐράω, χρῆμα.`

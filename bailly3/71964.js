@@ -1,0 +1,1 @@
+lar[71964]=`<b>ὀνομα·κλήτωρ, ορος (ὁ)</b> serviteur chargé de nommer à son maître les passants <i>ou</i> les citoyens <i>en gén., à Rome,</i> nomenclator, LUC. <i>M. cond. 10</i> ; ATH. <i>47e</i>.<p><b>Étym</b>. ὄν. καλέω.`

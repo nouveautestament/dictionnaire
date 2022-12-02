@@ -1,0 +1,1 @@
+lar[58442]=`<b>η, ον</b> <font color="purple">[ῡῐ]</font> illustre, glorieux, HH. <i>Merc. 404, etc</i>.<p><b>Étym</b>. κῦδος.`

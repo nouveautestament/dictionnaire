@@ -1,0 +1,1 @@
+lar[97220]=`<i>adv</i>., selon la nature du sorite, SEXT. <i>M. 9, 182</i>.`

@@ -1,0 +1,1 @@
+lar[47581]=`<b>Θρασυ·κλῆς, έους (ὁ)</b> <font color="purple">[ᾰ]</font> Thrasyklès, <i>h</i>. THC. <i>5, 19</i> ; LUC. <i>D. mort. 11, 2</i> ; TIMON <i>54</i>.<p><b>Étym</b>. θρ. κλέος.`

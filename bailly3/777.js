@@ -1,0 +1,1 @@
+lar[777]=`<b>ἁγνό·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> au cours limpide, ESCHL. <i>Pr. 435</i>.<p><b>Étym</b>. <i>poét. p</i>. *ἁγνόρρυτος, <i>de</i> ἁγν. ῥέω.`

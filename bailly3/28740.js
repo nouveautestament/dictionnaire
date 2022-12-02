@@ -1,0 +1,1 @@
+lar[28740]=`<b>δυσ·ούλωτος, ος, ον</b> <font color="purple">[ῠ]</font> qui se cicatrise difficilement, A. TR. <i>4, p. 68</i>.<p><b>Étym</b>. δ. οὐλόω.`

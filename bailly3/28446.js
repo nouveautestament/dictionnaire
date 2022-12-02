@@ -1,0 +1,1 @@
+lar[28446]=`<b>δυσ·έρημος, ος, ον</b> <font color="purple">[ῠ]</font> (relégué) dans une triste solitude (village) ANTH. <i>9, 561</i>.<p><b>Étym</b>. δ. ἔρημος.`

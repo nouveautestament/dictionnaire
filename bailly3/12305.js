@@ -1,0 +1,1 @@
+lar[12305]=`<b>εως (ἡ)</b> sacrifice expiatoire, conjuration religieuse, PLAT. <i>Leg. 854b</i>.<p><b>Étym</b>. <i>v</i>. ἀποδιοπομπέομαι.`

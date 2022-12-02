@@ -1,0 +1,1 @@
+lar[61866]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Lycie, <i>contrée d’Asie Mineure,</i> IL. <i>2, 824 ; 5, 172</i> ; HDT. <i>1, 173 ; 7, 92</i> ; PD. <i>O. 13, 58</i> ; THC. <i>8, 41</i> ; EUR. <i>Alc. 112</i>.<p>➳ <i>Ion. et épq</i>. Λυκίη, IL. HDT. <i>ll. cc</i>.`

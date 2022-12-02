@@ -1,0 +1,1 @@
+lar[99420]=`<b>(ὁ)</b> Tlèmonidas, <i>Spartiate,</i> XÉN. <i>Hell. 5, 3, 3</i>.<p><b>Étym</b>. τλήμων.`

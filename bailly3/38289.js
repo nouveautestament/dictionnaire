@@ -1,0 +1,1 @@
+lar[38289]=`<b>ἐπι·λήνιος, ος, ον</b>, qui concerne le pressoir, OPP. <i>C. 1, 127</i> ; ATH. <i>199a, ép. de Bacchus,</i> ORPH. <i>H. 49, 1</i>.<p><b>Étym</b>. ἐπί, ληνός.`

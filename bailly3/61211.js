@@ -1,0 +1,1 @@
+lar[61211]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> fil de lin, DIOSC. <i>2, 202</i>.<p><b>Étym</b>. λίνον.`

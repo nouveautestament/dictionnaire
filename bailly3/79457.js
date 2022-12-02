@@ -1,0 +1,1 @@
+lar[79457]=`<b>οῦ (ὁ)</b> séparation, division, partage, PLUT. <i>M. 906b</i>.<p><b>Étym</b>. περισχίζω.`

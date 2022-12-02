@@ -1,0 +1,1 @@
+lar[44885]=`<b>ας (ἡ)</b> la conductrice, la maîtresse (Artémis) ORPH. <i>Arg. 907</i>.<p><b>Étym</b>. ἡγεμονεύς.`

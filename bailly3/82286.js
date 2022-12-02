@@ -1,0 +1,1 @@
+lar[82286]=`<b>πολυ·ποσία, ας (ἡ)</b> <font color="purple">[ῠ]</font> excès de boisson, POL. <i>5, 15, 2</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Aph. 1258</i>.<p><b>Étym</b>. π. ποτός.`

@@ -1,0 +1,1 @@
+lar[100155]=`<b>τριγλο·φόρος, ος, ον</b>, qui porte, <i>càd</i>. qui contient des mulets <i>ou</i> des rougets, <i>en parl. d’un filet,</i> ANTH. <i>6, 41</i>.<p><b>Étym</b>. τρίγλα, φέρω.`

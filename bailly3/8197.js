@@ -1,0 +1,1 @@
+lar[8197]=`<b>ἀν·είμαρται</b>, <i>impers</i>. il n’est pas réglé par le destin, PLUT. <i>M. 885a</i>.<p><b>Étym</b>. ἀν-, εἵμαρται.`

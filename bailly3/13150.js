@@ -1,0 +1,1 @@
+lar[13150]=`<b>ἀποπρο·θορεῖν</b>, <i>inf. ao.2,</i> s’élancer au loin en avant, A.RH. <i>3, 1280</i> ; ORPH. <i>Arg. 547</i>.<p><b>Étym</b>. ἀποπρό, θορεῖν, <i>v</i>. θρῴσκω.`

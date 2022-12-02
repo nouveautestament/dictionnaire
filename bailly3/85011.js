@@ -1,0 +1,1 @@
+lar[85011]=`<b>προ·πραγματεύομαι</b> <font color="purple">[μᾰ]</font><br><b>      1</b> être traité auparavant, EUN. <i>p. 11 Boiss.</i><br><b>      2</b> être mentionné auparavant, PTOL. <i>Math. synt. 2, p. 416</i>.`

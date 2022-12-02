@@ -1,0 +1,1 @@
+lar[16998]=`<b>ἀ·τρύφερος, ος, ον</b> <font color="purple">[αῡ]</font> non délicat, non efféminé, <i>en parl. de pers</i>. EUP. (SUID.) ; <i>de choses (vêtement</i> CÉB. <i>20 ; nourriture,</i> TÉLÈS <i>dans</i> STOB. <i>Fl. 5, 67, etc</i>.).`

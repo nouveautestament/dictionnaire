@@ -1,0 +1,1 @@
+lar[82755]=`<b>ωνος</b>, <i>adj. m</i>. qui pète, péteur, ARR. <i>Epict. 3, 22, 80</i>.<p><b>Étym</b>. πέρδομαι.`

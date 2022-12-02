@@ -1,0 +1,1 @@
+lar[19226]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> voix grave <i>ou</i> forte, ALEX. (POLL. <i>2, 112</i>) ; ARSTT. <i>G.A. 5, 7</i>.<p>➳ <i>Ion</i>. βαρυφωνίη, HPC. <i>285, 43</i>.<p><b>Étym</b>. βαρύφωνος.`

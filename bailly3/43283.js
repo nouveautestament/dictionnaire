@@ -1,0 +1,1 @@
+lar[43283]=`<b>εὐρυ·κοίλιος, ος, ον</b> <font color="purple">[ῠ]</font> au large ventre, HPC. <i>269, 2</i>.<p><b>Étym</b>. εὐ. κοιλία.`

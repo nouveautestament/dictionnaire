@@ -1,0 +1,1 @@
+lar[70936]=`<b>ῶν (αἱ)</b> les Oleies, <i>n. des trois filles de Minyas à Orchomène,</i> PLUT. <i>Qu. gr. 38 ; prêtresses de Delphes,</i> PLUT. <i>Def. or. 15</i>.`

@@ -1,0 +1,1 @@
+lar[83335]=`<b>εως (ἡ)</b> députation, ambassade, THC. <i>1, 73</i> ; DC. <i>42, 46</i>.<p><b>Étym</b>. πρεσβεύω.`

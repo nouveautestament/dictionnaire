@@ -1,0 +1,1 @@
+lar[27707]=`<b>δουλο·πόνηρος, ος, ον</b>, méchant comme un esclave, TÉLÉCL. (POLL. <i>10, 164).</i><p><b>Étym</b>. δοῦλος, πονηρός.`

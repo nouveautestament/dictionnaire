@@ -1,0 +1,1 @@
+lar[20631]=`<b>βραδύ·πνοος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la respiration est lente <i>ou</i> difficile, ARÉT. <i>Cur. m. diut. 2, 16</i>.<p><b>Étym</b>. βρ. πνέω.`

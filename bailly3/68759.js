@@ -1,0 +1,1 @@
+lar[68759]=`<b>Νικό·δημος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikodèmos, <i>h</i>. DÉM. <i>549, 23</i> ; ESCHN. <i>24, 30, etc</i>.<p>➳ <i>Dor</i>. Νικόδαμος <font color="purple">[ᾱ]</font> PAUS. <i>5, 25, 7</i>.<p><b>Étym</b>. νικάω, δῆμος.`

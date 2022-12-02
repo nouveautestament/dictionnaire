@@ -1,0 +1,1 @@
+lar[60576]=`<b>ου (ὁ)</b> = <i>lat</i>. Lucullus, <i>n. d’h. rom</i>. PLUT. <i>Syll. 27, Mar. 34, etc</i>.<p><b>Étym</b>. <i>cf</i>. Λεύκουλλος.`

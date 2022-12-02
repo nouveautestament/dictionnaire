@@ -1,0 +1,1 @@
+lar[109906]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ψυκτήρ, EUPHRON (ATH. <i>502d</i>).`

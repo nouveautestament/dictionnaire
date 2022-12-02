@@ -1,0 +1,1 @@
+lar[38234]=`<b>ἐπι·κυψέλιος, ου</b>, <i>adj. m</i>. gardien <i>ou</i> protecteur des ruches (Pan) ANTH. <i>9, 226</i>.<p><b>Étym</b>. ἐπί, κυψέλη.`

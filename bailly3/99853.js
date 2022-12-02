@@ -1,0 +1,1 @@
+lar[99853]=`<b>τραγο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à un bouc, PLAT. <i>Crat. 408d</i>.<p><b>Étym</b>. τράγος, εἶδος.`

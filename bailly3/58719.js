@@ -1,0 +1,1 @@
+lar[58719]=`<b>κύν·αγχον, ου (τὸ)</b> <font color="purple">[ῠ]</font> apocyn, <i>plante,</i> DIOSC. <i>4, 81</i>.<p><b>Étym</b>. <i>cf</i>. κύναγχος.`

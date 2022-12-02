@@ -1,0 +1,1 @@
+lar[103004]=`<b>ή, όν :<br>      1</b> somnolent, ARSTT. <i>Somn. 3, 17 ; Probl. 3, 25</i>.<br><b>      2</b> soporifique, ARSTT. <i>Somn. 3, 9</i> ; PLUT. <i>M. 652c ;</i> τὸ ὑπνωτικόν, PLUT. <i>Cæs. 34,</i> narcotique.<p>•<i> Sup</i>. -ώτατος, ARSTT. <i>Probl. 3, 25</i>.<p><b>Étym</b>. ὑπνόω.`

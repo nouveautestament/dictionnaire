@@ -1,0 +1,1 @@
+lar[8176]=`<b>ἀν·εθέλητος, ος, ον</b>, non voulu, qu’on supporte avec peine, HDT. <i>7, 88 ; 133</i>.<p><b>Étym</b>. ἀν-, ἐθέλω.`

@@ -1,0 +1,1 @@
+lar[71205]=`<b>ὁλό·πτερος, ος, ον</b>, dont les ailes sont d’une seule pièce, ARSTT. <i>Insomn. 2 ; P.A. 4, 12, etc.</i> ; STR. <i>259</i>.<p><b>Étym</b>. ὅλ. πτερόν.`

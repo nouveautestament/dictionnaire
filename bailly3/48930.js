@@ -1,0 +1,1 @@
+lar[48930]=`<b>οῦ</b>, louche, <i>propr</i>. qui tourne les yeux, AR. <i>Th. 846</i>.<p>•<i> Cp</i>. -ότερος, SOPHR. <i>fr. 226</i>.<p><b>Étym</b>. <i>p.-ê. apparenté à</i> ἴλλω ; <i>autrement pré-grec</i>.`

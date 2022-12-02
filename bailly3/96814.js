@@ -1,0 +1,1 @@
+lar[96814]=`<b>ή, όν</b>, égorgé, immolé, EUR. <i>Hec. 1077</i>.<p><b>Étym</b>. <i>vb. de</i> σφάζω.`

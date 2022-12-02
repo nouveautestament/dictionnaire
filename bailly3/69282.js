@@ -1,0 +1,1 @@
+lar[69282]=`<b>ατος (τὸ)</b> <font color="purple">[γᾰ]</font> <i>c</i>. νώγαλον, ARAR. (ATH. <i>47d</i>).`

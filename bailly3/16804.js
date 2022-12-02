@@ -1,0 +1,1 @@
+lar[16804]=`<b>ας (ἡ)</b> Atilia, <i>n. de f. romain,</i> POL.`

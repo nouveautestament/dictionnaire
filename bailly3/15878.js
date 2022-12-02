@@ -1,0 +1,1 @@
+lar[15878]=`<b>ἄ·σιτος, ος, ον</b> <font color="purple">[ῑ]</font> qui ne mange pas <i>ou</i> n’a pas mangé, à jeun, OD. <i>4, 788</i> ; SOPH. <i>Aj. 324</i> ; THC. <i>7, 40, etc</i>.<p><b>Étym</b>. ἀ. σῖτος.`

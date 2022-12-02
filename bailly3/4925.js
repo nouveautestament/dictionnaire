@@ -1,0 +1,1 @@
+lar[4925]=`<b>Ἁλό·νησος</b> <i>et</i> <b>Ἁλόννησος, ου (ὁ)</b> Halonèse <i>et</i> Halonnèse (<i>litt</i>. î. du sel) <i>î. et v. de la mer Égée,</i> ESCHN. <i>3, 83</i> ; DÉM. <i>18, 69 Baiter-Sauppe, etc.</i> ; PLUT. <i>Dem. 9</i>.<p><b>Étym</b>. ἅλς², νῆσος.`

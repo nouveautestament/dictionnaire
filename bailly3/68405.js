@@ -1,0 +1,1 @@
+lar[68405]=`<b>ή, όν</b>, qui nage ; νευστὴ ἐλαία, LUC. <i>Lex. 13,</i> olive qui nage (conservée) dans la saumure.<p><b>Étym</b>. νέω².`

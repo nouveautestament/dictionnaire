@@ -1,0 +1,1 @@
+lar[70995]=`<b>ὀλιγη·σίπυος, ος, ον</b> <font color="purple">[ῐῐ]</font> qui a une petite corbeille à pain, <i>d’où</i> pauvre en pain, ANTH. <i>6, 288, 300</i>.<p><b>Étym</b>. ὀλ. σιπύα.`

@@ -1,0 +1,1 @@
+lar[16294]=`<b>ἀ·στρατήγητος, ος, ον</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> sans général, JOS. <i>B.J. 2, 12, 4</i>.<br><b>      2</b> qui n’a pas exercé le commandement, PLAT. <i>2 Alc. 142a.</i><br><b>      3</b> incapable de commander, CIC. <i>Att. 7, 13</i>.<p><b>Étym</b>. ἀ, στρατηγέομαι.`

@@ -1,0 +1,1 @@
+lar[41866]=`<b>εὐ·διάκριτος, ος, ον</b> <font color="purple">[ρῐ]</font> facile à discerner, DYSC. <i>Adv. 574, 24</i> ; GAL. <i>2, 200</i>.<p><b>Étym</b>. εὖ, διακρίνω.`

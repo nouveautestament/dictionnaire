@@ -1,0 +1,1 @@
+lar[54743]=`<b>ή, όν</b>, <i>seul. cp</i>. -ώτερος, TH. <i>H.P. 3, 9, 6,</i> propre à piquer, piquant.<p><b>Étym</b>. κεντητός.`

@@ -1,0 +1,1 @@
+lar[36677]=`<b>ἐπ·ανειλέω-ῶ</b> (<i>part. prés. pass</i>.) dérouler, GAL. <i>Lex. Hipp. 19, 91</i>.`

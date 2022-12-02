@@ -1,0 +1,1 @@
+lar[91034]=`<b>σκληρο·κοιτία, ας (ἡ)</b> couche dure <i>ou</i> sommeil sur un lit dur, TH. <i>Lass. 2</i>.<p><b>Étym</b>. σκλ. κοίτη.`

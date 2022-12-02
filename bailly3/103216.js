@@ -1,0 +1,1 @@
+lar[103216]=`<b>ὑπο·δυσωπέομαι-οῦμαι</b>, éprouver qqe honte <i>ou</i> qqe répugnance, PLUT. <i>M. 646b</i>.`

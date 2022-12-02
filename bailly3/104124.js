@@ -1,0 +1,1 @@
+lar[104124]=`<b>ος, ον</b> <font color="purple">[ῑ]</font> saisi de frisson, d’horreur, SPT. <i>3Macc. 6, 20</i>.<p><b>Étym</b>. ὑποφρίσσω.`

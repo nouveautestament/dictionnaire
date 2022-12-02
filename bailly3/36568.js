@@ -1,0 +1,1 @@
+lar[36568]=`<b>ἐπ·αναγιγνώσκω :<br>      1</b> relire, LYS. <i>117, 40</i> ; POL. <i>31, 21, 10</i>.<br><b>      2</b> enseigner à lire : ἐπ. τινά, ARR. <i>Epict. 1, 10, 8,</i> apprendre à lire à qqn ; ἐπ. τινὶ γραμματικήν, SEXT. <i>480, 6 Bkk</i>. enseigner ses lettres à qqn.`

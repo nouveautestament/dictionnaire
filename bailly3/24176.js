@@ -1,0 +1,1 @@
+lar[24176]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Dèmadès (Démade) <i>orateur attique,</i> DÉM. DIN. ARSTT. <i>Rhet. 2, 24 ; etc</i>.<p>➳ <i>Acc</i>. -ην, mais -η, PLUT. <i>X orat. Lyc. 33</i>.<p><b>Étym</b>. <i>patr. de</i> Δημέας.`

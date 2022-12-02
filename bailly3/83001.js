@@ -1,0 +1,1 @@
+lar[83001]=`<b>πό·τε</b>, <i>adv. interr</i>. quand ? à quelle époque ? IL. <i>19, 227</i> ; OD. <i>4, 642, etc.</i> ; πότε δή ; ESCHL. <i>Ch. 720, m. sign.</i> ; ἐς πότε ; SOPH. <i>Aj. 1185,</i> jusques à quand ?<p><b>Étym</b>. *πός, τε.`

@@ -1,0 +1,1 @@
+lar[109382]=`<b>χυτρ·εψός, οῦ (ὁ)</b> <i>litt</i>. « qui fait cuire la marmite », cuisinier, PARMÉN. (ATH. <i>608a</i>).<p><b>Étym</b>. χύτρα, ἕψω.`

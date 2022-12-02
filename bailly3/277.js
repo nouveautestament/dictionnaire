@@ -1,0 +1,1 @@
+lar[277]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agathôn :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>24, 249</i>.<br><b>      2</b> <i>poète tragique,</i> XÉN. <i>Conv. 8, 32 ; l’un des personnages du Banquet de Platon, etc.</i><br><b>      3</b> <i>autres,</i> DÉM. <i>25, 47 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. ἀγαθός.`

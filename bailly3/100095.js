@@ -1,0 +1,1 @@
+lar[100095]=`<b>ιδος</b> <font color="purple">[ᾱ]</font> <i>fém. de</i> τριακοντούτης THC. <i>1, 87</i> ; IS. <i>57, 36</i> ; AR. <i>Ach. 194, Eq. 1388</i>.`

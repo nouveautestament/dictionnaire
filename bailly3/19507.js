@@ -1,0 +1,1 @@
+lar[19507]=`<b>βελο·ποιός, οῦ (ὁ, ἡ)</b> constructeur de machines de jet, PHIL. BYZ. <i>58</i>.<p><b>Étym</b>. βέλος, ποιέω.`

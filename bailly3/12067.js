@@ -1,0 +1,1 @@
+lar[12067]=`<i>adv</i>., avec simplicité, sans détour, DH. <i>Dem. 45</i>.`

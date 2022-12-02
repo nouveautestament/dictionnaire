@@ -1,0 +1,1 @@
+lar[35330]=`<b>ἐξ·αΐσσω</b>, <i>att</i>. <b>ἐξᾴττω</b> <font color="darkgreen">(<i>f</i>. ἐξαΐξω, <i>ao</i>. ἐξήϊξα)</font> s’élancer de, ἐκ <i>et le gén</i>. AR. <i>Ran. 567, Pl. 733</i> ; τὸ ἐξᾷττον, PLUT. <i>M. 83f</i>, violence (en paroles <i>ou</i> en actes).`

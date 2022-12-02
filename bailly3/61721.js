@@ -1,0 +1,1 @@
+lar[61721]=`<b>λοχαγέω-ῶ</b> <font color="purple">[ᾱ]</font> <i>dor. usité chez les Att. c. l’ion</i>. λοχηγέω, commander une compagnie, XÉN. <i>An. 6, 1, 30 ; Mem. 3, 1, 5</i> ; λόχου λοχηγεῖν, HDT. <i>9, 53, m. sign</i>.<p><b>Étym</b>. λοχαγός.`

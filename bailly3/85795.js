@@ -1,0 +1,1 @@
+lar[85795]=`<b>προσ·ευεργετέω-ῶ</b>, obliger par un nouveau bienfait, DS. <i>13, 22</i> ; DC. <i>41, 63</i>.`

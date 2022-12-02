@@ -1,0 +1,1 @@
+lar[97951]=`<b>ή, όν</b>, humecté, amolli <i>ou</i> qu’on peut humecter, amollir, ARSTT. <i>Meteor. 4, 9, 2</i>.<p><b>Étym</b>. <i>vb. de</i> τέγγω.`

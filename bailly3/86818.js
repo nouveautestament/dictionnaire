@@ -1,0 +1,1 @@
+lar[86818]=`<b>πρό·τροχος, ου (ὁ)</b> avant-train d’un appareil roulant, ATH. (<i>Math. vet. p. 10, 2).</i><p><b>Étym</b>. π. τροχός.`

@@ -1,0 +1,1 @@
+lar[67482]=`<b>οῦ (ὁ)</b> marmotte, <i>animal,</i> OPP. <i>C. 2, 574, 585</i>.`

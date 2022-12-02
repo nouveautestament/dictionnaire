@@ -1,0 +1,1 @@
+lar[43819]=`<b>εὐχρημονέω-ῶ</b>, être riche, PLAT. COM. (POLL. <i>6, 196</i>).`

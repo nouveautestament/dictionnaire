@@ -1,0 +1,1 @@
+lar[6698]=`<b>ος, ον</b>, qui retient (les cheveux) relevés, EUR. <i>Hec. 923</i>.`

@@ -1,0 +1,1 @@
+lar[90813]=`<b>σκευο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des meubles, des ustensiles <i>ou</i> des bagages, SPT. <i>1Reg. 17, 22</i>.<p><b>Étym</b>. σκεῦος, φ.`

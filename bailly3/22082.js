@@ -1,0 +1,1 @@
+lar[22082]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Glaphyros, <i>h</i>. ANTH. <i>9, 266</i>.`

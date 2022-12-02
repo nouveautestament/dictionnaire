@@ -1,0 +1,1 @@
+lar[19543]=`<b>ου (ὁ)</b> de Vénétie, <i>contrée de la haute Italie,</i> ANTH. <i>9, 670</i> (βενετία, E. BYZ.).`

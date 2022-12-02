@@ -1,0 +1,1 @@
+lar[94381]=`<b>συμ·προτίθημι</b> <font color="purple">[τῐ]</font> mettre ensemble <i>ou</i> en même temps avant, DYSC. <i>Synt. p. 128, 20</i>.`

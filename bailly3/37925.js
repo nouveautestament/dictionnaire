@@ -1,0 +1,1 @@
+lar[37925]=`<b>εως (ἡ)</b> coucher postérieur des astres, PTOL. <i>2, 101, 104</i>.<p><b>Étym</b>. ἐπικαταδύομαι.`

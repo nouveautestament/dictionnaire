@@ -1,0 +1,1 @@
+lar[13603]=`<b>ἀπο·τίλλω</b> <font color="darkgreen">(<i>ao</i>. ἀπέτιλα <font color="purple">[ῑλα]</font>) :</font><br><b>      1</b> arracher les poils <i>ou</i> les cheveux, HDT. <i>1, 123 ; 3, 16</i>.<br><b>      2</b> épiler, AR. <i>Lys. 578</i> ; LUC. <i>Gall. 28, etc.</i> ; ἀποτετιλμένος σκάφιον, AR. <i>Av. 806, c</i>. ἀποκεκαρμένος.`

@@ -1,0 +1,1 @@
+lar[81462]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> de paiement, <i>d’où</i> :<br><b>   I</b> <i>en mauv. part</i> :<br><b>      1</b> vengeur, SOPH. <i>Tr. 808 ; Aj. 843, etc.</i><br><b>      2</b> qui sert de châtiment, SOPH. <i>El. 210</i>.<br><b>   II</b> <i>en b. part</i>, qui récompense, PD. <i>P. 2, 32</i>.<p><b>Étym</b>. ποινή.`

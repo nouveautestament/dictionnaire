@@ -1,0 +1,1 @@
+lar[220]=`<i>mieux que</i> <b>Ἀβυδηνοκόμης, ου (ὁ)</b> <font color="purple">[ᾰῡ]</font> Abydokomès, <i>sobriquet des sycophantes et des vauriens,</i> AR. <i>fr. 568</i>.`

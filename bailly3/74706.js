@@ -1,0 +1,1 @@
+lar[74706]=`<b>παμ·μελής, ής, ές</b>, qui se compose de toutes sortes de mélodies, SPT. <i>3Macc. 7, 16</i>.<p><b>Étym</b>. π. μέλος.`

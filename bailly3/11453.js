@@ -1,0 +1,1 @@
+lar[11453]=`<b>ἀ·πάτητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> inaccessible, ANTH. <i>6, 51</i>.<p><b>Étym</b>. ἀ, πατέω.`

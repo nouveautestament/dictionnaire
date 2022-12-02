@@ -1,0 +1,1 @@
+lar[85485]=`<b>προσ·εθίζω</b>, accoutumer : τινά τι, XÉN. <i>Ap. 25,</i> qqn à qqe ch. ; τινὰ ποιεῖν τι, XÉN. <i>Cyr. 8, 1, 36, etc</i>. qqn à faire qqe ch. ; <i>au pass</i>. XÉN. <i>Lac. 2, 4</i> ; LUC. <i>Dem. enc. 17</i>.`

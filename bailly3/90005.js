@@ -1,0 +1,1 @@
+lar[90005]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m.</i> :<br><b>      1</b> préparé avec du sésame (pain <i>ou</i> gâteau) ATH. <i>114a.</i><br><b>      2</b> <i>c</i>. σησαμίς 2, DIOSC. <i>Noth. 4, 152</i>.<p><b>Étym</b>. σησάμη.`

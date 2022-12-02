@@ -1,0 +1,1 @@
+lar[72196]=`<b>ὀξύ·χειρ, ειρος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> fait par une main agile, ESCHL. <i>Ch. 23</i>.<br><b>      2</b> aux mains agiles, adroit, THCR. <i>Idyl. 20, 2</i> ; LUC. <i>D. deor. 7, 2, etc</i>.<p><b>Étym</b>. ὀ. χείρ.`

@@ -1,0 +1,1 @@
+lar[14993]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> laboureur, IL. <i>18, 542, etc.</i> ; HDT. <i>1, 125, etc. ; fig</i>. père, EUR. <i>Tr. 135</i> ; ANTH. <i>App. 356</i>.<br><b>      2</b> <i>adj</i>. βοῦς ἀροτήρ, HÉS. <i>O. 403</i> ; ARAT. <i>132</i> ; PLUT. <i>Pyrrh. 5</i> ; LUC. <i>Sacr. 12, etc</i>. bœuf de labour.<p><b>Étym</b>. ἀρόω.`

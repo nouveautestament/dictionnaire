@@ -1,0 +1,1 @@
+lar[96763]=`<b>οῦ (ὁ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> immolation, sacrifice, PLUT. <i>Ages. 6</i>.<br><b>      2</b> meurtre, EUR. <i>El. 200</i>.<p><b>Étym</b>. σφαγιάζω.`

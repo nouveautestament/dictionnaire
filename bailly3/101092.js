@@ -1,0 +1,1 @@
+lar[101092]=`(<i>seul. prés</i>.) <font color="purple">[ῠ]</font> aspirer au pouvoir absolu, SOL. (DL. <i>1, 2, 18).</i><p><b>Étym</b>. τυραννέω.`

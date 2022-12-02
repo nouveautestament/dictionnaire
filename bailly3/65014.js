@@ -1,0 +1,1 @@
+lar[65014]=`<b>μετ·αυγάζω :<br>      1</b> regarder, PD. <i>N. 10, 61</i>.<br><b>      2</b> se distinguer par son éclat, PHILSTR. <i>793</i>.<p>➳ <i>Dor</i>. πεδαυγάζω, PD. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[71958]=`<b>Ὀνομά·δημος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Onomadèmos, <i>h</i>. PLUT. <i>Inim. ut. 10, etc</i>.<p><b>Étym</b>. ὄνομα, δῆμος.`

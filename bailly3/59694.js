@@ -1,0 +1,1 @@
+lar[59694]=`<b>ος, ον</b> <font color="purple">[πᾰ]</font><br><b>      1</b> qui tient un flambeau, LYC. <i>734</i>.<br><b>      2</b> qui fait luire sa lumière, EUR. <i>I.A. 1505</i>.<p><b>Étym</b>. λαμπάς, ἔχω.`

@@ -1,0 +1,1 @@
+lar[101940]=`<b>ὑπ·αναγιγνώσκω</b> <font color="darkgreen">(<i>f</i>. -αναγνώσομαι, <i>ao.2</i> -ανέγνων, <i>etc</i>.)</font> <font color="purple">[ῠᾰν]</font><br><b>      1</b> lire ensuite, relire, ESCHN. <i>42, 26</i>.<br><b>      2</b> lire ici et là, IS. <i>83, 19</i>.<p>➳ <i>Att. réc</i>. ὑπαναγινώσκω, IS. <i>l. c</i>.`

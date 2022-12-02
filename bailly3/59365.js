@@ -1,0 +1,1 @@
+lar[59365]=`<b>ου (ὁ)</b> grande coupe pour boire, <i>chez les Perses,</i> COM. (ATH. <i>484c</i>).`

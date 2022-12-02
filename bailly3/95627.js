@@ -1,0 +1,1 @@
+lar[95627]=`<b>συν·επικάθημαι</b> <font color="darkgreen">(<i>impf</i>. συνεπεκαθήμην)</font> être assis ensemble sur, EUM. <i>1, p. 10</i>.`

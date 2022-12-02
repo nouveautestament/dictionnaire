@@ -1,0 +1,1 @@
+lar[19313]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Bassiānus, <i>l’un des noms d’Héliogabale,</i> HDN <i>5, 3, 3</i>.`

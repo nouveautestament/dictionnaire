@@ -1,0 +1,1 @@
+lar[100114]=`<b>ή, όν</b> <font color="purple">[ῐβ]</font> des Triballes, HDT. <i>4, 49</i>.<p><b>Étym</b>. <i>v</i>. Τριβαλλοί.`

@@ -1,0 +1,1 @@
+lar[78938]=`<b>περι·μυκάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> mugir <i>ou</i> gronder autour de, <i>acc</i>. PLUT. <i>Crass. 26</i>.`

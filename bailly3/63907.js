@@ -1,0 +1,1 @@
+lar[63907]=`<b>μελανό·φυλλος, ος, ον</b> <font color="purple">[ᾰ]</font> aux feuilles noires <i>ou</i> sombres, CHÆRÉM. (ATH. <i>608c</i>).<p><b>Étym</b>. μ. φύλλον.`

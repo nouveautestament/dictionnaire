@@ -1,0 +1,1 @@
+lar[8042]=`<b>ου (τὸ)</b> petit homme, AR. <i>Pax 51</i> ; EUP. <i>2-1, 554 Meineke</i> ; THCR. <i>Idyl. 5, 40</i>.<p><b>Étym</b>. ἀνήρ.`

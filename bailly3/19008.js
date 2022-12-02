@@ -1,0 +1,1 @@
+lar[19008]=`<b>ης (ἡ)</b> Baltè, <i>nymphe, mère d’Épiménide,</i> PLUT.`

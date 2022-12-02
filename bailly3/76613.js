@@ -1,0 +1,1 @@
+lar[76613]=`<b>παρ·εκδύνω</b> (<i>part. ao.2</i> παρεχδύς, <i>au sens intr</i>.) s’échapper furtivement, LUC. <i>J. tr. 41</i>.`

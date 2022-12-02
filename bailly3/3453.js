@@ -1,0 +1,1 @@
+lar[3453]=`<b>οῦ (ὁ)</b> qui est dans toute sa force, HDN <i>1, 17, 24</i>.<p><b>Étym</b>. ἀκμάζω.`

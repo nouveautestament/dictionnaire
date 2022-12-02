@@ -1,0 +1,1 @@
+lar[43650]=`<b>εὔ·τροπος, ος, ον :<br>      1</b> versatile, ARSTT. <i>Nic. 4, 8, 3</i>.<br><b>      2</b> bénin, <i>t. de méd</i>. HPC. <i>50, 24</i>.<p><b>Étym</b>. εὖ, τρέπω.`

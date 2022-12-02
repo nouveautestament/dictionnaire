@@ -1,0 +1,1 @@
+lar[25164]=`<b>δια·νοσέω-ῶ</b>, être gravement <i>ou</i> longtemps malade, HPC. <i>Prorrh. 75c, 77e, 78c ;</i> GAL. <i>6, 11</i>.`

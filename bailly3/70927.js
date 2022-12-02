@@ -1,0 +1,1 @@
+lar[70927]=`<b>ὀλβο·φόρος, ος, ον</b>, qui a reçu le bonheur <i>ou</i> la fortune, EUR. <i>I.A. 597</i>.<p><b>Étym</b>. ὄ. φέρω.`

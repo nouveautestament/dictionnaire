@@ -1,0 +1,1 @@
+lar[76144]=`<b>παρ·αρπάζω</b>, dérober, ravir frauduleusement, ANTH. <i>11, 153</i>.`

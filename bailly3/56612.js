@@ -1,0 +1,1 @@
+lar[56612]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> coup sur la joue, soufflet, EPICH. (EM. <i>525, 8).</i><p><b>Étym</b>. <i>pré-grec, cf</i>. κολάπτω ; <i>d’où franç</i>. coup.`

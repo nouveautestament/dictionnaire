@@ -1,0 +1,1 @@
+lar[91281]=`<b>έως</b>, <i>acc. épq</i>. <b>-ῆα (ὁ)</b> <font color="purple">[ῠᾰ]</font> Skylakée, <i>h</i>. Q. SM. <i>10, 147</i>.<p><b>Étym</b>. <i>cf</i>. σκυλακεύς.`

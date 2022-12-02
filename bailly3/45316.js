@@ -1,0 +1,1 @@
+lar[45316]=`<b>ἠ·μέν</b>, <i>conj</i>. et, ou : ἠμὲν… ἠδέ, IL. <i>2, 789, etc.</i> ; ἠμὲν… ἠδὲ καί, IL. <i>5, 128</i> ; OD. <i>2, 268 ; rar</i>. ἠμὲν… δέ, IL. <i>12, 428</i> ; ἠμὲν… καί, IL. <i>15, 664, etc.</i> ; ἠμὲν… τε, OD. <i>8, 575,</i> et… et ; soit… soit ; aussi bien… que ; autant… que.<p><b>Étym</b>. ἤ, μέν.`

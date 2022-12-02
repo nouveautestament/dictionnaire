@@ -1,0 +1,1 @@
+lar[57862]=`<b>ης (ἡ)</b> î. de Crète (<i>auj</i>. Kríti, <i>anc</i>. Candia) IL. <i>2, 649, etc.</i> ; OD. <i>3, 291, etc.</i> ; HÉS. <i>Th. 477</i> ; HDT. <i>1, 65, etc.</i> ; THC. <i>3, 69, etc. ; au pl</i>. αἱ Κρῆται, <i>gén. épq</i>. Κρητάων, OD. <i>14, 199 ; 16, 62, m. sign</i>.<p>➳ <i>Dor</i>. Κρήτα, EUR. <i>Bacch. 121, Hipp. 156, etc</i>.<p><b>Étym</b>. Κρής.`

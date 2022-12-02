@@ -1,0 +1,1 @@
+lar[33178]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ἔμβρωμα SOR. <i>Obst. p. 47 Erm</i>.`

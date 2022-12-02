@@ -1,0 +1,1 @@
+lar[63928]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de noircir, tache, souillure, CHRYS. <i>6, 949</i>.<p><b>Étym</b>. μελανόω.`

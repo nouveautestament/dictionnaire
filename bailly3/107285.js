@@ -1,0 +1,1 @@
+lar[107285]=`<b>ωνος (ὁ)</b> ventru, PLUT. <i>Cor. 11 ; sobriquet donné par Alcée à Pittakos,</i> DL. <i>1, 81 ; sobriquet de Ptolémée V,</i> DS. <i>1, 81</i> ; PLUT. <i>Marc. 11</i> ; JOS. <i>A.J. 12, 4, 11, etc</i>.<p><b>Étym</b>. φύσκη.`

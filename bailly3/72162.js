@@ -1,0 +1,1 @@
+lar[72162]=`<b>ὀξύ·ρριν</b> <i>ou</i> <b>ὀξύ·ρρις</b>, <i>gén</i>. <b>ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui a le nez pointu, HPC. <i>1040a</i>.<p><b>Étym</b>. ὀ. ῥίς.`

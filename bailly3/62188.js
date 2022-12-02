@@ -1,0 +1,1 @@
+lar[62188]=`<b>ατος (τὸ)</b> la fleur, <i>càd</i>. la partie délicate d’une chose, EUR. <i>Hel. 1593 au pl</i>.<p><b>Étym</b>. λωτίζω.`

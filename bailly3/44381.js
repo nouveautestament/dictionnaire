@@ -1,0 +1,1 @@
+lar[44381]=`<b>ζα·κελτίδες, ων (αἱ)</b> courges <i>ou</i> coloquintes, <i>c</i>. κολοκύνται, AMÉRIAS <i>et</i> TIMACH. (ATH. <i>369b</i>).<p><b>Étym</b>. <i>pré-grec</i>.`

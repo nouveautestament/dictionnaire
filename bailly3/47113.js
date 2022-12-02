@@ -1,0 +1,1 @@
+lar[47113]=`<b>ωνος (ὁ)</b> Théôn :<br><b>      1</b> Athénien, LYS. <i>10, 12 Baiter-Sauppe</i>.<br><b>      2</b> rhéteur et philosophe.<br><b>      3</b> <i>autres,</i> PLUT. <i>Qu. conv. 1, 9, 2, etc.</i> ; LUC. <i>H. conscr. 35</i>.<p>➳ <i>Voc</i>. Θέων, ANTH. <i>9, 202</i>.`

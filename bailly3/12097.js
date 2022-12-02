@@ -1,0 +1,1 @@
+lar[12097]=`<b>ἄ·πλωτος, ος, ον :<br>      1</b> sans navigation, APP. <i>Mithr. 93</i>.<br><b>      2</b> non navigable, PHIL. <i>2, 108</i>.<p><b>Étym</b>. ἀ, πλώω.`

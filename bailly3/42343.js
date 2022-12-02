@@ -1,0 +1,1 @@
+lar[42343]=`<b>εὔ·ϊνος, ος, ον</b> <font color="purple">[ῑ]</font> aux fortes fibres, TH. <i>H.P. 3, 10, 1</i>.<p><b>Étym</b>. εὖ, ἴς.`

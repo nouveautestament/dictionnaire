@@ -1,0 +1,1 @@
+lar[97934]=`<b>ώ (ὁ)</b> paon, EUB. <i>3, 259 Meineke</i> ; ARSTT. <i>H.A. 1, 1, 33, etc</i>.<p>➳ <i>Nom. pl</i>. ταῷ, ATH. <i>655a ; acc</i>. ταῶς, ANTIPH. (<i>Com. fr. 3, 96</i>).`

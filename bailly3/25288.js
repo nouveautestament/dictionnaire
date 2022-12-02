@@ -1,0 +1,1 @@
+lar[25288]=`<b>διά·πλεως, ως, ων</b>, entièrement plein, CRAT. (<i>Com. fr. 2, 178).</i><p>➳ <i>Plur. fém</i>. διάπλεαι, PLUT. <i>Tim. 11 ; neutre</i> διάπλεα, TH. <i>C.P. 2, 1, 4</i>.`

@@ -1,0 +1,1 @@
+lar[1191]=`<i>2 sg. impér. prés. et 3 sg. impf. de</i> ᾄδω.`

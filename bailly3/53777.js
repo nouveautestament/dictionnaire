@@ -1,0 +1,1 @@
+lar[53777]=`<b>εως (ἡ)</b> l’action de couvrir de terre, d’ensevelir, GEOP. <i>4, 3, 2</i>.<p><b>Étym</b>. καταχώννυμι.`

@@ -1,0 +1,1 @@
+lar[79306]=`<b>ος, ον</b>, recherché avec empressement, LUC. <i>Tim. 38, etc</i>.<p><b>Étym</b>. περισπουδάζω.`

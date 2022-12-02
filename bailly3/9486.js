@@ -1,0 +1,1 @@
+lar[9486]=`<b>ἀντ·απειλέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀντηπείλησα)</font> menacer à son tour : τινι, PHIL. <i>2, 469</i> ; πρός τινα, THÉM. <i>95,</i> qqn.`

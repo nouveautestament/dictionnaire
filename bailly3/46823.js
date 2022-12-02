@@ -1,0 +1,1 @@
+lar[46823]=`<b>ατος (τὸ)</b> opération magique, DAMASC. (PHOT. <i>Bibl. p. 339, 11).</i><p><b>Étym</b>. *θεουργιάζω, <i>de</i> θεουργία.`

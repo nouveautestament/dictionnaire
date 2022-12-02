@@ -1,0 +1,1 @@
+lar[63056]=`<b>ου</b>, <i>épq</i>. <b>-οιο (ὁ)</b> <font color="purple">[σᾰῠ]</font> Massakytos, <i>mt. ou promont. de Lycie,</i> Q. SM. <i>3, 234 ; 8, 107</i>.`

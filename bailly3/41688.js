@@ -1,0 +1,1 @@
+lar[41688]=`<b>ου (ὁ)</b> Eubatidès, <i>h</i>. LUC. <i>Philops. 30, 31</i>.<p><b>Étym</b>. <i>patr. de</i> Εὐβάτας.`

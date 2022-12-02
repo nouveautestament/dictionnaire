@@ -1,0 +1,1 @@
+lar[73439]=`<b>ας (ἡ)</b> once, <i>mesure romaine,</i> ARSTT. <i>fr. 467</i>.<p><b>Étym</b>. <i>lat</i>. uncia.`

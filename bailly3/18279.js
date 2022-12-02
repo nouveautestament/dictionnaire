@@ -1,0 +1,1 @@
+lar[18279]=`<b>ἀφρο·φόρος, ος, ον</b>, qui charrie de l’écume, écumant, CHRYS. <i>6, 558</i>.<p><b>Étym</b>. ἀφρός, φέρω.`

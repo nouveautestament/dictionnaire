@@ -1,0 +1,1 @@
+lar[89828]=`<b>α, ον</b>, de Septembre, PLUT. <i>Popl. 14</i>.<p><b>Étym</b>. <i>v</i>. Σεπτέμβριος.`

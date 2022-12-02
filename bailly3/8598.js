@@ -1,0 +1,1 @@
+lar[8598]=`<i>adv</i>., librement, à l’abandon, SOPH. <i>fr. 567</i>.<p><b>Étym</b>. ἄνετος.`

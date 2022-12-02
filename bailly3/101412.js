@@ -1,0 +1,1 @@
+lar[101412]=`<b>ὑγρό·πισσα, ης (ἡ)</b> poix liquide, goudron, GAL. <i>14, 329</i> ; GEOP. <i>18, 8, 2, etc</i>.<p><b>Étym</b>. ὑ. πίσσα ; <i>cf</i>. ὑγρόπισσον.`

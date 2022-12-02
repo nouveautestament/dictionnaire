@@ -1,0 +1,1 @@
+lar[97157]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Socrate <i>ou</i> de son école, socratique, ARSTT. <i>Rhet. 3, 16</i> ; οἱ Σωκρατικοί, LUC. <i>Am. 23,</i> les philosophes de l’école de Socrate, les philosophes socratiques.<p><b>Étym</b>. Σωκράτης.`

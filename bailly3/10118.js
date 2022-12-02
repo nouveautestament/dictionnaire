@@ -1,0 +1,1 @@
+lar[10118]=`<b>ἀντι·νήχομαι</b>, nager contre <i>ou</i> en remontant, PLUT. <i>M. 379b</i>.`

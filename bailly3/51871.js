@@ -1,0 +1,1 @@
+lar[51871]=`<b>ου (ὁ)</b> <i>surn. de Zeus, c</i>. ἐπικάρπιος, STOB. <i>Ecl. phys. p. 88</i>.`

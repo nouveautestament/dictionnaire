@@ -1,0 +1,1 @@
+lar[66986]=`<b>ονος (ὁ)</b> Mygdôn :<br><b>      1</b> <i>roi de Phrygie,</i> IL. <i>3, 186</i> ; EUR. <i>Rhes. 539</i>.<br><b>      2</b> <i>autres,</i> Ps.-PLUT. <i>Fluv. 12, 1, etc</i>.`

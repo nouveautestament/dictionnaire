@@ -1,0 +1,1 @@
+lar[3256]=`<b>ἀ·κείρατος, ος, ον</b> <font color="purple">[ᾰ]</font> non coupé, CHŒRIL. (ARSTT. <i>Rhet. 3, 14).</i><p><b>Étym</b>. ἀ, κείρω.`

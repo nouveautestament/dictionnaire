@@ -1,0 +1,1 @@
+lar[103288]=`<b>ὑπο·θωρήσσω</b> <font color="darkgreen">(<i>impf. pass. 3 pl</i>. ὑπεθωρήσσοντο)</font> armer secrètement, IL. <i>18, 513</i>.<p><b>Étym</b>. ὑ. θωρήσσω, <i>ion. p</i>. θωράσσω.`

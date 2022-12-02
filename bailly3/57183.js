@@ -1,0 +1,1 @@
+lar[57183]=`<b>κορυνάω-ῶ</b>, produire des rejetons noueux <i>ou</i> de grosses touffes de fleurs, TH. <i>H.P. 4, 12, 2</i>.<p><b>Étym</b>. κορύνη.`

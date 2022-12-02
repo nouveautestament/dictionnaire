@@ -1,0 +1,1 @@
+lar[89701]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Sélagos, <i>Troyen,</i> IL. <i>5, 612</i>.`

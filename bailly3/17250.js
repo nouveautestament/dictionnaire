@@ -1,0 +1,1 @@
+lar[17250]=`<i>adv.</i> :<br><b>      1</b> en s’accroissant, PHIL. <i>1, 492</i>.<br><b>      2</b> par amplification, LGN <i>38, 2</i>.`

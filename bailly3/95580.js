@@ -1,0 +1,1 @@
+lar[95580]=`<b>συν·έπεια, ας (ἡ)</b> suite de mots <i>ou</i> de vers, contexte, DH. <i>Comp. 23</i> ; DYSC. <i>Synt. p. 41, 25, etc</i>.<p><b>Étym</b>. σ. ἔπος.`

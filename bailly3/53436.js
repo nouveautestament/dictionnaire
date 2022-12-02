@@ -1,0 +1,1 @@
+lar[53436]=`<b>κατά·στεγνος, ος, ον</b>, complètement fermé, MYIA <i>Ep. 12, p. 608, Pythagoreorum epistulæ, Herscher</i>.<p><b>Étym</b>. κ. στεγνός.`

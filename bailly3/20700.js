@@ -1,0 +1,1 @@
+lar[20700]=`<b>βραχυ·λογέω-ῶ</b> <font color="purple">[ᾰῠ]</font> parler brièvement, dire en peu de mots, PLUT. <i>M. 193d, 545b</i>.<p><b>Étym</b>. βραχυλόγος.`

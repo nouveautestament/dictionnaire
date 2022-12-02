@@ -1,0 +1,1 @@
+lar[63902]=`<b>μελανό·φαιος, ος, ον</b> <font color="purple">[ᾰ]</font> d’un noir brun : τὰ μελανόφαια, ATH. <i>78a</i>, sorte de figues.<p><b>Étym</b>. μ. φαιός.`

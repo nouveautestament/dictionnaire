@@ -1,0 +1,1 @@
+lar[44146]=`<b>οῦ (ὁ)</b> homme insolent, PTOL. <i>Tetr. 165</i>.<p><b>Étym</b>. ἐφυβρίζω.`

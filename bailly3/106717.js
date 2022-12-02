@@ -1,0 +1,1 @@
+lar[106717]=`<b>ας (ἡ)</b> perception d’une taxe, impôt, SPT. <i>1Macc. 1, 29, etc.</i> ; PHIL. <i>2, 326</i>.<p><b>Étym</b>. φορολόγος.`

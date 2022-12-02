@@ -1,0 +1,1 @@
+lar[3527]=`<b>ἀ·κόνδυλος, ος, ον</b> <font color="purple">[ῠ]</font> sans coups de poing, LUC. <i>Char. 2</i>.<p><b>Étym</b>. ἀ, κόνδυλος.`

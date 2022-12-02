@@ -1,0 +1,1 @@
+lar[18339]=`(<i>seul. prés</i>.) rendre muet, ARSTT. <i>Probl. 19, 16</i>.<p><b>Étym</b>. ἄφωνος.`

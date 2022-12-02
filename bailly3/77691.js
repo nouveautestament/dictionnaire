@@ -1,0 +1,1 @@
+lar[77691]=`<b>εως (ἡ) :<br>      1</b> <i>t. de méd</i>. affection, HPC. <i>408, 26</i>.<br><b>      2</b> <i>t. de phil</i>. affection de l’âme, passion, PHIL. <i>1, 617</i> ; SEXT. <i>M. 7, 383, etc</i>.<p><b>Étym</b>. <i>p</i>. *πένθσις, <i>de</i> πάσχω, πείσομαι.`

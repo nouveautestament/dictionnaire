@@ -1,0 +1,1 @@
+lar[7578]=`<b>εως (ἡ)</b> action d’engloutir avec bruit, EUM. <i>p. 170</i>.`

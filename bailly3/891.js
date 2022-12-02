@@ -1,0 +1,1 @@
+lar[891]=`<i>adv</i>., au retour de la chasse, A.RH. <i>2, 938</i>.<p><b>Étym</b>. ἄγρα, -θεν.`

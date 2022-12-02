@@ -1,0 +1,1 @@
+lar[34261]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Endymion, <i>jeune chasseur d’Élide ou de Carie, aimé de Sélènè,</i> PLAT. <i>Phæd. 72b ;</i> ARSTT. <i>Nic. 10, 8, 7</i> ; THCR. <i>Idyl. 3, 49, etc.</i> ; PLUT. <i>Num. 4, etc. ; sel. qqes mythographes, divinité solaire personnifiant le soleil couchant, litt</i>. « celui qui plonge » <i>dans l’Océan, de</i> ἐνδύω.`

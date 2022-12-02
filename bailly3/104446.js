@@ -1,0 +1,1 @@
+lar[104446]=`<b>ὑψηλο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font> planer (<i>litt</i>. marcher) dans les régions supérieures, CHRYS.<p><b>Étym</b>. ὑ. βαίνω.`

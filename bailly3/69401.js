@@ -1,0 +1,1 @@
+lar[69401]=`<b>ατος (τὸ)</b> laine cardée, SOPH. <i>fr. 915</i>.<p><b>Étym</b>. ξαίνω.`

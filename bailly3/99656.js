@@ -1,0 +1,1 @@
+lar[99656]=`<b>ή, όν :<br>      1</b> qui concerne l’art du graveur <i>ou</i> du ciseleur : ἡ τορευτική (<i>s.-e</i>. τέχνη) <i>lat</i>. toreutice, PLIN. <i>H.N. 34, 19, 1,</i> l’art de la gravure, de la ciselure en creux <i>ou</i> en relief.<br><b>      2</b> <i>subst</i>. ὁ τ. CLÉM. <i>330,</i> graveur, ciseleur.<p><b>Étym</b>. τορεύω.`

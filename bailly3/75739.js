@@ -1,0 +1,1 @@
+lar[75739]=`<b>παρα·κλείω :<br>      1</b> exclure, HDT. <i>6, 60</i>.<br><b>      2</b> enfermer, SPT. <i>2Macc. 4, 34</i>.<p>➳ <i>Ion</i>. παρακληΐω, HDT. <i>l.c</i>.`

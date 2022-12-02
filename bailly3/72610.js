@@ -1,0 +1,1 @@
+lar[72610]=`<b>ὀρει·τρεφής, ής, ές</b>, nourri dans les montagnes, ORACL. (LUC. <i>Alex. 48</i>) ; TRIPHIOD. <i>193</i>.<p><b>Étym</b>. ὄρος, τρέφω.`

@@ -1,0 +1,1 @@
+lar[2762]=`<b>αἰολό·μυθος, ος, ον</b> <font color="purple">[ῡ]</font> au langage changeant, fourbe, NONN. <i>D. 8, titre</i>.<p><b>Étym</b>. αἰ. μῦθος.`

@@ -1,0 +1,1 @@
+lar[20179]=`<b>ου (ὁ)</b> taureau sauvage, bison, ARSTT. <i>H.A. 2, 1, 35, etc</i>.`

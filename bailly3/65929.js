@@ -1,0 +1,1 @@
+lar[65929]=`<b>*μιξ·οδία</b>, <i>ion</i>. <b>μιξ·οδίη, ης (ἡ)</b> passage entre deux écueils (Charybde et Scylla) A.RH. <i>4, 921</i>.<p><b>Étym</b>. μ. ὁδός.`

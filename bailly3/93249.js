@@ -1,0 +1,1 @@
+lar[93249]=`<b>συγ·κακουχέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être maltraité avec <i>ou</i> de même que, <i>dat</i>. NT. <i>Hebr. 11, 25</i>.`

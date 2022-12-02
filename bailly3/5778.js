@@ -1,0 +1,1 @@
+lar[5778]=`sans goût, sans grâce, PLAT. <i>Hipp. ma. 292c ;</i> PLUT. <i>M. 67f, etc</i>.`

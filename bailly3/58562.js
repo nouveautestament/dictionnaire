@@ -1,0 +1,1 @@
+lar[58562]=`<i>adv</i>., tout autour, en cercle, <i>avec mouv</i>. IL. <i>4, 212 ; 17, 392</i> ; EL. <i>N.A. 1, 46</i>.<p><b>Étym</b>. κύκλος, -σε.`

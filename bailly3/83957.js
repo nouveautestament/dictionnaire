@@ -1,0 +1,1 @@
+lar[83957]=`<b>προ·διαχαράσσω</b> <font color="purple">[χᾰ]</font> graver, <i>d’où</i> figurer auparavant, CHRYS.`

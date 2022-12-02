@@ -1,0 +1,1 @@
+lar[4243]=`<b>Ἀλέξ·αρχος, ου (ὁ)</b> Alexarkhos, THC. <i>7, 19</i> ; PLUT. <i>Parall. min. 7</i>.<p><b>Étym</b>. ἀλέξω, ἀρχή.`

@@ -1,0 +1,1 @@
+lar[87962]=`<b>πύρ·πνοος-ους, οος-ους, οον-ουν</b>, <i>c</i>. πυρίπνοος, ESCHL. <i>Pr. 371 ; Sept. 493, 511</i> ; EUR. <i>El. 474, etc.</i> ; π. βέλος, ESCHL. <i>Pr. 917,</i> le trait enflammé, <i>càd</i>. la foudre lancée.<p><b>Étym</b>. <i>cf</i>. πυρπνέων.`

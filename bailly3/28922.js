@@ -1,0 +1,1 @@
+lar[28922]=`<b>δυσ·τιθάσευτος, ος, ον</b> <font color="purple">[ῐ]</font> difficile à apprivoiser, STR. <i>705</i> ; PLUT. <i>M. 529b ;</i> ARTÉM. <i>2, 46 ; 3, 12</i>.<p><b>Étym</b>. δ. τιθασεύω.`

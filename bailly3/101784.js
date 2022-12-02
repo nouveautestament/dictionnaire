@@ -1,0 +1,1 @@
+lar[101784]=`<b>ὑμεν·όστρακος, ος, ον</b> <font color="purple">[ῠᾰ]</font> muni d’une écaille membraneuse, LUC. <i>Lex. 7</i>.<p><b>Étym</b>. ὑμήν, ὄστρακον.`

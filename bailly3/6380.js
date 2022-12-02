@@ -1,0 +1,1 @@
+lar[6380]=`<b>ἀμφί·στροφος, ος, ον</b>, balancé par les flots, ESCHL. <i>Suppl. 882</i>.<p><b>Étym</b>. ἀ. στρέφω.`

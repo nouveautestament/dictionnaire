@@ -1,0 +1,1 @@
+lar[61091]=`<b>ός, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui sert à travailler la pierre, THC. <i>4, 4</i>.<br><b>      2</b> ὁ λ. tailleur de pierres, THC. <i>4, 69 ; ou</i> sculpteur, ARSTT. <i>Nic. 6, 7, 1</i>.<p><b>Étym</b>. λ. ἔργον.`

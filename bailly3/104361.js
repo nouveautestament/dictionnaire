@@ -1,0 +1,1 @@
+lar[104361]=`<b>ὑφ·απλόω-ῶ</b> <font color="purple">[ῠ]</font> étendre dessous, HÉRACLITE GRAMM. <i>All. Hom. 39 ; fig</i>. THÉM. <i>279d</i>.`

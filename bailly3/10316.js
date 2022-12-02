@@ -1,0 +1,1 @@
+lar[10316]=`<b>ή, όν</b>, qui agit à l’encontre, adversaire, M. ANT. <i>2, 1</i>.<p>•<i> Cp</i>. -ώτερος, ORIB. <i>1, 141 B.-Dar</i>.<p><b>Étym</b>. ἀντιπράσσω.`

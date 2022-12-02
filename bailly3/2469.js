@@ -1,0 +1,1 @@
+lar[2469]=`<b>Αἶθ·οψ, οπος (ὁ)</b> Æthops :<br><b>      1</b> <i>cheval du Soleil,</i> EUR. (ATH. <i>465b</i>).<br><b>      2</b> <i>h</i>. Q. SM. <i>2, 247</i>.`

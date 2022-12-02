@@ -1,0 +1,1 @@
+lar[88044]=`<b>πυρ·ώπης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. de couleur rouge, ardent, OPP. <i>C. 2, 317</i>.<p><b>Étym</b>. πῦρ, ὤψ.`

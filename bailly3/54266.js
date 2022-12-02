@@ -1,0 +1,1 @@
+lar[54266]=`<b>οῦ (ὁ)</b> maladie que la trop grande chaleur cause aux arbres, TH. <i>H.P. 4, 14, 11, etc</i>.<p><b>Étym</b>. καίω.`

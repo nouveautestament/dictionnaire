@@ -1,0 +1,1 @@
+lar[66781]=`<b>ας</b>, <i>adj. f</i>. qui donne une forme, EUR. <i>Tr. 437</i>.<p><b>Étym</b>. μορφόω.`

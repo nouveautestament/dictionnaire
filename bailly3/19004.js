@@ -1,0 +1,1 @@
+lar[19004]=`<b>οῦ (ὁ)</b> <font color="purple">[σᾰ]</font> qui travaille l’essence <i>ou</i> la résine du baumier, qui prépare le baume, PALL.<p><b>Étym</b>. βάλσαμον, ἔργον.`

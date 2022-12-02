@@ -1,0 +1,1 @@
+lar[87220]=`<b>ας (ἡ)</b> droit de parler le premier dans une cause, DÉMAD. <i>178, 46</i> ; RHÉT. <i>2, 378 W., etc</i>.<p><b>Étym</b>. πρωτολόγος.`

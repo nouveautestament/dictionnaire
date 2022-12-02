@@ -1,0 +1,1 @@
+lar[29687]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui produit des fluctuations intérieures, HPC. <i>394, 41</i>.<p><b>Étym</b>. ἐγκλυδάζομαι.`

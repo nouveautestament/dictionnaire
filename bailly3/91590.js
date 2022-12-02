@@ -1,0 +1,1 @@
+lar[91590]=`<b>Σολύγιος λόφος (ὁ)</b> colline de Solygeia, THC. <i>4, 42</i>.<p><b>Étym</b>. <i>v</i>. Σολύγεια.`

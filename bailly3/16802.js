@@ -1,0 +1,1 @@
+lar[16802]=`<b>ἀ·τίθασος, ος, ον</b> <font color="purple">[ῐᾰ]</font> non apprivoisé, sauvage, HDN <i>5, 6, 21</i> ; PHIL.<p><b>Étym</b>. ἀ, τιθασός.`

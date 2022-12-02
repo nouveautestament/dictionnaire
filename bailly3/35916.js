@@ -1,0 +1,1 @@
+lar[35916]=`<b>ας (ἡ) :<br>      1</b> glorification, louange, SPT. <i>Job 33, 26</i>.<br><b>      2</b> confession, SPT. <i>Job 22, 22</i>.<p><b>Étym</b>. ἐξαγορεύω.`

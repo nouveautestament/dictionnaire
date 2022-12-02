@@ -1,0 +1,1 @@
+lar[93196]=`<b>σύγ·γηρος, ος, ον</b>, compagnon de vieillesse, ANTH. <i>7, 260, 635</i>.<p><b>Étym</b>. σ. γῆρας.`

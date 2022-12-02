@@ -1,0 +1,1 @@
+lar[9816]=`<b>ἀντι·δαπανάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> dépenser à son tour <i>ou</i> en échange, LIB. <i>Ep. 763</i>.`

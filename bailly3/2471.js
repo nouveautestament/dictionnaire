@@ -1,0 +1,1 @@
+lar[2471]=`<b>ας (ἡ)</b> Æthra :<br><b>   I</b> <i>n. de f.</i> :<br><b>      1</b> <i>mère de Thésée,</i> IL. <i>3, 144</i> ; PLUT. <i>Thes. 3</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>60, 29 Baiter-Sauppe</i>.<br><b>   II</b> <i>v. de l’Inde,</i> NONN. <i>D. 26, 85</i>.<p>➳ <i>Ion. et épq</i>. Αἴθρη, IL. <i>l. c</i>.`

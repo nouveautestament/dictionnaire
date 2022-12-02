@@ -1,0 +1,1 @@
+lar[88013]=`<b>ῆρος (ὁ)</b> qui fait chauffer, ARÉT. <i>Caus. m. diut. 1, 11</i>.<p><b>Étym</b>. πυρσεύω.`

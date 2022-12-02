@@ -1,0 +1,1 @@
+lar[42510]=`<b>ἐΰ·κρημνος, ος, ον</b>, aux précipices profonds, OPP. <i>C. 3, 251</i>.<p><b>Étym</b>. εὖ, κρημνός.`

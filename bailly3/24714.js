@@ -1,0 +1,1 @@
+lar[24714]=`<b>δια·καθαίρω</b> <font color="purple">[κᾰ]</font><br><b>      1</b> purifier, purger à fond, AR. <i>Eccl. 847</i> ; PLAT. <i>Rsp. 399e.</i><br><b>      2</b> émonder, TH. <i>H.P. 2, 7, 2</i>.<br><b><i>Moy.</i></b> purifier complètement, PLAT. <i>Leg. 735c</i>.`

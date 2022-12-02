@@ -1,0 +1,1 @@
+lar[25776]=`<b>ή, όν</b> <font color="purple">[ῐβ]</font> qui sent l’école, scolastique, POL. <i>Exc. p. 395, Mai</i>.<p><b>Étym</b>. διατριβή.`

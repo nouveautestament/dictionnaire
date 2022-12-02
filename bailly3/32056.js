@@ -1,0 +1,1 @@
+lar[32056]=`<b>ἔκ·σπονδος, ος, ον :<br>      1</b> exclu d’un traité, THC. <i>3, 68</i> ; XÉN. <i>Hell. 5, 1, 32</i> ; DÉM. <i>355, 6</i> ; ἔ. τῶν συνθηκῶν, POL. <i>22, 13, 5, m. sign.</i><br><b>      2</b> contraire aux clauses d’un traité, DH. <i>2, 72</i>.<p><b>Étym</b>. ἐκ, σπονδή.`

@@ -1,0 +1,1 @@
+lar[74429]=`<b>παλαιο·τόκος, ος, ον</b> <font color="purple">[ᾰ]</font> qui n’a pas eu d’enfants depuis longtemps, ARÉT. <i>Cur. m. acut. 2, 3</i>.<p><b>Étym</b>. παλαιός, τίκτω.`

@@ -1,0 +1,1 @@
+lar[20230]=`<b>*βορεύς (ὁ)</b> (<i>seul. aux formes épq. gén</i>. βορῆος, NONN. <i>D. 7, 442, etc.</i> ; ANTH. <i>4, 3 ; dat</i>. βορῆϊ, NONN. <i>D. 12, 316 ; acc</i>. βορῆα, NONN. <i>D. 1, 228 ; 2, 688, etc.) et au nom. plur</i>. βορεῖς, ALCIPHR. <i>1, 1, c</i>. βορέας.`

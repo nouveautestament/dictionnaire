@@ -1,0 +1,1 @@
+lar[70239]=`<b>ίδος</b>, <i>adj. f</i>. d’Œagros : κῶραι Οἰαγρίδες, MOSCH. <i>3, 17,</i> les jeunes filles d’Œagros, <i>càd</i>. les Muses.<p><b>Étym</b>. Οἴαγρος.`

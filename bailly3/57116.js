@@ -1,0 +1,1 @@
+lar[57116]=`<b>ου (ὁ)</b> ordure, immondice (<i>propr</i>. ce qu’on balaye) <i>dans la loc</i>. βάλλ' ἐς κόρον, MÉN. (ATH. <i>446d</i>) va-t’en aux ordures, à la voirie.<p><b>Étym</b>. κορέω¹.`

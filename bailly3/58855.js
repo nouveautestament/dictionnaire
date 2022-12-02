@@ -1,0 +1,1 @@
+lar[58855]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> <i>sup. dér. de</i> κύντατος EUB. <i>fr. 85 Kock</i>.`

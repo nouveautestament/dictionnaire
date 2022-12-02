@@ -1,0 +1,1 @@
+lar[68654]=`<b>οῦ (ὁ)</b> jeûneur, BAS. <i>3, 172d Migne</i>.<p><b>Étym</b>. νηστεύω.`

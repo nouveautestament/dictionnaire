@@ -1,0 +1,1 @@
+lar[45481]=`<b>ἡμι·μάραντος, ος, ον</b> <font color="purple">[ῐμᾰ]</font> à moitié flétri, LUC. <i>Tox. 13</i> ; ALCIPHR. <i>3, 62</i>.<p><b>Étym</b>. ἡμι-, μαραίνω.`

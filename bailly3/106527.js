@@ -1,0 +1,1 @@
+lar[106527]=`<b>η, ον</b>, clair, brillant, <i>en parl. de flamme,</i> ESCHL. <i>Pr. 22 ; ou d’eau,</i> HÉS. <i>fr. 78 Gaisford</i> ; LYC. <i>1009, etc</i>.<p><b>Étym</b>. <i>inconnue ; cf</i>. Φοῖβος.`

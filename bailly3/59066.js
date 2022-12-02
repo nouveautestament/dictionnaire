@@ -1,0 +1,1 @@
+lar[59066]=`<b>έως (ὁ)</b> Kykhrée, <i>roi de Salamine,</i> PLUT. <i>Thes. 10, etc</i>.`

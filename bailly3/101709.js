@@ -1,0 +1,1 @@
+lar[101709]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> broussailles, taillis, <i>toute plante tenant le milieu entre un arbrisseau</i> (θάμνος) <i>et une herbe</i> (βοτάνη) TH. <i>H.P. 1, 5, 3, etc. ; 4, 2, 11 ; 4, 4, 5</i> ; PLUT. <i>M. 51d, 911e, 917e</i>.<p><b>Étym</b>. ὕλη.`

@@ -1,0 +1,1 @@
+lar[93386]=`<b>συγ·καταφεύγω</b>, s’enfuir <i>ou</i> se réfugier ensemble, DC. <i>38, 33</i> ; ATH. <i>593b</i>.`

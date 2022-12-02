@@ -1,0 +1,1 @@
+lar[56500]=`<b>ου (ὁ)</b> = <i>lat</i>. Quintius, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 17, etc. ; au plur</i>. Κοΐντιοι, PLUT. <i>Arist. c. Cat. ma. 1,</i> les Quintius.`

@@ -1,0 +1,1 @@
+lar[4339]=`<b>ἀληθό·μυθος, ος, ον</b> <font color="purple">[ᾰῡ]</font> qui dit la vérité, DÉMOCR. <i>p. 627 Gal</i>.<p><b>Étym</b>. ἀληθής, μυθέω.`

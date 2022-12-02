@@ -1,0 +1,1 @@
+lar[96788]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτῐδ]</font> sorte de cyprès de forme sphérique, GAL.<p><b>Étym</b>. σφαῖρα.`

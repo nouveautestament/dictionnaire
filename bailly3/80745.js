@@ -1,0 +1,1 @@
+lar[80745]=`<b>πλατυ·ίσχιος, ος, ον</b> <font color="purple">[ᾰ]</font> aux larges hanches, GAL. <i>4, 629</i>.<p><b>Étym</b>. πλ. ἰσχίον.`

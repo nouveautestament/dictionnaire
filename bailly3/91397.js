@@ -1,0 +1,1 @@
+lar[91397]=`<b>σκωληκό·βρωτος, ος, ον :<br>      1</b> mangé des vers, NT. <i>Ap. 12, 23</i>.<br><b>      2</b> piqué des vers, TH. <i>C.P. 5, 9, 1</i>.<p><b>Étym</b>. σκώληξ, βιβρώσκω.`

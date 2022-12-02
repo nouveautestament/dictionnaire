@@ -1,0 +1,1 @@
+lar[98275]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Τεμπικός NIC. <i>Al. 199</i>.`

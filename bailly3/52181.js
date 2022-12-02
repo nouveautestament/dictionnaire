@@ -1,0 +1,1 @@
+lar[52181]=`<b>οῦ (ὁ)</b> action d’avaler, d’engloutir, CLÉM. <i>185</i>.<p><b>Étym</b>. καταβροχθίζω.`

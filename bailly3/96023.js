@@ -1,0 +1,1 @@
+lar[96023]=`<font color="purple">[ῐ]</font> <i>épq. c</i>. συνῄεσαν, <i>3 pl. impf. de</i> σύνειμι², <i>ou c</i>. συνῄδεσαν, <i>3 pl. de</i> συνῄδειν, <i>pl.q.pf. de</i> σύνοιδα.`

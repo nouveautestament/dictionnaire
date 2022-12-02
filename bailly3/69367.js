@@ -1,0 +1,1 @@
+lar[69367]=`<b>      1 <i>tr.</i></b> rendre jaune <i>ou</i> blond, <i>au pass</i>. être blond, DH. <i>7, 9 ; particul</i>. dorer par la cuisson, AR. <i>Ach. 1047</i>.<br><b>      2 <i>intr.</i></b> être jaune <i>ou</i> blond, ALCIPHR. <i>fr. 5, 4</i>.<br><b><i>Moy.</i></b> se teindre les cheveux de façon à les rendre blonds, ATH. <i>542d</i>.<p><b>Étym</b>. ξανθός.`

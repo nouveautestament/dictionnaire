@@ -1,0 +1,1 @@
+lar[75062]=`<b>ων (τὰ)</b> <font color="purple">[ᾰν]</font> <i>c</i>. πλήσμια, DINOLOCH. (ATH. <i>111c</i>).`

@@ -1,0 +1,1 @@
+lar[41824]=`<i>adv</i>., heureusement, dans le bonheur, EUR. <i>Or. 601</i> ; AR. <i>Pl. 802, etc</i>.<p>•<i> Cp</i>. -ονέστερον, XÉN. <i>An. 3, 1, 43</i> ; PLAT. <i>Leg. 734 d. • Sup</i>. -ονέστατα, XÉN. <i>Cyr. 7, 2, 20</i> ; PLAT. <i>Leg. 710b</i>.<p><b>Étym</b>. εὐδαίμων.`

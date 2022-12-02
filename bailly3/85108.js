@@ -1,0 +1,1 @@
+lar[85108]=`<b>προσ·ακοντίζω</b> <font color="purple">[ᾰ]</font> frapper d’un javelot, d’un trait, LUC. <i>D. mer. 12, 1</i>.`

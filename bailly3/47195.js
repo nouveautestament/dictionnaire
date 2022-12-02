@@ -1,0 +1,1 @@
+lar[47195]=`<b>θηλύ·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ]</font> qui a les sentiments (<i>propr</i>. l’esprit) d’une femme, ESCHL. <i>Pr. 1003</i>.<p><b>Étym</b>. θ. νόος.`

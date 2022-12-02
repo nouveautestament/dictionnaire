@@ -1,0 +1,1 @@
+lar[3295]=`<b>*ἀκεσί·νοσος</b>, <i>poét</i>. <b>ἀκεσσί·νοσος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui guérit la maladie, ANTH. <i>5, 516 conj</i>.<p><b>Étym</b>. ἀκέομαι, νόσος.`

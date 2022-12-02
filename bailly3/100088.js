@@ -1,0 +1,1 @@
+lar[100088]=`<b>τριακοντά·χοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾱᾰ]</font> qui rapporte (<i>litt</i>. qui verse trente fois autant) TH. <i>H.P. 8, 3, 8</i> ; STR. <i>311</i>.<p><b>Étym</b>. τρ. χέω.`

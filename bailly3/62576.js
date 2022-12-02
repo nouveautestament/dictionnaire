@@ -1,0 +1,1 @@
+lar[62576]=`<b>μακρο·φάρυγξ, υγγος (ὁ, ἡ)</b> <font color="purple">[φᾰ]</font> au long goulot, ANTH. <i>9, 229</i>.`

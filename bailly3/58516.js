@@ -1,0 +1,1 @@
+lar[58516]=`<b>κυκανάω-ῶ</b> <font color="purple">[ῠκᾰ]</font> <i>c</i>. κυκάω AR. <i>Th. 552</i>.`

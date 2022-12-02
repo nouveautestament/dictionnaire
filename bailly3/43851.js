@@ -1,0 +1,1 @@
+lar[43851]=`<b>εὔ·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> très frais, froid, TH. <i>C.P. 5, 14, 1, au cp</i>. -ότερος.<p><b>Étym</b>. εὖ, ψῦχος.`

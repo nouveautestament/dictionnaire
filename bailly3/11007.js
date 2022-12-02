@@ -1,0 +1,1 @@
+lar[11007]=`<b>ἀοιδο·μάχος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui dispute le prix du chant <i>ou</i> de la poésie, ANTH. <i>11, 140</i>.<p><b>Étym</b>. ἀοιδή, μάχομαι.`

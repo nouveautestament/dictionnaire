@@ -1,0 +1,1 @@
+lar[15034]=`<b>οῦ (ὁ) :<br>      1</b> rapt, vol, PLUT. <i>M. 12a.</i><br><b>      2</b> butin, <i>d’où</i> ἁρπαγμὸν ποιεῖσθαί τι, NT. <i>Phil. 2, 6,</i> faire de qqe ch. son bien, sa propriété ; <i>p. suite,</i> s’attacher à qqe ch. comme à une prérogative.<p><b>Étym</b>. ἁρπάζω.`

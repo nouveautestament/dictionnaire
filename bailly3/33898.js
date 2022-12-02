@@ -1,0 +1,1 @@
+lar[33898]=`<b>ητος (ἡ)</b> opposition, contradiction, PLAT. <i>Phæd. 105a, etc.</i> ; ARSTT. <i>Interpr. 11, 10</i>.<p><b>Étym</b>. ἐναντίος.`

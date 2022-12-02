@@ -1,0 +1,1 @@
+lar[38063]=`<b>ἐπι·κλιβάνιος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui préside au four (Artémis) CARNÉAD. (SEXT. <i>M. 9, 185).</i><p><b>Étym</b>. ἐπί, κλίβανος.`

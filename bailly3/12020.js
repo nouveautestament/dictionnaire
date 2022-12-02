@@ -1,0 +1,1 @@
+lar[12020]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑ]</font> qui n’est pas gras, DIPH. (ATH. <i>120f</i>).`

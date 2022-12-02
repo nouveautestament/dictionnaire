@@ -1,0 +1,1 @@
+lar[60618]=`<b>λευκό·τροφος, ος, ον</b>, qui produit (<i>propr</i>. qui nourrit) une fleur blanche, AR. <i>Av. 1100</i>.<p><b>Étym</b>. λ. τρέφω.`

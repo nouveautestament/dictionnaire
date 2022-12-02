@@ -1,0 +1,1 @@
+lar[72792]=`<b>ας (ἡ)</b> Orthôsia, <i>ép. d’Artémis,</i> PD. <i>O. 3, 52</i> ; HDT. <i>4, 87</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.<p><b>Étym</b>. Ὀρθία.`

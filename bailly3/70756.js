@@ -1,0 +1,1 @@
+lar[70756]=`<b>οῦ (ὁ)</b> celui qui tire des présages du vol <i>ou</i> du cri des oiseaux, augure, IL. <i>2, 858 ; 13, 70 ; 17, 218</i> ; HÉS. <i>Sc. 185</i>.<p><b>Étym</b>. οἰωνίζομαι.`

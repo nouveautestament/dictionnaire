@@ -1,0 +1,1 @@
+lar[42616]=`<b>εὔ·λοφος, ος, ον :<br>      1</b> qui a une belle aigrette, SOPH. <i>Aj. 1286</i> ; HLD. <i>7, 5</i>.<br><b>      2</b> docile au joug, patient, LYC. <i>776</i>.<br><b>      3</b> au cou robuste, ANON. (SUID.).<p><b>Étym</b>. εὖ, λόφος.`

@@ -1,0 +1,1 @@
+lar[12497]=`<b>ή, όν</b> <font color="purple">[κᾰ]</font> qui révèle, qui découvre, <i>gén</i>. CLÉM. <i>98</i>.<p><b>Étym</b>. ἀποκαλύπτω.`

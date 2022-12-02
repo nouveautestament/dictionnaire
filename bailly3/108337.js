@@ -1,0 +1,1 @@
+lar[108337]=`<b>ατος (τὸ) :<br>      1</b> ouvrage fait de mailles, SOPH. <i>fr. 431</i>.<br><b>      2</b> aiguille à faire du filet, POÈT. (POLL. <i>7, 83 ; 10, 141).</i><p><b>Étym</b>. χηλεύω.`

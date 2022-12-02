@@ -1,0 +1,1 @@
+lar[86524]=`<b>προσ·υβρίζω</b>, outrager en outre <i>ou</i> encore plus, DÉM. <i>524, 24, etc</i>.`

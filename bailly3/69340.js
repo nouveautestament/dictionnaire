@@ -1,0 +1,1 @@
+lar[69340]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> <i>autre n. du poisson</i> ἐπινωτιδεύς, ARSTT. (ATH. <i>204d</i>).<p><b>Étym</b>. νῶτος.`

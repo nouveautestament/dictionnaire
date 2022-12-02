@@ -1,0 +1,1 @@
+lar[3740]=`<b>ἀκρο·βαρέω</b> (<i>seul. part. ao. neutre</i> ἀκροβαρῆσαν) <font color="purple">[βᾰ]</font> être trop lourd à l’extrémité supérieure, APD. POL. <i>28</i>.<p><b>Étym</b>. ἄκρος, βάρος.`

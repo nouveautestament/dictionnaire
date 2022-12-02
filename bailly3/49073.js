@@ -1,0 +1,1 @@
+lar[49073]=`prendre des oiseaux à la glu, CHRYS. <i>1, 603 ; fig</i>. CHRYS. <i>7, 340 ; 8, 1</i>.<p><b>Étym</b>. ἰξός.`

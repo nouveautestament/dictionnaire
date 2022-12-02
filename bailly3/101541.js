@@ -1,0 +1,1 @@
+lar[101541]=`<b>ὑδρο·ειδής, ής, ές</b>, qui a l’apparence de l’eau, EUR. <i>Rhes. 353</i>.<p><b>Étym</b>. ὕδ. εἶδος.`

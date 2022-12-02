@@ -1,0 +1,1 @@
+lar[59839]=`<b>ή, όν</b> <font color="purple">[λᾰ]</font> faible, mou, ESCHL. <i>Eum. 562 conj</i>.<p><b>Étym</b>. <i>cf</i>. λαπάζω.`

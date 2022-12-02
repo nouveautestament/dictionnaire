@@ -1,0 +1,1 @@
+lar[73167]=`<b>ὀρχιπεδάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ὠρχιπέδησα)</font> <font color="purple">[ῐ]</font> empoigner par les bourses, AR. <i>Av. 142 (vulg</i>. ὠρχιπέδισας).<p><b>Étym</b>. ὀρχιπέδη.`

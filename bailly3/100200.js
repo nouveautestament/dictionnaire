@@ -1,0 +1,1 @@
+lar[100200]=`<b>ος, ον</b>, de Triéphôn, LUC. <i>Philopatr. 1</i>.<p><b>Étym</b>. <i>v</i>. Τριεφῶν.`

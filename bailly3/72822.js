@@ -1,0 +1,1 @@
+lar[72822]=`<b>ὁριο·θετέω-ῶ</b>, poser des limites, AQU. <i>Deut. 19, 41</i>.<p><b>Étym</b>. ὅριον, θετός.`

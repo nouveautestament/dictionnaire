@@ -1,0 +1,1 @@
+lar[41312]=`<i>adv</i>., avec plus de zèle d’un côté que d’un autre, avec partialité, HÉS. <i>Th. 544</i>.`

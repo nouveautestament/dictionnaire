@@ -1,0 +1,1 @@
+lar[93320]=`<b>συγ·κατακολουθέω-ῶ</b> <font color="purple">[ᾰκ]</font> accompagner, <i>dat</i>. STR. <i>809</i>.`

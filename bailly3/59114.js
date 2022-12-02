@@ -1,0 +1,1 @@
+lar[59114]=`<b>κωθωνο·ποιός, οῦ (ὁ)</b> fabricant de grandes coupes <i>ou</i> de tasses, DIN. (POLL. <i>7, 160).</i><p><b>Étym</b>. κώθων, ποιέω.`

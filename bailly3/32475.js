@@ -1,0 +1,1 @@
+lar[32475]=`<b>ου (τὸ)</b> <i>c</i>. ἐλαιουργεῖον ARSTT. <i>Pol. 1, 11, 9</i>.<p><b>Étym</b>. <i>gén. pl</i>. -ίων ; <i>sel. d’autres,</i> -είων, <i>ou</i> ἐλαιουργῶν, <i>de</i> ἐλαιουργός, qui cultive l’olivier.`

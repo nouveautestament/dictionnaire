@@ -1,0 +1,1 @@
+lar[3794]=`<b>ἀκρό·λινος, ος, ον</b> <font color="purple">[ῐ]</font> qui est à l’extrémité du filet, OPP. <i>C. 4, 383</i>.<p><b>Étym</b>. ἄ. λίνον.`

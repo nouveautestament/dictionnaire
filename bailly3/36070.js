@@ -1,0 +1,1 @@
+lar[36070]=`<b>ἐξ·όζω :<br>      1</b> exhaler une odeur, sentir, THCR. <i>Idyl. 20, 10</i>.<br><b>      2</b> se distinguer par l’odeur de, <i>gén</i>. TH. <i>Od. 20 (sel. d’autres, m. sign. que</i> 1).<p>➳ <i>Prés. dor. 2 sg</i>. ἐξόσδεις, THCR. <i>Idyl. l. c</i>.`

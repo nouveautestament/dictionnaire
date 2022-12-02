@@ -1,0 +1,1 @@
+lar[104463]=`<b>ὑψηλο·φυής, ής, ές</b>, <i>au cp</i>. -έστερος, qui croît en hauteur, qui pousse haut, TH. <i>H.P. 3, 12, 3</i>.<p><b>Étym</b>. ὑ. φύω.`

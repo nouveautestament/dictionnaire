@@ -1,0 +1,1 @@
+lar[57107]=`<b>κορο·κόσμιον, ου (τὸ)</b> parure <i>ou</i> jouet de jeune fille, CLÉM. <i>51</i>.<p><b>Étym</b>. κόρη, κόσμος.`

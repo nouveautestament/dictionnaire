@@ -1,0 +1,1 @@
+lar[58883]=`<i>att</i>. <b>-ιττος, ου (ἡ)</b> <font color="purple">[ῠᾰ]</font> cyprès, <i>arbre,</i> OD. <i>5, 64</i> ; PD. <i>fr. 126</i> ; HDT. <i>4, 75</i> ; TH. <i>H.P. 1, 8, 2, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

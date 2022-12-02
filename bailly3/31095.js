@@ -1,0 +1,1 @@
+lar[31095]=`<b>εως (ἡ)</b> germination, sortie des bourgeons, des feuilles, GEOP. <i>3, 25, 1</i>.<p><b>Étym</b>. ἐκβλαστάνω.`

@@ -1,0 +1,1 @@
+lar[89224]=`<b>ου (ὁ)</b> Salynthios, <i>roi des Agræes en Acarnanie,</i> THC. <i>3, 111, 114 ; 4, 77</i>.`

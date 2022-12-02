@@ -1,0 +1,1 @@
+lar[65603]=`<b>μηχανορραφέω-ῶ</b> <font color="purple">[ᾰᾱ]</font> tramer des intrigues, ESCHL. <i>Ch. 221</i>.<p><b>Étym</b>. μηχανορράφος.`

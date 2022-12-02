@@ -1,0 +1,1 @@
+lar[104831]=`<b>Φανό·στρατος, ου (ὁ)</b> <font color="purple">[ᾰτ]</font> Phanostratos, <i>h</i>. IS. <i>56, 12</i> ; DÉM. <i>1258, 23</i>.<p><b>Étym</b>. φαίνω, στρατός.`

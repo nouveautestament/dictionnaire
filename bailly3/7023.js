@@ -1,0 +1,1 @@
+lar[7023]=`<b>ου (ὁ)</b> <i>autre n. de la pierre</i> γαλακτίτης, ORPH. <i>Lith. 192</i>.`

@@ -1,0 +1,1 @@
+lar[76635]=`<b>παρ·έκ·τισις, εως (ἡ)</b> <font color="purple">[τῐ]</font> expiation, BAS.<p><b>Étym</b>. π. ἐκ, τίω.`

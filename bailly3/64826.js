@@ -1,0 +1,1 @@
+lar[64826]=`<b>ου (τὸ)</b> lieu d’où l’on extrait les métaux, mine, DS. <i>5, 38</i>.<p><b>Étym</b>. μεταλλουργός.`

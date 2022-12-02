@@ -1,0 +1,1 @@
+lar[51409]=`<b>καμηλο·πόδιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> marrube, <i>plante,</i> DIOSC. <i>3, 119</i>.<p><b>Étym</b>. κάμηλος, πούς.`

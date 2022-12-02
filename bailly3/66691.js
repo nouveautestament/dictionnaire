@@ -1,0 +1,1 @@
+lar[66691]=`<b>μονό·ψηφος, ος, ον :<br>      1</b> qui est seul de son avis, dont l’avis est unique, PD. <i>N. 10, 6</i>.<br><b>      2</b> qui décide à lui seul, qui suffit à décider, ESCHL. <i>Suppl. 373</i>.<p>➳ <i>Dor</i>. μονόψαφος <font color="purple">[ᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. μ. ψῆφος.`

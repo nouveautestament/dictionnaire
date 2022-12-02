@@ -1,0 +1,1 @@
+lar[21093]=`<b>ου (ὁ)</b> petite base, petit socle, petit piédestal, HÉRON <i>Spir. 191, 193</i> ; NICOM. <i>Arithm. p. 129 Ast</i>.<p><b>Étym</b>. βωμός.`

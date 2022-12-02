@@ -1,0 +1,1 @@
+lar[59726]=`rendre brillant, PEMPEL. (STOB. <i>Fl. 79, 52).</i><p><b>Étym</b>. λαμπρός.`

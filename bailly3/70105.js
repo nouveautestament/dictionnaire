@@ -1,0 +1,1 @@
+lar[70105]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui voyage, IL. <i>16, 263 ; subst</i>. OD. <i>7, 204 ; 17, 311</i> ; SOPH. <i>Ph. 147,</i> voyageur.<p>➳ <i>Dor</i>. ὁδίτας <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 16, 93</i>.<p><b>Étym</b>. ὁδός.`

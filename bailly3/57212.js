@@ -1,0 +1,1 @@
+lar[57212]=`<b>ου (ὁ)</b> = <i>lat</i>. Corfinius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 45, 51</i>.`

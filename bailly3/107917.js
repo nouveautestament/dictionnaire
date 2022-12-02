@@ -1,0 +1,1 @@
+lar[107917]=`<b>Χαρι·κλώ, οῦς (ἡ)</b> <font color="purple">[ᾰ]</font> Khariklô, <i>n. de f. myth</i>. PD. <i>P. 4, 103</i> ; CALL. <i>L. Pall. 67</i>.<p>➳ <i>Voc</i>. Χαριχλοῖ, ANTH. <i>5, 259</i>.<p><b>Étym</b>. <i>cf</i>. Χαρικλῆς.`

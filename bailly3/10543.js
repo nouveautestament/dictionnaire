@@ -1,0 +1,1 @@
+lar[10543]=`<i>adv</i>., contradictoirement, ARSTT. <i>Interpr. 7, 6</i>.`

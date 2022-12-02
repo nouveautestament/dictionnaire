@@ -1,0 +1,1 @@
+lar[82370]=`<b>πολυ·σκύλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῠλᾰκ]</font> d’un grand nombre de chiens, NONN. <i>D. 18, 246</i>.`

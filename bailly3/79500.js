@@ -1,0 +1,1 @@
+lar[79500]=`<b>ος, ον</b>, tendu tout autour ; <i>subst</i>. ὁ περιτόναιος, CELS. <i>4, 1</i> ; τὸ περιτόναιον, HPC. <i>1215g, etc</i>. le péritoine, <i>membrane qui recouvre intérieurement tout le bas-ventre</i>.<p><b>Étym</b>. περίτονος.`

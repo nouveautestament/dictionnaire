@@ -1,0 +1,1 @@
+lar[95440]=`<b>εως (ἡ)</b> prononciation simultanée, CLÉM. <i>374, 854</i>.<p><b>Étym</b>. συνεκφωνέω.`

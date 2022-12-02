@@ -1,0 +1,1 @@
+lar[87976]=`<b>ου (ὁ)</b> Pyrrhias, <i>litt</i>. « le Roux, » <i>h. particul. en parl. d’esclaves thraces,</i> AR. <i>Ran. 730, etc.</i> ; XÉN. <i>An. 6, 5, 11, etc</i>.<p><b>Étym</b>. πυρρός.`

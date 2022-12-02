@@ -1,0 +1,1 @@
+lar[37513]=`<i>adv</i>., d’Épidaure, PD. <i>N. 3, 84</i> ; PHILSTR. <i>V. Ap. 4, 18, p. 155</i>.<p><b>Étym</b>. Ἐπίδαυρος, -θεν.`

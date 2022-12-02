@@ -1,0 +1,1 @@
+lar[379]=`<i>fut. épq. et rare de</i> ἄγαμαι.`

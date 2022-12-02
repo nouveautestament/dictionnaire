@@ -1,0 +1,1 @@
+lar[87831]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> qui a un noyau <i>ou</i> un cœur ligneux, TH. <i>C.P. 1, 7, 3 ; 2, 7, 4 ; 2, 11, 7 ; H.P. 3, 7, 1</i>.<p><b>Étym</b>. π. -ωδης.`

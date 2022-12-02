@@ -1,0 +1,1 @@
+lar[29419]=`<b>ἐγερσι·θέατρος, ος, ον</b> <font color="purple">[ῐᾱ]</font> qui excite l’attention des spectateurs, A. PL. <i>361</i>.<p><b>Étym</b>. ἐγείρω, θέατρον.`

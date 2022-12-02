@@ -1,0 +1,1 @@
+lar[61378]=`<b>λιπόω-ῶ</b> <font color="purple">[ῐ]</font> graisser, oindre, NIC. <i>Th. 81</i>.`

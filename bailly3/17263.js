@@ -1,0 +1,1 @@
+lar[17263]=`<b>ου (ὁ)</b> <i>trad. du lat</i>. Axona (<i>auj</i>. Aisne) <i>riv. de Gaule,</i> DC.`

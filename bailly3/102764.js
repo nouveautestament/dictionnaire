@@ -1,0 +1,1 @@
+lar[102764]=`<b>ὑπέρ·πλεως, ως, ων</b>, trop plein, tout rempli <i>ou</i> couvert de, <i>dat</i>. LUC. <i>Am. 42</i>.<p><b>Étym</b>. ὑ. πλέως.`

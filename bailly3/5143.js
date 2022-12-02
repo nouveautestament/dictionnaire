@@ -1,0 +1,1 @@
+lar[5143]=`<b>ἀ·λώφητος, ος, ον</b>, qui ne cesse pas, PLUT. <i>Fab. 23</i> ; ANTH. <i>5, 255</i>.<p><b>Étym</b>. ἀ, λωφάω.`

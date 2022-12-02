@@ -1,0 +1,1 @@
+lar[103956]=`<b>ὑπο·σωματόω-ῶ</b> <font color="purple">[ᾰ]</font> renouveler <i>ou</i> refaire le corps, HERM. (STOB. <i>Ecl. phys. p. 746</i>).`

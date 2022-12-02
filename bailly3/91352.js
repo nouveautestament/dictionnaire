@@ -1,0 +1,1 @@
+lar[91352]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> <i>dim. de</i> σκύταλον, AR. <i>Av. 1283</i> ; TH. <i>H.P. 4, 4, 12</i>.<br><b>      2</b> <i>sorte de levier,</i> HÉRON <i>Spir. 230a.</i><br><b>      3</b> <i>p. anal</i>. cotilet <i>ou</i> nombril de Vénus, <i>plante,</i> DIOSC. <i>4, 92</i>.<p><b>Étym</b>. σκύταλον.`

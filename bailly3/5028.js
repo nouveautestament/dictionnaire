@@ -1,0 +1,1 @@
+lar[5028]=`<font color="purple">[ᾰῠ]</font> <i>adv</i>., avec des chaînes, MAN. <i>4, 486</i>.<p><b>Étym</b>. ἅλυσις, -δον.`

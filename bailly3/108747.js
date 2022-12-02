@@ -1,0 +1,1 @@
+lar[108747]=`<b>χονδρ·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> à arêtes cartilagineuses, ARSTT. <i>P.A. 2, 9, 13, etc</i>.<p><b>Étym</b>. χόνδρος, ἄκανθα.`

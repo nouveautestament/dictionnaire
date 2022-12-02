@@ -1,0 +1,1 @@
+lar[108892]=`<b>ος, ον :<br>      1</b> qui a besoin de, <i>gén</i>. EUR. <i>H.f. 51, 1337</i> ; LUC. <i>Am. 42 ; Philops. 2, p. 98 Jacobitz, etc.</i><br><b>      2</b> <i>abs</i>. qui est dans le besoin, dans la détresse, ESCHL. <i>Suppl. 202</i>.<p><b>Étym</b>. χρέος.`

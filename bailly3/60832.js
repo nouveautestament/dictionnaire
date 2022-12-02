@@ -1,0 +1,1 @@
+lar[60832]=`<b>ληξι·πύρετος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui fait cesser la fièvre, fébrifuge, GAL. <i>13, 906</i>.<p><b>Étym</b>. λήγω, πυρετός.`

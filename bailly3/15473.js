@@ -1,0 +1,1 @@
+lar[15473]=`<b>ος, ον</b> <font color="purple">[ᾰῠῐ]</font> qu’on peut puiser, potable, ANTH. <i>9, 575</i>.<p><b>Étym</b>. ἀρύω¹.`

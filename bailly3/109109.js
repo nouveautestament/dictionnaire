@@ -1,0 +1,1 @@
+lar[109109]=`<b>χρυσεό·κυκλος, ος, ον</b> <font color="purple">[ῡσ]</font> au cercle d’or, EUR. <i>Ph. 176</i>.<p><b>Étym</b>. χρ. κύκλος.`

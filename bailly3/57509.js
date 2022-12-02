@@ -1,0 +1,1 @@
+lar[57509]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m.,</i> de figue <i>ou</i> de figuier : κρ. νόμος, PLUT. <i>M. 1133 fin,</i> air de flûte, <i>p.-ê. pour une fête analogue à la fête</i> κραδηφορία.<p><b>Étym</b>. κράδη.`

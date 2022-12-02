@@ -1,0 +1,1 @@
+lar[40591]=`<b>ατος (τὸ) :<br>      1</b> interprétation, explication, EUR. <i>Ph. 470, H.f. 1137</i>.<br><b>      2</b> signification, symbole, EUR. <i>Andr. 46</i>.<p><b>Étym</b>. ἑρμηνεύω.`

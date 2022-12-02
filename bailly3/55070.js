@@ -1,0 +1,1 @@
+lar[55070]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> capital, principal, PLAT. <i>Gorg. 494e ;</i> AR. <i>Ran. 854</i>.<p>•<i> Sup</i>. -ότατος, PLAT. <i>(Bkk. p. 104, 6).</i><p><b>Étym</b>. κεφαλή.`

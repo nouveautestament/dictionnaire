@@ -1,0 +1,1 @@
+lar[42136]=`<b>εὐ·ήρατος, ος, ον</b> <font color="purple">[ᾰ]</font> très aimable, charmant, PD. <i>O. 5, 9 ; 6, 98 ; P. 9, 8</i> ; TÉLEST. <i>1, 7</i>.<p><b>Étym</b>. εὖ, ἔραμαι.`

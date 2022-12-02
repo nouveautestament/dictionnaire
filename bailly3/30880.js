@@ -1,0 +1,1 @@
+lar[30880]=`<b>εἰσ·πορεύω</b>, introduire, EUR. <i>El. 1285 (prés. impér</i>. -ευέτω).<br><b><i>Moy.</i></b> entrer, s’introduire, XÉN. <i>Cyr. 2, 3, 21</i>.<p><b>Étym</b>. <i>impf. 3 pl</i>. εἰσεπορεύοντο.`

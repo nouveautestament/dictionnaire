@@ -1,0 +1,1 @@
+lar[30357]=`<b>εἰκοσα·πλάσιος, ος, ον</b>, vingt fois aussi grand, PLAT. <i>Tim. 35c</i> (<i>var</i>. ἑπτακαιεικ-) ; THEOL. <i>40, 1</i>.<p><b>Étym</b>. εἴ. -πλάσιος.`

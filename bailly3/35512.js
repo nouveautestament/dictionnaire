@@ -1,0 +1,1 @@
+lar[35512]=`<b>ἐξ·ανύτω</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐξανύω <i>(seul. prés</i>. EUR. <i>Ion 1066</i> ; XÉN. <i>Cyr. 5, 4, 18 ; et impf</i>. ἐξήνυτον, EUR. <i>Hipp. 400, Bacch. 1105)</i>.`

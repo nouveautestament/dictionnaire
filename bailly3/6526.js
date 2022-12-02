@@ -1,0 +1,1 @@
+lar[6526]=`<b>ἀνα·βέβρυχεν</b> <font color="purple">[ῠ]</font> <i>3 sg. pf. de</i> *ἀναβρύζω, *ἀναβρύχω, jaillir avec bruit, IL. <i>17, 54</i> (<i>var</i>. ἀναβέβροχεν).`

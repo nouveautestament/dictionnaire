@@ -1,0 +1,1 @@
+lar[82089]=`<b>πολυ·μάντευτος, ος, ον</b> <font color="purple">[ῠ]</font> dont les oracles sont très recherchés, PLUT. <i>M. 292f</i>.<p><b>Étym</b>. π. μαντεύομαι.`

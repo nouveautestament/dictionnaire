@@ -1,0 +1,1 @@
+lar[105306]=`<i>adv</i>., à Phthia, <i>avec mouv</i>. IL. <i>1, 169 ; 19, 330</i>.<p><b>Étym</b>. Φθίη, -δε.`

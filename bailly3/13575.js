@@ -1,0 +1,1 @@
+lar[13575]=`<i>adv</i>., de manière à marquer la finalité, DYSC. <i>Synt. 268, 28</i>.`

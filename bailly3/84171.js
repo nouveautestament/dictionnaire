@@ -1,0 +1,1 @@
+lar[84171]=`<b>προ·εντίθημι</b> <font color="purple">[τῐ]</font> introduire <i>ou</i> imposer auparavant, NYSS.`

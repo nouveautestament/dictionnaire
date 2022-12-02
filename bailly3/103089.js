@@ -1,0 +1,1 @@
+lar[103089]=`<b>ατος (τὸ) :<br>      1</b> inscription au-dessous <i>ou</i> au bas, LYCURG. <i>164, 33</i>.<br><b>      2</b> enduit de fard autour des yeux, <i>d’où</i> fard, AR. <i>fr. 695</i>.<p><b>Étym</b>. ὑπογράφω.`

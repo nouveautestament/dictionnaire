@@ -1,0 +1,1 @@
+lar[53713]=`<b>καταχαλκόω-ῶ</b>, couvrir <i>ou</i> garnir de cuivre <i>ou</i> d’airain, HDT. <i>6, 52</i> ; HÉRACLIDE DU PONT (ATH. <i>521f</i>) ; DS. <i>12, 70</i>.<p><b>Étym</b>. κατάχαλκος.`

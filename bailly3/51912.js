@@ -1,0 +1,1 @@
+lar[51912]=`<b>ος, ον</b>, dont on peut retirer du fruit, fructueux, avantageux, ATH. <i>478a</i>.<p><b>Étym</b>. καρπόω.`

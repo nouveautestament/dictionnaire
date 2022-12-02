@@ -1,0 +1,1 @@
+lar[75048]=`<b>πάν·θηρ, ηρος (ὁ)</b> guépard, <i>sorte de panthère,</i> HDT. <i>4, 192</i> ; XÉN. <i>Cyn. 11, 1</i> ; ARSTT. <i>H.A. 6, 35, 3</i>.<p><b>Étym</b>. <i>emprunt à une langue orientale</i>.`

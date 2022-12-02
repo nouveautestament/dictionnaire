@@ -1,0 +1,1 @@
+lar[102061]=`<b>ὑπ·αφίσταμαι</b> <font color="darkgreen">(<i>ao.2</i> ὑπαπέστην, <i>etc</i>.)</font> <font color="purple">[ῠᾰ]</font> s’éloigner peu à peu, THALÈS (DL. <i>1, 44</i>) ; ANT. <i>128, 9</i> ; EL. <i>N.A. 2, 25</i>.`

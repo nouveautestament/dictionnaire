@@ -1,0 +1,1 @@
+lar[93154]=`<b>σύ·αγρος, ου (ὁ) :<br>      1</b> sanglier, ANTIPH. (<i>Com. fr. 3, 21</i>).<br><b>      2</b> sorte d’encens, DIOSC. <i>1, 81</i>.<p><b>Étym</b>. σῦς, ἄγριος.`

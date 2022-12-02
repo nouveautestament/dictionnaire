@@ -1,0 +1,1 @@
+lar[73100]=`<b>υγος (ὁ)</b> <font color="purple">[ῠγ]</font><br><b>   I</b> pioche (<i>v</i>. μονορύχης) ANTH. <i>6, 297</i>.<br><b>   II</b> <i>p. anal.</i> :<br><b>      1</b> antilope d’Égypte <i>ou</i> de Libye, à cornes aiguës, ARSTT. <i>H.A. 2, 1, etc.</i><br><b>      2</b> sorte de baleine, STR. <i>145</i> ; PLUT. <i>M. 974f</i>.<p><b>Étym</b>. ὀρύσσω.`

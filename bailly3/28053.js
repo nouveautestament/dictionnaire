@@ -1,0 +1,1 @@
+lar[28053]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> malheureux, MAX. <i>π. κατ. 65, 182</i>.<p><b>Étym</b>. δύη.`

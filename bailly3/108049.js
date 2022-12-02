@@ -1,0 +1,1 @@
+lar[108049]=`<b>ᾶς (ἡ)</b> repaire d’une bête sauvage, <i>particul</i>. trou où se cachent les serpents, IL. <i>22, 93, 95</i> ; PD. <i>I. 8 fin</i> ; PLUT. <i>M. 169e</i>.<p>➳ <i>Ion</i>. χειή, IL. <i>ll. cc</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

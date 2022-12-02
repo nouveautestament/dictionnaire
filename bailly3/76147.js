@@ -1,0 +1,1 @@
+lar[76147]=`<b>παρα·ρραίνω</b>, répandre à côté <i>ou</i> en outre, POSIDON. (ATH. <i>692d</i>).<p><b>Étym</b>. π. ῥαίνω.`

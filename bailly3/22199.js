@@ -1,0 +1,1 @@
+lar[22199]=`<b>ῆρος (ὁ)</b> ciseau pour graver <i>ou</i> sculpter, ANTH. <i>6, 68</i>.<p><b>Étym</b>. γλύφω.`

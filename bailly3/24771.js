@@ -1,0 +1,1 @@
+lar[24771]=`<b>ατος (τὸ)</b> légère luxation, <i>t. de méd</i>. HPC. <i>775h ;</i> GAL. <i>12, 2259</i>.<p><b>Étym</b>. διακινέω.`

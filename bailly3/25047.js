@@ -1,0 +1,1 @@
+lar[25047]=`<b>δια·μηνύω</b> (<i>seul. prés. inf</i>.) montrer clairement, STR. <i>528</i>.`

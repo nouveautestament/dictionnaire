@@ -1,0 +1,1 @@
+lar[94774]=`<b>συν·αναφύω</b> (<i>seul. ao.2</i> συνανέφυν <i>et moy. au sens intr</i>.) croître avec, <i>dat</i>. CLÉM. <i>648, 888</i>.`

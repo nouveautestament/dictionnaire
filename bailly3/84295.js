@@ -1,0 +1,1 @@
+lar[84295]=`<b>προ·εφοδιάζω</b> <font color="darkgreen">(<i>ao. pass</i>. προεφωδιάσθην)</font> munir à l’avance de provisions de voyage, PHIL. <i>2, 93</i>.`

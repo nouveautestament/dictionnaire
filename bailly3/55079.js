@@ -1,0 +1,1 @@
+lar[55079]=`<b>κεφαλ·αλγός, ός, όν</b> <font color="purple">[φᾰ]</font> qui fait mal à la tête, PLUT. <i>M. 133c ;</i> RUF. <i>p. 51, 59 Matthäi</i>.<p><b>Étym</b>. κεφαλή, ἄλγος.`

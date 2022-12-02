@@ -1,0 +1,1 @@
+lar[109668]=`<b>ψευδογραφέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> décrire faussement <i>ou</i> inexactement, POL. <i>12, 8, 6 ; 16, 14, 8</i>.<br><b>      2</b> dessiner inexactement (une figure de géométrie) ARSTT. <i>Top. 1, 1, 5, etc. ; au pass</i>. ARSTT. <i>Top. 5, 4, 2 ; 8, 10, 3</i>.<p><b>Étym</b>. ψευδογράφος.`

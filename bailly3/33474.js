@@ -1,0 +1,1 @@
+lar[33474]=`<b>ης, ες</b>, qui ressemble à un emplâtre, DIOSC. <i>2, 205</i>.<p><b>Étym</b>. ἔμπλαστρος, -ωδης.`

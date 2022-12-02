@@ -1,0 +1,1 @@
+lar[34482]=`<b>ἐν·ησυχάζω</b> <font color="purple">[ῠ]</font> se reposer dans <i>ou</i> sur, <i>dat</i>. CHION. <i>Ep. 16</i> ; PHIL. <i>2, 140</i>.`

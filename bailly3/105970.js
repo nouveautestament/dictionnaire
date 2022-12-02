@@ -1,0 +1,1 @@
+lar[105970]=`<b>φιλοξενέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> aimer l’étranger, STR. <i>471</i>.<br><b>      2</b> accueillir <i>ou</i> traiter en hôte, A. DIOG. <i>3</i>.<p><b>Étym</b>. φιλόξενος.`

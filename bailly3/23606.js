@@ -1,0 +1,1 @@
+lar[23606]=`<b>δειπνο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> fou de bons soupers, TIMON (ATH. <i>162f</i>).<p><b>Étym</b>. δ. μαίνομαι.`

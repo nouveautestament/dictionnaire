@@ -1,0 +1,1 @@
+lar[12573]=`<b>ἀπο·κλαδεύω</b> <font color="purple">[ᾰδ]</font> ébrancher, PHIL. BYBL. (EUS. <i>P.E. 35a</i>).`

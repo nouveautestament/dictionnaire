@@ -1,0 +1,1 @@
+lar[26458]=`<b>δικαι·άδικος, ος, ον</b> <font color="purple">[ῐῐ]</font> qui est tout à la fois juste et injuste, PHIL. <i>2, 346</i>.<p><b>Étym</b>. δίκαιος, ἄδικος.`

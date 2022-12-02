@@ -1,0 +1,1 @@
+lar[53459]=`<b>ος, ον</b>, piqueté, tacheté, moucheté, SOPH. <i>fr. 16</i> ; EUR. <i>Bacch. 696</i> ; ARSTT. <i>H.A. 8, 3, 9, etc</i>.<p><b>Étym</b>. καταστίζω.`

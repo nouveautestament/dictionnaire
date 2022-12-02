@@ -1,0 +1,1 @@
+lar[17349]=`<i>adv</i>., librement, avec indépendance, JOS. <i>B.J. 5, 13, 5</i>.`

@@ -1,0 +1,1 @@
+lar[38307]=`<i>adv</i>., à la surface, IL. <i>17, 599</i> ; LUC. <i>Nigr. 36</i>.<p>➳ <font color="purple">[πῑ]</font> <i>à l’arsis,</i> IL. <i>l. c</i>.<p><b>Étym</b>. ἐπιλίζω.`

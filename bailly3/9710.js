@@ -1,0 +1,1 @@
+lar[9710]=`<b>ἀντ·ευνοέω-οῶ</b>, rendre bienveillance pour bienveillance, XÉN. <i>Cyr. 8, 3, 43</i>.`

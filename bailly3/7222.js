@@ -1,0 +1,1 @@
+lar[7222]=`<i>adv</i>., d’une façon non douteuse, PLUT. <i>M. 441f</i>.`

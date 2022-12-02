@@ -1,0 +1,1 @@
+lar[68553]=`<b>εως (ἡ)</b> action de nager, BATR. <i>68 ; au plur</i>. BATR. <i>148</i> ; PLUT. <i>M. 163a</i>.<p><b>Étym</b>. νήχομαι.`

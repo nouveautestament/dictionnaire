@@ -1,0 +1,1 @@
+lar[72936]=`<b>*ὀρνιθο·λόχος, ου (ὁ)</b> <font color="purple">[ῑ]</font> oiseleur, PLUT. <i>M. 473a</i>.<p>➳ <i>Dor</i>. ὀρνιχολόχος, PD. <i>I. 1, 67</i>.<p><b>Étym</b>. ὄρνις, λόχος.`

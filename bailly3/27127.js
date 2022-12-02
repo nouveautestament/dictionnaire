@@ -1,0 +1,1 @@
+lar[27127]=`<b>ου (ὁ)</b> vêtu de peau, <i>comme les esclaves dans la tragédie ou les paysans dans la comédie,</i> POSIDIPP. (ATH. <i>414e</i>) ; LUC. <i>Tim. 8</i>.<p><b>Étym</b>. διφθέρα.`

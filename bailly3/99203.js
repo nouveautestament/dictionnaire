@@ -1,0 +1,1 @@
+lar[99203]=`<b>άορος (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. τιμωρός, ESCHL. <i>Suppl. 43</i>.`

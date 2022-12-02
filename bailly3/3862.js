@@ -1,0 +1,1 @@
+lar[3862]=`<b>ἀκρουχέω-ῶ</b>, résider sur les hauteurs, SOPH. <i>fr. 290</i>.<p><b>Étym</b>. ἄ. ἔχω.`

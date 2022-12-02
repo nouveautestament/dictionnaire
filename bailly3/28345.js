@@ -1,0 +1,1 @@
+lar[28345]=`<b>δυσ·έκκριτος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à évacuer, ATH. <i>69e, etc.</i> ; XÉNOCR. <i>Al. 38 et 45</i>.<p><b>Étym</b>. δ. ἐκκρίνω.`

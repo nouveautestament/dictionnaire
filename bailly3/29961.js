@@ -1,0 +1,1 @@
+lar[29961]=`<b>ας (ἡ)</b> femme qui recueillait dans un vase (le sang des victimes) <i>ou, sel. d’autres,</i> dans une urne (les os d’un mort) PLAT. <i>Min. 315d</i>.<p><b>Étym</b>. ἐγχυτρίζω.`

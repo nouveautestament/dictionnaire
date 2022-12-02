@@ -1,0 +1,1 @@
+lar[95197]=`<b>συν·διόλλυμι</b>, faire périr ensemble, EUR. <i>fr. 555 ; au pass</i>. périr en même temps, NAZ.`

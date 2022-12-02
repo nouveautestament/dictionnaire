@@ -1,0 +1,1 @@
+lar[94578]=`<b>συν·αηδίζομαι</b>, se déplaire <i>ou</i> s’ennuyer ensemble, PHIL. <i>1, 405</i>.`

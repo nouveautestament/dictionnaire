@@ -1,0 +1,1 @@
+lar[11688]=`<b>ἀπ·εμφαινόντως</b>, <i>adv</i>., d’une manière invraisemblable <i>ou</i> absurde, ORIG. <i>2, 114</i>.<p><b>Étym</b>. ἀπεμφαίνω.`

@@ -1,0 +1,1 @@
+lar[96499]=`<i>adv.</i> :<br><b>      1</b> en longues colonnes, ESCHL. <i>Pers. 54</i>.<br><b>      2</b> avec impétuosité, EUR. <i>Rhes. 58</i>.<p><b>Étym</b>. σύρω, -δην.`

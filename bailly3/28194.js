@@ -1,0 +1,1 @@
+lar[28194]=`<b>δυσ·άνοδος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à gravir, CÉBÈS.<p><b>Étym</b>. δ. ἄνοδος.`

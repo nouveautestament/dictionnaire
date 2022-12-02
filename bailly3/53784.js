@@ -1,0 +1,1 @@
+lar[53784]=`<b>κατα·ψευδομαρτυρέω-ῶ</b> <font color="purple">[ῠ]</font> porter un faux témoignage contre, <i>gén</i>. XÉN. <i>Ap. 24 ; d’où au pass</i>. être victime d’un faux témoignage, PLAT. <i>Gorg. 472a ;</i> IS. <i>51, 15</i> ; DÉM. <i>559, 14 ; 1101, 1</i>.<br><b><i>Moy.</i></b> produire en sa faveur un faux témoignage, DÉM. <i>846, 22</i>.`

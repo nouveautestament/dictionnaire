@@ -1,0 +1,1 @@
+lar[72420]=`<b>ου</b>, <i>adj. m</i>. d’Opunte, HDT. <i>7, 203</i> ; THC. <i>1, 108, etc.</i> ; l’Opuntien, <i>h</i>. AR. <i>Av. 152</i>.<p><b>Étym</b>. Ὀποῦς.`

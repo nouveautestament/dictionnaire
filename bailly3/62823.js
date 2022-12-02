@@ -1,0 +1,1 @@
+lar[62823]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art <i>ou</i> la faculté de prédire, PLUT. <i>M. 432e</i>.<p><b>Étym</b>. μαντεύομαι.`

@@ -1,0 +1,1 @@
+lar[35446]=`<b>ἐξ·αναβρύω</b> (<i>seul. inf. ao. poét</i>. ἐξαμβρῦσαι) faire jaillir, ESCHL. <i>Eum. 925 dout</i>.`

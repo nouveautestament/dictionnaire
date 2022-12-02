@@ -1,0 +1,1 @@
+lar[64775]=`<b>μετα·κόπτω</b>, frapper une monnaie à un nouveau coin, POLYEN <i>6, 9, 1</i>.`

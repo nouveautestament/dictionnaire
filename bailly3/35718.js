@@ -1,0 +1,1 @@
+lar[35718]=`<b>ἐξ·ειλέω-ῶ</b>, dérouler : βίβλον, LUC. <i>M. cond. 41,</i> un livre.<p><b>Étym</b>. <i>cf</i>. ἐξείλλω <i>et</i> ἐξίλλω.`

@@ -1,0 +1,1 @@
+lar[53280]=`ordonner avec mesure, ajuster, proportionner, HLD. <i>3, 3</i> ; LGN <i>41, 2 ; fig</i>. ATH. <i>179a</i>.<p><b>Étym</b>. κατάρρυθμος.`

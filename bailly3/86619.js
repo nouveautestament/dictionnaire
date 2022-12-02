@@ -1,0 +1,1 @@
+lar[86619]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec des dispositions amicales <i>ou</i> bienveillantes, SOPH. <i>El. 442</i> ; XÉN. <i>Hell. 2, 3, 44, etc.</i> ; PLAT. <i>Leg. 822b, etc</i>.<p>•<i> Cp</i>. προσφιλέστερον, PLAT. <i>Menex. 248d ; sup</i>. -έστατα, XÉN. <i>Hipp. 1, 1, ou</i> -εστάτως, ISOCR. (POLL. <i>3, 63).</i><p><b>Étym</b>. προσφιλής.`

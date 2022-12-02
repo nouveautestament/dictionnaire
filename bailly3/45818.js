@@ -1,0 +1,1 @@
+lar[45818]=`<b>ου (ὁ)</b> petit Hèraklès, THCR. <i>Idyl. 24</i>.<p><b>Étym</b>. <i>dim. de</i> Ἡρακλῆς.`

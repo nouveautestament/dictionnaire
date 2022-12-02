@@ -1,0 +1,1 @@
+lar[69382]=`<b>ξανθο·κόμης, ου</b>, <i>adj. m</i>. aux cheveux blonds, PD. <i>N. 9, 17</i> ; THCR. <i>Idyl. 17, 103</i> ; OPP. <i>C. 2, 165</i>.<p>➳ <i>Gén. pl. dor</i>. ξανθοκομᾶν, PD. <i>l. c</i>.<p><b>Étym</b>. ξ. κόμη.`

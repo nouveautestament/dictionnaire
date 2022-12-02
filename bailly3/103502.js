@@ -1,0 +1,1 @@
+lar[103502]=`<b>ὑπο·λοχαγός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> commandant en second d’une compagnie, <i>à peu près notre lieutenant,</i> XÉN. <i>An. 5, 2, 13</i>.`

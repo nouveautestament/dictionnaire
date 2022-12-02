@@ -1,0 +1,1 @@
+lar[61792]=`<i>adv</i>., d’une manière déplorable <i>ou</i> funeste, IL. <i>5, 763</i>.`

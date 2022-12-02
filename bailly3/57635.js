@@ -1,0 +1,1 @@
+lar[57635]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῐδ]</font> <i>dim. de</i> κρατήρ JOS. <i>A.J. 3, 6, 7</i>.`

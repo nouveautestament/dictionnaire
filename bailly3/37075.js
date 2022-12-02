@@ -1,0 +1,1 @@
+lar[37075]=`<b>ἐπ·έμμηνος</b>, <i>adj. f</i>. qui est dans la période menstruelle, JOS. <i>B.J. 6, 9, 3</i>.<p><b>Étym</b>. ἐπί, ἔ.`

@@ -1,0 +1,1 @@
+lar[182]=`<b>ἁβρο·κόμης, ου</b>, <i>adj. m.</i> :<br><b>      1</b> à la chevelure efféminée <i>ou</i> abondante, ANTH. <i>12, 256</i>.<br><b>      2</b> au feuillage luxuriant, EUR. <i>Ion 920, etc</i>.<p><b>Étym</b>. ἁβρός, κόμη.`

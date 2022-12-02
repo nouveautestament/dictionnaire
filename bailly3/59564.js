@@ -1,0 +1,1 @@
+lar[59564]=`<b>ου (τὸ)</b> peau velue servant de bouclier, petit bouclier de cuir, IL. <i>5, 453 ; 12, 426</i> ; HDT. <i>7, 91</i>.<p><b>Étym</b>. <i>cf</i>. λάσιος.`

@@ -1,0 +1,1 @@
+lar[101374]=`<b>ά, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> propre à guérir, salutaire, PD. <i>N. 3, 29</i>.<br><b>      2</b> en bonne santé, bien portant, HDT. <i>4, 187 ; p. opp. à</i> νοσερός, HPC. <i>Aër. 282</i>.<p>•<i> Sup</i>. -ότατος, HDT. <i>l. c. ; irrég</i>. -έστατος, HDT. <i>2, 77</i>.<p><b>Étym</b>. ὑγιής.`

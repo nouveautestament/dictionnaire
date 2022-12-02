@@ -1,0 +1,1 @@
+lar[11281]=`<b>εως (ἡ)</b> action de puiser <i>ou</i> d’épuiser, ARSTT. <i>Probl. 2, 33</i> ; PLUT. <i>M. 1049b</i>.<p><b>Étym</b>. ἀπαντλέω.`

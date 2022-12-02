@@ -1,0 +1,1 @@
+lar[58039]=`<b>ων (τὰ)</b> <font color="purple">[ῠ]</font> Krokyleia, <i>î. près d’Ithaque,</i> IL. <i>2, 633</i>.`

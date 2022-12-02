@@ -1,0 +1,1 @@
+lar[77627]=`<b>έως (ὁ)</b> habitant du Pirée, CIA. <i>2, 573, 21, 6, 4, 5, 14 (envir. 350 av. J.-C.) ; v. Meisterh. p. 25, 1 ; 26, 6 ; 27, 10 ; 111, 10</i>.`

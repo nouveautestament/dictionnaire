@@ -1,0 +1,1 @@
+lar[88321]=`<b>ῖδος (ἡ)</b> <font color="purple">[ᾰᾰῑδ]</font> rave, AR. <i>Pl. 544 ; etc.</i> ; COM. (ATH. <i>56e</i>, f) ; TH. <i>H.P. 7, 4, 4</i>.<p><b>Étym</b>. <i>cf</i>. ῥάφανος.`

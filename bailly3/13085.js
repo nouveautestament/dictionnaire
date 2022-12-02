@@ -1,0 +1,1 @@
+lar[13085]=`<b>ή, όν :<br>      1</b> qui concerne l’apoplexie, HPC. <i>6, 257, etc.</i><br><b>      2</b> atteint d’apoplexie, apoplectique, ARSTT. <i>Rhet. 3, 10, 7</i>.<p><b>Étym</b>. ἀπόπληκτος.`

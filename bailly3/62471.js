@@ -1,0 +1,1 @@
+lar[62471]=`<b>ου (ὁ)</b> Makistos :<br><b>      1</b> <i>v. d’Élide,</i> HDT. <i>4, 148</i> ; XÉN. <i>Hell. 3, 2, 30</i>.<br><b>      2</b> <i>mt. de l’Eubée,</i> ESCHL. <i>Ag. 289</i>.`

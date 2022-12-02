@@ -1,0 +1,1 @@
+lar[53395]=`<b>κατα·σπαράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[πᾰ]</font> déchirer, <i>acc</i>. AR. <i>Eq. 725</i> ; LUC. <i>As. 22</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUM. <i>p. 278</i>.`

@@ -1,0 +1,1 @@
+lar[30061]=`<b>ος, ον</b>, mangeable, bon à manger, comestible, HDT. <i>2, 92, etc.</i> ; τὰ ἐδώδιμα, THC. <i>7, 39,</i> provisions de bouche ; <i>fig</i>. LUC. <i>Tox. 16</i>.<p>➳ <i>Fém</i>. -η, HDT. <i>2, 92</i>.<p><b>Étym</b>. ἐδωδή.`

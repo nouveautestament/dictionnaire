@@ -1,0 +1,1 @@
+lar[14694]=`<b>ἀριστο·γόνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui enfante les plus nobles fils, PD. <i>P. 11, 3</i>.<p><b>Étym</b>. ἄ. γίγνομαι.`

@@ -1,0 +1,1 @@
+lar[18834]=`<b>βαθυ·χρήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰυ]</font> aux richesses immenses (<i>litt</i>. profondes), MAN. <i>4, 66</i>.<p><b>Étym</b>. β. χρῆμα.`

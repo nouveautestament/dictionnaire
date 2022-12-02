@@ -1,0 +1,1 @@
+lar[14313]=`<b>ἀργυρ·ήλατος, ος, ον</b> <font color="purple">[ῠᾰ]</font> travaillé en argent, ESCHL. <i>fr. 170</i> ; EUR. <i>Ion 1181</i>.<p><b>Étym</b>. ἄ. ἐλαύνω.`

@@ -1,0 +1,1 @@
+lar[3905]=`<b>ου (ὁ)</b> chef d’armée, chef, <i>d’où au plur</i>. l’élite (de l’armée) ESCHL. <i>Pers. 1003</i>.<p><b>Étym</b>. ἄκρος.`

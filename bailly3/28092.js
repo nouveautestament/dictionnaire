@@ -1,0 +1,1 @@
+lar[28092]=`<b>ιδος (ἡ)</b> <font color="purple">[ῠ]</font> souveraine, D. PHAL. §<i>311</i>.<p><b>Étym</b>. <i>fém. de</i> δυνάστης.`

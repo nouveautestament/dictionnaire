@@ -1,0 +1,1 @@
+lar[81549]=`blanchir d’écume, <i>en parl. de la mer,</i> ESCHL. <i>Pers. 109</i>.<p><b>Étym</b>. πολιός.`

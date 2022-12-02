@@ -1,0 +1,1 @@
+lar[109447]=`<b>ή, όν</b>, qui peut être compris, intelligible, NAZ.<p><b>Étym</b>. <i>vb. de</i> χωρέω.`

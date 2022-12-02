@@ -1,0 +1,1 @@
+lar[8235]=`<b>ἀν·έκκριτος, ος, ον</b> <font color="purple">[ῐ]</font> sans évacuations régulières, Anon. <i>de vir. herb. 137</i>.<p><b>Étym</b>. ἀν-, ἐκκρίνω.`

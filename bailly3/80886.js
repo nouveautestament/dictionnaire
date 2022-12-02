@@ -1,0 +1,1 @@
+lar[80886]=`<b>ατος (τὸ) :<br>      1</b> supériorité, avantage, ascendant, prééminence, PLAT. <i>Leg. 709c ;</i> DÉM. <i>63, 1 ; particul</i>. succès (à la guerre) XÉN. <i>Eq. 5, 11</i>.<br><b>      2</b> empiètement, <i>d’où</i> fraude, DÉM. <i>533, 28, etc.</i> ; ARSTT. <i>Pol. 5, 10, 10</i>.<p><b>Étym</b>. πλεονεκτέω.`

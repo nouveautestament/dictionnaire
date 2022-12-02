@@ -1,0 +1,1 @@
+lar[7809]=`<b>ἀνα·τυπόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> figurer de nouveau, LUC. <i>Alex. 21</i>.<br><b>      2</b> représenter, PHILSTR. <i>694</i>.<br><b><i>Moy.</i></b> se figurer, se représenter, PLUT. <i>M. 329b, 331d</i>.`

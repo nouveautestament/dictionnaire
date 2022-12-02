@@ -1,0 +1,1 @@
+lar[94396]=`<b>συμ·πυκάζω</b> <font color="purple">[πῠ]</font> couvrir entièrement, DS. <i>17, 116</i>.`

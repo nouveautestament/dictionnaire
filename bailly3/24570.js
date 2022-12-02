@@ -1,0 +1,1 @@
+lar[24570]=`<b>δια·δορατίζομαι</b> <font color="purple">[ρᾰ]</font> (<i>seul. ao. pass</i>.) transpercer <i>ou</i> frapper d’un coup de lance : διαδορατισθέντες, M. ANT. <i>4, 3</i>, percés de coups de lance.<br><b><i>Moy.</i></b> (<i>seul. prés</i>.) :<br><b>      1</b> combattre avec la lance, POL. <i>5, 84, 2</i>.<br><b>      2</b> engager des escarmouches, LGN <i>13, 4</i>.`

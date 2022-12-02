@@ -1,0 +1,1 @@
+lar[96369]=`<b>εως (ἡ)</b> ouverture servant à faire communiquer, ARSTT. <i>H.A. 1, 16, 9 ; Respir. 16, 1, etc.</i> ; DS. <i>Exc. p. 521, 71</i>.<p><b>Étym</b>. συντιτράω.`

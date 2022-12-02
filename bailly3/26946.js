@@ -1,0 +1,1 @@
+lar[26946]=`<b>διπλασι·εφήμισυς, εια, υ</b>, plus grand de 2 ½, NICOM. <i>Arithm. 101</i>.`

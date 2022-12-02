@@ -1,0 +1,1 @@
+lar[57233]=`<b>ου (ὁ)</b> Korônos, <i>h</i>. IL. <i>2, 746</i> ; SOPH. <i>fr. 345, etc</i>.`

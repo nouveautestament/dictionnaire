@@ -1,0 +1,1 @@
+lar[15163]=`<b>ου (ὁ)</b> Arrhias, <i>général d’Alexandre le Grand,</i> EL. <i>V.H. 14, 18</i>.`

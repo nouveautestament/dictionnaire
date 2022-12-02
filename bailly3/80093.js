@@ -1,0 +1,1 @@
+lar[80093]=`<b>*πηλουργία</b>, <i>ion</i>. <b>πηλοεργίη, ης (ἡ)</b> art de travailler la boue <i>ou</i> l’argile, ARÉT. <i>Caus. m. diut. 1, 6</i>.<p><b>Étym</b>. πηλουργός ; <i>cf</i>. πηλοεργίη.`

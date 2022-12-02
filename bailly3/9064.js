@@ -1,0 +1,1 @@
+lar[9064]=`<i>adv</i>., avec impiété, CLÉM. <i>1, 88 Migne</i>.<p><b>Étym</b>. ἀνίερος.`

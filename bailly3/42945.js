@@ -1,0 +1,1 @@
+lar[42945]=`<b>εὐ·πάρθενος, ος, ον :<br>      1</b> riche en jeunes filles, TRIPHIOD. <i>51</i>.<br><b>      2</b> belle <i>ou</i> heureuse jeune fille, EUR. <i>Bacch. 520 ; cf</i>. ANTH. <i>6, 287</i>.<p><b>Étym</b>. εὖ, παρθένος.`

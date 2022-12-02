@@ -1,0 +1,1 @@
+lar[99014]=`<b>εως (ἡ) :<br>      1</b> fusion, liquéfaction, PLUT. <i>M. 692a ;</i> SEXT. <i>M. 9, 251</i>.<br><b>      2</b> dissolution, putréfaction, HPC. <i>Coac. 203</i> ; ARSTT. <i>Meteor. 4, 6, 1</i> ; PLUT. <i>M. 658a</i>.<p><b>Étym</b>. τήκω.`

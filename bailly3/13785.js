@@ -1,0 +1,1 @@
+lar[13785]=`<b>ἀπο·χαρίζομαι</b> <font color="darkgreen">(<i>f</i>. ίσομαι, <i>ao</i>. ἀπεχαρισάμην, <i>pf. inus</i>.)</font> <font color="purple">[ᾰ]</font> accorder la faveur de, <i>acc</i>. EUM. <i>9</i> ; RHÉT. <i>1, 479 W</i>.`

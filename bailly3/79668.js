@@ -1,0 +1,1 @@
+lar[79668]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> joie extrême <i>ou</i> excessive, PLAT. <i>Phil. 65d, etc</i>.<p><b>Étym</b>. περιχαρής.`

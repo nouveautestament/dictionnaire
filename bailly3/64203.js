@@ -1,0 +1,1 @@
+lar[64203]=`<b>ή, όν</b>, mélodique, A. QUINT. <i>p. 88</i>.<p><b>Étym</b>. μελῳδός.`

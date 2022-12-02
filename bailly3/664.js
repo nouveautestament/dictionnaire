@@ -1,0 +1,1 @@
+lar[664]=`<b>ἀγκυλόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> courber, recourber, PLAT. COM. (ATH. <i>667b</i>) ; ἠγκυλωμένος ὄνυχας, AR. <i>Av. 1180,</i> qui a les ongles crochus.<br><b>      2</b> nouer <i>ou</i> attacher au moyen de la boucle ἀγκύλη, HÉRON <i>Aut. 245, 266, 271</i>.<p><b>Étym</b>. ἀγκύλος.`

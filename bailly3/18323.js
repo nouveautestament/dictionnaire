@@ -1,0 +1,1 @@
+lar[18323]=`<b>ἄ·φυσος, ος, ον</b> <font color="purple">[ῡ]</font> qui ne donne pas de vents, HPC. <i>47, 33</i> ; DIOCL. (ATH. <i>46d</i>).<p><b>Étym</b>. ἀ, φῦσα.`

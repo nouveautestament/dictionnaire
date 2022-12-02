@@ -1,0 +1,1 @@
+lar[8101]=`<b>ἀνδρομητὸν ἐγχειρίδιον (τὸ)</b> poignard à lame rentrante pour le théâtre, A. TAT. <i>3, 20 et 24</i> (*ἀνδρομή <i>p</i>. ἀναδρομή ; <i>sel</i>. HSCH. ἀνδρομηρόν).`

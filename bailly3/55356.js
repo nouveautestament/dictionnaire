@@ -1,0 +1,1 @@
+lar[55356]=`<b>ου (ὁ)</b> <font color="purple">[ῑσᾰ]</font> Kèphisiadès, <i>h</i>. DÉM. <i>1236, 21</i>.`

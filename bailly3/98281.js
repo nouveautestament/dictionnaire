@@ -1,0 +1,1 @@
+lar[98281]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> eau basse, bas-fond humide et vaseux, PD. <i>N. 3, 41</i> ; HDT. <i>1, 202 ; 7, 176 ; 8, 129</i> ; THC. <i>3, 51</i> ; ARSTT. <i>H.A. 5, 19, 19</i>.<p><b>Étym</b>. τείνω.`

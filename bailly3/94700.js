@@ -1,0 +1,1 @@
+lar[94700]=`<b>συν·αναδίδωμι</b> <font color="purple">[δῐ]</font><br><b>      1</b> donner en même temps <i>ou</i> en outre, <i>acc</i>. LUC. <i>Conv. 15</i>.<br><b>      2</b> digérer en même temps, A. APHR.`

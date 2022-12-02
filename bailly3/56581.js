@@ -1,0 +1,1 @@
+lar[56581]=`danser la danse κολαβρισμός, <i>d’où</i> insulter, railler, ATH. <i>364a ;</i> SPT. <i>Job 5, 4</i>.<p><b>Étym</b>. κόλαβρος.`

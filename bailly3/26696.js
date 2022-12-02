@@ -1,0 +1,1 @@
+lar[26696]=`<b>Διο·γενέτωρ, ορος (ὁ)</b> qui a donné naissance à Zeus (<i>grotte</i>) EUR. <i>Bacch. 122</i>.<p><b>Étym</b>. Διός, γενέτωρ.`

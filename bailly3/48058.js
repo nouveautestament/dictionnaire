@@ -1,0 +1,1 @@
+lar[48058]=`<b>θυρσο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se plaît à porter un thyrse, ANTH. <i>3, 1</i>.<p><b>Étym</b>. θ. χαίρω.`

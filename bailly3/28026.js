@@ -1,0 +1,1 @@
+lar[28026]=`<b>δρυφακτόω-ῶ</b> <font color="purple">[ῠ]</font> (<i>part. ao</i>. -ώσαντες) enclore d’une barrière, POL. <i>8, 6, 4</i>.<p><b>Étym</b>. δρύφακτος.`

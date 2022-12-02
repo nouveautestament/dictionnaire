@@ -1,0 +1,1 @@
+lar[23964]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à la peau, ARSTT. <i>H.A. 2, 13, 7 ; 3, 3, 13, etc</i>.<p>•<i> Cp</i>. -έστερος, TH. <i>H.P. 4, 3, 3</i>.<p><b>Étym</b>. δέρμα, -ωδης.`

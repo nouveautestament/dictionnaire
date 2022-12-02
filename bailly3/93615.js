@@ -1,0 +1,1 @@
+lar[93615]=`<b>σύγ·χορτος, ος, ον</b>, dont le fourrage est le même, <i>p. ext</i>. limitrophe, voisin de, <i>gén</i>. EUR. <i>H.f. 371 ; dat</i>. ESCHL. <i>Suppl. 5</i> ; EUR. <i>fr. 179</i> ; ORPH. <i>Arg. 191</i>.<p><b>Étym</b>. σ. χόρτος.`

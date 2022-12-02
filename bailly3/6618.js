@@ -1,0 +1,1 @@
+lar[6618]=`<b>ἀναγκο·φορέω-ῶ</b>, supporter malgré soi, subir une contrainte, DH. <i>10, 16</i>.<p><b>Étym</b>. ἀ. φέρω.`

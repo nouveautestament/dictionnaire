@@ -1,0 +1,1 @@
+lar[104353]=`<b>ὑφανάω-ῶ</b> <font color="purple">[ῠφᾰ]</font> (<i>part. prés. épq. acc. pl</i>. ὑφανόωντας <i>avec</i> ῡ <i>par nécessité prosod.) c</i>. ὑφαίνω, MAN. <i>6, 433</i>.`

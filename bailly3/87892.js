@@ -1,0 +1,1 @@
+lar[87892]=`<b>πυρί·πλοκος, ος, ον</b> <font color="purple">[ῠ]</font> enlacé <i>ou</i> enveloppé par le feu, NONN. <i>D. 30, 83</i>.<p><b>Étym</b>. π. πλέκω.`

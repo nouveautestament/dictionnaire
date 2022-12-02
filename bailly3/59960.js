@@ -1,0 +1,1 @@
+lar[59960]=`<b>ατος (τὸ) :<br>      1</b> service de mercenaire, SOPH. <i>Tr. 357 au pl., p. ext</i>. service des dieux, culte, EUR. <i>I.T. 1275</i>.<br><b>      2</b> serviteur à gages, serviteur, EUR. <i>Tr. 1106</i>.<p><b>Étym</b>. λατρεύω.`

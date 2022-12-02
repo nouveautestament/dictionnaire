@@ -1,0 +1,1 @@
+lar[27500]=`<b>ατος (τὸ)</b> construction, édifice, JOS. <i>B.J. 5, 5, 1</i>.<p><b>Étym</b>. δομέω.`

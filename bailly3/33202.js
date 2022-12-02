@@ -1,0 +1,1 @@
+lar[33202]=`<b>ἐμετιάω-ῶ</b>, avoir envie de vomir, ARSTT. <i>Probl. 3, 18</i>.<p><b>Étym</b>. ἔμετος.`

@@ -1,0 +1,1 @@
+lar[96153]=`<b>ῆς (ἡ)</b> resserrement, contraction, ORIB. <i>p. 44 Mai</i>.<p><b>Étym</b>. συνέλκω.`

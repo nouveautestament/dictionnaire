@@ -1,0 +1,1 @@
+lar[4774]=`<b>ἀλλο·δημία, ας (ἡ)</b> voyage <i>ou</i> séjour à l’étranger, HPC. <i>558, 45</i> ; ἐν ἀλλοδημίᾳ, PLAT. <i>Leg. 954e</i>, à l’étranger.<p><b>Étym</b>. ἄ. δῆμος.`

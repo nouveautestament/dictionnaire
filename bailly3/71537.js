@@ -1,0 +1,1 @@
+lar[71537]=`<b>ὁμοιο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> affecté de même que, <i>dat</i>. PLAT. <i>Rsp. 409b ;</i> NT. <i>Ap. 14, 15, etc. ; abs</i>. TH. <i>H.P. 5, 7, 2, etc.</i><br><b>      2</b> de semblable nature, PLAT. <i>Tim. 45c</i>.<p><b>Étym</b>. ὅμ. πάθος.`

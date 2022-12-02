@@ -1,0 +1,1 @@
+lar[3533]=`<font color="purple">[ᾰῑτ]</font> <i>adv</i>., sans poussière, <i>en parl. de la palestre, d’où</i> sans combat, sans effort, THC. <i>4, 73</i> ; XÉN. <i>Ages. 6, 3</i> ; DÉM. <i>295, 7, etc. ; p. suite,</i> sans contestation, POL. <i>1, 20, 5</i>.<p><b>Étym</b>. ἀκόνιτος.`

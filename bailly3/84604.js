@@ -1,0 +1,1 @@
+lar[84604]=`<b>εως (ἡ)</b> <font color="purple">[ρῐ]</font><br><b>      1</b> action de préférer, préférence, PLAT. <i>Pol. 299a ;</i> SEXT. <i>P. 2, 45, etc.</i><br><b>      2</b> action de juger d’avance, prévention, CLÉM. <i>999</i>.<p><b>Étym</b>. προκρίνω.`

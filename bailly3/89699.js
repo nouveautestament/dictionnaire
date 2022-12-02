@@ -1,0 +1,1 @@
+lar[89699]=`<font color="purple">[ᾰ]</font> <i>c</i>. σελαγέω NONN. <i>D. 7, 195, etc</i>.`

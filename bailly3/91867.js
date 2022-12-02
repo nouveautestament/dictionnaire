@@ -1,0 +1,1 @@
+lar[91867]=`<b>σπερμοφυέω-ῶ</b>, produire des graines, TH. <i>H.P. 7, 4, 7, etc</i>.<p><b>Étym</b>. σπερμοφυής.`

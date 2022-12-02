@@ -1,0 +1,1 @@
+lar[39647]=`<b>ἐπι·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font><br><b>      1 <i>tr.</i></b> relâcher, LUC. <i>Herc. 3 ; d’où</i> laisser aller sur, abaisser, POL. <i>34, 3, 5</i>.<br><b>      2 <i>intr.</i></b> se relâcher, ESCHL. <i>Pr. 179 ; avec le dat</i>. se relâcher de, céder à, ESCHL. <i>Pr. 181</i>.`

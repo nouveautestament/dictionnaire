@@ -1,0 +1,1 @@
+lar[24553]=`<b>ατος (τὸ) :<br>      1</b> bandeau qui entourait la tiare des rois de Perse, XÉN. <i>Cyr. 8, 3, 13</i> ; PLUT. <i>M. 488d.</i><br><b>      2</b> <i>p. ext</i>. diadème, couronne royale, PLUT. <i>M. 753d ;</i> HDN <i>1, 3, 7</i> ; δ. τῆς Ἀσίας, SPT. <i>1Macc. 13, 32</i>, le diadème, <i>càd</i>. l’empire d’Asie.<p><b>Étym</b>. διαδέω.`

@@ -1,0 +1,1 @@
+lar[61056]=`<b>λιθο·εργός, ός, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui travaille la pierre, MAN. <i>1, 77</i>.<br><b>      2</b> qui pétrifie, ANTH. <i>6, 126</i>.<p><b>Étym</b>. λ. ἔργον.`

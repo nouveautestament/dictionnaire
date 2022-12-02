@@ -1,0 +1,1 @@
+lar[107915]=`<b>ου (ὁ)</b> Kharikleidès :<br><b>      1</b> <i>archonte athénien,</i> DÉM. <i>21, 178 Baiter-Sauppe, etc.</i><br><b>      2</b> <i>poète de la nouvelle comédie,</i> ATH. <i>325d</i>.<p><b>Étym</b>. <i>patr. de</i> Χαρικλῆς.`

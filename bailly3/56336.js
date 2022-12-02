@@ -1,0 +1,1 @@
+lar[56336]=`<i>mieux que</i> <b>κνισσωτός, ή, όν</b> <font color="purple">[ῑ]</font> rempli d’une odeur de viande qui rôtit, ESCHL. <i>Ch. 485</i>.<p><b>Étym</b>. <i>vb. de</i> κνισόω.`

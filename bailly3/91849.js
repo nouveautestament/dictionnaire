@@ -1,0 +1,1 @@
+lar[91849]=`<b>σπερματο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand de graines, NICOPH. (ATH. <i>126f</i>).<p><b>Étym</b>. σπέρμα, πωλέω.`

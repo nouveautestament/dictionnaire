@@ -1,0 +1,1 @@
+lar[85585]=`<b>προσ·ενδαψιλεύομαι</b> <font color="purple">[ῐ]</font> donner en outre largement, <i>acc</i>. PHIL. <i>1, 514</i>.`

@@ -1,0 +1,1 @@
+lar[53731]=`<b>κατα·χλευάζω</b>, railler, se moquer de, <i>acc. ou gén</i>. DH. <i>Comp. 25</i> ; JOS. <i>B.J. 2, 18, 7</i>.`

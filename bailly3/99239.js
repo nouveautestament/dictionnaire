@@ -1,0 +1,1 @@
+lar[99239]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de Timothéos, PLUT. <i>M. 1138b</i>.<p><b>Étym</b>. <i>v</i>. Τιμόθεος.`

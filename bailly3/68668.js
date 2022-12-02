@@ -1,0 +1,1 @@
+lar[68668]=`<b>νητο·ειδής, ής, ές</b>, semblable au son de la dernière corde, <i>càd</i>. très aigu, NICOM. <i>Harm. p. 10, 9 au cp</i>. -έστερος.<p><b>Étym</b>. νήτη, εἶδος.`

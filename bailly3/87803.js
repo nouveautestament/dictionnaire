@@ -1,0 +1,1 @@
+lar[87803]=`<b>ή, όν</b>, construit en forme de tour, semblable à une tour, ATH. <i>196c</i>.<p><b>Étym</b>. πυργόω.`

@@ -1,0 +1,1 @@
+lar[105952]=`<b>φιλό·μωμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à blâmer, à critiquer, SIM. (PLAT. <i>Prot. 346c</i>) ; PTOL. <i>Tetr. 162, 26</i>.<p><b>Étym</b>. φ. μῶμος.`

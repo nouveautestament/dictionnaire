@@ -1,0 +1,1 @@
+lar[4756]=`<b>ἀλληλο·φυής, ής, ές</b>, qui naissent l’un de l’autre, PLUT. <i>M. 908e</i>.<p><b>Étym</b>. ἀ. φύω.`

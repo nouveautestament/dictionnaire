@@ -1,0 +1,1 @@
+lar[87750]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de faire rougir au feu, GAL. <i>14, 539</i>.<p><b>Étym</b>. πυρακτόω.`

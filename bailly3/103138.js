@@ -1,0 +1,1 @@
+lar[103138]=`<b>ὑπο·δέρκομαι</b> (<i>seul. prés</i>.) regarder en dessous, avec peine <i>ou</i> avec défiance, MAN. <i>3, 272</i> ; Q. SM. <i>3, 252</i>.`

@@ -1,0 +1,1 @@
+lar[8161]=`<font color="darkgreen">(<i>prés. formé de l’ao.2</i> ἀνηγρόμην, <i>poét</i>. ἀνεγρόμην)</font> s’éveiller, OPP. <i>H. 2, 204</i> ; Q. SM. <i>5, 610 ; cf</i>. ἀνεγείρω.`

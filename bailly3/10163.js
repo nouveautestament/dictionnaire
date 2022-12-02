@@ -1,0 +1,1 @@
+lar[10163]=`<b>ἀντι·παλαίω</b> <font color="purple">[πᾰ]</font> lutter contre, NYSS. <i>1, 720, etc</i>.`

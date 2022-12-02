@@ -1,0 +1,1 @@
+lar[16366]=`<b>ἄστυ·δε</b> <font color="purple">[ῠ]</font> <i>adv</i>., vers la ville, à la ville, <i>avec mouv</i>. IL. <i>18, 255</i> ; OD. <i>17, 5, etc.</i> ; ALCIPHR. <i>etc</i>.<p><b>Étym</b>. ἄστυ, -δε.`

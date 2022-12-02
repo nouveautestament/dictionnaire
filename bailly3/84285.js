@@ -1,0 +1,1 @@
+lar[84285]=`<b>προ·ευπεπτέω-ῶ</b>, bien digérer auparavant, GAL. <i>14, 298</i>.`

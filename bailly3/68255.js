@@ -1,0 +1,1 @@
+lar[68255]=`<b>νεοσσο·τροφέω</b>, <i>att</i>. <b>νεοττο·τροφέω-ῶ</b>, élever ses petits <i>ou</i> des enfants, AR. <i>Nub. 999</i> ; PHIL. <i>2, 200</i>.<p><b>Étym</b>. νεοσσός, τροφή.`

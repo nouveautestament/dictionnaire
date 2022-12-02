@@ -1,0 +1,1 @@
+lar[35964]=`<b>ἐξ·ηπιαλόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> se changer en fièvre violente, HPC. <i>53, 17</i>.<p><b>Étym</b>. ἐξ, ἠπίαλος.`

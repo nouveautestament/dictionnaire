@@ -1,0 +1,1 @@
+lar[32826]=`<b>α, ον</b> <font color="purple">[ῐκ]</font> de l’Hélicon ; <i>en parl. d’Apollon,</i> ANTH. <i>9, 389 ; d’Hermès,</i> NONN. <i>D. 41, 373</i> ; Ἑλικώνιαι παρθένοι, PD. <i>I. 7, 127,</i> les Muses ; <i>en parl. de choses,</i> ANTH. <i>7, 697</i> ; LUC. <i>J. tr. 26, etc</i>.<p><b>Étym</b>. Ἑλικών.`

@@ -1,0 +1,1 @@
+lar[9106]=`<font color="purple">[νῐ]</font> <i>adv</i>., en un nombre de fois inégal, NICOM. <i>Arithm. 131</i>.<p><b>Étym</b>. ἄνισος.`

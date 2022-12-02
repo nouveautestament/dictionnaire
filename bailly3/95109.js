@@ -1,0 +1,1 @@
+lar[95109]=`<b>συν·διακόπτω</b>, couper <i>ou</i> séparer en même temps, ORIB. <i>Fract. p. 88</i>.`

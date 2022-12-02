@@ -1,0 +1,1 @@
+lar[96417]=`<b>συν·υποδύομαι</b> <font color="darkgreen">(<i>f</i>. -δύσομαι, <i>ao.2</i> συνυπέδυν, <i>etc</i>.)</font> pénétrer ensemble dans, <i>càd</i>. s’associer à, participer à, <i>dat</i>. PLUT. <i>M. 542b, ou acc</i>. PLUT. <i>Brut. 18</i>.`

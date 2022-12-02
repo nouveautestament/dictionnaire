@@ -1,0 +1,1 @@
+lar[74874]=`<b>παν·άπιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait incroyable, P. SIL. <i>Ecphr. ag. Soph. 447</i>.<p><b>Étym</b>. π. ἄπιστος.`

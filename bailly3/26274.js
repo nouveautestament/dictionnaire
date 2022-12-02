@@ -1,0 +1,1 @@
+lar[26274]=`<b>δι·ερμηνεύω</b>, interpréter, expliquer, POL. <i>3, 22, 3</i> ; SPT. <i>2Macc. 1, 36</i> ; PHIL. <i>1, 226, etc</i>.`

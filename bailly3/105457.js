@@ -1,0 +1,1 @@
+lar[105457]=`<b>φιλ·άκρατος, ος, ον</b> <font color="purple">[ῐᾱτ]</font> qui aime le vin pur, <i>d’où</i> ivrogne, <i>en parl. d’Anacréon,</i> SIM. <i>fr. 179 ; de Dionysos,</i> ANTH. <i>6, 169 ; p. anal. en parl. de choses</i> (plante, ANTH. <i>4, 1, 53, etc</i>.).<p>➳ <i>Ion</i>. φιλάκρητος, ANTH. <i>ll. cc</i>.`

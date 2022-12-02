@@ -1,0 +1,1 @@
+lar[82814]=`<b>πορνο·κόπος, ου (ὁ)</b> débauché, MÉN. <i>4, 320 Meineke</i> ; SPT. <i>Prov. 23, 21, etc</i>.<p><b>Étym</b>. π. κόπτω.`

@@ -1,0 +1,1 @@
+lar[67626]=`<b>ναο·ποιός, οῦ</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. qui construit un temple, ARSTT. <i>Rhet. 1, 14, 1</i>.<p><b>Étym</b>. ναός, ποιέω.`

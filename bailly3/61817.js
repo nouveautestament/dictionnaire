@@ -1,0 +1,1 @@
+lar[61817]=`<b>ης, ες</b>, souillé de sang et de poussière, ANTH. <i>9, 258</i> ; SPT. <i>Sap. 11, 7</i>.<p><b>Étym</b>. λύθρον, -ωδης.`

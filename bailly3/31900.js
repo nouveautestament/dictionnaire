@@ -1,0 +1,1 @@
+lar[31900]=`<b>ος, ον :<br>      1</b> cédé en adoption (<i>p. opp. à</i> εἰσποίητος, adopté), IS. <i>65, 41</i>.<br><b>      2</b> <i>p. suite,</i> devenu étranger à : ἐκποίητός τινος, IS. <i>66, 3,</i> affranchi de l’autorité de qqn ; <i>fig</i>. ἐκπ. τῆς κακίας, PLUT. <i>M. 562e</i>, émancipé du vice.<p><b>Étym</b>. ἐκποιέω.`

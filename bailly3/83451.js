@@ -1,0 +1,1 @@
+lar[83451]=`<b>*πρίς</b>, <i>seul. gén</i>. <b>πρινός</b> <i>dans la locut</i>. πρινὸς ἄνθος, SIM. <i>fr. 54 Bgk,</i> fleur de l’yeuse, <i>càd</i>. kermès, <i>sorte de cochenille qui donne une teinture écarlate ; cf</i>. πρῖνος.<p><b>Étym</b>. <i>mauv. leç. p</i>. πρίνου.`

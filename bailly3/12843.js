@@ -1,0 +1,1 @@
+lar[12843]=`<b>ἀπο·λωπίζω</b>, dévêtir, dépouiller, SOPH. <i>fr. 844</i>.<p><b>Étym</b>. ἀ. λῶπος.`

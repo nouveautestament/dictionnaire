@@ -1,0 +1,1 @@
+lar[75514]=`<b>παρα·διακονέω-ῶ</b> <font color="purple">[ᾱκ]</font> être auprès de qqn pour le servir, <i>dat</i>. AR. <i>Av. 838</i>.`

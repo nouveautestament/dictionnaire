@@ -1,0 +1,1 @@
+lar[102529]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[μᾰ]</font> trop grand échauffement, chaleur excessive, HPC. <i>462, 3 et 46</i>.<p><b>Étym</b>. ὑπερθερμαίνω.`

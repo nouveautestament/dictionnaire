@@ -1,0 +1,1 @@
+lar[110006]=`être froid, parler ou écrire froidement, HERMOG. (<i>W. 3, 226).</i><p><b>Étym</b>. ψυχρός.`

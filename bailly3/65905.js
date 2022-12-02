@@ -1,0 +1,1 @@
+lar[65905]=`<b>ατος (τὸ)</b> <font color="purple">[ῐῠ]</font> accents plaintifs et doux, gazouillement, THCR. <i>Epigr. 4, 11</i> ; CLÉM. <i>376a</i>.<p><b>Étym</b>. μινυρίζω.`

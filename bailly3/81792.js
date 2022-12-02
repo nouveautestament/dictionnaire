@@ -1,0 +1,1 @@
+lar[81792]=`<b>πολυ·γλυφής, ής, ές</b> <font color="purple">[ῠφ]</font> aux sculptures nombreuses <i>ou</i> variées, NONN. <i>D. 3, 136</i>.<p><b>Étym</b>. π. γλύφω.`

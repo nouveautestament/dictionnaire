@@ -1,0 +1,1 @@
+lar[61885]=`<b>λυκ·όδοντες, ων (οἱ)</b> <font color="purple">[ῠ]</font> les dents canines, <i>c</i>. κυνόδοντες, GAL. <i>De usu part. 11, 1</i>.<p><b>Étym</b>. λ. ὀδούς.`

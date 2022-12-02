@@ -1,0 +1,1 @@
+lar[54697]=`<b>κεν·όδοντις, ιδος</b> <font color="purple">[ῐ]</font> <i>adj. f</i>. édentée, sans dents, ANTH. <i>6, 297</i>.<p><b>Étym</b>. κ. ὀδούς.`

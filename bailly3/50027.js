@@ -1,0 +1,1 @@
+lar[50027]=`<b>α, ον</b> <font color="purple">[ῑφ]</font> <i>seul. dans la locut</i>. ἴφια μῆλα, IL. <i>5, 556, etc</i>. troupeau de moutons forts, vigoureux.<p><b>Étym</b>. ἶφι.`

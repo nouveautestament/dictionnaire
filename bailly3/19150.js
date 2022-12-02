@@ -1,0 +1,1 @@
+lar[19150]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠῡ]</font> irritation, mécontentement, ARSTT. <i>Virt. et vit. 6, 7</i> ; PLUT. <i>Mar. 40 ; Alex. 70 ; M. 417d, etc</i>.<p><b>Étym</b>. βαρύθυμος.`

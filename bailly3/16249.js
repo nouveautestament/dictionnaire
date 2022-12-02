@@ -1,0 +1,1 @@
+lar[16249]=`<b>ας (ἡ) :<br>      1</b> maladresse, PLUT. <i>M. 880a.</i><br><b>      2</b> imprudence, irréflexion, POL. <i>2, 33</i>.<p><b>Étym</b>. ἄστοχος.`

@@ -1,0 +1,1 @@
+lar[46683]=`<b>θεό·κριτος, ος, ον</b> <font color="purple">[ῐ]</font> qui juge les déesses (Paris) ANTH. <i>15, 26 (gén</i>. -οιο).<p><b>Étym</b>. θ. κρίνω.`

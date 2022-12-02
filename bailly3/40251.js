@@ -1,0 +1,1 @@
+lar[40251]=`<b>ἐρεβ·ῶπις, ιδος</b>, <i>adj. f</i>. aux yeux sombres, ORPH. <i>Lith. 538</i>.<p><b>Étym</b>. ἔρεβος, ὤψ.`

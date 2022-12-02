@@ -1,0 +1,1 @@
+lar[80377]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐῠ]</font> sagesse, IL. <i>7, 289</i> ; OD. <i>20, 71</i>.<p><b>Étym</b>. πινύσσω.`

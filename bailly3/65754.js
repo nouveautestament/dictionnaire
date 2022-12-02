@@ -1,0 +1,1 @@
+lar[65754]=`<b>μικρό·τριχος, ος, ον</b> <font color="purple">[ῐχ]</font> qui a les cheveux courts <i>ou</i> peu de cheveux, ARSTT. <i>H.A. 2, 1, 17</i>.<p><b>Étym</b>. μ. θρίξ.`

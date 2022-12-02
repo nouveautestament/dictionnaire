@@ -1,0 +1,1 @@
+lar[75784]=`<b>παρ·ακονάω-ῶ</b> <font color="purple">[ᾰκ]</font> aiguiser en outre, TH. <i>H.P. 5, 5, 1 ; fig</i>. XÉN. <i>Cyr. 6, 2, 33 ; au pass</i>. AR. <i>Ran. 1116</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PHILSTR. <i>865</i>.`

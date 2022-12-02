@@ -1,0 +1,1 @@
+lar[107281]=`<b>ης (ἡ)</b> gros intestin, <i>d’où</i> viande dont on le farcit, boudin, AR. <i>Eq. 364</i> ; PHÉRÉCR. (ATH. <i>268f</i>), <i>etc.</i> ; LUC. <i>Lex. 3</i> ; CRAT. (<i>Com. fr. 2, 107).</i><p><b>Étym</b>. φυσάω.`

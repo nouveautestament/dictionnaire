@@ -1,0 +1,1 @@
+lar[1868]=`<i>adv.</i> : ἀζ. ἔχειν τινός, PHIL. <i>1, 96,</i> n’avoir aucune aptitude pour chercher qqe ch.`

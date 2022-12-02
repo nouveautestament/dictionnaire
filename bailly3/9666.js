@@ -1,0 +1,1 @@
+lar[9666]=`<b>ἀντ·επίσταμαι</b>, être en science rival de, <i>dat</i>. CLÉM. <i>365</i>.`

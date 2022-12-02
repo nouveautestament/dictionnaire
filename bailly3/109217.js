@@ -1,0 +1,1 @@
+lar[109217]=`<b>χρυσο·μίτρης, ου</b> <font color="purple">[ῡ]</font> <i>adj. m.</i> :<br><b>      1</b> au bandeau d’or <i>ou</i> à la mitre d’or, SOPH. <i>O.R. 209</i>.<br><b>      2</b> à la ceinture d’or, HIPPOLOCH. (ATH. <i>130b</i>).<p>➳ <i>Dor</i>. χρυσομίτρας, SOPH. <i>l. c</i>.<p><b>Étym</b>. χρ. μίτρα.`

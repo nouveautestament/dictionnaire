@@ -1,0 +1,1 @@
+lar[56371]=`<b>ου (τὸ)</b> conge, <i>mesure de liquides, environ 3,24 l en Grèce antique, vaut 12 cotyles,</i> DIOSC.`

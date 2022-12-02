@@ -1,0 +1,1 @@
+lar[16380]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne la fonction d’astynome, PLAT. <i>Rsp. 425d ;</i> ARSTT. <i>Pol. 2, 5, 21</i>.<p><b>Étym</b>. ἀστυνόμος.`

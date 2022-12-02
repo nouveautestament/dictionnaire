@@ -1,0 +1,1 @@
+lar[68881]=`<i>adv</i>., d’une façon non sincère, SPT. <i>3Macc. 3, 17</i>.<p><b>Étym</b>. νόθος.`

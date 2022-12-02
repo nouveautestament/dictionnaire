@@ -1,0 +1,1 @@
+lar[5982]=`<b>α, ον</b> <font color="purple">[φᾰ]</font> qui se fait ouvertement, public, OD. <i>6, 288 ; adv</i>. ἀμφαδίην, IL. <i>7, 196 ; 13, 356</i> ; OD. <i>5, 120</i> ; THGN. <i>90, etc</i>. ouvertement, publiquement.<p><b>Étym</b>. <i>contr. p</i>. ἀναφάδιος, <i>cf</i>. ἀμφαδόν.`

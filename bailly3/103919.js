@@ -1,0 +1,1 @@
+lar[103919]=`<b>ὑπό·στυλος, ος, ον</b> <font color="purple">[ῡλ]</font> supporté par des colonnes, HÉCAT. (DS. <i>1, 48) ; subst</i>. τὸ ὑπόστυλον, PHIL. PARADOX. <i>VII mir. p. 5,</i> colonnade.<p><b>Étym</b>. ὑ. στῦλος.`

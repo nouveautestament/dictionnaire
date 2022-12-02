@@ -1,0 +1,1 @@
+lar[33065]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> le sol, POL. <i>6, 27, 2</i>.<br><b>      2</b> <i>t. de math</i>. superficie, THEOL. <i>18, 19 Ast</i>.<p><b>Étym</b>. ἐμβαίνω.`

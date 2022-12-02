@@ -1,0 +1,1 @@
+lar[25395]=`<b>εως (ἡ) :<br>      1</b> chute, faux pas, égarement, erreur, PLUT. <i>M. 800a ;</i> SEXT. <i>M. 7, 423</i>.<br><b>      2</b> douleur, SPT. <i>1Par. 1, 4, 9</i>.<p><b>Étym</b>. διαπίπτω.`

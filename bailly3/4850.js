@@ -1,0 +1,1 @@
+lar[4850]=`<b>ἀλλό·χρως, ως, ων</b>, <i>gén</i>. <b>ωτος :<br>      1</b> de couleur autre, TH. <i>Sens. 50</i>.<br><b>      2</b> d’aspect étranger, EUR. <i>Ph. 138, Andr. 879</i>.<p><b>Étym</b>. ἄ. χρώς.`

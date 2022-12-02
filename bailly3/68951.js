@@ -1,0 +1,1 @@
+lar[68951]=`<b>νομοφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> être gardien des lois, ARSTT. <i>Ath. 8, 4</i> ; LIB. <i>t. 4, 28, p. 801</i>.<p><b>Étym</b>. νομοφύλαξ.`

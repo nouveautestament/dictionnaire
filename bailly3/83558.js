@@ -1,0 +1,1 @@
+lar[83558]=`<b>προ·αναλέγομαι</b>, extraire <i>ou</i> recueillir auparavant, <i>acc</i>. GEOP. <i>10, 22, 1</i>.`

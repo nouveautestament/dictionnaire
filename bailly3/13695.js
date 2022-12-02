@@ -1,0 +1,1 @@
+lar[13695]=`<b>ἀπ·ουραγέω-ῶ</b> <font color="purple">[ᾱγ]</font> conduire <i>ou</i> commander l’arrière-garde, POL. <i>3, 49, 13</i> ; τινι, POL. <i>5, 7, 11, etc</i>. couvrir les derrières (d’une armée).`

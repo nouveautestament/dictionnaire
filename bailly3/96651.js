@@ -1,0 +1,1 @@
+lar[96651]=`<b>συσ·συκοφαντέω-ῶ</b> <font color="purple">[ῡκ]</font> dénoncer, calomnier <i>ou</i> intriguer ensemble, DÉM. <i>1339, 3</i>.`

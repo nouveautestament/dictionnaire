@@ -1,0 +1,1 @@
+lar[33269]=`<b>ας (ἡ)</b> proportion, juste mesure, PLAT. <i>Rsp. 486d, Phil. 52c, etc</i>.<p><b>Étym</b>. ἔμμετρος.`

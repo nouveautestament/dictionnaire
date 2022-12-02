@@ -1,0 +1,1 @@
+lar[51793]=`AR. <i>Th. 1210, barbarisme d’un Scythe pour le mot</i> χαρίεν.`

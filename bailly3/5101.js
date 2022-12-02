@@ -1,0 +1,1 @@
+lar[5101]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui travaille en grange, NONN. <i>Jo. 4, 37</i>.<br><b>      2</b> cultivateur, <i>en gén</i>. A.RH. <i>3, 1401</i> ; ARAT. <i>1045</i>.<p><b>Étym</b>. ἅλως.`

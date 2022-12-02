@@ -1,0 +1,1 @@
+lar[56166]=`<b>Κλυτο·μήδης, εος</b>, <i>acc</i>. <b>εα (ὁ)</b> <font color="purple">[ῠ]</font> Klytomèdès, <i>h</i>. IL. <i>23, 634</i>.<p><b>Étym</b>. κλ. μήδομαι.`

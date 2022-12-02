@@ -1,0 +1,1 @@
+lar[57616]=`<b>κραταί·ρινος, ος, ον</b> <font color="purple">[ρῑ]</font> au cuir fort <i>ou</i> épais, ORACL. (HDT. <i>1, 47).</i><p><b>Étym</b>. κραταιός, ῥινός.`

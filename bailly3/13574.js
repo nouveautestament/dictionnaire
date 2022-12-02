@@ -1,0 +1,1 @@
+lar[13574]=`<b>ή, όν :<br>      1</b> qui accomplit, qui produit, <i>gén</i>. PLAT. <i>Def. 412c ;</i> PLUT. <i>M. 652a.</i><br><b>      2</b> <i>t. de gr</i>. qui marque la finalité, final, DYSC. <i>Synt. 265, 27</i>.<p><b>Étym</b>. ἀποτελέω.`

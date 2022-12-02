@@ -1,0 +1,1 @@
+lar[13821]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> diffusion (de la lumière, <i>etc</i>.) SEXT. <i>P. 3, 51</i>.<br><b>      2</b> croissance du blé qui monte en épis, TH. <i>H.P. 8, 10, 4</i>.<br><b>      3</b> rejeton, bourgeon, TH. <i>H.P. 8, 3, 4</i>.<p><b>Étym</b>. ἀποχέω.`

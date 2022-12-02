@@ -1,0 +1,1 @@
+lar[64813]=`<b>εως (ἡ)</b> travail d’une mine, PALÆPH. <i>10</i> ; PHIL. BYZ. <i>Bel. 91b</i>.<p><b>Étym</b>. μεταλλεύω.`

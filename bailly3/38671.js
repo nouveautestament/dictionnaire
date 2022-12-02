@@ -1,0 +1,1 @@
+lar[38671]=`<b>ἐπι·πήγνυμι</b> <font color="purple">[ῡ]</font><br><b>      1</b> faire figer <i>ou</i> durcir à la surface, XÉN. <i>Cyn. 5, 1 ; d’où au pass</i>. se congeler, à la surface, TH. <i>C.P. 5, 13, 2</i>.<br><b>      2</b> ficher sur, <i>d’où</i> emboîter, ajuster solidement, P. SIL. <i>Ecphr. ag. Soph. 497</i>.`

@@ -1,0 +1,1 @@
+lar[87337]=`<b>ητος (ἡ)</b> état d’un être ailé, ARSTT. <i>P.A. 1, 3, 2</i>.<p><b>Étym</b>. πτερόν.`

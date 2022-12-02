@@ -1,0 +1,1 @@
+lar[83914]=`<b>προ·διαδίδωμι</b> <font color="darkgreen">(<i>f</i>. -διαδώσω, <i>ao</i>. προδιέδωκα, <i>etc</i>.)</font> répandre d’avance (un bruit, <i>etc</i>.) POL. <i>40, 4, 2</i>.`

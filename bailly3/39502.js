@@ -1,0 +1,1 @@
+lar[39502]=`<font color="purple">[ρῐ]</font> <i>adv</i>., dans le rapport de 4 à 3, NICOM. <i>Arithm. 136</i>.`

@@ -1,0 +1,1 @@
+lar[50162]=`<b>ου (ὁ)</b> Josèphe, <i>historien</i>.`

@@ -1,0 +1,1 @@
+lar[41550]=`<i>adv</i>., avec des sens vifs <i>ou</i> délicats, PLAT. <i>Rsp. 527d ;</i> ἔχειν, PLAT. <i>Leg. 670b, etc</i>. être sensible <i>ou</i> intelligent.<p>•<i> Cp</i>. -οτέρως, PLAT. <i>Rsp. 527d</i>.`

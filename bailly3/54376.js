@@ -1,0 +1,1 @@
+lar[54376]=`<b>ας (ἡ) :<br>      1</b> mauvaise constitution physique, PLAT. <i>Gorg. 450a ;</i> ARSTT. <i>P.A. 3, 5</i> ; PLUT. <i>M. 2e.</i><br><b>      2</b> mauvaise disposition morale, DIPH. (ATH. <i>254f</i>) ; POL. <i>5, 87, 3</i>.<p><b>Étym</b>. καχέκτης.`

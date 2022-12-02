@@ -1,0 +1,1 @@
+lar[101720]=`<b>ή, όν</b> <font color="purple">[ῡ]</font><br><b>      1</b> matériel, corporel, ARSTT. <i>Metaph. 7, 4, 1 ; 8, 7, 7, etc</i>. TH. <i>C.P. 6, 6, 5</i> ; PLUT. <i>M. 436b, 720e ;</i> τὸ ὑλικόν, ARSTT. <i>P.A. 6, 10, 5,</i> la matière.<br><b>      2</b> charnel, <i>d’où</i> impur, CLÉM.<p>•<i> Sup</i>. -ώτατος, SYN.<p><b>Étym</b>. ὕλη.`

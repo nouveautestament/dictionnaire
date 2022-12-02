@@ -1,0 +1,1 @@
+lar[72637]=`<b>ὀρέσ·κιος, ος, ον</b>, qui vit dans les montagnes ombreuses, ANTH. <i>9, 524, 16</i>.<p><b>Étym</b>. ὄρος, σκιά.`

@@ -1,0 +1,1 @@
+lar[107095]=`<b>ου</b> <i>ou, sel. d’autres,</i> <b>φυλακός, οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> <i>poét. c</i>. φύλαξ, IL. <i>24, 566</i> ; HDT. <i>1, 84, 89 ; 2, 113 ; 3, 4</i> ; THCR. <i>Idyl. 29, 38</i> ; A.RH. <i>1, 132</i>.`

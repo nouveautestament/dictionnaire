@@ -1,0 +1,1 @@
+lar[65471]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> propre à faire connaître, qui révèle, DC. <i>78, 21</i> ; SEXT. <i>P. 1, 187, M. 1, 106</i>.<p><b>Étym</b>. μηνύω.`

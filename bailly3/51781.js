@@ -1,0 +1,1 @@
+lar[51781]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui rend la tête lourde, HPC. (ATH. <i>45f</i>).<br><b>      2</b> sujet au mal de tête, HPC. <i>Epid. 3, 1002</i>.<p><b>Étym</b>. καρηβαρής.`

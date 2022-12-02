@@ -1,0 +1,1 @@
+lar[44807]=`<b>ου (ὁ)</b> Zôroastrès (Zoroastre) <i>législateur persan</i>, PLAT. <i>1 Alc. 122a ;</i> DL. <i>1, 2</i>.`

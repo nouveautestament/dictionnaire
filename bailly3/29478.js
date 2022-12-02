@@ -1,0 +1,1 @@
+lar[29478]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> affublement, AR. <i>Av. 1496 conj</i>.<p><b>Étym</b>. ἐγκαλύπτω.`

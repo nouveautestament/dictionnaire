@@ -1,0 +1,1 @@
+lar[90904]=`<b>ου (ἡ)</b> Skidros, <i>v. près de Sybaris,</i> HDT. <i>6, 21</i>.`

@@ -1,0 +1,1 @@
+lar[1929]=`<b>ἀ·θάλασσος</b>, <i>att</i>. <b>ἀθάλαττος, ος, ον</b> <font color="purple">[θᾰ]</font><br><b>      1</b> non maritime, éloigné de la mer, MÉN. (ATH. <i>132f</i>).<br><b>      2</b> sans expérience de la mer, M. TYR. <i>2, 17 Dübn.</i> ; GAL. <i>13, 903</i>.<br><b>      3</b> non mêlé d’eau de mer, DIOSC. <i>5, 11</i>.<p><b>Étym</b>. ἀ, θάλασσα.`

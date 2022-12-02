@@ -1,0 +1,1 @@
+lar[28782]=`<b>ας (ἡ)</b> désobéissance, insubordination, APP. <i>Civ. 1, 48</i>.<p><b>Étym</b>. δυσπειθής.`

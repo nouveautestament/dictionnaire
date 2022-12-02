@@ -1,0 +1,1 @@
+lar[49532]=`<b>ἰσ·άξιος, ος, ον</b> <font color="purple">[ῑ̆σ]</font> égal en mérite, également respectable, PORPH. <i>Abst. 2, 55</i>.<p><b>Étym</b>. ἴ. ἄξιος.`

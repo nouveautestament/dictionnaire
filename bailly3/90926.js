@@ -1,0 +1,1 @@
+lar[90926]=`<b>αρος (τὸ)</b> <font color="purple">[ῐᾰ]</font> corps, NIC. <i>Th. 694</i>.`

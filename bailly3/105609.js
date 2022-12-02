@@ -1,0 +1,1 @@
+lar[105609]=`<b>φιλ·ηλάκατος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui aime la quenouille, ANTH. <i>6, 160</i>.<p><b>Étym</b>. φ. ἠλακάτη.`

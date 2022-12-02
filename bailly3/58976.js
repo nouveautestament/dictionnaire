@@ -1,0 +1,1 @@
+lar[58976]=`<b>ου (ἡ)</b> Kyrnos :<br><b>      1</b> <i>î. de la Méditerranée (auj</i>. la Corse) HDT. <i>1, 165</i>.<br><b>      2</b> <i>de Carystie,</i> HDT. <i>9, 105</i>.`

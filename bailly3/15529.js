@@ -1,0 +1,1 @@
+lar[15529]=`<b>ἀρχέ·λαος, ος, ον</b> <font color="purple">[λᾱ]</font> qui commande au peuple, chef du peuple, ESCHL. <i>Pers. 297 (Weil,</i> ἀρχελείων, <i>poét. c</i>. ἀρχέλεων, <i>att. c</i>. ἀρχελάων).<p><b>Étym</b>. ἄρχω, λαός.`

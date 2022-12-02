@@ -1,0 +1,1 @@
+lar[96868]=`<b>ατος (τὸ) :<br>      1</b> bas du cimier d’un casque, AR. <i>Pax 1216 ; d’où</i> cimier, SOPH. <i>fr. 314</i>.<br><b>      2</b> lien, bandage, ceinture, DIOSC. <i>Præf. 8</i> ; P. ÉG. <i>6, 25</i>.<br><b>      3</b> couvercle de marmite, DIOSC. <i>Iob. 19, p. 76</i>.<p><b>Étym</b>. σφηκόω.`

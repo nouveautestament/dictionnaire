@@ -1,0 +1,1 @@
+lar[19039]=`<b>ατος (τὸ) :<br>      1</b> baptême, NT. ECCL.<br><b>      2</b> supplice de l’immersion, <i>qqf. appliqué aux martyrs,</i> NAZ. <i>2, 236b Migne</i>.<p><b>Étym</b>. βαπτίζω.`

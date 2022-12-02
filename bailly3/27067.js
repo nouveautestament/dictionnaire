@@ -1,0 +1,1 @@
+lar[27067]=`<b>δί·στιχος, ος, ον</b>, disposé sur deux rangs, PLUT. <i>M. 906b ; particul. t. de pros</i>. formé de deux vers, ANTH. <i>9, 369</i> ; LUC. <i>2, 125 Reitz</i> ; τὸ δίστιχον, ANTH. <i>6, 329,</i> distique, réunion d’un hexamètre et d’un pentamètre.<p><b>Étym</b>. δίς, στίχος.`

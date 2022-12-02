@@ -1,0 +1,1 @@
+lar[76912]=`<b>παρθενο·τροφέω-ῶ</b>, élever une jeune fille <i>ou</i> des jeunes filles, SUID. <i>v°</i> διαπαρθενεῦσαι ; <i>au pass</i>. THÉANO <i>Ep. 6</i>.<p><b>Étym</b>. π. τροφή.`

@@ -1,0 +1,1 @@
+lar[54251]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. κατῶρυξ, ARAT. <i>510</i> ; DC. <i>56, 11 fin</i>.`

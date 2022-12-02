@@ -1,0 +1,1 @@
+lar[15598]=`<b>ας (ἡ)</b> grande-prêtresse (des Vestales), <i>à Rome,</i> DC. <i>79, 9</i>.<p><b>Étym</b>. ἀρχιερεύς.`

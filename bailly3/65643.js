@@ -1,0 +1,1 @@
+lar[65643]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> <i>c</i>. μικτός, NIC. (ATH. <i>126c dout</i>.).`

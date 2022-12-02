@@ -1,0 +1,1 @@
+lar[54182]=`<b>κατ·ορχέομαι-οῦμαι :<br>      1</b> charmer par une danse, <i>acc</i>. LUC. <i>Salt. 22</i>.<br><b>      2</b> danser par dérision devant : τινα, HDT. <i>3, 151</i> ; τινος, PLUT. <i>M. 57,</i> devant qqn, <i>càd</i>. l’insulter, le railler outrageusement.<br><b>      3</b> danser avec ardeur, STR. <i>801</i>.`

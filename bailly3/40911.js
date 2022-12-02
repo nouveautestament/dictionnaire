@@ -1,0 +1,1 @@
+lar[40911]=`<b>ου (ἡ)</b> Érôkhos, <i>v. de Phocide,</i> HDT. <i>8, 33</i> ; Ἐρωχός, PAUS. <i>10, 3, 2</i>.`

@@ -1,0 +1,1 @@
+lar[16080]=`<i>adv</i>., avec négligence, BAS.`

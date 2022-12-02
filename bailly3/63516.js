@@ -1,0 +1,1 @@
+lar[63516]=`<b>-ῶ</b>, donner de la grandeur, SEXT. <i>M. 7, 108 ; en parl. du style,</i> LGN <i>40, 1</i>.<p><b>Étym</b>. μεγεθοποιός.`

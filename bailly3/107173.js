@@ -1,0 +1,1 @@
+lar[107173]=`<b>φυλο·βασιλεύς, έως (ὁ)</b> <font color="purple">[ῡᾰῐ]</font> roi d’une des quatre tribus ioniennes, <i>à Athènes, celui qui préside aux sacrifices de la tribu (cf. lat</i>. rex sacrificulus) <i>et qui supplée l’archonte-roi au tribunal des Prytanes,</i> ARSTT. <i>fr. 349</i>.<p><b>Étym</b>. φῦλον, βασιλεύς.`

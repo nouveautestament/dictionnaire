@@ -1,0 +1,1 @@
+lar[58020]=`<b>ου (τὸ)</b> échinops, <i>plante,</i> DIOSC. <i>3, 12</i>.`

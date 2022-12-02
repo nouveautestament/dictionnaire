@@ -1,0 +1,1 @@
+lar[45124]=`<b>όεσσα, όεν</b>, qui fournit de l’herbe, des pâturages, Q. SM. <i>5, 299</i>.<p><b>Étym</b>. ἤϊα².`

@@ -1,0 +1,1 @@
+lar[3064]=`<font color="purple">[κᾰ]</font> <i>adv</i>., sans méchanceté, JAMBL. <i>Protr. 350</i>.`

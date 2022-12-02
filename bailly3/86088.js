@@ -1,0 +1,1 @@
+lar[86088]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de parvenir à, d’obtenir, <i>gén</i>. HPC. <i>28, 8</i>.<p><b>Étym</b>. προσκυρέω.`

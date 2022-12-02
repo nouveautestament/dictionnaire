@@ -1,0 +1,1 @@
+lar[21453]=`<b>ου (ὁ)</b> Gaulitès :<br><b>      1</b> <i>Carien,</i> THC. <i>8, 85</i>.<br><b>      2</b> <i>Samien,</i> XÉN. <i>An. 1, 7, 5</i>.<p><b>Étym</b>. γαῦλος.`

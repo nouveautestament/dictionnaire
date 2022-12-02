@@ -1,0 +1,1 @@
+lar[55095]=`<b>ας (ἡ)</b> Képhallènia (<i>auj</i>. Kefaloniá, Céphalonie <i>ou</i> Kefallinía) <i>î. de la mer Ionienne,</i> HDT. <i>9, 28</i> ; ARSTT. <i>H.A. 8, 28, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.`

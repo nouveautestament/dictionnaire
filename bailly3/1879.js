@@ -1,0 +1,1 @@
+lar[1879]=`(<i>seul. prés</i>.) gémir, SOPH. <i>fr. 808</i>.<p><b>Étym</b>. ἆ.`

@@ -1,0 +1,1 @@
+lar[71642]=`<b>ὁμό·πιστος, ος, ον</b>, de même foi, de même religion, CHRYS. <i>4, 448</i>.<p><b>Étym</b>. ὁμ. πίστις.`

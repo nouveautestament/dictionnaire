@@ -1,0 +1,1 @@
+lar[75454]=`<b>εως (ἡ)</b> <font color="purple">[ᾰγ]</font> refus, interdiction, JOS. <i>A.J. 18, 9, 2</i>.<p><b>Étym</b>. π. ἀγορεύω.`

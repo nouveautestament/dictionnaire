@@ -1,0 +1,1 @@
+lar[104067]=`<b>ὑπό·τυφος, ος, ον</b> <font color="purple">[τῡ]</font> un peu vain, un peu orgueilleux, ION (PLUT. <i>Per. 5</i>) ; SYN. <i>p. 39d</i>.<p><b>Étym</b>. ὑ. τῦφος.`

@@ -1,0 +1,1 @@
+lar[77353]=`<b>πατρι·άρχης, ου (ὁ)</b> auteur <i>ou</i> chef d’une famille, patriarche, SPT. <i>1Par. 27, 22</i> ; NT. <i>Ap. 2, 29 ; 7, 8 ; Hebr. 7, 4</i>.<p><b>Étym</b>. πατριά¹, ἄρχω.`

@@ -1,0 +1,1 @@
+lar[50957]=`<b>ϊδος</b>, <i>acc</i>. <b>ϊν (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Kalaïs, <i>fils de Borée,</i> PD. <i>P. 4, 324</i> ; A.RH. <i>1, 211, etc</i>.`

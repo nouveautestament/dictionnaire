@@ -1,0 +1,1 @@
+lar[31354]=`<b>ἐκ·θύω</b> <font color="purple">[ῡ]</font> faire éruption, <i>en parl. d’inflammation,</i> HPC. <i>427, 1 et 9</i>.`

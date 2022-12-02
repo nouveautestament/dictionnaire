@@ -1,0 +1,1 @@
+lar[51428]=`<b>ης, ες</b> <font color="purple">[ᾰῑ]</font> qui ressemble à un feu <i>ou</i> à un fourneau, STR. <i>246</i>.<p><b>Étym</b>. κάμινος, -ωδης.`

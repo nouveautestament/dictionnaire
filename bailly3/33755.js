@@ -1,0 +1,1 @@
+lar[33755]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> état d’un être animé, vie, PLUT. <i>M. 1053b ;</i> SEXT. <i>P. 2, 5, 25</i>.<p><b>Étym</b>. ἔμψυχος.`

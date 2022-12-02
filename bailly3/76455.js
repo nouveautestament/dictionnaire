@@ -1,0 +1,1 @@
+lar[76455]=`<b>παρα·χαλάω-ῶ</b> <font color="purple">[χᾰ]</font><br><b>      1 <i>tr.</i></b> relâcher, détendre, <i>acc</i>. HPC. <i>606, 33</i>.<br><b>      2 <i>intr.</i></b> se relâcher, se disjoindre, <i>en parl. d’un navire qui fait eau,</i> AR. <i>Eq. 434</i>.`

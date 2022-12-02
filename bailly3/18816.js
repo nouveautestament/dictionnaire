@@ -1,0 +1,1 @@
+lar[18816]=`<b>βαθύ·στομος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> à bouche profonde, <i>càd</i>. à large et profonde ouverture (caverne) STR. <i>756</i>.<br><b>      2</b> qui fait une entaille profonde, Q. SM. <i>1, 337 (var</i>. βαρύστομος).<p><b>Étym</b>. β. στόμα.`

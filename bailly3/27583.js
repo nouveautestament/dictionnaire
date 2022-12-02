@@ -1,0 +1,1 @@
+lar[27583]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰλ]</font> prise d’assaut (<i>litt</i>. capture par la lance) APP. <i>Civ. 4, 52</i>.<p><b>Étym</b>. δοριάλωτος.`

@@ -1,0 +1,1 @@
+lar[77885]=`<b>πεμπτη·μόριον, ου (τὸ)</b> la cinquième partie, le cinquième, HPC. <i>580, 26</i> ; PLAT. <i>Leg. 956c</i>.<p><b>Étym</b>. πέμπτος, μόριον.`

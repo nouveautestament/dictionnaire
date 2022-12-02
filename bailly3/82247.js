@@ -1,0 +1,1 @@
+lar[82247]=`<font color="purple">[ᾰσ]</font> <i>c</i>. πολλαπλασιάζω, PLUT. <i>M. 388d ;</i> HDN <i>8, 2</i>.<p><b>Étym</b>. πολυπλάσιος.`

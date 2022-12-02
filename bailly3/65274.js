@@ -1,0 +1,1 @@
+lar[65274]=`<b>ου (ὁ)</b> Mèdeios :<br><b>      1</b> <i>fils de Jason et de Médée,</i> HÉS. <i>Th. 1001</i>.<br><b>      2</b> <i>autres,</i> DÉM. <i>1052, 6, etc</i>.`

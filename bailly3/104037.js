@@ -1,0 +1,1 @@
+lar[104037]=`<b>ὑπο·τρομέω-ῶ</b>, trembler un peu, IL. <i>22, 241</i> ; τινά, IL. <i>20, 28,</i> devant qqn.<p><b>Étym</b>. ὑπότρομος.`

@@ -1,0 +1,1 @@
+lar[59577]=`<font color="purple">[ᾰκ]</font> crier, ESCHL. <i>Sept. 186, Suppl. 872</i>.`

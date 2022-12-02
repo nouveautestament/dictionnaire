@@ -1,0 +1,1 @@
+lar[38129]=`<b>ατος (τὸ)</b> secours, protection contre, <i>gén</i>. XÉN. <i>An. 4, 5, 13</i>.<p><b>Étym</b>. ἐπικουρέω.`

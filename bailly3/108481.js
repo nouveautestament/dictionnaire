@@ -1,0 +1,1 @@
+lar[108481]=`<b>χιμαρο·σφακτήρ, ῆρος (ὁ)</b> <font color="purple">[ῐμᾰ]</font> égorgeur de chèvres, <i>ép. du loup,</i> ANTH. <i>9, 558</i>.<p><b>Étym</b>. χίμαρος, σφάζω.`

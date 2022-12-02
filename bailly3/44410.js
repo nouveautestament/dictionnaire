@@ -1,0 +1,1 @@
+lar[44410]=`<b>ζά·πυρος, ος, ον</b> <font color="purple">[ῠ]</font> tout en feu, ESCHL. <i>Pr. 1084</i>.<p><b>Étym</b>. ζα-, πῦρ.`

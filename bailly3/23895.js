@@ -1,0 +1,1 @@
+lar[23895]=`<b>δεξί·μηλος, ος, ον</b> <font color="purple">[ῐ]</font> qui reçoit des brebis, <i>càd</i>. où <i>ou</i> près de qui l’on immole des brebis, EUR. <i>Ph. 632, Andr. 129, 1138</i>.<p><b>Étym</b>. δέχομαι, μῆλον.`

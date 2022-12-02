@@ -1,0 +1,1 @@
+lar[102149]=`<b>ὑπ·εκτρέπω</b>, détourner doucement : πόδα τινός, SOPH. <i>Tr. 549,</i> le pied de qqe ch.<br><b><i>Moy.</i></b> (<i>inf. ao.2</i> ὑπεκτραπέσθαι) se détourner de, éviter, <i>acc</i>. PLAT. <i>Phæd. 108b ; avec l’inf</i>. SOPH. <i>O.C. 566</i>.`

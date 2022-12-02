@@ -1,0 +1,1 @@
+lar[13795]=`<b>ἀπο·χέω</b> (<i>seul. prés. et ao. pass</i>. ἀπεχύθην <font color="purple">[ῠ]</font>) répandre, épancher, <i>d’où au pass</i>. s’épancher, se répandre, POL. <i>34, 9, 10</i> ; DIOSC. <i>1, 105</i> ; ἀποχυθέντα φύλλα, PLUT. <i>M. 332b</i>, feuilles qui tombent.`

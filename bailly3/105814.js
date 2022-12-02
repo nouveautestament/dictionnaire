@@ -1,0 +1,1 @@
+lar[105814]=`<b>φίλ·οιστρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les transports des fêtes de Bacchus <i>ou</i> de Cybèle, ORPH. <i>H. 26, 13, etc</i>.<p><b>Étym</b>. φ. οἶστρος.`

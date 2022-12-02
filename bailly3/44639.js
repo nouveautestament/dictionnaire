@@ -1,0 +1,1 @@
+lar[44639]=`<b>ας (ἡ)</b> <font color="purple">[ῠμᾰ]</font> lutte entre compagnons, rixe, querelle, ARISTÉN. <i>2, 22</i>.<p><b>Étym</b>. ζυγομαχέω.`

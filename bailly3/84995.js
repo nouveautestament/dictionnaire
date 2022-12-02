@@ -1,0 +1,1 @@
+lar[84995]=`<b>ας (ἡ) :<br>      1</b> action d’escorter en procession, HIÉROCL. (STOB. <i>Fl. 79, 53</i>).<br><b>      2</b> la première place dans une procession, LUC. <i>Am. 18</i>.<p><b>Étym</b>. προπέμπω.`

@@ -1,0 +1,1 @@
+lar[16877]=`<b>ἀτολμέω-ῶ</b> (<i>seul. part. prés. et part. ao</i>. ἀτολμήσας) ne pas oser, craindre, <i>abs</i>. HPC. <i>1194</i> h (<i>au part. prés.) ; avec l’inf</i>. DC. <i>78, 34 (au part. ao</i>.).<p><b>Étym</b>. ἄτολμος.`

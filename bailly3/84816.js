@@ -1,0 +1,1 @@
+lar[84816]=`<b>προ·ξυράω-ῶ</b> (<i>part. pf. pass</i>. προεξυρημένος) <font color="purple">[ῠ]</font> raser d’avance <i>ou</i> auparavant, A. TR. <i>1, 4 ; au pass</i>. LUC. <i>Alex. 15</i>.`

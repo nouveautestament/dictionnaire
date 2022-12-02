@@ -1,0 +1,1 @@
+lar[101967]=`<b>ὑπ·ανθέω-ῶ</b> <font color="purple">[ῠ]</font> commencer à fleurir, PHILSTR. <i>809</i> ; LGS <i>3, 12 ; 4, 8</i>.`

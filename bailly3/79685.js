@@ -1,0 +1,1 @@
+lar[79685]=`<b>περί·χροος, ος, ον</b>, coloré tout autour, NAZ. <i>3, 1161 Migne</i>.<p><b>Étym</b>. π. χρόα.`

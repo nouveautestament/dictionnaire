@@ -1,0 +1,1 @@
+lar[75686]=`<b>παρα·καταθνῄσκω</b> <font color="darkgreen">(<i>ao.2 poét. 3 sg</i>. παρακάτθανε)</font> mourir auprès, ANTH. <i>9, 735</i>.`

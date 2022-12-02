@@ -1,0 +1,1 @@
+lar[38520]=`<b>ἐπι·νήϊος, ος, ον</b>, qui est sur un vaisseau, ANTH. <i>9, 82</i>.<p><b>Étym</b>. ἐπί, ναῦς, <i>cf</i>. ἐπίνειον.`

@@ -1,0 +1,1 @@
+lar[3299]=`<b>ατος (τὸ)</b> <i>d’ord. au pl</i>. remède, IL. <i>15, 394 conj.</i> ; PD. <i>P. 5, 64</i> ; ESCHL. <i>Pr. 482</i> ; PAUS. <i>4, 31, 3</i>.<p><b>Étym</b>. ἀκέομαι.`

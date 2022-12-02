@@ -1,0 +1,1 @@
+lar[71392]=`<i>adv</i>., à la façon d’Homère, CIC. <i>Att. 1, 16</i> ; PLUT. <i>M. 529d</i>.<p>•<i> Cp</i>. -ώτερον, DYSC. <i>Synt. 165</i>.`

@@ -1,0 +1,1 @@
+lar[98178]=`<b>τελεσσί·τοκος, ος, ον</b> <font color="purple">[ῐ]</font> qui mène à terme les enfantements, NONN. <i>D. 48, 890</i>.<p><b>Étym</b>. <i>poét. p</i>. *τελεσίτοκος <i>de</i> τελέω, τόκος.`

@@ -1,0 +1,1 @@
+lar[106961]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> <i>dim. de</i> φρύγανον, DIOSC. <i>3, 105</i>.`

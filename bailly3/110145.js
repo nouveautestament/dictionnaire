@@ -1,0 +1,1 @@
+lar[110145]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> fille d’Ôkéanos, <i>nymphe de l’Océan,</i> HÉS. <i>Th. 364, 389, etc. ; pour la format. cf</i>. Νηρηΐνη <i>de</i> Νηρεύς.<p><b>Étym</b>. Ὠκεανός.`

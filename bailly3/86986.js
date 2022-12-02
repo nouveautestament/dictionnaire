@@ -1,0 +1,1 @@
+lar[86986]=`<b>προ·φύλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῠᾰκ]</font><br><b>      1</b> garde d’avant-poste, vedette, THC. <i>3, 112</i> ; XÉN. <i>An. 2, 4, 15, etc.</i><br><b>      2</b> officier de garde, EN. TACT. <i>Pol. 22, 5, etc. ; au fém</i>. Ps.-ERATOSTH. <i>Cat. 22</i>.`

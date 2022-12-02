@@ -1,0 +1,1 @@
+lar[37454]=`<b>ἐπι·γεύομαι</b>, déguster, goûter, <i>gén</i>. PLUT. <i>M. 991a ;</i> EL. <i>N.A. 4, 15</i>.`

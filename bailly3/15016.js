@@ -1,0 +1,1 @@
+lar[15016]=`<b>Ἀρούντιος Πατέρκουλλος (ὁ)</b> = <i>lat</i>. Aruntius Paterculus, <i>artiste sicilien,</i> ARIST. MIL. (PLUT. <i>Parall. min. 39</i>).`

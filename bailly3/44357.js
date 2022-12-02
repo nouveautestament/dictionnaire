@@ -1,0 +1,1 @@
+lar[44357]=`<i>3 pl. ind. ou sbj. de</i> ἐάω.`

@@ -1,0 +1,1 @@
+lar[19192]=`<b>βαρυ·πεψία, ας (ἡ)</b> difficulté de digestion, HERM. <i>Iatr. 50</i>.<p><b>Étym</b>. β. πεπτός, <i>vb. de</i> πέπτω.`

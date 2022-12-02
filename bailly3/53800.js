@@ -1,0 +1,1 @@
+lar[53800]=`<b>εως (ἡ)</b> action de refroidir, refroidissement, HPC. <i>69d, etc.</i> ; ARSTT. <i>H.A. 8, 2 ; fig</i>. ARSTT. <i>Rhet. 2, 13</i>.<p><b>Étym</b>. καταψύχω.`

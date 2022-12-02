@@ -1,0 +1,1 @@
+lar[24794]=`<b>δια·κνίζω</b>, déchirer en grattant, <i>d’où</i> déchirer : ἄνθεα, ANTH. <i>4, 1, 23</i>, des fleurs ; <i>au pass</i>. ARSTT. <i>H.A. 6, 14, 7 ; 7, 3, 8 ; fig</i>. déchirer par des paroles blessantes, DH. <i>Dem. 35</i>.`

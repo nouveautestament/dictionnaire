@@ -1,0 +1,1 @@
+lar[33282]=`<i>adv</i>., à gages, SYN. <i>209a</i>.`

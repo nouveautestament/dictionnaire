@@ -1,0 +1,1 @@
+lar[11699]=`<b>α, ον</b>, <i>vb. de</i> ἀποφέρω, MOSCHION <i>Mul. pass. 126, p. 63</i>.`

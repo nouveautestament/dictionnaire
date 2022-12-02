@@ -1,0 +1,1 @@
+lar[13686]=`<b>ἀπο·τυχής, ής, ές</b> <font color="purple">[ῠ]</font> (<i>seul. au cp</i>. -έστερος) qui se trompe <i>ou</i> échoue, PLAT. <i>Sis. 391d</i>.<p><b>Étym</b>. ἀποτυγχάνω.`

@@ -1,0 +1,1 @@
+lar[3277]=`<b>ἀ·κερδής, ής, ές :<br>      1</b> qui est le contraire d’un profit, funeste, SOPH. <i>O.C. 1484</i> ; PLAT. <i>Crat. 417d.</i><br><b>      2</b> qui ne recueille aucun profit, DH. <i>6, 9</i>.<br><b>      3</b> qui ne recherche pas le gain, désintéressé, PLUT. <i>Arist. 1</i>.<p><b>Étym</b>. ἀ, κέρδος.`

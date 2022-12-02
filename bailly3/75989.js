@@ -1,0 +1,1 @@
+lar[75989]=`<b>παρ·ανίσχω</b> <font color="darkgreen">(<i>impf</i>. -ανῖσχον) :</font><br><b>      1 <i>tr.</i></b> élever à côté de, <i>acc</i>. THC. <i>3, 22</i>.<br><b>      2</b> s’élever à côté de, PLUT. <i>Æmil. 32</i>.`

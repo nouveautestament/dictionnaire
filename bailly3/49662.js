@@ -1,0 +1,1 @@
+lar[49662]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆ᾰτ]</font><br><b>      1</b> égalité de force, T. LOCR. <i>95c.</i><br><b>      2</b> égalité de pouvoir <i>ou</i> de droits, HDT. <i>5, 92</i>.`

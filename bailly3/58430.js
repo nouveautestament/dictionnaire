@@ -1,0 +1,1 @@
+lar[58430]=`<b>ος, ον</b> <font color="purple">[ῡᾰῐ]</font> illustre, IL. <i>6, 184</i> ; OD. <i>14, 206, etc</i>.<p><b>Étym</b>. κῦδος.`

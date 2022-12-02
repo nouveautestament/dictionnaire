@@ -1,0 +1,1 @@
+lar[28158]=`<b>δυσ·αλλοίωτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> difficile à modifier, A. APHR. <i>Probl. 1, 83</i> ; GAL. <i>2, 12</i>.<br><b>      2</b> d’une digestion difficile, HPC. <i>383 commenc.</i> ; GAL. <i>2, 210</i>.<p><b>Étym</b>. δ. ἀλλοιόω.`

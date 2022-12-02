@@ -1,0 +1,1 @@
+lar[17743]=`<b>ή, όν :<br>      1</b> qui travaille de ses mains, M. ANT. <i>1, 5 ; d’où</i> industrieux, MUSON. (Stob.).<br><b>      2</b> qui produit des choses réelles : ἡ αὐτουργική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 266d</i>, l’art de produire des réalités, <i>p. opp. à</i> εἰδωλοποιϊκή.`

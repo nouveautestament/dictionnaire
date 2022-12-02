@@ -1,0 +1,1 @@
+lar[65598]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> industrieux, SOPH. <i>Ant. 365</i>.<p><b>Étym</b>. μηχανή.`

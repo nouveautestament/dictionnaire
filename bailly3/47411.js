@@ -1,0 +1,1 @@
+lar[47411]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> eunuque, SPT. <i>Lev. 22, 24 ; Deut. 23, 1</i> ; PHIL. <i>2, 261</i>.<p><b>Étym</b>. θλάω.`

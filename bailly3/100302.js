@@ -1,0 +1,1 @@
+lar[100302]=`<b>τρί·μυξος, ος, ον</b> <font color="purple">[ῐ]</font> à trois mèches, MÉTAG. (POLL. <i>6, 113).</i><p><b>Étym</b>. τρ. μύξα.`

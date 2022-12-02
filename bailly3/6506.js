@@ -1,0 +1,1 @@
+lar[6506]=`<b>οῦ (ὁ)</b> degré, marche, HDT. <i>2, 125</i> ; ARSTT. <i>Œc. 2, 5, 1</i> ; EL. <i>N.A. 6, 61 ; fig</i>. δι' ἀναβαθμῶν, PHIL. <i>2, 557,</i> par degrés, graduellement.<p><b>Étym</b>. ἀναβαίνω.`

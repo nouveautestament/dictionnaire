@@ -1,0 +1,1 @@
+lar[80267]=`<b>ου (ὁ)</b> = <i>lat</i>. Picus, <i>divinité italique,</i> PLUT. <i>Num. 15, etc</i>.<p>➳ Πίκος, PLUT. <i>Qu. rom. 21</i>.`

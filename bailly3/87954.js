@@ -1,0 +1,1 @@
+lar[87954]=`<b>πυροφορέω-ῶ</b> <font color="purple">[ῡ]</font> produire du blé, APP. <i>Civ. 2, 40</i>.<p><b>Étym</b>. πυροφόρος.`

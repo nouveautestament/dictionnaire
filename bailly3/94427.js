@@ -1,0 +1,1 @@
+lar[94427]=`<b>συμ·φιλία, ας (ἡ)</b> <font color="purple">[φῐ]</font> amitié mutuelle, EPIC. (DL. <i>10, 115 dout</i>).`

@@ -1,0 +1,1 @@
+lar[20802]=`<b>βριθύ·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b> <font color="purple">[ῑῠ]</font> aux lourdes cornes, OPP. IL. <i>2, 290</i>.<p><b>Étym</b>. βριθύς, κέρας.`

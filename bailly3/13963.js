@@ -1,0 +1,1 @@
+lar[13963]=`<b>ἀ·προσκορής, ής, ές</b>, qui ne produit pas la satiété, le dégoût, HLD. <i>1, 6</i> ; CLÉM. <i>170</i>.`

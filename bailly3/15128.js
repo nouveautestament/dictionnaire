@@ -1,0 +1,1 @@
+lar[15128]=`<b>ἀρρενο·τόκος, ος, ον</b>, qui produit des mâles, ARSTT. <i>G.A. 1, 18, 21</i> ; DIOSC. <i>3, 139 ; 5, 99</i>.<p><b>Étym</b>. ἄ. τίκτω.`

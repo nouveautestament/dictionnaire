@@ -1,0 +1,1 @@
+lar[13553]=`<b>ἀπό·ταυρος, ον</b>, <i>adj. f</i>. éloignée du taureau, non saillie (vache), ARSTT. <i>H.A. 8, 7, 3</i>.<p><b>Étym</b>. ἀ. ταῦρος.`

@@ -1,0 +1,1 @@
+lar[13866]=`<i>adv</i>., sans embarras, sans trouble, sans souci, THC. <i>4, 61 ; 6, 87</i> ; XÉN. <i>Hell. 6, 4, 27 ; Lac. 2, 7, etc</i>.<p>•<i> Cp</i>. -ονέστερον, XÉN. <i>Ages. 4, 1</i>.<p><b>Étym</b>. ἀπράγμων.`

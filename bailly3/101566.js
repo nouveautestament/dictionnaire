@@ -1,0 +1,1 @@
+lar[101566]=`<b>ὑδρο·πίπερον, ου (τὸ)</b> <font color="purple">[ῐ]</font> persicaire, <i>vulg</i>. menthe pouliot, <i>plante,</i> AGAP. (GEOP. <i>c. 144</i>).`

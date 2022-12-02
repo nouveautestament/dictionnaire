@@ -1,0 +1,1 @@
+lar[38368]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de prendre à témoin, THC. <i>2, 74</i>.<br><b>      2</b> témoignage à l’appui, attestation, MAN. <i>2, 400 ; 3, 5</i>.<p><b>Étym</b>. ἐπιμάρτυρος.`

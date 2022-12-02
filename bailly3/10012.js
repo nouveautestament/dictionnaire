@@ -1,0 +1,1 @@
+lar[10012]=`<b>ἀντι·κωμῳδέω-ῶ</b>, tourner à son tour en dérision, PLUT. <i>Flam. 9</i>.`

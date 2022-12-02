@@ -1,0 +1,1 @@
+lar[9063]=`<b>ἀν·ιερόω-ῶ</b>, consacrer, ARSTT. <i>Œc. 2, 2</i> ; DH. <i>6, 95</i> ; PLUT. <i>Cor. 3, etc</i>.<p><b>Étym</b>. ἀνά, ἱ.`

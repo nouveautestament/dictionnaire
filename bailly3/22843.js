@@ -1,0 +1,1 @@
+lar[22843]=`<b>η, ον</b> <font color="purple">[ῡ]</font> de vautour, LUC. <i>Ic. 11</i>.<p><b>Étym</b>. γύψ.`

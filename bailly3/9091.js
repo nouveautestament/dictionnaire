@@ -1,0 +1,1 @@
+lar[9091]=`<b>ἀν·ίμαστος, ος, ον</b> <font color="purple">[ῐ]</font> non fouetté, NONN. <i>Jo. 19, 3</i>.<p><b>Étym</b>. ἀν-, ἱμάσσω.`

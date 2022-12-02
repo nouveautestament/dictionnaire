@@ -1,0 +1,1 @@
+lar[104821]=`<b>ας (ἡ)</b> = <i>lat</i>. Fannia, <i>n. de f. rom</i>. PLUT. <i>Mar. 38</i>.`

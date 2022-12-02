@@ -1,0 +1,1 @@
+lar[21892]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de creuser la terre, EL. <i>N.A. 6, 43</i>.<p><b>Étym</b>. γεώρυχος.`

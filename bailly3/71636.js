@@ -1,0 +1,1 @@
+lar[71636]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> communauté d’affections, de peines <i>ou</i> de plaisirs, PLOT. <i>Enn. 2, 670, etc</i>.<p><b>Étym</b>. ὁμοπαθής.`

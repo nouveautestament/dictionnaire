@@ -1,0 +1,1 @@
+lar[21674]=`<b>ας (ἡ)</b> création, HERM. <i>Poem. 127, 7</i> ; JAMBL. <i>etc</i>.<p><b>Étym</b>. γενεσιουργός.`

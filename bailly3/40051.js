@@ -1,0 +1,1 @@
+lar[40051]=`<b>(ἡ)</b> Épyaxa, <i>reine de Cilicie,</i> XÉN. <i>An. 1, 2, 12 et 25</i>.`

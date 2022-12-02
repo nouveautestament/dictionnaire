@@ -1,0 +1,1 @@
+lar[63645]=`<b>μεθυ·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> que l’ivresse fait aller de travers, NAZ. <i>3, 1006 Migne</i>.<p><b>Étym</b>. μέθυ, πλάνη.`

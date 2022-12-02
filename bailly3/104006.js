@@ -1,0 +1,1 @@
+lar[104006]=`<b>ὑπο·τοξεύω</b>, lancer des flèches d’en bas, EN. TACT. <i>Pol. 36</i>.`

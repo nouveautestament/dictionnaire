@@ -1,0 +1,1 @@
+lar[10202]=`<b>ἀντι·πάρειμι</b> <font color="darkgreen">(<i>impf</i>. -παρῇν)</font> s’avancer parallèlement, XÉN. <i>An. 4, 3, 17 ; Hell. 5, 4, 38</i>.`

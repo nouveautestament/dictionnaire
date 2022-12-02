@@ -1,0 +1,1 @@
+lar[49624]=`<b>Ἰσο·δίκη, ης (ἡ)</b> <font color="purple">[ῑ̆ῐ]</font> Isodikè, <i>f</i>. PLUT. <i>Cim. 16</i>.<p><b>Étym</b>. ἴ. δίκη.`

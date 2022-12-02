@@ -1,0 +1,1 @@
+lar[64610]=`<b>ης (ἡ)</b> Messè, <i>port de Laconie,</i> IL. <i>2, 582</i>.`

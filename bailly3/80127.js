@@ -1,0 +1,1 @@
+lar[80127]=`<b>ιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> la tisseuse, <i>ép. d’Athèna,</i> EL. <i>N.A. 6, 57</i>.<p>➳ <i>Dor</i>. πανῖτις <font color="purple">[ᾱ]</font> ANTH. <i>6, 289</i>.`

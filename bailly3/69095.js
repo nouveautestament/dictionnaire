@@ -1,0 +1,1 @@
+lar[69095]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> nyctalopie, <i>maladie des yeux qui fait qu’on ne voit que pendant la nuit</i>. ARSTT. <i>G.A. 5, 19</i>.<p><b>Étym</b>. νυκτάλωψ.`

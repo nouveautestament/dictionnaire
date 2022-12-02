@@ -1,0 +1,1 @@
+lar[81504]=`<b>Πολέμ·αρχος, ου (ὁ)</b> Polémarkhos (Polémarque), <i>h</i>. PLAT. <i>Phædr. 257b ; Rsp. 327b, etc</i>.<p><b>Étym</b>. <i>v</i>. πολέμαρχος.`

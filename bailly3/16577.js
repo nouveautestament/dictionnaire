@@ -1,0 +1,1 @@
+lar[16577]=`<b>ου (ἡ) :<br>      1</b> asphalte, bitume, HDT. <i>1, 179 ; 6, 119</i> ; ARSTT. <i>Mir. 127</i>.<br><b>      2</b> sorte de pétrole, DIOSC. <i>1, 99</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

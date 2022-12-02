@@ -1,0 +1,1 @@
+lar[70344]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐ]</font> petite chambre, chambrette, PLUT. <i>M. 145b ;</i> X. ÉPH. <i>2, 10, p. 43, 7</i>.<p><b>Étym</b>. <i>dim. de</i> οἴκημα.`

@@ -1,0 +1,1 @@
+lar[18049]=`<font color="purple">[ῑ pour ῐ]</font> <i>adv</i>., éternellement, SIB. <i>5, 503</i>.`

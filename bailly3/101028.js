@@ -1,0 +1,1 @@
+lar[101028]=`<b>ατος (τὸ)</b> coup, blessure, ESCHL. <i>Ag. 1430</i> ; ARSTT. <i>H.A. 9, 40, 10</i> ; THCR. <i>Idyl. 4, 55, etc</i>.<p><b>Étym</b>. τύπτω.`

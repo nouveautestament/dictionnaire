@@ -1,0 +1,1 @@
+lar[60925]=`<b>λιβανωτο·φόρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui produit (<i>litt</i>. qui porte) de l’encens, HDT. <i>2, 8 ; 3, 107</i> ; ἡ λ. (<i>s.-e</i>. χώρα) STR. <i>774,</i> le pays de l’encens.<p><b>Étym</b>. λιβανωτός, φέρω.`

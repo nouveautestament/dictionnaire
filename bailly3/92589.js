@@ -1,0 +1,1 @@
+lar[92589]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> action de suivre à la piste, DS. <i>41, 3 ; cf</i>. στιβίη.<p><b>Étym</b>. στίβος.`

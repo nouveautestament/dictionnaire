@@ -1,0 +1,1 @@
+lar[10384]=`<b>οῦ (ὁ)</b> vie conforme à la doctrine d’Antisthène, JUL. <i>Or. 6, 187c</i>.<p><b>Étym</b>. *Ἀντισθενίζω <i>de</i> Ἀντισθένης.`

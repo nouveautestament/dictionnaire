@@ -1,0 +1,1 @@
+lar[81621]=`<b>ης (ἡ)</b> petite ville, PLUT. <i>Tim. 11</i> ; CALL. <i>Del. 41, etc</i>.<p><b>Étym</b>. πόλις.`

@@ -1,0 +1,1 @@
+lar[80099]=`<b>ου</b>, <i>adj. m</i>. habitant de Péluse, LUC. <i>J. tr. 52</i> ; X. ÉPH. <i>3, 12 etc</i>.<p><b>Étym</b>. Πηλούσιον.`

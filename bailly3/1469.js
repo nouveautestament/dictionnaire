@@ -1,0 +1,1 @@
+lar[1469]=`<b>ἀ·δοιάστως</b>, <i>adv</i>., sans aucun doute, ANACR. <i>95</i>.<p><b>Étym</b>. ἀ, δοιάζω.`

@@ -1,0 +1,1 @@
+lar[106685]=`<b>ων (αἱ)</b> <font color="purple">[ῐ]</font> les filles de Phorkys, <i>càd</i>. les Gorgones, PD. <i>P. 12, 24</i> ; ESCHL. <i>Pr. 794, etc. ; au sg</i>. NONN. <i>D. 25, 36, etc</i>.<p><b>Étym</b>. Φόρκυς.`

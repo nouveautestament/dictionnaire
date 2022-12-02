@@ -1,0 +1,1 @@
+lar[72344]=`(<i>seul. inf. prés</i>.) préparer pour soi (un repas, <i>etc</i>.) IL. <i>19, 172 ; 23, 159</i>.<p><b>Étym</b>. ὅπλον.`

@@ -1,0 +1,1 @@
+lar[96072]=`<b>συν·νήχομαι</b>, nager avec, AR. <i>Eccl. 1104</i> ; PLUT. <i>M. 984e ;</i> LUC. <i>V.H. 1, 33</i>.`

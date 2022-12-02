@@ -1,0 +1,1 @@
+lar[42141]=`<b>εὐ·ήρυτος, ος, ον</b> <font color="purple">[ῠ]</font> facile à puiser, HH. <i>Cer. 106</i>.<p><b>Étym</b>. εὖ, ἀρύω¹.`

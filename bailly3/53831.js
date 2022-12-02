@@ -1,0 +1,1 @@
+lar[53831]=`<b>εως (ἡ)</b> action d’enrouler, d’envelopper, EPIC. (DL. <i>10, 101).</i><p><b>Étym</b>. κατειλέω.`

@@ -1,0 +1,1 @@
+lar[58964]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Kyrios, <i>h</i>. ANTH. <i>12, 215</i>.<p><b>Étym</b>. <i>v</i>. κύριος.`

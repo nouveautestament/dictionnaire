@@ -1,0 +1,1 @@
+lar[25014]=`<font color="purple">[μᾰ]</font> <i>vb. de</i> διαμάχομαι, PLAT. <i>Rsp. 380b</i> (<i>var</i>. -μαχετέον) ; SOPH. <i>241d</i>.`

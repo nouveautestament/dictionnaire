@@ -1,0 +1,1 @@
+lar[66655]=`<b>μονο·τράπεζος, ος, ον</b> <font color="purple">[ᾰ]</font> qu’on sert sur une table à part, EUR. <i>I.T. 949</i>.<p><b>Étym</b>. μ. τράπεζα.`

@@ -1,0 +1,1 @@
+lar[106924]=`<b>ίδος (ὁ)</b> <font color="purple">[ῐδ]</font> Phrontis, <i>h</i>. OD. <i>3, 279, 282, etc.</i> ; A.RH. <i>2, 1157, etc</i>.`

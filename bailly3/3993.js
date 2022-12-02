@@ -1,0 +1,1 @@
+lar[3993]=`<font color="purple">[ῡ]</font> <i>adv</i>., improprement, <i>en parl. de l’emploi d’un mot,</i> HERMOG. <i>3, 404, 3 Walz</i>.<p><b>Étym</b>. ἄκυρος.`

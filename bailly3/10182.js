@@ -1,0 +1,1 @@
+lar[10182]=`<b>ἀντι·παρακελεύομαι</b>, conseiller à son tour en sens contraire : τινι, XÉN. <i>Cyr. 3, 3, 42,</i> à l’avis de qqn ; <i>avec l’inf</i>. THC. <i>6, 13</i>.`

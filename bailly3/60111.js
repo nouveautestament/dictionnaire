@@ -1,0 +1,1 @@
+lar[60111]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> nymphe des prairies, ORPH. <i>Arg. 643 conj</i>.<p><b>Étym</b>. λεῖμαξ.`

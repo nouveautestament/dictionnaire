@@ -1,0 +1,1 @@
+lar[94298]=`<b>ας (ἡ) :<br>      1</b> action de souffler ensemble, ARTÉM. <i>2, 37</i>.<br><b>      2</b> accord de sentiments, DL. <i>2, 137</i> ; ARÉT. <i>Cur. m. diut. 2, 5</i> ; HDN <i>7, 6, 6</i>.<p>➳ <i>Ion</i>. ξυμπνοίη, ARÉT. <i>l. c</i>.<p><b>Étym</b>. σύμπνοος.`

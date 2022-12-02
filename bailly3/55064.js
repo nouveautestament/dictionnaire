@@ -1,0 +1,1 @@
+lar[55064]=`<b>κευθμωνο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime les abîmes, SYN. <i>Hymn. 4, 46</i>.<p><b>Étym</b>. κευθμών, χαίρω.`

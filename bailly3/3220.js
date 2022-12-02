@@ -1,0 +1,1 @@
+lar[3220]=`<b>ἀ·κατάστατος, ος, ον</b> <font color="purple">[στᾰ]</font><br><b>      1</b> non au repos, agité, troublé, DÉM. <i>19, 136</i> ; DH. <i>6, 74 ; en parl. de fièvres,</i> intermittent, irrégulier, HPC. <i>399, 47</i>.<br><b>      2</b> qui ne laisse pas de sédiment, de dépôt, HPC.<p><b>Étym</b>. ἀ, καθίστημι.`

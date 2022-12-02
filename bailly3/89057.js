@@ -1,0 +1,1 @@
+lar[89057]=`<b>ων (οἱ)</b> les Sabeires, <i>pple indien,</i> NONN. <i>D. 26, 91</i>.`

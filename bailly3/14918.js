@@ -1,0 +1,1 @@
+lar[14918]=`<b>ος, ον</b>, bien ajusté, qui s’accorde bien, harmonieux, CLÉM. <i>447, etc.</i> ; SPT. <i>Sap. 16, 20</i>.<p>•<i> Cp</i>. -ώτερος, CLÉM. <i>833</i>.<p><b>Étym</b>. ἁρμονία.`

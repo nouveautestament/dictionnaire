@@ -1,0 +1,1 @@
+lar[108420]=`<b>ου (ὁ)</b> <i>mot formé de lettres assemblées au hasard en manière de jeu et correspondant au mot</i> τυρός, fromage, CLÉM. <i>675</i>.`

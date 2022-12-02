@@ -1,0 +1,1 @@
+lar[824]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en style de barreau, d’une manière déclamatoire, PLUT. <i>C. Gracch. 4</i>.<br><b>      2</b> d’une manière triviale, DH. <i>Rhet. 10, 11</i>.`

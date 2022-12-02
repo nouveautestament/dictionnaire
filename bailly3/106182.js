@@ -1,0 +1,1 @@
+lar[106182]=`<b>η, ον</b> <font color="purple">[ῐῠ]</font> <i>c</i>. φιλόφρων ANTH. <i>App. 1, 237</i>.`

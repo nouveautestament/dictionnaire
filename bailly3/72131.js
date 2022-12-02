@@ -1,0 +1,1 @@
+lar[72131]=`<b>ὀξύ·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ]</font> qui a l’esprit aiguisé <i>ou</i> pénétrant, BAS. <i>3, 131c</i>.<p><b>Étym</b>. ὀ. νόος.`

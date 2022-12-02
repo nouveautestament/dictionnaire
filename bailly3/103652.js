@@ -1,0 +1,1 @@
+lar[103652]=`<b>ὑπό·παχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰ]</font> un peu épais, un peu gros, HPC. <i>Epid. 1, 970</i> ; LUC. <i>Bacch. 2</i>.<p>•<i> Cp</i>. -ύτερος, GAL. <i>18, 1, 363</i>.<p><b>Étym</b>. ὑ. παχύς.`

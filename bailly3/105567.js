@@ -1,0 +1,1 @@
+lar[105567]=`<b>φιλ·έριθος, ος, ον</b> <font color="purple">[ῐῑ]</font> qui aime la laine <i>ou</i> les ouvrages de laine, THCR. <i>Idyl. 28, 1</i> ; ANTH. <i>6, 247</i>.`

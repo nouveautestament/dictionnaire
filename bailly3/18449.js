@@ -1,0 +1,1 @@
+lar[18449]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> manque de, ESCHL. <i>Ch. 301</i> ; AR. <i>fr. 91 ; au pl.</i> : ὀμμάτων ἐν ἀχηνίαις, ESCHL. <i>Ag. 419,</i> regard fixe et comme perdu dans le vide.<p><b>Étym</b>. <i>cf</i>. ἀχήν.`

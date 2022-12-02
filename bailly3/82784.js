@@ -1,0 +1,1 @@
+lar[82784]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> passage, détroit, DP. <i>80, 344</i>.<br><b>      2</b> bâtiment de transport, bateau, EUR. <i>Cycl. 362</i> ; ναῦς, PAUS. <i>8, 25, 13, m. sign. ; p. anal</i>. table bien servie, PHILOX. (ATH. <i>643a</i>).<p><b>Étym</b>. πορθμός.`

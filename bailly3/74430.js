@@ -1,0 +1,1 @@
+lar[74430]=`<b>παλαιό·τροπος, ος, ον</b> <font color="purple">[ᾰ]</font> conforme aux coutumes <i>ou</i> aux mœurs anciennes, NICOM. <i>Arithm. 129</i> ; JAMBL. <i>V. Pyth. 23</i>.<p><b>Étym</b>. π. τρόπος.`

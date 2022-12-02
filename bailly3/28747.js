@@ -1,0 +1,1 @@
+lar[28747]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> affliction profonde, PLUT. <i>M. 112b.</i><br><b>      2</b> insensibilité contre la douleur, <i>d’où</i> fermeté d’âme, PLUT. <i>M. 666b</i>.<p><b>Étym</b>. δυσπαθής.`

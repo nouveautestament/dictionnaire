@@ -1,0 +1,1 @@
+lar[25421]=`<b>δι·άρδω</b> (<i>seul. prés. pass</i>.) arroser, JOS. <i>B.J. 3, 3, 3 ; 3, 10, 8</i>.`

@@ -1,0 +1,1 @@
+lar[95009]=`<b>συν·ατροφέω-ῶ</b>, cesser en même temps de se nourrir, GAL. <i>12, 322</i> ; SOR. <i>Obst. p. 184, 2</i>.`

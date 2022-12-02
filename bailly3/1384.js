@@ -1,0 +1,1 @@
+lar[1384]=`<b>οῦ (τὸ)</b> penchant à l’indifférence, ARR. <i>Epict. 2, 1, 14</i>.<p><b>Étym</b>. ἀδιαφόρητος.`

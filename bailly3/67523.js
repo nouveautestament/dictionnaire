@@ -1,0 +1,1 @@
+lar[67523]=`<b>ου (ὁ)</b> Mômoros, <i>h</i>. Ps.-PLUT. <i>Fluv. 6, 4</i>.`

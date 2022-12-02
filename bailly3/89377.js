@@ -1,0 +1,1 @@
+lar[89377]=`<i>mieux que</i> <b>Σεραπιασταί, ῶν (οἱ)</b> <font color="purple">[ᾰᾱπ]</font> sectateurs de Sérapis, STR. <i>120</i>.<p>➳ <i>Dans une inscr. att</i>. Σαραπιασταί (<i>non</i> Σεραπιασταί) CIA. <i>2, 617, 2, 17, 22 (249 av. J.-C.) ; v. Meisterh. p. 12, 1 ; cf</i>. Σάραπις, Σαραπίων.<p><b>Étym</b>. Σάραπις.`

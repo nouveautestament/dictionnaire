@@ -1,0 +1,1 @@
+lar[64480]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de midi, NONN. <i>D. 48, 590</i>.<p><b>Étym</b>. <i>cf</i>. μεσημβρινός.`

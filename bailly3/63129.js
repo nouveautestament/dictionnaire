@@ -1,0 +1,1 @@
+lar[63129]=`<b>ῆρος (ὁ)</b> <font color="purple">[χᾰ]</font> ceinture, HDT. <i>1, 215</i> ; ESCHL. <i>Pr. 71</i>.<p><b>Étym</b>. μασχαλίζω.`

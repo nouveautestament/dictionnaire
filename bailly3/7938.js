@@ -1,0 +1,1 @@
+lar[7938]=`<b>ἀναχώνευσις, εως (ἡ)</b> action de refondre <i>ou</i> de gonfler, CHRYS. <i>5, 419</i>.`

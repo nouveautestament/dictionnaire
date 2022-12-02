@@ -1,0 +1,1 @@
+lar[64496]=`<b>μεσ·ίδιος, ου (ὁ)</b> <font color="purple">[ῐδ]</font> médiateur, arbitre, ARSTT. <i>Nic. 5, 4, 7</i> ; POL. <i>5, 6, 13</i>.<p><b>Étym</b>. μέσος, ἴδιος.`

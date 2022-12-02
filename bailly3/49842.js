@@ -1,0 +1,1 @@
+lar[49842]=`<b>ἱστό·πους, ποδος (ὁ)</b> <i>particul. au pl</i>. οἱ ἱστόποδες, EUB. <i>3, 272 Meineke</i> ; ANTH. <i>7, 424,</i> bâtons pour tendre l’étoffe sur le métier.<p><b>Étym</b>. ἱ. πούς.`

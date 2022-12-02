@@ -1,0 +1,1 @@
+lar[15166]=`<b>ἀ·ρρίγητος, ος, ον</b> <font color="purple">[ῑ]</font> que rien ne fait frissonner, ANTH. <i>6, 219</i>.<p><b>Étym</b>. ἀ, ῥιγέω.`

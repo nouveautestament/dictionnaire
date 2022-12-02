@@ -1,0 +1,1 @@
+lar[38312]=`<b>ἐπι·λιπαρέω-ῶ</b> <font color="purple">[λῑᾰ]</font> insister sur, <i>avec</i> ἐπί <i>et le dat</i>. THÉM. <i>457 Dind</i>.`

@@ -1,0 +1,1 @@
+lar[50391]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de clouer sur, SYMM. <i>Ezech. 7, 23</i>.<p><b>Étym</b>. καθηλόω.`

@@ -1,0 +1,1 @@
+lar[37806]=`<b>ἐπι·θήγω :<br>      1</b> aiguiser encore, EL. <i>N.A. 5, 16</i>.<br><b>      2</b> <i>fig</i>. exciter encore plus, PLUT. <i>M. 786a</i>.`

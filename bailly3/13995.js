@@ -1,0 +1,1 @@
+lar[13995]=`<b>ἀ·προσωπόληπτος, ος, ον</b>, qui ne fait pas acception des personnes, impartial, CLÉM. <i>772</i>.`

@@ -1,0 +1,1 @@
+lar[32568]=`<b>ἐλαφό·κρανος, ος, ον</b> <font color="purple">[ρᾱ]</font> à tête de cerf, STR. <i>710</i>.<p><b>Étym</b>. ἔ. *κρᾶνον, <i>cf</i>. κρανίον.`

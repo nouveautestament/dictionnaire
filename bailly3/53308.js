@@ -1,0 +1,1 @@
+lar[53308]=`<b>κατ·ασβολόω-ῶ</b>, noircir de suie, de fumée, SOPH. <i>O.R</i>.<p><b>Étym</b>. <i>argum</i>.`

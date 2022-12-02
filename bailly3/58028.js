@@ -1,0 +1,1 @@
+lar[58028]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> λεοντοπόδιον, DIOSC. <i>4, 131</i>.`

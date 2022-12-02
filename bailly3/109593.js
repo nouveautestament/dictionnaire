@@ -1,0 +1,1 @@
+lar[109593]=`<b>ψαφαρό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰᾰ]</font> qui a la peau desséchée, <i>càd</i>. fanée, EUR. <i>Rhes. 716</i>.<p><b>Étym</b>. ψαφαρός, χρόα.`

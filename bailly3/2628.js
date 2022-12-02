@@ -1,0 +1,1 @@
+lar[2628]=`<b>ης, ες :<br>      1</b> d’un rouge sang, LUC. <i>Syr. 8</i>.<br><b>      2</b> de scorbut, scorbutique, GAL. <i>10, 648</i>.<p><b>Étym</b>. αἷμα, -ωδης.`

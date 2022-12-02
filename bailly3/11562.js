@@ -1,0 +1,1 @@
+lar[11562]=`<b>ἀ·πείραστος, ος, ον</b>, non tenté, non séduit, ALCIPHR. ; ἀ. τινος, NT. <i>Jac. 1, 13,</i> par qqe ch.<p><b>Étym</b>. ἀ, πειράζω.`

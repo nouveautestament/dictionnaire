@@ -1,0 +1,1 @@
+lar[82315]=`<b>πολύ·πτορθος, ος, ον</b>, aux nombreux rejetons, NONN. JOS. <i>15, 4</i>.<p><b>Étym</b>. π. πτόρθος.`

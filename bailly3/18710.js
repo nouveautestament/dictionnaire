@@ -1,0 +1,1 @@
+lar[18710]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> marcheur, EUR. <i>Med. 1182</i>.<p><b>Étym</b>. βαδίζω.`

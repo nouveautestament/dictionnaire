@@ -1,0 +1,1 @@
+lar[14923]=`<b>οῦ (ὁ)</b> articulation, <i>particul</i>. épaule du cheval, HIPPIATR.<p><b>Étym</b>. <i>lat</i>. armus.`

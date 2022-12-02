@@ -1,0 +1,1 @@
+lar[85376]=`<b>προσ·δαψιλεύομαι</b> <font color="purple">[ῐ]</font> dépenser en outre avec prodigalité, PHIL. <i>2, 66</i>.`

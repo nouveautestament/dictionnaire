@@ -1,0 +1,1 @@
+lar[8252]=`<b>ἀν·έκπυστος, ος, ον</b>, qu’on ne peut parvenir à connaître, JOS. <i>A.J. 17, 11, 2</i>.<p><b>Étym</b>. ἀν-, ἐκπυνθάνομαι.`

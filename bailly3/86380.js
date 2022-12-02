@@ -1,0 +1,1 @@
+lar[86380]=`<b>προσ·ρέπω</b>, incliner vers, <i>dat</i>. JOS. <i>A.J. 18, 6, 5</i>.`

@@ -1,0 +1,1 @@
+lar[37009]=`<b>ἐπ·ειστρέχω</b> (<i>seul. ao.2</i> ἐπεισέδραμον) entrer en courant après, <i>dat</i>. JUL. <i>309c</i>.`

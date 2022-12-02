@@ -1,0 +1,1 @@
+lar[28768]=`<b>δυσ·παρά·πιστος</b>, <i>ou p.-ê</i>. <b>δυσπαράπειστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à dissuader, ARSTT. <i>Physiogn. 5, 3 au cp</i>. -ότερος.<p><b>Étym</b>. δ. παραπείθω.`

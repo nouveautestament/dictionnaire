@@ -1,0 +1,1 @@
+lar[50992]=`<b>Καλαμό·δρυς, υος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Kalamodrys, <i>h</i>. EL. <i>V.H. 1, 27</i>.<p><b>Étym</b>. κ. δρῦς.`

@@ -1,0 +1,1 @@
+lar[17888]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Apharée :<br><b>      1</b> <i>Grec,</i> IL. <i>9, 83 ; 13, 478, 541</i>.<br><b>      2</b> <i>roi de Messine,</i> THCR. APD. PAUS.<br><b>      3</b> <i>autres,</i> ISOCR. DÉM. PLUT. <i>etc</i>.<p>➳ <i>Gén. épq</i>. Ἀφαρῆος, THCR. <i>Idyl. 22, 159. Acc. épq</i>. Ἀφαρῆα, IL. <i>9, 83</i>.`

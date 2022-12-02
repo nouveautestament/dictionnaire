@@ -1,0 +1,1 @@
+lar[31601]=`<b>ας (ἡ)</b> <font color="purple">[λῑ]</font> faim dévorante, SPT. <i>Deut. 28, 20</i> ; AQU. <i>Job 41, 13</i>.<p><b>Étym</b>. ἔκλιμος.`

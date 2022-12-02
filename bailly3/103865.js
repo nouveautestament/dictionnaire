@@ -1,0 +1,1 @@
+lar[103865]=`<b>ὑπο·σποδίζω</b>, avoir <i>ou</i> prendre une couleur cendrée, DIOSC. <i>5, 92</i>.`

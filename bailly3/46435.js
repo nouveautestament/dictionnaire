@@ -1,0 +1,1 @@
+lar[46435]=`<b>θεατρο·μανία, ας (ἡ)</b> <font color="purple">[ᾱμᾰ]</font> passion du théâtre, ORIG. <i>c. Cels. 3, p. 145</i>.<p><b>Étym</b>. <i>v</i>. θεατρομανέω.`

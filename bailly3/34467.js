@@ -1,0 +1,1 @@
+lar[34467]=`<b>ἐν·ηλύσιος, ος, ον</b> <font color="purple">[ῠ]</font> frappé de la foudre ; τὰ ἐνηλύσια, ESCHL. <i>fr. 15,</i> lieu frappé de la foudre.<p><b>Étym</b>. ἐν, ἤλυθον.`

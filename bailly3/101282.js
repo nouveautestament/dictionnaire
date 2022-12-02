@@ -1,0 +1,1 @@
+lar[101282]=`<b>(τὸ)</b> <i>crase dor. p</i>. τὸ αὔλιον, <i>rapportée aussi</i> ταὔλιον, THCR. <i>Idyl. 11, 12</i>.`

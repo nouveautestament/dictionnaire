@@ -1,0 +1,1 @@
+lar[72483]=`<b>οῦ (ὁ)</b> récolte des fruits, AQU. <i>Deut. 7, 13</i>.<p><b>Étym</b>. ὀπωρίζω.`

@@ -1,0 +1,1 @@
+lar[52876]=`<b>εως (ἡ)</b> action de se moquer, moquerie, ATH. <i>55d</i>.<p><b>Étym</b>. καταμωκάομαι.`

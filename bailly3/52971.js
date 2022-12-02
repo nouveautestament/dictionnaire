@@ -1,0 +1,1 @@
+lar[52971]=`<b>κατ·αξιοπιστεύομαι</b>, prétendre se faire croire à l’encontre de, <i>ou</i> apporter des allégations invraisemblables contre <i>ou</i> à l’encontre de, <i>gén</i>. POL. <i>12, 17, 1</i>.<p><b>Étym</b>. κ. ἀξιόπιστος.`

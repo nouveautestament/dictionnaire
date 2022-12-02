@@ -1,0 +1,1 @@
+lar[73791]=`<b>ατος (τὸ)</b> dette, obligation, THC. <i>2, 40</i> ; PLAT. <i>Leg. 717b ;</i> ARSTT. <i>Nic. 9, 2</i>.<p><b>Étym</b>. ὀφείλω.`

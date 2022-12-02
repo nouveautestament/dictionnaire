@@ -1,0 +1,1 @@
+lar[82563]=`<b>πολυχοέω-οῶ</b> <font color="purple">[ῠ]</font> produire avec abondance, être très fécond, ARSTT. <i>G.A. 3, 1, 5</i>.<p><b>Étym</b>. πολύχοος.`

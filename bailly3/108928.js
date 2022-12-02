@@ -1,0 +1,1 @@
+lar[108928]=`<i>3 pl. prés. ind. ou sbj. ion. de</i> χράομαι.`

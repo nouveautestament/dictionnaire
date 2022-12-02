@@ -1,0 +1,1 @@
+lar[96137]=`<b>συν·οικονομέω-ῶ</b>, administrer ensemble, TH. (DL. <i>5, 56</i>) ; M. TYR. <i>22, 5</i>.`

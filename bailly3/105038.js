@@ -1,0 +1,1 @@
+lar[105038]=`<b>ης (ἡ)</b> = <i>lat</i>. Faustina, <i>n. de f. rom</i>. ANTH. <i>15, 48</i>.`

@@ -1,0 +1,1 @@
+lar[12580]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> brisement des vagues, DRAC. <i>10, 3</i>.<p><b>Étym</b>. ἀποκλάω.`

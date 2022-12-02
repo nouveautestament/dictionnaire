@@ -1,0 +1,1 @@
+lar[65295]=`<b>α, ον</b>, de Médie, médique, XÉN. <i>Cyr. 2, 1, 1, etc</i>.<p><b>Étym</b>. Μῆδος.`

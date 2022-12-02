@@ -1,0 +1,1 @@
+lar[78637]=`<b>ής, ές</b>, qui retentit alentour, NICÉPH. <i>1, 450 W</i>.`

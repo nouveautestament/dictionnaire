@@ -1,0 +1,1 @@
+lar[62922]=`<b>ου (ὁ)</b> Mardonius, <i>général de Xerxès,</i> HDT. <i>7, 43, etc.</i> ; DÉM. <i>59, 96 Baiter-Sauppe</i> ; PLUT. <i>Them. 4, etc</i>.`

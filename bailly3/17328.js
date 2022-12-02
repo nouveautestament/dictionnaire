@@ -1,0 +1,1 @@
+lar[17328]=`<b>ῶν (οἱ)</b> les Autariates, <i>pple d’Illyrie,</i> ARSTT. EL. <i>etc</i>.`

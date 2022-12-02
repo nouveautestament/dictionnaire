@@ -1,0 +1,1 @@
+lar[57043]=`<font color="darkgreen">(<i>seul. prés. et impf. épq</i>. κόρεσκον)</font> <i>c</i>. κορέννυμι NIC. <i>Al. 360, 566, 578</i> ; ANTH. <i>5, 77</i>.`

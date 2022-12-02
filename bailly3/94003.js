@@ -1,0 +1,1 @@
+lar[94003]=`<b>συμ·μιμέομαι-οῦμαι</b> <font color="purple">[ῑ]</font> imiter ensemble <i>ou</i> avec, <i>dat</i>. PLAT. <i>Pol. 274d</i>.`

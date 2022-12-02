@@ -1,0 +1,1 @@
+lar[65917]=`<b>μιξ·αιθρία, ας (ἡ)</b> temps variable, <i>propr</i>. « mélangé », HPC. <i>942g</i>.<p><b>Étym</b>. μίξ, αἴθρα.`

@@ -1,0 +1,1 @@
+lar[73857]=`<b>ὀφιόω-ῶ</b>, transformer en serpent, CLÉM. <i>Hom. 2, 33</i>.<p><b>Étym</b>. ὄφις.`

@@ -1,0 +1,1 @@
+lar[33157]=`<b>άδος (ἡ)</b> provin de la vigne, GEOP. <i>4, 3, 7</i>.<p><b>Étym</b>. ἐμβρέχω.`

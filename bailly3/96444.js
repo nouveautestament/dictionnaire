@@ -1,0 +1,1 @@
+lar[96444]=`<b>συν·ωδίνω</b> <font color="purple">[ῑ]</font> souffrir en même temps qu’une autre les douleurs de l’enfantement, <i>d’où</i> souffrir avec un autre, EUR. <i>Hel. 727</i> ; ARSTT. <i>Eud. 7, 6, 5</i>.`

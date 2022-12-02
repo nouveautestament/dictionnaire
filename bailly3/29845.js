@@ -1,0 +1,1 @@
+lar[29845]=`(<i>seul. prés</i>.) être éveillé, ARSTT. <i>Probl. 4, 5</i> ; THÉM. <i>26, 315 ; cf</i>. ἐγείρω <i>fin</i>.`

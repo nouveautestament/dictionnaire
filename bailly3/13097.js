@@ -1,0 +1,1 @@
+lar[13097]=`<b>ἀπο·πλήσσω</b>, <i>att</i>. <b>-πλήττω</b>, renverser, frapper de stupeur, SOPH. <i>Ant. 1189</i>.<br><b><i>Moy.</i></b> renvoyer un choc, répercuter, ARSTT. <i>Probl. 11, 7</i>.`

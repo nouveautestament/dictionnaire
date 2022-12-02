@@ -1,0 +1,1 @@
+lar[52192]=`<b>κατα·γανόω-ῶ</b> <font color="purple">[γᾰ]</font> rendre très brillant, CLÉM. <i>289</i>.`

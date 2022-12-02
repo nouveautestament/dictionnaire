@@ -1,0 +1,1 @@
+lar[32185]=`<b>ῆς (ἡ) :<br>      1</b> coupure, entaille, ouverture, PLUT. <i>Alc. 16, etc.</i><br><b>      2</b> amputation, castration, HDT. <i>3, 48 et 49</i> ; PLAT. <i>Conv. 195c, etc</i>.<p><b>Étym</b>. ἐκτέμνω.`

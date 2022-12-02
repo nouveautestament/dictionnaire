@@ -1,0 +1,1 @@
+lar[87683]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πυλών, DÉMOCR. (STOB. <i>Fl. 105, 59</i>) ; OPP. <i>C. 3, 419</i> ; ANTH. <i>5, 242, etc. ; particul</i>. porte d’une fortification, PHIL. BYZ.`

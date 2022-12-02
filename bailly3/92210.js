@@ -1,0 +1,1 @@
+lar[92210]=`<b>σταφυλ·επάρτης, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> instrument pour soulever la luette, P. ÉG. <i>3, 26</i>.<p><b>Étym</b>. σταφυλή, ἐπαίρω.`

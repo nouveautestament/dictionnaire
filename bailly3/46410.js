@@ -1,0 +1,1 @@
+lar[46410]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾱ]</font> Théanô, <i>f</i>. IL. <i>5, 69 ; 6, 298, 302 ; 11, 224</i>.<p>➳ <font color="purple">[ᾰ]</font> ANTH. <i>14, 138</i>.`

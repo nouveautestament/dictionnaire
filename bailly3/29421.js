@@ -1,0 +1,1 @@
+lar[29421]=`<b>ἐγερσι·μάχας, ου (ὁ)</b> <font color="purple">[ῐᾰᾱ]</font> qui excite les combats, ANTH. <i>7, 424</i>.<p><b>Étym</b>. ἐγείρω, μάχη.`

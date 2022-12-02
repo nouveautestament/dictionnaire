@@ -1,0 +1,1 @@
+lar[98979]=`<b>τηλ·ωπός, ός, όν</b>, qu’on voit au loin <i>ou</i> de loin, SOPH. <i>Aj. 564 ; p. anal</i>. qu’on entend de loin, SOPH. <i>Ph. 216</i>.<p><b>Étym</b>. τῆλε, ὤψ.`

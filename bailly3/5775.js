@@ -1,0 +1,1 @@
+lar[5775]=`<b>ας (ἡ) :<br>      1</b> ignorance, grossièreté, EUR. <i>fr. 1020 ; joint à</i> ἀπειροκαλία, PLAT. <i>Rsp. 403c.</i><br><b>      2</b> dissonance, PLAT. <i>Leg. 691a</i>.<p><b>Étym</b>. ἄμουσος.`

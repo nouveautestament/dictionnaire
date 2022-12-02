@@ -1,0 +1,1 @@
+lar[22411]=`<b>ου (ὁ)</b> <i>s.-e</i>. ὀδούς :<br><b>      1</b> dent molaire, HDT. <i>9, 83</i> ; AR. <i>Pax 34 ; Ran. 572</i> ; XÉN. <i>Mem. 1, 4, 6</i> ; ARSTT. <i>P.A. 3, 1, 3 (cf</i>. προσθίος).<br><b>      2</b> <i>p. anal</i>. dent d’une clef, AR. <i>Th. 423</i>.<p><b>Étym</b>. γόμφος.`

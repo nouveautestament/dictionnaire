@@ -1,0 +1,1 @@
+lar[60500]=`<b>ων (οἱ)</b> Létrines, <i>v. d’Élide,</i> XÉN. <i>Hell. 3, 2, 30, etc</i>.`

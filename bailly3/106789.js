@@ -1,0 +1,1 @@
+lar[106789]=`<b>ου (ὁ)</b> Phrasièridès, <i>h</i>. DÉM. <i>Or. 23, 202, etc. Baiter-Sauppe</i>.`

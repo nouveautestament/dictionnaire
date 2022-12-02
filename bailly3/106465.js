@@ -1,0 +1,1 @@
+lar[106465]=`<b>ης (ἡ) :<br>      1</b> pustule, vésicule, phlyctène, ampoule, HPC. <i>V. med. 15, 42</i> ; AR. <i>Vesp. 1119, etc.</i> ; THC. <i>2, 49</i> ; ARSTT. <i>H.A. 8, 24, 6</i>.<br><b>      2</b> <i>p. anal</i>. élevure sur la croûte du pain cuit sous la cendre, LUC. <i>D. mort. 20, 4</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

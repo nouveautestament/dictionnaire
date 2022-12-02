@@ -1,0 +1,1 @@
+lar[9628]=`<b>ἀντ·εξορμάω-ῶ</b>, s’élancer contre, <i>avec</i> ἐς <i>et l’acc</i>. DC. <i>48, 47</i>.`

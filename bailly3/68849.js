@@ -1,0 +1,1 @@
+lar[68849]=`<i>v</i>. νείφω.<p>Chantraine, <i>DÉLG</i> s.v. νείφει : « la graphie νίφει … est fautive ».`

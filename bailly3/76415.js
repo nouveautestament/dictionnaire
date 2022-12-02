@@ -1,0 +1,1 @@
+lar[76415]=`<b>παρα·φορτίζομαι</b>, augmenter une charge ; <i>fig</i>. τι λόγῳ, PLUT. <i>M. 8e</i>, ajouter qqe clause à une convention verbale.`

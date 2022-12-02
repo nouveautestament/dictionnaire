@@ -1,0 +1,1 @@
+lar[68812]=`<b>έως (ὁ)</b> <font color="purple">[ῑ]</font> Nirée, <i>Grec célèbre pour sa beauté,</i> IL. <i>2, 671</i> ; LUC. <i>Tim. 23, D. mort. 9, 4</i>.<p>➳ <i>Gén. épq</i>. -ῆος, Q. SM. <i>6, 382 ; dat. épq</i>. -ῆϊ, Q. SM. <i>6, 44, etc</i>.`

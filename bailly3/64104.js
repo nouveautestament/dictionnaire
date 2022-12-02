@@ -1,0 +1,1 @@
+lar[64104]=`<b>μελι·τερπής, ής, ές</b> <font color="purple">[ῑ]</font> agréable comme le miel, ANTH. <i>7, 25</i>.<p><b>Étym</b>. μέλι, τέρπω.`

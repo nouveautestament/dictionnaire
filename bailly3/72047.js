@@ -1,0 +1,1 @@
+lar[72047]=`<b>ά, όν</b>, qui sert pour le vinaigre, AR. <i>fr. 511 Dind.</i> ; ANTH. <i>12, 108</i>.<p><b>Étym</b>. ὄξος.`

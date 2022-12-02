@@ -1,0 +1,1 @@
+lar[52357]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> oppression, tyrannie, SPT. <i>Ex. 6, 7 ; Amos 3, 9, etc</i>.<p><b>Étym</b>. καταδυναστεύω.`

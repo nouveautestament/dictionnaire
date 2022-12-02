@@ -1,0 +1,1 @@
+lar[83830]=`<b>προ·βρέχω</b> <font color="darkgreen">(<i>ao.2 part. pass</i>. προβραχείς <font color="purple">[ᾰ]</font>)</font> mouiller auparavant, ARSTT. <i>Probl. 22, 11, 2 ; au pass</i>. HPC. <i>681, 9</i>.`

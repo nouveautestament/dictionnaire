@@ -1,0 +1,1 @@
+lar[78035]=`<b>πεντά·ρραγος, ος, ον</b> <font color="purple">[ᾱγ]</font> à cinq grains <i>ou</i> baies, ANTH. <i>6, 300</i>.<p><b>Étym</b>. π. ῥάξ.`

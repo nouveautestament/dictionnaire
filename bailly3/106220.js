@@ -1,0 +1,1 @@
+lar[106220]=`<b>φιλόω-ῶ</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλιόω, EL. (SUID.).<p><b>Étym</b>. φίλος.`

@@ -1,0 +1,1 @@
+lar[29504]=`<b>ἐγ·καταβαίνω</b>, descendre dans <i>ou</i> sur, <i>acc</i>. PD. <i>N. 1, 38 (ao. 3 sg. dor</i>. -κατέβα) ; <i>dat</i>. DS. <i>14, 28 (prés</i>. -ουσι) ; <i>abs</i>. GAL. <i>8, 77d, f (part. prés</i>. -ούσῃ).<p><b>Étym</b>. ἐν, κ.`

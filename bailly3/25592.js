@@ -1,0 +1,1 @@
+lar[25592]=`<font color="purple">[τᾰ]</font> <i>adv</i>., à distance, séparément, A.RH. <i>2, 67</i> ; ἀλλήλῃσι, A.RH. <i>4, 942,</i> les unes des autres.<p><b>Étym</b>. διΐστημι.`

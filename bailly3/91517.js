@@ -1,0 +1,1 @@
+lar[91517]=`<b>ύος</b> <i>ou</i> <b>ύδος (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σμινύη, AR. <i>fr. 402 Kock</i>.`

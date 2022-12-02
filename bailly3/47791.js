@@ -1,0 +1,1 @@
+lar[47791]=`<b>οῦ (ὁ)</b> escarpement, hauteur (<i>propr</i>. saillie), <i>d’où</i> exhaussement d’une plaine, IL. <i>10, 160 ; 11, 56</i> ; A.RH. <i>3, 198</i> ; escarpements d’un fleuve, A.RH. <i>2, 823</i>.<p><b>Étym</b>. θρῴσκω.`

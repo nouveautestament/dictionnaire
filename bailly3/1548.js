@@ -1,0 +1,1 @@
+lar[1548]=`<b>ἄ·δριμυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ῐ]</font> non acide, LUC. <i>Trag. 323</i>.<p><b>Étym</b>. ἀ, δριμύς.`

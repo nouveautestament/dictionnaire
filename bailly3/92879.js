@@ -1,0 +1,1 @@
+lar[92879]=`<b>στρατο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ᾰᾰκ]</font> sentinelle (<i>litt</i>. qui veille sur le camp) STR. <i>567, 707</i>.<p><b>Étym</b>. στρατός, φύλαξ.`

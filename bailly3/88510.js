@@ -1,0 +1,1 @@
+lar[88510]=`<i>adv</i>., en termes exprès <i>ou</i> formels, expressément, POL. <i>3, 23, 5</i>.<p>•<i> Cp</i>. ῥητότερον, CLÉM. <i>1, 1317b Migne. • Sup</i>. ῥητότατα, SEXT. <i>7, 16</i>.<p><b>Étym</b>. ῥητός.`

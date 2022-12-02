@@ -1,0 +1,1 @@
+lar[87106]=`<b>πρωθ·ήβης, ου</b>, <i>adj. m</i>. qui est dans la première jeunesse, IL. <i>8, 518</i> ; OD. <i>8, 263</i> ; ANTH. <i>App. 306</i> ; LUC. <i>D. mort. 5, 2, etc</i>.<p><b>Étym</b>. πρῶτος, ἥβη.`

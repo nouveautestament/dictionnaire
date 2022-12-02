@@ -1,0 +1,1 @@
+lar[61870]=`<b>έως (ὁ)</b> <font color="purple">[ῠῐ]</font> jeune loup, louveteau, THCR. <i>Idyl. 5, 38</i> ; SOL. (PLUT. <i>Sol. 23</i>) ; PLUT. <i>M. 462e</i>.<p><b>Étym</b>. λύκος.`

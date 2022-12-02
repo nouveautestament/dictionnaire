@@ -1,0 +1,1 @@
+lar[15383]=`<b>ἀρτί·τομος, ος, ον</b> <font color="purple">[ῐ]</font> nouvellement taillé <i>ou</i> construit, A.RH. <i>4, 1515</i>.<p><b>Étym</b>. ἄ. τέμνω.`

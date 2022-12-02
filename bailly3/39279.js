@@ -1,0 +1,1 @@
+lar[39279]=`<b>ἐπι·σφίγγω</b>, serrer, étreindre : τοὺς πόδας, LUC. <i>Am. 41,</i> les pieds, <i>en parl. de chaussures</i> ; τινὰ πήχεσι, ANTH. <i>5, 243,</i> serrer qqn dans ses bras ; τὴν νήτην, EL. <i>V.H. 9, 36,</i> presser la corde d’une lyre.`

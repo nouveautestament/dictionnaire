@@ -1,0 +1,1 @@
+lar[5289]=`<b>(ἡ)</b> Amastris (<i>auj</i>. Amasra) <i>v. de Paphlagonie,</i> LUC. <i>Tox. 57, Alex. 56, etc</i>.<p>➳ <i>Gén</i>. -εως, STR. <i>540</i> ; -ιδος, E. BYZ. ; -ίδος, POLYEN <i>6, 12 ; acc</i>. -ιν.`

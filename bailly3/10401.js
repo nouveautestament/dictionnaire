@@ -1,0 +1,1 @@
+lar[10401]=`<b>ή, όν :<br>      1</b> rétractile, ARSTT. <i>H.A. 10, 7, 6</i>.<br><b>      2</b> antispastique, <i>t. de pros</i>. (<i>v</i>. ἀντίσπαστος) HÉPH. <i>1, 9 ; 10, 1</i>.<p><b>Étym</b>. ἀντίσπαστος.`

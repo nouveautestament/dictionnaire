@@ -1,0 +1,1 @@
+lar[31133]=`<b>ἐκ·γαυρόομαι-οῦμαι</b>, vanter avec orgueil, EUR. <i>I.A. 101</i>.`

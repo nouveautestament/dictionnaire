@@ -1,0 +1,1 @@
+lar[49576]=`<i>adv</i>., de l’isthme <i>ou</i> hors de l’isthme (de Corinthe) ANTH. <i>9, 588</i>.<p><b>Étym</b>. ἰσθμός, -θεν.`

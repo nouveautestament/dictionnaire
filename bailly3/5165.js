@@ -1,0 +1,1 @@
+lar[5165]=`<b>ου (ἡ)</b> <font color="purple">[ᾰᾰ]</font> sable de plaine (<i>p. opp. à</i> ψάμαθος <i>ou</i> ψάμμος) IL. <i>5, 587 ; plur</i>. dunes, HH. <i>Ap. 439</i>.<p><b>Étym</b>. <i>emprunt à un substrat pré-indo-europ. ; cf</i>. ἄμμος, ψάμαθος <i>et</i> ψάμμος.`

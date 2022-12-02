@@ -1,0 +1,1 @@
+lar[57199]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> bord supérieur d’un filet, XÉN. <i>Cyn. 10, 2</i>.`

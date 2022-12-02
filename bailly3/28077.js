@@ -1,0 +1,1 @@
+lar[28077]=`<b>δυναμο·δύναμις, εως (ἡ)</b> <font color="purple">[ῠᾰῠᾰ]</font> 4<sup>e</sup> puissance (carré du carré) d’un nombre, DIOPH. <i>2, etc</i>.<p><b>Étym</b>. δύναμις <i>redoublé</i>.`

@@ -1,0 +1,1 @@
+lar[81058]=`<b>ας (ἡ)</b> ouvrage en brique, JOS. <i>A.J. 2, 13, 4</i> ; SPT. <i>Ex. 1, 14, etc</i>.<p><b>Étym</b>. πλινθεύω.`

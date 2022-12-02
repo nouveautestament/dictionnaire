@@ -1,0 +1,1 @@
+lar[84770]=`<b>ου (τὸ)</b> <i>ion. c</i>. πρόναον, ANTH. <i>6, 281</i>.<p>➳ <i>Dans les inscr. att. l’écriture flotte entre les formes</i> προνήϊον <i>et</i> πρόνεως, CIA. <i>1, 117, 130 (434/425 av. J.-C.) ; v. Meisterh. p. 51, 6</i>.<p><b>Étym</b>. <i>neutre de</i> προνήϊος.`

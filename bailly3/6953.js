@@ -1,0 +1,1 @@
+lar[6953]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font><br><b>      1</b> action de s’étendre à la renverse, de se coucher, HPC. <i>25, 9 ; Coac. 197</i> ; ARSTT. <i>Categ. 7, 3</i> ; ANTH. <i>11, 382</i>.<br><b>      2</b> action de se dresser sur une couche, <i>d’où</i> réveil, PLUT. <i>Ant. 71 au plur</i>.<p><b>Étym</b>. ἀνακλίνω.`

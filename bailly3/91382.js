@@ -1,0 +1,1 @@
+lar[91382]=`<b>σκυτόω-ῶ</b> <font color="purple">[ῡ]</font> recouvrir de cuir, POL. <i>10, 20, 3</i>.<p><b>Étym</b>. σκῦτος.`

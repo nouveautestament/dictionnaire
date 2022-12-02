@@ -1,0 +1,1 @@
+lar[94979]=`<b>ας (ἡ) :<br>      1</b> pouvoir commun <i>ou</i> partagé, <i>particul. en parl. du triumvirat, à Rome,</i> STR. <i>708</i> ; DC. <i>47, 7 ; 53, 2</i>.<br><b>      2</b> <i>au pl</i>. magistrature collégiale, ARSTT. <i>Pol. 4, 14, 4</i> ; POL. <i>4, 4, 2 ; 27, 2, 11 ; 38, 5, 4</i>.<p><b>Étym</b>. σύναρχος.`

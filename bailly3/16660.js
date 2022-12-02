@@ -1,0 +1,1 @@
+lar[16660]=`<b>ἀτακτέω-ῶ</b>, <i>f</i>. ήσω :<br><b>      1</b> ne pas garder son poste, être indiscipliné, XÉN. <i>Cyr. 7, 2, 6</i> ; DÉM. <i>31, 17 ; fig</i>. ἀ. τῆς πατρίου ἀγωγῆς, PLUT. <i>M. 235b</i>, déserter le genre de vie de ses pères.<br><b>      2</b> <i>abs</i>. se livrer au désordre, LYS. <i>141, 19</i> ; XÉN. <i>Œc. 7, 31</i>.<p><b>Étym</b>. ἄτακτος.`

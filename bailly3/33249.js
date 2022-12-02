@@ -1,0 +1,1 @@
+lar[33249]=`<b>αυῖα, αός</b> <font color="purple">[μᾰ]</font> ardent, impétueux, furieux, IL. <i>5, 142, etc.</i> ; HÉS. <i>Sc. 439</i> ; τινι, A.RH. <i>2, 121,</i> contre qqn.<p><b>Étym</b>. ἐν, μέμαα.`

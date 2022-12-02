@@ -1,0 +1,1 @@
+lar[60619]=`<b>ου (ὁ)</b> = <i>lat</i>. Lucullus, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 4, Cam. 19, etc.</i> ; LUC. <i>Macr. 15 ; plur</i>. Λεύκουλλοι, des Lucullus, PLUT. <i>Cæs. 15</i>.`

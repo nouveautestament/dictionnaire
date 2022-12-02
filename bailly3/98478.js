@@ -1,0 +1,1 @@
+lar[98478]=`<b>τετανο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble au tétanos, TH. <i>H.P. 4, 6, 1</i>.<p><b>Étym</b>. τέτανος, εἶδος.`

@@ -1,0 +1,1 @@
+lar[95406]=`<b>συν·εκστρατεύω</b> <font color="purple">[ᾰ]</font> partir ensemble <i>ou</i> en même temps pour une expédition, JOS. <i>A.J. 7, 10, 1</i>.`

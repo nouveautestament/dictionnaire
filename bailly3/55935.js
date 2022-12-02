@@ -1,0 +1,1 @@
+lar[55935]=`qui vole, de voleur, AR. <i>Vesp. 900, 933</i>.<p><b>Étym</b>. <i>part. prés. de</i> κλέπτω.`

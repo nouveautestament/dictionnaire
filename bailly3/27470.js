@@ -1,0 +1,1 @@
+lar[27470]=`<b>*δολορραφία</b>, <i>seul. ion</i>. <b>δολορραφίη, ης (ἡ)</b> <font color="purple">[ρᾰ]</font> action de tramer (<i>litt</i>. de coudre) des intrigues, <i>d’où</i> ruse subtile, ANTH. <i>5, 286</i>.<p><b>Étym</b>. δολορραφής.`

@@ -1,0 +1,1 @@
+lar[108873]=`<b>ου (τὸ)</b> moyen de secourir, ANTH. <i>1, 32, 1</i> ; M. SID. <i>42</i>.<p><b>Étym</b>. χραίσμη.`

@@ -1,0 +1,1 @@
+lar[80931]=`<i>adv</i>., en état de naviguer, ARSTT. <i>Meteor. 2, 3, 34</i>.`

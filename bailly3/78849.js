@@ -1,0 +1,1 @@
+lar[78849]=`<b>περι·κυλινδέω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. περικυλίω, PLAT. <i>Leg. 893e dout</i>.`

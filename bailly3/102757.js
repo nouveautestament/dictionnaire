@@ -1,0 +1,1 @@
+lar[102757]=`<b>ὑπέρ·πικρος, ος, ον</b>, extrêmement amer, âpre <i>ou</i> rude, ESCHL. <i>Pr. 944</i>.<p><b>Étym</b>. ὑ. πικρός.`

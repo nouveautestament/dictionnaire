@@ -1,0 +1,1 @@
+lar[45515]=`<b>ἡμι·ούγκιον, ου (τὸ)</b> demi-once, EPICH. <i>vol. 1, p. 98, 33 Bekker, Anecdota græca</i>. GAL. <i>13, 703</i>.<p><b>Étym</b>. ἡμι-, <i>lat</i>. uncia.`

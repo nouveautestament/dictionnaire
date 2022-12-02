@@ -1,0 +1,1 @@
+lar[23796]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de cochon, PHÉRÉCR. <i>et</i> ALEX. (ATH. <i>269a, 383c</i>).<p><b>Étym</b>. δέλφαξ.`

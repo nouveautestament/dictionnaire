@@ -1,0 +1,1 @@
+lar[46841]=`<i>adv</i>. <font color="purple">[ῐ]</font> avec amour pour les dieux, d’une manière agréable aux dieux, PLAT. <i>1 Alc. 134d ;</i> ISOCR. <i>46b, 197c</i>.<p><b>Étym</b>. θεοφιλής.`

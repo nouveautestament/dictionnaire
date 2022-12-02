@@ -1,0 +1,1 @@
+lar[86131]=`<b>προσ·μερίζω</b>, assigner une part, attribuer, POL. <i>22, 5, 15</i> ; DS. <i>14, 107</i>.`

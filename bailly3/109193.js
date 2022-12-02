@@ -1,0 +1,1 @@
+lar[109193]=`<b>χρυσοκομέω-ῶ</b> <font color="purple">[ῡ]</font> avoir des cheveux d’or, PHILSTR. <i>Ep. 34</i>.<p><b>Étym</b>. χρυσοκόμης.`

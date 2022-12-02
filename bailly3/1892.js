@@ -1,0 +1,1 @@
+lar[1892]=`<b>οῦ (ὁ)</b> dégoût, répugnance, SEXT. <i>21, 7 Bkk</i>.<p><b>Étym</b>. ἀηδίζω.`

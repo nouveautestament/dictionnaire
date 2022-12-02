@@ -1,0 +1,1 @@
+lar[51404]=`<font color="purple">[ᾰ]</font> ressembler à un chameau, HLD. <i>10, 27</i>.<p><b>Étym</b>. κάμηλος.`

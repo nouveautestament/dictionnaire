@@ -1,0 +1,1 @@
+lar[76814]=`<b>παρ·ευθύνω</b>, <i>propr</i>. diriger hors du droit chemin, <i>càd</i>. diriger à son gré, SOPH. <i>Aj. 1069</i>.`

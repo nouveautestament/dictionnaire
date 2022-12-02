@@ -1,0 +1,1 @@
+lar[3456]=`<b>ή, όν</b>, qui est dans toute sa force <i>ou</i> sa fraîcheur, mûr, OD. <i>23, 191</i> ; PAUS. <i>5, 15, 6</i>.<p><b>Étym</b>. ἀκμή.`

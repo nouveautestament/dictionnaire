@@ -1,0 +1,1 @@
+lar[93779]=`<b>ή, όν :<br>      1</b> qui conçoit facilement, ARSTT. <i>G.A. 2, 8, 15</i>.<br><b>      2</b> qui facilite la conception, AÉT. (PHOT. <i>Bibl. 180, 25</i>).<br><b>      3</b> compréhensif, RHÉT. (<i>W. 8, 666</i>).<br><b>      4</b> <i>t. de gr</i>. collectif, GRAMM.<br><b>      5</b> qui aide, qui assiste, NICOM. <i>Arithm. 134</i>.<p><b>Étym</b>. συλλαμβάνω.`

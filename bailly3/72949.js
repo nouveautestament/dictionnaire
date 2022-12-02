@@ -1,0 +1,1 @@
+lar[72949]=`<b>ὀρνιθο·τρόφος, ος, ον</b> <font color="purple">[ῑ]</font> qui nourrit des oiseaux, <i>particul</i>. qui élève des poules, DS. <i>1, 74</i>.<p><b>Étym</b>. ὄρνις, τρέφω.`

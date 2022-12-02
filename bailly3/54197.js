@@ -1,0 +1,1 @@
+lar[54197]=`<b>έως (ὁ)</b> verrou, CALL. <i>Ap. 6</i> ; SYMM. <i>Ex. 26, 17</i>.<p><b>Étym</b>. κατέχω.`

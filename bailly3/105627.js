@@ -1,0 +1,1 @@
+lar[105627]=`<b>εως (ἡ)</b> <font color="purple">[φῐ]</font> action d’aimer, affection, ARSTT. <i>Nic. 9, 5, 1 ; 9, 7, 6</i>.<p><b>Étym</b>. φιλέω.`

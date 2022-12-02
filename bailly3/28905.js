@@ -1,0 +1,1 @@
+lar[28905]=`<b>δυσ·σύνοπτος, ος, ον</b>, difficile à voir d’ensemble, difficile à distinguer, POL. <i>3, 84, 2 ; 8, 26, 6 ; fig</i>. JAMBL. <i>V. Pyth. p. 380</i>.<p><b>Étym</b>. δ. συνόψομαι, <i>fut. de</i> συνοράω.`

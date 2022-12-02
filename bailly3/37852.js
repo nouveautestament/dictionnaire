@@ -1,0 +1,1 @@
+lar[37852]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> sacrifice sur <i>ou</i> auprès, PHIL. BYBL. (EUS. <i>3, 76 Migne).</i><p><b>Étym</b>. ἐπιθύω¹.`

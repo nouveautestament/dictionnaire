@@ -1,0 +1,1 @@
+lar[94325]=`<b>ας (ἡ)</b> action de boire ensemble, <i>d’où p. ext</i>. festin, ALC. <i>46</i> ; PD. <i>P. 4, 524</i>.<p><b>Étym</b>. συμπίνω.`

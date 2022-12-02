@@ -1,0 +1,1 @@
+lar[46549]=`<font color="purple">[ᾰ]</font> <i>adv. seul. cp</i>. -ώτερον, d’une manière conforme au thème, DYSC. <i>Synt. 107</i>.`

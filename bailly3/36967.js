@@ -1,0 +1,1 @@
+lar[36967]=`<b>ἐπ·ειρωνεύομαι</b>, parler ironiquement, APP. <i>Civ. 4, 70</i> ; JOS. <i>B.J. 1, 3, 6 ; 5, 13, 1</i> ; HÉRODOTUS <i>et</i> RUF. (ORIB. <i>1, 406 ; 2, 211 B.-Dar</i>.).`

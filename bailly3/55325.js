@@ -1,0 +1,1 @@
+lar[55325]=`<i>crase dor. p</i>. καὶ ἐς, THCR. <i>Idyl. 15, 147</i>.`

@@ -1,0 +1,1 @@
+lar[58268]=`<i>adv</i>., comme une brute, brutalement, SPT. <i>Ps. 72, 23</i>.<p><b>Étym</b>. κτηνώδης.`

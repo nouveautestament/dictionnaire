@@ -1,0 +1,1 @@
+lar[7523]=`<b>εως (ἡ)</b> <font color="purple">[ᾱρ]</font> abstention <i>ou</i> privation du dîner (<i>en parl. du repas du matin ou du milieu du jour</i>), HPC. <i>379, 17 (vulg. ; conj</i>. ἀναριστίῃσιν).<p><b>Étym</b>. ἀναριστέω.`

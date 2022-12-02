@@ -1,0 +1,1 @@
+lar[41595]=`<b>ου (ὁ)</b> Euandridès, <i>h. (litt</i>. fils d’Euandros) LUC. <i>Herm. 39</i>.<p><b>Étym</b>. <i>patr. de</i> Εὔανδρος.`

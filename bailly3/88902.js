@@ -1,0 +1,1 @@
+lar[88902]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> <i>c</i>. ῥυπαρός, NIC. <i>Al. 469</i> ; ANTH. <i>6, 293</i>.`

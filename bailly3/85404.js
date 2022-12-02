@@ -1,0 +1,1 @@
+lar[85404]=`<b>προσ·διακρίνω</b> <font color="purple">[ῑ <i>prés.,</i> ῐ <i>fut</i>.]</font> distinguer en outre, DYSC. <i>Synt. p. 11, 28</i> ; PTOL. <i>1, 2, 4</i>.`

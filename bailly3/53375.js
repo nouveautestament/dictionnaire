@@ -1,0 +1,1 @@
+lar[53375]=`<b>κατά·σκοπος, ου (ὁ) :<br>      1</b> espion <i>ou</i> éclaireur, HDT. <i>1, 100</i> ; THC. <i>8, 6</i> ; XÉN. <i>Cyr. 6, 1, 18</i> ; EUR. <i>Rhes. 125</i> ; AR. <i>Th. 588</i>.<br><b>      2</b> inspecteur, THC. <i>4, 27</i>.<p><b>Étym</b>. κατασκέπτομαι.`

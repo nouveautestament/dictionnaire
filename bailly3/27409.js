@@ -1,0 +1,1 @@
+lar[27409]=`user d’artifice, SPT. <i>Gen. 37, 17 (ao</i>. ἐδολιεύσαντο) ; λόγος δεδολιευμένος, SEXT. <i>P. 2, 229,</i> discours plein d’artifice.<p><b>Étym</b>. δόλιος.`

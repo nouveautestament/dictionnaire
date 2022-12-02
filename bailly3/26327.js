@@ -1,0 +1,1 @@
+lar[26327]=`<b>δι·ευτακτέω-ῶ</b>, conserver son ordre, son rang, JAMBL. <i>Nicom. ar. 106b</i>.`

@@ -1,0 +1,1 @@
+lar[73647]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> sorte d’onguent pour les yeux, A. TR. <i>2, p. 140, 148</i>.<p><b>Étym</b>. οὐρανός.`

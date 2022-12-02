@@ -1,0 +1,1 @@
+lar[47351]=`<b>ή, όν</b>, qui a l’habitude de mettre en réserve, d’amasser, <i>gén</i>. ARSTT. <i>H.A. 1, 1</i>.<p><b>Étym</b>. θησαυρίζω.`

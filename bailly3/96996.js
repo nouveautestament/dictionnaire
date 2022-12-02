@@ -1,0 +1,1 @@
+lar[96996]=`<i>adv.</i> :<br><b>      1</b> de près, IL. <i>5, 830</i>.<br><b>      2</b> sur-le-champ, NIC. <i>Al. 88</i>.<p><b>Étym</b>. <i>acc. fém. ion. de</i> σχέδιος.`

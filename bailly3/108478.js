@@ -1,0 +1,1 @@
+lar[108478]=`<b>χιμάρ·αρχος, ου (ὁ)</b> <font color="purple">[ῐμᾰ]</font> chef d’un troupeau de chèvres, <i>ép. d’un bouc,</i> ANTH. <i>9, 744</i>.<p><b>Étym</b>. χίμαρος, ἄρχω.`

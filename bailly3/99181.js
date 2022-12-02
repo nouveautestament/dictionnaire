@@ -1,0 +1,1 @@
+lar[99181]=`<b>τιμ·αλφής, ής, ές</b> <font color="purple">[ῑ]</font> qui trouve son prix, qui parvient à se vendre son prix, <i>d’où</i> coûteux, précieux, cher, ESCHL. <i>fr. 53</i> ; PLAT. <i>Tim. 59b ;</i> ANTH. <i>11, 397</i>.<p>•<i> Cp</i>. -έστερος, NICOSTR. (STOB. <i>Fl. 74, 62), sup</i>. -έστατος, PLAT. <i>l. c.</i> ; EL. <i>N.A. 10, 13</i>.<p><b>Étym</b>. τιμή, ἀλφάνω.`

@@ -1,0 +1,1 @@
+lar[51061]=`<b>καλιστρέω-ῶ</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. καλέω, CALL. <i>Dian. 67, etc</i>.<p><b>Étym</b>. <i>cf</i>. βωστρέω <i>et</i> βοάω.`

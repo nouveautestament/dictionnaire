@@ -1,0 +1,1 @@
+lar[1200]=`<b>ων (οἱ)</b> magistrats de Séleucie, POL. <i>5, 54, 10</i>.`

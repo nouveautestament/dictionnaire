@@ -1,0 +1,1 @@
+lar[20579]=`<b>ου (ὁ)</b> qui laboure avec des bœufs, LYC. <i>263</i> ; A. PL. <i>333</i> ; ὁ β. le Bouvier <i>ou</i> Arktouros, <i>constellation,</i> OD. <i>5, 272</i> ; ARAT. <i>92</i>.<p><b>Étym</b>. βοῦς.`

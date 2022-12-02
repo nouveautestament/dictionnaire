@@ -1,0 +1,1 @@
+lar[68897]=`<b>νομ·άρχης, ου (ὁ) :<br>      1</b> nomarque, <i>gouverneur d’un nome en Égypte,</i> HDT. <i>2, 177</i>.<br><b>      2</b> <i>chef d’une tribu scythe,</i> HDT. <i>4, 66</i>.<p><b>Étym</b>. νομός, ἄρχω.`

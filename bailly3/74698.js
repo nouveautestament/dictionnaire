@@ -1,0 +1,1 @@
+lar[74698]=`<b>παμ·μάχος, ος, ον</b> <font color="purple">[ᾰχ]</font><br><b>      1</b> qui lutte contre tous, ESCHL. <i>Ag. 169, etc.</i><br><b>      2</b> qui lutte au pancrace, <i>càd. fig</i>. prêt pour toute sorte de luttes <i>ou</i> de discussions, PLAT. <i>Euthyd. 271c ;</i> THCR. <i>Idyl. 24, 112</i>.<p><b>Étym</b>. π. μάχη.`

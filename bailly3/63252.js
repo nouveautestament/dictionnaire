@@ -1,0 +1,1 @@
+lar[63252]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. lascive, <i>d’où subst</i>. femme lascive, ANTH. <i>5, 105, 302 ; fig</i>. μ. χαίτη, NONN. <i>Jo. 12, v. 3,</i> chevelure luxuriante ; <i>cf</i>. ANTH. <i>9, 443, etc</i>.<p><b>Étym</b>. μάχλος.`

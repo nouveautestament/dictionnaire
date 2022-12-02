@@ -1,0 +1,1 @@
+lar[23234]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui use, qui épuise, <i>gén</i>. AÉT. <i>14a ;</i> NYSS. <i>1, 5a ; 227b ;</i> CHRYS. <i>9, 490d, 615c Migne ; etc</i>.<p><b>Étym</b>. δαπανάω.`

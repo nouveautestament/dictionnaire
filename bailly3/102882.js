@@ -1,0 +1,1 @@
+lar[102882]=`<b>ὑπερ·φροντίζω</b>, s’inquiéter <i>ou</i> se préoccuper trop, HLD. <i>10, 29</i>.`

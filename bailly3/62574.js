@@ -1,0 +1,1 @@
+lar[62574]=`<i>adv</i>., avec allongement, <i>t. de pros</i>. SEXT. <i>M. 1, 6, p. 242</i>.`

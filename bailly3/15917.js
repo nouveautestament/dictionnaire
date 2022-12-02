@@ -1,0 +1,1 @@
+lar[15917]=`<b>ἄ·σκευος, ος, ον</b>, non équipé, non préparé, SOPH. <i>O.C. 1029</i> ; ἄ. ἀσπίδων, SOPH. <i>El. 36,</i> non muni de boucliers ; οἱ ἄσκευοι, PAUS. <i>8, 50, 2,</i> troupe armée à la légère.<p><b>Étym</b>. ἀ, σκεῦος.`

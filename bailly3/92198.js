@@ -1,0 +1,1 @@
+lar[92198]=`<b>σταυρο·φανῶς</b> <font color="purple">[ᾰ]</font> <i>adv</i>., en forme de croix, ANTH. <i>1, 60</i>.<p><b>Étym</b>. στ. φαίνω.`

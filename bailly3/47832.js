@@ -1,0 +1,1 @@
+lar[47832]=`<b>ου (τὸ)</b> autel pour le sacrifice, DORIEUS (ATH. <i>413a</i>).<p><b>Étym</b>. θυηπόλος.`

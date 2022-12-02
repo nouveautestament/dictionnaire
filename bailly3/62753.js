@@ -1,0 +1,1 @@
+lar[62753]=`<b>ή, όν</b> <font color="purple">[δᾰ]</font> qui verrouille : μανδαλωτὸν (<i>s.-e</i>. φίλημα) AR. <i>Th. 132, Ach. 1251,</i> baiser qui clôt la bouche <font color="purple">[<i>un</i> french kiss <i>dirions-nous auj</i>.]</font> (μανδαλόω, HSCH. verrouiller, <i>de</i> μάνδαλος).`

@@ -1,0 +1,1 @@
+lar[109206]=`<b>χρυσό·λογχος, ος, ον</b> <font color="purple">[ῡ]</font> à la lance d’or, EUR. <i>Ion 9</i> ; AR. <i>Th. 318</i>.<p><b>Étym</b>. χρ. λόγχη.`

@@ -1,0 +1,1 @@
+lar[33677]=`<i>adv.</i> : ἐ. ἔχειν, TIMON (DL. <i>6, 103</i>) ; ATH. <i>27a</i>, ressembler à, <i>dat</i>.<p>•<i> Sup</i>. ἐμφερέστατα, AR. <i>fr. 49</i>.<p><b>Étym</b>. ἐμφερής.`

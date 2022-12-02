@@ -1,0 +1,1 @@
+lar[102885]=`<b>ὑπερ·φρύγιος, ος, ον</b> <font color="purple">[ῠγ]</font> hyperphrygien, <i>n. d’un mode de musique,</i> HÉRACLIDE DU PONT (ATH. <i>625d</i>).`

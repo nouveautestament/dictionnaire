@@ -1,0 +1,1 @@
+lar[94715]=`<b>συν·ανακλίνω</b> <font color="purple">[ῑ <i>prés.,</i> ῐ <i>fut</i>.]</font> faire coucher avec, EUM. <i>5, p. 146 ; au pass</i>. s’étendre sur le même lit <i>ou</i> se mettre à la même table que, <i>dat</i>. CLÉM. <i>271</i> ; EUM. <i>1, p. 14, etc. ; ou</i> μετά <i>et le gén</i>. LUC. <i>As. 3</i>.`

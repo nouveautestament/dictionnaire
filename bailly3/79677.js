@@ -1,0 +1,1 @@
+lar[79677]=`<b>περί·χολος, ος, ον</b>, très bilieux, HPC. <i>Prorrh. 71, etc</i>.<p><b>Étym</b>. π. χολή.`

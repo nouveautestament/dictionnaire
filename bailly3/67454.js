@@ -1,0 +1,1 @@
+lar[67454]=`<b>ης (ἡ)</b> <font color="purple">[ῠῐ]</font> Mytilènè (Mytilène, <i>auj</i>. Mytilíni) <i>v. princip. de Lesbos,</i> HDT. <i>1, 160, etc.</i> ; THC. <i>3, 2, etc.</i> ; XÉN. <i>Hell. 1, 6, 16, etc</i>.<p>➳ <i>Dor</i>. Μυτιλάνα, MOSCH. <i>3, 92</i> ; ANTH. <i>7, 81. Sur l’écriture</i> Μυτιλήνη, <i>v</i>. Μυτιληναῖος.`

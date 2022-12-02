@@ -1,0 +1,1 @@
+lar[29633]=`<b>ἐγ·κεντρίς, ίδος (ἡ) :<br>      1</b> aiguillon. AR. <i>Vesp. 427, 1073</i> ; XÉN. <i>Cyn. 6, 1</i>.<br><b>      2</b> éperon, PHÉRÉCR. (POLL. <i>10, 53</i>).<br><b>      3</b> pointe de fer qu’on fixe aux pieds pour grimper, ARISTÉN. <i>1, 20</i>.<p><b>Étym</b>. ἐν, κέντρον.`

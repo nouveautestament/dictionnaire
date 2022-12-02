@@ -1,0 +1,1 @@
+lar[24417]=`<b>ατος (τὸ)</b> pas, SPT. <i>2Reg. 22, 37 ; Job 31, 4 ; Ps. 35, 26 ; d’où</i> marche, NAZ. <i>Or. 40, t. 2, p. 384a</i>.<p><b>Étym</b>. διαβαίνω.`

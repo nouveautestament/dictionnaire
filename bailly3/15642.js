@@ -1,0 +1,1 @@
+lar[15642]=`<b>ἀρχι·πειρατής, οῦ (ὁ)</b> <font color="purple">[ῐρᾱ]</font> chef de pirates, DS. <i>20, 97</i> ; PLUT. <i>Pomp. 45</i>.`

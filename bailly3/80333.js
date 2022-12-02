@@ -1,0 +1,1 @@
+lar[80333]=`<b>α, ον</b> <font color="purple">[ῐᾰ]</font> de la grandeur <i>ou</i> de l’épaisseur d’une planche, HIPPIATR. <i>252</i>.<p><b>Étym</b>. πίναξ.`

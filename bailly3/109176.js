@@ -1,0 +1,1 @@
+lar[109176]=`<b>Χρυσό·θεμις, ιδος</b> <i>ou</i> <b>ιος</b>, <i>acc</i>. <b>ιν (ἡ)</b> <font color="purple">[ῡῐδ]</font> Khrysothémis, <i>fille d’Agamemnon,</i> IL. <i>9, 145, 287</i> ; SOPH. <i>El. 157, 326</i> ; EUR. <i>Or. 23</i>.<p><b>Étym</b>. χρ. θέμις.`

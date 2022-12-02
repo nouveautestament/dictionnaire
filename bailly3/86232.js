@@ -1,0 +1,1 @@
+lar[86232]=`<b>πρόσ·ορος, ος, ον :<br>      1</b> limitrophe de, <i>dat</i>. HDT. <i>2, 12, 18, etc.</i> ; XÉN. <i>Cyr. 6, 1, 17</i> ; DC. <i>36, 36</i>.<br><b>      2</b> confiné dans la solitude, solitaire, SOPH. <i>Ph. 691</i>.<p>➳ <i>Ion</i>. πρόσουρος, SOPH. HDT. <i>ll. cc</i>.<p><b>Étym</b>. π. ὅρος.`

@@ -1,0 +1,1 @@
+lar[86732]=`<b>προ·ταρβέω-ῶ :<br>      1</b> craindre d’avance, <i>acc</i>. ESCHL. <i>Sept. 332</i> ; EUR. <i>fr. 362, 25, etc.</i><br><b>      2</b> craindre pour, EUR. <i>H.f. 968 ; gén</i>. SOPH. <i>Tr. 89, Ant. 83</i>.`

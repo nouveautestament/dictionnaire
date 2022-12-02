@@ -1,0 +1,1 @@
+lar[105540]=`<b>φιλ·έθειρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les cheveux, <i>càd</i>. qui recueille les cheveux coupés par le ciseau, <i>en parl. d’un peignoir,</i> ANTH. <i>6, 307</i>.<p><b>Étym</b>. φ. ἔθείρα.`

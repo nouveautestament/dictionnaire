@@ -1,0 +1,1 @@
+lar[29565]=`<i>adv</i>., d’un travail achevé, SEXT. <i>686, 11 Bkk</i>.`

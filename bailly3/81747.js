@@ -1,0 +1,1 @@
+lar[81747]=`<b>πολυ·άχυρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> mêlé de beaucoup de paille, TH. <i>C.P. 4, 11, 4</i>.<p><b>Étym</b>. π. ἄχυρον.`

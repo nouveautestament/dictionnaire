@@ -1,0 +1,1 @@
+lar[70549]=`<b>οἰν·οπίπης, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui guigne de l’œil du vin, AR. <i>Th. 393</i>.<p><b>Étym</b>. οἶν. ὀπιπτεύω.`

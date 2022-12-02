@@ -1,0 +1,1 @@
+lar[76299]=`<b>ων (αἱ)</b> <font color="purple">[ῐ]</font> esquilles, HPC. <i>Fract. 766f</i>.<p><b>Étym</b>. παρασχίζω.`

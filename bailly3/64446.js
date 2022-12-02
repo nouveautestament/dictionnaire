@@ -1,0 +1,1 @@
+lar[64446]=`<b>μεσ·άραιον, ου (τὸ)</b> mésentère, membrane intestinale, A. TR. <i>12, p. 221</i> ; GAL. <i>2, 296, etc</i>.<p><b>Étym</b>. μέσος, ἀραιά.`

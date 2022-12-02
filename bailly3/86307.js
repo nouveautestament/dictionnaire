@@ -1,0 +1,1 @@
+lar[86307]=`<b>προσ·περονάω-ῶ</b>, attacher en outre avec une agrafe, <i>avec</i> πρός <i>et le dat</i>. XÉN. <i>An. 7, 2, 21 ; fig. avec</i> πρός <i>et l’acc</i>. PLAT. <i>Phæd. 83d</i>.`

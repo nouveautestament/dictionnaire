@@ -1,0 +1,1 @@
+lar[48227]=`<b>ου (ὁ)</b> Iamboulos, <i>historien grec,</i> LUC. <i>V.H. 1, 3</i>.`

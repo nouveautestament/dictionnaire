@@ -1,0 +1,1 @@
+lar[103951]=`<b>ὑπο·σχίζω</b>, fendre en dessous <i>ou</i> légèrement, EL. <i>N.A. 17, 44, etc</i>.`

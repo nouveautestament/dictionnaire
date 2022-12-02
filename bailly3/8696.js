@@ -1,0 +1,1 @@
+lar[8696]=`<b>ἀν·ηλεής, ής, ές</b>, sans pitié, CALL. <i>Del. 106</i> ; APP. <i>Mithr. 38</i>.<p><b>Étym</b>. ἀν-, ἔλεος.`

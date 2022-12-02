@@ -1,0 +1,1 @@
+lar[3051]=`<b>ἀκαιρο·βόας, ου (ὁ)</b> qui crie à tort et à travers, CLÉM. <i>1, 464 Migne</i>.<p><b>Étym</b>. ἄκ. βοάω.`

@@ -1,0 +1,1 @@
+lar[31620]=`<b>ή, όν</b>, habile à calculer, <i>gén</i>. MUSON. (STOB. <i>Fl. 4, 639).</i><p><b>Étym</b>. ἐκλογίζομαι.`

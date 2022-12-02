@@ -1,0 +1,1 @@
+lar[109221]=`<b>χρυσό·νωτος, ος, ον</b> <font color="purple">[ῡ]</font> au dos d’or, <i>càd</i>. recouvert <i>ou</i> plaqué d’or, SOPH. <i>Aj. 846</i>.<p><b>Étym</b>. χρ. νῶτος.`

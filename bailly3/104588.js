@@ -1,0 +1,1 @@
+lar[104588]=`<b>φαγεδαινόω-ῶ</b> <font color="purple">[ᾰ]</font> dévorer, ronger, AQU. <i>Deut. 7, 23 ; au pass</i>. être rongé par un ulcère, HPC. <i>1125g</i>.<p><b>Étym</b>. φαγέδαινα.`

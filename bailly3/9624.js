@@ -1,0 +1,1 @@
+lar[9624]=`<b>ἀντ·εξηγέομαι-οῦμαι</b>, interpréter en un sens contraire (à la réalité) ORIG. <i>c. Cels. p. 282</i>.`

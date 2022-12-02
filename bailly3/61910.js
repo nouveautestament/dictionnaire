@@ -1,0 +1,1 @@
+lar[61910]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> la Lycurgie, <i>tétralogie d’Eschyle,</i> AR. <i>Th. 135</i>.<p><b>Étym</b>. Λυκοῦργος.`

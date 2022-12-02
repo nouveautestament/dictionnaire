@@ -1,0 +1,1 @@
+lar[107406]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> découverte d’un voleur <i>ou</i> d’un objet volé, PLUT. <i>M. 63</i>.`

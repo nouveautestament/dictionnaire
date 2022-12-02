@@ -1,0 +1,1 @@
+lar[72463]=`<b>ονος (ὁ)</b> = <i>lat</i>. optio, lieutenant, PLUT. <i>Galb. 24</i>.`

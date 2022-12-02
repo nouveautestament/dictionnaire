@@ -1,0 +1,1 @@
+lar[55530]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> cinname <i>ou</i> cannelier, <i>arbre,</i> HDT. <i>3, 111</i>.<br><b>      2</b> <i>c</i>. κινναμολόγος, ARSTT. <i>H.A. 9, 13</i>.<p>➳ κινάμωμον, DP. <i>945, pour la mesure du vers</i>.<p><b>Étym</b>. <i>cf</i>. κίναμον.`

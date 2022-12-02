@@ -1,0 +1,1 @@
+lar[12801]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Apollônia, XÉN. <i>Hell. 5, 2, 13, etc</i>.<p>➳ <i>Ion. gén</i>. -ιήτεω, HDT. <i>9, 92</i>.<p><b>Étym</b>. Ἀπολλωνία.`

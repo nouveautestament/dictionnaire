@@ -1,0 +1,1 @@
+lar[37659]=`<b>ἐπι·δονέω-ῶ</b>, résonner en tous sens, ANTIPH. (ATH. <i>96c</i>).`

@@ -1,0 +1,1 @@
+lar[42543]=`<b>εὐ·κτίμενος</b>, <i>seul. épq</i>. <b>ἐϋ·κτίμενος, η, ον :<br>      1</b> bien bâti, <i>en parl. de villages,</i> IL. <i>2, 501, etc.</i> ; νῆσος ἐϋ, OD. <i>9, 130,</i> île couverte de belles constructions.<br><b>      2</b> <i>p. ext</i>. bien travaillé, bien ordonné (verger) OD. <i>24, 226</i>.<p><b>Étym</b>. εὖ, *κτίω, <i>v</i>. κτίζω.`

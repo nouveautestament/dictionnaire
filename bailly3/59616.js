@@ -1,0 +1,1 @@
+lar[59616]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾰῐ]</font> Lakratidès, <i>h</i>. AR. <i>Ach. 220</i>.<p>➳ <i>Dor</i>. Λακρατίδας, PLUT. <i>Per. 35, Lys. 30</i>.<p><b>Étym</b>. <i>patr. de</i> Λακράτης.`

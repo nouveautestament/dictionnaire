@@ -1,0 +1,1 @@
+lar[69952]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de se gratter, HPC. <i>394, 17</i>.<p><b>Étym</b>. ξύω.`

@@ -1,0 +1,1 @@
+lar[100285]=`<b>τρι·μερής, ής, ές</b> <font color="purple">[ῐ]</font> formé de trois parties, triple, ARSTT. <i>Virt. et vit. 1, 2</i> ; DS. <i>1, 11</i> ; PLUT. <i>M. 874e</i>.<p><b>Étym</b>. τρ. μέρος.`

@@ -1,0 +1,1 @@
+lar[95804]=`<b>συν·ευθυμέομαι-οῦμαι</b> <font color="purple">[θῡ]</font> se réjouir ensemble de, <i>dat</i>. THÉM. <i>102d</i>.`

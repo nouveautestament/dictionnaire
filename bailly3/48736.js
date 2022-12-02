@@ -1,0 +1,1 @@
+lar[48736]=`<b>ἰθυ·δρόμος, ος, ον</b> <font color="purple">[ῑ]</font> qui court en droite ligne, ANTH. <i>6, 103</i>.<p><b>Étym</b>. ἰ. δραμεῖν.`

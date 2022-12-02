@@ -1,0 +1,1 @@
+lar[56737]=`<b>άδος :<br>      1</b> <i>adj. f</i>. qui nage, qui plonge, ATH. <i>395d ;</i> κ. ἐλαία, DIPH. (ATH. <i>56b</i>) olive conservée dans la saumure.<br><b>      2</b> <i>subst</i>. ἡ κ. <i>autre nom de la plante aquatique</i> στοιβή, GAL. <i>13, 870</i>.`

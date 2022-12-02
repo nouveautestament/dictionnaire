@@ -1,0 +1,1 @@
+lar[51810]=`<b>ου (ὁ)</b> <font color="purple">[ᾰρο]</font> lien, DS. <i>Exc. p. 516</i>.`

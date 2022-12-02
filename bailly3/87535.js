@@ -1,0 +1,1 @@
+lar[87535]=`<font color="purple">[ῡᾰ]</font> <i>adv</i>., selon la doctrine de Pythagore, PLUT. <i>Qu. conv. 8, 8, 1</i>.<p>•<i> Cp</i>. -ώτερον, SEXT. <i>M. 4, 11</i>.<p><b>Étym</b>. Πυθαγορικός.`

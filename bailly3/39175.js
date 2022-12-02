@@ -1,0 +1,1 @@
+lar[39175]=`<b>ή, όν</b>, qui fait se convertir, qui amène la conversion de, PROCL. <i>Plat. Parm. 607</i> ; ORIG. <i>1, 1004, 1180, 1436</i>.<p><b>Étym</b>. ἐπιστρέφω.`

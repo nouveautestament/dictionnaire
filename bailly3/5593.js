@@ -1,0 +1,1 @@
+lar[5593]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> qui lutte : μὴ πολλοὺς ἔτι τρόχους ἁμιλλητῆρας ἡλίου τελῶν, SOPH. <i>Ant. 1065</i> (que) tu n’accompliras pas beaucoup de courses émules du soleil, <i>càd</i>. (que) le cours de ta vie n’égalera pas plusieurs révolutions du soleil.<p><b>Étym</b>. ἁμιλλάομαι.`

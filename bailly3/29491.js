@@ -1,0 +1,1 @@
+lar[29491]=`<b>ἐγ·καρδία, ας (ἡ)</b> sorte de pierre précieuse dont les veines figurent une sorte de cœur, PLIN. <i>H.N. 37, 58</i>.<p><b>Étym</b>. ἐν, καρδία.`

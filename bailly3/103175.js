@@ -1,0 +1,1 @@
+lar[103175]=`<b>ὑπο·δίδωμι</b> <font color="purple">[δῐ]</font><br><b>      1</b> céder, se laisser aller, ARSTT. <i>Inc. an. 2, 2</i> ; ARSTD. <i>t. 1, 78</i> ; PHILSTR. <i>111, etc.</i><br><b>      2</b> s’affaisser, s’écrouler, tomber en ruine, ARSTD. <i>t. 2, 187</i> ; PHILSTR. <i>517</i> ; DC. <i>Exc. p. 30, 32</i>.`

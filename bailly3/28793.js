@@ -1,0 +1,1 @@
+lar[28793]=`<b>δυσ·πενθής, ής, ές :<br>      1</b> <i>act</i>. qui cause une grande douleur, pénible, PD. <i>P. 11, 28 ; 12, 18</i>.<br><b>      2</b> <i>pass</i>. vivement regretté, OPP. <i>H. 4, 261</i> ; ANTH. <i>App. 260</i>.<p><b>Étym</b>. δ. πένθος.`

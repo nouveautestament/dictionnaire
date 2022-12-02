@@ -1,0 +1,1 @@
+lar[72984]=`<b>ὁρο·γενής, ής, ές</b>, né <i>ou</i> situé sur la limite, JAMBL. <i>Nicom. ar. p. 81</i>.<p><b>Étym</b>. ὅρος, γίγνομαι.`

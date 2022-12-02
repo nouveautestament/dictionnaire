@@ -1,0 +1,1 @@
+lar[26052]=`<b>διδυμό·θροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐῠ]</font> qui redouble le son (l’écho) NONN. <i>Jo. 9, 83</i>.<p><b>Étym</b>. δίδυμος, θρέω.`

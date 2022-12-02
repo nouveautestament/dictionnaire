@@ -1,0 +1,1 @@
+lar[99286]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> action de secouer, d’ébranler, NAZ.`

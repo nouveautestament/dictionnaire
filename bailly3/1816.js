@@ -1,0 +1,1 @@
+lar[1816]=`<b>ἀερόω-ῶ</b> <font color="purple">[ᾱ]</font> changer en air, <i>d’où au pass</i>. se changer en air, HÉRACLITE GRAMM. <i>All. Hom. p. 439</i>.<p><b>Étym</b>. ἀήρ.`

@@ -1,0 +1,1 @@
+lar[98536]=`<b>τετρα·γράμματος, ος, ον</b> <font color="purple">[μᾰ]</font> formé de quatre lettres, <i>en parl. du n. de Jehovah en caractères hébraïques,</i> PHIL. <i>2, 152</i> ; SIB. <i>2, 24</i>.<p><b>Étym</b>. τ. γράμμα.`

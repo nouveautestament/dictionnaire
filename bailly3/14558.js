@@ -1,0 +1,1 @@
+lar[14558]=`<b>(ὁ)</b> Ariabignès, <i>frère de Xerxès,</i> HDT. <i>7, 97 ; 8, 89</i>.`

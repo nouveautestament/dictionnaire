@@ -1,0 +1,1 @@
+lar[71548]=`<b>ὁμοιο·σκελής, ής, ές</b>, dont les jambes sont semblables à celles d’un autre, GAL. <i>De usu part. 3 comment</i>.<p><b>Étym</b>. ὅμοιος, σκέλος.`

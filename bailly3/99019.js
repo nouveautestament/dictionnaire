@@ -1,0 +1,1 @@
+lar[99019]=`<b>α, ον</b>, de Tèrée, ESCHL. <i>Suppl. 60</i>.<p><b>Étym</b>. Τηρεύς.`

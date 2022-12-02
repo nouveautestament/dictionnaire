@@ -1,0 +1,1 @@
+lar[83306]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> propre à adoucir, à apaiser, ARSTT. <i>Rhet. 2, 3, 10</i>.<p><b>Étym</b>. πραΰνω.`

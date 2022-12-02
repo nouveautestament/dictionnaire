@@ -1,0 +1,1 @@
+lar[74035]=`<b>ὀψο·λόγος, ος, ον</b>, qui traite de la cuisine, ATH. <i>337b</i>.<p><b>Étym</b>. ὄψον, λέγω.`

@@ -1,0 +1,1 @@
+lar[10679]=`<b>ου (ὁ)</b> Antyllios, <i>h</i>. PLUT. <i>C. Gracch. 13</i>.`

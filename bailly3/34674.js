@@ -1,0 +1,1 @@
+lar[34674]=`<i>forme com. par transpos. pour</i> ἐντεῦθεν μέν, <i>avec</i> ι <i>final att</i>. MÉTAG. (ATH. <i>269f</i>).`

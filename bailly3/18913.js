@@ -1,0 +1,1 @@
+lar[18913]=`<b>βακχιόω-ῶ</b> (<i>part. pf. pass. acc. fém</i>. βεβακχιωμένην, <i>var</i>. βεβακχευμένην) animer d’un transport de fureur bachique, SOPH. <i>fr. 782</i>.<p><b>Étym</b>. βάκχιος.`

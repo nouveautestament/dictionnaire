@@ -1,0 +1,1 @@
+lar[9783]=`<b>ἀντι·βομβέω-ῶ</b>, répondre par un bourdonnement <i>ou</i> faire un bruit sourd de son côté, A. TAT. <i>3, 2</i>.`

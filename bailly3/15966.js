@@ -1,0 +1,1 @@
+lar[15966]=`<b>ἀ·σκύλευτος, ος, ον</b> <font color="purple">[ῡ]</font> non dépouillé, DH. <i>11, 27</i> ; HLD. <i>1, 1</i>.<p><b>Étym</b>. ἀ, σκυλεύω.`

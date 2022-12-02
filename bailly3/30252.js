@@ -1,0 +1,1 @@
+lar[30252]=`<b>ῶν (αἱ)</b> les ides, <i>dans le calendrier romain,</i> DH. <i>6, 89</i> ; PLUT. <i>Rom. 23, Cæs. 63, etc</i>.<p><b>Étym</b>. <i>cf. lat</i>. idus.`

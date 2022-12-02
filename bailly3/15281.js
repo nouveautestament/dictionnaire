@@ -1,0 +1,1 @@
+lar[15281]=`<b>ου (ὁ)</b> Artembarès, <i>Perse,</i> HDT. <i>9, 122</i> ; ESCHL. <i>Pers. 29, etc</i>.<p>➳ <font color="purple">[βᾱ]</font> ESCHL. <i>Pers. 29, 971</i> ; <font color="purple">[βᾰ]</font> <i>Pers. 302. Acc</i>. -εα, HDT. <i>1, 116</i>.`

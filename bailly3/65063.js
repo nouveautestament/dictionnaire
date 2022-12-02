@@ -1,0 +1,1 @@
+lar[65063]=`<b>μετα·ψαίρω</b>, repousser doucement, <i>acc</i>. EUR. <i>Ph. 1390</i>.`

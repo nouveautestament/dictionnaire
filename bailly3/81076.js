@@ -1,0 +1,1 @@
+lar[81076]=`<b>πλινθόω-ῶ, <i>seul. moy</i>. πλινθόομαι-οῦμαι</b>, construire en briques, ANTH. <i>9, 423</i>.<p><b>Étym</b>. πλίνθος.`

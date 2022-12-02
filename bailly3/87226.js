@@ -1,0 +1,1 @@
+lar[87226]=`<b>Πρωτό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Prôtomakhos, <i>h</i>. XÉN. <i>Hell. 1, 5, 16, etc.</i> ; DÉM. <i>57, 40 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. πρωτόμαχος.`

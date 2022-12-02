@@ -1,0 +1,1 @@
+lar[36262]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> qui a la propriété d’amollir, SOR. <i>Obst. p. 153 Erm</i>.<p><b>Étym</b>. ἐξυδατόω.`

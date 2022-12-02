@@ -1,0 +1,1 @@
+lar[11745]=`<b>ἀπ·ερεύγομαι</b> <font color="darkgreen">(<i>seul. prés. et ao.2</i> ἀπήρυγον <font color="purple">[ῠ]</font>)</font> vomir, HPC. <i>482, 48</i> ; NIC. <i>Al. 380, Th. 435, etc. ; en parl. d’un fleuve,</i> DP. <i>693, 981</i>.`

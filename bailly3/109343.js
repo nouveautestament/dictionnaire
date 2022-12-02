@@ -1,0 +1,1 @@
+lar[109343]=`colorer, teindre, PLUT. <i>M. 693c.</i><br><b><i>Moy.</i></b> colorer pour soi : τὴν φύσιν αὑτοῦ τινι, AR. <i>Nub. 516,</i> se teindre l’esprit <i>ou</i> le caractère de qqe ch., <i>càd</i>. se donner une teinture de qqe ch., se mettre à étudier qqe ch.<p><b>Étym</b>. χρώς.`

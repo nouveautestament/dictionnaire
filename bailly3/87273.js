@@ -1,0 +1,1 @@
+lar[87273]=`<b>ατος (τὸ)</b> premiers fruits de la saison, LGS <i>3, 12</i>.<p><b>Étym</b>. πρωτοφορέω.`

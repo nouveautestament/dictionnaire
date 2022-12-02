@@ -1,0 +1,1 @@
+lar[30618]=`<b>οῦ (ὁ)</b> enchaînement, <i>d’où</i> suite, série (d’événements, de causes, <i>etc</i>.) ARSTT. <i>Probl. 17, 3</i> ; PLUT. <i>M. 885b</i>.<p><b>Étym</b>. εἴρω¹.`

@@ -1,0 +1,1 @@
+lar[70879]=`<b>ὀκτωκαιδεκά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> de 18 temps <i>ou</i> mesures, <i>t. de mus</i>. A. QUINT. <i>1, 14, p. 35</i>.<p><b>Étym</b>. ὀκτωκαίδ. σῆμα.`

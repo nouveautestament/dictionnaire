@@ -1,0 +1,1 @@
+lar[49303]=`<b>ἱππο·βουκόλος, ου (ὁ)</b> qui mène paître les chevaux, SOPH. <i>fr. 891</i> ; EUR. <i>Ph. 28</i>.<p><b>Étym</b>. ἵ. βουκόλος.`

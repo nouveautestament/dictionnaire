@@ -1,0 +1,1 @@
+lar[17531]=`<b>αὐτό·κομος, ος, ον :<br>      1</b> naturellement velu, AR. <i>Ran. 822</i>.<br><b>      2</b> avec le feuillage même, LUC. <i>V.H. 1, 40</i>.<p><b>Étym</b>. αὐ. κόμη.`

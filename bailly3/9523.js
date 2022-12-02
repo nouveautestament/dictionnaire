@@ -1,0 +1,1 @@
+lar[9523]=`<b>ἀντ·αρκτικός, ή, όν</b>, antarctique <i>ou</i> austral, <i>litt</i>. opposé à la région de la Grande-Ourse, <i>càd</i>. au Nord, ARSTT. <i>Mund. 2, 5</i> ; PLUT. <i>M. 888c</i>.`

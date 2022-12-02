@@ -1,0 +1,1 @@
+lar[77926]=`<b>πενθ·ημι·ταλαντιαῖος, α, ον</b> <font color="purple">[ῐτᾰ]</font> qui pèse <i>ou</i> vaut deux talents et demi, PHIL. BYZ. <i>Bel. p. 51</i>.<p><b>Étym</b>. π. ἥμ. τάλαντον.`

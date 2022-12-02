@@ -1,0 +1,1 @@
+lar[54861]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> cornu, <i>ép. de Dionysos,</i> DS. <i>4, 4</i>.<br><b>      2</b> sorte de comète, PLIN. <i>H.N. 2, 22</i>.<p><b>Étym</b>. κέρας.`

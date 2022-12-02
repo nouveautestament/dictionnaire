@@ -1,0 +1,1 @@
+lar[20910]=`(<i>seul. prés</i>.) crier comme les petits enfants qui demandent à boire, AR. <i>Eq. 1126</i>.<p><b>Étym</b>. <i>Cf</i>. βρῦν.`

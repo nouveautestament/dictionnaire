@@ -1,0 +1,1 @@
+lar[2207]=`<b>ου (ὁ)</b> Ægesthios, <i>fils de Zeus,</i> Ps.-PLUT. <i>Fluv. 13, 3</i>.`

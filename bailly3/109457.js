@@ -1,0 +1,1 @@
+lar[109457]=`<b>α, ον</b>, qui peut être séparé <i>ou</i> qu’il faut séparer, DYSC. <i>Pron. 326c ; au neutre</i> χωριστέον, PLAT. <i>Pol. 303d</i>.<p><b>Étym</b>. <i>vb. de</i> χωρίζω.`

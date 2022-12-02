@@ -1,0 +1,1 @@
+lar[55821]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Kléidèmidès, AR. <i>Ran. 791</i>.<p><b>Étym</b>. <i>patr. de</i> Κλείδημος.`

@@ -1,0 +1,1 @@
+lar[3818]=`<b>ἀκρό·πλοος-ους, οος-ους, οον-ουν :<br>      1</b> qui flotte à la surface, HPC. <i>451, 37</i> ; PLUT. <i>M. 591e.</i><br><b>      2</b> <i>p. suite,</i> superficiel, HPC. <i>Ep. 1286</i>.<p><b>Étym</b>. ἄ. πλέω.`

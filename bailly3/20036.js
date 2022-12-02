@@ -1,0 +1,1 @@
+lar[20036]=`<b>βοήθ·αρχος, ου (ὁ)</b> chef de troupes auxiliaires, POL. <i>1, 79, 2 ; à Carthage,</i> boétharque, <i>magistrat de haut rang,</i> APP. <i>Lib. 70</i>.<p><b>Étym</b>. βοηθός, ἄρχω.`

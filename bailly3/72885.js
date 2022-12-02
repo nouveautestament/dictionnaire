@@ -1,0 +1,1 @@
+lar[72885]=`<i>adv</i>., avec élan : ἔχειν πρός τι, ARSTT. <i>H.A. 6, 18</i> ; ATH. <i>401c</i>, être porté vers, enclin à.<p>•<i> Cp</i>. ὁρμητικώτερον, ARSTT. <i>H.A. 8, 12, 7</i>.`

@@ -1,0 +1,1 @@
+lar[90121]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σιγύνης LYC. <i>556</i>.`

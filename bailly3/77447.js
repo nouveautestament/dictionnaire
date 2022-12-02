@@ -1,0 +1,1 @@
+lar[77447]=`<b>ῆρος</b>, <i>adj. m</i>. qui fait cesser, qui met fin à, <i>gén</i>. SOPH. <i>Ph. 1438</i> ; ALEX. (<i>Com. fr. 3, 493).</i><p><b>Étym</b>. παύω.`

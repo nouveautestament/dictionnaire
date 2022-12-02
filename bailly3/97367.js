@@ -1,0 +1,1 @@
+lar[97367]=`<i>épq. et ion. c</i>. αἱ, <i>fém. pl. de</i> ὁ, ἡ, τό, <i>ou c</i>. αἵ, <i>pl. fém. de</i> ὅς, ἥ, ὅ.`

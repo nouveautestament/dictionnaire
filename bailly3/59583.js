@@ -1,0 +1,1 @@
+lar[59583]=`<font color="purple">[λᾰ]</font> être du parti des Lacédémoniens, AR. <i>fr. 68</i>.<p><b>Étym</b>. Λακεδαιμόνιος.`

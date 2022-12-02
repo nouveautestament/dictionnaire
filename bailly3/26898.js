@@ -1,0 +1,1 @@
+lar[26898]=`<b>Διοσ·φόρος, ου (ὁ)</b> Diosphoros, <i>h</i>. Ps.-PLUT. <i>Fluv. p. 1022 Wyttenbach</i>.<p><b>Étym</b>. Διός, φέρω.`

@@ -1,0 +1,1 @@
+lar[68932]=`<b>νομο·διδάκτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui enseigne le droit, PLUT. <i>Cato ma. 20</i>.<p><b>Étym</b>. ν. διδάσκω.`

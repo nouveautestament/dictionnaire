@@ -1,0 +1,1 @@
+lar[55127]=`<b>ου (ὁ)</b> singe à longue queue, ARSTT. <i>H.A. 2, 28</i> ; GAL. <i>4, 557, 558 ; cf</i>. κῆπος.`

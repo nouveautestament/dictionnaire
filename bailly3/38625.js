@@ -1,0 +1,1 @@
+lar[38625]=`<b>ἐπι·πάρειμι</b> (<i>inf. prés</i>. -εῖναι) :<br><b>      1</b> survenir, LUC. <i>M. cond. 26</i>.<br><b>      2</b> être présent en outre, venir en outre, THC. <i>1, 61</i> ; XÉN. <i>An. 3, 4, 23</i>.`

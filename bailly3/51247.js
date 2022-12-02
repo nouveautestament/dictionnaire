@@ -1,0 +1,1 @@
+lar[51247]=`<b>καλλι·φεγγής, ής, ές</b> <font color="purple">[ῐ]</font> brillant de beauté, éclatant, EUR. <i>Hipp. 455, Tr. 860, etc</i>.<p><b>Étym</b>. κ. φέγγος.`

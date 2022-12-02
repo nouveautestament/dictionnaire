@@ -1,0 +1,1 @@
+lar[21476]=`<b>γαυσόω-ῶ</b>, rendre tortu, <i>d’où au pass</i>. <b>γαυσόομαι-οῦμαι</b>, être courbe, tortu, tors, SOR. <i>Fract. (251, 1 Id.)</i>.<p><b>Étym</b>. γαυσός.`

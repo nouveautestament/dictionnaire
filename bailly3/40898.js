@@ -1,0 +1,1 @@
+lar[40898]=`<b>ίδος (ἡ) :<br>      1</b> amante, maîtresse (<i>p.-ê</i>. Ἐρωτίς, déesse de l’amour) THCR. <i>Idyl. 4, 59</i>.<br><b>      2</b> Ἐρωτίδες νῆσοι, ANTH. <i>7, 628,</i> les îles d’Amour.<p><b>Étym</b>. ἔρως.`

@@ -1,0 +1,1 @@
+lar[3859]=`<b>ἄκρ·ουλος, ος, ον</b>, dont l’extrémité est frisée, ARSTT. <i>Physiogn. 6, 42</i>.<p><b>Étym</b>. ἄ. οὖλος.`

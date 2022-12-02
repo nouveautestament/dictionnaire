@@ -1,0 +1,1 @@
+lar[70321]=`<b>ας (ἡ)</b> <font color="purple">[ᾱγ]</font> vie d’un homme qui ne s’occupe que de ses propres affaires, PLAT. <i>Rsp. 434c</i>.<p><b>Étym</b>. <i>cf</i>. οἰκειοπραγέω.`

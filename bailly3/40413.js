@@ -1,0 +1,1 @@
+lar[40413]=`<b>ου (ὁ)</b> Érigyios, <i>général d’Alexandre le Grand,</i> PLUT. <i>Alex. 10</i>.<p><b>Étym</b>. ἐρι-, γυῖον.`

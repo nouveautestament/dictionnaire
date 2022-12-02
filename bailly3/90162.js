@@ -1,0 +1,1 @@
+lar[90162]=`<b>σιδηρό·νωτος, ος, ον</b> <font color="purple">[ῐ]</font> au dos de fer, EUR. <i>Ph. 1130</i>.<p><b>Étym</b>. σίδηρος, νῶτος.`

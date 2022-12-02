@@ -1,0 +1,1 @@
+lar[22963]=`<b>Δαΐ·λοχος, ου (ὁ)</b> <font color="purple">[ᾱῐ]</font> Daïlokhos, <i>h</i>. XÉN. <i>Hier. 1, 31</i> ; ANTH. <i>6, 112</i>.<p><b>Étym</b>. δαΐς, λόχος.`

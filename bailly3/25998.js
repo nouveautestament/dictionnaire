@@ -1,0 +1,1 @@
+lar[25998]=`<b>ή, όν</b> <font color="purple">[δῐ]</font> propre à instruire, didactique, PHIL. <i>2, 412</i> ; NT. <i>1Tim. 3, 2 ; 2, 2, 24</i>.<p><b>Étym</b>. διδάσκω.`

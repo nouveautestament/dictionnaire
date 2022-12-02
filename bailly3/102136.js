@@ -1,0 +1,1 @@
+lar[102136]=`<b>ὑπ·εκ·προ·τάμνω</b> (<i>à l’impf. avec tmèse</i> ὑπεκπρὸ… ἔταμνε) s’avancer en fendant (les flots) A.RH. <i>4, 225</i>.<p><b>Étym</b>. ὑπό, ἐκ, πρό, τάμνω.`

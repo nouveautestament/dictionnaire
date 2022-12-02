@@ -1,0 +1,1 @@
+lar[81314]=`<b>ποη·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange de l’herbe, <i>en parl. d’animaux, p. opp. à</i> καρποφάγος, ῥιζοφάγος, HPC. <i>358, 20</i> ; ARSTT. <i>H.A. 8, 6, 3, etc</i>.<p><b>Étym</b>. πόα, φαγεῖν.`

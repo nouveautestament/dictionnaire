@@ -1,0 +1,1 @@
+lar[88471]=`<b>ῥηξί·φλοιος, ος, ον</b>, dont l’écorce se brise <i>ou</i> se fend, TH. <i>H.P. 1, 5, 2</i>.<p><b>Étym</b>. ῥήγνυμι, φλοιός.`

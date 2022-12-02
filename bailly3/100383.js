@@ -1,0 +1,1 @@
+lar[100383]=`<b>ή, όν</b> <font color="purple">[ῐπ]</font> qui concerne l’offrande d’un trépied, PROCL. (PHOT. <i>Bibl. 239).</i><p><b>Étym</b>. <i>v</i>. τριποδηφορέω.`

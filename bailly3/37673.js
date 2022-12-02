@@ -1,0 +1,1 @@
+lar[37673]=`<b>ή, όν :<br>      1</b> qui contribue, AMM. <i>p. 57</i>.<br><b>      2</b> prêt à donner passage, HPC. <i>Mochl. 866</i>.<p><b>Étym</b>. ἐπιδίδωμι.`

@@ -1,0 +1,1 @@
+lar[92794]=`faire des détours de côté et d’autre, traîner en longueur, AR. <i>Ach. 126, Nub. 131</i> ; PLAT. <i>Rsp. 472a ;</i> περί τι, MACH. (ATH. <i>580e</i>) s’attarder à qqe ch.<p><b>Étym</b>. στράγξ.`

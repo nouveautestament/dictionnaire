@@ -1,0 +1,1 @@
+lar[63812]=`<b>μελάμ·πετρος, ος, ον</b>, aux roches noires, PHILÉT. (SCH.-THCR. <i>2, 6).</i><p><b>Étym</b>. μ. πέτρα.`

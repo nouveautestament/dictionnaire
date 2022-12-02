@@ -1,0 +1,1 @@
+lar[68992]=`<font color="purple">[ᾰ]</font> <i>adv</i>., dans un état maladif, ARSTT. <i>Nic. 7, 5, 4</i>.`

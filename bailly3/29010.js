@@ -1,0 +1,1 @@
+lar[29010]=`<i>vb. de</i> δυσχεραίνω, PLAT. <i>Leg. 828d ; Soph. 256a, 257a ; suivi de</i> εἰ, PLAT. <i>Leg. 859b</i>.`

@@ -1,0 +1,1 @@
+lar[31565]=`<b>οῦ (τὸ)</b> électuaire, <i>t. de méd</i>. HPC. <i>401, 45</i> ; DIOSC. <i>2, 125</i>.<p><b>Étym</b>. ἐκλείχω.`

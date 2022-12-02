@@ -1,0 +1,1 @@
+lar[61878]=`<b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> de Lycie, HDT. <i>1, 173, etc.</i> ; PD. <i>P. 3, 112</i> ; SOPH. <i>O.R. 208</i> ; οἱ Λύκιοι IL. <i>2, 876</i> ; PD. <i>N. 3, 57, etc</i>. les Lyciens.<br><b>      2</b> de Lykios, <i>propr. le lumineux (cf</i>. Λύκειος) <i>càd</i>. Apollon, PD. <i>P. 1, 74</i>.`

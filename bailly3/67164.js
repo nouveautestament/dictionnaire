@@ -1,0 +1,1 @@
+lar[67164]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> un peu de morve, M. ANT. <i>4, 48 ; 6, 13</i>.<p><b>Étym</b>. <i>dim. de</i> μύξα.`

@@ -1,0 +1,1 @@
+lar[106362]=`<b>ου (ὁ)</b> Phlégyas, <i>père de Korônis,</i> HH. <i>16, 3</i> ; HÉS. <i>fr. 29, 3 Gaisford</i> PD. <i>P. 3, 8, etc</i>.<p>➳ <i>Gén. épq</i>. -αο <font color="purple">[ᾱ]</font> HÉS. <i>l.c.</i> ; NONN. <i>D. 29, 83 ; dor</i>. -α <font color="purple">[ᾱ]</font> PD. <i>l.c</i>.<p><b>Étym</b>. φλέγω, <i>cf</i>. φλεγύας.`

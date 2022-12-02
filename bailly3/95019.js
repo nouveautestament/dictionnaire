@@ -1,0 +1,1 @@
+lar[95019]=`<b>σύν·αυλος, ος, ον</b> : accompagné de la flûte, EUR. <i>El. 879 ; d’où</i> qui résonne avec, d’accord avec, <i>dat</i>. AR. <i>Ran. 212</i> ; pareil à : ἀνέμῳ σύναυλος ἤχθη, ANACR. <i>60, 10,</i> il s’élança aussi rapide que le vent.<p><b>Étym</b>. σ. αὐλός.`

@@ -1,0 +1,1 @@
+lar[28105]=`<b>οῦ (τὸ)</b> <i>mot créé par</i> PLAT. <i>Crat. 418, pour expliquer</i> ζυγόν.`

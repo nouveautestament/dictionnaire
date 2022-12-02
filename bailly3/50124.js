@@ -1,0 +1,1 @@
+lar[50124]=`(<i>seul. prés. ind. 3 sg</i>. ἵει, A.RH. <i>4, 634, et impér. 2 sg</i>. ἵε, TIMOTH. <i>13, 4 Bgk) c</i>. εἶμι.`

@@ -1,0 +1,1 @@
+lar[22539]=`<b>οῦ (ὁ)</b> hauteur arrondie, terrain en mamelon, <i>en parl. de champs, de vignobles,</i> IL. <i>18, 57</i> ; OD. <i>1, 193 ; des collines d’Athènes,</i> OD. <i>11, 323</i> ; PD. <i>I. 3, 43 ; du promont. de Sunium,</i> HDT. <i>4, 99 ; d’Éleuthère,</i> HÉS. <i>Th. 54 ; de Némée, ibid. 329</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[13859]=`<b>Ἀππία ὁδός (ἡ)</b> la voie Appienne (<i>lat</i>. Appia via) DS. <i>20, 36</i> ; DC. <i>40, 48 ; de même</i> ὁδὸς ἡ Ἀ. PLUT. <i>Cæs. 5</i> ; ἡ ὁδὸς ἡ Ἀ. STR. <i>233, etc. ; ou abs</i>. ἡ Ἀππία, STR. <i>237, 283</i>.`

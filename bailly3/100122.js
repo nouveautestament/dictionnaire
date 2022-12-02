@@ -1,0 +1,1 @@
+lar[100122]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> frotteur, STR. <i>700</i>.<br><b>      2</b> <i>t. de méc</i>. enveloppe pour amortir le frottement d’une roue, PHIL. BYZ. <i>Bel</i>. (MATH. <i>p. 53).</i><p><b>Étym</b>. τρίβω.`

@@ -1,0 +1,1 @@
+lar[88476]=`<b>Ῥήσειος τόπος (ὁ)</b> le lieu de Rhèsos, <i>près de Byzance,</i> ANTH. <i>9, 691</i>.<p><b>Étym</b>. Ῥῆσος.`

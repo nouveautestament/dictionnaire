@@ -1,0 +1,1 @@
+lar[6197]=`<b>ἀμφί·κομος, ος, ον :<br>      1</b> couvert de cheveux, ARCHESTR. (ATH. <i>285c</i>) ; ANTH. <i>9, 516</i>.<br><b>      2</b> couvert de feuilles, IL. <i>17, 677</i>.<p><b>Étym</b>. ἀ. κόμη.`

@@ -1,0 +1,1 @@
+lar[22646]=`<b>ας (ἡ)</b> la Grèstônie, <i>contrée de Macédoine,</i> THC. <i>2, 99 et 100</i>.`

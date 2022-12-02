@@ -1,0 +1,1 @@
+lar[5914]=`<b>(ἡ)</b> Amykla, <i>f</i>. PLUT. <i>Them. 1, Lyc. 16</i>.`

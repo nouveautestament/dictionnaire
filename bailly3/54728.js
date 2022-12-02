@@ -1,0 +1,1 @@
+lar[54728]=`<b>ης (ἡ)</b> <i>ion</i>. centaurée, <i>plante,</i> HPC. <i>482, 35</i>.`

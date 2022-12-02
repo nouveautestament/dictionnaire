@@ -1,0 +1,1 @@
+lar[55196]=`<b>ωνος (ὁ) :<br>   I</b> machine pour tirer de l’eau d’un puits, HSCH.<br><b>   II</b> animal entier, étalon, HIPPIATR. <i>p. 56, 28 ; en parl. de l’âne,</i> ARCHIL. <i>96</i> ; PHIL. <i>2, 307 ; fig</i>. débauché, lascif, <i>ép. de Pan,</i> CRAT. <i>fr. 22</i>.`

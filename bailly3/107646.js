@@ -1,0 +1,1 @@
+lar[107646]=`<b>χαλκο·άρας, α</b> <font color="purple">[ᾰρᾱ]</font> <i>adj. m</i>. à l’armure d’airain, PD. <i>I. 4, 107, etc</i>.<p><b>Étym</b>. <i>dor. c</i>. *χαλκοάρης, <i>de</i> χ. *ἄρω ; <i>cf</i>. χαλκήρης.`

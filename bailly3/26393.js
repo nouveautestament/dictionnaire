@@ -1,0 +1,1 @@
+lar[26393]=`<b>δι·ηχής, ής, ές</b>, qui retentit, qui résonne, PLUT. <i>M. 721e</i>.<p><b>Étym</b>. διά, ἦχος.`

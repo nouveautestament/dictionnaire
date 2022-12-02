@@ -1,0 +1,1 @@
+lar[62215]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> pratique de sorcellerie, PLAT. <i>Leg. 908d, 933a ; fig</i>. ATH. <i>9c</i>.<p><b>Étym</b>. μαγγανεύω.`

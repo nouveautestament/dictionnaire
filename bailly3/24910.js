@@ -1,0 +1,1 @@
+lar[24910]=`<b>δια·λαμπρύνω</b>, rendre brillant, illustrer, PLUT. <i>M. 735a ;</i> DIOSC. <i>Iob. p. 50</i>.`

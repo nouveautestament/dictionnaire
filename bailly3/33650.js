@@ -1,0 +1,1 @@
+lar[33650]=`<i>ou</i> <b>ἑμύς, ύδος (ἡ)</b> tortue d’eau douce (<i>Emys lutaria</i> L.) ARSTT. <i>H.A. 5, 33, 3</i>.<p>➳ ὁ ἐμ. ARSTT. <i>H.A. 8, 17, 6</i>.`

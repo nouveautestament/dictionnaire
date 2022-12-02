@@ -1,0 +1,1 @@
+lar[65703]=`<b>μικρό·καρπος, ος, ον</b> <font color="purple">[ῑ]</font> dont les fruits sont petits, TH. <i>C.P. 2, 10, 2</i>.<p><b>Étym</b>. μικρός, καρπός.`

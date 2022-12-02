@@ -1,0 +1,1 @@
+lar[63617]=`<i>pour</i> <b>μεθ' ὅ</b>, après quoi.<p><b>Étym</b>. μετά, <i>neutre de</i> ὅς.`

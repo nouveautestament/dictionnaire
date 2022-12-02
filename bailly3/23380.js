@@ -1,0 +1,1 @@
+lar[23380]=`<b>δαφνο·γηθής, ής, ές</b>, qui aime le laurier (Apollon), ANTH. <i>9, 525</i>.<p><b>Étym</b>. δάφνη, γηθέω.`

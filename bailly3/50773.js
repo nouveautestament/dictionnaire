@@ -1,0 +1,1 @@
+lar[50773]=`<b>κακομετρέω-ῶ</b> <font color="purple">[ᾰ]</font> mesurer mal, frauduleusement, LUC. <i>Herm. 59</i>.<p><b>Étym</b>. κακόμετρος.`

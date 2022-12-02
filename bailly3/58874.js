@@ -1,0 +1,1 @@
+lar[58874]=`<b>κυο·φορία, ας (ἡ)</b> temps de la grossesse, ARTÉM. <i>1, 14, etc. ; au plur</i>. couches, HIÉROCL. (STOB. <i>Fl. 3, 192).</i><p><b>Étym</b>. κύος, -φορος <i>de</i> φέρω.`

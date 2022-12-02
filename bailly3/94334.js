@@ -1,0 +1,1 @@
+lar[94334]=`<b>ή, όν :<br>      1</b> qui concerne un festin <i>ou</i> des convives, AR. <i>Ach. 1142</i> ; PLAT. <i>Leg. 671c, Rsp. 398e, etc.</i><br><b>      2</b> convive agréable, bon convive, AR. <i>Vesp. 1209</i> ; POL. <i>31, 21, 8</i>.<p>•<i> Cp</i>. -ώτερος, LUC. <i>Ep. sat. 32 ; • Sup</i>. -ώτατος, PLUT. <i>M. 620c ;</i> LUC. <i>Tim. 46</i>.<p><b>Étym</b>. συμπότης.`

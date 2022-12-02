@@ -1,0 +1,1 @@
+lar[61132]=`<b>ή, όν</b> <font color="purple">[λῑ]</font> qui fait souffrir de la faim, HPC. <i>1006c</i>.<p><b>Étym</b>. λιμαγχία.`

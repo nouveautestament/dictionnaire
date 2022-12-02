@@ -1,0 +1,1 @@
+lar[85656]=`<b>προσ·επιβάλλω</b>, jeter en outre sur, <i>càd</i>. ajouter à, <i>dat</i>. ISOCR. <i>123d ; avec le gén. partit.</i> : τινός, POL. <i>9, 38, 2,</i> un peu <i>ou</i> une partie de qqe ch. ; <i>au pass</i>. HPC. <i>779e</i>.`

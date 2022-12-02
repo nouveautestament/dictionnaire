@@ -1,0 +1,1 @@
+lar[99743]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Tuditanus, <i>n. d’h. rom</i>. PLUT. <i>Flam. 14</i>.`

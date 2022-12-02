@@ -1,0 +1,1 @@
+lar[87863]=`<b>πυρί·δαπτος, ος, ον</b> <font color="purple">[ῠῐ]</font> consumé <i>ou</i> détruit par le feu, ESCHL. <i>Eum. 1041</i>.<p><b>Étym</b>. π. δάπτω.`

@@ -1,0 +1,1 @@
+lar[28729]=`<b>δυσ·όργητος, ος, ον</b> <font color="purple">[ῠ]</font> irascible, BABR. <i>11, 12</i> ; MAX. <i>π. κατ. 104</i>.<p><b>Étym</b>. δ. ὀργάω.`

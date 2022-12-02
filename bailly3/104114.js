@@ -1,0 +1,1 @@
+lar[104114]=`<b>ὑπο·φλεγματώδης, ης, ες</b> <font color="purple">[ᾰ]</font> qui a un peu d’humeur <i>ou</i> de pituite, HPC. <i>Coac. 217</i>.`

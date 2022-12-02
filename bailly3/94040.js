@@ -1,0 +1,1 @@
+lar[94040]=`<b>συμ·παιδαγωνέω-ῶ</b> <font color="purple">[ᾰ]</font> élever un enfant ensemble, THÉM. <i>124a, 225a</i>.`

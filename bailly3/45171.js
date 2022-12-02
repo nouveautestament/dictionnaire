@@ -1,0 +1,1 @@
+lar[45171]=`<b>Ἠλεκτρὶς νῆσος (ἡ)</b> A.RH. <i>4, 580 ; ou au pl</i>. <b>-ίδες νῆσοι (αἱ)</b> l’île <i>ou</i> les îles de l’ambre, <i>à l’embouchure du Pô,</i> ARSTT. <i>Mir. c. 50</i> ; STR. <i>215</i>.<p><b>Étym</b>. ἤλεκτρον.`

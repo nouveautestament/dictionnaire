@@ -1,0 +1,1 @@
+lar[68456]=`<b>νε·ώρης, ης, ες</b>, qui vient de se produire, récent, nouveau, SOPH. <i>O.C. 730</i> ; PHILÉT. (STOB. <i>Fl. 104, 11</i>) ; νεώρης βόστρυχος τετμημένος, SOPH. <i>El. 901,</i> boucle de cheveux fraîchement coupée.<p><b>Étym</b>. νέος, ὄρνυμι.`

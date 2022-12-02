@@ -1,0 +1,1 @@
+lar[105296]=`<b>φθερσι·γενής, ής, ές</b> <font color="purple">[ῐ]</font> destructeur des races <i>ou</i> des familles, ESCHL. <i>Sept. 1054</i>.<p><b>Étym</b>. φθείρω, γένος.`

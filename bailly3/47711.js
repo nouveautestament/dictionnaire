@@ -1,0 +1,1 @@
+lar[47711]=`<b>η, ον</b> <font color="purple">[ῐᾰ]</font> semblable à de la laitue, de laitue, LUC. <i>V.H. 1, 13</i>.<p><b>Étym</b>. θρίδαξ.`

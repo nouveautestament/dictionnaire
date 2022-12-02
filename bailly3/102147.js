@@ -1,0 +1,1 @@
+lar[102147]=`<b>ὑπ·εκτήκω</b>, faire fondre doucement, consumer peu à peu, HPC. <i>299, 33</i> ; GAL. <i>14, 517</i>.`

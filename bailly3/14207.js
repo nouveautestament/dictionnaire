@@ -1,0 +1,1 @@
+lar[14207]=`<i>att</i>. Ἀργαδῆς (οἱ) les Argadées, <i>tribu ionienne primitive de l’Attique,</i> EUR. <i>Ion 1580</i>.<p><b>Étym</b>. <i>cf</i>. Ἀργάδης.`

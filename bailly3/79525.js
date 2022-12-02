@@ -1,0 +1,1 @@
+lar[79525]=`<b>περιτρομέω-ῶ</b>, <i>c</i>. περιτρέμω, Q. SM. <i>3, 182, etc.</i><br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. 3 pl. épq</i>. περιτρομέοντο)</font> <i>m. sign</i>. OD. <i>18, 77</i>.<p><b>Étym</b>. περίτρομος.`

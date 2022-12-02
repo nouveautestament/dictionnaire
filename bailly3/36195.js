@@ -1,0 +1,1 @@
+lar[36195]=`<b>ἐξ·ορμενίζω</b>, monter en tige, SOPH. <i>fr. 296 ; fig</i>. NICOSTR. <i>fr. 34</i>.<p><b>Étym</b>. ἐξ, ὄρμενος.`

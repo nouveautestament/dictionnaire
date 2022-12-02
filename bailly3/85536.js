@@ -1,0 +1,1 @@
+lar[85536]=`<i>vb. de</i> προσέχω, PLAT. <i>Men. 96d, etc.</i> ; ISOCR. <i>410b ;</i> ESCHN. <i>16, 43, etc</i>.`

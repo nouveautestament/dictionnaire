@@ -1,0 +1,1 @@
+lar[91773]=`<b>ιδος</b> <font color="purple">[ᾱ]</font> <i>adj. f</i>. de Sparte, EUR. <i>Hel. 115, Or. 537, etc. ; subst</i>. ἡ Σπ. femme de Sparte, EUR. <i>Andr. 596 ; ou</i> territoire de Sparte, PLUT. <i>Apophth. lac. Dercyl</i>.<p><b>Étym</b>. <i>fém. de</i> Σπαρτιάτης.`

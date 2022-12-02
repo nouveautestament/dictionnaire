@@ -1,0 +1,1 @@
+lar[54658]=`<b>Κελτο·λίγυες, ων (οἱ)</b> les Celtes de Ligurie, ARSTT. <i>Mir. 85</i>.<p><b>Étym</b>. Κελτός, Λίγυες.`

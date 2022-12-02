@@ -1,0 +1,1 @@
+lar[10667]=`<b>άδος</b>, <i>adj. f</i>. qui se plaît <i>ou</i> vit dans les grottes, ANTH. <i>6, 224</i>.<p><b>Étym</b>. ἄντρον.`

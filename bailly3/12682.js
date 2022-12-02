@@ -1,0 +1,1 @@
+lar[12682]=`<b>εως (ἡ)</b> action de cacher, ARSTT. <i>Cæl. 2, 13, 9</i>.<p><b>Étym</b>. ἀποκρύπτω.`

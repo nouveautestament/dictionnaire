@@ -1,0 +1,1 @@
+lar[38823]=`<b>ἐπι·προτέρωσε</b>, <i>adv</i>., encore plus loin, <i>avec mouv</i>. A.RH. <i>2, 940</i>.`

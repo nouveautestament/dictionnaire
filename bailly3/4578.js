@@ -1,0 +1,1 @@
+lar[4578]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> coupable, criminel : τῆς θεοῦ, AR. <i>Eq. 445</i> ; THC. <i>1, 126,</i> envers la divinité ; <i>abs</i>. homme néfaste, fléau de, <i>gén</i>. LYS. <i>137, 19</i> ; AND. <i>17, 11, etc.</i><br><b>      2</b> vengeur du crime, ANT. <i>4, α, 4 Baiter-Sauppe</i>.<p><b>Étym</b>. ἀλιταίνω.`

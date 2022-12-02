@@ -1,0 +1,1 @@
+lar[34559]=`<b>ἐν·θρίακτος, ος, ον</b>, transporté d’une fureur divine, SOPH. <i>fr. 489</i>.<p><b>Étym</b>. ἐν, θριάζω.`

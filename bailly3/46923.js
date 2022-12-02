@@ -1,0 +1,1 @@
+lar[46923]=`<b>θέρμανσις, εως (ἡ)</b> action d’échauffer, HPC. <i>424, 34</i> ; ARSTT. <i>Metaph. 10, 11, 2</i>.<p><b>Étym</b>. θερμαίνω.`

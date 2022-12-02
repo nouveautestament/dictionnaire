@@ -1,0 +1,1 @@
+lar[87849]=`<b>πυρί·βιος, ος, ον</b> <font color="purple">[ῠῐβ]</font> qui vit au milieu du feu, DL. <i>9, 79</i>.<p><b>Étym</b>. π. βίος.`

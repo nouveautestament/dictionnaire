@@ -1,0 +1,1 @@
+lar[43098]=`<b>εὐπρέπεια, ας (ἡ) :<br>      1</b> belle <i>ou</i> noble apparence, THC. <i>6, 31</i> ; PLUT. <i>M. 752a ; p. opp. à</i> ἀπρέπεια, PLAT. <i>Phædr. 274d, etc.</i><br><b>      2</b> <i>particul</i>. caractère spécieux, convenance extérieure, vraisemblance, THC. <i>3, 11 et 82</i> ; PLAT. <i>Euthyd. 305e</i>.<p><b>Étym</b>. εὐπρεπής.`

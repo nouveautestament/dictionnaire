@@ -1,0 +1,1 @@
+lar[24853]=`<b>δι·ακριβολογέομαι-οῦμαι</b> <font color="purple">[ῑβ]</font> discuter <i>ou</i> examiner en détail <i>ou</i> à fond, PLAT. <i>Soph. 245e ;</i> DC. <i>44, 32</i>.`

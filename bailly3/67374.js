@@ -1,0 +1,1 @@
+lar[67374]=`<b>ίδος</b>, <i>acc</i>. <b>ιν (ἡ)</b> Myrtis, <i>f</i>. ANTH. <i>9, 26</i>.<p>➳ <i>Béot</i>. Μουρτίς, CORINN. (DYSC. <i>Pron. 65a</i>).`

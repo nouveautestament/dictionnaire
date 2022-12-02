@@ -1,0 +1,1 @@
+lar[84362]=`<b>προ·θρυλέω-ῶ</b> <font color="purple">[ῡ]</font> divulguer d’avance, LUC. <i>Patr. enc. 1</i>.`

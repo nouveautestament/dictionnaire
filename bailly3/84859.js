@@ -1,0 +1,1 @@
+lar[84859]=`<b>οῦ (ὁ)</b> action de déterminer d’avance, HPC. <i>26, 31</i>.<p><b>Étym</b>. προορίζω.`

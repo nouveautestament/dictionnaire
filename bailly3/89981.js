@@ -1,0 +1,1 @@
+lar[89981]=`<i>ou</i> <b>σηπίον, ου (τὸ)</b> partie osseuse <i>ou</i> dos de la seiche, écume de mer, ARSTT. <i>H.A. 4, 1, 21 ; 4, 7, 10, etc</i>.<p><b>Étym</b>. σηπία.`

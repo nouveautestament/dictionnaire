@@ -1,0 +1,1 @@
+lar[61436]=`<b>λιτρο·σκόπος, ου (ὁ)</b> inspecteur de la monnaie, SOPH. <i>fr. 907</i>.<p><b>Étym</b>. λίτρα, *σκέπτομαι.`

@@ -1,0 +1,1 @@
+lar[1560]=`<i>mieux que</i> <b>ἁδροτής, ῆτος (ἡ)</b> <i>seul. acc. -ῆτα, transformation artificielle par nécessité métrique, p. ἀνδροτῆτα (ἀνδροτής ; cf. pour la formation, ἄβροτος de ἄμβροτος)</i>.`

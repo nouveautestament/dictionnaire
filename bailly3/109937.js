@@ -1,0 +1,1 @@
+lar[109937]=`<b>Ψυρίη νῆσος (ἡ)</b> <font color="purple">[ῠ]</font> l’île de Psyra (<i>auj</i>. Psará), <i>î. de la mer Égée,</i> ALCM. <i>37</i>.`

@@ -1,0 +1,1 @@
+lar[12941]=`<b>α, ον</b>, qu’il faut attribuer, répartir, PLUT. <i>M. 441a ; etc. ; au neutre,</i> ARSTT. <i>Nic. 9, 2, 7</i>.<p><b>Étym</b>. <i>vb. de</i> ἀπονέμω.`

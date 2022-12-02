@@ -1,0 +1,1 @@
+lar[67578]=`<b>ή, όν</b> <font color="purple">[ᾱᾰ]</font> de Naïade, ANTH. <i>10, 21</i>.<p><b>Étym</b>. Ναΐς.`

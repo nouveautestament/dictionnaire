@@ -1,0 +1,1 @@
+lar[16978]=`<b>ῶν (οἱ)</b> habitants de l’Atropatène, PLUT.`

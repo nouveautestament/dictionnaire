@@ -1,0 +1,1 @@
+lar[91265]=`<b>ίδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f</i>. de Scythie, PLUT. <i>Pomp. 45, etc. ; subst</i>. ἡ Σκ. femme Scythe, ESCHN. <i>78, 19</i> ; LUC. <i>Char. 13</i>.<p>➳ <i>Acc</i>. Σκυθίδα, LUC. <i>l. c. ; ou</i> Σκυθίν, ESCHN. <i>l. c</i>.<p><b>Étym</b>. <i>fém. de</i> Σκύθης.`

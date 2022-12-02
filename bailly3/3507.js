@@ -1,0 +1,1 @@
+lar[3507]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> ἀκολουθέω, XÉN. <i>Œc. 21, 7</i> ; PLAT. <i>Rsp. 400d</i>.`

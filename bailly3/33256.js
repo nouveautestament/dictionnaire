@@ -1,0 +1,1 @@
+lar[33256]=`<b>ής, ές</b>, ferme, constant, TIMON (PLUT. <i>M. 446c</i>) ; <i>adv</i>., ἐμμενὲς αἰεί, IL. <i>10, 361</i> ; OD. <i>9, 386, ou simpl</i>. ἐμμενές, ARAT. <i>83, 339, 891, etc</i>. constamment, avec persévérance.<p><b>Étym</b>. ἐμμένω.`

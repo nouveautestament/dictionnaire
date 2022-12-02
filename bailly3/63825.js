@@ -1,0 +1,1 @@
+lar[63825]=`<b>μελαμ·φαρής, ής, ές</b> <font color="purple">[φᾱ]</font> au vêtement noir, BACCHYL. <i>3, 13</i>.<p><b>Étym</b>. μ. φᾶρος.`

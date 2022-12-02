@@ -1,0 +1,1 @@
+lar[95358]=`<b>συν·εκκλύζω</b>, laver ensemble <i>ou</i> en même temps, ARSTT. <i>G.A. 1, 19</i> ; DIOSC. <i>2, 123 ; avec</i> μετά <i>et le gén</i>. ARSTT. <i>Col. 5, 12, etc</i>.`

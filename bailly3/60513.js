@@ -1,0 +1,1 @@
+lar[60513]=`<b>λευκ·άμπυξ, υκος (ὁ, ἡ)</b> <font color="purple">[ῠκ]</font> au bandeau blanc, <i>d’où</i> brillant, <i>en parl. du jour,</i> OPP. <i>H. 4, 238</i>.<p><b>Étym</b>. λ. ἄ.`

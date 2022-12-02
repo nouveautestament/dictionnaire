@@ -1,0 +1,1 @@
+lar[62310]=`<b>α, ον</b>, en forme de sein, LYC. <i>534</i>.<p><b>Étym</b>. μαζός.`

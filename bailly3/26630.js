@@ -1,0 +1,1 @@
+lar[26630]=`<b>δι·λοχία, ας (ἡ)</b> <font color="purple">[δῐ]</font> double compagnie, POL. <i>10, 21, 4</i> ; EL. TACT. <i>8, 2</i>.<p><b>Étym</b>. δίς, λόχος.`

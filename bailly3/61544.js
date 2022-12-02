@@ -1,0 +1,1 @@
+lar[61544]=`percer avec une lance, ANTH. <i>9, 300</i>.<p><b>Étym</b>. λόγχη.`

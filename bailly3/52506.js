@@ -1,0 +1,1 @@
+lar[52506]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> (vin) de la Terre brûlée, STR. <i>628, 637</i>.<p><b>Étym</b>. <i>v</i>. Κατακεκαυμένη.`

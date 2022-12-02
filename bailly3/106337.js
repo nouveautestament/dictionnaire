@@ -1,0 +1,1 @@
+lar[106337]=`<b>ή, όν</b>, qui concerne les saignées : ἡ φλεβοτομική (<i>s.-e</i>. τέχνη) C. AUR. <i>M. ac. 3,</i> l’art de faire les saignées.<p><b>Étym</b>. φλεβοτόμος.`

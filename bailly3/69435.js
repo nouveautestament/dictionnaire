@@ -1,0 +1,1 @@
+lar[69435]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> bannissement des étrangers, THC. <i>2, 39</i> ; XÉN. <i>Lac. 14, 4</i> ; PLAT. <i>Leg. 950b ; au plur</i>. THC. <i>1, 144</i> ; PLAT. <i>Prot. 344c, etc. ; fig</i>. PLUT. <i>M. 527c</i>.<p><b>Étym</b>. ξενηλατέω.`

@@ -1,0 +1,1 @@
+lar[96280]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> tension simultanée, forte tension, HPC. <i>Epid. 1, 969</i> ; ARSTT. <i>Probl. 4, 26, 4</i>.<br><b>      2</b> <i>p. ext</i>. effort intense, PLAT. <i>Conv. 206b, Phil. 46d.</i><br><b>      3</b> distension, HPC. <i>Epid. 1, 943</i>.<p><b>Étym</b>. συντείνω.`

@@ -1,0 +1,1 @@
+lar[92334]=`<b>ου (ὁ)</b> = <i>lat</i>. Stellus, <i>n. d’h. rom</i>. AGÉS. (PLUT. <i>Parall. min. 29</i>).`

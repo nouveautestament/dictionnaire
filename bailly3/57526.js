@@ -1,0 +1,1 @@
+lar[57526]=`<b>ας (ἡ)</b> extrémité, bout, tête, HSCH. <i>autrement seul. en compos</i>.<p><b>Étym</b>. <i>cf</i>. κέρας.`

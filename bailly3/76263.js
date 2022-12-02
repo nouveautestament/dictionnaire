@@ -1,0 +1,1 @@
+lar[76263]=`<b>ῆς (ἡ)</b> action de tourner, de rouler, NYSS.<p><b>Étym</b>. παραστρέφω.`

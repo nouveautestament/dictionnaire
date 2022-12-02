@@ -1,0 +1,1 @@
+lar[93513]=`<b>συγ·κόρυφος, ος, ον</b> <font color="purple">[ῠ]</font> uni par le sommet, ARSTT. <i>Probl. 15, 11, 2</i>.<p><b>Étym</b>. σ. κορυφή.`

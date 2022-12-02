@@ -1,0 +1,1 @@
+lar[22343]=`<b>γνωσι·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> décision judiciaire, LGN <i>9, 547, 21 Walz</i>.`

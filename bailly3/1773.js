@@ -1,0 +1,1 @@
+lar[1773]=`<b>ιδος</b> <font color="purple">[ᾱ]</font>, <i>adj. f</i>. azurée, DIOSC. <i>2, 209</i>.<p><b>Étym</b>. ἀήρ.`

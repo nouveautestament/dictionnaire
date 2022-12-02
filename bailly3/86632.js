@@ -1,0 +1,1 @@
+lar[86632]=`<b>υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> qui se réfugie auprès de, qui cherche asile <i>ou</i> protection, client, HDN <i>5, 3, 18</i>.<p><b>Étym</b>. προσφεύγω.`

@@ -1,0 +1,1 @@
+lar[84843]=`<b>προ·ομαλύνω</b> <font color="purple">[ᾰῡ]</font> <i>c</i>. προομαλίζω PLAT. <i>Tim. 50e</i>.`

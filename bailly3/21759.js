@@ -1,0 +1,1 @@
+lar[21759]=`<b>ίδος (ἡ)</b> sorte de bandage, GAL. <i>12, 491e, etc</i>.`

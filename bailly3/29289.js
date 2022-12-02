@@ -1,0 +1,1 @@
+lar[29289]=`<b>ἑβδομηκοντα·δύο</b>, <i>n. de nombre,</i> soixante-douze, SPT. <i>1Esdr. 5, 9, etc</i>.`

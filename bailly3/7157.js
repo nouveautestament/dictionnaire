@@ -1,0 +1,1 @@
+lar[7157]=`<b>ἀνα·μαρμαίρω</b>, faire briller, allumer, A.RH. <i>3, 1300</i>.`

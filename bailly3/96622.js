@@ -1,0 +1,1 @@
+lar[96622]=`<b>συ·σπείρω</b> <font color="darkgreen">(<i>f</i>. συσπερῶ, <i>ao</i>. συνέσπειρα, <i>etc</i>.) :</font><br><b>      1</b> ensemencer <i>ou</i> semer ensemble <i>ou</i> en même temps, GEOP.<br><b>      2</b> semer <i>ou</i> répandre avec, <i>pass</i>. LUC. <i>Dom. 8</i>.`

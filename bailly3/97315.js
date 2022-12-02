@@ -1,0 +1,1 @@
+lar[97315]=`<b>ης (ἡ)</b> Sôphrosynè, <i>f</i>. PLUT. <i>Dio. 6, etc</i>.<p><b>Étym</b>. <i>v</i>. σωφροσύνη.`

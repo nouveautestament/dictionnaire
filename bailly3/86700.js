@@ -1,0 +1,1 @@
+lar[86700]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> προσωπίς, AR. <i>fr. 256 Dind</i>.`

@@ -1,0 +1,1 @@
+lar[49512]=`<b>ἰσ·άγγελος, ος, ον</b> <font color="purple">[ῑ̆]</font> égal aux anges, NT. <i>Luc. 20, 36</i> ; CLÉM. <i>1, 293 Migne ; 2, 328 Migne</i>.<p><b>Étym</b>. ἴσος, ἄγγελος.`

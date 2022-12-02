@@ -1,0 +1,1 @@
+lar[48503]=`<b>ἱδρωτοποιέω-ῶ</b>, faire suer, <i>d’où au pass</i>. suer, ARSTT. <i>Probl. 2, 42</i>.<p><b>Étym</b>. ἱδρωτοποιός.`

@@ -1,0 +1,1 @@
+lar[102015]=`<b>ὑπ·αρόω-ῶ</b> <font color="purple">[ῠᾰ]</font> labourer ensuite <i>ou</i> légèrement, TH. <i>H.P. 8, 11, 8, etc</i>.`

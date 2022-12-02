@@ -1,0 +1,1 @@
+lar[24743]=`<font color="purple">[κᾰ]</font> <i>adv</i>., ardemment, ALCIPHR. <i>1, 27</i> ; A. TR. <i>12, 695</i>.<p><b>Étym</b>. διακαής.`

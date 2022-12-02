@@ -1,0 +1,1 @@
+lar[27492]=`<font color="purple">[ᾰ]</font> faire des présents, SYMM. <i>Ezech. 16, 33</i>.<p><b>Étym</b>. δόμα.`

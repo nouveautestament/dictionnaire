@@ -1,0 +1,1 @@
+lar[18515]=`<i>adv</i>., sans souillure, PROCL. CLÉM.`

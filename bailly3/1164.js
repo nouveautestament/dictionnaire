@@ -1,0 +1,1 @@
+lar[1164]=`<b>η, ον</b> <font color="purple">[ᾰᾰμῐ]</font> d’acier, dur et résistant comme l’acier, ESCHL. <i>Pr. 6, 64</i> ; ESCHN. <i>65, 33, fig. en parl. de pers</i>. PLAT. <i>Rsp. 360b ;</i> THCR. <i>Idyl. 3, 39 ; en parl. de choses (paroles, etc</i>.) PLAT. <i>Gorg. 509a</i>.<p><b>Étym</b>. ἀδάμας.`

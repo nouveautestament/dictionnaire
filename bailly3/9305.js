@@ -1,0 +1,1 @@
+lar[9305]=`<b>ἄν·οργος, ος, ον</b>, qui ne se met pas en colère, de sang-froid, CRAT. (SUID. <i>et Bkk. 406).</i><p><b>Étym</b>. ἀν-, ὀργή.`

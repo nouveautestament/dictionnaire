@@ -1,0 +1,1 @@
+lar[78621]=`<b>οῦ (ὁ)</b> qui conduit autour, <i>d’où</i> :<br><b>      1</b> guide, PLUT. <i>M. 675d.</i><br><b>      2</b> qui décrit en détail, LUC. <i>V.H. 2, 31</i> ; ATH. <i>210a ; p. suite,</i> qui explique, <i>gén</i>. LUC. <i>Cal. 5</i>.<p><b>Étym</b>. περιηγέομαι.`

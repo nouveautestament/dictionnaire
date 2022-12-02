@@ -1,0 +1,1 @@
+lar[105622]=`<b>Φιλ·ηρατίς, ίδος (ἡ)</b> <font color="purple">[ῐᾰῐδ]</font> Philèratis, <i>f</i>. ANTH. <i>6, 347</i>.<p><b>Étym</b>. φ. ἐράω.`

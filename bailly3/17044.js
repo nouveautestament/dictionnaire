@@ -1,0 +1,1 @@
+lar[17044]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> effrayant, terrible, A.RH. <i>2, 1057</i>.<p><b>Étym</b>. ἀτύζω.`

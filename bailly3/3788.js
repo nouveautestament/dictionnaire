@@ -1,0 +1,1 @@
+lar[3788]=`<b>Ἀκρο·κόρινθος, ου (ὁ)</b> l’Acrocorinthe, <i>citadelle de Corinthe,</i> XÉN. <i>Hell. 4, 4, 4</i> ; PLUT. <i>Cleom. 16, etc</i>.<p><b>Étym</b>. ἄ. Κόρινθος.`

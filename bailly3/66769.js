@@ -1,0 +1,1 @@
+lar[66769]=`οῦ (ὁ) sorte d’aigle, <i>p.-ê</i>. vautour, <i>oiseau de proie,</i> ARSTT. <i>H.A. 9, 32</i>.<p><b>Étym</b>. <i>cf</i>. μόρφνος.`

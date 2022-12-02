@@ -1,0 +1,1 @@
+lar[36186]=`<b>ή, όν</b>, capable de chasser <i>ou</i> de repousser hors des frontières, DL. <i>10, 143</i>.<p><b>Étym</b>. ἐξορίζω.`

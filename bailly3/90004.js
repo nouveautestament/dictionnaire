@@ -1,0 +1,1 @@
+lar[90004]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> gâteau de sésame et de miel, STÉSICH. <i>fr. 2 Bgk</i> ; EUP. <i>et</i> EPHIPP. (<i>Com. fr. 2, 494 ; 3, 330</i>).<br><b>      2</b> <i>autre n. de la plante</i> σησαμοειδὲς μέγα, DIOSC. <i>Noth. 4, 152</i>.<p>➳ <i>Dor</i>. σασαμίς, STÉSICH. <i>l. c</i>.<p><b>Étym</b>. σησάμη.`

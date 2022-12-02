@@ -1,0 +1,1 @@
+lar[49405]=`<b>ἱππό·πους</b>, <i>gén</i>. <b>ἱππόποδος (ὁ, ἡ)</b> qui a des pieds de cheval : οἱ Ἱππόποδες, DP. <i>310,</i> les Hippopodes, <i>pple de Sarmatie</i>.<p><b>Étym</b>. ἵ. πούς.`

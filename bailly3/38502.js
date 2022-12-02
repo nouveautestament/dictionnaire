@@ -1,0 +1,1 @@
+lar[38502]=`<b>ἐπί·νειον, ου (τὸ) :<br>      1</b> mouillage, HDT. <i>6, 116 ; joint à</i> λιμένες, ARSTT. <i>Pol. 7, 6, 5 ; d’où</i> port, PLUT. <i>Phoc. 15</i>.<br><b>      2</b> entrepôt maritime, THC. <i>1, 30 ; 2, 84</i>.<br><b>      3</b> chantier pour navires, DH. <i>9, 56</i>.<p><b>Étym</b>. ἐπί, ναῦς.`

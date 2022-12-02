@@ -1,0 +1,1 @@
+lar[32488]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾱ]</font> (<i>seul. acc. pl. att</i>. ἐλᾷδας) olivier, AR. <i>Ach. 998</i> ; CIA. <i>2, 836, ab, 29 (270/262 av. J.-C.)</i>.<p><b>Étym</b>. ἐλαία.`

@@ -1,0 +1,1 @@
+lar[62738]=`<i>ou mieux</i> <b>μάμμη, ης (ἡ) :<br>      1</b> maman, mère, <i>mot d’enfant,</i> ANTH. <i>11, 67</i>.<br><b>      2</b> <i>postér</i>. grand’ mère, PLUT. <i>M. 704b, Agis 4</i> ; SPT. <i>4Macc. 16, 9</i>.<br><b>      3</b> sein de la mère, mamelle, ARR. <i>Epict. 2, 16, 43</i>.`

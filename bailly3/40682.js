@@ -1,0 +1,1 @@
+lar[40682]=`<b>ης, ες</b>, semblable à un reptile, ARÉT. <i>Caus. m. diut. 2, 13</i>.<p><b>Étym</b>. ἑρπετόν, -ωδης.`

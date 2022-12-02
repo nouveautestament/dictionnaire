@@ -1,0 +1,1 @@
+lar[23255]=`<b>ων (οἱ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> habitants de la Dardanie, <i>en Troade,</i> IL. <i>3, 456, etc.</i> ; PD. <i>N. 3, 106 ; etc.</i><br><b>      2</b> <i>c</i>. Δαρδανεῖς (<i>v</i>. Δαρδανεύς) DS. <i>5, 48, etc.</i> ; APP. <i>Ill. 2, 5 ; etc</i>.`

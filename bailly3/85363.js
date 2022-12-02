@@ -1,0 +1,1 @@
+lar[85363]=`<b>προσ·γελάω-ῶ</b> <font color="darkgreen">(<i>f</i>. -γελάσομαι)</font> sourire à, <i>acc</i>. HDT. <i>5, 92</i> ; EUR. <i>Med. 1162 ; postér</i>. τινι, ARSTT. <i>fr. 179, etc</i>. à qqn ; <i>fig</i>. ESCHL. <i>Eum. 253</i> ; AR. <i>Pax 600, etc</i>.`

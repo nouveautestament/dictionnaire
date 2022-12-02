@@ -1,0 +1,1 @@
+lar[91260]=`<font color="purple">[ῠ]</font><br><b>      1</b> vivre <i>ou</i> agir comme un Scythe, SYN. <i>p. 118b.</i><br><b>      2</b> s’enivrer comme un Scythe, HÉRON (ATH. <i>499f</i>).<br><b>      3</b> se raser la tête comme les Scythes, EUR. <i>El. 241</i>.<br><b>      4</b> parler la langue des Scythes, D. PHAL. <i>§ 46</i>.<p><b>Étym</b>. Σκύθης.`

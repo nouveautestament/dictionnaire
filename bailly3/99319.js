@@ -1,0 +1,1 @@
+lar[99319]=`<b>Τίσ·αρχος, ου (ὁ)</b> Tisarkhos, <i>h</i>. AND. <i>1, 15 Baiter-Sauppe</i>.<p>➳ <i>Dans les inscr. att</i>. Τείσαρχος, CIA. <i>2, 946, 26 (400/350 av. J.-C.) ; v. Meisterh. p. 144, 6. Sur le rad</i>. τει- <i>du verbe</i> τίνω.<p><b>Étym</b>. τίω, ἄρχω.`

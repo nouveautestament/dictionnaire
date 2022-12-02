@@ -1,0 +1,1 @@
+lar[9993]=`<b>εως (ἡ) :<br>      1</b> choc en sens contraire, ARSTT. <i>Rhet. 3, 9, 6</i> ; PLUT. <i>M. 721b.</i><br><b>      2</b> <i>fig</i>. réplique, ESCHN. <i>24, 10</i>.<p><b>Étym</b>. ἀντικρούω.`

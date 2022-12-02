@@ -1,0 +1,1 @@
+lar[70138]=`<b>ὀδοντοφυέω-ῶ</b>, faire ses dents, HPC. <i>Aph. 3, 25</i> ; PLAT. <i>Phædr. 251c ;</i> ARSTT. <i>H.A. 7, 10</i>.<p><b>Étym</b>. ὀδοντοφυής.`

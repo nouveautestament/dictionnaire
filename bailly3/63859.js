@@ -1,0 +1,1 @@
+lar[63859]=`<b>Μελ·ανθεύς, έως (ὁ)</b> Mélanthée, <i>chevrier d’Ulysse,</i> OD. <i>17, 212, etc</i>.<p><b>Étym</b>. <i>cf</i>. μελανθής.`

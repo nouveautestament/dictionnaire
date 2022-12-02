@@ -1,0 +1,1 @@
+lar[101937]=`<b>ὑπ·αμφίβολος, ος, ον</b> <font color="purple">[ῠῐ]</font> quelque peu équivoque, PHIL. <i>2, 30</i>.`

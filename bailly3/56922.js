@@ -1,0 +1,1 @@
+lar[56922]=`<b>ης (ἡ)</b> <i>n. de plantes</i> :<br><b>      1</b> conyze <i>ou</i> herbe aux puces <i>ou</i> encensière (<i>Erigeron viscosum</i> L.) ARSTT. <i>H.A. 4, 8</i> ; TH. <i>H.P. 6, 2</i>.<br><b>      2</b> <i>autre plante (Inula britannica</i> L.) DIOSC. <i>3, 136</i>.`

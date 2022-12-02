@@ -1,0 +1,1 @@
+lar[109530]=`<b>ατος (τὸ)</b> air joué sur un instrument à cordes, <i>particul</i>. sur la lyre, ANTH. <i>11, 34</i>.<p><b>Étym</b>. ψάλλω.`

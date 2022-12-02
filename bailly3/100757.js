@@ -1,0 +1,1 @@
+lar[100757]=`<b>τροχαιο·χορεῖος, ου (ὁ)</b> réunion d’un trochée et d’un chorée, <i>càd</i>. un tribraque, <i>pied prosodique,</i> TZETZ.<p><b>Étym</b>. <i>Cram. 3, 307</i>.`

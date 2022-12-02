@@ -1,0 +1,1 @@
+lar[89816]=`<b>α</b> <i>et</i> <b>ου (ὁ)</b> = <i>lat</i>. Sĕnĕca (Sénèque) <i>philosophe romain,</i> PLUT. <i>Galb. 20, etc</i>.<p>➳ <i>Gén</i>. -α, PLUT. <i>De coh. ira 13, etc.</i> ; -ου, DC. <i>61, 3, etc</i>.`

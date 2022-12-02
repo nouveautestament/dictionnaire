@@ -1,0 +1,1 @@
+lar[36894]=`<i>adv</i>., avec peine, péniblement, DH. <i>Thuc. 41</i>.<p>•<i> Cp</i>. ἐπαχθέστερον, PLAT. <i>Ep. 327b</i>.<p><b>Étym</b>. ἐπαχθής.`

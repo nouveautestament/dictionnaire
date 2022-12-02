@@ -1,0 +1,1 @@
+lar[1397]=`<b>ἀ·διεξέταστος, ος, ον</b>, qu’on ne peut examiner à fond, SPT. <i>Sir. 21, 18</i>.<p><b>Étym</b>. ἀ, διεξετάζω.`

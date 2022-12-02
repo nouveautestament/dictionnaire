@@ -1,0 +1,1 @@
+lar[43524]=`<b>ας (ἡ)</b> fidélité aux conventions, PHIL. <i>2, 267</i>.<p><b>Étym</b>. εὐσύνθετος.`

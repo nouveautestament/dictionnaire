@@ -1,0 +1,1 @@
+lar[54147]=`<b>κατ·οπτάω-ῶ</b>, faire rôtir, ARCHESTR. (ATH. <i>320b</i>).`

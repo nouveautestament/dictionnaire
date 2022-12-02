@@ -1,0 +1,1 @@
+lar[42584]=`<b>εὔ·ληκτος, ος, ον</b>, qui cesse facilement, LUC. <i>Trag. 324</i>.<p><b>Étym</b>. εὖ, λήγω.`

@@ -1,0 +1,1 @@
+lar[24180]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῐδ]</font> cher petit peuple, AR. <i>Eq. 823</i>.<p><b>Étym</b>. <i>dim. com. de</i> δῆμος.`

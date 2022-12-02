@@ -1,0 +1,1 @@
+lar[32064]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> départ d’une armée, expédition, LUC. <i>Somn. 25</i>.<p><b>Étym</b>. ἐκστρατεύω.`

@@ -1,0 +1,1 @@
+lar[106015]=`<b>φιλο·ποιός, ός, όν</b> <font color="purple">[ῐ]</font> qui rend ami, qui concilie l’amitié, PLUT. <i>Cato ma. 25, M. 612d, 632e</i>.<p><b>Étym</b>. φ. ποιέω.`

@@ -1,0 +1,1 @@
+lar[1836]=`<b>έως (ὁ)</b> <font color="purple">[ᾱῐ]</font> aiglon, EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. ἀετός.`

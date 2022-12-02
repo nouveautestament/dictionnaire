@@ -1,0 +1,1 @@
+lar[100099]=`<b>τριακοσιοντά·χοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾱᾰ]</font> qui rapporte (<i>litt</i>. qui verse trois cents fois autant) STR. <i>742 conj. ; cf</i>. διακοσιοντάχους, ἑκατοντάχοος.<p><b>Étym</b>. τριακόσιοι, χέω.`

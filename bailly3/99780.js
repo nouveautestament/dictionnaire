@@ -1,0 +1,1 @@
+lar[99780]=`<i>crase att. p</i>. τὸ ἔργον, SOPH. <i>Aj. 1368, Ant. 536</i>.`

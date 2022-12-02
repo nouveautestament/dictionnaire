@@ -1,0 +1,1 @@
+lar[58151]=`<b>όεσσα, όεν :<br>      1</b> glacial, glacé, A.RH. <i>1, 918, etc.</i> ; ANTH. <i>6, 221, etc.</i><br><b>      2</b> qui glace d’effroi, IL. <i>5, 740 ; 9, 2</i> ; HÉS. <i>Th. 936</i>.<p><b>Étym</b>. κρύος.`

@@ -1,0 +1,1 @@
+lar[93879]=`<b>συμβολο·μαντεία, ας (ἡ)</b> divination d’après des signes, NYSS. <i>2, 109 Migne</i>.`

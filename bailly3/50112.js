@@ -1,0 +1,1 @@
+lar[50112]=`<b>ἰχωρ·ροέω-οῶ</b> <font color="purple">[ῑ]</font> suppurer, <i>c</i>. ἰχωρορροέω DIOSC. <i>3, 26</i>.`

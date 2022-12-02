@@ -1,0 +1,1 @@
+lar[2902]=`<b>ας (ἡ) :<br>      1</b> propos honteux <i>ou</i> obscènes, XÉN. <i>Lac. 5, 6</i> ; EPICT. <i>Ench. 33, 15</i>.<br><b>      2</b> propos injurieux, POL. <i>8, 13, 8</i>.`

@@ -1,0 +1,1 @@
+lar[51846]=`<b>ου (τὸ)</b> chervis, <i>plante,</i> DIOSC. <i>3, 66</i>.`

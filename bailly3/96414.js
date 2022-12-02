@@ -1,0 +1,1 @@
+lar[96414]=`<b>συν·υποδείκνυμι</b> <i>ou</i> <b>συνυποδεικνύω</b>, expliquer en même temps : τινί τι, POL. <i>3, 48, 7,</i> qqe ch. à qqn ; <i>avec</i> ὅτι, POL. <i>1, 27, 1 ; avec</i> ὡς, POL. <i>5, 98, 11 ; abs</i>. POL. <i>17, 15, 12</i>.`

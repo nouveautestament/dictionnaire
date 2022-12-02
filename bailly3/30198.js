@@ -1,0 +1,1 @@
+lar[30198]=`<i>adv.</i> :<br><b>      1</b> selon l’usage <i>ou</i> le caractère d’une nation, DYSC. <i>Synt. 190, 5</i> ; DL. <i>7, 56</i>.<br><b>      2</b> à la manière des Gentils, NT. <i>Gal. 2, 14</i> ; CLÉM. <i>2, 261 Migne</i>.`

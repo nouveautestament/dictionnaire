@@ -1,0 +1,1 @@
+lar[106347]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. φλεγμονή, HPC. <i>Acut. 389</i> ; ARSTT. <i>H.A. 10, 4, 2 ; G.A. 2, 7, 4, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l.c</i>.`

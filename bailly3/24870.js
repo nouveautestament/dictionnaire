@@ -1,0 +1,1 @@
+lar[24870]=`<b>δια·κροτέω-ῶ :<br>      1</b> décomposer en ses éléments primitifs, PLAT. <i>Crat. 421c.</i><br><b>      2</b> <i>c</i>. βινέω, <i>acc</i>. EUR. <i>Cycl. 180</i>.<br><b>      3</b> trouer, percer, PLUT. <i>M. 304b</i>.`

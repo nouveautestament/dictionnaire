@@ -1,0 +1,1 @@
+lar[28265]=`<b>*δυσγαμία</b>, <i>seul. ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[γᾰ]</font> mariage malheureux, union malheureuse, MAN. <i>1, 19 et 46, etc</i>.<p><b>Étym</b>. δύσγαμος.`

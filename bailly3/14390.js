@@ -1,0 +1,1 @@
+lar[14390]=`<b>ῶν (οἱ)</b> les Ardéates, <i>habitants d’Ardea, v. du Latium,</i> PLUT. <i>Cam. 17, etc</i>.<p><b>Étym</b>. Ἄρδεα 1.`

@@ -1,0 +1,1 @@
+lar[94805]=`<b>συν·ανιχνεύω</b>, suivre ensemble <i>ou</i> en même temps la piste de, <i>acc</i>. EL. <i>N.A. 10, 45</i>.`

@@ -1,0 +1,1 @@
+lar[19062]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰρι]</font><br><b>      1</b> langage inintelligible comme serait une langue étrangère, ARSTT. <i>Poet. 22, 4 et 6</i> ; LUC. <i>D. mort. 10, 10, etc.</i><br><b>      2</b> barbarisme, GRAMM. (<i>cf</i>. βαρβαρόλεξις).<p><b>Étym</b>. βαρβαρίζω.`

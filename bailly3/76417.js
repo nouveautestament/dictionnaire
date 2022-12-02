@@ -1,0 +1,1 @@
+lar[76417]=`<b>ατος (τὸ) :<br>      1</b> palissade, barrière placée au long, THC. <i>4, 115, etc.</i><br><b>      2</b> rideau, tenture, PLAT. <i>Rsp. 514b.</i><br><b>      3</b> barre d’un tribunal, APP. <i>Civ. 2, 118</i>.<p><b>Étym</b>. παραφράσσω.`

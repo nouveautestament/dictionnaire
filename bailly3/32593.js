@@ -1,0 +1,1 @@
+lar[32593]=`<b>ων (οἱ)</b> = <i>lat</i>. Helvetii, les Helvètes, <i>pple celtique,</i> PLUT. <i>Cæs. 18</i>.`

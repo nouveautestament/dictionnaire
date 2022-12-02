@@ -1,0 +1,1 @@
+lar[47419]=`<b>ή, όν</b>, propre à broyer, ARSTT. <i>Probl. 5, 37, 3</i>.<p><b>Étym</b>. θλάω.`

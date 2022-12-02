@@ -1,0 +1,1 @@
+lar[5043]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> agitation, inquiétude d’un malade, HPC. <i>Progn. 37</i>.<p><b>Étym</b>. ἀλύσκω.`

@@ -1,0 +1,1 @@
+lar[108480]=`<b>ου</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> ὁ χίμαρος, jeune chevreau, THCR. <i>Epigr. 4, 15</i> ; ANTH. <i>6, 190, etc.</i><br><b>      2</b> ἡ χίμαρος, jeune chèvre (<i>p. opp. à</i> αἴξ, chèvre) THCR. <i>Idyl. 1, 6</i> ; ARSTT. <i>H.A. 3, 21 ; p. ext</i>. chèvre, AR. <i>Eq. 661</i>.<p><b>Étym</b>. χίμαιρα.`

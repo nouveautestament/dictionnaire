@@ -1,0 +1,1 @@
+lar[18429]=`<b>ΐδος</b>, <i>adj. f</i>. d’Achéloüs ; αἱ Ἀχελωΐδες, les villes riveraines du golfe Strymon, ESCHL. <i>Pers. 867 ; ou</i> les filles d’Achéloüs, <i>càd</i>. les Sirènes, A.RH.<p><b>Étym</b>. Ἀχελῷος.`

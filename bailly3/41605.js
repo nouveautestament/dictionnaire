@@ -1,0 +1,1 @@
+lar[41605]=`<b>Εὐ·άνθης, ους (ὁ)</b> Euanthès :<br><b>      1</b> <i>fils de Dionysos et d’Ariadnè,</i> OD. <i>9, 197</i>.<br><b>      2</b> <i>autres,</i> POÈT. (ATH. <i>596c</i>) ; PLUT. <i>Sol. 11</i>.<p>➳ <i>Gén. dor</i>. Εὐάνθευς, ANTH. <i>6, 129 ; acc</i>. Εὐάνθη HERM. (PLUT. <i>Sol. 11) ; ou</i> Εὐάνθην PAUS. <i>6, 4, 10</i>.<p><b>Étym</b>. εὖ, ἄνθος.`

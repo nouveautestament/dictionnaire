@@ -1,0 +1,1 @@
+lar[40461]=`<b>ἐρί·μυκος, ος, ον</b> <font color="purple">[ῡ]</font> aux mugissements sonores, IL. <i>20, 497</i> ; OD. <i>15, 235</i> ; HÉS. <i>O. 788</i> ; ANTH. <i>6, 219</i>.<p><b>Étym</b>. ἐρι-, μυκάομαι.`

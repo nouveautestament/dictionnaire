@@ -1,0 +1,1 @@
+lar[96791]=`<b>σφαιρο·κύλισις, εως (ἡ)</b> <font color="purple">[ῠῑσ]</font> mouvement d’une sphère, CÆSAR. <i>Quæst. 36</i>.<p><b>Étym</b>. σφαῖρα, κυλίω.`

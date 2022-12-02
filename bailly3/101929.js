@@ -1,0 +1,1 @@
+lar[101929]=`<b>ὑπ·άλπειος, ος, ον</b>, situé au pied des Alpes : ἡ ὑπάλπειος (<i>s.-e</i>. χώρα) PLUT. <i>Marc. 3,</i> la région subalpine.<p><b>Étym</b>. ὑ. Ἄλπεες.`

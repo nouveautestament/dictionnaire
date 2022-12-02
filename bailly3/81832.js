@@ -1,0 +1,1 @@
+lar[81832]=`<b>πολυ·δεής, ής, ές</b> <font color="purple">[ῠ]</font> qui a de grands besoins, M. TYR. <i>21, 4</i>.<p><b>Étym</b>. π. δέομαι.`

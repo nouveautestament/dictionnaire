@@ -1,0 +1,1 @@
+lar[10676]=`<b>ῶνος</b> (<i>genre inc</i>.) Antrôn, <i>v. de Thessalie,</i> IL. <i>2, 697</i>.<p>➳ Ἄντρων, HH. <i>Cer. 491</i>.`

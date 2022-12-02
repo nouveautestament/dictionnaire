@@ -1,0 +1,1 @@
+lar[73770]=`<i>ou mieux</i> <b>οὔ τί πω</b>, pas encore, SOPH. <i>Aj. 106</i> ; οὐδέ τί πω, THCR. <i>Idyl. 1, 59</i>.`

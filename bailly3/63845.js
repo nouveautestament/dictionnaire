@@ -1,0 +1,1 @@
+lar[63845]=`<b>μελάν·δρυς, υος (ὁ)</b> sorte de thon, PAMPHIL. (ATH. <i>121b</i>).<p><b>Étym</b>. μέλας, δρῦς.`

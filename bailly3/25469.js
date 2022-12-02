@@ -1,0 +1,1 @@
+lar[25469]=`<b>διά·ρροδος, ος, ον</b>, préparé avec des roses <i>ou</i> avec de l’essence de rose (collyre) GAL. <i>13, 444, 445</i> ; A. TR. <i>p. 129, 158</i> ; P. ÉG. <i>p. 179, 10</i>.<p><b>Étym</b>. διά, ῥόδον.`

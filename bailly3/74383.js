@@ -1,0 +1,1 @@
+lar[74383]=`<b>ου (τὸ)</b> hôpital, CRATÈS (ATH. <i>268a</i>).<p><b>Étym</b>. <i>neutre de</i> παιώνιος¹.`

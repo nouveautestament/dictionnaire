@@ -1,0 +1,1 @@
+lar[93332]=`<b>συγ·καταλείπω</b>, <i>anc. att</i>. <b>ξυγ·καταλείπω</b>, laisser en même temps, THC. <i>5, 75</i>.`

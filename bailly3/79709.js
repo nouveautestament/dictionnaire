@@ -1,0 +1,1 @@
+lar[79709]=`<b>περι·ῳδέω-ῶ</b>, charmer par des chants magiques, LUC. <i>Philopatr. 9</i>.<p><b>Étym</b>. π. ᾠδή.`

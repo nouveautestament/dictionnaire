@@ -1,0 +1,1 @@
+lar[26915]=`<b>ῆς (ἡ)</b> distance, intervalle, PHIL. BYZ. <i>Bel. 75</i>.<p><b>Étym</b>. διέχω.`

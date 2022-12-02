@@ -1,0 +1,1 @@
+lar[8424]=`<b>ἀν·επίγνωστος, ος, ον</b>, qu’on ne peut reconnaître <i>ou</i> distinguer, JOS. <i>A.J. 12, 2, 10</i> ; HERM. (STOB. <i>Ecl. 1, 968).</i><p><b>Étym</b>. ἀν-, ἐπιγιγνώσκω.`

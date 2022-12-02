@@ -1,0 +1,1 @@
+lar[97262]=`<b>Σωσί·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Sôsistratos, <i>h</i>. DÉM. <i>18, 275 Baiter-Sauppe</i> ; ARSTT. <i>Poet. 26, etc</i>.<p><b>Étym</b>. σῴζω, στρατός.`

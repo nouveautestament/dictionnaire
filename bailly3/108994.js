@@ -1,0 +1,1 @@
+lar[108994]=`se conduire en homme de bien, NT. <i>1Cor. 13, 4</i>.<p><b>Étym</b>. χρηστός.`

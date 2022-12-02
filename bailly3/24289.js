@@ -1,0 +1,1 @@
+lar[24289]=`<b>δημο·ρριφής, ής, ές</b> <font color="purple">[ῐ]</font> lancé par le peuple, <i>en parl. d’imprécations,</i> ESCHL. <i>Ag. 1616</i>.<p><b>Étym</b>. δ. ῥίπτω.`

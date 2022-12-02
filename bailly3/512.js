@@ -1,0 +1,1 @@
+lar[512]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> quête, collecte, <i>particul</i>. pour le service du culte, DH. <i>2, 19</i> ; ATH. <i>360d ; d’où</i> ce qu’on recueille, <i>en gén</i>. EL. <i>V.H. 4, 20</i>.<br><b>      2</b> rassemblement (d’une troupe, d’une armée) ARSTT. <i>Poet. 8, 3</i>.<p><b>Étym</b>. ἀγείρω.`

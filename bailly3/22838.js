@@ -1,0 +1,1 @@
+lar[22838]=`<b>ιδος (ὁ)</b> homme efféminé, ESCHL. <i>fr. 56 ; cf</i>. ATH. <i>435c ;</i> THCR. <i>Idyl. 22, 69</i> ; EL. <i>V.H. 12, 12</i>.<p><b>Étym</b>. γυνή.`

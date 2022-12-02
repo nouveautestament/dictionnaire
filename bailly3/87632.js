@@ -1,0 +1,1 @@
+lar[87632]=`<b>πυκνο·ρράξ, ᾶγος (ὁ, ἡ)</b> <font color="purple">[ᾱγ]</font> aux grains drus <i>ou</i> serrés, <i>en parl. d’une grappe,</i> ANTH. <i>6, 22</i>.<p><b>Étym</b>. π. ῥάξ.`

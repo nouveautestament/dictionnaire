@@ -1,0 +1,1 @@
+lar[31391]=`<font color="purple">[ᾰν]</font> boire jusqu’à la dernière goutte, EUP. fr. 212 ; EUR. <i>Cycl</i>. 152, <i>conj</i>.`

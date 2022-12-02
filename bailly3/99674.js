@@ -1,0 +1,1 @@
+lar[99674]=`<b>τορνευτο·λυρ·ασπιδο·πηγός, οῦ (ὁ)</b> <font color="purple">[ῠῐ]</font> fabricant de lyres et de boucliers faits au tour, AR. <i>Av. 491</i>.<p><b>Étym</b>. τορνευτός, λύρα, ἀσπίς, πήγνυμι.`

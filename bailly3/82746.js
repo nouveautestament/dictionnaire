@@ -1,0 +1,1 @@
+lar[82746]=`<b>οῦ (ὁ) :<br>      1</b> appel de la langue pour flatter un cheval, XÉN. <i>Eq. 9, 10</i> ; PLUT. <i>M. 713b.</i><br><b>      2</b> sorte de sifflement, DH. <i>Comp. 14</i> ; PLUT. <i>M. 545c</i>.<p><b>Étym</b>. ποππύζω.`

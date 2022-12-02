@@ -1,0 +1,1 @@
+lar[60808]=`<b>Λημνο·μέδα (ἡ)</b> Lèmnoméda, <i>titre d’une comédie de Strattis,</i> ATH. <i>327e, etc</i>.<p><b>Étym</b>. Λῆμνος, *μέδω ; <i>cf</i>. Λαομέδων.`

@@ -1,0 +1,1 @@
+lar[99899]=`<b>ητος (ἡ)</b> <font color="purple">[ᾱ]</font> clarté, éclat (du son) PLUT. <i>M. 720d</i>.<p><b>Étym</b>. τρανός.`

@@ -1,0 +1,1 @@
+lar[86944]=`<b>προ·φεύγω</b> <font color="darkgreen">(<i>ao.2</i> προὔφυγον) :</font><br><b>      1 <i>intr.</i></b> fuir en avant, s’enfuir, IL. <i>11, 340</i>.<br><b>      2 <i>tr.</i></b> fuir, échapper à, <i>acc</i>. IL. <i>6, 502, etc.</i> ; OD. <i>11, 107, etc. ; fig</i>. HÉS. <i>O. 645</i>.<p>➳ <i>Ao.2 opt. 2 sg. épq</i>. προφύγοισθα, OD. <i>22, 325</i>.`

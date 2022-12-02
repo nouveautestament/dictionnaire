@@ -1,0 +1,1 @@
+lar[100344]=`<b>τρι·πάχυντος, ος, ον</b> <font color="purple">[ῐᾰ]</font> trois fois épaissi, <i>càd</i>. très fort, puissant, ESCHL. <i>Ag. 1476</i>.<p><b>Étym</b>. τρ. παχύνω.`

@@ -1,0 +1,1 @@
+lar[78002]=`<b>πεντά·μνοος-ους, οος-ους, οον-ουν</b>, de cinq mines ; τὸ πεντάμνουν, HARMOD. (ATH. <i>148f</i>) poids de cinq mines.<p>➳ <i>Dans les inscr. att</i>. πεντάμνουν (<i>p. anal. avec</i> τετράμνουν) CIA. <i>2, 476, 34 (fin du 2<sup>e</sup> siècle ou commenc. du 1<sup>er</sup> siècle av. J.-C.), v. Meisterh. p. 123, 3, note 1117</i>.<p><b>Étym</b>. π. μνᾶ.`

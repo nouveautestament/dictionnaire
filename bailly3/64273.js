@@ -1,0 +1,1 @@
+lar[64273]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de Memphis, HDT. <i>2, 112</i> ; LUC. <i>C. deor. 10</i> ; LYC. <i>1294</i> ; λίθος, DIOSC. <i>5, 158,</i> pierre de Memphis, <i>pierre précieuse ; cf</i>. PLIN. <i>H.N. 26, 7</i>.<p><b>Étym</b>. Μέμφις.`

@@ -1,0 +1,1 @@
+lar[96596]=`<b>εως (ἡ)</b> grande considération, SYMM. <i>Ps. 62, 3</i>.<p><b>Étym</b>. συσκέπτομαι.`

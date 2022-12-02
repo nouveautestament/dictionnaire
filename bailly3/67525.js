@@ -1,0 +1,1 @@
+lar[67525]=`<b>ου (ὁ) :<br>      1</b> blâme, reproche, critique, OD. <i>2, 86</i> ; PD. <i>O. 6, 74 ; P. 1, 82</i> ; SIM. AM. <i>fr. 7, 84</i> ; SOPH. (STOB. <i>Fl. 29, 1</i>).<br><b>      2</b> raillerie, PLUT. <i>M. 820a</i>.`

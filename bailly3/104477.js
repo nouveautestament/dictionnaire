@@ -1,0 +1,1 @@
+lar[104477]=`<b>ὑψι·βρεμέτης, ου</b>, <i>adj. m</i>. qui frémit <i>ou</i> résonne au haut du ciel, IL. <i>1, 354 ; 12, 68</i> ; OD. <i>5, 4</i> ; HÉS. <i>Th. 568, 601 ; ironiq</i>. AR. <i>Lys. 773</i>.<p><b>Étym</b>. ὕ. βρέμω.`

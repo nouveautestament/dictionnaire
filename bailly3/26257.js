@@ -1,0 +1,1 @@
+lar[26257]=`<i>vb. de</i> διερεθίζω, HÉRODOTUS (ORIB. <i>1, 425, 3 B.-Dar</i>.).`

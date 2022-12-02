@@ -1,0 +1,1 @@
+lar[3681]=`<b>ἄκρ·ηβος, ος, ον</b>, qui est dans la première jeunesse, THCR. <i>Idyl. 8, 93</i>.`

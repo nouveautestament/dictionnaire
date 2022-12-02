@@ -1,0 +1,1 @@
+lar[66484]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> seul, unique, simple, DS. <i>2, 58</i>.<br><b>      2</b> qui vit seul, solitaire : ὁ μ. ANTH. <i>6, 15, etc. ; 11, 384</i> ; BAS. <i>4, 348</i> ; NAZ. <i>3, 1350, etc. Migne,</i> moine.<p><b>Étym</b>. μόνος.`

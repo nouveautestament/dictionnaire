@@ -1,0 +1,1 @@
+lar[62030]=`<b>(ἡ)</b> <font color="purple">[ῡ]</font> Lysilla, <i>f</i>. AR. <i>Nub. 684, Th. 375</i>.`

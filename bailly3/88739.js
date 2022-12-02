@@ -1,0 +1,1 @@
+lar[88739]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui coule, <i>d’où</i> :<br><b>      1</b> <i>subst</i>. ἡ ῥ. écoulement, ARÉT. <i>Cur. m. ac. 2, 9</i> ; ORIB. <i>62</i>.<br><b>      2</b> ῥοιὰς μήκων, TH. <i>H.P. 9, 12, 4,</i> coquelicot, <i>litt</i>. pavot qui coule <i>ou</i> s’effeuille facilement.<p><b>Étym</b>. ῥέω.`

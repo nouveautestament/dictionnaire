@@ -1,0 +1,1 @@
+lar[18546]=`<b>ἄ·χρονος, ος, ον :<br>      1</b> sans durée déterminée, éternel, NONN. <i>D. 1, 172</i> ; SEXT. <i>M. 10, 225</i>.<br><b>      2</b> qui ne dure qu’un instant, PLUT. <i>M. 908c</i>.<p><b>Étym</b>. ἀ, χρόνος.`

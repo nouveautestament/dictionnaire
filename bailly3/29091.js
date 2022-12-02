@@ -1,0 +1,1 @@
+lar[29091]=`<b>δωδεκά·λινος, ος, ον</b> <font color="purple">[ᾰῐ]</font> à douze fils (de lin) XÉN. <i>Cyn. 2, 5</i>.<p><b>Étym</b>. δ. λίνον.`

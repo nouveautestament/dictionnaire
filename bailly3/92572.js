@@ -1,0 +1,1 @@
+lar[92572]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> de Stésichore, PLUT. <i>M. 1135d</i>.<p><b>Étym</b>. Στησίχορος.`

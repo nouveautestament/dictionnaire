@@ -1,0 +1,1 @@
+lar[79708]=`<i>adv</i>., par un long circuit, <i>fig</i>. PLUT. <i>M. 537d</i>.<p><b>Étym</b>. περιοδεύω.`

@@ -1,0 +1,1 @@
+lar[34606]=`<b>ἑνί·γυιος, ος, ον</b>, <i>au pl</i>. qui n’ont, en plusieurs, qu’un corps, IBYC. <i>15</i>.<p><b>Étym</b>. εἷς, γυῖον.`

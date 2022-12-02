@@ -1,0 +1,1 @@
+lar[18862]=`<b>ων (οἱ)</b> = <i>lat</i>. Vaccæi, les Vaccées, <i>pple d’Espagne,</i> PLUT. EL.`

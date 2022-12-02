@@ -1,0 +1,1 @@
+lar[32650]=`<b>ου</b>, <i>adj. m</i>. habitant des fourrés, CALL. <i>104 (Bgk, Anth. lyr. p. 133).</i><p><b>Étym</b>. ἕλος.`

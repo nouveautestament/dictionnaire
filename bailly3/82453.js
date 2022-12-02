@@ -1,0 +1,1 @@
+lar[82453]=`<b>πολυ·τίμητος, ος, ον</b> <font color="purple">[ῠῑ]</font><br><b>      1</b> très honoré, AR. <i>Ach. 807, Vesp. 1001, etc. ; par moquerie amicale,</i> PLAT. <i>Euthyd. 396d.</i><br><b>      2</b> très estimé, précieux, EPICH. <i>fr. 48 Ahrens</i> ; AR. <i>Ach. 759 ; fr. 344, 9 Dind</i>.<p>➳ <i>Fém</i>. -η, AR. <i>Pax 978</i>.<p><b>Étym</b>. π. τιμάω.`

@@ -1,0 +1,1 @@
+lar[29731]=`<b>ατος (τὸ)</b> irritation profonde, indignation, SPT. <i>Jer. 31, 39</i>.<p><b>Étym</b>. ἐγκοτέω.`

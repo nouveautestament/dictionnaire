@@ -1,0 +1,1 @@
+lar[30430]=`<b>οῦ (ὁ) :<br>      1</b> tanière, <i>particul</i>. trou de serpents (retraite où s’enroule l’animal) THCR. <i>Idyl. 15, 8, conj.</i><br><b>      2</b> sorte de vigne qui s’enroule, ATH. <i>31b.</i><br><b>      3</b> colique violente qui fait qu’on se tord, iléus, HPC. <i>Aph. 1248</i>.<p><b>Étym</b>. εἴλω.`

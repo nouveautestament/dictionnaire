@@ -1,0 +1,1 @@
+lar[12206]=`<b>ἀπο·γνωσιμαχέω</b> <font color="purple">[ῐᾰ]</font> désespérer de, <i>acc</i>. HPC. <i>Ep. 1292, 50</i>.`

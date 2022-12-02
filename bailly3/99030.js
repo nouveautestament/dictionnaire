@@ -1,0 +1,1 @@
+lar[99030]=`<i>ou</i> <b>Τηρέας (ὁ)</b> Tèrias <i>ou</i> Tèréas, <i>petit fl. sur la côte est de Sicile,</i> THC. <i>6, 50, 94</i>.`

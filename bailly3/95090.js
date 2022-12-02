@@ -1,0 +1,1 @@
+lar[95090]=`<b>συν·διάγω</b> <font color="purple">[ᾰ]</font> (<i>s.-e</i>. τὸν βίον) passer sa vie avec : τινί, ARSTT. <i>Nic. 9, 4, 5</i> ; μετά τινος, ARSTT. <i>Nic. 8, 5, 3,</i> avec qqn ; <i>abs</i>. ARSTT. <i>Rhet. 2, 4, 12 ; fig</i>. σ. ἐπιθυμίαις, PLUT. <i>M. 993c</i>, vivre avec des désirs.`

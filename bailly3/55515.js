@@ -1,0 +1,1 @@
+lar[55515]=`<b>κινητιάω-ῶ</b> <font color="purple">[κῑ]</font> <i>c</i>. κινέω, PLAT. COM. (ATH. <i>442a</i>).`

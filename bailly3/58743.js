@@ -1,0 +1,1 @@
+lar[58743]=`<b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> de chien, AR. <i>Vesp. 231, etc.</i><br><b>      2</b> qui vit comme un chien, <i>d’où</i> cynique, DC.<br><b>      3</b> <i>p. ext</i>. vil, misérable, <i>d’où</i> répugnant, effrayant, AR. <i>Vesp. 898</i>.<p><b>Étym</b>. κύων.`

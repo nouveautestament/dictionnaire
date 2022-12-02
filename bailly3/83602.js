@@ -1,0 +1,1 @@
+lar[83602]=`<b>προ·ανίστημι</b>, élever en avant, JOS. <i>B.J. 3, 7, 10</i>.<br><b><i>Moy.</i></b> :<br><b>      1 <i>tr.</i></b> élever devant, <i>rég. ind. au gén</i>. JOS. <i>B.J. 5, 3, 2</i>.<br><b>      2 <i>intr.</i></b> se lever le premier, STRATT. (<i>Com. fr. 2, 788</i>).`

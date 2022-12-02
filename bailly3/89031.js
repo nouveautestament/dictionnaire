@@ -1,0 +1,1 @@
+lar[89031]=`<i>par élis. pour</i> σέ, <i>rar. pour</i> σοί, IL. <i>1, 171, et p.-ê. 21, 122</i> ; τὰ σ', <i>par élis. pour</i> τὰ σά, IL. <i>6, 490</i> ; OD. <i>1, 356, etc</i>.`

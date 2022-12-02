@@ -1,0 +1,1 @@
+lar[56147]=`<b>ατος (τὸ)</b> Klysma, <i>port sur la mer Rouge, près d’Arsinoé,</i> LUC. <i>Alex. 44</i>.<p><b>Étym</b>. <i>v</i>. κλύσμα.`

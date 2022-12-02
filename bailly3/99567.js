@@ -1,0 +1,1 @@
+lar[99567]=`<b>τονθολυγέω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. τονθορύζω, PHÉRÉCR. (ATH. <i>268f</i>).`

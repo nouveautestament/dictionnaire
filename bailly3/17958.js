@@ -1,0 +1,1 @@
+lar[17958]=`<b>ἀ·φενάκιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> non trompé, PHIL. <i>1, 564</i>.<p><b>Étym</b>. ἀ, φενακίζω.`

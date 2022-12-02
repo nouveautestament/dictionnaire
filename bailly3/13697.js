@@ -1,0 +1,1 @@
+lar[13697]=`<b>ἀπ·ουρέω-ῶ</b>, rejeter en urinant, LUC. <i>V.H. 1, 3</i> ; ARÉT. <i>p. 51, 48, etc</i>.`

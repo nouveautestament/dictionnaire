@@ -1,0 +1,1 @@
+lar[16234]=`<b>ἀ·στόμιος, ος, ον</b>, sans mors, sans frein, NONN. <i>D. 7, 244</i>.<p><b>Étym</b>. ἀ, στόμιον.`

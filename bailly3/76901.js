@@ -1,0 +1,1 @@
+lar[76901]=`<b>ου (ὁ)</b> Parthénios :<br><b>      1</b> <i>fl. de Paphlagonie (auj</i>. Bartın) IL. <i>2, 854</i> ; HDT. <i>2, 104</i> ; XÉN. <i>An. 5, 6, 9, etc.</i><br><b>      2</b> <i>poète,</i> LUC. <i>H. conscr. 57</i>.`

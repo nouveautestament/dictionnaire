@@ -1,0 +1,1 @@
+lar[98493]=`<b>α, ον</b>, d’un quart, <i>particul</i>. d’un quart d’obole, MATH.<p><b>Étym</b>. τεταρτημόριος.`

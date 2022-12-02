@@ -1,0 +1,1 @@
+lar[75428]=`<b>παρα·βώμιος, ος, ον</b>, voisin de l’autel, LUC. <i>Syr. 42</i> ; PHIL. <i>2, 484</i>.<p><b>Étym</b>. π. βωμός.`

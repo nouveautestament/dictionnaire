@@ -1,0 +1,1 @@
+lar[7026]=`<b>ας</b>, <i>ion</i>. <b>ἀνακτορίη, ης (ἡ) :<br>      1</b> action de diriger (un cheval) HH. <i>Ap. 234</i>.<br><b>      2</b> <i>fig</i>. souveraineté, A.RH. <i>1, 839</i> ; ORPH. <i>Arg. 820</i> ; OPP. <i>H. 2, 684 etc</i>.<p><b>Étym</b>. ἀνάκτωρ.`

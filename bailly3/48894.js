@@ -1,0 +1,1 @@
+lar[48894]=`<b>ἱλεόω-ῶ</b> <font color="purple">[ῑ]</font> (<i>seul. sbj. ao</i>. ἱλεώσητε, EL. <i>fr. 47, 16) ; moy. plus us</i>. <b>ἱλεόομαι-εοῦμαι</b>, PLAT. <i>Leg. 804b ;</i> LUC. <i>Salt. 17</i> <font color="darkgreen">(<i>f</i>. ἱλεώσομαι, Ps.-CALLISTH. <i>1, 6 ; ao</i>. ἱλεωσάμην, DC. <i>59, 27</i>)</font> <i>c</i>. ἱλέομαι.`

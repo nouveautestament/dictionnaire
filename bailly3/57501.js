@@ -1,0 +1,1 @@
+lar[57501]=`<b>κραδα·φάγος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> mangeur de figues, COM. AN. <i>fr. 61</i>.<p><b>Étym</b>. κράδη, φαγεῖν.`

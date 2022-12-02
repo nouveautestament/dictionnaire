@@ -1,0 +1,1 @@
+lar[36057]=`<b>ἐξοδάω-ῶ</b>, transmettre, vendre, EUR. <i>Cycl. 26</i>.<p><b>Étym</b>. ἔξοδος.`

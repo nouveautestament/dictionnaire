@@ -1,0 +1,1 @@
+lar[63778]=`<b>μελαγ·χολάω-ῶ</b>, avoir la bile noire, l’humeur noire, être sombre <i>ou</i> triste, AR. <i>Av. 14, Pl. 12, etc.</i> ; PLAT. <i>Phædr. 268e, etc</i>.<p><b>Étym</b>. μελάγχολος.`

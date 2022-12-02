@@ -1,0 +1,1 @@
+lar[53891]=`exercer son autorité sur <i>ou</i> contre, <i>gén</i>. NT. <i>Matth. 20, 25 ; Marc. 10, 42</i>.<p><b>Étym</b>. κατεξουσία.`

@@ -1,0 +1,1 @@
+lar[8445]=`<b>ἀν·επίκλητος, ος, ον</b>, non blâmable, sans reproche, XÉN. <i>Cyr. 2, 1, 22</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Ages. 1, 5</i>.<p><b>Étym</b>. ἀν-, ἐπικαλέω.`

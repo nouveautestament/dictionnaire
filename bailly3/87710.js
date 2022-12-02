@@ -1,0 +1,1 @@
+lar[87710]=`<b>*πύξ</b>, <i>seul. acc. sg</i>. πῦγα <font color="purple">[ῡ]</font> <i>c</i>. πυγή, ARSTT. <i>Physiogn. 6, 6</i>.`

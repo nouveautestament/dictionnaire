@@ -1,0 +1,1 @@
+lar[49147]=`<b>ου (ὁ)</b> le Jourdain (<i>auj</i>. Nahr al-Urdunn <i>ou</i> Nahar ha-Yarden) <i>fl. de Palestine,</i> NT. <i>Matth. 3, 5, etc</i>.`

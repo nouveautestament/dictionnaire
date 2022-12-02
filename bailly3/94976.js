@@ -1,0 +1,1 @@
+lar[94976]=`<b>συν·αρτύνω</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> adapter, préparer, A.RH. <i>2, 1077</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. A.RH. <i>4, 355</i>.`

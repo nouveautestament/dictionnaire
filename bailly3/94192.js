@@ -1,0 +1,1 @@
+lar[94192]=`<b>συμ·περιΐπταμαι</b>, voler ensemble tout autour, ZOS. <i>1, 57</i>.`

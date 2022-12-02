@@ -1,0 +1,1 @@
+lar[66902]=`<i>au moy</i>. μουσίζομαι, jouer sur un instrument, <i>d’où</i> chanter, faire résonner, <i>en gén</i>. EUR. <i>Cycl. 489</i>.<p>➳ <i>Seul. prés. act. dor</i>. μουσίσδω, THCR. <i>Idyl. 8, 38 ; 11, 81, et part. prés. moy</i>. μουσιζόμενος, EUR. <i>Cycl. 489</i>.<p><b>Étym</b>. μοῦσα.`

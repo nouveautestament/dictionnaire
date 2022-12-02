@@ -1,0 +1,1 @@
+lar[12698]=`<b>ἀπο·κυβιστάω-ῶ</b> <font color="purple">[ῠ]</font> se précipiter, CLÉARQ. (ATH. <i>332e</i>).`

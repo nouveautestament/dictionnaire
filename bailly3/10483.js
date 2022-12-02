@@ -1,0 +1,1 @@
+lar[10483]=`<b>εως (ἡ) :<br>      1</b> action de ranger en bataille contre, THC. <i>5, 8 ; 7, 17</i>.<br><b>      2</b> <i>p. ext</i>. résistance, DH. <i>10, 57</i> ; PLUT. <i>M. 663b</i>.<p><b>Étym</b>. ἀντιτάσσω.`

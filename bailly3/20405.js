@@ -1,0 +1,1 @@
+lar[20405]=`<b>οῦ (ὁ)</b> chant de berger, ATH. <i>619b</i>.<p><b>Étym</b>. βουκολιάζω.`

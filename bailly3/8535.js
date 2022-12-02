@@ -1,0 +1,1 @@
+lar[8535]=`<b>ἀν·έραμαι</b> <font color="darkgreen">(<i>f</i>. ἀνερασθήσομαι, <i>ao</i>. ἀνηράσθην, <i>pf. inus</i>.)</font> redevenir amoureux de, <i>gén</i>. XÉN. <i>3, 5, 7</i> ; AND. <i>16, 37</i>.<p><b>Étym</b>. ἀνά, ἔραμαι.`

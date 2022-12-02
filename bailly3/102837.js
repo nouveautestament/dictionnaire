@@ -1,0 +1,1 @@
+lar[102837]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> que l’on peut surpasser en lançant des traits, <i>fig</i>. dont on peut triompher, ESCHL. <i>Suppl. 473</i>.<p><b>Étym</b>. ὑπερτοξεύω.`

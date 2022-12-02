@@ -1,0 +1,1 @@
+lar[84170]=`<b>προ·εντείνω</b>, tendre auparavant, PHILSTR. <i>V. Ap. 4, 39</i>.`

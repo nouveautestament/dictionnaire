@@ -1,0 +1,1 @@
+lar[103561]=`<b>ὑπο·μνηστεύομαι</b>, promettre une fille en mariage, ARSTT. <i>Pol. 5, 4, 7 ; au pass</i>. ὁ ὑπομνηστευθείς, ARSTT. <i>ibid</i>. le fiancé.`

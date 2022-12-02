@@ -1,0 +1,1 @@
+lar[49840]=`<b>ας (ἡ)</b> travail de la toile, CLÉM. <i>1, 593 Migne</i>.<p><b>Étym</b>. ἱστοπόνος.`

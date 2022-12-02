@@ -1,0 +1,1 @@
+lar[109247]=`<b>χρυσό·πτερος, ος, ον</b> <font color="purple">[ῡ]</font> aux ailes d’or, <i>ép. d’Iris,</i> IL. <i>8, 398 ; 11, 185, etc.</i> ; HH. <i>Cer. 315</i>.<p><b>Étym</b>. χρ. πτερόν.`

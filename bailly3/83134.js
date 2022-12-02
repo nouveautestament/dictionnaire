@@ -1,0 +1,1 @@
+lar[83134]=`<b>ου (ὁ)</b> = <i>lat</i>. Publicius, <i>n. d’h. rom</i>. PLUT. <i>Marc. 27</i>.`

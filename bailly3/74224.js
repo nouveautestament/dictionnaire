@@ -1,0 +1,1 @@
+lar[74224]=`<b>ης, ες</b>, qui se fait par jeu, XÉN. <i>Conv. 2, 26</i> ; PLUT. <i>Ages. 2</i> ; τὸ παιγνιῶδες, XÉN. <i>Hell. 2, 3, 56,</i> enjouement.<p>•<i> Cp</i>. -έστερος, XÉN. <i>Conv. 2, 26</i>.<p><b>Étym</b>. παίγνιος, -ωδης.`

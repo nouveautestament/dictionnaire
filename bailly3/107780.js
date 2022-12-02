@@ -1,0 +1,1 @@
+lar[107780]=`<b>χαμαι·μυρσίνη, ης (ἡ)</b> <i>seul. lat</i>. chamæmyrsine, myrte nain <i>ou</i> sauvage, <i>arbrisseau,</i> PLIN. <i>H.N. 22, 26</i>.`

@@ -1,0 +1,1 @@
+lar[18173]=`<b>ἀφ·ομαρτέω-ῶ</b>, s’éloigner de ses compagnons, ORPH. <i>Arg. 646, dout</i>.<p><b>Étym</b>. ἀπό, ὁμ.`

@@ -1,0 +1,1 @@
+lar[104858]=`<b>ή, όν</b>, visible, ORPH. (EM. <i>787, 29).</i><p><b>Étym</b>. <i>vb. de</i> φαίνω.`

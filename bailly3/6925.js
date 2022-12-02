@@ -1,0 +1,1 @@
+lar[6925]=`<b>εως (ἡ)</b> proclamation, JOS. <i>c. Ap. 2, 30</i> ; NYSS. <i>3, 933 Migne</i>.<p><b>Étym</b>. ἀνακηρύσσω.`

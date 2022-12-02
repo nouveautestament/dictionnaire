@@ -1,0 +1,1 @@
+lar[95904]=`<b>συν·ήρης, ης, ες :<br>      1</b> uni l’un à l’autre, commun à plusieurs, NIC. <i>Al. 512</i>.<br><b>      2</b> <i>c</i>. συνηρεφής, NIC. <i>Th. 69</i>.<p><b>Étym</b>. σύν, *ἄρω.`

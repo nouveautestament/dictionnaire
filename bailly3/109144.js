@@ -1,0 +1,1 @@
+lar[109144]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Khrysilla, <i>f</i>. ANTH. <i>5, 3 et 253, etc</i>.<p><b>Étym</b>. χρυσός.`

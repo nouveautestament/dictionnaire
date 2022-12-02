@@ -1,0 +1,1 @@
+lar[53879]=`<b>κατ·ενιαύσιος, ου (ὁ)</b> <i>propr</i>. l’annuel, <i>n. d’un magistrat de Géla, en Sicile,</i> DÉM. <i>255, 20</i>.<p><b>Étym</b>. κ. ἐνιαυτός.`

@@ -1,0 +1,1 @@
+lar[60020]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> propre à la culture des légumes, JUL. <i>329d</i>.<p><b>Étym</b>. λάχανον.`

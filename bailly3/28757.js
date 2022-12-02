@@ -1,0 +1,1 @@
+lar[28757]=`<b>δυσ·παράβουλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à persuader, opiniâtre, ESCHL. <i>Suppl. 109</i>.<p><b>Étym</b>. δ. παράβουλος.`

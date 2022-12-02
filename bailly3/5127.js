@@ -1,0 +1,1 @@
+lar[5127]=`<b>ου (ὁ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> qui a la figure d’un renard, LUC. <i>Pisc. 47</i>.<br><b>      2</b> renard de mer (<i>Alopias vulpinus</i> Bn.) <i>poisson,</i> ARSTT. <i>fr. 293</i> ; OPP. <i>H. 1, 381</i> ; ATH. <i>294d</i>.<p><b>Étym</b>. ἀλώπηξ.`

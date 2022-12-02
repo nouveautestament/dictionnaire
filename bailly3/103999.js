@@ -1,0 +1,1 @@
+lar[103999]=`<b>ὑπο·τίτθιος, ος, ον</b>, qui est encore à la mamelle : τὸ ὑποτίτθιον, SPT. <i>Hos. 14, 1</i> ; ATH. <i>46e</i>, enfant encore à la mamelle.<p><b>Étym</b>. ὑ. τιτθός.`

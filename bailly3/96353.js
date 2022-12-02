@@ -1,0 +1,1 @@
+lar[96353]=`<b>συντονο·λυδιστί</b> <font color="purple">[λῡ]</font> <i>adv</i>., sur le mode lydien renforcé, PLAT. <i>Rsp. 398e</i>.<p><b>Étym</b>. σύντονος, λυδιστί.`

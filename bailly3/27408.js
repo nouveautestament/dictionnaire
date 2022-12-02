@@ -1,0 +1,1 @@
+lar[27408]=`<b>έων</b>, <i>acc</i>. <b>-έας (οἱ)</b> <font color="purple">[ῐ]</font> <i>c</i>. Δολίονες, ORPH. <i>Arg. 504</i>.`

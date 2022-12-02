@@ -1,0 +1,1 @@
+lar[93893]=`<b>συμ·βούλομαι</b>, vouloir ensemble <i>ou</i> avec : τινι, PLAT. <i>Crat. 414e, Lach. 189a</i>, avec qqn ; σ. τινὶ θανεῖν, EUR. <i>Hec. 373,</i> consentir à la mort de qqn ; <i>abs</i>. consentir, PLAT. <i>Leg. 718b, Euthyd. 298b</i>.`

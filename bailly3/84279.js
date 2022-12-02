@@ -1,0 +1,1 @@
+lar[84279]=`<b>προ·ευαγγελίζομαι</b>, annoncer d’avance une bonne nouvelle, NT. <i>Gal. 3, 8</i> ; PHIL. <i>1, 7</i>.`

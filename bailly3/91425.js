@@ -1,0 +1,1 @@
+lar[91425]=`<b>σκωριο·ειδής, ής, ές</b>, qui ressemble à des scories, DIOSC. <i>5, 100</i>.<p><b>Étym</b>. σκωρία, εἶδος.`

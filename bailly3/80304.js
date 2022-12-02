@@ -1,0 +1,1 @@
+lar[80304]=`<b>ου (ὁ)</b> <font color="purple">[πῑ]</font> <i>c</i>. πιλίδιον, DIOSC. <i>3, 4</i>.`

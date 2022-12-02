@@ -1,0 +1,1 @@
+lar[77452]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Paphos, AR. <i>Lys. 556 ; abs</i>. ἡ Παφίη (<i>ion</i>.) ANTH. <i>5, 31, etc</i>. la déesse de Paphos, <i>càd</i>. Aphrodite, <i>à cause de son temple à Paphos</i>.<p><b>Étym</b>. Πάφος.`

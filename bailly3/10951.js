@@ -1,0 +1,1 @@
+lar[10951]=`<b>ἀξιο·τίμητος, ος, ον</b> <font color="purple">[τῑ]</font> digne d’être honoré, PHIL. <i>1, 461</i>.<p><b>Étym</b>. ἄ. τιμάω.`

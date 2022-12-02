@@ -1,0 +1,1 @@
+lar[42523]=`<b>εὐ·κρόταλος</b>, <i>seul. poét</i>. <b>ἐϋ·κρόταλος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> avec accompagnement de castagnettes, ANTH. <i>9, 139</i>.<br><b>      2</b> <i>en gén</i>. au bruit sec, ANTH. <i>6, 309</i>.<p><b>Étym</b>. εὖ, -κρόταλος.`

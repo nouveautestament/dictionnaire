@@ -1,0 +1,1 @@
+lar[78082]=`<b>πεντε·και·δέκατος, η, ον</b> <font color="purple">[ᾰ]</font> quinzième, DS. <i>12, 81</i>.<p><b>Étym</b>. π. κ. δέκατος.`

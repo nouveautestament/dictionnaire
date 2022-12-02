@@ -1,0 +1,1 @@
+lar[85650]=`<b>προσ·επεξηγέομαι-οῦμαι</b>, exposer <i>ou</i> expliquer en outre, CLÉM. <i>302</i>.`

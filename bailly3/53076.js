@@ -1,0 +1,1 @@
+lar[53076]=`<i>vb. de</i> καταπιστεύω, SOR. <i>Obst. p. 28 Dietz</i>.`

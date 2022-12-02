@@ -1,0 +1,1 @@
+lar[96140]=`<b>συν·οικουρός, ός, όν</b>, qui garde la maison avec, qui vit avec <i>gén</i>. EUR. <i>Hipp. 1069, dout</i>.<p><b>Étym</b>. σύν, οἰκουρός.`

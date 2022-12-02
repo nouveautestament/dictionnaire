@@ -1,0 +1,1 @@
+lar[26377]=`<i>adv</i>., par erreur, CLÉM. <i>2, 608d Migne</i>.<p><b>Étym</b>. διαμαρτάνω.`

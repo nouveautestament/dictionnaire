@@ -1,0 +1,1 @@
+lar[17253]=`<b>αὐξί·κερως</b>, <i>gén</i>. <b>-ω (ὁ, ἡ)</b> dont les cornes poussent encore, <i>càd</i>. jeune, vigoureux, ARCHIPP. (ATH. <i>656b</i>) <i>conj</i>.<p><b>Étym</b>. αὔξω, κέρας.`

@@ -1,0 +1,1 @@
+lar[28618]=`<b>δυσ·κύμαντος, ος, ον</b> <font color="purple">[κῡ]</font> qui provient de l’agitation des flots, ESCHL. <i>Ag. 653</i>.<p><b>Étym</b>. δ. κυμαίνω.`

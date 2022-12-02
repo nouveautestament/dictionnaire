@@ -1,0 +1,1 @@
+lar[14857]=`<b>ἁρμασί·δουπος, ος, ον</b> <font color="purple">[μᾰῐ]</font> qui retentit du bruit des chars, PD. (EUST. <i>Op. 56, 18).</i><p><b>Étym</b>. ἅρμα, δοῦπος.`

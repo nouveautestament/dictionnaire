@@ -1,0 +1,1 @@
+lar[28990]=`<b>ης (ἡ)</b> (<i>seul. gén. pl. épq</i>. -άων) chagrin, inquiétude, HÉS. <i>Th. 528</i> ; SIM. (ATH. <i>447a</i>).<p><b>Étym</b>. δύσφρων.`

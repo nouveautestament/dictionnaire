@@ -1,0 +1,1 @@
+lar[107309]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> soin <i>ou</i> culture des plantes, OPP. <i>H. 1, 309 ; C. 4, 331</i> ; ES. <i>191 b Halm ; au pl</i>. NONN. <i>D. 47, 72</i>.<p><b>Étym</b>. φυτηκόμος.`

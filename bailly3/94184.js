@@ -1,0 +1,1 @@
+lar[94184]=`<b>συμ·περιειλέω-ῶ</b>, enrouler tout autour, ORIB. <i>170 Mai</i>.`

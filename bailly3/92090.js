@@ -1,0 +1,1 @@
+lar[92090]=`avoir ses quartiers <i>ou</i> camper, APP. <i>Mithr. 28, Pun. 99</i>.<p><b>Étym</b>. σταθμός.`

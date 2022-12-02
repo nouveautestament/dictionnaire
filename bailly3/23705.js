@@ -1,0 +1,1 @@
+lar[23705]=`<b>δεκά·στεγος, ος, ον</b>, à dix toits, <i>càd</i>. à dix étages (tour), STR. <i>730</i>.<p><b>Étym</b>. δ. στέγη.`

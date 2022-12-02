@@ -1,0 +1,1 @@
+lar[104641]=`<b>ητος (ἡ)</b> doux éclat (des yeux, <i>etc.), d’où</i> joie, gaieté, ISOCR. <i>Antid. § 141</i> ; PLUT. <i>M. 595d</i>.<p><b>Étym</b>. φαιδρός.`

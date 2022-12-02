@@ -1,0 +1,1 @@
+lar[101062]=`<b>(ὁ)</b> Tynnôndas, <i>h</i>. PLUT. <i>Sol. 14</i>.`

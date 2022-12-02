@@ -1,0 +1,1 @@
+lar[98620]=`<b>τετρά·οδος, ου (ἡ)</b> croisement de quatre chemins, carrefour formé par le croisement de deux rues, ORACL. (PAUS. <i>8, 9, 4).</i><p><b>Étym</b>. τ. ὁδός.`

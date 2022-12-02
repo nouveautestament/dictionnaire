@@ -1,0 +1,1 @@
+lar[97693]=`<b>ου (ὁ)</b> = <i>lat</i>. Tarquinius, <i>n. d’h. rom</i>. PLUT. <i>Lyc. c. Num. 3 ; Popl. 1, etc.</i> ; οἱ Ταρκύνιοι, PLUT. <i>Æmil. 25, Brut. 1,</i> la famille des Tarquins.`

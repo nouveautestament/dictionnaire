@@ -1,0 +1,1 @@
+lar[33878]=`<b>ἔν·αντα</b> <font color="purple">[τᾰ]</font> <i>adv. et prép</i>. en face, PD. <i>N. 10, 66</i> ; SOPH. <i>Ant. 1299</i> ; EUR. <i>Or. 1478</i> ; ἔν. τινος, IL. <i>20, 67,</i> en face de qqn.<p><b>Étym</b>. ἐν, ἀντί.`

@@ -1,0 +1,1 @@
+lar[79676]=`<b>περι·χλιαίνω</b> <font color="darkgreen">(<i>ao</i>. περιεχλίανα <font color="purple">[ᾰν]</font>)</font> faire tiédir tout autour, GAL. <i>14, 519</i>.`

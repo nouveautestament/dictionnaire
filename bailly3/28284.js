@@ -1,0 +1,1 @@
+lar[28284]=`<b>δύσ·δαμαρ, αρτος</b> <font color="purple">[δᾰ]</font> <i>adj. m</i>. malheureux par sa femme, ESCHL. <i>Ag. 1319</i>.<p><b>Étym</b>. δ. δάμαρ.`

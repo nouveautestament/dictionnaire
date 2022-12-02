@@ -1,0 +1,1 @@
+lar[11461]=`<b>ἀπ·αυαίνω</b>, <i>att</i>. <b>ἀφ·αυαίνω</b>, dessécher entièrement, TH. <i>C.P. 3, 10, 7</i> (ἀφαυ-) ; <i>au pass</i>. Q. SM. <i>1, 66 (impf. poét</i>. ἀπαυαινόμην).<p><b>Étym</b>. ἀ. αὐαίνω, <i>att</i>. αὑαίνω.`

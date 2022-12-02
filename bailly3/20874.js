@@ -1,0 +1,1 @@
+lar[20874]=`<b>βροτο·φεγγής, ής, ές</b>, qui éclaire les mortels, ANTH. <i>9, 399</i>.<p><b>Étym</b>. βρ. φέγγος.`

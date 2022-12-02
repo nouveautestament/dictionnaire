@@ -1,0 +1,1 @@
+lar[55468]=`<b>ου (ἡ)</b> Kimpsos :<br><b>      1</b> <i>fl. de Lydie,</i> NONN. <i>D. 14, 465</i>.<br><b>      2</b> <i>bourg de Lydie,</i> LYC. <i>1352</i>.`

@@ -1,0 +1,1 @@
+lar[8957]=`<b>ἀνθρωπό·κτονος, ος, ον</b>, qui consiste en êtres humains tués (<i>nourriture</i>) EUR. <i>Cycl. 127</i>.<p><b>Étym</b>. ἄ. κτείνω.`

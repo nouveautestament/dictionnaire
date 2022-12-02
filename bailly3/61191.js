@@ -1,0 +1,1 @@
+lar[61191]=`<b>Λιμο·δωριεῖς, έων (οἱ)</b> <font color="purple">[ῑ]</font> les Doriens affamés, <i>càd</i>. poussés par la faim à émigrer, PLUT. <i>Prov. 34</i>.<p><b>Étym</b>. λιμός, Δωριεύς.`

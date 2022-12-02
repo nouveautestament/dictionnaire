@@ -1,0 +1,1 @@
+lar[552]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> la fille d’Agènôr (Ino) OPP. <i>C. 4, 257</i>.<p><b>Étym</b>. Ἀγήνωρ.`

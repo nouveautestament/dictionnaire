@@ -1,0 +1,1 @@
+lar[76625]=`<b>παρ·εκπροφεύγω</b> <font color="darkgreen">(<i>ao.2 sbj. 3 sg. épq</i>. παρεκπροφύγῃσιν)</font> fuir en passant à côté <i>ou</i> au delà de, <i>acc</i>. IL. <i>23, 314</i>.`

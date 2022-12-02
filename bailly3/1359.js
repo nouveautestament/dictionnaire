@@ -1,0 +1,1 @@
+lar[1359]=`<b>ἀ·διασκέπτως</b>, <i>adv</i>., sans examen, EN. TACT. <i>Pol. 20, 5</i>.<p><b>Étym</b>. ἀ, διασκέπτομαι.`

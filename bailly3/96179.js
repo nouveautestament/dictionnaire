@@ -1,0 +1,1 @@
+lar[96179]=`<b>ας (ἡ)</b> convention, accord, PLAT. <i>Soph. 252a, Leg. 966a</i>.<p><b>Étym</b>. συνομολόγος.`

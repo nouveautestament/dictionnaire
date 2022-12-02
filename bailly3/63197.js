@@ -1,0 +1,1 @@
+lar[63197]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> couteau, NIC. <i>Th. 706</i>.`

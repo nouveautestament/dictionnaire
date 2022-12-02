@@ -1,0 +1,1 @@
+lar[68777]=`<b>Νικό·μαχος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Nikomakhos, <i>h</i>. PD. <i>I. 2, 22</i> ; THC. <i>4, 89</i> ; XÉN. <i>An. 4, 6, 20</i>.<p><b>Étym</b>. νικάω, μάχη.`

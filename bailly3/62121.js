@@ -1,0 +1,1 @@
+lar[62121]=`<b>ας (ἡ)</b> chandelier <i>ou</i> lampe, PLUT. <i>Dio. 9</i> ; LUC. <i>As. 40, etc</i>.<p><b>Étym</b>. λύχνος.`

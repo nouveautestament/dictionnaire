@@ -1,0 +1,1 @@
+lar[104461]=`<b>ης (ἡ)</b> <font color="purple">[σῠ]</font> caractère hautain, orgueil, ORIG.<p><b>Étym</b>. ὑψηλόφρων.`

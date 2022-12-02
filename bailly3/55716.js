@@ -1,0 +1,1 @@
+lar[55716]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> criard, ANTH. <i>6, 109</i>.<p><b>Étym</b>. κλάζω.`

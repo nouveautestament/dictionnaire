@@ -1,0 +1,1 @@
+lar[35173]=`<b>ου (ὁ)</b> <i>s.-e</i>. ἄνεμος, vent accompagné de pluie, CALL. <i>fr. 39</i>.<p><b>Étym</b>. ἔνυδρος.`

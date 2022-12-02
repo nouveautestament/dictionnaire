@@ -1,0 +1,1 @@
+lar[5938]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῡ]</font> Amynias, <i>h</i>. AR. <i>Nub. 31, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀμυνίας.`

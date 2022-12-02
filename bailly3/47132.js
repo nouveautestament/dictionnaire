@@ -1,0 +1,1 @@
+lar[47132]=`<b>εως (ἡ)</b> action de diviniser, EUM. <i>p. 110</i> ; NAZ. <i>1, 1221b Migne</i>.<p><b>Étym</b>. θεόω.`

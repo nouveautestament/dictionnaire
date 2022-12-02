@@ -1,0 +1,1 @@
+lar[44523]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> jalousie, <i>joint à</i> φθόνος, PLUT. <i>Per. 10 ; à côté de</i> φθόνος, LUC. <i>Cal. 2</i>, πρός τινα διά τινα, PLUT. <i>M. 276b</i>, à l’égard d’une personne au sujet d’une autre ; πρός τινα ὑπέρ τινος, ESCHN. <i>65, 16</i>, à l’égard de qqn au sujet de qqe ch.<p><b>Étym</b>. ζηλότυπος.`

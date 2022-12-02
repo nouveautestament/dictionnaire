@@ -1,0 +1,1 @@
+lar[33828]=`<b>ἐν·ακμάζω</b>, être dans sa fleur, dans sa force, dans toute sa vigueur, <i>en parl. de fleurs,</i> EL. <i>V.H. 3, 1, etc., de feu,</i> EL. <i>N.A. 2, 8, etc</i>.`

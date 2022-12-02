@@ -1,0 +1,1 @@
+lar[71440]=`<b>ὁμό·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> époux de la même femme, EUR. <i>H.f. 339</i>.<br><b>      2</b> ὁμόγαμοι, ων (οἱ) beaux-frères, maris de deux sœurs, EUR. <i>Ph. 137</i>.<p><b>Étym</b>. ὁμ. γάμος.`

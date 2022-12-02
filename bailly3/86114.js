@@ -1,0 +1,1 @@
+lar[86114]=`<b>εως (ἡ)</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> assiduité, persévérance, ORIB. <i>98 Matthäi</i>.<br><b>      2</b> insistance, LUC. <i>Cal. 20</i>.<p><b>Étym</b>. προσλιπαρέω.`

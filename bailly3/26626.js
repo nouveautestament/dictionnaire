@@ -1,0 +1,1 @@
+lar[26626]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> répétition, redite, XÉN. <i>Hipp. 8, 2</i> ; D. PHAL. <i>103, 217, 218</i>.<p><b>Étym</b>. δίλογος.`

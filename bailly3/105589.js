@@ -1,0 +1,1 @@
+lar[105589]=`<b>φιλεχθρέω-ῶ</b> <font color="purple">[ῐ]</font> aimer l’inimitié, avoir l’âme haineuse, SPT. <i>Prov. 3, 30</i> ; PROCL. <i>Ptol. p. 171</i>.<p><b>Étym</b>. φίλεχθρος.`

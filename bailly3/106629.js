@@ -1,0 +1,1 @@
+lar[106629]=`<b>ακος (ὁ, ἡ)</b> Phonax, <i>litt</i>. « le tueur », <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. πεφνεῖν.`

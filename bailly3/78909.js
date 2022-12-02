@@ -1,0 +1,1 @@
+lar[78909]=`<b>περι·μαρμαίρω</b>, resplendir tout autour, Q. SM. <i>5, 114</i>.`

@@ -1,0 +1,1 @@
+lar[99287]=`<b>ας</b> <font color="purple">[ῐ]</font> <i>adj. f</i>. qui ébranle, <i>gén</i>. ESCHL. <i>Pr. 924</i>.<p><b>Étym</b>. τινάσσω.`

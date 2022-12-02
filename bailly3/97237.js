@@ -1,0 +1,1 @@
+lar[97237]=`<b>(ἡ)</b> <i>seul. au plur</i>. σῶδες, ων (αἱ) sorte d’oiseau chanteur, OPP. <i>Ix. 3, 2</i>.`

@@ -1,0 +1,1 @@
+lar[30149]=`<b>ἐθελο·θρησκεία, ας (ἡ)</b> religion qu’on se crée à soi-même, superstition, NT. <i>Col. 2, 23</i>.<p><b>Étym</b>. ἐθέλω, θρησκεία.`

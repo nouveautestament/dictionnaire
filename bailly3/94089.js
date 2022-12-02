@@ -1,0 +1,1 @@
+lar[94089]=`<b>συμ·παραπήγνυμι</b> (<i>seul. pf. intr</i>. -πέπηγα) être fixé en outre ensemble, RHÉT. <i>6, 59 W</i>.`

@@ -1,0 +1,1 @@
+lar[104600]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. φάγημα, GEOP.`

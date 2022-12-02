@@ -1,0 +1,1 @@
+lar[81694]=`<b>πολυ·αλδής, ής, ές</b>, qui nourrit abondamment, Q. SM. <i>2, 658</i>.<p><b>Étym</b>. π. ἀλδαίνω.`

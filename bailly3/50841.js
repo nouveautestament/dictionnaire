@@ -1,0 +1,1 @@
+lar[50841]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> langage grossier <i>ou</i> honteux, POL. <i>8, 12, 3</i>.<p><b>Étym</b>. κακορρήμων.`

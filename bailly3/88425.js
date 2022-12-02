@@ -1,0 +1,1 @@
+lar[88425]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m. c</i>. ῥηγματώδης qui a qqe fracture <i>ou</i> qqe vaisseau rompu, DIOSC. <i>3, 163</i>.<p><b>Étym</b>. ῥῆγμα.`

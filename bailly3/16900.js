@@ -1,0 +1,1 @@
+lar[16900]=`<b>ος, ον</b>, insatiable de, <i>gén. ; seul. en mauv. part</i> (de guerre, IL. <i>5, 388, 863 ; 6, 203 ; 13, 746</i> ; de combat, IL. <i>22, 218</i> ; de ruses, <i>etc</i>. IL. <i>11, 430</i> ; OD. <i>13, 293).</i><p><b>Étym</b>. <i>contract. de</i> ἄατος.`

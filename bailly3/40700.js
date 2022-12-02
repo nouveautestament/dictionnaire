@@ -1,0 +1,1 @@
+lar[40700]=`<b>υος (ὁ)</b> <font color="purple">[ῡ]</font> Herpys, <i>Thébain,</i> HDT. <i>9, 38</i>.`

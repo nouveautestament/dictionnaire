@@ -1,0 +1,1 @@
+lar[63322]=`<b>μεγαληγορέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>   I</b> parler de grandes choses, POLÉM. <i>1, 45</i>.<br><b>   II</b> <i>plus souv.</i> :<br><b>      1 <i>tr.</i></b> parler en termes magnifiques de, vanter, <i>acc</i>. HDN <i>3, 9</i>.<br><b>      2 <i>intr.</i></b> se vanter, XÉN. <i>An. 6, 3, 18 ; Cyr. 4, 4, 2, etc</i>.<p><b>Étym</b>. μεγαληγόρος.`

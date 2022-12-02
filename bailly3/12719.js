@@ -1,0 +1,1 @@
+lar[12719]=`<b>ἀπο·λακτίζω</b>, <i>f</i>. ίσω, <i>att</i>. ιῶ :<br><b>      1 <i>intr.</i></b> regimber, ruer : ἀμφοτέροις, LUC. <i>As. 18,</i> des deux jambes.<br><b>      2</b> <i>tr. fig</i>. repousser avec dédain, repousser, <i>acc</i>. ESCHL. <i>Pr. 651, Eum. 141</i> ; PLUT. <i>Ant. 36</i>.`

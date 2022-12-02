@@ -1,0 +1,1 @@
+lar[66119]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> Mitylène (<i>auj</i>. Mytilíni) <i>v. de Lesbos,</i> STR. <i>440</i> ; PLUT. <i>Pomp. 42, etc</i>.<p>➳ <i>Dor</i>. Μιτυλάνα <font color="purple">[ᾱᾱ]</font> THCR. <i>Idyl. 7, 52 et 61</i> ; ANTH. <i>7, 81, etc</i>.`

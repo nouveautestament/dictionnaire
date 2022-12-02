@@ -1,0 +1,1 @@
+lar[68711]=`<b>*Νικ·άνδρα</b>, <i>ion</i>. <b>Νικ·άνδρη, ης (ἡ)</b> Nikandrè, <i>prêtresse de Dodone,</i> HDT. <i>2, 55</i>.<p><b>Étym</b>. <i>fém. de</i> Νίκανδρος.`

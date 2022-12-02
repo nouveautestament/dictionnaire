@@ -1,0 +1,1 @@
+lar[47386]=`<b>όνος (ὁ)</b> gâteau pour les sacrifices, <i>chez les Étoliens,</i> NIC. (ATH. <i>114c</i>).`

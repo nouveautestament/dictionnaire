@@ -1,0 +1,1 @@
+lar[40148]=`<b>ή, όν :<br>   I</b> aimable, PLAT. <i>Conv. 204c, Phædr. 250d.</i><br><b>   II</b> amoureux :<br><b>      1</b> qui éprouve de l’amour, ANTH. <i>5, 159</i> ; LUC. <i>Philops. 15</i>.<br><b>      2</b> qui marque l’amour : ἐραστὸν βλέπειν, HLD. <i>7, 10,</i> avoir un regard amoureux.<p>•<i> Cp</i>. -ότερος, ANTH. <i>12, 197</i>.<p><b>Étym</b>. <i>vb. de</i> ἐράω.`

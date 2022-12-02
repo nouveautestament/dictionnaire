@@ -1,0 +1,1 @@
+lar[32346]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> description, DH. <i>10, 17</i> ; LUC. <i>H. conscr. 20</i> ; CLÉM. <i>1, 700 Migne ; titre de poèmes descriptifs, comme celui de Christodôros dans l’Anthologie</i>.<p><b>Étym</b>. ἐκφράζω.`

@@ -1,0 +1,1 @@
+lar[91282]=`<b>έως (ὁ)</b> <font color="purple">[ῠᾰ]</font> <i>poét. c</i>. σκύλαξ, OPP. <i>C. 4, 481 (gén. sg. épq</i>. -ῆος) ; <i>4, 227</i>.<p><b>Étym</b>. <i>gén. pl. épq</i>. -ήων.`

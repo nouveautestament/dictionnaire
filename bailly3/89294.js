@@ -1,0 +1,1 @@
+lar[89294]=`<b>(ὁ)</b> Sandanis, <i>Lydien,</i> HDT. <i>1, 71</i>.`

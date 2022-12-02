@@ -1,0 +1,1 @@
+lar[97478]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ταμίας, MAN. <i>4, 580</i>.`

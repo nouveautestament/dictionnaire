@@ -1,0 +1,1 @@
+lar[58032]=`<b>ου (ὁ)</b> safran (<i>Crocus sativus</i> L.), <i>plante ou fleur,</i> IL. <i>14, 348, etc.</i> ; HH. <i>Cer. 428</i> ; ESCHL. <i>Ag. 230</i> ; SOPH. <i>O.C. 685</i> ; AR. <i>Nub. 51 ; etc. ; au plur</i>. LUC. <i>Nigr. 31 ; p. anal</i>. κρόκος ᾠοῦ, Ps.-GAL. <i>De remed. parab. 507, 5 etc</i>. jaune d’œuf.<p>➳ ἡ κρ. STR. <i>670, 671</i>.`

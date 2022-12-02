@@ -1,0 +1,1 @@
+lar[53746]=`<b>κατά·χρεος, ος, ον</b>, grevé de dettes, endetté, POL. (ATH. <i>527b</i>) ; DS. <i>19, 9</i> ; DH. <i>9, 15</i>.<p><b>Étym</b>. κ. χρέος.`

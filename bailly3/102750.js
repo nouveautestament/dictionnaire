@@ -1,0 +1,1 @@
+lar[102750]=`<b>ὑπερ·πετάννυμι</b> <font color="darkgreen">(<i>ao</i>. ὑπερεπέτασα)</font> étendre <i>ou</i> déployer sur : τι ὑπέρ τινος, DC. <i>43, 24,</i> une chose sur une autre ; <i>au pass</i>. DS. <i>4, 51</i>.`

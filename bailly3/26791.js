@@ -1,0 +1,1 @@
+lar[26791]=`<b>α, ον</b>, dont il faut <i>ou</i> dont on peut convenir, PLAT. <i>Parm. 142b ; neutre</i> διομολογητέον, PLAT. <i>Rsp. 527b</i>, il faut convenir.<p><b>Étym</b>. <i>vb. de</i> διομολογέω.`

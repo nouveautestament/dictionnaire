@@ -1,0 +1,1 @@
+lar[58486]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Quietus, <i>n. d’h. rom</i>. PLUT. <i>Qu. conv. 2, 1, 5</i>.`

@@ -1,0 +1,1 @@
+lar[106463]=`<i>adv</i>., à Phlyées, IS. <i>Or. 8, 35 Baiter-Sauppe</i>.<p><b>Étym</b>. Φλυεῖς.`

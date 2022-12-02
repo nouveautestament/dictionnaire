@@ -1,0 +1,1 @@
+lar[69046]=`<b>ου (ὁ) :<br>      1</b> vent du sud, <i>càd</i>. de la pluie, IL. <i>2, 145, 395 ; 3, 10 ; 11, 306</i> ; OD. <i>5, 295, 331</i> ; HDT. <i>2, 25, etc.</i> ; SOPH. <i>Ant. 335, etc.</i> ; ARSTT. <i>Mund. 4</i>.<br><b>      2</b> région du sud, HDT. <i>6, 139</i> ; THC. <i>3, 6</i> ; PLAT. <i>Criti. 112c, 118b</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

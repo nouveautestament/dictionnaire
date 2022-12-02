@@ -1,0 +1,1 @@
+lar[109839]=`<b>ή, όν</b> <font color="purple">[ψῑῐ]</font> qui concerne les troupes légères, DS. <i>16, 32</i> ; τὸ ψιλικόν, LUC. <i>Zeux. 8,</i> corps de troupes légères.<p><b>Étym</b>. ψιλός.`

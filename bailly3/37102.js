@@ -1,0 +1,1 @@
+lar[37102]=`<b>ἐπ·εντέλλω</b> (<i>prés. opt</i>. -έλλοις) commander en outre, SOPH. <i>Ant. 218</i>.`

@@ -1,0 +1,1 @@
+lar[45610]=`<b>ἡμί·χρηστος, ος, ον</b>, à moitié utile, à moitié bon, ARSTT. <i>Pol. 5, 11, 34</i>.<p><b>Étym</b>. ἡμι-, χρηστός.`

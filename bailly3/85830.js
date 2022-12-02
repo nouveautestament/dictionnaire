@@ -1,0 +1,1 @@
+lar[85830]=`<b>προσ·ηλιάζω</b>, exposer au soleil, GEOP. <i>6, 2, 6</i>.`

@@ -1,0 +1,1 @@
+lar[46797]=`<b>θεο·στυγής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. haï des dieux, EUR. <i>Tr. 1213, etc.</i><br><b>      2</b> haïssable à Dieu, NT. <i>Rom. 1, 30</i>.<p><b>Étym</b>. θ. στυγέω.`

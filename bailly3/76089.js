@@ -1,0 +1,1 @@
+lar[76089]=`<i>adv</i>., avec une certaine ressemblance, presque semblablement, PLAT. <i>Gorg. 498c, etc. ; avec le dat</i>. ISOCR. <i>92c, etc</i>. presque semblablement à ; <i>avec</i> καί, HDT. <i>7, 119 ; avec</i> καθάπερ, PLAT. <i>Ep. 321a ; avec</i> ὥσπερ, PLAT. <i>Ap. 37a</i>, à peu près de même que.<p>•<i> Cp</i>. πλησιαίτερον, PLAT. <i>Pol. 275c</i>.`

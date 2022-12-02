@@ -1,0 +1,1 @@
+lar[18046]=`<b>ἀφθιτό·μητις, ιος (ὁ, ἡ)</b> <font color="purple">[θῐ]</font> dont les conseils sont éternellement bons, NAZ. <i>2, 147a</i>.<p><b>Étym</b>. ἄφθιτος, μῆτις.`

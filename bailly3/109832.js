@@ -1,0 +1,1 @@
+lar[109832]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> qui chuchote, qui murmure doucement à l’oreille, <i>ép. d’Hermès,</i> DÉM. <i>1358, 6</i>.<br><b>      2</b> qui médit à voix basse, délateur, NT. <i>Rom. 1, 40</i>.<p><b>Étym</b>. ψιθυρίζω.`

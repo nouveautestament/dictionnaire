@@ -1,0 +1,1 @@
+lar[24189]=`<b>ας (ἡ) :<br>      1</b> <i>à Athènes,</i> fonction de démarque, DÉM. <i>1318, 18</i>.<br><b>      2</b> <i>à Rome,</i> charge de tribun du peuple ; DH. <i>5, 77</i> ; PLUT. <i>Fab. 9, Cor. 16</i> ; APP. <i>Civ. 1, 1</i>.<p><b>Étym</b>. δήμαρχος.`

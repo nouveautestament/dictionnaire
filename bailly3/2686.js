@@ -1,0 +1,1 @@
+lar[2686]=`<b>αἰνο·γίγας, αντος (ὁ)</b> <font color="purple">[ῐ]</font> géant terrible, NONN. <i>D. 4, 47</i>.`

@@ -1,0 +1,1 @@
+lar[18119]=`<b>ἀ·φιλότιμος, ος, ον</b> <font color="purple">[ῐῑ]</font><br><b>      1</b> indifférent aux honneurs, sans ambition, IS. <i>67, 5</i> ; ARSTT. <i>Nic. 4, 4, 3, etc.</i><br><b>      2</b> <i>en parl. de choses,</i> non honorable, bas, vil, PLUT. <i>M. 35a</i>.`

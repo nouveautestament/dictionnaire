@@ -1,0 +1,1 @@
+lar[11387]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰῑ]</font> gratteron, <i>plante,</i> TH. <i>H.P. 8, 8, 4</i> ; DIOSC. <i>3, 92</i>.`

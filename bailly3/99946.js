@@ -1,0 +1,1 @@
+lar[99946]=`<b>ητος (ἡ)</b> bégaiement, ARSTT. <i>Probl. 11, 30, 2</i> ; PLUT. <i>Alc. 1, etc</i>.<p><b>Étym</b>. τραυλός.`

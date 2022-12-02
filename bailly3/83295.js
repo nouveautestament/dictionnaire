@@ -1,0 +1,1 @@
+lar[83295]=`<font color="purple">[ᾱ]</font> <i>Dor. c</i>. πρωτοτόκος.`

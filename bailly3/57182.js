@@ -1,0 +1,1 @@
+lar[57182]=`<b>ης, ες</b>, semblable à une grappe <i>ou</i> à des grappes, DIOSC. <i>3, 29</i>.<p><b>Étym</b>. κόρυμβος, -ωδης.`

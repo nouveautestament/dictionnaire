@@ -1,0 +1,1 @@
+lar[52879]=`<b>κατα·μωραίνω</b> <font color="darkgreen">(<i>ao</i>. κατεμώρανα)</font> <font color="purple">[ρᾱ]</font><br><b>      1</b> perdre follement, ANTIPH. <i>fr. 239 Kock</i>.<br><b>      2</b> rendre fou, NYSS. <i>2, 818</i>.`

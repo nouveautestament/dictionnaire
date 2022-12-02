@@ -1,0 +1,1 @@
+lar[105907]=`<b>Φιλο·μάγειρος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Ami-du-cuisinier, <i>n. de parasite,</i> ALCIPHR. <i>3, 63</i>.`

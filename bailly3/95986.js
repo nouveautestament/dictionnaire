@@ -1,0 +1,1 @@
+lar[95986]=`<b>συν·θύω</b>, offrir <i>ou</i> célébrer un sacrifice avec : τινί, XÉN. <i>Œc. 6, 8</i> ; EUR. <i>El. 795</i> ; μετά τινος, DÉM. <i>1313, 26,</i> avec qqn ; <i>abs</i>. IS. <i>70, 23</i> ; ESCHN. <i>61, 2</i> ; POL. <i>4, 49, 3</i>.`

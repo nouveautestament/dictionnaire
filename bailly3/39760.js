@@ -1,0 +1,1 @@
+lar[39760]=`<b>ἐπι·ψηλαφάω-ῶ</b> <font color="purple">[λᾰ]</font> tâter, manier en tâtonnant, <i>acc</i>. PLAT. <i>Rsp. 360a ; gén</i>. PLAT. <i>Prot. 310c</i>.`

@@ -1,0 +1,1 @@
+lar[33534]=`<b>οῦ (ὁ)</b> action d’empêcher, ARSTT. <i>Rhet. 2, 2, 4 ; Top. 8, 10, 6</i>.<p><b>Étym</b>. ἐμποδίζω.`

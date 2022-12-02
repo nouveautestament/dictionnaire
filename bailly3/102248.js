@@ -1,0 +1,1 @@
+lar[102248]=`<b>ὑπερ·ακοντίζω</b> <font color="purple">[ᾰ]</font> être plus fort <i>ou</i> plus habile à lancer le javelot ; <i>p. ext</i>. surpasser : τινά τινι, AR. <i>Av. 363</i> ; LUC. <i>Ind. 14,</i> qqn en qqe ch. ; τινά, <i>avec un part</i>. AR. <i>Pl. 666,</i> qqn pour faire qqe ch. ; <i>abs</i>. DIPH. (ATH. <i>225a</i>).`

@@ -1,0 +1,1 @@
+lar[66573]=`<b>μονό·λοπος, ος, ον</b>, qui n’a qu’une écorce, une coquille, une enveloppe, TH. <i>H.P. 1, 5, 2</i>.<p><b>Étym</b>. μ. λέπω.`

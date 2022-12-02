@@ -1,0 +1,1 @@
+lar[57581]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰᾰ]</font> monnaie imaginaire, <i>en usage dans les enfers,</i> PHÉRÉCR. (ATH. <i>646c</i>).`

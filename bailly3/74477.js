@@ -1,0 +1,1 @@
+lar[74477]=`<i>mieux que</i> <b>παλαιστή, ῆς (ἡ)</b> <font color="purple">[πᾰ]</font> creux de la main, paume, <i>d’où</i> longueur de quatre doigts, CRAT. (<i>Com. fr. 2, 90</i>) et PHILÉM. (<i>Com. fr. 4, 10).</i><p>➳ <i>Dans les inscr. att</i>. παλαστή, CIA. <i>2, 1054, 18-19, 41, 43, etc. (347 av. J.-C.) ; v. Meisterh. p. 14, 16</i>.<p><b>Étym</b>. παλαίω.`

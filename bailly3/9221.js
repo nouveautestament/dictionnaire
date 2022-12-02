@@ -1,0 +1,1 @@
+lar[9221]=`<i>adv</i>., sans inspirer la pitié, ANT. <i>114, 10</i>.`

@@ -1,0 +1,1 @@
+lar[10433]=`<b>ἀντι·στίλβω</b>, briller à son tour <i>ou</i> en retour, NAZ. <i>1, 480</i>.`

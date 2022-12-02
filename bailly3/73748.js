@@ -1,0 +1,1 @@
+lar[73748]=`<b>α, ον</b>, plus essentiel, PROCL. <i>Plat. Parm. 619</i>.<p><b>Étym</b>. οὐσία.`

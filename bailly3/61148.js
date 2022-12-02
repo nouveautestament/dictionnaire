@@ -1,0 +1,1 @@
+lar[61148]=`<b>λιμενο·ποιϊκός, ή, όν</b> <font color="purple">[λῐ]</font> qui concerne la construction d’un port, PHIL. BYZ. <i>Bel. 49</i>.<p><b>Étym</b>. λ. ποιέω.`

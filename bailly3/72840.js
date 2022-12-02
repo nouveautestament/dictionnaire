@@ -1,0 +1,1 @@
+lar[72840]=`<b>ὁρκ·απάτης, ου</b> <font color="purple">[ᾰᾰ]</font> <i>adj. m</i>. qui viole son serment, parjure, ANTH. <i>5, 250</i>.<p><b>Étym</b>. ὅρκος, ἀπατάω.`

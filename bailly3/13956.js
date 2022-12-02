@@ -1,0 +1,1 @@
+lar[13956]=`<b>ἀ·πρόσκεπτος, ος, ον :<br>      1</b> <i>pass</i>. non examiné, non considéré, XÉN. <i>Lac. 13, 7</i>.<br><b>      2</b> <i>act</i>. inconsidéré, irréfléchi, DÉM. <i>1232, 18</i>.<p><b>Étym</b>. ἀ, προσκέπτομαι.`

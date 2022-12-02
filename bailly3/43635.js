@@ -1,0 +1,1 @@
+lar[43635]=`<b>εὐ·τρεφής, ής, ές</b>, bien nourri, gras, fort, <i>en parl. d’animaux (brebis, chèvres</i>) OD. <i>9, 425 ; 14, 530</i>.<p>•<i> Sup</i>. -έστατος, EUR. <i>Cycl. 380</i>.<p>➳ <i>Épq</i>. ἐϋτρεφής, OD. <i>ll. cc</i>.<p><b>Étym</b>. εὖ, τρέφω.`

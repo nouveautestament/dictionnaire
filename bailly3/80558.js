@@ -1,0 +1,1 @@
+lar[80558]=`<b>πιτυρο·ειδής, ής, ές</b> <font color="purple">[ῐῡ]</font> semblable à du son, A. TR. <i>1, 457, 16 Puschmann</i>.<p><b>Étym</b>. πίτυρον, εἶδος.`

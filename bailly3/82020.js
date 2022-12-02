@@ -1,0 +1,1 @@
+lar[82020]=`<b>πολυ·κόλυμβος, ος, ον</b> <font color="purple">[ῠκ]</font> qui plonge souvent, AR. <i>Ran. 245</i>.<p><b>Étym</b>. π. κολυμβάω.`

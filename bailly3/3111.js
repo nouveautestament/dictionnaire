@@ -1,0 +1,1 @@
+lar[3111]=`<b>ου (τὸ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> petite épine, ARSTT. <i>H.A. 3, 7, 11</i>.<br><b>      2</b> sorte de petit chardon, DIOSC. <i>3, 18</i>.`

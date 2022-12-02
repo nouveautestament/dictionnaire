@@ -1,0 +1,1 @@
+lar[110290]=`<b>ὠμο·τόκος, ος, ον :<br>      1</b> qui accouche <i>ou</i> met bas avant terme, CALL. <i>Cer. 53, Del. 120</i> ; ANTH. <i>9, 561</i> ; TRIPHIOD. <i>557</i>.<br><b>      2</b> qui produit des fruits verts, dont les fruits n’arrivent pas à maturité, ANTH. <i>9, 561</i>.<p><b>Étym</b>. ὠμός, τίκτω.`

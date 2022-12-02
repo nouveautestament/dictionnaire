@@ -1,0 +1,1 @@
+lar[5899]=`<b>ητος (ἡ)</b> caractère indistinct d’une chose, PROCL. <i>Plat. 1 Alc. p. 96</i>.<p><b>Étym</b>. ἀμυδρός.`

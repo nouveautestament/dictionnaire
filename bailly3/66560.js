@@ -1,0 +1,1 @@
+lar[66560]=`<b>μονο·κόνδυλος, ος, ον</b> <font color="purple">[ῠ]</font> qui n’a qu’une articulation, ARSTT. <i>H.A. 1, 15</i>.`

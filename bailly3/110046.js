@@ -1,0 +1,1 @@
+lar[110046]=`<b>ῆς (ἡ)</b> le gland de la verge, AR. <i>Lys. 143, Av. 560</i>.<p><b>Étym</b>. ψωλός.`

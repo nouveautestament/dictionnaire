@@ -1,0 +1,1 @@
+lar[52316]=`<b>κατα·δημαγωγέω-ῶ</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> surpasser en mesures populaires, PLUT. <i>Per. 9, etc.</i><br><b>      2</b> supplanter dans la faveur populaire, PLUT. <i>M. 482d</i>.`

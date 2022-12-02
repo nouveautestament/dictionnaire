@@ -1,0 +1,1 @@
+lar[58848]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui retient les chiens, ANTH. <i>6, 107</i>.<br><b>      2</b> <i>subst</i>. sac de peau, ANTH. <i>6, 298</i> ; XÉN. <i>Cyn. 2, 9</i>.<p><b>Étym</b>. κύων, ἔχω.`

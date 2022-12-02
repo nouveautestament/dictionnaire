@@ -1,0 +1,1 @@
+lar[110612]=`<i>adv</i>., de façon à faire pâlir, SEXT. <i>M. 7, 192, 198</i>.<p><b>Étym</b>. ὠχραίνω.`

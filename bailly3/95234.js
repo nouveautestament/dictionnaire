@@ -1,0 +1,1 @@
+lar[95234]=`<b>συν·δυναστεύω</b> <font color="purple">[δῠ]</font> partager le pouvoir avec, <i>dat</i>. N. DAM. <i>t. 3, p. 418 Müller</i>.`

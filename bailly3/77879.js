@@ -1,0 +1,1 @@
+lar[77879]=`<b>ου (ὁ, ἡ)</b> vieillard décrépit, vieille femme usée, LYC. <i>682, 826</i> ; GAL. <i>6, 380</i>.<p><b>Étym</b>. <i>inconnue</i>.`

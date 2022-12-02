@@ -1,0 +1,1 @@
+lar[92061]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui se tient droit, ferme, T. LOCR. <i>98c.</i><br><b>      2</b> qui convient, à l’attitude droite : σταδαῖα ἔγχη, ESCHL. <i>Pers. 240,</i> armes pour combattre de pied ferme ; Ζεὺς σταδαῖος, ESCHL. <i>Sept. 513,</i> Zeus qui préside aux combats de pied ferme.<p><b>Étym</b>. στάδην.`

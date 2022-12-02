@@ -1,0 +1,1 @@
+lar[27476]=`<b>δολο·φόνος, ος, ον</b>, qui tue par trahison, ESCHL. <i>Ag. 1129</i>.<p><b>Étym</b>. δόλος, πεφνεῖν.`

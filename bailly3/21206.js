@@ -1,0 +1,1 @@
+lar[21206]=`<b>γαλακτο·τροφία, ας (ἡ)</b> <font color="purple">[γᾰ]</font> nourriture de laitage, SPT. <i>4Macc. 16, 7</i> ; PHIL. <i>2, 83, etc</i>.<p><b>Étym</b>. <i>v</i>. γαλακτοτροφέω.`

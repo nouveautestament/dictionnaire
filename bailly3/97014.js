@@ -1,0 +1,1 @@
+lar[97014]=`<b>ας (ἡ)</b> Skhéria, <i>î. des Phéaciens, plus tard</i> Κέρκυρα, <i>sel. les anciens,</i> OD. <i>5, 34 ; 6, 8 ; 13, 160</i> ; THC. <i>1, 25, etc</i>.<p>➳ <i>Ion</i>. Σχερίη, OD. <i>ll. cc</i>.`

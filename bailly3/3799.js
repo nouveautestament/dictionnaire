@@ -1,0 +1,1 @@
+lar[3799]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> qui habite sur une hauteur, montagnard, ANTH. <i>6, 221</i>.<p><b>Étym</b>. ἀκρόλοφος.`

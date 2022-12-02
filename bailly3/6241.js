@@ -1,0 +1,1 @@
+lar[6241]=`<b>ἀμφί·λοφος, ος, ον</b>, qui entoure le cou (joug) SOPH. <i>Ant. 351</i>.<p><b>Étym</b>. ἀ. λόφος.`

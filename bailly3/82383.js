@@ -1,0 +1,1 @@
+lar[82383]=`<i>adv</i>., avec fertilité, SEXT. <i>M. 5, 58</i>.`

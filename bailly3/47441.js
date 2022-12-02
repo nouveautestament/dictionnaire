@@ -1,0 +1,1 @@
+lar[47441]=`<b>θνητο·ειδής, ής, ές</b>, convenable pour un mortel, PLUT. <i>M. 1002c ;</i> mortel, PLAT. <i>Phæd. 86a</i>.<p><b>Étym</b>. θν. εἶδος.`

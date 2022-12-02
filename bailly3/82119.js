@@ -1,0 +1,1 @@
+lar[82119]=`<b>πολυ·μιγής, ής, ές</b> <font color="purple">[ῠῐ]</font> formé de plusieurs substances mélangées, ARSTT. <i>G.A. 4, 3, 29</i>.<p>➳ <i>Ion</i>. πουλυμιγής, ANTH. <i>9, 823</i>.<p><b>Étym</b>. π. μίγνυμι.`

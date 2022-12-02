@@ -1,0 +1,1 @@
+lar[9211]=`<b>οῦ (ὁ) :<br>      1</b> reconstruction, HDN <i>3, 6</i>.<br><b>      2</b> <i>c</i>. ἀνοίκισις, STR. <i>406</i>.<p><b>Étym</b>. ἀνοικίζω.`

@@ -1,0 +1,1 @@
+lar[80448]=`<b>*πισσο·κοπία</b>, <i>seul</i>. <b>πιττο·κοπίη, ης (ἡ)</b> action d’épiler au moyen d’emplâtres de poix, ARÉT. <i>Cur. m. diut. 1, 2</i>.<p><b>Étym</b>. πίσσα, κόπτω.`

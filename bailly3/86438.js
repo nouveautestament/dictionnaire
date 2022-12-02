@@ -1,0 +1,1 @@
+lar[86438]=`<b>ατος (τὸ)</b> ordre, commandement, PLAT. <i>Rsp. 423c, etc.</i> ; ISOCR. <i>77d, etc.</i> ; ἐκ προστάγματος, DÉM. <i>216, 11</i> ; κατὰ πρόσταγμα, DS. <i>14, 41, etc</i>. par ordre ; κατὰ τὸ πρόσταγμα τοῦ παιδαγωγοῦ, ARSTT. <i>Nic. 4, 12, 8,</i> selon les prescriptions du maître.<p><b>Étym</b>. προστάσσω.`

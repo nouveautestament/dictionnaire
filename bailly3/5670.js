@@ -1,0 +1,1 @@
+lar[5670]=`<b>ἀμμό·χρυσος, ου (ὁ)</b> <font color="purple">[ῡ]</font> sable d’or, <i>pierre précieuse,</i> PLIN. <i>H.N. 27, 11</i>.<p><b>Étym</b>. ἄ. 1, χρυσός.`

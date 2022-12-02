@@ -1,0 +1,1 @@
+lar[99206]=`<b>Τιμη·γενίδης (ὁ)</b> <font color="purple">[τῑ]</font> <i>ion. c</i>. <b>Τιμαγενίδης</b>, fils <i>ou</i> descendant de Timagénès, HDT. <i>9, 38, 86, 87</i>.<p><b>Étym</b>. <i>patr. de</i> Τιμαγένης.`

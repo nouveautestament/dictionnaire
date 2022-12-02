@@ -1,0 +1,1 @@
+lar[60506]=`<b>ιδος</b> <font color="purple">[ῑτῐδ]</font> <i>adj. f. c</i>. Λευϊτικός JOS. <i>A.J. 3, 11, 1, etc</i>.`

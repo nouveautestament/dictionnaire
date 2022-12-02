@@ -1,0 +1,1 @@
+lar[107379]=`<b>ης, ες</b>, semblable à une caverne, à une tanière, PLUT. <i>M. 418a</i>.<p><b>Étym</b>. φωλεός, -ωδης.`

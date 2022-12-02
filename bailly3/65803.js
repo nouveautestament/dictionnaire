@@ -1,0 +1,1 @@
+lar[65803]=`<b>α (ὁ)</b> Miltas, <i>h</i>. PLUT. <i>Dio. 22, 24</i>.`

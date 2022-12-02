@@ -1,0 +1,1 @@
+lar[106757]=`<b>ου (ὁ)</b> = <i>lat</i>. furnus, four, ATH. <i>113c</i>.`

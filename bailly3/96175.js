@@ -1,0 +1,1 @@
+lar[96175]=`<b>συν·ομ·οδίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> compagnon de route, POÈT. (<i>Cram. 4, 383).</i><p><b>Étym</b>. σύν, ὁμός, ὁδός.`

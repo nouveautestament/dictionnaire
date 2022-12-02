@@ -1,0 +1,1 @@
+lar[3336]=`<b>ἀ·κήδεστος, ος, ον :<br>      1</b> non soigné, négligé (visage) NONN. <i>D. 42, 85</i>.<br><b>      2</b> abandonné sans sépulture, IL. <i>6, 60</i>.<br><b>      3</b> indifférent, triste, NONN. <i>D. 12, 120</i>.<p><b>Étym</b>. ἀ, κήδομαι.`

@@ -1,0 +1,1 @@
+lar[91937]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> σπλήν, DIOSC. <i>Parab. 1, 54</i>.`

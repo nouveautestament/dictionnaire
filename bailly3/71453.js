@@ -1,0 +1,1 @@
+lar[71453]=`<i>adv</i>., d’un avis unanime, LYCURG. <i>201, 9</i> ; ISOCR. <i>411b, etc</i>.<p><b>Étym</b>. ὁμογνώμων.`

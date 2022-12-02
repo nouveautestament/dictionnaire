@@ -1,0 +1,1 @@
+lar[59286]=`<b>άδος</b> <font color="purple">[ῐᾰδ]</font> <i>adj. f</i>. babillarde ; <i>subst</i>. ἡ κ. STRATT. (ATH. <i>622a</i>) hirondelle.<p><b>Étym</b>. κωτίλλω.`

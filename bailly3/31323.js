@@ -1,0 +1,1 @@
+lar[31323]=`<b>ῆς (ἡ)</b> <font color="purple">[ῑ]</font> oppression, SPT. <i>Mich. 7, 2</i>.<p><b>Étym</b>. ἐκθλίβω.`

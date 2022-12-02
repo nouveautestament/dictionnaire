@@ -1,0 +1,1 @@
+lar[47799]=`<b>ων (τὰ)</b> Thyateires (<i>auj</i>. Akhisar) <i>v. de Lydie,</i> PLUT. <i>Syll. 25</i>.`

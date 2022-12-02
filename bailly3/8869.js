@@ -1,0 +1,1 @@
+lar[8869]=`<b>ἀνθολογέω-ῶ :<br>      1</b> cueillir des fleurs, PLUT. <i>M. 917e.</i><br><b>      2</b> recueillir, rassembler (un choix de, <i>etc.) en gén</i>. HPC. <i>Ep. 1278</i>.<br><b><i>Moy.</i></b> cueillir le suc des fleurs, ARSTT. <i>H.A. 9, 42, 1</i>.<p><b>Étym</b>. ἀνθολόγος.`

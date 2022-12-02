@@ -1,0 +1,1 @@
+lar[74890]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> lumière universelle, PHIL. <i>1, 7</i>.<p><b>Étym</b>. παναυγής.`

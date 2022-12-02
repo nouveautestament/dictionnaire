@@ -1,0 +1,1 @@
+lar[9439]=`<b>ἀντ·αναβάλλω</b>, lancer à son tour, SEXT. <i>503, 5 Bkk</i>.`

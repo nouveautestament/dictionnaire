@@ -1,0 +1,1 @@
+lar[6118]=`<b>ἀμφί·δοχμος, ος, ον</b>, assez gros pour remplir les deux mains, XÉN. <i>Eq. 4, 4</i>.<p><b>Étym</b>. ἀ. δοχμή.`

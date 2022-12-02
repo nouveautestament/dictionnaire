@@ -1,0 +1,1 @@
+lar[50086]=`<b>ῶν (αἱ)</b> Ikhnes :<br><b>      1</b> <i>v. de Macédoine,</i> HDT. <i>7, 123</i>.<br><b>      2</b> <i>v. de Mésopotamie,</i> PLUT. <i>Crass. 25</i>.`

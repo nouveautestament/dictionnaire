@@ -1,0 +1,1 @@
+lar[57729]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. suspendue, ESCHL. <i>Suppl. 795</i>.<p><b>Étym</b>. κρεμάννυμι.`

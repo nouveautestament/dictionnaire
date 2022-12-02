@@ -1,0 +1,1 @@
+lar[109464]=`<b>χωροβατέω-ῶ</b> <font color="purple">[ᾰ]</font> s’avancer à travers un pays, <i>d’où act</i>. parcourir : γῆν, SPT. <i>Jos. 18, 8,</i> un pays.<p><b>Étym</b>. χωροβάτης.`

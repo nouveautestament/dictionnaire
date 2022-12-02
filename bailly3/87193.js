@@ -1,0 +1,1 @@
+lar[87193]=`<b>πρωτο·γέννημα, ατος (τὸ)</b> <i>au pl</i>. première production, prémices, SPT. <i>Ex. 23, 16 ; 34, 26 ; Sir. 45, 20</i> ; PHIL. <i>1, 172</i>.`

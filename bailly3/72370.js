@@ -1,0 +1,1 @@
+lar[72370]=`<b>όεσσα, όεν</b>, plein de suc, juteux, NIC. <i>Al. 319</i>.<p><b>Étym</b>. ὀπός.`

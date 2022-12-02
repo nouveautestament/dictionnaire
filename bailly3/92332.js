@@ -1,0 +1,1 @@
+lar[92332]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit manche de cognée, BABR. <i>21</i>.<p><b>Étym</b>. <i>dim. de</i> στελεόν.`

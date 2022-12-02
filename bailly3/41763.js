@@ -1,0 +1,1 @@
+lar[41763]=`<i>adv.</i> :<br><b>      1</b> noblement, EUR. <i>Cycl. 201</i> ; PLUT. <i>M. 7f.</i><br><b>      2</b> courageusement, EUR. <i>Tr. 729</i>.<p><b>Étym</b>. εὐγενής.`

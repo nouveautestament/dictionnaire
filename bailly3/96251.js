@@ -1,0 +1,1 @@
+lar[96251]=`(<i>part</i>. -ωκώς) <i>anc. pf. poét. de</i> συνέχω <i>p</i>. *συνόκωχα :<br><b>      1</b> être ramassé sur soi-même, être fortement emboîté, IL. <i>2, 218</i>.<br><b>      2</b> s’affaisser, s’enfoncer, Q. SM. <i>7, 502</i>.`

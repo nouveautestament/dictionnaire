@@ -1,0 +1,1 @@
+lar[1348]=`<b>ἀ·διάπταιστος, ος, ον</b>, qui ne se heurte pas, qui ne chancelle pas, JAMBL. <i>Protr. 360</i>.<p><b>Étym</b>. ἀ, διαπταίω.`

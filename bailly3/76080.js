@@ -1,0 +1,1 @@
+lar[76080]=`<b>παρά·πληκτος, ος, ον :<br>      1</b> frappé de démence, SOPH. <i>Aj. 230</i> ; MÉLANIPP. <i>4, 4 Bgk</i>.<br><b>      2</b> atteint d’une paralysie partielle <i>ou</i> légère, HPC. <i>Aër. 287</i>.<p><b>Étym</b>. παραπλήσσω.`

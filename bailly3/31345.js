@@ -1,0 +1,1 @@
+lar[31345]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> élan, ardeur, acharnement, POL. <i>3, 115, 6</i>.<p><b>Étym</b>. ἔκθυμος.`

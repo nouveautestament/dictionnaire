@@ -1,0 +1,1 @@
+lar[5625]=`<b>ἀ·μίτρωτος, ος, ον</b>, non entouré d’un bandeau, NONN. <i>D. 35, 220</i>.<p><b>Étym</b>. ἀ, μιτρόω.`

@@ -1,0 +1,1 @@
+lar[98394]=`<b>έως (ὁ)</b> Terminthée, <i>surn. d’Apollon,</i> LYC. <i>1207</i>.`

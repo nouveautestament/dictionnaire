@@ -1,0 +1,1 @@
+lar[89819]=`<b>ου (ὁ)</b> = <i>lat</i>. Sentius, <i>n. d’h. rom</i>. PLUT. <i>Syll. 11, etc</i>.`

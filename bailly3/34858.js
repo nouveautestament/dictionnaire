@@ -1,0 +1,1 @@
+lar[34858]=`<b>ἐν·ορμάω-ῶ</b>, s’élancer dans, se jeter dans, <i>avec</i> εἰς <i>et l’acc</i>. POL. <i>16, 28, 8</i>.`

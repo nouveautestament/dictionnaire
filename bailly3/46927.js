@@ -1,0 +1,1 @@
+lar[46927]=`<b>ή, όν</b>, qu’on peut chauffer <i>ou</i> échauffer, ARSTT. <i>Phys. 5, 1, 2</i>.<p><b>Étym</b>. <i>vb. de</i> θερμαίνω.`

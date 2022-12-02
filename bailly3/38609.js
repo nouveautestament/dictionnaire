@@ -1,0 +1,1 @@
+lar[38609]=`<b>ἐπι·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> sujet à certaines impressions, P. ALEX. <i>Apot. p. 42, 11</i>.<p>•<i> Cp</i>. -έστερος, <i>Apot. p. 53, 18</i>.<p><b>Étym</b>. ἐπί, πάθος.`

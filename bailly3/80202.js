@@ -1,0 +1,1 @@
+lar[80202]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Piéros :<br><b>      1</b> <i>h</i>. Ps.-PLUT. <i>Mus. 3</i>.<br><b>      2</b> <i>mt de Thessalie,</i> EL. <i>N.A. 3, 37, etc</i>.`

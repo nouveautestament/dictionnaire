@@ -1,0 +1,1 @@
+lar[5380]=`<i>adv</i>., immortellement, SIB. <i>2, 223</i>.`

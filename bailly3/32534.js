@@ -1,0 +1,1 @@
+lar[32534]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐλατήρ, EUR. <i>fr. 775, 26</i>.`

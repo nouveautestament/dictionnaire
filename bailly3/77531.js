@@ -1,0 +1,1 @@
+lar[77531]=`<b>ή, όν</b>, de plaine, <i>d’où subst</i>. οἱ Πεδιακοί, ARSTT. <i>Pol. 5, 5, 9,</i> les habitants de la plaine, <i>en Attique</i>.<p><b>Étym</b>. πεδίον.`

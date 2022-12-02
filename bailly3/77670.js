@@ -1,0 +1,1 @@
+lar[77670]=`<b>ου (ὁ)</b> Peiros, <i>autre n. de l’Akhélôos, fl. d’Achaïe,</i> HDT. <i>1, 145, etc</i>.`

@@ -1,0 +1,1 @@
+lar[24170]=`<b>Δημ·αγόρας (ὁ)</b> Dèmagoras, <i>h</i>. DH. <i>1, 72 ; etc</i>.<p>➳ <i>Dor</i>. Δαμ- <font color="purple">[ᾱ]</font> PLUT. <i>Luc. 3</i> ; ANTH. <i>11, 334, etc</i>.<p><b>Étym</b>. δῆμος, ἀγορά.`

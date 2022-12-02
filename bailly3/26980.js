@@ -1,0 +1,1 @@
+lar[26980]=`<b>ων (τὰ)</b> <font color="purple">[δῑ]</font> <i>contract. de</i> Διϊπόλια, les Dipolies, <i>fête athénienne en l’honneur de Zeus Polieus,</i> ANT. <i>2,</i> δ, <i>8 ; etc. ; cf</i>. Διπόλεια.`

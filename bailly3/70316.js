@@ -1,0 +1,1 @@
+lar[70316]=`<font color="purple">[ᾰ]</font> <i>adv. dor. c</i>. οἴκαδε, EPICH. (ATH. <i>236b</i>) ; AR. <i>Ach. 742, 779</i>.`

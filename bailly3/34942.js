@@ -1,0 +1,1 @@
+lar[34942]=`<b>ἐν·σοβέω-ῶ</b>, se glorifier dans <i>ou</i> de, <i>dat</i>. PHILSTR. <i>V. Ap. 6, 10</i>.`

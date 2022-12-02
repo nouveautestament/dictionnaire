@@ -1,0 +1,1 @@
+lar[85043]=`<b>ου (ὁ)</b> courtier, commissionnaire en marchandises, AR. <i>fr. 669</i>.<p><b>Étym</b>. προπωλέω.`

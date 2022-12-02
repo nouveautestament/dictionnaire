@@ -1,0 +1,1 @@
+lar[100572]=`<i>voc</i>. <b>Τριτοῖ (ἡ)</b> <font color="purple">[ῑ]</font> Tritô, <i>ép. d’Athèna,</i> ANTH. <i>6, 194</i>.<p><b>Étym</b>. <i>v</i>. Τριτογένεια.`

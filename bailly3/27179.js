@@ -1,0 +1,1 @@
+lar[27179]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> en deux, ESCHL. <i>Suppl. 544</i> ; PLAT. <i>Leg. 720e ;</i> ARSTT. <i>H.A. 2, 11</i> ; A.RH. <i>4, 289</i>.<br><b>      2</b> doublement, PLAT. <i>Rsp. 445d ;</i> DÉM. <i>14, 6</i>.<p><b>Étym</b>. δίχα.`

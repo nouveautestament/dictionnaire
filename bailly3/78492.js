@@ -1,0 +1,1 @@
+lar[78492]=`<b>περι·γλύφω</b>, graver <i>ou</i> ciseler tout autour, ARSTD. <i>t. 1, 283</i>.`

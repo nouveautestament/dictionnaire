@@ -1,0 +1,1 @@
+lar[42301]=`<b>εὐ·θυσία, ας (ἡ)</b> <font color="purple">[ῠ]</font> sacrifice favorable, PHILOD. <i>Œc. 8</i>.<p><b>Étym</b>. εὖ, θυσία.`

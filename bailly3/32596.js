@@ -1,0 +1,1 @@
+lar[32596]=`<b>οῦς (ἡ)</b> Elbô, <i>î. près du Delta égyptien,</i> HDT. <i>2, 140</i>.`

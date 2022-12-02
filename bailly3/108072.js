@@ -1,0 +1,1 @@
+lar[108072]=`<b>ας (ἡ)</b> saison <i>ou</i> durée des quartiers d’hiver, DH. <i>Thuc. 9, 3</i>.<p><b>Étym</b>. χείμερος.`

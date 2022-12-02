@@ -1,0 +1,1 @@
+lar[108106]=`<b>ός, όν</b> <font color="purple">[ῑ]</font> garni de manches, <i>comme les robes des Orientaux,</i> HDT. <i>6, 61</i> ; HDN <i>5, 3, 12</i> ; STR. <i>196</i> ; PHILSTR. <i>804</i>.<p><b>Étym</b>. *χειριδόω <i>de</i> χειρίς.`

@@ -1,0 +1,1 @@
+lar[22850]=`<b>γυρη·τόμος, ος, ον</b> <font color="purple">[ῡ]</font> qui décrit un cercle (sillon), ANTH. <i>9, 274</i>.<p><b>Étym</b>. γυρός, τέμνω.`

@@ -1,0 +1,1 @@
+lar[3244]=`<b>ἄ·καυστος, ος, ον :<br>      1</b> non brûlé, XÉN. <i>An. 3, 5, 13, etc.</i><br><b>      2</b> incombustible, ARSTT. <i>Meteor. 4, 9, 24, etc</i>.<p><b>Étym</b>. ἀ, καίω.`

@@ -1,0 +1,1 @@
+lar[8115]=`<b>ἀνδρό·σινις, ιδος (ὁ, ἡ)</b> <font color="purple">[σῐῐδ]</font> pernicieux aux hommes, A. PL. <i>266</i>.<p><b>Étym</b>. ἀνήρ, σίνομαι.`

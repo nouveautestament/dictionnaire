@@ -1,0 +1,1 @@
+lar[53967]=`<b>κατ·ευδοκιμέω-ῶ</b> <font color="purple">[ῐ]</font> surpasser en réputation, <i>gén</i>. DS. <i>Exc. Vat. p. 524, 15</i>.`

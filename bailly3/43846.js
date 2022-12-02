@@ -1,0 +1,1 @@
+lar[43846]=`<b>εὔ·ψυκτος, ος, ον</b>, facile à afraîchir, ARSTT. <i>Sens. 5, 16, etc</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Probl. 7, 6</i>.<p><b>Étym</b>. εὖ, ψύχω.`

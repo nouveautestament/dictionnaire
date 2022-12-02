@@ -1,0 +1,1 @@
+lar[59849]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en état de relâchement, HPC. <i>1062h</i>.<p><b>Étym</b>. λαπαρός.`

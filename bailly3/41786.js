@@ -1,0 +1,1 @@
+lar[41786]=`<b>εὐ·γλωττίζω</b>, rendre éloquent, PHILSTR. <i>V. Ap. 6, 36</i>.<p><b>Étym</b>. εὖ, γλῶττα.`

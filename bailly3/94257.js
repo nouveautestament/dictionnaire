@@ -1,0 +1,1 @@
+lar[94257]=`<b>συμ·πλανάομαι-ῶμαι</b> <font color="purple">[λᾰ]</font> errer ensemble, s’égarer ensemble <i>ou</i> avec, <i>dat</i>. DS. <i>3, 58, 59</i> ; PLUT. <i>Ant. 29, M. 750b ; fig</i>. POL. <i>3, 21, 10</i>.<p><b>Étym</b>. σ. πλανάω.`

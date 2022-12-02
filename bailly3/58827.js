@@ -1,0 +1,1 @@
+lar[58827]=`<b>κυνό·ροδον, ου (τὸ)</b> <font color="purple">[ῠ]</font> fleur d’églantier, rose sauvage, TH. <i>H.P. 4, 4, 8</i>.<p><b>Étym</b>. κ. ῥόδον.`

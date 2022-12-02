@@ -1,0 +1,1 @@
+lar[53147]=`<b>ή, όν</b>, capable de faire, d’exécuter, <i>gén</i>. MUSON. (STOB. <i>Fl. 48, 16, t. 2, p. 253, l. 14).</i><p><b>Étym</b>. καταπράσσω.`

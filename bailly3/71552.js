@@ -1,0 +1,1 @@
+lar[71552]=`<b>ὁμοιο·σύντακτος, ος, ον</b>, dont la construction est semblable, GRAMM.<p><b>Étym</b>. ὅμ. συντάσσω.`

@@ -1,0 +1,1 @@
+lar[22845]=`<b>ῶν (αἱ)</b> <font color="purple">[ῡ]</font> les Gyres, <i>litt</i>. les Roches rondes, <i>groupe de rochers dans la mer Égée,</i> OD. <i>4, 500 (dat. épq</i>. -ῇσιν).<p><b>Étym</b>. γυρός.`

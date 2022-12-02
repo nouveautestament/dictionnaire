@@ -1,0 +1,1 @@
+lar[99839]=`<b>ατος (τὸ)</b> friandise de dessert, régal, <i>d’ord. au pl</i>. AR. <i>Ach. 1091, Ran. 510</i> ; XÉN. <i>An. 2, 3, 15</i> ; PLAT. <i>Rsp. 372c ; au sg</i>. ANTIPH. (ATH. <i>640d</i>) ; LYC. (DL. <i>2, 140</i>) ; <i>fig</i>. DH. <i>Rhet. p. 393</i>.<p><b>Étym</b>. τραγεῖν.`

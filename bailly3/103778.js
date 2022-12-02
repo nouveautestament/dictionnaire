@@ -1,0 +1,1 @@
+lar[103778]=`<b>ὑπο·ρριπίζω</b> <font color="purple">[ρῑ]</font> agiter par-dessous, exciter, ANTH. <i>9, 443 ; fig</i>. APP. <i>Civ. 1, 105</i>.<p>➳ <i>Par nécessité prosod</i>. ὑποριπίζω, ANTH. <i>l. c</i>.<p><b>Étym</b>. ὑ. ῥιπίζω.`

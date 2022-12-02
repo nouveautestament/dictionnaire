@@ -1,0 +1,1 @@
+lar[84894]=`<b>προ·παραλήγω</b>, être antépénultième : ἡ προπαραλήγουσα (<i>s.-e</i>. συλλαβή) SCH.-AR. <i>Ran. 1455, etc</i>. la syllabe antépénultième.<br><b><i>Moy.</i></b> <i>m. sign</i>. EM. <i>308, 49</i>.`

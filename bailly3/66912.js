@@ -1,0 +1,1 @@
+lar[66912]=`<b>μουσο·κόλαξ, ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> flatteur des Muses, DH. <i>7, 9</i>.<p><b>Étym</b>. μοῦσα, κόλαξ.`

@@ -1,0 +1,1 @@
+lar[48635]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ἱεροσυλία DS. <i>16, 14 dout</i>.`

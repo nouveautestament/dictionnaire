@@ -1,0 +1,1 @@
+lar[32558]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> Élaphèboliôn, <i>le 9<sup>e</sup> mois (2<sup>e</sup> moitié de mars, 1<sup>re</sup> d’avril) de l’année attique,</i> THC. <i>4, 118 ; 5, 19</i> ; ESCHN. <i>40, 20, etc</i>.<p><b>Étym</b>. ἐλαφηβόλος.`

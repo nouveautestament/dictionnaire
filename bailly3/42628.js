@@ -1,0 +1,1 @@
+lar[42628]=`<b>ου (ὁ)</b> Eumæos (Eumée) <i>porcher d’Ulysse,</i> OD. <i>14, 55, etc.</i> ; THCR. <i>Idyl. 16, 55, etc</i>.`

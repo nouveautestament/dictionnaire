@@ -1,0 +1,1 @@
+lar[24751]=`<b>οῦ (ὁ) :<br>      1</b> exhortation, encouragement, THC. <i>7, 71</i>.<br><b>      2</b> exhortation mutuelle, JOS. <i>A.J. 3, 2, 4 ; 17, 9, 3</i>.<p><b>Étym</b>. διακελεύομαι.`

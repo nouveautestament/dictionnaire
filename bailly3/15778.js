@@ -1,0 +1,1 @@
+lar[15778]=`<b>ἄ·σειστος, ος, ον</b>, non ébranlé, inébranlable, DL. <i>8, 26</i> ; M. TYR. CLÉM. <i>etc</i>.<p><b>Étym</b>. ἀ, σείω.`

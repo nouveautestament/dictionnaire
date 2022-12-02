@@ -1,0 +1,1 @@
+lar[36097]=`<b>ἐξοινόω-ῶ</b>, enivrer, EUR. <i>Bacch. 814</i> ; ATH. <i>38e</i>.<p><b>Étym</b>. ἔξοινος.`

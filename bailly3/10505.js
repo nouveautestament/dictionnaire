@@ -1,0 +1,1 @@
+lar[10505]=`<b>ἀντι·τιμάω-ῶ</b>, honorer en retour, XÉN. <i>Hell. 3, 1, 13 ; Cyr. 5, 2, 11</i>.<br><b><i>Moy.</i></b> faire une contre-estimation, <i>càd</i>. fixer de son côté une peine <i>ou</i> le chiffre d’une amende, <i>avec le gén. de la somme,</i> PLAT. <i>Ap. 36b ;</i> DÉM. <i>743, 21</i>.<p>➳ <i>Fut. moy</i>. ἀντιτιμήσομαι <i>au sens pass</i>. XÉN. <i>Œc. 9, 11</i>.`

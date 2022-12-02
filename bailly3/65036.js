@@ -1,0 +1,1 @@
+lar[65036]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> transplantation, GEOP. <i>3, 2, 1, etc</i>.<p><b>Étym</b>. μεταφυτεύω.`

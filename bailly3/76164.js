@@ -1,0 +1,1 @@
+lar[76164]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> assaisonnement, PHIL. <i>1, 441, etc</i>.<p><b>Étym</b>. παραρτύω.`

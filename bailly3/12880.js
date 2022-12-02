@@ -1,0 +1,1 @@
+lar[12880]=`<b>ἀπό·μελι, ιτος (τὸ)</b> sorte d’hydromel, DIOSC. <i>5, 17, ou</i> d’oxymel, GAL. <i>6, 128a</i>.<p><b>Étym</b>. ἀ. μέλι.`

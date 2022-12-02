@@ -1,0 +1,1 @@
+lar[93230]=`<b>συγ·καθ·είμαρμαι</b>, être uni dans un même sort par un arrêt du destin, HIÉROCL. (STOB. <i>Fl. 67, 24).</i><p><b>Étym</b>. σύν, κατά, εἵμαρμαι.`

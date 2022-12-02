@@ -1,0 +1,1 @@
+lar[82090]=`<b>πολυ·μάσχαλος, ος, ον</b> <font color="purple">[ῠχᾰ]</font> à plusieurs aisselles <i>ou</i> ramifications, <i>en parl. d’arbres,</i> TH. <i>H.P. 3, 8, 4, etc</i>.<p><b>Étym</b>. π. μασχάλη.`

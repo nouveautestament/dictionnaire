@@ -1,0 +1,1 @@
+lar[27512]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> lieu plein de roseaux, IL. <i>18, 576 (acc. épq</i>. -ῆα<i>) ; au plur</i>. OPP. <i>H. 4, 507 (acc. pl</i>. -ῆας).<br><b>      2</b> roseau, <i>c</i>. δόναξ, ANTH. <i>6, 64 (gén. pl</i>. -ήων).<br><b>      3</b> oiseleur, qui tend des gluaux, OPP. <i>C. 1, 73 (acc. pl</i>. -ῆας).<p><b>Étym</b>. δόναξ.`

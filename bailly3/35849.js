@@ -1,0 +1,1 @@
+lar[35849]=`<b>ἐξ·έρυθρος, ος, ον</b> <font color="purple">[ῠ]</font> très rouge, HPC. <i>Coac. 143</i> ; ARSTT. <i>Probl. 2, 27</i>.<p><b>Étym</b>. ἐξ, ἐρυθρός.`

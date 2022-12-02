@@ -1,0 +1,1 @@
+lar[62265]=`<b>μαγο·φονία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. μαγοφόνια CTÉS. <i>Pers. 15</i>.`

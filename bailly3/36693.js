@@ -1,0 +1,1 @@
+lar[36693]=`<b>ἐπ·ανήκω</b>, revenir, EUR. <i>I.A. 1628</i> ; ὥς τινα, DÉM. <i>1156, 3</i> ; πρός τινα, POL. <i>6, 58, 3,</i> vers qqn ; πρός τι, PAUS. <i>3, 9, 2,</i> vers qqe ch.`

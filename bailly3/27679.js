@@ -1,0 +1,1 @@
+lar[27679]=`<b>δουλ·απατία, ας (ἡ)</b> <font color="purple">[ᾰπᾰ]</font> action de corrompre un esclave, ARSTT. <i>Nic. 3, 5</i>.<p><b>Étym</b>. δοῦλος, ἀπάτη.`

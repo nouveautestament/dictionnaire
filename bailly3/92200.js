@@ -1,0 +1,1 @@
+lar[92200]=`<b>σταυρόω-ῶ :<br>      1</b> élever une palissade, THC. <i>7, 25 ; p. suite,</i> garnir d’une palissade, DS. <i>Exc. 507, 69 ; au pass</i>. THC. <i>6, 100</i>.<br><b>      2</b> crucifier, POL. <i>1, 86, 4</i> ; NT. <i>Matth. 20, 19, etc. ; fig</i>. NT. <i>Gal. 5, 24, etc</i>.<p><b>Étym</b>. σταυρός.`

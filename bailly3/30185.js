@@ -1,0 +1,1 @@
+lar[30185]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, accoutumé, MUS. <i>312</i> ; NONN. <i>D. 1, 35, etc</i>.<p><b>Étym</b>. ἔθος.`

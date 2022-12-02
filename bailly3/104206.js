@@ -1,0 +1,1 @@
+lar[104206]=`<b>ὑπό·ψηφος, ος, ον</b>, proposé aux suffrages pour, candidat à, <i>dat</i>. SYN. <i>94d</i>.<p><b>Étym</b>. ὑ. ψῆφος.`

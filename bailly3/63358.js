@@ -1,0 +1,1 @@
+lar[63358]=`<b>μεγαλό·δωρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait de grands présents, généreux, magnifique, POL. <i>10, 5, 6,</i> PLUT. <i>M. 618e ;</i> LUC. <i>Tim. 21</i> ; τὸ μεγαλόδωρον, PLUT. <i>Ant. 4, etc</i>. la munificence.<p>•<i> Sup</i>. -ότατος, AR. <i>Pax 393</i>.<p><b>Étym</b>. μ. δῶρον.`

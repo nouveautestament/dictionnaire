@@ -1,0 +1,1 @@
+lar[30576]=`<b>(ὁ)</b> le messager, <i>mot forgé par</i> PLAT. <i>Crat. 408a, pour expliquer</i> Ἑρμῆς.<p><b>Étym</b>. εἴρω².`

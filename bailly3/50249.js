@@ -1,0 +1,1 @@
+lar[50249]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> célébration d’un sacrifice pour des funérailles, LUC. <i>Luct. 19, au pl</i>.<p><b>Étym</b>. καθαγίζω.`

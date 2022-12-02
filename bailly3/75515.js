@@ -1,0 +1,1 @@
+lar[75515]=`<b>παρα·διαστολή, ῆς (ἡ)</b> disjonction, <i>fig. de rhét</i>. QUINT. <i>9, 3</i>.`

@@ -1,0 +1,1 @@
+lar[96991]=`<b>ατος (τὸ)</b> travail fait à la hâte, ébauche <i>ou</i> improvisation, CIC. <i>Att. 15, 19, 2</i>.<p><b>Étym</b>. σχεδιάζω.`

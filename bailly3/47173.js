@@ -1,0 +1,1 @@
+lar[47173]=`<b>ῆς (ἡ)</b> nourrice, PLUT. <i>M. 278d dout</i>.<p><b>Étym</b>. θηλή.`

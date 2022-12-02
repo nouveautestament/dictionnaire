@@ -1,0 +1,1 @@
+lar[84236]=`<b>προ·επιδίδωμι</b> <font color="darkgreen">(<i>f</i>. -επιδώσω, <i>ao</i>. -επέδωκα)</font> <font color="purple">[δῐ]</font> donner auparavant <i>ou</i> le premier, CLÉM. <i>823</i>.`

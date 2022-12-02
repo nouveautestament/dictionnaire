@@ -1,0 +1,1 @@
+lar[31209]=`<b>ἔκ·διψος, ος, ον</b>, très altéré, qui meurt de soif, DS. <i>19, 109</i>.<p><b>Étym</b>. ἐκ, δίψα.`

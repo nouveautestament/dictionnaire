@@ -1,0 +1,1 @@
+lar[84053]=`<b>προ·εισελαύνω</b>, entrer auparavant, <i>avec</i> εἰς <i>et l’acc</i>. HLD. <i>9, 1</i>.`

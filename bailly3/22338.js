@@ -1,0 +1,1 @@
+lar[22338]=`<b>ή, όν :<br>      1</b> propre à faire connaître : τινος, ARSTT. <i>Phys. 2, 2, 10</i> ; περί τινος, ARSTT. <i>Metaph. 3, 2, 20,</i> qqe ch. ; <i>abs</i>. PLAT. <i>Def. 414c ;</i> ARSTT. <i>An. 1, 2, 13</i>.<br><b>      2</b> capable de connaître, <i>gén</i>. PLUT. <i>M. 79d ;</i> ARR. <i>Epict. 2, 20, 21</i> ; M. TYR. <i>3, 45</i>.<p><b>Étym</b>. γνωρίζω.`

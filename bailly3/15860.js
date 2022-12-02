@@ -1,0 +1,1 @@
+lar[15860]=`<b>ης (ἡ)</b> palanche, bâton pour porter deux seaux en équilibre sur l’épaule, SIM. (ARSTT. <i>Rhet. 1, 7</i>) ; ALCIPHR. <i>1, 1</i>.`

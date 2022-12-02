@@ -1,0 +1,1 @@
+lar[64726]=`<b>ος, ον</b>, sujet à se déplacer, inconstant, changeant, POL. <i>15, 6, 8</i>.<p><b>Étym</b>. <i>vb. de</i> μετατίθημι.`

@@ -1,0 +1,1 @@
+lar[74841]=`<b>παν·ακής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui guérit tous les maux, CALL. <i>Ep. 49</i>.<p><b>Étym</b>. π. ἄκος.`

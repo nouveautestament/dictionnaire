@@ -1,0 +1,1 @@
+lar[18416]=`<b>ἀ·χειραγώγητος, ος, ον</b> <font color="purple">[ᾰγ]</font> non conduit par la main, PHIL. <i>1, 680</i>.<p><b>Étym</b>. ἀ, χειραγωγέω.`

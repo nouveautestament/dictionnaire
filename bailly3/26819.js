@@ -1,0 +1,1 @@
+lar[26819]=`<b>Διό·παις, αιδος (ὁ)</b> fils de Zeus, <i>càd</i>. Apollon, ANTH. <i>9, 525</i>.<p><b>Étym</b>. Διός, παῖς.`

@@ -1,0 +1,1 @@
+lar[13876]=`<b>*ἀ·πράϋντος</b>, <i>seul. ion</i>. <b>ἀπρήϋντος, ος, ον</b>, qu’on ne peut adoucir, ANTH. <i>7, 287</i>.<p><b>Étym</b>. ἀ, πραΰνω.`

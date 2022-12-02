@@ -1,0 +1,1 @@
+lar[104175]=`<b>ὑπο·χορηγέω-ῶ</b>, subvenir, fournir : τινί τι, STR. <i>273,</i> qqe ch. à qqn.`

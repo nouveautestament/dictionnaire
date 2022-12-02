@@ -1,0 +1,1 @@
+lar[17565]=`<b>αὐτο·λόγος, ου (ὁ)</b> le verbe même, <i>càd</i>. Dieu, ORIG.`

@@ -1,0 +1,1 @@
+lar[26544]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰφ]</font> plaidoyer rédigé pour autrui, ISOCR. <i>310b</i>.<p><b>Étym</b>. δικογράφος.`

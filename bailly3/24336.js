@@ -1,0 +1,1 @@
+lar[24336]=`<b>Δημο·φόων-ῶν, όωντος-ῶντος (ὁ)</b> Dèmophoôn, <i>ou</i> Dèmophôn, <i>h.</i> : Δημοφόων, HH. <i>Cer. 234</i> ; Q. SM. <i>12, 325, etc.</i> ; ANTH. <i>5, 265</i> ; Δημοφῶν, EUR. <i>H.f. 115</i> ; PLAT. <i>Lys. 207b ;</i> DÉM. PLUT. <i>etc</i>.<p>➳ <i>Dor</i>. Δαμοφῶν, PAUS. <i>4, 31, 6, etc</i>.<p><b>Étym</b>. δ. φο- = φα- <i>de</i> φάος.`

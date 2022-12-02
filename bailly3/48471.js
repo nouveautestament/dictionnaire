@@ -1,0 +1,1 @@
+lar[48471]=`<b>ἰδνόω-ῶ</b>, courber, <i>d’où au pass</i>. se courber, IL. <i>2, 266, etc.</i> ; OD. <i>8, 375</i> ; HPC. <i>589, 16 ; 595, 9</i> ; A. PL. <i>4, 97</i>.`

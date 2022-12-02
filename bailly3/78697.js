@@ -1,0 +1,1 @@
+lar[78697]=`<b>εως (ἡ)</b> <font color="purple">[κᾰ]</font> action de nettoyer, TH. <i>C.P. 5, 9, 11</i>.<p><b>Étym</b>. περικαθαίρω.`

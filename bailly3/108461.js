@@ -1,0 +1,1 @@
+lar[108461]=`<b>χιλιό·φυλλος, ος, ον</b> <font color="purple">[χῑ]</font> millefeuille, <i>sorte de plante,</i> DIOSC. <i>4, 103</i>.<p><b>Étym</b>. χ. φύλλον.`

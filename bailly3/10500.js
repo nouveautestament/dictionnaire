@@ -1,0 +1,1 @@
+lar[10500]=`<b>εως (ἡ) :<br>      1</b> action d’opposer une manœuvre à une autre (<i>sel. d’autres,</i> rivalité d’habileté) THC. <i>7, 70</i>.<br><b>      2</b> concurrence dans une profession, DH.<p><b>Étym</b>. *ἀντιτεχνάομαι.`

@@ -1,0 +1,1 @@
+lar[37328]=`<b>ἐπι·βεβαιόω-ῶ :<br>      1</b> ajouter une preuve, TH. <i>C.P. 5, 14, 4</i>.<br><b>      2</b> confirmer, ARSTT. <i>An. pr. 1, 32, 2 ; particul</i>. ratifier, PLUT. <i>Cato mi. 32</i>.`

@@ -1,0 +1,1 @@
+lar[94220]=`<b>συμ·περιφαντάζομαι</b>, se représenter <i>ou</i> imaginer ensemble, M. ANT. <i>10, 38</i>.`

@@ -1,0 +1,1 @@
+lar[3983]=`<font color="purple">[ῡ]</font> <i>adv</i>., sans agitation des flots, avec calme, CLÉM. <i>1, 680 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[31040]=`<b>ἑκατοντα·πλασίως</b> <font color="purple">[κᾰᾰσ]</font> <i>adv</i>., cent fois, SPT. <i>1Par. 21, 3</i>.<p><b>Étym</b>. ἑ. -πλάσιος.`

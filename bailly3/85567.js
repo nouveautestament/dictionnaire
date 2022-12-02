@@ -1,0 +1,1 @@
+lar[85567]=`<b>προσ·εμματεύω</b> <font color="purple">[ᾰ]</font> introduire la main pour tâter, ARISTÉN. <i>2, 22</i>.`

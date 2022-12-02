@@ -1,0 +1,1 @@
+lar[9297]=`<b>ἄ·νοος-ους, οος-ους, οον-ουν</b>, insensé, irréfléchi, imprudent, <i>en parl. de pers</i>. SOPH. <i>Ant. 99, 281, etc. ; en parl. de choses (cœur, âme, etc</i>.) IL. <i>21, 441</i> ; PLAT. <i>Tim. 44a</i>.<p>•<i> Cp</i>. -ούστερος, ESCHL. <i>Pr. 987</i> ; SOPH. <i>fr. 514</i>.<p><b>Étym</b>. ἀ, νόος.`

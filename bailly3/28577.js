@@ -1,0 +1,1 @@
+lar[28577]=`<b>δυσ·κηδής, ής, ές</b>, qui apporte de pénibles soucis, OD. <i>5, 466</i>.<p><b>Étym</b>. δ. κῆδος.`

@@ -1,0 +1,1 @@
+lar[110276]=`<b>ὠμο·κρατής, ής, ές</b> <font color="purple">[ᾰ]</font> aux fortes épaules, SOPH. <i>Aj. 205</i>.<p><b>Étym</b>. ὦμος, κράτος.`

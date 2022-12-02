@@ -1,0 +1,1 @@
+lar[3488]=`<b>ἄ·κοιτος, ος, ον</b>, qui ne forme pas de couche, qui ne dépose pas, <i>en parl. des liquides,</i> PLIN. <i>H.N. 11, 15</i>.<p><b>Étym</b>. ἀ, κοίτη.`

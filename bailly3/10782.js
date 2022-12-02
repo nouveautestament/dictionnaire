@@ -1,0 +1,1 @@
+lar[10782]=`<b>ἀν·ύπτιος, ος, ον</b>, non passif, <i>en parl. de verbes à la voix moyenne, t. de gr</i>. DL. <i>7, 64</i>.<p><b>Étym</b>. ἀν-, ὕ.`

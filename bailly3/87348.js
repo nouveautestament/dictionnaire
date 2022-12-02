@@ -1,0 +1,1 @@
+lar[87348]=`<b>πτερυγο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> qui ressemble à une aile, GAL. <i>2, 743</i>.<p><b>Étym</b>. πτέρυξ, εἶδος.`

@@ -1,0 +1,1 @@
+lar[60916]=`<b>λιβανό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐᾰ]</font> qui a la couleur de l’encens, STR. <i>703</i>.<p><b>Étym</b>. λίβανος, χρόα.`

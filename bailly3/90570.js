@@ -1,0 +1,1 @@
+lar[90570]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῑ]</font> champ de blé, PLUT. <i>M. 524a</i>.<p><b>Étym</b>. σῖτος.`

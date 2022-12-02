@@ -1,0 +1,1 @@
+lar[57811]=`<b>οῦ (ὁ)</b> action de précipiter, PROCL. <i>Ptol. 3, 17, p. 213</i> ; PTOL. <i>Tetr. p. 151, 8</i>.<p><b>Étym</b>. κρημνίζω.`

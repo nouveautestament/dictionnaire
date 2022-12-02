@@ -1,0 +1,1 @@
+lar[50725]=`<b>κακό·ζηλος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui recherche le mal, PLUT. <i>M. 706d.</i><br><b>      2</b> <i>t. de rhét</i>. de mauvais goût, affecté, DL. <i>1, 38</i> ; τὸ κακόζηλον, PHALAR. <i>Ep. 101, 17</i> ; QUINT. <i>8, 3, 56,</i> le mauvais goût, la recherche du style.<p><b>Étym</b>. κ. ζῆλος.`

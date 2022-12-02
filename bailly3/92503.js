@@ -1,0 +1,1 @@
+lar[92503]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f. c</i>. στεφανωτρίς TH. <i>H.P. 5, 8, 3</i>.`

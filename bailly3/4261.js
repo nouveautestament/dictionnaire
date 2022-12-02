@@ -1,0 +1,1 @@
+lar[4261]=`<b>ἀλεξί·κηπος, ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> le Gardien des jardins, <i>titre d’un traité d’horticulture,</i> GEOP. <i>12, 16</i>.<p><b>Étym</b>. ἀ. κῆπος.`

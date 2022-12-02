@@ -1,0 +1,1 @@
+lar[77562]=`<b>πεδ·ώρυχος, ος, ον</b> <font color="purple">[ῠ]</font> qui creuse le sol, ANTH. <i>10, 101</i>.<p><b>Étym</b>. πέδον, ὀρύσσω.`

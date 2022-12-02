@@ -1,0 +1,1 @@
+lar[51300]=`<font color="purple">[ᾰᾱᾰ]</font> <i>adv</i>., avec une probité scrupuleuse, PLUT. <i>Phoc. 32</i>.`

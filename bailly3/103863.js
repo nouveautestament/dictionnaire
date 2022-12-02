@@ -1,0 +1,1 @@
+lar[103863]=`<b>ὑπό·σπληνος, ος, ον</b>, malade de la rate, HPC. <i>Epid. 3, 1102, etc</i>.<p><b>Étym</b>. ὑ. σπλήν.`

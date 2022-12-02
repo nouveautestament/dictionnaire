@@ -1,0 +1,1 @@
+lar[57871]=`<b>(ὁ)</b> Krètinas, <i>h</i>. PLUT. <i>Præc. reip. ger. 14</i>.<p>➳ <i>Ion</i>. Κρητίνης, HDT. <i>7, 165</i>.`

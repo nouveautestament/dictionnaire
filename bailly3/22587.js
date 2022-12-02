@@ -1,0 +1,1 @@
+lar[22587]=`<b>γραμμα·τόκος, ος, ον</b>, qui enfante les caractères d’écriture (l’encre), ANTH. <i>6, 63</i>.<p><b>Étym</b>. γράμμα, τίκτω ; <i>sel. d’autres,</i> γραμμοτόκος, qui enfante les lignes d’écriture, <i>de</i> γραμμή, τίκτω.`

@@ -1,0 +1,1 @@
+lar[29571]=`<b>ᾶς (ἡ)</b> action de répandre une semence, diffusion, CLÉM. <i>902</i>.<p><b>Étym</b>. ἐγκατασπείρω.`

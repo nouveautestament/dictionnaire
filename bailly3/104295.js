@@ -1,0 +1,1 @@
+lar[104295]=`<b>οῦ (ὁ)</b> javelot, le pilum romain, POL. <i>6, 23, 8</i> ; PLUT. <i>Mar. 20, Pomp. 7 et 69, etc</i>.`

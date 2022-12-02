@@ -1,0 +1,1 @@
+lar[82940]=`<b>ποσσί·κλυτος, ος, ον</b> <font color="purple">[ῠ]</font> renommé pour l’agilité de ses pieds, DIONYS. (E. BYZ. <i>v°</i> Κάσπειρος).<p><b>Étym</b>. πούς, κλυτός.`

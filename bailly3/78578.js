@@ -1,0 +1,1 @@
+lar[78578]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> <i>en parl. du style, c</i>. περιεργία, LGN <i>3, 4</i>.<br><b>      2</b> magie, CLÉM. <i>1, 213 Migne</i>.`

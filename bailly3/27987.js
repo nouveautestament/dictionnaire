@@ -1,0 +1,1 @@
+lar[27987]=`<b>οῦ (ἡ)</b> <i>ou</i> <b>Δρυμόν, οῦ (τὸ)</b> Drymos <i>ou</i> Drymon :<br><b>      1</b> <i>v. de Phocide,</i> HDT. <i>8, 33</i>.<br><b>      2</b> <i>lieu sur la frontière d’Attique et de Béotie,</i> ARSTT. (HARP.) <i>au neutre</i> Δρυμόν.<p><b>Étym</b>. δρυμός.`

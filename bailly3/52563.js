@@ -1,0 +1,1 @@
+lar[52563]=`<font color="purple">[ῐ]</font> <i>vb. de</i> κατακλίνω, HÉRODOTUS (ORIB. <i>1, 497 B.-Dar</i>.).`

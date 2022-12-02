@@ -1,0 +1,1 @@
+lar[104125]=`<b>ὑπο·φρίσσω</b>, <i>néo-att</i>. <b>ὑπο·φρίττω</b>, éprouver un frisson, un mouvement d’effroi, LUC. <i>Per. 39, J. conf. 4, Im. 12</i> ; PHILSTR. <i>Im. 8</i> ; τινά, EUPH. <i>fr. 73,</i> à la vue de qqn.<p>➳ ὑποφρίττω, LUC. <i>ll. cc.</i> ; EUN. <i>p. 113 Boiss</i>.`

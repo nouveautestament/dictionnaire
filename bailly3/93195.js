@@ -1,0 +1,1 @@
+lar[93195]=`<b>συγ·γηράω</b>, <i>ion. et anc. att</i>. <b>ξυγγηράω-ῶ</b>. <i>(seul. prés.) c</i>. συγγηράσκω SPT. <i>Sir. 11, 16</i> ; ARÉT. <i>Cur. m. acut. 1, 5</i>.`

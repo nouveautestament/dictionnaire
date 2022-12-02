@@ -1,0 +1,1 @@
+lar[95189]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> qui est juge avec un autre, membre d’un jury, AR. <i>Vesp. 197, etc</i>.<p><b>Étym</b>. συνδικάζω.`

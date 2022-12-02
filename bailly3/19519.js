@@ -1,0 +1,1 @@
+lar[19519]=`<b>βελτιόω-ῶ</b>, <i>f</i>. ώσω, améliorer, PHIL. ; <i>au pass</i>. ARSTT. <i>Plant. 1, 7, 3</i> ; PLUT. <i>M. 85c</i>.<p><b>Étym</b>. βελτίων.`

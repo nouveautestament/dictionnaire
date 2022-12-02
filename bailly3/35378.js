@@ -1,0 +1,1 @@
+lar[35378]=`<b>ἐξ·αλεείνω</b> <font color="purple">[ᾰ]</font> <i>(seul. prés.) c</i>. ἐξαλεύομαι, OPP. <i>H. 5, 398</i>.`

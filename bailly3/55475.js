@@ -1,0 +1,1 @@
+lar[55475]=`<b>έως (ὁ)</b> <font color="purple">[ῐᾰ]</font> THCR. <i>Idyl. 5, 25, conj. c</i>. κίναδος.`

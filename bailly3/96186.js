@@ -1,0 +1,1 @@
+lar[96186]=`<font color="purple">[ξῡ]</font><br><b>      1</b> terminer en pointe, POL. <i>6, 22, 4</i>.<br><b>      2</b> marquer de l’accent aigu avec, <i>dat</i>. DYSC. <i>Adv. p. 559, 12</i>.<p><b>Étym</b>. σύνοξυς.`

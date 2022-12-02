@@ -1,0 +1,1 @@
+lar[81297]=`<b>ποδο·στράβη, ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> instrument de chirurgie <i>ou</i> de torture pour tordre les pieds, LUC. <i>Lex. 10</i>.<br><b>      2</b> piège pour les cerfs, XÉN. <i>Cyn. 9, 11</i>.`

@@ -1,0 +1,1 @@
+lar[94304]=`<b>συμ·ποιμαίνω</b>, faire paître ensemble, JOS. <i>A.J. 1, 19, 4</i> ; NAZ. <i>1, 841 Migne ; au pass. (impf. 3 pl. avec tmèse</i> σὺν… ἐποιμαίνοντο) paître ensemble, EUR. <i>Alc. 579</i>.`

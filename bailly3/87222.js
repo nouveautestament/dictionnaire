@@ -1,0 +1,1 @@
+lar[87222]=`<b>πρωτο·λοχία, ας (ἡ)</b> le premier rang ou front d’une troupe, ASCLÉPIOD. <i>2, 5</i>.<p><b>Étym</b>. πρ. λόχος.`

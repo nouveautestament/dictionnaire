@@ -1,0 +1,1 @@
+lar[28295]=`<b>δυσ·διακόντιστος, ος, ον</b>, difficile à percer d’un trait, EL. <i>N.A. 17, 44</i>.<p><b>Étym</b>. δ. διακοντίζω.`

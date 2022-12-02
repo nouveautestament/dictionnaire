@@ -1,0 +1,1 @@
+lar[104749]=`<b>(ὁ)</b> Phaléas, <i>h</i>. ARSTT. <i>Pol. 2, 7, 12</i>.`

@@ -1,0 +1,1 @@
+lar[17009]=`<b>ου (ὁ)</b> <i>sorte de sauterelle,</i> SPT. <i>Lev. 11, 23</i>.`

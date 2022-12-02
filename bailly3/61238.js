@@ -1,0 +1,1 @@
+lar[61238]=`<b>λινό·πεπλος, ος, ον</b> <font color="purple">[ῐ]</font> au voile de lin, ANTH. <i>6, 231</i>.<p><b>Étym</b>. λ. πέπλος.`

@@ -1,0 +1,1 @@
+lar[94961]=`<b>ῆς (ἡ)</b> accord parfait, harmonie complète, T. LOCR. <i>95b ;</i> DIOTOG. (STOB. <i>Fl. 48, 62</i>) ; PLUT. <i>Æmil. 32, M. 1007d</i>.<p><b>Étym</b>. συναρμόζω.`

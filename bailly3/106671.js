@@ -1,0 +1,1 @@
+lar[106671]=`<b>ας (ἡ)</b> ce qu’on porte sur soi, vêtement, PALÆPH. <i>52, 5</i>.<p><b>Étym</b>. φορέω.`

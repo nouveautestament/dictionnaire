@@ -1,0 +1,1 @@
+lar[77812]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. Πελληναῖος.`

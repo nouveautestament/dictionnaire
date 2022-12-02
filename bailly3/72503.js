@@ -1,0 +1,1 @@
+lar[72503]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱμᾰ]</font> visionnaire, SYMM. <i>Esaï. 56, 10</i>.<p><b>Étym</b>. ὁραματίζομαι.`

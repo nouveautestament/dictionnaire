@@ -1,0 +1,1 @@
+lar[85768]=`<b>πρόσ·εργος, ος, ον</b>, apte au travail, ANTH. <i>6, 288 dout</i>.<p><b>Étym</b>. π. ἔργον.`

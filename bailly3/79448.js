@@ -1,0 +1,1 @@
+lar[79448]=`<b>περι·σφύριος, ος, ον</b> <font color="purple">[ῠ]</font> qui entoure la cheville, ANTH. <i>6, 207 ; subst</i>. τὸ περισφύριον, HDT. <i>4, 176</i> ; ANTH. <i>6, 172,</i> ornement autour de la cheville <i>ou</i> de la chaussure des femmes.<p><b>Étym</b>. π. σφύρα.`

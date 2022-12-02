@@ -1,0 +1,1 @@
+lar[75689]=`<b>παρα·καταλέγομαι</b> <font color="darkgreen">(<i>ao.2, 3 sg. sync</i>. παρκατέλεκτο)</font> se coucher <i>ou</i> être couché auprès de, <i>dat</i>. IL. <i>9, 566, 660</i>.`

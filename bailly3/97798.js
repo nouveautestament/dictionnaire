@@ -1,0 +1,1 @@
+lar[97798]=`<b>ταυρό·πους, -ποδος (ὁ, ἡ)</b> aux pieds de taureau, EUR. <i>I.A. 275</i>.<p><b>Étym</b>. τ. πούς.`

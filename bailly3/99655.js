@@ -1,0 +1,1 @@
+lar[99655]=`<b>οῦ (ὁ)</b> graveur, ciseleur, POL. <i>26, 10, 3</i> ; DH. <i>Comp. 25, etc</i>.<p><b>Étym</b>. τορεύω.`

@@ -1,0 +1,1 @@
+lar[36744]=`<b>ἐπ·αοιδός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπῳδός, SPT. <i>Ex. 7, 19 ; Sir. 12, 13 ; Dan. 2, 2</i> ; PHIL. <i>1, 449</i> ; ARR. <i>Epict. 3, 24, 10</i>.<p><b>Étym</b>. ἐπί, ἀ.`

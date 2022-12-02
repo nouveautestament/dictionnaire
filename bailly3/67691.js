@@ -1,0 +1,1 @@
+lar[67691]=`<font color="purple">[ᾱᾱ]</font> <i>dor. c</i>. νησιώτης.`

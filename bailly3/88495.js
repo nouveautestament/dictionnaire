@@ -1,0 +1,1 @@
+lar[88495]=`<b>ῥητο·λογία, ας (ἡ)</b> composition oratoire, TAT. <i>Or. ad Græc. 40</i>.<p><b>Étym</b>. ῥητός, λόγος.`

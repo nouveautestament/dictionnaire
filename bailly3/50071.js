@@ -1,0 +1,1 @@
+lar[50071]=`<b>ου (τὸ)</b> vivier, MOSCHION HIST. (ATH. <i>208a</i>).<p><b>Étym</b>. ἰχθυοτρόφος.`

@@ -1,0 +1,1 @@
+lar[53309]=`<b>εως (ἡ)</b> action de faire tomber en secouant, HPC. <i>815g</i>.<p><b>Étym</b>. κατασείω.`

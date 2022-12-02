@@ -1,0 +1,1 @@
+lar[109889]=`<b>ᾶς (ἡ)</b> <i>c</i>. ψόα, <i>au pl</i>. POLYBOS (ARSTT. <i>H.A. 3, 3, 2</i>).`

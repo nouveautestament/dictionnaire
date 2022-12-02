@@ -1,0 +1,1 @@
+lar[309]=`<b>ἀγαλματο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰγμᾰ]</font> statuaire, sculpteur, HDT. <i>2, 46</i> ; PLAT. <i>Prot. 311c, etc</i>.<p><b>Étym</b>. ἄγ. ποιέω.`

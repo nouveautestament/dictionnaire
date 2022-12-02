@@ -1,0 +1,1 @@
+lar[46558]=`<b>θεμελιόω-ῶ</b>, asseoir sur des fondements, XÉN. <i>Cyr. 7, 5, 11 ; au pass</i>. NT. <i>Matth. 7, 25 ; fig. en parl. de royauté,</i> DS. <i>11, 68 ; de pouvoir,</i> DS. <i>15, 1 ; de confiance, etc</i>. NT. <i>Eph. 2, 18</i> ; COL. <i>1, 23</i>.<p><b>Étym</b>. θεμέλιος.`

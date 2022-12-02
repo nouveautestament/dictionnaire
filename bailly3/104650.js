@@ -1,0 +1,1 @@
+lar[104650]=`<b>ωνος (ὁ)</b> Phædôn (Phédon) :<br><b>      1</b> <i>ami de Socrate et dont le nom sert de titre à un dialogue de Platon</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Thes. 36, etc</i>.`

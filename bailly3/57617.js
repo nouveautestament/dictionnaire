@@ -1,0 +1,1 @@
+lar[57617]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> appui solide, force, SPT. <i>Ps. 42, 2</i>.<p><b>Étym</b>. κραταιόω.`

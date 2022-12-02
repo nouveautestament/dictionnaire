@@ -1,0 +1,1 @@
+lar[23539]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. effrayant, BATR. <i>289</i> ; THGN. <i>1124</i>.<br><b>      2</b> <i>pass</i>. timide, craintif, MOSCH. <i>2, 20</i> ; OPP. <i>C. 1, 165</i> ; ARSTT. <i>Physiogn. 6, 2</i>.<p><b>Étym</b>. δεῖμα.`

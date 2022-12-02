@@ -1,0 +1,1 @@
+lar[73142]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> chef (<i>propr</i>. celui qui est en avant, le premier) OD. <i>14, 22, 121</i> ; ESCHL. <i>Pers. 129, etc</i>.<p><b>Étym</b>. <i>p.-ê. de</i> ἄρχω, <i>avec alternance vocalique, ou p.-ê. pré-grec</i>.`

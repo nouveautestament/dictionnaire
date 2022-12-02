@@ -1,0 +1,1 @@
+lar[39393]=`<b>ἐπι·τεχνάομαι-ῶμαι :<br>      1</b> imaginer en vue de <i>ou</i> contre, HDT. <i>1, 63 et 123 ; 2, 2, etc.</i> ; DH. <i>4, 55</i> ; τινί τι, LUC. <i>Bis acc. 1,</i> imaginer qqe ch. contre qqn.<br><b>      2</b> imaginer, tramer, machiner en outre : ἄλλους ἐπ' ἄλλοις πολέμους, DH. <i>6, 20,</i> machiner des guerres continuelles, l’une après l’autre.`

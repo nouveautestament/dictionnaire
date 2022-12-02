@@ -1,0 +1,1 @@
+lar[20311]=`<b>εσσα, εν :<br>      1</b> plein de grappes, ION (ATH. <i>447d</i>) ; ANTH. <i>9, 363</i>.<br><b>      2</b> en forme de grappe, A.RH. <i>2, 677</i>.<p><b>Étym</b>. βότρυς.`

@@ -1,0 +1,1 @@
+lar[11122]=`<b>ἀπ·αιθαλόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀπῃθάλωσα)</font> <font color="purple">[θᾰ]</font> réduire en charbon, brûler, BAS.`

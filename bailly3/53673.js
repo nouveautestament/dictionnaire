@@ -1,0 +1,1 @@
+lar[53673]=`<b>κατα·φράσσω</b>, couvrir d’une armure, cuirasser, PLUT. <i>Alex. 16, etc.</i> ; SPT. <i>1Macc. 6, 38</i>.`

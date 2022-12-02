@@ -1,0 +1,1 @@
+lar[28154]=`<b>δυσ·άλγητος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> très douloureux, EUP. (POLL. <i>3, 130</i>).<br><b>      2</b> insensible, SOPH. <i>O.R. 12, fr. 689</i>.<p><b>Étym</b>. δ. ἀλγέω.`

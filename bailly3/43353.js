@@ -1,0 +1,1 @@
+lar[43353]=`<b>εὐρυ·φυής, ής, ές</b> <font color="purple">[ρῠ]</font> qui croît et se développe, OD. <i>4, 604</i>.<p><b>Étym</b>. εὐ. φύω.`

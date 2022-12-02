@@ -1,0 +1,1 @@
+lar[94419]=`<b>συμ·φεύγω</b>, <i>anc. att</i>. <b>ξυμ·φεύγω</b> <font color="darkgreen">(<i>ao.2</i> ξυνέφυγον) :</font><br><b>      1</b> fuir avec : τινί, HDT. <i>4, 11</i> ; EUR. <i>Ph. 1679</i> ; σύν τινι, EUR. <i>Her. 26,</i> avec qqn.<br><b>      2</b> être exilé avec <i>ou</i> ensemble, LYCURG. <i>151, 13</i> ; PLAT. <i>Ap. 21a</i>.`

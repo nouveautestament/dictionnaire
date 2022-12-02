@@ -1,0 +1,1 @@
+lar[96333]=`<b>ή, όν</b>, qui conserve, qui préserve, GAL. <i>2, 365</i> ; NYSS. <i>4, 1240 Migne</i>.<p><b>Étym</b>. συντηρέω.`

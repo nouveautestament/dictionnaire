@@ -1,0 +1,1 @@
+lar[86289]=`<b>προσ·πάσχω</b> <font color="darkgreen">(<i>f</i>. προσπείσομαι, <i>ao.2</i> προσέπαθον, <i>etc</i>.) :</font><br><b>      1</b> éprouver en outre, PLAT. <i>Phæd. 47a ;</i> MACH. (ATH. <i>346a</i>).<br><b>      2</b> avoir de l’affection <i>ou</i> du goût pour, <i>dat</i>. ISOCR. <i>217a ;</i> PLUT. <i>M. 514a, Sert. 26</i> ; LUC. <i>Dem. enc. 40, etc</i>.`

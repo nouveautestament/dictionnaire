@@ -1,0 +1,1 @@
+lar[76906]=`<b>ου (ὁ)</b> <font color="purple">[ε long]</font> Parthénopæos, <i>fils d’Atalante,</i> ESCHL. <i>Sept. 547, etc</i>.<p><b>Étym</b>. Παρθενόπη.`

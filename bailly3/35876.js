@@ -1,0 +1,1 @@
+lar[35876]=`<b>ἐξ·ευγενίζω</b>, rendre noble comme un homme libre, ORIG. <i>1, 992 Migne</i>.`

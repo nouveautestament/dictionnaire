@@ -1,0 +1,1 @@
+lar[108966]=`<font color="purple">[ῐ]</font> être utile à, <i>dat</i>. ARSTT. <i>Nic. 1, 8</i> ; TH. <i>fr. 15, 1</i> ; LUC. <i>D. mort. 10, 9,</i> à qqn ; πρός τι, DIOSC. <i>5, 84</i> ; DS. <i>1, 81</i> ; εἴς τι, A. APHR. <i>Top. 1,</i> pour qqe ch. ; <i>abs</i>. SPT. <i>Sap. 4, 3</i>.<p><b>Étym</b>. χρήσιμος.`

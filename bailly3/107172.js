@@ -1,0 +1,1 @@
+lar[107172]=`<b>ατος (τὸ)</b> feuillage formé, feuillage, DS. <i>3, 19</i>.<p><b>Étym</b>. φυλλόω.`

@@ -1,0 +1,1 @@
+lar[68257]=`<b>νεο·σταθής, ής, ές</b> <font color="purple">[ᾰ]</font> nouvellement établi, PLUT. <i>M. 321d</i>.<p><b>Étym</b>. ν. ἵστημι.`

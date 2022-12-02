@@ -1,0 +1,1 @@
+lar[89587]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> éclaircissement, explication, DH. <i>1, 66</i>.<p><b>Étym</b>. σαφηνίζω.`

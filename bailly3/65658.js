@@ -1,0 +1,1 @@
+lar[65658]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Midôn :<br><b>      1</b> <i>h</i>. ANTH. <i>9, 233</i>.<br><b>      2</b> <i>titre de comédies d’Alexis et d’Antiphane</i>.`

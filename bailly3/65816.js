@@ -1,0 +1,1 @@
+lar[65816]=`<b>μιλτο·φυρής, ής, ές</b> <font color="purple">[ῠ]</font> barbouillé de vermillon, ANTH. <i>6, 103</i>.<p><b>Étym</b>. μίλτος, φύρω.`

@@ -1,0 +1,1 @@
+lar[83310]=`<b>πραϋ·παθής, ής, ές</b> <font color="purple">[ᾱῠᾰ]</font> qui supporte avec douceur, d’un bon caractère, PHIL. <i>2, 595</i> ; BAS. <i>1, 356 Migne</i>.<p><b>Étym</b>. πραΰς, πάθος.`

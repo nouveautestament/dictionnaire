@@ -1,0 +1,1 @@
+lar[89048]=`<b>(ὁ)</b> Sabbas, <i>roi de l’Inde,</i> PLUT. <i>Alex. 64</i>.`

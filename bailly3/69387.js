@@ -1,0 +1,1 @@
+lar[69387]=`<b>ητος (ἡ)</b> couleur jaune <i>ou</i> blonde, STR. <i>290</i>.<p><b>Étym</b>. ξανθός.`

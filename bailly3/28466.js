@@ -1,0 +1,1 @@
+lar[28466]=`<b>δυσ·ζήτητος, ος, ον</b>, difficile à chercher, XÉN. <i>Cyn. 8, 1</i>.<p><b>Étym</b>. δ. ζητέω.`

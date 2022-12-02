@@ -1,0 +1,1 @@
+lar[95788]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>fém. de</i> συνέταιρος ERINN. <i>5 Bgk</i> ; SPT. <i>Jud. 11, 37 et 38</i>.`

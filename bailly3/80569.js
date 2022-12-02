@@ -1,0 +1,1 @@
+lar[80569]=`<b>ιγγος (ἡ)</b> <i>sorte d’oiseau aquatique,</i> ARSTT. <i>H.A. 9, 1</i>.`

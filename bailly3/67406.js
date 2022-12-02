@@ -1,0 +1,1 @@
+lar[67406]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> <i>c</i>. μυσαρός, MAN. <i>4, 269</i>.`

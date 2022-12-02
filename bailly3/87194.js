@@ -1,0 +1,1 @@
+lar[87194]=`<b>πρωτο·γέννητος, ος, ον</b>, engendré <i>ou</i> né le premier, POÈT. (<i>Cram. 4, 270).</i><p><b>Étym</b>. πρ. <i>vb. de</i> γεννάω.`

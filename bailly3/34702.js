@@ -1,0 +1,1 @@
+lar[34702]=`<font color="purple">[ᾰ]</font> (οἱ, αἱ, τὰ) <i>indécl</i>. neuf, IL. <i>2, 96, etc.</i> ; OD. <i>3, 7, etc.</i> ; ATT. <i>etc</i>.<p>➳ <i>Éol</i>. ἔννεα, THCR. <i>Idyl. 30, 27</i>.<p><b>Étym</b>. <i>pour</i> *ἐννέϝα, <i>de indo-europ</i>. *h₁n(e)un, neuf ; <i>cf. lat</i>. nŏvem, <i>sscr</i>. náva, <i>all</i>. neun.`

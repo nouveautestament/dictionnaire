@@ -1,0 +1,1 @@
+lar[95465]=`<b>συν·εμπίπρημι</b> <font color="darkgreen">(<i>ao. pass. inf</i>. συνεμπρησθῆναι, <i>pf</i>. συνεμπεπρῆσθαι)</font> brûler ensemble, EUR. <i>Rhes. 489 ; au pass</i>. STR. <i>640</i>.`

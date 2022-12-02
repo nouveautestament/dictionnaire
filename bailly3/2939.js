@@ -1,0 +1,1 @@
+lar[2939]=`<b>ου (ὁ)</b> Æsôpos (Ésope) :<br><b>      1</b> <i>fabuliste,</i> HDT. <i>2, 134</i> ; PLAT. <i>Phæd. 130c.</i><br><b>      2</b> <i>acteur tragique</i>.`

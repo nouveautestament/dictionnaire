@@ -1,0 +1,1 @@
+lar[62803]=`<b>ου (τὸ)</b> petite mère, LUC. <i>D. mer. 6, 1 ; 7, 4</i>.<p><b>Étym</b>. pour *μαμμάριον.`

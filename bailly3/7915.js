@@ -1,0 +1,1 @@
+lar[7915]=`<b>ῆς (ἡ)</b> <font color="purple">[χᾰᾰ]</font> <i>c</i>. ἀναχάραξις APD. POL. <i>47, 27</i>.`

@@ -1,0 +1,1 @@
+lar[110523]=`<b>ου</b>, <i>adj. m.</i> : σεισμὸς ὤστης, ARSTT. <i>Mund. 4, 31,</i> tremblement de terre qui renverse d’une secousse.<p><b>Étym</b>. ὠθέω.`

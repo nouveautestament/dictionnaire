@@ -1,0 +1,1 @@
+lar[40061]=`<b>ή, όν</b>, qui aime à couver, ARSTT. <i>H.A. 6, 2, 12 (au cp</i>. -ώτερος).<p><b>Étym</b>. ἐπῳάζω.`

@@ -1,0 +1,1 @@
+lar[68271]=`<b>νεο·τερπής, ής, ές</b>, qui procure une nouvelle jouissance, OPP. <i>H. 3, 352</i>.<p><b>Étym</b>. ν. τέρπω.`

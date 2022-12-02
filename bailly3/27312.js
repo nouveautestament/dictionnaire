@@ -1,0 +1,1 @@
+lar[27312]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> DÉM. <i>86, 17</i> ; ARSTD. <i>t. 1, 130, 233, 546</i> ; POLYEN <i>4, 18, c</i>. διῶρυξ.<p>➳ <i>Seule forme correcte ; formes réc. avec</i> γ : διωρυγή, PLUT. <i>Fab. 1 ; avec</i> ο <i>et</i> χ : διορυχή, LIB. <i>1, 190 ; 4, 417 ; avec</i> ο <i>et</i> γ : διορυγή, THÉM. <i>36d</i>.`

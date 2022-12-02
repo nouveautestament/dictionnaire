@@ -1,0 +1,1 @@
+lar[90316]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Silo, <i>n. d’h. rom</i>. PLUT. <i>Mar. 23, etc</i>.`

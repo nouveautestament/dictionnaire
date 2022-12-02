@@ -1,0 +1,1 @@
+lar[23245]=`<b>(οἱ)</b> les Dardes, <i>pple indien,</i> NONN. <i>D. 26, 61</i>.`

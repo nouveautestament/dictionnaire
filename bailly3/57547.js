@@ -1,0 +1,1 @@
+lar[57547]=`<b>ῶν (οἱ)</b> descendants de Kranaos, EUR. <i>Suppl. 713, Bacch. 28</i>.<p><b>Étym</b>. Κραναοί.`

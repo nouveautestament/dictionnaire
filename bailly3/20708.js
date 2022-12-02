@@ -1,0 +1,1 @@
+lar[20708]=`<b>βραχυπαραληκτέω-ῶ</b> <font color="purple">[ᾰῠᾰᾰ]</font> avoir la pénultième brève, DRAC. <i>p. 20</i>.<p><b>Étym</b>. <i>v</i>. βραχυπαραλήκτως.`

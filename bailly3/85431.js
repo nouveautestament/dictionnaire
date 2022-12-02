@@ -1,0 +1,1 @@
+lar[85431]=`<b>προσ·διατρίβω</b> <font color="purple">[ῑβ]</font><br><b>      1</b> s’arrêter <i>ou</i> insister davantage sur, <i>dat</i>. ARSTD. <i>t. 1, 135</i>.<br><b>      2</b> passer sa vie avec, fréquenter, <i>dat</i>. PLAT. <i>Theæt. 168a.</i><br><b>      3</b> séjourner plus longtemps, MÉN. (<i>Com. fr. 4, 212</i>).`

@@ -1,0 +1,1 @@
+lar[85991]=`<b>προσ·κατεσθίω</b> <font color="darkgreen">(<i>f</i>. -κατέδομαι, <i>d’où 2 sg</i>. -κατέδει)</font> manger en outre, ALEX. (<i>Com. fr. 3, 462</i>).`

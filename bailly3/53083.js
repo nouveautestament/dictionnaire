@@ -1,0 +1,1 @@
+lar[53083]=`<b>ατος (τὸ)</b> enduit qu’on applique :<br><b>      1</b> emplâtre, fard, AR. <i>fr. 309, 12</i>.<br><b>      2</b> cataplasme, TH. <i>H.P. 9, 11, 14</i>.<p><b>Étym</b>. καταπλάσσω.`

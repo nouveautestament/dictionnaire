@@ -1,0 +1,1 @@
+lar[10127]=`<b>Ἀντί·νοος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Antinoos (Antinoüs) :<br><b>      1</b> <i>prétendant de Pénélope,</i> OD. <i>4, 660, etc.</i><br><b>      2</b> <i>favori de l’empereur Hadrien,</i> PAUS. <i>8, 9, 7, etc</i>.<p>➳ Par <i>contr</i>. Ἀντίνους, ου, POL. <i>27, 13, 7 ; 30, 7, 2</i> ; D. CHR. <i>1, p. 250</i>.<p><b>Étym</b>. <i>v</i>. ἀντίνοος.`

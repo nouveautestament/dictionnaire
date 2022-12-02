@@ -1,0 +1,1 @@
+lar[45022]=`<b>ἡδυ·πότης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. convive (<i>propr</i>. buveur) aimable, ANTH. <i>9, 524, etc.</i> ; MAN. <i>4, 493</i>.<p><b>Étym</b>. ἡ. πίνω.`

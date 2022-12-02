@@ -1,0 +1,1 @@
+lar[101182]=`<i>ou</i> <b>ου (ὁ)</b> sorte de serpent qu’on croyait aveugle, ARSTT. <i>H.A. 8, 24, 7</i>.<p><b>Étym</b>. τυφλός.`

@@ -1,0 +1,1 @@
+lar[107561]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῑᾰγ]</font> action de conduire avec le frein, SIMPL. <i>Epict. p. 119, 10</i>.<p><b>Étym</b>. χαλιναγωγός.`

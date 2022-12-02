@@ -1,0 +1,1 @@
+lar[59689]=`<b>ου (ὁ)</b> <font color="purple">[πᾰᾱ]</font><br><b>      1</b> sorte de comète, DL. <i>7, 152</i>.<br><b>      2</b> <i>n. de l’étoile Aldébaran,</i> PTOL. <i>Tetr. 1, 8</i>.<p><b>Étym</b>. λαμπάς.`

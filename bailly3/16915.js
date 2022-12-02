@@ -1,0 +1,1 @@
+lar[16915]=`<b>ἀ·τρανώτως</b> <font color="purple">[ᾱν]</font> <i>adv</i>., avec obscurité, ORIG.<p><b>Étym</b>. ἀ, τρανόω.`

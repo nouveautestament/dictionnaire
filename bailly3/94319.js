@@ -1,0 +1,1 @@
+lar[94319]=`<b>συμ·πορίζω</b>, fournir <i>ou</i> procurer ensemble, THC. <i>7, 20 ; au pass</i>. PLUT. <i>Mar. 40</i>.<br><b><i>Moy.</i></b> se procurer à la fois, faire provision de, <i>acc</i>. THC. <i>8, 1</i> ; ISOCR. <i>47a</i>.`

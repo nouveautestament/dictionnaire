@@ -1,0 +1,1 @@
+lar[72083]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à rendre la vue perçante, PLUT. <i>M. 69a</i>.<p><b>Étym</b>. ὀξυδορκέω.`

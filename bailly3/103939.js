@@ -1,0 +1,1 @@
+lar[103939]=`<b>ὑπο·συστρέφω</b>, rouler ensemble légèrement, GAL. <i>Lex. Hipp. 19, 148</i>.`

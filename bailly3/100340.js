@@ -1,0 +1,1 @@
+lar[100340]=`<b>τρι·πάροδος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à trois passages <i>ou</i> entrées, <i>en parl. d’un navire,</i> MOSCHION HIST. (ATH. <i>207c</i>).<p><b>Étym</b>. τρ. πάροδος.`

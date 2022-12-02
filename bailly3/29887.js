@@ -1,0 +1,1 @@
+lar[29887]=`<b>ή, όν</b>, entreprenant, XÉN. <i>Hell. 4, 8, 22 au cp</i>. -ώτερος.<p><b>Étym</b>. ἐγχειρέω.`

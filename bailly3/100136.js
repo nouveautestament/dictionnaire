@@ -1,0 +1,1 @@
+lar[100136]=`<font color="purple">[ῐ]</font> user de ruse, ANT. (HARP. <i>p. 177, 20 Bkk</i>.).<p><b>Étym</b>. τρίβων.`

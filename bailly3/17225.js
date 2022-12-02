@@ -1,0 +1,1 @@
+lar[17225]=`<b>αὐλο·τρύπης, ου (ὁ)</b> <font color="purple">[ῡ]</font> ouvrier qui perce les aulos, STRATT. (ATH. <i>592d</i>) ; ARSTT. <i>Probl. 18, 23</i>.<p><b>Étym</b>. αὐλός, τρυπάω.`

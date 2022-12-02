@@ -1,0 +1,1 @@
+lar[97630]=`<b>ορος (ὁ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. ταρακτής, ESCHL. <i>Sept. 572</i>.`

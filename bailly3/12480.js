@@ -1,0 +1,1 @@
+lar[12480]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> matière sécrétée, ARSTT. <i>P.A. 4, 2, 10</i>.<p><b>Étym</b>. ἀποκαθαίρω.`

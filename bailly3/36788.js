@@ -1,0 +1,1 @@
+lar[36788]=`<font color="purple">[ᾰ]</font> <i>adv</i>., gauchement, maladroitement, MÉN. (CLÉM. <i>Str. 2, p. 422c</i>) ; PLUT. <i>M. 467c</i>.<p><b>Étym</b>. ἐπαρίστερος.`

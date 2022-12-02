@@ -1,0 +1,1 @@
+lar[65778]=`<b>μικτό·χροος, οος, οον</b>, à couleurs mélangées, ARCHIM. <i>Probl. 13, 21</i>.<p><b>Étym</b>. μικτός, χρόα.`

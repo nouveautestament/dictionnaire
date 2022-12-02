@@ -1,0 +1,1 @@
+lar[51451]=`<b>ης (ἡ)</b> chenille HPC. <i>263, 36</i> ; ARSTT. <i>Inc. an. 9, etc</i>.<p><b>Étym</b>. <i>pré-grec. Rapproché de</i> καμπή <i>par l’étym. pop., litt</i>. qui se pelotonne sur soi-même.`

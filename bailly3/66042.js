@@ -1,0 +1,1 @@
+lar[66042]=`<b>μισό·λεκτρος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait le mariage, HLD. <i>3, 9</i>.<p><b>Étym</b>. μ. λέκτρον.`

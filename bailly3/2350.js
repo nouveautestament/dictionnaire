@@ -1,0 +1,1 @@
+lar[2350]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’une manière funeste, IL. <i>21, 220</i>.`

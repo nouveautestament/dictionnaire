@@ -1,0 +1,1 @@
+lar[5225]=`<b>Ἁμαξο·κυλισταί, ῶν (οἱ)</b> <font color="purple">[ᾰμῦ]</font> « les Renverseurs de charrettes » <i>n. d’une famille de Mégare,</i> PLUT. <i>M. 304e</i>.<p><b>Étym</b>. ἅ. κυλίω.`

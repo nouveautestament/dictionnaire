@@ -1,0 +1,1 @@
+lar[57314]=`<b>Κοστο·φάγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Mangeur-de-costus, <i>n. de rat,</i> BATR. <i>218</i>.<p><b>Étym</b>. κόστος, φαγεῖν.`

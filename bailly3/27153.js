@@ -1,0 +1,1 @@
+lar[27153]=`<b>ου (ὁ)</b> petit char, AR. <i>Nub. 31</i>.<p><b>Étym</b>. δίφρος.`

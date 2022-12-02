@@ -1,0 +1,1 @@
+lar[59886]=`<b>ου (ὁ)</b> panier à charbon, AR. <i>Ach. 350</i> ; ALEX. (<i>Com. fr. 3, 478</i>) LYS. (HARP.).`

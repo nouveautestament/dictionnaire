@@ -1,0 +1,1 @@
+lar[52835]=`<b>κατα·μηκύνω</b> <font color="purple">[ῡ]</font> allonger, GAL. <i>2, 178</i> ; PTOL. <i>Tetr. 100, 17</i>.`

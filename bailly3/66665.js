@@ -1,0 +1,1 @@
+lar[66665]=`<b>μονο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange seul, <i>d’où</i> gourmand, égoïste, avare, AMIPS. (ATH. <i>8e</i>) ; PLUT. <i>M. 301d</i>.<p>•<i> Sup. irrég</i>. μονοφαγίστατος, AR. <i>Vesp. 923</i>.<p><b>Étym</b>. μ. φαγεῖν.`

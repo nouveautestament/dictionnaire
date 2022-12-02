@@ -1,0 +1,1 @@
+lar[72097]=`<b>ας (ἡ)</b> <font color="purple">[ῠῡ]</font> accès de colère, HPC. <i>1037f ;</i> EUR. <i>Andr. 728</i>.<p><b>Étym</b>. ὀξύθυμος.`

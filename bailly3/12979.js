@@ -1,0 +1,1 @@
+lar[12979]=`<b>ἀπο·νοσέω-ῶ</b>, relever de maladie, HPC. <i>256, 43</i>.`

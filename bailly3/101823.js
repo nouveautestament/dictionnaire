@@ -1,0 +1,1 @@
+lar[101823]=`<b>ὑμνολογέω-ῶ</b>, chanter les louanges de, célébrer, <i>acc</i>. SYMM. <i>Ps. 55, 11 ; 64, 9</i>.<p><b>Étym</b>. ὑμνολόγος.`

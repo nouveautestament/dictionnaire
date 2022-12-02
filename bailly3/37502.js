@@ -1,0 +1,1 @@
+lar[37502]=`<b>ἐπι·δακνώδης, ης, ες</b>, légèrement corrosif <i>ou</i> mordant, ORIB. <i>p. 65 Matthäi</i>.`

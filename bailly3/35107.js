@@ -1,0 +1,1 @@
+lar[35107]=`<b>ἐν·τορνεύω</b>, travailler au tour, HÉRON <i>Aut. 259</i>.`

@@ -1,0 +1,1 @@
+lar[15468]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> cuiller, ANTH. <i>6, 306</i>.<p><b>Étym</b>. ἀρυστήρ.`

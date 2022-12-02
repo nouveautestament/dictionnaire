@@ -1,0 +1,1 @@
+lar[104176]=`<b>ας (ἡ)</b> action de fournir, de procurer, STR. <i>235</i>.<p><b>Étym</b>. <i>v</i>. ὑποχορηγέω.`

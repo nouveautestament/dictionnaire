@@ -1,0 +1,1 @@
+lar[11694]=`<i>adv</i>., contrairement à, <i>dat</i>. LUC. <i>Nigr. 36</i>.`

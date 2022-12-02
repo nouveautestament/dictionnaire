@@ -1,0 +1,1 @@
+lar[73429]=`<b>εντος (ὁ)</b> = <i>lat</i>. Valens, <i>n. d’h. rom</i>. PLUT. <i>Galb. 10, etc</i>.`

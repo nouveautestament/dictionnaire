@@ -1,0 +1,1 @@
+lar[53182]=`<b>εως (ἡ) :<br>      1</b> chute, ruine, SPT. <i>3Macc. 2, 14</i>.<br><b>      2</b> affaissement, affaiblissement, HPC. <i>Aph. 2, 21</i> ; GAL. <i>2, 729, etc</i>.<p><b>Étym</b>. καταπίπτω.`

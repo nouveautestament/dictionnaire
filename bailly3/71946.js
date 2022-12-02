@@ -1,0 +1,1 @@
+lar[71946]=`<b>Ὄνογλις οἶνος (ὁ)</b> vin d’Onogles, <i>près de Pitanè, en Laconie,</i> ALCM. <i>115</i>.`

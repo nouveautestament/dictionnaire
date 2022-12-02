@@ -1,0 +1,1 @@
+lar[109466]=`<b>χωρογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> décrire le territoire de, <i>acc</i>. STR. <i>104</i>.<p><b>Étym</b>. χωρογράφος.`

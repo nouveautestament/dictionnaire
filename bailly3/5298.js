@@ -1,0 +1,1 @@
+lar[5298]=`<b>ἀμαυρο·φανής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui éclaire faiblement, STOB. <i>Ecl. 1, 556</i>.<p><b>Étym</b>. ἀμαυρός, φαίνω.`

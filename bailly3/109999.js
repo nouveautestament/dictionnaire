@@ -1,0 +1,1 @@
+lar[109999]=`<b>ψυχο·φθόρος, ος, ον</b> <font color="purple">[ῡ]</font> qui détruit l’âme ou la vie, mortel, ORPH. <i>H. 67, 6</i>.<p><b>Étym</b>. ψ. φθείρω.`

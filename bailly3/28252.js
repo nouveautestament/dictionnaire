@@ -1,0 +1,1 @@
+lar[28252]=`<b>δυσ·αχής, ής, ές</b> <font color="purple">[ῠᾰ]</font> pénible, affligeant, ESCHL. <i>Eum. 145</i>.<p><b>Étym</b>. δ. ἄχος.`

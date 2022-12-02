@@ -1,0 +1,1 @@
+lar[59981]=`<i>mieux que</i> <b>Λαύριον, ου (τὸ)</b> Laureion <i>ou</i> Laurion, <i>mt de l’Attique près de Sounion,</i> HDT. <i>7, 144</i> ; THC. <i>2, 55, etc</i>.<p>➳ <i>Dans une inscr. att</i>. Λαύρειον, CIA. <i>2, 780, 21 (envir. 300 av. J.-C.) ; v. Meisterh. p. 40</i>.`

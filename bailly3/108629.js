@@ -1,0 +1,1 @@
+lar[108629]=`<b>χλωρό·πτιλος, ος, ον</b> <font color="purple">[ῐ]</font> au plumage verdâtre <i>ou</i> jaune, EL. <i>N.A. 16, 2</i>.<p><b>Étym</b>. χλ. πτίλον.`

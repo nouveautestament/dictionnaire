@@ -1,0 +1,1 @@
+lar[3491]=`<b>ἀ·κόλακος, ος, ον</b> <font color="purple">[λᾰ]</font> qui ne flatte pas, DL. <i>2, 141</i>.<p><b>Étym</b>. ἀ, κόλαξ.`

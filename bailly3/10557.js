@@ -1,0 +1,1 @@
+lar[10557]=`<b>ἀντι·φιλοδοξέω-ῶ</b>, rivaliser d’amour de la gloire <i>ou</i> d’ambition : πρός τινα, POL. <i>1, 40, 11,</i> avec qqn.`

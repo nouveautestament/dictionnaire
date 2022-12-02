@@ -1,0 +1,1 @@
+lar[84000]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> opinion préalable, <i>mot blâmé par</i> GAL. <i>8, 587</i>.<p><b>Étym</b>. προδοξάζω.`

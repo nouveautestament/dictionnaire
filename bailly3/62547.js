@@ -1,0 +1,1 @@
+lar[62547]=`<b>μακρό·πορος, ος, ον</b>, d’un long trajet, long, PROCL. <i>Plat. Parm. 472</i>.<p><b>Étym</b>. μ. πόρος.`

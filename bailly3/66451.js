@@ -1,0 +1,1 @@
+lar[66451]=`<font color="purple">[ᾰ]</font> <i>adv</i>., isolément, en particulier, DYSC. <i>Adv. p. 611, 25</i>.<p><b>Étym</b>. μόνος, -δην.`

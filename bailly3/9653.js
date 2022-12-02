@@ -1,0 +1,1 @@
+lar[9653]=`<b>ἀντ·επιθυμέω-ῶ</b> <font color="purple">[ῡ]</font> désirer concurremment avec qqn : τινος, AND. <i>32, 42,</i> qqe ch. ; <i>au pass</i>. ἀντεπιθυμοῦμαι τῆς συνουσίας, XÉN. <i>Mem. 2, 6, 28,</i> celui dont je désire la société désire aussi la mienne.`

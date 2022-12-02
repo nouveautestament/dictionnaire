@@ -1,0 +1,1 @@
+lar[98969]=`<i>adv</i>., loin, au loin, <i>avec mouv</i>. IL. <i>4, 455 ; 22, 407</i> ; EUR. <i>I.T. 175</i>.<p><b>Étym</b>. τῆλε.`

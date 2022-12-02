@@ -1,0 +1,1 @@
+lar[49226]=`<font color="purple">[ᾰπ]</font> <i>interj., cri comique des chevaux,</i> AR. <i>Eq. 602, c</i>. ῥυππαπαί.`

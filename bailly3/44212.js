@@ -1,0 +1,1 @@
+lar[44212]=`<b>ης (ἡ)</b> habitude du silence, discrétion, JAMBL. <i>V. Pyth. 34</i>.<p><b>Étym</b>. *ἐχερρήμων, <i>de</i> ἔχω, ῥῆμα.`

@@ -1,0 +1,1 @@
+lar[76379]=`<b>παρ·αυξάνω :<br>      1</b> accroître par apposition, <i>au pass</i>. DH. <i>Comp. 25</i>.<br><b>      2</b> accroître peu à peu, <i>au pass</i>. GAL. <i>7, 128</i>.`

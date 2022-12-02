@@ -1,0 +1,1 @@
+lar[79466]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. action de tendre autour, PLUT. <i>M. 1003d, etc.</i><br><b>      2</b> <i>pass</i>. forte tension autour, HPC. <i>75c, etc.</i> ; DIOSC. <i>3, 41, etc</i>.<p><b>Étym</b>. περιτείνω.`

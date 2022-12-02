@@ -1,0 +1,1 @@
+lar[67155]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> prétexte pour traîner en longueur, retard, délai, OD. <i>21, 111</i>.<p><b>Étym</b>. <i>cf</i>. μύνομαι.`

@@ -1,0 +1,1 @@
+lar[37935]=`<b>ἐπι·καταπίμπρημι</b>, incendier par-dessus, <i>rég. ind. au dat</i>. APP. <i>Civ. 2, 22</i>.`

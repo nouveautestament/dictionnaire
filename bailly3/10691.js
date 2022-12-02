@@ -1,0 +1,1 @@
+lar[10691]=`<b>ας (ἡ)</b> = <i>lat</i>. Antōnia, <i>n. de f. rom</i>. PLUT. <i>Ant. 87</i> ; ANTH. <i>6, 244</i>.`

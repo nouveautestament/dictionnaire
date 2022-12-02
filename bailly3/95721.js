@@ -1,0 +1,1 @@
+lar[95721]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> fourni par écot, CROB. (ATH. <i>248b</i>).<p><b>Étym</b>. <i>vb. de</i> συνερανίζω.`

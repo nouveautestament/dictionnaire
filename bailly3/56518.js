@@ -1,0 +1,1 @@
+lar[56518]=`<b>κοιν·ωφελής, ής, ές</b>, utile à tous, dans l’intérêt de tous, GAL. <i>14, 296</i> ; PHIL. <i>2, 404, etc</i>.<p>•<i> Sup</i>. -έστατος, PHIL. <i>1, 389</i>.<p><b>Étym</b>. κοινός, ὠφελέω.`

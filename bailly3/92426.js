@@ -1,0 +1,1 @@
+lar[92426]=`<b>εως (ἡ) :<br>      1</b> action d’affermir, AQU. <i>Esai. 41, 21</i>.<br><b>      2</b> opiniâtreté, SPT. <i>Sir. 28, 10</i>.<p><b>Étym</b>. στερεόω.`

@@ -1,0 +1,1 @@
+lar[82184]=`<b>ας (ἡ)</b> abondance de nœuds <i>ou</i> de branches, TH. <i>H.P. 5, 2, 2</i>.<p><b>Étym</b>. πολύοζος.`

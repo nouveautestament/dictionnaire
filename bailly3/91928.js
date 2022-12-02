@@ -1,0 +1,1 @@
+lar[91928]=`<b>οῦ (ὁ)</b> sacrifice, SPT. <i>2Macc. 6, 7, etc</i>.<p><b>Étym</b>. σπλαγχνίζω.`

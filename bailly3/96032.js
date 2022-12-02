@@ -1,0 +1,1 @@
+lar[96032]=`<b>συν·ισχυρίζω</b> <font color="darkgreen">(<i>f. att</i>. ιῶ)</font> <font color="purple">[χῡ]</font> fortifier avec, corroborer, XÉN. <i>Cyr. 2, 2, 26</i>.`

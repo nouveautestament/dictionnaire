@@ -1,0 +1,1 @@
+lar[31024]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτᾰ]</font> période de cent ans, siècle, PHIL. <i>1, 101</i>.<p><b>Étym</b>. ἑκατονταέτης.`

@@ -1,0 +1,1 @@
+lar[4283]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Alexôn, <i>h</i>. ANTH. <i>7, 435</i>.<p><b>Étym</b>. ἀλέξω.`

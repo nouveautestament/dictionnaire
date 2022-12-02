@@ -1,0 +1,1 @@
+lar[7062]=`<b>ἀνα·λακτίζω :<br>      1</b> ruer, ANTYLL. (ORIB. <i>121 Matthäi</i>).<br><b>      2</b> repousser du pied, <i>acc</i>. CLÉM. <i>890</i>.`

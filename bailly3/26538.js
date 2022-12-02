@@ -1,0 +1,1 @@
+lar[26538]=`<b>δί·κηλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui a deux tumeurs, P. ÉG. <i>262 Briau</i>.<p><b>Étym</b>. δίς, κήλη.`

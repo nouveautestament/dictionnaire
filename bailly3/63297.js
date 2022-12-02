@@ -1,0 +1,1 @@
+lar[63297]=`<b>Μεγακλείδης, ου (ὁ)</b> Mégakleidès, <i>h</i>. DÉM. <i>50, 20, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Μεγακλεής.`

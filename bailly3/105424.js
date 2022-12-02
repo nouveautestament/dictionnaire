@@ -1,0 +1,1 @@
+lar[105424]=`<b>φιλ·άγων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐᾰ]</font> qui aime les combats, la lutte, ANTH. <i>7, 708</i> ; ATH. <i>241f</i>.<p><b>Étym</b>. φ. ἀγών.`

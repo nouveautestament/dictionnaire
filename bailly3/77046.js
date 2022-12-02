@@ -1,0 +1,1 @@
+lar[77046]=`<b>πάρ·οιστρος, ος, ον</b>, agité de transports furieux, SIMPL. <i>Epict. p. 73, 293</i>.<p><b>Étym</b>. π. οἶστρος.`

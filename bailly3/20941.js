@@ -1,0 +1,1 @@
+lar[20941]=`<b>(ὁ)</b> Brykhôn, <i>litt</i>. le mugissant, <i>fl. de Macédoine,</i> LYC. <i>1408</i>.<p><b>Étym</b>. βρύχω.`

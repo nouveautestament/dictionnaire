@@ -1,0 +1,1 @@
+lar[102403]=`<b>ὑπερ·δώριος, ος, ον</b>, hyperdorien, <i>n. d’un mode de musique,</i> ANON. MUS. <i>38, 1</i>.`

@@ -1,0 +1,1 @@
+lar[4766]=`<b>ας (ἡ)</b> emploi d’une langue étrangère, JOS. <i>A.J. 1, 5, 1</i>.<p><b>Étym</b>. ἀλλόγλωσσος.`

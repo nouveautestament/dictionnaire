@@ -1,0 +1,1 @@
+lar[5749]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> marc d’olives, HPC. <i>Aph. 1260</i> ; PLUT. <i>M. 702a.</i><br><b>      2</b> plante dont on se sert pour teindre en rouge, SCH.-ESCHN. <i>27, 21 ; d’où</i> couleur, SCH.-AR. <i>Lys. 150</i>.<p><b>Étym</b>. ἀμέργω ; <i>cf. lat</i>. amurca.`

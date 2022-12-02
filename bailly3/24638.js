@@ -1,0 +1,1 @@
+lar[24638]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> échauffement qui pénètre, ARSTT. <i>Probl. 2, 36</i> ; EPIC. (PLUT. <i>M. 1109f</i>).<p><b>Étym</b>. διαθερμαίνω.`

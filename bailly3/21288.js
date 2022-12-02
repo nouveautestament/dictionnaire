@@ -1,0 +1,1 @@
+lar[21288]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Gallio, Gallion, <i>proconsul rom. d’Achaïe,</i> NT. <i>Ap. 18, 12</i>.`

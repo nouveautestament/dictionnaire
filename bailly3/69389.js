@@ -1,0 +1,1 @@
+lar[69389]=`<b>ξανθο·φυής, ής, ές</b>, naturellement jaune <i>ou</i> blond, ANTH. <i>12, 10</i> ; NONN. <i>D. 6, 113, etc</i>.<p><b>Étym</b>. ξ. φύω.`

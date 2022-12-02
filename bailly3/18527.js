@@ -1,0 +1,1 @@
+lar[18527]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> manque d’argent, THC. <i>1, 11</i> ; DH. <i>7, 24</i> ; PLUT. <i>Fab. 2, etc</i>.<p><b>Étym</b>. ἀχρήματος.`

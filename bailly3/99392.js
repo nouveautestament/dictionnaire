@@ -1,0 +1,1 @@
+lar[99392]=`<i>ou</i> <b>τιττυβίζω</b> <font color="purple">[ῑτῠ]</font><br><b>      1</b> glousser comme la perdrix, TH. (ATH. <i>390b</i>).<br><b>      2</b> piailler comme l’hirondelle, BABR. <i>9</i>.<p><b>Étym</b>. <i>onomatopée</i>.`

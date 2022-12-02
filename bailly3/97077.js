@@ -1,0 +1,1 @@
+lar[97077]=`<b>ου (ὁ)</b> bruant des roseaux, <i>oiseau aquatique,</i> ARSTT. <i>H.A. 8, 3, 13 (var</i>. σχοίνικλος).<p><b>Étym</b>. σχοῖνος.`

@@ -1,0 +1,1 @@
+lar[51798]=`<b>ης (ἡ)</b> Karinè, <i>v. de Mysie,</i> HDT. <i>7, 42</i>.`

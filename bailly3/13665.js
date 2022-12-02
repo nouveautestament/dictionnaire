@@ -1,0 +1,1 @@
+lar[13665]=`<b>ος, ον :<br>      1</b> nourri <i>ou</i> élevé loin de (ses parents) HDT. <i>2, 64</i>.<br><b>      2</b> <i>p. suite,</i> étranger à, <i>gén</i>. PLUT. <i>M. 917c</i>.<p><b>Étym</b>. ἀποτρέφω.`

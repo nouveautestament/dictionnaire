@@ -1,0 +1,1 @@
+lar[57690]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petit morceau de chair, de viande, XÉN. <i>Cyr. 1, 4, 13</i> ; AR. <i>Pl. 227 ; au pl</i>. AR. <i>fr. 507</i>.<p><b>Étym</b>. <i>dim. de</i> κρέας.`

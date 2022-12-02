@@ -1,0 +1,1 @@
+lar[4904]=`<i>ou</i> <b>ἁλοητός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de battre en grange, XÉN. <i>Œc. 18, 5</i> (<i>var</i>. ἁλοατός).<br><b>      2</b> moment de battre en grange, EL. <i>N.A. 4, 25</i>.<p><b>Étym</b>. ἀλοάω.`

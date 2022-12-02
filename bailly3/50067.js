@@ -1,0 +1,1 @@
+lar[50067]=`<b>ας (ἡ)</b> commerce de poissons, ATH. <i>276f ;</i> PLUT. <i>M. 668a</i>.<p><b>Étym</b>. ἰχθυοπώλης.`

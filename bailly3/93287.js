@@ -1,0 +1,1 @@
+lar[93287]=`<b>συγ·καταδουλόω-ῶ</b>, asservir <i>ou</i> subjuguer ensemble, THC. <i>8, 46</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. THC. <i>3, 64</i> ; HYPÉR. (POLL. <i>3, 81</i>).`

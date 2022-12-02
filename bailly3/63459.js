@@ -1,0 +1,1 @@
+lar[63459]=`<b>μεγαλο·φυής, ής, ές</b> <font color="purple">[ᾰ]</font> d’une nature grande, noble, POL. <i>12, 23, 5 ; en parl. du style</i> : DH. <i>Vet. script. cens. 11</i>.<p>•<i> Cp</i>. -έστερος, POL. <i>l. c. ; • Sup</i>. -έστατος, LGN <i>34, 4</i>.<p><b>Étym</b>. μ. φύω.`

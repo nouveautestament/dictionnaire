@@ -1,0 +1,1 @@
+lar[95823]=`<b>συν·ευωχέομαι-οῦμαι</b>, se régaler ensemble <i>ou</i> avec, <i>dat</i>. LUC. <i>V.H. 2, 15 ; Ep. sat. 36 ; Philopatr. 4</i> ; JOS. <i>A.J. 1, 3, 5 ; 4, 8, 7 ; abs</i>. ARSTT. <i>Eud. 7, 12, 14</i> ; LUC. <i>Ic. 28</i> ; POSIDON. (ATH. <i>152b</i>).`

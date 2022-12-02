@@ -1,0 +1,1 @@
+lar[11041]=`être indéfini, <i>en parl. des pronoms indéfinis comme</i> του, τῳ, ARC. <i>142, 4</i>.<p><b>Étym</b>. <i>cf</i>. ἀοριστέω.`

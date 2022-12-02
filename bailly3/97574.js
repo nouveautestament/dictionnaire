@@ -1,0 +1,1 @@
+lar[97574]=`<b>τανυσί·σκοπος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui voit loin, POÈT. (JUL. <i>299c</i>).`

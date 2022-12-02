@@ -1,0 +1,1 @@
+lar[75099]=`<b>πάν·οιζυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ᾰ]</font> tout à fait infortuné, ESCHL. <i>Ch. 49</i>.<p><b>Étym</b>. π. ὀϊζύς.`

@@ -1,0 +1,1 @@
+lar[44010]=`<b>ἐφ·έψω</b>, faire cuire encore une fois, ATH. <i>656b</i>.<p><b>Étym</b>. ἐπί, ἕ.`

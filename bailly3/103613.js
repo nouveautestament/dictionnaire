@@ -1,0 +1,1 @@
+lar[103613]=`<i>adv</i>., au moyen d’un conduit souterrain, THC. <i>6, 100</i>.<p><b>Étym</b>. ὑπόνομος, -δον.`

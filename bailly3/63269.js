@@ -1,0 +1,1 @@
+lar[63269]=`<font color="purple">[ῐδ]</font> <i>adv</i>., vainement, follement, sans raison, IL. <i>5, 374</i> ; OD. <i>2, 58, etc</i>.`

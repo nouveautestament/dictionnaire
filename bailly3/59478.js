@@ -1,0 +1,1 @@
+lar[59478]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> absence de raison, démence, folie, A.RH. <i>4, 356 au pl</i>.<p><b>Étym</b>. *λαθίφρων, <i>de</i> λαθεῖν, φρήν.`

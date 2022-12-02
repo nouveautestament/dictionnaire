@@ -1,0 +1,1 @@
+lar[95233]=`<b>ή, όν</b>, apte à s’unir deux à deux, ARSTT. <i>Nic. 8, 12, 7</i> ; HIÉROCL. (STOB. <i>Fl. 67, 22).</i><p><b>Étym</b>. συνδυάζω.`

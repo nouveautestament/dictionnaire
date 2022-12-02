@@ -1,0 +1,1 @@
+lar[83863]=`<b>προ·γνωρίζω</b>, faire connaître d’avance <i>ou</i> auparavant, ARSTT. <i>Top. 6, 4, 5</i>.`

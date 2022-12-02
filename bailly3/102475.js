@@ -1,0 +1,1 @@
+lar[102475]=`<b>ὑπερ·ευλαβέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> prendre les plus grandes précautions, EUN. <i>V. soph. p. 67</i>.`

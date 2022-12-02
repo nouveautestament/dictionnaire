@@ -1,0 +1,1 @@
+lar[109931]=`<b>ου (τὸ)</b> herbe aux puces, <i>sorte de plantain,</i> DIOSC. <i>4, 70</i> ; LUC. <i>Trag. 157</i>.<p><b>Étym</b>. ψύλλα.`

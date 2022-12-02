@@ -1,0 +1,1 @@
+lar[27772]=`<b>ός, όν</b>, qui peut contenir, <i>gén</i>. TH. <i>C.P. 2, 4, 13</i>.<p><b>Étym</b>. δέχομαι.`

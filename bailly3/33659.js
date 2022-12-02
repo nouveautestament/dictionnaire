@@ -1,0 +1,1 @@
+lar[33659]=`<font color="purple">[ᾰ]</font> <i>(seul. prés.) c</i>. ἐμφανίζω, JAMBL. <i>V. Pyth. 260</i>.`

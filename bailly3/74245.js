@@ -1,0 +1,1 @@
+lar[74245]=`<b>παιδ·εραστής, οῦ (ὁ)</b> qui aime les jeunes garçons, <i>en mauv. part,</i> PLAT. <i>Conv. 192b ;</i> AR. <i>Ach. 265</i>.<p><b>Étym</b>. παῖς, ἐραστής.`

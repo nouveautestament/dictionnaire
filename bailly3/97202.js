@@ -1,0 +1,1 @@
+lar[97202]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> <i>c</i>. σωματοειδής, ARSTT. <i>H.A. 3, 20, 6, etc</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Probl. 1, 37, 2 ; • Sup</i>. -έστατος, ARSTT. <i>P.A. 2, 1, 17</i>.<p><b>Étym</b>. σῶμα, -ωδης.`

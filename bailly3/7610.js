@@ -1,0 +1,1 @@
+lar[7610]=`<b>ἀνά·σιλλος</b> <i>ou</i> <b>ἀνάσιλος, ου (ὁ)</b> touffe de cheveux sur le devant de la tête, PLUT. <i>Crass. 24</i>.<p><b>Étym</b>. ἀνά, σιλλός.`

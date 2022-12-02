@@ -1,0 +1,1 @@
+lar[100030]=`<b>τρεψί·χρως, ωτος (ὁ, ἡ)</b> qui change de peau <i>ou</i> de couleur, ARSTT. (ATH. <i>318b</i>).<p><b>Étym</b>. τρέπω, χρώς.`

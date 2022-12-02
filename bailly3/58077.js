@@ -1,0 +1,1 @@
+lar[58077]=`<b>κρσσός, οῦ (ὁ)</b> frange, bordure, <i>au plur</i>. CLÉM. <i>236</i> ; POLL. <i>7, 64</i>.`

@@ -1,0 +1,1 @@
+lar[43058]=`<b>εὐ·ποιητικός, ή, όν</b>, porté à faire du bien, bienfaisant, ARSTT. <i>Rhet. 1, 9, 10 ; 2, 4, 8</i> ; τινος, <i>Rhet. 2, 2, 25,</i> à l’égard de qqn ; τὸ εὐποιητικόν, <i>ibid. 1, 11, 22</i> ; CHRYSIPP. (PLUT. <i>M. 1052b</i>) ; la bienfaisance.<p><b>Étym</b>. εὖ, ποιέω.`

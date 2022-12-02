@@ -1,0 +1,1 @@
+lar[109518]=`<b>ψαλιδο·ειδής, ής, ές</b> <font color="purple">[ᾰῐ]</font> semblable à une clef de voûte, GAL. <i>1, 196</i>.<p><b>Étym</b>. ψαλίς, εἶδος.`

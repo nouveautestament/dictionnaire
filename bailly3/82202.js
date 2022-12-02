@@ -1,0 +1,1 @@
+lar[82202]=`<b>ας (ἡ)</b> odeur abondante <i>ou</i> mélange d’odeurs, TH. <i>C.P. 6, 16, 6</i>.<p><b>Étym</b>. πολύοσμος.`

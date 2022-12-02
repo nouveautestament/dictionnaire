@@ -1,0 +1,1 @@
+lar[77143]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰσ]</font> Parrhasia, <i>v. d’Arcadie,</i> IL. <i>2, 608, etc</i>.`

@@ -1,0 +1,1 @@
+lar[5407]=`<b>ου (ὁ)</b> Ameinias, <i>h</i>. THC. <i>4, 132</i> ; PLUT. <i>Pyrrh. 29, etc</i>.<p>➳ <i>Ion</i>. -ίης, HDT. <i>8, 84, etc</i>.`

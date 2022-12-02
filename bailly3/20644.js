@@ -1,0 +1,1 @@
+lar[20644]=`<b>υος (τὸ)</b> sabine (<i>Juniperus sabina</i> L.), <i>sorte de genévrier,</i> GAL. <i>13, 606</i> ; A. TR. <i>7, 329, etc</i>.`

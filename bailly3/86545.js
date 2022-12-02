@@ -1,0 +1,1 @@
+lar[86545]=`<b>προ·συνεδρεύω</b>, siéger auparavant, HIPPODAM. (STOB. <i>Fl. 43, 93</i>).`

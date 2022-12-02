@@ -1,0 +1,1 @@
+lar[57949]=`<b>κριο·μαχέω-ῶ</b> <font color="purple">[ῑᾰ]</font> combattre avec le bélier de siège, APD. POL. <i>38</i>.<p><b>Étym</b>. κριός, μάχη.`

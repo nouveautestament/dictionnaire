@@ -1,0 +1,1 @@
+lar[35164]=`<font color="darkgreen"><i>(prés. 3 sg</i>. ἐντύει, THÉOGN. <i>196 ; impér</i>. ἔντυε, ANTH. <i>10, 118 ; impf. 3 sg</i>. ἔντυεν, IL. <i>5, 720, etc. ; 3 pl</i>. ἔντυον, OD. <i>23, 289)</font> c</i>. ἐντύνω.`

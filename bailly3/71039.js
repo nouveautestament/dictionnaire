@@ -1,0 +1,1 @@
+lar[71039]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> tempérance dans la boisson, LUC. <i>Par. 16</i>.<p>➳ <i>Ion</i>. -ίη, ARÉT. <i>p. 117, 20</i>.<p><b>Étym</b>. ὀλιγόποτος.`

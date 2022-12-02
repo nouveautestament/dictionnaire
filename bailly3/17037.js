@@ -1,0 +1,1 @@
+lar[17037]=`<b>ή, όν</b> <font color="purple">[τῐ]</font> attique, AR. <i>Pax 215</i>.<p><b>Étym</b>. <i>dér. com. de</i> Ἀττικός, <i>par imitation de</i> Λακωνικός.`

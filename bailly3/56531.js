@@ -1,0 +1,1 @@
+lar[56531]=`<b>ου (ὁ)</b> <font color="purple">[ᾰν]</font> le fils de Kœranos (Polyidos) PD. <i>O. 13, 104</i>.<p><b>Étym</b>. Κοίρανος.`

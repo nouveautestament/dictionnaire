@@ -1,0 +1,1 @@
+lar[27407]=`<b>ας (ἡ)</b> sorte de ciguë, DIOSC. <i>4, 79</i>.`

@@ -1,0 +1,1 @@
+lar[78403]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de labourer autour, DH. <i>1, 88</i>.<p><b>Étym</b>. περιαρόω.`

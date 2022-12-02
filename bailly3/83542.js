@@ -1,0 +1,1 @@
+lar[83542]=`<b>προ·αναγκάζω</b> <font color="purple">[ᾰν]</font> contraindre auparavant, THÉM. <i>74b</i>.`

@@ -1,0 +1,1 @@
+lar[101641]=`<i>ou mieux</i> <b>Ὑῆς, οῦ (ὁ)</b> Hyês (<i>probabl</i>. l’humide, le fécondant) <i>ép. de Bacchus ou de Sabazios,</i> AR. <i>fr. 478</i> ; EUPHOR. <i>p. 49 Mein.</i> ; PLUT. <i>M. 364d</i>.<p><b>Étym</b>. ὕω.`

@@ -1,0 +1,1 @@
+lar[52284]=`<b>κατα·δάνειος, ος, ον</b> <font color="purple">[δᾰ]</font> grevé de dettes, DS. <i>17, 109</i>.<p><b>Étym</b>. κ. δάνειον.`

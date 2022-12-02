@@ -1,0 +1,1 @@
+lar[78440]=`<b>ας (ἡ)</b> situation où l’on est en vue de tous côtés, PHILOD. <i>Œc. 22 dout</i>.<p><b>Étym</b>. περιβλέπω.`

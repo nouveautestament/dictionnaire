@@ -1,0 +1,1 @@
+lar[36491]=`<b>ἐπ·αλγύνω</b> <font color="purple">[ῠ]</font> causer de la douleur, NIC. <i>Al. 335</i> ; τινά, Q. SM. <i>4, 416,</i> à qqn.`

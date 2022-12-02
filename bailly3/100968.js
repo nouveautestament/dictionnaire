@@ -1,0 +1,1 @@
+lar[100968]=`<b>έως</b>, <i>adj. m</i>. de Tyanes (<i>auj</i>. Kemerhisar) <i>v. de Cappadoce,</i> LUC. <i>Alex. 5</i>.`

@@ -1,0 +1,1 @@
+lar[82122]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πολυμιγία, PLUT. <i>M. 1109 c et d</i>.`

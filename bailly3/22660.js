@@ -1,0 +1,1 @@
+lar[22660]=`<b>ωνος (ὁ)</b> Gronthôn, <i>n. de parasite,</i> ALCIPHR. <i>3, 52</i>.`

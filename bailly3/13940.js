@@ -1,0 +1,1 @@
+lar[13940]=`<b>ἀ·προσδιόνυσος, ος, ον</b> <font color="purple">[ῡ]</font> sans rapport avec la fête de Dionysos, <i>d’où p. ext</i>. sans à-propos, à contretemps, CIC. <i>Att. 16, 12, 1</i> ; PLUT. <i>M. 612e ;</i> LUC. <i>Bacch. 6</i>.<p><b>Étym</b>. ἀ, πρός, Διόνυσος.`

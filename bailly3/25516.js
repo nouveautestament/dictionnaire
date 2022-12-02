@@ -1,0 +1,1 @@
+lar[25516]=`<b>διά·σημος, ος, ον :<br>      1</b> clair, distinct ; <i>adv</i>., διάσημα, SOPH. <i>Ph. 207,</i> avec des cris perçants.<br><b>      2</b> qui se distingue entre tous, remarquable, PLUT. <i>Dio. 54, T. Gracch. 17</i>.<p><b>Étym</b>. διά, σῆμα.`

@@ -1,0 +1,1 @@
+lar[107444]=`<b>Χ, χ</b> (χῖ) khi, <i>22<sup>e</sup> lettre de l’alphabet grec. En chiffre</i> χʹ = 600, ͵χ = 600 000.`

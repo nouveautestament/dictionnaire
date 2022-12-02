@@ -1,0 +1,1 @@
+lar[51732]=`<b>καρδαμό·σπορον, ου (τὸ)</b> <font color="purple">[δᾰ]</font> semence <i>ou</i> graine de cresson, GAL. <i>14, 505</i>.<p><b>Étym</b>. κ. σπόρος.`

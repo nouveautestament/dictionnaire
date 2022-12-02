@@ -1,0 +1,1 @@
+lar[38837]=`<b>ἐπι·πτυχή, ῆς (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> repli, enveloppe, PLUT. <i>M. 979d, etc.</i><br><b>      2</b> pièce qu’on ajuste sur un vêtement troué, LUC. <i>D. mort. 1, 2</i>.<p><b>Étym</b>. ἐπιπτύσσω.`

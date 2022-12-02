@@ -1,0 +1,1 @@
+lar[56858]=`<b>υος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> vase à boire, MÉN. <i>et</i> HIPPARQ. COM. (ATH. <i>478a, 784a</i>).<br><b>      2</b> mesure de 10 cotyles (<i>= 4 litres et demi environ</i>) pour les liquides, SPT. <i>Gen. 42, 2 ; Esaï. 51, 17, 22</i>.<p><b>Étym</b>. <i>mot persan</i>.`

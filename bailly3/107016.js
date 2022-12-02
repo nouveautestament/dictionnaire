@@ -1,0 +1,1 @@
+lar[107016]=`<b>α, ον</b> <font color="purple">[ῠᾰ]</font> qui sert de refuge, JOS. <i>Hypomn. 70</i>.<p><b>Étym</b>. φυγαδεύω.`

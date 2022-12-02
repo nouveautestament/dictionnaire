@@ -1,0 +1,1 @@
+lar[65862]=`<b>μιμο·λόγος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>   I</b> qui imite la parole, A. PL. <i>155</i>.<br><b>   II</b> ὁ μ. :<br><b>      1</b> acteur de mimes, GAL. <i>17, 2 et 150</i>.<br><b>      2</b> qui compose <i>ou</i> récite des mimes, ANTH. <i>7, 556</i>.<p><b>Étym</b>. μῖμος, λέγω.`

@@ -1,0 +1,1 @@
+lar[40299]=`<b>ου</b>, <i>adj. m</i>. d’Érésos, PHÆNIAS (ATH. <i>333a</i>).<p><b>Étym</b>. Ἔρεσος.`

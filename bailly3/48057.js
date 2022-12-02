@@ -1,0 +1,1 @@
+lar[48057]=`<b>θυρσο·φόρος, ος, ον</b>, qui porte un thyrse, EUR. <i>Cycl. 64</i> ; ORPH. <i>H. 43, 3</i> ; ANTH. <i>9, 524</i>.<p><b>Étym</b>. θ. φέρω.`

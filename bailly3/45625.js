@@ -1,0 +1,1 @@
+lar[45625]=`<b>όεσσα, όεν</b>, qui baisse, penché, NIC. <i>Th. 625 dout</i>.<p><b>Étym</b>. ἠμύω.`

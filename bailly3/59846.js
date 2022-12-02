@@ -1,0 +1,1 @@
+lar[59846]=`<i>ion</i>. <b>λαπάρη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> partie creuse du corps entre les fausses côtes et le ventre, flanc, IL. <i>3, 359 ; 7, 253 ; 16, 318 ; 22, 306</i> ; HDT. <i>2, 86</i> ; HPC. <i>485, 32, etc. ; au pl</i>. HDT. <i>6, 75</i>.<p><b>Étym</b>. <i>fém. de</i> λαπαρός.`

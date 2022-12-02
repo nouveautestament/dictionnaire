@@ -1,0 +1,1 @@
+lar[106124]=`<b>φιλο·τάπεινος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime l’humilité, humble, GAL. <i>9, 483</i>.`

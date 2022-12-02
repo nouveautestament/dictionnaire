@@ -1,0 +1,1 @@
+lar[107297]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>dim. de</i> φυτόν, ATH. <i>210c ;</i> M. ANT. <i>5, 1</i>.`

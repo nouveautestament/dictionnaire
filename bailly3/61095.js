@@ -1,0 +1,1 @@
+lar[61095]=`<b>λιθόω-ῶ</b> <font color="purple">[ῐ]</font> changer en pierre, pétrifier, ARSTT. <i>G.A. 5, 3 ; P.A. 1, 1</i> ; PLUT. <i>M. 577f, etc</i>.<p><b>Étym</b>. λίθος.`

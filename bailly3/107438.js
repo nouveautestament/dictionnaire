@@ -1,0 +1,1 @@
+lar[107438]=`<b>φωτο·δότης, ου (ὁ)</b> qui donne la lumière, qui éclaire, SIMPL. <i>Epict. 47</i> ; SYN. <i>Hymn. 3, 258 ; fig</i>. NAZ. <i>11, p. 174c</i>.<p><b>Étym</b>. φῶς, δίδωμι.`

@@ -1,0 +1,1 @@
+lar[107640]=`<b>χαλκί·οικος, ος, ον</b>, qui habite une demeure, <i>càd</i>. un sanctuaire d’airain, <i>ép. d’Athèna, à Sparte,</i> EUR. <i>Hel. 228, 245</i> ; AR. <i>Lys. 1300</i> ; THC. <i>1, 128, 134</i>.<p><b>Étym</b>. χαλκός, οἰκέω.`

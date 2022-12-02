@@ -1,0 +1,1 @@
+lar[94119]=`<b>συμ·παρεισφθείρομαι</b>, s’ingérer dans qqe ch. pour son propre malheur <i>ou</i> pour le malheur d’autrui, JOS. <i>B.J. 4, 3, 3</i>.`

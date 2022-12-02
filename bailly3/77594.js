@@ -1,0 +1,1 @@
+lar[77594]=`<i>adv</i>., en prose, SUID. <i>v°</i> ἱστορῆσαι.<p>•<i> Sup</i>. πεζοτάτως, HERMIAS <i>Plat. Phædr. p. 145</i>.<p><b>Étym</b>. πεζός.`

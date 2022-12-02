@@ -1,0 +1,1 @@
+lar[71521]=`<b>ὁμοιο·γονία, ας (ἡ)</b> production d’êtres <i>ou</i> d’objets semblables, HERM. (STOB. <i>Ecl. phys. p. 942).</i><p><b>Étym</b>. ὅμ. γόνος.`

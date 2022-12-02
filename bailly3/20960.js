@@ -1,0 +1,1 @@
+lar[20960]=`<b>βρωμο·λόγος, ου (ὁ)</b> homme qui parle de choses infectes, LUC. <i>Pseud. 24</i>.<p><b>Étym</b>. βρῶμος², λέγω.`

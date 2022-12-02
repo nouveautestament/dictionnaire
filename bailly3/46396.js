@@ -1,0 +1,1 @@
+lar[46396]=`avoir une nature divine, DÉMOCR.<p><b>Étym</b>. θεός.`

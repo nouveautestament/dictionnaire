@@ -1,0 +1,1 @@
+lar[50692]=`<b>κακο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui a un esprit faible, qui manque de jugement, DC. <i>77, 11</i>.<p><b>Étym</b>. κ. γνώμη.`

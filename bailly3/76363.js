@@ -1,0 +1,1 @@
+lar[76363]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> ouverture <i>ou</i> trou de côté, PROCL. <i>Plat. 1 Alc. p. 197 Creuz</i>.<p><b>Étym</b>. π. τρυπάω.`

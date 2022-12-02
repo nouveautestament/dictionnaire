@@ -1,0 +1,1 @@
+lar[19786]=`<b>βιο·φειδής, ής, ές</b>, qui ménage ses ressources, économe, ANTH. <i>6, 251</i>.<p><b>Étym</b>. βίος, φείδομαι.`

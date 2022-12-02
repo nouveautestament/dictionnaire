@@ -1,0 +1,1 @@
+lar[110066]=`<b>ψωροφθαλμιάω-ῶ</b>, avoir les paupières malades de pustules cuisantes, GAL.<p><b>Étym</b>. ψωροφθαλμία.`

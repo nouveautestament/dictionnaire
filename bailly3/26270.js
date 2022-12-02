@@ -1,0 +1,1 @@
+lar[26270]=`<b>εως (ἡ)</b> interprétation, PLAT. <i>Tim. 19c</i>.<p><b>Étym</b>. διερμηνεύω.`

@@ -1,0 +1,1 @@
+lar[32489]=`<b>ης, ες :<br>      1</b> huileux, HPC. <i>Epid. 3, 1093</i> ; ARSTT. <i>H.A. 3, 20</i> ; TH. <i>H.P. 1, 12, 1, etc.</i><br><b>      2</b> de couleur olivâtre, DIOSC. <i>1, 47 et 92</i>.<p><b>Étym</b>. ἐλαία, -ωδης.`

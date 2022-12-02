@@ -1,0 +1,1 @@
+lar[13794]=`<b>ἀπο·χεύομαι</b> <font color="darkgreen">(<i>seul. prés. et ao</i>. ἀπεχευάμην)</font> faire jaillir de son sein : παγάν, EUR. <i>Ion 148,</i> une source.<p><b>Étym</b>. <i>cf</i>. ἀποχέω.`

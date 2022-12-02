@@ -1,0 +1,1 @@
+lar[73580]=`<b>οὐλόω-ῶ</b>, cicatriser, ARSTT. <i>Probl. 10, 22, 2</i>.<p><b>Étym</b>. οὐλή.`

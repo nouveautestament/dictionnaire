@@ -1,0 +1,1 @@
+lar[79041]=`<b>ή, όν</b>, qui a du superflu, PTOL. <i>Tetr. 158</i>.<p><b>Étym</b>. περιουσιάζω.`

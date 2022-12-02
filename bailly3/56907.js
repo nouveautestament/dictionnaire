@@ -1,0 +1,1 @@
+lar[56907]=`<b>ου (ὁ)</b> Konozos, <i>anc. n. du Strymon,</i> Ps.-PLUT. <i>Fluv. 11, 1</i>.`

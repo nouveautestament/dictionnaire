@@ -1,0 +1,1 @@
+lar[5949]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> Amyntôr, <i>h</i>. IL. <i>9, 448 ; 10, 266, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀμύντωρ.`

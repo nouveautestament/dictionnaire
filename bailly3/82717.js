@@ -1,0 +1,1 @@
+lar[82717]=`<b>ποντοπορέω-ῶ</b>, parcourir <i>ou</i> traverser la mer, OD. <i>11, 11</i> ; PLUT. <i>Dio. 25 ; fig</i>. ANTH. <i>10, 74</i>.<p><b>Étym</b>. ποντοπόρος.`

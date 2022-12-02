@@ -1,0 +1,1 @@
+lar[51469]=`<b>καμπύλ·οχος, ος, ον</b> <font color="purple">[ῠ]</font> aux roues arrondies, ORPH. (CLÉM. <i>675).</i><p><b>Étym</b>. κ. ὄχος.`

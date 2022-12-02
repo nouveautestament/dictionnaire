@@ -1,0 +1,1 @@
+lar[47061]=`<b>*θεσσαλό·τμητος</b>, <i>seul. att</i>. <b>θετταλό·τμητος, ος, ον</b> <font color="purple">[ᾰ]</font> coupé à la mode thessalienne, <i>càd</i>. très gros, <i>en parl. de viande,</i> PHILÉT. (ATH. <i>418c</i>).<p><b>Étym</b>. Θεσσαλός, τμητός.`

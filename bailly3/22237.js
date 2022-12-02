@@ -1,0 +1,1 @@
+lar[22237]=`<b>γλωσσο·χαριτέω-ῶ</b> <font color="purple">[ᾱῐ]</font> (<i>seul. part. prés</i>.) payer de belles paroles (<i>cf</i>. χαριτογλωσσέω), SPT. <i>Prov. 28, 23</i>.<p><b>Étym</b>. γλῶσσα, χάρις.`

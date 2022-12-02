@@ -1,0 +1,1 @@
+lar[26041]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> Didymè (Didyme) :<br><b>      1</b> <i>l’une des îles Lipariennes,</i> THC. <i>3, 88 ; au plur</i>. αἱ Δ. les deux î. Didymes, PAUS. <i>10, 11, 4</i>.<br><b>      2</b> <i>n. de f</i>. CALL. <i>Ep. 13</i> ; ATH. <i>576e</i>.`

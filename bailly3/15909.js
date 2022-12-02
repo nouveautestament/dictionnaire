@@ -1,0 +1,1 @@
+lar[15909]=`<b>ἀ·σκεπής, ής, ές</b>, non couvert, non abrité, ANTH. <i>5, 260</i>.<p><b>Étym</b>. ἀ, σκέπω.`

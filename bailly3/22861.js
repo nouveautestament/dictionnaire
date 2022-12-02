@@ -1,0 +1,1 @@
+lar[22861]=`<b>γυρό·μαντις, εως (ὁ)</b> <font color="purple">[ῡ]</font> devin qui prédit l’avenir au moyen de fleur de farine (<i>cf</i>. ἀλευρόμαντις), ARTÉM. <i>2, 69</i>.<p><b>Étym</b>. γῦρις, μ.`

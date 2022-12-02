@@ -1,0 +1,1 @@
+lar[37461]=`<b>ἐπι·γλίχομαι</b> <font color="purple">[ῐχ]</font> (<i>seul. prés</i>.) avoir grande envie (de manger), CLÉM. <i>201</i>.`

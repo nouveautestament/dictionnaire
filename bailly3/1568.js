@@ -1,0 +1,1 @@
+lar[1568]=`<b>υος (ὁ, ἡ)</b> <font color="purple">[ῡς, ῠο]</font> <i>mot de sign. dout</i>. PD. <i>fr. 632,</i> dépourvu d’arbres (ἀ, δρῦς), <i>ou adj</i>. détruit.`

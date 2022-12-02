@@ -1,0 +1,1 @@
+lar[74280]=`<b>ων (τὰ)</b> fête pour la naissance d’un enfant, DS. <i>Exc. p. 595, 3</i>.<p><b>Étym</b>. παιδογόνος.`

@@ -1,0 +1,1 @@
+lar[66075]=`<b>μισο·σύλλας, α (ὁ)</b> <font color="purple">[ῑ]</font> qui hait Sylla, ennemi de Sylla, PLUT. <i>Sert. 4</i>.<p><b>Étym</b>. μ. Σύλλας.`

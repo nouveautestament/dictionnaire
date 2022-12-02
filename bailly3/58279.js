@@ -1,0 +1,1 @@
+lar[58279]=`<b>κτήσ·ιππος, ος, ον</b>, qui possède des chevaux, LUC. <i>Fug. 26</i>.<p><b>Étym</b>. κτάομαι, ἵππος.`

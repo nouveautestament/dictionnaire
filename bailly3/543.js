@@ -1,0 +1,1 @@
+lar[543]=`<b>ἁγηλατέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> repousser comme un objet impur, chasser, exiler, HDT. <i>5, 72</i> ; SOPH. <i>O.R. 402</i>.<p>➳ <i>Ion</i>. ἀγηλατέω, HDT. <i>l. c</i>.<p><b>Étym</b>. ἁγήλατος.`

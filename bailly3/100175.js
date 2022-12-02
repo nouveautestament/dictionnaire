@@ -1,0 +1,1 @@
+lar[100175]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> qualité de triangle, PLOT. <i>Enn. 1, 327</i>.<p><b>Étym</b>. τρίγωνος.`

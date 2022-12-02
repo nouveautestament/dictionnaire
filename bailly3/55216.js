@@ -1,0 +1,1 @@
+lar[55216]=`<i>gén</i>. <b>κηκός (ἡ)</b> plongeon <i>ou</i> mouette, <i>oiseau de mer,</i> OD. <i>15, 479</i>.<p><b>Étym</b>. <i>cf</i>. καύηξ <i>et</i> κήϋξ.`

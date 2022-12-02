@@ -1,0 +1,1 @@
+lar[97246]=`<b>ου (ὁ)</b> Sôsias (Sosie) <i>h</i>. XÉN. <i>Vect. 4, 14</i> ; PLAT. <i>Crat. 397b ;</i> AR. <i>Vesp. 78, etc. ; dans la Nouvelle comédie, n. d’esclave</i>.`

@@ -1,0 +1,1 @@
+lar[56496]=`<b>κοινο·φαγία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de manger des aliments profanes <i>ou</i> impurs, JOS. <i>A.J. 11, 8, 7</i>.<p><b>Étym</b>. κοινός, φαγεῖν.`

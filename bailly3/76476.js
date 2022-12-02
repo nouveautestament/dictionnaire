@@ -1,0 +1,1 @@
+lar[76476]=`<b>παρά·χροος-ους, οος-ους, οον-ουν</b>, d’une couleur fausse <i>ou</i> altérée, LUC. <i>H. conscr. 51</i>.<p><b>Étym</b>. π. χρόα.`

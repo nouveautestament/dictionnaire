@@ -1,0 +1,1 @@
+lar[106634]=`<font color="darkgreen">(<i>ao</i>. ἐφόνευσα, <i>etc</i>.)</font>, tuer, HDT. <i>1, 35, 211, etc.</i> ; ESCHL. <i>Sept. 341</i> ; SOPH. <i>Ant. 1173 ; au pass</i>. THC. <i>8, 95</i> ; EUR. <i>I.A. 1317, etc. ; en parl. d’un animal qui tue un homme,</i> PLAT. <i>Leg. 873e</i>.<p><b>Étym</b>. φονεύς.`

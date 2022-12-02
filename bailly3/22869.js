@@ -1,0 +1,1 @@
+lar[22869]=`<b>ου (ὁ)</b> habitant de Gyrtôn, THC. <i>2, 22</i> ; POL. <i>18, 5 ; etc</i>.<p><b>Étym</b>. Γυρτών.`

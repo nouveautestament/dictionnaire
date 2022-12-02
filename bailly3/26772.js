@@ -1,0 +1,1 @@
+lar[26772]=`<b>δι·ομαλύνω</b> <font color="purple">[ᾰ]</font> (<i>part. prés</i>.) égaliser, aplanir, PLUT. <i>M. 130d</i>.<p><b>Étym</b>. διά, ὁμαλύνω.`

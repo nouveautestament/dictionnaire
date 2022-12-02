@@ -1,0 +1,1 @@
+lar[95874]=`<i>adv.</i> :<br><b>      1</b> habituellement, selon la coutume, ESCHN. <i>45, 28</i>.<br><b>      2</b> familièrement, PLUT. <i>Lys. 13</i>.<p><b>Étym</b>. συνήθης.`

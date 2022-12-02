@@ -1,0 +1,1 @@
+lar[89350]=`putréfier, SPT. <i>Eccl. 10, 1 ; au pass</i>. se putréfier, HPC. <i>Fract. 774a</i>.<p><b>Étym</b>. σαπρός.`

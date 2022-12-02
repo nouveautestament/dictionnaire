@@ -1,0 +1,1 @@
+lar[78022]=`<b>α, ον</b> <font color="purple">[ᾰσ]</font> cinq fois aussi grand, quintuple, ARSTT. <i>Pol. 2, 6, 15</i>.<p>➳ <i>Ion</i>. πενταπλήσιος, HDT. <i>6, 13</i>.<p><b>Étym</b>. πέντε, -πλάσιος.`

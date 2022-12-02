@@ -1,0 +1,1 @@
+lar[85921]=`<b>προσ·κακουργέω-ῶ</b> <font color="purple">[ᾰ]</font> maltraiter en outre <i>ou</i> encore, <i>acc</i>. DC. <i>45, 22</i> ; SYN. <i>114b</i>.`

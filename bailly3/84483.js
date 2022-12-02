@@ -1,0 +1,1 @@
+lar[84483]=`<b>προ·κατανύσσω</b>, <i>att</i>. <b>-νύττω</b>, piquer <i>ou</i> percer auparavant, DC. <i>51, 14</i>.`

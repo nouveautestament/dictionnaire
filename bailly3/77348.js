@@ -1,0 +1,1 @@
+lar[77348]=`<b>έως</b>, <i>adj. m</i>. de Patres, THC. <i>5, 52, etc</i>.<p>➳ <i>Acc. pl</i>. -έας, THC. <i>l. c. ; ou</i> -εῖς, PLUT. <i>Cato ma. 12</i> ; PAUS. <i>4, 31, 7</i>.<p><b>Étym</b>. Πάτραι.`

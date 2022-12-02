@@ -1,0 +1,1 @@
+lar[37821]=`<b>ἐπι·θόρνυμαι</b> <font color="purple">[ῠ]</font> <i>litt</i>. s’élancer sur, <i>d’où en parl. d’animaux,</i> saillir, <i>dat</i>. LUC. <i>Am. 22</i> ; EL. <i>N.A. 17, 46 ; p. ext</i>. PHILSTR. <i>212</i>.`

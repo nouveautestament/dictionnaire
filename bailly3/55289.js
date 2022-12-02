@@ -1,0 +1,1 @@
+lar[55289]=`<b>κηρό·τροφος, ος, ον</b>, nourri de cire, fait de cire, ANTH. <i>6, 236</i>.<p><b>Étym</b>. κηρός, τρέφω.`

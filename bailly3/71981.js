@@ -1,0 +1,1 @@
+lar[71981]=`<b>ὀνοματο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰτᾰφ]</font> enregistrement de noms, nomenclature, SPT. <i>1Esdr. 8, 19</i> ; SEXT. <i>704</i>.<p><b>Étym</b>. ὄνομα, γράφω.`

@@ -1,0 +1,1 @@
+lar[6393]=`<b>ἀμφι·τέρμως</b>, <i>adv</i>., avec précision, SOPH. <i>fr. 125</i>.<p><b>Étym</b>. ἀ. τέρμα.`

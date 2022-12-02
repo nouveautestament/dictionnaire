@@ -1,0 +1,1 @@
+lar[83936]=`<b>προ·διαπλάσσω</b>, former <i>ou</i> façonner auparavant, PHIL. <i>2, 146</i>.`

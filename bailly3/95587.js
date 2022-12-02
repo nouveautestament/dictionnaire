@@ -1,0 +1,1 @@
+lar[95587]=`<b>συν·επεισφέρομαι</b>, introduire avec soi dans <i>ou</i> contre, XÉN. <i>Hell. 6, 5, 43 dout</i>.`

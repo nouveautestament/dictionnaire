@@ -1,0 +1,1 @@
+lar[21392]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρο]</font> Gargaron, <i>cime méridionale du mt Ida en Troade,</i> IL. <i>8, 48 ; 15, 152</i> ; LUC. <i>D. deor. 4, 2, etc</i>.`

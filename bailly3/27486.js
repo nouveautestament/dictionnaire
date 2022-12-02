@@ -1,0 +1,1 @@
+lar[27486]=`<b>ας (ἡ)</b> le meurtre de Dolôn, <i>titre du 10<sup>e</sup> chant de l’Iliade et d’une comédie d’Eubule,</i> EUST. <i>786, 19, etc</i>.<p><b>Étym</b>. Δόλων.`

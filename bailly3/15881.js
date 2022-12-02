@@ -1,0 +1,1 @@
+lar[15881]=`<b>ου (ὁ)</b> <font color="purple">[κᾰᾰ]</font> lézard moucheté, gecko, NIC. <i>Th. 484</i>.`

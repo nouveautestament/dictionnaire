@@ -1,0 +1,1 @@
+lar[39858]=`<b>ας (ἡ) :<br>      1</b> composition d’un poème épique, HDT. <i>2, 116</i>.<br><b>      2</b> poème épique, épopée, ARSTT. <i>Poet. 24</i>.<p><b>Étym</b>. ἐποποιός.`

@@ -1,0 +1,1 @@
+lar[32866]=`<b>ῆρος</b>, <i>adj. m</i>. qui tire, qui arrache, <i>ép. de la herse,</i> ANTH. <i>6, 297</i>.<p><b>Étym</b>. ἑλκέω.`

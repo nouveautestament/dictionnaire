@@ -1,0 +1,1 @@
+lar[50293]=`<b>καθαρό·τευκτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> fabriqué <i>ou</i> fait pur, DAMASC. <i>v. 2, p. 854</i>.<p><b>Étym</b>. κ. τεύχω.`

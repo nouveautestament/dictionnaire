@@ -1,0 +1,1 @@
+lar[42546]=`<b>ή, όν :<br>      1</b> souhaité, désiré, IL. <i>14, 98</i> ; SOPH. <i>fr. 723</i>.<br><b>      2</b> souhaitable, désirable, EUR. <i>Ion 642</i> ; ISOCR. <i>283e, etc.</i> ; εὐκτόν ἐστι, <i>avec l’inf</i>. EUR. <i>Her. 458</i> ; XÉN. <i>Mem. 1, 5, 5</i>.<p><b>Étym</b>. εὔχομαι.`

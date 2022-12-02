@@ -1,0 +1,1 @@
+lar[11334]=`<b>ἀ·παράπειστος, ος, ον</b>, qui ne se laisse pas persuader, obstiné, DH. <i>8, 61</i>.<p><b>Étym</b>. ἀ, παραπείθω.`

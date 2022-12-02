@@ -1,0 +1,1 @@
+lar[99565]=`<b>ων (τὰ)</b> fête des cordes <i>en l’honneur d’Hèra, à Samos,</i> ATH. <i>672e</i>.<p><b>Étym</b>. τόνος.`

@@ -1,0 +1,1 @@
+lar[96229]=`<b>συν·ουλόω-ῶ</b>, contracter par cicatrisation, cicatriser, GAL. <i>1, 344</i> ; SOR. <i>Obst. p. 217 Dietz</i>.`

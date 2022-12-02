@@ -1,0 +1,1 @@
+lar[11318]=`<font color="purple">[κᾰ]</font> <i>adv</i>., sans se cacher, ouvertement, PLAT. <i>Rsp. 538c, etc</i>.<p>•<i> Cp</i>. -ότερον, DC. <i>67, 3</i>.`

@@ -1,0 +1,1 @@
+lar[66170]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> μνῆμα, <i>titre d’une comédie d’Epigénès,</i> ATH. <i>124d, 472f, etc</i>.`

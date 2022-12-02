@@ -1,0 +1,1 @@
+lar[52968]=`sécher, dessécher, PLAT. <i>Tim. 75e ;</i> ARSTT. <i>Meteor. 1, 3, etc</i>.<p>➳ <i>Inf. pf. pass</i>. κατεξηράνθαι, SEXT.<p><b>Étym</b>. κατάξηρος.`

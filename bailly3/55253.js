@@ -1,0 +1,1 @@
+lar[55253]=`<b>κηρ·αχάτης, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> agathe jaune, PLIN. <i>H.N. 35, 54</i>.<p><b>Étym</b>. κηρός, ἀχάτης.`

@@ -1,0 +1,1 @@
+lar[90952]=`<b>ωνος (ὁ)</b> <font color="purple">[κῑ]</font> = <i>lat</i>. Scipio, Scipion, <i>n. d’h. rom</i>. POL. <i>32, 10, 2, etc.</i> ; PLUT. <i>Præc. reip. ger. 15, etc.</i> ; οἱ Σκιπίωνες, APP. <i>Iber. 15, etc</i>. les Scipions.<p>➳ <i>Dans les inscr. att</i>. Σκιπίων (<i>non</i> Σκηπίων) CIA. <i>3, 483, 6 ; 1163, 2, 79 (époque impériale) ; v. Meisterh. p. 15, 7</i>.`

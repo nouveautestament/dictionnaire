@@ -1,0 +1,1 @@
+lar[63874]=`<b>μελάν·ιππος, ος, ον</b> <font color="purple">[ᾰ]</font> aux chevaux noirs, ESCHL. <i>fr. 66</i>.<p><b>Étym</b>. μέλας, ἵππος.`

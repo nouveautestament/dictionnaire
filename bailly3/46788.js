@@ -1,0 +1,1 @@
+lar[46788]=`<b>ας (ἡ)</b> connaissance des choses divines, PORPH. <i>Abst. 327</i>.<p><b>Étym</b>. θεόσοφος.`

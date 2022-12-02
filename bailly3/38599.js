@@ -1,0 +1,1 @@
+lar[38599]=`<b>ας (ἡ)</b> pièce de contreventement (<i>ou</i> de renfort) HÉRON.`

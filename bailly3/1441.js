@@ -1,0 +1,1 @@
+lar[1441]=`<b>ἀ·διοίκητος, ος, ον</b>, non en ordre, non organisé, DÉM. <i>24, 28</i>.<p><b>Étym</b>. ἀ, διοικέω.`

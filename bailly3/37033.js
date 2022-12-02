@@ -1,0 +1,1 @@
+lar[37033]=`<b>ἐπ·εκθύομαι</b>, renouveler un sacrifice, ARR. <i>Epict. 2, 7, 9</i>.`

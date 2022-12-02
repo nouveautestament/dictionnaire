@@ -1,0 +1,1 @@
+lar[71531]=`<b>ας (ἡ)</b> ressemblance des parties d’un tout ; <i>au pl</i>. éléments formés de parties semblables, ANAXAG. (ARSTT. <i>Cæl. 3, 3</i>) ; PLUT. <i>M. 876b, etc</i>.<p><b>Étym</b>. ὁμοιομερής.`

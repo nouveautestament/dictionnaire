@@ -1,0 +1,1 @@
+lar[35088]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> choc, secousse, SPT. <i>Sir. 22, 13</i>.<p><b>Étym</b>. ἐντινάσσω.`

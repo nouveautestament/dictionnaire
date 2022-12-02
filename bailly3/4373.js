@@ -1,0 +1,1 @@
+lar[4373]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de danse sicyonienne, ATH. <i>631d</i>.<p><b>Étym</b>. ἀλάομαι.`

@@ -1,0 +1,1 @@
+lar[15271]=`<b>ου (ὁ)</b> Artayktès, <i>Perse,</i> HDT. <i>7, 33, etc</i>.`

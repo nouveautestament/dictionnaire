@@ -1,0 +1,1 @@
+lar[1624]=`<b>ου (τὸ) :<br>      1</b> prix de la lutte, IL. <i>9, 124</i> ; OD. <i>8, 108</i>.<br><b>      2</b> lutte, OD. <i>8, 108 ; 24, 169, etc</i>.<p><b>Étym</b>. ἄεθλον.`

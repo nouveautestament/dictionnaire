@@ -1,0 +1,1 @@
+lar[99217]=`<b>ου (ὁ)</b> Timèsios, <i>fondateur d’Abdèra,</i> HDT. <i>1, 168</i>.<p><b>Étym</b>. <i>cf</i>. τιμήσιος.`

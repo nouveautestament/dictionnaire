@@ -1,0 +1,1 @@
+lar[67050]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> habile à composer des fables, PLAT. <i>Phæd. 61b</i>.<p><b>Étym</b>. μυθολόγος.`

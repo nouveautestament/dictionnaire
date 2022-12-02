@@ -1,0 +1,1 @@
+lar[67264]=`<b>μυριό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui a 10 000 pieds, aux pieds innombrables, NIC. <i>Th. 812</i>.<br><b>      2</b> long <i>ou</i> large de 10 000 pieds, TH. <i>C.P. 6, 2, 4</i>.<p><b>Étym</b>. μ. πούς.`

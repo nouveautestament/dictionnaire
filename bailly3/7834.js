@@ -1,0 +1,1 @@
+lar[7834]=`<i>adv</i>., sans augment, GR. COR. <i>p. 180</i>.<p><b>Étym</b>. ἀν-, αὔξω.`

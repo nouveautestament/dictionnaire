@@ -1,0 +1,1 @@
+lar[92453]=`<b>στερν·όφθαλμος, ος, ον</b>, qui a des yeux à la poitrine, ESCHL. <i>fr. 202 Dind</i>.<p><b>Étym</b>. στ. ὀφθαλμός.`

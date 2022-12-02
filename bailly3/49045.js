@@ -1,0 +1,1 @@
+lar[49045]=`<b>ου (τὸ)</b> <font color="purple">[ῑν]</font> derrière de la tête <i>ou</i> du cou, nuque, IL. <i>5, 73 ; 14, 495</i> ; HPC. <i>Aph. 1248</i> ; THCR. <i>Idyl. 25, 264</i>.<p><b>Étym</b>. ἴς.`

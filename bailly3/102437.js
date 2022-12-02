@@ -1,0 +1,1 @@
+lar[102437]=`<b>ὑπερ·εμέω-ῶ</b>, rejeter (<i>litt</i>. vomir) outre mesure, <i>en parl. des veines,</i> HPC. <i>467, 23, 32</i>.`

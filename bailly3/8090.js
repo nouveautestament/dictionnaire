@@ -1,0 +1,1 @@
+lar[8090]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> passion pour les hommes, NAZ. <i>2, 325 Migne</i>.<p><b>Étym</b>. ἀνδρομανής.`

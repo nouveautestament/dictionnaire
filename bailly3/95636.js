@@ -1,0 +1,1 @@
+lar[95636]=`<b>Συν·επικούρειοι, ων (οἱ)</b> les disciples d’Épicure, ARR. <i>Epict. 2, 20, 13</i>.<p><b>Étym</b>. σύν, Ἐπίκουρος.`

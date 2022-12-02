@@ -1,0 +1,1 @@
+lar[23143]=`<b>ας (ἡ)</b> Damia, <i>déesse honorée à Épidaure et à Égine,</i> HDT. <i>5, 82 et 83 (ion</i>. -ίη) ; PAUS. <i>2, 30, 4</i>.`

@@ -1,0 +1,1 @@
+lar[17599]=`<b>αὐτό·μοιρος, ος, ον</b>, qui a une destinée propre, SOPH. <i>fr. 249</i>.<p><b>Étym</b>. αὐ. μοῖρα.`

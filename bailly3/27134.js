@@ -1,0 +1,1 @@
+lar[27134]=`<b>δί·φθογγος, ου (ὁ) :<br>      1</b> qui a deux sons, NICOM. <i>Harm. 19</i>.<br><b>      2</b> qui consiste en un son double ; <i>subst</i>. ἡ δ. (<i>s.-e</i>. συλλαβή) D. THR. <i>631, 10</i> ; HÉPH. <i>1, 2 ; etc</i>. son double, diphtongue.<p><b>Étym</b>. δίς, φθόγγος.`

@@ -1,0 +1,1 @@
+lar[84432]=`<b>προ·κακόω-ῶ</b> <font color="purple">[ᾰ]</font> faire du mal auparavant. JOS. <i>Macc. 17</i>.`

@@ -1,0 +1,1 @@
+lar[100877]=`<b>τρυφερ·αμπέχονος, ος, ον</b> <font color="purple">[ῠ]</font> aux vêtements délicats <i>ou</i> efféminés, ANTIPH. (ATH. <i>526d</i>).<p><b>Étym</b>. τρυφερός, ἀμπεχόνη.`

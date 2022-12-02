@@ -1,0 +1,1 @@
+lar[65749]=`<b>μικρό·σφυκτος, ος, ον</b>, qui a le pouls faible, DIOSC. <i>5, 17</i>.<p><b>Étym</b>. μ. σφύζω.`

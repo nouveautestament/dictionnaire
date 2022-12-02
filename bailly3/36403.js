@@ -1,0 +1,1 @@
+lar[36403]=`<b>ἐπ·αθροίζομαι</b> <font color="purple">[ᾰ]</font> se rassembler en foule compacte, PLUT. <i>Ant. 44</i> ; NT. <i>Luc. 11, 29</i>.`

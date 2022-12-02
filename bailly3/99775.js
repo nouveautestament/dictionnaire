@@ -1,0 +1,1 @@
+lar[99775]=`<i>crase att. et poét. p</i>. τὸ ὀπίσω, THC. <i>4, 4</i> ; EUR. <i>fr. 50, etc</i>.`

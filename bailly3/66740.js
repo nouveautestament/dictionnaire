@@ -1,0 +1,1 @@
+lar[66740]=`<b>ή, όν</b>, terrible, effrayant, LYC. <i>342</i>.<p><b>Étym</b>. μορμώ.`

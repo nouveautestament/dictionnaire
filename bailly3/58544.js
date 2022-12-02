@@ -1,0 +1,1 @@
+lar[58544]=`(<i>seul. prés</i>.) tourner en rond, EMPÉD. (STOB. <i>Ecl. phys. p. 1026).</i><p><b>Étym</b>. κύκλος.`

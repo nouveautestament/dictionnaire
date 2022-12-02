@@ -1,0 +1,1 @@
+lar[4892]=`<b>ἀλογιστέω-ῶ</b>, agir sans réflexion, PLUT. <i>M. 656d ;</i> LGN <i>10, 3</i>.<p><b>Étym</b>. ἀλόγιστος.`

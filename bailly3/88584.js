@@ -1,0 +1,1 @@
+lar[88584]=`<b>ου (τὸ)</b> <font color="purple">[ῑν]</font> sorte d’onguent, P. ÉG. <i>3, 22</i>.<p><b>Étym</b>. ῥινός.`

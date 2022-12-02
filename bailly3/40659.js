@@ -1,0 +1,1 @@
+lar[40659]=`<b>ος, ον</b>, d’Hermôn ; Ἑ. χάρις, DS. <i>Exc. Vat. p. 35,</i> cadeau d’Hermôn, <i>proverbe en souvenir d’Hermôn, roi de Thrace, qui céda malgré lui son pays aux Athéniens lors des guerres Médiques</i>.<p><b>Étym</b>. Ἕρμων.`

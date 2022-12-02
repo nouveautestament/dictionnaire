@@ -1,0 +1,1 @@
+lar[23100]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> jeune génisse, EUR. <i>Bacch. 738</i> ; THCR. <i>Idyl. 4, 12 (dor</i>. -άλα) ; <i>etc</i>.<p><i>cf</i>. δάμαλις.`

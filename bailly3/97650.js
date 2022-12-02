@@ -1,0 +1,1 @@
+lar[97650]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., avec trouble, ISOCR. <i>236a ;</i> DÉM. <i>1477, 7, etc</i>.<p>•<i> Sup</i>. ταραχωδέστατα, ISOCR. <i>148b</i>.<p><b>Étym</b>. ταραχώδης.`

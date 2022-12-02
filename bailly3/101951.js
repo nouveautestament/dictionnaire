@@ -1,0 +1,1 @@
+lar[101951]=`<b>ὑπ·αναπλέω</b> <font color="purple">[ῠᾰν]</font> émerger et flotter à la surface, PHIL. <i>1, 550 ; 2, 174</i>.`

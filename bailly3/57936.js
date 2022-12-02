@@ -1,0 +1,1 @@
+lar[57936]=`<b>κριν·έλαιον, ου (τὸ)</b> <font color="purple">[ῐ]</font> huile de lis, ORNEOSOPH. II <i>p. 581, 25</i>.<p><b>Étym</b>. κρίνον, ἔλαιον.`

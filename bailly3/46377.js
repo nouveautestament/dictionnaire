@@ -1,0 +1,1 @@
+lar[46377]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. θαυμαστός, HH. <i>Merc. 80, 440</i> ; BACCHYL. <i>34</i> ; HÉS. <i>Sc. 165</i> ; PD. <i>O. 1, 43</i>.<p>➳ <i>Acc. fém. dor</i>. θαυματάν, PD. <i>P. 10, 48</i>.`

@@ -1,0 +1,1 @@
+lar[108164]=`<b>χειρο·ποιέομαι</b>, οῦμαι, faire de ses propres mains, SOPH. <i>Tr. 891</i>.<p><b>Étym</b>. χείρ, π.`

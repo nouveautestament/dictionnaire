@@ -1,0 +1,1 @@
+lar[24441]=`<i>adv</i>., en termes malveillants <i>ou</i> calomnieux, THC. <i>6, 15</i> ; DC. <i>46, 1</i>.`

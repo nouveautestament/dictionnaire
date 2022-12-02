@@ -1,0 +1,1 @@
+lar[109898]=`<b>ή, όν</b>, qui émet un son, qui crie, gronde, etc. <i>en parl. d’animaux (p. opp. aux</i> ζῷα ἄφωνα <i>ou</i> φονήεντα) ARSTT. <i>H.A. 1, 1, 29 ; en gén. en parl. de choses,</i> ARSTT. <i>An. 2, 11, 8, etc</i>.<p><b>Étym</b>. ψοφέω.`

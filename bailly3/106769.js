@@ -1,0 +1,1 @@
+lar[106769]=`<b>φραγελλόω-ῶ</b>, fouetter, NT. <i>Matth. 27, 26 ; Marc. 15, 15</i>.<p><b>Étym</b>. <i>lat</i>. flagello.`

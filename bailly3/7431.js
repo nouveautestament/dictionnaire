@@ -1,0 +1,1 @@
+lar[7431]=`<i>adv</i>., sans preuves, PLUT. <i>C. Gracch. 10</i>.`

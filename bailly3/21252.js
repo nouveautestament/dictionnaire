@@ -1,0 +1,1 @@
+lar[21252]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> <i>c</i>. γαλεοειδής, ARSTT. <i>H.A. 2, 13, 6, etc</i>.`

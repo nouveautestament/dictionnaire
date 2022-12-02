@@ -1,0 +1,1 @@
+lar[23517]=`<b>ωνος (ὁ)</b> <font color="purple">[α]</font> pauvre malheureux, AR. <i>Pax 193, Av. 143</i>.<p><b>Étym</b>. δείλακρος.`

@@ -1,0 +1,1 @@
+lar[108373]=`<b>ης, ες</b>, qui ressemble à une oie, SEXT. <i>M. 7, 329</i>.<p><b>Étym</b>. χ. -ωδης.`

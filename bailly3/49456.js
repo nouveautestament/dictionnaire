@@ -1,0 +1,1 @@
+lar[49456]=`<b>ας (ἡ)</b> action d’élever, élevage des chevaux, PLAT. <i>Pol. 299d</i>.<p><b>Étym</b>. ἱπποφορβός.`

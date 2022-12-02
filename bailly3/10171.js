@@ -1,0 +1,1 @@
+lar[10171]=`<b>ἀντι·παράγω</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> produire contre, opposer, PLUT. <i>M. 719c.</i><br><b>      2</b> faire avancer (<i>s.-e</i>. στρατόν, des troupes) contre, <i>càd</i>. marcher contre l’ennemi, XÉN. <i>Cyr. 1, 6, 43</i>.<br><b>      3</b> venir à la rencontre l’un de l’autre par deux routes parallèles, POL. <i>1, 77, 2, etc</i>.`

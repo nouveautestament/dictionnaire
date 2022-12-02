@@ -1,0 +1,1 @@
+lar[94839]=`<b>συν·απεκδύω</b>, dépouiller avec, ORIG. <i>1, 617 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[70006]=`<b>ὀβελισκο·λύχνιον, ου (τὸ)</b> petite lanterne supportée par une tige de fer, sorte de réverbère, THPP. COM. (ATH. <i>700e</i>) ; ARSTT. <i>P.A. 4, 6</i>.<p><b>Étym</b>. ὀβελίσκος, λύχνος.`

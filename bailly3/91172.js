@@ -1,0 +1,1 @@
+lar[91172]=`<font color="darkgreen">(<i>ao. pass. inf</i>. σκορπισθῆναι)</font> disperser <i>comme avec l’engin</i> σκορπίος, HÉCAT. <i>fr. 371</i> ; STR. <i>198</i> ; LUC. <i>As. 32</i> ; NT. <i>Matth. 12, 30 ; Luc. 11, 23 ; au pass</i>. PLUT. <i>Tim. 4</i> ; NT. <i>Joh. 16, 32</i>.<p><b>Étym</b>. σκορπίος.`

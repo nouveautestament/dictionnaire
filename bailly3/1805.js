@@ -1,0 +1,1 @@
+lar[1805]=`<b>Ἀέρ·οπος, ου (ὁ)</b> Aéropos :<br><b>      1</b> <i>roi de Tégée,</i> HDT. <i>9, 26</i>.<br><b>      2</b> <i>n. de rois et de généraux macédoniens,</i> HDT. <i>8, 139</i> ; PLUT. <i>Demetr. 20, etc</i>.<p>➳ <i>Ion</i>. Ἠέρ. HDT. <i>l. c</i>.`

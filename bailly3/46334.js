@@ -1,0 +1,1 @@
+lar[46334]=`<b>(ὁ)</b> <font color="purple">[ᾰῠῐ]</font> Tharybis, ESCHL. <i>Pers. 51, 323, 970</i>.`

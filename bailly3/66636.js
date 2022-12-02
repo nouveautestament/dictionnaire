@@ -1,0 +1,1 @@
+lar[66636]=`<b>μονό·στολος, ος, ον :<br>      1</b> qui va seul, LYC. <i>690</i>.<br><b>      2</b> <i>p. ext</i>. seul, solitaire, EUR. <i>Ph. 749, Alc. 406</i>.<p><b>Étym</b>. μ. στόλος.`

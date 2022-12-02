@@ -1,0 +1,1 @@
+lar[50045]=`<b>ἰχθυ·γόνος, ος, ον</b> <font color="purple">[ῠ]</font> qui engendre des poissons, NONN. <i>D. 26, 275</i>.<p><b>Étym</b>. ἰ. γίγνομαι.`

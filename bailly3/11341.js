@@ -1,0 +1,1 @@
+lar[11341]=`<b>ας</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> insuffisance de préparation <i>ou</i> de préparatifs, HPC. <i>395, 8</i>.<p><b>Étym</b>. <i>v</i>. ἀπαρασκεύαστος.`

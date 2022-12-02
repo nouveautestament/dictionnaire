@@ -1,0 +1,1 @@
+lar[2666]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> énigmatique, obscur, ESCHL. <i>Suppl. 464</i> ; PLAT. <i>Theæt. 180a</i>.<p><b>Étym</b>. αἴνιγμα, -ωδης.`

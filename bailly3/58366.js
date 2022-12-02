@@ -1,0 +1,1 @@
+lar[58366]=`<b>κυανό·χροος, οος, οον</b> <font color="purple">[ῠᾰ]</font> sombre <i>ou</i> noir, EUR. <i>Hel. 1502</i>.`

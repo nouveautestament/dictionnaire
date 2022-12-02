@@ -1,0 +1,1 @@
+lar[8046]=`<i>adv</i>., en homme, AR. <i>Eccl. 149</i> ; THCR. <i>Idyl. 18, 23</i>.<p><b>Étym</b>. ἀνδρίζομαι.`

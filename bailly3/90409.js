@@ -1,0 +1,1 @@
+lar[90409]=`<b>ῶν (οἱ)</b> les Sintes, <i>tribu thrace en Macédoine,</i> THC. <i>2, 98, etc</i>.`

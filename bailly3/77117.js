@@ -1,0 +1,1 @@
+lar[77117]=`<b>παρ·όσον</b> <i>ou mieux</i> <b>παρ' ὅσον</b>, <i>conj</i>. autant que, en tant que, SEXT. <i>279, 13 ; 626, 19 Bkk</i>.`

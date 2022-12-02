@@ -1,0 +1,1 @@
+lar[104885]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. de Pharos, PLUT. <i>Ant. 29</i>.<p><b>Étym</b>. Φάρος.`

@@ -1,0 +1,1 @@
+lar[87928]=`<b>πυρ·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font> lutter avec le feu, ARCHÉL. (<i>Ideler. Phys. 2, 345, etc</i>.).<p><b>Étym</b>. π. μάχη.`

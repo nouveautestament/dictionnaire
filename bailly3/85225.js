@@ -1,0 +1,1 @@
+lar[85225]=`<b>προσ·απατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> tromper encore <i>ou</i> en outre, STR. <i>256</i>.`

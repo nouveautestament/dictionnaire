@@ -1,0 +1,1 @@
+lar[62927]=`<b>ας (ἡ)</b> Mareia, <i>v. de l’Égypte inférieure, près du lac Maréôtis,</i> THC. <i>1, 104, etc</i>.<p>➳ <i>Ion</i>. Μαρέη, HDT. <i>2, 18 et 30</i>.`

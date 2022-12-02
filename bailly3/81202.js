@@ -1,0 +1,1 @@
+lar[81202]=`<b>πνευμό·ρρωξ, ωγος (ὁ, ἡ) :<br>      1</b> ὁ π. déchirure du poumon, HIPPIATR. <i>29, 7</i>.<br><b>      2</b> qui souffre d’une déchirure du poumon, HIPPIATR. <i>29, 26</i>.<p><b>Étym</b>. πνεύμων, ῥήγνυμι.`

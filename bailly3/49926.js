@@ -1,0 +1,1 @@
+lar[49926]=`<b>ἰσχυρό·ρριζος, ος, ον</b> <font color="purple">[ῡ]</font> aux fortes racines, TH. <i>C.P. 2, 12, 3</i>.<p><b>Étym</b>. ἰ. ρίζα.`

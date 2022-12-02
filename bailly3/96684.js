@@ -1,0 +1,1 @@
+lar[96684]=`<b>συ·στενοχωρέω-ῶ</b>, resserrer, emprisonner, PLUT. <i>M. 601d</i>.`

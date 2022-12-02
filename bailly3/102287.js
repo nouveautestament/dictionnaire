@@ -1,0 +1,1 @@
+lar[102287]=`<b>ὑπερ·αποκρίνομαι</b> <font color="purple">[ῑ]</font> répondre pour, prendre la défense de, <i>gén</i>. AR. <i>Vesp. 951, Th. 186</i>.`

@@ -1,0 +1,1 @@
+lar[100545]=`<b>α, ον</b> <font color="purple">[ῐ]</font> du troisième rang ; τὰ τριτεῖα, PLAT. <i>Phil. 22e</i>, le troisième rang, le troisième prix.<p><b>Étym</b>. τρίτος.`

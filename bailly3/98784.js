@@ -1,0 +1,1 @@
+lar[98784]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. Τευθράντιος ANTH. <i>3, 2</i>.`

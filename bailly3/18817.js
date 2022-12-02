@@ -1,0 +1,1 @@
+lar[18817]=`<b>βαθύ·στρωτος, ος, ον</b> <font color="purple">[ᾰ]</font> aux couvertures épaisses (couche, lit), MUS. <i>266</i> ; BABR. <i>32, 7</i>.<p><b>Étym</b>. β. στρώννυμι.`

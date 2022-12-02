@@ -1,0 +1,1 @@
+lar[32407]=`<b>ἐκ·χυλόω-ῶ</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐκχυλίζω DIEUCH. (ORIB. <i>1, 287 B.-Dar.) ; au pass</i>. GAL. <i>13, 186</i>.`

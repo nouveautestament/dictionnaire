@@ -1,0 +1,1 @@
+lar[101920]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> spatule pour les onctions, HPC. <i>661, 32 ; 788b, etc</i>.<p><b>Étym</b>. ὑπαλείφω.`

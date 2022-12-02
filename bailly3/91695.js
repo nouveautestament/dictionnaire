@@ -1,0 +1,1 @@
+lar[91695]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de serrer un tissu, ARSTT. <i>Phys. 7, 2</i>.<p><b>Étym</b>. σπαθάω.`

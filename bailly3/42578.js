@@ -1,0 +1,1 @@
+lar[42578]=`<b>εὔ·λεκτρος, ος, ον :<br>      1</b> dont la couche est désirable, SOPH. <i>Ant. 795</i>.<br><b>      2</b> propice aux hymens (Aphrodite) SOPH. <i>Tr. 515</i>.<br><b>      3</b> à la couche complaisante, ANTH. <i>5, 245</i>.<p><b>Étym</b>. εὖ, λέκτρον.`

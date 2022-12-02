@@ -1,0 +1,1 @@
+lar[18715]=`<font color="purple">[ᾱ]</font> <i>v</i>. ἡδύς.`

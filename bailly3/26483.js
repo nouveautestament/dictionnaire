@@ -1,0 +1,1 @@
+lar[26483]=`<b>Δικαιό·πολις, ιδος</b>, <i>acc</i>. <b>ιν</b>, <i>voc</i>. <b>-ι (ὁ)</b> <font color="purple">[δῐ]</font> Dikæopolis, <i>h</i>. AR. <i>Ach. 749, 959, etc</i>.`

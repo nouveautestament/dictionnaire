@@ -1,0 +1,1 @@
+lar[87307]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> fait de plumes, EUR. <i>Or. 1429</i> ; ANTH. <i>6, 306</i> ; POL. <i>6, 23, 12</i>.<br><b>      2</b> ailé, AR. <i>Av. 900 ; fig</i>. garni d’une colonnade (temple) Ps.-ERATOSTH. <i>Cat. 29, etc</i>.<p>➳ <i>Fém. dor</i>. -ίνα, ANTH. <i>l. c</i>.<p><b>Étym</b>. πτερόν.`

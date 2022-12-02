@@ -1,0 +1,1 @@
+lar[24427]=`<b>δια·βλαστάνω</b>, poindre en germant, germer, TH. PLUT.<p>➳ <i>Prés. part. fém</i>. -βλαστάνουσαν, PLUT. <i>Crass. 22. Ao.1, 3 sg</i>. διεβλάστησε, TH. <i>C.P. 5, 13, 3. Ao.2 inf</i>. διαβλαστεῖν, <i>ibid. 4, 8, 4. Pf. part</i>. -βεβλαστηκώς, <i>ibid. 3, 20, 6</i>.`

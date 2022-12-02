@@ -1,0 +1,1 @@
+lar[110294]=`<b>ὠμο·τύραννος, ου) (ὁ)</b> <font color="purple">[ῠ]</font> cruel tyran, SPT. <i>2Macc. 7, 27</i>.`

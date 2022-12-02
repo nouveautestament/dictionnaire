@@ -1,0 +1,1 @@
+lar[20813]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. βρίμη, A. PL. <i>4, 103, conj</i>.<p><b>Étym</b>. βριμάομαι.`

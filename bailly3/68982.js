@@ -1,0 +1,1 @@
+lar[68982]=`<b>   I <i>tr</i>.<br>      1</b> soigner un malade, Ps.-HDT. <i>V. Hom. c. 7</i> ; ν. τινά, ISOCR. <i>389d</i>, soigner qqn.<br><b>      2</b> rendre malade, ANAXIL. (ATH. <i>95b</i>).<br><b>   II <i>intr.</i></b> être malade, HPC.<p><b>Étym</b>. νοσηλός.`

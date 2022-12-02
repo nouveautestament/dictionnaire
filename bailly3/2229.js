@@ -1,0 +1,1 @@
+lar[2229]=`<b>αἰγί·βοσις, εως (ἡ)</b> <font color="purple">[γῐ]</font> pâturage pour les chèvres, ANTH. <i>9, 318</i>.<p><b>Étym</b>. αἴξ, βόσκω.`

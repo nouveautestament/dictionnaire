@@ -1,0 +1,1 @@
+lar[67885]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> jeune homme, homme jeune, XÉN. <i>An. 7, 2, 18</i> ; PLAT. <i>Rsp. 413e, etc.</i><br><b>      2</b> serviteur, LUC. <i>Alex. 53</i>.<p>➳ <i>Ion</i>. νεηνίσκος, HDT. <i>4, 72, 112</i>.<p><b>Étym</b>. νεανίας.`

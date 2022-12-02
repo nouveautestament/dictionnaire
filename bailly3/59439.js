@@ -1,0 +1,1 @@
+lar[59439]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> atteint de lagophthalmie, <i>càd</i>. dont les yeux restent ouverts comme ceux du lièvre, GAL. <i>2, 271, etc.</i> ; P. ÉG. <i>6, 10</i>.<p><b>Étym</b>. λαγώς, ὀφθαλμός.`

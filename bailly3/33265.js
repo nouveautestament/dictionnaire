@@ -1,0 +1,1 @@
+lar[33265]=`<b>ἐμμεστόω-ῶ</b>, remplir, <i>d’où au pass</i>. se remplir, SOPH. <i>Ant. 420</i>.<p><b>Étym</b>. ἔμμεστος.`

@@ -1,0 +1,1 @@
+lar[61152]=`<b>λιμενο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῐῠᾰκ]</font> gardien d’un port, EN. TACT. <i>Pol. 29</i>.<p><b>Étym</b>. λ. φύλαξ.`

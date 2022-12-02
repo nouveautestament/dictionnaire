@@ -1,0 +1,1 @@
+lar[67527]=`<b>μωμο·σκόπος, ου (ὁ)</b> inspecteur des victimes destinées au sacrifice, PHIL. <i>1, 320</i> ; CLÉM. <i>521</i>.<p><b>Étym</b>. μῶμος, σκοπέω.`

@@ -1,0 +1,1 @@
+lar[65390]=`<b>*μηλο·δροπεύς</b>, <i>dor</i>. <b>μαλο·δροπεύς</b> (<i>plur. nom. poét</i>. -ῆες) <font color="purple">[ᾱ]</font> qui cueille des pommes, SAPPH. <i>94</i>.<p><b>Étym</b>. μῆλον², δρέπω.`

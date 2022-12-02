@@ -1,0 +1,1 @@
+lar[82015]=`<b>πολύ·κοινος, ος, ον</b> <font color="purple">[ῠ]</font> commun à plusieurs <i>ou</i> à beaucoup, PD. <i>P. 2, 77</i> ; SOPH. <i>Aj. 1192</i> ; ARSTT. <i>Nic. 1, 9, 4</i>.<p><b>Étym</b>. π. κοινός.`

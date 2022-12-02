@@ -1,0 +1,1 @@
+lar[14300]=`<b>ου (ὁ)</b> Argos (Argus) :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>bouvier aux cent yeux, tué par Hermès,</i> ESCHL. <i>Pr. 568, etc.</i><br><b>      2</b> <i>constructeur du navire Argô,</i> ORPH. <i>Arg. 864</i>.<br><b>   II</b> <i>n. du chien d’Ulysse (litt</i>. l’agile <i>ou p.-ê</i>. le blanc) OD. <i>17, 292</i>.<p><b>Étym</b>. <i>cf</i>. ἀργός¹.`

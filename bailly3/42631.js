@@ -1,0 +1,1 @@
+lar[42631]=`<b>εὔ·μαλλος, ος, ον</b>, à la laine épaisse <i>ou</i> belle, PD. <i>I. 4, 69</i>.<p><b>Étym</b>. εὖ, μαλλός.`

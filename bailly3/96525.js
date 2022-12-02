@@ -1,0 +1,1 @@
+lar[96525]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> <i>c</i>. συριστής, ARSTT. <i>Probl. 18, 6, 1</i>.<br><b>      2</b> sifflant, ANTH. <i>6, 73, 237</i>.<p>➳ <i>Dor</i>. συρικτάς <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 7, 28 ; 8, 9 et 34 ; etc</i>.`

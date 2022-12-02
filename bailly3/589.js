@@ -1,0 +1,1 @@
+lar[589]=`<font color="purple">[ᾰ]</font> (<i>seul. prés., impf</i>. ἥγιζον, <i>et ao. pass. part</i>. ἁγισθείς) consacrer, offrir en sacrifice, SOPH. <i>O.C. 1495</i> ; AR. <i>Pl. 681</i> ; DH. <i>1, 57 ; 4, 2 ; au pass</i>. PD. <i>O. 3, 19</i>.<p><b>Étym</b>. ἅγιος.`

@@ -1,0 +1,1 @@
+lar[15631]=`<b>Ἀρχι·μήδης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Arkhimèdès (Archimède) <i>célèbre mathématicien de Syracuse</i>.<p>➳ <i>Gén</i>. -ου, POLYEN <i>8, 2 ; acc</i>. -ην, PLUT. <i>Marc. 14, 15</i> ; LUC. <i>Hipp. 2</i> ; ATH. <i>etc. ; rar</i>. -η, PLUT. <i>Marc. 14, 17</i>.<p><b>Étym</b>. ἄρχω, μήδομαι.`

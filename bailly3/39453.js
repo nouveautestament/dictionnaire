@@ -1,0 +1,1 @@
+lar[39453]=`<b>ῆς (ἡ) :<br>      1</b> incision, coupure à la surface, ESCHN. <i>60, 43</i>.<br><b>      2</b> abrégé, ARSTT. <i>Probl. 9, titre</i> ; ἐπ. τῆς οἰκουμένης, ATH. <i>20b</i>, abrégé de l’univers, <i>en parl. de Rome ; particul</i>. abrégé d’un ouvrage, CHRYSIPP. (DL. <i>191</i>) ; SPT. <i>2Macc. 2, 26 et 28</i> ; CIC. <i>Att. 5, 20, 1</i>.<p><b>Étym</b>. ἐπιτέμνω.`

@@ -1,0 +1,1 @@
+lar[28734]=`<b>δυσ·όριστος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> difficile à déterminer, à limiter, ARSTT. <i>Meteor. 4, 1, 3</i>.<br><b>      2</b> difficile à définir, DH. <i>Din. 5</i>.<p><b>Étym</b>. δ. ὁρίζω.`

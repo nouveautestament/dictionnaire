@@ -1,0 +1,1 @@
+lar[6914]=`<b>ἀνα·κεκλόμενος, η, ον</b>, <i>part. ao.2 poét. avec redoubl. de</i> *ἀνακέλομαι, invoquer, HH. <i>18, 5</i>.`

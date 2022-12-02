@@ -1,0 +1,1 @@
+lar[70762]=`<b>οἰωνο·κτόνος, ος, ον</b>, qui tue les oiseaux, ESCHL. <i>Ag. 563</i>.<p><b>Étym</b>. οἰωνός, κτείνω.`

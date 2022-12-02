@@ -1,0 +1,1 @@
+lar[96574]=`<b>συρ·ρώννυμι</b>, fortifier en même temps, PHIL. <i>1, 223</i>.`

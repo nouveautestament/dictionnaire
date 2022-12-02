@@ -1,0 +1,1 @@
+lar[40287]=`<b>(ὁ)</b> Érembée, <i>chef indien,</i> NONN. <i>D. 17, 217</i>.`

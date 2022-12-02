@@ -1,0 +1,1 @@
+lar[83696]=`<b>προ·αποτρέπω</b>, détourner auparavant, <i>d’où au moy</i>. se détourner d’abord, XÉN. <i>An. 6, 5, 31</i> ; DC. <i>47, 36</i>.`

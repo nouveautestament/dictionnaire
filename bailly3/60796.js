@@ -1,0 +1,1 @@
+lar[60796]=`<b>ά, όν</b>, chassieux, HLD. CHIR. (STOB. <i>Fl. 100, 6 Mein</i>.).<p><b>Étym</b>. λήμη.`

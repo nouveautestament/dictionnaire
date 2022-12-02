@@ -1,0 +1,1 @@
+lar[3573]=`<b>ἀ·κόρητος, ος, ον</b>, non nettoyé, malpropre, AR. <i>Nub. 44</i>.<p><b>Étym</b>. ἀ, κορέω.`

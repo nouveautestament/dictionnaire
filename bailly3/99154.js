@@ -1,0 +1,1 @@
+lar[99154]=`<i>ou mieux</i> <b>τίλων, ωνος (ὁ)</b> sorte de poisson du lac Prasias, <i>en Thrace,</i> HDT. <i>5, 16</i> ; ARSTT. <i>H.A. 6, 13, 8 ; 8, 20, 12</i>.`

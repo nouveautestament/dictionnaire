@@ -1,0 +1,1 @@
+lar[27616]=`<b>ης (ἡ)</b> biche, EUR. <i>H.f. 376, dout</i>.`

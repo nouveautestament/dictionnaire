@@ -1,0 +1,1 @@
+lar[81554]=`<b>ας (ἡ)</b> charge de gouverneur d’une ville, THÉM. <i>214b, 224b</i>.<p><b>Étym</b>. πολίαρχος.`

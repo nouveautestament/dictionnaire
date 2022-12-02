@@ -1,0 +1,1 @@
+lar[87190]=`<b>πρωτο·γένειος, ου (ὁ)</b> adolescent à barbe naissante, PHIL. <i>1, 159 ; 2, 632, 479</i>.<p><b>Étym</b>. πρ. γένειον.`

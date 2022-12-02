@@ -1,0 +1,1 @@
+lar[102774]=`<b>ὑπερ·πολάζω</b>, déborder et inonder, STR. <i>52</i>.<p><b>Étym</b>. <i>cf</i>. ἐπιπολάζω.`

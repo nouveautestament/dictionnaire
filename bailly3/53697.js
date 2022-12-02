@@ -1,0 +1,1 @@
+lar[53697]=`<b>κατα·φυσάω-ῶ</b> <font color="purple">[ῡ]</font> souffler sur, <i>acc</i>. ARSTT. <i>H.A. 9, 10, 58</i>.`

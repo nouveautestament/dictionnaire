@@ -1,0 +1,1 @@
+lar[60856]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui oublie, oublieux de, <i>gén</i>. THÉM. <i>268c</i>.<p><b>Étym</b>. λανθάνω.`

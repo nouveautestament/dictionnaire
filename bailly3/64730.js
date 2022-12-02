@@ -1,0 +1,1 @@
+lar[64730]=`<b>μετα·ΐζω</b> (<i>seul. prés</i>.) s’asseoir auprès <i>ou</i> parmi, OD. <i>16, 362</i>.<p><b>Étym</b>. <i>cf</i>. μεθίζω.`

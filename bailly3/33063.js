@@ -1,0 +1,1 @@
+lar[33063]=`<b>ἐμ·βαδίζω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> marcher sur, EL. <i>N.A. 10, 24</i>.<br><b>      2</b> entrer dans, DC. <i>79, 14</i>.<p><b>Étym</b>. ἐν, β.`

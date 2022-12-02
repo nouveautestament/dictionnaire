@@ -1,0 +1,1 @@
+lar[94818]=`<b>συν·αντλέω-ῶ</b>, épuiser <i>ou</i> supporter jusqu’au bout avec, EUR. <i>Ion 200</i>.`

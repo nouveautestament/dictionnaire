@@ -1,0 +1,1 @@
+lar[76847]=`<i>adv</i>., de manière à consoler ; à adoucir, à calmer, HPC. <i>Art. 828</i>.`

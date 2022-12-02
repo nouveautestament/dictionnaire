@@ -1,0 +1,1 @@
+lar[92421]=`<b>στερεόω-ῶ :<br>      1</b> rendre ferme <i>ou</i> solide, XÉN. <i>Eq. 4, 3 ; au pass</i>. être solidement établi, SPT. <i>1Reg. 6, 18 ; fig</i>. DS. <i>17, 57</i>.<br><b>      2</b> fortifier, <i>fig</i>. NT. <i>Ap. 3, 16 ; au pass</i>. devenir fort, XÉN. <i>Cyr. 8, 8, 8</i> ; NT. <i>Ap. 3, 7</i>.<p><b>Étym</b>. στερεός.`

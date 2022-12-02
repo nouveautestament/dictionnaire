@@ -1,0 +1,1 @@
+lar[107075]=`<font color="purple">[ῡ]</font> diviser en tribus, PLUT. <i>Lyc. 6</i>.<p><b>Étym</b>. φυλή.`

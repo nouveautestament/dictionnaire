@@ -1,0 +1,1 @@
+lar[6482]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> sorte d’amome, <i>plante odoriférante,</i> DIOSC. <i>1, 14</i>.<p><b>Étym</b>. ἄμωμον.`

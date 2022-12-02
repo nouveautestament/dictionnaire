@@ -1,0 +1,1 @@
+lar[46899]=`(<i>seul. part. prés. pass</i>. θερειόμενος) échauffer, NIC. <i>Th. 124,</i> AL. <i>580</i>.<p><b>Étym</b>. <i>cf</i>. θέρω.`

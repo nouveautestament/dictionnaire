@@ -1,0 +1,1 @@
+lar[9978]=`<b>ἀντι·κομίζω</b> <font color="darkgreen">(<i>ao</i>. ἀντεκόμισα)</font> apporter à son tour <i>ou</i> en échange, PLUT. <i>Lys. 26</i>.`

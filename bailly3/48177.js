@@ -1,0 +1,1 @@
+lar[48177]=`<b>ἰᾶς (ἡ)</b> bruit, voix, cri, ESCHL. <i>Pers. 936</i> ; EUR. <i>Rhes. 553</i>.<p>➳ <i>Ion</i>. ἰή, ORACL. (HDT. <i>1, 85</i>).`

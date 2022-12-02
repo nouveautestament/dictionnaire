@@ -1,0 +1,1 @@
+lar[7598]=`<i>adv</i>., sans commencement, CLÉM. <i>703</i>.<p><b>Étym</b>. ἄναρχος.`

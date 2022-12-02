@@ -1,0 +1,1 @@
+lar[49712]=`<b>ἰσό·πηχυς, υς, υ</b> <font color="purple">[ῑ̆]</font> long d’une coudée, OPP. <i>H. 1, 213</i>.<p><b>Étym</b>. ἴ. πῆχυς.`

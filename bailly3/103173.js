@@ -1,0 +1,1 @@
+lar[103173]=`<b>ὑπο·διδάσκω</b> <font color="purple">[ῐ]</font> enseigner en sous-ordre, en appliquant certains préceptes, SPT. <i>Neh. 8, 9</i>.`

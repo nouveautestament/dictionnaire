@@ -1,0 +1,1 @@
+lar[21668]=`<b>Γενεῖτα Μάνα (ἡ)</b> = <i>lat</i>. Genita Mana, <i>divinité romaine,</i> PLUT. <i>M. 277a</i>.`

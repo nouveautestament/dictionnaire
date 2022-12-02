@@ -1,0 +1,1 @@
+lar[20875]=`<b>βροτο·φθόρος, ος, ον :<br>      1</b> qui fait périr les mortels, ESCHL. <i>Eum. 787, Suppl. 264</i>.<br><b>      2</b> qui provient d’un homme mort, EUR. <i>fr. 268</i>.<p><b>Étym</b>. βρ. φθείρω.`

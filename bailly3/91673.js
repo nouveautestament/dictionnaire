@@ -1,0 +1,1 @@
+lar[91673]=`<b>σοφιστο·μανέω-ῶ</b> <font color="purple">[ᾰ]</font> être passionné pour l’art des sophistes, NAZ. <i>2, 513 Migne</i> (σοφιστής, μαίνομαι.`

@@ -1,0 +1,1 @@
+lar[3669]=`<b>ἀ·κράτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> sans force pour (tomber à genoux), impuissant, SOPH. <i>Ph. 486</i>.<br><b>      2</b> qui n’est pas maître de, <i>gén</i>. PLAT. <i>Rsp. 579c, etc</i>.<p><b>Étym</b>. ἀ, κράτος.`

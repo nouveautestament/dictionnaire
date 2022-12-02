@@ -1,0 +1,1 @@
+lar[45769]=`<b>ητος (ἡ)</b> douceur, bonté, HÉCAT. ABD. (JOS. <i>c. Ap. 1, 22</i>) ; PHIL. <i>2, 207, 267</i>.<p><b>Étym</b>. ἤπιος.`

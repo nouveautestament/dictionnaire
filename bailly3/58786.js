@@ -1,0 +1,1 @@
+lar[58786]=`<b>κυνο·βάτης, ου</b> <font color="purple">[ῠᾰ]</font> <i>adj. m</i>. fourbu, <i>en parl. d’un cheval,</i> HIPPIATR. <i>p. 262</i>.<p><b>Étym</b>. κύων, βαίνω.`

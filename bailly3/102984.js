@@ -1,0 +1,1 @@
+lar[102984]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. ὑπνικός, ANTH. <i>7, 198, 6 conj</i>.`

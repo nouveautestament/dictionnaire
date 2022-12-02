@@ -1,0 +1,1 @@
+lar[34862]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui est dans le port, ANTH. <i>10, 2, 14</i>.<p><b>Étym</b>. ἐν, ὅρμος.`

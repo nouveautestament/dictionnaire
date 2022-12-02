@@ -1,0 +1,1 @@
+lar[95129]=`<b>συν·διανήχομαι</b>, traverser ensemble à la nage, SOTION (STOB. <i>Fl. 14, 10</i>).`

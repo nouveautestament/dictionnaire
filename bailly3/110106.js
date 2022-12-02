@@ -1,0 +1,1 @@
+lar[110106]=`<i>adv</i>., en musique, en cadence, AR. <i>Vesp. 1240</i>.<p>•<i> Cp</i>. ᾠδικώτερον, LUC. <i>Sat. 4</i>.`

@@ -1,0 +1,1 @@
+lar[22403]=`<b>(ὁ)</b> Gulussa, <i>fils de Masinissa,</i> POL. <i>39, 1, 2</i>.`

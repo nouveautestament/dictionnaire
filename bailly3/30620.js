@@ -1,0 +1,1 @@
+lar[30620]=`<b>εἰρο·κόμος, ος, ον</b>, qui sert à travailler <i>ou</i> qui travaille la laine, IL. <i>3, 387</i> ; ANTH. <i>6, 160</i>.<p><b>Étym</b>. εἶρος, κομέω.`

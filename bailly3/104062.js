@@ -1,0 +1,1 @@
+lar[104062]=`<b>ή, όν</b> <font color="purple">[τῠ]</font> qui ressemble à une ébauche, <i>d’où</i> sommaire, bref, SEXT. <i>P. 1, 239</i>.<p><b>Étym</b>. ὑποτυπόω.`

@@ -1,0 +1,1 @@
+lar[56978]=`<b>κοπρο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange de la fiente, GAL. <i>12, 249</i> ; DIOGÉN. <i>3, 49 ; 5, 80</i>.<p><b>Étym</b>. κόπρος, φαγεῖν.`

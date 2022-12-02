@@ -1,0 +1,1 @@
+lar[83047]=`<b>ας (ἡ)</b> Potidania (<i>auj</i>. ruines près de Kámpos et Paleómylos) <i>v. d’Étolie,</i> THC. <i>3, 96</i>.`

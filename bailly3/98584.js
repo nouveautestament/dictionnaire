@@ -1,0 +1,1 @@
+lar[98584]=`<b>τετρά·κλαστος, ος, ον</b>, brisé en quatre, PROCL. <i>Hes. O. 440</i>.<p><b>Étym</b>. τ. κλάω.`

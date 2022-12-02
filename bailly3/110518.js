@@ -1,0 +1,1 @@
+lar[110518]=`<b>ὡσπερ·εί</b>, <i>conj.</i> : comme si, <i>avec l’ind</i>. ESCHL. <i>Ag. 1201 ; avec l’opt</i>. SOPH. <i>O.C. 776 ; avec l’inf</i>. ὡσπερεὶ φάναι, LGN <i>32, 3,</i> pour ainsi dire ; <i>avec un subst</i>. comme si c’était, AR. <i>Lys. 115</i> ; PLAT. <i>Crat. 422a ; de même dev. un part</i>. AR. <i>Eccl. 537</i>.<p><b>Étym</b>. ὥσπερ, εἰ.`

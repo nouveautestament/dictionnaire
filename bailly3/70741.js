@@ -1,0 +1,1 @@
+lar[70741]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’Œkhalia, <i>en Étolie,</i> IL. <i>2, 596</i>.<p><b>Étym</b>. Οἰχαλία, -θεν.`

@@ -1,0 +1,1 @@
+lar[14868]=`<font color="purple">[μᾰ]</font> être voituré sur un char, LYC. <i>1319</i>.<p><b>Étym</b>. ἅρμα.`

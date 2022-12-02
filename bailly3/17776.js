@@ -1,0 +1,1 @@
+lar[17776]=`<b>ας (ἡ)</b> meurtre accompli de la propre main (de qqn) PLAT. <i>Leg. 872b ; d’ord. au dat</i>. αὐτοχειρίῃ (<i>ion</i>.) κτεῖνειν, HDT. <i>1, 140, etc</i>. tuer de sa main ; <i>en gén</i>. action accomplie par la main de qqn : αὐτοχειρίᾳ λαβεῖν, DÉM. <i>787, 26,</i> prendre de sa main ; <i>cf</i>. HDT. <i>1, 123 ; 3, 13</i>.<p><b>Étym</b>. αὐτόχειρ.`

@@ -1,0 +1,1 @@
+lar[74298]=`<b>ας (ἡ) :<br>      1</b> direction de l’éducation des enfants, ARSTT. <i>Pol. 7, 6, 12</i>.<br><b>      2</b> fonction <i>de</i> παιδονόμος, ARSTT. <i>Pol. 6, 8, 23</i>.<p><b>Étym</b>. παιδονόμος.`

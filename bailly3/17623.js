@@ -1,0 +1,1 @@
+lar[17623]=`<b>αὐτο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui s’est construit (<i>litt</i>. fixé) soi-même, <i>d’où</i> naturel, ANTH. <i>9, 404</i>.<br><b>      2</b> qui s’est figé <i>ou</i> durci de soi-même, <i>càd</i>. naturellement, EPHOR. <i>fr. 108 Müller</i>.<p><b>Étym</b>. αὐ. πήγνυμι.`

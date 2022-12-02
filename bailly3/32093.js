@@ -1,0 +1,1 @@
+lar[32093]=`<i>c</i>. ταμιεύω <font color="purple">[ᾰ]</font> AGATHARCH. <i>189, 27</i>.`

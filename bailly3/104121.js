@@ -1,0 +1,1 @@
+lar[104121]=`<b>ὑπο·φράζομαι</b> <font color="darkgreen">(<i>ao</i>. ὑπεφράσθην)</font> s’apercevoir de, <i>acc</i>. A.RH. <i>1, 462</i>.`

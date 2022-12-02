@@ -1,0 +1,1 @@
+lar[69515]=`<b>εως (ἡ)</b> changement étrange, innovation, EUR. <i>H.f. 965</i>.<p><b>Étym</b>. ξενόω.`

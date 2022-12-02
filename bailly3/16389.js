@@ -1,0 +1,1 @@
+lar[16389]=`<b>έως (ὁ)</b> <font color="purple">[ῠᾰ]</font> de l’î. Astypalæa, ARSTT. PLUT. <i>etc</i>.`

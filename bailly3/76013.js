@@ -1,0 +1,1 @@
+lar[76013]=`<b>παρα·ξιφίς, ίδος (ἡ)</b> <font color="purple">[ῐφῐδ]</font> poignard <i>ou</i> coutelas qu’on portait à côté de l’épée à la ceinture, STR. <i>154</i> ; DS. <i>5, 33</i> ; SPT. <i>2Reg. 5, 8, etc</i>.<p><b>Étym</b>. π. ξίφος.`

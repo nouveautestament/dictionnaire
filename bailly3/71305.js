@@ -1,0 +1,1 @@
+lar[71305]=`<b>ης (ἡ)</b> parenté par le sang, A. PL. <i>128</i>.<p><b>Étym</b>. ὁμαίμων.`

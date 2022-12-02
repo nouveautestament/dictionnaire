@@ -1,0 +1,1 @@
+lar[48883]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> sacrifice propitiatoire, ORACL. (ZOS. <i>2, 6).</i><p><b>Étym</b>. ἱλάσκομαι.`

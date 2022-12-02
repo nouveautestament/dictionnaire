@@ -1,0 +1,1 @@
+lar[36638]=`<b>ἐπ·αναπολέω-ῶ</b>, revenir sur qqe ch. PLAT. <i>Leg. 723e, Phil. 60a</i>.`

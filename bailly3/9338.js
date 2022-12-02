@@ -1,0 +1,1 @@
+lar[9338]=`<b>ἄν·οσμος, ος, ον</b>, inodore, HPC. <i>Acut. 394</i> ; ARSTT. <i>H.A. 10, 1, 16, etc</i>.<p><b>Étym</b>. ἀν-, ὀσμή.`

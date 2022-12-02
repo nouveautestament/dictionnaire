@@ -1,0 +1,1 @@
+lar[71629]=`<b>ὁμό·νομος, ος, ον</b>, soumis aux mêmes lois, PLAT. <i>Leg. 708c</i>.<p><b>Étym</b>. ὁμ. νόμος.`

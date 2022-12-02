@@ -1,0 +1,1 @@
+lar[86546]=`<b>προ·συνεθίζω</b>, accoutumer auparavant, OLYMPIOD. <i>(Bkk. p. 1415</i>).`

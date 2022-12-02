@@ -1,0 +1,1 @@
+lar[52481]=`<b>κατα·κάμπτω :<br>      1</b> courber, plier, infléchir, PLAT. <i>Tim. 71b, etc.</i> ; εἰς κύκλον, PLAT. <i>Tim. 36b</i>, en cercle ; <i>fig</i>. ἐλπίδας, EUR. <i>Tr. 1252,</i> voir ses espérances renversées ; <i>au pass</i>. se laisser fléchir, ESCHN. <i>26, 33</i>.<br><b>      2</b> <i>particul</i>. couvrir d’une voûte, STR. <i>235</i>.`

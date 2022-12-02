@@ -1,0 +1,1 @@
+lar[19231]=`<b>βαρυ·ώδης, ης, ες</b> <font color="purple">[ᾰῠ]</font> à l’odeur désagréable, NIC. <i>Th. 895</i>.<p><b>Étym</b>. β. ὄζω.`

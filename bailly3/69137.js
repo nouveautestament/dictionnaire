@@ -1,0 +1,1 @@
+lar[69137]=`<b>νυκτι·λαθραιο·φάγος, ος, ον</b> <font color="purple">[ῐφᾰ]</font> qui mange la nuit en cachette, ANTH. <i>App. 288</i>.<p><b>Étym</b>. ν. λαθραῖος, φαγεῖν.`

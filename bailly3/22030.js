@@ -1,0 +1,1 @@
+lar[22030]=`<b>γλαγο·πήξ, ῆγος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui fait cailler le lait, ANTH. <i>6, 35</i>.<p><b>Étym</b>. γλάγος, πήγνυμι.`

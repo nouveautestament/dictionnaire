@@ -1,0 +1,1 @@
+lar[29433]=`<b>ης (ἡ)</b> Ségeste, <i>v. de Sicile,</i> THC. <i>6, 2, 46</i> ; LYC. <i>968 ; etc. ; cf</i>. Αἴγεστα.`

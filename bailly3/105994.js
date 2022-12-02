@@ -1,0 +1,1 @@
+lar[105994]=`<b>φιλο·πευθής, ής, ές</b> <font color="purple">[ῐ]</font> qui aime à savoir <i>ou</i> à questionner, curieux, SEXT. <i>M. 1, 42</i> ; τὸ φ. PLUT. <i>M. 515e</i>, la curiosité.<p><b>Étym</b>. φ. πυνθάνομαι.`

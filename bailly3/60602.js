@@ -1,0 +1,1 @@
+lar[60602]=`<b>λευκό·πυγος, ος, ον</b> <font color="purple">[ῡ]</font> aux fesses blanches, ALEX. (EUST. <i>Il. 863, 29).</i><p><b>Étym</b>. λ. πυγή.`

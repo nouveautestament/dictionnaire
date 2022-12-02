@@ -1,0 +1,1 @@
+lar[110609]=`<b>ας (ἡ) :<br>      1</b> ocre, <i>sorte de terre jaune,</i> ARSTT. <i>Meteor. 3, 6, 11</i> ; TH. <i>fr. 2, 40</i> ; DIOSC. <i>5, 112, etc.</i><br><b>      2</b> nielle du blé, SPT. <i>Deut. 28, 22</i>.<p><b>Étym</b>. ὠχρός.`

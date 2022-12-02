@@ -1,0 +1,1 @@
+lar[63948]=`<b>ης (ἡ) :<br>      1</b> souci, inquiétude, <i>d’ord. au pl</i>. OD. <i>19, 517</i> ; HÉS. <i>O. 66</i> ; THCR. <i>Idyl. 21, 5</i>.<br><b>      2</b> soin, attention, <i>particul</i>. soin qu’on prend d’un malade, HPC. <i>605, 11</i>.`

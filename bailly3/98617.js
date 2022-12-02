@@ -1,0 +1,1 @@
+lar[98617]=`<b>αγος</b> <i>ou</i> <b>ακος (ὁ, ἡ)</b> <font color="purple">[ᾰγ, ᾰκ]</font> <i>sorte d’oiseau</i> :<br><b>      1</b> faisan, ATH. <i>389e.</i><br><b>      2</b> <i>autre n. du</i> σπερμολόγος, EPICH. <i>fr. 25 Ahrens</i> ; AR. <i>Av. 884</i> ; ALEX. MYND. (ATH. <i>398c</i>).<p><b>Étym</b>. <i>cf</i>. τέτριξ.`

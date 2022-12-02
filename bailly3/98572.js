@@ -1,0 +1,1 @@
+lar[98572]=`<b>τετρα·θέλυμνος, ος, ον</b> <font color="purple">[ᾰ]</font> à quatre fondements, <i>en parl. d’un bouclier, càd</i>. revêtu de quatre peaux, IL. <i>15, 479</i> ; OD. <i>22, 122</i>.<p><b>Étym</b>. τ. θέλυμνον.`

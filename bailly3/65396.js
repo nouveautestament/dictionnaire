@@ -1,0 +1,1 @@
+lar[65396]=`<b>μηλο·κυδώνιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> coing, DIOSC. <i>Par. 2, 12</i>.`

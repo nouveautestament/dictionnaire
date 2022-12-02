@@ -1,0 +1,1 @@
+lar[88111]=`<b>πωλο·δαμνική, ῆς (ἡ)</b> <font color="purple">[ῐ]</font> (<i>s.-e</i>. τέχνη) l’art de dompter <i>ou</i> de dresser les jeunes chevaux, EL. <i>N.A. 6, 8</i>.<p><b>Étym</b>. πωλοδάμνης.`

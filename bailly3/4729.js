@@ -1,0 +1,1 @@
+lar[4729]=`<b>ή, όν</b>, allégorique, HERMOG. <i>π. ἰδ. p. 64</i> ; LGN <i>32</i>.<p><b>Étym</b>. ἀλληγορία.`

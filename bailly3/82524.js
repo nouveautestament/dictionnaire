@@ -1,0 +1,1 @@
+lar[82524]=`<b>πολυφορέω-ῶ</b> <font color="purple">[ῠ]</font> produire avec abondance, TH. <i>C.P. 5, 5, 4</i>.<p><b>Étym</b>. πολυφόρος.`

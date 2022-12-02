@@ -1,0 +1,1 @@
+lar[71231]=`<b>ὁλο·σώματος, ος, ον</b> <font color="purple">[ᾰ]</font> qui concerne tout le corps, avec le corps entier, HLD. <i>4, 17</i>.<p><b>Étym</b>. ὅλ. σῶμα.`

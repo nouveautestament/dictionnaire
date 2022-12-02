@@ -1,0 +1,1 @@
+lar[39857]=`<i>interj.,</i> cri de la huppe, AR. <i>Av. 58</i>.<p><b>Étym</b>. ἔποψ.`

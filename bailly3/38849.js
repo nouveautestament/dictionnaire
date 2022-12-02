@@ -1,0 +1,1 @@
+lar[38849]=`<b>ἐπι·πωλέομαι-οῦμαι</b>, aller et venir auprès de, <i>d’où</i> :<br><b>      1</b> passer en revue, inspecter (des troupes) <i>acc</i>. IL. <i>3, 196</i>.<br><b>      2</b> faire une reconnaissance, IL. <i>11, 264, 540</i>.<br><b>      3</b> explorer, visiter (un pays) <i>acc</i>. THÉM. <i>Or. 6, 75c ; dat</i>. THÉM. <i>11, 152b</i>.`

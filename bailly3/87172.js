@@ -1,0 +1,1 @@
+lar[87172]=`<b>έως (ὁ)</b> Protée, <i>dieu marin,</i> OD. <i>4, 365, 385, etc</i>.<p>➳ <i>Voc</i>. Πρωτεῦ, EUR. <i>Hel. 1166</i> ; LUC. <i>D. mar. 4, 1, 2 ; gén. épq. et ion</i>. -έος, OD. <i>ll. cc.</i> ; HDT. <i>2, 112</i> ; NONN. <i>D. 21, 287, etc. ; dat. épq. et ion</i>. -έϊ, HDT. <i>2, 112</i> ; NONN. <i>D. 21, 142</i>.`

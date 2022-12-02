@@ -1,0 +1,1 @@
+lar[63050]=`<b>ου (τὸ)</b> feuille de benjoin, TH. <i>H.P. 6, 3, 1</i> ; DIOSC. <i>3, 84</i>.`

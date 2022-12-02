@@ -1,0 +1,1 @@
+lar[98540]=`<b>ᾶς (ἡ)</b> <font color="purple">[ᾰγ]</font> le fusain (<i>Euonymus europaeus</i> L.) <i>arbre à fruits carrés,</i> TH. <i>H.P. 3, 4, 2</i>.<p><b>Étym</b>. τετράγωνος.`

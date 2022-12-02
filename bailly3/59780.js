@@ -1,0 +1,1 @@
+lar[59780]=`<b>ή, όν</b>, qui concerne la taille des pierres, RHÉT.<p><b>Étym</b>. <i>W. 1, 640</i>.`

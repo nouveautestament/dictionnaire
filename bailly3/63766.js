@@ -1,0 +1,1 @@
+lar[63766]=`<b>μελάγ·κρανις, ιος (ἡ)</b> <font color="purple">[ᾰ]</font> sorte de jonc à pointe noirâtre, TH. <i>H.P. 4, 12, 1</i>.<p><b>Étym</b>. μέλας, κράνος.`

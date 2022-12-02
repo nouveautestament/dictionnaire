@@ -1,0 +1,1 @@
+lar[25604]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font><br><b>      1</b> propre à dissoudre, à séparer, T. LOCR. <i>100e ;</i> PLUT. <i>M. 952b.</i><br><b>      2</b> <i>fig</i>. propre à désunir, qui amène la discorde, PLUT. <i>Pomp. 53</i>.<br><b>      3</b> qui prononce distinctement, <i>gén</i>. DL. <i>4, 38</i>.<p><b>Étym</b>. διάστατος.`

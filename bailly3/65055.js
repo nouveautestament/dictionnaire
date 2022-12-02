@@ -1,0 +1,1 @@
+lar[65055]=`<b>μετα·χρηματίζω</b> <font color="purple">[μᾰ]</font> désigner sous un autre nom, DS. <i>Exc. Vat. p. 629, 41</i>.`

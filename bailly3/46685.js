@@ -1,0 +1,1 @@
+lar[46685]=`<b>θεό·κτιστος, ος, ον</b>, bâti, <i>càd</i>. créé par la divinité, ARSTT. <i>Poet. 21, 14</i>.<p><b>Étym</b>. θ. κτίζω.`

@@ -1,0 +1,1 @@
+lar[51671]=`être débauché, ARSTT. <i>H.A. 6, 18, 10</i>.<p><b>Étym</b>. <i>cf</i>. καπράω.`

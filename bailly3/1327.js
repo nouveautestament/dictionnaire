@@ -1,0 +1,1 @@
+lar[1327]=`<b>ἀ·διάλειπτος, ος, ον</b>, non interrompu, T. LOCR. <i>98e ;</i> NT. <i>Rom. 9, 2</i>.<p><b>Étym</b>. ἀ, διαλείπω.`

@@ -1,0 +1,1 @@
+lar[38540]=`<b>ῆς (ἡ)</b> action de consumer de proche en proche, <i>en parl. du feu,</i> PLUT. <i>Alex. 35 ; du poison,</i> EL. <i>N.A. 12, 32</i>.<p><b>Étym</b>. ἐπινέμω.`

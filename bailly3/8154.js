@@ -1,0 +1,1 @@
+lar[8154]=`<b>ἀν·εγκέφαλος, ος, ον</b> <font color="purple">[φᾰ]</font> sans cervelle, GAL. <i>5, 119</i>.<p><b>Étym</b>. ἀν-, ἐγκέφαλον.`

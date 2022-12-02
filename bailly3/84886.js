@@ -1,0 +1,1 @@
+lar[84886]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> Propanisos, <i>chaîne de mt. de l’Inde,</i> NONN. <i>D. 26, 51</i>.`

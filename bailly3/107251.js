@@ -1,0 +1,1 @@
+lar[107251]=`<b>φυσί·γναθος, ος, ον</b> <font color="purple">[ῡᾰ]</font> qui enfle les joues, <i>n. d’une grenouille,</i> BATR. <i>17</i>.<p><b>Étym</b>. φυσάω, γνάθος.`

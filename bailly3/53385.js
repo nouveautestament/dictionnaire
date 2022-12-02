@@ -1,0 +1,1 @@
+lar[53385]=`<b>κατα·σμικρύνω :<br>      1</b> rapetisser, amoindrir, D. PHAL. <i>§ 44</i> ; LUC. <i>Gall. 14 ; au pass</i>. devenir plus petit, plus faible, M. ANT. <i>8, 36</i>.<br><b>      2</b> <i>fig</i>. rabaisser, ATH. <i>359a ;</i> HIÉROCL. (STOB. <i>Fl. 84, 20</i>).`

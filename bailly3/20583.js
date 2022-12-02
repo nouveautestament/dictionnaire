@@ -1,0 +1,1 @@
+lar[20583]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>c</i>. βραβεύς 1 IS. <i>78, 28</i>.<br><b>      2</b> juge, arbitre, <i>en gén</i>. PLAT. <i>Prot. 338b ;</i> ARSTT. <i>Rhet. 1, 15, 24</i>.<p><b>Étym</b>. βραβεύω.`

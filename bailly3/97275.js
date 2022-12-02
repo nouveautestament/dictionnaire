@@ -1,0 +1,1 @@
+lar[97275]=`<b>οῦς (ἡ)</b> Sôsô, <i>f</i>. SIM. <i>fr. 168 Bgk</i> ; PLUT. <i>Arat. 2, etc</i>.`

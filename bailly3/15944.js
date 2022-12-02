@@ -1,0 +1,1 @@
+lar[15944]=`<b>άδος (ἡ)</b> <i>s.-e</i>. βοτάνη, la plante d’Asklèpios, <i>vulg</i>. dompte-venin, DIOSC. <i>3, 106</i> ; GAL.`

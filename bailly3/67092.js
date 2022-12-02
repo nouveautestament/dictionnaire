@@ -1,0 +1,1 @@
+lar[67092]=`<b>ίδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f</i>. de Mycène, EUR. <i>Or. 1246, 1470, etc</i>.<p><b>Étym</b>. Μυκήνη.`

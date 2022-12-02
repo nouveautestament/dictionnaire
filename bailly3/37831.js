@@ -1,0 +1,1 @@
+lar[37831]=`<b>ἐπι·θρύπτω</b>, amollir, efféminer, PHILSTR. <i>46 ; au pass</i>. PLUT. <i>Dio. 17</i> ; ARISTÉN. <i>1, 28</i>.`

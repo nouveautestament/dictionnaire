@@ -1,0 +1,1 @@
+lar[62276]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> action de rendre chauve, calvitie, GAL. <i>10, 610</i>.<p><b>Étym</b>. μαδαρόω.`

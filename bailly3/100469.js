@@ -1,0 +1,1 @@
+lar[100469]=`<b>τρίσ·μακαρ, αρος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> trois fois bienheureux, OD. <i>6, 154, 155</i> ; AR. <i>Pax 1332</i> ; CALL. <i>fr. 111</i> ; ANTH. <i>5, 255</i>.<p><b>Étym</b>. τρ. μάκαρ.`

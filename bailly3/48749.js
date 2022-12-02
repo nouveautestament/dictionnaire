@@ -1,0 +1,1 @@
+lar[48749]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῑ]</font> qui dirige, <i>d’où</i> :<br><b>   I</b> <i>subst.</i> :<br><b>      1</b> guide, ANTH. <i>15, 21</i>.<br><b>      2</b> régulateur, maître, COL. <i>54</i>.<br><b>      3</b> pilote, A.RH. <i>4, 209, 1260</i>.<br><b>   II</b> <i>adj</i>. qui dirige, <i>fig</i>. NONN. <i>Jo. 17, 22</i>.<p><b>Étym</b>. ἰθύνω.`

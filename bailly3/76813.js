@@ -1,0 +1,1 @@
+lar[76813]=`<b>παρ·ευημερέω-ῶ</b>, surpasser en bonheur, en crédit, en considération, DS. <i>20, 79</i> ; PHIL. <i>1, 41, etc</i>.`

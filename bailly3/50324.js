@@ -1,0 +1,1 @@
+lar[50324]=`<b>εως (ἡ)</b> action d’enfermer <i>ou</i> de tenir enfermé, PLUT. <i>M. 366d ;</i> EL. <i>N.A. 15, 27</i>.<p><b>Étym</b>. καθείργνυμι.`

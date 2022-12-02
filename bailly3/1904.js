@@ -1,0 +1,1 @@
+lar[1904]=`(<i>seul. prés. et impf</i>.) n’être pas <i>ou</i> n’être plus habitué à, <i>gén</i>. IL. <i>10, 493 (impf</i>. ἀήθεσσον) ; A.RH. <i>4, 38</i> ; NIC. <i>Al. 378</i>.<p><b>Étym</b>. ἀήθης.`

@@ -1,0 +1,1 @@
+lar[94371]=`<b>συμ·πρόσειμι</b>, s’approcher avec <i>ou</i> ensemble, SPT. <i>Ps. 93, 20</i>.`

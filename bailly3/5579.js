@@ -1,0 +1,1 @@
+lar[5579]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> petit vase de nuit, SEXT. <i>652 Bkk</i>.<p><b>Étym</b>. <i>dim. de</i> ἀμίς.`

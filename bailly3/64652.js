@@ -1,0 +1,1 @@
+lar[64652]=`<font color="purple">[βᾰ]</font> <i>vb. de</i> μεταβαίνω, PHIL. <i>1, 22</i> ; SEXT. <i>M. 8, 202</i>.`

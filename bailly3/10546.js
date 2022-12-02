@@ -1,0 +1,1 @@
+lar[10546]=`<b>ἀντί·φερνος, ος, ον</b>, qui tient lieu de dot, en guise de dot, ESCHL. <i>Ag. 406</i>.<p><b>Étym</b>. ἀ. φερνή.`

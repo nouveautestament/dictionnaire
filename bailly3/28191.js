@@ -1,0 +1,1 @@
+lar[28191]=`<b>δυσ·ανίας, ου</b>, <i>adj. m</i>. <font color="purple">[ῠᾰῐᾱ]</font> <i>c</i>. δυσάνιος CRITI. <i>fr. 37</i>.`

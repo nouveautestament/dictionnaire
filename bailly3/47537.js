@@ -1,0 +1,1 @@
+lar[47537]=`<b>ης (ἡ) :<br>      1</b> Thoôsa (<i>litt</i>. la rapide) <i>f</i>. OD. <i>1, 71</i>.<br><b>      2</b> la Rapidité <i>personnifiée,</i> EMPÉD. <i>24 Mullach</i>.<p><b>Étym</b>. θοός.`

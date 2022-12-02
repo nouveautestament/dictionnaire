@@ -1,0 +1,1 @@
+lar[15068]=`<b>ης (ἡ) :<br>      1</b> corde tendue pour un piège, XÉN. <i>Cyr. 1, 6, 28</i>.<br><b>      2</b> corde d’arc, ANTH. <i>5, 194</i>.<br><b>      3</b> cordon <i>ou</i> lacet de cuirasse, HDT. <i>3, 47</i>.<br><b>      4</b> fil d’un ver à soie, PAUS. <i>6, 26, 8</i>.`

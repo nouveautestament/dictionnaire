@@ -1,0 +1,1 @@
+lar[100752]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en courant, DYSC. <i>Adv. p. 611</i>.<p><b>Étym</b>. τρόχος, -δην.`

@@ -1,0 +1,1 @@
+lar[91466]=`<b>οῦ (ὁ)</b> éleveur d’abeilles, EL. <i>N.A. 5, 13</i>.<p><b>Étym</b>. σμῆνος, ἔργον.`

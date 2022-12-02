@@ -1,0 +1,1 @@
+lar[49384]=`<b>ἱππομαχέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> combattre à cheval, THC. <i>4, 124</i> ; XÉN. <i>Cyr. 6, 4, 18</i>.<br><b>      2</b> <i>en parl. de cavalerie,</i> combattre contre de l’infanterie, XÉN. <i>Ages. 2, 3</i>.<p><b>Étym</b>. ἱππόμαχος.`

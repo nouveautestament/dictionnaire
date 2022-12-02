@@ -1,0 +1,1 @@
+lar[3168]=`<b>ἀ·κατάγγελτος, ος, ον</b>, non déclaré, <i>en parl. d’une guerre,</i> DH. <i>1, 58</i> ; PLUT. <i>Num. 12</i> ; APP. <i>Iber. 434, 19, etc</i>.<p><b>Étym</b>. ἀ, καταγγέλλω.`

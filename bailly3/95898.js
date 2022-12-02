@@ -1,0 +1,1 @@
+lar[95898]=`<b>συν·ηρετμέω-ῶ</b>, ramer avec, <i>d’où</i> aider, assister, <i>dat</i>. SOPH. <i>Aj. 1329 (conj. p</i>. ξυνηρετεῖν) ; EUR. <i>fr. 284 Nauck</i>.<p><b>Étym</b>. σύν, ἐρετμός.`

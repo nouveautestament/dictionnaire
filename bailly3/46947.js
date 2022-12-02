@@ -1,0 +1,1 @@
+lar[46947]=`<b>θερμο·δοσία, ας (ἡ)</b> action de donner une boisson chaude, ORIB. <i>p. 77</i>.<p><b>Étym</b>. θ. δοτός.`

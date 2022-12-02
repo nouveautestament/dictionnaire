@@ -1,0 +1,1 @@
+lar[49363]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Hippokratidès (<i>propr</i>. fils d’Hippokratès) HDT. <i>8, 131</i>.<p><b>Étym</b>. Ἱπποκράτης.`

@@ -1,0 +1,1 @@
+lar[73695]=`<b>ῆος (ὁ)</b> gardien, surveillant, IL. <i>10, 84</i>.<p><b>Étym</b>. οὖρος².`

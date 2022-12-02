@@ -1,0 +1,1 @@
+lar[15251]=`<b>ης (ἡ)</b> Artakè, <i>v. de Mysie,</i> HDT. <i>4, 14 ; 6, 33, etc</i>.`

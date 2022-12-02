@@ -1,0 +1,1 @@
+lar[95056]=`<b>συν·δείδω</b> (<i>seul. pf</i>. συνδέδια) craindre également, APP. <i>Civ. 2, 141</i>.`

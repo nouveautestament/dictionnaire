@@ -1,0 +1,1 @@
+lar[18547]=`<i>adv.</i> :<br><b>      1</b> sans délai, sans retard, THÉM. <i>196b.</i><br><b>      2</b> de toute éternité, BAS. <i>1, 17</i>.`

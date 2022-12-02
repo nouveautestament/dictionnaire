@@ -1,0 +1,1 @@
+lar[77127]=`<b>παρ·οχετεύω</b>, dériver par un autre canal, <i>ou, en mauv. part,</i> dériver furtivement <i>ou</i> suivant une mauvaise direction, PLUT. <i>Them. 31 ; fig. en prose att</i>. PLAT. <i>Leg. 844a.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>M. 779e</i>.`

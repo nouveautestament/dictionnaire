@@ -1,0 +1,1 @@
+lar[5817]=`<b>ἀμπελουργέω-ῶ</b> (<i>seul. prés</i>.) :<br><b>      1</b> travailler la vigne, TH. <i>C.P. 3, 7, 5</i> ; PLUT. <i>Phil. 4</i> ; LUC. <i>V.H. 1, 39 ; au pass</i>. TH. <i>C.P. 3, 14, 1</i>.<br><b>      2</b> <i>fig</i>. exploiter comme une vigne, <i>càd</i>. pressurer, ESCHN. <i>77, 25</i>.<p><b>Étym</b>. ἀμπελουργός.`

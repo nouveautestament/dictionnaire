@@ -1,0 +1,1 @@
+lar[83831]=`<b>πρό·βροτος, ου (ὁ)</b> qui a commencé par être un homme, EPIGR. (DL. <i>8, 45).</i><p><b>Étym</b>. π. βροτός.`

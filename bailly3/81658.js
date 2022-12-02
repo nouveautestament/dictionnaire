@@ -1,0 +1,1 @@
+lar[81658]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Pollio, Pollion, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 53, etc</i>.`

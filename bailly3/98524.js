@@ -1,0 +1,1 @@
+lar[98524]=`<i>adv</i>., audacieusement, hardiment, POL. <i>1, 23, 5 ; 9, 4, 2</i>.<p><b>Étym</b>. τολμάω.`

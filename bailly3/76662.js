@@ -1,0 +1,1 @@
+lar[76662]=`<b>ή, όν</b>, de camp, comme dans un camp, PLUT. <i>M. 643c</i>.<p><b>Étym</b>. παρεμβολή.`

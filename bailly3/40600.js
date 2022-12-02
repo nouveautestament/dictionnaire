@@ -1,0 +1,1 @@
+lar[40600]=`<b>Ἑρμησι·άναξ, άνακτος (ὁ)</b> <font color="purple">[ᾰν]</font> Hermèsianax :<br><b>      1</b> <i>poète élégiaque,</i> ATH. <i>597a.</i><br><b>      2</b> <i>autres,</i> NIC. <i>Th. 3, etc</i>.<p><b>Étym</b>. Ἑρμῆς, ἄναξ.`

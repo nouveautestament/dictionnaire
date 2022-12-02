@@ -1,0 +1,1 @@
+lar[24287]=`<b>δημό·πρακτος, ος, ον</b>, fait par le peuple, ESCHL. <i>Suppl. 942</i>.<p><b>Étym</b>. δ. πράσσω.`

@@ -1,0 +1,1 @@
+lar[46651]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Théodôridas, <i>h</i>.<p>➳ <i>Gén</i>. -ου, ANTH. <i>7, 282, 406</i> ; A. PL. <i>132</i> ; -α, ANTH. <i>6, 155 ; 13, 21</i> ; ATH. <i>475f</i>.<p><b>Étym</b>. <i>patr. de</i> Θεόδωρος.`

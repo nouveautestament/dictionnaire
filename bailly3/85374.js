@@ -1,0 +1,1 @@
+lar[85374]=`<b>προσ·δανείζω</b> <font color="purple">[ᾰ]</font> prêter en outre à, <i>dat</i>. LYS. <i>154, 19</i>.<br><b><i>Moy.</i></b> emprunter en outre, XÉN. <i>An. 7, 5, 5</i> ; LYS. <i>157, 1</i>.`

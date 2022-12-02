@@ -1,0 +1,1 @@
+lar[106116]=`<b>φιλο·συκοφαντία, ας (ἡ)</b> <font color="purple">[ῐῡ]</font> amour de la dénonciation, RHÉT. <i>7, 265 W</i>.<p><b>Étym</b>. φ. σ.`

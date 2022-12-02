@@ -1,0 +1,1 @@
+lar[55136]=`<i>adv</i>., avec sollicitude, POL. <i>4, 32, 4</i> ; LUC. <i>Conv. 46, etc</i>.`

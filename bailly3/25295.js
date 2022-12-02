@@ -1,0 +1,1 @@
+lar[25295]=`<b>ῆς (ἡ)</b> entrelacement, <i>d’où</i> entremêlement, HPC. <i>381, 11</i>.<p><b>Étym</b>. διαπλέκω.`

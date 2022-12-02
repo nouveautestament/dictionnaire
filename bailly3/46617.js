@@ -1,0 +1,1 @@
+lar[46617]=`<b>Θέο·γνις, ιδος</b>, <i>acc</i>. <b>-ιν (ὁ)</b> Théognis :<br><b>      1</b> <i>poète gnomique</i>.<br><b>      2</b> <i>un des trente tyrans d’Athènes,</i> XÉN. <i>Hell. 2, 3, 2</i>.<br><b>      3</b> <i>autres,</i> AR. <i>Ach. 11, 140 ; Th. 177</i>.<p>➳ <i>Voc</i>. Θέογνι, AR. <i>Ach. 11. Ion</i>. Θεῦγνις, THGN. <i>22</i>.<p><b>Étym</b>. θ. γίγνομαι.`

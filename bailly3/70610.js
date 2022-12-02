@@ -1,0 +1,1 @@
+lar[70610]=`<b>ης (ἡ)</b> Œnôè :<br><b>      1</b> <i>lieu d’Attique,</i> NONN. <i>D. 13, 182</i>.<br><b>      2</b> <i>Bacchante,</i> NONN. <i>D. 29, 253</i>.<p><b>Étym</b>. οἶνος.`

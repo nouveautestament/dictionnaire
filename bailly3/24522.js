@@ -1,0 +1,1 @@
+lar[24522]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne le passage : δ. τέλος, STR. <i>192</i>, impôt sur le transit (des voyageurs <i>ou</i> des marchandises).<p><b>Étym</b>. διαγωγή.`

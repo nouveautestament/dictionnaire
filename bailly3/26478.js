@@ -1,0 +1,1 @@
+lar[26478]=`<b>δικαιονομέω-ῶ</b> <font color="purple">[ῐ]</font> administrer la justice, PHIL. <i>1, 126</i>.<p><b>Étym</b>. δικαιονόμος.`

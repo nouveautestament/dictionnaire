@@ -1,0 +1,1 @@
+lar[11544]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> menaçant, HDT. <i>8, 112</i>.<p><b>Étym</b>. ἀπειλητήρ.`

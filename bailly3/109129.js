@@ -1,0 +1,1 @@
+lar[109129]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Khrysè :<br><b>      1</b> <i>ion. c</i>. Χρύσα, IL.<br><b>      2</b> <i>autre,</i> SOPH. <i>Ph. 194</i>.`

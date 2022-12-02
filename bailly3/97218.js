@@ -1,0 +1,1 @@
+lar[97218]=`<b>ου</b>, <i>adj</i>. mis en monceau, formé par accumulation : σ. συλλογισμός, CIC. <i>Acad. 2, 16</i> ; LUC. <i>Conv. 23, etc. ; ou simpl</i>. ὁ σ. GAL. sorite, <i>genre de raisonnement fondé sur une accumulation de prémisses</i>.<p><b>Étym</b>. σωρεύω.`

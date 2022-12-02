@@ -1,0 +1,1 @@
+lar[38942]=`<b>ἐπι·σεμνύνομαι</b>, se glorifier de, ἐπί <i>et le dat</i>. PHIL. <i>1, 599</i> ; JOS. <i>c. Ap. 2, 3</i>.`

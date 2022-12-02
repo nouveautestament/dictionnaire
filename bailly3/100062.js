@@ -1,0 +1,1 @@
+lar[100062]=`<b>τριαινόω-ῶ :<br>      1</b> ébranler avec le trident, EUR. <i>Bacch. 348</i>.<br><b>      2</b> remuer la terre avec une fourche, AR. <i>Pax 570</i>.<p><b>Étym</b>. τρίαινα.`

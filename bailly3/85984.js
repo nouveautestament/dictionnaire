@@ -1,0 +1,1 @@
+lar[85984]=`<b>προσ·καταχέω</b> <font color="darkgreen">(<i>ao</i>. -κατέχεα, <i>etc</i>.)</font> répandre en outre, HPC. <i>Acut. 395</i>.`

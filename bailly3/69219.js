@@ -1,0 +1,1 @@
+lar[69219]=`<b>ή, όν</b>, <i>c</i>. νυμφίδιος, SOPH. <i>O.R. 1242</i> ; EUR. <i>Med. 378, etc.</i> ; PLAT. <i>Leg. 775b, etc</i>.<p>➳ <i>Dans une inscr. att</i>. νυνφικά, CIA. <i>2, 731 b 19 (pas av. 307 av. J.-C.) ; v. Meisterh. p. 64, § 31, 3</i>.<p><b>Étym</b>. νύμφη.`

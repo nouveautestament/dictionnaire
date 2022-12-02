@@ -1,0 +1,1 @@
+lar[76355]=`<b>εως (ἡ)</b> frottement, froissement, ARSTT. <i>Mund. 4, 23</i> ; DS. <i>3, 36</i> ; PLUT. <i>M. 893f, etc</i>.<p><b>Étym</b>. παρατρίβω.`

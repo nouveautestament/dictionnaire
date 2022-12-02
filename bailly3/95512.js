@@ -1,0 +1,1 @@
+lar[95512]=`<b>συν·εξαρκέω-ῶ</b>, suffire également, STR. <i>648</i>.`

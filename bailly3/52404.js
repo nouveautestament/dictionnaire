@@ -1,0 +1,1 @@
+lar[52404]=`<b>κατα·θεωρέω-ῶ</b>, examiner avec soin, contempler, PLAT. <i>Gorg. 465d</i>.`

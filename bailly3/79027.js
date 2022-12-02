@@ -1,0 +1,1 @@
+lar[79027]=`<i>adv</i>., avec une ardeur extrême, ESCHL. <i>Ag. 216</i>.<p><b>Étym</b>. περιοργής.`

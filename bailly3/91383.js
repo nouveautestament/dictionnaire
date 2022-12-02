@@ -1,0 +1,1 @@
+lar[91383]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> semblable à du cuir, ARSTT. <i>H.A. 9, 37, 24</i>.<p><b>Étym</b>. σκ. -ωδης.`

@@ -1,0 +1,1 @@
+lar[102001]=`<b>ὑπ·αργήεις, ήεσσα, ῆεν</b> <font color="purple">[ῠ]</font> blanchâtre, NIC. <i>Th. 663</i>.`

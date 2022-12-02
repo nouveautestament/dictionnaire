@@ -1,0 +1,1 @@
+lar[19921]=`<b>βλεφαρο·κάτοχος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui maintient les paupières, P. ÉG. <i>6, 179</i>.<p><b>Étym</b>. βλ. κατέχω.`

@@ -1,0 +1,1 @@
+lar[67490]=`<b>ή, όν</b>, musculeux, CLÉARQ. (ATH. <i>399b</i>) ; P. ÉG. <i>348 Briau</i>.<p><b>Étym</b>. μῦς.`

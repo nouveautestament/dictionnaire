@@ -1,0 +1,1 @@
+lar[106245]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> Philyra, <i>f</i>. PD. <i>P. 4, 103, etc.</i> ; A.RH. <i>2, 1232, etc</i>.<p>➳ <i>Ion</i>. Φιλύρη, A.RH. <i>l.c</i>.`

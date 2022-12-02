@@ -1,0 +1,1 @@
+lar[89476]=`<b>ατος (τὸ)</b> ordure qu’on balaie, RHINTHON (HSCH.).<p><b>Étym</b>. σαίρω².`

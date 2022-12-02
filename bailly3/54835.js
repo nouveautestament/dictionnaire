@@ -1,0 +1,1 @@
+lar[54835]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> cerisier, <i>arbre,</i> GEOP. <i>3, 4, 4 ; 4, 1, 14</i>.`

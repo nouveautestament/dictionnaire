@@ -1,0 +1,1 @@
+lar[50696]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> malheur, BAS. <i>1, 132 Migne</i>.<p><b>Étym</b>. κακοδαιμονέω.`

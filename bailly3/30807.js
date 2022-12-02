@@ -1,0 +1,1 @@
+lar[30807]=`<b>εἰσ·κτάομαι-ῶμαι</b> <font color="darkgreen">(<i>ao. 3 sg</i>. εἰσεκτήσατ')</font> acquérir, EUR. <i>fr. 240</i>.`

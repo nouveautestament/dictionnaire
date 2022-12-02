@@ -1,0 +1,1 @@
+lar[56301]=`<b>ός, όν</b> <font color="purple">[ῑ]</font> pauvre, chiche, gueux (<i>propr</i>. qui vit de rognures <i>ou</i> qui rogne) ANTH. <i>11, 172</i>.<p><b>Étym</b>. κνίψ.`

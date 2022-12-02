@@ -1,0 +1,1 @@
+lar[77732]=`<b>ῶν (οἱ)</b> les Pélarges (<i>propr</i>. Cigognes) <i>n. donné par les Attiques aux Pélasges de Tyrrhénie, assimilés à des oiseaux de passage,</i> STR. <i>221, 397</i> ; DH. <i>1, 28</i>.<p><b>Étym</b>. πελαργός, <i>cf</i>. Πελασγοί.`

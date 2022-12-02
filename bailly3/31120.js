@@ -1,0 +1,1 @@
+lar[31120]=`<b>ἐκ·βράσσω</b>, <i>c</i>. ἐκβράζω 1, HPC. <i>639, 16</i> ; pulluler, GEOP. <i>2, 6, 28, etc.</i><br><b><i>Moy.</i></b> :<br><b>      1</b> <i>m. sign</i>. HDT. <i>7, 188, 190</i> ; HPC. <i>271, 11</i> ; GEOP. <i>2, 22, 2</i>.<br><b>      2 <i>tr.</i></b> faire jaillir, <i>acc</i>. HPC. <i>531, 21</i>.`

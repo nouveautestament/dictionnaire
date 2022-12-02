@@ -1,0 +1,1 @@
+lar[26530]=`<b>δί·κεντρος, ος, ον</b> <font color="purple">[ῐ]</font> à deux aiguillons, EL. <i>N.A. 6, 40</i>.<p><b>Étym</b>. δίς, κέντρον.`

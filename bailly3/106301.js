@@ -1,0 +1,1 @@
+lar[106301]=`<b>ου (ὁ)</b> = <i>lat</i>. Flavius, <i>n. d’h. rom</i>. PLUT. <i>Brut. 51</i>.`

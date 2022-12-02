@@ -1,0 +1,1 @@
+lar[105007]=`<b>φατνόω-ῶ</b>, construire en forme de lambris, plafonner, voûter, SPT. <i>3Reg. 7, 3 ; au pass</i>. SPT. <i>Ezech. 41, 15</i>.<p><b>Étym</b>. φάτνη.`

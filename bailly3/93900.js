@@ -1,0 +1,1 @@
+lar[93900]=`<b>συμ·βύω</b> <font color="purple">[ῡ]</font> coller étroitement, AR. <i>Vesp. 1110</i>.`

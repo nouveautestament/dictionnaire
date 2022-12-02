@@ -1,0 +1,1 @@
+lar[52372]=`<b>κατα·ζάω-ῶ</b> (<i>pour l’ao. et le pf. v</i>. καταβιόω) passer sa vie, EUR. <i>Ion 36</i> ; PLAT. <i>Conv. 192b ;</i> ARSTT. <i>Nic. 1, 10</i> ; PLUT. <i>Cic. 4, M. 194a</i>.`

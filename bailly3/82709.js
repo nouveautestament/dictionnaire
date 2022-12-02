@@ -1,0 +1,1 @@
+lar[82709]=`<b>πόντον·δε</b>, <i>adv</i>., dans la mer, <i>avec mouv</i>. OD. <i>9, 495 ; 10, 48</i> ; ESCHL. <i>Suppl. 34</i>.<p><b>Étym</b>. πόντος, -δε.`

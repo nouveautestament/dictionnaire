@@ -1,0 +1,1 @@
+lar[10244]=`<i>adv</i>., en venant de l’autre côté, A.RH. <i>1, 613 ; avec le gén</i>. A.RH. <i>2, 1031</i> ; ANTH. <i>9, 551</i>.<p><b>Étym</b>. ἀντιπέραν.`

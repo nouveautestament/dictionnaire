@@ -1,0 +1,1 @@
+lar[21636]=`<b>ιδος</b> <font color="purple">[ᾱῐδ]</font> <i>adj. f. c</i>. γενειάτης, SOPHR. (ATH. <i>324f</i>).`

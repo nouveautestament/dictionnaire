@@ -1,0 +1,1 @@
+lar[3613]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> disposé <i>ou</i> habitué à écouter, <i>en parl. des Pythagoriciens habitués au silence,</i> CLÉM. <i>246, etc</i>.<p><b>Étym</b>. ἄκουσμα.`

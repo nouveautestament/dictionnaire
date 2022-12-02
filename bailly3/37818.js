@@ -1,0 +1,1 @@
+lar[37818]=`<b>εως (ἡ)</b> action de presser sur, ARÉT. <i>Cur. m. acut. 1, 9</i>.<p><b>Étym</b>. ἐπιθλίβω.`

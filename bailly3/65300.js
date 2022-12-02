@@ -1,0 +1,1 @@
+lar[65300]=`<b>Μηδο·κτόνος, ος, ον</b>, qui tue des Mèdes <i>ou</i> des Perses, A. PL. <i>62</i>.<p><b>Étym</b>. Μῆδος, κτείνω.`

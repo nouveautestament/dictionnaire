@@ -1,0 +1,1 @@
+lar[29693]=`<b>ἐγ·κοιλαίνω</b>, creuser intérieurement, HDT. <i>2, 73 (part. ao. ion</i>. ἐγκοιλήνας) ; TH. <i>H.P. 5, 2, 4 (ao. pass. part</i>. ἐγκοιλανθέντος).<p><b>Étym</b>. ἐν, κ.`

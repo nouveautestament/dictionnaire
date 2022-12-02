@@ -1,0 +1,1 @@
+lar[15891]=`<b>ἀ·σκανδάλιστος, ος, ον</b> <font color="purple">[δᾰ]</font> qui ne fait point de faux pas, qui ne commet pas de faute, CLÉM.<p><b>Étym</b>. ἀ, σκανδαλίζω.`

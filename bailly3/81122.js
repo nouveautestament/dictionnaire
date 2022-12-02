@@ -1,0 +1,1 @@
+lar[81122]=`<b>(ἡ)</b> Ploutis, <i>càd</i>. la Richesse, les Riches, <i>n. d’un parti politique à Milet,</i> PLUT. <i>Qu. gr. 32</i>.<p><b>Étym</b>. πλοῦτος.`

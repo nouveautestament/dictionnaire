@@ -1,0 +1,1 @@
+lar[32980]=`<b>(ὁ)</b> sorte de poisson, NUMÉN. (ATH. <i>326 conj</i>.).<p><b>Étym</b>. <i>cf</i>. ἔλλοπος <i>et</i> ἔλλοψ.`

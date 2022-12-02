@@ -1,0 +1,1 @@
+lar[25606]=`<b>ος, ον</b> <font color="purple">[τᾰ]</font><br><b>      1</b> distendu, <i>d’où</i> étendu dans l’espace, PLUT. <i>M. 1023b ; p. suite,</i> qui a de l’étendue <i>ou</i> des dimensions, NICOM. <i>Arithm. p. 116 Ast</i>.<br><b>      2</b> désuni, MÉN. (HARP.).<br><b>      3</b> divisible, DL. <i>7, 135</i>.<p><b>Étym</b>. διΐστημι.`

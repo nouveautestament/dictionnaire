@@ -1,0 +1,1 @@
+lar[62131]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m.</i> : λίθος :<br><b>      1</b> marbre de Paros, <i>sorte d’albâtre,</i> PLAT. <i>Eryx. 400d.</i><br><b>      2</b> rubis <i>ou</i> grenat, <i>pierre précieuse,</i> STR. <i>830</i> ; PLIN. <i>H.N. 37, 8</i>.<p><b>Étym</b>. λύχνος.`

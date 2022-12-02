@@ -1,0 +1,1 @@
+lar[32010]=`<b>οῦ (ὁ)</b> <font color="purple">[ρῑ]</font> action d’exciter en soufflant, EPIC. (DL. <i>10, 101).</i><p><b>Étym</b>. ἐκριπίζω.`

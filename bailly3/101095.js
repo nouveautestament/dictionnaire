@@ -1,0 +1,1 @@
+lar[101095]=`<b>τυραννιάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῠ]</font><br><b>      1</b> avoir les goûts <i>ou</i> les sentiments d’un despote, DL. <i>3, 1, 14</i>.<br><b>      2</b> aspirer à la tyrannie, HÉRACLIDE LEMB. <i>Pol. 4, p. 371 Rose</i>.<p><b>Étym</b>. τύραννος.`

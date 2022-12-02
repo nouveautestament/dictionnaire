@@ -1,0 +1,1 @@
+lar[85713]=`<b>προσ·επιρρίπτω</b>, jeter sans s’arrêter, <i>rég. ind. au dat</i>. ES. <i>164 Halm</i>.`

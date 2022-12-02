@@ -1,0 +1,1 @@
+lar[28914]=`<b>ας (ἡ)</b> privation d’enfants, MAN. <i>2, 179</i>.<p><b>Étym</b>. δύστεκνος.`

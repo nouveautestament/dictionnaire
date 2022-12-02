@@ -1,0 +1,1 @@
+lar[48381]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> vallon boisé dans les montagnes, HDT. <i>5, 23, etc. ; au plur</i>. HDT. <i>1, 110 ; 4, 109, etc.</i> ; PAUS. <i>10, 12, 7, etc</i>.<p>➳ <i>Dor</i>. ἴδα, THCR. <i>Idyl. 17, 9</i>.`

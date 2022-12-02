@@ -1,0 +1,1 @@
+lar[27431]=`<b>*δολιχο·γραφία</b>, <i>seul. ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῐᾰφ]</font> écrit prolixe, ANTH. <i>6, 65 et 327</i>.<p><b>Étym</b>. δολιχός, γράφω.`

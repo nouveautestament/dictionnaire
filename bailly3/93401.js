@@ -1,0 +1,1 @@
+lar[93401]=`<b>συγ·κατευθύνω</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> diriger en même temps, PLUT. <i>M. 778f</i>.`

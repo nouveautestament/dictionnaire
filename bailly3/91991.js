@@ -1,0 +1,1 @@
+lar[91991]=`<b>ου (τὸ)</b> vase pour les libations, PLUT. <i>M. 377e ;</i> CLÉARQ. (ATH. <i>486b</i>) <i>etc</i>.<p><b>Étym</b>. <i>neutre de</i> σπονδεῖος.`

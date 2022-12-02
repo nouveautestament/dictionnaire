@@ -1,0 +1,1 @@
+lar[5424]=`<b>ἀ·μελέτητος, ος, ον</b>, non exercé, non préparé : περί τινος, PLAT. <i>Conv. 172a ;</i> ἔν τινι, PLAT. <i>Leg. 635c ;</i> τινος, LUC. <i>Char. 7 ; Gall. 18</i> ; πρός τι, LUC. <i>Tox. 29,</i> sur qqe ch. ; <i>abs. en parl. d’un cheval,</i> non entraîné, XÉN. <i>Hipp. 1, 19</i>.<p><b>Étym</b>. ἀ, μελετάω.`

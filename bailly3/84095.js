@@ -1,0 +1,1 @@
+lar[84095]=`<b>προ·εκπίνω</b> <font color="darkgreen">(<i>f</i>. -εκπίομαι, <i>ao.2</i> -εξέπιον, <i>etc</i>.)</font> <font color="purple">[ῑ]</font> boire auparavant, PLUT. <i>M. 768d ;</i> ATH. <i>193a</i>.`

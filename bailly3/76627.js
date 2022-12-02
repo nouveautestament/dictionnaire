@@ -1,0 +1,1 @@
+lar[76627]=`<b>παρ·εκρέω</b>, s’écouler le long de <i>ou</i> au delà de, DIOSC. <i>Eup. 1, 242</i>.`

@@ -1,0 +1,1 @@
+lar[15938]=`<b>ἀσκίτης νόσος (ὁ)</b> <font color="purple">[ῑ]</font> sorte d’hydropisie, <i>maladie qui fait gonfler le corps comme une outre,</i> EPIC. (PLUT. <i>M. 1097e</i>) ; ARÉT. GAL.<p><b>Étym</b>. ἀσκός.`

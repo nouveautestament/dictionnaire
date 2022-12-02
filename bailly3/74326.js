@@ -1,0 +1,1 @@
+lar[74326]=`<b>παιδο·φθορία, ας (ἡ)</b> action de corrompre <i>ou</i> de perdre des enfants, CLÉM. <i>223</i>.<p><b>Étym</b>. π. -φθορος <i>de</i> φθείρω.`

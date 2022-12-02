@@ -1,0 +1,1 @@
+lar[85611]=`<b>προσ·εξελαύνω</b>, s’élancer en outre impétueusement, DC. <i>45, 16</i>.`

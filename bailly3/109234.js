@@ -1,0 +1,1 @@
+lar[109234]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de faire l’or, l’alchimie, CHRYS. <i>t. 6, p. 733, 41</i>.`

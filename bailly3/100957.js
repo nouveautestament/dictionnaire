@@ -1,0 +1,1 @@
+lar[100957]=`<b>εως (ἡ)</b> action de blesser, blessure, HPC. <i>V.C. 826</i> ; PLUT. <i>M. 20e, etc. ; au plur</i>. ARSTT. <i>Poet. 11, 10 ; en parl. d’une incision à un arbre,</i> TH. <i>H.P. 4, 16, 1</i>.<p><b>Étym</b>. τιτρώσκω.`

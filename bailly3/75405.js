@@ -1,0 +1,1 @@
+lar[75405]=`<b>έα, έον :<br>      1</b> qu’on peut comparer à, PLUT. <i>Cim. 3</i>.<br><b>      2</b> qu’il faut placer devant, <i>dat</i>. GEOP. <i>17, 19, 2</i>.<br><b>      3</b> qu’il faut diviser, NICOM. <i>Arithm. 2, 27, 7 Hoche</i>.<p><b>Étym</b>. <i>vb. de</i> παραβάλλω.`

@@ -1,0 +1,1 @@
+lar[26447]=`<b>δι·ϊσχυριείω</b> <font color="purple">[ῡ]</font> <i>(seul. prés.) c</i>. διϊσχυρίζομαι HPC. <i>780b</i>.`

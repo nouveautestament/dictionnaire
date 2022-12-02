@@ -1,0 +1,1 @@
+lar[34145]=`<b>ἔν·δεσμος, ου (ὁ)</b> tout ce qui sert à lier <i>ou</i> à envelopper, <i>d’où</i> :<br><b>      1</b> lien, bandage, DIOSC. <i>3, 97 ; 5, 50 et 82</i>.<br><b>      2</b> ἔνδ. ἀργυρίου, SPT. <i>Prov. 7, 20,</i> ce qui sert à enfermer l’argent, bourse.<p><b>Étym</b>. ἐν, δεσμός.`

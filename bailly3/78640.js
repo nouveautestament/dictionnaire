@@ -1,0 +1,1 @@
+lar[78640]=`<b>περι·θαμβής, ής, ές</b>, frappé de stupeur, A.RH. <i>2, 1158</i> ; PLUT. <i>Cato mi. 59</i>.<p><b>Étym</b>. π. θάμβος.`

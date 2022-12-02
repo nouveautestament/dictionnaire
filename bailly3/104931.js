@@ -1,0 +1,1 @@
+lar[104931]=`<b>(ὁ)</b> Pharmouthi, <i>mois égyptien,</i> PLUT. <i>Rom. 12, etc</i>.`

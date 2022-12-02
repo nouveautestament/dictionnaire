@@ -1,0 +1,1 @@
+lar[30502]=`<b>ή, όν</b>, marqué par le destin, PLUT. <i>Alex. 30</i>.<p><b>Étym</b>. <i>cf</i>. εἵμαρται.`

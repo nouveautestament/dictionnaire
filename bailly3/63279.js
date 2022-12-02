@@ -1,0 +1,1 @@
+lar[63279]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Mégabatès, <i>Perse,</i> ESCHL. <i>Pers. 22, 983</i> ; HDT. <i>5, 32</i> ; THC. <i>1, 129</i> ; XÉN. <i>Ages. 5, 4, etc</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>5, 33 ; 7, 97 ; dor</i>. -α, ESCHL. <i>Pers. 983</i>.`

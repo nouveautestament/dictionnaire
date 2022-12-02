@@ -1,0 +1,1 @@
+lar[86363]=`<b>ατος (τὸ) :<br>      1</b> choc, heurt, ARSTT. <i>Nic. 5, 11, 8</i>.<br><b>      2</b> coup <i>ou</i> blessure provenant d’un choc, TH. <i>Char. 19</i> ; LUC. <i>Per. 45, etc</i>.<p><b>Étym</b>. προσπταίω.`

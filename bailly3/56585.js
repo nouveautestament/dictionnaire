@@ -1,0 +1,1 @@
+lar[56585]=`<b>ίδος (ἡ)</b> <i>surn., de signif. inconnue, d’Artémis,</i> AR. <i>Av. 873</i> ; PAUS. <i>1, 31, 5</i>.`

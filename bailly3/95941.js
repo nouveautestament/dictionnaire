@@ -1,0 +1,1 @@
+lar[95941]=`<i>adv</i>., de façon à disposer ensemble, à composer, SEXT.`

@@ -1,0 +1,1 @@
+lar[45858]=`<i>adv</i>., de bonne heure : μάλ' ἦρι, OD. <i>19, 320 ; 20, 156, ou</i> ἦρι μάλα, IL. <i>9, 360,</i> de grand matin.<p><b>Étym</b>. <i>d’un locat. proto-grec</i> *aus-er-i, <i>indo-europ</i>. *h₂eus-er-i, de bon matin, <i>cf</i>. ἠώς.`

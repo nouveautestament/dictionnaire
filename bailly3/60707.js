@@ -1,0 +1,1 @@
+lar[60707]=`<b>ός, όν</b>, scélérat, criminel, <i>en parl. de choses,</i> ARCHIL. <i>88 ; en parl. de pers</i>. ESCHL. <i>Pr. 5 ; d’où</i> audacieux, téméraire, XÉN. <i>Mem. 1, 3, 9</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[110475]=`<b>ὡρο·τρόφος, ος, ον</b>, qui nourrit les saisons, <i>càd</i>. qui règle la marche des saisons, ORPH. <i>H. 7, 10, 38 fin</i>.<p><b>Étym</b>. ὥρα, τρέφω.`

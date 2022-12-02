@@ -1,0 +1,1 @@
+lar[99010]=`<i>adv</i>., de là, AR. <i>Ach. 754 ; ou</i> τηνῶθε, THCR. <i>Idyl. 3, 10</i> ; NOSSIS <i>Ep. 8</i>.<p><b>Étym</b>. τηνῶ, -θεν.`

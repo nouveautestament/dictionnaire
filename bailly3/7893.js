@@ -1,0 +1,1 @@
+lar[7893]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> moyen d’échapper, ESCHL. <i>Ch. 943</i>.<br><b>      2</b> lieu de retraite, PLUT. <i>Æmil. 16</i>.<p>➳ <i>Dor. poét</i>. ἀμφυγά, ESCHL. <i>Suppl. 806 Weil</i>.`

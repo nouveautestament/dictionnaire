@@ -1,0 +1,1 @@
+lar[78046]=`<b>πεντά·στομος, ος, ον</b>, à cinq bouches <i>ou</i> embouchures, HDT. <i>2, 10 ; 4, 47</i>.<p><b>Étym</b>. π. στόμα.`

@@ -1,0 +1,1 @@
+lar[109230]=`<b>χρυσό·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ρῡ]</font> aux bras d’or, <i>ép. d’Éos,</i> BACCHYL. <i>5, 40</i>.<p>➳ <i>Dor</i>. χρυσόπαχυς <font color="purple">[ᾱ]</font> BACCHYL. <i>l. c</i>.<p><b>Étym</b>. χρ. πῆχυς.`

@@ -1,0 +1,1 @@
+lar[8265]=`<b>ἀν·έκφορος, ος, ον</b>, non divulgué, qu’on ne peut divulguer, JAMBL. <i>V. Pyth. 226</i>.<p><b>Étym</b>. ἀν-, ἐκφέρω.`

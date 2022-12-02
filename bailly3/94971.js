@@ -1,0 +1,1 @@
+lar[94971]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> rapt simultané, SYMM. <i>Ps. 34, 20</i>.<p><b>Étym</b>. συναρπάζω.`

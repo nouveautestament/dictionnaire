@@ -1,0 +1,1 @@
+lar[14623]=`<b>Ἀριούσιος οἶνος (ὁ)</b> vin d’Ariousia, <i>région de Chios,</i> PLUT. <i>M. 1099a</i> (Ἀριουσία, STR.).`

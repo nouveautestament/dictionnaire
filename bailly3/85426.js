@@ -1,0 +1,1 @@
+lar[85426]=`<b>προσ·διαστρέφω</b>, pervertir <i>ou</i> dépraver davantage, PLUT. <i>M. 61b, 697d, etc</i>.`

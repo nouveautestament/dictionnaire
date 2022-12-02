@@ -1,0 +1,1 @@
+lar[45484]=`<b>ἡμι·μεθής, ής, ές</b> <font color="purple">[ῐ]</font> à moitié ivre, ANTH. <i>6, 251</i> ; CLÉM. <i>182</i>.<p><b>Étym</b>. ἡμι-, μέθη.`

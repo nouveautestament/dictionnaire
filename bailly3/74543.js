@@ -1,0 +1,1 @@
+lar[74543]=`<b>παλίμ·πορος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui revient sur ses pas, NONN. <i>D. 2, 247</i>.<br><b>      2</b> qui fait route en sens contraire, OPP. <i>H. 4, 529</i>.<p><b>Étym</b>. π. πόρος.`

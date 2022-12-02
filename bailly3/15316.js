@@ -1,0 +1,1 @@
+lar[15316]=`<b>οῦ (ὁ)</b> jeu à pair ou impair, ARSTT. <i>Rhet. 3, 5, 4</i>.<p><b>Étym</b>. ἀρτιάζω.`

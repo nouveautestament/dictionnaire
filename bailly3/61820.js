@@ -1,0 +1,1 @@
+lar[61820]=`<b>λυκά·βας, αντος (ὁ)</b> <font color="purple">[ῠκᾰ]</font> année, OD. <i>14, 161 ; 19, 306</i> ; A.RH. <i>1, 198, 610, etc</i>.<p>➳ <i>Acc. sg</i>. λυκάβαν, ANTH. <i>App. 323, 8, mais</i> λυκάβαντα, A.RH. <i>l. c</i>.<p><b>Étym</b>. *λύκη, βαίνω.`

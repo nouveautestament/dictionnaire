@@ -1,0 +1,1 @@
+lar[53599]=`<b>εως (ἡ)</b> parole à haute voix, cri, HPC. <i>298, 50</i>.<p><b>Étym</b>. καταυδάω.`

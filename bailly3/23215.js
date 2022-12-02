@@ -1,0 +1,1 @@
+lar[23215]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> don, EUPH. <i>fr. 90</i> (EM.).<br><b>      2</b> prêt à intérêts, CALL. <i>Ep. 51</i> ; ANTH. <i>App. 252</i> ; SPT. <i>Sir. 29, 4</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *dh₂-no-, don.`

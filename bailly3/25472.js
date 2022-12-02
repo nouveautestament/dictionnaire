@@ -1,0 +1,1 @@
+lar[25472]=`<b>ας (ἡ)</b> flux de ventre, diarrhée, HPC. <i>Aph. 1248</i> ; THC. <i>2, 49</i> ; δ. κοιλίας, PLUT. <i>Mar. 30, m. sign</i>.<p><b>Étym</b>. *διάρροος, <i>de</i> διαρρέω.`

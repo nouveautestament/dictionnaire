@@ -1,0 +1,1 @@
+lar[14219]=`<b>ου (ὁ)</b> Argas, <i>mauvais poète,</i> ANAXANDR. (ATH. <i>131b, 638b, c</i>).`

@@ -1,0 +1,1 @@
+lar[52278]=`<b>κατα·δάκνω</b>, déchirer à belles dents, BATR. <i>45 ; fig</i>. CHRYS. <i>5, 117</i>.`

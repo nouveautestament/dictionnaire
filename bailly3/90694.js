@@ -1,0 +1,1 @@
+lar[90694]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’enfermer dans une auge, <i>supplice chez les Perses,</i> EUN. <i>p. 59</i>.<p><b>Étym</b>. σκαφεύω.`

@@ -1,0 +1,1 @@
+lar[33007]=`<b>ης (ἡ)</b> pariétaire (<i>Parietaria officinalis</i> L.) <i>plante,</i> DIOSC. <i>4, 39, 86</i>.<p><b>Étym</b>. ἕλκω.`

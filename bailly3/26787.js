@@ -1,0 +1,1 @@
+lar[26787]=`<b>Διό·μνηστος, ου (ὁ)</b> Diomnèstos, <i>h</i>. LYS. <i>18, 21 Baiter-Sauppe</i> ; PLUT. <i>M. 836e</i>.<p><b>Étym</b>. Διός, μνάομαι.`

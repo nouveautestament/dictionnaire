@@ -1,0 +1,1 @@
+lar[78745]=`<b>περι·κείρω</b>, tondre tout autour, raser, <i>acc</i>. HDT. <i>3, 154 ; au pass</i>. avoir les cheveux coupés tout autour, LUC. <i>Tim. 4 ; fig</i>. π. ἀκρόπολιν, EL. <i>V.H. 7, 8,</i> raser une citadelle.<br><b><i>Moy.</i></b> tondre sur soi, raser sur soi, <i>acc</i>. HDT. <i>4, 71</i>.`

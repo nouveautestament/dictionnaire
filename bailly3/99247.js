@@ -1,0 +1,1 @@
+lar[99247]=`<b>Τιμο·κρέων, οντος (ὁ)</b> Timokréon, <i>poète de Rhodes,</i> PLUT. <i>Them. 21</i>.<p><b>Étym</b>. τιμή, κρέων.`

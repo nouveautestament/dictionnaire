@@ -1,0 +1,1 @@
+lar[9951]=`<b>ἀντι·κατοίχομαι</b>, périr (<i>litt</i>. être précipité) à son tour, RHÉT. <i>1, 465 W</i>.`

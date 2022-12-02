@@ -1,0 +1,1 @@
+lar[47012]=`<b>θεσμο·πόλος, ος, ον</b>, qui s’occupe des lois, de la justice, ANTH. <i>5, 293</i>.<p><b>Étym</b>. θ. πολέω.`

@@ -1,0 +1,1 @@
+lar[108621]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν (ἡ)</b> Khlôris (Chloris) OD. <i>11, 281, etc</i>.<p>➳ <i>Acc</i>. Χλώριδα, APD. <i>1, 9, 9</i>.`

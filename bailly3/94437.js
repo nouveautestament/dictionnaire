@@ -1,0 +1,1 @@
+lar[94437]=`<b>συμ·φλέγω :<br>      1</b> brûler ensemble, EUR. <i>Bacch. 595</i>.<br><b>      2</b> brûler entièrement, consumer, THCR. <i>Idyl. 22, 211 ; au pass</i>. PLUT. <i>Alex. 60 ; fig. en parl. de l’amour,</i> ANTH. <i>5, 111</i>.`

@@ -1,0 +1,1 @@
+lar[95595]=`<b>συν·επέρχομαι</b>, survenir en même temps, G. PISID.`

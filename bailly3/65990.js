@@ -1,0 +1,1 @@
+lar[65990]=`<b>ας (ἡ)</b> travail à gages, travail mercenaire, <i>d’où</i> condition d’un mercenaire, DÉM. <i>242, 17 ; 320, 13</i> ; ARSTT. <i>Pol. 1, 7, etc</i>.<p><b>Étym</b>. μισθάρνης.`

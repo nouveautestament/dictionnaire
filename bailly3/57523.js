@@ -1,0 +1,1 @@
+lar[57523]=`<b>κραιπνό·συτος, ος, ον</b> <font color="purple">[ῠ]</font> qui s’élance impétueusement, ESCHL. <i>Pr. 279</i>.<p><b>Étym</b>. κραιπνός, σεύομαι.`

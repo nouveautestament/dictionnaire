@@ -1,0 +1,1 @@
+lar[76271]=`<b>παρα·συμβάλλω</b>, comparer, assimiler, SPT. <i>Ps. 48, 12, 21</i>.`

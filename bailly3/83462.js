@@ -1,0 +1,1 @@
+lar[83462]=`<i>contr. p</i>. πρίασο, <i>impér. de</i> πρίαμαι, <i>ou poét. c</i>. ἐπρίασο, <i>2 sg. impf. du même</i>.`

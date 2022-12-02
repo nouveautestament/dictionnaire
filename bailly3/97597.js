@@ -1,0 +1,1 @@
+lar[97597]=`<b>ταξί·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> dont les feuilles sont rangées en ordre, TH. <i>H.P. 1, 10, 8</i>.<p><b>Étym</b>. τάσσω, φύλλον.`

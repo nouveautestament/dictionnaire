@@ -1,0 +1,1 @@
+lar[19047]=`<b>ᾶ (ὁ)</b> Barabbas, <i>n. d’h. hébr</i>. NT. NONN.`

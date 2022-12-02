@@ -1,0 +1,1 @@
+lar[102569]=`<b>ὑπερ·ισχύω</b> <font color="purple">[χῡ]</font> être d’une force excessive, TH. <i>Ign. 10</i> ; SPT. <i>2Reg. 24, 4</i> ; JOS. <i>A.J. 11, 3, 2, etc. ; avec un rég</i>. être plus fort que, l’emporter sur, <i>gén</i>. JOS. <i>B.J. 1, 29, 4</i> ; SPT. <i>Dan. 11, 23</i>.`

@@ -1,0 +1,1 @@
+lar[66678]=`<b>μονό·χειρ, -χειρος (ὁ, ἡ)</b> qui n’a qu’une main, NICOM. <i>Arithm. 1, 15, p. 21</i>.<p><b>Étym</b>. μ. χείρ.`

@@ -1,0 +1,1 @@
+lar[41452]=`<b>ητος (ἡ) :<br>      1</b> action d’être prêt : λόγων, PLUT. <i>M. 6e</i>, facilité de parole.<br><b>      2</b> inclination, disposition à : πρός τι, DÉM. <i>1268, 7</i> ; PLUT. <i>Cam. 32 ; au plur</i>. M. ANT. <i>4, 12,</i> à faire qqe ch.<p><b>Étym</b>. ἕτοιμος.`

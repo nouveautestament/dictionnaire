@@ -1,0 +1,1 @@
+lar[71363]=`<b>ὁμ·έψιος, ος, ον</b>, compagnon de table, <i>p. ext</i>. de jeux <i>ou</i> de plaisir, ANTH. <i>9, 826</i>.<p><b>Étym</b>. ὁμός, ἑψία.`

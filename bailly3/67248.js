@@ -1,0 +1,1 @@
+lar[67248]=`<b>μυριό·λεκτος, ος, ον</b> <font color="purple">[ῠ]</font> redit mille fois, XÉN. <i>Hell. 5, 2, 25</i> ; ARISTÉN. <i>2, 20</i>.<p><b>Étym</b>. μ. λέγω.`

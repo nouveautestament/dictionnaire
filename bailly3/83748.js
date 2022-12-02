@@ -1,0 +1,1 @@
+lar[83748]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en s’avançant, HÉS. <i>O. 727</i> ; AR. <i>Ran. 351</i>.<br><b>      2</b> <i>p. suite,</i> peu à peu, JAMBL. <i>V. Pyth. 121</i>.<p><b>Étym</b>. προβαίνω, -δην.`

@@ -1,0 +1,1 @@
+lar[25543]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> dispositions qu’on prend, préparatifs, ORIG. <i>c. Cels. p. 382</i>.<p><b>Étym</b>. διασκευάζω.`

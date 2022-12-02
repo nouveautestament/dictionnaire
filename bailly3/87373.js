@@ -1,0 +1,1 @@
+lar[87373]=`<b>πτην·ολέτις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. qui perd les oiseaux, ANTH. <i>6, 185</i>.<p><b>Étym</b>. πτηνός, ὄλλυμι.`

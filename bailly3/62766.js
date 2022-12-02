@@ -1,0 +1,1 @@
+lar[62766]=`<b>Μανδρό·βουλος, ου (ὁ)</b> Mandroboulos, <i>avare qui avait promis aux dieux un bélier en or, puis en argent, puis en airain et qui finit par ne rien donner, d’où proverb</i>. ἐπὶ Μανδροβούλου χωρεῖ τὸ πρᾶγμα, LUC. <i>M. cond. 21</i> ; ALCIPHR. <i>1, 9</i> l’affaire va à la Mandroboulos, <i>càd</i>. de mal en pis.<p><b>Étym</b>. μάνδρα, βουλή.`

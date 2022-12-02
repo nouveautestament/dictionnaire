@@ -1,0 +1,1 @@
+lar[18617]=`<b>ἁψι·μάχως</b> <font color="purple">[ῐμᾰ]</font> <i>adv</i>., en combattant par escarmouches, DH. <i>6, 59</i>.<p><b>Étym</b>. *ἁψίμαχος, <i>de</i> ἅπτω¹, μάχη.`

@@ -1,0 +1,1 @@
+lar[82537]=`<b>Πολύ·φρων, ονος (ὁ)</b> Polyphrôn, <i>tyran de Phères,</i> XÉN. <i>Hell. 6, 4, 33, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύφρων.`

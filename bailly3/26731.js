@@ -1,0 +1,1 @@
+lar[26731]=`<b>οῦ (ὁ) :<br>      1</b> administrateur ; <i>particul</i>. gouverneur d’une province, POL. <i>27, 12, 1</i> ; STR. <i>840</i> ; SPT. <i>2Esdr. 8, 36</i>.<br><b>      2</b> trésorier, PLUT. <i>M. 179f</i>.<p><b>Étym</b>. διοικέω.`

@@ -1,0 +1,1 @@
+lar[98102]=`<b>τεκτονό·χειρ, -χειρος (ὁ, ἡ)</b> qui travaille de ses mains, ouvrier, ORPH. <i>fr. 8, 44</i>.<p><b>Étym</b>. τέκτων, χείρ.`

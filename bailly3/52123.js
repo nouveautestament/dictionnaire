@@ -1,0 +1,1 @@
+lar[52123]=`<b>ου (τὸ)</b> <font color="purple">[βᾰ]</font> lieu où l’on descend, souterrain, DAMASC. (PHOT. <i>Bibl. p. 34, 36).</i><p><b>Étym</b>. καταβαίνω.`

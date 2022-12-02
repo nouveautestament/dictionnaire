@@ -1,0 +1,1 @@
+lar[31619]=`<b>ας (ἡ)</b> comptabilité, SPT. <i>Tob. 1, 10</i>.<p><b>Étym</b>. ἐκλογιστής.`

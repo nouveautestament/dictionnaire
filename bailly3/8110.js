@@ -1,0 +1,1 @@
+lar[8110]=`<b>ου (ἡ)</b> Andros (<i>auj</i>. Ánđros) <i>Cyclade,</i> HDT. <i>4, 33, etc.</i> ; ESCHL. <i>Pers. 886</i> ; THC. <i>2, 55, etc</i>.`

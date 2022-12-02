@@ -1,0 +1,1 @@
+lar[20639]=`<b>βραδυ·σκελής, ής, ές</b> <font color="purple">[ᾰ]</font> aux jambes lentes, à la marche lente, <i>ép. d’Héphæstos,</i> ANTH. <i>6, 101</i>.<p><b>Étym</b>. βρ. σκέλος.`

@@ -1,0 +1,1 @@
+lar[14168]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font> relatif aux prières, aux imprécations, DL. <i>7, 66</i>.<p><b>Étym</b>. ἀράομαι.`

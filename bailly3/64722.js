@@ -1,0 +1,1 @@
+lar[64722]=`<i>adv</i>., dans la suite, HH. <i>Merc. 159</i> ; HÉS. <i>O. 392</i>.<p><b>Étym</b>. μετά, -ζε.`

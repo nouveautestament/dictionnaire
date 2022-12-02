@@ -1,0 +1,1 @@
+lar[60729]=`<i>mieux que</i> <b>λήδιον, ου (τὸ)</b> <i>dim. de</i> λῇδος <b>2</b>, CLÉARQ. <i>et</i> MACH. (ATH. <i>256f, 582d</i>) ; PHILSTR. <i>V. Ap. 4, 20, p. 158, etc</i>.<p>➳ <i>Dans les inscr. att</i>. λήδιον (<i>non</i> λῄδιον) CIA. <i>2, 751,b, 2, 10, 12 (345 av. J.-C.), etc. ; v. Meisterh. p. 50, § 21, 3, 4 ; mais v. Riemann, Rev. de phil. V, 170</i>.`

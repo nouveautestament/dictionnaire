@@ -1,0 +1,1 @@
+lar[27412]=`<b>ων (οἱ)</b> <font color="purple">[ῑ]</font> les Doliones, <i>pple de Mysie,</i> A.RH. <i>1, 947, 952, etc.</i> ; STR. <i>575</i>.<p>➳ <i>Dat. pl</i>. -ίοσιν, A.RH. <i>1, 1018</i>.`

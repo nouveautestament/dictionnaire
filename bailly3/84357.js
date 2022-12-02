@@ -1,0 +1,1 @@
+lar[84357]=`<b>Πρό·θοος-ους, όου (ὁ)</b> Prothoos :<br><b>      1</b> <i>chef des Magnésiens devant Troie,</i> IL. <i>2, 756</i>.<br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 6, 4, 2, etc</i>.<p><b>Étym</b>. π. θέω.`

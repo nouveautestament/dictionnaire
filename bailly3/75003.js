@@ -1,0 +1,1 @@
+lar[75003]=`<b>παν·έστιος, ος, ον</b> <font color="purple">[ᾰ]</font> avec toute la famille (<i>propr</i>. tout le foyer), PLUT. <i>Sol. 24</i>.<p><b>Étym</b>. π. ἑστία.`

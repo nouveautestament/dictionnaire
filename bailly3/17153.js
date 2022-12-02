@@ -1,0 +1,1 @@
+lar[17153]=`<b>ός, όν :<br>      1</b> qui ne dure que le jour même, du jour, <i>en parl. de poètes,</i> CRAT. (ARSTD. <i>49, 386</i>).<br><b>      2</b> qui travaille à la journée, SPT. <i>Job 7, 1</i>.<p><b>Étym</b>. αὐθήμερος.`

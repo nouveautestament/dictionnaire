@@ -1,0 +1,1 @@
+lar[62151]=`<i>c</i>. λωβάομαι, DÉMOCR. <i>Ep. ad Hipp</i>.`

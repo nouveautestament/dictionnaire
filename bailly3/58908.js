@@ -1,0 +1,1 @@
+lar[58908]=`<b>άδος</b> <font color="purple">[ῡᾰδ]</font> <i>c</i>. Κυπρίδιος NONN. <i>D. 13, 432, etc</i>.<p><b>Étym</b>. Κύπρις.`

@@ -1,0 +1,1 @@
+lar[100291]=`<b>η, ον</b> <font color="purple">[ῐῐῐ]</font> <i>c</i>. τρίμιτος ESCHL. <i>fr. 331</i> ; CRATÈS (POLL. <i>7, 92</i>).`

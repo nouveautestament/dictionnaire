@@ -1,0 +1,1 @@
+lar[8926]=`vivre <i>ou</i> agir comme un homme, <i>p. opp. à la divinité ou aux animaux,</i> ARSTT. <i>Nic. 10, 8, 6</i>.<p><b>Étym</b>. ἄνθρωπος.`

@@ -1,0 +1,1 @@
+lar[44257]=`<i>adv</i>., avec des sentiments hostiles, DC. <i>43, 11</i>.<p><b>Étym</b>. ἐχθρός, -ωδης.`

@@ -1,0 +1,1 @@
+lar[100181]=`<b>τρί·δραχμος, ος, ον</b>, de la valeur de trois drachmes, AR. <i>Pax 1202</i>.<p><b>Étym</b>. τρ. δραχμή.`

@@ -1,0 +1,1 @@
+lar[28427]=`<b>δυσ·επίληπτος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à comprendre, CHRYS. <i>1, 693 ; 6, 652</i>.<p><b>Étym</b>. δ. ἐπιλαμβάνω.`

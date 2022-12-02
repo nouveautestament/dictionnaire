@@ -1,0 +1,1 @@
+lar[105389]=`<i>ou</i> <b>φιβάλις, εως (ἡ)</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. φιβάλεως PHÉRÉCR. (ATH. <i>75b</i>).`

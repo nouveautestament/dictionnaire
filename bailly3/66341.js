@@ -1,0 +1,1 @@
+lar[66341]=`<b>η, ον</b> <font color="purple">[ῐ]</font> fait en peau de bœuf, THÉODORID. (POLL. <i>10, 187).</i><p><b>Étym</b>. μολγός.`

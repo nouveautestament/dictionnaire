@@ -1,0 +1,1 @@
+lar[71477]=`<b>ὁμό·δρομος, ος, ον</b>, dont la course est la même <i>ou</i> aussi rapide, <i>avec le dat</i>. PLAT. <i>Epin. 987b ; avec le gén</i>. NONN. <i>D. 37, 275</i>.<p><b>Étym</b>. ὁμ. δραμεῖν.`

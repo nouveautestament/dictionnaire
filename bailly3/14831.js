@@ -1,0 +1,1 @@
+lar[14831]=`<b>ου (τὸ)</b> bardane, <i>plante,</i> NIC. <i>Th. 841</i> ; DIOSC. <i>4, 106</i>.<p><b>Étym</b>. ἄρκτος.`

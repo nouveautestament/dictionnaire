@@ -1,0 +1,1 @@
+lar[30432]=`<b>ου (ὁ)</b> sorte de roseau, TH. <i>H.P. 4, 11, 13</i>.<p><b>Étym</b>. εἴλω.`

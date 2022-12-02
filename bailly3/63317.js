@@ -1,0 +1,1 @@
+lar[63317]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui a grand air, grand, magnifique, <i>en parl. de choses,</i> XÉN. <i>Mem. 2, 1, 34 ; 4, 5, 2 ; en parl. de pers</i>. XÉN. <i>Mem. 4, 1, 4</i> ; τὸ μεγαλεῖον, POL. <i>8, 3, 1,</i> grandeur, magnificence.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Mem. 2, 1, 34</i>.<p><b>Étym</b>. μέγας.`

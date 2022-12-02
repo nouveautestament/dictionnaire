@@ -1,0 +1,1 @@
+lar[6632]=`<b>ατος (τὸ)</b> marque pour reconnaître, HPC. <i>300, 30</i>.`

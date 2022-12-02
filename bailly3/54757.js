@@ -1,0 +1,1 @@
+lar[54757]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. κεντροδήλητις.`

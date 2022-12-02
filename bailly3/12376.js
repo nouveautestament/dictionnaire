@@ -1,0 +1,1 @@
+lar[12376]=`<font color="purple">[θᾰ]</font> ARSTT. <i>Nic. 3, 1, 8 et</i> <b>ἀποθανητέον</b>, ORIG. <i>1, 761, vb. de</i> ἀποθνῄσκω.`

@@ -1,0 +1,1 @@
+lar[67268]=`<b>ύος (ἡ)</b> <font color="purple">[μῡ]</font> ensemble de dix mille, XÉN. <i>Cyr. 6, 3, 20</i>.<p><b>Étym</b>. μυρίος.`

@@ -1,0 +1,1 @@
+lar[65707]=`<b>μικρό·κομψος, ος, ον</b> <font color="purple">[ῑ]</font> soigné dans les petites choses, DH. <i>Comp. 4</i>.<p><b>Étym</b>. μ. κομψός.`

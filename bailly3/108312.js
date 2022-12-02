@@ -1,0 +1,1 @@
+lar[108312]=`<i>adv</i>., sur la terre ferme, ANTH. <i>9, 105</i>.<p><b>Étym</b>. χέρσος, -θι.`

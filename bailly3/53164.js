@@ -1,0 +1,1 @@
+lar[53164]=`<b>κατα·προνομεύω</b>, dévaster par des incursions, SPT. <i>Num. 21, 1 ; Jud. 2, 14</i>.`

@@ -1,0 +1,1 @@
+lar[39224]=`<b>ἐπι·συναινέω-ῶ</b>, acquiescer <i>ou</i> consentir à, <i>dat</i>. JOS. <i>A.J. 5, 1, 16</i>.`

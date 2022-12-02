@@ -1,0 +1,1 @@
+lar[9621]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> action de mettre en opposition, comparaison, DYSC. <i>Synt. 161, 10</i> ; RHÉT. <i>9, 496 W. etc</i>.<p><b>Étym</b>. ἀντεξετάζω.`

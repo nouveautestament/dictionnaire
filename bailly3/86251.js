@@ -1,0 +1,1 @@
+lar[86251]=`<b>προσ·οψωνέω-ῶ</b>, acheter de nouvelles provisions, ATH. <i>331c</i>.`

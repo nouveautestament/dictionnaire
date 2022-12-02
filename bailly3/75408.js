@@ -1,0 +1,1 @@
+lar[75408]=`<b>παρα·βλύζω</b>, vomir, rejeter, <i>avec un gén. partit</i>. PHILSTR. <i>796</i> ; EUN. <i>p. 22</i>.`

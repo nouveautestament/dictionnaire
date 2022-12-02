@@ -1,0 +1,1 @@
+lar[43143]=`<b>εὔ·πυγος, ος, ον</b> <font color="purple">[ῡ]</font> aux belles fesses, HERM. (STOB. <i>Ecl. 1, 992).</i><p><b>Étym</b>. εὖ, πυγή.`

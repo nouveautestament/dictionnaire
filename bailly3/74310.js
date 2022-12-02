@@ -1,0 +1,1 @@
+lar[74310]=`<b>παιδο·τόκος, ος, ον :<br>      1</b> qui enfante, NONN. <i>Jo. 2, 1</i>.<br><b>      2</b> qui favorise l’enfantement, ORACL. (PHLÉG. TR. <i>de Longæv. 29, 4, p. 611).</i><p><b>Étym</b>. π. τίκτω.`

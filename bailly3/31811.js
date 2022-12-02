@@ -1,0 +1,1 @@
+lar[31811]=`<b>οῦ (ὁ)</b> conversion de trois quarts, <i>t. de tact</i>. POL. <i>10, 21, 3</i>.<p><b>Étym</b>. ἐκπερισπάω.`

@@ -1,0 +1,1 @@
+lar[15342]=`<b>ἀρτι·θαλής, ής, ές</b> <font color="purple">[ῐᾰ]</font> frais éclos, ANTH. <i>5, 198</i>.<p><b>Étym</b>. ἄ. βάλλω.`

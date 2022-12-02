@@ -1,0 +1,1 @@
+lar[945]=`<b>ἀγρο·βόας, ου (ὁ)</b> aux cris sauvages, CRAT. <i>(Bkk. p. 339).</i><p><b>Étym</b>. ἀγρός, βοάω.`

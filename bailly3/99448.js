@@ -1,0 +1,1 @@
+lar[99448]=`<b>ῆρος (ὁ)</b> celui qui coupe, qui partage, NONN. <i>Jo. 7, 91</i>.<p><b>Étym</b>. τέμνω.`

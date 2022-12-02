@@ -1,0 +1,1 @@
+lar[2672]=`<b>ῆρος (ὁ)</b> qui annonce en termes obscurs, <i>gén</i>. SOPH. <i>fr. 707</i>.<p><b>Étym</b>. αἰνίσσομαι.`

@@ -1,0 +1,1 @@
+lar[91871]=`<b>ιδος (ὁ)</b> Sperkhis, <i>h</i>. THCR. <i>Idyl. 15, 98</i> ; PLUT. <i>Apophth. lac. 60</i> : LUC. <i>Dem. enc. 32</i>.<p><b>Étym</b>. σπέρχω.`

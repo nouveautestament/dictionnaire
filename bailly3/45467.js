@@ -1,0 +1,1 @@
+lar[45467]=`<b>Ἡμί·κυνες, ων (οἱ)</b> <font color="purple">[ῐῠ]</font> les Hémikynes (demi-chiens) <i>pple myth</i>. HÉS. (STR. <i>299).</i><p><b>Étym</b>. <i>plur. de</i> *ἡμικύων, <i>de</i> ἡμι-, κύων.`

@@ -1,0 +1,1 @@
+lar[96286]=`<b>συν·ταχύνω</b> <font color="purple">[ᾰῡ]</font><br><b>      1 <i>tr.</i></b> hâter, presser vivement, HDT. <i>3, 71</i>.<br><b>      2 <i>intr.</i></b> se hâter, HDT. <i>3, 72 ; fig</i>. HDT. <i>2, 133</i>.`

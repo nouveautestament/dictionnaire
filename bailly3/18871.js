@@ -1,0 +1,1 @@
+lar[18871]=`<b>ων (τὰ)</b> Bactres :<br><b>      1</b> <i>province de l’empire perse,</i> TH. PLUT. <i>etc.</i><br><b>      2</b> <i>capitale de cette province,</i> ARSTT. STR. <i>etc</i>.`

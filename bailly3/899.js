@@ -1,0 +1,1 @@
+lar[899]=`<b>ἀγρι·ελαία, ας (ἡ)</b> olivier sauvage, DIOSC. <i>1, 137, 140</i> ; PAUS. <i>2, 28, 3, etc</i>.<p><b>Étym</b>. ἄγριος, ἐλ.`

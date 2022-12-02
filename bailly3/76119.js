@@ -1,0 +1,1 @@
+lar[76119]=`<b>ατος (τὸ) :<br>      1</b> ce que l’on scie, sciure, copeau, éclat, AR. <i>Ran. 881</i>.<br><b>      2</b> tumeur dure sur la jambe d’un cheval, HIPPIATR.<p><b>Étym</b>. π. πρίω.`

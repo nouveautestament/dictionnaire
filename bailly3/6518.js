@@ -1,0 +1,1 @@
+lar[6518]=`<b>α, ον</b> <font color="purple">[βᾰ]</font> <i>vb. de</i> ἀναβαίνω, THÉM.`

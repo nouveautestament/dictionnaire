@@ -1,0 +1,1 @@
+lar[67041]=`<b>ας (ἡ)</b> <font color="purple">[ῡᾰφ]</font> récit fabuleux, STR. <i>43, 341</i> ; JUL. <i>205b, 216b</i>.<p><b>Étym</b>. μυθογράφος.`

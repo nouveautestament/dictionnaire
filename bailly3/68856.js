@@ -1,0 +1,1 @@
+lar[68856]=`<b>νοερη·τόκος, ος, ον</b>, qui est la source de l’intelligence, SYN. <i>315d</i>.<p><b>Étym</b>. νοερός, τίκτω.`

@@ -1,0 +1,1 @@
+lar[56633]=`<b>ή, όν</b>, bien ajusté (char, porte, <i>etc</i>.) IL. <i>4, 366, etc.</i> ; OD. <i>23, 194, etc</i>.<p><b>Étym</b>. *κολλέω, <i>de</i> *κολλός, <i>v</i>. κολλήεις.`

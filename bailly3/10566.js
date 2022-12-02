@@ -1,0 +1,1 @@
+lar[10566]=`<b>ἀντί·φονος, ος, ον :<br>      1</b> qui rend meurtre pour meurtre, ESCHL. <i>Sept. 893</i>.<br><b>      2</b> qui venge un meurtre, ESCHL. <i>Eum. 982</i> ; SOPH. <i>El. 248</i>.<p>➳ <i>Mot us. chez les Trag. mais seul. dans les chœurs</i>.<p><b>Étym</b>. ἀ. φόνος.`

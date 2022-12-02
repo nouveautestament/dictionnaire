@@ -1,0 +1,1 @@
+lar[87818]=`<b>ης, ες :<br>   I</b> <i>pass.</i> :<br><b>      1</b> accompagné de fièvre, HPC. <i>Fract. 775, etc.</i><br><b>      2</b> sujet à la fièvre, fiévreux, HPC. <i>Aër. 286</i>.<br><b>   II</b> <i>act</i>. qui donne la fièvre, ARSTT. <i>Probl. 1, 23</i>.<p>•<i> Cp</i>. -έστερος, HPC. <i>Art. 816</i>.<p><b>Étym</b>. πυρετός, -ωδης.`

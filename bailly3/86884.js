@@ -1,0 +1,1 @@
+lar[86884]=`<b>προ·ϋπολαμβάνω</b>, supposer auparavant, présumer, ARSTT. <i>Rhet. 2, 21, 15, etc</i>.`

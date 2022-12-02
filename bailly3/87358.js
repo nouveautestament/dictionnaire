@@ -1,0 +1,1 @@
+lar[87358]=`<b>εως (ἡ)</b> déploiement <i>ou</i> battement d’ailes, EUM. <i>385</i>.<p><b>Étym</b>. πτερύσσομαι.`

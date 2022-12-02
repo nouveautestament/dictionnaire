@@ -1,0 +1,1 @@
+lar[76132]=`<b>παρά·πυκνος, ος, ον</b>, quelque peu dense <i>ou</i> compact, DIOM. <i>481, 15</i>.`

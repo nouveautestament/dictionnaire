@@ -1,0 +1,1 @@
+lar[20042]=`<b>εως (ἡ)</b> action de venir au secours, EN. TACT. <i>Pol. 16, 2</i>.<p><b>Étym</b>. βοηθέω.`

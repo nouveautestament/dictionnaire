@@ -1,0 +1,1 @@
+lar[107131]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. couvert de feuilles, JOH. <i>Ecphr. 2, 292</i>.<p><b>Étym</b>. φύλλον.`

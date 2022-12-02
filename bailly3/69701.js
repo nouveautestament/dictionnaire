@@ -1,0 +1,1 @@
+lar[69701]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> de la nature du bois, ligneux, ARSTT. <i>Meteor. 4, 9, 26</i> ; TH. <i>H.P. 7, 3, 2 ; 8, 2, 3</i> ; PLUT. <i>M. 953d</i>.<p><b>Étym</b>. ξύλον, -ωδης.`

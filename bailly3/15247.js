@@ -1,0 +1,1 @@
+lar[15247]=`<b>ων (οἱ)</b> <i>ancien nom que les Perses se donnaient à eux-mêmes,</i> HDT. <i>7, 61</i>.`

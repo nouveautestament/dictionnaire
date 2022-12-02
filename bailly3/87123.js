@@ -1,0 +1,1 @@
+lar[87123]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> du matin, matinal, SPT. <i>Gen. 49, 27, etc.</i> ; PLUT. <i>M. 726e ;</i> BABR. <i>97, 17</i> ; ATH. <i>11c, etc. ; subst</i>. τὸ πρωϊνόν, SPT. <i>1Esdr. 5, 50,</i> le matin.<p><b>Étym</b>. πρωΐ.`

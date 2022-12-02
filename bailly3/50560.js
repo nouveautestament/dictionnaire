@@ -1,0 +1,1 @@
+lar[50560]=`<b>καινο·ποιός, ός, όν</b>, qui innove, novateur, NAZ. <i>2, 608 Migne</i>.<p><b>Étym</b>. κ. ποιέω.`

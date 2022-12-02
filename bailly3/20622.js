@@ -1,0 +1,1 @@
+lar[20622]=`<b>βραδυ·κίνητος, ος, ον</b> <font color="purple">[ᾰῠῑ]</font> qui se meut lentement, GAL. <i>5, 121</i> ; POLÉM. ADAM. <i>etc</i>.<p><b>Étym</b>. βρ. κινέω.`

@@ -1,0 +1,1 @@
+lar[98907]=`<b>τηκό·λιθος, ος, ον</b>, qui dissout les calculs des reins, P. ÉG. <i>7</i>.<p><b>Étym</b>. τήκω, λίθος.`

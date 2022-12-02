@@ -1,0 +1,1 @@
+lar[85423]=`<b>προσ·διασαφέω-ῶ</b> <font color="purple">[σᾰ]</font> expliquer encore plus clairement, POL. <i>3, 24, 25</i> ; STR. <i>445</i> ; PLUT. <i>M. 22b</i>.`

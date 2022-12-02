@@ -1,0 +1,1 @@
+lar[39894]=`<b>ἐπ·ουλόω-ῶ</b>, cicatriser, GAL. <i>14, 289 ; au pass</i>. se cicatriser, HPC. <i>Art. 789</i> ; GAL. <i>11, 440 ; 14, 280, etc</i>.`

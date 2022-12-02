@@ -1,0 +1,1 @@
+lar[80046]=`<b>ων (οἱ)</b> les Pèlagones, <i>n. des Géants,</i> CALL. <i>H. 1, 3</i>.`

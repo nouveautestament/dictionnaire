@@ -1,0 +1,1 @@
+lar[84396]=`<b>προ·ϊλάσκομαι</b> <font color="purple">[ῑ]</font> rendre favorable, PAUS. <i>5, 13, 4</i>.`

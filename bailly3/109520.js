@@ -1,0 +1,1 @@
+lar[109520]=`<b>ψαλιδόω-ῶ</b> <font color="purple">[ᾰῐ]</font> construire en forme de voûte, voûter, PHIL. BYZ. (MATH. <i>p. 109).</i><p><b>Étym</b>. ψαλίς.`

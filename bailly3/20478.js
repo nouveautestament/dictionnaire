@@ -1,0 +1,1 @@
+lar[20478]=`<b>άδος (ἡ)</b> sorte de gros navet, TH. <i>et</i> NIC. (ATH. <i>369b</i>) ; ATH. <i>4c ;</i> DS. <i>3, 24</i> ; DIOSC. <i>2, 136</i>.<p><b>Étym</b>. βουνός.`

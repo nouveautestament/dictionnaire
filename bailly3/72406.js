@@ -1,0 +1,1 @@
+lar[72406]=`<b>α, ον</b>, depuis combien de jours, ARAT. <i>739</i>.<p><b>Étym</b>. ὁπόστος.`

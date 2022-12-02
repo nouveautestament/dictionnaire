@@ -1,0 +1,1 @@
+lar[87241]=`<b>πρωτό·πλοος-ους, οος-ους, οον-ουν :<br>      1</b> qui navigue (sur mer) pour la première fois, OD. <i>8, 35</i> ; EUR. <i>Andr. 865</i> ; SEXT. <i>M. 9, 32 ; en parl. d’un navire ; fig</i>. PLAT. <i>Epigr. 6, 4</i>.<br><b>      2</b> qui navigue le premier <i>ou</i> en avant, XÉN. <i>Hell. 5, 1, 27</i>.<p><b>Étym</b>. πρ. πλέω.`

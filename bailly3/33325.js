@@ -1,0 +1,1 @@
+lar[33325]=`<b>ἐμ·παίω :<br>      1</b> relever en bosse, travailler en relief, ATH. <i>543f.</i><br><b>      2 <i>intr.</i></b> se graver dans, <i>dat</i>. SOPH. <i>El. 902</i> ; se précipiter dans, ESCHL. <i>Ag. 1172</i>.`

@@ -1,0 +1,1 @@
+lar[31155]=`<b>ἐκ·δανείζω</b> <font color="purple">[ᾰ]</font> prêter à intérêts, ARSTT. <i>Œc. 2, 21 (inf. ao</i>. -εῖσαι) ; ANTH. <i>11, 173</i>.<p><b>Étym</b>. <i>pf</i>. ἐκδεδάνεικας.`

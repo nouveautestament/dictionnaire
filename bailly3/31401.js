@@ -1,0 +1,1 @@
+lar[31401]=`<b>ατος (τὸ)</b> ce qui monte en tige, tige, GAL. <i>Lex. Hipp. 19, 153</i>.<p><b>Étym</b>. ἐκκαυλέω.`

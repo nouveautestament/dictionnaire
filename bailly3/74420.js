@@ -1,0 +1,1 @@
+lar[74420]=`<b>παλαιό·δουλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> depuis longtemps esclave, PHIL. <i>2, 468</i>.<p><b>Étym</b>. π. δοῦλος.`

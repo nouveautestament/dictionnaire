@@ -1,0 +1,1 @@
+lar[105639]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. φίλτρον, ANTH. <i>11, 218</i>.`

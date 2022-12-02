@@ -1,0 +1,1 @@
+lar[25649]=`<b>δια·συνίστημι</b>, signifier clairement, faire connaître, faire comprendre, DL. <i>3, 79</i> ; PHIL. <i>1, 237, 292, etc.</i><br><b><i>Moy.</i></b> se prescrire <i>ou</i> se recommander à soi-même, M. ANT. <i>3, 2</i>.`

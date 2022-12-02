@@ -1,0 +1,1 @@
+lar[5767]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>mot dor</i>. quelque, THCR. <i>Idyl. 22, 69 ; cf</i>. ἀμῆ, -οῦ, -ῶς ; -όθεν, -ηγέπη ; οὐδαμοί, <i>etc</i>.<p><b>Étym.</b> <i>indo-europ.</i> *smH-o-, quelque ; cf. <i>sscr</i>. sama-, <i>angl.</i> some.`

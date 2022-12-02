@@ -1,0 +1,1 @@
+lar[96665]=`<b>ή, όν</b>, qui resserre, qui contracte, EUCL. <i>Intr. harm. 13, p. 222, l. 22</i> ; A. QUINT. <i>p. 30, etc</i>.<p><b>Étym</b>. συστέλλω.`

@@ -1,0 +1,1 @@
+lar[27123]=`<b>δι·φάσιος, α, ον</b> <font color="purple">[ῐφᾰ]</font><br><b>      1</b> double, HDT. <i>1, 18 ; 2, 36, etc.</i><br><b>      2</b> de double nature, de deux sortes, <i>au plur</i>. HDT. <i>3, 122</i>.<p><b>Étym</b>. δίς, φημί ; <i>cf. lat</i>. bi-farius.`

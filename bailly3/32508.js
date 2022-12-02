@@ -1,0 +1,1 @@
+lar[32508]=`<b>Ἐλάσ·ιππος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Élasippos, <i>h</i>. PLAT. <i>Criti. 114c ;</i> Q. SM. <i>1, 299</i>.<p><b>Étym</b>. <i>cf</i>. ἐλάσιππος.`

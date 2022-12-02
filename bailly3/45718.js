@@ -1,0 +1,1 @@
+lar[45718]=`<b>ἡπατο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable au foie, DIOSC. <i>5, 100</i>.<p><b>Étym</b>. ἧπαρ, εἶδος.`

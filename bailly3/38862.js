@@ -1,0 +1,1 @@
+lar[38862]=`<b>ή, όν</b>, qu’on laisse retomber avec force sur ; ἐπιρρακτὴ θύρα, PLUT. <i>M. 781d</i>, herse d’une porte.<p><b>Étym</b>. <i>vb. de</i> ἐπιρράσσω.`

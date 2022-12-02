@@ -1,0 +1,1 @@
+lar[15602]=`<b>ης (ἡ)</b> grande-prêtrise, dignité de grand-prêtre, PLUT. <i>Pomp. 67</i> ; SPT. <i>1Macc. 7, 21</i>.`

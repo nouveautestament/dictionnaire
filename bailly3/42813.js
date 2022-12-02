@@ -1,0 +1,1 @@
+lar[42813]=`<i>épq</i>. <b>ἐϋξείνως</b>, <i>adv. ion. p</i>. εὐξένως, d’une façon hospitalière, A.RH. <i>1, 963, 1179</i>.`

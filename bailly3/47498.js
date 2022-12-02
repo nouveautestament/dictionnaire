@@ -1,0 +1,1 @@
+lar[47498]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> bruyant, tapageur, AR. <i>Eq. 1380</i>.<p><b>Étym</b>. θορυβέω.`

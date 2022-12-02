@@ -1,0 +1,1 @@
+lar[22358]=`<b>ή, όν :<br>      1</b> connu, su, <i>en parl. de choses,</i> IL. <i>7, 401</i> ; OD. <i>24, 182</i> ; SOPH. <i>O.R. 58, etc.</i><br><b>      2</b> <i>en parl. de pers</i>. connu, familier, OD. <i>21, 218</i> ; SOPH. <i>fr. 225</i>.<p>➳ <i>Fém</i>. -ός, SOPH. <i>O.R. 396</i>.<p><b>Étym</b>. γιγνώσκω ; <i>cf</i>. γνωστός.`

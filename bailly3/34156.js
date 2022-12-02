@@ -1,0 +1,1 @@
+lar[34156]=`<b>ἐν·δημέω-ῶ :<br>      1</b> être établi <i>ou</i> séjourner dans un pays, LYS. <i>114, 36,</i> PLUT. <i>M. 578e ; fig</i>. se fixer (dans le corps) <i>avec</i> ἐν <i>et le dat</i>. NT. <i>2Cor. 5, 6</i>.<br><b>      2</b> venir se fixer, <i>avec</i> εἰς <i>et l’acc</i>. CHARIT. <i>6, 3</i>.`

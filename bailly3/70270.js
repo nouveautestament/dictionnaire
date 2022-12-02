@@ -1,0 +1,1 @@
+lar[70270]=`<b>ου (τὸ)</b> <font color="purple">[α]</font> <i>dim. de</i> οἴδημα HPC. <i>754h</i>.`

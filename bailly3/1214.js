@@ -1,0 +1,1 @@
+lar[1214]=`<b>ἀ·δεισί·θεος, ος, ον</b> <font color="purple">[ῐ]</font> qui ne craint pas Dieu, ORACL. (JUL. <i>Ep. 88).</i><p><b>Étym</b>. ἀ, δείδω, θεός.`

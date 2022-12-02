@@ -1,0 +1,1 @@
+lar[18768]=`<b>βαθυ·κτέανος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> aux richesses immenses (<i>litt</i>. profondes) ANTH. <i>10, 74</i>.<br><b>      2</b> <i>p. ext</i>. abondant (cours d’eau), NONN. <i>D. 12, 126</i>.<p><b>Étym</b>. β. κτέανον.`

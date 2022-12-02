@@ -1,0 +1,1 @@
+lar[13328]=`<b>ἀποσκληρόω-ῶ</b>, devenir dur, durcir, CHRYS.`

@@ -1,0 +1,1 @@
+lar[81382]=`<b>οῦ (ὁ)</b> action de varier, de diversifier, PLUT. <i>M. 382c, 1088c</i>.<p><b>Étym</b>. ποικίλλω.`

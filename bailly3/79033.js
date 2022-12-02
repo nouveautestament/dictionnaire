@@ -1,0 +1,1 @@
+lar[79033]=`<b>περι·ορμίζω</b>, conduire vers un port, DÉM. <i>1229, 9 ; 1230, 9</i> ; PLUT. <i>Pomp. 76</i>.<br><b><i>Moy.</i></b> jeter l’ancre autour de, <i>acc</i>. THC. <i>3, 6</i>.`

@@ -1,0 +1,1 @@
+lar[47399]=`(<i>non</i> <b>Θίμβρων</b>), <b>ωνος (ὁ)</b> Thibrôn :<br><b>      1</b> <i>général spartiate,</i> XÉN. <i>Hell. 3, 1, 4</i> ; ISOCR. <i>70d.</i><br><b>      2</b> <i>autres,</i> SOPATR. (ATH. <i>230e</i>) <i>etc</i>.<p>➳ <i>Dans une inscr. att</i>. Θίβρων, CIA. <i>2, 231, 6 (320/312 av. J.-C.) v. Meisterh. p. 65, 7</i>.<p><b>Étym</b>. <i>cf</i>. θιβρός.`

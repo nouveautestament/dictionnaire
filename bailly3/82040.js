@@ -1,0 +1,1 @@
+lar[82040]=`<b>πολύ·κρωζος, ος, ον</b>, aux croassements répétés, OPP. <i>C. 3, 117</i>.<p><b>Étym</b>. π. κρώζω.`

@@ -1,0 +1,1 @@
+lar[41984]=`<i>adv</i>., avec inclination <i>ou</i> disposition à, <i>avec</i> εἰς <i>ou</i> πρός <i>et l’acc</i>. DIOSC. <i>Iob. p. 45</i> ; GAL. <i>Hipp. et Plat. 5, 4</i> ; CHRYS. <i>3, 571 Migne</i>.`

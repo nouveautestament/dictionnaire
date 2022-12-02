@@ -1,0 +1,1 @@
+lar[58761]=`<b>κυν·ηλασία, ας (ἡ)</b> <font color="purple">[ῠλᾰ]</font> chasse avec meute, CALL. <i>Dian. 217</i>.<p><b>Étym</b>. κύων, ἐλαύνω.`

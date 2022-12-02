@@ -1,0 +1,1 @@
+lar[92819]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre au service militaire, propre à faire campagne, CHÆRÉM. (ATH. <i>562f</i>).<p>•<i> Sup</i>. -ώτατος, ALEX. (<i>Com. fr. 3, 490).</i><p><b>Étym</b>. στρατεύω.`

@@ -1,0 +1,1 @@
+lar[62099]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> qui délie, <i>d’où</i> :<br><b>      1</b> libérateur, EUR. <i>El. 136</i> ; le Rédempteur, le Messie, NONN. <i>Jo. 17, 21</i>.<br><b>      2</b> qui résout, qui décide, arbitre, ESCHL. <i>Sept. 941</i>.<p><b>Étym</b>. λύω.`

@@ -1,0 +1,1 @@
+lar[88737]=`<b>ας (ἡ)</b> courant d’un fleuve, HPC. <i>411, 54</i>.<p><b>Étym</b>. ῥόος.`

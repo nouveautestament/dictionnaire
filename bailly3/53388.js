@@ -1,0 +1,1 @@
+lar[53388]=`<b>κατα·σμύχω</b> <font color="purple">[ῡ]</font><br><b>      1</b> brûler, consumer par le feu : <i>fig. en parl. de l’amour,</i> THCR. <i>Idyl. 3, 17</i> ; κατεσμυγμένον ὑποβλέπειν, HLD. <i>7, 21,</i> avoir un regard enflammé.<br><b>      2</b> causer une douleur cuisante, <i>au mor</i>. ANTH. <i>5, 254</i>.`

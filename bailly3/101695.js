@@ -1,0 +1,1 @@
+lar[101695]=`<b>α (ὁ)</b> <font color="purple">[ῠᾱ]</font> Hylas :<br><b>      1</b> <i>n. myth</i>. THCR. <i>Idyl. 7, 13</i> ; A.RH. <i>1, 131, etc.</i><br><b>      2</b> <i>n. d’esclave,</i> AR. <i>Eq. 67</i>.<br><b>      3</b> <i>autres,</i> PLUT. <i>Qu. conv. 9, 5, etc</i>.<p>➳ <font color="purple">[ῡ]</font> NONN. <i>D. 11, 228</i>.`

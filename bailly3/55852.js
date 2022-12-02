@@ -1,0 +1,1 @@
+lar[55852]=`<b>Κλεισι·θήρα, ας (ἡ)</b> <font color="purple">[ῐ]</font> Kleisithèra, <i>f</i>. LYC. <i>1222</i>.<p><b>Étym</b>. κλείω, θήρ.`

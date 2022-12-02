@@ -1,0 +1,1 @@
+lar[65039]=`<b>μετα·φωνέω-ῶ :<br>      1</b> parler au milieu de, <i>dat</i>. IL. <i>8, 323, etc.</i><br><b>      2</b> adresser la parole à, <i>acc</i>. A.RH. <i>1, 702 ; abs</i>. A.RH. <i>2, 1178 ; 3, 169</i>.`

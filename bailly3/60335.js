@@ -1,0 +1,1 @@
+lar[60335]=`<b>λεοντό·διφρος, ος, ον</b>, au char traîné par des lions, ANTH. <i>6, 94</i>.<p><b>Étym</b>. λ. δίφρος.`

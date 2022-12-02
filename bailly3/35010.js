@@ -1,0 +1,1 @@
+lar[35010]=`<font color="purple">[ῑ]</font> <i>att. c</i>. ἐνταῦθα, AR. <i>Ach. 152</i> ; DÉM. <i>830, 18 ; avec insert. de</i> γε, ἐνγεταυθί, AR. <i>Th. 646</i>.`

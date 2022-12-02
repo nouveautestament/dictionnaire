@@ -1,0 +1,1 @@
+lar[79931]=`<font color="purple">[ᾰῐ]</font> <i>seul. au dat. pl. fém. épq. dans les locut.</i> : φρεσὶ πευκαλίμῃσιν, IL. <i>8, 366 ; 14, 165 ; 15, 81 ; 20, 35, etc.</i> ; HÉS. <i>fr. 33 Gaisford</i> ; πραπίδεσσιν πευκαλίμῃσιν, ORACL. (DL. <i>1, 30), et postér. au neutre</i> : πευκαλίμοις μήδεσι, ANTH. <i>App. 299,</i> prudent, sage, réfléchi.<p><b>Étym</b>. πεύκη.`

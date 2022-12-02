@@ -1,0 +1,1 @@
+lar[94363]=`<b>συμ·προκόπτω</b>, progresser ensemble <i>ou</i> en même temps, NICOM. <i>Arithm. 97</i>.`

@@ -1,0 +1,1 @@
+lar[71730]=`<b>ας (ἡ)</b> nourriture prise en commun, JOS. <i>A.J. 18, 6, 1</i>.<p><b>Étym</b>. ὁμότροφος.`

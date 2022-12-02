@@ -1,0 +1,1 @@
+lar[90427]=`<b>ου (ὁ)</b> Sippios, <i>h</i>. PLUT. <i>Cato mi. 3</i>.`

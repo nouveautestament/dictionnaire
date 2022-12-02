@@ -1,0 +1,1 @@
+lar[33497]=`<i>adv.</i> :<br><b>      1</b> avec véhémence, THC. <i>3, 82</i>.<br><b>      2</b> <i>p. suite,</i> follement, sans raison, ISOCR. <i>145e</i>.`

@@ -1,0 +1,1 @@
+lar[11294]=`<b>ἀ·παπαί</b> <font color="purple">[ᾱᾰ]</font> <i>interj</i>. oh dieux ! hélas ! AR. <i>Vesp. 309</i>.<p><b>Étym</b>. ἆ, παπαί.`

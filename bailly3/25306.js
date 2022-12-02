@@ -1,0 +1,1 @@
+lar[25306]=`<b>εως (ἡ)</b> transpiration, <i>d’où</i> évaporation, épanchement, GEOP. <i>5, 28, 1 ; 15, 2, 26</i>.<p><b>Étym</b>. διαπνέω.`

@@ -1,0 +1,1 @@
+lar[110567]=`<b>ιος (ὁ)</b> <font color="purple">[κᾰ]</font> <i>c</i>. ὠτοκαταξίας AR. <i>fr. 72</i> ; LUC. <i>Lex. 9</i>.`

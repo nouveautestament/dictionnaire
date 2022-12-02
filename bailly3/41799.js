@@ -1,0 +1,1 @@
+lar[41799]=`<i>adv</i>., de manière à être connu facilement, THÉON SM. <i>65, 1</i>.`

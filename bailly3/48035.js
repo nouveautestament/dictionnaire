@@ -1,0 +1,1 @@
+lar[48035]=`<b>θυρο·κρουστέω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. θυροκροτέω BAS. <i>1, 272a Migne</i>.<p><b>Étym</b>. θ. κρούω.`

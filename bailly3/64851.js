@@ -1,0 +1,1 @@
+lar[64851]=`<b>μετα·μοσχεύω</b>, transplanter, CHRYS. <i>5, 68</i>.`

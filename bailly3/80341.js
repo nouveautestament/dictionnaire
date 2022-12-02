@@ -1,0 +1,1 @@
+lar[80341]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰᾰ]</font> dessin <i>ou</i> écriture sur un tableau, <i>particul</i>. carte d’un pays, STR. <i>71</i>.<p><b>Étym</b>. πινακογράφος.`

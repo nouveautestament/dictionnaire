@@ -1,0 +1,1 @@
+lar[9359]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans frapper (le cadavre d’Hector), IL. <i>22, 371</i>.`

@@ -1,0 +1,1 @@
+lar[19395]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> chant pour endormir les enfants, SOCR. <i>Ep. 27</i>.<p><b>Étym</b>. βαυκαλάω.`

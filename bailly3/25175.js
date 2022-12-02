@@ -1,0 +1,1 @@
+lar[25175]=`<b>δια·νύττω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διένυξε)</font> piquer fortement, ARISTÉN. <i>1, 19</i>.`

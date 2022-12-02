@@ -1,0 +1,1 @@
+lar[398]=`<b>*ἀγαυρῶς</b> <font color="purple">[ᾰ]</font> <i>adv. seul</i>. <i>• Sup</i>. ἀγαυρότατα, HDT. <i>7, 57,</i> superbement, avec orgueil.`

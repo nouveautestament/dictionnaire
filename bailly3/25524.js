@@ -1,0 +1,1 @@
+lar[25524]=`<b>δια·σκαίρω</b> (<i>seul. part. prés</i>.) parcourir en bondissant, bondir à travers, A.RH. <i>1, 574</i>.`

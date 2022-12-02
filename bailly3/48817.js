@@ -1,0 +1,1 @@
+lar[48817]=`rendre humide, NIC. <i>fr. 3, 16 ; d’où pass</i>. être <i>ou</i> devenir humide, PLUT. <i>M. 954e</i>.<p><b>Étym</b>. ἰκμάς.`

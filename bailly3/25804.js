@@ -1,0 +1,1 @@
+lar[25804]=`<b>δι·αυγάζω :<br>      1</b> briller à travers, <i>en parl. d’un éclair,</i> PLUT. <i>M. 893e.</i><br><b>      2</b> commencer à briller : ἡ ἡμέρα διαυγάζει, NT. <i>2Petr. 1, 19,</i> le jour commence à poindre ; ἅμα τῷ διαυγάζειν, POL. <i>3, 104, 5,</i> au point du jour.`

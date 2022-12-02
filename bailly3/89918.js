@@ -1,0 +1,1 @@
+lar[89918]=`<i>dor</i>. <b>σακίτας, α (ὁ)</b> <font color="purple">[ᾱῑᾱ]</font> agneau nourri dans la bergerie, <i>càd</i>. jeune agneau, THCR. <i>Idyl. 1, 10 ; Epigr. 4, 18</i>.<p><b>Étym</b>. σηκός.`

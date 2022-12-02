@@ -1,0 +1,1 @@
+lar[18513]=`<b>ἀ·χραής, ής, ές</b> <font color="purple">[ρᾱ]</font> non souillé, pur ; NIC. <i>Th. 846</i> ; ANTH. <i>9, 314</i>.<p><b>Étym</b>. <i>cf</i>. ἄχραντος.`

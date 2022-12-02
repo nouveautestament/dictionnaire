@@ -1,0 +1,1 @@
+lar[64524]=`<b>μεσό·κλαστος, ος, ον</b>, brisé par le milieu, PLUT. <i>fr. metr. 2, t. 10, p. 812 Reiske ; t. 5, p. 1288 Wyttenbach</i>.<p><b>Étym</b>. μ. κλάω.`

@@ -1,0 +1,1 @@
+lar[35373]=`<b>ἑξά·κυκλος, ος, ον</b> <font color="purple">[ῠ]</font> à six roues, (<i>litt</i>. à six cercles) HPC. <i>Aër. 291</i>.<p><b>Étym</b>. ἕξ, κύκλος.`

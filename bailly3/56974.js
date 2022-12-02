@@ -1,0 +1,1 @@
+lar[56974]=`<b>κοπρολογέω-ῶ</b>, ramasser du fumier, AR. (<i>Com. fr. 2, 1213).</i><p><b>Étym</b>. κοπρολόγος.`

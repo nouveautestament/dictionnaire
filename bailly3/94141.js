@@ -1,0 +1,1 @@
+lar[94141]=`<b>συμ·πάσσω</b>, saupoudrer, PLUT. <i>M. 89d, 638e</i>.`

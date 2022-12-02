@@ -1,0 +1,1 @@
+lar[5320]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ἄμβιξ, POSIDON. (ATH. <i>152c</i>).`

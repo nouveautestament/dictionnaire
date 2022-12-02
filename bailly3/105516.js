@@ -1,0 +1,1 @@
+lar[105516]=`<b>φίλ·αρχος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime le pouvoir, la domination, PLAT. <i>Phæd. 82c, Rsp. 549a ;</i> τὸ φ. PLUT. <i>M. 793e, c</i>. φιλαρχία.<br><b>      2</b> qui aime le commandement, ATH. <i>397f</i>.<p>•<i> Sup</i>. -ότατος, POL. <i>6, 48, 8</i>.<p><b>Étym</b>. φ. ἀρχή.`

@@ -1,0 +1,1 @@
+lar[33112]=`<b>ατος (τὸ)</b> regard dirigé sur, <i>avec</i> ἐπί <i>et l’acc</i>. XÉN. <i>Cyn. 4, 4</i>.<p><b>Étym</b>. ἐμβλέπω.`

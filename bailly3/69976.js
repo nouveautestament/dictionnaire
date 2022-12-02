@@ -1,0 +1,1 @@
+lar[69976]=`<b>ου (τὸ)</b> ratissoire, racloir, DS. <i>17, 53</i>.<p><b>Étym</b>. ξύω.`

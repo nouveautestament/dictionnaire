@@ -1,0 +1,1 @@
+lar[16230]=`<b>ἀ·στοιχείωτος, ος, ον</b>, ignorant des premiers éléments, PHIL. <i>1, 337</i>.<p><b>Étym</b>. ἀ, στοιχειόω.`

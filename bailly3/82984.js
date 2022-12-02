@@ -1,0 +1,1 @@
+lar[82984]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vers le fleuve <i>ou</i> dans le fleuve, <i>avec mouv</i>. IL. <i>21, 13</i> ; OD. <i>10, 159, etc</i>.<p><b>Étym</b>. π. -δε.`

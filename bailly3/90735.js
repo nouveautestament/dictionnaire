@@ -1,0 +1,1 @@
+lar[90735]=`<b>ου (ὁ)</b> petite jambe, AR. <i>Eccl. 1168</i>.<p><b>Étym</b>. <i>dim. de</i> σκέλος.`

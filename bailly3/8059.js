@@ -1,0 +1,1 @@
+lar[8059]=`<b>ἀνδρο·δόκος, ος, ον</b>, qui reçoit les hommes, P. SIL. <i>Ecphr. amb. 118</i>.<p><b>Étym</b>. ἀνήρ, δέκομαι <i>p</i>. δέχομαι.`

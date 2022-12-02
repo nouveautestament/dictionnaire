@@ -1,0 +1,1 @@
+lar[20697]=`<b>βραχυ·κωλία, ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> brièveté des membres de phrase, HERMOG. <i>p. 337</i>.<p><b>Étym</b>. βραχύκωλος.`

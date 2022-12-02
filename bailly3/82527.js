@@ -1,0 +1,1 @@
+lar[82527]=`<b>πολύ·φορτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> très chargé, MAN. <i>3, 241</i>.<br><b>      2</b> qui possède beaucoup, très riche, Ps.-PLUT. <i>V. Hom</i>.<p><b>Étym</b>. π. φόρτος.`

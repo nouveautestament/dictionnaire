@@ -1,0 +1,1 @@
+lar[4667]=`<b>Ἀλκί·φρων, ονος (ὁ)</b> Alkiphrôn (Alciphron) :<br><b>      1</b> <i>épistolographe</i>.<br><b>      2</b> <i>autre,</i> THC. <i>5, 59</i>.<p><b>Étym</b>. <i>v</i>. ἀλκίφρων.`

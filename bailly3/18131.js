@@ -1,0 +1,1 @@
+lar[18131]=`<b>ἀφ·ίπταμαι</b> <font color="darkgreen">(<i>part. ao</i>. ἀποπτάμενος)</font> s’envoler, EUR. <i>I.A. 1608</i> ; PLUT. LUC.<p><b>Étym</b>. ἀπό, ἵπταμαι.`

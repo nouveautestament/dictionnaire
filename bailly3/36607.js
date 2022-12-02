@@ -1,0 +1,1 @@
+lar[36607]=`<b>ἐπ·ανακρέμαμαι</b> (<i>seul. prés. inf</i>. -κρέμασθαι) être dépendant, ARSTT. <i>Pol. 6, 4, 7</i>.`

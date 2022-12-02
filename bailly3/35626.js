@@ -1,0 +1,1 @@
+lar[35626]=`<b>άδος (ἡ)</b> le nombre six, demi-douzaine, PLUT. <i>Lyc. 5, M. 738f, 1018d ;</i> LUC. <i>Sat. 4</i> ; THEOL. <i>33</i>.<p><b>Étym</b>. ἕξ.`

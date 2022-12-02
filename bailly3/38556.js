@@ -1,0 +1,1 @@
+lar[38556]=`<b>ἐπι·νύσσω</b>, piquer à la surface de la peau, LUC. <i>Lex. 11</i> ; SOR. <i>Fract. 252, 18 Id.</i> ; ANTYLL. (ORIB. <i>4, 427 B.-Dar</i>.).`

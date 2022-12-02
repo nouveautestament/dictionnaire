@@ -1,0 +1,1 @@
+lar[93396]=`<b>συγ·κάτειμι</b> <font color="darkgreen">(<i>impf</i>. -κατῄειν)</font> descendre ensemble <i>ou</i> avec, <i>dat</i>. LUC. <i>D. mort. 27, 7 ; abs</i>. ARSTT. <i>Probl. 12, 12 ; en parl. de cheveux,</i> tomber (sur les oreilles) avec, <i>dat</i>. PHILSTR. <i>Im. p. 779</i>.`

@@ -1,0 +1,1 @@
+lar[4443]=`<b>ἁλι·εργής, ής, ές</b> <font color="purple">[ᾰ]</font> qui travaille en mer, pêcheur, OPP. <i>H. 4, 635</i>.<p><b>Étym</b>. ἅλς, ἔργον.`

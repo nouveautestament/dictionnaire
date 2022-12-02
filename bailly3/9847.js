@@ -1,0 +1,1 @@
+lar[9847]=`<b>ἀντι·δικάζομαι</b> <font color="purple">[δῐ]</font> plaider contre, LYS. (POLL. <i>8, 24</i>).`

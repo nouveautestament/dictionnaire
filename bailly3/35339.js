@@ -1,0 +1,1 @@
+lar[35339]=`<b>ος</b> <i>ou</i> <b>α, ον</b> <font color="purple">[ῐδ]</font> subit, soudain, HIÉROCL. (STOB. <i>479, 27).</i><p>➳ <i>Fém</i>. -α, PLAT. <i>Crat. 414a</i>.<p><b>Étym</b>. ἐξαίφνης.`

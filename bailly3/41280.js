@@ -1,0 +1,1 @@
+lar[41280]=`<i>adv</i>., avec des chances diverses, HDT. <i>8, 11</i>.<p><b>Étym</b>. ἑτεραλκής.`

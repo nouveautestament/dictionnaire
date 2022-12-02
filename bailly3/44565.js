@@ -1,0 +1,1 @@
+lar[44565]=`<b>ατος (τὸ) :<br>   I</b> recherche :<br><b>      1</b> <i>en gén</i>. EUR. <i>Bacch. 1218, au plur.</i><br><b>      2</b> recherche scientifique <i>ou</i> philosophique, question, PLAT. <i>Leg. 630e, 891c, etc. ; avec περί et le gén. (cf. lat</i>. quæstio de).<br><b>   II</b> objet de recherche, SOPH. <i>O.R. 278</i> ; EUR. <i>Bacch. 1139</i>.<p><b>Étym</b>. ζητέω.`

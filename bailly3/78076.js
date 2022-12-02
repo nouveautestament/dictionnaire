@@ -1,0 +1,1 @@
+lar[78076]=`<b>πεντεκαιδεκα·ναΐα, ας (ἡ)</b> <font color="purple">[ᾰνᾱ]</font> flotte de quinze vaisseaux, DÉM. <i>183, 2</i>.<p><b>Étym</b>. π. ναῦς.`

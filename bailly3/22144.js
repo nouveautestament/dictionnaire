@@ -1,0 +1,1 @@
+lar[22144]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Glykéra (Glycère), <i>f</i>. STR. <i>410</i> ; LUC. <i>D. mer. 1</i> ; ANTH. <i>5, 218</i> ; A. PL. <i>249</i>.<p><b>Étym</b>. γλυκερός.`

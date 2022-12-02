@@ -1,0 +1,1 @@
+lar[30442]=`<b>εἱληθερέω-ῶ</b>, se chauffer au soleil, HPC. <i>485, 22 ; 486, 10</i> ; XÉNARQ. (ATH. <i>569b</i>).<br><b><i>Moy.</i></b> <i>m. sign</i>. LUC. <i>Rh. præc. 17</i>.<p><b>Étym</b>. εἱληθερής.`

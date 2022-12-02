@@ -1,0 +1,1 @@
+lar[42408]=`<b>εὐ·κατόρθωτος, ος, ον</b>, qu’il est facile de mener à bonne fin, DS. <i>Exc. Vat. p. 101</i>.<p><b>Étym</b>. εὖ, κατορθόω.`

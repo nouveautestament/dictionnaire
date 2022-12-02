@@ -1,0 +1,1 @@
+lar[106338]=`<b>φλεβο·τόμος, ος, ον</b>, qui coupe les veines : <i>subst</i>. τὸ φλεβοτόμον, LUC. <i>Ind. 29</i> ; HIPPIATR. <i>p. 876, etc. ; ou</i> ὁ φλεβοτόμος, GAL. <i>2, 387,</i> instrument pour les saignées, lancette.<p><b>Étym</b>. φλέψ, τέμνω.`

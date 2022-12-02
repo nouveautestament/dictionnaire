@@ -1,0 +1,1 @@
+lar[31645]=`<b>ἐκ·μαλάσσω</b>, <i>att</i>. <b>ἐκμαλάττω</b> <font color="purple">[μᾰ]</font> amollir, NYSS. <i>2, 769b ; fig</i>. PLUT. (STOB. <i>Fl. 1, 189</i>) ; JOS. <i>A.J. 2, 6, 9</i>.`

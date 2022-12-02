@@ -1,0 +1,1 @@
+lar[79181]=`<b>περι·πταίω</b>, se heurter contre, <i>dat</i>. PLUT. <i>Pyrrh. 10</i> ; TRIPHIOD. <i>312</i> ; JOS. <i>A.J. 17, 5, 5 ; fig</i>. ARSTT. <i>fr. 445</i>.`

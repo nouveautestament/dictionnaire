@@ -1,0 +1,1 @@
+lar[66402]=`<i>dor</i>. <b>μολπαστάς, οῦ (ὁ)</b> chanteur, danseur, ANTH. <i>6, 155</i>.<p><b>Étym</b>. μολπάζω.`

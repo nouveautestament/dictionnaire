@@ -1,0 +1,1 @@
+lar[43342]=`<b>Εὐρύ·τιμος, ου (ὁ)</b> <font color="purple">[ῠῑ]</font> Eurytimos, <i>h</i>. THC. <i>1, 28</i>.<p><b>Étym</b>. <i>v</i>. εὐρύτιμος.`

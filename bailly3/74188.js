@@ -1,0 +1,1 @@
+lar[74188]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> exposé <i>ou</i> sujet aux émotions, à la souffrance, JUL. <i>199c</i>.<p><b>Étym</b>. πάθημα.`

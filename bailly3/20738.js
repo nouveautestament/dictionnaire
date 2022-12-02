@@ -1,0 +1,1 @@
+lar[20738]=`<b>βραχύ·τομος, ος, ον</b> <font color="purple">[ᾰῠ]</font> coupé <i>ou</i> taillé court, TH. <i>C.P. 3, 2, 3</i>.<p><b>Étym</b>. βρ. τέμνω.`

@@ -1,0 +1,1 @@
+lar[31119]=`<b>οῦ (ὁ)</b> action de faire jaillir par ébullition, SPT. <i>Nah. 2, 10</i> ; SYMM. <i>Lev. 13, 6</i>.<p><b>Étym</b>. ἐκβράζω.`

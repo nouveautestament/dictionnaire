@@ -1,0 +1,1 @@
+lar[57890]=`<b>η, ον</b> <font color="purple">[ῑᾰῐ]</font> <i>c</i>. κρίθινος, POLYEN <i>4, 3, 32</i>.`

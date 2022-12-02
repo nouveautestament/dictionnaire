@@ -1,0 +1,1 @@
+lar[87513]=`<i>dans la locut</i>. πυγμῇ νίψασθαι, NT. <i>Marc. 7, 3,</i> se laver avec soin <i>ou</i> souvent.<p><b>Étym</b>. <i>cf</i>. πυκινός, πυκνός.`

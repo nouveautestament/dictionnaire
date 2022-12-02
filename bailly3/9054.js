@@ -1,0 +1,1 @@
+lar[9054]=`<b>ἀν·ίδρυτος, ος, ον</b> <font color="purple">[ῡ]</font> non fixé, <i>d’où</i> :<br><b>      1</b> vagabond, EUR. <i>I.T. 971</i>.<br><b>      2</b> instable, chancelant, DH. <i>1, 15</i> ; PLUT. <i>M. 828d, 925f ; fig</i>. PHIL. <i>2, 112</i>.<br><b>      3</b> capricieux, insociable, DÉM. <i>786, 10</i>.<p><b>Étym</b>. ἀν-, ἱδρύω.`

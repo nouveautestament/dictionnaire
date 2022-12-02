@@ -1,0 +1,1 @@
+lar[93456]=`<b>ός, όν :<br>      1</b> enfermé, enveloppé, LUC. <i>Trag. 64</i>.<br><b>      2</b> qui a la faculté d’enfermer, ARSTT. <i>H.A. 4, 4, 11</i>.<br><b>      3</b> ἔργον συγκλειστόν, SPT. <i>3Reg. 7, 28, c</i>. σύγκλεισμα.<p><b>Étym</b>. <i>vb. de</i> συγκλείω.`

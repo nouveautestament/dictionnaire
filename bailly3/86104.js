@@ -1,0 +1,1 @@
+lar[86104]=`<b>προσ·λεπτύνω</b>, amincir, exténuer, HPC. <i>Mochl. 848</i>.`

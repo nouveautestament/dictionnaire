@@ -1,0 +1,1 @@
+lar[84395]=`<b>ου (ὁ) :<br>      1</b> mendiant, gueux, OD. <i>17, 352, 449</i>.<br><b>      2</b> charlatan, ARTÉM. <i>1, Præf. p. 2, 13</i>.<p><b>Étym</b>. *προΐξ.`

@@ -1,0 +1,1 @@
+lar[16703]=`<b>ἀ·τάρχυτος, ος, ον</b> <font color="purple">[ῡ]</font> sans sépulture, Ps.-PHOCYL. <i>99</i> ; LYC. <i>1326</i>.<p><b>Étym</b>. ἀ, ταρχύω.`

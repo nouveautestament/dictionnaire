@@ -1,0 +1,1 @@
+lar[52752]=`<i>adv</i>., d’une manière correspondante <i>ou</i> proportionnée à, <i>dat</i>. ARR. <i>Epict. 1, 22 ; abs</i>. ARSTT. <i>Metaph. 6, 17, 6</i>.<p><b>Étym</b>. κατάλληλος.`

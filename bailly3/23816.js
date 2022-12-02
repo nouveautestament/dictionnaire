@@ -1,0 +1,1 @@
+lar[23816]=`<b>ου (τὸ)</b> Delphion, <i>mt</i>. ARSTT. <i>Mir. 111</i>.`

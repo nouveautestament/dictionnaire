@@ -1,0 +1,1 @@
+lar[110104]=`<font color="purple">[ῑ]</font> <i>forme att. renforcée pour</i> ὧδε, AR. <i>Pax 57, etc.</i> ; PLAT. <i>Prot. 353c, Gorg. 477c, etc</i>.`

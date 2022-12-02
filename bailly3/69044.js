@@ -1,0 +1,1 @@
+lar[69044]=`<b>νοτο·λιβυκός, ή, όν</b> <font color="purple">[ῐῠ]</font> du sud-ouest, PROCL. <i>Ptol. 1, 21, p. 58, etc</i>.<p><b>Étym</b>. νότος, λίψ.`

@@ -1,0 +1,1 @@
+lar[73968]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui sert fortifier, à affermir, <i>gén</i>. SEXT. <i>M. 7, 23</i>.<p><b>Étym</b>. ὀχυρόω.`

@@ -1,0 +1,1 @@
+lar[17658]=`<b>αὐτο·προαίρετος, ος, ον :<br>      1</b> choisi <i>ou</i> décidé librement, Ps.-PLUT. <i>V. Hom. 105</i>.<br><b>      2</b> qui décide <i>ou</i> agit de soi-même, <i>càd</i>. librement, ARSTT. <i>Plant. 1, 2, 17</i> ; RHÉT. <i>4, 27 W</i>.<p><b>Étym</b>. αὐ. προαιρέω.`

@@ -1,0 +1,1 @@
+lar[69680]=`<b>ξυλο·πέταλον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>autre n. de la plante</i> ξυλόλωτος, DIOSC. <i>4, 42</i>.`

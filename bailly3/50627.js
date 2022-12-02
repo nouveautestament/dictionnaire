@@ -1,0 +1,1 @@
+lar[50627]=`<b>κακ·ανδρία, ας (ἡ)</b> <font color="purple">[ᾰκ]</font> lâcheté, SOPH. <i>Aj. 1014</i> ; EUR. <i>Rhes. 814</i>.<p><b>Étym</b>. κ. ἀνήρ.`

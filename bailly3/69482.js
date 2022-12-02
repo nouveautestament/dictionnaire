@@ -1,0 +1,1 @@
+lar[69482]=`<b>ου (τὸ)</b> troupe mercenaire, POL. <i>29, 8, 6</i>.<p><b>Étym</b>. ξενολόγος.`

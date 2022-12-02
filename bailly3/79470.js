@@ -1,0 +1,1 @@
+lar[79470]=`<b>περι·τείρω</b>, tourmenter, troubler, ORPH. <i>Arg. 876</i>.`

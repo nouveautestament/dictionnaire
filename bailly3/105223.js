@@ -1,0 +1,1 @@
+lar[105223]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. φήγινος ORPH. <i>Arg. 66</i> ; ANTH. <i>6, 33</i>.`

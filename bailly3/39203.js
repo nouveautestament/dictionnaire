@@ -1,0 +1,1 @@
+lar[39203]=`<b>*ἐπι·συγκάμπτω</b>, <i>seul. ion</i>. <b>ἐπιξυγκάμπτω</b>, courber en outre ensemble, HPC. <i>Art. 824</i>.`

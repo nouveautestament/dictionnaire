@@ -1,0 +1,1 @@
+lar[108592]=`<b>χλοερ·ῶπις, ιδος</b>, <i>adj. f</i>. d’aspect verdâtre, P. SIL. <i>Ecphr. ag. Soph. 388</i>.<p><b>Étym</b>. χλ. ὤψ.`

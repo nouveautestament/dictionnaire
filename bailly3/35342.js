@@ -1,0 +1,1 @@
+lar[35342]=`<b>ἐξ·ακανθίζω</b> <font color="purple">[ᾰκ]</font> ôter les épines de, <i>acc. fig</i>. CIC. <i>Att. 6, 6, 1</i>.<p><b>Étym</b>. ἐξ, ἄκανθα.`

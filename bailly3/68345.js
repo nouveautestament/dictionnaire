@@ -1,0 +1,1 @@
+lar[68345]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> : αἶα, A.RH. <i>4, 337,</i> territoire de Nestos.<p><b>Étym</b>. Νέστος.`

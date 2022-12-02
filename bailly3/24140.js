@@ -1,0 +1,1 @@
+lar[24140]=`<b>εσσα, εν</b>, destructeur, funeste, ORPH. <i>Arg. 921</i>.<p><b>Étym</b>. δηλέομαι ; <i>cf</i>. δηλήμων.`

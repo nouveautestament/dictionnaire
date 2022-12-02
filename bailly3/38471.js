@@ -1,0 +1,1 @@
+lar[38471]=`<b>ητος (ἡ)</b> qualité d’un nombre ἐπιμόριος, JAMBL. <i>Nicom. ar. p. 61</i>.<p><b>Étym</b>. <i>v</i>. ἐπιμόριος.`

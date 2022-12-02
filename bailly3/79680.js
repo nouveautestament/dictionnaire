@@ -1,0 +1,1 @@
+lar[79680]=`<b>εως (ἡ)</b> <font color="purple">[ῑσ]</font> onction tout autour, DIOSC. <i>1, 130</i>.<p><b>Étym</b>. περιχρίω.`

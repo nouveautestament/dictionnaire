@@ -1,0 +1,1 @@
+lar[68944]=`<i>adv</i>., à la façon d’un législateur, CHRYS. <i>3, 485</i>.`

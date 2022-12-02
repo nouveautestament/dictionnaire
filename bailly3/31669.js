@@ -1,0 +1,1 @@
+lar[31669]=`<b>ἐκ·μελίζω</b>, démembrer, mettre en lambeaux, SPT. <i>4Macc. 10, 5 et 8</i>.`

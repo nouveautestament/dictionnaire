@@ -1,0 +1,1 @@
+lar[33487]=`<b>ἐμ·πλευρόω-ῶ</b>, se précipiter sur le flanc de qqn, l’assaillir, SOPH. <i>fr. 50</i>.<p><b>Étym</b>. ἐν, πλευρά.`

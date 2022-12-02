@@ -1,0 +1,1 @@
+lar[42839]=`<b>οῦ (ὁ)</b> action de mettre en bon chemin, P. ÉG. <i>6, 59</i>.<p><b>Étym</b>. εὐοδιάζω.`

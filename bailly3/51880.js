@@ -1,0 +1,1 @@
+lar[51880]=`<b>ας (ἡ)</b> production de fruits, fécondité, TH. <i>C.P. 1, 5, 5</i> ; PLUT. <i>M. 640b</i>.<p><b>Étym</b>. καρπογόνος.`

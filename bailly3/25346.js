@@ -1,0 +1,1 @@
+lar[25346]=`<b>ή, όν :<br>      1</b> qui est dans l’embarras, qui hésite, PLUT. <i>M. 395a.</i><br><b>      2</b> <i>t. de gr</i>. qui marque le doute, dubitatif, DYSC. <i>Conj. 490, 1</i>.<p><b>Étym</b>. διαπορέω.`

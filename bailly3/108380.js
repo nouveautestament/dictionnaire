@@ -1,0 +1,1 @@
+lar[108380]=`<b>χηραμο·δύτης, ου</b> <font color="purple">[ᾰ, ῠ, <i>mais ῡ à l’arsis</i>]</font> <i>adj. m</i>. qui s’enfonce dans des trous, ANTH. <i>7, 295</i>.<p><b>Étym</b>. χηραμός, δύω.`

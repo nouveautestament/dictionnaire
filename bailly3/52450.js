@@ -1,0 +1,1 @@
+lar[52450]=`<b>ΐκος (ἡ)</b> <font color="purple">[ᾰᾱ]</font> tempête, ouragan, CALL. <i>Dian. 114</i> ; A.RH. <i>3, 1376</i>.<p><b>Étym</b>. καταΐσσω.`

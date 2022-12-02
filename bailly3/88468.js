@@ -1,0 +1,1 @@
+lar[88468]=`<b>Ῥηξί·μαχος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Rhèximakhos, <i>h</i>. DÉMAR. (PLUT. <i>Parall. min. 16).</i><p><b>Étym</b>. ῥήγνυμι, μάχη.`

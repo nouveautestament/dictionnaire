@@ -1,0 +1,1 @@
+lar[81716]=`<b>πολυ·άντυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> à plusieurs rebords, P. SIL. <i>Ecphr. amb. 198</i>.<p><b>Étym</b>. π. ἄ.`

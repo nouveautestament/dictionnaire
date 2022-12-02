@@ -1,0 +1,1 @@
+lar[107563]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῑᾰ]</font> <i>dim. de</i> χαλινός, ARR. <i>Epict. 4, 1, 80</i>.`

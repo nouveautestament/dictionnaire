@@ -1,0 +1,1 @@
+lar[88012]=`<b>ας (ἡ) :<br>      1</b> signaux par le feu, POL. <i>10, 43, 1, etc.</i><br><b>      2</b> nouvelles annoncées par des signaux de feu, POL. <i>10, 45, 8</i> ; PHIL. BYZ. <i>Bel. 90, 37</i>.<p><b>Étym</b>. πυρσεύω.`

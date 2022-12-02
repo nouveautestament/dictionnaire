@@ -1,0 +1,1 @@
+lar[20487]=`<b>βού·νομος, ος, ον</b>, où paissent les bœufs, ESCHL. <i>fr. 243</i> ; SOPH. <i>El. 181</i>.<p><b>Étym</b>. βοῦς, νέμω.`

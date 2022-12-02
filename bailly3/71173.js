@@ -1,0 +1,1 @@
+lar[71173]=`<b>ας (ἡ)</b> état d’une chose entière, ensemble complet, intégrité, DL. <i>7, 107 ; d’où</i> état sain, SPT. <i>Esaï. 1, 6</i>.<p><b>Étym</b>. ὁλόκληρος.`

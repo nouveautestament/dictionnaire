@@ -1,0 +1,1 @@
+lar[17653]=`<b>αὐτο·πραγέω-ῶ</b> (<i>seul. inf. prés</i>.) <font color="purple">[ᾱ]</font> agir à sa guise, être indépendant, STR. <i>355</i>.<p><b>Étym</b>. αὐ. πράσσω.`

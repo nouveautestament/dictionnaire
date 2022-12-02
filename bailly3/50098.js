@@ -1,0 +1,1 @@
+lar[50098]=`<b>ἰχνηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> suivre à la piste, <i>acc</i>. PHIL. <i>1, 12 ; 2, 42</i>.<p><b>Étym</b>. ἰχνηλάτης.`

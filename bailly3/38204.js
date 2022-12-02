@@ -1,0 +1,1 @@
+lar[38204]=`<b>ου</b>, <i>voc</i>. <b>-η (ὁ)</b> Épikydeidès, <i>h</i>. ORACL. (HDT. <i>6, 86).</i><p><b>Étym</b>. <i>patr. de</i> Ἐπικύδης, <i>cf</i>. Ἐπικυδίδας.`

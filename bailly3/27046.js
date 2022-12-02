@@ -1,0 +1,1 @@
+lar[27046]=`<b>δισσό·κερας, ατος (ὁ, ἡ)</b> à deux cornes, ORACL. (PORPH. <i>dans</i> EUS. <i>P.E. 124b, 201c</i>).<p><b>Étym</b>. δισσός, κέρας.`

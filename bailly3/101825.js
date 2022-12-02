@@ -1,0 +1,1 @@
+lar[101825]=`<b>ὑμνο·λόγος, ος, ον</b>, qui chante des hymnes, NAZ.<p><b>Étym</b>. ὕμνος, λέγω.`

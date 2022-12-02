@@ -1,0 +1,1 @@
+lar[8083]=`<b>ἀνδρ·ολέτειρα, ας</b>, <i>adj. f</i>. funeste aux hommes, ESCHL. <i>Ag. 1465, Sept. 314</i>.<p><b>Étym</b>. ἀνήρ, ὄλλυμι.`

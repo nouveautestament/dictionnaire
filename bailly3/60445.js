@@ -1,0 +1,1 @@
+lar[60445]=`<b>λεπτό·τρητος, ος, ον</b>, percé de petits trous, DIOSC. <i>5, 138</i>.<p><b>Étym</b>. λ. τρητός.`

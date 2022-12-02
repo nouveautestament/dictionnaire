@@ -1,0 +1,1 @@
+lar[20009]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱ]</font> bogue, <i>poisson,</i> AR. <i>fr. 400</i> ; COM. (ATH. <i>286f</i>).<p>➳ <i>Par contr</i>. βῶξ, DIPH. SIPHN. (ATH. <i>356a</i>). <i>Ion</i>. βόηξ, NUMÉN. (ATH. <i>286f</i>).`

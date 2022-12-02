@@ -1,0 +1,1 @@
+lar[92558]=`<b>ατος (τὸ) :<br>      1</b> soutien, appui, EUR. <i>I.A. 617</i> ; PLUT. <i>M. 649b.</i><br><b>      2</b> <i>c</i>. στῆριγξ 2 ; NICOSTR. <i>3, 290 Com. fr.</i> ; PLUT. <i>Cor. 24</i>.<br><b>      3</b> <i>c</i>. στεῖρα <i>ou</i> στερέωμα, NONN. <i>D. 40, 451</i>.<p><b>Étym</b>. στηρίζω.`

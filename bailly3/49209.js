@@ -1,0 +1,1 @@
+lar[49209]=`<b>ἰπόω-ῶ</b> <font color="purple">[ῑ]</font> presser, comprimer, HPC. <i>Art. 813 Littré ; au pass</i>. ESCHL. <i>Pr. 365</i> ; AR. <i>Eq. 924 ; fig</i>. CRAT. (<i>Com. fr. 2, 71).</i><p>➳ <i>Seul. prés. act. et pass. part</i>. ἰπούμενος, ESCHL. AR. <i>ll. cc</i>.<p><b>Étym</b>. ἶπος.`

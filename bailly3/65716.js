@@ -1,0 +1,1 @@
+lar[65716]=`<b>μικρο·μεγέθης, ης, ες</b> <font color="purple">[ῑ]</font> de peu de volume, XÉNOCR. <i>Al. 53</i>.<p><b>Étym</b>. μ. μέγεθος.`

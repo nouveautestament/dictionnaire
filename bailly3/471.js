@@ -1,0 +1,1 @@
+lar[471]=`<b>ἀ·γέλαστος, ος, ον :<br>      1</b> qui ne rit pas, grave, triste, HH. <i>Cer. 200</i> ; ESCHL. <i>Ag. 794</i> ; ἡ ἀγ. πέτρα, APD. <i>1, 5, 1,</i> la Roche triste, <i>où se reposa Dèmèter à la recherche de Perséphonè</i>.<br><b>      2</b> dont on ne rit pas, triste, funeste, ESCHL. <i>Ch. 28</i>.<p><b>Étym</b>. ἀ, γελάω.`

@@ -1,0 +1,1 @@
+lar[106261]=`<b>φιλ·ωρείτης, ου (ὁ)</b> <i>adj. m</i>. qui aime les montagnes, ANTH. <i>6, 96</i>.<p><b>Étym</b>. φιλέω, ὄρος.`

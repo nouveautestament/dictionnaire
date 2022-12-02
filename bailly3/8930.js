@@ -1,0 +1,1 @@
+lar[8930]=`<i>adv</i>., humainement, PLUT. <i>M. 999b ;</i> LUC. <i>Zeux. 4</i>.`

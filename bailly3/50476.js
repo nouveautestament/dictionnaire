@@ -1,0 +1,1 @@
+lar[50476]=`<b>κάθ·υδρος</b> <font color="purple">[ᾰῠ]</font> rempli d’eau, abondant en eau, SOPH. <i>O.C. 158</i> ; POL. <i>5, 24, 4</i>.<p><b>Étym</b>. κ. ὕδωρ.`

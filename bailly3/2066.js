@@ -1,0 +1,1 @@
+lar[2066]=`<b>ἀθλοθετέω-ῶ :<br>      1</b> proposer des prix pour des jeux, <i>en gén</i>. proposer une récompense : τινι, POLYCLIT. (ATH. <i>539b</i>) à qqn.<br><b>      2</b> diriger, organiser, <i>acc</i>. HLD. <i>7, 12</i>.<p><b>Étym</b>. ἀθλοθέτης.`

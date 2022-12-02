@@ -1,0 +1,1 @@
+lar[4161]=`<b>ἀλεὴς ὕπνος (ὁ)</b> sommeil au moment le plus chaud du jour ; <i>sel. d’autres,</i> sommeil qui réchauffe, SOPH. <i>Ph. 859</i>.<p><b>Étym</b>. ἀλέα¹.`

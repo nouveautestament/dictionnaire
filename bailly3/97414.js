@@ -1,0 +1,1 @@
+lar[97414]=`<i>neutre et voc. de</i> τάλας.`

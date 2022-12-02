@@ -1,0 +1,1 @@
+lar[55727]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de tailler la vigne, GEOP. <i>4, 5, 2</i>.<p><b>Étym</b>. κλαδεύω.`

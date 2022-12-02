@@ -1,0 +1,1 @@
+lar[52034]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> mauvais lieu, AR. <i>Eq. 1285</i>.<p><b>Étym</b>. <i>cf</i>. κάσσα.`

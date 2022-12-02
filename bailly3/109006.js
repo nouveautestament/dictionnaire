@@ -1,0 +1,1 @@
+lar[109006]=`<b>χρηστ·οινέω-ῶ</b>, produire de bon vin, STR. <i>637</i>.<p><b>Étym</b>. χρ. οἶνος.`

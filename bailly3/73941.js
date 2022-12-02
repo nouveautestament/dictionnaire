@@ -1,0 +1,1 @@
+lar[73941]=`<i>adv</i>., selon le goût du peuple, PLUT. <i>M. 484b</i>.`

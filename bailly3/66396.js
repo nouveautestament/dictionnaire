@@ -1,0 +1,1 @@
+lar[66396]=`<b>μολοχίτης λίθος (ὁ)</b> <font color="purple">[χῑ]</font> sorte de pierre précieuse, PLIN. <i>H.N. 37, 8</i>.<p><b>Étym</b>. μολόχη.`

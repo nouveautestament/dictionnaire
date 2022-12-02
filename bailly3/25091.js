@@ -1,0 +1,1 @@
+lar[25091]=`<b>δι·αμύσσω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διήμυξε)</font> <i>c</i>. ἀμύσσω, ORIG. <i>éd. Migne, p. 3152</i>.`

@@ -1,0 +1,1 @@
+lar[103589]=`<b>ὑπο·νέομαι</b> <font color="darkgreen">(<i>part. ao. fém</i>. ὑπονησαμένη)</font> pénétrer sous, HPC. <i>279, 43</i>.`

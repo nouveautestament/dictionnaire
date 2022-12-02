@@ -1,0 +1,1 @@
+lar[13175]=`<b>εως (ἡ)</b> chute, <i>particul</i>. chute de choses qui se détachent (fragments d’os, escarres, <i>etc</i>.) HPC. <i>860d ;</i> P. ÉG. <i>6, 79, etc. ; fig</i>. ruine (d’un empire) ATH. <i>530a</i>.<p><b>Étym</b>. ἀποπίπτω.`

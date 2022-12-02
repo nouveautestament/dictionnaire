@@ -1,0 +1,1 @@
+lar[63280]=`<b>μεγα·βρεμέτης, ου</b>, <i>adj. m</i>. au frémissement bruyant, ORPH. <i>Arg. 747</i>.<p><b>Étym</b>. μέγας, βρέμω.`

@@ -1,0 +1,1 @@
+lar[100342]=`<b>τρι·πάτωρ, ορος (ὁ)</b> <font color="purple">[ῐᾰ]</font> père au troisième degré, <i>d’où</i> premier ancêtre, <i>ou sel. d’autres, c</i>. πρόπαππος, bisaïeul, ANTH. <i>15, 25</i>.<p><b>Étym</b>. τρ. πατήρ.`

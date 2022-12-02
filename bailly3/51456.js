@@ -1,0 +1,1 @@
+lar[51456]=`<b>εος-ους (τὸ)</b> poisson de mer, <i>p.-ê</i>. requin, LYC. <i>414</i>.<p><b>Étym</b>. <i>cf</i>. κάμπη².`

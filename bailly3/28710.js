@@ -1,0 +1,1 @@
+lar[28710]=`<b>δύσ·οδος, ος, ον</b> <font color="purple">[ῠ]</font> d’accès difficile, infranchissable, THC. <i>1, 107</i>.<p><b>Étym</b>. δ. ὁδός.`

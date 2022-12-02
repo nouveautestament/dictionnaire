@@ -1,0 +1,1 @@
+lar[17903]=`<b>ἀ·φάρωτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> non cultivé, CALL. <i>fr. 421</i>.<p><b>Étym</b>. ἀ, φαρόω.`

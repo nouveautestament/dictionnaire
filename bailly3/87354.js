@@ -1,0 +1,1 @@
+lar[87354]=`<b>πτερυγ·ωκής, ής, ές</b> <font color="purple">[ῠ]</font> aux ailes rapides, ESCHL. <i>Pr. 286</i>.<p><b>Étym</b>. π. ὠκύς.`

@@ -1,0 +1,1 @@
+lar[27796]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Dracon, XÉNARQ. (ATH. <i>569d</i>).<p><b>Étym</b>. Δράκων.`

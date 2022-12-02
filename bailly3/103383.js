@@ -1,0 +1,1 @@
+lar[103383]=`<b>οῦ (ὁ)</b> action de laver par le bas, lavement, PLUT. <i>M. 974c</i>.<p><b>Étym</b>. ὑποκλύζω.`

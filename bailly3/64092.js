@@ -1,0 +1,1 @@
+lar[64092]=`<i>att</i>. <b>μελιττών, ῶνος (ὁ)</b> ruche pour l’élève des abeilles, SPT. <i>1Reg. 14, 25</i> ; VARR. <i>R.R. 3, 16</i> ; A. GELL. <i>2, 20</i>.<p><b>Étym</b>. μέλισσα.`

@@ -1,0 +1,1 @@
+lar[37742]=`<b>ἐπι·ζηλόω-ῶ</b>, rivaliser pour, disputer la possession de, <i>acc</i>. JUL. <i>103c</i>.`

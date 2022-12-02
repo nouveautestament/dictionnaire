@@ -1,0 +1,1 @@
+lar[43307]=`<b>εὐρύ·νωτος, ος, ον</b> <font color="purple">[ῠ]</font> au large dos, SOPH. <i>Aj. 1251</i>.<p><b>Étym</b>. εὐ. νῶτος.`

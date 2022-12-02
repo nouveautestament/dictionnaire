@@ -1,0 +1,1 @@
+lar[20297]=`<b>ή, όν</b>, de berger, de pâtre, pastoral, ANTH. <i>6, 170</i> ; PLUT. <i>Rom. 12</i>.<p><b>Étym</b>. βοτήρ.`

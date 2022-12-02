@@ -1,0 +1,1 @@
+lar[87826]=`<b>πυρ·ήνεμος, ος, ον</b> <font color="purple">[ῠ]</font> qui souffle <i>ou</i> attise le feu, ANTH. <i>6, 101</i>.<p><b>Étym</b>. πῦρ, ἄνεμος.`

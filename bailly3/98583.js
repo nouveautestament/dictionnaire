@@ -1,0 +1,1 @@
+lar[98583]=`<b>τετρα·κίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῑ]</font> soutenu par quatre colonnes, ORPH. <i>H. Mus. 39</i>.<p><b>Étym</b>. τ. κίων.`

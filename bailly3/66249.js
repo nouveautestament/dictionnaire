@@ -1,0 +1,1 @@
+lar[66249]=`<b>ά, όν</b>, mou, délicat, EUPHOR. <i>fr. 137</i>.<p><b>Étym</b>. μνίον.`

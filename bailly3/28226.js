@@ -1,0 +1,1 @@
+lar[28226]=`<b>δυσ·απότριπτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à enlever par le frottement, à effacer, <i>d’où fig</i>. dont on se débarrasse difficilement, PLUT. <i>M. 55e ;</i> THESSAL. (GAL. <i>10, 86</i>) ; PHIL. <i>1, 459</i>.<p>•<i> Sup</i>. -ότατος, PHIL. <i>1, 615</i>.<p><b>Étym</b>. δ. ἀποτρίβω.`

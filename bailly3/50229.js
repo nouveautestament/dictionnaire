@@ -1,0 +1,1 @@
+lar[50229]=`<b>ης (ἡ)</b> fille de Kadmos, <i>càd</i>. Sémélè, ANTH. <i>App. 51</i>.<p><b>Étym</b>. Κάδμος.`

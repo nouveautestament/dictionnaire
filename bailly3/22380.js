@@ -1,0 +1,1 @@
+lar[22380]=`<b>οῦ (ὁ)</b> murmure, grondement, ANAXANDR. <i>(Bkk. 87</i>) ; M. ANT. <i>9, 37</i> ; SPT. <i>Ex. 16, 7, etc.</i> ; NT. <i>Luc. 6, 1 ; Ap. 6, 1</i>.<p><b>Étym</b>. γογγύζω.`

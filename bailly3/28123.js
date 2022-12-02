@@ -1,0 +1,1 @@
+lar[28123]=`<font color="purple">[ῡ]</font> <i>(seul. prés.) c</i>. ὀδύρομαι, SOPH. <i>O.R. 1218</i> ; EUR. <i>Hec. 740 ; impér. 2 pl</i>. δύρεσθε, ESCHL. <i>Pr. 271 ; part</i>. δυρόμενος, ESCHL. <i>Pers. 582</i> ; EUR. <i>Med. 159</i>.`

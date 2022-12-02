@@ -1,0 +1,1 @@
+lar[61947]=`<font color="purple">[ῡ]</font> <i>c</i>. λυμαίνομαι, POL. <i>5, 5, 8</i>.`

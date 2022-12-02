@@ -1,0 +1,1 @@
+lar[33008]=`<b>εως (ἡ) :<br>      1</b> action de tirer, PLAT. <i>1 Alc. 122c ; particul</i>. action de tendre un arc, PHILSTR. <i>717</i> ; ἕλξις ἀπὸ τῆς χειρός, HÉRON, bandage (d’un arc) à bras franc.<br><b>      2</b> action de traîner, PLAT. <i>Rsp. 391b, au pl.</i><br><b>      3</b> <i>fig</i>. attraction, PLAT. <i>Tim. 80c</i>.`

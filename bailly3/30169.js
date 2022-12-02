@@ -1,0 +1,1 @@
+lar[30169]=`<b>ός, όν</b>, qui travaille de bonne volonté, courageux, XÉN. <i>Eq. 10, 17</i> ; EL. <i>N.A. 4, 43 ; 6, 49</i>.<p><b>Étym</b>. ἐθέλω, ἔργον.`

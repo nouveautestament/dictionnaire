@@ -1,0 +1,1 @@
+lar[84891]=`<b>προ·παραδίδωμι</b> <font color="darkgreen">(<i>f</i>. -παραδώσω, <i>ao</i>. -παρέδωκα, <i>etc</i>.)</font> <font color="purple">[δῐ]</font> transmettre <i>ou</i> enseigner auparavant, CLÉM. <i>564</i>.`

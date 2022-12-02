@@ -1,0 +1,1 @@
+lar[61827]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Lykænè (<i>litt</i>. la Louve) <i>n. de f</i>. LUC. <i>D. mer. 12, 1</i>.<p><b>Étym</b>. <i>v</i>. λύκαινα.`

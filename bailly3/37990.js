@@ -1,0 +1,1 @@
+lar[37990]=`<b>ἐπι·κελευστικός, ή, όν</b>, propre à exciter : τὸ ἐπικελευστικόν, POLYEN <i>5, 16, 4,</i> le signal de l’attaque.<p><b>Étym</b>. ἐπικελεύω.`

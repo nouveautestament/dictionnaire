@@ -1,0 +1,1 @@
+lar[88161]=`<b>(τὸ)</b> <i>indécl</i>. sorte de rhubarbe (<i>Rheum rhabarbarum), p.-ê. originaire de la contrée du fl. Rha,</i> DIOSC. <i>3, 2</i>.`

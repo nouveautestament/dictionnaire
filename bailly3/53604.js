@@ -1,0 +1,1 @@
+lar[53604]=`<b>κατ·αυλίζομαι</b>, s’établir en plein air, camper, séjourner.<p>➳ <i>Ao. pass</i>. κατηυλίσθην, EUR. <i>Rhes. 518</i> ; XÉN. <i>An. 7, 5, 15</i> ; POL. <i>5, 8, 8 ; ou ao. moy</i>. κατηυλισάμην, PLUT. <i>Popl. 22, Pyrrh. 27, etc</i>.`

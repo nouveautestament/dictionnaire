@@ -1,0 +1,1 @@
+lar[105592]=`<b>φιλ·έψιος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime le jeu, NONN. <i>D. 10, 378</i>.<p><b>Étym</b>. φ. ἑψία.`

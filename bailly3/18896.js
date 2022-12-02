@@ -1,0 +1,1 @@
+lar[18896]=`<b>εως (ἡ)</b> transport bachique, EUR. <i>Bacch. 357</i> ; PLUT. <i>M. 1089e</i>.<p><b>Étym</b>. βακχεύω.`

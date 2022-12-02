@@ -1,0 +1,1 @@
+lar[64831]=`<b>*μετα·λωφάω</b>, <i>ion</i>. <b>μετα·λωφέω</b> (<i>seul. impf</i>.) se reposer ensuite <i>ou</i> dans l’intervalle, A.RH. <i>1, 1161</i>.`

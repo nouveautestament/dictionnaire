@@ -1,0 +1,1 @@
+lar[14338]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> atelier de monnayeur, ESCHN. (POLL. <i>7, 103</i>) ; ANT. (HARP.) ; POLL. <i>26, 10, 3</i>.<p><b>Étym</b>. ἀργυροκόπος.`

@@ -1,0 +1,1 @@
+lar[103066]=`<b>ὑπό·γειος, ος, ον</b>, <i>c</i>. ὑπόγαιος, PLAT. <i>Ax. 371a ;</i> TH. (ATH. <i>61e</i>) ; POL. <i>34, 10, 4</i> ; PLUT. <i>M. 779f ;</i> LUC. <i>Philops. 34, etc.</i> ; τὸ ὑπ. PLUT. <i>M. 770e, etc</i>. chambre souterraine.`

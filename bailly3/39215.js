@@ -1,0 +1,1 @@
+lar[39215]=`<b>ἐπι·συμβαίνω :<br>      1</b> arriver <i>ou</i> naître ensuite, SEXT. <i>M. 1, 371</i>.<br><b>      2</b> arriver en outre, ARSTT. <i>Rhet. Al. 4, 2 ; An. pr. 2, 16, 1</i>.<br><b>      3</b> survenir, arriver accidentellement : τινί, SEXT. <i>Eth. 130,</i> à qqn.`

@@ -1,0 +1,1 @@
+lar[108007]=`<b>χαρ·ωπός, ός, όν</b> <font color="purple">[ᾰ]</font> <i>réc. c</i>. χαροπός, ARR. <i>Cyn. 5, 195</i> ; MAN. <i>5, 230</i>.`

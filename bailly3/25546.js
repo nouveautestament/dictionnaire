@@ -1,0 +1,1 @@
+lar[25546]=`<b>δια·σκευωρέω-ῶ</b> (<i>prés. inf</i>.) mettre en ordre, <i>acc</i>. PLAT. <i>Ep. 316a.</i><br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. sbj. 3 pl</i>. -ήσωνται)</font> <i>m. sign</i>. PLAT. <i>Rsp. 540e</i>.`

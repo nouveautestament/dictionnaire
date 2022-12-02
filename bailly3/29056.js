@@ -1,0 +1,1 @@
+lar[29056]=`<font color="purple">[ῠᾰ]</font> <i>poét. et ion. c</i>. δώδεκα, IL. <i>2, 637</i> ; OD. <i>4, 747</i> ; HDT. <i>1, 16, 147, etc.</i> ; PD. <i>N. 4, 28</i>.`

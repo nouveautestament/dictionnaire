@@ -1,0 +1,1 @@
+lar[51010]=`<i>forme barbare p</i>. καλή, AR. <i>Av. 1678</i>.`

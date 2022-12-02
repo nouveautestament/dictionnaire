@@ -1,0 +1,1 @@
+lar[79250]=`<b>περι·σιαλόω-ῶ</b> <font color="purple">[ᾰ]</font> entourer d’une broderie (<i>litt</i>. d’une bavure), SPT. <i>Ex. 39, 5</i>.`

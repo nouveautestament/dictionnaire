@@ -1,0 +1,1 @@
+lar[105730]=`<b>φιλο·γυμναστής, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> qui aime les exercices du corps, HPC. <i>Aër. 280</i> ; PLAT. <i>Rsp. 525d, etc</i>.<p><b>Étym</b>. φ. γυμνάζω.`

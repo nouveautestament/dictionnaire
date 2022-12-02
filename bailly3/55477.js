@@ -1,0 +1,1 @@
+lar[55477]=`<b>ωνος (ὁ)</b> Kinadôn, <i>Spartiate,</i> XÉN. <i>Hell. 3, 3, 5, etc</i>.`

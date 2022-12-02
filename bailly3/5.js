@@ -1,0 +1,1 @@
+lar[5]=`<i>dor. c</i>. ᾗ, <i>dat. fém. sg. de</i> ὅς¹.`

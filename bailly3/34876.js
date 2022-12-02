@@ -1,0 +1,1 @@
+lar[34876]=`<b>εως (ἡ)</b> action d’ébranler, secousse, HÉS. <i>Th. 681, 849</i> ; EUR. <i>Hel. 1363, Bacch. 585</i>.<p><b>Étym</b>. *ἐνέθω.`

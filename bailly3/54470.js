@@ -1,0 +1,1 @@
+lar[54470]=`<b>ή, όν</b>, fait en bois de cèdre, EUR. <i>Or. 1371</i>.<p><b>Étym</b>. <i>vb. de</i> κεδρόω.`

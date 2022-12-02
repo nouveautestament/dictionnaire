@@ -1,0 +1,1 @@
+lar[54838]=`<b>κερασ·κόμη, ης (ἡ)</b> panais, <i>plante potagère,</i> DIOSC. <i>3, 59</i>.<p><b>Étym</b>. κέρας, κόμη.`

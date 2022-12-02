@@ -1,0 +1,1 @@
+lar[75568]=`<b>παρα·ζηλόω-ῶ :<br>      1</b> rendre jaloux, envieux, SPT. <i>1Reg. 14, 22, etc.</i> ; NT. <i>Rom. 10, 19</i>.<br><b>      2</b> être ennuyé, <i>avec</i> ἐν <i>et le dat</i>. SPT. <i>Ps. 36, 1</i>.`

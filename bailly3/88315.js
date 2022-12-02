@@ -1,0 +1,1 @@
+lar[88315]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en forme de rave, GAL. <i>2, 394</i>.<p><b>Étym</b>. ῥαφάνη, -δόν.`

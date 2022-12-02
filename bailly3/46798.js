@@ -1,0 +1,1 @@
+lar[46798]=`<b>θεο·στύγητος, ος, ον</b> <font color="purple">[ῠ]</font> haï des dieux, ESCHL. <i>Ch. 635</i>.<p><b>Étym</b>. θ. στυγέω.`

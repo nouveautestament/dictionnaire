@@ -1,0 +1,1 @@
+lar[6042]=`<b>Ἀμφι·άλη, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> Amphialè, <i>f</i>. Q. SM. <i>10, 222</i>.<p><b>Étym</b>. <i>cf</i>. ἀμφίαλος.`

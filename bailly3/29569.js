@@ -1,0 +1,1 @@
+lar[29569]=`<b>ἐγ·κατασπάω-ῶ</b> (<i>pf. pass. part</i>. ἐγκατεσπασμένη) tirer d’en haut dans, <i>dat</i>. NYSS. <i>1, 878b</i>.<p><b>Étym</b>. ἐν, κ.`

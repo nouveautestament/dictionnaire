@@ -1,0 +1,1 @@
+lar[3880]=`<b>ἀκρο·χλίαρος, ος, ον</b> <font color="purple">[ῑᾰ]</font> chaud en dessus, qui commence à chauffer, DIOSC. <i>2, 55</i>.<p>➳ <i>Ion</i>. -ίερος, HPC. <i>Acut. 394</i>.<p><b>Étym</b>. ἄ. χλιαρός.`

@@ -1,0 +1,1 @@
+lar[27328]=`<b>ος, ον</b>, d’esclave, servile, ANTH. <i>9, 407</i>.<p><b>Étym</b>. δμώς.`

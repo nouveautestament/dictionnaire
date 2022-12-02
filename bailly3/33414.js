@@ -1,0 +1,1 @@
+lar[33414]=`<i>adv</i>., périodiquement, CORN. <i>155</i>.`

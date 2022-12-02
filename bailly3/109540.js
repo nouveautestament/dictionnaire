@@ -1,0 +1,1 @@
+lar[109540]=`<b>ου (τὸ)</b> instrument à cordes, <i>sorte de harpe,</i> TH. <i>H.P. 5, 7, 6</i> ; PLUT. <i>M. 713c, 827a, Them. 2, Ant. 24</i> ; SEXT. <i>p. 748, 17 ; particul</i>. l’instrument appelé μάγαδις, APD. (ATH. <i>636f</i>), <i>ou</i> l’instrument appelé τρίγωνον, ARSTT. <i>Probl. 19, 23, 2</i>.<p><b>Étym</b>. ψάλλω.`

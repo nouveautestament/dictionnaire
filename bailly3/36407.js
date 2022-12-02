@@ -1,0 +1,1 @@
+lar[36407]=`<b>ἐπ·αιγίζω</b>, <i>f</i>. ίσω, s’élancer avec impétuosité sur <i>ou</i> dans, <i>abs</i>. IL. <i>2, 148</i> ; OD. <i>15, 293</i> ; ALCIPHR. <i>3, 42 ; avec le dat</i>. OPP. <i>C. 2, 125 ; avec l’acc</i>. OPP. <i>H. 2, 583</i>.<p><b>Étym</b>. ἐπί, αἰγίς.`

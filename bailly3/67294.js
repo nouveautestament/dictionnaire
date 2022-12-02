@@ -1,0 +1,1 @@
+lar[67294]=`<b>οῦ (ὁ)</b> éruption de verrues accompagnée de fourmillement, GAL. <i>l. 3</i> περὶ εὐπορίστων, <i>p. 450, 36</i>.<p><b>Étym</b>. μυρμηκιάω.`

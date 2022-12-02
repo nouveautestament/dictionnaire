@@ -1,0 +1,1 @@
+lar[50004]=`<b>ης (ἡ)</b> <font color="purple">[ῑμ]</font> Iphthimè :<br><b>      1</b> <i>sœur de Pénélope,</i> OD. <i>4, 797</i>.<br><b>      2</b> <i>fille de Dôros,</i> NONN. <i>D. 11, 114 ; 18, 315</i>.<p><b>Étym</b>. <i>fém. de</i> ἴφθιμος.`

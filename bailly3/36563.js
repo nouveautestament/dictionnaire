@@ -1,0 +1,1 @@
+lar[36563]=`<i>adv</i>., en un sens supérieur <i>ou</i> sublime, ORIG. <i>3, 868 Migne</i> ; BAS. <i>1, 288 Migne</i>.<p><b>Étym</b>. ἐπαναβαίνω.`

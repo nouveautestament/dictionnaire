@@ -1,0 +1,1 @@
+lar[54116]=`<b>κατ·οκλάζω</b>, fléchir le genou, OPP. <i>C. 3, 473</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. STR. <i>163</i>.`

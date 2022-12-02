@@ -1,0 +1,1 @@
+lar[14710]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰτ]</font><br><b>      1</b> gouvernement des plus puissants, aristocratie, THC. <i>3, 82</i> ; PLAT. <i>Pol. 301a.</i><br><b>      2</b> gouvernement idéal des meilleurs, <i>càd</i>. des plus honnêtes citoyens, PLAT. <i>Menex. 238d ;</i> ARSTT. <i>Pol. 4, 7, etc</i>.`

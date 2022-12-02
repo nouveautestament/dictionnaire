@@ -1,0 +1,1 @@
+lar[35272]=`<b>ἐξ·αγωνίζομαι</b>, <i>f. att</i>. -ιοῦμαι <font color="purple">[ᾰ]</font> combattre à outrance : τινι, EUR. <i>H.f. 155,</i> contre qqn ; περί τινος, DS. <i>13, 73,</i> pour qqe ch.`

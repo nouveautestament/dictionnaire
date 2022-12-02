@@ -1,0 +1,1 @@
+lar[106395]=`<b>ίδος</b> <font color="purple">[φλῑ]</font> <i>adj. f. c</i>. Φλιούντειος A.RH. <i>4, 568</i>.`

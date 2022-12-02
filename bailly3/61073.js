@@ -1,0 +1,1 @@
+lar[61073]=`<b>λιθο·ποιός, ός, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui pétrifie, LUC. <i>Im. 1</i>.<br><b>      2</b> qui engendre la pierre, A. APHR. <i>Probl. 1, 109</i>.<p><b>Étym</b>. λ. ποιέω.`

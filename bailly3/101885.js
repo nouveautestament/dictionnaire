@@ -1,0 +1,1 @@
+lar[101885]=`<font color="purple">[ῠ]</font> <i>poét. surt. épq. c</i>. ὑπό <i>devant</i> γ, SOPH. <i>Ant. 1035</i> ; δ, IL. <i>3, 217, etc.</i> ; κ, ESCHL. <i>Ag. 892 ; et devant</i> π, IL. <i>2, 284 ; jamais devant</i> λ, ν <i>ou</i> ρ, <i>sinon dans les poètes postérieurs</i>.`

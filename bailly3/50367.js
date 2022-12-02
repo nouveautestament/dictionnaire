@@ -1,0 +1,1 @@
+lar[50367]=`<b>κάθ·εφθος, ος, ον</b>, bien bouilli, MNÉSITH. (ORIB. <i>3, 134 B.-Dar</i>.).<p><b>Étym</b>. καθέψω.`

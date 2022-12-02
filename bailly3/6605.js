@@ -1,0 +1,1 @@
+lar[6605]=`<b>α, ον</b> <font color="purple">[ᾰν]</font> <i>vb. de</i> ἀναγκάζω, PLAT. <i>Rsp. 539e</i>.`

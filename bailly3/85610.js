@@ -1,0 +1,1 @@
+lar[85610]=`<b>προσ·εξασκέω-ῶ :<br>      1</b> orner avec plus de soin, JOS. <i>B.J. 3, 10, 7</i>.<br><b>      2</b> s’exercer en outre, PLUT. <i>Cæs. 17</i>.`

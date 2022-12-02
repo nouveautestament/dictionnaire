@@ -1,0 +1,1 @@
+lar[82185]=`<b>πολύ·οζος, ος, ον</b>, qui se divise en plusieurs branches, <i>en parl. d’arbres,</i> TH. <i>H.P. 3, 13, 3, etc. ; en parl. de veines,</i> ARSTT. <i>H.A. 3, 2, 8</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>H.P. 1, 8, 5</i>.<p><b>Étym</b>. π. ὄζος.`

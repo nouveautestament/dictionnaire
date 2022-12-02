@@ -1,0 +1,1 @@
+lar[74049]=`<b>ου (τὸ)</b> marché aux comestibles, CRATÈS (SUID. <i>v°</i> Αὔγουστος) ; STR. <i>17, 2, 4 Kram</i>.<p><b>Étym</b>. <i>cf</i>. ὀψοπωλία.`

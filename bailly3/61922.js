@@ -1,0 +1,1 @@
+lar[61922]=`<b>λυκό·φων (ὁ)</b> <font color="purple">[ῠ]</font> <i>autre n. de la plante</i> ἐχινόπους, PLUT. <i>Lyc. 16, M. 237b</i>.<p><b>Étym</b>. λ. φάω.`

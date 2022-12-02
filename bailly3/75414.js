@@ -1,0 +1,1 @@
+lar[75414]=`<b>ατος (τὸ)</b> moyen de secours, PHIL. BYZ. <i>Bel. 16</i>.<p><b>Étym</b>. παραβοηθέω.`

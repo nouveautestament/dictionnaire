@@ -1,0 +1,1 @@
+lar[74744]=`<b>παμ·πλήρης, ης, ες</b>, tout à fait plein, ARSTT. <i>Gen. et corr. 1, 8, 8</i>.`

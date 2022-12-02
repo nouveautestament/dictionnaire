@@ -1,0 +1,1 @@
+lar[87182]=`<b>πρωτοβολέω-ῶ :<br>      1</b> lancer le premier, PLUT. <i>M. 173d ; p. anal</i>. pousser <i>ou</i> germer ses premiers bourgeons, SPT. <i>Ezech. 47, 12 ; fig. avec l’acc</i>. ANTH. <i>5, 124</i>.<br><b>      2</b> pousser ses premières dents, <i>en parl. d’un cheval,</i> GEOP. <i>16, 1, 3</i> ; HIPPIATR. <i>226, 25 ; 227, 16</i>.<p><b>Étym</b>. πρωτοβόλος.`

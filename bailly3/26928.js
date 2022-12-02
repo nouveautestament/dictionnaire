@@ -1,0 +1,1 @@
+lar[26928]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. δίπηχυς DIOSC. <i>1, 27</i> ; SEXT. <i>M. 8, 459, etc.</i> ; διπηχυαῖον (ὀξυβελές) PHIL. BYZ. catapulte à flèches de deux coudées = 0,924 m.<p><b>Étym</b>. δίπηχυς.`

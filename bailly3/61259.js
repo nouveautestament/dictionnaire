@@ -1,0 +1,1 @@
+lar[61259]=`<b>λινό·στροφος, ος, ον</b> <font color="purple">[ῐ]</font> fait de lin tors, OPP. <i>H. 3, 76</i>.<p><b>Étym</b>. λ. στρέφω.`

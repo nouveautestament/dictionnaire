@@ -1,0 +1,1 @@
+lar[100392]=`<b>ου (τὸ)</b> <font color="purple">[ῐπ]</font> sorte d’aster (<i>Aster tripolium</i> L.) <i>ou, sel. d’autres,</i> plombago (<i>Plumbago europæa</i> L.) TH. <i>H.P. 9, 12, 2</i> ; DIOSC. <i>4, 135</i>.`

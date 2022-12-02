@@ -1,0 +1,1 @@
+lar[34677]=`<b>ας</b> <font color="purple">[νᾰ]</font> <i>adj. f. de</i> ἐνναετήρ, A. PL. <i>4, 94</i>.`

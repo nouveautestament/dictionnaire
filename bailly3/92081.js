@@ -1,0 +1,1 @@
+lar[92081]=`<font color="purple">[ᾰ]</font> <i>adv</i>., fermement, avec constance, CRAT. (<i>Com. fr. 2, 136).</i><p><b>Étym</b>. σταθερός.`

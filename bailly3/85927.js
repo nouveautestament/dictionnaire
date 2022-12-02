@@ -1,0 +1,1 @@
+lar[85927]=`<b>εως (ἡ)</b> constance, assiduité, NT. <i>Eph. 6, 18</i>.<p><b>Étym</b>. προσκαρτερέω.`

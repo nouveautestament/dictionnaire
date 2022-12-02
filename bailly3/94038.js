@@ -1,0 +1,1 @@
+lar[94038]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> avec compassion, sympathie <i>ou</i> affection, PLUT. <i>M. 338e, etc.</i><br><b>      2</b> par relation avec, <i>dat</i>. STR. <i>173</i>.<p>•<i> Cp</i>. συμπαθέστερον, ARSTT. <i>Mir. 163</i> ; PLUT. <i>M. 3c</i>.<p><b>Étym</b>. συμπαθής.`

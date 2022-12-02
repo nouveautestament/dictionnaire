@@ -1,0 +1,1 @@
+lar[96943]=`<i>adv</i>., comme les battements du pouls, RUF. <i>p. 54</i>.`

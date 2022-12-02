@@ -1,0 +1,1 @@
+lar[69172]=`<b>νυκτο·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre la nuit, PLUT. <i>Cam. 36, etc.</i> ; APP. <i>Civ. 5, 35</i>.<p><b>Étym</b>. ν. -μαχος <i>de</i> μάχομαι.`

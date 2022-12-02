@@ -1,0 +1,1 @@
+lar[13043]=`<b>α, ον</b>, qu’il faut renvoyer, CLÉM. <i>192</i>.<p><b>Étym</b>. ἀποπέμπω.`

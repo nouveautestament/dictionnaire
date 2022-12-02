@@ -1,0 +1,1 @@
+lar[42018]=`<i>adv</i>., dans une situation exposée à, <i>dat</i>. EN. TACT. <i>Pol. 23</i>.`

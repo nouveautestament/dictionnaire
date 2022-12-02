@@ -1,0 +1,1 @@
+lar[102402]=`<b>ὑπερ·δυναστεύω</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑπερδυναμόω HÉRACLITE GRAMM. <i>All. Hom. 25</i>.`

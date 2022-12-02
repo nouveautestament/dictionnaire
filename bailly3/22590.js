@@ -1,0 +1,1 @@
+lar[22590]=`<b>γραμματοφορέω-ῶ</b> (<i>seul. inf. prés</i>.) <font color="purple">[μᾰ]</font> porter des lettres, STR. <i>251</i>.<p><b>Étym</b>. γραμματοφόρος.`

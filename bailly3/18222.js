@@ -1,0 +1,1 @@
+lar[18222]=`<b>ἀ·φρασμόνως</b>, sans adresse, ESCHL. <i>Pers. 417</i>.`

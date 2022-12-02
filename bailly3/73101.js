@@ -1,0 +1,1 @@
+lar[73101]=`<b>εως (ἡ)</b> action de creuser, de fouiller, ARSTT. <i>P.A. 4, 12</i>.<p><b>Étym</b>. ὀρύσσω.`

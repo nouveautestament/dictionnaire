@@ -1,0 +1,1 @@
+lar[101118]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> fromage, <i>au pl</i>. EUR. <i>El. 496, Cycl. 161, 190, etc</i>.<p><b>Étym</b>. τυρεύω.`

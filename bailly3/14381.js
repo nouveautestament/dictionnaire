@@ -1,0 +1,1 @@
+lar[14381]=`<b>όος-οῦς, όϊ-οῖ, ώ (ἡ)</b> Argô (<i>litt</i>. le rapide) <i>vaisseau des Argonautes,</i> OD. <i>12, 70 ; de même</i> ναῦς Ἀ. <i>ou</i> ἡ ναῦς ἡ Ἀ. PD. <i>O. 13, 76</i> ; A.RH. <i>1, 724 ; ou avec le gén</i>. Ἀργοῦς σκάφος, EUR. <i>Med. 1, etc</i>.`

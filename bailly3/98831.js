@@ -1,0 +1,1 @@
+lar[98831]=`<b>η, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. τεφρός, HPC. <i>914h</i>.`

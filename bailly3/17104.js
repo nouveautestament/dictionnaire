@@ -1,0 +1,1 @@
+lar[17104]=`<b>ων (οἱ)</b> soldats de l’empereur, garde impériale, <i>à Rome,</i> DC. <i>61, 20</i>.`

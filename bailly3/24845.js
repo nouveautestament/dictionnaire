@@ -1,0 +1,1 @@
+lar[24845]=`<b>εως (ἡ)</b> <font color="purple">[ᾰτ]</font> action de retenir fortement, DIOSC. <i>Ther. p. 422a ; fig</i>. action de retenir par des promesses, <i>etc. d’où</i> tromperie, EUN. <i>53, 17</i>.<p><b>Étym</b>. διακρατέω.`

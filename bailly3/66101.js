@@ -1,0 +1,1 @@
+lar[66101]=`<b>ας (ἡ)</b> Mitra, <i>divinité persane,</i> HDT. <i>1, 131</i>.`

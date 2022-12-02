@@ -1,0 +1,1 @@
+lar[64308]=`<b>Μενε·κρατίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> Ménékratis, <i>f</i>. ANTH. <i>6, 208</i>.<p><b>Étym</b>. <i>v</i>. Μενεκράτης.`

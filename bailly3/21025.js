@@ -1,0 +1,1 @@
+lar[21025]=`<b>έως (ὁ)</b> corroyeur, tanneur, <i>mot réc. p</i>. βυρσοδέψης, ARTÉM. <i>4, 56</i> ; NT. <i>Ap. 9, 43 ; 10, 6, 42</i>.<p><b>Étym</b>. βύρσα.`

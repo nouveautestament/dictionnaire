@@ -1,0 +1,1 @@
+lar[6185]=`<b>ος, ον</b>, brisé tout autour, ANTH. <i>6, 223</i>.<p><b>Étym</b>. ἀμφικλάω.`

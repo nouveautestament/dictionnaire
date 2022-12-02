@@ -1,0 +1,1 @@
+lar[96601]=`<b>σύ·σκηνος, ος, ον</b>, compagnon de tente, camarade, THC. <i>7, 75</i> ; XÉN. <i>Cyr. 2, 2, 22 et 29 ; An. 5, 7, 15 ; 5, 8, 5 ; Lac. 13, 7 ; particul</i>. qui mange ensemble, XÉN. <i>Lac. 7, 4 ; 9, 4 ; 15, 5</i>.<p><b>Étym</b>. σύν, σκηνή.`

@@ -1,0 +1,1 @@
+lar[106583]=`<b>οῦντος (ὁ)</b> <font color="purple">[ῑ]</font> Phœnikunte, <i>litt</i>. « le territoire des Phéniciens », <i>n. de plus. ports</i> :<br><b>      1</b> <i>en Ionie,</i> THC. <i>8, 34</i>.<br><b>      2</b> <i>à Cythère,</i> XÉN. <i>Hell. 4, 8, 7</i>.<p><b>Étym</b>. Φοῖνιξ.`

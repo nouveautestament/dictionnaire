@@ -1,0 +1,1 @@
+lar[83312]=`<b>οῦ (ὁ)</b> traitement doux, SOR. <i>Obst. p. 258, 12 Dietz</i>.<p><b>Étym</b>. πραΰνω.`

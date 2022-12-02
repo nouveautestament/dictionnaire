@@ -1,0 +1,1 @@
+lar[11924]=`<b>ας (ἡ)</b> manque de fixité, de consistance, PTOL. <i>Tetr. 4, p. 204</i>.<p><b>Étym</b>. ἄπηκτος.`

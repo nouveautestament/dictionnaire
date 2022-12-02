@@ -1,0 +1,1 @@
+lar[11250]=`<b>ἀπ·άνευθε</b>, <i>dev. une voy</i>. ἀπάνευθεν <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>adv</i>., à l’écart, au loin, IL. <i>1, 35, etc.</i><br><b>      2</b> <i>prép</i>. à l’écart de, loin de, sans, <i>gén</i>. IL. <i>1, 549, etc.</i> ; OD. <i>9, 36</i>.<p><b>Étym</b>. ἀπό, ἄνευθε.`

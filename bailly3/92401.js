@@ -1,0 +1,1 @@
+lar[92401]=`<b>ίου (τὸ)</b> la Fête des couronnes, <i>en l’honneur d’Apollon, à Delphes,</i> PLUT. <i>Qu. gr. 12</i>.<p><b>Étym</b>. στέφω.`

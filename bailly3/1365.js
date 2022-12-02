@@ -1,0 +1,1 @@
+lar[1365]=`<font color="purple">[τᾰ]</font> <i>adv.</i> :<br><b>      1</b> sans relâche, sans cesse, PHIL. <i>1, 342, etc.</i><br><b>      2</b> sans dimensions, PROCL. <i>Plat. Parm. 543 Stallb</i>.`

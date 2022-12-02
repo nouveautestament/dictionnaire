@@ -1,0 +1,1 @@
+lar[73742]=`<b>οὐσιο·ποιός, ός, όν</b>, qui crée la substance <i>ou</i> les substances, HERMIAS <i>Plat. Phædr. p. 153</i>.<p><b>Étym</b>. οὐσία, ποιέω.`

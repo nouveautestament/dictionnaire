@@ -1,0 +1,1 @@
+lar[48306]=`<b>ας (ἡ)</b> <font color="purple">[ῑᾱ]</font> traitement, guérison, HPC. <i>Fract. 774 ; fig</i>. ARSTT. <i>Pol. 2, 7, 11</i> ; NIC. <i>7, 12, 1, etc</i>.<p>➳ <i>Ion</i>. ἰητρείη, HPC. <i>l. c</i>.<p><b>Étym</b>. ἰατρεύω.`

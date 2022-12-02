@@ -1,0 +1,1 @@
+lar[49760]=`<b>ἰσο·τέλεστος, ος, ον</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> qui s’accomplit également pour tous, SOPH. <i>O.C. 1220</i>.<br><b>      2</b> fait de même, exact, semblable, NONN. <i>D. 18, 247</i>.<p><b>Étym</b>. ἴ. <i>vb. de</i> τελέω.`

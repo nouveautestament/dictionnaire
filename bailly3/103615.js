@@ -1,0 +1,1 @@
+lar[103615]=`<b>ὕπ·ονος, ου (ὁ)</b> <i>sorte de cabestan, vulg</i>. bourriquet, HPC. <i>p. 863e dout</i>.<p><b>Étym</b>. ὑ. ὄνος.`

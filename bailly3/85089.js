@@ -1,0 +1,1 @@
+lar[85089]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui amène à, <i>inf</i>. LUC. <i>D. deor. 20, 11</i> ; qui excite, <i>gén</i>. DH. <i>2, 28 ; abs</i>. qui charme, THC. <i>1, 21 au cp</i>. προσαγωγότερος.<p><b>Étym</b>. προσάγω.`

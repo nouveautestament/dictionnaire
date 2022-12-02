@@ -1,0 +1,1 @@
+lar[40839]=`<b>ἐρυσί·πελας, ατος (τὸ)</b> <font color="purple">[ῠῑ]</font> érysipèle, inflammation de la peau, HPC. <i>V. med. 16 ; Aph. 1253 ; plur</i>. ἐρυσιπέλατα, ORIB. <i>32 Mai</i> ; GEOP. <i>12, 23, 5 et 40</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

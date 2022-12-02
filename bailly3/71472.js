@@ -1,0 +1,1 @@
+lar[71472]=`<b>ὁμο·δόρπιος, ος, ον</b>, commensal, convive, NONN. <i>Jo. 6, 10</i>.<p><b>Étym</b>. ὁμ. δόρπον.`

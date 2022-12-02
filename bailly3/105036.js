@@ -1,0 +1,1 @@
+lar[105036]=`<b>ης (ἡ)</b> = <i>lat</i>. Fausta, <i>n. de f. rom</i>. PLUT. <i>Syll. 34</i>.`

@@ -1,0 +1,1 @@
+lar[95930]=`<b>συν·θεραπαινίς, ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> servante compagne d’une autre, CLÉM. <i>335</i>.`

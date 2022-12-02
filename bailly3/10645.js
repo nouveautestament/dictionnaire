@@ -1,0 +1,1 @@
+lar[10645]=`<i>adv</i>., de l’orient, OPP. <i>C. 2, 123</i>.<p><b>Étym</b>. ἀντολίη, -θε.`

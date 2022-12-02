@@ -1,0 +1,1 @@
+lar[79505]=`<b>περι·τορεύω</b>, ciseler avec art, façonner comme au tour, arrondir, <i>en parl. du style,</i> DH. <i>Dem. 21</i>.`

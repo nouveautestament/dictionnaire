@@ -1,0 +1,1 @@
+lar[97121]=`<b>ή, όν :</b> propre à l’école, <i>d’où</i> :<br><b>      1</b> usuel dans les écoles, ATH. <i>83b.</i><br><b>      2</b> qui sent l’école, LGN <i>3, 5 ; 10, 7</i> ; DH. <i>Comp. 22</i>.<br><b>      3</b> de commentaire, ARSTT. <i>Plant. præf.</i> ; τὰ σχολικά, SIMPL. les commentaires, les explications.<p><b>Étym</b>. σχολή.`

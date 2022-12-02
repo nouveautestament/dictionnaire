@@ -1,0 +1,1 @@
+lar[67295]=`<b>μυρμηκιάω-ῶ</b>, souffrir de verrues accompagnées de fourmillement, SPT. <i>Lev. 22, 22</i>.<p><b>Étym</b>. μύρμηξ.`

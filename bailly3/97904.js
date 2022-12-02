@@ -1,0 +1,1 @@
+lar[97904]=`<b>ταχύ·μορος, ος, ον</b> <font color="purple">[ᾰῠ]</font> dont la destinée est courte, qui vit <i>ou</i> qui dure peu, ESCHL. <i>Ag. 486</i>.<p><b>Étym</b>. τ. μόρος.`

@@ -1,0 +1,1 @@
+lar[109990]=`<b>ψυχο·στρόφος, ος, ον</b> <font color="purple">[ῡ]</font> qui torture l’âme, APOLLIN. <i>Ps. 18, 14</i>.<p><b>Étym</b>. ψ. στρέφω.`

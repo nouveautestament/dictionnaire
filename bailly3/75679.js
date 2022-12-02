@@ -1,0 +1,1 @@
+lar[75679]=`<b>παρ·ακανθίζω</b> <font color="purple">[ᾰκ]</font> être hérissé d’épines d’un côté <i>ou</i> sur le côté, TH. <i>H.P. 1, 10, 6</i>.<p><b>Étym</b>. π. ἄκανθα.`

@@ -1,0 +1,1 @@
+lar[53913]=`<b>κατ·επικυκλόω-ῶ</b>, assiéger, cerner, investir, RHÉT. <i>1, 519 W</i>.`

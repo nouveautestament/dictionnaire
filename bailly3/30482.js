@@ -1,0 +1,1 @@
+lar[30482]=`<b>οῦ (ὁ)</b> tanière, repaire d’animaux, NIC. <i>Th. 283</i>.<p><b>Étym</b>. εἰλύω.`

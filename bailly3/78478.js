@@ -1,0 +1,1 @@
+lar[78478]=`<b>περιγεγονότως</b>, <i>adv</i>., victorieusement, CHRYS.<p><b>Étym</b>. περιγέγονα.`

@@ -1,0 +1,1 @@
+lar[39705]=`<b>ἐπι·χορεύω, <i>intr</i></b>. :<br><b>      1</b> danser en l’honneur de, AR. <i>Pax 1317</i>.<br><b>      2</b> s’avancer en dansant, XÉN. <i>Conv. 9, 4 ; en parl. de plats apportés sur une table,</i> DIPH. (ATH. <i>157a</i>).<br><b>      3</b> ajouter un chœur, PHILSTR. <i>V. Ap. 5, 14</i>.`

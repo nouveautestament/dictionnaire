@@ -1,0 +1,1 @@
+lar[1700]=`<b>ἀεί·σκωψ, ωπος (ὁ)</b> <i>seul. plur. sorte de</i> chouette, ARSTT. <i>H.A. 9, 28</i> (ἀεισκῶπες) ; EL. <i>N.A. 15, 28</i>.`

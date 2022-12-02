@@ -1,0 +1,1 @@
+lar[67672]=`<b>ναρκισσίτης λίθος (ὁ)</b> pierre de la couleur du narcisse, DP. <i>1031</i>.<p><b>Étym</b>. νάρκισσος.`

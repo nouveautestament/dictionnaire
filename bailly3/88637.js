@@ -1,0 +1,1 @@
+lar[88637]=`<b>ῥιπτέω-ῶ</b> (<i>seul. prés. et impf.) c</i>. ῥίπτω, HDT. <i>4, 188 ; 7, 50, etc.</i> ; SOPH. <i>Ant. 131, Aj. 239</i> ; THC. <i>4, 95</i> ; EUR. <i>Her. 150</i> ; PLAT. <i>Tim. 80a, etc</i>.<p>➳ <i>Prés. 3 pl. ion</i>. ῥιπτεῦσι, HDT. <i>4, 94 ; impf. ion</i>. ἐρρίπτεον, HDT. <i>8, 53</i>.`

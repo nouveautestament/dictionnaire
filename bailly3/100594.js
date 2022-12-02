@@ -1,0 +1,1 @@
+lar[100594]=`<b>ίδος</b> <font color="purple">[ῐῡῐδ]</font> <i>adj. f. c</i>. Τριφύλιος XÉN. <i>Hell. 3, 2, 30</i>.`

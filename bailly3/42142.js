@@ -1,0 +1,1 @@
+lar[42142]=`<b>εὐ·ήτριος, ος, ον :<br>      1</b> <i>pass</i>. bien tissé, ESCHL. <i>fr. 45</i> ; PLAT. <i>Pol. 310e ;</i> LUC. <i>Lex. 9</i>.<br><b>      2</b> <i>act</i>. qui tisse bien, ANTH. <i>6, 289 (dor</i>. εὐάτρ-).<p><b>Étym</b>. εὖ, ἤτριον.`

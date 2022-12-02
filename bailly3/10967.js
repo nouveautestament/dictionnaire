@@ -1,0 +1,1 @@
+lar[10967]=`<b>ἀξον·ήλατος, ος, ον</b> <font color="purple">[λᾰ]</font> qui tourne sur son axe, <i>en parl. d’un moyeu de roue,</i> ESCHL. <i>Suppl. 181</i>.<p><b>Étym</b>. ἄξων, ἐλαύνω.`

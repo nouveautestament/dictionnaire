@@ -1,0 +1,1 @@
+lar[91846]=`<b>σπερματῖτις φλέψ (ἡ)</b> veine séminale <i>ou</i> spermatique, SYENNES. (ARSTT. <i>H.A. 3, 2, 15</i>) ; CLÉM. <i>126</i>.<p><b>Étym</b>. σπέρμα.`

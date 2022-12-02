@@ -1,0 +1,1 @@
+lar[98787]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> πόλιον, DIOSC. <i>3, 124</i>.`

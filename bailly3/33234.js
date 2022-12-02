@@ -1,0 +1,1 @@
+lar[33234]=`<b>ἐμ·ματέω-ῶ</b> <font color="purple">[ᾰ]</font> enfoncer le doigt dans, NIC. <i>Al. 138</i>.<p><b>Étym</b>. ἐν, ματέομαι.`

@@ -1,0 +1,1 @@
+lar[18956]=`<b>ου (τὸ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> bourse, AR. <i>Av. 157, etc.</i> ; XÉN. PLAT. <i>etc</i>. ANTH. <i>5, 159</i> (βαλλαντ-).<br><b>      2</b> javelot, DIONYS. (ATH. <i>98b</i>).`

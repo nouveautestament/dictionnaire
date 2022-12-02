@@ -1,0 +1,1 @@
+lar[73907]=`<b>ή, όν</b>, ardent à saillir, ARSTT. <i>G.A. 3, 1 ; Longæv. 5 ; H.A. 6, 9</i> ; ATH. <i>18d</i>.<p>•<i> Cp</i>. -ώτερος, ATH. <i>391e</i>.`

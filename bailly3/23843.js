@@ -1,0 +1,1 @@
+lar[23843]=`devenir arbre, DIOSC. <i>5, 140</i>.<p><b>Étym</b>. δένδρον.`

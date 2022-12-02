@@ -1,0 +1,1 @@
+lar[69398]=`<b>ου (ὁ)</b> cardeur de laine, PLAT. <i>Pol. 281a</i>.<p><b>Étym</b>. ξαίνω.`

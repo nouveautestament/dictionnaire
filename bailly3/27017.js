@@ -1,0 +1,1 @@
+lar[27017]=`<b>*δίσ·ηβος</b>, <i>seul. dor</i>. <b>δίσ·αβος, ος, ον</b> <font color="purple">[ᾱ]</font> deux fois jeune, devenu jeune une seconde fois, ANTH. <i>15, 26</i>.<p><b>Étym</b>. δίς, ἥβη.`

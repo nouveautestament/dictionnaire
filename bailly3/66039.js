@@ -1,0 +1,1 @@
+lar[66039]=`<b>μισο·κύριος, ου (ὁ)</b> <font color="purple">[ῑῠ]</font> qui hait le seigneur, CHRYS. <i>7, 432</i>.`

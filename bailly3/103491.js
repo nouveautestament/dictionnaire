@@ -1,0 +1,1 @@
+lar[103491]=`<b>ὑπό·λισφος, ος, ον</b>, <i>att</i>. un peu plat, un peu maigre, AR. <i>Eq. 1368</i>.`

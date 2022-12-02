@@ -1,0 +1,1 @@
+lar[35797]=`<b>ἐξ·επαίρω</b>, élever, <i>d’où fig</i>. exciter, encourager à, <i>inf</i>. EUR. (PLUT. <i>M. 102f</i>) ; AR. <i>Lys. 623</i>.`

@@ -1,0 +1,1 @@
+lar[19546]=`<b>βένθοσ·δε</b>, <i>adv</i>., jusqu’au fond (de la mer), <i>avec mouv</i>. OD. <i>4, 780</i>.<p><b>Étym</b>. βένθος, -δε.`

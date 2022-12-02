@@ -1,0 +1,1 @@
+lar[109686]=`<b>ψευδο·κατηγορία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> fausse accusation, MAN. <i>4, 332</i>.`

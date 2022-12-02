@@ -1,0 +1,1 @@
+lar[86590]=`<b>προσ·φαίνομαι</b>, paraître en outre, XÉN. <i>Cyr. 4, 5, 57</i> ; JOS. <i>Macc. 4</i>.`

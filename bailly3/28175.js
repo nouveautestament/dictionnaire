@@ -1,0 +1,1 @@
+lar[28175]=`<b>δυσ·ανάλυτος, ος, ον</b> <font color="purple">[ῠᾰᾰῠ]</font> difficile à dissoudre, indissoluble, NAZ.<p><b>Étym</b>. δ. ἀναλύω.`

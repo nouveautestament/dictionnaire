@@ -1,0 +1,1 @@
+lar[68380]=`<b>νευρορραφέω-ῶ</b> <font color="purple">[ᾰ]</font> coudre avec de la corde à boyau, ressaveter, XÉN. <i>Cyr. 8, 2, 5</i> ; PLAT. <i>Euthyd. 294b</i>.<p><b>Étym</b>. νευρορράφος.`

@@ -1,0 +1,1 @@
+lar[11151]=`<b>εως (ἡ)</b> action de suspendre, CLÉM. <i>238, 9</i>.`

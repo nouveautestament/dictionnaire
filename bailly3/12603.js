@@ -1,0 +1,1 @@
+lar[12603]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> inclinaison, déclin, SEXT. <i>Astr. 14, p. 340</i>.<p><b>Étym</b>. ἀποκλίνω.`

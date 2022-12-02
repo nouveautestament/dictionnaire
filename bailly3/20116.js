@@ -1,0 +1,1 @@
+lar[20116]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> ciboule, TH. <i>H.P. 7, 13, 9</i> ; MATR. (ATH. <i>64c</i>).<p><b>Étym</b>. βολβός.`

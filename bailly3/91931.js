@@ -1,0 +1,1 @@
+lar[91931]=`<b>σπλαγχνο·σκοπία, ας (ἡ)</b> examen des entrailles, HERMIAS <i>Plat. Phædr. p. 109</i>.<p><b>Étym</b>. σπλ. -σκοπος <i>de</i> σκέπτομαι.`

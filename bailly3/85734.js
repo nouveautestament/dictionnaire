@@ -1,0 +1,1 @@
+lar[85734]=`<b>προσ·επιτάσσω</b>, <i>att</i>. <b>-τάττω</b>, ordonner en outre, DC. <i>72, 2</i>.<br><b><i>Moy.</i></b> se rendre au poste assigné, POL. <i>1, 50, 7</i>.`

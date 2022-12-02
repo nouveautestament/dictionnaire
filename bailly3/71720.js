@@ -1,0 +1,1 @@
+lar[71720]=`<b>ὁμό·τοιχος, ος, ον</b>, <i>propr</i>. avec un mur commun <i>ou</i> mitoyen, <i>d’où</i> voisin, le plus proche, contigu, PLAT. <i>Leg. 844c ;</i> IS. <i>60, 17</i> ; τινι, CALL. <i>Cer. 117</i> ; DS. <i>1, 49,</i> de qqn <i>ou</i> de qqe ch. ; <i>fig</i>. ESCHL. <i>Ag. 1004</i> ; τινος, ANTIPH. (STOB. <i>Fl. 99, 27</i>) voisin de qqe ch.<p><b>Étym</b>. ὁμ. τοῖχος.`

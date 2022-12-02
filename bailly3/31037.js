@@ -1,0 +1,1 @@
+lar[31037]=`<font color="purple">[κᾰᾰσ]</font> centupler, ORIG. <i>176</i>.<p><b>Étym</b>. ἑ. -πλασιάζω, <i>de</i> -πλάσιος.`

@@ -1,0 +1,1 @@
+lar[44497]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>s.-e</i>. αὔρα, le souffle du zéphyr, OD. <i>7, 119 (avec ε long à l’arsis).</i><p><b>Étym</b>. ζεφύριος.`

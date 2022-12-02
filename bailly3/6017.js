@@ -1,0 +1,1 @@
+lar[6017]=`<b>ἀμφ·ερέφω</b>, couvrir tout autour, ANTH. <i>11, 37</i>.`

@@ -1,0 +1,1 @@
+lar[4240]=`<b>ης, ες</b>, semblable à Alexandre le Grand, MÉN. (PLUT. <i>Alex. 17).</i><p><b>Étym</b>. Ἀλ. -ωδης.`

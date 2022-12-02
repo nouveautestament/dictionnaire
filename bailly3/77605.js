@@ -1,0 +1,1 @@
+lar[77605]=`<b>πειθ·ήνιος, ος, ον :<br>      1</b> <i>pass</i>. docile au frein, PLUT. <i>M. 592c ;</i> M. ANT. <i>1, 17</i> ; τὸ πειθήνιον, PLUT. <i>M. 442c</i>, obéissance.<br><b>      2</b> <i>act</i>. qui dirige, qui conduit, PLUT. <i>M. 369c</i>.<p><b>Étym</b>. πείθω, ἡνία.`

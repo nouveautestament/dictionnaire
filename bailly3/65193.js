@@ -1,0 +1,1 @@
+lar[65193]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> changement de nom ; αἱ Μ. ATH. <i>296d</i>, les Changements de nom, <i>titre d’un ouvrage de Nicanor</i>.<p><b>Étym</b>. μετονομάζω.`

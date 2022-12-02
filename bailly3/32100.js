@@ -1,0 +1,1 @@
+lar[32100]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> trouble, HPC. <i>54, 5</i>.<p><b>Étym</b>. ἐκταράσσω.`

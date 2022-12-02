@@ -1,0 +1,1 @@
+lar[69573]=`<b>ου</b> <font color="purple">[ξῐ]</font> <i>adj. m</i>. en forme d’épée, <i>d’où subst</i>. ὁ ξ. :<br><b>      1</b> espadon, <i>poisson,</i> ARSTT. <i>H.A. 2, 13</i> ; ARCHESTR. (ATH. <i>314e</i>).<br><b>      2</b> sorte de comète, PLIN. <i>H.N. 2, 22</i>.<p><b>Étym</b>. ξίφος, <i>cf</i>. σκιφίας.`

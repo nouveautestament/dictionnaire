@@ -1,0 +1,1 @@
+lar[89308]=`<b>ης (ἡ)</b> Sanè :<br><b>      1</b> <i>v. de Pallène,</i> HDT. <i>7, 22, 123</i>.<br><b>      2</b> <i>v. de la péninsule Athos,</i> THC. <i>4, 109, etc</i>.`

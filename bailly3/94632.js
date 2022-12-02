@@ -1,0 +1,1 @@
+lar[94632]=`<b>συν·αλάομαι-ῶμαι</b> <font color="purple">[ᾰλ]</font> errer ensemble, MAN. <i>4, 290 ; particul</i>. errer en exil, DL. <i>6, 20</i>.`

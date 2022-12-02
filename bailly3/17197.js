@@ -1,0 +1,1 @@
+lar[17197]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit tuyau, A. TR. <i>3, 6</i>.<p><b>Étym</b>. αὐλός.`

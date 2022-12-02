@@ -1,0 +1,1 @@
+lar[3603]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) avoir le désir d’entendre, SOPH. <i>fr. 820</i>.<p><b>Étym</b>. ἀκούω.`

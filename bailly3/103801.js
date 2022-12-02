@@ -1,0 +1,1 @@
+lar[103801]=`<b>ὑπό·σαλος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui a les flots sous lui, <i>d’où</i> vacillant, PLUT. <i>M. 434c ;</i> ὑπόσαλοι ὀδόντες, DIOSC. <i>5, 119,</i> dents branlantes.<br><b>      2</b> sous-marin, ANON. <i>2, p. 449 Gail, Geographi græci minores</i>.<p><b>Étym</b>. ὑ. σάλος.`

@@ -1,0 +1,1 @@
+lar[3290]=`<b>ου (ὁ)</b> Akésias, <i>mauvais médecin, dont le nom devint proverbial,</i> AR. (ZÉNOB. <i>1, 52</i>) PLUT. <i>Prov. 98, etc</i>.<p><b>Étym</b>. ἀκέομαι.`

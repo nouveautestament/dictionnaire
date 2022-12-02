@@ -1,0 +1,1 @@
+lar[80370]=`<b>όεσσα, όεν</b> <font color="purple">[ῐ]</font> sale, crasseux, HPC. <i>666, 42</i> ; A.RH. <i>2, 301</i> ; ANTH. <i>7, 146</i>.<p><b>Étym</b>. πίνος.`

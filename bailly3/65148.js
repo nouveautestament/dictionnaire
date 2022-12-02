@@ -1,0 +1,1 @@
+lar[65148]=`<b>μετεωρό·ρριζος, ος, ον</b>, dont les racines sont à la surface, TH. <i>H.P. 4, 2, 4</i>.`

@@ -1,0 +1,1 @@
+lar[96859]=`<b>ου (τὸ)</b> sorte d’araignée semblable à une guêpe, NIC. <i>Th. 738</i>.<p><b>Étym</b>. σφήξ.`

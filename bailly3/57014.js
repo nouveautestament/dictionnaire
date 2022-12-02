@@ -1,0 +1,1 @@
+lar[57014]=`<b>ου (τὸ)</b> petite poupée, <i>propr</i>. fillette, ALCIPHR. <i>1, 39, 8</i>.<p><b>Étym</b>. <i>dim. de</i> κόρη.`

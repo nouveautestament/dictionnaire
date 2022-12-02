@@ -1,0 +1,1 @@
+lar[107675]=`<b>χαλκο·παγής, ής, ές</b> <font color="purple">[πᾰ]</font> d’airain, <i>litt</i>. fixé <i>ou</i> ajusté en airain, ANTH. <i>6, 46</i>.<p><b>Étym</b>. χ. πήγνυμι.`

@@ -1,0 +1,1 @@
+lar[45651]=`<b>ἠνεμό·φοιτος, ος, ον</b>, qui va avec le vent, porté par le vent, NONN. <i>D. 2, 24, etc</i>.<p><b>Étym</b>. ἄνεμος, φοιτάω.`

@@ -1,0 +1,1 @@
+lar[7732]=`<b>ή, όν</b>, patient, PLUT. <i>M. 31a</i>.<p><b>Étym</b>. ἀνέχω.`

@@ -1,0 +1,1 @@
+lar[75924]=`<i>adv</i>., en long, HPC. <i>Art. 790</i>.<p><b>Étym</b>. παραμήκης.`

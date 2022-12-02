@@ -1,0 +1,1 @@
+lar[58806]=`<b>κυνο·κέφαλος, ου (ὁ) :<br>      1</b> sorte de singe à tête de chien, cynocéphale <i>ou</i> babouin, PLAT. <i>Theæt. 161c ;</i> ARSTT. <i>H.A. 2, 8, etc. ; animal sacré en Égypte,</i> LUC. <i>Herm. 44, Tox. 28, etc.</i><br><b>      2</b> οἱ Κυνοκέφαλοι, HDT. <i>4, 191, etc</i>. les Cynocéphales, <i>pple fabuleux d’Éthiopie</i>.<p><b>Étym</b>. κύων, κεφαλή.`

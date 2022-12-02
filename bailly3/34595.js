@@ -1,0 +1,1 @@
+lar[34595]=`<b>α, ον</b>, qui dure un an, annuel, ARSTT. <i>Categ. 6, 11</i> ; DS. <i>11, 79 ; 14, 17, etc</i>.<p><b>Étym</b>. ἐνιαύσιος.`

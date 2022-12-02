@@ -1,0 +1,1 @@
+lar[27117]=`<b>δι·υφαίνω</b> <font color="purple">[ῠ]</font> tresser, tisser, entrelacer, GAL. <i>4, 521 (prés</i>.) ; LUC. <i>V.H. 1, 15 (inf. ao</i>. διυφῆναι) ; EL. <i>N.A. 9, 17 (part. pf. pass</i>. διυφασμένα).<p><b>Étym</b>. διά, ὑ.`

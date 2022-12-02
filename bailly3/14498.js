@@ -1,0 +1,1 @@
+lar[14498]=`<b>Ἀρηΐ·λυκος, ου (ὁ)</b> <font color="purple">[ᾰῐῠ]</font> Arèïlykos, <i>h</i>. IL. <i>14, 451</i>.<p><b>Étym</b>. Ἄρης, λύκος.`

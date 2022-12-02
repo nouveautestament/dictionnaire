@@ -1,0 +1,1 @@
+lar[102313]=`<b>ὑπερ·αυγής, ής, ές</b>, qui brille d’un vif éclat, LUC. <i>V.H. 1, 29</i>.<p><b>Étym</b>. ὑ. αὐγή.`

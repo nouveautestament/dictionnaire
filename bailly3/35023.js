@@ -1,0 +1,1 @@
+lar[35023]=`<b>ἐν·τειχίζω</b>, construire des fortifications dans, ἐν <i>et le dat</i>. XÉN. <i>Hell. 4, 8, 1</i> ; ISOCR. <i>68e ;</i> DH. <i>3, 44 ; d’où</i> fortifier, <i>acc</i>. DH. <i>3, 44</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> bloquer, THC. <i>6, 90</i>.<br><b>      2</b> fortifier, PLUT. <i>Pomp. 28</i> ; DC. <i>42, 38</i>.`

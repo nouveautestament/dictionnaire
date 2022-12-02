@@ -1,0 +1,1 @@
+lar[77780]=`<b>πελεκυ·φόρος, ου (ὁ)</b> magistrat devant lequel on portait une hache <i>ou</i> un faisceau de haches, <i>à Rome</i> (consul, préteur, <i>etc</i>.) POL. <i>2, 23, 5</i>.<p><b>Étym</b>. πέλεκυς, φέρω.`

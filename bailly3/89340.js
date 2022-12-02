@@ -1,0 +1,1 @@
+lar[89340]=`<b>ης (ἡ)</b> <i>autre n. de la plante</i> ἀναγαλλίς, DIOSC. <i>Noth. 2, 209</i>.`

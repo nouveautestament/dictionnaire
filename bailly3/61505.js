@@ -1,0 +1,1 @@
+lar[61505]=`<b>λογιστο·νόμος, ος, ον</b>, qui concerne les comptes, les affaires d’intérêts, MAN. <i>4, 160</i>.<p><b>Étym</b>. λογίζομαι, νέμω.`

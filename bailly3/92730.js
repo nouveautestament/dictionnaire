@@ -1,0 +1,1 @@
+lar[92730]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de la bouche ; τὰ στοματικά, DIOSC. <i>3, 5</i> ; ANTYLL. <i>366</i> remèdes contre les maux de bouche.<p><b>Étym</b>. στόμα.`

@@ -1,0 +1,1 @@
+lar[61883]=`<b>λυκό·βρωτος, ος, ον</b> <font color="purple">[ῠ]</font> dévoré par des loups, ARSTT. <i>H.A. 8, 11</i> ; PLUT. <i>M. 642b</i>.<p><b>Étym</b>. λύκος, βιβρώσκω.`

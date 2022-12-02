@@ -1,0 +1,1 @@
+lar[19699]=`<b>ή, όν :<br>      1</b> versé dans la connaissance des livres, savant, PLUT. <i>Rom. 12 (au</i> <i>• Sup</i>. -ώτατος).<br><b>      2</b> pédant, TIMON (ATH. <i>22d</i>).<p><b>Étym</b>. βιβλίον.`

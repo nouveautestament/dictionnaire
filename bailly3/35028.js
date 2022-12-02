@@ -1,0 +1,1 @@
+lar[35028]=`<b>ἐν·τεκταίνομαι</b>, fabriquer <i>ou</i> fixer dans, HPC. <i>Art. 813</i>.`

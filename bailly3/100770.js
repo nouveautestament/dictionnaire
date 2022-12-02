@@ -1,0 +1,1 @@
+lar[100770]=`<b>ά, όν</b>, courant, coulant, ARSTT. <i>Rhet. 3, 8, 4</i>.<p><b>Étym</b>. τροχός.`

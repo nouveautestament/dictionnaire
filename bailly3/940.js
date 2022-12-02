@@ -1,0 +1,1 @@
+lar[940]=`<b>ου (ὁ)</b> Agriônios (<i>litt</i>. le sauvage, le cruel) <i>ép. de Dionysos,</i> PLUT. <i>Ant. 24</i> ; τὰ Ἀγριώνια, fête de Dionysos Agriônios, <i>à Orchomène, en Béotie,</i> PLUT. <i>M. 291a, etc</i>.<p><b>Étym</b>. ἄγριος.`

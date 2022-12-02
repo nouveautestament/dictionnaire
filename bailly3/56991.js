@@ -1,0 +1,1 @@
+lar[56991]=`<b>οῦ (τὸ)</b> sorte d’onguent, A. TR. <i>7, p. 117 ; 11, p. 182</i>.<p><b>Étym</b>. <i>cf</i>. κοπτή.`

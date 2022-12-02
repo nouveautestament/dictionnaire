@@ -1,0 +1,1 @@
+lar[16274]=`<b>α, ον</b> <font color="purple">[ᾰπ]</font><br><b>      1</b> qui lance des éclairs, ARSTT. <i>Mund. 7, 2</i>.<br><b>      2</b> accompagné d’éclairs, ARSTT. <i>Meteor. 2, 6, 22</i> ; TH. PLUT.<p><b>Étym</b>. ἀστραπή.`

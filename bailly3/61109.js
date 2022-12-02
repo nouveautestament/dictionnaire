@@ -1,0 +1,1 @@
+lar[61109]=`<b>οῦ (ὁ)</b> action de vanner, ANTH. <i>6, 225</i>.<p><b>Étym</b>. λικμάω.`

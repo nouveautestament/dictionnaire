@@ -1,0 +1,1 @@
+lar[85240]=`<b>εως (ἡ)</b> <i>t. de rhét</i>. répétition d’un mot à la fin d’un membre de phrase <i>ou</i> d’un membre de phrase à la fin d’un développement, QUINT. <i>9, 3</i>.<p><b>Étym</b>. προσαποδίδωμι.`

@@ -1,0 +1,1 @@
+lar[65044]=`<b>μετα·χαράσσω</b> <font color="purple">[χᾰ]</font> marquer d’une autre empreinte, transformer, MÉN. <i>552 Kock</i> ; PHIL. <i>1, 454</i>.`

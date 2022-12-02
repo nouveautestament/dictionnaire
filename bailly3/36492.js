@@ -1,0 +1,1 @@
+lar[36492]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font> onguent, DIOSC. <i>1, 53</i>.<p><b>Étym</b>. ἐπαλείφω.`

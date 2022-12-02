@@ -1,0 +1,1 @@
+lar[50615]=`<font color="purple">[ᾱ]</font> <i>crase p</i>. καὶ ἐκ.`

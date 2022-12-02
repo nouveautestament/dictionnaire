@@ -1,0 +1,1 @@
+lar[25544]=`<b>οῦ (ὁ)</b> arrangeur <i>ou</i> reviseur d’un ouvrage, <i>en parl. des grammairiens qui, avant les Alexandrins, ont arrangé et remanié le texte d’Homère,</i> SCH.-IL. <i>6, 441 ; 8, 73</i>.<p><b>Étym</b>. διασκευάζομαι.`

@@ -1,0 +1,1 @@
+lar[10262]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> compression autour, ARSTT. <i>Somn. 3, 18, 30 ; Probl. 2, 16, etc.</i><br><b>      2</b> échange de deux substances qui se remplacent l’une l’autre, <i>d’où</i> révolution, réaction, ARSTT. <i>Phys. 4, 8, 6, etc.</i> ; vicissitude, alternance, NICOM. <i>Theol. 76, 86</i>.<p><b>Étym</b>. ἀντιπεριΐστημι.`

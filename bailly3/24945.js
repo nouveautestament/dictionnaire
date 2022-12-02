@@ -1,0 +1,1 @@
+lar[24945]=`<b>Διάλιος ἱερεύς (ὁ)</b> le Flamine Diale, <i>à Rome,</i> DC. <i>44, 6</i>.`

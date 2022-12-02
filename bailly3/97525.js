@@ -1,0 +1,1 @@
+lar[97525]=`<b>εως</b> <i>ou</i> <b>ιος (ἡ)</b> Tanis, <i>v. de la Basse-Égypte,</i> STR. <i>802</i>.`

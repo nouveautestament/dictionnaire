@@ -1,0 +1,1 @@
+lar[32994]=`<font color="darkgreen">(<i>part. pf. pass</i>. ἐλλυχνιασμένος)</font> garnir d’une mèche, DIOSC. <i>1, 96</i>.<p><b>Étym</b>. ἐλλύχνιον.`

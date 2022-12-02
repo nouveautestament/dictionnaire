@@ -1,0 +1,1 @@
+lar[4417]=`<font color="purple">[ᾰλ]</font> <i>adv. c</i>. ἅλις, HIPPON. <i>fr. 101</i>.`

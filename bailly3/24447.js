@@ -1,0 +1,1 @@
+lar[24447]=`<b>δια·βοστρυχόω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. pf. pass. part</i>. -βεβοστρυχωμένος) boucler <i>ou</i> friser ses cheveux, ARCHIL. (POLL. <i>2, 27</i>).`

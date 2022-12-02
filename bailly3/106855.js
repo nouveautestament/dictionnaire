@@ -1,0 +1,1 @@
+lar[106855]=`<b>φρενο·λῃστής, οῦ (ὁ)</b> qui trompe (<i>litt</i>. qui pille) l’esprit <i>ou</i> le cœur, ANTH. <i>12, 144</i>.<p><b>Étym</b>. φρ. λῃστής.`

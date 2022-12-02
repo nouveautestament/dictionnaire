@@ -1,0 +1,1 @@
+lar[387]=`<b>ίδος (ἡ)</b> sorte de plante à gomme (<i>Heracleum gummiferum</i> L.) DIOSC. <i>3, 98</i>.`

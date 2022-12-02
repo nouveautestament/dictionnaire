@@ -1,0 +1,1 @@
+lar[68901]=`<b>άδος (ὁ, ἡ)</b> <font color="purple">[ᾰδ]</font> de Numidie, LUC. <i>Nav. 26</i> ; οἱ Νομάδες, PLUT. les Numides.<p><b>Étym</b>. <i>cf</i>. νομάς ; <i>v</i>. Νομαδία.`

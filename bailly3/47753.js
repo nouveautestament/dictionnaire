@@ -1,0 +1,1 @@
+lar[47753]=`<b>οῦ (ὁ)</b> qui place sur un trône, qui intronise, SYN. <i>Ep. 67</i>.<p><b>Étym</b>. θρονίζω.`

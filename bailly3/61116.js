@@ -1,0 +1,1 @@
+lar[61116]=`<b>λικνο·φόρος, ος, ον</b>, qui porte le van sacré aux fêtes de Dionysos, DÉM. <i>313, 28</i> ; CALL. <i>Cer. 127</i>.<p><b>Étym</b>. λίκνον, φέρω.`

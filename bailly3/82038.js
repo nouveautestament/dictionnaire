@@ -1,0 +1,1 @@
+lar[82038]=`<b>πολύ·κροτος, ος, ον :<br>      1</b> très sonore, retentissant, HH. <i>18, 37</i> ; POSIDON. (ATH. <i>527f</i>).<br><b>      2</b> qui agite <i>ou</i> fait résonner (ses castagnettes) en secousses multipliées, à coups pressés, ANACR. <i>90, 2</i>.<p>➳ <i>Dat. fém</i>. πολυκρότῃ, ANACR. <i>l. c</i>.<p><b>Étym</b>. π. κροτέω.`

@@ -1,0 +1,1 @@
+lar[36886]=`<font color="purple">[ῑ]</font> <i>adv</i>., avec grâce, d’une manière charmante, DH. <i>Lys. 11</i> ; ALCIPHR. <i>2, 1</i>.`

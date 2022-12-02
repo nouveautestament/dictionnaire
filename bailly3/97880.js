@@ -1,0 +1,1 @@
+lar[97880]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> végétation <i>ou</i> croissance rapide, TH. <i>C.P. 4, 1, 3</i>.<p><b>Étym</b>. ταχυβλαστής.`

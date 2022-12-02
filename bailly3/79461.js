@@ -1,0 +1,1 @@
+lar[79461]=`<b>περι·σωρεύω</b>, amonceler autour <i>ou</i> dans : τινί τι, ARSTT. <i>fr. 208,</i> entasser une ch. autour d’une autre ; <i>au pass</i>. PLUT. <i>Tim. 29 ; d’où</i> être écrasé par un amas, <i>avec</i> ὑπό <i>et le gén</i>. DH. <i>2, 40</i>.`

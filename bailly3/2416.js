@@ -1,0 +1,1 @@
+lar[2416]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fumeux, A.RH. <i>4, 777</i>.<br><b>      2</b> qui est comme noirci par le feu, noir, NIC. <i>Th. 750</i>.<p><b>Étym</b>. αἴθω.`

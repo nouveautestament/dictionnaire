@@ -1,0 +1,1 @@
+lar[2609]=`<b>οῦ (ὁ)</b> buisson, broussailles, fourré, ESCHL. <i>fr. 8 ; cf</i>. αἱμασιά.`

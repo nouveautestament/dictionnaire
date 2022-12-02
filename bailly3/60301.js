@@ -1,0 +1,1 @@
+lar[60301]=`<b>λεξι·θηρέω-ῶ</b> <font color="purple">[ῐ]</font> aller à la chasse des mots rares, A. GELL. <i>2, 9</i>.<p><b>Étym</b>. λέξις, θήρα.`

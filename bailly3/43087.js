@@ -1,0 +1,1 @@
+lar[43087]=`<b>εὔ·ποτος, ος, ον :<br>      1</b> bon à boire, ESCHL. <i>Pr. 676, etc.</i><br><b>      2</b> commode pour boire, ERATOSTH. (ATH. <i>482b</i>).<p><b>Étym</b>. εὖ, πίνω.`

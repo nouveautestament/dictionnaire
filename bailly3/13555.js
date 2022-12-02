@@ -1,0 +1,1 @@
+lar[13555]=`<b>ἀπό·ταφος, ος, ον</b> <font color="purple">[τᾰ]</font> privé de sépulture, DIN. (HARP.).<p><b>Étym</b>. ἀ. τάφος.`

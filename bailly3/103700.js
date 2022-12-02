@@ -1,0 +1,1 @@
+lar[103700]=`<b>ὑπό·πλους, ου (ὁ)</b> navigation le long des côtes, PLAT. <i>Criti. 115e</i>.<p><b>Étym</b>. ὑ. πλοῦς.`

@@ -1,0 +1,1 @@
+lar[67808]=`<b>Ναυσι·στράτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Nausistratè, <i>f</i>. PHILÉM. (E. BYZ. <i>v°</i> Ἀθῆναι).<p><b>Étym</b>. ναῦς, στρατός.`

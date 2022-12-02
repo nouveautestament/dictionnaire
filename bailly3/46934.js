@@ -1,0 +1,1 @@
+lar[46934]=`<b>ας (ἡ)</b> fourneau, fournaise, CALL. <i>Del. 144</i>.`

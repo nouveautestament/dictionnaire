@@ -1,0 +1,1 @@
+lar[82269]=`<i>ion</i>. <b>πουλυπόδειος, ος, ον</b> <font color="purple">[ῠ]</font> de poulpe ; τὸ πουλυπόδειον, ANAXANDR. (<i>Com. fr. 3, 184</i>) ; THPP. COM. <i>2, 794, etc</i>. chair du poulpe, <i>ou, sel. d’autres,</i> petit poulpe.<p><b>Étym</b>. πολύπους.`

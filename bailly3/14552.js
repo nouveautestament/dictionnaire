@@ -1,0 +1,1 @@
+lar[14552]=`<b>ας (ἡ)</b> sorte d’articulation, <i>subdivision de la</i> διάρθρωσις, GAL. <i>4, 10</i>.<p><b>Étym</b>. ἀρθρώδης.`

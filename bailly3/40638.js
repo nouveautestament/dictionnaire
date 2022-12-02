@@ -1,0 +1,1 @@
+lar[40638]=`<b>Ἑρμό·λαος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Hermolaos, <i>h</i>. PLUT. <i>Alex. 55</i> ; LUC. <i>D. mort. 8, 1</i>.<p><b>Étym</b>. Ἑ. λαός.`

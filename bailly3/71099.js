@@ -1,0 +1,1 @@
+lar[71099]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> indifférence, négligence, mépris, ARSTT. <i>Rhet. 2, 2 ; joint à</i> ὕβρις, HDT. <i>6, 137</i> ; ARSTT. <i>Nic. 7, 7</i> ; τινός, THC. <i>2, 52</i> ; PLUT. <i>Cam. 6, etc.</i> ; περί τινος, POL. <i>11, 9, 2</i> ; πρός τι, DÉM. <i>1269, 3,</i> pour qqe ch.<p><b>Étym</b>. ὀλίγωρος.`

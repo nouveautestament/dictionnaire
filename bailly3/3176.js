@@ -1,0 +1,1 @@
+lar[3176]=`<b>ἀ·κατάκαυστος, ος, ον</b>, qu’on ne peut brûler, APOLL. PAR. <i>Hist. mir. 36</i>.<p><b>Étym</b>. ἀ, κατακαίω.`

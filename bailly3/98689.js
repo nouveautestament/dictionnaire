@@ -1,0 +1,1 @@
+lar[98689]=`<b>τετρα·σύλλαβος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> de quatre syllabes, LUC. <i>Gall. 29</i>.<p><b>Étym</b>. τ. συλλαβή.`

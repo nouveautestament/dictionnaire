@@ -1,0 +1,1 @@
+lar[105353]=`<i>adv</i>., avec <i>ou</i> par jalousie, XÉN. <i>Cyn. 3, 10</i> ; PLAT. <i>Phædr. 243c</i>.`

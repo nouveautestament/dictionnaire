@@ -1,0 +1,1 @@
+lar[9821]=`<b>ἀντι·δέρκομαι</b>, regarder en face, EUR. <i>H.f. 162</i>.`

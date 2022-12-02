@@ -1,0 +1,1 @@
+lar[41086]=`<i>adv.</i> :<br><b>      1</b> sérieusement, avec soin, PLAT. <i>Sis. 390b.</i><br><b>      2</b> avec ardeur, STR. <i>465</i>.<br><b>      3</b> avec empressement, HLD. <i>1, 27</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> σπουδάζω.`

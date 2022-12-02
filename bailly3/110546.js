@@ -1,0 +1,1 @@
+lar[110546]=`<b>ας (ἡ)</b> douleur <i>ou</i> mal d’oreille, DIOSC. <i>210</i> ; GEOP. <i>12, 12, 6</i>.<p><b>Étym</b>. οὖς, ἄλγος.`

@@ -1,0 +1,1 @@
+lar[87630]=`<b>πυκνό·πορος, ος, ον</b>, aux pores nombreux, A. APHR. <i>Probl. 2, 76</i>.<p><b>Étym</b>. π. πόρος.`

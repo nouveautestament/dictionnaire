@@ -1,0 +1,1 @@
+lar[22711]=`<b>ου (τὸ)</b> Gytheion (<i>auj</i>. Yíthio) <i>port de Laconie,</i> XÉN. <i>Hell. 1, 4, 11 ; 6, 5, 32</i> ; LYC. <i>98 ; etc. ; cf</i>. Γύθιον.`

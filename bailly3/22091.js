@@ -1,0 +1,1 @@
+lar[22091]=`<b>εος-ους (τὸ) :<br>      1</b> vin doux, ARSTT. <i>Meteor. 4, 3, 13</i> ; NIC. <i>Al. 184, 299</i> ; GEOP. <i>19, 9 ; etc. ; fig</i>. γλ. τῆς ἡλικίας, CLÉM. <i>178,</i> la fougue de la jeunesse.<br><b>      2</b> douceur, ARSTT. <i>Probl. 22, 12</i>.<p><b>Étym</b>. <i>Cf</i>. γλυκύς.`

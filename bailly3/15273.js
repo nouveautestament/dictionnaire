@@ -1,0 +1,1 @@
+lar[15273]=`<b>εω (ὁ)</b> Artayntès, <i>Perse,</i> HDT. <i>8, 130, etc</i>.`

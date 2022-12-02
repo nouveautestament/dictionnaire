@@ -1,0 +1,1 @@
+lar[90789]=`<b>σκευ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui sert à transporter des bagages, SYN. <i>118d ;</i> ὁ σκ. XÉN. <i>Cyr. 8, 5, 4,</i> serviteur chargé des bagages ; τὸ σκ. PLUT. <i>Pomp. 6,</i> fourgon pour les bagages.<p><b>Étym</b>. σκεῦος, ἄγω.`

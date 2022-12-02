@@ -1,0 +1,1 @@
+lar[60121]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. λειμώνιος DP. <i>756</i>.`

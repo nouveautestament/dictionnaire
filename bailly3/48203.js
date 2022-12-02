@@ -1,0 +1,1 @@
+lar[48203]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> lamentation, chant funèbre, EUR. <i>Ph. 1034, etc.</i> ; ATH. <i>619b</i>.<p>➳ <i>Ion</i>. ἰήλ- ESCHL. <i>Suppl. 115, etc</i>.<p><b>Étym</b>. ἰά.`

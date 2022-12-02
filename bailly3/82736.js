@@ -1,0 +1,1 @@
+lar[82736]=`<b>α (ὁ)</b> = <i>lat</i>. Poplicola <i>ou</i> Publicola, <i>n. d’h. rom</i>. PLUT. <i>Popl. 1, etc. ; plur</i>. Ποπλικόλαι, PLUT. <i>Sol. c. Popl. 1,</i> des hommes comme Publicola.`

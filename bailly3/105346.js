@@ -1,0 +1,1 @@
+lar[105346]=`<b>ης (ἡ)</b> consomption, épuisement, PLAT. <i>Leg. 916a ;</i> ISOCR. <i>386d ;</i> DÉM. <i>Ep. 3, p. 1481</i> ; LUC. <i>Char. 17</i>.<p><b>Étym</b>. φθίω.`

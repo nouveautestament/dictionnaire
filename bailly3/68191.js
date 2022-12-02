@@ -1,0 +1,1 @@
+lar[68191]=`<b>ας</b> (<i>d’ord. contr. en</i> νουμηνία) DH. <i>Rhet. 4, 2, p. 249</i> ; JOS. <i>A.J. 6, 11</i>.`

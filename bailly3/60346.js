@@ -1,0 +1,1 @@
+lar[60346]=`<b>λεοντο·φυής, ής, ές</b>, de la nature du lion, EUR. <i>Bacch. 1196</i>.<p><b>Étym</b>. λ. φύω.`

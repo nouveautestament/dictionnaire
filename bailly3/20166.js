@@ -1,0 +1,1 @@
+lar[20166]=`<b>(ἡ)</b> <font color="purple">[ῡ]</font> Bombyka, <i>f</i>. THCR. <i>Idyl. 10, 26, etc</i>.<p><b>Étym</b>. βόμβυξ.`

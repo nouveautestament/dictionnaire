@@ -1,0 +1,1 @@
+lar[45299]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> sablonneux, A.RH. <i>1, 932 ; dans Hom</i>. (IL. <i>2, 77, etc.) et dans</i> HÉS. <i>Sc. 360, seul. fém</i>. -όεις, <i>en parl. de Pylos en Élide</i>.<p><b>Étym</b>. <i>ion. p</i>. *ἀμαθόεις <i>de</i> ἄμαθος.`

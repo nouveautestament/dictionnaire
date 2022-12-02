@@ -1,0 +1,1 @@
+lar[85654]=`<b>*προσ·επηρεάζω</b>, injurier <i>ou</i> maltraiter en outre, ARSTT. <i>Top. 8, 11, 1</i> ; DC. <i>52, 29</i>.`

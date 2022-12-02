@@ -1,0 +1,1 @@
+lar[14971]=`<b>οῦ (ὁ)</b> agneau, ES. <i>274 Halm</i>.<p><b>Étym</b>. <i>v</i>. ἀρήν.`

@@ -1,0 +1,1 @@
+lar[91221]=`<b>σκοτο·εργός, ός, όν</b>, qui travaille dans les ténèbres, MAN. <i>1, 80</i>.<p><b>Étym</b>. σκ. ἔργον.`

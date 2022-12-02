@@ -1,0 +1,1 @@
+lar[17824]=`<b>αὐχμηρο·κόμης, ου (ὁ)</b> homme à la chevelure sale, ANAXANDR. (ATH. <i>131b</i>).<p><b>Étym</b>. αὐχμηρός, κόμη.`

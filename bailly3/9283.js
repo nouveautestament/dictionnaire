@@ -1,0 +1,1 @@
+lar[9283]=`<b>εως (ἡ)</b> action de rendre dissemblable, <i>d’où</i> différence, PLAT. <i>Theæt. 166b</i>.<p><b>Étym</b>. ἀνομοιόω.`

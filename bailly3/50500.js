@@ -1,0 +1,1 @@
+lar[50500]=`<b>καθ·υποβαίνω</b>, <i>c</i>. ὑποβαίνω, A. TAT. ASTR. <i>Isag. in Arat. 957 Migne</i>.`

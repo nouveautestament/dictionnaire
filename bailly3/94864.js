@@ -1,0 +1,1 @@
+lar[94864]=`<b>συν·αποδύρομαι</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> déplorer avec <i>ou</i> ensemble, JOS. <i>c. Ap. 2, 26</i>.`

@@ -1,0 +1,1 @@
+lar[39396]=`<b>ή, όν</b>, fait avec art, LUC. <i>Prom. 18</i> ; A. QUINT. <i>p. 38</i> ; CLÉM. <i>1, 521, 581 Migne</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπιτεχνάομαι.`

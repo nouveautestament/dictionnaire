@@ -1,0 +1,1 @@
+lar[30194]=`<b>ἐθν·άρχης, ου (ὁ) :<br>      1</b> gouverneur <i>ou</i> chef d’un peuple, LUC. <i>Macr. 17</i>.<br><b>      2</b> gouverneur d’une province, ethnarque, SPT. <i>1Macc. 14, 47 ; 15, 1 et 2</i> ; NT. <i>2Cor. 11, 32</i> ; JOS. <i>A.J. 13, 6, 6, etc</i>.<p><b>Étym</b>. ἔθνος, ἄρχω.`

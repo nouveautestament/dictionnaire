@@ -1,0 +1,1 @@
+lar[61489]=`<b>έως (ὁ)</b> orateur, CRITIAS (POLL. <i>2, 122).</i><p><b>Étym</b>. <i>cf</i>. λογεύς.`

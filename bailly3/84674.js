@@ -1,0 +1,1 @@
+lar[84674]=`<b>ωνος (ὁ)</b> Promathiôn, <i>historien,</i> PLUT. <i>Rom. 2</i>.<p><b>Étym</b>. προμανθάνω.`

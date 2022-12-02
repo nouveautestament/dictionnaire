@@ -1,0 +1,1 @@
+lar[89886]=`<i>adv</i>., avec habileté <i>ou</i> fourberie, XÉN. <i>Cyn. 13, 5</i>.<p><b>Étym</b>. σοφίζω.`

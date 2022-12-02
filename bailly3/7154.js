@@ -1,0 +1,1 @@
+lar[7154]=`<b>ἀνα·μανθάνω :<br>      1</b> chercher à savoir, HDT. <i>9, 101</i>.<br><b>      2</b> apprendre de nouveau, DS. <i>Exc. p. 106</i>.`

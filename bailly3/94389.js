@@ -1,0 +1,1 @@
+lar[94389]=`<b>εως (ἡ)</b> action de replier, de fermer, BAS. <i>1, 153 Migne</i>.<p><b>Étym</b>. συμπτύσσω.`

@@ -1,0 +1,1 @@
+lar[13556]=`<b>εως (ἡ)</b> retranchement au moyen d’un fossé, DH. <i>9, 9</i>.<p><b>Étym</b>. ἀποταφρεύω.`

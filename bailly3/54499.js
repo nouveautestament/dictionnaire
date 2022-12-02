@@ -1,0 +1,1 @@
+lar[54499]=`<b>Κειτ·ού·κειτος, ου (ὁ)</b> <i>surn. du gramm. Ulpien, qui disait à tout propos</i> : κεῖται ἢ οὐ κεῖται ; ATH. <i>1c</i>, cela se trouve-t-il, oui ou non !.`

@@ -1,0 +1,1 @@
+lar[25925]=`<b>δια·χλευάζω :<br>      1</b> se railler de, <i>acc</i>. PLAT. <i>Ax. 364b ;</i> DÉM. <i>1221, 26 ; abs</i>. POL. <i>30, 13, 12</i>.<br><b>      2</b> se moquer de, duper, <i>acc</i>. GEOP. <i>7, 7, 5</i>.`

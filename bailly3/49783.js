@@ -1,0 +1,1 @@
+lar[49783]=`<b>ἰσο·φυής, ής, ές</b> <font color="purple">[ῑ̆]</font> de même nature, de même espèce, ARSTT. <i>H.A. 1, 13, 2</i> ; NONN. <i>Jo. 13, 73, etc</i>.<p><b>Étym</b>. ἴ. φύω.`

@@ -1,0 +1,1 @@
+lar[82044]=`<b>πολύ·κτηνος, ος, ον</b>, riche en bétail, en troupeaux, ALEX. POLYH. (EUS. <i>P.E. 430</i>).`

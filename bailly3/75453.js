@@ -1,0 +1,1 @@
+lar[75453]=`<b>παρ·αγοράζω</b> <font color="purple">[ᾰγ]</font> faire ses provisions au marché, ALEX. (<i>Com. fr. 3, 409</i>).`

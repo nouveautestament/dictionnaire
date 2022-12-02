@@ -1,0 +1,1 @@
+lar[52720]=`<b>κατα·λήθομαι</b> (<i>seul. prés. ind. 3 pl</i>. καταλήθονται) oublier entièrement, <i>gén</i>. IL. <i>22, 389</i>.`

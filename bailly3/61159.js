@@ -1,0 +1,1 @@
+lar[61159]=`<b>ας (ἡ)</b> Limnæa, <i>lieu au N. de l’Acarnanie,</i> THC. <i>2, 80 ; 3, 106</i>.<p><b>Étym</b>. λιμναῖος.`

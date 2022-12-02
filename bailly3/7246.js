@@ -1,0 +1,1 @@
+lar[7246]=`<b>εως (ἡ) :<br>      1</b> renouvellement, restauration, THC. <i>6, 82</i> ; POL. <i>23, 1, 6</i>.<br><b>      2</b> rappel d’un souvenir, DS. <i>5, 67</i>.<br><b>      3</b> retour de jeunesse, <i>titre d’une comédie de Philippide, v. t. 1, p. 472 Meineke</i>.<p><b>Étym</b>. ἀνανεόω.`

@@ -1,0 +1,1 @@
+lar[32505]=`<b>ἐλασί·βροντος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui lance le tonnerre, PD. <i>fr. 108</i>.<br><b>      2</b> lancé comme le tonnerre, AR. <i>Eq. 626</i>.<p><b>Étym</b>. ἐλάω, βροντή.`

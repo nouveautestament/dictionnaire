@@ -1,0 +1,1 @@
+lar[96156]=`<b>συν·ολολύζω</b>, pousser des cris avec, XÉN. <i>An. 4, 3, 19</i>.`

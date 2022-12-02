@@ -1,0 +1,1 @@
+lar[3036]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Akadèmos :<br><b>      1</b> <i>héros athénien, auquel appartenait le jardin appelé de son nom</i> Ἀκαδήμεια, PLUT. <i>Thes. 32</i>.<br><b>      2</b> <i>autre,</i> THGN. <i>993</i>.`

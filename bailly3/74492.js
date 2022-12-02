@@ -1,0 +1,1 @@
+lar[74492]=`<b>Παλθ·άνωρ, ορος (ὁ)</b> <font color="purple">[ᾱν]</font> Palthanôr, <i>h</i>. NONN. <i>D. 26, 66</i>.<p><b>Étym</b>. παλτός, ἀνήρ.`

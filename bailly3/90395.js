@@ -1,0 +1,1 @@
+lar[90395]=`<b>ων (τὰ)</b> Sinnakes, <i>v. de Babylonie,</i> PLUT. <i>Crass. 29</i>.`

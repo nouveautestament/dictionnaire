@@ -1,0 +1,1 @@
+lar[6400]=`<b>ἀμφι·τόρνωτος, ος, ον</b>, tressé en une corde arrondie, LYC. <i>704</i>.<p><b>Étym</b>. ἀ. τορνόω.`

@@ -1,0 +1,1 @@
+lar[10158]=`<b>ἀντί·παις, -παιδος (ὁ, ἡ) :<br>      1</b> semblable à un enfant, ESCHL. <i>Eum. 38</i>.<br><b>      2</b> encore presque enfant, EUR. <i>Andr. 326</i>.<br><b>      3</b> qui commence à n’être plus un enfant, déjà grand, SOPH. <i>fr. 148</i> ; POL. <i>15, 33, 12 ; 27, 13, 4</i>.<p><b>Étym</b>. ἀ. παῖς.`

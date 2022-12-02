@@ -1,0 +1,1 @@
+lar[44610]=`<b>ζοφόω-ῶ</b>, obscurcir, devenir obscur, sombre, noir, HLD. <i>2, 15 ; au pass</i>. être obscurci, ANTH. <i>6, 92</i> ; LUC. <i>Philopatr. 4</i>.<p><b>Étym</b>. ζόφος.`

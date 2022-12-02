@@ -1,0 +1,1 @@
+lar[11336]=`<i>adv</i>., sans entrave, ARR. <i>Epict. 2, 13, 21</i> ; SEXT. <i>255</i>.`

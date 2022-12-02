@@ -1,0 +1,1 @@
+lar[51140]=`<b>καλλι·κόμας, ου</b> <font color="purple">[ῐᾱ]</font> <i>adj. m. dor. c</i>. καλλίκομος EUR. <i>I.A. 1080</i>.`

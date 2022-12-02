@@ -1,0 +1,1 @@
+lar[110367]=`<b>ᾠο·φαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger un œuf <i>ou</i> des œufs, GEOP. <i>14, 75</i>.<p><b>Étym</b>. ᾠ. φαγεῖν.`

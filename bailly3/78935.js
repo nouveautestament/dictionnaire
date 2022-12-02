@@ -1,0 +1,1 @@
+lar[78935]=`<b>εως (ἡ)</b> action de garnir de charpie, HLD. CHIR. (CHIR. <i>p. 158 Cocch</i>.).<p><b>Étym</b>. περιμοτόω.`

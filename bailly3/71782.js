@@ -1,0 +1,1 @@
+lar[71782]=`<b>(ὁ)</b> Omyrès, <i>h</i>. Ps.-HDT. <i>V. Hom. 1</i>.<p><b>Étym</b>. ὄμνυμι.`

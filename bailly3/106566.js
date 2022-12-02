@@ -1,0 +1,1 @@
+lar[106566]=`<b>φοινικό·κροκος, ος, ον</b> <font color="purple">[ῑ]</font> à la trame écarlate, PD. <i>O. 6, 66</i>.<p><b>Étym</b>. φοῖνιξ, κρόκη.`

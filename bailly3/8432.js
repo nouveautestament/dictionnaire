@@ -1,0 +1,1 @@
+lar[8432]=`<b>ἀν·επίδικος, ος, ον</b> <font color="purple">[δῐ]</font> qui n’est pas <i>ou</i> ne peut pas être contesté, IS. <i>44, 1</i> ; DÉM. <i>1135, 27</i> ; ἡ ἀν. IS. <i>72, 36,</i> héritière unique (dont les droits ne peuvent être contestés).<p><b>Étym</b>. ἀν-, ἐ.`

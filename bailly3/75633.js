@@ -1,0 +1,1 @@
+lar[75633]=`<b>παρ·αινίσσομαι</b>, <i>att</i>. <b>-ίττομαι</b> <font color="darkgreen">(<i>ao</i>. παρῃνιξάμην)</font> parler à mots couvert, ATH. <i>604f</i>.`

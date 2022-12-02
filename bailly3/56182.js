@@ -1,0 +1,1 @@
+lar[56182]=`<b>οῦ (ὁ) :<br>      1</b> gloussement d’une poule, <i>etc</i>. PLUT. <i>M. 129a.</i><br><b>      2</b> claquement de langue pour exciter un cheval, XÉN. <i>Eq. 9, 10</i>.<br><b>      3</b> <i>sorte de</i> claquement de la langue <i>pour marquer la désapprobation,</i> PHIL. <i>2, 599</i>.<p><b>Étym</b>. κλώζω.`

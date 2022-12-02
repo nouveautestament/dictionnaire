@@ -1,0 +1,1 @@
+lar[13154]=`<b>ἀπο·προσποιέομαι-οῦμαι</b>, feindre de repousser <i>ou</i> de nier, HIPPOLOCH. (ATH. <i>402a</i>).`

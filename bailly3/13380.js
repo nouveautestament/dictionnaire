@@ -1,0 +1,1 @@
+lar[13380]=`<b>ἀπο·σπινθηρίζω</b>, jeter des étincelles, ARSTT. <i>Meteor. 1, 4, 6</i>.`

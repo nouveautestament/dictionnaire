@@ -1,0 +1,1 @@
+lar[5721]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en retour, LUC. <i>Am. 9</i>.`

@@ -1,0 +1,1 @@
+lar[110141]=`<b>ας</b>, <i>ion</i>. <b>Ὠκαλέη, ης (ἡ)</b> <font color="purple">[κᾰ]</font> Ôkaléa, <i>bourg de Béotie,</i> IL. <i>2, 501</i> ; HH. <i>Ap. 242</i>.`

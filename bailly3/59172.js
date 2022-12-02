@@ -1,0 +1,1 @@
+lar[59172]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui dort d’un sommeil lourd et continu, HPC. <i>67, 147c, etc</i>.<p><b>Étym</b>. κῶμα, -ωδης.`

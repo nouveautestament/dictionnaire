@@ -1,0 +1,1 @@
+lar[16753]=`<b>ἀ·τέραμνος, ος, ον</b>, cru, dur, <i>en parl. de l’eau,</i> HPC. <i>Aër. 280</i> ; ARSTT. <i>G.A. 4, 2, 8 ; fig</i>. κῆρ ἀ. OD. <i>23, 167,</i> cœur qui ne se laisse point attendrir ; ἀ. ὀργή, ESCHL. <i>Pr. 190,</i> colère implacable ; <i>etc</i>.<p><b>Étym</b>. ἀ <i>privatif ; p.-ê. R. indo-europ</i>. *terh₂-, surmonter ; <i>cf. sscr</i>. tiráte, ἀτεράμων.`

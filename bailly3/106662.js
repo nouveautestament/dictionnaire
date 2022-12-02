@@ -1,0 +1,1 @@
+lar[106662]=`<b>αντος (ὁ)</b> Phorbas :<br><b>      1</b> <i>père de Diomède,</i> IL. <i>9, 665</i>.<br><b>      2</b> <i>Troyen,</i> IL. <i>14, 490</i>.<br><b>      3</b> <i>autres,</i> EUR. <i>Suppl. 680</i> ; PLUT. <i>Rom. 2, etc</i>.<p><b>Étym</b>. φέρβω.`

@@ -1,0 +1,1 @@
+lar[78904]=`<b>περι·μαίνομαι :<br>      1</b> errer, l’esprit égaré, autour de <i>ou</i> à travers, <i>acc</i>. HÉS. <i>Sc. 99</i>.<br><b>      2</b> être passionné pour, <i>dat</i>. NAUMACH. (STOB. <i>Fl. 74, 75</i>).`

@@ -1,0 +1,1 @@
+lar[34132]=`(<i>seul. prés</i>.) continuer, perpétuer, SPT. <i>Sir. 9, 4 ; 12, 3 ; 20, 19 ; 37, 12 ; 41, 6</i>.<p><b>Étym</b>. ἐνδελεχής.`

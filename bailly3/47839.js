@@ -1,0 +1,1 @@
+lar[47839]=`<b>ας (ἡ)</b> <i>c</i>. θυεία, DIOSC. <i>2, 87</i>.<p>➳ <i>Ion</i>. θυίη, <i>dissyll</i>. ANDROM. (GAL. <i>Antid. 14, 41</i>).`

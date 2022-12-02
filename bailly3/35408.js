@@ -1,0 +1,1 @@
+lar[35408]=`<b>ἐξ·αλύω</b> <font color="purple">[ᾰ]</font> <i>(seul. part. prés.) c</i>. ἐξαλύσκω HH. <i>6, 51</i>.`

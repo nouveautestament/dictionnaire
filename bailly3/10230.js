@@ -1,0 +1,1 @@
+lar[10230]=`<b>ἀντι·πείθω</b> <font color="darkgreen">(<i>ao</i>. ἀντέπεισα)</font> persuader le contraire, CHRYS. <i>2, 908</i>.`

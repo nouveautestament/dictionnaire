@@ -1,0 +1,1 @@
+lar[13889]=`<i>ou</i> <b>Ἀπρίλλιος, α, ον</b>, d’avril, JOS. <i>A.J. 14, 10, 10</i> ; Ἀπριλίαις εἰδοῖς, PLUT. <i>Rom. 23,</i> aux ides d’avril ; ὁ ἀ. (<i>s.-e</i>. μήν) PLUT. <i>Rom. 4 ; Num. 19,</i> le mois d’avril.<p><b>Étym</b>. <i>cf. lat</i>. Aprilis.`

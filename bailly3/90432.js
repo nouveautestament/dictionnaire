@@ -1,0 +1,1 @@
+lar[90432]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> huche pour le pain et la farine, SOPH. <i>fr. 259 Dind.</i> ; AR. <i>Pl. 806, Eq. 1296</i> ; ANTH. <i>6, 302</i>.`

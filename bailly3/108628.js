@@ -1,0 +1,1 @@
+lar[108628]=`<b>χλωρο·ποιός, ός, όν</b>, qui rend verdâtre, jaune <i>ou</i> pâle, SEXT. <i>M. 6, 49, etc</i>.<p><b>Étym</b>. χλ. ποιέω.`

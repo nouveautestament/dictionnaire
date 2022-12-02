@@ -1,0 +1,1 @@
+lar[58904]=`<b>κυπόω-ῶ</b> <font color="purple">[ῡ]</font> baisser en avant, abaisser, LYC. <i>1442</i>.<p><b>Étym</b>. <i>cf</i>. κύπτω.`

@@ -1,0 +1,1 @@
+lar[100556]=`<b>τριτό·μηνις, ιδος (ἡ)</b> <i>s.-e</i>. ἡμέρα <font color="purple">[ῐτ]</font> le troisième jour du mois, <i>consacré à Pallas dans le calendrier athénien,</i> LYCURG. (HARP. <i>178, 15).</i><p><b>Étym</b>. τρίτος, μήν.`

@@ -1,0 +1,1 @@
+lar[93436]=`<font color="purple">[ῠ]</font> <i>adv</i>., confusément, ARSTT. <i>Nic. 7, 16</i> ; SEXT. <i>M. 7, 171, etc</i>.<p><b>Étym</b>. συγκέχυμαι <i>pf. pass. de</i> συγχέω.`

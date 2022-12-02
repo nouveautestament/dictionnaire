@@ -1,0 +1,1 @@
+lar[60800]=`<font color="purple">[ᾰ]</font> dériver, DYSC. <i>Synt. p. 101, 27</i>.<p><b>Étym</b>. λῆμμα.`

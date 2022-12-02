@@ -1,0 +1,1 @@
+lar[40011]=`<b>Ἑπτά·πορος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Heptaporos :<br><b>      1</b> <i>fl. près de Troie,</i> IL. <i>12, 20</i>.<br><b>      2</b> <i>dieu de ce fleuve,</i> HÉS. <i>Th. 341</i>.<p><b>Étym</b>. <i>v</i>. ἑπτάπορος.`

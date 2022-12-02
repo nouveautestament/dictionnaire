@@ -1,0 +1,1 @@
+lar[92188]=`<b>ου (ὁ)</b> = <i>lat</i>. Statilius, <i>n. d’h. rom</i>. PLUT. <i>Brut</i>. 12.`

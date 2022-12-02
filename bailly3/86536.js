@@ -1,0 +1,1 @@
+lar[86536]=`<b>Προσυμναία Ἥρα</b>, Hèra de Prosymna, <i>en Argolide,</i> AGATH. <i>et</i> TIMOTH. (Ps.-PLUT. <i>Fluv. 18, 3</i>).`

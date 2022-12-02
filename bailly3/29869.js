@@ -1,0 +1,1 @@
+lar[29869]=`<b>ατος (τὸ)</b> <font color="purple">[χᾰ]</font> fossé, ravin, POL. <i>12, 20, 4</i>.<p><b>Étym</b>. ἐγχαράσσω.`

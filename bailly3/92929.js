@@ -1,0 +1,1 @@
+lar[92929]=`<b>ιγγός (ἡ)</b> effraie, <i>oiseau de nuit, ainsi nommé à cause de son cri strident,</i> A. LIB. <i>21 conj</i>.`

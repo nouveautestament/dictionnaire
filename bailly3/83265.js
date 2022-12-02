@@ -1,0 +1,1 @@
+lar[83265]=`<b>ος, ον</b>. <font color="purple">[ᾱῐ]</font> qui se vend, qui est en vente, XÉN. <i>Cyr. 4, 5, 42</i> ; PLAT. <i>Leg. 847e, etc</i>.<p><b>Étym</b>. πιπράσκω.`

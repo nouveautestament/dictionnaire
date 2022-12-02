@@ -1,0 +1,1 @@
+lar[96669]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. σύστασις, PLOT. <i>Enn. 2, 1304 Creuz</i>.`

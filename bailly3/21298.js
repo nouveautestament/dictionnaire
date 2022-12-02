@@ -1,0 +1,1 @@
+lar[21298]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> prendre pour gendre, <i>d’où en gén</i>. contracter une union : πρός τινα, SPT. <i>Deut. 7, 3,</i> avec qqn ; <i>au pass</i>. être uni par mariage : τινι, JOS. <i>A.J. 14, 12, 1,</i> avec qqn.<p><b>Étym</b>. γαμβρός.`

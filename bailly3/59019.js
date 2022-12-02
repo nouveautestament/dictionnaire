@@ -1,0 +1,1 @@
+lar[59019]=`<b>έως</b>, <i>épq</i>. <b>-έος (ὁ)</b> <font color="purple">[ῠ]</font> celui qui est né à Kyta, <i>en Colchide, càd</i>. Œtès, A.RH. <i>2, 403</i>.`

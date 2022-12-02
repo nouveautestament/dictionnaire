@@ -1,0 +1,1 @@
+lar[90032]=`<b>(ἡ)</b> pustule, HPC. <i>Epid. 3, 1085</i>.<p><b>Étym</b>. σήπω.`

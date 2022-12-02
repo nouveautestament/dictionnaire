@@ -1,0 +1,1 @@
+lar[31677]=`<b>ἐκ·μηνύω</b> (<i>inf. pf. pass</i>. ἐκμεμηνῦσθαι) indiquer, dénoncer, PLUT. <i>Pel. 9</i>.`

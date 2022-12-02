@@ -1,0 +1,1 @@
+lar[24243]=`<i>adv.</i> :<br><b>   I</b> du peuple :<br><b>      1</b> du milieu du peuple, A.RH. <i>1, 7</i>.<br><b>      2</b> de la part du peuple, au nom <i>ou</i> aux frais du peuple, OD. <i>19, 197</i>.<br><b>   II</b> par dème, ANTH. <i>App. 328</i>.<p><b>Étym</b>. δῆμος, -θεν.`

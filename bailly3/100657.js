@@ -1,0 +1,1 @@
+lar[100657]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à un cheveu, mince, fin, ténu comme un cheveu, ARSTT. <i>H.A. 9, 37, 21, etc. ; fig. en parl. de la voix,</i> ARSTT. <i>Aud. 57</i>.<p><b>Étym</b>. θρίξ, -ωδης.`

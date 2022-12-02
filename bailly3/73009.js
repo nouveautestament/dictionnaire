@@ -1,0 +1,1 @@
+lar[73009]=`<b>ῶν (οἱ)</b> Orosanges, <i>dignitaires ou favoris du roi de Perse,</i> HDT. <i>8, 85</i>.`

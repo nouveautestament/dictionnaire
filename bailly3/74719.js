@@ -1,0 +1,1 @@
+lar[74719]=`<b>παμ·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> formé d’éléments mêlés, confus, ESCHL. <i>Pers. 269</i> ; LYC. <i>5</i> ; DS. <i>Exc. 576, 67</i>.<p><b>Étym</b>. π. μίγνυμι.`

@@ -1,0 +1,1 @@
+lar[70550]=`<b>ωνος (ὁ)</b> Œnopiôn, <i>h</i>. ALEX. (ATH. <i>443d</i>) ; A.RH. <i>3, 996</i> ; PLUT. <i>Thes. 20</i> ; LUC. <i>Pseud. 21</i>.`

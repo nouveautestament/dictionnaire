@@ -1,0 +1,1 @@
+lar[48498]=`<b>ατος (τὸ)</b> sueur, transsudation, ARSTT. <i>H.A. 10, 3, 7</i>.<p><b>Étym</b>. ἱδρόω.`

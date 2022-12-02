@@ -1,0 +1,1 @@
+lar[68928]=`<b>νομογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> donner des lois écrites, DS. <i>16, 70</i>.<p><b>Étym</b>. νομογράφος.`

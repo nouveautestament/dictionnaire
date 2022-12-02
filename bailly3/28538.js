@@ -1,0 +1,1 @@
+lar[28538]=`<b>δυσ·καμπής, ής, ές</b>, difficile à courber, PLUT. <i>M. 953d</i>.<p>•<i> Cp</i>. -έστερος, ORIB. <i>p. 242 Matthäi</i>.<p><b>Étym</b>. δ. κάμπτω.`

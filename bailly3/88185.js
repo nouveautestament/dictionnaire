@@ -1,0 +1,1 @@
+lar[88185]=`<b>άδος (ἡ)</b> <font color="purple">[ᾱᾰδ]</font> fente, crevasse, DS. <i>1, 39</i> ; ANTH. <i>11, 407, etc</i>.<p><b>Étym</b>. ῥήγνυμι.`

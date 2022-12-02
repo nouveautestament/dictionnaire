@@ -1,0 +1,1 @@
+lar[50906]=`<b>κακό·φλοιος, ος, ον</b> <font color="purple">[ᾰ]</font> dont l’écorce est vilaine <i>ou</i> mauvaise, NIC. <i>Al. 331</i>.<p><b>Étym</b>. κ. φλοιός.`

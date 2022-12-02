@@ -1,0 +1,1 @@
+lar[72810]=`<b>οντος (ὁ)</b> <i>avec ou sans</i> κύκλος, ligne <i>ou</i> cercle qui borne la vue, horizon, T. LOCR. <i>97a ;</i> ARSTT. <i>Meteor. 2, 6</i>.<p><b>Étym</b>. <i>part. prés. de</i> ὁρίζω.`

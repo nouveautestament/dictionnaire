@@ -1,0 +1,1 @@
+lar[75725]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> aventureux, téméraire, PLAT. <i>Soph. 242b ;</i> DÉM. <i>783, 11 ; en parl. d’une personne,</i> APP. <i>Hann. 50</i>.<p><b>Étym</b>. παρακινδυνεύω.`

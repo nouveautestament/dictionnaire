@@ -1,0 +1,1 @@
+lar[96737]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> <i>c</i>. συσχηματισμός PROCL.`

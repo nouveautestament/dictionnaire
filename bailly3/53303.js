@@ -1,0 +1,1 @@
+lar[53303]=`<b>κατα·σάττω</b>, tasser, entasser, TH. <i>C.P. 5, 6, 2</i>.`

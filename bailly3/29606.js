@@ -1,0 +1,1 @@
+lar[29606]=`<b>ἐγ·κατοικοδομέω-ῶ :<br>      1</b> bâtir dans, THC. <i>3, 18 (pf. pass. 3 sg</i>. ἐγκατῳκοδόμηται).<br><b>      2</b> emprisonner <i>avec</i> εἰς <i>et l’acc</i>. ESCHN. <i>26, 7 (ao. 3 sg</i>. ἐγκατῳκοδόμησεν) ; PLUT. <i>Lyc. 9 (pf. pass. part</i>. ἐγκατῳκοδομημένης) ; <i>fig. avec</i> ἐν <i>et le dat</i>. ARSTT. <i>An. 2, 8, 9</i>.<p><b>Étym</b>. ἐν, κ.`

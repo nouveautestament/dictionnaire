@@ -1,0 +1,1 @@
+lar[99637]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> description d’un lieu, d’un pays, STR.<p><b>Étym</b>. <i>cf</i>. τοπογραφέω.`

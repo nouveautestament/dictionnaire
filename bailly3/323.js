@@ -1,0 +1,1 @@
+lar[323]=`<b>Ἀγα·μήδη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Agamèdè, <i>f</i>. IL. <i>11, 740</i>.<p><b>Étym</b>. <i>cf</i>. Ἀγαμήδης.`

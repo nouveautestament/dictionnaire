@@ -1,0 +1,1 @@
+lar[20683]=`<b>βραχυ·βάμων, ων, ον</b>, <i>gén</i>. <b>-ονος</b> <font color="purple">[ᾰῠᾱ]</font> qui marche à petits pas, ARSTT. <i>Physiogn. 6, 44</i>.<p><b>Étym</b>. βρ. βαίνω.`

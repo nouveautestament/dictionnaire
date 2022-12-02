@@ -1,0 +1,1 @@
+lar[83414]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>autre n. de la violette,</i> DIOSC. <i>Noth. 4, 122 ; v</i>. ἴον.`

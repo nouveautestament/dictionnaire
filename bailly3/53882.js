@@ -1,0 +1,1 @@
+lar[53882]=`<b>κατ·εντρυφάω-ῶ</b> <font color="purple">[ῠ]</font> traiter avec dédain, <i>gén</i>. JAMBL. (PHOT. <i>Bibl. p. 133, 36</i>).`

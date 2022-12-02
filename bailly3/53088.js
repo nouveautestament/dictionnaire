@@ -1,0 +1,1 @@
+lar[53088]=`<b>ή, όν :<br>      1</b> qui sert à enduire, <i>particul</i>. qu’on applique comme un emplâtre, AR. <i>Pl. 717</i>.<br><b>      2</b> fardé, <i>d’où fig</i>. feint, peu naturel, MÉN. <i>(Bkk. p. 415, 9</i>) ; PLUT. <i>M. 44a</i>.<p><b>Étym</b>. <i>vb. de</i> καταπλάσσω.`

@@ -1,0 +1,1 @@
+lar[12397]=`<b>ἀπο·θεσπίζω</b>, rendre un oracle, STR. <i>419</i> ; PLUT. <i>Luc. 2 ; d’où</i> prophétiser, DH. <i>6, 43</i>.`

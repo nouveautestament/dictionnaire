@@ -1,0 +1,1 @@
+lar[102653]=`<b>ας (ἡ)</b> débordement (d’un fleuve, <i>etc</i>.) PTOL. <i>Tetr. 84, 13</i>.<p><b>Étym</b>. ὑπέρμετρος.`

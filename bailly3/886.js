@@ -1,0 +1,1 @@
+lar[886]=`<b>ή, όν</b>, bon pour la capture de, <i>gén</i>. XÉN. <i>Hipp. 4, 12</i>.`

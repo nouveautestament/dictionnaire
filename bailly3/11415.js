@@ -1,0 +1,1 @@
+lar[11415]=`<b>εως (ἡ)</b> <font color="purple">[τῐ]</font><br><b>      1</b> achèvement, perfection, ARSTT. <i>Plant. 2, 4, 5</i>.<br><b>      2</b> système accompli, HPC. <i>784f</i>.<p><b>Étym</b>. ἀπαρτίζω.`

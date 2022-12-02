@@ -1,0 +1,1 @@
+lar[100614]=`<b>ου</b> <font color="purple">[ῐχᾱ]</font> <i>adj. m</i>. chevelu ; ὁ τρ. <i>sorte de</i> sardine (<i>c</i>. τριχίς) ARSTT. <i>H.A. 8, 13, 10</i> ; DORION (ATH. <i>328e</i>).<p><b>Étym</b>. θρίξ.`

@@ -1,0 +1,1 @@
+lar[6825]=`<i>adv</i>., avec impudence, GAL. <i>9, 390</i>.<p><b>Étym</b>. *ἀναιδήμων, <i>de</i> ἀναιδής.`

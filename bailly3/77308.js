@@ -1,0 +1,1 @@
+lar[77308]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> πατάνη ANTIPH. <i>et</i> EUB. <i>3, 39 Meineke ; 3, 223 Meineke</i>.`

@@ -1,0 +1,1 @@
+lar[108394]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> privation, perte, A.RH. <i>4, 1064 ; particul</i>. veuvage, MAN. <i>3, 82</i>.<p><b>Étym</b>. χῆρος.`

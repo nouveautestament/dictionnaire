@@ -1,0 +1,1 @@
+lar[69477]=`<b>ας (ἡ)</b> meurtre d’hôtes <i>ou</i> d’étrangers, DS. <i>1, 88</i> ; DH. <i>1, 41</i> ; PLUT. <i>M. 857a</i>.<p><b>Étym</b>. ξενοκτόνος.`

@@ -1,0 +1,1 @@
+lar[87610]=`<b>πυκινό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῠῐῐχ]</font> aux cheveux <i>ou</i> aux poils épais, à la crinière épaisse, NONN. <i>D. 7, 322</i>.`

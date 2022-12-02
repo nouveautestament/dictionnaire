@@ -1,0 +1,1 @@
+lar[9017]=`<b>ἀνθ·υποκρούω</b>, interroger de façon à contredire, NYSS. <i>3, 584 Migne</i>.<p><b>Étym</b>. ἀντί, ὑ.`

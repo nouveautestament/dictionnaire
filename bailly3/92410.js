@@ -1,0 +1,1 @@
+lar[92410]=`<b>ης, ες</b>, d’une nature forte, solide, PORPH. (STOB. <i>Ecl. 1, 1012).</i><p><b>Étym</b>. στερέμνιος, -ωδης.`

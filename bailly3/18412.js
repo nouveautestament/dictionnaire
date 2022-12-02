@@ -1,0 +1,1 @@
+lar[18412]=`<b>ἀ·χείματος, ος, ον</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἀχείμερος ESCHL. <i>Suppl. 135</i>.<p><b>Étym</b>. ἀ, χεῖμα.`

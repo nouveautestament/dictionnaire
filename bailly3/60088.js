@@ -1,0 +1,1 @@
+lar[60088]=`<b>*λέγω</b>, <i>à cause des homonymes avec</i> λέγω² <i>et</i> λέγω³ (ἔλεξα, λέξομαι, <i>etc.) posé par erreur p</i>. λέχω.`

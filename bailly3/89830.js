@@ -1,0 +1,1 @@
+lar[89830]=`<b>ου (τὸ)</b> = <i>lat</i>. Septempagium, <i>lieu près de Fidènes,</i> PLUT. <i>Rom. 25</i>.`

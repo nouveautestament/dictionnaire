@@ -1,0 +1,1 @@
+lar[86387]=`<b>α, ον</b>, <i>vb. de</i> *προσέρω, PLAT. <i>Rsp. 428c, Leg. 812b ; au neutre,</i> PLAT. <i>Rsp. 431d, etc</i>.`

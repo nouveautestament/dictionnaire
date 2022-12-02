@@ -1,0 +1,1 @@
+lar[31815]=`<b>ἐκ·πέρυσι</b> <font color="purple">[ῠ]</font> <i>adv</i>., depuis un an, LUC. <i>Sol. 7</i>.`

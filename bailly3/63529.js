@@ -1,0 +1,1 @@
+lar[63529]=`<b>έως (ὁ)</b> Mégistée, <i>h</i>. ANTH. <i>7, 25, etc</i>.<p>➳ <i>Acc</i>. Μεγιστέα, ANTH. <i>7, 25, etc. ; trisyll. par syniz</i>. A. PL. <i>307 ; par contr</i>. Μεγιστῆ, ANTH. <i>7, 27</i>.`

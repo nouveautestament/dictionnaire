@@ -1,0 +1,1 @@
+lar[79433]=`<b>περι·στυφελίζω</b> <font color="purple">[ῠ]</font> presser tout autour, maltraiter de tous les côtés, écraser, OPP. <i>H. 3, 23</i>.`

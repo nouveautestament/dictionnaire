@@ -1,0 +1,1 @@
+lar[80312]=`<b>πιλο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font> qui porte un bonnet de feutre, ANTH. <i>9, 430 ; en parl. des Flamines, à Rome,</i> DC. <i>68, 9</i>.<p><b>Étym</b>. πῖλος, φέρω.`

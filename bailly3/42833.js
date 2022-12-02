@@ -1,0 +1,1 @@
+lar[42833]=`<i>adv</i>., d’une grosseur convenable, DIOCL. (ORIB. <i>3, 173, 5 B.-Dar</i>.).`

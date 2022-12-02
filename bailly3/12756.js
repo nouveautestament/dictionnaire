@@ -1,0 +1,1 @@
+lar[12756]=`<b>ἀπο·λέπω :<br>      1</b> peler, AR. <i>Av. 673</i>.<br><b>      2</b> écorcher, EUR. <i>Cycl. 237</i>.`

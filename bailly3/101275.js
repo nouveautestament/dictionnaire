@@ -1,0 +1,1 @@
+lar[101275]=`<i>dor. p</i>. τούς, <i>acc. pl. masc. de l’art</i>. ὁ, ἡ, τό, <i>ou poét. du relat</i>. ὅς, ἥ, ὅ.`

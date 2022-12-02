@@ -1,0 +1,1 @@
+lar[34187]=`<b>ή, όν</b>, qui aime à passer son temps dans, <i>dat</i>. M. ANT. <i>1, 16</i>.<p><b>Étym</b>. ἐνδιατρίβω.`

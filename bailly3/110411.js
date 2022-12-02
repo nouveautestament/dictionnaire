@@ -1,0 +1,1 @@
+lar[110411]=`<b>ὡρεσι·δώτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. dispensateur des saisons <i>ou</i> des fruits des saisons, <i>ép. d’Apollon,</i> ANTH. <i>9, 525</i>.<p><b>Étym</b>. ὥρα, δίδωμι.`

@@ -1,0 +1,1 @@
+lar[2451]=`<b>ων (οἱ)</b> <font color="purple">[ῑ]</font> Æthikes, <i>pple thessalien,</i> IL. <i>2, 744</i>.`

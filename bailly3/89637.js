@@ -1,0 +1,1 @@
+lar[89637]=`<i>ou</i> <b>σεβέννιον, ου (τὸ)</b> enveloppe de la fleur du palmier, ARCHIG. (GAL. <i>13, 381</i>).`

@@ -1,0 +1,1 @@
+lar[39141]=`<b>ου (τὸ)</b> hangar pour mettre à couvert les vaisseaux tirés à terre, OD. <i>6, 265</i>.<p><b>Étym</b>. <i>orig. inconnue</i>.`

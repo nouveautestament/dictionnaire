@@ -1,0 +1,1 @@
+lar[37785]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> attestation au nom des dieux, PLUT. <i>M. 1117a</i>.<p><b>Étym</b>. ἐπιθειάζω.`

@@ -1,0 +1,1 @@
+lar[93619]=`<b>εως (ἡ) :<br>      1</b> usage de termes synonymes, ATH. <i>477c.</i><br><b>      2</b> usage habituel, M. RUBR. <i>27 ; fig</i>. CLÉM. <i>376</i>.<p><b>Étym</b>. συγχράομαι.`

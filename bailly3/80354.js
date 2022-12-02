@@ -1,0 +1,1 @@
+lar[80354]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Pindare, AR. <i>Av. 939, etc</i>.<p><b>Étym</b>. Πίνδαρος.`

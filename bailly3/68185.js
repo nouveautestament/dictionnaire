@@ -1,0 +1,1 @@
+lar[68185]=`<b>νεο·λαία, ας (ἡ)</b> troupe de jeunes gens, ESCHL. <i>Pers. 668, Suppl. 686</i> ; EUR. <i>Alc. 103</i> ; THCR. <i>Idyl. 18, 24</i> ; HDN <i>4, 9, 7, etc</i>.<p><b>Étym</b>. ν. λαός.`

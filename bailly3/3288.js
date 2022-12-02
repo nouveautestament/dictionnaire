@@ -1,0 +1,1 @@
+lar[3288]=`<i>épq</i>. <b>Ἀκεσσαμενός (ὁ)</b> Akésamènos <i>ou</i> Akessaménos, <i>roi de Thrace,</i> IL. <i>21, 142</i>.`

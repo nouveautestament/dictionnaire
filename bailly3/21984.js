@@ -1,0 +1,1 @@
+lar[21984]=`<b>α, ον</b> <font color="purple">[γῐ]</font> <i>c</i>. γιγάντειος, ORIG. <i>1, 1169c</i>.`

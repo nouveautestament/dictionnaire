@@ -1,0 +1,1 @@
+lar[14148]=`<b>ἀραξί·χειρ, -χειρος (ὁ, ἡ)</b> <font color="purple">[ᾰρῐ]</font> battu avec la main, ANTH. <i>6, 94</i>.<p><b>Étym</b>. ἀράσσω, χείρ.`

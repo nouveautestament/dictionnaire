@@ -1,0 +1,1 @@
+lar[79958]=`<b>α, ον</b>, qui mérite la mort, LYC. <i>87</i>.<p><b>Étym</b>. πεφνεῖν.`

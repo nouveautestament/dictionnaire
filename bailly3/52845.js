@@ -1,0 +1,1 @@
+lar[52845]=`<b>κατα·μιμέομαι-οῦμαι</b> <font color="purple">[ῑ]</font> imiter en se moquant, contrefaire, DH. <i>7, 72</i>.`

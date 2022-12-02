@@ -1,0 +1,1 @@
+lar[107976]=`<b>η, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui réjouit, qui est un sujet de joie, HDT. <i>3, 27</i>.<br><b>      2</b> qui exprime la joie : τὰ χαρμόσυνα (<i>s.-e</i>. ἱερά) PLUT. <i>M. 362d</i>, fête de réjouissance.<p><b>Étym</b>. χαίρω.`

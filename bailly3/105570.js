@@ -1,0 +1,1 @@
+lar[105570]=`<b>Φιλ·έριφος, ου (ὁ)</b> <font color="purple">[ῐῐ]</font> Ami du chevreau, <i>n. de paysan,</i> EL. <i>Ep. rust. 10</i>.<p><b>Étym</b>. φ. ἔριφος.`

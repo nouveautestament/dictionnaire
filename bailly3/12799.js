@@ -1,0 +1,1 @@
+lar[12799]=`<b>ων (τὰ)</b> <font color="purple">[ᾰπ]</font> les jeux Apollinaires, <i>à Rome,</i> DC. <i>47, 18</i>.<p><b>Étym</b>. Ἀπόλλων.`

@@ -1,0 +1,1 @@
+lar[101148]=`<b>τυρο·φόρος, ος, ον</b> <font color="purple">[ῡ]</font> recouvert de fromage, <i>ép. d’un gâteau,</i> ANTH. <i>6, 155</i>.<p><b>Étym</b>. τ. φέρω.`

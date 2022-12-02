@@ -1,0 +1,1 @@
+lar[39084]=`<b>ἐπι·σταλάζω</b> <font color="purple">[τᾰ]</font> <i>c</i>. ἐπιστάζω, LUC. <i>Ep. sat. 31</i>.`

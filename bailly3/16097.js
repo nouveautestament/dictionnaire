@@ -1,0 +1,1 @@
+lar[16097]=`<i>superl. de</i> ἄγχι, ESCHL. <i>fr. 62</i>.`

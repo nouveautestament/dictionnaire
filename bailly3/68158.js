@@ -1,0 +1,1 @@
+lar[68158]=`<b>νεο·κατήχητος, ος, ον</b>, nouvellement catéchisé, néophyte, CLÉM. <i>805</i> ; CHRYS. <i>4, 161</i>.<p><b>Étym</b>. ν. κατηχέομαι.`

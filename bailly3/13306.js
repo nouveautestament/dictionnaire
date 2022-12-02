@@ -1,0 +1,1 @@
+lar[13306]=`<b>ἀπο·σκεπάζω</b>, ôter ce qui recouvre, découvrir, GEOP. <i>7, 15, 4</i>.`

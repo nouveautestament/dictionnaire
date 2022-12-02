@@ -1,0 +1,1 @@
+lar[33885]=`<b>ἐναντιο·δρομία, ας (ἡ)</b> course en sens inverse, HÉRACLITE ÉPH. <i>fr. A, 8</i> (STOB. <i>Ecl. 1, 60).</i><p><b>Étym</b>. ἐν. δρόμος.`

@@ -1,0 +1,1 @@
+lar[84029]=`<b>προ·εγχειρέω-ῶ :<br>      1</b> entreprendre avant le temps, POL. <i>2, 68, 2</i>.<br><b>      2</b> instituer un raisonnement auparavant, ARSTT. <i>Top. 8, 9, 1</i>.`

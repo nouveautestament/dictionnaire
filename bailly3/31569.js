@@ -1,0 +1,1 @@
+lar[31569]=`<b>ή, όν :<br>      1</b> qui concerne les éclipses, PLUT. <i>Rom. 12, Æmil. 17, Dio. 24, M. 145c, 923a, 933e ; subst</i>. ἡ ἐκλειπτική, PLUT. <i>M. 932a, 1028d</i>, éclipse.<br><b>      2</b> <i>subst</i>. ὁ ἐκλ. (<i>s.-e</i>. κύκλος), <i>Cleom. 90, 3</i> ; THEOL. <i>16,</i> l’écliptique.<p><b>Étym</b>. ἐκλείπω.`

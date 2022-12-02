@@ -1,0 +1,1 @@
+lar[4274]=`<b>Ἀλέξ·ιππος, ου (ὁ)</b> Alexippos :<br><b>      1</b> <i>médecin d’Alexandre le Grand,</i> PLUT. <i>Alex. 41</i>.<br><b>      2</b> <i>autres,</i> AND. <i>1, 18 Baiter-Sauppe</i>.<p><b>Étym</b>. ἀλέξω, ἵππος.`

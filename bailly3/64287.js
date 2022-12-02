@@ -1,0 +1,1 @@
+lar[64287]=`<b>Μέν·ανδρος, ου (ὁ)</b> Ménandre :<br><b>      1</b> <i>poète de la nouvelle comédie</i>.<br><b>      2</b> <i>autres,</i> PD. <i>N. 5, 48</i> ; THC. <i>7, 16, etc</i>.<p><b>Étym</b>. <i>v</i>. μένανδρος.`

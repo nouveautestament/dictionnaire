@@ -1,0 +1,1 @@
+lar[34558]=`<b>ἐν·θρηνέω-ῶ</b>, se lamenter dans <i>ou</i> sur, ARSTD. <i>t. 1, 262</i>.`

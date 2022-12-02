@@ -1,0 +1,1 @@
+lar[76004]=`<b>πάρ·αντα</b> <font color="purple">[τᾰ]</font> <i>adv</i>., de côté, IL. <i>23, 116</i>.<p><b>Étym</b>. π. ἄντα.`

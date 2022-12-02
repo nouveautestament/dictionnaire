@@ -1,0 +1,1 @@
+lar[83386]=`<b>ους (ὁ)</b> Préxaspès, <i>Perse,</i> HDT. <i>3, 30, etc</i>.<p>➳ <i>Voc</i>. Πρήξασπες, HDT. <i>3, 34, etc. ; gén</i>. -έω, HDT. <i>3, 74, etc. ; et</i> -εος, HDT. <i>3, 62 ; acc</i>. -εα, HDT. <i>3, 30, etc</i>.`

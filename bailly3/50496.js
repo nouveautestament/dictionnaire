@@ -1,0 +1,1 @@
+lar[50496]=`<b>καθ·ύπνιος, ος, ον</b>, qui se produit pendant le sommeil, en songe, ŒNOM. (EUS. <i>3, 376 Migne).</i><p><b>Étym</b>. κ. ὕπνος.`

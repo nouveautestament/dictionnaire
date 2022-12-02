@@ -1,0 +1,1 @@
+lar[29682]=`<font color="purple">[ῐτ]</font> <i>adv</i>., en écrivant <i>ou</i> en prononçant comme enclitique, DYSC. <i>Synt. 222, 22 Schneider-Uhlig</i>.`

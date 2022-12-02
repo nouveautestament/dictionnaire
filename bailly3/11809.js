@@ -1,0 +1,1 @@
+lar[11809]=`<b>ἀπ·έρρω</b>, s’en aller, se perdre, EUR. <i>H.f. 260, etc.</i> ; ἄπερρε, AR. <i>Nub. 783, Eccl. 169,</i> va-t’en aux corbeaux !.`

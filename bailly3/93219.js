@@ -1,0 +1,1 @@
+lar[93219]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la rédaction d’un ouvrage, <i>particul</i>. d’un ouvrage en prose, LUC. <i>M. cond. 35, Pisc. 23, etc</i>.<p>•<i> Cp</i>. -ώτερος, RHÉT. <i>9, 279 W</i>.<p><b>Étym</b>. συγγραφή.`

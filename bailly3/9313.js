@@ -1,0 +1,1 @@
+lar[9313]=`<b>ἀν·ορθιάζω</b> <font color="darkgreen">(<i>impf</i>. ἀνωρθίαζον, <i>pf</i>. ἀνωρθίακα ; <i>pass. pf</i>. ἀνωρθίασμαι) :</font><br><b>      1</b> parler à haute voix, crier, AND. <i>5, 5</i>.<br><b>      2</b> dresser l’oreille, PHIL. <i>2, 282, 483</i>.<p><b>Étym</b>. ἀνά, ὀ.`

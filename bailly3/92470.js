@@ -1,0 +1,1 @@
+lar[92470]=`<b>εος-ους (τὸ)</b> peau forte, cuir, A.RH. <i>3, 1348</i> ; LYC. <i>1347</i> ; ANTH. <i>6, 298</i>.`

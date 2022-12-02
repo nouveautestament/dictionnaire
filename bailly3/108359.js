@@ -1,0 +1,1 @@
+lar[108359]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> oison, EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. χήν.`

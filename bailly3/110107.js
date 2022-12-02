@@ -1,0 +1,1 @@
+lar[110107]=`<b>ῖνος (ἡ)</b> <font color="purple">[ῑ]</font> <i>forme postér. p</i>. ὠδίς, SPT. <i>Esaï. 37, 5</i> ; NT. <i>1Thess. 5, 3</i>.`

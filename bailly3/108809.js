@@ -1,0 +1,1 @@
+lar[108809]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτῐδ]</font> figurante dans un chœur, CALL. <i>Dian. 13, Del. 306</i> ; NONN. <i>D. 1, 504 ; 46, 158, etc</i>.<p><b>Étym</b>. χορός.`

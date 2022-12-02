@@ -1,0 +1,1 @@
+lar[47609]=`<font color="purple">[ᾰσ]</font> <i>adv</i>., d’un cœur intrépide, ESCHL. <i>Pr. 730</i>.`

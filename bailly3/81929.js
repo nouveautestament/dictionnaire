@@ -1,0 +1,1 @@
+lar[81929]=`<b>πολύ·θηρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> abondant en bêtes fauves, EUR. <i>Ph. 802, ou</i> en poissons, HLD. <i>5, 18</i>.<br><b>      2</b> épris de la chasse, EUR. <i>Hipp. 145</i>.<p><b>Étym</b>. π. θήρ <i>et</i> θήρα.`

@@ -1,0 +1,1 @@
+lar[42425]=`<b>εὐ·κήπευτος, ος, ον</b>, facile à cultiver dans un jardin, <i>d’où</i> qui vient bien dans un jardin, potager (légume) TH. <i>H.P. 7, 7, 2</i>.<p><b>Étym</b>. εὖ, κηπεύω.`

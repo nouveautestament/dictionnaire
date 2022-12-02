@@ -1,0 +1,1 @@
+lar[10037]=`<b>Ἀντι·λίβανος, ου (ὁ)</b> <font color="purple">[ῐῐᾰ]</font> l’Antiliban (<i>auj</i>. Jibāl Lubnān ash-Sharqiyyah) <i>chaîne de mt. de Syrie,</i> PLUT. <i>Alex. 24</i>.<p><b>Étym</b>. ἀ. Λίβανος.`

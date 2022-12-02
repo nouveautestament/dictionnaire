@@ -1,0 +1,1 @@
+lar[31016]=`<b>ἑκατομ·φόνια, ων (τὰ)</b> <font color="purple">[κᾰ]</font> sacrifice offert pour cent ennemis tués, PAUS. <i>4, 19, 3</i> ; PLUT. <i>Rom. 25, M. 159e, 660f, etc</i>.<p><b>Étym</b>. ἑ. φόνος.`

@@ -1,0 +1,1 @@
+lar[73845]=`<b>α, ον</b> <font color="purple">[<i>irrég</i>. ῑ]</font> de serpent, OPP. <i>C. 2, 237 ; 3, 436</i>.<p><b>Étym</b>. ὄφις.`

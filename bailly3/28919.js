@@ -1,0 +1,1 @@
+lar[28919]=`<b>*δυστήνως</b>, <i>adv</i>., misérablement, EUR. <i>Suppl. 967 (sup. dor</i>. δυστανοτάτως <font color="purple">[ᾱν]</font>).<p><b>Étym</b>. δύστηνος.`

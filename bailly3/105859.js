@@ -1,0 +1,1 @@
+lar[105859]=`<b>φιλό·κρημνος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les escarpements, ANTH. <i>6, 221</i>.<p><b>Étym</b>. φ. κρημνός.`

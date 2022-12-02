@@ -1,0 +1,1 @@
+lar[54047]=`<b>*κατ·ηχής</b>, <i>seul. dor</i>. <b>κατ·αχής, ής, ές</b> <font color="purple">[ᾰᾱ]</font> retentissant, THCR. <i>Idyl. 1, 7</i>.<p><b>Étym</b>. κ. ἠχώ.`

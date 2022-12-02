@@ -1,0 +1,1 @@
+lar[15402]=`<b>(ὁ)</b> Artobazanès, <i>Perse,</i> HDT. <i>7, 2</i>.`

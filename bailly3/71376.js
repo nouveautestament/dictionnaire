@@ -1,0 +1,1 @@
+lar[71376]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action d’accompagner qqn, escorte <i>ou</i> conduite, ARAT. <i>178</i>.<p><b>Étym</b>. ὅμηλυς.`

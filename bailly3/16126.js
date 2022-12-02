@@ -1,0 +1,1 @@
+lar[16126]=`<i>adv</i>., à flots, abondamment (<i>litt</i>. non goutte à goutte) PLAT. <i>Phæd. 117c</i>.<p>➳ <font color="purple">[ῑ]</font> SOPH. <i>O.C. 1646</i> ; <font color="purple">[ῐ]</font> <i>ibid. 1251</i>.<p><b>Étym</b>. ἄστακτος.`

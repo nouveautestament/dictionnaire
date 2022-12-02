@@ -1,0 +1,1 @@
+lar[58282]=`<b>(ὁ)</b> Ktèsis, <i>h</i>. IS. <i>4, 9 Baiter-Sauppe</i>.`

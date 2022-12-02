@@ -1,0 +1,1 @@
+lar[85438]=`<b>προσ·διηθέω-ῶ</b>, faire filtrer, ARSTT. <i>Probl. 23, 21</i>.`

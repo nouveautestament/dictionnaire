@@ -1,0 +1,1 @@
+lar[87814]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petit accès de fièvre, HPC. <i>Epid. 3, 1093</i>.<p><b>Étym</b>. <i>dim. de</i> πυρετός.`

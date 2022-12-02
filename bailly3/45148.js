@@ -1,0 +1,1 @@
+lar[45148]=`<i>c</i>. ἧλος, <i>ou, sel. d’autres, c</i>. ἥλιος, EUPH. <i>fr. 105 Mein</i>.`

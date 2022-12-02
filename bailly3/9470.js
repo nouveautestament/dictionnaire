@@ -1,0 +1,1 @@
+lar[9470]=`<b>ἀντ·άνειμι</b> <font color="darkgreen">(<i>impf</i>. ἀντανῄειν)</font> s’élever contre <i>ou</i> parallèlement à, THC. <i>2, 75</i>.`

@@ -1,0 +1,1 @@
+lar[19590]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Vesontio (<i>auj</i>. Besançon), <i>v. de Gaule,</i> DC.`

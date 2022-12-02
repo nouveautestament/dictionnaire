@@ -1,0 +1,1 @@
+lar[93274]=`<b>συγ·καταβιόω-ῶ</b>, passer sa vie avec, <i>dat</i>. PLUT. <i>M. 754a ;</i> ALCIPHR. <i>1, 32 ; avec</i> μετά <i>et le gén</i>. X. ÉPH. <i>1, 12 ; fig. avec le dat</i>. PLUT. <i>M. 500f</i>.`

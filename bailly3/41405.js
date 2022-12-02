@@ -1,0 +1,1 @@
+lar[41405]=`<b>ἑτερό·χροος-ους, οος-ους, οον-ουν :<br>      1</b> de couleur différente, TH. <i>C.P. 5, 3, 2</i>.<br><b>      2</b> tacheté, NONN. <i>D. 5, 186 (dat</i>. -χροϊ, <i>acc</i>. -χροα).<p><b>Étym</b>. ἕ. χρόα.`

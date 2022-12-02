@@ -1,0 +1,1 @@
+lar[22038]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> Glanis :<br><b>      1</b> <i>n. d’h</i>. AR. <i>Eq. 1035 (voc</i>. Γλάνι) ; <i>1004, 1097 (gén</i>. Γλάνιδος).<br><b>      2</b> <i>fl. de Campanie,</i> LYC. <i>718</i> ; DH. <i>etc</i>.`

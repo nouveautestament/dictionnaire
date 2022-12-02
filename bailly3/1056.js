@@ -1,0 +1,1 @@
+lar[1056]=`<b>ἀγχί·μολος, ος, ον</b> <font color="purple">[ῐ]</font> qui s’approche, voisin, THCR. <i>Idyl. 25, 203 ; adv</i>. ἀγχίμολον, IL. <i>4, 529</i> ; OD. <i>8, 300, etc.</i> ; HÉS. <i>Sc. 325,</i> tout auprès de, <i>dat.</i> ; ἐξ ἀγχιμόλοιο, IL. <i>24, 352,</i> de près ; <i>avec idée de temps,</i> aussitôt après, OD. <i>17, 336</i>.<p><b>Étym</b>. ἄ. μολεῖν.`

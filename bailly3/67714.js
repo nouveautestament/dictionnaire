@@ -1,0 +1,1 @@
+lar[67714]=`<b>ου (ὁ)</b> le Nauæthos (<i>auj</i>. Neto) <i>fl. de la Basse-Italie,</i> LYC. <i>921</i>.`

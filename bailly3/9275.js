@@ -1,0 +1,1 @@
+lar[9275]=`<i>adv</i>., avec des cas dissemblables, EUST. <i>Il. p. 631, 27</i>.`

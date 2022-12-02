@@ -1,0 +1,1 @@
+lar[34068]=`<b>ος, ον</b>, qui sert d’habitation, ANTH. <i>6, 219</i>.<p><b>Étym</b>. ἐναυλίζομαι.`

@@ -1,0 +1,1 @@
+lar[93145]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> babil, bavardage, AR. <i>Ran. 1069</i> ; POL. <i>9, 20, 6</i> ; ANTH. <i>7, 222</i> ; PLUT. <i>Cim. 4</i>.<p>➳ <i>Ion</i>. -ίη, ANTH. <i>l. c</i>.<p><b>Étym</b>. στωμύλος.`

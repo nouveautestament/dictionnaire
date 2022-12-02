@@ -1,0 +1,1 @@
+lar[95772]=`<font color="purple">[ᾱ]</font> <i>adv</i>., en masse serrée, PROCL. <i>Plat. Parm. 533</i>.<p><b>Étym</b>. συσπειράω.`

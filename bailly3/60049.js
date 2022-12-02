@@ -1,0 +1,1 @@
+lar[60049]=`<b>λαχνόω-ῶ</b>, rendre velu, <i>d’où, au pass.,</i> se couvrir de poils, de duvet, SOL. (PHIL. <i>1, 25</i>) ; ANTH. <i>12, 178</i>.<p><b>Étym</b>. λάχνος.`

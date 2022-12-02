@@ -1,0 +1,1 @@
+lar[89702]=`<b>σελα·ενο·νεο·άεια, ας (ἡ)</b> <i>mot forgé par</i> PLAT. <i>Crat. 409b pour expliquer</i> σελαναία.<p><b>Étym</b>. σέλας, *ἐνός, νέος, ἀεί.`

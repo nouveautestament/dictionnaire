@@ -1,0 +1,1 @@
+lar[95641]=`<b>συν·επικροτέω-ῶ</b>, applaudir ensemble <i>ou</i> unanimement, PLUT. <i>M. 56b, 63a</i>.`

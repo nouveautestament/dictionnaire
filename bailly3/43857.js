@@ -1,0 +1,1 @@
+lar[43857]=`<b>εὐ·ώδιν, ινος</b> <font color="purple">[ῑ]</font><br><b>      1</b> <i>act., adj. f</i>. qui enfante heureusement, OPP. <i>C. 3, 19</i> ; ANTH. <i>6, 201</i>.<br><b>      2</b> <i>pass., masc. et fém</i>. enfanté heureusement, COL. <i>281</i> ; NONN. <i>D. 14, 148</i>.<p><b>Étym</b>. εὖ, ὠδίς.`

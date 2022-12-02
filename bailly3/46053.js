@@ -1,0 +1,1 @@
+lar[46053]=`<b>ου (ὁ)</b> fils d’Hèphæstos, NONN. <i>D. 13, 177 ; 37, 503</i>.<p><b>Étym</b>. <i>patr. de</i> Ἥφαιστος.`

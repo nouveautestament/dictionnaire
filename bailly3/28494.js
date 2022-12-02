@@ -1,0 +1,1 @@
+lar[28494]=`<b>δυσθανατέω-ῶ</b> <font color="purple">[ᾰᾰτ]</font><br><b>      1</b> mourir d’une mort pénible <i>ou</i> lente, HDT. <i>9, 72</i>.<br><b>      2</b> <i>p. anal</i>. traîner une vie semblable à la mort, PLAT. <i>Rsp. 406b</i>.<p><b>Étym</b>. δυσθάνατος.`

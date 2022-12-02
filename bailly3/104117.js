@@ -1,0 +1,1 @@
+lar[104117]=`<b>ὑπο·φόνια, ων (τὰ)</b> rançon du meurtre, <i>somme que le meurtrier payait aux parents de la victime pour éviter des poursuites,</i> DIN. <i>et</i> TH. (HARP. <i>p. 179 Bkk</i>.) ; ARSTD. <i>t. 2, 436</i> ; PHILSTR. <i>877</i> ; DC. <i>77, 12</i>.<p><b>Étym</b>. ὑ. φόνος.`

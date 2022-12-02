@@ -1,0 +1,1 @@
+lar[99642]=`<b>τοπο·κράτωρ, ορος (ὁ)</b> gouverneur d’une localité, P. ALEX. <i>Apot. p. 70, l. 17 Boer</i>.<p><b>Étym</b>. τ. κρατέω.`

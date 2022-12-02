@@ -1,0 +1,1 @@
+lar[3282]=`<b>ῶν (αἱ)</b> = <i>lat</i>. Acerræ, <i>v. des Insubres,</i> PLUT. <i>Marc. 6</i>.`

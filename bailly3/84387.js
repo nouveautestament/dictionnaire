@@ -1,0 +1,1 @@
+lar[84387]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite dot, PLUT. <i>M. 767c</i>.<p><b>Étym</b>. *προΐξ.`

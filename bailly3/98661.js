@@ -1,0 +1,1 @@
+lar[98661]=`<b>ίδος (ἡ)</b> <i>mot béotien, litt</i>. « à quatre ailes », <i>sorte d’insecte ou d’oiseau recherché des gourmets,</i> AR. <i>Ach. 871</i>.<p><b>Étym</b>. <i>v</i>. τετράπτερος.`

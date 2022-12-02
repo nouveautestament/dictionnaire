@@ -1,0 +1,1 @@
+lar[81084]=`(<i>seul. prés</i>.) naviguer, POL. <i>4, 47, 1</i> ; DS. <i>3, 33</i>.<p><b>Étym</b>. πλόος.`

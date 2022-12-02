@@ -1,0 +1,1 @@
+lar[38932]=`<b>εως (ἡ)</b> amoncellement, TH. <i>C.P. 5, 6, 3</i>.<p><b>Étym</b>. ἐπισάττω.`

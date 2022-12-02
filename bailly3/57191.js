@@ -1,0 +1,1 @@
+lar[57191]=`donner des coups de cornes <i>ou</i> de tête, comme le bélier, THCR. <i>Idyl. 3, 5</i> ; ORACL. (LUC. <i>J. tr. 31).</i><p><b>Étym</b>. <i>cf</i>. κόρυς.`

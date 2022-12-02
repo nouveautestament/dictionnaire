@@ -1,0 +1,1 @@
+lar[70421]=`<b>α, ον</b>, qui concerne la garde d’une maison ; <i>subst</i>. τὰ οἰκούρια (<i>s.-e</i>. δῶρα) SOPH. <i>Tr. 542,</i> salaire pour la garde d’une maison.<p><b>Étym</b>. οἰκουρός.`

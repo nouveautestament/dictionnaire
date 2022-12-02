@@ -1,0 +1,1 @@
+lar[108525]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> la déesse à la tunique courte, <i>càd</i>. Artémis chasseresse, vêtue de la tunique dorienne, CALL. <i>Jov. 77, Dian. 225</i>.<p><b>Étym</b>. χιτών.`

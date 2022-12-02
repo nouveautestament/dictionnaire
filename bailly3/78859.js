@@ -1,0 +1,1 @@
+lar[78859]=`<b>περι·λακίζω</b> <font color="purple">[ᾰ]</font> mettre en pièces, JOS. <i>Macc. 10</i>.`

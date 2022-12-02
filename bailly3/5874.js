@@ -1,0 +1,1 @@
+lar[5874]=`<b>ῆρος (ὁ)</b> bandeau pour la tête d’un cheval, ESCHL. <i>Sept. 461</i>.`

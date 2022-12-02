@@ -1,0 +1,1 @@
+lar[43330]=`<b>έως (ὁ)</b> Eurysthée, <i>roi de Mycènes,</i> IL. <i>19, 123, etc</i>.<p>➳ <i>Gén. épq</i>. -ῆος, IL. <i>8, 363, etc. ; poét. et ion</i>. -έος, PD. <i>O. 3, 50</i> ; HDT. <i>9, 26. Dat. épq</i>. -ῆϊ, A.RH. <i>1, 1317, etc. Acc. épq</i>. -ῆα, HÉS. <i>Sc. 91</i> ; Q. SM. <i>6, 222</i> ; MOSCH. <i>4, 123</i>.`

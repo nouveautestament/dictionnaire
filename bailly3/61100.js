@@ -1,0 +1,1 @@
+lar[61100]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> fait en pierre, HDT. <i>2, 69</i>.<p><b>Étym</b>. λιθόω.`

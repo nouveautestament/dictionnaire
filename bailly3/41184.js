@@ -1,0 +1,1 @@
+lar[41184]=`<i>p</i>. ἔσκε, <i>dev. une voyelle avec esprit rude, v</i>. εἰμί.`

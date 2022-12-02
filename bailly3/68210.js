@@ -1,0 +1,1 @@
+lar[68210]=`<b>νεό·πλουτος, ος, ον :</b> récemment enrichi, ARSTT. <i>Rhet. 2, 16</i> ; PLUT. <i>M. 634c ;</i> LUC. <i>H. conscr. 20 ; fig</i>. AR. <i>Vesp. 1309 ; d’où</i> parvenu, orgueilleux comme un parvenu, PLUT. <i>M. 708c</i>.<p><b>Étym</b>. ν. πλοῦτος.`

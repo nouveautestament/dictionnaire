@@ -1,0 +1,1 @@
+lar[39468]=`<b>ἐπι·τραγῳδέω-ῶ</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> faire un récit tragique de qqe ch., <i>d’où</i> exagérer, TH. <i>H.P. 9, 8, 5</i> ; DH. <i>Thuc. 28</i> ; LUC. <i>Tox. 12 ; p. suite,</i> ajouter par exagération : τινί τι, PLUT. <i>Per. 28,</i> une ch. à une autre.<br><b>      2</b> ajouter un drame à un autre, <i>dat</i>. HLD. <i>2, 29</i>.`

@@ -1,0 +1,1 @@
+lar[67986]=`<b>νεκρ·ακαδημία, ας (ἡ)</b> <font color="purple">[ᾰκᾰ]</font> académie des morts, LUC. <i>V.H. 2, 23</i>.`

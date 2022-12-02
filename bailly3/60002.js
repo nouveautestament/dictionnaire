@@ -1,0 +1,1 @@
+lar[60002]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῡ]</font> lieu où l’on vend le butin, POL. <i>4, 6, 3</i>.<p><b>Étym</b>. λαφυροπωλέω.`

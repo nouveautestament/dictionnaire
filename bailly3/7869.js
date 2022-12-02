@@ -1,0 +1,1 @@
+lar[7869]=`<b>ἀνα·φλέγω</b>, allumer, enflammer, EUR. <i>Tr. 320 ; au pass</i>. LUC. <i>D. deor. 9, 2 ; fig. avec un acc. de pers</i>. enflammer (d’amour) EL. <i>N.A. 14, 15 ; d’où avec un acc. de chose,</i> attiser (l’amour) PLUT. <i>Alc. 17 ; au pass</i>. être enflammé, s’enflammer, PLAT. <i>Ep. 349a ;</i> LUC. <i>Fug. 10, D. mer. 8, 3, etc</i>.`

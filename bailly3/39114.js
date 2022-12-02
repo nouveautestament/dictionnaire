@@ -1,0 +1,1 @@
+lar[39114]=`<b>ἐπι·στενάχω</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) gémir sur, <i>dat</i>. ESCHL. <i>Ag. 790 ; abs</i>. SOPH. <i>O.R. 185</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. IL. <i>4, 154, etc</i>.`

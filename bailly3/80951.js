@@ -1,0 +1,1 @@
+lar[80951]=`<b>πληθο·ειδῶς</b>, <i>adv</i>., comme une foule, comme une masse, OLYMPIOD.<p><b>Étym</b>. πλῆθος, εἶδος.`

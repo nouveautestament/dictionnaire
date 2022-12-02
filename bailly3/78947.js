@@ -1,0 +1,1 @@
+lar[78947]=`<b>περι·νάω</b> (<i>seul. prés</i>.) couler tout autour, MÉTAG. (ATH. <i>270a</i>).`

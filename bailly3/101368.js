@@ -1,0 +1,1 @@
+lar[101368]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾱ]</font> le dieu de la santé (Dionysos) ATH. <i>36b</i>.`

@@ -1,0 +1,1 @@
+lar[60274]=`<b>εγος (ὁ)</b> Lélex, <i>1<sup>er</sup> roi de Lacédémone,</i> PAUS. <i>1, 39, 6, etc</i>.`

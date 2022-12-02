@@ -1,0 +1,1 @@
+lar[20400]=`<b>ατος (τὸ)</b> adoucissement, soulagement (d’un chagrin), BABR. <i>fr. 6, p. 246 Mein</i>.<p><b>Étym</b>. βουκολέω.`

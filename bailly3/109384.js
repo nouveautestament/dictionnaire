@@ -1,0 +1,1 @@
+lar[109384]=`<font color="darkgreen">(<i>f</i>. -ίσω, <i>att</i>. -ιῶ)</font> exposer dans un pot de terre un enfant nouveau-né, ESCHL. <i>fr. 120</i> ; SOPH. <i>fr. 476</i> ; PHÉRÉCR. (<i>Com. fr. 2, 357).</i><p><b>Étym</b>. χύτρα.`

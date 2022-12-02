@@ -1,0 +1,1 @@
+lar[86065]=`<b>προσ·κρίνω</b> <font color="purple">[ῑ]</font><br><b>      1</b> adjuger : τί τινι, DL. <i>1, 74</i> ; JOS. <i>B.J. proœm. 4,</i> qqe ch. à qqn.<br><b>      2</b> rapprocher, <i>d’où au pass</i>. être rapproché, réuni, amalgamé, ANAXAG. <i>fr. 12 Mullach</i>.`

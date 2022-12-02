@@ -1,0 +1,1 @@
+lar[457]=`<font color="purple">[ᾰγ]</font> <i>au pass</i>. s’attrouper, vivre en troupe, ARSTT. <i>H.A. 8, 12, 99, 2, 1</i>.<p><b>Étym</b>. ἀγέλη.`

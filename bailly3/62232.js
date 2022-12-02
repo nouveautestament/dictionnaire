@@ -1,0 +1,1 @@
+lar[62232]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la manière d’un cuisinier, AR. <i>Eq. 326, Ach. 1015, etc</i>.`

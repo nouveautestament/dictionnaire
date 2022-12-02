@@ -1,0 +1,1 @@
+lar[7608]=`<b>ἀνα·σηκόω-ῶ</b>, faire contrepoids, compenser, HPC. <i>Acut. 388</i> ; AR. <i>fr. 583, etc</i>.`

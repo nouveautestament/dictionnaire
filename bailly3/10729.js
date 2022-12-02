@@ -1,0 +1,1 @@
+lar[10729]=`<b>ἀν·ύπαρκτος, ος, ον</b>, qui n’a pas d’existence réelle, idéal, EPIC. (DL. <i>10, 135</i>) ; PLUT. <i>Lyc. 31, M. 360a, 963f</i>.<p><b>Étym</b>. ἀν-, ὑπάρχω.`

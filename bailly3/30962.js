@@ -1,0 +1,1 @@
+lar[30962]=`<i>adv</i>., en chaque lieu, partout, <i>avec mouv</i>. PLUT. <i>Mar. 20</i>.<p><b>Étym</b>. ἑκασταχο- <i>de</i> ἕκαστος, -ι.`

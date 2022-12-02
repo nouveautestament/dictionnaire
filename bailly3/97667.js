@@ -1,0 +1,1 @@
+lar[97667]=`<b>ων (οἱ)</b> <font color="purple">[ᾰῑᾱ]</font> les Tarikhanes, <i>n. de pple imaginaire,</i> LUC. <i>V.H. 1, 35, 38</i>.<p><b>Étym</b>. τάριχος.`

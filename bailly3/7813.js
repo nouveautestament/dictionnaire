@@ -1,0 +1,1 @@
+lar[7813]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à représenter, <i>gén</i>. SIMPL. <i>Epict. p. 73</i>.`

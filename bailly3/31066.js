@@ -1,0 +1,1 @@
+lar[31066]=`<b>Ἑκατ·ώνυμος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Hékatônymos, <i>h</i>. XÉN. <i>An. 5, 5, 7 ; etc.</i> ; ANTH. <i>9, 348</i>.<p><b>Étym</b>. ἑκατόν, ὄνομα.`

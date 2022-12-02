@@ -1,0 +1,1 @@
+lar[100989]=`<font color="purple">[ῠ]</font> rouler, envelopper, LYC. <i>11</i>.`

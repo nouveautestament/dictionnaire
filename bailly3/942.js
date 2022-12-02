@@ -1,0 +1,1 @@
+lar[942]=`<i>adv</i>., d’une manière sauvage <i>ou</i> cruelle, ESCHL. <i>Eum. 972, etc</i>.<p>•<i> Cp</i>. -ωτέρως, PLAT. <i>Leg. 867d, etc.</i> ; -ώτερον, PLAT. <i>Conv. 218a</i>.`

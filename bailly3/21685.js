@@ -1,0 +1,1 @@
+lar[21685]=`<b>ίδος (ἡ)</b> la déesse qui préside à la génération <i>ou</i> à la naissance, AR. <i>Nub. 52</i> ; LYS. <i>2 ; au plur</i>. AR. <i>Th. 130</i> ; PAUS. <i>1, 1, 4</i> ; LUC. <i>Am. 42 ; Pseud. 11</i>.<p><b>Étym</b>. γενετή.`

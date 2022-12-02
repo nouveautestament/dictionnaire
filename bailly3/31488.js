@@ -1,0 +1,1 @@
+lar[31488]=`<b>ἐκ·κορίζω</b>, chasser <i>ou</i> tuer des punaises, ANTH. <i>9, 113</i>.`

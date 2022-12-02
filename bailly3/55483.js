@@ -1,0 +1,1 @@
+lar[55483]=`<b>κιναιδο·λόγος, ος, ον</b> <font color="purple">[ῐ]</font> qui tient des propos obscènes, DL. <i>4, 40</i> ; ATH. <i>620f</i>.<p><b>Étym</b>. κίναιδος, λέγω.`

@@ -1,0 +1,1 @@
+lar[66534]=`<b>μονο·ειδής, ής, ές</b>, d’une seule sorte, simple, PLAT. <i>Tim. 59b, Phæd. 78d, etc</i>.<p><b>Étym</b>. μ. εἶδος.`

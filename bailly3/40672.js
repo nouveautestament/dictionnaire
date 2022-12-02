@@ -1,0 +1,1 @@
+lar[40672]=`<b>ἐρόεις, όεσσα, όεν</b>, aimable, HH. <i>Ven. 264, etc.</i> ; HÉS. <i>Th. 254</i> ; EUR. <i>fr. 903</i> ; AR. <i>Av. 248</i>.<p><b>Étym</b>. ἔρος.`

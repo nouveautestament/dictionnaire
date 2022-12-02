@@ -1,0 +1,1 @@
+lar[50240]=`<b>ων (οἱ)</b> les Kadousies, <i>pple riverain de la mer Caspienne,</i> XÉN. <i>Cyr. 5, 2, 25, etc.</i> ; PLUT. <i>Artax. 9, 24</i>.`

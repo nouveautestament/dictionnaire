@@ -1,0 +1,1 @@
+lar[21923]=`<b>γή·λοφος, ος, ον</b>, qui s’élève en colline, GEOP. <i>3, 1, 9 ; 5, 2, 15 ; subst</i>. ὁ γ. colline, XÉN. <i>An. 1, 5, 8 ; 4, 4, 1</i> ; PLAT. <i>Criti. 111c, 113d</i>.<p><b>Étym</b>. γῆ, λόφος.`

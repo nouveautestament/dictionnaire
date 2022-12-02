@@ -1,0 +1,1 @@
+lar[34372]=`<i>adv.</i> :<br><b>      1</b> activement, efficacement, SEXT. <i>239, 30 Bkk.</i><br><b>      2</b> <i>t. de gramm</i>. activement, <i>p. opp. à</i> παθητικῶς, DYSC. <i>Synt. 276</i>.`

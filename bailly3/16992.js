@@ -1,0 +1,1 @@
+lar[16992]=`<b>ἄ·τρυγος, ος, ον</b> <font color="purple">[αῠ]</font> sans lie, clair, limpide (vin, huile) ORACL. (ATH. <i>31c</i> et PLUT. <i>M. 295e</i>) ; SPT. <i>Ex. 27, 20</i>.<p><b>Étym</b>. ἀ, τρύξ.`

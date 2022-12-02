@@ -1,0 +1,1 @@
+lar[39515]=`<b>ῆς (ἡ) :<br>      1</b> nourriture, JOS. <i>A.J. 18, 9, 1</i>.<br><b>      2</b> croissance, accroissement, HIPPIATR. <i>p. 146, 15</i>.<p><b>Étym</b>. ἐπιτρέφω.`

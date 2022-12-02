@@ -1,0 +1,1 @@
+lar[41473]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne l’étymologie, EUST. <i>Od. p. 1799, 25</i>.<p><b>Étym</b>. ἐτυμολόγος.`

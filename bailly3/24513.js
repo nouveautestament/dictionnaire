@@ -1,0 +1,1 @@
+lar[24513]=`<b>δια·γρηγορέω-ῶ</b> (<i>seul. part. ao</i>. -ήσας) passer la nuit en veillant, NT. <i>Luc. 9, 32</i> ; πάσης τῆς νυκτὸς δ. ἐν φροντίσιν καὶ δέει, HDN <i>3, 4, 4</i>, passer toute la nuit dans les préoccupations et la crainte.`

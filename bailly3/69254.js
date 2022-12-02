@@ -1,0 +1,1 @@
+lar[69254]=`<b>(ὁ)</b> Nysis, <i>fl. d’Éthiopie,</i> ARSTT. <i>Meteor. 1, 13</i>.`

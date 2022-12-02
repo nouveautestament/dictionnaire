@@ -1,0 +1,1 @@
+lar[89081]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σαγηνευτήρ, σαγηνευτής ANTH. <i>7, 276, 295</i> ; PLUT. <i>Pomp. 73</i>.`

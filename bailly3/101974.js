@@ -1,0 +1,1 @@
+lar[101974]=`<b>ὑπ·ανοίγνυμι</b> <font color="darkgreen">(<i>impf. pass. 3 sg</i>. ὑπανεῴγνυτο)</font> entr’ouvrir, EPHIPP. (ATH. <i>29d</i>).`

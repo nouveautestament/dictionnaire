@@ -1,0 +1,1 @@
+lar[47779]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>sorte de compote,</i> COM. (ATH. <i>133c, 147b, 370e</i>) ; LUC. <i>Lex. 6</i>.<p><b>Étym</b>. θρύμμα.`

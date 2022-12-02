@@ -1,0 +1,1 @@
+lar[96630]=`<b>ας (ἡ)</b> union charnelle, mariage, NAZ. <i>3, 643 Migne</i>.<p><b>Étym</b>. σ. σάρξ.`

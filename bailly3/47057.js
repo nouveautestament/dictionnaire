@@ -1,0 +1,1 @@
+lar[47057]=`<b>*θεσσαλ·οικέτης</b>, <i>seul. att</i>. <b>θετταλ·οικέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> esclave thessalien, PHILOCR. <i>1</i> (ATH. <i>264a</i>).<p><b>Étym</b>. Θεσσαλός, οἰκέτης.`

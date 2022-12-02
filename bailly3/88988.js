@@ -1,0 +1,1 @@
+lar[88988]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Ῥωμαῖος PHILOD. <i>Epigr. 9, 2</i>.`

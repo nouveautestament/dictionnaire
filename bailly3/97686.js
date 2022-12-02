@@ -1,0 +1,1 @@
+lar[97686]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> <i>c</i>. τάριχος² 1 HDT. <i>9, 120</i> ; SOPH. <i>fr. 636</i>.<br><b>      2</b> <i>c</i>. τάριχος² 2, HDT. <i>9, 120</i>.`

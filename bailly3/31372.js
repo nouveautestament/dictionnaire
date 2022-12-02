@@ -1,0 +1,1 @@
+lar[31372]=`<b>ἑκκαιδεκα·στάδιος, ος, ον</b> <font color="purple">[τᾰ]</font> de seize stades, STR. <i>566</i>.<p><b>Étym</b>. ἑ. στάδιον.`

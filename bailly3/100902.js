@@ -1,0 +1,1 @@
+lar[100902]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>dim. de</i> τρῦχος, HPC. <i>Art. 813, 837, etc</i>.`

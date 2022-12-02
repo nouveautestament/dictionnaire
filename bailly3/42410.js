@@ -1,0 +1,1 @@
+lar[42410]=`<b>εὐ·κέατος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à fendre, OD. <i>5, 60</i> ; THCR. <i>Idyl. 25, 248</i>.<p><b>Étym</b>. εὖ, κεάζω.`

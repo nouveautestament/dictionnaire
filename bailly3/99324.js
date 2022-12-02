@@ -1,0 +1,1 @@
+lar[99324]=`<b>Τισί·μαχος, ου (ὁ)</b> Tisimakhos, <i>Athénien,</i> THC. <i>5, 84</i>.<p>➳ <i>Dans les inscr. att</i>. Τεισίμαχος, CIA. <i>1, 181c, 6 (5<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 144, 6. Sur le rad</i>. τει- <i>du verbe</i> τίνω.<p><b>Étym</b>. τίω, μάχη.`

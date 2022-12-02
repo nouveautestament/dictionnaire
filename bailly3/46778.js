@@ -1,0 +1,1 @@
+lar[46778]=`<b>ας (ἡ)</b> culte de la divinité, piété, XÉN. <i>An. 2, 6, 26</i> ; PLAT. <i>Epin. 985d, 989e ; dans les écriv. ecclés. titre d’honneur,</i> BAS. <i>4, 384, 388</i>.<p><b>Étym</b>. θεοσεβής.`

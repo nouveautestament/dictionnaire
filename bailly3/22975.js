@@ -1,0 +1,1 @@
+lar[22975]=`<b>ας (ἡ)</b> état d’un être possédé du démon, PROCL. <i>Ptol. 238, 19</i>.`

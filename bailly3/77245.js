@@ -1,0 +1,1 @@
+lar[77245]=`<b>Πασι·σωκλῆς, έους (ὁ)</b> <font color="purple">[ᾱσῐ]</font> Pasisôklès, <i>h</i>. ANTH. <i>App. 28 dout</i>.`

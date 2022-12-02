@@ -1,0 +1,1 @@
+lar[13861]=`<b>ου (ὁ)</b> = <i>lat</i>. Appius, <i>n. d’h. romain,</i> PLUT. <i>Cic. 26, etc. ; plur</i>. οἱ Ἄππιοι, les Appius, PLUT. <i>Æmil. 38</i>.`

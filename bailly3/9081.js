@@ -1,0 +1,1 @@
+lar[9081]=`<b>Ἀ·νίκητος, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> l’Invincible, <i>n. d’h</i>. ALCIPHR. <i>1, 28</i>.<p><b>Étym</b>. <i>v</i>. ἀνίκητος.`

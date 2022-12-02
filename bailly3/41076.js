@@ -1,0 +1,1 @@
+lar[41076]=`<i>adv</i>., en hâte, DH. <i>6, 1121 Reiske</i> ; ARR. <i>Epict. 1, 20, 12</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> σπεύδω.`

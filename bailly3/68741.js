@@ -1,0 +1,1 @@
+lar[68741]=`<b>*νικηφορία</b>, <i>dor</i>. <b>νικαφορία, ας (ἡ)</b> <font color="purple">[νῑκᾱ]</font> victoire remportée, victoire, PD. <i>P. 1, 115 ; O. 11, 62, etc</i>.<p><b>Étym</b>. νικηφόρος.`

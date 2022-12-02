@@ -1,0 +1,1 @@
+lar[12150]=`<b>ῆς (ἡ) :<br>      1</b> action de jeter au loin, PLAT. <i>Leg. 943e.</i><br><b>      2</b> perte, PLAT. <i>Lach. 195e, etc. ; au plur</i>. ARSTT. <i>Rhet. 1, 6, 4</i>.<br><b>      3</b> <i>t. de gr</i>. action de laisser tomber une lettre d’un mot, DYSC. <i>Synt. p. 52, 3 ; 130, 1, etc</i>.<p><b>Étym</b>. ἀποβάλλω.`

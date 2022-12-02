@@ -1,0 +1,1 @@
+lar[82614]=`<b>πολύ·ωτος, ος, ον</b>, pourvu de nombreuses oreilles, LUC. <i>Philops. 3</i>.<p><b>Étym</b>. π. οὖς.`

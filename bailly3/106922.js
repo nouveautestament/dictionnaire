@@ -1,0 +1,1 @@
+lar[106922]=`<i>adv</i>., sagement, avec prudence, ESCHL. <i>Suppl. 204</i> ; SOPH. <i>Ant. 682</i>.<p><b>Étym</b>. φρονέω.`

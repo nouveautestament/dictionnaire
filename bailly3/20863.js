@@ -1,0 +1,1 @@
+lar[20863]=`<b>εσσα, εν</b>, couvert de sang, <i>en parl. des armes d’un guerrier mort,</i> IL. <i>6, 480, etc.</i> ; HÉS. <i>Sc. 367 ; ou de dépouilles,</i> IL. <i>14, 509</i>.<p><b>Étym</b>. βρότος.`

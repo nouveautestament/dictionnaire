@@ -1,0 +1,1 @@
+lar[103728]=`<b>ὑπό·προσθεν</b>, <i>adv</i>., un peu en avant, HPC. <i>Epid. 3, 1081</i> ; THEOL. <i>p. 13, 19 et 24 ; 16, 29</i>.`

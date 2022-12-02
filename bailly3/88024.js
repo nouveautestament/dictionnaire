@@ -1,0 +1,1 @@
+lar[88024]=`<b>πυρσό·λοφοι, ων (οἱ)</b> lanières faites de cuir séché au feu, ANTIM. <i>93 Kinkel</i>.<p><b>Étym</b>. π. λόφος.`

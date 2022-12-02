@@ -1,0 +1,1 @@
+lar[19496]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui sert à faire des traits (<i>roseau</i>), GEOP. <i>2, 6, 23</i>.`

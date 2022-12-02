@@ -1,0 +1,1 @@
+lar[19542]=`<b>οῦ (ὁ)</b> partisan de la faction des Bleus, <i>dans le cirque,</i> M. ANT. <i>1, 5</i> (βένετος, ος, ον, bleu, LYD. <i>p. 43, 12</i>).`

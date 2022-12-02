@@ -1,0 +1,1 @@
+lar[3781]=`<b>ἀκρο·θώραξ, ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> qui a une pointe d’ivresse, légèrement ivre, ARSTT. <i>Probl. 3, 2</i> ; DIPH. (ATH. <i>421e</i>) ; PLUT. <i>M. 656c ;</i> LUC. <i>Lex. 8, etc</i>.<p>➳ <i>Ion</i>. ἀκροθώρηξ, HPC. (EROT. <i>p. 178</i>).`

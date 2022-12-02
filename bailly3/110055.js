@@ -1,0 +1,1 @@
+lar[110055]=`<b>οῦ (ὁ)</b> petit morceau, bouchée de pain <i>ou</i> de viande, OD. <i>9, 374</i> ; XÉN. <i>Mem. 3, 14, 5</i> ; ARSTT. <i>Rhet. 3, 4, 3</i>.<p><b>Étym</b>. ψάω.`

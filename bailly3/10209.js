@@ -1,0 +1,1 @@
+lar[10209]=`<b>ἀντι·παρέξειμι</b> <font color="darkgreen">(<i>impf</i>. -παρεξῄειν)</font> <i>c</i>. ἀντιπαράγω, PLUT. <i>M. 195c ;</i> JOS. <i>A.J. 2, 9, 4</i>.`

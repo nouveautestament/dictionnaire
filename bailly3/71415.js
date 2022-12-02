@@ -1,0 +1,1 @@
+lar[71415]=`<b>ὀμιχέω-ῶ</b> <font color="purple">[ῑ]</font> pisser, lâcher de l’eau, HÉS. <i>O. 725</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₃meiǵ<sup>h</sup>-, uriner ; <i>cf</i>. ὀμίχω, <i>lat</i>. meiō, mingō.`

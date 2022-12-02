@@ -1,0 +1,1 @@
+lar[103169]=`<b>ὑπο·διαφέρω</b> <font color="darkgreen">(<i>f</i>. -διοίσω, <i>ao</i>. -διήνεγκα, <i>etc</i>.)</font> parvenir par des menées secrètes à faire changer d’opinion, DC. <i>66, 13</i>.`

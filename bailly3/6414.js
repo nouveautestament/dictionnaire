@@ -1,0 +1,1 @@
+lar[6414]=`<b>Ἀμφιτρυωνιάδης, ου (ὁ)</b> fils d’Amphitryon (Hèraklès) HÉS. <i>Th. 317, Sc. 165</i> ; PD. <i>O. 8, 15, etc</i>.<p>➳ <i>Voc</i>. -άδη, LUC. <i>D. mort. 16, 5 ; dor. acc</i>. -άδαν, PD. <i>O. 3, 26</i> ; THCR. <i>Idyl. 13, 55</i>.`

@@ -1,0 +1,1 @@
+lar[23635]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> avec un sentiment religieux, LUC. <i>Im. 7</i>.<br><b>      2</b> avec superstition, PHIL. <i>1, 195</i>.<p><b>Étym</b>. δεισιδαίμων.`

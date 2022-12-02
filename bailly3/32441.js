@@ -1,0 +1,1 @@
+lar[32441]=`<b>ἐλαί·αγνος, ου (ὁ)</b> arbrisseau de Béotie, <i>p.-ê. l’</i>agnus-castus, TH. <i>H.P. 4, 10, 2</i>.<p><b>Étym</b>. ἐλαία, ἄγνος.`

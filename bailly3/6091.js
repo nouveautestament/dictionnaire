@@ -1,0 +1,1 @@
+lar[6091]=`<b>Ἀμφι·δάμας, αντος (ὁ)</b> <font color="purple">[δᾰ]</font> Amphidamas, <i>h</i>. IL. <i>10, 269 ; 23, 87</i> ; HÉS. <i>O. 652</i>.<p><b>Étym</b>. ἀ. δαμάζω.`

@@ -1,0 +1,1 @@
+lar[38544]=`<b>ἐπί·νομος, ος, ον :<br>      1</b> qui réside dans le pays, PD. <i>P. 11, 13</i>.<br><b>      2</b> légal, réglé par la loi, APP. <i>Civ. 3, 94</i>.<p><b>Étym</b>. ἐπί, νέμω.`

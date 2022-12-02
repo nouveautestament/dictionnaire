@@ -1,0 +1,1 @@
+lar[77799]=`<b>ά, όν :<br>      1</b> livide, plombé, HPC. <i>Progn. 37</i> ; DÉM. <i>1157, 6</i>.<br><b>      2</b> <i>en gén</i>. sombre, NIC. <i>Th. 279</i>.<p><b>Étym</b>. πελός ; <i>cf</i>. πολιός.`

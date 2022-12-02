@@ -1,0 +1,1 @@
+lar[95024]=`<b>συν·αύξω</b>, <i>c</i>. συναυξάνω, XÉN. <i>Mem. 4, 3, 6, Œc. 3, 10</i> ; ARSTT. <i>Nic. 10, 5, 2</i> ; TH. <i>H.P. 9, 19, 3 ; au pass</i>. HDT. <i>3, 134</i> ; EUR. <i>El. 544</i> ; XÉN. <i>Eq. 1, 16, etc.</i> ; DH. <i>Rhet. 7, 6</i> ; LUC. <i>Am. 33</i>.`

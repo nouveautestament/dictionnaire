@@ -1,0 +1,1 @@
+lar[18940]=`<b>βαλανη·φόρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui produit des dattes, HDT. <i>1, 193</i>.<p><b>Étym</b>. βάλανος, φέρω.`

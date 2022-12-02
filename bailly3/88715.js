@@ -1,0 +1,1 @@
+lar[88715]=`<b>ῥοδό·στακτον, ου (τὸ)</b> essence de rose au miel, P. ÉG. <i>7, 15</i>.<p><b>Étym</b>. ῥ. στάζω.`

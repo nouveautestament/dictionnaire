@@ -1,0 +1,1 @@
+lar[80118]=`<b>ης (ἡ) :<br>      1</b> fil du tisserand, ANTH. <i>6, 160</i>.<br><b>      2</b> <i>p. ext</i>. trame, tissu, toile, EUR. <i>Hec. 471, etc</i>.`

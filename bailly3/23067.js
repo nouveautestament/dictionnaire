@@ -1,0 +1,1 @@
+lar[23067]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> scammonée, <i>plante,</i> DIOSC. <i>4, 171</i>.<p><b>Étym</b>. δακτύλιος.`

@@ -1,0 +1,1 @@
+lar[96171]=`<b>συν·ομιλέω-ῶ</b> <font color="purple">[ῑ]</font> être en relation avec, avoir commerce avec, <i>dat</i>. NT. <i>Ap. 10, 27</i>.`

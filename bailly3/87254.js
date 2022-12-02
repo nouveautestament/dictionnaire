@@ -1,0 +1,1 @@
+lar[87254]=`<b>πρωτοστατέω-ῶ</b> <font color="purple">[ᾰ]</font> se tenir au premier rang <i>ou</i> en avant, être chef de file, PHIL. <i>2, 109</i> ; EL. TACT. <i>3, 2</i> ; HDN RH. <i>Schem. 588, 11</i>.<p><b>Étym</b>. πρωτοστάτης.`

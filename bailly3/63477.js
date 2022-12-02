@@ -1,0 +1,1 @@
+lar[63477]=`<font color="purple">[ᾰ]</font> <i>adv</i>., grandement, IL. <i>17, 723</i> ; OD. <i>16, 432</i> ; HÉS. <i>Th. 429</i> ; XÉN. <i>Cyr. 8, 2, 10, etc.</i> ; PLAT. <i>Hipp. ma. 291e, etc</i>.<p><b>Étym</b>. μέγας.`

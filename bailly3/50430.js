@@ -1,0 +1,1 @@
+lar[50430]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> incursion de cavalerie, DH. <i>9, 9</i>.<p><b>Étym</b>. καθιππεύω.`

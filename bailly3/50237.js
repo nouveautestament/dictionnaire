@@ -1,0 +1,1 @@
+lar[50237]=`<b>ου (ὁ)</b> Kadmos (Cadmus) :<br><b>      1</b> <i>c</i>. Καδμῖλος, LYC. <i>219</i>.<br><b>      2</b> <i>fils du roi phénicien Agénor et fondateur de Thèbes,</i> OD. <i>5, 333</i> ; HDT. <i>2, 145, etc.</i> ; PLAT. <i>Leg. 663e, etc.</i><br><b>      3</b> <i>tyran de Kos,</i> HDT. <i>7, 163, 164</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[72914]=`<b>ας</b> <font color="purple">[ῑθ]</font> observation des oiseaux pour prédire l’avenir d’après leur vol <i>ou</i> leur cri, POL. <i>6, 26, 4</i>.<p><b>Étym</b>. ὄρνις.`

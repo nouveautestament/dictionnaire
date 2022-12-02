@@ -1,0 +1,1 @@
+lar[94069]=`<b>συμ·παρακατακλίνω</b> <font color="purple">[ῑ <i>prés.,</i> ῐ <i>fut</i>.]</font> placer ensemble à table : τινά τινι, DC. <i>60, 18,</i> une personne à côté d’une autre.`

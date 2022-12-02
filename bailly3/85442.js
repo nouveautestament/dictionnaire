@@ -1,0 +1,1 @@
+lar[85442]=`<b>προσ·διορθόω-ῶ</b>, ordonner <i>ou</i> façonner en outre, <i>V. Plat. p. 391, 89 Westerm.</i><br><b><i>Moy.</i></b> ajouter qqe ch. pour rectifier ce qu’on a dit, ESCHN. <i>39, 34</i>.`

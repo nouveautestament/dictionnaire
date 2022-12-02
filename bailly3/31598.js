@@ -1,0 +1,1 @@
+lar[31598]=`<b>εως (ἡ)</b> action de recueillir, DIOSC. <i>1, 81</i>.<p><b>Étym</b>. ἐκλαμβάνω.`

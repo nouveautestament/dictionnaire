@@ -1,0 +1,1 @@
+lar[79399]=`<b>ων (τὰ)</b> cérémonies lustrales, purification, ISTER (PHOT.).<p><b>Étym</b>. περιΐστημι.`

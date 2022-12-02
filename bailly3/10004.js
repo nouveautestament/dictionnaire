@@ -1,0 +1,1 @@
+lar[10004]=`<b>ἀντι·κύπριος, ου (ὁ)</b> anticyprien, <i>pied d’un trochée suivi d’une longue et d’un autre trochée</i> : ‒ ⏑ ‒ ‒ ⏑, DIOM.<p><b>Étym</b>. ἀ. Κύπριος.`

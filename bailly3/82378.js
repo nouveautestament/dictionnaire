@@ -1,0 +1,1 @@
+lar[82378]=`<b>πολύ·σπερμος, ος, ον :<br>      1</b> abondant en sperme, ARSTT. <i>G.A. 1, 18, 57, etc.</i><br><b>      2</b> abondant en semences <i>ou</i> en graines, GEOP. <i>17, 5, 4</i>.<p><b>Étym</b>. π. σπέρμα.`

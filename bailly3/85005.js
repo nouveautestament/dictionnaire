@@ -1,0 +1,1 @@
+lar[85005]=`<b>ου</b>, <i>adj. m</i>. où l’on porte une santé, EUR. <i>Rhes. 361</i>.<p><b>Étym</b>. προπίνω.`

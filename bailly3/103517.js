@@ -1,0 +1,1 @@
+lar[103517]=`<b>ὑπο·μαραίνομαι</b> <font color="purple">[ᾰ]</font> se flétrir peu à peu, PLUT. <i>M. 411e ;</i> PHIL. <i>2, 252</i>.`

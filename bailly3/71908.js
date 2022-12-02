@@ -1,0 +1,1 @@
+lar[71908]=`<b>Ὀνησι·κράτης, ους</b>, <i>voc</i>. <b>ατες (ὁ)</b> <font color="purple">[ᾰ]</font> Onèsikratès, <i>h</i>. PLUT. <i>M. 679c, 1131b</i>.<p><b>Étym</b>. ὄνησις, κράτος.`

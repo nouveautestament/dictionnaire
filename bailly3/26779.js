@@ -1,0 +1,1 @@
+lar[26779]=`<b>έως (ὁ)</b> de Dioméies : οἱ Διομεῖς, HÉGÉSANDRE (ATH. <i>260a, 614d</i>) les citoyens du dème Dioméies.<p><b>Étym</b>. Διόμεια ; <i>cf</i>. Διομειεύς.`

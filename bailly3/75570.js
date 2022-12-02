@@ -1,0 +1,1 @@
+lar[75570]=`<b>παρα·ζητέω-ῶ</b>, chercher en vain, M. ANT. <i>12, 5</i>.`

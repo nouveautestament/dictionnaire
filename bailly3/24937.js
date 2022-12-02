@@ -1,0 +1,1 @@
+lar[24937]=`<b>διά·λευκος, ος, ον</b>, mêlé de blanc, blanchâtre, ARSTT. <i>Probl. 23, 6</i> ; STR. <i>807</i> ; PLUT. <i>Alex. 51 ; etc</i>.<p><b>Étym</b>. διά, λευκός.`

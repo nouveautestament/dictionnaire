@@ -1,0 +1,1 @@
+lar[40874]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> amour insensé, ANTH. <i>5, 47, etc</i>.<p><b>Étym</b>. ἐρωμανής.`

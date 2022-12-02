@@ -1,0 +1,1 @@
+lar[30041]=`<b>ητος (ἡ)</b> assiette solide, fermeté, fixité, CLÉM. <i>2, 465c Migne</i>.<p><b>Étym</b>. ἑδραῖος.`

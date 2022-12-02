@@ -1,0 +1,1 @@
+lar[90181]=`<b>σιδηρό·χαλκος, ος, ον</b> <font color="purple">[ῐ]</font> fait de fer et de cuivre, LUC. <i>Oc. 96</i>.<p><b>Étym</b>. σ. χαλκός.`

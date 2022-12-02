@@ -1,0 +1,1 @@
+lar[76892]=`<b>ας (ἡ)</b> Parthénia :<br><b>      1</b> <i>ancien n. de Samos,</i> ARSTT. <i>fr. 529</i> ; CALL. <i>Del. 49</i>.<br><b>      2</b> <i>surn. d’Hèra,</i> PD. <i>O. 6, 150</i>.<p>➳ <i>Ion</i>. -ίη, CALL. <i>l. c. etc</i>.<p><b>Étym</b>. <i>cf</i>. παρθενία.`

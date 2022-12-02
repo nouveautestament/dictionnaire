@@ -1,0 +1,1 @@
+lar[33942]=`<b>ἐν·αποικοδομέω-ῶ</b>, enfermer en murant, murer, POLYEN <i>8, 51</i>.`

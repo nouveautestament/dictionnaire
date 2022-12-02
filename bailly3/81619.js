@@ -1,0 +1,1 @@
+lar[81619]=`<b>πολιτο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῑῠᾰκ]</font> gardien <i>ou</i> protecteur des citoyens, <i>titre de certains magistrats à Larisse,</i> ARSTT. <i>Pol. 2, 8, 9</i>.<p><b>Étym</b>. πολίτης, φύλαξ.`

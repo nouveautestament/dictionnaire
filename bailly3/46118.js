@@ -1,0 +1,1 @@
+lar[46118]=`<font color="purple">[ᾱ]</font> être assis, accroupi, <i>d’où</i> aller à la selle, PLUT. <i>Lyc. 20</i> ; ARTÉM. <i>1, 2</i>.<p><b>Étym</b>. θᾶκος.`

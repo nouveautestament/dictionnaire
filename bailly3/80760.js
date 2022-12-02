@@ -1,0 +1,1 @@
+lar[80760]=`<b>πλατυ·λίσγων, ωνος (ὁ)</b> <font color="purple">[ᾰῠ]</font> hoyau <i>ou</i> bêche large, HÉRON <i>Bel. p. 11</i>.<p><b>Étym</b>. πλ. λίσγος.`

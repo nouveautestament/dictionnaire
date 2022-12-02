@@ -1,0 +1,1 @@
+lar[10221]=`<b>ἀντι·παρῳδέω-ῶ</b>, falsifier un chant (le texte d’Homère) par opposition à, <i>dat</i>. STR. <i>394</i>.`

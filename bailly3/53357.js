@@ -1,0 +1,1 @@
+lar[53357]=`<b>κατα·σκηνάω-ῶ</b>, poser une tente, XÉN. <i>An. 3, 4, 32, etc.</i><br><b><i>Moy.</i></b> poser sa tente, PLAT. <i>Rsp. 614e ; fig</i>. SYN. <i>p. 70c</i>.`

@@ -1,0 +1,1 @@
+lar[67391]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> huile parfumée, essence, <i>au plur</i>. AR. <i>Eccl. 1117</i> ; ATH. <i>691b</i>.<p><b>Étym</b>. μυρόω.`

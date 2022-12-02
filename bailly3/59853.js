@@ -1,0 +1,1 @@
+lar[59853]=`<b>Ζεύς (ὁ)</b> <font color="purple">[ᾰ]</font> Zeus, <i>père des Dioscures,</i> LYC. <i>1369</i> ; οἱ Λαπέρσιοι, LYC. <i>511,</i> les Dioscures.`

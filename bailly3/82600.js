@@ -1,0 +1,1 @@
+lar[82600]=`<b>πολύ·ψογος, ος, ον</b>, qui blâme beaucoup, PTOL. <i>Tetr. 172</i>.<p><b>Étym</b>. π. ψέγω.`

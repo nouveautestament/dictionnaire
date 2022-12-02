@@ -1,0 +1,1 @@
+lar[62332]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. μαθήτρια PHIL. <i>1, 273</i>.`

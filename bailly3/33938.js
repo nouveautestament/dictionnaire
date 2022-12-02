@@ -1,0 +1,1 @@
+lar[33938]=`<b>ἐν·αποθησαυρίζω</b>, mettre en réserve dans, <i>dat</i>. PHIL. <i>1, 278</i> ; JAMBL. <i>V. Pyth. 29</i>.`

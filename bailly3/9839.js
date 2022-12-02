@@ -1,0 +1,1 @@
+lar[9839]=`<b>ἀντιδιαστολή, ῆς (ἡ)</b> distinction avec opposition, DYSC. <i>Pron. 269, 289</i> ; CLÉM. <i>545</i>.<p><b>Étym</b>. ἀντιδιαστέλλω.`

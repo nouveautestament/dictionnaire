@@ -1,0 +1,1 @@
+lar[59222]=`<b>ου (τὸ) :<br>      1</b> petit cône, ANTH. <i>5, 13</i>.<br><b>      2</b> fruit du pistachier, pistache, POSIDON. (ATH. <i>649d</i>).<p><b>Étym</b>. κῶνος.`

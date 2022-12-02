@@ -1,0 +1,1 @@
+lar[61092]=`<b>λιθοφορέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> porter une pierre <i>ou</i> des pierres, THC. <i>6, 98</i>.<p><b>Étym</b>. λιθοφόρος.`

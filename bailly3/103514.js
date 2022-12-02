@@ -1,0 +1,1 @@
+lar[103514]=`<b>ὑπο·μαλάσσω</b>, <i>att</i>. <b>ὑπο·μαλάττω</b> <font color="purple">[μᾰ]</font> amollir un peu <i>ou</i> peu à peu, DIOSC. <i>5, 15</i> ; ARISTÉN. <i>1, 3 ; au pass</i>. LUC. <i>D. mer. 4, 2</i>.`

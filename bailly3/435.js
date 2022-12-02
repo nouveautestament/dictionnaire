@@ -1,0 +1,1 @@
+lar[435]=`<b>ή, όν</b>, propre à annoncer, qui est un présage, PORPH. <i>Abst. 221</i>.`

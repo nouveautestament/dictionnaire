@@ -1,0 +1,1 @@
+lar[3553]=`<b>ύος (ἡ)</b> <font color="purple">[ᾰ]</font> combat avec des javelots, IL. <i>23, 622</i>.<p><b>Étym</b>. ἀκοντίζω.`

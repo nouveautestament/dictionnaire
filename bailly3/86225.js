@@ -1,0 +1,1 @@
+lar[86225]=`<b>προσορέω-ῶ</b>, être limitrophe de, <i>dat</i>. POL. <i>10, 41, 4, etc</i>.<p><b>Étym</b>. πρόσορος.`

@@ -1,0 +1,1 @@
+lar[67094]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. μύκης EPICH. CARYST. <i>et</i> DIOCL. (ATH. <i>60f, 61c</i>).<p>➳ <i>Gén. ion</i>. -εω, ARCHIL. <i>47</i>.`

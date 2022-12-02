@@ -1,0 +1,1 @@
+lar[2928]=`<b>ῆρος (ὁ)</b> homme adultère, ESCHL. <i>Ch. 990</i>.<p><b>Étym</b>. αἰσχύνω.`

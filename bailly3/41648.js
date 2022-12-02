@@ -1,0 +1,1 @@
+lar[41648]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une façon agréable, NT. <i>Hebr. 12, 28</i> ; εὐαρεστοτέρως ἔχειν, XÉN. <i>Mem. 3, 5, 5,</i> se rendre plus agréable.`

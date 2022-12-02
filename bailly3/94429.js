@@ -1,0 +1,1 @@
+lar[94429]=`<b>συμ·φιλοκαλέω-ῶ</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> aimer le bien <i>ou</i> la vertu avec, <i>dat</i>. JOS. <i>A.J. Proœm. 2 ; abs</i>. PLUT. <i>M. 55c.</i><br><b>      2</b> être candidat pour une distinction avec un autre, PLUT. <i>Sert. 14</i>.`

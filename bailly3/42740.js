@@ -1,0 +1,1 @@
+lar[42740]=`<b>ῆρος (ὁ) :<br>      1</b> qui partage la couche, époux, LYC. <i>144</i>.<br><b>      2</b> qui maintient au repos, <i>d’où</i> ancre, OPP. <i>H. 3, 373</i>.<p><b>Étym</b>. εὐνάζω.`

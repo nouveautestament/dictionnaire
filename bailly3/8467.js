@@ -1,0 +1,1 @@
+lar[8467]=`<b>ἀν·επίξεστος, ος, ον :<br>      1</b> non poli, THÉM. <i>388b.</i><br><b>      2</b> <i>p. suite,</i> non achevé, HÉS. <i>O. 744 dout</i>.<p><b>Étym</b>. ἀν-, ἐπιξέω.`

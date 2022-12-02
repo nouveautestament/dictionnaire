@@ -1,0 +1,1 @@
+lar[43059]=`<i>adv</i>., avec bienfaisance, M. ANT.`

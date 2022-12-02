@@ -1,0 +1,1 @@
+lar[50161]=`<b>οῦ (ὁ)</b> portier d’une ville, DYSC. <i>Pron. p. 330</i>.`

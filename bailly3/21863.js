@@ -1,0 +1,1 @@
+lar[21863]=`<b>γεω·μέτρης, ου (ὁ)</b> géomètre, arpenteur, XÉN. <i>Mem. 4, 2, 10</i> ; PLAT. <i>Theæt. 143b, etc</i>.<p><b>Étym</b>. γῆ, μετρέω.`

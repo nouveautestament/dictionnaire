@@ -1,0 +1,1 @@
+lar[57045]=`vivre en jeune fille, EUR. <i>Alc. 312</i>.<p><b>Étym</b>. κόρη.`

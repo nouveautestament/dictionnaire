@@ -1,0 +1,1 @@
+lar[20647]=`<b>ων (τὰ)</b> <font color="purple">[ᾰκᾰ]</font> sorte de légumes sauvages, PHÉRÉCR. (ATH. <i>316e</i>) ; LUC. <i>Lex. 2</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

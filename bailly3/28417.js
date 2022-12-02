@@ -1,0 +1,1 @@
+lar[28417]=`<b>δυσ·έπακτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à amener, PHIL. BYZ. <i>Bel. 58</i>.<p><b>Étym</b>. δ. ἐπάγω.`

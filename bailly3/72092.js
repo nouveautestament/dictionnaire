@@ -1,0 +1,1 @@
+lar[72092]=`<b>ὀξύ·ηχος, ος, ον</b>, au bruit <i>ou</i> au son aigu, A. APHR. <i>Probl. 1, 97</i>.<p><b>Étym</b>. ὀ. ἦχος.`

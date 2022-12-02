@@ -1,0 +1,1 @@
+lar[57044]=`<b>ατος (τὸ)</b> virginité, EUR. <i>Alc. 178, au plur</i>.<p><b>Étym</b>. κορεύομαι.`

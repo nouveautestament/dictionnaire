@@ -1,0 +1,1 @@
+lar[101288]=`<b>Υ, υ</b> (ὖ ψιλόν) (τὸ) upsilon (<i>litt</i>. u mince) <i>20<sup>e</sup> lettre de l’alphabet grec. Comme chiffre</i> υʹ = 400, ͵υ = 400 000.`

@@ -1,0 +1,1 @@
+lar[43034]=`<b>εὔ·πλεκτος, ος, ον</b>, bien tressé (corde, filet, chevelure) IL. <i>23, 115</i> ; EUR. <i>Bacch. 870</i> ; ANTH. <i>5, 287</i> ; εὔ. δίφρος, IL. <i>23, 335,</i> char dont les côtés sont en osier bien tressé.<p>➳ <i>Épq</i>. ἐΰπλ. IL. <i>ll. cc. ; fém</i>. -η, NONN. <i>D. 13, 200</i>.<p><b>Étym</b>. εὖ, πλέκω.`

@@ -1,0 +1,1 @@
+lar[9632]=`<b>ἀντ·επᾴδω</b>, prononcer des incantations magiques par opposition à d’autres, PLOT. <i>437b</i>.`

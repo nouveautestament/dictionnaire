@@ -1,0 +1,1 @@
+lar[7902]=`<b>ἀνα·φυτεύω</b> <font color="purple">[ῠ]</font> replanter, ARSTT. <i>Mir. 100, 3</i>.`

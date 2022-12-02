@@ -1,0 +1,1 @@
+lar[69168]=`<b>νυκτο·ειδής, ής, ές</b>, semblable à la nuit, sombre, obscur, HPC. <i>285, 18</i>.<p><b>Étym</b>. ν. εἶδος.`

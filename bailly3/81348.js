@@ -1,0 +1,1 @@
+lar[81348]=`<b>α, ον</b>, de Pœante, OD. <i>3, 190</i> ; ANTH. <i>App. 9, 32, etc</i>.<p><b>Étym</b>. Ποίας.`

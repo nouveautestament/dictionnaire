@@ -1,0 +1,1 @@
+lar[77448]=`<b>ος, ον</b>, qui peut faire cesser, mettre fin à, <i>gén</i>. SOPH. <i>O.R. arg.</i> ; NIC. <i>Th. 746</i>.<p><b>Étym</b>. παύω.`

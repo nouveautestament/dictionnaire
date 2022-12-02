@@ -1,0 +1,1 @@
+lar[80693]=`<b>ων (τὰ)</b> pendants d’oreilles, AR. <i>fr. 309 Dind</i>.<p><b>Étym</b>. πλάσσω.`

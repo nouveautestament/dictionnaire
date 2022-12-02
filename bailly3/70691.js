@@ -1,0 +1,1 @@
+lar[70691]=`<b>      1</b> lancer un trait <i>ou</i> des traits, <i>abs</i>. IL. <i>8, 269</i> ; OD. <i>12, 84</i> ; τινός, IL. <i>4, 100,</i> sur qqn.<br><b>      2</b> lancer comme un trait : ἀκτῖνας, NONN. <i>D. 41, 257,</i> darder des rayons.<p><b>Étym</b>. ὀϊστός.`

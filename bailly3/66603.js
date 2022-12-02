@@ -1,0 +1,1 @@
+lar[66603]=`<b>μονό·πλευρος, ος, ον</b>, avec un seul flanc, EL. TACT. <i>36, 4</i>.<p><b>Étym</b>. μ. πλευρά.`

@@ -1,0 +1,1 @@
+lar[20953]=`<b>βρωματο·μιξ·απάτη, ης (ἡ)</b> <font color="purple">[ᾰᾰᾰ]</font> plaisir trompeur de manger des mets savamment préparés (<i>litt</i>. mixtures), ANTH. <i>9, 642</i>.<p><b>Étym</b>. βρῶμα, μίγνυμι, ἀπάτη.`

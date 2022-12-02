@@ -1,0 +1,1 @@
+lar[92953]=`<b>στρογγυλο·δίνητος, ος, ον</b> <font color="purple">[ῠῑ]</font> qui tourne en rond, qui tournoie, ARCHESTR. (ATH. <i>112a</i>).<p><b>Étym</b>. στρ. δινέω.`

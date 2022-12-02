@@ -1,0 +1,1 @@
+lar[16974]=`<b>ου (ὁ)</b> Atromètos, père de l’orateur Eschine, DÉM. ESCHN.<p><b>Étym</b>. <i>c</i>. ἀτρόμητος.`

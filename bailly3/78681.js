@@ -1,0 +1,1 @@
+lar[78681]=`<b>περι·ϊππεύω</b>, chevaucher autour de, POL. <i>5, 73, 12</i> ; LUC. <i>Gall. 12</i>.<br><b><i>Moy.</i></b> <i>(ao.1) m. sign</i>. POLYEN <i>3, 13, 3</i>.`

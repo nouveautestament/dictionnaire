@@ -1,0 +1,1 @@
+lar[99628]=`<b>ας (ἡ)</b> fonction <i>ou</i> dignité de gouverneur d’un territoire, SPT. <i>1Macc. 11, 28</i> ; JOS. <i>A.J. 13, 4, 9, etc</i>.<p><b>Étym</b>. τοπάρχης.`

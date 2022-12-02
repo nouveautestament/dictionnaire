@@ -1,0 +1,1 @@
+lar[5474]=`<b>ἀμερσί·νοος, οος, οον</b> <font color="purple">[ᾰῐ]</font> qui enlève la raison, NONN. <i>D. 1, 388</i>.<p><b>Étym</b>. ἀμέρδω¹, νόος.`

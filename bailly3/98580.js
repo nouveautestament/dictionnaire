@@ -1,0 +1,1 @@
+lar[98580]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., quatre fois, OD. <i>5, 306</i> ; HDT. <i>2, 42</i> ; AR. <i>Pl. 851</i>.<p><b>Étym</b>. τετρα-, ακις.`

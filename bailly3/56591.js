@@ -1,0 +1,1 @@
+lar[56591]=`<font color="purple">[ᾰ]</font> flatter, aduler, <i>acc</i>. XÉN. <i>Hell. 5, 1, 17</i> ; PLAT. <i>1 Alc. 120b ;</i> AR. <i>fr. 360 ; au pass</i>. DÉM. <i>98, 14</i> ; LUC. <i>Nigr. 23, etc. ; fig</i>. MUSON. (STOB. <i>17, 43) ; abs</i>. être un flatteur, PLAT. <i>Rsp. 538b ;</i> LUC. <i>H. conscr. 40</i>.<p><b>Étym</b>. κόλαξ.`

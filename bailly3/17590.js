@@ -1,0 +1,1 @@
+lar[17590]=`<b>αὐτο·μαχέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> combattre pour soi-même, se défendre soi-même (devant un tribunal) LYS. (HARP.).<p><b>Étym</b>. *αὐτόμαχος, <i>de</i> αὐτός, μάχομαι.`

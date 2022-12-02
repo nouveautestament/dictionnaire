@@ -1,0 +1,1 @@
+lar[34444]=`<i>adv</i>., follement, stupidement, ORACL. (POLYEN <i>6, 53).</i><p><b>Étym</b>. ἐνεός.`

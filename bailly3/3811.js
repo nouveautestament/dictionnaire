@@ -1,0 +1,1 @@
+lar[3811]=`<b>ἀκρό·νυχος, ος, ον</b> <font color="purple">[ῠ]</font> au commencement de la nuit, ARSTT. <i>Meteor. 2, 8, 12</i> ; TH. <i>Sign. 1, 2</i> ; NIC. <i>Th. 761</i>.<p><b>Étym</b>. ἄ. νύξ.`

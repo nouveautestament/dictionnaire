@@ -1,0 +1,1 @@
+lar[73120]=`<b>ὀρφεο·τελεστής, οῦ (ὁ)</b> initiateur aux mystères orphiques, <i>ou, en gén</i>. aux mystères, TH. <i>Char. 18, 4</i> ; PLUT. <i>M. 224e</i>.<p><b>Étym</b>. Ὀρφεύς, τελέω.`

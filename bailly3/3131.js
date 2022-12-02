@@ -1,0 +1,1 @@
+lar[3131]=`<font color="purple">[ᾰᾰ]</font> porter des fruits <i>ou</i> des fleurs à tête épineuse, TH. <i>H.P. 6, 4, 8</i>.<p><b>Étym</b>. ἄκανος.`

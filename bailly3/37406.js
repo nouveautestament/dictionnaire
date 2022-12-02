@@ -1,0 +1,1 @@
+lar[37406]=`<b>ἐπι·βρυχάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> rugir contre, rugir, NONN. <i>D. 2, 245</i> ; ARSTD. <i>t. 2, 394</i>.`

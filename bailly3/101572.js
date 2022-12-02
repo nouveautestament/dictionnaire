@@ -1,0 +1,1 @@
+lar[101572]=`<b>ὑδρο·ρόδινον, ου (τὸ)</b> <font color="purple">[ῐ]</font> huile <i>ou</i> essence de rose mêlée d’eau, GAL. <i>14, 388</i>.<p><b>Étym</b>. ὕδ. ῥόδινον.`

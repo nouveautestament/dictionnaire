@@ -1,0 +1,1 @@
+lar[63479]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> grandeur, majesté, SPT. <i>2Reg. 7, 21, etc</i>.`

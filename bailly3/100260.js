@@ -1,0 +1,1 @@
+lar[100260]=`<b>ας</b>, <i>adj. f</i>. (femme) du dème attique Trikorynthos, <i>dans la tribu Æantide,</i> AR. <i>Lys. 1032</i> ; MÉN. (SUID. <i>v°</i> παίσωμεν.).`

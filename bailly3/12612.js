@@ -1,0 +1,1 @@
+lar[12612]=`<b>ἀπο·κναίω :<br>      1</b> déchirer en grattant, écorcher, ANTIPH. (ATH. <i>18c</i>).<br><b>      2</b> <i>fig</i>. user, fatiguer, épuiser, AR. <i>Eccl. 1087</i> ; XÉN. <i>Hell. 6, 2, 1</i> ; PLAT. <i>Rsp. 406b, etc</i>.`

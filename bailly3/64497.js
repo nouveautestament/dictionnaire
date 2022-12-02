@@ -1,0 +1,1 @@
+lar[64497]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> position médiale <i>ou</i> centrale, NICOM. <i>Arithm. 74</i>.<br><b>      2</b> médiation, entremise, BABR. <i>93, 8</i>.<p><b>Étym</b>. μεσίτης.`

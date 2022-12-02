@@ -1,0 +1,1 @@
+lar[256]=`<b>ἀγαθο·εργός, ός, όν</b> <font color="purple">[ᾰᾰ]</font> qui fait de bonnes œuvres <i>ou</i> de belles actions, PLUT. <i>M. 1015e</i> (<i>contr</i>. -ουργός) ; οἱ Ἀγαθοεργοί, HDT. <i>1, 67, nom des cinq vétérans de Sparte les plus âgés et les plus renommés, auxquels on confiait certaines missions à l’étranger</i>.<p><b>Étym</b>. ἀγαθός, ἔργον.`

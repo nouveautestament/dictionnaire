@@ -1,0 +1,1 @@
+lar[46688]=`<b>Θεο·κύδης, ου (ὁ)</b> <font color="purple">[ῡ]</font> Théokydès, <i>h</i>. HDT. <i>8, 65</i>.<p><b>Étym</b>. θ. κῦδος.`

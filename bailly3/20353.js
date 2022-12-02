@@ -1,0 +1,1 @@
+lar[20353]=`<b>βουβωνο·κήλη, ης (ἡ)</b> hernie inguinale, ORIB. <i>112 Mai</i> ; P. ÉG. <i>282 Briau</i>.<p><b>Étym</b>. βουβών, κ.`

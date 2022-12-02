@@ -1,0 +1,1 @@
+lar[16235]=`<b>ων (οἱ)</b> les Muets, <i>peuple fabuleux de l’Inde,</i> MÉGASTH. (STR. <i>70, 711</i>) ; PLUT.<p><b>Étym</b>. <i>v</i>. ἄστομος.`

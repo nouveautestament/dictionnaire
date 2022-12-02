@@ -1,0 +1,1 @@
+lar[110504]=`hosanna, cri de joie, de triomphe, SPT. <i>Ps. 118, 25</i>.<p><b>Étym</b>. <i>hébr</i>. hoschiah na, ‎הוֹשַׁענָא.`

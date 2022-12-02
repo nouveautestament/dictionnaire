@@ -1,0 +1,1 @@
+lar[37794]=`<b>ἐπι·θεσπίζω :<br>      1</b> rendre un oracle sur : τῷ τρίποδι, HDT. <i>4, 179,</i> sur le trépied ; <i>cf</i>. DH. <i>Exc. p. 2342 Reiske</i>.<br><b>      2</b> <i>en parl. des dieux et des oracles,</i> annoncer : τί τινι, DH. <i>3, 35,</i> qqe ch. à qqn ; <i>avec un inf</i>. ARR. <i>An. 4, 11, 7,</i> ordonner.`

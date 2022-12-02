@@ -1,0 +1,1 @@
+lar[60023]=`<b>λαχανο·θήκη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> buffet <i>ou</i> panier aux légumes, ALEX. MAGN. (ATH. <i>784b</i>).<p><b>Étym</b>. λάχανον, θήκη.`

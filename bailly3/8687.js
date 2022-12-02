@@ -1,0 +1,1 @@
+lar[8687]=`<b>ας (ἡ) :<br>      1</b> difficulté à entendre, surdité, HPC. <i>488, 46</i>.<br><b>      2</b> désobéissance, PLAT. <i>Leg. 671b, etc.</i> ; PLUT. <i>M. 12b, etc</i>.<p><b>Étym</b>. ἀνήκουστος.`

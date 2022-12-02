@@ -1,0 +1,1 @@
+lar[96467]=`<b>εως (ἡ)</b> action de pousser, de presser, de serrer, PLAT. <i>Tim. 62b ;</i> ARSTT. <i>Phys. 7, 2, 4</i>.<p><b>Étym</b>. συνωθέω.`

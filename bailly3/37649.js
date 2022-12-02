@@ -1,0 +1,1 @@
+lar[37649]=`<b>ἐπι·διψάω-ῶ</b>, avoir soif en outre <i>ou</i> après, HPC. <i>Epid. 3, 1072</i>.`

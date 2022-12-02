@@ -1,0 +1,1 @@
+lar[57100]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾱ <i>de</i> Cornĭcŭlānus]</font> habitants de Corniculum, <i>v. du Latium,</i> PLUT. <i>Qu. rom. 10</i>.`

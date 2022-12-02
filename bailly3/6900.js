@@ -1,0 +1,1 @@
+lar[6900]=`<b>ἀνακαμψί·πνοος, οος, οον</b>, (vent) qui souffle en sens contraire, ARSTT. <i>Mund. 4, 15</i>.<p><b>Étym</b>. ἀνακάμπτω, πνέω.`

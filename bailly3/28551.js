@@ -1,0 +1,1 @@
+lar[28551]=`<b>δυσ·καταμάθητος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> difficile à apprendre <i>ou</i> à comprendre, ISOCR. <i>210b ;</i> DH. <i>Thuc. 9</i>.<p>•<i> Cp</i>. -ότερος, PLAT. <i>Pol. 303d</i>.<p><b>Étym</b>. δ. καταμανθάνω.`

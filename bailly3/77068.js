@@ -1,0 +1,1 @@
+lar[77068]=`<b>παρ·ονομάζω :<br>      1</b> transformer un mot, STR. <i>391</i>.<br><b>      2</b> tirer un nom de, <i>avec</i> ἀπό <i>et le gén</i>. DS. <i>2, 4</i> ; DH. <i>6, 1078 Reiske, etc.</i> ; STR. <i>497</i>.`

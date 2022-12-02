@@ -1,0 +1,1 @@
+lar[951]=`<i>adv</i>., à la campagne, <i>sans mouv</i>. CALL. <i>Cer. 136</i>.<p><b>Étym</b>. ἀ. -θι.`

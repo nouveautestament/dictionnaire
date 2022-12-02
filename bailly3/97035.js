@@ -1,0 +1,1 @@
+lar[97035]=`<b>σχηματο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰᾰφ]</font> tracé d’une figure, dessin, NICOM. <i>Arithm. 2, 8</i>.<p><b>Étym</b>. <i>v</i>. σχηματογραφέω.`

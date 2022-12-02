@@ -1,0 +1,1 @@
+lar[1002]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> voisine, PD. <i>P. 11, 1</i>.<br><b>      2</b> qui concerne le culte d’Apollon protecteur des rues, EUR. <i>Ion 186</i>.<p><b>Étym</b>. <i>fém. de</i> ἀγυιάτης.`

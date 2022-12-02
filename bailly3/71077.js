@@ -1,0 +1,1 @@
+lar[71077]=`<b>ὀλιγό·φυλλος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a que peu de feuilles, peu feuillu, TH. <i>H.P. 1, 10, 8</i>.<p><b>Étym</b>. ὀλ. φύλλον.`

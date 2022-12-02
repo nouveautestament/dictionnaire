@@ -1,0 +1,1 @@
+lar[9086]=`<b>ἄν·ικμος, ος, ον</b>, sans humidité, sec, ARSTT. <i>Probl. 12, 3, 5</i> ; PLUT. <i>M. 951b</i>.<p><b>Étym</b>. ἀν-, ἰκμάς.`

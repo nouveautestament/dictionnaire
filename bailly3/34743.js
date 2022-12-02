@@ -1,0 +1,1 @@
+lar[34743]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de neuf manières, PROCL. <i>Plat. Parm. p. 960, 964 Stallb</i>.<p><b>Étym</b>. ἐννέα, -χως.`

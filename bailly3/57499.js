@@ -1,0 +1,1 @@
+lar[57499]=`<b>εως (ἡ)</b> <font color="purple">[ᾰδ]</font> secousse, <i>particul</i>. tremblement de terre, EPIC. (DL. <i>10, 105).</i><p><b>Étym</b>. κραδαίνω.`

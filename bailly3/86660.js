@@ -1,0 +1,1 @@
+lar[86660]=`<b>πρόσ·χορδος, ος, ον</b>, qui est d’accord <i>ou</i> à l’unisson avec, <i>dat</i>. PLAT. <i>Leg. 812d</i>.<p><b>Étym</b>. π. χορδή.`

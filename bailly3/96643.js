@@ -1,0 +1,1 @@
+lar[96643]=`<b>συσ·σιτέω</b>, <i>anc. att</i>. <b>ξυσσιτέω-ῶ</b> <font color="purple">[ῑ]</font> manger avec : τινι, AR. <i>Eq. 1325 ; ou</i> μετά τινος, ARSTT. <i>Pol. 6, 2, 7,</i> avec qqn ; <i>abs</i>. PLAT. <i>Lach. 179b, Conv. 219e ;</i> DÉM. <i>401, 1</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PHILSTR. <i>675</i>.<p><b>Étym</b>. σύσσιτος.`

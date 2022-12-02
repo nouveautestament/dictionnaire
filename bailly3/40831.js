@@ -1,0 +1,1 @@
+lar[40831]=`<b>ἐρυσιβάω-ῶ</b> <font color="purple">[ῠῑ]</font> être rouillé par la nielle, TH. <i>C.P. 4, 14, 2</i>.<p><b>Étym</b>. ἐρυσίβη.`

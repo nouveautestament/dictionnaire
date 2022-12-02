@@ -1,0 +1,1 @@
+lar[96464]=`<i>anc. att</i>. <b>ξυνωρίζω :<br>      1 <i>tr.</i></b> atteler ensemble, EL. <i>N.A. 15, 24</i>.<br><b>      2 <i>intr.</i></b> être attelé ensemble, NIC. (ATH. <i>683d</i>) ; MAN. <i>4, 453</i>.<br><b><i>Moy.</i></b> atteler ensemble, <i>p. ext</i>. joindre, unir : χέρα, EUR. <i>Bacch. 198,</i> sa main à celle d’un autre.<p><b>Étym</b>. συνωρίς.`

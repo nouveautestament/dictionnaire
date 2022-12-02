@@ -1,0 +1,1 @@
+lar[106896]=`<b>ης (ἡ)</b> Phrixa, <i>anc. v. de Triphylie,</i> XÉN. <i>Hell. 3, 2, 30 ; au plur</i>. Φρίξαι, HDT. <i>4, 148</i>.`

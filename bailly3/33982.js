@@ -1,0 +1,1 @@
+lar[33982]=`<b>ἐν·αποσκιρρόομαι-οῦμαι</b>, se consolider <i>ou</i> s’enraciner dans, <i>dat</i>. CHRYS. <i>8, 10</i>.`

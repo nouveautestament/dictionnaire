@@ -1,0 +1,1 @@
+lar[109694]=`<b>ψευδο·λῃστής, οῦ (ὁ)</b> faux brigand, <i>titre d’une comédie de Timoklès,</i> ATH. <i>109c</i>.`

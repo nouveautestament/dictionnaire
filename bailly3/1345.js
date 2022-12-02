@@ -1,0 +1,1 @@
+lar[1345]=`<b>ας (ἡ)</b> absence de transpiration, d’évaporation, GAL. <i>10, 257</i>.`

@@ -1,0 +1,1 @@
+lar[83314]=`<b>ητος (ἡ)</b> <font color="purple">[ᾱῠ]</font> <i>c</i>. πρᾳότης, SPT. <i>Ps. 44, 5 ; 89, 10 ; Sir. 3, 17, etc.</i> ; NT. <i>Gal. 5, 23, etc</i>.`

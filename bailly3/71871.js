@@ -1,0 +1,1 @@
+lar[71871]=`<b>ὀνειρο·κρίτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui interprète les songes, THCR. <i>Idyl. 21, 33</i> ; TH. <i>Char. 16</i>.<p><b>Étym</b>. ὄν. κριτής.`

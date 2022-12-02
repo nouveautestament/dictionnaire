@@ -1,0 +1,1 @@
+lar[57365]=`<b>(ἡ)</b> Kotyrta, <i>v. de Laconie,</i> THC. <i>4, 56</i>.`

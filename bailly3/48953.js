@@ -1,0 +1,1 @@
+lar[48953]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐμ]</font> (<i>s.-e</i>. θεά) divinité protectrice des meules, TRYPH. (ATH. <i>618e</i>) ; <i>ép. de Dèmèter chez les Syracusains,</i> POLÉM. (ATH. <i>109a, 416e</i>).`

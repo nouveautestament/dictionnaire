@@ -1,0 +1,1 @@
+lar[82284]=`<b>πολυπο·ξύστης, ου (ὁ)</b> instrument pour l’ablation des polypes, P. ÉG. <i>6, 25</i>.<p><b>Étym</b>. πολύπους, ξύω.`

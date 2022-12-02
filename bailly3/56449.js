@@ -1,0 +1,1 @@
+lar[56449]=`<b>κοιλ·ώπης, ης, ες</b>, aux yeux creux, enfoncés, NIC. <i>Al. 442</i>.<p><b>Étym</b>. <i>cf</i>. κοιλωπός.`

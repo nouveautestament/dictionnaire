@@ -1,0 +1,1 @@
+lar[8934]=`<b>ου (τὸ)</b> petit homme, EUR. <i>Cycl. 185</i> ; ANAXANDR. (ATH. <i>242e</i>) ; <i>d’ord. en mauv. part,</i> XÉN. <i>Cyr. 5, 1, 14 ; Mem. 2, 3, 16</i> ; AR. <i>Pax 263, etc</i>.<p><b>Étym</b>. ἄνθρωπος.`

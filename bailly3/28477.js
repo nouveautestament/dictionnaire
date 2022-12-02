@@ -1,0 +1,1 @@
+lar[28477]=`<b>δυσ·ήμερος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à apprivoiser, sauvage, féroce, STR. <i>155</i> ; PTOL. <i>Tetr. 56</i>.<p><b>Étym</b>. δ. ἥμερος.`

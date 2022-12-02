@@ -1,0 +1,1 @@
+lar[58269]=`<b>ου (τὸ)</b> petit bien, ARR. <i>Epict. 1, 1, 10</i>.<p><b>Étym</b>. <i>dim. de</i> κτῆσις.`

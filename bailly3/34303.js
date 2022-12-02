@@ -1,0 +1,1 @@
+lar[34303]=`<b>εως (ἡ)</b> action d’envelopper, RUF. <i>et</i> HÉRODOTUS (ORIB. <i>2, 207 et 422 B.-Dar</i>.).<p><b>Étym</b>. ἐνειλέω.`

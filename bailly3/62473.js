@@ -1,0 +1,1 @@
+lar[62473]=`<b>ου (ὁ)</b> = <i>lat</i>. Maccius, <i>poète de l’Anthologie,</i> ANTH. <i>9, 249, etc</i>.`

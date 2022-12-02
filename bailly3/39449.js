@@ -1,0 +1,1 @@
+lar[39449]=`<b>ῆς (ἡ) :<br>      1</b> lever d’un astre, EUR. <i>Ph. 1116</i> ; THC. <i>2, 78</i> ; ARSTT. <i>H.A. 8, 19, 11, etc. ; postér. en parl. du soleil ou de la lune,</i> PLUT. <i>M. 889e ;</i> APP. <i>Civ. 5, 90</i> ; ARTÉM. <i>1, 3</i>.<br><b>      2</b> <i>par ext. en parl. du vent,</i> PALÆPH. <i>18, 2</i>.<p><b>Étym</b>. ἐπιτέλλω.`

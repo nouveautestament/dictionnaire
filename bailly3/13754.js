@@ -1,0 +1,1 @@
+lar[13754]=`<b>εως (ἡ)</b> action d’obstruer, barricade, XÉN. <i>An. 4, 2, 25</i>.<p><b>Étym</b>. ἀποφράγνυμι.`

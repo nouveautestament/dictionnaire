@@ -1,0 +1,1 @@
+lar[27031]=`<b>δισκο·φόρος, ος, ον</b>, qui porte un disque, LUC. <i>Philops. 18</i>.<p><b>Étym</b>. δίσκος, φέρω.`

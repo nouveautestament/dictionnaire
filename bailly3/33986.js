@@ -1,0 +1,1 @@
+lar[33986]=`<b>ἐν·αποσφάττω</b> <font color="darkgreen">(<i>ao.2 pass</i>. ἐναπεσφάγην)</font> égorger dans <i>ou</i> sur, <i>dat</i>. JOS. <i>B.J. 5, 13, 1</i>.`

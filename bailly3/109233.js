@@ -1,0 +1,1 @@
+lar[109233]=`<b>χρυσοποιέω-ῶ</b> <font color="purple">[ῡ]</font> fabriquer en or, CLÉM. <i>210</i>.<p><b>Étym</b>. χρυσοποιός.`

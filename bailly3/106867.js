@@ -1,0 +1,1 @@
+lar[106867]=`<b>φρεωρυχέω-ῶ</b> <font color="purple">[ῠ]</font> creuser un puits, STR. <i>773</i> ; PLUT. <i>M. 776d ; comiq. en parl. d’une piqûre,</i> AR. <i>Lys. 1033</i>.<p><b>Étym</b>. φρεωρύχος.`

@@ -1,0 +1,1 @@
+lar[13475]=`<b>ἀπο·στυπάζω</b> <font color="purple">[ῠ]</font> chasser à coups de bâton, ARCHIL. <i>126</i>.<p><b>Étym</b>. ἀ. στύπος.`

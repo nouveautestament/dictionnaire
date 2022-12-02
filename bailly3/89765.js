@@ -1,0 +1,1 @@
+lar[89765]=`<b>ου (ὁ)</b> <i>allongem. com. de</i> Σέλλος, AR. <i>Vesp. 459</i>.`

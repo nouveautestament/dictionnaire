@@ -1,0 +1,1 @@
+lar[10688]=`<b>ας (ἡ)</b> serment réciproque des parties au début du procès, <i>càd</i>. serment du demandeur s’engageant à prouver ses griefs, PLAT. <i>Ap. 19b, etc.,</i> et serment du défendeur s’engageant à se justifier, <i>v</i>. IS. <i>38, 28, etc</i>.<p><b>Étym</b>. ἀντόμνυμι.`

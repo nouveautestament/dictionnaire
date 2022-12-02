@@ -1,0 +1,1 @@
+lar[77495]=`<b>παχύ·ρρυγχος, ος, ον</b> <font color="purple">[ᾰ]</font> au groin épais, A. APHR. <i>Probl. 1, 141</i>.<p><b>Étym</b>. π. ῥύγχος.`

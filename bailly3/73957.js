@@ -1,0 +1,1 @@
+lar[73957]=`<b>ου (ὁ)</b> réceptacle, abri, λιμένες νηῶν ὄχοι, OD. <i>5, 404,</i> des ports qui retiennent <i>ou</i> abritent les navires.<p><b>Étym</b>. ἔχω.`

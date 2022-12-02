@@ -1,0 +1,1 @@
+lar[82874]=`<b>πορφυρό·καυλος, ος, ον</b> <font color="purple">[ῠ]</font> à tige pourprée, TH. <i>H.P. 7, 4, 6</i>.<p><b>Étym</b>. π. καυλός.`

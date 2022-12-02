@@ -1,0 +1,1 @@
+lar[107923]=`<b>ου (ὁ)</b> Kharillos, <i>h</i>. HDT. <i>8, 131</i> ; ARSTT. <i>Pol. 2, 10, etc</i>.<p><b>Étym</b>. <i>dor. c</i>. Χαρίλαος.`

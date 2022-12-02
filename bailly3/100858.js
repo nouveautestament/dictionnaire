@@ -1,0 +1,1 @@
+lar[100858]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> <i>dim. de</i> τρύπημα HÉRON (MATH. <i>p. 161</i>).`

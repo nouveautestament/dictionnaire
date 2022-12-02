@@ -1,0 +1,1 @@
+lar[67999]=`<b>νεκρο·δρόμος, ου (ὁ)</b> courrier des morts, LUC. <i>3, 362 Reitz</i>.<p><b>Étym</b>. ν. δραμεῖν.`

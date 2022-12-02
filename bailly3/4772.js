@@ -1,0 +1,1 @@
+lar[4772]=`<b>ἀλλό·γνωτος, ος, ον</b>, étranger (<i>litt</i>. connu des autres) OD. <i>2, 366</i>.<p><b>Étym</b>. ἄ. γιγνώσκω.`

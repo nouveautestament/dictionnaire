@@ -1,0 +1,1 @@
+lar[19343]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. qui sert à monter (échelle), ANTH. <i>7, 365</i>.<p><b>Étym</b>. βατήρ.`

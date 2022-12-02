@@ -1,0 +1,1 @@
+lar[60533]=`<b>λεύκ·ασπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῐδ]</font> au bouclier blanc <i>ou</i> brillant, IL. <i>22, 294 ; propr</i>. au bouclier blanc, <i>en parl. des Argiens,</i> SOPH. <i>Ant. 106</i> ; EUR. <i>Ph. 1099 ; des Cariens,</i> XÉN. <i>Hell. 3, 2, 15, ou des Macédoniens,</i> PLUT. <i>Cleom. 23</i>.<p><b>Étym</b>. λ. ἀσπίς.`

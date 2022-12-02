@@ -1,0 +1,1 @@
+lar[20698]=`<b>βραχύ·κωλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> dont les membres sont courts, <i>d’où, en parl. d’une fronde à courte portée,</i> dont les branches sont courtes, STR. <i>168, dout. ; t. de rhét. en parl. de périodes,</i> ARSTT. <i>Rhet. 3, 9, 6</i>.<p><b>Étym</b>. βρ. κῶλον.`

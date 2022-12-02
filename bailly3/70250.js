@@ -1,0 +1,1 @@
+lar[70250]=`<b>οἰακο·φόρος</b>, <i>ion</i>. <b>οἰηκο·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui porte le gouvernail, SYN. <i>324d</i>.<p><b>Étym</b>. οἴαξ, φέρω.`

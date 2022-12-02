@@ -1,0 +1,1 @@
+lar[3878]=`<b>ἀκρο·χέριον, ου (τὸ)</b> agrafe sur l’épaule <i>ou</i> bracelet, PRISC. <i>Gr. lat. 5, 3, 15</i>.<p><b>Étym</b>. ἄ. χείρ.`

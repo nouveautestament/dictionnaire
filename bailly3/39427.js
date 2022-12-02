@@ -1,0 +1,1 @@
+lar[39427]=`<b>α, ον</b> <font color="purple">[τῑ]</font> <i>vb. de</i> ἐπιτιμάω, ARSTT. <i>M. mor. 2, 6, 32 ; au neutre,</i> ARSTT. <i>Top. 3, 2, 13</i> ; POL. <i>8, 12</i>.`

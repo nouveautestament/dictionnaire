@@ -1,0 +1,1 @@
+lar[35999]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> sacrifice expiatoire, <i>d’où</i> purification, expiation, SPT. <i>Lev. 23, 27 ; 1Par. 28, 11, etc</i>.<p><b>Étym</b>. ἐξιλάσκομαι.`

@@ -1,0 +1,1 @@
+lar[89735]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de la lune, lunaire, PLUT. <i>Num. 18, M. 376d ;</i> τὸ σ. P. ÉG. <i>7, 22, sorte de remède</i>.<br><b>      2</b> lunatique, <i>d’où</i> devin, sorcier, A. TR.<p><b>Étym</b>. σελήνη.`

@@ -1,0 +1,1 @@
+lar[38493]=`<b>ἐπι·μωμάομαι-ῶμαι</b>, adresser des reproches à, <i>dat</i>. DP. <i>896</i>.`

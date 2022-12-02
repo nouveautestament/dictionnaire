@@ -1,0 +1,1 @@
+lar[63088]=`<b>ατος (τὸ)</b> marque d’un coup de fouet, PLUT. <i>M. 459</i>.<p><b>Étym</b>. μαστίζω.`

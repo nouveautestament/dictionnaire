@@ -1,0 +1,1 @@
+lar[8607]=`<b>ἄν·ευκτος, ος, ον</b>, qui ne désire pas, POÈT. (PLAT. <i>2 Alc. 143a</i>).<p><b>Étym</b>. ἀν-, εὔχομαι.`

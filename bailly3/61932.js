@@ -1,0 +1,1 @@
+lar[61932]=`<b>α (ὁ)</b> <font color="purple">[ῠᾱ]</font> Lykôpas, <i>h</i>. THCR. <i>Idyl. 5, 62</i>.<p>➳ <i>Ion</i>. Λυκώπης, HDT. <i>3, 55</i>.`

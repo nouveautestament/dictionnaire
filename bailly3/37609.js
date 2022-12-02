@@ -1,0 +1,1 @@
+lar[37609]=`<b>ἐπι·διατείνω :<br>      1 <i>tr.</i></b> tendre encore, GAL. <i>2, 17</i>.<br><b>      2 <i>intr.</i></b> se propager, POL. <i>32, 9, 3</i>.`

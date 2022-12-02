@@ -1,0 +1,1 @@
+lar[69990]=`<b>ου (ὁ)</b> Oarizos, <i>Perse,</i> HDT. <i>7, 71</i>.`

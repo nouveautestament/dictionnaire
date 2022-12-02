@@ -1,0 +1,1 @@
+lar[105681]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> désir de connaître, STR. <i>739</i>.<p><b>Étym</b>. φιλίστωρ.`

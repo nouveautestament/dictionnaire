@@ -1,0 +1,1 @@
+lar[106550]=`<b>α, ον</b> <font color="purple">[νῑ]</font><br><b>      1</b> de palmier <i>ou</i> de datte, ATH. <i>29c.</i><br><b>      2</b> d’un rouge de pourpre, PD. <i>I. 4 (3), 31</i> ; XÉN. <i>An. 1, 2, 16</i> ; ARSTT. <i>Meteor. 3, 2, 4</i> ; POL. <i>6, 23, 12</i>.<p><b>Étym</b>. φοῖνιξ.`

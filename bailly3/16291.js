@@ -1,0 +1,1 @@
+lar[16291]=`<b>Ἀ·στρατεία, ας (ἡ)</b> <font color="purple">[ᾰτ]</font> celle qui arrête l’expédition, <i>càd</i>. l’invasion (des Amazones), <i>ép. d’Artémis,</i> PAUS. <i>3, 25, 3</i>.`

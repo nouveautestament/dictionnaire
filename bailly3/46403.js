@@ -1,0 +1,1 @@
+lar[46403]=`<b>Θε·αίτητος, ου (ὁ)</b> Théætètos (Théætète) <i>disciple de Socrate,</i> PLAT. <i>Pol. 258a, 266a ; titre d’un dialogue de Platon</i>.`

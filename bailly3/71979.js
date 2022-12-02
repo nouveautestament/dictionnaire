@@ -1,0 +1,1 @@
+lar[71979]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec la forme d’un nom, DH. <i>Amm. 2, 2</i>.`

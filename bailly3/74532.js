@@ -1,0 +1,1 @@
+lar[74532]=`<b>παλιμ·πλάζομαι</b> <font color="purple">[ᾰ]</font> (<i>seul. part. ao. pass</i>. παλιμπλαγχθείς) errer en revenant sur ses pas, IL. <i>1, 59</i> ; OD. <i>13, 5</i>.<p><b>Étym</b>. π. πλάζω.`

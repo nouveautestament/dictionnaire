@@ -1,0 +1,1 @@
+lar[37807]=`<b>ης (ἡ)</b> addition, surcroît, HÉS. <i>O. 378</i> ; AR. <i>Vesp. 1391</i>.<p><b>Étym</b>. ἐπιτίθημι.`

@@ -1,0 +1,1 @@
+lar[107486]=`<b>(ὁ)</b> Khærôndas, <i>h. Athénien,</i> DÉM. <i>18, 54, etc.</i> ; ESCHN. <i>3, 27 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Χαίρων.`

@@ -1,0 +1,1 @@
+lar[54436]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. tacheté comme de grains de millet : κ. λίθος, PLIN. <i>H.N. 37, 73,</i> cenchrite, <i>pierre précieuse, semée de petits grains</i> ; ὁ κεγχρίτης, sorte de serpent, <i>c</i>. κεγχρίας, AÉT.<p><b>Étym</b>. κέγχρος.`

@@ -1,0 +1,1 @@
+lar[72108]=`<b>ὀξυ·κίνητος, ος, ον</b> <font color="purple">[ῠῑ]</font> qui se meut vivement, LUC. <i>Abd. 28</i>.<p><b>Étym</b>. ὀ. κινητός.`

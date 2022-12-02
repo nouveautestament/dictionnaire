@@ -1,0 +1,1 @@
+lar[41157]=`<b>ἑστιουχέω-ῶ</b>, garder le foyer, administrer la maison, CHAROND. (STOB. <i>Fl. 40, 44).</i><p><b>Étym</b>. ἑστιοῦχος.`

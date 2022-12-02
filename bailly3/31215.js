@@ -1,0 +1,1 @@
+lar[31215]=`<b>ος, ον</b>, propre à écorcher <i>ou</i> à brûler la peau, DIOSC. <i>3, 70</i>.<p><b>Étym</b>. ἐκδέρω.`

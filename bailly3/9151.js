@@ -1,0 +1,1 @@
+lar[9151]=`<b>ἀν·ίχνευτος, ος, ον</b>, qu’on ne peut dépister, <i>càd</i>. découvrir, LUC. <i>Am. 35</i>.<p><b>Étym</b>. ἀν-, ἰχνεύω.`

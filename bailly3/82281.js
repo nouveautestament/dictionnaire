@@ -1,0 +1,1 @@
+lar[82281]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grand travail, travail excessif, PLAT. <i>Riv. 133e</i>.<p><b>Étym</b>. πολύπονος.`

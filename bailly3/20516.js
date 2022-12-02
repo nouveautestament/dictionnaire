@@ -1,0 +1,1 @@
+lar[20516]=`<b>(ἡ)</b> <font color="purple">[ῑ]</font> Bourina, <i>fontaine de Kos,</i> THCR. <i>Idyl. 7, 5</i>.`

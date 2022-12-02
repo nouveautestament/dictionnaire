@@ -1,0 +1,1 @@
+lar[74893]=`<b>παν·αφανής, ής, ές</b> <font color="purple">[ᾰᾰᾰ]</font> entièrement invisible, Ps.-ERATOSTH. <i>Cat. 23</i>.<p><b>Étym</b>. π. ἀφανής.`

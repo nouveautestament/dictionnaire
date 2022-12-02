@@ -1,0 +1,1 @@
+lar[28402]=`<b>δυσ·εξάτμιστος, ος, ον</b> <font color="purple">[ῠ]</font> d’une évaporation difficile, GAL. <i>2, 392</i>.<p><b>Étym</b>. δ. ἐξατμίζω.`

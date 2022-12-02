@@ -1,0 +1,1 @@
+lar[27095]=`<b>δί·τονος, ος, ον</b> <font color="purple">[ῐ]</font> de deux tons ; τὸ δίτονον, PLUT. <i>M. 430a et 1021f</i>, intervalle de deux tons, <i>t. de mus</i>.<p><b>Étym</b>. δίς, τόνος.`

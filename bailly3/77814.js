@@ -1,0 +1,1 @@
+lar[77814]=`<b>ου</b>, <i>adj. m. c</i>. Πελληνεύς ESCHN. <i>3, 165 Baiter-Sauppe, etc</i>.<p>➳ <i>Dor</i>. Πελλαναῖος <font color="purple">[ᾱ]</font> ANTH. <i>6, 151</i>.`

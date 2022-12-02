@@ -1,0 +1,1 @@
+lar[8705]=`<b>ἀν·ήλιος, ος, ον</b>, sans soleil, sombre, ESCHL. <i>Pr. 453, etc.</i> ; SOPH. <i>O.C. 675</i> ; EUR. <i>H.f. 607, etc.</i> ; LUC. <i>Nec. 9</i>.<p>➳ <i>Dor</i>. ἀνάλιος <font color="purple">[ᾰᾱ]</font> ESCHL. <i>Sept. 859, etc.</i> ; SOPH. <i>l. c</i>.<p><b>Étym</b>. ἀν-, ἥ.`

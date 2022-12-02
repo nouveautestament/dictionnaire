@@ -1,0 +1,1 @@
+lar[81959]=`<b>πολυ·κάμμορος, ος, ον</b> <font color="purple">[ῠ]</font> tout à fait malheureux, ANTH. <i>9, 151</i>.`

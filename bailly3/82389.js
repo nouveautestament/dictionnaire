@@ -1,0 +1,1 @@
+lar[82389]=`<b>πολύ·στειος</b> <i>ou</i> <b>πολύ·στιος, ος, ον</b>, couvert de cailloux, CALL. <i>Jov. 26</i>.<p><b>Étym</b>. π. στία.`

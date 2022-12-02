@@ -1,0 +1,1 @@
+lar[18784]=`<b>βαθύ·πικρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> profondément amer, DIOSC. <i>3, 26 (var</i>. βαρύπ-).<p><b>Étym</b>. β. πικρός.`

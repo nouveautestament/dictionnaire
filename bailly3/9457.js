@@ -1,0 +1,1 @@
+lar[9457]=`<b>ἀντ·αναπλέκω</b> <font color="darkgreen">(<i>ao</i>. ἀντανέπλεξα)</font> tresser en retour, ANTH. <i>4, 2</i>.`

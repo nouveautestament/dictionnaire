@@ -1,0 +1,1 @@
+lar[50915]=`<b>κακο·φυής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui pousse mal, <i>en parl. de plantes,</i> TH. <i>H.P. 8, 11, 8</i>.<br><b>      2</b> d’une nature <i>ou</i> d’une constitution mauvaise, PLAT. <i>Rsp. 410a</i>.<p><b>Étym</b>. κ. φύω.`

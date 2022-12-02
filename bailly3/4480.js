@@ -1,0 +1,1 @@
+lar[4480]=`<b>ἁλί·κλυστος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> baigné par la mer, SOPH. <i>Aj. 1219</i> ; OPP. <i>H. 1, 155, etc.</i><br><b>      2</b> qui gonfle ses vagues, ORPH. <i>Arg. 335</i>.<p><b>Étym</b>. ἅλς, κλύζω.`

@@ -1,0 +1,1 @@
+lar[51474]=`<b>καμψί·πους</b>, <i>gén</i>. <b>ποδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui fait plier le pied, <i>càd</i>. qui renverse, ESCHL. <i>Sept. 791</i>.<p><b>Étym</b>. κάμπτω, πούς.`

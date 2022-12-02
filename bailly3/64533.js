@@ -1,0 +1,1 @@
+lar[64533]=`<b>μεσο·λαβής, ής, ές</b> <font color="purple">[ᾰ]</font> qui perce le flanc, ESCHL. <i>Eum. 157</i>.<p><b>Étym</b>. μέσος, λαμβάνω.`

@@ -1,0 +1,1 @@
+lar[102854]=`<b>ὑπερ·φαλαγγέω-ῶ</b> <font color="purple">[φᾰ]</font> déployer la ligne de bataille de manière à déborder l’ennemi, XÉN. <i>Cyr. 7, 15, etc.</i> ; ARR. <i>Tact. 29, 10 ; avec le gén</i>. XÉN. <i>Cyr. 6, 1, 30 ; avec l’acc</i>. ARR. <i>Tact. 25, 9</i>.<p><b>Étym</b>. ὑ. φάλαγξ.`

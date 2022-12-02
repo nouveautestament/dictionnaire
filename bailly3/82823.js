@@ -1,0 +1,1 @@
+lar[82823]=`<b>πορο·ποιΐα, ας (ἡ)</b> ouverture <i>ou</i> relâchement des pores, CLÉM. <i>281</i>.<p><b>Étym</b>. πόρος, ποιέω.`

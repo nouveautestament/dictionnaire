@@ -1,0 +1,1 @@
+lar[29598]=`<b>ᾶς (ἡ)</b> aliment composé de tripes, A. TR. <i>1, 12</i>.<p><b>Étym</b>. ἔγκατον.`

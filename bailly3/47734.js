@@ -1,0 +1,1 @@
+lar[47734]=`<b>οῦς</b> (<i>genre inconnu) c</i>. Θρῖα, HSCH. Θριῶζε, <i>adv</i>., à Thriô <i>ou</i> Thria ; <i>avec mouv</i>. THC. <i>1, 114</i>.<p><b>Étym</b>. Θριώ.`

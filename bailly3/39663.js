@@ -1,0 +1,1 @@
+lar[39663]=`<b>ατος (τὸ) :<br>      1</b> malheur dont les autres se réjouissent, objet d’une joie maligne, EUR. <i>H.f. 459</i> ; THCR. <i>Idyl. 2, 20</i>.<br><b>      2</b> joie maligne, EUR. <i>Ph. 1555</i>.<p><b>Étym</b>. ἐπιχαίρω.`

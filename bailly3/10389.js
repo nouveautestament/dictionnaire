@@ -1,0 +1,1 @@
+lar[10389]=`<b>ἀντι·σκόροδον, ου (τὸ)</b> sorte d’ail <i>ou</i> d’oignon, PLIN. <i>H.N. 19, 34</i>.`

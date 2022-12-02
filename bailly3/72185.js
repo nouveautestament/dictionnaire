@@ -1,0 +1,1 @@
+lar[72185]=`<i>adv</i>., avec un accent aigu sur la dernière syllabe, ATH. <i>400a</i>.`

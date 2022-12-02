@@ -1,0 +1,1 @@
+lar[91279]=`<b>α, ον</b> <font color="purple">[ῡᾰ]</font> de jeune chien, de chien, HPC. <i>536, 10</i> ; SEXT. <i>P. 3, 225</i>.<p><b>Étym</b>. σκύλαξ.`

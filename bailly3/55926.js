@@ -1,0 +1,1 @@
+lar[55926]=`<b>κλεπτ·έλεγχος, ος, ον</b>, qui fait découvrir les voleurs, DIOSC. <i>5, 161</i> ; AÉT. <i>2, p. 28, b, 41, 43</i>.<p><b>Étym</b>. κλέπτης, ἐλέγχω.`

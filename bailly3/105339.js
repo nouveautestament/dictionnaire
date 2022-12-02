@@ -1,0 +1,1 @@
+lar[105339]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de Phthiotide, ESCHL. <i>fr. 131 Dind.</i> ; AR. <i>Ran. 1264, etc.</i> ; CALL. <i>Del. 112, etc</i>.<p>➳ <i>Voc</i>. Φθιῶτα, ESCHL. AR. CALL. <i>ll. cc. Gén. pl. dor</i>. Φθιωτᾶν, EUR. <i>Tr. 188 ; cf</i>. Φθιήτης.<p><b>Étym</b>. Φθία.`

@@ -1,0 +1,1 @@
+lar[34969]=`<b>ἐν·στηρίζω :<br>      1</b>. <i>tr</i>. enfoncer dans <i>ou</i> appuyer sur, <i>dat.</i> : HPC. <i>V.C. 912 ; au pass</i>. IL. <i>21, 168</i>.<br><b>      2 <i>intr.</i></b> s’appuyer dans, prendre racine dans, PHIL. <i>1, 15</i>.<br><b><i>Moy.</i></b> s’appuyer sur, <i>dat</i>. A.RH. <i>4, 1518</i>.<p>➳ <i>Pl.q.pf. pass. 3 sg</i>. ἐνεστήρικτο, IL. <i>l. c</i>.`

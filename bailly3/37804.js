@@ -1,0 +1,1 @@
+lar[37804]=`<b>εως (ἡ)</b> contemplation, observation, M. ANT. <i>8, 26</i>.<p><b>Étym</b>. ἐπιθεωρέω.`

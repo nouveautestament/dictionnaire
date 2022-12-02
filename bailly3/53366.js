@@ -1,0 +1,1 @@
+lar[53366]=`<b>κατά·σκιος, ος, ον :<br>      1</b> <i>pass</i>. ombragé, couvert de, <i>dat</i>. HÉS. <i>O. 515</i> ; ESCHL. <i>Ag. 493, etc.</i> ; SOPH. <i>El. 422 ; postér. gén</i>. ANTH. <i>9, 333</i>.<br><b>      2</b> <i>act</i>. qui donne de l’ombrage, qui couvre, ESCHL. <i>Sept. 384</i> ; EUR. <i>Ph. 657</i> ; AR. <i>Ach. 965</i>.<p><b>Étym</b>. κ. σκιά.`

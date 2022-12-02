@@ -1,0 +1,1 @@
+lar[98693]=`<b>τετρά·τρυφος, ος, ον</b> <font color="purple">[ῠ]</font> qu’on peut rompre en quatre, HÉS. <i>O. 440</i>.<p><b>Étym</b>. τ. θρύπτω.`

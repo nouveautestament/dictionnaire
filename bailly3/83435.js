@@ -1,0 +1,1 @@
+lar[83435]=`<b>ου (τὸ)</b> <font color="purple">[ῑῐδ]</font> <i>dim. de</i> πρῖνος, AR. <i>Av. 615</i>.`

@@ -1,0 +1,1 @@
+lar[79291]=`<b>περι·σπαράσσω</b> <font color="purple">[πᾰ]</font> arracher autour, <i>acc</i>. NYSS.`

@@ -1,0 +1,1 @@
+lar[51655]=`<b>ου (τὸ)</b> <font color="purple">[πᾰ]</font> <i>dim. de</i> κάππαρις POÈT. (PLUT. <i>M. 668a</i>).`

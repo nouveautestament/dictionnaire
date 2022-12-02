@@ -1,0 +1,1 @@
+lar[40562]=`<b>Ἑρμ·αθήνη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> tête d’Athèna, posée sur un cippe, comme les hermès, CIC. <i>Att. 1, 1 et 4</i>.<p><b>Étym</b>. Ἑρμῆς, Ἀθήνη.`

@@ -1,0 +1,1 @@
+lar[59867]=`<b>ῶν (οἱ)</b> les dieux lares, <i>à Rome,</i> PLUT. <i>Qu. rom. 51</i>.`

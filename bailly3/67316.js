@@ -1,0 +1,1 @@
+lar[67316]=`<b>μυρο·μήλινον, ου (τὸ)</b> <font color="purple">[ῠῐ]</font> sorte de parfum à l’essence de coings, A. TR.<p><b>Étym</b>. μύρον, μῆλον.`

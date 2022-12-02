@@ -1,0 +1,1 @@
+lar[38470]=`<b>ἐπι·μόριος, ος, ον</b>, ayant un rapport de la forme (1 + 1/n), superparticulier, ARSTT. <i>Probl. 19, 41</i> ; τὸ ἐπιμόριον, ARSTT. <i>Metaph. 4, 15, 3,</i> nombre contenant un entier plus une fraction avec 1 pour numérateur.<p><b>Étym</b>. ἐπί, μόριον.`

@@ -1,0 +1,1 @@
+lar[87857]=`<b>πυρι·γενέτης</b>, <i>dor</i>. <b>-γενέτας</b> <font color="purple">[ῠᾱ]</font> <i>adj. m. c</i>. πυριγενής ESCHL. <i>Sept. 207</i>.`

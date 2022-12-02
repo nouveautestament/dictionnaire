@@ -1,0 +1,1 @@
+lar[38221]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> détour, SYMM. <i>Prov. 2, 9 ; 5, 6</i>.<p><b>Étym</b>. ἐπικυλίνδω.`

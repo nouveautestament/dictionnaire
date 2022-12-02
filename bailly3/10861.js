@@ -1,0 +1,1 @@
+lar[10861]=`<i>adv</i>., par une impulsion en haut, SEXT. <i>P. 3, 69</i>.<p><b>Étym</b>. *ἀνωστικός, <i>de</i> ἀνωθέω.`

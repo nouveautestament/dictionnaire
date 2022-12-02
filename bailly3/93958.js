@@ -1,0 +1,1 @@
+lar[93958]=`<b>συμ·μεταλαμβάνω</b>, prendre sa part de, <i>gén</i>. M. ANT. <i>9, 41</i> ; τινί τινος, JOS. <i>A.J. 5, 9, 1,</i> de qqe ch. avec qqn.`

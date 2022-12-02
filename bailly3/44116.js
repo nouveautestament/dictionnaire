@@ -1,0 +1,1 @@
+lar[44116]=`<b>ἐφ·ομαρτέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐφωμάρτησα)</font> aller à la suite, accompagner, IL. <i>8, 191 ; 12, 412 ; 23, 414, etc.</i> ; τινι, A.RH. <i>1, 201</i> ; NIC. <i>Al. 479,</i> qqn ; <i>rar. en prose,</i> ARR. <i>An. 1, 19</i>.<p><b>Étym</b>. ἐπί, ὁ.`

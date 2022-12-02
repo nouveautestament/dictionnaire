@@ -1,0 +1,1 @@
+lar[51097]=`<b>Καλλι·γένης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Kalligénès (<i>propr</i>. de belle naissance) ANTH. <i>7, 625, etc</i>.<p><b>Étym</b>. κ. γένος.`

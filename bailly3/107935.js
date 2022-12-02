@@ -1,0 +1,1 @@
+lar[107935]=`<b>ου (ὁ)</b> Kharisios, <i>h</i>. DÉM. <i>57, 20 ; 59, 18 Baiter-Sauppe</i> ; PAUS. <i>8, 3, 4</i>.<p><b>Étym</b>. <i>cf</i>. χαρίσιος.`

@@ -1,0 +1,1 @@
+lar[26643]=`<b>δι·μήτωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui a deux mères, ORPH. <i>H. 49, 1 ; 51, 9</i> ; DS. <i>3, 62 ; 4, 4</i>.<p>➳ <i>Dor</i>. -μάτωρ <font color="purple">[ᾱ]</font> ALEX. (ATH. <i>39b</i>).<p><b>Étym</b>. δίς, μήτηρ.`

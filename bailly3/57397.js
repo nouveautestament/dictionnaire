@@ -1,0 +1,1 @@
+lar[57397]=`<b>Κουρ·αφροδίτη, ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> Aphrodite la jeune déesse, PROCL. <i>H. 3, 1</i>.<p><b>Étym</b>. κούρη, Ἀ.`

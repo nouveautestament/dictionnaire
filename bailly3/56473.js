@@ -1,0 +1,1 @@
+lar[56473]=`<b>κοινο·γονία, ας (ἡ)</b> croisement de races, PLAT. <i>Pol. 265d</i>.<p><b>Étym</b>. κοινός, γένος.`

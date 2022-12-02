@@ -1,0 +1,1 @@
+lar[20793]=`<font color="purple">[ῐ]</font> (<i>seul. prés. et sans contract</i>.) :<br><b>      1 <i>tr.</i></b> rendre fort, HÉS. <i>O. 5</i> ; multiplier, HÉS. <i>Th. 447</i>.<br><b>      2 <i>intr.</i></b> être fort, HÉS. <i>O. 5</i> (βριάοντα) ; OPP. <i>H. 5, 96</i> (βριάων).<p><b>Étym</b>. <i>v</i>. βρί-.`

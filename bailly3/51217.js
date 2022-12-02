@@ -1,0 +1,1 @@
+lar[51217]=`<b>καλλί·σταχυς (ὁ, ἡ)</b> <font color="purple">[τᾰ]</font> aux beaux épis, SIB. <i>11, 118, etc</i>.<p><b>Étym</b>. κ. στάχυς.`

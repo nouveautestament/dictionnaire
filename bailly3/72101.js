@@ -1,0 +1,1 @@
+lar[72101]=`<b>ὀξυ·καμπής, ής, ές</b> <font color="purple">[ῠ]</font> recourbé en pointe, ANTYLL. (ORIB. <i>p. 51 Mai).</i><p><b>Étym</b>. ὀ. κάμπτω.`

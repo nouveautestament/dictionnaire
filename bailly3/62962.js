@@ -1,0 +1,1 @@
+lar[62962]=`<b>ας (ἡ)</b> = <i>lat</i>. Marcia, <i>n. de f. rom</i>. PLUT. <i>Cato mi. 25, etc</i>.`

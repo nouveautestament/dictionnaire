@@ -1,0 +1,1 @@
+lar[12995]=`<b>ἀπό·ξενος, ος, ον :<br>      1</b> inhospitalier, SOPH. <i>O.R. 196</i>.<br><b>      2</b> banni de, <i>gén</i>. ESCHL. <i>Ag. 1282, etc</i>.<p><b>Étym</b>. ἀπό, ξένος.`

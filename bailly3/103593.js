@@ -1,0 +1,1 @@
+lar[103593]=`<b>ὑπο·νέφελος, ος, ον :<br>      1</b> qui est sous les nuages, LUC. <i>Fug. 25</i>.<br><b>      2</b> un peu nuageux, A. TR. <i>1, p. 82</i> ; ORIB. <i>p. 111 Matthäi</i>.<p><b>Étym</b>. ὑ. νεφέλη.`

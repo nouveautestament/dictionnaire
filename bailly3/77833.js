@@ -1,0 +1,1 @@
+lar[77833]=`<b>ας (ἡ)</b> Pélopia, <i>fille de Thyeste, mère d’Égisthe,</i> EL. <i>V.H. 12, 42</i>.<p><b>Étym</b>. <i>fém. de</i> Πελόπιος.`

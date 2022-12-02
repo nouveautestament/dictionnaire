@@ -1,0 +1,1 @@
+lar[45992]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> paisible, calme, tranquille, IL. <i>21, 598</i> ; HDT. <i>1, 107</i> ; PLAT. <i>Rsp. 604e ;</i> οἱ ἡσύχιοι, ANT. <i>121, 12</i> ; PLAT. <i>Charm. 150b</i>, les gens paisibles ; τὸ ἡσ. τῆς εἰρήνης, THC. <i>1, 120,</i> le calme de la paix.<p>➳ <i>Dor</i>. ἁσύχ. <font color="purple">[ᾱ]</font> PD. <i>P. 9, 40</i>.`

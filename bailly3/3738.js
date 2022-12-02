@@ -1,0 +1,1 @@
+lar[3738]=`<font color="purple">[βᾱ]</font> <i>c</i>. ἀκροβατέω, HIPPIATR. <i>265</i>.<p><b>Étym</b>. ἀκροβάμων.`

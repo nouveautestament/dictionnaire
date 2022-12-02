@@ -1,0 +1,1 @@
+lar[15496]=`<b>ἀρχαιό·νομος, ος, ον</b>, conforme à l’usage antique, ANON. (SUID. <i>v°</i> αἵρεσις).<p><b>Étym</b>. ἀρχαῖος, νόμος.`

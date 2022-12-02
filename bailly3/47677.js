@@ -1,0 +1,1 @@
+lar[47677]=`<b>ης, ες :<br>      1</b> qui exprime une plainte, plaintif, lamentable (rythme, chant, <i>etc</i>.) PLAT. <i>Rsp. 398d, 411a ;</i> HDN <i>4, 2, 10</i>.<br><b>      2</b> porté à se lamenter, enclin à la tristesse, PLAT. <i>Leg. 792a, etc</i>.<p><b>Étym</b>. θρῆνος, -ωδης.`

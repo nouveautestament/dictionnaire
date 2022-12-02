@@ -1,0 +1,1 @@
+lar[29085]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> espace de douze ans, DÉMAD. (DL. <i>5, 81).</i><p><b>Étym</b>. δωδεκαετής.`

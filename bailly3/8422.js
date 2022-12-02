@@ -1,0 +1,1 @@
+lar[8422]=`<b>ἀν·επιβούλευτος, ος, ον :<br>      1</b> qui ne complote pas : τὸ ἀν. THC. <i>3, 37,</i> absence d’intrigues.<br><b>      2</b> non attaqué, non exposé à, <i>dat</i>. POL. <i>7, 8, 4</i> ; EL. <i>N.A. 9, 59</i>.<p>•<i> Cp</i>. -ότερος, SYN. <i>13a</i>.<p><b>Étym</b>. ἀν-, ἐπιβουλεύω.`

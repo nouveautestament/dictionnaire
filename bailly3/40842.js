@@ -1,0 +1,1 @@
+lar[40842]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de tirer, traction, PHIL. <i>1, 602</i>.<p><b>Étym</b>. ἐρύω.`

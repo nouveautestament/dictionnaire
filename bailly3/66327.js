@@ -1,0 +1,1 @@
+lar[66327]=`<b>ή, όν</b>, coupable d’adultère, MAN. <i>4, 350</i>.<p><b>Étym</b>. μοιχεύω.`

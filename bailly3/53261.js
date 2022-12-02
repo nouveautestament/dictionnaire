@@ -1,0 +1,1 @@
+lar[53261]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑπ]</font> action d’être jeté <i>ou</i> porté en bas <i>ou</i> dans le sens de, SOR. <i>Obst. p. 218 Erm</i>.<p><b>Étym</b>. καταρριπίζω.`

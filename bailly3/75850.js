@@ -1,0 +1,1 @@
+lar[75850]=`<b>ου (ὁ)</b> percepteur, receveur, M. RUBR. <i>p. 11</i>.<p><b>Étym</b>. παραλαμβάνω.`

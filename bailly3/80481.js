@@ -1,0 +1,1 @@
+lar[80481]=`<b>πιστο·ποιέω-ῶ</b>, rendre croyable, <i>acc</i>. JOS. <i>Macc. 7</i>.`

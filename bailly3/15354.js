@@ -1,0 +1,1 @@
+lar[15354]=`<b>ἀρτι·μελής, ής, ές</b> <font color="purple">[ῐ]</font> aux membres bien conformés, PLAT. <i>Rsp. 536b</i>.<p><b>Étym</b>. ἄ. μέλος.`

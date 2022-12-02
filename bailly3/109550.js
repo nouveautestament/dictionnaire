@@ -1,0 +1,1 @@
+lar[109550]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., en nombre infini, <i>litt</i>. comme les grains de sable du bord de la mer, SIB. <i>5, 96</i>.<p><b>Étym</b>. ψάμαθος, -δον.`

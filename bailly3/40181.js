@@ -1,0 +1,1 @@
+lar[40181]=`<b>α, ον</b>, <i>vb. de</i> ἐργάζομαι, ESCHL. <i>Ch. 298</i> ; XÉN. <i>Œc. 7, 35 ; 13, 3, etc. ; au neutre,</i> XÉN. <i>Hipp. 8, 8</i>.`

@@ -1,0 +1,1 @@
+lar[49747]=`<b>ἰσο·στάσιος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font><br><b>      1</b> d’un poids égal à, <i>dat</i>. PLUT. <i>C. Gracch. 17</i> ; LUC. <i>D. mort. 10, 5</i>.<br><b>      2</b> <i>p. ext</i>. équivalent, égal, semblable à, <i>dat</i>. HPC. <i>1278, 23</i> ; DC. <i>44, 40</i>.<p><b>Étym</b>. ἴ. στατός.`

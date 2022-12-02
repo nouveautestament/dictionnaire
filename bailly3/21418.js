@@ -1,0 +1,1 @@
+lar[21418]=`<b>γαστρί·δουλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> esclave de son ventre, <i>càd</i>. de sa gourmandise, DS. <i>Exc. 549, 82</i>.`

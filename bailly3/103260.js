@@ -1,0 +1,1 @@
+lar[103260]=`<b>Ὑπο·θῆβαι, ῶν (αἱ)</b> Hypothèbes, <i>lieu près de Thèbes, ou p.-ê. la basse ville à Thèbes,</i> IL. <i>2, 505</i>.`

@@ -1,0 +1,1 @@
+lar[42731]=`<b>ας (ἡ) :<br>      1</b> couche, <i>d’où</i> nid, EUR. <i>Ion 171</i>.<br><b>      2</b> (<i>s.-e</i>. ἄγκυρα) pierre qui servait primitivement d’ancre (<i>cf</i>. εὐνή) A.RH. <i>1, 955, 1277 ; 2, 1282</i>.<p>➳ <i>Ion</i>. -αίη, A.RH. <i>ll. cc</i>.<p><b>Étym</b>. <i>fém</i>. d’εὐναῖος.`

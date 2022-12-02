@@ -1,0 +1,1 @@
+lar[24044]=`<b>α</b> (<i>ion</i>. <b>-η</b>), <b>ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. δεύτατος, P. SIL. <i>Ecphr. ag. Soph. 836</i>.`

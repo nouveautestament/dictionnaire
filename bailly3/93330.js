@@ -1,0 +1,1 @@
+lar[93330]=`<b>συγ·καταλαμβάνω :<br>      1</b> s’emparer en même temps de, XÉN. <i>Cyr. 4, 2, 42 ; t. milit</i>. occuper en même temps, <i>acc</i>. THC. <i>7, 26</i> ; ISOCR. <i>488a.</i><br><b>      2</b> comprendre <i>ou</i> saisir en même temps, <i>au pass</i>. DL. <i>9, 97</i>.<br><b>      3</b> conclure de prémisses, POL. <i>Exc. Vat. 7, 394</i>.`

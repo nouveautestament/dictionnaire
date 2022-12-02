@@ -1,0 +1,1 @@
+lar[14182]=`<b>ου (ὁ)</b> <font color="purple">[ᾰα]</font> araignée, HÉS. <i>O. 775</i> ; PD. <i>fr. 268</i> ; ESCHL. <i>Ag. 1492, 1516, etc</i>.`

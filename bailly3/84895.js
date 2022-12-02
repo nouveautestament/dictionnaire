@@ -1,0 +1,1 @@
+lar[84895]=`<b>προ·παραλύω</b>, relâcher auparavant, GAL. <i>2, 668</i>.`

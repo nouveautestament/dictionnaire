@@ -1,0 +1,1 @@
+lar[8146]=`<b>ἀν·έβραχε</b> <font color="purple">[ᾰχ]</font> <i>3 sg. ao.2,</i> craquer, faire du bruit, <i>en parl. d’une armure,</i> IL. <i>19, 13 ; d’une porte,</i> OD. <i>21, 48</i>.<p><b>Étym</b>. ἀνά, βραχεῖν <i>pré-grec, cf. p.-ê</i>. βράγχος.`

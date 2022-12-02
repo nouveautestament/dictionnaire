@@ -1,0 +1,1 @@
+lar[40422]=`<b>ἐρί·δουπος, ος, ον</b>, <i>c</i>. ἐρίγδουπος, <i>en parl. de choses (rivages, fleuves, etc</i>.) IL. <i>20, 50, etc.</i> ; OD. <i>10, 515, etc</i>.`

@@ -1,0 +1,1 @@
+lar[99641]=`<b>τοπο·κρατέω-ῶ</b> <font color="purple">[ᾰ]</font> commander dans un lieu, PHIL. <i>2, 383</i>.<p><b>Étym</b>. τ. κρατέω.`

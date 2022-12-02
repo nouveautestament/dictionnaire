@@ -1,0 +1,1 @@
+lar[29192]=`<b>δωροφορέω-ῶ</b>, apporter des présents : τινι, PLAT. <i>Phædr. 266e</i>, à qqn : τινί τι, AR. <i>Vesp. 675,</i> offrir qqe présent à qqn ; τινα, EL. <i>V.H. 1, 32,</i> gratifier qqn de présents.<p><b>Étym</b>. δωροφόρος.`

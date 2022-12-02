@@ -1,0 +1,1 @@
+lar[27081]=`<font color="purple">[χῐ]</font> <i>adv</i>., en se partageant en deux, DOSITH. (<i>Gramm. lat. Keil 7, 412).</i><p><b>Étym</b>. δισχιδής.`

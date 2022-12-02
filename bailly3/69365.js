@@ -1,0 +1,1 @@
+lar[69365]=`<b>ου (ὁ)</b> (<i>litt</i>. le blond) Xanthias, <i>h</i>. AR. <i>Ach. 242, Av. 656, etc.</i> ; PLAT. <i>Men. 94c, etc</i>.<p><b>Étym</b>. ξανθός.`

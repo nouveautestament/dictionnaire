@@ -1,0 +1,1 @@
+lar[33226]=`<b>ἐμ·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> furieux, <i>en parl. de pers</i>. HDT. <i>5, 25</i> ; ESCHL. <i>Eum. 860</i> ; EUR. <i>Bacch. 1094, etc. ; en parl. d’animaux en rut,</i> ARSTT. <i>H.A. 6, 18, 6 ; en parl. de choses,</i> ESCHL. <i>Pr. 675</i>.<p>•<i> Sup</i>. -έστατος, PLAT. <i>Leg. 734a ;</i> PLUT. <i>Arat. 17</i>.<p><b>Étym</b>. ἐμμαίνομαι.`

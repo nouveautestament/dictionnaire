@@ -1,0 +1,1 @@
+lar[100418]=`<b>τρί·ρρυμος, ος, ον</b> <font color="purple">[ῡ]</font> à trois timons, <i>càd</i>. à six chevaux, ESCHL. <i>Pers. 47</i>.<p><b>Étym</b>. τρ., ῥυμός.`

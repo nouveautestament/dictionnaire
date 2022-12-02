@@ -1,0 +1,1 @@
+lar[20290]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite plante, TH. <i>C.P. 2, 17, 3</i>.<p><b>Étym</b>. <i>dim. de</i> βοτάνη.`

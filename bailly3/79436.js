@@ -1,0 +1,1 @@
+lar[79436]=`<b>περι·συλάω-ῶ</b> <font color="purple">[ῡ]</font> dépouiller entièrement ; τινα, EL. (SUID.), qqn ; τι, PHIL. <i>1, 637,</i> enlever qqe ch. par force ; <i>au pass</i>. LUC. <i>Philops. 20, etc.</i> ; περισυλᾶσθαι πᾶσαν τὴν οὐσίαν, PLAT. <i>Gorg. 486c</i>, être dépouillé de tout son bien.`

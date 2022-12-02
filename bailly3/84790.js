@@ -1,0 +1,1 @@
+lar[84790]=`<b>προ·νόμιον, ου (τὸ) :<br>      1</b> partie du chant qui précède le νόμος HIM. <i>4, 3</i>.<br><b>      2</b> <i>c</i>. ἀρραβών, LUC. <i>Rh. præc. 17</i>.<p><b>Étym</b>. π. νόμος.`

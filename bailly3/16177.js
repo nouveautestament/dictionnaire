@@ -1,0 +1,1 @@
+lar[16177]=`<font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ) :</font><br><b>      1</b> changer en constellation, PLUT. <i>M. 888c.</i><br><b>      2</b> marquer des constellations sur une sphère, PTOL. <i>Geogr. 1, 23, 3</i>.<p><b>Étym</b>. ἀστήρ.`

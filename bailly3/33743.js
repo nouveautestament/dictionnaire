@@ -1,0 +1,1 @@
+lar[33743]=`<b>ἐμ·φωλεύω</b>, se tapir <i>ou</i> se cacher dans, <i>dat</i>. PLUT. <i>M. 314e ;</i> PHIL. <i>1, 315, 654</i> ; ARÉT. <i>Caus. m. diut. 2, 13</i>.<p><b>Étym</b>. ἐν, φ.`

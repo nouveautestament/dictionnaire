@@ -1,0 +1,1 @@
+lar[102310]=`<b>ὑπερ·αττικίζω</b> <font color="purple">[τῐ]</font> affecter de parler attique <i>ou</i> abuser du dialecte attique, PHILSTR. <i>V. Ap. 1, 17</i>.`

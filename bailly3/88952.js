@@ -1,0 +1,1 @@
+lar[88952]=`<b>ης, ες</b> <font color="purple">[ῠῐ]</font> qui a comme des rides, ridé, HPC. <i>Prorrh. 105</i> ; ARSTT. <i>Physiogn. 3, 1</i>.<p>•<i> Cp</i>. -έστερος, TH. <i>H.P. 4, 6, 6</i>.<p><b>Étym</b>. ῥυτίς, -ωδης.`

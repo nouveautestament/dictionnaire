@@ -1,0 +1,1 @@
+lar[84085]=`<b>προ·εκλέγω</b>, percevoir par avance (de l’argent) <i>acc</i>. APP. <i>Civ. 5, 2 ; au pass</i>. DÉM. <i>305, 18 ; 1209, 7</i>.`

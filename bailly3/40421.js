@@ -1,0 +1,1 @@
+lar[40421]=`<b>*ἐρί·δμητος</b>, <i>dor</i>. <b>ἐρί·δματος, ος, ον</b> <font color="purple">[ᾱ]</font> établi solidement, inexpugnable, ESCHL. <i>Ag. 1429</i>.<p><b>Étym</b>. ἐρι-, δέμω.`

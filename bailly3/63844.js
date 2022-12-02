@@ -1,0 +1,1 @@
+lar[63844]=`<b>μελάν·δρυος, ος, ον</b>, aux chênes sombres, ESCHL. <i>fr. 249</i>.<p><b>Étym</b>. μ. δρῦς.`

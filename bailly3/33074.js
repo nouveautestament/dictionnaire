@@ -1,0 +1,1 @@
+lar[33074]=`plonger <i>ou</i> tremper dans, XÉN. <i>Cyr. 2, 2, 5</i> ; τί τινι, HIPPON. <i>fr. 36</i> ; τι εἴς τι, AR. <i>Nub. 150, etc.</i> ; τι ἔν τινι, NT. <i>Matth. 26, 23,</i> tremper une chose dans une autre.<br><b><i>Moy.</i></b> <i>m. sign</i>. ATH. <i>245e ;</i> LUC. <i>As. 6</i>.<p><b>Étym</b>. ἐν, β.`

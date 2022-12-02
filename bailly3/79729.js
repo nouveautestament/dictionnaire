@@ -1,0 +1,1 @@
+lar[79729]=`<b>ης (ἡ)</b> perche, <i>poisson d’eau douce à dos d’un bleu foncé,</i> EPICH. <i>etc</i>. (ATH. <i>135e, 284c, etc</i>.) ; ARSTT. <i>H.A. 2, 13, 8, etc</i>.<p><b>Étym</b>. πέρκος.`

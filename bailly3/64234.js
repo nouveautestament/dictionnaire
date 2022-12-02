@@ -1,0 +1,1 @@
+lar[64234]=`<i>adv</i>., par parties, ARSTD.<p><b>Étym</b>. μερίζω.`

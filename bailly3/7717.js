@@ -1,0 +1,1 @@
+lar[7717]=`<b>ἀνα·στύφω</b> <font color="purple">[ῡ]</font> être triste, SOPH. <i>fr. 371</i>.`

@@ -1,0 +1,1 @@
+lar[48242]=`<b>ης</b>, <i>adj. f</i>. Ionienne, <i>d’où</i> Grecque, SOPH. (HSCH.).`

@@ -1,0 +1,1 @@
+lar[74273]=`<b>ης, ες</b>, qui aime le jeu, ION (ATH. <i>603f</i>) ; ARSTT. <i>Nic. 7, 7, 7</i> ; τὸ παιδιῶδες, PLUT. <i>M. 68a</i>, l’amour du jeu.<p><b>Étym</b>. παιδιά, -ωδης.`
