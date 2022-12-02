@@ -29,12 +29,12 @@ text-decoration:underline;
 }
 
 #here {
-margin:2em;
+margin:0.5em;
 padding:0;
 }
 
 #greek {
-font-size:1.2em;
+font-size:1.05em;
 outline:none;
 border:none;
 border:0;
@@ -42,7 +42,7 @@ width:100%;
 }
 
 table td {
-font-size:1.2em;
+font-size:1.05em;
 padding-left:0.4em;
 }
 
@@ -55,20 +55,21 @@ border: 1px solid grey;
 }
 
 .td1 {
-box-shadow: 0px 0px 3px 3px #358ccb, 0 0 0;
+
+padding-right:1em;
 }
 
 .td2 {
-box-shadow: 0px 0px 3px 3px #68ce46, 0 0 0;
+
 }
 
 .td3 {
-box-shadow: 0px 0px 3px 3px #d51e1e, 0 0 0;
+
 }
 
 
 .lemma {
-font: 1.4em Georgia, serif;
+
 }
 </style>
 </head>
@@ -77,9 +78,9 @@ font: 1.4em Georgia, serif;
 
 <table>
 <tr>
-<td class="td1"><input type="text" placeholder="CHERCHE HELLENE" name="greek" id="greek" onkeypress="if (event.keyCode == 13) greek()"/></td>
+<td class="td1"><input type="text" placeholder="CHERCHE HELLENE" name="greek" id="greek" onkeypress="if (event.keyCode == 13) greek()"/> </td>
 <td class="td2"><span id="count"></span></td>
-<td class="td3"><span id="time">Ȼ</span></td>
+<td class="td3" nowrap><span id="time">Ȼ</span></td>
 </tr>
 </table>
 
@@ -97,7 +98,7 @@ hdw = function() {
 return new Promise((resolve, reject) => {
     setTimeout(_ => {
       resolve();
-    }, 1)
+    }, 0)
   })
 }
 
@@ -124,7 +125,7 @@ async function greek()
 
 
 
-				bailly_temp = bailly[x].replace(/^(\S+)/,"<span class='lemma'>$1</span>")
+				bailly_temp = bailly[x].replace(/^(\S+)/,"<b>$1</b>")
 				
 				re = new RegExp('('+grk0+')','gi')
 				
@@ -134,7 +135,7 @@ async function greek()
 				
 				
 				xx3 = document.createElement("div");
-				xx3.innerHTML = bailly_temp+"<br><br>"
+				xx3.innerHTML = bailly_temp+"<br>"
 				document.getElementById('main').appendChild(xx3);
 				document.getElementById('count').textContent = x
 				await hdw();
