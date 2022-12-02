@@ -6,7 +6,7 @@
 <meta name="keywords" content="Nouveau Testament">
 	
 <title>BAILLY</title>	
-<script src="bailly.js"></script>
+<script src="bailly2.js"></script>
 <style>
 html {
 margin:0;
@@ -55,15 +55,20 @@ border: 1px solid grey;
 }
 
 .td1 {
-box-shadow: 0px 0px 6px 5px #358ccb, 0 0 0 1px #dfdfdf;
+box-shadow: 0px 0px 3px 3px #358ccb, 0 0 0;
 }
 
 .td2 {
-box-shadow: 0px 0px 6px 5px #68ce46, 0 0 0 1px #68ce46;
+box-shadow: 0px 0px 3px 3px #68ce46, 0 0 0;
 }
 
 .td3 {
-box-shadow: 0px 0px 6px 5px #d51e1e, 0 0 0 1px #d51e1e;
+box-shadow: 0px 0px 3px 3px #d51e1e, 0 0 0;
+}
+
+
+.lemma {
+font: 1.4em Georgia, serif;
 }
 </style>
 </head>
@@ -117,12 +122,19 @@ async function greek()
 			if (lineh.indexOf(grk) != -1)
 			{
 
+
+
+				bailly_temp = bailly[x].replace(/^(\S+)/,"<span class='lemma'>$1</span>")
+				
 				re = new RegExp('('+grk0+')','gi')
-				bailly[x] =  bailly[x].replace(re,"<span style='background-color:#40ff3d'>$1</span>")
+				
+				bailly_temp =  bailly_temp.replace(re,"<span style='background-color:#8eff8d'>$1</span>")
+				
+				
 				
 				
 				xx3 = document.createElement("div");
-				xx3.innerHTML = bailly[x]+"<br><br>"
+				xx3.innerHTML = bailly_temp+"<br><br>"
 				document.getElementById('main').appendChild(xx3);
 				document.getElementById('count').textContent = x
 				await hdw();
