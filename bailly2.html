@@ -78,7 +78,7 @@ padding-right:1em;
 
 <table>
 <tr>
-<td class="td1"><input type="text" placeholder="CHERCHE HELLENE" name="greek" id="greek" onkeypress="if (event.keyCode == 13) greek()"/> </td>
+<td class="td1"><input type="text" placeholder="CHERCHE HELLENE" name="greek" id="greek" onclick="stop=1;" onkeypress="stop=1;if (event.keyCode == 13) greek()"/> </td>
 <td class="td2"><span id="count"></span></td>
 <td class="td3" nowrap><span id="time">Ȼ</span></td>
 </tr>
@@ -94,6 +94,8 @@ padding-right:1em;
 
 <script>
 
+stop = 0;
+
 hdw = function() {
 return new Promise((resolve, reject) => {
     setTimeout(_ => {
@@ -105,6 +107,7 @@ return new Promise((resolve, reject) => {
 
 async function greek()
 {
+	stop=0
 	document.getElementById('main').innerHTML = ""
 	grk0 = document.getElementById('greek').value;	
 	grk = document.getElementById('greek').value;	
@@ -129,13 +132,13 @@ async function greek()
 				
 				re = new RegExp('('+grk0+')','gi')
 				
-				bailly_temp =  bailly_temp.replace(re,"<span style='background-color:#8eff8d'>$1</span>")
+				bailly_temp =  bailly_temp.replace(re,"<span style='background-color:#cbffca'>$1</span>")
 				
 				
 				
 				
 				xx3 = document.createElement("div");
-				xx3.innerHTML = bailly_temp+"<br>"
+				xx3.innerHTML = bailly_temp+"<br><br>"
 				document.getElementById('main').appendChild(xx3);
 				document.getElementById('count').textContent = x
 				await hdw();
@@ -148,6 +151,10 @@ async function greek()
 		{
 			console.log(x)
 		}
+		
+		
+		if(stop == 1)
+			break;
 	
 	}
 	
