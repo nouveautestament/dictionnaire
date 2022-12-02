@@ -6,7 +6,7 @@
 <meta name="keywords" content="Nouveau Testament">
 	
 <title>BAILLY</title>	
-<script src="bailly2.js"></script>
+<script src="bailly.js"></script>
 <style>
 html {
 margin:0;
@@ -16,7 +16,7 @@ padding:0;
 body {
 margin:0;
 padding:0;
-font-family:sans-serif;
+font-family:serif;
 }
 
 a {
@@ -127,8 +127,8 @@ async function greek()
 			{
 
 
-
-				bailly_temp = bailly[x].replace(/^(\S+)/,"<b>$1</b>")
+				bailly_temp = bailly[x];
+				//bailly_temp = bailly[x].replace(/^(\S+)/,"<b>$1</b>")
 				
 				re = new RegExp('('+grk0+')','gi')
 				
