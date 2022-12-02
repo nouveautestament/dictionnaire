@@ -1,0 +1,1 @@
+lar[80741]=`<b>πλατυ·αύχην, χενος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> au cou large, MAN. <i>5, 185</i>.<p><b>Étym</b>. πλατύς, αὐχήν.`

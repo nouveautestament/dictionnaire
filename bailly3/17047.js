@@ -1,0 +1,1 @@
+lar[17047]=`<b>ἀ·τύμβευτος, ος, ον</b>, non enseveli dans une tombe, sans tombeau, ANTH. <i>9, 439</i> ; OPP. <i>H. 5, 346</i>.<p><b>Étym</b>. ἀ, τυμβεύω.`

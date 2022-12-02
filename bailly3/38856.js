@@ -1,0 +1,1 @@
+lar[38856]=`<b>ατος (τὸ) :<br>      1</b> calus qui soude deux os, HPC. <i>Art. 802</i>.<br><b>      2</b> calus <i>en gén</i>. HPC. <i>Art. 92c</i>, d.<p><b>Étym</b>. ἐπιπωρόω.`

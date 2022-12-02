@@ -1,0 +1,1 @@
+lar[52313]=`<i>adv</i>., d’une manière tout à fait incomplète <i>ou</i> insuffisante, <i>au cp</i>. -δεεστέρως, DÉM. <i>1182, ou</i> -δεέστερον, ISOCR. <i>99a, 130a, 240c</i>.<p><b>Étym</b>. καταδεής.`

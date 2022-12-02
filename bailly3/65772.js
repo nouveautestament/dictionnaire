@@ -1,0 +1,1 @@
+lar[65772]=`<i>att</i>. <b>σμικρύνω</b>, <i>f</i>. υνῶ :<br><b>      1</b> rapetisser, D. PHAL. <i>236</i>.<br><b>      2</b> écrire par un omicron, EUST. <i>Il. p. 68, 21</i> ; Ps.-ZONAR. <i>861</i>.<p><b>Étym</b>. μικρός.`

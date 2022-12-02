@@ -1,0 +1,1 @@
+lar[49748]=`<b>ἰσο·στατέω-ῶ</b> <font color="purple">[ῑ̆ᾰ]</font> peser autant, LIB. <i>4, 798</i> ; CLÉM. <i>1, 337 Migne</i>.<p><b>Étym</b>. ἴ. στατός.`

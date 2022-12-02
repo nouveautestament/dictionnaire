@@ -1,0 +1,1 @@
+lar[81635]=`<b>οῦ (ὁ)</b> <font color="purple">[πλᾰ]</font> multiplication, PLUT. <i>M. 388c ;</i> PROCL. <i>Eucl. p. 151, l. 1</i>.<p><b>Étym</b>. πολλαπλασιάζω.`

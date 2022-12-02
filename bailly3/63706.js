@@ -1,0 +1,1 @@
+lar[63706]=`<b>μειλιχό·γηρυς, υος (ὁ, ἡ)</b> <font color="purple">[ῠς]</font> à la voix douce de persuasion, TYRT. <i>12, 8 Bgk</i>.<p><b>Étym</b>. μ. γῆρυς.`

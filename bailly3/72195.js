@@ -1,0 +1,1 @@
+lar[72195]=`<b>ὀξύ·φωνος, ος, ον</b> <font color="purple">[ῠ]</font> à la voix aiguë, claire <i>ou</i> sonore, SOPH. <i>Tr. 963</i> ; BABR. <i>12, 3 et 18</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>H.A. 4, 11, etc</i>.<p><b>Étym</b>. ὀ. φωνή.`

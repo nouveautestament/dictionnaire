@@ -1,0 +1,1 @@
+lar[108720]=`<b>χολή·βαφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a la couleur de la bile, ARÉT. <i>Caus. m. diut. 1, 13 conj</i>.`

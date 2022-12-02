@@ -1,0 +1,1 @@
+lar[71906]=`<b>Ὀνήσ·ανδρος</b> <i>ou</i> <b>Ὀνόσ·ανδρος, ου (ὁ)</b> Onèsandros <i>ou</i> Onosandros, <i>écrivain tacticien grec</i>.<p><b>Étym</b>. ὀνίνημι, ἀνήρ.`

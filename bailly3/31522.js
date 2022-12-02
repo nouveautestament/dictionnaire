@@ -1,0 +1,1 @@
+lar[31522]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qu’on peut rouler : ἐκκ. στέφανος, ARCHIPP. <i>fr. 40 Mein</i>. couronne assez grosse pour qu’il faille la rouler.<p><b>Étym</b>. ἐκκυλίω.`

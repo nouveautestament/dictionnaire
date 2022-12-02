@@ -1,0 +1,1 @@
+lar[30977]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> temple <i>ou</i> chapelle d’Hékatè, AR. <i>Vesp. 804 (mieux que</i> Ἑκάταιον).<br><b>      2</b> statue d’Hékatè, AR. <i>Lys. 64 (crase</i> θοὐκάτειον).<p><b>Étym</b>. Ἑκάτη.`

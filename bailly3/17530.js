@@ -1,0 +1,1 @@
+lar[17530]=`<b>αὐτο·κμής, ῆτος (ὁ, ἡ)</b> travaillé de soi-même, <i>càd</i>. naturel, OPP. <i>H. 1, 718</i>.<p><b>Étym</b>. αὐ. κάμνω.`

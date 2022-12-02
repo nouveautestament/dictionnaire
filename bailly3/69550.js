@@ -1,0 +1,1 @@
+lar[69550]=`<b>ξηρό·μυρον, ου (τὸ)</b> <font color="purple">[ῠ]</font> parfum d’aromates secs, AÉT. <i>6</i>.<p><b>Étym</b>. ξ. μύρον.`

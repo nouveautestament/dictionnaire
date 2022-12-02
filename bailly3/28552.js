@@ -1,0 +1,1 @@
+lar[28552]=`<font color="purple">[ᾰᾰᾰ]</font> <i>adv</i>., de manière à être difficilement compris, ISOCR. <i>21c</i>.`

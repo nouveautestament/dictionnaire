@@ -1,0 +1,1 @@
+lar[100914]=`<b>ου (ὁ)</b> Trôgilos, <i>port de Syracuse, au N. d’Akhradina,</i> THC. <i>6, 99 ; 7, 2</i>.`

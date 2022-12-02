@@ -1,0 +1,1 @@
+lar[104438]=`<b>έως</b>, <i>poét</i>. <b>έος (ὁ)</b> Hypsée, <i>roi des Lapithes,</i> PD. <i>P. 9, 13</i>.<p><b>Étym</b>. ὕψι.`

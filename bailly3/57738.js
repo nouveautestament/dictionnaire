@@ -1,0 +1,1 @@
+lar[57738]=`<font color="purple">[βᾰ]</font> jouer des castagnettes, HERMIPP. (ATH. <i>636d</i>).<p><b>Étym</b>. κρέμβαλον.`

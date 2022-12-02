@@ -1,0 +1,1 @@
+lar[56168]=`<b>κλυτό·μοχθος, ος, ον</b> <font color="purple">[ῠ]</font> fameux par ses labeurs <i>ou</i> ses fatigues, A. PL. <i>5, 362</i>.<p><b>Étym</b>. κλ. μόχθος.`

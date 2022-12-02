@@ -1,0 +1,1 @@
+lar[40006]=`<b>ἑπτα·πλασίως</b> <font color="purple">[ᾰσ]</font> <i>adv</i>., sept fois autant, SPT. <i>Prov. 6, 36</i>.<p><b>Étym</b>. ἑπταπλάσιος.`

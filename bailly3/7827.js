@@ -1,0 +1,1 @@
+lar[7827]=`<b>ἀ·ναυμάχητος, ος, ον</b> <font color="purple">[μᾰ]</font> sans combat naval, LYS. <i>fr. 27</i>.<p><b>Étym</b>. ἀ, ναυμαχέω.`

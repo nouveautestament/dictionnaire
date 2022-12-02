@@ -1,0 +1,1 @@
+lar[27453]=`<b>δολο·μήδης, ης, ες</b>, qui médite des ruses <i>ou</i> une trahison, SIM. <i>fr. 43</i>.<p><b>Étym</b>. δόλος, μῆδος.`

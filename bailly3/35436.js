@@ -1,0 +1,1 @@
+lar[35436]=`<b>ἑξά·μορος, ος, ον</b>, qui représente la sixième partie, NIC. <i>Th. 594</i>.<p><b>Étym</b>. ἕξ, μείρω.`

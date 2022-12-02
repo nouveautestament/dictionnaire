@@ -1,0 +1,1 @@
+lar[103513]=`<b>ὑπο·μάλακος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> un peu mou, PTOL. <i>Tetr. p. 166, 21</i>.`

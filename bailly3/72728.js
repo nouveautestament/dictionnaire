@@ -1,0 +1,1 @@
+lar[72728]=`<b>ὀρθο·νόμος, ος, ον</b>, qui juge (<i>propr</i>. qui partage) équitablement, ESCHL. <i>Eum. 963</i>.<p><b>Étym</b>. ὀ. νέμω.`

@@ -1,0 +1,1 @@
+lar[66667]=`<b>*μονο·φανής</b>, <i>ion</i>. <b>μουνο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se montre seul, seul visible, P. SIL. <i>Ecphr. ag. Soph. 840</i>.<p><b>Étym</b>. μ. φαίνω.`

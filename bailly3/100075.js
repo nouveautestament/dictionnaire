@@ -1,0 +1,1 @@
+lar[100075]=`<font color="purple">[ᾱᾰ]</font> <i>adv</i>., trente fois, PLUT. <i>Cam. 25</i>.<p><b>Étym</b>. τρ. -άκις.`

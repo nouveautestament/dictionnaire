@@ -1,0 +1,1 @@
+lar[86641]=`<b>ατος (τὸ) :<br>      1</b> parole, discours <i>ou</i> lettre qu’on adresse à qqn, SOPH. <i>O.C. 891 ; au plur</i>. EUR. <i>Alc. 1144</i>.<br><b>      2</b> celui à qui l’on adresse la parole, SOPH. <i>O.C. 325</i>.<p><b>Étym</b>. προσφωνέω.`

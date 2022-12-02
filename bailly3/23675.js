@@ -1,0 +1,1 @@
+lar[23675]=`<b>δεκα·μοιρία, ας (ἡ)</b> dix degrés (<i>litt</i>. parties) d’un cercle, JOS. <i>A.J. 3, 7, 7</i>.<p><b>Étym</b>. δ. μοῖρα.`

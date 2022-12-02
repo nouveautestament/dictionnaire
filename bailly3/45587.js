@@ -1,0 +1,1 @@
+lar[45587]=`<b>α, ον</b> <font color="purple">[μῐ]</font> consistant en un demi-ton, ARISTOX. <i>p. 51</i>.<p><b>Étym</b>. ἡμιτόνιον.`

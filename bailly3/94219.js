@@ -1,0 +1,1 @@
+lar[94219]=`<b>συμ·περιτυγχάνω</b>, se rencontrer avec <i>ou</i> rencontrer en même temps, XÉN. <i>An. 7, 8, 22</i> ; EL. <i>V.H. 3, 44</i>.`

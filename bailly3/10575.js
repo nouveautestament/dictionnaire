@@ -1,0 +1,1 @@
+lar[10575]=`<b>ἀντι·φράσσω</b>, <i>att</i>. <b>-φράττω :<br>      1</b> opposer une barrière, XÉN. <i>Conv. 5, 6 ; particul. t. de méc</i>. clôturer, cloisonner, blinder, HÉRON <i>Aut. 269</i>.<br><b>      2</b> <i>p. suite,</i> s’interposer devant, intercepter, ARSTT. <i>Meteor. 1, 8, 5, etc. ; au pass</i>. PLAT. <i>Tim. 66e</i>.`

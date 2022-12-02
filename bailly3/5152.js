@@ -1,0 +1,1 @@
+lar[5152]=`<b>ου (τὸ) :<br>      1</b> sanctuaire des Amazones, <i>à Athènes,</i> CLITOD. (PLUT. <i>Thes. 27</i>).<br><b>      2</b> <i>lieu de Chalcis,</i> PLUT. <i>Thes. 37</i>.`

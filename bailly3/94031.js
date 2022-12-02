@@ -1,0 +1,1 @@
+lar[94031]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> solidement fixé ensemble, compact, PLAT. <i>Tim. 45c, 46b, 56e</i>.<p><b>Étym</b>. συμπήγνυμι.`

@@ -1,0 +1,1 @@
+lar[48554]=`<b>ἱερα·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui porte les objets sacrés, PLUT. <i>M. 352b</i>.<p><b>Étym</b>. ἱ. φέρω.`

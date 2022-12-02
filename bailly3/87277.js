@@ -1,0 +1,1 @@
+lar[87277]=`<b>πρωτό·χορος, ου (ὁ)</b> le premier chœur, <i>titre de comédies d’Alexis et d’Antidotos (Com. fr. 3, 474, 528).</i><p><b>Étym</b>. πρ. χορός.`

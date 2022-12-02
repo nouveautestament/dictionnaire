@@ -1,0 +1,1 @@
+lar[76533]=`<i>vb. de</i> παρεγγυάω, ANTYLL. (ORIB. <i>1, 446 B.-Dar</i>.).`

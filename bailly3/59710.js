@@ -1,0 +1,1 @@
+lar[59710]=`<b>ης (ἡ)</b> grand char, chariot couvert, SOPH. <i>et</i> MÉN. (POLL. <i>10, 52</i>) ; SPT. <i>1Reg. 26, 5 ; Esaï. 66, 20</i>.`

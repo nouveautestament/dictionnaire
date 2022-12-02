@@ -1,0 +1,1 @@
+lar[69203]=`<b>ατος (τὸ)</b> mariage, noces, ORACL. (PHLÉG. TR. <i>Mir. c. 10, 30).</i><p><b>Étym</b>. νυμφάζω.`

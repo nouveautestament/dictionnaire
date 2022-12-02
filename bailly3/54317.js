@@ -1,0 +1,1 @@
+lar[54317]=`<b>εως (ἡ)</b> action de brûler, TH. <i>Od. 22 dout</i>.<p><b>Étym</b>. καίω.`

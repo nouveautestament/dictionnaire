@@ -1,0 +1,1 @@
+lar[82822]=`<b>πορο·ποιέω-ῶ :<br>      1</b> ouvrir les pores, DIOSC. <i>5, 11</i>.<br><b>      2</b> pourvoir de pores, SEXT. <i>M. 8, 309</i>.<p><b>Étym</b>. πόρος, π.`

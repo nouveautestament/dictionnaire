@@ -1,0 +1,1 @@
+lar[105667]=`<b>ή, όν</b> <font color="purple">[φῐ]</font> de Philippe, DÉM. <i>Or. 6 argum. Baiter-Sauppe</i> ; POL. <i>3, 32, 7</i> ; οἱ Φ. discours contre Philippe, Philippiques, <i>discours de Démosthène</i>.<p><b>Étym</b>. Φίλιππος.`

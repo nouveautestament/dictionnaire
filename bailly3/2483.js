@@ -1,0 +1,1 @@
+lar[2483]=`<b>αἰθρο·βολέω-ῶ</b>, frapper de ses rayons, illuminer, MAN. <i>4, 224</i>.<p><b>Étym</b>. αἴ. -βολος <i>de</i> βάλλω.`

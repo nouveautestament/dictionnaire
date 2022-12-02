@@ -1,0 +1,1 @@
+lar[52128]=`<font color="purple">[βᾰ]</font> <i>vb. de</i> καταβαίνω, AR. <i>Lys. 884</i> ; PLAT. <i>Leg. 833d, etc</i>.`

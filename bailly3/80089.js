@@ -1,0 +1,1 @@
+lar[80089]=`<b>πηλο·ποιός, οῦ (ὁ)</b> potier, <i>propr</i>. qui façonne l’argile, A. APHR. <i>Probl. 1, 49</i>.<p><b>Étym</b>. πηλός, ποιέω.`

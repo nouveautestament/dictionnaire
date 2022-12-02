@@ -1,0 +1,1 @@
+lar[36896]=`<b>ἐπ·αχνίδιος, α, ον</b> <font color="purple">[ῐδ]</font> qui vole comme un brin de paille, ANTH. <i>9, 556</i>.<p><b>Étym</b>. ἐπί, ἄχνα.`

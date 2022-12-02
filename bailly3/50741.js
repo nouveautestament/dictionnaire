@@ -1,0 +1,1 @@
+lar[50741]=`<b>κακο·θελής, ής, ές</b> <font color="purple">[ᾰ]</font> malveillant, POLÉM. <i>p. 267</i>.<p><b>Étym</b>. κ. θέλω.`

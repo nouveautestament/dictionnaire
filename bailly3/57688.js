@@ -1,0 +1,1 @@
+lar[57688]=`<b>κρεά·γραπτος, ος, ον</b>, qui déchire les chairs, LYC. <i>759 dout</i>.<p><b>Étym</b>. κρ. γράφω.`

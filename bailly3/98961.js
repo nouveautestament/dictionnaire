@@ -1,0 +1,1 @@
+lar[98961]=`<b>εως (ἡ)</b> fenugrec, <i>plante légumineuse,</i> HPC. <i>668, 27</i> ; TH. <i>H.P. 3, 17, 2</i>.<p>➳ <i>Gén. ion</i>. -ιος, ARÉT.`

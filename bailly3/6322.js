@@ -1,0 +1,1 @@
+lar[6322]=`<b>ἀμφι·πλίσσω</b> (<i>prés</i>.) marcher, autour, POÈT. (POLL. <i>2, 172</i>).`

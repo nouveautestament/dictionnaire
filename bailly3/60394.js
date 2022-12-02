@@ -1,0 +1,1 @@
+lar[60394]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Leptinès, <i>Athénien,</i> DÉM. <i>20 (arg.) Baiter-Sauppe, etc</i>.<p>➳ <i>Dans les inscr. att. gén</i>. Λεπτίνου, CIA. <i>2, 946 (400/350 av. J.-C.) etc. ; dat</i>. Λεπτίνῃ, CIA. <i>2, add. 834, b, 2, 44 (329 av. J.-C.) ; v. Meisterh. p. 93, 1</i>.`

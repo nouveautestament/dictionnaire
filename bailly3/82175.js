@@ -1,0 +1,1 @@
+lar[82175]=`<i>voc</i>. <b>-η (ὁ)</b> <font color="purple">[ῐ]</font> Polyxénidès, <i>h</i>. ANTH. <i>12, 33</i>.<p><b>Étym</b>. <i>patr. de</i> Πολύξενος.`

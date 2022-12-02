@@ -1,0 +1,1 @@
+lar[18531]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> manque d’argent, pauvreté, OD. <i>17, 502</i> ; THGN. <i>156</i>.<p><b>Étym</b>. ἀχρήμων.`

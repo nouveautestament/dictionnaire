@@ -1,0 +1,1 @@
+lar[101486]=`<b>ου (ὁ)</b> hydropisie, HPC. <i>543, 55 ; 544, 34</i> ; ARSTT. <i>Nic. 7, 8, 1, etc</i>.<p><b>Étym</b>. ὕδωρ.`

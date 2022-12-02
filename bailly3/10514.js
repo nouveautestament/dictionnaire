@@ -1,0 +1,1 @@
+lar[10514]=`<b>ἀντί·τομος, ος, ον :<br>      1</b> qui coupe à l’encontre, <i>en parl. de ciseaux (dont les deux branches coupent à l’encontre l’une de l’autre</i>) P. ÉG. <i>156 Briau</i>.<br><b>      2</b> qui coupe de façon à s’opposer à, <i>d’où subst</i>. τὸ ἀντίτομον, remède, antidote, HH. <i>Cer. 229</i> ; PD. <i>P. 4, 221</i>.<p><b>Étym</b>. <i>cf</i>. ἀντιτέμνω.`

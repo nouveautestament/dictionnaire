@@ -1,0 +1,1 @@
+lar[3840]=`<b>ἀκρό·σοφος, ος, ον</b>, d’une sagesse supérieure ; <i>sel. d’autres,</i> d’une sagesse superficielle, PD. <i>O. 10, 19</i> ; DH. <i>Dem. 51</i>.<p><b>Étym</b>. ἄ. σοφός.`

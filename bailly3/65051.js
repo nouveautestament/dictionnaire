@@ -1,0 +1,1 @@
+lar[65051]=`<b>μετα·χεύομαι</b> (<i>seul. prés</i>.) avaler <i>ou</i> absorber de nouveau, OPP. <i>H. 1, 572</i>.<p><b>Étym</b>. μ. χέω.`

@@ -1,0 +1,1 @@
+lar[64161]=`<i>vb. de</i> μέλλω, EUR. <i>Ph. 1279</i> ; AR. <i>Eccl. 876</i> ; PLAT. <i>Criti. 108e</i>.`

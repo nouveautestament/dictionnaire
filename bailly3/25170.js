@@ -1,0 +1,1 @@
+lar[25170]=`<b>δι·αντλίζομαι</b> (<i>prés. ind. 3 pl</i>. -ίζονται) s’épuiser, se consumer (de soucis) HPC. <i>27, 29</i>.`

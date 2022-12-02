@@ -1,0 +1,1 @@
+lar[41969]=`<b>εὐ·έλεγκτος, ος, ον :<br>      1</b> <i>pass</i>. facile à contredire <i>ou</i> à réfuter, PLAT. <i>Theæt. 157b ;</i> ARSTT. <i>Rhet. 3, 17, 15</i>.<br><b>      2</b> <i>pass</i>. dont il est facile de se rendre compte, PLAT. <i>Ap. 33c</i>.<p><b>Étym</b>. εὖ, ἐλέγχω.`

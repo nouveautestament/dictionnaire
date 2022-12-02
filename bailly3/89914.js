@@ -1,0 +1,1 @@
+lar[89914]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Sejanus, Séjan, <i>favori de Tibère,</i> PLUT. <i>Amic. mult. 7</i>.`

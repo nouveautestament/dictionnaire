@@ -1,0 +1,1 @@
+lar[39192]=`<b>ἐπι·στρώννυμι</b>, <i>c</i>. ἐπιστορέννυμι :<br><b>      1</b> répandre sur, LUC. <i>Philopatr. 24</i>.<br><b>      2</b> étendre (une couverture, une housse) sur, JOS. <i>A.J. 8, 9, 1</i>.`

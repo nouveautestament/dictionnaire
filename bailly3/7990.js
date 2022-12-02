@@ -1,0 +1,1 @@
+lar[7990]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰπ]</font><br><b>      1</b> asservissement, réduction en esclavage de prisonniers de guerre, THC. <i>2, 68</i> ; ISOCR. <i>61d ; en parl. de villes, d’États,</i> DÉM. <i>10, 18</i>.<br><b>      2</b> capture et vente comme esclaves d’hommes libres, PLAT. <i>Leg. 879a, 955a</i>.<p><b>Étym</b>. ἀνδραποδίζω.`

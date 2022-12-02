@@ -1,0 +1,1 @@
+lar[35429]=`<b>ἑξά·μετρος, ος, ον</b> <font color="purple">[ᾰ]</font> de six mesures <i>ou</i> pieds, hexamètre, HDT. <i>1, 47, etc.</i> ; PLAT. <i>Leg. 810d ;</i> JOS. <i>A.J. 2, 16, 4, etc.</i> ; τὸ ἑξάμετρον (<i>s.-e</i>. ἔπος <i>ou</i> μέτρον) ARSTT. <i>Rhet. 3, 1, 9</i> ; PAUS. <i>5, 19, 3 ; 10, 5, 7,</i> le vers hexamètre.<p><b>Étym</b>. ἕξ, μέτρον.`

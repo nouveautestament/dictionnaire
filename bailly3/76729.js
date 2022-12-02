@@ -1,0 +1,1 @@
+lar[76729]=`<b>παρ·εξαυλέω-ῶ</b> (<i>part. pf. pass</i>. παρεξηυλημένος) qui ne peut plus donner de son, <i>en parl. d’une flûte, càd</i>. usé ; <i>fig. en parl. de vieillards,</i> AR. <i>Ach. 681</i>.`

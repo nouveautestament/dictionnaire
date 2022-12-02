@@ -1,0 +1,1 @@
+lar[47934]=`<b>θυμο·λέων, οντος (ὁ)</b> <font color="purple">[ῡ]</font> au cœur de lion (Achille) IL. <i>7, 228</i> ; (Ulysse) OD. <i>4, 724</i> ; (Hèraklès) OD. <i>11, 267</i> ; HÉS. <i>Th. 1007</i> ; (Patrocle, Teucer) AR. <i>Ran. 1041</i> ; (Bacchus) ANTH. <i>9, 524</i>.<p><b>Étym</b>. θ. λέων.`

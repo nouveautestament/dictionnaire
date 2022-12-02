@@ -1,0 +1,1 @@
+lar[64076]=`<b>μελισσο·κόμος, ος, ον</b>, qui prend soin des abeilles, OPP. <i>C. 4, 275</i> ; ὁ μ. A.RH. <i>2, 131,</i> apiculteur.<p><b>Étym</b>. μ. κομέω.`

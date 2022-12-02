@@ -1,0 +1,1 @@
+lar[76376]=`<b>παρ·αυλίζω</b>, habiter auprès, être voisin, EUR. <i>Ion 493</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ATH. <i>189e</i>.`

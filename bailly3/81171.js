@@ -1,0 +1,1 @@
+lar[81171]=`<b>ου (ὁ)</b> = <i>lat</i>. Plōtīnus :<br><b>      1</b> <i>n. d’h. rom</i>. PLUT. <i>Crass. 1</i>.<br><b>      2</b> Plotin, <i>philosophe néoplatonicien</i>.`

@@ -1,0 +1,1 @@
+lar[11232]=`<b>οῦ (ὁ)</b> action de dévêtir, CORN. <i>178</i>.<p><b>Étym</b>. ἀπαμφιάζω.`

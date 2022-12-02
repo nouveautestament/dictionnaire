@@ -1,0 +1,1 @@
+lar[65496]=`<b>μηρο·τραφής, ής, ές</b> <font color="purple">[ᾰ]</font> nourri dans la cuisse (de Zeus) <i>ou, sel. d’autres,</i> sur le mt Mèros, <i>dans l’Inde,</i> ANTH. <i>11, 329</i> ; STR. <i>687</i>.<p><b>Étym</b>. μηρός, τρέφω.`

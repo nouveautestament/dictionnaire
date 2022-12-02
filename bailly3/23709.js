@@ -1,0 +1,1 @@
+lar[23709]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui se fait au bout de dix jours, qui a lieu le 10<sup>e</sup> jour, PLAT. <i>Rsp. 614b ;</i> PLUT. <i>Sol. 6</i>.<br><b>      2</b> parvenu au 10<sup>e</sup> jour, âgé de dix jours, LUC. <i>Halc. 5</i> ; ANTH. <i>11, 325</i>.<p><b>Étym</b>. δέκατος, -αιος.`

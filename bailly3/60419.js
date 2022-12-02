@@ -1,0 +1,1 @@
+lar[60419]=`<b>ας (ἡ)</b> état d’un corps composé de minces particules, T. LOCR. <i>98e ;</i> PLUT. <i>M. 882a, etc</i>.<p><b>Étym</b>. λεπτομερής.`

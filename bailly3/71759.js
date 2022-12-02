@@ -1,0 +1,1 @@
+lar[71759]=`<i>adv</i>., avec la même voix <i>ou</i> le même son, à l’unisson, d’accord, SEXT. <i>3, 239</i> ; PLUT. <i>Galb. 5</i> ; STR. <i>411, etc</i>.`

@@ -1,0 +1,1 @@
+lar[3312]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Akestoriè, <i>f</i>. ANTH. <i>7, 559</i>.<p><b>Étym</b>. <i>v</i>. *ἀκεστορία.`

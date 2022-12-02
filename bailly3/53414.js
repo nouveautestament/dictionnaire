@@ -1,0 +1,1 @@
+lar[53414]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui s’élance, qui se précipite, NONN. <i>D. 21, 329</i>.<p><b>Étym</b>. κατασεύομαι, <i>avec redoubl. épq. du</i> σ.`

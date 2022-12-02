@@ -1,0 +1,1 @@
+lar[96173]=`<b>συν·όμιλος, ος, ον</b> <font color="purple">[ῑ]</font> qui a commerce avec, compagnon, CLÉM. <i>52</i>.<p><b>Étym</b>. σύν, ὁμιλέω.`

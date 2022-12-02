@@ -1,0 +1,1 @@
+lar[48393]=`<b>ή, όν</b> <font color="purple">[ῐδ]</font><br><b>      1</b> propre, particulier, spécial, ATH. <i>373b.</i><br><b>      2</b> qui appartient en propre à (<i>p. opp. à</i> étranger) ANTH. <i>5, 106</i> ; MAN. <i>5, 122</i>.<p><b>Étym</b>. ἴδιος.`

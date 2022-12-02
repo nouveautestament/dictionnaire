@@ -1,0 +1,1 @@
+lar[56746]=`<b>ου (ὁ) :<br>      1</b> action de plonger, de nager, PAUS. <i>2, 35, 1</i> ; PLUT. <i>M. 162f ;</i> ANTH. <i>9, 82</i>.<br><b>      2</b> plongeon, <i>oiseau,</i> AR. <i>Ach. 876</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[54747]=`<b>ων (οἱ)</b> habitants de Kentoripes, THC. <i>7, 32</i>.<p><b>Étym</b>. <i>v</i>. Κεντόριπα.`

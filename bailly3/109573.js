@@ -1,0 +1,1 @@
+lar[109573]=`<b>ης, ες</b>, plein de sable, HDT. <i>2, 32, etc.</i> ; τὰ ψαμμώδη, HPC. <i>Aph. 1252,</i> dépôts sablonneux dans l’urine.<p><b>Étym</b>. ψ. -ωδης.`

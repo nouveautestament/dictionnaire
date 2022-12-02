@@ -1,0 +1,1 @@
+lar[87063]=`<i>adv</i>., de manière à être défini auparavant, CLÉM. <i>778</i>.<p><b>Étym</b>. προορίζω.`

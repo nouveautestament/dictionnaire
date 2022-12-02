@@ -1,0 +1,1 @@
+lar[50259]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de manière à détruire, ORIG. <i>1, 720 Migne</i>.`

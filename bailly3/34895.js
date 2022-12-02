@@ -1,0 +1,1 @@
+lar[34895]=`<b>ατος (τὸ)</b> trouble, gêne, ORIB. <i>2, 67 B.-Dar</i>.<p><b>Étym</b>. ἐνοχλέω.`

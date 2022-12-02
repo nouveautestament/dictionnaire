@@ -1,0 +1,1 @@
+lar[84846]=`<b>προ·ομολογέω-ῶ</b> (<i>pf. pass</i>. προωμολόγημαι) reconnaître <i>ou</i> convenir d’avance, PLAT. <i>Rsp. 479d ; au pass</i>. PLAT. <i>Phæd. 93d, Theæt. 159c, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. SEXT. <i>M. 1, 9</i>.`

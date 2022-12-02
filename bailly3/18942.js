@@ -1,0 +1,1 @@
+lar[18942]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> fait avec des glands <i>ou</i> des dattes (parfum, huile, <i>etc</i>.) TH. <i>Od. 29</i> ; DIOSC. <i>1, 20, 41, etc</i>.<p><b>Étym</b>. βάλανος.`

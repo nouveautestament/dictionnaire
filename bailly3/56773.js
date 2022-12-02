@@ -1,0 +1,1 @@
+lar[56773]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> arbousier, AR. <i>Av. 620</i> ; TH. <i>H.P. 1, 15, etc</i>.<p>➳ ὁ κ. AMPHIS (ATH. <i>50f</i>).`

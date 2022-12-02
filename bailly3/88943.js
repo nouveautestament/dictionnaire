@@ -1,0 +1,1 @@
+lar[88943]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> aux traits ridés, ANTH. <i>5, 76 conj</i>.<p><b>Étym</b>. ῥυσός, -ωδης.`

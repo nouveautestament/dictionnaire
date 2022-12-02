@@ -1,0 +1,1 @@
+lar[43855]=`<b>      1</b> rendre odorant, <i>d’où au pass</i>. être odorant, STR. <i>721</i> ; DIOSC. <i>2, 91</i>.<br><b>      2</b> être odorant, SPT. <i>Zach. 9, 17</i> ; εὐωδ. ὀσμήν, SPT. <i>Sir. 39, 14,</i> exhaler une bonne odeur.<p><b>Étym</b>. εὐωδία.`

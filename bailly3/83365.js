@@ -1,0 +1,1 @@
+lar[83365]=`<i>adv</i>., avec bonté <i>ou</i> bienveillance, ESCHL. <i>Pers. 220, etc</i>.<p><b>Étym</b>. πρευμενής.`

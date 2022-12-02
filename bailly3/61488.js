@@ -1,0 +1,1 @@
+lar[61488]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> petit discours, petit entretien, ISOCR. <i>295b ;</i> PLAT. <i>Eryx. 401e.</i><br><b>      2</b> petit récit, AR. <i>Vesp. 64</i>.<p><b>Étym</b>. <i>dim. de</i> λόγος.`

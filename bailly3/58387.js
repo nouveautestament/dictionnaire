@@ -1,0 +1,1 @@
+lar[58387]=`<b>ων (τὰ)</b> <font color="purple">[ῠ]</font> la fête des pilotes, <i>fête athénienne, instituée par Thésée, en l’honneur de ses pilotes Nausithoos et Phæax,</i> PLUT. <i>Thes. 17</i>.<p><b>Étym</b>. κυβερνάω.`

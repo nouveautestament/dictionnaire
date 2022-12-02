@@ -1,0 +1,1 @@
+lar[45529]=`<b>ος, ον</b>, à demi tressé, PHILYLL. (POLL. <i>6, 160).</i><p><b>Étym</b>. ἡμι-, πλέκω.`

@@ -1,0 +1,1 @@
+lar[70639]=`<b>οἱον·εί</b>, <i>conj</i>. comme si, comme, ARSTT. <i>H.A. 1, 16, 17, etc</i>.<p><b>Étym</b>. οἷον, εἰ.`

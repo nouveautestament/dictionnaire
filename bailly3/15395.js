@@ -1,0 +1,1 @@
+lar[15395]=`<b>ἀρτί·χειρ, ειρος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux mains <i>ou</i> aux bras robustes (<i>litt</i>. bien ajustés) PLAT. <i>Leg. 795d</i>.<p><b>Étym</b>. ἄ. χείρ.`

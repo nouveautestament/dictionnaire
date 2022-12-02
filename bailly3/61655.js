@@ -1,0 +1,1 @@
+lar[61655]=`<b>ᾶ (ὁ)</b> saint Luc, <i>un des quatre évangélistes,</i> NT. <i>2Tim. 4, 11, etc</i>.`

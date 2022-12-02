@@ -1,0 +1,1 @@
+lar[72429]=`<b>ου (ὁ)</b> = Oppius, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 10, etc</i>.`

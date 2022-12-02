@@ -1,0 +1,1 @@
+lar[103645]=`<b>ὑπο·πάρθενος, ου</b>, <i>adj. f</i>. encore presque vierge, AR. <i>fr. 190</i>.<p><b>Étym</b>. ὑ. παρθένος.`

@@ -1,0 +1,1 @@
+lar[84831]=`<b>προ·οικονομέω-ῶ</b> (<i>pf. pass</i>. προῳκονόμημαι) administrer auparavant, disposer auparavant, CIC. <i>Q. frat. 2, 3, 6</i> ; JOS. <i>A.J. 2, 5, 7 ; au pass</i>. ARSTT. <i>Œc. 1, 3, 4</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>B.J. 7, 8, 2</i>.`

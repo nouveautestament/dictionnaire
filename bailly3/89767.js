@@ -1,0 +1,1 @@
+lar[89767]=`<b>ήεντος (ὁ)</b> Sellèente, <i>n. de fl.</i> :<br><b>      1</b> <i>en Thesprotie (sel. d’autres, auj</i>. Piniakós Láđonas <i>en Élide</i>) IL. <i>2, 659 ; 15, 531</i>.<br><b>      2</b> <i>en Troade,</i> IL. <i>2, 839 ; 12, 97, etc</i>.`

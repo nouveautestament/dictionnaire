@@ -1,0 +1,1 @@
+lar[15044]=`<b>ου (ὁ)</b> <font color="purple">[πᾰᾰ]</font> engin de chasse, OPP. <i>C. 1, 153</i>.<p><b>Étym</b>. <i>cf</i>. ἁρπαλέος.`

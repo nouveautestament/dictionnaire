@@ -1,0 +1,1 @@
+lar[104891]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. φαρμακίς, ARSTT. <i>H.A. 9, 17, 1</i> ; EL. <i>N.A. 14, 25</i>.`

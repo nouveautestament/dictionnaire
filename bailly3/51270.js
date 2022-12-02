@@ -1,0 +1,1 @@
+lar[51270]=`<b>εος-ους (τὸ)</b> <i>seul. au pl. nom. acc</i>. κάλλεα, EL. <i>N.A. 11, 26 ; p. contr</i>. κάλλη, EL. <i>N.A. 5, 5 ; dat. irrég</i>. καλλέοις, EL. <i>N.A. 15, 1,</i> caroncule de coq.<p><b>Étym</b>. <i>cf</i>. κάλλαιον.`

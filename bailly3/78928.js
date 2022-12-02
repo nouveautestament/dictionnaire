@@ -1,0 +1,1 @@
+lar[78928]=`<b>περι·μηρύομαι</b>, enrouler autour, PHIL. BYZ.`

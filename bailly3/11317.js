@@ -1,0 +1,1 @@
+lar[11317]=`<b>ἀ·παρακάλυπτος, ος, ον</b> <font color="purple">[κᾰ]</font> non voilé, non caché, ouvert, <i>fig</i>. HLD. <i>10, 29, etc</i>.<p><b>Étym</b>. ἀ, παρακαλύπτω.`

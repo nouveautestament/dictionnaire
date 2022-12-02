@@ -1,0 +1,1 @@
+lar[36099]=`<b>α, ον</b>, <i>vb. de</i> ἐκφέρω, AR. <i>Lys. 921 ; au neutre,</i> EUR. <i>Ph. 712</i> ; PLAT. <i>Parm. 128e</i>.`

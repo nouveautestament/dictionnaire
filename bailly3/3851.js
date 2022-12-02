@@ -1,0 +1,1 @@
+lar[3851]=`<b>ου (ὁ)</b> Akrotatos, <i>roi de Sparte,</i> PLUT. <i>Pyrrh. 26, etc</i>.`

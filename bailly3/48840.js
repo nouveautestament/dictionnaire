@@ -1,0 +1,1 @@
+lar[48840]=`<b>ου</b>, <i>adj. m.</i> : λίθος, pierre précieuse jaune, PLIN. <i>H.N. 37, 61</i>.<p><b>Étym</b>. ἴκτερος.`

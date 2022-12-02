@@ -1,0 +1,1 @@
+lar[88141]=`<b>πωρο·λυτικός, ή, όν</b> <font color="purple">[ῠ]</font> qui dissout les concrétions, P. ÉG. <i>6, 109</i>.<p><b>Étym</b>. π. λύω.`

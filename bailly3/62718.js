@@ -1,0 +1,1 @@
+lar[62718]=`<b>οῦ (ὁ) :<br>      1</b> touffe de laine, <i>d’où</i> laine des brebis, HÉS. <i>O. 232</i> ; ESCHL. <i>Eum. 45</i> ; SOPH. <i>O.C. 475</i>.<br><b>      2</b> touffe de cheveux, chevelure, EUR. <i>Bacch. 113</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

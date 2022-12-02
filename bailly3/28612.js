@@ -1,0 +1,1 @@
+lar[28612]=`<font color="purple">[ᾱ]</font> <i>adv</i>., dans un état d’équilibre insuffisant <i>ou</i> mal tempéré, GAL. <i>10, 175</i>.<p><b>Étym</b>. δύσκρατος.`

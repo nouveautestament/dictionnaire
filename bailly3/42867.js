@@ -1,0 +1,1 @@
+lar[42867]=`<b>ας (ἡ)</b> bonne armure, XÉN. <i>Hier. 9, 6</i>.<p><b>Étym</b>. εὔοπλος.`

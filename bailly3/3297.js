@@ -1,0 +1,1 @@
+lar[3297]=`<b>*ἀκεσί·πονος</b>, <i>poét</i>. <b>ἀκεσσί·πονος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui guérit <i>ou</i> allège la fatigue, NONN. <i>D. 7, 86</i>.<p><b>Étym</b>. ἀκέομαι, πόνος.`

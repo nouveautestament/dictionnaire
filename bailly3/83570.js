@@ -1,0 +1,1 @@
+lar[83570]=`<b>προ·αναρπάζω</b>, écarter <i>ou</i> arrêter avant, DÉM. <i>552, 24 ; avec le gén</i>. PLUT. <i>Pomp. 76,</i> avant qqe ch.`

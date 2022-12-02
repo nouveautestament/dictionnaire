@@ -1,0 +1,1 @@
+lar[8136]=`<b>ωνος (ὁ)</b> Andrôn, <i>h</i>. PLAT. <i>Gorg. 487b, etc</i>.<p><b>Étym</b>. ἀνήρ.`

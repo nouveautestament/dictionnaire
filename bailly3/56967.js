@@ -1,0 +1,1 @@
+lar[56967]=`<b>ου (τὸ)</b> tas de fumier, HPC. (GAL. <i>Lex. Hipp. 19, 113</i>) ; STR. <i>784</i> ; ARR. <i>Epict. 2, 4, 5</i> ; PLUT. <i>M. 669a, etc. ; au plur</i>. HÉCAT. (PLUT. <i>Pomp. 48).</i><p><b>Étym</b>. κόπρος.`

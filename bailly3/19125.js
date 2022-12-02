@@ -1,0 +1,1 @@
+lar[19125]=`<b>βαρύ·γλωσσος, ος, ον</b> <font color="purple">[ᾰυ]</font> à la langue lourde, <i>càd</i>. médisant, NONN. <i>Jo. 10, 33</i>.<p><b>Étym</b>. β. γλῶσσα.`

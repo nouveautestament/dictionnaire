@@ -1,0 +1,1 @@
+lar[11103]=`<b>ἀπ·αείρομαι</b> (<i>seul. part. prés. moy</i>.) se mettre en route, partir de, <i>gén</i>. IL. <i>21, 563</i>.`

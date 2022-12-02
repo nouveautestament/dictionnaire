@@ -1,0 +1,1 @@
+lar[9927]=`<b>ατος (τὸ)</b> compensation, JOS. <i>A.J. 15, 9, 2</i> ; ONOS. <i>35, 2</i>.<p><b>Étym</b>. <i>cf</i>. ἀντικαταλλαγή.`

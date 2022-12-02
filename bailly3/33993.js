@@ -1,0 +1,1 @@
+lar[33993]=`<b>ἐν·αποτίθημι</b> <font color="purple">[τῐ]</font> (<i>seul. moy</i>.) déposer dans, <i>avec</i> ἐς <i>et l’acc</i>. DC. <i>73, 10 ; fig</i>. faire retomber sur, <i>avec</i> ἐς <i>et l’acc</i>. DS. <i>Exc. 569, 12</i>.`

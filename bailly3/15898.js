@@ -1,0 +1,1 @@
+lar[15898]=`<b>ἀ·σκαρδάμυκτος, ος, ον</b> <font color="purple">[δᾰ]</font> qui ne cligne pas les yeux, AR. <i>Eq. 292</i> ; OPP. <i>C. 1, 208</i>.<p><b>Étym</b>. ἀ, σκαρδαμύσσω.`

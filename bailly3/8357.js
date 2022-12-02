@@ -1,0 +1,1 @@
+lar[8357]=`<b>ἀν·ενεργής, ής, ές</b>, sans force, inerte, inefficace, TH. <i>H.P. 9, 17, 1</i>.<p><b>Étym</b>. ἀν-, ἐνεργής.`

@@ -1,0 +1,1 @@
+lar[82852]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> pêcheur de coquillages à pourpre, LUC. <i>Tox. 18, etc.</i><br><b>      2</b> teinturier en pourpre, HDT. <i>4, 151</i> ; ARSTT. <i>Probl. 38, 2</i>.<p><b>Étym</b>. πορφύρα.`

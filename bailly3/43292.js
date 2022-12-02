@@ -1,0 +1,1 @@
+lar[43292]=`<b>Εὐρύ·λοχος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Eurylokhos, <i>h</i>. OD. <i>10, 205</i> ; THC. <i>3, 101, etc</i>.<p>➳ <i>Gén. épq</i>. -οιο, OD. <i>10, 207</i>.<p><b>Étym</b>. εὐ. λόχος.`

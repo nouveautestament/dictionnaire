@@ -1,0 +1,1 @@
+lar[20227]=`<b>εω (ὁ)</b> <i>dérivé ion. de</i> βορέας <i>avec la même sign</i>. OPP. <i>C. 2, 623</i>.`

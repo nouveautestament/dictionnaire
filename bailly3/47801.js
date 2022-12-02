@@ -1,0 +1,1 @@
+lar[47801]=`<b>άδος</b>, <i>adj. f</i>. du Tibre, ANTH. <i>App. 51, 1</i>.<p><b>Étym</b>. Θύβρις.`

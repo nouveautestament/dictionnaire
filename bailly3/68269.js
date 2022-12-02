@@ -1,0 +1,1 @@
+lar[68269]=`<b>(ὁ)</b> habitant de l’î. Néonteikhos <i>en Mysie,</i> HOM. <i>Ep. 1</i>.`

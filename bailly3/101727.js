@@ -1,0 +1,1 @@
+lar[101727]=`<b>ων (οἱ)</b> habitants de la presqu’île d’Hyllos, <i>en Illyrie,</i> A.RH. <i>4, 524, 527</i>.`

@@ -1,0 +1,1 @@
+lar[87650]=`<font color="purple">[ᾰ]</font> <i>c</i>. πυκταλίζω SOPHR. (EM. <i>345, 39</i>).`

@@ -1,0 +1,1 @@
+lar[48666]=`<b>εως (ἡ)</b> consécration, DC. <i>Fragm. 13, 3</i>.<p><b>Étym</b>. ἱερόω.`

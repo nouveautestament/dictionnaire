@@ -1,0 +1,1 @@
+lar[24388]=`<b>όος-οῦς (ἡ)</b> Dèô, <i>autre n. de Dèmèter</i>.<p>➳ <i>Voc</i>. Δηοῖ, HH. <i>Cer. 492</i> ; ORPH. <i>H. 40, 1</i> ; ANTH. <i>6, 36, 40 ; ou</i> Δηώ, NONN. <i>D. 12, 210, 254. Gén</i>. Δηοῦς, SOPH. <i>Ant. 1121</i> ; EUR. <i>Suppl. 290</i> ; AR. <i>Pl. 515</i> ; ANTH. <i>7, 209 ; etc</i>.<p><b>Étym</b>. <i>inconnue, cf</i>. Δημήτηρ.`

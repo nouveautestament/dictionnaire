@@ -1,0 +1,1 @@
+lar[83218]=`<i>adv.</i> :<br><b>      1</b> avec activité, POL. <i>5, 18, 7 ; 6, 25, 4</i>.<br><b>      2</b> avec énergie, PLUT. <i>Per. 2</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>5, 18, 7</i>.`

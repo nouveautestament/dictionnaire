@@ -1,0 +1,1 @@
+lar[98963]=`<b>τηλίτης οἶνος (ὁ)</b> <font color="purple">[ῑ]</font> vin préparé avec du fenugrec, GEOP. <i>8, 14</i>.<p><b>Étym</b>. τῆλις.`

@@ -1,0 +1,1 @@
+lar[90778]=`<b>α, ον</b>, <i>vb. de</i> σκέπτομαι, ANT. <i>124, 10 ; au neutre,</i> THC. <i>1, 72</i> ; XÉN. <i>Eq. 3, 4 ; Cyr. 1, 3, 17, etc.</i> ; PLAT. <i>Theæt. 188c, etc</i>.`

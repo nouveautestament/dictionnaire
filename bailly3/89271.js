@@ -1,0 +1,1 @@
+lar[89271]=`<b>ων (τὰ)</b> Samosate, <i>v. de Syrie,</i> PLUT. <i>Ant. 33</i> ; LUC. <i>H. conscr. 24</i>.`

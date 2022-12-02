@@ -1,0 +1,1 @@
+lar[24789]=`<b>ατος (τὸ)</b> lotion pour se rincer la bouche, DIOSC. <i>1, 53, 166</i> ; GAL. <i>13, 494b</i>.<p><b>Étym</b>. διακλύζω.`

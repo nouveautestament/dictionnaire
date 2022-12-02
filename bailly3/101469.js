@@ -1,0 +1,1 @@
+lar[101469]=`<b>ὑδατο·πότης, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> buveur d’eau, PHRYN. COM. (ATH. <i>44d</i>).<p><b>Étym</b>. ὕδ. πίνω.`

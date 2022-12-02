@@ -1,0 +1,1 @@
+lar[6462]=`<i>adv</i>., aux deux endroits, <i>sans mouv</i>. XÉN. <i>Mem. 3, 4, 12</i>.<p><b>Étym</b>. ἀ. -θι.`

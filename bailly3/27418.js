@@ -1,0 +1,1 @@
+lar[27418]=`<b>ητος (ἡ)</b> ruse, fourberie, SPT. <i>Num. 25, 18 ; Ps. 37, 13</i>.<p><b>Étym</b>. δόλιος.`

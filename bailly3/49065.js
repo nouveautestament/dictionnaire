@@ -1,0 +1,1 @@
+lar[49065]=`<b>ῆς</b> <font color="purple">[ᾰ]</font> <i>contract. p</i>. ἰξαλέα, ας (ἡ) <i>s.-e</i>. δορά, peau de bouc, HPC. <i>Fract. 770</i> ; GAL. <i>12, 244</i>.<p><b>Étym</b>. <i>cf</i>. ἴξαλος.`

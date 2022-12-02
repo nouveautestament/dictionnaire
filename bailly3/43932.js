@@ -1,0 +1,1 @@
+lar[43932]=`<b>ἐφ·εδρήσσω</b> (<i>seul. prés</i>.) :<br><b>      1</b> être assis <i>ou</i> posé sur, s’asseoir <i>ou</i> se poser sur, <i>gén</i>. COL. <i>252 ; dat</i>. NONN. <i>D. 20, 36</i>.<br><b>      2</b> s’asseoir <i>ou</i> se poser auprès de, <i>dat</i>. ANTH. <i>7, 161</i> ; COL. <i>68</i>.<p><b>Étym</b>. ἐφέδρα.`

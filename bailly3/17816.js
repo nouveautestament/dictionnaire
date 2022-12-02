@@ -1,0 +1,1 @@
+lar[17816]=`<b>εως (ἡ)</b> jactance, orgueil, THC. <i>6, 16</i>.<p><b>Étym</b>. αὐχέω.`

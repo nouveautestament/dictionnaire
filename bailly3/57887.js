@@ -1,0 +1,1 @@
+lar[57887]=`<font color="purple">[ῑ]</font> <i>adv</i>., comme un bélier, <i>càd</i>. avec impétuosité, AR. <i>Lys. 309</i>.<p><b>Étym</b>. κριός, -δον.`

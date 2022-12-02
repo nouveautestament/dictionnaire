@@ -1,0 +1,1 @@
+lar[9868]=`<b>ἀντι·δρομέω-ῶ</b>, courir au-devant de, LUC. <i>Astr. 12 dout</i>.<p><b>Étym</b>. ἀ. δρόμος.`

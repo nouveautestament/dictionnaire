@@ -1,0 +1,1 @@
+lar[103979]=`<b>ὑπο·τεκμαίρομαι</b>, conjecturer, supposer, AR. <i>fr. 1</i>.`

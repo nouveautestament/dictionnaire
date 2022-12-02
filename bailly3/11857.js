@@ -1,0 +1,1 @@
+lar[11857]=`<b>ῆς (ἡ)</b> souhait pour conjurer un événement, APSIN. (<i>W. 9, 481).</i><p><b>Étym</b>. ἀπεύχομαι.`

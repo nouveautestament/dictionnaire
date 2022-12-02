@@ -1,0 +1,1 @@
+lar[23281]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> avec des poils abondants : δ. ἔχειν, ARSTT. <i>Physiogn. 6, 39,</i> être velu.<br><b>      2</b> avec l’esprit rude, <i>p. opp. à</i> ψιλῶς, DYSC. <i>Pron. 360d ;</i> SEXT. <i>612, 12</i> ; DH. <i>Comp. p. 84 ; etc</i>.<p><b>Étym</b>. δασύς.`

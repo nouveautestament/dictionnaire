@@ -1,0 +1,1 @@
+lar[57051]=`<b>ατος (τὸ) :<br>      1</b> balayure, AR. <i>fr. 408, etc.</i><br><b>      2</b> balai, AR. <i>Pax 59, etc</i>.<p><b>Étym</b>. κορέω.`

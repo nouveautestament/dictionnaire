@@ -1,0 +1,1 @@
+lar[70153]=`<b>ὁδόω-ῶ</b>, mettre dans le bon chemin, <i>d’où</i> guider, <i>acc</i>. ESCHL. <i>Pr. 812 ; fig</i>. τινα ἔς τι, ESCHL. <i>Pr. 494,</i> qqn dans un art ; τι, EUR. <i>Ion 1050,</i> enseigner qqe ch. ; φρονεῖν βροτούς, ESCHL. <i>Ag. 175,</i> apprendre aux mortels à réfléchir.<br><b><i>Moy.</i></b> se mettre en route, HDT. <i>4, 139</i>.<p><b>Étym</b>. ὁδός.`

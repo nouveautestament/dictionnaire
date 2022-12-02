@@ -1,0 +1,1 @@
+lar[46813]=`<b>θεο·τίμητος, ος, ον</b> <font color="purple">[ῑ]</font> honoré par les dieux, TYRT. <i>2, 5</i> ; ESCHL. <i>Ag. 1337</i>.<p><b>Étym</b>. θ. τιμάω.`

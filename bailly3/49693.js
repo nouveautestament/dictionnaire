@@ -1,0 +1,1 @@
+lar[49693]=`<b>ἰσό·μορος, ος, ον</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> qui a une part égale, IL. <i>15, 209</i> ; NIC. <i>Th. 105</i>.<br><b>      2</b> <i>p. suite,</i> semblable, pareil à, <i>dat</i>. ANTH. <i>6, 206</i>.<p><b>Étym</b>. ἴ. μόρος.`

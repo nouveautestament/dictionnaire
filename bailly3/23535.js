@@ -1,0 +1,1 @@
+lar[23535]=`<i>adv</i>., timidement, d’un air craintif, THCR. <i>Idyl. 30, 15</i>.`

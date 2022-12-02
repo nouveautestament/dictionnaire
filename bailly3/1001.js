@@ -1,0 +1,1 @@
+lar[1001]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> protecteur des rues (Apollon) ESCHL. <i>Ag. 1081 (voc</i>. -ᾶτα).<p><b>Étym</b>. ἀγυιά.`

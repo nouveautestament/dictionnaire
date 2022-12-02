@@ -1,0 +1,1 @@
+lar[38303]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> qui oublie, oublieux, AR. <i>Nub. 129, etc.</i> ; PLAT. <i>Rsp. 486d ;</i> τινός, XÉN. <i>Ap. 6,</i> de qqe ch.<br><b>      2</b> qui fait oublier, <i>gén</i>. CHION <i>Epist. 3</i>.<p>•<i> Cp</i>. -ονέστερος, XÉN. <i>l. c. ; Mem. 4, 8, 8</i>.<p><b>Étym</b>. ἐπιλήθω.`

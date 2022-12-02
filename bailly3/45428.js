@@ -1,0 +1,1 @@
+lar[45428]=`<b>ἡμί·εργος, ος, ον</b>, à moitié travaillé, à moitié fait, HDT. <i>4, 124</i> ; THC. <i>7, 2</i> ; ARSTT. <i>Œc. 2, 2 ; p. opp. à</i> ἐξειργασμένα, JOS. <i>A.J. 14, 16, 2</i>.<p><b>Étym</b>. ἡμι-, ἔργον.`

@@ -1,0 +1,1 @@
+lar[33376]=`<b>ἐμ·πειράζω</b>, faire l’essai de, éprouver, <i>gén</i>. POL. <i>15, 35, 5</i>.<p><b>Étym</b>. ἐν, π.`

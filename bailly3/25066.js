@@ -1,0 +1,1 @@
+lar[25066]=`<b>δί·αμμος, ος, ον</b>, rempli de sable, tout à fait sablonneux, POL. <i>34, 10, 3</i>.<p><b>Étym</b>. διά, ἄμμος.`

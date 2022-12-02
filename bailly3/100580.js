@@ -1,0 +1,1 @@
+lar[100580]=`<b>τρι·φαής, ής, ές</b> <font color="purple">[ῐ]</font> qui brille d’un triple éclat, SYN. <i>Hymn. 2, 26</i>.<p><b>Étym</b>. τρ. φάος.`

@@ -1,0 +1,1 @@
+lar[55204]=`<b>ου (ἡ)</b> <i>autre n. de la plante</i> λεοντοπόδιον, ORPH. <i>Arg. 923</i> ; DIOSC. <i>4, 131</i>.`

@@ -1,0 +1,1 @@
+lar[57280]=`<b>κοσμοπλαστέω-ῶ</b>, créer, <i>litt</i>. façonner le monde, PHIL. <i>1, 437</i>.<p><b>Étym</b>. κοσμοπλάστης.`

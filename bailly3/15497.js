@@ -1,0 +1,1 @@
+lar[15497]=`<b>ἀρχαιο·πινής, ής, ές</b> <font color="purple">[ῐ]</font> qui a une patine <i>ou</i> un vernis d’antiquité, DH. <i>Dem. 38</i>.<p><b>Étym</b>. ἀ. πίνος.`

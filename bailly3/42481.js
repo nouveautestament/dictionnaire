@@ -1,0 +1,1 @@
+lar[42481]=`<b>εὔ·κοπος, ος, ον</b>, facile à travailler, facile, POL. <i>18, 1, 2</i> ; SPT. <i>1Macc. 3, 18</i> ; NT. <i>Matth. 9, 5, etc</i>.<p>•<i> Cp</i>. -ώτερος, NT. <i>l. c</i>.<p><b>Étym</b>. εὖ, κόπτω.`

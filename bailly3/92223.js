@@ -1,0 +1,1 @@
+lar[92223]=`<b>σταφυλο·καύστης, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> instrument pour brûler les ulcères de la luette, P. ÉG. <i>6, 31</i>.<p><b>Étym</b>. στ. καίω.`

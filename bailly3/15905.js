@@ -1,0 +1,1 @@
+lar[15905]=`<b>ἀ·σκελής, ής, ές :<br>      1</b> desséché, <i>d’où</i> épuisé, OD. <i>10, 464 (nom. pl</i>. -έες).<br><b>      2</b> dur, <i>d’où</i> obstiné, opiniâtre ; <i>adv</i>., ἀσκελὲς αἰεί, OD. <i>1, 68,</i> opiniâtrement, sans cesser.<p><b>Étym</b>. ἀ <i>cop</i>. σκέλλω.`

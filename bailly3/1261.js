@@ -1,0 +1,1 @@
+lar[1261]=`<b>ου (ὁ)</b> Adeuès, <i>h</i>. ESCHL. <i>Pers. 312</i>.`

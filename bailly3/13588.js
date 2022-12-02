@@ -1,0 +1,1 @@
+lar[13588]=`<b>ατος (τὸ)</b> échec, insuccès, ARSTT. <i>Virt. et vit. 7, 5</i> ; CIC. <i>Att. 13, 27</i> ; DS. <i>1, 1</i> ; STR. <i>821, etc</i>.<p><b>Étym</b>. ἀποτυγχάνω.`

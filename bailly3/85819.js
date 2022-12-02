@@ -1,0 +1,1 @@
+lar[85819]=`<b>πρόσ·ηβος, ος, ον</b>, adolescent, XÉN. <i>Cyr. 1, 4, 4</i> ; DH. <i>2, 71, etc. ; en parl. d’une jeune fille,</i> presque nubile, CLÉARQ. (ATH. <i>548b</i>).<p><b>Étym</b>. π. ἥβη.`

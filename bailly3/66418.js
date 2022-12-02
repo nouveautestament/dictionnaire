@@ -1,0 +1,1 @@
+lar[66418]=`<b>μολυβδό·χαλκος, ου</b>, <i>adj. m</i>. mêlé de plomb et de cuivre, SYN. (<i>Fabricii Bibliotheca græca t. 8, p. 245).</i><p><b>Étym</b>. μ. χαλκός.`

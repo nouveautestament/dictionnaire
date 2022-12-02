@@ -1,0 +1,1 @@
+lar[53319]=`<b>κατ·ασθμαίνω</b>, renâcler contre, <i>en parl. d’un cheval, d’où</i> s’irriter contre, <i>gén</i>. ESCHL. <i>Sept. 393</i>.`

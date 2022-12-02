@@ -1,0 +1,1 @@
+lar[43126]=`<b>ας (ἡ)</b> bon visage, aspect agréable, DH. <i>3, 11</i>.<p><b>Étym</b>. εὐπρόσωπος.`

@@ -1,0 +1,1 @@
+lar[6744]=`<b>ἀν·αερτάζω</b> <font color="darkgreen">(<i>impf</i>. ἀνηέρταζον)</font> exhausser, NONN. <i>Jo. 12, 6</i>.`

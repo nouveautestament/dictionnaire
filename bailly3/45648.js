@@ -1,0 +1,1 @@
+lar[45648]=`<b>ής, ές</b>, qui se continue, étendu, continu, NIC. <i>Al. 605 ; neutre adv</i>. ἠνεκές, d’une façon continue, ARAT. <i>445 ; avec idée de temps,</i> CALL. <i>fr. 138</i>.<p><b>Étym</b>. <i>cf</i>. ἠνεκέως, ἤνεγκον.`

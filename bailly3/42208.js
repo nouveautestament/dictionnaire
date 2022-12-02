@@ -1,0 +1,1 @@
+lar[42208]=`<b>εὔ·θλαστος, ος, ον</b>, facile à froisser, à briser, ARSTT. <i>Meteor. 4, 9, 12</i> ; GEOP. <i>9, 17, 3</i>.<p><b>Étym</b>. εὖ, θλάω.`

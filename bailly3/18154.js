@@ -1,0 +1,1 @@
+lar[18154]=`<i>adv</i>., soudain, tout à coup, ESCHL. <i>fr. 195</i> ; EUR. <i>Med. 1205</i> ; ALC. <i>420, etc. ; en prose,</i> THC. <i>4, 104</i> ; DÉM. <i>527, 16</i>.<p><b>Étym</b>. <i>cf</i>. αἴφνης <i>et</i> ἄφνως.`

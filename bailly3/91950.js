@@ -1,0 +1,1 @@
+lar[91950]=`<b>έως (ὁ)</b> pêcheur d’éponges, ARSTT. <i>H.A. 9, 37, 6, etc</i>.<p><b>Étym</b>. σπόγγος.`

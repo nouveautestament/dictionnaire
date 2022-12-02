@@ -1,0 +1,1 @@
+lar[17057]=`<b>υος</b>, <i>acc</i>. <b>υν (ὁ)</b> <font color="purple">[ᾰ]</font> Atys :<br><b>      1</b> <i>roi myth. de Lydie,</i> HDT. DH. <i>etc.</i><br><b>      2</b> <i>fils de Crésus,</i> HDT.<br><b>      3</b> <i>c</i>. Ἄττης, ANTH. <i>6, 220</i>.`

@@ -1,0 +1,1 @@
+lar[98351]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> habileté de charlatan, jonglerie, PLUT. <i>M. 17b.</i><br><b>      2</b> amour du merveilleux, LUC. <i>Ic. 6</i>.<p><b>Étym</b>. τερατουργός.`

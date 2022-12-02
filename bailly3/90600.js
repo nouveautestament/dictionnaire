@@ -1,0 +1,1 @@
+lar[90600]=`<b>(ὁ)</b> = <i>lat</i>. Scævŏla, <i>n. d’h. rom</i>. PLUT. <i>T. Gracch. 9</i>.`

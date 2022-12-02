@@ -1,0 +1,1 @@
+lar[33562]=`<b>ἐμ·πονέω-ῶ</b>, travailler dans, <i>dat</i>. ALCIPHR. <i>3, 25</i>.<p><b>Étym</b>. ἐν, π.`

@@ -1,0 +1,1 @@
+lar[75432]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> propre à exciter, à encourager, DH. <i>Comp. 22</i>.<p><b>Étym</b>. παράγγελμα.`

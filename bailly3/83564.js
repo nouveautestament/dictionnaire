@@ -1,0 +1,1 @@
+lar[83564]=`<b>προ·αναπαύομαι</b>, se reposer, <i>càd</i>. mourir auparavant, BAS.<p><b>Étym</b>. π. ἀναπαύω.`

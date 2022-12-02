@@ -1,0 +1,1 @@
+lar[1575]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἡδυμιγής.`

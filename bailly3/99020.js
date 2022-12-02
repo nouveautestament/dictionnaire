@@ -1,0 +1,1 @@
+lar[99020]=`<b>έως (ὁ)</b> Tèrée, <i>fils d’Arès, roi des Thraces,</i> ANTH. NONN. THC. <i>2, 29, etc</i>.<p>➳ <i>Gén. poét</i>. -έος, ANTH. <i>9, 70 ; épq</i>. -ῆος, NONN. <i>D. 47, 33 ; dat. épq</i>. -ῆϊ, NONN. <i>D. 44, 269</i>.`

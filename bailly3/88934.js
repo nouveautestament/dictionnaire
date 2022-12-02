@@ -1,0 +1,1 @@
+lar[88934]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font> front ridé, PLUT. <i>Galb. 13, M. 611c, 1059a</i>.<p><b>Étym</b>. ῥυσός.`

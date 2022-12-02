@@ -1,0 +1,1 @@
+lar[94229]=`<b>συμ·πέτομαι</b>, voler ensemble <i>ou</i> avec, LUC. <i>Musc. enc. 6</i> ; EL. <i>N.A. 2, 48</i>.`

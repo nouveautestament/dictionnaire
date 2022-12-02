@@ -1,0 +1,1 @@
+lar[99799]=`<i>adv. dor</i>. ici, THCR. <i>Idyl. 5, 33, 45, 103</i>.`

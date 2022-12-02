@@ -1,0 +1,1 @@
+lar[101130]=`<b>Τυρο·γλύφος, ου (ὁ)</b> <font color="purple">[ῡῠ]</font> <i>litt</i>. « Troue-fromage, » <i>n. de rat,</i> BATR. <i>137</i>.<p><b>Étym</b>. τυρός, γλύφω.`

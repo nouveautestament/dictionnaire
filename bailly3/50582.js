@@ -1,0 +1,1 @@
+lar[50582]=`<i>adv</i>., d’une manière nouvelle, de nouvelle sorte, PLAT. <i>Phædr. 267b, etc</i>.<p>•<i> Cp</i>. καινοτέρως, ARSTT. <i>Cæl. 4, 2, 6 ; • Sup</i>. καινότατα, ANT. <i>119, 25</i>.<p><b>Étym</b>. καινός.`

@@ -1,0 +1,1 @@
+lar[20596]=`<b>ου (τὸ) :<br>      1</b> nageoire, EL. <i>N.A. 16, 12</i>.<br><b>      2</b> <i>au plur</i>. branchies, ouïes des poissons, ARSTT. <i>H.A. 8, 2, 8, etc.</i> ; THCR. <i>Idyl. 11, 54 (vulg. ; ms</i>. βραγχία).<br><b>      3</b> <i>au plur</i>. bronches, conduit des poumons, ARSTT. <i>H.A. 8, 21, 1, dout. p</i>. βρόγχια.<p><b>Étym</b>. βράγχος².`

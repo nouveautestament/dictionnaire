@@ -1,0 +1,1 @@
+lar[64977]=`<b>μετα·στοιχί</b> <font color="purple">[ῑ]</font> <i>adv</i>., à côté les uns des autres, en ligne, IL. <i>23, 358, 754</i>.<p><b>Étym</b>. μ. στοῖχος.`

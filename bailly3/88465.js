@@ -1,0 +1,1 @@
+lar[88465]=`<b>Ῥηξ·ήνωρ, ορος (ἡ)</b> Rhèxènor, <i>frère d’Alkinoos,</i> OD. <i>7, 63</i>.<p><b>Étym</b>. <i>v</i>. ῥηξήνωρ.`

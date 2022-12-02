@@ -1,0 +1,1 @@
+lar[105618]=`<b>ονος (ὁ)</b> <font color="purple">[ῐ]</font> Philèmôn (Philémon) :<br><b>      1</b> <i>poète de la nouvelle comédie</i>.<br><b>      2</b> <i>autres,</i> THC. <i>2, 67</i> ; AR. <i>Av. 763</i> ; PLAT. <i>Theag. 129b, etc</i>.<p><b>Étym</b>. φιλέω.`

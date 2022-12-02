@@ -1,0 +1,1 @@
+lar[88624]=`<b>ου (τὸ)</b> <font color="purple">[ῑ ῐδ]</font><br><b>      1</b> petit soufflet, HDN GR. <i>Epim. p. 118 Boissonade</i>.<br><b>      2</b> petit éventail, MOSCHION <i>Mul. pass. 136</i>.<p><b>Étym</b>. <i>dim. de</i> ῥιπίς.`

@@ -1,0 +1,1 @@
+lar[9989]=`<b>Ἀντι·κράτης, ους (ὁ)</b> Antikratès, <i>h</i>. DIOSC. (PLUT. <i>Ages. 35</i>) ; ANTH. <i>11, 318</i>.<p><b>Étym</b>. ἀ. κράτος.`

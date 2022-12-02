@@ -1,0 +1,1 @@
+lar[17131]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱδ]</font> présomption, arrogance, CHRYS. <i>2, 110</i>.<p><b>Étym</b>. αὐθαδιάζομαι.`

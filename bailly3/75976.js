@@ -1,0 +1,1 @@
+lar[75976]=`<b>παρα·νευρίζομαι</b> <font color="darkgreen">(<i>part. pf</i>. παρανενευρισμένος)</font> être détendu, <i>en parl. d’une corde d’instrument,</i> ARSTT. <i>H.A. 7, 1, 4</i>.`

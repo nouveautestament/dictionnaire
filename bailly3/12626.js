@@ -1,0 +1,1 @@
+lar[12626]=`<b>ἀπο·κολοκύντωσις, εως (ἡ)</b> métamorphose en citrouille, <i>titre grec d’une satire latine de Sénèque sur la mort de l’empereur Claude,</i> DC. <i>60, 35</i>.<p><b>Étym</b>. ἀπό, κολοκύντη.`

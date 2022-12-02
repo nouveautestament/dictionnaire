@@ -1,0 +1,1 @@
+lar[72893]=`<b>εως (ἡ)</b> <font color="purple">[μῐ]</font> action de jeter l’ancre, d’aller au mouillage, EL. (SUID. <i>v°</i> ὅρμον).<p><b>Étym</b>. ὁρμίζω.`

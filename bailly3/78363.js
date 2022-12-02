@@ -1,0 +1,1 @@
+lar[78363]=`<b>περι·ακολουθέω-ῶ</b> <font color="purple">[ᾰ]</font> suivre tout autour, escorter, <i>dat</i>. POLÉM. <i>Physiogn. p. 208, etc</i>.`

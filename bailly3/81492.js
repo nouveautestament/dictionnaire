@@ -1,0 +1,1 @@
+lar[81492]=`<b>ου (ὁ) :<br>      1</b> toison non encore travaillée, IL. <i>12, 451</i> ; EUR. <i>El. 513</i> ; THCR. <i>Idyl. 15, 20, etc.</i><br><b>      2</b> flocon de laine, SOPH. <i>Tr. 675</i> ; TH. <i>fr. 6, 1, 13, etc</i>.<p>➳ <i>Acc. pl. dor</i>. πόκως, THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. πέκω.`

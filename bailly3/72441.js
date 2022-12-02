@@ -1,0 +1,1 @@
+lar[72441]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> rôti, grillé, IL. <i>4, 345</i> ; OD. <i>12, 396 ; 16, 50</i> ; MATR. (ATH. <i>135f</i>) <i>etc</i>.<p><b>Étym</b>. ὀπτός¹.`

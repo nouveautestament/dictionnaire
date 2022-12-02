@@ -1,0 +1,1 @@
+lar[48603]=`<b>ἱερο·μανία, ας (ἡ)</b> <font color="purple">[ᾰν]</font> délire sacré, CLÉM. <i>11</i>.<p><b>Étym</b>. ἱ. μανία.`

@@ -1,0 +1,1 @@
+lar[58680]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de jouer des cymbales, ALCIPHR. <i>3, 66</i>.<p><b>Étym</b>. κυμβαλίζω.`

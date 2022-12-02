@@ -1,0 +1,1 @@
+lar[91844]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> σπέρμα, TH. <i>H.P. 9, 20, 1</i> ; DIOSC. <i>2, 211</i> ; M. ANT. <i>12, 26</i>.`

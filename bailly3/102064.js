@@ -1,0 +1,1 @@
+lar[102064]=`<b>ὑπ·άφωνος, ος, ον</b> <font color="purple">[ῠᾰ]</font> presque muet, HPC. <i>Prorrh. 76, Coac. 169</i>.`

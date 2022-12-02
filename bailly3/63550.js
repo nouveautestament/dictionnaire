@@ -1,0 +1,1 @@
+lar[63550]=`<b>ης (ἡ)</b> Méduse, <i>l’une des Gorgones,</i> HÉS. <i>Th. 276</i>.<p>➳ <i>Dor</i>. Μέδοισα, PD. <i>P. 12, 28 ; N. 10, 7</i>.<p><b>Étym</b>. <i>part. prés. fém. de</i> μέδω.`

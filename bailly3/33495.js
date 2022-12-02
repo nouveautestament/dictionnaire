@@ -1,0 +1,1 @@
+lar[33495]=`<b>ή, όν :<br>      1</b> facile à effrayer, PLUT. <i>Syll. 34</i>.<br><b>      2</b> stupide, PLUT. <i>M. 748d</i>.<p>•<i> Sup</i>. -ώτατος, PLUT. <i>Syll. 34</i>.<p><b>Étym</b>. ἔμπληκτος.`

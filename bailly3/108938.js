@@ -1,0 +1,1 @@
+lar[108938]=`(<i>seul. prés. et impf</i>.) rendre un oracle, ESCHL. <i>Ch. 336, 802</i> ; SOPH. <i>O.C. 1426</i> ; EUR. <i>Hel. 516</i>.<p><b>Étym</b>. χράω.`

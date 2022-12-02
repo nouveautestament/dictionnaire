@@ -1,0 +1,1 @@
+lar[16145]=`<b>ἄ·σταχυς, υος (ὁ)</b> <font color="purple">[τᾰῠ]</font> épi de blé, IL. <i>2, 148</i> ; HDT. <i>5, 92 ; fig</i>. βοστρύχων ἀ. PHILSTR. <i>1, 7,</i> boucles ondoyantes comme des épis.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ἀ <i>proth</i>. στάχυς.`

@@ -1,0 +1,1 @@
+lar[60396]=`<b>ίτιδος</b> <font color="purple">[ῑτῐδ]</font> <i>adj. f</i>. λ. κριθή, GEOP. <i>3, 3, 12,</i> orge très légère.<p><b>Étym</b>. λεπτός.`

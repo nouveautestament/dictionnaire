@@ -1,0 +1,1 @@
+lar[23061]=`<b>ου (τὸ)</b> <font color="purple">[ῠῑδ]</font> petit doigt (du pied), AR. <i>Lys. 417</i>.<p><b>Étym</b>. <i>dim. de</i> δάκτυλος.`

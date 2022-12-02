@@ -1,0 +1,1 @@
+lar[65980]=`<font color="purple">[μῑ]</font> <i>adv</i>., avec un esprit haineux, BAS. <i>1, 385 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[23663]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> dix fois, IL. <i>9, 379 ; 22, 349</i> ; XÉN. <i>Cyr. 5, 5, 9</i> ; DÉM. <i>99, 5, etc.</i><br><b>      2</b> dix fois autant, ANTH. <i>5, 118</i>.<p><b>Étym</b>. δέκα, -κις.`

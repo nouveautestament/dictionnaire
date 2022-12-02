@@ -1,0 +1,1 @@
+lar[77533]=`<b>ος, ον</b>, de plaine, DIOSC. <i>1, 77</i> ; BAS. <i>3, 253 Migne</i>.<p><b>Étym</b>. πεδίον.`

@@ -1,0 +1,1 @@
+lar[25638]=`<b>δια·στροβέω-ῶ</b> (<i>seul. prés. 3 sg</i>. -εῖ) s’élancer impétueusement à travers, <i>acc</i>. POÈT. (PLUT. <i>Luc. 1, M. 554f</i>) ; ALCIPHR. <i>3, 9</i>.`

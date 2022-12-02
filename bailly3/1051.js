@@ -1,0 +1,1 @@
+lar[1051]=`<b>ἀγχί·κρημνος, ος, ον</b>, proche d’un rivage escarpé, PD. <i>fr. 50</i>.<p><b>Étym</b>. ἄ. κρημνός.`

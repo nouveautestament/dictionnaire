@@ -1,0 +1,1 @@
+lar[65759]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> petitesse <i>ou</i> subtilité d’esprit, PLUT. <i>M. 35a</i>.<p><b>Étym</b>. μικρόφρων.`

@@ -1,0 +1,1 @@
+lar[66072]=`<b>μισο·ρώμαιος, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui hait les Romains, PLUT. <i>Ant. 54</i>.<p><b>Étym</b>. μ. Ῥωμαῖος.`

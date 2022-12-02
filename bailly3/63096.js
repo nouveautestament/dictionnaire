@@ -1,0 +1,1 @@
+lar[63096]=`<b>α, ον</b> <font color="purple">[ῑ]</font> qui mérite le fouet, AR. <i>Ran. 633</i>.<p><b>Étym</b>. <i>vb. de</i> μαστιγόω.`

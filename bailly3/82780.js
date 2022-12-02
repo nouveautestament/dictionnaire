@@ -1,0 +1,1 @@
+lar[82780]=`<b>ή, όν</b>, qui concerne le passage d’un fleuve <i>ou</i> la profession de batelier, ARSTT. <i>Pol. 4, 4, 21</i>.<p><b>Étym</b>. πορθμεύω.`

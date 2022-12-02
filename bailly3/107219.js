@@ -1,0 +1,1 @@
+lar[107219]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qu’on peut mêler <i>ou</i> délayer, NIC. <i>Al. 324</i>.<p><b>Étym</b>. φύρω.`

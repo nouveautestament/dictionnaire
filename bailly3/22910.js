@@ -1,0 +1,1 @@
+lar[22910]=`<b>η, ον</b>, de pin résineux, GAL. <i>13, 971b ;</i> AÉT. <i>3, 141</i>.<p><b>Étym</b>. δᾴς.`

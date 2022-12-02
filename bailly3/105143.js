@@ -1,0 +1,1 @@
+lar[105143]=`<b>η, ον</b>, de Ferentinum, <i>v. des Herniques</i> : ἡ Φερεντίνη πύλη, PLUT. <i>Rom. 24,</i> la porte de Ferentinum, <i>à Rome</i>.<p><b>Étym</b>. Φερεντῖνον.`

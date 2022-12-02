@@ -1,0 +1,1 @@
+lar[22691]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> forme crochue (des ongles, des griffes, <i>etc</i>.) C. AUR.<p><b>Étym</b>. γρυπόω.`

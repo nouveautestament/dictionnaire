@@ -1,0 +1,1 @@
+lar[81493]=`<b>ποκόω-ῶ</b>, revêtir d’un léger duvet, ANTH. <i>6, 102</i>.<p><b>Étym</b>. πόκος.`

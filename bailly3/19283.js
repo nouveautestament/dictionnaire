@@ -1,0 +1,1 @@
+lar[19283]=`<b>ης (ἡ)</b> <font color="purple">[ᾰσῐ]</font> Basilissa, <i>f</i>. ANTH. <i>8, 150, 154</i>.<p><b>Étym</b>. βασίλισσα.`

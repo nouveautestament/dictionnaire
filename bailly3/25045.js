@@ -1,0 +1,1 @@
+lar[25045]=`<b>δια·μήδομαι</b> <font color="darkgreen">(<i>seul. ao. 3 sg</i>. διεμήσατο)</font> avoir grand soin de, <i>acc</i>. HOM. <i>Ep. 4, 12, dout</i>.`

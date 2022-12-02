@@ -1,0 +1,1 @@
+lar[72890]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> sauge, <i>plante parfumée,</i> TH. <i>H.P. 8, 1, 4, etc.</i> ; DIOSC. <i>3, 145</i>.`

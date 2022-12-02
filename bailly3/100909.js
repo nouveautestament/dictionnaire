@@ -1,0 +1,1 @@
+lar[100909]=`<b>ῶν (αἱ)</b> les Troyennes, IL. <i>3, 384, etc</i>.<p><b>Étym</b>. <i>cf</i>. Τρῶες.`

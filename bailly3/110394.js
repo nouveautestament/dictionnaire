@@ -1,0 +1,1 @@
+lar[110394]=`<font color="purple">[ιᾱ]</font> <i>dor. c</i>. οὐρανίᾳ, ALCM. <i>59</i>.`

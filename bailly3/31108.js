@@ -1,0 +1,1 @@
+lar[31108]=`<b>άδος</b>, <i>adj. f.</i> :<br><b>      1</b> qui rejette, qui a avorté, HIPPARCH. POET. <i>et</i> SOPATR. (ATH. <i>101a</i>).<br><b>      2</b> <i>pass</i>. rejetée, <i>d’où subst</i>. scorie, STR. <i>399</i>.<p><b>Étym</b>. ἐκβάλλω.`

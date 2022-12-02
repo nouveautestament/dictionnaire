@@ -1,0 +1,1 @@
+lar[44072]=`<b>ἐφ·ιδρύω</b> <font color="purple">[ῐ]</font> asseoir sur, établir sur, <i>dat</i>. PHIL. <i>1, 21</i> ; P. SIL. <i>Ecphr. amb. 158</i>.<p><b>Étym</b>. ἐπί, ἱ.`

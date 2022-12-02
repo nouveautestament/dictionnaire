@@ -1,0 +1,1 @@
+lar[19487]=`<b>βελεη·φόρος, ος, ον</b>, qui porte un trait <i>ou</i> des traits, ANTH. <i>14, 111</i>.<p><b>Étym</b>. βέλος, φέρω.`

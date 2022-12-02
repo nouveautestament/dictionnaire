@@ -1,0 +1,1 @@
+lar[50485]=`<b>καθ·υπερέχω</b> <font color="purple">[ᾰῠ]</font> l’emporter : τινί, POL. <i>2, 25, 9,</i> en qqe ch. ; τινός, EURYPHAM. (STOB. <i>555, 41</i>) sur qqn ; <i>rar. avec l’acc</i>. THÉANO <i>Epist. 8</i>.`

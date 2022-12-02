@@ -1,0 +1,1 @@
+lar[16439]=`<i>adv</i>., sans raisonner <i>ou</i> sans pouvoir raisonner, ARSTT. <i>An. post. 1, 12, 7</i> ; ἀ. ἔχειν τινος, PLUT. <i>Cæs. 59,</i> ne pouvoir raisonner sur qqe ch.`

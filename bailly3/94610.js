@@ -1,0 +1,1 @@
+lar[94610]=`<b>συν·αιχμάζω</b>, aider de sa lance, combattre avec, ANTH. <i>15, 50</i> ; NONN. <i>D. 2, 201 ; 29, 32</i>.`

@@ -1,0 +1,1 @@
+lar[44581]=`<b>εως (ἡ)</b> gingembre, DIOSC. <i>2, 190</i> ; GAL. <i>13, 175</i>.<p><b>Étym</b>. <i>emprunt à l’indien</i>.`

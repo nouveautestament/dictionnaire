@@ -1,0 +1,1 @@
+lar[79654]=`<b>περι·χαίνω</b> <font color="darkgreen">(<i>f</i>. -χανοῦμαι, <i>pf</i>. -κέχηνα, <i>au sens d’un prés</i>.)</font> ouvrir la bouche toute grande autour de, <i>d’où</i> avaler gloutonnement, <i>acc</i>. ARSTT. <i>H.A. 8, 24, 6</i> ; EL. <i>N.A. 4, 33</i> ; LUC. <i>M. cond. 3</i>.`

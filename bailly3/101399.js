@@ -1,0 +1,1 @@
+lar[101399]=`<b>ὑγρο·κοίλιος, ος, ον</b>, malade d’un flux de ventre, ARSTT. <i>H.A. 9, 50, 12</i>.<p><b>Étym</b>. ὑ. κοιλία.`

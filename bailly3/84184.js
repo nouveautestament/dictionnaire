@@ -1,0 +1,1 @@
+lar[84184]=`<b>προ·εξανάγομαι</b> <font color="purple">[ᾰᾰ]</font> gagner la haute mer le premier <i>ou</i> auparavant, DH. <i>Thuc. 26, 3</i>.`

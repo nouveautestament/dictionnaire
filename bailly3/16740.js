@@ -1,0 +1,1 @@
+lar[16740]=`<b>ου</b>, <i>adj. m</i>. d’Atella, APP.<p><b>Étym</b>. Ἀτέλλα.`

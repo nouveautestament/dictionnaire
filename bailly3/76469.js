@@ -1,0 +1,1 @@
+lar[76469]=`<b>παρα·χορηγέω-ῶ</b>, ajouter de son argent comme chorège pour subvenir aux frais des fêtes publiques, ATH. <i>140e</i>.`

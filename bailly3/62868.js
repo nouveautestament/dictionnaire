@@ -1,0 +1,1 @@
+lar[62868]=`<b>ου (ὁ)</b> Maragdos, <i>n. d’h. arabe,</i> XÉN. <i>Cyr. 2, 1, 5</i>.`

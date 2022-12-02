@@ -1,0 +1,1 @@
+lar[58664]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> cimaise, SPT. <i>Ex. 25, 11, etc</i>.<p><b>Étym</b>. <i>dim. de</i> κῦμα.`

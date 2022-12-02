@@ -1,0 +1,1 @@
+lar[90753]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. qui abrite, qui sert d’abri, OPP. <i>H. 3, 636</i>.<br><b>      2</b> <i>pass</i>. abrité, couvert, ANTH. <i>7, 699</i>.<p><b>Étym</b>. σκέπη.`

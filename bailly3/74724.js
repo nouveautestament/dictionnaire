@@ -1,0 +1,1 @@
+lar[74724]=`<b>πάμ·μορφος, ος, ον</b>, qui a <i>ou</i> qui prend toutes les formes, THEOL. <i>7</i>.<p><b>Étym</b>. π. μορφή.`

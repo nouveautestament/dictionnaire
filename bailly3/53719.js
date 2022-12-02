@@ -1,0 +1,1 @@
+lar[53719]=`<b>κατα·χειρίζομαι :<br>      1</b> prendre en mains, entreprendre, PTOL. <i>Tetr. p. 206, 13</i>.<br><b>      2</b> faire périr, DC. <i>77, 6</i>.`

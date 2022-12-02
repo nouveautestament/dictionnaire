@@ -1,0 +1,1 @@
+lar[48412]=`<b>ας (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> entretien particulier, CHARIT. <i>4, 6</i>.<br><b>      2</b> recherche <i>ou</i> discussion particulière, EPIC. (DL. <i>10, 86).</i><p><b>Étym</b>. ἰδιόλογος.`

@@ -1,0 +1,1 @@
+lar[18400]=`<b>ου (ὁ)</b> <font color="purple">[ᾰχῑ]</font> d’Acharnes, ANTH. <i>7, 21</i>.`

@@ -1,0 +1,1 @@
+lar[54396]=`<b>καχ·ύποπτος, ος, ον</b>, soupçonneux, défiant, AR. (POLL. <i>2, 57</i>) ; PLAT. <i>Rsp. 409c ;</i> ARSTT. <i>Rhet. 2, 13</i>.<p><b>Étym</b>. κακός, ὕποπτος.`

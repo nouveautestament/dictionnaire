@@ -1,0 +1,1 @@
+lar[22597]=`<i>adv</i>., au moyen de lignes <i>ou</i> de figures géométriques, SEXT. <i>M. 3, 92</i> ; PTOL. <i>Math. synt. 1, p. 25</i> ; PROCL. <i>etc</i>.`

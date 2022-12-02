@@ -1,0 +1,1 @@
+lar[100898]=`<b>αντος</b> (<i>genre inconnu</i>) <font color="purple">[ῡ]</font> Trykhante, <i>v. d’Eubée,</i> LYC. <i>374</i>.`

@@ -1,0 +1,1 @@
+lar[43440]=`<b>*εὔ·σμηνος</b>, <i>épq</i>. <b>ἐΰ·σμηνος, ος, ον</b>, qui forme de beaux essaims, NONN. <i>D. 7, 332</i>.<p><b>Étym</b>. εὖ, σμῆνος.`

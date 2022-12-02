@@ -1,0 +1,1 @@
+lar[58690]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Kymè :<br><b>      1</b> <i>v. d’Éolide (auj</i>. près de Çaltılıdere) HOM. <i>Ep. 1, 2 ; 4, 16</i> ; HÉS. <i>O. 636</i>.<br><b>      2</b> <i>v. de Campanie,</i> PD. <i>P. 1, 34, 141</i>.<br><b>      3</b> <i>v. de Chalcidique,</i> THC. <i>3, 31</i>.<p>➳ <i>Dor</i>. Κύμα, PD. <i>ll. cc</i>.`

@@ -1,0 +1,1 @@
+lar[107049]=`<b>*φυζάω-ῶ</b> (<i>seul. part. ao. pass</i>. φυζηθέντες) mettre en fuite, NIC. <i>Th. 825</i>.<p><b>Étym</b>. φύζα.`

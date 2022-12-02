@@ -1,0 +1,1 @@
+lar[79189]=`<b>ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> plié <i>ou</i> roulé autour, SOPH. <i>Aj. 915</i>.<br><b>      2</b> percé de, <i>dat</i>. SOPH. <i>Aj. 899</i>.<p><b>Étym</b>. περιπτύσσω.`

@@ -1,0 +1,1 @@
+lar[38258]=`<b>εως (ἡ)</b> action de briller sur, lumière éclatante, PHIL. <i>1, 24, 26, 158 ; 2, 330, etc</i>.<p><b>Étym</b>. ἐπιλάμπω.`

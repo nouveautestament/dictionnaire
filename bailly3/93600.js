@@ -1,0 +1,1 @@
+lar[93600]=`<b>συγ·χειρίζω</b>, manier <i>ou</i> administrer avec, <i>rég. ind. au dat</i>. POL. <i>6, 2, 14</i>.`

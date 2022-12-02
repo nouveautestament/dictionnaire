@@ -1,0 +1,1 @@
+lar[48753]=`<b>ἰθυ·πόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui se dirige en droite ligne, ANTH. <i>6, 64, 68</i> ; NONN. <i>Jo. 12, 140</i>.<p><b>Étym</b>. ἰ. πορεύω.`

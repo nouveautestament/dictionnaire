@@ -1,0 +1,1 @@
+lar[23000]=`<b>ου (ὁ)</b> Dæsios :<br><b>      1</b> <i>mois macéd</i>. = <i>att</i>. Θαργηλιών, PLUT. <i>Alex. 16 (cf. Cam. 19</i>).<br><b>      2</b> <i>mois sicyon</i>. = <i>att</i>. Ἀνθεστηριών, PLUT. <i>Arat. 53</i>.`

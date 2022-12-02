@@ -1,0 +1,1 @@
+lar[65983]=`<b>ας (ἡ)</b> juste rétribution, salaire dû, NT. <i>Hebr. 2, 2 ; 10, 35</i>.<p><b>Étym</b>. μισθαποδότης.`

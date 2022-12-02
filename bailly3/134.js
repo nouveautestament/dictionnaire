@@ -1,0 +1,1 @@
+lar[134]=`<i>adv</i>., sans secours possible, DIOSC. <i>Th. 12</i>.`

@@ -1,0 +1,1 @@
+lar[16007]=`<b>οῦ (ὁ)</b> <font color="purple">[πᾰ]</font> <i>c</i>. ἀσπαλιεύς PLAT. <i>Soph. 218e</i>.<p><b>Étym</b>. ἀσπαλιεύω.`

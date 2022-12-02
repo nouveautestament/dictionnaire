@@ -1,0 +1,1 @@
+lar[58686]=`<b>ης (ἡ) :<br>   I</b> <i>litt</i>. objet creux, <i>particul.</i> :<br><b>      1</b> vase, tasse, coupe, NIC. <i>Al. 164</i> ; ATH. <i>483a.</i><br><b>      2</b> petite barque, SOPH. <i>fr. 129</i>.<br><b>   II</b> sorte d’oiseau, EMPÉD. <i>226 Sturz</i>.<p><b>Étym</b>. <i>cf</i>. κύμβος.`

@@ -1,0 +1,1 @@
+lar[87560]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> temple d’Apollon à Pythô <i>ou</i> Delphes, THC. <i>2, 15</i> ; STR. <i>404 ; ou dans d’autres lieux,</i> PAUS. <i>9, 35, 7, etc</i>.<p><b>Étym</b>. Πυθώ.`

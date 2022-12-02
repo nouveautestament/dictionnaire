@@ -1,0 +1,1 @@
+lar[69152]=`<b>νυκτι·πόλος, ος, ον</b> <font color="purple">[ῐ]</font> qui se tourne, s’agite <i>ou</i> évolue pendant la nuit, EUR. <i>Ion 718, 1049</i> ; A.RH. <i>3, 862</i> ; LUC. <i>Per. 29</i>.<p><b>Étym</b>. ν. πολέω.`

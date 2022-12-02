@@ -1,0 +1,1 @@
+lar[75505]=`<b>ος, ον</b>, qu’on admet <i>ou</i> qu’on peut admettre, JUL. <i>Ep. 88</i>.<p><b>Étym</b>. παραδέχομαι.`

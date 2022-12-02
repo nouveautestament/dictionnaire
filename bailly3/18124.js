@@ -1,0 +1,1 @@
+lar[18124]=`<b>ἄ·φιμος, ος, ον</b> <font color="purple">[ῑ]</font> non muselé, arrogant, SIB. <i>5, 438</i>.`

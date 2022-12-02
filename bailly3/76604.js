@@ -1,0 +1,1 @@
+lar[76604]=`<b>παρεισχέω</b> (<i>seul. prés</i>.) verser auprès <i>ou</i> dans, EUN. <i>p. 55, 18</i>.`

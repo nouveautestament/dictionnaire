@@ -1,0 +1,1 @@
+lar[57591]=`(<i>seul. prés</i>.) être au vert, SOPHR. (SCH.-NIC. <i>Th. 862).</i><p><b>Étym</b>. κράστις.`

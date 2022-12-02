@@ -1,0 +1,1 @@
+lar[46522]=`<b>ός, όν</b>, qui coule <i>ou</i> jaillit de soi-même, <i>ou p.-ê</i>. fécondant, <i>en parl. du Nil,</i> ESCHL. <i>Suppl. 1027</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

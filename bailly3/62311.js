@@ -1,0 +1,1 @@
+lar[62311]=`<b>μαζοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger de la pâte cuite, HPC. <i>389, 37</i>.<p><b>Étym</b>. μαζοφάγος.`

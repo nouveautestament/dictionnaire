@@ -1,0 +1,1 @@
+lar[8783]=`<b>ου (τὸ) :<br>      1</b> fleur, AR. <i>Ach. 992 ; fig</i>. éclat, SAPPH. <i>87</i> ; SIM. AM. <i>Iamb. fr. 66</i> ; HH. <i>5, 9</i> ; PD. <i>N. 7, 79 ; O. 2, 79, etc. ; en parl. de fleurs brodées sur des sandales,</i> CÉPHIS. (POLL. <i>7, 87</i>).<br><b>      2</b> <i>sorte de plante,</i> TH. <i>H.P. 7, 14, 2</i>.<p><b>Étym</b>. ἄνθος.`

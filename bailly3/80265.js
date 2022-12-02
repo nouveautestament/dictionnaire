@@ -1,0 +1,1 @@
+lar[80265]=`<b>ῶν (οἱ)</b> les habitants du Picenum, PLUT. <i>Pomp. 6, etc</i>.<p><b>Étym</b>. <i>v</i>. Πικηνίς.`

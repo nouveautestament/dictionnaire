@@ -1,0 +1,1 @@
+lar[45874]=`<b>ου (ὁ)</b> Hèrippidas, <i>Laconien,</i> XÉN. <i>Hell. 3, 4, 6 et 20</i> ; PLUT. <i>Ages. 11</i>.<p>➳ <i>Voc</i>. -ίδα, XÉN. <i>Hell. 4, 1, 11</i>.<p><b>Étym</b>. <i>patr. de</i> *Ἤριππος.`

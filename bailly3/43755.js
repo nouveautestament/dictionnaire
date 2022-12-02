@@ -1,0 +1,1 @@
+lar[43755]=`<b>ου (ὁ)</b> le fils d’Euphronè, <i>càd</i>. de la Nuit, ANTH. <i>App. 281</i>.<p><b>Étym</b>. εὐφρόνη.`

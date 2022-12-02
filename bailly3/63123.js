@@ -1,0 +1,1 @@
+lar[63123]=`<b>ύος (ἡ)</b> recherche, CALL. <i>fr. 277</i>.<p><b>Étym</b>. μαστεύω.`

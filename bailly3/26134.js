@@ -1,0 +1,1 @@
+lar[26134]=`<b>δι·εκπεραιόομαι-οῦμαι</b> (<i>prés</i>.) se transporter au delà, STR. <i>536</i>.`

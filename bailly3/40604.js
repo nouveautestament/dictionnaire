@@ -1,0 +1,1 @@
+lar[40604]=`<b>ου (ὁ)</b> Herminos, <i>philosophe stoïcien,</i> LUC. <i>Demon. 56</i>.`

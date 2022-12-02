@@ -1,0 +1,1 @@
+lar[104367]=`<b>ατος (τὸ)</b> tissu (de main d’homme) OD. <i>3, 274</i> ; ESCHL. <i>Ch. 27</i> ; toile (d’araignée) ESCHL. <i>Ag. 1492</i> ; πλεκτὸν σχοίνου ὕφασμα, tissu de jonc entrelacé, corbeille, ARCHESTR. (ATH. <i>305f</i>).<p><b>Étym</b>. ὑφαίνω.`

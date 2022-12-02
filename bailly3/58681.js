@@ -1,0 +1,1 @@
+lar[58681]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> joueur de cymbales, DC. <i>50, 27</i>.<p><b>Étym</b>. κυμβαλίζω.`

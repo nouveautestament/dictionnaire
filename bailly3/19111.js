@@ -1,0 +1,1 @@
+lar[19111]=`<b>βαρυ·αής, ής, ές</b> <font color="purple">[ᾰῠᾱ]</font><br><b>      1</b> qui respire pesamment <i>ou</i> péniblement, OPP. <i>C. 3, 421</i>.<br><b>      2</b> qui exhale une odeur lourde <i>ou</i> forte, NIC. <i>Th. 43</i>.<p><b>Étym</b>. βαρύς, ἄημι.`

@@ -1,0 +1,1 @@
+lar[54744]=`<b>ή, όν</b>, piqué, <i>particul</i>. brodé, EPICT. <i>Ench. 39</i>.<p><b>Étym</b>. <i>vb. de</i> κεντέω.`

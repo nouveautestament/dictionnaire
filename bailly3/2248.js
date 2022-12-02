@@ -1,0 +1,1 @@
+lar[2248]=`<b>ᾶς (ἡ)</b> Ægilia (<i>auj</i>. Marcopoulo de Mésogée) <i>dème attique de la tribu Antiokhide,</i> HARP., SUID.`

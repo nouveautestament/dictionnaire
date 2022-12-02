@@ -1,0 +1,1 @@
+lar[102662]=`<b>ὑπερ·νέφελος, ος, ον</b>, qui est <i>ou</i> s’élève au-dessus des nuages, LUC. <i>Ic. 2, Herm. 5, etc.</i> ; EUM. <i>p. 321</i>.<p><b>Étym</b>. ὑ. νεφέλη.`

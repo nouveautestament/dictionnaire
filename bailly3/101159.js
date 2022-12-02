@@ -1,0 +1,1 @@
+lar[101159]=`<b>(ὁ)</b> Tyrrhias, <i>fl. ou mt de Chypre,</i> ARSTT. <i>Mir. 43</i>.`

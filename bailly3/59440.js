@@ -1,0 +1,1 @@
+lar[59440]=`<b>λαγω·φόνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tue les lièvres, ARSTT. <i>H.A. 9, 32, 2</i>.<p><b>Étym</b>. λαγώς, πεφνεῖν.`

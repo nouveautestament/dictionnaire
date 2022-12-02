@@ -1,0 +1,1 @@
+lar[79660]=`<b>περι·χανδής, ής, ές</b>, très large, <i>propr</i>. très béant, NIC. (ATH. <i>372e</i>).<p><b>Étym</b>. π. χανδάνω.`

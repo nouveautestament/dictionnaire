@@ -1,0 +1,1 @@
+lar[6292]=`<b>ἀμφι·πέλομαι</b> (<i>seul. prés</i>.) se trouver <i>ou</i> flotter autour de, <i>dat</i>. OD. <i>1, 352</i>.`

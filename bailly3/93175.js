@@ -1,0 +1,1 @@
+lar[93175]=`<b>συγ·γανύσκομαι</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> se réjouir avec, <i>dat</i>. THÉM. <i>57d</i>.<p><b>Étym</b>. σ. γάνυμαι.`

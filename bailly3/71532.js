@@ -1,0 +1,1 @@
+lar[71532]=`<b>ὁμοιο·μερής, ής, ές</b>, formé de parties semblables <i>ou</i> analogues, ANAXAG. (ARSTT. <i>Cæl. 3, 3</i>) ; ARSTT. <i>H.A. 1, 1 ; Meteor. 4, 10, etc.</i> ; TH. <i>C.P. 5, 2, 1</i>.<p><b>Étym</b>. ὅμ. μέρος.`

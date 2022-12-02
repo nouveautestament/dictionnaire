@@ -1,0 +1,1 @@
+lar[98632]=`<b>τετρά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, long, large, <i>etc</i>. de quatre coudées, HDT. <i>7, 69</i> ; AR. <i>Vesp. 553, Ran. 1014</i> ; PLAT. <i>Rsp. 462d</i>.<p><b>Étym</b>. τ. πῆχυς.`

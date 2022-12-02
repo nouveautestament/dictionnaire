@@ -1,0 +1,1 @@
+lar[16727]=`<b>ἀτεκνόω-ῶ</b> (<i>seul. prés</i>.) rendre stérile, <i>d’où au pass</i>. être rendue stérile, ANTH. <i>14, 40 ; en parl. de la terre,</i> SPT. <i>4Reg. 2, 19</i>.<p><b>Étym</b>. ἄτεκνος.`

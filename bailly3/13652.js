@@ -1,0 +1,1 @@
+lar[13652]=`<b>ἀπο·τριτόω-ῶ</b> <font color="purple">[ῐ]</font> réduire au tiers, DIOSC. <i>Geop. 7, 13, 5, etc</i>.<p><b>Étym</b>. ἀ. τρίτος.`

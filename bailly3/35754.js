@@ -1,0 +1,1 @@
+lar[35754]=`<b>ή, όν :<br>      1</b> qui concerne les affranchis, DÉM. (POLL. <i>3, 83</i>) ; PLUT. <i>Syll. 30</i>.<br><b>      2</b> fils <i>ou</i> descendant d’affranchi, DH. <i>4, 22</i> ; PLUT. <i>Ant. 58</i>.<p><b>Étym</b>. ἐξελεύθερος.`

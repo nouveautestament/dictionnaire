@@ -1,0 +1,1 @@
+lar[26095]=`<i>adv</i>., d’une manière distincte, précise, XÉN. <i>Œc. 11, 25</i>.<p><b>Étym</b>. διαλαμβάνω.`

@@ -1,0 +1,1 @@
+lar[13345]=`<b>ἀπο·σκοτόω-ῶ :<br>      1</b> ombrer, <i>t. de peint</i>. AR. <i>fr. 586</i>.<br><b>      2</b> couvrir d’ombre, obscurcir, POL. <i>1, 48, 6</i> ; PLUT. <i>Sert. 17 ; fig</i>. obscurcir l’esprit, ATH. <i>446b</i>.`

@@ -1,0 +1,1 @@
+lar[84621]=`<b>*προ·κυλίω</b>, <i>seul. moy</i>. προκυλίομαι <font color="darkgreen">(<i>f</i>. προκυλίσομαι)</font> <font color="purple">[ῠῑ]</font> <i>c</i>. προκυλινδέομαι, DH. <i>8, 39</i> ; APP. <i>It. 5, 12</i>.<p>➳ <i>Impf. contr</i>. προὐκυλιόμην, X. ÉPH.`

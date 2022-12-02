@@ -1,0 +1,1 @@
+lar[27055]=`<i>ou</i> <b>δισυλλαβία, ας (ἡ)</b> nature dissyllabique d’un mot, DRAC. <i>39, 9 ; 130, 29</i>.<p><b>Étym</b>. δισσύλλαβος.`

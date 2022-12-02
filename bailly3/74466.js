@@ -1,0 +1,1 @@
+lar[74466]=`<b>παλαμάομαι-ῶμαι</b> <font color="purple">[ᾰλᾰ]</font><br><b>      1</b> faire avec les mains, exécuter, <i>acc</i>. XÉN. <i>Cyr. 4, 3, 17</i>.<br><b>      2</b> <i>p. ext. fig</i>. entreprendre, AR. <i>Ach. 659, Nub. 176 ; d’où en mauv. part,</i> inventer, machiner, AR. <i>Pax 94</i>.<p><b>Étym</b>. παλάμη.`

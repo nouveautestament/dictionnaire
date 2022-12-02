@@ -1,0 +1,1 @@
+lar[54035]=`<b>κατ·ηπιάω-ῶ</b>, adoucir, <i>seul. pass. (3 pl. impf. épq</i>. κατηπιόωντο) s’adoucir, se calmer, IL. <i>5, 417</i>.<p><b>Étym</b>. κ. ἤπιος.`

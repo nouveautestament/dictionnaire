@@ -1,0 +1,1 @@
+lar[27150]=`<b>διφρ·ήλατος, ος, ον</b>, porté sur un char, EUR. <i>Rhes. arg</i>.<p><b>Étym</b>. δίφρος, ἐλαύνω.`

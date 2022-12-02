@@ -1,0 +1,1 @@
+lar[47358]=`<b>ης, ες</b>, rempli de trésors, PHILSTR. <i>303</i>.<p><b>Étym</b>. θ. -ωδης.`

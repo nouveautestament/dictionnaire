@@ -1,0 +1,1 @@
+lar[19355]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> mûre de ronce, mûre sauvage, DS. <i>1, 34</i>.<p><b>Étym</b>. <i>cf</i>. βάτος¹.`

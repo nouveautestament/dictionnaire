@@ -1,0 +1,1 @@
+lar[9505]=`<b>ἀντ·αποπαίζω</b>, reperdre ce qu’on a gagné au jeu, COM. <i>(Bkk. p. 25, 29).</i><p><b>Étym</b>. ἀντί, ἀ.`

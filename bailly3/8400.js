@@ -1,0 +1,1 @@
+lar[8400]=`<b>ἀν·επάϊστος, ος, ον</b>, dont on ne peut entendre parler, AGATHOCL. (ATH. <i>376a</i>).<p><b>Étym</b>. ἀν-, ἐπαΐω.`

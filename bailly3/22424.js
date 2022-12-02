@@ -1,0 +1,1 @@
+lar[22424]=`<b>ή, όν</b>, ajusté à l’aide de chevilles, STR. <i>741</i>.<p><b>Étym</b>. <i>vb. de</i> γομφόω.`

@@ -1,0 +1,1 @@
+lar[72911]=`<b>ης, ες</b>, semblable à un oiseau, <i>càd</i>. léger, <i>fig</i>. PLUT. <i>M. 44b</i>.<p><b>Étym</b>. ὄρνεον, -ωδης.`

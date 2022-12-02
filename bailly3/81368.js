@@ -1,0 +1,1 @@
+lar[81368]=`<b>ποικιλ·ανθής, ής, ές</b> <font color="purple">[ῐ]</font> parsemé de fleurs, CLÉM. <i>238</i>.<p><b>Étym</b>. ποικίλος, ἄνθος.`

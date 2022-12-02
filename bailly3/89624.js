@@ -1,0 +1,1 @@
+lar[89624]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> vénération, adoration, EPIC. (PLUT. <i>M. 1117 a et b).</i><p><b>Étym</b>. σεβάζομαι.`

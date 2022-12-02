@@ -1,0 +1,1 @@
+lar[59180]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> voisine de quartier, AR. <i>Lys. 5, etc.</i><br><b>      2</b> du pays, <i>p. opp. à</i> μητροπολῖτις, SYN. <i>Ep. 67, 1417a Migne</i>.<p><b>Étym</b>. <i>fém. de</i> κωμήτης.`

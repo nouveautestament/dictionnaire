@@ -1,0 +1,1 @@
+lar[53209]=`<b>κατ·αργέω-ῶ :<br>      1</b> laisser inactif : χέρας, EUR. <i>Ph. 753,</i> laisser ses mains inoccupées ; τοὺς καιρούς, POL. (SUID.) négliger les occasions.<br><b>      2</b> annuler, abroger, abolir (une loi) NT. <i>Rom. 3, 3 ; au pass</i>. καταργηθῆναι ἀπὸ τοῦ νόμου, NT. <i>Rom. 7, 6,</i> être affranchi de la loi.`

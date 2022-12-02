@@ -1,0 +1,1 @@
+lar[89770]=`<b>ῶν (οἱ)</b> les Selles, <i>prêtres de Zeus à Dodone, ou anciens habitants de Dodone,</i> IL. <i>16, 234</i> ; SOPH. <i>Tr. 1167</i> ; EUR. <i>fr. 368, etc</i>.<p><b>Étym</b>. <i>v</i>. Ἑλλοί.`

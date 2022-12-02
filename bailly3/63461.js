@@ -1,0 +1,1 @@
+lar[63461]=`<b>μεγαλό·φυλλος, ος, ον</b> <font color="purple">[ᾰ]</font> à grandes feuilles, TH. <i>C.P. 2, 10, 2</i>.<p><b>Étym</b>. μ. φύλλον.`

@@ -1,0 +1,1 @@
+lar[50341]=`<b>ατος (τὸ)</b> collier de femme, SPT. <i>Esaï. 3, 18</i>.<p><b>Étym</b>. καθίημι.`

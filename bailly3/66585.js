@@ -1,0 +1,1 @@
+lar[66585]=`<b>μονό·μετρος, ος, ον</b>, qui se compose d’une seule mesure, <i>t. de pros</i>. DH. <i>Comp. 26</i>.<p><b>Étym</b>. μ. μέτρον.`

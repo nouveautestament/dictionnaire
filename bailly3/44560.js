@@ -1,0 +1,1 @@
+lar[44560]=`<b>(τὸ)</b> <i>indécl</i>. zèta, <i>lettre de l’alphabet grec</i>. PLAT. <i>Crat. 419b ;</i> CALLIAS (ATH. <i>453d</i>).<p><b>Étym</b>. <i>emprunt sémitique, cf. hébr</i>. zajit ; <i>v</i>. Ζ, ζ.`

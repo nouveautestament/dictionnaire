@@ -1,0 +1,1 @@
+lar[21556]=`<b>ῶν (οἱ)</b> étrangers résidant en Terre sainte, SPT. <i>Ex. 12, 19</i> ; PHIL. <i>1, 417</i>.<p><b>Étym</b>. <i>Orig. hébr</i>.`

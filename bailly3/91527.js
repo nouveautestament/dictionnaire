@@ -1,0 +1,1 @@
+lar[91527]=`<b>σμυρίτης λίθος (ὁ)</b> <font color="purple">[ῠῑ]</font> pierre d’émeri, SPT. <i>Job 41, 7</i>.<p><b>Étym</b>. σμύρις.`

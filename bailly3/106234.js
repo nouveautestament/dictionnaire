@@ -1,0 +1,1 @@
+lar[106234]=`<b>φιλ·ύδρηλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime l’humidité, ANTH. <i>6, 21</i>.<p><b>Étym</b>. φ. ὑδρηλός.`

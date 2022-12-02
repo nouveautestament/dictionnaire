@@ -1,0 +1,1 @@
+lar[57948]=`<b>κριο·κοπέω-ῶ</b> <font color="purple">[ῑ]</font> battre en brèche avec un bélier <i>ou</i> des béliers, POL. <i>1, 42, 9</i> ; APP. <i>Mithr. 36</i>.<p><b>Étym</b>. κριός, κόπτω.`

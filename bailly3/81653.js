@@ -1,0 +1,1 @@
+lar[81653]=`<i>acc</i>. <b>-ῆν (ὁ)</b> Pollès, <i>roi des Odomantes, en Thrace,</i> THC. <i>5, 6</i>.`

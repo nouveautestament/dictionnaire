@@ -1,0 +1,1 @@
+lar[88790]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> épaississement en forme de massue, <i>sorte de maladie des cheveux,</i> GAL. <i>2, 267</i>.<p><b>Étym</b>. *ῥοπαλόω <i>de</i> ῥόπαλον.`

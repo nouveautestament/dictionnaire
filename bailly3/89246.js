@@ -1,0 +1,1 @@
+lar[89246]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> joueur de sambuque, EUPH. (ATH. <i>182e</i>).<p><b>Étym</b>. σαμβύκη.`

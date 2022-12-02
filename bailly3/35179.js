@@ -1,0 +1,1 @@
+lar[35179]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> temple d’Ényô, DC. <i>42, 26 ; 50, 4</i>.<p><b>Étym</b>. Ἐνυώ.`

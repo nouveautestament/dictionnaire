@@ -1,0 +1,1 @@
+lar[49332]=`<b>Ἱππο·θόων, όωντος (ὁ)</b> Hippothoôn, <i>héros attique,</i> DÉM. <i>60, 31 Baiter-Sauppe</i>.<p>➳ <i>Anc. att</i>. Ἱπποθῶν <i>(v. Meisterh. p. 17, 6, note 101).</i>`

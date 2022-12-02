@@ -1,0 +1,1 @@
+lar[98789]=`<b>ου (τὸ)</b> <i>sorte de plante, p.-ê</i>. germandrée jaune (<i>Teucrium lucidum</i> L.) DIOSC. <i>3, 41</i>.`

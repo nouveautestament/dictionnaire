@@ -1,0 +1,1 @@
+lar[63084]=`<b>μαστιγέω-ῶ</b> <font color="purple">[ῑ]</font> fouetter, HDT. <i>1, 114 (corr</i>. μαστιγόω).<p><b>Étym</b>. μάστιξ.`

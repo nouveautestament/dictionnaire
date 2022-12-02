@@ -1,0 +1,1 @@
+lar[59925]=`<b>έως</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. habitant <i>ou</i> originaire de Lasiôn, XÉN. <i>Hell. 4, 2, 16</i>.<p><b>Étym</b>. Λασιών.`

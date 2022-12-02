@@ -1,0 +1,1 @@
+lar[8353]=`<i>adv</i>., sans s’abandonner, sans fléchir, BAS. <i>1, 488 Migne</i>.`

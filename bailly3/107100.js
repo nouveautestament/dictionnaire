@@ -1,0 +1,1 @@
+lar[107100]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> gardien, protecteur, <i>titre du premier magistrat de Kymes,</i> PLUT. <i>M. 291f</i>.<p><b>Étym</b>. φυλάσσω.`

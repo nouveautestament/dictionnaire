@@ -1,0 +1,1 @@
+lar[14922]=`<b>ας (ἡ)</b> <i>autre n. de la plante</i> ῥαφανὶς ἀγρία, DIOSC. <i>2, 138</i>.`

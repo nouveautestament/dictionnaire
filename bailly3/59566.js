@@ -1,0 +1,1 @@
+lar[59566]=`<b>Λαισ·ποδίας, ου (ὁ)</b> Læspodias, <i>propr</i>. « aux pieds en forme de faux », <i>ou</i> « aux jambes torses », AR. <i>Av. 1569</i> ; THC. <i>6, 105 ; 8, 86</i> ; PHRYN. COM. <i>2-1, 587, Mein., etc</i>.<p><b>Étym</b>. λαῖον <i>ou</i> λαιός, πούς.`

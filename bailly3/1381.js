@@ -1,0 +1,1 @@
+lar[1381]=`<b>ἀ·διάφθορος, ος, ον :<br>      1</b> non corrompu, pur, chaste, PLAT. <i>Phædr. 252d.</i><br><b>      2</b> incorruptible, PLAT. <i>Leg. 768b ;</i> ARSTT. <i>Rhet. 1, 15, 17, etc.</i><br><b>      3</b> impérissable, PLAT. <i>Phæd. 106d</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Pol. 3, 15</i>.<p><b>Étym</b>. ἀ, διαφθείρω.`

@@ -1,0 +1,1 @@
+lar[102801]=`<b>ὑπέρ·σοφος, ος, ον</b>, sage plus qu’on ne saurait le dire, d’une sagesse supérieure, AR. <i>Ach. 972</i> ; PLAT. <i>Euthyd. 289e ;</i> PHILSTR. <i>708</i>.<p><b>Étym</b>. ὑ. σοφός.`

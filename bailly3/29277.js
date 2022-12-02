@@ -1,0 +1,1 @@
+lar[29277]=`<b>ἑβδομα·γενής, ής, ές</b> <font color="purple">[ᾱ]</font> né le 7<sup>e</sup> jour (du mois) <i>ép. d’Apollon,</i> PLUT. <i>M. 717d</i>.<p><b>Étym</b>. ἕβδομος, γένος.`

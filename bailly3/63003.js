@@ -1,0 +1,1 @@
+lar[63003]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Martianus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 9</i>.`

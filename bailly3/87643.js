@@ -1,0 +1,1 @@
+lar[87643]=`<b>πυκν·όφθαλμος, ος, ον :<br>      1</b> aux yeux nombreux, <i>en parl. d’Argus,</i> MÉN. <i>4, 226 Meineke</i>.<br><b>      2</b> <i>p. anal</i>. aux nombreux bourgeons, TH. <i>C.P. 5, 4, 1</i>.<p><b>Étym</b>. π. ὀφθαλμός.`

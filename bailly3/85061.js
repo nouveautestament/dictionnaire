@@ -1,0 +1,1 @@
+lar[85061]=`<b>προ·ρροφέω-ῶ</b>, <i>d’où</i> <b>προ·ροφέω</b> (<i>seul. prés</i>.) absorber auparavant, HPC. <i>622, 21</i>.<p><b>Étym</b>. πρό, ῥοφέω.`

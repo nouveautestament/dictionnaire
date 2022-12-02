@@ -1,0 +1,1 @@
+lar[95425]=`<b>συν·εκτραχηλίζομαι</b> <font color="purple">[ᾰ]</font> se précipiter comme un cheval emporté, PLUT. <i>M. 802d</i>.`

@@ -1,0 +1,1 @@
+lar[10432]=`<b>ας (ἡ)</b> = <i>lat</i>. Antistia, <i>n. de f. rom</i>. PLUT. <i>Pomp. 4, etc</i>.`

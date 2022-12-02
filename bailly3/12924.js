@@ -1,0 +1,1 @@
+lar[12924]=`<b>εως (ἡ)</b> action de se moucher, PLUT. <i>M. 1084c</i>.<p><b>Étym</b>. ἀπομύσσω.`

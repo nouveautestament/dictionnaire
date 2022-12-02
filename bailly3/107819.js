@@ -1,0 +1,1 @@
+lar[107819]=`<b>χάμ·ευνος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. χαμεύνης, qui couche sur le sol, M. TYR. <i>24, 8</i>.`

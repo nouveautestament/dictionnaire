@@ -1,0 +1,1 @@
+lar[64186]=`<b>ας (ἡ) :<br>      1</b> mélodie, musique, ARSTT. <i>Poet. 6, 5</i>.<br><b>      2</b> théorie musicale, <i>p. opp. à l’exécution,</i> PLAT. <i>Conv. 187, Rsp. 404d</i>.<p><b>Étym</b>. μελοποιός.`

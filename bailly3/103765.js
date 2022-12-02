@@ -1,0 +1,1 @@
+lar[103765]=`<b>ὑπ·όρθριος, ος, ον</b>, du point du jour, matinal, ANACR. <i>12, 9</i>.<p><b>Étym</b>. ὑ. ὄρθρος.`

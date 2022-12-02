@@ -1,0 +1,1 @@
+lar[6873]=`<b>Ἀν·αίτιος, ου (ὁ)</b> Anætios, <i>un des trente tyrans d’Athènes,</i> XÉN. <i>Hell. 2, 3, 2</i>.`

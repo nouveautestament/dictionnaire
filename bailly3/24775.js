@@ -1,0 +1,1 @@
+lar[24775]=`<b>δια·κλάζω</b>, décrier, ridiculiser, CHRYS. <i>7, 78b Migne</i>.`

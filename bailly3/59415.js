@@ -1,0 +1,1 @@
+lar[59415]=`<b>ου (ὁ)</b> Lagos, <i>père de Ptolémée, le général d’Alexandre qui devint roi d’Égypte,</i> PLUT. <i>Pro Nobil. 19, etc</i>.<p><b>Étym</b>. <i>pour</i> *Λάαγος, <i>de</i> λαός, ἄγω, <i>litt</i>. « conducteur du peuple ».`

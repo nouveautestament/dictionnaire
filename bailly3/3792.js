@@ -1,0 +1,1 @@
+lar[3792]=`<b>ἀκρό·λιθος, ος, ον</b> <font color="purple">[ῐ]</font> dont les extrémités (tête, bras, jambes) sont de pierre, <i>p. opp. au reste du corps en bois,</i> ANTH. <i>12, 40</i>.<p><b>Étym</b>. ἄ. λίθος.`

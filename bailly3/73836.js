@@ -1,0 +1,1 @@
+lar[73836]=`<b>ὀφιο·γενής, ής, ές</b>, né d’un serpent, <i>d’où au pl</i> : οἱ Ὀφιογενεῖς, STR. <i>588</i> ; EL. <i>N.A. 12, 39,</i> Fils de serpents, <i>pple de l’Hellespont</i>.<p><b>Étym</b>. ὄφις, γίγνομαι.`

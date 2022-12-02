@@ -1,0 +1,1 @@
+lar[82531]=`<b>ης (ἡ)</b> <font color="purple">[σῠ]</font> <i>c</i>. πολυφραδία ARCHYT. (STOB. <i>Ecl. 1, 786).</i><p><b>Étym</b>. πολυφράδμων.`

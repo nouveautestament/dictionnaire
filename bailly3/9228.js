@@ -1,0 +1,1 @@
+lar[9228]=`<b>ἀν·οίμωκτος, ος, ον</b>, non pleuré, sur qui l’on ne gémit pas, ESCHL. <i>Ch. 433</i> ; τίμημα τύμβου τῆς ἀνοιμώκτου τύχης, ESCHL. <i>Ch. 511,</i> honneur rendu à (ce) tombeau, pour réparer l’omission de la plainte funèbre.<p><b>Étym</b>. ἀν-, οἰμώζω.`

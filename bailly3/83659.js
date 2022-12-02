@@ -1,0 +1,1 @@
+lar[83659]=`<b>προ·απολαύω</b>, jouir d’avance <i>ou</i> auparavant, PLUT. <i>Æmil. 30</i>.`

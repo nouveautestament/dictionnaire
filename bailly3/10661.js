@@ -1,0 +1,1 @@
+lar[10661]=`<b>ἀντ·οφθαλμέω-ῶ :<br>      1</b> regarder en face, POL. <i>18, 29, 12</i>.<br><b>      2</b> <i>p. suite,</i> affronter, résister à : πρός τινα, POL. <i>2, 24, 1, etc</i>. à qqn ; τινι περί τινος, POL. <i>28, 6, 5,</i> à qqn au sujet de qqe ch.`

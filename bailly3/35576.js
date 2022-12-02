@@ -1,0 +1,1 @@
+lar[35576]=`<b>ἑξά·πωλος, ος, ον</b> <font color="purple">[ᾰ]</font> à six chevaux, HDN <i>5, 6, 16</i>.<p><b>Étym</b>. ἕξ, πῶλος.`

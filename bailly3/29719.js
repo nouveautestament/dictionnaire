@@ -1,0 +1,1 @@
+lar[29719]=`<b>έως (ὁ)</b> ciseau de sculpteur, LUC. <i>Somn. 3</i>.<p><b>Étym</b>. ἐγκόπτω.`

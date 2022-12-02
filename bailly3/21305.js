@@ -1,0 +1,1 @@
+lar[21305]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> époux, mari, ESCHL. <i>Pr. 896</i> ; EUR. <i>Tr. 312 ; en prose seul</i>. XÉN. <i>Cyr. 4, 6, 3</i>.<p>➳ <i>Gén. dor</i>. γαμέτα, EUR. <i>Suppl. 998</i>.<p><b>Étym</b>. γαμέω.`

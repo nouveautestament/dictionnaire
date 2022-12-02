@@ -1,0 +1,1 @@
+lar[59822]=`<b>λαο·σεβής, ής, ές</b> <font color="purple">[ᾱ]</font> révéré du peuple, PD. <i>P. 5, 95</i>.<p><b>Étym</b>. λαός, σέβομαι.`

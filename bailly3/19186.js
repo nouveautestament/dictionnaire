@@ -1,0 +1,1 @@
+lar[19186]=`<b>βαρυ·πάλαμος, ος, ον</b> <font color="purple">[ᾰῠᾰᾰ]</font> à la main pesante, <i>càd</i>. terrible, PD. <i>P. 11, 22</i>.<p><b>Étym</b>. β. παλάμη.`

@@ -1,0 +1,1 @@
+lar[45833]=`être silencieux, triste, SPT. <i>2Esdr. 9, 3</i> ; AQU. <i>Ezech. 3, 15</i>.<p><b>Étym</b>. ἠρέμα.`

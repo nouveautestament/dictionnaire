@@ -1,0 +1,1 @@
+lar[72139]=`<b>ὀξυ·παγής, ής, ές</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> aiguisé <i>ou</i> aigu pour pénétrer <i>ou</i> s’enfoncer, ANTH. <i>6, 109</i>.<br><b>      2</b> armé de pinces <i>ou</i> d’aiguillons, OPP. <i>H. 1, 261</i> ; NONN. <i>D. 14, 385</i>.<p><b>Étym</b>. ὀ. πήγνυμι.`

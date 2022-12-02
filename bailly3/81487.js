@@ -1,0 +1,1 @@
+lar[81487]=`<b>ου (τὸ)</b> petite toison, HIPPIATR. <i>p. 87</i>.<p><b>Étym</b>. <i>dim. de</i> πόκος.`

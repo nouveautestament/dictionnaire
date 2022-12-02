@@ -1,0 +1,1 @@
+lar[91930]=`<b>σπλαγχν·όπτης, ου (ὁ)</b> celui qui rôtit les entrailles de la victime, PLIN. <i>H.N. 22, 17, 20, etc</i>.<p><b>Étym</b>. σπλάγχνον, ὀπτάω.`

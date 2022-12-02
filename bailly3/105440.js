@@ -1,0 +1,1 @@
+lar[105440]=`<b>ῶν (οἱ)</b> Philaïdes, <i>dème att. de la tribu Ægéide,</i> PLAT. <i>Hipparch. 228b ;</i> PLUT. <i>Sol. 10, etc</i>.`

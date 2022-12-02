@@ -1,0 +1,1 @@
+lar[21364]=`<b>ατος (τὸ)</b> <font color="purple">[γᾰ]</font> <i>c</i>. γάνος, P. SIL. <i>Th. Pyth. 6</i>.`

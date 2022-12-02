@@ -1,0 +1,1 @@
+lar[75955]=`<b>παρα·μυκάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> mugir auprès, alentour, <i>fig</i>. ESCHL. <i>Pr. 1082</i>.`

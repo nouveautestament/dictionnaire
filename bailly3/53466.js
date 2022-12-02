@@ -1,0 +1,1 @@
+lar[53466]=`<b>κατα·στομίζω</b>, fermer la bouche à, faire taire, <i>acc</i>. PLUT. <i>Arist. 4</i>.`

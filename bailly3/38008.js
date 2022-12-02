@@ -1,0 +1,1 @@
+lar[38008]=`<b>ἐπι·κεύθω</b>, cacher, dissimuler, <i>acc. d’ord. avec nég.</i> : οὐδ' ἐπικεύσω, IL. <i>5, 816</i> ; OD. <i>5, 143, etc</i>. et je ne cacherai pas (la vérité) ; τινά, ESCHL. <i>Ag. 800 ; cf</i>. A.RH. <i>3, 332,</i> cacher qqe ch. à qqn, devant qqn.`

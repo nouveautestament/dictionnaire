@@ -1,0 +1,1 @@
+lar[4061]=`<b>ου (ὁ)</b> <font color="purple">[ᾰλᾰλ]</font> qu’on acclame par le cri de guerre (Arès) CORN. <i>21</i>.<p><b>Étym</b>. ἀλαλάζω.`

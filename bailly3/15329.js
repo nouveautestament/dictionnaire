@@ -1,0 +1,1 @@
+lar[15329]=`<b>ἀρτι·γραφής, ής, ές</b> <font color="purple">[ᾰφ]</font> nouvellement écrit <i>ou</i> inscrit, LUC. <i>Lex. 1</i>.<p><b>Étym</b>. ἄ. γράφω.`

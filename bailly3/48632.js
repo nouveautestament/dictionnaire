@@ -1,0 +1,1 @@
+lar[48632]=`<b>ἱερό·στολος, ου (ὁ)</b> prêtre égyptien chargé d’habiller les images des dieux, PLUT. <i>M. 352b</i>.<p><b>Étym</b>. ἱ. στολή.`

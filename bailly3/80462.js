@@ -1,0 +1,1 @@
+lar[80462]=`<b>*πισσωτής</b>, <i>seul. att</i>. <b>πιττωτής, οῦ (ὁ)</b> qui enduit de poix <i>ou</i> de goudron, LUC. <i>Fug. 33</i>.<p><b>Étym</b>. πισσόω.`

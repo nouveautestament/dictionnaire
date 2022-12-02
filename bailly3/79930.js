@@ -1,0 +1,1 @@
+lar[79930]=`<b>πευθώ, όος-οῦς (ἡ)</b> information, nouvelle, ESCHL. <i>Sept. 370</i>.<p><b>Étym</b>. πυνθάνομαι.`

@@ -1,0 +1,1 @@
+lar[31006]=`<b>ἑκατόμ·βοιος, ος, ον</b> <font color="purple">[ᾰ]</font> au prix de cent bœufs, <i>par hyperbole pour</i> très cher, IL. <i>2, 449 ; 6, 236</i> ; τὸ ἑκατόμβοιον, IL. <i>21, 79,</i> prix de cent bœufs ; <i>p. suite, abs</i>. prix de deux mines, <i>càd</i>. de 200 drachmes attiques, PLUT. <i>Thes. 25</i>.<p><b>Étym</b>. ἑκατόμβη.`

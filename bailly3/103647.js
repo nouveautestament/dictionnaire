@@ -1,0 +1,1 @@
+lar[103647]=`<b>ὑπο·πάσσω :<br>      1</b> répandre en dessous, HDT. <i>1, 132</i> ; ALEX. (ATH. <i>117d</i>).<br><b>      2</b> appliquer en dessous un enduit de, <i>acc</i>. TH. <i>Sign. 3, 12, etc</i>.`

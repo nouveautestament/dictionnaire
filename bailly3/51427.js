@@ -1,0 +1,1 @@
+lar[51427]=`<b>οῦς</b> <font color="purple">[ᾰῑ]</font> <i>adj. f</i>. κ. γρηῦς, OD. <i>18, 27,</i> vieille noire comme une cheminée, <i>ou</i> toujours assise près de la cheminée.<p><b>Étym</b>. κάμινος.`

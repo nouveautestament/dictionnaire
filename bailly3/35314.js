@@ -1,0 +1,1 @@
+lar[35314]=`<b>ἐξαιμάτωσις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de convertir en sang, M. ANT. <i>4, 21</i> ; GAL. <i>2, 238, 243</i> ; A. APHR. <i>Probl. p. 72, 34</i>.<p><b>Étym</b>. ἐξαιματόω.`

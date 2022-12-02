@@ -1,0 +1,1 @@
+lar[25460]=`<b>δια·ρρικνόομαι-οῦμαι</b> (<i>seul. prés. impér. 2 sg</i>. διαρρικνοῦ) balancer les hanches d’une façon indécente, <i>en parl. d’une danse,</i> CRAT. <i>fr. 221 Mein</i>.`

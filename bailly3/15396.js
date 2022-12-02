@@ -1,0 +1,1 @@
+lar[15396]=`<b>ἀρτί·χνους, ους, ουν</b>, couvert de son premier duvet, dans la première jeunesse, ANTH. <i>6, 22</i> ; PHILSTR. <i>871</i>.<p><b>Étym</b>. ἄ. χνοῦς.`

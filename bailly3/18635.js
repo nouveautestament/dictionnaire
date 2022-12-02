@@ -1,0 +1,1 @@
+lar[18635]=`<b>ἀ·ψόφητος, ος, ον</b>, sans bruit : ἀ. κωκυμάτων, SOPH. <i>Aj. 321,</i> sans aucun bruit de lamentations.<p><b>Étym</b>. ἀ, ψοφέω.`

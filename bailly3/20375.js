@@ -1,0 +1,1 @@
+lar[20375]=`<b>ου (ὁ)</b> Bouthos, <i>h</i>. CRAT.`

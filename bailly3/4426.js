@@ -1,0 +1,1 @@
+lar[4426]=`<b>ἁλί·βρεκτος, ος, ον</b> <font color="purple">[ᾰ]</font> mouillé par l’eau de mer, ANTH. <i>7, 501</i> ; NONN. <i>D. 1, 96</i>.<p><b>Étym</b>. ἅλς, βρέχω.`

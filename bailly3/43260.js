@@ -1,0 +1,1 @@
+lar[43260]=`<b>Εὐρυ·δάμας, αντος (ὁ)</b> <font color="purple">[ῠδᾰ]</font> Eurydamas, <i>h</i>. IL. <i>5, 148</i> ; OD. <i>18, 296</i>.<p>➳ <i>Voc</i>. Εὐρυδάμαν, ALC. (CHOER. <i>Bkk. 1183).</i><p><b>Étym</b>. εὐ. δαμάω.`

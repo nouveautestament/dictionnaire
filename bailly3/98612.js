@@ -1,0 +1,1 @@
+lar[98612]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> part quadruple, XÉN. <i>An. 7, 2, 36 ; 7, 6, 1</i>.<p><b>Étym</b>. τετράμοιρος.`

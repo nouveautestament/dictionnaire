@@ -1,0 +1,1 @@
+lar[48723]=`<b>ου (ὁ)</b> Ithamitrès, <i>Perse,</i> HDT. <i>8, 130, etc</i>.`

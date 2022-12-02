@@ -1,0 +1,1 @@
+lar[55955]=`<b>κλεψί·χωλος, ος, ον</b> <font color="purple">[ῐ]</font> qui dissimule sa boiterie, LUC. <i>Oc. 33</i>.<p><b>Étym</b>. κλέπτω, χωλός.`

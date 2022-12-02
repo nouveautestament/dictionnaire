@@ -1,0 +1,1 @@
+lar[89250]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Samè (<i>auj</i>. Kefaloniá, Céphalonie) <i>î. voisine d’Ithaque,</i> OD. <i>1, 246</i> ; HH. <i>Ap. 429</i>.`

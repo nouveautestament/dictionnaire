@@ -1,0 +1,1 @@
+lar[13708]=`<b>ἀπο·φανόω</b> <font color="purple">[φᾰ]</font> rendre manifeste, SOPH. <i>fr. 846</i>.`

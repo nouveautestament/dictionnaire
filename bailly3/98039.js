@@ -1,0 +1,1 @@
+lar[98039]=`<b>τειχο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des fortifications, HDT. <i>3, 157</i> ; PLUT. <i>M. 694c</i>.<p><b>Étym</b>. τ. φύλαξ.`

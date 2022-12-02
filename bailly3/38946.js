@@ -1,0 +1,1 @@
+lar[38946]=`<b>ἐπί·σημα, ατος (τὸ)</b> empreinte sur, SIM. <i>fr. 157, 2</i> ; ESCHL. <i>Sept. 659</i> ; EUR. <i>Ph. 1107</i>.<p><b>Étym</b>. ἐπί, σῆμα.`

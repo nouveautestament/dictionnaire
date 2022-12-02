@@ -1,0 +1,1 @@
+lar[79950]=`<b>η, ον</b>, <i>part. pf. pass. de</i> φημί <i>ou de</i> φαίνω.`

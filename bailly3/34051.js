@@ -1,0 +1,1 @@
+lar[34051]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui a lieu le neuvième jour, HPC. <i>Aph. 1250</i> ; THC. <i>2, 49 ; en parl. de fièvres périodiques,</i> HPC. <i>Epid. 1, 961</i>.<p><b>Étym</b>. <i>cf</i>. ἐνναταῖος.`

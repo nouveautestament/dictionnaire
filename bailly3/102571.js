@@ -1,0 +1,1 @@
+lar[102571]=`<b>ονος (ὁ)</b> <font color="purple">[ῠῑ]</font> Hypérion, <i>Titan, fils d’Ouranos et père d’Hèlios,</i> HÉS. <i>Th. 134, 374</i> ; HH. <i>Cer. 26 ; 28, 13 ; d’où</i> Hèlios <i>lui-même,</i> IL. <i>19, 398</i> ; OD. <i>1, 24</i> ; HH. <i>Ap. 369 ; joint à</i> Ἠέλιος : Ὑπ. Ἠέλιος, IL. <i>8, 480</i> ; OD. <i>1, 8, etc. ; ou</i> Ἠέλιος Ὑπ. OD. <i>12, 133</i>.`

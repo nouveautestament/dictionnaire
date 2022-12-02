@@ -1,0 +1,1 @@
+lar[51262]=`<b>Καλλί·χορον, ου (τὸ)</b> <font color="purple">[ῐ]</font> Kallikhoron (<i>propr</i>. aux belles danses) <i>puits sacré, près d’Éleusis,</i> HH. <i>Cer. 272</i> ; EUR. <i>Suppl. 392, etc.</i> ; PAUS. <i>1, 38, 6</i> ; ALCIPHR. <i>3, 69</i>.<p><b>Étym</b>. <i>neutre de</i> καλλίχορος.`

@@ -1,0 +1,1 @@
+lar[99922]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>t. de philos</i>. qualité d’être une table, PLAT. (DL. <i>6, 53).</i><p><b>Étym</b>. τράπεζα.`

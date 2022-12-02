@@ -1,0 +1,1 @@
+lar[68846]=`<b>όεσσα, όεν</b> <font color="purple">[ῐ]</font><br><b>      1</b> neigeux, couvert de neige, IL. <i>13, 754 ; 18, 616</i> ; OD. <i>19, 338</i> ; HÉS. <i>Th. 117</i> ; PD. <i>P. 1, 20</i> ; SOPH. <i>O.R. 473</i>.<br><b>      2</b> blanc comme de la neige, NIC. <i>Al. 252, Th. 881</i>.<p><b>Étym</b>. *νίψ.`

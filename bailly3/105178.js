@@ -1,0 +1,1 @@
+lar[105178]=`<b>φέρ·οπλος, ος, ον</b>, qui porte une arme <i>ou</i> des armes, MAX. <i>π. κατ. 180</i>.<p><b>Étym</b>. φ. ὅπλον.`

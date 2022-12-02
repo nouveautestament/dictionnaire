@@ -1,0 +1,1 @@
+lar[20481]=`<i>adj. f. (seul. voc</i>. βοῦνι, ESCHL. <i>Suppl. 776, et acc</i>. βοῦνιν, <i>Suppl. 117, 129)</i> couvert <i>ou</i> accidenté de collines.<p><b>Étym</b>. βουνός.`

@@ -1,0 +1,1 @@
+lar[95918]=`<b>συν·θάλπω</b>, <i>anc. att</i>. <b>ξυν·θάλπω</b>, échauffer ensemble, PLUT. <i>M. 974c ;</i> GEOP. <i>19, 2, 8 ; fig</i>. ESCHL. <i>Pr. 685</i>.`

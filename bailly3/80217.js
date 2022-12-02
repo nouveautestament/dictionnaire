@@ -1,0 +1,1 @@
+lar[80217]=`<b>πιθανολογέω-ῶ</b> <font color="purple">[ῐᾰ]</font> parler d’une manière persuasive, donner des raisons spécieuses, EPIC. (DL. <i>10, 87</i>) ; ARSTT. <i>Nic. 1, 1</i> ; DS. <i>1, 39</i>.<p><b>Étym</b>. πιθανολόγος.`

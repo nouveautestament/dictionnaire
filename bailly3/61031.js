@@ -1,0 +1,1 @@
+lar[61031]=`<font color="purple">[ῐῐ]</font> <i>adv.</i> : βλέπειν, XÉN. <i>Conv. 4, 24,</i> avoir l’air pétrifié.`

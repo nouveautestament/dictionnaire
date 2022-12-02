@@ -1,0 +1,1 @@
+lar[65577]=`<i>ion</i>. <b>μητρώϊος, η, ον</b>, de la matrice, HPC. <i>Epid. 6, 5, 13</i>.<p><b>Étym</b>. μήτρα.`

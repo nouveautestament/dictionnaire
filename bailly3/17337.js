@@ -1,0 +1,1 @@
+lar[17337]=`<b>ας (ἡ)</b> pouvoir absolu, DC. <i>45, 1</i>.<p><b>Étym</b>. αὔταρχος.`

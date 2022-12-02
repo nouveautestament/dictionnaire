@@ -1,0 +1,1 @@
+lar[50580]=`<font color="darkgreen">(<i>f</i>. κανῶ <font color="purple">[ᾰ]</font>, <i>ao.2</i> ἔκανον, <i>pf</i>. κέκονα)</font> tuer, SOPH. <i>fr. 89</i> ; EUR. <i>H.f. 1075</i> ; XÉN. <i>Cyr. 4, 2, 24</i>.<p>➳ <i>Ao.2 inf. lac</i>. κανῆν, THCR. <i>24, 90. En prose, on emploie de préférence</i> κατακαίνω.<p><b>Étym</b>. κτείνω.`

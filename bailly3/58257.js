@@ -1,0 +1,1 @@
+lar[58257]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> qui a de la fortune, riche propriétaire, LYCURG. (PHOT. <i>181, 19).</i><p><b>Étym</b>. κτῆμα.`

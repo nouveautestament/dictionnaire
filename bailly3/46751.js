@@ -1,0 +1,1 @@
+lar[46751]=`<b>θεοπολέω-ῶ</b>, être attaché au culte d’une divinité, PLAT. <i>Leg. 909d</i>.<p><b>Étym</b>. *θεοπόλος, <i>cf</i>. θεηπόλος.`

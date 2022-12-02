@@ -1,0 +1,1 @@
+lar[32322]=`<b>ἐκ·φλέγω</b>, enflammer, embraser, <i>fig</i>. AR. <i>Pax 608 ; au pass</i>. PLUT. <i>M. 766a</i>.`

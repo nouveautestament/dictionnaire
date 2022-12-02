@@ -1,0 +1,1 @@
+lar[103078]=`<b>ὑπο·γλουτίς, ίδος (ἡ)</b> le bas des fesses à la naissance des cuisses, ARSTT. <i>H.A. 1, 14, 2</i> ; RUF. <i>p. 32 Clinch</i>.<p><b>Étym</b>. ὑ. γλουτός.`

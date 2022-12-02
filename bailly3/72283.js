@@ -1,0 +1,1 @@
+lar[72283]=`<b>ὀπισθο·κύφωσις, εως (ἡ)</b> <font color="purple">[ῡ]</font> courbure de l’épine dorsale, GAL. <i>12, 367c</i>.<p><b>Étym</b>. ὄπισθε, κύπτω.`

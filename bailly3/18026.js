@@ -1,0 +1,1 @@
+lar[18026]=`<b>ή, όν</b>, de chaque jour, quotidien, THEOL. <i>52</i> ; A. APHR. <i>Probl. 27, 10, etc</i>.<p><b>Étym</b>. ἀπό, ἡμερινός.`

@@ -1,0 +1,1 @@
+lar[54101]=`<b>κατ·οικονομέω-ῶ</b>, dispenser sagement, PLUT. <i>Brut. 36</i>.`

@@ -1,0 +1,1 @@
+lar[22178]=`<b>γλυκυ·πότης, ου (ὁ)</b> <font color="purple">[ῠῠ]</font> buveur de boissons douces, PHILAGR. (ORIB. <i>1, 379).</i><p><b>Étym</b>. γλ. πίνω.`

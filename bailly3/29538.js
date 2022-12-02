@@ -1,0 +1,1 @@
+lar[29538]=`<b>ἐγ·καταλιμπάνω</b> <font color="purple">[ᾰν]</font> (<i>seul. prés</i>.) abandonner, HPC. <i>Aph. 1244</i> ; ARSTT. <i>Rhet. 1, 10, 4</i>.<p><b>Étym</b>. ἐν, κ.`

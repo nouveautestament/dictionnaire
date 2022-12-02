@@ -1,0 +1,1 @@
+lar[45714]=`<font color="purple">[ᾰ]</font> <i>particul</i>. avoir la couleur du foie, ressembler au foie, DIOSC. <i>3, 25</i>.<p><b>Étym</b>. ἧπαρ.`

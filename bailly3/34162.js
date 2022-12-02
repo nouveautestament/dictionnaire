@@ -1,0 +1,1 @@
+lar[34162]=`<b>ἐνδι·αερι·αυρι·νήχετος, ος, ον</b> <font color="purple">[ᾱῐν]</font> <i>mot com</i>. qui vole (<i>litt</i>. nage) rapidement à travers les airs, AR. <i>Pax 831</i>.<p><b>Étym</b>. ἔνδιος, ἀήρ, αὖρι, νήχομαι.`

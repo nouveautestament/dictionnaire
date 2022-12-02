@@ -1,0 +1,1 @@
+lar[104322]=`<b>ὑστερό·ποινος, ος, ον</b>, qui punit plus tard, ESCHL. <i>Ag. 58, Ch. 383</i>.<p><b>Étym</b>. ὕ. ποινή.`

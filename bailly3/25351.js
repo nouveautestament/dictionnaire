@@ -1,0 +1,1 @@
+lar[25351]=`<b>δι·απορία, ας (ἡ)</b> embarras, incertitude, PLUT. <i>M. 1095c ;</i> EPIC. (DL. <i>10, 2</i>).`

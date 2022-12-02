@@ -1,0 +1,1 @@
+lar[47664]=`<i>adv</i>., en Thrace, <i>avec mouv</i>. OD. <i>8, 361</i>.<p><b>Étym</b>. Θρῄκη, -δε.`

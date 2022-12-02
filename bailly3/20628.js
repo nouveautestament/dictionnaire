@@ -1,0 +1,1 @@
+lar[20628]=`<b>βραδυ·πεπτέω-ῶ</b> <font color="purple">[ᾰῠ]</font> (<i>seul. prés</i>.) digérer lentement <i>ou</i> difficilement, DIOSC. <i>5, 49</i> ; ANTYLL. P. ÉG.<p><b>Étym</b>. βρ. πεπτός.`

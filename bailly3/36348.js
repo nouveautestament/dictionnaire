@@ -1,0 +1,1 @@
+lar[36348]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἑορτάσιμος NAZ. <i>Carm. 4, 26, p. 68c</i>.`

@@ -1,0 +1,1 @@
+lar[26528]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> hoyau à deux pointes, fossoir, Ps.-PHOCYL. <i>158</i> ; SOPH. <i>Ant. 250</i> ; EUR. <i>Ph. 1155</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

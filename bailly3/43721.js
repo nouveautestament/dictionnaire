@@ -1,0 +1,1 @@
+lar[43721]=`<b>εὔ·φλεκτος, ος, ον</b>, aisé à enflammer, inflammable, XÉN. <i>Cyr. 7, 5, 22</i> ; ARR. <i>An. 2, 19, 1</i>.<p><b>Étym</b>. εὖ, φλέγω.`

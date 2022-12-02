@@ -1,0 +1,1 @@
+lar[43124]=`<b>εὐ·πρόσφυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui croît <i>ou</i> s’attache à, <i>dat</i>. TH. <i>C.P. 1, 6, 2</i>.<p><b>Étym</b>. εὖ, προσφύω.`

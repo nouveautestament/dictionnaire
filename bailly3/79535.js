@@ -1,0 +1,1 @@
+lar[79535]=`<b>περι·τροχάω-ῶ</b>, courir tout autour, ANTH. <i>7, 338 ; fig</i>. résonner autour de, <i>acc</i>. CALL. <i>Del. 28</i>.<br><b><i>Moy.</i></b> courir autour de, <i>acc</i>. ARAT. <i>815</i>.`

@@ -1,0 +1,1 @@
+lar[11061]=`<b>ἄ·οσμος, ος, ον :<br>      1</b> inodore, ARSTT. <i>Sens. 5</i>.<br><b>      2</b> qui sent mauvais, fétide, TH. <i>C.P. 6, 16, 5</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Sens. 10</i>.<p><b>Étym</b>. ἀ, ὀσμή.`

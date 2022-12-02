@@ -1,0 +1,1 @@
+lar[60708]=`<b>ώ (ὁ)</b> Léôs, <i>héros athénien, qui, pendant une peste, offrit ses trois filles en sacrifice,</i> DÉM. <i>69, 29 Baiter-Sauppe</i> ; PLUT. <i>Thes. 13</i>.<p><b>Étym</b>. <i>cf</i>. Λεωκόραι, Λεωκόριον.`

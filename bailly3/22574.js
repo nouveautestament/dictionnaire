@@ -1,0 +1,1 @@
+lar[22574]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> <font color="purple">[μᾰ]</font> être scribe, greffier <i>ou</i> secrétaire, THC. <i>4, 118</i> ; XÉN. <i>Hell. 5, 4, 2</i> ; DÉM. <i>315 ; etc. ; avec le gén</i>. γρ. τῆς βουλῆς (= γραμματέα εἶναι) CIA. <i>1, 176, 1 (426 av. J.-C.)</i> être greffier du sénat.<p><b>Étym</b>. γραμματεύς.`

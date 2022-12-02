@@ -1,0 +1,1 @@
+lar[82097]=`<b>πολυ·μεμφής, ής, ές</b> <font color="purple">[ῠ]</font> qui se répand en plaintes <i>ou</i> en reproches, morose, NONN. <i>D. 4, 35</i>.<p><b>Étym</b>. π. μέμφομαι.`

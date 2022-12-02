@@ -1,0 +1,1 @@
+lar[105752]=`<b>φιλό·δημος, ος, ον</b> <font color="purple">[ῐ]</font> ami du peuple, populaire, AR. <i>Nub. 1187</i> ; CIC. <i>Att. 12, 6</i>.<p>•<i> Sup</i>. -ότατος, AR. <i>Eq. 787</i>.<p><b>Étym</b>. φ. δῆμος.`

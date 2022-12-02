@@ -1,0 +1,1 @@
+lar[13816]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> jus exprimé, GEOP. <i>15, 6, 1</i>.`

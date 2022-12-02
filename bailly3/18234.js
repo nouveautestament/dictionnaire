@@ -1,0 +1,1 @@
+lar[18234]=`<b>ή, όν</b>, d’Afrique, PTOL. <i>8, 9, 2, etc.</i> ; τὰ Ἀφρικανά, <i>sorte de</i> figues d’Afrique, ATH. <i>75e ;</i> ὁ Ἀ. l’Africain, <i>surn. de deux Scipions,</i> PLUT.<p><b>Étym</b>. <i>lat</i>. Afrĭcānus.`

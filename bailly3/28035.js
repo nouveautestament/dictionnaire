@@ -1,0 +1,1 @@
+lar[28035]=`<font color="darkgreen">(<i>inf. ao. pass</i>. -ισθῆναι)</font> <font color="purple">[ᾰ]</font> épiler en se servant de l’onguent δρῶπαξ, ARR. <i>Epict. 3, 22, 10</i> ; LUC. <i>Demon. 50</i>.<p><b>Étym</b>. δρῶπαξ.`

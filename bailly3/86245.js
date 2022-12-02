@@ -1,0 +1,1 @@
+lar[86245]=`<b>προσ·οχλέω-ῶ</b>, importuner en outre <i>ou</i> encore plus, ATH. <i>180a</i>.`

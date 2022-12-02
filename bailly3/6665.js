@@ -1,0 +1,1 @@
+lar[6665]=`<b>ἀν·άγωγος, ος, ον</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> sans éducation, grossier, TIMON (ATH. <i>588a</i>).<br><b>      2</b> sans conduite, déréglé, PLUT. <i>M. 140b.</i><br><b>      3</b> mal dressé (chien, cheval) XÉN. <i>Mem. 3, 3, 4</i>.<p>•<i> Sup</i>. -ότατος, TIMON <i>l. c</i>.<p><b>Étym</b>. ἀν-, ἀγωγή.`

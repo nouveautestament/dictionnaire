@@ -1,0 +1,1 @@
+lar[43623]=`<b>εὐ·τραπής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. εὐτρεπής, NIC. <i>fr. 2, 71 dout</i>.`

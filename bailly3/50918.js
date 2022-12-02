@@ -1,0 +1,1 @@
+lar[50918]=`<b>κακό·φωνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a une voix <i>ou</i> un son désagréable, ARSTT. <i>Aud. 40</i>.<p>•<i> Sup</i>. -ότατος, DH. <i>Comp. 12</i>.<p><b>Étym</b>. κ. φωνή.`

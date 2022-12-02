@@ -1,0 +1,1 @@
+lar[75534]=`<b>ας (ἡ) :<br>      1</b> récit de choses incroyables <i>ou</i> extraordinaires, ESCHN. <i>72, 24</i> ; POL. <i>3, 47, 6, etc.</i><br><b>      2</b> amour du paradoxe, PLUT. <i>M. 1071e</i>.<p><b>Étym</b>. παραδοξολόγος.`

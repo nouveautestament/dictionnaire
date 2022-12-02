@@ -1,0 +1,1 @@
+lar[84120]=`<b>εως (ἡ)</b> terreur inspirée auparavant, THC. <i>5, 11</i> ; DC. <i>Exc. 137</i>.`

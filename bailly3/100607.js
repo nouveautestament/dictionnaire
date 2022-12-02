@@ -1,0 +1,1 @@
+lar[100607]=`<b>τρίχ·απτος, ος, ον</b> <font color="purple">[ῐ]</font> tissé avec des cheveux, PHÉRÉCR. (ATH. <i>269b</i>) ; τὸ τρίχαπτον (<i>s.-e</i>. ἱμάτιον) SPT. <i>Ezech. 16, 10 et 13,</i> vêtement d’un fin tissu.<p><b>Étym</b>. θρίξ, ἅπτω.`

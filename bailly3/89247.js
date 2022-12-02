@@ -1,0 +1,1 @@
+lar[89247]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> <i>fém. de</i> σαμβυκιστής PHILÉM. (<i>Com. fr. 4, 14</i>) ; PLUT. <i>Cleom. 35, Ant. 9</i>.`

@@ -1,0 +1,1 @@
+lar[24609]=`<i>adv</i>., de façon à marquer la disjonction, DYSC. <i>Synt. 9</i> ; GAL. <i>7, 331a</i>.`

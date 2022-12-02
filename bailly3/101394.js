@@ -1,0 +1,1 @@
+lar[101394]=`<b>ὑγρό·βιος, ος, ον</b>, qui vit dans l’eau <i>ou</i> qui tire de l’eau sa subsistance, NONN. <i>D. 13, 75, etc</i>.<p><b>Étym</b>. ὑ. βίος.`

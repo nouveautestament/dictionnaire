@@ -1,0 +1,1 @@
+lar[72655]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> vent des montagnes, A. TAT. ASTR. <i>Isag. in Arat. 158a Petau</i> ; CALL. <i>fr. 35</i>.<p><b>Étym</b>. ὄρος.`

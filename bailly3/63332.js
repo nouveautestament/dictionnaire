@@ -1,0 +1,1 @@
+lar[63332]=`<font color="purple">[ᾰ]</font> se vanter, IL. <i>10, 69 (2 sg. impér</i>. -ίζεο) ; OD. <i>23, 174 (1 sg. prés</i>. -ίζομαι).<p><b>Étym</b>. μέγας.`

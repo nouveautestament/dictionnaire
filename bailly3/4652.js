@@ -1,0 +1,1 @@
+lar[4652]=`<b>Ἀλκι·μέδη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Alkimédè, <i>f</i>. A.RH. <i>1, 47</i>.<p><b>Étym</b>. ἀλκή, μέδω.`

@@ -1,0 +1,1 @@
+lar[35726]=`<b>ἐξ·εῖπα</b>, <i>ao.1,</i> SOPH. <i>El. 521 et</i> <b>ἐξεῖπον</b> (<i>inf</i>. ἐξειπεῖν) <i>ao.2,</i> dire, déclarer : τι, IL. <i>9, 61,</i> qqe ch. ; τί τινι, IL. <i>24, 654</i> ; PD. <i>I. 1, 60, etc.</i> ; τι πρός τινα, PLUT. <i>Thes. 26</i> ; τινά τι, SOPH. <i>El. 521</i> ; EUR. <i>El. 907</i> ; DÉM. <i>540, 19,</i> qqe ch. à qqn.`

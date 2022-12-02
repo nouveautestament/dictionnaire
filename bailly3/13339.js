@@ -1,0 +1,1 @@
+lar[13339]=`<b>ἀπο·σκορακίζω</b> <font color="darkgreen">(<i>f</i>. ιῶ)</font> <font color="purple">[ᾰκ]</font> envoyer aux corbeaux (<i>cf. en franç</i>. au diable), chasser avec colère <i>ou</i> mépris, PLUT. <i>M. 740a ;</i> SPT. <i>Esaï. 17, 13 ; Ps. 26, 9, etc</i>.<p><b>Étym</b>. ἀ. <i>locut</i>. ἐς κόρακας, <i>v</i>. κόραξ.`

@@ -1,0 +1,1 @@
+lar[36702]=`<b>ἐπ·ανθρακίς, ίδος (ἡ)</b> <font color="purple">[ᾰκ]</font> <i>au pl</i>. petits poissons à faire frire, AR. <i>Ach. 670, Vesp. 1127</i>.<p><b>Étym</b>. ἐπί, ἄνθραξ.`

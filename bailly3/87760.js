@@ -1,0 +1,1 @@
+lar[87760]=`<b>πυραμο·ειδής, ής, ές</b> <font color="purple">[ῡᾰ]</font> qui ressemble à une pyramide, pyramidal, ARSTT. <i>Plant. 2, 7, 9</i> ; ARR. <i>An. 5, 7, 8</i> ; τὸ π. SEXT. <i>M. 10, 280,</i> construction en forme de pyramide.<p><b>Étym</b>. πυραμίς, εἶδος.`

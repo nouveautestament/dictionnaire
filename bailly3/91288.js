@@ -1,0 +1,1 @@
+lar[91288]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., à la façon des petits chiens, SYN. <i>90a</i>.<p><b>Étym</b>. σκύλαξ, -δον.`

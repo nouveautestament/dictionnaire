@@ -1,0 +1,1 @@
+lar[109949]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> <i>dim. de</i> ψυχή, PLAT. <i>Rsp. 519a, Theæt. 195a ;</i> JUL. <i>Or. 5, 161b</i>.`

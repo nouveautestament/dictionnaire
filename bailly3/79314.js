@@ -1,0 +1,1 @@
+lar[79314]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme pour un nombre impair, JAMBL. <i>Nicom. ar. 14</i>.<p><b>Étym</b>. περισσός, -αχως.`

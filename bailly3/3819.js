@@ -1,0 +1,1 @@
+lar[3819]=`<b>ἀκρο·ποδητί</b>, <i>adv</i>., sur la pointe du pied, LUC. <i>D. mort. 27, 5 ; D. mar. 14, 3 ; Pr. 1 ; Im. 13</i>.<p><b>Étym</b>. ἄ. πούς.`

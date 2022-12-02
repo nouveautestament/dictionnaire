@@ -1,0 +1,1 @@
+lar[74533]=`<b>παλιμ·πλανής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui erre en replis sinueux, <i>en parl. d’un fleuve,</i> ANTH. <i>6, 287</i>.<p><b>Étym</b>. π. πλάνη.`

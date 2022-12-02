@@ -1,0 +1,1 @@
+lar[73002]=`<b>ου (ὁ)</b> Orontas, <i>Perse,</i> XÉN. <i>An. 3, 4, 13, etc</i>.`

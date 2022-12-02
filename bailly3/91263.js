@@ -1,0 +1,1 @@
+lar[91263]=`<font color="purple">[ῠ]</font> <i>adv</i>., comme les Scythes, STR. <i>513</i> ; PLUT. <i>Crass. 24, etc</i>.`

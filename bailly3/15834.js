@@ -1,0 +1,1 @@
+lar[15834]=`<i>voc</i>. <b>-α (ὁ)</b> Asiadatas, <i>Perse,</i> XÉN. <i>Cyr. 6, 3, 32</i>.`

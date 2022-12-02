@@ -1,0 +1,1 @@
+lar[15883]=`<b>ου (ὁ)</b> <font color="purple">[κᾰᾰ]</font> Askalaphos, <i>fils d’Arès,</i> IL. <i>2, 512, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀσκάλαφος.`

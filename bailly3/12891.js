@@ -1,0 +1,1 @@
+lar[12891]=`<b>ἀπο·μιμέομαι-οῦμαι</b> <font color="purple">[ῑ]</font><br><b>      1</b> <i>dép</i>. imiter, reproduire, XÉN. <i>Mem. 3, 10, 3</i> ; PLAT. <i>Crat. 424b, etc.</i><br><b>      2</b> <i>pass. part. pf</i>. ἀπομεμιμημένος, ATH. <i>207f, etc</i>. imité fidèlement.`

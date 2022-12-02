@@ -1,0 +1,1 @@
+lar[32223]=`<b>ἐκ·τραχύνω</b> <font color="purple">[ᾱῡ]</font><br><b>      1</b> rendre rude, LUC. <i>Pisc. 51</i>.<br><b>      2</b> <i>fig</i>. exaspérer, PLUT. <i>Alc. 14, d’où au pass</i>. ἐκτραχύνεσθαι πρός τινα, PLUT. <i>Arat. 49,</i> être aigri contre qqn.`

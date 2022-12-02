@@ -1,0 +1,1 @@
+lar[62062]=`<b>ῶν (οἱ)</b> les Lusitaniens, PLUT. <i>Sert. 10, etc. ; Eum. c. Sert. 1, etc</i>.<p><b>Étym</b>. <i>v</i>. Λυσιτανία.`

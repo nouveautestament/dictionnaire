@@ -1,0 +1,1 @@
+lar[46727]=`<b>Θεο·νόη, ης (ἡ) :<br>      1</b> l’Intelligence divine, <i>mot forgé par Platon pour expliquer le nom de</i> Ἀθήνη, PLAT. <i>Crat. 407</i>.<br><b>      2</b> Théonoè, <i>fille de Protée,</i> EUR. <i>Hel. 14</i> ; AR. <i>Th. 897</i>.<p><b>Étym</b>. θ. νόος.`

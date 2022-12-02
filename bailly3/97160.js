@@ -1,0 +1,1 @@
+lar[97160]=`<b>σωκρατό·γομφος, ος, ον</b> <font color="purple">[ᾰ]</font> composé (<i>litt</i>. chevillé) par Socrate, TÉLÉCL. (DL. <i>2, 18).</i><p><b>Étym</b>. Σωκράτης, γομφόω.`

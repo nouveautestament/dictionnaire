@@ -1,0 +1,1 @@
+lar[55802]=`<b>Κλε·άνθης, ους (ὁ)</b> Kléanthès (Cléanthe) <i>philosophe stoïcien,</i> DL. <i>7, 168</i> ; PLUT. <i>Alc. 6, etc</i>.<p>➳ <i>Acc</i>. -ην, EL. <i>N.A. 6, 50</i> ; LUC. <i>Conv. 32, etc.</i> ; -η, PLUT. <i>Vit. aer. al. 7</i>.<p><b>Étym</b>. κλ. ἄνθος.`

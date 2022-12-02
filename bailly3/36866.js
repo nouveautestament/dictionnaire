@@ -1,0 +1,1 @@
+lar[36866]=`<b>ἐπ·αυχμέω-ῶ</b> (<i>part. ao</i>. ἐπαυχμήσας) être au sec, <i>en parl. du temps,</i> SOPH. <i>fr. 470</i>.<p><b>Étym</b>. ἐπί, αὐχμός.`

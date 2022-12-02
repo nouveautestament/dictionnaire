@@ -1,0 +1,1 @@
+lar[86771]=`<b>προ·τεχνολογέω-ῶ</b>, initier à un art <i>ou</i> à une science, A. APHR. <i>Top. 8</i> ; RHÉT. <i>7, 551 W</i>.`

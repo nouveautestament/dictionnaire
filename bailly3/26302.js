@@ -1,0 +1,1 @@
+lar[26302]=`<font color="purple">[ῠ]</font> <i>v</i>. διασεύομαι.`

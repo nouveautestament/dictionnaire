@@ -1,0 +1,1 @@
+lar[102392]=`<font color="purple">[ῐ]</font> <i>adv</i>., très justement, ESCHL. <i>Ag. 1396</i>.<p><b>Étym</b>. ὑπέρδικος.`

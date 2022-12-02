@@ -1,0 +1,1 @@
+lar[58636]=`<b>ου (ὁ)</b> Kyllaros, <i>n. myth. d’h</i>. NONN. <i>D. 26, 220, etc</i>.`

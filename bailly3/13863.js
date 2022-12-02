@@ -1,0 +1,1 @@
+lar[13863]=`<b>ας (ἡ)</b> <font color="purple">[ᾱγ]</font> inaction, inertie, POL. <i>3, 103, 2</i> ; PLUT. <i>Fab. 1, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀπραγέω.`

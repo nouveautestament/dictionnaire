@@ -1,0 +1,1 @@
+lar[70973]=`<b>ὀλιγ·άνθρωπος, ος, ον</b> <font color="purple">[ῐ]</font> qui a peu d’hommes, une faible population, XÉN. <i>Œc. 4, 8</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>Lac. 1, 1</i>.<p><b>Étym</b>. ὀ. ἄνθρωπος.`

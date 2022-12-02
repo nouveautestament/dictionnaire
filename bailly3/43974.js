@@ -1,0 +1,1 @@
+lar[43974]=`<i>vb. de</i> ἐφερμηνεύω PROCL. <i>Plat. Parm. 670</i>.`

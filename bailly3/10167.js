@@ -1,0 +1,1 @@
+lar[10167]=`<b>ἀντι·παραβάλλω :<br>      1</b> mettre en face, opposer une chose à une autre : τι παρά τι, PLAT. <i>Hipp. mi. 369c ;</i> comparer à, <i>dat.,</i> ARSTT. <i>fr. 82</i>.<br><b>      2</b> contribuer à la place de, XÉN. <i>Lac. 5, 3</i>.`

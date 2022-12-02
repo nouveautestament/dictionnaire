@@ -1,0 +1,1 @@
+lar[108725]=`<b>ου (τὸ)</b> <font color="purple">[ῐκ]</font> <i>dim. de</i> χόλιξ, TH. <i>Char. 9</i>.`

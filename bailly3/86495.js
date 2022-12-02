@@ -1,0 +1,1 @@
+lar[86495]=`<b>προσ·τινάσσω</b>, <i>dor</i>. <b>ποτι·τινάσσω</b> <font color="purple">[ῐ]</font> ébranler en outre, ANTH. <i>12, 67, avec tmèse</i>.`

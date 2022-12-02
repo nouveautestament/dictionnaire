@@ -1,0 +1,1 @@
+lar[80844]=`<b>πλειστό·γονος, ος, ον</b>, né du même sein et en même temps que d’autres, PTOL. <i>Tetr. p. 110</i>.<p><b>Étym</b>. πλεῖστος, γίγνομαι.`

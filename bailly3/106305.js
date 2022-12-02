@@ -1,0 +1,1 @@
+lar[106305]=`<b>μινος (ὁ)</b> = <i>lat</i>. flamen, <i>n. d’h. rom</i>. PLUT. <i>M. 274c, 289c</i>.`

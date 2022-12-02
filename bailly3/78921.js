@@ -1,0 +1,1 @@
+lar[78921]=`<b>περι·μετρέω-ῶ</b>, mesurer tout autour, LUC. <i>Ic. 6, Nav. 12</i>.`

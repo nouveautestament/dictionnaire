@@ -1,0 +1,1 @@
+lar[48251]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰῑῐ]</font> fils de Japet, HÉS. <i>Th. 528</i> ; A.RH. <i>3, 1086</i>.<p>➳ <i>Voc</i>. -η, HÉS. <i>O. 54</i>.<p><b>Étym</b>. Ἰαπετός.`

@@ -1,0 +1,1 @@
+lar[103117]=`<font color="purple">[ᾰ]</font> <i>adv</i>., au moyen d’exemples, SEXT. <i>M. 1, 154 ; 4, 3 ; au</i> <i>• Sup</i>. SEXT. <i>M. 11, 68</i>.`

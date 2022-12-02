@@ -1,0 +1,1 @@
+lar[40246]=`<b>ἐρεβο·διφάω-ῶ</b> <font color="purple">[ῑ]</font> sonder les ténèbres de l’Érèbe, AR. <i>Nub. 192</i>.<p><b>Étym</b>. ἔρεβος, διφάω.`

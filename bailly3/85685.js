@@ -1,0 +1,1 @@
+lar[85685]=`<b>προσ·επικερτομέω-ῶ</b>, railler en outre <i>ou</i> encore plus, HÉRACLIDE LEMB. <i>Pol. 11</i>.`

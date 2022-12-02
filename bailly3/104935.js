@@ -1,0 +1,1 @@
+lar[104935]=`<b>ου (ὁ)</b> Pharnapatès, <i>général parthe,</i> PLUT. <i>Ant. 33</i>.`

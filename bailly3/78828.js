@@ -1,0 +1,1 @@
+lar[78828]=`<b>περικροτέω-ῶ</b>, retentir tout autour, DH. <i>7, 46 conj</i>.<p><b>Étym</b>. περίκροτος.`

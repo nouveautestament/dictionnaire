@@ -1,0 +1,1 @@
+lar[40896]=`<b>ου (τὸ)</b> petit Amour, LUC. <i>Philops. 14</i> ; ARISTÉN. <i>1, 19</i>.<p><b>Étym</b>. <i>dim. de</i> ἔρως.`

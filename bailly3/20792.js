@@ -1,0 +1,1 @@
+lar[20792]=`<b>ά, όν</b> <font color="purple">[ῐᾰ]</font> fort, vigoureux, <i>en parl. d’une armure (casque, etc</i>.) IL. <i>16, 413 ; 19, 380, etc</i>. COL. <i>30 ; du corps,</i> TRIPHIOD. <i>19 ; d’une racine,</i> NIC. <i>Th. 659</i>.<p><b>Étym</b>. <i>v</i>. βρί-.`

@@ -1,0 +1,1 @@
+lar[98785]=`<b>α, ον</b>, de Teuthras, EUR. <i>Lic. fr. 479 Nauck</i>.<p><b>Étym</b>. Τεύθρας.`

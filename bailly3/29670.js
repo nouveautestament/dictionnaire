@@ -1,0 +1,1 @@
+lar[29670]=`<b>εως (ἡ) :<br>      1</b> accusation, MAN. <i>1, 221</i>.<br><b>      2</b> récrimination, CLÉM. <i>345 Migne</i>.<p><b>Étym</b>. ἐγκαλέω.`

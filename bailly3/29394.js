@@ -1,0 +1,1 @@
+lar[29394]=`<b>ἐγ·γυιόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐνεγυίωσεν)</font> mettre entre les mains, SPT. <i>2Reg. 4, 35</i>.<p><b>Étym</b>. ἐν, γυῖον.`

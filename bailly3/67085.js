@@ -1,0 +1,1 @@
+lar[67085]=`<b>ῆς (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. μύκη A.RH. <i>4, 1285</i>.`

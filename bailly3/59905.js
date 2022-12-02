@@ -1,0 +1,1 @@
+lar[59905]=`<b>ης (ἡ)</b> Larymna (<i>auj</i>. Lárymna) <i>v. de Béotie,</i> PLUT. <i>Syll. 26</i>.`

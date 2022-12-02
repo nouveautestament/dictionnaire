@@ -1,0 +1,1 @@
+lar[13294]=`<b>ἀποσιτέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> cesser de manger, LUC. <i>As. 33</i>.<br><b>      2</b> n’avoir plus d’appétit, ORIB. <i>3, 104</i>.<p><b>Étym</b>. ἀπόσιτος.`

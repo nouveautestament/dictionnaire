@@ -1,0 +1,1 @@
+lar[94890]=`<b>συν·απολάμπω</b>, briller avec <i>ou</i> en même temps que, <i>dat</i>. LUC. <i>Dom. 7</i> ; μετά τινος, LUC. <i>Gall. 13,</i> avec qqe ch.`

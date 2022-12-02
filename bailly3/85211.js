@@ -1,0 +1,1 @@
+lar[85211]=`<b>προσ·αντεπιτάττω</b>, donner en outre des ordres de son côté <i>ou</i> des ordres contraires, DS. <i>38, 43</i>.`

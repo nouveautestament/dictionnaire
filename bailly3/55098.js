@@ -1,0 +1,1 @@
+lar[55098]=`<b>κεφαλό·δεσμον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> filet pour les cheveux, CHRYS. <i>1, 242 Migne</i>.<p><b>Étym</b>. κεφαλή, δεσμός.`

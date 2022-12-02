@@ -1,0 +1,1 @@
+lar[10752]=`<b>ας (ἡ)</b> action d’aller pieds nus, XÉN. <i>Lac. 2, 3</i> ; PLAT. <i>Leg. 633c</i>.<p><b>Étym</b>. ἀνυπόδητος.`

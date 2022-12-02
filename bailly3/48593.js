@@ -1,0 +1,1 @@
+lar[48593]=`<b>ἱερο·καυτέω-ῶ</b>, brûler pour un sacrifice, DS. <i>20, 65</i>.<p><b>Étym</b>. ἱ. καυτός.`

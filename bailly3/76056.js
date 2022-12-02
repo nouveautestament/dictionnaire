@@ -1,0 +1,1 @@
+lar[76056]=`<b>παρα·πικραίνω</b> <font color="purple">[ῐ]</font> <font color="darkgreen">(<i>ao</i>. παρεπίκρανα <font color="purple">[ρᾱ]</font>)</font> aigrir, exaspérer, SPT. <i>Ps. 77, 8 et 17</i> ; NT. <i>Hebr. 3, 16</i>.`

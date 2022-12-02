@@ -1,0 +1,1 @@
+lar[53993]=`<b>κατ·ευτυχέω-ῶ</b> (<i>pf</i>. κατηυτύχηκα) <font color="purple">[ῠ]</font> être heureux, réussir, ARSTT. <i>Eud. 3, 1</i> ; PLUT. <i>Sert. 18 ; au pass</i>. être mené à bonne fin, DS. <i>20, 46</i>.`

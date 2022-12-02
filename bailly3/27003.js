@@ -1,0 +1,1 @@
+lar[27003]=`<b>ης (ἡ)</b> Dirkè (Dircé) :<br><b>      1</b> <i>n. de f</i>. EUR. <i>H.f. 27</i> ; LUC. <i>As. 23 ; etc.</i><br><b>      2</b> <i>n. d’une fontaine près de Thèbes,</i> PD. <i>I. 8, 44</i> ; ESCHL. <i>Sept. 273</i> ; EUR. <i>I.T. 401, etc</i>.<p>➳ <i>Dor</i>. Δίρκα, PD. <i>l. c.</i> ; EUR. <i>H.f. 784 ; voc. dor</i>. Δίρκα, EUR. <i>Bacch. 530</i>.`

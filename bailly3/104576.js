@@ -1,0 +1,1 @@
+lar[104576]=`<b>ας (ἡ)</b> = <i>lat</i>. Fabia, <i>n. de f. rom</i>. PLUT. <i>Cato mi. 19, etc</i>.`

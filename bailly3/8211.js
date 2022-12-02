@@ -1,0 +1,1 @@
+lar[8211]=`<b>ἀν·είρω</b> <font color="darkgreen">(<i>ao</i>. ἀνεῖρα)</font> nouer, attacher, HDT. <i>3, 118</i> ; στεφάνους, AR. <i>Ach. 1006,</i> tresser <i>ou</i> nouer des couronnes ; τρίχας βελόνῃ, DC. <i>51, 14,</i> fixer des cheveux avec une aiguille.<p><b>Étym</b>. ἀνά, εἴρω.`

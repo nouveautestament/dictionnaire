@@ -1,0 +1,1 @@
+lar[43267]=`<b>εὐρύ·ζυγος, ος, ον</b> <font color="purple">[ῠγ]</font> au large joug, <i>càd</i>. à la puissance infinie (Zeus) PD. <i>fr. 291 Bgk</i>.<p><b>Étym</b>. εὐ. ζυγός.`

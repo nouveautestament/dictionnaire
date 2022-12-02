@@ -1,0 +1,1 @@
+lar[54677]=`<b>κενεαγγέω-ῶ :<br>      1</b> souffrir de la disette <i>ou</i> de la faim, HPC. <i>832, etc.</i><br><b>      2</b> être épuisé, tomber d’inanition, <i>particul</i>. perdre son sang, ARÉT. <i>Cur. m. acut. 1, 1, etc</i>.<p><b>Étym</b>. <i>cf</i>. κεναγγής.`

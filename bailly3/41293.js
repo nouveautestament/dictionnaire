@@ -1,0 +1,1 @@
+lar[41293]=`<b>ἑτερό·γλαυκος, ος, ον</b>, qui a l’un des deux yeux bleu, ARSTT. <i>G.A. 5, 1, 18</i>.<p><b>Étym</b>. ἕ. γλαυκός.`

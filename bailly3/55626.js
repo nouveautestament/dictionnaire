@@ -1,0 +1,1 @@
+lar[55626]=`<b>α, ον</b>, de Kissie, <i>en Susiane,</i> ESCHL. <i>Ch. 424, Pers. 17 (var</i>. Κίσσινος) ; Κισσίη γῆ <i>ou</i> χώρη, HDT. <i>5, 49 et 52 ; 6, 119,</i> le territoire de Kissie, <i>en Susiane</i> ; Κίσσιαι πύλαι, HDT. <i>3, 158,</i> la porte de Kissie, <i>càd</i>. de Babylone ; οἱ Κίσσιοι, HDT. <i>3, 91, etc</i>. les Kissies, <i>pple de Susiane</i>.`

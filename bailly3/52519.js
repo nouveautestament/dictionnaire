@@ -1,0 +1,1 @@
+lar[52519]=`<b>ή, όν</b>, propre à tempérer, à adoucir par le mélange, GAL. <i>19, 696 ; avec le gén</i>. GEOP. <i>12, 19, 8</i>.<p><b>Étym</b>. κατακεράννυμι.`

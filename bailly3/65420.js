@@ -1,0 +1,1 @@
+lar[65420]=`<b>ας (ἡ)</b> fonction de mèlophore, CLÉARQ. (ATH. <i>514d</i>).<p><b>Étym</b>. μηλοφόρος.`

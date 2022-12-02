@@ -1,0 +1,1 @@
+lar[66419]=`<b>μολυβδο·χοέω-οῶ</b>, fondre du plomb, AR. <i>Eccl. 1110</i>.`

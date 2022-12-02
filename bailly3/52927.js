@@ -1,0 +1,1 @@
+lar[52927]=`<b>κατ·ανοίγω</b>, ouvrir tout à fait, PHILSTR. <i>p. 913</i>.`

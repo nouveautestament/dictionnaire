@@ -1,0 +1,1 @@
+lar[82049]=`<i>gén. épq</i>. <b>αο (ὁ)</b> <font color="purple">[ῐᾱ]</font> fils de Polyktôr, <i>càd</i>. Peisandros, OD. <i>18, 299 ; 22, 243</i>.<p><b>Étym</b>. <i>patr. de</i> Πολύκτωρ.`

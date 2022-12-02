@@ -1,0 +1,1 @@
+lar[48018]=`<b>θυρεο·φόρος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui porte un bouclier long, SPT. <i>1Par. 12, 24</i> ; POL. <i>10, 29, 6</i> ; PLUT. <i>Crass. 25</i>.<p><b>Étym</b>. θυρεός, φέρω ; <i>cf</i>. θυρεαφόρος.`

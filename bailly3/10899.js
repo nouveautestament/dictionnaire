@@ -1,0 +1,1 @@
+lar[10899]=`<b>ἀξι·ήκοος, ος, ον</b>, digne d’être entendu <i>ou</i> écouté, SOCR. <i>Ep. 3</i>.<p><b>Étym</b>. ἄ. ἀκοή.`

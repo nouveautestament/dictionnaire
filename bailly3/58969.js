@@ -1,0 +1,1 @@
+lar[58969]=`<b>ῶν (οἱ)</b> = <i>lat</i>. Quirites, les Quirites, <i>n. des Sabins établis à Rome, d’où n. des Romains,</i> STR. <i>228, etc.</i> ; PLUT. <i>Rom. 29</i>.<p><b>Étym</b>. Κύρεις.`

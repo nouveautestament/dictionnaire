@@ -1,0 +1,1 @@
+lar[59541]=`<b>λαιμο·πέδη, ης (ἡ) :<br>      1</b> collier de chien, ANTH. <i>6, 35 (dor</i>. -πέδα).<br><b>      2</b> collet pour prendre les oiseaux, ANTH. <i>6, 16</i>.<p><b>Étym</b>. λ. πέδη.`

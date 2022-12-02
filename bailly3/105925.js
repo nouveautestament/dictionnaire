@@ -1,0 +1,1 @@
+lar[105925]=`<b>φιλο·μειδής, ής, ές</b> <i>gén</i>. <b>έος</b> <font color="purple">[ῐ]</font> qui aime à sourire, aimable, gai, ANTH. <i>9, 524</i> ; LUC. <i>Im. 8</i>.<p>➳ <i>Poét</i>. φιλομμειδής, IL. <i>3, 424</i> ; OD. <i>8, 362 etc</i>.<p><b>Étym</b>. <i>p</i>. *φιλοσμειδής, <i>de</i> φ. μειδιάω.`

@@ -1,0 +1,1 @@
+lar[7984]=`<b>ἀνδρα·λογία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font> levée d’hommes, SPT. <i>2Macc. 12, 43</i>.<p><b>Étym</b>. ἀνήρ, -λόγος <i>de</i> λέγω.`

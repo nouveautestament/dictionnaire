@@ -1,0 +1,1 @@
+lar[38330]=`<b>ῆς (ἡ)</b> libation, ORPH. <i>Arg. 601</i>.<p><b>Étym</b>. ἐπιλείβω.`

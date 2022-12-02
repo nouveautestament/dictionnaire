@@ -1,0 +1,1 @@
+lar[91430]=`<b>α, ον</b> <font color="purple">[μᾰ]</font> d’émeraude, HLD. <i>2, 32, 8 ; 2, 9, 26</i> ; PALÆPH. <i>31, 7</i>.<p><b>Étym</b>. σμάραγδος.`

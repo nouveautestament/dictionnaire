@@ -1,0 +1,1 @@
+lar[4674]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾱν]</font> <i>dor. c</i>. Ἀλκμαιωνίδαι, PD. <i>P. 7, 2</i>.`

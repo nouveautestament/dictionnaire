@@ -1,0 +1,1 @@
+lar[60894]=`<b>ληψ·ολιγό·μισθος, ος, ον</b>, qui reçoit un faible salaire, <i>ou p.-ê</i>. ληψι·λογό·μισθος (<i>corr. de Meineke</i>) qui reçoit un salaire pour ses leçons, <i>en parl. des philosophes de l’Académie,</i> EPHIPP. (ATH. <i>509d</i>).<p><b>Étym</b>. λαμβάνω, ὀλίγος, μισθός, <i>ou</i> λόγος, μισθός.`

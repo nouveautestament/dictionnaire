@@ -1,0 +1,1 @@
+lar[65554]=`<b>ας (ἡ)</b> meurtre de sa mère, PLUT. <i>M. 18a, 810f</i>.<p><b>Étym</b>. μητροκτόνος.`

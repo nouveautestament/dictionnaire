@@ -1,0 +1,1 @@
+lar[86462]=`<b>προ·σταφιδόω-ῶ</b> <font color="purple">[ᾰῐ]</font> transformer auparavant en raisin sec, DIOSC. <i>5, 3</i>.`

@@ -1,0 +1,1 @@
+lar[62902]=`<b>(ὁ)</b> <font color="purple">[γᾰῐ]</font> <i>ion. c</i>. μαργαρίτης, PRAXAGOR. (PHOT. <i>Bibl. 22, 12</i>).`

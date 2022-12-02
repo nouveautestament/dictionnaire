@@ -1,0 +1,1 @@
+lar[103716]=`<b>ὑπο·πορεύομαι</b>, aller à la dérobée sous, se glisser sous, PLUT. <i>Tim. 18, Cam. 5</i>.`

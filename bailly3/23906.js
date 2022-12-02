@@ -1,0 +1,1 @@
+lar[23906]=`<b>δεξιο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se montre à droite, PLUT. <i>M. 930b</i>.<p><b>Étym</b>. δεξιός, φαίνω.`

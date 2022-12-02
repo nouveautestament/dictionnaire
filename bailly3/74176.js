@@ -1,0 +1,1 @@
+lar[74176]=`<b>ων (οἱ)</b> les Padæes, <i>pple nomade de l’Inde,</i> HDT. <i>3, 99</i>.`

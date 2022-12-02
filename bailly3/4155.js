@@ -1,0 +1,1 @@
+lar[4155]=`<font color="purple">[ᾰ]</font> (<i>seul. prés. et impf.) d’ord. avec une nég.</i> : οὐκ ἀ. ne pas s’inquiéter de, <i>gén</i>. IL. <i>1, 160, etc.</i> ; HÉS. <i>Th. 171 ; postér. acc</i>. Q. SM. <i>2, 428 ; abs</i>. IL. <i>15, 106 ; rar. sans nég</i>. MUS. (ARSTT. <i>H.A. 6, 6, 1</i>) ; <i>au pass</i>. ANTH. <i>5, 18</i>.<p><b>Étym</b>. ἀλέγω.`

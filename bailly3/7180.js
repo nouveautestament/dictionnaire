@@ -1,0 +1,1 @@
+lar[7180]=`<b>ἀναμεστόω-ῶ</b>, remplir, AR. <i>Ran. 1084</i> ; LUC. <i>Philopatr. 24</i>.<p><b>Étym</b>. ἀνάμεστος.`

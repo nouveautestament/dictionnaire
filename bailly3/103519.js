@@ -1,0 +1,1 @@
+lar[103519]=`<b>ὑπο·μαρμαίρω</b>, briller en dessous <i>ou</i> un peu, Q. SM. <i>8, 48</i> ; OPP. <i>C. 3, 70</i>.`

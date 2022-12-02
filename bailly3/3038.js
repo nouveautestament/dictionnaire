@@ -1,0 +1,1 @@
+lar[3038]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>   I</b> <i>au pr.</i> :<br><b>      1</b> malpropreté, HPC. <i>Fract. 772</i>.<br><b>      2</b> impureté, souillure, PLAT. <i>Tim. 72c.</i><br><b>   II</b> <i>fig</i>. corruption, dépravation, DÉM. <i>553, 13</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. ἀκάθαρτος.`

@@ -1,0 +1,1 @@
+lar[86633]=`<b>προσ·φυσάω-ῶ</b> <font color="purple">[ῡ]</font> souffler vers <i>ou</i> sur, <i>avec</i> πρός <i>et l’acc</i>. ARSTT. <i>Mir. 144 ; fig.</i> : πόλεμον, POL. <i>11, 5, 5,</i> attiser une guerre ; τί τινι, DH. <i>11, 37,</i> répandre une chose sur une autre en soufflant.`

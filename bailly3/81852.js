@@ -1,0 +1,1 @@
+lar[81852]=`<b>πολυ·διοίκητος, ος, ον</b> <font color="purple">[ῠ]</font> très divisé, SECUND. <i>Sent. 1</i>.<p><b>Étym</b>. π. διοικέω.`

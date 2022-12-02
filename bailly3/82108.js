@@ -1,0 +1,1 @@
+lar[82108]=`<b>Πολυ·μήλη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Polymèlè, <i>f</i>. IL. <i>16, 180 ; cf</i>. πολύμηλος.`

@@ -1,0 +1,1 @@
+lar[3873]=`toucher du bout des doigts, ARISTÉN. <i>1, 4</i>.<br><b><i>Moy.</i></b> lutter sans prendre à bras le corps (<i>litt</i>. en prenant avec les avant-bras, avec les mains, <i>càd</i>. légèrement) ARSTT. <i>Nic. 3, 1, 17</i> ; τινι <i>ou</i> πρός τινα, PLAT. <i>1 Alc. 107e ;</i> POSIDON. (ATH. <i>154b</i>) avec qqn.<p><b>Étym</b>. ἀκρόχειρ.`

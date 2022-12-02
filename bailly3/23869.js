@@ -1,0 +1,1 @@
+lar[23869]=`<b>δενδρο·φυής, ής, ές</b>, qui produit des arbres, PD. (ORIG. <i>16, 3127 Migne).</i><p><b>Étym</b>. δένδρον, φύω.`

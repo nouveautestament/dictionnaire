@@ -1,0 +1,1 @@
+lar[71973]=`<b>ή, όν</b>, propre à donner un nom, PLAT. <i>Crat. 424a ;</i> ἡ τέχνη ὀν. PLAT. <i>Crat. 423d, ou simpl</i>. ἡ ὀνομαστική, PLAT. <i>Crat. 425a</i>, l’art de dénommer ; <i>s.-e</i>. πτῶσις, STR. <i>648,</i> le nominatif ; τὸ ὀνομαστικόν (<i>s.-e</i>. βιβλίον) vocabulaire.<p><b>Étym</b>. ὀνομάζω.`

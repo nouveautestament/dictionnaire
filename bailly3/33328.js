@@ -1,0 +1,1 @@
+lar[33328]=`<b>ἔμ·παλι</b> <font color="purple">[ᾰῐ]</font> <i>adv. c</i>. ἔμπαλιν ORPH. <i>H. 72, 5</i> ; ANTH. <i>7, 421 et 743, etc</i>.`

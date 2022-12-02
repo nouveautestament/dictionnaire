@@ -1,0 +1,1 @@
+lar[26823]=`<b>ης (ἡ)</b> Diopithousa, <i>mère du Gange,</i> Ps.-PLUT. <i>Fluv. p. 999 Wyttenbach</i>.`

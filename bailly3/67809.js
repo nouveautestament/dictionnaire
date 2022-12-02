@@ -1,0 +1,1 @@
+lar[67809]=`<b>Ναυσί·φιλος, ου (ὁ)</b> <font color="purple">[ῐῐ]</font> Nausiphilos, <i>h</i>. DÉM. <i>1367, 5</i>.<p><b>Étym</b>. ν. φίλος.`

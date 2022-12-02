@@ -1,0 +1,1 @@
+lar[54387]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. d’orge : πυρός, TH. <i>H.P. 8, 4, 3, etc</i>. sorte de froment semblable à de l’orge.<p><b>Étym</b>. κάχρυς.`

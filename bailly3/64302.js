@@ -1,0 +1,1 @@
+lar[64302]=`<b>μενέ·δουπος, ος, ον</b>, qui attend le bruit de pied ferme, ORPH. <i>Arg. 537</i>.<p><b>Étym</b>. μ. δοῦπος.`

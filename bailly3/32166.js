@@ -1,0 +1,1 @@
+lar[32166]=`<b>ατος (τὸ)</b> peine, amende, PLAT. <i>Leg. 868b ;</i> DH. <i>10, 52</i>.<p><b>Étym</b>. ἐκτίνω.`

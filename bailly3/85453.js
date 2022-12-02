@@ -1,0 +1,1 @@
+lar[85453]=`<b>προσ·δοξάζω :<br>      1</b> ajouter une opinion, PLAT. <i>Theæt. 201d.</i><br><b>      2</b> imaginer en outre que, EPIC. (DL. <i>10, 50, etc</i>.) ; <i>au pass</i>. STR. <i>509</i>.`

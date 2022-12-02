@@ -1,0 +1,1 @@
+lar[28344]=`<b>δυσ·έκκλητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à écarter par une évocation, difficile à écarter, NYSS. <i>1, 747b</i>.<p><b>Étym</b>. δ. ἐκκαλέω.`

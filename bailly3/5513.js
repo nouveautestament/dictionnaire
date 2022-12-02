@@ -1,0 +1,1 @@
+lar[5513]=`<b>ἀ·μετάστροφος, ος, ον</b>, qui ne se retourne pas, immuable, inflexible, inaltérable, PLAT. <i>Rsp. 620e, Leg. 950c</i>.<p>•<i> Cp</i>. -ώτερος, PLAT. <i>Epin. 982c</i>.<p><b>Étym</b>. ἀ, μεταστρέφω.`

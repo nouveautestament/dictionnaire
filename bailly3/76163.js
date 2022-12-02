@@ -1,0 +1,1 @@
+lar[76163]=`<b>ατος (τὸ)</b> tout ce qu’on porte suspendu au côté, LUC. <i>Philops. 8</i>.<p><b>Étym</b>. παραρτάω.`

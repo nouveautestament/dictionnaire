@@ -1,0 +1,1 @@
+lar[66208]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. μνησίκακος, ARR. <i>Epict. 4, 5, 12</i>.`

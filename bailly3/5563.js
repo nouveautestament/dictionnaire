@@ -1,0 +1,1 @@
+lar[5563]=`<b>ος, ον</b> <font color="purple">[χᾰ]</font> dont on ne peut venir à bout, JOS. <i>A.J. 1, 19, 7 dout</i>.<p><b>Étym</b>. ἀμηχανέω.`

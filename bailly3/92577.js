@@ -1,0 +1,1 @@
+lar[92577]=`<b>ης</b>, <i>ou</i> <b>στήτα, ας (ἡ)</b> <i>mot dorien,</i> femme, ANTH. <i>15, 26</i>.`

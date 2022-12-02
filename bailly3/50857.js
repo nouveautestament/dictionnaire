@@ -1,0 +1,1 @@
+lar[50857]=`<b>κακό·σπλαγχνος, ος, ον</b> <font color="purple">[ᾰ]</font> au cœur craintif, lâche, ESCHL. <i>Sept. 237</i>.<p><b>Étym</b>. κ. σπλάγχνον.`

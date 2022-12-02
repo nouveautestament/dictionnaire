@@ -1,0 +1,1 @@
+lar[19100]=`<b>ης (ἡ)</b> Barkè :<br><b>      1</b> <i>v. de Cyrénaïque, postér. Ptolémaïs,</i> HDT. DS. <i>etc.</i><br><b>      2</b> <i>village de Bactriane,</i> HDT.`

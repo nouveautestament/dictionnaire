@@ -1,0 +1,1 @@
+lar[82245]=`<b>πολύ·πλανος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. πολυπλάνητος ESCHL. <i>Pr. 585</i> ; EUR. <i>Ph. 661</i> ; ANTH. <i>6, 69</i>.`

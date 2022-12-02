@@ -1,0 +1,1 @@
+lar[45989]=`<b>ων (αἱ)</b> <font color="purple">[ῠ]</font> les Hèsykhides, <i>corporation de prêtresses,</i> CALL. <i>fr. 123</i>.<p><b>Étym</b>. ἡσυχία.`

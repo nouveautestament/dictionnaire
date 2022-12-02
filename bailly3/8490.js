@@ -1,0 +1,1 @@
+lar[8490]=`<font color="purple">[τᾰ]</font> <i>adv</i>., sans s’arrêter à, sans faire attention, avec négligence, POL. <i>1, 4, 4, etc.</i> ; DH. <i>Comp. 11, 3, etc</i>.`

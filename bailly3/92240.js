@@ -1,0 +1,1 @@
+lar[92240]=`<b>σταχυο·βολέω-ῶ</b> <font color="purple">[ᾰ]</font> pousser en épis, TH. <i>C.P. 1, 20, 2</i>.<p><b>Étym</b>. στ. -βολος <i>de</i> βάλλω.`

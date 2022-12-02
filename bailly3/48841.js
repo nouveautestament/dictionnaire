@@ -1,0 +1,1 @@
+lar[48841]=`<b>ἰκτεριάω-ῶ</b>, avoir la jaunisse, DIOSC. <i>3, 1</i> ; M. ANT. <i>6, 57</i> ; HLD. <i>3, 8, etc</i>.<p><b>Étym</b>. ἴκτερος.`

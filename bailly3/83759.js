@@ -1,0 +1,1 @@
+lar[83759]=`<b>προ·βασανίζω</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> éprouver <i>ou</i> essayer auparavant, HÉRON <i>245</i>.<br><b>      2</b> appliquer la question <i>ou</i> torturer auparavant, LUC. <i>Tyr. 17 ; au pass</i>. JOS. <i>A.J. 17, 5, 5</i>.`

@@ -1,0 +1,1 @@
+lar[5744]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> berger, OPP. <i>C. 3, 295</i>.<p><b>Étym</b>. <i>cf</i>. ἀμορβός.`

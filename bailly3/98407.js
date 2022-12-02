@@ -1,0 +1,1 @@
+lar[98407]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le fils de Terpès <i>ou</i> Terpios, <i>càd</i>. Phémios, OD. <i>22, 330</i>.`

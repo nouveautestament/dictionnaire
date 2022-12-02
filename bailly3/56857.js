@@ -1,0 +1,1 @@
+lar[56857]=`<b>κονδῖτος οἶνος (ὁ)</b> vin aromatisé, GEOP. <i>8, 31</i>.<p><b>Étym</b>. <i>lat</i>. condītum vīnum.`

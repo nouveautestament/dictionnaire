@@ -1,0 +1,1 @@
+lar[77475]=`<b>παχύ·δερμος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> à la peau épaisse, ARSTT. <i>G.A. 5, 3, 10</i>.<br><b>      2</b> <i>fig</i>. épais, lourd, stupide, LUC. <i>Tim. 23</i>.<p><b>Étym</b>. π. δέρμα.`

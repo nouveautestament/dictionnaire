@@ -1,0 +1,1 @@
+lar[62165]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> le fils de Lôgasos, NONN. <i>D. 36, 282</i>.`

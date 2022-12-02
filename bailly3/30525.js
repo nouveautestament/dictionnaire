@@ -1,0 +1,1 @@
+lar[30525]=`<b>εἰνά·νυχες</b> <font color="purple">[ᾰῠ]</font> <i>adv</i>., pendant neuf nuits, IL. <i>9, 470</i>.<p><b>Étym</b>. ἐννέα, νύξ.`

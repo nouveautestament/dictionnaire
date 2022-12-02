@@ -1,0 +1,1 @@
+lar[85498]=`<b>προσ·ειλέω-ῶ</b>, pousser vers <i>ou</i> sur, IL. <i>10, 347</i> ; EUR. <i>Hel. 455</i>.<br><b><i>Moy.</i></b> circonvenir, <i>dat</i>. SEXT. <i>M. 9, 3</i>.<p>➳ <i>Prés. inf. dor</i>. προτιειλεῖν, IL. <i>l. c</i>.`

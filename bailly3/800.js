@@ -1,0 +1,1 @@
+lar[800]=`<i>adv</i>., purement, saintement, HH. <i>Ap. 121</i> ; HÉS. <i>O. 339</i> ; XÉN. <i>Mem. 3, 8, 10</i>.<p><b>Étym</b>. ἁγνός.`

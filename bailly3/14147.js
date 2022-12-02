@@ -1,0 +1,1 @@
+lar[14147]=`<b>εως (ἡ)</b> <font color="purple">[ᾰρ]</font> heurt, choc, CASS. <i>Probl. 25</i>.<p><b>Étym</b>. ἀράσσω.`

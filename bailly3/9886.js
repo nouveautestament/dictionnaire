@@ -1,0 +1,1 @@
+lar[9886]=`<b>ἀντι·θεραπεύω</b> <font color="purple">[ρᾰ]</font> prendre soin de <i>ou</i> honorer en retour, XÉN. <i>Cyr. 8, 3, 49</i>.`

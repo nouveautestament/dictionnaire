@@ -1,0 +1,1 @@
+lar[38310]=`<b>ἐπι·λινευτής, οῦ (ὁ)</b> <font color="purple">[λῐ]</font> chasseur qui veille sur les filets, ANTH. <i>6, 93, conj</i>.<p><b>Étym</b>. ἐπί, λίνον.`

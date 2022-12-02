@@ -1,0 +1,1 @@
+lar[9788]=`<b>ἀντι·γέγωνα</b> (<i>pf. au sens d’un prés</i>.) répondre par un cri <i>ou</i> en criant, ANTH. <i>9, 177</i>.<p><b>Étym</b>. ἀ. γεγωνέω.`

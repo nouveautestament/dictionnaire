@@ -1,0 +1,1 @@
+lar[67098]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> dont la nature est de mugir, CORN. <i>N.D. 22, p. 194</i>.<p><b>Étym</b>. μυκάομαι.`

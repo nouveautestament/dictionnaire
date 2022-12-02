@@ -1,0 +1,1 @@
+lar[30890]=`<b>εἰσ·σκελλέω-ῶ</b>, faire sécher (les fruits) GAL. <i>6, 336a</i> (<i>d’ord</i>. εἰσκελλέω ; <i>mais cf</i>. εἰσσπάω, <i>mieux que</i> εἰσπάω).<p><b>Étym</b>. εἰς, σκέλλω.`

@@ -1,0 +1,1 @@
+lar[67722]=`<i>gén. épq</i>. <b>αο (ὁ)</b> <font color="purple">[ῐ]</font> <i>fils de Naubolos,</i> OD. <i>8, 116</i> ; A.RH. <i>1, 134</i>.<p><b>Étym</b>. <i>patr. de</i> Ναύβολος.`

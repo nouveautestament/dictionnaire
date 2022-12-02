@@ -1,0 +1,1 @@
+lar[56273]=`<b>οῦ (ὁ)</b> démangeaison, chatouillement, HPC. <i>3, 549 Kühn</i> ; ARSTT. <i>H.A. 6, 28 ; Probl. 4, 16, etc. ; fig</i>. irritation, PLUT. <i>M. 61a ; au pl</i>. PLUT. <i>M. 126b</i>).<p><b>Étym</b>. κνάω.`

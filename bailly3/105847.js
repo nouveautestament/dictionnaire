@@ -1,0 +1,1 @@
+lar[105847]=`<b>φιλό·κοινος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la communauté, le partage, ANTH. <i>9, 546</i>.<p><b>Étym</b>. φ. κοινός.`

@@ -1,0 +1,1 @@
+lar[58718]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> atteint d’esquinancie, GAL.<br><b>      2</b> qui consiste en une esquinancie, DS. <i>Exc. Vat. p. 537, 77</i>.<p><b>Étym</b>. κυνάγχη.`

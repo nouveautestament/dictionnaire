@@ -1,0 +1,1 @@
+lar[68149]=`<b>νεο·θνής, ῆτος (ὁ, ἡ)</b> mort depuis peu, PLAT. <i>Leg. 865d</i>.<p><b>Étym</b>. ν. θνῄσκω.`

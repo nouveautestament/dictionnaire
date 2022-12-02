@@ -1,0 +1,1 @@
+lar[39860]=`<b>ἐπο·ποιός, οῦ (ὁ) :<br>      1</b> poète épique, HDT. <i>2, 120</i> ; ARSTT. <i>Poet. 1, 10</i>.<br><b>      2</b> poète, <i>en gén</i>. LUC. <i>J. tr. 6</i>.<p><b>Étym</b>. ἔπος, ποιέω.`

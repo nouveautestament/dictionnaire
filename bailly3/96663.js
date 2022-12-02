@@ -1,0 +1,1 @@
+lar[96663]=`<b>σύ·σταθμος, ος, ον</b>, de même poids <i>ou</i> de dose égale, GAL. <i>Lex. Hipp. 19, 143</i>.<p><b>Étym</b>. σύν, σταθμός.`

@@ -1,0 +1,1 @@
+lar[83793]=`<b>προ·βίβημι</b> (<i>seul. part. prés. épq</i>. προβιβάς) <font color="purple">[βῐ]</font> <i>c</i>. προβαίνω, IL. <i>13, 18, 158</i> ; OD. <i>17, 27</i>.`

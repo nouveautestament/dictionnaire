@@ -1,0 +1,1 @@
+lar[65770]=`<b>μικρό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> qui a l’âme petite, <i>càd.</i> :<br><b>      1</b> qui a les sentiments peu élevés, ARSTT. <i>Nic. 4, 3, 7</i>.<br><b>      2</b> pusillanime, ISOCR. <i>76d.</i><br><b>      3</b> qui a l’âme basse, DÉM. <i>316, 9</i>.<p>•<i> Cp</i>. -ότερος, ISOCR. <i>76d</i>.<p><b>Étym</b>. μ. ψυχή.`

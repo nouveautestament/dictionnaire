@@ -1,0 +1,1 @@
+lar[23038]=`<b>ου (τὸ)</b> <i>litt</i>. petite larme, suc de la scammonée, MÉD.<p><b>Étym</b>. <i>dim. de</i> δάκρυ.`

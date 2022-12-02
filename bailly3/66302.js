@@ -1,0 +1,1 @@
+lar[66302]=`<b>α, ον</b>, divisé par portions, PD. <i>fr. 24</i>.<p><b>Étym</b>. μοῖρα.`

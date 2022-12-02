@@ -1,0 +1,1 @@
+lar[5108]=`<b>άδος</b> <font color="purple">[ᾰᾰδ]</font> <i>fém. c</i>. ἁλώϊος NONN. <i>D. 30, 68</i>.`

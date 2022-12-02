@@ -1,0 +1,1 @@
+lar[33061]=`<b>ἐμ·βαβάζω</b> <font color="purple">[βᾰβ]</font> crier : τινί, à qqn, HIPPON. <i>fr. 53 (conj. p</i>. ἐμβιβάξαντες) (ἐν, β.). (ὁ).`

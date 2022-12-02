@@ -1,0 +1,1 @@
+lar[70477]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. οἴναρον, THCR. <i>Idyl. 7, 134</i>.`

@@ -1,0 +1,1 @@
+lar[20739]=`<b>βραχυτονέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ᾰῠ]</font> être tendu trop court, PHIL. BYZ. <i>Bel. 53</i>.<p><b>Étym</b>. βραχύτονος.`

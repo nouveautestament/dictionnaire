@@ -1,0 +1,1 @@
+lar[89180]=`<b>ατος (τὸ)</b> <font color="purple">[σᾰ]</font><br><b>      1</b> agitation, ARTÉM. <i>1, 79</i>.<br><b>      2</b> allure résolue <i>ou</i> fière, D. CHR. <i>2, 326</i>.<p><b>Étym</b>. σαλεύω.`

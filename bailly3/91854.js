@@ -1,0 +1,1 @@
+lar[91854]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’ensemencer, ensemencement, PHÆNIAS (ATH. <i>61f</i>).<p><b>Étym</b>. σπερματόω.`

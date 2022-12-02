@@ -1,0 +1,1 @@
+lar[16191]=`<b>εσσα, εν :<br>      1</b> étoilé (ciel), IL. <i>4, 44</i> ; OD. <i>9, 527</i>.<br><b>      2</b> brillant comme un astre, IL. <i>16, 134 ; 18, 370</i>.<p><b>Étym</b>. ἀστήρ.`

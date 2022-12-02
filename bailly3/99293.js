@@ -1,0 +1,1 @@
+lar[99293]=`<i>seul. moy</i>. τίννυμαι (<i>seul. prés</i>. APP. <i>Syr. 65 ; Civ. 2, 110 ; et impf</i>. ἐτιννύμην, APP. <i>Samn. 12) c</i>. τίνω.`

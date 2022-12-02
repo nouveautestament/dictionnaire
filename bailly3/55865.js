@@ -1,0 +1,1 @@
+lar[55865]=`<b>Κλειτό·δικος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Kleitodikos, <i>h</i>. LYS. <i>8, 13 Baiter-Sauppe</i>.<p><b>Étym</b>. κλειτός, δίκη.`

@@ -1,0 +1,1 @@
+lar[101183]=`<b>τυφλοπλαστέω-ῶ</b>, forger (<i>litt</i>. façonner) des chimères, des fictions, PHIL. <i>1, 521, 654</i>.<p><b>Étym</b>. τυφλοπλάστης.`

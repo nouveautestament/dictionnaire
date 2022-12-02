@@ -1,0 +1,1 @@
+lar[92123]=`<b>ου</b> <font color="purple">[τᾰ]</font> <i>adj. m., seul. lat. acc</i>. stalagmian, qui coule goutte à goutte, <i>d’où subst</i>. noir de cordonnier, PLIN. <i>H.N. 34, 12, 32</i>.<p><b>Étym</b>. στάλαγμα.`

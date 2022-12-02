@@ -1,0 +1,1 @@
+lar[33660]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de montrer, déclaration, PLAT. <i>Def. 413d ;</i> SPT. <i>2Macc. 3, 9</i>.<p><b>Étym</b>. ἐμφανίζω.`

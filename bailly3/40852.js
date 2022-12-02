@@ -1,0 +1,1 @@
+lar[40852]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Érytos, <i>h</i>. PD. <i>P. 4, 319</i> ; A.RH. <i>1, 52</i>.`

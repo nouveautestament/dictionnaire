@@ -1,0 +1,1 @@
+lar[39753]=`<b>εως (ἡ)</b> action d’effleurer, EL. <i>N.A. 8, 7</i> ; PLUT. <i>M. 395e, etc</i>.<p><b>Étym</b>. ἐπιψαύω.`

@@ -1,0 +1,1 @@
+lar[34716]=`<b>ἐννεα·κέφαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à neuf têtes, ALC. (SCH.-HÉS. <i>Th. 313).</i><p><b>Étym</b>. ἐ. κεφαλή.`

@@ -1,0 +1,1 @@
+lar[83220]=`<b>(ἡ)</b> Praktis, <i>mt. d’Illyrie,</i> LYC. <i>1045</i>.`

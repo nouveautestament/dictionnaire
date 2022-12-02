@@ -1,0 +1,1 @@
+lar[48200]=`<b>*ἰαλεμίζω</b>, <i>ion</i>. <b>ἰηλεμίζω</b> <font color="darkgreen">(<i>f</i>. -ίσω)</font> <font color="purple">[ᾱ]</font> se lamenter, CALL. <i>fr. 176</i>.<p><b>Étym</b>. ἰάλεμος.`

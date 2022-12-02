@@ -1,0 +1,1 @@
+lar[79407]=`<b>περι·στιχάω</b> (<i>seul. 3 pl. prés. épq</i>. περιστιχόωσιν) <font color="purple">[τῐ]</font> se ranger <i>ou</i> être rangé en ordre tout autour, NIC. <i>Th. 442</i> ; NONN. <i>D. 26, 223</i>.`

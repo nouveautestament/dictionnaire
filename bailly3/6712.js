@@ -1,0 +1,1 @@
+lar[6712]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> procès jugé en appel, LYS. (POLL. <i>8, 23).</i><p><b>Étym</b>. ἀνάδικος.`

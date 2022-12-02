@@ -1,0 +1,1 @@
+lar[59731]=`<b>λαμπρο·πυρσό·μορφος, ος, ον</b>, aux formes radieuses de la lumière, NAZ.<p><b>Étym</b>. λ. πυρσός, μορφή.`

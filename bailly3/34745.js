@@ -1,0 +1,1 @@
+lar[34745]=`<b>ἐν·νεκρόομαι-οῦμαι</b>, faire mourir dans, <i>dat</i>. PLUT. <i>M. 792b ;</i> NAZ. <i>2, 236 Migne</i>.<p><b>Étym</b>. ἐν, νεκρός.`

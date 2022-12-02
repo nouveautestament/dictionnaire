@@ -1,0 +1,1 @@
+lar[89769]=`(<i>seul. prés</i>.) affecter d’être riche comme le faisait Eschine fils de Sellos, PHRYN. COM. <i>2-1, 584 Mein</i>., SUID.`

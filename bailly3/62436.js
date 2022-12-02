@@ -1,0 +1,1 @@
+lar[62436]=`<b>Μακεδνὸν ἔθνος (τὸ)</b> le peuple Makednon, <i>propr</i>. « la race de haute stature », <i>tribu dorienne,</i> HDT. <i>1, 56 ; 8, 43</i>.<p><b>Étym</b>. <i>v</i>. μακεδνός.`

@@ -1,0 +1,1 @@
+lar[51635]=`<b>ή, όν</b>, qu’on peut enfumer, GAL. <i>14, 501</i>.<p><b>Étym</b>. καπνίζω.`

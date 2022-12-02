@@ -1,0 +1,1 @@
+lar[80092]=`<b>πηλουργέω-ῶ</b>, travailler avec la boue <i>ou</i> l’argile, NYSS.<p><b>Étym</b>. πηλουργός.`

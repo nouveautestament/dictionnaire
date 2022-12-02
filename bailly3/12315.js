@@ -1,0 +1,1 @@
+lar[12315]=`<b>εως (ἡ)</b> expulsion, ANTYLL. <i>127, 10</i> ; GEOP. <i>13, 1, 1, etc</i>.<p><b>Étym</b>. ἀποδιώκω.`

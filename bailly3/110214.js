@@ -1,0 +1,1 @@
+lar[110214]=`<font color="purple">[ᾰ]</font> <i>crase att. p</i>. ὦ ἐλάφιον, AR. <i>Th. 1172</i>.`

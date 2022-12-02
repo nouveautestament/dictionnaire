@@ -1,0 +1,1 @@
+lar[62943]=`<b>έως (ὁ)</b> <i>sorte de chaux,</i> ARSTT. <i>Mir. 41</i>.`

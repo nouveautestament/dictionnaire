@@ -1,0 +1,1 @@
+lar[41394]=`<b>ἑτερό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui est en démence, NONN. <i>D. 9, 49 ; 12, 385</i> ; TRIPHIOD. <i>439</i> ; ANTH. <i>1, 19</i>.<p><b>Étym</b>. ἕ. φρήν.`

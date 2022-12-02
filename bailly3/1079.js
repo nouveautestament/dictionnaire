@@ -1,0 +1,1 @@
+lar[1079]=`<b>η, ον</b>, qui se presse <i>ou</i> est serré contre qqn, IL. <i>5, 141, etc.</i> ; OD. <i>22, 118</i>.<p><b>Étym</b>. ἄγχιστος.`

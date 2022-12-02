@@ -1,0 +1,1 @@
+lar[78994]=`<b>ου (τὸ)</b> petite période, ARR. <i>Epict. 2, 1, 31</i>.<p><b>Étym</b>. περίοδος.`

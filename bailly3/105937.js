@@ -1,0 +1,1 @@
+lar[105937]=`<b>φιλ·όμηρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime Homère, STR. <i>594</i> ; ATH. <i>620b</i>.<p><b>Étym</b>. φ. Ὅμηρος.`

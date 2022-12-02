@@ -1,0 +1,1 @@
+lar[97959]=`<i>adv</i>., avec confiance, résolument, POL. <i>2, 10, 7 ; 9, 9, 8</i>.<p><b>Étym</b>. <i>part. pf. de</i> θαρρέω.`

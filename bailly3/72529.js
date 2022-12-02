@@ -1,0 +1,1 @@
+lar[72529]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> fabrication d’instruments, de mécanismes, T. LOCR. <i>101e</i>.<p><b>Étym</b>. ὀργανοποιός.`

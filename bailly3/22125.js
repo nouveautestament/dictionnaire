@@ -1,0 +1,1 @@
+lar[22125]=`<b>γλοιόω-ῶ</b>, rendre gluant, <i>d’où au pass</i>. <b>γλοιόομαι-οῦμαι</b> (<i>sbj. ao. 3 sg</i>. γλοιωθῇ,) devenir visqueux <i>ou</i> gluant, DIOSC. <i>5, 92</i>.<p><b>Étym</b>. γλοιός.`

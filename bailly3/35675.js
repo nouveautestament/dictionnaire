@@ -1,0 +1,1 @@
+lar[35675]=`<b>ἑξά·φορον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> litière soutenue par six porteurs, MART. <i>2, 81, 1</i>.<p><b>Étym</b>. ἕξ, φέρω.`

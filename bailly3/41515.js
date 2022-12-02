@@ -1,0 +1,1 @@
+lar[41515]=`<b>εὐαγρέω-ῶ</b>, être heureux à la chasse, faire une bonne chasse, ANTH. <i>6, 12, 304</i> ; ATH. <i>297e</i>.<p><b>Étym</b>. εὔαγρος.`

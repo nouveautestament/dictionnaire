@@ -1,0 +1,1 @@
+lar[103759]=`être un peu roux, être roussâtre, DIOSC. <i>2, 176</i> ; AL. MYND. (ATH. <i>387f</i>).<p><b>Étym</b>. ὑπόπυρρος.`

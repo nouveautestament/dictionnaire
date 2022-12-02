@@ -1,0 +1,1 @@
+lar[21079]=`<b>ου (ὁ)</b> oronge, <i>sorte de champignon en forme de motte</i>, GAL. <i>6, 370d ;</i> P. ÉG. <i>1, 77</i> ; GEOP. <i>12, 22, 6, etc</i>.<p><b>Étym</b>. βῶλος.`

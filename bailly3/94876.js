@@ -1,0 +1,1 @@
+lar[94876]=`<b>συν·αποκατάστασις, εως (ἡ)</b> <font color="purple">[ᾰσ]</font> révolution simultanée, <i>en parl. d’un astre,</i> PTOL. <i>Tetr. 7</i>.`

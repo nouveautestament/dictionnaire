@@ -1,0 +1,1 @@
+lar[4604]=`<b>ἁλί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui a l’esprit égaré, NAUMACH. <i>63 dout</i>.<p><b>Étym</b>. ἅλιος 3, φρήν.`

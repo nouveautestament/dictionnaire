@@ -1,0 +1,1 @@
+lar[68776]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰῐ]</font> Nikomakhidès, <i>h</i>. LYS. <i>184</i>.<p>➳ <i>Voc</i>. -η, XÉN. <i>Mem. 3, 4, 1</i>.<p><b>Étym</b>. <i>patr. de</i> Νικόμαχος.`

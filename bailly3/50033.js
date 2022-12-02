@@ -1,0 +1,1 @@
+lar[50033]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑφῐ]</font> Iphiôn, <i>h</i>. PD. <i>O. 8, 106</i> ; ANTH. <i>9, 757 ; 13, 17</i>.<p>➳ <i>Épq</i>. <font color="purple">[ῑφῑ]</font> ANTH. <i>ll. cc</i>.<p><b>Étym</b>. ἶφι.`

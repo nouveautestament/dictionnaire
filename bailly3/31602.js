@@ -1,0 +1,1 @@
+lar[31602]=`<b>ἐκ·λιμνάζω</b>, <i>c</i>. ἐκλιμνόω APP. <i>Civ. 4, 107</i> ; HÉRACLITE GRAMM. <i>All. Hom. p. 421</i>.`

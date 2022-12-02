@@ -1,0 +1,1 @@
+lar[33164]=`<b>ἐμβρυο·δόχος, ος, ον</b> <font color="purple">[ῠ]</font> qui reçoit le fœtus, LUC. <i>Lex. 6</i>.<p><b>Étym</b>. ἔμβρυον, δέχομαι.`

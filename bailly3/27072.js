@@ -1,0 +1,1 @@
+lar[27072]=`<b>δί·στροφος, ος, ον :<br>      1</b> tordu <i>ou</i> tressé en double, MÉGÈS (ORIB. <i>29 Mai</i>.).<br><b>      2</b> <i>fig</i>. qui a tourné, <i>càd</i>. changé d’opinion <i>ou</i> de croyance deux fois, NAZ. <i>2, 27d</i>.<p><b>Étym</b>. δίς, στρέφω.`

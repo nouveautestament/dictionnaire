@@ -1,0 +1,1 @@
+lar[21900]=`<b>γεω·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime la terre, <i>en parl. de plantes rampantes,</i> JUL. <i>175d</i>.<p><b>Étym</b>. γῆ, χαίρω.`

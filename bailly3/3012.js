@@ -1,0 +1,1 @@
+lar[3012]=`<b>ά, όν</b>, prompt, rapide, OD. <i>4, 103</i> ; λῦσεν δ' ἀγορὴν αἰψηρήν, IL. <i>19, 276,</i> il congédia rassemblée qui se dispersa aussitôt.<p><b>Étym</b>. αἶψα.`

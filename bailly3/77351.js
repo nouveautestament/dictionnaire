@@ -1,0 +1,1 @@
+lar[77351]=`<b>ᾶς (ἡ) :<br>   I</b> descendance, lignée, <i>particul</i>. du côté paternel, HDT. <i>3, 75</i>.<br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> race, famille, SPT. <i>Ex. 12, 3, etc.</i> ; NT. <i>Eph. 3, 15</i>.<br><b>      2</b> tribu, caste, HDT. <i>1, 200</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.<p><b>Étym</b>. πατήρ.`

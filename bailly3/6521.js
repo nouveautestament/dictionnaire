@@ -1,0 +1,1 @@
+lar[6521]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font><br><b>      1</b> propre à monter (à cheval) XÉN. <i>Mem. 3, 3, 5</i>.<br><b>      2</b> qui tend à monter, à augmenter (fièvre) GAL. <i>7, 337</i>.<br><b>      3</b> que l’on peut monter (cheval, animal) JOS. <i>A.J. 15, 6, 3</i>.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>l. c</i>.<p><b>Étym</b>. ἀναβαίνω.`

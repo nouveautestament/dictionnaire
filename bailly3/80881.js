@@ -1,0 +1,1 @@
+lar[80881]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en un plus grand nombre d’endroits <i>ou</i> de parties, PLAT. <i>Rsp. 477a</i>.<p><b>Étym</b>. πλεοναχός.`

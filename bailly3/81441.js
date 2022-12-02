@@ -1,0 +1,1 @@
+lar[81441]=`<b>ή, όν</b>, de berger, pastoral, THCR. <i>Idyl. 1, 23</i> ; CALL. <i>fr. 125</i> ; ATH. <i>475d ;</i> ἡ ποιμενική (<i>s.-e</i>. τέχνη) PLAT. <i>Rsp. 345d</i>, l’art de faire paître les troupeaux.<p><b>Étym</b>. ποιμήν.`

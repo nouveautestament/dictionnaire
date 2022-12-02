@@ -1,0 +1,1 @@
+lar[74201]=`<b>παθο·λογέω-ῶ</b> <font color="purple">[ᾰ]</font> parler <i>ou</i> traiter des affections, des maladies, M. ANT. <i>8, 13</i>.<p><b>Étym</b>. π. λόγος.`

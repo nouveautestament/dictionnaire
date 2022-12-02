@@ -1,0 +1,1 @@
+lar[89994]=`<b>αγγος (ἡ) :<br>      1</b> crevasse, anfractuosité, SOPH. <i>fr. 493 Dind.</i> ; PLAT. <i>Phæd. 110a ;</i> ARSTT. <i>H.A. 5, 15, 16 ; particul</i>. antre <i>ou</i> repaire (d’un lion) THCR. <i>Idyl. 25, 223</i>.<br><b>      2</b> <i>au plur</i>. pores (des poumons), PLAT. <i>Tim. 70c</i>.`

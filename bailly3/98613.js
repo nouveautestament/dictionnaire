@@ -1,0 +1,1 @@
+lar[98613]=`<b>τετρά·μοιρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui forme la quatrième partie, le quart, EUR. <i>Rhes. 5</i>.<p><b>Étym</b>. τ. μοῖρα.`

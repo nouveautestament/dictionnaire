@@ -1,0 +1,1 @@
+lar[88750]=`<i>adv</i>., avec un bruit sifflant, <i>d’où</i> avec impétuosité, NIC. <i>Th. 556</i> ; LYC. <i>66</i>.<p><b>Étym</b>. ῥοῖζος, -δον.`

@@ -1,0 +1,1 @@
+lar[106851]=`<b>φρενο·θελγής, ής, ές</b>, qui charme l’esprit <i>ou</i> le cœur, NONN. <i>D. 1, 406</i> ; PROCL. <i>H. Mus. 17</i>.<p><b>Étym</b>. φρήν, θέλγω.`

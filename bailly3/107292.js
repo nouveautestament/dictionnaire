@@ -1,0 +1,1 @@
+lar[107292]=`<b>ῶν (οἱ)</b> les descendants de Phytalos, PLUT. <i>Thes. 12, 23</i>.<p><b>Étym</b>. Φύταλος.`

@@ -1,0 +1,1 @@
+lar[39037]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’un trait, HPC. <i>546, 23</i>.<p><b>Étym</b>. ἐπισπάω, -δην.`

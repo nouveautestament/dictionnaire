@@ -1,0 +1,1 @@
+lar[89919]=`<b>ῶν (οἱ)</b> le Parc <i>ou</i> le Clos, <i>n. de lieu,</i> ANTH. <i>7, 529</i>.<p><b>Étym</b>. <i>plur. de</i> σηκός.`

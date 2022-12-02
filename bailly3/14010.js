@@ -1,0 +1,1 @@
+lar[14010]=`<b>ἄ·πταιστος, ος, ον :<br>      1</b> qui ne fait pas de faux pas, XÉN. <i>Eq. 1, 6 ; fig</i>. qui ne fait pas de fautes, infaillible, M. ANT. <i>5, 9 ; etc.</i><br><b>      2</b> où l’on ne fait pas de faux pas, PLUT. <i>M. 691d</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>l. c</i>.<p><b>Étym</b>. ἀ, πταίω.`

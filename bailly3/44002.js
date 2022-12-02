@@ -1,0 +1,1 @@
+lar[44002]=`<b>ῆς (ἡ) :<br>      1</b> ordre, prescription, recommandation, IL. <i>14, 249 ; 19, 299, etc. ; au plur</i>. IL. <i>1, 495 ; 5, 508 ; 18, 216</i> ; OD. <i>3, 11, etc.</i> ; PD. <i>P. 2, 21</i> ; ESCHL. <i>Ch. 300, 685 ; Eum. 241</i> ; EUR. <i>I.A. 634</i>.<br><b>      2</b> prière, PD. <i>I. 5, 16</i>.<p><b>Étym</b>. ἐφίημι.`

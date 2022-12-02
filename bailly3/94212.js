@@ -1,0 +1,1 @@
+lar[94212]=`<b>συμ·περιστρέφω</b>, faire tourner ensemble autour, <i>d’où au pass</i>. tourner ensemble autour de, <i>dat</i>. ARSTT. <i>Mund. 2, 7</i> ; PLUT. <i>M. 927d</i>.`

@@ -1,0 +1,1 @@
+lar[109666]=`<b>ψευδο·βοήθεια, ας (ἡ)</b> stratagème qui consiste à feindre de porter du secours, XÉN. <i>Hipp. 5, 8</i> ; POLYEN <i>3, 9, 32</i>.`

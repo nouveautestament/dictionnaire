@@ -1,0 +1,1 @@
+lar[70530]=`<b>ης (ἡ)</b> Œnœè :<br><b>      1</b> <i>anc. n. de l’î. Sikinos, ainsi appelée d’une nymphe du même n</i>. A.RH. <i>1, 623</i>.<br><b>      2</b> <i>nymphe,</i> A.RH. <i>1, 626</i>.<p><b>Étym</b>. οἶνος.`

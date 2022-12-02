@@ -1,0 +1,1 @@
+lar[104400]=`<b>ή, όν</b>, propre à guider, à diriger, à enseigner, GAL. <i>4, 814</i> ; THRASYLL. (DL. <i>3, 49).</i><p><b>Étym</b>. ὑφηγέομαι.`

@@ -1,0 +1,1 @@
+lar[19197]=`<b>βαρύ·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰῠ]</font> au pied pesant, <i>en parl. de la massue d’Hercule, plus lourde à sa partie inférieure,</i> A. PL. <i>104</i>.<p><b>Étym</b>. β. πούς.`

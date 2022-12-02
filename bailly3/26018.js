@@ -1,0 +1,1 @@
+lar[26018]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> le fils de Didnasos, NONN. <i>D. 26, 73</i>.`

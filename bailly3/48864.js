@@ -1,0 +1,1 @@
+lar[48864]=`<i>(seul. prés.) c</i>. ἱλάομαι HH. <i>20, 5</i> <font color="purple">[ῐ]</font> ; ORPH. <i>Arg. 942</i> <font color="purple">[ῑ]</font>.`

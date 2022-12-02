@@ -1,0 +1,1 @@
+lar[71692]=`<b>ὁμο·σπόρος, ος, ον</b>, qui partage avec un autre la couche d’une femme, SOPH. <i>O.R. 460</i>.<p><b>Étym</b>. ὁμ. σπείρω.`

@@ -1,0 +1,1 @@
+lar[29137]=`<b>δωματόω-ῶ</b> (<i>pf. pass</i>. δεδωμάτωμαι) <font color="purple">[ᾰ]</font> bâtir une maison ; <i>au pass</i>. avoir une maison construite, ESCHL. <i>Suppl. 958</i>.<p><b>Étym</b>. δῶμα.`

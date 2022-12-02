@@ -1,0 +1,1 @@
+lar[88178]=`<b>ῥαβδοφορέω-ῶ</b>, porter une baguette, une verge, STR. <i>783</i>.<p><b>Étym</b>. ῥαβδοφόρος.`

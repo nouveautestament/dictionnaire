@@ -1,0 +1,1 @@
+lar[23971]=`<b>(τὸ)</b> <i>seul. nom.-acc. sg</i>. peau, SOPH. <i>fr. 16</i> ; EUR. <i>Med. 5, Ph. 1120, Ion 995</i> ; A.RH. <i>2, 120</i>.<p>➳ <i>Gén. réc</i>. δέρους (<i>var</i>. δέρατος, <i>de</i> δέρας) DS. <i>4, 56</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *der-, écorcher ; <i>cf</i>. δέρω, δέρμα.`

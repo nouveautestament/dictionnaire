@@ -1,0 +1,1 @@
+lar[109531]=`<b>ή, όν</b>, relatif aux psaumes, NYSS.<p><b>Étym</b>. ψάλμα.`

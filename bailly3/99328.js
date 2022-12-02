@@ -1,0 +1,1 @@
+lar[99328]=`<b>Τισί·φονος, ου (ὁ)</b> <font color="purple">[ῑῐ]</font> Tisiphonos, <i>tyran de Phères,</i> XÉN. <i>Hell. 6, 4, 37, etc</i>.<p><b>Étym</b>. τίω, φόνος.`

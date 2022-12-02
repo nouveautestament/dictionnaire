@@ -1,0 +1,1 @@
+lar[30447]=`<b>ατος (τὸ) :<br>      1</b> enroulement, SEXT. <i>231 Bkk.</i><br><b>      2</b> chose enroulée, <i>particul</i>. corde, AQU. <i>Ezech. 27, 24 ; cf</i>. SEXT. <i>231 Bkk.</i><br><b>      3</b> ce qu’on enroule, couverture, enveloppe, ANON. (STOB. <i>Fl. 1, 443</i>).<br><b>      4</b> colique iliaque, HPC. <i>298, 49</i>.<p><b>Étym</b>. εἰλέω.`

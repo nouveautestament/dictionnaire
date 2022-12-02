@@ -1,0 +1,1 @@
+lar[61025]=`<b>εως (ἡ)</b> <font color="purple">[λῐᾱ]</font><br><b>      1</b> maladie de la pierre, HPC. <i>512, 27</i>.<br><b>      2</b> callosité de la paupière, AÉT. <i>2, 3, 28</i>.<p><b>Étym</b>. λιθιάω.`

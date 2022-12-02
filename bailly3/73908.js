@@ -1,0 +1,1 @@
+lar[73908]=`<b>ή, όν</b>, sailli, fécondé, DIOSC. <i>2, 97</i>.<p><b>Étym</b>. <i>vb. de</i> ὀχεύω.`

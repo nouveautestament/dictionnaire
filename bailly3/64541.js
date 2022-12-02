@@ -1,0 +1,1 @@
+lar[64541]=`<b>μεσό·νεως, ως, ων</b>, placé au milieu du vaisseau, ARSTT. <i>P.A. 4, 10, 27 conj</i>.<p><b>Étym</b>. μ. ναῦς.`

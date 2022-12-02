@@ -1,0 +1,1 @@
+lar[30975]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> d’Hékatè, SOPH. <i>fr. 651</i>.<p><b>Étym</b>. Ἑκάτη.`

@@ -1,0 +1,1 @@
+lar[71034]=`<b>ας (ἡ)</b> peu de foi, ORIG. <i>c. Cels. p. 39</i>.<p><b>Étym</b>. ὀλιγόπιστος.`

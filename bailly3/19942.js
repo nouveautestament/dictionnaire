@@ -1,0 +1,1 @@
+lar[19942]=`<b>οῦ (ὁ)</b> action de se jeter de côté et d’autre, agitation (d’un malade), HPC. <i>Epid. 1, 970</i>.<p><b>Étym</b>. βληστρίζω.`

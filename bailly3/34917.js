@@ -1,0 +1,1 @@
+lar[34917]=`<b>ἐν·σαρόω-ῶ</b> <font color="purple">[ᾰ]</font> balayer dans, <i>d’où</i> ballotter dans, <i>dat</i>. LYC. <i>53</i>.`

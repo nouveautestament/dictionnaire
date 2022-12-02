@@ -1,0 +1,1 @@
+lar[105285]=`<b>φθειρο·κτόνον, ου (τὸ)</b> <i>litt</i>. « ce qui tue les poux », <i>n. de la plante</i> σταφὶς ἀγρία, DIOSC.`

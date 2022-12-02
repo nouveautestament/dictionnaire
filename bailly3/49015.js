@@ -1,0 +1,1 @@
+lar[49015]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰχῐδ]</font> fils d’Inakhos, <i>d’où au pl</i>. οἱ Ἰναχίδαι, les Inakhides, <i>càd</i>. les Argiens, EUR. <i>I.A. 1088</i> ; ANTH. <i>7, 431</i>.<p><b>Étym</b>. Ἴναχος.`

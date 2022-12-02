@@ -1,0 +1,1 @@
+lar[27070]=`<b>δί·στολος, ος, ον</b>, qui voyagent deux ensemble, SOPH. <i>O.C. 1055</i>.<p><b>Étym</b>. δίς, στέλλω.`

@@ -1,0 +1,1 @@
+lar[23983]=`(<i>seul. prés. et ao</i>.) :<br><b>      1</b> lier, enchaîner, HH. <i>6, 17</i> ; EUR. <i>Bacch. 616</i> ; PLAT. <i>Leg. 808d ;</i> ἔκ τινος, APD. <i>2, 1, 3 (ao</i>. ἐδέσμευσεν), à qqe ch.<br><b>      2</b> réunir en faisceau, en gerbe, HÉS. <i>O. 479</i>.<p><b>Étym</b>. δεσμός.`

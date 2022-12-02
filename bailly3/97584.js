@@ -1,0 +1,1 @@
+lar[97584]=`<b>τανύ·φυλλος, ος, ον</b> <font color="purple">[ᾰῠφ]</font><br><b>      1</b> aux longues feuilles, OD. <i>13, 102</i>.<br><b>      2</b> couvert de feuillage, THCR. <i>Idyl. 25, 221</i>.<p><b>Étym</b>. τανυ-, φύλλον.`

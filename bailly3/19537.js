@@ -1,0 +1,1 @@
+lar[19537]=`<b>έων (οἱ) :<br>      1</b> les habitants de Bénévent, APP. <i>Hann. 36</i>.<br><b>      2</b> Bénévent (<i>v</i>. βενεουεντόν) POL. <i>39, 90</i>.`

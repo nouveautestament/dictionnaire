@@ -1,0 +1,1 @@
+lar[51255]=`<b>ας (ἡ)</b> <font color="purple">[λῐ]</font><br><b>      1</b> belle voix, son agréable, DH. <i>Rhet. 1, 5 ; 4, 1</i> ; LUC. <i>Pisc. 22</i>.<br><b>      2</b> <i>t. de gr</i>. euphonie, PORPH. <i>Pros. 115</i> ; SCH.-D. THR. <i>675, 14</i>.<p><b>Étym</b>. καλλίφωνος.`

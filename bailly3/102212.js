@@ -1,0 +1,1 @@
+lar[102212]=`<b>ὑπ·επιμερής, ής, ές</b>, inférieur <i>ou</i> diminué d’une certaine quantité, <i>en parl. d’un nombre,</i> NICOM. <i>Arithm. 1, 9</i>.`

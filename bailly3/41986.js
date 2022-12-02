@@ -1,0 +1,1 @@
+lar[41986]=`<b>εὐ·ένδοτος, ος, ον</b>, qui cède facilement, mou, STR. <i>740</i> ; HIPPIATR. <i>p. 34, 11</i>.<p><b>Étym</b>. εὖ, ἐνδίδωμι.`

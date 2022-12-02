@@ -1,0 +1,1 @@
+lar[15841]=`<i>ion</i>. <b>Ἀσίης (ὁ)</b> Asias <i>ou</i> Asiès, <i>h</i>. HDT. DH.<p>➳ <i>Gén. ion</i>. Ἀσίεω, HDT. <i>4, 45</i>.`

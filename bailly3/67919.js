@@ -1,0 +1,1 @@
+lar[67919]=`<b>νεβρο·τόκος, ος, ον</b>, qui met bas un faon, NIC. <i>Th. 142</i>.<p><b>Étym</b>. ν. τίκτω.`

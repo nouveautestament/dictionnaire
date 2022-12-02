@@ -1,0 +1,1 @@
+lar[87235]=`<b>πρωτο·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> première atteinte d’un mal, GAL. <i>7, 338</i>.`

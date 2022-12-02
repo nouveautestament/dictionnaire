@@ -1,0 +1,1 @@
+lar[22962]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> qui tue, ESCHL. <i>Suppl. 798</i>.`

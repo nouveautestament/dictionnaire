@@ -1,0 +1,1 @@
+lar[75663]=`<b>παρα·κάθημαι</b> (<i>seul. prés. et impf</i>.) être assis auprès de, <i>dat</i>. AR. <i>Ran. 1492</i> ; THC. <i>6, 13, etc. ; abs</i>. PLAT. <i>Prot. 320c ; en parl. d’une troupe,</i> se poster auprès, POL. <i>9, 44, 2</i>.`

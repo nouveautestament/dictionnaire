@@ -1,0 +1,1 @@
+lar[62439]=`<font color="purple">[ᾰ]</font><br><b>      1</b> être du parti des Macédoniens, POL. <i>20, 5, 5 et 13</i> ; PLUT. <i>Alex. 30</i>.<br><b>      2</b> parler macédonien, PLUT. <i>Ant. 27</i> ; ATH. <i>122a</i>.<p><b>Étym</b>. Μακεδών.`

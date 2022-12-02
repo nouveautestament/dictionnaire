@@ -1,0 +1,1 @@
+lar[71436]=`<b>ὁμο·βουλέω-ῶ</b>, délibérer ensemble, PLUT. <i>M. 96e</i>.`

@@ -1,0 +1,1 @@
+lar[6475]=`<b>ἀμφ·ώης, ης, ες</b>, à deux oreilles <i>ou</i> à deux anses, THCR. <i>Idyl. 1, 28</i>.<p><b>Étym</b>. ἀ. οὖς.`

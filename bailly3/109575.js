@@ -1,0 +1,1 @@
+lar[109575]=`<b>ή, όν</b>, mêlé de sable, sablé, SPT. <i>Sir. 22, 17</i>.<p><b>Étym</b>. *ψαμμόω, <i>de</i> ψάμμος.`

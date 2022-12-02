@@ -1,0 +1,1 @@
+lar[42188]=`<b>εὔ·θηλος, ος, ον</b>, aux mamelles pleines de lait, <i>p. ext</i>. aux mamelles gonflées, EUR. <i>I.A. 580, Bacch. 737</i> ; LYC. <i>1328</i>.<p><b>Étym</b>. εὖ, θηλή.`

@@ -1,0 +1,1 @@
+lar[93173]=`<b>συγ·γαμέω-ῶ</b> <font color="purple">[ᾰ]</font> épouser ensemble <i>ou</i> en même temps, SEXT. <i>M. 10, 99</i>.<p><b>Étym</b>. σύν, γαμέω.`

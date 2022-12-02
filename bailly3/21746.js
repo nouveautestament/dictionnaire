@@ -1,0 +1,1 @@
+lar[21746]=`<b>γεραιό·φρων, ονος (ὁ, ἡ)</b> qui a l’esprit d’un vieillard, <i>càd</i>. avisé, prudent, ESCHL. <i>Suppl. 361, conj. ; cf</i>. παλαιόφρων.<p><b>Étym</b>. γεραιός, φρήν.`

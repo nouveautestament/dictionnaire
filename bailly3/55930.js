@@ -1,0 +1,1 @@
+lar[55930]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> fils de voleur, PHÉRÉCR. <i>fr. 233 (Cobet</i> κλεπτιδεύς).<p><b>Étym</b>. κλέπτης.`

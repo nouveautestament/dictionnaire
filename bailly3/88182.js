@@ -1,0 +1,1 @@
+lar[88182]=`<b>ης (ἡ)</b> = <i>lat</i>. Ravenna, Ravenne, <i>v. de la Gaule Cispadane,</i> PLUT. <i>Mar. 2, etc</i>.`

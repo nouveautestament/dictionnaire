@@ -1,0 +1,1 @@
+lar[50925]=`<b>κακό·χυλος, ος, ον</b> <font color="purple">[ᾰῡ]</font> qui a un mauvais chyle, un mauvais suc, DIPH. SIPHN. (ATH. <i>54b</i>).<p>•<i> Cp</i>. -ότερος, ATH. <i>68f, 80c</i>.<p><b>Étym</b>. κ. χυλός.`

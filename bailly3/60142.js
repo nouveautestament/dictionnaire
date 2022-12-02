@@ -1,0 +1,1 @@
+lar[60142]=`<b>λειοτριχιάω-ῶ</b> <font color="purple">[ῐχ]</font> <i>c</i>. λειοτριχέω SOPHR. (ATH. <i>106e</i>).`

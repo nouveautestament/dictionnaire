@@ -1,0 +1,1 @@
+lar[7464]=`<b>ἀν·απότευκτος, ος, ον</b>, qui obtient ce qu’il désire, ARR. <i>Epict. 1, 4, 11, etc. ; en parl. du désir lui-même,</i> non satisfait, ARR. <i>Epict. 2, 8, 29</i>.<p><b>Étym</b>. ἀν-, ἀποτυγχάνω.`

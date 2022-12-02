@@ -1,0 +1,1 @@
+lar[32304]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec une parole impie, <i>sel. d’autres,</i> à haute voix, ouvertement, ESCHL. <i>Ag. 706</i>.<p><b>Étym</b>. ἔκφημι.`

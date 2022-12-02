@@ -1,0 +1,1 @@
+lar[75119]=`<b>έως</b>, <i>ion</i>. <b>ῆος (ὁ)</b> <font color="purple">[ᾰ]</font> Panopée (<i>auj</i>. ruines près d’Áyios Vlásios) <i>v. de Phocide, sur la frontière de Béotie,</i> IL. <i>2, 520 ; 17, 307</i> ; OD. <i>11, 581</i> ; HDT. <i>8, 35, etc</i>.`

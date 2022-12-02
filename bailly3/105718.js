@@ -1,0 +1,1 @@
+lar[105718]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour de l’agriculture, XÉN. <i>Œc. 20, 25</i>.<p><b>Étym</b>. φιλογέωργος.`

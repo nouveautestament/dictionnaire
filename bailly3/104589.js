@@ -1,0 +1,1 @@
+lar[104589]=`<b>ατος (τὸ)</b> <font color="purple">[φᾰ]</font> ulcère rongeur, PALLAD. <i>de Febr. 7</i>.<p><b>Étym</b>. φαγεδαινόω.`

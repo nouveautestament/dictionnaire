@@ -1,0 +1,1 @@
+lar[38852]=`<b>      1</b> fermer avec un couvercle, HPC. <i>423, 30</i> ; SPT. <i>Ps. 68, 16</i>.<br><b>      2</b> <i>p. suite,</i> recouvrir, abriter, masquer, HÉRON <i>Aut. 258</i>.<p><b>Étym</b>. ἐπίπωμα.`

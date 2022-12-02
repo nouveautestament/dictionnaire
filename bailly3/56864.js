@@ -1,0 +1,1 @@
+lar[56864]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> gonflé comme une articulation, HPC. <i>841, 844, 893</i> ; DIOSC. <i>1, 146</i> ; GAL. <i>2, 763, etc</i>.<p><b>Étym</b>. κόνδυλος, -ωδης.`

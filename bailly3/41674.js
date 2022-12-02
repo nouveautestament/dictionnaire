@@ -1,0 +1,1 @@
+lar[41674]=`<b>εὐ·αυξής, ής, ές</b>, qui pousse vite <i>ou</i> facilement, ARSTT. <i>H.A. 1, 13, 4</i> ; TH. <i>H.P. 3, 6, 1</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>P.A. 3, 12 ; • Sup</i>. -έστατος, TH. <i>l. c</i>.<p><b>Étym</b>. εὖ, αὐξάνω.`

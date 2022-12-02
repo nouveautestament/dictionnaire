@@ -1,0 +1,1 @@
+lar[93069]=`<b>ητος (ἡ) :<br>      1</b> tristesse, PLUT. <i>Mar. 43</i>.<br><b>      2</b> aspect sombre, triste, morne, <i>en parl. de choses,</i> POL. <i>4, 21, 1</i>.<p><b>Étym</b>. στυγνός.`

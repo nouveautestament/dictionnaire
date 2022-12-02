@@ -1,0 +1,1 @@
+lar[36474]=`<i>vb. de</i> ἐπάγω, CIC. <i>Att. 9, 4, 2</i> ; DH. <i>Rhet. 2, 6</i> ; LUC. <i>H. conscr. 9</i> ; SEXT. <i>152, 23 Bkk</i>.`

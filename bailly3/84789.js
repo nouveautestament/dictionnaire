@@ -1,0 +1,1 @@
+lar[84789]=`<b>προ·νομία, ας (ἡ)</b> privilège, STR. <i>709</i> ; PLUT. <i>M. 279b, etc.</i> ; LUC. <i>Abd. 23, etc</i>.<p><b>Étym</b>. π. νόμος.`

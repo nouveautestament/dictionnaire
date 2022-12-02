@@ -1,0 +1,1 @@
+lar[58670]=`<b>κυματό·τροφος, ος, ον</b> <font color="purple">[ῡᾰ]</font> nourri par les flots, qui vit dans les flots, EUR. <i>fr. 637 Nauck</i>.<p><b>Étym</b>. κ. τρέφω ; <i>v</i>. κυματοφθόρος.`

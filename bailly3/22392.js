@@ -1,0 +1,1 @@
+lar[22392]=`<b>ατος (τὸ)</b> fascination, <i>d’où</i> charlatanisme, imposture, PLAT. <i>Phil. 44c ;</i> ALCIPHR. <i>3, 17</i> ; EL. <i>N.A. 3, 17 ; etc</i>.<p><b>Étym</b>. γοητεύω.`

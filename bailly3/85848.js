@@ -1,0 +1,1 @@
+lar[85848]=`<i>adv</i>., avec douceur, TH. <i>Char. 17</i> ; DS. <i>2, 57</i>.<p>•<i> Cp</i>. προσηνεστέρως, POL. <i>Exc. Vat. p. 456</i>.<p><b>Étym</b>. προσηνής.`

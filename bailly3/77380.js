@@ -1,0 +1,1 @@
+lar[77380]=`<b>πατρο·κόμος, ος, ον</b>, qui prend soin de son père, NONN. <i>D. 26, 103</i>.<p><b>Étym</b>. π. κομέω.`

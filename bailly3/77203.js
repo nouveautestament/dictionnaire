@@ -1,0 +1,1 @@
+lar[77203]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> ressemblance de nom, nom dérivé d’un autre, paronymie, GRAMM.<br><b>      2</b> surnom avec ressemblance de forme, PLUT. <i>M. 401a, etc.</i><br><b>      3</b> <i>c</i>. παρονομασία, PLUT. <i>M. 853b</i>.<p><b>Étym</b>. παρώνυμος.`

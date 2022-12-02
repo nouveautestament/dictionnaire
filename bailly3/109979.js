@@ -1,0 +1,1 @@
+lar[109979]=`<b>ψυχο·πλανής, ής, ές</b> <font color="purple">[ῡᾰ]</font> qui égare les âmes, ANTH. <i>9, 524, 24</i>.<p><b>Étym</b>. ψ. πλανάω.`

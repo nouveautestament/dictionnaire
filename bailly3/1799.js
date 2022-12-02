@@ -1,0 +1,1 @@
+lar[1799]=`<b>ἀερο·πέτης, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui vole dans les airs, HORAP. <i>2, 124</i>.<p><b>Étym</b>. ἀ. πέτομαι.`

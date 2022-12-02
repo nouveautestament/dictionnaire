@@ -1,0 +1,1 @@
+lar[92035]=`<b>ῆς (ἡ)</b> Spoudè, <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. <i>v</i>. σπουδή.`

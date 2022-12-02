@@ -1,0 +1,1 @@
+lar[60241]=`<b>λεκιθίτης ἄρτος (ὁ)</b> <font color="purple">[ῐθῑ]</font> pain préparé avec des jaunes d’œuf <i>ou</i> de la purée de légumes, SÉLEUC. (ATH. <i>114b</i>).<p>➳ <i>Dor</i>. λεκιθίτας <font color="purple">[ᾱ]</font> ATH. <i>360c</i>.<p><b>Étym</b>. λέκιθος.`

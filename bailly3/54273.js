@@ -1,0 +1,1 @@
+lar[54273]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. du Caucase, <i>au plur. en parl. des Amazones,</i> NONN. <i>D. 36, 267</i>.<p><b>Étym</b>. Καύκασος.`

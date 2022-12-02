@@ -1,0 +1,1 @@
+lar[106724]=`<b>φορτηγέω-ῶ</b>, porter des fardeaux, être portefaix, HDT. <i>2, 96 ; en parl. de bêtes de somme,</i> LUC. <i>As. 33, etc</i>.<p><b>Étym</b>. φορτηγός.`

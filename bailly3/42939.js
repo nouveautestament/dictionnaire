@@ -1,0 +1,1 @@
+lar[42939]=`<b>εὐ·πάρεδρος, ος, ον</b>, assidu près de, fidèle à, <i>dat</i>. NT. <i>1Cor. 7, 35</i>.`

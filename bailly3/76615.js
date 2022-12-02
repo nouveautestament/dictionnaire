@@ -1,0 +1,1 @@
+lar[76615]=`<b>παρ·εκθέω :<br>      1</b> passer en courant le long de, <i>acc</i>. A.RH. <i>1, 592</i>.<br><b>      2</b> <i>abs</i>. passer au delà de, pénétrer, ARÉT. <i>Cur. m. diut. 2 fin</i>.`

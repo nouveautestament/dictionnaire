@@ -1,0 +1,1 @@
+lar[75184]=`<b>(ὁ)</b> Pantakyas (<i>p.-ê. auj</i>. Fiume di Porcari) <i>fl. de Sicile,</i> THC. <i>6, 4</i>.`

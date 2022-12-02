@@ -1,0 +1,1 @@
+lar[27185]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> partagé en deux, A.RH. <i>3, 397 ; adv</i>. διχθάδια, IL. <i>14, 21,</i> en deux.<br><b>      2</b> double, IL. <i>9, 411</i> ; A. PL. <i>1, 15</i>.<p><b>Étym</b>. διχθάς.`

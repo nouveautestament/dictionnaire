@@ -1,0 +1,1 @@
+lar[107469]=`<b>οῦ (ὁ)</b> salutation, visite des clients aux patriciens, <i>à Rome,</i> ANTH. <i>1, 114</i> ; POL. <i>32, 15, 8</i>.<p><b>Étym</b>. χαιρετίζω.`

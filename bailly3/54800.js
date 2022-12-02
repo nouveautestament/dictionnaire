@@ -1,0 +1,1 @@
+lar[54800]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de potier, DS. <i>4, 16</i> ; LUC. <i>Am. 11</i>.<p><b>Étym</b>. κεραμεύς.`

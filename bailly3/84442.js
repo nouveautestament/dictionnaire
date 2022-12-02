@@ -1,0 +1,1 @@
+lar[84442]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. πρόξ, HH. <i>Ven. 71</i>.`

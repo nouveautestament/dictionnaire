@@ -1,0 +1,1 @@
+lar[68680]=`<b>έως</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. sobre, <i>ép. d’Apollon,</i> ANTH. <i>9, 525</i>.<p><b>Étym</b>. νηφάλιος.`

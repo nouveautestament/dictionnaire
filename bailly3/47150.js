@@ -1,0 +1,1 @@
+lar[47150]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> pierre à aiguiser, ESCHL. <i>Ag. 1536</i> ; SOPH. <i>Aj. 820 ; p. ext</i>. aiguillon, ESCHL. <i>Eum. 859</i>.<p><b>Étym</b>. θήγω.`

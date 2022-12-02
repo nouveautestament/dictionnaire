@@ -1,0 +1,1 @@
+lar[74385]=`<b>α, ον</b>, qui ressemble à un chant de victoire, à un péan, ESCHL. <i>Pers. 605</i>.<p><b>Étym</b>. παιάν.`

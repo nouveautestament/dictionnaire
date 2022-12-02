@@ -1,0 +1,1 @@
+lar[74572]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui a tendance à revenir en arrière, STR. <i>53</i>.<p><b>Étym</b>. παλίνδρομος.`

@@ -1,0 +1,1 @@
+lar[100588]=`<b>τριφολῖνος οἶνος (ὁ)</b> <i>sorte de</i> vin d’Italie, GAL. (ATH. <i>26e</i>).`

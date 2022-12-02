@@ -1,0 +1,1 @@
+lar[69431]=`<b>ας (ἡ)</b> Xenéa, <i>chevrière,</i> THCR. <i>Idyl. 7, 73</i>.`

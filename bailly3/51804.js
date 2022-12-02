@@ -1,0 +1,1 @@
+lar[51804]=`AR. <i>Th. 1195, barbarisme d’un Scythe pour le mot</i> χαρίσω.`

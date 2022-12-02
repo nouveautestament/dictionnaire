@@ -1,0 +1,1 @@
+lar[104665]=`<b>Φαινό·κριτος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Phænokritos, <i>h</i>. ANTH. <i>7, 716</i>.<p><b>Étym</b>. φαίνω, κρίνω.`

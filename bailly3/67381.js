@@ -1,0 +1,1 @@
+lar[67381]=`<b>μυρτο·πέταλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> sorte de plante, DIOSC. <i>Noth. 586</i>.<p><b>Étym</b>. μύρτος, πέταλον.`

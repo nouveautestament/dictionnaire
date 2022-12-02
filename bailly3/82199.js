@@ -1,0 +1,1 @@
+lar[82199]=`<b>πολύ·ορκος, ος, ον</b>, qui prononce beaucoup de serments, SPT. <i>Sir. 23, 10</i>.<p><b>Étym</b>. π. ὅρκος.`

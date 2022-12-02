@@ -1,0 +1,1 @@
+lar[82285]=`<b>πολύ·πορος, ος, ον</b> <font color="purple">[ῠ]</font> qui a beaucoup de passages, d’ouvertures, de pores, PLUT. <i>M. 650c</i>.<p><b>Étym</b>. π. πόρος.`

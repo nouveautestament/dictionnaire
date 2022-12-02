@@ -1,0 +1,1 @@
+lar[49379]=`<b>Ἱππό·λυτος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Hippolyte, <i>fils de Thésée,</i> XÉN. <i>Cyn. 1, 11</i> ; PLAT. <i>Leg. 687e, etc.</i> ; EUR. <i>Hipp. 11, etc</i>.<p><b>Étym</b>. <i>v</i>. ἱππόλυτος.`

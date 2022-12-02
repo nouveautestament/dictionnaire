@@ -1,0 +1,1 @@
+lar[2819]=`<b>αἱρησι·τείχης, ου (ὁ)</b> <font color="purple">[ῐ]</font> le preneur de remparts <i>ou</i> de forteresses, <i>comédie de Diphile,</i> ATH. <i>496e</i>.<p><b>Étym</b>. αἱρέω, τεῖχος.`

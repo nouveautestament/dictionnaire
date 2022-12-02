@@ -1,0 +1,1 @@
+lar[43465]=`<b>Εὐ·στάφυλος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> l’homme aux belles grappes, ALCIPHR. <i>3, 22</i>.<p><b>Étym</b>. εὖ, σταφυλή.`

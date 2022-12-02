@@ -1,0 +1,1 @@
+lar[80166]=`<b>ος, ον</b> <font color="purple">[ῑᾰ]</font> gras, HPC. <i>649, 42</i>.<p><b>Étym</b>. πίων.`

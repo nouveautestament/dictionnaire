@@ -1,0 +1,1 @@
+lar[15123]=`<b>ἀρρενοποιέω-ῶ</b>, rendre masculin, PTOL. <i>Tetr. p. 69</i>.<p><b>Étym</b>. ἀρρενοποιός.`

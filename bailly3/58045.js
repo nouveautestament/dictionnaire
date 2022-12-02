@@ -1,0 +1,1 @@
+lar[58045]=`<b>ης, ες</b>, semblable à un fil, PLAT. <i>Pol. 309b</i>.<p><b>Étym</b>. κρόκη, -ωδης.`

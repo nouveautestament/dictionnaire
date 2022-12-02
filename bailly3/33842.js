@@ -1,0 +1,1 @@
+lar[33842]=`<b>ἐν·αλιταίνω</b> <font color="purple">[ᾰλῐ]</font> (<i>3 sg. ao.2</i> ἐνήλιτε) commettre une faute dans, Q. SM. <i>14, 436</i>.`

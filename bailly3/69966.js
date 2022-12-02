@@ -1,0 +1,1 @@
+lar[69966]=`<b>ή, όν</b>, qui s’exerce aux jeux du gymnase couvert, GAL. <i>13, 854</i>.<p><b>Étym</b>. ξυστός.`

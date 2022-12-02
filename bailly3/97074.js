@@ -1,0 +1,1 @@
+lar[97074]=`<b>ᾶς (ἡ) :<br>      1</b> touffe de jonc, TH. <i>H.P. 4, 12, 2</i>.<br><b>      2</b> ligature avec du jonc, <i>d’où</i> tresse, JOS. <i>A.J. 12, 2, 10</i>.<br><b>      3</b> mesure qu’on prend avec une corde, STR. <i>379</i>.<p><b>Étym</b>. σχοῖνος.`

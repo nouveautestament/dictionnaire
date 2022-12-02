@@ -1,0 +1,1 @@
+lar[13302]=`<b>ἀπο·σκαρίζω</b> <font color="purple">[ᾰ]</font> mourir dans les convulsions, ANTH. <i>9, 114</i> ; SPT. <i>Jud. 4, 21</i>.`

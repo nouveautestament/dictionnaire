@@ -1,0 +1,1 @@
+lar[45687]=`<b>ης (ἡ)</b> <i>propr</i>. virilité, <i>d’où</i> :<br><b>      1</b> courage, force, IL. <i>8, 226, etc.</i> ; OD. <i>24, 509</i> ; PD. <i>O. 8, 89 ; N. 3, 34 ; I. 4, 18</i> ; A.RH. <i>3, 189, etc.</i><br><b>      2</b> beauté virile, IL. <i>6, 156</i>.<p>➳ <i>Dor</i>. ἀνορέα, PD. <i>ll. cc</i>.<p><b>Étym</b>. ἀνήρ.`

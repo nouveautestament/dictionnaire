@@ -1,0 +1,1 @@
+lar[45395]=`<b>ἡμι·γένειος, ος, ον</b> <font color="purple">[ῐ]</font> à demi barbu, THCR. <i>Idyl. 6, 3</i>.<p><b>Étym</b>. ἡμι-, γένειον ; <i>sel. Ahrens</i> ἠνιγένειος, dont la barbe est toute nouvelle, déjà barbu, <i>de</i> ἦνις, γένειον.`

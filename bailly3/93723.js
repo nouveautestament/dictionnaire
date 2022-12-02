@@ -1,0 +1,1 @@
+lar[93723]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> de sycophante, calomnieux, DÉM. <i>967, 11</i> ; PHILSTR. <i>V. Ap. 7, 27</i>.<p><b>Étym</b>. συκοφάντης.`

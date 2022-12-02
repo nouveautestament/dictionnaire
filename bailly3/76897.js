@@ -1,0 +1,1 @@
+lar[76897]=`<i>adv</i>., comme une jeune fille, EUR. <i>5, 198 ; 6, 226</i>.`

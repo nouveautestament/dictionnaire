@@ -1,0 +1,1 @@
+lar[2258]=`<b>οῦ (ὁ)</b> <font color="purple">[γῐ]</font> Ægimios, <i>héros dorien,</i> PD. <i>P. 1, 124 ; 5, 96</i>.`

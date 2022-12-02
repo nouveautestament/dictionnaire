@@ -1,0 +1,1 @@
+lar[6946]=`<b>ων (τὰ)</b> fête pour proclamer l’avènement d’un roi, <i>en Égypte,</i> POL. <i>18, 38, 3 ; 28, 10, 8</i>.<p><b>Étym</b>. ἀνακαλέω.`

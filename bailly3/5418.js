@@ -1,0 +1,1 @@
+lar[5418]=`<b>ἀ·μέλαθρος, ος, ον</b>, sans toit, sans maison, MAN. <i>4, 113</i>.<p><b>Étym</b>. ἀ, μέλαθρον.`

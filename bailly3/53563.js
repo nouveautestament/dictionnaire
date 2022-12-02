@@ -1,0 +1,1 @@
+lar[53563]=`<b>κατα·τοκίζω</b>, ruiner par l’usure, ARSTT. <i>Pol. 2, 12</i> ; MARCELL. <i>V. Thuc. 4</i>.<p><b>Étym</b>. κ. τόκος.`

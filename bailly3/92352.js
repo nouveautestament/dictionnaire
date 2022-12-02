@@ -1,0 +1,1 @@
+lar[92352]=`<b>ή, όν :<br>      1</b> gémissant, plaintif, EUR. <i>Ph. 1302</i>.<br><b>      2</b> lamentable, SOPH. <i>O.C. 1663</i> ; EUR. <i>H.f. 917</i>.<p><b>Étym</b>. <i>vb. de</i> στενάζω.`

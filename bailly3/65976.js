@@ -1,0 +1,1 @@
+lar[65976]=`<b>οῦ (τὸ)</b> <font color="purple">[ῑ]</font> Misène (<i>auj</i>. Punta di Miseno) <i>promont. de Campanie,</i> LYC. <i>737</i>.`

@@ -1,0 +1,1 @@
+lar[96952]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> argentine, <i>petit poisson de mer,</i> STRATT. <i>et</i> ANTIPH. (ATH. <i>323 a et b</i>) ; ARSTT. <i>H.A. 9, 2, 1</i>.<p>➳ <font color="purple">[ῠ]</font> STRATT. <i>l. c</i>.<p><b>Étym</b>. σφῦρα.`

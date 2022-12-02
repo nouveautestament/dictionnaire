@@ -1,0 +1,1 @@
+lar[42282]=`<b>εὐθυ·όνειρος, ος, ον</b>, qui voit en songe ce qui doit vraiment arriver, ARSTT. <i>Div. per somn. 2, 2 et 10</i> ; PLUT. <i>M. 437f</i>.<p><b>Étym</b>. εὐθύς, ὄνειρος.`

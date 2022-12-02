@@ -1,0 +1,1 @@
+lar[109745]=`<b>ψευδο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui brille d’une manière mensongère, <i>càd</i>. empruntée, <i>en parl. de la lune,</i> ANAXAG. (PLUT. <i>M. 892a</i>) ; STOB. <i>Ecl. phys. 564</i>.<p><b>Étym</b>. ψ. φαίνω.`

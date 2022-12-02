@@ -1,0 +1,1 @@
+lar[76854]=`<b>ατος (τὸ)</b> liquide filtré, GAL. <i>Lex. Hipp. 19, 85</i>.<p><b>Étym</b>. παρηθέω.`

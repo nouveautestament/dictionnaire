@@ -1,0 +1,1 @@
+lar[7718]=`<b>ἀνα·συντάσσω</b>, faire un nouveau recensement des impôts, HYPÉR. (HARP.).`

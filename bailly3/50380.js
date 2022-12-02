@@ -1,0 +1,1 @@
+lar[50380]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> guide, conducteur, NUMÉN. (ATH. <i>313d</i>).<br><b>      2</b> <i>fig</i>. précepteur, maître, DH. <i>Thuc. 3</i> ; PLUT. <i>M. 70e</i>.<p><b>Étym</b>. καθηγέομαι.`

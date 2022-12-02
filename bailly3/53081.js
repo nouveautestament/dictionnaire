@@ -1,0 +1,1 @@
+lar[53081]=`<b>ής, ές</b> <font color="purple">[ᾰγ]</font> frappé de crainte, POL. <i>1, 7, 6</i>.<p><b>Étym</b>. καταπλήσσω, <i>cf</i>. καταπληγής.`

@@ -1,0 +1,1 @@
+lar[93016]=`<b>ου (ὁ)</b> Strophios :<br><b>      1</b> <i>Troyen,</i> IL. <i>5, 49</i>.<br><b>      2</b> <i>père de Pylade et roi de Phocide,</i> PD. <i>P. 11, 53</i> ; ESCHL. <i>Ag. 881, etc.</i> ; SOPH. <i>El. 1111</i> ; EUR. <i>El. 18, etc.</i><br><b>      3</b> <i>autres,</i> NONN. <i>D. 30, 108, etc</i>.<p><b>Étym</b>. στρόφος.`

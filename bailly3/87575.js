@@ -1,0 +1,1 @@
+lar[87575]=`<b>Πυθό·δοτος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Pythodotos, <i>archonte athénien,</i> DÉM. <i>28, 26 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Πυθώ, δοτός.`

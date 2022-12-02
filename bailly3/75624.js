@@ -1,0 +1,1 @@
+lar[75624]=`<b>παρ·αιγιαλίτης, ου</b> <font color="purple">[ᾰλ]</font> <i>adj. m</i>. qui se trouve <i>ou</i> qui réside au bord de la mer, CLÉARQ. (ATH. <i>332c</i>).<p><b>Étym</b>. π. αἰγιαλός.`

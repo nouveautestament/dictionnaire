@@ -1,0 +1,1 @@
+lar[39743]=`<b>εως (ἡ)</b> concession, permission, ARR. <i>An. 6, 25, 2</i> ; SPT. <i>2Esdr. 3, 7</i>.<p><b>Étym</b>. ἐπιχωρέω.`

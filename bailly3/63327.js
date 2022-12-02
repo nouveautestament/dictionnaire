@@ -1,0 +1,1 @@
+lar[63327]=`<b>μεγαλ·ήνωρ</b>, <i>dor</i>. <b>μεγαλ·άνωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> confiant en soi, PD. <i>fr. 228</i>.<br><b>      2</b> orgueilleux, PD. <i>P. 1, 99</i>.<p><b>Étym</b>. μέγας, ἀνήρ.`

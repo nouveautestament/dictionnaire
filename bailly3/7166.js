@@ -1,0 +1,1 @@
+lar[7166]=`<b>ἀ·νάματος, ος, ον</b> <font color="purple">[ᾰᾱᾰ]</font> sans cours d’eau, EPIGR. (PLUT. <i>M. 870e</i>).<p><b>Étym</b>. ἀ, νᾶμα.`

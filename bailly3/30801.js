@@ -1,0 +1,1 @@
+lar[30801]=`<i>anc. att</i>. <b>ἐσκομιδή, ῆς (ἡ)</b> <font color="purple">[ῐ]</font> importation, introduction, THC. <i>7, 4 et 24</i>.<p><b>Étym</b>. εἰσκομίζω.`

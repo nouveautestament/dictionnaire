@@ -1,0 +1,1 @@
+lar[81215]=`<b>οῦ (ὁ) :<br>      1</b> <i>c</i>. πνῖγμα HPC. <i>Coac. 125</i> ; XÉN. <i>Œc. 7, 12</i> ; ARSTT. <i>H.A. 3, 3, 19, etc.</i><br><b>      2</b> chaleur étouffante, HPC. <i>V. med. 14</i>.`

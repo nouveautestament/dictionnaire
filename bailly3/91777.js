@@ -1,0 +1,1 @@
+lar[91777]=`<b>σπαρτιο·χαίτης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. aux cheveux en broussaille, PLAT. COM. <i>2-2, 656 Mein</i>.<p><b>Étym</b>. σπαρτίον, χαίτη.`

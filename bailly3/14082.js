@@ -1,0 +1,1 @@
+lar[14082]=`<b>ἀπωσι·κύματος, ος, ον</b> <font color="purple">[ῐῡᾰ]</font> qui repousse les vagues, ANTH. <i>6, 90</i>.<p><b>Étym</b>. ἀπωθέω, κῦμα.`

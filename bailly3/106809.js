@@ -1,0 +1,1 @@
+lar[106809]=`<b>οῦ (ὁ)</b> <font color="purple">[ρᾱ]</font> membre d’une même curie, <i>à Rome,</i> DH. <i>4, 43</i>.<p><b>Étym</b>. φρατριάζω.`

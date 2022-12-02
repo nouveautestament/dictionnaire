@@ -1,0 +1,1 @@
+lar[22070]=`<b>ωνος (ὁ)</b> Glaukôn, <i>h</i>. HDT. <i>9, 75</i> ; THC. XÉN. <i>etc</i>.<p><b>Étym</b>. γλαυκός.`

@@ -1,0 +1,1 @@
+lar[50082]=`<b>ἰχθυ·φόνος, ος, ον</b> <font color="purple">[ῠ]</font> qui tue les poissons, OPP. <i>C. 2, 444</i>.<p><b>Étym</b>. ἰ. πεφνεῖν.`

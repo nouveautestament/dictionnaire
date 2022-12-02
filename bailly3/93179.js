@@ -1,0 +1,1 @@
+lar[93179]=`<b>ος, ον</b>, protecteur de la famille, <i>ép. de Zeus,</i> EUR. <i>fr. 988 Nauck</i>.<p><b>Étym</b>. συγγενής.`

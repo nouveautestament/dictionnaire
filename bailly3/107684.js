@@ -1,0 +1,1 @@
+lar[107684]=`<b>χαλκό·πληκτος</b>, <i>dor</i>. <b>χαλκό·πλακτος, ος, ον</b>, fait (<i>litt</i>. frappé) d’airain, <i>ou</i> dont l’airain frappe, <i>en parl. d’une hache,</i> SOPH. <i>El. 485</i>.<p><b>Étym</b>. χ. πλήσσω.`

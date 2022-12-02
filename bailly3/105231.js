@@ -1,0 +1,1 @@
+lar[105231]=`tromper, voler, HH. <i>Merc. 159</i>.<p><b>Étym</b>. φηλητής.`

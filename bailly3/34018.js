@@ -1,0 +1,1 @@
+lar[34018]=`<i>adv</i>., en articulant, NYSS. <i>1, 861</i>.<p><b>Étym</b>. ἔναρθρος.`

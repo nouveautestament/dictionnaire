@@ -1,0 +1,1 @@
+lar[58970]=`<b>ίτιδος</b> <font color="purple">[υῑτῐδ]</font> <i>adj. f</i>. de Cures <i>dans la Sabine,</i> PLUT. <i>Rom. 29</i>.`

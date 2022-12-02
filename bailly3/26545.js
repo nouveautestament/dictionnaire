@@ -1,0 +1,1 @@
+lar[26545]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., en forme de plaidoyer rédigé pour autrui, ISOCR. (POLL. <i>8, 24).</i><p><b>Étym</b>. δικογράφος.`

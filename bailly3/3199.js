@@ -1,0 +1,1 @@
+lar[3199]=`<b>ἀ·κατανάγκαστος, ος, ον</b> <font color="purple">[ᾰν]</font> qu’on ne peut contraindre, DIOGÉN. (EUS. <i>3, 453 Migne).</i><p><b>Étym</b>. ἀ, καταναγκάζω.`

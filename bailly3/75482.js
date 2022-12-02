@@ -1,0 +1,1 @@
+lar[75482]=`<b>παρα·δαίνυμαι</b>, manger avec, <i>dat</i>. SIMM. (TZETZ. <i>Hist. 7, 694</i>).`

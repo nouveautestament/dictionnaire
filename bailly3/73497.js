@@ -1,0 +1,1 @@
+lar[73497]=`<b>ου (ὁ)</b> = <i>lat</i>. vernaculus, <i>petit esclave né dans la maison,</i> M. ANT. <i>1, 16</i>.`

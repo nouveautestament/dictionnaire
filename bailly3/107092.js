@@ -1,0 +1,1 @@
+lar[107092]=`<b>ίδος</b> <font color="purple">[ῠᾰῐδ]</font> <i>adj. f.</i> : ναῦς, DS. <i>20, 16,</i> vaisseau de garde, <i>càd</i>. vaisseau d’escorte <i>ou</i> navire croiseur ; <i>subst</i>. ἡ φ. PLAT. <i>Rsp. 457c</i>, gardienne.<p><b>Étym</b>. φύλαξ.`

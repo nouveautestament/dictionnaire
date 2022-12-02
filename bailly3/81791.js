@@ -1,0 +1,1 @@
+lar[81791]=`<b>πολύ·γληνος, ος, ον</b>, qui a beaucoup d’yeux (<i>propr</i>. de prunelles) ANTH. <i>5, 262</i> ; NONN. <i>D. 3, 272 ; fig</i>. aux mailles nombreuses, <i>en parl. d’un filet,</i> OPP. <i>C. 1, 157</i>.<p><b>Étym</b>. π. γλήνη.`

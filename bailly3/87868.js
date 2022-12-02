@@ -1,0 +1,1 @@
+lar[87868]=`<b>πυρί·εφθος, ος, ον</b> <font color="purple">[ῠ]</font> cuit au feu : τὸ πυρίεφθον, PHILIPPID. (POLL. <i>6, 54</i>) ; GAL. <i>6, 384, c</i>. πυριάτη.<p><b>Étym</b>. π. <i>vb. de</i> ἕψω.`

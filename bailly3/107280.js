@@ -1,0 +1,1 @@
+lar[107280]=`<b>ης (ἡ)</b> Physka, <i>v. de Macédoine,</i> THC. <i>2, 99</i>.`

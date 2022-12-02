@@ -1,0 +1,1 @@
+lar[93402]=`<b>συγ·κατεύχομαι :<br>      1</b> réunir dans un vœu, SOPH. <i>Ant. 1336</i>.<br><b>      2</b> faire vœu en même temps, PLUT. <i>M. 492d</i>.`

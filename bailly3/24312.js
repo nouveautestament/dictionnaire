@@ -1,0 +1,1 @@
+lar[24312]=`<i>adv</i>., par autorité publique, au nom <i>ou</i> aux frais de l’État, STR. <i>562</i>.`

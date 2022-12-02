@@ -1,0 +1,1 @@
+lar[3769]=`<b>ἀκρό·ζεστος, ος, ον</b>, légèrement bouilli, DIOSC. <i>2, 146</i>.<p><b>Étym</b>. ἄ. ζέω.`

@@ -1,0 +1,1 @@
+lar[4745]=`<b>ας (ἡ)</b> connexion mutuelle, DH. <i>Comp. 202</i> ; DIOSC. <i>5, 144</i>.<p><b>Étym</b>. ἀλληλοῦχος.`

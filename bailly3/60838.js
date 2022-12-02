@@ -1,0 +1,1 @@
+lar[60838]=`<b>ή, όν</b>, qui prend <i>ou</i> reçoit volontiers, ARSTT. <i>Nic. 4, 1, 20</i>.<p><b>Étym</b>. ληπτός.`

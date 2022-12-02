@@ -1,0 +1,1 @@
+lar[65726]=`<b>μικρο·πολίτης, ου</b> <font color="purple">[ῑῑ]</font> citoyen <i>ou</i> habitant d’une petite ville, AR. <i>Eq. 817</i> ; XÉN. <i>Hell. 2, 2, 10</i> ; ESCHN. <i>44, 4</i>.`

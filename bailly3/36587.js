@@ -1,0 +1,1 @@
+lar[36587]=`<b>ἐπ·αναθέω</b> (<i>seul. prés</i>.) courir sus à, <i>dat</i>. ONOS. <i>18</i>.`

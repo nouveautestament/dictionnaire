@@ -1,0 +1,1 @@
+lar[86396]=`<b>προσ·σεύομαι</b> <font color="darkgreen">(<i>part. pf</i>. προσεσσυμένος <font color="purple">[ῠ]</font>)</font> s’élancer vers <i>ou</i> contre, Q. SM. <i>8, 166</i>.<p><b>Étym</b>. π. σεύω.`

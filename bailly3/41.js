@@ -1,0 +1,1 @@
+lar[41]=`<b>ων (οἱ)</b> <font color="purple">[ᾰβ]</font> <font color="brown">Abantes</font>, <i>peuple d’Eubée,</i> IL. <i>2, 536, etc.</i> ; HDT. <i>1, 146, etc., et d’Épire,</i> A.RH. <i>4, 1214</i>.`

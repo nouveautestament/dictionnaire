@@ -1,0 +1,1 @@
+lar[54899]=`<b>κεραυνο·μάχας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> qui combat armé de la foudre, ANTH. <i>12, 110</i>.<p><b>Étym</b>. κεραυνός, μάχομαι.`

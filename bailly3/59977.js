@@ -1,0 +1,1 @@
+lar[59977]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> gorge, gosier, IL. <i>22, 325</i>.<p><b>Étym</b>. <i>cf</i>. λευκανίη.`

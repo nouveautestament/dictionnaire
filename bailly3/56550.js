@@ -1,0 +1,1 @@
+lar[56550]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> valet de chambre, ARR. <i>Epict. 1, 30, 7</i> ; GAL. <i>8, 837</i>.<p><b>Étym</b>. κοιτών.`

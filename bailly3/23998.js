@@ -1,0 +1,1 @@
+lar[23998]=`<b>ου (ὁ) :<br>      1</b> qui est dans les fers, enchaîné, ESCHL. <i>Pr. 119 ; d’où en gén</i>. prisonnier, captif, HDT. <i>3, 143</i> ; THC. <i>5, 35, etc.</i><br><b>      2</b> geôlier, CRAT. (SUID. <i>v°</i> δεσμώτης).<p><b>Étym</b>. δεσμόω.`

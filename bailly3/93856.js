@@ -1,0 +1,1 @@
+lar[93856]=`<i>ion</i>. <b>ξυμβλής, ῆτος (ὁ, ἡ)</b> qui se heurtent l’un contre l’autre, ORPH. <i>Arg. 684</i>.<p><b>Étym</b>. συμβάλλω.`

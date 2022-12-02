@@ -1,0 +1,1 @@
+lar[36296]=`<b>ἐξ·ωκεανίζω</b> <font color="purple">[ᾰ]</font> transporter de l’autre côté de l’Océan, POL. <i>34, 4, 5</i> ; STR. <i>299</i>.<p><b>Étym</b>. ἐξ, Ὠκεανός.`

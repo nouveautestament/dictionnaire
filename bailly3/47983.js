@@ -1,0 +1,1 @@
+lar[47983]=`<b>θυο·δόκος, ος, ον</b>, qui reçoit (<i>càd</i>. où l’on offre) les sacrifices, EUR. <i>Ion 511, etc</i>.<p><b>Étym</b>. θύος, δέχομαι.`

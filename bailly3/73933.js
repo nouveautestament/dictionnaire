@@ -1,0 +1,1 @@
+lar[73933]=`<b>ας (ἡ)</b> importunité, trouble, SPT. <i>Eccl. 7, 26</i>.<p><b>Étym</b>. ὀχληρός.`

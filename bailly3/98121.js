@@ -1,0 +1,1 @@
+lar[98121]=`<b>Τελέ·δημος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Télédèmos, <i>h</i>. DÉM. <i>18, 139 Baiter-Sauppe</i>.<p>➳ <i>Dor</i>. Τελέδαμος <font color="purple">[ᾱ]</font> DÉM. <i>18, 295 Baiter-Sauppe</i>.<p><b>Étym</b>. τέλος, δῆμος.`

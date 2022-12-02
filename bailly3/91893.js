@@ -1,0 +1,1 @@
+lar[91893]=`<b>ου (ὁ)</b> sorte de petit épervier (<i>Falco nisus</i> L.) ARSTT. <i>H.A. 8, 3, 1, etc</i>.<p><b>Étym</b>. σπίζα.`

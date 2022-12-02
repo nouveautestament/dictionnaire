@@ -1,0 +1,1 @@
+lar[1303]=`<b>ἀ·διαβεβαίωτος, ος, ον</b>, non établi <i>ou</i> démontré, PTOL. <i>Geogr. 2, 1</i>.<p><b>Étym</b>. ἀ, διαβεβαιόω.`

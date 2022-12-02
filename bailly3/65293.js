@@ -1,0 +1,1 @@
+lar[65293]=`<b>ου (τὸ)</b> sorte de campanule, <i>plante,</i> DIOSC. <i>4, 18</i>.`

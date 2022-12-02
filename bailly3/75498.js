@@ -1,0 +1,1 @@
+lar[75498]=`<b>παρα·δειπνέομαι-οῦμαι</b>, se passer de souper.<p>➳ <i>Ao. pass</i>. παρεδειπνήθην, TH. <i>Char. 8, 4 ; part. pf</i>. παραδεδειπνημένος, AMPHIS (ATH. <i>423a</i>).`

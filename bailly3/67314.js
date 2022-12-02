@@ -1,0 +1,1 @@
+lar[67314]=`<b>μυρο·θήκιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> petite boîte à parfums, CIC. <i>Att. 2, 1, 1</i>.<p><b>Étym</b>. <i>dim. de</i> μυροθήκη.`

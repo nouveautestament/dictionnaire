@@ -1,0 +1,1 @@
+lar[56158]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> fils <i>ou</i> descendant de Klytios, HDT. <i>9, 33 ; au pl</i>. les Klytides, <i>devins célèbres,</i> IL. <i>11, 302</i> ; OD. <i>15, 540</i>.<p>➳ <i>Voc</i>. -ίδη, OD. <i>l. c</i>.<p><b>Étym</b>. Κλυτίος.`

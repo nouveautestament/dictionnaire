@@ -1,0 +1,1 @@
+lar[109057]=`<b>χρονιόομαι-οῦμαι</b> <font color="darkgreen">(<i>sbj. ao. 3 sg</i>. χρονιωθῇ)</font> s’invétérer, HPC. <i>817h</i>.<p><b>Étym</b>. χρόνιος.`

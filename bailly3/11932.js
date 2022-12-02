@@ -1,0 +1,1 @@
+lar[11932]=`<i>adv</i>., complètement, DH. <i>1, 90</i>.<p><b>Étym</b>. ἀπαρτίζω.`

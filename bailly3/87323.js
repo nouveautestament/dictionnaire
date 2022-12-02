@@ -1,0 +1,1 @@
+lar[87323]=`<b>Πτερνο·γλύφος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Taille—jambons <i>ou</i> Gratte-jambons, <i>n. de rat,</i> BATR. <i>227</i>.<p><b>Étym</b>. πτέρνα².`

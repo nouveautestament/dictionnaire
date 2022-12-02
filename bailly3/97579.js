@@ -1,0 +1,1 @@
+lar[97579]=`<b>ύος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. τάνυσις, OD. <i>21, 112</i>.`

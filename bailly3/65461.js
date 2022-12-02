@@ -1,0 +1,1 @@
+lar[65461]=`<i>adv. c</i>. μηνοειδής LGS <i>p. 51</i> ; PHILSTR. <i>V. Ap. 3, 11</i>.`

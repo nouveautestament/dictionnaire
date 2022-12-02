@@ -1,0 +1,1 @@
+lar[10193]=`<i>adv</i>., en répliquant à une objection de l’adversaire, HERMOG. <i>Rhet. 3, 120, 17</i> ; EUST. <i>Il. 704, 36, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀντιπαράστασις.`

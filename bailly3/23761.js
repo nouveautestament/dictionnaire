@@ -1,0 +1,1 @@
+lar[23761]=`<b>οῦ (ὁ)</b> Dékrianos, <i>h</i>. LUC. <i>As. 2</i>.`

@@ -1,0 +1,1 @@
+lar[56558]=`<b>κοκκινο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> teint en écarlate, CALLIX. (ATH. <i>196b</i>).<p><b>Étym</b>. κόκκινος, βάπτω.`

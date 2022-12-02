@@ -1,0 +1,1 @@
+lar[27811]=`<b>δρακοντ·ολέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> destructeur du serpent (Python) <i>ép. d’Apollon,</i> ANTH. <i>9, 525</i>.<p><b>Étym</b>. δράκων, ὄλλυμι.`

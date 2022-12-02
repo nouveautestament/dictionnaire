@@ -1,0 +1,1 @@
+lar[98680]=`<b>τετρα·στάδιος, ος, ον</b> <font color="purple">[τᾰ]</font> de quatre stades, STR. <i>369 ; subst</i>. τὸ τετραστάδιον, STR. <i>325,</i> longueur de quatre stades.<p><b>Étym</b>. τ. στάδιον.`

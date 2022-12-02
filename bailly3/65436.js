@@ -1,0 +1,1 @@
+lar[65436]=`<b>μηναγυρτέω-ῶ</b> <font color="purple">[ᾰ]</font> faire une tournée chaque mois pour mendier, DH. <i>2, 19</i>.<p><b>Étym</b>. μηναγύρτης.`

@@ -1,0 +1,1 @@
+lar[21750]=`<b>οῦ (ὁ)</b> Géræstos (Géreste) <i>promont. (auj</i>. cap Mandíli <i>ou</i> Kávo Mandélos) <i>et v. (auj</i>. Yérestos ; <i>sel. d’autres,</i> Kastrí) <i>à la pointe S. O. de l’Eubée,</i> OD. <i>3, 177</i> ; HDT. <i>8, 7</i>.`

@@ -1,0 +1,1 @@
+lar[35518]=`<b>ἐξ·απαντάω-ῶ</b>, aller à la rencontre de, XÉN. <i>Cyr. 3, 3, 24, dout</i>.`

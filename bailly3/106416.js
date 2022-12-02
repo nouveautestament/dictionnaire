@@ -1,0 +1,1 @@
+lar[106416]=`<b>φλογο·τρόφος, ος, ον</b>, qui nourrit <i>ou</i> entretient la flamme, NYSS. <i>t. 2, p. 1011</i>.<p><b>Étym</b>. φλόξ, τρέφω.`

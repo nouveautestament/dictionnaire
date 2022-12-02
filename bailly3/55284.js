@@ -1,0 +1,1 @@
+lar[55284]=`<b>ή, όν</b>, qui concerne le modelage en cire <i>ou</i> le cirier, OCELL. <i>2</i>.<p><b>Étym</b>. κηρόπλαστος.`

@@ -1,0 +1,1 @@
+lar[27943]=`<b>*Δροσερά</b>, <i>seul. ion</i>. <b>Δροσερή, ῆς (ἡ)</b> Drosérè, <i>litt</i>. l’Humide, <i>n. d’une nymphe de source et d’une source,</i> NONN. <i>D. 40, 365, 565</i>.<p><b>Étym</b>. δροσερός.`

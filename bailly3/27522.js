@@ -1,0 +1,1 @@
+lar[27522]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> plant de roseaux, PAUS. <i>9, 31, 7</i>.<p><b>Étym</b>. δόναξ.`

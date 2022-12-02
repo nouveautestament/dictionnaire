@@ -1,0 +1,1 @@
+lar[1625]=`<b>ου (ὁ)</b> Aéthlios, <i>roi myth. d’Élide,</i> HÉS. <i>fr. 66 Gaisford</i>.`

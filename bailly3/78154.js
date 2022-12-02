@@ -1,0 +1,1 @@
+lar[78154]=`<b>ή, όν</b>, cinquantième, PLAT. <i>Theæt. 175b, etc.</i> ; ἡ πεντηκοστή :<br><b>      1</b> (<i>s.-e</i>. μοῖρα) droit de douane du cinquantième, AND. <i>17, 24</i> ; DÉM. <i>1353, 21, etc.</i><br><b>      2</b> (<i>s.-e</i>. ἡμέρα) la Pentecôte, <i>cinquantième jour après Pâques,</i> SPT. <i>2Macc. 12, 32</i> ; NT. <i>Ap. 2, 1, etc</i>.<p><b>Étym</b>. πεντήκοντα.`

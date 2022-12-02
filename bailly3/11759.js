@@ -1,0 +1,1 @@
+lar[11759]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> absence de travail recherché, simplicité, PÉRICT. (STOB. <i>Fl. 3, 186).</i><p><b>Étym</b>. ἀπερίεργος.`

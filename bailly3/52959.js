@@ -1,0 +1,1 @@
+lar[52959]=`<b>κατ·ανύτω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰν]</font> <i>c</i>. κατανύω XÉN. <i>Cyr. 8, 6, 17</i>.`

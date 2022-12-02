@@ -1,0 +1,1 @@
+lar[38051]=`<b>ἐπι·κληΐζω :<br>      1</b> célébrer, POÈT. (DL. <i>6, 100 ; par contr</i>. -κλῄζω).<br><b>      2</b> surnommer, APP. <i>Syr. 17</i>.<p><b>Étym</b>. <i>cf</i>. ἐπικλείω¹.`

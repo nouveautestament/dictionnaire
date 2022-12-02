@@ -1,0 +1,1 @@
+lar[40202]=`<b>ατος (τὸ)</b> œuvre, action, affaire, HH. <i>27, 20 ; 32, 19</i> ; HÉS. <i>O. 799, Th. 823</i> ; ESCHL. <i>Sept. 556, Suppl. 500, etc. ; en prose seul</i>. PÉRICT. (STOB. <i>Fl. 85, 19).</i><p>➳ <i>Dor</i>. ἕργμα, PD. <i>N. 4, 6 et 84</i>.<p><b>Étym</b>. ἔρδω.`

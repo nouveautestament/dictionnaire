@@ -1,0 +1,1 @@
+lar[18914]=`<b>ίδος (ἡ)</b> bacchante, SOPH. <i>Ant. 1130</i>.`

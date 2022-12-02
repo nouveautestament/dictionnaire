@@ -1,0 +1,1 @@
+lar[109287]=`<b>χρυσο·φαής, ής, ές</b> <font color="purple">[ῡ]</font> qui a l’éclat de l’or, EUR. <i>Hec. 636, Hipp. 1276</i> ; ANTH. <i>App. 352</i> ; EL. <i>N.A. 17, 2</i>.<p><b>Étym</b>. χρ. φάος.`

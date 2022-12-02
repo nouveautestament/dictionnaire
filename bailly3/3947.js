@@ -1,0 +1,1 @@
+lar[3947]=`<b>ου (τὸ)</b> = <i>lat</i>. Actium, <i>promont. et v. d’Acarnanie,</i> THC. <i>1, 29, etc</i>.<p><b>Étym</b>. <i>v</i>. ἄκτιον.`

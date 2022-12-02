@@ -1,0 +1,1 @@
+lar[77086]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾱ]</font> chose mal vue, <i>d’où</i> bévue, méprise, PLUT. <i>M. 515c, 705c, 1123b ;</i> LGN <i>33, 4</i>.<p><b>Étym</b>. παροράω.`

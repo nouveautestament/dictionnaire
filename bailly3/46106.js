@@ -1,0 +1,1 @@
+lar[46106]=`<i>élis. p</i>. τε <i>dev. une voy. avec esprit rude</i>.`

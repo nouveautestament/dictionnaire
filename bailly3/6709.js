@@ -1,0 +1,1 @@
+lar[6709]=`<b>ἀνα·διδράσκω</b> <font color="darkgreen">(<i>impf</i>. ἀνεδίδρασκον)</font> s’enfuir, POL. <i>29, 7, 1</i>.<p><b>Étym</b>. ἀνεδίδρασκεν <i>Reiske</i>.`

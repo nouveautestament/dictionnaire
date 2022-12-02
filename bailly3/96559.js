@@ -1,0 +1,1 @@
+lar[96559]=`<b>συρ·ρέμβομαι</b> (<i>seul. prés</i>.) errer ensemble à l’aventure, DL. <i>9, 63</i>.<p><b>Étym</b>. σύν, ῥέμβω.`

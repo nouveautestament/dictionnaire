@@ -1,0 +1,1 @@
+lar[106163]=`<b>φιλό·τυφος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui aime le faste, orgueilleux, PHIL. <i>Somn. p. 867c</i>.<p><b>Étym</b>. φ. τῦφος.`

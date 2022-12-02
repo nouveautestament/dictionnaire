@@ -1,0 +1,1 @@
+lar[21907]=`<b>ου (τὸ)</b> petit bien de terre, petit domaine, AR. <i>Pax 570</i> ; ARSTT. <i>Pol. 6, 5, 8 ; avec</i> μικρόν, XÉN. <i>Cyr. 8, 3, 38</i>.<p><b>Étym</b>. <i>dim. de</i> γῆ.`

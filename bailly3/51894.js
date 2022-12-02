@@ -1,0 +1,1 @@
+lar[51894]=`<b>ας</b>, <i>adj. f</i>. qui produit des fruits, féconde, NONN. <i>D. 21, 26</i>.<p><b>Étym</b>. καρποτόκος.`

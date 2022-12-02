@@ -1,0 +1,1 @@
+lar[24061]=`<b>δευτερο·κοιτέω-ῶ</b> (<i>seul. impf</i>. ἐδευτεροκοίτουν) coucher à deux, avoir un compagnon de lit, ATH. <i>584b</i>.<p><b>Étym</b>. δ. κοίτη.`

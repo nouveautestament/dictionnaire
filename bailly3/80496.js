@@ -1,0 +1,1 @@
+lar[80496]=`<font color="purple">[πῑ]</font> <i>mieux que</i> <b>πισσύγγιον, ου (τὸ)</b> échoppe de savetier, COM. (POLL. <i>7, 82).</i><p><b>Étym</b>. πίσυγγος.`

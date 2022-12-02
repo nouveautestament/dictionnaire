@@ -1,0 +1,1 @@
+lar[101104]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne le meurtre d’un tyran <i>ou</i> de tyrans, APP. <i>Civ. 4, 94</i>.<p><b>Étym</b>. τυραννοκτόνος.`

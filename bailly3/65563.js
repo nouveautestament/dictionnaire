@@ -1,0 +1,1 @@
+lar[65563]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> de la métropole, métropolitain, NAZ. <i>2, 396 Migne</i>.<p><b>Étym</b>. μητρόπολις.`

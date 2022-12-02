@@ -1,0 +1,1 @@
+lar[74833]=`<b>Παν·αίτιος, ου (ὁ)</b> Panætios :<br><b>      1</b> <i>philos. stoïcien, ami de Scipion le jeune,</i> STR. <i>650, etc.</i> ; PLUT. <i>Cim. 4, etc.</i><br><b>      2</b> <i>autres,</i> HDT. <i>8, 82</i> ; AR. <i>Eq. 243, etc</i>.<p><b>Étym</b>. <i>v</i>. παναίτιος.`

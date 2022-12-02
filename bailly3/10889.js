@@ -1,0 +1,1 @@
+lar[10889]=`<b>ἀξι·άγαστος, ος, ον</b> <font color="purple">[ᾰγ]</font> digne d’être admiré, XÉN. <i>Lac. 10, 2</i>.<p><b>Étym</b>. ἄ. ἄγαμαι.`

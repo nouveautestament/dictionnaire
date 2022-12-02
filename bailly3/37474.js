@@ -1,0 +1,1 @@
+lar[37474]=`<b>ἐπι·γνωρίζω</b>, faire connaître, <i>avec la prop. inf</i>. XÉN. <i>Cyn. 6, 23</i>.`

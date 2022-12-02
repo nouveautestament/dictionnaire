@@ -1,0 +1,1 @@
+lar[31000]=`<b>ἑκατόγ·χειρος, ος, ον</b> <font color="purple">[ᾰ]</font> à cent mains, à cent bras, IL. <i>1, 402</i>.<p><b>Étym</b>. ἑ. χείρ.`

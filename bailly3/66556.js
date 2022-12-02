@@ -1,0 +1,1 @@
+lar[66556]=`<b>μονό·κλιτος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a qu’une flexion, <i>càd</i>. indéclinable, HDN GR. <i>Epim. p. 191 Boissonade</i>.<p><b>Étym</b>. μ. κλίνω.`

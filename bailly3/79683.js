@@ -1,0 +1,1 @@
+lar[79683]=`<b>ος, ον</b>, qu’on applique sous forme d’enduit tout autour, PLUT. <i>M. 102a ; subst</i>. τὰ περίχριστα, DIOSC. <i>1, 97,</i> onguents.<p><b>Étym</b>. περιχρίω.`

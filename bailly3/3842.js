@@ -1,0 +1,1 @@
+lar[3842]=`<b>ἄ·κροσσος, ος, ον</b>, sans frange, <i>d’où</i> sans bordure, GEOP. <i>20, 22, 1</i>.<p><b>Étym</b>. ἀ, κροσσός.`

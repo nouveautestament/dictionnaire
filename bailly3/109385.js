@@ -1,0 +1,1 @@
+lar[109385]=`<b>η, ον</b> <font color="purple">[ῐ]</font> d’argile : ὁ χύτρινος, HPC. <i>648, 53,</i> vase de terre.<p><b>Étym</b>. χύτρος.`

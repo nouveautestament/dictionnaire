@@ -1,0 +1,1 @@
+lar[42984]=`<b>εὐ·περίδρακτος, ος, ον</b>, facile à embrasser, à comprendre, AÉT. (EPIPH. <i>2, 536 Migne).</i><p><b>Étym</b>. εὖ, περιδράσσομαι.`

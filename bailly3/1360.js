@@ -1,0 +1,1 @@
+lar[1360]=`<b>ἀ·διάσκευος, ος, ον</b>, non arrangé, non équipé, ANON. (SUID.).<p><b>Étym</b>. ἀ, διασκευή.`

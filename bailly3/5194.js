@@ -1,0 +1,1 @@
+lar[5194]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., mollement, <i>d’où</i> doucement, modérément, HPC. <i>449, 53</i>.<p><b>Étym</b>. ἀμαλός.`

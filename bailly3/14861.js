@@ -1,0 +1,1 @@
+lar[14861]=`<font color="purple">[μᾰ]</font> (<i>part. ao</i>. ἁρματεύσας) conduire un char, EUR. <i>Or. 995</i>.<p><b>Étym</b>. ἅρμα.`

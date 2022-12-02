@@ -1,0 +1,1 @@
+lar[20709]=`<b>βραχυ·παραλήκτως</b> <font color="purple">[ᾰῠᾰᾰ]</font> <i>adv</i>., avec la pénultième brève, GR. COR. <i>p. 121</i>.<p><b>Étym</b>. βρ. παραλήγω.`

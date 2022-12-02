@@ -1,0 +1,1 @@
+lar[83227]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. πρόμος, AR. <i>Th. 50</i>.`

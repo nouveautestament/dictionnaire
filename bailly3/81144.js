@@ -1,0 +1,1 @@
+lar[81144]=`<b>ης, ες</b>, flottant, <i>d’où</i> mouvant, HPC. <i>Art. 791</i>.<p><b>Étym</b>. πλόος, -ωδης.`

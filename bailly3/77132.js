@@ -1,0 +1,1 @@
+lar[77132]=`<b>παρ·οχλίζω</b>, déplacer à l’aide d’un levier, déplacer, <i>en gén</i>. ANTH. <i>9, 204</i>.`

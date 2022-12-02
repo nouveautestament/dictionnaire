@@ -1,0 +1,1 @@
+lar[86793]=`<b>προ·τιμωρέω-ῶ</b> <font color="purple">[ῑ]</font> secourir <i>ou</i> venger auparavant, <i>dat</i>. THC. <i>1, 74</i>.<br><b><i>Moy.</i></b> se venger auparavant de, <i>acc</i>. THC. <i>6, 57</i>.`

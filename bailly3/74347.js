@@ -1,0 +1,1 @@
+lar[74347]=`<b>ας (ἡ) :<br>      1</b> Pæonie, <i>contrée du N. de la Macédoine,</i> IL. <i>17, 350, etc.</i> ; HDT. <i>5, 13, etc.</i><br><b>      2</b> Pannonie, <i>par altération de</i> Παννονία (<i>cf</i>. Παίων¹) PHILSTR. <i>560, 571</i> ; DC. <i>49, 36</i>.<p>➳ <i>Ion</i>. Παιονίη, IL. HDT. <i>ll.cc</i>.`

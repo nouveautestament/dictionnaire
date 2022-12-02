@@ -1,0 +1,1 @@
+lar[51083]=`<b>ου (ὁ)</b> singe domestique, DIN. (SUID.) ; GAL. <i>8, 663</i>.<p><b>Étym</b>. κάλλος.`

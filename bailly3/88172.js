@@ -1,0 +1,1 @@
+lar[88172]=`<b>ῥαβδονομέω-ῶ</b>, être juge d’un combat, SOPH. <i>Tr. 516</i>.<p><b>Étym</b>. ῥαβδονόμος.`

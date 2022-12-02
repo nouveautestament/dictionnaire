@@ -1,0 +1,1 @@
+lar[78075]=`<b>πεντεκαιδεκα·μναῖος, α, ον</b> (baliste <i>ou</i> pierrier à boulets de) quinze mines, PHIL. BYZ. <i>Bel. 6</i>.<p><b>Étym</b>. π. μνᾶ.`

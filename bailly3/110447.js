@@ -1,0 +1,1 @@
+lar[110447]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> récit d’événements par ordre d’années, rédaction d’annales, DS. <i>1, 26</i>.<p><b>Étym</b>. ὡρογράφος.`

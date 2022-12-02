@@ -1,0 +1,1 @@
+lar[91768]=`<b>ης (ἡ)</b> Sparte (<i>auj</i>. Spárti) <i>capitale de la Laconie,</i> IL. <i>4, 52</i> ; OD. <i>1, 93, etc.</i> ; HDT. <i>1, 65, etc.</i> ; THC. <i>1, 86, etc.</i> ; XÉN. <i>Lac. 1, 1, 1, etc</i>.<p>➳ <i>Dor</i>. Σπάρτα <font color="purple">[τᾱ]</font> PD. <i>P. 1, 149, etc.</i> ; EUR. <i>Alc. 449, etc.</i> ; PLUT. <i>Pel. 2, etc</i>.`

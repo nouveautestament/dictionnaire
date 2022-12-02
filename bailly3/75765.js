@@ -1,0 +1,1 @@
+lar[75765]=`<b>παρα·κοιτέω-ῶ</b>, être de garde, faire sentinelle auprès de, <i>dat</i>. POL. <i>6, 33, 12</i> ; TÉLÈS (STOB. <i>Fl. 98, 72</i>).`

@@ -1,0 +1,1 @@
+lar[95630]=`<b>συν·επίκειμαι</b>, attaquer ensemble, AR. <i>Eq. 267</i>.`

@@ -1,0 +1,1 @@
+lar[28645]=`<b>δυσ·μεναίνω</b> (<i>seul. prés</i>.) être mécontent, fâché : τινί, EUR. <i>Med. 874</i> ; THÉM. <i>261d</i>, contre qqn ; ἐπί τινι, DÉM. <i>200, 26</i> ; τινός, APP. <i>Lib. 60,</i> au sujet de qqe ch.<p><b>Étym</b>. δυσμενής.`

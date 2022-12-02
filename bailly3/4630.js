@@ -1,0 +1,1 @@
+lar[4630]=`<b>ῆς (ἡ)</b> Alkè, <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. ἀλκή.`

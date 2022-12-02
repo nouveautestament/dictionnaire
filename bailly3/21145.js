@@ -1,0 +1,1 @@
+lar[21145]=`<b>ου, ᾳ, αν</b>, <i>voc</i>. <b>-α (ὁ)</b> Gadatas, <i>Assyrien,</i> XÉN. <i>Cyr. 5, 3, 1, etc</i>.`

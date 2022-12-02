@@ -1,0 +1,1 @@
+lar[80239]=`<b>πιθηκο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> qui ressemble au singe, ARSTT. <i>H.A. 2, 1, 16</i>.<p><b>Étym</b>. πίθηκος, εἶδος.`

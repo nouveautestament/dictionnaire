@@ -1,0 +1,1 @@
+lar[48161]=`enivrer, <i>d’où pass. moy. (part. ao</i>. θωχθείς) s’enivrer, SOPH. <i>fr. 183</i>.<p><b>Étym</b>. <i>cf</i>. θῶμαι.`

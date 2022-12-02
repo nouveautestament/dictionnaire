@@ -1,0 +1,1 @@
+lar[75362]=`<b>η, ον</b> <font color="purple">[ῡ]</font> fait de papyrus, PLUT. <i>M. 358a</i>.<p><b>Étym</b>. πάπυρος.`

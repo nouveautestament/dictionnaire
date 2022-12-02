@@ -1,0 +1,1 @@
+lar[69455]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. Ξενόδημος.`

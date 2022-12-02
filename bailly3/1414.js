@@ -1,0 +1,1 @@
+lar[1414]=`<b>ης (ἡ)</b> ortie, <i>plante,</i> DIOSC. <i>Noth. 4, 94</i>.`

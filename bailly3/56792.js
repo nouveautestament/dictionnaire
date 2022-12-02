@@ -1,0 +1,1 @@
+lar[56792]=`<b>ου (ὁ)</b> = <i>lat</i>. Cominius, <i>n. d’h. rom</i>. PLUT. <i>Cam. 25, etc</i>.`

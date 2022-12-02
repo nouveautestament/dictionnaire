@@ -1,0 +1,1 @@
+lar[50277]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., avec propreté, XÉN. <i>Cyr. 1, 3, 8 ; fig</i>. avec décence et mesure, NICOSTR. <i>et</i> EUB. (ATH. <i>65d, 311d</i>).`

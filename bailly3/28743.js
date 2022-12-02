@@ -1,0 +1,1 @@
+lar[28743]=`<b>δυσουριάω-ῶ</b> <font color="purple">[ῠ]</font> (<i>part. prés</i>.) avoir une rétention d’urine, DIOSC. <i>1, 39</i> ; HIPPIATR. <i>105, etc</i>.<p><b>Étym</b>. δυσουρία.`

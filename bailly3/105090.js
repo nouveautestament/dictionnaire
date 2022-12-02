@@ -1,0 +1,1 @@
+lar[105090]=`<i>ou</i> <b>φέκλη, ης (ἡ)</b> lie de vin brûlée, GAL. <i>4, 490</i>.<p><b>Étym</b>. <i>lat</i>. fæcula.`

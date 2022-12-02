@@ -1,0 +1,1 @@
+lar[103891]=`<b>ατος (τὸ)</b> soutien, appui, SPT. <i>3Reg. 7, 24 ; 10, 12, etc.</i> ; JOS. <i>A.J. 8, 7, 1</i>.<p><b>Étym</b>. ὑποστηρίζω.`

@@ -1,0 +1,1 @@
+lar[92255]=`<b>στεατόω-ῶ</b> (<i>pf. pass</i>. ἐστεάτωμαι) <font color="purple">[ᾱ]</font><br><b>      1</b> faire devenir gras, <i>d’où au pass</i>. devenir <i>ou</i> être gras, SPT. <i>Ezech. 39, 18</i>.<br><b>      2</b> convertir en graisse, <i>d’où</i> devenir graisseux, HIPPIATR.<p><b>Étym</b>. στέαρ.`

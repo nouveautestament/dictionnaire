@@ -1,0 +1,1 @@
+lar[89461]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> usage de chair <i>ou</i> de viande pour nourriture, ARSTT. <i>H.A. 8, 5, 2</i> ; PLUT. <i>M. 993a</i>.<p><b>Étym</b>. σαρκοφάγος.`

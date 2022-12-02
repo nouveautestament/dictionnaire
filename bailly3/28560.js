@@ -1,0 +1,1 @@
+lar[28560]=`<b>δυσκαταποτέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> boire avec peine, HÉRODOTUS (ORIB. <i>1, 421 B.-Dar</i>.).<p><b>Étym</b>. δυσκατάποτος.`

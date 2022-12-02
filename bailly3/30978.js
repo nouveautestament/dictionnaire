@@ -1,0 +1,1 @@
+lar[30978]=`<font color="purple">[κᾰ]</font> <i>adv</i>., chacune des deux fois, XÉN. <i>Cyr. 4, 6, 2</i> ; GAL. <i>4, 495</i>.<p><b>Étym</b>. ἑκάτερος, -άκις.`

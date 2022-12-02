@@ -1,0 +1,1 @@
+lar[91664]=`<b>ας (ἡ)</b> art sophistique, subtilité captieuse, DS. <i>12, 53</i> ; PLUT. <i>M. 78f ;</i> DL. <i>2, 113</i> ; PHIL. <i>1, 609</i>.<p><b>Étym</b>. σοφιστεύω.`

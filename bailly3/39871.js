@@ -1,0 +1,1 @@
+lar[39871]=`<b>ἐπ·οργίζομαι</b>, s’irriter contre, <i>dat</i>. SPT. <i>Dan. 11, 40 ; 2 Macc. 7, 33</i>.`

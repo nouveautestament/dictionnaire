@@ -1,0 +1,1 @@
+lar[17100]=`<b>ουρος (ὁ)</b> <i>transcript. du lat</i>. augŭr, ŭris, augure = <i>grec</i> οἰωνοπόλος, PLUT. <i>M. 281a</i>.`

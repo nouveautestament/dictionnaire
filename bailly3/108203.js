@@ -1,0 +1,1 @@
+lar[108203]=`<b>ας (ἡ)</b> travail manuel, métier, profession, HDT. <i>2, 167</i> ; ESCHL. <i>Pr. 45, Ch. 761</i>.<p>➳ <i>Ion</i>. χειρωναξίη, HDT. <i>l. c</i>.<p><b>Étym</b>. χειρῶναξ.`

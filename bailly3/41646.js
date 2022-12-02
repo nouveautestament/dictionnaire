@@ -1,0 +1,1 @@
+lar[41646]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à plaire, M. ANT. <i>9, 6</i>.<p><b>Étym</b>. εὐάρεστος.`

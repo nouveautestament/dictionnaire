@@ -1,0 +1,1 @@
+lar[109788]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ψῆττα ANAXANDR. (ATH. <i>105f</i>).`

@@ -1,0 +1,1 @@
+lar[34425]=`<b>ἐν·ευωχέομαι-οῦμαι</b>, faire bonne chère dans <i>ou</i> parmi, <i>dat</i>. STR. <i>17, 1, 15 Kram.</i> ; SYN. <i>Ep. 44, 1369c Migne</i>.`

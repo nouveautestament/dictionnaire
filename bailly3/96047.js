@@ -1,0 +1,1 @@
+lar[96047]=`<b>συν·ναύτης, ου (ὁ)</b> compagnon de navigation, SOPH. <i>Aj. 902, etc</i>.`

@@ -1,0 +1,1 @@
+lar[31588]=`<b>ἐκ·λεπτουργέω-ῶ</b>, travailler avec un soin minutieux, SYN. <i>30a</i>.`

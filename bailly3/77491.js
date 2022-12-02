@@ -1,0 +1,1 @@
+lar[77491]=`<b>παχύ·πους, ποδος (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> aux pieds épais <i>ou</i> enflés, ARSTT. <i>H.A. 5, 31, 7</i>.<p><b>Étym</b>. π. πούς.`

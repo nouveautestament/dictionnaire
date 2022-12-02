@@ -1,0 +1,1 @@
+lar[72978]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. semblable à un grain de vesce, DS. <i>3, 13</i>.<p><b>Étym</b>. ὄροβος.`

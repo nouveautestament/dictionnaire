@@ -1,0 +1,1 @@
+lar[101024]=`<b>τυμβωρυχέω-ῶ</b> <font color="purple">[ρῠ]</font> fouiller les tombeaux pour voler <i>ou</i> pour dévorer les cadavres, <i>en parl. de l’hyène,</i> ARSTT. <i>H.A. 8, 5, 2</i> ; DS. <i>Exc. 563, 38</i> ; ANTH. <i>App. 204, 5</i> ; PLUT. <i>M. 1128c</i>.<p><b>Étym</b>. τυμβωρύχος.`

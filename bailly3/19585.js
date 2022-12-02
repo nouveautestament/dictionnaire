@@ -1,0 +1,1 @@
+lar[19585]=`<i>ou</i> <b>βερρουκῶσος, ου (ὁ)</b> = <i>lat</i>. Verrūcōsus, <i>surn. de Fabius Maximus,</i> PLUT. <i>Fab. 1</i> ; DC. <i>fr. 47</i>.`

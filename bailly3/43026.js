@@ -1,0 +1,1 @@
+lar[43026]=`<i>adv</i>., avec confiance <i>ou</i> crédulité, AR. <i>Th. 105</i>.`

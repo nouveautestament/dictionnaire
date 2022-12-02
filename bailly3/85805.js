@@ -1,0 +1,1 @@
+lar[85805]=`<b>προσ·ευσχολέω-ῶ</b>, vaquer à, s’occuper à, <i>dat</i>. JOS. <i>A.J. 2, 9, 6</i>.`

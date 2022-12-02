@@ -1,0 +1,1 @@
+lar[68721]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾱ]</font> Nikasos, <i>h</i>. THC. <i>4, 119</i>.<p><b>Étym</b>. νικάω.`

@@ -1,0 +1,1 @@
+lar[97247]=`<b>Σωσί·βιος, ου (ὁ)</b> <font color="purple">[σῐ]</font> Sôsibios, <i>h</i>. PLUT. <i>Lyc. 25, etc</i>.<p><b>Étym</b>. σῴζω, βίος.`

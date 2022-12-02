@@ -1,0 +1,1 @@
+lar[11166]=`<b>ή, όν</b>, qui peut effacer, <i>gén</i>. CLÉM. <i>2, 753 Migne</i>.<p><b>Étym</b>. ἀπαλείφω.`

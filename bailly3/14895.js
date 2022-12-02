@@ -1,0 +1,1 @@
+lar[14895]=`<b>ἀρμενο·ποιέω-ῶ</b>, mettre à la voile, DOSITH. (<i>Gramm. lat. Keil 7, 432, 21).</i><p><b>Étym</b>. ἄρμενον, π.`

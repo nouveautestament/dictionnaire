@@ -1,0 +1,1 @@
+lar[75910]=`<font color="darkgreen">(<i>f</i>. -αμαρτήσομαι, <i>ao.2</i> -ήμαρτον, <i>etc</i>.)</font> manquer le but, AR. <i>fr. 283 Dind.</i> ; PLUT. <i>M. 89e</i>.`

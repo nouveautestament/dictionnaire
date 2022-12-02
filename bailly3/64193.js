@@ -1,0 +1,1 @@
+lar[64193]=`<b>ορος (ὁ)</b> qui chante en dansant, chanteur, MAN. <i>4, 183</i>.<p><b>Étym</b>. μέλπω.`

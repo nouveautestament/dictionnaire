@@ -1,0 +1,1 @@
+lar[13969]=`<b>ἀ·πρόσμικτος, ος, ον</b>, qui n’a pas de commerce avec, insociable, HDT. <i>1, 65</i>.<p><b>Étym</b>. ἀ, προσμίγνυμι.`

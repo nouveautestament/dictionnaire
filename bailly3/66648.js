@@ -1,0 +1,1 @@
+lar[66648]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> qui n’a qu’une fente, ANTYLL. (ORIB. <i>3, 361 B.-Dar</i>.).<p><b>Étym</b>. μ. σχίζω.`

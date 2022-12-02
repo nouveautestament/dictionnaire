@@ -1,0 +1,1 @@
+lar[61316]=`<b>*λιπο·βοτανέω</b>, <i>mieux que</i> <b>λειπο·βοτανέω-ῶ</b> <font color="purple">[ᾰ]</font> manquer de plantes, d’herbage, PLUT. <i>M. 182e</i>.<p><b>Étym</b>. λ. βοτάνη.`

@@ -1,0 +1,1 @@
+lar[17900]=`<b>ἄ·φαρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀφάρωτος, CALL. <i>fr. 183</i>.`

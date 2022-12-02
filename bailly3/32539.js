@@ -1,0 +1,1 @@
+lar[32539]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> ductile, ARSTT. <i>Meteor. 3, 6, 12</i>.<p><b>Étym</b>. <i>vb. de</i> ἐλαύνω.`

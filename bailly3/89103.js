@@ -1,0 +1,1 @@
+lar[89103]=`<i>adv</i>., dans un état de délabrement <i>ou</i> de pourriture, en mauvais état, ARSTT. <i>Nic. 1, 10, 8</i>.<p><b>Étym</b>. σαθρός.`

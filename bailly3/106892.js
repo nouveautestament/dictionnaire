@@ -1,0 +1,1 @@
+lar[106892]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> hennissement, souffle bruyant d’un animal, LYC. <i>244</i>.<p><b>Étym</b>. φριμάσσομαι.`

@@ -1,0 +1,1 @@
+lar[63966]=`<b>ου (τὸ) :<br>      1</b> lieu d’exercice, PLUT. <i>Dem. 8</i>.<br><b>      2</b> instrument sur lequel on s’exerce, ANAXANDR. (ATH. <i>638d</i>).<p><b>Étym</b>. μελετάω.`

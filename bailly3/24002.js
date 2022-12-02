@@ -1,0 +1,1 @@
+lar[24002]=`<b>Δεσποσιο·ναῦται, ῶν (οἱ)</b> Hilotes spartiates, qu’on affranchissait à condition de servir comme matelots, MYRON (ATH. <i>271f</i>).<p><b>Étym</b>. δεσπόσιος, ναύτης.`

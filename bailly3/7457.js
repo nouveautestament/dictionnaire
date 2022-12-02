@@ -1,0 +1,1 @@
+lar[7457]=`<b>ἀνα·πορεύομαι</b>, aller en haut <i>ou</i> en avant, DC. <i>56, 13 ; 75, 9</i>.`

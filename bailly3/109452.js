@@ -1,0 +1,1 @@
+lar[109452]=`<b>ή, όν</b>, de la campagne, POLL. <i>9, 13</i>.<p><b>Étym</b>. χώρα.`

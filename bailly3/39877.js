@@ -1,0 +1,1 @@
+lar[39877]=`<b>ἐπ·ορθρισμός, οῦ (ὁ)</b> action de faire qqe ch. de grand matin, PLUT. <i>M. 654f</i>.<p><b>Étym</b>. ἐπί, ὄρθρος.`

@@ -1,0 +1,1 @@
+lar[14680]=`<font color="purple">[ᾱ]</font> (<i>seul. prés. et ao</i>. ἠρίστισα) donner à dîner à, <i>acc</i>. AR. <i>Eq. 538, Av. 659</i>.<br><b><i>Moy.</i></b> dîner, HPC. <i>V. med. 12</i>.<p><b>Étym</b>. ἄριστον.`

@@ -1,0 +1,1 @@
+lar[79010]=`<b>περι·οκέλλω</b>, aborder à, <i>d’où fig</i>. tomber dans, <i>avec</i> εἰς <i>et l’acc</i>. DS. <i>12, 12</i>.`

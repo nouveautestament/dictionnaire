@@ -1,0 +1,1 @@
+lar[61714]=`<b>λοφο·ποιός, οῦ (ὁ)</b> fabricant de panaches, AR. <i>Pax 545, 1209</i>.<p><b>Étym</b>. λόφος, ποιέω.`

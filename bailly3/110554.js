@@ -1,0 +1,1 @@
+lar[110554]=`<i>adv</i>., hors de la blessure, ORPH. <i>Lith. 647</i>.<p><b>Étym</b>. ὠτειλή, -θεν.`

@@ -1,0 +1,1 @@
+lar[99195]=`<b>ας (ἡ)</b> <font color="purple">[τῑ]</font><br><b>      1</b> gouvernement fondé sur l’amour des honneurs, PLAT. <i>Rsp. 545b, 550d.</i><br><b>      2</b> <i>à Rome,</i> la censure, DC. <i>52, 51</i>.<p><b>Étym</b>. τιμή, ἄρχω.`

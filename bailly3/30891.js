@@ -1,0 +1,1 @@
+lar[30891]=`<b>εἰσ·σπάω</b> (<i>3 pl. ao. moy</i>. εἰσεσπάσαντο), attirer dans, <i>avec</i> εἰς <i>et l’acc</i>. SPT. <i>Gen. 19, 10</i> ; CHRYS. <i>1, 355</i>.`

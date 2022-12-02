@@ -1,0 +1,1 @@
+lar[10705]=`<b>εως (ἡ)</b> action de repousser, répulsion, ARSTT. <i>Respir. 20, 7</i>.<p><b>Étym</b>. ἀντωθέω.`

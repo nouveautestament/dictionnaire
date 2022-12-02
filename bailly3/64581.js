@@ -1,0 +1,1 @@
+lar[64581]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> arrivée d’un astre, <i>particul</i>. du soleil, au méridien, STR. <i>75</i>.<p><b>Étym</b>. μεσουρανέω.`

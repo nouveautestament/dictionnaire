@@ -1,0 +1,1 @@
+lar[73144]=`<b>άδος (ἡ)</b> sorte d’olive, NIC. <i>Al. 8</i>.<p><b>Étym</b>. <i>cf</i>. ὄρχις.`

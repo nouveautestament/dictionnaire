@@ -1,0 +1,1 @@
+lar[105744]=`<b>φιλό·δειπνος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime les festins, ANTIDOT. (ATH. <i>642d</i>) ; τὸ φ. PLUT. <i>M. 726a</i>, l’amour des bons repas.<br><b>      2</b> qui aime à donner à dîner, hospitalier, PHIL. <i>2, 70</i>.<p><b>Étym</b>. φ. δεῖπνον.`

@@ -1,0 +1,1 @@
+lar[83257]=`<i>ou</i> <b>Πράς, αντός (ἡ)</b> Pras, <i>v. de Perrhæbie,</i> XÉN. <i>Ages. 2, 5 ; Hell. 4, 3, 9, etc</i>.`

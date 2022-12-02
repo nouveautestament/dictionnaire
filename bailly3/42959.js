@@ -1,0 +1,1 @@
+lar[42959]=`<b>εὐ·πάτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de noble naissance, ESCHL. <i>Pers. 969</i>.<br><b>      2</b> qui est bon père, MAN. <i>4, 86</i>.<p><b>Étym</b>. εὖ, πατήρ.`

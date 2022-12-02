@@ -1,0 +1,1 @@
+lar[86189]=`<b>εως (ἡ)</b> habitation voisine, PAUS. <i>6, 25, 5</i>.<p><b>Étym</b>. προσοικέω.`

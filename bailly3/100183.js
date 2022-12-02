@@ -1,0 +1,1 @@
+lar[100183]=`<b>τρι·δύστηνος, ος, ον</b> <font color="purple">[ῐ]</font> trois fois malheureux, <i>càd</i>. très malheureux, ANTH. <i>9, 571, 1, var</i>. <b>τρισδύστηνος</b>.<p><b>Étym</b>. τρ. δύστηνος.`

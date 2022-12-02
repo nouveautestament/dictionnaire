@@ -1,0 +1,1 @@
+lar[104681]=`<b>ητος (ἡ)</b> couleur brune <i>ou</i> sombre, ARSTT. <i>Plant. 2, 9, 5</i>.<p><b>Étym</b>. φαιός.`

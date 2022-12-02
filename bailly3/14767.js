@@ -1,0 +1,1 @@
+lar[14767]=`<b>Ἀρί·στρατος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Aristratos, <i>h</i>. DÉM. <i>18, 48 Baiter-Sauppe, etc.</i> ; PLUT. <i>Arat. 13</i>.<p><b>Étym</b>. ἀρι-, στρατός.`

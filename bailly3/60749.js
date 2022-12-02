@@ -1,0 +1,1 @@
+lar[60749]=`<b>*λῆθος</b>, <i>seul. dor</i>. λᾶθος, εος-ους (τὸ) <font color="purple">[ᾱ]</font> <i>c</i>. λήθη, THCR. <i>Idyl. 23, 24</i>.`

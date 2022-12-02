@@ -1,0 +1,1 @@
+lar[84350]=`<b>ης (ἡ)</b> ce qu’on expose, enseigne <i>ou</i> étalage de marchand, CHRYS.<p><b>Étym</b>. προτίθημι.`

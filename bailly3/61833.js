@@ -1,0 +1,1 @@
+lar[61833]=`<i>ou</i> <b>Λυκαῖος, α, ον</b>, du Lycée, <i>ép. de Zeus,</i> PD. <i>O. 9, 103 ; 13, 104</i> ; HDT. <i>4, 203 ; ou de Pan,</i> ANTH. <i>6, 188</i>.<p>➳ Λυκαῖος, CALL. <i>Jov. 4</i>.`

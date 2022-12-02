@@ -1,0 +1,1 @@
+lar[37569]=`<i>adv</i>., d’une manière insuffisante, PLAT. <i>Leg. 899d</i>.<p><b>Étym</b>. ἐπιδεής.`

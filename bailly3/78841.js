@@ -1,0 +1,1 @@
+lar[78841]=`<b>περι·κυδαίνω</b> <font color="purple">[ῡ]</font> honorer à l’excès, SIB. <i>3, 575</i>.`

@@ -1,0 +1,1 @@
+lar[51400]=`<b>ων (οἱ)</b> les habitants de Cameria, PLUT. <i>Mar. 28</i>.<p><b>Étym</b>. Καμερία ; <i>cf</i>. Καμέριοι.`

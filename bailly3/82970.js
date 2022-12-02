@@ -1,0 +1,1 @@
+lar[82970]=`<b>ΐδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f. c</i>. ποτάμιος, A.RH. <i>3, 1219</i> (ποταμίτιδες, <i>Schneid. et Merkel</i>) ; NIC. <i>Al. 128, etc</i>.`

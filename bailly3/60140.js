@@ -1,0 +1,1 @@
+lar[60140]=`<b>λειο·τριβής, ής, ές</b> <font color="purple">[ῐ]</font> réduit en poudre fine, DIOSC.<p><b>Étym</b>. λεῖος, τρίβω.`

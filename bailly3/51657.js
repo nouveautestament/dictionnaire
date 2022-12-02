@@ -1,0 +1,1 @@
+lar[51657]=`<b>ου (ὁ)</b> Kapparos, <i>n. de chien,</i> PLUT. <i>M. 969e</i>.`

@@ -1,0 +1,1 @@
+lar[41987]=`<b>εὐ·έντευκτος, ος, ον</b>, facile à aborder, affable, PHIL. <i>2, 187</i>.<p><b>Étym</b>. εὖ, ἐντυγχάνω.`

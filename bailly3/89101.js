@@ -1,0 +1,1 @@
+lar[89101]=`<b>ητος (ἡ)</b> état d’un corps avarié <i>ou</i> usé, CHRYS.<p><b>Étym</b>. σαθρός.`

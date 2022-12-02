@@ -1,0 +1,1 @@
+lar[97259]=`<b>Σώσ·ιππος, ου (ὁ)</b> Sôsîppos :<br><b>      1</b> <i>poète de la nouvelle comédie,</i> ATH. <i>133f.</i><br><b>      2</b> <i>autre,</i> ANTH. <i>6, 296</i>.<p><b>Étym</b>. σῴζω, ἵππος.`

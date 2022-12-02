@@ -1,0 +1,1 @@
+lar[3955]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> habitant du littoral, ANTH. <i>6, 304</i>.<p><b>Étym</b>. ἀκτή.`

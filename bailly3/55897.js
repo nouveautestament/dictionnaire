@@ -1,0 +1,1 @@
+lar[55897]=`<b>Κλεο·κράτης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Kléokratès, <i>h</i>. ESCHN. <i>Ep. 4, 1</i>.<p><b>Étym</b>. κλ. κράτος.`

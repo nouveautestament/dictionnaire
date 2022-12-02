@@ -1,0 +1,1 @@
+lar[26426]=`<b>δι·ϊκμάζω</b> (<i>part. prés. pass</i>. -ομένης) mouiller, humecter, TH. <i>C.P. 3, 4, 3</i>.<p><b>Étym</b>. διά, ἰκμάς.`

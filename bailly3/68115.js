@@ -1,0 +1,1 @@
+lar[68115]=`<b>νεό·γυιος, ος, ον</b>, aux membres jeunes, <i>càd</i>. jeune, PD. <i>N. 9, 24</i>.<p><b>Étym</b>. ν. γυῖον.`

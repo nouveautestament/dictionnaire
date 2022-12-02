@@ -1,0 +1,1 @@
+lar[75382]=`<b>παραβατέω-ῶ</b> <font color="purple">[βᾰ]</font><br><b>      1</b> combattre sur un char, à côté du conducteur, PHILSTR. <i>Im. 11</i>.<br><b>      2</b> <i>en gén</i>. se tenir à côté du conducteur, ATH. <i>609d</i>.<p>➳ <i>Poét</i>. παραιβατέω, ATH. <i>l.c</i>.<p><b>Étym</b>. παραβάτης.`

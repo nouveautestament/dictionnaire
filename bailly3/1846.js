@@ -1,0 +1,1 @@
+lar[1846]=`<b>εως (ἡ)</b> entablement, encorbellement (d’une tour) : χωρὶς ἀετώσεως, ATHÉNÉE MÉC. <i>13, 3,</i> jusqu’à l’entablement.<p><b>Étym</b>. <i>cf</i>. ἀετός, ἀέτωμα.`

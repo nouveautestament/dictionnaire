@@ -1,0 +1,1 @@
+lar[7001]=`<b>ατός (τὸ)</b> vocifération, EPIC. (CLEOM. <i>2, p. 91</i>).`

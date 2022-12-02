@@ -1,0 +1,1 @@
+lar[78861]=`<b>περι·λαλέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> bavarder tout alentour, à tort et à travers, AR. <i>Eccl. 230</i>.<br><b>      2</b> décrire longuement, <i>acc</i>. PHILSTR. <i>824</i>.`

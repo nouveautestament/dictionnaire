@@ -1,0 +1,1 @@
+lar[46117]=`<b>ου (τὸ)</b> <i>dim. de</i> θᾶκος, CIA. <i>2, add. 834, b, 2, 9 (329 av. J.-C.) v. Meisterh. p. 13, 9</i>.`

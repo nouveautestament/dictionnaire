@@ -1,0 +1,1 @@
+lar[13354]=`<b>ἀπο·σμήχω</b> <font color="darkgreen">(<i>ao.2 pass</i>. ἀπεσμήχην)</font> essuyer, PAUS. <i>5, 5, 11</i> ; LUC. <i>Tim. 54</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. RHÉT. <i>1, 639 W</i>.`

@@ -1,0 +1,1 @@
+lar[93920]=`<i>anc. att</i>. <b>ξυμμαχίς, ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. allié, THC. <i>1, 98</i> ; XÉN. <i>Ath. 1, 14, 16 ; subst</i>. ἡ σ. (<i>s.-e</i>. πόλις) THC. <i>2, 2</i> ; XÉN. <i>Hell. 7, 3, 11,</i> ville alliée, État allié ; <i>ou (s.-e</i>. δύναμις) forces alliées, les alliés, THC. <i>5, 36, 110</i>.<p><b>Étym</b>. σύμμαχος.`

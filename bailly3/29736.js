@@ -1,0 +1,1 @@
+lar[29736]=`<b>ἐγ·κοτύλη, ης (ἡ)</b> <font color="purple">[ῠ]</font> jeu où l’on se faisait porter le genou appuyé sur les mains des autres joueurs, ATH. <i>479a ;</i> PAUS. (EUST. <i>1282, 55).</i><p><b>Étym</b>. ἐν, κοτύλη.`

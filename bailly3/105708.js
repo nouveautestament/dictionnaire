@@ -1,0 +1,1 @@
+lar[105708]=`<b>φιλό·γαιος, ος, ον</b> <font color="purple">[ῐ]</font> ami de la terre, ANTH. <i>6, 104</i>.<p><b>Étym</b>. φ. γαῖα.`

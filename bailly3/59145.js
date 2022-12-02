@@ -1,0 +1,1 @@
+lar[59145]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action d’empêcher, de retenir, PLAT. <i>Soph. 220b ;</i> ARSTT. <i>Top. 8, 10, 6, etc. ; avec</i> μή <i>et l’inf</i>. APP. <i>Civ. 1, 1</i>.<p><b>Étym</b>. κωλύω.`

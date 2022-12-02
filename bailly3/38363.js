@@ -1,0 +1,1 @@
+lar[38363]=`<b>ἐπι·μαντεύομαι</b>, prédire en outre, APP. <i>Civ. 4, 127</i>.`

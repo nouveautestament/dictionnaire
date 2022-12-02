@@ -1,0 +1,1 @@
+lar[72511]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Horatius, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 8 ; cf</i>. Ὡράτιος.`

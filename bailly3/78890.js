@@ -1,0 +1,1 @@
+lar[78890]=`<b>περι·λιχμάω-ῶ :<br>      1</b> lécher tout autour, PLAT. <i>Ax. 372a.</i><br><b>      2</b> baiser avec tendresse, LUC. <i>M. cond. 34, etc.</i><br><b><i>Moy.</i></b> lécher tout autour, THCR. <i>Idyl. 25, 226 ; gén</i>. LUC. <i>Prom. 10</i>.`

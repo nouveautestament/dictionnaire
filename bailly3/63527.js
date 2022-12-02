@@ -1,0 +1,1 @@
+lar[63527]=`<b>ου (ὁ)</b> Mégillos, <i>h</i>. XÉN. <i>Hell. 3, 4, 6, etc</i>.`

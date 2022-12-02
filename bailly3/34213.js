@@ -1,0 +1,1 @@
+lar[34213]=`<i>adv</i>., au dedans, à l’intérieur, IL. <i>1, 243, etc.</i> ; OD. <i>5, 58, etc. ; particul</i>. dans la maison ; <i>en parl. des plaques intérieures d’un bouclier,</i> IL. <i>20, 271 ; avec le gén</i>. au dedans de, IL. <i>18, 287</i> ; HÉS. <i>fr. 37, 4 Gaisford</i> ; THCR. <i>Idyl. 16, 95</i>.<p><b>Étym</b>. ἔνδον, -θι.`

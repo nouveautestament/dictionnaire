@@ -1,0 +1,1 @@
+lar[109267]=`<b>Χρυσό·στομος, ος, ον</b> <font color="purple">[ῡ]</font> Chrysostome, <i>litt</i>. « à bouche d’or », <i>càd</i>. éloquent, persuasif, <i>surn. du rhéteur Dion,</i> PHILSTR. <i>V. soph. 1, 7 ; et de l’écrivain ecclésiast. Jean (d’Antioche).</i><p><b>Étym</b>. χρ. στόμα.`

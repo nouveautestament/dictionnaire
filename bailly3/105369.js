@@ -1,0 +1,1 @@
+lar[105369]=`<b>φθορο·ποιός, ός, όν</b>, qui corrompt <i>ou</i> détruit, pernicieux, ESCHL. <i>fr. 334</i> ; PHIL. (SUID. <i>632</i>) ; PLUT. <i>M. 911a ;</i> GEOP. <i>5, 26 ; avec le gén</i>. GEOP. <i>2, 27, 5</i>.<p><b>Étym</b>. φθορά, ποιέω.`

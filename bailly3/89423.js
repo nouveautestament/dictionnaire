@@ -1,0 +1,1 @@
+lar[89423]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit morceau de chair <i>ou</i> de viande, ARSTT. <i>G.A. 2, 7, 8 ; fr. 315</i> ; PLUT. <i>Cato ma. 23, M. 1088d</i>.<p><b>Étym</b>. <i>dim. de</i> σαρκίον.`

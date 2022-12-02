@@ -1,0 +1,1 @@
+lar[2555]=`<b>αἱματο·ρροέω-οῶ</b> <font color="purple">[ᾰ]</font> <i>c</i>. αἱμορρέω, HERM. <i>Iatr. 394, 12</i>.<p><b>Étym</b>. αἷ. ῥόος.`

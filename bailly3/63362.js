@@ -1,0 +1,1 @@
+lar[63362]=`<i>p. contr</i>. <b>μεγαλουργία, ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> grandeur des actions, LUC. <i>Cal. 17</i> (μεγαλουργία).<br><b>      2</b> magnificence, générosité, POL. <i>31, 3, 1</i> (μεγαλοεργία).<p><b>Étym</b>. μεγαλοεργός.`

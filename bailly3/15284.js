@@ -1,0 +1,1 @@
+lar[15284]=`<b>ής, ές</b>, sain et sauf, IL. <i>5, 515 ; 7, 308</i> ; OD. <i>13, 43</i> ; PLAT. <i>Crat. 406b ;</i> ANTH. <i>6, 203</i>.<p>➳ <i>Dat. pl. épq</i>. ἀρτεμέεσσι, OD. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[96594]=`<b>συ·σκευοφορέω-ῶ</b>, porter les bagages ensemble, XÉN. <i>Cyr. 8, 3, 7</i>.`

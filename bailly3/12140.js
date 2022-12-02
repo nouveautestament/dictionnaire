@@ -1,0 +1,1 @@
+lar[12140]=`<b>εως (ἡ)</b> action d’observer, <i>avec</i> πρός <i>et l’acc</i>. GEOP. <i>2, 3, 7</i>.<p><b>Étym</b>. ἀποβλέπω.`

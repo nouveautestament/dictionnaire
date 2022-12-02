@@ -1,0 +1,1 @@
+lar[12159]=`<b>ἀπο·βρέχω</b> <font color="darkgreen">(<i>ao</i>. ἀπέβρεξα)</font> faire infuser, macérer, TH. <i>C.P. 2, 5, 5 ; fig</i>. ZÉNON (STOB. <i>Fl. 36, 23</i>).`

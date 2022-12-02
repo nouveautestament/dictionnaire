@@ -1,0 +1,1 @@
+lar[68699]=`<font color="purple">[ᾰ]</font> jouer du fifre, EUP. <i>110 Kock</i>.<p><b>Étym</b>. νίγλαρος.`

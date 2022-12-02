@@ -1,0 +1,1 @@
+lar[98941]=`<b>τηλέ·πυλος, ος, ον</b> <font color="purple">[ῠ]</font> aux portes éloignées les unes des autres, <i>càd</i>. à la vaste enceinte, OD. <i>10, 82 ; 23, 318</i>.<p><b>Étym</b>. τ. πύλη.`

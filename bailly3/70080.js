@@ -1,0 +1,1 @@
+lar[70080]=`mordre, piquer, <i>d’où au pass. (seul. prés</i>. ὀδαξάομαι-ῶμαι) être mordu, piqué, <i>particul</i>. souffrir de démangeaisons, HPC. <i>8, 214 Littré</i> ; EL. <i>N.A. 7, 35</i>.<p>➳ <i>Fut. moy</i>. ὀδαξήσομαι, <i>au sens pass</i>. HPC. <i>8, 330 Littré</i>.`

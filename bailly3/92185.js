@@ -1,0 +1,1 @@
+lar[92185]=`<font color="purple">[ᾰ]</font> se tenir, EUR. <i>El. 316</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Alc. 90 conj</i>.<p><b>Étym</b>. στατός.`

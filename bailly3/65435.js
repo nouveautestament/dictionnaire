@@ -1,0 +1,1 @@
+lar[65435]=`<b>Μῆνος (ὁ) :<br>      1</b> Mèn <i>ou</i> Ménès, <i>roi d’Égypte,</i> HDT. <i>2, 4, 99</i>.<br><b>      2</b> le dieu Mèn, <i>masc. de</i> Μήνη, LUC. <i>J. tr. 8</i>.`

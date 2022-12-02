@@ -1,0 +1,1 @@
+lar[100353]=`<b>τρι·πιθήκινος, η, ον</b> <font color="purple">[ῐῐῐ]</font> trois fois aussi laid qu’un singe, ANTH. <i>11, 196</i>.<p><b>Étym</b>. τρ. πίθηκος.`

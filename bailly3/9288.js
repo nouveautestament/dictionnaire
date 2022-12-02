@@ -1,0 +1,1 @@
+lar[9288]=`<b>ἀν·ομολογούμενος, η, ον,<br>      1</b> non d’accord, contradictoire avec, <i>dat</i>. ARSTT. <i>An. pr. 1, 34, 4 ; abs</i>. PLAT. <i>Gorg. 495a.</i><br><b>      2</b> non convenu, ARSTT. <i>Rhet. 2, 22, 15</i>.<p><b>Étym</b>. ἀν-, <i>part. prés. pass. de</i> ὁμολογέω, <i>au sens d’un adj</i>.`

@@ -1,0 +1,1 @@
+lar[94764]=`<b>συν·ανατρέφω</b>, nourrir <i>ou</i> élever avec, CON. (PHOT. <i>Bibl. p. 134 a Bkk</i>.).`

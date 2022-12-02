@@ -1,0 +1,1 @@
+lar[110159]=`<b>ὠκιμο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> qui ressemble au basilic, NIC. <i>Al. 280.</i><p><b>Étym</b>. ὤκιμον, εἶδος.`

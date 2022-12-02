@@ -1,0 +1,1 @@
+lar[48759]=`<b>ἰθυ·σκόλιος, ος, ον</b> <font color="purple">[ῐθ]</font> droit (en hauteur, mais de surface) oblique (<i>v</i>. ἰθυκυφής) HPC. <i>Art. 810</i>.<p>➳ <i>Fém</i>. -ία, GAL. <i>2, p. 288, 11</i>.<p><b>Étym</b>. ἰ. σκολιός.`

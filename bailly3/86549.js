@@ -1,0 +1,1 @@
+lar[86549]=`<b>προ·συνίστημι</b> <font color="darkgreen">(<i>f</i>. -συστήσω, <i>ao</i>. συνέστησα, <i>etc</i>.)</font> recommander d’avance, DH. <i>Rhet. 10, 5</i> ; PLUT. <i>M. 19b</i>.`

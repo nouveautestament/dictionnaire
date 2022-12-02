@@ -1,0 +1,1 @@
+lar[10220]=`<b>ἀντι·παρρησιάζομαι</b>, parler à son tour avec franchise, PLUT. <i>M. 72e</i>.`

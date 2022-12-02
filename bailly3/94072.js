@@ -1,0 +1,1 @@
+lar[94072]=`<b>συμ·παρακελεύομαι</b>, exhorter ensemble, ISOCR. <i>295d</i>.<p><b>Étym</b>. σ. παρακελεύω.`

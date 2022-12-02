@@ -1,0 +1,1 @@
+lar[96431]=`<b>συν·υποστηρίζω</b>, soutenir ensemble, BAS. <i>4, 493 Migne</i>.`

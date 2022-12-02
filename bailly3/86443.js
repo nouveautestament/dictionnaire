@@ -1,0 +1,1 @@
+lar[86443]=`<b>προσ·ταλαιπωρέω-ῶ</b> <font color="purple">[ᾰ]</font> continuer de souffrir, d’être malheureux, THC. <i>2, 53</i> ; AR. <i>Lys. 766</i> ; PLUT. <i>Arat. 27</i>.`

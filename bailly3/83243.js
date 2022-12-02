@@ -1,0 +1,1 @@
+lar[83243]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qu’on peut <i>ou</i> qu’on doit exiger, POL. <i>22, 26, 17</i>.<p><b>Étym</b>. πράσσω.`

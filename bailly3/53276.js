@@ -1,0 +1,1 @@
+lar[53276]=`<b>κατα·ρροφέω-ῶ</b>, humer, avaler, HPC. <i>416, 6</i> ; XÉN. <i>Cyr. 1, 3, 9</i> ; ARSTT. <i>Probl. 4, 36</i> ; τι, HERMIAS (ATH. <i>563e</i>) ; τινος, ORIB. <i>173 Matthäi</i> qqe ch.<br><b><i>Moy.</i></b> <i>m. sign. acc</i>. RUF. <i>136 Matthäi</i>.`

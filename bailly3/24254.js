@@ -1,0 +1,1 @@
+lar[24254]=`<b>ατος (τὸ)</b> menées pour capter la faveur populaire, APP. <i>Civ. 1, 24</i>.<p><b>Étym</b>. δημοκοπέω.`

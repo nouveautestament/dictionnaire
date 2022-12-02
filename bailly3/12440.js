@@ -1,0 +1,1 @@
+lar[12440]=`<font color="purple">[ῠ]</font> <i>vb. de</i> ἀποθύω THÉM. <i>142</i>.`

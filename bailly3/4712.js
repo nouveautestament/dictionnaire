@@ -1,0 +1,1 @@
+lar[4712]=`<i>adv</i>., tour à tour, EMPÉD. <i>p. 27 Peyron</i>.<p><b>Étym</b>. ἀλλάσσω.`

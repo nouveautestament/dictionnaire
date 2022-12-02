@@ -1,0 +1,1 @@
+lar[29405]=`<b>ητος (ἡ)</b> proximité, STR. <i>188,</i> DYSC. <i>Pron. 289a ;</i> A. APHR. <i>Probl. 2, 3</i>.<p><b>Étym</b>. ἐγγύς.`

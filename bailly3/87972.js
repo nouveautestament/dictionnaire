@@ -1,0 +1,1 @@
+lar[87972]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. πυραλλίς, ARSTT. <i>H.A. 9, 1</i>.`

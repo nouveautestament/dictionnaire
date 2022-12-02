@@ -1,0 +1,1 @@
+lar[89683]=`<b>εως (ἡ) :<br>      1</b> ébranlement, ARÉT. <i>Cur. m. acut. 2, 2</i>.<br><b>      2</b> <i>particul</i>. ébranlement de l’épine dorsale, GAL. <i>De Articul. 18-1, 496</i>.<p><b>Étym</b>. σείω.`

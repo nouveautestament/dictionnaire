@@ -1,0 +1,1 @@
+lar[19263]=`<b>ή, όν</b> <font color="purple">[ᾰῐ]</font> propre à être gouverné par un roi, ARSTT. <i>Pol. 3, 17, 1</i>.<p><b>Étym</b>. <i>vb. de</i> βασιλεύω.`

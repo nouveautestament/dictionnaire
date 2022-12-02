@@ -1,0 +1,1 @@
+lar[26143]=`<b>ῆς (ἡ)</b> souffle à travers, TH. <i>C.P. 4, 12, 12</i> ; PLUT. <i>M. 890f</i>.<p><b>Étym</b>. διεκπνέω.`

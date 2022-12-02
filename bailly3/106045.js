@@ -1,0 +1,1 @@
+lar[106045]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> désir de primer, ZOS. <i>4, 51, 5</i> ; PORPH. <i>V. Plot. 10, etc.</i><br><b>      2</b> premier rang, prééminence, DS. <i>Exc. 2, p. 542</i>.<p><b>Étym</b>. φιλοπρωτεύω.`

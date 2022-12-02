@@ -1,0 +1,1 @@
+lar[71394]=`<b>οῦ (ὁ)</b> imitateur d’Homère, ATH. <i>620b</i>.<p><b>Étym</b>. Ὁμηρίζω.`

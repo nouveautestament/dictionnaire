@@ -1,0 +1,1 @@
+lar[35567]=`<b>ἐξ·αποφαίνω</b> <font color="darkgreen">(<i>ao</i>. ἐξαπέφηνα)</font> <i>c</i>. ἀποφαίνω, LUC. <i>Hes. 1</i>.`

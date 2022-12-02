@@ -1,0 +1,1 @@
+lar[107630]=`<b>ου (τὸ)</b> partie d’une machine à projectiles, HÉRON <i>Bel. 13</i>.`

@@ -1,0 +1,1 @@
+lar[11975]=`<b>ἀπ·ίλλω</b>, serrer, enfermer, LYS. <i>117, 37 (loi).</i><p><b>Étym</b>. ἀπό, ἴλλω.`

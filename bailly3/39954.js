@@ -1,0 +1,1 @@
+lar[39954]=`<b>ἑπτα·ετής, ής, ές</b>, âgé de sept ans, qui dure sept ans, HPC. <i>Progn. 43</i> ; PLAT. <i>Gorg. 471c</i>.<p><b>Étym</b>. ἑ. ἔτος.`

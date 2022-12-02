@@ -1,0 +1,1 @@
+lar[53208]=`<b>κατ·άρβυλος, ος, ον</b> <font color="purple">[ῠ]</font> qui tombe jusqu’aux pieds, <i>en parl. d’une robe,</i> SOPH. <i>fr. 559</i>.<p><b>Étym</b>. κ. ἀρβύλη.`

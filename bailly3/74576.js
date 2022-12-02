@@ -1,0 +1,1 @@
+lar[74576]=`<b>παλι·νηνεμία</b>, <i>ion</i>. <b>παλι·νηνεμίη, ης (ἡ)</b> <font color="purple">[ᾰῐν]</font> calme renaissant, ANTH. <i>10, 102</i>.<p><b>Étym</b>. π. νήνεμος.`

@@ -1,0 +1,1 @@
+lar[20757]=`<i>acc</i>. <b>ιν (ἡ)</b> <i>mot cypriote c</i>. θρίδαξ, laitue, NIC. (ATH. <i>69b</i>).`

@@ -1,0 +1,1 @@
+lar[55400]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Kiérion (<i>auj</i>. Pýrgos Kieríou) <i>v. de Thessalie,</i> PLAT. <i>Ep. 17</i>.`

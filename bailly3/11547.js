@@ -1,0 +1,1 @@
+lar[11547]=`<i>adv</i>., avec menace, NYSS. <i>2, 213</i>.`

@@ -1,0 +1,1 @@
+lar[90998]=`<b>ίδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f.</i> : Σκ. πέτραι, EUR. <i>Hipp. 979, etc.</i> ; STR. <i>391 ; abs</i>. αἱ Σκ. POL. <i>16, 16, 4,</i> les roches Scironiennes ; Σκιρωνὶς ὁδός, HDT. <i>8, 71,</i> route d’Athènes à Mégare où sont situées les roches Scironiennes.<p><b>Étym</b>. Σκίρων.`

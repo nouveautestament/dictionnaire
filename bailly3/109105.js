@@ -1,0 +1,1 @@
+lar[109105]=`<b>χρυσεό·δμητος, ος, ον</b> <font color="purple">[ῡ]</font> fait (<i>litt</i>. bâti) d’or, ESCHL. <i>Ch. 616</i>.<p><b>Étym</b>. χρ. δέμω.`

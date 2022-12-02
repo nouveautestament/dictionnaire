@@ -1,0 +1,1 @@
+lar[51284]=`<b>οῦ (ὁ)</b> qui se pare avec recherche, élégant, ISOCR. <i>7d ;</i> ARSTT. <i>Rhet. 2, 24</i>.<p><b>Étym</b>. καλλωπίζω.`

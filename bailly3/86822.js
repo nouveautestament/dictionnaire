@@ -1,0 +1,1 @@
+lar[86822]=`<b>προ·τρυγητής, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> étoile au nord du signe de la Vierge, qui annonce l’époque de la vendange, PTOL.<p><b>Étym</b>. π. τρυγάω.`

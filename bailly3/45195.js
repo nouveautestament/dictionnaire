@@ -1,0 +1,1 @@
+lar[45195]=`<b>άδος</b>, <i>adj. f</i>. fille d’Hèlios, <i>seul. au pl.</i> : Ἡλιάδες κοῦραι, PARMÉN. <i>9,</i> les Hèliades ; <i>abs</i>. αἱ Ἡλιάδες A.RH. <i>4, 604 m. sign</i>.<p>➳ <i>Dat. épq</i>. Ἡλιάδεσσι, NONN. <i>D. 27, 202</i>.<p><b>Étym</b>. Ἥλιος.`

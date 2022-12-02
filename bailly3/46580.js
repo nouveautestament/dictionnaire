@@ -1,0 +1,1 @@
+lar[46580]=`<b>ου (ὁ)</b> Thémistios (Thémiste) <i>h</i>. PD. <i>N. 5, 91 ; I. 6, 95 ; particul</i>. rhéteur célèbre.<p><b>Étym</b>. <i>v</i>. θεμίστιος.`

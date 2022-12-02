@@ -1,0 +1,1 @@
+lar[53021]=`<b>οῦ (ὁ)</b> accès d’un mal, DIOSC. TH. <i>3, p. 427</i>.<p><b>Étym</b>. καταπειράζω.`

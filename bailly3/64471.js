@@ -1,0 +1,1 @@
+lar[64471]=`<font color="darkgreen">(<i>seul. part. prés. fém. éol</i>. μεσεῦσα)</font> <i>c</i>. μεσεύω ANTH. <i>9, 584</i>.`

@@ -1,0 +1,1 @@
+lar[6663]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., en un sens spirituel, NAZ. <i>2, 645</i> ; NYSS. <i>3, 1153 Migne</i>.<p><b>Étym</b>. ἀναγωγός.`

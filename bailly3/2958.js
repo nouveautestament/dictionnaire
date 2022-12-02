@@ -1,0 +1,1 @@
+lar[2958]=`<font color="purple">[ᾱ]</font> <i>vb. de</i> αἰτιάομαι, XÉN. <i>Cyr. 7, 1, 11</i> ; PLAT. <i>Rsp. 379c, etc</i>.`

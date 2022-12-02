@@ -1,0 +1,1 @@
+lar[4835]=`<b>ἀλλο·φάσσω</b> (<i>seul. prés</i>.) divaguer, HPC. <i>Progn. 44 dout</i>.<p><b>Étym</b>. ἄ. φημί.`

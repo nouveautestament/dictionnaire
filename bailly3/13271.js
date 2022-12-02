@@ -1,0 +1,1 @@
+lar[13271]=`<b>ἀπο·σάττω :<br>      1</b> décharger un fardeau, SPT. ; <i>p. anal</i>. ἀπ. ἑαυτόν, DIPH. (ATH. <i>292e</i>) se décharger le ventre.<br><b>      2</b> boucher un trou, DIN. <i>(Bkk. 435</i>).<br><b><i>Moy.</i></b> se décharger d’un fardeau, PHILÉM. (ATH. <i>664d</i>).`

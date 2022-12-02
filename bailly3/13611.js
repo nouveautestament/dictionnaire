@@ -1,0 +1,1 @@
+lar[13611]=`<b>ἀπο·τινάσσω</b> <font color="purple">[ῐ]</font> faire tomber en secouant, EUR. <i>Bacch. 253</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. GAL. ; <i>fig</i>. SPT. <i>1Reg. 10, 2</i>.`

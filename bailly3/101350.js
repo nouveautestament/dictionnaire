@@ -1,0 +1,1 @@
+lar[101350]=`<b>ος, ον</b>, <i>c</i>. ὑβριστής <i>et</i> ὑβριστικός, PLAT. COM. <i>2-2, 648, 2 Mein.</i> ; PHÉRÉCR. <i>2-1, 347, 23 Mein</i>.<p>•<i> Cp</i>. -ότερος, HDT. <i>3, 81</i> ; XÉN. <i>Cyr. 5, 5, 41 ; An. 5, 5, 3</i> ; PLAT. <i>Leg. 641c ; sup</i>. -ότατος, AR. <i>Vesp. 1294</i> ; XÉN. <i>An. 5, 8, 22 ; Mem. 1, 2, 12</i> ; PLAT. <i>Leg. 808d ;</i> LUC. <i>Prom. 5</i>.`

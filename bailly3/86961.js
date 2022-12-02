@@ -1,0 +1,1 @@
+lar[86961]=`<b>ας (ἡ)</b> Prophthasia, <i>v. de Sogdiane,</i> PLUT. <i>Alex. fort. 1, 5</i>.`

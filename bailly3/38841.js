@@ -1,0 +1,1 @@
+lar[38841]=`<b>ἐπι·πυκνόω-ῶ</b>, condenser, ARSTT. <i>Col. 3, 17</i>.`

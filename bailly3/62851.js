@@ -1,0 +1,1 @@
+lar[62851]=`<font color="purple">[ᾱᾱ]</font> <i>dor. c</i>. μηνυτής.`

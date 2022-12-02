@@ -1,0 +1,1 @@
+lar[21149]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Gadeires, PLAT. <i>Crit. 114b ;</i> EUP. <i>etc</i>.<p><b>Étym</b>. Γάδειρα.`

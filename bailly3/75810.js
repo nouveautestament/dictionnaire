@@ -1,0 +1,1 @@
+lar[75810]=`<b>ή, όν</b>, qui frappe l’esprit, qui trouble la raison, HPC. <i>Prorrh. 68, etc</i>.<p><b>Étym</b>. παρακρούω.`

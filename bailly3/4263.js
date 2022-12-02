@@ -1,0 +1,1 @@
+lar[4263]=`<b>Ἀλεξι·κράτης (ὁ)</b> Alexikratès, <i>h</i>. PLUT. <i>Pyrrh. 5, etc</i>.<p><b>Étym</b>. ἀ. κράτος.`

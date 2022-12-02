@@ -1,0 +1,1 @@
+lar[106123]=`<b>φιλο·σώφρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui aime la modération, la mesure, la tempérance, sage, prudent, EUM. <i>305</i> ; NAZ. <i>t. 1, p. 278c</i>.`

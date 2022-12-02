@@ -1,0 +1,1 @@
+lar[28152]=`<b>δυσ·αίων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> dont la vie est malheureuse, infortuné, SOPH. <i>O.C. 150</i> ; LYC. <i>314 ; en parl. de la vie elle-même,</i> EUR. <i>Hel. 214, Suppl. 970</i>.<p><b>Étym</b>. δ. αἰών.`

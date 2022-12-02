@@ -1,0 +1,1 @@
+lar[42912]=`<b>ας (ἡ)</b> bonheur d’avoir de beaux <i>ou</i> de bons enfants, ESCHL. <i>fr. 281,</i> EUR. <i>Suppl. 490, Ion 678</i> ; AR. <i>Vesp. 1512</i> ; ISOCR. <i>229c</i>.<p><b>Étym</b>. εὔπαις.`

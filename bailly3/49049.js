@@ -1,0 +1,1 @@
+lar[49049]=`<b>ἰνο·ειδής, ής, ές</b>, rempli de fibres, nerveux, TH. <i>H.P. 3, 12, 7</i>.<p><b>Étym</b>. ἴς, εἶδος.`

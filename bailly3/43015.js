@@ -1,0 +1,1 @@
+lar[43015]=`<b>ας (ἡ)</b> solidité, ADAM. <i>Physiogn. 2, 16</i>.<p><b>Étym</b>. εὔπηκτος.`

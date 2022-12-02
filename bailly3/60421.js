@@ -1,0 +1,1 @@
+lar[60421]=`<b>λεπτο·μεριμνία, ας (ἡ)</b> sollicitude méticuleuse, CORN. <i>18</i>.<p><b>Étym</b>. λ. μέριμνα.`

@@ -1,0 +1,1 @@
+lar[52186]=`<b>ατος (τὸ)</b> mets, aliment, nourriture, SPT. <i>Deut. 31, 17, etc</i>.<p><b>Étym</b>. καταβιβρώσκω.`

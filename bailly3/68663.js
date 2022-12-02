@@ -1,0 +1,1 @@
+lar[68663]=`<b>ου (τὸ)</b> petite île, îlot, XÉN. <i>Hell. 6, 1, 4</i> ; ISOCR. <i>111d, etc</i>.<p><b>Étym</b>. νῆσος, ὕδωρ.`

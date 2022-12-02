@@ -1,0 +1,1 @@
+lar[99499]=`<font color="purple">[ῠ]</font> <i>s.-e</i>. τέχνη, art de voler par effraction, SEXT. <i>M. 2, 12</i>.<p><b>Étym</b>. τοιχωρύχος.`

@@ -1,0 +1,1 @@
+lar[44563]=`<i>c</i>. ζητέω HH. <i>Ap. 215, Merc. 392, etc.</i> ; HÉS. <i>O. 398</i>.<p>➳ <i>Dor</i>. ζατεύω <font color="purple">[ᾱ]</font> ALCM. <i>33</i>.`

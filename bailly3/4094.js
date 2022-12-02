@@ -1,0 +1,1 @@
+lar[4094]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰᾰ]</font> sel, ARSTT. <i>Mir. 138</i> ; THCR. <i>Idyl. 15, 17</i> ; PLUT. <i>M. 668f ;</i> NT. <i>Matth. 5, 13</i>.<p><b>Étym</b>. ἅλς.`

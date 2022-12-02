@@ -1,0 +1,1 @@
+lar[50280]=`<b>ῆς (ἡ)</b> la source pure, <i>n. d’une source,</i> ANTH. <i>9, 257 ; 9, 374</i>.<p><b>Étym</b>. <i>fém. ion. de</i> καθαρός.`

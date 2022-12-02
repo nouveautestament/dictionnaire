@@ -1,0 +1,1 @@
+lar[30875]=`<b>ῆς (ἡ)</b> aspiration, ARÉT. <i>5</i> ; STR. <i>288</i> ; PLUT. <i>M. 903e</i>.<p><b>Étym</b>. εἰσπνέω.`

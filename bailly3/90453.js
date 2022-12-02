@@ -1,0 +1,1 @@
+lar[90453]=`<b>ᾶ (ὁ)</b> Sisenna, <i>n. d’h. rom., particul. historien,</i> PLUT. <i>Luc. 1, etc</i>.`

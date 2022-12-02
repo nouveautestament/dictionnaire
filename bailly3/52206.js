@@ -1,0 +1,1 @@
+lar[52206]=`<b>ή, όν</b>, qui aime à tourner en dérision, moqueur, MÉN. RHÉT. <i>143, 7, p. 337, l. 28 Spengel</i>.<p><b>Étym</b>. καταγελάω.`

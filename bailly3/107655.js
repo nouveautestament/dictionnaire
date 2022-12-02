@@ -1,0 +1,1 @@
+lar[107655]=`<b>χαλκο·δάμας, αντος (ὁ, ἡ)</b> <font color="purple">[δᾰ]</font> qui dompte l’airain, <i>ép. d’une enclume,</i> PD. <i>I. 6, 107</i>.<p><b>Étym</b>. χ. δαμάω.`

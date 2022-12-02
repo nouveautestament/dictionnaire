@@ -1,0 +1,1 @@
+lar[74595]=`<b>παλιν·στρόβητος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tourne et retourne, LYC. <i>739</i>.<p><b>Étym</b>. π. στροβέω.`

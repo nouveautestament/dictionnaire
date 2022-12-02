@@ -1,0 +1,1 @@
+lar[86028]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font><br><b>      1</b> action de s’appuyer contre, <i>avec</i> πρός <i>et l’acc</i>. DS. <i>3, 26</i>.<br><b>      2</b> <i>fig</i>. inclination, penchant, POL. <i>6, 10, 10</i> ; SEXT. <i>P. 1, 16</i> ; τινι, POL. <i>5, 51, 8,</i> vers qqn ; κατὰ πρόσκλισιν, NT. <i>1Tim. 5, 21,</i> avec partialité.<p><b>Étym</b>. προσκλίνω.`

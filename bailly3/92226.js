@@ -1,0 +1,1 @@
+lar[92226]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Staphylos, <i>h</i>. PLUT. <i>Thes. 20</i> ; NONN. <i>D. 18, 5, etc</i>.<p><b>Étym</b>. σταφυλή.`

@@ -1,0 +1,1 @@
+lar[87364]=`<b>ωτος (ὁ)</b> le dieu ailé, <i>n. imaginé par</i> PLAT. <i>Phædr. 252b pour expliquer le n</i>. Ἔρως.<p><b>Étym</b>. πτερόω.`

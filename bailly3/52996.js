@@ -1,0 +1,1 @@
+lar[52996]=`<b>εως (ἡ)</b> action de transpercer, P. ÉG. <i>274 Briau</i>.<p><b>Étym</b>. καταπείρω.`

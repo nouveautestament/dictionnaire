@@ -1,0 +1,1 @@
+lar[30604]=`<b>εἰρηνο·ποιέω-ῶ</b>, pacifier, concilier, SPT. <i>Prov. 10, 11</i> ; NT. <i>Col. 1, 20</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. HERM. (STOB. <i>Ecl. 1, 984).</i><p><b>Étym</b>. εἰ. ποιέω.`

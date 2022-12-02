@@ -1,0 +1,1 @@
+lar[99227]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> qu’on peut évaluer : ἀγὼν τιμητός, DÉM. <i>834, 36,</i> procès où la fixation de la peine est à la discrétion du juge (<i>p. opp. à</i> ἀτίμητος).<p><b>Étym</b>. τιμάω.`

@@ -1,0 +1,1 @@
+lar[54590]=`<b>κελαδό·δρομος, ος, ον</b> <font color="purple">[ᾰ]</font> qui court en poussant des cris retentissants, ORPH. <i>Arg. 900</i>.<p><b>Étym</b>. κέλαδος, δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[66424]=`<b>ατος (τὸ)</b> ouvrage en plomb, MOSCHION HIST. (ATH. <i>208a</i>).<p><b>Étym</b>. μολυβδόω.`

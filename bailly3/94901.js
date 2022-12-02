@@ -1,0 +1,1 @@
+lar[94901]=`<b>συν·απονίναμαι</b> <font color="darkgreen">(<i>ao</i>. -απωνάμην)</font> recueillir en même temps qqe avantage, THÉM. <i>58b</i>.`

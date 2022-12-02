@@ -1,0 +1,1 @@
+lar[53696]=`<b>κατα·φυράω-ῶ</b> <font color="purple">[ῡ]</font> soumettre, A. TR. <i>8, p. 436</i>.`

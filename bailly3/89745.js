@@ -1,0 +1,1 @@
+lar[89745]=`<b>σεληνο·ειδής, ής, ές</b>, en forme de croissant, CLÉOM. <i>Cycl. theor. 2, p. 88, 5</i>.<p><b>Étym</b>. σελήνη, εἶδος.`

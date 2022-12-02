@@ -1,0 +1,1 @@
+lar[42054]=`<i>adv</i>., dans une position inexpugnable, PLUT. <i>M. 503c</i>.<p><b>Étym</b>. εὐερκής.`

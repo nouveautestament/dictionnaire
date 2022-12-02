@@ -1,0 +1,1 @@
+lar[65765]=`<b>μικρό·φωνος, ος, ον :<br>      1</b> dont la voix est faible, ALEX. <i>(Bkk. p. 108, 4</i>) : ARSTT. <i>G.A. 5, 7, 9</i> ; GAL. <i>4, 169</i>.<br><b>      2</b> qui résonne faiblement, <i>en parl. de lettres, d’un son grêle,</i> DH. <i>Comp. p. 75, 12</i>.<p><b>Étym</b>. μ. φωνή.`

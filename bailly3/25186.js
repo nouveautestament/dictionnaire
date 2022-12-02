@@ -1,0 +1,1 @@
+lar[25186]=`<b>δια·ξύω</b> <font color="purple">[ῡ]</font><br><b>      1</b> enlever en raclant, racler, ARSTT. <i>Physiogn. 3, 10</i>.<br><b>      2</b> <i>p. ext</i>. déchirer, EL. (SUID. <i>v° ὅσα ἰδεῖν</i>).`

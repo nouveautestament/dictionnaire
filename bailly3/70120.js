@@ -1,0 +1,1 @@
+lar[70120]=`<b>ή, όν</b>, de voyage, de voyageur, POL. <i>31, 22, 6</i> ; HDN <i>5, 4, 12</i>.<p><b>Étym</b>. ὁδοιπόρος.`

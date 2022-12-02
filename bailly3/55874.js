@@ -1,0 +1,1 @@
+lar[55874]=`<b>Κλειτο·φῶν, ῶντος (ὁ)</b> Kleitophôn, <i>h</i>. PLAT. <i>Rsp. 340a ;</i> AR. <i>Ran. 967, etc</i>.<p><b>Étym</b>. κλ. *φάω.`

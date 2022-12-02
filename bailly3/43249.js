@@ -1,0 +1,1 @@
+lar[43249]=`<b>Εὐρύ·βατος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Eurybatos, <i>h</i>. THC. <i>1, 47 ; particul</i>. fourbe célèbre, PLAT. <i>Prot. 327d ;</i> DÉM. <i>233, 8</i> ; ESCHN. <i>73, 12</i>.<p><b>Étym</b>. <i>cf</i>. εὐρύβατος.`

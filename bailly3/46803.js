@@ -1,0 +1,1 @@
+lar[46803]=`<b>θεο·σύστατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui loue Dieu, CHRYS. <i>6, 606</i>.<p><b>Étym</b>. θ. συνίστημι.`

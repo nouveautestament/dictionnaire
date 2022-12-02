@@ -1,0 +1,1 @@
+lar[83427]=`<b>ης (ἡ)</b> Priène (<i>auj</i>. ruines près de Güllübahçe) <i>v. d’Ionie,</i> HDT. <i>1, 142</i> ; THC. <i>1, 115</i> ; XÉN. <i>Hell. 3, 2, 17, etc</i>.`

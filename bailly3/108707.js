@@ -1,0 +1,1 @@
+lar[108707]=`<b>έων (οἱ)</b> Kholarges, <i>dème attique de la tribu Akamantide,</i> AR. <i>Ach. 855, etc</i>.`

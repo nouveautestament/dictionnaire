@@ -1,0 +1,1 @@
+lar[97127]=`<b>οῦσα, όν</b>, <i>part. ao.2 de</i> ἔχω, <i>us. surt. dans les composés</i>.`

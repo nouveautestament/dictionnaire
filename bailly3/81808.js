@@ -1,0 +1,1 @@
+lar[81808]=`<b>πολυ·γράμματος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> très lettré, PLUT. <i>M. 1121f.</i><br><b>      2</b> marqué d’un grand nombre de lettres, AR. <i>fr. 43 Dind</i>.<p>•<i> Cp</i>. -ώτερος, PHILSTR. <i>p. 618</i>.<p><b>Étym</b>. π. γράμμα.`

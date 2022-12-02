@@ -1,0 +1,1 @@
+lar[103712]=`<b>ὑπο·πολλαπλασιεπιμόριος, ος, ον</b> <font color="purple">[ᾰσ]</font> diviseur d’un nombre πολλαπλασιεπιμόριος <i>(v. ce mot), p. ex</i>. 2 : 5, NICOM. <i>Arithm. p. 93, 94</i>.`

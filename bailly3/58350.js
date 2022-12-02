@@ -1,0 +1,1 @@
+lar[58350]=`<b>κυανό·πεζα, ης</b> <font color="purple">[ῡ <i>irrég.</i> ; ᾰ]</font> <i>adj. f</i>. aux pieds sombres <i>ou</i> noirs, <i>ép. d’une table,</i> IL. <i>11, 629</i>.<p><b>Étym</b>. κ. πέζα.`

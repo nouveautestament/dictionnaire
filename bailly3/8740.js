@@ -1,0 +1,1 @@
+lar[8740]=`<b>ἀν·ήροτος, ος, ον</b>, non labouré, OD. <i>9, 109 et 123</i> ; ESCHL. <i>Pr. 709</i> ; OPP. <i>C. 1, 462 ; fig</i>. LUC. <i>Lex. 19</i>.<p><b>Étym</b>. ἀν-, ἀρόω.`

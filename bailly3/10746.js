@@ -1,0 +1,1 @@
+lar[10746]=`<b>*ἀν·υπηρέτητος</b>, <i>seul. dor</i>. <b>ἀνυπηρέτατος, ος, ον</b> <font color="purple">[ᾱ]</font> sans serviteur, EURYPHAM. (STOB. <i>Fl. 3, 344).</i><p><b>Étym</b>. ἀν-, ὑπηρετέω.`

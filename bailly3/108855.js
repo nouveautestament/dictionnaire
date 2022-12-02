@@ -1,0 +1,1 @@
+lar[108855]=`<b>ης, ες</b>, plein d’herbe <i>ou</i> de foin, SPT. <i>2Macc. 5, 27</i>.<p><b>Étym</b>. χόρτος, -ωδης.`

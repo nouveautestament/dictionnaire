@@ -1,0 +1,1 @@
+lar[3106]=`<b>ά, όν</b> <font color="purple">[ᾰκ]</font> (<i>seul. cp</i>. -ότερος) muni d’arêtes, ARSTT. <i>H.A. 9, 37</i>.<p><b>Étym</b>. ἄκανθα.`

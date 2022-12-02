@@ -1,0 +1,1 @@
+lar[29632]=`<b>ἐγ·κεντρίζω :<br>      1</b> aiguillonner, éperonner, SPT. <i>Sap. 16, 11</i>.<br><b>      2</b> greffer, ARSTT. <i>Plant. 1, 6, 2</i> ; TH. <i>H.P. 2, 2, 5, etc</i>.<p><b>Étym</b>. ἐν, κ.`

@@ -1,0 +1,1 @@
+lar[86984]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> précaution, BAS.`

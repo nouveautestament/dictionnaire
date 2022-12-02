@@ -1,0 +1,1 @@
+lar[48624]=`<b>ας (ἡ)</b> action d’examiner les entrailles des victimes, <i>p. suite,</i> de prédire l’avenir, DS. <i>1, 73</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Acut. 384</i>.<p><b>Étym</b>. ἱεροσκόπος.`

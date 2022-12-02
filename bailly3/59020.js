@@ -1,0 +1,1 @@
+lar[59020]=`<b>ΐδος</b> <font color="purple">[ῠ]</font> <i>adj. f. c</i>. Κυταῖος, A.RH. <i>4, 511</i>.`

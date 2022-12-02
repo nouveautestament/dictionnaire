@@ -1,0 +1,1 @@
+lar[38953]=`<b>εως (ἡ)</b> annotation, remarque, DL. <i>7, 20</i>.<p><b>Étym</b>. ἐπισημειόω.`

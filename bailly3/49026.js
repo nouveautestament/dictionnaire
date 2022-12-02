@@ -1,0 +1,1 @@
+lar[49026]=`<b>ου (ὁ)</b> Indarnos, <i>général de Xerxès,</i> PLUT. <i>Apophth. lac. 60</i>.`

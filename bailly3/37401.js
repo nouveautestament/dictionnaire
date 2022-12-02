@@ -1,0 +1,1 @@
+lar[37401]=`<b>ἐπι·βροντάω-ῶ</b>, tonner en réponse, PLUT. <i>Marc. 12</i>.`

@@ -1,0 +1,1 @@
+lar[10920]=`<b>ἀξιο·μάθητος, ος, ον</b> <font color="purple">[μᾰ]</font> digne d’être appris, JAMBL. <i>V. Pyth. p. 3</i>.<p>•<i> Cp</i>. -ότερος, X. ÉPH. (STOB. <i>Fl. 4, p. 224 Mein.) conj</i>.<p><b>Étym</b>. ἄ. μανθάνω.`

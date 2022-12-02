@@ -1,0 +1,1 @@
+lar[4411]=`<b>ἁλι·ανθής, ής, ές</b> <font color="purple">[ᾰλ]</font> teint en fleur de mer, <i>càd</i>. en pourpre, ANTH. <i>5, 228 ; 7, 705</i>.<p><b>Étym</b>. ἅλς, ἄνθος.`

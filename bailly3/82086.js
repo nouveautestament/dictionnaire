@@ -1,0 +1,1 @@
+lar[82086]=`<b>πολυ·μακάριστος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> très heureux, NYSS.`

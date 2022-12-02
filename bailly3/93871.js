@@ -1,0 +1,1 @@
+lar[93871]=`<b>ου (ὁ)</b> qui aime les réunions, les fêtes, NAZ. <i>4, 108 Migne</i>.<p><b>Étym</b>. συμβολέω.`

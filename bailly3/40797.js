@@ -1,0 +1,1 @@
+lar[40797]=`<b>ἐρυθρό·χρως</b>, <i>gén</i>. <b>ωτος (ὁ, ἡ)</b> au teint rouge, de couleur rouge, CRAT. (ATH. <i>325e</i>).<p><b>Étym</b>. ἐ. χρώς.`

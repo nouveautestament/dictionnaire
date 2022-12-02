@@ -1,0 +1,1 @@
+lar[60497]=`<b>ου (ὁ)</b> causeur, bavard, TIMON. (DL. <i>9, 40</i>).`

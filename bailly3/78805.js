@@ -1,0 +1,1 @@
+lar[78805]=`<b>ατος (τὸ) :<br>      1</b> morceau coupé autour, rognure, <i>d’où</i> ragoût fait de menus morceaux de viande, ALEX. (<i>Com. fr. 3, 466</i>) ; ATH. <i>149b ; fig</i>. AR. <i>Eq. 372</i>.<br><b>      2</b> profil d’une personne, PLUT. <i>M. 765c</i>.<p><b>Étym</b>. περικόπτω.`

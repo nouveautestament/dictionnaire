@@ -1,0 +1,1 @@
+lar[79508]=`<font color="purple">[ᾱ]</font> <i>adv</i>., avec un son très clair, très net, M. ANT. <i>3, 80</i>.`

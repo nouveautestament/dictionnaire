@@ -1,0 +1,1 @@
+lar[76488]=`<b>παρα·ψάλλω,<br>      1</b> toucher légèrement d’un instrument à cordes, <i>acc</i>. PLUT. <i>Demetr. 19</i>.<br><b>      2</b> jouer d’un instrument à cordes auprès de qqn, <i>dat</i>. PHILSTR. <i>811</i>.`

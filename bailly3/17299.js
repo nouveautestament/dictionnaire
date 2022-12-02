@@ -1,0 +1,1 @@
+lar[17299]=`<b>α, ον</b>, d’Ausonie, Ausonien, NONN. <i>D. 41, 390</i> ; ANTH. <i>11, 403, etc.</i> ; οἱ Αὐ. <i>c</i>. Αὔσονες, ARSTT. <i>Pol</i>. DH. <i>etc</i>.<p>➳ <i>Fém. ion</i>. -ίη, ANTH. <i>7, 233</i> ; A.RH. <i>4, 551, etc</i>.`

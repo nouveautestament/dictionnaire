@@ -1,0 +1,1 @@
+lar[62400]=`<b>ή, όν</b>, de cuisinier, ATH. <i>659a</i>.<p><b>Étym</b>. μαίσων.`

@@ -1,0 +1,1 @@
+lar[40868]=`<b>οῦ (ὁ)</b> héron (<i>Ardea major</i> L.) IL. <i>10, 274</i> ; AR. <i>Av. 886</i> ; ARSTT. <i>H.A. 9, 1, 23 (cf</i>.<p><b>Étym</b>. ῥῳδιός.`

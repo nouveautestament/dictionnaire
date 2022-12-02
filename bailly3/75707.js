@@ -1,0 +1,1 @@
+lar[75707]=`<font color="purple">[ῡ]</font> <i>adv</i>., témérairement, PLAT. <i>Leg. 752b</i>.<p><b>Étym</b>. παρακινδυνεύω.`

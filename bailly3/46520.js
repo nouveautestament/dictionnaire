@@ -1,0 +1,1 @@
+lar[46520]=`<b>ου (τὸ) :<br>      1</b> soulagement, douceur qui charme, <i>en parl. du sommeil, de la musique, etc</i>. EUR. <i>Or. 211</i> ; ATH. <i>220f ;</i> LUC. <i>Im. 14</i>.<br><b>      2</b> charme magique, enchantement, sortilège, HLD. <i>7, 9</i>.<p><b>Étym</b>. θέλγω.`

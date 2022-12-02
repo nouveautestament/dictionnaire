@@ -1,0 +1,1 @@
+lar[42179]=`<b>εὔ·θετος, ος, ον</b>, bien disposé, bien arrangé, HPC. <i>Off. 744 ; d’où</i> qui s’adapte bien, convenable (instrument, vêtement) ESCHL. <i>Sept. 642, etc. ; en parl. de pers</i>. εὔθ. τινι, N. DAM. (STOB. <i>Fl. 1, 331</i>) ; πρός τι, POL. <i>25, 5, 6</i> ; κατά τι, DS. <i>Exc. 598, 34,</i> propre à qqe ch.<p>•<i> Cp</i>. -ώτερος, HPC.<p><b>Étym</b>. εὖ, τίθημι.`

@@ -1,0 +1,1 @@
+lar[69279]=`<b>ου (ὁ)</b> Nypsios, <i>général de Denys l’Ancien,</i> PLUT. <i>Dio. 41, 44, 46</i>.`

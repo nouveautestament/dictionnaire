@@ -1,0 +1,1 @@
+lar[33326]=`<b>ατος (τὸ)</b> <font color="purple">[πᾰ]</font> embrassement, ESCHL. <i>Suppl. 296, conj</i>.<p><b>Étym</b>. ἐμπαλάσσω.`

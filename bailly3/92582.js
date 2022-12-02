@@ -1,0 +1,1 @@
+lar[92582]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. de</i> στιβάς, PLUT. <i>Phil. 4</i> ; LUC. <i>Tox. 31</i>.`

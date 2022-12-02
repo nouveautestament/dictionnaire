@@ -1,0 +1,1 @@
+lar[8849]=`<b>ἀνθο·βάφεια, ας (ἡ)</b> <font color="purple">[βᾰ]</font> teinture de couleurs variées, PLUT. (STOB. <i>Fl. 60, 10).</i><p><b>Étym</b>. ἀνθοβαφεύς.`

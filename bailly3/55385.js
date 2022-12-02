@@ -1,0 +1,1 @@
+lar[55385]=`<b>κιβωτο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῑ]</font> qui fabrique des caisses, des coffres, PLUT. <i>M. 580e</i>.<p><b>Étym</b>. κιβωτός, ποιέω.`

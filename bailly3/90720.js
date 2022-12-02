@@ -1,0 +1,1 @@
+lar[90720]=`<i>adv</i>., exactement, ESCHL. <i>Pr. 102, 488</i> ; EUR. <i>fr. 88 Nauck</i>.`

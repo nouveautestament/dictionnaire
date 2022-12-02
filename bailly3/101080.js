@@ -1,0 +1,1 @@
+lar[101080]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> qui ressemble à une ébauche, ébauché, superficiel, sommaire, ARSTT. <i>Mund. 6, 1</i>.<p><b>Étym</b>. τύπος, -ωδης.`

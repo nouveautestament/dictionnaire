@@ -1,0 +1,1 @@
+lar[93800]=`<b>συλ·λοχίζω :<br>      1</b> réunir par compagnies en un groupe, PLUT. <i>Galb. 15, etc.</i><br><b>      2</b> distribuer <i>ou</i> répartir par compagnies, PLUT. <i>Rom. 8, M. 761b ;</i> APP. <i>Civ. 5, 3</i>.`

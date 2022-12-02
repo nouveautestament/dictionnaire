@@ -1,0 +1,1 @@
+lar[6782]=`<b>ἀνα·θεραπεύω</b> <font color="purple">[ρᾰ]</font> ranimer à force de soins, TH. <i>H.P. 4, 13, 3</i>.`

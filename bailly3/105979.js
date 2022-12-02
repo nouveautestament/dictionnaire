@@ -1,0 +1,1 @@
+lar[105979]=`<b>φιλο·παίγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui aime à jouer, enjoué, folâtre, gai, OD. <i>23, 134</i> ; HÉS. <i>fr. 13, 3 Gaisford</i> ; AR. <i>Ran. 333</i> ; ARSTT. <i>H.A. 9, 44, 2</i>.<p><b>Étym</b>. φ. παίζω.`

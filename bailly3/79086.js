@@ -1,0 +1,1 @@
+lar[79086]=`<b>ατος (τὸ)</b> pièce de bois fixée autour ; <i>particul</i>. cadre d’assemblage pour une charpente, <i>ou</i> lambourde, PHIL. BYZ. <i>et</i> HÉRON (<i>Math. vet. p. 78, 127).</i><p><b>Étym</b>. περιπήγνυμι.`

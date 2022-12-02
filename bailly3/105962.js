@@ -1,0 +1,1 @@
+lar[105962]=`<b>Φιλό·νεως (ὁ)</b> Philonéos, <i>h</i>. ANT. <i>1, 14, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. φ. νέως.`

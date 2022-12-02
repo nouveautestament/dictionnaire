@@ -1,0 +1,1 @@
+lar[53443]=`<b>κατα·στένω</b>, gémir, pleurer : τινά, SOPH. <i>O.C. 1440, etc.</i> ; EUR. <i>Tr. 318</i> ; ὑπέρ τινος, EUR. <i>I.A. 470,</i> sur qqn.`

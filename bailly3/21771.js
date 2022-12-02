@@ -1,0 +1,1 @@
+lar[21771]=`<b>ος, ον :<br>   I</b> <i>act</i>. qui honore, HH. <i>Merc. 122</i> ; ORPH. <i>Arg. 624</i>.<br><b>   II</b> <i>pass.</i> :<br><b>      1</b> honoré, EUR. <i>Ph. 923</i> ; NIC. <i>Th. 613</i>.<br><b>      2</b> digne de respect, vénérable par son âge, EUR. <i>Suppl. 95</i>.<p><b>Étym</b>. γέρας.`

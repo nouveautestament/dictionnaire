@@ -1,0 +1,1 @@
+lar[59936]=`<b>ης</b> <i>ou</i> <b>λαταγή, ῆς (ἡ)</b> <font color="purple">[ᾰᾰ]</font> action de jeter le reste du vin au jeu du cottabe, <i>d’où</i> bruit que fait ce vin en tombant, DICÉARQ. (ATH. <i>666b</i>).<p><b>Étym</b>. λάταξ.`

@@ -1,0 +1,1 @@
+lar[51641]=`<b>καπνο·δόχη, ης (ἡ)</b> trou par où s’échappe la fumée, GAL. <i>2, 727</i>.<p><b>Étym</b>. καπνός, δέχομαι.`

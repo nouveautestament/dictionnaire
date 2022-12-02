@@ -1,0 +1,1 @@
+lar[60638]=`<b>ας (ἡ)</b> couleur blanche, PLUT. <i>M. 892e</i>.<p><b>Étym</b>. λευκόχροος.`

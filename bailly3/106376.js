@@ -1,0 +1,1 @@
+lar[106376]=`(<i>seul. prés. non contr</i>.) sourdre <i>ou</i> couler en abondance, déborder, <i>abs</i>. ESCHL. <i>Ag. 377 ; ou avec le dat</i>. ESCHL. <i>Ag. 1416</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *b<sup>h</sup>leu-, couler, <i>cf</i>. φλύω, <i>lat</i>. fluō ; <i>autrement p.-ê. pré-grec</i>.`

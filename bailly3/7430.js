@@ -1,0 +1,1 @@
+lar[7430]=`<b>ἀν·απόδεικτος, ος, ον :<br>      1</b> non prouvé, non démontré, ARSTT. <i>Nic. 11, 6</i>.<br><b>      2</b> qui n’a pas besoin d’être démontré, ARSTT. <i>An. pr. 2, 1, 7, etc</i>.<p><b>Étym</b>. ἀν-, ἀποδείκνυμι.`

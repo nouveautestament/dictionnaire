@@ -1,0 +1,1 @@
+lar[37381]=`<b>εως (ἡ)</b> attaque <i>ou</i> crime avec préméditation, PLAT. <i>Leg. 872d</i>.<p><b>Étym</b>. ἐπιβουλεύω.`

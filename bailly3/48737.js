@@ -1,0 +1,1 @@
+lar[48737]=`<b>ἰθύ·θριξ</b>, <i>gén</i>. <b>ἰθύτριχος (ὁ, ἡ)</b> <font color="purple">[ῑῐχ]</font> aux cheveux droits, <i>càd</i>. non crépus, HDT. <i>7, 70</i> ; HPC. <i>Epid. 1, 955</i>.<p><b>Étym</b>. ἰ. θρίξ.`

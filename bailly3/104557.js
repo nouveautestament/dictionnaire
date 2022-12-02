@@ -1,0 +1,1 @@
+lar[104557]=`<i>adv</i>., en haut, <i>au propre, sans mouv</i>. IL. <i>1, 486</i> ; OD. <i>4, 785, etc</i>. HÉS. <i>Th. 549 ; avec mouv</i>. HDT. <i>2, 138</i> ; PD. <i>O. 1, 184 ; en prose réc</i>. PLUT. <i>Dio. 24 ; fig</i>. HDT. <i>9, 79</i> ; SOPH. <i>O.R. 914</i>.<p>•<i> Sup</i>. ὑψοτάτω, BACCHYL. <i>fr. 20B, 10</i>.<p><b>Étym</b>. ὕψος.`

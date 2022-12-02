@@ -1,0 +1,1 @@
+lar[75012]=`<b>παν·ευμαρής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> d’humeur tout à fait facile, EUR.<p><b>Étym</b>. π. εὐμαρής.`

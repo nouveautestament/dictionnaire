@@ -1,0 +1,1 @@
+lar[63629]=`<b>μεθ·ομιλέω-ῶ</b> <font color="purple">[ῑ]</font> avoir commerce avec, vivre au milieu de, <i>dat</i>. IL. <i>1, 269</i>.`

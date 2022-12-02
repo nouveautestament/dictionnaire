@@ -1,0 +1,1 @@
+lar[94792]=`<b>συν·ανηβάω</b>, rajeunir avec, THÉM. <i>223c</i>.`

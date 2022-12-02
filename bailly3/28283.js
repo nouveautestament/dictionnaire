@@ -1,0 +1,1 @@
+lar[28283]=`<b>δυσ·δάκρυτος, ος, ον</b> <font color="purple">[ᾰῡ]</font><br><b>      1</b> qui fait pleurer amèrement, ESCHL. <i>Ag. 442</i>.<br><b>      2</b> qui pleure amèrement, éploré, ANTH. <i>12, 80</i>.<p><b>Étym</b>. δ. δακρύω.`

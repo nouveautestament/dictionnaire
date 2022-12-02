@@ -1,0 +1,1 @@
+lar[51101]=`<b>καλλί·γονος, ος, ον</b> <font color="purple">[ῐ]</font> de noble naissance, PORPH. (EUS. <i>P.E. p. 110).</i><p><b>Étym</b>. κ. γίγνομαι.`

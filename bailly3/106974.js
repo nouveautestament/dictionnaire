@@ -1,0 +1,1 @@
+lar[106974]=`<b>ας (ἡ)</b> <i>sorte de plante,</i> DIOSC. <i>3, 151</i>.`

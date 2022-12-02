@@ -1,0 +1,1 @@
+lar[108501]=`<b>χιονο·βλέφαρος, ος, ον</b> <font color="purple">[ᾰ]</font> aux paupières blanches comme la neige, <i>ép. de l’Aurore,</i> DIONYS. <i>Hel. 7</i>.<p><b>Étym</b>. χιών, βλέφαρον.`

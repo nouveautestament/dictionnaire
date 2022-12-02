@@ -1,0 +1,1 @@
+lar[103905]=`<b>ὑποστρατηγέω-ῶ</b> <font color="purple">[ᾰ]</font> commander sous, être lieutenant de, <i>dat</i>. XÉN. <i>An. 5, 6, 36</i> ; LUC. <i>Bacch. 2</i> ; APP. <i>Civ. 5, 54, etc</i>.<p><b>Étym</b>. ὑποστράτηγος.`

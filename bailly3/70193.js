@@ -1,0 +1,1 @@
+lar[70193]=`<b>ῶν (οἱ)</b> les Ozoles, <i>pple de Locride,</i> HDT. <i>8, 32</i> ; THC. <i>1, 5, etc</i>.`

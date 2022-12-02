@@ -1,0 +1,1 @@
+lar[33126]=`<b>άδος (ἡ)</b> la greffe des arbres, PLUT. <i>M. 640b</i>.<p><b>Étym</b>. ἐμβάλλω.`

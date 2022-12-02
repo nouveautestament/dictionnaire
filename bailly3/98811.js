@@ -1,0 +1,1 @@
+lar[98811]=`<b>ου (τὸ)</b> bette <i>ou</i> poirée, <i>plante,</i> TH. <i>H.P. 1, 3, 2, etc.</i> ; ANTIPH. (<i>Com. fr. 3, 99</i>) ; EUB. <i>3, 222 Meineke, etc. ; au plur</i>. AR. <i>Pax 1014</i> ; PHÉRÉCR. (<i>Com. fr. 2, 300), etc</i>.<p>➳ <i>Ion. et néo-att</i>. σεῦτλον, BATR. <i>162</i> ; HPC. <i>Art. 829</i> ; ALEX. (<i>Com. fr. 3, 448</i>) ; LUC. <i>J. voc. 9</i>.`

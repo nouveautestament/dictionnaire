@@ -1,0 +1,1 @@
+lar[73613]=`<b>ου (ὁ)</b> = <i>lat</i>. Vŏcōnius, <i>n. d’h. rom</i>. PLUT. <i>Cic. 12</i>.`

@@ -1,0 +1,1 @@
+lar[58564]=`<b>κυκλο·τερής, ής, ές :<br>      1</b> arrondi au tour, HDT. <i>4, 36</i>.<br><b>      2</b> <i>p. suite,</i> qui s’arrondit : κυκλοτερὲς μέγα τόξον ἔτεινεν, IL. <i>4, 124,</i> il tendit son grand arc qui s’arrondit ; <i>d’où</i> rond, circulaire, <i>en gén</i>. OD. <i>17, 209</i> ; PLAT. <i>Conv. 189e ;</i> HDT. <i>1, 194</i>.<p><b>Étym</b>. κ. τείρω.`

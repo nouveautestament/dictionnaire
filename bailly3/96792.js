@@ -1,0 +1,1 @@
+lar[96792]=`<b>σφαιρο·μαχέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> lutter à la paume, POL. <i>16, 21, 6</i>.<br><b>      2</b> combattre au pugilat avec un gantelet rond, PLAT. <i>Leg. 830e</i>.<p><b>Étym</b>. σφαιρομάχος.`

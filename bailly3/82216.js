@@ -1,0 +1,1 @@
+lar[82216]=`<b>πολυ·παίπαλος, ος, ον</b> <font color="purple">[ῠᾰ]</font> très rusé, OD. <i>15, 419</i>.`

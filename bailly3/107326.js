@@ -1,0 +1,1 @@
+lar[107326]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> plantation d’arbres <i>ou</i> de vignes, MAN. <i>4, 433</i>.<p><b>Étym</b>. φυτοσπόρος.`

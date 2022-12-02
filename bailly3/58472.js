@@ -1,0 +1,1 @@
+lar[58472]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de coing, comme un coing, AR. <i>Ach. 1199</i>.<p><b>Étym</b>. κοδύμαλον ; <i>rapprochement avec</i> Κυδωνία <i>par étym. populaire, v</i>. Κυδώνιος.`

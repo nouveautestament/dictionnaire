@@ -1,0 +1,1 @@
+lar[59512]=`<b>ων (οἱ)</b> les Lææes, <i>pple macédonien,</i> THC. <i>2, 96 et 97</i>.`

@@ -1,0 +1,1 @@
+lar[12987]=`<b>ἀπο·νυστάζω</b>, s’endormir, se négliger (<i>cf. lat</i>. aliquandoque bonus dormitat Homerus) PLUT. <i>Cic. 24, etc</i>.`

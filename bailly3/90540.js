@@ -1,0 +1,1 @@
+lar[90540]=`<b>ου (τὸ)</b> <font color="purple">[σῑ]</font> <i>c</i>. σιτόμετρον NT. <i>Luc. 12, 42</i>.`

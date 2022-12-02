@@ -1,0 +1,1 @@
+lar[33451]=`<b>ἐμ·πιπίσκω</b> <font color="purple">[πῐπ]</font> <font color="darkgreen">(<i>f</i>. ἐμπίσω, <i>ao. pass</i>. ἐνεπίσθην)</font> donner à boire, abreuver, PD. <i>fr. 77</i> ; NIC. <i>Al. 519 ; au pass</i>. être bu, NIC. <i>Th. 624</i>.<br><b><i>Moy.</i></b> (<i>inf. ao</i>. ἐμπίσασθαι) s’abreuver de, <i>dat</i>. NIC. <i>Th. 573</i>.<p><b>Étym</b>. ἐν, π.`

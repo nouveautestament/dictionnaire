@@ -1,0 +1,1 @@
+lar[46250]=`(<i>seul. prés</i>.) être frappé d’étonnement, <i>avec l’acc</i>. HH. <i>Ven. 84, Merc. 407 conj</i>.<p><b>Étym</b>. <i>cf</i>. θαμβέω.`

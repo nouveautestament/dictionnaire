@@ -1,0 +1,1 @@
+lar[59375]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> λάγανον CHRYSIPP. TYAN. (ATH. <i>648f</i>).`

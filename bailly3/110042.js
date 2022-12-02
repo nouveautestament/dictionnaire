@@ -1,0 +1,1 @@
+lar[110042]=`<b>ας (ἡ)</b> odeur infecte, puanteur, EM. <i>819, 41</i>.`

@@ -1,0 +1,1 @@
+lar[11146]=`<b>οῦ (ὁ)</b> exacteur, collecteur de taxes, NYSS. <i>2, 237, etc</i>.`

@@ -1,0 +1,1 @@
+lar[64651]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> passage d’un lieu à un autre, ANT. <i>715 Reiske ; fig. t. de rhét</i>. passage d’un sujet à un autre, transition, LUC. <i>H. conscr. 55</i> ; QUINT. <i>9, 3, 25</i>.<br><b>      2</b> changement, PLAT. <i>Rsp. 547c, etc.</i> ; ARSTT. <i>H.A. 8, 1, etc</i>.<p><b>Étym</b>. μεταβαίνω.`

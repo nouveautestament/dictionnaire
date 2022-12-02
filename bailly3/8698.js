@@ -1,0 +1,1 @@
+lar[8698]=`<b>ἀν·ήλειπτος, ος, ον</b>, non oint, non graissé, MÉD. <i>p. 301 Matthäi</i>.<p><b>Étym</b>. ἀν-, ἀλείφω.`

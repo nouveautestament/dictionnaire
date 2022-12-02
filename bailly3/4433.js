@@ -1,0 +1,1 @@
+lar[4433]=`<b>ἁλι·γενής, ής, ές</b> <font color="purple">[ᾰῐ]</font> né de la mer, <i>ép. d’Aphrodite,</i> PLUT. <i>M. 685e</i>.<p><b>Étym</b>. ἅ. γίγνομαι.`

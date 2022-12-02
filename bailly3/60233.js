@@ -1,0 +1,1 @@
+lar[60233]=`<b>ου (τὸ)</b> petit bassin, cuvette, AR. <i>Ach. 1110</i> ; XÉN. <i>Cyr. 1, 3, 4, etc</i>.<p><b>Étym</b>. λεκάνη.`

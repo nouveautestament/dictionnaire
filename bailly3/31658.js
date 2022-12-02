@@ -1,0 +1,1 @@
+lar[31658]=`<b>ἐκ·μαστεύω</b>, rechercher, poursuivre, ESCHL. <i>Eum. 247</i>.`

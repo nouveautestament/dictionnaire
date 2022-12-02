@@ -1,0 +1,1 @@
+lar[99986]=`<b>τραχύ·λογος, ος, ον</b> <font color="purple">[ᾱῠ]</font> qui a la parole rude, POLÉM. <i>Physiogn. 1, 6 (var</i>. ταχύλογος).<p><b>Étym</b>. τρ. λέγω.`

@@ -1,0 +1,1 @@
+lar[72869]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> fils d’Orménos, IL. <i>9, 448 ; 10, 266</i> ; OD. <i>15, 413 ; au plur</i>. CALL. <i>Cer. 76</i>.<p><b>Étym</b>. Ὄρμενος.`

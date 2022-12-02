@@ -1,0 +1,1 @@
+lar[45518]=`<b>ἡμι·παίδευτος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié instruit, SYN. <i>307a</i>.<p><b>Étym</b>. ἡμι-, παιδεύω.`

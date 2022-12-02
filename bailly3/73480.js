@@ -1,0 +1,1 @@
+lar[73480]=`<b>οὐδ·οπωσ·οῦν</b>, <i>adv</i>., pas du tout, pas le moins du monde, STR. <i>5, 1, 2, Kram</i>.<p><b>Étym</b>. οὐδέ, ὅπως, οὖν.`

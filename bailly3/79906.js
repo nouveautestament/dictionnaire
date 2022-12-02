@@ -1,0 +1,1 @@
+lar[79906]=`<b>πετρο·ρριφής, ής, ές</b> <font color="purple">[ῐ]</font> précipité du haut d’un rocher, EUR. <i>Ion 1222</i>.<p><b>Étym</b>. π. ῥίπτω.`

@@ -1,0 +1,1 @@
+lar[87933]=`<b>πυρο·γενής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. πυριγενής, AUS. <i>Epigr. 29, 3</i>.`

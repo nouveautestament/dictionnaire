@@ -1,0 +1,1 @@
+lar[52232]=`<b>κατα·γλωσσαλγέω-ῶ</b>, avoir une forte démangeaison à la langue, EUM. <i>p. 282</i>.`

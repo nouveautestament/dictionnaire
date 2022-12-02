@@ -1,0 +1,1 @@
+lar[66825]=`<b>εως (ἡ)</b> action de garnir de charpie, HPC. <i>806b ;</i> AQU. <i>Esai. 1, 6</i>.<p><b>Étym</b>. μοτόω.`

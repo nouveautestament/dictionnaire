@@ -1,0 +1,1 @@
+lar[19807]=`<b>ίδος</b>, <i>adj. f</i>. des Bistones, NONN. <i>D. 13, 340</i> ; ἡ β. λίμνη, HDT. <i>7, 109</i> ; STR. <i>etc</i>. lac de Bistonie, <i>près d’Abdère</i> ; ἡ β. femme de Bistonie, DP. <i>576</i> ; ANTH. <i>7, 10</i>.`

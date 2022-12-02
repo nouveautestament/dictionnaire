@@ -1,0 +1,1 @@
+lar[104746]=`<b>ίτιδος</b> <font color="purple">[ᾰᾱῑῐδ]</font> <i>adj. f</i>. qui porte l’ornement φάλαρα, CALL. (SCH.-OD. <i>3, 380</i>).`

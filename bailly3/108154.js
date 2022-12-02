@@ -1,0 +1,1 @@
+lar[108154]=`<b>χειρό·νιβον, ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. χέρνιβον, EPICH. (ATH. <i>408c au pl</i>.).`

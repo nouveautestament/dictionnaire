@@ -1,0 +1,1 @@
+lar[90528]=`<b>σιτο·δόχος, ος, ον</b> <font color="purple">[ῑ]</font> qui reçoit du blé, du pain <i>ou</i> du fourrage, ARTÉM. <i>104 Reiff</i>.<p><b>Étym</b>. σῖτος, δέχομαι.`

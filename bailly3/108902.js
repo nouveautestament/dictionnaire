@@ -1,0 +1,1 @@
+lar[108902]=`<i>gén. épq</i>. <b>-αο</b> <font color="purple">[ᾱ]</font> (ὁ) Khrémétès, <i>fl. de Libye,</i> ARSTT. <i>Meteor. 1, 13</i> ; NONN. <i>D. 13, 374, 380, etc</i>.`

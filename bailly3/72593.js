@@ -1,0 +1,1 @@
+lar[72593]=`<b>ὀρει·λεχής, ής, ές</b>, qui a son repaire dans les montagnes, EMPÉD. (EL. <i>N.A. 12, 7).</i><p><b>Étym</b>. ὄρος, λέχος.`

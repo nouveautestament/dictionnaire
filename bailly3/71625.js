@@ -1,0 +1,1 @@
+lar[71625]=`<b>ή, όν</b>, qui aime <i>ou</i> favorise la concorde, PLAT. <i>Rsp. 554e, etc</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Pol. 7, 10, 11</i>.<p><b>Étym</b>. ὁμονοέω.`

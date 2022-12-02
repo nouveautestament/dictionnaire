@@ -1,0 +1,1 @@
+lar[86885]=`<b>προ·ϋποπάσσω</b>, répandre auparavant en dessous, GEOP. <i>12, 14, 1</i>.`

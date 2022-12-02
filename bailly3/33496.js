@@ -1,0 +1,1 @@
+lar[33496]=`<b>ος, ον :<br>      1</b> frappé de stupeur, XÉN. <i>Cyn. 5, 9 ; d’où</i> hébété, stupide, PLUT. <i>Rom. 28</i>.<br><b>      2</b> <i>p. suite,</i> inconstant, léger, SOPH. <i>Aj. 1358</i> ; en délire, PLAT. <i>Gorg. 482a ;</i> PLUT. <i>Dio. 18 ; joint à</i> ἀστάθμητος, PLAT. <i>Lys. 214d</i>.<p><b>Étym</b>. ἐμπλήσσω.`

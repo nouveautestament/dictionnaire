@@ -1,0 +1,1 @@
+lar[61475]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit mot, courte sentence, PLUT. <i>M. 1119c ;</i> THGNT. (ATH. <i>104b</i>) ; <i>en mauv. part,</i> méchant discours, DÉM. <i>421, 20</i>.<p><b>Étym</b>. λόγος.`

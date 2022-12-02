@@ -1,0 +1,1 @@
+lar[56075]=`<b>κλινο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῑ]</font> fabricant de lits, de litières, PLAT. <i>Rsp. 596e, 597b ;</i> DÉM. <i>816, 9</i>.<p><b>Étym</b>. κλίνη, ποιέω.`

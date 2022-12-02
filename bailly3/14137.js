@@ -1,0 +1,1 @@
+lar[14137]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> raréfiant, DIOSC. <i>1, 75, etc</i>.<p><b>Étym</b>. ἀραιόω.`

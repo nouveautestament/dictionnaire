@@ -1,0 +1,1 @@
+lar[6774]=`<b>ἀνα·θαρρέω-ῶ</b>, reprendre courage, XÉN. <i>An. 6, 4, 12 ; Hell. 4, 4, 15</i> ; PLAT. <i>Charm. 156d ;</i> AR. <i>Eq. 803, etc</i>.<p>➳ <i>Anc. att</i>. ἀναθαρσέω -ῶ, THC. <i>5, 82 ; 6, 31 et 49 ; 7, 71</i>.`

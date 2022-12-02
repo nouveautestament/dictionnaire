@@ -1,0 +1,1 @@
+lar[29735]=`<b>ἔγ·κοτος, ου (ὁ)</b> ressentiment profond ; ἔγκοτον ἔχειν τινί, HDT. <i>3, 59 ; 9, 110,</i> avoir un profond ressentiment contre qqn ; τινί τινος ἔχειν ἔγκοτον, HDT. <i>8, 29, ou</i> τινι ἔγκοτον διά τι ἔχειν, HDT. <i>6, 73,</i> avoir un profond ressentiment contre qqn pour qqe ch.<p><b>Étym</b>. ἐν, κότος ; <i>cf</i>. ἔγκοτον.`

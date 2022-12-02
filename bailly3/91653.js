@@ -1,0 +1,1 @@
+lar[91653]=`<b>ου (ὁ)</b> <i>n. du</i> crocodile, <i>à Arsinoè, ville également connue sous le nom de Crocodilopolis,</i> STR. <i>811</i>.`

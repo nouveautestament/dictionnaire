@@ -1,0 +1,1 @@
+lar[49974]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> constant, ESCHL. <i>fr. 37</i>.<p><b>Étym</b>. <i>cf</i>. ἐξίτηλος.`

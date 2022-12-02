@@ -1,0 +1,1 @@
+lar[67147]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> femme qui travaille à une meule, meunière, CHRYS. <i>5, 616 ; titre d’une comédie d’Eubule,</i> ATH. <i>494e</i>.<p><b>Étym</b>. μυλωθρός.`

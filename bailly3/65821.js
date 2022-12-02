@@ -1,0 +1,1 @@
+lar[65821]=`<b>μιλτ·ωρυχία, ας (ἡ)</b> <font color="purple">[ῠ]</font> exploitation d’une mine de minium, AMIPS. (<i>Com. fr. 2, 707).</i><p><b>Étym</b>. μίλτος, ὀρύσσω.`

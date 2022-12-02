@@ -1,0 +1,1 @@
+lar[6464]=`<i>adv</i>., vers l’un et l’autre lieu, IL. <i>8, 223 ; 11, 6</i>.<p><b>Étym</b>. ἀμφότερος.`

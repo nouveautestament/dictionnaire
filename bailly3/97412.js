@@ -1,0 +1,1 @@
+lar[97412]=`<b>ταλαί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font><br><b>      1</b> endurci à la peine, EUR. <i>Hel. 524, etc. d’où</i> hardi, SOPH. <i>Ant. 39</i>.<br><b>      2</b> malheureux, SOPH. <i>Aj. 903</i>.<p><b>Étym</b>. τλῆναι, φρήν ; <i>cf</i>. ταλασίφρων.`

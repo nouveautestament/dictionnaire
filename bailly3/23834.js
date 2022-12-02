@@ -1,0 +1,1 @@
+lar[23834]=`(<i>seul. part. prés</i>.) :<br><b>      1</b> tourner les yeux de côté et d’autre, SOPH. <i>fr. 867</i> ; A.RH. <i>3, 281</i>.<br><b>      2</b> faire signe des yeux : ἔς τινα, IL. <i>9, 180,</i> à qqn.<p><b>Étym</b>. <i>inconnue</i>.`

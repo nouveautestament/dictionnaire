@@ -1,0 +1,1 @@
+lar[3110]=`<b>η, ον</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> rempli d’épines, ANACR. <i>58, 12</i>.<br><b>      2</b> fait d’épines, NT. <i>Marc. 15, 17 ; Joh. 19, 5</i>.<br><b>      3</b> fait de bois d’acacia, HDT. <i>2, 96, ou</i> de l’écorce d’une sorte de chardon, STR. <i>175</i>.`

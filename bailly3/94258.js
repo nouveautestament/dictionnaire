@@ -1,0 +1,1 @@
+lar[94258]=`<b>σύμ·πλανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui erre avec un autre, ANTH. <i>5, 165, etc</i>.<p><b>Étym</b>. σ. πλάνη.`

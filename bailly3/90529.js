@@ -1,0 +1,1 @@
+lar[90529]=`<b>σιτο·θήκη, ης (ἡ)</b> <font color="purple">[ῑ]</font> dépôt de blé, THÉM. <i>221b</i>.<p><b>Étym</b>. σῖτος, θήκη.`

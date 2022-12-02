@@ -1,0 +1,1 @@
+lar[77460]=`<b>(τὸ)</b> <font color="purple">[ᾰ]</font> épaisseur, OD. <i>23, 191</i> ; NIC. <i>Th. 385, 387, 465</i> ; OPP. <i>H. 4, 535 ; sel. d’autres, adj</i>. épais, <i>ou subst. masc. (acc</i>. πάχετον, OD. <i>8, 187</i>) pierre massive.<p><b>Étym</b>. παχύς.`

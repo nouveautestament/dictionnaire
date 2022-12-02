@@ -1,0 +1,1 @@
+lar[82936]=`<b>ποσόω-ῶ</b>, marquer la quantité, fixer le prix, TH. <i>Char. 23</i>.<p><b>Étym</b>. πόσος.`

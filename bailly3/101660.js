@@ -1,0 +1,1 @@
+lar[101660]=`<b>υἱο·ποιέω-ῶ</b>, prendre pour fils, CLÉM. <i>Pæd. 1, 6, 26</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. POL. <i>37, 3, 5</i> ; DS. <i>4, 39 et 60, etc</i>.<p><b>Étym</b>. υἱός, π.`

@@ -1,0 +1,1 @@
+lar[102299]=`<b>ὑπερ·ασπάζομαι</b>, embrasser, aimer <i>ou</i> accueillir avec transport, XÉN. <i>Conv. 4, 38</i> ; PLUT. <i>M. 229e</i>.`

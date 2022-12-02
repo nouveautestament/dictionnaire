@@ -1,0 +1,1 @@
+lar[97229]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. σωρείτης, SEXT. <i>P. 2, 253 ; Phys. 1, 190</i> ; CLÉM. <i>Str. 5, 1, 11</i>.`

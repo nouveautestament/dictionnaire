@@ -1,0 +1,1 @@
+lar[76567]=`<b>παρ·εικάζω</b>, comparer, assimiler : τί τινι, PLAT. <i>Rsp. 473c, etc</i>. une chose à une autre ; <i>au pass</i>. ARSTT. <i>Sens. 5, 28</i>.`

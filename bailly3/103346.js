@@ -1,0 +1,1 @@
+lar[103346]=`<b>ος, ον</b> <font color="purple">[ρῠ]</font> enfoui sous le sol, TH. <i>C.P. 5, 9, 11</i>.<p><b>Étym</b>. ὑποκατορύσσω.`

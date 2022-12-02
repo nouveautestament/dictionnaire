@@ -1,0 +1,1 @@
+lar[51135]=`<b>ας (ἡ)</b> Kallikleia, <i>f</i>. ANTH. <i>6, 211</i>.<p><b>Étym</b>. <i>cf</i>. Καλλικλῆς.`

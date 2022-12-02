@@ -1,0 +1,1 @@
+lar[52683]=`<b>κατ·αλαζονεύομαι</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> se vanter : πρός τινα, DÉM. <i>569, 9,</i> auprès de qqn ; περί τινος, ISOCR. <i>311b, 316c</i>, débiter des exagérations sur qqe ch. ; <i>avec</i> ὡς, PLUT. <i>Luc. 22,</i> se vanter que <i>ou</i> de.<br><b>      2</b> se vanter à l’encontre de : τινος, SPT. <i>Ps. 136, 3,</i> de qqn.`

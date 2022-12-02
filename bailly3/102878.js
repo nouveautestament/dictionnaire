@@ -1,0 +1,1 @@
+lar[102878]=`<b>ὑπέρ·φοβος, ος, ον :<br>      1</b> très redoutable, MIMN. TR. (STOB. <i>Fl. 102, 3</i>) ; SPT. <i>Dan. 7, 19</i>.<br><b>      2</b> très craintif, qui s’effraye facilement, XÉN. <i>Eq. 3, 9</i> ; τὸ ὑπέρφοβον, DC. <i>58, 6,</i> timidité excessive, caractère timoré.<p><b>Étym</b>. ὑ. φέβομαι.`

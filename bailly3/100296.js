@@ -1,0 +1,1 @@
+lar[100296]=`<b>ας (ἡ)</b> <font color="purple">[τρῐ]</font> triple solde (<i>litt</i>. triple part) XÉN. <i>Hell. 6, 1, 6</i> ; LUC. <i>Tim. 57</i>.<p><b>Étym</b>. τρίμοιρος.`

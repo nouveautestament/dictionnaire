@@ -1,0 +1,1 @@
+lar[67348]=`<b>ου (ὁ)</b> Myrsilos :<br><b>      1</b> <i>n. grec du roi lydien Candaule,</i> HDT. <i>1, 7</i>.<br><b>      2</b> <i>tyran de Mytilène,</i> ALC. (STR. <i>617</i>), PLUT. <i>Sept. sap. conv. 2</i>.`

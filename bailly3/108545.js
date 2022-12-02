@@ -1,0 +1,1 @@
+lar[108545]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>dim. de</i> χλανίς, HDT. <i>1, 195</i> ; SOPH. <i>fr. 400</i> ; EUR. <i>Or. 42</i> ; SAPPH. <i>110</i> ; AR. <i>Lys. 1189</i>.`

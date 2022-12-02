@@ -1,0 +1,1 @@
+lar[37022]=`<b>ἐπ·εκβοηθέω-ῶ</b> (<i>part. ao</i>. -ηθησάντων) accourir au secours, THC. <i>7, 53 ; 8, 55</i>).`

@@ -1,0 +1,1 @@
+lar[93712]=`<b>συκό·μορος, ου (ἡ)</b> <font color="purple">[ῡ]</font> sycomore <i>ou</i> figuier d’Égypte, DIOSC. <i>1, 181</i>.<p><b>Étym</b>. σῦκον, μόρον.`

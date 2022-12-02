@@ -1,0 +1,1 @@
+lar[82479]=`<i>adv</i>., de diverses manières, NT. <i>Hebr. 1, 1</i>.<p><b>Étym</b>. πολύτροπος.`

@@ -1,0 +1,1 @@
+lar[37023]=`<b>ἐπ·εκδιδάσκω</b> <font color="darkgreen">(<i>f</i>. -διδάξω)</font> <font color="purple">[ῐ]</font> expliquer en outre tout au long, PLAT. <i>Prot. 328e, etc.</i> ; POL. <i>15, 35, 7 ; avec</i> ὅπως, PLUT. <i>Sol. 25</i>.`

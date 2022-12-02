@@ -1,0 +1,1 @@
+lar[63313]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. μεγάλαυχος, EPIGR. (PAUS. <i>1, 13, 3</i>).`

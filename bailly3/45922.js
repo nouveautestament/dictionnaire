@@ -1,0 +1,1 @@
+lar[45922]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Hèrôndas, <i>h</i>. PLUT. <i>Apophth. lac. v° Ἡρώνδας</i>.`

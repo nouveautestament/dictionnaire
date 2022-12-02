@@ -1,0 +1,1 @@
+lar[49070]=`<b>οῦ</b>, <i>adj. m</i>. qui prend avec de la glu, ANTH. <i>6, 152, etc. ; subst</i>. ὁ ἰξ. LYC. <i>105,</i> oiseleur qui chasse à la glu.<p>➳ <i>Dor</i>. -άς <font color="purple">[ᾱ]</font> BION <i>2, 1</i>.<p><b>Étym</b>. ἰξεύω.`

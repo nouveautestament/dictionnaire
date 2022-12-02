@@ -1,0 +1,1 @@
+lar[59660]=`<b>Λά·μαχος, ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Lamakhos :<br><b>      1</b> <i>général athénien,</i> AR. <i>Ach. 270, 591, etc.</i><br><b>      2</b> <i>autre,</i> PLUT. <i>Dem. 9</i>.<p><b>Étym</b>. λαός, μάχομαι.`

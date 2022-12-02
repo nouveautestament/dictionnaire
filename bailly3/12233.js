@@ -1,0 +1,1 @@
+lar[12233]=`<b>ἀπο·δεής, ής, ές</b>, à quoi il manque qqe ch., <i>d’où</i> non rempli (vase, <i>etc</i>.) PLUT. <i>M. 701e, 967a ; en parl. d’un navire dont l’équipage est incomplet,</i> PLUT. <i>Ant. 62 ; fig</i>. PLUT. <i>M. 473d</i>.<p><b>Étym</b>. ἀπό, δέομαι.`

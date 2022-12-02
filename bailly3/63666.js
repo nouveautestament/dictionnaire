@@ -1,0 +1,1 @@
+lar[63666]=`<b>μειαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1 <i>tr.</i></b> offrir en sacrifice, pour la réception d’un enfant dans une confrérie, la victime dite μεῖον (<i>v</i>. μείων) IS. (HARP.).<br><b>      2 <i>intr.</i></b> peser moins, SYN. <i>Ep. 147</i>.<p><b>Étym</b>. μειαγωγός.`

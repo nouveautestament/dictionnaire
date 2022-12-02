@@ -1,0 +1,1 @@
+lar[10614]=`<b>ἀντι·χώννυμι</b>, élever un terrassement en face de, <i>dat</i>. ATH. <i>529f</i>.`

@@ -1,0 +1,1 @@
+lar[86164]=`<b>προσ·νίσσομαι</b> (<i>seul. prés</i>.) :<br><b>      1</b> s’avancer vers, s’approcher, IL. <i>9, 381</i> ; PD. <i>O. 6, 167</i> ; τινά, ESCHL. <i>Pr. 530,</i> de qqn.<br><b>      2</b> s’avancer contre, SOPH. <i>Ant. 129</i>.<p>➳ <i>Épq. et dor</i>. ποτινίσσομαι, IL. PD. ESCHL. <i>ll. cc</i>.`

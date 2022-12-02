@@ -1,0 +1,1 @@
+lar[1461]=`<b>ης (ἡ)</b> Admètè (Admète, <i>f</i>. HH. <i>Cer. 421</i> ; HÉS. <i>Th. 349, etc</i>.<p><b>Étym</b>. ἄδμητος.`

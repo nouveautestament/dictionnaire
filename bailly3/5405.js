@@ -1,0 +1,1 @@
+lar[5405]=`<b>ἀ·μείλιχος, ος, ον</b> <font color="purple">[ῐ]</font> non doux, amer, dur, <i>en parl. d’Hadès,</i> IL. <i>9, 178 ; de pers</i>. IL. <i>24, 734</i> ; PLUT. <i>M. 761f ; de choses (cœur,</i> IL. <i>9, 572 ; souffrances,</i> ESCHL. <i>Ch. 623 ; force,</i> SOL. <i>32 ; armée,</i> PD. <i>P. 6, 12, etc</i>.).`

@@ -1,0 +1,1 @@
+lar[7019]=`<b>α, ον</b>, <i>vb. de</i> ἀνακτάομαι, PHILSTR. <i>55</i> ; SYN. <i>De regn. 14, 1092c Migne ; au neutre,</i> ANTYLL. (ORIB. <i>2, 51 B.-Dar</i>.).`

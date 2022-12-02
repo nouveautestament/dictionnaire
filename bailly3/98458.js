@@ -1,0 +1,1 @@
+lar[98458]=`<b>τεσσαρεσκαιδεκα·έτις, ιδος</b> <font color="purple">[ᾰᾰῐδ]</font> <i>adj. f</i>. de quatorze ans, GAL.<p><b>Étym</b>. <i>v</i>. τεσσαρεσκαιδεκαέτης.`

@@ -1,0 +1,1 @@
+lar[91400]=`<b>σκωληκο·τόκος, ος, ον</b>, qui engendre des vers, ARSTT. <i>H.A. 1, 5 ; 4, 11, etc.</i> ; TH. <i>C.P. 4, 6, 4 ; 4, 15, 2</i>.<p><b>Étym</b>. σκ. τίκτω.`

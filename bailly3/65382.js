@@ -1,0 +1,1 @@
+lar[65382]=`<b>μηλο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font> saillir une brebis, OPP. <i>C. 1, 388</i>.<p><b>Étym</b>. μῆλον¹, βαίνω.`

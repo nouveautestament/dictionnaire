@@ -1,0 +1,1 @@
+lar[7218]=`<b>ἀν·αμφήριστος, ος, ον</b>, non contesté, incontestable, NONN. <i>Jo. 10, 122 ; 20, 125</i>.`

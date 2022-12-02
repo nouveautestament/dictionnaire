@@ -1,0 +1,1 @@
+lar[12157]=`<b>ατος (τὸ)</b> infusion, STR. <i>776</i> ; PLUT. <i>M. 614b, etc</i>.<p><b>Étym</b>. ἀποβρέχω.`

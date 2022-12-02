@@ -1,0 +1,1 @@
+lar[16483]=`<b>ἀ·συνάλειπτος, ος, ον</b> <font color="purple">[ᾰλ]</font> non contracté par synalèphe <i>ou</i> par élision, HDN GR. <i>π. μ. λ. 7, 15</i>.<p><b>Étym</b>. ἀ, συναλείφω.`

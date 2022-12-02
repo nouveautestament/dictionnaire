@@ -1,0 +1,1 @@
+lar[28646]=`<b>ας (ἡ)</b> hostilité, animosité, malveillance, SOPH. <i>El. 619, 1124</i> ; EUR. <i>Her. 991</i> ; ANT. <i>125, 28 ; joint à</i> φθόνος, PLAT. <i>Rsp. 500c ;</i> ISOCR. <i>95e ; au plur. joint à</i> φθόνοι, PLAT. <i>Prot. 316d</i>.<p><b>Étym</b>. δυσμενής.`

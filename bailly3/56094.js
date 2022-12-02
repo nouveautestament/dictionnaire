@@ -1,0 +1,1 @@
+lar[56094]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῑ]</font> colline, A.RH. <i>1, 599</i>.`

@@ -1,0 +1,1 @@
+lar[87477]=`réduire à la mendicité, SPT. <i>1Reg. 2, 7</i>.<p><b>Étym</b>. πτωχός.`

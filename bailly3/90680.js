@@ -1,0 +1,1 @@
+lar[90680]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> scare, <i>poisson de mer, litt</i>. « bondissant », EPICH. <i>et</i> ARCHESTR. (ATH. <i>288f, 305d, 320a</i>) ; ARSTT. <i>H.A. 2, 17, 25</i>.<p><b>Étym</b>. σκαίρω.`

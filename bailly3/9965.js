@@ -1,0 +1,1 @@
+lar[9965]=`<b>ἀντι·κλάζω :<br>      1 <i>intr.</i></b> retentir contre, <i>dat</i>. EUR. <i>Andr. 1145</i>.<br><b>      2 <i>tr.</i></b> faire retentir en se répondant, EUR. <i>Bacch. 1057</i>.`

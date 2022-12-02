@@ -1,0 +1,1 @@
+lar[61495]=`<b>ου (τὸ)</b> réponse d’oracle, prédiction, HDT. <i>1, 64 ; 4, 178 ; 8, 60</i> ; EUR. <i>Her. 406</i> ; THC. <i>1, 8, etc.</i> ; AR. <i>Vesp. 799, etc. ; dans l’Écriture, en parl. des enseignements divins,</i> SPT. <i>Ps. 11, 7</i> ; NT. <i>Ap. 7, 38, etc.</i> ; τὰ δέκα λόγια, PHIL. <i>2, 208,</i> les dix commandements.<p><b>Étym</b>. <i>dim. de</i> λόγος.`

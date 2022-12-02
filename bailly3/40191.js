@@ -1,0 +1,1 @@
+lar[40191]=`<b>α, ον</b> <font color="purple">[γᾰ]</font> productif, fertile, PLUT. <i>Cato ma. 21</i>.<p><b>Étym</b>. ἐργάτης.`

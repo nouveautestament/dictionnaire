@@ -1,0 +1,1 @@
+lar[87316]=`<b>ικος (ὁ)</b> tige principale d’un artichaut, TH. <i>H.P. 6, 4, 11</i>.`

@@ -1,0 +1,1 @@
+lar[83029]=`<b>ῆρος (ὁ)</b> vase pour boire, coupe, EUR. <i>Alc. 756, Cycl. 151</i>.<p><b>Étym</b>. πίνω.`

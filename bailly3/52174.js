@@ -1,0 +1,1 @@
+lar[52174]=`<b>κατα·βραβεύω</b> <font color="purple">[ρᾰ]</font> prononcer contre qqn par suite d’intrigues, <i>d’où</i> évincer, frustrer, DÉM. <i>544</i> ; NT. <i>Col. 2, 18</i>.`

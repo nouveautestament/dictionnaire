@@ -1,0 +1,1 @@
+lar[87236]=`<b>πρωτο·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> être atteint d’un mal pour la première fois, CLÉM. <i>498, etc</i>.`

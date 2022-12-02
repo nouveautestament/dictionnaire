@@ -1,0 +1,1 @@
+lar[22770]=`<b>ῆς (ἡ)</b>, <i>s.-e</i>. ὄρχησις, la danse des gymnopédies, ATH. <i>630d</i>.<p><b>Étym</b>. γυμνοπαιδία.`

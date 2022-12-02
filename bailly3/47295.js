@@ -1,0 +1,1 @@
+lar[47295]=`<b>ητος (ἡ)</b> nature de bête sauvage, sauvagerie, brutalité, ARSTT. <i>Nic. 7, 1, 1, etc</i>.<p><b>Étym</b>. θηρίον.`

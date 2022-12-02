@@ -1,0 +1,1 @@
+lar[83356]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec plus d’estime, de considération, PLAT. <i>Rsp. 548c</i>.`

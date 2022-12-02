@@ -1,0 +1,1 @@
+lar[67673]=`<b>ου (ὁ)</b> Narkissos (Narcisse) <i>fils de Céphise et de la nymphe Leiriopè,</i> LUC. <i>V.H. 2, 17, etc.</i> ; ANTH. <i>11, 76</i>.<p><b>Étym</b>. <i>v</i>. νάρκισσος.`

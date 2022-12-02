@@ -1,0 +1,1 @@
+lar[86301]=`<b>προσ·περιειλέω-ῶ</b>, enrouler en outre autour, SOR. <i>Obst. 17, p. 51, 7</i>.`

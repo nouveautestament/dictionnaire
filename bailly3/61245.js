@@ -1,0 +1,1 @@
+lar[61245]=`<b>λινό·πτερος, ος, ον</b> <font color="purple">[ῐ]</font> aux ailes (<i>càd</i>. aux voiles) de lin, ESCHL. <i>Pr. 468</i>.<p><b>Étym</b>. λ. πτερόν.`

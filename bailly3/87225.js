@@ -1,0 +1,1 @@
+lar[87225]=`<b>πρωτό·μαχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat au premier rang, ATH. <i>154e ;</i> ANTH. <i>5, 71</i>.<p><b>Étym</b>. πρ. μάχομαι.`

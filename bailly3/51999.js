@@ -1,0 +1,1 @@
+lar[51999]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. fait de brins de paille (nid) ANTH. <i>10, 4</i>.<p><b>Étym</b>. κάρφος.`

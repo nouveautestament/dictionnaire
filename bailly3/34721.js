@@ -1,0 +1,1 @@
+lar[34721]=`<b>ἐννεά·κρουνος, ος, ον</b>, à neuf sources ; <i>subst</i>. ἡ ἐνν. HDT. <i>6, 137</i> ; THC. <i>2, 15,</i> la fontaine à neuf sources, <i>antér. appelée</i> Καλλιρρόη, <i>à Athènes</i>.<p><b>Étym</b>. ἐ. κρουνός.`

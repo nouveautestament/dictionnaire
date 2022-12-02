@@ -1,0 +1,1 @@
+lar[90766]=`<b>οῦ (ὁ)</b> défenseur, protecteur, SPT. <i>Ex. 15, 2 ; 3 Macc. 6, 9, etc</i>.<p><b>Étym</b>. σκεπάζω.`

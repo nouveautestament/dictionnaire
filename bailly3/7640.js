@@ -1,0 +1,1 @@
+lar[7640]=`<b>ου (τὸ)</b> câble <i>ou</i> machine pour tirer en haut <i>ou</i> en arrière, APP. <i>Civ. 4, 78</i>.`

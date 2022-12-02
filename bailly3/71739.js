@@ -1,0 +1,1 @@
+lar[71739]=`<b>εως (ἡ)</b> situation limitrophe, EPIC. (DL. <i>10, 64).</i><p><b>Étym</b>. ὁμουρέω.`

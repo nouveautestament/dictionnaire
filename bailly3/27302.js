@@ -1,0 +1,1 @@
+lar[27302]=`<b>διώξ·ιππος, ος, ον</b>, qui presse les chevaux, PD. <i>P. 9, 4</i> ; ANTH. <i>6, 233</i>.<p><b>Étym</b>. διώκω, ἵππος.`

@@ -1,0 +1,1 @@
+lar[9735]=`<b>ἀντ·ήνωρ, ορος (ὁ, ἡ)</b> qui tient la place d’un homme, ESCHL. <i>Ag. 442</i>.<p><b>Étym</b>. ἀντί, ἀνήρ.`

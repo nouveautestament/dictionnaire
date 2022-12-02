@@ -1,0 +1,1 @@
+lar[67129]=`<b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> μ. λίθος, DIONYS. (EUS. <i>H.E. p. 237b</i>) pierre meulière, meule.<br><b>      2</b> μ. ὀδόντες, ORIB. <i>p. 168 Mai,</i> dents molaires.<p><b>Étym</b>. μύλη.`

@@ -1,0 +1,1 @@
+lar[8604]=`<b>ἀν·εύθετος, ος, ον</b>, mal situé, peu convenable, NT. <i>Ap. 27, 12</i>.<p><b>Étym</b>. ἀν-, εὔθ.`

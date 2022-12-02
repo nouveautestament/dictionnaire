@@ -1,0 +1,1 @@
+lar[9175]=`<b>ας (ἡ)</b> route impraticable, PHIL. <i>1, 118 ; 2, 156 ; d’ord. aux dat. sg. et pl</i>. ἀνοδίᾳ, POL. <i>5, 13, 6, etc.</i> ; ἀνοδίαις, PLUT. <i>M. 508d</i>, à travers des régions sans routes frayées.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Gloss. 20, 12</i>.<p><b>Étym</b>. ἄνοδος.`

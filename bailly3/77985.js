@@ -1,0 +1,1 @@
+lar[77985]=`<b>πεντά·κλινος, ος, ον</b> <font color="purple">[ῑ]</font> à cinq lits, ARSTT. <i>Mir. 127, 2</i> ; ATH. <i>205d, etc</i>.<p><b>Étym</b>. πέντε, κλίνη.`

@@ -1,0 +1,1 @@
+lar[3222]=`<b>ἀ·καταστέριστος, ος, ον</b>, non disposé en constellations, A. TAT. ASTR. <i>Isag. in Arat. 996 Migne</i>.<p><b>Étym</b>. ἀ, καταστερίζω.`

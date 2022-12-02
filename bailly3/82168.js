@@ -1,0 +1,1 @@
+lar[82168]=`<b>πολύ·νοσος, ος, ον</b> <font color="purple">[ῠ]</font> sujet à beaucoup de maladies <i>ou</i> très sujet à la maladie, maladif, STR. <i>705</i>.<p><b>Étym</b>. π. νόσος.`

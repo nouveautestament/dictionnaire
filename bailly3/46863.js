@@ -1,0 +1,1 @@
+lar[46863]=`<b>θεόω-θεῶ</b>, <i>c</i>. θειόω, purifier par le soufre, ARAR. <i>(Bkk. p. 99, 32).</i><p><b>Étym</b>. θεῖον.`

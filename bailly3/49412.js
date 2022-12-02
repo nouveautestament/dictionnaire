@@ -1,0 +1,1 @@
+lar[49412]=`<b>ἱππο·σόας, ου</b>, <i>adj. m</i>. habile à lancer les chevaux, PD. <i>P. 2, 119, etc</i>.<p><b>Étym</b>. ἵ. σεύω.`

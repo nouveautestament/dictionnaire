@@ -1,0 +1,1 @@
+lar[82085]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., avec un grand savoir, CLÉM. <i>805b</i>.<p><b>Étym</b>. πολυμαθής.`

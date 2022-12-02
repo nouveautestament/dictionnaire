@@ -1,0 +1,1 @@
+lar[55636]=`<i>att</i>. <b>Κίττος, ου (ὁ)</b> Kissos, <i>h</i>. PLUT. <i>Alex. 41</i> ; DÉM. <i>34, 6 Baiter-Sauppe, etc</i>.`

@@ -1,0 +1,1 @@
+lar[57655]=`<b>ος, ον</b> <font color="purple">[ᾰῑ]</font> de Cratinus, DH. <i>Rhet. 11, 10</i> ; HÉPH. <i>p. 96, etc</i>.<p><b>Étym</b>. Κρατῖνος.`

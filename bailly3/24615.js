@@ -1,0 +1,1 @@
+lar[24615]=`<b>δι·άζομαι</b>, tendre la chaîne d’une toile, commencer une trame, NICOPH. (POLL. <i>7, 32 et 33).</i><p><b>Étym</b>. διά, <i>cf</i>. ἄττομαι.`

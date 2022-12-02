@@ -1,0 +1,1 @@
+lar[75999]=`<b>ή, όν</b>, enclin à commettre des illégalités <i>ou</i> des méfaits, HIÉROCL. <i>C. aur. p. 440 Mullach</i>.<p><b>Étym</b>. παρανομέω.`

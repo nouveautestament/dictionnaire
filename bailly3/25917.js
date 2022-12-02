@@ -1,0 +1,1 @@
+lar[25917]=`<b>δια·χειραγωγέω-ῶ</b> <font color="purple">[ᾰγ]</font> conduire par la main, CLÉM. <i>506</i>.`

@@ -1,0 +1,1 @@
+lar[61801]=`<font color="purple">[ῡ]</font> imiter la langue <i>ou</i> les mœurs des Lydiens, AR. <i>Eq. 523</i> ; PHILSTR. <i>p. 214</i>.<p><b>Étym</b>. Λυδός.`

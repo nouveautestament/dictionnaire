@@ -1,0 +1,1 @@
+lar[74411]=`<b>παλαι·γενής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> né depuis longtemps, vieux, ancien, IL. <i>17, 561</i> ; OD. <i>22, 395,</i> HH. <i>Cer. 113</i> ; ESCHL. <i>Pr. 220, etc.</i> ; EUR. <i>Med. 421</i>.<br><b>      2</b> de vieille date, ancien (ennemi) ESCHL. <i>Ag. 1637</i>.<p><b>Étym</b>. π. γίγνομαι.`

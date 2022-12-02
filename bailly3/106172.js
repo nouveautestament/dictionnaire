@@ -1,0 +1,1 @@
+lar[106172]=`<b>φιλό·φθονος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à jalouser, envieux, DS. <i>Exc. 513, 60</i> ; τὸ φ. PLUT. <i>M. 91b</i>, jalousie, envie.<p><b>Étym</b>. φ. φθόνος.`

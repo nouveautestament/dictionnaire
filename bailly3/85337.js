@@ -1,0 +1,1 @@
+lar[85337]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> accessible à, <i>dat</i>. XÉN. <i>An. 4, 3, 12, etc</i>.<p><b>Étym</b>. <i>vb. de</i> προσβαίνω.`

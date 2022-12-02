@@ -1,0 +1,1 @@
+lar[21586]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Gelliānus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 9, 12</i>.`

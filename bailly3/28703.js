@@ -1,0 +1,1 @@
+lar[28703]=`<b>δυσ·ξύνθετος, ος, ον</b>, difficile à mettre d’accord, PLUT. <i>M. 975f</i> (<i>dout., conj</i>. δυσξύνετος <i>Reiske).</i><p><b>Étym</b>. δ. ξυντίθημι.`

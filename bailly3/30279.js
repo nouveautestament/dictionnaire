@@ -1,0 +1,1 @@
+lar[30279]=`<b>εἰδωλολατρέω-ῶ</b>, adorer les idoles, être idolâtre, ORIG. <i>3, 304a Migne ; avec un acc</i>. CLÉM. <i>1, 224c Migne</i>.<p><b>Étym</b>. εἰδωλολάτρης.`

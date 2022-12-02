@@ -1,0 +1,1 @@
+lar[3594]=`<font color="purple">[ᾰκ]</font> (<i>seul. prés</i>. HH. <i>Merc. 423) et</i> <b>ἀκουάζομαι</b> (<i>seul. prés</i>.) entendre : τινος, OD. <i>9, 7 ; 13, 9,</i> qqn ; δαιτός, IL. <i>4, 343,</i> s’entendre inviter à un repas.<p><b>Étym</b>. ἀκούω.`

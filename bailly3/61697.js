@@ -1,0 +1,1 @@
+lar[61697]=`<b>λουτρο·ποιός, οῦ (ὁ)</b> « le Garçon de bain », <i>titre d’une comédie d’Anaxilas</i> (POLL. <i>7, 167).</i><p><b>Étym</b>. λ. ποιέω.`

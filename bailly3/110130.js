@@ -1,0 +1,1 @@
+lar[110130]=`pousser, presser, JOS. <i>c. Ap. 2</i> ; THÉM. <i>304a.</i><br><b><i>Pass.</i> :<br>      1</b> se pousser, se presser, LUC. <i>Pisc. 42</i>.<br><b>      2</b> être en conflit <i>ou</i> en dissentiment, se quereller, HDT. <i>3, 76</i>.<p><b>Étym</b>. ὠθέω.`

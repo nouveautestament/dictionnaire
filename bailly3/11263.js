@@ -1,0 +1,1 @@
+lar[11263]=`<b>ἀ·πάνουργος, ος, ον</b>, sans malice, simple, innocent, PLUT. <i>M. 966b</i>.<p><b>Étym</b>. ἀ, πανοῦργος.`

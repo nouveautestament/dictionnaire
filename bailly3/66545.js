@@ -1,0 +1,1 @@
+lar[66545]=`<b>μον·οίκητος, ος, ον</b>, où l’on habite seul, <i>d’où</i> solitaire, LYC. <i>960</i>.<p><b>Étym</b>. μόνος, οἰκέω.`

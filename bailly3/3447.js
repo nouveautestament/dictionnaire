@@ -1,0 +1,1 @@
+lar[3447]=`<b>ἄ·κλων</b>, <i>gén</i>. <b>ωνος (ὁ, ἡ)</b> dépourvu de rameaux, de branches, TH. <i>H.P. 6, 6, 2</i>.<p><b>Étym</b>. ἀ, κλών.`

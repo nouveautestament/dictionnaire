@@ -1,0 +1,1 @@
+lar[92384]=`<b>στενόω-ῶ</b>, resserrer, rétrécir, LIB. <i>4, 205 ; d’où au pass</i>. être resserré, HPC. <i>V. med. 17</i> ; ANTH. <i>9, 656</i> ; HDN <i>8, 1</i>.<p>➳ <i>Ion. et épq</i>. στεινόω, ANTH. <i>l. c</i>.<p><b>Étym</b>. στενός.`

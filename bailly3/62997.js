@@ -1,0 +1,1 @@
+lar[62997]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> des Marses, LYC. <i>1275</i>.<p><b>Étym</b>. Μαρσοί.`

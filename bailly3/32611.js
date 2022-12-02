@@ -1,0 +1,1 @@
+lar[32611]=`<b>ή, όν :<br>      1</b> élégiaque, <i>càd</i>. écrit en distiques, ATH. <i>144e.</i><br><b>      2</b> élégiaque, <i>en parl. du pentamètre,</i> DH. <i>Comp. 25</i> ; HÉPH. <i>1, 10</i>.<p><b>Étym</b>. ἐλεγεία.`

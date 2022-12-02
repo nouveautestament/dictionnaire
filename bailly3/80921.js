@@ -1,0 +1,1 @@
+lar[80921]=`<b>πλευρο·τυπής, ής, ές</b> <font color="purple">[ῠ]</font> qui frappe le côté, ANTH. <i>12, 137</i>.<p><b>Étym</b>. πλευρόν, τύπτω.`

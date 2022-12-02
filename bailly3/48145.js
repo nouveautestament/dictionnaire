@@ -1,0 +1,1 @@
+lar[48145]=`<b>θωρακο·ειδής, ής, ές</b> <font color="purple">[ᾱ]</font> en forme de cuirasse, PHIL. <i>2, 227</i>.<p><b>Étym</b>. θ. εἶδος.`

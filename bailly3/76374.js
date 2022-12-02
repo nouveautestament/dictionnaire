@@ -1,0 +1,1 @@
+lar[76374]=`<b>παρ·αυγάζω :<br>      1</b> éclairer de côté, <i>au pass</i>. STR. <i>135</i>.<br><b>      2</b> reproduire une image, représenter, <i>acc</i>. DP. <i>89</i>.<br><b><i>Moy.</i></b> éclairer de côté, STR. <i>75</i>.`

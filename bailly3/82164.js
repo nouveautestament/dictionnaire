@@ -1,0 +1,1 @@
+lar[82164]=`<b>πολύ·νομος, ος, ον</b> <font color="purple">[ῠ]</font> <i>au</i> <i>• Sup</i>. -ώτατος, qui se repaît de beaucoup de choses, TH. <i>H.P. 9, 15, 4</i>.<p><b>Étym</b>. π. νέμω.`

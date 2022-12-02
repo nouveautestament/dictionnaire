@@ -1,0 +1,1 @@
+lar[35348]=`<font color="purple">[ᾰῐ]</font> CALL. <i>fr. 120</i> ; ANTH. <i>14, 129, etc., et</i> <b>ἑξάκις</b> <font color="purple">[ᾰῐ]</font> PD. <i>O. 7, 86</i> ; PLAT. <i>Rsp. 337b, etc. adv</i>. six fois.<p><b>Étym</b>. ἕξ, -άκις.`

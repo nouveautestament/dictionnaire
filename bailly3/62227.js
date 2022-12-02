@@ -1,0 +1,1 @@
+lar[62227]=`<b>ης (ἡ)</b> <font color="purple">[μᾰ]</font> cuisinière, PHÉRÉCR. (ATH. <i>612a</i>).<p><b>Étym</b>. μάγειρος.`

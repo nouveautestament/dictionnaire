@@ -1,0 +1,1 @@
+lar[13010]=`<b>εως (ἡ)</b> action de racler, GEOP. <i>10, 75, 11</i>.<p><b>Étym</b>. ἀποξύω.`

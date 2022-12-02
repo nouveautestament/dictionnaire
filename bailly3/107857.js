@@ -1,0 +1,1 @@
+lar[107857]=`<b>ης, ες</b> <font color="purple">[χᾰ]</font><br><b>      1</b> qui se creuse son lit en ravin, comme un torrent, STR. <i>649</i>.<br><b>      2</b> sillonné de ravins, DIOSC. <i>4, 57</i>.<p><b>Étym</b>. χαράδρα, -ωδης.`

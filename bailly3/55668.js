@@ -1,0 +1,1 @@
+lar[55668]=`<b>κιτρό·μηλον, ου (τὸ) :<br>      1</b> citron, DIOSC. <i>3, 118</i> ; GEOP. <i>10, 76, 7</i>.<br><b>      2</b> pomme-citron, <i>fruit imaginaire supposé obtenu par une greffe de citronnier sur un pommier,</i> GEOP. <i>10, 76, 7</i>.<p><b>Étym</b>. κίτρον, μῆλον.`

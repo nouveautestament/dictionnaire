@@ -1,0 +1,1 @@
+lar[21308]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>dor. c</i>. γεωμετρικός, ARCHYT. (<i>Mein. ad</i> STOB. <i>Ecl. p. VI).</i><p><b>Étym</b>. <i>Cf</i>. γαμετρία.`

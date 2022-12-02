@@ -1,0 +1,1 @@
+lar[1885]=`<b>ἄ·ζωστος, ος, ον :<br>      1</b> sans ceinture, HÉS. <i>O. 343</i> ; PLAT. <i>Leg. 954a ; particul</i>. dont la ceinture est dénouée, <i>signe de mollesse,</i> PLUT. <i>Cor. 12</i>.<br><b>      2</b> non ceint d’une armure, APP. <i>Iber. 35</i>.<p><b>Étym</b>. ἀ, ζώννυμι.`

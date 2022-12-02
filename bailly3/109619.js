@@ -1,0 +1,1 @@
+lar[109619]=`<b>οῦ (ὁ)</b> Psellos, <i>surn. d’un écrivain byzantin,</i> ANTH. <i>App. 52</i>.<p><b>Étym</b>. <i>cf</i>. ψελλός.`

@@ -1,0 +1,1 @@
+lar[28192]=`<b>δυσ·άνιος, ος, ον</b> <font color="purple">[ῠᾰῐ]</font> mécontent de tout, chagrin, morose, HPC. <i>1108</i> ; MÉN. <i>4, 290 Meineke</i>.<p><b>Étym</b>. δ. ἀνία.`

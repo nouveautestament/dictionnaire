@@ -1,0 +1,1 @@
+lar[13760]=`<b>ἀπο·φρύγω</b>, faire griller, <i>d’où, au pass</i>. griller, brûler, EUN. (SUID. <i>v°</i> ἀπεφρύγοντο).`

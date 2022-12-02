@@ -1,0 +1,1 @@
+lar[28774]=`<b>δυσ·παρήγορος, ος, ον</b> <font color="purple">[ᾰ]</font> inexorable, ESCHL. <i>Eum. 384</i>.<p><b>Étym</b>. δ. παρηγορέω.`

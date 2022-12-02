@@ -1,0 +1,1 @@
+lar[74682]=`<b>παμ·βασιλεύς, έως (ὁ)</b> <font color="purple">[βᾰῐ]</font> roi du monde entier, roi absolu, ARSTT. <i>Pol. 3, 16, 2</i> ; SPT. <i>Sir. 50, 18</i>.<p><b>Étym</b>. π. βασιλεύς.`

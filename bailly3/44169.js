@@ -1,0 +1,1 @@
+lar[44169]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’Éphyra (<i>ou</i> Corinthe) A.RH. <i>4, 1212</i>.<p><b>Étym</b>. Ἐφύρη, -θεν.`

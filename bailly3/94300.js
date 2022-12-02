@@ -1,0 +1,1 @@
+lar[94300]=`<b>συμ·ποδηγέω-ῶ</b>, conduire <i>ou</i> diriger ensemble, PLAT. <i>Pol. 269d, 270a</i>.`

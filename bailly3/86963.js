@@ -1,0 +1,1 @@
+lar[86963]=`<b>προ·φιλοσοφέω-ῶ</b> <font color="purple">[ῐ]</font> philosopher avant, PLUT. <i>M. 160a ;</i> ORIG. <i>1, 476 Migne</i>.`

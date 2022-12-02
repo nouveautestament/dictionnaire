@@ -1,0 +1,1 @@
+lar[38294]=`<i>adv</i>., avec disposition à l’épilepsie, en état d’épilepsie, HPC. <i>172f ;</i> AGATHIN. (ORIB. <i>2, 396 B.-Dar</i>.).`

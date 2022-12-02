@@ -1,0 +1,1 @@
+lar[50416]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui convient pour une consécration religieuse, RHÉT. <i>5, 14 W</i>.<p><b>Étym</b>. καθιερόω.`

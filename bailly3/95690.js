@@ -1,0 +1,1 @@
+lar[95690]=`<b>συν·επιταχύνω</b> <font color="purple">[ᾰ]</font> accélérer ensemble <i>ou</i> en même temps, PLUT. <i>Agis 8, etc</i>.`

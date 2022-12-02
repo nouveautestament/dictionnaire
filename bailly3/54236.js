@@ -1,0 +1,1 @@
+lar[54236]=`<b>κατ·ωμίζω</b>, remettre une épaule démise, HPC. <i>782a</i>.<p><b>Étym</b>. κ. ὦμος.`

@@ -1,0 +1,1 @@
+lar[30982]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en venant de chacun des deux côtés, des deux côtés, THC. <i>2, 75 et 76 ; 4, 32, etc.</i> ; HDN <i>1, 12, 19</i> ; GEOP. <i>5, 27, 4 ; avec le gén</i>. ἐκ. τῆς πόλεως, THC. <i>3, 6,</i> de chacun des deux côtés de la ville ; ἐκ. τῶν πυλῶν, XÉN. <i>Cyr. 3, 3, 9,</i> de chaque côté des portes.<p><b>Étym</b>. ἑκάτερος, -θεν.`

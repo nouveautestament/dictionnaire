@@ -1,0 +1,1 @@
+lar[85677]=`<b>προσ·επιθεωρέω-ῶ</b>, observer en outre, HPC. <i>Coac. 151</i> ; GAL. <i>8, 286</i>.`

@@ -1,0 +1,1 @@
+lar[73262]=`<b>η, ον</b>, d’os, fait d’os, HDT. <i>4, 2</i> ; PLAT. <i>Tim. 73d, etc.</i> ; ARSTT. <i>H.A. 1, 9, etc</i>.<p><b>Étym</b>. ὀστέον.`

@@ -1,0 +1,1 @@
+lar[91117]=`<b>α (ὁ)</b> Skopas :<br><b>      1</b> <i>chef thessalien,</i> XÉN. <i>Hell. 6, 1, 19</i> ; PLAT. <i>Prot. 339a, etc.</i><br><b>      2</b> <i>statuaire de Paros,</i> ANTH. <i>9, 774, etc.</i><br><b>      3</b> <i>autre,</i> EL. <i>V.H. 12, 1, etc</i>.<p>➳ <i>Voc</i>. Σκόπα, ANTH. <i>l. c</i>.`

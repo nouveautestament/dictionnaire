@@ -1,0 +1,1 @@
+lar[28184]=`<b>δυσ·ανάσχετος, ος, ον</b> <font color="purple">[ῠᾰν]</font> difficile à supporter, CHRYS. <i>1, 238</i>.<p>➳ <i>Poét</i>. δυσάνσχετος, A.RH. <i>2, 272</i>.<p><b>Étym</b>. δ. ἀνέχω.`

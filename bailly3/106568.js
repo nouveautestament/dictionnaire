@@ -1,0 +1,1 @@
+lar[106568]=`<b>φοινικό·λοφος, ος, ον</b> <font color="purple">[ῑ]</font> à l’aigrette <i>ou</i> à la crête écarlate, EUR. <i>Ph. 827</i> ; THCR. <i>Idyl. 22, 72</i> ; GEOP. <i>14, 16, 2</i>.<p><b>Étym</b>. φ. λόφος.`

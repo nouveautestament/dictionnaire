@@ -1,0 +1,1 @@
+lar[17701]=`<b>αὐτό·στολος, ος, ον</b>, qui s’envoie lui-même, <i>càd</i>. qui va <i>ou</i> agit de lui-même, SOPH. <i>Ph. 496</i> ; ANTH. <i>7, 585</i> ; MUS. <i>255</i>.<p><b>Étym</b>. αὐ. στέλλω.`

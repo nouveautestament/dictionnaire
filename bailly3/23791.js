@@ -1,0 +1,1 @@
+lar[23791]=`<b>δελτο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui écrit sur des tablettes, <i>càd</i>. qui prend note de, <i>d’où</i> qui se souvient, ESCHL. <i>Eum. 275</i>.<p><b>Étym</b>. δέλτος, γράφω.`

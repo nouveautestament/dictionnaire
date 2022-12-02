@@ -1,0 +1,1 @@
+lar[85352]=`<b>προσ·βοάομαι-οῶμαι</b> <font color="darkgreen">(<i>ao. 3 sg. ion</i>. προσεβώσατο)</font> accueillir par des acclamations, <i>acc</i>. HDT. <i>6, 35</i>.`

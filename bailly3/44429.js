@@ -1,0 +1,1 @@
+lar[44429]=`<b>ζα·χρεῖος, ος, ον</b>, qui a grand besoin de, qui cherche, <i>gén</i>. THCR. <i>Idyl. 25, 6</i>.<p><b>Étym</b>. ζα-, χρεία.`

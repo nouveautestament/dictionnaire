@@ -1,0 +1,1 @@
+lar[56909]=`<b>ου (ὁ)</b> Kontadesdos, <i>fl. de Thrace,</i> HDT. <i>4, 90</i>.`

@@ -1,0 +1,1 @@
+lar[32328]=`<b>ἐκ·φλυνδάνω</b> (<i>seul. prés</i>.) sortir en bouillonnant, <i>càd</i>. faire éruption, <i>t. de méd</i>. HPC. <i>539, 16 ; 557, 17</i>.`

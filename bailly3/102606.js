@@ -1,0 +1,1 @@
+lar[102606]=`<b>ὑπερ·κορέννυμι</b>, rassasier outre mesure, gorger : τινά τινος, THGN. <i>1154,</i> qqn de qqe ch.`

@@ -1,0 +1,1 @@
+lar[56390]=`<b>κοέω-οῶ</b>, s’apercevoir, remarquer, comprendre, <i>acc</i>. EPICH. (ATH. <i>236b</i>) ; CALL. <i>fr. 53, etc</i>.<p><b>Étym</b>. <i>p</i>. *κοϝέω, <i>de la R. indo-europ</i>. *(s)keuh₁-, noter, voir, entendre ; <i>cf. les cps. en</i> -κόων, Λαοκόων, <i>etc.,</i> θυοσκόος, <i>lat</i>. caveō, <i>all</i>. schauen.`

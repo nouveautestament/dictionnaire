@@ -1,0 +1,1 @@
+lar[32817]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> qui s’enroule <i>ou</i> se recourbe, sinueux, <i>au</i> <i>• Sup</i>. -ώτατος, CALL. <i>fr. 290</i>.<p><b>Étym</b>. <i>cf</i>. ἕλιξ.`

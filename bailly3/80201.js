@@ -1,0 +1,1 @@
+lar[80201]=`<b>ά, όν</b> <font color="purple">[ῑ]</font> <i>c</i>. πίων, ATH. (ORIB. <i>1, 11 B.-Dar</i>.).`

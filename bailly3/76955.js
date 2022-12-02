@@ -1,0 +1,1 @@
+lar[76955]=`<b>ητος (ἡ)</b> égalité, DIOPHANT. <i>Arithm. 5, 17, p. 237</i>.<p><b>Étym</b>. πάρισος.`

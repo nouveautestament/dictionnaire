@@ -1,0 +1,1 @@
+lar[77446]=`<i>vb. de</i> παύω, PLAT. <i>Rsp. 391e, etc.</i> ; PLUT. <i>M. 6c</i>.`

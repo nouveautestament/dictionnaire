@@ -1,0 +1,1 @@
+lar[1171]=`<b>ἀ·δάματος, ος, ον</b> <font color="purple">[δᾰᾰ]</font><br><b>      1</b> indompté, ESCHL. <i>Ch. 54, etc.</i> ; SOPH. <i>O.R. 205</i>.<br><b>      2</b> <i>p. suite,</i> vierge, SOPH. <i>Aj. 450</i>.<p><b>Étym</b>. ἀ, δαμάω.`

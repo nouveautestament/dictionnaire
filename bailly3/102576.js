@@ -1,0 +1,1 @@
+lar[102576]=`<b>ὑπερ·καθεύδω</b>, passer le temps du sommeil à veiller sur qqn, <i>càd</i>. veiller sur une personne endormie, PHILSTR. <i>356</i>.`

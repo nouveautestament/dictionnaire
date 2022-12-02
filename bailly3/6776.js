@@ -1,0 +1,1 @@
+lar[6776]=`<b>ἀνα·θαρρύνω :<br>      1 <i>tr.</i></b> encourager, <i>acc</i>. XÉN. <i>Cyr. 5, 4, 23</i> ; PLUT. <i>Per. 35, etc.</i><br><b>      2 <i>intr.</i></b> reprendre courage, PLUT. <i>Luc. 14</i>.`

@@ -1,0 +1,1 @@
+lar[107938]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> χαρίζομαι, PHIL. <i>1, 253 ; au neutre,</i> PLAT. <i>Phædr. 227c ;</i> ARSTT. <i>Nic. 9, 2, 3</i> ; CLÉM. <i>443</i>.`

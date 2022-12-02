@@ -1,0 +1,1 @@
+lar[49449]=`<b>Ἱππο·φάγοι, ων (οἱ)</b> les Hippophages, <i>pple de Scythie,</i> PTOL. <i>6, 4, 3</i>.<p><b>Étym</b>. ἵ. φαγεῖν.`

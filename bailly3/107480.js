@@ -1,0 +1,1 @@
+lar[107480]=`<b>έως</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. issu de Khæris, <i>seul. nom. pl. att</i>. Χαιριδῆς, AR. <i>Ach. 866, par dériv. com. comme si</i> Khæris, <i>n. d’h</i>. (<i>v</i>. Χαῖρις), <i>était un n. de lieu</i>.`

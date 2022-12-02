@@ -1,0 +1,1 @@
+lar[93514]=`<b>συγ·κορυφόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> récapituler, résumer, LGN <i>24</i>.<br><b>      2</b> achever, accomplir, DH. <i>Thuc. 9, 5</i>.`

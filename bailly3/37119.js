@@ -1,0 +1,1 @@
+lar[37119]=`<b>εως (ἡ)</b> poursuite, <i>d’où</i> punition, châtiment, PHIL. <i>2, 569</i>.<p><b>Étym</b>. <i>cf</i>. ἐπεξέρχομαι.`

@@ -1,0 +1,1 @@
+lar[93949]=`<b>συμ·μεσουράνιος, ος, ον</b> <font color="purple">[ᾰ]</font> situé sous le même méridien, PTOL.`

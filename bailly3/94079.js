@@ -1,0 +1,1 @@
+lar[94079]=`<b>ή, όν</b>, qui aime à prendre avec soi, PHILOD. <i>V. Herc. 1, 15a</i>.<p><b>Étym</b>. συμπαραλαμβάνω.`

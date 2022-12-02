@@ -1,0 +1,1 @@
+lar[60068]=`<b>εως (ἡ) :<br>      1</b> action de lisser, de polir, CLÉM. <i>263</i> (λείανσις).<br><b>      2</b> action de réduire en poudre, de broyer, ORIB. <i>p. 318 Matthäi</i>.<p><b>Étym</b>. λεαίνω.`

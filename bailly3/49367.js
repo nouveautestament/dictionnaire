@@ -1,0 +1,1 @@
+lar[49367]=`<b>ἱππό·κροτος, ος, ον</b>, qui retentit du bruit des chevaux, PD. <i>P. 5, 123</i> ; EUR. <i>Hipp. 229, Hel. 207 ; cf</i>. ANTH. <i>12, 131</i>.<p><b>Étym</b>. ἵ. κροτέω.`

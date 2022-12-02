@@ -1,0 +1,1 @@
+lar[66774]=`<b>μορφόω-ῶ</b>, donner une forme à, figurer, représenter, <i>acc</i>. ARAT. <i>374</i> ; ANTH. <i>1, 33 ; au pass</i>. prendre une forme, TH. <i>C.P. 5, 6, 7</i> ; PLUT. <i>M. 1013c ;</i> NT. <i>Gal. 4, 19</i>.<p><b>Étym</b>. μορφή.`

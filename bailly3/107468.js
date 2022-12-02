@@ -1,0 +1,1 @@
+lar[107468]=`visiter poliment, <i>litt</i>. saluer du mot χαῖρε, DL. <i>3, 98</i> ; SPT. <i>Tob. 7, 1</i>.<p><b>Étym</b>. <i>v</i>. χαίρω.`

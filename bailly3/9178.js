@@ -1,0 +1,1 @@
+lar[9178]=`<b>ἄν·οδος, ος, ον</b>, sans routes, impraticable, EUR. <i>I.T. 889</i> ; XÉN. <i>An. 4, 8, 10</i>.<p><b>Étym</b>. ἀν-, ὁδός.`

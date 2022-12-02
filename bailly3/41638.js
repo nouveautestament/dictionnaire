@@ -1,0 +1,1 @@
+lar[41638]=`<b>εὐ·αρδής, ής, ές</b>, qui arrose bien, PLUT. <i>M. 912f</i>.<p><b>Étym</b>. εὖ, ἄρδω.`

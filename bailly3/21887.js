@@ -1,0 +1,1 @@
+lar[21887]=`<b>ου (ὁ)</b> Géôrgios (Georges) <i>h</i>. PLAT. <i>Ep. 17</i> ; ANTH. <i>8, 154</i> ; A. PL. <i>312</i>.<p><b>Étym</b>. γεωργός.`

@@ -1,0 +1,1 @@
+lar[38931]=`<b>ἐπι·σαλπίζω</b> <font color="darkgreen">(<i>impf</i>. ἐπεσάλπιζον)</font> accompagner avec la trompette, <i>dat</i>. JOS. <i>A.J. 9, 13, 3</i>.`

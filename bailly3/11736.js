@@ -1,0 +1,1 @@
+lar[11736]=`<b>ή, όν</b>, qui peut produire, <i>gén</i>. PLAT. <i>Rsp. 527b ;</i> ἡ ἀπεργαστική (<i>s.-e</i>. τέχνη) PLAT. <i>Epin. 375d</i>, l’art de produire, d’achever.<p><b>Étym</b>. ἀπεργάζομαι.`

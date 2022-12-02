@@ -1,0 +1,1 @@
+lar[24562]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐκ]</font> contestation, querelle, AQU. <i>Ezech. 47, 19 ; 48, 28</i>.<p><b>Étym</b>. διαδικάζω.`

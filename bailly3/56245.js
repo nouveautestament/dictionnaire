@@ -1,0 +1,1 @@
+lar[56245]=`<b>ου (τὸ)</b> sureau, <i>arbre,</i> DIOSC. <i>3, 41</i>.<p><b>Étym</b>. κνῆκος.`

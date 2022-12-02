@@ -1,0 +1,1 @@
+lar[17141]=`<b>αὐθ·έδραστος, ος, ον</b>, qui subsiste par soi-même, RHÉT. <i>3, 476 W</i>.<p><b>Étym</b>. αὐτός, ἑδράζω.`

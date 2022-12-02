@@ -1,0 +1,1 @@
+lar[109341]=`<b>ῆρος (ὁ)</b> qui colore : μόλιβος, ANTH. <i>6, 68,</i> crayon de plomb.<p><b>Étym</b>. χρώζω.`

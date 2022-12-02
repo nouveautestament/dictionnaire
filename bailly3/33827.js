@@ -1,0 +1,1 @@
+lar[33827]=`<b>ἐνακισ·χίλιοι, αι, α</b> <font color="purple">[ᾰχῑ]</font> neuf mille, PLAT. <i>Tim. 23e</i>.<p>➳ <i>Postér</i>. ἐννεακισχίλιοι, EL. <i>V.H. 6, 12. Ion</i>. εἰνακισχίλιοι, HDT. <i>3, 95, etc</i>.`

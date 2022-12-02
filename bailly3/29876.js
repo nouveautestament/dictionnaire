@@ -1,0 +1,1 @@
+lar[29876]=`<b>ἐγ·χέζω</b> (<i>pf</i>. ἐγκέχοδα) faire ses ordures sur, AR. <i>Ran. 479</i> ; τινά, AR. <i>Vesp. 627,</i> par peur de qqn.<p><b>Étym</b>. ἐν, χ.`

@@ -1,0 +1,1 @@
+lar[37011]=`<b>ἐπ·εισφοιτάω-ῶ</b>, fréquenter continuellement, PHIL. <i>1, 615</i>.`

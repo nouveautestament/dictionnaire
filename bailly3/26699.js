@@ -1,0 +1,1 @@
+lar[26699]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Diogeniānus, Diogénien, <i>h</i>. PLUT. <i>Qu. conv. 7, 1, 1, etc</i>.`

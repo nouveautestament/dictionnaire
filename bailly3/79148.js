@@ -1,0 +1,1 @@
+lar[79148]=`<b>ου (τὸ)</b> bordure au bas d’une robe <i>ou</i> le bas de la robe, PTOL. <i>Math. synt. t. 2, p. 42, etc</i>.<p><b>Étym</b>. π. πούς.`

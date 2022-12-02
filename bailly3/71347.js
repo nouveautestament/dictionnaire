@@ -1,0 +1,1 @@
+lar[71347]=`<b>ὀμβρο·δέκτης, ου (ὁ)</b> réservoir d’eau de pluie, citerne, HÉRON <i>p. 318, 34</i>.<p><b>Étym</b>. ὄμβρος, δέχομαι.`

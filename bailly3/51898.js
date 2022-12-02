@@ -1,0 +1,1 @@
+lar[51898]=`<b>καρπο·τρόφος, ος, ον</b>, qui nourrit des fruits, qui produit des fruits, ORPH. <i>H. 20, 1, etc.</i> ; LYC. <i>1423 ; fig</i>. EUR. <i>Ion 475</i>.<p><b>Étym</b>. κ. τρέφω.`

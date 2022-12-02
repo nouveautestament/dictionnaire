@@ -1,0 +1,1 @@
+lar[95305]=`<b>συν·εισβαίνω</b>, entrer ensemble <i>ou</i> avec qqn dans, <i>acc</i>. ESCHL. <i>Sept. 602</i> ; EUR. <i>Med. 477 ; ou avec</i> εἰς <i>et l’acc</i>. ANT. <i>139, 7</i>.`

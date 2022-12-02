@@ -1,0 +1,1 @@
+lar[59424]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> chasse au lièvre avec le λαγωβόλον, CALL. <i>Dian. 2, au pl</i>.`

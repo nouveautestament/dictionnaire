@@ -1,0 +1,1 @@
+lar[25111]=`<b>δι·αναπαύω :<br>      1</b> donner un intervalle de repos, laisser se reposer qqe temps, <i>acc</i>. HPC. <i>Aph. 1246</i> ; ARSTT. <i>Pol. 8, 5, 12</i>.<br><b>      2</b> interrompre, LUC. <i>Am. 7</i>.<br><b><i>Moy.</i></b> prendre un peu de repos, PLAT. <i>Conv. 191c, Leg. 625b</i>.`

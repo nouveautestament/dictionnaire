@@ -1,0 +1,1 @@
+lar[52480]=`<b>εως (ἡ)</b> <font color="purple">[ᾰλ]</font> état d’une chose cachée, GAL. <i>19, 357</i>.<p><b>Étym</b>. κατακαλύπτω.`

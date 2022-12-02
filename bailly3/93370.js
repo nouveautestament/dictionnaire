@@ -1,0 +1,1 @@
+lar[93370]=`<b>συγ·καταστασιάζω</b> <font color="purple">[στᾰ]</font> soulever en même temps, PLUT. <i>Phil. 13</i>.`

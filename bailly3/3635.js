@@ -1,0 +1,1 @@
+lar[3635]=`<i>ion</i>. <b>Ἀκραίη, ης (ἡ)</b> Akræa <i>ou</i> Akræè, <i>Néréide,</i> HÉS. <i>Th. 249</i>.<p><b>Étym</b>. <i>cf</i>. ἀκραῖος.`

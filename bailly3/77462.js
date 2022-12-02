@@ -1,0 +1,1 @@
+lar[77462]=`<b>ητος (ὁ)</b> Pakhès, <i>général athénien,</i> THC. <i>3, 18, etc.</i> ; ARSTT. <i>Pol. 5, 3, 3, etc.</i> ; PLUT. <i>Nic. 6, etc</i>.`

@@ -1,0 +1,1 @@
+lar[103369]=`<b>ὑπο·κίρνημι</b> (<i>part. prés. pass</i>. ὑποκιρνάμενος) mêler intimement, mélanger, ARSTT. <i>Insomn. 2, 14</i>.`

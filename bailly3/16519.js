@@ -1,0 +1,1 @@
+lar[16519]=`<b>ἀσυνθετέω-ῶ</b>, manquer à un engagement, être sans foi, SPT. <i>Ps. 72, 15, etc</i>.<p><b>Étym</b>. ἀσύνθετος.`

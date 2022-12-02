@@ -1,0 +1,1 @@
+lar[91100]=`<b>όεντος (ὁ)</b> Skolopœnte, <i>lieu près de Mycale,</i> HDT. <i>9, 97</i>.<p><b>Étym</b>. σκόλοψ.`

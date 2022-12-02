@@ -1,0 +1,1 @@
+lar[47811]=`<b>θυγατρο·ποιός, ός, όν</b>, qui fait naître <i>ou</i> qui crée des filles, PHIL. <i>1, 382</i>.<p><b>Étym</b>. θ. ποιέω.`

@@ -1,0 +1,1 @@
+lar[89848]=`<b>ου (ὁ)</b> <i>c</i>. Σερούϊος, PLUT. <i>Æmil. 30, Num. 10, etc.</i> ; LUC. <i>Macr. 8, etc</i>.`

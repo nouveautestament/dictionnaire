@@ -1,0 +1,1 @@
+lar[38379]=`<b>ἐπιμαχέω-ῶ</b> <font color="purple">[ᾰ]</font> venir au secours dans un combat, <i>particul</i>. contracter une alliance défensive, THC. <i>5, 27</i>.<p><b>Étym</b>. ἐπίμαχος.`

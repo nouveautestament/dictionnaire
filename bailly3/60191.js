@@ -1,0 +1,1 @@
+lar[60191]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> fait avec des lis, DIOSC. <i>3, 116</i>.<br><b>      2</b> qui ressemble à un lis, TH. <i>H.P. 3, 18, 11</i>.<p><b>Étym</b>. λείριον.`

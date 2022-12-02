@@ -1,0 +1,1 @@
+lar[18688]=`<b>ας (ἡ)</b> <i>mot lacéd. c</i>. γέφυρα, pont, ARSTT. (PLUT. <i>Lyc. 6</i>).`

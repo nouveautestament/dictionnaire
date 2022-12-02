@@ -1,0 +1,1 @@
+lar[85703]=`<b>προσ·επιορκέω-ῶ</b>, prêter en outre un faux serment, AR. <i>Lys. 1238</i>.`

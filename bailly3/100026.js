@@ -1,0 +1,1 @@
+lar[100026]=`<b>τρεχέ·δειπνος, ου (ὁ)</b> qui court les dîners, ATH. <i>4a, 242c ;</i> PLUT. <i>M. 726a ; n. comiq. d’un parasite,</i> ALCIPHR. <i>3, 4</i>.<p><b>Étym</b>. τρέχω, δεῖπνον.`

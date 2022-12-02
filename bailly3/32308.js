@@ -1,0 +1,1 @@
+lar[32308]=`<i>adv</i>., d’une manière méprisable, PHILSTR. <i>503</i>.<p><b>Étym</b>. ἐκ, φαῦλος.`

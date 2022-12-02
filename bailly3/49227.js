@@ -1,0 +1,1 @@
+lar[49227]=`<b>ἱπ·πάρδιον, ου (τὸ)</b> girafe, ARSTT. <i>H.A. 2, 1, 20, dout., mais p.-ê. correct par dissimilation, p</i>. ἱπποπάρδιον.<p><b>Étym</b>. ἵ. πάρδος.`

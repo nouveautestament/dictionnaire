@@ -1,0 +1,1 @@
+lar[31674]=`<b>ἔκ·μετρος, ος, ον :<br>      1</b> démesuré, <i>càd</i>. énorme <i>ou</i> immense, SOPH. <i>fr</i>. (STOB. <i>Fl. 2, 61</i>) ; MAN. <i>4, 64</i>.<br><b>      2</b> qui excède la mesure (du vers) LUC. <i>Im. 18</i>.<p><b>Étym</b>. ἐκ, μέτρον.`

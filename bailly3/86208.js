@@ -1,0 +1,1 @@
+lar[86208]=`<b>προσ·όμοιος, ος, ον</b>, à peu près semblable, analogue à, <i>dat</i>. EUR. <i>Ph. 128</i> ; PLAT. <i>Soph. 267a</i>.<p>➳ <i>Fém</i>. -α, STR. <i>165</i>.`

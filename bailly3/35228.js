@@ -1,0 +1,1 @@
+lar[35228]=`<b>εως (ἡ)</b> action de réduire en un, union, ARCHYT. (STOB. <i>Ecl. 1, 714</i>) ; ARSTT. <i>Phys. 4, 13, 2 ; Gen. et corr. 1, 10 fin</i> ; DYSC. <i>Adv. 559, 17</i>.<p><b>Étym</b>. ἑνόω.`

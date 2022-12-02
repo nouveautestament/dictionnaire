@@ -1,0 +1,1 @@
+lar[46953]=`<b>θερμολουτέω-ῶ</b>, prendre un bain chaud, PLUT. <i>M. 789e ;</i> HERMIPP. (ATH. <i>18c</i>) ; ALEX. <i>(Bkk. p. 99).</i><p><b>Étym</b>. θερμολούτης.`

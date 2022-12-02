@@ -1,0 +1,1 @@
+lar[31982]=`<b>ἐκ·πυρσεύω :<br>      1</b> faire des signaux de feu, JOS. <i>B.J. 4, 10, 5 ; 5, 4, 3</i>.<br><b>      2</b> enflammer, <i>fig</i>. SEXT. <i>580, 8 Bkk. au pass</i>.`

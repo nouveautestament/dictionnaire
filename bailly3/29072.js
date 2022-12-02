@@ -1,0 +1,1 @@
+lar[29072]=`<b>(τὸ)</b> <i>épq. p</i>. δῶμα, <i>seul. nom</i>. OD. <i>1, 392, et acc</i>. IL. <i>1, 426</i> ; OD. <i>1, 176, etc., ou p</i>. δώματα, HÉS. <i>Th. 933</i>.<p><b>Étym</b>. <i>indo-europ</i>. *dōm, maison ; <i>cf</i>. δόμος, δῶμα.`

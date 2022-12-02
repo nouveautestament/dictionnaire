@@ -1,0 +1,1 @@
+lar[47906]=`<b>θυμ·ήρης, ης, ες</b> <font color="purple">[ῡ]</font> qui réjouit, agréable, <i>c</i>. θυμαρής, <i>en parl. de pers</i>. HDN <i>8, 5, 23 ; en parl. de choses</i> : θυμῆρες κεραννύναι, OD. <i>10, 362,</i> faire un mélange agréable.<p><b>Étym</b>. <i>cf</i>. θυμαρής ; <i>sel. d’autres de</i> θυμός, ἀρέσκω.`

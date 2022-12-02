@@ -1,0 +1,1 @@
+lar[56204]=`<b>εως (ἡ)</b> action de filer, LYC. <i>716</i>.<p><b>Étym</b>. κλώθω.`

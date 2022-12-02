@@ -1,0 +1,1 @@
+lar[51475]=`<b>εως (ἡ) :<br>      1</b> action de courber, de plier, courbure, PLAT. <i>Tim. 74a ;</i> ARSTT. <i>H.A. 2, 1, etc.</i><br><b>      2</b> <i>p. suite,</i> cambrure, forme cambrée (d’un objet) HÉRON, PHIL. BYZ.<p><b>Étym</b>. κάμπτω.`

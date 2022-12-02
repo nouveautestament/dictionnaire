@@ -1,0 +1,1 @@
+lar[8346]=`<b>ἀν·ενδεής, ής, ές :<br>      1</b> qui ne manque en rien, parfait, PLUT. <i>M. 1068c.</i><br><b>      2</b> qui ne manque de rien, riche, HDN <i>8, 7, 13</i>.<p>•<i> Sup</i>. -έστατος, PLOT.<p><b>Étym</b>. ἀν-, ἐνδεής.`

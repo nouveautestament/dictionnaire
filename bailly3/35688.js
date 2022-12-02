@@ -1,0 +1,1 @@
+lar[35688]=`<b>ἑξά·ωρος, ος, ον</b>, de six heures, NICOM. <i>Arithm. 52</i>.<p><b>Étym</b>. ἕξ, ὥρα.`

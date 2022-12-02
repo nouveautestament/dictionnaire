@@ -1,0 +1,1 @@
+lar[92618]=`<b>ή, όν</b>, brillant, SPT. <i>Ezech. 27, 18 Ald</i>.<p><b>Étym</b>. στίλβω.`

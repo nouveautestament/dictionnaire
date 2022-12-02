@@ -1,0 +1,1 @@
+lar[68585]=`<b>ης, ες</b>, semblable à un enfant, NYSS. <i>2, 86c, 97d au cp</i>. -έστερος.<p><b>Étym</b>. νήπιος, -ωδης.`

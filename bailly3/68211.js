@@ -1,0 +1,1 @@
+lar[68211]=`<b>νεο·πλυνής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. νεόπλυτος SOPH. <i>fr. 391 Dind</i>.`

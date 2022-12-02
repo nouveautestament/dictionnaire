@@ -1,0 +1,1 @@
+lar[57279]=`<b>κοσμο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui exerce sa fureur dans le monde entier, SIB. <i>5, 361, 461</i>.<p><b>Étym</b>. κ. μαίνομαι.`

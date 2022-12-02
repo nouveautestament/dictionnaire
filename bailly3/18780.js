@@ -1,0 +1,1 @@
+lar[18780]=`<b>βαθύ·ξυλος, ος, ον</b> <font color="purple">[ᾰῠλ]</font> profondément boisé, aux bois épais, EUR. <i>Bacch. 1138</i> ; ARSTT. <i>Mund. 3, 1</i> ; JOS. <i>A.J. 15, 11, 5</i>.<p><b>Étym</b>. β. ξύλον.`

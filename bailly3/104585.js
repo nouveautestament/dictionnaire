@@ -1,0 +1,1 @@
+lar[104585]=`<b>οῦ</b> <i>ou</i> <b>ᾶ (ὁ)</b> <font color="purple">[φᾰ]</font> glouton, CRAT. (PHRYN. <i>p. 433 Lobeck).</i><p><b>Étym</b>. φαγεῖν.`

@@ -1,0 +1,1 @@
+lar[101302]=`<b>ὑάλεος-οῦς, έα-ῆ, εον-οῦν</b> <font color="purple">[ῠ]</font><br><b>      1</b> de verre, STR. <i>200</i>.<br><b>      2</b> transparent comme le verre, ANTH. <i>6, 33 ; 12, 249</i>.<p>➳ <font color="purple">[ῡ]</font> <i>à l’arsis,</i> ANTH. <i>ll. cc</i>.<p><b>Étym</b>. ὕαλος.`

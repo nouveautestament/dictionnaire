@@ -1,0 +1,1 @@
+lar[109883]=`<b>ά, όν</b>, enclin à blâmer, PD. <i>P. 2, 100</i> ; EL. <i>V.H. 3, 7</i>.<p>•<i> Sup</i>. -ώτατος, PLUT. <i>Cim. c. Luc. 1</i>.<p><b>Étym</b>. ψόγος.`

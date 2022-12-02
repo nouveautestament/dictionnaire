@@ -1,0 +1,1 @@
+lar[98076]=`<b>τεκνο·σπόρος, ος, ον</b>, qui engendre des enfants, MAN. <i>4, 597 ; 6, 540</i>.<p><b>Étym</b>. τ. σπείρω.`

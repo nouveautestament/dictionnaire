@@ -1,0 +1,1 @@
+lar[101913]=`<b>ὕπ·ακρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> placé presque au sommet, <i>d’où</i> presque parfait, PLAT. <i>Amat. 136c, 138e ;</i> LGN <i>34, 1</i>.`

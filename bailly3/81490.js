@@ -1,0 +1,1 @@
+lar[81490]=`<font color="darkgreen">(<i>seul. 3 sg. ao. moy. dor</i>. ἐποκίξατο)</font> tondre sur soi <i>ou</i> pour soi, <i>acc</i>. THCR. <i>Idyl. 5, 26</i>.<p><b>Étym</b>. πόκος.`

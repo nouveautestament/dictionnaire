@@ -1,0 +1,1 @@
+lar[15186]=`<b>ἀ·ρρύπαρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> non souillé, NAZ. <i>2, 421 Migne</i>.<p><b>Étym</b>. ἀ, ῥυπαρός.`

@@ -1,0 +1,1 @@
+lar[82410]=`<b>πολύ·στροβος</b>, <i>poét</i>. <b>πολύ·στροιβος, ος, ον</b>, qui tournoie sans cesse, NIC. <i>Al. 6, Th. 310</i>.<p><b>Étym</b>. π. στρέφω.`

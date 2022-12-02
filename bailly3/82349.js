@@ -1,0 +1,1 @@
+lar[82349]=`<b>πολύ·σαρκος, ος, ον</b> <font color="purple">[ῠ]</font> très charnu, corpulent, chargé d’embonpoint, ARSTT. <i>H.A. 7, 2, 9, etc</i>. PLUT. <i>M. 192c</i>.<p><b>Étym</b>. π. σάρξ.`

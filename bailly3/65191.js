@@ -1,0 +1,1 @@
+lar[65191]=`<i>part. prés. neutre de</i> μέτειμι¹.`

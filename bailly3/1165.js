@@ -1,0 +1,1 @@
+lar[1165]=`<font color="purple">[ᾰᾰμῐ]</font> <i>adv</i>., comme l’acier, <i>càd</i>. avec une fermeté inébranlable, PLAT. <i>Rsp. 618e</i>.`

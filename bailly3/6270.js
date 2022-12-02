@@ -1,0 +1,1 @@
+lar[6270]=`<b>ἀμφι·νάω</b> (<i>seul. part. prés</i>.) couler autour, ARSTT. <i>Sens. 2</i>.`

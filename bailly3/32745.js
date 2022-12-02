@@ -1,0 +1,1 @@
+lar[32745]=`<b>ἐλεφαντ·ηγός, ός, όν</b>, qui transporte des éléphants (navire), AGATHARCH. <i>171, 21</i>.<p><b>Étym</b>. ἐλέφας, ἄγω.`

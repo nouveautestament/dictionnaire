@@ -1,0 +1,1 @@
+lar[6883]=`<b>ἀνα·καινίζω</b>, renouveler : πόλεμον, PLUT. <i>Marc. 6,</i> une guerre ; <i>cf</i>. APP. <i>Mithr. 37</i> ; JOS. <i>A.J. 9, 8, 2, etc. ; au pass</i>. ISOCR. <i>141d</i>.`

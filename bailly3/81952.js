@@ -1,0 +1,1 @@
+lar[81952]=`<b>πολυ·ΐστωρ, ορος (ὁ, ἡ)</b> qui sait beaucoup, très savant, ANTH. <i>9, 280</i> ; DH. <i>Din. 1</i> ; STR. <i>149</i>.<p><b>Étym</b>. π. ἵστωρ.`

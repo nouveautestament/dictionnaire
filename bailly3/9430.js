@@ -1,0 +1,1 @@
+lar[9430]=`<b>ος, ον</b> <font color="purple">[ᾰγ]</font> donné en échange, MÉN. (SUID.).<p><b>Étym</b>. ἀνταλλάσσω.`

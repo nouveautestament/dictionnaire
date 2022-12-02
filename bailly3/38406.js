@@ -1,0 +1,1 @@
+lar[38406]=`<i>adv</i>., d’une manière blâmable, ESCHN. <i>Ctes. arg</i>.`

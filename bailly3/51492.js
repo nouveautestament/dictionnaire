@@ -1,0 +1,1 @@
+lar[51492]=`<font color="purple">[ᾰᾰᾰ]</font> <i>adv</i>., avec un bruit retentissant, HÉS. <i>Th. 367</i>.<p><b>Étym</b>. καναχέω, -δα.`

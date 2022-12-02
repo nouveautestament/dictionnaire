@@ -1,0 +1,1 @@
+lar[58208]=`<b>ου (ὁ)</b> Krôbylos :<br><b>      1</b> <i>sobriquet de l’orateur Hégésippe,</i> ESCHN. <i>70, 16</i>.<br><b>      2</b> <i>poète de la nouvelle comédie</i>.<br><b>      3</b> <i>autres,</i> PLUT. <i>Alex. 22, etc</i>.`

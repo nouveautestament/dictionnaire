@@ -1,0 +1,1 @@
+lar[15877]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font><br><b>      1</b> manque de nourriture, <i>au plur</i>. HDT. <i>3, 52</i> ; EUR. <i>Suppl. 1105</i>.<br><b>      2</b> abstinence, diète, HPC. <i>Acut. 389</i> ; ARSTT. <i>Nic. 10, 9, 15</i>.<br><b>      3</b> manque d’appétit, HPC. <i>Aph. 1258</i>.<p>➳ <i>Ion</i>. ἀσιτίη, HDT. HPC. <i>ll. cc</i>.<p><b>Étym</b>. ἄσιτος.`

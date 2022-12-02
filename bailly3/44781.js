@@ -1,0 +1,1 @@
+lar[44781]=`<b>ζῳο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange des animaux <i>ou</i> de la chair d’animaux, carnivore, ARSTT. <i>Pol. 1, 8, 5</i>.<p><b>Étym</b>. ζῷον, φαγεῖν.`

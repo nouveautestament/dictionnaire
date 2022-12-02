@@ -1,0 +1,1 @@
+lar[79409]=`<b>περι·στίχω</b> <font color="purple">[τῐ]</font> ranger tout autour, HDT. <i>4, 202 dout</i>.<p><b>Étym</b>. π. στίξ.`

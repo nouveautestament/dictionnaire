@@ -1,0 +1,1 @@
+lar[29921]=`<b>ἐγ·χορεύω</b>, mener une danse <i>ou</i> un chœur dans, sur <i>ou</i> parmi, <i>dat</i>. PLUT. <i>M. 332b</i>.<p><b>Étym</b>. ἐν, χ.`

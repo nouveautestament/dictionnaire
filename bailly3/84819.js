@@ -1,0 +1,1 @@
+lar[84819]=`<b>εως (ἡ)</b> <font color="purple">[ῠῐσ]</font> action de raser auparavant, ORIB. <i>297 Matthäi</i>.<p><b>Étym</b>. προξυρίζω.`

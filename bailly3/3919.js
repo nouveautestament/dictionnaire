@@ -1,0 +1,1 @@
+lar[3919]=`<i>vb. de</i> ἄγω, XÉN. <i>Hell. 6, 4, 5</i> ; PLAT. <i>Rsp. 467e ;</i> DÉM. <i>91, 11, etc</i>.`

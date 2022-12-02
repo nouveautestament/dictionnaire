@@ -1,0 +1,1 @@
+lar[23146]=`<b>Δάμ·ιππος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Damippos, <i>h</i>. ANAXIPP. (ATH. <i>417a</i>) ; PLUT. <i>Marc. 18 ; etc</i>.<p><b>Étym</b>. δᾶμος, ἵ.`

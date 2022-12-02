@@ -1,0 +1,1 @@
+lar[43420]=`<b>εὐ·σθενής, ής, ές</b>, fort, robuste, vigoureux, A. PL. <i>4, 323</i>.<p>•<i> Cp</i>. -έστερος, TH. <i>Ign. 64 ; sup. irrég. comme de</i> *εὔσθενος, εὐσθενώτατος, LUC. <i>Philopatr. 28</i>.<p>➳ <i>Épq</i>. ἐϋσθ- Q. SM. <i>14, 633</i>.<p><b>Étym</b>. εὖ, σθένος.`

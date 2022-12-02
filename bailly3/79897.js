@@ -1,0 +1,1 @@
+lar[79897]=`<b>πετρο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui gravit des rochers <i>ou</i> les rochers, APP. <i>Civ. 4, 56</i>.<p><b>Étym</b>. πέτρα, βαίνω.`

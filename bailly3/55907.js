@@ -1,0 +1,1 @@
+lar[55907]=`<b>Κλέ·ομμις, ιδος (ὁ)</b> Kléommis, <i>père d’Épaminondas,</i> ISOCR. <i>422e</i>.<p><b>Étym</b>. κλ. ὄμμα.`

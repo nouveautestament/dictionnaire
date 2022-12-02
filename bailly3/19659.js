@@ -1,0 +1,1 @@
+lar[19659]=`<b>οῦ (τὸ)</b> = <i>lat</i>. Bedriacum, <i>v. d’Italie entre Crémone et Vérone,</i> PLUT. <i>Oth. 8</i>.`

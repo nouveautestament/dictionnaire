@@ -1,0 +1,1 @@
+lar[57203]=`<b>α, ον</b> <font color="purple">[ῠᾰ]</font> de Koryphasion, ANTH. <i>6, 129</i>.<p><b>Étym</b>. <i>v</i>. Κορυφάσιον.`

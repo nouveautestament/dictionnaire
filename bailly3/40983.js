@@ -1,0 +1,1 @@
+lar[40983]=`<b>ατος (τὸ)</b> vêtement, EL. <i>V.H. 1, 2 ; d’ord. au pl</i>. ESCHL. <i>Pers. 836</i> ; SOPH. <i>El. 268</i> ; THC. <i>3, 58</i>.<p><b>Étym</b>. ἐσθέω.`

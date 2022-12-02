@@ -1,0 +1,1 @@
+lar[17785]=`<b>αὐτο·χόρδη, ης (ἡ)</b> lyre (<i>litt</i>. corde) qui résonne d’elle-même, JAMBL.<p><b>Étym</b>. αὐ. χορδή.`

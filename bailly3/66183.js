@@ -1,0 +1,1 @@
+lar[66183]=`<i>adv</i>., de mémoire, PLAT. <i>Pol. 257b ;</i> ESCHN. <i>33, 32</i> ; DÉM. <i>1383, 7</i>.`

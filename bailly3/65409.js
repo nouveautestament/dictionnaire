@@ -1,0 +1,1 @@
+lar[65409]=`<b>μηλο·πλακοῦς, οῦντος (ὁ)</b> <font color="purple">[ᾰ]</font> gâteau de pommes <i>ou</i> de coings, GAL. <i>6, 603</i>.<p><b>Étym</b>. μῆλον², πλ.`

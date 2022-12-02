@@ -1,0 +1,1 @@
+lar[57982]=`<b>Κριτό·δημος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Kritodèmos, <i>h</i>. LYS. <i>151, 23, etc</i>.<p><b>Étym</b>. κριτός, δῆμος.`

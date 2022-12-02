@@ -1,0 +1,1 @@
+lar[97635]=`<b>ου (τὸ)</b> <font color="purple">[τᾰῑ]</font> <i>c</i>. ταραντινίδιον, SEMUS (ATH. <i>622b</i>) ; POLYEN <i>5, 3, 3</i>.<p><b>Étym</b>. <i>neutre de</i> Ταραντῖνος.`

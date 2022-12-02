@@ -1,0 +1,1 @@
+lar[20294]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> herbacé, DIOSC. <i>4, 175</i>.<br><b>      2</b> rempli d’herbe, GEOP. <i>2, 46, 2</i>.<p>•<i> Cp</i>. -έστερος, DIOSC. <i>l. c</i>.<p><b>Étym</b>. βοτάνη, -ωδης.`

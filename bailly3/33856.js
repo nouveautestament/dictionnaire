@@ -1,0 +1,1 @@
+lar[33856]=`<i>adv</i>., en ordre inverse <i>ou</i> contraire, PLUT. <i>M. 1045e</i>.`

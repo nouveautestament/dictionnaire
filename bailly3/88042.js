@@ -1,0 +1,1 @@
+lar[88042]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Pyrôn, <i>h</i>. ISOCR. <i>17, 20 Baiter-Sauppe, etc</i>.`

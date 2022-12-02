@@ -1,0 +1,1 @@
+lar[66572]=`<b>μονό·λιθος, ος, ον</b> <font color="purple">[ῐ]</font> fait d’une seule pierre, monolithe, DS. <i>1, 46, 47, 59, 66, etc</i>.<p>➳ <i>Ion</i>. μουνόλιθος, HDT. <i>2, 175</i>.<p><b>Étym</b>. μ. λίθος.`

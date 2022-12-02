@@ -1,0 +1,1 @@
+lar[31081]=`<b>ἐκ·βάω</b> (<i>part. prés. acc. pl</i>. ἐκβῶντας) <i>lacéd. c</i>. ἐκβαίνω, THC. <i>5, 77</i>.<p><b>Étym</b>. <i>traité</i>.`

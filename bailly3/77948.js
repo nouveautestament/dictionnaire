@@ -1,0 +1,1 @@
+lar[77948]=`<b>ά, όν</b> <font color="purple">[ῑ]</font> pauvre, indigent, OD. <i>3, 348</i> ; THGN. <i>165, 181</i> ; PD. <i>N. 7, 27</i> ; AR. <i>Pl. 976</i> ; PLAT. <i>Rsp. 578a</i>.<p>•<i> Sup</i>. -ότατος, POL. <i>6, 2, 17</i>.<p>➳ <font color="purple">[ῐ]</font> PD. AR. <i>ll. cc.</i> ; MAN. <i>2, 416</i>.<p><b>Étym</b>. πένης.`

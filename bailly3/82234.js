@@ -1,0 +1,1 @@
+lar[82234]=`<b>πολύ·πηνος, ος, ον</b> <font color="purple">[ῠ]</font> au tissu broché (robe), EUR. <i>El. 190</i>.<p><b>Étym</b>. π. πήνη.`

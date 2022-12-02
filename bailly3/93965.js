@@ -1,0 +1,1 @@
+lar[93965]=`<b>συμ·μετατίθημι</b>, transporter en même temps, CHRYS.<br><b><i>Moy.</i></b> :<br><b>      1</b> <i>m. sign</i>. POL. <i>18, 13, 7</i>.<br><b>      2</b> se modifier <i>ou</i> changer ensemble, POL. <i>9, 23, 4</i>.`

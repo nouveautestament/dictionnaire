@@ -1,0 +1,1 @@
+lar[27164]=`<b>ας (ἡ)</b> division, séparation en deux, ARSTT. <i>P.A. 3, 5, 17</i>.<p><b>Étym</b>. διφυής.`

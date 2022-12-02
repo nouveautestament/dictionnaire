@@ -1,0 +1,1 @@
+lar[79283]=`<b>περι·σκυθιστής, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> qui scalpe, STR. <i>531</i>.<p><b>Étym</b>. περισκυθίζω.`

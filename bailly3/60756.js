@@ -1,0 +1,1 @@
+lar[60756]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> emmené comme butin, <i>d’où</i> captif, ANTH. <i>6, 20</i> ; A. PL. <i>203</i>.<p><b>Étym</b>. ληΐη.`

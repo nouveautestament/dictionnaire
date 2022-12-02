@@ -1,0 +1,1 @@
+lar[30361]=`<b>εἰκοσά·φυλλος, ος, ον</b> <font color="purple">[ᾰ]</font> à vingt feuilles, TH. <i>H.P. 6, 6, 4</i>.<p><b>Étym</b>. εἴ. φύλλον.`

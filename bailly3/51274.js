@@ -1,0 +1,1 @@
+lar[51274]=`<b>ων (τὰ)</b> les Kallyntèries, <i>fête qu’on célébrait à Athènes le 19 du mois Thargèlion,</i> LEX. <i>270, 1 Bekker</i> ; PHOT. <i>p. 127, 25</i>.<p><b>Étym</b>. καλλύνω.`

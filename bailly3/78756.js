@@ -1,0 +1,1 @@
+lar[78756]=`<b>ου</b> <font color="purple">[κῑ]</font> <i>adj. m</i>. entouré de colonnes, <i>en parl. de Bacchus à Thèbes,</i> ORPH. <i>H. 46, 1</i>.<p><b>Étym</b>. περικίων.`

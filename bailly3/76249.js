@@ -1,0 +1,1 @@
+lar[76249]=`<b>παρα·στέλλω :<br>      1</b> placer à côté, HLD. <i>10, 28</i>.<br><b>      2</b> arrêter, contenir, HPC. <i>1157c</i>.`

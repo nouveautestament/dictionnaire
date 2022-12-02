@@ -1,0 +1,1 @@
+lar[23669]=`<b>δεκα·μηνιαῖος, α, ον</b> <font color="purple">[ᾰ]</font> qui dure dix mois, de dix mois, PLUT. <i>Num. 12</i>.<p><i>cf</i>. δεκάμηνος.`

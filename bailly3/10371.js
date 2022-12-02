@@ -1,0 +1,1 @@
+lar[10371]=`<b>ἀντίρροος-ους, οος-ους, οον-ουν</b>, qui coule en sens contraire, STR. <i>492</i>.<p><b>Étym</b>. ἀντιρρέω.`

@@ -1,0 +1,1 @@
+lar[64103]=`<b>μελίτειος οἶνος (ὁ)</b> <font color="purple">[ῐ]</font> vin miellé, PLUT. <i>M. 672b</i>.`

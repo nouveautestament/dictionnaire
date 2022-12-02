@@ -1,0 +1,1 @@
+lar[56873]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de crépir à la chaux, chaux, GEOP. <i>2, 27, 5</i>.<p><b>Étym</b>. κονιάω.`

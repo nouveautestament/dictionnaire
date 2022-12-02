@@ -1,0 +1,1 @@
+lar[88940]=`<b>ῆρος (ὁ)</b> défenseur, protecteur, SIB. <i>3, 561</i>.<p><b>Étym</b>. ῥύομαι.`

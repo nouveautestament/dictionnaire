@@ -1,0 +1,1 @@
+lar[77696]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui noue <i>ou</i> dénoue les amarres, <i>ép. de Rhéa,</i> ORPH. <i>Arg. 626</i>.<p><b>Étym</b>. πεῖσμα.`

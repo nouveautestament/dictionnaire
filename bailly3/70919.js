@@ -1,0 +1,1 @@
+lar[70919]=`<i>adv</i>., heureusement, dans le bonheur et la richesse, SOPH. <i>O.C. 1720</i>.<p><b>Étym</b>. ὄλβιος.`

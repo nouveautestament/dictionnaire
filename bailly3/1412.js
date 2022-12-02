@@ -1,0 +1,1 @@
+lar[1412]=`<b>εως (ἡ)</b> <font color="purple">[δῐ]</font> <i>c</i>. ἀδικία STOB. <i>Ecl. 2, 100</i>.<p><b>Étym</b>. *ἀδικεύω.`

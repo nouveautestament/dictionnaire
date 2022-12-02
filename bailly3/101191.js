@@ -1,0 +1,1 @@
+lar[101191]=`<i>adv.</i> :<br><b>      1</b> en aveugle, aveuglément, ANTIPAT. (STOB. <i>Fl. 67, 25</i>) ; PHIL. <i>2, 329</i> ; τ. ἔχειν πρός τι, PLAT. <i>Gorg. 479b</i>, être aveugle en face de qqe ch., ne pas reconnaître qqe ch.<br><b>      2</b> obscurément, STR. <i>442</i>.<p><b>Étym</b>. τυφλός.`

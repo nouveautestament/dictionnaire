@@ -1,0 +1,1 @@
+lar[4595]=`<b>ἁλί·τρυτος, ος, ον</b> <font color="purple">[ᾰῡ]</font> maltraité par la mer, THCR. <i>Idyl. 1, 45</i> ; ANTH. <i>7, 294</i>.<p><b>Étym</b>. ἅ. τρύω.`

@@ -1,0 +1,1 @@
+lar[2463]=`<b>ικος (ἡ)</b> cloque de brûlure, pustule, HPC. <i>427, 4 au pl</i>.<p><b>Étym</b>. αἴθω.`

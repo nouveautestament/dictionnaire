@@ -1,0 +1,1 @@
+lar[41519]=`<b>Εὔ·αγρος, ου (ὁ)</b> Bon-chasseur (de dîners) <i>n. de parasite,</i> ALCIPHR. <i>3, 3</i>.<p><b>Étym</b>. <i>cf</i>. εὔαγρος.`

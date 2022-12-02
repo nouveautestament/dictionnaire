@@ -1,0 +1,1 @@
+lar[101821]=`<b>ὑμνο·δότειρα, ας (ἡ)</b> qui donne des hymnes, ORPH. <i>H. 2, 7 dout</i>.`

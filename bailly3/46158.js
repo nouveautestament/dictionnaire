@@ -1,0 +1,1 @@
+lar[46158]=`<b>*θαλασσο·κοπέω</b>, <i>att</i>. <b>θαλαττο·κοπέω-ῶ</b> <font color="purple">[θᾰ]</font> battre la mer, <i>càd</i>. faire <i>ou</i> dire des choses inutiles (<i>cf. franç</i>. donner des coups d’épée dans l’eau) AR. <i>Eq. 830</i>.<p><b>Étym</b>. θ. -κοπος <i>de</i> κόπτω.`

@@ -1,0 +1,1 @@
+lar[72274]=`<b>ὀπισθό·γραφος, ος, ον</b> <font color="purple">[ᾰ]</font> écrit sur le revers, LUC. <i>V. auct. 9</i>.<p><b>Étym</b>. ὄπισθε, γράφω.`

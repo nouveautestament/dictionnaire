@@ -1,0 +1,1 @@
+lar[32511]=`<b>ατος (τὸ)</b> lame métallique, PAUS. <i>10, 16, 1</i> ; STR. <i>240</i> ; SPT. <i>Hab. 2, 19</i> ; DIOSC. <i>5, 96</i>.<p><b>Étym</b>. ἐλάω.`

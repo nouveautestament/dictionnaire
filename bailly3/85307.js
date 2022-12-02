@@ -1,0 +1,1 @@
+lar[85307]=`<b>προσ·ασχολέομαι-οῦμαι</b>, être occupé à, s’occuper à, <i>dat</i>. SIMPL. <i>Epict. p. 41, 29</i>.`

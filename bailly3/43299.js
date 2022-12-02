@@ -1,0 +1,1 @@
+lar[43299]=`<b>εὐρυ·μενής, ής, ές</b> <font color="purple">[ῠ]</font> vaste et puissant, ORPH. <i>Arg. 985, 1050</i>.<p><b>Étym</b>. εὐ. μένος.`

@@ -1,0 +1,1 @@
+lar[31945]=`<b>ἐκ·πρίω</b> <font color="purple">[ῑ]</font><br><b>      1</b> ôter en sciant, scier, THC. <i>7, 25</i> ; PLUT. <i>M. 345a.</i><br><b>      2</b> trépaner, HPC. <i>V.C. 912</i>.`

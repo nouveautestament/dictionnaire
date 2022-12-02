@@ -1,0 +1,1 @@
+lar[66992]=`<b>όεσσα, όεν</b> <font color="purple">[ῠᾰ, <i>par nécess. prosod</i>. ῡᾰ]</font> <i>c</i>. μυδαλέος, ANTH. <i>12, 226</i>.`

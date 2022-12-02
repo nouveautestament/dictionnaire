@@ -1,0 +1,1 @@
+lar[70423]=`<b>οἰκοφθορέω-ῶ</b> <font color="darkgreen">(<i>f</i>. ήσω, <i>ao</i>. οἰκοφθόρησα ; <i>pass. ao</i>. οἰκοφθορήθην, <i>pf</i>. οἰκοφθόρημαι)</font> ruiner une maison, PLAT. <i>Leg. 929d ; d’où au pass</i>. être ruiné, HDT. <i>5, 29 ; 8, 142, etc</i>.<p><b>Étym</b>. οἰκοφθόρος.`

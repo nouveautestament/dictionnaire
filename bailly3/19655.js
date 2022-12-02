@@ -1,0 +1,1 @@
+lar[19655]=`<b>(τὸ)</b> <i>indécl</i>. bêta, <i>2<sup>e</sup> lettre de l’alphabet grec,</i> ANTH. <i>11, 437 ; etc</i>.<p><b>Étym</b>. <i>Cf</i>. β, β.`

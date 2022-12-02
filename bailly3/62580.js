@@ -1,0 +1,1 @@
+lar[62580]=`<b>μακρο·φωνέω-ῶ</b>, parler à haute voix, <i>propr</i>. d’une voix qui porte loin, HPC. <i>253, 46</i>.<p><b>Étym</b>. μ. φωνή.`

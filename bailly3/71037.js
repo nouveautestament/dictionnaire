@@ -1,0 +1,1 @@
+lar[71037]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> travail insuffisant, paresse, POL. <i>16, 28, 3</i>.<p><b>Étym</b>. ὀλιγόπονος.`

@@ -1,0 +1,1 @@
+lar[76305]=`<b>ατος (τὸ)</b> <font color="purple">[τᾰ]</font> tente, AQU. <i>et</i> SYMM. <i>Ex. 27, 16 ; 36, 35 ; Num. 4, 26, 65</i>.<p><b>Étym</b>. παρατανύω.`

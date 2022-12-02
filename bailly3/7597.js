@@ -1,0 +1,1 @@
+lar[7597]=`<b>ἀν·άρχων, οντος (ὁ)</b> qui ne commande pas, ARR. <i>Epict. 4, 6, 3</i>.<p><b>Étym</b>. ἀν-, ἄρχω.`

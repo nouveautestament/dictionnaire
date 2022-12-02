@@ -1,0 +1,1 @@
+lar[38519]=`<b>ἐπι·νέω</b> <font color="darkgreen">(<i>f</i>. -νήσω, <i>pf. pass</i>. ἐπινένημαι <i>ou</i> -ησμαι)</font> encombrer de, charger de, <i>gén</i>. HDT. <i>4, 62</i> ; AR. <i>Eccl. 838</i>.`

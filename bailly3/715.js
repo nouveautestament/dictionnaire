@@ -1,0 +1,1 @@
+lar[715]=`<b>ἀγλαό·τευκτος, ος, ον</b>, aux brillants édifices, SIB. <i>14, 125</i>.<p><b>Étym</b>. ἀ. τεύχω.`

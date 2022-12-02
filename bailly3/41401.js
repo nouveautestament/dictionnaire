@@ -1,0 +1,1 @@
+lar[41401]=`<b>ας (ἡ)</b> différence de couleur, XÉNOCR. <i>Al. 57</i> ; GAL. <i>14, 325</i>.<p><b>Étym</b>. ἑτερόχροος.`

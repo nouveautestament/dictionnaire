@@ -1,0 +1,1 @@
+lar[24374]=`<b>Δηρι·μάχεια, ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> Dèrimakheia, <i>Amazone,</i> Q. SM. <i>1, 45 et 260</i>.<p><b>Étym</b>. δῆρις, μάχομαι.`

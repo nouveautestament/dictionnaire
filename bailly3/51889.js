@@ -1,0 +1,1 @@
+lar[51889]=`<b>καρπο·ποιός, ός, όν</b>, qui fait naître les fruits, <i>ép. de Dèmèter,</i> EUR. <i>Rhes. 964</i>.<p><b>Étym</b>. κ. ποιέω.`

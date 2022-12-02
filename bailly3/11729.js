@@ -1,0 +1,1 @@
+lar[11729]=`<b>εως (ἡ)</b> <font color="purple">[ρᾱ]</font><br><b>      1</b> expulsion des sucs <i>ou</i> éléments humides, TH. <i>C.P. 2, 9, 8</i>.<br><b>      2</b> vomissement, PLUT. <i>M. 134e</i>.<p><b>Étym</b>. ἀπεράω.`

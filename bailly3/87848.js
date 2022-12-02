@@ -1,0 +1,1 @@
+lar[87848]=`<b>πυρι·βήτης, ου</b> <font color="purple">[ῠῐ]</font> <i>adj. m</i>. qui va sur le feu, ARAT. <i>983</i>.<p><b>Étym</b>. πῦρ, βαίνω.`

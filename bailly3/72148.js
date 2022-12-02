@@ -1,0 +1,1 @@
+lar[72148]=`<b>ὀξυ·πόρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> avec une ouverture terminée en pointe, OPP. <i>H. 2, 406</i>.<br><b>      2</b> qui va vite, agit vivement <i>en parl. de médecines,</i> DIOSC. <i>3, 58</i>.<p><b>Étym</b>. ὀ. πόρος.`

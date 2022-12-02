@@ -1,0 +1,1 @@
+lar[76381]=`<b>εως (ἡ) :<br>      1</b> accroissement par apposition, augmentation, DIOSC. <i>5, 159</i> ; CLÉM. <i>457 ; au plur</i>. SEXT. <i>M. 1, 126</i>.<br><b>      2</b> <i>t. de rhét</i>. amplification, QUINT. <i>3, 2, 106</i>.<p><b>Étym</b>. παραυξάνω.`

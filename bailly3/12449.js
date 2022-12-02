@@ -1,0 +1,1 @@
+lar[12449]=`<i>adv</i>., sans travail, sans art, DH. <i>Dem. 39</i>.`

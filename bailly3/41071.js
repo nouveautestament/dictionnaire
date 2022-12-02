@@ -1,0 +1,1 @@
+lar[41071]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτ]</font> la demeure des Hespérides, <i>filles de la Nuit,</i> DS. <i>4, 27</i>.<p><b>Étym</b>. Ἑσπερίς.`

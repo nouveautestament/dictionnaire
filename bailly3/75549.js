@@ -1,0 +1,1 @@
+lar[75549]=`<b>παρα·δράω-ῶ</b> (<i>3 pl. prés. sbj. épq</i>. -δρώωσι) être serviteur, servir, OD. <i>15, 324</i>.`

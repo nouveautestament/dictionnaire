@@ -1,0 +1,1 @@
+lar[82418]=`<b>πολυ·σύνδεσμος, ος, ον</b>, qui emploie beaucoup de conjonctions, SCH.-THC. <i>2, 41</i>.`

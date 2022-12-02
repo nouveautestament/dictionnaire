@@ -1,0 +1,1 @@
+lar[43862]=`vendre à bas prix, avilir, AQU. <i>Ps. 11, 19</i>.<p><b>Étym</b>. εὔωνος.`

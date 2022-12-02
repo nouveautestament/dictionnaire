@@ -1,0 +1,1 @@
+lar[28827]=`<b>ή, όν</b>, qui respire avec peine, DIOSC. <i>4, 136</i> ; GAL. <i>2, 262f ;</i> HIPPIATR. <i>96, 23</i>.<p><b>Étym</b>. δύσπνοος.`

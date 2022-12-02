@@ -1,0 +1,1 @@
+lar[46003]=`<b>(τὸ)</b> <i>indécl</i>. êta, <i>7<sup>e</sup> lettre de l’alphabet grec,</i> PLAT. <i>Crat. 426c ;</i> CALLIAS (ATH. <i>453d</i>), <i>etc</i>.<p><b>Étym</b>. <i>v</i>. Η.`

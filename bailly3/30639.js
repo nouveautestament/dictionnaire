@@ -1,0 +1,1 @@
+lar[30639]=`<b>      1</b> parler ironiquement, se moquer, PLAT. <i>Ap. 37e.</i><br><b>      2</b> faire l’ignorant, ARSTT. <i>Rhet. 2, 2, 24 ; joint à</i> παίζειν, PLAT. <i>Conv. 216e ; p. ext</i>. dissimuler, feindre, DÉM. <i>1394, 13</i>.<p>➳ <i>Seul. prés. (inf. et part.) ll. cc., et fut. opt</i>. εἰρωνεύσοιο, PLAT. <i>Rsp. 337a</i>.<p><b>Étym</b>. εἴρων.`

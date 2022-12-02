@@ -1,0 +1,1 @@
+lar[48407]=`<b>ἰδιο·θρονέω-ῶ</b> <font color="purple">[ῐδ]</font> siéger sur un trône à part, PTOL. <i>Tetr. p. 51</i>.<p><b>Étym</b>. ἴδ. θρόνος.`

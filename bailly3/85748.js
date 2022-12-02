@@ -1,0 +1,1 @@
+lar[85748]=`<b>προσ·επιφέρω</b> <font color="darkgreen">(<i>f</i>. -εποίσω, <i>ao</i>. -επήνεγκα, <i>etc</i>.) :</font><br><b>      1</b> produire en outre, XÉN. <i>Œc. 5, 2</i>.<br><b>      2</b> apporter en outre, ajouter, JOS. <i>A.J. 3, 9, 1</i> ; CLÉM. <i>760</i>.`

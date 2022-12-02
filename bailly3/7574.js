@@ -1,0 +1,1 @@
+lar[7574]=`<b>ης (ἡ)</b> tendance à monter, ascension, HPC. <i>47, 10</i>.`

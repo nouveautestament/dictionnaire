@@ -1,0 +1,1 @@
+lar[36182]=`<b>ἐξ·ορίνω</b> <font color="purple">[ῑ]</font> (<i>part. ao</i>.) exciter, ESCHL. <i>Ag. 1631</i>.`

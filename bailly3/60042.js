@@ -1,0 +1,1 @@
+lar[60042]=`<b>οῦ (ὁ)</b> coup de talon, ruade, ANTIM. <i>54 Kinkel</i>.<p><b>Étym</b>. <i>cf</i>. λάξ.`

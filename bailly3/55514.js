@@ -1,0 +1,1 @@
+lar[55514]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui met en mouvement, qui lance, <i>fig</i>. AR. <i>Nub. 1397</i>.<br><b>      2</b> qui soulève, agitateur, révolutionnaire, POL. <i>28, 15, 12</i>.<p><b>Étym</b>. κινέω.`

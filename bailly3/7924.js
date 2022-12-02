@@ -1,0 +1,1 @@
+lar[7924]=`<b>ἀνα·χλιαίνω</b> <font color="darkgreen">(<i>ao</i>. ἀνεχλίηνα ; <i>ao. pass</i>. ἀνεχλιάνθην)</font> faire tiédir, ARSTT. <i>Probl. 22, 7</i>.`

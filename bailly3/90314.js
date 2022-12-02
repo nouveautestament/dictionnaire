@@ -1,0 +1,1 @@
+lar[90314]=`<b>σιλφιόω-ῶ</b>, préparer avec du silphium, PHILOX. (ATH. <i>147d</i>).<p><b>Étym</b>. σίλφιον.`

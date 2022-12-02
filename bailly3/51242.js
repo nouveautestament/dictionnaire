@@ -1,0 +1,1 @@
+lar[51242]=`<b>καλλί·τοξος, ος, ον</b> <font color="purple">[ῐ]</font> au bel arc, EUR. <i>Ph. 1162</i>.<p><b>Étym</b>. κ. τόξον.`

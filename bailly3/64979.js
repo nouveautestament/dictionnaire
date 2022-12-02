@@ -1,0 +1,1 @@
+lar[64979]=`<b>μετα·στρατεύομαι</b> <font color="purple">[ᾰτ]</font> transmettre le commandement d’une armée : εἴς τινα, APP. <i>Mithr. 51,</i> à qqn.`

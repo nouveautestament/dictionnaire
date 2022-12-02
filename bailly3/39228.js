@@ -1,0 +1,1 @@
+lar[39228]=`<b>ἐπι·συνάρχομαι</b> commencer avec, entreprendre avec, <i>dat</i>. HIPPODAM. (STOB. <i>Fl. 103, 26</i>).`

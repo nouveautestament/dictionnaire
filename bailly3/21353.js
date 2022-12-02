@@ -1,0 +1,1 @@
+lar[21353]=`<b>ου (ἡ)</b> Ganos, <i>v. de Thrace, sur la Propontide,</i> XÉN. <i>An. 7, 5, 8</i>.<p><b>Étym</b>. <i>Cf</i>. Γανίς.`

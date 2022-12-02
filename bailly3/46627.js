@@ -1,0 +1,1 @@
+lar[46627]=`<b>Θεο·δέκτης, ου (ὁ)</b> Théodektès :<br><b>      1</b> <i>disciple d’Isocrate, rhéteur et poète tragique,</i> ARSTT. <i>Pol. 1, 2, 19 ; Rhet. 2, 23</i> ; PLUT. <i>Alex. 17, etc.</i><br><b>      2</b> <i>autres,</i> ANTH. <i>7, 167, etc</i>.<p><b>Étym</b>. θ. δέχομαι.`

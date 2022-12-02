@@ -1,0 +1,1 @@
+lar[45151]=`<b>ων (τὰ)</b> <font color="purple">[ᾰκᾰ]</font> fils qu’on tire de la quenouille, OD. <i>6, 53, etc.</i> ; A. ÉTOL. (PARTH. <i>14, 4).</i><p><b>Étym</b>. ἠλακάτη.`

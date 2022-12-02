@@ -1,0 +1,1 @@
+lar[83787]=`<b>προ·βιάζομαι</b>, violenter <i>ou</i> attaquer le premier, être agresseur, ESCHN. <i>64, 8</i>.`

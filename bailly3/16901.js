@@ -1,0 +1,1 @@
+lar[16901]=`<b>ης (ἡ)</b> <font color="purple">[ᾰτ]</font> Atossa, <i>n. de f. persan, part.</i> :<br><b>      1</b> <i>femme de Darius, mère de Xerxès,</i> ESCHL. HDT.<br><b>      2</b> <i>femme d’Artaxerxès,</i> PLUT.`

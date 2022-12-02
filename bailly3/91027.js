@@ -1,0 +1,1 @@
+lar[91027]=`<b>σκληρό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font><br><b>      1</b> aux cheveux rudes, ARSTT. <i>Physiogn. 2, 7</i>.<br><b>      2</b> au poil rude, ARSTT. <i>G.A. 5, 3, 19</i>.<p><b>Étym</b>. σκλ. θρίξ.`

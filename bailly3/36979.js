@@ -1,0 +1,1 @@
+lar[36979]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> passager de surplus, EUR. <i>Hel. 1550</i>.<p><b>Étym</b>. ἐπεισβαίνω.`

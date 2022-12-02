@@ -1,0 +1,1 @@
+lar[48919]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[ῑλ]</font> Ilionée, <i>h</i>. IL. <i>14, 489</i>.<p><b>Étym</b>. Ἴλιον.`

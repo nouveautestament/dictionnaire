@@ -1,0 +1,1 @@
+lar[78833]=`<b>περι·κτάομαι-ῶμαι</b> <font color="darkgreen">(<i>f</i>. -κτήσομαι, <i>ao</i>. περιεκτησάμην ; <i>ao. pass</i>. περιεκτήθην)</font> acquérir autour de soi, arrondir son bien <i>ou simpl</i>. acquérir, JOS. <i>A.J. 13, 16, 6</i> ; CLÉM. <i>578</i>.`

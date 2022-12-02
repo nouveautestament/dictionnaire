@@ -1,0 +1,1 @@
+lar[48220]=`<b>οῦ (ὁ)</b> poète ïambique, <i>càd</i>. satirique, ATH. <i>181c</i>.<p><b>Étym</b>. ἰαμβίζω.`

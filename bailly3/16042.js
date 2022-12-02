@@ -1,0 +1,1 @@
+lar[16042]=`<b>ου (τὸ)</b> <font color="purple">[πῐ]</font> <i>dim. de</i> ἀσπιδίσκη DIOSC. <i>3, 105</i>.`

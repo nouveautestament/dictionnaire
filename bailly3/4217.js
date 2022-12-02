@@ -1,0 +1,1 @@
+lar[4217]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> Alektôr, <i>h</i>. OD. <i>4, 10, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀλέκτωρ¹.`

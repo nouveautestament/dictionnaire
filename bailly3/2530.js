@@ -1,0 +1,1 @@
+lar[2530]=`<b>άδος (ἡ)</b> flot de sang, effusion de sang, SOPH. <i>Ph. 697</i>.<p><b>Étym</b>. αἷμα.`

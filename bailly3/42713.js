@@ -1,0 +1,1 @@
+lar[42713]=`<b>εὐμοιρέω-ῶ</b>, avoir part à, rencontrer, obtenir, <i>gén</i>. PHALAR. <i>Ep. 33 ; acc</i>. SYN. <i>68a</i>.<p><b>Étym</b>. εὔμοιρος.`

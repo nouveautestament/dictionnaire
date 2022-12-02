@@ -1,0 +1,1 @@
+lar[14566]=`<b>ου</b>, <i>acc</i>. <b>ην (ὁ)</b> Ariarathès, <i>n. de plusieurs rois de Cappadoce,</i> PLUT. <i>Syll. 11, etc</i>.<p>➳ <i>Acc</i>. -η, DS. <i>31, 39</i>.`

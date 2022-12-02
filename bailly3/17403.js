@@ -1,0 +1,1 @@
+lar[17403]=`<b>Αὐτό·βουλος, ου (ὁ)</b> Autoboulos (Autobule), <i>h</i>. PLUT.<p><b>Étym</b>. <i>v</i>. αὐτόβουλος.`

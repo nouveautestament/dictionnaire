@@ -1,0 +1,1 @@
+lar[15469]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> sorte d’aiguière, AR. <i>Eq. 1092</i> ; TH. <i>Char. 9</i>.<p><b>Étym</b>. ἀρύω ¹.`

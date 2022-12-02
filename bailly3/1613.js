@@ -1,0 +1,1 @@
+lar[1613]=`<i>adv</i>., sans se laisser corrompre par des présents, DÉM. <i>310, 22, etc</i>.`

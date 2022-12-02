@@ -1,0 +1,1 @@
+lar[77819]=`<b>(ὁ)</b> Pellès, <i>Lacédémonien,</i> XÉN. <i>Hell. 4, 3, 23</i>.`

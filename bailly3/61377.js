@@ -1,0 +1,1 @@
+lar[61377]=`<b>λιπο·ψυχία</b>, <i>mieux que</i> <b>λειπο·ψυχία, ας (ἡ)</b> <font color="purple">[ῐῡ]</font> évanouissement, PLUT. <i>M. 695a ;</i> ARR. <i>An. 6, 10, 2</i>.<p>➳ <i>Ion</i>. λιποψυχίη, HDT. <i>1, 86</i>.<p><b>Étym</b>. λ. ψυχή.`

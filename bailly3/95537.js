@@ -1,0 +1,1 @@
+lar[95537]=`<b>συν·εξικμάζω</b>, faire sortir les humeurs, ARSTT. <i>Probl. 5, 27</i> ; TH. <i>Sud. 13</i>.`

@@ -1,0 +1,1 @@
+lar[104147]=`<b>ὑπο·χαροπός, ός, όν</b> <font color="purple">[ᾰ]</font> légèrement azuré, XÉN. <i>Cyn. 5, 23</i> ; DICÉARQ. (CLÉM. <i>26</i>) ; PTOL. <i>Tetr. p. 144, 7</i>.`

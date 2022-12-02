@@ -1,0 +1,1 @@
+lar[70393]=`<b>οἰκο·δόμος, ου (ὁ)</b> architecte, HDT. <i>2, 121</i> ; XÉN. <i>Hell. 7, 7, 20, etc.</i> ; PLAT. <i>Rsp. 369d, etc.</i> ; PLUT. <i>M. 618a</i>.<p><b>Étym</b>. οἰκ. δέμω.`

@@ -1,0 +1,1 @@
+lar[46784]=`<b>θεό·σεπτος, ος, ον :<br>      1</b> <i>pass</i>. qu’il faut honorer comme un dieu, AR. <i>Nub. 292</i>.<br><b>      2</b> qui honore la divinité, MAN. <i>4, 427</i>.<p><b>Étym</b>. θ. σέβω.`

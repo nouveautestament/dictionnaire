@@ -1,0 +1,1 @@
+lar[95282]=`<b>εως (ἡ)</b> action de se ramasser sur soi-même, EL. <i>N.A. 6, 64</i>.<p><b>Étym</b>. συνειλέω.`

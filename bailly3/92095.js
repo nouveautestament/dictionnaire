@@ -1,0 +1,1 @@
+lar[92095]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> σταθμίον, GAL. <i>12, 956, 5</i>.`

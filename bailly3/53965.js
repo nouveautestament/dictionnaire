@@ -1,0 +1,1 @@
+lar[53965]=`<b>κατ·ευδαιμονίζω</b>, estimer bien heureux, JOS. <i>A.J. 1, 33, 8</i>.`

@@ -1,0 +1,1 @@
+lar[3398]=`<b>ίδος (ἡ)</b> <i>sorte de bandage,</i> GAL. <i>12, 495, 496</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂eḱ-, pointu.`

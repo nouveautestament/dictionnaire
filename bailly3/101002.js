@@ -1,0 +1,1 @@
+lar[101002]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> calleux, <i>d’où</i> garni de clous, <i>en parl. de massues,</i> HDT. <i>7, 69</i>.<p><b>Étym</b>. <i>vb. de</i> τυλόω.`

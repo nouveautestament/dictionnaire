@@ -1,0 +1,1 @@
+lar[65464]=`<b>Μηνό·φιλος, ου (ὁ)</b> Mènophilos, <i>h</i>. LYS. <i>8, 15 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. μήν, φίλος.`

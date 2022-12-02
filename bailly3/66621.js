@@ -1,0 +1,1 @@
+lar[66621]=`<b>μόν·ορχις, εως</b>, <i>adj. m</i>. qui n’a qu’un testicule, PLUT. <i>M. 917d ;</i> SPT. <i>Lev. 21, 20</i>.<p><b>Étym</b>. μ. ὄρχις.`

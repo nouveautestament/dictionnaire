@@ -1,0 +1,1 @@
+lar[107405]=`<b>ᾶς (ἡ) :<br>      1</b> vol, larcin, BION <i>9, 6</i> ; NIC. <i>Al. 273</i> ; ANTH. <i>9, 516, 3</i>.<br><b>      2</b> recherche, <i>d’où</i> découverte d’un voleur <i>ou</i> d’un objet volé, DL. <i>1, 96</i>.<p>➳ <i>Ion</i>. φωρή, HH. <i>Merc. 136 corr</i>.<p><b>Étym</b>. φώρ.`

@@ -1,0 +1,1 @@
+lar[68884]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> campement de tribus <i>ou</i> de pasteurs nomades, M. RUBR. <i>20</i>.<p><b>Étym</b>. νομάς.`

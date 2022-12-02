@@ -1,0 +1,1 @@
+lar[99395]=`<b>ου (ὁ)</b> <font color="purple">[ῑῠῐ]</font>: αὐλός, AMÉRIAS <i>et</i> ARTÉMID. (ATH. <i>176c, 182c</i>) flûte de pâtre, chalumeau.<p><b>Étym</b>. τίτυρος.`

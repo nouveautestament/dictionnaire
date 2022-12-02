@@ -1,0 +1,1 @@
+lar[1329]=`<b>ἀ·διάλεκτος, ος, ον</b>, qui ne converse avec personne, solitaire, PHRYN. COM. <i>2-1, 587, 1 Mein</i>.<p><b>Étym</b>. ἀ, διαλέγω.`

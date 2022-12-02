@@ -1,0 +1,1 @@
+lar[94223]=`<b>ᾶς (ἡ) :<br>      1</b> assiduité auprès de qqn pour lui faire cortège, POL. <i>5, 26, 15 ; p. suite,</i> liaison, relations sexuelles, DS. <i>3, 64 ; d’où</i> débauche, PLUT. <i>M. 124b.</i><br><b>      2</b> complaisance, condescendance, POL. <i>1, 72, 2, etc.</i> ; ARR. <i>Epict. 3, 14, 7</i>.<p><b>Étym</b>. συμπεριφέρω.`

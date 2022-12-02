@@ -1,0 +1,1 @@
+lar[18938]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰᾰγ]</font> action de manger des glands, PHIL. <i>2, 409</i>.<p><b>Étym</b>. βαλανηφάγος.`

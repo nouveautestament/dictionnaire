@@ -1,0 +1,1 @@
+lar[73987]=`<b>ῆρος (ὁ)</b> <i>l. incert. c</i>. ἑψητήρ, THÉODORID. (ATH. <i>229b</i>).`

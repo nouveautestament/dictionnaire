@@ -1,0 +1,1 @@
+lar[9719]=`<b>ἀντ·εφευρίσκω</b>, inventer pour opposer à, JOS. <i>A.J. 10, 8, 1</i> (<i>var</i>. ἀντεξ-).`

@@ -1,0 +1,1 @@
+lar[19993]=`<b>α, ον</b>, coupé par morceaux, <i>en parl. de pain,</i> PHILÉM. GR. (ATH. <i>114e conj</i>.).<p><b>Étym</b>. βλωμός.`

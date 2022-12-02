@@ -1,0 +1,1 @@
+lar[13504]=`<b>ἀπο·σφενδονάω</b> <i>ou</i> <b>ἀπο·σφενδονέω-ῶ</b>, lancer avec la fronde <i>ou</i> comme avec la fronde, DS. <i>2, 50</i> ; LUC. <i>J. tr. 33</i>.`

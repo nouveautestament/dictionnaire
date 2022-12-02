@@ -1,0 +1,1 @@
+lar[90626]=`<b>ου (τὸ)</b> petit vase à boire, <i>chez les Étoliens,</i> PHILÉT. (ATH. <i>498a</i>).`

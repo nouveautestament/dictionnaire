@@ -1,0 +1,1 @@
+lar[108570]=`<b>χλιδανό·σφυρος, ος, ον</b> <font color="purple">[ῐᾰῠ]</font> aux pieds délicats, ANACR. <i>44, 7</i>.<p><b>Étym</b>. χλιδανός, σφυρόν.`

@@ -1,0 +1,1 @@
+lar[42573]=`<b>εὐ·λάχανος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui produit de beaux légumes, ANTH. <i>7, 321</i>.<p><b>Étym</b>. εὖ, λάχανον.`

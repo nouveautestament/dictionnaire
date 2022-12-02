@@ -1,0 +1,1 @@
+lar[81893]=`<b>πολυ·εύσπλαγχνος, ος, ον</b>, très miséricordieux, CLÉM. <i>2, 645 Migne</i>.`

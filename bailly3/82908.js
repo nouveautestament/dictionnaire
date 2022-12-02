@@ -1,0 +1,1 @@
+lar[82908]=`<b>Ποσείδ·ιππος, ου (ὁ)</b> Poseidippos. :<br><b>      1</b> <i>poète de la moyenne comédie,</i> EL. <i>V.H. 1, 26, etc.</i><br><b>      2</b> <i>autres,</i> DÉM. <i>50, 50 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Ποσειδῶν, ἵππος.`

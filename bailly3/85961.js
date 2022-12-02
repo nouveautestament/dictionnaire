@@ -1,0 +1,1 @@
+lar[85961]=`<b>προσ·καταπήγνυμι</b>, enfoncer en outre, <i>avec</i> εἰς <i>et l’acc</i>. EL. <i>N.A. 8, 10</i>.`

@@ -1,0 +1,1 @@
+lar[100935]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Trôïlos :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>24, 237</i> ; ANTH. <i>12, 191, etc.</i><br><b>      2</b> <i>autre,</i> PLUT. <i>Sept. sap. conv. 19</i>.<br><b>   II</b> rocher de Locride, PLUT. <i>Sept. sap. conv. 19</i>.<p>➳ <i>Gén. épq</i>. -οιο, Q. SM. <i>4, 419</i>.`

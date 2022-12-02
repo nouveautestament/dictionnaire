@@ -1,0 +1,1 @@
+lar[16320]=`<b>ἀστρό·θετος, ος, ον</b>, qui concerne la position respective des astres, <i>d’où simpl</i>. astronomique, ANTH. <i>7, 683</i>.<p><b>Étym</b>. ἄ, τίθημι.`

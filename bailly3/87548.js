@@ -1,0 +1,1 @@
+lar[87548]=`<font color="purple">[ῠ]</font> <i>inf. ao.2 de</i> πυνθάνομαι.`

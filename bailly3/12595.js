@@ -1,0 +1,1 @@
+lar[12595]=`<b>ἀπό·κληρος, ος, ον :<br>      1</b> qui n’a point part à, <i>gén</i>. PD. <i>P. 5, 51</i>.<br><b>      2</b> déshérité, ARSTT. <i>Top. 2, 6, 5</i>.<p>➳ <i>Dor</i>. ἀπόκλαρος <font color="purple">[λᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. ἀπό, κλῆρος.`

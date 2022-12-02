@@ -1,0 +1,1 @@
+lar[66881]=`<b>ης (ἡ)</b> Mourgiskè, <i>forteresse de Thrace,</i> ESCHN. <i>65, 23</i>.`

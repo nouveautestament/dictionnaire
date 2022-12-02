@@ -1,0 +1,1 @@
+lar[29537]=`<b>εως (ἡ) :<br>      1</b> action de cerner, d’enfermer, THC. <i>5, 72</i>.<br><b>      2</b> principes d’un art, ARTÉM. <i>315 Reiff</i>.<p><b>Étym</b>. ἐγκαταλαμβάνω.`

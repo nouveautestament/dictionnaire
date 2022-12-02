@@ -1,0 +1,1 @@
+lar[6791]=`<b>εως (ἡ)</b> examen approfondi, DS. <i>13, 35</i> ; PLUT. <i>M. 19e, etc</i>.`

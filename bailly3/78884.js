@@ -1,0 +1,1 @@
+lar[78884]=`<b>ή, όν</b>, qui peut être embrassé par l’intelligence, intelligible, EMPÉD. <i>43 Mullach</i> ; PLAT. <i>Tim. 28a, etc.</i> ; PLUT. <i>Cam. 43, etc</i>.<p><b>Étym</b>. περιλαμβάνω.`

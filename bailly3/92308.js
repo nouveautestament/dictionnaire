@@ -1,0 +1,1 @@
+lar[92308]=`<i>adj. f. c</i>. στεῖρα², <i>en parl. d’animaux,</i> EUR. <i>Andr. 711 ; masc. en parl. d’eunuques,</i> MAN. <i>1, 125</i>.<p><b>Étym</b>. <i>cf</i>. στεῖρα².`

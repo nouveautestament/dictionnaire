@@ -1,0 +1,1 @@
+lar[74949]=`<b>      1</b> héberger <i>ou</i> traiter tout le monde, HDT. <i>4, 95</i> ; PLAT. <i>Leg. 918e.</i><br><b>      2</b> tenir une hôtellerie, TH. <i>Char. 6</i>.<br><b>      3</b> <i>au pass</i>. être garni d’hôtelleries, DH. <i>4, 53</i>.<p><b>Étym</b>. πάνδοκος.`

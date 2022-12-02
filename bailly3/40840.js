@@ -1,0 +1,1 @@
+lar[40840]=`<b>ης, ες</b> <font color="purple">[ῠῑᾰ]</font> qui ressemble à un érysipèle, HPC. <i>V.C. 9, 12</i> ; RUF. (ORIB. <i>2, 209 B.-Dar</i>.) ; GAL. <i>6, 417</i> ; DIOSC. <i>1, 15</i>.<p><b>Étym</b>. ἐρυσίπελας, -ωδης.`

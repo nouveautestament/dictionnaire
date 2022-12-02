@@ -1,0 +1,1 @@
+lar[54751]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> animal muni d’un aiguillon :<br><b>      1</b> aiguillat, <i>poisson,</i> ARSTT. (ATH. <i>294d</i>) ; OPP. <i>H. 1, 378</i>.<br><b>      2</b> sorte de guêpe, TH. <i>H.P. 2, 8, 2</i>.<p><b>Étym</b>. κέντρον.`

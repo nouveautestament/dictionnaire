@@ -1,0 +1,1 @@
+lar[9393]=`<b>ἀντ·αγαπάω-ῶ</b> <font color="purple">[ᾰγᾰ]</font> aimer en retour, CLÉM. <i>102 ; au pass</i>. PHIL. <i>2, 8</i> ; THÉM. <i>55d</i>.<p><b>Étym</b>. ἀντί, ἀγ.`

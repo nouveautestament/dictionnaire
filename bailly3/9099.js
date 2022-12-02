@@ -1,0 +1,1 @@
+lar[9099]=`<b>ἄν·ιππος, ος, ον :<br>      1</b> qui n’a pas de cheval, AR. <i>Nub. 125</i>.<br><b>      2</b> qui ne sert pas dans la cavalerie, HDT. <i>1, 215</i>.<br><b>      3</b> impropre à monter à cheval, PLUT. <i>M. 100a.</i><br><b>      4</b> impraticable aux chevaux, HDT. <i>108</i> ; DH. <i>2, 13</i>.<p><b>Étym</b>. ἀν-, ἵππος.`

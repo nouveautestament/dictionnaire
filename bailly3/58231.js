@@ -1,0 +1,1 @@
+lar[58231]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> bien, propriété, PD. <i>P. 1, 2 ; d’ord. au pl</i>. HÉS. <i>O. 313</i> ; PD. <i>O. 3, 75, etc.</i> ; ESCHL. <i>Sept. 730, etc.</i> ; SOPH. <i>fr. 230</i> ; EUR. <i>Ion 490 ; particul</i>. richesses en troupeaux, <i>d’où</i> troupeaux, bétail, <i>c</i>. κτῆνος, THCR. <i>Idyl. 25, 109</i>.<p><b>Étym</b>. κτάομαι.`

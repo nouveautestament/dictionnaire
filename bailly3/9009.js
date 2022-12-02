@@ -1,0 +1,1 @@
+lar[9009]=`<b>ἀνθ·υπερβάλλω</b>, surpasser à son tour, JOS. <i>A.J. 16, 7, 2</i>.<p><b>Étym</b>. ἀντί, ὑ.`

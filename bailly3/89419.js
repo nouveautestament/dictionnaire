@@ -1,0 +1,1 @@
+lar[89419]=`<b>      1</b> ouvrir la bouche pour montrer les dents, AR. <i>Pax 482 ; ou</i> pour brouter comme font les herbivores, HPC. <i>Art. 785</i>.<br><b>      2</b> <i>fig</i>. déchirer par des sarcasmes, PHIL. <i>2, 597</i> ; STOB. <i>Ecl. 2, 222</i>.<p><b>Étym</b>. σάρξ.`

@@ -1,0 +1,1 @@
+lar[26561]=`<b>δικορραφέω-ῶ</b> <font color="purple">[ῐᾰ]</font> multiplier les procès, <i>litt</i>. les coudre l’un à l’autre, AR. <i>Nub. 1483</i>.<p><b>Étym</b>. δίκη, ῥάπτω.`

@@ -1,0 +1,1 @@
+lar[68242]=`<b>νεό·σπειστος, ος, ον</b>, qu’on vient de verser pour une libation, NONN. <i>D. 19, 175</i>.<p><b>Étym</b>. ν. σπένδω.`

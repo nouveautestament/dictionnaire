@@ -1,0 +1,1 @@
+lar[92202]=`<b>εως (ἡ) :<br>      1</b> action d’enclore de palissades, THC. <i>7, 25</i>.<br><b>      2</b> crucifiement, NYSS.<p><b>Étym</b>. σταυρόω.`

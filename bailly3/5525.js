@@ -1,0 +1,1 @@
+lar[5525]=`<b>ας (ἡ) :<br>      1</b> manque de mesure, excès, PLAT. <i>Tim. 87d, Rsp. 486d, etc.</i> ; PLUT. <i>M. 6c, etc.</i><br><b>      2</b> défaut de convenance, inopportunité <i>ou</i> inaptitude, PLAT. <i>Leg. 925a, Clit. 407e.</i><br><b>      3</b> immensité, infinité, PLAT. <i>Ax. 367a</i>.<p><b>Étym</b>. ἄμετρος.`

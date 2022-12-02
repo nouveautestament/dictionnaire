@@ -1,0 +1,1 @@
+lar[58665]=`<b>κυματο·αγής, ής, ές</b> <font color="purple">[ῡᾰᾱ]</font> qui se brise comme les vagues, SOPH. <i>O.C. 1245</i>.<p><b>Étym</b>. κῦμα, ἄγνυμι.`

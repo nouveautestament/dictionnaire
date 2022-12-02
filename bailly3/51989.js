@@ -1,0 +1,1 @@
+lar[51989]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Karystos (<i>auj</i>. Kárystos) <i>v. de la côte sud de l’Eubée,</i> IL. <i>2, 539</i> ; HDT. <i>4, 33, etc</i>.`

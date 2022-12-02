@@ -1,0 +1,1 @@
+lar[49674]=`<b>ἰσ·όμαλος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> tout à fait semblable, XÉN. <i>Ages. 2, 9</i> (ἰσόμαχος <i>vulg</i>.).<p><b>Étym</b>. ἴ. ὁμαλός.`

@@ -1,0 +1,1 @@
+lar[96223]=`<b>συν·ορούω</b>, s’élancer impétueusement ensemble, A.RH. <i>2, 88</i>.`

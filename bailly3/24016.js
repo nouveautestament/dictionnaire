@@ -1,0 +1,1 @@
+lar[24016]=`<i>adv</i>., despotiquement, ISOCR. <i>62c, etc</i>. (<i>• Cp</i>. -ωτέρως, ARSTT. <i>Ath. 24, 2</i>).`

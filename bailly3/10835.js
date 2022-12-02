@@ -1,0 +1,1 @@
+lar[10835]=`<b>ἀνωμαλέω-ῶ</b> <font color="purple">[μᾰ]</font> être inégal, NYSS. <i>1, 315</i>.<p><b>Étym</b>. ἀνώμαλος.`

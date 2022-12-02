@@ -1,0 +1,1 @@
+lar[24377]=`<b>ιος (ἡ)</b> lutte, combat, <i>seul. à l’acc</i>. δῆριν, <i>dans</i> HOM. (IL. <i>17, 158</i> ; OD. <i>24, 515</i> ; BATR. <i>4, 198) et dans</i> HÉS. <i>O. 14 ; postér. au nom</i>. ESCHL. <i>Suppl. 412 ; et au gén</i>. δήριος, ESCHL. <i>Ag. 942 ; ou</i> δήρεως, SUID.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *der-, fendre ; <i>cf</i>. δέρω.`

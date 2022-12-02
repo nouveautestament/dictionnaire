@@ -1,0 +1,1 @@
+lar[102669]=`<b>ας (ἡ)</b> intelligence supérieure, CHRYS.<p><b>Étym</b>. ὑπέρνοος.`

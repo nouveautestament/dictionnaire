@@ -1,0 +1,1 @@
+lar[108611]=`être au vert, <i>en parl. de chevaux,</i> GAL. <i>Comm. Hipp. Epid. 6 17-1, 929</i>.<p><b>Étym</b>. χλωρός.`

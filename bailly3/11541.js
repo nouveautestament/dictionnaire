@@ -1,0 +1,1 @@
+lar[11541]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> menace, POL.<p><b>Étym</b>. ἀπειλέω.`

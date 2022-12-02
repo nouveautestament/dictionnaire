@@ -1,0 +1,1 @@
+lar[6302]=`<b>ἀμφι·περι·στείνομαι</b> (<i>seul. prés</i>.) être pressé tout autour, CALL. <i>Del. 179</i>.`

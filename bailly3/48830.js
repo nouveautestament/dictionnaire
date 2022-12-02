@@ -1,0 +1,1 @@
+lar[48830]=`<i>adv</i>., convenablement, suffisamment, M. ANT. <i>5, 12</i>.<p>➳ <i>Ion</i>. ἱκνευμένος, HDT. <i>6, 65</i> ; HPC. <i>653, 33</i>.`

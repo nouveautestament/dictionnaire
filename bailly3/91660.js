@@ -1,0 +1,1 @@
+lar[91660]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> sophistique, A. GELL. <i>18, 3</i>.<p><b>Étym</b>. σόφισμα.`

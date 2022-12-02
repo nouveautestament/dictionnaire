@@ -1,0 +1,1 @@
+lar[96531]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> joueur de flûte <i>ou</i> de chalumeau, LUC. <i>Syr. 43</i>.<p><b>Étym</b>. συρίζω.`

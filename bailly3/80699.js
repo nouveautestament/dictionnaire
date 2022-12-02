@@ -1,0 +1,1 @@
+lar[80699]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτᾰ]</font> <i>c</i>. πλαταγή THCR. <i>Idyl. 3, 29</i> ; ANTH. <i>5, 296</i>.`

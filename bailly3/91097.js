@@ -1,0 +1,1 @@
+lar[91097]=`piquer avec un éclat de bois, DIOSC. <i>Noth. p. 477f</i>.<p><b>Étym</b>. σκόλοψ.`

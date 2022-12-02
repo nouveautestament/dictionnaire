@@ -1,0 +1,1 @@
+lar[426]=`<b>ου (ὁ)</b> messager, HH. <i>Merc. 296,</i> CALL. <i>Jov. 68</i>.<p><b>Étym</b>. ἀγγελία.`

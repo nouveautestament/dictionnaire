@@ -1,0 +1,1 @@
+lar[95724]=`<b>συν·εράω-ῶ</b>, verser ensemble, mêler, rassembler, ARSTT. <i>G.A. 3, 1, 38</i> ; ATH. <i>362e ; fig</i>. ISOCR. <i>110b</i>.`

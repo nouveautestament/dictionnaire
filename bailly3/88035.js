@@ -1,0 +1,1 @@
+lar[88035]=`<b>πυρσ·ωπός, ός, όν :<br>      1</b> au regard enflammé, OPP. <i>C. 1, 183</i>.<br><b>      2</b> d’aspect, <i>càd</i>. de couleur rouge, M. SID. <i>49</i>.<p><b>Étym</b>. πυρσός², ὤψ.`

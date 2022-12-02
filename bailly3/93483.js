@@ -1,0 +1,1 @@
+lar[93483]=`<b>συγ·κοιμάομαι-ῶμαι</b> <font color="darkgreen">(<i>f</i>. -ήσομαι, <i>pf</i>. συγκεκοίμημαι)</font> coucher avec, <i>dat. en parl. de l’homme,</i> HDT. <i>3, 69</i> ; LYS. (ATH. <i>535a</i>) ; <i>en parl. de la femme,</i> ESCHL. <i>Ag. 1258</i> ; SOPH. <i>El. 274</i> ; EUR. <i>Ph. 54, etc. ; fig</i>. POL. <i>Exc. Vat. p. 401</i>.`

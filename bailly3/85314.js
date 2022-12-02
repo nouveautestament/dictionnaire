@@ -1,0 +1,1 @@
+lar[85314]=`<b>προσ·αύλειος, ος, ον</b>, qui concerne une ferme <i>ou</i> la vie des champs, EUR. <i>Rhes. 273</i>.<p><b>Étym</b>. π. αὐλή.`

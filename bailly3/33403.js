@@ -1,0 +1,1 @@
+lar[33403]=`<b>ος, ον</b>, enveloppé d’ornements, orné, <i>t. de rhét</i>. DRAC. <i>140, 20</i> ; HERMOG. <i>Rhet. 262, 9</i>.<p><b>Étym</b>. ἐμπεριβάλλω.`

@@ -1,0 +1,1 @@
+lar[33196]=`<i>anc. forme supposée de</i> ἡμέρα, PLAT. <i>Crat. 418c</i>.`

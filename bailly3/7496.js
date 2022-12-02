@@ -1,0 +1,1 @@
+lar[7496]=`<b>ἀνα·πτύω :<br>      1</b> rejeter en crachant, cracher, <i>acc</i>. HPC. <i>Aph. 1253</i> ; POL. <i>12, 13, 11 ; abs. en parl. de graisse sur le feu,</i> SOPH. <i>Ant. 1009</i>.<br><b>      2</b> jaillir, s’élancer, A.RH. <i>2, 570</i>.<p>➳ <font color="purple">[ῡ <i>par nécessité prosod</i>.]</font> NIC. <i>Al. 211</i>.`

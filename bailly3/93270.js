@@ -1,0 +1,1 @@
+lar[93270]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰᾰ]</font> condescendance, NAZ.<p><b>Étym</b>. συγκαταβαίνω.`

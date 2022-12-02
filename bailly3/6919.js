@@ -1,0 +1,1 @@
+lar[6919]=`<b>ων (οἱ)</b> les Dioscures (Castor et Pollux) CIC. <i>N.D. 3, 21</i> ; PLUT. <i>Thes. 33</i>.<p><b>Étym</b>. <i>anc. plur. de</i> ἄναξ.`

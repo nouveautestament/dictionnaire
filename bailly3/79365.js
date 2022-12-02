@@ -1,0 +1,1 @@
+lar[79365]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. autour de qui l’on se tient, qui attire la foule autour de soi, entouré, ISOCR. <i>135e, etc.</i><br><b>      2</b> <i>act</i>. qui se tient autour, qui entoure, THPP. COM. (ATH. <i>485e</i>).<p><b>Étym</b>. περιΐστημι.`

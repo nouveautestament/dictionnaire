@@ -1,0 +1,1 @@
+lar[79123]=`<b>ή, όν</b> <font color="purple">[ῑτ]</font> <i>c</i>. πλευριτικός, HPC. <i>Coac. 201</i>.`

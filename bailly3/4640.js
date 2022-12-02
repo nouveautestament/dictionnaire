@@ -1,0 +1,1 @@
+lar[4640]=`<b>ων (αἱ)</b> chaussures à l’Alcibiade, ATH. <i>534c</i>.`

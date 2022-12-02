@@ -1,0 +1,1 @@
+lar[50887]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec perversité <i>ou</i> fourberie, DC. <i>47, 4</i>.`

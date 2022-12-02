@@ -1,0 +1,1 @@
+lar[92729]=`<b>στόμ·αργος, ος, ον</b>, à qui la bouche démange, bavard, ESCHL. <i>Sept. 447</i> ; SOPH. <i>El. 607</i> ; EUR. <i>Med. 525</i>.<p><b>Étym</b>. <i>pour</i> *στόμαλγος, <i>de</i> στ. ἄλγος.`

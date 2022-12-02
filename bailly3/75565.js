@@ -1,0 +1,1 @@
+lar[75565]=`<b>παρα·ζεύγνυμι</b>, attacher à côté, attacher à la personne de, <i>dat</i>. EUR. <i>Ion 22 ; au pass</i>. EUR. <i>fr. 1041 Nauck ; avec le dat</i>. DÉM. <i>1460 fin</i>.`

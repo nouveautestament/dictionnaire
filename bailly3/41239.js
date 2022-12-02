@@ -1,0 +1,1 @@
+lar[41239]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite courtisane, PLUT. <i>M. 808e ;</i> HLD. <i>7, 10</i>.<p><b>Étym</b>. ἑταιρίς.`

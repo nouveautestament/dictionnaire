@@ -1,0 +1,1 @@
+lar[19050]=`<b>ου (ὁ)</b> <font color="purple">[ᾰα]</font> scélérat digne du barathre, <i>càd</i>. du dernier supplice, LUC. <i>Pseud. 17</i>.<p><b>Étym</b>. βάραθρον.`

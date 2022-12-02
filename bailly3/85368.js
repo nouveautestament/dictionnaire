@@ -1,0 +1,1 @@
+lar[85368]=`<b>προσ·γλίχομαι</b> <font color="purple">[ῑ]</font> (<i>seul. prés. et impf</i>.) souhaiter en outre, <i>gén</i>. ARSTT. <i>Metaph. 1, 5, 3 ; acc. Metaph. 13, 3, 11</i>.`

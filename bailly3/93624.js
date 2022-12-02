@@ -1,0 +1,1 @@
+lar[93624]=`<b>ή, όν</b>, oint par tout le corps, oint, <i>en gén</i>. P. ÉG. <i>3, 18</i>.<p><b>Étym</b>. <i>vb. de</i> συγχρίω.`

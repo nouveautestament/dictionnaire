@@ -1,0 +1,1 @@
+lar[46921]=`<b>Θερμαῖος κόλπος (ὁ)</b> le golfe de Thermè (<i>auj</i>. golfe Thermaïque <i>ou</i> golfe de Thessalonique) <i>en Macédoine,</i> HDT. <i>7, 121</i>.<p><b>Étym</b>. Θέρμη.`

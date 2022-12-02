@@ -1,0 +1,1 @@
+lar[67123]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> protecteur des meules (Zeus) LYC. <i>435</i>.<p><b>Étym</b>. μύλη.`

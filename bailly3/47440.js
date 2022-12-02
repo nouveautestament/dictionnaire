@@ -1,0 +1,1 @@
+lar[47440]=`<b>θνητο·γενής, ής, ές</b>, né d’un mortel, SOPH. <i>Ant. 835</i>.<p>➳ <i>Dor</i>. θνατ. <font color="purple">[ᾱ]</font> EUR. <i>H.f. 799</i>.<p><b>Étym</b>. θνητός, γίγνομαι.`

@@ -1,0 +1,1 @@
+lar[82914]=`<b>ου (ὁ)</b> Poséidonios, <i>philos. stoïcien (lat</i>. Posidonius) PLUT. <i>Marc. 20, Mar. 45, etc</i>.<p><b>Étym</b>. <i>v</i>. Ποσειδώνιος.`

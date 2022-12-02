@@ -1,0 +1,1 @@
+lar[54315]=`<b>α, ον</b>, méchant <i>ou</i> lâche, SOPH. (PHOT. <i>Bibl. p. 151, 14</i>) ; HELLAD. (PHOT. <i>Bibl. p. 530, 38 Bekker</i>).`

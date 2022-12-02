@@ -1,0 +1,1 @@
+lar[50867]=`<b>κακο·σύνθετος, ος, ον</b> <font color="purple">[ᾰ]</font> mal composé, mal ordonné, LUC. <i>Cal. 14</i>.<p><b>Étym</b>. κ. σύνθετος.`

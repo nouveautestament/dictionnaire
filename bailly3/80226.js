@@ -1,0 +1,1 @@
+lar[80226]=`<b>πιθανόω-ῶ</b> <font color="purple">[ῐᾰ]</font> rendre vraisemblable, ARSTT. <i>Rhet. 3, 7, 4</i>.<p><b>Étym</b>. πιθανός.`

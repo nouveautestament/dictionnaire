@@ -1,0 +1,1 @@
+lar[62281]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> chute de cheveux, HPC. <i>1083d</i> (<i>conj</i>. μάδισις <i>de</i> μαδίζω).<p><b>Étym</b>. μαδάω.`

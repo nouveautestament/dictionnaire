@@ -1,0 +1,1 @@
+lar[100059]=`<font color="darkgreen">(<i>f</i>. τριάξω, <i>ao. pass</i>. ἐτριάχθην)</font> multiplier par trois, tripler, GAL.<p><b>Étym</b>. τριάς.`

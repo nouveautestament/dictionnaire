@@ -1,0 +1,1 @@
+lar[44752]=`<b>ζωο·θετέω-ῶ</b>, faire vivre, animer, ANTH. <i>App. 12</i>.<p><b>Étym</b>. ζωή, θετός.`

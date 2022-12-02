@@ -1,0 +1,1 @@
+lar[71587]=`<b>*ὁμό·κληρος</b>, <i>dor</i>. <b>ὁμό·κλαρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui a une part égale, PD. <i>O. 2, 89 ; N. 9, 11</i>.<p><b>Étym</b>. ὁμ. κλῆρος.`

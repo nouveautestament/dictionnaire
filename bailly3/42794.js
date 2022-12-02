@@ -1,0 +1,1 @@
+lar[42794]=`<b>ας (ἡ)</b> Eunosta, <i>f</i>. DIOCL. (PLUT. <i>Qu. gr. 40).</i><p><b>Étym</b>. <i>fém. de</i> Εὔνοστος.`

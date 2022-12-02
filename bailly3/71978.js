@@ -1,0 +1,1 @@
+lar[71978]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui consiste en noms, DH. <i>Thuc. 22</i> ; τὰ ὀν. DH. <i>Comp. 2, 5,</i> les noms substantifs.<p><b>Étym</b>. ὄνομα.`

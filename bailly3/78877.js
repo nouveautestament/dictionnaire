@@ -1,0 +1,1 @@
+lar[78877]=`<b>περι·λεσχήνευτος, ος, ον</b>, qui est l’objet de tous les entretiens, fameux, célèbre, HDT. <i>2, 135</i>.<p><b>Étym</b>. π. λέσχη.`

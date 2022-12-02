@@ -1,0 +1,1 @@
+lar[29714]=`<b>ἐγ·κομβόομαι-οῦμαι</b>, boutonner sur soi, <i>càd</i>. s’envelopper en se boutonnant, A. CARYST. <i>fr. 3 ; fig</i>. ἐ. ταπεινοφροσύνην, NT. <i>1Petr. 5, 5,</i> s’envelopper de modestie.<p><b>Étym</b>. ἐν, κ.`

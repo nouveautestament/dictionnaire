@@ -1,0 +1,1 @@
+lar[109211]=`<b>Χρυσο·μέδη, ης (ἡ)</b> <font color="purple">[ῡ]</font> Khrysomédè, <i>n. de fleur,</i> NONN. <i>D. 34, 119</i>.<p><b>Étym</b>. χρ. μέδων.`

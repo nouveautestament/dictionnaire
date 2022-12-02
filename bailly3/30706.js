@@ -1,0 +1,1 @@
+lar[30706]=`<b>εἰσ·αφικάνω</b> <font color="purple">[ῐᾱ]</font> <i>c</i>. εἰσαφικνέομαι (<i>seul. impf. 3 sg</i>. εἰσαφίκανε) OD. <i>22, 99</i> ; HÉS. <i>Sc. 45</i> ; THCR. <i>Idyl. 22, 29 ; et ao. sbj. 2 sg. poét</i>. εἰσαφίκηαι, ANON. <i>dans</i> SCH.-PD. <i>P. 6, 19</i>.`

@@ -1,0 +1,1 @@
+lar[71987]=`<b>ὀνοματο·ποιέω-ῶ :<br>      1</b> former des noms, ARSTT. <i>Categ. 7, 11</i>.<br><b>      2</b> former un mot par imitation d’un son naturel par onomatopée, ARSTT. <i>Top. 1, 9</i> ; SEXT. <i>1, 314</i>.<p><b>Étym</b>. ὄ. ποιέω.`

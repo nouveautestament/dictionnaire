@@ -1,0 +1,1 @@
+lar[60008]=`<b>ου (ὁ)</b> Laphystios, <i>propr</i>. le dévorant :<br><b>      1</b> <i>surn. de Zeus et de Dionysos,</i> HDT. <i>7, 197</i> ; PAUS. <i>1, 24, 2 ; d’où, en parl. des Bacchantes,</i> LYC. <i>1237</i>.<br><b>      2</b> <i>n. d’un sycophante,</i> PLAT. <i>Tim. 37</i>.`

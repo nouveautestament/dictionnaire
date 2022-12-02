@@ -1,0 +1,1 @@
+lar[45293]=`<b>ή, όν</b>, en forme de clou, P. ÉG. <i>6, 66</i>.<p><b>Étym</b>. <i>vb. de</i> ἡλόω.`

@@ -1,0 +1,1 @@
+lar[101304]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la fabrication du verre, JOS. <i>B.J. 2, 10, 2</i>.<p><b>Étym</b>. ὕαλος.`

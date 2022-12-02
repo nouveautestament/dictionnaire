@@ -1,0 +1,1 @@
+lar[26684]=`<b>(ὁ)</b> <font color="purple">[ῑ]</font> Dinôn, <i>h</i>. THCR. <i>Idyl. 15, 11</i> (<i>var</i>. Διώνα).`

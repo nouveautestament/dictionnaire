@@ -1,0 +1,1 @@
+lar[41070]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. habitant <i>ou</i> originaire d’Hespéris, CALL. (E. BYZ. <i>v°</i> Ἑσπερίς).<p><b>Étym</b>. Ἑσπερίς.`

@@ -1,0 +1,1 @@
+lar[102858]=`<b>ὑπερ·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> levé de manière à être visible, XÉN. <i>Hipp. 5, 7</i>.`

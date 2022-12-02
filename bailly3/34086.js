@@ -1,0 +1,1 @@
+lar[34086]=`<b>ἐν·γε·ταυθί</b>, <i>adv. par interversion comique p</i>. ἐνταυθί γε, AR. <i>Th. 646</i>.`

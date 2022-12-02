@@ -1,0 +1,1 @@
+lar[71111]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> glissant, GAL. <i>12, 264 au cp</i>. -ώτερος.<p><b>Étym</b>. ὀλισθαίνω.`

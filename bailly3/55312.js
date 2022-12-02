@@ -1,0 +1,1 @@
+lar[55312]=`<b>ου (ὁ)</b> alcyon mâle, <i>oiseau de mer</i>, ALCM. <i>12</i> ; ARSTT. <i>H.A. 8, 3, 14, etc</i>.<p><b>Étym</b>. <i>cf</i>. κειρύλος.`

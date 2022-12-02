@@ -1,0 +1,1 @@
+lar[96607]=`<b>συ·σκιρρόομαι</b> <i>ou</i> <b>συ·σκιρόομαι-οῦμαι</b> <font color="purple">[ῑ]</font> devenir également <i>ou</i> en même temps dur, GAL. <i>3, 202</i>.`

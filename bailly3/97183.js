@@ -1,0 +1,1 @@
+lar[97183]=`<b>σωματο·ειδῶς</b> <font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en forme de corps, JAMBL. <i>Myst. 1, 18</i>.<br><b>      2</b> en un corps, en un tout, ARSTT. <i>Rhet. Al. 29, 5</i>.<p><b>Étym</b>. σωματοειδής.`

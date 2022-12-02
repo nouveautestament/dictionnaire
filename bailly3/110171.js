@@ -1,0 +1,1 @@
+lar[110171]=`<b>ὠκυ·δίνητος</b>, <i>dor</i>. <b>ὠκυ·δίνατος, ος, ον</b> <font color="purple">[ῠῑᾱ]</font> qui tourne <i>ou</i> se meut rapidement, PD. <i>I. 5, 7</i>.<p><b>Étym</b>. ὠ. δινέω.`

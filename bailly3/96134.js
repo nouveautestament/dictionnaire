@@ -1,0 +1,1 @@
+lar[96134]=`<b>συν·οικοδεσπότης, ου (ὁ)</b> qui préside à la naissance, PTOL. <i>Tetr. p. 63</i>.`

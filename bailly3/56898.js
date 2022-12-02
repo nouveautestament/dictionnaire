@@ -1,0 +1,1 @@
+lar[56898]=`<b>ης, ες</b>, qui a l’aspect (<i>càd</i>. la couleur) de la lessive, HPC. <i>213g</i>.<p><b>Étym</b>. κονία, -ωδης.`

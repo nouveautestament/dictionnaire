@@ -1,0 +1,1 @@
+lar[101966]=`<b>ὑπ·ανέρχομαι</b> <font color="purple">[ῠᾰ]</font> se retirer doucement, peu à peu, GAL. <i>19, 149</i>.`

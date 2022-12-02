@@ -1,0 +1,1 @@
+lar[94196]=`<b>συμ·περινοστέω-ῶ</b>, faire un circuit avec, tourner avec, <i>dat</i>. JOS. <i>A.J. 3, 6, 1</i> ; LUC. <i>Tox. 56, etc. ; fig</i>. PAUS. <i>5, 14, 10</i>.`

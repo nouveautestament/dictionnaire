@@ -1,0 +1,1 @@
+lar[19373]=`<b>βατραχο·μυο·μαχία, ας (ἡ)</b> Batrachomyomachie, <i>càd</i>. combat de rats et de grenouilles, <i>poème héroï-comiqne, faussement attribué à Homère, cf</i>. PLUT. <i>M. 873f</i>.<p><b>Étym</b>. βάτραχος, μῦς, μάχομαι.`

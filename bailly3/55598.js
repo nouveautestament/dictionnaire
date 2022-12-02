@@ -1,0 +1,1 @@
+lar[55598]=`<b>ης (ἡ)</b> Kisthènè, <i>pays fabuleux,</i> ESCHL. <i>Pr. 793 ; chaîne de mt. de Thrace,</i> ISOCR. <i>72d</i>.`

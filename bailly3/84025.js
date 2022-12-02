@@ -1,0 +1,1 @@
+lar[84025]=`<b>προ·έγκειμαι</b>, exister auparavant dans, <i>dat</i>. HDN <i>1, 17</i>.`

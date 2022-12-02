@@ -1,0 +1,1 @@
+lar[54853]=`<b>κερασφορέω-ῶ</b>, porter des cornes, PHILSTR. <i>63</i>.<p><b>Étym</b>. κερασφόρος.`

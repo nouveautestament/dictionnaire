@@ -1,0 +1,1 @@
+lar[15880]=`<b>ἀ·σκαίρω</b> (<i>seul. prés</i>.) palpiter, Q. SM. <i>5, 495</i>.<p><b>Étym</b>. <i>conj</i>. μέγα σκαίρουσι.`

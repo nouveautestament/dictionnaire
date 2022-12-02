@@ -1,0 +1,1 @@
+lar[12767]=`<b>εως (ἡ) :<br>      1</b> action d’intercepter, de couper (des troupes) THC. <i>7, 54</i>.<br><b>      2</b> arrêt, HPC. <i>91c ; particul</i>. rétention (d’urine) HPC. <i>71d, etc</i>.<p><b>Étym</b>. ἀπολαμβάνω.`

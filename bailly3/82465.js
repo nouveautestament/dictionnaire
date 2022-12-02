@@ -1,0 +1,1 @@
+lar[82465]=`<b>πολυ·τόκος, ος, ον</b> <font color="purple">[ῠ]</font> qui met au monde beaucoup d’enfants <i>ou</i> de petits, HPC. <i>247 fin</i> ; ARSTT. <i>P.A. 4, 10, 36, etc</i>.<p><b>Étym</b>. π. τίκτω.`

@@ -1,0 +1,1 @@
+lar[49375]=`<b>Ἱππό·λοχος, ου (ὁ)</b> Hippolokhos :<br><b>      1</b> <i>fils de Bellérophon,</i> IL. <i>6, 119</i> ; HDT. <i>1, 147</i>.<br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 2, 3, 2, etc</i>.<p><b>Étym</b>. ἵ. λόχος.`

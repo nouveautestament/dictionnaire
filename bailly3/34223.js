@@ -1,0 +1,1 @@
+lar[34223]=`<i>adv</i>., d’une manière douteuse, HDT. <i>7, 174</i> ; THC. <i>6, 10 ; 8, 87</i>.`

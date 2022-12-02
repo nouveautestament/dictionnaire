@@ -1,0 +1,1 @@
+lar[23338]=`<b>(ὁ)</b> David, <i>n. hébr</i>. SPT. <i>Ruth 4, 22 ; cf</i>. Δαβίδ.`

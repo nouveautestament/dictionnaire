@@ -1,0 +1,1 @@
+lar[31360]=`<b>ἐκ·καγχάζω</b>, éclater de rire, XÉN. <i>Conv. 1, 16</i> ; ARSTT. <i>Nic. 7, 8</i>.`

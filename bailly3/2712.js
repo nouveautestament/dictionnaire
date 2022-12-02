@@ -1,0 +1,1 @@
+lar[2712]=`<b>αἰνο·τάλας</b>, <i>seul. acc</i>. <b>-τάλαντα</b> <font color="purple">[τᾰ]</font> <i>adj. m</i>. terriblement malheureux, ANTIM. <i>106 Kinkel</i>.`

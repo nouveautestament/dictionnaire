@@ -1,0 +1,1 @@
+lar[103496]=`<i>vb. de</i> ὑπολογίζομαι, PLAT. <i>Rsp. 341d ; avec une prop. inf</i>. PLAT. <i>Pol. 293d</i>.`

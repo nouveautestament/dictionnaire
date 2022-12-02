@@ -1,0 +1,1 @@
+lar[20169]=`<b>ας (ἡ)</b> Bombyleia, <i>fontaine et lieu de Béotie,</i> LYC.`

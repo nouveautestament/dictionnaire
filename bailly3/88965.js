@@ -1,0 +1,1 @@
+lar[88965]=`<b>ορος (ὁ)</b> <font color="purple">[ῡ]</font> qui protège, <i>avec le gén. de la pers. ou de la ch. protégée,</i> protecteur, défenseur de, ESCHL. <i>Sept. 318</i> ; ANTH. <i>6, 37, 207 ; avec le gén. de la chose contre laquelle on protège,</i> ANTH. <i>9, 351</i>.<p><b>Étym</b>. ῥύομαι.`

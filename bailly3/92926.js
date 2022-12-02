@@ -1,0 +1,1 @@
+lar[92926]=`<b>ου (ὁ)</b> désir violent, passion, LYC. <i>438</i>.<p><b>Étym</b>. <i>cf</i>. στρῆνος¹.`

@@ -1,0 +1,1 @@
+lar[50980]=`<b>καλαμινθίτης οἶνος (ὁ)</b> <font color="purple">[ᾰᾰῑτ]</font> vin aromatisé de calament, DIOSC. <i>5, 62</i>.<p><b>Étym</b>. καλάμινθος.`

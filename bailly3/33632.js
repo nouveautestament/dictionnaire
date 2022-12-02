@@ -1,0 +1,1 @@
+lar[33632]=`<b>Ἔμ·πυλος, ου (ὁ)</b> Empylos, <i>rhéteur,</i> PLUT. <i>Brut. 2</i>.<p><b>Étym</b>. ἐν, πύλη.`

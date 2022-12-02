@@ -1,0 +1,1 @@
+lar[26294]=`<b>δι·εσθίω</b>, <i>f</i>. διέδομαι, manger entièrement, dévorer, HDT. <i>3, 109</i> ; PLUT. <i>M. 170c ;</i> EL. <i>N.A. 15, 16 ; fig</i>. DL. <i>5, 76</i> ; PHIL. <i>2, 541</i>.<p>➳ <i>Fut. 3 sg</i>. διέδεται, PLUT. <i>M. 170a</i>.`

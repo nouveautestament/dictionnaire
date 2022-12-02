@@ -1,0 +1,1 @@
+lar[58188]=`<b>α, ον</b> <font color="purple">[ῠῐ]</font> secret, caché, MAN. <i>1, 159</i>.<p><b>Étym</b>. κρύφιμος.`

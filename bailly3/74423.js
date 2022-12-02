@@ -1,0 +1,1 @@
+lar[74423]=`<font color="purple">[μᾱ]</font> <i>dor. c</i>. παλαιομήτωρ.`

@@ -1,0 +1,1 @@
+lar[60795]=`<b>ης (ἡ)</b> chassie, <i>particul</i>. grain de chassie, HPC. <i>37, 19 ; fig</i>. Αἴγινα ἡ τοῦ Πειραιέως λ. PÉRICL. (ARSTT. <i>Rhet. 3, 10, 7</i>) ; PLUT. <i>Per. 8,</i> Égine, la chassie du Pirée ; <i>au pl</i>. humeurs qui troublent le cerveau, chimères, AR. <i>Pl. 581</i>.`

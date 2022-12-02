@@ -1,0 +1,1 @@
+lar[4625]=`<b>ων (τὰ)</b> <i>sorte de plante vénéneuse,</i> ORPH. <i>Arg. 920</i>.`

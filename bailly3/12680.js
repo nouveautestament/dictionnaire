@@ -1,0 +1,1 @@
+lar[12680]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> cachette, retraite, SPT. <i>Job 22, 14 ; Ps. 17, 13 ; avec</i> ἀπό, SYMM. <i>Jes. 32, 2</i>.<p><b>Étym</b>. ἀποκρύπτω.`

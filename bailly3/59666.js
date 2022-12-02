@@ -1,0 +1,1 @@
+lar[59666]=`<b>α, ον</b>, du fleuve Lamètos, <i>dans le Bruttium,</i> LYC. <i>1085</i>.`

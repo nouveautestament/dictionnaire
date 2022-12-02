@@ -1,0 +1,1 @@
+lar[93029]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Strymè, <i>colonie de Thasos, en Thrace,</i> ARCHIL. <i>135</i> ; HDT. <i>7, 108, 109</i> ; DÉM. <i>12, 17, etc. Baiter-Sauppe</i>.`

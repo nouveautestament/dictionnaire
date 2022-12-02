@@ -1,0 +1,1 @@
+lar[50515]=`<b>καθ·υπο·ψιθυρίζω</b> <font color="purple">[ᾰῐθῠ]</font> faire entendre un léger murmure, EUM. <i>4, 1</i>.`

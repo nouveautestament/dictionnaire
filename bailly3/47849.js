@@ -1,0 +1,1 @@
+lar[47849]=`<b>ης (ἡ)</b> encensoir, JOS. <i>A.J. 3, 8, 10</i> ; SPT. <i>1Macc. 1, 22 ; 3Reg. 7, 50 ; 2Par. 4, 21 ; Ex. 25, 29 ; 1Esdr. 2, 12</i>.<p><b>Étym</b>. θύος.`

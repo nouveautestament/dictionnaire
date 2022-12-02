@@ -1,0 +1,1 @@
+lar[8286]=`<b>εως (ἡ) :<br>      1</b> action de se dérouler <i>ou</i> de se développer, <i>t. de danse,</i> PLUT. <i>Thes. 2</i>.<br><b>      2</b> exposition, analyse, PROCL. <i>Plat. Parm. 542</i>.<p><b>Étym</b>. ἀνελίσσω.`

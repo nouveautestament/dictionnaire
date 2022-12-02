@@ -1,0 +1,1 @@
+lar[77937]=`<b>ῶν (οἱ)</b> les Penthilides, <i>famille noble de Lesbos,</i> MYRS. (PLUT. <i>Sol. an. 36, ou 984e</i>).<p><b>Étym</b>. <i>patr. de</i> Πενθίλος.`

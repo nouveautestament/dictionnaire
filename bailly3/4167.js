@@ -1,0 +1,1 @@
+lar[4167]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> semblable à un onguent, HPC. <i>685, 16</i>.<p><b>Étym</b>. ἄλειμμα, -ωδης.`

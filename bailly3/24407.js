@@ -1,0 +1,1 @@
+lar[24407]=`<b>δια·βαστάζω :<br>      1</b> transporter, AQU. <i>Ps. 30, 4</i> ; SYMM. <i>Ex. 15, 13</i>.<br><b>      2</b> soupeser, peser, <i>d’où</i> évaluer, PLUT. <i>Dem. 25</i> ; LUC. <i>Ep. sat. 33</i>.<br><b>      3</b> porter jusqu’au bout, CHRYS. <i>1Cor. 32d</i>.`

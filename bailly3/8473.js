@@ -1,0 +1,1 @@
+lar[8473]=`<b>ἀν·επίπλοκος, ος, ον</b>, non combiné avec, <i>dat</i>. DYSC. <i>Synt. 204</i>.<p><b>Étym</b>. ἀν-, ἐπιπλέκω.`

@@ -1,0 +1,1 @@
+lar[89055]=`<b>εως (ἡ)</b> <font color="purple">[βᾰ]</font> maladie de l’aine, APION (JOS. <i>c. Ap. 2, 2).</i><p><b>Étym</b>. σάββατον.`

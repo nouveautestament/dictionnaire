@@ -1,0 +1,1 @@
+lar[10656]=`<b>ἀντ·ορέγω</b> <font color="darkgreen">(<i>ao</i>. ἀντώρεξα)</font> tendre de son côté <i>ou</i> en retour, THÉM. <i>153a</i>.`

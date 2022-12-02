@@ -1,0 +1,1 @@
+lar[59183]=`<font color="purple">[ῐ]</font> parler comme un poète comique, LUC. <i>Philopatr. 22</i>.<p><b>Étym</b>. κωμικός.`

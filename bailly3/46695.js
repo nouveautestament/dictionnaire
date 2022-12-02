@@ -1,0 +1,1 @@
+lar[46695]=`<b>ας (ἡ) :<br>      1</b> inspiration divine, PLUT. <i>M. 763a.</i><br><b>      2</b> superstition, PLUT. <i>M. 56e</i>.<p><b>Étym</b>. θεόληπτος.`

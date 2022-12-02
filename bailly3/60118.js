@@ -1,0 +1,1 @@
+lar[60118]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de prairie, SOPH. <i>Ph. 1454</i> ; A.RH. <i>2, 655</i>.<p><b>Étym</b>. λειμών.`

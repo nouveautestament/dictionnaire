@@ -1,0 +1,1 @@
+lar[97059]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> baie de lentisque, TH. <i>H.P. 9, 4, 7</i>.<p><b>Étym</b>. σχῖνος.`

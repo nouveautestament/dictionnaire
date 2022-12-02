@@ -1,0 +1,1 @@
+lar[79664]=`<b>ή, όν</b> <font color="purple">[χᾰ]</font> propre à déchausser (les dents, les croûtes d’une plaie, <i>etc.) gén</i>. DIOSC. <i>1, 138</i>.<p><b>Étym</b>. περιχαράσσω.`

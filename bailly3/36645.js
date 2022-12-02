@@ -1,0 +1,1 @@
+lar[36645]=`<b>*ἐπ·ανασκέπτομαι</b> <font color="darkgreen">(<i>seul. fut</i>. -σκέψομαι, PLAT. <i>Theæt. 154e, et inf. ao</i>. -σκέψασθαι, PLAT. <i>Crat. 428d</i>)</font> examiner de nouveau.`

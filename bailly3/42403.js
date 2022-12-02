@@ -1,0 +1,1 @@
+lar[42403]=`<i>adv</i>., d’une manière méprisable, PLUT. <i>Demetr. 16</i>.`

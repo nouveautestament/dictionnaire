@@ -1,0 +1,1 @@
+lar[13989]=`<b>ἀ·πρόσφυλος, ος, ον</b> <font color="purple">[ῡ]</font> qui n’est pas propre <i>ou</i> spécial à la tribu <i>ou</i> à la race, HLD. <i>4, 8</i>.`

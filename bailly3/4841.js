@@ -1,0 +1,1 @@
+lar[4841]=`<b>ἀλλοφυλέω-ῶ</b> <font color="purple">[ῡ]</font> suivre des coutumes étrangères, SPT. <i>4Macc. 18, 5</i>.<p><b>Étym</b>. ἀλλόφυλος.`

@@ -1,0 +1,1 @@
+lar[73272]=`<b>ης, ες</b>, semblable à un os, PLUT. <i>M. 916a</i>.<p><b>Étym</b>. ὀστέον, -ωδης.`

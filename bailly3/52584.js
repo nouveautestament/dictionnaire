@@ -1,0 +1,1 @@
+lar[52584]=`<b>κατά·κολλος, ος, ον</b>, collant, glutineux, EN. TACT. <i>Pol. 31, 7</i>.<p><b>Étym</b>. κ. κόλλα.`

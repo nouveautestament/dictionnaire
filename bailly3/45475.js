@@ -1,0 +1,1 @@
+lar[45475]=`<b>ἡμί·λιτρον, ου (τὸ)</b> <font color="purple">[μῐ]</font><br><b>      1</b> demi-livre, PLUT. <i>Cam. 27</i>.<br><b>      2</b> demi-obole, <i>chez les Siciliens,</i> EPICH. (POLL. <i>9, 81</i>).`

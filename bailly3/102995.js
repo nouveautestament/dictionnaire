@@ -1,0 +1,1 @@
+lar[102995]=`<b>ὑπνο·τράπεζος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Dort-à-table, <i>n. de parasite,</i> ALCIPHR. <i>3, 60</i>.<p><b>Étym</b>. ὕ. τράπεζα.`

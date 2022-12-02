@@ -1,0 +1,1 @@
+lar[92872]=`<b>Στρατόπεδον Τυρίων (τὸ)</b> le Camp des Tyriens, <i>contrée près de Memphis,</i> HDT. <i>2, 112</i>.`

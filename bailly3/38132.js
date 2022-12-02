@@ -1,0 +1,1 @@
+lar[38132]=`<b>ας (ἡ) :<br>      1</b> secours, assistance, HDT. <i>6, 108</i> ; THC. <i>1, 32 et 33</i> ; PLAT. <i>Gorg. 492c, etc.</i><br><b>      2</b> troupe de secours, de renfort, ESCHL. <i>Suppl. 721 ; particul</i>. troupes mercenaires, HDT. <i>5, 63 ; 6, 100 ; au plur</i>. THC. <i>7, 59</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.<p><b>Étym</b>. ἐπίκουρος.`

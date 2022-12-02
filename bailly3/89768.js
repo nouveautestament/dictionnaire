@@ -1,0 +1,1 @@
+lar[89768]=`<i>gén. poét</i>. <b>εω (ὁ)</b> <font color="purple">[ᾰ]</font> le fils de Sellée, ARCHIL. <i>104</i>.`

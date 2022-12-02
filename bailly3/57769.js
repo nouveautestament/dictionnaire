@@ -1,0 +1,1 @@
+lar[57769]=`<b>Κρεπέρῃος Καλπουρνιανός (ὁ)</b> Calpurnianus de Crépère, LUC. <i>H. conscr. 15</i>.`

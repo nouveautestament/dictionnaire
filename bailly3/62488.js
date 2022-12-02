@@ -1,0 +1,1 @@
+lar[62488]=`<b>έων (οἱ)</b> les Makriées, <i>pple du Pont,</i> A.RH. <i>1, 1024</i>.<p><b>Étym</b>. Μάκρις.`

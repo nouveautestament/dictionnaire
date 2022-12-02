@@ -1,0 +1,1 @@
+lar[3663]=`<b>ας (ἡ)</b> <font color="purple">[ᾱτ]</font> action de boire du vin pur, PLUT. <i>Alex. 70, etc</i>.<p>➳ <i>Ion</i>. ἀκρητοποσίη, HDT. <i>6, 84</i>.<p><b>Étym</b>. ἀκρατοπότης.`

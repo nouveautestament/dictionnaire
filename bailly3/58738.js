@@ -1,0 +1,1 @@
+lar[58738]=`<b>κυνάω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> être en chaleur, <i>en parl. d’un chien,</i> ARSTT. <i>H.A. 6, 20</i>.<br><b>      2</b> être cynique, LUC. <i>Demon. 21</i>.<p><b>Étym</b>. κύων.`

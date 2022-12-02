@@ -1,0 +1,1 @@
+lar[36986]=`<b>ἐπ·είσθεσις, εως (ἡ)</b> nouvelle insertion, addition, RHÉT. <i>1, 605 W</i>.<p><b>Étym</b>. ἐπί, εἰστίθημι.`

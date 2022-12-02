@@ -1,0 +1,1 @@
+lar[65076]=`<b>μετ·εισβαίνω</b>, passer d’un lieu dans un autre, HLD. <i>5, 27</i>.`

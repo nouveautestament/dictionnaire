@@ -1,0 +1,1 @@
+lar[78378]=`<b>περι·αμάομαι-ῶμαι</b> <font color="purple">[ᾰμ]</font> moissonner de tous côtés, GEOP. <i>1, 14, 6</i>.`

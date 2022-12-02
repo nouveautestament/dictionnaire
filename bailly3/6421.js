@@ -1,0 +1,1 @@
+lar[6421]=`<b>ἀμφι·φέρομαι</b>, se mouvoir (<i>litt</i>. se porter) autour, Q. SM. <i>5, 10</i>.`

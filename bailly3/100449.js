@@ -1,0 +1,1 @@
+lar[100449]=`<b>τρισκαιδεκά·κλινος, ος, ον</b> <font color="purple">[ῑν]</font> à treize lits, CALLIX. (ATH. <i>205e</i>).`

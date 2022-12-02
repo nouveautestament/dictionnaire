@@ -1,0 +1,1 @@
+lar[20101]=`<i>adv</i>., dans le dialecte béotien, STR.`

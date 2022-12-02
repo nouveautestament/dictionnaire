@@ -1,0 +1,1 @@
+lar[76905]=`<b>παρθενο·κτόνος, ου (ὁ, ἡ)</b> qui immole une jeune fille <i>ou</i> des jeunes filles, LYC. <i>22</i>.<p><b>Étym</b>. π. κτείνω.`

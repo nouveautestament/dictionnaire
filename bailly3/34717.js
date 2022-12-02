@@ -1,0 +1,1 @@
+lar[34717]=`<font color="purple">[ᾰ]</font> <i>adv</i>., neuf fois, NICOM. <i>Harm. 16</i>.<p><b>Étym</b>. ἐννέα.`

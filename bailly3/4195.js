@@ -1,0 +1,1 @@
+lar[4195]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> jeune coq, poulet, EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. ἀλέκτωρ.`

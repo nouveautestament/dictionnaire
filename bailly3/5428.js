@@ -1,0 +1,1 @@
+lar[5428]=`<b>ητος (ὁ)</b> Amélès, <i>fl. des enfers,</i> PLAT. <i>Rsp. 621a</i>.`

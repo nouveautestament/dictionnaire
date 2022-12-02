@@ -1,0 +1,1 @@
+lar[91643]=`<b>η, ον</b> <font color="purple">[ῐ]</font> fait de lis ; <i>subst</i>. τὸ σούσινον, HPC. <i>573, 29 ; 582, 36</i> ; TH. <i>Od. 6, 27</i> ; DIOSC. <i>1, 63,</i> huile de lis, onguent fait avec de l’huile de lis.<p><b>Étym</b>. σοῦσον.`

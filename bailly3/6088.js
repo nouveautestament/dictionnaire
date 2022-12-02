@@ -1,0 +1,1 @@
+lar[6088]=`<b>ἀμφι·δαίω</b> (<i>seul. pf. 3 sg</i>. ἀμφιδέδηε, IL. <i>6, 329</i>) brûler <i>ou</i> s’allumer autour, <i>en parl. de la guerre</i>.`

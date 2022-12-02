@@ -1,0 +1,1 @@
+lar[85306]=`<b>προσ·αστράπτω</b>, briller sur, illuminer, <i>dat</i>. PHILSTR. <i>804</i>.`

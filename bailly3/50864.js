@@ -1,0 +1,1 @@
+lar[50864]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvaise prononciation, STR. <i>14, 2, 28 Kram</i>.<p><b>Étym</b>. κακόστομος.`

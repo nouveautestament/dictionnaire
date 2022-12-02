@@ -1,0 +1,1 @@
+lar[17964]=`<b>ἄφ·ερκτος, ος, ον</b> <font color="purple">[ᾰ]</font> exclu de, <i>gén</i>. ESCHL. <i>Ch. 446</i>.<p><b>Étym</b>. <i>vb. de</i> ἀφείργω.`

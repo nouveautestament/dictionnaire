@@ -1,0 +1,1 @@
+lar[103355]=`<b>ὑπο·κενόω-ῶ</b> (<i>pf. pass. part</i>. ὑποκεκενωμένος) :<br><b>      1</b> faire évacuer <i>ou</i> purger par le bas, HPC. <i>Progn. 45, etc. ; au pass</i>. HPC. <i>Prorrh. 85</i>.<br><b>      2</b> faire évacuer <i>ou</i> emporter, HPC. <i>543, 11</i>.`

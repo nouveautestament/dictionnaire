@@ -1,0 +1,1 @@
+lar[14128]=`<b>ἀραιό·τρητος, ος, ον</b> <font color="purple">[ᾰ]</font> aux trous <i>ou</i> aux pores espacés, GAL. <i>De usu part. 8, 6</i>.<p><b>Étym</b>. ἀ. τιτραίνω.`

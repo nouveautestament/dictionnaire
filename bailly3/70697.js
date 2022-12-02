@@ -1,0 +1,1 @@
+lar[70697]=`<b>ὀϊστο·κόμος, ος, ον</b>, qui prend soin des traits, <i>càd</i>. qui abrite <i>ou</i> renferme les traits (carquois) NONN. <i>D. 48, 360</i>.<p><b>Étym</b>. ὀϊστός, κομέω.`

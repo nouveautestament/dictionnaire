@@ -1,0 +1,1 @@
+lar[61229]=`<b>λινό·ζευκτος, ος, ον</b> <font color="purple">[ῐ]</font> attaché avec des cordes, OPP. <i>H. 4, 79</i>.<p><b>Étym</b>. λ. ζεύγνυμι.`

@@ -1,0 +1,1 @@
+lar[23185]=`<b>(ὁ)</b> Damyrias, <i>fl. de Sicile,</i> PLUT. <i>Tim. 31</i>.`

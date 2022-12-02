@@ -1,0 +1,1 @@
+lar[2771]=`<b>αἰολό·στομος, ος, ον</b>, à la parole équivoque, ESCHL. <i>Pr. 664</i>.<p><b>Étym</b>. αἰ. στόμα.`

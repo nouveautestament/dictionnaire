@@ -1,0 +1,1 @@
+lar[5800]=`<b>ου (ὁ)</b> Ampélinos, <i>h</i>. ANT. <i>6, 35 Baiter-Sauppe</i>.<p><b>Étym</b>. ἄμπελος.`

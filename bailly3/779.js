@@ -1,0 +1,1 @@
+lar[779]=`<b>ου (ὁ)</b> <i>sorte de poisson,</i> ATH. <i>356a</i>.`

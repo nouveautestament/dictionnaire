@@ -1,0 +1,1 @@
+lar[66104]=`<i>d’où</i> <b>Μιτραίων ὄρη (τὰ)</b> les Monts des Mitræes <i>en Sarmatie,</i> LUC. <i>Tox. 52</i>.`

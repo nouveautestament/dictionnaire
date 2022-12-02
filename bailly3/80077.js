@@ -1,0 +1,1 @@
+lar[80077]=`<b>πηλό·γονος, ος, ον</b>, né de la terre, <i>propr</i>. de la boue, <i>ép. de géants,</i> CALL. <i>Jov. 3</i>.<p><b>Étym</b>. π. γίγνομαι.`

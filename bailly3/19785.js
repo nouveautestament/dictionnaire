@@ -1,0 +1,1 @@
+lar[19785]=`<b>βιοτο·σκόπος, ος, ον</b>, où l’on observe la vie (heure), <i>càd</i>. où l’on peut présager la vie de qqn, MAN. <i>4, 572</i>.<p><b>Étym</b>. βίοτος, σκέπτομαι.`

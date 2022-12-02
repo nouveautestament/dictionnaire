@@ -1,0 +1,1 @@
+lar[815]=`<b>ας (ἡ)</b> stérilité, PLUT. <i>Rom. 24, etc.</i> ; JOS. <i>B.J. 4, 8, 2</i>.<p><b>Étym</b>. ἄγονος.`

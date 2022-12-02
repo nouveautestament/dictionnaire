@@ -1,0 +1,1 @@
+lar[29698]=`<b>ἐγ·κοιμίζω :<br>      1</b> endormir dans <i>ou</i> sur : παῖδας ἐγκ. κόλποις, ANTH. <i>7, 260, 5,</i> endormir des enfants sur son sein.<br><b>      2</b> <i>fig</i>. coucher dans, <i>avec</i> εἰς <i>et l’acc</i>. HÉRON <i>Aut. 259</i>.<p><b>Étym</b>. ἐν, κ.`

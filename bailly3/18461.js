@@ -1,0 +1,1 @@
+lar[18461]=`<b>ἀχθοφορέω-ῶ</b>, <i>f</i>. ήσω :<br><b>      1</b> porter un fardeau <i>ou</i> des fardeaux, POL. <i>4, 32, 7</i> ; PLUT. <i>Mar. 13 ; en parl. de grossesse,</i> HPC. <i>Acut. 388</i>.<br><b>      2</b> supporter comme un fardeau, <i>acc</i>. ANTH. <i>7, 468</i>.<p><b>Étym</b>. ἀχθοφόρος.`

@@ -1,0 +1,1 @@
+lar[64944]=`<b>ας (ἡ)</b> mouvement de reflux, ARSTT. <i>Meteor. 2, 8</i> ; DS. <i>3, 51</i> ; PLUT. <i>M. 433f</i>.<p><b>Étym</b>. μεταρρέω.`

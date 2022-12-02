@@ -1,0 +1,1 @@
+lar[98814]=`<b>ων (οἱ)</b> = <i>lat</i>. Teutones, les Teutons, <i>pple de Germanie,</i> PLUT. <i>Mar. 11, 15, etc</i>.`

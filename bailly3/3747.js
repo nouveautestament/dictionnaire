@@ -1,0 +1,1 @@
+lar[3747]=`<b>ἀκρό·βλαστος, ος, ον</b>, dont le germe se développe à l’extrémité supérieure, TH. <i>H.P. 1, 14, 2</i>.<p><b>Étym</b>. ἄ. βλαστάνω.`

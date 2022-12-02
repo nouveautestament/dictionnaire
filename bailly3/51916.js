@@ -1,0 +1,1 @@
+lar[51916]=`<b>ῶν (αἱ)</b> Karrhæ, <i>v. de Mésopotamie,</i> PLUT. <i>Crass. 25, etc</i>.`

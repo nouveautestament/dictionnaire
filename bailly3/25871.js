@@ -1,0 +1,1 @@
+lar[25871]=`<b>ατος (τὸ)</b> séparation, cloison, barrière, THC. <i>1, 133</i> ; DS. <i>1, 33</i> ; HÉRON <i>Spir. 161</i> ; δ. τοῦ μυκτῆρος, ARSTT. <i>H.A. 1, 11, 8,</i> cloison <i>ou</i> cartilage qui sépare les narines ; <i>particul. t. de méd</i>. diaphragme, PLAT. <i>Tim. 70a, 84d ;</i> GAL. <i>8, 611 ; 9, 364</i> ; RUF. <i>p. 47</i>.<p><b>Étym</b>. διαφράσσω.`

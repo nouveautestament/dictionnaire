@@ -1,0 +1,1 @@
+lar[51372]=`<b>ου</b> <font color="purple">[ᾰᾰᾱ]</font> <i>adj. m.</i> : σῖτος, TH. <i>H.P. 8, 7, 4,</i> sorte de froment à grosse <i>ou</i> forte tige.<p><b>Étym</b>. κάμαξ.`

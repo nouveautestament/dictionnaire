@@ -1,0 +1,1 @@
+lar[23300]=`<b>δάσ·οφρυς</b>, <i>gén</i>. <b>-υος (ὁ, ἡ)</b> aux sourcils velus <i>ou</i> épais, ADAM. <i>Physiogn. 2, 26</i>.<p><b>Étym</b>. δασύς, ὀφρύς.`

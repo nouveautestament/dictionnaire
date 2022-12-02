@@ -1,0 +1,1 @@
+lar[30195]=`<b>ας (ἡ)</b> charge d’ethnarque, JOS. <i>A.J. 17, 13, 1</i>.<p><b>Étym</b>. ἐθνάρχης.`

@@ -1,0 +1,1 @@
+lar[64691]=`<b>εως (ἡ)</b> regret, repentir, HDT. <i>1, 87</i> ; DÉM. <i>1466, 23, etc</i>.<p><b>Étym</b>. μεταγιγνώσκω.`

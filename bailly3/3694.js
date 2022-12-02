@@ -1,0 +1,1 @@
+lar[3694]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> gouverneur, <i>litt</i>. surveillant exact, AQU. <i>Jud. 5, 14, etc</i>.<p><b>Étym</b>. ἀκριβάζω.`

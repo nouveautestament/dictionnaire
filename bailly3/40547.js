@@ -1,0 +1,1 @@
+lar[40547]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> gardien d’une résidence, ATH. <i>267c</i>.<p><b>Étym</b>. ἕρκος.`

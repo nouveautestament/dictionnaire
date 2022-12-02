@@ -1,0 +1,1 @@
+lar[52500]=`<b>*κατα·κεαίνω</b> (<i>seul. inf. ao</i>. κατακεῆναι) briser, rompre, EL. <i>N.A. 14, 8, conj</i>.`

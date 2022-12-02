@@ -1,0 +1,1 @@
+lar[42548]=`<b>ἐϋ·κτυπέων, έουσα, έον</b> <font color="purple">[ῠπ]</font> qui résonne fortement, Q. SM. <i>5, 21</i>.<p><b>Étym</b>. εὖ, κτυπέω.`

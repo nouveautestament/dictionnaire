@@ -1,0 +1,1 @@
+lar[96327]=`<b>ατος (τὸ) :<br>      1</b> matière provenant d’un corps en décomposition, ARSTT. <i>Probl. 5, 32, Somn. 8, etc.</i> ; GAL. <i>6, 99</i>.<br><b>      2</b> décomposition, dissolution, ARSTT. <i>G.A. 1, 18, 19, etc</i>.<p><b>Étym</b>. συντήκω.`

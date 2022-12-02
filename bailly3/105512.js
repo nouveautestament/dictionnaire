@@ -1,0 +1,1 @@
+lar[105512]=`<b>φιλαρχέω-ῶ</b> <font color="purple">[ῐ]</font> aimer le pouvoir, POL. <i>6, 9, 6</i> ; DS. <i>15, 5</i> ; PLUT. <i>Cato mi. 44</i>.<p><b>Étym</b>. φίλαρχος.`

@@ -1,0 +1,1 @@
+lar[36307]=`<b>ἐξ·ώπιος, ος, ον</b>, hors de la portée de la vue, éloigné de, <i>gén., mot employé par</i> EUR. <i>Alc. 546, Med. 624, Suppl. 1038, et ridiculisé par</i> AR. <i>Th. 881</i>.<p><b>Étym</b>. ἐξ, ὤψ.`

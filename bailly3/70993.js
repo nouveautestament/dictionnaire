@@ -1,0 +1,1 @@
+lar[70993]=`<b>ὀλιγ·ήριος, ος, ον</b> <font color="purple">[ῐγ]</font> petit, ANTH. <i>7, 656</i>.<p><b>Étym</b>. <i>cf</i>. ὀλιγήρης.`

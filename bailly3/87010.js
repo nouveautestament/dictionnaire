@@ -1,0 +1,1 @@
+lar[87010]=`<i>vb. de</i> προχειρίζω NICOM. <i>Arithm. 96</i>.`

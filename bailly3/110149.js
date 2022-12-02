@@ -1,0 +1,1 @@
+lar[110149]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vers l’Océan, dans l’Océan, HH. <i>Merc. 68,</i> HH. <i>31, 16</i>.<p><b>Étym</b>. Ὠκεανός, -δε.`

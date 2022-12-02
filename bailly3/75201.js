@@ -1,0 +1,1 @@
+lar[75201]=`<font color="purple">[τᾰ]</font> <i>adv.</i> :<br><b>      1</b> <i>c</i>. πανταχοῖ THC. <i>7, 42</i> ; PLAT. <i>Rsp. 539e.</i><br><b>      2</b> <i>irrég. c</i>. πανταχοῦ, PLUT. <i>Agis 14</i>.<p><b>Étym</b>. π. -χοσε.`

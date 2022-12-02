@@ -1,0 +1,1 @@
+lar[60988]=`<b>λιγύ·μολπος, ος, ον</b> <font color="purple">[ῐῠ]</font> aux chants mélodieux, HH. <i>18, 19</i>.<p><b>Étym</b>. λ. μολπή.`

@@ -1,0 +1,1 @@
+lar[62915]=`<b>μαργόομαι-οῦμαι</b>, <i>c</i>. μαργάω (<i>seul. part. prés</i>. PD. <i>N. 9, 19, et part. pf</i>. μεμαργωμένος, ESCHL. <i>Suppl. 758</i>).`

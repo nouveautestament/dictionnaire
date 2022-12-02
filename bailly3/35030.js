@@ -1,0 +1,1 @@
+lar[35030]=`<b>ας (ἡ)</b> état complet, achèvement, perfection, DYSC. <i>Synt. 187</i>.<p><b>Étym</b>. ἐντελής.`

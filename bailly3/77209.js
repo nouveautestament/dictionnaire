@@ -1,0 +1,1 @@
+lar[77209]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> <i>sorte de plante, p.-ê</i>. polycarpe à quatre feuilles, DIOSC. <i>4, 54</i>.<p><b>Étym</b>. π. ὄνυξ.`

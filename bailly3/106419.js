@@ -1,0 +1,1 @@
+lar[106419]=`<b>φλογ·ωπός, ός, όν</b>, qui a l’aspect de la flamme, ardent, ESCHL. <i>Pr. 253, 498</i>.<p><b>Étym</b>. φλ. ὤψ.`

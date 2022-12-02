@@ -1,0 +1,1 @@
+lar[14683]=`<b>ου (ὁ)</b> Aristinos, <i>h</i>. PLUT. <i>Qu. rom. 5</i>.`

@@ -1,0 +1,1 @@
+lar[44898]=`<b>ων (τὰ)</b> <i>s.-e</i>. ἱερά, sacrifice aux dieux conducteurs, XÉN. <i>An. 4, 8, 25</i>.<p><b>Étym</b>. ἡγεμών.`

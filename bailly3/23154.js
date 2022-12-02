@@ -1,0 +1,1 @@
+lar[23154]=`<b>δάμν·ιππος, ος, ον</b>, qui dompte les chevaux, ORPH. <i>Arg. 738</i>.<p><b>Étym</b>. δάμνημι, ἵ.`

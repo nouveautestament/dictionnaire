@@ -1,0 +1,1 @@
+lar[14542]=`(ὁ νομός) le nome Arthriditès, <i>en Égypte,</i> ARSTT. <i>Œc. 2</i>.`

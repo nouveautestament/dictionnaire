@@ -1,0 +1,1 @@
+lar[106571]=`<b>φοινικό·πεδος, ος, ον</b> <font color="purple">[ῑ]</font> au sol d’un rouge vif, ESCHL. <i>fr. 192</i>.<p><b>Étym</b>. φ. πέδον.`

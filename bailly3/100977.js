@@ -1,0 +1,1 @@
+lar[100977]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> construction en pierres de taille, EUR. <i>Tr. 812, fr. 124, 3</i> ; LYC. <i>349</i>.<p><b>Étym</b>. τυκίζω.`

@@ -1,0 +1,1 @@
+lar[44438]=`<b>ζεί·δωρος, ος, ον :<br>      1</b> qui procure de l’épeautre, <i>d’où</i> fécond, IL. <i>2, 548</i> ; OD. <i>3, 3</i> ; NONN. <i>D. 26, 185 ; avec le gén</i>. ANTH. <i>9, 4</i>.<br><b>      2</b> <i>p. confus. avec</i> ζάω, qui donne la vie (Aphrodite) EMPÉD. (PLUT. <i>M. 756e</i>).<p><b>Étym</b>. ζειά, δωρέομαι.`

@@ -1,0 +1,1 @@
+lar[8878]=`<b>ἀνθ·οπλίζω</b> <font color="darkgreen">(<i>ao</i>. ἀνθώπλισα, <i>pf. pass</i>. ἀνθώπλισμαι)</font> armer de son côté <i>ou</i> en face de, XÉN. <i>Œc. 8, 12</i> ; LUC. <i>Am. 9</i>.<br><b><i>Moy.</i></b> s’armer de son côté, XÉN. <i>Hell. 6, 5, 7</i>.<p><b>Étym</b>. ἀντί, ὁ.`

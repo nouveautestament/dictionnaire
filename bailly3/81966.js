@@ -1,0 +1,1 @@
+lar[81966]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> abondance de fruits, XÉN. <i>Mem. 3, 14, 3</i> ; TH. <i>H.P. 9, 2, 4</i>.<p><b>Étym</b>. πολύκαρπος.`

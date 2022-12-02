@@ -1,0 +1,1 @@
+lar[48342]=`<b>ας (ἡ)</b> l’Ibérie :<br><b>      1</b> <i>partie est de l’Espagne, des Colonnes d’Hercule aux Pyrénées,</i> HDT. <i>1, 163</i> ; THC. <i>6, 2, etc.</i><br><b>      2</b> <i>contrée entre la mer Noire et la mer Caspienne,</i> PLUT. <i>Pomp. 38</i> ; LUC. <i>H. conscr. 29, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.<p><b>Étym</b>. Ἴβηρ.`

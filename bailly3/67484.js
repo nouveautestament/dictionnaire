@@ -1,0 +1,1 @@
+lar[67484]=`<b>ας (ἡ)</b> courte vue, myopie, P. ÉG.<p><b>Étym</b>. μύωψ.`

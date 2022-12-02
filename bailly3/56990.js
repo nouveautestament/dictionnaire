@@ -1,0 +1,1 @@
+lar[56990]=`<b>ου</b>, <i>adj. m</i>. de Koptos, ANTH. <i>2, 1</i>.<p><b>Étym</b>. Κοπτός.`

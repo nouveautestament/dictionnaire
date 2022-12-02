@@ -1,0 +1,1 @@
+lar[51162]=`<b>Καλλι·μένης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Kalliménès, <i>h</i>. ANTH. <i>6, 62, etc</i>.<p><b>Étym</b>. κ. μένος.`

@@ -1,0 +1,1 @@
+lar[76547]=`<b>εως (ἡ) :<br>      1</b> action d’entreprendre après un autre, CLÉM. <i>2, 265, 544 Migne</i>.<br><b>      2</b> <i>particul</i>. action de reprendre pour son compte un sujet traité par autrui, CIC. <i>Att. 15, 4, 3</i>.<p><b>Étym</b>. παρεγχειρέω.`

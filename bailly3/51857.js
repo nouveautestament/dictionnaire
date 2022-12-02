@@ -1,0 +1,1 @@
+lar[51857]=`<b>α, ον</b> <font color="purple">[πᾰ]</font> <i>c</i>. καρπάσινος PAUS. <i>1, 26, 7</i>.`

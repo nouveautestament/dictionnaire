@@ -1,0 +1,1 @@
+lar[42355]=`<b>εὐ·κάθεκτος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à contenir, à diriger, XÉN. <i>Cyr. 7, 5, 69, au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. εὖ, κατέχω.`

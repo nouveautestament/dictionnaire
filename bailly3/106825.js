@@ -1,0 +1,1 @@
+lar[106825]=`<b>φρεατο·τύπανον, ου (τὸ)</b> <font color="purple">[ᾱῠᾰ]</font> instrument (<i>p.-ê</i>. roue) pour tirer de l’eau d’un puits, POL. <i>Fr. gr. 135</i>.<p><b>Étym</b>. φρέαρ, τύπανον.`

@@ -1,0 +1,1 @@
+lar[56058]=`<b>ης, ες</b> <font color="purple">[ῑᾰ]</font> semblable à une échelle, à des degrés, STR. <i>536</i>.<p><b>Étym</b>. κλῖμαξ, -ωδης.`

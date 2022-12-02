@@ -1,0 +1,1 @@
+lar[109867]=`couler <i>en parl. de la fleur ou du fruit de la vigne,</i> TH. <i>H.P. 4, 14, 6</i>.<p><b>Étym</b>. ψίω.`

@@ -1,0 +1,1 @@
+lar[16361]=`<b>ἀστυγειτονέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> habiter dans le voisinage, ESCHL. <i>Suppl. 286</i>.<p><b>Étym</b>. ἀστυγείτων.`

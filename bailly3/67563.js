@@ -1,0 +1,1 @@
+lar[67563]=`<b>ιδος (ὁ)</b> Nabis, <i>tyran de Lacédémone,</i> PLUT. <i>Phil. 12, etc</i>.`

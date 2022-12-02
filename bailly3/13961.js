@@ -1,0 +1,1 @@
+lar[13961]=`<b>ἀ·πρόσκοπος, ος, ον :<br>      1</b> qui n’aperçoit pas <i>ou</i> ne voit pas clairement, ESCHL. <i>Eum. 105</i>.<br><b>      2</b> non exploré (chemin) SPT. <i>Sir. 35, 21</i>.<p><b>Étym</b>. ἀ, προσκέπτομαι.`

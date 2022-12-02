@@ -1,0 +1,1 @@
+lar[14284]=`<i>adv</i>., d’Argos, SOPH. <i>Ant. 106</i> ; EUR. <i>I.T. 70</i>.<p><b>Étym</b>. Ἄργος, -θεν.`

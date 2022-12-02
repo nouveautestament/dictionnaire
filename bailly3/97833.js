@@ -1,0 +1,1 @@
+lar[97833]=`<b>ταὐτο·ποιέω-ῶ</b>, faire la même chose, ARSTT. <i>Nic. 1, 12, 3</i>.<p><b>Étym</b>. ταὐτό, ποιέω.`

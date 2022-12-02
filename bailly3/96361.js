@@ -1,0 +1,1 @@
+lar[96361]=`<b>συν·τραγῳδέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> jouer la tragédie ensemble, PLUT. <i>Them. 24, Nic. 5</i> ; LUC. <i>Alex. 12</i>.<br><b>      2</b> jouer d’accord avec, <i>dat</i>. PLUT. <i>M. 771a</i>.`

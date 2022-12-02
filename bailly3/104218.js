@@ -1,0 +1,1 @@
+lar[104218]=`<b>ὑπό·ψυχρος, ος, ον</b>, un peu froid, HPC. <i>Epid. 1, 954 ; fig</i>. PHILSTR. <i>Gymn. p. 4 Kays</i>.`

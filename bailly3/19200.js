@@ -1,0 +1,1 @@
+lar[19200]=`<b>βαρυ·σκίπων, ωνος (ὁ, ἡ)</b> <font color="purple">[ᾰῑ]</font> à la lourde massue (Hèraklès) CALL. <i>fr. 120</i>.`

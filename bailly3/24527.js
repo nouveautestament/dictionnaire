@@ -1,0 +1,1 @@
+lar[24527]=`<b>δια·γώνιος, ος, ον</b> <font color="purple">[ᾰ]</font> diagonal ; <i>subst</i>. ἡ δ. (<i>s.-e</i>. γραμμή) ligne en diagonale, diagonale, A. QUINT. <i>p. 118</i>.<p><b>Étym</b>. διά, γωνία.`

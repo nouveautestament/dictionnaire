@@ -1,0 +1,1 @@
+lar[10561]=`<b>ἀντι·φιλοτιμέομαι-οῦμαι</b> <font color="purple">[ῐῐῑ]</font> rivaliser : πρός τι, DH. <i>6, 96</i> ; PLUT. <i>Per. 14,</i> pour qqe ch.<p>➳ <i>Pl.q.pf. 3 sg</i>. ἀντεπεφιλοτίμητο, DC. <i>59, 19</i>.`

@@ -1,0 +1,1 @@
+lar[31662]=`<b>ατος (τὸ)</b> action d’enivrer, NAZ. <i>2, 239a</i>.<p><b>Étym</b>. ἐκμεθύσκω.`

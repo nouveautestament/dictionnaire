@@ -1,0 +1,1 @@
+lar[74974]=`<b>παν·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui a <i>ou</i> prend toutes les formes, THEOL. <i>4</i>.<p><b>Étym</b>. π. εἶδος.`

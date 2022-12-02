@@ -1,0 +1,1 @@
+lar[10215]=`<b>ἀντι·παρήκω</b>, s’étendre <i>ou</i> s’avancer parallèlement à, <i>dat</i>. ARSTT. <i>Mund. 310</i> ; PAUS. <i>8, 10, 6</i>.`

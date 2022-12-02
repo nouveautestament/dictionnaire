@@ -1,0 +1,1 @@
+lar[42918]=`<b>Εὐ·πάλαμος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Eupalamos, <i>h</i>. ANTH. <i>12, 91 ; App. 34</i>.<p><b>Étym</b>. <i>cf</i>. εὐπάλαμος.`

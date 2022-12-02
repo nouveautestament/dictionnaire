@@ -1,0 +1,1 @@
+lar[56476]=`<b>κοινό·δικος, ος, ον</b> <font color="purple">[ῐ]</font> qui a des droits communs, ORACL. (PHLÉG. TR. <i>Op. p. 144).</i><p><b>Étym</b>. κοινός, δίκη.`

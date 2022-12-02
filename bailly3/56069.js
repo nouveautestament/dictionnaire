@@ -1,0 +1,1 @@
+lar[56069]=`<b>ή, όν</b> <font color="purple">[ῑν]</font> qui concerne le lit, <i>d’où</i> :<br><b>      1</b> ὁ κλ. médecin qui visite des malades alités, ANTH. <i>11, 113</i> ; MART. <i>9, 97</i>.<br><b>      2</b> <i>p. suite,</i> ἡ κλινική (<i>s.-e</i>. τέχνη) PLIN. <i>H.N. 29, 1,</i> soins du médecin à un malade alité.<p><b>Étym</b>. κλίνη.`

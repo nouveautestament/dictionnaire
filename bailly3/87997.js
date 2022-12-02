@@ -1,0 +1,1 @@
+lar[87997]=`<b>πυρρ·οπίπης, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui guette les blonds, <i>avec jeu de mots sur</i> πυροπίπης, AR. <i>Eq. 407</i>.<p><b>Étym</b>. π. ὀπιπεύω.`

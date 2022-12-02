@@ -1,0 +1,1 @@
+lar[75406]=`<b>ή, όν</b>, qu’on peut comparer, comparable, PORPH. <i>Qu. Hom. 16</i>.<p><b>Étym</b>. παραβλητός.`

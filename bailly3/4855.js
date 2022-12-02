@@ -1,0 +1,1 @@
+lar[4855]=`<b>ατος (τὸ) :<br>      1</b> saut, bond, OD. <i>8, 103, 128</i> ; ἄ. πέτρας <i>ou</i> πετραῖον, EUR. <i>H.f. 1148, Ion 1268,</i> chute du haut d’un rocher ; κοῦφον ἅ. ποδῶν, EUR. <i>El. 439</i> (Achille) aux bonds légers.<br><b>      2</b> palpitation, battement de cœur, HPC. <i>269, 7 ; 382, 45</i>.<p><b>Étym</b>. ἅλλομαι.`

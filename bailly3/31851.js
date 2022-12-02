@@ -1,0 +1,1 @@
+lar[31851]=`<b>ἐκπικρόω-ῶ</b>, rendre très amer, <i>d’où au pass</i>. devenir très amer, HPC. <i>Aph. 1249b ;</i> ARSTT. <i>Probl. 4, 29</i> ; TH. <i>C.P. 4, 2, 1 ; 6, 7, 5</i>.<p><b>Étym</b>. ἔκπικρος.`

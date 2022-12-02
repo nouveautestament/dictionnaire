@@ -1,0 +1,1 @@
+lar[51317]=`<b>ης (ἡ)</b> Kalpè (<i>auj</i>. Kirpeh) <i>port de Bithynie,</i> XÉN. <i>An. 6, 2, 13 et 17</i>.`

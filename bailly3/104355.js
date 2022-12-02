@@ -1,0 +1,1 @@
+lar[104355]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> tisserand, PLAT. <i>Phæd. 87b, Rsp. 369d, etc</i>. ARSTT. <i>Pol. 1, 3, 1</i> ; PLUT. <i>M. 156b</i>.<p><b>Étym</b>. ὑφαίνω.`

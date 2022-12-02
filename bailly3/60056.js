@@ -1,0 +1,1 @@
+lar[60056]=`<b>εως (ἡ)</b> action de laper, ARSTT. <i>H.A. 8, 6, 1</i>.<p><b>Étym</b>. λάπτω.`

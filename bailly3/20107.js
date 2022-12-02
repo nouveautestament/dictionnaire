@@ -1,0 +1,1 @@
+lar[20107]=`<b>(ὁ)</b> Bokkhoris (Bocchoris), <i>roi d’Égypte</i>.<p>➳ <i>Gén</i>. -ιδος, DS. <i>1, 45, 79</i> ; PLUT., <i>ou</i> -εως, LYSIM. (JOS. <i>c. Ap. 1, 34</i>) ; PLUT. <i>Acc</i>. -ιν, DS. <i>95</i> ; ATH. <i>418e ; etc</i>.<p><b>Étym</b>. <i>Cf</i>. βόκχωρις.`

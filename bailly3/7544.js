@@ -1,0 +1,1 @@
+lar[7544]=`<b>ἀνα·ρράπτω</b>, recoudre, raccommoder, GAL. <i>6, 21, 23</i>.<p><b>Étym</b>. ἀνά, ῥάπτω.`

@@ -1,0 +1,1 @@
+lar[31621]=`<b>ου (ὁ)</b> compte rendu, ESCHL. <i>fr. 215</i>.<p><b>Étym</b>. ἐκλέγω.`

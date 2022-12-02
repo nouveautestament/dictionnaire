@@ -1,0 +1,1 @@
+lar[12930]=`<b>ἀπο·μωρόω-ῶ</b>, rendre tout à fait fou, <i>d’où, au pass</i>. déraisonner, AÉT. <i>6, 16, 13</i>.`

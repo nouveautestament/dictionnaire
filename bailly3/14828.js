@@ -1,0 +1,1 @@
+lar[14828]=`<b>ή, όν</b>, arctique, septentrional, ARSTT. <i>Mund. 2, 5</i> ; POL. (STR. <i>96).</i><p>•<i> Cp</i>. -ώτερος, STR. <i>7 ; • Sup</i>. -ώτατος, STR. <i>3</i>.<p><b>Étym</b>. ἄρκτος.`

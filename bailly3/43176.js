@@ -1,0 +1,1 @@
+lar[43176]=`<b>ή, όν</b>, inventif : τινος, PLAT. <i>Rsp. 455b ;</i> πρός τι, DS. <i>3, 69,</i> en qqe ch.<p>•<i> Cp</i>. -ώτερος, PLAT. <i>Pol. 286e, 287a</i>.<p><b>Étym</b>. εὑρετός.`

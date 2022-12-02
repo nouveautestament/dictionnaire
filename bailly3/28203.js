@@ -1,0 +1,1 @@
+lar[28203]=`<b>δυσ·αντοφθάλμητος, ος, ον</b> <font color="purple">[ῠ]</font> qu’on ne peut regarder en face sans danger, POL. <i>23, 8, 13</i>.<p><b>Étym</b>. δ. ἀντοφθαλμέω.`

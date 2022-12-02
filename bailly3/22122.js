@@ -1,0 +1,1 @@
+lar[22122]=`<b>γλοιο·ποιέω-ῶ</b>, rendre gluant, <i>d’où</i> rendre adhérent, DIOSC. <i>Parab. 1, 2</i>.<p><b>Étym</b>. γλοιά.`

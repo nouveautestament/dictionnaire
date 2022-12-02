@@ -1,0 +1,1 @@
+lar[85963]=`<b>προσ·καταπλήσσω</b>, effrayer en outre <i>ou</i> encore plus, DC. <i>38, 4 ; 39, 44</i>.`

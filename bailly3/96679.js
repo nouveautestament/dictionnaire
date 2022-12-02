@@ -1,0 +1,1 @@
+lar[96679]=`<b>συ·στεγνόω-ῶ</b>, fixer avec, HÉRON <i>Spir. p. 156, etc</i>.`

@@ -1,0 +1,1 @@
+lar[15083]=`<b>υος (ἡ)</b> union, amour, PARTH. (EM. <i>148, 34).</i><p><b>Étym</b>. <i>éol. c</i>. ἄρτυς.`

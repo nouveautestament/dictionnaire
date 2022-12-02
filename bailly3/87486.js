@@ -1,0 +1,1 @@
+lar[87486]=`<b>πτωχο·τρόφος, ος, ον</b>, qui nourrit les mendiants, les pauvres, NAZ. <i>3, 389 Migne</i>.<p><b>Étym</b>. πτωχός, τρέφω.`

@@ -1,0 +1,1 @@
+lar[71952]=`<b>ὀνο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font>, à tête d’âne, ORIG. <i>c. Cels. 6, p. 300</i>.<p><b>Étym</b>. ὄν. κεφαλή.`

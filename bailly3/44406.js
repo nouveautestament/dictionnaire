@@ -1,0 +1,1 @@
+lar[44406]=`<b>(ὁ)</b> le Zapatas (<i>auj</i>. Grand Zab) <i>fl. d’Assyrie, affluent du Tigre,</i> XÉN. <i>An. 2, 5, 1 ; 3, 3, 6</i>.`

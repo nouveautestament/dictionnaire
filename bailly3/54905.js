@@ -1,0 +1,1 @@
+lar[54905]=`<b>κεραυνο·φαής, ής, ές</b>, brillant comme la foudre, EUR. <i>Tr. 1103</i>.<p><b>Étym</b>. κεραυνός, φάος.`

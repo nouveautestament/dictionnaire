@@ -1,0 +1,1 @@
+lar[98686]=`<b>τετρά·στοος, οος, οον</b>, entouré de quatre galeries couvertes, ZOS. <i>3, 31, 2</i>.<p><b>Étym</b>. τ. στοά.`

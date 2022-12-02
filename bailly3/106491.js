@@ -1,0 +1,1 @@
+lar[106491]=`<b>φοβεσι·στράτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> qui fait fuir <i>ou</i> qui épouvante les armées, <i>ép. d’Athèna,</i> AR. <i>Eq. 1177</i>.<p><b>Étym</b>. φοβέω, στρατός.`

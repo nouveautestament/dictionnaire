@@ -1,0 +1,1 @@
+lar[5038]=`<b>ἀ·λυσιτελής, ής, ές</b> <font color="purple">[ῡῐ]</font> désavantageux, XÉN. <i>Mem. 1, 7, 4, etc.</i> ; PLAT. <i>Crat. 417d, etc</i>.<p>•<i> Sup</i>. -έστατος, ESCHN. <i>15, 8</i>.`

@@ -1,0 +1,1 @@
+lar[57651]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> propre à dominer, à l’emporter, PLAT. <i>Def. 414a.</i><br><b>      2</b> propre à retenir, à comprimer, <i>gén</i>. PLAT. <i>Def. 414a</i>.<p><b>Étym</b>. κρατέω.`

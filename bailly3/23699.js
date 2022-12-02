@@ -1,0 +1,1 @@
+lar[23699]=`<b>δέκ·αρχος, ου (ὁ) :<br>      1</b> décemvir, <i>à Rome,</i> DH. <i>2, 14</i>.<br><b>      2</b> décurion, SPT. <i>Deut. 1, 15</i>.<p><i>cf</i>. δεκάρχης.`

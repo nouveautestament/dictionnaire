@@ -1,0 +1,1 @@
+lar[10374]=`<i>adv</i>., avec des forces contrebalancées, à forces égales, XÉN. <i>Hell. 1, 36</i>.`

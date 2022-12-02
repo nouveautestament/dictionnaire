@@ -1,0 +1,1 @@
+lar[37440]=`<b>ἐπιγειό·φυλλος, ος, ον</b>, dont les feuilles touchent à terre, TH. <i>H.P. 8, 9, 9</i>.<p><b>Étym</b>. ἐπίγειος, φύλλον.`

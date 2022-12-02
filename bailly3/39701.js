@@ -1,0 +1,1 @@
+lar[39701]=`<b>ἐπί·χνοος-ους, οος-ους, οον-ουν</b>, couvert de laine <i>ou</i> de duvet ; <i>subst</i>. ὁ ἐπ. chassie <i>ou</i> saleté qui recouvre les yeux, HPC. <i>Coac. 208</i>.`

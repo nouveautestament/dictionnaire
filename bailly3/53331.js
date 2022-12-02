@@ -1,0 +1,1 @@
+lar[53331]=`<b>κατα·σκαριφάω-ῶ</b> <font color="purple">[ᾰρῑ]</font> égratigner, écorcher, ATH. <i>507d</i>.`

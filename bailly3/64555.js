@@ -1,0 +1,1 @@
+lar[64555]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. habitant <i>ou</i> originaire de la Mésopotamie, LUC. <i>H. conscr. 24</i>.<p><b>Étym</b>. Μεσοποταμία.`

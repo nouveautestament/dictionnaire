@@ -1,0 +1,1 @@
+lar[42081]=`<b>εὔ·ζωμον, ου (τὸ)</b> roquette (<i>Brassica eruca</i>. L.) (<i>litt</i>. qui donne un bon jus) <i>plante,</i> TH. <i>H.P. 7, 1, 2 ; C.P. 2, 5, 3</i> ; GAL. <i>3, 86</i> ; EL. <i>N.A. 6, 46</i> ; DIOSC. <i>2, 169</i>.<p><b>Étym</b>. εὖ, ζωμός.`

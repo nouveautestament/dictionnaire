@@ -1,0 +1,1 @@
+lar[48069]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., en forme de frange, EL. <i>N.A. 16, 11</i>.<p><b>Étym</b>. θύσανος, -δον.`

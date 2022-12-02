@@ -1,0 +1,1 @@
+lar[51146]=`<b>ου (ὁ)</b> <font color="purple">[ᾰτ]</font> Kallikratidas, <i>Spartiate,</i> XÉN. <i>Hell. 1, 6, 1</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Καλλικράτης.`

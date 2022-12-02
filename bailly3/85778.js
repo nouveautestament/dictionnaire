@@ -1,0 +1,1 @@
+lar[85778]=`<b>*προσερπύζω</b> (<i>seul. ao</i>. προσείρπυσα) <font color="purple">[ῠ]</font> <i>c</i>. προσέρπω EL. <i>N.A. 2, 3</i> ; PLUT. <i>Pyrrh. 3, etc</i>.`

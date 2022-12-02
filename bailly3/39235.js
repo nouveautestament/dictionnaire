@@ -1,0 +1,1 @@
+lar[39235]=`<b>ἐπι·συνέχω</b>, conserver : γυναῖκα, SPT. <i>1Esdr. 9, 17,</i> garder pour femme.`

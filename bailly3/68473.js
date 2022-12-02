@@ -1,0 +1,1 @@
+lar[68473]=`<b>ας (ἡ)</b> action de faire une révolution, THC. <i>1, 102</i>.<p><b>Étym</b>. νεωτεροποιός.`

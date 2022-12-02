@@ -1,0 +1,1 @@
+lar[89322]=`<b>ου (ὁ)</b> Sannos, <i>n. de chien,</i> EL. <i>N.A. 11, 13</i>.<p><b>Étym</b>. σαίνω.`

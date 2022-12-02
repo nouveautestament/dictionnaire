@@ -1,0 +1,1 @@
+lar[102155]=`<b>ὑπ·εκφεύγω :<br>      1 <i>intr.</i></b> s’enfuir secrètement, IL. <i>8, 243, etc.</i> ; OD. <i>23, 320 ; cf. en prose,</i> PLAT. <i>Euthyd. 291b.</i><br><b>      2</b> échapper à, <i>acc</i>. IL. <i>6, 57 ; 16, 687, etc.</i> ; SOPH. <i>Ant. 776</i> ; EUR. <i>Suppl. 565</i> ; THC. <i>2, 90 et 91</i>.`

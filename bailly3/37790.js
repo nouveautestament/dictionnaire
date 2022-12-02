@@ -1,0 +1,1 @@
+lar[37790]=`<b>ἐπι·θερμαίνω</b>, échauffer, <i>d’où au pass</i>. s’échauffer, s’enflammer, HPC. <i>Epid. 1, 938 ; cf. 3, 1112</i>.`

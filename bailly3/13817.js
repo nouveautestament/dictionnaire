@@ -1,0 +1,1 @@
+lar[13817]=`<b>ἀπο·χυλόω-ῶ</b> <font color="purple">[ῡ]</font> <i>c</i>. ἀποχυλίζω, HPC. <i>de Morb. mul. 2</i>.`

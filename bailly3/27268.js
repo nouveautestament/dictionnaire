@@ -1,0 +1,1 @@
+lar[27268]=`<b>α, ον</b>, de la valeur de deux oboles, GAL. <i>13, 551, etc.</i> ; A. TR. <i>8, 447, etc</i>.<p><b>Étym</b>. διωβολία.`

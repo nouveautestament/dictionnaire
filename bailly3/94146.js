@@ -1,0 +1,1 @@
+lar[94146]=`<b>συμ·πατριώτης, ου (ὁ)</b> compatriote, <i>seul. en parl. d’étrangers ou d’esclaves,</i> ARCHIPP. (<i>Com. fr. 2, 728</i>) ; LUC. <i>Sol. 5</i>.`

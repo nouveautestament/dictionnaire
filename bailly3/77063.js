@@ -1,0 +1,1 @@
+lar[77063]=`<b>εως (ἡ)</b> ressemblance de mots qui se correspondent au commencement <i>ou</i> à la fin de deux membres de phrase consécutifs, ARSTT. <i>Rhet. 3, 9, 9, etc.</i> ; DH. <i>Lys. 14, etc</i>.<p><b>Étym</b>. παρομοιόω.`

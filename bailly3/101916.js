@@ -1,0 +1,1 @@
+lar[101916]=`<b>(ὁ)</b> Hypakyris, <i>fl. de la Sarmatie d’Europe,</i> HDT. <i>4, 47, etc</i>.`

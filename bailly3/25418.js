@@ -1,0 +1,1 @@
+lar[25418]=`<b>δια·πωρόομαι-οῦμαι</b> (<i>seul. prés</i>.) se durcir en cal, former un cal, HPC. <i>866e</i>.`

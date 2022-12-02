@@ -1,0 +1,1 @@
+lar[32425]=`<b>ἐκ·ψύχω</b> <font color="purple">[ῡ]</font> rendre par expiration, expirer, HPC. <i>447, 51 ; d’où</i> mourir, JAMBL. (PHOT. <i>Bibl. 74, 31 Bkk</i>.) ; NT. <i>Ap. 5, 5 et 10 ; 12, 23</i>.`

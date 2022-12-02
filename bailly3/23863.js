@@ -1,0 +1,1 @@
+lar[23863]=`<b>ας (ἡ)</b> action de dévaster un pays en coupant les arbres, SYN. <i>63c ; d’où</i> dévastation, <i>en gén</i>. PHIL. <i>2, 401</i>.<p><b>Étym</b>. δενδροτόμος.`

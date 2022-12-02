@@ -1,0 +1,1 @@
+lar[35883]=`<b>οῦ (ὁ)</b> action de se rendre favorable, NICOM. <i>Harm. p. 28</i>.<p><b>Étym</b>. ἐξευμενίζω.`

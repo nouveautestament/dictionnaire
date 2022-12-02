@@ -1,0 +1,1 @@
+lar[94790]=`<b>συν·ανέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> συνανῆλθον, <i>épq</i>. συνανήλυθον <font color="purple">[λῠ]</font>) :</font><br><b>      1</b> monter avec <i>ou</i> ensemble, ARAT. <i>561</i>.<br><b>      2</b> revenir <i>ou</i> retourner avec, <i>dat</i>. A.RH. <i>2, 913</i>.`

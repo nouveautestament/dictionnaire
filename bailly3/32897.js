@@ -1,0 +1,1 @@
+lar[32897]=`<b>ἐλ·λαιμαργέω-ῶ</b>, avaler gloutonnement, être glouton, NYSS. <i>5, 188a Migne</i>.<p><b>Étym</b>. ἐν, λ.`

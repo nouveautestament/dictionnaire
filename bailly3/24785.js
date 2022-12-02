@@ -1,0 +1,1 @@
+lar[24785]=`<b>δια·κλιμακίζω</b> <font color="purple">[κλῑᾰ]</font> (<i>seul. ao. part</i>. -ίσας) essayer de renverser par un croc-en-jambe, PLAT. COM. <i>2-2, 656, 2 Mein</i>.`

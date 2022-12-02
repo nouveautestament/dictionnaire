@@ -1,0 +1,1 @@
+lar[92225]=`<b>σταφυλο·κλοπίδης, ου (ὁ)</b> <font color="purple">[ᾰῠῐ]</font> voleur de raisins, ANTH. <i>9, 348</i>.<p><b>Étym</b>. στ. κλοπή.`

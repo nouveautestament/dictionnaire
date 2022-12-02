@@ -1,0 +1,1 @@
+lar[101601]=`<b>ὑδρο·χαμαίμηλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> infusion de camomille, A. TR. <i>12, p. 735</i>.<p><b>Étym</b>. ὕδ. χ.`

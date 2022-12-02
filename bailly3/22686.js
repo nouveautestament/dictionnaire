@@ -1,0 +1,1 @@
+lar[22686]=`<b>ος, ον</b> <font color="purple">[ῡᾰ]</font> courbé par l’âge, ANT. (HARP.).<p><b>Étym</b>. γρυπός.`

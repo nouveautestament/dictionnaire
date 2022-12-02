@@ -1,0 +1,1 @@
+lar[31947]=`<b>ἐκ·προθρῴσκω</b> (<i>seul. part. ao.2</i> προθορών) s’élancer en avant, ORPH. <i>Arg. 344</i> ; MAN. <i>6, 33</i>.`

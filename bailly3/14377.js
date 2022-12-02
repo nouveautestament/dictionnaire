@@ -1,0 +1,1 @@
+lar[14377]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Argyphéè, <i>v. d’Élide,</i> HH. <i>Ap. 422</i>.<p><b>Étym</b>. ἀργύφεος.`

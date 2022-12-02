@@ -1,0 +1,1 @@
+lar[77325]=`<b>ατος (τὸ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> objet de rebut, déjection, GEOP. <i>20, 46, 2 ; en parl. de pers</i>. SPT. <i>Ezech. 33, 19</i>.<br><b>      2</b> état d’une chose <i>ou</i> d’une personne foulée aux pieds, ARÉT. <i>Caus. m. diut. 2, 12</i>.<p><b>Étym</b>. πατέω.`

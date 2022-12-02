@@ -1,0 +1,1 @@
+lar[100215]=`<b>ας (ἡ)</b> durée de trois jours, SPT. <i>Amos 4, 4</i>.<p><b>Étym</b>. τριήμερος.`

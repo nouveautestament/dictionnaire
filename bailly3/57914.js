@@ -1,0 +1,1 @@
+lar[57914]=`<b>ης (ἡ)</b> Krithôtè, <i>v. sur l’Hellespont, postér. appelée</i> Καλλίπολις, ISOCR. <i>Antid. p. 446, 447 Bkk.</i> ; DÉM. <i>672, 20, etc</i>.`

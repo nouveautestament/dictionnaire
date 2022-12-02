@@ -1,0 +1,1 @@
+lar[38892]=`<b>ἐπι·ρρητορεύω :<br>      1</b> introduire en déclamant comme un rhéteur, <i>acc</i>. ATH. <i>590e.</i><br><b>      2</b> <i>en gén</i>. débiter sur un ton de rhéteur, déclamer : τί τινι, LUC. <i>H. conscr. 26,</i> qqe ch. sur qqn ; κατά τινος, A. TAT. <i>8, 8,</i> contre qqn.<p><b>Étym</b>. ἐπί, ῥητορεύω.`

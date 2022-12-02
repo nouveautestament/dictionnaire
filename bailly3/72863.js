@@ -1,0 +1,1 @@
+lar[72863]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> file, rangée, série de choses attachées ensemble, OD. <i>24, 8</i> ; AR. <i>Ran. 914, etc.</i> ; XÉN. <i>Cyr. 6, 3, 2</i> ; PLAT. <i>Ion 533e, etc</i>.<p><b>Étym</b>. ὅρμος.`

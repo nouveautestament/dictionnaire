@@ -1,0 +1,1 @@
+lar[34326]=`<b>(οἱ, αἱ, τὰ)</b> <i>indécl</i>. quatre-vingt-dix, IL. <i>2, 602, etc.</i> ; CIA. <i>1, 273, f, 40 (pas av. 420 av. J.-C. ; v. Meisterh. p. 125, 6).</i><p>➳ <i>Épq</i>. ἐννήκοντα, OD. <i>19, 174</i>.<p><b>Étym</b>. ἐννέα.`

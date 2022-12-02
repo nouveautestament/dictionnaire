@@ -1,0 +1,1 @@
+lar[65764]=`<b>ας (ἡ)</b> faiblesse de voix, ARSTT. <i>G.A. 5, 7, 7</i>.<p><b>Étym</b>. μικρόφωνος.`

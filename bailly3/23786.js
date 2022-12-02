@@ -1,0 +1,1 @@
+lar[23786]=`<b>ου (ὁ)</b> = <i>lat</i>. Dellius, <i>n. romain,</i> PLUT. <i>Ant. 25, 59</i> ; DC. <i>etc</i>.`

@@ -1,0 +1,1 @@
+lar[31865]=`<b>ἔκ·πλεως, ως, ων :<br>      1</b> tout plein de, <i>gén</i>. EUR. <i>Cycl. 247, 416</i>.<br><b>      2</b> complet, XÉN. <i>Cyr. 6, 2, 7</i>.<br><b>      3</b> abondant, XÉN. <i>Cyr. 1, 6, 7</i>.<p><b>Étym</b>. <i>cf</i>. ἔκπλεος.`

@@ -1,0 +1,1 @@
+lar[68889]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme les nomades, STR. <i>75 et 513</i> (νομαδικός).<p><b>Étym</b>. Νομαδία.`

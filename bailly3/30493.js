@@ -1,0 +1,1 @@
+lar[30493]=`être hilote, servir comme hilote, ISOCR. <i>67e, 412d</i>.<p><b>Étym</b>. εἵλως.`

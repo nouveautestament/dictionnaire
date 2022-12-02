@@ -1,0 +1,1 @@
+lar[14643]=`<b>ἀρίστ·αθλος, ος, ον</b> <font color="purple">[ᾰρ]</font> qui l’emporte dans la lutte, A. PL. <i>94</i>.<p><b>Étym</b>. ἄ. ἆθλον.`

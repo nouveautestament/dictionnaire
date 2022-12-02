@@ -1,0 +1,1 @@
+lar[46498]=`<i>neutre ou acc. masc. de</i> θεῖος¹.`

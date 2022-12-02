@@ -1,0 +1,1 @@
+lar[85386]=`<b>πρόσ·δενδρος, ος, ον</b>, qui se trouve sur un arbre, TH. <i>C.P. 2, 18, 2</i>.<p><b>Étym</b>. π. δένδρον.`

@@ -1,0 +1,1 @@
+lar[72455]=`<b>ος, ον</b>, propre à être rôti, EUB. (ATH. <i>369c</i>).<p><b>Étym</b>. ὀπτάω.`

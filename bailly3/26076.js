@@ -1,0 +1,1 @@
+lar[26076]=`<b>ας (ἡ)</b> dissidence, dissentiment, ARSTT. <i>H.A. 9, 1, 10</i>.<p><b>Étym</b>. δίεδρος.`

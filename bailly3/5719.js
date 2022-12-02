@@ -1,0 +1,1 @@
+lar[5719]=`<font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀμοιβαδίς T. LOCR. <i>98e ;</i> A.RH. <i>2, 1226</i>.`

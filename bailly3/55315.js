@@ -1,0 +1,1 @@
+lar[55315]=`<b>εως (ἡ) :<br>      1</b> action de publier par la voix du héraut, DC. <i>63, 8</i>.<br><b>      2</b> prédication, CLÉM. <i>Str. 7, 9, 52</i>.<p><b>Étym</b>. κηρύσσω.`

@@ -1,0 +1,1 @@
+lar[95948]=`<b>συν·θεωρέω-ῶ :<br>      1</b> contempler ensemble, ARSTT. <i>P.A. 1, 5, 5, etc.</i><br><b>      2</b> faire partie d’une députation de théores avec, <i>dat</i>. AR. <i>Vesp. 1187 ; abs</i>. LYS. <i>112, 35</i> ; ARSTT. <i>Eud. 7, 12, 24</i>.<p><b>Étym</b>. σύν, θεωρέω 2.`

@@ -1,0 +1,1 @@
+lar[37862]=`<b>ἐπι·ΐστωρ, ορος (ὁ, ἡ) :<br>      1</b> confident <i>ou</i> complice de, <i>gén</i>. OD. <i>21, 26 (sel. d’autres,</i> qui a conscience de, <i>d’où</i> auteur de).<br><b>      2</b> instruit de, <i>gén</i>. A.RH. <i>4, 89</i> ; ANTH. <i>11, 371</i>.<p><b>Étym</b>. ἐπί, ἵστωρ.`

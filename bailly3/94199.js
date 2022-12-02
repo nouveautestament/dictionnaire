@@ -1,0 +1,1 @@
+lar[94199]=`<b>συμ·περιπέτομαι</b> (<i>seul. prés</i>.) voler tout autour de, <i>dat</i>. THÉM. <i>233a</i>.`

@@ -1,0 +1,1 @@
+lar[51645]=`<b>Καπν·οσφράντης, ου (ὁ)</b> Flaire-la-fumée, <i>n. de parasite,</i> ALCIPHR. <i>3, 49</i>.<p><b>Étym</b>. κ. ὀσφραίνομαι.`

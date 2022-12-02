@@ -1,0 +1,1 @@
+lar[27354]=`<b>ῆνος (ὁ)</b> clou, furoncle, HPC. <i>51, 39 ; 526, 17</i> ; TÉLÉCL. <i>et</i> HERMIPP. (<i>Com. fr. 2, 373 et 390</i>) ; AR. <i>Vesp. 1172</i> ; DIOSC. <i>1, 184</i> ; P. ÉG. <i>4, 23</i>.`

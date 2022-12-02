@@ -1,0 +1,1 @@
+lar[49616]=`<b>ἰσο·γράφος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> exactement transcrit, <i>d’où fig</i>. écrit d’après, copié sur, <i>dat</i>. TIMON (DL. <i>3, 7).</i><p><b>Étym</b>. ἴ. γράφω.`

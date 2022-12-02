@@ -1,0 +1,1 @@
+lar[86224]=`<b>προσ·ορέγω</b>, tendre à, <i>dat</i>. CRATÈS <i>Epist. 22</i>.<br><b><i>Moy.</i></b> tendre les mains vers, presser vivement, <i>dat</i>. HDT. <i>7, 6</i>.`

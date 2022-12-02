@@ -1,0 +1,1 @@
+lar[33375]=`<b>εως (ἡ)</b> observation d’une parole donnée, DH. <i>5, 10</i>.<p><b>Étym</b>. ἐμπεδόω.`

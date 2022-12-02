@@ -1,0 +1,1 @@
+lar[94388]=`<b>ος, ον</b>, plié ensemble <i>ou</i> replié sur soi-même, PHÉRÉCR. (<i>Com. fr. 2, 283).</i><p><b>Étym</b>. συμπτύσσω.`

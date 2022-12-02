@@ -1,0 +1,1 @@
+lar[70369]=`<b>οῦ (ὁ) :<br>      1</b> <i>c</i>. οἰκιστήρ, HDT. <i>4, 159</i> ; THC. <i>1, 24, etc.</i> ; PLAT. <i>Rsp. 379a, etc.</i> ; ISOCR. <i>133a, etc.</i><br><b>      2</b> οἱ οἰκ. APP. <i>Civ. 1, 24, traduct. du lat</i>. triumviri coloniæ deducendæ.`

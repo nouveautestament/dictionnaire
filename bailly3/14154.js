@@ -1,0 +1,1 @@
+lar[14154]=`<b>ου (ὁ)</b> l’Araros, <i>affluent de l’Ister,</i> HDT. <i>4, 48</i>.`

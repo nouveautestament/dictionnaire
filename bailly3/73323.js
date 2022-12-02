@@ -1,0 +1,1 @@
+lar[73323]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui ressemble à une coquille <i>ou</i> à de la terre cuite, ARSTT. <i>H.A. 4, 2 et 7</i> ; TH. <i>H.P. 1, 11, 3 etc</i>.<p><b>Étym</b>. ὄστρακον, -ωδης.`

@@ -1,0 +1,1 @@
+lar[31182]=`<b>ἔκ·δημος, ος, ον</b>, qui s’absente <i>ou</i> est absent de son pays, XÉN. <i>Cyr. 8, 5, 12</i> ; EUR. <i>Andr. 880 ; avec le gén</i>. EUR. <i>Hipp. 281</i> ; ἔξοδος ἔκδ. THC. <i>2, 10, etc</i>. expédition au dehors.<p><b>Étym</b>. ἐκ, δῆμος.`

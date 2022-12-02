@@ -1,0 +1,1 @@
+lar[52328]=`<font color="purple">[ῐ]</font> <i>vb. de</i> καταδικάζω CLÉM. <i>950</i>.`

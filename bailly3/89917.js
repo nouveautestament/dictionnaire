@@ -1,0 +1,1 @@
+lar[89917]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> servante pour l’intérieur de la maison, AR. <i>Vesp. 768</i> ; PHÉRÉCR. (<i>Com. fr. 2, 254).</i><p><b>Étym</b>. σηκός.`

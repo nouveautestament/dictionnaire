@@ -1,0 +1,1 @@
+lar[42013]=`<b>εὐ·επίβουλος, ος, ον</b>, habile à dresser des embûches, PTOL. <i>Tetr. p. 162, 1 ; 163, 11</i>.<p><b>Étym</b>. εὖ, ἐπιβουλεύω.`

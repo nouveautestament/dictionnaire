@@ -1,0 +1,1 @@
+lar[83882]=`<b>προ·δείδω</b> <font color="darkgreen">(<i>ao</i>. προέδεισα)</font> craindre d’avance, SOPH. <i>O.R. 90</i>.`

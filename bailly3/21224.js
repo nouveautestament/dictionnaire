@@ -1,0 +1,1 @@
+lar[21224]=`<b>Γαλαξ·αύρη, ης (ἡ)</b> <font color="purple">[γᾰ]</font> Galaxaurè, <i>litt</i>. au souffle doux comme le lait, <i>Océanide,</i> HH. <i>Cer. 424</i> ; HÉS. <i>Th. 353</i>.<p><b>Étym</b>. γάλα, αὔρα.`

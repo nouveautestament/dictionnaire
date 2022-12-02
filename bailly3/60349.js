@@ -1,0 +1,1 @@
+lar[60349]=`<b>ης, ες</b>, <i>c</i>. λεοντοειδής, PLAT. <i>Rsp. 590a ;</i> ARSTT. <i>Pol. 8, 4</i> ; PLUT. <i>Alex. 2, etc.</i> ; τὸ λεοντῶδες, PLUT. <i>Fab. 1,</i> nature de lion, <i>joint à</i> τὸ μεγαλόψυχον.<p><b>Étym</b>. λέων, -ωδης.`

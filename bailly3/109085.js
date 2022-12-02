@@ -1,0 +1,1 @@
+lar[109085]=`<b>χρυσ·αορεύς, έως</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. à l’épée <i>ou</i> au glaive d’or, <i>ép. de Zeus, chez les Cariens,</i> STR. <i>660 ; p. suite,</i> Χρυσαορικὸν σύστημα, STR. <i>660,</i> l’ensemble des lieux sacrés autour du temple de Zeus.<p><b>Étym</b>. χρ. ἀείρω ; <i>cf</i>. χρυσάορος.`

@@ -1,0 +1,1 @@
+lar[3615]=`<b>α, ον</b>, <i>vb. de</i> ἀκούω, SOPH. <i>El. 340 ; neutre sg</i>. ἀκουστέον, SOPH. <i>O.R. 1170</i> ; EUR. <i>I.A. 1010</i> ; PLAT. <i>Rsp. 386a, etc., et plur</i>. ἀκουστέα, HDT. <i>3, 61</i>.`

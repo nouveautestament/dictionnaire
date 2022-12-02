@@ -1,0 +1,1 @@
+lar[44164]=`(<i>seul. prés</i>.) s’endormir sur, <i>dat</i>. JUL. <i>Ep. 15</i>.<p><b>Étym</b>. ἐφυπνόω.`

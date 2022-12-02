@@ -1,0 +1,1 @@
+lar[66893]=`<b>ου (τὸ)</b> collyre pour les yeux, A. TR. <i>2, p. 129</i>.<p><b>Étym</b>. μοῦσα.`

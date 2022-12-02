@@ -1,0 +1,1 @@
+lar[107084]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῠᾰῐδ]</font> la fille de Phylakos, <i>càd</i>. Alkimédè, A.RH. <i>1, 47</i>.`

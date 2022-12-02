@@ -1,0 +1,1 @@
+lar[17752]=`<b>αὐτο·φόνος, ος, ον</b>, qui se tue <i>ou</i> tue les siens de sa main, ESCHL. <i>Sept. 850 ; Ag. 1091, en parl. de la main même qui tue,</i> ANTH. <i>7, 149</i>.<p><b>Étym</b>. αὐ. φόνος.`

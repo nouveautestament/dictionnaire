@@ -1,0 +1,1 @@
+lar[90955]=`<b>Σκιράδιον ἄκρον (τὸ)</b> Skiradion, <i>promont. de l’Attique en face de Salamine,</i> PLUT. <i>Sol. 9</i>.`

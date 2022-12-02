@@ -1,0 +1,1 @@
+lar[29724]=`<b>ἐγ·κορδυλέω-ῶ</b> <font color="purple">[ῠ]</font> envelopper de couvertures, AR. <i>Nub. 10</i>.<p><b>Étym</b>. ἐν, κορδύλη.`

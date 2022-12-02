@@ -1,0 +1,1 @@
+lar[98441]=`<b>τεσσαρακοντα·ετής, ής, ές</b> <font color="purple">[ᾰᾰᾰ]</font> de quarante ans, HÉS. <i>O. 439</i>.<p><b>Étym</b>. τ. ἔτος.`

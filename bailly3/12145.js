@@ -1,0 +1,1 @@
+lar[12145]=`<b>ἀπο·βλίττω</b> <font color="darkgreen">(<i>ao</i>. ἀπέβλισα)</font> exprimer, faire sortir en pressant, AR. <i>Av. 498</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. ἀπεβλισάμην)</font> <i>m. sign</i>. ANTH. <i>7, 34</i>.`

@@ -1,0 +1,1 @@
+lar[80970]=`<b>ου</b>, <i>adj. m.</i> :<br><b>      1</b> qui aime à frapper, à se battre, batailleur, ARSTT. <i>Eud. 2, 3, 12</i> ; PLUT. <i>Dio. 30, etc.</i><br><b>      2</b> qui frappe, <i>en parl. des rayons du soleil,</i> PLUT. <i>M. 920c ; du vin,</i> PLUT. <i>M. 653f</i>.<p><b>Étym</b>. πλήσσω.`

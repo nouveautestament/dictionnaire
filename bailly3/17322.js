@@ -1,0 +1,1 @@
+lar[17322]=`<b>αὐτ·ανεψιά, ᾶς (ἡ)</b> <font color="purple">[ᾰν]</font> cousine germaine, LYC. <i>811</i>.<p><b>Étym</b>. <i>fém. de</i> αὐτανεψιός.`

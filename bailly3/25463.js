@@ -1,0 +1,1 @@
+lar[25463]=`<b>εως (ἡ)</b> <font color="purple">[ρῑ]</font> perforation avec la lime, ORIB. <i>161, 16 Cocch</i>.`

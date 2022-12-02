@@ -1,0 +1,1 @@
+lar[60476]=`<b>ου (ὁ)</b> Lernos, <i>h</i>. A.RH. <i>1, 135, etc.</i> ; ORPH. <i>Arg. 211</i>.`

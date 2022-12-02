@@ -1,0 +1,1 @@
+lar[20671]=`<i>adv</i>., en venant de Braurôn, DÉM. PLUT.<p><b>Étym</b>. βραυρών, -θεν.`

@@ -1,0 +1,1 @@
+lar[98153]=`<b>α (ὁ)</b> <font color="purple">[ᾰᾱ, ᾱ]</font> Télésiadas, <i>Thébain,</i> PD. <i>I. 3, 63</i>.<p><b>Étym</b>. Τελεσίας.`

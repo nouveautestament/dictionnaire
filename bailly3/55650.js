@@ -1,0 +1,1 @@
+lar[55650]=`<b>κισσόω-ῶ</b>, couronner de lierre, EUR. <i>Bacch. 205</i> ; ALCIPHR. <i>2, 3</i>.<p><b>Étym</b>. κισσός.`

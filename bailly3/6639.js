@@ -1,0 +1,1 @@
+lar[6639]=`<b>ή, όν :<br>      1</b> habile à lire, ARSTT. <i>Rhet. 3, 12, 2</i>.<br><b>      2</b> qui aime à lire, PLUT. <i>M. 514a ;</i> ARR. <i>Epict. 2, 18, 2</i>.`

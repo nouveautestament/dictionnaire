@@ -1,0 +1,1 @@
+lar[92416]=`<b>ας (ἡ)</b> stéréométrie, <i>mensuration des corps solides,</i> ARSTT. <i>An. post. 1, 13, 7</i>.<p><b>Étym</b>. στερεομέτρης.`

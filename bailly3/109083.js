@@ -1,0 +1,1 @@
+lar[109083]=`<b>(ὁ)</b> Khrysantas, <i>Perse,</i> XÉN. <i>Cyr. 2, 2, 17, etc.</i> ; PLUT. <i>Pel. c. Marc. 3, etc</i>.`

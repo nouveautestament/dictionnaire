@@ -1,0 +1,1 @@
+lar[63154]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vainement, inutilement, SOPH. <i>Tr. 940</i> ; PLAT. <i>Ep. 331d</i>.<p><b>Étym</b>. μάταιος.`

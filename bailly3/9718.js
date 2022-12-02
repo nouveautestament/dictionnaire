@@ -1,0 +1,1 @@
+lar[9718]=`<b>ἀντ·εφεστιάω-ῶ</b>, traiter <i>ou</i> régaler à son tour, PLAT. <i>Tim. 17b conj.</i> ; PHILSTR. <i>573</i> ; EL. <i>N.A. 9, 45 ; 15, 7</i>.`

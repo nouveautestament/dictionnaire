@@ -1,0 +1,1 @@
+lar[28792]=`<b>δυσπενθέω-ῶ</b>, être vivement affligé, PLUT. <i>M. 106a</i>.<p><b>Étym</b>. δυσπενθής.`

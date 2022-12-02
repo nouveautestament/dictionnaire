@@ -1,0 +1,1 @@
+lar[47156]=`<b>ῆρος (ὁ)</b> qui regarde avec admiration, <i>gén</i>. OD. <i>21, 397 (sel. d’autres</i> θηρητήρ) ; PÉRICT. (STOB. <i>Fl. 85, 19).</i><p><b>Étym</b>. θηέομαι.`

@@ -1,0 +1,1 @@
+lar[83425]=`<font color="darkgreen">(<i>f. moy. 3 sg</i>. πριεῖται)</font> <i>c</i>. πρίω, PLAT. <i>Theag. 124a ;</i> PLUT. <i>M. 1099c</i>.`

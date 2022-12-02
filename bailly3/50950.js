@@ -1,0 +1,1 @@
+lar[50950]=`<b>καλαθο·ειδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui a la forme d’une corbeille, CLÉOM. <i>p. 115</i>.<p><b>Étym</b>. κ. εἶδος.`

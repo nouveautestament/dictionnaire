@@ -1,0 +1,1 @@
+lar[57407]=`<b>ος, ον</b>, de jeune fille, de jeune femme, HH. <i>Cer. 108</i>.<p><b>Étym</b>. κουρή.`

@@ -1,0 +1,1 @@
+lar[74803]=`<b>πάν·αβρος, ος, ον</b> <font color="purple">[ᾰν]</font> tout à fait efféminé, LUC. <i>Rh. præc. 11</i>.<p><b>Étym</b>. π. ἁβρός.`

@@ -1,0 +1,1 @@
+lar[53699]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de planter, SPT. <i>Jer. 38, 22</i> ; CLÉM. <i>p. 277</i>.<p><b>Étym</b>. καταφυτεύω.`

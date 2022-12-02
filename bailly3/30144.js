@@ -1,0 +1,1 @@
+lar[30144]=`<b>ας (ἡ)</b> esclavage volontaire, PLAT. <i>Conv. 184c ;</i> LUC. <i>Nigr. 23, M. cond. 5</i>.<p><b>Étym</b>. ἐθελόδουλος.`

@@ -1,0 +1,1 @@
+lar[41873]=`<b>εὐ·διάπνευστος, ος, ον :<br>      1</b> qui s’évapore facilement, TH. <i>Od. 39</i> ; ATH. <i>26e.</i><br><b>      2</b> qui facilite la transpiration, ATH. MÉD. <i>227 Matthäi</i>.<p><b>Étym</b>. εὖ, διαπνέω.`

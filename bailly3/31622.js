@@ -1,0 +1,1 @@
+lar[31622]=`<b>ος, ον</b>, hors de compte, <i>d’où</i> choisi, supérieur, PHIL. <i>2, 479</i>.<p><b>Étym</b>. ἐκλέγω.`

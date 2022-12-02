@@ -1,0 +1,1 @@
+lar[76595]=`<b>παρ·εισπέμπω</b>, envoyer secrètement, PLUT. <i>M. 760b ;</i> JOS. <i>B.J. 5, 3, 1</i>.`

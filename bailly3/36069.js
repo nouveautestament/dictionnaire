@@ -1,0 +1,1 @@
+lar[36069]=`<b>ἐξ·οδυνάω-ῶ</b>, faire souffrir, EUR. <i>Cycl. 661</i>.`

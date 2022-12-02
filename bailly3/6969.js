@@ -1,0 +1,1 @@
+lar[6969]=`<b>ἀνα·κοινωνέομαι-οῦμαι</b>, se mettre en communication avec, PLUT. <i>Brut. 12</i>.`

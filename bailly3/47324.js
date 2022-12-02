@@ -1,0 +1,1 @@
+lar[47324]=`<b>θηρό·πλαστος, ος, ον</b>, façonné en forme d’animal, LYC. <i>673</i>.<p><b>Étym</b>. θ, πλαστός.`

@@ -1,0 +1,1 @@
+lar[70604]=`<b>οἰνό·χυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. qui se compose de vin qu’on verse, SOPH. <i>Ph. 715</i>.<br><b>      2</b> <i>act</i>. qui verse du vin, NONN. <i>D. 13, 256</i>.<p><b>Étym</b>. οἶν. χυτός.`

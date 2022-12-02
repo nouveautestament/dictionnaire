@@ -1,0 +1,1 @@
+lar[69654]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> action de ramasser du bois, STR. <i>538</i> ; DH. <i>5, 41</i>.<p><b>Étym</b>. ξυλίζομαι.`

@@ -1,0 +1,1 @@
+lar[14524]=`<b>*ἀρητήριον</b>, <i>seul</i>. <b>ἀρατήριον, ου (τὸ)</b> <font color="purple">[ᾱᾱ]</font> lieu de prières, <i>lieu d’Attique,</i> PLUT. <i>Thes. 35</i>.<p><b>Étym</b>. ἀράομαι.`

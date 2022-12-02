@@ -1,0 +1,1 @@
+lar[56820]=`<b>ή, όν :<br>      1</b> qui concerne la parure, LUC. <i>Am. 9</i> ; ἡ κομμωτική (<i>s.-e</i>. τέχνη) PLAT. <i>Gorg. 463b, 465b</i>, l’art de parer avec recherche, de farder, de pomponner.<br><b>      2</b> orné, prétentieux, <i>en parl. du style,</i> HERMOG. <i>π. ἰδ. p. 305 et 353</i>.<p><b>Étym</b>. κομμόω.`

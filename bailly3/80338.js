@@ -1,0 +1,1 @@
+lar[80338]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐᾰῐδ]</font><br><b>      1</b> tablette pour écrire, MACH. (ATH. <i>582c</i>) ; PLUT. <i>M. 47e ; au plur</i>. réunion de tablettes, ouvrage manuscrit, ARR. <i>Epict. 1, 10, 5</i>.<br><b>      2</b> sorte de danse, ATH. <i>629f, etc</i>.<p><b>Étym</b>. πίναξ.`

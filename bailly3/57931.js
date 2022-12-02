@@ -1,0 +1,1 @@
+lar[57931]=`<b>ου</b> <font color="purple">[νῑ]</font> <i>adj. m</i>. fait de farine d’orge <i>ou</i> de grosse farine, ATH. <i>646a</i>.<p><b>Étym</b>. κρῖμνον.`

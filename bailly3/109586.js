@@ -1,0 +1,1 @@
+lar[109586]=`<i>vb. de</i> ψαύω, ANTYLL. (ORIB. <i>2, 436 B.-Dar</i>.).`

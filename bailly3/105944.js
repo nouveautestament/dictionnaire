@@ -1,0 +1,1 @@
+lar[105944]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font><br><b>      1</b> amour des Muses, <i>càd</i>. des lettres, des arts, PLUT. <i>M. 283b.</i><br><b>      2</b> amour de la musique, LUC. <i>D. mar. 82, etc</i>.<p><b>Étym</b>. φιλόμουσος.`

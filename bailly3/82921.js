@@ -1,0 +1,1 @@
+lar[82921]=`<b>ωνος (ὁ) :<br>      1</b> dont le membre viril est gros <i>ou</i> fort, LUC. <i>Lex. 12</i>.<br><b>      2</b> jeune garçon vigoureux, AR. <i>Pax 1300</i>.<p><b>Étym</b>. πόσθη.`

@@ -1,0 +1,1 @@
+lar[109040]=`<b>χριστο·φόρος, ος, ον :<br>      1</b> qui a produit <i>ou</i> vu naître le Christ, <i>en parl. de Bethléem,</i> ANTH. <i>8, 21</i>.<br><b>      2</b> qui honore le Christ, ANTH. <i>8, 29</i>.<p><b>Étym</b>. Χριστός, φέρω.`

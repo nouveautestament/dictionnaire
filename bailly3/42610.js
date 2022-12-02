@@ -1,0 +1,1 @@
+lar[42610]=`<b>εὔ·λογχος, ος, ον</b>, bien partagé du sort, heureux, DÉMOCR. (PLUT. <i>M. 419a</i>) ; PLUT. <i>Æmil. 1</i>.<p><b>Étym</b>. εὖ, λαγχάνω.`

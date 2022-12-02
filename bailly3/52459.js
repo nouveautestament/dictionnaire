@@ -1,0 +1,1 @@
+lar[52459]=`<b>κατ·αίσιος, ος, ον</b>, qui achève régulièrement sa destinée, <i>d’où</i> juste, régulier, convenable, ESCHL. <i>Ag. 1598</i>.<p><b>Étym</b>. κ. αἴσιος.`

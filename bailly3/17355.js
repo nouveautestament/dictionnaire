@@ -1,0 +1,1 @@
+lar[17355]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art du pouvoir absolu, PLAT. <i>Pol. 260e</i>.<p><b>Étym</b>. αὐτεπιτάκτης.`

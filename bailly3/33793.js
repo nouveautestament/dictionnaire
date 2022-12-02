@@ -1,0 +1,1 @@
+lar[33793]=`<b>ἐν·αδημονέω-ῶ</b> <font color="purple">[ᾰ]</font> se laisser abattre par la douleur dans, <i>dat</i>. JOS. <i>A.J. 15, 7, 7</i>.`

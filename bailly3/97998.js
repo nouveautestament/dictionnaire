@@ -1,0 +1,1 @@
+lar[97998]=`<b>οῦ (ὁ)</b> sensation douloureuse dans les intestins, HPC. <i>Aph. 1259 ; Epid. 1, 943</i>.<p><b>Étym</b>. τείνω.`

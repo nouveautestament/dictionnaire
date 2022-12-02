@@ -1,0 +1,1 @@
+lar[31892]=`<b>εως (ἡ)</b> expiration, ARSTT. <i>H.A. 1, 9, 4</i>.<p><b>Étym</b>. ἐκπνέω.`

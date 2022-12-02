@@ -1,0 +1,1 @@
+lar[69352]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. νωχελής, <i>au cp</i>. -έστερος, ANDROCYD. (CLÉM. <i>Str. 7, 33</i>).`

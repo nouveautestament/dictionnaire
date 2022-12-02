@@ -1,0 +1,1 @@
+lar[22897]=`<b>εως (ἡ)</b> courbure en forme d’angle, angle, GAL.<p><b>Étym</b>. γωνιόω.`

@@ -1,0 +1,1 @@
+lar[35881]=`<b>ἐξ·ευμαρίζω</b> <font color="purple">[ᾰ]</font> faciliter, alléger, EUR. <i>H.f. 18</i> ; PHIL. <i>V. Mos. 1, etc.</i><br><b><i>Moy.</i></b> faciliter, préparer, EUR. <i>H.f. 81</i>.<p><b>Étym</b>. ἐξ, εὐμαρής.`

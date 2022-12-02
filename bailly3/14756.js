@@ -1,0 +1,1 @@
+lar[14756]=`<b>ἀριστο·τόκεια, ας (ἡ)</b> <font color="purple">[ᾰ]</font> qui enfante les plus nobles fils, THCR. <i>Idyl. 24, 72</i> ; TRIPHIOD. <i>401</i>.<p><b>Étym</b>. ἄ. τοκεύς.`

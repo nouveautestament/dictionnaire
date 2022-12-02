@@ -1,0 +1,1 @@
+lar[71873]=`<b>ὀνειρό·μαντις, εως (ὁ)</b> qui prédit l’avenir d’après les songes, ESCHL. <i>Ch. 31</i>.<p><b>Étym</b>. ὄνειρος, μάντις.`

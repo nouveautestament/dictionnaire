@@ -1,0 +1,1 @@
+lar[17697]=`<b>αὐτο·σταδίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. μάχη, <i>seul. au dat</i>. combat corps à corps, IL. <i>13, 325</i>.<p><b>Étym</b>. αὐ. ἵστημι.`

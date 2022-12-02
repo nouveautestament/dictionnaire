@@ -1,0 +1,1 @@
+lar[71797]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Omphalè (Omphale), <i>reine de Lydie,</i> SOPH. <i>Tr. 252, 356</i> ; PLUT. <i>Thes. 6, etc</i>.<p><b>Étym</b>. ὀμφαλός.`

@@ -1,0 +1,1 @@
+lar[49365]=`<b>ἱππό·κρημνος, ος, ον</b>, haut perché sur un cheval, <i>fig</i>. emphatique, AR. <i>Ran. 929</i>.<p><b>Étym</b>. ἵ. κρημνός.`

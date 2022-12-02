@@ -1,0 +1,1 @@
+lar[88422]=`<b>ης (ἡ)</b> Rhègistè, <i>lieu d’Attique,</i> PLUT. <i>Gen. Socr. 11</i>.`

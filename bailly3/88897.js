@@ -1,0 +1,1 @@
+lar[88897]=`<font color="purple">[ῠ]</font> (<i>act. seul. prés. épq</i>. ῥυπόω, <i>et impf</i>. ἐρρύπων) être sale, malpropre.<p>➳ <i>Act. prés. épq</i>. ῥυπόω, OD. <i>6, 87 ; 19, 72 ; 23, 115 ; impf</i>. ἐρρύπων, AR. <i>Av. 1282</i>.<p><b>Étym</b>. ῥύπος.`

@@ -1,0 +1,1 @@
+lar[31475]=`<b>ἐκ·κομψεύομαι</b> (<i>pf. 2 sg</i>. ἐκκεκόμψευσαι) exprimer avec grâce <i>ou</i> éloquence, EUR. <i>I.A. 333</i>.`

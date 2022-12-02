@@ -1,0 +1,1 @@
+lar[94671]=`<b>συν·αμάομαι-ῶμαι</b> <font color="purple">[ᾰμ]</font> recueillir, réunir, A.RH. <i>3, 154</i>.`

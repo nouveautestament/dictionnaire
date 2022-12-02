@@ -1,0 +1,1 @@
+lar[62053]=`<b>Λυσ·ίππη, ης (ἡ)</b> <font color="purple">[ῡ]</font> Lysippè, <i>f</i>. ANTH. <i>9, 351</i> ; PLUT. <i>M. 1156a, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Λύσιππος.`

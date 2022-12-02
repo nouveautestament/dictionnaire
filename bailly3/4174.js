@@ -1,0 +1,1 @@
+lar[4174]=`<b>ἄ·λειπτος, ος, ον</b>, non laissé en arrière, non distancé, invincible (athlète) D. CHRYS. <i>290, 41</i>.<p><b>Étym</b>. ἀ, λείπω.`

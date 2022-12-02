@@ -1,0 +1,1 @@
+lar[21785]=`<b>γερη·φορία, ας (ἡ)</b> obtention d’honneurs, <i>d’où</i> charge honorifique, dignité, DH. <i>2, 10</i>.<p><b>Étym</b>. γέρας, -φορος <i>de</i> φέρω.`

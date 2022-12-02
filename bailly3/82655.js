@@ -1,0 +1,1 @@
+lar[82655]=`<b>πομφολυγόω-ῶ</b> <font color="purple">[ῠ]</font> soulever en bulle légère, <i>acc</i>. ARSTT. <i>Probl. 23, 4, 3 ; au pass</i>. DIOSC. <i>5, 85</i>.<p><b>Étym</b>. πομφόλυξ.`

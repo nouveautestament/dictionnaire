@@ -1,0 +1,1 @@
+lar[102253]=`<i>adv</i>., d’une hauteur excessive : ζῆν, DÉM. <i>1415, 1,</i> vivre sur un trop grand pied, avec une excessive magnificence.`

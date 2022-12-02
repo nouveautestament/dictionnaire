@@ -1,0 +1,1 @@
+lar[55311]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> de la forme <i>ou</i> de la nature du coquillage appelé κῆρυξ, ARSTT. <i>H.A. 4, 2, 28</i>.<p><b>Étym</b>. κῆρυξ, -ωδης.`

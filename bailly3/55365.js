@@ -1,0 +1,1 @@
+lar[55365]=`<b>Κηφισό·δοτος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Kèphisodotos, <i>h</i>. XÉN. <i>Hell. 2, 1, 16, etc</i>.<p><b>Étym</b>. Κ. δίδωμι.`

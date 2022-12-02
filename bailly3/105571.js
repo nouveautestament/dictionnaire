@@ -1,0 +1,1 @@
+lar[105571]=`<b>φίλ·ερως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> enclin à l’amour, ANTH. <i>5, 171, 191</i> ; LUC. <i>Am. 12</i>.`

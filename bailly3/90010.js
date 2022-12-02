@@ -1,0 +1,1 @@
+lar[90010]=`<b>*σησαμό·παστος</b>, <i>dor</i>. <b>σασαμό·παστος, ος, ον</b> <font color="purple">[σᾱσᾰ]</font> saupoudré de grains de sésame, PHILOX. <i>3, 607 Bgk</i>.<p><b>Étym</b>. σήσαμον, πάσσω.`

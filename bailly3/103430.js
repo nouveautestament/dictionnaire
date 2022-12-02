@@ -1,0 +1,1 @@
+lar[103430]=`<b>ὑπο·κυάνεος, ος, ον</b> <font color="purple">[κῡᾰ]</font> bleuâtre, ALEX. MYND. (SCH.-THCR. <i>5, 96</i>).`

@@ -1,0 +1,1 @@
+lar[33640]=`<b>ἐμ·πύριος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ἔμπυρος, JAMBL. <i>Myst. 7, 2</i> ; PROCL. <i>Plat. Parm. 631 Stallb</i>.<p><b>Étym</b>. ἐν, πῦρ.`

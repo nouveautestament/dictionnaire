@@ -1,0 +1,1 @@
+lar[58371]=`<b>κυαν·ωπός, ός, όν</b> <font color="purple">[ῠᾰ]</font> d’aspect sombre, ANTH. <i>4, 3, 82</i>.<p><b>Étym</b>. κυανός², ὤψ.`

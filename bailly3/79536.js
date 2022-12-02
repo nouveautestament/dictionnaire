@@ -1,0 +1,1 @@
+lar[79536]=`<b>ου (τὸ)</b> trou dans lequel tourne l’essieu d’une roue, PAPPUS (<i>Math. 8, 482).</i><p><b>Étym</b>. περίτροχος.`

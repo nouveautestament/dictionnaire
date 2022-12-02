@@ -1,0 +1,1 @@
+lar[88210]=`<b>ικος (ὁ)</b> <font color="purple">[ᾱδῑκ]</font> branche, rameau, NIC. <i>Th. 378, 533</i> ; AL. <i>57, 331 ; en parl. du palmier,</i> DS. <i>2, 53</i>.<p><b>Étym</b>. <i>cf. lat</i>. rādīx.`

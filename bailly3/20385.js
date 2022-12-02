@@ -1,0 +1,1 @@
+lar[20385]=`<b>ου (ὁ)</b> <i>le mois béot</i>. Boukatios, <i>correspondant au mois att. Gamèliôn,</i> PLUT. <i>Pel. 25</i>.`

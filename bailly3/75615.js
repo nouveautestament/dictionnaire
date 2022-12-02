@@ -1,0 +1,1 @@
+lar[75615]=`<font color="purple">[βᾰ]</font> <i>adv</i>., en allant au delà de, <i>gén</i>. OPP. <i>C. 1, 484</i>.<p><b>Étym</b>. παραί, βαίνω, -δον.`

@@ -1,0 +1,1 @@
+lar[17662]=`<b>αὐτο·πρόσωπος, ος, ον</b>, qui se montre <i>ou</i> parle en face, <i>càd</i>. sans masque, <i>en parl. d’un acteur,</i> ATH. <i>452f ;</i> LUC. <i>Im. 3, etc</i>.<p><b>Étym</b>. αὐ. πρόσωπον.`

@@ -1,0 +1,1 @@
+lar[21913]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> joie, plaisir, IL. <i>21, 390 ; au plur</i>. HH. <i>Cer. 437</i>.<p>➳ <i>Dat. pl. épq</i>. γηθοσύνῃσι, A.RH. <i>2, 878 ; 4, 620</i>.<p><b>Étym</b>. γηθόσυνος.`

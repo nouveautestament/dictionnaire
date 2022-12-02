@@ -1,0 +1,1 @@
+lar[28839]=`<b>δυσπορέω-ῶ</b> (<i>part. prés. neutre</i> -οῦν) marcher avec peine, JOS. <i>B.J. 3, 62</i>.<p><b>Étym</b>. δύσπορος.`

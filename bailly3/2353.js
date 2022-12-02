@@ -1,0 +1,1 @@
+lar[2353]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, discret, réservé, XÉN. <i>Lac. 2, 10</i> ; ARSTT. <i>Nic. 2, 7, 14</i> ; EPICT. <i>Ench. 24, 3, etc.</i> ; ARR. <i>Epict. 1, 28, 23, etc</i>.<p>•<i> Cp</i>. -ονέστερος, XÉN. <i>l. c. ; 2, 14 ; 3, 5 ; Conv. 4, 15 ; • Sup</i>. -ονέστατος, XÉN. <i>An. 1, 9, 5</i>.<p><b>Étym</b>. αἰδέομαι.`

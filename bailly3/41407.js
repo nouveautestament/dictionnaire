@@ -1,0 +1,1 @@
+lar[41407]=`<b>ἑτερό·χρωμος, ος, ον</b>, de couleur différente, HIPPIATR. <i>p. 54, 31</i>.<p><b>Étym</b>. ἕ. χρῶμα.`

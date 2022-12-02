@@ -1,0 +1,1 @@
+lar[102338]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰ]</font> inversion, <i>fig. de rhét. ou t. de gramm</i>. DYSC. <i>Synt. 306, Pron. 54 (311</i>) ; DH. <i>Thuc. 31</i> ; LGN <i>22, 1</i> ; QUINT. <i>8, 6, 65</i>.<p><b>Étym</b>. <i>neutre de</i> ὑπερβατός.`

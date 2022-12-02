@@ -1,0 +1,1 @@
+lar[54178]=`<b>κατ·ορρωδέω-ῶ :<br>      1 <i>intr.</i></b> frissonner de peur, HDT. <i>6, 9</i> ; POL. <i>10, 3, 5, etc.</i><br><b>      2 <i>tr.</i></b> trembler devant, <i>acc</i>. HDT. <i>1, 34</i> ; POL. <i>14, 1, 5, etc</i>.<p>➳ <i>Ion</i>. καταρρωδέω, HDT. <i>ll. cc</i>.`

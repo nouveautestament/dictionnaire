@@ -1,0 +1,1 @@
+lar[1673]=`<b>ἀεί·λαλος, ος, ον</b> <font color="purple">[λᾰ]</font> qui babille sans cesse, ANTH. <i>5, 177</i>.<p><b>Étym</b>. ἀ. λαλέω.`

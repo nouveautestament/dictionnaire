@@ -1,0 +1,1 @@
+lar[51689]=`<b>*κάπω</b> (<i>seul. part. pf. épq</i>. κεκαφηώς) <font color="purple">[ᾰ]</font> expirant, <i>en parl. du souffle de la vie,</i> IL. <i>5, 698</i> ; OD. <i>5, 468 ; postér</i>. haletant, <i>en gén</i>. OPP. <i>H. 3, 113</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *keh₂b<sup>h</sup>-, se fatiguer, être épuisé, mourir.`

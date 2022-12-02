@@ -1,0 +1,1 @@
+lar[96002]=`<b>συν·ιερεύς, έως (ὁ)</b> collègue dans les fonctions de prêtre <i>ou</i> de prêtresse, PLUT. <i>Æmil. 3</i> ; DC. <i>40, 62</i>.<p><b>Étym</b>. σύν, ἱ.`

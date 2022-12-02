@@ -1,0 +1,1 @@
+lar[23240]=`<b>ῶν (αἱ)</b> insectes dévorants, <i>en parl. de mouches,</i> LYC. <i>1403</i>.<p><b>Étym</b>. δάπτω.`

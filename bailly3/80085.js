@@ -1,0 +1,1 @@
+lar[80085]=`<b>πηλό·πλαστος, ος, ον</b>, fait de limon <i>ou</i> d’argile, ESCHL. <i>fr. 373 Dind</i>.<p><b>Étym</b>. πηλός, πλαστός.`

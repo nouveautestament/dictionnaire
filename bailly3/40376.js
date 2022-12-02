@@ -1,0 +1,1 @@
+lar[40376]=`<b>ἐρημο·φίλας (ὁ)</b> <font color="purple">[ῐᾱ]</font> <i>adj. m. dor</i>. qui aime la solitude, ANTH. <i>9, 396</i> ; A. PL. <i>256</i>.<p><b>Étym</b>. ἔρημος, φίλος.`

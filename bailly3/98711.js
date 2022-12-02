@@ -1,0 +1,1 @@
+lar[98711]=`<b>τετρα·χοινικός, ός, όν</b> <font color="purple">[ᾰῐ]</font> de quatre chénices, <i>environ quatre litres et demi,</i> DIOSC. <i>1, 39</i>.<p><b>Étym</b>. τ. χοῖνιξ.`

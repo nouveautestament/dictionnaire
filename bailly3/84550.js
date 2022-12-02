@@ -1,0 +1,1 @@
+lar[84550]=`<b>προ·κηρυκεύομαι</b> <font color="purple">[ῡ]</font> faire annoncer par un héraut : πρός τινα, ESCHN. <i>51, 14,</i> à qqn ; περί τινος, AND. <i>23, 45,</i> une décision sur qqe ch. ; <i>abs</i>. faire publier, IS. (POLL. <i>4, 94</i>).`

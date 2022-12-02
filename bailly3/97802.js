@@ -1,0 +1,1 @@
+lar[97802]=`<b>ταυροσφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> égorger un taureau, ESCHL. <i>Sept. 43</i>.<p><b>Étym</b>. ταυροσφάγος.`

@@ -1,0 +1,1 @@
+lar[36301]=`<b>ἐξ·ωμίας, ου (ὁ)</b> aux épaules saillantes, LUC. <i>V. auct. 7</i>.<p><b>Étym</b>. ἐξ, ὦμος.`

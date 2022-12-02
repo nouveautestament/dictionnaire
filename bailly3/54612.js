@@ -1,0 +1,1 @@
+lar[54612]=`<b>α</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. à l’aspect sombre, impénétrable, <i>fig</i>. SOPH. <i>Aj</i>. 954.<p><b>Étym</b>. κ. ὤψ.`

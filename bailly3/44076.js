@@ -1,0 +1,1 @@
+lar[44076]=`<b>ἐφ·ιζάνω</b> (<i>seul. impf</i>. ἐφίζανον) se poser sur <i>ou</i> dans, <i>dat</i>. IL. <i>10, 578 ; 20, 11</i> ; MOSCH. <i>2, 108 ; avec</i> ἐπί <i>et le dat</i>. IL. <i>10, 26 ; rar. avec l’acc</i>. A.RH. <i>1, 667 ; postér. en prose,</i> ARÉT. <i>Caus. m. acut. 2, 12</i> ; PHILSTR. <i>810, etc</i>.<p><b>Étym</b>. ἐπί, ἱ.`

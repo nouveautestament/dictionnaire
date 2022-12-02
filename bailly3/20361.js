@@ -1,0 +1,1 @@
+lar[20361]=`<b>βού·δεια, ας (ἡ)</b> Boudeia, <i>litt</i>. celle qui lie les bœufs au joug, <i>ép. d’Athèna,</i> LYC. <i>359</i>.<p><b>Étym</b>. βοῦς, δέω.`

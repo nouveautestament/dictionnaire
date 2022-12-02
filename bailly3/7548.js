@@ -1,0 +1,1 @@
+lar[7548]=`<b>ἀνα·ρρέγχω</b> (<i>seul. impf</i>.) ronfler fort, EUM. <i>74</i>.`

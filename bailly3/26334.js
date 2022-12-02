@@ -1,0 +1,1 @@
+lar[26334]=`<b>ας (ἡ)</b> interruption, séparation, A. QUINT. <i>p. 130</i> ; HÉPH. <i>Sign. p. 76, 6 Consbruch</i>.<p><b>Étym</b>. διεχής.`

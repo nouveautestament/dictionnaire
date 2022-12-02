@@ -1,0 +1,1 @@
+lar[2274]=`<b>αἰγί·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ῐ]</font> aux pieds de chèvre, HDT. <i>4, 25</i>.<p><b>Étym</b>. αἴξ, πούς ; <i>cf</i>. αἰγιπόδης.`

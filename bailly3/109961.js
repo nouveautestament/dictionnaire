@@ -1,0 +1,1 @@
+lar[109961]=`<font color="purple">[ῡ]</font> <i>adv</i>., dans l’âme, du fond de l’âme, SPT. <i>2Macc. 4, 37 ; 14, 24</i>.`

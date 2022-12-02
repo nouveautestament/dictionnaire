@@ -1,0 +1,1 @@
+lar[56955]=`<b>κοπρ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui transporte <i>ou</i> sert à transporter du fumier <i>ou</i> des excréments, PLAT. COM. (POLL. <i>1, 225</i>) ; CRATÈS COM. (POLL. <i>10, 175).</i><p><b>Étym</b>. κόπρος, ἄγω.`

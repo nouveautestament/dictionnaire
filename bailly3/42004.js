@@ -1,0 +1,1 @@
+lar[42004]=`<b>ας (ἡ) :<br>      1</b> talent de parole, éloquence, PLAT. <i>Phædr. 267c ;</i> DH. <i>Dem. 25 ; au pl</i>. PLAT. <i>Ax. 369d.</i><br><b>      2</b> bonne parole, parole de bon augure, SOPH. <i>O.R. 932</i>.<p><b>Étym</b>. εὐεπής.`

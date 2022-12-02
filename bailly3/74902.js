@@ -1,0 +1,1 @@
+lar[74902]=`<b>παν·αώριος, ος, ον</b> <font color="purple">[ᾰν]</font><br><b>      1</b> tout à fait précoce, ANTH. <i>5, 264</i>.<br><b>      2</b> <i>particul</i>. condamné à une mort tout à fait prématurée, IL. <i>24, 540</i>.<p><b>Étym</b>. π. ἀώριος.`

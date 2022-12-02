@@ -1,0 +1,1 @@
+lar[55921]=`<b>Κλεό·φαντος, ου (ὁ)</b> Kléophantos, <i>h</i>. PLAT. <i>Men. 93d ;</i> PLUT. <i>Them. 32</i>.<p><b>Étym</b>. κλ. φαίνω.`

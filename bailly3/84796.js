@@ -1,0 +1,1 @@
+lar[84796]=`<b>προ·νοσέω-ῶ</b>, être malade auparavant, HPC. <i>206e</i>.`

@@ -1,0 +1,1 @@
+lar[35435]=`<b>ατος (τὸ)</b> ce qui sert à allumer, PLUT. <i>M. 958e</i>.<p><b>Étym</b>. ἐξάπτω².`

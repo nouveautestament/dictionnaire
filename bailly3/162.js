@@ -1,0 +1,1 @@
+lar[162]=`<b>(ὁ)</b> <i>indécl</i>. Abraham, <i>n. hébreu,</i> ANTH. <i>1, 65</i>.`

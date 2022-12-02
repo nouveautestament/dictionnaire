@@ -1,0 +1,1 @@
+lar[79374]=`<b>περι·στενάζομαι</b>, retentir de gémissements, PLUT. <i>Ant. 56</i>.`

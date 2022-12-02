@@ -1,0 +1,1 @@
+lar[91794]=`<i>adv</i>., avec spasme <i>ou</i> convulsion, A. TR. <i>7, 120</i>.<p>➳ <i>Ion</i>. -ωδέως, ARÉT. <i>27, 41</i>.<p><b>Étym</b>. σπασμώδης.`

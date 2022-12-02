@@ -1,0 +1,1 @@
+lar[40429]=`<b>ἐρι·ηχής, ής, ές</b>, qui retentit fortement, OPP. <i>H. 3, 213</i> ; ANTH. <i>8, 5, 3</i>.<p><b>Étym</b>. ἐρι-, ἦχος.`

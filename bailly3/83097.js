@@ -1,0 +1,1 @@
+lar[83097]=`<b>ου (ὁ)</b> = <i>lat</i>. Potitus, <i>n. d’h. rom</i>. PLUT. <i>Cam. 4</i>.`

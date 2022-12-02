@@ -1,0 +1,1 @@
+lar[56419]=`<b>κοιλιο·λυσία, ας (ἡ)</b> <font color="purple">[ῠ]</font> flux de ventre, relâchement, CIC. <i>Att. 10, 13</i>.<p><b>Étym</b>. κοιλία, λύω.`

@@ -1,0 +1,1 @@
+lar[75097]=`<b>πάν·νυχος, ος, ον</b> <font color="purple">[ῠ]</font> qui dure <i>ou</i> agit toute la nuit, IL. <i>10, 159</i> ; OD. <i>14, 458</i> ; ESCHL. <i>Pers. 382 ; adv. neutre plur</i>. πάννυχα, SOPH. <i>Aj. 930,</i> pendant toute la nuit.<p><b>Étym</b>. π. νύξ.`

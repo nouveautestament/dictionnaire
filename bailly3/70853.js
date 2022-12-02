@@ -1,0 +1,1 @@
+lar[70853]=`<b>ὀκτα·πόδης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m.</i> :<br><b>      1</b> long <i>ou</i> large de huit pieds, HÉS. <i>O. 437</i>.<br><b>      2</b> à huit pattes, octapode, NIC. <i>Th. 605</i>.<p><b>Étym</b>. ὀ. -πούς ; <i>cf</i>. ὀκτάπους.`

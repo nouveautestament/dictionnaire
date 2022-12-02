@@ -1,0 +1,1 @@
+lar[87491]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> Pyanepsiôn, <i>4<sup>e</sup> mois de l’année attique, correspondant à la 2<sup>e</sup> moitié d’Octobre et à la 1<sup>re</sup> de Novembre,</i> TH. <i>H.P. 4, 2, 10, etc</i>.<p><b>Étym</b>. <i>cf</i>. Πυανέψια.`

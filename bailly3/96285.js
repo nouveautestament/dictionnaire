@@ -1,0 +1,1 @@
+lar[96285]=`<b>σύν·ταφος, ος, ον</b> <font color="purple">[ᾰ]</font> enseveli dans le même tombeau, PLAT. <i>Leg. 873d</i>.<p><b>Étym</b>. σύν, τάφος.`

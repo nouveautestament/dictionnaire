@@ -1,0 +1,1 @@
+lar[5450]=`<i>adv</i>., sans force, GAL.<p><b>Étym</b>. ἀμενηνός.`

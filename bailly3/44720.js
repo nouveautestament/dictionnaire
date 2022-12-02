@@ -1,0 +1,1 @@
+lar[44720]=`préparer avec du jus <i>ou</i> du bouillon, HPC. <i>551, 34</i> ; AR. <i>fr. 507</i>.<p><b>Étym</b>. ζωμός.`

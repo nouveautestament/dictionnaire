@@ -1,0 +1,1 @@
+lar[80139]=`<i>ou</i> <b>πηρίς, ῖνος (ἡ)</b> <font color="purple">[ῑν]</font> le scrotum, NIC. <i>Th. 583</i>.`

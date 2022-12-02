@@ -1,0 +1,1 @@
+lar[99272]=`<b>(ὁ)</b> <font color="purple">[ῑῐ]</font> Timonidès, <i>h</i>. PLUT. <i>Dio. 20, 30, 31, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Τίμων.`

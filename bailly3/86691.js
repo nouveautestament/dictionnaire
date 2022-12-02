@@ -1,0 +1,1 @@
+lar[86691]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’accent tonique, GRAMM.<p><b>Étym</b>. προσῳδία.`

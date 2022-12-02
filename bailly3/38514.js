@@ -1,0 +1,1 @@
+lar[38514]=`<b>ἐπι·νεφρίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> qui se trouve sur les reins, IL. <i>21, 204</i>.<p><b>Étym</b>. ἐπί, νεφρός.`

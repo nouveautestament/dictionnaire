@@ -1,0 +1,1 @@
+lar[106012]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> action de concilier l’amitié, de rendre ami, DL. <i>7, 30</i> ; SEXT. <i>M. 7, 239</i>.<p><b>Étym</b>. φιλοποιός.`

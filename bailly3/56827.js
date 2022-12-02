@@ -1,0 +1,1 @@
+lar[56827]=`<b>έως (ὁ)</b> du dème de la Vantardise, <i>mot comique,</i> AR. <i>Av. 1126</i>.<p><b>Étym</b>. κόμπος.`

@@ -1,0 +1,1 @@
+lar[83442]=`<b>πριν·ώδης, ης, ες</b> <font color="purple">[ῑ]</font> dur <i>ou</i> fort comme l’yeuse, <i>fig</i>. AR. <i>Vesp. 383</i>.<p><b>Étym</b>. πρῖνος, -ωδης.`

@@ -1,0 +1,1 @@
+lar[27649]=`<b>Δορύ·λαος, ου (ὁ)</b> <font color="purple">[ῠᾱ]</font> Dorylaos, <i>général de Mithridate,</i> PLUT. <i>Syll. 20, etc</i>.<p><b>Étym</b>. δόρυ, λαός.`

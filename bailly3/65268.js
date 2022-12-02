@@ -1,0 +1,1 @@
+lar[65268]=`<font color="purple">[ᾰ]</font> <i>adv</i>., nulle part, <i>avec mouv</i>. PLAT. <i>Rsp. 499a</i>.<p><b>Étym</b>. μηδαμός, -σε.`

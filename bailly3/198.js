@@ -1,0 +1,1 @@
+lar[198]=`<b>ου (ἡ)</b> Habrotonon, <i>f</i>. PLUT. <i>Them. 1, etc</i>.`

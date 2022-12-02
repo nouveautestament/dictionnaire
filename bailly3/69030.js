@@ -1,0 +1,1 @@
+lar[69030]=`<b>ης, ες :<br>      1</b> <i>pass</i>. malade, maladif, PLAT. <i>Rsp. 406a, 556e ;</i> PLUT. <i>M. 662f.</i><br><b>      2</b> <i>act</i>. malsain, ISOCR. <i>388d ;</i> PLAT. <i>Rsp. 438e ;</i> TH. <i>H.P. 7, 9, 4</i> ; PLUT. <i>M. 126e ; fig</i>. funeste à, <i>dat</i>. EUR. <i>Suppl. 423</i>.<p><b>Étym</b>. νόσος, -ωδης.`

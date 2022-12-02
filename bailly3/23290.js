@@ -1,0 +1,1 @@
+lar[23290]=`<b>εως (ἡ)</b> action de partager, distribution, XÉN. <i>An. 7, 1, 37</i>.<p><b>Étym</b>. *δασμεύω, <i>de</i> δασμός.`

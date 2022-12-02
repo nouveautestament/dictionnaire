@@ -1,0 +1,1 @@
+lar[61251]=`<b>λινό·σαρκος, ος, ον</b> <font color="purple">[ῐ]</font> à la chair filandreuse, ANTIPH. (ATH. <i>455f</i>).<p><b>Étym</b>. λίνον, σάρξ.`

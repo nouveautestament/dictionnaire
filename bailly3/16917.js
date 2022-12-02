@@ -1,0 +1,1 @@
+lar[16917]=`<b>ἀ·τράπεζος, ος, ον</b> <font color="purple">[ᾰπ]</font><br><b>      1</b> sans table, sans nourriture, NYSS. <i>419d.</i><br><b>      2</b> qui se tient à part de la table commune, insociable, MAN. <i>4, 563</i>.<p><b>Étym</b>. ἀ, τράπεζα.`

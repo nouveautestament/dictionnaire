@@ -1,0 +1,1 @@
+lar[97614]=`<b>ητος (ὁ)</b> <font color="purple">[ᾰ]</font> tapis, couverture, IL. <i>9, 200 ; 10, 156 ; 24, 645</i> ; OD. <i>4, 124, 298 ; 10, 12, etc.</i> ; AR. <i>Pl. 542</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

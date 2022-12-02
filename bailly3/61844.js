@@ -1,0 +1,1 @@
+lar[61844]=`<font color="purple">[ῠᾱ]</font> <i>adv</i>., à la manière des Lycaoniens, NT. <i>Ap. 14, 11</i>.<p><b>Étym</b>. Λυκάων.`

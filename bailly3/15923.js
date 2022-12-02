@@ -1,0 +1,1 @@
+lar[15923]=`<b>ατος (τὸ)</b> objet d’étude, XÉN. <i>Cyr. 7, 5, 79, etc</i>.<p><b>Étym</b>. ἀσκέω.`

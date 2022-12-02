@@ -1,0 +1,1 @@
+lar[13134]=`<b>ἀπο·πρίασθαι</b> (<i>seul. impér. 2 sg</i>. ἀποπρίω, AR. <i>Ran. 1227</i>) acheter.<p>➳ <i>Pour les autres temps, v</i>. ἀπωνέομαι.`

@@ -1,0 +1,1 @@
+lar[55995]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> de sarment, GEOP. <i>5, 37, 1 ; 6, 5, 8</i> ; DIOSC. <i>Orib. p. 297 Matthäi</i>.<p><b>Étym</b>. κλῆμα.`

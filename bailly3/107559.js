@@ -1,0 +1,1 @@
+lar[107559]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰῑ]</font> coureuse, femme de mauvaise vie, ESCHL. <i>fr. 388</i>.`

@@ -1,0 +1,1 @@
+lar[61533]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de composer un discours, PLAT. <i>Euthyd. 289c</i>.<p><b>Étym</b>. λογοποιός.`

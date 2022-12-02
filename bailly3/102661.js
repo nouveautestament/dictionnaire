@@ -1,0 +1,1 @@
+lar[102661]=`<b>ὑπέρ·μορον</b>, <i>adv</i>., contrairement aux arrêts du destin, malgré le destin, IL. <i>20, 30 ; 21, 517</i> ; OD. <i>1, 34, etc.</i> ; A.RH. <i>4, 20</i> ; A. PL. <i>106</i>.<p><b>Étym</b>. ὑ. μόρον.`

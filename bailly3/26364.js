@@ -1,0 +1,1 @@
+lar[26364]=`<b>εως (ἡ)</b> action de filtrer, filtration, TH. <i>C.P. 6, 1, 1</i> ; PLUT. <i>M. 693e, etc</i>.<p><b>Étym</b>. διηθέω.`

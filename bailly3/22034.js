@@ -1,0 +1,1 @@
+lar[22034]=`<b>γλακτο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui vit de lait, IL. <i>13, 6</i> ; οἱ Γλακτοφάγοι, HÉS. <i>fr. 189 Göttling, litt</i>. les mangeurs de laitage, <i>peuplade scythe</i>.<p><b>Étym</b>. <i>Cf</i>. γαλακτοφάγος <i>et</i> γαλακτοπότης.`

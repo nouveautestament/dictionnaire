@@ -1,0 +1,1 @@
+lar[44185]=`<b>ἐχέ·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> qui est maître de soi (<i>propr</i>. de ses désirs), sage, OD. <i>8, 320</i>.<p><b>Étym</b>. ἔχω, θυμός.`

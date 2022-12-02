@@ -1,0 +1,1 @@
+lar[88546]=`<b>ῥιζο·βόλος, ος, ον</b>, qui pousse des racines, NIC. <i>Th. 69</i>.<p><b>Étym</b>. ῥίζα, βάλλω.`

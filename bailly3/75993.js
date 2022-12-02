@@ -1,0 +1,1 @@
+lar[75993]=`<b>παρ·ανοίγνυμι</b> <font color="purple">[ᾰν]</font> ouvrir peu à peu, entr’ouvrir, DÉM. <i>728, 12</i>.`

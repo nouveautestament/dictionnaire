@@ -1,0 +1,1 @@
+lar[25788]=`<b>δια·τρυπάω-ῶ</b> <font color="purple">[ῡπ]</font> trouer, percer, creuser, ARSTT. <i>H.A. 4, 4 ; 5, 15 ; 9, 37</i> ; LUC. <i>Ep. sat. 24</i>.`

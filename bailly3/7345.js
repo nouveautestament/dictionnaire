@@ -1,0 +1,1 @@
+lar[7345]=`<b>ή, όν</b>, qui donne du repos, PTOL. <i>Tetr. 20</i> ; BAS. <i>3, 633 Migne</i>.<p><b>Étym</b>. ἀναπαύω.`

@@ -1,0 +1,1 @@
+lar[39964]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., dix-sept fois, PROCL. <i>Ptol. p. 196</i>.<p><b>Étym</b>. ἑπτακαίδεκα.`

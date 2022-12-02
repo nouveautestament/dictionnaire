@@ -1,0 +1,1 @@
+lar[51394]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Kambysès (Cambyse) <i>roi de Perse, père de Cyrus,</i> HDT. <i>1, 46, etc.</i> ; XÉN. <i>Cyr. 1, 2, 1, etc</i>.<p>➳ <i>Voc</i>. -η, XÉN. <i>Cyr. 8, 7, 11 et 13 ; postér</i>. -ης, D. CHR. <i>37, p. 466 ; acc. ion</i>. -εα, HDT. <i>3, 1, etc</i>.`

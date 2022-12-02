@@ -1,0 +1,1 @@
+lar[18730]=`<b>ου (τὸ)</b> <font color="purple">[ᾰδ]</font> petit gradin, escabeau, AR. <i>fr. 433</i>.<p><b>Étym</b>. βάθρον.`

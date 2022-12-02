@@ -1,0 +1,1 @@
+lar[90473]=`<b>ίδος</b> <font color="purple">[ῑῠῐδ]</font> <i>adj. f.</i> : ἀκτή, THCR. <i>Idyl. 22, 158</i> ; αἶα, ANTH. <i>7, 354,</i> le rivage <i>ou</i> la terre de Sisyphe, <i>càd</i>. Corinthe.<p><b>Étym</b>. Σίσυφος.`

@@ -1,0 +1,1 @@
+lar[7655]=`<b>ή, όν</b>, propre à resserrer, à comprimer, EL. <i>V.H. 7, 3</i>.<p><b>Étym</b>. ἀναστέλλω.`

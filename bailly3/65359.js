@@ -1,0 +1,1 @@
+lar[65359]=`<b>ης (ἡ)</b> sonde de chirurgien, HPC. <i>V.C. 901</i> ; ANTH. <i>11, 126</i>.`

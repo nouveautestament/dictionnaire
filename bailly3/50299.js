@@ -1,0 +1,1 @@
+lar[50299]=`<font color="purple">[κᾰ]</font> <i>vb. de</i> καθαίρω, HPC. <i>417</i> ; GEOP. <i>10, 77, 2</i>.`

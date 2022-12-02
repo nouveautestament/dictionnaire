@@ -1,0 +1,1 @@
+lar[31142]=`<b>ἐκ·γιγαρτίζω</b> <font color="purple">[γῐ]</font> ôter les pépins <i>ou</i> les noyaux, DIOSC. <i>1, 14</i> ; GAL. <i>6, 344 ; 13, 385</i> ; GEOP. <i>8, 27, 1</i>.<p>➳ <i>Part. pf. pass</i>. ἐκγεγιγαρτισμένος, GAL. <i>6, 344</i>.<p><b>Étym</b>. ἐκ, γίγαρτον.`

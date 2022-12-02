@@ -1,0 +1,1 @@
+lar[57008]=`<b>ων (οἱ)</b> les Korakiônes, <i>n. pr</i>. ARCHIPP. <i>fr. 15</i>.`

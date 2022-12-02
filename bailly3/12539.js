@@ -1,0 +1,1 @@
+lar[12539]=`<font color="purple">[ῡ]</font> <i>adv</i>., hardiment, THÉM. <i>107e</i>.<p><b>Étym</b>. ἀποκινδυνεύω.`

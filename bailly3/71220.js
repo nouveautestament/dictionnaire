@@ -1,0 +1,1 @@
+lar[71220]=`<b>ὁλο·στήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, fait tout entier de fil, qui forme une trame, SOPH. <i>fr. 920</i>.<p><b>Étym</b>. ὅλ. στῆμα.`

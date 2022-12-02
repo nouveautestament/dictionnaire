@@ -1,0 +1,1 @@
+lar[17524]=`<b>ος, ον</b> <font color="purple">[ῑ]</font> qui se meut de soi-même, ARSTT. <i>Phys. 8, 5, 21</i> ; PLUT. <i>M. 952e</i>.<p><b>Étym</b>. αὐτοκινέω.`

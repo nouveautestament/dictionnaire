@@ -1,0 +1,1 @@
+lar[29802]=`<b>ονος (ὁ)</b> <font color="purple">[ῡ]</font> Enkymôn, <i>h</i>. ALCIPHR. <i>1, 14</i>.<p><b>Étym</b>. <i>v</i>. ἐγκύμων.`

@@ -1,0 +1,1 @@
+lar[88696]=`<b>ης (ἡ)</b> Rhodoè, <i>v. de l’Inde,</i> NONN. <i>D. 26, 50</i>.`

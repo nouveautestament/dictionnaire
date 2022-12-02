@@ -1,0 +1,1 @@
+lar[92114]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> sorte de gâteau, EPICH. (ATH. <i>110b</i>).<p><b>Étym</b>. σταίς.`

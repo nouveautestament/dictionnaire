@@ -1,0 +1,1 @@
+lar[37604]=`<b>ἐπι·διαρρήγνυμι</b> (<i>seul. pass. sbj. ao.2</i> ἐπιδιαρραγῶ) déchirer, <i>d’où au pass</i>. faire explosion, crever, AR. <i>Eq. 701</i>.`

@@ -1,0 +1,1 @@
+lar[93924]=`<i>par assimilat. et contract. p</i>. σύν με, ANTH. <i>5, 53</i>.`

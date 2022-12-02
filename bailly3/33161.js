@@ -1,0 +1,1 @@
+lar[33161]=`<b>ἔμ·βροχος, ος, ον</b>, enfermé dans un lacet, enlacé, BAS. <i>2, 748</i>.<p><b>Étym</b>. ἐν, βρόχος.`

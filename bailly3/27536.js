@@ -1,0 +1,1 @@
+lar[27536]=`<b>οῦ (ὁ)</b> qui a <i>ou</i> qui partage une opinion, ANT. <i>140, 38 ; p. opp. à</i> ἐπιστήμων, PLAT. <i>Theæt. 208e</i>.<p><b>Étym</b>. δοξάζω.`

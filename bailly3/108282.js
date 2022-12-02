@@ -1,0 +1,1 @@
+lar[108282]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> bassin pour se laver les mains, IL. <i>24, 304</i> ; PHILSTR. <i>848</i>.<p><b>Étym</b>. χέρνιψ.`

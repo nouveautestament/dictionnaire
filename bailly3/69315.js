@@ -1,0 +1,1 @@
+lar[69315]=`<b>εως (ἡ)</b> examen, recherche, <i>mot forgé par</i> PLAT. <i>Crat. 411d</i>.<p><b>Étym</b>. νωμάω.`

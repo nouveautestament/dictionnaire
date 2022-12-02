@@ -1,0 +1,1 @@
+lar[91856]=`<b>α, ον</b>, qui concerne la semence <i>ou</i> l’ensemencement, ORPH. <i>H. 33, 3, etc</i>.<p><b>Étym</b>. σπέρμα.`

@@ -1,0 +1,1 @@
+lar[77121]=`<b>παρ·ουλίς, ίδος (ἡ)</b> parulie, <i>sorte de tumeur des gencives,</i> P. ÉG. <i>3, 26</i>.<p><b>Étym</b>. π. οὖλον.`

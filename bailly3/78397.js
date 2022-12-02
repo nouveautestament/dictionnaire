@@ -1,0 +1,1 @@
+lar[78397]=`<b>περι·άπτω</b>, allumer du feu tout autour, PHALAR. <i>Ep. 5 p. 28 dout</i>.`

@@ -1,0 +1,1 @@
+lar[37635]=`<b>ή, όν</b>, qui sert à corriger, HERMOG.<p><b>Étym</b>. ἐπιδιορθόω.`

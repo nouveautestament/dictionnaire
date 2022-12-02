@@ -1,0 +1,1 @@
+lar[32470]=`<b>οῦ (ὁ)</b> sorte d’oiseau, A. MYND. (ATH. <i>65b</i>).`

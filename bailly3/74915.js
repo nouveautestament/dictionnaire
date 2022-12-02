@@ -1,0 +1,1 @@
+lar[74915]=`<b>Πάν·δαρος, ου (ὁ)</b> <font color="purple">[δᾰ]</font> Pandaros, <i>fils de Lykaon, chef des Lyciens,</i> IL. <i>2, 827 ; 4, 88</i>.<p><b>Étym</b>. <i>p.-ê</i>. πᾶς, δέρω.`

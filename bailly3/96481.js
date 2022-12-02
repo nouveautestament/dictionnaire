@@ -1,0 +1,1 @@
+lar[96481]=`<b>συοφορβέω-ῶ</b>, engraisser des porcs, LGN <i>9, 14</i>.<p><b>Étym</b>. συοφορβός.`

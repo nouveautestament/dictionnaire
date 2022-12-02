@@ -1,0 +1,1 @@
+lar[53036]=`<b>κατα·πέπτω</b>, faire cuire, <i>d’où</i> digérer, <i>p. suite, fig</i>. faire rentrer en soi (sa colère, son indignation, <i>etc</i>.) JAMBL. <i>V. Pyth. p. 402</i>.`

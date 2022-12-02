@@ -1,0 +1,1 @@
+lar[45479]=`<b>ἡμι·μαθής, ής, ές</b> <font color="purple">[ῐᾰ]</font> à moitié instruit, demi-savant, PHILSTR. <i>575</i>.<p><b>Étym</b>. ἡμι-, μανθάνω.`

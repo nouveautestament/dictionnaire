@@ -1,0 +1,1 @@
+lar[105050]=`<b>ῶν (αἱ)</b> Phées, <i>petit port d’Élide,</i> OD. <i>15, 297 ; cf</i>. Φειά.`

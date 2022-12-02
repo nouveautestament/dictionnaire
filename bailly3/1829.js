@@ -1,0 +1,1 @@
+lar[1829]=`<font color="darkgreen">(<i>seul. ao. 3 sg</i>. ἠέρτησεν, ANTH. <i>6, 223, et pf. pass</i>. ἠέρτημαι, ANTH. <i>5, 230</i> ; OPP. <i>C. 2, 99</i>)</font> <i>c</i>. ἀερτάζω.`

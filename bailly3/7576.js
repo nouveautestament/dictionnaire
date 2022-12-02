@@ -1,0 +1,1 @@
+lar[7576]=`<b>ἀνα·ρροφάω-ῶ</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἀνερρόφα)</font> <i>c</i>. ἀναρροφέω PHILSTR. <i>937</i>.`

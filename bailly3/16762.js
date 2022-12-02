@@ -1,0 +1,1 @@
+lar[16762]=`<b>ἀτέρπεια, ας (ἡ)</b> désagrément, ennui, DL. <i>7, 97 (corr. p</i>. ἀτερπία).<p>➳ <i>Ion</i>. ἀτερπίη, DÉMOCR. (CLÉM. <i>Str. 2, 498 et</i> STOB. <i>Fl. 3, 38) ; cf</i>. ἀτερψία.<p><b>Étym</b>. ἀτερπής.`

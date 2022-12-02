@@ -1,0 +1,1 @@
+lar[24740]=`<b>δια·καυνιάζω</b> (<i>inf. ao</i>. -ιάσαι) déterminer <i>ou</i> décider en tirant au sort, AR. <i>Pax 1081</i>.`

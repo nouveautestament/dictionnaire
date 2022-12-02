@@ -1,0 +1,1 @@
+lar[71062]=`<b>ητος (ἡ) :<br>   I</b> rareté, <i>càd.</i> :<br><b>      1</b> petit nombre, PLAT. <i>Tim. 75a, etc.,</i> ARSTT. <i>P.A. 3, 5, etc.</i><br><b>      2</b> petite durée, PLAT. <i>Theæt. 158d.</i><br><b>   II</b> <i>p. ext</i>. petitesse, PLAT. <i>Rsp. 591, etc</i>.<p><b>Étym</b>. ὀλίγος.`

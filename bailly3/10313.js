@@ -1,0 +1,1 @@
+lar[10313]=`<b>ἀντί·πορος, ος, ον :<br>      1</b> situé du côté opposé d’un détroit, sur la rive opposée, ESCHL. <i>Pers. 67</i> ; EUR. <i>Med. 210</i>.<br><b>      2</b> <i>p. suite,</i> situé en face de, <i>gén</i>. EUR. <i>I.A. 1494</i> ; XÉN. <i>An. 4, 2, 18</i>.`

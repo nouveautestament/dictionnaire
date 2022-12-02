@@ -1,0 +1,1 @@
+lar[81684]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> le fils de Polyhæmon, <i>càd</i>. Amopaôn, IL. <i>8, 276</i>.`

@@ -1,0 +1,1 @@
+lar[64901]=`<b>εως (ἡ)</b> saut, bond d’un lieu à un autre, PLUT. <i>M. 739c</i>.<p><b>Étym</b>. μεταπηδάω.`

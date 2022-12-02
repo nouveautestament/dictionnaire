@@ -1,0 +1,1 @@
+lar[79833]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite feuille, P. ÉG. <i>106 Briau</i>.<p><b>Étym</b>. <i>dim. de</i> πέταλον.`

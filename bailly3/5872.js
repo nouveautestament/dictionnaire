@@ -1,0 +1,1 @@
+lar[5872]=`<font color="darkgreen">(<i>part. ao. pass</i>. -ασθείς)</font> <font color="purple">[ῠ]</font> ceindre d’un bandeau, couronner, ANTH. <i>13, 6</i>.<p><b>Étym</b>. ἄμπυξ.`

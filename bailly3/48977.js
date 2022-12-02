@@ -1,0 +1,1 @@
+lar[48977]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑμ]</font> vêtements, garde-robe, TH. <i>Char. 6</i> ; POL. <i>6, 15, 4 ; 17, 17, 5</i> ; PLUT. <i>Alex. 39</i>.<p><b>Étym</b>. ἱματίζω.`

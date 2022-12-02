@@ -1,0 +1,1 @@
+lar[45600]=`<b>ἡμί·φλεκτος, ος, ον</b>, à demi brûlé <i>ou</i> consumé, PHIL. <i>2, 99</i> ; LUC. <i>D. deor. 15, 2 ; fig</i>. THCR. <i>Idyl. 2, 133</i>.<p><b>Étym</b>. ἡμι-, φλέγω.`

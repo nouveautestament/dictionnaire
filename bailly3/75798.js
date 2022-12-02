@@ -1,0 +1,1 @@
+lar[75798]=`<b>παρα·κρέκω</b>, jouer d’un instrument <i>ou</i> chanter en désaccord, NAZ. <i>3, 1314 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[64681]=`<b>ῶνος (ὁ)</b> Métageitniôn, <i>2<sup>e</sup> mois du calendrier athénien, répondant à la 2<sup>e</sup> quinzaine d’août et à la 1<sup>re</sup> de septembre,</i> ARSTT. <i>H.A. 5, 17</i> ; PLUT. <i>Popl. 14</i>.`

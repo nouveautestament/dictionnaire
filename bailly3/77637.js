@@ -1,0 +1,1 @@
+lar[77637]=`<i>adv</i>., en partant du Pirée, hors du Pirée, ALCIPHR. <i>2, 4</i>.<p><b>Étym</b>. Πειραιεύς, -θεν.`

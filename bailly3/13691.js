@@ -1,0 +1,1 @@
+lar[13691]=`<b>ἀπ·ουλόω-ῶ</b>, cicatriser, DIOSC. <i>1, 81, etc.</i> ; A. APHR. <i>Probl. 1, 114 ; fig. en parl. de blessures morales,</i> PLUT. <i>M. 46f</i>.`

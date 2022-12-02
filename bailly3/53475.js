@@ -1,0 +1,1 @@
+lar[53475]=`<b>ή, όν</b>, capable de conjecturer, de deviner, <i>gén</i>. CLÉM. <i>p. 820</i>.<p><b>Étym</b>. καταστοχάζομαι.`

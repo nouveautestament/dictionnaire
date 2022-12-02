@@ -1,0 +1,1 @@
+lar[78658]=`<b>εως (ἡ)</b> compression, CASS. <i>Probl. 28</i>.<p><b>Étym</b>. περιθλίβω.`

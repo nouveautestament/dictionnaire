@@ -1,0 +1,1 @@
+lar[34970]=`<b>ἐν·στίζω</b>, broder, <i>litt</i>. piquer dans, ἐν <i>et le dat</i>. DC. <i>63, 6</i>.`

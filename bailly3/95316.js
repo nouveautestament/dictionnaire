@@ -1,0 +1,1 @@
+lar[95316]=`<b>συν·εισπέμπω</b>, envoyer qqe part avec, EL. <i>N.A. 12, 43</i>.`

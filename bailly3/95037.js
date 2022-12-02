@@ -1,0 +1,1 @@
+lar[95037]=`<b>συν·αφορίζω</b> <font color="purple">[ᾰ]</font> délimiter <i>ou</i> séparer en même temps <i>ou</i> ensemble, PLUT. <i>M. 425b</i>.`

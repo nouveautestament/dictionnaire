@@ -1,0 +1,1 @@
+lar[87088]=`<b>πρυμν·ώρεια, ας (ἡ)</b> extrémité d’une montagne, IL. <i>14, 307</i> ; PISANDR. (E. BYZ. <i>v°</i> Νιφάτης).<p><b>Étym</b>. πρυμνός, ὄρος.`

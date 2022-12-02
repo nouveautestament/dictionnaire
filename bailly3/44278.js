@@ -1,0 +1,1 @@
+lar[44278]=`<b>ἐχινό·πους</b>, <i>gén</i>. <b>-ποδος (ὁ)</b> pied de hérisson, sorte de chardon, <i>plante,</i> ATH. <i>97d ;</i> POÈT. (PLUT. <i>M. 44e</i>).<p><b>Étym</b>. ἐχῖνος, πούς.`

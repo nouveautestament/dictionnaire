@@ -1,0 +1,1 @@
+lar[25159]=`<b>δι·ανοικίζω</b> <font color="darkgreen">(<i>ao. pass. inf</i>. -ισθῆναι)</font> rebâtir, restaurer, PHILSTR. <i>583</i>.`

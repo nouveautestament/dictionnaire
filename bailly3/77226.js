@@ -1,0 +1,1 @@
+lar[77226]=`<b>ῶν (οἱ)</b> les Pasargades, <i>famille noble de Perse,</i> STR. <i>730, etc. ; au sg</i>. Πασαργάδης, HDT. <i>1, 125</i>.`

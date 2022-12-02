@@ -1,0 +1,1 @@
+lar[7705]=`<b>ἀνα·στρατοπεδεύω</b> <font color="purple">[ᾰτ]</font> lever un camp, POL. <i>1, 24, 4, etc.</i> ; DH. <i>3, 55, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>A.J. 14, 15, 14</i>.`

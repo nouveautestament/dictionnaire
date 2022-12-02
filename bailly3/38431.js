@@ -1,0 +1,1 @@
+lar[38431]=`<b>ἐπι·μηκύνω</b> <font color="purple">[ῡ]</font> allonger, prolonger, PAUS. <i>4, 10, 4</i> ; PHILSTR. <i>714</i>.`

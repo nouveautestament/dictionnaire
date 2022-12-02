@@ -1,0 +1,1 @@
+lar[101742]=`<b>ὑλο·κοπέω-ῶ</b> <font color="purple">[ῡ]</font> couper du bois, ARSTT. <i>H.A. 9, 17, 1</i>.<p><b>Étym</b>. ὕλη, -κόπος <i>de</i> κόπτω.`

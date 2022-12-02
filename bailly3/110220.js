@@ -1,0 +1,1 @@
+lar[110220]=`<b>α, ον</b>, d’Ôlénos :<br><b>      1</b> <i>en Étolie,</i> A.RH. <i>1, 202</i>.<br><b>      2</b> <i>en Achaïe,</i> EL. <i>N.A. 5, 29</i> ; ANTH. <i>7, 723</i>.<p><b>Étym</b>. Ὤλενος.`

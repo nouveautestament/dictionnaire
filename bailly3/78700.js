@@ -1,0 +1,1 @@
+lar[78700]=`<b>περι·καθίεμαι</b> <font color="darkgreen">(<i>part. pf. moy. au sens pass</i>. περικαθειμένος)</font> ajuster autour de soi, <i>acc</i>. PHIL. <i>2, 266</i>.`

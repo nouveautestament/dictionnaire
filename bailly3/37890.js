@@ -1,0 +1,1 @@
+lar[37890]=`<b>ἐπι·καλλωπίζω</b>, orner en outre, embellir, CHRYS. <i>6, 741</i> ; NYSS. <i>2, 986</i>.`

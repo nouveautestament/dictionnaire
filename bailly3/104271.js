@@ -1,0 +1,1 @@
+lar[104271]=`<b>ὑσγινο·βαφής, ής, ές</b> <font color="purple">[ῑᾰ]</font> teint en rouge écarlate, XÉN. <i>Cyr. 8, 3, 13</i> ; CLÉARQ. (ATH. <i>255e</i>) ; τὰ ὑσγινοβαφῆ, ATH. <i>539e ;</i> LUC. <i>Gall. 14,</i> vêtements d’écarlate.<p><b>Étym</b>. ὕσγινον, βάπτω.`

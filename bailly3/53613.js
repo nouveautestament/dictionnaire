@@ -1,0 +1,1 @@
+lar[53613]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> clarté, transparence, PLUT. <i>M. 914f ; en parl. du style,</i> PLUT. <i>M. 715f</i>.<p><b>Étym</b>. καταφανής.`

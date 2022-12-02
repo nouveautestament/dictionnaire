@@ -1,0 +1,1 @@
+lar[36079]=`<b>ἐξ·οιδίσκω</b> (<i>seul. prés</i>.) faire gonfler, <i>d’où au pass</i>. se gonfler, HPC. <i>482, 5</i>.`

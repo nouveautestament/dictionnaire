@@ -1,0 +1,1 @@
+lar[90869]=`<b>ας (ἡ)</b> <font color="purple">[ᾱᾰφ]</font> dessin <i>ou</i> peinture avec une juste distribution d’ombre et de lumière, <i>d’où</i> dessin en perspective, <i>d’où fig</i>. apparence trompeuse, PLAT. <i>Criti. 407c, Rsp. 365c, etc.</i> ; ARSTT. <i>Rhet. 3, 12, 5 ; joint à</i> τὰ ἐνύπνια, ARSTT. <i>Metaph. 4, 29, 2</i>.<p><b>Étym</b>. σκιαγράφος.`

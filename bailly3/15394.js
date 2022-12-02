@@ -1,0 +1,1 @@
+lar[15394]=`<b>ἀρτι·χάρακτος, ος, ον</b> <font color="purple">[ῐχᾰ]</font> nouvellement tracé <i>ou</i> gravé, ARCHIMEL. (ATH. <i>209d</i>).<p><b>Étym</b>. ἄ. χαράσσω.`

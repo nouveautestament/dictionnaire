@@ -1,0 +1,1 @@
+lar[102923]=`<b>ὑπέρ·ωρος, ος, ον</b>, qui n’est plus de saison, trop mûr, déjà passé <i>ou</i> vieux, DIOSC. <i>1, 77</i>.<p><b>Étym</b>. ὑ. ὥρα.`

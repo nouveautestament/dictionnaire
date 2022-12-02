@@ -1,0 +1,1 @@
+lar[93347]=`<b>συγ·καταπίνω</b> <font color="purple">[ῑ]</font> engloutir <i>ou</i> dévorer avec <i>ou</i> ensemble, PHIL. <i>2, 178</i> ; CLÉM. <i>14</i>.`

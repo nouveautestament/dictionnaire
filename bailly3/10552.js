@@ -1,0 +1,1 @@
+lar[10552]=`<b>ἀντι·φθέγγομαι :<br>      1</b> répliquer, contredire, LUC. <i>Salt. 23</i> ; SEXT. <i>435, 525</i>.<br><b>      2</b> renvoyer le son, faire écho, PD. <i>O. 6, 61</i> ; EUR. <i>Hipp. 1216</i>.`

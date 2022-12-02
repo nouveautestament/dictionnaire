@@ -1,0 +1,1 @@
+lar[41445]=`<b>οῦ (ὁ)</b> celui qui prépare qqe ch. CLÉM. <i>826</i>.<p><b>Étym</b>. ἑτοιμάζω.`

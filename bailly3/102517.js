@@ -1,0 +1,1 @@
+lar[102517]=`<b>ὑπερ·ηχέω-ῶ</b>, faire plus de bruit que, couvrir du bruit qu’on fait, <i>acc</i>. ARSTD. <i>t. 1, 123</i>.`

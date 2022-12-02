@@ -1,0 +1,1 @@
+lar[17414]=`<b>αὐτο·γεωργός, οῦ (ὁ)</b> laboureur qui cultive lui-même la terre, PHIL. <i>1, 685</i>.`

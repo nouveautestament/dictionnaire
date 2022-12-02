@@ -1,0 +1,1 @@
+lar[107286]=`<b>φυσο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> semblable à un corps gonflé, SCH.-NIC. <i>Al. 293</i>.<p><b>Étym</b>. φῦσα, εἶδος.`

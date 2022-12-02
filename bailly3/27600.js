@@ -1,0 +1,1 @@
+lar[27600]=`<b>δορί·πονος, ος, ον</b> <font color="purple">[ῐ]</font> brisé <i>ou</i> détruit par la lance, ESCHL. <i>Sept. 169</i>.<p><b>Étym</b>. δόρυ, πένομαι.`

@@ -1,0 +1,1 @@
+lar[33855]=`<b>ἔν·αλλος, ος, ον</b>, changé, bouleversé, THCR. <i>Idyl. 1, 134 (dout. sel. Fritzsche</i>) ; ANTH. <i>5, 299</i>.<p><b>Étym</b>. ἐν, ἄλλος.`

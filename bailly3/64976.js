@@ -1,0 +1,1 @@
+lar[64976]=`<b>εως (ἡ)</b> transformation, NYSS. <i>2, 468 Migne</i>.<p><b>Étym</b>. μεταστοιχειόω.`

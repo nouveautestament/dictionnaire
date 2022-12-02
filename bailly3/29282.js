@@ -1,0 +1,1 @@
+lar[29282]=`<i>adv</i>., sept fois, CALL. <i>Del. 251</i>.<p><b>Étym</b>. ἕβδομος.`

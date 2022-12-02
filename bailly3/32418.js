@@ -1,0 +1,1 @@
+lar[32418]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui se répand, flottant, <i>en parl. de la chevelure,</i> ANTH. <i>9, 669</i>.<br><b>      2</b> qui se détend, ANTH. <i>5, 275</i>.<br><b>      3</b> versé : τὸ ἔκχυτον, ANTH. <i>9, 395,</i> gâteau versé d’un moule.<p><b>Étym</b>. ἐκχέω.`

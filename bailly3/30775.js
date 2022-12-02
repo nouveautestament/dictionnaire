@@ -1,0 +1,1 @@
+lar[30775]=`<b>εἰσ·θρῴσκω</b>, <i>poét</i>. <b>ἐσ·θρῴσκω</b> (<i>seul. ao.2</i>) s’élancer dans <i>ou</i> sur, IL. <i>12, 462 (3 sg. poét</i>. ἔσθορε) ; δόμον, ESCHL. <i>Sept. 454 (inf</i>. ἐσθορεῖν) dans une maison ; διά τινος, EL. <i>N.A. 14, 24 (part</i>. εἰσθορόντος) faire irruption à travers qqe ch.`

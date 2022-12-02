@@ -1,0 +1,1 @@
+lar[3567]=`<i>adv.</i> :<br><b>      1</b> à l’abri de la moisissure <i>ou</i> des vers, TH. <i>C.P. 4, 16, 2</i>.<br><b>      2</b> sans fatigue, TÉLÈS (STOB. <i>Fl. 40, 8, t. 2, p. 68, l. 9).</i><p><b>Étym</b>. ἄκοπος.`

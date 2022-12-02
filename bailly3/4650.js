@@ -1,0 +1,1 @@
+lar[4650]=`<b>ἀλκί·μαχος, η</b> (<i>pour</i> <b>ος</b>), <b>ον</b> <font color="purple">[ῐᾰ]</font> qui combat avec courage, ANTH. <i>6, 124</i>.<p><b>Étym</b>. ἀλκή, μάχομαι.`

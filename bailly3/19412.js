@@ -1,0 +1,1 @@
+lar[19412]=`<b>εως (ἡ)</b> immersion, <i>d’où</i> :<br><b>      1</b> action de tremper le fer, l’acier, ANT. (POLL. <i>7, 169</i>).<br><b>      2</b> action de teindre, teinture, PÉRICT. (STOB. <i>3, 184 Gaisf</i>.).<p><b>Étym</b>. βάπτω.`

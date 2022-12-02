@@ -1,0 +1,1 @@
+lar[42618]=`<b>εὐ·λύρας (ὁ)</b> <font color="purple">[ῠᾱ]</font> <i>dor. c</i>. εὔλυρος, <i>en parl. d’Apollon,</i> EUR. <i>Alc. 570,</i> AR. <i>Th. 969</i>.`

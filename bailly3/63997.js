@@ -1,0 +1,1 @@
+lar[63997]=`<b>μελι·γαθής, ής, ές</b> <font color="purple">[ῐᾱ]</font> agréable comme le miel, PD. <i>fr. 211</i>.<p><b>Étym</b>. <i>dor. p</i>. *μελιγηθής, <i>de</i> μ. γηθέω.`

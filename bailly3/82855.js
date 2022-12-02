@@ -1,0 +1,1 @@
+lar[82855]=`<font color="purple">[ῠ]</font> teindre en pourpre, ACUSIL. <i>fr. 9</i> ; PHILSTR. <i>31, etc.</i><br><b><i>Moy.</i></b> pêcher des coquillages à pourpre, HICÉS. (ATH. <i>87b</i>).<p><b>Étym</b>. πορφυρεύς.`

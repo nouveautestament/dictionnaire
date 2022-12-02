@@ -1,0 +1,1 @@
+lar[62242]=`<b>ου (ἡ)</b> <font color="purple">[ᾰῐδ]</font> Magidion, <i>f</i>. LUC. <i>D. mer. 12, 1</i>.`

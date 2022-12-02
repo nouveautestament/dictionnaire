@@ -1,0 +1,1 @@
+lar[18638]=`<i>adv</i>., sans bruit, NAZ. <i>2, 219c</i>.`

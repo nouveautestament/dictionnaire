@@ -1,0 +1,1 @@
+lar[67425]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> <i>mot dorien et laconien,</i> lèvre supérieure, <i>d’où</i> moustache, ARSTT. <i>fr. 496</i> ; PLUT. <i>M. 550b ;</i> THCR. <i>Idyl. 14, 4, etc</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. βύσταξ.`

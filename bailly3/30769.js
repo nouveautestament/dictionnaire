@@ -1,0 +1,1 @@
+lar[30769]=`<b>*εἰσηλυσίη</b>, <i>poét</i>. <b>ἐσηλυσίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> action d’entrer, entrée, ANTH. <i>9, 625</i>.<p><b>Étym</b>. εἰσελεύσομαι.`

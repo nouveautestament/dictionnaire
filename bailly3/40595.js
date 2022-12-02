@@ -1,0 +1,1 @@
+lar[40595]=`<b>ή, όν</b>, qui concerne l’interprétation, propre à faire comprendre, LUC. <i>H. conscr. 34</i> ; ἡ ἑρμηνευτική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 260d</i>, l’art d’interpréter.<p><b>Étym</b>. ἑρμηνεύω.`

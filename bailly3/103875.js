@@ -1,0 +1,1 @@
+lar[103875]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec sang-froid, avec fermeté, POL. <i>5, 16, 4</i>.`

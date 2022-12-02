@@ -1,0 +1,1 @@
+lar[102111]=`<b>ὑπ·εκκαθαίρω</b> <font color="purple">[ᾰ]</font> faire évacuer <i>ou</i> purger par le bas, HPC. <i>612, 16 au pass</i>.`

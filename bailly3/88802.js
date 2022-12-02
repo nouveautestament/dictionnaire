@@ -1,0 +1,1 @@
+lar[88802]=`<b>(ὁ)</b> = <i>lat</i>. Ruminalis (ficus) <i>n. d’un figuier sacré à Rome,</i> PLUT. <i>Qu. rom. 57</i>.<p><b>Étym</b>. <i>cf</i>. Ῥουμίνα.`

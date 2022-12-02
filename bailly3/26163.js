@@ -1,0 +1,1 @@
+lar[26163]=`<b>ή, όν</b>, propre à réfuter, CLÉM. <i>2, 312b Migne</i>.<p><b>Étym</b>. διελέγχω.`

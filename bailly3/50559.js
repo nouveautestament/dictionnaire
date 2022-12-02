@@ -1,0 +1,1 @@
+lar[50559]=`<b>ας (ἡ)</b> innovation, <i>d’où</i> changement, renouvellement, POL. <i>4, 2, 10</i>.<p><b>Étym</b>. καινοποιός.`

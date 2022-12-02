@@ -1,0 +1,1 @@
+lar[91364]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de cordonnier : ὁ σκ. SOCR. <i>Ep. 13,</i> cordonnier ; ἡ σκυτική (<i>s.-e</i>. τέχνη), PLAT. <i>Rsp. 374b</i>, l’art du cordonnier.<p><b>Étym</b>. σκῦτος.`

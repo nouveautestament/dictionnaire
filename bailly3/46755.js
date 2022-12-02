@@ -1,0 +1,1 @@
+lar[46755]=`<b>θεο·πόνητος, ος, ον</b>, travaillé par la main d’un dieu, EUR. <i>Tr. 953, etc</i>.<p><b>Étym</b>. θ. πονέω.`

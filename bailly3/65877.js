@@ -1,0 +1,1 @@
+lar[65877]=`<b>ῶν (αἱ)</b> Minturnes (<i>auj</i>. Minturno) <i>v. du Latium,</i> PLUT. <i>Mar. 38</i>.`

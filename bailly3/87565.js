@@ -1,0 +1,1 @@
+lar[87565]=`<b>ου (ὁ)</b> Pythios, <i>Lydien, fils d’Atys,</i> HDT. <i>7, 27, etc</i>.`

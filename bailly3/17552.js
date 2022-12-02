@@ -1,0 +1,1 @@
+lar[17552]=`<i>adv.</i> :<br><b>      1</b> en tuant de sa main, ESCHL. <i>Ag. 1635</i>.<br><b>      2</b> en s’entr’égorgeant, ESCHL. <i>Sept. 734</i>.<p><b>Étym</b>. αὐτοκτόνος.`

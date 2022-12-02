@@ -1,0 +1,1 @@
+lar[56202]=`<b>ή, όν</b>, de voleur, EUR. <i>Rhes. 205, 512</i> ; τὸ κλωπικόν, PLAT. <i>Crat. 408a</i>, l’habitude de frauder.<p><b>Étym</b>. κλώψ.`

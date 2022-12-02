@@ -1,0 +1,1 @@
+lar[87968]=`<b>ας (ἡ)</b> sorte d’oiseau rouge, EL. <i>N.A. 4, 5</i> ; OPP. <i>Ix. 3, 13</i>.<p><b>Étym</b>. πυρρός.`

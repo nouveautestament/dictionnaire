@@ -1,0 +1,1 @@
+lar[26616]=`<b>δί·κωλος, ος, ον</b> <font color="purple">[ῐ]</font> à deux membres, LYC. <i>636 ; t. de rhét</i>. à deux membres, <i>en parl. d’une période ou d’une strophe,</i> D. PHAL. <i>20, 2</i> ; HDN RH. <i>Schem. 593, 3</i> ; HERMOG. <i>Rhet. 3, 154, 20</i>.<p><b>Étym</b>. δίς, κῶλον.`

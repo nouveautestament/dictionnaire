@@ -1,0 +1,1 @@
+lar[94938]=`<b>ή, όν</b>, joint, lié, uni, AR. <i>Eccl. 508</i> ; ARSTT. <i>Rhet. Al. 32, 2</i>.<p><b>Étym</b>. <i>vb. de</i> συνάπτω.`

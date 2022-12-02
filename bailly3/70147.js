@@ -1,0 +1,1 @@
+lar[70147]=`<b>ὁδο·ποιός, οῦ (ὁ) :<br>      1</b> qui fraye le chemin, pionnier, XÉN. <i>Cyr. 6, 2, 36</i>.<br><b>      2</b> agent-voyer, <i>m. à m</i>. qui fait les routes, ARSTT. <i>Ath. 54, 1</i> ; ESCHN. <i>57, 27</i>.<p><b>Étym</b>. ὁδός, ποιέω.`

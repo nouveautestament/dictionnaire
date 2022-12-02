@@ -1,0 +1,1 @@
+lar[15701]=`<b>ας (ἡ) :<br>      1</b> <i>c</i>. ἄρον, PHÆNIAS (ATH. <i>371d</i>).<br><b>      2</b> sorte de nèfle, DIOSC. <i>1, 169</i>.`

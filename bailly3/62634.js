@@ -1,0 +1,1 @@
+lar[62634]=`<b>μαλακο·κόλαξ, ακος (ὁ)</b> <font color="purple">[ᾰᾰᾰκ]</font> flatteur obséquieux, CLÉARQ. (ATH. <i>258a</i>).`

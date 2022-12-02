@@ -1,0 +1,1 @@
+lar[14992]=`<font color="purple">[ᾰ]</font> <i>c</i>. ἀροτρεύω, <i>forme réc. attribuée à Phérécyde par le Schol. de</i> PD. <i>P. 4, 133</i>.`

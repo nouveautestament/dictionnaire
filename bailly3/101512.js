@@ -1,0 +1,1 @@
+lar[101512]=`<b>ὕδρ·αυλις, εως (ἡ)</b> orgue hydraulique, ARISTOD. (ATH. <i>174b</i>).<p><b>Étym</b>. ὕδωρ, αὐλέω.`

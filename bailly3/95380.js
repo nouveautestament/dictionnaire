@@ -1,0 +1,1 @@
+lar[95380]=`<b>συν·εκπιεστέον</b>, <i>vb. de</i> συνεκπιέζω, exprimer <i>ou</i> faire jaillir avec, GEOP. <i>3, 7, 1</i>.`

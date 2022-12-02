@@ -1,0 +1,1 @@
+lar[24166]=`<b>ή, όν</b>, propre à indiquer, à faire comprendre, <i>gén</i>. HPC. <i>Acut. 391</i> ; ARSTT. <i>Physiogn. 4, 4</i> ; PLUT. <i>M. 747c</i>.`

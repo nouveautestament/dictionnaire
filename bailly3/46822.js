@@ -1,0 +1,1 @@
+lar[46822]=`<b>ας (ἡ) :<br>      1</b> acte de la puissance divine, miracle, JUL. <i>219a.</i><br><b>      2</b> théurgie, opération magique, PORPH. (AUGUST. <i>Civ. D. 10, 9).</i><p><b>Étym</b>. θεουργός.`

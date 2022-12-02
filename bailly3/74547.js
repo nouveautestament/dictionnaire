@@ -1,0 +1,1 @@
+lar[74547]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> l’action de trahir tour à tour chaque parti, POL. <i>5, 96, 4</i> ; DH. <i>8, 32, etc</i>.<p><b>Étym</b>. παλιμπροδότης.`

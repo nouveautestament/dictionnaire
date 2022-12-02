@@ -1,0 +1,1 @@
+lar[44013]=`<b>ἐφήβ·αρχος, ου (ὁ)</b> directeur des éphèbes, ARR. <i>Epict. 3, 1, 34, etc</i>.<p><b>Étym</b>. ἔφηβος, ἄρχω.`

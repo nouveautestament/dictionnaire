@@ -1,0 +1,1 @@
+lar[32387]=`<b>ἐκ·χέζω</b>, évacuer par les selles, COM. (D. PHAL. <i>57, 6</i>).`

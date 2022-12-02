@@ -1,0 +1,1 @@
+lar[63535]=`<b>μεγιστό·πολις, ις, ι</b>, <i>gén</i>. <b>ιος</b>, <i>att</i>. <b>εως</b>, qui rend les cités puissantes, PD. <i>P. 8, 2</i>.<p><b>Étym</b>. μ. πόλις.`

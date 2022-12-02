@@ -1,0 +1,1 @@
+lar[9814]=`<b>ἀντι·δανείζω</b> <font color="darkgreen">(<i>ao</i>. ἀντεδάνεισα)</font> <font color="purple">[δᾰ]</font> prêter à son tour <i>ou</i> en échange, CHRYS. <i>5, 844</i>.`

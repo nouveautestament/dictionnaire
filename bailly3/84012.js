@@ -1,0 +1,1 @@
+lar[84012]=`<b>προ·δρομή, ῆς (ἡ)</b> course en avant, XÉN. <i>An. 4, 7, 10 ; fig</i>. préambule, PLAT. <i>1 Alc. 114a</i>.<p><b>Étym</b>. π. δρομή.`

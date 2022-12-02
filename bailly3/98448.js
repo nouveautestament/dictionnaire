@@ -1,0 +1,1 @@
+lar[98448]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰᾰᾰδ]</font> quarantaine, le nombre quarante, HPC. <i>256, 23 ; 257, 41</i>.<p><b>Étym</b>. τεσσαράκοντα.`

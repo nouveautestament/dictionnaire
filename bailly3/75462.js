@@ -1,0 +1,1 @@
+lar[75462]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰφῐδ]</font> poinçon pour écrire, AQU. <i>Esai. 44, 13</i> ; POLL. <i>4, 18, etc</i>.<p><b>Étym</b>. παραγράφω.`

@@ -1,0 +1,1 @@
+lar[105536]=`<b>φιλ·έβδομος, ος, ον</b> <font color="purple">[ῐ]</font> ami du nombre sept, PHIL. <i>1, 27</i> ; THEOL. <i>p. 42, 16</i>.`

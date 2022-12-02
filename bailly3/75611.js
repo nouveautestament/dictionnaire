@@ -1,0 +1,1 @@
+lar[75611]=`<b>παρα·θρῴσκω</b>, courir le long de, <i>acc</i>. DP. <i>286</i>.`

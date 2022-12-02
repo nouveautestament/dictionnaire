@@ -1,0 +1,1 @@
+lar[94985]=`<b>συν·ασελγαίνω</b>, être compagnon de débauche, DC. <i>79, 19</i>.`

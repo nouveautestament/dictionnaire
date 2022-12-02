@@ -1,0 +1,1 @@
+lar[51155]=`<b>καλλι·λογέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> bien parler, exprimer agréablement, DH. <i>Comp. 4 au pass.</i><br><b>      2</b> envelopper sa pensée de belles paroles DH. <i>8, 32</i>.<br><b><i>Moy.</i></b> parler agréablement, LUC. <i>Tox. 35</i>.<p><b>Étym</b>. κ. λόγος.`

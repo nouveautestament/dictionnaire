@@ -1,0 +1,1 @@
+lar[30683]=`<b>*εἰσ·ανεῖδον</b>, <i>d’où part</i>. εἰσανιδών <font color="purple">[ᾰ]</font> lever les yeux vers, <i>acc</i>. IL. <i>16, 232 ; 24, 307</i>.`

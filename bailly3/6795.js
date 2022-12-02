@@ -1,0 +1,1 @@
+lar[6795]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qui consiste en offrandes aux dieux, POL. <i>27, 15, 3</i>.`

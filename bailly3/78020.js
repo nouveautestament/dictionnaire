@@ -1,0 +1,1 @@
+lar[78020]=`<b>πενταπλασι·επί·τριτος, ος, ον</b>, cinq fois aussi grand avec un tiers en plus, NICOM. <i>Arithm. p. 122</i>.<p><b>Étym</b>. π. ἐπί, τρίτος.`

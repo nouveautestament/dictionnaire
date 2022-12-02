@@ -1,0 +1,1 @@
+lar[50518]=`<i>adv</i>., tardivement, en retard, PTOL. <i>Appar. 7, p. 11, l. 10</i>.<p><b>Étym</b>. καθυστερέω.`

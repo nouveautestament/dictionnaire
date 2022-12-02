@@ -1,0 +1,1 @@
+lar[89255]=`<b>ου (ὁ)</b> Samios (<i>litt</i>. le Samien) <i>h</i>. HDT. <i>3, 55</i> ; XÉN. <i>Hell. 3, 1, 1, etc</i>.<p><b>Étym</b>. <i>v</i>. Σάμιος.`

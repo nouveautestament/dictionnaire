@@ -1,0 +1,1 @@
+lar[103348]=`<b>ος, ον</b>, chauffé en dessous : τὸ ὑπόκαυστον, VITR. <i>5, 10</i> ; PLIN. MIN. <i>Ep. 2, 17,</i> poêle, calorifère.<p><b>Étym</b>. ὑποκαίω.`

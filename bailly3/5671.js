@@ -1,0 +1,1 @@
+lar[5671]=`<b>ἀμμο·χωσία, ας (ἡ) :<br>      1</b> ensablement, P. ÉG. <i>3, 48</i>.<br><b>      2</b> bain de sable, ORIB. <i>2, 403 B.-Dar</i>.<p><b>Étym</b>. ἄ. 1, χώννυμι.`

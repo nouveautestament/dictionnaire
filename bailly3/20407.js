@@ -1,0 +1,1 @@
+lar[20407]=`<b>ου</b>, <i>épq</i>. <b>αο (ὁ)</b> le fils de Boukolos, <i>càd.</i> :<br><b>      1</b> Sphélos, <i>Athénien,</i> IL. <i>15, 338</i>.<br><b>      2</b> Euphorbos, ORPH. <i>Lith. 457</i>.<p><b>Étym</b>. βουκόλος.`

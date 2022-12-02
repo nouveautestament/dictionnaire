@@ -1,0 +1,1 @@
+lar[59075]=`<b>ου (ὁ)</b> martinet, <i>oiseau,</i> ARSTT. <i>H.A. 9, 30</i>.`

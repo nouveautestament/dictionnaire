@@ -1,0 +1,1 @@
+lar[12982]=`<b>ἀπο·νόσφι</b>, <i>dev. une voy</i>. ἀπονόσφιν :<br><b>      1</b> <i>adv</i>., à l’écart, IL. <i>2, 233</i> ; OD. <i>5, 350</i>.<br><b>      2</b> <i>prép</i>. loin de, <i>d’ord. après le gén</i>. IL. <i>1, 541</i> ; OD. <i>5, 113, etc. ; entre l’adj. et le subst</i>. OD. <i>12, 33</i>.`

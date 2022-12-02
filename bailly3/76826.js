@@ -1,0 +1,1 @@
+lar[76826]=`<b>παρ·ευωχέομαι-οῦμαι</b>, faire un festin auprès de, APP. <i>Civ. 1, 48</i>.`

@@ -1,0 +1,1 @@
+lar[63389]=`<b>μεγαλό·μικρος, ος, ον</b> <font color="purple">[ᾰ]</font> grand et petit tout ensemble, PHIL. <i>2, 61</i>.<p><b>Étym</b>. μ. μικρός.`

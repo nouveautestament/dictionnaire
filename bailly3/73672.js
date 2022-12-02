@@ -1,0 +1,1 @@
+lar[73672]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Ouranos, <i>fils d’Érébos et de Gæa, père des Titans,</i> HÉS. <i>Th. 45, etc</i>.<p><b>Étym</b>. <i>v</i>. οὐρανός.`

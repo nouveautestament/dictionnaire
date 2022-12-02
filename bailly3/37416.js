@@ -1,0 +1,1 @@
+lar[37416]=`<b>ἐπιβωστρέω-ῶ</b>, appeler à grands cris, THCR. <i>Idyl. 12, 35</i>.<p><b>Étym</b>. ἐπιβοάω.`

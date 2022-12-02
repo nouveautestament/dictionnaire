@@ -1,0 +1,1 @@
+lar[23490]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, craintif, pusillanime, IL. <i>3, 56</i> ; NONN. <i>D. 14, 321</i>.<p><b>Étym</b>. δείδω.`

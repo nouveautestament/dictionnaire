@@ -1,0 +1,1 @@
+lar[50955]=`<i>d’ord</i>. <b>Καλλαϊκοί, ῶν (οἱ)</b> les Calaïques <i>ou</i> Gallaïques, <i>pple d’Espagne,</i> PLUT. <i>Cæs. 12</i>.`

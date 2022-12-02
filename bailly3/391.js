@@ -1,0 +1,1 @@
+lar[391]=`<i>seul. neutre adv</i>. ἀγατόν <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀγαστός, HH. <i>Ap. 515 dout</i>.<p><b>Étym</b>. <i>corr</i>. ἐρατόν.`

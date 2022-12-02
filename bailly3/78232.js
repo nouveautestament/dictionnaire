@@ -1,0 +1,1 @@
+lar[78232]=`<b>εως (ἡ)</b> confiance, assurance, PHIL. <i>2, 444</i> ; SPT. <i>Gen. 34, 25</i> ; NT. <i>Eph. 3, 12, etc. ; plur</i>. BABR. <i>43, 19</i>.<p><b>Étym</b>. πέποιθα.`

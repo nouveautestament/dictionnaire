@@ -1,0 +1,1 @@
+lar[29949]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> infusion, HIPPIATR. <i>p. 6, 7, 11</i> ; ANTYLL. (ORIB. <i>2, 442 B.-Dar</i>.).<p><b>Étym</b>. ἐγχυματίζω.`

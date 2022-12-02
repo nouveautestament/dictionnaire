@@ -1,0 +1,1 @@
+lar[19895]=`<b>εως (ἡ)</b> action de léser, de nuire, PLAT. <i>Leg. 832c, 932e</i>.<p><b>Étym</b>. βλάπτω.`

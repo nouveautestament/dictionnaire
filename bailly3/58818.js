@@ -1,0 +1,1 @@
+lar[58818]=`<b>κυνό·μυια, ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κυνάμυια, LUC. <i>Gall. 31</i> ; EL. <i>N.A. 4, 51, etc</i>.`

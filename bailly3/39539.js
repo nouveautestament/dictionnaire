@@ -1,0 +1,1 @@
+lar[39539]=`<b>ἐπι·τωθάζω</b>, se moquer de, railler, PLAT. <i>Ax. 364c ;</i> τινά, APP. <i>Civ. 2, 67</i> ; τινί, APP. <i>Civ. 5, 125,</i> qqn ; τι, ATH. <i>604e</i>, se moquer de qqe ch.`

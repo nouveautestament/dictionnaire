@@ -1,0 +1,1 @@
+lar[30794]=`<b>*εἴσ·κειμαι</b>, <i>anc. att</i>. <b>ἔσ·κειμαι</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐσέκειτο)</font> être déposé dans (un navire) <i>en parl. d’une cargaison,</i> THC. <i>6, 32</i>.`

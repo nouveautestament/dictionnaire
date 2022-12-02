@@ -1,0 +1,1 @@
+lar[73149]=`<b>ατος (τὸ) :<br>      1</b> danse, SOPH. <i>Aj. 699</i> ; XÉN. <i>Conv. 2, 23, etc.</i><br><b>      2</b> pantomime, LUC. <i>Salt. 70</i>.`

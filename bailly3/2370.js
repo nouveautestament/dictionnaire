@@ -1,0 +1,1 @@
+lar[2370]=`<b>ης, ες</b>, semblable aux parties honteuses, ARSTT. <i>H.A. 5, 6, 3</i>.<p><b>Étym</b>. αἰδοῖον, -ωδης.`

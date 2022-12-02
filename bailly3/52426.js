@@ -1,0 +1,1 @@
+lar[52426]=`<b>κατ·αθυμέω-ῶ</b> <font color="purple">[ῡ]</font> perdre entièrement courage, XÉN. <i>Hell. 3, 2, 27</i>.`

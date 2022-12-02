@@ -1,0 +1,1 @@
+lar[77935]=`<b>ή, όν</b>, de deuil, PLUT. <i>M. 102e ;</i> SPT. <i>Ex. 33, 4</i>.<p><b>Étym</b>. πένθος.`

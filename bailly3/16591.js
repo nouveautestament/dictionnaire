@@ -1,0 +1,1 @@
+lar[16591]=`<b>η, ον</b>, en bois d’asphodèle, LUC. <i>V.H. 2, 26</i>.<p><b>Étym</b>. ἀσφόδελος.`

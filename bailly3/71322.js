@@ -1,0 +1,1 @@
+lar[71322]=`<b>Ὅμ·αργος, ου (ὁ)</b> Homargos, <i>chien d’Actéon, fr. adesp. 39 Bgk</i>.<p><b>Étym</b>. ὁμός, ἀργός.`

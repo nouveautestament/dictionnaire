@@ -1,0 +1,1 @@
+lar[2997]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de prisonnier de guerre, de captif, EUR. <i>Tr. 871</i>.`

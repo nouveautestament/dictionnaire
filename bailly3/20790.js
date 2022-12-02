@@ -1,0 +1,1 @@
+lar[20790]=`<b>έως</b>, <i>épq</i>. <b>-ῆος (ὁ)</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. βριάρεως TIMOCL. (ATH. <i>224a</i>) ; NONN. <i>D. 39, 291 ; 43, 361</i> ; CALL. <i>Del. 143</i>.`

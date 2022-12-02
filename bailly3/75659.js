@@ -1,0 +1,1 @@
+lar[75659]=`<b>εως (ἡ)</b> suspension à côté, ARSTT. <i>Cæl. 3, 7, 11</i>.<p><b>Étym</b>. παραιωρέω.`

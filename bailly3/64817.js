@@ -1,0 +1,1 @@
+lar[64817]=`<b>ή, όν</b>, extrait d’une mine, ARSTT. <i>Meteor. 3, 6, 10</i>.<p><b>Étym</b>. μεταλλεύω.`

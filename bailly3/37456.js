@@ -1,0 +1,1 @@
+lar[37456]=`<b>(ὁ)</b> Épigèthès, <i>h</i>. PLUT. <i>Arat. 32</i>.<p><b>Étym</b>. <i>v</i>. ἐπιγηθέω.`

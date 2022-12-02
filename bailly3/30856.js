@@ -1,0 +1,1 @@
+lar[30856]=`<b>εως (ἡ)</b> chose (exemple) à considérer, EUR. <i>El. 1085</i>.<p><b>Étym</b>. εἰσόψομαι.`

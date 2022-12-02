@@ -1,0 +1,1 @@
+lar[105850]=`<b>φιλο·κόμμοδος, ος, ον</b> <font color="purple">[ῐ]</font> ami de Commode, HDN <i>1, 17, 3</i>.`

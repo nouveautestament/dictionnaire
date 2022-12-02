@@ -1,0 +1,1 @@
+lar[20105]=`<b>οῦ :<br>   I</b> <i>adj. m.</i> :<br><b>      1</b> de Béotie, Béotien, IL. <i>2, 494, 510</i> ; HDT. ATT.<br><b>      2</b> lourd <i>ou</i> stupide comme un Béotien, COM. (ATH. <i>410d, 418a</i>) ; BABR. <i>15</i> ; DH. <i>Rhet. 11, 5, etc.</i><br><b>   II</b> <i>n. pr</i>. Bœôtos, <i>Athénien,</i> DÉM. ; <i>autres,</i> DS. <i>etc</i>.`

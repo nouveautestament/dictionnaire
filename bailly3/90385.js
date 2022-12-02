@@ -1,0 +1,1 @@
+lar[90385]=`<b>ωνος (ὁ)</b> esclave né d’un esclave, SÉLEUC. (ATH. <i>267b</i>) ; <i>cf</i>. δουλέκδουλος.`

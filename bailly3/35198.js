@@ -1,0 +1,1 @@
+lar[35198]=`<b>ἐν·υπό·σαπρος, ος, ον</b> <font color="purple">[ᾰ]</font> légèrement gâté <i>ou</i> pourri, HPC. <i>Coac. 189 (conj</i>. ὑπόσαπρον, <i>5, 683 Littré).</i><p><b>Étym</b>. ἐν, ὑπό, σαπρός.`

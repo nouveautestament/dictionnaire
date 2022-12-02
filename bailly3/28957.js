@@ -1,0 +1,1 @@
+lar[28957]=`<b>δυσυπνέω-ῶ</b> (<i>part. prés</i>. -οῦντα) <font color="purple">[δῠ]</font> avoir de la peine à dormir, PLAT. <i>Leg. 790d</i>.<p><b>Étym</b>. δύσυπνος.`

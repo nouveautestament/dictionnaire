@@ -1,0 +1,1 @@
+lar[34584]=`<b>ἐν·θύομαι</b> (<i>seul. part. ao. moy</i>. ἐνθυσάμενος) sacrifier, ZOS. <i>77, 1</i>.`

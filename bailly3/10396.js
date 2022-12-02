@@ -1,0 +1,1 @@
+lar[10396]=`<b>ἀντ·ισόω-ῶ</b> <font color="purple">[ῐ]</font> égaliser, égaler, THC. <i>3, 11</i> ; JOS. <i>A.J. 18, 3, 4</i>.`

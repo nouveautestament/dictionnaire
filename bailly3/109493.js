@@ -1,0 +1,1 @@
+lar[109493]=`<b>ου (ὁ)</b> <font color="purple">[ᾱς]</font><br><b>      1</b> sorte d’onguent, employé en Égypte, EUP. <i>198 Kock</i> ; AR. <i>fr. 7</i> ; CLÉM. <i>Pæd. 2, p. 207</i>.<br><b>      2</b> sorte de parfum, THÉODOR. (ATH. <i>691c</i>).`

@@ -1,0 +1,1 @@
+lar[22337]=`<b>οῦ (ὁ) :<br>      1</b> celui qui prend connaissance de, <i>gén</i>. ANT. <i>140, 37</i>.<br><b>      2</b> <i>abs</i>. celui qui sait, <i>d’où</i> sage, savant, devin, SPT. <i>4Reg. 23, 24</i> ; AQU. <i>Deut. 18, 11</i>.<p><b>Étym</b>. γνωρίζω.`

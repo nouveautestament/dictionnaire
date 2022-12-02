@@ -1,0 +1,1 @@
+lar[43291]=`<b>Εὐρυ·λέων, οντος (ὁ)</b> <font color="purple">[ῠ]</font> Euryléôn, <i>h</i>. HDT. <i>5, 46, etc</i>.<p><b>Étym</b>. εὐ. λέων.`

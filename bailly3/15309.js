@@ -1,0 +1,1 @@
+lar[15309]=`<b>ἀρτηριο·τομία, ας (ἡ)</b> incision de la trachée-artère, GAL.`

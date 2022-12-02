@@ -1,0 +1,1 @@
+lar[37451]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui se produit comme résultat <i>ou</i> conséquence, CIC. <i>Fin. 3, 9</i> ; CLÉM. <i>2, 468 Migne</i> ; BAS. <i>1, 661 Migne</i>.`

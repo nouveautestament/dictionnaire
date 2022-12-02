@@ -1,0 +1,1 @@
+lar[91943]=`<b>ου (ὁ)</b> petit bandage, HPC. <i>467, 42</i>.<p><b>Étym</b>. <i>dim. de</i> σπλήν.`

@@ -1,0 +1,1 @@
+lar[80480]=`<b>Πιστό·ξενος, ου (ὁ)</b> Pistoxénos, <i>h</i>. IS. <i>6, 13 Baiter-Sauppe</i>.<p><b>Étym</b>. π. ξένος.`

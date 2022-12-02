@@ -1,0 +1,1 @@
+lar[100913]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> friandises de dessert, dessert, <i>particul</i>. de fruits secs (noix, amandes, <i>etc</i>.) que l’on croque, PD. <i>fr. 94</i> ; ARSTT. <i>fr. 100</i> ; PLUT. <i>M. 133c ; d’ord. au pl</i>. AR. <i>Pax 772, etc</i>.<p><b>Étym</b>. τρώγω.`

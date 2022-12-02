@@ -1,0 +1,1 @@
+lar[52910]=`<b>κατα·νέω</b>, entasser, amonceler, HDT. <i>6, 97</i>.`

@@ -1,0 +1,1 @@
+lar[51082]=`<b>ου (ὁ)</b> Kallias, <i>h</i>. HDT. <i>5, 44, etc. ; particul. riche Athénien,</i> AR. <i>Av. 284</i>.<p>➳ <i>Voc</i>. -ία, PLAT. <i>Prot. 336b, etc. ; acc. plur</i>. Καλλίας, PLUT. <i>Adv. Epic. 13. Dans les inscr. att. l’écriture flotte entre</i> Καλλίας <i>et</i> Καλλέας, <i>v. Meisterh. p. 90, 3. Ion</i>. Καλλίης, HDT. <i>l. c</i>.<p><b>Étym</b>. κάλλος.`

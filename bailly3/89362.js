@@ -1,0 +1,1 @@
+lar[89362]=`<b>ου (ἡ)</b> lapis-lazuli (<i>ou</i> saphir) <i>pierre précieuse,</i> TH. <i>Lap. 8, 23 et 37</i> ; DP. <i>1104</i>.<p><b>Étym</b>. <i>cf. hébr</i>. sappir.`

@@ -1,0 +1,1 @@
+lar[15622]=`<b>ἀρχι·κυνηγός, οῦ (ὁ)</b> <font color="purple">[ῐῠ]</font> grand-veneur, JOS. <i>A.J. 16, 10, 3</i>.`

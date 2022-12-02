@@ -1,0 +1,1 @@
+lar[32756]=`<b>ἐλεφαντό·δετος, ος, ον :<br>      1</b> monté en ivoire, AR. <i>Av. 218</i>.<br><b>      2</b> orné d’ivoire, EUR. <i>I.A. 583</i>.<p><b>Étym</b>. ἐ. δέω.`

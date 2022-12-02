@@ -1,0 +1,1 @@
+lar[100675]=`<font color="purple">[ᾱ]</font> <i>adv</i>., en venant de Troie, EUR. <i>Or. 357</i>.<p>➳ <i>Ion</i>. Τροίηθεν, OD. <i>3, 257, etc.</i> ; ἀπὸ Τροίηθε, IL. <i>24, 492</i> ; OD. <i>9, 38</i> ; Τροίηθε, Q. SM. <i>5, 549 ; dor</i>. Τρωΐαθεν <font color="purple">[ᾱ]</font> PD. <i>N. 7, 60</i>.<p><b>Étym</b>. Τροία, -θεν.`

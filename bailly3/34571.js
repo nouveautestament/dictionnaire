@@ -1,0 +1,1 @@
+lar[34571]=`<b>ή, όν</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> en forme d’enthymème, ARSTT. <i>Rhet. 1, 2, 10</i>.<br><b>      2</b> apte à raisonner, bon dialecticien, HPC. <i>22, 49</i> ; ARSTT. <i>Rhet. 1, 1, 9</i>.<p><b>Étym</b>. ἐνθύμημα.`

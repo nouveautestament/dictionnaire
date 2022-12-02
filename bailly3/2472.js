@@ -1,0 +1,1 @@
+lar[2472]=`<b>ας (ἡ) :<br>      1</b> ciel pur, temps clair et serein, OD. <i>6, 44</i> ; EUR. <i>fr. 781, 50</i> ; AR. <i>Av. 778 ; p. opp. à</i> ἀήρ, IL. <i>17, 645</i>.<br><b>      2</b> <i>c</i>. αἰθήρ, ALEX. (ATH. <i>379a</i>).<p>➳ <i>Épq</i>. αἴθρη, HOM. <i>ll. cc</i>.<p><b>Étym</b>. αἴθω.`

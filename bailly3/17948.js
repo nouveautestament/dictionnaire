@@ -1,0 +1,1 @@
+lar[17948]=`<b>οῦ (ὁ)</b> action de tirer hors de, BAS.<p><b>Étym</b>. *ἀφελκύω.`

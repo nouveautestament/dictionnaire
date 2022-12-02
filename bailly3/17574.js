@@ -1,0 +1,1 @@
+lar[17574]=`<font color="purple">[μᾰ]</font> <i>adv</i>., en s’instruisant par soi-même, PHILSTR. <i>498</i>.`

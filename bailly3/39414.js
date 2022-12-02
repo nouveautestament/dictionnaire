@@ -1,0 +1,1 @@
+lar[39414]=`<b>ἐπι·τήκω</b> <font color="darkgreen">(<i>f</i>. -τήξω, <i>f. 2 pass</i>. ἐπιτακήσομαι)</font> faire fondre sur, faire couler sur : τι ἐπί τι, HDT. <i>7, 239 ; ou</i> τί τινι, PLUT. <i>Ages. 40,</i> une ch. sur une autre (de la cire sur une lettre, <i>etc</i>.).`

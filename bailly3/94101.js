@@ -1,0 +1,1 @@
+lar[94101]=`<b>συμ·παρατείνω</b>, étendre ensemble le long de, GAL. <i>4, 318 ; d’où au pass</i>. s’allonger ensemble <i>ou</i> en même temps, ZOS. <i>4, 10</i>.`

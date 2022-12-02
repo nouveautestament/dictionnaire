@@ -1,0 +1,1 @@
+lar[73966]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de fortifier, JOS. <i>B.J. 7, 6, 2</i> ; SPT. <i>1Macc. 10, 11 ; 14, 10</i>.<p><b>Étym</b>. ὀχυρόω.`

@@ -1,0 +1,1 @@
+lar[2793]=`<b>αἰπύ·δμητος, ος, ον</b>, bâti sur une hauteur <i>ou</i> de construction élevée, COL. <i>235</i> ; NONN. <i>D. 4, 13</i>.<p><b>Étym</b>. αἰπύς, δέμω.`

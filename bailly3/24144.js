@@ -1,0 +1,1 @@
+lar[24144]=`<b>ῆρος (ὁ)</b> destructeur, HOM. <i>Ep. 14, 8</i>.<p><b>Étym</b>. δηλέομαι.`

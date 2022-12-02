@@ -1,0 +1,1 @@
+lar[92894]=`<b>ητος (ἡ) :<br>      1</b> détours tortueux, PLUT. <i>M. 968a ; fig</i>. AQU. <i>Prov. 6, 14</i>.<br><b>      2</b> courbe (d’un glaive) PLUT. <i>Mar. 25</i>.<p><b>Étym</b>. στρεβλός.`

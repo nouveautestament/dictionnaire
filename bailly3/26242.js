@@ -1,0 +1,1 @@
+lar[26242]=`<b>δι·εξουρέω-ῶ</b> (<i>sbj. ao</i>. -ήσῃ) évacuer avec les urines, HPC. <i>539, 36</i>.`

@@ -1,0 +1,1 @@
+lar[100220]=`<b>τρι·ημιπόδιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> un pied et demi, XÉN. <i>Œc. 19, 5</i>.<p>➳ <i>Dans les inscr. att. plur</i>. τριημιπόδια, CIA. <i>1, 321, 15 (av. 409 av. J.-C.), et masc. plur. acc</i>. τριἡμιποδίους, <i>avec aspirat. intérieure conservée,</i> CIA. <i>1, 322a, 12 (409 av. J.-C.) ; v. Meisterh. p. 67, 5</i>.<p><b>Étym</b>. τρ. ἡ.`

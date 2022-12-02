@@ -1,0 +1,1 @@
+lar[109325]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> doré, PHALÆC. (ATH. <i>440d</i>).<p><b>Étym</b>. <i>vb. de</i> χρυσόω.`

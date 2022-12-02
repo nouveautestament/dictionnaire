@@ -1,0 +1,1 @@
+lar[87952]=`<b>πυρο·τομία, ας (ἡ)</b> <font color="purple">[ῡ]</font> fauchaison du blé, moisson, TH. <i>H.P. 9, 8, 2</i>.<p><b>Étym</b>. πυρός, -τομος <i>de</i> τέμνω.`

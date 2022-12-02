@@ -1,0 +1,1 @@
+lar[50057]=`<b>όεσσα, όεν :<br>      1</b> abondant en poissons, poissonneux, IL. <i>9, 4, etc.</i> ; OD. <i>3, 177</i> ; AR. <i>Th. 324</i>.<br><b>      2</b> qui recueille du poisson, OPP. <i>H. 1, 666</i> ; ANTH. <i>6, 223</i>.<p><b>Étym</b>. ἰχθύς.`

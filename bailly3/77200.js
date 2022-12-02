@@ -1,0 +1,1 @@
+lar[77200]=`<b>ῶνος (ὁ)</b> petit navire léger, POL. <i>Fr. hist. 65</i>.`

@@ -1,0 +1,1 @@
+lar[105787]=`<b>φιλοθεωρέω-ῶ</b> <font color="purple">[ῐ]</font> aimer à contempler, à méditer, JAMBL. <i>Nicom. ar. p. 126</i>.<p><b>Étym</b>. φιλοθέωρος.`

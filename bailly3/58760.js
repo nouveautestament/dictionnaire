@@ -1,0 +1,1 @@
+lar[58760]=`<font color="purple">[ῠ]</font> <i>adv</i>., comme un chien, SOPH. <i>fr. 646</i> ; AR. <i>Nub. 491</i> ; LUC. <i>Tim. 54</i>.<p><b>Étym</b>. κύων, -δον.`

@@ -1,0 +1,1 @@
+lar[23257]=`<b>ος, ον</b> <font color="purple">[ᾰν]</font><br><b>      1</b> de Dardanie, <i>en Troade,</i> Dardanien, IL. <i>2, 701</i>.<br><b>      2</b> Troyen, IL. <i>16, 807</i>.`

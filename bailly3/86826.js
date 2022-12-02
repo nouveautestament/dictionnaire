@@ -1,0 +1,1 @@
+lar[86826]=`<b>προ·τυπόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> modeler <i>ou</i> former auparavant, CLÉM. <i>366</i>.<br><b>      2</b> représenter, symboliser, ANTH. <i>1, 59</i>.<br><b><i>Moy.</i></b> se représenter un modèle de, se figurer, <i>acc</i>. HLD. <i>9, 25 ; avec l’inf</i>. LUC. <i>Par. 40</i>.`

@@ -1,0 +1,1 @@
+lar[6341]=`<b>ἀμφί·πυλος, ος, ον</b> <font color="purple">[ῠ]</font> à deux portes, EUR. <i>Med. 135</i>.<p><b>Étym</b>. ἀ. πύλη.`

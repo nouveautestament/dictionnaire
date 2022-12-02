@@ -1,0 +1,1 @@
+lar[19385]=`<b>ας (ἡ)</b> vain bavardage, radotage, CHRYS. <i>7, 249a</i>.<p><b>Étym</b>. <i>c</i>. βαττολογέω.`

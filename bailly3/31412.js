@@ -1,0 +1,1 @@
+lar[31412]=`<font color="purple">[ᾰ]</font> <i>adv</i>., ouvertement, CHRYS. <i>1, 818c, 834d</i>.<p><b>Étym</b>. ἐκκαλύπτω.`

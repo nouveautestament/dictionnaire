@@ -1,0 +1,1 @@
+lar[73252]=`<b>η, ον</b> <font color="purple">[ῐ]</font> combien petit, THCR. <i>Idyl. 4, 55</i>.<p><b>Étym</b>. ὅσσος.`

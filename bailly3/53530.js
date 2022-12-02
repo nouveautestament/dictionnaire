@@ -1,0 +1,1 @@
+lar[53530]=`<b>κατα·τάκερος, ος, ον</b> <font color="purple">[ᾰκ]</font> très mou, GAL. <i>6, 669</i>.<p><b>Étym</b>. κ. τακερός.`

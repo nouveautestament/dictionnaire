@@ -1,0 +1,1 @@
+lar[48887]=`<b>ος, ον</b> <font color="purple">[ῑ]</font> propitiatoire, JOS. <i>A.J. 16, 7, 1</i>.<p><b>Étym</b>. ἱλάσκομαι.`

@@ -1,0 +1,1 @@
+lar[72853]=`<b>ων (οἱ)</b> les Orkynies, <i>pple de Cappadoce,</i> PLUT. <i>Eum. 9</i>.`

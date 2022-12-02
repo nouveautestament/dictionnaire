@@ -1,0 +1,1 @@
+lar[23268]=`<b>(οἱ)</b> les Dareites, <i>pple perse près de la mer Caspienne,</i> HDT. <i>3, 92</i>.`

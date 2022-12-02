@@ -1,0 +1,1 @@
+lar[11]=`(<i>seul. prés</i>.) <font color="brown">exhaler, respirer</font>, ARSTT. <i>Probl. 3, 4, 7, etc</i>.<p><b>Étym</b>. <i>onomatopée</i>.`

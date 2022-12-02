@@ -1,0 +1,1 @@
+lar[64396]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> qui participe, participant à, <i>gén</i>. DÉM. <i>889, 7</i> ; μ. τινί τινος, POL. <i>8, 31, 6,</i> qui participe à qqe ch. avec qqn.<p><b>Étym</b>. μέρος.`

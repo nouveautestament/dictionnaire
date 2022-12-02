@@ -1,0 +1,1 @@
+lar[12732]=`<b>ή, όν</b>, dont on peut jouir, EPIC. (DL. <i>10, 124</i>) ; PLUT. <i>Cato ma. 4</i>.<p><b>Étym</b>. <i>vb. de</i> ἀπολαύω.`

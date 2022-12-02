@@ -1,0 +1,1 @@
+lar[66254]=`<b>ας (ἡ)</b> STR. <i>542, p. contr</i>. μνῴα, HYBRIAS (ATH. <i>696a</i>) condition de serf, servage, <i>chez les Crétois</i>.`

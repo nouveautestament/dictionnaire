@@ -1,0 +1,1 @@
+lar[31060]=`<b>α, ον</b> <font color="purple">[κᾰ]</font> centième, CHRYS. <i>2, 362</i>.<p><b>Étym</b>. ἑκατοστός.`

@@ -1,0 +1,1 @@
+lar[35658]=`<b>ῆρος (ὁ)</b> crochet pour retirer la viande de la marmite, ESCHL. <i>fr. 366</i>.<p><b>Étym</b>. ἐξαύω.`

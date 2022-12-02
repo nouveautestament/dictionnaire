@@ -1,0 +1,1 @@
+lar[59688]=`<b>λαμπαδη·φόρος, ος, ον</b> <font color="purple">[πᾰ]</font> qui porte un flambeau dans les courses <i>ou</i> les sacrifices, ESCHL. <i>Ag. 312, etc</i>.<p><b>Étym</b>. λαμπάς, φέρω.`

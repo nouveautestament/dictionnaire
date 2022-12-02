@@ -1,0 +1,1 @@
+lar[108377]=`<b>ης (ἡ)</b> <i>sorte de coquillage,</i> SOPHR. <i>et</i> ARCHIL. (ATH. <i>86a</i>, b).<p><b>Étym</b>. χηραμός.`

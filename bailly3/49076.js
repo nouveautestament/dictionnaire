@@ -1,0 +1,1 @@
+lar[49076]=`<b>ης (ἡ)</b> <font color="purple">[ῑν]</font> <i>c</i>. ἰξίας TH. <i>H.P. 9, 1, 2</i>.`

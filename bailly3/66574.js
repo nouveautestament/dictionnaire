@@ -1,0 +1,1 @@
+lar[66574]=`<b>μονό·λυκος, ου (ὁ)</b> <font color="purple">[νο̄, <i>à cause de la forme primit. de</i> λύκος = *ϝλύκος <i>cf. sscr</i>. vrkas]</font> loup d’une taille singulière, extraordinaire, ARAT. <i>1124</i> ; EL. <i>N.A. 7, 47 ; fig</i>. PLUT. <i>Alex. 23 ; cf</i>. μονολέων.<p><b>Étym</b>. μ. λύκος.`

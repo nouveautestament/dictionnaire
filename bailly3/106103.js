@@ -1,0 +1,1 @@
+lar[106103]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Philostéphanos :<br><b>      1</b> <i>historien et géographe,</i> PLUT. <i>Lyc. 23</i>.<br><b>      2</b> <i>poète de la nouvelle comédie,</i> ATH. <i>291f</i>.<p><b>Étym</b>. <i>v</i>. φιλοστέφανος.`

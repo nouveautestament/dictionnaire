@@ -1,0 +1,1 @@
+lar[70897]=`<b>ὁλ·άργυρος, ος, ον</b> <font color="purple">[ῠ]</font> d’argent massif, CALLIX. (ATH. <i>199d</i>).<p><b>Étym</b>. ὅλος, ἄργυρος.`

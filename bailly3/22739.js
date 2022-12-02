@@ -1,0 +1,1 @@
+lar[22739]=`<b>ων (οἱ)</b> les Gymnæes, <i>pple voisin du Palus-Mæotide,</i> ORPH. <i>Arg. 1065</i>.`

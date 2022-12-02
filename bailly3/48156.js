@@ -1,0 +1,1 @@
+lar[48156]=`<b>ιος (ἡ)</b> action de s’enivrer avec du vin pur, HPC. <i>Aph. 1245</i> ; GAL. <i>18, 1, p. 154</i>.<p><b>Étym</b>. θωρήσσω.`

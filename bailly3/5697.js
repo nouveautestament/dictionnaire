@@ -1,0 +1,1 @@
+lar[5697]=`<b>ἀ·μνησίκακος, ος, ον</b> <font color="purple">[ῐᾰ]</font> sans ressentiment, CLÉM. <i>Str. 7, 14</i>.`

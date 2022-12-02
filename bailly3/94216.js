@@ -1,0 +1,1 @@
+lar[94216]=`<b>συμ·περιτίθημι</b> <font color="purple">[τῐ]</font> mettre tout autour de, entourer de : τινί τι, PLUT. <i>Nic. 5,</i> entourer qqn de qqe ch.`

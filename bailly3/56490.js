@@ -1,0 +1,1 @@
+lar[56490]=`<b>κοινο·πραγέω-ῶ</b> <font color="purple">[ᾱ]</font> agir de concert avec, être d’intelligence avec, <i>dat</i>. POL. <i>5, 57, 2, etc.</i> ; DS. <i>19, 6</i> ; PLUT. <i>Galb. 6, M. 380a</i>.<p><b>Étym</b>. κοινός, <i>th</i>. πραγ- <i>de</i> πράσσω.`

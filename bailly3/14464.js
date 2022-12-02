@@ -1,0 +1,1 @@
+lar[14464]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτᾱ]</font> récit de choses merveilleuses (<i>et non sel. l’interprétation commune,</i> dissertation bouffonne sur la vertu), STR.<p>➳ <i>Ion</i>. -ίη, MAN. <i>4, 447</i>.<p><b>Étym</b>. ἀρεταλόγος.`

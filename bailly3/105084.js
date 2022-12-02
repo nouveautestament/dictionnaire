@@ -1,0 +1,1 @@
+lar[105084]=`<b>ωνος (ὁ) :<br>      1</b> homme parcimonieux, avare, <i>seul. comme n. pr</i>. « l’Avare », <i>rôle de la nouvelle comédie,</i> ANTIPH. (<i>Com. fr. 3, 106</i>) ; AR. <i>Nub. 134</i>.<br><b>      2</b> vase à huile qui ne laissait tomber le liquide que goutte à goutte, ARSTT. <i>fr. 440</i>.<p><b>Étym</b>. φείδομαι.`

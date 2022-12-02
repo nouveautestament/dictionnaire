@@ -1,0 +1,1 @@
+lar[62195]=`<b>*λωτο·φόρος, ος, ον</b>, qui produit du lotus, PHÉRÉCR. (ATH. <i>685b</i>).<p><b>Étym</b>. λ. φέρω.`

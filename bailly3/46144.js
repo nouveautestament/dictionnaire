@@ -1,0 +1,1 @@
+lar[46144]=`<b>Θαλασσ·έρως, ωτος (ὁ)</b> <font color="purple">[θᾰ]</font> Amant-de-la-mer, <i>n. de pêcheur,</i> ALCIPHR. <i>1, 18</i>.<p><b>Étym</b>. θάλασσα, ἐράω.`

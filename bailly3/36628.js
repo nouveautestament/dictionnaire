@@ -1,0 +1,1 @@
+lar[36628]=`<b>*ἐπ·αναπήγνυμι</b> <font color="purple">[ῡ]</font> (<i>seul. ao. moy. poét</i>. ἐπαμπήξασθαι) fixer solidement dans <i>ou</i> sur, ORPH. <i>Arg. 317</i>.`

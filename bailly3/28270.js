@@ -1,0 +1,1 @@
+lar[28270]=`<b>ας (ἡ) :<br>      1</b> basse naissance, SOPH. <i>O.R. 1079</i> ; EUR. <i>I.A. 446 ; au plur</i>. PLAT. <i>Rsp. 618d ;</i> PLUT. <i>M. 35e.</i><br><b>      2</b> <i>fig</i>. bassesse de sentiments, EUR. <i>H.f. 663</i> ; PLUT. <i>M. 1b</i>.<p><b>Étym</b>. δυσγενής.`

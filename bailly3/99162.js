@@ -1,0 +1,1 @@
+lar[99162]=`<b>ης (ἡ)</b> Tilphoussa, <i>fontaine de Béotie consacrée à Apollon,</i> PAUS. <i>9, 33, 1</i>.`

@@ -1,0 +1,1 @@
+lar[82292]=`<b>πολυ·πότνια, ας</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. très auguste, très sainte, HH. <i>Cer. 211</i>.`

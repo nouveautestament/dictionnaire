@@ -1,0 +1,1 @@
+lar[51511]=`<b>ου (ὁ)</b> Kanèthos, <i>h</i>. PLUT. <i>Thes. 25</i> ; A.RH. <i>1, 77</i>.`

@@ -1,0 +1,1 @@
+lar[68058]=`<b>(ἡ)</b> Némanous, <i>divinité phénicienne,</i> PLUT. <i>Is. et Os. 15</i>.`

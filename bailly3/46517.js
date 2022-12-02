@@ -1,0 +1,1 @@
+lar[46517]=`<b>εως (ἡ)</b> divinité, PLUT. <i>M. 851 conj</i>.<p><b>Étym</b>. θειόω¹.`

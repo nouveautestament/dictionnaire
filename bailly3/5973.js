@@ -1,0 +1,1 @@
+lar[5973]=`<b>ης, ες</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> semblable à une égratignure, HPC. <i>Coac. 189a.</i><br><b>      2</b> qui est comme égratigné, TH. <i>H.P. 1, 13, 5</i>.<p><b>Étym</b>. ἀμυχή, -ώδης.`

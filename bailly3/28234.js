@@ -1,0 +1,1 @@
+lar[28234]=`<font color="purple">[ῠᾰ]</font> <i>adv.</i> :<br><b>      1</b> désagréablement, PLUT. <i>M. 467b.</i><br><b>      2</b> avec des dispositions chagrines, BAS. <i>1, 845d</i>.`

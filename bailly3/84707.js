@@ -1,0 +1,1 @@
+lar[84707]=`<b>προ·μελαίνω</b>, noircir auparavant, NIC. <i>Th. 797</i>.`

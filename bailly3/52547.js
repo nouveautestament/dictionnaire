@@ -1,0 +1,1 @@
+lar[52547]=`<b>εως (ἡ) :<br>      1</b> action de fermer, d’obstruer, GAL. <i>19, 445</i>.<br><b>      2</b> conclusion, NICOM. <i>Arithm. 43</i>.<p><b>Étym</b>. κατακλείω.`

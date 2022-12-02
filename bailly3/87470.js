@@ -1,0 +1,1 @@
+lar[87470]=`<b>ή, όν</b>, qui est tombé, HDN GR. <i>π. μ. λ. p. 38</i>.<p><b>Étym</b>. <i>vb. de</i> πίπτω.`

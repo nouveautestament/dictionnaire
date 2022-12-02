@@ -1,0 +1,1 @@
+lar[59072]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> cavité, ARSTT. <i>H.A. 9, 30</i>.<br><b>      2</b> ordure dans les oreilles, LUC. <i>Lex. 1</i> ; LIB. <i>v. 4, p. 144</i>.<p><b>Étym</b>. κυψέλη.`

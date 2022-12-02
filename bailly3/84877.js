@@ -1,0 +1,1 @@
+lar[84877]=`<b>προ·παιδεύω</b>, enseigner auparavant, <i>acc</i>. CLÉM. <i>484 ; au pass</i>. PLAT. <i>Rsp. 536d ;</i> ARSTT. <i>Pol. 8, 1, 2, etc</i>.`

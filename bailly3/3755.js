@@ -1,0 +1,1 @@
+lar[3755]=`<b>οῦ (ὁ)</b> qui lance des traits de loin, tirailleur, XÉN. <i>Cyr. 6, 1, 16</i> ; EL. TACT. <i>43</i>.`

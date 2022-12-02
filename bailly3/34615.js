@@ -1,0 +1,1 @@
+lar[34615]=`rendre un, ramener à l’unité, XÉNOPHAN. (ARSTT. <i>Metaph. 1, 5, 12</i>) ; PROCL. <i>Plat. Parm. 597 Stallb. ; en parl. de la Trinité,</i> NAZ. <i>3, 1074 Migne</i>.<p><b>Étym</b>. <i>th</i>. ἑν- <i>de</i> εἷς.`

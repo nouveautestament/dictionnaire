@@ -1,0 +1,1 @@
+lar[81757]=`<b>ας (ἡ)</b> pousse vigoureuse et abondante, TH. <i>C.P. 3, 7, 5</i>.<p><b>Étym</b>. πολυβλαστής.`

@@ -1,0 +1,1 @@
+lar[79768]=`<b>ας (ἡ)</b> la fille de Persès, <i>càd</i>. Hékatè, ORPH. <i>H. 1, 4</i>.<p><b>Étym</b>. Πέρσης.`

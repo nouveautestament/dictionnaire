@@ -1,0 +1,1 @@
+lar[84283]=`<b>προ·ευλαβέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -ήσομαι, <i>part. ao</i>. προευλαβηθείς)</font> se tenir d’avance sur ses gardes, prendre ses précautions, DÉM. <i>798 fin</i>.`

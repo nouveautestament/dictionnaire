@@ -1,0 +1,1 @@
+lar[644]=`<b>ων (τὰ)</b> = <i>lat</i>. ancilia, boucliers sacrés, PLUT. <i>Num. 13</i>.`

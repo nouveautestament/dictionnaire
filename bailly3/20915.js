@@ -1,0 +1,1 @@
+lar[20915]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Bryousa, <i>litt</i>. bourgeonnante <i>ou</i> fleurie, <i>n. d’une Ménade,</i> NONN. <i>D. 14, 222</i>.`

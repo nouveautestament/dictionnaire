@@ -1,0 +1,1 @@
+lar[91733]=`<b>ης, ες</b> <font color="purple">[πᾰμᾰ]</font> déchirant, convulsif, PLUT. <i>M. 130d</i>.<p><b>Étym</b>. σπάραγμα, -ωδης.`

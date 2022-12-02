@@ -1,0 +1,1 @@
+lar[20079]=`<b>ου (τὸ)</b> <i>dim. de</i> βοῦς, ARSTT. <i>H.A. 3, 21, 2 etc. ; p. contract</i>. βοίδιον, AR. <i>Ach. 1036</i>.`

@@ -1,0 +1,1 @@
+lar[76767]=`<b>παρ·επισπάομαι</b>, tirer à soi doucement <i>ou</i> furtivement, PHIL. <i>1, 540</i>.`

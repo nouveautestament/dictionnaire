@@ -1,0 +1,1 @@
+lar[7715]=`<b>ἀναστρωφάω-ῶ :<br>      1 <i>tr.</i></b> tourner et retourner, OD. <i>21, 394</i> ; HÉS. <i>Sc. 121</i> ; ANTH. <i>7, 395</i>.<br><b>      2 <i>intr.</i></b> retourner, revenir, ARAT. <i>1069</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. SOPH. <i>fr. 682</i>.<p><b>Étym</b>. ἀναστρέφω.`

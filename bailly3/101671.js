@@ -1,0 +1,1 @@
+lar[101671]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> d’Hykkares, THC. <i>7, 13</i>.<p><b>Étym</b>. <i>v</i>. Ὕκκαρα.`

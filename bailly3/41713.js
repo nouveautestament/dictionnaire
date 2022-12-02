@@ -1,0 +1,1 @@
+lar[41713]=`<i>adv</i>., comme en Eubée, SYN. <i>23d</i>.`

@@ -1,0 +1,1 @@
+lar[58802]=`<b>κυνο·κάρδαμον, ου (τὸ)</b> <font color="purple">[ῠδᾰ]</font> sorte de cresson, <i>plante,</i> DIOSC. <i>2, 185</i>.<p><b>Étym</b>. κύων, κάρδαμον.`

@@ -1,0 +1,1 @@
+lar[77938]=`<b>ου (ὁ)</b> Penthilos, <i>h</i>. ARSTT. <i>Pol. 5, 8, 13</i>.`

@@ -1,0 +1,1 @@
+lar[49094]=`<i>adv</i>., à partir des reins, ARAT. <i>144</i>.<p><b>Étym</b>. ἰξύς, -θεν.`

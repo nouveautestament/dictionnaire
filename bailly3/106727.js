@@ -1,0 +1,1 @@
+lar[106727]=`<b>φορτ·ηγός, ός, όν :<br>      1</b> qui porte une charge <i>ou</i> des fardeaux : <i>subst</i>. ὁ φ. THGN. <i>679,</i> portefaix.<br><b>      2</b> qui transporte des marchandises par mer, ESCHL. <i>fr. 256</i> ; ναῦς, POL. <i>1, 5, 2, 6, etc.</i> ; PLUT. <i>Pomp. 11, 73 ; ou</i> πλοῖον, DS. <i>14, 55, etc</i>. vaisseau de transport.<p><b>Étym</b>. φόρτος, ἄγω.`

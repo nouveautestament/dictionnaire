@@ -1,0 +1,1 @@
+lar[109881]=`<i>interj</i>. fi ! SOPH. <i>fr. 461</i>.`

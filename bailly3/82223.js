@@ -1,0 +1,1 @@
+lar[82223]=`<b>πολυ·πάτητος, ος, ον</b> <font color="purple">[ῠᾰ]</font> très foulé, très fréquenté ; <i>fig</i>. rebattu, commun, PLUT. <i>M. 514c</i>.<p><b>Étym</b>. π. πατέω.`

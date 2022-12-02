@@ -1,0 +1,1 @@
+lar[96041]=`<b>συν·νάσσω</b> <font color="darkgreen">(<i>ao. part</i>. συννάξαντες)</font> presser ensemble, HDT. <i>7, 60 conj</i>.`

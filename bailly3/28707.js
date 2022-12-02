@@ -1,0 +1,1 @@
+lar[28707]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> difficulté d’une route, APP. <i>Syr. 21</i> ; mauvaise voie, PLUT. <i>M. 448a ;</i> PHIL. <i>2, 67, etc</i>.<p><b>Étym</b>. δύσοδος.`

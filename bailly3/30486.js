@@ -1,0 +1,1 @@
+lar[30486]=`<font color="purple">[ῡ]</font> (<i>seul. prés. et impf</i>. εἰλύφαζον) :<br><b>      1 <i>tr.</i></b> faire tournoyer, <i>acc</i>. IL. <i>20, 492 (prés</i>.).<br><b>      2 <i>intr.</i></b> tournoyer, HÉS. <i>Sc. 275 (impf</i>.).<p><b>Étym</b>. εἰλυφάω.`

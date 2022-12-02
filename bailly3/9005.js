@@ -1,0 +1,1 @@
+lar[9005]=`<b>ἀνθ·ύπατος, ος, ον</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> proconsulaire, DH. <i>9, 16 ; 11, 62</i>.<br><b>      2 ὁ ἀ.</b> proconsul, POL. <i>21, 8, 11</i> ; DH. <i>9, 16</i> ; PLUT. <i>Galb. 3, etc</i>.<p><b>Étym</b>. ἀντί, ὕ.`

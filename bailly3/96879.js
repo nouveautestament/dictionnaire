@@ -1,0 +1,1 @@
+lar[96879]=`<b>σφηνο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> à tête pointue, <i>litt</i>. en forme de coin, STR. <i>70</i>.<p><b>Étym</b>. σφήν, κεφαλή.`

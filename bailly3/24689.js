@@ -1,0 +1,1 @@
+lar[24689]=`<i>adv</i>., en divisant, en distinguant, PLUT. <i>M. 802f ;</i> CLÉM. <i>1, 668a Migne</i>.`

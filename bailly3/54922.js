@@ -1,0 +1,1 @@
+lar[54922]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière avantageuse, utile, THC. <i>3, 56</i>.<p><b>Étym</b>. κερδαλέος.`

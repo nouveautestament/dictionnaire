@@ -1,0 +1,1 @@
+lar[101508]=`<b>ης (ἡ)</b> chanvre sylvestre, <i>plante,</i> DIOSC. <i>Noth. 3, 166</i>.`

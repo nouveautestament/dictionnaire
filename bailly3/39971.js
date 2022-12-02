@@ -1,0 +1,1 @@
+lar[39971]=`<b>ἑπτακαιεικοσα·πλάσιος, ος, ον</b> <font color="purple">[τᾰᾰσ]</font> vingt-sept fois aussi grand <i>ou</i> nombreux, PLAT. <i>Tim. 35e</i>.<p><b>Étym</b>. ἑ. <i>etc</i>. -πλάσιος.`

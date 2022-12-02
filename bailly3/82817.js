@@ -1,0 +1,1 @@
+lar[82817]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πορνεία, MAN. <i>4, 314</i>.`

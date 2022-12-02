@@ -1,0 +1,1 @@
+lar[9817]=`<b>ἀντι·δείκνυμι</b>, montrer au contraire, SYN.`

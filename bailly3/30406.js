@@ -1,0 +1,1 @@
+lar[30406]=`<b>ή, όν</b>, qui cède facilement, THÉM. <i>p. 42</i>.<p><b>Étym</b>. εἴκω.`

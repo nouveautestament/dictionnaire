@@ -1,0 +1,1 @@
+lar[18856]=`<b>ων (οἱ)</b> les Bakales, <i>pple de Libye,</i> NONN. <i>D. 13, 376</i> (<i>var</i>. Κάβαλες).`

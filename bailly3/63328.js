@@ -1,0 +1,1 @@
+lar[63328]=`<b>Μεγάλη πόλις (ἡ)</b> <i>autre n. de</i> Μεγαλόπολις, DÉM. <i>16, 4 Baiter-Sauppe, etc.</i> ; ARSTT. <i>Mir. 127, etc</i>.`

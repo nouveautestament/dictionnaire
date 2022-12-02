@@ -1,0 +1,1 @@
+lar[38453]=`<b>εως (ἡ)</b> commerce avec, <i>gén</i>. THGN. <i>297</i>.<p><b>Étym</b>. ἐπιμίγνυμι.`

@@ -1,0 +1,1 @@
+lar[67165]=`<b>ου (ὁ)</b> sorte de poisson, <i>c</i>. μύξος, HICÉS. (ATH. <i>306e</i>, f).`

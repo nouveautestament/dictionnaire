@@ -1,0 +1,1 @@
+lar[19832]=`(<i>seul. prés</i>.) :<br><b>      1</b> recouvrer la vie, ARSTT. <i>Meteor. 1, 14, 3</i>.<br><b>      2</b> vivre, ARR. <i>Ind. 9</i>.`

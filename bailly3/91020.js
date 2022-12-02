@@ -1,0 +1,1 @@
+lar[91020]=`<b>ας (ἡ) :<br>      1</b> dureté, PLUT. <i>M. 376b ;</i> CLÉM. <i>488</i>.<br><b>      2</b> induration, DIOSC. <i>2, 81</i> ; ARÉT. <i>p. 42, 11</i>.<p><b>Étym</b>. σκληρός.`

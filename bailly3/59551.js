@@ -1,0 +1,1 @@
+lar[59551]=`<b>α (ὁ)</b> = <i>lat</i>. Lænas, <i>n. d’h. rom</i>. PLUT. <i>Brut. 15 et 16, etc</i>.`

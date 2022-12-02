@@ -1,0 +1,1 @@
+lar[35980]=`<b>ἐξ·ιδιοποιέομαι-οῦμαι</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἐξιδιόομαι DS. <i>5, 57 ; 14, 21</i> ; DYSC. <i>Synt. 199, 6</i> ; CLÉM. <i>1, 1012b ; 2, 281b Migne</i> ; ATH. <i>50f</i>.`

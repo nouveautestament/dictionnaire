@@ -1,0 +1,1 @@
+lar[109312]=`<b>(ἡ)</b> <font color="purple">[ῡ]</font> Khrysô, <i>surn. d’Aphrodite,</i> THCR. <i>Idyl. 15, 101 conj</i>.<p><b>Étym</b>. χρυσός.`

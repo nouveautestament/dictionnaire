@@ -1,0 +1,1 @@
+lar[106857]=`<b>φρενο·μόρως</b>, <i>adv</i>., avec l’esprit en délire, SOPH. <i>Aj. 626</i>.<p><b>Étym</b>. φρ. μόρος.`

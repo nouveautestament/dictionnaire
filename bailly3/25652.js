@@ -1,0 +1,1 @@
+lar[25652]=`<b>οῦ (ὁ)</b> déchirement, raillerie méchante, DS. <i>14, 109</i> ; LGN <i>38, 6, etc</i>.`

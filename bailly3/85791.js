@@ -1,0 +1,1 @@
+lar[85791]=`<b>προσ·εταιρίζομαι :<br>      1 <i>tr.</i></b> prendre pour compagnon : τινα, HDT. <i>3, 70 ; 5, 66</i> ; LUC. <i>Philopatr. 9,</i> qqn.<br><b>      2 <i>intr.</i></b> se faire le compagnon de : τινι, PLAT. <i>Ax. 369b</i>, de qqn.<p><b>Étym</b>. π. ἑταιρίζω.`

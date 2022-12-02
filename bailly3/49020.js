@@ -1,0 +1,1 @@
+lar[49020]=`<b>ης (ἡ)</b> <font color="purple">[ῑᾰ]</font> <i>c</i>. Ἰναχίς CALL. <i>Dian. 254</i>.`

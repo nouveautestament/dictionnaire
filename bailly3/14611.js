@@ -1,0 +1,1 @@
+lar[14611]=`<b>α (ὁ)</b> Arimnas, <i>h</i>. CALL. <i>Ep. 17</i>.`

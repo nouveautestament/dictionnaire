@@ -1,0 +1,1 @@
+lar[48738]=`<b>ἰθυ·κέλευθος, ος, ον</b> <font color="purple">[ῑῠ]</font> qui suit le droit chemin, NONN. <i>D. 15, 364</i>.<p><b>Étym</b>. ἰ. κέλευθος.`

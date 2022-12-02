@@ -1,0 +1,1 @@
+lar[77517]=`<b>ων (οἱ)</b> les habitants de Pedum (<i>p.-ê. auj</i>. Gallicano nel Lazio) <i>v. du Latium,</i> PLUT. <i>Cor. 27</i>.`

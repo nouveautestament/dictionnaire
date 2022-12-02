@@ -1,0 +1,1 @@
+lar[55497]=`<b>οῦ</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. qui affronte le danger, hardi, THC. <i>1, 70</i> ; DC. <i>Exc. p. 32, 96</i>.<p><b>Étym</b>. κινδυνεύω.`

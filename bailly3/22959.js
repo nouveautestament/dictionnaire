@@ -1,0 +1,1 @@
+lar[22959]=`<b>ῆρος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. déchirant (gémissement), ESCHL. <i>Sept. 916</i>.<p><b>Étym</b>. δαΐζω.`

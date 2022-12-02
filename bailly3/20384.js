@@ -1,0 +1,1 @@
+lar[20384]=`<b>ου (ὁ)</b> Boukartéros, <i>mt d’Asie,</i> NIC. <i>Th. 217</i>.`

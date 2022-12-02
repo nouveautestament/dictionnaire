@@ -1,0 +1,1 @@
+lar[35746]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> ἐξελαύνω, JUL. <i>300c</i>.`

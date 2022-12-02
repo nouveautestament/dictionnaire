@@ -1,0 +1,1 @@
+lar[56704]=`<b>κολοσσο·πόνος, ου (ὁ)</b> qui fait des statues colossales, MAN. <i>4, 570</i>.<p><b>Étym</b>. κολοσσός, πονέω.`

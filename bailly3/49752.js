@@ -1,0 +1,1 @@
+lar[49752]=`<b>ἰσο·σύλλαβος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> qui a un même nombre de syllabes, PLUT. <i>M. 739a</i>.<p><b>Étym</b>. ἴ. συλλαβή.`

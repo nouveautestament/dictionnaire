@@ -1,0 +1,1 @@
+lar[55522]=`<b>εως (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. κιννάβαρι, ANAXANDR. <i>(Bkk. p. 1208</i>) ; EL. <i>N.A. 4, 21 et 46</i>.`

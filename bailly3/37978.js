@@ -1,0 +1,1 @@
+lar[37978]=`<b>ατος (τὸ)</b> brûlure sur la peau, <i>particul</i>. épicaume, phlyctère sur la cornée, GAL. <i>12, 758</i>.<p><b>Étym</b>. ἐπικαίω.`

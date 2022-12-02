@@ -1,0 +1,1 @@
+lar[104783]=`<b>φαλλο·φόρος, ος, ον</b>, qui porte un phallus, SEMUS (ATH. <i>622d</i>).<p><b>Étym</b>. φαλλός, φέρω.`

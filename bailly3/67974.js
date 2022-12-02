@@ -1,0 +1,1 @@
+lar[67974]=`<i>adv</i>., récemment, A.RH. <i>1, 125</i>.<p><b>Étym</b>. <i>ion. c</i>. νέον.`

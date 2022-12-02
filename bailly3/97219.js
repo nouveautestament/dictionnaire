@@ -1,0 +1,1 @@
+lar[97219]=`<b>ή, όν</b>, de la nature du sorite, SEXT. <i>P. 3, 80</i>.<p><b>Étym</b>. σωρείτης.`

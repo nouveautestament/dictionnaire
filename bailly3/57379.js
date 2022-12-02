@@ -1,0 +1,1 @@
+lar[57379]=`<b>ης (ἡ)</b> = <i>lat</i>. Quinta, <i>n. de f. rom</i>. ANTH. <i>App. 375</i>.`

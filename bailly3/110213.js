@@ -1,0 +1,1 @@
+lar[110213]=`<b>ὠκυ·φόνος, ος, ον</b> <font color="purple">[ῠ]</font> qui tue promptement, ARÉT. <i>Caus. m. acut. 2, 3</i>.<p><b>Étym</b>. ὠ. πεφνεῖν.`

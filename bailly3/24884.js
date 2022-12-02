@@ -1,0 +1,1 @@
+lar[24884]=`<b>δια·κυλινδέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) faire rouler en tous sens, ARSTT. <i>H.A. 9, 8, 5</i>.`

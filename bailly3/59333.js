@@ -1,0 +1,1 @@
+lar[59333]=`<b>ητος (ὁ)</b> Labès, <i>n. de chien, avec jeu de mots sur le nom</i> Λάχης, AR. <i>Vesp. 836, 895</i>.`

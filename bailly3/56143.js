@@ -1,0 +1,1 @@
+lar[56143]=`<b>η, ον</b> <font color="purple">[ῠ]</font> <i>seul. masc</i>. renommé, célèbre, THCR. <i>Idyl. 14, 26 ; particul. ép. de Pluton,</i> ANTH. <i>7, 9, etc.</i> ; PAUS. <i>2, 35, 9</i>.<p><b>Étym</b>. κλύω.`

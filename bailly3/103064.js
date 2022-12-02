@@ -1,0 +1,1 @@
+lar[103064]=`<b>ὑπο·γαστρίς, ίδος (ἡ)</b> ventre, panse, PHILOX. <i>fr. 2, 23 Bgk</i>.`

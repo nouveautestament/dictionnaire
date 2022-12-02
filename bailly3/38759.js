@@ -1,0 +1,1 @@
+lar[38759]=`<b>ῶν (αἱ)</b> Épipoles, <i>hauteur au N. O. de Syracuse,</i> THC. <i>6, 96</i> ; PLUT. <i>Tim. 21, Nic. 17, 21</i> ; EL. <i>V.H. 12, 44</i> ; LUC. <i>H. conscr. 38, 57</i>.`

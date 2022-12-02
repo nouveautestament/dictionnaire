@@ -1,0 +1,1 @@
+lar[94211]=`<b>συμ·περιστέλλω</b>, envelopper entièrement, <i>d’où</i> cacher, voiler, POL. <i>10, 25, 9</i>.`

@@ -1,0 +1,1 @@
+lar[10919]=`<i>adv</i>., de manière à être pris en considération, XÉN. <i>Mem. 1, 5, 5</i> ; PLUT. <i>M. 128e</i>.`

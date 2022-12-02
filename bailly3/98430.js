@@ -1,0 +1,1 @@
+lar[98430]=`<b>Τερψι·χόρα, ας (ἡ)</b> <font color="purple">[ῐᾱ]</font> Terpsikhora (Terpsichore), <i>muse de la danse et du chant,</i> HÉS. <i>Th. 78</i> ; PD. <i>I. 2, 12</i> ; PLAT. <i>Phædr. 259c, etc</i>.<p>➳ <i>Ion</i>. -όρη, HÉS. <i>Th. 78</i>.<p><b>Étym</b>. <i>fém. de</i> τερψίχορος.`

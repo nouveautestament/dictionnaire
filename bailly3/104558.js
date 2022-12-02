@@ -1,0 +1,1 @@
+lar[104558]=`<b>ὑψ·όφθαλμος, ος, ον</b>, aux yeux saillants, PROCL. <i>Ptol. p. 230</i>.<p><b>Étym</b>. ὕψι, ὀφθαλμός.`

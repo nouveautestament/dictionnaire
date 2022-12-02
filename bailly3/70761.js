@@ -1,0 +1,1 @@
+lar[70761]=`<b>οἰωνό·θροος, ος, ον</b> (cri) que font entendre les oiseaux, ESCHL. <i>Ag. 56</i>.<p><b>Étym</b>. οἰωνός, θρέω.`

@@ -1,0 +1,1 @@
+lar[84569]=`<b>προ·κλύζω :<br>      1</b> laver <i>ou</i> inonder auparavant, PHIL. <i>1, 257</i>.<br><b>      2</b> donner un lavement auparavant, A. TR. <i>8, 463</i>.`

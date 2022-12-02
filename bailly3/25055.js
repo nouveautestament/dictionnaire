@@ -1,0 +1,1 @@
+lar[25055]=`<b>δια·μιγνύω</b> (<i>part. prés</i>.) entremêler, PLUT. <i>M. 1132d</i>.<p><i>cf</i>. διαμίγνυμι.`

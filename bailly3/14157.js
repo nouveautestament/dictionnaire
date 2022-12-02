@@ -1,0 +1,1 @@
+lar[14157]=`<font color="purple">[ᾰᾱ]</font> <i>part. pf. de</i> ἀραρίσκω.`

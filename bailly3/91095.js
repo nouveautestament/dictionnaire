@@ -1,0 +1,1 @@
+lar[91095]=`<b>ης, ες</b>, qui ressemble à la scolopendre, STR. <i>583</i>.<p><b>Étym</b>. σκ. -ωδης.`

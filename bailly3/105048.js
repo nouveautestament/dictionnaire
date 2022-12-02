@@ -1,0 +1,1 @@
+lar[105048]=`<b>(ὁ)</b> Phaôphi, <i>mois égyptien,</i> PLUT. <i>Is. et Os. 30</i> ; ANTH. <i>9, 383</i>.`

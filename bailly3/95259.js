@@ -1,0 +1,1 @@
+lar[95259]=`<b>συν·εείκοσι</b>, <i>ion</i>. <b>ξυν·εείκοσι</b> (οἱ, αἱ, τὰ) <i>indécl</i>. vingt ensemble, vingt par vingt, OD. <i>14, 98</i>.`

@@ -1,0 +1,1 @@
+lar[48924]=`<i>mieux que</i> <b>Ἰλισσίδες, ων (αἱ)</b> <font color="purple">[ῑλ]</font> les habitantes de l’Hilisos (Ilissus) <i>càd</i>. les Muses, APD. (E. BYZ. <i>v°</i> Ἰλισσός).<p><b>Étym</b>. Ἱλισός.`

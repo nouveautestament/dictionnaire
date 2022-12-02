@@ -1,0 +1,1 @@
+lar[75972]=`<b>παρα·νεάτη</b>, CRAT. (<i>Com. fr. 2, 93</i>) : <i>p. contr</i>. <b>παρανήτη, ης (ἡ)</b> (<i>s.-e</i>. χορδή) l’avant-dernière corde de la lyre, ARSTT. <i>Metaph. 4, 11</i> ; PLUT. <i>M. 1137c</i>.<p><b>Étym</b>. π. νήτη.`

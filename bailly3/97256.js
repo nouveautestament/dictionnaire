@@ -1,0 +1,1 @@
+lar[97256]=`<b>σωσί·οικος, ος, ον</b>, qui sauve <i>ou</i> protège les maisons, les familles, APOLL. <i>Lex. v°</i> σῶκος.<p><b>Étym</b>. σῴζω, οἶκος.`

@@ -1,0 +1,1 @@
+lar[43554]=`<b>ας (ἡ)</b> Eutæa, <i>v. d’Arcadie,</i> XÉN. <i>Hell. 6, 5, 12, etc</i>.`

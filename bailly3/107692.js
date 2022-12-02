@@ -1,0 +1,1 @@
+lar[107692]=`<b>χαλκο·στέφανος, ος, ον</b> <font color="purple">[φᾰ]</font> couronné d’airain, <i>ép. d’un temple,</i> ANTH. <i>App. 1, 40</i>.<p><b>Étym</b>. χ. στέφανος.`

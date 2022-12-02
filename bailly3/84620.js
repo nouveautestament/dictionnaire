@@ -1,0 +1,1 @@
+lar[84620]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. προκύλισις DH. <i>9, 33</i>.`

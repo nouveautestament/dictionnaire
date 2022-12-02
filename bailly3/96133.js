@@ -1,0 +1,1 @@
+lar[96133]=`<b>συνοικοδεσποτέω-ῶ</b>, présider à la naissance, <i>t. d’astrol</i>. PTOL. <i>Tetr. p. 61, 66</i>.<p><b>Étym</b>. συνοικοδεσπότης.`

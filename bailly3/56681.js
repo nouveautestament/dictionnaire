@@ -1,0 +1,1 @@
+lar[56681]=`<b>ης, ες</b>, qui ressemble à un geai <i>ou</i> à un choucas, PLUT. <i>M. 93e</i>.<p><b>Étym</b>. κολοιός, -ωδης.`

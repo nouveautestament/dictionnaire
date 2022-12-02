@@ -1,0 +1,1 @@
+lar[80623]=`<b>ῶν (οἱ)</b> habitants de Plakia, HDT. <i>1, 57</i>.<p><b>Étym</b>. Πλακία.`

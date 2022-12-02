@@ -1,0 +1,1 @@
+lar[85581]=`<b>προσ·εμφράττω</b>, obstruer <i>ou</i> boucher en outre, GAL. <i>6, 124</i>.`

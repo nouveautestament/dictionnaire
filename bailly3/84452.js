@@ -1,0 +1,1 @@
+lar[84452]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰ]</font> action d’aborder le premier <i>ou</i> auparavant, ARR. <i>An. 1, 18, 5</i>.<p><b>Étym</b>. προκατάγομαι.`

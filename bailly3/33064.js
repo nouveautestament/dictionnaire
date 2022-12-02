@@ -1,0 +1,1 @@
+lar[33064]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite chaussure, AR. <i>Vesp. 600, etc</i>.<p><b>Étym</b>. <i>dim. de</i> ἐμβάς.`

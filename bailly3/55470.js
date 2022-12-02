@@ -1,0 +1,1 @@
+lar[55470]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Kimôn (Cimon) :<br><b>      1</b> <i>père de Miltiade,</i> HDT. <i>6, 34, etc.</i> ; PLUT. <i>Cim. 4</i>.<br><b>      2</b> <i>fils de Miltiade,</i> HDT. <i>6, 136, etc.</i> ; PLAT. <i>Gorg. 503c, etc.</i><br><b>      3</b> <i>autres,</i> ESCHN. <i>2, 21 Baiter-Sauppe, etc</i>.`

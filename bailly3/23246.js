@@ -1,0 +1,1 @@
+lar[23246]=`<i>gén. ion</i>. <b>-έων (οἱ)</b> les Dardanes, <i>pple d’Asie, dans le Kurdistan d’auj</i>. HDT. <i>1, 189</i>.`

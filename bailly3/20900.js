@@ -1,0 +1,1 @@
+lar[20900]=`<b>οῦ (ὁ)</b> volupté, EPIC. (PLUT. <i>M. 1107a</i>).<p><b>Étym</b>. βρυάζω.`

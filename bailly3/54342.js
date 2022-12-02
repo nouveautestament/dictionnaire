@@ -1,0 +1,1 @@
+lar[54342]=`<b>ωνος (ὁ) :<br>      1</b> chaleur ardente, ATH. <i>73a ;</i> NT. <i>Matth. 20, 12 ; particul</i>. vent brûlant et qui dessèche, sirocco, SPT. <i>Jer. 18, 17</i>.<br><b>      2</b> fièvre ardente, LUC. <i>Philops. 26</i>.<p><b>Étym</b>. καῦσος.`

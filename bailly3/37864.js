@@ -1,0 +1,1 @@
+lar[37864]=`<b>ἐπι·καγχαλάω-ῶ</b> <font color="purple">[ᾰλ]</font> (<i>seul. prés</i>.) s’enorgueillir de, <i>dat</i>. Q. SM. <i>1, 161</i>.`

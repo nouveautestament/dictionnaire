@@ -1,0 +1,1 @@
+lar[82821]=`<b>πορνο·φίλας, α (ὁ)</b> <font color="purple">[ῐᾱ]</font> <i>dor</i>. qui aime les prostituées, ANTH. <i>11, 416</i>.<p><b>Étym</b>. π. φιλέω.`

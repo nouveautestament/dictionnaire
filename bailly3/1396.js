@@ -1,0 +1,1 @@
+lar[1396]=`<b>ἀ·διεξέργαστος, ος, ον</b>, qu’on ne peut parvenir à débrouiller, ISOCR. <i>104c</i>.<p><b>Étym</b>. ἀ, διεξεργάζομαι.`

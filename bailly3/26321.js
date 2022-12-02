@@ -1,0 +1,1 @@
+lar[26321]=`<b>δι·ευπορέω-ῶ</b> (<i>inf. ao</i>. -ῆσαι) avoir en abondance, <i>gén</i>. CHRYS. <i>6, 115</i>.`

@@ -1,0 +1,1 @@
+lar[34320]=`<b>ἐν·ελαύνω</b> <font color="darkgreen">(<i>ao.1</i> ἐνήλασα)</font> pousser dans, faire pénétrer dans, enfoncer dans, <i>avec</i> ἐν <i>et le dat</i>. PD. <i>N. 10, 131 ; fig. avec le dat</i>. PD. <i>P. 8, 11</i>.<br><b><i>Moy.</i></b> s’élancer dans <i>ou</i> contre, DC. <i>49, 30</i>.`

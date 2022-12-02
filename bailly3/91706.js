@@ -1,0 +1,1 @@
+lar[91706]=`<b>σπαθο·φοῖνιξ, ικος (ἡ)</b> <font color="purple">[ᾰῑκ]</font> tige de la fleur du palmier, NICOL. MYREPS. <i>16, 42</i>.<p><b>Étym</b>. σπάθη, φοῖνιξ.`

@@ -1,0 +1,1 @@
+lar[44614]=`<font color="purple">[ῠ]</font> <i>adv</i>., par couples, par paires, PHIL. <i>1, 237</i>.<p><b>Étym</b>. ζυγόν, -δην.`

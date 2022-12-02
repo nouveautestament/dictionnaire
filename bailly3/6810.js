@@ -1,0 +1,1 @@
+lar[6810]=`<b>ἀνα·θρηνέω-ῶ</b>, jeter des cris plaintifs, DC. <i>74, 13</i>.`

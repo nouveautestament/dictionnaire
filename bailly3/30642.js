@@ -1,0 +1,1 @@
+lar[30642]=`<b>ή, όν</b>, qui fait l’ignorant, PLAT. <i>Soph. 268a ;</i> τὸ εἰρωνικόν, PLAT. <i>Leg. 908e</i>, l’ignorance feinte, la dissimulation.<p><b>Étym</b>. εἴρων.`

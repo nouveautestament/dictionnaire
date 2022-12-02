@@ -1,0 +1,1 @@
+lar[12720]=`<b>οῦ (ὁ)</b> action de repousser en ruant, <i>càd</i>. avec violence <i>ou</i> avec mépris, ESCHL. <i>Suppl. 937</i> ; PLUT. <i>M. 917e</i>.<p><b>Étym</b>. ἀπολακτίζω.`

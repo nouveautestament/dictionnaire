@@ -1,0 +1,1 @@
+lar[31270]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de rallumer, de raviver, PLUT. <i>M. 156b</i>.<p><b>Étym</b>. ἐκζωπυρέω.`

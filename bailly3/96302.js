@@ -1,0 +1,1 @@
+lar[96302]=`<b>οῦ (ὁ)</b> qui accomplit, qui achève, NAZ.<p><b>Étym</b>. συντελέω.`

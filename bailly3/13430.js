@@ -1,0 +1,1 @@
+lar[13430]=`<b>ή, όν</b>, propre à frustrer de, <i>gén.,</i> AR. <i>Nub. 747</i>.`

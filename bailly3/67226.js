@@ -1,0 +1,1 @@
+lar[67226]=`<b>μυρί·αρχος, ου (ὁ)</b> <font color="purple">[ῡ]</font> commandant de 10 000 hommes, XÉN. <i>Cyr. 3, 3, 41</i>.<p><b>Étym</b>. μυρίοι, ἄρχω.`

@@ -1,0 +1,1 @@
+lar[12173]=`<b>οῦ (ὁ)</b> <font color="purple">[γᾰ]</font> sevrage, HPC. <i>267, 39, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀπογαλακτίζω.`

@@ -1,0 +1,1 @@
+lar[67631]=`<b>ναο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ᾱῠᾰκ]</font> pilote d’un vaisseau, SOPH. <i>fr. 151</i>.<p><b>Étym</b>. ναῦς, φύλαξ.`

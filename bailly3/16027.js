@@ -1,0 +1,1 @@
+lar[16027]=`<b>ή, όν</b>, accueilli avec joie, agréable, OD. <i>13, 35, etc.</i> ; EUR. PLAT. ; <i>neutre adv</i>. ἀσπαστόν, OD. <i>5, 398</i> ; HÉS. <i>Sc. 42,</i> avec joie.<p>•<i> Cp</i>. -ότερος, HDT. <i>1, 62</i>.<p>➳ <i>Fém. dor</i>. ἀσπαστά, MOSCH. <i>5, 7</i>.<p><b>Étym</b>. <i>vb. de</i> ἀσπάζομαι.`

@@ -1,0 +1,1 @@
+lar[55192]=`<b>κηλόομαι-οῦμαι :<br>      1</b> être affligé d’une hernie, ORNEOSOPH. I <i>p. 536, 24</i>.<br><b>      2</b> avorter, PTOL. <i>Tetr. p. 149, 26</i>.<p><b>Étym</b>. κήλη.`

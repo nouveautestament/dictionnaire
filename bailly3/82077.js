@@ -1,0 +1,1 @@
+lar[82077]=`<b>πολυ·λόγος, ος, ον</b> <font color="purple">[ῠ]</font> qui parle beaucoup, verbeux, PLAT. <i>Leg. 641e</i>.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Cyr. 1, 4, 3</i>.<p><b>Étym</b>. π. λέγω.`

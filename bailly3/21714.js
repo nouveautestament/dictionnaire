@@ -1,0 +1,1 @@
+lar[21714]=`<b>ιδος (ἡ)</b> <i>avec ou sans</i> γῆ, le pays de Gennèsareth, <i>près du lac de ce nom,</i> NT. <i>Matth. 13, 54 ; Marc. 6, 53</i>.`

@@ -1,0 +1,1 @@
+lar[93464]=`<b>σύγ·κληρος, ος, ον :<br>      1</b> <i>en parl. d’un lieu,</i> qui se trouve réuni par le sort, limitrophe, voisin, EUR. <i>Her. 32</i> ; NIC. <i>Al. 1</i>.<br><b>      2</b> assigné par un sort commun, PLUT. <i>M. 103f ;</i> LUC. <i>Am. 24 ; avec un gén</i>. LYC. <i>99, 985</i>.<p><b>Étym</b>. σ. κλῆρος.`

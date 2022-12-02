@@ -1,0 +1,1 @@
+lar[52712]=`<b>κατα·λεπτολογέω-ῶ</b>, dépenser en discours subtils, AR. <i>Ran. 828</i>.`

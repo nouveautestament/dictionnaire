@@ -1,0 +1,1 @@
+lar[68948]=`<b>νομο·ποιός, ός, όν</b>, qui compose des airs de musique, DL. <i>2, 104</i>.<p><b>Étym</b>. νόμος, ποιέω.`

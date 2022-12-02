@@ -1,0 +1,1 @@
+lar[31444]=`<b>ή, όν</b>, qui provoque, qui excite, <i>gén</i>. DIOSC. <i>2, 181</i> ; CLÉM. <i>173, 18 ; 192, 9</i>.<p><b>Étym</b>. ἐκκαλέω.`

@@ -1,0 +1,1 @@
+lar[1970]=`<b>ἀ·θελγής, ής, ές</b>, non adouci, sauvage, NONN. <i>D. 33, 200</i>.<p><b>Étym</b>. ἀ, θέλγω.`

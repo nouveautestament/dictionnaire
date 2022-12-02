@@ -1,0 +1,1 @@
+lar[50669]=`<b>ης (ἡ)</b> excrément, AR. <i>Pax 162</i>.`

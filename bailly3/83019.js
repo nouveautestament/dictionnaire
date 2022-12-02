@@ -1,0 +1,1 @@
+lar[83019]=`<i>adv</i>., de laquelle des deux manières ? XÉN. <i>Mem. 1, 6, 15, etc.</i> ; PLAT. <i>Gorg. 502b, etc. ; dans le disc. indir</i>. PLAT. <i>Rsp. 341b, 368c, etc</i>.<p><b>Étym</b>. πότερος.`

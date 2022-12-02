@@ -1,0 +1,1 @@
+lar[41867]=`<b>εὐ·διάλλακτος, ος, ον</b>, facile à réconcilier, qui se laisse fléchir, DH. <i>4, 38</i> ; PLUT. <i>M. 332c, 337c</i>.<p><b>Étym</b>. εὖ, διαλλάσσω.`

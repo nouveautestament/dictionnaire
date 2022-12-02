@@ -1,0 +1,1 @@
+lar[15133]=`<b>ἀρρενόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἠρρένωσα ; <i>pf. pass</i>. ἠρρένωμαι)</font> rendre mâle <i>ou</i> viril, SYN. <i>Ep. 146 ; au pass</i>. devenir mâle <i>ou</i> viril, LUC. <i>Am. 19</i>.<p><b>Étym</b>. ἄρρην.`

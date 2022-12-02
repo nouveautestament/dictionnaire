@@ -1,0 +1,1 @@
+lar[78612]=`<b>περί·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> ceint tout autour, EUP. <i>2-1, 572 Meineke</i>.<p><b>Étym</b>. π. ζεύγνυμι.`

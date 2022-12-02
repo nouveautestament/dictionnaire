@@ -1,0 +1,1 @@
+lar[12275]=`<b>οῦ (ὁ)</b> qui voyage à l’étranger, THC. <i>1, 70</i>.<p><b>Étym</b>. ἀποδημέω.`

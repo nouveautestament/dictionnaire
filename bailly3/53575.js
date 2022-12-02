@@ -1,0 +1,1 @@
+lar[53575]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> action de farder, CLÉM. <i>254</i>.<br><b>      2</b> perte de temps, DIOG. (DL. <i>6, 24).</i><p><b>Étym</b>. κατατρίβω.`

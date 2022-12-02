@@ -1,0 +1,1 @@
+lar[10250]=`<b>ἀντι·περίειμι</b>, décrire un cycle, ARÉT. <i>Caus. m. acut. 2, 2</i>.`

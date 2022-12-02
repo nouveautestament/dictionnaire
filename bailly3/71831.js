@@ -1,0 +1,1 @@
+lar[71831]=`<b>α</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. qui habite la même demeure, honoré dans le même temple, THC. <i>4, 97</i>.<p><b>Étym</b>. <i>éol. et dor. p</i>. *ὁμοεχέτης, <i>de</i> ὁμός, ἔχω.`

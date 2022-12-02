@@ -1,0 +1,1 @@
+lar[88570]=`<b>ῥιζ·ωρύχος, ος, ον</b> <font color="purple">[ῠ]</font> qui fouille les racines, ANTH. <i>11, 322</i>.<p><b>Étym</b>. ῥ. ὀρύσσω.`

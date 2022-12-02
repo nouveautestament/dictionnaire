@@ -1,0 +1,1 @@
+lar[33575]=`<i>adv</i>., en marchand, STR. <i>376</i>.`

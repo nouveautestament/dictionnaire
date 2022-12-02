@@ -1,0 +1,1 @@
+lar[8700]=`<b>ας (ἡ)</b> sécheresse <i>ou</i> malpropreté d’un corps non graissé, POL. <i>3, 87, 2</i>.<p><b>Étym</b>. ἀνήλειπτος.`

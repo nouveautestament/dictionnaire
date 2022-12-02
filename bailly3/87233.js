@@ -1,0 +1,1 @@
+lar[87233]=`<b>πρωτο·νύμφευτος, ου</b>, <i>adj. f</i>. mariée pour la première fois, CALLICRAT. (STOB. <i>Fl. 85, 18).</i><p><b>Étym</b>. πρ. νυμφεύω.`

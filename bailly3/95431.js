@@ -1,0 +1,1 @@
+lar[95431]=`<b>συν·εκφαίνω</b>, montrer <i>ou</i> déclarer avec, <i>dat</i>. PLUT. <i>M. 33d ;</i> APP. <i>Civ. 1, 39 ; avec</i> μετά <i>et le gén</i>. SPT. <i>3Macc. 4, 1</i>.`

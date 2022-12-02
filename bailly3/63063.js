@@ -1,0 +1,1 @@
+lar[63063]=`<b>(ὁ)</b> Massès, <i>anc. roi de Libye,</i> PLUT. <i>Is. et Os. 24, etc</i>.`

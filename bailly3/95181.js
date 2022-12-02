@@ -1,0 +1,1 @@
+lar[95181]=`<b>συν·διέξειμι</b>, exposer <i>ou</i> raconter en même temps, XÉN. <i>Mem. 4, 7, 8</i>.`

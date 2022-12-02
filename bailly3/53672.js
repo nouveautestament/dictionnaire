@@ -1,0 +1,1 @@
+lar[53672]=`<b>εως (ἡ)</b> action de boucher, HIPPIATR. <i>p. 229, 6</i>.<p><b>Étym</b>. καταφράσσω.`

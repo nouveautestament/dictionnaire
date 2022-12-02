@@ -1,0 +1,1 @@
+lar[13219]=`<b>ἀπο·ρραπίζω</b> <font color="purple">[ρᾰ]</font> repousser, refouler, ARSTT. <i>Div. per somn. 2, 9</i> ; DH. <i>Comp. 14</i>.`

@@ -1,0 +1,1 @@
+lar[85192]=`<b>προσ·αναφυσάω-ῶ</b> <font color="purple">[ῡ]</font> commencer à souffler dans, <i>dat</i>. PLAT. COM. <i>2-2, 638 Mein</i>.`

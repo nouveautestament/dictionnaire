@@ -1,0 +1,1 @@
+lar[101169]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> de la nature du fromage, PLUT. <i>M. 131e ;</i> τὸ τυρῶδες, GAL. <i>6, 684, 695</i> ; P. ÉG. <i>1, 3,</i> consistance analogue à celle du fromage.<p>•<i> Sup</i>. τυρωδέστατος, GAL. <i>6, 47</i>.<p><b>Étym</b>. τυρός, -ωδης.`

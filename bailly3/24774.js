@@ -1,0 +1,1 @@
+lar[24774]=`<b>δια·κίχρημι</b> (<i>seul. part. parf. pass</i>. διακεχρημένος) prêter à diverses personnes (de l’argent) DÉM. <i>817, 2</i>.`

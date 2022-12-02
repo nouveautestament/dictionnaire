@@ -1,0 +1,1 @@
+lar[105848]=`<b>φιλο·κοιρανίη, ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> <i>ion</i>. amour de la domination, SIB. <i>14, 4</i>.<p><b>Étym</b>. φ. κοίρανος.`

@@ -1,0 +1,1 @@
+lar[59023]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Kyta, <i>en Colchide, d’où</i> de Colchide, A.RH. <i>2, 1094</i> ; CALL. <i>fr. 113</i>.`

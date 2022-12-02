@@ -1,0 +1,1 @@
+lar[84893]=`<b>προ·παραλαμβάνω</b>, recevoir d’avance <i>ou</i> auparavant, DC. <i>49, 18</i>.`

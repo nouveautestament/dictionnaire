@@ -1,0 +1,1 @@
+lar[91373]=`<b>σκυτο·ρράφος, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> cordonnier, ORIB. <i>p. 161, 13 Cocch</i>.`

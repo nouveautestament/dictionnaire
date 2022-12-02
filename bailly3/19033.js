@@ -1,0 +1,1 @@
+lar[19033]=`<b>ωνος (ὁ)</b> Banôn, <i>h</i>. PLUT. <i>Mul. virt. 10</i>.`

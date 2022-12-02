@@ -1,0 +1,1 @@
+lar[61816]=`<b>λυθρόω-ῶ</b>, couvrir de sang et de poussière, DC. <i>fr. 11, 8</i>.<p><b>Étym</b>. λύθρον.`

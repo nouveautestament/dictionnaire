@@ -1,0 +1,1 @@
+lar[55909]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Kléonikos, <i>h</i>. PD. <i>I. 4, 71, etc.</i> ; CALL. <i>Ep. 32</i>.<p>➳ <i>Dor</i>. Κλεύνικος, THCR. <i>Idyl. 14, 13</i>.<p><b>Étym</b>. κλ. νίκη, <i>cf</i>. Νικοκλῆς.`

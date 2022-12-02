@@ -1,0 +1,1 @@
+lar[67143]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> mulet, <i>poisson,</i> OPP. <i>H. 1, 130, cf</i>. μύλλος.`

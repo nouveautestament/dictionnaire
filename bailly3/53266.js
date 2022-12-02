@@ -1,0 +1,1 @@
+lar[53266]=`<b>ας (ἡ) :<br>      1</b> écoulement, cours d’un fleuve, AQU. <i>Ps. 77, 4 ; 125, 4</i>.<br><b>      2</b> catarrhe, rhume, ARR. <i>Epict. 1, 26, 16</i> ; PLUT. <i>M. 128a</i>.<p><b>Étym</b>. κατάρροος.`

@@ -1,0 +1,1 @@
+lar[79735]=`<b>ου</b>, <i>adj. m</i>. habitant <i>ou</i> originaire de Perkôtè, IL. <i>2, 831 ; 6, 30 ; 11, 329, etc</i>.<p><b>Étym</b>. <i>v</i>. Περκώτη.`

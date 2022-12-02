@@ -1,0 +1,1 @@
+lar[30397]=`<b>ή, όν</b>, vingtième, OD. <i>5, 34, etc.</i> ; ἡ εἰκοστή (<i>s.-e</i>. μερίς) la 20<sup>e</sup> partie, ARR. <i>Epict. 2, 1, 26</i> ; DC. <i>56, 28, 4 ; particul</i>. impôt du vingtième, THC. <i>6, 54 ; 7, 28</i>.<p>➳ <i>Épq</i>. ἐεικ. IL. <i>24, 765</i>.<p><b>Étym</b>. εἴκοσι.`

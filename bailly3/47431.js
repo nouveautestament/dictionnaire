@@ -1,0 +1,1 @@
+lar[47431]=`<b>Θμουΐτης νομός (ὁ)</b> le nome Thmouïs (<i>auj</i>. ruines près de Timai al Amdid) <i>dans la Basse-Égypte,</i> HDT. <i>2, 166</i>.`

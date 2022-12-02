@@ -1,0 +1,1 @@
+lar[57082]=`<b>ιδος (ἡ)</b> punaise, MOSCHION <i>p. 22</i>.<p><b>Étym</b>. <i>cf</i>. κόρις.`

@@ -1,0 +1,1 @@
+lar[11098]=`<b>ός, όν</b> <font color="purple">[ᾰγ]</font> qui emmène, qui entraîne, GORG. <i>Hel. 10</i> ; JAMBL. <i>Myst. 2, 5</i> ; SYN. <i>Hymn. 4</i>.<p><b>Étym</b>. ἀπάγω.`

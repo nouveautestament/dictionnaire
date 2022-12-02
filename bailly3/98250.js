@@ -1,0 +1,1 @@
+lar[98250]=`<b>ή, όν</b>, de fermier général, de publicain, PLAT. <i>Leg. 842d ;</i> DÉM. <i>732, 1</i> ; PLUT. <i>M. 201a</i>.<p><b>Étym</b>. τελώνης.`

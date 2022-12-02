@@ -1,0 +1,1 @@
+lar[25865]=`<b>ή, όν :<br>      1</b> qui peut écarter <i>ou</i> supprimer, <i>gén</i>. DIOSC. <i>1, 30</i> ; GAL. <i>2, 36a.</i><br><b>      2</b> qui facilite la transpiration, P. ÉG. <i>3, 7</i> ; ARISTOX. (A. GELL. <i>4, 11).</i><p>•<i> Sup</i>. -ώτατος, GAL. <i>13, 501</i>.<p><b>Étym</b>. διαφορέω.`

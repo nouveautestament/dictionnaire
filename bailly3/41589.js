@@ -1,0 +1,1 @@
+lar[41589]=`<b>εὐ·ανάσφαλτος, ος, ον</b> <font color="purple">[ᾰν]</font> qui se rétablit aisément, HPC. <i>382, 11</i>.<p><b>Étym</b>. εὖ, ἀνασφάλλω.`

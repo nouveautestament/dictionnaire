@@ -1,0 +1,1 @@
+lar[47499]=`<b>θορυβοποιέω-ῶ</b> <font color="purple">[ῠ]</font> faire du bruit, causer du désordre, DS. <i>13, 111</i> ; APP. <i>Civ. 2, 74</i>.<p><b>Étym</b>. θορυβοποιός.`

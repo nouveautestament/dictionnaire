@@ -1,0 +1,1 @@
+lar[62923]=`<b>ου (ὁ)</b> Mardontès, <i>Perse,</i> HDT. <i>7, 80, etc</i>.`

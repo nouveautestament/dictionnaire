@@ -1,0 +1,1 @@
+lar[68639]=`<b>νησο·μαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat d’îles entre elles, LUC. <i>V.H. 1, 42</i>.<p><b>Étym</b>. ν. μάχομαι.`

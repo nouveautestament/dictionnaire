@@ -1,0 +1,1 @@
+lar[41828]=`<b>εὐ·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> aux beaux doigts, ALCIPHR. <i>3, 67</i>.<p><b>Étym</b>. εὖ, δάκτυλος.`

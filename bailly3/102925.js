@@ -1,0 +1,1 @@
+lar[102925]=`<b>ὑπ·ερωτάω-ῶ</b>, interroger d’une manière détournée, PLAT. <i>Gorg. 483a</i>.<p><b>Étym</b>. ὑπό, ἐρωτάω.`

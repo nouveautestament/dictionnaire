@@ -1,0 +1,1 @@
+lar[19913]=`<b>ή, όν :<br>      1</b> qui concerne la faculté de voir, ANTH. <i>App. 304</i>.<br><b>      2</b> qui a la vue perçante, HDN GR. <i>Epim. p. 101 Boissonade (au</i> <i>• Sup</i>. -ώτατος).<p><b>Étym</b>. βλεπτός.`

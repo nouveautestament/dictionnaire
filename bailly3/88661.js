@@ -1,0 +1,1 @@
+lar[88661]=`<b>οῦ (ὁ)</b> meule de blé, <i>d’où</i> magasin de grains, EPICH. (POLL. <i>9, 45).</i><p><b>Étym</b>. <i>lat</i>. rogus.`

@@ -1,0 +1,1 @@
+lar[1120]=`<b>ἀγων·άρχης, ου (ὁ)</b> <font color="purple">[ᾰγ]</font> président des jeux, SOPH. <i>Aj. 572</i>.<p><b>Étym</b>. ἀ. ἄρχω.`

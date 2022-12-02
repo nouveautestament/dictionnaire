@@ -1,0 +1,1 @@
+lar[105796]=`<b>φιλο·θόρυβος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime le bruit, le tumulte, le désordre, PROCL. <i>Ptol. 223, 230</i>.`

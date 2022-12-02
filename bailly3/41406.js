@@ -1,0 +1,1 @@
+lar[41406]=`<b>ἑτεροχρωματέω-ῶ</b> <font color="purple">[ᾰ]</font> être d’une couleur différente, GEOP. <i>2, 6, 37</i>.<p><b>Étym</b>. ἑτερόχρωμος.`

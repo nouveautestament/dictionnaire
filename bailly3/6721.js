@@ -1,0 +1,1 @@
+lar[6721]=`<b>ἀνα·διφάω-ῶ</b> <font color="purple">[ῑ]</font> rechercher, CRAT. <i>fr. 2 Mein</i>.`

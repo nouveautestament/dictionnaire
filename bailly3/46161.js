@@ -1,0 +1,1 @@
+lar[46161]=`<b>θαλασσο·κρατέω-ῶ</b>, <i>att</i>. <b>θαλαττοκρατέω-ῶ</b> <font color="purple">[θᾰᾰτ]</font> dominer sur mer, HDT. <i>3, 122</i> ; THC. <i>7, 48</i>.<p>➳ θαλαττοκρ. POL. <i>1, 7, 6</i>.<p><b>Étym</b>. θ. κρατέω.`

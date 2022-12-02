@@ -1,0 +1,1 @@
+lar[10528]=`<b>ἀντι·τυπής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui résiste fermement, HDN <i>6, 7</i>.<br><b>      2</b> <i>p. suite,</i> dur, rude, PHIL. <i>2, 162</i>.<p><b>Étym</b>. ἀ. τύπτω.`

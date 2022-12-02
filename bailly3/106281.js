@@ -1,0 +1,1 @@
+lar[106281]=`<i>voc</i>. <b>-ις (ὁ)</b> Phintis, <i>Syracusain,</i> PD. <i>O. 6, 22</i>.`

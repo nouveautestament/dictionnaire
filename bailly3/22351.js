@@ -1,0 +1,1 @@
+lar[22351]=`<b>ῆρος (ὁ)</b> celui qui sait <i>ou</i> qui peut expliquer, <i>d’où</i> répondant, garant, XÉN. <i>Cyr. 6, 2, 39</i>.<p><b>Étym</b>. γιγνώσκω.`

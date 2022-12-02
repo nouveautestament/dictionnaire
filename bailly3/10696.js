@@ -1,0 +1,1 @@
+lar[10696]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> pronom, PLUT. <i>M. 1009c ;</i> DH. <i>Comp. 2</i> ; DYSC. <i>Pron. 261, etc</i>.<p><b>Étym</b>. ἀντώνυμος.`

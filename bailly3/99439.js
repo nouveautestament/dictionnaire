@@ -1,0 +1,1 @@
+lar[99439]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Tmaros, <i>en Thesprotie,</i> CALL. <i>Cer. 52</i>.`

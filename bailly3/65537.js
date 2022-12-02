@@ -1,0 +1,1 @@
+lar[65537]=`célébrer la fête de la mère des dieux (Cybèle), JAMBL. <i>Myst. p. 69</i>.<p><b>Étym</b>. μήτηρ.`

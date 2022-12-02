@@ -1,0 +1,1 @@
+lar[28441]=`<b>δυσ·εργής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. δύσεργος I, PAUS. <i>3, 21, 4</i> ; APP. <i>Iber. 71, Syr. 37, Mithr. 94, Civ. 5, 12</i>.<p>➳ <i>• Cp</i>. -έστερος, ORIB. <i>p. 19 Mai</i>.`

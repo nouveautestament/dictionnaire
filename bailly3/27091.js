@@ -1,0 +1,1 @@
+lar[27091]=`<b>δι·τόκος, ος, ον</b> <font color="purple">[ῐ]</font> qui enfante deux jumeaux <i>ou</i> qui enfante deux fois, ANACR. <i>114 ; p. opp. à</i> μονοτόκος, ARSTT. <i>G.A. 4, 6, 1</i>.<p><b>Étym</b>. δίς, τίκτω.`

@@ -1,0 +1,1 @@
+lar[92166]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> action d’exciter une sédition, OLYMPIOD. <i>(Bkk. p. 1419).</i><p><b>Étym</b>. στασιοποιός.`

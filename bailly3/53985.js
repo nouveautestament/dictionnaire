@@ -1,0 +1,1 @@
+lar[53985]=`<b>κατ·ευοδόω-ῶ :<br>      1</b> mettre en bon chemin, faire prospérer, SPT. <i>Ps. 67, 21 ; au pass</i>. SPT. <i>Ps. 1, 3 ; 36, 7</i>.<br><b>      2</b> <i>abs. en parl. du voyage,</i> s’accomplir heureusement, SPT. <i>Jud. 18, 5</i>.`

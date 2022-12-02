@@ -1,0 +1,1 @@
+lar[13677]=`<b>ἀπο·τυμπανίζω</b> <font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> <font color="purple">[πᾰ]</font> rouer de coups de bâton, LYS. <i>135, 9</i> ; DÉM. <i>126, 17, etc.</i> ; ARSTT. <i>Rhet. 2, 5, 14</i>.`

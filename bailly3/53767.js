@@ -1,0 +1,1 @@
+lar[53767]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κατάχυσμα PHÉRÉCR. <i>fr. 106, 11</i>.`

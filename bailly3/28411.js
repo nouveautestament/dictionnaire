@@ -1,0 +1,1 @@
+lar[28411]=`<b>δυσ·εξίτηλος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à détruire, vivace, <i>en parl. de plantes,</i> STR. <i>513</i> ; DIOSC. <i>Iob. 3 ; p. anal</i>. difficile à effacer, PLUT. <i>M. 696d</i>.`

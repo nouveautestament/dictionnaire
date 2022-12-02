@@ -1,0 +1,1 @@
+lar[28007]=`<b>Δρυὸς κεφαλαί (αἱ)</b> Têtes de chêne, <i>n. d’un défilé du Cithéron,</i> HDT. <i>9, 39</i> ; THC. <i>3, 24</i>.`

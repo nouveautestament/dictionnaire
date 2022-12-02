@@ -1,0 +1,1 @@
+lar[74413]=`<b>παλαι·ένδοξος, ος, ον</b> <font color="purple">[ᾰ]</font> illustre depuis longtemps, PHIL. <i>2, 437</i>.<p><b>Étym</b>. π. ἔνδοξος.`

@@ -1,0 +1,1 @@
+lar[516]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀγέρωχος, AR. <i>Lys. 1281</i>.`

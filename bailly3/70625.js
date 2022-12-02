@@ -1,0 +1,1 @@
+lar[70625]=`<b>οἰο·βώτας</b> <i>ou</i> <b>οἰο·βότας, ου (ὁ)</b> <font color="purple">[ᾱ]</font> pâtre solitaire : φρενός, SOPH. <i>Aj. 614,</i> qui fait paître son cœur dans la solitude, <i>càd</i>. à l’instinct sauvage.<p><b>Étym</b>. οἶος, βόσκω.`

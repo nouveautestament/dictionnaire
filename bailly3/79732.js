@@ -1,0 +1,1 @@
+lar[79732]=`<b>περκνό·πτερος, ος, ον</b>, aux ailes noirâtres <i>ou</i> tachetées de noir ; ἀετός, ARSTT. <i>H.A. 9, 32,</i> sorte de vautour.<p><b>Étym</b>. περκνός, πτερόν.`

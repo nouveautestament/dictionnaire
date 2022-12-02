@@ -1,0 +1,1 @@
+lar[98289]=`<b>ου (ἡ)</b> Ténédos (<i>auj</i>. Bozcaada) <i>i. de la mer Égée avec une v. du m. nom,</i> IL. <i>1, 38, etc.</i> ; OD. <i>3, 159</i> ; HDT. <i>6, 41</i> ; THC. <i>3, 28, 35</i> ; XÉN. <i>Hell. 5, 1, 6</i>.<p>➳ <i>Gén. épq</i>. Τενέδοιο, IL. <i>1, 38, 452, etc</i>.`

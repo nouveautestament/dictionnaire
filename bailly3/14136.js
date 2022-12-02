@@ -1,0 +1,1 @@
+lar[14136]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> relâchement (d’un tissu), P. ÉG. <i>p. 86, 7 Briau</i>.<br><b>      2</b> raréfaction, HPC. <i>278, 2</i> ; ARSTT. <i>Mund. 4</i>.<p><b>Étym</b>. ἀραιόω.`

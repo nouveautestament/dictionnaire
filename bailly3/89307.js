@@ -1,0 +1,1 @@
+lar[89307]=`<b>ωνος (ὁ)</b> Sandôn, <i>h</i>. PLUT. <i>Popl. 17</i> ; LUC. <i>Macr. 21, etc</i>.`

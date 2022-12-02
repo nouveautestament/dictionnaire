@@ -1,0 +1,1 @@
+lar[87257]=`<b>ων (τὰ)</b> droit d’aînesse, SPT. <i>Gen. 25, 32</i> ; NT. <i>Hebr. 12, 16</i>.<p><b>Étym</b>. πρωτοτοκεύω.`

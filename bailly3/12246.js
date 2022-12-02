@@ -1,0 +1,1 @@
+lar[12246]=`<b>ἀπο·δειπνίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> qui provient du souper, ANTH. <i>6, 302</i>.<p><b>Étym</b>. ἀπό, δεῖπνον.`

@@ -1,0 +1,1 @@
+lar[107854]=`<b>χαραδρόομαι-οῦμαι</b> <font color="purple">[χᾰ]</font><br><b>      1</b> être sillonné de torrents <i>et, p. suite,</i> impraticable à la marche, HDT. <i>2, 25 ; 7, 176</i>.<br><b>      2</b> se creuser en ravins, en canaux, <i>d’où p. ext</i>. s’élargir, HPC. <i>299, 18</i>.<p><b>Étym</b>. χαράδρα.`

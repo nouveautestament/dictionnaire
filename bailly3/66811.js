@@ -1,0 +1,1 @@
+lar[66811]=`<b>ας (ἡ)</b> action de fabriquer le veau (d’or) CLÉM. <i>1, 1009a Migne</i>.<p><b>Étym</b>. <i>cf</i>. μοσχοποιέω.`

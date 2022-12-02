@@ -1,0 +1,1 @@
+lar[46170]=`<b>θαλασσό·πλαγκτος, ος, ον</b> <font color="purple">[θᾰ]</font><br><b>      1</b> qui erre sur mer (navire) ESCHL. <i>Pr. 467</i>.<br><b>      2</b> qui erre au sein de la mer (cadavre) EUR. <i>Hec. 782</i>.<p><b>Étym</b>. θ. πλάζομαι.`

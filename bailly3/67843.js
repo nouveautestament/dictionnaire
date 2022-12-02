@@ -1,0 +1,1 @@
+lar[67843]=`<b>ας (ἡ)</b> destruction d’un navire, naufrage, ANTH. <i>7, 290, etc.</i> ; MAN. <i>1, 324 ; 3, 255</i>.<p><b>Étym</b>. ναυφθόρος.`

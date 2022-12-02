@@ -1,0 +1,1 @@
+lar[26268]=`<b>διερέω-ῶ</b> (<i>inf. prés</i>. -εῖν) être humide, ARSTT. <i>Probl. 25, 11</i>.<p><b>Étym</b>. διερός².`

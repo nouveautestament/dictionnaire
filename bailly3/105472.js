@@ -1,0 +1,1 @@
+lar[105472]=`<b>φιλ·άμπελος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime la vigne, AR. <i>Pax 308</i>.<br><b>      2</b> riche en vignes, DH. <i>1, 37</i> ; NONN. <i>D. 12, 41</i>.<p>•<i> Sup</i>. -ώτατος, AR. <i>l.c</i>.`

@@ -1,0 +1,1 @@
+lar[545]=`<b>ατος (τὸ) :<br>      1</b> corps d’armée lacédémonien, XÉN. <i>Lac. 11, 9, etc.</i><br><b>      2</b> corps d’élite macédonien, <i>garde des rois de Macédoine,</i> POL. <i>5, 25, 1 ; 5, 65, 1 ; 31, 3, 8</i> ; PLUT. <i>Eum. 7, Æmil. 18</i> ; ARR. <i>An. 1, 1</i>.<p><b>Étym</b>. ἄγω, <i>ou p.-ê. dor. p</i>. ἥγημα.`

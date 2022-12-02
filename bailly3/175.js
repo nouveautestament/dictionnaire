@@ -1,0 +1,1 @@
+lar[175]=`<b>ἁβρο·δίαιτος, ος, ον</b>, qui vit mollement, efféminé, ESCHL. <i>Pers. 41</i> ; τὸ ἁβροδίαιτον, THC. <i>1, 6</i> ; ATH. <i>513c</i>, vie molle et efféminée.<p><b>Étym</b>. ἁβρός, δίαιτα.`

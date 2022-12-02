@@ -1,0 +1,1 @@
+lar[102738]=`<b>ὑπερ·παλύνω</b> <font color="purple">[ᾰ]</font> répandre par-dessus, ANTH. <i>10, 11</i>.`

@@ -1,0 +1,1 @@
+lar[73717]=`<b>*οὐριο·στάτης</b>, <i>dor</i>. <b>οὐριο·στάτας, ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. prospère <i>ou</i> qui fait prospérer, ESCHL. <i>Ch. 821</i>.<p><b>Étym</b>. οὔριος, ἵστημι.`

@@ -1,0 +1,1 @@
+lar[6733]=`<b>ἀνα·δρέπω</b>, arracher, déchirer, NONN. <i>D. 9, 120</i>.<br><b><i>Moy.</i></b> choisir, trier, THÉM. <i>332d</i>.`

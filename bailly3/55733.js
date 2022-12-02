@@ -1,0 +1,1 @@
+lar[55733]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κλάδος ANACR. <i>17-18</i>.`

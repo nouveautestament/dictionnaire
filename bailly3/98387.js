@@ -1,0 +1,1 @@
+lar[98387]=`<font color="purple">[ᾰ]</font><br><b>      1</b> limiter, borner, STR. <i>425 ; fig. au pass</i>. HIPPODAM. (STOB. <i>534, 41</i>).<br><b>      2</b> mettre fin à, finir, <i>acc</i>. SEXT. <i>M. 10, 102</i>.<p><b>Étym</b>. τέρμα.`

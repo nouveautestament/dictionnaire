@@ -1,0 +1,1 @@
+lar[71709]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une vitesse égale, ARSTT. <i>Phys. 6, 6, 3</i>.<p><b>Étym</b>. ὁμοταχής.`

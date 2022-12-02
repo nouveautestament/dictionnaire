@@ -1,0 +1,1 @@
+lar[67617]=`<b>ης, ες</b>, qui ressemble à un nain, ARSTT. <i>P.A. 4, 10</i> ; LUC. <i>H. conscr. 23, Salt. 75</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Longæv. 6</i>.<p><b>Étym</b>. νάννος, -ωδης.`

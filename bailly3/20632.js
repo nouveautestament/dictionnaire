@@ -1,0 +1,1 @@
+lar[20632]=`<b>βραδυπορέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰῠ]</font> marcher <i>ou</i> s’avancer lentement, PLUT. <i>M. 907f</i>.<p><b>Étym</b>. βραδυπόρος.`

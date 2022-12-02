@@ -1,0 +1,1 @@
+lar[4453]=`<b>ων (οἱ)</b> <font color="purple">[ᾰ]</font> Halizônes, <i>pple de Bithynie, sur le Pont-Euxin</i> : IL. <i>2, 856 ; 5, 39</i>.<p><b>Étym</b>. <i>cf</i>. ἁλίζωνος.`

@@ -1,0 +1,1 @@
+lar[20259]=`<b>εως (ἡ)</b> action de faire paître <i>ou</i> de paître, SYMM. <i>Eccl. 1, 14 ; 4, 16</i>.<p><b>Étym</b>. βόσκω.`

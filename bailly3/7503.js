@@ -1,0 +1,1 @@
+lar[7503]=`<b>ος, ον</b>, bien connu, notoire, OD. <i>11, 274</i> ; HDT. <i>6, 64 et 66 ; 9, 109, etc</i>.<p><b>Étym</b>. ἀναπυνθάνομαι.`

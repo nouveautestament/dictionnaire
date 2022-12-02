@@ -1,0 +1,1 @@
+lar[105371]=`<b>ης, ες</b>, pernicieux, funeste, HDN <i>1, 12, 2</i>.<p><b>Étym</b>. φθορά, -ωδης.`

@@ -1,0 +1,1 @@
+lar[34997]=`<b>ατος (τὸ)</b> commandement, précepte, SPT. <i>Esaï. 29, 13 ; Job 23, 12</i> ; NT. <i>Matth. 15, 9</i>.<p><b>Étym</b>. ἐντέλλω.`

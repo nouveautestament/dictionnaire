@@ -1,0 +1,1 @@
+lar[4165]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> onguent, parfum, ANTIPH. (ATH. <i>553c</i>) ; PLAT. <i>Tim. 50e.</i><br><b>      2</b> onction, PLUT. <i>Lyc. 16, etc</i>.<p><b>Étym</b>. ἀλείφω.`

@@ -1,0 +1,1 @@
+lar[64086]=`<i>att</i>. <b>μελιττουργεῖον, ου (τὸ)</b> lieu où sont déposées les ruches, ES. <i>289 Halm</i>.<p><b>Étym</b>. μελισσουργός.`

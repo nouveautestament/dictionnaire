@@ -1,0 +1,1 @@
+lar[52130]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font> propre à la descente, PORPH. <i>Antr. nymph. p. 21, 4</i>.<p><b>Étym</b>. καταβαίνω.`

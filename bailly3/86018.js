@@ -1,0 +1,1 @@
+lar[86018]=`<b>προσ·κινέω-ῶ</b> <font color="purple">[ῑ]</font> mettre en mouvement <i>ou</i> pousser vers, PHÉRÉCR. (ATH. <i>685a</i>).<br><b><i>Moy.</i></b> s’approcher de, AR. <i>Pax 902, Eccl. 256, etc</i>.`

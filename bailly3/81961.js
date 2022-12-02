@@ -1,0 +1,1 @@
+lar[81961]=`<b>πολύ·καμπτος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. πολυκαμπής TH. <i>Sens. 66 ; p. anal. en parl. de musique,</i> très contourné, très laborieux, PARMÉN. <i>146</i>.`

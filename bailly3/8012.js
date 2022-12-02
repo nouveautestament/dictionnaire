@@ -1,0 +1,1 @@
+lar[8012]=`<b>ἀνδρειόω-ῶ :<br>      1</b> rendre homme ; <i>pf. pass</i>. ἠνδρειωμένος, PROCL. <i>Ptol. 2, 3, p. 89,</i> fait homme.<br><b>      2</b> donner de la virilité, de l’énergie, JOS. <i>Macc. 15, 23</i>.<p><b>Étym</b>. ἀνδρεῖος.`

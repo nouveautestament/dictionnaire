@@ -1,0 +1,1 @@
+lar[93840]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾰ]</font> conciliation, arrangement, transaction, PTOL. <i>Tetr. 4, p. 182</i> ; ARTÉM. <i>1, 67</i>.<p><b>Étym</b>. συμβιβάζω.`

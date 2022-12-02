@@ -1,0 +1,1 @@
+lar[86062]=`<b>προσ·κρέμαμαι</b> <font color="purple">[ᾰ]</font> être suspendu <i>ou</i> fixé à, ARSTT. <i>Mech. 24, 16, avec</i> πρός <i>et l’acc</i>. HPC. <i>261, 13 ; avec le dat</i>. POL. <i>2, 10, 4</i>.`

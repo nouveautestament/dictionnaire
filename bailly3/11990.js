@@ -1,0 +1,1 @@
+lar[11990]=`<b>ονος (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Apisaôn :<br><b>      1</b> <i>Troyen,</i> IL. <i>11, 578</i>.<br><b>      2</b> <i>Péonien,</i> IL. <i>17, 348</i>.`

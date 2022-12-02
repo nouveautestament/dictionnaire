@@ -1,0 +1,1 @@
+lar[81879]=`<b>πολυ·έλικτος, ος, ον :<br>      1</b> qui s’enroule plusieurs fois, NONN. <i>D. 21, 183</i>.<br><b>      2</b> <i>fig</i>. très varié, EUR. <i>Ph. 314</i>.<p><b>Étym</b>. π. ἑλίσσω.`

@@ -1,0 +1,1 @@
+lar[75084]=`<b>παν·λώβητος, ος, ον</b>, tout à fait défiguré, hideux, LUC. <i>Tox. 24</i>.<p><b>Étym</b>. <i>cf</i>. παλλώβητος.`

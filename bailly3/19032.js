@@ -1,0 +1,1 @@
+lar[19032]=`<b>ας (ἡ)</b> Bantia (<i>auj</i>. Banzi), <i>v. d’Illyrie,</i> POL. <i>et d’Apulie,</i> PLUT.`

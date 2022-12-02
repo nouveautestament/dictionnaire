@@ -1,0 +1,1 @@
+lar[49189]=`<b>ἰο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font> qui porte du venin, venimeux, OPP. <i>C. 3, 433</i>.<p><b>Étym</b>. ἰός, φέρω.`

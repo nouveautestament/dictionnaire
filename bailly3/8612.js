@@ -1,0 +1,1 @@
+lar[8612]=`<b>ἀν·εύρετος, ος, ον</b>, qu’on ne peut découvrir, PLAT. <i>Leg. 874a ;</i> DS. <i>5, 20</i> ; PLUT. <i>M. 700d, etc</i>.<p><b>Étym</b>. ἀν-, εὑρίσκω.`

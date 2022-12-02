@@ -1,0 +1,1 @@
+lar[105615]=`<font color="purple">[φῐ]</font> <i>éol. c</i>. φιλέω, SAPPH. <i>fr. 79 Bgk ; 2 sg</i>. φίλησθα, SAPPH. <i>fr. 22 Bgk</i>.`

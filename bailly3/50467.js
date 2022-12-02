@@ -1,0 +1,1 @@
+lar[50467]=`<b>καθ·όσον</b>, <i>pour</i> καθ' ὅσον, autant que, en tant que, THC. <i>6, 88, etc</i>.`

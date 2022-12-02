@@ -1,0 +1,1 @@
+lar[59296]=`<b>Κωφὸς λιμήν (ὁ)</b> « le Port silencieux », <i>càd</i>. Munichie, <i>p. opp. au Pirée bruyant,</i> XÉN. <i>Hell. 2, 4, 31</i>.`

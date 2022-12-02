@@ -1,0 +1,1 @@
+lar[68748]=`<b>ος, ον</b> <font color="purple">[νῑ]</font> de Nicias, PLUT. <i>Alc. 14</i>.<p><b>Étym</b>. Νικίας.`

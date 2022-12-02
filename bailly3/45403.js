@@ -1,0 +1,1 @@
+lar[45403]=`<b>ἡμι·δαής, ής, ές</b> <font color="purple">[ῐ]</font> à moitié brûlé, IL. <i>16, 294 ; cf</i>. A.RH. <i>4, 598</i>.<p><b>Étym</b>. ἡμι-, δαίω.`

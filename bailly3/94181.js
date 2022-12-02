@@ -1,0 +1,1 @@
+lar[94181]=`<b>συμ·περιγράφω</b> <font color="purple">[ᾰ]</font> circonscrire ensemble, resserrer, SEXT. <i>P. 1, 14</i> ; CLÉM. <i>927, etc</i>.`

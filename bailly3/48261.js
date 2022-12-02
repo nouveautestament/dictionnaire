@@ -1,0 +1,1 @@
+lar[48261]=`<b>υγος (ὁ)</b> <font color="purple">[ᾱῠγ]</font> vent ouest-nord-ouest, ARSTT. <i>Mund. 4, 12 ; fr. 238, 11</i>.<p><b>Étym</b>. Ἰάπυγες.`

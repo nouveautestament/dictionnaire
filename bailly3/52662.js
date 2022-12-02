@@ -1,0 +1,1 @@
+lar[52662]=`<b>κατα·κυβιστάω-ῶ</b> <font color="purple">[ῠ]</font> faire la cabriole de haut en bas, sauter d’en haut, EL. <i>N.A. 5, 54</i>.`

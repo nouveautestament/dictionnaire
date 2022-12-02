@@ -1,0 +1,1 @@
+lar[36718]=`<b>εως (ἡ) :<br>      1</b> action de redresser, correction, amélioration, T. LOCR. <i>104a ;</i> DÉM. <i>707, 7</i>.<br><b>      2</b> action de faire tourner à son profit, POL. <i>1, 66, 12</i>.`

@@ -1,0 +1,1 @@
+lar[15393]=`<b>ἀρτι·χανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> nouvellement entr’ouvert, ANTH. <i>6, 22</i>.<p><b>Étym</b>. ἄ. χαίνω.`

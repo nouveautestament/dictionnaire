@@ -1,0 +1,1 @@
+lar[9475]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> équilibre, équivalent, JOS. <i>A.J. 18, 9, 7</i>.<p><b>Étym</b>. ἀντανισόω.`

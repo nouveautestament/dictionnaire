@@ -1,0 +1,1 @@
+lar[45400]=`<b>ἡμί·γυμνος, ος, ον</b> <font color="purple">[ῠ]</font> à moitié nu, LUC. <i>D. mar. 14, 3</i> ; ARR. <i>Ind. 24, 8</i>.<p><b>Étym</b>. ἡμι-, γυμνός.`

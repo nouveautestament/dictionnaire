@@ -1,0 +1,1 @@
+lar[39064]=`<b>ἐπι·σπουδάζω :<br>      1 <i>intr.</i></b> se hâter, LUC. <i>Pisc. 2</i>.<br><b>      2 <i>tr.</i></b> presser, accélérer, SPT. <i>Gen. 19, 15 var. ; au pass</i>. SPT. <i>Prov. 13, 11</i>.`

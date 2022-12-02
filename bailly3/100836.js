@@ -1,0 +1,1 @@
+lar[100836]=`<b>τρυγωδο·ποιο·μουσική, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> musique de pièce comique, AR. <i>fr. 313</i>.<p><b>Étym</b>. τρυγῳδός, ποιέω, μουσική.`

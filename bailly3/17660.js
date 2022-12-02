@@ -1,0 +1,1 @@
+lar[17660]=`<b>αὐτο·πρόνοια, ας (ἡ)</b> la Providence même, NÉMÉS. <i>N.H. p. 350 M</i>.`

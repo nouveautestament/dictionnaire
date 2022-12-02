@@ -1,0 +1,1 @@
+lar[10829]=`<font color="purple">[ᾰτῑ]</font> <i>adv. c</i>. ἀνωΐστως, OD. <i>4, 92</i>.`

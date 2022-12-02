@@ -1,0 +1,1 @@
+lar[40397]=`<b>ἐρι·βρεμέτης, ου</b>, <i>adj. m</i>. au bruit retentissant, <i>ép. de Zeus <i>ou</i> du tonnerre,</i> IL. <i>13, 624 ; d’un lion,</i> PD. <i>I. 4, 77 ; ironiq. d’Eschyle,</i> AR. <i>Ran. 814 ; d’une flûte,</i> ANTH. <i>6, 195, etc</i>.<p><b>Étym</b>. ἐρι-, βρέμω.`

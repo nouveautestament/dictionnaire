@@ -1,0 +1,1 @@
+lar[60805]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Λήμνιος NIC. <i>Th. 865</i>.`

@@ -1,0 +1,1 @@
+lar[16485]=`<b>ἀ·σύναπτος, ος, ον :</b> sans connexion, sans rapport, ARSTT. <i>H.A. 3, 7, 6 ; fig</i>. sans relations : πρὸς ἀλλήλους, ARSTT. <i>An. pr. 1, 25, 5,</i> les uns avec les autres.<p><b>Étym</b>. ἀ, συνάπτω.`

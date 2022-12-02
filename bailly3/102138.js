@@ -1,0 +1,1 @@
+lar[102138]=`<b>ὑπ·εκ·προχέομαι</b> <font color="darkgreen">(<i>seul. prés. 3 pl. épq</i>. ὑπεκπροχέονται)</font> se répandre au devant de, Q. SM. <i>13, 57</i>.`

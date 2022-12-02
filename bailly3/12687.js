@@ -1,0 +1,1 @@
+lar[12687]=`(<i>seul. prés</i>.) avoir envie de tuer, LIB. <i>4, 1103</i>.`

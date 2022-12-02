@@ -1,0 +1,1 @@
+lar[51348]=`<b>έων (οἱ)</b> les habitants de Kalynda, <i>en Carie,</i> HDT. <i>8, 87</i>.`

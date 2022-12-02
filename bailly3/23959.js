@@ -1,0 +1,1 @@
+lar[23959]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> de peau, de cuir (gaine, bouclier, <i>etc</i>.) OD. <i>4, 782 ; 8, 53</i> ; HDT. <i>7, 79</i> ; ARSTT. <i>fr. 316 ; etc</i>.<p><b>Étym</b>. δέρμα.`

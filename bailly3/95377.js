@@ -1,0 +1,1 @@
+lar[95377]=`<b>συν·εκπέσσω</b>, <i>att</i>. <b>-πέττω :<br>      1</b> aider à adoucir, à atténuer par la digestion, ARSTT. <i>Probl. 2, 21, 1</i> ; PLUT. <i>M. 647d.</i><br><b>      2</b> aider à faire mûrir, TH. <i>C.P. 4, 9, 5</i>.<br><b>      3</b> aider à digérer, EL. <i>V.H. 12, 37 ; fig</i>. adoucir <i>ou</i> alléger en même temps, PLUT. <i>M. 648f, 664e, etc</i>.`

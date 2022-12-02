@@ -1,0 +1,1 @@
+lar[10970]=`<b>ου (ὁ)</b> petite tige, broche, goujon, HÉRON <i>Spir. 220</i>.<p><b>Étym</b>. <i>dim. de</i> ἄξων.`

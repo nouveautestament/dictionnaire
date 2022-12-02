@@ -1,0 +1,1 @@
+lar[14008]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans qu’on puisse prendre de précautions, DC. <i>38, 41</i>.`

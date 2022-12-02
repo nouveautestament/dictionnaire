@@ -1,0 +1,1 @@
+lar[18174]=`<b>ἀφ·ομιλέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀφωμίλησα)</font> <font color="purple">[ῑ]</font> éviter la rencontre <i>ou</i> l’entretien de qqn, CIC. <i>Fam. 16, 17</i>.<p><b>Étym</b>. ἀπό, ὁμ.`

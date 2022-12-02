@@ -1,0 +1,1 @@
+lar[31307]=`<b>ἔκ·θεσμος, ος, ον :<br>      1</b> illégal, illicite, PHIL. <i>2, 616</i> ; PHINTYS (STOB. <i>Fl. 3, 85</i>).<br><b>      2</b> extraordinaire, effrayant, PLUT. <i>Cæs. 32</i>.<p><b>Étym</b>. ἐκ, θεσμός.`

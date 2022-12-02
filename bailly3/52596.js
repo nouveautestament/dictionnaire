@@ -1,0 +1,1 @@
+lar[52596]=`<b>ᾶς (ἡ)</b> <font color="purple">[ᾰκ]</font> ruine, EUR. <i>Hipp. 821 dout</i>.<p><b>Étym</b>. <i>cf</i>. κατακαίνω.`

@@ -1,0 +1,1 @@
+lar[91730]=`<b>σπάν·υδρος, ος, ον</b> <font color="purple">[ᾰ]</font> pauvre en eau <i>ou</i> qui manque d’eau, DIPH. (ATH. <i>80c</i>).<p><b>Étym</b>. σπ. ὕδωρ.`

@@ -1,0 +1,1 @@
+lar[104544]=`<b>ὑψι·φανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui apparaît en haut, qu’on voit au loin, élevé, ANTH. <i>App. 246</i>.<p><b>Étym</b>. ὕ. φαίνω.`

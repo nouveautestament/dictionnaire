@@ -1,0 +1,1 @@
+lar[19722]=`<b>(ἡ)</b> = <i>lat</i>. Vienna, <i>v. de Gaule (auj</i>. Vienne), PLUT.`

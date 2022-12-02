@@ -1,0 +1,1 @@
+lar[102000]=`<b>ὑπ·αράττω</b> <font color="purple">[ῠᾰρ]</font> frapper par-dessous, ANON. (SUID.).`

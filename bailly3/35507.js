@@ -1,0 +1,1 @@
+lar[35507]=`<b>εως (ἡ)</b> action d’ouvrir, STR. <i>740</i>.<p><b>Étym</b>. ἐξανοίγω.`

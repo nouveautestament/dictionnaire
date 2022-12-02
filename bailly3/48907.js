@@ -1,0 +1,1 @@
+lar[48907]=`<b>ή, όν</b> <font color="purple">[ῑλ]</font> d’Ilion, STR. <i>20</i> ; ANTH. <i>9, 192</i>.<p><b>Étym</b>. Ἴλιον.`

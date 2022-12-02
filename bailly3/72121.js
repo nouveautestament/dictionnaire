@@ -1,0 +1,1 @@
+lar[72121]=`<b>ου (ὁ)</b> Oxylos, <i>h</i>. ARSTT. <i>Pol. 6, 4, etc</i>.`

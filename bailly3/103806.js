@@ -1,0 +1,1 @@
+lar[103806]=`<b>ὑπο·σείραιος, ος, ον</b>, que l’on conduit par la longe, <i>p. suite,</i> qui va à côté (de qqn) EUR. <i>H.f. 445 conj</i>.`

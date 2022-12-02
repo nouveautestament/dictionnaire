@@ -1,0 +1,1 @@
+lar[9197]=`<b>ἀν·οιγνύω</b> (<i>seul. prés</i>. D. PHAL. <i>122</i> ; PAUS. <i>8, 41, 4, et impf</i>. ἀνεῴγνυον, APP. <i>Hann. 32 ; Civ. 4, 81) c</i>. ἀνοίγω.`

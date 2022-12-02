@@ -1,0 +1,1 @@
+lar[39995]=`<b>ἑπτα·μήτωρ, ορος (ἡ)</b> <font color="purple">[ᾰ]</font> mère de sept enfants, JOS. <i>Macc. 16</i>.<p><b>Étym</b>. ἑ. μήτηρ.`

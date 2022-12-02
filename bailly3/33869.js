@@ -1,0 +1,1 @@
+lar[33869]=`<b>ἐν·αμοιβαδίς</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., à tour de rôle, A.RH. <i>1, 380</i>.`

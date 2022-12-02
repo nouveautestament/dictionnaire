@@ -1,0 +1,1 @@
+lar[33782]=`<b>ἐν·αγλαΐζω</b>, briller dans, NYSS. <i>1, 840 Migne</i>.`

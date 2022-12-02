@@ -1,0 +1,1 @@
+lar[24151]=`<b>ου (τὸ)</b> Dèlion :<br><b>      1</b> <i>v. de Béotie,</i> HDT. <i>6, 118</i> ; THC. <i>4, 76, etc.</i> ; XÉN. <i>Mem. 3, 5, 4</i> ; PLAT. <i>Ap. 28e, etc.</i><br><b>      2</b> <i>temple d’Apollon et quartier de Naxos,</i> ARSTT. (PLUT. <i>Mul. virt. 17).</i><p><b>Étym</b>. Δῆλος.`

@@ -1,0 +1,1 @@
+lar[83540]=`<b>προ·αναγιγνώσκω</b>, <i>réc</i>. <b>προ·αναγινώσκω</b> <font color="darkgreen">(<i>f</i>. -αναγνώσομαι, <i>ao.2</i> προανέγνων, <i>etc</i>.)</font> lire auparavant à haute voix, PLUT. <i>M. 36e ;</i> DC. <i>38, 2 ; particul. en parl. d’un maître à ses élèves,</i> PLUT. <i>M. 790e</i>.`

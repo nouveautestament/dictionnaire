@@ -1,0 +1,1 @@
+lar[1279]=`<i>adv</i>., en secret, en dissimulant, THC. <i>1, 92, etc</i>.<p>•<i> Sup</i>. -ότατα, THC. <i>7, 50</i>.`

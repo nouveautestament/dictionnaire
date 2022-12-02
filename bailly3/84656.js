@@ -1,0 +1,1 @@
+lar[84656]=`<b>προ·λιμνάς, άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> marais que forment à la source <i>ou</i> à l’embouchure les eaux d’un fleuve, ARSTT. <i>H.A. 6, 14, 2</i>.<p><b>Étym</b>. π. λίμνη.`

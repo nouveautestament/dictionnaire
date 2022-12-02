@@ -1,0 +1,1 @@
+lar[57605]=`<i>acc</i>. <b>ΐν (ἡ)</b> <font color="purple">[ᾰῐδ]</font> Kratæis, <i>propr</i>. la Force, <i>mère de Scylla,</i> OD. <i>12, 124</i>.<p><b>Étym</b>. <i>v</i>. κραταιΐς.`

@@ -1,0 +1,1 @@
+lar[44415]=`<b>ων (τὰ)</b> Zarètres, <i>forteresse d’Eubée</i>, PLUT. <i>Phoc. 13</i>.`

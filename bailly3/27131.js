@@ -1,0 +1,1 @@
+lar[27131]=`<b>διφθερόω-ῶ</b> (<i>prés. pass</i>.) couvrir de cuir, de peau, STR. <i>831</i>.<p><b>Étym</b>. διφθέρα.`

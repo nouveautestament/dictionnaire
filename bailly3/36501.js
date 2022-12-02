@@ -1,0 +1,1 @@
+lar[36501]=`<b>ἐπ·αλθής, ής, ές :<br>      1</b> <i>act</i>. qui guérit, NIC. <i>Th. 500</i>.<br><b>      2</b> <i>pass</i>. guéri, NIC. <i>Al. 156</i>.<p><b>Étym</b>. ἐπί, ἀλθαίνω.`

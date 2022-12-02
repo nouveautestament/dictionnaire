@@ -1,0 +1,1 @@
+lar[105145]=`<b>Φερ·έπαφα (ἡ)</b> <i>mot imaginé par Platon pour expliquer</i> Περσεφόνη, PLAT. <i>Crat. 404d</i>.<p><b>Étym</b>. φ. ἐπαφή.`

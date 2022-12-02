@@ -1,0 +1,1 @@
+lar[65318]=`<b>ων (οἱ)</b> les Méoniens, <i>habitants de la Méonie,</i> HDT. <i>7, 74</i>.<p><b>Étym</b>. <i>Ion. c</i>. *Μαίονες, <i>v</i>. Μαιονία.`

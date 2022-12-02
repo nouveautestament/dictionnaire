@@ -1,0 +1,1 @@
+lar[22160]=`<b>γλυκύ·δωρος, ος, ον</b> <font color="purple">[ῠῠ]</font> aux doux présents, OPP. <i>H. 4, 105</i> ; ANTH. <i>5, 22</i>.<p><b>Étym</b>. γλ. δῶρον.`

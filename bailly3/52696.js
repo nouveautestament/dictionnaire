@@ -1,0 +1,1 @@
+lar[52696]=`<b>κατα·λεαίνω</b> <font color="darkgreen">(<i>ao</i>. κατελέανα)</font> rendre tout à fait poli, lisse, brillant, SPT. <i>Dan. 7, 23</i> ; PLUT. <i>M. 802b ;</i> CLÉM. <i>179</i>.`

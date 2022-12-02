@@ -1,0 +1,1 @@
+lar[49730]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> équilibre, PLAT. <i>Phæd. 109a ;</i> PLUT. <i>M. 137d, etc</i>.<p><b>Étym</b>. ἰσόρροπος.`

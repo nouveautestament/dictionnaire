@@ -1,0 +1,1 @@
+lar[89850]=`<b>ίδος (ἡ)</b> λίμνη, le lac Serbônis, <i>en Égypte,</i> HDT. <i>2, 6 ; 3, 5</i> ; A.RH. <i>2, 1218, etc</i>.`

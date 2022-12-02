@@ -1,0 +1,1 @@
+lar[78887]=`<b>περι·λιμνάζω :<br>      1 <i>tr.</i></b> couvrir <i>ou</i> entourer d’eau stagnante, <i>acc</i>. THC. <i>2, 102</i>.<br><b>      2 <i>intr.</i></b> se transformer en un marais, EL. <i>N.A. 16, 15</i>.`

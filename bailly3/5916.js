@@ -1,0 +1,1 @@
+lar[5916]=`<b>ῶν (αἱ)</b> chaussure à la mode d’Amyclées, THCR. <i>Idyl. 10, 35</i>.<p><b>Étym</b>. Ἀμύκλαι.`

@@ -1,0 +1,1 @@
+lar[10869]=`<b>ἀνω·φάλακρος, ος, ον</b>, chauve sur le haut de la tête, PTOL. <i>Tetr. 143, 17</i>.<p><b>Étym</b>. ἄνω², φαλακρός ; <i>cf</i>. ἀναφάλαντος.`

@@ -1,0 +1,1 @@
+lar[87290]=`<b>ακός (ἡ)</b> <font color="purple">[ᾱκ]</font> hase, <i>litt</i>. « qui se blottit », ESCHL. <i>Ag. 137</i>.<p>➳ <font color="purple">[ᾰ]</font> <i>à l’acc</i>. ESCHL. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. πτήσσω, πτώξ ; <i>autrement p.-ê. pré-grec</i>.`

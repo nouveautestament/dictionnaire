@@ -1,0 +1,1 @@
+lar[64882]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> intervalle, NICOM. <i>Harm. p. 11</i> ; THEOL. <i>50</i> ; SEXT. <i>742 Bkk., etc</i>.<p><b>Étym</b>. μεταξύ.`

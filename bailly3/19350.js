@@ -1,0 +1,1 @@
+lar[19350]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> de ronce, GAL. <i>6, 346 ; 13, 495</i>.<p><b>Étym</b>. βάτος¹.`

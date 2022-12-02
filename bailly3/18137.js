@@ -1,0 +1,1 @@
+lar[18137]=`<b>ου (τὸ)</b> extrémité de l’arrière d’un navire, IL. <i>15, 717 ; plur. au sens du sg</i>. HDT. <i>6, 114</i>.<p><b>Étym</b>. <i>cf. lat</i>. ăplustre.`

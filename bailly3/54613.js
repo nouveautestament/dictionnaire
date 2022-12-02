@@ -1,0 +1,1 @@
+lar[54613]=`<b>*κελαιν·ώπης</b>, <i>seul. dor</i>. <b>κελαινώπας, α</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. à l’aspect sombre, impénétrable, <i>fig</i>. SOPH. <i>Aj. 954</i>.<p><b>Étym</b>. κ. ὤψ.`

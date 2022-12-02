@@ -1,0 +1,1 @@
+lar[67466]=`<b>ης, ες</b>, qui gronde <i>ou</i> gémit sourdement, HPC. <i>203a, 206b</i>.<p><b>Étym</b>. μύζω, -ωδης.`

@@ -1,0 +1,1 @@
+lar[26047]=`<b>η, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. δίδυμος, PD. <i>O. 3, 35</i>.`

@@ -1,0 +1,1 @@
+lar[60964]=`<b>ου (ὁ)</b> = <i>lat</i>. Ligarius, <i>n. d’h. rom</i>. PLUT. <i>Brut. 11, etc</i>.`

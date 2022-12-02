@@ -1,0 +1,1 @@
+lar[95601]=`<b>συν·επιβαίνω :<br>      1</b> monter ensemble sur, <i>gén</i>. PLUT. <i>T. Gracch. 4 ; abs</i>. ARSTT. <i>H.A. 8, 2, 31</i> ; POL. <i>10, 13, 8</i>.<br><b>      2</b> s’engager ensemble dans, <i>dat</i>. ANT. <i>117, 41</i>.`

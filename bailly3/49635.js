@@ -1,0 +1,1 @@
+lar[49635]=`<b>ἰσοζυγέω-ῶ</b> <font color="purple">[ῐῠ]</font> être accouplé <i>ou</i> attelé d’une manière égale, peser également, se faire équilibre, NIC. <i>Th. 908</i>.<p><b>Étym</b>. ἰσόζυγος.`

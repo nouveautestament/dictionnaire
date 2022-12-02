@@ -1,0 +1,1 @@
+lar[101691]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> aboyeur, ANTH. <i>7, 479</i>.<p><b>Étym</b>. ὑλακτέω.`

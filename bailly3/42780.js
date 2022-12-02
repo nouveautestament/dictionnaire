@@ -1,0 +1,1 @@
+lar[42780]=`<i>adv</i>., avec bienveillance : εὐν. ἔχειν τινι, XÉN. <i>Hell. 4, 4, 15</i> ; πρός τινα, XÉN. <i>Mem. 2, 6, 34</i> ; εὐν. διακεῖσθαι πρός τινα, ISOCR. <i>282b</i>, être bienveillant pour qqn.<p>•<i> Cp</i>. -ωτέρως, DÉM. <i>1228, 14 ; • Sup</i>. -ώτατα, XÉN. <i>Cyr. 8, 4, 1</i>.`

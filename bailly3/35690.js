@@ -1,0 +1,1 @@
+lar[35690]=`<b>ἐξ·εάω-εῶ</b>, laisser aller, NT. <i>Apocr. Acta Petri et Pauli 77</i>.`

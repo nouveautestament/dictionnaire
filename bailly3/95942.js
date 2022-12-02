@@ -1,0 +1,1 @@
+lar[95942]=`<b>οῦ (ὁ)</b> ajustement, arrangement, GAL. <i>14, 781</i>.<p><b>Étym</b>. συνθετίζομαι.`

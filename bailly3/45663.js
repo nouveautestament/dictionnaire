@@ -1,0 +1,1 @@
+lar[45663]=`<b>ου (τὸ)</b> <i>d’ord. au pl</i>. ἡνία, ων (τὰ) brides, rênes, IL. <i>3, 261 ; 5, 226</i> ; OD. <i>3, 483, etc.</i> ; HÉS. <i>Sc. 95</i>.<p><b>Étym</b>. <i>cf</i>. ἡνία.`

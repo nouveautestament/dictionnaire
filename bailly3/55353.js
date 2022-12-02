@@ -1,0 +1,1 @@
+lar[55353]=`<b>ης, ες :<br>      1</b> de frelon, semblable à un frelon, PLAT. <i>Rsp. 554b.</i><br><b>      2</b> <i>p. suite,</i> inutile, CLÉOM. <i>2, 1</i>.<p><b>Étym</b>. κηφήν, -ωδης.`

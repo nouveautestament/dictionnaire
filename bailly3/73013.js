@@ -1,0 +1,1 @@
+lar[73013]=`<b>εως (ἡ)</b> élan, essor, PHIL. <i>1, 602, etc.</i> ; élan de la pensée, STOB. <i>Ecl. eth. p. 162</i>.<p><b>Étym</b>. ὀρούω.`

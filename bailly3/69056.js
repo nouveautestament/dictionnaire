@@ -1,0 +1,1 @@
+lar[69056]=`<b>α, ον</b>, qu’il faut avertir, EUR. <i>Ion 436, Bacch. 1356</i> ; ARSTT. <i>Pol. 1, 13</i>.<p><b>Étym</b>. νουθετέω.`

@@ -1,0 +1,1 @@
+lar[27422]=`<b>δολιχ·άορος, ος, ον</b> <font color="purple">[ῐᾱ]</font> à la longue lance, PHILÉT. (SCH.-IL. <i>14, 385).</i><p><b>Étym</b>. δολιχός, ἄορ.`

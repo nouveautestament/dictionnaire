@@ -1,0 +1,1 @@
+lar[44253]=`<b>ἐχθρό·ξενος, ος, ον</b>, hostile aux étrangers, inhospitalier, ESCHL. <i>Pr. 727 ; Sept. 606, 621</i> ; EUR. <i>Alc. 558</i>.<p><b>Étym</b>. ἐχθρός, ξένος.`

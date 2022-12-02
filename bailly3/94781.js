@@ -1,0 +1,1 @@
+lar[94781]=`<b>εως (ἡ)</b> action d’imprégner de la même couleur, PLUT. <i>M. 680e</i>.<p><b>Étym</b>. συναναχρώννυμι.`

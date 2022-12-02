@@ -1,0 +1,1 @@
+lar[62734]=`<b>ου (ὁ)</b> = <i>lat</i>. Mamercus, <i>tyran de Catania et poète tragique,</i> PLUT. <i>Tim. 13</i>.`

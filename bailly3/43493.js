@@ -1,0 +1,1 @@
+lar[43493]=`<b>εὔ·στρεπτος, ος, ον :<br>      1</b> bien tordu, bien tourné, OD. <i>2, 426</i>.<br><b>      2</b> qui se tourne facilement, flexible, souple, ANTH. <i>9, 533</i>.<p>➳ <i>Épq</i>. ἐΰστρεπτος, OD. <i>l. c</i>.<p><b>Étym</b>. εὖ, στρέφω.`

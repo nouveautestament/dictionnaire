@@ -1,0 +1,1 @@
+lar[11629]=`<b>ἀπ·εκκλύζω</b>, purifier en lavant, CHRYS. <i>6, 296</i>.`

@@ -1,0 +1,1 @@
+lar[81512]=`<b>πολεμή·τοκος, ος, ον</b>, enfanté pour la guerre, belliqueux, ORPH. <i>H. 31, 10</i>.<p><b>Étym</b>. πόλεμος, τίκτω.`

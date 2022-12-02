@@ -1,0 +1,1 @@
+lar[24155]=`(<i>seul. prés. et inf. ao.) dor. c</i>. βούλομαι, vouloir, T. LOCR. <i>94d ;</i> ARCHYT. (STOB. <i>1, 70</i>) ; THCR. <i>Idyl. 5, 27</i> ; PLUT. <i>M. 219d</i>.<p><b>Étym</b>. <i>Sur l’origine de ce mot rapproché de</i> βούλομαι, <i>v</i>. βούλομαι <i>fin</i>.`

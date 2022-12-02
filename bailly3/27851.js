@@ -1,0 +1,1 @@
+lar[27851]=`<b>ας</b> <font color="purple">[ᾱπ]</font>, <i>adj. f. c</i>. δραπέτις, CHRYS. <i>11, 113</i>.`

@@ -1,0 +1,1 @@
+lar[99654]=`<b>έως (ὁ)</b> sorte de vrille, ANTH. <i>6, 205</i>.<p><b>Étym</b>. τορός.`

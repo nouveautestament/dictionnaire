@@ -1,0 +1,1 @@
+lar[34010]=`<i>adv</i>., visiblement, <i>d’où</i> clairement (<i>voir, parler, etc</i>.) HDT. <i>8, 77</i> ; PLAT. <i>Tim. 49b, Rsp. 611c</i>.<p>•<i> Cp</i>. -έστερον, PLAT. <i>ll. cc. ; • Sup</i>. -έστατα, PLAT. <i>1 Alc. 132c</i>.<p>➳ <i>Ion</i>. ἐναργέως, HDT. <i>l. c</i>.<p><b>Étym</b>. ἐναργής.`

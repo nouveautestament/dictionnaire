@@ -1,0 +1,1 @@
+lar[95123]=`<b>συν·διαμαρτάνω</b> <font color="purple">[μᾰ]</font> manquer le but ensemble, ES. <i>219 de Furia</i>.`

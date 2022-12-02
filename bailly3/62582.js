@@ -1,0 +1,1 @@
+lar[62582]=`<b>μακρό·χηλος, ος, ον</b>, aux sabots allongés <i>ou</i> aux longues griffes, STR. <i>835, au cp</i>. -ότερος.<p><b>Étym</b>. μ. χηλή.`

@@ -1,0 +1,1 @@
+lar[79292]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de marquer d’un accent circonflexe, <i>t. de gr</i>. DYSC. <i>Pron. 372</i>.<p><b>Étym</b>. περισπάω.`

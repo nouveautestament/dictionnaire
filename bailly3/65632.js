@@ -1,0 +1,1 @@
+lar[65632]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., confusément, pêle-mêle, <i>d’où</i> au milieu de, <i>dat</i>. PD. <i>P. 4, 113</i> ; A.RH. <i>4, 1345, etc</i>.<p><b>Étym</b>. μίγνυμι.`

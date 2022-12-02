@@ -1,0 +1,1 @@
+lar[108443]=`<b>χιλιο·δύναμις, εως (ἡ)</b> <font color="purple">[χῑῠᾰ]</font> la plante de mille vertus, <i>n. du dictame,</i> GAL. <i>12, 106</i> ; DIOSC. <i>4, 8</i>.<p><b>Étym</b>. χ. δύναμις.`

@@ -1,0 +1,1 @@
+lar[4588]=`<b>ἀλιτρό·βιος, ος, ον</b> <font color="purple">[ᾰ]</font> de vie criminelle, NONN. <i>D. 12, 72</i>.<p><b>Étym</b>. ἀλιτρός, βίος.`

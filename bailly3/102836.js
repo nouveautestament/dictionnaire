@@ -1,0 +1,1 @@
+lar[102836]=`<b>ος, ον :<br>      1</b> tendu à l’excès, NAZ. <i>Carm. 58, 123 ; p. suite,</i> fatigué, épuisé, HIPPIATR. <i>p. 5, 10</i>.<br><b>      2</b> extrêmement tendu, très intense, ESCHL. <i>Eum. 569</i> ; AR. <i>Nub. 1154</i> ; PLUT. <i>Fab. 19</i>.<p><b>Étym</b>. ὑπερτείνω.`

@@ -1,0 +1,1 @@
+lar[72062]=`<b>ου (τὸ)</b> <font color="purple">[ῠβᾰ]</font> <i>dim. de</i> ὀξύβαφον ANTIPH. (ATH. <i>494d</i>).`

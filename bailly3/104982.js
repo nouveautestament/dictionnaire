@@ -1,0 +1,1 @@
+lar[104982]=`<b>άδος (ἡ)</b> sarcelle, <i>oiseau,</i> ARSTT. <i>H.A. 8, 3, 15</i> ; AL. MYND. (ATH. <i>395d</i>).`

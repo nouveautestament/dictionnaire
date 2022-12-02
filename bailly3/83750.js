@@ -1,0 +1,1 @@
+lar[83750]=`<b>προ·βαθύς, εῖα, ύ</b>, <i>gén</i>. <b>έος</b> <font color="purple">[ᾰ]</font> tout à fait profond, A.RH. <i>4, 283</i>.`

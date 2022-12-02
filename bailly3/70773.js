@@ -1,0 +1,1 @@
+lar[70773]=`<b>οἰωνο·σκόπος, ος, ον</b>, qui observe le vol <i>ou</i> le cri des oiseaux, <i>d’où subst</i>. οἰ. EUR. <i>Suppl. 500</i> ; STR. <i>762,</i> augure.<p><b>Étym</b>. οἰωνός, σκοπέω.`

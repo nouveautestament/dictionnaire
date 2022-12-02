@@ -1,0 +1,1 @@
+lar[21165]=`<i>adv.</i> :<br><b>      1</b> en venant de terre, OPP. <i>H. 1, 39</i>.<br><b>      2</b> en sortant de terre, ORACL. (EUS. <i>P.E. 237a</i>).<p><b>Étym</b>. γαίη, -θεν.`

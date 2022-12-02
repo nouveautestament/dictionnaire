@@ -1,0 +1,1 @@
+lar[10019]=`<b>ἀντι·λάμπω :<br>   I <i>tr.</i></b> faire briller les signaux à son tour <i>ou</i> en réponse, ESCHL. <i>Ag. 294</i>.<br><b>   II <i>intr</i>.<br>      1</b> réfléchir la lumière, XÉN. <i>Cyn. 5, 18</i> ; PLUT. <i>Arat. 21</i>.<br><b>      2</b> briller en face de, <i>dat</i>. PLUT. <i>Mar. 26 ; d’où</i> éblouir, <i>dat</i>. PLUT. <i>M. 41c, etc</i>.`

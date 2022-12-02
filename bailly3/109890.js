@@ -1,0 +1,1 @@
+lar[109890]=`<b>ου</b>, <i>adj. m</i>. des reins, lombaire, GAL. <i>De loc. affect. 8, 238</i>.<p><b>Étym</b>. ψόα.`

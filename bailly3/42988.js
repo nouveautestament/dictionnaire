@@ -1,0 +1,1 @@
+lar[42988]=`<b>εὐ·περίληπτος, ος, ον</b>, facile à embrasser, à saisir, PORPH. <i>Abst. 3, 4 ; fig</i>. POL. <i>7, 7, 6</i>.<p><b>Étym</b>. εὖ, περιλαμβάνω.`

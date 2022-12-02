@@ -1,0 +1,1 @@
+lar[48190]=`<b>ἰακχαῖος στέφανος (ὁ)</b> PHILÉT. (ATH. <i>678a</i>) ronde, <i>sorte de danse à Sicyone</i>.<p><b>Étym</b>. ἰάκχα.`

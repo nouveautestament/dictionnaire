@@ -1,0 +1,1 @@
+lar[89083]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> pêcheur à la seine, PLUT. <i>M. 966d ;</i> ANTH. <i>9, 370</i>.<p><b>Étym</b>. σαγηνεύω.`

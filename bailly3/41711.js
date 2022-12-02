@@ -1,0 +1,1 @@
+lar[41711]=`<b>ῆς (ἡ)</b> <i>autre nom de la plante</i> χαμαιάκτη, DIOSC.`

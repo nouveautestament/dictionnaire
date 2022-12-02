@@ -1,0 +1,1 @@
+lar[41936]=`<b>εὐ·δυσώπητος, ος, ον</b> <font color="purple">[ῠ]</font> qui se laisse aisément intimider, PLUT. <i>M. 528e</i>.<p><b>Étym</b>. εὖ, δυσωπέω.`

@@ -1,0 +1,1 @@
+lar[55213]=`<b>ου (ὁ)</b> = <i>lat</i>. census, le cens, <i>à Rome,</i> NT. <i>Matth. 22, 19</i>.`

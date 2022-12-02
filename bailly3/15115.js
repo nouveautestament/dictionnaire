@@ -1,0 +1,1 @@
+lar[15115]=`<b>*ἀρρενοκοιτέω</b>, <i>seul</i>. <b>ἀρσενοκοιτέω-ῶ</b>, avoir des mœurs contre nature, ORIG. <i>7, 181 Migne</i>.<p><b>Étym</b>. ἀρρενοκοίτης.`

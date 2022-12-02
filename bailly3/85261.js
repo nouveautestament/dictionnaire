@@ -1,0 +1,1 @@
+lar[85261]=`<b>προσ·αποπνίγω</b> <font color="purple">[ῐγ]</font> étouffer en outre, ARÉT. <i>Cur. m. acut. 1, 4</i>.`

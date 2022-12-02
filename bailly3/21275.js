@@ -1,0 +1,1 @@
+lar[21275]=`<b>έως (ὁ)</b> <font color="purple">[ᾰῐ]</font> jeune belette <i>ou</i> jeune chat, CRAT. <i>(Bkk. 88, 3).</i><p><b>Étym</b>. γαλίς.`

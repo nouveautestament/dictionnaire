@@ -1,0 +1,1 @@
+lar[109462]=`<font color="purple">[ῑτ]</font> <i>adv</i>., en paysan, d’une manière rustique, XÉN. <i>Cyr. 4, 5, 54</i> ; SYN. <i>p. 245, etc</i>.`

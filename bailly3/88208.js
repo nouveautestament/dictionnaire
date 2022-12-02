@@ -1,0 +1,1 @@
+lar[88208]=`<b>ῆς</b>, <i>ou mieux</i> <b>Ῥαδίνη, ης (ἡ)</b> <font color="purple">[ᾰῐ]</font> Rhadinè, <i>f</i>. STÉSICH. <i>3, 222 Bgk</i>.`

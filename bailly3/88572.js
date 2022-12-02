@@ -1,0 +1,1 @@
+lar[88572]=`<b>οῦ (ὁ)</b> celui qui enracine, qui fonde, qui crée, SYN. <i>Hymn. 5, 18</i>.<p><b>Étym</b>. ῥιζόω.`

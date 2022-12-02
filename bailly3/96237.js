@@ -1,0 +1,1 @@
+lar[96237]=`<b>οῦ (ὁ)</b> qui a des relations d’amitié, d’intimité avec qqn, PLAT. <i>Min. 319e ; particul</i>. qui suit les leçons d’un maître, écolier, XÉN. <i>Mem. 1, 6, 1</i> ; DH. <i>Lys. 3, p. 458, 5</i> ; PLUT. <i>M. 8b</i>.<p><b>Étym</b>. συνουσιάζω.`

@@ -1,0 +1,1 @@
+lar[21850]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. γέφυρα, JOS. <i>B.J. 3, 7, 28</i>.<p><b>Étym</b>. γεφυρόω.`

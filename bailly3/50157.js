@@ -1,0 +1,1 @@
+lar[50157]=`<b>Ἰωνό·πολις (ἡ)</b> Iônopolis (<i>propr</i>. v. des Ioniens) <i>en Paphlagonie,</i> LUC. <i>Alex. 58</i>.<p><b>Étym</b>. Ἴων, πόλις.`

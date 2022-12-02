@@ -1,0 +1,1 @@
+lar[10888]=`<b>ἀξι·αγάπητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> digne d’être aimé, CLÉM. <i>612</i>.<p><b>Étym</b>. ἄξιος, ἀγαπάω.`

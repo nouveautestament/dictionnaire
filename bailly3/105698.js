@@ -1,0 +1,1 @@
+lar[105698]=`<b>φιλο·βάρβιτος, ος, ον</b> <font color="purple">[ῐῐ]</font> ami de la lyre, CRITIAS (ATH. <i>600d</i>).`

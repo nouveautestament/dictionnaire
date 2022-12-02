@@ -1,0 +1,1 @@
+lar[23940]=`<b>(τὸ)</b> Déras, <i>forteresse de Sicyonie,</i> XÉN. <i>Hell. 7, 1, 22</i>.`

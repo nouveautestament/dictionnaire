@@ -1,0 +1,1 @@
+lar[21359]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> Ganyktor, <i>h</i>. NONN. <i>D. 40, 226</i>.<p><b>Étym</b>. γάνυμαι.`

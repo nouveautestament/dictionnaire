@@ -1,0 +1,1 @@
+lar[102676]=`<b>ὑπερ·ξηραίνω</b>, dessécher excessivement, HPC. <i>364, 30 ; 365, 25, etc. ; au pass</i>. devenir extrêmement sec, ARSTT. <i>Meteor. 1, 14, 10</i> ; GAL. <i>4, 192, etc</i>.`

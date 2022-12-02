@@ -1,0 +1,1 @@
+lar[41862]=`<b>εὐ·δίαιτος, ος, ον</b>, qui vit avec tempérance, XÉN. <i>Ap. 19</i>.<p><b>Étym</b>. εὖ, δίαιτα.`

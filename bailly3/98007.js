@@ -1,0 +1,1 @@
+lar[98007]=`(<i>seul. prés. et impf</i>. ἐτείχεον) <i>mot ion.</i> :<br><b>      1</b> construire un mur, HDT. <i>1, 99</i> ; τ. τεῖχος, HDT. <i>9, 7, m. sign.</i><br><b>      2</b> entourer de murs, fortifier, <i>acc</i>. HDT. <i>8, 40 ; 9, 8, etc</i>.<p><b>Étym</b>. τεῖχος.`

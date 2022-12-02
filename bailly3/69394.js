@@ -1,0 +1,1 @@
+lar[69394]=`<b>ξανθόω-ῶ</b>, rendre jaune, <i>d’où au pass</i>. <b>ξανθόομαι-οῦμαι</b>, devenir jaune, DIOSC. <i>1, 81</i>.<p><b>Étym</b>. ξανθός.`

@@ -1,0 +1,1 @@
+lar[66126]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> troublé, nuageux, obscur, COL. <i>208 dout</i>.<p><b>Étym</b>. μίγνυμι.`

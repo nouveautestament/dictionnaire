@@ -1,0 +1,1 @@
+lar[29106]=`<b>δωδεκα·στάδιος, ος, ον</b> <font color="purple">[τᾰ]</font> de douze stades, STR. <i>398</i> ; POSIDON. (ATH. <i>152d</i>).<p><b>Étym</b>. δ. στάδιον.`

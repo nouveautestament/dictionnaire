@@ -1,0 +1,1 @@
+lar[91299]=`<b>σκυλάω-ῶ</b> <font color="purple">[ῡ]</font> outrager, profaner, ANTH. <i>3, 6</i>.<p><b>Étym</b>. <i>cf</i>. σκυλεύω.`

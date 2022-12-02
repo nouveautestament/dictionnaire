@@ -1,0 +1,1 @@
+lar[5499]=`<i>adv</i>., sans changer de dispositions d’esprit, CLÉM. <i>1, 912 Migne</i>.`

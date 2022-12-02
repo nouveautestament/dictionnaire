@@ -1,0 +1,1 @@
+lar[61710]=`<b>ου</b>, <i>adj. m</i>. qui habite les collines, <i>ép. de Pan,</i> ANTH. <i>6, 79</i>.<p><b>Étym</b>. λοφιά.`

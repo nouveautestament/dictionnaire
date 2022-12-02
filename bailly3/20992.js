@@ -1,0 +1,1 @@
+lar[20992]=`<b>ου (τὸ)</b> Byzance (<i>auj</i>. İstanbul), <i>v. de Thrace, sur le Bosphore,</i> HDT. <i>4, 87</i> ; ἡ βυζάντιον, POLYEN <i>4, 6, 8</i>.`

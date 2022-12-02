@@ -1,0 +1,1 @@
+lar[76988]=`<b>υος (ἡ)</b> Parmys, <i>nièce de Cyrus,</i> HDT. <i>3, 88 ; 7, 78</i>.`

@@ -1,0 +1,1 @@
+lar[64039]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de frêne, OD. <i>17, 339</i>.<p>➳ <i>Dans l’</i>IL. <i>5, 655, 666, etc. seul. épq</i>. μείλινος.<p><b>Étym</b>. μελία ; <i>cf</i>. μελίϊνος.`

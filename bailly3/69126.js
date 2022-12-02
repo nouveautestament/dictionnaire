@@ -1,0 +1,1 @@
+lar[69126]=`<b>νυκτ·ηγορέω-ῶ</b>, tenir une assemblée de nuit, EUR. <i>Rhes. 89 ; au pass</i>. être délibéré <i>ou</i> discuté pendant la nuit, ESCHL. <i>Sept. 29</i>.<p><b>Étym</b>. νύξ, ἀγορά.`

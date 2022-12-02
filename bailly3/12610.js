@@ -1,0 +1,1 @@
+lar[12610]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’effacer en lavant, THÉM. <i>167b</i>.<p><b>Étym</b>. ἀποκλύζω.`

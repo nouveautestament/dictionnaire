@@ -1,0 +1,1 @@
+lar[7774]=`<b>ἀνα·τολμάω-ῶ</b>, recouvrer de l’audace, EUR. <i>Alc. 277</i> ; PLUT. <i>Luc. 31</i>.`

@@ -1,0 +1,1 @@
+lar[32263]=`<b>ἔκ·τυπος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> taillé en relief ; <i>ou</i> relevé en bosse, ION (ATH. <i>185a</i>) ; DS. <i>18, 26,</i> DC. <i>7, 46</i> ; CELS. (ORIG. <i>1, 1357a Migne</i>).<br><b>      2</b> esquissé : τὸ ἔκτυπον, esquisse, MARCELL. <i>V. Thuc. 44</i>.<p><b>Étym</b>. ἐκ, τύπος.`

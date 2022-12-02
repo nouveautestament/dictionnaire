@@ -1,0 +1,1 @@
+lar[6003]=`<b>ας (ἡ)</b> Ampheira, <i>ép. d’Athèna,</i> LYC. <i>1163</i>.`

@@ -1,0 +1,1 @@
+lar[30787]=`<font color="purple">[ῐτ]</font> <i>vb. de</i> εἴσειμι, LUC. <i>Herm. 73</i>.`

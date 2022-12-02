@@ -1,0 +1,1 @@
+lar[29442]=`<b>ἐγ·καθείργω :</b> tenir enfermé dans, <i>dat</i>. X. ÉPH. <i>2, 6 (ao. inf</i>. ἐγκαθεῖρξαι).<p><i>On rattache d’ord., mais à tort, à ce verbe le sens de</i> « arrêter, empêcher » <i>v</i>. ἐγκατείργω ; <i>cf</i>. εἵργω, enfermer, <i>et</i> εἴργω, écarter.<p><b>Étym</b>. ἐν, κ.`

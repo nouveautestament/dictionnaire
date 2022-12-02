@@ -1,0 +1,1 @@
+lar[90218]=`<b>ας (ἡ)</b> <font color="purple">[ῑκᾰ]</font> la Sicanie, <i>partie de la Sicile voisine d’Agrigente, d’où</i> la Sicile, THC. <i>6, 2 etc</i>.<p>➳ <i>Ion</i>. Σικανίη, OD. <i>24, 307</i> ; HDT. <i>7, 170, etc</i>.`

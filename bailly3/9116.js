@@ -1,0 +1,1 @@
+lar[9116]=`<b>ἀνισο·μήκης, ης, ες</b> <font color="purple">[ᾰῐ]</font> de longueur inégale, GAL. <i>13, 699</i>.<p><b>Étym</b>. ἄν. μῆκος.`

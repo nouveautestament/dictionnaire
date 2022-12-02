@@ -1,0 +1,1 @@
+lar[6519]=`<b>ου (τὸ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> <i>s.-e</i>. ἱερόν, sacrifice pour obtenir une heureuse traversée, PLUT. <i>M. 984b.</i><br><b>      2</b> escabeau, GEOP. <i>9, 17, 8</i>.<p><b>Étym</b>. ἀναβαίνω.`

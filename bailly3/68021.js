@@ -1,0 +1,1 @@
+lar[68021]=`<b>ητος (ἡ)</b> état d’un être mort, CHRYS. <i>3, 84, etc</i>.<p><b>Étym</b>. νεκρός.`

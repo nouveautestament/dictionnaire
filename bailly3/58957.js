@@ -1,0 +1,1 @@
+lar[58957]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> combat à coups de cornes, EL. <i>N.A. 16, 20</i>.<p><b>Étym</b>. κυρίσσω.`

@@ -1,0 +1,1 @@
+lar[33685]=`<b>ἐμ·φιλοσοφέω-ῶ</b> <font color="purple">[ῐ]</font> disserter philosophiquement sur, <i>dat</i>. PHILSTR. <i>202</i> ; NAZ. <i>2, 60 ; 3, 165 et 1189 Migne</i>.<p><b>Étym</b>. ἐν, φ.`

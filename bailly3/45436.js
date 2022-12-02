@@ -1,0 +1,1 @@
+lar[45436]=`<b>ἡμί·θηλυς</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. à moitié femme, ANACR. <i>11, 2</i>.<p><b>Étym</b>. ἡμι-, θῆλυς.`

@@ -1,0 +1,1 @@
+lar[85042]=`<b>προ·πωλέω-ῶ</b>, être courtier, commissionnaire en marchandises, PLAT. <i>Leg. 954a</i>.`

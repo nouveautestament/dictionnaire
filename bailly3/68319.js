@@ -1,0 +1,1 @@
+lar[68319]=`<b>ός, όν :<br>      1</b> nouveau, neuf, ESCHL. <i>Pr. 150, etc.</i> ; SOPH. <i>Tr. 260, Ant. 156</i> ; EUR. <i>Suppl. 1057</i> ; HDT. <i>9, 99, 104</i>.<br><b>      2</b> nouveau, étrange, AR. <i>Th. 701</i>.<p><b>Étym</b>. νέος.`

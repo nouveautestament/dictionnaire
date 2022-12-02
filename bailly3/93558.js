@@ -1,0 +1,1 @@
+lar[93558]=`<b>συγ·κυέω-ῶ</b>, enfanter avec, <i>fig. dat</i>. PORPH. <i>Antr. nymph. 28</i>.`

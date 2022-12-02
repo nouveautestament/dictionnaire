@@ -1,0 +1,1 @@
+lar[43079]=`<b>εὐ·πόριστος, ος, ον</b>, facile à se procurer, EPIC. (DL. <i>10, 144</i>) ; CIC. <i>Att. 7, 1, 7</i> ; τὰ εὐπόριστα (<i>s.-e</i>. φάρμακα) PLUT. <i>Luc. 40,</i> remèdes usuels.<p><b>Étym</b>. εὖ, πορίζω.`

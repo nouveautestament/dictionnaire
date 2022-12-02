@@ -1,0 +1,1 @@
+lar[91148]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> action de s’étirer en bâillant, HPC. <i>1020f</i>.<p><b>Étym</b>. σκορδινάομαι.`

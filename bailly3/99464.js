@@ -1,0 +1,1 @@
+lar[99464]=`<i>nom. plur. épq. et ion. de</i> ὅ, ἥ, τό, <i>ou de</i> ὅς, ἥ, ὅ.`

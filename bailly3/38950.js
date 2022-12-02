@@ -1,0 +1,1 @@
+lar[38950]=`<b>ή, όν</b>, propre à signifier, significatif, PTOL. <i>Tetr. 94 et 101</i> ; HÉPH. ASTR. <i>Apot. 1, 1</i>.<p><b>Étym</b>. ἐπισημαίνω.`

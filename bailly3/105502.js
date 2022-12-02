@@ -1,0 +1,1 @@
+lar[105502]=`<b>ας (ἡ)</b> <font color="purple">[ῐῠ]</font> amour de l’argent, ISOCR. <i>178d ;</i> DIN. <i>93, 2</i> ; POL. <i>9, 25, 4</i>.<p><b>Étym</b>. φιλάργυρος.`

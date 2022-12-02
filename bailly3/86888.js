@@ -1,0 +1,1 @@
+lar[86888]=`<b>προ·ϋποστέλλω</b>, placer auparavant dessous, RUF. <i>p. 58 Clinch</i>.`

@@ -1,0 +1,1 @@
+lar[65948]=`<b>μισ·άγαθος, ος, ον</b> <font color="purple">[ῑᾰᾰ]</font> qui hait le bien, CHRYS. <i>5, 62 Migne</i>.<p><b>Étym</b>. μισέω, ἀγαθός.`

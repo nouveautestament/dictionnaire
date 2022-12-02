@@ -1,0 +1,1 @@
+lar[46840]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> faveur <i>ou</i> protection des dieux, MÉN. RHÉT. <i>9, 199 W</i>.<p><b>Étym</b>. θ. φίλος.`

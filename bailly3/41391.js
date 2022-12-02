@@ -1,0 +1,1 @@
+lar[41391]=`<b>ἑτερ·όφθαλμος, ος, ον :<br>      1</b> borgne, LEPTIN. (ARSTT. <i>Rhet. 3, 10, 7</i>) ; DÉM. <i>744, 18</i> ; ARSTT. <i>Metaph. 4, 22, 4</i>.<br><b>      2</b> dont les yeux sont de couleur différente (cheval) GEOP. <i>16, 2, 1</i> ; HIPPIATR. <i>p. 53</i>.<p><b>Étym</b>. ἕ. ὀφθαλμός.`

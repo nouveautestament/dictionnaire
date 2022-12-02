@@ -1,0 +1,1 @@
+lar[2630]=`<b>αἱμωδιάω-ῶ :<br>      1</b> avoir les dents agacées, TIMOCL. (ATH. <i>241b</i>) ; ARSTT. <i>Probl. 7, 5, 1</i>.<br><b>      2 <i>tr.</i></b> agacer les dents, HPC. <i>534, 33</i>.<p><b>Étym</b>. αἱμωδία.`

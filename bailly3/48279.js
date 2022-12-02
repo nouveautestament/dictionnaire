@@ -1,0 +1,1 @@
+lar[48279]=`<b>ης (ἡ)</b> jasmin, <i>arbrisseau de Perse,</i> DIOSC. <i>Noth. 1, 76</i>.`

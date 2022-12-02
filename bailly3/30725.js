@@ -1,0 +1,1 @@
+lar[30725]=`<b>*εἰσ·δίδωμι</b>, <i>seul. ion</i>. <b>ἐσ·δίδωμι</b>, se jeter dans, <i>en parl. d’un fleuve, avec</i> ἐς <i>et l’acc</i>. HDT. <i>4, 49, 50</i>.`

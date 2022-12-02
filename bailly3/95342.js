@@ -1,0 +1,1 @@
+lar[95342]=`<b>συν·εκδύομαι</b> <font color="darkgreen">(<i>f</i>. -δύσομαι, <i>ao</i>. συνεξέδυν, <i>etc</i>.) :</font><br><b>      1</b> se tirer <i>ou</i> sortir de avec l’aide de, <i>dat</i>. POLYEN <i>2, 31, 2</i>.<br><b>      2</b> se dépouiller en même temps de, <i>acc</i>. HDT. <i>1, 8</i>.`

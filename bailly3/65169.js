@@ -1,0 +1,1 @@
+lar[65169]=`<b>μετ·ίσχω</b>, <i>ion. et att. c</i>. μετέχω, HDT. <i>5, 92</i> ; PLAT. <i>Tim. 58e, Rsp. 411d, etc</i>.`

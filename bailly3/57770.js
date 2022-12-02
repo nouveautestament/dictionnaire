@@ -1,0 +1,1 @@
+lar[57770]=`<b>οῦ (ὁ)</b> Kressos, <i>h</i>. ANTH. <i>App. 156</i>.`

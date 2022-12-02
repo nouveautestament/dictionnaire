@@ -1,0 +1,1 @@
+lar[103265]=`<b>ης (ἡ)</b> précepte, conseil, <i>au pl</i>. IL. <i>15, 412</i> ; OD. <i>16, 233 ; au sg</i>. XÉN. <i>Mem. 1, 3, 7</i> ; LUC. <i>Astr. 1</i>.<p><b>Étym</b>. <i>cf</i>. ὑπόθημα.`

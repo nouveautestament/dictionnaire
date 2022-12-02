@@ -1,0 +1,1 @@
+lar[59560]=`<b>λαιο·τομέω-ῶ</b>, faire la moisson, THCR. <i>Idyl. 10, 3</i>.<p><b>Étym</b>. λαῖον, -τομος <i>de</i> τέμνω.`

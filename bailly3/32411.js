@@ -1,0 +1,1 @@
+lar[32411]=`<b>ἐκ·χυμόομαι-οῦμαι</b> <font color="purple">[ῡ]</font> s’extravaser, <i>en parl. du sang,</i> HPC. <i>Fract. 759</i>.`

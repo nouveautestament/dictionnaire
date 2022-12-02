@@ -1,0 +1,1 @@
+lar[666]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> soudure d’une articulation, ankylose, GAL. <i>2, 391</i> ; AÉT. <i>7, 66</i>.<p><b>Étym</b>. ἀγκυλόω.`

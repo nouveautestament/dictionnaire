@@ -1,0 +1,1 @@
+lar[66196]=`<b>ου (ὁ)</b> Mnèsarkhidès, <i>h</i>. DÉM. <i>581, 14 ; 1332, 14</i> ; LUC. <i>Gall. 4</i>.<p><b>Étym</b>. <i>patr. de</i> Μνήσαρχος.`

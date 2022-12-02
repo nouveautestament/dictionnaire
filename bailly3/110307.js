@@ -1,0 +1,1 @@
+lar[110307]=`<i>adv</i>., durement, cruellement, XÉN. <i>Vect. 5, 6</i> ; THC. <i>3, 84</i> ; DÉM. <i>753</i> ; PLUT. <i>M. 60 ; joint à</i> πικρῶς, DÉM. <i>845 ; à</i> ἀγρίως, PLUT. <i>M. 60d, etc</i>.<p>•<i> Sup</i>. ὠμότατα, ISOCR. <i>198e</i>.<p><b>Étym</b>. ὠμός.`

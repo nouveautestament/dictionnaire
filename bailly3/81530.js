@@ -1,0 +1,1 @@
+lar[81530]=`<b>πολεμο·ποιός, ός, όν</b>, qui excite une guerre, auteur d’une guerre, ARSTT. <i>Pol. 5, 11, 10</i> ; PLUT. <i>M. 321f, etc</i>.<p><b>Étym</b>. π. ποιέω.`

@@ -1,0 +1,1 @@
+lar[80539]=`<b>η, ον</b> <font color="purple">[πῐ]</font> de pin, PLUT. <i>M. 677b ;</i> ῥητίνη πιτυΐνη, HPC. <i>671, 27</i>, résine.<p><b>Étym</b>. πίτυς.`

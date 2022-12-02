@@ -1,0 +1,1 @@
+lar[54006]=`<b>κατ·ηγγειωμένως</b>, <i>adv</i>., avec épanchement dans, SOR. <i>Obst. p. 111 Erm</i>.<p><b>Étym</b>. κ. ἀγγειόω.`

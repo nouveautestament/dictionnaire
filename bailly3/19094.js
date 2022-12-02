@@ -1,0 +1,1 @@
+lar[19094]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. βάρος, <i>mot ion</i>. ARÉT. <i>Caus. m. diut. 1, 11</i>.`

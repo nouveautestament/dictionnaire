@@ -1,0 +1,1 @@
+lar[85299]=`<b>ατος (τὸ)</b> appendice, accessoire, GAL. <i>Hipp. et Plat. 1, 4, 10</i> ; CLÉM. <i>488</i>.<p><b>Étym</b>. προσαρτάω.`

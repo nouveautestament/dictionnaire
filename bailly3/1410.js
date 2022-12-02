@@ -1,0 +1,1 @@
+lar[1410]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans jugement, sans réflexion, ES. <i>223 Halm</i>.`

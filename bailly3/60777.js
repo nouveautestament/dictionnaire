@@ -1,0 +1,1 @@
+lar[60777]=`<b>α, ον</b> <font color="purple">[ῠ]</font> qui concerne l’enflure du style, ampoulé, boursouflé, CALL. <i>fr. 319</i>.<p><b>Étym</b>. λήκυθος.`

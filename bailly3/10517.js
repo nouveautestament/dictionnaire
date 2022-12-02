@@ -1,0 +1,1 @@
+lar[10517]=`<b>ἀντι·τορέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -ήσω, <i>ao</i>. ἀντετόρησα)</font> percer droit, <i>gén</i>. IL. <i>5, 337 ; acc</i>. HH. <i>Merc. 178 ; p. suite,</i> forcer (un palais) <i>acc</i>. IL. <i>10, 267</i>.`

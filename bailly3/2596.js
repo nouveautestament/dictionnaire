@@ -1,0 +1,1 @@
+lar[2596]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> sujet aux hémorrhagies, HPC. <i>79b</i>.`

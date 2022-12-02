@@ -1,0 +1,1 @@
+lar[101184]=`<b>τυφλο·πλάστης, ου (ὁ)</b> qui forge (<i>litt</i>. qui façonne) des chimères, charlatan, PHIL. <i>2, 345</i>.<p><b>Étym</b>. τυφλός, πλάσσω.`

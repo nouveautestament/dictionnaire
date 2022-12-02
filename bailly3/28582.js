@@ -1,0 +1,1 @@
+lar[28582]=`<font color="purple">[ῑ]</font> <i>adv</i>., avec difficulté pour se mouvoir, pesamment, PLAT. <i>Rsp. 503d</i>.`

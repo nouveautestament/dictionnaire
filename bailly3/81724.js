@@ -1,0 +1,1 @@
+lar[81724]=`<b>πολυ·αρκής, ής, ές</b>, qui suffit amplement, <i>d’où</i> riche, abondant, HDT. <i>4, 53</i> ; DH. <i>1, 36</i> ; τὸ π. LUC. <i>Nec. 15,</i> abondance durable.<p>•<i> Sup</i>. -έστατος, HDT. <i>l. c.</i> ; PLUT. <i>Alex. 26</i>.<p><b>Étym</b>. π. ἀρκέω.`

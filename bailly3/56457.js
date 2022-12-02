@@ -1,0 +1,1 @@
+lar[56457]=`<b>ου (τὸ) :<br>      1</b> lieu pour dormir, dortoir, DOSIAD. (ATH. <i>143c</i>).<br><b>      2</b> cimetière, CHRYS. <i>5, 563</i>.<p><b>Étym</b>. κοιμάω.`

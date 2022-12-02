@@ -1,0 +1,1 @@
+lar[34949]=`<b>ἐν·σπέρματος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἔνσπερμος PHÆNIAS (ATH. <i>406c</i>).`

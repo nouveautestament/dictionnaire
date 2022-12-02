@@ -1,0 +1,1 @@
+lar[37577]=`<b>ἐπι·δημηγορέω-ῶ</b>, parler contre qqn devant le peuple, APP. <i>Civ. 1, 96</i>.`

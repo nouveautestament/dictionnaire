@@ -1,0 +1,1 @@
+lar[81395]=`<b>ποικιλο·εργός, ός, όν</b> <font color="purple">[ῐ]</font> aux travaux de couleurs variées, P. SIL. <i>Ecphr. amb. 293, etc</i>.<p><b>Étym</b>. π. ἔργον.`

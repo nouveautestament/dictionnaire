@@ -1,0 +1,1 @@
+lar[39325]=`<b>ἐπι·ταλάριος, ου</b> <font color="purple">[ᾰᾰ]</font> <i>adj. f.</i> : ἐ. Ἀφροδίτη, PLUT. <i>M. 323a</i>, Aphrodite <i>ou</i> Vénus à la corbeille, <i>à Rome</i>.<p><b>Étym</b>. ἐπί, τάλαρος.`

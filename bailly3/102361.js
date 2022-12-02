@@ -1,0 +1,1 @@
+lar[102361]=`<i>adv</i>., d’une manière excessive, exagérée, POL. <i>2, 62, 9 ; 5, 22, 2</i> ; PLUT. <i>M. 668b</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>7, 12, 8</i>.`

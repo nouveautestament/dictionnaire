@@ -1,0 +1,1 @@
+lar[41477]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> vérité, réalité, <i>d’où</i> vraie signification, sens étymologique d’un mot, STR. <i>248, etc</i>. PLUT. <i>M. 638e</i>.<p><b>Étym</b>. ἔτυμος.`

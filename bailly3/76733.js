@@ -1,0 +1,1 @@
+lar[76733]=`<b>παρ·εξέλεγχος, ου (ὁ)</b> réfutation fausse, ARSTT. <i>Soph. el. 17, 12</i>.<p><b>Étym</b>. παρεξελέγχω.`

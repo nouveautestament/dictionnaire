@@ -1,0 +1,1 @@
+lar[109028]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> action de professer la religion chrétienne, christianisme, CLÉM. <i>829</i> ; BAS. <i>p. 78</i>.<p><b>Étym</b>. χριστιανίζω.`

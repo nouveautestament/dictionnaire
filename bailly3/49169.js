@@ -1,0 +1,1 @@
+lar[49169]=`<b>α (ὁ)</b> Juda, <i>n. hébreu,</i> NT. <i>Matth. 1, 2, etc</i>.`

@@ -1,0 +1,1 @@
+lar[60438]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. λεπτότης, ANTH. <i>11, 110</i>.`

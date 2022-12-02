@@ -1,0 +1,1 @@
+lar[25156]=`<b>ή, όν</b>, sur qui <i>ou</i> sur quoi s’exerce la pensée, ARSTT. <i>Metaph. 3, 7, 3 ; 4, 15, 8</i>.<p><b>Étym</b>. <i>vb. de</i> διανοέομαι.`

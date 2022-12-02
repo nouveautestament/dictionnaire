@@ -1,0 +1,1 @@
+lar[33927]=`<b>ἐν·αποβάπτω</b>, plonger complètement dans, <i>dat</i>. HPC. <i>V.C. 912</i>.`

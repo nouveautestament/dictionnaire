@@ -1,0 +1,1 @@
+lar[62960]=`<b>ου (ὁ)</b> = <i>lat</i>. Marcellīnus, <i>n. d’h. rom</i>. PLUT. <i>Crass. 15, Pomp. 13, etc</i>.`

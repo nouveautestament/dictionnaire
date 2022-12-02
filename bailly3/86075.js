@@ -1,0 +1,1 @@
+lar[86075]=`<b>ος, ον</b>, acquis en outre, HDN <i>1, 5, 13</i>.<p><b>Étym</b>. <i>vb. de</i> προσκτάομαι.`

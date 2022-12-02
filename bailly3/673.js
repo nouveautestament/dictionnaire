@@ -1,0 +1,1 @@
+lar[673]=`<b>ἀγκυρο·βολέω-ῶ</b> <font color="purple">[ῡ]</font> jeter l’ancre, <i>d’où</i> fixer solidement, HPC. <i>279, 53</i>.<p><b>Étym</b>. ἄγκυρα, -βολος <i>de</i> βάλλω.`

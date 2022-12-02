@@ -1,0 +1,1 @@
+lar[106458]=`<b>έων (οἱ)</b> Phlyées, <i>dème att. de la tribu Cécropide, postér. de la tribu Ptolémaïde,</i> PAUS. <i>1, 31, 4, etc</i>.`

@@ -1,0 +1,1 @@
+lar[56428]=`<b>κοιλο·κρόταφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a les tempes creuses, ARÉT. <i>Caus. m. diut. 2, 7</i>.<p><b>Étym</b>. κοῖλος, κρόταφος.`

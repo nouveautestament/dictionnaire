@@ -1,0 +1,1 @@
+lar[48164]=`(<i>genre inconnu</i>) Thôüth, <i>mois égyptien correspondant au mois de septembre,</i> PLUT. <i>Rom. 12</i>.`

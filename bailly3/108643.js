@@ -1,0 +1,1 @@
+lar[108643]=`<b>α, ον</b>, couvert de duvet, ANACR. <i>10, 28</i>.<p><b>Étym</b>. χνόος.`

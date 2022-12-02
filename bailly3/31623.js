@@ -1,0 +1,1 @@
+lar[31623]=`<b>ἐκ·λούω</b>, laver, POL. <i>3, 88, 1</i>.<br><b><i>Moy.</i></b> se laver, se baigner, HPC. <i>686, 15</i> ; TH. <i>H.P. 9, 17, 3 ; d’où</i> se purifier (par des bains) ESCHL. <i>fr. 28</i>.`

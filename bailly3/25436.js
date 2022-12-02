@@ -1,0 +1,1 @@
+lar[25436]=`<i>adv</i>., suffisamment, JOS. <i>p. 646, 22</i>.<p><b>Étym</b>. διαρκέω.`

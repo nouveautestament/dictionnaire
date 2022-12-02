@@ -1,0 +1,1 @@
+lar[54102]=`<b>κάτ·οικος, ου (ὁ, ἡ)</b> habitant, habitante, ARSTT. <i>Œc. 2, 33</i> ; POL. <i>5, 65, 10, etc</i>.<p><b>Étym</b>. κ. οἶκος.`

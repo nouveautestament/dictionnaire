@@ -1,0 +1,1 @@
+lar[92305]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> du dème Steiria (<i>v</i>. Στειριεύς) PLAT. <i>Hipparch. 229a</i>.`

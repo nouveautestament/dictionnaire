@@ -1,0 +1,1 @@
+lar[50771]=`<b>κακο·μαχέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> combattre d’une manière déloyale <i>ou</i> lâchement, PLUT. <i>M. 32b ;</i> LUC. <i>Demon. 49</i>.<p><b>Étym</b>. κ. μάχη.`

@@ -1,0 +1,1 @@
+lar[103815]=`<b>ὑπο·σιγάω-ῶ</b> <font color="purple">[ῑ]</font> garder le silence après les paroles d’un autre, ne rien répondre, ESCHN. <i>50, 2</i>.`

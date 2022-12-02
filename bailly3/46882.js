@@ -1,0 +1,1 @@
+lar[46882]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. qui soigne, PLAT. <i>Menex. 244e</i>.<p><b>Étym</b>. θέραψ.`

@@ -1,0 +1,1 @@
+lar[81283]=`<b>ου (τὸ)</b> petit pied, EPICH. (ATH. <i>105b</i>).<p><b>Étym</b>. <i>dim. de</i> πούς.`

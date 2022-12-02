@@ -1,0 +1,1 @@
+lar[37961]=`<b>ἐπι·καταψήχω</b>, caresser ensuite, <i>fig</i>. APP. <i>Civ. 2, 145</i>.`

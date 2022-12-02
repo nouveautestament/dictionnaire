@@ -1,0 +1,1 @@
+lar[20758]=`<b>ου (ὁ) :<br>      1</b> sorte d’oiseau aquatique, ARSTT. <i>H.A. 9, 1, 16</i>.<br><b>      2</b> <i>du n. de cet oiseau pris comme synon. d’orgueil,</i> orgueil, arrogance, ATH. <i>611e ; pour ce rapport d’idées, cf</i>. σκώψ <i>et</i> σκώπτω.`

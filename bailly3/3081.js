@@ -1,0 +1,1 @@
+lar[3081]=`<font color="purple">[κᾰ]</font> <i>adv</i>., sans être caché, sans être voilé, SPT. <i>3Macc. 4, 6</i>.`

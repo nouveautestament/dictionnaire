@@ -1,0 +1,1 @@
+lar[15275]=`<b>εος, εϊ, εα (ὁ)</b> <i>var. de</i> Ἀρταφέρνης ESCHL. <i>Pers. 21, 776</i> ; HDT. <i>5, 25, etc</i>.<p><b>Étym</b>. <i>persan</i> Artaphrana.`

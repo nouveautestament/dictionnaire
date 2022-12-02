@@ -1,0 +1,1 @@
+lar[7373]=`<b>ἀνα·πιδύω</b> (<i>seul. prés. et impf</i>. ἀνεπίδυον) <font color="purple">[ῑ]</font><br><b>      1</b> sourdre, croître, pousser, TH. <i>C.P. 6, 4, 1</i>.<br><b>      2</b> faire sourdre, PLUT. <i>Æmil. 14</i>.`

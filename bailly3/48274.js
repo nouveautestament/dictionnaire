@@ -1,0 +1,1 @@
+lar[48274]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Iasios :<br><b>      1</b> <i>père d’Atalante,</i> CALL. <i>Dian. 216</i>.<br><b>      2</b> <i>Crétois, le même que</i> Ἰασίων, HÉS. <i>Th. 970</i>.`

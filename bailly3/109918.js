@@ -1,0 +1,1 @@
+lar[109918]=`<b>ῆρος (ὁ) :<br>      1</b> vase pour rafraîchir le vin, EUR. <i>fr. 726</i> ; PLAT. <i>Conv. 213e, etc.</i> ; CALLIX. (ATH. <i>199d, etc</i>.) ; le lait, PHILSTR. <i>809 ; ou</i> les parfums, PLUT. <i>M. 149b.</i><br><b>      2</b> <i>au plur</i>. lieux frais et ombragés, NIC. (ATH. <i>503a</i>).<p><b>Étym</b>. ψύχω.`

@@ -1,0 +1,1 @@
+lar[41917]=`<b>ας (ἡ)</b> <font color="purple">[κῐ]</font> considération, honneur, gloire, PLAT. <i>Phil. 58d</i>.<p><b>Étym</b>. εὐδόκιμος.`

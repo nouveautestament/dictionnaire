@@ -1,0 +1,1 @@
+lar[93549]=`<b>συγ·κτάομαι-ῶμαι</b>, acquérir en commun, THC. <i>6, 69 ; 7, 57</i> ; ARSTT. <i>Pol. 5, 17, 9</i>.`

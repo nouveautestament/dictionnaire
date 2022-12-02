@@ -1,0 +1,1 @@
+lar[76029]=`<b>παρ·απατάω-ῶ</b> <font color="purple">[ᾰπᾰ]</font> induire en erreur, ESCHL. <i>Eum. 728</i>.`

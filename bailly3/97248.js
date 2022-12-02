@@ -1,0 +1,1 @@
+lar[97248]=`<b>Σωσι·γένης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Sosigénès, <i>h</i>. PLUT. <i>Demetr. 49,</i>.<p>➳ <i>Acc</i>. -ην, DH. <i>Din. 8, etc. ; ou</i> -η, POL. <i>28, 7, etc</i>.<p><b>Étym</b>. σῴζω, γένος.`

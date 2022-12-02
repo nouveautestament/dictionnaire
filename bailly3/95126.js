@@ -1,0 +1,1 @@
+lar[95126]=`<b>συν·διαμνημονεύω</b>, rappeler avec <i>ou</i> en même temps le souvenir de, <i>acc</i>. ESCHN. <i>3, 25</i> ; DÉM. <i>347, 3</i>.`

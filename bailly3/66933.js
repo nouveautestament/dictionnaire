@@ -1,0 +1,1 @@
+lar[66933]=`<b>μουσόω-ῶ :<br>      1</b> instruire selon les règles de l’art, <i>d’où au pass</i>. être exercé avec art, AR. <i>Lys. 1127</i> ; EL. <i>N.A. 16, 3</i> ; μεμουσωμένος, PLUT. <i>Per. 5 ; M. 1121f</i>, instruit, d’un goût délicat.<br><b>      2</b> mettre en musique, DH. <i>6, p. 1078, 2 Reiske</i>.<p><b>Étym</b>. μοῦσα.`

@@ -1,0 +1,1 @@
+lar[74535]=`<b>παλίμ·πλοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> qui navigue en arrière, EL. <i>N.A. 3, 14</i>.<p><b>Étym</b>. π. πλέω.`

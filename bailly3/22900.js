@@ -1,0 +1,1 @@
+lar[22900]=`<b>(ὁ)</b> Gôsithrès, <i>Perse,</i> LUC. <i>Macr. 15</i>.`

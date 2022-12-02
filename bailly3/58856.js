@@ -1,0 +1,1 @@
+lar[58856]=`<b>α, ον :<br>      1</b> plus impudent (<i>litt</i>. plus chien) <i>touj. au neutre dans Hom</i>. IL. <i>8, 483</i> ; OD. <i>7, 216 ; 11, 427 ; postér. au masc</i>. ANON. (SUID. <i>v°</i> Διονυσίων).<br><b>      2</b> <i>p. suite,</i> pire, plus terrible, OD. <i>20, 18 (au neutre).</i><p><b>Étym</b>. <i>cp. de</i> κυν- <i>radic. de</i> κύων ; <i>cf</i>. κύντατος.`

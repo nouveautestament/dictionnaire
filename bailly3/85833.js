@@ -1,0 +1,1 @@
+lar[85833]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> séjour d’un étranger établi dans un pays, AQU. <i>Gen. 47, 9</i>.<p><b>Étym</b>. προσηλυτεύω.`

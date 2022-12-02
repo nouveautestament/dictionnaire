@@ -1,0 +1,1 @@
+lar[106858]=`<b>φρενο·πληγής, ής, ές</b>, qui frappe l’esprit, ESCHL. <i>Pr. 879</i>.<p><b>Étym</b>. φρ. πλήσσω.`

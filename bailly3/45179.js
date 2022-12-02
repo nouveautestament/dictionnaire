@@ -1,0 +1,1 @@
+lar[45179]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vainement, follement, A.RH. <i>4, 1206</i> ; CALL. <i>Cer. 91</i>.`

@@ -1,0 +1,1 @@
+lar[99216]=`<b>ος, ον</b> <font color="purple">[τῑ]</font> honoré <i>ou</i> honorable, EL. <i>N.A. 11, 7</i>.<p><b>Étym</b>. τιμάω.`

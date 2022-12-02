@@ -1,0 +1,1 @@
+lar[100550]=`<b>τριτο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐᾱ]</font> <i>litt</i>. « qui marche lui troisième, » <i>càd</i>. qui fait office de troisième pied, <i>en parl. d’un bâton,</i> EUR. <i>Tr. 276</i>.<p><b>Étym</b>. τρίτος, βαίνω.`

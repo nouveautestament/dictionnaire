@@ -1,0 +1,1 @@
+lar[29835]=`<b>ἐγρε·μάχη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐγρεμάχας, <i>épith. de Pallas,</i> HH. <i>Cer. 424</i>.`

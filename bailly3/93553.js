@@ -1,0 +1,1 @@
+lar[93553]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> fondation en commun, NICOM. <i>Arithm. 1, 3, p. 71</i>.<p><b>Étym</b>. συγκτίζω.`

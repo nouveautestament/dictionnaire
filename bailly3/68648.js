@@ -1,0 +1,1 @@
+lar[68648]=`<i>att</i>. <b>νηττάριον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit canard, <i>t. d’amitié,</i> AR. <i>Pl. 1011</i>.<p><b>Étym</b>. νῆσσα.`

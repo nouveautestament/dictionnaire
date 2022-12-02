@@ -1,0 +1,1 @@
+lar[15226]=`<b>α (ὁ)</b> Arsikas, <i>ancien n. d’Artaxerxès,</i> PLUT. <i>Artax. 1</i>.`

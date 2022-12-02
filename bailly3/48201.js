@@ -1,0 +1,1 @@
+lar[48201]=`<b>*ἰαλεμίστρια</b>, <i>ion</i>. <b>ἰηλεμίστρια, ας (ἡ)</b> <font color="purple">[ᾱ]</font> pleureuse, ESCHL. <i>Ch. 424 conj</i>.<p><b>Étym</b>. ἰαλεμίζω.`

@@ -1,0 +1,1 @@
+lar[67842]=`<b>Ναυ·φάντη, ης (ἡ)</b> Nauphantè, <i>n. de navire,</i> AR. <i>Eq. 1309</i>.<p><b>Étym</b>. ν. φαίνω.`

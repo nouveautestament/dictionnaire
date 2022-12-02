@@ -1,0 +1,1 @@
+lar[91218]=`<font color="purple">[ῑ]</font> <i>adv</i>., avec vertige, ARÉT.`

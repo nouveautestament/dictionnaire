@@ -1,0 +1,1 @@
+lar[54390]=`<b>καχρυο·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui porte des bourgeons (pin, <i>etc</i>.) TH. <i>H.P. 3, 5, 6</i>.<p><b>Étym</b>. κάχρυς, φέρω, <i>cf</i>. καχρυφόρος.`

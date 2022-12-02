@@ -1,0 +1,1 @@
+lar[83613]=`<b>προ·απαλείφω</b> <font color="purple">[ᾰλ]</font> effacer auparavant, DC. <i>43, 21</i>.`

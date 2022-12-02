@@ -1,0 +1,1 @@
+lar[33379]=`<b>ἐμπειρέω-ῶ</b>, avoir l’expérience de, connaître par expérience, <i>gén</i>. POL. <i>3, 78, 6 ; 8, 17, 4</i> ; SPT. <i>Tob. 5, 6</i>.<p><b>Étym</b>. ἔμπειρος.`

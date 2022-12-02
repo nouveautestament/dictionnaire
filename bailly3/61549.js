@@ -1,0 +1,1 @@
+lar[61549]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> λόγχη, LYCOPHRONID. (ATH. <i>670e</i>).`

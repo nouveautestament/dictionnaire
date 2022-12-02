@@ -1,0 +1,1 @@
+lar[35160]=`<b>ἐν·τυραννέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> vivre sous un tyran, CIC. <i>Att. 2, 14, 1</i>.`

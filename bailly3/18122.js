@@ -1,0 +1,1 @@
+lar[18122]=`<b>ἀ·φιλοχρήματος, ος, ον</b> <font color="purple">[ῐμᾰ]</font> dédaigneux <i>ou</i> indifférent pour les richesses, EUN. <i>44</i> ; PHIL. <i>2, 458</i>.`

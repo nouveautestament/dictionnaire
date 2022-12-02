@@ -1,0 +1,1 @@
+lar[29833]=`<b>ἐγρε·κύδοιμος, ος, ον</b> <font color="purple">[ῡ]</font> qui excite au tumulte (des combats), <i>ép. de Pallas,</i> HÉS. <i>Th. 925 ; d’une bacchante,</i> NONN. <i>D. 35, 95 ; de la flûte,</i> NONN. <i>D. 34, 140, etc</i>.<p><b>Étym</b>. ἐγείρω, κυδοιμός.`

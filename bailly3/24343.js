@@ -1,0 +1,1 @@
+lar[24343]=`<b>ου (ὁ)</b> Dèmylos, <i>h</i>. PLUT. <i>M. 1051d ;</i> ATH. EL.`

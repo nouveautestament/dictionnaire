@@ -1,0 +1,1 @@
+lar[88043]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Pyronidès, <i>n. d’h. fictif,</i> LUC. <i>V.H. 1, 20</i>.<p><b>Étym</b>. <i>patr. de</i> Πύρων.`

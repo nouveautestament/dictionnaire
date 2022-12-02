@@ -1,0 +1,1 @@
+lar[95588]=`<b>συν·επεκπίνω</b> <font color="darkgreen">(<i>ao.2 poét</i>. συνεπέκπιον)</font> absorber <i>ou</i> vider ensemble, ANTH. <i>6, 292</i>.`

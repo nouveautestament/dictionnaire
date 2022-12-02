@@ -1,0 +1,1 @@
+lar[21577]=`<b>ων (τὰ) :<br>      1</b> marchandises sans valeur, bagatelles, EUP. (POLL. <i>9, 47</i>).<br><b>      2</b> marché aux chiffons, aux objets de rebut, LUC. <i>Lex. 3</i>.`

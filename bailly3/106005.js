@@ -1,0 +1,1 @@
+lar[106005]=`<b>φίλ·οπλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les armes, ANTH. <i>11, 195</i> ; PHALAR. <i>Ep. 68, etc</i>.<p><b>Étym</b>. φ. ὅπλον.`

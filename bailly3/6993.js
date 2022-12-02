@@ -1,0 +1,1 @@
+lar[6993]=`<b>εως (ἡ)</b> <font color="purple">[φῐ]</font> allègement, SOPH. <i>O.R. 218</i>.`

@@ -1,0 +1,1 @@
+lar[54519]=`<b>α (ὁ)</b> = <i>lat</i>. Cæcina, <i>n. d’h. rom</i>. PLUT. <i>Oth. 5, etc</i>.`

@@ -1,0 +1,1 @@
+lar[109261]=`<b>χρυσό·σπερμον, ου (τὸ)</b> <font color="purple">[ῡ]</font> vermiculaire jaune (<i>d’ord</i>. ἀείζῳον), <i>plante,</i> DIOSC. <i>4, 89</i>.<p><b>Étym</b>. χρ. σπέρμα.`

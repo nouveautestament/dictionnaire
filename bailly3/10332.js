@@ -1,0 +1,1 @@
+lar[10332]=`<b>ἀντι·προπίνω :<br>      1</b> boire à son tour à la santé de, ATH. <i>669e.</i><br><b>      2</b> <i>p. ext</i>. offrir en retour, DIONYS. EL. <i>1, 4 Bgk</i>.<p>➳ <i>Impf</i>. ἀντιπρούπινον, JOS. <i>B.J. 5, 10, 4</i>.`

@@ -1,0 +1,1 @@
+lar[22005]=`<b>ος, ον</b>, semblable à la flûte γίγγρας, ATH. <i>174f</i>.`

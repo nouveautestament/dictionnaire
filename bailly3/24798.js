@@ -1,0 +1,1 @@
+lar[24798]=`<b>δι·ακολουθέω-ῶ</b> <font color="purple">[ᾰ]</font> suivre jusqu’au bout <i>ou</i> pas à pas, SEXT. <i>M. 7, 275</i>.`

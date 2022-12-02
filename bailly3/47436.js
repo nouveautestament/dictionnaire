@@ -1,0 +1,1 @@
+lar[47436]=`<b>ος, ον</b>, mort de maladie, DL. <i>8, 33</i> ; τὸ θνησείδιον, ου, EL. <i>N.A. 6, 2</i> ; PHILSTR. <i>241, 333,</i> bête morte, crevée.<p><b>Étym</b>. θνητός, <i>cf</i>. θνησιμαῖος.`

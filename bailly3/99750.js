@@ -1,0 +1,1 @@
+lar[99750]=`<b>ου (ὁ)</b> = <i>lat</i>. Tullus, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 7</i>.`

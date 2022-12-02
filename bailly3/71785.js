@@ -1,0 +1,1 @@
+lar[71785]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> de verjus, ORIB. <i>p. 57 Matthäi</i>.<p><b>Étym</b>. ὄμφαξ.`

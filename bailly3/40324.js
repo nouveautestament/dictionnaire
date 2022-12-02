@@ -1,0 +1,1 @@
+lar[40324]=`<b>ἐρευγό·βιος, ος, ον</b> <font color="purple">[ῐ]</font> qui mène une vie crapuleuse <i>ou</i> de débauche, NAZ. EPIGR. <i>172</i>.<p><b>Étym</b>. ἐρεύγομαι, βίος.`

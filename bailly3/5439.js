@@ -1,0 +1,1 @@
+lar[5439]=`<i>adv</i>., sans soin, avec négligence, THC. <i>6, 100</i> ; ἀ. ἔχειν τινός, PLAT. <i>Leg. 932a, ou</i> περί τινα, XÉN. <i>Cyr. 1, 2, 7,</i> négliger qqn ; πρός τι, XÉN. <i>Œc. 2, 7,</i> négliger qqe ch.<p>•<i> Cp</i>. ἀμελέστερον, THC. <i>2, 11</i> ; XÉN. <i>Hell. 4, 8, 36</i> ; PLAT. <i>Leg. 932 a ; ou</i> ἀμελεστέρως, A. TR. <i>5, p. 78</i>.<p><b>Étym</b>. ἀμελής.`

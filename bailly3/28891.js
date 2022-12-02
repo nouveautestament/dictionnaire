@@ -1,0 +1,1 @@
+lar[28891]=`<i>adv</i>., avec impiété, EUR. <i>fr. 822</i> ; CLÉM. <i>Adm. p. 24</i>.<p>➳ <i>Ion</i>. δυσσεβέως, SIB. <i>p. 188</i>.<p><b>Étym</b>. δυσσεβής.`

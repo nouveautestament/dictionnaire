@@ -1,0 +1,1 @@
+lar[20253]=`<b>εως</b>, <i>épq</i>. <b>ιος (ἡ)</b> pâture, nourriture (pour les animaux), IL. <i>19, 268</i> ; Q. SM. <i>1, 329</i>.<p><b>Étym</b>. βόσκω.`

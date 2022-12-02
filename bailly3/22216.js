@@ -1,0 +1,1 @@
+lar[22216]=`<b>γλωσσ·αργία</b>, <i>att</i>. <b>γλωττ·αργία, ας (ἡ)</b> inaction de la langue, <i>d’où</i> silence, taciturnité, LUC. <i>Lex. 19</i>.<p><b>Étym</b>. γλῶσσα, ἀργός.`

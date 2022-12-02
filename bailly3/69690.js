@@ -1,0 +1,1 @@
+lar[69690]=`<b>ξυλο·φθόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui ronge le bois, ARSTT. <i>H.A. 5, 32, 3</i>.<p><b>Étym</b>. ξ. φθείρω.`

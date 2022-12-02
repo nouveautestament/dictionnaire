@@ -1,0 +1,1 @@
+lar[95344]=`<b>συν·εκθερμαίνω</b>, réchauffer ensemble <i>ou</i> en même temps, GAL. <i>7, 146 ; fig</i>. PLUT. <i>Pomp. 8</i>.`

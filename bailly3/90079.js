@@ -1,0 +1,1 @@
+lar[90079]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> sibylle, prophétesse, AR. <i>Pax 1095, 1116</i> ; PLAT. <i>Phædr. 244b, etc</i>.<p>➳ <i>Dans une inscr. att</i>. σίβιλλα (<i>non</i> σίβυλλα) CIA. <i>2, 835, c-l, 54 (320/317 av. J.-C.) ; v. Meisterh. p. 24, § 13, 10</i>.<p><b>Étym</b>. <i>cf</i>. σοφός, <i>lat</i>. sapiens.`

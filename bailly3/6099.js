@@ -1,0 +1,1 @@
+lar[6099]=`<b>ἀμφι·δέρκομαι</b> <font color="darkgreen">(<i>seul. ao. pass</i>. -δερχθῶ)</font> regarder tout autour, ANTH. <i>15, 22</i>.`

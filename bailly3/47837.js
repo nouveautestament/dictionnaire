@@ -1,0 +1,1 @@
+lar[47837]=`<b>*Θυῖα</b>, <i>ion</i>. <b>Θυίη, ης (ἡ)</b> Thyia, <i>fille de Képhissos,</i> HDT. <i>7, 178</i>.`

@@ -1,0 +1,1 @@
+lar[89485]=`<b>ου (ὁ)</b> Saros (<i>auj</i>. Seyhan) <i>fl. de Cilicie,</i> EL. <i>N.A. 12, 29</i>.`

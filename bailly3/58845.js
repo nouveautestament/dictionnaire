@@ -1,0 +1,1 @@
+lar[58845]=`<b>κύν·ουρα, ων (τὰ)</b> <font color="purple">[ῠ]</font> récifs <i>ou</i> falaises, LYC. <i>99</i>.<p><b>Étym</b>. κ. οὐρά ; <i>cf</i>. Κυνόσουρα 2.`

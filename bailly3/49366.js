@@ -1,0 +1,1 @@
+lar[49366]=`<b>ἱπποκροτέομαι-οῦμαι</b>, retentir du bruit des chevaux, SYN. <i>265b</i>.<p><b>Étym</b>. ἱππόκροτος.`

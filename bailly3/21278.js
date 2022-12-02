@@ -1,0 +1,1 @@
+lar[21278]=`<b>ου (τὸ)</b> gaillet jaune, <i>plante,</i> DIOSC. <i>4, 96</i>.`

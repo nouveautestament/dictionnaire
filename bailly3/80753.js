@@ -1,0 +1,1 @@
+lar[80753]=`<b>πλατυ·κορίη, ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> dilatation de la pupille au point de fermer l’œil, ARÉT. <i>Caus. m. diut. 1, 7</i>.<p><b>Étym</b>. πλ. κόρη.`

@@ -1,0 +1,1 @@
+lar[109680]=`<b>ψευδό·δοξος, ος, ον</b>, qui se fait une fausse opinion de qqe ch. GAL. <i>19, 484</i>.<p><b>Étym</b>. ψ. δόξα.`

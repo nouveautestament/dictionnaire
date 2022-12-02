@@ -1,0 +1,1 @@
+lar[22457]=`<b>γονυ·αλγής, ής, ές</b>, qui souffre aux genoux, HPC. <i>1180d</i>.<p><b>Étym</b>. γόνυ, ἄλγος.`

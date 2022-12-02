@@ -1,0 +1,1 @@
+lar[39439]=`<b>ἐπι·τίννυμι</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐπιτίω, PHIL. <i>2, 285</i>.`

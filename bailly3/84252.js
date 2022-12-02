@@ -1,0 +1,1 @@
+lar[84252]=`<b>προ·επιτίθημι</b> <font color="purple">[τῐ]</font> placer d’avance <i>ou</i> auparavant sur, PHIL. <i>2, 120</i>.`

@@ -1,0 +1,1 @@
+lar[38047]=`<b>ἐπι·κλείω</b>, fermer, AR. <i>Pax 101 ; au pass</i>. XÉN. <i>Eq. 12, 6</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. LUC. <i>Tox. 50</i>.<p>➳ <i>Épq</i>. ἐπικληΐω, <i>d’où ao. 3 sg</i>. ἐπεκλήϊσε, TRIPHIOD. <i>200</i>.`

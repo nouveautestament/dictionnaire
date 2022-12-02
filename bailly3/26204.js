@@ -1,0 +1,1 @@
+lar[26204]=`<b>δι·εξαιρέω-ῶ</b> (<i>fut</i>. -ήσει) retrancher, enlever, D. PHAL. <i>323</i>.`

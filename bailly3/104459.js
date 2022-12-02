@@ -1,0 +1,1 @@
+lar[104459]=`<b>ὑψηλο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>au</i> <i>• Sup</i>. -έστατος, qui a l’air sublime, LGN <i>24, 1</i>.<p><b>Étym</b>. ὑ. φαίνω.`

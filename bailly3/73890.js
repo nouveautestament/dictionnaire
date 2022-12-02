@@ -1,0 +1,1 @@
+lar[73890]=`<b>ου (τὸ) :<br>      1</b> étalon, ARSTT. <i>H.A. 6, 18</i> ; PLUT. <i>Lyc. 15, M. 98c ; particul</i>. coq, ARSTT. <i>G.A. 1, 21, 10</i>.<br><b>      2</b> lieu où l’on entretient les étalons, LYCURG. (HARP.).<p><b>Étym</b>. ὀχεύω.`

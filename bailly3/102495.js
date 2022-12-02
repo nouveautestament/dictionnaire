@@ -1,0 +1,1 @@
+lar[102495]=`<b>ὑπερ·ήκω</b>, venir au-dessus, dépasser, <i>acc</i>. GAL. <i>2, 461</i>.`

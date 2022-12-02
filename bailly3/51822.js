@@ -1,0 +1,1 @@
+lar[51822]=`<b>ου (ὁ)</b> Karkinos :<br><b>      1</b> <i>poète tragique,</i> AR. <i>Nub. 1261, etc.</i><br><b>      2</b> <i>autres,</i> THC. <i>2, 23, etc</i>.<p><b>Étym</b>. <i>v</i>. καρκίνος.`

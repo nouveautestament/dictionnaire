@@ -1,0 +1,1 @@
+lar[88636]=`<b>ή, όν</b>, qui s’agite <i>ou</i> s’inquiète facilement, M. ANT. <i>1, 16</i>.<p><b>Étym</b>. ῥιπτάζω.`

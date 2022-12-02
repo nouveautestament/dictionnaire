@@ -1,0 +1,1 @@
+lar[98671]=`<b>ας (ἡ)</b> tétrarchie :<br><b>      1</b> <i>l’un des quatre gouvernements d’une province ou charge et autorité d’un gouverneur de trétarchie,</i> EUR. <i>Alc. 1154</i> ; DÉM. <i>117, 26</i> ; PLUT. <i>Ant. 36, 56</i>.<br><b>      2</b> τ. ἱππική, ARR. <i>An. 3, 18</i> ; ARR. <i>Tact. 10, 2,</i> réunion de quatre compagnies de cavalerie.<p><b>Étym</b>. τετράρχης.`

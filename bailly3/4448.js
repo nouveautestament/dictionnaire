@@ -1,0 +1,1 @@
+lar[4448]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de pêche <i>ou</i> de pêcheur, XÉN. <i>An. 7, 1, 20</i> ; ARSTT. <i>P.A. 4, 12, 11</i> ; ἡ ἁλιευτικὴ τέχνη, PLAT. <i>Ion 538d, ou simpl</i>. ἡ ἁλ. PLAT. <i>Soph. 220b</i>, la pêche ; τὰ ἁλιευτικά, les Halieutiques <i>ou</i> Traité de la pêche, <i>poème d’Oppien</i>.<p><b>Étym</b>. ἁλιεύω.`

@@ -1,0 +1,1 @@
+lar[13280]=`<b>ἀπο·σεμνύνω</b>, rendre imposant, glorifier, PLAT. <i>Theæt. 168d ;</i> LUC. <i>J. tr. 6, etc.</i><br><b><i>Moy.</i></b> avoir l’air grave, AR. <i>Ran. 703</i> ; se glorifier, ARSTD. <i>t. 1, 214</i>.`

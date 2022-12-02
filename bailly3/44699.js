@@ -1,0 +1,1 @@
+lar[44699]=`<b>ζῳδιο·γλύφος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui sculpte des figurines d’animaux, PLUT. <i>M. 712e</i>.<p><b>Étym</b>. ζῴδιον, γλύφω.`

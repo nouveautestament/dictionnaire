@@ -1,0 +1,1 @@
+lar[52330]=`<b>κατα·δίκη, ης (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> condamnation, EPICH. (ATH. <i>36d</i>) ; POL. <i>26, 5, 1</i> ; PLUT. <i>Cor. 29</i>.<br><b>      2</b> punition, peine, LUC. <i>D. mort. 10 ; particul</i>. amende, THC. <i>5, 49, etc.</i> ; DÉM. <i>1156, 23, etc</i>.<p><b>Étym</b>. κ. δίκη.`

@@ -1,0 +1,1 @@
+lar[43737]=`<b>ας (ἡ)</b> <font color="purple">[ᾰδ]</font> élégance <i>ou</i> justesse de langage, SEXT. <i>M. 1, 98</i>.<p>➳ <i>Ion</i>. εὐφραδίη, ANTH. <i>1, 28</i>.<p><b>Étym</b>. εὐφράδης.`

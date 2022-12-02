@@ -1,0 +1,1 @@
+lar[27118]=`<b>δι·υφή, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> tissu, ARISTÉAS <i>p. 260</i>.<p><b>Étym</b>. διυφαίνω.`

@@ -1,0 +1,1 @@
+lar[90167]=`<b>σιδηρό·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux pieds de fer, NONN. <i>D. 29, 206</i>.<p><b>Étym</b>. σ. πούς.`

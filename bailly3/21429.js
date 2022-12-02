@@ -1,0 +1,1 @@
+lar[21429]=`<b>γαστρο·ειδής, ής, ές</b>, en forme de ventre, PLUT. <i>Per. 26</i>.<p><b>Étym</b>. γ. εἶδος.`

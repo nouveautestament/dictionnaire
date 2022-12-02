@@ -1,0 +1,1 @@
+lar[99629]=`<b>τόπ·αρχος, ου (ἡ)</b> maîtresse d’une maison, ESCHL. <i>Ch. 664, conj. p</i>. *στέγαρχος.<p><b>Étym</b>. <i>cf</i>. τοπάρχης.`

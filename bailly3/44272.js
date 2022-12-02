@@ -1,0 +1,1 @@
+lar[44272]=`<b>ων (αἱ)</b> les Ekhinades, <i>c</i>. Ἐχῖναι HDT. <i>2, 10, etc</i>.`

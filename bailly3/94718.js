@@ -1,0 +1,1 @@
+lar[94718]=`<b>συν·ανακόπτω</b> refouler <i>ou</i> arrêter ensemble, ORIB. <i>p. 10 Mai ; fig</i>. ridiculiser ensemble, DL. <i>2, 127</i>.`

@@ -1,0 +1,1 @@
+lar[79891]=`<b>πετρ·ήρης, ης, ες</b>, de roche <i>ou</i> de pierre, SOPH. <i>Ph. 1262</i>.<p><b>Étym</b>. π. *ἄρω.`

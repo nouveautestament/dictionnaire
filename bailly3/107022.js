@@ -1,0 +1,1 @@
+lar[107022]=`<b>φυγ·αίχμης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui fuit les lances <i>ou</i> les combats, ESCHL. <i>Pers. 1025</i> ; CALL. <i>fr. 117</i>.<p><b>Étym</b>. φεύγω, αἰχμή.`

@@ -1,0 +1,1 @@
+lar[21846]=`<b>γεφυροποιέω-ῶ</b> <font color="purple">[ῡ]</font> construire un pont, POL. <i>3, 64, 1</i>.<p><b>Étym</b>. γεφυροποιός.`

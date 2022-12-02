@@ -1,0 +1,1 @@
+lar[88826]=`<b>ή, όν</b>, propre à avaler, à absorber, <i>gén</i>. STR. <i>703</i>.<p><b>Étym</b>. ῥοφέω.`

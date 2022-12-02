@@ -1,0 +1,1 @@
+lar[2444]=`<b>αἰθερο·νωμάω-ῶ</b>, se diriger dans les espaces célestes, MAN. <i>4, 25</i>.`

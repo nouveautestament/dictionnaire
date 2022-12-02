@@ -1,0 +1,1 @@
+lar[77649]=`<b>οῦ (ὁ)</b> qui fait une expérience, AMMON.Gr. <i>112</i>.<p><b>Étym</b>. πειράζω.`

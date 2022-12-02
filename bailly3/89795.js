@@ -1,0 +1,1 @@
+lar[89795]=`<b>σεμνο·μυθέω-ῶ</b> <font color="purple">[ῡ]</font> <i>c</i>. σεμνολογέω, EUR. <i>Hipp. 490, Andr. 234</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PHIL. <i>1, 233</i>.<p><b>Étym</b>. σεμνός, μῦθος.`

@@ -1,0 +1,1 @@
+lar[100615]=`<b>εως (ἡ)</b> <font color="purple">[ῐχᾱ]</font><br><b>      1</b> maladie des yeux gênés <i>ou</i> enflammés par les cils, GAL.<br><b>      2</b> maladie de l’urine rayée comme des cheveux blancs, GAL.<br><b>      3</b> maladie du sein, <i>chez les nourrices,</i> EROT. <i>4</i>.<br><b>      4</b> <i>c</i>. τριχισμός, P. ÉG. <i>6, 9</i>.<p><b>Étym</b>. τριχιάω.`

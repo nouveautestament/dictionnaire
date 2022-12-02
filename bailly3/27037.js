@@ -1,0 +1,1 @@
+lar[27037]=`<b>δι·σπόνδειος, ος, ον</b>, composé de deux spondées : ὁ δ. HÉPH. <i>3, 3</i> ; HERMOG. <i>3, 231 Walz,</i> double spondée.<p>➳ δισπονδεῖος, A. QUINT. <i>p. 48</i> ; δισπόνδιος, TER.MAUR. <i>1473</i>.<p><b>Étym</b>. δίς, σπονδεῖος.`

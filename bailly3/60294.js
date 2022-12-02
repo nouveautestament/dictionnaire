@@ -1,0 +1,1 @@
+lar[60294]=`<b>ης (ἡ)</b> lentille d’eau, <i>plante de marais,</i> TH. <i>H.P. 4, 10, 1</i>.`

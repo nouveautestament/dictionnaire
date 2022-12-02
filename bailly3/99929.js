@@ -1,0 +1,1 @@
+lar[99929]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de servir sur la table, PLUT. <i>fr. t. 5, p. 530 Wyttenbach</i>.<p><b>Étym</b>. τραπεζόω.`

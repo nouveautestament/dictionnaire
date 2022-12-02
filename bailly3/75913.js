@@ -1,0 +1,1 @@
+lar[75913]=`<b>παρ·αμβλύνω</b>, émousser peu à peu, PLUT. <i>M. 653e, 788e</i>.`

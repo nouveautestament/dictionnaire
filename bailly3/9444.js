@@ -1,0 +1,1 @@
+lar[9444]=`<b>εως (ἡ)</b> destruction mutuelle, ARSTT. <i>Top. 8, 3, 5</i>.<p><b>Étym</b>. ἀνταναιρέω.`

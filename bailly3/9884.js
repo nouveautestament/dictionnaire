@@ -1,0 +1,1 @@
+lar[9884]=`<b>ἀντί·θεος, ος, ον :<br>      1</b> semblable à un dieu (en force, en beauté, <i>etc</i>.) IL. <i>12, 408, etc.</i> ; OD. <i>1, 70, etc. ; en parl. de femmes,</i> OD. <i>11, 117 ; 13, 378</i>.<br><b>      2</b> dieu contraire <i>ou</i> ennemi, HLD. <i>4, 7 dout</i>.<p><b>Étym</b>. ἀ. θεός.`

@@ -1,0 +1,1 @@
+lar[37593]=`<b>ἐπι·διαλάμπω</b>, faire pénétrer une lueur sur <i>ou</i> à travers, TH. <i>H.P. 9, 3, 2</i>.`

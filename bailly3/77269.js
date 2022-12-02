@@ -1,0 +1,1 @@
+lar[77269]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> <i>c</i>. πάσσαλος, AR. <i>Ach. 763</i>.`

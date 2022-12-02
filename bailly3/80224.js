@@ -1,0 +1,1 @@
+lar[80224]=`<b>ή, όν</b> <font color="purple">[πῐ]</font> qui concerne l’art de persuader, NUMÉN. (EUS. <i>P.E. 729</i>) ; ἡ πιθανουργική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 222c</i>, l’art de persuader par la parole.<p><b>Étym</b>. πιθανουργός.`

@@ -1,0 +1,1 @@
+lar[87671]=`<b>Πυλαι·μάχος, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> qui combat à Pylos, AR. <i>Eq. 1172</i>.<p><b>Étym</b>. Πύλος, μάχομαι.`

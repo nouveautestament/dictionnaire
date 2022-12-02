@@ -1,0 +1,1 @@
+lar[68965]=`<b>νοό·πληκτος, ος, ον</b>, qui frappe <i>ou</i> trouble la raison, ANTH. <i>6, 71</i>.<p><b>Étym</b>. ν. πλήσσω.`

@@ -1,0 +1,1 @@
+lar[54647]=`<b>ου (τὸ)</b> petite chaloupe, THC. <i>4, 120</i> ; APP. <i>Civ. 2, 56</i>.<p><b>Étym</b>. <i>dim. de</i> κέλης.`

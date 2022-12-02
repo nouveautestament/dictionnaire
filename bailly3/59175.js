@@ -1,0 +1,1 @@
+lar[59175]=`<b>ης (ἡ) :<br>      1</b> bourg, village, HÉS. <i>Sc. 18</i> ; THC. <i>3, 94</i> ; PLAT. <i>Leg. 627a, Rsp. 475d ; à Sparte, équivalent du dème attique,</i> ARSTT. <i>Poet. 3, 6</i>.<br><b>      2</b> quartier d’une ville, ISOCR. <i>149a ;</i> PLAT. <i>Leg. 746d</i>.<p><b>Étym</b>. <i>Orig. inconnue</i>.`

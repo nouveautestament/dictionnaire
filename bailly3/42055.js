@@ -1,0 +1,1 @@
+lar[42055]=`<b>ας (ἡ)</b> bonne chance, <i>particul</i>. à la chasse <i>ou</i> à la pêche, EL. <i>N.A. 5, 39</i> (εὐερμής, favorisé d’Hermès, HSCH.).`

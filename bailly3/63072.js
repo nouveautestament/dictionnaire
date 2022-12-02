@@ -1,0 +1,1 @@
+lar[63072]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρ]</font> <i>dim. de</i> μαστός, ALCIPHR. <i>1, 31, 39</i>.`

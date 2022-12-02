@@ -1,0 +1,1 @@
+lar[40134]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> Érasinos :<br><b>      1</b> <i>fl. d’Argolide,</i> HDT. <i>6, 76</i> ; ESCHL. <i>Suppl. 1020 ; d’Attique,</i> STR. <i>371</i>.<br><b>      2</b> <i>n. d’h</i>. HPC. <i>Epid. 1, p. 702</i>.<p><b>Étym</b>. ἐράω.`

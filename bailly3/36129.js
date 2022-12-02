@@ -1,0 +1,1 @@
+lar[36129]=`<b>ἐξ·όμιλος, ος, ον</b> <font color="purple">[ῑ]</font> sans relations avec personne, étranger, SOPH. <i>Tr. 964</i>.<p><b>Étym</b>. ἐξ, ὅμιλος.`

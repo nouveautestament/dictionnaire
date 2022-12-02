@@ -1,0 +1,1 @@
+lar[20761]=`<b>ου (ὁ)</b> Brennus, <i>chef gaulois,</i> CALL. <i>fr. 443</i> ; POL. DS. PLUT. <i>etc</i>.`

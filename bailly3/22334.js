@@ -1,0 +1,1 @@
+lar[22334]=`<b>ατος (τὸ)</b> ce qui fait reconnaître, marque, signe, XÉN. <i>Cyr. 2, 1, 13</i> ; LUC. <i>D. mort. 20, 4 ; au plur</i>. PLUT. <i>Thes. 4 ; joint à</i> ἴχνη, PLUT. <i>M. 855b</i>.<p><b>Étym</b>. γνωρίζω.`

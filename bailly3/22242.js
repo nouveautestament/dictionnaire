@@ -1,0 +1,1 @@
+lar[22242]=`baiser avec la langue, ANTH. <i>5, 129</i>.<p><b>Étym</b>. γλῶττα.`

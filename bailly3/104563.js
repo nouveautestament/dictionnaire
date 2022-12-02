@@ -1,0 +1,1 @@
+lar[104563]=`<b>εως (ἡ) :<br>      1</b> action d’élever, élévation, GAL. <i>18, 1, 324</i>.<br><b>      2</b> <i>fig</i>. exaltation, glorification, SPT. <i>Ps. 149, 6</i>.<p><b>Étym</b>. ὑψόω.`

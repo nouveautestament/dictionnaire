@@ -1,0 +1,1 @@
+lar[74880]=`<b>ου (τὸ)</b> = <i>lat</i>. panarium, huche pour le pain, <i>d’ord</i>. ἀρτοφόριον, SEXT. <i>M. 1, 234</i>.`

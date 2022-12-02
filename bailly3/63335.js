@@ -1,0 +1,1 @@
+lar[63335]=`<b>ῶν (οἱ)</b> les Mégaliôtes, <i>pple inconnu,</i> ARSTT. <i>Poet. 21</i>.`

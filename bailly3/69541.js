@@ -1,0 +1,1 @@
+lar[69541]=`<b>Ξηρο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> le Xèrobatès, <i>litt</i>. où l’on va à pied sec, <i>anc. n. du fl. Sagaris,</i> Ps.-PLUT. <i>Fluv. 12, 1</i>.<p><b>Étym</b>. ξ. βαίνω.`

@@ -1,0 +1,1 @@
+lar[9797]=`<b>ἀντι·γνωμονέω-ῶ</b>, être d’un avis contraire : τινι, DC. <i>46, 44,</i> à qqn ; <i>avec</i> μὴ οὐ <i>et l’inf</i>. XÉN. <i>Cyr. 4, 3, 8</i>.<p><b>Étym</b>. ἀ. *γνώμων, <i>de</i> γνώμη.`

@@ -1,0 +1,1 @@
+lar[16155]=`<b>ου (ὁ)</b> Asteios, <i>Athénien,</i> DÉM.<p><b>Étym</b>. <i>v</i>. ἀστεῖος.`

@@ -1,0 +1,1 @@
+lar[76274]=`<b>παρα·συναγωγή, ῆς (ἡ)</b> <font color="purple">[ῠᾰγ]</font> réunion interdite, conciliabule, RHÉT. <i>8, 456 W.</i> ; BAS. <i>4, 665 Migne</i>.`

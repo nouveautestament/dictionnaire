@@ -1,0 +1,1 @@
+lar[34899]=`<b>εως (ἡ)</b> contemplation, THÉM. <i>218 G. Dind</i>.<p><b>Étym</b>. ἐνόψομαι, <i>cf</i>. ἐνοράω.`

@@ -1,0 +1,1 @@
+lar[52950]=`<b>κατ·αντιπνέω</b>, souffler d’en face, EUM. <i>p. 245</i>.`

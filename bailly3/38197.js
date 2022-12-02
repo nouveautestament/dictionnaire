@@ -1,0 +1,1 @@
+lar[38197]=`<b>εως (ἡ)</b> nouvelle acquisition, gain récent, SOPH. <i>Ph. 1344</i> ; ARSTT. <i>H.A. 3, 20, 11 ; d’où</i> accroissement de fortune, DH. <i>9, 53, au plur</i>.<p><b>Étym</b>. ἐπικτάομαι.`

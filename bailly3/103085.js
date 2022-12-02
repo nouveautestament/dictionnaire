@@ -1,0 +1,1 @@
+lar[103085]=`<b>ὑπό·γλωσσος, ος, ον</b>, un peu bavard, <i>au cp</i>. -ότερος, POLÉM. <i>Physiogn. 1, 13</i>.<p><b>Étym</b>. ὑ. γλῶσσα.`

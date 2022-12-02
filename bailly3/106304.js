@@ -1,0 +1,1 @@
+lar[106304]=`<b>ου (ὁ)</b> = <i>lat</i>. Flaccus, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 3, 16, etc</i>.`

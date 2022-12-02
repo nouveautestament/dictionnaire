@@ -1,0 +1,1 @@
+lar[91190]=`être plongé dans les ténèbres, SPT. <i>Eccl. 12, 3 ; Thren. 4, 8, Ezech. 31, 15</i>.<p><b>Étym</b>. σκότος.`

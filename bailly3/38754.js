@@ -1,0 +1,1 @@
+lar[38754]=`<b>ἐπι·ποιέω-ῶ</b>, ajouter encore, PHILSTR. <i>570</i> ; SYN. <i>60a</i>.`

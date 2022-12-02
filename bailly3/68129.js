@@ -1,0 +1,1 @@
+lar[68129]=`<b>νεό·δρομος, ος, ον</b>, qu’on a couru récemment : ν. θήρη, BABR. <i>106, 15,</i> chasse récemment courue, toute récente.<p><b>Étym</b>. ν. δραμεῖν.`

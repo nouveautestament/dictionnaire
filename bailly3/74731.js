@@ -1,0 +1,1 @@
+lar[74731]=`<b>παμ·παιδί</b> <font color="purple">[δῑ]</font> <i>adv</i>., avec tous ses enfants, DC. <i>41, 9</i>.<p><b>Étym</b>. π. παῖς.`

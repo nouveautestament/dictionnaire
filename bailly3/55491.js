@@ -1,0 +1,1 @@
+lar[55491]=`<b>κιν·αχύρα, ας (ἡ)</b> <font color="purple">[ῑᾰῠ]</font> crible, van, AR. <i>Eccl. 730</i>.<p><b>Étym</b>. κινέω, ἄχυρον.`

@@ -1,0 +1,1 @@
+lar[39875]=`<b>ἐπ·ορθο·βοάω-ῶ</b>, pousser des cris vers <i>ou</i> contre, <i>dat</i>. EUR. <i>El. 142</i>.<p><b>Étym</b>. ἐπί, ὀρθός, βοή.`

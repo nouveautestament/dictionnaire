@@ -1,0 +1,1 @@
+lar[611]=`<font color="purple">[ᾰς]</font> <i>adv</i>., dans <i>ou</i> sur les bras, IL. <i>14, 353</i> ; OD. <i>7, 252</i> ; THCR. <i>Idyl. 8, 55</i> ; ANTH. <i>11, 28, etc</i>.<p><b>Étym</b>. *ἀγκή, <i>de la rac</i>. Ἀγκ, <i>v</i>. ἀγκών ; <i>cf</i>. ἄγκαθεν, ἀγκάσι <i>et</i> ἀγκάλη.`

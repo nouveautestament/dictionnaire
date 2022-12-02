@@ -1,0 +1,1 @@
+lar[107895]=`<i>voc</i>. <b>-α (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Kharidas, <i>Cyrénéen,</i> CALL. <i>Ep. 14</i>.`

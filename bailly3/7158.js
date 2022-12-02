@@ -1,0 +1,1 @@
+lar[7158]=`<b>ἀν·αμαρτάνω</b> (<i>inf. ao</i>. ἀναμαρτεῖν) <font color="purple">[ᾰμ]</font> être innocent, STOB. <i>Ecl. 1, p. 34</i>.`

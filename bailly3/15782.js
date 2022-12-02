@@ -1,0 +1,1 @@
+lar[15782]=`<b>ας (ἡ) :<br>      1</b> impudence, insolence, grossièreté, PLAT. <i>Rsp. 424e ;</i> DÉM. <i>42, 25, etc.</i><br><b>      2</b> mœurs dissolues, POL. <i>37, 2</i>.<p><b>Étym</b>. ἀσελγής.`

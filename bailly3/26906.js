@@ -1,0 +1,1 @@
+lar[26906]=`<b>διο·τροφής, ής, ές</b>, <i>gén</i>. <b>έος</b>, qui sert de nourriture aux dieux, PTOL. (SYN. <i>312d</i>).<p><b>Étym</b>. Διός, τρέφω.`

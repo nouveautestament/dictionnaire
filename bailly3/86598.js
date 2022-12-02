@@ -1,0 +1,1 @@
+lar[86598]=`<i>adv</i>., avec ressemblance avec, PLUT. <i>M. 898e</i>, f, <i>etc</i>.<p><b>Étym</b>. προσφερής.`

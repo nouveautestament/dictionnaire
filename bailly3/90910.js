@@ -1,0 +1,1 @@
+lar[90910]=`<b>σκιλλίτης οἶνος (ὁ)</b> <font color="purple">[λῑ]</font> vin aromatisé de scille, J. AFR. <i>p. 302 Veterum mathematicorum opera, Thévenot</i>.<p><b>Étym</b>. σκίλλα.`

@@ -1,0 +1,1 @@
+lar[24167]=`<i>adv</i>., de façon à faire comprendre, clairement, EN. TACT. <i>Pol. 14</i>.`

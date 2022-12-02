@@ -1,0 +1,1 @@
+lar[74525]=`<b>παλιμ·μήκης, ης, ες</b> <font color="purple">[ᾰ]</font> de double longueur, ESCHL. <i>Ag. 196</i>.<p><b>Étym</b>. π. μῆκος.`

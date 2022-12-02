@@ -1,0 +1,1 @@
+lar[78472]=`<b>περί·βρωτος, ος, ον</b>, rongé tout alentour, ARÉT. <i>Caus. m. diut. 2, 9</i>.<p><b>Étym</b>. περιβιβρώσκω.`

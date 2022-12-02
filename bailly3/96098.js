@@ -1,0 +1,1 @@
+lar[96098]=`<b>ή, όν :<br>      1</b> <i>t. d’astr</i>. qui concerne la conjonction des astres, PTOL. <i>Tetr. 92</i> ; νὺξ συνοδική, SYN. <i>Ep. 4,</i> nuit où la lune est en conjonction avec le soleil, nouvelle lune.<br><b>      2</b> de synode, synodal, NAZ. <i>8, 177 Migne</i>.<p><b>Étym</b>. σύνοδος.`

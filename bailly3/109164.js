@@ -1,0 +1,1 @@
+lar[109164]=`<b>Χρυσό·γονος, ου (ὁ)</b> Khrysogonos :<br><b>      1</b> <i>joueur de flûte, à Athènes</i> DURIS (PLUT. <i>Alc. 32), etc.</i><br><b>      2</b> <i>affranchi de Sylla,</i> PLUT. <i>Cic. 3</i>.<p><b>Étym</b>. <i>v</i>. χρυσόγονος.`

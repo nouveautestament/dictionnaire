@@ -1,0 +1,1 @@
+lar[3559]=`<b>ἀ·κοπητί</b> <font color="purple">[ᾰ]</font> <i>adv</i>., sans fatigue, sans effort, LIB. <i>1, 378</i>.<p><b>Étym</b>. ἀ, *κοπέω, <i>de</i> κόπος.`

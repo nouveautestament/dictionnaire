@@ -1,0 +1,1 @@
+lar[30823]=`<b>ος, ον</b>, qui concerne l’entrée : οἱ εἰσόδιοι, ANTIPAT. (STOB. <i>428, 14</i>) les premiers venus ; τὰ εἰσόδια, SPT. <i>Dan. 11, 13,</i> les revenus.<p><b>Étym</b>. εἴσοδος.`

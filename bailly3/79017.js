@@ -1,0 +1,1 @@
+lar[79017]=`<b>περι·ονυχίζω</b> <font color="purple">[ῠ]</font> rogner les ongles tout autour à, <i>acc</i>. SPT. <i>Deut. 21, 12</i>.`

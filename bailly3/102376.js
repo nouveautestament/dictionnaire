@@ -1,0 +1,1 @@
+lar[102376]=`<b>ὑπερ·γηράσκω</b> <i>ou</i> <b>ὑπερ·γηράω</b>, être très vieux <i>ou</i> très ancien, APD. (DL. <i>8, 52</i>).`

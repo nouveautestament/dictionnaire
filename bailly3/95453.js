@@ -1,0 +1,1 @@
+lar[95453]=`<b>συν·ελκόω-ῶ</b>, faire en même temps une blessure, SOR. <i>Obst. p. 258, 3</i>.<p><b>Étym</b>. σ. ἑλκόω.`

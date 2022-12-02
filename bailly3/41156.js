@@ -1,0 +1,1 @@
+lar[41156]=`<b>α, ον</b>, du foyer, de la maison, HLD. <i>1, 30 ; 4, 18</i>.<p><b>Étym</b>. ἑστία.`

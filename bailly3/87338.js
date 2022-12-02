@@ -1,0 +1,1 @@
+lar[87338]=`<b>πτερό·φοιτος, ος, ον</b>, qui va avec des ailes, qui vole, POÈT. (PLAT. <i>Phædr. 252b</i>).<p><b>Étym</b>. πτ. φοιτάω.`

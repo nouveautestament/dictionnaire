@@ -1,0 +1,1 @@
+lar[13693]=`<b>ή, όν</b>, propre à cicatriser, DIOSC. <i>1, 48, etc</i>.<p><b>Étym</b>. ἀπουλόω.`

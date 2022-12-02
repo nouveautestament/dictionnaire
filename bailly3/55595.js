@@ -1,0 +1,1 @@
+lar[55595]=`<i>mieux que</i> <b>κισσηρόω-ῶ</b>, polir avec la pierre ponce, TH. <i>Lap. 20</i>.<p><b>Étym</b>. κίσηρις.`

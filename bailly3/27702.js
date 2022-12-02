@@ -1,0 +1,1 @@
+lar[27702]=`<b>δουλο·γραφέω-ῶ</b> <font color="purple">[ᾰ]</font> inscrire comme esclave, EUM. <i>7, 9</i>.<p><b>Étym</b>. δοῦλος, γράφω.`

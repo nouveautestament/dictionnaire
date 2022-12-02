@@ -1,0 +1,1 @@
+lar[2640]=`<b>ας (ἡ)</b> Ænéia :<br><b>      1</b> <i>v. de Macédoine,</i> HDT. <i>7, 123</i>.<br><b>      2</b> <i>v. d’Étrurie, postér</i>. Janiculum, DH. <i>1, 73</i>.<br><b>      3</b> <i>prom. près de Potidée,</i> SCYMN. <i>628</i>.`

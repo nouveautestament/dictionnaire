@@ -1,0 +1,1 @@
+lar[41355]=`<b>ἑτερό·πιστος, ος, ον</b>, qui a une autre foi, hétérodoxe, CHRYS. <i>11, 185 Migne</i>.<p><b>Étym</b>. ἕ. πίστις ; <i>cf</i>. ἑτερόδοξος.`

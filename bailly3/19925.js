@@ -1,0 +1,1 @@
+lar[19925]=`<b>ῶν (οἱ)</b> les Blepsiades <i>ou</i> descendants de Blepsias, <i>famille d’Égine,</i> PD. <i>O. 8, 99</i>.<p><b>Étym</b>. βλεψίας.`

@@ -1,0 +1,1 @@
+lar[10224]=`<b>ἀντι·παρώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui prend une dénomination opposée, <i>t. d’arithm</i>. NICOM. <i>Arithm. 110</i>.`

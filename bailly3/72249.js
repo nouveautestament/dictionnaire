@@ -1,0 +1,1 @@
+lar[72249]=`<b>ὀπιθό·μβροτος, ος, ον</b> <font color="purple">[ῐ]</font> qui survit aux mortels, PD. <i>P. 1, 92</i>.<p><b>Étym</b>. ὄπιθε, βροτός, <i>p</i>. *μβροτός.`

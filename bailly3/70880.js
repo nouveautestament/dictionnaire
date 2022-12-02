@@ -1,0 +1,1 @@
+lar[70880]=`<b>ὀκτωκαιδεκαταῖος, α, ον</b> <font color="purple">[ᾰ]</font> qui arrive <i>ou</i> se fait le 18<sup>e</sup> jour, HPC. <i>469, 29 ; 1220d</i>.<p><b>Étym</b>. ὀκτωκαιδέκατος.`

@@ -1,0 +1,1 @@
+lar[56239]=`<b>ου (τὸ)</b> sorte de laurier, TH. <i>H.P. 1, 10, 4</i> ; DIOSC. <i>4, 173</i>.`

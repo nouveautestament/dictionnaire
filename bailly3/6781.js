@@ -1,0 +1,1 @@
+lar[6781]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> action d’anathématiser, NAZ. <i>3, 200 Migne</i>.`

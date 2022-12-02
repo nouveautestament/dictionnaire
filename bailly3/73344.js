@@ -1,0 +1,1 @@
+lar[73344]=`<b>ας (ἡ)</b> <font color="purple">[ᾱσ]</font> <i>c</i>. ὄσφρανσις, SPT. <i>Hos. 7</i> ; ARR. <i>Epict. 1, 20, 8</i> (<i>var</i>. ὀσφρήσει).`

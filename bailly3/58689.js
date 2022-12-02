@@ -1,0 +1,1 @@
+lar[58689]=`<b>ου (ὁ)</b> vase creux, coupe, NIC. <i>Th. 525</i>.<p><b>Étym</b>. <i>cf</i>. κύμβη.`

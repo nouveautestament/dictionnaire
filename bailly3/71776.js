@@ -1,0 +1,1 @@
+lar[71776]=`<b>ὁμό·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> qui est uni de cœur et de sentiments, CHRYS. <i>1, 56</i>.<p><b>Étym</b>. ὁμ. ψυχή.`

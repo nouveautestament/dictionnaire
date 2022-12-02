@@ -1,0 +1,1 @@
+lar[15928]=`<b>ου (τὸ)</b> lieu d’exercice <i>ou</i> de méditation, couvent, BAS.<p><b>Étym</b>. ἀσκέω.`

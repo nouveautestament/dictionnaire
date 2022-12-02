@@ -1,0 +1,1 @@
+lar[67621]=`<b>ου (ὁ)</b> Naxios, <i>h</i>. ANTH. <i>App. 254</i>.<p><b>Étym</b>. <i>v</i>. Νάξιος.`

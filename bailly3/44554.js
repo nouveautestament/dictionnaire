@@ -1,0 +1,1 @@
+lar[44554]=`<b>ος, ον</b>, de Zénon, TIMON (ATH. <i>158a</i>).<p><b>Étym</b>. Ζήνων.`

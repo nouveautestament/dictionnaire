@@ -1,0 +1,1 @@
+lar[86383]=`<b>ατος (τὸ) :<br>      1</b> parole adressée à qqn, salutation, PLAT. <i>Charm. 164e ;</i> DC. <i>69, 18, etc.</i><br><b>      2</b> dénomination, nom, PLAT. <i>Phædr. 238b, Leg. 960c ;</i> DÉM. <i>630, 8</i>.<p><b>Étym</b>. *προσέρω.`

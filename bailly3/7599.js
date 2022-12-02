@@ -1,0 +1,1 @@
+lar[7599]=`<b>ἀνα·σαλεύω</b> <font color="purple">[σᾰ]</font> ébranler de bas en haut, secouer, LUC. <i>Astr. 29</i> ; ALCIPHR. <i>1, 39</i>.`

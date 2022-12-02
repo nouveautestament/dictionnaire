@@ -1,0 +1,1 @@
+lar[109353]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> action d’exprimer le suc d’une plante, TH. <i>H.P. 9, 8, 1, 3</i>.<p><b>Étym</b>. χυλίζω.`

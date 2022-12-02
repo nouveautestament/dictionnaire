@@ -1,0 +1,1 @@
+lar[53100]=`<i>adv</i>., d’une manière étonnante <i>ou</i> effrayante, POL. <i>3, 41, 3</i>.`

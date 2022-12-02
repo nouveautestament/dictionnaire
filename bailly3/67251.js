@@ -1,0 +1,1 @@
+lar[67251]=`<b>μυριό·μοχθος, ος, ον</b> <font color="purple">[ῡ]</font> qui a supporté des fatigues innombrables, A. PL. <i>91</i>.<p><b>Étym</b>. μ. μόχθος.`

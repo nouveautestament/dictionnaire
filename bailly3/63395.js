@@ -1,0 +1,1 @@
+lar[63395]=`<b>μεγαλό·πετρος, ος, ον</b> <font color="purple">[ᾰ]</font> aux roches énormes, AR. <i>Lys. 482</i>.<p><b>Étym</b>. μ. πέτρα.`

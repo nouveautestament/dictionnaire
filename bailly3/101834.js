@@ -1,0 +1,1 @@
+lar[101834]=`<b>ης, ες</b>, semblable à un hymne, PHILSTR. <i>V. Ap. 5, 21</i>.<p><b>Étym</b>. ὕ. -ωδης.`

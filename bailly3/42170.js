@@ -1,0 +1,1 @@
+lar[42170]=`<b>εὐ·θέριστον, ου (τὸ)</b> sorte de plante balsamique, PLIN. <i>H.N. 12, 54</i>.<p><b>Étym</b>. εὖ, θερίζω.`

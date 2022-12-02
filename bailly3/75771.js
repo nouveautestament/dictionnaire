@@ -1,0 +1,1 @@
+lar[75771]=`<b>εως (ἡ)</b> action de coller à, soudure, HPC. <i>Off. 745</i>.<p><b>Étym</b>. παρακολλάω.`

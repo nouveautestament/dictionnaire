@@ -1,0 +1,1 @@
+lar[54921]=`<b>κερδαλεό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> à l’esprit rusé, astucieux, IL. <i>1, 149 ; 4, 339</i> ; OPP. <i>C. 2, 29</i>.<p><b>Étym</b>. κερδαλέος, φρήν.`

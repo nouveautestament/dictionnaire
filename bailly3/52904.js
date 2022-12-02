@@ -1,0 +1,1 @@
+lar[52904]=`<b>κατα·νέομαι</b>, <i>par contract. poét</i>. <b>κατανεῦμαι</b> (<i>seul. prés</i>.) descendre de, venir de, <i>gén</i>. NONN. <i>Jo. 1, 115</i>.`

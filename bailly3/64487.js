@@ -1,0 +1,1 @@
+lar[64487]=`<b>*Μεσηνία</b>, <i>seul</i>. <b>Μεσσηνία, ας (ἡ) :<br>      1</b> la Messénie, DS. <i>8, 21, etc.</i><br><b>      2</b> <i>territoire de Messine,</i> TH. <i>H.P. 8, 2, 8</i> ; PLUT. <i>Tim. 30</i>.<p><b>Étym</b>. <i>v</i>. Μεσήνη.`

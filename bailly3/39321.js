@@ -1,0 +1,1 @@
+lar[39321]=`<b>ή, όν</b>, qui concerne le commandement, PLAT. <i>Pol. 260b, c ; 261b, c</i> ; ARSTT. <i>Nic. 6, 10, 1</i> ; ἡ ἐπιτακτική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 260c</i>, l’art <i>ou</i> la faculté de commander.<p><b>Étym</b>. ἐπίτακτος.`

@@ -1,0 +1,1 @@
+lar[24979]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> qui dissout, qui brise, THC. <i>3, 82</i>.`

@@ -1,0 +1,1 @@
+lar[29817]=`<b>οῦ (ὁ)</b> qui fait l’éloge de qqn <i>ou</i> de qqe ch. STR. <i>15, 1, 68 Kram.</i> ; PLUT. <i>M. 605a</i>.<p><b>Étym</b>. ἐγκωμιάζω.`

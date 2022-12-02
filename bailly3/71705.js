@@ -1,0 +1,1 @@
+lar[71705]=`<b>ὁμο·ταγής, ής, ές</b> <font color="purple">[ᾰ]</font> placé sur une même ligne, sur le même rang, EUCL. <i>Elem. 12, 12 ; fig</i>. τινι, JUL. <i>144d</i>, que qqn <i>ou</i> qqe ch.<p><b>Étym</b>. ὁμ. τάσσω.`

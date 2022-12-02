@@ -1,0 +1,1 @@
+lar[80357]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Pindaros (Pindare) :<br><b>      1</b> <i>poète lyrique de Thèbes, en Béotie</i>.<br><b>      2</b> <i>autres,</i> PLUT. <i>Ant. 22, etc</i>.<p>➳ <i>Gén. épq</i>. Πινδάροιο, PLAT. <i>Ep. 6</i>.`

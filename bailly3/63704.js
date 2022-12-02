@@ -1,0 +1,1 @@
+lar[63704]=`<font color="purple">[λῐ]</font> <i>adv</i>., avec de douces paroles, A.RH. <i>2, 467</i>.`

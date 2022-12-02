@@ -1,0 +1,1 @@
+lar[19168]=`<b>βαρυ·μήνιος</b>, <i>seul. dor</i>. <b>βαρυμάνιος, ος, ον</b> <font color="purple">[ᾰῠᾱ]</font> <i>c</i>. βαρύμηνις THCR. <i>Idyl. 15, 138</i>.`

@@ -1,0 +1,1 @@
+lar[35183]=`<b>ἐν·υμενό·σπερμος, ος, ον</b> <font color="purple">[ῠ]</font> dont la graine est renfermée dans une membrane, TH. <i>H.P. 8, 3, 4</i>.<p><b>Étym</b>. ἐν, ὑμήν, σπέρμα.`

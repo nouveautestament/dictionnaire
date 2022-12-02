@@ -1,0 +1,1 @@
+lar[85595]=`<b>προσ·ενόω-ῶ</b>, rassembler en un tout, réunir, JOS. <i>A.J. 3, 6, 5 ; 8, 3, 6</i>.<p><b>Étym</b>. π. ἑνόω.`

@@ -1,0 +1,1 @@
+lar[8080]=`<b>ἀνδρο·κτόνος, ος, ον :<br>      1</b> qui tue des hommes <i>ou</i> un homme, homicide, HDT. <i>4, 110</i> ; EUR. <i>Cycl. 22</i>.<br><b>      2</b> qui tue son mari, TRAG. (PLUT. <i>M. 35e</i>).<p><b>Étym</b>. ἀνήρ, κτείνω.`

@@ -1,0 +1,1 @@
+lar[107180]=`<b>Φυλό·μαχος, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> Phylomakhos, <i>h</i>. A. PL. <i>239</i>.<p><b>Étym</b>. φῦλον, μάχομαι.`

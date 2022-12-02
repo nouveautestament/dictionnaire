@@ -1,0 +1,1 @@
+lar[109291]=`<b>χρυσό·φιλος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui a l’amour de l’or, ANTH. <i>8, 185</i>.<p><b>Étym</b>. χρ. φίλος.`

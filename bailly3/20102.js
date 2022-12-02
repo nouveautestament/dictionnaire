@@ -1,0 +1,1 @@
+lar[20102]=`<b>α, ον :<br>      1</b> de Béotie, Béotien, IL. <i>17, 597</i> ; PD. HDT. ATT. ; <i>en mauv. part, c. syn. de</i> glouton, DÉMON. (ATH. <i>410d</i>) <i>etc., ou de</i> lourdaud, PLUT. <i>M. 995e, etc.</i><br><b>      2</b> Bœôtios, <i>Spartiate,</i> XÉN. <i>Hell. 1, 4, 2</i>.`

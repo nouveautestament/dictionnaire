@@ -1,0 +1,1 @@
+lar[53947]=`<b>κατ·ερυθριάω-ῶ</b>, devenir tout rouge, HLD. <i>10, 18</i>.`

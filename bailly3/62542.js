@@ -1,0 +1,1 @@
+lar[62542]=`<b>μακρό·πνοος-ους, οος-ους, οον-ουν :<br>      1</b> qui a le souffle long, HPC. <i>1169a, etc.</i><br><b>      2</b> qui vit (<i>propr</i>. qui respire) longtemps, EUR. <i>Ph. 1535</i>.<p><b>Étym</b>. μ. πνέω.`

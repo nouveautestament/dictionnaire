@@ -1,0 +1,1 @@
+lar[5015]=`<b>ἀ·λύπητος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> <i>pass</i>. exempt de chagrin, SOPH. <i>Tr. 168</i>.<br><b>      2</b> <i>act</i>. qui ne cause pas de chagrin, SOPH. <i>O.C. 1662</i> ; HPC. <i>Art. 804</i>.<p><b>Étym</b>. ἀ, λυπέω.`

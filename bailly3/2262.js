@@ -1,0 +1,1 @@
+lar[2262]=`<font color="purple">[ῑ]</font> <i>adv</i>., d’Égine, A.RH. <i>4, 1775</i> ; ANTH. <i>7, 272</i>.<p><b>Étym</b>. Αἴγινα, -θεν.`

@@ -1,0 +1,1 @@
+lar[870]=`<b>ἀγραφίου γραφή (ἡ)</b> <font color="purple">[ᾰφ]</font> action contre un débiteur de l’État indûment effacé sur les rôles, DÉM. <i>1338, 19</i>.<p><b>Étym</b>. ἄγραφος.`

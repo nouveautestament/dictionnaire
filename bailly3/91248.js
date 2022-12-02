@@ -1,0 +1,1 @@
+lar[91248]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> action de rejeter avec mépris, <i>d’où</i> traitement injurieux, POL. <i>30, 17, 12</i>.<p><b>Étym</b>. σκυβαλίζω.`

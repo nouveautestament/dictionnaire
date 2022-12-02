@@ -1,0 +1,1 @@
+lar[32760]=`<b>ἐλεφαντό·κωπος, ος, ον</b>, à poignée d’ivoire, THPP. COM. (POLL. <i>7, 158 ; 10, 145</i>) ; LUC. <i>Somn. 26</i>.<p><b>Étym</b>. ἐ. κώπη.`

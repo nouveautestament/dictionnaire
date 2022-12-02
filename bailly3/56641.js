@@ -1,0 +1,1 @@
+lar[56641]=`être débauché, PLAT. COM. <i>2-2, 681, 4, 5 Mein</i>.<p><b>Étym</b>. κόλλοψ.`

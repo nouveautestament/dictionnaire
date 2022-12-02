@@ -1,0 +1,1 @@
+lar[47865]=`<b>θυλέομαι-οῦμαι</b> <font color="purple">[ῡ]</font> offrir en sacrifice, PORPH. <i>Abst. 2, 17</i>.<p><b>Étym</b>. θύω.`

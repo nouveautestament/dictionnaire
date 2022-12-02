@@ -1,0 +1,1 @@
+lar[20646]=`<b>ῶν (αἱ)</b> braies, <i>vêtement gaulois,</i> DS. <i>5, 30. Cf. lat</i>. brācæ.`

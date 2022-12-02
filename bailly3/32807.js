@@ -1,0 +1,1 @@
+lar[32807]=`<font color="purple">[ῐ]</font> <i>adv</i>., d’Hélikè, <i>en Achaïe,</i> THCR. <i>Idyl. 25, 180</i>.<p><b>Étym</b>. Ἑλίκη, -θεν.`

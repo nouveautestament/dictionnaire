@@ -1,0 +1,1 @@
+lar[33746]=`<b>ἐμ·φώτειος</b>, <i>ou mieux</i> <b>ἐμφώτιος, ος, ον</b>, baptismal, NAZ. <i>2, 393 Migne</i>.<p><b>Étym</b>. ἐν, φῶς.`

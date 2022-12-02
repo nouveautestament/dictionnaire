@@ -1,0 +1,1 @@
+lar[38034]=`<b>ἐπι·κινέω-ῶ</b> <font color="purple">[ῑν]</font> <i>seul. au pass.</i> :<br><b>      1</b> s’agiter, faire des gestes, EPICT. <i>Ench. 33, 10</i>.<br><b>      2</b> s’agiter, être empressé <i>ou</i> zélé : ἐπί τινι, SPT. <i>1Esdr. 8, 74</i> pour qqe ch.`

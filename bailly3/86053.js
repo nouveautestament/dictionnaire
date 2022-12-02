@@ -1,0 +1,1 @@
+lar[86053]=`<b>ή, όν</b>, offensant, ARR. <i>Epict. 1, 18, 10</i>.<p><b>Étym</b>. προσκόπτω.`

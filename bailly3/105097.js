@@ -1,0 +1,1 @@
+lar[105097]=`<b>η, ον</b> <font color="purple">[ῐ]</font> fait de liège, LUC. <i>V.H. 2, 4</i>.<p><b>Étym</b>. φελλός.`

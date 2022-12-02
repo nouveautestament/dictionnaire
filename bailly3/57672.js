@@ -1,0 +1,1 @@
+lar[57672]=`<b>ωνος (ὁ)</b> Kratôn, <i>h</i>. PLUT. <i>Qu. conv. 1, 4, 1</i> ; LUC. <i>D. mort. 10, 6 et 12, etc</i>.`

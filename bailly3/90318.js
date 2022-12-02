@@ -1,0 +1,1 @@
+lar[90318]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Simalos, <i>h</i>. ANACR. <i>22, etc</i>.`

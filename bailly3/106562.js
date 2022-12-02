@@ -1,0 +1,1 @@
+lar[106562]=`<b>φοινικο·δάκτυλος, ος, ον</b> <font color="purple">[ῑῠ]</font> aux doigts d’un rouge écarlate, ARSTT. <i>Rhet. 3, 2, 13</i>.`

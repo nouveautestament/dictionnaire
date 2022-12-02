@@ -1,0 +1,1 @@
+lar[85663]=`<b>προσ·επιγράφω</b> <font color="purple">[ᾰ]</font> inscrire en outre, TH. <i>Char. 13, 3</i>.`

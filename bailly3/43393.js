@@ -1,0 +1,1 @@
+lar[43393]=`<b>εὔ·σαρκος, ος, ον</b>, charnu, qui a de l’embonpoint, HPC. <i>Aph. 1249</i> ; XÉN. <i>Lac. 5, 8</i> ; ESCHN. <i>6, 29</i> ; ARSTT. <i>Probl. 1, 34</i>.<p><b>Étym</b>. εὖ, σάρξ.`

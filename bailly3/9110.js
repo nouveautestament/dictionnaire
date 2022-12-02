@@ -1,0 +1,1 @@
+lar[9110]=`<b>ου</b> <font color="purple">[ᾰῑῑ]</font> <i>adj. m</i>. parfumé d’anis, GEOP. <i>8, 4</i>.<p><b>Étym</b>. ἄνισον.`

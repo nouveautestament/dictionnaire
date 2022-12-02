@@ -1,0 +1,1 @@
+lar[108908]=`<b>ητος (ὁ)</b> Khrémès, <i>rôle de vieillard dans la nouvelle comédie (cf</i>. Χρέμυλος) AR. <i>Eccl. 477, etc</i>.<p>➳ <i>Voc</i>. Χρέμης, AR. <i>l. c. ; acc</i>. Χρέμην, POL. <i>30, 10</i>.<p><b>Étym</b>. <i>cf</i>. χρέμπτομαι.`

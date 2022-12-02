@@ -1,0 +1,1 @@
+lar[45294]=`<b>ατος (τὸ)</b> <i>litt</i>. ce qu’on lance, <i>càd</i>. javelot, trait, IL. <i>23, 891 plur</i>.<p><b>Étym</b>. ἵημι.`

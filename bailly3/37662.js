@@ -1,0 +1,1 @@
+lar[37662]=`<b>ητος (ἡ)</b> illustration, AQU. <i>Ps. 103, 1</i> ; CHRYS. <i>1, 636</i>.<p><b>Étym</b>. ἐπίδοξος.`

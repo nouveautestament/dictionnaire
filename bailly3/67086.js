@@ -1,0 +1,1 @@
+lar[67086]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> mugissement, IL. <i>18, 575</i> ; OD. <i>12, 265</i> ; ESCHL. (STR. <i>580</i>) ; THCR. <i>Idyl. 25, 98 ; en parl. d’un tremblement de terre,</i> A.RH. <i>3, 864</i> ; POL. <i>12, 25, 20, etc</i>.<p><b>Étym</b>. μυκάομαι.`

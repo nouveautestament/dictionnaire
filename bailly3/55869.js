@@ -1,0 +1,1 @@
+lar[55869]=`<b>ων (οἱ)</b> les habitants de Kleitoria, XÉN. <i>Hell. 5, 4, 36 et 37</i> ; PLUT. <i>Lyc. 2, etc</i>.<p><b>Étym</b>. <i>v</i>. Κλειτορία.`

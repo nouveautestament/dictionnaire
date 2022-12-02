@@ -1,0 +1,1 @@
+lar[104737]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> état de celui qui devient chauve, calvitie, SPT. <i>Lev. 21, 5, etc.</i> ; PLUT. <i>M. 652f, 919c ;</i> GAL. <i>18, 1, 41 et 55</i>.<p><b>Étym</b>. φαλακρόω.`

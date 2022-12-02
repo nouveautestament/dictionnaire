@@ -1,0 +1,1 @@
+lar[45335]=`<b>ἡμερο·δρόμος, ος, ον</b>, qui court le jour : ὁ ἡ. courrier, HDT. <i>6, 105 ; 9, 12</i> ; PLAT. <i>Prot. 335e</i>.<p><b>Étym</b>. ἡμέρα, δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[83964]=`<b>προ·διεορτάζω</b>, célébrer d’avance une fête, DC. <i>37, 54</i>.`

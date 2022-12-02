@@ -1,0 +1,1 @@
+lar[62045]=`<b>Λυσί·ξενος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Lysixénos, <i>h</i>. ANTH. <i>6, 104</i>.<p><b>Étym</b>. λύω, ξένος.`

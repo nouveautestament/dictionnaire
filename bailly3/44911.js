@@ -1,0 +1,1 @@
+lar[44911]=`<b>*ἡγέτις</b>, <i>seul. dor</i>. <b>ἁγέτις, ιδος (ἡ)</b> <font color="purple">[ᾱ]</font> celle qui dirige, maîtresse (de maison) ANTH. <i>7, 425</i>.<p><b>Étym</b>. <i>fém. de</i> ἡγέτης.`

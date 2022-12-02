@@ -1,0 +1,1 @@
+lar[45243]=`<b>ἡλιο·στιβής, ής, ές</b> <font color="purple">[ῐβ]</font> parcouru, <i>càd</i>. éclairé par le soleil, ESCHL. <i>Pr. 791</i>.<p><b>Étym</b>. ἥ. στείβω.`

@@ -1,0 +1,1 @@
+lar[83665]=`<b>προ·απολύω</b>, <i>t. de rhét</i>. détruire <i>ou</i> réfuter d’avance, RHÉT. <i>8, 436 W.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. CLÉM. <i>325</i>.`

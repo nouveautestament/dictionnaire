@@ -1,0 +1,1 @@
+lar[22791]=`<i>f. att</i>. <b>ιῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> s’habiller, parler <i>ou</i> agir comme une femme, être efféminé, HPC. <i>Aër. 293, 31</i> ; AR. <i>Th. 268</i> ; DC. <i>50, 27</i>.<br><b>      2</b> se prêter à une débauche infâme, LUC. <i>Gall. 19</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, POL. <i>32, 25, 7</i>.<p><b>Étym</b>. γυνή.`

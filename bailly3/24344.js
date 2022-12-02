@@ -1,0 +1,1 @@
+lar[24344]=`<b>οῦς, οῖ, ώ</b> <i>et</i> <b>οῦν (ἡ)</b> Dèmô, <i>f</i>. HH. <i>Cer. 109</i> ; PLUT. <i>Demetr. 24, 27</i> ; ANTH. <i>5, 160, 172, 244, etc</i>.<p>➳ <i>Dor</i>. Δαμώ <font color="purple">[ᾱ]</font> ANTH. <i>7, 473</i> ; DL. <i>etc</i>.<p><b>Étym</b>. δῆμος.`

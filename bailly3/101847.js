@@ -1,0 +1,1 @@
+lar[101847]=`<i>adv</i>., en forme d’Υ, ORIB. <i>p. 127</i>.<p><b>Étym</b>. <i>v</i>. ὑοειδής.`

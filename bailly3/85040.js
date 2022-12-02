@@ -1,0 +1,1 @@
+lar[85040]=`<b>προ·πυριάω-ῶ</b> <font color="purple">[ῠ]</font> réchauffer auparavant, HPC. <i>264, 12</i>.`

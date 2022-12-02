@@ -1,0 +1,1 @@
+lar[69048]=`<b>νου·βυστικός, ή, όν</b>, plein (<i>propr</i>. bourré) d’esprit, AR. <i>Eccl. 441</i>.<p><b>Étym</b>. νοῦς, βύω.`

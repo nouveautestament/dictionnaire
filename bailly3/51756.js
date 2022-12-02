@@ -1,0 +1,1 @@
+lar[51756]=`<b>ας (ἡ)</b> action d’arracher le cœur d’une victime, CLÉM. <i>13</i>.<p><b>Étym</b>. <i>v</i>. καρδιουλκέω.`

@@ -1,0 +1,1 @@
+lar[27648]=`<b>δορύ·κρανος, ος, ον</b>, à la coiffe de fer (lance), ESCHL. <i>Pers. 147</i>.`

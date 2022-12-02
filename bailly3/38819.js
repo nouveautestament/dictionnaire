@@ -1,0 +1,1 @@
+lar[38819]=`<b>ἐπι·προσπλέω</b>, naviguer vers, <i>dat</i>. STR. <i>57</i>.`

@@ -1,0 +1,1 @@
+lar[54894]=`<b>ας (ἡ)</b> action de lancer la foudre, STR. <i>628</i> ; PLUT. <i>M. 624b</i>.<p><b>Étym</b>. κεραυνοβόλος.`

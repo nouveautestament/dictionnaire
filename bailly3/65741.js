@@ -1,0 +1,1 @@
+lar[65741]=`<b>μικρό·σοφος, ος, ον</b>, sage <i>ou</i> habile dans les petites choses, DS. <i>26, 1, etc</i>.<p><b>Étym</b>. μ. σοφός.`

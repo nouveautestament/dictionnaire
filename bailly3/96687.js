@@ -1,0 +1,1 @@
+lar[96687]=`<i>prés. formé d’après le pf. de</i> συνίστημι, BAS. <i>4, 673 Migne</i>.`

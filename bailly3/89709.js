@@ -1,0 +1,1 @@
+lar[89709]=`<b>ατος (τὸ)</b> lumière brillante, MAN. <i>4, 601 au plur</i>.<p><b>Étym</b>. σέλας.`

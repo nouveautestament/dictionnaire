@@ -1,0 +1,1 @@
+lar[89429]=`<b>ου (τὸ)</b> petit morceau de chair <i>ou</i> de viande, HPC. <i>Aph. 1252</i> ; ARSTT. <i>H.A. 2, 11, 8, etc.</i> ; DIPH. (<i>Com. fr. 4, 380).</i><p><b>Étym</b>. σάρξ.`

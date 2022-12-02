@@ -1,0 +1,1 @@
+lar[99554]=`<b>ή, όν</b>, propre à couper, CELS. <i>8, 1 dout</i>.<p><b>Étym</b>. τομός.`

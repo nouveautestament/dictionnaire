@@ -1,0 +1,1 @@
+lar[71684]=`<b>ὁμό·σιτος, ος, ον</b> <font color="purple">[ῑ]</font> qui mange avec, HDT. <i>7, 119</i> ; PLUT. <i>M. 643d</i>.<p><b>Étym</b>. ὁμ. σῖτος.`

@@ -1,0 +1,1 @@
+lar[9648]=`<b>ἀντεπιβούλευτος, ος, ον</b>, qui sert pour une embuscade, ATH. (MATH. <i>p. 9).</i><p><b>Étym</b>. ἀντεπιβουλεύω.`

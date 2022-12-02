@@ -1,0 +1,1 @@
+lar[42884]=`<b>εὔ·ορνις</b> <font color="purple">[ῐ]</font> <i>gén</i>. <b>-ιθος</b> <font color="purple">[ῑ]</font> (ὁ, ἡ) :<br><b>      1</b> abondant en volatiles, ANTH. <i>7, 424</i>.<br><b>      2</b> de bon augure, DH. <i>2, 73</i>.<p><b>Étym</b>. εὖ, ὄρνις.`

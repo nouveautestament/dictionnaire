@@ -1,0 +1,1 @@
+lar[49464]=`<b>ης, ες</b>, qui ressemble au cheval <i>ou</i> de la nature du cheval, XÉN. <i>Eq. 1, 11, au cp</i>. -έστερος.<p><b>Étym</b>. ἵ. -ωδής.`

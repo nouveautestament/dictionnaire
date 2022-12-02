@@ -1,0 +1,1 @@
+lar[97872]=`<b>οῦς (ἡ)</b> Takhompsô, <i>î. du Nil, près d’Éléphantine,</i> HDT. <i>2, 29</i>.`

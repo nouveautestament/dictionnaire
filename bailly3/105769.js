@@ -1,0 +1,1 @@
+lar[105769]=`<b>φιλ·όδυρτος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à gémir, ESCHL. <i>Suppl. 69</i>.<p><b>Étym</b>. φ. ὀδύρομαι.`

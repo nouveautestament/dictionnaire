@@ -1,0 +1,1 @@
+lar[69339]=`<b>α, ον</b>, du dos, dorsal, HPC. <i>Aph. 1253</i> ; EUR. <i>El. 841</i> ; PLAT. <i>Tim. 77d, etc</i>.<p><b>Étym</b>. νῶτος.`

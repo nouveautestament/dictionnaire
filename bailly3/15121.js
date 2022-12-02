@@ -1,0 +1,1 @@
+lar[15121]=`<b>ἀρρενό·παις</b>, <i>gén</i>. <b>-παιδος (ὁ) :<br>      1</b> qui se compose d’enfants mâles, ANTH. <i>App. 384, 12</i> ; A. PL. <i>134</i>.<br><b>      2</b> qui a un garçon, ANTH. <i>5, 54</i>.<p><b>Étym</b>. ἄρρην, παῖς.`

@@ -1,0 +1,1 @@
+lar[52832]=`<b>εως (ἡ)</b> mensuration, mesure, AQU. <i>Job 28, 25</i> ; NYSS. <i>2, 628 ; particul. pour l’installation d’un camp,</i> POL. <i>6, 41, 5</i>.<p><b>Étym</b>. καταμετρέω.`

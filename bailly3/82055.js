@@ -1,0 +1,1 @@
+lar[82055]=`<b>πολυ·κώθων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> grand buveur, POLÉM. (ATH. <i>436d</i>).`

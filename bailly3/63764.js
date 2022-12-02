@@ -1,0 +1,1 @@
+lar[63764]=`<b>μελάγ·κραιρα, ας</b>, <i>adj. f</i>. à tête noire, <i>ép. de la sibylle de Cumes,</i> ARSTT. <i>Mir. 95</i> ; LYC. <i>1464</i>.`

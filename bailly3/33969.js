@@ -1,0 +1,1 @@
+lar[33969]=`<b>ἐν·απονίζομαι</b> <font color="darkgreen">(<i>seul. prés. et impf. 3 pl. ion</i>. ἐναπονιζέατο)</font> se laver dans, ἐν <i>et le dat</i>. HDT. <i>1, 138 ; 2, 172</i>.`

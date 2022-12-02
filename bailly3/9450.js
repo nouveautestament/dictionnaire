@@ -1,0 +1,1 @@
+lar[9450]=`<b>ἀντ·ανακλάω-ῶ</b>, réfléchir, répercuter (la lumière) PLUT. <i>M. 696a ;</i> SEXT. <i>M. 5, 82 ; p. anal. en parl. du son,</i> SPT. <i>Sap. 17, 19 ; t. de gr</i>. être réfléchi, DYSC. <i>Synt. p. 175 ; Pron. p. 294, 307, etc</i>.`

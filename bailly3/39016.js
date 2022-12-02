@@ -1,0 +1,1 @@
+lar[39016]=`<b>εως (ἡ)</b> obscurcissement, PLUT. <i>M. 932a, Per. 35, Nic. 23, etc.</i> ; PLOT. <i>Enn. 209</i>.<p><b>Étym</b>. ἐπισκοτέω.`

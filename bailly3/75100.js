@@ -1,0 +1,1 @@
+lar[75100]=`<b>παν·οικεί</b> <font color="purple">[ᾰ]</font> <i>adv</i>., avec toute la maison <i>ou</i> toute la famille, PHIL. <i>p. 357e</i>.<p><b>Étym</b>. π. οἶκος.`

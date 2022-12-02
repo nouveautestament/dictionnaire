@@ -1,0 +1,1 @@
+lar[21155]=`<b>γαζοφυλακέω-ῶ</b> <font color="purple">[ῠᾰ]</font> (<i>seul. prés</i>.), être gardien du trésor, DS. <i>17, 74</i>.<p><b>Étym</b>. γαζοφύλαξ.`

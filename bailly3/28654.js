@@ -1,0 +1,1 @@
+lar[28654]=`<b>ας (ἡ)</b> difficulté de digestion, SOR. <i>Obst. p. 140, 142 Erm</i>.<p><b>Étym</b>. δυσμετάβλητος.`

@@ -1,0 +1,1 @@
+lar[94940]=`<b>συν·απωθέω-ῶ</b>, repousser avec <i>ou</i> en même temps, LUC. <i>Tox. 19 ; au pass</i>. ARSTT. <i>Probl. 33, 18</i>.`

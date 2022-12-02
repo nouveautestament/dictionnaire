@@ -1,0 +1,1 @@
+lar[8065]=`<b>ου (ὁ)</b> fils <i>ou</i> descendant d’Androklès, DÉM. <i>1170, 15, etc</i>.<p>➳ <i>Dor</i>. -ας, XÉN. <i>Hell. 3, 5, 1 ; 5, 2, 31</i>.<p><b>Étym</b>. Ἀνδροκλῆς.`

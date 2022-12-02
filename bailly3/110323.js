@@ -1,0 +1,1 @@
+lar[110323]=`crase <i>ion. p</i>. ὁ ἀνήρ, HDT. <i>2, 51, etc</i>.`

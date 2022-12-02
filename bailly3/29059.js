@@ -1,0 +1,1 @@
+lar[29059]=`<b>δυωδεκά·μηνος, ος, ον</b> <font color="purple">[ῠᾰ]</font> âgé de douze mois, HÉS. <i>O. 750</i>.<p><b>Étym</b>. δ. μήν.`

@@ -1,0 +1,1 @@
+lar[3392]=`<b>ου (ὁ)</b> couronne de basilic, ATH. <i>680d</i>.<p><b>Étym</b>. ἄκινος.`

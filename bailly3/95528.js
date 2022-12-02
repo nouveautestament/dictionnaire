@@ -1,0 +1,1 @@
+lar[95528]=`<b>συν·εξέρχομαι :<br>      1</b> sortir <i>ou</i> partir avec, <i>dat</i>. HDT. <i>5, 74</i> ; EUR. <i>Hec. 1012</i> ; THC. <i>8, 61, etc. ; particul</i>. pour une expédition, XÉN. <i>Hell. 3, 4, 2</i>.<br><b>      2</b> <i>fig</i>. résulter avec, <i>dat</i>. SEXT. <i>M. 7, 421</i>.`

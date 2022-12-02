@@ -1,0 +1,1 @@
+lar[35622]=`<b>ἐξ·αρύω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> épuiser, ORPH. <i>Arg. 1119</i> ; PLUT. <i>M. 637f ; d’où</i> appauvrir : γαῖαν πλούτοιο, SIB. <i>3, 640,</i> la terre de ses trésors.<br><b>      2</b> exprimer, HPC. <i>Fract. 779</i>.`

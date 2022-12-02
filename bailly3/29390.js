@@ -1,0 +1,1 @@
+lar[29390]=`<b>ἐγγυ·θήκη</b>, <i>mieux que</i> <b>ἐγγυο·θήκη, ης (ἡ) :<br>      1</b> caisse, coffre, LUC. <i>Lex. 2</i>.<br><b>      2</b> armoire, buffet (<i>lat</i>. incitega) ATH. <i>210b</i>.<p><b>Étym</b>. ἐγγύς, θήκη.`

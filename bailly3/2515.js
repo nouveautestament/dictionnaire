@@ -1,0 +1,1 @@
+lar[2515]=`<b>ας (ἡ)</b> = <i>lat</i>. Ælia, <i>femme de Sylla,</i> PLUT. <i>Syll. 6</i>.`

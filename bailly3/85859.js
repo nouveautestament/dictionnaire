@@ -1,0 +1,1 @@
+lar[85859]=`<i>vb. de</i> προστίθημι, XÉN. <i>Mem. 2, 1, 2</i> ; PLAT. <i>Conv. 206a ;</i> ARSTT. <i>Nic. 1, 11, 15, etc</i>.`

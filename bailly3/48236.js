@@ -1,0 +1,1 @@
+lar[48236]=`<i>gén</i>. <b>Ἰᾶνος (ὁ)</b> <font color="purple">[ᾱ]</font> Ionien, ESCHL. <i>Pers. 949, 950, 1025</i>.<p><b>Étym</b>. <i>contr. de</i> Ἰάων.`

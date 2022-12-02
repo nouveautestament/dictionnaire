@@ -1,0 +1,1 @@
+lar[607]=`<font color="darkgreen">(<i>seul. prés., ao</i>. ἠγκαλισάμην, <i>pf</i>. ἠγκάλισμαι)</font> <font color="purple">[κᾰ]</font><br><b>      1</b> <i>dép</i>. prendre <i>ou</i> tenir dans ses bras, embrasser, SIM. AM. <i>Iamb. fr. 7, 77</i> ; LYC. <i>142, etc.</i><br><b>      2</b> <i>pass</i>. être embrassé, ES. <i>366 Halm</i>.<p><b>Étym</b>. ἀγκαλίς.`

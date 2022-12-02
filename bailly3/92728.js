@@ -1,0 +1,1 @@
+lar[92728]=`<b>ας (ἡ)</b> démangeaison de parler, bavardage, PHIL. <i>2, 219</i>.<p><b>Étym</b>. στόμαργος.`

@@ -1,0 +1,1 @@
+lar[31441]=`<i>adv</i>., d’après les rites ecclésiastiques, BAS. <i>3, 246c</i>.`

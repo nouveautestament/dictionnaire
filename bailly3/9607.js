@@ -1,0 +1,1 @@
+lar[9607]=`<b>ἀντ·ενεργέω-ῶ</b>, agir efficacement contre, <i>dat</i>. DIOSC. <i>Noth. p. 461</i>.`

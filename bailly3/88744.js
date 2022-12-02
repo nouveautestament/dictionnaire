@@ -1,0 +1,1 @@
+lar[88744]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> sorte de médecine, AÉT. <i>2, 68</i>.<p><b>Étym</b>. <i>dim. de</i> ῥοΐδιον.`

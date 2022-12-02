@@ -1,0 +1,1 @@
+lar[39717]=`<b>ἐπι·χρίμπτω :<br>      1</b> appuyer sur : τι ἐπί τι, BACCHYL. <i>fr. 24, 4,</i> une ch. sur une autre ; <i>d’où au pass</i>. s’appuyer sur, A.RH. <i>1, 1235</i>.<br><b>      2 <i>intr.</i></b> chercher à saisir, attaquer, OPP. <i>C. 2, 171</i>.`

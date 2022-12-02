@@ -1,0 +1,1 @@
+lar[26922]=`<b>δί·παις, αιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui a deux enfants, ESCHL. <i>Suppl. 318</i>.<br><b>      2</b> fait par deux enfants : δ. θρῆνος, ESCHL. <i>Ch. 335,</i> chant de deuil chanté par deux enfants.<p><b>Étym</b>. δίς, παῖς.`

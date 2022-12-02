@@ -1,0 +1,1 @@
+lar[17969]=`<b>ἀφ·έρπω</b> <font color="darkgreen">(<i>f</i>. -έρψω) :</font><br><b>      1</b> s’éloigner en rampant, <i>d’où</i> s’esquiver, SOPH. <i>O.C. 490 ; Tr. 813</i>.<br><b>      2</b> s’éloigner, s’en aller, <i>en gén</i>. SOPH. <i>Aj. 1162 ; fig</i>. mourir, PEMPEL. (STOB. <i>Fl. 95, 23).</i><p><b>Étym</b>. ἀπό, ἕρπω.`

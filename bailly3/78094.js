@@ -1,0 +1,1 @@
+lar[78094]=`<b>ου (τὸ)</b> Pentéleion (<i>auj</i>. près d’Archéa Feneós) <i>v. du nord de l’Arcadie,</i> PLUT. <i>Arat. 39, etc</i>.`

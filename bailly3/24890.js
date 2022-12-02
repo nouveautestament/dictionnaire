@@ -1,0 +1,1 @@
+lar[24890]=`<b>δια·κυρίττομαι</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) lutter à coups de cornes contre, <i>dat. au pr. et au fig</i>. SYN. <i>Calv. 13, 1192a Migne</i>.`

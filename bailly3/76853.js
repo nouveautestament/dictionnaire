@@ -1,0 +1,1 @@
+lar[76853]=`<b>παρ·ηθέω-ῶ</b>, passer à la chausse, filtrer, HPC. <i>267, 37 et 40</i>.<p><b>Étym</b>. π. ἠθέω.`

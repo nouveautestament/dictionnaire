@@ -1,0 +1,1 @@
+lar[18494]=`<b>ἄ·χολος, ος, ον :<br>      1 <i>intr</i></b>. sans bile, HPC. <i>Prorrh. 75b, etc.</i> ; ARSTT. <i>H.A. 2, 15, 11, etc. ; fig</i>. sans fiel, sans rancune, ALC. (ARSTT. <i>Pol. 3, 14</i>) ; PLUT. (EUS. <i>P.E. 84a</i>).<br><b>      2 <i>tr</i></b>. qui calme la bile, <i>càd</i>. la colère, OD. <i>4, 221</i>.<p><b>Étym</b>. ἀ, χολή.`

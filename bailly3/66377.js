@@ -1,0 +1,1 @@
+lar[66377]=`<b>όεντος (ὁ)</b> le Moloeis, <i>fl. de Béotie,</i> HDT. <i>9, 57</i>.`

@@ -1,0 +1,1 @@
+lar[17248]=`<b>(ὁ)</b> <i>seul. voc</i>. αὐξητά, qui accroît, qui féconde, ORPH. <i>H. 10, 11 ; 14, 8</i>.<p><b>Étym</b>. αὐξάνω.`

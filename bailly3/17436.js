@@ -1,0 +1,1 @@
+lar[17436]=`<b>αὐτό·δεκα</b>, <i>adv</i>., juste dix, précisément dix, THC. <i>5, 20</i>.`

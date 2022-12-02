@@ -1,0 +1,1 @@
+lar[49812]=`<i>(seul. prés.) c</i>. ἵστημι, ORPH. <i>Arg. 904</i> ; ATH. <i>115e ;</i> NT. <i>Rom. 3, 31</i>.`

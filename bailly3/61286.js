@@ -1,0 +1,1 @@
+lar[61286]=`<b>*λιπαρία</b>, <i>ion</i>. <b>λιπαρίη, ης (ἡ)</b> <font color="purple">[ῑπᾰ]</font> persistance, persévérance, HDT. <i>9, 21</i>.<p><b>Étym</b>. λιπαρής.`

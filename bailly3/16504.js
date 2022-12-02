@@ -1,0 +1,1 @@
+lar[16504]=`<b>ἀ·συνέργητος, ος, ον</b>, avec qui l’on n’agit pas, non aidé, PHILOD. <i>Œc. 24</i>.`

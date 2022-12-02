@@ -1,0 +1,1 @@
+lar[14134]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> interstice, intervalle, DS. <i>1, 39</i> ; PLUT. <i>M. 903e, 980c, etc.</i><br><b>      2</b> partie poreuse, HÉRON <i>Aut. 208</i>.<br><b>      3</b> petit morceau, LGN <i>10, 12</i>.<p><b>Étym</b>. ἀραιόω.`

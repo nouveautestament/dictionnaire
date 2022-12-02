@@ -1,0 +1,1 @@
+lar[11236]=`<b>ἀπ·αναγκάζω</b> <font color="purple">[ᾰν]</font> détourner par la force, HPC. <i>792c</i>.`

@@ -1,0 +1,1 @@
+lar[26186]=`<i>part. ao.2 neutre de</i> διΐημι.`

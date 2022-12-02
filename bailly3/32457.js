@@ -1,0 +1,1 @@
+lar[32457]=`<b>ἐλαιό·γαρον, ου (τὸ)</b> mélange d’huile et de saumure, AÉT. <i>3, 100</i>.<p><b>Étym</b>. ἔ. γάρον.`

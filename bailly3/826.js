@@ -1,0 +1,1 @@
+lar[826]=`<b>Ἀγορ·άναξ, ακτος (ὁ)</b> <font color="purple">[ᾰᾱν]</font> Agoranax, <i>poète de Rhodes,</i> ANTH. <i>7, 311</i>.<p><b>Étym</b>. ἀγ. ἄν.`

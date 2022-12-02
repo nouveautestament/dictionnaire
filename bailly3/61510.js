@@ -1,0 +1,1 @@
+lar[61510]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> composition en prose ; <i>particul</i>. composition d’un discours, PLAT. <i>Phædr. 257e, 258b.</i><br><b>      2</b> composition d’un discours pour autrui, DÉMAD. <i>179, 26</i>.<p><b>Étym</b>. λογογράφος.`

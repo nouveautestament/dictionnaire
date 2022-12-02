@@ -1,0 +1,1 @@
+lar[27177]=`<b>οῦ (ὁ)</b> <i>fausse étymologie de</i> δικαστής (<i>litt</i>. qui tranche les contestations) ARSTT. <i>Nic. 5, 4, 9</i>.<p><b>Étym</b>. διχάζω.`

@@ -1,0 +1,1 @@
+lar[61284]=`<b>εως (ἡ)</b> <font color="purple">[ῑᾰ]</font> prière instante, DH. <i>1, 81</i>.<p><b>Étym</b>. λιπαρέω.`

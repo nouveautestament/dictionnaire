@@ -1,0 +1,1 @@
+lar[61314]=`<b>λιπεσ·άνωρ, ορος</b> <font color="purple">[ῐᾱ]</font> <i>adj. f</i>. qui abandonne son époux, STÉSICH. <i>fr. 35</i>.<p><b>Étym</b>. λείπω, ἀνήρ.`

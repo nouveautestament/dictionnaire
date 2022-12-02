@@ -1,0 +1,1 @@
+lar[81973]=`<b>πολύ·κενος, ος, ον</b> <font color="purple">[ῠ]</font> aux nombreuses lacunes <i>ou</i> aux grands espaces vides, ARSTT. <i>Probl. 25, 22</i> ; EPIC. (DL. <i>10, 89).</i><p><b>Étym</b>. π. κενός.`

@@ -1,0 +1,1 @@
+lar[39466]=`<b>ἐπι·τραγίας, ου</b> <font color="purple">[ᾰγ]</font> <i>adj. m</i>. (ὁ) <i>s.-e</i>. ἰχθύς, ARSTT. <i>H.A. 4, 11, 7,</i> poisson très gras et sans œufs <i>ou</i> stérile.<p><b>Étym</b>. ἐπί, τράγος.`

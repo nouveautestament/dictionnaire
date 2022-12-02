@@ -1,0 +1,1 @@
+lar[27955]=`<b>όεσσα, όεν</b> : humide de rosée (plaine, terre, <i>etc</i>.) A.RH. <i>1, 1282</i> ; TRIPHIOD. <i>154</i> ; COL. <i>343</i> ; NONN. <i>D. 44, 221 ; p. anal</i>. humide, frais, tendre (lèvre) ANTH. <i>5, 270 ; en gén</i>. frais (bain, EUR. <i>Tr. 833</i> ; fleuve, COL. <i>316).</i><p><b>Étym</b>. δρόσος.`

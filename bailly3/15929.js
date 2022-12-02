@@ -1,0 +1,1 @@
+lar[15929]=`<b>οῦ (ὁ) :<br>      1</b> celui qui pratique un art, qui exerce une profession, <i>p. opp. à</i> ἰδιώτης, XÉN. <i>Cyr. 1, 5, 11</i> ; DH. IS. <i>2</i>.<br><b>      2</b> <i>part</i>. athlète, AR. <i>Pl. 585</i> ; PLAT. <i>Rsp. 403e</i>.<p><b>Étym</b>. ἀσκέω.`

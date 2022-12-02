@@ -1,0 +1,1 @@
+lar[57354]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de la contenance d’un cotyle, A. CAR. (ATH. <i>420a</i>) ; DL. <i>2, 139, etc</i>.<p><b>Étym</b>. κοτύλη.`

@@ -1,0 +1,1 @@
+lar[79318]=`<i>att</i>. <b>περίττευμα, ατος (τὸ) :<br>   I</b> ce qui est en plus, <i>d’où</i> :<br><b>      1</b> surplus, reste, NT. <i>Marc. 8, 8</i>.<br><b>      2</b> excrément, PLUT. <i>M. 962e.</i><br><b>   II</b> ce qui est en trop, excès, surabondance, ARSTT. <i>fr. 259</i> ; NT. <i>Matth. 12, 34, etc</i>.<p><b>Étym</b>. περισσεύω.`

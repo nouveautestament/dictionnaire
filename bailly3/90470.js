@@ -1,0 +1,1 @@
+lar[90470]=`<b>έως (ὁ)</b> <font color="purple">[ῑῠ]</font> Sisyphée, <i>càd</i>. fourbe, LYC. <i>980</i>.<p><b>Étym</b>. Σίσυφος.`

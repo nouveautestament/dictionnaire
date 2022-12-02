@@ -1,0 +1,1 @@
+lar[64248]=`<b>ου (ὁ)</b> = <i>lat</i>. Memmius, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 29, Luc. 38, etc</i>.`

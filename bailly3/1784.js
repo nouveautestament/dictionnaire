@@ -1,0 +1,1 @@
+lar[1784]=`<b>ἀερο·κάρδαξ, ακος (ὁ)</b> <font color="purple">[ᾱε]</font> batailleur aérien, LUC. <i>V.H. 1, 46</i>.<p><b>Étym</b>. <i>conj. p</i>. ἀεροκόρδαξ.`

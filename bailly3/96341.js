@@ -1,0 +1,1 @@
+lar[96341]=`<b>συν·τίνω</b>, payer ensemble <i>ou</i> également, THÉM. <i>461, 22 Dind</i>.`

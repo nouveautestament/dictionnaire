@@ -1,0 +1,1 @@
+lar[104545]=`<b>ὑψι·φόρητος, ος, ον</b> <font color="purple">[ῐ]</font> qui se porte en haut, qui va haut, SYN. <i>Hymn. 36</i> ; PROCL. <i>4, 14</i>.<p><b>Étym</b>. ὕ. φορέω.`

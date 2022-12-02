@@ -1,0 +1,1 @@
+lar[68785]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. νίκη, ORPH. <i>Arg. 585</i> ; A. PL. <i>5, 381</i> ; SPT. <i>Esdr. 3, 9</i> ; NT. <i>Matth. 12, 20</i>.`

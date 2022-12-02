@@ -1,0 +1,1 @@
+lar[48490]=`<font color="darkgreen">(<i>ao. pass</i>. ἱδρύνθην)</font> <i>c</i>. ἱδρύω, IL. <i>3, 77</i> ; HPC. <i>72f, 1115a</i>.`

@@ -1,0 +1,1 @@
+lar[51471]=`<b>ου (ὁ)</b> vase pour l’huile, SPT. <i>Judith 10, 5</i>.<p><b>Étym</b>. κάμπτω.`

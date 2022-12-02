@@ -1,0 +1,1 @@
+lar[59426]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> petit levreau, PHIL. <i>1, 318, etc</i>.<p><b>Étym</b>. λαγῴδιον.`

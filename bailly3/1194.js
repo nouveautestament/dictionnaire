@@ -1,0 +1,1 @@
+lar[1194]=`<i>dor. c</i>. ἡδεῖα, <i>sg. fém. ou c</i>. ἡδέα, <i>pl. neutre de</i> ἡδύς.`

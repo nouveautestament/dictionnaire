@@ -1,0 +1,1 @@
+lar[43648]=`<b>ας (ἡ) :<br>      1</b> versatilité, PLUT. <i>M. 500d.</i><br><b>      2</b> bonnes dispositions, bon caractère, DÉMOCR. (STOB. <i>Fl. 86, 18, t. 3, p. 157, l. 2</i>) ; PHIL. <i>2, 399</i>.<p><b>Étym</b>. εὔτροπος.`

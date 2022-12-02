@@ -1,0 +1,1 @@
+lar[108177]=`<b>ή, όν :<br>      1</b> qui concerne les arts manuels, PLAT. <i>Rsp. 425d ;</i> ἡ χειροτεχνική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 259c</i>, l’industrie des arts manuels ; <i>au pl</i>. PLAT. <i>Phil. 55d.</i><br><b>      2</b> habile dans un art manuel, AR. <i>Vesp. 1276</i>.<p>•<i> Sup</i>. -ώτατος, AR. <i>l. c</i>.<p><b>Étym</b>. χειροτέχνης.`

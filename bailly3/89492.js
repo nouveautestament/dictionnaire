@@ -1,0 +1,1 @@
+lar[89492]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Saron, Saronique (golfe) <i>près de Trœzène,</i> ESCHL. <i>Ag. 306</i> ; EUR. <i>Hipp. 1200</i> ; CALL. <i>H. 4, 42</i>.`

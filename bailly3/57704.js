@@ -1,0 +1,1 @@
+lar[57704]=`<b>ου (τὸ) :<br>      1</b> table où l’on étend les viandes, IL. <i>9, 206</i>.<br><b>      2</b> viande, EUPH. <i>fr. 133 Mein</i>.<p><b>Étym</b>. κρέας.`

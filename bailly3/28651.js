@@ -1,0 +1,1 @@
+lar[28651]=`<b>ή, όν</b>, hostile, ennemi, <i>en parl. de choses,</i> POL. <i>6, 7, 8 ; 16, 22, 8</i>.<p>➳ <i>• Cp</i>. -ώτερος, POL. <i>15, 3, 1</i>.<p><b>Étym</b>. δυσμενής.`

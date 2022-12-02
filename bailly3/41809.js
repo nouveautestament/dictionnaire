@@ -1,0 +1,1 @@
+lar[41809]=`<b>εὔ·γραφος, ος, ον</b> <font color="purple">[ᾰ]</font> bien écrit <i>ou</i> dessiné, P. SIL. <i>Ecphr. amb. 97</i>.<p><b>Étym</b>. εὖ, γράφω.`

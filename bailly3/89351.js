@@ -1,0 +1,1 @@
+lar[89351]=`<b>σαπρό·κνημος, ος, ον</b> <font color="purple">[ᾰ]</font> (ulcère) avec suppuration à la jambe, DIOSC. <i>4, 184</i>.<p><b>Étym</b>. σαπρός, κνήμη.`

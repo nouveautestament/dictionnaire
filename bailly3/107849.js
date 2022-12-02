@@ -1,0 +1,1 @@
+lar[107849]=`<b>ῶνος (ὁ)</b> <font color="purple">[χᾰ]</font> lieu entrecoupé de ravins, NAZ. <i>Ep. 4, 6</i> ; HDN GR. <i>Epim. p. 199 Boissonade</i>.<p><b>Étym</b>. χαράδρα.`

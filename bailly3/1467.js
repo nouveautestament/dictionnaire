@@ -1,0 +1,1 @@
+lar[1467]=`<b>ᾁδο·βάτης, ου (ὁ)</b> <font color="purple">[ᾱͅᾰ]</font> qui va dans la demeure d’Hadès, <i>càd</i>. dans les enfers, ESCHL. <i>Pers. 924 conj</i>.<p><b>Étym</b>. ᾍδης, βαίνω.`

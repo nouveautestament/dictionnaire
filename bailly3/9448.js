@@ -1,0 +1,1 @@
+lar[9448]=`<b>ή, όν</b>, qui se réfléchissent mutuellement, réciproques, <i>en parl. de certains pronoms,</i> GRAMM.<p><b>Étym</b>. ἀντανακλάω.`

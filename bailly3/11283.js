@@ -1,0 +1,1 @@
+lar[11283]=`<i>adv</i>., toutes les fois, DYSC. <i>Conj. 546, 9 ; Adv. 595, 33, etc. ; Synt. 138, 2 ; 150, 6, etc</i>.<p><b>Étym</b>. ἅπας, -τε.`

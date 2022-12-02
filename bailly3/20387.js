@@ -1,0 +1,1 @@
+lar[20387]=`<b>βού·κεντρον, ου (τὸ)</b> aiguillon pour les bœufs, NAZ. <i>1, 891b</i>.<p><b>Étym</b>. βοῦς, κέντρον.`

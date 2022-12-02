@@ -1,0 +1,1 @@
+lar[29987]=`<b>ου (ὁ)</b> officier de bouche à la cour de Perse, chargé de goûter le premier les mets et de régler le service de la table, PHYLARQ. <i>fr. 43</i> ; Ps.-ZONAR. <i>612</i> ; EM. <i>315</i>.<p><b>Étym</b>. <i>inconnue ; cf</i>. ἐλέατρος, <i>influencé par</i> ἔδω.`

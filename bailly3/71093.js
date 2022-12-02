@@ -1,0 +1,1 @@
+lar[71093]=`<b>ὀλιγόω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1 <i>tr.</i></b> rapetisser, amoindrir, SIB. <i>1, 321</i>.<br><b>      2 <i>intr.</i></b> tomber en défaillance, EUM. <i>341</i>.<p><b>Étym</b>. ὀλίγος.`

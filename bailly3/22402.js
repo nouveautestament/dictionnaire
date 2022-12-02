@@ -1,0 +1,1 @@
+lar[22402]=`<b>ῶν (οἱ)</b> Golgi, <i>v. de Chypre,</i> LYC. <i>589</i> ; PAUS. <i>8, 5, 2</i>.<p>➳ <i>Acc. dor</i>. Γολγώς, THCR. <i>Idyl. 15, 100</i>.`

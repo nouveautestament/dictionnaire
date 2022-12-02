@@ -1,0 +1,1 @@
+lar[16318]=`<b>ἀστροθετέω-ῶ</b>, déterminer la position des astres, STR. <i>3</i>.<p><b>Étym</b>. ἀστρόθετος.`

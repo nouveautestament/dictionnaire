@@ -1,0 +1,1 @@
+lar[75312]=`<b>παν·υπέρτατος, η, ον</b> <font color="purple">[ᾰῠᾰ]</font><br><b>      1</b> le plus haut de tous, OD. <i>9, 25</i> ; ARSTT. <i>Mund. 5, 9</i>.<br><b>      2</b> le plus profond de tous, A.RH. <i>1, 1122</i>.<p>➳ <i>Fém</i>. -ος, ORPH. <i>H. 18, 2</i>.<p><b>Étym</b>. π. ὑπέρτατος.`

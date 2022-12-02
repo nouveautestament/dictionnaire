@@ -1,0 +1,1 @@
+lar[73078]=`<b>ὀρτυγο·μήτρα, ας (ἡ)</b> <font color="purple">[ῠ]</font> râle, <i>propr</i>. « reine des cailles », <i>oiseau,</i> ATH. <i>392f ;</i> SPT. <i>Ex. 16, 13 ; Num. 11, 31, etc. ; surn. com. de Latone,</i> AR. <i>Av. 872</i>.<p><b>Étym</b>. ὄρτυξ, μήτρα.`

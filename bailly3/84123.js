@@ -1,0 +1,1 @@
+lar[84123]=`<b>προ·εκφωνέω-ῶ :<br>      1</b> prononcer <i>ou</i> dire avant, SEXT. <i>M. 1, 125</i>.<br><b>      2</b> publier auparavant, NYSS.`

@@ -1,0 +1,1 @@
+lar[83840]=`<b>προ·γαργαλίζω</b> <font color="purple">[ᾰλ]</font> chatouiller auparavant, ARSTT. <i>Nic. 7, 7, 8</i>.`

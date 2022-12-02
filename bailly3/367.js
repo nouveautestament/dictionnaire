@@ -1,0 +1,1 @@
+lar[367]=`<b>οῦ (ὁ)</b> descendant d’Agar, <i>Arabe,</i> SPT. <i>1Par. 5, 19 ; Ps. 82, 7</i>.`

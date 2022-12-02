@@ -1,0 +1,1 @@
+lar[83495]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> prélude d’un combat <i>ou</i> escarmouche avant un combat, APP. <i>Syr. 22</i>.<p><b>Étym</b>. προαγωνίζομαι.`

@@ -1,0 +1,1 @@
+lar[88332]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> aiguille, poinçon, ARCHIPP. (<i>Com. fr. 2, 725</i>) ; ANTH. <i>11, 110</i>.<br><b>      2</b> aiguille, <i>poisson de mer,</i> ARSTT. <i>fr. 278</i> ; OPP. <i>H. 1, 172</i>.<p><b>Étym</b>. ῥάπτω.`

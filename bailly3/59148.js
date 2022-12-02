@@ -1,0 +1,1 @@
+lar[59148]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> qui a la vertu <i>ou</i> le pouvoir d’empêcher, <i>gén</i>. DH. <i>11, 62</i>.<p><b>Étym</b>. κωλύω.`

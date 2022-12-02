@@ -1,0 +1,1 @@
+lar[87169]=`<b>Πρωτεσί·λαος, ου (ὁ)</b> <font color="purple">[ῐᾱ]</font> Prôtésilaos (Protésilas) <i>chef des Thessaliens devant Troie,</i> IL. <i>2, 698, etc.</i> ; PD. <i>I. 1, 83</i> ; EUR. <i>I.A. 195, etc</i>.<p>➳ <i>Ion</i>. Πρωτεσίλεως, HDT. <i>7, 33, etc. ; dor</i>. Πρωτεσίλας <font color="purple">[ᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. πρ. λαός.`

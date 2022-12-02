@@ -1,0 +1,1 @@
+lar[102600]=`<b>ὑπερ·κολακεύω</b> <font color="purple">[ᾰ]</font> flatter sans mesure, bassement, DÉM. <i>391, 19</i> ; DC. <i>44, 7, etc</i>.`

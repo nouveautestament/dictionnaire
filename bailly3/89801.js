@@ -1,0 +1,1 @@
+lar[89801]=`<b>ας (ἡ)</b> air grave et digne, DL. <i>8, 36</i> ; SYN. <i>266b, etc</i>.<p><b>Étym</b>. σεμνοπρεπής.`

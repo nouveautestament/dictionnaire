@@ -1,0 +1,1 @@
+lar[32680]=`<b>ου (τὸ)</b> aunée, <i>sorte de plante,</i> CHÆRÉM. (ATH. <i>608c</i>) ; DIOSC. <i>1, 27 et 28</i>.`

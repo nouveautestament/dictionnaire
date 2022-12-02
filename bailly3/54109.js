@@ -1,0 +1,1 @@
+lar[54109]=`<b>κατ·οιμώζω</b>, gémir sur, déplorer, EUR. <i>Andr. 1160</i>.`

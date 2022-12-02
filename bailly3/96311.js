@@ -1,0 +1,1 @@
+lar[96311]=`<font color="purple">[ᾰ]</font> couper par morceaux avec, THÉM. <i>Par. 1, p. 406, l. 15</i>.`

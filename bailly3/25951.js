@@ -1,0 +1,1 @@
+lar[25951]=`<b>δια·ψαίρω :<br>   I <i>tr</i>.<br>      1</b> disperser d’un souffle, <i>acc</i>. AR. <i>Av. 1717</i>.<br><b>      2</b> secouer, agiter, <i>en parl. du vent,</i> HERMIPP. (SUID. <i>v°</i> ἀνθέων).<br><b>      3</b> gratter à travers, fouiller, <i>acc. en parl. d’oiseaux,</i> OPP. <i>H. 2, 115</i>.<br><b>   II <i>intr.</i></b> se disperser, NIC. <i>Al. 127</i>.`

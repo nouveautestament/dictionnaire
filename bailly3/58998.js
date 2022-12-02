@@ -1,0 +1,1 @@
+lar[58998]=`<b>κυρτο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font> marcher courbé, CHRYS. <i>2, 792 Migne</i>.<p><b>Étym</b>. κυρτός, βαίνω.`

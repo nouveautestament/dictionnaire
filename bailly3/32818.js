@@ -1,0 +1,1 @@
+lar[32818]=`<b>οῦντος (ὁ)</b> Hélikunte, <i>v. d’Arcadie,</i> PLUT. <i>Cleom. 23</i>.<p><b>Étym</b>. <i>contract. de</i> *ἑλικόεις, <i>cf</i>. ἑλικός.`

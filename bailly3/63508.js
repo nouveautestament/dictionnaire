@@ -1,0 +1,1 @@
+lar[63508]=`<b>μεγα·σθενής, ής, ές</b>, <i>c</i>. μεγαλοσθενής, <i>en parl. des dieux,</i> PD. <i>O. 1, 25</i> ; ESCHL. <i>Eum. 61, etc. ; d’un oracle,</i> ESCHL. <i>Ch. 270, etc</i>.<p><b>Étym</b>. μέγας, σθένος.`

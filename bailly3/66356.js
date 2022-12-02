@@ -1,0 +1,1 @@
+lar[66356]=`<b>μολιβδό·χρους (ὁ, ἡ)</b> qui est couleur de plomb, DIOSC. <i>5, 100</i>.<p><b>Étym</b>. <i>cf</i>. μολιβδόχρως.`

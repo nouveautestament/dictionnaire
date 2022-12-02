@@ -1,0 +1,1 @@
+lar[13567]=`<b>ἀπο·τελειόω-ῶ</b>, faire venir à maturité, ARSTT. <i>H.A. 6, 22, 11</i>.`

@@ -1,0 +1,1 @@
+lar[32573]=`<b>ἐλαφο·σσοΐη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion</i>. chasse au cerf, ANTH. <i>6, 253</i>.<p><b>Étym</b>. ἔ. σεύω.`

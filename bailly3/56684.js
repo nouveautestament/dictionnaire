@@ -1,0 +1,1 @@
+lar[56684]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. κολοκασία DIPH. SIPHN. (ATH. <i>73a</i>).`

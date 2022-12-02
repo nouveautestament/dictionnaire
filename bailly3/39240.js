@@ -1,0 +1,1 @@
+lar[39240]=`<b>ἐπι·συνθήκη, ης (ἡ)</b> <i>d’ord. au pl</i>. article additionnel à une convention, POL. <i>3, 27, 7</i>.`

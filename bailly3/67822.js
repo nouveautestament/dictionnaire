@@ -1,0 +1,1 @@
+lar[67822]=`<i>gén. épq</i>. <b>ῆος (ὁ)</b> Nautée, <i>Phéacien,</i> OD. <i>8, 112</i>.<p><b>Étym</b>. ναῦς.`

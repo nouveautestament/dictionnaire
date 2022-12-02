@@ -1,0 +1,1 @@
+lar[73066]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> petit oiseau, <i>ou, en gén.,</i> petit d’un animal, jeune animal, NIC. <i>Al. 295</i>.<p><b>Étym</b>. ὄρνυμι ; <i>cf</i>. ὀρταλιχεύς, ὀρτάλιχος.`

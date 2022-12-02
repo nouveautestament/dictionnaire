@@ -1,0 +1,1 @@
+lar[73369]=`<i>voc</i>. <b>-η (ὁ)</b> Otanès, <i>Perse,</i> HDT. <i>3, 67, etc</i>.`

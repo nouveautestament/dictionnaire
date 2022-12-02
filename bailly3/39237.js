@@ -1,0 +1,1 @@
+lar[39237]=`<b>ή, όν</b>, qui compose, qui combine, GAL. <i>2, 235</i> ; οἱ ἐπισυνθετικοί, POL. <i>2, 36, 3,</i> les (médecins) qui combinent des doctrines différentes, les médecins éclectiques.<p><b>Étym</b>. ἐπισύνθετος.`

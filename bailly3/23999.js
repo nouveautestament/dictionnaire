@@ -1,0 +1,1 @@
+lar[23999]=`<b>ιδος</b>, <i>adj. f</i>. prisonnière, captive, SOPH. <i>Aj. 234</i> ; HLD. <i>8, 8</i> ; ἡ δ. STR. <i>265,</i> la captive.<p><b>Étym</b>. <i>fém. de</i> δεσμώτης.`

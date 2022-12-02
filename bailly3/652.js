@@ -1,0 +1,1 @@
+lar[652]=`<b>ἀγκυλ·όδους, -όδοντος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> à la dent crochue, Q. SM. <i>6, 218</i> ; ANTH. <i>3, 50</i>.<p><b>Étym</b>. ἀγκ. ὀδούς.`

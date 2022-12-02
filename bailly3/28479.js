@@ -1,0 +1,1 @@
+lar[28479]=`<b>δυσ·ημής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. δυσεμής, HPC. <i>Aph. 1249</i>.`

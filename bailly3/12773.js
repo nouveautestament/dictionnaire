@@ -1,0 +1,1 @@
+lar[12773]=`<b>ἀπο·λιμπάνω</b> (<i>seul. prés. et impf.) c</i>. ἀπολείπω, LUC. <i>Cat. 7, etc. ; au pass</i>. PLUT. <i>Them. 10</i>.`

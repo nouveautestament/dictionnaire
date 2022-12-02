@@ -1,0 +1,1 @@
+lar[107403]=`<b>ος, ον</b>, qui a une forte voix, EUP. (SCH.-AR. <i>Av. 42).</i><p><b>Étym</b>. φωνή.`

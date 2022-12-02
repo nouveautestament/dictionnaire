@@ -1,0 +1,1 @@
+lar[61141]=`<font color="purple">[λῐ]</font> former un port, POLYEN <i>4, 7, 7</i>.<p><b>Étym</b>. λιμήν.`

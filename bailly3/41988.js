@@ -1,0 +1,1 @@
+lar[41988]=`<b>εὐ·έντρεπτος, ος, ον</b>, qui se laisse facilement intimider, PTOL. <i>Tetr. p. 159</i>.<p><b>Étym</b>. εὖ, ἐντρέπω.`

@@ -1,0 +1,1 @@
+lar[76599]=`<b>παρ·εισρέω</b>, s’infiltrer de côté <i>ou</i> d’une façon imperceptible, se glisser dans : εἴς τι, ARSTT. <i>P.A. 3, 3, 6</i> ; PLUT. <i>Lyc. 27,</i> dans qqe ch. ; πρός τι, PLUT. <i>Lyc. 17,</i> auprès de qqe ch.`

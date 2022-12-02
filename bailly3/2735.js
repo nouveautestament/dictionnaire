@@ -1,0 +1,1 @@
+lar[2735]=`<b>ου (ὁ)</b> scare, <i>poisson de mer,</i> PLAT. COM. (ATH. <i>5c</i>).<p>➳ <i>Acc. ion</i>. -ίην, NUMÉN. (ATH. <i>308e</i>).<p><b>Étym</b>. αἰόλος.`

@@ -1,0 +1,1 @@
+lar[70539]=`<b>οἰνό·μελι, ιτος (τὸ)</b> <font color="purple">[ῐ]</font> mélange de vin et de miel, ANTH. <i>12, 164</i> ; POL. <i>12, 2, 7</i> ; DIOSC. <i>5, 16</i>.<p><b>Étym</b>. οἶν. μέλι.`

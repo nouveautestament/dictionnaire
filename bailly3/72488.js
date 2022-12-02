@@ -1,0 +1,1 @@
+lar[72488]=`<b>ὀπωροφορέω-ῶ</b>, produire (<i>propr</i>. porter des fruits) ANTH. <i>6, 252</i>.<p><b>Étym</b>. ὀπωροφόρος.`

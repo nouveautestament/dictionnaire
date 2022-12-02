@@ -1,0 +1,1 @@
+lar[40173]=`<b>ους (ὁ)</b> Ergaménès, <i>h</i>. IS. <i>6, 10 et 44 Baiter-Sauppe</i>.`

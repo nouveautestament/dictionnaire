@@ -1,0 +1,1 @@
+lar[98369]=`<b>ου (ὁ)</b> sorte de gâteau, CHRYSIPP. TYAN. (ATH. <i>647c</i>).`

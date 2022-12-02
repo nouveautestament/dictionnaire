@@ -1,0 +1,1 @@
+lar[32809]=`<b>ου (ὁ)</b> <font color="purple">[ῐκ]</font> sorte d’éclair en spirale, ARSTT. <i>Mund. 4, 20</i>.<p><b>Étym</b>. ἕλιξ.`

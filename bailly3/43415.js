@@ -1,0 +1,1 @@
+lar[43415]=`<i>adv</i>., d’une manière claire <i>ou</i> évidente, ARSTT. <i>Meteor. 2, 6, 2</i> ; STR. <i>460</i> ; PLUT. <i>M. 1019a</i>.<p>•<i> Sup</i>. εὐσημότατα, PLUT. <i>M. 1022a</i>.`

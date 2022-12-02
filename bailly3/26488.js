@@ -1,0 +1,1 @@
+lar[26488]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> <i>c</i>. δικαιοπραγία Ps.-HÉRACLITE ÉPH. <i>Ep. 2</i> (DL. <i>9, 14).</i><p><b>Étym</b>. *δικαιοπράγμων, <i>de</i> δ. πράσσω.`

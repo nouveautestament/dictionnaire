@@ -1,0 +1,1 @@
+lar[40819]=`<b>υκος (ὁ)</b> <font color="purple">[ῠ]</font> Éryx :<br><b>      1</b> <i>mt de Sicile (auj</i>. Erice) POL. <i>1, 55 ; 2, 7</i> ; STR. <i>272</i>.<br><b>      2</b> <i>v. de Sicile,</i> HDT. <i>5, 43</i> ; THC. <i>6, 2 et 46</i> ; POL. <i>1, 55</i> ; A.RH. <i>4, 915, etc</i>.`

@@ -1,0 +1,1 @@
+lar[19794]=`<b>ης (ἡ)</b> Birkenna, <i>n. de f. illyrien,</i> PLUT. <i>Pyrrh. 9</i>.`

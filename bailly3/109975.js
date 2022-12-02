@@ -1,0 +1,1 @@
+lar[109975]=`<b>ψυχο·λιπής, ής, ές</b> <font color="purple">[ῡῐ]</font> que le souffle abandonne, inanimé, A. PL. <i>266</i> ; MAX. <i>π. κατ. 227</i>.<p><b>Étym</b>. ψ. λείπω.`

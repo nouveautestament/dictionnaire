@@ -1,0 +1,1 @@
+lar[22570]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petit écrit (lettre, livre de comptes, <i>etc</i>.) DÉM. <i>1268, 14 ; 1283, 4</i> ; MÉN. (PHOT. <i>v</i>° παράστασις, <i>p. 115 Mein</i>.).<p><b>Étym</b>. <i>dim. de</i> γραμματεῖον.`

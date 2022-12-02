@@ -1,0 +1,1 @@
+lar[61579]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite injure, AR. <i>fr. 64</i>.<p><b>Étym</b>. <i>dim. de</i> λοιδόρημα.`

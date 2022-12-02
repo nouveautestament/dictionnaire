@@ -1,0 +1,1 @@
+lar[54108]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> pitié, compassion, XÉN. <i>Cyr. 6, 1, 47</i>.<p><b>Étym</b>. κατοικτίζω.`

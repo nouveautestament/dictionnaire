@@ -1,0 +1,1 @@
+lar[74150]=`<b>παγο·πληξία, ας (ἡ)</b> <font color="purple">[πᾰ]</font> <i>propr</i>. « atteinte de gelée », <i>maladie des animaux qui ont les pieds gelés,</i> HIPPIATR.<p><b>Étym</b>. πάγος, πλήσσω.`

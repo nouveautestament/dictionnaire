@@ -1,0 +1,1 @@
+lar[33833]=`<b>ἐν·άλδομαι</b> (<i>seul. prés</i>.) croître dans, <i>dat</i>. NIC. <i>Al. 532</i>.`

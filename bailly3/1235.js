@@ -1,0 +1,1 @@
+lar[1235]=`<b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion</i>. fraternité, <i>fig</i>. affinité, étroite analogie, HPC. <i>Art. 823</i>.<p><b>Étym</b>. ἀδελφίζω.`

@@ -1,0 +1,1 @@
+lar[84748]=`<b>ῆς (ἡ)</b> <i>d’ord. au pl.</i> :<br><b>      1</b> entrée, avenue, A.RH. <i>1, 1174 ; d’ord. au pl</i>. A.RH. <i>1, 260, etc.</i><br><b>      2</b> saillie, pied d’une montagne, ANTH. <i>7, 9</i> ; CALL. <i>Dian. 142</i>.<br><b>      3</b> sommet d’une montagne, ANTH. <i>7, 246</i>.<p><b>Étym</b>. προμολεῖν.`

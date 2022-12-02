@@ -1,0 +1,1 @@
+lar[95806]=`<b>συν·ευνάζω</b>, unir, marier, APD. <i>2, 4, 10</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. συνηυνάσθην)</font> s’unir à, <i>dat</i>. SOPH. <i>O.R. 982</i> ; LUC. <i>As. 52 ; abs</i>. PD. <i>P. 4, 452</i>.`

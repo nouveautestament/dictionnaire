@@ -1,0 +1,1 @@
+lar[93345]=`<b>συγ·καταπίμπλημι</b>, remplir ensemble <i>ou</i> en même temps, ANT. <i>116, 13</i>.`

@@ -1,0 +1,1 @@
+lar[93506]=`<b>συγ·κονιόομαι-οῦμαι</b>, se rouler ensemble dans la poussière, <i>càd</i>. combattre ensemble, PLUT. <i>M. 52b, 97a ;</i> M. TYR. <i>7, 6</i>.<p><b>Étym</b>. σ. κονιόω.`

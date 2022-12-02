@@ -1,0 +1,1 @@
+lar[91739]=`<b>ου (ὁ)</b> Sparamizès, <i>Perse,</i> PLUT. <i>Artax. 15</i>.`

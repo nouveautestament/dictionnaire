@@ -1,0 +1,1 @@
+lar[52279]=`<b>κατα·δακρύω :<br>      1</b> verser des larmes, pleurer, EUR. <i>Hel. 697</i> ; PLUT. <i>Cæs. 41</i> ; τι, XÉN. <i>Cyr. 5, 4, 31,</i> qqe ch.<br><b>      2</b> faire pleurer, APP. <i>Lib. 70 ; Civ. 4, 94</i>.`

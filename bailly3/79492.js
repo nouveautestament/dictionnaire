@@ -1,0 +1,1 @@
+lar[79492]=`<b>περι·τιμήεις, ήεσσα, ῆεν</b> <font color="purple">[τῑ]</font> tout à fait honoré, HH. <i>Ap. 65</i>.<p><b>Étym</b>. π. τιμή.`

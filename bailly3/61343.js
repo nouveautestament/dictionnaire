@@ -1,0 +1,1 @@
+lar[61343]=`<b>λιπό·νεως</b>, <i>mieux que</i> <b>λειπό·νεως, ω (ὁ)</b> matelot déserteur, DÉM. <i>1226, 15</i> ; LUC. <i>Cat. 3, Char. 1</i>.<p><b>Étym</b>. λ. ναῦς.`

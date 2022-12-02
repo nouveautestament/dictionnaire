@@ -1,0 +1,1 @@
+lar[70227]=`<b>οῦ (ἡ)</b> <i>î. ou, sel. d’autres, v. de Sicile,</i> LYC. <i>1027, 1034</i>.`

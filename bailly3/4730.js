@@ -1,0 +1,1 @@
+lar[4730]=`<i>adv</i>., allégoriquement, D. PHAL. <i>254</i> ; Ps.-PLUT. <i>V. Hom. 102</i>.`

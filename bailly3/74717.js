@@ -1,0 +1,1 @@
+lar[74717]=`<b>παμ·μήτωρ, ορος</b>, <i>adj. f.</i> :<br><b>      1</b> mère de toute chose, <i>ép. de la terre,</i> ESCHL. <i>Pr. 90</i> ; NONN. <i>Jo. 1, 26</i> ; CLÉM. <i>222</i>.<br><b>      2</b> qui est vraiment une mère, mère dévouée, SOPH. <i>Ant. 1282</i>.<p><b>Étym</b>. π. μήτηρ.`

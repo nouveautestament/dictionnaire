@@ -1,0 +1,1 @@
+lar[17855]=`<b>ός, όν</b>, qu’on peut enlever <i>ou</i> séparer, PLAT. <i>Pol. 303e</i>.<p><b>Étym</b>. <i>vb. de</i> ἀφαιρέω.`

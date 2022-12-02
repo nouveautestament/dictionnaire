@@ -1,0 +1,1 @@
+lar[68747]=`<b>ου (ὁ)</b> <font color="purple">[νῑ]</font> Nikidès, <i>h</i>. DÉM. <i>991, 14</i>.<p><b>Étym</b>. Νικίας.`

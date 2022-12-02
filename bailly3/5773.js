@@ -1,0 +1,1 @@
+lar[5773]=`<b>ου (ὁ)</b> = <i>lat</i>. Amulius, <i>n. d’h. rom</i>. PLUT. <i>Rom. 3</i>.`

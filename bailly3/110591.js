@@ -1,0 +1,1 @@
+lar[110591]=`<font color="purple">[ῐ]</font> <i>adv</i>., utilement, d’une manière avantageuse, THC. <i>1, 128</i> ; XÉN. <i>Mem. 4, 4, 1</i> ; PLAT. <i>Gorg. 470a, etc. ; p. opp. à</i> βλαβερῶς, PLAT. <i>Charm. 164b, etc</i>.<p>•<i> Sup</i>. -ώτατα, XÉN. <i>Eq. 6, 1</i>.`

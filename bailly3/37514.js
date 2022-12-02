@@ -1,0 +1,1 @@
+lar[37514]=`<b>ου (ἡ)</b> Épidauros (Épidaure) :<br><b>      1</b> <i>v. d’Argolide (auj</i>. Paleá Epíđavros) IL. <i>2, 561</i>.<br><b>      2</b> <i>v. de Laconie (auj</i>. Monemvasiá) THC. <i>4, 56 ; 6, 105 ; 7, 26</i>.<p>➳ <i>Gén. dor</i>. Ἐπιδαύρω, THC. <i>5, 77</i>.`

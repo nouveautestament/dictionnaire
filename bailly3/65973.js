@@ -1,0 +1,1 @@
+lar[65973]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> moyen d’exciter la haine, LUC. <i>D. mer. 4, 5</i>.<p><b>Étym</b>. μισέω.`

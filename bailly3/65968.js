@@ -1,0 +1,1 @@
+lar[65968]=`<b>μισ·έλλην, ηνος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui hait les Grecs, ennemi des Grecs, XÉN. <i>Ages. 2, 31</i> ; PLUT. <i>Alc. 24</i>.<p><b>Étym</b>. μισέω, Ἕλλην.`

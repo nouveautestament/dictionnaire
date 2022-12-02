@@ -1,0 +1,1 @@
+lar[94953]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> énumération, ATH. <i>490c</i>.<p><b>Étym</b>. συναριθμέω.`

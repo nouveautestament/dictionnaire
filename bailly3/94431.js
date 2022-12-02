@@ -1,0 +1,1 @@
+lar[94431]=`<b>συμ·φιλομαθέω-ῶ</b> <font color="purple">[ῐᾰ]</font> aimer également l’étude, DICÉARQ. <i>p. 2, 23</i>.`

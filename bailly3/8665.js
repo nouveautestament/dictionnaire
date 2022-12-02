@@ -1,0 +1,1 @@
+lar[8665]=`<b>ἀν·ήδονος, ος, ον</b>, non agréable, désagréable, JOS. <i>A.J. 17, 3, 1</i> ; THÉM. <i>319d</i>.<p><b>Étym</b>. ἀν-, ἡδονή.`

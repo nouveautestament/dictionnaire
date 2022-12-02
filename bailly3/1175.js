@@ -1,0 +1,1 @@
+lar[1175]=`<b>ἀ·δάξομαι</b> (<i>seul. prés</i>.) éprouver une vive démangeaison, HPC. <i>2, 587, 594 Lind</i>.<p><b>Étym</b>. <i>cf</i>. ὀδάξω <i>et</i> δάκνω.`

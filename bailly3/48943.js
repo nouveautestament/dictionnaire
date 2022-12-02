@@ -1,0 +1,1 @@
+lar[48943]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑῡ]</font> antre, caverne, <i>c</i>. εἰλυός, CALL. <i>Jov. 25</i>.`

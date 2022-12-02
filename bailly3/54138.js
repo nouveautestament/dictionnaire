@@ -1,0 +1,1 @@
+lar[54138]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> dénomination, nom, STR. <i>42</i>.<p><b>Étym</b>. κατονομάζω.`

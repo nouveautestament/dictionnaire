@@ -1,0 +1,1 @@
+lar[26533]=`<b>δί·κερκος, ος, ον</b> <font color="purple">[ῐ]</font> à double queue, EL. <i>N.A. 12, 3</i>.<p><b>Étym</b>. δίς, κέρκος.`

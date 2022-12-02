@@ -1,0 +1,1 @@
+lar[105171]=`<b>ατος (τὸ) :<br>      1</b> enfant, petit d’animal, ESCHL. <i>Ag. 118</i>.<br><b>      2</b> fruit de la terre, ESCHL. <i>Suppl. 690</i>.<p><b>Étym</b>. φέρω.`

@@ -1,0 +1,1 @@
+lar[43695]=`<b>ας (ἡ)</b> belle lumière, éclat, JAMBL. <i>Protr. p. 346</i>.<p><b>Étym</b>. εὐφεγγής.`

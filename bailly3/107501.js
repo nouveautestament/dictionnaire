@@ -1,0 +1,1 @@
+lar[107501]=`<b>χαλαζ·επής, ής, ές</b> <font color="purple">[χᾰ]</font> dont les paroles (<i>particul</i>. les plaisanteries) tombent dru comme grêle, ANTH. <i>7, 405</i>.<p><b>Étym</b>. χάλαζα, ἔπος.`

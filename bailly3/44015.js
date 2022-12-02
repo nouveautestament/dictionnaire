@@ -1,0 +1,1 @@
+lar[44015]=`<b>ας (ἡ) :<br>      1</b> adolescence, ANTH. <i>7, 467</i>.<br><b>      2</b> <i>au sens collect</i>. la jeunesse, les jeunes gens, SYN. <i>Cat. 1569b Migne</i>.<p><b>Étym</b>. ἔφηβος.`

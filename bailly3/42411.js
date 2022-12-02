@@ -1,0 +1,1 @@
+lar[42411]=`<b>εὐ·κέλαδος, ος, ον</b> <font color="purple">[ᾰ]</font> au bruit sonore <i>ou</i> mélodieux, EUR. <i>Bacch. 160</i> ; AR. <i>Nub. 312</i> ; ANTH. <i>7, 194</i>.<p><b>Étym</b>. εὖ, κέλαδος.`

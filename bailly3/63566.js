@@ -1,0 +1,1 @@
+lar[63566]=`<b>εως (ἡ)</b> action de s’adapter en changeant, changement, <i>gén</i>. POL. <i>18, 28, 6</i>.<p><b>Étym</b>. μεθαρμόζω.`

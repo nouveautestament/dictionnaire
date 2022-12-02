@@ -1,0 +1,1 @@
+lar[48447]=`<b>ἰδιό·φυτον, ου (τὸ)</b> <font color="purple">[ῐδῠ]</font> <i>autre n. de la plante</i> λεοντοπόδιον, DIOSC. <i>Noth. 4, 131</i>.<p><b>Étym</b>. ἴδ. φύω.`

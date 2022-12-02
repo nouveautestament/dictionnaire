@@ -1,0 +1,1 @@
+lar[60366]=`<b>ου (τὸ)</b> petite écaille, petite croûte, HPC. <i>192b</i>.<p><b>Étym</b>. λέπος.`

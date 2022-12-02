@@ -1,0 +1,1 @@
+lar[72470]=`<i>pf. au sens d’un prés</i>. (<i>v</i>. ὁράω), <i>d’où ao. moy. inf</i>. ὀπωπήσασθαι, EUPH. (SCH.-EUR. <i>Ph. 682).</i><p><b>Étym</b>. <i>R. indo-europ</i>. *h₃ek<sup>w</sup>-, voir ; <i>cf</i>. ὄπις, ὄσσε, ὄψομαι, ὤψ.`

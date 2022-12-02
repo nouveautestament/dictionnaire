@@ -1,0 +1,1 @@
+lar[46166]=`<b>θαλασσό·μελι, ιτος (τὸ)</b> <font color="purple">[θᾰ]</font> potion d’eau de mer et de miel, DIOSC. <i>5, 20</i>.<p><b>Étym</b>. θ. μέλι.`

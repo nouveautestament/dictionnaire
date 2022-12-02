@@ -1,0 +1,1 @@
+lar[49422]=`<b>(οἱ)</b> les Cavaliers, <i>village près de l’Hélicon,</i> PLUT. <i>Am. narr. 4</i>.<p><b>Étym</b>. <i>plur. de</i> ἱππότης.`

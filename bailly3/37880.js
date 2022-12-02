@@ -1,0 +1,1 @@
+lar[37880]=`<b>ἐπι·καινόω-ῶ</b>, renouveler, introduire des innovations dans, <i>acc</i>. ESCHL. <i>Eum. 693</i>.`

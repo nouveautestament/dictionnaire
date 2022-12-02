@@ -1,0 +1,1 @@
+lar[72605]=`<b>ὀρει·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui erre dans les montagnes, TRIPHIOD. <i>223</i> ; NONN. <i>D. 5, 408, etc. (var</i>. ὀριπλ-).<p><b>Étym</b>. ὄρος, πλάνη.`

@@ -1,0 +1,1 @@
+lar[53698]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> attache d’un muscle, GAL. <i>2, 263, etc.</i><br><b>      2</b> <i>c</i>. ψύλλιον, DIOSC. <i>4, 70</i>.<p><b>Étym</b>. καταφύω.`

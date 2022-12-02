@@ -1,0 +1,1 @@
+lar[15348]=`<b>ἀρτι·κροτέομαι-οῦμαι :<br>      1</b> résonner en cadence, MÉN.<br><b>      2</b> <i>p. suite,</i> être d’accord, convenir, MÉN. <i>(Bkk. 447, 20).</i><p><b>Étym</b>. ἄ. κροτέω.`

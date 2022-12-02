@@ -1,0 +1,1 @@
+lar[4510]=`<b>ἄ·λινος, ος, ον</b> <font color="purple">[ῐ]</font> sans filets, ANTH. <i>9, 244</i>.<p><b>Étym</b>. ἀ, λίνον.`

@@ -1,0 +1,1 @@
+lar[103468]=`<b>ὑπο·λευκόχρως</b>, <i>gén</i>. <b>ωτος (ὁ, ἡ)</b> de couleur blanchâtre, HPC. <i>Epid. 1, 955</i>.`

@@ -1,0 +1,1 @@
+lar[73143]=`<b>άδος</b>, <i>adj. f</i>. close, fermée, SOPH. <i>fr. 935 Dind</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ὄρχος.`

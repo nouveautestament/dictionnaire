@@ -1,0 +1,1 @@
+lar[58660]=`<b>α, ον</b>, de Kymè, <i>en Éolide,</i> HDT. <i>1, 157, etc</i>.<p><b>Étym</b>. Κύμη.`

@@ -1,0 +1,1 @@
+lar[60000]=`<font color="purple">[ᾰῡ]</font> <i>c</i>. λαφυραγωγέω, SPT. <i>Judith 15, 11</i>.`

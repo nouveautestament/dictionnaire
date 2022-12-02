@@ -1,0 +1,1 @@
+lar[9567]=`<b>ἀντ·εκκόπτω</b>, mutiler à son tour <i>ou</i> en retour, DÉM. <i>744, 13</i> ; ARSTT. <i>M. mor. 1, 34, 14</i> ; DS. <i>12, 17</i>.`

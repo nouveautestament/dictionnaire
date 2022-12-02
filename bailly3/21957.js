@@ -1,0 +1,1 @@
+lar[21957]=`<b>γηρο·φορέω-ῶ</b> <i>(seul. prés.) litt</i>. porter (les parents) âgés, <i>en parl. de l’alcyon qui porte ses parents devenus trop vieux pour voler,</i> PLUT. <i>M. 983b</i>.<p><b>Étym</b>. γῆρας, -φορος <i>de</i> φέρω.`

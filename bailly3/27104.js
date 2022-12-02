@@ -1,0 +1,1 @@
+lar[27104]=`<b>δί·τυλος, ος, ον</b> <font color="purple">[ῐῠ]</font> à deux bosses (chameau), DS. <i>2, 54</i>.<p><b>Étym</b>. δίς, τύλος.`

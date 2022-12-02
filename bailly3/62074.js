@@ -1,0 +1,1 @@
+lar[62074]=`<b>λυσι·ῳδός, οῦ (ὁ, ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> acteur <i>ou</i> actrice qui jouait une sorte de pantomime inventée par Lysis, ARISTOCL. <i>et</i> ARISTOX. (ATH. <i>620e</i>) ; PLUT. <i>Syll. 36</i>.<br><b>      2</b> λ. αὐλός, ATH. <i>182c</i>, flûte dont on jouait dans ces pantomimes.<p><b>Étym</b>. Λῦσις, ᾠδή.`

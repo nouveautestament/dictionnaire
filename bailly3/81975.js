@@ -1,0 +1,1 @@
+lar[81975]=`<b>*πολυκέρδεια</b>, <i>ion</i>. <b>πολυκερδείη, ης</b> <font color="purple">[ῠ]</font> (ἡ) fourberie, astuce, OD. <i>24, 167, au dat. pl</i>. -κερδείῃσιν, OD. <i>l. c</i>.<p><b>Étym</b>. πολυκερδής.`

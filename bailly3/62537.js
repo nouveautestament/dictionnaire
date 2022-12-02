@@ -1,0 +1,1 @@
+lar[62537]=`<b>ας (ἡ)</b> longue maladie, DIOSC. <i>1, 183</i> ; ARTÉM. <i>49 Reiff</i>.<p><b>Étym</b>. μ. νόσος.`

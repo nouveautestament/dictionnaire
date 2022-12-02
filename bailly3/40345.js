@@ -1,0 +1,1 @@
+lar[40345]=`<b>ή, όν</b>, cherché à fond, examiné, NYSS. <i>1, 1009 Migne</i>.<p><b>Étym</b>. <i>vb. de</i> ἐρευνάω.`

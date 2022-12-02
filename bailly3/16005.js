@@ -1,0 +1,1 @@
+lar[16005]=`<b>ἀ·σπάλαξ, ακος (ὁ)</b> <font color="purple">[πᾰᾰκ]</font> taupe, ARSTT. <i>H.A. 4, 8, 2, etc.</i> ; PLUT. <i>etc</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ἀ <i>proth</i>. σπάλαξ.`

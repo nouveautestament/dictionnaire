@@ -1,0 +1,1 @@
+lar[23849]=`<b>δενδρο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font> monter aux arbres, ANTH. <i>11, 348 (prés. sbj. 2 sg</i>.) -ῇς.<p><b>Étym</b>. δένδρον, βατός.`

@@ -1,0 +1,1 @@
+lar[32996]=`<b>ή, όν</b>, fait de mèche de lampe, P. ÉG. <i>148 Briau</i>.<p><b>Étym</b>. ἐλλύχνιον.`

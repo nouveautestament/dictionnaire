@@ -1,0 +1,1 @@
+lar[105263]=`<b>ατος (τὸ) :<br>      1</b> corruption, SPT. <i>Lev. 22, 25, 2</i>.<br><b>      2</b> élément de corruption, JOS. <i>B.J. 5, 10, 5</i>.<p><b>Étym</b>. φθείρω.`

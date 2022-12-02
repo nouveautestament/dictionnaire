@@ -1,0 +1,1 @@
+lar[10111]=`<b>ἀντί·μολπος, ος, ον :<br>      1</b> qui résonne au lieu de : ἀ. ὀλολυγῆς κωκυτός, EUR. <i>Med. 1176,</i> lamentations <i>ou</i> cris de douleur tout différents de l’ὀλολυγή.<br><b>      2</b> qui résonne contre : ὕπνου ἀ. ἄκος, ESCHL. <i>Ag. 17,</i> chant qui résonne pour combattre le sommeil.<p><b>Étym</b>. ἀ. μολπή.`

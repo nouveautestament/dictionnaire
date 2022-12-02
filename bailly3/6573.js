@@ -1,0 +1,1 @@
+lar[6573]=`<b>ἀνα·βρυάζω</b> (<i>seul. ao</i>. ἀνεβρύαξα) éclater, s’écrier, AR. <i>Eq. 602</i>.`

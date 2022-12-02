@@ -1,0 +1,1 @@
+lar[43318]=`<b>εὐρυ·πυλής, ής, ές</b> <font color="purple">[ῠῠ]</font> aux larges portes, IL. <i>23, 74</i> ; OD. <i>11, 571</i>.<p><b>Étym</b>. εὐ. πύλη.`

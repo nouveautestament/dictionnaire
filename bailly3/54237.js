@@ -1,0 +1,1 @@
+lar[54237]=`<b>οῦ (ὁ)</b> opération pour remettre une épaule, démise, HPC. <i>782a</i>.<p><b>Étym</b>. κατωμίζω.`

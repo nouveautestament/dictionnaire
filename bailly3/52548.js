@@ -1,0 +1,1 @@
+lar[52548]=`<b>ος, ον</b>, enfermé, CALL. (HÉPH. <i>p. 111</i>) ; STR. <i>609</i> ; LUC. <i>Tim. 15, etc</i>.<p><b>Étym</b>. κατακλείω.`

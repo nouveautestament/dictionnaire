@@ -1,0 +1,1 @@
+lar[47394]=`<b>ώτιδος (ἡ)</b> <font color="purple">[ᾰ]</font> bacchante, OPP. <i>C. 4, 298</i>.<p><b>Étym</b>. <i>fém. de</i> θιασώτης.`

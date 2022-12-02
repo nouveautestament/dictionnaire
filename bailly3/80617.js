@@ -1,0 +1,1 @@
+lar[80617]=`<b>ας (ἡ)</b> = <i>lat</i>. Placentia (<i>auj</i>. Piacenza, Plaisance) <i>v. de la haute Italie,</i> PLUT. <i>Oth. 6, 7</i>.`

@@ -1,0 +1,1 @@
+lar[70985]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., de peu d’endroits de, <i>gén</i>. HDT. <i>3, 96</i>.<p><b>Étym</b>. ὀλ. -χοθεν.`

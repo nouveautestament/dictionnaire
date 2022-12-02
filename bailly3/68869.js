@@ -1,0 +1,1 @@
+lar[68869]=`<b>ή, όν</b>, doué de la faculté de penser, doué d’intelligence, ARSTT. <i>An. 1, 1, 8, etc</i>.<p><b>Étym</b>. νοητός.`

@@ -1,0 +1,1 @@
+lar[25832]=`<b>εως (ἡ)</b> lumière qui apparaît, PLUT. <i>M. 929b</i>.<p><b>Étym</b>. διαφαύσκω.`

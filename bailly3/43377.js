@@ -1,0 +1,1 @@
+lar[43377]=`<b>α, ον</b>, d’Europe : Εὐρωπία γῆ, EUR. <i>Ion 1587 ; ou abs</i>. ἡ Εὐρωπία, SOPH. <i>fr. 37</i> ; EUR. <i>fr. 382,</i> l’Europe.<p><b>Étym</b>. Εὐρώπη.`

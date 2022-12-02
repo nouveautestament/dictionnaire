@@ -1,0 +1,1 @@
+lar[55884]=`<b>ύος (ἡ)</b> tortue, A. LIB. <i>32</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

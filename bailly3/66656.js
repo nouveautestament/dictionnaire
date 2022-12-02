@@ -1,0 +1,1 @@
+lar[66656]=`<b>ας (ἡ)</b> uniformité, simplicité, BAS. <i>4, 365 Migne</i>.<p><b>Étym</b>. μονότροπος.`

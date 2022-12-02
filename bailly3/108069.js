@@ -1,0 +1,1 @@
+lar[108069]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> action d’hiverner, HDT. <i>2, 22 ; particul</i>. quartiers d’hiver, POL. <i>2, 54, 14, etc.</i><br><b>      2</b> tempête, mauvais temps, ARSTT. <i>Probl. 26, 3</i> ; TH. <i>fr. 5, 50</i>.<p>➳ <i>Ion</i>. χειμασίη, HDT. <i>l. c</i>.<p><b>Étym</b>. χειμάζω.`

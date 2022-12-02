@@ -1,0 +1,1 @@
+lar[6961]=`<b>ἀνα·κνισόω-ῶ</b> <font color="purple">[ῑ]</font> remplir de fumée <i>ou</i> de vapeur, TRIPHIOD. <i>349</i> ; NONN. <i>D. 18, 101</i>.`

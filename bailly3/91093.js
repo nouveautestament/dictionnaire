@@ -1,0 +1,1 @@
+lar[91093]=`<b>α, ον</b>, de scolopendre, de cloporte, NIC. <i>Th. 684</i>.<p><b>Étym</b>. σκολόπενδρα.`

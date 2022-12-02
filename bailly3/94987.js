@@ -1,0 +1,1 @@
+lar[94987]=`<b>εως (ἡ)</b> exercice <i>ou</i> pratique en commun, DH. <i>2, 74</i> ; SEXT. <i>M. 7, 146, etc</i>.<p><b>Étym</b>. συνασκέω.`

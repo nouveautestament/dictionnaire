@@ -1,0 +1,1 @@
+lar[85574]=`<b>προσ·εμφαίνω</b>, faire paraître en outre, ARSTT. <i>Mech. proœm. 6</i>.`

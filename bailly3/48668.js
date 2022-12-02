@@ -1,0 +1,1 @@
+lar[48668]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> sacerdoce, PLAT. <i>Leg. 759a ;</i> DÉM. <i>1313, 20 ; à Rome,</i> ἡ μεγίστη ἱ. DS. <i>2, 616 Dind</i>. dignité du <i>Pontifex maximus</i>.<p>➳ <i>Ion</i>. ἱρ- HDT. <i>4, 161 ; 6, 56</i>.<p><b>Étym</b>. <i>v</i>. ἱερώσυνος.`

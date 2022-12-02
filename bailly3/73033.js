@@ -1,0 +1,1 @@
+lar[73033]=`<b>ὀρρο·πυγό·στικτος, ος, ον</b> <font color="purple">[ῡ]</font> à la queue mouchetée, ARSTT. (ATH. <i>313d</i>).<p><b>Étym</b>. ὄρρος, πυγή, στικτός.`

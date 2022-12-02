@@ -1,0 +1,1 @@
+lar[16679]=`<b>ἀταρακτο·ποιησίη, ης (ἡ)</b> <font color="purple">[τᾰ]</font> action de faire qqe ch. sans se troubler, avec calme, HPC.<p><b>Étym</b>. ἀτάρακτος, ποιητός.`

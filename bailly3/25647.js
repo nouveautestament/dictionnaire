@@ -1,0 +1,1 @@
+lar[25647]=`<b>δια·συγχέω</b> (<i>part. prés</i>. -χέοντας) confondre pêle-mêle, PLUT. <i>M. 1078a</i>.`

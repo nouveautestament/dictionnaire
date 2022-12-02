@@ -1,0 +1,1 @@
+lar[24709]=`<b>δι·αιωνίζω :<br>      1 <i>tr.</i></b> perpétuer, PHIL. <i>2, 318</i>.<br><b>      2 <i>intr.</i></b> durer éternellement, PHIL. <i>1, 265, 343 ; 2, 190</i>.<p><b>Étym</b>. διά, αἰών.`

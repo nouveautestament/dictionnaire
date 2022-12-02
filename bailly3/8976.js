@@ -1,0 +1,1 @@
+lar[8976]=`<b>ἀνθρωπο·ποιός, οῦ (ὁ) :<br>      1</b> sculpteur de statues d’hommes, LUC. <i>Philops. 18, 20</i>.<br><b>      2</b> qui crée un homme, <i>en parl. de Prométhée,</i> TAT. <i>Or. ad Græc. 10</i>.<p><b>Étym</b>. ἄ. ποιέω.`

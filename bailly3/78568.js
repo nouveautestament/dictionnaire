@@ -1,0 +1,1 @@
+lar[78568]=`<b>εως (ἡ)</b> action d’aller autour, PLUT. <i>M. 916d</i>.<p><b>Étym</b>. περιελεύσομαι.`

@@ -1,0 +1,1 @@
+lar[71259]=`<b>ιδος (ἡ)</b> <i>c</i>. ὄλπη, SAPPH. <i>fr. 51 Bgk</i> ; THCR. <i>Idyl. 18, 45</i> ; CALL. <i>fr. 181</i>.`

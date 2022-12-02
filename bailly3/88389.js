@@ -1,0 +1,1 @@
+lar[88389]=`<b>ας (ἡ)</b> = <i>lat</i>. Remoria, <i>c</i>. Ῥεμώνιον PLUT. <i>Rom. 11</i>.`

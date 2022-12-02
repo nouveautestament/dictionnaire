@@ -1,0 +1,1 @@
+lar[37813]=`<b>ἐπι·θησαυριστέον</b>, il faut enfouir comme un trésor, CLÉM. <i>336</i>.<p><b>Étym</b>. ἐπί, θησαυρίζω.`

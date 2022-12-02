@@ -1,0 +1,1 @@
+lar[6520]=`<b>ου (ὁ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> monté, perché, EUR. <i>Bacch. 1107</i>.<br><b>      2</b> qui monte à cheval, cavalier, XÉN. <i>Hell. 5, 3, 1</i> ; PLAT. <i>Criti. 119a</i>.<p>➳ <i>Poét</i>. ἀμβάτης, EUR. <i>l. c</i>.<p><b>Étym</b>. ἀναβαίνω.`

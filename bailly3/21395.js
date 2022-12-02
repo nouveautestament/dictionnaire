@@ -1,0 +1,1 @@
+lar[21395]=`<b>ου (ὁ)</b> habitant de Gargèttos, EL. <i>V.H. 4, 13</i> ; DL. <i>10, 1, etc</i>.<p><b>Étym</b>. Γαργηττός.`

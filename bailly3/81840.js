@@ -1,0 +1,1 @@
+lar[81840]=`<b>πολυ·δερκής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui voit beaucoup de choses, HÉS. <i>Th. 451</i>.<br><b>      2</b> au regard perçant, ANTH. <i>9, 362</i>.<p><b>Étym</b>. π. δέρκομαι.`

@@ -1,0 +1,1 @@
+lar[74046]=`<b>ὀψο·ποιός, οῦ (ὁ)</b> cuisinier, HDT. <i>9, 82</i> ; différent de ἀρτοκόπος, XÉN. <i>Hell. 7, 1, 38 ; de</i> ἀρτοποιός, XÉN. <i>Cyr. 5, 5, 39 ; de</i> σιτοποιός, XÉN. <i>Cyr. 8, 5, 3 ; de</i> μάγειρος, PLAT. <i>Rsp. 373c, etc</i>.<p><b>Étym</b>. ὄψ. ποιέω.`

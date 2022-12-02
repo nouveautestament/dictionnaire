@@ -1,0 +1,1 @@
+lar[62129]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> lychnis, <i>vulg</i>. coquelourde, <i>plante,</i> TH. <i>H.P. 6, 8, 3</i> ; NIC. <i>Th. 899</i> ; COM. (ATH. <i>681f, etc</i>.) ; PLUT. <i>M. 723c, etc.</i><br><b>      2</b> pierre précieuse qui brille dans l’obscurité, LUC. <i>Syr. 32</i>.<p><b>Étym</b>. λύχνος.`

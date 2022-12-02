@@ -1,0 +1,1 @@
+lar[32799]=`<b>ἑλικ·άμπυξ</b>, <i>gén</i>. <b>υκος (ὁ, ἡ)</b> <font color="purple">[ῐῠκ]</font> qui a un bandeau roulé autour du front, <i>ép. de Sémélè,</i> PD. <i>fr. 45, 18</i>.<p><b>Étym</b>. ἕλιξ, ἄμπυξ.`

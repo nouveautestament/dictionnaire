@@ -1,0 +1,1 @@
+lar[78821]=`<b>περι·κρατέω-ῶ</b> <font color="purple">[ᾰ]</font> venir à bout de, finir par vaincre, <i>gén</i>. DURIS (ATH. <i>253e</i>) ; <i>abs</i>. PLUT. <i>M. 526f</i>.`

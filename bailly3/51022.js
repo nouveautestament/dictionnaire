@@ -1,0 +1,1 @@
+lar[51022]=`<b>οπος (ἡ)</b> <font color="purple">[ᾰ]</font> bâton recourbé, houlette, IL. <i>23, 845</i> ; A.RH. <i>2, 33 ; 4, 974</i> ; DH. <i>1, 39, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

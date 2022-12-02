@@ -1,0 +1,1 @@
+lar[107428]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> action d’éclairer, d’illuminer, NAZ.<p><b>Étym</b>. φωταγωγός.`

@@ -1,0 +1,1 @@
+lar[85880]=`<b>*προσ·ιατρεύω</b>, <i>ion</i>. <b>προσ·ιητρεύω</b> <font color="purple">[ῑ]</font> soigner un malade, HPC. <i>455, 49</i>.`

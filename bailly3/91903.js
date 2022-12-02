@@ -1,0 +1,1 @@
+lar[91903]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> roc, écueil, ION (HSCH.) ; ARSTT. <i>Mund. 3, 4</i> ; M. RUBR. <i>p. 12</i> ; LYC. <i>188, etc</i>.`

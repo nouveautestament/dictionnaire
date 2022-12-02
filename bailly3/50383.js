@@ -1,0 +1,1 @@
+lar[50383]=`<b>καθ·ηδυπαθέω-ῶ</b> <font color="purple">[ᾰῠᾰ]</font> perdre dans la mollesse <i>ou</i> les plaisirs sa fortune, XÉN. <i>An. 1, 3, 3 ; ou</i> son temps, PLUT. <i>Ant. 28</i> ; LUC. <i>D. mort. 12, 6</i>.`

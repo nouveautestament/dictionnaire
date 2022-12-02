@@ -1,0 +1,1 @@
+lar[83917]=`<b>προ·διαιτάω-ῶ</b>, préparer par la diète, <i>acc</i>. GAL. <i>10, 500</i>.`

@@ -1,0 +1,1 @@
+lar[56887]=`<b>κονί·πους, ποδος (ὁ, ἡ) :<br>      1</b> aux pieds poudreux, <i>d’où subst</i>. paysan <i>ou</i> homme du peuple, <i>à Épidaure,</i> PLUT. <i>M. 291e.</i><br><b>      2</b> sorte de sandale pour les vieillards, AR. <i>Eccl. 848</i> ; CLÉM. <i>241</i>.<p><b>Étym</b>. κόνις, πούς.`

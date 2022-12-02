@@ -1,0 +1,1 @@
+lar[79052]=`<b>περι·παιφάσσω</b>, regarder tout autour avec des yeux terribles, Q. SM. <i>13, 72</i>.`

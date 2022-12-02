@@ -1,0 +1,1 @@
+lar[52728]=`<i>adv</i>., avec la faculté de comprendre par l’intelligence, CLÉOM. <i>31, 5</i> ; M. ANT. <i>1, 9</i> ; CLÉM. <i>378, etc</i>.`

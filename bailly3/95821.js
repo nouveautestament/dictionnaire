@@ -1,0 +1,1 @@
+lar[95821]=`se réjouir avec, <i>dat</i>. HDN <i>2, 8, 16 ; abs</i>. DH. <i>Rhet. 2, 5</i>.`

@@ -1,0 +1,1 @@
+lar[3201]=`<b>ἀ·κατάπαυστος, ος, ον :<br>      1</b> incessant, sans fin, POL. <i>4, 17, 4</i> ; ἀ. ἀρχή, PLUT. <i>Arat. 26,</i> pouvoir à vie ; <i>avec un gén</i>. ἀ. ἁμαρτίας, NT. <i>2Petr. 2, 14,</i> qui ne cesse pas de pécher.<br><b>      2</b> qu’on ne peut faire cesser, irrésistible, DS. <i>11, 67</i>.<p><b>Étym</b>. ἀ, καταπαύω.`

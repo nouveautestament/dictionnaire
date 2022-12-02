@@ -1,0 +1,1 @@
+lar[74910]=`<b>παν·δαμάτωρ, ορος (ὁ)</b> <font color="purple">[ᾰμᾰ]</font> qui dompte tout, qui soumet tout, IL. <i>24, 5</i> ; OD. <i>9, 373</i> ; SOPH. <i>Ph. 1467</i> ; LUC. <i>Tim. 2, etc</i>.<p>➳ ἡ π. ARSTT. <i>Pepl. 43</i>.<p><b>Étym</b>. π. δαμάω.`

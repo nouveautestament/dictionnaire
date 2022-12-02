@@ -1,0 +1,1 @@
+lar[35461]=`<b>ἐξ·ανανεόω-εῶ</b> (<i>prés. pass</i>. -οῦνται) renouveler le souvenir de, renouveler, STR. <i>625</i>.`

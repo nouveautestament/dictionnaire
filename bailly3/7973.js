@@ -1,0 +1,1 @@
+lar[7973]=`<b>ἀνδρ·αγαθέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἠνδραγάθησα)</font> <font color="purple">[ρᾰᾰ]</font> agir en homme de bien <i>ou</i> de cœur, POL. <i>1, 45, 3</i> ; PLUT. <i>Eum. 7</i> ; τὰ ἠνδραγαθημένα, PLUT. <i>Fab. 20,</i> belles actions.<p><b>Étym</b>. ἀνήρ, ἀγαθός.`

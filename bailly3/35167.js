@@ -1,0 +1,1 @@
+lar[35167]=`<b>ἐν·υβρίζω</b> <font color="purple">[ῠ]</font><br><b>      1</b> outrager, insulter dans : τινὰ ἐν κακοῖς, EUR. <i>El. 68,</i> qqn dans le malheur.<br><b>      2</b> <i>p. ext</i>. outrager, insulter : τινά, SOPH. <i>Ph. 342</i> ; τινί, POL. <i>10, 26, 3</i> ; εἴς τινα, DS. <i>Exc. 527, 57,</i> outrager qqn ; <i>abs</i>. AR. <i>Th. 719</i>.`

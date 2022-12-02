@@ -1,0 +1,1 @@
+lar[108138]=`<b>χειρό·κμητος, ος, ον</b>, travaillé de main d’homme, fait avec art, T. LOCR. <i>94e ;</i> ARSTT. <i>Cæl. 2, 4, 11 ; Meteor. 4, 3, 20, etc.</i> ; STR. <i>59, 116</i> ; PLUT. <i>M. 477c</i>.<p><b>Étym</b>. χ. κάμνω.`

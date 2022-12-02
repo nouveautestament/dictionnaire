@@ -1,0 +1,1 @@
+lar[92404]=`<b>ατος (τὸ)</b> philtre amoureux, SOPH. <i>Tr. 1138</i>.<p><b>Étym</b>. στέργω.`

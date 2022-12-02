@@ -1,0 +1,1 @@
+lar[82107]=`<b>πολυ·μήκης, ης, ες</b> <font color="purple">[ῠ]</font> très long, SYN. <i>73d</i>.<p><b>Étym</b>. π. μῆκος.`

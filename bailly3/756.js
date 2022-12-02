@@ -1,0 +1,1 @@
+lar[756]=`<b>ου (ὁ)</b> Hagnias, <i>h</i>. DÉM. <i>43, 3 Baiter-Sauppe</i>.<p><b>Étym</b>. ἁγνός.`

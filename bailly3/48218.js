@@ -1,0 +1,1 @@
+lar[48218]=`poursuivre de vers ïambiques, <i>càd</i>. de railleries, de satires, <i>acc</i>. GORG. (ATH. <i>505d</i>) ; ARSTT. <i>Poet. 4</i> ; DH. <i>7, 72</i>.<p><b>Étym</b>. ἴαμβος.`

@@ -1,0 +1,1 @@
+lar[60453]=`<b>λεπτό·φλοιος, ος, ον</b>, dont l’écorce est fine <i>ou</i> mince, TH. <i>H.P. 1, 5, 2</i>.<p><b>Étym</b>. λ. φλοιός.`

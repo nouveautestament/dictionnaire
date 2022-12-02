@@ -1,0 +1,1 @@
+lar[71866]=`<b>α, ον</b>, qui concerne les songes, OD. <i>4, 809</i>.<p><b>Étym</b>. ὄνειρος.`

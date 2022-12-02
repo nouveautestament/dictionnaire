@@ -1,0 +1,1 @@
+lar[57801]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Krèthis, <i>f</i>. ANTH. <i>7, 459</i>.`

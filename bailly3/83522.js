@@ -1,0 +1,1 @@
+lar[83522]=`<b>προ·ακοντίζω</b> <font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> lancer un trait d’avance <i>ou</i> en avant, <i>d’où au pass</i>. partir comme un trait, LUC. <i>Tim. 3</i>.`

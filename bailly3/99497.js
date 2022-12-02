@@ -1,0 +1,1 @@
+lar[99497]=`<b>τοιχωρυχέω-ῶ</b> <font color="purple">[ῠ]</font> percer un mur pour voler, <i>d’où</i> voler, AR. <i>Pl. 165</i> ; XÉN. <i>Mem. 1, 2, 62</i> ; PLAT. <i>Rsp. 575b ;</i> LUC. <i>Gall. 33 ; fig</i>. DÉM. <i>925, 24</i> ; PHILSTR. <i>552</i>.<p><b>Étym</b>. τοιχωρύχος.`

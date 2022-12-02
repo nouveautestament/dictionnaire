@@ -1,0 +1,1 @@
+lar[61881]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Lykiskos :<br><b>      1</b> <i>archonte athénien,</i> DÉM. <i>1330, 24</i>.<br><b>      2</b> <i>autre,</i> XÉN. <i>Hell. 1, 7, 13</i>.<p><b>Étym</b>. λύκος.`

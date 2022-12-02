@@ -1,0 +1,1 @@
+lar[92583]=`<b>στιβαδο·κοιτέω-ῶ</b> <font color="purple">[ῐᾰ]</font> se coucher sur un lit de feuilles, d’herbe <i>ou</i> de paille, POL. <i>2, 17, 10 ; p. anal</i>. sur des vêtements, STR. <i>155</i>.<p><b>Étym</b>. στιβάς, κοίτη.`

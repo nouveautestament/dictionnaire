@@ -1,0 +1,1 @@
+lar[36101]=`<b>ή, όν</b>, qu’on peut produire dehors <i>ou</i> divulguer, SEXT. <i>217, 1 Bkk</i>.<p><b>Étym</b>. ἐξοίσω, <i>fut. de</i> ἐκφέρω.`

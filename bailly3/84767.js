@@ -1,0 +1,1 @@
+lar[84767]=`<b>προ·νέω</b> <font color="darkgreen">(<i>f</i>. -νήσω, <i>part. pf. pass</i>. προνενεσμένος)</font> amonceler auparavant, APP. <i>Civ. 4, 80</i>.`

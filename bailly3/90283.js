@@ -1,0 +1,1 @@
+lar[90283]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Silvanus, <i>dieu des forêts,</i> ANTH. <i>11, 343</i>.`

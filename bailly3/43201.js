@@ -1,0 +1,1 @@
+lar[43201]=`<b>Εὑρ·ίππα, ας (ἡ)</b> <font color="purple">[ᾱ]</font> Heurippa (<i>litt</i>. qui retrouve les chevaux) <i>ép. d’Artémis,</i> PAUS. <i>8, 14, 5</i>.<p><b>Étym</b>. εὑρίσκω, ἵππος.`

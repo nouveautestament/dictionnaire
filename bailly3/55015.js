@@ -1,0 +1,1 @@
+lar[55015]=`<b>ου (ὁ)</b> Kersobleptès, <i>petit roi de Thrace,</i> DÉM. <i>133, etc.</i> ; ESCHN. <i>29, 21</i>.<p>➳ <i>Dans les inscr. att</i>. Κερσεβλέπτης, <i>v. Meisterh. p. 18, 12</i>.`

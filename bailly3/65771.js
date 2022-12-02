@@ -1,0 +1,1 @@
+lar[65771]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec petitesse d’esprit <i>ou avec</i> bassesse de caractère, CHRYS. <i>3, 52, etc</i>.`

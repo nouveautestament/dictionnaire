@@ -1,0 +1,1 @@
+lar[67033]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐδ]</font> <i>dim. de</i> μῦθος, LUC. <i>Philops. 2</i>.`

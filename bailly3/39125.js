@@ -1,0 +1,1 @@
+lar[39125]=`faire que qqn sache, rendre savant, AQU. <i>Esai. 52, 13</i>.<p><b>Étym</b>. ἐπιστήμων.`

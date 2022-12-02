@@ -1,0 +1,1 @@
+lar[81860]=`<b>πολύ·δρομος, ος, ον</b>, qui court de tous côtés, ESCHL. <i>Suppl. 734</i>.<p><b>Étym</b>. π. δραμεῖν.`

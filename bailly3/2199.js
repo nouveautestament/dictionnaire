@@ -1,0 +1,1 @@
+lar[2199]=`<b>αἰγειρίτης μύκης (ὁ)</b> champignon qui pousse sur le peuplier noir, GEOP. <i>12, 41</i>.<p><b>Étym</b>. αἴγειρος.`

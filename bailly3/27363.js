@@ -1,0 +1,1 @@
+lar[27363]=`<b>ῆς (ἡ)</b> <i>dans la loc</i>. ἐν δοιῇ (εἶναι) <i>d’ord. avec l’inf. fut</i>. être en doute, IL. <i>9, 230</i> ; CALL. <i>Jov. 5</i> ; ANTAGOR. (DL. <i>4, 26).</i><p><b>Étym</b>. <i>fém. de</i> δοιός.`

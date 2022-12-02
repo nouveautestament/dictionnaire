@@ -1,0 +1,1 @@
+lar[106586]=`<b>φοινικό·χρως (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> de couleur pourpre, SOPHRONIUS (<i>Mai Spic. 3, 257).</i><p><b>Étym</b>. φ. χρώς.`

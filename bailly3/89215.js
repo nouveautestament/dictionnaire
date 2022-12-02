@@ -1,0 +1,1 @@
+lar[89215]=`<b>σαλπιγγο·ειδής, ής, ές</b>, semblable à une trompette, RUF. <i>p. 60</i>.`

@@ -1,0 +1,1 @@
+lar[76228]=`<b>παρ·ασπιστής, οῦ (ὁ)</b> qui se tient auprès, le bouclier en main, <i>d’où</i> compagnon d’armes de, <i>dat</i>. EUR. <i>El. 886, Ph. 1165, etc</i>.<p><b>Étym</b>. παρασπίζω.`

@@ -1,0 +1,1 @@
+lar[85456]=`<b>εως (ἡ)</b> action d’ajouter, HIÉROCL. (STOB. <i>Fl. 85, 21).</i><p><b>Étym</b>. προσδίδωμι.`

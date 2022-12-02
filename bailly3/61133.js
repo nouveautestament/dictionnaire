@@ -1,0 +1,1 @@
+lar[61133]=`<b>λιμαγχονέω-ῶ</b> <font color="purple">[ῑ]</font> <i>c</i>. λιμαγχέω, HPC. <i>839g ;</i> ANTISTH. (STOB. <i>169, 19) ; au pass</i>. GAL. <i>5, 177</i>.`

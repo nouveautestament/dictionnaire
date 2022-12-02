@@ -1,0 +1,1 @@
+lar[4378]=`<b>ιδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. errante, vagabonde, DP. <i>490</i> ; ἀ. ᾠδή, ATH. <i>618e</i>, chant en l’honneur d’Érigone, <i>qui avait parcouru le monde à la recherche de son père Icare</i>.<p><b>Étym</b>. ἀλήτης.`

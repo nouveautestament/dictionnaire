@@ -1,0 +1,1 @@
+lar[15197]=`<b>ἀρρωστέω-ῶ</b> (<i>seul. prés., impf</i>. ἠρρώστουν, <i>pf</i>. ἠρρώστηκα) être faible <i>ou</i> malade, XÉN. <i>Mem. 3, 11, 10</i> ; DÉM. <i>379, 15, etc</i>.<p><b>Étym</b>. ἄρρωστος.`

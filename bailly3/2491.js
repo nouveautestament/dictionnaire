@@ -1,0 +1,1 @@
+lar[2491]=`<b>ας (ἡ) :<br>      1</b> mouette (<i>Larus marinus</i> L.) <i>oiseau de mer,</i> OD. <i>5, 337</i> ; ARSTT. <i>H.A. 5, 9, 1 ; ép. d’Athèna, protectrice des marins,</i> PAUS. <i>1, 5, 3</i>.<br><b>      2</b> <i>p. anal</i>. vaisseau, LYC. <i>230</i>.`

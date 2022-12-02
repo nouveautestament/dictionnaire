@@ -1,0 +1,1 @@
+lar[99677]=`<b>ου (ὁ)</b> compas, PHIL. BYZ. <i>Bel. 9</i>.<p><b>Étym</b>. <i>dim. de</i> τόρνος.`

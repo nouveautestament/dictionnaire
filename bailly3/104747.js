@@ -1,0 +1,1 @@
+lar[104747]=`<b>ά, όν</b> <i>ou</i> <b>φάλαρος, α, ον</b> <font color="purple">[ᾰᾱ]</font> tacheté de blanc, THCR. <i>Idyl. 8, 27, etc.</i> ; NIC. <i>Th. 46</i>.<p>➳ <i>Ion</i>. φαληρός, NIC. <i>l.c</i>.`

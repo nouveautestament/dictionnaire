@@ -1,0 +1,1 @@
+lar[472]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> chef d’un troupeau, ANTH. <i>10, 333 dout.</i><br><b>      2</b> chef <i>ou</i> surveillant des ἀγέλαι, <i>en Crète,</i> HÉRACLIDE LEMB. <i>Pol. 15, p. 374 Rose</i>.<p><b>Étym</b>. ἀγέλη.`

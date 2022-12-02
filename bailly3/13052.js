@@ -1,0 +1,1 @@
+lar[13052]=`<b>ἀπο·περκόομαι-οῦμαι</b>, devenir noir, se noircir, SOPH. <i>fr. 239</i>.<p><b>Étym</b>. ἀπό, πέρκος.`

@@ -1,0 +1,1 @@
+lar[38]=`<b>ἀ·βάκχευτος, ος, ον :<br>      1</b> <font color="brown">non initié au culte de Bacchus</font>, EUR. <i>Bacch. 472</i>.<br><b>      2</b> <font color="brown">non semblable aux Bacchantes</font> : ἀβ. θίασος, EUR. <i>Or. 319,</i> troupe échevelée, mais non joyeuse comme celle des Bacchantes.<p><b>Étym</b>. ἀ, βακχεύω.`

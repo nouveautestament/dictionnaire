@@ -1,0 +1,1 @@
+lar[37686]=`<b>ου (ὁ)</b> corde pour ouvrir <i>ou</i> fermer un filet, XÉN. <i>Cyn. 6, 9</i>.<p><b>Étym</b>. ἐπιδραμεῖν.`

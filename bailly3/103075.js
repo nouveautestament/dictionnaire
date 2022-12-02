@@ -1,0 +1,1 @@
+lar[103075]=`<b>ὑπό·γλαυκος, ος, ον</b>, un peu glauque, verdâtre <i>ou</i> bleuâtre, XÉN. <i>Cyn. 5, 23</i> ; DIOSC. <i>2, 211, etc</i>.<p><b>Étym</b>. ὑ. γλαυκός.`

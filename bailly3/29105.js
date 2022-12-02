@@ -1,0 +1,1 @@
+lar[29105]=`<b>δωδεκά·σκυτος, ος, ον</b> <font color="purple">[ῡ]</font> formé de douze peaux, PLAT. <i>Phæd. 110b</i>.<p><b>Étym</b>. δ. σκῦτος.`

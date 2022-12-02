@@ -1,0 +1,1 @@
+lar[98461]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> qui a lieu <i>ou</i> survient le quatorzième jour, HPC. <i>Progn. 41 ; 53, 30 ; 568, 22</i>.<p><b>Étym</b>. τεσσαρεσκαιδέκατος.`

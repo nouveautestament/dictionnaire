@@ -1,0 +1,1 @@
+lar[36225]=`<b>οῦ (ὁ)</b> qui méprise, PHILOD. <i>De sup. 24, 2 Sauppe</i>.<p><b>Étym</b>. ἐξουδενόω.`

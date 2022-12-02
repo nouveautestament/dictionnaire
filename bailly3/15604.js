@@ -1,0 +1,1 @@
+lar[15604]=`<b>ἀρχι·ευνοῦχος, ου (ὁ)</b> chef des eunuques, SPT. <i>Dan. 1, 3</i> ; HLD. <i>8, 3</i>.`

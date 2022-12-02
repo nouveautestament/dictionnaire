@@ -1,0 +1,1 @@
+lar[101540]=`<b>ὑδρό·δρομος, ος, ον</b>, qui court au milieu de l’eau, qui nage, ORPH. <i>H. 23, 7</i>.<p><b>Étym</b>. ὕδ. δραμεῖν.`

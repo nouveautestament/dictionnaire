@@ -1,0 +1,1 @@
+lar[20420]=`<b>βού·κρανον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> tête de bœuf, PROCL.<p><b>Étym</b>. <i>neutre de</i> βούκρανος.`

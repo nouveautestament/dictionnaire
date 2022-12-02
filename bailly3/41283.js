@@ -1,0 +1,1 @@
+lar[41283]=`<b>ἑτερ·εγκεφαλάω-ῶ</b> <font color="purple">[φᾰ]</font> avoir la migraine, <i>càd</i>. avoir la tête mal équilibrée, AR. <i>fr. 611</i>.<p><b>Étym</b>. ἕτ. ἐγκέφαλον.`

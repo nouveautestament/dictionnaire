@@ -1,0 +1,1 @@
+lar[43591]=`<b>εὐ·τιθάσευτος, ος, ον</b> <font color="purple">[ῐ]</font> facile à apprivoiser, STR. <i>705</i>.<p><b>Étym</b>. εὖ, τιθασεύω.`

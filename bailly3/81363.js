@@ -1,0 +1,1 @@
+lar[81363]=`<i>adv.</i> :<br><b>      1</b> de façon à produire, <i>gén</i>. ARSTT. <i>Top. 1, 15, 10</i>.<br><b>      2</b> poétiquement, PLAT. <i>Rsp. 332b ; particul</i>. par licence poétique, STR. <i>9, 2, 14 Kram</i>.`

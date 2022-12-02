@@ -1,0 +1,1 @@
+lar[102950]=`<b>ὑπηνό·βιος, ος, ον</b>, qui vit avec toute sa barbe, PLAT. COM. (ARSTT. <i>Nic. 4, 7).</i><p><b>Étym</b>. ὑπήνη, βίος.`

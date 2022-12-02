@@ -1,0 +1,1 @@
+lar[9472]=`<b>ἀντ·ανισόω-ῶ</b> <font color="purple">[ῐ]</font> égaliser en retour, SYN. <i>Provid. 6, 1276b Migne</i>.`

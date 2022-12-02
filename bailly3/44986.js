@@ -1,0 +1,1 @@
+lar[44986]=`<b>ου (τὸ)</b> Hèdyleion, <i>mt de Béotie,</i> DÉM. <i>387, 11</i>.`

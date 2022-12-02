@@ -1,0 +1,1 @@
+lar[64018]=`<b>μελί·κηρα, ας (ἡ) :<br>      1</b> frai du coquillage qui produit la pourpre et qui a la forme de cellules d’abeilles, ARSTT. <i>H.A. 5, 15, 1</i>.<br><b>      2</b> rayon de miel, PHÉRÉCR. (<i>Com. fr. 2, 264).</i><p><b>Étym</b>. μέλι, κηρίον.`

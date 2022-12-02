@@ -1,0 +1,1 @@
+lar[45369]=`<b>ος, ον</b>, notre, le nôtre, ANACR. <i>71</i> ; ANAXANDR. (ATH. <i>570e</i>).<p><b>Étym</b>. ἡμέτερος.`

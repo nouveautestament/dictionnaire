@@ -1,0 +1,1 @@
+lar[253]=`<b>ἀγαθο·ειδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui ressemble au bien, PLAT. <i>Rsp. 509a.</i><br><b>      2</b> salutaire, JAMBL.<p><b>Étym</b>. ἀ. εἶδος.`

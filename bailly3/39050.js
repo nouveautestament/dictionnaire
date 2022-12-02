@@ -1,0 +1,1 @@
+lar[39050]=`<b>εως (ἡ)</b> action de verser sur, libation, HDT. <i>2, 39</i>.<p><b>Étym</b>. ἐπισπένδω.`

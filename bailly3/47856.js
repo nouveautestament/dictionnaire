@@ -1,0 +1,1 @@
+lar[47856]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> petit sac, <i>particul</i>. pour les provisions de bouche, AR. <i>fr. 32, 464</i> ; CRATÈS (ATH. <i>267f</i>).<p><b>Étym</b>. <i>dim. de</i> θύλακος.`

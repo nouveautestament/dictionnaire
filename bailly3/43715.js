@@ -1,0 +1,1 @@
+lar[43715]=`<b>εὐ·φιλής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> <i>act</i>. qui aime beaucoup, ESCHL. <i>Eum. 197</i>.<br><b>      2</b> <i>pass</i>. bien-aimé, ESCHL. <i>Ag. 34</i>.<p><b>Étym</b>. εὖ, φιλέω.`

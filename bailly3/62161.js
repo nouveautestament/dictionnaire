@@ -1,0 +1,1 @@
+lar[62161]=`<b>οῦ</b>, <i>adj. m</i>. qui gâte, qui fait tort à, AR. <i>Ran. 93</i>.<p><b>Étym</b>. λωβάομαι.`

@@ -1,0 +1,1 @@
+lar[29104]=`<b>δωδεκά·σκαλμος, ος, ον</b>, à douze bancs de rameurs, PLUT. <i>Cæs. 38</i>.<p><b>Étym</b>. δ. σκαλμός.`

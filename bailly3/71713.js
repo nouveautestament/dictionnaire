@@ -1,0 +1,1 @@
+lar[71713]=`<b>ὁμοτεχνέω-ῶ</b>, exercer la même profession, le même art, HPC. <i>1285c</i>.<p><b>Étym</b>. ὁμότεχνος.`

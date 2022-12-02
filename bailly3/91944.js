@@ -1,0 +1,1 @@
+lar[91944]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. de la rate : φλέψ, SYENNES. (ARSTT. <i>H.A. 3, 2, 7</i>) ; RUF. <i>p. 41 Clinch</i>. veine splénique.<p><b>Étym</b>. σπλήν.`

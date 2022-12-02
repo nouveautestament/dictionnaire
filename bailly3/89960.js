@@ -1,0 +1,1 @@
+lar[89960]=`<b>ή, όν :<br>      1</b> apte à noter, <i>gén</i>. PORPH. <i>Abst. 2, 49</i>.<br><b>      2</b> <i>particul</i>. qui concerne l’observation, <i>gén</i>. THEOL. <i>51</i> ; EROT. <i>24</i> ; DIOSC. <i>Iob. p. 47</i> ; ἡ σημειωτική (<i>s.-e</i>. τέχνη) GAL. la diagnostique <i>ou</i> observation des symptômes, <i>t. de méd</i>.<p><b>Étym</b>. σημειόω.`

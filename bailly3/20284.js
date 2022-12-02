@@ -1,0 +1,1 @@
+lar[20284]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en venant du pâturage, OPP. <i>H. 4, 393</i>.<p><b>Étym</b>. βοτάνη, -θεν.`

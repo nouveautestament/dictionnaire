@@ -1,0 +1,1 @@
+lar[70351]=`<b>οῦ (ὁ)</b> habitant, SOPH. <i>O.R. 1450</i> ; PLAT. <i>Phæd. 111c</i>.<p><b>Étym</b>. οἰκέω.`

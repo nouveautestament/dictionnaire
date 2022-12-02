@@ -1,0 +1,1 @@
+lar[78930]=`<b>περι·μηχανάομαι-ῶμαι</b> <font color="darkgreen">(<i>seul. épq. prés. 3 pl</i>. περιμηχανόωνται, <i>et impf. 3 pl</i>. περιμηχανόωντο)</font> <font color="purple">[χᾰ]</font> machiner <i>ou</i> tramer : τι, OD. <i>7, 200 (prés</i>.) qqe ch. ; τί τινι, OD. <i>14, 340 (impf</i>.) qqe projet contre qqn.`

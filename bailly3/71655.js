@@ -1,0 +1,1 @@
+lar[71655]=`<b>ὁμό·πολις, εως (ὁ, ἡ)</b> de la même ville <i>ou</i> du même État, PLUT. <i>M. 276b</i>.<p><b>Étym</b>. ὁμ. πόλις.`

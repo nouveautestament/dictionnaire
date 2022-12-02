@@ -1,0 +1,1 @@
+lar[30214]=`crier εἶα, <i>càd</i>. encourager, EUR. (HSCH.).<p><b>Étym</b>. εἶα ; <i>cf</i>. αἰάζω.`

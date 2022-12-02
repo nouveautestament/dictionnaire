@@ -1,0 +1,1 @@
+lar[26770]=`<b>δι·ομαλίζω</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) rester le même, être d’une humeur égale, PLUT. <i>Cato ma. 4</i> ; SEXT. <i>M. 11, 207</i> ; LGN <i>33, 4</i>.`

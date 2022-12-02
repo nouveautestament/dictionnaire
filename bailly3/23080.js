@@ -1,0 +1,1 @@
+lar[23080]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>seul. plur</i>. Δάκτυλοι Ἰδαῖοι, les Dactyles du mt Ida, <i>prêtres de Cybèle,</i> A.RH. <i>1, 1129</i> ; STR. <i>555</i> ; DS. <i>3, 64, etc</i>.`

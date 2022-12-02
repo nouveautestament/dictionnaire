@@ -1,0 +1,1 @@
+lar[79765]=`<b>ου (ὁ)</b> Persæos (Persée) :<br><b>      1</b> <i>père d’Hékatè,</i> HH. <i>Cer. 24</i>.<br><b>      2</b> <i>philosophe stoïcien,</i> PLUT. <i>Arat. 18</i> ; ATH. <i>140b, etc.</i> ; EL. <i>V.H. 3, 17, etc</i>.`

@@ -1,0 +1,1 @@
+lar[17654]=`<b>αὐτο·πραγία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> liberté <i>ou</i> habitude d’agir à sa guise, indépendance, PLAT. <i>Def. 411e ;</i> CHRYSIPP. (PLUT. <i>M. 1043b</i>) ; DL. <i>7, 121</i>.<p><b>Étym</b>. *αὐτόπραγος, <i>v</i>. αὐτοπραγέω.`

@@ -1,0 +1,1 @@
+lar[52183]=`<b>κατα·βρύκω</b> <font color="purple">[ῡ]</font> déchirer à belles dents, dévorer, HIPPON. (ATH. <i>645c</i>) ; NIC. <i>Th. 675</i> ; ANTH. <i>6, 263</i>.`

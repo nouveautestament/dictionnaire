@@ -1,0 +1,1 @@
+lar[77426]=`<b>ου (ὁ)</b> = <i>lat</i>. Paulinus, <i>n. d’h. rom</i>. PLUT. <i>Oth. 7, 8, etc</i>.`

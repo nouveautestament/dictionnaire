@@ -1,0 +1,1 @@
+lar[55184]=`<b>ος, ον</b>, propre à charmer, à apaiser les dieux, propitiatoire, EUR. <i>Hec. 535</i>.<p><b>Étym</b>. κηλέω.`

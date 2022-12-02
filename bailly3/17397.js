@@ -1,0 +1,1 @@
+lar[17397]=`<b>αὐτο·βοεί</b>, <i>adv</i>., au premier cri, <i>d’où</i> au premier assaut, THC. <i>2, 81, etc.</i> ; PLUT. LUC.<p><b>Étym</b>. αὐ. βοή.`

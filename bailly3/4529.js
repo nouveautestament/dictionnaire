@@ -1,0 +1,1 @@
+lar[4529]=`<b>Ἁλί·πεδον, ου (τὸ)</b> Halipédon, <i>plaine près du Pirée,</i> XÉN. <i>Hell. 2, 4, 30</i>.<p><b>Étym</b>. <i>v</i>. ἁλίπεδον.`

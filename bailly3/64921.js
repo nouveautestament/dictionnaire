@@ -1,0 +1,1 @@
+lar[64921]=`<b>μετα·πορεύομαι :<br>   I</b> aller d’un lieu à un autre, PLAT. <i>Leg. 904c.</i><br><b>   II</b> poursuivre, <i>càd.</i> :<br><b>      1</b> rechercher, ambitionner, POL. <i>10, 4, 2</i>.<br><b>      2</b> poursuivre par vengeance, <i>acc</i>. LYS. <i>187, 1 ; d’où</i> châtier, punir, <i>acc</i>. POL. <i>2, 58, 11, etc</i>.`

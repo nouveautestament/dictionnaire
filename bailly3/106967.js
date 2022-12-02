@@ -1,0 +1,1 @@
+lar[106967]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> menu bois mort, broussailles, AR. <i>Pax 1026</i> ; PLUT. <i>M. 553c ; d’ord. au plur</i>. HDT. <i>4, 62</i> ; THC. <i>3, 111</i> ; XÉN. <i>An. 4, 3, 11, etc.</i> ; ARSTT. <i>H.A. 8, 20, 5</i>.<p><b>Étym</b>. φρύγω.`

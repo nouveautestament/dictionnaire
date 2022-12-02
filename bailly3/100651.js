@@ -1,0 +1,1 @@
+lar[100651]=`<b>τριχρονέω-ῶ</b>, être à trois temps, CHARAX <i>in Hort. Ad. p. 228</i>.<p><b>Étym</b>. τρίχρονος.`

@@ -1,0 +1,1 @@
+lar[55338]=`<b>ῶν (οἱ)</b> Kèttes, <i>dème attique de la tribu Léontide,</i> LYS. (HARP.).`

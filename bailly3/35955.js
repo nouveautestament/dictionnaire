@@ -1,0 +1,1 @@
+lar[35955]=`<b>εως (ἡ)</b> action d’apprivoiser, de cultiver, PLUT. <i>Num. 14</i>.<p><b>Étym</b>. ἐξημερόω.`

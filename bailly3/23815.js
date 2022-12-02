@@ -1,0 +1,1 @@
+lar[23815]=`<b>ικος (ὁ)</b> <font color="purple">[ῐκ]</font> table à trois pieds, <i>chez les Romains,</i> PLUT. <i>T. Gracch. 2</i>.<p><b>Étym</b>. <i>cf. lat</i>. mensa Delphica.`

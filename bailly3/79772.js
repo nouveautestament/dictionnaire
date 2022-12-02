@@ -1,0 +1,1 @@
+lar[79772]=`<b>ου (τὸ)</b> fruit de l’arbre inconnu περσέα, TH. <i>H.P. 2, 2, 10 ; au pl</i>. πέρσεια, CLÉARQ. (ATH. <i>649a</i>, d).`

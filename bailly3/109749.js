@@ -1,0 +1,1 @@
+lar[109749]=`<b>ψευδο·χρυσόλιθος, ου (ὁ)</b> <font color="purple">[ῡῐ]</font> fausse chrysolithe, <i>sorte de pierre,</i> DS. <i>2, 52</i>.`

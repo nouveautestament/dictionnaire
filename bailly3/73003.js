@@ -1,0 +1,1 @@
+lar[73003]=`<b>ου (ὁ)</b> Orontès :<br><b>   I</b> <i>n. d’h.</i> :<br><b>      1</b> <i>Perse,</i> XÉN. <i>An. 1, 6, 1</i>.<br><b>      2</b> <i>autres,</i> NONN. <i>D. 17, 252, etc.</i><br><b>   II</b> <i>fl. de Syrie (auj</i>. Asi) NONN. <i>D. 33, 213, etc</i>.<p>➳ <i>Gén. ion</i>. -εω, ARR. <i>Ind. 18, 5</i>.`

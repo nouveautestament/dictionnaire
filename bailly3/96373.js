@@ -1,0 +1,1 @@
+lar[96373]=`<b>συντριηραρχέω-ῶ</b>, être triérarque avec, LYS. <i>107, 21</i> ; ISOCR. <i>382d</i>.<p>➳ <i>Dans une inscr. att. impf. sans augm. 3 sg</i>. συντριηράρχει, CIA. <i>2, 809c, 29 (325 av. J.-C.), v. Meisterh. p. 137, 19</i>.<p><b>Étym</b>. συντριήραρχος.`

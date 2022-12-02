@@ -1,0 +1,1 @@
+lar[73210]=`<b>εως (ἡ)</b> action de sanctifier, purification, DH. <i>1, 88</i>.<p><b>Étym</b>. ὁσιόω.`

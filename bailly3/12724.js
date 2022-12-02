@@ -1,0 +1,1 @@
+lar[12724]=`<b>ἀπο·λάμπω :<br>      1</b> briller, resplendir, IL. <i>6, 295</i> ; OD. <i>15, 108 ; impers</i>. αἰχμῆς ἀπέλαμπε, IL. <i>22, 319,</i> la lumière jaillissait de sa lance.<br><b>      2 <i>tr.</i></b> faire jaillir la lumière, faire briller, <i>acc</i>. LUC. <i>Dom. 8</i>.<br><b><i>Moy.</i></b> briller, LUC. <i>Syr. 30 ; fig</i>. IL. <i>14, 183</i>.`

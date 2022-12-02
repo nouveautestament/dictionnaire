@@ -1,0 +1,1 @@
+lar[93111]=`<b>ή, όν :<br>      1</b> de saveur âcre, DIOSC. <i>1, 168</i>.<br><b>      2</b> astringent, HPC. <i>Aph. 1259</i>.<p>•<i> Cp</i>. -ώτερος, DIOSC. <i>l. c</i>.<p><b>Étym</b>. στύφω.`

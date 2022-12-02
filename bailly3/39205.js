@@ -1,0 +1,1 @@
+lar[39205]=`<b>ἐπι·συγκρούω</b>, se heurter contre, <i>acc</i>. DC. <i>Exc. p. 185</i>.`

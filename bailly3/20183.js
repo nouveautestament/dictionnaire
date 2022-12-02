@@ -1,0 +1,1 @@
+lar[20183]=`<b>βοο·ζύγιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> joug pour les bœufs, SPT. <i>Sir. 26, 7</i>.<p><b>Étym</b>. βοῦς, ζυγός.`

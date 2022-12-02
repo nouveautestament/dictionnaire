@@ -1,0 +1,1 @@
+lar[57693]=`<b>κρεα·νόμος, ος, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui distribue les chairs d’une victime, EUR. <i>Cycl. 245</i>.<br><b>      2</b> qui coupe de la chair en morceaux, LYC. <i>203</i>.<p><b>Étym</b>. κρέας, νέμω.`

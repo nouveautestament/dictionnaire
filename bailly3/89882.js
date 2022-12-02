@@ -1,0 +1,1 @@
+lar[89882]=`<i>part. pf. pass. de</i> σήθω.`

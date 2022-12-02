@@ -1,0 +1,1 @@
+lar[137]=`<b>ου (ὁ)</b> Abœôkritos, <i>h</i>. PLUT. <i>Arat. 16</i>.`

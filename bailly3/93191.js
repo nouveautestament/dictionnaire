@@ -1,0 +1,1 @@
+lar[93191]=`<b>συγγεωργέω-ῶ :<br>      1</b> travailler à la terre avec un autre, IS. <i>76, 25</i>.<br><b>      2</b> aider à labourer, à cultiver, EUN. <i>p. 32</i>.<p><b>Étym</b>. συγγέωργος.`

@@ -1,0 +1,1 @@
+lar[100880]=`<b>τρυφερό·βιος, ος, ον</b> <font color="purple">[ῠ]</font> qui mène une vie sensuelle, efféminée, PROCL. <i>Ptol. p. 232</i>.<p><b>Étym</b>. τρυφερός, βίος.`

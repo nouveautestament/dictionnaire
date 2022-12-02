@@ -1,0 +1,1 @@
+lar[66652]=`<b>ας (ἡ)</b> uniformité de ton, A. QUINT. <i>p. 11, 3</i>.<p><b>Étym</b>. μονότονος.`

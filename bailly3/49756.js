@@ -1,0 +1,1 @@
+lar[49756]=`<b>ἰσοταχέω-ῶ</b> <font color="purple">[ῑ̆ᾰ]</font> avoir une égale vitesse, PHIL. <i>1, 463</i> ; HLD. <i>8, 17, p. 406</i>.<p><b>Étym</b>. ἰσοταχής.`

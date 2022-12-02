@@ -1,0 +1,1 @@
+lar[104743]=`<b>ίδος</b> <font color="purple">[ᾰᾱῐδ]</font><br><b>      1</b> poule d’eau, AR. <i>Ach. 875, Av. 565</i> ; ARSTT. <i>H.A. 8, 3, 15</i>.<br><b>      2</b> millet d’oiseau (<i>Phalaris canariensis</i> L.) DIOSC. <i>3, 159</i> ; PLIN. <i>H.N. 27, 12, 102</i>.<p>➳ <i>Ion</i>. φαληρίς, AR. <i>Av. 565</i>.<p><b>Étym</b>. φαλαρός.`

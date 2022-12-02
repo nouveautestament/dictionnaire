@@ -1,0 +1,1 @@
+lar[107259]=`<b>ος, ον</b> <font color="purple">[ῠῐ]</font> propre à croître <i>ou</i> à produire, TH. <i>C.P. 4, 4, 8</i>.<p><b>Étym</b>. φύσις.`

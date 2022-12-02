@@ -1,0 +1,1 @@
+lar[19320]=`<i>vb. de</i> βαστάζω MOSCHION <i>Mul. pass. 103</i>.`

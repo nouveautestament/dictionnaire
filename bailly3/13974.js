@@ -1,0 +1,1 @@
+lar[13974]=`<b>ἀ·προσόρατος, ος, ον</b> <font color="purple">[ρᾱ]</font> qu’on n’ose regarder en face, terrible, PD. <i>O. 2, 74</i> ; ORPH. <i>H. 38, 2</i>.<p><b>Étym</b>. ἀ, προσοράω.`

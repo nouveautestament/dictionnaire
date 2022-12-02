@@ -1,0 +1,1 @@
+lar[62966]=`<b>Μάρκιον ὄρος (τὸ)</b> le mt Marcius, <i>dans le Latium, en Italie,</i> PLUT. <i>Cam. 33</i>.`

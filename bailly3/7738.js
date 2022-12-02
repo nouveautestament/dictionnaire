@@ -1,0 +1,1 @@
+lar[7738]=`<b>ἀνα·σχινδυλεύω</b>, <i>att. p</i>. ἀνασκινδυλεύω <font color="purple">[ῠ]</font> empaler, PLAT. <i>Rsp. 362a</i>.`

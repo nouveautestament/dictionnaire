@@ -1,0 +1,1 @@
+lar[28921]=`<b>δυ·στίβευτος</b>, <i>ou mieux</i> <b>δυσ·στίβευτος, ος, ον</b> <font color="purple">[ῐ]</font> dont il est difficile de suivre la trace, PLUT. <i>M. 917e, 918a</i>.<p><b>Étym</b>. δ. στιβεύω.`

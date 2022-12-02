@@ -1,0 +1,1 @@
+lar[20469]=`<b>βου·λυτός, οῦ (ὁ)</b> <font color="purple">[ῡ]</font> (<i>s.-e</i>. καιρός) heure où l’on dételle les bœufs, soir, AR. <i>Av. 1500</i> ; A.RH. <i>3, 1342</i> ; LUC. <i>Cat. 1</i>.<p><b>Étym</b>. βοῦς, λύω.`

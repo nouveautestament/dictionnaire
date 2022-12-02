@@ -1,0 +1,1 @@
+lar[69897]=`<b>ξυνο·χαρής, ής, ές</b> <font color="purple">[ῡᾰ]</font> qui est une source de joie commune à tous, ANTH. <i>9, 525, 15</i>.<p><b>Étym</b>. ξυνός, χαίρω.`

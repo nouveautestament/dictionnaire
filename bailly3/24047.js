@@ -1,0 +1,1 @@
+lar[24047]=`<b>δευτερ·αγωνιστής, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> acteur des seconds rôles ; <i>fig. au tribunal,</i> orateur en sous-ordre, celui qui seconde le défenseur en titre, DÉM. <i>344, 8,</i> LUC. <i>Per. 36</i>.<p><b>Étym</b>. δεύτερος, ἀγωνιστής ; <i>cf</i>. πρωταγωνιστής, <i>etc</i>.`

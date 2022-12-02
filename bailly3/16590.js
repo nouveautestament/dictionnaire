@@ -1,0 +1,1 @@
+lar[16590]=`<b>ἄ·σφιγκτος, ος, ον</b>, qui n’est pas <i>ou</i> ne peut pas être serré, GAL. <i>12, 373</i>.<p><b>Étym</b>. ἀ, σφίγγω.`

@@ -1,0 +1,1 @@
+lar[8919]=`<b>ου (τὸ)</b> cerfeuil sauvage, COM. (ATH. <i>685b</i>).`

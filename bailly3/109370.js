@@ -1,0 +1,1 @@
+lar[109370]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui sert à verser, à répandre, ARSTT. <i>Probl. 1, 30</i> ; GAL. <i>2, 30</i>.<p><b>Étym</b>. χυτός.`

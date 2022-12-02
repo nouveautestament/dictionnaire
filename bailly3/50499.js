@@ -1,0 +1,1 @@
+lar[50499]=`<b>εως (ἡ)</b> action de s’endormir, ARSTT. <i>Probl. 11, 17, 2</i>.<p><b>Étym</b>. καθυπνόω.`

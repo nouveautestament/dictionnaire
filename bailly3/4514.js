@@ -1,0 +1,1 @@
+lar[4514]=`<b>ικος (ὁ)</b> saumure, GEOP. <i>20, 46, 2</i>.<p><b>Étym</b>. <i>lat</i>. ālēc, hallec.`

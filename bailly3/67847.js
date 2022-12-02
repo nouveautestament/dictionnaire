@@ -1,0 +1,1 @@
+lar[67847]=`<b>ναυ·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰ]</font> gardien d’un vaisseau, AR. <i>fr. 339 Dind</i>.`

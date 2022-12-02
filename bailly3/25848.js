@@ -1,0 +1,1 @@
+lar[25848]=`<b>έως (ὁ)</b> qui détruit, <i>d’où</i> qui viole (les lois) PLAT. <i>Crit. 53c ;</i> qui corrompt (les jeunes gens, <i>etc</i>.) PLAT. <i>Crit. 53c ;</i> qui profane (un temple) STR. <i>575</i> ; qui cause la perte de, EUR. <i>Hipp. 682 (au voc</i>. -ορεῦ) <i>joint à un fém</i>.<p><b>Étym</b>. διαφθείρω.`

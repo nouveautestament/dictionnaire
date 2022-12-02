@@ -1,0 +1,1 @@
+lar[78744]=`<i>adv</i>., tout autour, de tous côtés, entièrement, CASS. <i>Probl. 1, 331</i>.<p><b>Étym</b>. περίκειμαι.`

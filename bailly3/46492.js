@@ -1,0 +1,1 @@
+lar[46492]=`<b>θειό·δομος, ος, ον</b>, construit par les dieux, ANTH. <i>7, 138 ; 9, 104</i>.<p><b>Étym</b>. θεῖος¹, δέμω.`

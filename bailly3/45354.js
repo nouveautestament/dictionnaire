@@ -1,0 +1,1 @@
+lar[45354]=`<b>ητος (ἡ) :<br>      1</b> humeur douce, douceur, PLAT. <i>Rsp. 410d ;</i> ARSTT. <i>H.A. 8, 1, 2 ; p. suite, chez les écriv. ecclésiast</i>. mansuétude, clémence, <i>c. titre d’honneur</i> (Votre Clémence) BAS. <i>4, 449</i> ; NAZ. <i>3, 204 Migne</i>.<br><b>      2</b> état cultivé (d’un pays) HPC. <i>Aër. 288</i>.<p><b>Étym</b>. ἥμερος.`

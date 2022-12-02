@@ -1,0 +1,1 @@
+lar[42619]=`<b>εὔ·λυρος, ος, ον</b> <font color="purple">[ῠ]</font> à la lyre mélodieuse, <i>en parl. d’Apollon,</i> EUR. <i>fr. 480 ; des Muses,</i> AR. <i>Ran. 229</i>.<p><b>Étym</b>. εὖ, λύρα.`

@@ -1,0 +1,1 @@
+lar[99758]=`<i>béot. c</i>. σύ, DYSC. <i>Pron. p. 324b</i>.`

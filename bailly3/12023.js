@@ -1,0 +1,1 @@
+lar[12023]=`<b>ῶν (αἱ)</b> <i>s.-e</i>. κρηπῖδες, sandales (<i>litt</i>. chaussures simples) <i>sorte de chaussure lacédémonienne,</i> DÉM. <i>1267, 25</i>.<p><b>Étym</b>. ἁπλοῦς.`

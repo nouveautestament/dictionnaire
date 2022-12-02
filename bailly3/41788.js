@@ -1,0 +1,1 @@
+lar[41788]=`<b>εὐ·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> muni d’une forte pointe, OPP. <i>H. 5, 439</i> ; Q. SM. <i>8, 406 ; 10, 81</i>.<p><b>Étym</b>. εὖ, γλωχίν.`

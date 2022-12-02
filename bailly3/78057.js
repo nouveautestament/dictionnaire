@@ -1,0 +1,1 @@
+lar[78057]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en cinq parties, HDT. <i>3, 117</i>.<p><b>Étym</b>. πέντε, -χου.`

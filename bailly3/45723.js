@@ -1,0 +1,1 @@
+lar[45723]=`<b>ἡπατο·σκόπος, ος, ον</b> <font color="purple">[ᾰ]</font> qui examine le foie d’une victime (pour prédire l’avenir) ARTÉM. <i>2, 69</i>.<p><b>Étym</b>. ἧπαρ, σκοπέω.`

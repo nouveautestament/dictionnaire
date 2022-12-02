@@ -1,0 +1,1 @@
+lar[58775]=`<b>ου (ὁ)</b> lapin, POL. <i>12, 3, 10</i>.<p><b>Étym</b>. <i>lat</i>. cuniculus.`

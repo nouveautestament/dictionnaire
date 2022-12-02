@@ -1,0 +1,1 @@
+lar[74354]=`<b>ῶν (οἱ)</b> les Pæoples, <i>pple de Pæonie, au N. du Pangæos,</i> HDT. <i>5, 15 ; 7, 113</i>.`

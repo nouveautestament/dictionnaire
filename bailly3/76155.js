@@ -1,0 +1,1 @@
+lar[76155]=`<b>*παρα·ρριγόω-ῶ</b> (<i>seul. fut. 2 sg</i>. παραριγώσεις <font color="purple">[ᾰρῑ]</font> <i>poét. p</i>. *παραρριγώσεις) grelotter auprès de, <i>dat</i>. ANTH. <i>5, 43</i>.<p><b>Étym</b>. π. ῥιγόω.`

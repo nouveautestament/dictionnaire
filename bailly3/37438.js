@@ -1,0 +1,1 @@
+lar[37438]=`<b>ου (τὸ)</b> câble pour amarrer un navire, AR. <i>fr. 51</i>.<p><b>Étym</b>. <i>neutre de</i> ἐπίγειος.`

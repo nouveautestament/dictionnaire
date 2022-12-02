@@ -1,0 +1,1 @@
+lar[73325]=`<b>ὀστρειο·γραφής, ής, ές</b> <font color="purple">[ᾰ]</font> teint en pourpre, ANTH. <i>App. 330</i>.<p><b>Étym</b>. ὄστρειον, γράφω.`

@@ -1,0 +1,1 @@
+lar[25732]=`<b>δια·τιλάω-ῶ</b> <font color="purple">[τῑ]</font> (<i>seul. ao</i>.) rendre des excréments, HIPPIATR. <i>p. 105 (inf</i>. -ῆσαι) ; <i>194</i>.<p><b>Étym</b>. <i>sbj. 3 sg</i>. -ήσῃ.`

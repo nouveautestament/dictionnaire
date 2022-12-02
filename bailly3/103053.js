@@ -1,0 +1,1 @@
+lar[103053]=`<b>ὑπό·βρυχος, ος, ον</b> <font color="purple">[ῠ]</font> <i>au pl. neutre adv</i>. ὑπόβρυχα, sous l’eau, au fond de l’eau, OD. <i>5, 319</i> ; HDT. <i>7, 130</i> ; ARAT. <i>426</i> ; Q. SM. <i>13, 485 ; 14, 618</i> ; OPP. <i>H. 1, 145 ; 3, 599 ; 4, 59</i>.<p><b>Étym</b>. ὑ. βρύχω.`

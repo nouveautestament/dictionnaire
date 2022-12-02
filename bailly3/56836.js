@@ -1,0 +1,1 @@
+lar[56836]=`<b>κομπο·φακελο·ρρήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> inventeur de mots pompeux et sonores, AR. <i>Ran. 839, en parl. d’Eschyle</i>.<p><b>Étym</b>. κόμπος, φάκελος, ῥῆμα.`

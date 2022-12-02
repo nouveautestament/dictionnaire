@@ -1,0 +1,1 @@
+lar[35067]=`<b>ἐν·τεύχω</b>, produire, ARÉT. <i>Cur. m. acut. 1, 2</i>.`

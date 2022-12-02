@@ -1,0 +1,1 @@
+lar[50683]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais dessein, mauvaise résolution, DL. <i>7, 93</i> ; JOS. <i>B.J. 2, 11, 3</i>.<p><b>Étym</b>. κακόβουλος.`

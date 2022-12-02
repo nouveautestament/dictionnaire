@@ -1,0 +1,1 @@
+lar[6758]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> retraite <i>ou</i> retour d’une armée, d’une flotte, POL. <i>5, 110, 5</i> ; PLUT. <i>Ages. 13 ; au plur</i>. POL. <i>5, 52, 3, etc</i>.<p><b>Étym</b>. ἀναζεύγνυμι.`

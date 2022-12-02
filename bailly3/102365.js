@@ -1,0 +1,1 @@
+lar[102365]=`<b>ὑπερ·βορίς, ίδος</b>, <i>adj. f</i>. des régions hyperboréennes, DH. <i>1, 43</i>.<p><b>Étym</b>. <i>v</i>. ὑπερβόρεος.`

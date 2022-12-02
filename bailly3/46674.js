@@ -1,0 +1,1 @@
+lar[46674]=`<b>θεό·κλυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>act</i>. qui implore les dieux, ESCHL. <i>Sept. 143</i>.<br><b>      2</b> <i>pass</i>. exaucé de la divinité, JOS. <i>A.J. 1, 3, 3</i>.<p><b>Étym</b>. θ. κλύω.`

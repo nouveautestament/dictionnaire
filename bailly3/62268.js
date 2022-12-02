@@ -1,0 +1,1 @@
+lar[62268]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> jeu de l’acteur μαγῳδός, ATH. <i>621d</i>.`

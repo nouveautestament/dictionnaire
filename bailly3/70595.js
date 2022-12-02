@@ -1,0 +1,1 @@
+lar[70595]=`<b>Οἰνο·χάρων, οντος (ὁ)</b> <font color="purple">[ᾰ]</font> le Charon du vin, <i>surn. de Philippe de Macédoine, qui faisait mourir ses ennemis au moyen de vin empoisonné et qui passait pour aimer le vin,</i> ANTH. <i>11, 12</i>.<p><b>Étym</b>. <i>jeu de mots sur Χάρων et sur</i> οἰνοχαρής.`

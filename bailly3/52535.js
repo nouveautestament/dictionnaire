@@ -1,0 +1,1 @@
+lar[52535]=`<b>κατα·κηρύσσω :<br>      1</b> annoncer <i>ou</i> ordonner par la voix du héraut, <i>acc</i>. XÉN. <i>An. 2, 2, 20</i> ; POL. <i>23, 2, 6</i>.<br><b>      2</b> <i>particul</i>. adjuger devant un tribunal : τι εἴς τινα, PLUT. <i>Lys. c. Syll. 3,</i> qqe ch. à qqn.`

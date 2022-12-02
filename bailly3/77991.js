@@ -1,0 +1,1 @@
+lar[77991]=`<b>αι, α</b> <font color="purple">[ᾰ]</font> cinq cents, OD. <i>3, 7</i> ; HDT. <i>1, 7 ; sg</i>. πεντακοσία ἵππος, LGS <i>3, 1,</i> troupe de 500 cavaliers ; οἱ π. PLUT. <i>Cim. 17,</i> le Conseil des Cinq Cents.<p>➳ <i>Ion</i>. πεντηκόσιοι, HDT. <i>l. c</i>.<p><b>Étym</b>. πέντε, -κόσιος.`

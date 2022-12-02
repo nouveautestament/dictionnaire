@@ -1,0 +1,1 @@
+lar[77994]=`<b>πεντα·κυμία, ας (ἡ)</b> <font color="purple">[ᾰῡ]</font> la 5<sup>e</sup> vague, <i>d’où</i> vague énorme, celle qui met le comble aux autres, LUC. <i>M. cond. 2 ; cf</i>. τρικυμία.<p><b>Étym</b>. πέντε, κῦμα.`

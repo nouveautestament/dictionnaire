@@ -1,0 +1,1 @@
+lar[25646]=`<b>δια·στυλόω-ῶ</b> <font color="purple">[ῡ]</font> soutenir au moyen de piliers (de bois) de distance en distance, POL. <i>5, 4, 8 ; 5, 100, 4</i> ; DS. <i>20, 23</i>.<p><b>Étym</b>. διά, στῦλος.`

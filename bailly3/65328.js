@@ -1,0 +1,1 @@
+lar[65328]=`<b>ή, όν</b>, qui concerne la longueur, longitudinal, PROCL. <i>Hyp. p. 114, 29</i>.<p><b>Étym</b>. μῆκος.`

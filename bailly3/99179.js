@@ -1,0 +1,1 @@
+lar[99179]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Timæos :<br><b>      1</b> (Timée) de Locres, <i>philosophe</i>.<br><b>      2</b> (Timée) de Tauromenium, <i>historien,</i> PLUT. <i>Tim. 10, etc.</i><br><b>      3</b> <i>lexicographe</i>.<p><b>Étym</b>. <i>v</i>. τιμαῖος.`

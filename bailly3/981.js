@@ -1,0 +1,1 @@
+lar[981]=`<b>η, ον</b> <font color="purple">[ῠ]</font> capturé, ANTH. <i>7, 702</i>.<p><b>Étym</b>. *ἄγρυμι = ἀγρεύω, <i>de</i> ἄγρα.`

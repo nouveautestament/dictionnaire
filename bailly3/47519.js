@@ -1,0 +1,1 @@
+lar[47519]=`<b>οῦ (τὸ)</b> <i>sorte de poisson</i> de mer de Thurium, ATH. <i>274d</i>.<p><b>Étym</b>. Θούριοι.`

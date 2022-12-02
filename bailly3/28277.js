@@ -1,0 +1,1 @@
+lar[28277]=`<b>δυσ·γοήτευτος, ος, ον</b>, difficile à tromper par du charlatanisme, PLAT. <i>Rsp. 413e</i>.<p><b>Étym</b>. δ. γοητεύω.`

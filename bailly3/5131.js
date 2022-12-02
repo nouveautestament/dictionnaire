@@ -1,0 +1,1 @@
+lar[5131]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit renard, AR. <i>Eq. 1076, 1079</i>.<p><b>Étym</b>. ἀλώπηξ.`

@@ -1,0 +1,1 @@
+lar[3678]=`<b>ἀκρ·έσπερος, ος, ον</b>, qui se fait au commencement de la nuit, sur le soir, NIC. <i>Th. 25</i> ; ANTH. <i>7, 633 ; adv</i>. ἀκρέσπερον, HPC. <i>1216b ;</i> THCR. <i>Idyl. 24, 75,</i> sur le soir.<p><b>Étym</b>. ἄκρος, ἑσπέρα.`

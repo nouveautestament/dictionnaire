@@ -1,0 +1,1 @@
+lar[84134]=`<b>προ·εμβαίνω</b> <font color="darkgreen">(<i>f</i>. -εμβήσομαι, <i>ao.2</i> -ενέβην, <i>etc</i>.)</font> entrer auparavant <i>ou</i> le premier, PLUT. <i>Pomp. 78</i>.`

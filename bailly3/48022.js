@@ -1,0 +1,1 @@
+lar[48022]=`<font color="purple">[ῠ]</font> <i>adv. épq. c</i>. θύραθεν, OD. <i>14, 352</i>.`

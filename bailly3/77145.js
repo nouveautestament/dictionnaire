@@ -1,0 +1,1 @@
+lar[77145]=`<b>ου (τὸ)</b> <font color="purple">[ᾰσ]</font> le mt Parrhasion, <i>en Arcadie,</i> CALL. <i>Dian. 99, etc</i>.`

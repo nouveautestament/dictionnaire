@@ -1,0 +1,1 @@
+lar[104572]=`<b>α, ον</b>, plus brillant, NONN. <i>D. 40, 384</i> ; ANTH. <i>9, 210</i>.<p><b>Étym</b>. <i>cp. d’un adj. inus. ; cf</i>. φαάντατος.`

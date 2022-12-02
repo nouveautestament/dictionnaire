@@ -1,0 +1,1 @@
+lar[22035]=`<b>ά, όν</b> <font color="purple">[ᾰῠ]</font> chassieux, HPC. <i>641, 11 ; en parl. des yeux eux-mêmes,</i> HPC. <i>642, 50</i>.<p><b>Étym</b>. <i>Cf</i>. λήμη <i>et lat</i>. gramiosus.`

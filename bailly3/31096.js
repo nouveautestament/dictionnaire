@@ -1,0 +1,1 @@
+lar[31096]=`<b>ἐκ·βλέπω</b> (<i>seul. prés</i>.) :<br><b>      1</b> regarder à distance, jeter des regards, PHILSTR. <i>Im. 1, p. 863</i>.<br><b>      2</b> observer, EL. <i>N.A. 3, 25</i>.<br><b>      3</b> chercher à voir, vouloir discerner, ARSTD. <i>t. 1, 298</i>.`

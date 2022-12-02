@@ -1,0 +1,1 @@
+lar[99192]=`<b>Τιμ·αρέτη, ης (ἡ)</b> <font color="purple">[ῑᾰ]</font> Timarétè, <i>f</i>. HDT. <i>2, 55</i>.<p>➳ <i>Dor</i>. Τιμαρέτα <font color="purple">[τᾱ]</font> ANTH. <i>6, 280</i>.<p><b>Étym</b>. τιμή, ἀρετή.`

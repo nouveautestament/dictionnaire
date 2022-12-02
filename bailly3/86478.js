@@ -1,0 +1,1 @@
+lar[86478]=`<b>προσ·τέρπω</b>, <i>dor</i>. <b>ποτι·τέρπω</b> (<i>seul. prés. impér. 3 sg</i>. ποτιτερπέτω) réjouir, charmer, IL. <i>15, 401</i>.`

@@ -1,0 +1,1 @@
+lar[70507]=`<b>ας (ἡ)</b> coupe pour les libations οἰνιστήρια, PAMPHIL. (ATH. <i>494f</i>).<p><b>Étym</b>. <i>v</i>. οἰνιστήρια.`

@@ -1,0 +1,1 @@
+lar[94886]=`<b>συν·αποκτείνω</b>, tuer avec <i>ou</i> en même temps, ESCHN. <i>48, 3</i> ; ANT. <i>134, 8 ; avec un dat</i>. DC. <i>fr. p. 12, 67 Peir</i>.`

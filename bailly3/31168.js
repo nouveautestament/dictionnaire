@@ -1,0 +1,1 @@
+lar[31168]=`<b>ἐκ·δεσμεύω</b> (<i>part. prés</i>.) lier à ; <i>fig</i>. ἐκδ. τὴν πίστιν εἰς ἀλλήλους, POL. <i>3, 33, 8,</i> se lier les uns aux autres par une promesse de fidélité.`

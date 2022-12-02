@@ -1,0 +1,1 @@
+lar[24278]=`<b>Δημο·μέλης, ους (ὁ)</b> Dèmomélès, <i>Athénien,</i> ESCHN. <i>F. leg. § 93 Baiter-Sauppe</i> ; DÉM. <i>302, 25 ; 816 fin</i>.<p>➳ <i>Acc</i>. -ην, ESCHN. <i>l. c.</i> ; -η, DÉM. <i>ll. cc</i>.<p><b>Étym</b>. δ. μέλει.`

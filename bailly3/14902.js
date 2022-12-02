@@ -1,0 +1,1 @@
+lar[14902]=`<b>ου (ὁ)</b> Harmodios, <i>meurtrier d’Hipparque, de complicité avec Aristogiton,</i> HDT. <i>5, 55, etc</i>.<p><b>Étym</b>. <i>v</i>. ἁρμόδιος.`

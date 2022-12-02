@@ -1,0 +1,1 @@
+lar[103822]=`<b>ὑπο·σκαίρω</b> (<i>seul. prés</i>.) sauter un peu <i>ou</i> légèrement, NONN. <i>D. 8, 21</i>.`

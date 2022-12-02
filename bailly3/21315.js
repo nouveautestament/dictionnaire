@@ -1,0 +1,1 @@
+lar[21315]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> γαμέω, PLUT. <i>Demetr. 14</i> ; ARR. <i>Epict. 3, 7, 19 ; etc</i>.`

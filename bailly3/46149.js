@@ -1,0 +1,1 @@
+lar[46149]=`<font color="purple">[θᾰ]</font><br><b>      1</b> goûter de l’eau de mer, ATH. <i>92a.</i><br><b>      2</b> avoir goût d’eau de mer, XÉNOCR. <i>Al. 60</i>.<p><b>Étym</b>. θάλασσα.`

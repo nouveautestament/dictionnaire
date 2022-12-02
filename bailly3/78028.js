@@ -1,0 +1,1 @@
+lar[78028]=`<b>πεντα·πλόος-οῦς, έα-ῆ, όον-οῦν</b>, quintuple, SPT. <i>3Reg. 6, 31</i> ; πενταπλῆ κύλιξ, CALLIX. (ATH. <i>495e</i>) coupe contenant cinq substances (vin, miel, huile, orge, fromage) <i>et qu’on offrait au vainqueur dans certains jeux</i>.<p><b>Étym</b>. π. -πλόος.`

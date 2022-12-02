@@ -1,0 +1,1 @@
+lar[90554]=`<b>σιτο·πώλης, ου (ὁ)</b> <font color="purple">[ῑ]</font> marchand de blé, de céréales, LYS. <i>Or. 22 (titre</i>) ; ARSTT. <i>H.A. 6, 24, 3</i>.<p><b>Étym</b>. σῖτος, πολέω.`

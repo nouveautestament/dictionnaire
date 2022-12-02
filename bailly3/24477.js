@@ -1,0 +1,1 @@
+lar[24477]=`<b>δια·γιγγράζω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διεγίγγρασ' <i>conj</i>.)</font> distiller artistement (un jus) <i>p. anal. avec un bon joueur de flûte,</i> ATHÉNION (ATH. <i>661b</i>).<p><b>Étym</b>. διά, γίγγρας.`

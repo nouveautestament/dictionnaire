@@ -1,0 +1,1 @@
+lar[86586]=`<b>ατος (τὸ)</b> <font color="purple">[φᾰ]</font> ce qu’on mange en outre du pain, pitance, ES. <i>64 Halm</i>.<p><b>Étym</b>. προσφαγεῖν, <i>inf. ao.2 de</i> προσέδω.`

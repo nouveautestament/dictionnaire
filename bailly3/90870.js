@@ -1,0 +1,1 @@
+lar[90870]=`<b>ή, όν</b> <font color="purple">[ᾱᾰφ]</font> qui concerne la perspective, PROCL. (<i>Wyttenbach Philom. 3, p. 91).</i><p><b>Étym</b>. σκιαγράφος.`

@@ -1,0 +1,1 @@
+lar[90137]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> grenadier <i>et</i> grenade, <i>mot dorien c</i>. ῥοιά, EMPÉD. <i>287 Mullach</i> ; NIC. <i>Th. 72, 870 ; Al. 489, 622</i>.<br><b>      2</b> <i>p. ext</i>. pelure de grenade, EL. <i>N.A. 6, 46</i>.`

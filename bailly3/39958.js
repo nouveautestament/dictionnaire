@@ -1,0 +1,1 @@
+lar[39958]=`<b>ἑπτά·ζωνος, ος, ον</b>, qui a sept ceintures <i>ou</i> cercles, NONN. <i>D. 1, 241</i>.<p><b>Étym</b>. ἑ. ζώνη.`

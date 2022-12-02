@@ -1,0 +1,1 @@
+lar[46284]=`<b>θανατάω-ῶ</b> <font color="purple">[ᾰνᾰ]</font> <i>c</i>. θανατιάω, PLAT. <i>Phæd. 64b, Ax. 366c ;</i> PAUS. <i>4, 8, 1</i>.`

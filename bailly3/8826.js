@@ -1,0 +1,1 @@
+lar[8826]=`<b>ἀνθηρο·γραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> écrire d’un style fleuri, CIC. <i>Att. 2, 6</i>.<p><b>Étym</b>. ἀνθηρός, γράφω.`

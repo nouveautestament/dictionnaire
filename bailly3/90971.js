@@ -1,0 +1,1 @@
+lar[90971]=`<b>ῶνος (ὁ)</b> <font color="purple">[σκῐ]</font> Skirophoriôn, <i>12<sup>e</sup> mois du calendrier athénien (fin de Juin, commencement de Juillet) où se célébrait la fête des Skirophories,</i> ANT. <i>146, 18</i> ; ARSTT. <i>H.A. 5, 11, 1 ; 6, 21, 7</i> ; TH. <i>H.P. 4, 11, 5</i>.<p><b>Étym</b>. <i>v</i>. Σκιροφόρια.`

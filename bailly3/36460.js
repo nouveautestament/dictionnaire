@@ -1,0 +1,1 @@
+lar[36460]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par suite de, selon, <i>dat</i>. ANTIP. (STOB. <i>Fl. 70, 13</i>).`

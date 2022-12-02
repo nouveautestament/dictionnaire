@@ -1,0 +1,1 @@
+lar[85328]=`<b>προσ·αφορίζω</b>, fixer en outre, EUM. <i>p. 201, etc</i>.`

@@ -1,0 +1,1 @@
+lar[49610]=`<b>ἰσό·βρυον, ου (τὸ)</b> <font color="purple">[ῑ̆]</font> sorte de mousse, DIOSC. <i>3, 49</i>.<p><b>Étym</b>. ἴ. βρύον.`

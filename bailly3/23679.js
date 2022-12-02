@@ -1,0 +1,1 @@
+lar[23679]=`<b>δεκά·νευρος, ος, ον</b> <font color="purple">[ᾰ]</font> à dix cordes, ORIG. <i>2, 1304c Migne</i>.<p><b>Étym</b>. δ. νευρά, <i>cf</i>. δεκάχορδος.`

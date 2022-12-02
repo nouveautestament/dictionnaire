@@ -1,0 +1,1 @@
+lar[93755]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> entretien, conversation, PHILOD. <i>De ira 1 p. 54</i>.<p><b>Étym</b>. συλλαλέω.`

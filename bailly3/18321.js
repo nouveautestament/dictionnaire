@@ -1,0 +1,1 @@
+lar[18321]=`<b>ἀ·φύσικος, ος, ον</b> <font color="purple">[ῠῐ]</font><br><b>      1</b> non conforme à la nature, non naturel, SOR. SEXT.<br><b>      2</b> sans talent naturel, DL. <i>7, 170</i>.`

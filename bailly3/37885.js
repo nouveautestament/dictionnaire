@@ -1,0 +1,1 @@
+lar[37885]=`<i>adv.</i> :<br><b>      1</b> à propos, SYMM. <i>Ps. 9, 10 ; 68, 13</i>.<br><b>      2</b> dans une partie essentielle du corps : ἐπ. τετρῶσθαι, PAUS. <i>4, 8, 4,</i> être grièvement blessé.`

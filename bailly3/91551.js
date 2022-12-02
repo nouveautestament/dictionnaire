@@ -1,0 +1,1 @@
+lar[91551]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui s’agite avec force, <i>d’où</i> lascif, EUP. (SCH.-AR. <i>Pax 812</i>) ; PHIL. <i>2, 266, 7</i> ; ἡ σοβάς, ATH. <i>629f</i>, sorte de danse comique.`

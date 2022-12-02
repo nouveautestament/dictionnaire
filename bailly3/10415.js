@@ -1,0 +1,1 @@
+lar[10415]=`<b>ἀντι·στασιάζω</b> <font color="purple">[ᾰσ]</font> former un parti contraire, <i>d’où</i> rivaliser avec qqn, <i>dat</i>. XÉN. <i>An. 4, 1, 27 ; abs</i>. XÉN. <i>Cyr. 7, 4, 3</i> ; DC. <i>37, 54</i>.`

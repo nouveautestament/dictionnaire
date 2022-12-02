@@ -1,0 +1,1 @@
+lar[6557]=`<b>ἀνα·βορβορύζω</b> (<i>seul. impf</i>.) gronder en murmurant, AR. <i>Eccl. 433</i>.`

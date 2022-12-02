@@ -1,0 +1,1 @@
+lar[36263]=`<b>ἐξ·υδρίας ἄνεμος (ὁ)</b> vent qui amène la pluie, ARSTT. <i>Mund. 4, 11</i>.<p><b>Étym</b>. ἐξ, ὕδωρ.`

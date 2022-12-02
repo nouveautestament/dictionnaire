@@ -1,0 +1,1 @@
+lar[18552]=`<font color="purple">[μᾰ]</font> <i>adv</i>., sans être coloré, LIB. <i>4, 1070</i>.`

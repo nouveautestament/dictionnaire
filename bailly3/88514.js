@@ -1,0 +1,1 @@
+lar[88514]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> Rhianos, <i>poète crétois,</i> ANTH. <i>6, 34, etc</i>.`

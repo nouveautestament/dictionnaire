@@ -1,0 +1,1 @@
+lar[124]=`<b>ου (ὁ)</b> Ablèros, <i>Troyen,</i> IL. <i>6, 32</i>.`

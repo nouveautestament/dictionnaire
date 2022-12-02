@@ -1,0 +1,1 @@
+lar[101968]=`<b>ὑπ·ανθηρός, ά, όν</b> <font color="purple">[ῠ]</font> légèrement coloré (de sang) HPC. <i>1012d</i>.<p><b>Étym</b>. ὑ. ἀνθηρός.`

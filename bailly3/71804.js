@@ -1,0 +1,1 @@
+lar[71804]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> ombiliqué, arrondi <i>ou</i> bombé, ANTH. <i>6, 84</i>.<p><b>Étym</b>. ὀμφαλός.`

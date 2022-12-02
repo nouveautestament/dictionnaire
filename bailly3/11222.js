@@ -1,0 +1,1 @@
+lar[11222]=`<b>ἀπ·αμελέω-ῶ</b> <font color="purple">[ᾰμ]</font> négliger complètement, HDT. <i>3, 129, 132</i> ; SOPH. <i>Ph. 652</i>.`

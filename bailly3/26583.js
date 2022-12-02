@@ -1,0 +1,1 @@
+lar[26583]=`<b>ου (τὸ)</b> dictame, <i>plante médicinale, originaire du mont Diktè, en Crète,</i> ARSTT. <i>H.A. 9, 6, 2</i>.<p><b>Étym</b>. Δίκτη.`

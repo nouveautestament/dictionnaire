@@ -1,0 +1,1 @@
+lar[97204]=`<i>nom. neutre ou acc. sg. de</i> σῶς, THC. <i>3, 34</i>.`

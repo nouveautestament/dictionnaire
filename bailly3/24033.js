@@ -1,0 +1,1 @@
+lar[24033]=`<b>ατος (τὸ)</b> <i>au plur</i>. morceaux de chairs cuites, PD. <i>O. 1, 50</i>.<p><b>Étym</b>. δεύω¹, <i>incert</i>.`

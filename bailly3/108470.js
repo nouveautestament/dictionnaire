@@ -1,0 +1,1 @@
+lar[108470]=`<b>ίδος (ἡ)</b> Khilônis, <i>n. de f. Spartiate,</i> PLUT. <i>Pyrrh. 26, etc</i>.`

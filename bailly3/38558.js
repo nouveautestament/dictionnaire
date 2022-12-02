@@ -1,0 +1,1 @@
+lar[38558]=`<b>ἐπι·νωμάω-ῶ :<br>      1 <i>tr.</i></b> distribuer, partager, répartir, ESCHL. <i>Eum. 311, Sept. 729</i> ; SOPH. <i>Ant. 139</i> ; τι ὀμμάτων αὐγαῖς, EUR. <i>Ph. 1564,</i> parcourir qqe ch. du regard.<br><b>      2 <i>intr.</i></b> s’approcher de, <i>dat</i>. SOPH. <i>Ph. 168</i>.`

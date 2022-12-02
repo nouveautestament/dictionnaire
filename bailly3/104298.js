@@ -1,0 +1,1 @@
+lar[104298]=`<b>ου (ἡ)</b> hysope, <i>plante aromatique,</i> NIC. <i>Th. 872</i> ; ATH. <i>156e ;</i> DIOSC. <i>3, 30, etc</i>.<p>➳ ὁ ὕσσ. HIPPIATR. <i>p. 272, 287</i>.<p><b>Étym</b>. <i>hébr</i>. êzôb.`

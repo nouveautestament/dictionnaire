@@ -1,0 +1,1 @@
+lar[13114]=`<b>ῆς (ἡ) :<br>      1</b> expiration, exhalaison, ARSTT. <i>Probl. 1, 30</i> ; TH. <i>H.P. 9, 7, 2, etc.</i><br><b>      2</b> brise qui souffle d’un lieu, ARSTT. <i>Probl. 26, 30, 2</i>.<br><b>      3</b> action d’expirer, mort, DL. <i>4, 21 (corr. p</i>. ἀναπνοή).<p><b>Étym</b>. ἀποπνέω.`

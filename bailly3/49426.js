@@ -1,0 +1,1 @@
+lar[49426]=`<b>ητος (ἡ)</b> idée que l’esprit conçoit du cheval, SCH.-ARSTD. <i>p. 167</i>.<p><b>Étym</b>. ἵππος.`

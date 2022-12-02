@@ -1,0 +1,1 @@
+lar[81750]=`<b>πολυ·βαφής, ής, ές</b> <font color="purple">[ῠᾰ]</font> plusieurs fois submergé, ESCHL. <i>Pers. 274 (vulg., corr</i>. πολύδονος).<p><b>Étym</b>. π. βάπτω.`

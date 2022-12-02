@@ -1,0 +1,1 @@
+lar[48117]=`<font color="darkgreen">(<i>inf</i>. θῶσθαι, ESCHL. <i>fr. 44, et f</i>. θωσοῦμαι, EPICH. <i>fr. 167 Ahrens</i>)</font> festiner, <i>c</i>. θοινάομαι.`

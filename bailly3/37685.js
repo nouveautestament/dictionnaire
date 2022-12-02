@@ -1,0 +1,1 @@
+lar[37685]=`<b>ή, όν</b>, fait en courant, précipité, <i>au cp</i>. -ώτερος, SEXT. <i>M. 5, 3</i>.<p><b>Étym</b>. ἐπίδρομος.`

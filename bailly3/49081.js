@@ -1,0 +1,1 @@
+lar[49081]=`<b>ονος (ὁ)</b> <font color="purple">[ξῑ]</font> Ixion, <i>héros thessalien,</i> PD. <i>P. 2, 59</i> ; ESCHL. <i>Eum. 441, 718, etc. ; plur</i>. οἱ Ἰξίονες, ARSTT. <i>Poet. 18,</i> les Ixions.`

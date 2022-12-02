@@ -1,0 +1,1 @@
+lar[21795]=`<b>α, ον</b> de vieillard <i>ou</i> de la vieillesse, AR. <i>fr. 603</i>.<p><b>Étym</b>. γέρων.`

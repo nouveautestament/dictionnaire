@@ -1,0 +1,1 @@
+lar[10558]=`<b>ἀντι·φιλονεικέω-ῶ</b> <font color="purple">[φῐ]</font> s’opposer par envie à : τινι πρός τι, POL. <i>3, 103, 7 ; 32, 7, 6, etc</i>. être en opposition <i>ou</i> en rivalité avec qqn pour qqe ch. ; <i>abs</i>. JOS. <i>A.J. 2, 9, 1</i>.`

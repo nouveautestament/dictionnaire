@@ -1,0 +1,1 @@
+lar[105216]=`<b>υγος (ὁ)</b> <font color="purple">[ᾰ]</font> étincelle de cendre chaude, ARCHIL. <i>125 ; prov</i>. <font color="blue">οὐδὲ φ.</font> AR. <i>Lys. 107,</i> pas même une étincelle.<p><b>Étym</b>. φέψαλος.`

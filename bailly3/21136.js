@@ -1,0 +1,1 @@
+lar[21136]=`<b>ης, ες</b>, de la nature d’une glande, HPC. <i>Art. 106</i>.<p><b>Étym</b>. γάγγλιον, -ωδης.`

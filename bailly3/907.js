@@ -1,0 +1,1 @@
+lar[907]=`<b>ἀγριο·δαίτης, ου (ὁ)</b> qui se nourrit de fruits sauvages, ORACL. (PAUS. <i>8, 42, 4).</i><p><b>Étym</b>. ἄγρ. δαίς.`

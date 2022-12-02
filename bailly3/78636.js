@@ -1,0 +1,1 @@
+lar[78636]=`<b>ατος (τὸ)</b> retentissement, JAMBL. <i>V. Pyth. 25</i>.<p><b>Étym</b>. <i>114</i>.`

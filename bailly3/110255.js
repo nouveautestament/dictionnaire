@@ -1,0 +1,1 @@
+lar[110255]=`<b>οῦ (ὁ)</b> celui qui porte sur ses épaules, HDN GR. <i>Epim. p. 100 Boissonade</i>.<p><b>Étym</b>. ὠμίζομαι.`

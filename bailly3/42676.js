@@ -1,0 +1,1 @@
+lar[42676]=`<b>εὐ·μετάγωγος</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> facile à déplacer, APD. POL. <i>16 fin</i>.<br><b>      2</b> <i>fig</i>. facile à guérir, GAL. <i>19, 558</i>.<p><b>Étym</b>. εὖ, μετάγω.`

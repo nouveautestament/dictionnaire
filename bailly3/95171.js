@@ -1,0 +1,1 @@
+lar[95171]=`<b>συν·διαφορέω-ῶ</b>, disperser <i>ou</i> dissiper avec, <i>fig</i>. LGN <i>40, 1</i>.`

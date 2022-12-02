@@ -1,0 +1,1 @@
+lar[60043]=`<font color="purple">[νᾱ]</font> <i>dor. c</i>. λαχνήεις.`

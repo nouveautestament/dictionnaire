@@ -1,0 +1,1 @@
+lar[76621]=`<b>παρ·εκνέομαι</b> (<i>seul. prés</i>.) passer le long de <i>ou</i> au delà de, <i>acc</i>. A.RH. <i>2, 941</i>.`

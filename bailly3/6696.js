@@ -1,0 +1,1 @@
+lar[6696]=`<b>ἀνα·δέσμη, ης (ἡ)</b> bandeau pour la chevelure des femmes, IL. <i>22, 469</i> ; EUR. <i>Med. 978</i>.<p><b>Étym</b>. <i>cf</i>. ἀνάδεσμος.`

@@ -1,0 +1,1 @@
+lar[29778]=`<b>εως (ἡ)</b> droit d’acquérir des biens-fonds, <i>d’où</i> l’acquisition elle-même, XÉN. <i>Hell. 5, 2, 19</i> ; SPT. <i>Lev. 25, 16</i>.<p>➳ <i>Dor</i>. ἔγκτασις <font color="purple">[ᾱ]</font> DÉM. <i>256, 7 (décr</i>.).<p><b>Étym</b>. ἐγκτάομαι.`

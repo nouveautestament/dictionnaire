@@ -1,0 +1,1 @@
+lar[94770]=`<b>συν·αναφλέγω</b>, faire brûler ensemble, PHIL. <i>1, 345 ; 2, 27</i>.`

@@ -1,0 +1,1 @@
+lar[25050]=`<b>δια·μηρυκάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> ruminer continuellement, <i>fig</i>. CHRYS. <i>1, 22</i>.`

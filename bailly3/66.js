@@ -1,0 +1,1 @@
+lar[66]=`<b>Ἀβάτης οἶνος (ὁ)</b> vin d’Aba <i>en Cilicie,</i> ATH. <i>33b</i>.`

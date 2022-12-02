@@ -1,0 +1,1 @@
+lar[77723]=`<b>οντος (ὁ)</b> <font color="purple">[ᾰ]</font> Pélagôn, <i>h</i>. IL. <i>4, 295 ; 5, 695</i> ; ESCHL. <i>Pers. 598, etc</i>.<p>➳ <i>Gén</i>. -ωνος, ANTH. <i>7, 505</i>.`

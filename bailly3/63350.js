@@ -1,0 +1,1 @@
+lar[63350]=`<b>μεγαλό·δενδρος, ος, ον</b> <font color="purple">[ᾰ]</font> aux grands arbres, STR. <i>142, 156, etc</i>.<p><b>Étym</b>. μ. δένδρον.`

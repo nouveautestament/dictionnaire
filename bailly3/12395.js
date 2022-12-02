@@ -1,0 +1,1 @@
+lar[12395]=`<b>ος, ον</b>, qui peut se conserver, JOS. <i>A.J. 16, 17, 1</i>.<p><b>Étym</b>. ἀποτίθημι.`

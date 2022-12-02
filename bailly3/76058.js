@@ -1,0 +1,1 @@
+lar[76058]=`<b>παρα·πίμπρημι</b>, faire brûler sur le côté, <i>d’où au pass</i>. brûler sur le côté, XÉN. <i>Eq. 1, 4</i> ; TH. <i>Sud. 15</i>.`

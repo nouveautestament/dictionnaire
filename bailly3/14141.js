@@ -1,0 +1,1 @@
+lar[14141]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> gesse, sorte de pois chiche à deux fruits (<i>Lathyrus amphicarpus</i> L.) ; AR. <i>fr. 364</i> ; TH. <i>H.P. 8, 8, 3</i>.`

@@ -1,0 +1,1 @@
+lar[13644]=`<b>ος, ον</b>, dont il faut se détourner, abominable, THÉM. <i>170c</i>.<p><b>Étym</b>. ἀποτρέπω.`

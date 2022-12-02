@@ -1,0 +1,1 @@
+lar[61415]=`<i>c</i>. λιταίνω.<p>➳ <font color="purple">[ῐ]</font> OPP. <i>C. 2, 373 ; irrég</i>. <font color="purple">[ῑ]</font> NAZ. <i>Epigr. 192</i>.`

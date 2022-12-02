@@ -1,0 +1,1 @@
+lar[19214]=`<b>βαρυτονέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰῠ]</font> prononcer avec l’accent grave, <i>càd</i>. ne frapper d’aucun accent, DH. <i>2, 58</i> ; DYSC. <i>Pron. 356b, etc</i>.<p><b>Étym</b>. βαρύτονος.`

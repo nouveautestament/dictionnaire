@@ -1,0 +1,1 @@
+lar[98651]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. τετραποδηδόν, POL. <i>5, 60, 7</i>.`

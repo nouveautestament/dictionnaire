@@ -1,0 +1,1 @@
+lar[19815]=`<b>ων (οἱ)</b> = <i>lat</i>. Bĭtŭrĭges, les Bituriges, <i>pple d’Aquitaine, en Gaule,</i> STR. DC.`

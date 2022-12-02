@@ -1,0 +1,1 @@
+lar[15530]=`<b>Ἀρχέ·λαος, ου (ὁ)</b> <font color="purple">[λᾱ]</font> Arkhélaos (Archélaüs) <i>h</i>. THC. <i>2, 100</i> ; PLAT. <i>Gorg. 470d, etc</i>.<p>➳ <i>Dor</i>. Ἀρχέλας, AR. <i>Eq. 164. Ion</i>. Ἀρχέλεως, <i>voc</i>. -εως, ANTH. <i>10, 17</i>.<p><b>Étym</b>. <i>v</i>. ἀρχέλαος.`

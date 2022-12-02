@@ -1,0 +1,1 @@
+lar[101386]=`<b>ή, όν</b>, qui a la propriété de mouiller, d’humecter, DIPH. SIPHN. (ATH. <i>59b</i>) ; CLÉM. <i>215</i> ; PROCL.<p><b>Étym</b>. ὑγραίνω.`

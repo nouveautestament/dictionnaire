@@ -1,0 +1,1 @@
+lar[41362]=`<b>ἑτεροποδέω-ῶ</b>, avoir un pied plus court, boiter, HIPPIATR. <i>p. 258</i>.<p><b>Étym</b>. ἑτερόπους.`

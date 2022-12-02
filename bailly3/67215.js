@@ -1,0 +1,1 @@
+lar[67215]=`<b>μυριαγωγέω-ῶ</b> <font color="purple">[ῡᾰ]</font> porter une cargaison de 10 000 amphores <i>ou</i> autres mesures, DIN. (POLL. <i>4, 165).</i><p><b>Étym</b>. μυριαγωγός.`

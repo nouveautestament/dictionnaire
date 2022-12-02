@@ -1,0 +1,1 @@
+lar[98061]=`<b>τεκνο·γόνος, ος, ον</b> qui procrée <i>ou</i> enfante, ESCHL. <i>Sept. 929</i>.<p><b>Étym</b>. τέκνον, γίγνομαι.`

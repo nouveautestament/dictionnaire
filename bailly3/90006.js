@@ -1,0 +1,1 @@
+lar[90006]=`<b>σησαμο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable au sésame, HPC. <i>406, 38 ; 1288, 15</i> ; TH. <i>H.P. 3, 13, 6</i> ; τὸ σησαμοειδὲς μέγα <i>et</i> μικρόν, DIOSC. <i>4, 152, n. de deux plantes qui ressemblent au sésame</i>.<p><b>Étym</b>. σησάμη, εἶδος.`

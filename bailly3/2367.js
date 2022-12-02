@@ -1,0 +1,1 @@
+lar[2367]=`<b>ή, όν</b>, qui concerne les parties honteuses, ORIB. <i>p. 184 Mai</i> ; P. ÉG. <i>244 Briau</i>.<p><b>Étym</b>. αἰδοῖον.`

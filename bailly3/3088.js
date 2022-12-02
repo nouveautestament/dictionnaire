@@ -1,0 +1,1 @@
+lar[3088]=`<b>ἀκαμαντο·μάχης, ου</b> <font color="purple">[ᾰκᾰ]</font> <i>adj. m</i>. infatigable au combat, PD. <i>P. 4, 171</i>.<p><b>Étym</b>. ἀκ. μάχομαι.`

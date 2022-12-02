@@ -1,0 +1,1 @@
+lar[88589]=`<b>ας (ἡ)</b> <font color="purple">[ῑῠ]</font> injection dans le nez, DIOSC. <i>2, 212</i>.<p><b>Étym</b>. ῥινέγχυτος.`

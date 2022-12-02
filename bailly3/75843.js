@@ -1,0 +1,1 @@
+lar[75843]=`<b>παρ·αλείφω</b> <font color="purple">[ᾰλ]</font> enduire le bord de, <i>acc</i>. AR. <i>Eccl. 406 ; d’où en gén</i>. enduire, ARSTT. <i>Rhet. 3, 4, 3</i>.`

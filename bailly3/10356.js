@@ -1,0 +1,1 @@
+lar[10356]=`<b>ή, όν</b>, qui concerne l’ἀντίπτωσις <i>ou</i> employé par ἀντίπτωσις, RHÉT. <i>8, 660 W</i>.`

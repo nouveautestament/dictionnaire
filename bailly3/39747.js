@@ -1,0 +1,1 @@
+lar[39747]=`<b>εως (ἡ) :<br>      1</b> construction d’une levée de terre, terrassement, POL. <i>4, 41, 9</i>.<br><b>      2</b> exagération, EUST. <i>Op. p. 188, 21</i>.<p><b>Étym</b>. ἐπιχώννυμι.`

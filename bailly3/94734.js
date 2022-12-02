@@ -1,0 +1,1 @@
+lar[94734]=`<b>συν·ανανεόομαι-εοῦμαι</b>, restaurer ensemble <i>ou</i> en même temps, POL. <i>Exc. Vat. p. 383</i>.`

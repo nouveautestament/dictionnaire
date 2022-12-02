@@ -1,0 +1,1 @@
+lar[19735]=`<b>ίδος</b> <font color="purple">[ῑῡ]</font> <i>adj. f</i>. de Bithynie, A.RH. <i>2, 177, etc.</i> ; ANTH. <i>6, 230, etc.</i> ; ἡ β. XÉN. <i>Hell. 3, 2, 2,</i> la Bithynie (<i>cf</i>. βιθυνία).<p><b>Étym</b>. βιθυνοί.`

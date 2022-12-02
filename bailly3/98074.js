@@ -1,0 +1,1 @@
+lar[98074]=`<b>τεκνο·ρραίστης, ου (ὁ)</b> meurtrier de ses propres enfants, LYC. <i>38</i>.<p><b>Étym</b>. τ. ῥαίω.`

@@ -1,0 +1,1 @@
+lar[63545]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Mediolānum (<i>auj</i>. Milano, Milan) <i>v. des Insubres, dans la Gaule transpadane,</i> PLUT. <i>Marc. 7, Cæs. 47, etc</i>.`

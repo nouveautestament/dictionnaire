@@ -1,0 +1,1 @@
+lar[83954]=`<b>προ·διατυπόω-ῶ</b> <font color="purple">[ῠ]</font> représenter <i>ou</i> figurer d’avance, <i>au pass</i>. PHIL. <i>1, 4</i> ; CLÉM. <i>564</i> ; CHRYS. <i>5, 33c</i>.`

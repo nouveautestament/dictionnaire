@@ -1,0 +1,1 @@
+lar[37049]=`<b>ἐπ·ελαφρίζω</b> <font color="purple">[ᾰ]</font> alléger, <i>d’où au pass</i>. s’élever par l’effet de sa légèreté, PHIL. <i>2, 621 ; fig. en parl. de pers</i>. PHIL. <i>200</i>.`

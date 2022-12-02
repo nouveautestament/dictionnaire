@@ -1,0 +1,1 @@
+lar[110038]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> action d’animer, de donner la vie, M. ANT. <i>12, 24</i>.<br><b>      2</b> <i>p. ext</i>. âme, PYTHAG. (CLÉM. <i>62).</i><p><b>Étym</b>. ψυχόω.`

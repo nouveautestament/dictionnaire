@@ -1,0 +1,1 @@
+lar[70551]=`<b>οἰνο·πλάνητος, ος, ον</b> <font color="purple">[ᾰ]</font> égaré par le vin, EUR. <i>Rhes. 363</i>.<p><b>Étym</b>. οἶν. πλάνητος.`

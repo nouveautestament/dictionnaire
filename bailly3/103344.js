@@ -1,0 +1,1 @@
+lar[103344]=`<b>ὑπο·κάτω</b> <font color="purple">[ᾰ]</font> <i>adv. et prép</i>. en dessous, en bas, PLAT. <i>Leg. 844c ; fig</i>. τὸ ὑποκάτω γένος, ARSTT. <i>Top. 6, 5, 6, etc</i>. le genre subordonné ; <i>avec un gén</i>. au-dessous de, au bas de, <i>gén</i>. PLAT. <i>Phæd. 112d, Conv. 222e</i>.`

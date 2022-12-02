@@ -1,0 +1,1 @@
+lar[97723]=`<i>néo-att</i>. <b>ταρρώδης, ης, ες</b>, en forme de claie, entrelacé comme une claie, TH. <i>H.P. 6, 7, 4</i> ; DS. <i>3, 22</i>.<p><b>Étym</b>. ταρσός, -ωδης.`

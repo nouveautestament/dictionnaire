@@ -1,0 +1,1 @@
+lar[76219]=`<b>      1</b> faire fausse route malgré sa science <i>ou</i> son habileté, CHRYSIPP. (ATH. <i>137f</i>).<br><b>      2</b> surpasser <i>ou</i> prétendre surpasser en habileté, <i>acc</i>. ARSTT. <i>Rhet. 1, 15, 12</i>.`

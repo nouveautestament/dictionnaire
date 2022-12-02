@@ -1,0 +1,1 @@
+lar[88549]=`<b>ῥιζο·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> dont les têtes de semence touchent à la racine, TH. <i>C.P. 1, 10, 5</i>.<p><b>Étym</b>. ῥίζα, κεφαλή.`

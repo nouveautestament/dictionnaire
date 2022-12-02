@@ -1,0 +1,1 @@
+lar[93523]=`<font color="purple">[ᾱ]</font> <i>vb. de</i> συγκεράννυμι, PLAT. <i>Phil. 62b</i>.`

@@ -1,0 +1,1 @@
+lar[107769]=`<b>ας (ἡ)</b> <font color="purple">[χᾰ]</font> action de coucher <i>ou</i> de dormir à terre, PHILSTR. <i>Ep. 52</i>.<p><b>Étym</b>. χαμαικοίτης.`

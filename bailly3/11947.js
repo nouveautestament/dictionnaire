@@ -1,0 +1,1 @@
+lar[11947]=`<b>ου (τὸ)</b> = <i>lat</i>. apiatum, vin parfumé de persil, GEOP. <i>8, 30</i>.`

@@ -1,0 +1,1 @@
+lar[89759]=`<b>ου (τὸ)</b> Sélinuntion, <i>mt. d’Argolide,</i> Ps.-PLUT. <i>Fluv. 18, 9</i>.`

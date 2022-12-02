@@ -1,0 +1,1 @@
+lar[80706]=`<b>ΐδος</b> <font color="purple">[ᾰτ]</font> <i>adj. f</i>. de Platée, HDT. <i>9, 25, etc.</i> ; THC. <i>2, 71, etc.</i> ; ἡ Πλ. (<i>s.-e</i>. χώρα) HDT. <i>9, 36</i>, région de Platée.<p><b>Étym</b>. Πλάταια.`

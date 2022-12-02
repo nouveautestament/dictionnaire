@@ -1,0 +1,1 @@
+lar[4153]=`<i>adv</i>., péniblement, Q. SM. <i>3, 557</i>.`

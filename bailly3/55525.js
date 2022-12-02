@@ -1,0 +1,1 @@
+lar[55525]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. κιννάμωμον, NIC. <i>Th. 947</i>.`

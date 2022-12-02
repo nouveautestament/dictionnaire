@@ -1,0 +1,1 @@
+lar[59610]=`<b>ωνος (ὁ)</b> le Lakmôn, <i>partie nord du Pinde,</i> HDT. <i>9, 93</i>.`

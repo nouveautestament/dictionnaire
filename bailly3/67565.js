@@ -1,0 +1,1 @@
+lar[67565]=`<b>α (ὁ)</b> sorte d’instrument à cordes, <i>p.-ê</i>. harpe, PHILÉM. (ATH. <i>175</i>).`

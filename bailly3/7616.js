@@ -1,0 +1,1 @@
+lar[7616]=`<b>ῆς (ἡ)</b> <font color="purple">[κᾰ]</font> excavation, STR. <i>421</i>.<p><b>Étym</b>. ἀνασκάπτω.`

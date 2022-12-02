@@ -1,0 +1,1 @@
+lar[23447]=`(<i>seul. part. prés</i>. -όμενος) saluer du geste, OD. <i>15, 150</i>.<p><b>Étym</b>. <i>v</i>. δείκνυμι ; <i>cf</i>. δειδίσκομαι.`

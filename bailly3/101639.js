@@ -1,0 +1,1 @@
+lar[101639]=`<b>ας (ἡ)</b> grossièreté <i>ou</i> saleté (<i>litt</i>. cochonnerie) AR. <i>Pax 928</i> ; CALLIAS (PHOT. <i>616, 18).</i><p><b>Étym</b>. ὑηνός.`

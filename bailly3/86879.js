@@ -1,0 +1,1 @@
+lar[86879]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> action d’ébaucher, esquisse, PLOT. <i>Enn. 6, 7, 7</i>.<p><b>Étym</b>. προϋπογράφω.`

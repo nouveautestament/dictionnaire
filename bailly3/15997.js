@@ -1,0 +1,1 @@
+lar[15997]=`<b>ἀ·σόφιστος, ος, ον</b>, qui ne peut être trompé par des sophismes, ARR. <i>Epict. 1, 7, 26</i> ; JOS. <i>c. Ap. 2, 41</i>.<p><b>Étym</b>. ἀ, σοφίζομαι.`

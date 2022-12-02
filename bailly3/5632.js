@@ -1,0 +1,1 @@
+lar[5632]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> action d’attacher, ORIB. <i>p. 105</i>.<p><b>Étym</b>. ἁμματίζω.`

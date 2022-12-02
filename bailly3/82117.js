@@ -1,0 +1,1 @@
+lar[82117]=`<b>ας (ἡ)</b> <font color="purple">[ῠχᾰ]</font> habileté inventive, industrie, adresse, PLUT. <i>M. 233e</i>.<p>➳ <i>Ion</i>. -ίη, OD. <i>23, 321 ; au pl</i>. MAN. <i>6, 483</i>.<p><b>Étym</b>. πολυμήχανος.`

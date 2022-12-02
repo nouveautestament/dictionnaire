@@ -1,0 +1,1 @@
+lar[79424]=`<b>περι·στρόγγυλος, ος, ον</b> <font color="purple">[ῠ]</font> arrondi de tous côtes, ATHÉNÉE MÉC. <i>38, 11</i>.<p><b>Étym</b>. π. στρογγύλος.`

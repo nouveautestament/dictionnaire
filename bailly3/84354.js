@@ -1,0 +1,1 @@
+lar[84354]=`<b>προ·θνῄσκω</b> <font color="darkgreen">(<i>f</i>. προθανοῦμαι, <i>ao.2</i> προέθανον) :</font><br><b>      1</b> mourir avant, <i>gén</i>. LUC. <i>Par. 50 ; abs</i>. mourir auparavant, THC. <i>2, 52</i> ; LUC. <i>Tox. 60</i>.<br><b>      2</b> mourir pour, <i>gén</i>. EUR. <i>Alc. 383, 684, etc</i>.<p>➳ <i>Ao.2 contr</i>. προὔθανον, EUR. <i>Her. 590</i>.`

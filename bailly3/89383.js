@@ -1,0 +1,1 @@
+lar[89383]=`<b>α, ον</b> <font color="purple">[σᾰ]</font> de Saraptes (<i>auj</i>. Sarafand) <i>v. de Phénicie,</i> LYC. <i>1300</i>.`

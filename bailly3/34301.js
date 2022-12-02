@@ -1,0 +1,1 @@
+lar[34301]=`<b>ἐν·ειλέω-ῶ</b>, rouler dans, envelopper dans, <i>dat</i>. PLUT. <i>Artax. 11, etc.</i> ; ἐν <i>avec le dat</i>. ARTÉM. <i>1, 13</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. Q. SM. <i>14, 294</i>.`

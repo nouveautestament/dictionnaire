@@ -1,0 +1,1 @@
+lar[54942]=`<b>ου (ὁ)</b> Kéréalios, <i>poète de l’Anthologie,</i> ANTH. <i>9, 129, 144</i>.`

@@ -1,0 +1,1 @@
+lar[50243]=`<b>ας</b>, <i>adj. f</i>. de Carie, Carienne, HDT. <i>5, 88</i> ; IL. <i>4, 142</i>.<p><b>Étym</b>. Κάρ.`

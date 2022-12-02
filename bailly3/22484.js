@@ -1,0 +1,1 @@
+lar[22484]=`<b>ης (ἡ)</b> Gorgona, <i>f</i>. LUC. <i>D. mer. 1, 1</i>.<p><b>Étym</b>. <i>conj</i>. Γοργών <i>Cobet</i>.`

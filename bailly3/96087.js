@@ -1,0 +1,1 @@
+lar[96087]=`<b>συν·νυκτερεύω</b>, passer la nuit avec, PLUT. <i>Dio. 55</i>.`

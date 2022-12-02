@@ -1,0 +1,1 @@
+lar[102246]=`<b>ὑπερ·ακμάζω</b>, surpasser en force, en fraîcheur, en jeunesse, <i>etc</i>. MYRON (ATH. <i>657d</i>).`

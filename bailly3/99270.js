@@ -1,0 +1,1 @@
+lar[99270]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Timônassa, <i>f</i>. PLUT. <i>Cato ma. 24</i>.<p><b>Étym</b>. τ. ἄνασσα, <i>cf</i>. Τιμῶναξ.`

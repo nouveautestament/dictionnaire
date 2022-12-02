@@ -1,0 +1,1 @@
+lar[56767]=`<b>ου (ὁ)</b> Kolôtès, <i>philosophe épicurien,</i> PLUT. <i>Adv. Col. 1, 33, etc</i>.`

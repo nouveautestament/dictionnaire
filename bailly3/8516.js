@@ -1,0 +1,1 @@
+lar[8516]=`<b>ἀν·επιτήδευτος, ος, ον :<br>      1</b> fait sans soin <i>ou</i> sans art, DH. <i>Comp. 22</i> ; LUC. <i>H. conscr. 44</i>.<br><b>      2</b> à quoi l’on ne peut s’appliquer, qu’on ne peut entreprendre, PLUT. <i>Alc. 23</i>.<p><b>Étym</b>. ἀν-, ἐπιτηδεύω.`

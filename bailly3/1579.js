@@ -1,0 +1,1 @@
+lar[1579]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠνᾰ]</font> <i>c</i>. ἀδυναμία, THC. <i>7, 8, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>3, 79, etc</i>.<p><b>Étym</b>. ἀδύνατος.`

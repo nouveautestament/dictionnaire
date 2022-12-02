@@ -1,0 +1,1 @@
+lar[75804]=`<b>εως (ἡ)</b> <font color="purple">[ᾱσ]</font> action de ne pas écouter, désobéissance, JOS. <i>A.J. 18, 8, 2</i>.<p><b>Étym</b>. παρακροάομαι.`

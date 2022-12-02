@@ -1,0 +1,1 @@
+lar[77085]=`<b>εως (ἡ)</b> action de faire cuire <i>ou</i> rôtir à la surface, HÉRODOTUS (ORIB. <i>2, 408 B.-Dar</i>.).<p><b>Étym</b>. παροπτάω.`

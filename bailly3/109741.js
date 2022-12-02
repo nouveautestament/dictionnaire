@@ -1,0 +1,1 @@
+lar[109741]=`<b>ψευδό·σφηξ, ηκος (ὁ)</b> fausse guêpe, <i>sorte d’insecte,</i> PLIN. <i>H.N. 30, 30</i>.`

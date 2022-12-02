@@ -1,0 +1,1 @@
+lar[90509]=`<b>ή, όν</b> <font color="purple">[σῑ]</font> qui concerne le blé, POL. <i>28, 14, 8</i> ; σιτικοὶ καρποί, DS. <i>5, 21, etc</i>. les céréales ; σ. νόμος, PLUT. <i>C. Gracch. 5,</i> loi sur les céréales (lex frumentaria).<p><b>Étym</b>. σῖτος.`

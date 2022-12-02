@@ -1,0 +1,1 @@
+lar[77311]=`<b>έως</b> <font color="purple">[ᾰᾰ]</font> <i>adj. m</i>. de Patares, PLUT. <i>Brut. 2</i> ; ἡ Παταρέων πόλις, PLUT. <i>Brut. 32,</i> la ville des Patares.<p><b>Étym</b>. Πάταρα.`

@@ -1,0 +1,1 @@
+lar[33953]=`<b>ἐν·αποκυέω-ῶ</b>, accoucher <i>ou</i> mettre bas dans, BAS. <i>1, 157 Migne</i>.`

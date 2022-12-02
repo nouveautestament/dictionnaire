@@ -1,0 +1,1 @@
+lar[61872]=`<font color="purple">[ῠ]</font> <i>adv</i>., de Lycie, IL. <i>5, 105, etc</i>.<p><b>Étym</b>. Λυκία, -θεν.`

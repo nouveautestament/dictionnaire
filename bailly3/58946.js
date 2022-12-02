@@ -1,0 +1,1 @@
+lar[58946]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> de Cyrène : ἡ Κ. φιλοσοφία <i>ou</i> αἵρεσις, STR. <i>837,</i> la philosophie <i>ou</i> la doctrine cyrénaïque, <i>càd</i>. d’Aristippe de Cyrène ; οἱ Κυρηναϊκοί, PLUT. <i>M. 1089a ;</i> DL. <i>2, 85,</i> les Cyrénaïques, <i>disciples d’Aristippe</i>.<p><b>Étym</b>. Κυρηναῖος.`

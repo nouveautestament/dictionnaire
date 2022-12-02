@@ -1,0 +1,1 @@
+lar[95363]=`<b>συν·εκκρούω</b>, renverser ensemble <i>ou</i> en même temps, PLUT. <i>Cæs. 33</i>.`

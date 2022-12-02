@@ -1,0 +1,1 @@
+lar[26820]=`<b>Διο·πείθης, ους (ὁ)</b> Diopeithès, <i>h</i>. XÉN. <i>Hell. 3, 3, 3</i> ; AR. <i>Vesp. 380, Eq. 1085, etc.</i> ; ARSTT. <i>Rhet. 2, 8 ; etc</i>.<p><b>Étym</b>. Διός, πείθω.`

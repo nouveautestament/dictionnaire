@@ -1,0 +1,1 @@
+lar[28859]=`<b>δυσ·πρόσδεκτος, ος, ον :<br>      1</b> qu’on admet avec peine, désagréable, fâcheux, PLUT. <i>M. 39d, 100d.</i><br><b>      2</b> qui admet avec peine, <i>gén</i>. M. ANT. <i>1, 5</i>.<p><b>Étym</b>. δ. προσδέχομαι.`

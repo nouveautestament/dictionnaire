@@ -1,0 +1,1 @@
+lar[52834]=`<b>ή, όν</b>, qui sert à mesurer, SEXT. <i>p. 323</i>.<p><b>Étym</b>. καταμετρέω.`

@@ -1,0 +1,1 @@
+lar[105542]=`<b>φιλ·έκδημος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à voyager, STR. <i>36, 101</i>.`

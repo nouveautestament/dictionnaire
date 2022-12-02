@@ -1,0 +1,1 @@
+lar[44840]=`<b>ή, όν</b>, brodé de figures d’animaux, POL. <i>31, 3, 10</i> ; ATH. <i>194f, 197f, etc</i>.<p>➳ ζῳ- <i>non</i> ζω- <i>dans les inscr. att. Bull. corr. hell. 6, p. 126 (1<sup>re</sup> moitié du 3<sup>e</sup> siècle), etc. ; v. Meisterh. p. 51, 8. Fém</i>. -ός, ATH. <i>l. c</i>.<p><b>Étym</b>. <i>vb. de</i> ζῳόω.`

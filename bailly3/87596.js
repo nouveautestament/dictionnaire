@@ -1,0 +1,1 @@
+lar[87596]=`<font color="purple">[ῡ]</font> <i>adv</i>., de Pythô, PD. <i>I. 1, 93</i>.<p><b>Étym</b>. Πυθώ, -θεν.`

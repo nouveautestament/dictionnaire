@@ -1,0 +1,1 @@
+lar[22106]=`<b>αντος (ἡ)</b> <font color="purple">[ῑ]</font> Glisante, <i>v. de Béotie,</i> IL. <i>2, 504</i> ; HDT. <i>9, 43, etc</i>.`

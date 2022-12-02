@@ -1,0 +1,1 @@
+lar[67096]=`<b>οῦ</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. qui mugit, CORN. <i>N.D. 22</i>.<p>➳ <i>Dor</i>. μυκατάς, THCR. <i>Idyl. 8, 6</i>.<p><b>Étym</b>. μυκάομαι.`

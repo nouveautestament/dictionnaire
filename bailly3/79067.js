@@ -1,0 +1,1 @@
+lar[79067]=`<b>περι·πεδινός, ή, όν</b>, uni <i>ou</i> plat tout autour, AQU. <i>Gen. 14, 3</i>.<p><b>Étym</b>. π. πεδίον.`

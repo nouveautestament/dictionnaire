@@ -1,0 +1,1 @@
+lar[56337]=`<b>κνιπός (ὁ)</b> <font color="purple">[ῑπ]</font> <i>seul. nom. et acc. plur.</i> :<br><b>      1</b> fourmi friande de miel et de figues, AR. <i>Av. 590</i>.<br><b>      2</b> insecte qui vit sous l’écorce des arbres, TH. <i>H.P. 2, 8, 3, etc</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. σκνίψ.`

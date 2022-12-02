@@ -1,0 +1,1 @@
+lar[52570]=`<b>οῦ (ὁ) :<br>      1</b> inondation, PLAT. <i>Leg. 677a ;</i> DS. <i>5, 47 ; au pl</i>. PLAT. <i>Tim. 25c ; particul</i>. déluge, NT. <i>Matth. 24, 38</i>.<br><b>      2</b> <i>fig</i>. disparition, DÉM. <i>299, 21</i>.<p><b>Étym</b>. κατακλύζω.`

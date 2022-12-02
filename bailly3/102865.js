@@ -1,0 +1,1 @@
+lar[102865]=`<b>ὑπέρ·φευ</b>, <i>adv. litt</i>. « plus qu’il ne faut pour s’écrier : à merveille (φεῦ) », <i>d’où</i> au plus haut point, <i>et, en mauv. part,</i> à l’excès, ESCHL. <i>Ag. 377</i> ; EUR. <i>Ph. 550, H.f. 1321</i> ; ὑπέρφευ φρονεῖν, ESCHL. <i>Pers. 820,</i> avoir des sentiments trop fiers.<p><b>Étym</b>. ὑ. φεῦ.`

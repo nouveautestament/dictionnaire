@@ -1,0 +1,1 @@
+lar[13793]=`<b>      1</b> détourner par un canal, PLAT. <i>Leg. 736b, etc.</i><br><b>      2</b> détourner, <i>en gén</i>. PLUT. <i>M. 485f.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. LGN <i>13, 7</i>.`

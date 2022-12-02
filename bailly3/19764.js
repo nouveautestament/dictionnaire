@@ -1,0 +1,1 @@
+lar[19764]=`<b>βιο·λόγος, ου (ὁ)</b> qui met en scène (<i>litt</i>. qui raconte) la vie <i>ou</i> les mœurs de qqn, comédien, ANTH. <i>App. 402</i>.<p><b>Étym</b>. βίος, λέγω.`

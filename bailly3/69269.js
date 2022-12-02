@@ -1,0 +1,1 @@
+lar[69269]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Nykheia :<br><b>      1</b> <i>nymphe,</i> THCR. <i>Idyl. 13, 45</i>.<br><b>      2</b> <i>fontaine sur le mt Taphos,</i> ANTH. <i>9, 684</i>.`

@@ -1,0 +1,1 @@
+lar[45540]=`<b>ἡμί·πυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> à demi enflammé, à moitié ardent, ARSTT. <i>Mund. 4, 19</i> ; PLUT. <i>M. 928d</i>.<p><b>Étym</b>. ἡμι-, πῦρ.`

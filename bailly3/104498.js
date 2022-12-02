@@ -1,0 +1,1 @@
+lar[104498]=`<b>ὑψί·κερως, ως, ων</b>, <i>gén</i>. <b>ω</b> <font color="purple">[ῐ]</font> aux hautes cornes, OD. <i>10, 158</i> ; SOPH. <i>Tr. 507</i>.<p><b>Étym</b>. ὕ. κέρας.`

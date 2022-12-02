@@ -1,0 +1,1 @@
+lar[24224]=`<b>δημιό·πρατα, ων (τὰ)</b> <font color="purple">[ᾱτ]</font> biens confisqués et vendus à l’encan, AR. <i>Vesp. 659</i>.<p><b>Étym</b>. δήμιος, πιπράσκω.`

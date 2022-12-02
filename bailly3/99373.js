@@ -1,0 +1,1 @@
+lar[99373]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Titianus, <i>n. d’h. rom</i>. PLUT. <i>Oth. 7, 8</i> ; LUC. <i>H. conscr. 21, etc</i>.`

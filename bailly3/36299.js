@@ -1,0 +1,1 @@
+lar[36299]=`<b>ας (ἡ)</b> ruine complète, extermination : κατ' ἐξωλείας ὀμόσαι, DÉM. <i>553, 17,</i> jurer sur sa tête (<i>litt</i>. par sa propre perte) ; ἐξώλειαν ἐπαρᾶσθαι ἑαυτῷ, ANT. <i>130, 34,</i> appeler sur soi la malédiction et la ruine ; κατ' ἐξωλείας ἐπιορκεῖν, DÉM. <i>1305, 13,</i> violer un serment qu’on a juré sur sa tête.<p><b>Étym</b>. ἐξώλης.`

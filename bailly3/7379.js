@@ -1,0 +1,1 @@
+lar[7379]=`<b>ἀνα·πίνω</b> <font color="darkgreen">(<i>ao.2</i> ἀνέπιον ; <i>pass. fut</i>. ἀναποθήσομαι, <i>ao</i>. ἀνεπόθην) :</font><br><b>      1</b> pomper, HPC. <i>V. med. 18</i>.<br><b>      2</b> résorber, HPC. <i>Art. 805</i>.`

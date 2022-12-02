@@ -1,0 +1,1 @@
+lar[91090]=`<b>υος (ὁ)</b> tonsure autour de la tête, <i>le sommet seul restant chevelu,</i> DIOSC. <i>Par. 2, 93</i> ; PAMPHIL. (ATH. <i>494f</i>).<p><b>Étym</b>. <i>cf</i>. ἀποσκολύπτω.`

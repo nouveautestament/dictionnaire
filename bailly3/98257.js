@@ -1,0 +1,1 @@
+lar[98257]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> tranche de poisson salé, HPC. <i>526, 28</i> ; AR. <i>Pl. 894, Nub. 339, Eq. 283, etc.</i> ; XÉN. <i>An. 5, 4, 28</i>.<br><b>      2</b> tranche de salaison, <i>en gén. ou</i> toute tranche d’aliment, LUC. <i>Gall. 14</i> ; PHILSTR. <i>27, 54</i>.<p><b>Étym</b>. τέμνω.`

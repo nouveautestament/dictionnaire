@@ -1,0 +1,1 @@
+lar[82845]=`<b>πορτι·τρόφος, ος, ον</b>, qui nourrit des génisses <i>ou</i> de jeunes taureaux, HH. <i>Ap. 21</i>.<p><b>Étym</b>. πόρτις, τρέφω.`

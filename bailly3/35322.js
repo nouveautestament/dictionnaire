@@ -1,0 +1,1 @@
+lar[35322]=`<b>ή, όν</b>, qu’on peut enlever <i>ou</i> extraire, HDT. <i>2, 121</i>.<p><b>Étym</b>. <i>vb. de</i> ἐξαιρέω.`

@@ -1,0 +1,1 @@
+lar[47254]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qu’on peut poursuivre <i>ou</i> prendre à la chasse, POL. <i>10, 47, 11</i> ; DH. <i>Comp. p. 68, 7</i>.<p><b>Étym</b>. <i>vb. de</i> θηράω.`

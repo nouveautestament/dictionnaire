@@ -1,0 +1,1 @@
+lar[67142]=`<b>μυλο·εργής, ής, ές</b> <font color="purple">[ῠ]</font> broyé (<i>propr</i>. travaillé) avec la meule, NIC. <i>Al. 563</i>.<p><b>Étym</b>. μύλη, ἔργον.`

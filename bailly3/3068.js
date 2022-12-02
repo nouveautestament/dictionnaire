@@ -1,0 +1,1 @@
+lar[3068]=`<b>ἀ·κάκυντος, ος, ον</b> <font color="purple">[κᾰ]</font> non endommagé, HIÉROCL. <i>C. aur. p. 418 ; p. 424 Mullach</i>.<p><b>Étym</b>. ἀ, κακύνω.`

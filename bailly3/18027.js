@@ -1,0 +1,1 @@
+lar[18027]=`<b>ἀφ·ηνιάζω</b>, <i>f</i>. άσω, <i>litt</i>. résister aux rênes, être rétif, PLUT. <i>M. 486f ;</i> LUC. <i>D. deor. 25 ; fig</i>. regimber, se révolter, HDN <i>2, 4, 5 ; 3, 13, 14 ; avec un rég</i>. ἀφ. τινός, LUC. <i>Bis acc. 20, ou</i> πρός τι, SYN. <i>101a</i>, se révolter contre qqe ch.<p><b>Étym</b>. ἀπό, ἡνία.`

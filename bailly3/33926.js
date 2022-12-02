@@ -1,0 +1,1 @@
+lar[33926]=`<b>ἐν·άπλωσις, εως (ἡ)</b> réduction à des éléments plus simples, SIMPL. <i>Epict. 156</i>.<p><b>Étym</b>. ἐν, ἁπλόω.`

@@ -1,0 +1,1 @@
+lar[64023]=`<b>ή, όν</b>, qui concerne le chant, PLUT. <i>M. 348b ;</i> ὁ μ. PLUT. <i>M. 120c</i>, poète lyrique.<p><b>Étym</b>. μέλος.`

@@ -1,0 +1,1 @@
+lar[53981]=`<b>ή, όν</b>, qui concerne la couche nuptiale, MÉN. RHÉT. <i>9, 273 W</i>.<p><b>Étym</b>. κατευνάζω.`

@@ -1,0 +1,1 @@
+lar[91668]=`<b>ου (τὸ)</b> école de sophiste, CLÉM. <i>1, 69 Migne</i>.<p><b>Étym</b>. σοφίζω.`

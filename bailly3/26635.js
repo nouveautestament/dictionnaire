@@ -1,0 +1,1 @@
+lar[26635]=`<b>δι·μάχης, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> qui combat de deux manières (à pied et à cheval) <i>sorte de troupe analogue à nos dragons,</i> DS. <i>5, 33</i>.<p><b>Étym</b>. δίς, μάχομαι.`

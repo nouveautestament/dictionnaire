@@ -1,0 +1,1 @@
+lar[90296]=`<b>ου (τὸ)</b> ricin, <i>arbre,</i> HDT. <i>2, 94</i> ; DIOSC. <i>4, 164</i>.`

@@ -1,0 +1,1 @@
+lar[35257]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> énonciation, révélation, DH. <i>Rhet. 8, 14</i>.<br><b>      2</b> <i>t. eccl</i>. confession, BAS. <i>3, 1016, 1236</i> ; NYSS. <i>2, 229, 233</i> ; CHRYS. <i>12, 766 Migne</i>.<p><b>Étym</b>. ἐξαγορεύω.`

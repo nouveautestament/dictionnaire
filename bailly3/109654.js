@@ -1,0 +1,1 @@
+lar[109654]=`<b>ψευδηγορέω-ῶ</b>, dire des mensonges, des faussetés, ESCHL. <i>Pr. 1032</i> ; EUR. <i>fr. 400, etc</i>.<p><b>Étym</b>. ψευδηγόρος.`

@@ -1,0 +1,1 @@
+lar[104488]=`<b>ὑψί·ζυγος, ος, ον</b> <font color="purple">[ῠγ]</font> assis sur un trône (<i>litt</i>. sur un banc de rameur) élevé, <i>ép. de Zeus,</i> IL. <i>4, 166, etc.</i> ; HÉS. <i>O. 18</i>.<p><b>Étym</b>. ὕ. ζυγόν.`

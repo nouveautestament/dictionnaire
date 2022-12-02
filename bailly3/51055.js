@@ -1,0 +1,1 @@
+lar[51055]=`<b>ων (οἱ)</b> chaussures, souliers, POL. <i>30, 16, 3 dout</i>.<p><b>Étym</b>. <i>lat</i>. calceus, <i>cf</i>. κάλτιος.`

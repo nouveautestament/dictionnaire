@@ -1,0 +1,1 @@
+lar[44537]=`<b>ης, ες</b>, dommageable, ruineux, XÉN. <i>Mem. 3, 4, 11</i> ; PLAT. <i>Crat. 417d, Leg. 650a</i>.<p><b>Étym</b>. ζημία, -ωδης.`

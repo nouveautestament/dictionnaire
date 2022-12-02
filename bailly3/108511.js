@@ -1,0 +1,1 @@
+lar[108511]=`<b>χιονό·πεζα, ης (ἡ)</b> <font color="purple">[ῐ, <i>p. exc</i>. ῑ]</font> aux pieds blancs comme la neige, NONN. <i>D. 22, 136</i>.<p><b>Étym</b>. χ. πέζα.`

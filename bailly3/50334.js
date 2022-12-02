@@ -1,0 +1,1 @@
+lar[50334]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qu’on peut arrêter, contenir, DÉM. <i>515, 12</i> ; PLUT. <i>Pomp. 66, etc.</i> ; ἐν τῷ καθεκτῷ εἶναι, PHILSTR. <i>818,</i> se contenir.<p><b>Étym</b>. <i>vb. de</i> κατέχω.`

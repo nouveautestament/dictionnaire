@@ -1,0 +1,1 @@
+lar[12638]=`<b>ή, όν</b>, propre à retrancher, <i>gén</i>. PROCL. <i>Plat. Rsp. t. 2, p. 182, 30 ; p. 296, 7</i>.`

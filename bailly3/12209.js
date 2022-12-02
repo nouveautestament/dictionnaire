@@ -1,0 +1,1 @@
+lar[12209]=`<i>adv</i>., en homme désespéré, ARR. <i>Epict. 3, 1, 24</i>.<p><b>Étym</b>. ἀπογιγνώσκω.`

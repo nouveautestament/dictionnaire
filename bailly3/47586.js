@@ -1,0 +1,1 @@
+lar[47586]=`<i>ou</i> <b>Θρασύλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Thrasyllos <i>ou</i> Thrasylos :<br><b>      1</b> <i>n. de divers généraux (argien,</i> THC. <i>5, 54 ; athénien, etc</i>. THC. <i>8, 73</i> ; XÉN. <i>Hell. 1, 1, 8, etc</i>.).<br><b>      2</b> <i>autres,</i> DÉM. <i>1241, 47, etc</i>.`

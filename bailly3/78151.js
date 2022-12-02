@@ -1,0 +1,1 @@
+lar[78151]=`<b>πεντηκοστολογέω-ῶ</b>, percevoir l’impôt du cinquantième, PHILONID. (POLL. <i>9, 29).</i><p><b>Étym</b>. πεντηκοστολόγος.`

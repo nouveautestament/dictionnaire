@@ -1,0 +1,1 @@
+lar[68941]=`<b>εως (ἡ)</b> action de donner des lois, PLAT. <i>Leg. 876d</i>.<p><b>Étym</b>. νομοθετέω.`

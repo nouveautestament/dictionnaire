@@ -1,0 +1,1 @@
+lar[110192]=`<b>ὠκύ·ποινος, ος, ον</b> <font color="purple">[ῠ]</font> qui châtie promptement, qui amène un prompt châtiment, ESCHL. <i>Sept. 743</i>.<p><b>Étym</b>. ὠ. ποινή.`

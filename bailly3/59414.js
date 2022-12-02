@@ -1,0 +1,1 @@
+lar[59414]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. λαγώς, HDT. <i>1, 123</i> ; SOPH. <i>fr. 113, etc</i>.`

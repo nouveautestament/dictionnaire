@@ -1,0 +1,1 @@
+lar[29529]=`<b>ἐγ·κατακύπτω</b>, baisser la tête <i>ou</i> se baisser pour regarder dans, BAS. <i>1, 344 Migne</i>.<p><b>Étym</b>. ἐν, κ.`

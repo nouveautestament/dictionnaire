@@ -1,0 +1,1 @@
+lar[8183]=`<b>εως (ἡ)</b> imagination, SEXT. <i>P. 3, 189</i>.`

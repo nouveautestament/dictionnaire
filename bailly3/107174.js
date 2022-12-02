@@ -1,0 +1,1 @@
+lar[107174]=`<b>Φυλο·δάμας, αντος (ὁ)</b> <font color="purple">[ῡδᾰ]</font> Phylodamas, <i>litt</i>. « dompteur de tribus », <i>h</i>. Q. SM. <i>8, 403</i>.<p><b>Étym</b>. φυλή, δαμάω.`

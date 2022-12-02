@@ -1,0 +1,1 @@
+lar[29129]=`<b>ίδος</b>, <i>adj. f</i>. de Dodone (chêne, prêtresse, <i>etc</i>.) HDT. <i>2, 53</i> ; APD. <i>1, 9, 16</i> ; αἱ Δωδωνίδες, PLUT. <i>Lys. 25, Phoc. 28,</i> les prêtresses de Dodone.<p><b>Étym</b>. Δωδώνη.`

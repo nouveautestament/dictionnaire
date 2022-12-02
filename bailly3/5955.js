@@ -1,0 +1,1 @@
+lar[5955]=`<b>ἄ·μυος, ος, ον</b>, sans muscles (apparents) HPC. <i>819h</i>.<p><b>Étym</b>. ἀ, μῦς.`

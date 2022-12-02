@@ -1,0 +1,1 @@
+lar[41989]=`<b>εὐ·εξάγωγος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à exporter, STR. <i>222</i>.<p><b>Étym</b>. εὖ, ἐξάγω.`

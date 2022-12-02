@@ -1,0 +1,1 @@
+lar[63506]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Mégas, <i>h</i>. PD. <i>N. 8, 27 (gén</i>. Μέγα) ; <i>8, 75</i>.<p><b>Étym</b>. <i>voc</i>. Μέγα.`

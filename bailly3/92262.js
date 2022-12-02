@@ -1,0 +1,1 @@
+lar[92262]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> celui qui héberge, maître de maison, LYC. <i>1095</i>.<p><b>Étym</b>. στέγη, νέμω.`

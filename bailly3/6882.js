@@ -1,0 +1,1 @@
+lar[6882]=`<b>ἀνα·καθίζω</b>, se dresser sur son séant, HPC. <i>Progn. 37 ; en parl. d’un lièvre qui prête l’oreille,</i> XÉN. <i>Cyn. 5, 7</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLAT. <i>Phæd. 60b</i>.`

@@ -1,0 +1,1 @@
+lar[43021]=`<b>ας (ἡ)</b> <font color="purple">[ῐν]</font><br><b>      1</b> vernis d’archaïsme, <i>en parl. du style,</i> LGN <i>30</i>.<br><b>      2</b> éclat <i>ou</i> solidité d’un bon métal, ORIB. <i>125 Mai</i>.<p><b>Étym</b>. εὐπινής.`

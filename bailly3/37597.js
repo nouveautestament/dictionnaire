@@ -1,0 +1,1 @@
+lar[37597]=`<b>ἐπι·διαμένω</b>, rester encore, persévérer, continuer d’exister, NICOM. <i>Arithm. 68</i> ; DIOSC. <i>1, 11 et 105</i> ; ARTÉM. <i>67 Reiff</i> ; DL. <i>Proœm. 11</i>.`

@@ -1,0 +1,1 @@
+lar[35720]=`<b>ἐξ·είλλω</b> (<i>var. p</i>. ἐξίλλω) (<i>seul. prés</i>.) chasser de, déposséder de, <i>gén</i>. DÉM. <i>976 fin</i>.<p><b>Étym</b>. <i>cf</i>. ἐξειλέω.`

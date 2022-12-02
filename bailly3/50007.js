@@ -1,0 +1,1 @@
+lar[50007]=`<b>ου (ὁ)</b> <font color="purple">[ῑφᾰ]</font> Iphiadès, <i>h</i>. DÉM. <i>23, 176, 177 Baiter-Sauppe</i> ; ARSTT. <i>Pol. 5, 5, 9</i>.`

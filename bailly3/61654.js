@@ -1,0 +1,1 @@
+lar[61654]=`<b>ου (ὁ)</b> = <i>lat</i>. Lucanius, <i>n. d’h. rom</i>. PLUT. <i>Qu. conv. 5, 3, 1</i>.`

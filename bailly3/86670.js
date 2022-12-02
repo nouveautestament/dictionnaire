@@ -1,0 +1,1 @@
+lar[86670]=`<b>προσ·χρίω</b> <font color="purple">[ῑ]</font> appliquer un enduit <i>ou</i> un onguent sur, <i>dat</i>. HPC. <i>471, 16</i>.`

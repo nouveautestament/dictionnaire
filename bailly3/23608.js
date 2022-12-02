@@ -1,0 +1,1 @@
+lar[23608]=`<b>δειπνοποιέω-ῶ</b>, donner à dîner, ALCIPHR. <i>2, 1</i> ; POLYEN <i>6, 7, 2</i>.<br><b><i>Moy.</i></b> dîner, THC. <i>4, 103 ; 8, 101</i> ; XÉN. <i>Hipp. 7, 12 ; Cyr. 5, 2, 6</i>.<p><b>Étym</b>. δειπνοποιός.`

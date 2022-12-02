@@ -1,0 +1,1 @@
+lar[30313]=`<b>ης (ἡ)</b> irréflexion, légèreté, TIMON (DL. <i>5, 11).</i><p><b>Étym</b>. εἰκαῖος.`

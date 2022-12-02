@@ -1,0 +1,1 @@
+lar[95458]=`<b>συν·εμβαίνω :<br>      1</b> entrer avec qqn dans, s’engager avec qqn dans, POL. <i>29, 3, 8 ; fig</i>. POL. <i>16, 26, 6</i> ; LGN <i>9, 10</i>.<br><b>      2</b> s’embarquer avec, <i>dat</i>. POL. <i>1, 20, 7,</i> LUC. <i>Nav. 15</i>.`

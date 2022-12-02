@@ -1,0 +1,1 @@
+lar[56052]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> petite échelle, POL. <i>5, 97, 10 ; t. de balist</i>. échelette, monture <i>ou</i> corps des engins παλίντονα, HÉRON, PHIL. BYZ.<br><b>      2</b> femme servant de marchepied (pour aider à monter en voiture) PLUT. <i>M. 50d ;</i> ATH. <i>256d</i>.<p><b>Étym</b>. κλῖμαξ.`

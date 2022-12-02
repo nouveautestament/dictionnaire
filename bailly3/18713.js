@@ -1,0 +1,1 @@
+lar[18713]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> marche, AR. <i>Av. 42</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *g<sup>w</sup>em-, *g<sup>w</sup>eh₂, aller ; <i>v</i>. βαίνω, βάδην.`

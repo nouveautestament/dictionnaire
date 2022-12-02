@@ -1,0 +1,1 @@
+lar[105189]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Phertatos, <i>h</i>. DÉM. <i>Or. 32, 17 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>cf</i>. φέρτατος.`

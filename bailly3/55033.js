@@ -1,0 +1,1 @@
+lar[55033]=`<b>κερχνηΐς-ῄς, ηΐδος-ῇδος (ἡ)</b> crécerelle, <i>oiseau de proie à voix rauque,</i> AR. <i>Av. 588</i> ; EUB. <i>3, 268 Meineke</i>.<p><b>Étym</b>. κέρχνος².`

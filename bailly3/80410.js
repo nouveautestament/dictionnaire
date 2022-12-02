@@ -1,0 +1,1 @@
+lar[80410]=`<i>vb. incorr. de</i> πίπτω, Ps.-SOPH. <i>Clyt. 315</i>.`

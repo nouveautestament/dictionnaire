@@ -1,0 +1,1 @@
+lar[102784]=`<b>ὑπερ·πυππάζω</b> (<i>seul. impf</i>.) accueillir par des bravos excessifs, AR. <i>Eq. 680</i>.<p><b>Étym</b>. ὑ. πύππαξ.`

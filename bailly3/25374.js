@@ -1,0 +1,1 @@
+lar[25374]=`<b>δια·πρίω</b> <font color="purple">[ρῑ]</font><br><b>      1</b> scier en deux, HPC. <i>V.C. 912</i> ; AR. <i>Eq. 768 ; fig. au pass</i>. être torturé, NT. <i>Ap. 7, 54</i>.<br><b>      2</b> δ. τοὺς ὀδόντας, LUC. <i>Cal. 24,</i> grincer des dents.`

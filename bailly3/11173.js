@@ -1,0 +1,1 @@
+lar[11173]=`<b>ἀπ·αλθαίνομαι</b> <font color="darkgreen">(<i>impf. 3 pl</i>. ἀπαλθαίνοντο)</font> <i>c</i>. ἀπάλθομαι Q. SM. <i>4, 404</i>.`

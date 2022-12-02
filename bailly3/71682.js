@@ -1,0 +1,1 @@
+lar[71682]=`<b>ὁμο·σίπυος, ος, ον</b> <font color="purple">[ῐ]</font> qui vit à la même table (<i>propr</i>. à la même huche) CHAROND. (ARSTT. <i>Pol. 1, 2, 5).</i><p><b>Étym</b>. ὁμ. σιπύη.`

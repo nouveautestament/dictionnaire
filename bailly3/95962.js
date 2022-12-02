@@ -1,0 +1,1 @@
+lar[95962]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> compagnon de plaisir aux fêtes de Bacchus, ATH. <i>362e ;</i> THÉM. <i>53d.</i><br><b>      2</b> <i>p. ext</i>. compagnon, <i>avec idée de moquerie,</i> AR. <i>Pl. 508</i>.<p><b>Étym</b>. <i>cf</i>. συνθιασεύω.`

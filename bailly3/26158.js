@@ -1,0 +1,1 @@
+lar[26158]=`<b>δι·εκφεύγω</b> <font color="darkgreen">(<i>ao.2 part</i>. διεκφυγόντες)</font> échapper à, éviter, <i>acc</i>. PLUT. <i>Cam. 27</i>.`

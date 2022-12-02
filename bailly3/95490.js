@@ -1,0 +1,1 @@
+lar[95490]=`<b>συν·εξαιματόω-ῶ</b> <font color="purple">[ᾰ]</font> ensanglanter avec <i>ou</i> à la fois, PHIL. <i>2, 96</i>.`

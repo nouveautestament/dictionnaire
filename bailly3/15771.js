@@ -1,0 +1,1 @@
+lar[15771]=`<b>ας (ἡ)</b> impiété : περὶ θεούς, XÉN. <i>Cyr. 8, 8, 7,</i> envers les dieux (<i>p. opp. à</i> περὶ ἀνθρώπους ἀδικία) ; PLAT. <i>Rsp. 615c, etc. ; au plur</i>. actes d’impiété, PLAT. <i>Leg. 890a</i>.<p><b>Étym</b>. ἀσεβής.`

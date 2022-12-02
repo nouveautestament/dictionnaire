@@ -1,0 +1,1 @@
+lar[108827]=`<i>adv</i>., à la danse (aller) IL. <i>3, 393</i>.<p><b>Étym</b>. χορός, -δε.`

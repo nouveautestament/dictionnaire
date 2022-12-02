@@ -1,0 +1,1 @@
+lar[14177]=`<b>ου (τὸ)</b> l’Arakhnæon, <i>mt d’Argolide,</i> ESCHL. <i>Ag. 309</i>.`

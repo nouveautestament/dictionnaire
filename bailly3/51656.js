@@ -1,0 +1,1 @@
+lar[51656]=`<b>εως (ἡ)</b> <font color="purple">[πᾰ]</font> câprier, <i>d’où</i> câpre, HPC. <i>890e ;</i> ARSTT. <i>Probl. 20, 12</i> ; TH. <i>C.P. 3, 1</i> ; COM. (ATH. <i>567e</i>).`

@@ -1,0 +1,1 @@
+lar[95327]=`<b>ᾶς (ἡ)</b> action d’apporter ensemble, contribution collective, DH. <i>4, 11</i>.<p><b>Étym</b>. συνεισφέρω.`

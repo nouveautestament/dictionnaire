@@ -1,0 +1,1 @@
+lar[62023]=`<b>λυσί·κακος, ος, ον</b> <font color="purple">[ῡῐᾰ]</font> qui délivre des maux, THGN. <i>477</i>.<p><b>Étym</b>. λ. κακόν.`

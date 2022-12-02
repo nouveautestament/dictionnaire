@@ -1,0 +1,1 @@
+lar[108717]=`<i>adv</i>., avec atteinte du choléra, DL. <i>6, 76</i>.`

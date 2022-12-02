@@ -1,0 +1,1 @@
+lar[10511]=`<b>ἀντι·τιτρώσκω</b> (<i>pl.q.pf. pass. 3 sg</i>. ἀντετέτρωτο) blesser à son tour <i>ou</i> en retour, HLD. <i>7, 27</i>.`

@@ -1,0 +1,1 @@
+lar[84576]=`<b>προ·κοιμάομαι-ῶμαι</b>, s’endormir auparavant, CLÉM. <i>452</i>.`

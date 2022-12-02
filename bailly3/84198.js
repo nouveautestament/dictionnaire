@@ -1,0 +1,1 @@
+lar[84198]=`<b>προ·εξεμέω-ῶ</b>, vomir auparavant, ORIB. <i>66 Matthäi</i>.`

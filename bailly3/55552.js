@@ -1,0 +1,1 @@
+lar[55552]=`<b>κιονο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> qui ressemble à une colonne, EUM. <i>p. 9</i>.<p><b>Étym</b>. κίων, εἶδος.`

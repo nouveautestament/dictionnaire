@@ -1,0 +1,1 @@
+lar[81135]=`<b>ου (ὁ)</b> Ploutos (Plutus), <i>fils d’Iasios et de Dèmèter, dieu de la richesse,</i> HH. <i>Cer. 489</i> ; HÉS. <i>Th. 969</i> ; AR. <i>Ach. 299, etc</i>.<p><b>Étym</b>. <i>v</i>. πλοῦτος.`

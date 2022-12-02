@@ -1,0 +1,1 @@
+lar[55622]=`<b>ου (ὁ)</b> Kissidas, <i>Syracusain,</i> XÉN. <i>Hell. 7, 1, 28</i>.`

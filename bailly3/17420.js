@@ -1,0 +1,1 @@
+lar[17420]=`<b>αὐτο·γνώμων, ων, ον</b>, <i>gén</i>. -ονος, qui agit d’après son propre jugement <i>ou</i> sa propre détermination, ARSTT. <i>Pol. 2, 9, 24</i> ; αὐτ. ἄρχειν, ARSTT. <i>Pol. 2, 10, 11,</i> exercer un pouvoir absolu.<p><b>Étym</b>. αὐ. γνώμη.`

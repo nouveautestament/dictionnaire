@@ -1,0 +1,1 @@
+lar[3520]=`<b>ἀ·κόμπαστος, ος, ον</b>, sans jactance, modeste, ESCHL. <i>Sept. 520</i>.<p><b>Étym</b>. ἀ, κομπάζω.`

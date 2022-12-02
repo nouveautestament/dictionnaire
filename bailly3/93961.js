@@ -1,0 +1,1 @@
+lar[93961]=`<b>συμ·μεταπίπτω,<br>      1</b> déchoir <i>ou</i> dégénérer avec, <i>dat</i>. ESCHN. <i>64, 22</i>.<br><b>      2</b> tomber d’accord avec, ANTH. <i>9, 584</i>.`

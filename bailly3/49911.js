@@ -1,0 +1,1 @@
+lar[49911]=`<b>Ἰσχό·λαος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> Iskholaos, <i>h</i>. XÉN. <i>Hell. 6, 5, 24 et 26</i>.<p><b>Étym</b>. ἴσχω, λαός.`

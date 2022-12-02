@@ -1,0 +1,1 @@
+lar[106760]=`<b>ου (ὁ)</b> = <i>lat</i>. Fufidius, <i>n. d’h. rom</i>. PLUT. <i>Syll. 31, Sert. 12</i>.`

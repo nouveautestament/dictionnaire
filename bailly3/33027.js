@@ -1,0 +1,1 @@
+lar[33027]=`<b>ή, όν :<br>      1</b> qui laisse espérer, ARSTT. <i>Mem. 1, 2</i>.<br><b>      2</b> οἱ ἐλπ. PLUT. <i>M. 668e</i>, philosophes qui regardaient l’espérance comme le seul soutien de la vie.<p><b>Étym</b>. ἐλπίζω.`

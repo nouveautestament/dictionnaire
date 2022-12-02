@@ -1,0 +1,1 @@
+lar[99971]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> bandage pour maintenir le cou, CHIRURG. <i>p. 31 Cocch</i>.<p><b>Étym</b>. τραχηλίζω.`

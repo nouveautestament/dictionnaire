@@ -1,0 +1,1 @@
+lar[86971]=`<b>προφορέομαι-οῦμαι</b>, porter en avant, <i>particul. t. de tisserand,</i> porter en avant les fils d’une trame, <i>d’où fig.</i> : πρ. τὴν ὁδόν, AR. <i>Av. 4,</i> avancer et revenir sur ses pas, faire la navette ; παρὰ τὰ αὐτά, XÉN. <i>Cyn. 6, 15,</i> avancer en suivant la même piste.<p><b>Étym</b>. πρόφορος.`

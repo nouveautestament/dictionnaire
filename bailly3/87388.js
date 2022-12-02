@@ -1,0 +1,1 @@
+lar[87388]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> garni de plumes, ailé, ARSTT. <i>H.A. 1, 5, 10</i>.<p><b>Étym</b>. <i>vb. de</i> πτιλόω.`

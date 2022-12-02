@@ -1,0 +1,1 @@
+lar[105733]=`<b>*φιλο·γύναιξ</b>, <i>seul. nom. plur</i>. φιλογύναικες (οἱ) <font color="purple">[ῐῠ]</font> <i>c</i>. φιλογύναιος PLAT. <i>Conv. 191d ;</i> ARISTÉN. <i>1, 12</i>.`

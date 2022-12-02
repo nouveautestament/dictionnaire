@@ -1,0 +1,1 @@
+lar[2784]=`<b>ήεσσα, ῆεν :<br>      1</b> entouré de hauteurs, IL. <i>21, 87</i> ; A.RH. <i>2, 721</i>.<br><b>      2</b> qui se précipite, impétueux, ANTH. <i>7, 273</i>.<p><b>Étym</b>. αἶπος.`

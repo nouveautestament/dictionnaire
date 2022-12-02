@@ -1,0 +1,1 @@
+lar[17040]=`<b>(ὁ)</b> <i>c</i>. Ἄττης, ANACR. PLUT. LUC. <i>etc</i>.<p>➳ <i>Gén</i>. Ἄττιδος, POL. <i>22, 20 ; dat</i>. Ἄττει, ANTH. <i>App. 239 ; acc</i>. Ἄττιν.`

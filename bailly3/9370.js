@@ -1,0 +1,1 @@
+lar[9370]=`<b>ἀν·οχμάζω</b> (<i>seul. opt. ao. 2 sg</i>. -άσσειας) lever, élever, ANTH. <i>9, 204</i>.<p><b>Étym</b>. ἀνά, ὀ.`

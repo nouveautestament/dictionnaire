@@ -1,0 +1,1 @@
+lar[23636]=`<b>δεισι·δαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui craint les dieux, XÉN. <i>Cyr. 3, 3, 58 ; Ages. 11, 8</i> ; ARSTT. <i>Pol. 5, 11, 25</i>.<br><b>      2</b> <i>en mauv. part,</i> superstitieux, TH. <i>Char. 16</i> ; DS. <i>1, 62 ; 4, 51 ; etc</i>.<p><b>Étym</b>. δείδω, δ.`

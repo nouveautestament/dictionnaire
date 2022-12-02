@@ -1,0 +1,1 @@
+lar[103164]=`<b>ὑπο·διανοέομαι-οοῦμαι</b> <font color="darkgreen">(<i>f</i>. -ήσομαι, <i>ao</i>. -διενοήθην)</font> réfléchir en soi-même, JUL. <i>Ep. 9</i>.`

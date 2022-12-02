@@ -1,0 +1,1 @@
+lar[26046]=`<b>ου (τὸ)</b> petit testicule, P. ÉG. <i>288 Briau</i>.<p><b>Étym</b>. δίδυμος.`

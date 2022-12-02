@@ -1,0 +1,1 @@
+lar[46374]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> art de faire des tours d’adresse, PLAT. <i>Rsp. 602d ;</i> ISOCR. <i>209c.</i><br><b>      2</b> <i>au sens chrétien,</i> miracle, NYSS. <i>3, 920, 956 Migne</i>.<p><b>Étym</b>. θαυματοποιός.`

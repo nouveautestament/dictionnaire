@@ -1,0 +1,1 @@
+lar[89529]=`<b>ας (ἡ)</b> Satria, <i>v. du Latium,</i> PLUT. <i>Cam. 37, etc</i>.`

@@ -1,0 +1,1 @@
+lar[86606]=`<b>ος, ον</b>, qui sert à adresser la parole <i>ou</i> à saluer, ESCHL. <i>Pers. 153</i>.<p><b>Étym</b>. προσφθέγγομαι.`

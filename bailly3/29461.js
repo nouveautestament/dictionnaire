@@ -1,0 +1,1 @@
+lar[29461]=`<b>ἐγ·καθυβρίζω</b> <font color="purple">[ῠ]</font> se livrer impudemment à, <i>dat</i>. EUR. <i>Tr. 957</i>.<p><b>Étym</b>. ἐν, κ.`

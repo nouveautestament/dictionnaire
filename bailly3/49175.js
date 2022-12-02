@@ -1,0 +1,1 @@
+lar[49175]=`<b>ου (ὁ) :<br>      1</b> Ioulios, <i>h</i>. AR. <i>Eq. 407</i>.<br><b>      2</b> Jules, <i>n. d’h. rom</i>. PLUT. <i>Rom. 28, etc</i>.`

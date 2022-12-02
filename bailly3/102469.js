@@ -1,0 +1,1 @@
+lar[102469]=`<b>ὑπερ·ευδαιμονέω-ῶ</b>, être trop heureux <i>ou</i> très heureux, ARSTT. <i>Rhet. 2, 8, 3</i> ; ARISTÉN. <i>1, 18</i>.`

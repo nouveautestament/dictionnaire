@@ -1,0 +1,1 @@
+lar[37394]=`<b>ατος (τὸ)</b> compresse mouillée, lotion, ATH. <i>692a ;</i> RUF. <i>104, 144</i> ; GAL. <i>19, 720</i> ; DIOSC. <i>4, 171</i>.<p><b>Étym</b>. ἐπιβρέχω.`

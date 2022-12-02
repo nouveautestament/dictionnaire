@@ -1,0 +1,1 @@
+lar[91354]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> la Bastonnade, <i>soulèvement à Argos, ainsi nommé du supplice qui fut infligé aux coupables,</i> DS. <i>15, 57</i> ; PLUT. <i>M. 814b, etc</i>.<p><b>Étym</b>. σκυτάλη.`

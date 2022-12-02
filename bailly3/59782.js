@@ -1,0 +1,1 @@
+lar[59782]=`<b>λα·ξεύω</b>, tailler la pierre, SPT. <i>Ex. 34, 1, etc.</i> ; EUM. <i>p. 14</i> ; λίθος λελαξευμένος, SPT. <i>Judith 1, 2,</i> pierre de taille.<p><b>Étym</b>. λᾶς, *ξεύω, <i>c</i>. ξέω.`

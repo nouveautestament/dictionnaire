@@ -1,0 +1,1 @@
+lar[23553]=`<b>Δείν·αρχος, ου (ὁ)</b> Deinarkhos (Dinarque) :<br><b>      1</b> <i>célèbre orateur athénien,</i> DÉM. <i>18, 295 Bait.-Sauppe</i> ; DH. <i>Din. 2</i> ; PLUT. <i>Dem. 31 ; etc.</i><br><b>      2</b> <i>autres,</i> DÉM. DH. PLUT. <i>etc</i>.<p><b>Étym</b>. δεινός, ἄρχω.`

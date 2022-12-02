@@ -1,0 +1,1 @@
+lar[43775]=`<i>adv</i>., avec une belle <i>ou</i> une forte voix.<p>•<i> Cp</i>. -οτέρος, D. PHAL. <i>267 ; ou</i> -ότερον, PLUT. <i>M. 1132a. • Sup</i>. -ότατα, PHILSTR. <i>V. Ap. p. 183</i>.`

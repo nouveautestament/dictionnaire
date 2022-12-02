@@ -1,0 +1,1 @@
+lar[26412]=`<b>*διθυραμβο·χώνη</b>, <i>seul. dor</i>. <b>διθυραμβο·χώνα, ας (ἡ)</b> <font color="purple">[ῑῠ]</font> <i>mot com</i>. entonnoir de dithyrambes, ANTH. <i>13, 21</i>.<p><b>Étym</b>. δ. χώνη.`

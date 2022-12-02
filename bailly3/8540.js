@@ -1,0 +1,1 @@
+lar[8540]=`<b>ας (ἡ)</b> inactivité, ARTÉM. <i>2, 28 dout</i>.<p><b>Étym</b>. ἄνεργος.`

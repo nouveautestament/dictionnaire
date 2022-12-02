@@ -1,0 +1,1 @@
+lar[77120]=`<b>παρ·ουάτιος, ος, ον</b> <font color="purple">[ᾰτ]</font> aux oreilles pendantes, CALL. <i>Dian. 91</i>.<p><b>Étym</b>. π. οὖας.`

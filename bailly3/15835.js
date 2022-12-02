@@ -1,0 +1,1 @@
+lar[15835]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> le fils d’Asios, <i>h</i>. IL. <i>12, 140, etc</i>.<p><b>Étym</b>. Ἄσιος.`

@@ -1,0 +1,1 @@
+lar[2571]=`<b>ας (ἡ)</b> = <i>lat</i>. Æmĭlia, <i>n. de f. rom</i>. PLUT. <i>Æmil. 2, etc</i>.`

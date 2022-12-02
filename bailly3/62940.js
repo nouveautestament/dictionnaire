@@ -1,0 +1,1 @@
+lar[62940]=`<b>έως</b>, <i>adj. m</i>. de Marion, <i>v. de Chypre,</i> SOPH. <i>fr. 67 Nauck</i>.`

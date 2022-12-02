@@ -1,0 +1,1 @@
+lar[65079]=`<b>μετ·εκβαίνω</b> <font color="darkgreen">(<i>f</i>. -εκβήσομαι, <i>etc</i>.)</font> passer d’un lieu dans un autre, HDT. <i>7, 41</i> ; ANT. <i>131 fin ; fig</i>. passer d’une chose à une autre, <i>avec εἰς et l’acc</i>. PLAT. <i>Leg. 642a ; avec l’acc</i>. ANTH. <i>12, 187</i>.<p>➳ <i>Impf. itér. 3 sg</i>. μετεκβαίνεσκε, HDT. <i>l. c</i>.`

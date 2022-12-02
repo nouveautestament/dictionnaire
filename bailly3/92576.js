@@ -1,0 +1,1 @@
+lar[92576]=`<b>ας (ἡ)</b> <i>mot dorien</i>, femme, <i>ANTH</i>. 15.26.`

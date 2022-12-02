@@ -1,0 +1,1 @@
+lar[73979]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qui concerne la cuisine <i>ou</i> les cuisiniers ; ἡ ὀψαρτυτική (<i>s.-e</i>. τέχνη) SEXT. <i>M. 6, 33,</i> l’art culinaire ; τὰ ὀψαρτυτικά (<i>s.-e</i>. βιβλία) ATH. <i>105c, etc</i>. traités <i>ou</i> livres de cuisine ; ὀψ. λέξεις <i>ou</i> γλῶσσαι, ATH. <i>5b et 387d</i>, termes de cuisine.<p><b>Étym</b>. ὀψαρτύω.`

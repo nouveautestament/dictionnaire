@@ -1,0 +1,1 @@
+lar[91448]=`<b>ους (ὁ)</b> Smerdoménès, <i>Perse,</i> HDT. <i>7, 82, 121</i>.`

@@ -1,0 +1,1 @@
+lar[69536]=`<b>εως (ἡ)</b> <font color="purple">[ρᾰ]</font> <i>c</i>. ξήρανσις, GAL. <i>Lex. Hipp. p. 453, 47</i>.`

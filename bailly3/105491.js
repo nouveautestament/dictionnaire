@@ -1,0 +1,1 @@
+lar[105491]=`<b>φιλ·αοιδός, ός, όν</b> <font color="purple">[ῐ]</font> qui aime les chants, les chanteurs <i>ou</i> les poètes, THCR. <i>Idyl. 28, 23</i> ; ANTH. <i>9, 372</i>.<p>•<i> Sup</i>. -ότατος, POÈT. (D. CHR. <i>1, 694).</i><p><b>Étym</b>. φ. ἀοιδή.`

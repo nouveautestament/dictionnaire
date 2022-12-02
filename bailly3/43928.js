@@ -1,0 +1,1 @@
+lar[43928]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> le siège <i>ou</i> fondement (du corps), le derrière, ARSTT. <i>H.A. 1, 13, 2</i>.<br><b>      2</b> ἐφ. ὄργανον (τὸ) ORIB. <i>120 Mai,</i> appareil pour asseoir un malade en vue d’une opération chirurgicale.<p><b>Étym</b>. ἐφέδρα.`

@@ -1,0 +1,1 @@
+lar[92886]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> bon soldat, AR. <i>Ach. 596</i>.`

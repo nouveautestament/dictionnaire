@@ -1,0 +1,1 @@
+lar[20126]=`<b>βολβιτόω-ῶ</b>, <i>f</i>. ώσω, transformer en fumier, NYSS. <i>2, 396</i>.<p><b>Étym</b>. βόλβιτον.`

@@ -1,0 +1,1 @@
+lar[93439]=`<b>συγ·κηρύσσω</b>, <i>att</i>. <b>-ύττω</b>, publier ensemble, en même temps, CLÉM. <i>683</i>.`

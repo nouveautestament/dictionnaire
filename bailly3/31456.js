@@ -1,0 +1,1 @@
+lar[31456]=`<b>ἐκ·κλύζω :<br>      1</b> effacer en lavant, laver, PLAT. <i>Rsp. 430a ;</i> STR. <i>235</i> ; M. ANT. <i>8, 51 ; au pass</i>. ARSTT. <i>H.A. 9, 44</i> ; TH. <i>C.P. 6, 19, 4, etc.</i><br><b>      2 <i>intr.</i></b> déborder, <i>en parl. de flots de sang,</i> APD. <i>1, 6, 3</i>.`

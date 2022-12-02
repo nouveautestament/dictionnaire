@@ -1,0 +1,1 @@
+lar[26325]=`<b>δι·ευστοχέω-ῶ</b>, atteindre le but, DH. <i>Comp. p. 57, 5 Reiske</i>.`

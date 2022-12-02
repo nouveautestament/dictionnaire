@@ -1,0 +1,1 @@
+lar[86389]=`<b>πρόσ·ριζος, ος, ον :<br>      1</b> qui tient à la racine, ARSTT. <i>H.A. 9, 13, 4</i>.<br><b>      2</b> avec la racine, APP. <i>3, 15, 44 Schweigh</i>.<p><b>Étym</b>. π. ῥίζα.`

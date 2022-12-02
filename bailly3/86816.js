@@ -1,0 +1,1 @@
+lar[86816]=`<b>ῆς (ἡ) :<br>      1</b> excitation, encouragement, T. LOCR. <i>193e ; p. opp. à</i> ἀποτροπή, ARSTT. <i>Rhet. 1, 3, 3</i> ; PLAT. <i>Leg. 920b, etc.</i><br><b>      2</b> impulsion, ARR. <i>An. 5, 28</i>.<p><b>Étym</b>. προτρέπω.`

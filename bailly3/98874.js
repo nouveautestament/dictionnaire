@@ -1,0 +1,1 @@
+lar[98874]=`<b>ατος (τὸ)</b> travail fait avec art, EUM. <i>p. 60</i>.<p><b>Étym</b>. τεχνουργέω.`

@@ -1,0 +1,1 @@
+lar[78224]=`<b>πεπλο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> description du péplum, <i>titre d’un écrit de Varron,</i> CIC. <i>Att. 16, 11, 3</i>.<p><b>Étym</b>. πέπλος, γράφω.`

@@ -1,0 +1,1 @@
+lar[85679]=`<b>προσ·επιθλίβω</b> <font color="purple">[ῑβ]</font> presser en outre sur <i>ou</i> contre, EUM. <i>18, 22</i>.`

@@ -1,0 +1,1 @@
+lar[56137]=`<font color="purple">[ῠ]</font> ballotter sur <i>ou</i> comme sur les flots, <i>d’où au pass</i>. être ballotté par <i>ou</i> comme par les flots, NT. <i>Eph. 4, 14</i>.<p><b>Étym</b>. κλύδων.`

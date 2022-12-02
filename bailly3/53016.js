@@ -1,0 +1,1 @@
+lar[53016]=`<b>ής, ές</b>, docile, PLUT. <i>M. 5c ;</i> PHIL. <i>2, 118, etc</i>.<p><b>Étym</b>. καταπείθω.`

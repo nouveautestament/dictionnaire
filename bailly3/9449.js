@@ -1,0 +1,1 @@
+lar[9449]=`<b>ος, ον</b>, mutuellement réfléchi, réciproque, PRISC. <i>Gr. lat. 11, 1, 1</i>.<p><b>Étym</b>. ἀντανακλάω.`

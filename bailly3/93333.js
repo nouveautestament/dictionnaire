@@ -1,0 +1,1 @@
+lar[93333]=`<b>συγ·καταλήγω</b>, cesser en même temps, D. PHAL. <i>§ 2</i>.`

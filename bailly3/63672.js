@@ -1,0 +1,1 @@
+lar[63672]=`<b>ου (ὁ)</b> Meidias, <i>h</i>. AR. <i>Av. 1297</i> ; XÉN. <i>Hell. 3, 1, 14</i> ; DÉM. <i>Or. c. Mid</i>.`

@@ -1,0 +1,1 @@
+lar[18251]=`<b>ος, ον</b> <font color="purple">[αῑσ]</font> nubile, DH.<p><b>Étym</b>. Ἀφροδίτη.`

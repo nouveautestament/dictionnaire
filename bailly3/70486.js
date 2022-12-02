@@ -1,0 +1,1 @@
+lar[70486]=`<b>ου (ὁ)</b> le fils d’Œnée, <i>càd</i>. Tydée, IL. <i>5, 813 ; 10, 497 ; ou</i> Méléagre, A.RH. <i>1, 190 ; plur</i>. οἱ Οἰνεΐδαι, PD. <i>I. 4, 34,</i> les descendants d’Œnée.<p>➳ <i>Gén. épq</i>. -αο, IL. <i>ll. cc.</i> ; Q. SM. <i>5, 253. Nom. dor</i>. Οἰνεΐδας, EUR. <i>Rhes. 906</i>.<p><b>Étym</b>. Οἰνεύς.`

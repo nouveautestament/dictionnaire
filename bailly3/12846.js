@@ -1,0 +1,1 @@
+lar[12846]=`<b>ᾶς</b> <i>ou</i> <b>-ία, ας (ἡ)</b> pâte qu’on roulait dans ses mains pour les nettoyer au sortir de table, et qu’on jetait aux chiens, AR. <i>Eq. 415</i> ; PLUT. <i>Lyc. 12, etc</i>.<p><b>Étym</b>. ἀπομάσσω.`

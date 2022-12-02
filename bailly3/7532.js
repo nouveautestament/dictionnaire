@@ -1,0 +1,1 @@
+lar[7532]=`<b>ἄν·αρμος, ος, ον</b>, sans jointure, <i>d’où</i> un, indivisible, <i>en parl. des atomes,</i> GAL. <i>2, 179</i> ; SEXT. <i>126, 25 Bkk</i>.<p><b>Étym</b>. ἀν-, ἁρμός.`

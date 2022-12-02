@@ -1,0 +1,1 @@
+lar[109097]=`<b>χρυσ·εγχής, ής, ές</b> <font color="purple">[ῡ]</font> à la lance d’or, ORPH. <i>H. 51, 11</i>.<p><b>Étym</b>. χρ. ἔγχος.`

@@ -1,0 +1,1 @@
+lar[44601]=`<b>ζοφη·φορία, ας (ἡ)</b> obscurité, ténèbres, NAZ. <i>Ep. 4, 3</i>.<p>➳ <i>Dans ce passage, l’éd. lit</i> ξουφηρία, <i>v. ce mot ; selon d’autres, la leçon correcte est</i> ἐξορία.<p><b>Étym</b>. ζόφος, φέρω.`

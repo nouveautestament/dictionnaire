@@ -1,0 +1,1 @@
+lar[9631]=`<b>ἀντ·επάγω</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> conduire (des troupes) contre, <i>càd</i>. marcher contre, THC. <i>4, 124</i> ; POL. <i>12, 18, 11</i> ; LUC. <i>Tox. 54</i>.<br><b>      2</b> diriger contre : ποινήν τινι, ARISTÉN. <i>2, 9,</i> infliger une peine à qqn.`

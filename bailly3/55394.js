@@ -1,0 +1,1 @@
+lar[55394]=`<b>ου (ὁ) :<br>      1</b> merle d’eau, <i>oiseau qui remue sans cesse la queue,</i> ARSTT. <i>H.A. 8, 3 ; 9, 12</i> ; EL. <i>N.A. 12, 9</i> ; κίγκλου πτωχότερος, MÉN. (<i>Com. fr. 4, 132</i>) plus gueux qu’un merle d’eau, <i>proverb., parce que cet oiseau ne se fait pas de nid à lui</i>.<br><b>      2</b> poisson, NUMÉN. (ATH. <i>326a</i>).`

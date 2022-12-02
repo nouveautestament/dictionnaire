@@ -1,0 +1,1 @@
+lar[14947]=`<b>α, ον</b>, d’agneau, ORACL. (HDT. <i>1, 47</i>) ; XÉN. <i>An. 4, 5, 31</i> ; PHÉRÉCR. (ATH. <i>96b</i>), <i>etc.</i> ; ἄ. φόνος, SOPH. <i>Aj. 309,</i> égorgement d’agneaux.<p><b>Étym</b>. ἀρήν.`

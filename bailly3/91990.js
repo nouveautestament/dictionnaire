@@ -1,0 +1,1 @@
+lar[91990]=`<b>σπονδειο·δάκτυλος, ου (ὁ)</b> <font color="purple">[ῠ]</font> réunion d’un spondée et d’un dactyle, RHÉT. <i>6, 103 W</i>.`

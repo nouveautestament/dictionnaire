@@ -1,0 +1,1 @@
+lar[41849]=`<b>εὐ·διαβόητος, ος, ον</b>, qui a une réputation, PTOL. <i>Tetr. 172</i>.<p><b>Étym</b>. εὖ, διαβοάω.`

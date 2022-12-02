@@ -1,0 +1,1 @@
+lar[6058]=`<b>ατος (τὸ)</b> ce qui enveloppe :<br><b>      1</b> vêtement, EUR. <i>Hel. 423</i>.<br><b>      2</b> armure, EUR. <i>Ph. 779</i>.<br><b>      3</b> portique, galerie, EUR. <i>Hel. 70</i>.<p><b>Étym</b>. ἀμφιβάλλω.`

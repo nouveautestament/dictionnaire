@@ -1,0 +1,1 @@
+lar[35]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <font color="brown">petit tableau de mathématicien</font>, POLL. <i>10, 105</i>.<p><b>Étym</b>. ἄβαξ.`

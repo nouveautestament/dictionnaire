@@ -1,0 +1,1 @@
+lar[70928]=`<i>voc. syncopé de</i> ὀλοός, ALC. <i>47</i>.`

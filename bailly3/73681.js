@@ -1,0 +1,1 @@
+lar[73681]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> uretère du fœtus, HPC. <i>54, 21</i> ; GAL. <i>1, 41, etc.</i><br><b>      2</b> crapaudine femelle, <i>cavité recouvrant le pied d’un pivot vertical tournant,</i> APD. POL.<p><b>Étym</b>. οὖρον.`

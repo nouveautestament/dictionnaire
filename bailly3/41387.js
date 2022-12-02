@@ -1,0 +1,1 @@
+lar[41387]=`<b>ἑτερ·ούσιος, ος, ον</b>, d’essence différente, NYSS. <i>2, 25 et 32</i> ; CHRYS. <i>6, 627</i>.<p><b>Étym</b>. ἕ. οὐσία.`

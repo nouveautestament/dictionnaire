@@ -1,0 +1,1 @@
+lar[71408]=`<font color="purple">[ῑ]</font> <i>vb. de</i> ὁμιλέω, ARSTT. <i>Nic. 8, 16</i> ; CLÉM. <i>203</i>.`

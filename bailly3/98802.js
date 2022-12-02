@@ -1,0 +1,1 @@
+lar[98802]=`<i>dor. et éol. c</i>. <b>σοῦ</b>, <i>gén. de</i> σύ, THCR. <i>Idyl. 11, 52, 55</i>.`

@@ -1,0 +1,1 @@
+lar[11718]=`<b>ἄ·πεπλος, ος, ον</b>, sans manteau, vêtu seulement d’une tunique, PD. <i>N. 1, 50 ; avec un gén</i>. ἄ. λευκῶν φαρέων, EUR. <i>Ph. 324,</i> non couvert de vêtements blancs.<p><b>Étym</b>. ἀ, πέπλος.`

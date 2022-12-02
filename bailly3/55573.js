@@ -1,0 +1,1 @@
+lar[55573]=`<b>α, ον</b>, de Cirrha, DÉM. <i>277, 6</i> ; ESCHN. <i>68, 37</i> ; οἱ Κιρραῖοι, ESCHN. <i>68, 37, etc</i>. les habitants de Cirrha.<p><b>Étym</b>. Κίρρα.`

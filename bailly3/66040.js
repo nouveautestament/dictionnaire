@@ -1,0 +1,1 @@
+lar[66040]=`<b>μισο·λάκων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῑᾰ]</font> qui hait les Lacédémoniens, AR. <i>Vesp. 1165</i>.`

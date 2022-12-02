@@ -1,0 +1,1 @@
+lar[36920]=`<b>ἐπ·έγκρανις, ιδος</b> <font color="purple">[ᾱ]</font> cervelle, ERASISTR. (GAL. <i>5, 603</i>).`

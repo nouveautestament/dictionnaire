@@ -1,0 +1,1 @@
+lar[52711]=`<b>εως (ἡ)</b> enrôlement, conscription, APP. <i>Iber. 49</i>.<p><b>Étym</b>. καταλέγω.`

@@ -1,0 +1,1 @@
+lar[96299]=`<b>εως (ἡ)</b> achèvement, accomplissement, SPT. <i>Amos 1, 14 ; Dan. 9, 26 et 27</i> ; AQU. <i>Ps. 118, 96</i>.<p><b>Étym</b>. συντελέω.`

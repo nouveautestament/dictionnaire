@@ -1,0 +1,1 @@
+lar[74554]=`<b>παλίμ·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui change de sentiment <i>ou</i> qui a des sentiments différents, LYC. <i>1349</i>.<p><b>Étym</b>. π. φρήν.`

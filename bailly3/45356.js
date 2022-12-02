@@ -1,0 +1,1 @@
+lar[45356]=`<b>ἡμερο·τροφίς, ίδος</b>, <i>adj. f</i>. qui nourrit pour la journée, HÉRACL. LEMB. (ATH. <i>98e</i>).<p><b>Étym</b>. ἡμέρα, τρέφω.`

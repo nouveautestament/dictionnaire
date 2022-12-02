@@ -1,0 +1,1 @@
+lar[88497]=`<b>ας (ἡ) :<br>      1</b> discours d’orateur <i>ou</i> de rhéteur, discours fait avec art, ISOCR. <i>87d, 223b ;</i> ARSTT. <i>Rhet. 1, 2, 10 au plur.</i><br><b>      2</b> éloquence, art oratoire, PLAT. <i>Pol. 304a ;</i> PLUT. <i>M. 975c</i>.<p><b>Étym</b>. ῥητορεύω.`

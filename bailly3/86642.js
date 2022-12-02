@@ -1,0 +1,1 @@
+lar[86642]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui sert à interpeller, DH. <i>Rhet. 5</i>.<p><b>Étym</b>. προσφώνημα.`

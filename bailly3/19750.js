@@ -1,0 +1,1 @@
+lar[19750]=`<b>βινέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ῑ]</font> avoir commerce avec, <i>acc</i>. AR. LUC. ; <i>abs</i>. AR. ; <i>au pass. en parl. de la femme,</i> EUP. <i>etc.</i><br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. itér</i>. βινεσκόμην)</font> <i>m. sign</i>. AR.`

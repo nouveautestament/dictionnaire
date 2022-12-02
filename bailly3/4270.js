@@ -1,0 +1,1 @@
+lar[4270]=`<b>ου (ὁ)</b> Alexinos, <i>philosophe,</i> PLUT. <i>Vit. pud. 17</i>.<p><b>Étym</b>. ἀλέξω.`

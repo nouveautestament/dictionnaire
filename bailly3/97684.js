@@ -1,0 +1,1 @@
+lar[97684]=`<b>ταριχο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> marchand de salaisons, NICOSTR. <i>3, 280 Com. fr.</i> ; PLUT. <i>M. 631d</i>.<p><b>Étym</b>. τάριχος, πωλέω.`

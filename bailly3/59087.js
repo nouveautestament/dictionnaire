@@ -1,0 +1,1 @@
+lar[59087]=`<b>ας (ἡ)</b> tête, IL. <i>14, 499 ; p. anal</i>. tête de plante (de pavot, d’oignon) NIC. <i>Al. 432</i>.<p>➳ <i>Sans exemple dans les inscr. att</i>.<p><b>Étym</b>. <i>v</i>. κωδύα.`

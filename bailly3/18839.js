@@ -1,0 +1,1 @@
+lar[18839]=`<b>ου (ὁ)</b> = <i>lat</i>. Bæbius, POL. PLUT. <i>etc</i>.`

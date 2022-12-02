@@ -1,0 +1,1 @@
+lar[109505]=`<b>ορος (ὁ)</b> qui sert à essuyer, ANTH. <i>6, 295</i>.<p><b>Étym</b>. ψάω.`

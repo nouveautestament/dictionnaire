@@ -1,0 +1,1 @@
+lar[22173]=`<b>γλυκύ·μυθος, ος, ον</b> <font color="purple">[ῠῠῡ]</font> à la parole douce, ANTH. <i>9, 195</i>.<p><b>Étym</b>. γλ. μῦθος.`

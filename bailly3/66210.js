@@ -1,0 +1,1 @@
+lar[66210]=`<b>μνησί·κακος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui conserve un ressentiment, qui garde rancune, ARSTT. <i>Nic. 4, 3</i> ; SPT. <i>Prov. 12, 29</i>.<p><b>Étym</b>. μνάομαι, κακόν.`

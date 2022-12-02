@@ -1,0 +1,1 @@
+lar[48472]=`<b>Ἰδο·γενής, ής, ές</b> <font color="purple">[ῑ]</font> né sur le mont Ida, ORACL. (PAUS. <i>10, 12, 3).</i><p><b>Étym</b>. Ἴδη, γένος.`

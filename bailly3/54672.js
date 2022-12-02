@@ -1,0 +1,1 @@
+lar[54672]=`<b>κεν·αγγής, ής, ές</b>, qui vide les vases, <i>p. suite,</i> qui produit la famine, ESCHL. <i>Ag. 188</i>.<p><b>Étym</b>. κενός, ἄγγος.`

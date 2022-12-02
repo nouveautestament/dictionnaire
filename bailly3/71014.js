@@ -1,0 +1,1 @@
+lar[71014]=`<b>ὀλιγο·εργής, ής, ές</b> <font color="purple">[ῐ]</font> qui travaille peu, faible, impuissant, HPC. <i>422a</i>.<p><b>Étym</b>. ὀλ. ἔργον.`

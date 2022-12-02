@@ -1,0 +1,1 @@
+lar[101836]=`<b>ὑμν·ῳδός, οῦ (ὁ, ἡ)</b> qui chante un hymne <i>ou</i> des hymnes, EUR. <i>H.f. 397</i> ; DIONYS. TRAG. (ATH. <i>636a</i>) ; JOS. <i>A.J. 7, 15, 7</i>.<p><b>Étym</b>. ὕ. ᾄδω.`

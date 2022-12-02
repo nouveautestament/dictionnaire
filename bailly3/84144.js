@@ -1,0 +1,1 @@
+lar[84144]=`<b>προ·εμφαίνω</b>, exposer, mettre devant, APP. <i>Civ. 4, 125</i>.`

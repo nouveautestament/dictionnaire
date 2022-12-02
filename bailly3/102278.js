@@ -1,0 +1,1 @@
+lar[102278]=`<b>ὑπεραντλέομαι-οῦμαι</b>, faire eau de toutes parts, être submergé, LUC. <i>M. cond. 2</i>.<p><b>Étym</b>. ὑπέραντλος.`

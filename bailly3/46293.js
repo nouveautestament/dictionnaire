@@ -1,0 +1,1 @@
+lar[46293]=`<b>ων (τὰ)</b> <font color="purple">[ᾰνᾰ]</font> fête des morts, LUC. <i>V.H. 2, 22</i>.<p><b>Étym</b>. θάνατος.`

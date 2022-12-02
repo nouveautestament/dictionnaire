@@ -1,0 +1,1 @@
+lar[85063]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui coule devant, GEOP. <i>9, 19, 8</i>.<p><b>Étym</b>. προρρέω.`

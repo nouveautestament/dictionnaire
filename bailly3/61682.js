@@ -1,0 +1,1 @@
+lar[61682]=`<b>έως</b>, <i>adj. m</i>. habitant <i>ou</i> originaire du dème Lousia, <i>dème attique de la tribu Onéide,</i> IS. <i>7, 18</i> ; DÉM. <i>21, 103 Baiter-Sauppe</i>.`

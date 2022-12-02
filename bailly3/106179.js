@@ -1,0 +1,1 @@
+lar[106179]=`<b>ή, όν</b> <font color="purple">[φῐ]</font> qui éprouve des sentiments d’amitié <i>ou</i> de bienveillance, PROCL. <i>Ptol. p. 225, 29</i>.<p><b>Étym</b>. φιλοφρονέομαι.`

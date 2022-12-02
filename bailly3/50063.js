@@ -1,0 +1,1 @@
+lar[50063]=`<b>ἰχθυο·λύμης, ου (ὁ)</b> <font color="purple">[λῡ]</font> fléau des poissons, AR. <i>Pax 814</i>.<p><b>Étym</b>. ἰ. λύμη.`

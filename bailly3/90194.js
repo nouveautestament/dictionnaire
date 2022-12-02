@@ -1,0 +1,1 @@
+lar[90194]=`<font color="purple">[σῑ]</font> <i>adv</i>., de Sidon, IL. <i>6, 291</i> ; HDT. <i>2, 116</i>.<p><b>Étym</b>. Σιδονίη, -θεν.`

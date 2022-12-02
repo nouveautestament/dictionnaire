@@ -1,0 +1,1 @@
+lar[78334]=`<b>ου (τὸ)</b> trépan, GAL. <i>Lex. Hipp. 19, 129 (chez les Att</i>. τρύπανον).<p><b>Étym</b>. <i>ion. c</i>. περατήριον, <i>de</i> περάω.`

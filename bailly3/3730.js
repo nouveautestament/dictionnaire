@@ -1,0 +1,1 @@
+lar[3730]=`<b>ή, όν</b> <font color="purple">[ᾱμᾰ]</font> qui concerne l’audition : ἀ. διδασκαλίαι, PLUT. <i>Alex. 7,</i> enseignement donné verbalement à des auditeurs, enseignement ésotérique de certains philosophes.<p><b>Étym</b>. ἀκρόαμα.`

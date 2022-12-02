@@ -1,0 +1,1 @@
+lar[78720]=`<b>περι·κάρδιος, ος, ον</b>, qui est autour du cœur, EMPÉD. <i>317 Sturz</i> ; CRITIAS <i>8</i> ; τὸ περικάρδιον, GAL. <i>4, 441,</i> le péricarde, <i>membrane qui enveloppe le cœur</i>.<p><b>Étym</b>. π. καρδία.`

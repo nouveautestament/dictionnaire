@@ -1,0 +1,1 @@
+lar[168]=`<b>ἀ·βρίξ</b>, <i>adv</i>., sans dormir, EUR. <i>Rhes. 730 conj</i>.<p><b>Étym</b>. ἀ, βρίζω.`

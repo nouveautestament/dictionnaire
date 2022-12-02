@@ -1,0 +1,1 @@
+lar[37420]=`<b>ἐπιγαιόω-ῶ</b>, couvrir de terre, transformer en terre ferme, ZOS. <i>2, 35, 4</i>.<p><b>Étym</b>. ἐπιγαῖος.`

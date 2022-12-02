@@ -1,0 +1,1 @@
+lar[109112]=`<b>Χρυσεό·μαλλος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Khryséomallos, <i>h</i>. ANTH. <i>7, 563</i>.<p><b>Étym</b>. <i>v</i>. χρυσεόμαλλος.`

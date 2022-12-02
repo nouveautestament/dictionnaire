@@ -1,0 +1,1 @@
+lar[95708]=`<b>συν·επιψεύδομαι</b>, mentir avec d’autres <i>ou</i> encore davantage, CALL. <i>Dian. 223</i> ; LUC. <i>D. mer. 13, 5</i>.`

@@ -1,0 +1,1 @@
+lar[41441]=`<b>εος-οῦς (τὸ)</b> purée de légumes, HPC. <i>405, 30</i> ; AR. <i>Ran. 62, etc.</i> ; PLAT. <i>Hipp. ma. 290d ; au pl</i>. CALL. <i>fr. 178</i>.`

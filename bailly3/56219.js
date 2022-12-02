@@ -1,0 +1,1 @@
+lar[56219]=`<b>      1</b> carder (de la laine) XÉNOCR. PH. (DL. <i>4, 10</i>) ; ἱμάτια, DIOSC. <i>4, 162 (sous la forme</i> γνάφω) apprêter, fouler du drap pour des vêtements.<br><b>      2</b> déchirer (par la torture, par le fouet) PLAT. <i>Rsp. 616a ;</i> CRAT. (<i>Com. fr. 2, 212) ; au pass</i>. être déchiré, ESCHL. <i>Pers. 576</i> ; SOPH. <i>Aj. 1031</i>.`

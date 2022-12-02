@@ -1,0 +1,1 @@
+lar[92098]=`<b>Σταθμίτας οἶνος (ὁ)</b> vin de Stathmes, <i>en Laconie,</i> ALCM. <i>117</i>.<p><b>Étym</b>. *Στάθμαι.`

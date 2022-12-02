@@ -1,0 +1,1 @@
+lar[9025]=`<b>ἀνθ·υποχώρησις, εως (ἡ)</b> action de reculer à son tour, PLUT. <i>M. 903d</i>.<p><b>Étym</b>. ἀντί, ὑποχωρέω.`

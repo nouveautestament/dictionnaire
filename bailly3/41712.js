@@ -1,0 +1,1 @@
+lar[41712]=`<b>ή, όν</b>, d’Eubée, Eubéen, HDT. <i>3, 89, 95 ; 7, 192</i> ; THC. <i>1, 87, etc</i>.<p>➳ <i>Par contract</i>. Εὐβοικός, ή, όν, ESCHL. <i>fr. 371</i> ; EUR. <i>Hel. 767</i>.<p><b>Étym</b>. Εὔβοια.`

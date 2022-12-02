@@ -1,0 +1,1 @@
+lar[41850]=`<b>εὐ·διάβολος, ος, ον</b> <font color="purple">[ᾰ]</font> qu’il est facile d’interpréter à mal, PLAT. <i>Leg. 944b, etc.</i> ; ARSTT. <i>Rhet. 1, 12</i>.<p><b>Étym</b>. εὖ, διαβάλλω.`

@@ -1,0 +1,1 @@
+lar[90876]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> ombelle de certaines plantes, TH. <i>H.P. 9, 12, 2</i> ; DIOSC. <i>2, 169 ; 3, 55, 68</i>.<p><b>Étym</b>. σκιάς.`

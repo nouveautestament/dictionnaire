@@ -1,0 +1,1 @@
+lar[18491]=`<b>ἄ·χνοος-ους, οος-ους, οον-ουν</b>, sans duvet, encore imberbe, ANTH. <i>6, 242, 259</i> ; Q. SM. <i>4, 431</i> ; NONN. <i>D. 10, 180, etc</i>.<p>➳ <i>Acc. plur. irrég</i>. ἄχνοας, MAN. <i>1, 126</i>.<p><b>Étym</b>. ἀ, χνόος.`

@@ -1,0 +1,1 @@
+lar[29160]=`<i>adv</i>., en dialecte dorien, E. BYZ. <i>v°</i> Μῆλος ; DRAC. <i>50, 5</i> ; SEXT. <i>616, 27 Bkk</i>.`

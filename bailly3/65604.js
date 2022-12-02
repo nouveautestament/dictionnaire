@@ -1,0 +1,1 @@
+lar[65604]=`<b>μηχανο·ρράφος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui trame des machinations, SOPH. <i>O.R. 387 ; avec le gén</i>. EUR. <i>Andr. 447</i>.<p><b>Étym</b>. μηχανή, ῥάπτω.`

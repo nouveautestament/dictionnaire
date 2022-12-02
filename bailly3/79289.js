@@ -1,0 +1,1 @@
+lar[79289]=`<b>περι·σοφίζομαι</b>, tromper par des sophismes, AR. <i>Av. 1646</i>.`

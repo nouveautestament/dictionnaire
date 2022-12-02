@@ -1,0 +1,1 @@
+lar[103188]=`<b>ου (τὸ)</b> réceptacle, réservoir, <i>d’où</i> entrepôt, hôtellerie, auberge, STR. <i>798 ; en parl. de l’estomac,</i> GAL. <i>19, 361</i>.<p><b>Étym</b>. ὑποδοχή.`

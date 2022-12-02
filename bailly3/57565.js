@@ -1,0 +1,1 @@
+lar[57565]=`<b>ῶνος (ἡ)</b> Krannôn, <i>v. de Thessalie,</i> CALL. <i>H. 6, 77</i> ; STR. <i>441, 442</i> ; PLUT. <i>Cam. 19</i>.`

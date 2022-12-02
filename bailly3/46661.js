@@ -1,0 +1,1 @@
+lar[46661]=`<b>ου (ὁ)</b> Théozotidès, <i>h</i>. PLAT. <i>Ap. 33e ;</i> DÉM. <i>533, 13 (vulg</i>. Θεοσδοτίδης) CIA. <i>2, 944, 1, 39 (fin du 4<sup>e</sup> siècle av. J.-C.) v. Meisterh. p. 71, 3, note 664</i>.<p><b>Étym</b>. <i>patr. de</i> Θεόζοτος.`

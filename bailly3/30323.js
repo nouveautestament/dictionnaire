@@ -1,0 +1,1 @@
+lar[30323]=`<b>ή, όν :<br>      1</b> qui concerne la représentation des objets ; ἡ εἰκαστική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 235d</i>, l’art de représenter les objets.<br><b>      2</b> qui concerne l’art de conjecturer : τὸ εἰκαστικόν, LUC. <i>Alex. 22,</i> conjecture.<p><b>Étym</b>. εἰκαστός.`

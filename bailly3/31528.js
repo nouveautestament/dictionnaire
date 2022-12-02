@@ -1,0 +1,1 @@
+lar[31528]=`<b>ἔκ·κυνος, ος, ον</b> <font color="purple">[ῠ]</font> qui perd <i>ou</i> ne poursuit pas la piste, XÉN. <i>Cyn. 7, 11</i>.<p><b>Étym</b>. ἐκ, κύων.`

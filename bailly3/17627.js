@@ -1,0 +1,1 @@
+lar[17627]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui a en soi une signification passive, DYSC.`

@@ -1,0 +1,1 @@
+lar[89422]=`<b>σαρκ·ελάφεια, ων (τὰ)</b> <font color="purple">[ᾰφ]</font> σ. σῦκα, figues moelleuses, <i>litt</i>. à chair de biche, ATH. <i>78a</i>.<p><b>Étym</b>. σάρξ, ἔλαφος.`

@@ -1,0 +1,1 @@
+lar[3646]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> <i>c</i>. ἀκράτεια XÉN. <i>Mem. 4, 5, 6</i> ; PLAT. <i>Rsp. 461b, Gorg. 525a ;</i> ARSTT. <i>Rhet. 1, 12, 12, etc</i>.<p><b>Étym</b>. ἀκρατής.`

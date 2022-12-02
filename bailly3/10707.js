@@ -1,0 +1,1 @@
+lar[10707]=`<b>ἀντ·ωφελέω-ῶ</b>, rendre service à son tour <i>ou</i> en retour, <i>acc</i>. XÉN. <i>Mem. 2, 10, 3, etc</i>.`

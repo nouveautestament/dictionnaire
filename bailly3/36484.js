@@ -1,0 +1,1 @@
+lar[36484]=`<b>ἐπ·αλαζονεύομαι</b> <font color="purple">[ᾰλ]</font> se vanter, se glorifier de, <i>dat</i>. JOS. <i>B.J. 2, 18, 4</i>.`

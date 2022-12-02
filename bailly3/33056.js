@@ -1,0 +1,1 @@
+lar[33056]=`<i>ou</i> <b>Ἔλωρος, ου (ὁ)</b> Hélôros <i>ou</i> Élôros :<br><b>      1</b> <i>fl. de Sicile,</i> PD. <i>N. 9, 96</i> ; HDT. <i>7, 154</i>.<br><b>      2</b> <i>v. sur la côte Est de Sicile (lat</i>. Elorum, <i>auj</i>. Noto) EL. <i>N.A. 12, 30</i>.`

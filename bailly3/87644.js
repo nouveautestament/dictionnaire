@@ -1,0 +1,1 @@
+lar[87644]=`<b>πυκνό·φυλλος, ος, ον</b>, au feuillage épais, ARSTT. <i>Probl. 20, 36 conj</i>.<p><b>Étym</b>. π. φύλλον.`

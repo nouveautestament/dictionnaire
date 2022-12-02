@@ -1,0 +1,1 @@
+lar[80588]=`<b>πλαγιο·φύλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾰῠᾰ]</font> qui couvre <i>ou</i> garde les flancs de l’armée, <i>au pl</i>. DS. <i>19, 82</i>.<p><b>Étym</b>. πλ. φ.`

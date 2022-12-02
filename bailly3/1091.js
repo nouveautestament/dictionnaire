@@ -1,0 +1,1 @@
+lar[1091]=`<font color="purple">[ῐ]</font> <i>adv</i>., près de, <i>gén</i>. IL. <i>14, 412</i> ; OD. <i>13, 103 ; abs</i>. auprès, THCR. <i>Idyl. 22, 40</i>.<p><b>Étym</b>. <i>th</i>. ἀγχο-, <i>cf</i>. ἀγχοῦ, -θι.`

@@ -1,0 +1,1 @@
+lar[26622]=`<b>δί·λημμα, ατος (τὸ)</b> <font color="purple">[ῐ]</font> dilemme, argument par lequel on pose une alternative entre deux propositions contraires, GRAMM.<p><b>Étym</b>. δίς, λῆμμα.`

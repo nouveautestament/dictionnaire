@@ -1,0 +1,1 @@
+lar[83843]=`<b>προ·γάστωρ, ορος (ὁ, ἡ)</b> au ventre énorme, STR. <i>199</i> ; LUC. <i>Nec. 11</i> ; ANTH. <i>App. 321 ; en parl. d’un vase,</i> ANTIPH. (<i>Com. fr. 3, 132).</i><p><b>Étym</b>. π. γαστήρ.`

@@ -1,0 +1,1 @@
+lar[3803]=`<b>ἀκρο·μόλιβδος, ος, ον</b>, garni de plomb au bout, ANTH. <i>6, 5</i>.`

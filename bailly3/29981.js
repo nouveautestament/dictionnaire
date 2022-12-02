@@ -1,0 +1,1 @@
+lar[29981]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> agréable, IL. <i>14, 172</i> ; HH. <i>Ven. 63</i>.<p><b>Étym</b>. <i>obscure</i>.`

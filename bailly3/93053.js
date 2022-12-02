@@ -1,0 +1,1 @@
+lar[93053]=`<b>ή, όν :<br>      1</b> étendu, SOPH. <i>Tr. 916</i>.<br><b>      2</b> recouvert de choses étendues (tapis, étoffes, <i>etc</i>.) HÉS. <i>Th. 798</i> ; EUR. <i>Or. 313, Hel. 1261</i>.<p><b>Étym</b>. <i>vb. de</i> στρώννυμι.`

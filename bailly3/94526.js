@@ -1,0 +1,1 @@
+lar[94526]=`<b>συν·αγαπάω-ῶ</b> <font color="purple">[ᾰγᾰ]</font> aimer avec <i>ou</i> en même temps, POL. <i>1, 14, 4</i>.`

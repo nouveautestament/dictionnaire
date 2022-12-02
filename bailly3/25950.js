@@ -1,0 +1,1 @@
+lar[25950]=`<b>εως (ἡ)</b> terrassement pour servir de retranchement, DS. <i>13, 47</i>.<p><b>Étym</b>. διαχόω.`

@@ -1,0 +1,1 @@
+lar[32232]=`<b>ατος (τὸ) :<br>      1</b> excoriation, HPC. <i>Fract. 770</i> ; DIOSC. <i>2, 181</i>.<br><b>      2</b> serviette pour s’essuyer, PHILOX. (ATH. <i>409e</i>).<p><b>Étym</b>. ἐκτρίβω.`

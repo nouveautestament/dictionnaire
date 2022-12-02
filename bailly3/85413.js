@@ -1,0 +1,1 @@
+lar[85413]=`<b>προσ·διανοέομαι-οοῦμαι</b> <font color="darkgreen">(<i>f</i>. -οήσομαι, <i>ao</i>. προσδιενοήθην, <i>etc</i>.)</font> songer <i>ou</i> méditer en outre, PLAT. <i>Leg. 857e</i>.`

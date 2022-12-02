@@ -1,0 +1,1 @@
+lar[72367]=`<b>ὁ·ποδαπός, ή, όν</b> <font color="purple">[ᾰ]</font> de quel pays, PLAT. <i>Phædr. 275c</i>, DIPH. (ATH. <i>225b</i>).<p>➳ <i>Ion</i>. ὁκόδαπος, HDT. <i>5, 13 ; 9, 16</i>.<p><b>Étym</b>. ὁ-, <i>thème du pron. relat. et</i> ποδαπός.`

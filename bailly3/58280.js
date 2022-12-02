@@ -1,0 +1,1 @@
+lar[58280]=`<b>Κτήσ·ιππος, ου (ὁ)</b> Ktèsippos. <i>h</i>. OD. <i>20, 288, etc.</i> ; PLAT. <i>Euthyd. 273a, etc</i>.<p><b>Étym</b>. <i>v</i>. κτήσιππος.`

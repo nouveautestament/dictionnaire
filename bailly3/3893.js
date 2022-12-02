@@ -1,0 +1,1 @@
+lar[3893]=`<b>ωνος (ὁ)</b> Akrôn, <i>h</i>. PD. <i>O. 5, 18</i> ; PLUT. <i>Rom. 16, etc</i>.`

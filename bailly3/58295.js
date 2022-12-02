@@ -1,0 +1,1 @@
+lar[58295]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Ktiménè :<br><b>      1</b> <i>sœur d’Ulysse,</i> OD. <i>15, 363</i>.<br><b>      2</b> <i>v. de Thessalie,</i> A.RH. <i>1, 68</i>.<p><b>Étym</b>. <i>fém. de</i> Κτίμενος.`

@@ -1,0 +1,1 @@
+lar[71431]=`<b>ὀμματόω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>   I</b> donner des yeux à, <i>acc</i>. DS. <i>4, 76</i> ; PLUT. (STOB. <i>Fl. 3, 49</i>).<br><b>   II</b> <i>fig.</i> :<br><b>      1</b> rendre clairvoyant, ESCHL. <i>Ch. 854</i>.<br><b>      2</b> éclaircir, ESCHL. <i>Suppl. 467</i>.<p><b>Étym</b>. ὄμμα.`

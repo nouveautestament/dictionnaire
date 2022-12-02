@@ -1,0 +1,1 @@
+lar[71058]=`<b>ὀλιγο·σύλλαβος, ος, ον</b> <font color="purple">[ῐᾰ]</font> de peu de syllabes, EUST. <i>Op. p. 340, 16, etc</i>.<p><b>Étym</b>. ὀλ. συλλαβή.`

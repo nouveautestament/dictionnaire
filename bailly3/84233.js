@@ -1,0 +1,1 @@
+lar[84233]=`<b>ου (ὁ)</b> premier bandage, GAL. <i>12, 45</i>.<p><b>Étym</b>. προεπιδέω.`

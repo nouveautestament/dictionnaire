@@ -1,0 +1,1 @@
+lar[47694]=`<i>adv</i>., avec les honneurs du triomphe, APP. <i>Civ. 2, 106</i>.`

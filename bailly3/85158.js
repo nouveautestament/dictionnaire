@@ -1,0 +1,1 @@
+lar[85158]=`<b>προσ·ανάλλομαι</b> <font color="darkgreen">(<i>f</i>. -αναλοῦμαι, <i>ao</i>. -ανηλάμην, <i>etc</i>.)</font> sauter vers <i>ou</i> auprès, ARSTT. (ATH. <i>277e</i>).`

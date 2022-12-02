@@ -1,0 +1,1 @@
+lar[7972]=`<b>ου (ὁ)</b> Andokidès (Andocide) <i>orateur athénien,</i> THC. <i>1, 51, etc</i>.`

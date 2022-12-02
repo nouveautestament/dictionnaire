@@ -1,0 +1,1 @@
+lar[103454]=`<b>ὑπο·λέγω</b> (<i>seul. prés</i>.) :<br><b>      1</b> dicter à qqn ce qu’il doit répéter, PLUT. <i>M. 46a.</i><br><b>      2</b> dire en outre, ajouter, DC. <i>62, 18</i>.<br><b>      3</b> soumettre, subordonner : τί τινι, DC. <i>46, 35,</i> une chose à une autre.<br><b>      4</b> tenir compte de, DC. <i>54, 15</i>.`

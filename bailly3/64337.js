@@ -1,0 +1,1 @@
+lar[64337]=`<b>ου (ὁ)</b> Ménios, <i>Spartiate,</i> HDT. <i>6, 71</i>.`

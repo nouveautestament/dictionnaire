@@ -1,0 +1,1 @@
+lar[60082]=`<b>λεβητο·χάρων, οντος (ὁ)</b> <font color="purple">[ᾰ]</font> qui aime la marmite, gourmand, CERCIDAS (ATH. <i>347d</i>).<p><b>Étym</b>. λέβης, χαίρω.`

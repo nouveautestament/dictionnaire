@@ -1,0 +1,1 @@
+lar[27103]=`<b>Δι·τύλας (ὁ)</b> <font color="purple">[ῑῠᾱ]</font> Ditylas, <i>n. d’esclave,</i> AR. <i>Ran. 608</i>.<p><b>Étym</b>. <i>cf</i>. δίτυλος.`

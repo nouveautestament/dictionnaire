@@ -1,0 +1,1 @@
+lar[80475]=`<b>ή, όν</b>, potable, <i>d’où</i> liquide : νάρδος πιστική, NT. <i>Marc. 14, 3 ; Joh. 12, 3,</i> sorte de nard liquide.<p><b>Étym</b>. πιστός².`

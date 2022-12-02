@@ -1,0 +1,1 @@
+lar[3675]=`<b>ων (τὰ)</b> les extrémités du corps, HPC. <i>Fract. 763f, Art. 797b, etc.</i> ; GAL. <i>16, 195, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀκραῖος.`

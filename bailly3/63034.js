@@ -1,0 +1,1 @@
+lar[63034]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> mastication, TH. <i>C.P. 6, 9, 3</i> ; RUF. <i>p. 56 Clinch</i>.<p><b>Étym</b>. μασάομαι.`

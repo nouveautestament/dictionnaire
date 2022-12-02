@@ -1,0 +1,1 @@
+lar[21344]=`<b>ων (οἱ)</b> les Gandaries, <i>pple indien (dans la région du</i> Pendschab <i>ou</i> Kaschmir) HDT. <i>3, 91 ; 7, 66</i>.`

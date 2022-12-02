@@ -1,0 +1,1 @@
+lar[94149]=`<b>συμ·πεδάω-ῶ</b>, entraver ensemble, enchaîner ensemble, ONOS. <i>Strat. 11 ; au pass</i>. PLUT. <i>M. 924f ; fig</i>. XÉN. <i>An. 4, 4, 11</i>.`

@@ -1,0 +1,1 @@
+lar[50246]=`<i>adv. pour</i> καθ' ἅ, de même que, comme, POL. <i>3, 107, 10</i> ; SPT. <i>Gen. 7, 9</i>.<p>➳ <i>Forme usuelle dans les inscr. att., v. Meisterh. p. 215, 50</i>.`

@@ -1,0 +1,1 @@
+lar[14357]=`<b>ἀργυρο·ρρύτας, ου</b> <font color="purple">[ῠῠᾱ]</font> <i>adj. m</i>. dont les flots roulent de l’argent, EUR. <i>H.f. 385</i>.<p><b>Étym</b>. ἄ. ῥέω.`

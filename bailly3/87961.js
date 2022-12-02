@@ -1,0 +1,1 @@
+lar[87961]=`<b>πυρ·πνέων, έουσα, έον</b>, qui exhale du feu, au souffle de feu, EUR. <i>Ion 203</i>.<p><b>Étym</b>. π. πνέω.`

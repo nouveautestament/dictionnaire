@@ -1,0 +1,1 @@
+lar[7092]=`<b>ή, όν</b>, propre à réparer les forces, ORIB. <i>p. 2 Matthäi</i>.<p><b>Étym</b>. ἀναλαμβάνω.`

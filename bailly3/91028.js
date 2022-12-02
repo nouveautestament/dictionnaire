@@ -1,0 +1,1 @@
+lar[91028]=`<b>σκληρο·καρδία, ας (ἡ)</b> dureté de cœur, SPT. <i>Deut. 10, 16 ; Sir. 16, 10 ; Jer. 4, 4</i> ; NT. <i>Matth. 19, 8, Marc. 16, 14</i>.`

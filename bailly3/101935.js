@@ -1,0 +1,1 @@
+lar[101935]=`<b>ὕπ·αμμος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ὕφαμμος, TH. (ATH. <i>62b</i>).`

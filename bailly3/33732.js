@@ -1,0 +1,1 @@
+lar[33732]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de souffler dans, <i>d’où</i> gonflement, PLUT. <i>M. 1077b ;</i> ATH. <i>32e</i>.<p><b>Étym</b>. ἐμφυσάω.`

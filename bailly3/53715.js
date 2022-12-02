@@ -1,0 +1,1 @@
+lar[53715]=`<b>κατα·χαριτόω-ῶ</b> <font color="purple">[ᾰῐ]</font> rendre agréable, aimable, EUM. <i>p. 34, 113, 446</i>.`

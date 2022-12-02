@@ -1,0 +1,1 @@
+lar[49664]=`<font color="purple">[ῑ̆ᾰ]</font> à force égale, en équilibre, PHIL. <i>1, 198</i>.<p><b>Étym</b>. ἰσοκρατής.`

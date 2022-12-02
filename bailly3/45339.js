@@ -1,0 +1,1 @@
+lar[45339]=`<b>ἡμερο·καλλές, έος-οῦς (τὸ)</b> hémérocalle, <i>lis jaune qui fleurit seulement pendant le jour,</i> CRAT. (ATH. <i>681e</i>) ; TH. <i>H.P. 6, 1, 1</i>.<p><b>Étym</b>. ἡμέρα, κάλλος.`

@@ -1,0 +1,1 @@
+lar[93045]=`<b>στρωματο·φύλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[μᾰᾰκ]</font> préposé au service des lits, des couvertures de lits et de tables, PLUT. <i>Alex. 57</i>.<p><b>Étym</b>. στρῶμα, φύλαξ.`

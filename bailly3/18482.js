@@ -1,0 +1,1 @@
+lar[18482]=`<font color="darkgreen">(<i>seul. ao. pass</i>. ἠχλύνθην)</font> <i>c</i>. ἀχλύω, Q. SM. <i>2, 550 ; 8, 446</i>.`

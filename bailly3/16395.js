@@ -1,0 +1,1 @@
+lar[16395]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> d’Astyres <i>en Mysie,</i> XÉN. STR. ; ἡ Ἀστυρηνή, XÉN. Artémis d’Astyres.<p><b>Étym</b>. Ἄστυρα.`

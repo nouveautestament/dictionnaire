@@ -1,0 +1,1 @@
+lar[72795]=`<b>ῆρος</b>, <i>adj. m</i>. qui dirige sagement, qui assure le succès, PD. <i>P. 1, 56</i>.<p><b>Étym</b>. ὀρθόω.`

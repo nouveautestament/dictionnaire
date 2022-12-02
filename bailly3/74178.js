@@ -1,0 +1,1 @@
+lar[74178]=`<b>η, ον</b> <font color="purple">[ᾱ]</font> <i>c</i>. φήγινος, APD. POL. <i>46</i>.<p><b>Étym</b>. πάδος.`

@@ -1,0 +1,1 @@
+lar[13824]=`<b>ἀπο·χώννυμι</b>, fermer par une levée <i>ou</i> un retranchement, XÉN. <i>Hell. 2, 2, 4 ; 5, 2, 4</i> ; PLUT. <i>Phoc. 11</i>.`

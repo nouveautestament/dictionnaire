@@ -1,0 +1,1 @@
+lar[15676]=`<b>ή, όν :<br>      1</b> d’archonte, ANTH. <i>9, 763</i> ; CLÉM. <i>225</i>.<br><b>      2</b> de chef, <i>en gén</i>. HERM. <i>Poem. 14, 16</i>.<p><b>Étym</b>. ἄρχων.`

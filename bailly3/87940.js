@@ -1,0 +1,1 @@
+lar[87940]=`<b>πυρο·εργής, ής, ές</b> <font color="purple">[ῠ]</font> qui travaille le feu <i>ou</i> au feu, MAN. <i>1, 78</i>.<p><b>Étym</b>. π. ἔργον.`

@@ -1,0 +1,1 @@
+lar[615]=`<b>ας (ἡ)</b> pêche à l’hameçon, PLAT. <i>Leg. 823d</i>.<p><b>Étym</b>. ἀγκιστρεύω.`

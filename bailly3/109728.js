@@ -1,0 +1,1 @@
+lar[109728]=`<b>ψευδορκέω-ῶ</b>, faire un faux serment, se parjurer, AR. <i>Eccl. 603</i> ; CHRYSIPP. (STOB. <i>Fl. 28, 15).</i><p><b>Étym</b>. ψεύδορκος.`

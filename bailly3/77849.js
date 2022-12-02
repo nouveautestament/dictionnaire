@@ -1,0 +1,1 @@
+lar[77849]=`<b>ή, όν</b>, qui concerne les peltastes <i>ou</i> soldats d’infanterie légère, PLAT. <i>Theæt. 165d, etc.</i> ; ἡ πελταστική (<i>s.-e</i>. τέχνη) PLAT. <i>Leg. 813d, etc</i>. l’art de se servir du bouclier léger ; τὸ πελταστικόν, XÉN. <i>An. 7, 6, 29,</i> l’infanterie légère, les peltastes.<p><b>Étym</b>. πελταστής.`

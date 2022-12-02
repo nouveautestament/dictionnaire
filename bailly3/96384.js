@@ -1,0 +1,1 @@
+lar[96384]=`<b>συν·τρυγάω-ῶ</b> <font color="purple">[ῠγ]</font> vendanger <i>ou</i> récolter avec, GEOP. <i>5, 17, 3</i>.`

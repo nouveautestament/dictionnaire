@@ -1,0 +1,1 @@
+lar[61069]=`<b>λιθό·ξεστος, ος, ον</b> <font color="purple">[ῐ]</font> fait de pierre taillée et polie, SIB. <i>4, 7</i>.<p><b>Étym</b>. λ. ξέω.`

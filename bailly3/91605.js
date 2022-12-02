@@ -1,0 +1,1 @@
+lar[91605]=`<b>οῦ (ἡ) :<br>      1</b> urne pour les os <i>ou</i> les cendres des morts, IL. <i>23, 91 ; p. ext</i>. cercueil, HDT. <i>1, 68 ; 2, 78</i> ; AR. <i>Ach. 691, Lys. 600, etc.</i> ; LUC. <i>Herm. 78</i>.<br><b>      2</b> <i>fig</i>. vieille femme décrépite, AR. <i>Vesp. 1365</i> ; MACH. (ATH. <i>580c</i>).<p><b>Étym</b>. <i>cf</i>. σωρός.`

@@ -1,0 +1,1 @@
+lar[85159]=`<b>προσ·αναλογίζομαι</b>, repasser en outre en soi-même, PLUT. <i>M. 113a</i>.`

@@ -1,0 +1,1 @@
+lar[554]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> Agènôr (Agénor) <i>h</i>. IL. <i>4, 467, etc.</i> ; HDT. <i>7, 91, etc</i>.<p><b>Étym</b>. ἀγήνωρ.`

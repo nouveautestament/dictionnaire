@@ -1,0 +1,1 @@
+lar[106035]=`<b>φιλο·πουλύγελως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῐῠ]</font> qui aime à bien rire, grand rieur, ANTH. <i>5, 243</i>.<p><b>Étym</b>. <i>poét. p</i>. *φιλοπολύγελως.`

@@ -1,0 +1,1 @@
+lar[78840]=`<b>περι·κυβιστάω-ῶ</b>, tomber de tout son long, PHILSTR. <i>Gymn. p. 12 Kayser</i>.`

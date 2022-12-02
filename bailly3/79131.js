@@ -1,0 +1,1 @@
+lar[79131]=`<b>ῆς (ἡ) :<br>      1</b> enlacement, embrassement, ARSTT. <i>H.A. 5, 4</i> ; POL. <i>2, 56, 7, etc.</i> ; PLUT. <i>M. 649b.</i><br><b>      2</b> complexité, <i>d’où</i> embarras du style, discours entortillé, EUR. <i>Ph. 497, etc</i>.<p><b>Étym</b>. περιπλέκω.`

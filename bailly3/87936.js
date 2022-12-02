@@ -1,0 +1,1 @@
+lar[87936]=`<b>πυρο·δόκος, ος, ον</b> <font color="purple">[ῡ]</font> qui reçoit le blé, OPP. <i>H. 4, 501</i>.<p><b>Étym</b>. π. δέκομαι.`

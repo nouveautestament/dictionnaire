@@ -1,0 +1,1 @@
+lar[94421]=`<b>εως (ἡ)</b> dégradation <i>et, par suite,</i> fusion des couleurs, JAMBL. (NICOM. <i>Arithm. 44</i>) ; RHÉT. (<i>W. 2, 1042).</i><p><b>Étym</b>. συμφθείρω.`

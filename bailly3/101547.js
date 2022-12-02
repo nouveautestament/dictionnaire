@@ -1,0 +1,1 @@
+lar[101547]=`<b>ὑδρο·κέφαλον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> hydropisie à la tête, hydrocéphale, GAL. <i>2, 394</i>.<p><b>Étym</b>. ὕδ. κεφαλή.`

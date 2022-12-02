@@ -1,0 +1,1 @@
+lar[62703]=`<b>(ἡ)</b> <font color="purple">[ᾱ]</font> <i>dor</i>. Malis, <i>nymphe protectrice des troupeaux,</i> THCR. <i>Idyl. 13, 45</i>.<p><b>Étym</b>. μᾶλον.`

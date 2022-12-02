@@ -1,0 +1,1 @@
+lar[55132]=`<b>ος, ον :<br>      1</b> digne de soins <i>ou</i> d’égards, cher, précieux, IL. <i>19, 293</i>.<br><b>      2</b> qui marque le deuil, la tristesse, funéraire, ESCHL. <i>Ch. 87, 223</i> ; EUR. <i>I.T. 147</i>.<br><b>      3</b> <i>act</i>. qui prend soin de, EUR. <i>Ion 487</i>.<p><b>Étym</b>. κῆδος.`

@@ -1,0 +1,1 @@
+lar[27406]=`<i>adv</i>., frauduleusement, PHIL. <i>2, 314</i>.`

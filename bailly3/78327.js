@@ -1,0 +1,1 @@
+lar[78327]=`<b>ικος (ὁ)</b> <font color="purple">[ῑκ]</font> Perdix, <i>cabaretier boiteux, à Athènes,</i> AR. <i>Av. 1292 ; d’où le prov</i>. <font color="blue">Πέρδικος σκέλος</font>, PLUT. <i>Prov. 2, 24, etc</i>. la jambe de Perdix, <i>ou</i> la perdrix qui traîne la patte, <i>par allusion à une feinte de la perdrix poursuivie par le chasseur</i>.`

@@ -1,0 +1,1 @@
+lar[36391]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par induction, SEXT. <i>P. 2, 195</i>.`

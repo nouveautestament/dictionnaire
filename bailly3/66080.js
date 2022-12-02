@@ -1,0 +1,1 @@
+lar[66080]=`<b>μισό·τυφος, ος, ον</b> <font color="purple">[ῑῡ]</font> qui hait l’orgueil, la vanité, LUC. <i>Pisc. 20</i>.<p><b>Étym</b>. μ. τῦφος.`

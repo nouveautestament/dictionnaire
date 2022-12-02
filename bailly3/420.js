@@ -1,0 +1,1 @@
+lar[420]=`<b>ας (ἡ)</b> messagère, ORPH. <i>H. 78, 3</i>.`

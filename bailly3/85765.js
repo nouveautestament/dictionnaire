@@ -1,0 +1,1 @@
+lar[85765]=`<b>προσ·ερανίζω</b> <font color="purple">[ᾰ]</font> ajouter à la masse, <i>d’où au pass</i>. être surchargé de, <i>fig. dat</i>. DH. <i>Comp. 9</i>.`

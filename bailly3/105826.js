@@ -1,0 +1,1 @@
+lar[105826]=`<b>φιλο·καμπής, ής, ές</b> <font color="purple">[ῐ]</font> très flexible, ANTH. <i>6, 294</i>.<p><b>Étym</b>. φ. κάμπτω.`

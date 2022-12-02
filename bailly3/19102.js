@@ -1,0 +1,1 @@
+lar[19102]=`<b>ᾶ (ὁ)</b> Barnabas, <i>n. d’h. hébreu,</i> NT.`

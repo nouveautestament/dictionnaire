@@ -1,0 +1,1 @@
+lar[57290]=`<b>κοσμο·πολίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> citoyen du monde, cosmopolite, DL. <i>6, 63</i>.`

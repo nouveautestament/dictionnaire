@@ -1,0 +1,1 @@
+lar[107526]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> relâchement de la bride d’un cheval, XÉN. <i>Eq. 9, 9 ; 10, 13 et 16</i>.<p><b>Étym</b>. χαλαρός.`

@@ -1,0 +1,1 @@
+lar[77259]=`<b>ης (ἡ)</b> <font color="purple">[ᾰλ]</font> grain <i>ou</i> farine de millet, <i>d’où</i> chose minime : οὐδὲ πασπάλη, AR. <i>Vesp. 91,</i> pas un atome ; <i>cf</i>. παιπάλη.`

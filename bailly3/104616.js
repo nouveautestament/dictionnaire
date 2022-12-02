@@ -1,0 +1,1 @@
+lar[104616]=`<b>ίδος (ἡ)</b> Phaeinis, <i>prêtresse argienne,</i> THC. <i>4, 133</i>.`

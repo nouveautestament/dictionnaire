@@ -1,0 +1,1 @@
+lar[74471]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰλᾰ]</font> expédient, EL. <i>N.A. 1, 32</i>.<p><b>Étym</b>. παλαμάομαι.`

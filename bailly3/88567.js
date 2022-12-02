@@ -1,0 +1,1 @@
+lar[88567]=`<b>ῥιζ·ωνυχία, ας (ἡ)</b> <font color="purple">[ῠ]</font> la racine des ongles, P. ÉG. <i>6, 85</i>.<p><b>Étym</b>. ῥίζα, ὄνυξ.`

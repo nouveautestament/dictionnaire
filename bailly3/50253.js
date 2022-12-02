@@ -1,0 +1,1 @@
+lar[50253]=`<b>καθ·αιματόω-ῶ</b> <font color="purple">[κᾰᾰ]</font> <font color="darkgreen">(<i>ao</i>. καθῃμάτωσα)</font> ensanglanter, EUR. <i>Hel. 1599, etc.</i> ; AR. <i>Th. 695</i>.`

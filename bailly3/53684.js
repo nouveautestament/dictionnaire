@@ -1,0 +1,1 @@
+lar[53684]=`<b>κατα·φρύγω</b> <font color="purple">[ῡ]</font><br><b>      1</b> brûler, AR. <i>Nub. 396</i>.<br><b>      2</b> dessécher, <i>d’où au pass</i>. être desséché, AÉT. <i>p. 91, b, 39</i>.`

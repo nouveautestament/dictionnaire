@@ -1,0 +1,1 @@
+lar[15528]=`<b>Ἀρχέ·λαοι, ων (οἱ)</b> <i>litt</i>. les Chefs du peuple, <i>tribu de Sicyone,</i> HDT. <i>5, 68</i>.<p><b>Étym</b>. <i>v</i>. ἀρχέλαος.`

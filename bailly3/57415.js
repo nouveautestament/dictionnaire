@@ -1,0 +1,1 @@
+lar[57415]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Curiātius, Curiace, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 16</i>.`

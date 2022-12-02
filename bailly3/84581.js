@@ -1,0 +1,1 @@
+lar[84581]=`<b>προ·κοιτών, ῶνος (ὁ)</b> antichambre, POL. <i>10, 43 ; lat</i>. prŏcœtōn, PLIN. MIN. <i>Ep. 2, 17</i>.`

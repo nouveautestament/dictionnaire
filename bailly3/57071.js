@@ -1,0 +1,1 @@
+lar[57071]=`<i>adv</i>., comme à Corinthe, JOS. <i>A.J. 8, 5, 2</i>.<p><b>Étym</b>. Κορίνθιος.`

@@ -1,0 +1,1 @@
+lar[67105]=`<b>ου (ὁ)</b> habitant de Mykonos, PLUT. <i>Prov. 17</i>.<p><b>Étym</b>. Μύκονος.`

@@ -1,0 +1,1 @@
+lar[36178]=`<b>ἐξ·ορθόω-ῶ</b>, relever, redresser, rétablir, PLAT. <i>Leg. 862c ; fig</i>. SOPH. <i>Ant. 83</i> ; PLAT. <i>Tim. 90d.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. EUR. <i>Suppl. 1083</i>.`

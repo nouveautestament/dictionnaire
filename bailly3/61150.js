@@ -1,0 +1,1 @@
+lar[61150]=`<b>λιμενο·σκόπος, ος, ον</b> <font color="purple">[ῐ]</font> qui inspecte <i>ou</i> surveille un port, CALL. <i>Dian. 259</i> ; ANTH. <i>10, 25, etc</i>.<p><b>Étym</b>. λ. σκοπέω.`

@@ -1,0 +1,1 @@
+lar[10759]=`<b>ἀν·υπόκριτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> non propre à jouer sur la scène, D. PHAL. <i>86, 18</i>.<br><b>      2</b> non feint, sincère, SPT. <i>Sap. 5, 19</i> ; NT. <i>Rom. 12, 9</i>.<p><b>Étym</b>. ἀν-, ὑποκρίνομαι.`

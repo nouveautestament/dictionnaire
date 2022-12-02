@@ -1,0 +1,1 @@
+lar[23207]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> argent prêté à intérêts, prêt, créance, <i>d’où</i> dette, DÉM. <i>911, 3</i> ; ARSTT. <i>Nic. 9, 2, 3</i>.<p><b>Étym</b>. δάνος¹.`

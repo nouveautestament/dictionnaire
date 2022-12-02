@@ -1,0 +1,1 @@
+lar[54190]=`<b>εως (ἡ)</b> cicatrisation, DIOSC. <i>Par. 1, 54</i>.<p><b>Étym</b>. κατουλόω.`

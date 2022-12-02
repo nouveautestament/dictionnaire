@@ -1,0 +1,1 @@
+lar[10329]=`<b>ἀντι·προκαλέομαι-οῦμαι</b> <font color="purple">[κᾰ]</font> stipuler en retour <i>ou</i> à son tour, DÉM. <i>979, 9 ; avec une prop. inf</i>. DH. <i>4, p. 2324 Reiske</i>.`

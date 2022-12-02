@@ -1,0 +1,1 @@
+lar[101000]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> calleux, PLUT. <i>M. 46d</i>.<p><b>Étym</b>. τύλος, -ωδης.`

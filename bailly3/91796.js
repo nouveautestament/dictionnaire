@@ -1,0 +1,1 @@
+lar[91796]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> sorte de hérisson de mer, ARSTT. <i>H.A. 4, 5, 2 ; fig</i>. SOPHR. <i>et</i> AR. (ATH. <i>91c</i>).`

@@ -1,0 +1,1 @@
+lar[24641]=`<b>δια·θεσμοθετέω-ῶ</b>, disposer de façon à mettre en ordre, PLAT. <i>Tim. 42d</i>.`

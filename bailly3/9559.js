@@ -1,0 +1,1 @@
+lar[9559]=`<i>vb. de</i> ἀντεισφέρω, SYN. <i>De regn. 18, 1101c Migne</i>.`

@@ -1,0 +1,1 @@
+lar[43573]=`<b>ας (ἡ)</b> bonheur d’avoir des enfants <i>ou</i> beaucoup d’enfants, EUR. <i>Ion 470, Suppl. 66 ; cf</i>. ARSTT. <i>Rhet. 1, 5, 4</i> ; NIC. <i>1, 8, 16</i> ; ANTH. <i>App. 264, 356</i>.<p>➳ -τεκν- bref, THCR. <i>Idyl. 18, 51 ; cf</i>. τέκνον.<p><b>Étym</b>. εὔτεκνος.`

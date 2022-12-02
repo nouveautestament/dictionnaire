@@ -1,0 +1,1 @@
+lar[14679]=`<b>ου (ὁ)</b> Aristias, <i>poète tragique,</i> ATH. <i>686a</i>.<p><b>Étym</b>. ἄριστος.`

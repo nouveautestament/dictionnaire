@@ -1,0 +1,1 @@
+lar[61361]=`<b>λιπο·στρατία</b>, <i>mieux que</i> <b>λειπο·στρατία, ας (ἡ)</b> désertion militaire, DH. <i>4, 2212 Reiske</i>.<p>➳ <i>Ion</i>. λιποστρατίη, HDT. <i>5, 27</i>.<p><b>Étym</b>. λ. στρατιά.`

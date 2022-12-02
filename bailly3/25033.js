@@ -1,0 +1,1 @@
+lar[25033]=`<b>δια·μερίζω :<br>      1</b> partager de côté et d’autre, distribuer, PLAT. <i>Phil. 15e ;</i> ARSTT. <i>Probl. 5, 40</i>.<br><b>      2</b> diviser, séparer, PLAT. <i>Leg. 849d.</i><br><b><i>Moy.</i></b> partager entre soi, NT. <i>Matth. 27, 35, etc</i>.`

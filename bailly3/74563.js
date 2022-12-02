@@ -1,0 +1,1 @@
+lar[74563]=`<b>παλίν·δικος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui recommence un procès, CRATÈS (<i>Com. fr. 2, 251).</i><p><b>Étym</b>. π. δίκη.`

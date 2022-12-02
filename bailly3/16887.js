@@ -1,0 +1,1 @@
+lar[16887]=`<b>ἀτονιάω-ῶ</b>, être affaibli <i>ou</i> languissant, CHRYS. <i>7, 297</i>.<p><b>Étym</b>. ἀτονία.`

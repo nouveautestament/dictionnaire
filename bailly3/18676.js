@@ -1,0 +1,1 @@
+lar[18676]=`<b>β, β, β (βῆτα) (τὸ)</b> bêta, <i>2<sup>e</sup> lettre de l’alphabet grec. Comme chiffre,</i> βʹ = 2, ͵β = 2 000.`

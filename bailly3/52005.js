@@ -1,0 +1,1 @@
+lar[52005]=`<b>ου (ὁ)</b> Karphyllidès, <i>poète de l’Anthologie,</i> ANTH. <i>7, 260</i>.`

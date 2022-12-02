@@ -1,0 +1,1 @@
+lar[7400]=`<b>ἀνα·πλημμυρέω-ῶ</b> <font color="purple">[ῡ]</font> déborder, PHILSTR. <i>809</i>.`

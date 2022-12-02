@@ -1,0 +1,1 @@
+lar[71468]=`<b>ὁμοδοξέω-ῶ</b>, être du même avis que, PLAT. <i>Phæd. 83d ; abs</i>. PLAT. <i>Rsp. 442d ;</i> POL. <i>1, 41, 5</i> ; STR. <i>154</i>.<p><b>Étym</b>. ὁμόδοξος.`

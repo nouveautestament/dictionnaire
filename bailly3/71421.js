@@ -1,0 +1,1 @@
+lar[71421]=`<b>ατος (τὸ)</b> urine, ESCHL. <i>fr. 426 Nauck</i>.<p><b>Étym</b>. ὀμίχω.`

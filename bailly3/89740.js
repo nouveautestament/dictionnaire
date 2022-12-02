@@ -1,0 +1,1 @@
+lar[89740]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> petite lune, <i>ornement d’ivoire en forme de lune sur la chaussure des sénateurs romains (lat</i>. lunula) PLUT. <i>M. 282a</i>.<p><b>Étym</b>. <i>dim. de</i> σελήνη.`

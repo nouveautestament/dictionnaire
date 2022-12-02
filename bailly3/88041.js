@@ -1,0 +1,1 @@
+lar[88041]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> inflammation, PTOL. <i>Tetr. 152, 4</i>.<p><b>Étym</b>. πυρόω.`

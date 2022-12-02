@@ -1,0 +1,1 @@
+lar[5512]=`<b>ἀ·μετάστρεπτος, ος, ον</b>, qui ne se retourne pas, fixe, constant, M. TYR. <i>11, 5</i>.`

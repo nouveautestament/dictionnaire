@@ -1,0 +1,1 @@
+lar[80561]=`<b>ης, ες</b> <font color="purple">[ῐῡ]</font><br><b>      1</b> fait de son : π. ἄρτος, GAL. <i>6, 483</i>, pain de son.<br><b>      2</b> semblable au son, furfuracé, TH. <i>C.P. 1, 5, 4, etc.</i> ; τὰ πιτυρώδεα, HPC. <i>1121f</i>, dartres farineuses ; οἱ πιτυρώδεες, GAL. malades atteints de dartres farineuses.<p><b>Étym</b>. πίτυρον, -ωδης.`

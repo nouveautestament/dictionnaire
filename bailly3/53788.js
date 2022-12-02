@@ -1,0 +1,1 @@
+lar[53788]=`<b>ός, όν</b>, controuvé, fabuleux, HDT. <i>4, 191 conj</i>.<p><b>Étym</b>. καταψεύδομαι.`

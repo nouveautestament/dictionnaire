@@ -1,0 +1,1 @@
+lar[77208]=`<b>παρ·ωνυχία, ας (ἡ)</b> <font color="purple">[ῠ]</font> panaris, abcès à la racine de l’ongle, PLUT. <i>M. 43a, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>1056d</i>.<p><b>Étym</b>. π. ὄνυξ.`

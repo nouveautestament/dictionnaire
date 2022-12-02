@@ -1,0 +1,1 @@
+lar[57994]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> volute des chapiteaux corinthiens (<i>cf</i>. κριός) AQU. <i>Ezech. 40, 14</i>.<br><b>      2</b> matériel de béliers de siège, APD. POL. <i>14, 21</i>.<p><b>Étym</b>. κριός.`

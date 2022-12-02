@@ -1,0 +1,1 @@
+lar[88919]=`<b>ῥυσί·βωμος, ος, ον</b> <font color="purple">[ῡῐ]</font> protecteur des autels, ESCHL. <i>Eum. 920</i>.<p><b>Étym</b>. ῥύομαι, βωμός.`

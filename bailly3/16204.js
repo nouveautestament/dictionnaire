@@ -1,0 +1,1 @@
+lar[16204]=`<b>ή, όν</b>, qui concerne l’observation des astres, ORIG.`

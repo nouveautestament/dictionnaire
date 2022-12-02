@@ -1,0 +1,1 @@
+lar[5151]=`<b>ἁμα·δρυάς, άδος (ἡ)</b> <font color="purple">[ᾰαῠᾰδ]</font> hamadryade (<i>litt</i>. dryade qui fait corps avec un chêne) A.RH. <i>2, 477 ; d’ord. plur</i>. ATH. <i>78b, etc</i>.<p>➳ <i>Voc. sg</i>. -υάς, NONN. <i>D. 2, 98 ; dat. pl</i>. -υάσιν, ANTH. <i>11, 194 ; épq</i>. -υάδεσσιν, NONN. <i>D. 12, 121</i>.<p><b>Étym</b>. ἅμα, δρυάς.`

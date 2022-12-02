@@ -1,0 +1,1 @@
+lar[50464]=`<b>καθ·όρμιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> collier, SPT. <i>Hos. 2, 13</i>.<p><b>Étym</b>. κατά, ὅρμος.`

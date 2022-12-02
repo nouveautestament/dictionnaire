@@ -1,0 +1,1 @@
+lar[44987]=`<b>ἡδύ·ληπτος, ος, ον</b> <font color="purple">[ῠ]</font> agréable à prendre, P. SIL. <i>Th. Pyth. 82</i>.<p><b>Étym</b>. ἡ. ληπτός.`

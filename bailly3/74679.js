@@ -1,0 +1,1 @@
+lar[74679]=`<b>ατος (τὸ)</b> bien, possession, THCR. <i>Syr. 12</i> ; ANTH. <i>15, 25</i>.<p><b>Étym</b>. *πάομαι.`

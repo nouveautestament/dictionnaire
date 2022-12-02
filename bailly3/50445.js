@@ -1,0 +1,1 @@
+lar[50445]=`<b>καθ·οδηγός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> guide, conducteur, ORPH. <i>H. 7, 8</i> ; APD. <i>3, 4, 1</i> ; STR. <i>15, 2, 6 Kram</i>.<p><b>Étym</b>. κ. ὁδηγός.`

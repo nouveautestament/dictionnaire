@@ -1,0 +1,1 @@
+lar[3021]=`<b>αἰωνό·βιος, ος, ον</b>, qui vit éternellement, SYN.<p><b>Étym</b>. αἰών, βίος.`

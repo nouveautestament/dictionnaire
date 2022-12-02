@@ -1,0 +1,1 @@
+lar[84314]=`<b>προ·ηγητής, οῦ (ὁ) :<br>      1</b> celui qui marche devant, guide, SOPH. <i>O.R. 1292, Ant. 990</i>.<br><b>      2</b> celui qui conduit le char de la mariée, HYPÉR. <i>Lyc. 4</i>.<p><b>Étym</b>. προηγέομαι.`

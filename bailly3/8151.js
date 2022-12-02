@@ -1,0 +1,1 @@
+lar[8151]=`<b>εως (ἡ)</b> action de réveiller, d’exciter, PLUT. <i>M. 156b</i>.<p><b>Étym</b>. ἀνεγείρω.`

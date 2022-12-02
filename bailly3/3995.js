@@ -1,0 +1,1 @@
+lar[3995]=`<font color="purple">[ῡ]</font> <i>vb. de</i> ἀκυρόω, STR. <i>362</i>.`

@@ -1,0 +1,1 @@
+lar[14469]=`<b>ονος (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Arétaôn, <i>Troyen,</i> IL. <i>6, 31</i>.<p><b>Étym</b>. ἀρετή.`

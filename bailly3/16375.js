@@ -1,0 +1,1 @@
+lar[16375]=`<b>ἀστύ·νικος πόλις (ἡ)</b> <font color="purple">[ῠνῑ]</font> ville victorieuse, ESCHL. <i>Eum. 915</i>.<p><b>Étym</b>. ἄ. νίκη.`

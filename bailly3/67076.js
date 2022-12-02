@@ -1,0 +1,1 @@
+lar[67076]=`<b>ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> Mykalè (Mycale) <i>mt. et promont. sur la côte d’Asie Mineure,</i> IL. <i>2, 869</i> ; HDT. <i>1, 148,</i> THC. <i>8, 79</i>.<p>➳ <i>Gén. dor</i>. Μυκάλας, SIM. <i>fr. 167</i> ; ANTH. <i>7, 397</i>.`

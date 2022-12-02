@@ -1,0 +1,1 @@
+lar[72416]=`<i>adv. relat</i>. de laquelle des deux manières, THC. <i>1, 78</i> ; PLAT. <i>Ep. 339e, Prot. 320c, etc</i>.<p><b>Étym</b>. ὁπότερος.`

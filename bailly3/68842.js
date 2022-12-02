@@ -1,0 +1,1 @@
+lar[68842]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> neigeux, ARSTT. <i>Meteor. 2, 6</i> ; POL. <i>3, 72, 3</i> ; PLUT. <i>Crass. 10, etc</i>.<p><b>Étym</b>. νιφετός, -ωδης.`

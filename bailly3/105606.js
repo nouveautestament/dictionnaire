@@ -1,0 +1,1 @@
+lar[105606]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> plaisir d’écouter, attention à, <i>gén</i>. ISOCR. <i>5d ; abs</i>. PLUT. <i>M. 48a, etc</i>.<p><b>Étym</b>. φιλήκοος.`

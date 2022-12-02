@@ -1,0 +1,1 @@
+lar[105486]=`<b>φιλ·άνθρωπος, ου (ἡ)</b> <font color="purple">[ῐ]</font> <i>litt</i>. « l’amie de l’homme », <i>n. d’une plante velue qui s’attache aux vêtements,</i> DIOSC. <i>3, 104</i> ; PLIN. <i>H.N. 27, 5, 16</i>.<p><b>Étym</b>. φιλάνθρωπος.`

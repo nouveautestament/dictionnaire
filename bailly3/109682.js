@@ -1,0 +1,1 @@
+lar[109682]=`<b>ψευδό·θυρον, ου (τὸ)</b> <font color="purple">[ῠ]</font> fausse porte, porte secrète, CIC. <i>Verr. 2, 2, 20, etc</i>.<p><b>Étym</b>. ψ. θύρα.`

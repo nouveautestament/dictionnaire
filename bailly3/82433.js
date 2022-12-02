@@ -1,0 +1,1 @@
+lar[82433]=`<b>πολύ·σωρος, ος, ον</b> <font color="purple">[ῠ]</font> qui fournit d’abondants monceaux (de blé) ANTH. <i>6, 258</i>.<p><b>Étym</b>. π. σωρός.`

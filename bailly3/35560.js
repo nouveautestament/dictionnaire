@@ -1,0 +1,1 @@
+lar[35560]=`<b>ἐξ·αποπατέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> rendre par les selles, HPC. <i>504, 7</i>.`

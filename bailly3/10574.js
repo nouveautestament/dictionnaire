@@ -1,0 +1,1 @@
+lar[10574]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> antiphrase, <i>càd</i>. désignation d’une chose par un mot de signification contraire ; <i>p. ex</i>. πόντος εὔξεινος <i>p</i>. ἄξεινος, ATH. <i>90b ;</i> RHÉT. <i>8, 722 W</i>.<p><b>Étym</b>. ἀντιφράζω.`

@@ -1,0 +1,1 @@
+lar[24376]=`<b>Δηρι·νόη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Dèrinoè, <i>Amazone,</i> Q. SM. <i>1, 42, etc</i>.<p><b>Étym</b>. δῆρις, νόος.`

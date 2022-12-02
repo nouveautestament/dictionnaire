@@ -1,0 +1,1 @@
+lar[44135]=`<b>ή, όν</b>, qui excite au combat, M. TYR. <i>26, 8 Dübn</i>.<p><b>Étym</b>. ἐφορμάω.`

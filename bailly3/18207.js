@@ -1,0 +1,1 @@
+lar[18207]=`<b>ατος (τὸ)</b> purification, expiation, BAS.<p><b>Étym</b>. ἀφοσιόω.`

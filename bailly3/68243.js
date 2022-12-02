@@ -1,0 +1,1 @@
+lar[68243]=`<b>νεό·σπορος, ος, ον</b>, semé <i>ou</i> répandu depuis peu, ESCHL. <i>Eum. 659</i>.<p><b>Étym</b>. ν. σπείρω.`

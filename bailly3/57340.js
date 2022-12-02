@@ -1,0 +1,1 @@
+lar[57340]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>seul. pl</i>. petite figue, ATH. <i>119a, 385a</i>.`

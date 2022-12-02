@@ -1,0 +1,1 @@
+lar[90326]=`<b>ου (ὁ)</b> = <i>lat</i>. Similis, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 25</i>.`

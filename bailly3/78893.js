@@ -1,0 +1,1 @@
+lar[78893]=`<b>ου (ὁ)</b> Périllos, <i>h</i>. PLUT. <i>Reg. apophth. Alex. 6, etc</i>.`

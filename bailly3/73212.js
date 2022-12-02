@@ -1,0 +1,1 @@
+lar[73212]=`<b>ης (ἡ)</b> Osca (<i>auj</i>. Huesca) <i>v. d’Espagne,</i> PLUT. <i>Sert. 14, etc</i>.`

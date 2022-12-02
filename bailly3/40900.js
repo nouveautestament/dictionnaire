@@ -1,0 +1,1 @@
+lar[40900]=`<b>ἐρωτο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui écrit sur un sujet érotique, ANTH. <i>7, 421</i>.<p><b>Étym</b>. ἔρως, γράφω.`

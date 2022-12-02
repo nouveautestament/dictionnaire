@@ -1,0 +1,1 @@
+lar[53579]=`<b>κατα·τροπόω-ῶ</b> (<i>seul. moy</i>.) mettre en fuite, ES. <i>291 b Halm</i>.<p><b>Étym</b>. κατά, τρέπω.`

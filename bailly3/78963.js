@@ -1,0 +1,1 @@
+lar[78963]=`<b>ου (ἡ)</b> Périnthos (<i>auj</i>. Marmara Ereğlisi) <i>v. de Thrace,</i> HDT. <i>4, 90, etc.</i> ; XÉN. <i>An. 2, 6, 2, etc</i>.`

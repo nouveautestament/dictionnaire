@@ -1,0 +1,1 @@
+lar[56965]=`engraisser de fumier, TH. <i>C.P. 3, 9, 1 ; 4, 12, 3</i>.<p><b>Étym</b>. κόπρος.`

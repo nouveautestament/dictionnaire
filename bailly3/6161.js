@@ -1,0 +1,1 @@
+lar[6161]=`<b>ἀμφι·θηγής, ής, ές</b>, aiguisé des deux côtés, ANTH. <i>6, 94</i>.<p><b>Étym</b>. ἀ. θήγω.`

@@ -1,0 +1,1 @@
+lar[26825]=`<b>ου (ὁ)</b> surveillant, <i>d’où</i> chef, ESCHL. <i>Pers. 44</i> ; EUR. <i>Rhes. 741</i> ; PLUT. <i>Rom. 6 ; particul</i>. contremaître d’un navire, HPC. <i>1159b, 1220e</i>.<p><b>Étym</b>. διέπω.`

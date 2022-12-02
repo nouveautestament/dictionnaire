@@ -1,0 +1,1 @@
+lar[84250]=`<b>προ·επιστέλλω</b>, mander d’avance <i>ou</i> auparavant par écrit, APP. <i>Syr. 43</i>.`

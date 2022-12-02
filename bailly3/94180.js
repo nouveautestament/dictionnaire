@@ -1,0 +1,1 @@
+lar[94180]=`<b>συμ·περιβομβέω-ῶ</b>, bourdonner tout autour, THÉM. <i>233a</i>.`

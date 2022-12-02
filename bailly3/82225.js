@@ -1,0 +1,1 @@
+lar[82225]=`<b>πολύ·πειρος, ος, ον</b> <font color="purple">[ῠ]</font> très expérimenté, PARMÉN. <i>1, 34 ; d’où</i> habile, rusé, AR. <i>Lys. 1109</i> ; DS. <i>1, 1</i>.<p><b>Étym</b>. π. πεῖρα.`

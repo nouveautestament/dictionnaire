@@ -1,0 +1,1 @@
+lar[35747]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> capable de pousser dehors, de faire sortir, MOSCHION <i>Mul. pass. 35, p. 15</i>.<p><b>Étym</b>. ἐξελαύνω.`

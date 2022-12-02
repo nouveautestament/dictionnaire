@@ -1,0 +1,1 @@
+lar[65225]=`<b>μετριο·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> modération dans les passions <i>ou</i> les sentiments, Ps.-ARCHYT. <i>p. 41, 16</i> ; PLUT. <i>M. 1119c</i>.<p><b>Étym</b>. μετριοπαθής.`

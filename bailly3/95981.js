@@ -1,0 +1,1 @@
+lar[95981]=`<b>συν·θρῴσκω</b> (<i>seul. ao.2</i> συνέθορον) s’élancer ensemble <i>ou</i> en même temps, EL. <i>N.A. 5, 7</i>.`

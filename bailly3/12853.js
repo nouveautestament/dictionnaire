@@ -1,0 +1,1 @@
+lar[12853]=`<b>ἀπο·μακρύνω</b>, éloigner, ARSTT. <i>Plant. 1, 1</i>.`

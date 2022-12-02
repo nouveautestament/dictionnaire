@@ -1,0 +1,1 @@
+lar[69399]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art de carder la laine, PLAT. <i>Pol. 281a, 282a,e</i>.<p><b>Étym</b>. ξαίνω.`

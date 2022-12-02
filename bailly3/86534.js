@@ -1,0 +1,1 @@
+lar[86534]=`<b>προ·συμβιβάζω</b> <font color="purple">[ῐ]</font> réunir <i>ou</i> concilier auparavant, HIÉROCL. <i>C. aur. p. 450 Mullach</i>.`

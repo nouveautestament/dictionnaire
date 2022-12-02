@@ -1,0 +1,1 @@
+lar[21147]=`<b>Γαδειραῖος πορθμός (ὁ)</b> le passage de Gadeires (<i>auj</i>. détroit de Gibraltar), PLUT. <i>Sert. 8</i>.<p><b>Étym</b>. Γάδειρα.`

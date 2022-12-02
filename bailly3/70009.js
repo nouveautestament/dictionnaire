@@ -1,0 +1,1 @@
+lar[70009]=`<b>α, ον</b>, de la grosseur <i>ou</i> de la valeur d’une obole, ARSTT. <i>H.A. 3, 20</i> ; CLÉM. <i>190</i>.<p><b>Étym</b>. ὀβολός.`

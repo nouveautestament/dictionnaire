@@ -1,0 +1,1 @@
+lar[79853]=`<b>πεταυριστέω-ῶ</b>, danser sur la corde, GAL. <i>2, 9</i>.<p><b>Étym</b>. πέταυρον.`

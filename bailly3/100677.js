@@ -1,0 +1,1 @@
+lar[100677]=`<b>ῆνος (ἡ)</b> Trœzène (<i>auj</i>. Trizína, <i>anc</i>. Đamalá) <i>v. d’Argolide,</i> IL. <i>2, 561</i> ; HDT. <i>8, 41, 42</i> ; THC. <i>1, 115, etc.</i> ; XÉN. <i>Hell. 6, 2, 3, etc</i>.`

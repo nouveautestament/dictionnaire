@@ -1,0 +1,1 @@
+lar[94725]=`<b>συν·αναλαμβάνω</b>, prendre <i>ou</i> reprendre ensemble <i>ou</i> en même temps, PLUT. <i>M. 214e ;</i> ATH. <i>113d</i>.`

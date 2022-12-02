@@ -1,0 +1,1 @@
+lar[18592]=`<b>ἀ·ψεγής, ής, ές</b>, sans blâme, irréprochable, SOPH. <i>El. 497</i>.<p><b>Étym</b>. ἀ, ψέγω.`

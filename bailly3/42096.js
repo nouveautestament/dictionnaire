@@ -1,0 +1,1 @@
+lar[42096]=`<b>ης (ἡ)</b> Euèthè (<i>litt</i>. la simple) <i>f</i>. ANTH. <i>7, 729</i>.<p><b>Étym</b>. <i>cf</i>. εὐήθης.`

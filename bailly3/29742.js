@@ -1,0 +1,1 @@
+lar[29742]=`<b>ἔγ·κρανον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> le cervelet, GAL. <i>4, 498</i>.<p><b>Étym</b>. ἐν, *κρᾶνον ; <i>cf</i>. κρανίον.`

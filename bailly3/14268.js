@@ -1,0 +1,1 @@
+lar[14268]=`<b>(ἡ)</b> Arginousa, <i>lieu d’Asie où périt Alcibiade,</i> ARSTT. <i>H.A. 6, 26</i>.<p><b>Étym</b>. <i>cf</i>. Ἀργινοῦσσαι.`

@@ -1,0 +1,1 @@
+lar[93906]=`<b>συμ·μαλάσσω</b> <font color="purple">[μᾰ]</font> amollir <i>ou</i> pétrir avec, CHRYSIPP. (ATH. <i>647e</i>) ; DIOSC. <i>1, 79</i>.`

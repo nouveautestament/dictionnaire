@@ -1,0 +1,1 @@
+lar[102688]=`<b>ὑπερ·οικτείρω</b>, s’apitoyer grandement, CLÉM. <i>68</i>.`

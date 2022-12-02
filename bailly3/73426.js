@@ -1,0 +1,1 @@
+lar[73426]=`<b>ας (ἡ)</b> = <i>lat</i>. Valentia (<i>auj</i>. Valencia), <i>v. d’Espagne,</i> PLUT. <i>Pomp. 18, etc</i>.`

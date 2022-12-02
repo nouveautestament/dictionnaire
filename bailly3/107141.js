@@ -1,0 +1,1 @@
+lar[107141]=`<b>η, ον</b>, fait de feuilles, THCR. <i>Idyl. 21, 8</i> ; LUC. <i>M. cond. 13</i>.<p><b>Étym</b>. φύλλον.`

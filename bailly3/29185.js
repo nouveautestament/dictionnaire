@@ -1,0 +1,1 @@
+lar[29185]=`<b>δωρο·λήπτης, ου (ὁ)</b> qui accepte des présents, SPT. <i>Prov. 15, 27</i>.<p><b>Étym</b>. δῶρον, λαμβάνω.`

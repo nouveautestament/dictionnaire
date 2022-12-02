@@ -1,0 +1,1 @@
+lar[86892]=`<b>προ·ϋπόσχεσις, εως (ἡ)</b> promesse donnée auparavant, RHÉT. <i>6, 184 W</i>.`

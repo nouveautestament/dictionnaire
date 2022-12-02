@@ -1,0 +1,1 @@
+lar[64033]=`<b>μελί·λωτος, ου (ὁ)</b> <font color="purple">[ῐ]</font> mélilot, <i>plante,</i> DIOSC. <i>3, 48</i>.<p>➳ <i>Par exc</i>. <font color="purple">[ῑ]</font> <i>à l’arsis,</i> NIC. <i>Th. 897</i>.<p><b>Étym</b>. μέλι, λωτός.`

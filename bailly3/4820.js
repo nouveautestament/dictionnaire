@@ -1,0 +1,1 @@
+lar[4820]=`<b>ας (ἡ)</b> <font color="purple">[ᾱγ]</font> ingérence dans les affaires d’autrui, PLUT. <i>M. 57d</i>.<p><b>Étym</b>. ἀ. πράσσω.`

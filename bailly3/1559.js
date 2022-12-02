@@ -1,0 +1,1 @@
+lar[1559]=`<b>ῆτος (ἡ) :<br>      1</b> <i>c</i>. ἀδροτής.<br><b>      2</b> force, vigueur, <i>en parl. de plantes,</i> TH. <i>H.P. 7, 4, 11 ; p. anal. en parl. du son,</i> AMARANT. (ATH. <i>415a</i>).<br><b>      3</b> abondance, NT. <i>2Cor. 8, 20</i>.<p>➳ ἁδρότης NT. <i>l.c.</i><p><b>Étym</b>. ἁδρός.`

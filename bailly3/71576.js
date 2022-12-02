@@ -1,0 +1,1 @@
+lar[71576]=`<b>ή, όν</b>, qui peut représenter, qui représente, <i>gén</i>. THEOL. <i>p. 57</i>.<p><b>Étym</b>. ὁμοιόω.`

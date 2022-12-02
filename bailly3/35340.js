@@ -1,0 +1,1 @@
+lar[35340]=`<b>ἐξ·αιχμαλωτίζω</b> <font color="purple">[μᾰ]</font> emmener captif, CHRYS. <i>1, 698d</i>.`

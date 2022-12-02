@@ -1,0 +1,1 @@
+lar[105381]=`<font color="darkgreen">(<i>f</i>. φιαλῶ)</font> mettre la main à, entreprendre, <i>dat</i>. AR. <i>Vesp. 1348, Pax 432</i>.`

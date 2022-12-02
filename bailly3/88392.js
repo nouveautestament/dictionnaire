@@ -1,0 +1,1 @@
+lar[88392]=`<b>(τὸ)</b> <i>seul. nom. et acc. sg</i>. fleuve, ruisseau, ESCHL. <i>Ag. 901 ; Pr. 676, 812 ; en parl. d’un ruisseau de larmes,</i> ESCHL. <i>Pr. 400</i>.<p><b>Étym</b>. ῥέω.`

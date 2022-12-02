@@ -1,0 +1,1 @@
+lar[104149]=`<b>ὑπό·χαυνος, ος, ον :<br>      1</b> un peu flasque, ORIB. <i>158 Matthäi</i>.<br><b>      2</b> un peu gonflé de vanité, ATH. <i>624e ;</i> PROCL. <i>Ptol. p. 228</i>.<p><b>Étym</b>. ὑ. χαῦνος.`

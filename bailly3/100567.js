@@ -1,0 +1,1 @@
+lar[100567]=`<b>τριττυ·αρχέω-ῶ</b>, être président d’un tiers de tribu, <i>à Athènes,</i> PLAT. <i>Rsp. 475a</i>.<p><b>Étym</b>. τριττύς, ἄρχω.`

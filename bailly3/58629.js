@@ -1,0 +1,1 @@
+lar[58629]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> κυλίχνη AR. <i>Eq. 906</i>.`

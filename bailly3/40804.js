@@ -1,0 +1,1 @@
+lar[40804]=`<b>η, ον</b> <font color="purple">[ῠ]</font> du mt Éryx, HDT. <i>5, 45 ; subst</i>. ἡ Ἐρυκίνη (<i>s.-e</i>. χώρα) le territoire d’Éryx, PLUT. <i>Mar. 40</i>.<p><b>Étym</b>. Ἔρυξ.`

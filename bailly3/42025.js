@@ -1,0 +1,1 @@
+lar[42025]=`<b>ας (ἡ) :<br>      1</b> facilité, moyen de faire qqe ch. SEXT. <i>P. 1, 181</i>.<br><b>      2</b> penchant, inclination, CLÉM. <i>507</i>.<p><b>Étym</b>. εὐεπίφορος.`

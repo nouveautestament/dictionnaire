@@ -1,0 +1,1 @@
+lar[51201]=`<b>καλλί·πρῳρος, ος, ον :<br>      1</b> à la belle proue, EUR. <i>Med. 1335</i>.<br><b>      2</b> à l’aspect gracieux, de belle apparence, ESCHL. <i>Sept. 533, etc</i>.<p><b>Étym</b>. κ. πρῷρα.`

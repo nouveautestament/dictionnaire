@@ -1,0 +1,1 @@
+lar[38547]=`<b>ἐπι·νοσσοποιέομαι-οῦμαι</b>, faire son nid sur, <i>dat</i>. DÉMOCR. (<i>Fabricii bibliotheca græca 4, 338</i>).`

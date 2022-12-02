@@ -1,0 +1,1 @@
+lar[59354]=`<b>λαβρο·ποσία, ας (ἡ)</b> <font color="purple">[α]</font> intempérance pour la boisson, HIPPIATR. <i>p. 54, 31</i>.<p><b>Étym</b>. λάβρος, -ποτος <i>de</i> πίνω.`

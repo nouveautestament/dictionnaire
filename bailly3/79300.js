@@ -1,0 +1,1 @@
+lar[79300]=`<b>ής, ές :<br>      1</b> pressant, qui ne laisse pas de repos, <i>ou, sel. d’autres,</i> qui se précipite, impétueux, SOPH. <i>Aj. 982</i>.<br><b>      2</b> emporté, irascible, PLUT. <i>M. 59d</i>.<p><b>Étym</b>. περισπέρχω.`

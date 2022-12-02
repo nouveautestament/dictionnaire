@@ -1,0 +1,1 @@
+lar[84697]=`<b>*προμαχητικός</b>, <i>dor</i>. <b>προμαχατικός, ή, όν</b> <font color="purple">[ᾰᾱ]</font> qui combat en avant, HIPPODAM. (STOB. <i>Fl. 43, 93</i>).`

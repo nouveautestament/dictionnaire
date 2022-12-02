@@ -1,0 +1,1 @@
+lar[51542]=`<b>ης (ἡ) :<br>   I</b> roseau, <i>c</i>. κάλαμος, POL. <i>14, 1, 15</i>.<br><b>   II</b> <i>au pl.</i> :<br><b>      1</b> natte de roseaux, CRAT. (<i>Com. fr. 2, 124</i>).<br><b>      2</b> clôture <i>ou</i> palissade de roseaux, AR. <i>Vesp. 394</i>.`

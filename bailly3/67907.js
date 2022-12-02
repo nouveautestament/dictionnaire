@@ -1,0 +1,1 @@
+lar[67907]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. tacheté comme un faon, ARSTT. <i>H.A. 6, 10, 16</i>.<p><b>Étym</b>. νεβρός.`

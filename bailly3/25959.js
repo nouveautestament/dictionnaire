@@ -1,0 +1,1 @@
+lar[25959]=`<i>adv</i>., mensongèrement, avec le dessein de tromper, STOB. <i>Ecl. 2, 64 Mein</i>.<p><b>Étym</b>. διαψεύδω.`

@@ -1,0 +1,1 @@
+lar[36989]=`<b>ἐπ·εισκομίζω</b>, introduire en sus, POLYARCH. (ATH. <i>546 conj</i>.).<br><b><i>Moy.</i></b> <i>m. sign</i>. ANON. (<i>Com. fr. 4, 428 conj</i>).`

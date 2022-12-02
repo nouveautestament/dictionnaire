@@ -1,0 +1,1 @@
+lar[49034]=`<b>οῦ (ὁ) :<br>   I</b> <i>le fl</i>. Indus (<i>auj</i>. Sindhu <i>ou</i> Sindh) <i>en Asie,</i> HDT. <i>4, 44</i>.<br><b>   II</b> <i>n. d’h</i>. Indos :<br><b>      1</b> <i>celui qui a donné son nom au fl. Indus,</i> Ps.-PLUT. <i>Fluv. 25</i>.<br><b>      2</b> <i>ancêtre des Indiens,</i> NONN. <i>D. 18, 271</i>.`

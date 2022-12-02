@@ -1,0 +1,1 @@
+lar[70150]=`<b>ὁδ·ουρός, ός, όν :<br>      1</b> qui est en sentinelle sur une route, EUR. <i>Ion 1617</i>.<br><b>      2</b> qui est en embuscade sur une route, SOPH. <i>fr. 23</i> ; pirate, EUR. <i>fr. 262</i>.<p><b>Étym</b>. ὁδός, οὖρος.`

@@ -1,0 +1,1 @@
+lar[100579]=`<b>εως (ἡ)</b> <font color="purple">[ῐτ]</font><br><b>      1</b> action de faire pour la troisième fois, NYSS.<br><b>      2</b> réduction d’un tiers, A. TR. <i>8, p. 427, 446</i>.<p><b>Étym</b>. τριτόω.`

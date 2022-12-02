@@ -1,0 +1,1 @@
+lar[55395]=`<i>(seul. prés.) c</i>. κιχάνω, SOL. <i>44</i> ; ESCHL. <i>Ch. 620</i> ; SOPH. <i>O.C. 1450</i> ; EUR. <i>Hel. 597, Hipp. 1444</i>.`

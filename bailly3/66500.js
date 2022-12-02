@@ -1,0 +1,1 @@
+lar[66500]=`<b>ου (ὁ)</b> solitaire, vieux sanglier, EL. <i>N.A. 15, 3</i>.<p><b>Étym</b>. μόνος.`

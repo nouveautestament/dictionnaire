@@ -1,0 +1,1 @@
+lar[106909]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m.</i> :<br><b>      1</b> qui a des sentiments élevés, généreux, noble, XÉN. <i>Ages. 1, 24</i>.<br><b>      2</b> hautain, orgueilleux, présomptueux, ARSTT. <i>Pol. 5, 11, 5</i> ; LGN <i>9, 4</i>.<p><b>Étym</b>. φρόνημα.`

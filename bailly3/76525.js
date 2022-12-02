@@ -1,0 +1,1 @@
+lar[76525]=`<b>παρ·έγγραπτος, ος, ον</b>, inscrit par fraude, intrus, ESCHN. <i>51 fin</i> ; LUC. <i>J. tr. 21 ; fig</i>. PLUT. <i>M. 3c</i>.<p><b>Étym</b>. παρεγγράφω.`

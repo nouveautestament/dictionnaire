@@ -1,0 +1,1 @@
+lar[95677]=`<b>συν·επισπεύδω</b>, accélérer ensemble <i>ou</i> en même temps, XÉN. <i>An. 1, 5, 8</i>.`

@@ -1,0 +1,1 @@
+lar[106046]=`<font color="purple">[ῐ]</font> aimer à primer, ambitionner la prééminence sur, <i>gén</i>. NT. <i>3 Joh. 9</i>.<p><b>Étym</b>. φιλόπρωτος.`

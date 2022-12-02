@@ -1,0 +1,1 @@
+lar[97819]=`<i>dat. fém. sg. de</i> οὗτος, <i>employé adv., v</i>. οὗτος.`

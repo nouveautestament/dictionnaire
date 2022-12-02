@@ -1,0 +1,1 @@
+lar[56296]=`<b>εως (ἡ)</b> <font color="purple">[ῑδ]</font> démangeaison, HPC. <i>109g, etc</i>.<p><b>Étym</b>. κνίδη.`

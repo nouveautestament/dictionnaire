@@ -1,0 +1,1 @@
+lar[46962]=`<b>θερμο·πότης, ου</b>, <i>adj. m</i>. qui boit chaud, <i>particul</i>. qui boit du vin trempé d’eau chaude, ATH. <i>352b</i>.<p><b>Étym</b>. θ. πίνω.`

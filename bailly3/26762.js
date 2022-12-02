@@ -1,0 +1,1 @@
+lar[26762]=`<b>ῆς (ἡ)</b> action de tirer en tous sens, tiraillement, SEXT. <i>M. 8, 322</i> ; ORIG. <i>1, 933c Migne</i>.<p><b>Étym</b>. διέλκω.`

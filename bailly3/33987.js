@@ -1,0 +1,1 @@
+lar[33987]=`<b>ἐν·απο·σφηνόω-ῶ</b>, enfoncer comme un coin dans, <i>dat</i>. CHRYS. <i>5, 153</i>.<p><b>Étym</b>. ἐν, ἀπό, σφ.`

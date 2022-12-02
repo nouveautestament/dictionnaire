@@ -1,0 +1,1 @@
+lar[3200]=`<b>ἀ·κατανόητος, ος, ον</b>, incompréhensible, LUC. <i>Philopatr. 43</i>.<p><b>Étym</b>. ἀ, κατανοέω.`

@@ -1,0 +1,1 @@
+lar[102718]=`<b>ὑπερ·ορρωδέω-ῶ</b>, trembler de crainte pour, <i>gén</i>. EUR. <i>Suppl. 344</i>.<p><b>Étym</b>. <i>cf</i>. ὑπεραρρωδέω.`

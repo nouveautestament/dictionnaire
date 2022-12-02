@@ -1,0 +1,1 @@
+lar[88909]=`<i>ou</i> <b>ῥυπαπαί</b> <font color="purple">[ᾰ]</font> <i>interj</i>. cri des matelots, AR. <i>Ran. 1073</i> ; τὸ ῥ. AR. <i>Vesp. 909,</i> la race des matelots.`

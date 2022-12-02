@@ -1,0 +1,1 @@
+lar[77730]=`<b>ή, όν</b>, qui concerne la cigogne, de cigogne, ARSTT. <i>H.A. 9, 13</i>.<p><b>Étym</b>. πελαργός.`

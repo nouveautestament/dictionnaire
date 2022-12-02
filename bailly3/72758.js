@@ -1,0 +1,1 @@
+lar[72758]=`<b>ὀρθό·στρωτος, ος, ον</b>, garni de plaques verticales (en marbre) <i>en parl. de murs</i>, HIÉROCL. (STOB. <i>Fl. 67, 24).</i><p><b>Étym</b>. ὀ. στρωτός.`

@@ -1,0 +1,1 @@
+lar[91424]=`<b>ας (ἡ)</b> scorie, <i>écume d’un métal, particul. du fer,</i> ARSTT. <i>Meteor. 4, 6, 9, etc.</i> ; DIOSC. <i>5, 9, 4</i> ; STR. <i>399</i>.<p><b>Étym</b>. σκώρ.`

@@ -1,0 +1,1 @@
+lar[962]=`<i>adv</i>., en rustre, grossièrement, AR. <i>Vesp. 1320, etc</i>.<p>•<i> Cp</i>. -οτέρως, XÉN. <i>Mem. 3, 13, 1</i> ; PLAT. <i>Rsp. 361e ; ou</i> -ότερον, PLAT. <i>Phædr. 260d</i>.`

@@ -1,0 +1,1 @@
+lar[58525]=`<b>κυκησί·τεφρος, ος, ον</b> <font color="purple">[ῠ]</font> mêlé de cendre, AR. <i>Ran. 710</i>.<p><b>Étym</b>. κυκάω, τέφρα.`

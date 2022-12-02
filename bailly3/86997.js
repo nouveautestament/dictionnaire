@@ -1,0 +1,1 @@
+lar[86997]=`<b>προ·χαλάω-ῶ</b>, relâcher auparavant, ARÉT. <i>Cur. m. diut. 1, 5</i>.`

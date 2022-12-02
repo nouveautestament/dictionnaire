@@ -1,0 +1,1 @@
+lar[100604]=`<b>τρι·χάλεπτος, ος, ον</b> <font color="purple">[ῐᾰ]</font> très irascible, ANTH. <i>12, 229</i>.<p><b>Étym</b>. τρ. χαλέπτω.`

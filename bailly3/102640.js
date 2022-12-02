@@ -1,0 +1,1 @@
+lar[102640]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> capable de protéger, <i>gén</i>. PLUT. <i>Num. 16</i> ; CORN. <i>N.D. 20</i>.<p><b>Étym</b>. ὑπερμαχέω.`

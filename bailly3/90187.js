@@ -1,0 +1,1 @@
+lar[90187]=`<b>εως (ἡ)</b> <font color="purple">[σῐ]</font> ferrure, armature métallique, BITON <i>Mach. 107</i>.<p><b>Étym</b>. σιδηρόω.`

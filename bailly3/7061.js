@@ -1,0 +1,1 @@
+lar[7061]=`<b>ἀνα·λάζομαι</b> (<i>seul. impf</i>.) reprendre, MOSCH. <i>2, 15</i>.`

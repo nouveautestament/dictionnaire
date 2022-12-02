@@ -1,0 +1,1 @@
+lar[92171]=`<b>ης, ες :<br>      1</b> séditieux, factieux, ARSTT. <i>Probl. 30, 11, 3</i> ; τὸ στασιῶδες, POL. <i>1, 9, 6,</i> caractère séditieux.<br><b>      2</b> querelleur, XÉN. <i>Mem. 2, 6, 4 dout</i>.<p>•<i> Sup</i>. -έστατος, DH. <i>8, 15</i>.<p><b>Étym</b>. στάσις, -ωδης.`

@@ -1,0 +1,1 @@
+lar[56920]=`<b>εως (ἡ)</b> pêche au harpon, EL. <i>N.A. 12, 43</i>.<p><b>Étym</b>. κοντός.`

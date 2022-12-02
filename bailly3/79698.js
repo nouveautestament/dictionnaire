@@ -1,0 +1,1 @@
+lar[79698]=`<b>περι·ψάω-ῶ</b>, frotter <i>ou</i> essuyer tout autour, étriller, AR. <i>Eq. 909, etc</i>.`

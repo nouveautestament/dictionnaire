@@ -1,0 +1,1 @@
+lar[94469]=`<b>συμ·φρύγω</b> <font color="purple">[ῡγ]</font> <font color="darkgreen">(<i>ao.2 pass</i>. συνεφρύγην <font color="purple">[ῠγ]</font>)</font> faire rôtir avec, embraser avec, TH. <i>Ign. 62</i> ; SPT. <i>Ezech. 24, 11</i> ; JOS. <i>Macc. 3, 11 ; au pass</i>. SPT. <i>Job 30, 30, etc</i>.`

@@ -1,0 +1,1 @@
+lar[16053]=`<b>ἀσπιδό·τροφος, ος, ον</b> <font color="purple">[ῐ]</font> qui se nourrit d’aspics, GAL.<p><b>Étym</b>. ἀ. τρέφω.`

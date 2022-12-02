@@ -1,0 +1,1 @@
+lar[49378]=`<b>ἱππό·λυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui délie les chevaux, A. PL. <i>44</i>.<p><b>Étym</b>. ἵ. λύω.`

@@ -1,0 +1,1 @@
+lar[10502]=`<b>ἀντί·τεχνος, ος, ον</b>, rival dans une profession <i>ou</i> un art, AR. <i>Ran. 816</i> ; PLAT. <i>Rsp. 493a, etc. ; avec le dat</i>. PLAT. <i>Phæd. 60d ; avec le gén</i>. LUC. <i>Alex. 43</i>.<p><b>Étym</b>. ἀ. τέχνη.`

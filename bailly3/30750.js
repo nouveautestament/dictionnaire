@@ -1,0 +1,1 @@
+lar[30750]=`<b>*εἰσ·έργνυμι</b>, <i>ion</i>. <b>ἐσ·έργνυμι</b> (<i>3 pl. ion</i>. -ῦσι) enfermer dans, <i>acc</i>. HDT. <i>2, 86</i>.`

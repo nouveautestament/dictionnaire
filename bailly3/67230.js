@@ -1,0 +1,1 @@
+lar[67230]=`<b>μυρι·ετής, ής, ές</b> <font color="purple">[ῡ]</font> d’un nombre infini d’années, ESCHL. <i>Pr. 94</i> ; PLAT. <i>Epin. 987e ;</i> ARSTT. <i>G.A. 2, 6, etc</i>.<p><b>Étym</b>. μυρίοι, ἔτος.`

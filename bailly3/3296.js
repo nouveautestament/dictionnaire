@@ -1,0 +1,1 @@
+lar[3296]=`<b>ου (ὁ)</b> le secourable, le guérisseur (Apollon) PAUS. <i>6, 24, 6</i>.<p><b>Étym</b>. ἀκέομαι.`

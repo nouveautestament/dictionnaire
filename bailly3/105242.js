@@ -1,0 +1,1 @@
+lar[105242]=`<b>ιος (ἡ) :<br>      1</b> entretien, conversation, IL. <i>10, 207</i>.<br><b>      2</b> voix, <i>d’où</i> volonté, OD. <i>14, 239</i>.<br><b>      3</b> renommée, <i>en b. et en mauv. part,</i> OD. <i>6, 273 ; 24, 200</i>.<p><b>Étym</b>. φήμη.`

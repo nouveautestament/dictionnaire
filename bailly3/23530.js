@@ -1,0 +1,1 @@
+lar[23530]=`<font color="darkgreen">(<i>seul. impf. 3 sg</i>. δείλετο)</font> approcher du soir, pencher vers son déclin, <i>en parl. du soleil,</i> OD. <i>7, 289, sel. Aristarque, p</i>. δύσετο.<p><b>Étym</b>. δείλη.`

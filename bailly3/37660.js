@@ -1,0 +1,1 @@
+lar[37660]=`<b>ἐπι·δοξάζω</b>, concevoir <i>ou</i> exprimer une opinion sur, TH. <i>C.P. 1, 5, 5</i>.`

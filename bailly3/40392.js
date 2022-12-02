@@ -1,0 +1,1 @@
+lar[40392]=`<b>ἐρι·αύχην, ην, εν</b>, <i>gén</i>. <b>ενος</b>, qui porte la tête haute, qui relève la tête, IL. <i>10, 305</i>.<p><b>Étym</b>. ἐρι-, αὐχήν.`

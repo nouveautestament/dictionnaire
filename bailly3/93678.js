@@ -1,0 +1,1 @@
+lar[93678]=`<b>ος, ον</b>, qui vit avec, NYSS. <i>Col. 2, 13</i> ; NAZ. <i>1, 397 Migne</i>.<p><b>Étym</b>. συζάω.`

@@ -1,0 +1,1 @@
+lar[3327]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Akésôn, <i>h</i>. ANTH. <i>6, 147</i>.<p><b>Étym</b>. ἀκέομαι.`

@@ -1,0 +1,1 @@
+lar[47250]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾱ]</font> chasseur, PHILSTR. <i>864</i>.<p>➳ <i>Ion</i>. θηρητήρ, IL. <i>5, 51, etc</i>.<p><b>Étym</b>. θηράω.`

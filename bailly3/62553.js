@@ -1,0 +1,1 @@
+lar[62553]=`<b>μακρό·ρριζος, ος, ον</b>, aux longues racines, TH. <i>H.P. 1, 7, 2</i>.<p><b>Étym</b>. μ. ῥίζα.`

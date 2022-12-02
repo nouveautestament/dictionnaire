@@ -1,0 +1,1 @@
+lar[7368]=`<b>ἀνα·πηλέω</b>, faire tourner, retourner, <i>en parl. d’une tortue,</i> HH. <i>Merc. 41 dout</i>.<p><b>Étym</b>. ἀ. πέλω ; <i>conj</i>. ἀναμηλόω.`

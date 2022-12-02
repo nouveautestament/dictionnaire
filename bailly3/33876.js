@@ -1,0 +1,1 @@
+lar[33876]=`<b>ἐν·ανθρωπέω-ῶ</b>, habiter dans <i>ou</i> parmi les hommes, HLD. <i>2, 31</i>.<p><b>Étym</b>. ἐν, ἄνθρωπος.`

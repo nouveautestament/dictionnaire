@@ -1,0 +1,1 @@
+lar[42274]=`<b>ῆρος (ὁ) :<br>      1</b> qui corrige, qui châtie, THGN. <i>40</i>.<br><b>      2</b> <i>adj. m</i>. qui dirige, qui gouverne, ESCHL. <i>Suppl. 717</i>.<p><b>Étym</b>. εὐθύνω.`

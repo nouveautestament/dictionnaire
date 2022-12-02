@@ -1,0 +1,1 @@
+lar[18567]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> tas de paille, AR. <i>Vesp. 1310</i>.<p><b>Étym</b>. <i>conj. p</i>. ἀχυρός <i>ou</i> ἄχυρος ; <i>vulg</i>. ἀχυρών.`

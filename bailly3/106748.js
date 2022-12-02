@@ -1,0 +1,1 @@
+lar[106748]=`<b>ας (ἡ)</b> = <i>lat</i>. Fulcinia, <i>mère de Marius,</i> PLUT. <i>Mar. 3</i>.`

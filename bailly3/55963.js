@@ -1,0 +1,1 @@
+lar[55963]=`<b>ῶν (αἱ)</b> Kléônes :<br><b>      1</b> <i>v. d’Argolide (auj</i>. ruines près de Archées Kleonés), IL. <i>2, 570</i> ; PD. <i>O. 10, 37</i> ; THC. <i>6, 95,</i> XÉN. <i>Hell. 7, 5, 15</i>.<br><b>      2</b> <i>v. sur le mt Athos (p.-ê. auj</i>. près de Đáfni) HDT. <i>7, 22</i> ; THC. <i>4, 109</i>.<br><b>      3</b> <i>v. de Phocide,</i> PLUT. <i>M. 244d</i>.`

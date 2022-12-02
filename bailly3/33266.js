@@ -1,0 +1,1 @@
+lar[33266]=`<b>ἐμ·μέσῳ</b>, <i>adv. par assimil. p</i>. ἐν μέσῳ, au milieu, NT. <i>Apoc. 1, 13</i>.`

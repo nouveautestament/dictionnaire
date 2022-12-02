@@ -1,0 +1,1 @@
+lar[43950]=`<b>ἐφ·εκτικῶς</b>, <i>adv</i>., en suspendant son jugement, sans se décider, STOB. <i>Ecl. 1, 78</i>.`

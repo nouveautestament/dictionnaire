@@ -1,0 +1,1 @@
+lar[39207]=`<b>ἐπι·συζεύγνυμι</b> <font color="purple">[νῡ]</font> <font color="darkgreen">(<i>ao</i>. ἐπισυνέζευξα)</font> joindre en outre, GAL. <i>12, 456a</i>.`

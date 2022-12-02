@@ -1,0 +1,1 @@
+lar[24465]=`<b>δια·βύω</b> (<i>seul. ao. part</i>. -ύσας) enfoncer de manière à boucher : τὸν δάκτυλον ἐς τὸ στόμα, HPC. <i>260, 48</i>, enfoncer le doigt dans la bouche.`

@@ -1,0 +1,1 @@
+lar[59870]=`<font color="purple">[ᾱῑ]</font> rendre gras, <i>d’où au moy</i>. devenir gras, engraisser, SOPHR. (ATH. <i>376b</i>).<p><b>Étym</b>. λαρινός.`

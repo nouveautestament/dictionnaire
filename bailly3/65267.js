@@ -1,0 +1,1 @@
+lar[65267]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>seul. au pl</i>. aucun, nul, HDT. <i>1, 143, etc</i>.<p><b>Étym</b>. μηδέ, ἀμός.`

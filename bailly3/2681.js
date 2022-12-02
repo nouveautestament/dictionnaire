@@ -1,0 +1,1 @@
+lar[2681]=`<b>αἰνο·βάκχευτος, ος, ον</b>, aux transports furieux, LYC. <i>792</i>.<p><b>Étym</b>. αἰνός, βακχεύω.`

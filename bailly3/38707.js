@@ -1,0 +1,1 @@
+lar[38707]=`il faut ajouter par surcroît, HÉRODOTUS (ORIB. <i>1, 426 B.-Dar.) (vb. de</i> *ἐπιπλεονάζω, <i>de</i> ἐπί, πλ.).`

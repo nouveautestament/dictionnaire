@@ -1,0 +1,1 @@
+lar[62950]=`<b>μαριλο·πότης, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> qui avale du charbon, <i>ép. d’un forgeron,</i> A. PL. <i>15</i>.<p><b>Étym</b>. μαρίλη, πίνω.`

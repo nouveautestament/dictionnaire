@@ -1,0 +1,1 @@
+lar[107860]=`<font color="darkgreen">(<i>f</i>. -ίσω, <i>att</i>. -ιῶ)</font> <font color="purple">[ᾰᾰ]</font> disposer une palissade avec des pieux croisés, <i>d’où p. anal.</i> : τοῖς προσθίοις σκέλεσι, ARSTT. <i>P.A. 4, 6, 14,</i> croiser les pattes de devant.<p><b>Étym</b>. χάραξ.`

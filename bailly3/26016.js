@@ -1,0 +1,1 @@
+lar[26016]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐᾰ]</font> enseignement, instruction, HDT. <i>3, 134 ; 5, 58</i> ; THC. <i>1, 120</i> ; PLAT. <i>Rsp. 536d, etc.</i> ; διδαχὴν ποιεῖσθαι, THC. <i>4, 126, etc</i>. donner des enseignements.<p><b>Étym</b>. διδάσκω.`

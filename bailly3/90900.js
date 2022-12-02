@@ -1,0 +1,1 @@
+lar[90900]=`<b>ου (ὁ)</b> sorte de lézard, DIOSC. <i>2, 71</i>.`

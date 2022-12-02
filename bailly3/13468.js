@@ -1,0 +1,1 @@
+lar[13468]=`<b>ἀπο·στρατοπεδεύομαι</b> <font color="purple">[ᾰτ]</font> camper à part, loin de, <i>gén</i>. XÉN. <i>An. 3, 4, 34, etc</i>.`

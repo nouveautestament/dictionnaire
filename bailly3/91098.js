@@ -1,0 +1,1 @@
+lar[91098]=`<b>ου (τὸ)</b> <i>dim. de</i> σκόλοψ, ANTYLL. (ORIB. <i>184 Mai</i>).`

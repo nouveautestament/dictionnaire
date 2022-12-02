@@ -1,0 +1,1 @@
+lar[79903]=`<b>πετρο·λάπαθον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> plante de rocher, DIOSC. <i>Par. 2, 47</i>.`

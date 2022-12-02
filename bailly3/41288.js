@@ -1,0 +1,1 @@
+lar[41288]=`<b>ἑτερ·ήρης, ης, ες</b>, qui s’adapte à l’un ou à l’autre côté, MAX. <i>π. κατ. 165</i>.<p><b>Étym</b>. ἕτερος, *ἄρω.`

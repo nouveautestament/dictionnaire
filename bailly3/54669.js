@@ -1,0 +1,1 @@
+lar[54669]=`<b>ατος (τὸ)</b> gîte de bête fauve, EMPÉD. (PLUT. <i>M. 917d</i>).`

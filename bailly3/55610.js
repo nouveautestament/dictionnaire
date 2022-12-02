@@ -1,0 +1,1 @@
+lar[55610]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> la fille de Kissée, <i>càd</i>. Hékabè (Hécube) ANTH. <i>9, 117</i>.<br><b>      2</b> la fille de Kissès, <i>càd</i>. Théano, IL. <i>6, 299</i>.<p><b>Étym</b>. Κισσεύς <i>et</i> Κισσῆς.`

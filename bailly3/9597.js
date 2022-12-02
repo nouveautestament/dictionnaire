@@ -1,0 +1,1 @@
+lar[9597]=`<b>ἀντ·εμπλέκω</b> : enlacer mutuellement, DIOSC. <i>1, 14</i>.<br><b><i>Moy.</i></b> s’enlacer mutuellement, <i>d’où</i> échanger des embrassements <i>ou</i> des salutations, JOS. <i>A.J. 16, 2, 5</i>.`

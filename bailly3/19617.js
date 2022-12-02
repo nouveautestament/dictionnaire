@@ -1,0 +1,1 @@
+lar[19617]=`<b>ου (ὁ) :<br>      1</b> = <i>lat</i>. Velæus, <i>n. d’h</i>. PLUT.<br><b>      2</b> Bèlæos, <i>fl. sur la côte de Phénicie,</i> JOS.`

@@ -1,0 +1,1 @@
+lar[16861]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> vaporeux, ARSTT. <i>Meteor. 2, 4, 3, etc.</i> ; TH. <i>C.P. 3, 23, 2</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Meteor. 1, 4, 2</i>.<p><b>Étym</b>. ἀτμίς, -ωδης.`

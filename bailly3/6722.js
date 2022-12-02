@@ -1,0 +1,1 @@
+lar[6722]=`<b>ἀνα·δονέω-ῶ</b>, agiter, mouvoir, PHIL. <i>1, 659</i>.`

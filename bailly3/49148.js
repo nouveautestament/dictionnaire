@@ -1,0 +1,1 @@
+lar[49148]=`<b>ου (ὁ)</b> sorte de chevreuil <i>ou</i> de chamois, OPP. <i>C. 2, 296 ; 3, 3</i>.<p><b>Étym</b>. <i>cf</i>. δόρξ, δορκάς.`

@@ -1,0 +1,1 @@
+lar[64054]=`<b>ου (τὸ)</b> petite chanson, ANTIPH. (<i>Com. fr. 3, 119).</i><p><b>Étym</b>. μέλος.`

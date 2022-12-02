@@ -1,0 +1,1 @@
+lar[14048]=`<b>ἀ·πυρεξία, ας (ἡ)</b> <font color="purple">[ῠ]</font> absence de fièvre, GAL. <i>9, 26, etc</i>.<p><b>Étym</b>. ἀπύρεκτος.`

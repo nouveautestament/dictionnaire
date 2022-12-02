@@ -1,0 +1,1 @@
+lar[32351]=`<b>ἐκ·φρονέω-ῶ</b>, n’avoir pas son bon sens, être insensé, DC. <i>55, 13</i>.<p><b>Étym</b>. ἔκφρων.`

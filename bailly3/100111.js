@@ -1,0 +1,1 @@
+lar[100111]=`<b>ᾶντος (ὁ)</b> <i>lat. triens, monnaie sicilienne,</i> ARSTT. <i>fr. 467</i>.`

@@ -1,0 +1,1 @@
+lar[13485]=`<b>ἀπο·συνεθίζω</b>, déshabituer de, <i>gén</i>. SOR. <i>Obst. p. 200, 11 Dietz</i>.`

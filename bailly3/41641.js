@@ -1,0 +1,1 @@
+lar[41641]=`<b>ατος (τὸ)</b> sensation agréable, HÉRODOTUS (ORIB. <i>1, 408 B.-Dar</i>.).<p><b>Étym</b>. εὐαρεστέω.`

@@ -1,0 +1,1 @@
+lar[11290]=`<b>ἀπ·άξιος, ος, ον</b>, indigne de, <i>gén</i>. PLAT. <i>Ep. 324b, Leg. 645c, etc</i>.`

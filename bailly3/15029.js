@@ -1,0 +1,1 @@
+lar[15029]=`<b>η, ον</b> <font color="purple">[ᾰγῐ]</font> ravi, volé, CALL. <i>Cer. 9</i> ; ANTH. <i>11, 290</i>.<p><b>Étym</b>. ἁρπάζω.`

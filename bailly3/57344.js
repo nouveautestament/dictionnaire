@@ -1,0 +1,1 @@
+lar[57344]=`<b>ου (ὁ)</b> poisson à grosse tête, <i>vulg</i>. chabot, ARSTT. <i>H.A. 4, 8, 16</i>.`

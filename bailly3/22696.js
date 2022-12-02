@@ -1,0 +1,1 @@
+lar[22696]=`<b>υπός (ὁ)</b> <font color="purple">[ῡ]</font> griffon, <i>oiseau fabuleux,</i> HDT. <i>3, 116</i> ; ESCHL. <i>Pr. 804</i> ; EL. <i>N.A. 4, 27, etc</i>.<p><b>Étym</b>. γρυπός.`

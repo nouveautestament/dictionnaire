@@ -1,0 +1,1 @@
+lar[94135]=`<b>συμ·παρολισθαίνω</b>, glisser ensemble <i>ou</i> en même temps à côté de, PLUT. <i>M. 699a</i>.`

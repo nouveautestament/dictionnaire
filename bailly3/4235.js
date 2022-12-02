@@ -1,0 +1,1 @@
+lar[4235]=`<b>οῦ (ὁ)</b> partisan d’Alexandre, PLUT. <i>Alex. 24</i>.<p><b>Étym</b>. Ἀλεξανδρίζω.`

@@ -1,0 +1,1 @@
+lar[30042]=`<b>ἑδραιόω-ῶ</b>, asseoir solidement, affermir, LUC. <i>Philopatr. 16</i>.<p><b>Étym</b>. ἑδραῖος.`

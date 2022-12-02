@@ -1,0 +1,1 @@
+lar[26965]=`<i>ou</i> <b>διπλοίζω</b> (<i>seul. prés</i>.) doubler, mettre en double, ESCHL. <i>Ag. 835</i>.<p><b>Étym</b>. διπλοΐς.`

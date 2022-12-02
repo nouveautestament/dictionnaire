@@ -1,0 +1,1 @@
+lar[94480]=`<b>ου (ὁ)</b> <font color="purple">[φῡ]</font> qui est de la même tribu, <i>d’où</i> compatriote, NT. <i>1Thess. 2, 14</i>.`

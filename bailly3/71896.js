@@ -1,0 +1,1 @@
+lar[71896]=`<b>ὀν·έλαφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> âne-cerf, CALLIX. (ATH. <i>200f</i>).<p><b>Étym</b>. ὄνος, ἔλαφος.`

@@ -1,0 +1,1 @@
+lar[91204]=`couvrir de ténèbres, THÉM. <i>153a ; au pass</i>. PLUT. <i>M. 1120e ;</i> SPT. <i>Ps. 68, 24 ; Eccl. 12, 2 ; 3 Macc. 4, 10</i> ; NT. <i>Eph. 4, 18</i>.<p><b>Étym</b>. σκότος.`

@@ -1,0 +1,1 @@
+lar[72895]=`<b>ατος (τὸ)</b> stationnement dans un port, mouillage, HÉRACLITE GRAMM. <i>All. Hom. 61</i>.<p><b>Étym</b>. ὁρμίζω.`

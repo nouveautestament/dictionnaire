@@ -1,0 +1,1 @@
+lar[23950]=`<b>δερκ·ευνής, ής, ές</b>, qui dort les yeux ouverts, NIC. <i>Al. 67</i>.<p><b>Étym</b>. δέρκομαι, εὐνή.`

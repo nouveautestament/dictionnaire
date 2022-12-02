@@ -1,0 +1,1 @@
+lar[49317]=`<b>ἱππο·δέτης, ου</b>, <i>adj. m.</i> :<br><b>      1</b> qui sert à attacher les chevaux, SOPH. <i>Aj. 241</i>.<br><b>      2</b> <i>subst</i>. ὁ ἱππ. qui attache les chevaux (Hèraklès) PAUS. <i>9, 26, 1</i>.<p><b>Étym</b>. ἵ. δέω.`

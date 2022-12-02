@@ -1,0 +1,1 @@
+lar[64955]=`<b>μετα·σκαίρω</b>, bondir parmi <i>ou</i> à la suite de, ARAT. <i>280</i>.`

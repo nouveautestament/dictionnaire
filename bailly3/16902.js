@@ -1,0 +1,1 @@
+lar[16902]=`<b>ῶν (οἱ)</b> <i>transcript. du n. lat</i>. Aduatici, <i>pple belge,</i> DC.`

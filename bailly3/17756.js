@@ -1,0 +1,1 @@
+lar[17756]=`<b>αὐτό·φορβος, ος, ον</b>, qui se mange lui-même, ESCHL. <i>fr. 112</i>.<p><b>Étym</b>. αὐ. φέρβω.`

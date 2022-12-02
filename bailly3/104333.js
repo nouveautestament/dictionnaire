@@ -1,0 +1,1 @@
+lar[104333]=`<b>ων (τὰ)</b> fête où l’on immolait un porc, <i>à Argos,</i> ZÉNOD. (ATH. <i>96a</i>).<p><b>Étym</b>. ὗς.`

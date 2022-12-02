@@ -1,0 +1,1 @@
+lar[87896]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> sorte de gâteau <i>ou</i> de pain, EPIGR.<p><b>Étym</b>. <i>Welck. Syll. n. 170, 2, p. 220</i>.`

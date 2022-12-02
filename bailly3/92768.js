@@ -1,0 +1,1 @@
+lar[92768]=`<b>οῦ (ὁ) :<br>      1</b> action de viser, d’avoir en vue, PLUT. <i>M. 981b.</i><br><b>      2</b> action de conjecturer, PLAT. <i>Phil. 56a ;</i> PLUT. <i>M. 616b ;</i> DH. <i>Rhet. p. 318</i>.<p><b>Étym</b>. στοχάζομαι.`

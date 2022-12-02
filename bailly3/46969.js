@@ -1,0 +1,1 @@
+lar[46969]=`<b>ητος (ἡ)</b> chaleur, HPC. <i>V. med. 14</i> ; PLAT. <i>Rsp. 335d ; au pl</i>. PLAT. <i>Crat. 432b ; fig</i>. ATH. <i>1b ;</i> PHILSTR. <i>722</i>.<p><b>Étym</b>. θερμός.`

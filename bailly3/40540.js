@@ -1,0 +1,1 @@
+lar[40540]=`<b>ἐρι·ώπης, ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. aux grands yeux, MAX. <i>π. κατ. 32, 545</i>.<p><b>Étym</b>. ἐρι-, ὤψ.`

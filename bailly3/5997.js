@@ -1,0 +1,1 @@
+lar[5997]=`<b>ου</b>, <i>acc</i>. <b>-ην (ὁ)</b> Ampharès, <i>h</i>. PLUT. <i>Agis 18, 19</i>.`

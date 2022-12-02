@@ -1,0 +1,1 @@
+lar[65644]=`<i>ou</i> <b>μίγμα, ατος (τὸ) :<br>   I</b> mélange, ARSTT. <i>G.A. 1, 18</i>.<br><b>   II</b> <i>particul.</i> :<br><b>      1</b> mixture médicale, remède formé de divers ingrédients, PLUT. <i>M. 80a.</i><br><b>      2</b> mélange de couleurs, DH. <i>Is. 4</i>.<p><b>Étym</b>. μίγνυμι.`

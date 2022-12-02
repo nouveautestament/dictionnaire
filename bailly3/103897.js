@@ -1,0 +1,1 @@
+lar[103897]=`<b>ὑπο·στολίζω</b>, laisser tomber, baisser (un voile, <i>etc</i>.) LYR. <i>fr. adesp. 132 Bgk</i>.`

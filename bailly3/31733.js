@@ -1,0 +1,1 @@
+lar[31733]=`<b>ἔκ·νομος, ος, ον :<br>      1</b> qui est hors la loi, ESCHL. <i>Eum. 92</i>.<br><b>      2</b> illégal, irrégulier, extraordinaire, ORPH. <i>Arg. 59 ; d’où</i> monstrueux, DS. <i>14, 112</i> ; PHIL. <i>2, 167</i>.<p><b>Étym</b>. ἐκ, νόμος.`

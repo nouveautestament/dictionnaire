@@ -1,0 +1,1 @@
+lar[93903]=`<font color="purple">[ῡ]</font> <i>adv</i>., de Symè, IL. <i>2, 671</i> ; ARSTT. <i>Rhet. 3, 12</i> ; Q. SM. <i>11, 61</i>.<p><b>Étym</b>. Σύμη.`

@@ -1,0 +1,1 @@
+lar[39437]=`<b>Ἐπί·τιμος, ου (ὁ)</b> <font color="purple">[τῑ]</font> Épitimos, <i>h</i>. DÉM. <i>1489</i> ; PLUT. <i>Per. 36</i>.`

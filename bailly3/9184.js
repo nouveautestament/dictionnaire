@@ -1,0 +1,1 @@
+lar[9184]=`<b>ἀ·νόημα, ατος (τὸ)</b> trait de sottise, STOB. <i>Ecl. 2, 194</i>.<p><b>Étym</b>. ἀ, νοέω.`

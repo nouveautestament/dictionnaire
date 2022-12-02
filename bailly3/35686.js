@@ -1,0 +1,1 @@
+lar[35686]=`<b>εως (ἡ)</b> action d’attacher à, JAMBL. <i>Nicom. ar. p. 151d</i>.<p><b>Étym</b>. ἐξάπτω¹.`

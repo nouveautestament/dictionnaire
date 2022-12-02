@@ -1,0 +1,1 @@
+lar[75531]=`<b>οῦ (ὁ)</b> objet d’admiration, SYMM. <i>Jes. 9, 6</i>.<p><b>Étym</b>. παραδοξάζω.`

@@ -1,0 +1,1 @@
+lar[106715]=`<b>φορολογέω-ῶ</b>, lever une taxe <i>ou</i> des impôts sur, <i>acc</i>. POL. <i>1, 8, 1</i> ; DS. <i>5, 32</i> ; STR. <i>116</i> ; PLUT. <i>Syll. 24 ; au pass</i>. être soumis à un tribut, DS. <i>19, 94</i>.<p><b>Étym</b>. φορολόγος.`

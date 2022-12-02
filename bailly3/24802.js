@@ -1,0 +1,1 @@
+lar[24802]=`<b>οῦ (ὁ)</b> celui qui transporte (des lettres), messager, SYN. <i>Ep. 8, 1345b Migne, etc</i>.<p><b>Étym</b>. διακομίζω.`

@@ -1,0 +1,1 @@
+lar[84034]=`être président ; <i>à Athènes,</i> être proèdre, ESCHN. <i>5, 21</i> ; DÉM. <i>596, 3</i>.<p><b>Étym</b>. πρόεδρος.`

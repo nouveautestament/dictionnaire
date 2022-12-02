@@ -1,0 +1,1 @@
+lar[23703]=`<b>δεκά·σπορος χρόνος (ὁ)</b> laps de temps de dix semailles, <i>càd</i>. de dix années, EUR. <i>Tr. 20</i>.<p><b>Étym</b>. δ. σπείρω.`

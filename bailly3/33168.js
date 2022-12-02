@@ -1,0 +1,1 @@
+lar[33168]=`<b>ἔμ·βρυον, ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> tout être nouveau-né, <i>particul</i>. agneau nouveau-né, OD. <i>9, 245, 309, 342</i>.<br><b>      2</b> embryon, fœtus humain, LUC. <i>V. auct. 26</i> ; fœtus d’animal, ESCHL. <i>Eum. 945</i> ; ARSTT. <i>H.A. 6, 10, 3 ; etc</i>.<p><b>Étym</b>. <i>neutre de</i> ἔμβρυος¹.`

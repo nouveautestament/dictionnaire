@@ -1,0 +1,1 @@
+lar[18633]=`<b>ου (ὁ)</b> Apsos, <i>fl. d’Illyrie,</i> PLUT. DC.`

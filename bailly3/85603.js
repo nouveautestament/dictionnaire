@@ -1,0 +1,1 @@
+lar[85603]=`<b>προσ·εξαιρέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -εξαιρήσω, <i>ao.2</i> -εξεῖλον, <i>etc</i>.)</font> détruire en outre, <i>acc</i>. LIB. <i>2, 193</i>.<br><b><i>Moy.</i></b> choisir en outre pour soi, <i>acc</i>. HDT. <i>3, 150</i>.`

@@ -1,0 +1,1 @@
+lar[71272]=`<b>ή, όν</b>, d’Olympie, HDT. <i>7, 172</i> ; PLUT. <i>Æmil. 13, etc</i>.<p>➳ <i>Ion</i>. Οὐλυμπικός, HDT. <i>l. c</i>.<p><b>Étym</b>. Ὀλυμπία.`

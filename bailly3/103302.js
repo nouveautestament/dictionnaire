@@ -1,0 +1,1 @@
+lar[103302]=`<b>ὑπο·ΐσχομαι</b> (<i>seul. prés. 3 sg</i>.) recueillir, recevoir, A.RH. <i>4, 473, etc</i>.<p><b>Étym</b>. ὑ. ἴσχω.`

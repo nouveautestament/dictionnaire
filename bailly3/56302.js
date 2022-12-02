@@ -1,0 +1,1 @@
+lar[56302]=`<b>ητος (ἡ)</b> inflammation des yeux, HPC. <i>502</i>.<p><b>Étym</b>. κνιπός.`

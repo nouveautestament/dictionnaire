@@ -1,0 +1,1 @@
+lar[30455]=`<b>ου (ὁ)</b> <i>c</i>. ἴλιγγος :<br><b>      1</b> tourbillon, A.RH. <i>4, 189</i> ; M. RUBR. <i>40</i>.<br><b>      2</b> colique, NIC. <i>Al. 609</i>.`

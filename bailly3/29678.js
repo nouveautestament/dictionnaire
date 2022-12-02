@@ -1,0 +1,1 @@
+lar[29678]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> incliné, SOR. <i>Obst. p. 163 Erm</i>.<p><b>Étym</b>. ἐγκλίνω.`

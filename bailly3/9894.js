@@ -1,0 +1,1 @@
+lar[9894]=`<b>ἀντι·θέω :<br>      1</b> lutter à la course avec, <i>dat</i>. HDT. <i>5, 22</i>.<br><b>      2</b> courir à l’encontre, ANTH. <i>9, 822</i>.`

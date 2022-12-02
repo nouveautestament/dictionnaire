@@ -1,0 +1,1 @@
+lar[57906]=`<b>κριθό·μαντις, εως (ὁ, ἡ)</b> <font color="purple">[ῑθ]</font> devin <i>ou</i> sorcière qui prédit l’avenir au moyen de grains d’orge, CLÉM. <i>10</i>.<p><b>Étym</b>. κριθή, μάντις.`

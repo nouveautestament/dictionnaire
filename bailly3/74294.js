@@ -1,0 +1,1 @@
+lar[74294]=`<b>παιδο·μαθής, ής, ές</b> <font color="purple">[ᾰ]</font> instruit dès l’enfance, GAL. <i>Lex. Hipp.</i> ; τινος, LGN <i>44, 3</i> ; πρός τι, ANTID. (ATH. <i>240c</i>) ; περί τι, POL. <i>3, 71, 6,</i> sur qqe ch.<p><b>Étym</b>. π. μανθάνω.`

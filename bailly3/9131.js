@@ -1,0 +1,1 @@
+lar[9131]=`<b>ἀνισό·χρονος, ος, ον</b> <font color="purple">[ᾰῐ]</font> de temps inégal, de durée inégale, HÉRODOTUS (ORIB. <i>2, 166) ; t. de pros. en parl. de l’ïambe et du spondée,</i> A. QUINT. <i>p. 52</i>.<p><b>Étym</b>. ἄν. χρόνος.`

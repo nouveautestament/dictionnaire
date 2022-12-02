@@ -1,0 +1,1 @@
+lar[55308]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> de héraut, de crieur public, PLAT. <i>Pol. 260d ;</i> ἡ κηρυκική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 260e</i>, la charge de héraut.<p><b>Étym</b>. κῆρυξ.`

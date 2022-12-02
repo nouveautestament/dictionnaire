@@ -1,0 +1,1 @@
+lar[34605]=`<b>ἐν·ιάχω</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>impf</i>. ἐνίαχον)</font> crier à, crier, NONN. <i>Jo. 6, 14, etc</i>.`

@@ -1,0 +1,1 @@
+lar[10076]=`<b>ἀντι·μεσουρανέω-ῶ</b> <font color="purple">[ρᾰ]</font> être sur le méridien opposé, PLUT. <i>M. 284e ;</i> PTOL. <i>Tetr. 30, 33</i>.`

@@ -1,0 +1,1 @@
+lar[53619]=`<b>ος, ον</b>, enfermé dans : ἐν δεσμῷ, SOPH. <i>Ant. 958,</i> dans un lien.<p><b>Étym</b>. <i>cf</i>. κατάφρακτος.`

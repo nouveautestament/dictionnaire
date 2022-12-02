@@ -1,0 +1,1 @@
+lar[64982]=`<b>ή, όν</b>, propre à diriger dans un autre sens, PLAT. <i>Rsp. 525a</i>.<p><b>Étym</b>. μεταστρέφω.`

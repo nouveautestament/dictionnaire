@@ -1,0 +1,1 @@
+lar[76926]=`<b>ων (οἱ)</b> les Parthes, <i>pple d’Asie,</i> HDT. <i>3, 93 ; au sg</i>. PLUT. <i>Syll. 5, etc</i>.`

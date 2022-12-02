@@ -1,0 +1,1 @@
+lar[104707]=`<b>φαλαγγ·άρχης, ου (ὁ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> commandant du quart d’une phalange, <i>à peu près une brigade,</i> ASCLÉP. <i>2, 10</i>.<br><b>      2</b> commandant d’une section de 64 éléphants, EL. TACT. <i>23</i>.<p><b>Étym</b>. φάλαγξ, ἄρχω.`

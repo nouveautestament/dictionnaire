@@ -1,0 +1,1 @@
+lar[35368]=`<b>ἐξ·ακριβάζω</b> <font color="purple">[ῑ]</font> <i>c</i>. ἐξακριβόω, JOS. <i>A.J. 19, 7, 4</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. SPT. <i>Num. 23, 10 ; Job 28, 3</i>.`

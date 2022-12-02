@@ -1,0 +1,1 @@
+lar[91949]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petite éponge, M. ANT. <i>5, 9</i>.<br><b>      2</b> sorte d’onguent pour les yeux, A. TR. <i>2, 127</i>.<p><b>Étym</b>. σπόγγος.`

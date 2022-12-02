@@ -1,0 +1,1 @@
+lar[632]=`<b>εος-ους (τὸ)</b> courbure, enfoncement, <i>d’où</i> vallée, vallon, IL. <i>20, 490</i> ; OD. <i>4, 337</i> ; HÉS. <i>O. 389</i> ; HDT. <i>6, 74</i> ; EUR. <i>Bacch. 1051</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂enk-, courbure, <i>cf. sscr</i>. ánkas- ; <i>v</i>. ἀγκών.`

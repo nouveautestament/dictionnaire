@@ -1,0 +1,1 @@
+lar[72742]=`<b>ὀρθό·πορος, ου (ὁ)</b> chemin direct, droit chemin, PORPH. <i>V. Plot. p. LXXV, 21 Creuz</i>.<p><b>Étym</b>. ὀ. πόρος.`

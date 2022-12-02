@@ -1,0 +1,1 @@
+lar[63081]=`<b>α, ον</b>, habile à rechercher, ESCHL. <i>Suppl. 920</i>.<p><b>Étym</b>. μαστήρ.`

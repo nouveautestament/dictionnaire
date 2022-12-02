@@ -1,0 +1,1 @@
+lar[1377]=`<b>ἀ·διατύπωτος, ος, ον</b> <font color="purple">[ῠ]</font> non façonné, informe, DS. <i>1, 10</i> ; PHIL. <i>1, 50</i>.<p><b>Étym</b>. ἀ, διατυπόω.`

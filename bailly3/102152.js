@@ -1,0 +1,1 @@
+lar[102152]=`<b>ὑπ·εκτρώγω</b> <font color="darkgreen">(<i>ao.2</i> ὑπεξέτραγον <font color="purple">[ᾰ]</font>)</font> ronger peu à peu, MACH. (ATH. <i>579d dout</i>.).`

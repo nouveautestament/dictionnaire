@@ -1,0 +1,1 @@
+lar[77033]=`<b>ή, όν :<br>      1</b> proverbial, PLUT. <i>M. 636e.</i><br><b>      2</b> <i>subst</i>. ὁ παροιμιακός (<i>s.-e</i>. στίχος) HÉPH. <i>8, 7,</i> vers anapestique, dimètre catalectique, <i>càd</i>. vers anapestique de trois pieds et demi <font color="purple">[⏑⏑ ‒ ⏑⏑ ‒ ⏑⏑ ‒ ‒]</font>.<p><b>Étym</b>. παροιμία.`

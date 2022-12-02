@@ -1,0 +1,1 @@
+lar[109288]=`<b>χρυσο·φάλαρος, ος, ον</b> <font color="purple">[ῡᾰᾰ]</font> aux harnais d’or, caparaçonné d’or, EUR. <i>Tr. 520</i> ; POL. <i>31, 3, 6</i> ; DS. <i>Exc. de Virt. p. 584 Wess</i>.<p><b>Étym</b>. χρ. φάλαρα.`

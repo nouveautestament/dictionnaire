@@ -1,0 +1,1 @@
+lar[82474]=`<b>πολύ·τριπτος, ος, ον :<br>      1</b> tout à fait usé par le frottement, NIC. <i>Th. 104</i>.<br><b>      2</b> très fréquenté, OPP. <i>H. 3, 502</i>.<p><b>Étym</b>. π. τρίβω.`

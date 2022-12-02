@@ -1,0 +1,1 @@
+lar[53712]=`<b>κατά·χαλκος, ος, ον</b>, couvert <i>ou</i> garni d’airain, EUR. <i>Her. 177, etc. ; p. anal</i>. couvert d’écailles, <i>en parl. d’un serpent,</i> EUR. <i>I.T. 1246</i>.<p><b>Étym</b>. κ. χαλκός.`

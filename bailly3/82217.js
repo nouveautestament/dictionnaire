@@ -1,0 +1,1 @@
+lar[82217]=`<b>πολύ·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui a de nombreux enfants, STR. <i>835</i> ; ANTH. <i>8, 161 ; fig. en parl. de Tyr, métropole de nombreuses colonies,</i> ANTH. <i>7, 428</i>.<p><b>Étym</b>. π. παῖς.`

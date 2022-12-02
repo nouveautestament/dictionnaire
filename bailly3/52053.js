@@ -1,0 +1,1 @@
+lar[52053]=`<b>ης (ἡ)</b> courtisane, LYC. <i>131</i>.`

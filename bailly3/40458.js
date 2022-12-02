@@ -1,0 +1,1 @@
+lar[40458]=`<b>ἐρι·λαμπής, ής, ές</b> <font color="purple">[ῐ]</font> très brillant, ORPH. <i>fr. 29</i> ; NAZ. <i>3, 414, 462</i>.<p><b>Étym</b>. ἐρι-, λάμπω.`

@@ -1,0 +1,1 @@
+lar[31213]=`<b>ἐκ·δονέω-ῶ</b> (<i>pl.q.pf. pass. 3 pl. poét</i>. ἐκδεδόνηντο) émouvoir, agiter, ANTH. <i>11, 64</i>.`

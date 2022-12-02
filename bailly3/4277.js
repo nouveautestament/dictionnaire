@@ -1,0 +1,1 @@
+lar[4277]=`<b>ιδος (ὁ)</b> Alexis :<br><b>      1</b> <i>poète comique</i>.<br><b>      2</b> <i>autres,</i> LYS. <i>32, 24 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. ἀλέξω.`

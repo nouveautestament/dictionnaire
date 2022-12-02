@@ -1,0 +1,1 @@
+lar[98353]=`<b>τερατόω-ῶ</b> <font color="purple">[ᾰ]</font> <i>au moy</i>. contempler comme un prodige, TIMON (DL. <i>4, 42).</i><p><b>Étym</b>. τέρας.`

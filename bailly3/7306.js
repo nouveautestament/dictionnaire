@@ -1,0 +1,1 @@
+lar[7306]=`<b>ἀναξιο·παθέω-ῶ</b> <font color="purple">[πᾰ]</font> s’indigner d’un traitement injuste, STR. <i>361</i> ; DH. <i>4, 11</i>.<p><b>Étym</b>. ἀνάξιος, πάθος.`

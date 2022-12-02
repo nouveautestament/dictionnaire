@@ -1,0 +1,1 @@
+lar[22813]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> fonction de γυναικονόμος, ARSTT. <i>Pol. 6, 8, 22</i>.`

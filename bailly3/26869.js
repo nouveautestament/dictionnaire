@@ -1,0 +1,1 @@
+lar[26869]=`<b>ατος (τὸ) :<br>      1</b> conduit creusé à travers, canal, THC. <i>4, 109</i> ; DS. <i>20, 94</i>.<br><b>      2</b> action de creuser à travers, SPT. <i>Ex. 22, 2 ; Jer. 2, 34</i>.<p><b>Étym</b>. διορύσσω.`

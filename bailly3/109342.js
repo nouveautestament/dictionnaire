@@ -1,0 +1,1 @@
+lar[109342]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> χρώς, CRAT. <i>et</i> CRATÈS. (<i>Com. fr. 2, 183, 248</i>).`

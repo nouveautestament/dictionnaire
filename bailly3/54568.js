@@ -1,0 +1,1 @@
+lar[54568]=`<b>ου</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. descendant de Cécrops, <i>càd</i>. Athénien, AR. <i>Eq. 1055 ; d’ord. au plur</i>. οἱ Κεκροπίδαι, HDT. <i>8, 44</i> ; EUR. <i>Suppl. 713,</i> les Athéniens.<p>➳ <i>Voc. sg</i>. -ίδη, AR. <i>l. c</i>.<p><b>Étym</b>. Κέκροψ.`

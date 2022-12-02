@@ -1,0 +1,1 @@
+lar[91419]=`<b>ή, όν</b>, railleur, moqueur, PLUT. <i>Luc. 27</i> ; LUC. <i>Dem. enc. 33</i>.<p><b>Étym</b>. σκώπτης.`

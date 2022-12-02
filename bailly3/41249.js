@@ -1,0 +1,1 @@
+lar[41249]=`<b>ος, ον</b>, lié d’amitié, <i>en mauv. part,</i> ANTH. <i>12, 247</i>.<p><b>Étym</b>. ἑταῖρος.`

@@ -1,0 +1,1 @@
+lar[39723]=`<b>ἐπι·χροά, ᾶς (ἡ)</b> couleur appliquée, teinture, ATH. <i>42e</i>.`

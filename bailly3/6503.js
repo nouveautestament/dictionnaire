@@ -1,0 +1,1 @@
+lar[6503]=`<b>ἀνα·βάδισις, εως (ἡ)</b> <font color="purple">[βᾰῐσ]</font> action de marcher en arrière, recul, ANTYLL. (ORIB. <i>4, 513 B.-Dar</i>.).<p><b>Étym</b>. ἀ. βαδίζω.`

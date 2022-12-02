@@ -1,0 +1,1 @@
+lar[72556]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec penchant à la colère, avec emportement, DÉM. <i>583, 12</i> ; ARSTT. <i>Rhet. 2, 2</i> ; PAUS. <i>8, 25, 5</i>.<p><b>Étym</b>. ὀργίλος.`

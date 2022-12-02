@@ -1,0 +1,1 @@
+lar[28726]=`<b>ας (ἡ)</b> <font color="purple">[ῠρᾱ]</font> vue faible, RUF. (ORIB. <i>2, 95 B.-Dar</i>.).<p><b>Étym</b>. δυσόρατος.`

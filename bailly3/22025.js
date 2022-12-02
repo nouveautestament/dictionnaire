@@ -1,0 +1,1 @@
+lar[22025]=`<b>ωνος (ὁ)</b> Giskôn (Giscon), <i>Carthaginois,</i> PLUT. <i>Fab. 15, au voc</i>. Γίσκων.<p><b>Étym</b>. <i>Cf</i>. Γέσκων.`

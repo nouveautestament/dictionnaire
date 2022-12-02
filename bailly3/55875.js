@@ -1,0 +1,1 @@
+lar[55875]=`<b>οῦς (ἡ)</b> Kleitô, <i>f</i>. PLAT. <i>Criti. 113d, 116c, etc</i>.<p><b>Étym</b>. κλειτός.`

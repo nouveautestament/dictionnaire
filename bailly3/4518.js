@@ -1,0 +1,1 @@
+lar[4518]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἡλιόκαυστος.`

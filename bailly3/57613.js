@@ -1,0 +1,1 @@
+lar[57613]=`<b>κραταί·πεδος, ος, ον</b> <font color="purple">[ᾰ]</font> au sol ferme, OD. <i>23, 46</i>.<p><b>Étym</b>. κραταιός, πέδον.`

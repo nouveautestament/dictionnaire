@@ -1,0 +1,1 @@
+lar[58091]=`<b>οῦ (ὁ)</b> bruit de choses qui s’entrechoquent, ESCHL. <i>Sept. 561</i>.<p><b>Étym</b>. κροτέω.`

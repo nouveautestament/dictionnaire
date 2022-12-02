@@ -1,0 +1,1 @@
+lar[73545]=`<b>ου (ὁ)</b> Ouliadès, <i>h</i>. PLUT. <i>Arist. 23</i>.`

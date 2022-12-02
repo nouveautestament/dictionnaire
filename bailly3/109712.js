@@ -1,0 +1,1 @@
+lar[109712]=`<b>ψευδο·νύμφευτος, ος, ον</b>, qui est un mariage simulé, EUR. <i>Hel. 889</i>.<p><b>Étym</b>. ψ. νυμφεύω.`

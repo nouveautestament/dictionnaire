@@ -1,0 +1,1 @@
+lar[42079]=`<b>ας (ἡ) :<br>      1</b> vie heureuse, ARSTT. <i>Nic. 1, 8, 4</i>.<br><b>      2</b> vie honnête <i>ou</i> vertueuse, HIÉROCL. (PHOT. <i>Bibl. p. 463, 18).</i><p><b>Étym</b>. εὔζωος.`

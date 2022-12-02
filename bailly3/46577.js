@@ -1,0 +1,1 @@
+lar[46577]=`<b>α, ον</b>, qui rend la justice, PD. <i>O. 1, 18</i>.<p><b>Étym</b>. θεμιστεύω.`

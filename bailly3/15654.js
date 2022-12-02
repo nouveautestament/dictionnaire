@@ -1,0 +1,1 @@
+lar[15654]=`<b>ἀρχι·στράτηγος, ου (ὁ)</b> <font color="purple">[ᾰτ]</font> général en chef, SPT. <i>Jos. 5, 15, etc.</i> ; JOS. <i>A.J. 6, 11, 9</i>.<p><b>Étym</b>. ἀ. στρατηγός.`

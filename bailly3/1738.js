@@ -1,0 +1,1 @@
+lar[1738]=`<b>όος-οῦς (ἡ)</b> l’Ouragan, l’Impétueuse, <i>ép. d’une Harpyie,</i> HÉS. <i>Th. 267</i>.<p><b>Étym</b>. ἄελλα.`

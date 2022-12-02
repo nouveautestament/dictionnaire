@@ -1,0 +1,1 @@
+lar[24152]=`<b>ου (ὁ)</b> Dèlios, <i>h</i>. PLUT. <i>Adv. Col. 32</i>.`

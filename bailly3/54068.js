@@ -1,0 +1,1 @@
+lar[54068]=`<b>κατ·ιλύω</b> <font color="purple">[ῑ]</font> couvrir de fange, XÉN. <i>Œc. 17, 13</i>.`

@@ -1,0 +1,1 @@
+lar[50197]=`<b>ος, ον</b> <font color="purple">[ᾰν]</font> sec, desséché, IL. <i>21, 364</i> ; OD. <i>18, 308</i> ; HH. <i>Merc. 112</i> ; LYC. <i>1430</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

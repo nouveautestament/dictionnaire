@@ -1,0 +1,1 @@
+lar[67654]=`garnir d’éclisses, ORIB. <i>p. 83 Mai</i>.<p><b>Étym</b>. νάρθηξ.`

@@ -1,0 +1,1 @@
+lar[49643]=`<b>ἰσο·θεόω-εῶ</b> <font color="purple">[ῑ̆]</font> assimiler à un dieu, diviniser, ES. <i>160 Halm</i>.<p><b>Étym</b>. ἰσόθεος.`

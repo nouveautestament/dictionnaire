@@ -1,0 +1,1 @@
+lar[44014]=`<b>ἐφηβάω-ῶ</b>, entrer dans l’adolescence, ESCHL. <i>Sept. 665</i> ; EUR. <i>fr. 563</i> ; XÉN. <i>Cyr. 6, 1, 12</i>.<p>➳ <i>Ion</i>. ἐπ. HDT. <i>6, 83</i>.<p><b>Étym</b>. ἔφηβος.`

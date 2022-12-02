@@ -1,0 +1,1 @@
+lar[4078]=`<b>υγγος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> palpitation, <i>d’où</i> oppression, angoisse, NIC. <i>Al. 18</i>.`

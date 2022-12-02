@@ -1,0 +1,1 @@
+lar[82535]=`<b>πολυ·φρόντιστος, ος, ον</b>, très circonspect, très prudent, ANTH. <i>7, 84</i>.<p><b>Étym</b>. π. φροντίζω.`

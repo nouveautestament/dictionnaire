@@ -1,0 +1,1 @@
+lar[90176]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> qui travaille le fer, serrurier, forgeron, taillandier, TH. <i>H.P. 4, 8, 5</i>.<p><b>Étym</b>. σίδηρος, ἔργον.`

@@ -1,0 +1,1 @@
+lar[60919]=`<font color="purple">[ῐᾰ]</font><br><b>      1</b> brûler de l’encens, <i>d’où</i> parfumer d’encens, STR. <i>784</i>.<br><b>      2</b> ressembler à de l’encens, DIOSC. <i>3, 98</i>.<p><b>Étym</b>. λιβανωτός.`

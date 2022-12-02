@@ -1,0 +1,1 @@
+lar[101457]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> qui annonce la pluie, TH. <i>Sign. 1, 17</i>.<p><b>Étym</b>. ὕδωρ.`

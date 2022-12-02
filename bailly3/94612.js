@@ -1,0 +1,1 @@
+lar[94612]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>fém. c</i>. συναιχμάλωτος CON. (PHOT. <i>Bibl. 133, 8</i>).`

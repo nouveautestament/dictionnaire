@@ -1,0 +1,1 @@
+lar[16220]=`<b>ἀ·στήρικτος, ος, ον</b>, non soutenu, sans appui, ANTH. <i>6, 203</i> ; LGN NT. NONN.<p><b>Étym</b>. ἀ, στηρίζω.`

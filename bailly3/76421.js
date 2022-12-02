@@ -1,0 +1,1 @@
+lar[76421]=`<b>παρα·φράσσω</b>, <i>att</i>. <b>-φράττω</b>, barricader, barrer, obstruer, <i>acc</i>. HDN <i>4, 1 ; au pass</i>. POL. <i>10, 46, 3, etc</i>.`

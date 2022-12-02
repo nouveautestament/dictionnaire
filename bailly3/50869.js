@@ -1,0 +1,1 @@
+lar[50869]=`<b>κακο·σχήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, <i>seul. sup. adv</i>. κακοσχημονέστατα, PLAT. <i>Leg. 728b</i>, dans la condition la plus vile.<p><b>Étym</b>. κ. σχῆμα.`

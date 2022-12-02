@@ -1,0 +1,1 @@
+lar[93905]=`<b>συμ·μαίνομαι</b>, être fou avec, <i>dat</i>. LUC. <i>Salt. 83</i> ; JOS. <i>Macc. 10, 13 ; abs</i>. MÉN. (<i>Com. fr. 4, 196</i>).`

@@ -1,0 +1,1 @@
+lar[36679]=`<b>ἐπ·ανειπεῖν</b>, offrir en outre publiquement, THC. <i>6, 60</i>.`

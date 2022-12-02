@@ -1,0 +1,1 @@
+lar[65369]=`<b>μηλινο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> de couleur vert pomme, TH. <i>H.P. 6, 2, 8</i>.<p><b>Étym</b>. μήλινος, εἶδος.`

@@ -1,0 +1,1 @@
+lar[31984]=`<b>ος, ον</b>, qui est porté à la connaissance de, connu, THC. <i>3, 30 ; 4, 70 ; 8, 42</i> ; PLUT. <i>Cam. 3</i>.<p><b>Étym</b>. ἐκπυνθάνομαι.`

@@ -1,0 +1,1 @@
+lar[5370]=`<b>ἀμβολι·εργός, ός, όν</b>, qui remet <i>ou</i> ajourne la tâche, HÉS. <i>O. 441 ; avec le gén</i>. PLUT. <i>M. 548d, etc</i>.<p><b>Étym</b>. ἀμβολή, ἔργον.`

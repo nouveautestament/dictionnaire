@@ -1,0 +1,1 @@
+lar[102848]=`<b>ὑπερ·υμνέω-ῶ</b>, vanter outre mesure, SPT. <i>Cant. tr. puer. 3, 32</i>.`

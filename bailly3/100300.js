@@ -1,0 +1,1 @@
+lar[100300]=`<b>τρί·μορος, ος, ον</b> <font color="purple">[ῐ]</font> partagé en trois : δισσαῖς ἐν τριμόροισι (<i>s.-e</i>. ἡμέραις) ORPH. <i>Arg. 1054,</i> en deux tiers de jour.<p><b>Étym</b>. τρ. μείρομαι.`

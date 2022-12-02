@@ -1,0 +1,1 @@
+lar[104421]=`<b>ῆρος</b>, <i>adj. m.</i> : λᾶας, OPP. <i>H. 4, 421,</i> pierre qui retient du bas (<i>litt</i>. qui jette l’ancre).<p><b>Étym</b>. ὑφορμίζομαι.`

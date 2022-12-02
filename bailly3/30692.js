@@ -1,0 +1,1 @@
+lar[30692]=`<b>εἰσ·αποστέλλω</b> (<i>seul. ao. 3 sg</i>. ἀπέστειλε) envoyer vers : τινί τινα, A. LIB. <i>41</i> ; EUR. <i>Or. arg</i>. envoyer une personne vers une autre.`

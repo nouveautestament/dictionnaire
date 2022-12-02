@@ -1,0 +1,1 @@
+lar[34255]=`<b>ἔν·δρυον, ου (τὸ)</b> cheville de bois au milieu du joug pour attacher les traits, HÉS. <i>O. 467</i>.<p><b>Étym</b>. ἐν, δρῦς.`

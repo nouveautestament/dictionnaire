@@ -1,0 +1,1 @@
+lar[42345]=`<b>ου</b>, <i>adj. m</i>. qu’on brandit, qu’on célèbre aux cris de évoé ! SOPH. <i>Ant. 964</i> ; EUR. <i>Bacch. 238 ; etc. particul. ép. de Bacchus, d’où</i> ὁ Εὔϊος, SOPH. <i>O.R. 211</i> ; EUR. <i>Bacch. 157, etc</i>. le dieu Bacchus.<p>➳ <i>Voc</i>. Εὔϊε, ANTH. <i>6, 87 ; gén. épq</i>. εὐΐεω, ANTH. <i>6, 320</i>.<p><b>Étym</b>. εὐαί.`

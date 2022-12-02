@@ -1,0 +1,1 @@
+lar[8845]=`<b>ἀνθ·ιππασία, ας (ἡ)</b> manœuvre <i>ou</i> charge de deux corps de cavalerie l’un contre l’autre, XÉN. <i>Hipp. 1, 20</i>.`

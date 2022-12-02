@@ -1,0 +1,1 @@
+lar[78053]=`<b>πεντά·φυλλος, ος, ον</b> <font color="purple">[ᾰ]</font> à cinq feuilles, TH. <i>H.P. 6, 6, 4</i>.<p><b>Étym</b>. π. φύλλον.`

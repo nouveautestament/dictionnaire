@@ -1,0 +1,1 @@
+lar[55386]=`<b>οῦ (ἡ)</b> <font color="purple">[ῑ]</font> coffre, caisse, boîte, AR. <i>Eq. 996, Vesp. 1056 ; en parl. de l’arche (de Noé)</i> SPT. <i>Gen. 6, 14 ; (d’alliance)</i> NT. <i>Hebr. 9, 4</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

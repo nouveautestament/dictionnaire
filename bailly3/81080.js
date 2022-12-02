@@ -1,0 +1,1 @@
+lar[81080]=`<b>άδος (ἡ)</b> <font color="purple">[ῐᾰδ]</font> entre-deux des cuisses, HPC. <i>Art. 822, etc</i>.<p><b>Étym</b>. <i>cf</i>. πλίσσομαι.`

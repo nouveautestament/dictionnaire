@@ -1,0 +1,1 @@
+lar[59968]=`<b>ου (ὁ)</b> Lattamyas, <i>Thessalien,</i> PLUT. <i>Cam. 19, M. 866f</i>.`

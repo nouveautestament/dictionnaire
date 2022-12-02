@@ -1,0 +1,1 @@
+lar[103553]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en forme de commentaire, GAL. <i>12, 380</i>.`

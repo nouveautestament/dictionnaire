@@ -1,0 +1,1 @@
+lar[32947]=`<b>Ἑλληνο·κοπέω-ῶ :<br>      1</b> chercher à capter les Grecs, POL. <i>26, 5, 1</i>.<br><b>      2</b> affecter des sentiments grecs, POL. <i>20, 10, 7</i>.<p><b>Étym</b>. Ἕλλην, κόπτω.`

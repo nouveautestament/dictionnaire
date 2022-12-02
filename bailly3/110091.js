@@ -1,0 +1,1 @@
+lar[110091]=`<b>α, ον</b>, ancien, antique, PARTH. (E. BYZ.).<p><b>Étym</b>. Ὤγενος.`

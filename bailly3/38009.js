@@ -1,0 +1,1 @@
+lar[38009]=`<b>ἐπι·κέφαλα</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., la tête en bas, AÉT. <i>1, p. 10, 39</i>.<p><b>Étym</b>. ἐπί, κεφαλή.`

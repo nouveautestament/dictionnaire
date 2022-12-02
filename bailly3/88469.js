@@ -1,0 +1,1 @@
+lar[88469]=`<b>ῥηξί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> qui brise l’esprit <i>ou</i> l’intelligence, ANTH. <i>9, 524, 18</i>.<p><b>Étym</b>. ῥήγνυμι, νόος.`

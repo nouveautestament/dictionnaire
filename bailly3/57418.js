@@ -1,0 +1,1 @@
+lar[57418]=`<b>έων (οἱ)</b> habitants de Kourion, HDT. <i>5, 113</i>.<p><b>Étym</b>. Κούριον.`

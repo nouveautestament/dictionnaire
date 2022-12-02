@@ -1,0 +1,1 @@
+lar[40433]=`<b>ης, ες</b> <font color="purple">[ῑᾰ]</font> semblable à un perroquet, qui bavarde sans cesse, EPICH. (ATH. <i>318f</i>).<p><b>Étym</b>. ἐρίθακος, -ωδης.`

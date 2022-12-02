@@ -1,0 +1,1 @@
+lar[37489]=`<font color="purple">[μᾰ]</font> faire une épigramme sur, <i>acc</i>. DL. <i>p. 143</i>.<p><b>Étym</b>. ἐπίγραμμα.`

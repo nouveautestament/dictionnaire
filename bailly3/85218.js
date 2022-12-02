@@ -1,0 +1,1 @@
+lar[85218]=`<i>adv</i>., avec des dispositions hostiles, DS. <i>14, 1</i>.<p><b>Étym</b>. προσάντης.`

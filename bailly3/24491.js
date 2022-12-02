@@ -1,0 +1,1 @@
+lar[24491]=`<b>διά·γλυφος, ος, ον</b> <font color="purple">[ῠ]</font> taillé en creux, ciselé, NYSS. <i>1, 409d, 524b, etc.</i> ; NAZ. <i>3, 1100a Migne</i>.<p><b>Étym</b>. διαγλύφω.`

@@ -1,0 +1,1 @@
+lar[56583]=`<b>ου (ὁ)</b> chant de la danse κολαβρισμός, ATH. <i>164e, 697c</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

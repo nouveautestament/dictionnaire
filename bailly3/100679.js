@@ -1,0 +1,1 @@
+lar[100679]=`<i>att</i>. <b>Τροζήνιος, α, ον</b>, de Trœzène, THC. <i>4, 45, 118</i> ; EUR. <i>Hipp. 12, etc.</i> ; οἱ Τροιζήνιοι, HDT. <i>7, 99, etc.</i> ; THC. <i>1, 27, etc</i>. les habitants de Trœzène.<p>➳ <i>Dans les inscr. att. seul</i>. Τροζήνιος, CIA. <i>2, add. 834c, 57 (317/307 av. J.-C.) etc. ; v. Meisterh. p. 19, 14</i>.<p><b>Étym</b>. Τροιζήν.`

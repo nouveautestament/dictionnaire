@@ -1,0 +1,1 @@
+lar[15134]=`<i>adv</i>., virilement, courageusement, SPT. <i>2Macc. 10, 35</i>.<p><b>Étym</b>. ἄρρην, -ωδης.`

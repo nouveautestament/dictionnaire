@@ -1,0 +1,1 @@
+lar[51879]=`<b>καρπογονέω-ῶ</b>, produire des fruits, TH. <i>C.P. 1, 11, 7, etc.</i> ; PLUT. <i>M. 880a</i>.<p><b>Étym</b>. καρπογόνος.`

@@ -1,0 +1,1 @@
+lar[38346]=`<b>ος, ον</b>, qu’on donne pour se racheter : τὰ ἐπίλυτρα, STR. <i>496,</i> la rançon.<p><b>Étym</b>. ἐπιλύω.`

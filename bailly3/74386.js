@@ -1,0 +1,1 @@
+lar[74386]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. παιώνιος, SEXT. <i>M. 1, 51</i> ; ANTH. <i>14, 55</i>.`

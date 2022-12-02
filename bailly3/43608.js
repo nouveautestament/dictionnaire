@@ -1,0 +1,1 @@
+lar[43608]=`<b>ας (ἡ)</b> forte tension, <i>d’où</i> :<br><b>      1</b> souplesse élastique, ressort, PHIL. BYZ.<br><b>      2</b> effort soutenu, vigueur, HPC. <i>Ep. 1277</i> ; DS. <i>5, 34 ; fig</i>. DH. <i>Vet. script. cens. 2, 3</i> ; PLUT. <i>M. 156c</i>.<p><b>Étym</b>. εὔτονος.`

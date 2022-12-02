@@ -1,0 +1,1 @@
+lar[41384]=`<b>ητος (ἡ) :<br>      1</b> différence de genre <i>ou</i> essentielle, <i>p. opp. à</i> διαφορά, différence spécifique, ARSTT. <i>Metaph. 9, 8, 3</i> ; PLUT. <i>M. 1013a.</i><br><b>      2</b> défaut d’unité, désunion, PLUT. <i>Num. 17</i>.<p><b>Étym</b>. ἕτερος.`

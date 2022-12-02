@@ -1,0 +1,1 @@
+lar[106762]=`<i>adv</i>., à la lumière, au jour, <i>avec mouv</i>. IL. <i>2, 309 ; 19, 103, etc</i>.<p><b>Étym</b>. φόως, -δε.`

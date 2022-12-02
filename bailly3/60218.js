@@ -1,0 +1,1 @@
+lar[60218]=`<b>εως (ἡ)</b> manque, omission, DYSC. <i>Synt. 78, 9</i>.<p><b>Étym</b>. λείπω.`

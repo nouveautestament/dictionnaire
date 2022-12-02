@@ -1,0 +1,1 @@
+lar[61030]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font><br><b>      1</b> fait de pierre, PD. <i>I. 1, 25, etc.</i> ; HDT. <i>2, 141</i> ; THC. <i>5, 47</i> ; LUC. <i>Tim. 43, etc.</i> ; τὰ λίθινα, XÉN. <i>Lac. 3, 5,</i> statues de marbre.<br><b>      2</b> λ. θάνατος, PD. <i>P. 10, 75,</i> mort d’une personne changée en pierre.<p><b>Étym</b>. λίθος.`

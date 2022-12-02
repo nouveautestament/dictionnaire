@@ -1,0 +1,1 @@
+lar[24883]=`<b>δια·κυκάω-ῶ</b> <font color="purple">[ῠ]</font> (<i>part. prés</i>.) brouiller, confondre, DÉM. <i>263, 19</i>.`

@@ -1,0 +1,1 @@
+lar[16719]=`<b>ἀ·τείχιστος, ος, ον :<br>      1</b> non muni de rempart, THC. <i>1, 2 ; 8, 62</i> ; XÉN. POL. <i>etc.</i><br><b>      2</b> non bloqué au moyen d’un mur, THC. <i>1, 64</i>.<p><b>Étym</b>. ἀ, τειχίζω.`

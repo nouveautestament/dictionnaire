@@ -1,0 +1,1 @@
+lar[51486]=`<b>α</b> <i>ou</i> <b>ος, ον</b>, de Kanastron, HDT. <i>7, 123</i> ; A.RH. <i>1, 598 ; subst</i>. τὸ Καναστραῖον, THC. <i>4, 110,</i> le promontoire de Kanastron.<p>➳ <i>Fém</i>. -ος, HDT. <i>l. c.</i> ; ANTH. <i>11, 563</i>.<p><b>Étym</b>. Κάναστρον.`

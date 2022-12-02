@@ -1,0 +1,1 @@
+lar[26595]=`<b>δικτυβολέω-ῶ</b> <font color="purple">[ῠ]</font> jeter le filet, ANTH. <i>6, 186</i>.<p><b>Étym</b>. δικτυβόλος.`

@@ -1,0 +1,1 @@
+lar[27953]=`<b>δροσο·ειδῶς</b>, <i>adv</i>., comme de la rosée, GAL. <i>15, 232</i> ; BAS. <i>1, 173 Migne</i> ; NYSS. <i>1, 312 Migne</i>.<p><b>Étym</b>. δρόσος, εἶδος.`

@@ -1,0 +1,1 @@
+lar[83525]=`<b>προ·αλγέω-ῶ</b>, souffrir auparavant, HPC. <i>Prorrh. 69</i> ; ARSTT. <i>H.A. 7, 9, 1</i>.`

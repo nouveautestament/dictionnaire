@@ -1,0 +1,1 @@
+lar[25224]=`<b>δια·πειράζω :<br>      1</b> éprouver, faire l’épreuve de (qqn) <i>acc</i>. SPT. <i>3Macc. 5, 40 (prés. 2 sg</i>. -άζεις).<br><b>      2</b> tenter de, <i>inf</i>. JOS. <i>A.J. 15, 4, 2</i>.<p><b>Étym</b>. <i>impf. 3 sg</i>. διεπείραζεν.`

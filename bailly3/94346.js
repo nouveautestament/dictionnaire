@@ -1,0 +1,1 @@
+lar[94346]=`<b>συμ·πρεσβεύω</b>, être ambassadeur ensemble <i>ou</i> avec, DÉM. <i>400, 11</i> ; ESCHN. <i>50 fin</i>.<br><b><i>Moy.</i></b> envoyer à la fois comme ambassadeur, THC. <i>3, 92 ; 5, 44</i>.`

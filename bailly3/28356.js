@@ -1,0 +1,1 @@
+lar[28356]=`<b>δυσ·έκπλοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ]</font> d’où la sortie par eau est difficile, POL. <i>34, 2, 5 (dat. pl</i>. -πλοις).<p><b>Étym</b>. δ. ἔκπλοος.`

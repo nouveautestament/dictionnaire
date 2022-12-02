@@ -1,0 +1,1 @@
+lar[75834]=`<b>παρα·λεαίνω</b>, polir tout au long, CLÉARQ. (ATH. <i>522d</i>).`

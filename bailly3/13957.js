@@ -1,0 +1,1 @@
+lar[13957]=`<i>adv</i>., sans examen, sans réflexion, ANTIPH. (ATH. <i>238e</i>).`

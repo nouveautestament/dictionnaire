@@ -1,0 +1,1 @@
+lar[73671]=`<b>οὐραν·όροφος, ος, ον</b> <font color="purple">[ᾰ]</font> couvert d’un dôme, d’un pavillon, ATH. <i>48f</i>.<p><b>Étym</b>. οὐρ. ἐρέφω.`

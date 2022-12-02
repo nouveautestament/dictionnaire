@@ -1,0 +1,1 @@
+lar[48146]=`<b>θωρακο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> fabricant de cuirasses, XÉN. <i>Mem. 3, 10, 9</i>.<p><b>Étym</b>. θ. ποιέω.`

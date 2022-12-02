@@ -1,0 +1,1 @@
+lar[63213]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>dim. de</i> μαχαιρίς, LUC. <i>Pisc. 45</i>.`

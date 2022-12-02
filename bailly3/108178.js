@@ -1,0 +1,1 @@
+lar[108178]=`<b>χειρό·τμητος, ος, ον</b>, coupé par la main, STR. <i>102</i> ; Ps.-HÉRACLITE ÉPH. <i>Ep. 4, 2</i> [<i>noté</i> χειροκμητος <i>par Hercher</i>].`

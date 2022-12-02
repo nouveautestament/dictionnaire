@@ -1,0 +1,1 @@
+lar[3674]=`<b>ἀκρά·χολος, ος, ον</b> <font color="purple">[ᾱχ]</font><br><b>      1</b> emporté, passionné, AR. <i>Eq. 41</i>.<br><b>      2</b> blême, THCR. <i>Idyl. 24, 60</i>.<p>•<i> Sup</i>. -ώτατος, PHÉRÉCR. <i>(Bkk. 475).</i><p><b>Étym</b>. ἄκρος, χολή.`

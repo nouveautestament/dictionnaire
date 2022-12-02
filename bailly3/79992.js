@@ -1,0 +1,1 @@
+lar[79992]=`<b>α, ον</b>, de source, qui coule d’une source <i>ou</i> d’une fontaine, ESCHL. <i>Ag. 901</i> ; EUR. <i>Rhes. 929, etc.</i> ; PLAT. <i>Leg. 845e, etc.</i> ; ARSTT. <i>Meteor. 2, 1, 6</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Alc. 99</i>.`

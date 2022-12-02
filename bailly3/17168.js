@@ -1,0 +1,1 @@
+lar[17168]=`<b>ας (ἡ) :<br>      1</b> rideau, tenture de porte, POL. <i>33, 3</i> ; PLUT. <i>Alex. 49 ; etc. ; part</i>. rideau de théâtre, MÉN. <i>fr. inc. 201 Meineke</i>.<br><b>      2</b> tapis, PLUT. <i>Alex. 40</i>.<p><b>Étym</b>. αὐλή.`

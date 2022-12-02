@@ -1,0 +1,1 @@
+lar[18886]=`<b>ας (ἡ) :<br>      1</b> fête de Bacchus, ESCHL. <i>Ch. 698 ; au plur</i>. EUR. <i>Bacch. 215, 1294</i>.<br><b>      2</b> fureur bachique, <i>d’où</i> transport, <i>en gén</i>. PLAT. <i>Conv. 218b</i>.<p><b>Étym</b>. <i>fém. de</i> βακχεῖος.`

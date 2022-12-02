@@ -1,0 +1,1 @@
+lar[47395]=`<b>έων (οἱ)</b> habitants de Thiba, <i>v. du Pont,</i> PHYLARQ. (PLUT. <i>M. 680b</i>).`

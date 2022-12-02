@@ -1,0 +1,1 @@
+lar[36770]=`<b>ἐπ·αράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="darkgreen">(<i>ao</i>. ἐπήραξα)</font> <font color="purple">[ᾰρ]</font><br><b>      1 <i>tr.</i></b> fermer violemment, PLAT. <i>Prot. 314d ;</i> PLUT. <i>Artax. 29</i>.<br><b>      2 <i>intr.</i></b> se briser contre, SYN. <i>163b</i>.`

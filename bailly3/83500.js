@@ -1,0 +1,1 @@
+lar[83500]=`<b>προ·αθροίζω</b> <font color="purple">[ᾰ]</font> rassembler d’avance, auparavant, GAL. <i>3, 210</i>.`

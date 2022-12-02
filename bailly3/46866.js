@@ -1,0 +1,1 @@
+lar[46866]=`<b>ου (τὸ)</b> <font color="purple">[ρᾰ]</font> <i>dim. de</i> θεραπαινίς PLUT. <i>Ant. 29</i> ; LUC. <i>Pisc. 17, etc</i>.`

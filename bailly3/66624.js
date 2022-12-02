@@ -1,0 +1,1 @@
+lar[66624]=`<b>μονό·σεπτος, ος, ον</b>, honoré comme unique, <i>en parl. de Dieu,</i> NAZ. <i>2, 113c</i>.<p><b>Étym</b>. μ. σέβομαι.`

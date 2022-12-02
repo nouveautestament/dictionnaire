@@ -1,0 +1,1 @@
+lar[90482]=`<b>Σιτ·άλκης, ου (ὁ)</b> Sitalkès, <i>n. de plusieurs rois thraces,</i> HDT. <i>4, 80 ; 7, 137</i> ; THC. <i>2, 29</i> ; AR. <i>Ach. 134, 141, etc</i>.<p>➳ <i>Gén. ion</i>. -εω, HDT. <i>4, 80 ; gén</i>. -ους, AR. <i>l. c. ; acc. dor</i>. Σιτάλκαν, XÉN. <i>An. 6, 1, 6</i>.<p><b>Étym</b>. <i>cf</i>. σιτάλκας.`

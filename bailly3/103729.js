@@ -1,0 +1,1 @@
+lar[103729]=`<b>ὑπο·πρόσθεσις, εως (ἡ)</b> accroissement graduel, GAL. <i>14, 312</i>.`

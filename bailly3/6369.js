@@ -1,0 +1,1 @@
+lar[6369]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire d’Amphissa, THC. <i>3, 101, etc</i>.<p>➳ <i>Nom. pl. att</i>. Ἀμφισσῆς, THC. <i>l. c. ; acc</i>. -έας, ESCHN. <i>3, 128, 221, 237 Baiter-Sauppe</i> ; -εῖς, DÉM. <i>18, 151 Baiter-Sauppe</i>.<p><b>Étym</b>. Ἄμφισσα.`

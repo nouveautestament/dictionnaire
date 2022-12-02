@@ -1,0 +1,1 @@
+lar[74959]=`<b>οῦ (ὁ)</b> joueur de pandore, EUPHOR. (ATH. <i>182e</i>).<p><b>Étym</b>. πανδουρίζω.`

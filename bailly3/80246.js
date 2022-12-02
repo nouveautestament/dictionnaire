@@ -1,0 +1,1 @@
+lar[80246]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> <i>c</i>. πιθηκοειδής, ARSTT. <i>Physiogn. 6, 31</i>.<p><b>Étym</b>. π. -ωδης.`

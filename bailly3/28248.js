@@ -1,0 +1,1 @@
+lar[28248]=`<b>δυσ·αυχής, ής, ές</b> <font color="purple">[ῠ]</font> d’une jactance insupportable, A.RH. <i>3, 976</i>.<p><b>Étym</b>. δ. αὐχέω.`

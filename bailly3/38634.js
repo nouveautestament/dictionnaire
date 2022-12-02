@@ -1,0 +1,1 @@
+lar[38634]=`<i>vb. de</i> ἐπιπάσσω, ANTYLL. (ORIB. <i>2, 70 B.-Dar</i>.).`

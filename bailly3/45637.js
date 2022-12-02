@@ -1,0 +1,1 @@
+lar[45637]=`<b>1</b> <i>1<sup>re</sup> ou 3<sup>e</sup> sg. impf. de</i> εἰμί, être.<br><b>2</b> <i>1<sup>re</sup> sg. impf. de</i> ἠμί.`

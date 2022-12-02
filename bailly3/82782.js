@@ -1,0 +1,1 @@
+lar[82782]=`<b>ων (τὰ)</b> Porthmèies, <i>propr</i>. « le passage », <i>port de Scythie, près du Bosphore Cimmérien,</i> HDT. <i>4, 12, 45</i>.`

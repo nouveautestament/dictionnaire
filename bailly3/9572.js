@@ -1,0 +1,1 @@
+lar[9572]=`<b>ἀντ·εκρέω</b>, s’écouler à son tour, GAL. <i>11, 432</i>.`

@@ -1,0 +1,1 @@
+lar[41587]=`<b>εὐ·ανάσειστος, ος, ον</b>, facile à exciter, PHILOD. <i>De ira Gomperz</i>.<p><b>Étym</b>. εὖ, ἀνασείω.`

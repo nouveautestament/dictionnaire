@@ -1,0 +1,1 @@
+lar[59589]=`<b>ης (ἡ)</b> qui crie, <i>en parl. de la corneille,</i> HÉS. <i>O. 745</i> ; AR. <i>Av. 609, etc. ; d’une chienne,</i> POÈT. (PLAT. <i>Rsp. 607b</i>).<p>➳ <i>Masc. postér</i>. λακέρυζος, ANTH. <i>9, 317</i>.`

@@ -1,0 +1,1 @@
+lar[19657]=`<b>ονος (ὁ) :<br>      1</b> qui va en cadence, danseur, OD. <i>8, 250, 383</i> ; MAN. <i>6, 507</i>.<br><b>      2</b> <i>adj</i>. cadencé, rythmé, NONN. <i>D. 33, 87</i>.<p><b>Étym</b>. <i>cf</i>. βηταρμός.`

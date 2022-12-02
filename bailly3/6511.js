@@ -1,0 +1,1 @@
+lar[6511]=`<b>ἀνα·βαπτίζω :<br>      1</b> plonger de nouveau, PLUT. <i>Pomp. 11</i>.<br><b>      2</b> baptiser de nouveau, NAZ. <i>2, 236 Migne</i>.`

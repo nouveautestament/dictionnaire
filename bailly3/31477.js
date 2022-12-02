@@ -1,0 +1,1 @@
+lar[31477]=`<b>έως (ὁ)</b> instrument pour amputer, GAL. <i>4, 148</i>.<p><b>Étym</b>. ἐκκόπτω.`

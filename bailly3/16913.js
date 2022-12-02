@@ -1,0 +1,1 @@
+lar[16913]=`<b>ου (τὸ)</b> HDT. <i>ou</i> Ἀτραμύττιον, THC. XÉN. Atramytteion <i>ou</i> Atramyttion, <i>v. de Mysie</i>.<p><b>Étym</b>. <i>cf</i>. Ἀδραμύτειον.`

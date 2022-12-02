@@ -1,0 +1,1 @@
+lar[58407]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> prêtresse de Cybèle, NONN. <i>D. 10, 387, etc</i>.<p><b>Étym</b>. Κυβήλη.`

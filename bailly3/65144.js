@@ -1,0 +1,1 @@
+lar[65144]=`<b>μετεωροπολέω-ῶ</b>, s’occuper des choses célestes, PHIL. <i>1, 101</i>.<p><b>Étym</b>. μετεωροπόλος.`

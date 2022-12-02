@@ -1,0 +1,1 @@
+lar[93516]=`<b>συγ·κοσμέω-ῶ :<br>      1</b> disposer <i>ou</i> arranger ensemble, ARSTT. <i>Cæl. 2, 13, 2</i>.<br><b>      2</b> donner de la grâce <i>ou</i> plus de grâce, XÉN. <i>Cyr. 2, 2, 26</i>.<br><b>      3</b> gouverner <i>ou</i> diriger ensemble, M. ANT. <i>7, 48</i>.`

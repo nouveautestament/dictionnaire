@@ -1,0 +1,1 @@
+lar[101679]=`<b>ῶν (αἱ)</b> Hyles, <i>c</i>. Ὕλη <i>en Béotie,</i> MOSCH. <i>3, 88</i>.`

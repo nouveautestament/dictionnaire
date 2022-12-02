@@ -1,0 +1,1 @@
+lar[37400]=`<b>ἐπι·βρομέω-ῶ</b>, gronder, rugir, mugir sur, <i>dat., en parl. de la mer,</i> A.RH. <i>3, 1371 ; d’un lion,</i> OPP. <i>C. 3, 36 ; du cri de certains oiseaux de mer,</i> A.RH. <i>4, 240 ; au pass</i>. ἐπιβρομέονται ἀκουαί, A.RH. <i>4, 908,</i> les oreilles résonnent (du bruit de, <i>etc</i>.).`

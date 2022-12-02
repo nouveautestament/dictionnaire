@@ -1,0 +1,1 @@
+lar[94721]=`<b>συν·ανακρίνω</b> <font color="purple">[ῑ]</font> examiner avec, ARSTT. <i>fr. 407</i>.`

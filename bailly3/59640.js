@@ -1,0 +1,1 @@
+lar[59640]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> babil, bavardage, LUC. <i>Lex. 14</i>.<p><b>Étym</b>. λαλέω.`

@@ -1,0 +1,1 @@
+lar[24892]=`<b>δια·κωθωνίζω</b> (<i>seul. part. prés. pass</i>.) enivrer complètement, NYSS. <i>2, 280b Migne</i>.`

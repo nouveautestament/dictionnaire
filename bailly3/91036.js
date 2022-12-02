@@ -1,0 +1,1 @@
+lar[91036]=`<b>σκληρο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> dur, <i>litt</i>. qui forme une masse dure, XÉNOCR. <i>Al. 16</i>.<p><b>Étym</b>. σκλ. πήγνυμι.`

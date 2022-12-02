@@ -1,0 +1,1 @@
+lar[97673]=`<b>ή, όν</b> <font color="purple">[ᾰῑ]</font> imprégné de saumure, salé <i>ou</i> embaumé, PLUT. <i>M. 685d, 912e</i>.<p><b>Étym</b>. ταριχεύω.`

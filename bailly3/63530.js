@@ -1,0 +1,1 @@
+lar[63530]=`être <i>ou</i> devenir le plus grand, APP. <i>Syr. 58</i>.<p><b>Étym</b>. μέγιστος.`

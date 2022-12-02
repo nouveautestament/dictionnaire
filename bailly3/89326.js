@@ -1,0 +1,1 @@
+lar[89326]=`<b>α, ον</b>, des Santons, <i>pple d’Aquitaine</i> ; τὸ Σαντόνιον, DIOSC. <i>3, 28, litt</i>. boisson des Santons, <i>càd</i>. vermout.`

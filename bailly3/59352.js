@@ -1,0 +1,1 @@
+lar[59352]=`<font color="purple">[α]</font> bavarder d’une manière fatigante, IL. <i>23, 474</i>.<p><b>Étym</b>. λάβρος.`

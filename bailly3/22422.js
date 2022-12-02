@@ -1,0 +1,1 @@
+lar[22422]=`<b>ου (τὸ)</b> assemblage de bois maintenu par des cales (coins <i>ou</i> clefs), mortaise de menuiserie, HÉRON <i>Aut. 271</i>.<p><b>Étym</b>. γομφωτήρ.`

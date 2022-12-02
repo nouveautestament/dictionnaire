@@ -1,0 +1,1 @@
+lar[77704]=`<b>ωνος (ὁ) :<br>   I</b> <i>n. grec,</i> Peisôn :<br><b>      1</b> <i>un des trente tyrans,</i> LYS. <i>12, 6 Baiter-Sauppe</i> ; XÉN. <i>Hell. 2, 3, 2, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Fab. 1</i> ; ANTH. <i>6, 241, etc.</i><br><b>   II</b> = <i>lat</i>. Piso, Pison, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 33, Mar. 45, etc</i>.`

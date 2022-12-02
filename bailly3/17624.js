@@ -1,0 +1,1 @@
+lar[17624]=`<b>αὐτο·πάγητος, ος, ον</b> <font color="purple">[ᾰ]</font> qui s’est formé (<i>litt</i>. fixé) de soi-même, SOPHR. (POLL. <i>10, 107).</i><p><b>Étym</b>. <i>cf</i>. αὐτοπαγής.`

@@ -1,0 +1,1 @@
+lar[16638]=`<b>άδος</b> <font color="purple">[ᾱᾰδ]</font> <i>adj. f. c</i>. Ἀσωπίς, EUR. <i>H.f. 785,</i> PLUT.`

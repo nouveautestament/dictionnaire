@@ -1,0 +1,1 @@
+lar[81077]=`<b>πλινθ·υφής, ής, ές</b> <font color="purple">[ῠ]</font> bâti (<i>propr</i>. tissé) en briques, ESCHL. <i>Pr. 450</i>.<p><b>Étym</b>. πλ. ὑφαίνω.`

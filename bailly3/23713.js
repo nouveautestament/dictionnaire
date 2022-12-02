@@ -1,0 +1,1 @@
+lar[23713]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> dîme, CALL. <i>Ep. 40</i> ; ANTH. <i>6, 290</i>.<p><b>Étym</b>. δεκατεύω.`

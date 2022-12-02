@@ -1,0 +1,1 @@
+lar[57448]=`<b>εως (ἡ)</b> <font color="purple">[φῐ]</font> allègement, soulagement, THC. <i>7, 75</i> ; DC. <i>42, 28, etc</i>.<p><b>Étym</b>. κουφίζω.`

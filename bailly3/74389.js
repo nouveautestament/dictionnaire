@@ -1,0 +1,1 @@
+lar[74389]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Paccianus, <i>lieutenant de Sylla,</i> PLUT. <i>Crass. 4, etc</i>.`

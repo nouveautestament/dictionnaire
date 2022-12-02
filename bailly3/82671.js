@@ -1,0 +1,1 @@
+lar[82671]=`<b>πονηρο·κρατέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être sous la domination des méchants, ARSTT. <i>Pol. 4, 8</i>.<p><b>Étym</b>. π. κρατέομαι.`

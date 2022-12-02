@@ -1,0 +1,1 @@
+lar[64791]=`<b>*μετα·λήγω</b>, <i>seul. épq</i>. <b>μεταλλήγω</b>, mettre fin à, cesser, <i>gén</i>. IL. <i>9, 157</i> ; HH. <i>Cer. 339</i>.<p>➳ <i>Impf. itér. 3 sg</i>. μεταλλήγεσκεν, A.RH. <i>3, 951</i>.`

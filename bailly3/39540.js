@@ -1,0 +1,1 @@
+lar[39540]=`<b>οῦ (ὁ)</b> moquerie, raillerie, POL. <i>3, 80, 4</i> ; PHIL. <i>1, 605</i> ; HLD. <i>10, 25</i>.<p><b>Étym</b>. ἐπιτωθάζω.`

@@ -1,0 +1,1 @@
+lar[87400]=`<i>poét</i>. <b>πτοία, ας (ἡ) :<br>      1</b> épouvante, effroi, T. LOCR. <i>103b, etc. ; au plur</i>. POL. <i>1, 39, 14, etc.</i> ; PLUT. <i>M. 83d.</i><br><b>      2</b> transport de passion, EL. <i>N.A. 10, 27</i> ; PORPH. <i>Abst. 1, 54, p. 93</i>.<p>➳ <i>Ion. et épq</i>. πτοίη, OPP. <i>H. 3, 431</i> ; NIC. <i>Al. 212</i>.`

@@ -1,0 +1,1 @@
+lar[14416]=`<b>ἀρει·θύσανος, ου (ὁ)</b> <font color="purple">[ᾰῠᾰ]</font> <i>litt</i>. frange <i>ou</i> parure d’Arès, <i>càd</i>. vaillant guerrier, ESCHL. <i>fr. 200</i>.<p><b>Étym</b>. Ἄρης, θύσανος.`

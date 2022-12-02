@@ -1,0 +1,1 @@
+lar[47763]=`<b>η, ον</b>, de jonc, DC. <i>Exc. Vat. 563</i>.<p><b>Étym</b>. θρύον.`

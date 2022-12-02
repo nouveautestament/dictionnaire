@@ -1,0 +1,1 @@
+lar[66997]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> moisissure par suite de l’humidité, NIC. <i>Al. 248</i>.`

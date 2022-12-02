@@ -1,0 +1,1 @@
+lar[45408]=`<b>ἡμι·δαμής, ής, ές</b> <font color="purple">[ῐᾰ]</font> à demi dompté, <i>càd</i>. à demi mort, OPP. <i>H. 1, 716</i>.<p><b>Étym</b>. ἡμι-, δαμάω.`

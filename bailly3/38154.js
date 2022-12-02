@@ -1,0 +1,1 @@
+lar[38154]=`<b>ἐπι·κρατής</b> <font color="purple">[ᾰ]</font> (<i>seul. cp</i>. ἐπικρατέστερος) qui l’emporte : τῇ μάχῃ, THC. <i>6, 88,</i> dans le combat ; τινος, DC. <i>53, 30,</i> sur qqn <i>ou</i> sur qqe ch. ; κατὰ τὸ ἐπικρατέστερον, DS. <i>Exc. p. 539,</i> avec succès.<p><b>Étym</b>. ἐπί, κρατός.`

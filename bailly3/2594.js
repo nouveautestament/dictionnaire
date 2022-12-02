@@ -1,0 +1,1 @@
+lar[2594]=`<b>αἱμο·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font> dont le sang sort à flots, SOPH. <i>Ph. 825</i> ; HPC. <i>1029f</i>.<p><b>Étym</b>. αἷμα, ῥήγνυμι.`

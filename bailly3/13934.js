@@ -1,0 +1,1 @@
+lar[13934]=`<b>ἀ·προσαύδητος, ος, ον</b>, à qui l’on n’adresse pas la parole, PLUT. <i>M. 29b ; 921f</i>.<p><b>Étym</b>. ἀ, προσαυδάω.`

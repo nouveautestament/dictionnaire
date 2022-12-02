@@ -1,0 +1,1 @@
+lar[51454]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui se recourbe, EUR. <i>I.T. 81</i>.<p><b>Étym</b>. κάμπτω.`

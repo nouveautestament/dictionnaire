@@ -1,0 +1,1 @@
+lar[68607]=`<b>ιος (ἡ) :<br>      1</b> laurier-rose, NIC. <i>Th. 531</i>.<br><b>      2</b> nard de montagne, DIOSC. <i>1, 8</i>.`

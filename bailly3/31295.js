@@ -1,0 +1,1 @@
+lar[31295]=`<b>ἐκ·θειλοπεδεύω</b>, exposer au soleil, DIOSC. <i>5, 82</i>.`

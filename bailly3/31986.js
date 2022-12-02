@@ -1,0 +1,1 @@
+lar[31986]=`<b>ατος (τὸ)</b> coupe, tasse, HDT. <i>9, 41, 80</i> ; SOPH. <i>Ph. 34</i> ; DÉM. <i>384, 13</i> ; CIA. <i>2, 649, 13 (av. 398 av. J.-C.) etc. (v. Meisterh. p. 20, 18).</i><p><b>Étym</b>. ἐκπίνω.`

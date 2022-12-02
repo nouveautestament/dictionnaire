@@ -1,0 +1,1 @@
+lar[74836]=`<b>ας (ἡ)</b> <font color="purple">[ᾰνᾰ]</font> Panakeia (<i>propr</i>. la Secourable à tous, la Panacée) :<br><b>      1</b> <i>fille d’Asklèpios,</i> AR. <i>Pl. 702, 730</i>.<br><b>      2</b> <i>autre,</i> Q. SM. <i>3, 305</i>.<p><b>Étym</b>. <i>v</i>. πανάκεια.`

@@ -1,0 +1,1 @@
+lar[71889]=`<b>οῦ (ὁ)</b> perte séminale dans un songe, ARSTT. <i>H.A. 10, 6</i> ; DIOSC. <i>3, 148</i>.<p><b>Étym</b>. ὀνειρώσσω.`

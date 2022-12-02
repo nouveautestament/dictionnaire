@@ -1,0 +1,1 @@
+lar[10049]=`<b>ἀντι·λυπέω-ῶ</b> <font color="purple">[ῡ]</font> chagriner <i>ou</i> ennuyer à son tour, PLUT. <i>Demetr. 22</i> ; LUC. <i>D. mer. 3, 3</i>.`

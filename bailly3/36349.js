@@ -1,0 +1,1 @@
+lar[36349]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> célébration d’une fête, PLAT. <i>Leg. 657d</i>.<p><b>Étym</b>. ἑορτάζω.`

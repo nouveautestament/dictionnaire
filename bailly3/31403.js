@@ -1,0 +1,1 @@
+lar[31403]=`<b>ατος (τὸ) :<br>      1</b> ce qui sert à allumer, DS. <i>2, 49 ; particul</i>. bois, menu bois, SOPH. <i>fr. 218</i> ; TH. <i>Ign. 73 ; fig</i>. ce qui enflamme, <i>gén</i>. EUR. <i>fr. 7</i>.<br><b>      2</b> bouton d’inflammation, pustule, LUC. <i>D. mar. 11, 2</i>.<p><b>Étym</b>. ἐκκαίω.`

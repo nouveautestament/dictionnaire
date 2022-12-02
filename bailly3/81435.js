@@ -1,0 +1,1 @@
+lar[81435]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> troupeau d’hommes, multitude, ESCHL. <i>Pers. 75</i>.<p><b>Étym</b>. ποιμάνωρ.`

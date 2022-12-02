@@ -1,0 +1,1 @@
+lar[94568]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> assistance, secours, POL. <i>10, 43, 2</i>.<p><b>Étym</b>. συναγωνίζομαι.`

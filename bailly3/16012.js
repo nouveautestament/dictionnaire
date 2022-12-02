@@ -1,0 +1,1 @@
+lar[16012]=`<b>*ἀσπαραγία</b>, <i>seul. att</i>. <b>ἀσφαραγία, ας (ἡ)</b> <font color="purple">[πᾰᾰγ]</font> plant d’asperges, TH. <i>H.P. 6, 4, 2</i>.<p><b>Étym</b>. ἀσπάραγος.`

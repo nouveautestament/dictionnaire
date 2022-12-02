@@ -1,0 +1,1 @@
+lar[89521]=`<b>ων (τὰ)</b> <font color="purple">[ᾰᾰπ]</font> résidence d’un satrape, HLD. <i>8, 12 et 14</i>.<p><b>Étym</b>. σατράπης.`

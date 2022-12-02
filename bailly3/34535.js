@@ -1,0 +1,1 @@
+lar[34535]=`<b>ης (ἡ) :<br>      1</b> provisions en dépôt, PHIL. <i>2, 525</i> ; ARTÉM. <i>341 Reiff</i> ; SYMM. <i>Gen. 41, 36</i>.<br><b>      2</b> fonds déposés, fonds, DÉM. <i>944 (arg.) cf</i>. ἀφορμή.<p><b>Étym</b>. ἐντίθημι.`

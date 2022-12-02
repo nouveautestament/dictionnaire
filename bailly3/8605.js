@@ -1,0 +1,1 @@
+lar[8605]=`<b>ἀν·εύθυνος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui ne rend pas de comptes, HDT. <i>3, 80 ; p. suite,</i> irresponsable, THC. <i>3, 43</i>.<br><b>      2</b> qui n’a pas à se justifier, non coupable, innocent, LUC. <i>Abd. 22 ; avec un gén</i>. ἀν. ἁμαρτήματος, LUC. <i>Nigr. 9,</i> innocent d’un méfait.<p><b>Étym</b>. ἀν-, εὔθ.`

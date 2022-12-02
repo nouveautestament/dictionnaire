@@ -1,0 +1,1 @@
+lar[96822]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> entraves de bois pour des prisonniers, EPICH. (ATH. <i>36d</i>).<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

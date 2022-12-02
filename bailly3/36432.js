@@ -1,0 +1,1 @@
+lar[36432]=`<b>ατος (τὸ)</b> ce qu’on sent, sensation, perception, EPIC. (DL. <i>10, 32</i>) ; PLUT. <i>M. 45c, 889d</i>.<p><b>Étym</b>. ἐπαισθάνομαι.`

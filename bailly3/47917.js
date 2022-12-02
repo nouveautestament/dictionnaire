@@ -1,0 +1,1 @@
+lar[47917]=`<font color="purple">[ῠ]</font> (<i>seul. part. prés</i>.) sentir ie thym, ARCHIG. (ORIB. <i>2, 153 B.-Dar</i>.).<p><b>Étym</b>. θύμος.`

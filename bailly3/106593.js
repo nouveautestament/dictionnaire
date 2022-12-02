@@ -1,0 +1,1 @@
+lar[106593]=`<b>ικος (ὁ)</b> <font color="purple">[ῑκ]</font> :<br><b>I</b>. instrument de musique inventé par les Phéniciens, HDT. 4.192 ; ATH. 637b.<br><b>II</b>. sorte d’ouvrages ciselés <i>ou</i> gravés, SPT. <i>Ezech</i>. 41.25.<p><b>Étym</b>. <i>cf</i>. φοῖνιξ¹.`

@@ -1,0 +1,1 @@
+lar[107439]=`<b>φωτο·ειδής, ής, ές</b>, semblable à la lumière, PLUT. <i>M. 626c ;</i> HÉRACLIDE DU PONT (STOB. <i>Ecl. 1, 796</i>) ; SEXT. <i>M. 7, 93</i>.<p>•<i> Cp</i>. φωτοειδέστερος, NAZ.<p><b>Étym</b>. φῶς, εἶδος.`

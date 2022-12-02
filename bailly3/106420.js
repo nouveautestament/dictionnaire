@@ -1,0 +1,1 @@
+lar[106420]=`<b>εως (ἡ) :<br>      1</b> combustion avec flamme, rayonnement, lueur brillante, TH. <i>Ign. 69</i> ; THÉM. <i>p. 73, 16</i>.<br><b>      2</b> inflammation, THC. <i>2, 49</i> ; PHIL. <i>2, 101, etc</i>.<p><b>Étym</b>. φλογόω.`

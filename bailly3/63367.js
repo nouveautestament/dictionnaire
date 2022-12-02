@@ -1,0 +1,1 @@
+lar[63367]=`<b>μεγαλο·καμπής, ής, ές</b> <font color="purple">[ᾰ]</font> très courbé, ORIB. <i>p. 38 Mai</i>.<p><b>Étym</b>. μ. κάμπτω.`

@@ -1,0 +1,1 @@
+lar[109878]=`<b>Ψιχο·κλάστης, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> « Casse-miettes », <i>n. de parasite,</i> ALCIPHR. <i>3, 45</i>.<p><b>Étym</b>. ψίξ, κλάζω.`

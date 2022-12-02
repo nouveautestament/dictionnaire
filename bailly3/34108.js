@@ -1,0 +1,1 @@
+lar[34108]=`<i>adv</i>., de manière à faire comprendre, BAS. <i>2, 173</i>.`

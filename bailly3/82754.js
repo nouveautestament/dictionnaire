@@ -1,0 +1,1 @@
+lar[82754]=`<b>Πορδο·σελήνη, ης (ἡ)</b> Pordosélènè, <i>î. près de Lesbos,</i> ARSTT. <i>H.A. 8, 28</i>.`

@@ -1,0 +1,1 @@
+lar[107063]=`<b>φυκιο·φόρος, ος, ον</b> <font color="purple">[ῡ]</font> qui produit des algues, XÉNOCR. <i>Al. 58</i>.<p><b>Étym</b>. φυκίον, φέρω.`

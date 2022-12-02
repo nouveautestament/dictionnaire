@@ -1,0 +1,1 @@
+lar[65848]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> qu’il faut <i>ou</i> qu’on peut imiter, XÉN. <i>Mem. 3, 10, 3</i>.<p><b>Étym</b>. μιμέομαι.`

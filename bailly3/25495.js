@@ -1,0 +1,1 @@
+lar[25495]=`<b>δι·άρχω</b> <font color="darkgreen">(<i>ao</i>. διῆρξα)</font> conserver une charge jusqu’à la fin, LYS. (HARP.) ; DC. <i>6, 21 ; 40, 66 ; etc</i>.`

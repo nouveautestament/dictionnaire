@@ -1,0 +1,1 @@
+lar[39927]=`<b>εως (ἡ)</b> ce qu’on mange avec le pain, ATH. <i>186d</i>.<p><b>Étym</b>. ἐποψάομαι.`

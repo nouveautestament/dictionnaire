@@ -1,0 +1,1 @@
+lar[44521]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> envie, jalousie, HH. <i>Ap. 100</i>.<p><b>Étym</b>. ζῆλος.`

@@ -1,0 +1,1 @@
+lar[51152]=`<b>καλλί·κτιτος, ος, ον</b> <font color="purple">[ῐτ]</font> bien bâti, NONN. <i>D. 26, 85</i>.<p><b>Étym</b>. κ. *κτίω.`

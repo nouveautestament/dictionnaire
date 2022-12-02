@@ -1,0 +1,1 @@
+lar[11829]=`<i>adv</i>., en se desséchant, <i>d’où</i> avec endurcissement, SYN. <i>275c</i>.<p><b>Étym</b>. ἀποσκέλλω.`

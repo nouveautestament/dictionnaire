@@ -1,0 +1,1 @@
+lar[83679]=`<b>προ·απορρύπτω</b>, nettoyer d’abord, ORIB. <i>64 Matthäi</i>.`

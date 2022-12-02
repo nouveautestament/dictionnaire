@@ -1,0 +1,1 @@
+lar[63105]=`<b>ου (τὸ)</b> breuvage préparé avec la gomme du lentisque, A. TR. <i>10, 566</i>.<p><b>Étym</b>. μαστίχη.`

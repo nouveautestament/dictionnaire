@@ -1,0 +1,1 @@
+lar[105286]=`<b>φθειρο·ποιός, ός, όν :<br>      1</b> qui engendre des poux, PLUT. <i>M. 646c.</i><br><b>      2</b> qui produit de petites pommes, <i>en parl. d’un pin,</i> TH. <i>H.P. 2, 2, 6</i>.<p><b>Étym</b>. φθείρ, ποιέω.`

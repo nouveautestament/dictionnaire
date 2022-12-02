@@ -1,0 +1,1 @@
+lar[66579]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat singulier, POL. <i>31, 4, 1 ; 32, 14, 5</i> ; LUC. <i>H. conscr. 12</i>.<p>➳ <i>Ion</i>. μουνομαχίη, HDT. <i>5, 1 ; 6, 92</i>.<p><b>Étym</b>. μονομάχος.`

@@ -1,0 +1,1 @@
+lar[25745]=`<b>δι·ατμίζω :<br>      1 <i>tr.</i></b> exhaler, sécréter par transpiration : ἱδρῶτα, PLUT. <i>M. 695c</i>, de la sueur ; <i>au pass</i>. s’évaporer, ARSTT. <i>Cæl. 3, 7, 3</i> ; ARÉT. <i>Cur. m. acut. 1, 1</i>.<br><b>      2 <i>intr.</i></b> s’évaporer, ARSTT. <i>Meteor. 1, 7, 10 ; 2, 1, 3, etc</i>.`

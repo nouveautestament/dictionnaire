@@ -1,0 +1,1 @@
+lar[32068]=`<b>ῆς (ἡ)</b> renversement, dislocation, ALCIPHR. <i>3, 54 ; fig</i>. PLUT. <i>M. 1072c</i>.<p><b>Étym</b>. ἐκστρέφω.`

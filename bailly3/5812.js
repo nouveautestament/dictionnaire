@@ -1,0 +1,1 @@
+lar[5812]=`<b>ἀμπελο·μιξία, ας (ἡ)</b> mélange de plants de vigne à d’autres cultures, LUC. <i>V.H. 1, 9</i>.<p><b>Étym</b>. ἄ. μίγνυμι.`

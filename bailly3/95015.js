@@ -1,0 +1,1 @@
+lar[95015]=`<b>συν·αυλέω-ῶ</b>, jouer de la flûte avec, accompagner avec la flûte, <i>dat</i>. ATH. <i>617b ;</i> LUC. <i>Dom. 16</i>.`

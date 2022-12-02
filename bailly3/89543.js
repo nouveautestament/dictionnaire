@@ -1,0 +1,1 @@
+lar[89543]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> petit satyre, MOSCH. <i>6, 4</i> ; CALLIX. (ATH. <i>200d</i>) ; A. PL. <i>244</i> ; THCR. <i>Idyl. 4, 62 ; 27, 3 et 47</i>.<br><b>      2</b> <i>autre n. de la plante</i> ὄρχις Σατύρου, DIOSC. <i>3, 144</i>.<p><b>Étym</b>. σάτυρος.`

@@ -1,0 +1,1 @@
+lar[29467]=`<b>ας (ἡ)</b> moment favorable, PLAT. <i>Pol. 305d</i>.<p><b>Étym</b>. ἔγκαιρος.`

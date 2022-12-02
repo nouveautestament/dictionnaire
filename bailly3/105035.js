@@ -1,0 +1,1 @@
+lar[105035]=`<b>εως (ἡ) :<br>      1</b> lumière, lueur, éclat, SPT. <i>Gen. 1, 15, etc.</i><br><b>      2</b> signal donné par des feux, SPT. <i>Ex. 25, 6, etc</i>.<p><b>Étym</b>. φαύω.`

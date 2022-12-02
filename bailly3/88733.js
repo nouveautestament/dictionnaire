@@ -1,0 +1,1 @@
+lar[88733]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. ῥόθιος, ESCHL. <i>Pers. 396</i>.`

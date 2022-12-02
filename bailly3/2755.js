@@ -1,0 +1,1 @@
+lar[2755]=`<b>αἰολο·θώρηξ, ηκος (ὁ, ἡ)</b> <i>ion</i>. à la cuirasse étincelante, IL. <i>4, 489</i>.`

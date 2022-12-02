@@ -1,0 +1,1 @@
+lar[27993]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> boisé, DS. <i>3, 25</i> ; STR. <i>130</i>.<p><b>Étym</b>. δρυμός, -ωδης.`

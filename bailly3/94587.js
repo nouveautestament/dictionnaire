@@ -1,0 +1,1 @@
+lar[94587]=`<font color="purple">[ᾱῐδ]</font> <i>adv</i>., coéternellement, BAS. <i>1, 676 Migne</i>.`

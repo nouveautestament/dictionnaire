@@ -1,0 +1,1 @@
+lar[39400]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> qualité d’être propre à, HPC. <i>Fract. 769</i> ; πρός τι, PLAT. <i>Leg. 778a</i>, à qqe ch. ; <i>p. ext</i>. appareil propre à : πρὸς πόλεμον, POL. <i>2, 23, 11,</i> à une guerre.<br><b>      2</b> liaison d’amitié : πρός τινα, ARSTD. <i>t. 1, 112,</i> avec qqn.<p><b>Étym</b>. ἐπιτήδειος.`

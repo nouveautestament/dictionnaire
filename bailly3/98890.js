@@ -1,0 +1,1 @@
+lar[98890]=`<font color="purple">[ᾰ]</font> <i>c</i>. ταγηνίζω, POSIDIPP. (<i>Com. fr. 4, 515</i>) ; SPT. <i>2Macc. 7, 5</i>.`

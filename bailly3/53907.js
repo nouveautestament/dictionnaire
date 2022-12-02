@@ -1,0 +1,1 @@
+lar[53907]=`<b>κατ·επιθλίβω</b> <font color="purple">[ῑβ]</font> comprimer fortement, EUM. <i>p. 29</i>.`

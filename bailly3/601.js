@@ -1,0 +1,1 @@
+lar[601]=`<font color="darkgreen">(<i>seul. impf</i>. ἀγκάζοντο, IL. <i>17, 722, et ao</i>. ἠγκάσσατο, NONN. <i>D. 7, 318</i>)</font> prendre dans ses bras.<p><b>Étym</b>. ἀγκάς.`

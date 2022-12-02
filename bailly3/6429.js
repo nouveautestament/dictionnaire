@@ -1,0 +1,1 @@
+lar[6429]=`<b>ἀμφί·χαιτος, ος, ον</b>, couvert de feuillage, DS. <i>2, 53</i>.<p><b>Étym</b>. ἀ. χαίτη.`

@@ -1,0 +1,1 @@
+lar[85939]=`<b>προσ·καταδέω-ῶ</b>, attacher en outre, HPC. <i>Art. 783, 785 ; Acut. 395</i>.`

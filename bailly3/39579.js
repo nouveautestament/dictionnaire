@@ -1,0 +1,1 @@
+lar[39579]=`<b>ἐπί·φλεβος, ος, ον</b>, aux veines saillantes, HPC. <i>1180g ;</i> ARSTT. <i>H.A. 1, 11, 12</i>.<p><b>Étym</b>. ἐπί, φλέψ.`

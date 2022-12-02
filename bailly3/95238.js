@@ -1,0 +1,1 @@
+lar[95238]=`<b>συν·δύω</b>, plonger en même temps : τινὰ τοῖς κύμασιν, EUM. <i>11, p. 258,</i> qqn dans les flots.<br><b><i>Moy.</i></b> s’enfoncer avec, M. ANT. <i>8, 45</i>.`

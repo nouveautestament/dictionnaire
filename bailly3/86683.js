@@ -1,0 +1,1 @@
+lar[86683]=`<b>προσ·ψεύδομαι</b>, ajouter en mentant, <i>acc</i>. DS. <i>14, 65</i> ; STR. <i>17, 3, 3 Kram</i>.`

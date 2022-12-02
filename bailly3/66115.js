@@ -1,0 +1,1 @@
+lar[66115]=`<b>μιτρο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῑῐ]</font> qui porte une ceinture sur sa tunique, ATH. <i>523d</i>.<p><b>Étym</b>. μ. χιτών.`

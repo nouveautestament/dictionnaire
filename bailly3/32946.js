@@ -1,0 +1,1 @@
+lar[32946]=`<i>adv.</i> :<br><b>      1</b> à la manière grecque, PLUT. <i>Brut. 2 et 52</i> ; LUC. <i>Scyth. 3, etc.</i><br><b>      2</b> en langue grecque, en grec, XÉN. <i>An. 7, 6, 8</i> ; PLAT. <i>Tim. 21e, Criti. 114b ;</i> PLUT. <i>Rom. 21, Cæs. 66, Cic. 4, etc</i>.<p><b>Étym</b>. ἑλληνίζω.`

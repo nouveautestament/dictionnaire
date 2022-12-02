@@ -1,0 +1,1 @@
+lar[96144]=`<b>συν·οίομαι</b>, <i>anc. att</i>. <b>ξυν·οίομαι</b> <font color="darkgreen">(<i>ao</i>. συνῳήθην)</font> être du même avis, PLAT. <i>Rsp. 500a, Theæt. 171a ;</i> τι, PLAT. <i>Rsp. 500b, 517c</i>, en qqe ch.`

@@ -1,0 +1,1 @@
+lar[93012]=`<b>στροφιγγο·ειδῶς</b>, <i>adv</i>., en forme de pivot, APD. POL. <i>44</i>.<p><b>Étym</b>. στρόφιγξ, εἶδος.`

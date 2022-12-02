@@ -1,0 +1,1 @@
+lar[37333]=`<b>ἐπι·βήσσω</b>, tousser ensuite <i>ou</i> en outre, HPC. <i>Epid. 1, 979</i> (<i>var</i>. ὑποβ-).`

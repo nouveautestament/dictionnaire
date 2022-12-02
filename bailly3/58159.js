@@ -1,0 +1,1 @@
+lar[58159]=`<b>ῆς (ἡ)</b> voûte souterraine, crypte, NT. <i>Luc. 11, 33</i> ; JOS. <i>B.J. 5, 7, 4</i> ; ATH. <i>205a</i>.<p><b>Étym</b>. <i>fém. de</i> κρυπτός.`

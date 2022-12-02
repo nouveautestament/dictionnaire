@@ -1,0 +1,1 @@
+lar[41493]=`<b>οῦ (ὁ) :<br>      1</b> qui annonce de bonnes nouvelles, CLÉM. <i>1, 1184 Migne</i>.<br><b>      2</b> qui prêche la bonne nouvelle, évangéliste, NT. <i>Ap. 21, 8 ; Eph. 4, 11</i>.<p><b>Étym</b>. εὐαγγελίζω.`

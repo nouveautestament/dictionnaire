@@ -1,0 +1,1 @@
+lar[29539]=`<b>ἐγ·καταλογίζομαι</b>, mettre en ligne de compte, IS. <i>88, 36</i>.<p><b>Étym</b>. ἐν, κ.`

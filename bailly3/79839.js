@@ -1,0 +1,1 @@
+lar[79839]=`<b>πεταλόω-ῶ</b> <font color="purple">[ᾰ]</font> couvrir de feuilles de métal, SPT. <i>3Reg. 6, 20</i>.<p><b>Étym</b>. πέταλον.`

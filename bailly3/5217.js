@@ -1,0 +1,1 @@
+lar[5217]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰμῐδ]</font><br><b>      1</b> petit chariot, HDT. <i>3, 113</i>.<br><b>      2</b> jouet en forme de chariot, AR. <i>Nub. 864</i>.<p><b>Étym</b>. ἅμαξα.`

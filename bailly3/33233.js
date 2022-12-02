@@ -1,0 +1,1 @@
+lar[33233]=`<b>ἐμ·ματαιάζω</b> <font color="purple">[μᾰ]</font> s’attacher vainement <i>ou</i> d’une manière frivole à, <i>dat</i>. NYSS. <i>1, 756, etc</i>.`

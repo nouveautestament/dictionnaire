@@ -1,0 +1,1 @@
+lar[93731]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> qui ressemble à une figue, ARSTT. <i>H.A. 9, 40, 5</i> ; ORIB. (PHOT. <i>Bibl. 176, 3).</i><p><b>Étym</b>. σῦκον, -ωδης.`

@@ -1,0 +1,1 @@
+lar[34980]=`<b>ἐν·συγ·κατα·ζέω</b>, bouillir ensemble au fond de, MNÉSITH. (ORIB. <i>1, 279 B.-Dar</i>.).`

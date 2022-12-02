@@ -1,0 +1,1 @@
+lar[52892]=`<b>εως (ἡ)</b> <font color="purple">[ᾰνᾱ]</font> action de dépenser, d’épuiser, PLUT. <i>M. 678f ;</i> CLÉM. <i>299, etc.</i> ; GAL. <i>14, 398</i>.<p><b>Étym</b>. καταναλίσκω.`

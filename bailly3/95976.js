@@ -1,0 +1,1 @@
+lar[95976]=`<b>συν·θριαμβεύω</b>, triompher avec, PLUT. <i>Mar. 44, Luc. 36</i>.`

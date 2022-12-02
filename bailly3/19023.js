@@ -1,0 +1,1 @@
+lar[19023]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> travail manuel, HDT. <i>2, 165, etc.</i><br><b>      2</b> <i>p. suite,</i> habitudes <i>ou</i> caractère d’un artisan, <i>càd</i>. vulgarité, mauvais goût, HPC. <i>23, 38</i> ; ARSTT. <i>Nic. 2, 7, 6, etc</i>.<p>➳ <i>Ion</i>. βαναυσίη, HDT. HPC. <i>ll. cc</i>.<p><b>Étym</b>. βάναυσος.`

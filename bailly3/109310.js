@@ -1,0 +1,1 @@
+lar[109310]=`<b>χρυσό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῡ]</font> de couleur d’or, ANTH. <i>9, 525</i>.<p><b>Étym</b>. χρ. χρόα.`

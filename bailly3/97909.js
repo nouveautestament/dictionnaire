@@ -1,0 +1,1 @@
+lar[97909]=`<b>ταχυ·πλοέω-οῶ</b> <font color="purple">[ᾰ]</font> naviguer rapidement, POL. <i>3, 95, 6</i>.<p><b>Étym</b>. ταχύς, πλόος.`

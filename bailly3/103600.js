@@ -1,0 +1,1 @@
+lar[103600]=`<b>ὑπο·νιτρώδης, ης, ες</b>, légèrement nitreux, PHILOTIM. (ATH. <i>79b</i>).`

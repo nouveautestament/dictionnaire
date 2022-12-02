@@ -1,0 +1,1 @@
+lar[1580]=`<b>ἀ·δυνάστευτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> sans souverain, SYN. <i>De regn. 13, 1085b Migne</i>.<p><b>Étym</b>. ἀ, δυναστεύω.`

@@ -1,0 +1,1 @@
+lar[14568]=`<b>ου (ὁ)</b> Ariaspès, <i>Perse,</i> PLUT. <i>Artax. 30</i>.`

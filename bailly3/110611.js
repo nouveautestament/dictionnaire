@@ -1,0 +1,1 @@
+lar[110611]=`<b>1 <i>tr.</i></b> rendre jaune <i>ou</i> pâle, faire pâlir, ORPH. <i>Arg. 1305 ; au pass</i>. pâlir, SEXT. <i>M. 7, 193</i>.<br><b>2 <i>intr.</i></b> être <i>ou</i> devenir jaune <i>ou</i> pâle, NIC. <i>Th. 254</i>.<p><b>Étym</b>. ὠχρός.`

@@ -1,0 +1,1 @@
+lar[75174]=`<b>παντ·αγάθιον</b> <i>ou</i> <b>παντ·άγαθον, ου (τὸ)</b> <font color="purple">[ᾰγᾰ]</font> bon pour tout, <i>sorte d’emplâtre,</i> GAL. <i>15, 734</i>.<p><b>Étym</b>. π. ἀγαθός.`

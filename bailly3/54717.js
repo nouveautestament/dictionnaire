@@ -1,0 +1,1 @@
+lar[54717]=`<b>κενο·τάφιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> cénotaphe (<i>propr</i>. tombeau vide) APP. <i>Mithr. 96</i> ; PLUT. <i>M. 349b, etc</i>. (<i>v</i>. κενοταφέω).<br><b>      2</b> <i>p. suite,</i> simulacre, apparence trompeuse, SPT. <i>1Reg. 19, 13</i>.<p><b>Étym</b>. κ. τάφος.`

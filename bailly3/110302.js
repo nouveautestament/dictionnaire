@@ -1,0 +1,1 @@
+lar[110302]=`<b>ὠμό·φρων</b>, <i>gén</i>. <b>ονος (ὁ, ἡ)</b> au cœur dur, cruel, inhumain, <i>en parl. de pers</i>. SOPH. <i>Aj. 931, Tr. 975, Ph. 194</i> ; EUR. <i>El. 27, etc. ; en parl. d’animaux,</i> ESCHL. <i>Ch. 421 ; fig. en parl. du fer,</i> ESCHL. <i>Sept. 730</i>.<p><b>Étym</b>. ὠμός, φρήν.`

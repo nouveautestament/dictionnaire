@@ -1,0 +1,1 @@
+lar[109542]=`<b>ή, όν</b>, qui concerne le jeu d’un instrument à cordes : ψαλτικὸν ὄργανον, ATH. <i>634f</i>, instrument à cordes, lyre.<p><b>Étym</b>. ψάλλω.`

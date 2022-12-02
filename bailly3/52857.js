@@ -1,0 +1,1 @@
+lar[52857]=`<b>ῆς (ἡ)</b> attente, délai, retard, POL. <i>3, 79, 12</i>.<p><b>Étym</b>. καταμένω.`

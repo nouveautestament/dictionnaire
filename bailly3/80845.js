@@ -1,0 +1,1 @@
+lar[80845]=`<b>πλειστο·δυναμέω-ῶ</b> <font color="purple">[ῠᾰ]</font> être très fort, très puissant, GAL. <i>8, 743</i>.<p><b>Étym</b>. πλ. δύναμις.`

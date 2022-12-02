@@ -1,0 +1,1 @@
+lar[51977]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῡ]</font> civet lydien, ATH. <i>576c, etc. ; d’où en gén</i>. ragoût délicat, PLUT. <i>M. 644a ;</i> LUC. <i>Tim. 54</i>.`

@@ -1,0 +1,1 @@
+lar[78480]=`<b>περί·γειος, ος, ον :<br>      1</b> qui entoure la terre, A. APHR. <i>Probl. 2, 47</i>.<br><b>      2</b> de la terre, terrestre, ISOCR. <i>Ep. 10</i> ; PLUT. <i>M. 745b, etc</i>.<p><b>Étym</b>. π. γῆ.`

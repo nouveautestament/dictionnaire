@@ -1,0 +1,1 @@
+lar[31885]=`<b>ἐκ·πλύνω</b> <font color="purple">[ῡ]</font><br><b>      1</b> ôter en lavant, <i>d’où</i> laver, enlever par un lavage, <i>acc</i>. PLAT. <i>Rsp. 430a ;</i> AR. <i>Lys. 575 ; au pass</i>. HDT. <i>1, 203</i>.<br><b>      2</b> laver, rendre clair, brillant, AR. <i>Pl. 1062</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 2, HDT. <i>4, 73</i>.`

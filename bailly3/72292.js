@@ -1,0 +1,1 @@
+lar[72292]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <i>propr</i>. « tension en arrière »; <i>maladie nerveuse dans laquelle les membres se raidissent en arrière (tétanos),</i> HPC.<p><b>Étym</b>. ὀπισθότονος.`

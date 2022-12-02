@@ -1,0 +1,1 @@
+lar[6868]=`<i>adv</i>., impudemment, PLAT. <i>Ap. 31b ;</i> POL. <i>28, 4, 9</i>.<p>•<i> Sup</i>. -ότατα, DÉM. <i>819, 7</i>.`

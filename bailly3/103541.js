@@ -1,0 +1,1 @@
+lar[103541]=`<b>ὑπο·μήλινος, η, ον</b> <font color="purple">[ῐ]</font> jaunâtre, DIOSC.`

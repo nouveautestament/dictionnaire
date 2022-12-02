@@ -1,0 +1,1 @@
+lar[27984]=`<font color="purple">[ῡ]</font> <i>adv</i>., de la forêt, NAZ. <i>3, 984 Migne</i>.<p><b>Étym</b>. δρυμός, -θεν.`

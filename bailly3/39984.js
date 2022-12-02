@@ -1,0 +1,1 @@
+lar[39984]=`<b>ἑπτα·κότυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui contient sept cotyles, AR. <i>fr. 399</i>.<p><b>Étym</b>. ἑ. κοτύλη.`

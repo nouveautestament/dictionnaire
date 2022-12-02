@@ -1,0 +1,1 @@
+lar[21264]=`<b>γαληνιάω-ῶ</b> <font color="purple">[γᾰ]</font> être calme, être serein, OPP. <i>C. 1, 115</i> ; ANTH. <i>9, 208</i>.<p>➳ <i>Part. prés. fém. épq</i>. γαληνιόωσα, ANTH. <i>5, 35</i>.<p><b>Étym</b>. γαλήνη.`

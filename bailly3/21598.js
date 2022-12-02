@@ -1,0 +1,1 @@
+lar[21598]=`<i>adv</i>., d’une façon ridicule, PLAT. <i>Rsp. 527a ;</i> ARSTT. <i>Meteor. 2, 5, 14</i> ; LUC. <i>Bis acc. 17</i>.<p>•<i> Cp</i>. γελοιοτέρως, HPC. <i>156</i>.`

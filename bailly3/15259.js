@@ -1,0 +1,1 @@
+lar[15259]=`<b>ας (ἡ)</b> <i>prononciation comique de</i> Ἀρτεμισία, AR. <i>Th. 1201</i>.`

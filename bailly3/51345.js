@@ -1,0 +1,1 @@
+lar[51345]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠ]</font> bouton de rose, AQU. <i>Cant. 2, 1 ; Esaï. 35, 1</i>.<p><b>Étym</b>. κάλυξ.`

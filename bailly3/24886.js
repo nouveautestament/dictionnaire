@@ -1,0 +1,1 @@
+lar[24886]=`<b>δια·κυμαίνω</b> <font color="purple">[ῡ]</font><br><b>      1</b> agiter <i>ou</i> soulever les flots de (la mer) <i>acc</i>. LUC. <i>D. mar. 15, 4</i>.<br><b>      2</b> <i>fig</i>. agiter comme les flots, D. CHR. <i>2, 240</i>.`

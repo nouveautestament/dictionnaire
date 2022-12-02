@@ -1,0 +1,1 @@
+lar[57681]=`<b>κραυράω-ῶ</b>, être atteint de la gourme, ARSTT. <i>H.A. 8, 21, 23</i>.<p><b>Étym</b>. κραῦρος².`

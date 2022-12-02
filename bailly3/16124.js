@@ -1,0 +1,1 @@
+lar[16124]=`<b>ου (ἡ)</b> Astakos :<br><b>      1</b> <i>v. d’Acarnanie,</i> THC. STR.<br><b>      2</b> <i>v. de Bithynie,</i> STR.`

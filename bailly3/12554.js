@@ -1,0 +1,1 @@
+lar[12554]=`<b>ἀποκηδέω-ῶ</b> <font color="darkgreen">(<i>ao. part. duel</i> ἀποκηδήσαντε)</font> se relâcher, faiblir, IL. <i>23, 413</i>.<p><b>Étym</b>. ἀποκηδής.`

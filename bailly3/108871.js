@@ -1,0 +1,1 @@
+lar[108871]=`<b>ης (ἡ)</b> assistance, secours, NIC. <i>Th. 584 ; au pl</i>. moyens de secourir, remèdes, NIC. <i>Th. 852</i>.<p><b>Étym</b>. χράω.`

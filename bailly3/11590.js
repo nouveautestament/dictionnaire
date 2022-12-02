@@ -1,0 +1,1 @@
+lar[11590]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκᾰ]</font> ignorance du beau <i>ou</i> du bien, <i>d’où</i> manque de goût, PLAT. <i>Rsp. 405b ;</i> DH. <i>Dem. c. 23 ; joint à</i> ἀμουσία, PLAT. <i>Rsp. 403c ; à</i> βαναυσία, ARSTT. <i>Nic. 2, 7 ; au plur</i>. vulgarités, grossièretés, XÉN. <i>Cyr. 1, 2, 3</i>.<p><b>Étym</b>. ἀπειρόκαλος.`

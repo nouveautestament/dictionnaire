@@ -1,0 +1,1 @@
+lar[78825]=`<b>περι·κρεμής, ής, ές</b>, rempli de choses suspendues, LUC. <i>Trag. 141</i>.<p><b>Étym</b>. π. κρεμάννυμι.`

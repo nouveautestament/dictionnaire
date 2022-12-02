@@ -1,0 +1,1 @@
+lar[22258]=`<b>γναθόω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) frapper sur la joue, souffleter, PHRYN. COM. <i>2-1, 591, 9 Mein</i>.<p><b>Étym</b>. γνάθος.`

@@ -1,0 +1,1 @@
+lar[87751]=`<b>ίδος</b> <font color="purple">[ῠᾰῐδ]</font><br><b>      1</b> <i>adj. f</i>. rouge <i>ou</i> doré comme du feu, <i>en parl. d’une espèce d’olive,</i> PHILOTIM. (ORIB. <i>p. 33 Matthäi</i>).<br><b>      2</b> <i>subst</i>. ἡ π. rouge-gorge, <i>oiseau,</i> ARSTT. <i>H.A. 9, 1, 15</i> ; CALL. <i>fr. 100c, 4 Schn. etc</i>.<p><b>Étym</b>. πῦρ.`

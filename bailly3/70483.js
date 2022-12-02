@@ -1,0 +1,1 @@
+lar[70483]=`<b>ου (ὁ)</b> Œnaros, <i>prêtre de Dionysos à Naxos,</i> PLUT. <i>Thes. 20</i>.<p><b>Étym</b>. οἶνος.`

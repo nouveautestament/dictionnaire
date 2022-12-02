@@ -1,0 +1,1 @@
+lar[80417]=`<font color="purple">[ῐ]</font> <i>v</i>. Πῖσα.`

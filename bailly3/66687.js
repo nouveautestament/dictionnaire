@@ -1,0 +1,1 @@
+lar[66687]=`<b>μονο·χρώματος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. μονόχροος DIPH. SIPHN. (ATH. <i>90b</i>).<p><b>Étym</b>. μ. χρῶμα.`

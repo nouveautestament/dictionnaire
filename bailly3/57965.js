@@ -1,0 +1,1 @@
+lar[57965]=`<b>ου (ὁ)</b> = <i>lat</i>. Crispus, <i>n. d’h. rom</i>. A. PL. <i>40</i>.`

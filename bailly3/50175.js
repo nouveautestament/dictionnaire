@@ -1,0 +1,1 @@
+lar[50175]=`<b>ου (ὁ)</b> <font color="purple">[κᾰ]</font> cheval de travail, rosse, PLUT. <i>M. 828e</i>.<p><b>Étym</b>. καταβάλλω.`

@@ -1,0 +1,1 @@
+lar[21366]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> brillant, beau, de belle apparence (terre), TH. <i>H.P. 6, 5, 4</i>.<p><b>Étym</b>. γάνος, -ωδης.`

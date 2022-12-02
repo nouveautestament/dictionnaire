@@ -1,0 +1,1 @@
+lar[52185]=`<b>κατα·βρύω</b> (<i>seul. part. prés</i>.) croître en abondance, EUB. (ATH. <i>471d</i>).`

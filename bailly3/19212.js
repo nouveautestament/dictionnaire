@@ -1,0 +1,1 @@
+lar[19212]=`<b>βαρύ·τιμος, ος, ον</b> <font color="purple">[ᾰῠῑ]</font><br><b>      1</b> cher, précieux, STR. <i>798</i> ; NT. <i>Matth. 26, 7</i>.<br><b>      2</b> aux lourdes vengeances, ESCHL. <i>Suppl. 25</i>.<p><b>Étym</b>. β. τιμή.`

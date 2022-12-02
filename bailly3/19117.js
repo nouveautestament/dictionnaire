@@ -1,0 +1,1 @@
+lar[19117]=`<b>βαρυ·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῠᾱ]</font> qui marche <i>ou</i> s’avance lourdement, MAN. <i>4, 318</i>.<p><b>Étym</b>. β. βαίνω.`

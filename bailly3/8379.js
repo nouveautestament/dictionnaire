@@ -1,0 +1,1 @@
+lar[8379]=`<b>ἀν·εξερεύνητος, ος, ον</b>, qu’on ne peut explorer, inextricable, HÉRACLITE ÉPH. <i>fr. 18</i> (CLÉM. <i>437</i>) ; DC. <i>69, 14</i>.<p><b>Étym</b>. ἀν-, ἐξερευνάω.`

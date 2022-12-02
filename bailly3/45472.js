@@ -1,0 +1,1 @@
+lar[45472]=`<b>ἡμί·λευκος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié blanc, LUC. <i>Prom. 4</i>.<p><b>Étym</b>. ἡμι-, λ.`

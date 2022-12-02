@@ -1,0 +1,1 @@
+lar[79303]=`<b>περί·σπλαγχνος, ος, ον</b>, courageux, magnanime, THCR. <i>Idyl. 16, 56</i>.<p><b>Étym</b>. π. σπλάγχνον.`

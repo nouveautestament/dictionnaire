@@ -1,0 +1,1 @@
+lar[24]=`<b>ος, ον</b> <font color="purple">[ᾱᾰ]</font> <font color="brown">pernicieux, funeste</font>, A.RH. <i>1, 459</i>.<p><b>Étym</b>. ἀάω.`

@@ -1,0 +1,1 @@
+lar[89370]=`<b>ῶν (οἱ)</b> les Saranges (<i>auj</i>. Sistân) <i>pple perse,</i> HDT. <i>3, 9 ; 7, 67</i>.`

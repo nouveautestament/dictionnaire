@@ -1,0 +1,1 @@
+lar[105822]=`<b>ας (ἡ)</b> <font color="purple">[ῐκᾰ]</font> amour du beau, des belles choses <i>ou</i> des belles actions, DS. <i>1, 51</i> ; PHILSTR. <i>570</i>.<p><b>Étym</b>. φιλόκαλος.`

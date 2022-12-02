@@ -1,0 +1,1 @@
+lar[67434]=`<i>adv.</i> :<br><b>      1</b> secrètement, SPT. <i>3Macc. 3, 10</i> ; STR. <i>10, 3, 9 Kram.</i><br><b>      2</b> à voix basse, CHRYS. <i>12, 776</i> ; CLÉM. <i>2, 97 Migne</i>.<br><b>      3</b> d’une façon mystique, HERMOG. <i>Rhet. 223, 21</i> ; CIC. <i>Att. 6, 4</i>.`

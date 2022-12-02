@@ -1,0 +1,1 @@
+lar[2786]=`<b>αἰπολέω-ῶ</b> (<i>seul. prés. et impf</i>. ᾐπόλουν) faire paître <i>ou</i> garder les chèvres, THCR. <i>Idyl. 8, 85 ; avec le dat</i>. αἰπ. ταῖς αἰξί, LYS. <i>fr. 13, m. sign. ; au pass</i>. paître, ESCHL. <i>Eum. 187</i>.<p><b>Étym</b>. αἰπόλος.`

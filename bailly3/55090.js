@@ -1,0 +1,1 @@
+lar[55090]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> <i>autre n. du poisson de mer</i> βλεψίας, DORION (ATH. <i>306f</i>).<p><b>Étym</b>. κεφαλή.`

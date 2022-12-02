@@ -1,0 +1,1 @@
+lar[79179]=`<b>περι·προθέω</b>, courir le premier tout autour, <i>acc</i>. OPP. <i>H. 2, 440, etc</i>.`

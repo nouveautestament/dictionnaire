@@ -1,0 +1,1 @@
+lar[51211]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui parle agréablement, DH. <i>Comp. 3, 16</i>.<p><b>Étym</b>. κ. ῥῆμα.`

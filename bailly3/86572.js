@@ -1,0 +1,1 @@
+lar[86572]=`<b>προσ·υπονοέω-οῶ</b>, conjecturer en outre, EUN. <i>p. 110</i>.`

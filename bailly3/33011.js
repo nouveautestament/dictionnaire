@@ -1,0 +1,1 @@
+lar[33011]=`<b>ἑλο·νόμος, ος, ον</b>, qui habite dans les marais et les marécages, HPC. <i>358, 13</i>.<p><b>Étym</b>. ἕλος, νέμω.`

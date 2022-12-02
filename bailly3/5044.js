@@ -1,0 +1,1 @@
+lar[5044]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> agité, inquiet, HPC. <i>Coac. 167</i>.<p><b>Étym</b>. ἀλυσμός, -ωδης.`

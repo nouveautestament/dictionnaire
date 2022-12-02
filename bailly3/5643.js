@@ -1,0 +1,1 @@
+lar[5643]=`<b>ἄμ·μιγα</b> <font color="purple">[ῐᾰ]</font> <i>adv</i>., pêle-mêle, ensemble, à la fois, avec, SOPH. <i>Tr. 838</i> ; A.RH. <i>4, 628, 1196</i> ; THCR. <i>Idyl. 5, 3 ; dat</i>. NIC. <i>Th. 860 ; gén</i>. ANTH. <i>7, 22, 6</i>.<p><b>Étym</b>. <i>p</i>. *ἀνάμιγα, <i>de</i> ἀναμίγνυμι.`

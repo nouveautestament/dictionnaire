@@ -1,0 +1,1 @@
+lar[12036]=`<b>ἄ·πλατος, ος, ον</b> <font color="purple">[ᾰτ]</font> <i>c</i>. ἄπλετος, COM. AN. <i>fr. 40</i>.`

@@ -1,0 +1,1 @@
+lar[5029]=`(<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> être malade, HPC. <i>480, 31</i> ; NIC. <i>Th. 427</i>.`

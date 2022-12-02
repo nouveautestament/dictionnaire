@@ -1,0 +1,1 @@
+lar[81691]=`<b>πολυ·άϊξ, ϊκος (ὁ, ἡ)</b> <font color="purple">[ᾱῑκ]</font> impétueux, <i>propr</i>. aux bonds répétés <i>ou</i> violents, IL. <i>1, 165, etc.</i> ; OD. <i>11, 314</i>.<p><b>Étym</b>. π. ἀΐσσω.`

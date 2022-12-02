@@ -1,0 +1,1 @@
+lar[68201]=`<b>νεο·πένης, ητος (ὁ, ἡ)</b> devenu pauvre depuis peu, PHRYN. <i>(Bkk. 52, 18).</i><p><b>Étym</b>. ν. πένης.`

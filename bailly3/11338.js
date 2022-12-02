@@ -1,0 +1,1 @@
+lar[11338]=`<b>ἀ·παρασάλευτος, ος, ον</b> <font color="purple">[σᾰ]</font> non ébranlé, CHRYS. <i>4, 326</i>.<p><b>Étym</b>. ἀ, παρασαλεύω.`

@@ -1,0 +1,1 @@
+lar[4526]=`<b>ἀ·λιπαρής, ής, ές</b> <font color="purple">[ῑᾰ]</font> non oint <i>ou</i> non brillant de parfums, <i>d’où</i> sans parure, SOPH. <i>El. 451</i>.<p><b>Étym</b>. ἀ, λιπαρός.`

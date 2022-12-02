@@ -1,0 +1,1 @@
+lar[100521]=`<b>ή, όν</b> <font color="purple">[χῑ]</font> trois-millième, PLAT. <i>Phædr. 249a</i>.<p><b>Étym</b>. τρισχίλιοι.`

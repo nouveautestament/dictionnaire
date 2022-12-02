@@ -1,0 +1,1 @@
+lar[71469]=`<b>ας (ἡ)</b> conformité d’opinion, PLAT. <i>Rsp. 433c ;</i> ARSTT. <i>Nic. 9, 6 ; au pl</i>. PLAT. <i>Pol. 310e</i>.<p><b>Étym</b>. ὁμόδοξος.`

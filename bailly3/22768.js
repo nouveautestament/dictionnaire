@@ -1,0 +1,1 @@
+lar[22768]=`<b>γυμνό·καρπος, ος, ον</b>, aux fruits nus, <i>càd</i>. non enveloppés (d’une peau, d’une écorce, <i>etc</i>.), TH. <i>C.P. 1, 17, 8</i>.<p><b>Étym</b>. γ. καρπός.`

@@ -1,0 +1,1 @@
+lar[25337]=`<b>διά·πονος, ος, ον :<br>      1</b> exercé à la fatigue, PLUT. <i>Mar. 26</i>.<br><b>      2</b> exercé, <i>en gén.</i> : πρός τι, PLUT. <i>M. 135f</i>, à qqe ch.<p><b>Étym</b>. διά, πένομαι.`

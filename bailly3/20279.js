@@ -1,0 +1,1 @@
+lar[20279]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> bouclé, frisé, PHILSTR. <i>571</i>.<p><b>Étym</b>. βόστρυχος, -ωδης.`

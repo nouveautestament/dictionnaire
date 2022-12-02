@@ -1,0 +1,1 @@
+lar[68378]=`<b>νευρο·πλεκής, ής, ές</b>, fait de nerfs tressés, ANTH. <i>6, 107</i>.<p><b>Étym</b>. ν. πλέκω.`

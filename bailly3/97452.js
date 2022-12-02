@@ -1,0 +1,1 @@
+lar[97452]=`<b>ιδος (ἡ)</b> jeune fille nubile, SOPH. <i>Ant. 629</i> ; CALL. <i>fr. 210</i>.<p><b>Étym</b>. <i>cf. sscr</i>. tarunî, « jeune fille ».`

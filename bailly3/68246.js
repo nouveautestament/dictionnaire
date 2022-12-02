@@ -1,0 +1,1 @@
+lar[68246]=`<i>att</i>. <b>νεοττεύω :<br>      1</b> faire éclore, <i>acc</i>. AR. <i>Av. 699</i>.<br><b>      2</b> faire son nid, nicher, ARSTT. <i>H.A. 7, 1</i>.<p><b>Étym</b>. νεοττός.`

@@ -1,0 +1,1 @@
+lar[16735]=`<i>adv</i>., sans fin, BAS. NYSS. <i>etc</i>.`

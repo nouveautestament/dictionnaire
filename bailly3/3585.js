@@ -1,0 +1,1 @@
+lar[3585]=`<b>ἀ·κόσμητος, ος, ον :<br>      1</b> non mis en ordre, non ordonné, non arrangé, PLAT. <i>Gorg. 506e, etc.</i><br><b>      2</b> non paré, LUC. <i>Pisc. 12</i> ; ἀ. τινι, XÉN. <i>Œc. 11, 9,</i> non paré de qqe ch. ; <i>abs. en parl. du style,</i> DH. <i>Thuc. 23</i>.<p><b>Étym</b>. ἀ, κοσμέω.`

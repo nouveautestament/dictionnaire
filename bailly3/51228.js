@@ -1,0 +1,1 @@
+lar[51228]=`<b>Καλλί·στρατος, ου (ὁ)</b> <font color="purple">[ᾰτ]</font> Kallistratos, <i>h</i>. XÉN. <i>Hell. 6, 2, 39, etc.</i> ; PLUT. <i>Dem. 5, etc</i>.<p><b>Étym</b>. κ. στρατός.`

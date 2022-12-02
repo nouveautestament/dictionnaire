@@ -1,0 +1,1 @@
+lar[1170]=`<b>ἀ·δάμαστος, ος, ον</b> <font color="purple">[ᾰδᾰ]</font><br><b>      1</b> indompté, non encore dompté (cheval) XÉN. <i>Eq. 1, 1</i>.<br><b>      2</b> indomptable, inflexible, IL. <i>9, 158</i>.<p><b>Étym</b>. ἀ, δαμάζω.`

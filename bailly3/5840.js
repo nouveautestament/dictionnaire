@@ -1,0 +1,1 @@
+lar[5840]=`<b>ἀμπ·ίσχω</b> (<i>seul. prés. et impf</i>. ἤμπισχον) <i>c</i>. ἀμπέχω, EUR. <i>Hipp. 192,</i> ION <i>1159</i> ; AR. <i>Vesp. 1153</i> (<i>v</i>. ἀμπέχω), <i>etc.</i> ; PLAT. <i>Pol. 311c, etc.</i><br><b><i>Moy.</i></b> (<i>seul. prés. et ao.2</i> ἠμπισχόμην) EUR. <i>Hel. 422, Med. 1159</i>.<p><b>Étym</b>. <i>cf</i>. ἀμπέχω <i>et</i> ἀμφέχω.`

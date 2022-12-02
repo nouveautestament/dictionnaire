@@ -1,0 +1,1 @@
+lar[101605]=`<b>ὑδρό·χυτος, ος, ον</b> <font color="purple">[χῠ]</font> qui épanche de l’eau, EUR. <i>Cycl. 66</i> ; NONN.<p><b>Étym</b>. ὕδ., χέω.`

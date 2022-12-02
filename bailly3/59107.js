@@ -1,0 +1,1 @@
+lar[59107]=`<b>ωνος (ὁ) :<br>      1</b> grande coupe lacédémonienne <i>à l’usage des soldats,</i> AR. <i>Eq. 600, etc. ; cf</i>. CRITIAS (ATH. <i>483b</i>) ; PLUT. <i>Lys. 9, etc. ; p. ext</i>. festin, banquet, MACH. (ATH. <i>483b</i>) ; PLUT. <i>Ant. 4</i>.<br><b>      2</b> <i>n. sicilien du</i> goujon, NIC. <i>et</i> APD. (ATH. <i>309c</i>).<p><b>Étym</b>. <i>cf</i>. κῶθος.`

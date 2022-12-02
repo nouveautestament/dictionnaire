@@ -1,0 +1,1 @@
+lar[84069]=`<b>προ·εκθερμαίνω</b>, faire échauffer auparavant, <i>d’où au pass</i>. s’échauffer auparavant, P. ÉG. <i>1, 51</i>.`

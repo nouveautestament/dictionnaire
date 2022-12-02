@@ -1,0 +1,1 @@
+lar[39040]=`<b>ατος (τὸ)</b> remède pour attirer (l’humeur, le sang, <i>etc</i>.) MOSCHION <i>Mul. pass. 129, p. 71</i>.<p><b>Étym</b>. ἐπισπάω.`

@@ -1,0 +1,1 @@
+lar[7639]=`<b>εως (ἡ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> action de resserrer, contraction, HPC. <i>Art. 815 dout.</i><br><b>      2</b> action d’entraîner en soulevant, TH. <i>C.P. 5, 4, 7</i>.<p><b>Étym</b>. ἀνασπάω.`

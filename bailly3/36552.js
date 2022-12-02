@@ -1,0 +1,1 @@
+lar[36552]=`<b>οῦ (ὁ) :<br>      1</b> inclinaison vers deux partis contraires, ARR. <i>Epict. 4, 2, 5</i>.<br><b>      2</b> <i>p. suite,</i> ambiguïté, PHIL. <i>2, 202</i>.<p><b>Étym</b>. ἐπαμφοτερίζω.`

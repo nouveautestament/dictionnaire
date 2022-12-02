@@ -1,0 +1,1 @@
+lar[61982]=`<b>οῦ (ἡ)</b> Lyrnèssos, <i>v. de Troade,</i> IL. <i>2, 690, 691 ; 19, 60, etc</i>.`

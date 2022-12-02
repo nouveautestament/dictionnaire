@@ -1,0 +1,1 @@
+lar[55479]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. κιναιδία ESCHN. <i>18, 29</i> ; D. PHAL. <i>97</i>.<p><b>Étym</b>. κίναιδος.`

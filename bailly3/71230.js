@@ -1,0 +1,1 @@
+lar[71230]=`<b>ὅλ·οσχος, ου (ὁ)</b> calice de grenade (<i>propr</i>. sac de cuir) NIC. <i>Th. 870</i>.<p><b>Étym</b>. ὅλ. ὄσχη.`

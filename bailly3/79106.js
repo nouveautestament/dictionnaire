@@ -1,0 +1,1 @@
+lar[79106]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. περιπλανής, ANTH. <i>7, 736</i>.`

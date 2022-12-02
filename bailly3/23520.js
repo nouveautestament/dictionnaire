@@ -1,0 +1,1 @@
+lar[23520]=`<b>δειλανδρέω-ῶ</b>, être peureux, <i>d’où</i> être effrayé, SPT. <i>2Macc. 8, 13</i> ; JOS. <i>Macc. p. 511, 514, etc</i>.<p><b>Étym</b>. δείλανδρος.`

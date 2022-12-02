@@ -1,0 +1,1 @@
+lar[10461]=`<b>ἀντι·συμμαχέω-ῶ</b> <font color="purple">[μᾰ]</font> venir en aide à son tour, LGN <i>17, 1</i>.`

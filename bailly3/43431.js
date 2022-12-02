@@ -1,0 +1,1 @@
+lar[43431]=`<b>εὐ·σκεπής, ής, ές</b>, bien abrité contre, <i>gén</i>. TH. <i>Vent. 4 ; abs</i>. TH. <i>H.P. 4, 1, 1</i>.<p><b>Étym</b>. εὖ, σκέπη.`

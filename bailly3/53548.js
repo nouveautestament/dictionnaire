@@ -1,0 +1,1 @@
+lar[53548]=`<b>κατα·τερσαίνω</b>, faire dessécher, APOLLIN. <i>Ps. p. 193</i>.`

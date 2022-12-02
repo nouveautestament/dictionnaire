@@ -1,0 +1,1 @@
+lar[106997]=`<b>α, ον</b> <font color="purple">[ῡῐ]</font> de Phrynikhos, <i>danseur et comédien,</i> AR. <i>Vesp. 1524</i>.`

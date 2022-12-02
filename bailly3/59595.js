@@ -1,0 +1,1 @@
+lar[59595]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire du dème Lakiades, DÉM. <i>59, 61 Baiter-Sauppe</i> ; PLUT. <i>Alc. 22, Cim. 4</i>.<p><b>Étym</b>. <i>v</i>. Λακιάδαι.`

@@ -1,0 +1,1 @@
+lar[55181]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font> charme, séduction, IBYC. (SCH.-PLAT. <i>p. 40</i>) ; EUR. <i>Tr. 393</i>.<p><b>Étym</b>. κηλέω.`

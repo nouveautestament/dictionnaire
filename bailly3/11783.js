@@ -1,0 +1,1 @@
+lar[11783]=`<i>adv</i>., sans être exposé à tomber <i>ou</i> à faillir, ARR. <i>Epict. 1, 1, 31</i>.<p>•<i> Cp</i>. -ότερον, ARR. <i>Epict. 4, 6, 26</i>.`

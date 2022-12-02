@@ -1,0 +1,1 @@
+lar[95046]=`<b>συν·δαίνυμι</b>, partager avec : γάμους τινί, EUR. <i>Hel. 1439,</i> célébrer avec qqn un repas de noces.<br><b><i>Moy.</i></b> manger avec, SATYR. (ATH. <i>248f</i>).`

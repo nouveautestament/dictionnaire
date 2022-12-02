@@ -1,0 +1,1 @@
+lar[104259]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Hyrminè, <i>v. d’Élide,</i> IL. <i>2, 616</i>.`

@@ -1,0 +1,1 @@
+lar[109359]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> action de réduire en jus <i>ou</i> de convertir en chyle, TH. <i>H.P. 7, 5, 1</i> ; PLUT. <i>M. 700b.</i><br><b>      2</b> action de réduire <i>ou</i> d’épaissir le jus par la cuisson, DIOSC. <i>2, 108</i>.<p><b>Étym</b>. χυλόω.`

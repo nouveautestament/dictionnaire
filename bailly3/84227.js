@@ -1,0 +1,1 @@
+lar[84227]=`<b>προ·επιβάλλω</b>, jeter auparavant sur : τινὶ τὰς χεῖρας, POL. <i>16, 9, 3,</i> jeter auparavant les mains sur qqn.`

@@ -1,0 +1,1 @@
+lar[51379]=`<b>α, ον</b> <font color="purple">[ᾰᾰῑ]</font> de Kamarina, <i>en Sicile,</i> HDT. <i>7, 156</i>.<p><b>Étym</b>. Καμάρινα.`

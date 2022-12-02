@@ -1,0 +1,1 @@
+lar[16055]=`<b>ἀσπιδο·φέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui porte un bouclier ; <i>sel. d’autres,</i> qui vit de boucliers, <i>càd</i>. de la guerre, EUR. <i>Ph. 796</i>.<p><b>Étym</b>. ἀ. φέρω, <i>ou sel. d’autres</i> φέρβω.`

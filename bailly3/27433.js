@@ -1,0 +1,1 @@
+lar[27433]=`<b>δολιχοδρομέω-ῶ</b> (<i>part. ao</i>. -δρομήσαντα) <font color="purple">[ῐ]</font> fournir la course du long stade, ESCHN. <i>66, 32</i>.<p><b>Étym</b>. δολιχοδρόμος.`

@@ -1,0 +1,1 @@
+lar[15513]=`<b>ου (ὁ)</b> Arkhébiadès, <i>h</i>. DÉM. <i>1236, 15, etc.</i> ; AND. <i>3, 3, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀρχέβιος.`

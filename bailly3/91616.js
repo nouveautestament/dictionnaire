@@ -1,0 +1,1 @@
+lar[91616]=`<b>(ὁ)</b> Suidas, <i>historien et lexicographe, ou, plus sûrement,</i> la Souda, <i>encyclopédie du 10<sup>e</sup> s</i>.`

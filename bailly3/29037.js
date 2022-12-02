@@ -1,0 +1,1 @@
+lar[29037]=`<b>δυσ·ώδης, ης, ες</b> <font color="purple">[ῠ]</font> d’odeur infecte, fétide, HPC. <i>166a ;</i> HDT. <i>2, 94</i> ; SOPH. <i>Ph. 1032</i> ; ARSTT. <i>H.A. 9, 40, 40</i>.<p><b>Étym</b>. δ. ὄζω.`

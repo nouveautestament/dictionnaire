@@ -1,0 +1,1 @@
+lar[6129]=`<b>ου (τὸ)</b> mesure entre l’ἡμίεκτον et l’ἀμφορεύς, <i>càd</i>. les ²/₆ d’une amphore, THÉM. <i>113d</i>.<p><b>Étym</b>. ἀ. ἕκτος.`

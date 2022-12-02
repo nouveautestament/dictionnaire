@@ -1,0 +1,1 @@
+lar[19977]=`(<i>seul. prés</i>.) imiter le son de la lyre, GAL. <i>8, 69, 662</i>.<p><b>Étym</b>. βλίτυρι.`

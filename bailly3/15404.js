@@ -1,0 +1,1 @@
+lar[15404]=`<b>ἀρτοκοπέω-ῶ</b>, faire du pain, être boulanger, PHRYN. (POLL. <i>7, 21).</i><p><b>Étym</b>. ἀρτοκόπος.`

@@ -1,0 +1,1 @@
+lar[42818]=`<b>εὔ·ξεστος, η, ον</b>, bien raclé, bien poli, <i>p. ext</i>. bien travaillé, IL. <i>14, 225, etc.</i> ; OD. <i>13, 10</i> ; LUC. <i>H. conscr. 27</i>.<p>➳ <i>Épq</i>. ἐΰξ-, HOM. <i>ll. cc. ; fém</i>. -ος, OD. <i>15, 333</i>.<p><b>Étym</b>. εὖ, ξέω.`

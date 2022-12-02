@@ -1,0 +1,1 @@
+lar[81795]=`<b>πολυ·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui a plusieurs pointes, DP. <i>476</i> ; NIC. <i>Th. 36</i> ; APP. <i>Civ. 5, 82</i>.<p><b>Étym</b>. π. γλωχίς.`

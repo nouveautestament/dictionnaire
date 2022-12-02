@@ -1,0 +1,1 @@
+lar[35066]=`<b>ἐν·τευτλανόω-ῶ</b> <font color="purple">[ᾰ]</font> faire cuire avec des feuilles de bette, AR. <i>Ach. 894</i>.<p><b>Étym</b>. ἐν, τεῦτλον.`

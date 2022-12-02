@@ -1,0 +1,1 @@
+lar[3225]=`<b>ἀ·κατάσχετος, ος, ον</b>, qu’on ne peut contenir, Ps.-PHOCYL. <i>96</i> ; DS. <i>16, 10 ; 17, 38</i> ; PLUT. <i>Mar. 44</i> ; SPT. <i>Job 31, 11 ; 3 Macc. 6, 17, etc</i>.<p><b>Étym</b>. ἀ, κατέχω.`

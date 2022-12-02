@@ -1,0 +1,1 @@
+lar[99076]=`<b>ου (ὁ)</b> Tigropatès, <i>h</i>. LUC.`

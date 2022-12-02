@@ -1,0 +1,1 @@
+lar[59819]=`<b>ου (ἡ)</b> Laos, <i>v. de Lucanie, sur un fl. de même nom,</i> HDT. <i>6, 21</i>.`

@@ -1,0 +1,1 @@
+lar[106039]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> actif, affairé, <i>particul. en mauv. part,</i> qui aime à se mêler des affaires d’autrui, IS. <i>49, 31</i> ; LYCURG. <i>148, 12</i> ; PLUT. <i>M. 515f</i>.<p><b>Étym</b>. φ. πρᾶγμα.`

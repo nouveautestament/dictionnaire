@@ -1,0 +1,1 @@
+lar[78754]=`<b>περί·κηπος, ου (ὁ) :<br>      1</b> jardin autour d’une maison, DL. <i>9, 36</i>.<br><b>      2</b> jardin dans le voisinage (d’une ville), DS. <i>Exc. 527, 63</i>.<br><b>      3</b> allée <i>ou</i> avenue autour d’un jardin, LGS <i>4, 20</i>.<p><b>Étym</b>. π. κῆπος.`

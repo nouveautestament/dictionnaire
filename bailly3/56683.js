@@ -1,0 +1,1 @@
+lar[56683]=`<b>ας (ἡ)</b> <font color="purple">[κᾱ]</font> racine de la fève d’Égypte, sorte de nénuphar, <i>plante,</i> NIC. (ATH. <i>72b</i>) ; DIOSC. <i>2, 128</i>.`

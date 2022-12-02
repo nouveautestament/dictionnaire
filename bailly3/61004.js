@@ -1,0 +1,1 @@
+lar[61004]=`<b>ίδος</b> <font color="purple">[ῐῐδ]</font> <i>adj. f. c</i>. Λιγυστῖνος EUR. <i>Tr. 437</i> ; A.RH. <i>4, 553</i>.`

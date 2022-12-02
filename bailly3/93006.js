@@ -1,0 +1,1 @@
+lar[93006]=`<font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>ao</i>. ἐστροφάλιξα) :</font><br><b>      1</b> faire tourner, <i>acc</i>. OD. <i>18, 315</i>.<br><b>      2</b> <i>p. ext</i>. agiter, secouer, répandre, <i>acc</i>. ANTH. <i>6, 218</i>.<p><b>Étym</b>. στροφάλιγξ.`

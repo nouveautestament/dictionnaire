@@ -1,0 +1,1 @@
+lar[40586]=`<b>α, ον</b>, de l’Hermos, <i>fl. de Mysie,</i> Ps.-HDT. <i>V. Hom. 2</i>.<p><b>Étym</b>. Ἕρμος².`

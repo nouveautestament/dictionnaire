@@ -1,0 +1,1 @@
+lar[13269]=`<b>ἀπο·σάρκωσις, εως (ἡ)</b> action d’arracher les chairs, NYSS. <i>1, 835c</i>.<p><b>Étym</b>. ἀπό, σαρκόω.`

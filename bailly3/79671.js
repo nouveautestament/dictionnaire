@@ -1,0 +1,1 @@
+lar[79671]=`<b>περι·χειλόω-ῶ</b>, entourer d’un rebord, XÉN. <i>Eq. 4, 4</i>.<p><b>Étym</b>. π. χεῖλος.`

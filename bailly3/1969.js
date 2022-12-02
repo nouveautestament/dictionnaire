@@ -1,0 +1,1 @@
+lar[1969]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> dédaigneux, orgueilleux, arrogant, THGN. <i>733, conj. Bgk p</i>. ἀπηνής.<p><b>Étym</b>. <i>cf</i>. ἀθερίζω.`

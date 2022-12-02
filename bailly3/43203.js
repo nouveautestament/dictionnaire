@@ -1,0 +1,1 @@
+lar[43203]=`<b>ινος (ὁ, ἡ)</b> <font color="purple">[ῑς, ῑν]</font> qui a bon nez, qui a le nez fin, ESCHL. <i>Ag. 1093</i>.<p><b>Étym</b>. εὖ, ῥίς.`

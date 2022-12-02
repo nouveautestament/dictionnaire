@@ -1,0 +1,1 @@
+lar[38093]=`<b>ἐπι·κοινωνέω-ῶ :<br>      1</b> avoir en commun : τι, PLAT. <i>Crat. 394c</i>, qqe ch. ; τινι, HPC. <i>Progn. 39</i> ; PLAT. <i>Soph. 251d</i>, avec qqn ; τινί τινος, PLAT. <i>Gorg. 464c ;</i> DÉM. <i>855, 6,</i> avoir qqe ch. en commun avec qqn.<br><b>      2</b> avoir qqe ch. de commun avec, <i>dat</i>. ESCHN. <i>59, 37</i>.`

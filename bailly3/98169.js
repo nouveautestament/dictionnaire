@@ -1,0 +1,1 @@
+lar[98169]=`<b>ου (ὁ)</b> Télésippos, <i>h</i>. PLUT. <i>X orat. Isocr. 1</i>.<p><b>Étym</b>. τελέω, ἵππος.`

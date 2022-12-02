@@ -1,0 +1,1 @@
+lar[93452]=`<b>συγ·κλάω :<br>      1</b> briser ensemble <i>ou</i> en même temps, <i>acc</i>. AR. <i>Eccl. 1031 ; fig. au pass</i>. être brisé (par la fatigue, <i>etc</i>.) PLAT. <i>Rsp. 495e, Theæt. 173a.</i><br><b>      2</b> heurter en même temps, <i>acc</i>. CHÆRÉM. (ATH. <i>608c</i>).`

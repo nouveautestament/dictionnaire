@@ -1,0 +1,1 @@
+lar[101589]=`<b>Ὑδρ·οσφάντης, ου (ὁ)</b> « Flaireur d’eau », <i>n. de parasite,</i> ALCIPHR. <i>3, 61</i>.<p><b>Étym</b>. <i>p. dissimil. p</i>. *Ὑδροσφράντης, <i>de</i> ὕδ. ὀσφραίνομαι.`

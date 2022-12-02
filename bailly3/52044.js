@@ -1,0 +1,1 @@
+lar[52044]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. du mont Kasios, <i>en Syrie, ép. de Zeus,</i> ANTH. <i>6, 332</i> ; A. TAT. <i>3, 6</i>.`

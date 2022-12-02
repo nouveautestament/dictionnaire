@@ -1,0 +1,1 @@
+lar[24472]=`<b>ου (ὁ)</b> celui qui transmet un message :<br><b>      1</b> parlementaire <i>ou</i> négociateur secret, THC. <i>7, 73</i>.<br><b>      2</b> <i>postér</i>. sorte d’adjudant, chargé de transmettre les ordres dans un corps de troupes, PLUT. <i>M. 678d ; Galb. 24</i>.<p><b>Étym</b>. διαγγέλλω.`

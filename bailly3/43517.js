@@ -1,0 +1,1 @@
+lar[43517]=`<b>εὐ·συν·δεξίαστος, ος, ον</b>, <i>litt</i>. fidèle aux serrements de main échangés, <i>càd</i>. fidèle, loyal, PTOL. <i>Tetr. 165</i>.<p><b>Étym</b>. εὖ, σύν, *δεξιάζω <i>de</i> δεξιά.`

@@ -1,0 +1,1 @@
+lar[78792]=`<b>ος</b> <i>et</i> <b>η, ον</b>, baigné tout autour, de tous côtés, HH. <i>Ap. 181</i> ; ESCHL. <i>Pers. 596, etc.</i> ; EUR. <i>H.f. 1080</i> ; STR. <i>753 ; avec</i> ὑπό <i>et le gén</i>. STR. <i>126 ; ou</i> ἐκ <i>et le gén</i>. DH. <i>5, 13</i>.<p>➳ <i>Nom. fém. dor</i>. -τα, ESCHL. <i>l. c. ; gén</i>. -της, HH. <i>l. c</i>.<p><b>Étym</b>. περικλύζω.`

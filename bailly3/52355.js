@@ -1,0 +1,1 @@
+lar[52355]=`<b>κατα·δρύπτω</b>, déchirer, écorcher, égratigner, ANTH. <i>7, 487</i> ; M. ANT. <i>6, 20</i>.`

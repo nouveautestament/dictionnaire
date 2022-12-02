@@ -1,0 +1,1 @@
+lar[97128]=`<i>dat. sg. masc. et neutre ou nom. masc. pl. att. de l’adj</i>. σός.`

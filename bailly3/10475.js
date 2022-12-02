@@ -1,0 +1,1 @@
+lar[10475]=`<b>ἀντι·σῴζω</b>, sauver à son tour <i>ou</i> en retour, ANON. (SUID. <i>v°</i> δυσκλεές).`

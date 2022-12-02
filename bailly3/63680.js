@@ -1,0 +1,1 @@
+lar[63680]=`<i>adv</i>., un plus grand nombre de fois, NICOM. <i>Arithm. p. 131</i>.<p><b>Étym</b>. μείζων, -άκις.`

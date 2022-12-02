@@ -1,0 +1,1 @@
+lar[108889]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à rendre service : οἱ χρειακοί, M. RUBR. <i>16,</i> les gens de service.<p><b>Étym</b>. χρεία.`

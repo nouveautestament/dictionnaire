@@ -1,0 +1,1 @@
+lar[82402]=`<b>πολύ·στοιχος, ος, ον</b>, <i>c</i>. πολύστιχος, ARSTT. <i>H.A. 2, 13, 11</i> ; TH. <i>H.P. 8, 4, 2 ; en parl. des mâchoires munies de rangées de dents,</i> LYC. <i>414</i>.`

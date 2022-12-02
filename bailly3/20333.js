@@ -1,0 +1,1 @@
+lar[20333]=`<b>ου (ὁ)</b> concombre sauvage, GAL. <i>2, 87</i>.`

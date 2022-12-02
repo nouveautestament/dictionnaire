@@ -1,0 +1,1 @@
+lar[93899]=`<b>συμ·βρύκω</b> <font color="purple">[ῡ]</font> faire grincer : τοὺς ὀδόντας, JAMBL. <i>V. Pyth. 194,</i> grincer des dents.`

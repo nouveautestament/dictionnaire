@@ -1,0 +1,1 @@
+lar[80518]=`<b>α, ον</b> <font color="purple">[ᾰκ]</font> de Pittakos, SIM. <i>fr. 5 (12), 8 Bgk</i> ; PLAT. <i>Prot. 339c, etc</i>.<p><b>Étym</b>. Πιττακός.`

@@ -1,0 +1,1 @@
+lar[42642]=`<b>εὔ·μαρις, εως (ἡ)</b> <font color="purple">[ᾱ]</font> chaussure orientale <i>pour hommes,</i> ESCHL. <i>Pers. 660</i> ; EUR. <i>Or. 1370 ; ou pour femmes,</i> LYC. <i>855</i> ; ANTH. <i>7, 413</i>.<p>➳ <font color="purple">[ᾰ]</font> ANTH. <i>l. c</i>.<p><b>Étym</b>. <i>mot oriental</i>.`

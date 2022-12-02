@@ -1,0 +1,1 @@
+lar[90975]=`<b>ου (ὁ)</b> tumeur dure, squirre, HPC. <i>598, 48</i>.`

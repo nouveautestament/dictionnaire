@@ -1,0 +1,1 @@
+lar[34830]=`<b>ἐν·ομματόω-ῶ</b> <font color="purple">[ᾰ]</font> ouvrir les yeux, rendre la vue à, <i>acc</i>. PHIL. <i>1, 369, 586, 590</i>.`

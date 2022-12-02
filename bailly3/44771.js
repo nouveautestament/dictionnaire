@@ -1,0 +1,1 @@
+lar[44771]=`<b>ζωοτοκέω-ῶ</b>, enfanter des êtres vivants, ARSTT. <i>H.A. 3, 1, 14, etc</i>.<p><b>Étym</b>. ζωοτόκος.`

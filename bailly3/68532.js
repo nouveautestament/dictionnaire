@@ -1,0 +1,1 @@
+lar[68532]=`<b>εω</b> (<i>ion.) ou</i> <b>αο</b> (<i>dor</i>.) (ὁ) <font color="purple">[ᾰ]</font> <i>c</i>. Νηλείδης, IL. <i>8, 100, etc</i>.<p>➳ <i>Voc</i>. -η, IL. <i>10, 87</i> ; OD. <i>3, 79</i>.`

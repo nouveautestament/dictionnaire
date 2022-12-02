@@ -1,0 +1,1 @@
+lar[50753]=`<b>κακο·καρπία, ας (ἡ)</b> <font color="purple">[κᾰκ]</font> production de récoltes mauvaises <i>ou</i> peu abondantes, <i>d’où</i> stérilité, TH. <i>H.P. 1, 4, 1, etc</i>.<p><b>Étym</b>. κ. καρπός.`

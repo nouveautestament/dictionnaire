@@ -1,0 +1,1 @@
+lar[10106]=`<b>ἀντί·μισθος, ος, ον</b>, qui rémunère, qui récompense, ESCHL. <i>Suppl. 270</i>.<p><b>Étym</b>. ἀ. μισθός.`

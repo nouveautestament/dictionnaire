@@ -1,0 +1,1 @@
+lar[65353]=`<b>μηλ·άνθη, ης (ἡ) :<br>      1</b> <i>c</i>. μηλολόνθη, HÉROD. ATT. (STOB. <i>Fl. 78, 6, 3</i>).<br><b>      2</b> fleur du pommier, PHILSTR. <i>Im. 1, p. 803</i>.<p><b>Étym</b>. μῆλον², ἄνθος.`

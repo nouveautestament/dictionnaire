@@ -1,0 +1,1 @@
+lar[25184]=`<b>διαξυράομαι-ῶμαι</b> <font color="purple">[ῠ]</font> (<i>prés</i>. -ῶμαι <i>et ao. impér</i>. -ξύρησαι) se raser, ARR. <i>Epict. 1, 2, 29</i>.`

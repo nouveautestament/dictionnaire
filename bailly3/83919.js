@@ -1,0 +1,1 @@
+lar[83919]=`<b>προ·διακαίω</b>, brûler auparavant, <i>acc</i>. GAL. <i>13, 617</i>.`

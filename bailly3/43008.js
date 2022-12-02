@@ -1,0 +1,1 @@
+lar[43008]=`<b>ας (ἡ)</b> bonne digestion, ARSTT. <i>P.A. 2, 3, 8, etc</i>.<p><b>Étym</b>. εὔπεπτος.`

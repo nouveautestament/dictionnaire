@@ -1,0 +1,1 @@
+lar[101129]=`<b>ῶν (οἱ)</b> les habitants de Tyras, HDT. <i>4, 51</i>.<p><b>Étym</b>. Τύρας.`

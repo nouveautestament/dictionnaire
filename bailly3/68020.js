@@ -1,0 +1,1 @@
+lar[68020]=`<b>νεκρο·τάφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui donne la sépulture aux morts, MAN. <i>4, 192</i>.<p><b>Étym</b>. ν. θάπτω.`

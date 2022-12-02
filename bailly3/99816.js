@@ -1,0 +1,1 @@
+lar[99816]=`<b>ας (ἡ)</b> Tuttia, <i>v. d’Espagne,</i> PLUT. <i>Sert. 19</i>.`

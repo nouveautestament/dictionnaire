@@ -1,0 +1,1 @@
+lar[103267]=`<b>ὑπο·θιγγάνω</b> (<i>seul. prés</i>.) toucher légèrement, HPC. <i>Art. 806 au pass</i>.`

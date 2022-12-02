@@ -1,0 +1,1 @@
+lar[107021]=`<b>φυγαδο·θήρας, ου (ὁ)</b> <font color="purple">[ῠᾰᾱ]</font> qui traque <i>ou</i> poursuit les exilés, POL. <i>9, 29, 3</i> ; PLUT. <i>Dem. 28, etc</i>.<p><b>Étym</b>. φυγάς, θηράω.`

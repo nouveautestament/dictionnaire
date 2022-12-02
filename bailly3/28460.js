@@ -1,0 +1,1 @@
+lar[28460]=`<b>δυσ·έφικτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à atteindre, POL. <i>31, 3, 12 ; 32, 11, 3 ; joint à</i> δυσπρόσοδος, PLUT. <i>M. 65e</i>.<p>•<i> Cp</i>. -ότερος, NAZ. <i>Or. 14, t. 1, p. 904a</i>.<p><b>Étym</b>. δ. ἐφικνέομαι.`

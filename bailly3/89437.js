@@ -1,0 +1,1 @@
+lar[89437]=`<b>σαρκό·θλασις, εως (ἡ)</b> <font color="purple">[ᾰσ]</font> action de meurtrir, NONN. TH. <i>Cur. morb. 253</i>.<p><b>Étym</b>. σ. θλάω.`

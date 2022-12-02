@@ -1,0 +1,1 @@
+lar[25414]=`<b>εως (ἡ)</b> inflammation profonde, SOR. <i>Obst. 121 Erm</i>.<p><b>Étym</b>. διαπυρόω.`

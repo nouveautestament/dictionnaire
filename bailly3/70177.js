@@ -1,0 +1,1 @@
+lar[70177]=`<i>ou</i> <b>Ὀδύσσεια, ας (ἡ)</b> l’Odyssée, <i>poème d’Homère,</i> ARSTT. <i>Rhet. 3, 3, 4 ; Poet. 4, 12, etc</i>.<p>➳ <i>Ion</i>. Ὀδυσσείη, ANTH. <i>7, 377</i> ; HDT. <i>2, 116 ; 4, 29</i>.<p><b>Étym</b>. Ὀδυσσεύς.`

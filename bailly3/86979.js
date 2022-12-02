@@ -1,0 +1,1 @@
+lar[86979]=`<i>adv</i>., volontiers, avec empressement, <i>litt</i>. « d’un esprit porté vers, » IL. <i>5, 810 ; 6, 173 ; 7, 160 ; 17, 224</i> ; THGN. <i>786</i> ; PD. <i>P. 2, 29</i> ; ESCHL. <i>Suppl. 1, etc</i>.<p>➳ <i>Épq. et ion</i>. προφρονέως, IL. <i>ll. cc</i>.<p><b>Étym</b>. πρόφρων.`

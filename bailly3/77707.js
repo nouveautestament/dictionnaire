@@ -1,0 +1,1 @@
+lar[77707]=`<b>      1</b> couper, ANTH. <i>6, 279</i>.<br><b>      2</b> tondre, THCR. <i>Idyl. 5, 98</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> peigner sur soi, IL. <i>14, 176</i>.<br><b>      2</b> se laisser tondre, THCR. <i>Idyl. 28, 13</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *peḱ-, arracher, carder ; <i>cf</i>. πείκω, πόκος, <i>lat</i>. pectō, pecten.`

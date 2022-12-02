@@ -1,0 +1,1 @@
+lar[52194]=`<b>κατα·γαργαλίζω</b> <font color="purple">[ᾰλ]</font> chatouiller fortement, EUM. <i>p. 77</i>.`

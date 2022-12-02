@@ -1,0 +1,1 @@
+lar[87921]=`<b>πυρί·φλογος, ος, ον</b> <font color="purple">[ῠ]</font> aux flammes ardentes, Ps.-EMPÉD. <i>Sph. 112</i>.<p><b>Étym</b>. π. φλέγω.`

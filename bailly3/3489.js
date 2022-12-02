@@ -1,0 +1,1 @@
+lar[3489]=`<b>ἀ·κολάκευτος, ος, ον</b> <font color="purple">[λᾰ]</font><br><b>      1</b> non flatté de, insensible à la flatterie, PLAT. <i>Leg. 729a ;</i> PLUT. <i>Cor. 17, Mar. 42, Brut. 6, etc.</i><br><b>      2</b> qui ne flatte pas, TÉLÈS (STOB. <i>97, 31).</i><p><b>Étym</b>. ἀ, κολακεύω.`

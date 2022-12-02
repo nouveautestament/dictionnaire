@@ -1,0 +1,1 @@
+lar[97680]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. τάριχος¹ <i>et</i> τάριχος², ANAXANDR. (<i>Com. fr. 3, 193) ; plur</i>. τὰ τάριχα, AXION. (<i>Com. fr. 3, 532</i>).`

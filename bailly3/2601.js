@@ -1,0 +1,1 @@
+lar[2601]=`<b>ας (ἡ)</b> flux de sang, hémorrhagie, HPC. <i>167a, etc</i>.<p><b>Étym</b>. αἱμόρροος.`

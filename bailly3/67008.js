@@ -1,0 +1,1 @@
+lar[67008]=`<b>μυελο·τρεφής, ής, ές</b> <font color="purple">[ῡ]</font> nourri de moelle, TIMOTH. (EM. <i>630, 43).</i><p><b>Étym</b>. μυελός, τρέφω.`

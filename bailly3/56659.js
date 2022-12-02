@@ -1,0 +1,1 @@
+lar[56659]=`<i>mieux que</i> <b>Κολυττός, οῦ (ὁ)</b> Kollytos, <i>dème attique de la tribu Égéide,</i> XÉN. <i>Hell. 5, 1, 26</i> ; LYS. <i>901</i> ; DÉM. <i>288, 19</i>.<p>➳ <i>Dans les inscr. att</i>. Κολλυτός (<i>non</i> Κολυττός) CIA. <i>1, 324, a, 2, 11 (408 av. J.-C.) ; v. Meisterh. p. 37, 7</i>.`

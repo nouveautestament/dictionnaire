@@ -1,0 +1,1 @@
+lar[67025]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> conte, récit, ARSTT. <i>Poet. 24</i> ; PLUT. <i>M. 28d, etc</i>.<p><b>Étym</b>. μυθεύω.`

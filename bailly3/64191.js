@@ -1,0 +1,1 @@
+lar[64191]=`<b>άδος (ἡ)</b> Mélourias, <i>n. d’un rocher,</i> ANTH. <i>7, 496</i>.`

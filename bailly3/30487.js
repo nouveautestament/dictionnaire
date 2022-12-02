@@ -1,0 +1,1 @@
+lar[30487]=`<b>εἰλυφάω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. part. pr. épq</i>. εἰλυφόων) faire tournoyer, <i>acc</i>. IL. <i>11, 156</i> ; HÉS. <i>Th. 692</i>.<p><b>Étym</b>. εἰλύω.`

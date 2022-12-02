@@ -1,0 +1,1 @@
+lar[105888]=`<b>φιλο·λάκων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐᾰ]</font> ami des Laconiens, PLUT. <i>Artax. 13 ; Per. 9, Cim. 16, etc.</i> ; EL. <i>V.H. 4, 15</i>.`

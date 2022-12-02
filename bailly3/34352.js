@@ -1,0 +1,1 @@
+lar[34352]=`<b>ἐν·επιδημέω-ῶ</b>, s’établir comme étranger dans, <i>dat</i>. ATH. <i>233a, 361b ;</i> EL. <i>V.H. 12, 52,</i> DC. <i>51, 17, 1</i>.`

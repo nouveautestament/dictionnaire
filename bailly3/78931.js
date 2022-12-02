@@ -1,0 +1,1 @@
+lar[78931]=`<b>περι·μίγνυμι</b>, mêler tout autour, de tous côtés, GAL. <i>2, 39</i>.`

@@ -1,0 +1,1 @@
+lar[23540]=`<font color="purple">[ᾰ]</font> <i>adv</i>., timidement, avec crainte, SIB. <i>1, p. 176</i>.`

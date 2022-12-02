@@ -1,0 +1,1 @@
+lar[37936]=`<b>ἐπι·καταπίπτω</b>, tomber sur, LUC. <i>Anach. 1</i> ; SEXT. <i>702, 27 Bkk</i>.`

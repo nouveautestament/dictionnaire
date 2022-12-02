@@ -1,0 +1,1 @@
+lar[69086]=`<b>(τὸ)</b> <i>indécl</i>. la lettre Ν ; <i>v</i>. Ν.`

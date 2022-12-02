@@ -1,0 +1,1 @@
+lar[46369]=`<b>θαυμαστόω-ῶ</b>, rendre étonnant <i>ou</i> admirable, SPT. <i>2Reg. 1, 26 ; 2Par. 26, 15, etc. ; d’où au pass</i>. ARSTT. <i>H.A. 9, 45, 6</i> ; PLUT. <i>Per. 28,</i> être regardé comme un prodige.<p><b>Étym</b>. θαυμαστός.`

@@ -1,0 +1,1 @@
+lar[107028]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en fuite, ESCHL. <i>Eum. 256</i>.<p><b>Étym</b>. φεύγω.`

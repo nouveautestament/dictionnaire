@@ -1,0 +1,1 @@
+lar[100116]=`<b>τριβαλλο·ποπανό·θρεπτος, ος, ον</b> <font color="purple">[ῐπᾰ]</font> élevé dans la sensualité, EUB. (ATH. <i>108b</i>).<p><b>Étym</b>. τρ. πόπανον, τρέφω.`

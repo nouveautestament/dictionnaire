@@ -1,0 +1,1 @@
+lar[34775]=`<b>εως (ἡ)</b> action de réfléchir, de penser, PLAT. <i>Rsp. 407b</i>.<p><b>Étym</b>. ἐννοέω.`

@@ -1,0 +1,1 @@
+lar[27926]=`<b>*δρομάω</b> (<i>seul. impf. itér. 3 sg</i>. δρομάασκε, HÉS. <i>fr. 221, 2 Göttling, et pf</i>. δεδρόμηκα, BABR. <i>60</i>) courir.<p><b>Étym</b>. δρόμος.`

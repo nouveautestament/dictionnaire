@@ -1,0 +1,1 @@
+lar[41570]=`<b>εὐ·αλσής, ής, ές</b>, aux belles forêts, bien boisé, STR. <i>152</i>.<p><b>Étym</b>. εὖ, ἄλσος.`

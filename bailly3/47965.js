@@ -1,0 +1,1 @@
+lar[47965]=`<b>ου (ὁ)</b> L’homme-thon, <i>n. de pêcheur,</i> ALCIPHR. <i>1, 11</i>.<p><b>Étym</b>. θύννος.`

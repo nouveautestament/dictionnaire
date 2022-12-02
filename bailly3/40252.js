@@ -1,0 +1,1 @@
+lar[40252]=`<b>ατος (τὸ)</b> farine de fèves, <i>au pl</i>. TH. <i>C.P. 4, 12, 12</i>.<p><b>Étym</b>. ἐρείκω.`

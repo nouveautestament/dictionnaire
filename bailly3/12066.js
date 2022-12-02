@@ -1,0 +1,1 @@
+lar[12066]=`<b>ή, όν</b>, simple, naïf, PHINTYS (STOB. <i>Fl. 74, 61, 44, 54</i>) ; LUC. <i>Tim. 56, Pisc. 12 ; joint à</i> ἀφελής, LUC. <i>D. deor. 4, 3</i>.<p>•<i> Sup</i>. -ώτατος, LUC. <i>Alex. 4</i> ; PHILSTR. <i>V. soph. 2, 9</i>.<p><b>Étym</b>. ἁπλόος.`

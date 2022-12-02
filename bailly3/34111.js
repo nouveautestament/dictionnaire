@@ -1,0 +1,1 @@
+lar[34111]=`<b>ἔν·δεινος, ος, ον</b>, tout à fait extraordinaire <i>ou</i> effrayant, ORIG. <i>4, 409 Migne</i> ; THÉM. <i>67, 9 G. Dind</i>.<p><b>Étym</b>. ἐν, δεινός.`

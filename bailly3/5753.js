@@ -1,0 +1,1 @@
+lar[5753]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> de lin fin <i>ou</i> de pourpre, <i>ou p.-ê. de l’î. Amorgos, ép. d’étoffes précieuses,</i> AR. <i>Lys. 150</i> ; ANTIPH. (POLL. <i>7, 57</i>) ; CLÉARQ. (ATH. <i>255e</i>) ; τὰ ἀ. (<i>s.-e</i>. ἱμάτια) ESCHN. <i>14, 3,</i> vêtements de lin fin <i>ou</i> de laine d’Amorgos.<p><b>Étym</b>. ἀμόργη <i>ou</i> Ἄμοργος.`

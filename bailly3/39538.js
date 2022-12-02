@@ -1,0 +1,1 @@
+lar[39538]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec succès, PLAT. <i>Phil. 38d ;</i> ISOCR. <i>280d ;</i> PLUT. <i>Mar. 17, M. 675a ;</i> DL. <i>4, 15</i>.<p><b>Étym</b>. ἐπιτυχής.`

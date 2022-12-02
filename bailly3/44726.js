@@ -1,0 +1,1 @@
+lar[44726]=`<b>ζωμο·τάριχος, ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> poisson salé confit, <i>sobriquet</i>, ALEX. (ATH. <i>125b</i>).<p><b>Étym</b>. ζωμός, τάριχος.`

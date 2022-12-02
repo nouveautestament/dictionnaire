@@ -1,0 +1,1 @@
+lar[37922]=`<b>ἐπι·καταδέω :<br>      1</b> lier sur, HPC. <i>1155d.</i><br><b>      2</b> lier à, <i>dat</i>. LUC. <i>As. 16, 34</i>.`

@@ -1,0 +1,1 @@
+lar[60050]=`<b>ης, ες</b>, chevelu, <i>d’où fig</i>. couvert de végétation, EUR. <i>Cycl. 541</i>.<p><b>Étym</b>. λάχνη, -ωδης.`

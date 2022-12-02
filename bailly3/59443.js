@@ -1,0 +1,1 @@
+lar[59443]=`<b>α</b>, <i>voc</i>. <b>α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> Lâdas, <i>h</i>. A. PL. <i>4, 53</i>.`

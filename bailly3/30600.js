@@ -1,0 +1,1 @@
+lar[30600]=`<i>adv</i>., pacifiquement, XÉN. <i>Hell. 3, 122</i> ; ISOCR. <i>91c, etc</i>.<p>•<i> Cp</i>. -ώτερον, LUC. <i>Fug. 5</i>.`

@@ -1,0 +1,1 @@
+lar[50148]=`<b>ου (ὁ)</b> Iônias, <i>h</i>. AND. <i>1, 13 Baiter-Sauppe</i>.`

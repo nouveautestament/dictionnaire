@@ -1,0 +1,1 @@
+lar[54343]=`<b>ῆρος (ὁ) :<br>   I</b> <i>act.</i> :<br><b>      1</b> brûleur, celui qui fait brûler, PD. <i>P. 1, 185</i>.<br><b>      2</b> fer brûlant pour cautériser <i>ou</i> marquer, HPC. <i>894a</i> |.<br><b>   II</b> <i>pass</i>. marque de brûlure, cautérisation, cicatrice, JUL. <i>309c</i>.<p><b>Étym</b>. καίω.`

@@ -1,0 +1,1 @@
+lar[103364]=`<b>ὑπο·κίνδυνος, ος, ον</b> <font color="purple">[δῡ]</font> qqe peu dangereux, PLAT. <i>Leg. 830e</i>.<p><b>Étym</b>. ὑ. κίνδυνος.`

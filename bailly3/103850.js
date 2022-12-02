@@ -1,0 +1,1 @@
+lar[103850]=`<b>ὑπό·σομφος, ος, ον</b>, qui ressemble un peu à une éponge, <i>càd.</i> :<br><b>      1</b> un peu mou, GAL. <i>6, 571</i>.<br><b>      2</b> un peu flasque, <i>fig</i>. presque vide (ville) THÉM. <i>222d</i>.<p><b>Étym</b>. ὑ. σομφός.`

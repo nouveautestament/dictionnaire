@@ -1,0 +1,1 @@
+lar[105552]=`<b>φιλ·έξοδος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à sortir, EPICH. <i>fr. 139 Ahrens</i>.`

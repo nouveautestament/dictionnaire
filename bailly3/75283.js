@@ -1,0 +1,1 @@
+lar[75283]=`<b>παντ·ορέκτης, ου</b>, <i>adj. m</i>. qui désire tout, ADAM. <i>Physiogn. 1, 7 et 13</i>.<p><b>Étym</b>. π. ὀρέγομαι.`

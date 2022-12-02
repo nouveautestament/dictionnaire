@@ -1,0 +1,1 @@
+lar[60478]=`<b>ου (ὁ)</b> sorte de poisson, XÉNOCR. <i>Al. 12</i>.`

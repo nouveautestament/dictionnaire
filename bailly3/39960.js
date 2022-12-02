@@ -1,0 +1,1 @@
+lar[39960]=`<b>ἑπτά·θεος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> à sept dieux, ANON. <i>Peripl. Eux. 51</i>.<p><b>Étym</b>. ἑ. θεός.`

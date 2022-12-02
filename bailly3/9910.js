@@ -1,0 +1,1 @@
+lar[9910]=`<b>ἀντι·καίω</b>, <i>att</i>. <b>ἀντι·κάω</b> <font color="purple">[κᾱ]</font> brûler à son tour <i>ou</i> en retour, PLAT. <i>Tim. 65e</i>.`

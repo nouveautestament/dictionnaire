@@ -1,0 +1,1 @@
+lar[86985]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> de précaution, RHÉT. <i>1, 461 W.</i><br><b>      2</b> de préservation, prophylactique, DIOSC. <i>3, 163, etc</i>.<p><b>Étym</b>. προφυλάσσω.`

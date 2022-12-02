@@ -1,0 +1,1 @@
+lar[50586]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Kæratos, <i>fl. de Crète,</i> CALL. <i>H. 3, 44</i>.`

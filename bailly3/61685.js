@@ -1,0 +1,1 @@
+lar[61685]=`<b>ου (τὸ)</b> cœur du bois de sapin, TH. <i>H.P. 3, 9, 7</i>.`

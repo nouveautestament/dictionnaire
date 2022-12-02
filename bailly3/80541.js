@@ -1,0 +1,1 @@
+lar[80541]=`<font color="purple">[ῐῠ]</font> s’agiter vivement, se trémousser, AR. <i>Vesp. 678</i>.<p><b>Étym</b>. πίτυλος.`

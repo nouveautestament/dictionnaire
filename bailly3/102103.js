@@ -1,0 +1,1 @@
+lar[102103]=`<b>ὑπ·εκδέχομαι</b>, recevoir sous, <i>rég. ind. au dat</i>. ANTH. <i>9, 722</i>.`

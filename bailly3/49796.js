@@ -1,0 +1,1 @@
+lar[49796]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font><br><b>      1</b> égalité de suffrages, DH. <i>7, 64</i>.<br><b>      2</b> droit égal de voter, PLUT. <i>C. Gracch. 9</i>.<p><b>Étym</b>. ἰσόψηφος.`

@@ -1,0 +1,1 @@
+lar[1249]=`<b>ης, ες</b>, glanduleux, PLUT. <i>M. 664f</i>.<p><b>Étym</b>. ἀδήν, -ωδης.`

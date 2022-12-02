@@ -1,0 +1,1 @@
+lar[26315]=`<b>δι·ευθυμέομαι-οῦμαι</b> <font color="purple">[ῡ]</font> être rempli de joie, BAS. <i>3, 217d Migne</i>.`

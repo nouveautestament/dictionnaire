@@ -1,0 +1,1 @@
+lar[33824]=`<b>ατος (τὸ)</b> ce qui flotte à la surface d’un liquide, HPC. <i>Epid. 1, 982</i>.<p><b>Étym</b>. ἐναιωρέομαι.`

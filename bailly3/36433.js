@@ -1,0 +1,1 @@
+lar[36433]=`<b>εως (ἡ)</b> action de sentir, sensation, sentiment, EPIC. (DL. <i>10, 52).</i><p><b>Étym</b>. ἐπαισθάνομαι.`

@@ -1,0 +1,1 @@
+lar[38275]=`<b>ἐπι·λέπω</b>, peler, ôter l’écorce de, <i>acc</i>. HH. <i>Merc. 109 dout</i>.`

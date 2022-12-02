@@ -1,0 +1,1 @@
+lar[101428]=`<b>ὑγρ·όφθαλμος, ος, ον</b>, à l’œil humide <i>ou</i> sensuel, ARSTT. <i>P.A. 2, 2, 8 etc</i>.<p><b>Étym</b>. ὑ. ὀφθαλμός.`

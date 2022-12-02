@@ -1,0 +1,1 @@
+lar[22512]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Gordiānus, Gordien, <i>empereur romain,</i> HDN <i>7, 5, 2, etc</i>.`

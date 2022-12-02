@@ -1,0 +1,1 @@
+lar[69495]=`<b>ξενο·τροφία, ας (ἡ)</b> entretien de troupes étrangères, HYPÉR. (POLL. <i>3, 59).</i><p><b>Étym</b>. <i>cf</i>. ξενοτροφέω.`

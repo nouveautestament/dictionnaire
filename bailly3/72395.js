@@ -1,0 +1,1 @@
+lar[72395]=`<b>-αοῦν, ονοῦν</b> <font color="purple">[λᾰ]</font> en aussi grand nombre que possible, ARSTT. <i>Phys. 3, 42</i>.<p><b>Étym</b>. ὁπόσος, -πλάσιος, οὖν.`

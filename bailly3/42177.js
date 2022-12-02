@@ -1,0 +1,1 @@
+lar[42177]=`<b>οῦ (ὁ)</b> mise en ordre, bon arrangement, bonne disposition, DYSC. <i>Adv. 555, 3 ; Synt. 309, 12</i>.<p><b>Étym</b>. εὐθετίζω.`

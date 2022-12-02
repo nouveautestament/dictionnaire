@@ -1,0 +1,1 @@
+lar[108348]=`<b>ας (ἡ)</b> Khèmia, <i>n. de l’Égypte chez les Égyptiens,</i> PLUT. <i>Is. et Os. 33</i>.`

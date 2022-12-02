@@ -1,0 +1,1 @@
+lar[59540]=`<b>Λαιμο·κύκλωψ, οπος (ὁ)</b> Gosier-de-Cyclope, <i>n. de parasite,</i> ALCIPHR. <i>3, 51</i>.`

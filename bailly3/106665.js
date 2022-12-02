@@ -1,0 +1,1 @@
+lar[106665]=`<b>ῆς (ἡ)</b> pâturage, nourriture <i>des animaux, particul. des chevaux et des ânes,</i> IL. <i>5, 202 ; 11, 562 ; des oiseaux de proie,</i> SOPH. <i>Aj. 1068 ; p. ext. des hommes,</i> HDT. <i>1, 202, 211 ; 4, 121 ; 7, 50, 107, 119</i> ; SOPH. <i>Ph. 43, 162 ; fig</i>. ANTH. <i>5, 239, etc</i>.<p><b>Étym</b>. φέρβω.`

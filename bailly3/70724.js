@@ -1,0 +1,1 @@
+lar[70724]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> qui suinte, graisseux, <i>en parl. de la laine des animaux,</i> AR. <i>Ach. 1176</i> ; DIOSC. <i>2, 84</i> ; ARCHIG. (ORIB. <i>p. 31c</i>).<p><b>Étym</b>. οἰσύπη.`

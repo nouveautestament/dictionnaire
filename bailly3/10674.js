@@ -1,0 +1,1 @@
+lar[10674]=`<b>ἀντρο·χαρής, ής, ές</b> <font color="purple">[χᾰ]</font> qui se plaît dans les cavernes, ORPH. <i>H. 10 et 50</i>.<p><b>Étym</b>. ἄντρον, χαίρω.`

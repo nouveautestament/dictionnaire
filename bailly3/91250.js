@@ -1,0 +1,1 @@
+lar[91250]=`<b>σκυβελίτης οἶνος</b> <i>ou</i> <b>σκυβελλίτης οἶνος (ὁ)</b> <font color="purple">[ῑ]</font> jus qui coule naturellement de la grappe, ARÉT. <i>Cur. m. acut. 2, 9 ; Cur. m. diut. 1, 5, etc.</i> ; HSCH. (<i>v°</i> Κέσκος) <i>précise que ce « vin », souvent utilisé en médecine, tire son nom de</i> Σκύβελα, <i>une ville de Pamphylie</i>.`

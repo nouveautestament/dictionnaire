@@ -1,0 +1,1 @@
+lar[12424]=`<b>ατος (τὸ)</b> fragment <i>ou</i> débris détaché de, STR. <i>489, etc</i>.<p><b>Étym</b>. ἀποθραύω.`

@@ -1,0 +1,1 @@
+lar[95820]=`<b>συν·ευφημέω-ῶ :<br>      1</b> prononcer ensemble des paroles de bon augure, PLUT. <i>M. 272a.</i><br><b>      2</b> approuver <i>ou</i> louer avec, PHIL. <i>2, 58</i> ; M. TYR. <i>7, etc.</i><br><b>      3</b> employer un langage doux, agréable avec, <i>dat</i>. SEXT.`

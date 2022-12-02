@@ -1,0 +1,1 @@
+lar[49987]=`<b>έως</b>, <i>acc. épq</i>. <b>-ῆα (ὁ)</b> <font color="purple">[ῑῠ]</font> Itymonée, <i>h</i>. IL. <i>11, 672, etc</i>.`

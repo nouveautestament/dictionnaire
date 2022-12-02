@@ -1,0 +1,1 @@
+lar[85560]=`<b>προσ·ελώδης, ης, ες</b>, voisin d’un marais, ARSTT. <i>Probl. 23, 34, 1</i>.`

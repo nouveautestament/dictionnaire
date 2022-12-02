@@ -1,0 +1,1 @@
+lar[15312]=`<font color="darkgreen">(<i>seul. prés., impf</i>. ἠρτίαζον, <i>ao</i>. ἠρτίασα) :</font><br><b>      1</b> jouer à pair ou impair, AR. <i>Pl. 816</i> ; PLAT. <i>Lys. 206e.</i><br><b>      2</b> compter, ANTH. <i>12, 145</i>.<p><b>Étym</b>. ἄρτιος.`

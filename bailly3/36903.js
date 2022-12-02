@@ -1,0 +1,1 @@
+lar[36903]=`<b>ἐπ·εγγυάω-ῶ</b> (<i>inf. prés</i>.) donner une caution, LYS. <i>117, 35</i>.<p><b>Étym</b>. <i>loi</i>.`

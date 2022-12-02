@@ -1,0 +1,1 @@
+lar[98635]=`<b>τετραπλασι·επίπεμπτος, η, ον</b> <font color="purple">[ᾰᾰπῐ]</font> quatre fois un cinquième aussi fort, comme 21 : 5, NICOM. <i>Arithm. 1, 22</i>.`

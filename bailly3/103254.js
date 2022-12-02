@@ -1,0 +1,1 @@
+lar[103254]=`<b>ή, όν :<br>      1</b> qui fait <i>ou</i> qui concerne une supposition, hypothétique, ARR. <i>Epict. 1, 7, 22</i> ; SEXT. <i>p. 41, 43</i>.<br><b>      2</b> qui conseille, qui exhorte, MUSON. (STOB. <i>Fl. 117, 8</i>).<br><b>      3</b> qui concerne l’exposition d’un sujet, d’une pièce, POL. <i>Exc. p. 406</i>.<p><b>Étym</b>. ὑποτίθημι.`

@@ -1,0 +1,1 @@
+lar[15305]=`<b>ῆρος (ὁ) :<br>      1</b> sorte de chaussure, PHÉRÉCR.<br><b>      2</b> crochet de portefaix, SPT. <i>Neh. 4, 17</i>.<p><b>Étym</b>. αἴρω.`

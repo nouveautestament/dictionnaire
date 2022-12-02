@@ -1,0 +1,1 @@
+lar[31973]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ῡ]</font> suppuration, HPC. <i>Aph. 1259</i>.<p><b>Étym</b>. ἐκπυέω.`

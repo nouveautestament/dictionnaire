@@ -1,0 +1,1 @@
+lar[37464]=`<b>ἐπι·γλύφω</b> <font color="purple">[ῠ]</font> graver <i>ou</i> sculpter à la surface, SPT. <i>1Macc. 13, 29</i>.`

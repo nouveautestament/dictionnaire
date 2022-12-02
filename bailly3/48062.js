@@ -1,0 +1,1 @@
+lar[48062]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> loge du portier, VITR. <i>6, 7</i>.<p><b>Étym</b>. θυρωρός.`

@@ -1,0 +1,1 @@
+lar[91327]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> dépouille d’un ennemi tué, EUR. <i>El. 897, Rhes. 620</i> ; D. CHR. <i>Or. 64 ; d’ord. au pl</i>. SOPH. <i>Ph. 1428, 1431</i> ; EUR. <i>I.T. 74, etc.</i> ; THC. <i>4, 134 ; fig. au sg</i>. PLUT. <i>Mar. 9</i>.<p><b>Étym</b>. <i>probabl. de la</i> R. <i>de</i> σκύλλω <i>ou p.-ê. pré-grec</i>.`

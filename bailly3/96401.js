@@ -1,0 +1,1 @@
+lar[96401]=`<b>συν·υμνέω-ῶ</b>, chanter ensemble <i>ou</i> avec, <i>dat</i>. CLÉM. <i>92</i>.`

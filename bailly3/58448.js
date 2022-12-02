@@ -1,0 +1,1 @@
+lar[58448]=`<b>α, ον</b>, du Cydnus, ANTH. <i>App. 270</i>.<p><b>Étym</b>. Κύδνος.`

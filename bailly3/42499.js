@@ -1,0 +1,1 @@
+lar[42499]=`<b>ας (ἡ)</b> <font color="purple">[ᾱσ]</font><br><b>      1</b> température bien équilibrée, bonne température, PLAT. <i>Tim. 24c ;</i> POL. <i>34, 8, 4</i> ; DS. <i>1, 10 ; au plur</i>. TH. <i>C.P. 3, 21, 1</i>.<br><b>      2</b> <i>p. suite,</i> bon tempérament, ARSTT. <i>P.A. 3, 12, 4, etc</i>.<p><b>Étym</b>. εὔκρατος.`

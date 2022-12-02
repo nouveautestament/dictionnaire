@@ -1,0 +1,1 @@
+lar[67872]=`<b>Νέ·ανθος, ου (ὁ)</b> Néanthos, <i>fils de Pittakos,</i> LUC. <i>Ind. 12, 13</i>.<p><b>Étym</b>. νέος, ἄνθος ; <i>cf</i>. Νεάνθης.`

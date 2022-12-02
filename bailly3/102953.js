@@ -1,0 +1,1 @@
+lar[102953]=`<b>ὑπ·ηρέμα</b> <font color="purple">[ᾰ]</font> <i>adv</i>., doucement, légèrement, un peu, DP. <i>1122</i>.<p><b>Étym</b>. ὑ. ἠρέμα.`

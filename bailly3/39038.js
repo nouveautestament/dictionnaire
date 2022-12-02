@@ -1,0 +1,1 @@
+lar[39038]=`<b>ἐπι·σπαίρω</b>, palpiter, tressaillir, ἐπί <i>et le dat</i>. PLUT. <i>M. 327e</i>.`

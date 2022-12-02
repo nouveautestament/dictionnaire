@@ -1,0 +1,1 @@
+lar[28032]=`<b>ώων (οἱ)</b> les Drôes, <i>pple de Thrace,</i> THC. <i>2, 101</i>.`

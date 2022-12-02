@@ -1,0 +1,1 @@
+lar[38861]=`<b>ἐπι·ρραίνω :<br>      1</b> répandre un liquide sur : τινί, TH. <i>C.P. 2, 9, 15</i> ; THCR. <i>Idyl. 24, 96</i> ; ἐπί τι, ARSTT. <i>H.A. 6, 13, 5,</i> sur qqe ch.<br><b>      2</b> <i>p. ext</i>. répandre, <i>en gén.</i> : τί τινι, DH. <i>7, 72,</i> une chose sur une autre.<p><b>Étym</b>. ἐπί, ῥαίνω.`

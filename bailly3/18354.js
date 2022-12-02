@@ -1,0 +1,1 @@
+lar[18354]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐν]</font> <i>c</i>. ἀχαΐνη, A.RH. <i>4, 175</i> ; OPP. <i>C. 2, 426</i>.`

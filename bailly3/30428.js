@@ -1,0 +1,1 @@
+lar[30428]=`<b>Εἰλειθυίας πόλις (ἡ)</b> Eileithyia, <i>v. d’Égypte,</i> PLUT. <i>M. 380d</i>.`

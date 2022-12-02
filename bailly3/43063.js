@@ -1,0 +1,1 @@
+lar[43063]=`<b>εὔ·ποκος, ος, ον</b>, à la belle toison, ESCHL. <i>Ag. 1416</i>.<p><b>Étym</b>. εὖ, πόκος.`

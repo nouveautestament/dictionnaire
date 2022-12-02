@@ -1,0 +1,1 @@
+lar[13673]=`<b>εως (ἡ)</b> morsure, PHILOD. <i>V. Herc. pars 1, p. 46d</i>.<p><b>Étym</b>. ἀποτρώγω.`

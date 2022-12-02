@@ -1,0 +1,1 @@
+lar[29722]=`<b>ή, όν</b>, qui peut interrompre, qui interrompt, ATH. (ORIB. <i>3, 165, 3 B.-Dar</i>.).<p><b>Étym</b>. ἐγκόπτω.`

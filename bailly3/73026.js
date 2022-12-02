@@ -1,0 +1,1 @@
+lar[73026]=`<b>ου (τὸ)</b> <i>éol. et dor. c</i>. ἕρπετον, SAPPH. <i>fr. 40 Bgk</i> ; THCR. <i>Idyl. 29, 13</i>.`

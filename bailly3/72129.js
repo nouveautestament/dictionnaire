@@ -1,0 +1,1 @@
+lar[72129]=`<b>ὀξυ·μυρσίνη, ης (ἡ)</b> <font color="purple">[ξῠῐ]</font> myrte épineux, <i>arbuste,</i> DIOSC. <i>4, 146</i>.<p><b>Étym</b>. ὀ. μυρσίνη.`

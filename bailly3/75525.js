@@ -1,0 +1,1 @@
+lar[75525]=`<b>παρα·διοικέω-ῶ :<br>      1</b> gouverner avec un autre, PLUT. <i>M. 817d.</i><br><b>      2</b> mal administrer, SYN. <i>198d, etc</i>.`

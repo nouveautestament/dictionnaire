@@ -1,0 +1,1 @@
+lar[79730]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> πέρκη ANAXANDR. (<i>Com. fr. 3, 172</i>).`

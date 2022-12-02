@@ -1,0 +1,1 @@
+lar[875]=`<b>ης (ἡ)</b> rusticité, sauvagerie, ANTH. <i>6, 51</i>.<p><b>Étym</b>. ἀγρεῖος.`

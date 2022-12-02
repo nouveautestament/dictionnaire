@@ -1,0 +1,1 @@
+lar[14035]=`<b>ἀ·πτώς, ῶτος (ὁ, ἡ)</b> qui ne tombe pas ; <i>fig</i>. infaillible, PD. <i>O. 9, 92</i> ; PLAT. <i>Rsp. 534c ;</i> ANTH. <i>7, 375, etc.</i> ; PLUT. <i>Arist. c. Cat. ma. 2</i>.<p><b>Étym</b>. ἀ, πίπτω.`

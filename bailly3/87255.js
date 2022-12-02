@@ -1,0 +1,1 @@
+lar[87255]=`<b>πρωτο·στάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui se tient en avant <i>après le</i> λοχαγός <i>et l’</i>ἐπιστάτης, chef de file, THC. <i>5, 71</i> ; EL. TACT. <i>5, 1, 4 ; au plur</i>. soldats du premier rang, XÉN. <i>Cyr. 3, 3, 57 ; fig</i>. chef de parti, NT. <i>Ap. 24, 5</i>.<p><b>Étym</b>. πρ. ἵστημι.`

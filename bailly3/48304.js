@@ -1,0 +1,1 @@
+lar[48304]=`<b>ἰατρ·αλείπτης, ου (ὁ)</b> <font color="purple">[ῑᾱᾰ]</font> médecin qui traite par des frictions <i>ou</i> des onctions, PLIN. MIN. <i>Ep. 10, 4</i>.<p><b>Étym</b>. ἰατρός, ἀλείφω.`

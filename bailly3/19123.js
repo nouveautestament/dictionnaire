@@ -1,0 +1,1 @@
+lar[19123]=`<b>βαρυ·βρώς, ῶτος (ὁ, ἡ)</b> <font color="purple">[ᾰυ]</font> qui dévore cruellement, SOPH. <i>Ph. 691</i>.<p><b>Étym</b>. β. βιβρώσκω.`

@@ -1,0 +1,1 @@
+lar[35681]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en six parties, six fois, PLAT. <i>Tim. 36d</i>.<p><b>Étym</b>. ἕξ, -αχῃ.`

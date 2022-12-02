@@ -1,0 +1,1 @@
+lar[4579]=`<b>ης, ες</b> <font color="purple">[ᾰῐ]</font> funeste, PLAT. <i>Leg. 854b, etc.</i> ; τινί, PLAT. <i>Ep. 351e</i>, à qqn.<p><b>Étym</b>. ἀλιτήριος, -ωδης.`

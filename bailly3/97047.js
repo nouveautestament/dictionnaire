@@ -1,0 +1,1 @@
+lar[97047]=`<b>ου</b>, <i>adj. m</i>. raide comme un morceau de bois, CRAT. (PHOT. <i>p. 562, 15</i>) ; DICÉARQ. (CLÉM. <i>26).</i><p><b>Étym</b>. σχίζα.`

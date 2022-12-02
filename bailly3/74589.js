@@ -1,0 +1,1 @@
+lar[74589]=`<b>παλιν·ρύμη, ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> revers, POL. <i>15, 7, 1</i>.<p><b>Étym</b>. π. ῥέω.`

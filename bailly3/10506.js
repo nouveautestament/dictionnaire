@@ -1,0 +1,1 @@
+lar[10506]=`<b>ἀντί·τιμος, ος, ον</b> <font color="purple">[ῑμ]</font> de prix égal, équivalent à, <i>gén</i>. STOB.<p><b>Étym</b>. ἀ. τιμή.`

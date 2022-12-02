@@ -1,0 +1,1 @@
+lar[75444]=`<b>παρ·αγκιστρόω-ῶ</b>, garnir d’un crochet, DS. <i>1, 43</i> ; PLUT. <i>M. 631d</i>.`

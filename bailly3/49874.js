@@ -1,0 +1,1 @@
+lar[49874]=`<b>ἰσχαδο·πώλης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand de figues sèches, PHÉRÉCR. (POLL. <i>7, 198</i>) ; NICOPH. (ATH. <i>126e</i>).<p><b>Étym</b>. ἰσχάς, πωλέω.`

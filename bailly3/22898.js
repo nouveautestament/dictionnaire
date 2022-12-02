@@ -1,0 +1,1 @@
+lar[22898]=`<b>ή, όν</b>, de forme angulaire, P. ÉG. <i>348 Briau</i>.<p><b>Étym</b>. <i>vb. de</i> γωνιόω.`

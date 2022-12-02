@@ -1,0 +1,1 @@
+lar[6399]=`<b>ἀμφί·τορνος, ος, ον</b>, arrondi tout autour, EUR. <i>Tr. 1156</i>.<p><b>Étym</b>. ἀ. τόρνος.`

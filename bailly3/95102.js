@@ -1,0 +1,1 @@
+lar[95102]=`<b>συν·δίαιτος, ος, ον</b>, qui vit avec un autre, A. LIB. <i>30, 4 ; avec le dat</i>. HIÉROCL. (STOB. <i>Fl. 79, 53).</i><p><b>Étym</b>. σ. δίαιτα.`

@@ -1,0 +1,1 @@
+lar[43603]=`<b>ου (ὁ)</b> Eutolmios, <i>poète de l’Anthologie,</i> ANTH. <i>6, 86 ; 9, 587</i>.<p><b>Étym</b>. εὔτολμος.`

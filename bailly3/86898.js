@@ -1,0 +1,1 @@
+lar[86898]=`<b>εως (ἡ)</b> <font color="purple">[τῠ]</font> esquisse faite auparavant, ORIG. <i>3, 534</i>.<p><b>Étym</b>. προϋποτυπόω.`

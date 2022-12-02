@@ -1,0 +1,1 @@
+lar[58427]=`(<i>seul. prés</i>.) <font color="purple">[ῠ]</font> injurier, insulter, <i>acc</i>. SOPH. <i>Aj. 722</i>.<br><b><i>Moy.</i></b> <i>m. sign. acc</i>. A.RH. <font color="darkgreen">(<i>ao. 2 sg</i>. ἐκυδάσσαο)</font> <i>1, 1337 ; dat</i>. ESCHL. <i>fr. 86</i> ; EPICH. (ATH. <i>236a</i>).<p><b>Étym</b>. <i>probabl. pré-grec</i>.`

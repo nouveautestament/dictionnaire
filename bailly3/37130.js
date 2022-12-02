@@ -1,0 +1,1 @@
+lar[37130]=`<b>εως (ἡ)</b> exposition <i>ou</i> explication détaillée, CORN. <i>31</i> ; RHÉT. <i>8, 500 W.</i> ; ARISTOB. (CLÉM. <i>1, 893 Migne</i>.<p><b>Étym</b>. ἐπεξηγέομαι.`

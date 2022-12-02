@@ -1,0 +1,1 @@
+lar[101868]=`<font color="purple">[ῠᾰ]</font> <i>vb. de</i> ὑπαγορεύω, THÉON <i>Prog. 71, 3</i>.`

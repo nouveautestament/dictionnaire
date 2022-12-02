@@ -1,0 +1,1 @@
+lar[76007]=`<b>παρα·νύσσω</b>, <i>att</i>. <b>παρα·νύττω</b>, piquer de côté, LUC. <i>Philopatr. 22</i>.`

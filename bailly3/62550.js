@@ -1,0 +1,1 @@
+lar[62550]=`<b>μακρο·πτόλεμος, ος, ον</b>, qui fait la guerre au loin <i>ou</i> qui fait une longue guerre, <i>avec jeu de mots sur</i> Τηλέμαχος, ANTH. <i>15, 21</i>.`

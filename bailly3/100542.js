@@ -1,0 +1,1 @@
+lar[100542]=`<b>η, ον</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. τρίτος, IL. <i>1, 252 ; 14, 117, etc.</i> ; EUR. <i>Hipp. 135</i> ; A.RH. <i>1, 53, 163</i>.`

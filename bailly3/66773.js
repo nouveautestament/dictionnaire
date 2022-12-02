@@ -1,0 +1,1 @@
+lar[66773]=`<b>μορφο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se montre sous une forme sensible, ANTH. <i>1, 88</i>.<p><b>Étym</b>. μ. φαίνω.`

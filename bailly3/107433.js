@@ -1,0 +1,1 @@
+lar[107433]=`<b>ιγγος (ὁ)</b> sorte de fifre, ATH. <i>175e, 182d</i>.<p>➳ ἡ φ. PLUT. <i>M. 961e</i>.`

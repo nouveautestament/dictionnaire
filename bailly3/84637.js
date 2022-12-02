@@ -1,0 +1,1 @@
+lar[84637]=`<b>πρό·λαλος, ος, ον</b> <font color="purple">[ᾰ]</font> prompt à parler, qui parle sans réflexion, EL. (SUID.) ; MAN. <i>5, 337</i>.<p><b>Étym</b>. π. λαλέω.`

@@ -1,0 +1,1 @@
+lar[25358]=`<b>α, ον</b>, praticable, ISOCR. <i>419c</i>.<p><b>Étym</b>. <i>vb. de</i> διαπράσσω.`

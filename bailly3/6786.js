@@ -1,0 +1,1 @@
+lar[6786]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. ἀναθέρμανσις ORIB. <i>Coll. 6, 10</i>.`

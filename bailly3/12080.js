@@ -1,0 +1,1 @@
+lar[12080]=`<b>ἁπλοτομέω-ῶ</b>, faire une incision simple, ANTYLL. (ORIB. <i>3, 570 B.-Dar</i>.) ; P. ÉG. <i>170 Briau</i>.<p><b>Étym</b>. ἁπλόος, τέμνω.`

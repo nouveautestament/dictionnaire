@@ -1,0 +1,1 @@
+lar[65540]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>s.-e</i>. γῆ, la terre natale, PLAT. <i>Rsp. 575d ;</i> PLUT. <i>M. 792e</i>.<p><b>Étym</b>. μήτηρ.`

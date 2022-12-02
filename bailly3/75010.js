@@ -1,0 +1,1 @@
+lar[75010]=`<b>παν·ευέφοδος, ος, ον</b> <font color="purple">[ᾰ]</font> d’un accès tout à fait facile, POL. <i>4, 56, 6</i>.<p><b>Étym</b>. π. εὐέφοδος.`

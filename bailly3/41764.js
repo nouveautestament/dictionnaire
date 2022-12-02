@@ -1,0 +1,1 @@
+lar[41764]=`<b>εὐ·γεφύρωτος, ος, ον</b> <font color="purple">[ῡ]</font> où l’on peut facilement jeter un pont, POL. <i>3, 66, 5</i>.<p><b>Étym</b>. εὖ, γεφυρόω.`

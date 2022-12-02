@@ -1,0 +1,1 @@
+lar[93498]=`<b>σύγ·κολλος</b>, <i>anc. att</i>. <b>ξύγ·κολλος, ος, ον</b>, collé ensemble, NIC. <i>fr. 9 ; d’où fig</i>. qui s’accorde <i>ou</i> se rapporte exactement, <i>au plur. neutre adv</i>. SOPH. <i>fr. 746 Dind</i>.<p><b>Étym</b>. σ. κόλλα.`

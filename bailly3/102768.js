@@ -1,0 +1,1 @@
+lar[102768]=`<b>ὑπερ·πλούσιος, ος, ον</b>, excessivement <i>ou</i> extrêmement riche, ARSTT. <i>Pol. 4, 11, 5</i>.`

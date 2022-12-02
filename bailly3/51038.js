@@ -1,0 +1,1 @@
+lar[51038]=`<b>Καλὴ ἀκτή (ἡ)</b> le Beau rivage, <i>région sur la côte de Sicile,</i> HDT. <i>6, 22</i>.`

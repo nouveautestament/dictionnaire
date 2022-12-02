@@ -1,0 +1,1 @@
+lar[39737]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> vase pour verser à boire, sorte d’entonnoir, SYMM. <i>Zach. 4, 2</i>.<p><b>Étym</b>. ἐπιχέω.`

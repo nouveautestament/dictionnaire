@@ -1,0 +1,1 @@
+lar[53586]=`<b>κατα·τρώγω</b> <font color="darkgreen">(<i>f</i>. -τρώξομαι, <i>ao.2</i> κατέτραγον)</font> dévorer, manger, <i>acc</i>. CRAT. (ATH. <i>385b</i>) ; AR. <i>Ach. 809</i> ; EL. <i>N.A. 17, 17, etc. ; gén</i>. PLUT. <i>Artax. 3, M. 138d</i>.<p>➳ <i>Ao.1</i> κατέτρωξα, TIMON <i>fr. 7</i>.`

@@ -1,0 +1,1 @@
+lar[51023]=`<b>ας (ἡ)</b> Calvia, <i>f</i>. PLUT. <i>Mul. virt. 19</i>.`

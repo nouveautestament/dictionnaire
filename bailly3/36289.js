@@ -1,0 +1,1 @@
+lar[36289]=`<b>ἐξ·υφηγέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> marcher en avant, précéder, SOPH. <i>O.C. 1025</i>.`

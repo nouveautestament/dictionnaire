@@ -1,0 +1,1 @@
+lar[96560]=`<b>ου (τὸ)</b> = <i>lat</i>. Surrentum, Sorrente (<i>auj</i>. Sorrento) <i>v. de Campanie,</i> ANTH. <i>11, 27</i>.`

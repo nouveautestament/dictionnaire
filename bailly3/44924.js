@@ -1,0 +1,1 @@
+lar[44924]=`<b>Ἡγήσ·ιππος, ου (ὁ)</b> Hègèsippos (Hégésippe) :<br><b>      1</b> <i>orateur,</i> ESCHN. <i>1, 64 Baiter-Sauppe, etc.</i><br><b>      2</b> <i>poète comique,</i> ATH. <i>279d, etc</i>.<p><b>Étym</b>. ἡγέομαι, ἵππος.`

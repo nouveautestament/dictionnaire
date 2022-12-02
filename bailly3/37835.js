@@ -1,0 +1,1 @@
+lar[37835]=`<b>ἐπι·θύμημα, ατος (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> objet d’un désir, XÉN. <i>Hier. 4, 7</i>.<br><b>      2</b> désir, HPC. <i>2, 44</i> ; PLAT. <i>Leg. 687c, 782a ;</i> PLUT. <i>M. 1117b</i>.<p><b>Étym</b>. ἐπιθυμέω.`

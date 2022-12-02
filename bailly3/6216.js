@@ -1,0 +1,1 @@
+lar[6216]=`<b>ονος (ὁ)</b> Amphiktyon, <i>fils de Deucalion et de Pyrrha,</i> HDT. <i>7, 200</i>.`

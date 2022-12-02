@@ -1,0 +1,1 @@
+lar[15564]=`<b>ἀρχηγετέω-ῶ</b>, commencer : ἀπό τινος, SOPH. <i>El. 83,</i> par qqe ch.<p><b>Étym</b>. ἀρχηγέτης.`

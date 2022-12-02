@@ -1,0 +1,1 @@
+lar[28691]=`<b>ας (ἡ)</b> malveillance, hostilité, SOPH. <i>El. 654</i> ; EUR. <i>Hec. 973</i> ; PLAT. <i>Theæt. 151d ;</i> PLUT. <i>Demetr. 3</i>.<p><b>Étym</b>. δύσνοος.`

@@ -1,0 +1,1 @@
+lar[46961]=`<b>θερμο·ποιός, ός, όν</b>, qui échauffe, OLYMPIOD. <i>Arstt. Meteor. p. 39</i>.<p><b>Étym</b>. θ. ποιέω.`

@@ -1,0 +1,1 @@
+lar[94517]=`<b>σύμ·ψυχος, ος, ον</b> <font color="purple">[ψῡ]</font> uni de sentiments, NT. <i>Phil. 2, 2</i>.<p><b>Étym</b>. σ. ψυχή.`

@@ -1,0 +1,1 @@
+lar[67233]=`<b>α, ον</b> <font color="purple">[ῠῑῐ]</font> <i>c</i>. μυρίκινος ANTH. <i>6, 298</i>.`

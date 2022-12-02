@@ -1,0 +1,1 @@
+lar[71026]=`<b>ὀλιγό·λογος, ος, ον</b> <font color="purple">[ῐ]</font> qui parle peu, MARIN. <i>V. Procl. p. 133</i>.<p><b>Étym</b>. ὀλ. λέγω.`

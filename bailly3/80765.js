@@ -1,0 +1,1 @@
+lar[80765]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> élargissement, expansion, ARSTT. <i>Plant. 2, 3, 11</i>.<p><b>Étym</b>. πλατύνω.`

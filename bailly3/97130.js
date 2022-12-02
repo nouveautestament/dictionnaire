@@ -1,0 +1,1 @@
+lar[97130]=`<i>acc</i>. <b>-ιν (ὁ)</b> Sônkhis, <i>Égyptien,</i> PLUT. <i>Sol. 26</i>.`

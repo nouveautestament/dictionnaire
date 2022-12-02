@@ -1,0 +1,1 @@
+lar[81982]=`<b>πολυ·κηδής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>pass</i>. qui éprouve une grande affliction, A.RH. <i>1, 16 ; 4, 734</i>.<br><b>      2</b> <i>act</i>. qui cause une grande affliction, OD. <i>9, 37 ; 23, 351</i>.<p><b>Étym</b>. π. κῆδος.`

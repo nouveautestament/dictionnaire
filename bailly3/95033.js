@@ -1,0 +1,1 @@
+lar[95033]=`<b>συν·αφικνέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> arriver avec <i>ou</i> ensemble, DL. <i>10, 47</i>.`

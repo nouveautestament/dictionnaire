@@ -1,0 +1,1 @@
+lar[47323]=`<b>θηρό·πεπλος, ος, ον</b>, enveloppé <i>ou</i> qui s’enveloppe d’une peau de bête, ORPH. <i>H. 68, 7</i> ; TIMON (ATH. <i>163b</i>).<p><b>Étym</b>. θ. πέπλος.`

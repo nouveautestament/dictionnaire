@@ -1,0 +1,1 @@
+lar[104317]=`<b>ας (ἡ)</b> interversion de l’ordre naturel des idées, <i>t. de rhét</i>. RHÉT. <i>8, 818 W</i>.<p><b>Étym</b>. ὑστερολόγος.`

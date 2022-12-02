@@ -1,0 +1,1 @@
+lar[84614]=`<b>προ·κυδάνω</b> <font color="purple">[ῡ]</font> glorifier, ORPH. <i>Arg. 1223 conj</i>.`

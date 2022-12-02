@@ -1,0 +1,1 @@
+lar[36004]=`<b>ἐξ·ινάω</b> <font color="purple">[ῑ]</font> (<i>seul. prés</i>.) épuiser, faire périr, LYC. <i>841</i>.<p><b>Étym</b>. ἐξ, ἴς.`

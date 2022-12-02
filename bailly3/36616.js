@@ -1,0 +1,1 @@
+lar[36616]=`<b>ἐπ·αναλέγω</b>, redire, répéter, ALEXANDR.<p><b>Étym</b>. <i>W. 8, p. 445</i>.`

@@ -1,0 +1,1 @@
+lar[21314]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) avoir envie de se marier, ALCIPHR. <i>1, 13</i>.<p><b>Étym</b>. γαμέω.`

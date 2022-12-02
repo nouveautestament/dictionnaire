@@ -1,0 +1,1 @@
+lar[104451]=`<b>ὑψηλο·λόγος, ος, ον</b>, qui a le verbe haut, fier <i>ou</i> présomptueux, THÉM. <i>26d, 262a</i>.<p><b>Étym</b>. ὑψηλός, λέγω.`

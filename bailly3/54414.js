@@ -1,0 +1,1 @@
+lar[54414]=`<b>κεβλή·πυρις, εως (ἡ)</b> <font color="purple">[ῠ]</font> oiseau à tête rouge comme le feu, AR. <i>Av. 303</i>.<p><b>Étym</b>. κεβλή, πῦρ.`

@@ -1,0 +1,1 @@
+lar[86972]=`<b>ή, όν</b>, produit au dehors par la parole, verbal, <i>p. opp. à</i> λόγος ἐνδιάθετος, PLUT. <i>M. 777c, 973a ;</i> PHIL. <i>2, 154</i> ; CLÉM. <i>864, etc</i>.<p><b>Étym</b>. προφορά.`

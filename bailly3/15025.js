@@ -1,0 +1,1 @@
+lar[15025]=`<b>έως (ὁ)</b> <font color="purple">[ᾰγ]</font> <i>c</i>. ἅρπαξ, THÉM. <i>247a</i>.`

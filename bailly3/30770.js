@@ -1,0 +1,1 @@
+lar[30770]=`<b>εἰσ·ηχέω-ῶ</b>, faire un bruit sonore (<i>cf. lat</i>. insono) NYSS. <i>1, 516c Migne</i>.`

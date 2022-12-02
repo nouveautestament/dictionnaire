@@ -1,0 +1,1 @@
+lar[65094]=`<b>μετ·εμπολάω-ῶ</b>, revendre, JOS. <i>Testam. 43</i>.`

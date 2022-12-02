@@ -1,0 +1,1 @@
+lar[55609]=`<b>άδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. fille de Kissée, NONN. <i>D. 43, 63</i>.<p><b>Étym</b>. Κισσεύς.`

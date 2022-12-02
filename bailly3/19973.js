@@ -1,0 +1,1 @@
+lar[19973]=`<b>βλιτο·μάμμας</b> <i>ou</i> <b>βλιτο·μάμας, ου (ὁ)</b> <i>litt</i>. qui tète encore sa mère, <i>d’où</i> grand sot, grand niais, AR. <i>Nub. 1001</i>.<p><b>Étym</b>. βλίττω, μάμμη.`

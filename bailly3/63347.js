@@ -1,0 +1,1 @@
+lar[63347]=`<b>μεγαλο·γραφέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> écrire par un ôméga, <i>p. opp. à</i> μικρογραφέω, HDN GR. <i>Epim. pp. 193, 200 Boissonade, etc</i>.<p><b>Étym</b>. μ. -γραφος <i>de</i> γράφω.`

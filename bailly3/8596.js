@@ -1,0 +1,1 @@
+lar[8596]=`<b>ἀν·έτυμος, ος, ον</b> <font color="purple">[ῠ]</font> sans étymologie, SEXT. <i>M. 1, 245</i>.<p><b>Étym</b>. ἀν-, ἔτυμον.`

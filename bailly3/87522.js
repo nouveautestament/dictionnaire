@@ -1,0 +1,1 @@
+lar[87522]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> chaton de bague, AR. <i>fr. 297</i> ; LYS. (HARP.).<br><b>      2</b> douille, APD. POL.`

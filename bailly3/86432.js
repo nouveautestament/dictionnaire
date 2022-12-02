@@ -1,0 +1,1 @@
+lar[86432]=`<b>προσ·σφίγγω</b>, attacher étroitement à, GAL.`

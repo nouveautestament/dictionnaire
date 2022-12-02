@@ -1,0 +1,1 @@
+lar[70373]=`<b>ου (ὁ)</b> fils d’Œklès, ESCHL. <i>Sept. 382</i>.<p>➳ <i>Dor</i>. Ὀϊκλείδας, PD. <i>O. 6, 13, etc</i>.<p><b>Étym</b>. Οἰκλῆς.`

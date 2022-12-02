@@ -1,0 +1,1 @@
+lar[25640]=`<b>ος, ον</b>, qui est de travers, contrefait, <i>en parl. du corps,</i> ESCHL. <i>Pr. 673</i> ; LUC. <i>Ind. 7 ; des yeux,</i> qui a les yeux de travers, ATH. <i>339f ; ou</i> hagards, SOPH. <i>Aj. 447 ; ou</i> rendus hagards par la souffrance, SOPH. <i>Tr. 794 ; fig. en parl. de l’esprit,</i> ESCHL. <i>Pr. 673</i>.<p><b>Étym</b>. διαστρέφω.`

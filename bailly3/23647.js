@@ -1,0 +1,1 @@
+lar[23647]=`<b>δεκάδ·αρχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> décurion, commandant de dix hommes, XÉN. <i>Cyr. 4, 2, 13 ; 8, 1, 14, etc.</i><br><b>      2</b> <i>à Rome,</i> décemvir, DH. <i>10, 60</i>.<p><b>Étym</b>. δεκάς, ἄρχω.`

@@ -1,0 +1,1 @@
+lar[82096]=`<b>πολυ·μελής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> à plusieurs membres, PLAT. <i>Phædr. 238a.</i><br><b>      2</b> à plusieurs tons, varié, <i>en parl. d’un chant,</i> ALCM. <i>1</i>.<p>➳ <i>Voc. poét</i>. πολυμμελές, ALCM. <i>l. c</i>.<p><b>Étym</b>. π. μέλος.`

@@ -1,0 +1,1 @@
+lar[107441]=`<b>φωτο·φόρος, ος, ον</b>, qui apporte la lumière, lumineux, CHRYS. <i>Hom. 85, t. 5, p. 590, 32</i>.<p><b>Étym</b>. φῶς, φέρω.`

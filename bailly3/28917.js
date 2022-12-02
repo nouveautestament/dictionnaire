@@ -1,0 +1,1 @@
+lar[28917]=`<b>δύσ·τηκτος, ος, ον</b>, qui fond difficilement, HPC. <i>383, 16 au cp</i>. -ότερος.<p><b>Étym</b>. δ. τήκω.`

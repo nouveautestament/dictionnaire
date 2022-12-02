@@ -1,0 +1,1 @@
+lar[108578]=`<b>χλιερο·θαλπής, ής, ές</b>, d’une douce chaleur, PHILOX. <i>fr. 2, 40 Bgk conj</i>.<p><b>Étym</b>. χλιερός, θάλπω.`

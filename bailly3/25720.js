@@ -1,0 +1,1 @@
+lar[25720]=`<b>δια·τελής, ής, ές</b>, qui dure continuellement, <i>d’où</i> :<br><b>      1</b> qui se répète sans cesse, continuel, incessant : βρονταὶ δ. SOPH. <i>O.C. 1514,</i> coups de tonnerre incessants.<br><b>      2</b> permanent : δ. ὕδωρ, EL. <i>V.H. 3, 1,</i> eau qui ne tarit pas, eau de source ; τυραννίδες δ. PLAT. <i>Rsp. 618a</i>, royautés absolues permanentes.`

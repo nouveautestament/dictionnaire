@@ -1,0 +1,1 @@
+lar[24337]=`<b>ῶν (οἱ)</b> les Dèmophontides <i>ou</i> descendants de Dèmophôn, PLUT. <i>M. 643a</i>.<p><b>Étym</b>. Δημοφῶν.`

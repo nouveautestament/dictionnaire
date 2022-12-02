@@ -1,0 +1,1 @@
+lar[99209]=`<b>ου (ὁ)</b> <font color="purple">[τῑ]</font> Timènoridès, <i>h</i>. SIM. (ANTH. <i>7, 513).</i><p><b>Étym</b>. <i>patr. de</i> *Τιμήνωρ, <i>de</i> τιμάω, ἀνήρ.`

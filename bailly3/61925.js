@@ -1,0 +1,1 @@
+lar[61925]=`<b>λύκ·οψις, εως (ἡ)</b> <font color="purple">[ῠ]</font> lycopsis <i>ou p.-ê. autre n. de la plante</i> ἄγχουσα, <i>sorte de plante,</i> GAL. <i>13, 149</i> ; DIOSC. <i>4, 26</i>.<p><b>Étym</b>. λύκος, ὄψομαι.`

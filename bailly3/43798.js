@@ -1,0 +1,1 @@
+lar[43798]=`<b>εὐ·χείμερος, ος, ον :<br>      1</b> où l’on passe aisément l’hiver, ARSTT. <i>Pol. 7, 11, 2</i>.<br><b>      2</b> qui supporte bien le froid, ARSTT. <i>H.A. 8, 10</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>H.A. 8, 10</i>.<p><b>Étym</b>. εὖ, χεῖμα.`

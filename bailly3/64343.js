@@ -1,0 +1,1 @@
+lar[64343]=`<b>μενο·εικής, ής, ές :<br>      1</b> qui plaît à l’esprit, qui réjouit le cœur, agréable ; IL. <i>19, 144</i>.<br><b>      2</b> <i>p. suite,</i> abondant (<i>repas,</i> IL. <i>9, 227</i> ; OD. <i>6, 76 ; chasse,</i> OD. <i>9, 158, etc</i>.).<p><b>Étym</b>. <i>p</i>. *μενοϝεικής, <i>de</i> μένος, *εἴκω².`

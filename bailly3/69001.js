@@ -1,0 +1,1 @@
+lar[69001]=`<b>νοσο·κόμος, ος, ον</b>, qui soigne un malade, POLL. <i>3, 12</i>.<p>➳ <i>Ion</i>. νουσοκόμος, NONN. <i>Jo. 5, 21 et 55</i>.<p><b>Étym</b>. νόσος, κομέω.`

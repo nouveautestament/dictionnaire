@@ -1,0 +1,1 @@
+lar[46151]=`<b>ίδος (ἡ)</b> <font color="purple">[θᾰ]</font> Thalassis, <i>f</i>. HYPÉR. (ATH. <i>586b</i>).<p><b>Étym</b>. θάλασσα.`

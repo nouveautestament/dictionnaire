@@ -1,0 +1,1 @@
+lar[10045]=`<b>οῦ (ὁ)</b> calcul en sens contraire, compensation, PHILSTR. <i>549</i>.<p><b>Étym</b>. ἀντιλογίζομαι.`

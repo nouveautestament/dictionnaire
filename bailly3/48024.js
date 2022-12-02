@@ -1,0 +1,1 @@
+lar[48024]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐδ]</font> <i>c</i>. θύριον, AR. <i>Nub. 93 vulg</i>.`

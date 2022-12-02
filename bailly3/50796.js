@@ -1,0 +1,1 @@
+lar[50796]=`<b>κακο·νύμφιος, ος, ον</b> <font color="purple">[ᾰ]</font> propre à un mauvais époux <i>ou</i> à une mauvaise épouse, NONN. <i>D. 3, 308</i>.<p><b>Étym</b>. κ. νύμφη.`

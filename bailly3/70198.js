@@ -1,0 +1,1 @@
+lar[70198]=`<b>ὀζό·στομος, ος, ον</b>, dont la bouche sent mauvais, ANTH. <i>11, 427</i> ; M. ANT. <i>5, 28</i>.<p><b>Étym</b>. ὄζω, στόμα.`

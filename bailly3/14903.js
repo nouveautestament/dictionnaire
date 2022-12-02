@@ -1,0 +1,1 @@
+lar[14903]=`<i>adv</i>., avec de justes proportions, convenablement, PLUT. <i>Arist. 24</i>.<p>•<i> Sup</i>. -ώτατα, AR. <i>Nub. arg</i>.<p><b>Étym</b>. ἁρμόδιος.`

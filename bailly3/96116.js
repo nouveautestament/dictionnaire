@@ -1,0 +1,1 @@
+lar[96116]=`<b>εως (ἡ) :<br>      1</b> <i>t. d’astrol</i>. combinaison, PTOL. <i>Tetr. 1, p. 50</i>.<br><b>      2</b> <i>t. de rhét</i>. rapprochement d’idées en apparence éloignées, ARSTT. <i>Rhet. Al. 4, 1</i> ; R. LUP. <i>2, 9</i> ; QUINT. <i>9, 3, 64</i>.<p><b>Étym</b>. συνοικειόω.`

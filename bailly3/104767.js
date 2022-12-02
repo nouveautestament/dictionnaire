@@ -1,0 +1,1 @@
+lar[104767]=`<b>ου (ὁ)</b> Phalinos, <i>h</i>. XÉN. <i>An. 2, 1, 7, etc</i>.`

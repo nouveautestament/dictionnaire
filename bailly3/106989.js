@@ -1,0 +1,1 @@
+lar[106989]=`<b>ας (ἡ)</b> signaux donnés au moyen de feux nocturnes, ESCHL. <i>Ag. 33, 490</i> ; SOPH. <i>fr. 379, 5</i> ; EUR. <i>Rhes. 55</i> ; AR. <i>Av. 1161</i> ; THC. <i>3, 22</i>.<p><b>Étym</b>. φρυκτωρός.`

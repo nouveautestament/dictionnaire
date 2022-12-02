@@ -1,0 +1,1 @@
+lar[88964]=`<b>ορος (ὁ)</b> <font color="purple">[ῡ]</font> tireur d’arc, de flèches, AR. <i>Th. 108</i>.<p><b>Étym</b>. ἐρύω.`

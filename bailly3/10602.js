@@ -1,0 +1,1 @@
+lar[10602]=`<b>ἀντί·χορδος, ος, ον</b>, dont le son répond à, <i>fig</i>. PLUT. <i>M. 663f</i>.<p><b>Étym</b>. ἀ. χορδή.`

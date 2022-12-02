@@ -1,0 +1,1 @@
+lar[82707]=`<b>ποντο·μέδων, οντος (ὁ)</b> roi de la mer, <i>en parl. de Poséidon,</i> PD. <i>O. 6, 176</i> ; ESCHL. <i>Sept. 131</i> ; EUR. <i>Hipp. 744</i> ; AR. <i>Vesp. 1532 ; en parl. de Priape,</i> ANTH. <i>10, 16</i>.<p>➳ <i>Voc</i>. ποντόμεδον, PD. <i>l. c. ; ou</i> ποντομέδων, ORPH. <i>H. 17, 4</i>.<p><b>Étym</b>. π. μέδω.`

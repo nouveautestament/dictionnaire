@@ -1,0 +1,1 @@
+lar[33172]=`<b>ἐμβρυο·τομέω-ῶ</b>, pratiquer une incision pour extraire un fœtus, PROCL. <i>Ptol. 214</i>.<p><b>Étym</b>. ἔ., -τομος <i>de</i> τέμνω.`

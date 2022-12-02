@@ -1,0 +1,1 @@
+lar[93491]=`<b>συγ·κοινωνός, ός, όν</b>, qui participe à, <i>gén</i>. NT. <i>Rom. 11, 17 ; 1Cor. 9, 23 ; avec</i> ἐν <i>et le dat</i>. NT. <i>Apoc. 1, 9</i>.`

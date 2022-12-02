@@ -1,0 +1,1 @@
+lar[1650]=`<b>ἀεί·δουλος, ος, ον</b>, toujours esclave, EL. <i>N.A. 6, 10 dout</i>.<p><b>Étym</b>. ἀ. δοῦλος.`

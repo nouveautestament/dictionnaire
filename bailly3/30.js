@@ -1,0 +1,1 @@
+lar[30]=`<b>ἀ·βαθής, ής, ές</b> <font color="purple">[βᾰ]</font> <font color="brown">sans profondeur</font>, ARR. <i>Tact. 5, 6 ; fig</i>. SEXT. <i>M. p. 475, 5 Bkk</i>.<p><b>Étym</b>. ἀ, βάθος.`

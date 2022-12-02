@@ -1,0 +1,1 @@
+lar[18566]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui ne donne que de la paille, <i>càd</i>. stérile, ARAT. <i>1098</i>.<p><b>Étym</b>. ἀχυρμός.`

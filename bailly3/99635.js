@@ -1,0 +1,1 @@
+lar[99635]=`<b>ου (ὁ)</b> habitant d’un lieu, E. BYZ.<p><b>Étym</b>. τόπος.`

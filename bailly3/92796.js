@@ -1,0 +1,1 @@
+lar[92796]=`<font color="darkgreen">(<i>f</i>. ιῶ) :</font><br><b>      1</b> exprimer goutte à goutte, DIOSC. <i>1, 32</i> ; SPT. <i>Lev. 1, 15</i>.<br><b>      2</b> pressurer (un fruit) de façon à faire tomber le jus goutte à goutte, <i>acc</i>. GEOP. <i>9, 32</i>.<p><b>Étym</b>. στράγξ.`

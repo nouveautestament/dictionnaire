@@ -1,0 +1,1 @@
+lar[110209]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> vitesse, agilité, promptitude, PD. <i>P. 11, 75</i> ; EUR. <i>Bacch. 1090</i> ; PLAT. <i>Ax. 364c ;</i> ARR. <i>An. 1, 1, 17 ; Tact. 44, etc</i>.<p><b>Étym</b>. ὠκύς.`

@@ -1,0 +1,1 @@
+lar[66480]=`<b>ου (τὸ)</b> instrument dont on joue en solo, POSIDON. (ATH. <i>176c</i>).<p><b>Étym</b>. μόναυλος.`

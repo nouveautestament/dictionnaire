@@ -1,0 +1,1 @@
+lar[25698]=`<b>ή, όν</b>, qui laisse distinguer, distinctif, SEXT. <i>M. 1, 45</i> ; PTOL. <i>Tetr. 82</i>.<p><b>Étym</b>. διατάσσω.`

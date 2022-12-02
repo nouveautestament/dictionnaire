@@ -1,0 +1,1 @@
+lar[7612]=`<b>ἀνά·σιμος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> au nez retroussé, camus, AR. <i>Eccl. 940</i>.<br><b>      2</b> retroussé, <i>en gén</i>. ARSTT. <i>H.A. 2, 5, etc</i>.<p><b>Étym</b>. ἀνά, σιμός.`

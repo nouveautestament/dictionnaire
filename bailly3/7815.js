@@ -1,0 +1,1 @@
+lar[7815]=`<b>ων (τὰ)</b> Anaues, <i>v. de Phrygie,</i> HDT. <i>7, 30</i>.`

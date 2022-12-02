@@ -1,0 +1,1 @@
+lar[94170]=`<font color="purple">[μᾰ]</font> <i>adv</i>., en forme de conclusion, ARSTT. <i>Rhet. 2, 24, 2</i>.`

@@ -1,0 +1,1 @@
+lar[88091]=`dresser de jeunes chevaux, XÉN. <i>Eq. 2, 1, ou en gén</i>. de jeunes animaux, EL. <i>N.A. 13, 8, etc</i>.<p><b>Étym</b>. πῶλος.`

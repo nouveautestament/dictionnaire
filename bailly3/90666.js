@@ -1,0 +1,1 @@
+lar[90666]=`<b>ή, όν</b>, creusé, fouillé ; <i>seul. dans</i> Σκαπτὴ ὕλη, HDT. <i>6, 46</i> ; TH. <i>Lap. 17</i> ; PLUT. <i>Cim. 4, etc. ; ou</i> Σκαπτησύλη, ης (ἡ) TH. <i>Lap. 17,</i> la Forêt aux mines, <i>lieu de Thrace où étaient des mines d’argent</i>.<p><b>Étym</b>. <i>vb. de</i> σκάπτω <i>et</i> *σύλη, <i>p</i>. *σύλϝη = silva, <i>forme primit. de</i> ὕλη.`

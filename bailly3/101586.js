@@ -1,0 +1,1 @@
+lar[101586]=`<b>ὑδρο·στάσιμος, ος, ον</b> <font color="purple">[ᾰῐ]</font> aux eaux stagnantes, DIOSC. <i>3, 133</i>.<p><b>Étym</b>. ὕδ. στάσιμος.`

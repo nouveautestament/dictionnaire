@@ -1,0 +1,1 @@
+lar[1111]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui sert à conduire, à mener en laisse, ANTH. <i>6, 35</i>.<p><b>Étym</b>. ἀγωγή.`

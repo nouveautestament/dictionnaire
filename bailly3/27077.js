@@ -1,0 +1,1 @@
+lar[27077]=`<b>δι·σύναπτος, ος, ον</b> <font color="purple">[ῐῠ]</font> tressé en une double guirlande, PHILOX. (ATH. <i>685d</i>).<p><b>Étym</b>. δίς, συναπτός.`

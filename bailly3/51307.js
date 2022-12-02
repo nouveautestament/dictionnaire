@@ -1,0 +1,1 @@
+lar[51307]=`<b>καλο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui fait le bien, qui fait du bien, PROCL. <i>Plat. 1 Alc. 1, 327</i>.<p><b>Étym</b>. καλός, ποιέω.`

@@ -1,0 +1,1 @@
+lar[65440]=`<b>ης (ἡ) :<br>      1</b> la lune, IL. <i>19, 374</i> ; ESCHL. <i>Pr. 797 ; d’où</i> la Lune, divinité, HH. <i>32, etc.</i><br><b>      2</b> <i>c</i>. μηνίσκος 2, AR. <i>Av. 1115</i>.<p>➳ <i>Dor</i>. μήνα, PD. <i>O. 3, 21</i>.<p><b>Étym</b>. μήν².`

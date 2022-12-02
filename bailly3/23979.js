@@ -1,0 +1,1 @@
+lar[23979]=`<b>εως (ἡ) :<br>      1</b> action de lier, PLAT. <i>Crat. 418e.</i><br><b>      2</b> <i>fig</i>. nœud de l’action dans une intrigue, <i>p. opp. à</i> λύσις, ARSTT. <i>Poet. 18, 1, 2</i>.<p><b>Étym</b>. δέω¹.`

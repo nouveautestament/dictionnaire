@@ -1,0 +1,1 @@
+lar[101397]=`<b>ὑγρο·κέλευθος, ος, ον :<br>      1</b> qui s’avance à travers les eaux, qui vit dans l’eau, MAX. <i>π. κατ. 62</i> ; POÈT. (ATH. <i>63b</i>).<br><b>      2</b> qui s’avance en épanchant l’eau, <i>en parl. de nuages,</i> ORPH. <i>H. 20, 3, etc</i>.<p><b>Étym</b>. ὑ. κέλευθος.`

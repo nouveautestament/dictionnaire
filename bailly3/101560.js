@@ -1,0 +1,1 @@
+lar[101560]=`<b>ὑδρό·μηλον, ου (τὸ)</b> mélange d’eau et de μηλόμελι, <i>sorte de boisson,</i> DIOSC. <i>5, 30</i> ; ARTÉM. <i>1, 66</i> ; GEOP. <i>8, 27</i>.<p><b>Étym</b>. ὕδ. μηλόμελι.`

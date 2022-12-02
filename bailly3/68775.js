@@ -1,0 +1,1 @@
+lar[68775]=`<b>Νικο·μάχη, ης (ἡ)</b> <font color="purple">[ῑᾰ]</font> Nikomakhè, <i>f</i>. PLUT. <i>Them. 32</i> ; ANTH. <i>5, 71</i>.<p><b>Étym</b>. <i>cf</i>. Νικόμαχος.`

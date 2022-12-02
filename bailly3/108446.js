@@ -1,0 +1,1 @@
+lar[108446]=`<b>χιλιο·και·πεντηκοντα·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[χῑᾰσ]</font> mille cinquante fois plus grand, CLÉOM. <i>Cycl. theor. 2, p. 227</i>.<p><b>Étym</b>. χ. κ. π. -πλασίων.`

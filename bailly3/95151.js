@@ -1,0 +1,1 @@
+lar[95151]=`<b>συν·διαστέλλω</b>, séparer aussi, DYSC. <i>Synt. p. 103, 26</i>.`

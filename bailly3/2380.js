@@ -1,0 +1,1 @@
+lar[2380]=`<b>ἄ·ϊδρις, ις, ι</b>, <i>gén</i>. <b>ιος</b> <i>et</i> <b>εος</b>, ignorant de, <i>gén</i>. OD. <i>10, 282</i> ; HÉS. <i>Sc. 410</i> ; ESCHL. <i>Ag. 1105 ; abs</i>. IL. <i>3, 219</i> ; PD. <i>P. 2, 37, etc</i>.<p>➳ <i>Dans Hom. seul. nom</i>. OD. <i>10, 282, et dat</i>. ἀΐδρεϊ, IL. <i>3, 219</i>.<p><b>Étym</b>. ἀ, ἴδρις.`

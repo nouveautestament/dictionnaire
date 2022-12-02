@@ -1,0 +1,1 @@
+lar[97663]=`<b>ου (ὁ)</b> Targitaos, <i>ancêtre des Scythes,</i> HDT. <i>4, 5 et 7</i>.`

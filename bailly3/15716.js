@@ -1,0 +1,1 @@
+lar[15716]=`<i>poét</i>. <b>ἀσαλία, ας (ἡ)</b> <font color="purple">[σᾰ]</font> tranquillité, calme, SOPHR. (EM. <i>151, 51).</i><p><b>Étym</b>. ἀσαλής.`

@@ -1,0 +1,1 @@
+lar[29699]=`<b>ἐγ·κοισυρόομαι</b> <font color="purple">[ῠ]</font> (<i>part. pf. fém</i>. ἐγκεκοισυρωμένη) être une véritable Kœsyra, <i>càd</i>. une coquette, AR. <i>Nub. 48</i>.<p><b>Étym</b>. ἐν, Κοισύρα.`

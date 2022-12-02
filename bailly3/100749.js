@@ -1,0 +1,1 @@
+lar[100749]=`<b>ης, ες</b>, nourrissant, ARSTT. <i>Probl. 3, 5, 6</i> ; XÉNOCR. <i>Al. 35 ; avec un gén</i>. nourrissant pour, qui donne de la force à, <i>etc</i>. ARSTT. <i>Probl. 10, 22</i>.<p><b>Étym</b>. τροφή, -ωδης.`

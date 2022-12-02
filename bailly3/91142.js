@@ -1,0 +1,1 @@
+lar[91142]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action d’envoyer promener, <i>d’où</i> traitement injurieux, PLUT. <i>M. 467a ;</i> SPT. <i>Sir. 41, 19</i>.<p><b>Étym</b>. σκορακίζω.`

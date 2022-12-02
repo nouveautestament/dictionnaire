@@ -1,0 +1,1 @@
+lar[63618]=`<b>ας (ἡ)</b> poursuite par des voies détournées, <i>d’où</i> fraude, artifice, NT. <i>Eph. 4, 14 ; 6, 11</i>.<p><b>Étym</b>. μεθοδεύω.`

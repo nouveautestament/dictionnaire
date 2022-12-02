@@ -1,0 +1,1 @@
+lar[89027]=`<b>οῦ (ὁ) :<br>      1</b> ronflement, ARÉT. <i>Caus. m. diut. 1, 11</i>.<br><b>      2</b> rot, CLÉM. <i>215</i>.<p><b>Étym</b>. ῥώχω.`

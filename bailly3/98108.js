@@ -1,0 +1,1 @@
+lar[98108]=`<b>ῶνος (ἡ)</b> Telamôn (<i>auj</i>. Talamone) <i>v. d’Étrurie,</i> PLUT. <i>Mar. 41</i>.`

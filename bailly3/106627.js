@@ -1,0 +1,1 @@
+lar[106627]=`<b>ου (ὁ)</b> Pholos, <i>Centaure,</i> THCR. <i>Idyl. 7, 149, etc</i>.`

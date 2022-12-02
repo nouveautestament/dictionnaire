@@ -1,0 +1,1 @@
+lar[106814]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> qui concerne les phratries : φρ. Ζεύς, PLAT. <i>Euthyd. 362d ;</i> DÉM. <i>1054, 10,</i> Zeus protecteur des phratries à Athènes.<p><b>Étym</b>. φράτηρ.`

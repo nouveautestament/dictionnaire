@@ -1,0 +1,1 @@
+lar[2772]=`<b>αἰολό·φυλος, ος, ον</b> <font color="purple">[ῡ]</font> aux espèces variées, OPP. <i>H. 1, 617</i>.<p><b>Étym</b>. αἰ. φῦλον.`

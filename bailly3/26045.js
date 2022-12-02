@@ -1,0 +1,1 @@
+lar[26045]=`<b>ου (ὁ)</b> Didymias, <i>h</i>. AND. <i>33, 22</i> ; EUP. (ATH. <i>658d</i>).<p><b>Étym</b>. δίδυμος.`

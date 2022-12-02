@@ -1,0 +1,1 @@
+lar[69466]=`<b>όεσσα, όεν</b>, rempli d’étrangers <i>ou</i> d’hôtes, EUR. <i>I.T. 1282</i>.<p><b>Étym</b>. ξένος.`

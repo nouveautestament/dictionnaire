@@ -1,0 +1,1 @@
+lar[34484]=`<b>ἐν·ηχέω-ῶ :<br>      1</b> résonner dans, ARÉT. <i>Caus. m. acut. 1, 6</i> ; τινι, PLUT. <i>M. 589d</i>, dans les oreilles de qqn.<br><b>      2</b> instruire, ECCL.`

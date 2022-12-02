@@ -1,0 +1,1 @@
+lar[97895]=`<b>ταχυ·εργός, ός, όν</b> <font color="purple">[ᾰ]</font> prompt à exécuter, diligent, NONN. <i>Jo. 5, 37 ; en mauv. part,</i> expéditif, APP. <i>Lib. 47, etc</i>.<p><b>Étym</b>. τ. ἔργον.`

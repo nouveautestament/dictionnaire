@@ -1,0 +1,1 @@
+lar[60454]=`<b>λεπτό·φυλλος, ος, ον</b>, aux feuilles minces, ARSTT. <i>Probl. 1, 58</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>H.P. 3, 9, 5</i>.<p><b>Étym</b>. λ. φύλλον.`

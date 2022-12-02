@@ -1,0 +1,1 @@
+lar[25976]=`<b>δί·βραχυς, εος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. πούς, dibraque <i>ou</i> pyrrhique, pied de deux brèves, <i>t. de pros</i>. TER.MAUR. <i>1365</i> ; ARC. <i>92, 7 ; etc</i>.<p><b>Étym</b>. δίς, βραχύς.`

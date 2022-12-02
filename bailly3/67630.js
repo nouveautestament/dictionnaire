@@ -1,0 +1,1 @@
+lar[67630]=`<b>ναο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ᾱῠᾰκ]</font> gardien d’un temple, EUR. <i>I.T. 1284</i> ; ARSTT. <i>Pol. 6, 8</i>.<p><b>Étym</b>. ναός, φύλαξ.`

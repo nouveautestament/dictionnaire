@@ -1,0 +1,1 @@
+lar[22608]=`<b>γραο·πρεπής, ής, ές</b> <font color="purple">[ᾱ]</font> qui convient à une vieille femme, DAMASC. (PHOT. <i>Bibl. 126, 14).</i><p><b>Étym</b>. γρ. πρέπω.`

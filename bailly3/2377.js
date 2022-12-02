@@ -1,0 +1,1 @@
+lar[2377]=`<b>ης (ἡ)</b> <font color="purple">[ῑη]</font> ignorance, OD. <i>12, 41, etc. ; au pl</i>. OD. <i>10, 231, etc</i>.<p>➳ <i>Ion</i>. ἀϊδρηΐη, <i>sel. d’autres</i> ἀϊδρίη, HDT. <i>6, 69</i>.<p><b>Étym</b>. ἄϊδρις.`

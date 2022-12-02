@@ -1,0 +1,1 @@
+lar[16367]=`<b>ἀστυ·δρομέω-ῶ</b> (<i>f</i>. ήσω) s’élancer à travers une ville, <i>d’où</i> prendre une ville d’assaut, saccager une ville, ESCHL. <i>Sept. 221</i> (ἄ. -δρομος, <i>de</i> δραμεῖν ; <i>conj</i>. <b>ᾀστο</b>δρομουμέναν (ville) envahie et ruinée par l’ennemi, <i>de</i> ᾆστος, <i>et</i> -δρομος.`

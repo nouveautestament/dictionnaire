@@ -1,0 +1,1 @@
+lar[8800]=`<b>ῶνος (ὁ)</b> Anthestèriôn, <i>8<sup>e</sup> mois athénien correspondant à la fin de février et au commencement de mars,</i> ESCHN. <i>3, 98</i> ; DÉM. <i>59, 76, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. Ἀνθεστήρια.`

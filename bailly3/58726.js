@@ -1,0 +1,1 @@
+lar[58726]=`<b>κυν·άκανθα</b> <i>ou</i> <b>κυνακάνθη, ης (ἡ)</b> <font color="purple">[ῠᾰκ]</font> églantier, ARSTT. <i>H.A. 5, 19, 22</i>.<p><b>Étym</b>. κύων, ἄκανθα.`

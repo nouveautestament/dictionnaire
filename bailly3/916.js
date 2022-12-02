@@ -1,0 +1,1 @@
+lar[916]=`<b>ἀγριό·μορφος, ος, ον</b>, d’aspect sauvage, ORPH. <i>Arg. 977</i>.<p><b>Étym</b>. ἄγρ. μορφή.`

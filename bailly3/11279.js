@@ -1,0 +1,1 @@
+lar[11279]=`<b>ἀπ·αντιπρόσωπος, ος, ον</b>, qui est en face, à distance, CLÉM. <i>857</i>.<p><b>Étym</b>. ἀπό, ἀ.`

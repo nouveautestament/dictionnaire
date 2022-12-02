@@ -1,0 +1,1 @@
+lar[105368]=`<b>φθοροποιέω-ῶ</b>, corrompre, endommager, DIOSC. <i>Ther. proœm. 420a</i>.<p><b>Étym</b>. φθοροποιός.`

@@ -1,0 +1,1 @@
+lar[44344]=`(<i>var</i>. <b>ἕομεν</b>) ἐπεί χ' ἑ. πολέμοιο, IL. <i>19, 402,</i> lorsque nous serons rassasiés de combattre ; <i>sel. d’autres,</i> ἕωμεν, <i>p</i>. ὧμεν, <i>1 pl. sbj. ao.2 de</i> ἵημι.`

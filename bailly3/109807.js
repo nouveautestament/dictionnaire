@@ -1,0 +1,1 @@
+lar[109807]=`<b>ή, όν</b>, qui concerne les tours d’adresse <i>ou</i> qui est un tour d’adresse, NAZ. Στηλ. <i>2, p. 111</i>.`

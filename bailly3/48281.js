@@ -1,0 +1,1 @@
+lar[48281]=`<b>Ἴασον Ἄργος (τὸ)</b> <font color="purple">[ῑᾰ]</font> Argos (la ville) d’Iasos, OD. <i>18, 246</i>.<p><b>Étym</b>. Ἴασος.`

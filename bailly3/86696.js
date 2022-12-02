@@ -1,0 +1,1 @@
+lar[86696]=`<b>προσ·ωνυμία, ας (ἡ)</b> <font color="purple">[ῠ]</font> surnom, PLUT. <i>Per. 8, 39, etc</i>.<p><b>Étym</b>. π. ὄνομα.`

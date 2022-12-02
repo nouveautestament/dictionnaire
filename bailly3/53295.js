@@ -1,0 +1,1 @@
+lar[53295]=`<b>ῆρος (ὁ)</b> qui remet en bon ordre, qui réconcilie, HDT. <i>4, 161 ; 5, 28</i> ; THÉM. <i>61c</i>.<p><b>Étym</b>. καταρτίζω.`

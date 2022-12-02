@@ -1,0 +1,1 @@
+lar[68544]=`<i>adv</i>., avec sincérité <i>ou</i> véracité, OD. <i>5, 98 (trisyll.) etc</i>.<p>➳ <i>Dor</i>. ναμερτέως <font color="purple">[ᾱ]</font> DIUS (STOB. <i>Fl. 2, 499).</i><p><b>Étym</b>. νημερτής.`

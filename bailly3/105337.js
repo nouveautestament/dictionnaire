@@ -1,0 +1,1 @@
+lar[105337]=`<b>φθιτόω-ῶ</b> <font color="purple">[ῐ]</font> consumer, perdre, détruire, LYC. <i>1159</i>.<p><b>Étym</b>. φθιτός.`

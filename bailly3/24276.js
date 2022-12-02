@@ -1,0 +1,1 @@
+lar[24276]=`<b>Δημολογο·κλέων (ὁ)</b> Dèmologokléôn, <i>litt</i>. Cléon-flatteur du peuple, <i>n. com</i>. AR. <i>Vesp. 342</i>.<p><b>Étym</b>. δημολόγος, Κλ.`

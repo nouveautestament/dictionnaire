@@ -1,0 +1,1 @@
+lar[102891]=`<b>ὑπερ·φωνέω-ῶ :<br>      1</b> parler trop haut, PHILSTR. <i>484 ; avec un acc</i>. faire résonner trop fort, prononcer d’une voix trop forte, SPT. <i>Judith 15, 14</i>.<br><b>      2</b> parler plus haut que, <i>acc</i>. LUC. <i>Rh. præc. 13 ; p. ext</i>. surpasser, <i>en gén</i>. PHILSTR. <i>194</i> ; HIM. <i>Ecl. 2, 4</i>.`

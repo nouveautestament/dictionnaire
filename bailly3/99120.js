@@ -1,0 +1,1 @@
+lar[99120]=`<b>εως (ἡ)</b> <font color="purple">[τῐ]</font> soins d’une nourrice, nourriture, éducation, PLAT. <i>Leg. 790c ;</i> TH. <i>C.P. 2, 1, 6</i> ; PLUT. <i>Rom. 7</i>.<p><b>Étym</b>. τιθηνέω.`

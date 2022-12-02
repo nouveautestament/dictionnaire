@@ -1,0 +1,1 @@
+lar[43325]=`<b>Εὐρυ·σάκης, εος (ὁ)</b> <font color="purple">[ῠᾰ]</font> Eurysakès (<i>litt</i>. au large bouclier) <i>fils d’Ajax,</i> SOPH. <i>Aj. 574</i> ; PLAT. <i>1 Alc. 121a</i>.<p>➳ <i>Voc</i>. Εὐρύσακες, SOPH. <i>Aj. 340 ; acc</i>. -ην, PLUT. <i>Alc. 1, ou</i> -η, PLAT. <i>l. c</i>.<p><b>Étym</b>. εὐ. σάκος.`

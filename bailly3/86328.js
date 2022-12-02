@@ -1,0 +1,1 @@
+lar[86328]=`<b>ος, ον</b>, abordable, accessible à, <i>dat</i>. ESCHL. <i>Pr. 716 vulg. (corr</i>. πρόσπλατος <font color="purple">[ᾱ]</font>).<p><b>Étym</b>. προσπλάζω ; πρόσπλατος, <i>de</i> π. πελάω.`

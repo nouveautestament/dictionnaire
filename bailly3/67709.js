@@ -1,0 +1,1 @@
+lar[67709]=`<b>ας (ἡ)</b> <font color="purple">[ᾱγ]</font> naufrage, EUR. <i>Hel. 1070</i> ; DÉM. <i>293, 5</i> ; LUC. <i>V.H. 2, 35, etc. ; au plur</i>. PD. <i>I. 1, 36</i> ; AR. <i>Th. 873</i>.<p>➳ <i>Ion</i>. ναυηγίη, HDT. <i>7, 190, etc</i>.<p><b>Étym</b>. ναυαγός.`

@@ -1,0 +1,1 @@
+lar[69664]=`<b>ξυλο·θήκη, ης (ἡ)</b> <font color="purple">[ῠ]</font> lieu de dépôt pour le bois, bûcher <i>ou</i> chantier, MOSCHION HIST. (ATH. <i>208a</i>).<p><b>Étym</b>. ξ. θήκη.`

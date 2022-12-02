@@ -1,0 +1,1 @@
+lar[87724]=`<b>ῶνος (ὁ)</b> lieu planté de buis, HDN.<p><b>Étym</b>. πύξος.`

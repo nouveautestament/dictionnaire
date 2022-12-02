@@ -1,0 +1,1 @@
+lar[75034]=`<font color="purple">[ᾰ]</font> accomplir <i>ou</i> célébrer pendant tout le jour, <i>acc</i>. EUR. <i>Rhes. 361</i>.<p><b>Étym</b>. πανήμερος.`

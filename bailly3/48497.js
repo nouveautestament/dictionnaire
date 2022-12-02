@@ -1,0 +1,1 @@
+lar[48497]=`<b>ης, ες</b>, qui sue facilement, HPC. <i>1157d, 1225b</i>.<p><b>Étym</b>. ἱδρώς, -ωδης.`

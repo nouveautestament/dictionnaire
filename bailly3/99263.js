@@ -1,0 +1,1 @@
+lar[99263]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> magistrat suprême <i>chez les Massaliotes, etc</i>. STR. <i>179</i> ; ATH. <i>149f</i>.<p><b>Étym</b>. τιμή, ἔχω.`

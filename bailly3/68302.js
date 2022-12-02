@@ -1,0 +1,1 @@
+lar[68302]=`<b>νεουργέω-ῶ</b>, renouveler, restaurer, ANTH. <i>App. 357</i>.<p><b>Étym</b>. νεουργής.`

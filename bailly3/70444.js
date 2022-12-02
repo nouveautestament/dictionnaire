@@ -1,0 +1,1 @@
+lar[70444]=`<b>οἰκτρο·κέλευθος, ος, ον</b>, qui fait un voyage lamentable, MAN. <i>4, 222</i>.<p><b>Étym</b>. οἰκτρός, κέλευθος.`

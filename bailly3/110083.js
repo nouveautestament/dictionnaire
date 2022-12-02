@@ -1,0 +1,1 @@
+lar[110083]=`<b>ου (τὸ)</b> petit œuf, EPHIPP. (ATH. <i>57e</i>).<p><b>Étym</b>. <i>dim. de</i> ᾠόν.`

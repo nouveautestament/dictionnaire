@@ -1,0 +1,1 @@
+lar[62530]=`<b>μακρολογέω-ῶ :<br>      1</b> parler avec prolixité, PLAT. <i>Gorg. 465b, etc.</i> ; ISOCR. <i>54a ;</i> περί τινος, HPC. <i>Art. 808,</i> sur qqe ch.<br><b>      2</b> parler longuement : τι, XÉN. <i>Hell. 4, 1, 13,</i> de qqe ch.<p><b>Étym</b>. μακρολόγος.`

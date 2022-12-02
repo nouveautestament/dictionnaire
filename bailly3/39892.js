@@ -1,0 +1,1 @@
+lar[39892]=`<b>ἐπ·ουλίς, ίδος (ἡ)</b> grosseur à la gencive, P. ÉG. <i>3, 26</i> ; DIOSC. <i>5, 92</i>.<p><b>Étym</b>. ἐπί, οὖλον.`

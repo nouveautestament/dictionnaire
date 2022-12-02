@@ -1,0 +1,1 @@
+lar[63821]=`<b>μελάμ·πυγος, ος, ον</b> <font color="purple">[ῡ]</font> aux fesses noires <i>ou</i> couvertes de poils noirs, <i>signe de force,</i> ARCHIL. <i>110</i> ; AR. <i>Lys. 802</i> ; Μ. λίθος, HDT. <i>7, 216,</i> sorte de basalte, <i>sur la frontière de Locride et de Thessalie</i>.<p><b>Étym</b>. μ. πυγή.`

@@ -1,0 +1,1 @@
+lar[73490]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Vento, <i>n. d’h. rom</i>. PLUT. <i>Sert. 15</i>.`

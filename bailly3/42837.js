@@ -1,0 +1,1 @@
+lar[42837]=`mettre en bon chemin, P. ÉG. <i>6, 59</i>.<p><b>Étym</b>. εὐοδία.`

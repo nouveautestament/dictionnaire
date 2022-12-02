@@ -1,0 +1,1 @@
+lar[96344]=`<b>συν·τιτρώσκω :<br>      1</b> blesser qqn en plusieurs endroits à la fois, couvrir de blessures, XÉN. <i>Hell. 3, 1, 18</i> ; DS. <i>20, 45</i> ; PLUT. <i>Alex. 63 ; en parl. de navires,</i> PLUT. <i>Alc. 27</i>.<br><b>      2</b> blesser en même temps, HPC. <i>Fract. 775</i>.`

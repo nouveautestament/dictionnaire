@@ -1,0 +1,1 @@
+lar[5423]=`<b>ας (ἡ)</b> défaut d’exercice, PLAT. <i>Theæt. 153b, Phædr. 275a</i>.<p><b>Étym</b>. ἀμελέτητος.`

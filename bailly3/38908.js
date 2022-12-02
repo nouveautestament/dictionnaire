@@ -1,0 +1,1 @@
+lar[38908]=`<b>ἐπι·ρρομβέω-ῶ</b>, bourdonner, SAPPH. <i>2, 11 Bgk dout</i>.<p><b>Étym</b>. ἐπί, ῥομβέω.`

@@ -1,0 +1,1 @@
+lar[26055]=`<b>ου (ὁ)</b> Didyme :<br><b>      1</b> <i>grammairien,</i> PLUT. <i>Sol. 1, etc.</i><br><b>      2</b> <i>n. de l’apôtre Thomas,</i> NT. <i>Joh. 11, 16</i>.<br><b>      3</b> <i>autres,</i> DIN. <i>fr. 85 Baiter-Sauppe</i> ; ANTH. <i>7, 568, etc</i>.<p><b>Étym</b>. <i>cf</i>. δίδυμος.`

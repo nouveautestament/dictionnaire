@@ -1,0 +1,1 @@
+lar[9566]=`<b>ἀντ·εκκλέπτω</b> <font color="darkgreen">(<i>ao</i>. ἀντεξέκλεψα)</font> dérober <i>ou</i> voler à son tour, AR. <i>Ach. 527</i>.`

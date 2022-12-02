@@ -1,0 +1,1 @@
+lar[55351]=`<b>ων (οἱ)</b> les Kèphènes :<br><b>      1</b> <i>anc. n. des Perses,</i> HDT. <i>7, 61</i>.<br><b>      2</b> <i>n. des Éthiopiens (litt</i>. descendants de Kèphée, <i>v</i>. Κηφεύς) NONN. <i>D. 2, 683</i>.`

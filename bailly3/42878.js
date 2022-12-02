@@ -1,0 +1,1 @@
+lar[42878]=`<b>ας (ἡ)</b> fidélité au serment, PD. <i>O. 2, 72 au pl</i>.<p><b>Étym</b>. εὔορκος.`

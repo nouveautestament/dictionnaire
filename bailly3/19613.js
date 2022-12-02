@@ -1,0 +1,1 @@
+lar[19613]=`<b>ας (ἡ)</b> sorte de plante, EROT. <i>102</i>.<p><b>Étym</b>. βήξ.`

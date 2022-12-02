@@ -1,0 +1,1 @@
+lar[8066]=`<b>(ὁ)</b> Androkleiôn, <i>h</i>. PLUT. <i>Pyrrh. 2</i>.<p><b>Étym</b>. Ἀνδροκλῆς.`

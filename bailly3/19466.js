@@ -1,0 +1,1 @@
+lar[19466]=`<i>adv</i>., avec réflexion, à dessein, DÉM. <i>527, 21</i>.<p><b>Étym</b>. <i>part. pf. de</i> βουλεύομαι.`

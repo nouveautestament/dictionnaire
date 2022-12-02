@@ -1,0 +1,1 @@
+lar[57401]=`<b>έως (ὁ)</b> barbier, coiffeur, PLAT. <i>Rsp. 373c ;</i> PLUT. <i>M. 177a, 509a ;</i> ATH. <i>98e</i>.<p><b>Étym</b>. <i>cf</i>. κείρω.`

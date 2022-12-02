@@ -1,0 +1,1 @@
+lar[68010]=`<b>νεκρο·πομπός, ός, όν</b>, qui accompagne les morts, EUR. <i>Alc. 443</i> ; LUC. <i>D. deor. 24, 1</i>.<p><b>Étym</b>. ν. πέμπω.`

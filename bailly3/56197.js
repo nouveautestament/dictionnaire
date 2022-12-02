@@ -1,0 +1,1 @@
+lar[56197]=`<b>ας (ἡ)</b> vol, larcin, PLAT. <i>Leg. 823 b et e</i> ; PLUT. <i>Phil. 4</i>.<p><b>Étym</b>. κλωπεύω.`

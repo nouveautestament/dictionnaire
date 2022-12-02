@@ -1,0 +1,1 @@
+lar[81550]=`<b>πολιανομέω-ῶ</b> <font color="purple">[ᾱ]</font> être édile <i>ou</i> magistrat municipal, PLAT. <i>Ep. 363c ;</i> DC. <i>43, 48</i>.<p><b>Étym</b>. πολιανόμος.`

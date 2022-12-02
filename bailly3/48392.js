@@ -1,0 +1,1 @@
+lar[48392]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐδ]</font> qui vit à l’écart, DL. <i>1, 25</i>.<p><b>Étym</b>. ἰδιάζω.`

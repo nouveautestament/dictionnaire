@@ -1,0 +1,1 @@
+lar[34052]=`<b>ἐν·ατενίζω</b> <font color="purple">[ᾰ]</font> tendre <i>ou</i> fixer (les yeux, les oreilles) sur <i>ou</i> vers, <i>dat</i>. JAMBL. <i>V. Pyth. 65 ; particul</i>. fixer les yeux sur, <i>dat</i>. HDT. <i>7, 7</i>.`

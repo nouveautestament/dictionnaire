@@ -1,0 +1,1 @@
+lar[34266]=`<b>ἐν·δύνω</b> (<i>seul. prés. et impf</i>.) revêtir, se revêtir de : χιτῶνα, IL. <i>2, 42,</i> d’une tunique ; περὶ στήθεσσι χιτῶνα, IL. <i>10, 21, 131,</i> d’une tunique autour de sa poitrine.<p>➳ <i>Impf. poét. 3 sg</i>. ἔνδυνε, IL. <i>2, 42 ; 10, 21</i>.`

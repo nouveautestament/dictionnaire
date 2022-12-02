@@ -1,0 +1,1 @@
+lar[91597]=`<b>ης, ες</b>, d’une nature poreuse <i>ou</i> spongieuse, TH. <i>H.P. 9, 14, 1</i>.<p><b>Étym</b>. σομφός, -ωδης.`

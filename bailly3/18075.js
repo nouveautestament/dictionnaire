@@ -1,0 +1,1 @@
+lar[18075]=`<b>ἀφίει</b>, <i>3 sg. impf. att. de</i> ἀφίημι <i>(v. ce mot, fin)</i>.`

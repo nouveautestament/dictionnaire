@@ -1,0 +1,1 @@
+lar[9598]=`<b>ῆς (ἡ)</b> enlacement <i>ou</i> embrassement mutuel, M. ANT. <i>7, 50</i>.<p><b>Étym</b>. ἀντεμπλέκω.`

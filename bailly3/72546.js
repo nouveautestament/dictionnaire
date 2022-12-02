@@ -1,0 +1,1 @@
+lar[72546]=`<b>ή, όν</b>, qui concerne les mystères, orgiaque ; PROCL. <i>H. 5, 11 var</i>.<p><b>Étym</b>. ὄργιον.`

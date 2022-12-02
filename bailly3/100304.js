@@ -1,0 +1,1 @@
+lar[100304]=`<b>Τριν·ακρία, ας (ἡ)</b> <font color="purple">[τρῑ]</font> la Trinacrie (<i>litt</i>. aux trois sommets) <i>anc. n. de la Sicile, à cause de ses trois promontoires,</i> THC. <i>6, 2</i> ; THCR. <i>Idyl. 28, 18, etc</i>.<p>➳ <i>Ion</i>. Τρινακρίη, CALL. <i>H. 3, 57</i>.<p><b>Étym</b>. Θρινακίη, <i>adapté par étym. populaire à</i> τρία ἄκρα.`

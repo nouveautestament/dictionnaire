@@ -1,0 +1,1 @@
+lar[83486]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> prostitution, XÉN. <i>Conv. 4, 61</i> ; PLAT. <i>Theæt. 150a ;</i> ARSTT. <i>Nic. 5, 2, 13, etc</i>.<p><b>Étym</b>. προαγωγεύω.`

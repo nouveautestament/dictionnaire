@@ -1,0 +1,1 @@
+lar[84332]=`<b>προ·ηχέω-ῶ :<br>      1</b> faire résonner auparavant, PHILSTR. <i>480</i> ; THÉM. <i>201d.</i><br><b>      2</b> résonner, <i>càd</i>. se faire entendre auparavant, PRATIN. <i>fr. 1, 13 Bgk</i>.<p>➳ <i>Dor</i>. προαχέω <font color="purple">[ᾱ]</font> PRATIN. <i>l. c</i>.`

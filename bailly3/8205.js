@@ -1,0 +1,1 @@
+lar[8205]=`<b>ἀν·είργω</b>, faire reculer, refouler (l’ennemi) <i>acc</i>. IL. <i>3, 77, etc. ; fig</i>. PLAT. <i>Leg. 731d</i>.<p>➳ <i>Épq. et ion</i>. ἀνεέργω, <i>d’où impf</i>. ἀνέεργον, <i>seul temps hom</i>. IL. <i>3, 77 ; 17, 752</i>.`

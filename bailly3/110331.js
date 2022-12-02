@@ -1,0 +1,1 @@
+lar[110331]=`<i>adv</i>., en disposition <i>ou</i> en état de vendre, PHIL. <i>2, 537, etc</i>.<p><b>Étym</b>. ὠνέομαι.`

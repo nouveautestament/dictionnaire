@@ -1,0 +1,1 @@
+lar[27107]=`<b>δι·υγραίνω</b> <font color="purple">[ῠ]</font> pénétrer d’humidité, mouiller, HPC. <i>362, 20, etc.</i> ; TH. <i>C.P. 1, 13, 5, etc</i>.<p><b>Étym</b>. διά, ὑγραίνω.`

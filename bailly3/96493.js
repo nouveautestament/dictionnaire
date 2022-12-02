@@ -1,0 +1,1 @@
+lar[96493]=`<b>οῦς (ἡ)</b> <font color="purple">[ῠᾱ]</font> <i>autre n. de</i> Syracuse, EPICH. <i>fr. 166 Ahrens</i>.`

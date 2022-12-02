@@ -1,0 +1,1 @@
+lar[108595]=`<b>χλοη·κομέω-ῶ</b>, avoir une chevelure verdoyante, ANTH. <i>9, 750</i>.<p><b>Étym</b>. χλόη, κόμη.`

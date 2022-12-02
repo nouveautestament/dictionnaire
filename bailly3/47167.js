@@ -1,0 +1,1 @@
+lar[47167]=`<b>οῦ (ὁ)</b> action de téter, PLUT. <i>Rom. 4, etc</i>.<p><b>Étym</b>. θηλάζω.`

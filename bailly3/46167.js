@@ -1,0 +1,1 @@
+lar[46167]=`<b>θαλασσό·μοθος, ος, ον</b> <font color="purple">[θᾰ]</font> qui lutte contre la mer, NONN. <i>D. 39, 370</i>.<p><b>Étym</b>. θ. μόθος.`

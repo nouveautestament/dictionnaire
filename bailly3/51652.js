@@ -1,0 +1,1 @@
+lar[51652]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> la Cappadoce, <i>contrée de l’Asie Mineure,</i> STR. <i>533</i> ; HDT. <i>1, 72, etc.</i> ; XÉN. <i>Cyr. 8, 6, 7, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c. etc</i>.<p><b>Étym</b>. <i>cf</i>. Καππαδόκης.`

@@ -1,0 +1,1 @@
+lar[61498]=`<b>ατος (τὸ)</b> ce que l’on porte en compte, ANTIPH. (ATH. <i>8d</i>).<p><b>Étym</b>. λογίζομαι.`

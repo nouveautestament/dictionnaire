@@ -1,0 +1,1 @@
+lar[74868]=`<b>παν·απειθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> absolument incroyable, PARMÉN. <i>fr. 42</i>.<p><b>Étym</b>. π. ἀπειθής.`

@@ -1,0 +1,1 @@
+lar[28429]=`<b>δυσ·επινόητος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à concevoir, M. ANT. <i>6, 17</i> ; JUL. <i>12b</i>.<p><b>Étym</b>. δ. ἐπινοέω.`

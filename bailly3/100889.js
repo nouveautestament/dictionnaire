@@ -1,0 +1,1 @@
+lar[100889]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec mollesse, HARP. <i>v°</i> Ἰωνικῶς.`

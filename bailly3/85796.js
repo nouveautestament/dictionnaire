@@ -1,0 +1,1 @@
+lar[85796]=`<b>προσ·ευθύνω</b> <font color="purple">[ῡ]</font> contrôler <i>ou</i> vérifier des comptes, ARSTT. <i>Pol. 6, 8, 16</i>.`

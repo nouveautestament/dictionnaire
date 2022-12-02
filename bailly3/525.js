@@ -1,0 +1,1 @@
+lar[525]=`<b>ἀγέ·στρατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui conduit <i>ou</i> entraîne les armées, HÉS. <i>Th. 925</i> ; NONN. <i>D. 26, 15 ; 28, 28</i>.<p><b>Étym</b>. ἄγω, στρατός.`

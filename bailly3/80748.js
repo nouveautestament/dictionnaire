@@ -1,0 +1,1 @@
+lar[80748]=`<b>πλατύ·καυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à tige large, TH. <i>H.P. 7, 4, 5</i>.<p><b>Étym</b>. πλ. καυλός.`

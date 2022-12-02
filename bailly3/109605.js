@@ -1,0 +1,1 @@
+lar[109605]=`<i>forme postér. et moins bonne p</i>. ψακάζω, ANACREONT. <i>14, 5</i> ; PHILSTR. <i>p. 186</i>.`

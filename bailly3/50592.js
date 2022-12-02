@@ -1,0 +1,1 @@
+lar[50592]=`<b>οῦ (ὁ)</b> l’Occasion <i>personnifiée,</i> PAUS. <i>5, 14, 9</i>.<p><b>Étym</b>. <i>v</i>. καιρός.`

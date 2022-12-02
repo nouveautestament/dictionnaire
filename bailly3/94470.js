@@ -1,0 +1,1 @@
+lar[94470]=`<b>σύμ·φρων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> qui a les mêmes sentiments qu’un autre, ESCHL. <i>Ag. 110</i> ; PLAT. <i>Ep. 324b.</i><br><b>      2</b> <i>p. suite,</i> bienveillant, ESCHL. <i>Ch. 802</i>.<p><b>Étym</b>. σ. φρήν.`

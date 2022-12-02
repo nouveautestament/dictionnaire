@@ -1,0 +1,1 @@
+lar[47817]=`<b>ήεσσα, ῆεν</b>, impétueux comme un ouragan, d’ouragan, NONN. <i>D. 1, 22, etc</i>.<p><b>Étym</b>. θύελλα.`

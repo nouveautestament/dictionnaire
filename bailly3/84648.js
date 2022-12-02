@@ -1,0 +1,1 @@
+lar[84648]=`<b>πρό·λεσχος, ος, ον</b>, prompt à parler, qui parle avant les autres, ESCHL. <i>Suppl. 200</i>.<p><b>Étym</b>. π. λέσχη.`

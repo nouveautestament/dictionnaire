@@ -1,0 +1,1 @@
+lar[24848]=`<b>δια·κρέκω</b> (<i>seul. part. prés</i>.) faire résonner en parcourant (les cordes de la lyre) A. PL. <i>307</i>.`

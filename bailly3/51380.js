@@ -1,0 +1,1 @@
+lar[51380]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> petite voûte :<br><b>      1</b> partie voûtée du crâne, GAL. <i>4, 498</i>.<br><b>      2</b> petite voûte <i>ou</i> arcade d’une chirobaliste, HÉRON <i>118</i>.<p><b>Étym</b>. <i>dim. de</i> καμάρα.`

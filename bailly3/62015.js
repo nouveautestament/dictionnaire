@@ -1,0 +1,1 @@
+lar[62015]=`<b>λυσι·γυῖα, ας (ἡ)</b> <font color="purple">[ῡῐ]</font> luxation des membres, HPC. <i>415, 37</i>.<p><b>Étym</b>. λ. γυῖον.`

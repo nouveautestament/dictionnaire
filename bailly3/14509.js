@@ -1,0 +1,1 @@
+lar[14509]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Arènè, <i>v. d’Élide, sur le fl. Minyeios,</i> IL. <i>2, 591 ; 11, 723</i>.`

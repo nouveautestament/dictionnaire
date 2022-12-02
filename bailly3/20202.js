@@ -1,0 +1,1 @@
+lar[20202]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. βόρραθεν, HPC. <i>353, 49</i>.`

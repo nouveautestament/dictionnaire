@@ -1,0 +1,1 @@
+lar[105635]=`<b>ίδος (ἡ)</b> <font color="purple">[φῐῐδ]</font> Philètis, <i>f</i>. ANTH. <i>6, 225</i>.<p><b>Étym</b>. φιλέω.`

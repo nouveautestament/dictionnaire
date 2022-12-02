@@ -1,0 +1,1 @@
+lar[90245]=`<b>ου (ἡ)</b> <font color="purple">[ῐῐ]</font> Sikinos (<i>auj</i>. Síkinos) <i>î. de la mer Égée,</i> A.RH. <i>1, 624, etc</i>.`

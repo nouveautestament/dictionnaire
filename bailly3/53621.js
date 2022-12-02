@@ -1,0 +1,1 @@
+lar[53621]=`<b>κατα·φαρμάσσω</b>, empoisonner, <i>fig</i>. ensorceler, <i>acc</i>. PLUT. <i>Dio. 14</i>.`

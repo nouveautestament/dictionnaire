@@ -1,0 +1,1 @@
+lar[72348]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> (<i>s.-e</i>. τέχνη) la science de l’escrime, SEXT. <i>726</i>.<p><b>Étym</b>. ὁπλομαχέω.`

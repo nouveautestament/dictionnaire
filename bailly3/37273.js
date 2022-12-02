@@ -1,0 +1,1 @@
+lar[37273]=`<i>adv</i>., avec insolence, GAL. <i>1, 47c</i>.<p>•<i> Cp</i>. -ώτερον, NYSS. <i>2, 859b</i>.`

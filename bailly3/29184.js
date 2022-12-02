@@ -1,0 +1,1 @@
+lar[29184]=`<b>ας (ἡ)</b> corruption par des présents, AQU. <i>Deut. 6, 17 ; Prov. 6, 35</i>.<p><b>Étym</b>. <i>cf</i>. δωροκοπέω.`

@@ -1,0 +1,1 @@
+lar[60607]=`<b>ου (ὁ)</b> <i>sorte de poisson,</i> THCR. (ATH. <i>284a</i>).<p><b>Étym</b>. <i>cf</i>. λευκός.`

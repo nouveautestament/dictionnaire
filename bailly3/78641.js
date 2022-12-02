@@ -1,0 +1,1 @@
+lar[78641]=`<b>περι·θαρσής, ής, ές</b>, plein de confiance <i>ou</i> d’assurance, A.RH. <i>1, 152, 195</i>.<p><b>Étym</b>. π. θάρσος.`

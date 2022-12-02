@@ -1,0 +1,1 @@
+lar[33333]=`<b>ἐμ·παραβάλλομαι :<br>      1</b> se jeter dans, <i>dat</i>. PHALAR. <i>Ep. 132</i>.<br><b>      2</b> s’exposer à, <i>dat</i>. PHALAR. <i>Ep. 130</i>.<p><b>Étym</b>. ἐν, π.`

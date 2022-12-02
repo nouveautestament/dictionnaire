@@ -1,0 +1,1 @@
+lar[88219]=`(<i>seul. prés</i>.) aboyer, <i>fig. en parl. d’hommes,</i> CRAT. (<i>Com. fr. 2, 33).</i><p><b>Étym</b>. <i>cf</i>. ῥύζω, <i>lat</i>. rudere, rugio, <i>etc</i>.`

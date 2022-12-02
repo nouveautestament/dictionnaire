@@ -1,0 +1,1 @@
+lar[89345]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>dim. de</i> σαπέρδης, <i>sobriquet,</i> APD. (ATH. <i>391c</i>).`

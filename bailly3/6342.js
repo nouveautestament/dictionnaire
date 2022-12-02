@@ -1,0 +1,1 @@
+lar[6342]=`<b>ἀμφί·πυρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui est en feu tout autour, SOPH. <i>Aj. 1405</i> ; ἀμφίπυρος βροντά, EUR. <i>Hipp. 558,</i> le foudre enflammé, <i>càd</i>. Zeus armé du foudre.<br><b>      2</b> qui porte une torche dans chaque main (Artémis) SOPH. <i>Tr. 214</i>.<p><b>Étym</b>. ἀ. πῦρ.`

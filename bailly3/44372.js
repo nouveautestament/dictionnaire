@@ -1,0 +1,1 @@
+lar[44372]=`<b>ης (ἡ)</b> Zanklè, <i>postér</i>. Μεσσήνη, <i>v. de Sicile</i>, HDT. <i>6, 23 ; 7, 164</i> ; THC. <i>6, 4 et 5</i>.`

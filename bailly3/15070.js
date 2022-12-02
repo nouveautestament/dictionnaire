@@ -1,0 +1,1 @@
+lar[15070]=`<b>ης (ἡ)</b> haie d’épines (<i>litt</i>. qui accroche) NIC. <i>Th. 393</i>.`

@@ -1,0 +1,1 @@
+lar[100460]=`<b>τρισκαιδεκ·ήρης, ης, ες</b>, à treize rangs de rames ; <i>subst</i>. ἡ τρ. <i>avec et sans</i> ναῦς, CALLIX. (ATH. <i>203d</i>) ; PLUT. <i>Demetr. 31,</i> navire à treize rangs de rames.<p><b>Étym</b>. τρ. ἐρέσσω.`

@@ -1,0 +1,1 @@
+lar[50087]=`(<i>seul. fém</i>. ἰχναία) qui poursuit la trace des coupables, <i>ou p.-ê</i>. adorée à Ikhnes, <i>en Thessalie, ép. de Thémis,</i> HH. <i>Ap. 94</i> ; ANTH. <i>9, 405</i> ; STR. <i>435, ou de Némésis,</i> LYC. <i>129</i>.<p><b>Étym</b>. ἴχνος <i>ou</i> Ἴχναι.`

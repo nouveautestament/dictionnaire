@@ -1,0 +1,1 @@
+lar[60383]=`<b>λεπριάω-ῶ</b>, être lépreux, DIOSC. <i>1, 102</i> ; PORPH. <i>Abst. 3, 7</i>.<p><b>Étym</b>. λέπρα.`

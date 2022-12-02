@@ -1,0 +1,1 @@
+lar[81740]=`<b>πολυ·άσχολος, ος, ον</b>, chargé d’affaires, LUC. <i>Philopatr. 25</i>.<p><b>Étym</b>. π. ἄ.`

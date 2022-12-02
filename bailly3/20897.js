@@ -1,0 +1,1 @@
+lar[20897]=`<b>ῶν (οἱ)</b> sorte de danseurs, STÉSICH. <i>fr. 79</i>.`

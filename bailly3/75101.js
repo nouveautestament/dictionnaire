@@ -1,0 +1,1 @@
+lar[75101]=`<b>παν·οικεσίᾳ</b> <font color="purple">[ᾰν]</font> <i>adv. c</i>. πανοικεί DH. <i>7, 18</i> ; JOS. <i>B.J. 7, 7, 1, etc</i>.`

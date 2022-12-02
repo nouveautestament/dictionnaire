@@ -1,0 +1,1 @@
+lar[89208]=`<b>ου (ὁ)</b> = <i>lat</i>. Salvius, <i>n. d’h. rom</i>. PLUT. <i>Æmil. 20, etc</i>.`

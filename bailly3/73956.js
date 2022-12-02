@@ -1,0 +1,1 @@
+lar[73956]=`<b>ης (ἡ)</b> poire, THCR. <i>Idyl. 1, 132</i>.<p><b>Étym</b>. <i>cf</i>. ὄγχνη.`

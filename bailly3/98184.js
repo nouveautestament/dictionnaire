@@ -1,0 +1,1 @@
+lar[98184]=`<b>ου (ὁ)</b> Télestès, <i>h</i>. DÉM. <i>611, 26 Baiter-Sauppe</i>.<p>➳ <i>Dor</i>. Τελέστας <font color="purple">[ᾱ]</font> DÉM. <i>l. c</i>.<p><b>Étym</b>. <i>v</i>. τελεστής.`

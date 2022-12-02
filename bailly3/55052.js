@@ -1,0 +1,1 @@
+lar[55052]=`<b>ης (ἡ)</b> la Kestrine, <i>contrée de Thesprotie,</i> THC. <i>1, 46</i>.`

@@ -1,0 +1,1 @@
+lar[13006]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de raser, ORIB. <i>p. 89, 13 Cocch</i>.<p><b>Étym</b>. ἀποξυρέω.`

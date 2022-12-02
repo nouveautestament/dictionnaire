@@ -1,0 +1,1 @@
+lar[74602]=`<b>παλιντροπάομαι-ῶμαι</b> <font color="purple">[ᾰλ]</font> revenir sur ses pas, A.RH. <i>4, 165, 643</i>.<p><b>Étym</b>. παλίντροπος.`

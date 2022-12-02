@@ -1,0 +1,1 @@
+lar[10671]=`<i>adv</i>., du fond d’une caverne, PD. <i>P. 4, 102</i>.<p><b>Étym</b>. ἄντρον, -θε.`

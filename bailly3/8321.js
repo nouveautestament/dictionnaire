@@ -1,0 +1,1 @@
+lar[8321]=`<b>ἀνεμο·σκεπής, ής, ές</b>, qui abrite contre le vent, IL. <i>16, 224</i>.<p><b>Étym</b>. ἄνεμος, σκέπη.`

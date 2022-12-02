@@ -1,0 +1,1 @@
+lar[102621]=`<b>ὑπερ·κυβιστάω-ῶ</b> <font color="purple">[ῠ]</font> se précipiter tête baissée (dans un danger, dans une entreprise, <i>etc</i>.) POL. <i>28, 6, 6</i>.`

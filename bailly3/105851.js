@@ -1,0 +1,1 @@
+lar[105851]=`<b>φιλό·κομος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime <i>ou</i> soigne sa chevelure, D. CHR. (SYN. <i>64d, etc</i>.).<p><b>Étym</b>. φ. κόμη.`

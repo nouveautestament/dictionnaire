@@ -1,0 +1,1 @@
+lar[47249]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> <i>vb. de</i> θηράω, SOPH. <i>Ph. 116</i> ; XÉN. <i>Mem. 2, 6, 8 ; au neutre,</i> XÉN. <i>Cyr. 2, 4, 10</i>.`

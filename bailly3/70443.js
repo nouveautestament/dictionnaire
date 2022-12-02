@@ -1,0 +1,1 @@
+lar[70443]=`<b>οἰκτρό·γοος, οος, οον</b>, qui gémit lamentablement, PLAT. <i>Phædr. 267c</i>.<p><b>Étym</b>. οἰκτρός, γόος.`

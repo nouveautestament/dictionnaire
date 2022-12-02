@@ -1,0 +1,1 @@
+lar[24450]=`<b>ας (ἡ)</b> projet délibéré, dessein, SPT. <i>Ps. 5, 10 ; Hos. 11, 7 ; etc</i>.<p><i>cf</i>. διαβούλιον.`

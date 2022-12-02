@@ -1,0 +1,1 @@
+lar[3401]=`<b>ἀ·κίχητος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qu’on ne peut atteindre, insaisissable, IL. <i>17, 75</i> ; EL. <i>N.A. 4, 52</i>.<br><b>      2</b> sur qui l’on n’a pas prise, inexorable, ESCHL. <i>Pr. 183</i>.<p><b>Étym</b>. ἀ, κιχάνω.`

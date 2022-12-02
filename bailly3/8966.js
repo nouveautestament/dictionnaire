@@ -1,0 +1,1 @@
+lar[8966]=`<b>ἀνθρωπο·νομικός, ή, όν</b>, qui concerne l’entretien <i>ou</i> la nourriture des hommes, PLAT. <i>Pol. 266e</i>.<p><b>Étym</b>. ἄ. νέμω.`

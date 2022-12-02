@@ -1,0 +1,1 @@
+lar[83741]=`<b>προ·αφίημι</b> <font color="darkgreen">(<i>f</i>. -αφήσω, <i>ao</i>. -αφῆκα, <i>etc</i>.)</font> faire partir auparavant, DC. <i>37, 50</i>.`

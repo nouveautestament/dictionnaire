@@ -1,0 +1,1 @@
+lar[10213]=`<b>ἀντι·παρέχω :<br>      1</b> fournir de son côté en échange, THC. <i>6, 21</i>.<br><b>      2</b> être en retour cause de, <i>acc</i>. DÉM. <i>555, 12</i>.<br><b><i>Moy.</i></b> <i>c. l’act</i>. 1, XÉN. <i>Hier. 7, 12</i> ; ANTH. <i>9, 12</i>.`

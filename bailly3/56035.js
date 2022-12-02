@@ -1,0 +1,1 @@
+lar[56035]=`<b>ή, όν :<br>      1</b> qui sert à appeler ; ἡ κλητική (<i>s.-e</i>. πτῶσις) DYSC. <i>Synt. p. 216, 29,</i> le vocatif.<br><b>      2</b> qui sert à invoquer, MÉN. RHÉT. <i>9, 132 W.</i><br><b>      3</b> qui concerne une invitation, MÉN. RHÉT. <i>9, 298 W</i>.<p><b>Étym</b>. κλητός.`

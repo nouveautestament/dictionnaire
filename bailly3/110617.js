@@ -1,0 +1,1 @@
+lar[110617]=`<b>ὠχρό·λευκος, ος, ον</b>, d’un blanc jaunâtre <i>ou</i> d’un jaune pâle, DIOSC. <i>4, 42</i>.<p><b>Étym</b>. ὠχρός, λευκός.`

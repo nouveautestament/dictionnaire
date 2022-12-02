@@ -1,0 +1,1 @@
+lar[40673]=`<b>ου (ὁ)</b> originaire <i>ou</i> habitant d’Éroiades, <i>dème attique de la tribu Hippothoontide,</i> DÉM. <i>59, 40 Baiter-Sauppe</i> (Ἐροιάδαι, HSCH. SUID.).`

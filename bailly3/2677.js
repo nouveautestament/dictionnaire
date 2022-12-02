@@ -1,0 +1,1 @@
+lar[2677]=`<b>ου (ὁ) :<br>      1</b> Ænios, <i>h</i>. IL. <i>21, 210</i>.<br><b>      2</b> d’Ænos, <i>en Thrace,</i> THC. <i>7, 57, etc</i>.`

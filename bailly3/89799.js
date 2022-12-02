@@ -1,0 +1,1 @@
+lar[89799]=`<b>σεμνο·ποιέω-ῶ</b>, rendre imposant <i>ou</i> respectable, STR. <i>467</i> ; JOS. <i>A.J. 16, 5, 3</i>.`

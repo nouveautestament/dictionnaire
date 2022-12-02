@@ -1,0 +1,1 @@
+lar[12182]=`<b>ἀπο·γεισόω-ῶ</b>, couvrir d’un toit <i>ou</i> d’une corniche en saillie, XÉN. <i>Mem. 1, 4, 6 ; au pass</i>. faire saillie, ARSTT. <i>G.A. 5, 2, 8</i>.`

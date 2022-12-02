@@ -1,0 +1,1 @@
+lar[34575]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> réflexion, pensée, HPC. <i>Coac. 26</i> ; ANT. <i>fr. 248</i> ; THC. <i>1, 132, etc</i>.<p><b>Étym</b>. ἐνθυμέομαι.`

@@ -1,0 +1,1 @@
+lar[107949]=`<b>χαριτο·γλωσσέω</b>, <i>att</i>. <b>χαριτογλωττέω-ῶ</b> <font color="purple">[ᾰῐ]</font> faire le gracieux <i>ou</i> l’aimable en paroles, ESCHL. <i>Pr. 294</i> ; ATH. <i>164b</i>.<p><b>Étym</b>. χ. γλῶσσα.`

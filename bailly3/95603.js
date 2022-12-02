@@ -1,0 +1,1 @@
+lar[95603]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui est monté avec un autre sur un char, THÉODOT. <i>Esaï. 22, 6</i>.<p><b>Étym</b>. συνεπιβαίνω.`

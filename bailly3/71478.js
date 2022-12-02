@@ -1,0 +1,1 @@
+lar[71478]=`<b>ὁμοδυναμέω-ῶ</b> <font color="purple">[ῠᾰ]</font> avoir une puissance égale, PROCL. <i>Ptol. 1, 11, p. 39</i>.<p><b>Étym</b>. ὁμ. δύναμαι.`

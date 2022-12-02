@@ -1,0 +1,1 @@
+lar[36425]=`<b>*ἐπ·αινός</b>, <i>seul. fém</i>. ἐπαινή, redoutable, terrible, <i>ép. de Perséphonè,</i> IL. <i>9, 457, 569</i> ; OD. <i>10, 491, etc.</i> ; HÉS. <i>Th. 768 (renforc. de</i> αἰνή ; <i>sel. d’autres,</i> ἐπ' αἰνή, en outre la terrible Perséphonè).<p><b>Étym</b>. ἐπί, αἰνός.`

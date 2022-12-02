@@ -1,0 +1,1 @@
+lar[103300]=`<b>ὕπ·οινος, ος, ον :<br>      1</b> rempli de vin, PHILSTR. <i>809</i>.<br><b>      2</b> <i>p. ext</i>. couvert de vignes, PHILSTR. <i>790</i>.<br><b>      3</b> un peu ivre, PHILSTR. <i>Gymn. p. 10, 2 Kays</i>.`

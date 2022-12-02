@@ -1,0 +1,1 @@
+lar[5132]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> (<i>s.-e</i>. δορά) casquette en peau de renard, XÉN. <i>An. 7, 4, 4 dout.</i><br><b>      2</b> chienne de chasse tenant du renard, XÉN. <i>Cyn. 3, 1</i>.<br><b>      3</b> sorte de vigne, PLIN. <i>H.N. 14, 4, 9</i>.<p><b>Étym</b>. ἀλώπηξ.`

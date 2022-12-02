@@ -1,0 +1,1 @@
+lar[18246]=`<b>ή, όν</b> <font color="purple">[αῑσ]</font> qui concerne les plaisirs de l’amour, DS. <i>2, 23</i>.<p><b>Étym</b>. ἀφροδίσιος.`

@@ -1,0 +1,1 @@
+lar[34925]=`<b>ἔν·σιμος, ος, ον</b> <font color="purple">[ῑ]</font> un peu camus, HPC. <i>262, 19</i>.<p><b>Étym</b>. ἐν, σιμός.`

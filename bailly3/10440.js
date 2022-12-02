@@ -1,0 +1,1 @@
+lar[10440]=`<i>adv. m. sign. que</i> ἀντίστομος ASCLÉPIOD.`

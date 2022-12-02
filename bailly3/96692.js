@@ -1,0 +1,1 @@
+lar[96692]=`<b>συ·στοιχέω-ῶ :<br>      1</b> être sur le même rang, sur la même ligne, POL. <i>10, 21, 7</i>.<br><b>      2</b> correspondre à, <i>dat</i>. NT. <i>Gal. 4, 25 ; d’où</i> être d’accord avec, MUSON. (STOB. <i>167, 12</i>).`

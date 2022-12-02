@@ -1,0 +1,1 @@
+lar[27469]=`<b>δολο·ρραφής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ourdit (<i>litt</i>. qui coud) des intrigues, OPP. <i>H. 3, 86</i>.<p><b>Étym</b>. δόλος, ῥάπτω.`

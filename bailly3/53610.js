@@ -1,0 +1,1 @@
+lar[53610]=`<b>ᾶ (ὁ)</b> goinfre, glouton, ESCHL. (POLL. <i>6, 40).</i><p>➳ καταφαγάς, MÉN. <i>p. 105, 20 Bkk</i>.<p><b>Étym</b>. καταφαγεῖν.`

@@ -1,0 +1,1 @@
+lar[109326]=`<b>χρυσ·ώψ, ῶπος (ὁ, ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. χρυσωπός, EUR. <i>Bacch. 553</i>.`

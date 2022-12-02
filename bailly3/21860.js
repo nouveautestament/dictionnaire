@@ -1,0 +1,1 @@
+lar[21860]=`<b>ας (ἡ)</b> colline de terre, colline, STR. <i>242</i> ; ANTH. <i>6, 98</i>.<p><b>Étym</b>. γεώλοφος.`

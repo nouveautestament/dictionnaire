@@ -1,0 +1,1 @@
+lar[75567]=`<b>παρα·ζέω</b>, faire bouillir de nouveau, GAL. <i>14, 464</i>.`

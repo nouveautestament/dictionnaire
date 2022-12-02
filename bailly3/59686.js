@@ -1,0 +1,1 @@
+lar[59686]=`<b>λαμπαδηφορέω-ῶ</b> <font color="purple">[πᾰ]</font> porter un flambeau dans les pompes religieuses, ARSTD. <i>t. 1, 279</i>.<p><b>Étym</b>. λαμπαδηφόρος.`

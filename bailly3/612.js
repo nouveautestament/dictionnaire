@@ -1,0 +1,1 @@
+lar[612]=`<i>adv</i>., OPP. <i>H. 2, 315, ou</i> ἐν ἀγκάσιν, ANTH. <i>12, 200,</i> dans les bras.<p><b>Étym</b>. <i>cf</i>. ἀγκάς.`

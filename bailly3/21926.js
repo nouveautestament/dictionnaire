@@ -1,0 +1,1 @@
+lar[21926]=`<b>γη·οχέω</b> (<i>seul. part. prés. dat. sg</i>. γηοχέοντι) posséder une terre <i>ou</i> des terres, HDT. <i>7, 190</i>.<p><b>Étym</b>. <i>ion. p</i>. *γηουχέω, <i>de</i> γῆ, ἔχω.`

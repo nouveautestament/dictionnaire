@@ -1,0 +1,1 @@
+lar[48771]=`<b>α, ον</b>, du mont Ithôme, TYRT. (PAUS. <i>4, 13, 6).</i><p><b>Étym</b>. Ἰθώμη.`

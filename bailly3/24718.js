@@ -1,0 +1,1 @@
+lar[24718]=`<b>δια·κάθημαι :<br>      1</b> se poser çà et là, <i>en parl. de corbeaux,</i> PLUT. <i>Cic. 47</i>.<br><b>      2</b> prendre chacun ses positions, <i>en parl. d’armées,</i> JOS. <i>A.J. 14, 16, 1</i>.`

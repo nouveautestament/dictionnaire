@@ -1,0 +1,1 @@
+lar[103325]=`<b>ὑπο·κάρπιος, ος, ον</b>, qui est sous le poignet, ARISTÉN. <i>1, 13</i>.<p><b>Étym</b>. ὑ. καρπός.`

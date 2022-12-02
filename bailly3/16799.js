@@ -1,0 +1,1 @@
+lar[16799]=`<b>ἀ·τίετος, ος, ον</b> <font color="purple">[ῑ]</font> <i>seul en poésie, dans les Trag</i>. non honoré, ESCHL. <i>Eum. 385, 839</i> ; EUR. <i>Ion 700</i>.<p><b>Étym</b>. ἀ, τίω.`

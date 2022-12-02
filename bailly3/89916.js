@@ -1,0 +1,1 @@
+lar[89916]=`enfermer dans un parc <i>ou</i> dans une étable, parquer, IL. <i>8, 131</i> ; XÉN. <i>Hell. 3, 2, 4</i>.<p>➳ <i>Ao. pass. ind. 3 pl. poét</i>. σήκασθεν, <i>p</i>. ἐσηκάσθησαν, IL. <i>l. c. et part</i>. σηκασθέντες, XÉN. <i>l. c</i>.`

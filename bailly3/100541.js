@@ -1,0 +1,1 @@
+lar[100541]=`<b>τρι·τάνυστος, ος, ον</b> <font color="purple">[ῐᾰ]</font> trois fois allongé, très long, ANTH. <i>6, 192</i>.<p><b>Étym</b>. τρ. τανύω.`

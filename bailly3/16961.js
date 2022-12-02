@@ -1,0 +1,1 @@
+lar[16961]=`<b>ἀ·τρίβαστος, ος, ον</b> <font color="purple">[ῐ]</font> non usé, <i>càd</i>. non rompu par l’habitude : πρός τι, XÉN. <i>Hipp. 8, 3,</i> à qqe ch.<p><b>Étym</b>. ἀ, *τριβάζω <i>de</i> τρίβω.`

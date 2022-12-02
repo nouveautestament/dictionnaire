@@ -1,0 +1,1 @@
+lar[42021]=`<b>εὐ·επιπόλαστος, ος, ον</b>, qui reste <i>ou</i> revient facilement à la surface, SOR. <i>Obst. p. 168 Erm</i>.<p><b>Étym</b>. εὖ, ἐπιπολάζω.`

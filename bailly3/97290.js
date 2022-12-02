@@ -1,0 +1,1 @@
+lar[97290]=`<b>ωνος (ὁ)</b> Sôtiôn, <i>grammairien d’Alexandrie,</i> PLUT. <i>Alex. 61, etc</i>.`

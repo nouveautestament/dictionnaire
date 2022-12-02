@@ -1,0 +1,1 @@
+lar[74096]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> glacé, gelé, SOPH. <i>Ph. 1082</i> ; HPC. <i>Aër. 283</i> ; ARSTT. <i>Mund. 5, 13</i>.<p><b>Étym</b>. παγετός, -ωδης.`

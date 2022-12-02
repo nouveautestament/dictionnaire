@@ -1,0 +1,1 @@
+lar[2797]=`<b>αἰπυ·μήτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> aux pensées élevées, ESCHL. <i>Pr. 18</i>.<p><b>Étym</b>. αἰπ. μῆτις.`

@@ -1,0 +1,1 @@
+lar[667]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> lancé avec une courroie, EUR. <i>Bacch. 1194</i>.<p><b>Étym</b>. ἀγκυλόω.`

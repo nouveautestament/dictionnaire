@@ -1,0 +1,1 @@
+lar[85499]=`<b>πρόσ·ειλος, η, ον</b>, exposé au soleil, ESCHL. <i>Pr. 451</i> ; TH. <i>C.P. 1, 13, 11</i> ; PHILSTR. <i>69</i>.<p><b>Étym</b>. π. εἵλη.`

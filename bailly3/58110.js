@@ -1,0 +1,1 @@
+lar[58110]=`<b>α, ον</b>, qui jaillit d’une source, ARSTT. <i>Meteor. 2, 3</i>.<p><b>Étym</b>. κρουνός.`

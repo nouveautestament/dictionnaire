@@ -1,0 +1,1 @@
+lar[14646]=`<b>Ἀρίστ·αιχμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristækmos, <i>h</i>. DÉM. <i>18, 295 Baiter-Sauppe</i> ; LUC. <i>D. mer. 13, 2, etc</i>.<p><b>Étym</b>. ἄ. αἰχμή.`

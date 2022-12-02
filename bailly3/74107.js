@@ -1,0 +1,1 @@
+lar[74107]=`<b>πάγ·καλος, ος, ον</b> <font color="purple">[κᾰ]</font> tout à fait beau, AR. <i>Pl. 1018</i> ; PLAT. <i>Conv. 204c, etc</i>.<p>➳ <i>Fém</i>. -η, PLAT. <i>Phædr. 276e, Leg. 722c</i>.<p><b>Étym</b>. π. καλός.`

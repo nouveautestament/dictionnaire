@@ -1,0 +1,1 @@
+lar[81454]=`<b>ορος (ὁ)</b> <font color="purple">[ᾱ]</font> qui punit, vengeur, ESCHL. <i>Ag. 1281</i> ; EUR. <i>El. 23, 268</i>.<p><b>Étym</b>. ποινή.`

@@ -1,0 +1,1 @@
+lar[5000]=`<b>ου (ὁ)</b> Alykos, <i>h</i>. HÉRÉAS (PLUT. <i>Thes. 32</i>).`

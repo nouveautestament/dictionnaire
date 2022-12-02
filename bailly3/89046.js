@@ -1,0 +1,1 @@
+lar[89046]=`<b>(ἡ)</b> parties de la femme, TÉLÉCL. (<i>Com. fr. 2, 377</i>).`

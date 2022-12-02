@@ -1,0 +1,1 @@
+lar[74787]=`<b>ίδος</b> <font color="purple">[ῡ]</font> <i>adj. f. c</i>. Παμφύλιος DP. <i>46, etc.</i> ; NONN. <i>D. 2, 38</i>.`

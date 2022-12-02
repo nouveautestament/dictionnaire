@@ -1,0 +1,1 @@
+lar[40707]=`<b>ατος (τὸ)</b> morceau cousu à un autre, CLÉM. <i>213</i>.<p><b>Étym</b>. ἐρράπτω.`

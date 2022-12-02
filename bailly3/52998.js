@@ -1,0 +1,1 @@
+lar[52998]=`<b>ατος (τὸ)</b> tout ce qui sert à saupoudrer, P. ÉG. <i>7, 13</i>.<p><b>Étym</b>. καταπάσσω.`

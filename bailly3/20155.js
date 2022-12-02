@@ -1,0 +1,1 @@
+lar[20155]=`<b>βομβαλο·βομβάξ</b> <font color="purple">[ᾰλ]</font> <i>par renforcement de</i> βομβάξ AR. <i>Th. 48</i>.`

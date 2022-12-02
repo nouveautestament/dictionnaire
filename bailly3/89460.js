@@ -1,0 +1,1 @@
+lar[89460]=`<b>σαρκοφαγέω-ῶ</b> <font color="purple">[φᾰ]</font> manger de la chair, être carnivore, ARSTT. <i>H.A. 9, 42, 1, etc.</i> ; STR. <i>298, 710</i> ; PLUT. <i>M. 473a, 991b ; avec un acc</i>. manger la chair de, DS. <i>1, 89 ; 5, 39</i> ; ANTH. <i>5, 151</i>.<p><b>Étym</b>. σαρκοφάγος.`

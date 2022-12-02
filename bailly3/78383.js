@@ -1,0 +1,1 @@
+lar[78383]=`<b>περι·αμύσσω</b>, <i>att</i>. <b>περιαμύττω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> scarifier tout autour, GAL. <i>Lex. Hipp. 19, 130</i>.<br><b>      2</b> déchirer, blesser tout autour, <i>fig</i>. PLAT. <i>Ax. 365d</i>.`

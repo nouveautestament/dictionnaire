@@ -1,0 +1,1 @@
+lar[18331]=`être <i>ou</i> devenir blanc, HPC. <i>553, 47</i>.<p><b>Étym</b>. <i>cf</i>. ἀφυώδης.`

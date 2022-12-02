@@ -1,0 +1,1 @@
+lar[46440]=`<b>θεατρο·τορύνη, ης (ἡ)</b> <font color="purple">[ῡ]</font> écumeuse de théâtre, <i>en parl. des courtisanes qui fréquentaient le théâtre, à Athènes,</i> ATH. <i>157a</i>.<p><b>Étym</b>. θ. τορύνη.`

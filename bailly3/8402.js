@@ -1,0 +1,1 @@
+lar[8402]=`<b>ἀνεπαισχύντως</b>, <i>adv</i>., sans qu’il y ait à rougir, BAS. <i>3, 613 Migne</i>.`

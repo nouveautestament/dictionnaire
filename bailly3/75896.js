@@ -1,0 +1,1 @@
+lar[75896]=`<b>ός, όν</b> <font color="purple">[ᾰλ]</font> <i>c</i>. παραλουργής PLUT. <i>M. 583e</i>.`

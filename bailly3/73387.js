@@ -1,0 +1,1 @@
+lar[73387]=`<b>ὀτοβέω-ῶ :<br>      1 <i>intr.</i></b> faire du bruit, ESCHL. <i>fr. 55 Dind.</i><br><b>      2 <i>tr.</i></b> faire résonner, faire retentir, <i>acc</i>. ESCHL. <i>Pr. 574</i>.<p><b>Étym</b>. ὄτοβος.`

@@ -1,0 +1,1 @@
+lar[1264]=`<b>1</b> être dégoûté de, se dégoûter de, <i>dat</i>. OD. <i>1, 134</i>.<br><b>2</b> être las, fatigué, accablé (de fatigue, de sommeil, <i>etc.) dat</i>. IL. <i>10, 98, 312, 399</i>.<p>➳ <i>Seul. ao. opt. 3 sg</i>. ἀδήσειεν, OD. <i>l. c. ; pf. part</i>. ἀδηκότες, <i>mieux que</i> ἀδδ- IL. <i>ll. cc</i>.<p><b>Étym</b>. <i>incert. ; cf. p.-ê</i>. ἅδην.`

@@ -1,0 +1,1 @@
+lar[36056]=`<b>εως (ἡ)</b> action de faire gonfler <i>ou</i> de se gonfler, gonflement, ANTYLL. (ORIB. <i>1, 437 B.-Dar</i>.).<p><b>Étym</b>. ἐξογκόω.`

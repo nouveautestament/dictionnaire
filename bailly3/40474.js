@@ -1,0 +1,1 @@
+lar[40474]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> <i>c</i>. ἐρινεός², EUR. <i>fr. 680,</i> ATH. <i>76c</i>.`

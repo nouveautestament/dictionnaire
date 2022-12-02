@@ -1,0 +1,1 @@
+lar[21624]=`<b>ή, όν</b>, chargé, rempli, ATH. <i>381a</i>.<p><b>Étym</b>. <i>vb. de</i> γεμίζω.`

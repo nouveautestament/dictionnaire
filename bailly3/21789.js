@@ -1,0 +1,1 @@
+lar[21789]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾱ]</font> les Germains, habitants de la Germanie, STR. <i>10</i> ; PLUT. <i>Mar. 11, etc.</i> ; POSIDON. (ATH. <i>153e</i>), <i>etc. ; adj</i>. Γ. ἱππεῖς, HDN <i>4, 13, 6,</i> cavaliers germains.<p>➳ <font color="purple">[ᾱ]</font> DP. <i>285, 304</i>.<p><b>Étym</b>. <i>Cf</i>. Γερμανία.`

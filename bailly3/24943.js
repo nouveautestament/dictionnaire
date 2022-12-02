@@ -1,0 +1,1 @@
+lar[24943]=`<b>διά·λιθος, ος, ον</b> <font color="purple">[ῐ]</font> garni de pierres précieuses, MÉN. (ATH. <i>484a</i>) ; DS. <i>fr. 644, 44 et 47</i> ; STR. <i>709</i> ; ATH. <i>197c, etc</i>.<p><b>Étym</b>. διά, λίθος.`

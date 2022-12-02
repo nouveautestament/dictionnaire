@@ -1,0 +1,1 @@
+lar[4751]=`<b>ας (ἡ)</b> destruction mutuelle, PLAT. <i>Prot. 321a</i>.<p><b>Étym</b>. ἀλληλοφθόρος.`

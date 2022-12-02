@@ -1,0 +1,1 @@
+lar[20460]=`<b>βού·λιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> <i>c</i>. βουλιμία, ERASISTR. (A. GELL. <i>16, 3</i>) ; PLUT. <i>M. 693f.</i><br><b>      2</b> qui souffre d’une faim dévorante, ALEX. (ATH. <i>164d</i>).<p><b>Étym</b>. βου-, λιμός.`

@@ -1,0 +1,1 @@
+lar[27146]=`<b>      1</b> conduire un char, EUR. <i>Andr. 108, Rhes. 356</i> ; δ. ἁψῖδα, ARCHESTR. (ATH. <i>326b</i>) <i>m. sign.</i><br><b>      2</b> parcourir sur un char, <i>acc</i>. EUR. <i>Andr. 1011</i>.<p><b>Étym</b>. δίφρος.`

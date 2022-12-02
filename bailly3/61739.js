@@ -1,0 +1,1 @@
+lar[61739]=`<b>ή, όν</b>, qui se tient en embuscade, ADAM. <i>Physiogn. 2, 1</i>.<p><b>Étym</b>. λοχάω.`

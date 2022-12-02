@@ -1,0 +1,1 @@
+lar[14625]=`<b>ἀρι·πρεπής, ής, ές</b> <font color="purple">[ᾰι]</font> distingué, remarquable, IL. <i>6, 477, etc.</i> ; OD. <i>8, 176, etc.</i> ; Τρώεσσιν, IL. <i>6, 477,</i> parmi les Troyens.<p>•<i> Cp</i>. -έστερος, THÉM. <i>223b</i>.<p><b>Étym</b>. ἀρι-, πρέπω.`

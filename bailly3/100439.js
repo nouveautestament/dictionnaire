@@ -1,0 +1,1 @@
+lar[100439]=`<b>τρισ·έπαρχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> trois fois éparque, ANTH. <i>9, 697</i>.`

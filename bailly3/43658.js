@@ -1,0 +1,1 @@
+lar[43658]=`<b>εὔ·τυκος, ος, ον</b> <font color="purple">[ῠ]</font> bien préparé, tout prêt, ESCHL. <i>Suppl. 994</i> ; THCR. <i>Idyl. 24, 86</i> ; εἴς τι, PRATIN. <i>2 Bgk,</i> à qqe ch. ; ποιεῖν τι, ESCHL. <i>Suppl. 974,</i> à faire qqe ch.<p><b>Étym</b>. εὖ, τεύχω.`

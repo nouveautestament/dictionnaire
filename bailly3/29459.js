@@ -1,0 +1,1 @@
+lar[29459]=`<b>ἐγ·καθορμίζομαι</b> <font color="darkgreen">(<i>f</i>. ίσομαι)</font>, entrer dans le port, <i>en parl. de navires,</i> THC. <i>4, 1 ; en parl. de pers</i>. DC. <i>48, 49</i>.<p><b>Étym</b>. ἐν, κ.`

@@ -1,0 +1,1 @@
+lar[1610]=`<b>ιδος (ὁ)</b> <font color="purple">[ᾰ]</font> mugle, <i>poisson de mer,</i> CLÉARQ. (ATH. <i>332c</i>) ; EL. <i>N.A. 9, 36, etc</i>.`

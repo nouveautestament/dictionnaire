@@ -1,0 +1,1 @@
+lar[68545]=`<b>(ἡ)</b> Nèmertès, <i>propr</i>. la véridique <i>ou</i> l’infaillible, <i>n. d’une Néréide,</i> IL. <i>18, 46</i> ; HÉS. <i>Th. 262</i>.<p><b>Étym</b>. <i>v</i>. νημερτής.`

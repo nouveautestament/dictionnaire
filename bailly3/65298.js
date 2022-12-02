@@ -1,0 +1,1 @@
+lar[65298]=`<i>adv</i>., à la façon des Mèdes, STR. <i>500</i>.<p><b>Étym</b>. μηδίζω.`

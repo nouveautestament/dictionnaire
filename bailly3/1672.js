@@ -1,0 +1,1 @@
+lar[1672]=`<b>ἀεί·κωμος, ος, ον</b>, toujours festinant, MAN. <i>4, 301</i>.<p><b>Étym</b>. ἀ. κῶμος.`

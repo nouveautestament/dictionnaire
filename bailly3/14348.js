@@ -1,0 +1,1 @@
+lar[14348]=`<b>ἀργυρο·λόγος, ος, ον</b> <font color="purple">[ῠ]</font> qui ramasse de l’argent, qui impose des contributions, AR. <i>Eq. 1071</i> ; THC. <i>3, 19</i>.<p><b>Étym</b>. ἄ. λέγω.`

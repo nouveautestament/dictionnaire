@@ -1,0 +1,1 @@
+lar[32724]=`<i>adv.</i> :<br><b>      1</b> librement, HDT. <i>5, 93, etc.</i> ; THC. <i>2, 65</i> ; SOPH. <i>El. 1300</i> ; PLAT. <i>Conv. 218c, etc.</i><br><b>      2</b> en homme libre, libéralement, PLAT. <i>Leg. 919e ;</i> ISOCR. <i>148c</i>.<p><b>Étym</b>. ἐλεύθερος.`

@@ -1,0 +1,1 @@
+lar[9533]=`<b>ἀντ·αυγής, ής, ές</b>, qui réfléchit <i>ou</i> renvoie la lumière, AR. <i>Th. 902</i> ; DS. <i>17, 82</i>.<p><b>Étym</b>. ἀντί, αὐγή.`

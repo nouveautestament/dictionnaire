@@ -1,0 +1,1 @@
+lar[53624]=`<b>κατα·φατίζω</b> <font color="purple">[φᾰ]</font> affirmer, PLUT. <i>Sol. 25</i>.`

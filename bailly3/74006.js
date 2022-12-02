@@ -1,0 +1,1 @@
+lar[74006]=`<b>ὀψί·κλωψ, ωπος (ὁ)</b> voleur nocturne, POLÉM. <i>Physiogn. 1, 3</i>.<p><b>Étym</b>. ὀψέ, κλέπτω.`

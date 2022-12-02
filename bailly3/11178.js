@@ -1,0 +1,1 @@
+lar[11178]=`<i>vb. de</i> ἀπαλλάσσω :<br><b>      1 <i>tr</i></b>. il faut écarter, PLUT. <i>Cor. 32, etc.</i><br><b>      2 <i>intr</i></b>. il faut s’éloigner de, <i>gén</i>. PLAT. <i>Phæd. 66b, etc.</i> ; LYS. <i>104, 4, etc</i>.`

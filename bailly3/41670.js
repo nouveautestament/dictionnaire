@@ -1,0 +1,1 @@
+lar[41670]=`<b>ή, όν</b>, qui sert à exprimer le cri des Bacchantes, DYSC. <i>Adv. 531, 17</i>.<p><b>Étym</b>. εὐάζω.`

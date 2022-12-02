@@ -1,0 +1,1 @@
+lar[66498]=`<b>*μονία</b>, <i>ion</i>. <b>μονίη, ης (ἡ)</b> stabilité, fixité, EMPÉD. <i>168 Mullach</i>.<p><b>Étym</b>. μονή.`

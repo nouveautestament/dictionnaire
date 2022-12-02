@@ -1,0 +1,1 @@
+lar[13749]=`<b>ος, ον</b>, qu’on peut emporter ; τὰ ἀπ. ATH. <i>229e</i>, friandises <i>ou</i> présents que les convives pouvaient emporter chez eux.<p><b>Étym</b>. *ἀποφορέω, <i>de</i> ἀποφορά.`

@@ -1,0 +1,1 @@
+lar[92788]=`<b>ίδος (ἡ)</b> <font color="purple">[γᾰῐδ]</font><br><b>      1</b> cordon, lacet, STRATT. (<i>Com. fr. 2, 783</i>) ; PHÉRÉCR. (<i>Com. fr. 2, 265) ; fig</i>. question captieuse et inextricable, ÉPIGR. (PLUT. <i>M. 1033e</i>).<br><b>      2</b> <i>c</i>. στραγγάλιον, ARSTT. <i>H.A. 7, 11, 1</i>.<p><b>Étym</b>. στραγγάλη.`

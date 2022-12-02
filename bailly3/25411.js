@@ -1,0 +1,1 @@
+lar[25411]=`<b>δια·πυρσαίνω</b> (<i>seul. part. prés</i>.) éclairer de tous côtés, illuminer, PHILSTR. <i>74</i>.`

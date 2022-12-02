@@ -1,0 +1,1 @@
+lar[61058]=`<b>λιθο·κέφαλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> dont la tête est de pierre, dure comme la pierre, ARSTT. (ATH. <i>305d</i>).<p><b>Étym</b>. λ. κεφαλή.`

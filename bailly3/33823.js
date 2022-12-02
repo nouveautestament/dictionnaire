@@ -1,0 +1,1 @@
+lar[33823]=`<b>ἐν·αιωρέομαι-οῦμαι</b> (<i>seul. prés</i>.) être ballotté (<i>litt</i>. suspendu) dans <i>ou</i> sur, <i>dat</i>. EUR. <i>Cycl. 700</i> ; ἐναιωρεόμενοι ὀφθαλμοί, HPC. <i>Progn. 37,</i> yeux sans cesse en mouvement.`

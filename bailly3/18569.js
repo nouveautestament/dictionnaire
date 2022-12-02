@@ -1,0 +1,1 @@
+lar[18569]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> paille, chaume, <i>d’ord. au plur</i>. HDT. <i>4, 72</i> ; XÉN. <i>Œc. 18, 7 ; etc. ; au sg</i>. TH. <i>H.P. 8, 4, 1</i> ; ANTH. <i>11, 106, 2</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

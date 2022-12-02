@@ -1,0 +1,1 @@
+lar[70736]=`<i>ou</i> <b>οἰφέω-ῶ</b>, avoir un commerce intime, ATH. <i>568e</i>.`

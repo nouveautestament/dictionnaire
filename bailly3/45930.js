@@ -1,0 +1,1 @@
+lar[45930]=`<b>ἥρως ἰατρός (ὁ)</b> dieu guérisseur, DÉM. <i>19, 249 Baiter-Sauppe</i>.`

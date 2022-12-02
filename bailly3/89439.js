@@ -1,0 +1,1 @@
+lar[89439]=`<b>σαρκο·κήλη, ης (ἡ)</b> sarcocèle, <i>induration des testicules,</i> GAL. <i>7, 321</i>.`

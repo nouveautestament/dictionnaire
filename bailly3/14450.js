@@ -1,0 +1,1 @@
+lar[14450]=`(<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> chercher à plaire, flatter, PLUT. <i>M. 4d</i>.<p><b>Étym</b>. ἄρεσκος.`

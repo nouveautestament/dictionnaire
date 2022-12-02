@@ -1,0 +1,1 @@
+lar[30339]=`<b>ας (ἡ)</b> <font color="purple">[ᾰφ]</font> peinture <i>ou</i> dessin de portraits, image, STR. <i>718</i>.<p><b>Étym</b>. εἰκονογράφος.`

@@ -1,0 +1,1 @@
+lar[82143]=`<b>πολυμορφία, ας (ἡ)</b> multiplicité de formes, LGN <i>39, 3</i> ; HIM. <i>Or. 21, 10</i>.<p><b>Étym</b>. πολύμορφος.`

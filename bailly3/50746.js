@@ -1,0 +1,1 @@
+lar[50746]=`<b>κακο·θηνέω-ῶ</b> <font color="purple">[ᾰ]</font> être en mauvais état, ne pas prospérer, ARSTT. <i>H.A. 6, 19, 7</i>.<p><b>Étym</b>. κ. τίθημι, <i>cf</i>. εὐθηνέω.`

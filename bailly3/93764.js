@@ -1,0 +1,1 @@
+lar[93764]=`<b>συλ·λεαίνω :</b> polir, éclaircir <i>ou</i> frotter ensemble <i>ou</i> avec, <i>dat</i>. DH. <i>Dem. 43</i> ; ARÉT. <i>Cur. m. acut. 1, 1 ; au pass</i>. GAL. <i>9, 432</i>.<p>➳ <i>Ion</i>. συλλειαίνω, ARÉT. <i>l. c</i>.`

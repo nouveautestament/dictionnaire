@@ -1,0 +1,1 @@
+lar[98668]=`<b>τετρά·ρρυμος, ος, ον</b> <font color="purple">[ῡ]</font> à quatre timons, <i>d’où</i> à huit chevaux, XÉN. <i>Cyr. 6, 1, 51 ; 4, 2</i>.<p><b>Étym</b>. τ. ῥυμός.`

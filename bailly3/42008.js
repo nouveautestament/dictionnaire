@@ -1,0 +1,1 @@
+lar[42008]=`<b>εὐ·επής, ής, ές :<br>   I <i>intr.</i> :<br>      1</b> qui parle bien, à la parole agréable, XÉN. <i>Cyn. 13, 16</i> ; DH. <i>Comp. 165, 5</i>.<br><b>      2</b> bien dit, bien exprimé, élégant, HDT. <i>5, 50</i>.<br><b>   II <i>tr</i></b>. qui fait bien parler, qui donne de l’éloquence, ANTH. <i>11, 24</i>.<p><b>Étym</b>. εὖ, ἔπος.`

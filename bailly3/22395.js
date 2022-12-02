@@ -1,0 +1,1 @@
+lar[22395]=`<font color="darkgreen">(<i>f</i>. εύσω) :</font><br><b>      1</b> tromper par des manœuvres de charlatan, <i>acc</i>. PLAT. <i>Men. 80a ; Gorg. 484a ; Phæd. 81b, etc.</i> ; DÉM. <i>373, 29 ; particul</i>. fasciner par la parole, PLAT. <i>Soph. 234c.</i><br><b>      2</b> faire le sorcier <i>ou</i> le magicien, DL. <i>8, 59</i>.<p><b>Étym</b>. γόης.`

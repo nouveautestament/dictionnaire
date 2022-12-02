@@ -1,0 +1,1 @@
+lar[58147]=`<b>α, ον</b> <font color="purple">[ῡᾰ]</font> glacial, HÉRACLITE GRAMM. <i>All. Hom. c. 50</i>.<p><b>Étym</b>. κρυμός.`

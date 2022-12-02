@@ -1,0 +1,1 @@
+lar[5270]=`<b>ἁμαρτωλή, ῆς (ἡ)</b> <font color="purple">[ᾰμ]</font> <i>c</i>. ἁμαρτία, THGN. <i>325, 327, etc.</i> ; ARÉT. <i>26, 34, etc</i>.`

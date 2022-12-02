@@ -1,0 +1,1 @@
+lar[7453]=`<b>ῆς (ἡ) :<br>      1</b> action de renvoyer <i>ou</i> de transporter, POL. <i>30, 9, 10</i>.<br><b>      2</b> action de faire apparaître, LUC. <i>Alex. 5</i>.<p><b>Étym</b>. ἀναπέμπω.`

@@ -1,0 +1,1 @@
+lar[91361]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> fabrication de chaussures, ARSTT. <i>Nic. 2, 1, 6</i>.<p><b>Étym</b>. σκυτεύω.`

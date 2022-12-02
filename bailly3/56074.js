@@ -1,0 +1,1 @@
+lar[56074]=`<b>κλινο·πόδιον, ου (τὸ)</b> <font color="purple">[ῑν]</font> clinopode, <i>plante dont les fleurs ressemblent à des pieds de lit,</i> DIOSC. <i>3, 109</i>.<p><b>Étym</b>. κλίνη, πούς.`

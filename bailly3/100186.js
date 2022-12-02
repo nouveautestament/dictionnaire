@@ -1,0 +1,1 @@
+lar[100186]=`<b>τρι·έμβολος, ος, ον</b>, à trois éperons, <i>en parl. d’un vaisseau,</i> AR. <i>Av. 1256</i>.<p><b>Étym</b>. τρ. ἔμβολος.`

@@ -1,0 +1,1 @@
+lar[96994]=`<b>ης (ἡ)</b> bande de fer, crampon pour assujettir un mur, PHIL. PARADOX. <i>VII mir. 4</i>.<p><b>Étym</b>. σχεδόν <i>de</i> ἔχω.`

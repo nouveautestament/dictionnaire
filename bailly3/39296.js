@@ -1,0 +1,1 @@
+lar[39296]=`<b>εως (ἡ) :<br>   I</b> action de retenir, d’arrêter, HPC. <i>Epid. 1, 945</i> ; PLAT. <i>Leg. 740d ;</i> ARSTT. <i>Probl. 33, 5</i> ; PLUT. <i>Demetr. 38</i>.<br><b>   II</b> action de se retenir, de s’arrêter, <i>d’où</i> :<br><b>      1</b> retard, THC. <i>2, 18</i>.<br><b>      2</b> retenue, pudeur, OD. <i>17, 451</i>.<p><b>Étym</b>. ἐπισχεῖν, <i>v</i>. ἐπέχω.`

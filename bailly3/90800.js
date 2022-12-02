@@ -1,0 +1,1 @@
+lar[90800]=`<b>α (ὁ)</b> = <i>lat</i>. Scævola, <i>n. d’h. rom</i>. ANTH. <i>9, 217</i>.`

@@ -1,0 +1,1 @@
+lar[86318]=`<b>προσ·πιέζω :<br>      1</b> presser en outre, HPC. <i>406, 35</i>.<br><b>      2</b> fouler <i>ou</i> presser contre, <i>dat</i>. ORIB. <i>95 ; avec</i> πρός <i>et l’acc</i>. ARSTT. <i>H.A. 4, 2, 13</i>.`

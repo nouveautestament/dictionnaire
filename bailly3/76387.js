@@ -1,0 +1,1 @@
+lar[76387]=`<b>παρ·αυτόθεν</b>, <i>adv</i>., de ce lieu même <i>ou</i> à l’instant même, ARR.`

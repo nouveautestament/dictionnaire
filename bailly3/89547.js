@@ -1,0 +1,1 @@
+lar[89547]=`<b>σατυρο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰῠᾰ]</font> compositeur de drames satyriques, DH. <i>5, 85</i>.<p><b>Étym</b>. σάτυρος, γράφω.`

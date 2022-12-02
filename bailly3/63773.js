@@ -1,0 +1,1 @@
+lar[63773]=`<b>μελάγ·χιμος, ος, ον</b> <font color="purple">[ῐ]</font> noir, sombre, <i>en parl. de la nuit,</i> ESCHL. <i>Pers. 301 ; d’une brebis,</i> EUR. <i>El. 513 ; de vêtements (cf</i>. μελαγχίτων) EUR. <i>Ph. 371, etc</i>.<p><b>Étym</b>. μέλας, -χιμος ; <i>cf</i>. δύσχιμος.`

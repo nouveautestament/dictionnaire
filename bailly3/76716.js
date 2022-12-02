@@ -1,0 +1,1 @@
+lar[76716]=`<b>παρ·ενσπείρω</b>, semer dans l’intervalle, insérer, NAZ.`

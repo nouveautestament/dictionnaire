@@ -1,0 +1,1 @@
+lar[93935]=`<b>συμ·μειρακιώδης, ης, ες</b> <font color="purple">[ᾰ]</font> tout à fait juvénile, LUCIL. (A. GELL. <i>18, 8</i>).`

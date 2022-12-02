@@ -1,0 +1,1 @@
+lar[4972]=`<b>οῦ (ὁ)</b> <i>c</i>. Ἀλπηνοί, ESCHN. <i>2, 132 Baiter-Sauppe</i>.`

@@ -1,0 +1,1 @@
+lar[32823]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῐ]</font> instrument de musique à neuf cordes, PTOL. <i>Harm. 2, 2</i> ; A. QUINT. <i>3, p. 117</i>.<p><b>Étym</b>. ἕλιξ.`

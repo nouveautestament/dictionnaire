@@ -1,0 +1,1 @@
+lar[96732]=`<b>ή, όν</b> <i>ou</i> <b>σύσφιγκτος, ος, ον :<br>      1</b> <i>pass</i>. étreint <i>ou</i> lié fortement, AQU. <i>Ex. 28, 4</i>.<br><b>      2</b> <i>act. subst</i>. τὸ σύσφιγκτον, AQU. <i>Ex. 28, 25,</i> lien étroit.<p><b>Étym</b>. συσφίγγω.`

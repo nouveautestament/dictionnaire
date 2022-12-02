@@ -1,0 +1,1 @@
+lar[67715]=`<b>ναυαρχέω-ῶ</b>, commander un vaisseau <i>ou</i> une flotte, HDT. <i>7, 161</i> ; XÉN. <i>Hell. 2, 1, 6 ; 2, 4, 28 ; An. 5, 1, 3 ; avec un gén</i>. PHILIPP. (DÉM. <i>251, 3).</i><p><b>Étym</b>. ναύαρχος.`

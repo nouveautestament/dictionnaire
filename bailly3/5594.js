@@ -1,0 +1,1 @@
+lar[5594]=`<b>α, ον</b> <font color="purple">[ᾰμ]</font> propre à la lutte : ἁμ. ἵππος, PHILSTR. <i>60,</i> cheval de course.<p><b>Étym</b>. ἁμιλλητήρ.`

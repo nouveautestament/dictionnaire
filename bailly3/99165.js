@@ -1,0 +1,1 @@
+lar[99165]=`<b>ου (τὸ)</b> Tilphôsion, <i>mt près d’Haliartos en Béotie,</i> PLUT. <i>Syll. 20</i>.`

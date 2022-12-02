@@ -1,0 +1,1 @@
+lar[94675]=`<b>ατος (τὸ) :<br>      1</b> nœud, PLUT. <i>Alex. 18</i>.<br><b>      2</b> faisceau d’objets rattachés par un même lien, ARSTT. <i>P.A. 4, 10, 26, etc</i>.<p><b>Étym</b>. συνάπτω.`

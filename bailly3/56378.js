@@ -1,0 +1,1 @@
+lar[56378]=`<b>κογχο·θήρας, ου (ὁ)</b> pêcheur de coquillages, EPICH. (ATH. <i>85d</i>).<p><b>Étym</b>. κόγχη, θηράω.`

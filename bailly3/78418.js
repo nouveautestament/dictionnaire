@@ -1,0 +1,1 @@
+lar[78418]=`<b>περι·αυλακίζω</b> <font color="purple">[ᾰ]</font> creuser des sillons tout autour, RHÉT.<p><b>Étym</b>. <i>W. 1, 498</i>.`

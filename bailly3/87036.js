@@ -1,0 +1,1 @@
+lar[87036]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> vin qui coule du raisin avant le pressurage, GEOP. <i>6, 16, 1</i>.<br><b>      2</b> <i>t. de math</i>. projection, APD. POL. <i>28</i>.<p><b>Étym</b>. προχέω.`

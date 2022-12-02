@@ -1,0 +1,1 @@
+lar[56928]=`<b>ιος (ἡ)</b> la cohorte <i>romaine,</i> POL. <i>11, 23, 1, etc</i>.<p><b>Étym</b>. <i>lat</i>. cohors.`

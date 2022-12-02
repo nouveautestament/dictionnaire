@@ -1,0 +1,1 @@
+lar[67257]=`<b>μυριο·παθής, ής, ές</b> <font color="purple">[ῡᾰ]</font> exposé à d’innombrables souffrances, BAS. <i>2, 237a</i>.<p><b>Étym</b>. μ. πάθος.`

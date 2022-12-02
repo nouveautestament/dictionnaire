@@ -1,0 +1,1 @@
+lar[4430]=`<b>ἁλί·βρωτος, ος, ον</b> <font color="purple">[ᾰ]</font> rongé par la mer, LYC. <i>760</i>.<p><b>Étym</b>. ἅ. βιβρώσκω.`

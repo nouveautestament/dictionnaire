@@ -1,0 +1,1 @@
+lar[108460]=`<b>χιλιο·φόρος, ος, ον</b> <font color="purple">[χῑ]</font> qui peut porter mille amphores (<i>cf. en franç</i>. « mille tonnes ») <i>ép. d’un navire,</i> DC. <i>56, 27</i>.<p><b>Étym</b>. χ. φέρω.`

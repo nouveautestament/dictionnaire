@@ -1,0 +1,1 @@
+lar[57094]=`couper en morceaux, fendre en bûches, DH. <i>20, 6</i>.<p><b>Étym</b>. κορμός.`

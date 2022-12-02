@@ -1,0 +1,1 @@
+lar[44969]=`<b>ἡδονο·πλήξ, ῆγος (ὁ, ἡ)</b> étourdi de plaisir, de jouissance, TIMON <i>9, 4</i> (PLUT. <i>M. 446c</i>).<p><b>Étym</b>. ἡδονή, πλήσσω.`

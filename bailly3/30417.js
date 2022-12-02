@@ -1,0 +1,1 @@
+lar[30417]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῐ]</font> festin bruyant (<i>non, sel. l’interprétation commune,</i> festin après un sacrifice) IL. <i>18, 491</i> ; OD. <i>1, 226</i>.`

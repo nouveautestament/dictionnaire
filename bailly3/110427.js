@@ -1,0 +1,1 @@
+lar[110427]=`<b>ή, όν :<br>      1</b> qui est à point, mûr, CRATÈS (ATH. <i>50e</i>).<br><b>      2</b> qui est dans la fleur de l’âge, jeune, beau, AR. <i>Ach. 272, fr. 40</i> ; EL. <i>N.A. 1, 12 ; 4, 8 ; 5, 17 ; 6, 17 ; 14, 5</i> ; ALCIPHR. <i>1, 13</i>.<p>•<i> Cp</i>. ὡρικώτερος, EL. <i>N.A. 4, 8 ; • Sup</i>. ὡρικώτατος, CRATÈS <i>l. c</i>.<p><b>Étym</b>. ὥρα.`

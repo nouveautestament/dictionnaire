@@ -1,0 +1,1 @@
+lar[10410]=`<b>ης (ἡ)</b> Antissa, <i>v. de Lesbos,</i> THC. <i>3, 18, etc</i>.`

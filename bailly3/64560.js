@@ -1,0 +1,1 @@
+lar[64560]=`<b>μεσ·οπωρέω-ῶ</b>, être au milieu de l’automne, <i>ou p.-ê</i>. de la belle saison, SPT. <i>Sir. 34, 21</i> ; DIOSC. <i>1, 148</i>.<p><b>Étym</b>. μ. ὀπώρα.`

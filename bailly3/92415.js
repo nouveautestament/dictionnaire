@@ -1,0 +1,1 @@
+lar[92415]=`<b>στερεο·μέτρης, ου (ὁ)</b> qui mesure des corps solides, GAL. <i>6, 39</i>.<p><b>Étym</b>. στερεός, μετρέω.`

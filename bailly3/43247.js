@@ -1,0 +1,1 @@
+lar[43247]=`<b>Εὐρυ·βάτης, ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> Eurybatès, <i>h</i>. IL. <i>1, 320</i> ; HDT. <i>6, 92 ; 9, 75</i>.<p><b>Étym</b>. <i>cf</i>. εὐρύβατος.`

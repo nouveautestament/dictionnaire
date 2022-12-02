@@ -1,0 +1,1 @@
+lar[11537]=`<b>ἀπ·ειλέω-ῶ</b>, dérouler (une corde <i>ou</i> un tissu) HÉRON <i>Aut. 248</i>.<p><b>Étym</b>. ἀπό, εἰλέω.`

@@ -1,0 +1,1 @@
+lar[100825]=`<b>Τρυγό·δωρος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Donne-la-piquette, <i>n. de parasite,</i> ALCIPHR. <i>3, 15</i>.<p><b>Étym</b>. τρύξ, δῶρον.`

@@ -1,0 +1,1 @@
+lar[34829]=`<b>ἐν·ομιλέω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> avoir commerce avec, fréquenter, <i>dat</i>. DC. <i>43, 15</i>.<br><b>      2</b> se familiariser avec, <i>dat</i>. PLUT. <i>Ant. 41</i>.<p><b>Étym</b>. ἐν, ὁ.`

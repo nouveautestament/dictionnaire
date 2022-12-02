@@ -1,0 +1,1 @@
+lar[93251]=`<b>συγ·κακύνω</b> <font color="purple">[ᾰῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> <i>c</i>. συγκακόω TH. <i>Od. 56</i>.`

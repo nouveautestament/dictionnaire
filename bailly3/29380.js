@@ -1,0 +1,1 @@
+lar[29380]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> inscrit, consigné par écrit, ARSTT. <i>fr. 415</i> ; POL. <i>3, 21, 4</i> ; πατέρες ἔγγραφοι = <i>lat</i>. patres conscripti, DH. <i>1, 261, 11 Reiske</i> ; τὸ ἔγγραφον, POL. <i>3, 26, 4, etc</i>. traité rédigé par écrit, engagement écrit.<p><b>Étym</b>. ἐγγράφω.`

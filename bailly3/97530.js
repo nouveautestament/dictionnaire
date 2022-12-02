@@ -1,0 +1,1 @@
+lar[97530]=`<font color="purple">[τᾰλ]</font> <i>c</i>. ταλαντίζω, <i>seul. dans la locut</i>. τὰ Ταντάλου τάλαντα τανταλίζεται, ANON. (<i>Com. fr. 4, 660</i>) il pèse le poids de Tantale, <i>càd</i>. il ne pèse rien.<p><b>Étym</b>. Τάνταλος.`

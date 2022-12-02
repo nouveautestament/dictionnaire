@@ -1,0 +1,1 @@
+lar[15565]=`<b>Ἀρχ·ηγέτης, ου (ὁ)</b> Arkhègétès :<br><b>      1</b> <i>ép. d’Apollon,</i> PD. <i>P. 5, 80</i> ; THC. <i>6, 3</i>.<br><b>      2</b> <i>surn. d’un roi de Sparte,</i> PLUT. <i>Lyc. 6</i>.<p>➳ <i>Dor</i>. Ἀρχαγέτας, PD. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. ἀρχηγέτης.`

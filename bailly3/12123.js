@@ -1,0 +1,1 @@
+lar[12123]=`<b>ἀπο·βηματίζω</b> <font color="purple">[μᾰ]</font> faire descendre de son grade <i>ou</i> de son rang, dégrader, PLUT. <i>M. 980c</i>.`

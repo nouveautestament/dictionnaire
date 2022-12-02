@@ -1,0 +1,1 @@
+lar[47795]=`<b>ου (ὁ)</b> Thyamos, <i>cap d’Acarnanie,</i> THC. <i>3, 106</i>.`

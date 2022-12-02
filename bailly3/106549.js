@@ -1,0 +1,1 @@
+lar[106549]=`<b>ου (τὸ)</b> <font color="purple">[νῑ]</font> petite datte, A. TR. <i>1, p. 24</i>.<p><b>Étym</b>. φοῖνιξ.`

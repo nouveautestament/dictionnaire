@@ -1,0 +1,1 @@
+lar[78419]=`<b>περι·αυτολογέω-ῶ</b>, parler de soi avec jactance, se vanter, SEXT. <i>P. 1, 62</i>.`

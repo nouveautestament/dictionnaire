@@ -1,0 +1,1 @@
+lar[89]=`<i>adv</i>., sottement, PLUT. <i>M. 531c</i>.`

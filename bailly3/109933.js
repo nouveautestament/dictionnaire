@@ -1,0 +1,1 @@
+lar[109933]=`<b>ου (ὁ) :<br>      1</b> puce, EPICH. (HSCH.) ; DIOSC. <i>4, 70</i> ; GAL. <i>4, 130</i>.<br><b>      2</b> puceron de mer, ARSTT. <i>H.A. 4, 10</i>.<p><b>Étym</b>. <i>cf</i>. ψύλλα.`

@@ -1,0 +1,1 @@
+lar[23347]=`<b>έως (ὁ)</b> le Daulien, <i>càd</i>. Oreste, ESCHL. <i>Ch. 674</i>.<p><b>Étym</b>. Δαυλίς.`

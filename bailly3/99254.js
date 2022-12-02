@@ -1,0 +1,1 @@
+lar[99254]=`<b>Τιμό·μαχος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Timomakhos :<br><b>      1</b> <i>général athénien,</i> XÉN. <i>Hell. 7, 1, 41, etc.</i><br><b>      2</b> <i>autres,</i> ATH. <i>638a ;</i> ANTH. <i>11, 87, etc</i>.<p><b>Étym</b>. τιμή, μάχη.`

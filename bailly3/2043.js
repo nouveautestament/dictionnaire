@@ -1,0 +1,1 @@
+lar[2043]=`<b>ας (ἡ)</b> chasse malheureuse, EL. <i>N.A. 7, 2</i>.<p><b>Étym</b>. ἄθηρος.`

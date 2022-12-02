@@ -1,0 +1,1 @@
+lar[98808]=`<b>ου (ὁ)</b> Teutiaplos, <i>h</i>. THC. <i>3, 29</i>.`

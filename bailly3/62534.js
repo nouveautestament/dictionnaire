@@ -1,0 +1,1 @@
+lar[62534]=`<b>μακρό·μαλλος, ος, ον</b>, dont la laine est longue, STR. <i>4 et 196</i>.<p><b>Étym</b>. μ. μαλλός.`

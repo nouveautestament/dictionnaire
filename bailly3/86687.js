@@ -1,0 +1,1 @@
+lar[86687]=`<b>προσ·ψύχω</b> <font color="purple">[ῡ]</font><br><b>      1</b> rafraîchir, HPC. <i>649, 8</i>.<br><b>      2</b> <i>c</i>. περιψύχω, ANTH. <i>App. 368 dout</i>.`

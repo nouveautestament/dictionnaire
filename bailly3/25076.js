@@ -1,0 +1,1 @@
+lar[25076]=`<b>εως (ἡ)</b> action de façonner, PLUT. <i>M. 1023c</i>.`

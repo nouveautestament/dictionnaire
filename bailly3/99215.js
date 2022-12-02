@@ -1,0 +1,1 @@
+lar[99215]=`<b>Τιμησί·λεως, ω (ὁ)</b> <font color="purple">[ῑῐ]</font> Timèsiléôs, <i>tyran de Sinope,</i> PLUT. <i>Per. 20</i>.<p><b>Étym</b>. τιμάω, λεώς.`

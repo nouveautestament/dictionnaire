@@ -1,0 +1,1 @@
+lar[11182]=`<i>adv</i>., avec le désir de se délivrer, DH. <i>Rhet. 11, 8</i>.`

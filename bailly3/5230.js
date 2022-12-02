@@ -1,0 +1,1 @@
+lar[5230]=`<b>ἁμαξο·τροχία, ας (ἡ)</b> <font color="purple">[ᾰμ]</font> trace des roues d’un char, CALLIAS (POLL. <i>7, 116).</i><p><b>Étym</b>. ἅ. τροχός.`

@@ -1,0 +1,1 @@
+lar[75446]=`<b>οῦ (ὁ)</b> qui écarte du coude les passants, CLÉARQ. (ATH. <i>258a</i>).<p><b>Étym</b>. παραγκωνίζομαι.`

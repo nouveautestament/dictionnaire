@@ -1,0 +1,1 @@
+lar[5545]=`<b>ου (τὸ)</b> minium, DIOSC. <i>5, 110 dout</i>.`

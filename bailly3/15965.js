@@ -1,0 +1,1 @@
+lar[15965]=`<b>ου</b>, <i>adj. m</i>. d’Askra, HERMÉS. (ATH. <i>597d</i>) ; ANTH. <i>2, 37 ; 7, 52</i> ; ὁ Ἀσκραῖος ποιμήν, ANTH. <i>9, 653</i> ; DH. <i>Rhet. 1,</i> le pâtre d’Askra, <i>càd</i>. Hésiode.<p><b>Étym</b>. Ἄσκρα.`

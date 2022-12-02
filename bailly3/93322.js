@@ -1,0 +1,1 @@
+lar[93322]=`<b>συγ·κατακόπτω :<br>      1</b> couper à la fois, MÉD. <i>p. 36 Matthäi</i>.<br><b>      2</b> détruire complètement, PLUT. <i>Syll. 22, etc</i>.`

@@ -1,0 +1,1 @@
+lar[42654]=`<b>εὐ·μείλικτος, ος, ον</b>, facile à adoucir, à apaiser, CORN. <i>36</i>.<p><b>Étym</b>. εὖ, μειλίσσω.`

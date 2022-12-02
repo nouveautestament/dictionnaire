@@ -1,0 +1,1 @@
+lar[100849]=`<b>τρυπ·αλώπηξ, εκος (ὁ)</b> <font color="purple">[ῡᾰ]</font> renard qui se glisse par tous les trous, fin renard, COM. <i>(Bkk. p. 64, 28).</i><p><b>Étym</b>. τρύπη, ἀλώπηξ.`

@@ -1,0 +1,1 @@
+lar[14615]=`<b>ἄ·ρινος, ος, ον</b> <font color="purple">[ῑ]</font> <i>c</i>. ἄρις, XÉN. <i>Cyn. 3, 3</i>.`

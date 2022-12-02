@@ -1,0 +1,1 @@
+lar[17203]=`<b>ίδος (ἡ)</b> Aulis, <i>port de Béotie,</i> HOM. <i>etc</i>.<p>➳ <i>Acc</i>. -ίδα, IL. <i>2, 303, etc.</i> ; A.RH. <i>4, 1777</i> ; Q. SM. STR. <i>etc. ; ou</i> -ιν, EUR. <i>I.A. 14</i> ; PLUT.`

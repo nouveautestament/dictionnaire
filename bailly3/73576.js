@@ -1,0 +1,1 @@
+lar[73576]=`<b>οὐλο·φυής, ής, ές</b>, tout à fait dans son état naturel, brut, informe, EMPÉD. <i>62, 4 Diels</i>.<p><b>Étym</b>. οὖλος¹, φύω.`

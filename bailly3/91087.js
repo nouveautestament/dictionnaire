@@ -1,0 +1,1 @@
+lar[91087]=`<b>σκολι·ωπός, ός, όν</b>, qui a le regard <i>ou</i> le visage de travers, MAN. <i>4, 78</i>.<p><b>Étym</b>. σκ. ὤψ.`

@@ -1,0 +1,1 @@
+lar[3852]=`<b>ἀκρο·τελεύτιον, ου (τὸ) :<br>      1</b> ce qui est tout à la fin (d’un vers, d’un poème, <i>etc</i>.) THC. <i>2, 17, etc.</i><br><b>      2</b> <i>particul</i>. refrain, chœur, DC. <i>63, 10</i> ; ARSTD. <i>46, 121, etc</i>.<p><b>Étym</b>. ἄ. τελευτή.`

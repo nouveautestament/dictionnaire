@@ -1,0 +1,1 @@
+lar[101684]=`<font color="purple">[ῠᾰκ]</font> (<i>seul. part. prés. épq. nom. pl</i>. ὑλακόωντες, <i>avec</i> ῡ <i>à l’arsis) c</i>. ὑλακτέω, OPP. <i>C. 3, 281</i>.`

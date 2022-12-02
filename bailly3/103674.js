@@ -1,0 +1,1 @@
+lar[103674]=`<b>ὑπο·πεττεύματα, ων (τὰ)</b> charmes secrets, attraits cachés, PLUT. <i>M. 987e dout</i>.`

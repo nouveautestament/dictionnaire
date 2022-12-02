@@ -1,0 +1,1 @@
+lar[19079]=`<b>βαρβιτ·ῳδός, οῦ (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> joueur <i>ou</i> joueuse de luth, LUC. <i>Lex. 14</i>.<p><b>Étym</b>. βάρβιτος, ᾠδή.`

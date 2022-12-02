@@ -1,0 +1,1 @@
+lar[72150]=`<b>ὀξύ·πρῳρος, ος, ον</b>, qui s’avance <i>ou</i> se termine en pointe, aigu, ESCHL. <i>Pr. 424</i> ; OPP. <i>H. 3, 333</i>.<p><b>Étym</b>. ὀ. πρῷρα.`

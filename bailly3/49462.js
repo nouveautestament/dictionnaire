@@ -1,0 +1,1 @@
+lar[49462]=`<b>ου (ὁ)</b> Hippyllos, <i>h</i>. AR. <i>Vesp. 1301</i>.<p><b>Étym</b>. ἵππος.`

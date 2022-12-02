@@ -1,0 +1,1 @@
+lar[86880]=`<b>προ·ϋπογράφω</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> décrire <i>ou</i> esquisser d’avance, CHRYS.<br><b>      2</b> faire comprendre d’avance, CLÉARQ. (ATH. <i>553f</i>).<br><b><i>Moy.</i></b> esquisser d’avance, <i>acc</i>. PLUT. <i>Luc. 31</i>.`

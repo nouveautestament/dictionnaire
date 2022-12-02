@@ -1,0 +1,1 @@
+lar[5832]=`<b>ης (ἡ) :<br>      1</b> robe de femme, PHÉRÉCR. (<i>Com. fr. 2, 300</i>).<br><b>      2</b> vêtement, <i>en gén</i>. XÉN. <i>Mem. 1, 2, 5</i> ; PLAT. <i>Leg. 679a, etc.</i> ; ARSTT. <i>Rhet. 2, 4, etc</i>.<p><b>Étym</b>. ἀμπέχω.`

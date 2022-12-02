@@ -1,0 +1,1 @@
+lar[73645]=`<font color="purple">[ᾰ]</font> s’élever jusqu’au ciel, ESCHL. <i>fr. 402 Dind</i>.<p><b>Étym</b>. οὐρανός.`

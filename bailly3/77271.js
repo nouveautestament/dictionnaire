@@ -1,0 +1,1 @@
+lar[77271]=`<i>dat</i>. <b>ᾳ (ὁ)</b> = <i>lat</i>. Pansa, <i>n. d’h. rom</i>. PLUT. <i>Fort. Rom. 7</i>.`

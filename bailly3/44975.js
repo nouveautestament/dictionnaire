@@ -1,0 +1,1 @@
+lar[44975]=`<b>ἡδύ·γαμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui consiste en un heureux mariage, ANTH. <i>5, 243</i>.<p><b>Étym</b>. ἡ. γάμος.`

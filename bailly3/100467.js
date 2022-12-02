@@ -1,0 +1,1 @@
+lar[100467]=`<b>τρισ·κοπάνιστος, ος, ον</b> <font color="purple">[ᾰ]</font> fait de farine moulue trois fois, <i>càd</i>. de la plus fine farine, BATR. <i>35</i>.<p><b>Étym</b>. τρ. κοπανίζω.`

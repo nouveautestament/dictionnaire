@@ -1,0 +1,1 @@
+lar[94264]=`<b>ατος (τὸ)</b> entrelacement, <i>particul</i>. groupe d’athlètes entrelacés, PLIN. <i>H.N. 36, 4, 6 et 10</i>.<p><b>Étym</b>. συμπλέκω.`

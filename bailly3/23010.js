@@ -1,0 +1,1 @@
+lar[23010]=`<b>οῦ (τὸ)</b> portion de boisson, ration, IL. <i>4, 262</i>.<p><b>Étym</b>. δαίνυμι.`

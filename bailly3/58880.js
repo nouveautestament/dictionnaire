@@ -1,0 +1,1 @@
+lar[58880]=`<i>att</i>. <b>-ίττιον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>dim. de</i> κυπάρισσος, ALCIPHR. <i>fr. 6, 1</i>.`

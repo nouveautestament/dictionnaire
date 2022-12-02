@@ -1,0 +1,1 @@
+lar[22370]=`<b>ης (ἡ) :<br>      1</b> tumeur scrofuleuse, goitre, HPC. <i>1175c.</i><br><b>      2</b> <i>c</i>. γόγγρος 2, GAL. <i>9, 445</i>.<p><b>Étym</b>. γόγγρος.`

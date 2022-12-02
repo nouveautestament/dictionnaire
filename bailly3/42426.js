@@ -1,0 +1,1 @@
+lar[42426]=`<font color="purple">[νᾱ]</font> <i>sup. dor. de</i> εὐκίνητος.`

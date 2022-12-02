@@ -1,0 +1,1 @@
+lar[59673]=`<b>ου (ὁ)</b> Lamiskos, <i>h</i>. PLAT. <i>Ep. 350b</i>.`

@@ -1,0 +1,1 @@
+lar[46709]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat des dieux entre eux, PLAT. <i>Rsp. 378d</i>.<p><b>Étym</b>. θεομάχος.`

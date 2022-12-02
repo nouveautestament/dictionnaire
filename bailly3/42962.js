@@ -1,0 +1,1 @@
+lar[42962]=`<b>ας (ἡ)</b> docilité, T. LOCR. <i>104b ;</i> STR. <i>312</i> ; PLUT. <i>Dio. 4, etc.</i> ; SPT. <i>4Macc. 5, 16</i>.<p><b>Étym</b>. εὐπειθής.`

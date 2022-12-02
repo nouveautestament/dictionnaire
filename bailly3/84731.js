@@ -1,0 +1,1 @@
+lar[84731]=`<b>προ·μήκης, ης, ες</b>, oblong, allongé, PLAT. <i>Tim. 54a ;</i> ARSTT. <i>G.A. 1, 7, 1</i> ; TH. <i>H.P. 3, 10, 1</i> ; ἀριθμός, PLAT. <i>Theæt. 148a ;</i> DL. <i>2, 24,</i> nombre qui est le produit de deux facteurs inégaux, <i>p. ex</i>. 8 = 2 × 4.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>H.A. 9, 41, 1</i> ; TH. <i>H.P. 3, 10, 1</i>.<p><b>Étym</b>. π. μῆκος.`

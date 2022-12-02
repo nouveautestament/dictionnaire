@@ -1,0 +1,1 @@
+lar[4436]=`<b>ἁλι·δινής, ής, ές</b> <font color="purple">[ᾰῐῑ]</font> qui tournoie sur la mer, DP. <i>908</i>.<p><b>Étym</b>. ἅλς, δινέω.`

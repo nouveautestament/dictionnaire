@@ -1,0 +1,1 @@
+lar[70429]=`<b>ατος (τὸ)</b> marque <i>ou</i> sentiment de compassion, SPT. <i>Jer. 31, 3</i>.<p><b>Étym</b>. οἰκτείρω.`

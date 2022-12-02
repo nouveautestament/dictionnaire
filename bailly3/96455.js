@@ -1,0 +1,1 @@
+lar[96455]=`<i>adv</i>., par une conjuration, PLUT. <i>M. 813a</i>.<p><b>Étym</b>. συνωμότης.`

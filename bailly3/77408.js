@@ -1,0 +1,1 @@
+lar[77408]=`<b>ωνος (ὁ)</b> patron, protecteur, DS. <i>Exc. 571, 17</i> ; PLUT. <i>Fab. 13, etc</i>.<p><b>Étym</b>. <i>cf. lat</i>. patronus.`

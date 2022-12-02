@@ -1,0 +1,1 @@
+lar[89642]=`<b>ας (ἡ)</b> = <i>lat</i>. Sĕvēra, <i>n. de f. rom</i>. ANTH. <i>App. 104</i>.`

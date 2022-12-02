@@ -1,0 +1,1 @@
+lar[28742]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> rétention d’urine, ARSTT. <i>fr. 444</i> ; PLUT. <i>M. 733c</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Aph. 1247</i>.<p><b>Étym</b>. δ. οὖρον.`

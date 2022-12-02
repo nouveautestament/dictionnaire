@@ -1,0 +1,1 @@
+lar[56941]=`<b>ά, όν</b> <font color="purple">[ᾰρ]</font> fatigant, ARSTT. <i>Probl. 5, 1</i> ; TH. <i>fr. 7, 7 ; 9, 18</i>.<p><b>Étym</b>. κοπιάω.`

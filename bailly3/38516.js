@@ -1,0 +1,1 @@
+lar[38516]=`<b>εως (ἡ)</b> amoncellement de nuages, temps nuageux, ARSTT. <i>Probl. 26, 38</i>.<p><b>Étym</b>. ἐπινέφω.`

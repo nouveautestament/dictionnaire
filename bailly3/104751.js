@@ -1,0 +1,1 @@
+lar[104751]=`<b>ων (οἱ)</b> = <i>lat</i>. Falerii, <i>v. d’Étrurie,</i> PLUT. <i>Cam. 2, 9, 10, etc</i>.`

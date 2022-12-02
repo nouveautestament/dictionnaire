@@ -1,0 +1,1 @@
+lar[25913]=`<b>δια·χαρίζομαι</b> (<i>part. ao</i>. -ισάμενος) <font color="purple">[χᾰ]</font> distribuer à titre de présents, <i>acc</i>. DS. <i>19, 20</i>.`

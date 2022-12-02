@@ -1,0 +1,1 @@
+lar[55630]=`<b>κισσο·ειδής, ής, ές</b>, qui ressemble à du lierre, DIOSC. <i>2, 196</i> ; GAL. <i>4, 556</i> ; ἡ κ. (<i>s.-e</i>. γραμμή) MATH. la cissoïde, <i>courbe géométrique</i>.<p><b>Étym</b>. κισσός, εἶδος.`

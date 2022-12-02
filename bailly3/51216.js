@@ -1,0 +1,1 @@
+lar[51216]=`<b>καλλι·στάδιος, ος, ον</b> <font color="purple">[τᾰ]</font> d’une belle carrière, d’une vaste étendue, EUR. <i>I.T. 437</i>.<p><b>Étym</b>. κ. στάδιον.`

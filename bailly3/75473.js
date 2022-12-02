@@ -1,0 +1,1 @@
+lar[75473]=`<b>έως (ὁ)</b> <font color="purple">[ᾰγ]</font> qui produit, créateur, RHÉT. <i>1, 573 W</i>.<p><b>Étym</b>. παράγω.`

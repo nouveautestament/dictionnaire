@@ -1,0 +1,1 @@
+lar[70133]=`garnir de dents, ORIB. <i>p. 125 Mai</i>.<p><b>Étym</b>. ὀδούς.`

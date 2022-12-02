@@ -1,0 +1,1 @@
+lar[26526]=`<b>δι·καυλέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> pousser deux tiges, TH. <i>H.P. 6, 6, 8</i>.<p><b>Étym</b>. δίς, καυλός.`

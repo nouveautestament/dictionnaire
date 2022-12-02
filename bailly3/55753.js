@@ -1,0 +1,1 @@
+lar[55753]=`<b>ου (ὁ)</b> Klarios, <i>fl. de Chypre,</i> PLUT. <i>Sol. 26</i>.`

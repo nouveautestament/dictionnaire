@@ -1,0 +1,1 @@
+lar[56703]=`<b>κολοσσο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> à base colossale, <i>p. suite,</i> de dimension colossale, <i>en parl. d’une statue,</i> LYC. <i>615</i>.<p><b>Étym</b>. κολοσσός, βῆμα.`

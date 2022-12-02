@@ -1,0 +1,1 @@
+lar[14442]=`<font color="purple">[ᾰ]</font> <i>c</i>. Ἄρειος, PD. <i>N. 9, 97</i>.`

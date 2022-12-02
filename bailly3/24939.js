@@ -1,0 +1,1 @@
+lar[24939]=`<b>ή, όν</b>, qui traite en détail de, qui explique à fond, M. ANT. <i>10, 8</i>.<p><b>Étym</b>. διαληπτός.`

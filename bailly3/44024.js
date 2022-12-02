@@ -1,0 +1,1 @@
+lar[44024]=`<b>ἐφ·ηγέομαι-οῦμαι</b>, conduire vers, <i>particul</i>. conduire un magistrat au lieu où se cache un coupable, pour procéder à son arrestation, <i>avec le dat. de la pers. à laquelle on indique le coupable,</i> DÉM. <i>601, 20</i>.<p><b>Étym</b>. ἐπί, ἡγ.`

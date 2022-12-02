@@ -1,0 +1,1 @@
+lar[40885]=`<font color="purple">[ᾰ]</font> <i>adv</i>., sous forme interrogative, THÉON <i>Prog. 88, 5</i>.`

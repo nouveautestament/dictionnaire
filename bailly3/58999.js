@@ -1,0 +1,1 @@
+lar[58999]=`<b>κυρτο·ειδής, ής, ές</b>, de forme convexe, P. ALEX. <i>Apot. 16, p. 35, 8 Boer</i>.<p><b>Étym</b>. κυρτός, εἶδος.`

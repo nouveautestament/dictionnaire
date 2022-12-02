@@ -1,0 +1,1 @@
+lar[105526]=`<b>φίλ·αυλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la flûte, SOPH. <i>Ant. 965</i> ; EUR. <i>El. 435</i> ; AXION. (ATH. <i>342c</i>) ; ARSTT. <i>Nic. 10, 5, 3</i> ; PLUT. <i>M. 706b</i>.<p><b>Étym</b>. φ. αὐλός.`

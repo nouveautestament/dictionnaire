@@ -1,0 +1,1 @@
+lar[100995]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> calleux, NIC. <i>Th. 272</i>.<p><b>Étym</b>. τύλος.`

@@ -1,0 +1,1 @@
+lar[51852]=`<b>ου (ἡ)</b> <font color="purple">[πᾰ]</font> Karpathos (<i>auj</i>. Kárpathos, <i>anc</i>. Scarpanto) <i>î. entre la Crète et Rhodes,</i> HH. <i>Ap. 43</i> ; HDT. <i>3, 45, etc</i>.`

@@ -1,0 +1,1 @@
+lar[99252]=`<b>Τιμο·λέων, οντος (ὁ)</b> <font color="purple">[ῑ]</font> Timoléon, <i>général corinthien,</i> PLUT. <i>Tim. 3, 39, etc</i>.<p><b>Étym</b>. τιμή, λέων.`

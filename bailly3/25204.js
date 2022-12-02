@@ -1,0 +1,1 @@
+lar[25204]=`<b>δια·παρθενεύω</b>, violer une jeune fille, HDT. <i>4, 168</i> ; COM. (ATH. <i>556, etc</i>.).`

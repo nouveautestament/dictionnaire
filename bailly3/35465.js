@@ -1,0 +1,1 @@
+lar[35465]=`<b>ἐξ·ανάπτω</b>, suspendre à : τί τινος, EUR. <i>I.T. 1351,</i> une chose à une autre.<br><b><i>Moy.</i></b> attacher à soi, <i>fig. acc</i>. EUR. <i>Or. 826</i>.`

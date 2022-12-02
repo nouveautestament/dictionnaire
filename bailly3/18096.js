@@ -1,0 +1,1 @@
+lar[18096]=`<b>ἀ·φιλήδονος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’aime pas le plaisir, M. ANT. <i>5, 5</i> ; PHIL.`

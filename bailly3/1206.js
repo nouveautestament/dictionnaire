@@ -1,0 +1,1 @@
+lar[1206]=`<b>Ἀ·δείμαντος, ου (ὁ)</b> Adeimantos, <i>h</i>. HDT. <i>7, 137, etc.</i> ; XÉN. <i>Hell. 1, 4, 21, etc</i>.`

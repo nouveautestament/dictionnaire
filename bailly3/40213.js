@@ -1,0 +1,1 @@
+lar[40213]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> entreprise d’un travail moyennant une somme, contrat pour l’exécution d’un travail, ISOCR. <i>87c ;</i> DS. <i>2, 29</i> ; PLUT. <i>M. 71a</i>.<p><b>Étym</b>. ἐργολάβος.`

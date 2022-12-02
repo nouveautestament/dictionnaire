@@ -1,0 +1,1 @@
+lar[1421]=`<b>ἀδικίου δίκη (ἡ)</b> <font color="purple">[ᾰδῐ]</font> action judiciaire pour tort fait à qqn, HDT. <i>5, 89</i>.<p><b>Étym</b>. ἄδικος.`

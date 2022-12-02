@@ -1,0 +1,1 @@
+lar[87690]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Pylios, <i>h</i>. PLUT. <i>Thes. 33</i> ; ANTH. <i>7, 439</i>.<p><b>Étym</b>. <i>v</i>. Πύλιος¹.`

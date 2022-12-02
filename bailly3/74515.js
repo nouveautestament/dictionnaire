@@ -1,0 +1,1 @@
+lar[74515]=`<b>παλίλ·λογος, ος, ον</b> <font color="purple">[ᾰ]</font> rassemblé <i>ou</i> recueilli de nouveau, IL. <i>1, 126</i>.<p><b>Étym</b>. π. λέγω.`

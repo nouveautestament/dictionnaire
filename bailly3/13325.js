@@ -1,0 +1,1 @@
+lar[13325]=`<b>ἀπο·σκιρτάω-ῶ</b>, bondir <i>ou</i> sauter hors de, <i>gén</i>. DH. <i>1, 35</i> ; LUC. <i>M. cond. 23, etc</i>.`

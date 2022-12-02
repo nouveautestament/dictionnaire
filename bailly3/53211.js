@@ -1,0 +1,1 @@
+lar[53211]=`<i>vb. de</i> καταργέω, JAMBL. <i>Protr. p. 98</i>.`

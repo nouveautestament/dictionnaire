@@ -1,0 +1,1 @@
+lar[75220]=`<b>έως (ὁ)</b> Pantée, <i>h</i>. PLUT. <i>Cleom. 23, etc</i>.`

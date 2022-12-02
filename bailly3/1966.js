@@ -1,0 +1,1 @@
+lar[1966]=`<b>ας (ἡ)</b> athéisme, NAZ. <i>2, 14 Migne</i>.<p><b>Étym</b>. ἄθεος.`

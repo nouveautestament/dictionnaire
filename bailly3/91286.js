@@ -1,0 +1,1 @@
+lar[91286]=`<b>ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> <i>fém. de</i> σκύλαξ, ORPH. <i>Arg. 977</i>.`

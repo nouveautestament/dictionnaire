@@ -1,0 +1,1 @@
+lar[58568]=`<i>adv</i>., d’un mouvement circulaire, SEXT. <i>488 Bkk</i>.`

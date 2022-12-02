@@ -1,0 +1,1 @@
+lar[107036]=`<b>φυγο·δικέω-ῶ</b> <font color="purple">[ῠῐ]</font> faire défaut en justice, DÉM. <i>1013, 7</i>.<p><b>Étym</b>. φεύγω, δίκη.`

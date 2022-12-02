@@ -1,0 +1,1 @@
+lar[94783]=`<b>συν·αναχωρέω-ῶ</b>, retourner avec, PLAT. <i>Lach. 181b</i>.`

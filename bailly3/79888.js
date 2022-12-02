@@ -1,0 +1,1 @@
+lar[79888]=`<i>adv</i>., comme une pierre <i>ou</i> comme un roc, LUC. <i>Tim. 3</i>.<p><b>Étym</b>. πέτρα, -δον.`

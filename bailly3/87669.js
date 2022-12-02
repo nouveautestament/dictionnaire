@@ -1,0 +1,1 @@
+lar[87669]=`<b>ή, όν</b> <font color="purple">[ῠᾰῑ]</font><br><b>      1</b> railleur, digne d’un badaud <i>comme ceux qui affluaient à Pyles, pendant les sessions amphictioniques,</i> PLUT. <i>Pyrrh. 29</i>.<br><b>      2</b> de Pyles, <i>càd</i>. des Thermopyles, STR. <i>430, 436</i>.<p><b>Étym</b>. Πύλαι.`

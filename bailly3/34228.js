@@ -1,0 +1,1 @@
+lar[34228]=`<b>εως (ἡ) :<br>      1</b> pilier, assise d’un bâtiment, NT. <i>Apoc. 21, 18</i>.<br><b>      2</b> môle, digue, JOS. <i>A.J. 15, 9, 6</i>.<p><b>Étym</b>. ἐνδομέω.`

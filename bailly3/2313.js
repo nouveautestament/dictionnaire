@@ -1,0 +1,1 @@
+lar[2313]=`<b>ων (τὰ)</b> Ægosthènes (<i>auj</i>. Pórto Yermenó) <i>forteresse attique à la frontière de la Mégaride,</i> XÉN. <i>Hell. 5, 4, 18 ; 6, 4, 26</i>.`

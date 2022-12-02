@@ -1,0 +1,1 @@
+lar[94923]=`<b>συν·αποτέμνω</b>, séparer en même temps de, RUF. <i>p. 132 Matthäi</i>.`

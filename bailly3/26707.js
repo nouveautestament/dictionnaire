@@ -1,0 +1,1 @@
+lar[26707]=`<b>διό·γονος, ος, ον</b> <font color="purple">[ῑ <i>par exc</i>.]</font> <i>c</i>. Διογενής, EUR. <i>Hipp. 560</i>.`

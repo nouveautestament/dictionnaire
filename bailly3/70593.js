@@ -1,0 +1,1 @@
+lar[70593]=`<b>Οἰνο·χαίρων (ὁ)</b> Ami-du-vin, <i>n. de parasite,</i> ALCIPHR. <i>3, 72</i>.<p><b>Étym</b>. οἶν. χαίρω.`

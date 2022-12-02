@@ -1,0 +1,1 @@
+lar[16603]=`<b>ἄ·σχετος, ος, ον :<br>      1</b> irrésistible, OD. <i>3, 104 ; neutre adv</i>. ἄσχετον, A.RH. <i>4, 1738, ou</i> ἄσχετα, A.RH. <i>4, 1087,</i> irrésistiblement.<br><b>      2</b> intolérable, IL. <i>16, 549</i>.<p><b>Étym</b>. ἀ, ἔχω ; <i>cf</i>. ἀάσχετος.`

@@ -1,0 +1,1 @@
+lar[107161]=`<b>φυλλο·στάφυλον, ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> <i>autre n. de la plante</i> κάππαρις, DIOSC. <i>Noth. 2, 204</i>.<p><b>Étym</b>. φ. σταφύλη.`

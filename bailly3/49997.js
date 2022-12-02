@@ -1,0 +1,1 @@
+lar[49997]=`<b>ῆς (ἡ) :<br>      1</b> cri de douleur, lamentation, SOPH. <i>Ph. 752</i> ; ORACL. (HDT. <i>9, 43</i>).<br><b>      2</b> sifflement de certains reptiles, NIC. <i>Th. 400</i> ; OPP. <i>H. 1, 565</i>.<p>➳ <font color="purple">[ῐῡ]</font> SOPH. <i>l. c.</i> ; <font color="purple">[ῑῡ]</font> NIC. OPP. <i>ll. cc</i>.<p><b>Étym</b>. ἰύζω.`

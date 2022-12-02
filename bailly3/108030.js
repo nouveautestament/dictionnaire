@@ -1,0 +1,1 @@
+lar[108030]=`<b>χαυνο·πολίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> citoyen gobe-mouches, AR. <i>Ach. 635</i>.<p><b>Étym</b>. χαῦνος, πολίτης.`

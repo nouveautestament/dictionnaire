@@ -1,0 +1,1 @@
+lar[63917]=`<b>Μελάντειοι σκόπελοι (οἱ)</b> ORPH. <i>Arg. 1352 ; ou</i> <b>πέτραι (αἱ)</b> A.RH. <i>4, 1707,</i> les roches Mélanteies, <i>autour de l’î. de Thèra</i>.`

@@ -1,0 +1,1 @@
+lar[29487]=`<b>ἐγ·καναχάομαι-ῶμαι</b> <font color="purple">[ᾰνᾰ]</font> <font color="darkgreen">(<i>ao. poét</i>. ἐγκαναχήσατο ; <i>conj</i>. ἐγκαγχάσατο)</font> souffler avec bruit dans, <i>dat</i>. THCR. <i>Idyl. 9, 27</i>.<p><b>Étym</b>. ἐν, καναχή.`

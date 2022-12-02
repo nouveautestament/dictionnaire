@@ -1,0 +1,1 @@
+lar[21591]=`<b>οῦ (ὁ)</b> plaisanterie, SPT. <i>Jer. 31, 27</i>.<p><b>Étym</b>. γελοιάζω.`

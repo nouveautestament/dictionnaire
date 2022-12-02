@@ -1,0 +1,1 @@
+lar[18561]=`<b>ἀ·χύνετος, ος, ον</b> <font color="purple">[ῡ]</font> qui coule <i>ou</i> se répand en abondance, <i>d’où</i> abondant, NIC. <i>Al. 174</i>.<p><b>Étym</b>. χέω.`

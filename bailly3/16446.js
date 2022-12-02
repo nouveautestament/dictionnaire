@@ -1,0 +1,1 @@
+lar[16446]=`<font color="purple">[βᾰ]</font> <i>adv</i>., en se refusant à tout accommodement, PLUT. <i>Cic. 46</i>.`

@@ -1,0 +1,1 @@
+lar[39573]=`<b>*ἐπι·φθύζω</b>, <i>seul. dor</i>. <b>ἐπι·φθύσδω</b> (<i>part. prés. fém</i>. ἐπιφθύσδοισα) cracher sur, THCR. <i>Idyl. 2, 62 ; 7, 127</i>.<p><b>Étym</b>. <i>cf</i>. ἐπιπτύω.`

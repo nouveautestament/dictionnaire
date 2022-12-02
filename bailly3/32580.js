@@ -1,0 +1,1 @@
+lar[32580]=`<b>ητος (ἡ)</b> légèreté, agilité, PLAT. <i>Leg. 795e</i>.<p><b>Étym</b>. ἐλαφρός.`

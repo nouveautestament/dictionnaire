@@ -1,0 +1,1 @@
+lar[25201]=`<b>δια·παρατηρέομαι-οῦμαι</b> <font color="darkgreen">(<i>impf. 3 pl</i>. διεπαρετηροῦντο)</font> observer constamment, <i>acc</i>. SPT. <i>2Reg. 3, 30 ; Sam. 2, 3, 30</i>.`

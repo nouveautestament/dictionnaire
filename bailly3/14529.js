@@ -1,0 +1,1 @@
+lar[14529]=`<font color="darkgreen">(<i>seul. part. pf. pass</i>. ἀρητυμένοι, ALC. <i>47 ; p.-ê</i>. ἀρυτήμενοι, <i>éol. p</i>. ἀρυτόμενοι, <i>conj. Bgk</i>)</font> puiser.<p><b>Étym</b>. <i>cf</i>. ἀρύω¹.`

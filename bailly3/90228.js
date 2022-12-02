@@ -1,0 +1,1 @@
+lar[90228]=`<font color="purple">[σῑ]</font> <i>adv. ion</i>. de Sicile, NONN. <i>D. 13, 309</i>.<p><b>Étym</b>. Σικελία, -θεν.`

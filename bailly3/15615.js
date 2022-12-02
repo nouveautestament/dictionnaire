@@ -1,0 +1,1 @@
+lar[15615]=`<b>ἀρχι·θύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> chef des sacrificateurs, CI. <i>8756, 8761</i>.`

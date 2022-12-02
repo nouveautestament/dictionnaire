@@ -1,0 +1,1 @@
+lar[57085]=`<b>ου (ὁ)</b> Koriskos, <i>disciple de Platon,</i> PLAT. <i>Ep. 323a ;</i> ARSTT. <i>Somn. 3, etc</i>.`

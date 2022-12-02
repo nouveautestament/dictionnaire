@@ -1,0 +1,1 @@
+lar[49755]=`<b>ἰσο·ταγής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font> du même ordre, de l’ordre correspondant, NICOM. <i>Arithm. 51</i>.<p><b>Étym</b>. ἴ. τάσσω.`

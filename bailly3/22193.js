@@ -1,0 +1,1 @@
+lar[22193]=`<b>γλυκύ·χυμος, ος, ον</b> <font color="purple">[ῠῠῡ]</font> au suc doux, savoureux, GAL. <i>13, 42b</i>.<p><b>Étym</b>. γλ. χυμός.`

@@ -1,0 +1,1 @@
+lar[62499]=`<b>μακρο·βολέω-ῶ</b>, tirer à grande distance, <i>en parl. d’engins balistiques,</i> PHIL. BYZ. <i>Bel. 2, 10, 15</i>.<p><b>Étym</b>. μακροβόλος.`

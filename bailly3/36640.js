@@ -1,0 +1,1 @@
+lar[36640]=`<b>ἐπ·αναρρήγνυμι</b> <font color="purple">[ῡ]</font> rompre de nouveau, rouvrir (une blessure, <i>etc</i>.) PLUT. <i>Cato mi. 70 (part. ao</i>. -αναρρήξας) ; <i>au pass</i>. HPC. <i>415, 5</i>.`

@@ -1,0 +1,1 @@
+lar[5368]=`<b>άδος (ἡ)</b> <i>s.-e</i>. γῆ, terrasse (<i>litt</i>. terre amoncelée) XÉN. <i>Cyr. 7, 5, 12</i>.<p><b>Étym</b>. ἀμβολή.`

@@ -1,0 +1,1 @@
+lar[24456]=`<b>δια·βριμάομαι-ῶμαι</b> <font color="purple">[ρῑ]</font> (<i>seul. prés. part</i>.) frémir fortement, THÉM. <i>261c</i>.`

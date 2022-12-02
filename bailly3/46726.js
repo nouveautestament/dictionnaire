@@ -1,0 +1,1 @@
+lar[46726]=`<b>θεο·μυσής, ής, ές</b> <font color="purple">[ῠ]</font> qui est un objet d’horreur pour les dieux, ESCHL. <i>Eum. 40</i>.<p><b>Étym</b>. θ. μύσος.`

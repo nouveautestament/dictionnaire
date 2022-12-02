@@ -1,0 +1,1 @@
+lar[88956]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> pli de la peau, ride, AR. <i>Pl. 1051</i> ; ANTH. <i>5, 264 ; 6, 93 ; 7, 217</i> ; PLAT. <i>Conv. 190e, 191a</i>.<p>➳ <font color="purple">[ῡ]</font> NAZ. <i>v. Jacobs</i> ANTH. <i>p. 726</i>.<p><b>Étym</b>. ῥυσός.`

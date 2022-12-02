@@ -1,0 +1,1 @@
+lar[28517]=`<font color="purple">[θῡ]</font> (<i>prés. impér</i>. -αινε) s’effrayer, HH. <i>Cer. 362</i>.<p><b>Étym</b>. δύσθυμος.`

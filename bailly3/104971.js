@@ -1,0 +1,1 @@
+lar[104971]=`<b>ή, όν</b> <font color="purple">[ᾱᾱκ]</font> du Phase, ATH. <i>386d, 387c ;</i> οἱ Φασιανικοί, AR. <i>Av. 68,</i> les habitants du Phase, <i>en Colchide, et, avec jeu de mots sur le sens de</i> φάσις, délation, les délateurs ; <i>cf</i>. Φασιανός.<p><b>Étym</b>. Φᾶσις.`

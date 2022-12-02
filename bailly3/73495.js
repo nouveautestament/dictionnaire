@@ -1,0 +1,1 @@
+lar[73495]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Vergilio, <i>n. d’h. rom</i>. PLUT. <i>Galb. 26</i>.`

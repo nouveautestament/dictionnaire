@@ -1,0 +1,1 @@
+lar[101314]=`<b>ὑαλό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ, <i>p. exc</i>. ῡ]</font> qui a la couleur du verre, ANTH. <i>6, 211</i>.<p><b>Étym</b>. ὕαλος, χρόα.`

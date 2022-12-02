@@ -1,0 +1,1 @@
+lar[87046]=`<b>εως (ἡ)</b> action de s’avancer, HPC. <i>Fract. 763</i> ; JAMBL. <i>Protr. 354 Kiessl</i>.<p><b>Étym</b>. προχωρέω.`

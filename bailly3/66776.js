@@ -1,0 +1,1 @@
+lar[66776]=`<b>όος-οῦς (ἡ) :<br>      1</b> Morphô, <i>propr</i>. « la Beauté », <i>n. d’Aphrodite, à Lacédémone,</i> LYC. <i>449</i> ; PAUS. <i>3, 15, 10</i>.<br><b>      2</b> <i>c</i>. μορφή, ARCHYT. (STOB. <i>Ecl. 1, 714).</i><p><b>Étym</b>. <i>v</i>. μορφώ.`

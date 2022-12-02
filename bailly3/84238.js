@@ -1,0 +1,1 @@
+lar[84238]=`<b>προ·επικοινόω-ῶ</b>, communiquer d’avance, DC. <i>55, 4</i>.`

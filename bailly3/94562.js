@@ -1,0 +1,1 @@
+lar[94562]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> <i>c</i>. συναγωγή PLUT. <i>M. 632e</i>.`

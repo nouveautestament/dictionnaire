@@ -1,0 +1,1 @@
+lar[27976]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> sorte de cyprès, TH. <i>C.P. 1, 2, 2</i> ; δρ. λίθος, sorte de pierre précieuse, PLIN. <i>H.N. 37, 11</i>.<p><b>Étym</b>. δρῦς.`

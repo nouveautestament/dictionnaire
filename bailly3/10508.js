@@ -1,0 +1,1 @@
+lar[10508]=`<b>εως (ἡ)</b> <font color="purple">[ῑμ]</font> vengeance, ORIG. <i>2, 541</i>.`

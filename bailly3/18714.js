@@ -1,0 +1,1 @@
+lar[18714]=`<b>(ὁ)</b> Badrès, <i>Perse,</i> HDT. <i>4, 167, etc</i>.`

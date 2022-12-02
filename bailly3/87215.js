@@ -1,0 +1,1 @@
+lar[87215]=`<b>πρωτο·κτόνος, ος, ον</b>, qui concerne un premier meurtre, ESCHL. <i>Eum. 718</i>.<p><b>Étym</b>. πρ. κτείνω.`

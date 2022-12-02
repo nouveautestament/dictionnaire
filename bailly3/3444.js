@@ -1,0 +1,1 @@
+lar[3444]=`<b>ἀ·κλυδώνιστος, ος, ον</b> <font color="purple">[ῠ]</font> non battu des flots ; <i>p. ext</i>. ἀ. τῶν πνευμάτων, POL. <i>10, 10, 4,</i> à l’abri des coups de vent.<p><b>Étym</b>. ἀ, κλυδωνίζομαι.`

@@ -1,0 +1,1 @@
+lar[83321]=`<b>ιδος (ὁ)</b> <font color="purple">[ῐδ]</font> Prépis, <i>h</i>. AR. <i>Ach. 843</i>.`

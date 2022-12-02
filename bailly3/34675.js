@@ -1,0 +1,1 @@
+lar[34675]=`<b>ης (ἡ)</b> Enna (<i>auj</i>. Enna) <i>v. de Sicile,</i> ARSTT. <i>Mir. 86</i> ; CALL. <i>H. 6, 3, etc.</i> ; PLUT. <i>Marc. 20, etc</i>.<p>➳ <i>Dat</i>. Ἔννᾳ, CALL. <i>l. c</i>.`

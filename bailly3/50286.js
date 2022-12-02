@@ -1,0 +1,1 @@
+lar[50286]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., proprement, XÉN. <i>Cyr. 1, 3, 8</i> ; STR. <i>154</i>.`

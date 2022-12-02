@@ -1,0 +1,1 @@
+lar[101630]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> Hyétis, <i>source près de Milet,</i> THCR. <i>Idyl. 7, 115</i>.<p><b>Étym</b>. ὑετός.`

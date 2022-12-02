@@ -1,0 +1,1 @@
+lar[7156]=`<b>ἀν·αμάξευτος, ος, ον</b> <font color="purple">[ᾰμ]</font> impraticable aux voitures, HDT. <i>2, 108</i>.<p><b>Étym</b>. ἀν-, ἀμαξεύω.`

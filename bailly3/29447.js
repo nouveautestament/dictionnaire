@@ -1,0 +1,1 @@
+lar[29447]=`<b>ἐγ·καθέψω</b> <font color="darkgreen">(<i>f</i>. -εψήσω)</font>, faire cuire dans, HPC. <i>651, 48</i>.<p><b>Étym</b>. ἐν, κ.`

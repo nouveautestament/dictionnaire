@@ -1,0 +1,1 @@
+lar[82078]=`<b>πολύ·λοπος, ος, ον</b> <font color="purple">[ῠ]</font> revêtu de plusieurs tuniques <i>ou</i> écorces, TH. <i>H.P. 1, 5, 2</i>.<p><b>Étym</b>. π. λοπός.`

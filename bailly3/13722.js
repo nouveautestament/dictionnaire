@@ -1,0 +1,1 @@
+lar[13722]=`<b>ή, όν</b>, qui permet d’échapper, XÉN. <i>Ap. 8</i>.<p><b>Étym</b>. ἀποφεύγω.`

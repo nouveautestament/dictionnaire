@@ -1,0 +1,1 @@
+lar[82359]=`<b>ας (ἡ)</b> <font color="purple">[ῠσῑ]</font><br><b>      1</b> abondance de blé <i>ou</i> de vivres, XÉN. <i>Hell. 5, 2, 12</i>.<br><b>      2</b> voracité, gloutonnerie, LUC. <i>Par. 16</i>.<p><b>Étym</b>. πολύσιτος.`

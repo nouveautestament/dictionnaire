@@ -1,0 +1,1 @@
+lar[70866]=`<b>ὀκτά·χρονος, ος, ον</b>, de huit années, PROCL. <i>Plat. Parm. t. 6, p. 289 Cousin</i>.<p><b>Étym</b>. ὀ. χρόνος.`

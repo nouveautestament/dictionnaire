@@ -1,0 +1,1 @@
+lar[45036]=`<b>ἡδυ·φάρυγξ, -φάρυγγος (ὁ, ἡ)</b> <font color="purple">[ῠᾰ]</font> agréable au gosier, PHILOX. (ATH. <i>147b</i>).<p><b>Étym</b>. ἡ. φάρυγξ.`

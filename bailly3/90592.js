@@ -1,0 +1,1 @@
+lar[90592]=`<b>ή, όν</b>, de caractère silencieux, réservé, discret, taciturne, EUR. <i>Med. 320</i> ; ARSTT. <i>Probl. 30, 1, 6</i> ; CALL. <i>Ap. 12</i> ; PLUT. <i>M. 506</i> ; τὸ σιωπηλόν, PLUT. <i>Fab. 1, M. 47d</i>, la taciturnité.<p>•<i> Cp</i>. -ότερος, <i>Prov</i>. (SUID. <i>v°</i> σιωπή) ; <i>sup</i>. -ότατος, PLUT. <i>M. 506a</i>.<p><b>Étym</b>. σιωπάω.`

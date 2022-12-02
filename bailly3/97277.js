@@ -1,0 +1,1 @@
+lar[97277]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Sôtadès, D. PHAL. <i>§ 189</i>.<p><b>Étym</b>. <i>v</i>. Σωτάδης.`

@@ -1,0 +1,1 @@
+lar[73823]=`<b>ὀφθαλμο·ειδής, ής, ές</b>, qui ressemble à un œil <i>ou</i> à des yeux, DIOSC. <i>3, 156</i>.<p><b>Étym</b>. ὀ. εἶδος.`

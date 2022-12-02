@@ -1,0 +1,1 @@
+lar[85112]=`<b>α, ον</b>, <i>vb. de</i> προσάγω, ARÉT. <i>Cur. m. acut. 2, 3 ; au neutre,</i> HPC. <i>Art. 792</i> ; PLAT. <i>Rsp. 537a ;</i> ARSTT. <i>Pol. 8, 5, 24, etc</i>.`

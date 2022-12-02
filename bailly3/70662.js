@@ -1,0 +1,1 @@
+lar[70662]=`<b>οἰόω-ῶ</b> <font color="darkgreen">(<i>ao. pass. épq</i>. οἰώθην)</font> laisser seul, IL. <i>6, 1 ; 11, 401</i> ; Q. SM. <i>6, 527</i>.<p><b>Étym</b>. οἶος.`

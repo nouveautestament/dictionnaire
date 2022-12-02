@@ -1,0 +1,1 @@
+lar[108476]=`<b>χιμαιρο·φόνος, ος, ον</b> <font color="purple">[ῐ]</font> meurtrier de la Chimère, ANTH. <i>9, 774</i>.<p><b>Étym</b>. χίμαιρα, πεφνεῖν.`

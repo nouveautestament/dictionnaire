@@ -1,0 +1,1 @@
+lar[54179]=`<b>εως (ἡ)</b> action d’enfouir, d’enterrer, TH. <i>H.P. 5, 7, 7</i>.<p><b>Étym</b>. κατορύσσω.`

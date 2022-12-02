@@ -1,0 +1,1 @@
+lar[52676]=`<b>κατα·κωλύω</b>, retenir, empêcher, gêner, <i>acc</i>. SIM. (PLUT. <i>M. 722c</i>) ; DÉM. <i>1248, 1</i> ; empêcher, <i>avec l’inf</i>. XÉN. <i>Œc. 12, 1</i> ; AR. <i>Ach. 1088 ; au pass</i>. être empêché de, <i>avec le gén</i>. DÉM. <i>896, 20</i>.`

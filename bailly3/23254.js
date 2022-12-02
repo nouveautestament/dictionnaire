@@ -1,0 +1,1 @@
+lar[23254]=`<b>(οἱ)</b> <font color="purple">[ᾰν]</font> descendants de Dardanos, IL. <i>7, 414 ; 8, 154</i> ; Q. SM. <i>11, 425</i>.<p><b>Étym</b>. Δάρδανος.`

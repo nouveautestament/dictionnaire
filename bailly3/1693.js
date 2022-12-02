@@ -1,0 +1,1 @@
+lar[1693]=`<b>ἀεί·πλανος, ος, ον</b> <font color="purple">[ᾰν]</font> toujours errant, EPIGR. (SUID.).<p><b>Étym</b>. ἀ. πλανάω.`

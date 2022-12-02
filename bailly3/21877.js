@@ -1,0 +1,1 @@
+lar[21877]=`<b>*γεωπονία</b>, <i>seul. ion</i>. <b>γεωπονίη, ης (ἡ)</b> travail de la terre, agriculture, Ps.-PHOCYL. <i>161</i>.<p><b>Étym</b>. γεωπόνος ; <i>cf</i>. γεηπονία.`

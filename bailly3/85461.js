@@ -1,0 +1,1 @@
+lar[85461]=`<b>προσ·εάω-εῶ</b>, permettre en outre, NT. <i>Ap. 27, 7</i>.`

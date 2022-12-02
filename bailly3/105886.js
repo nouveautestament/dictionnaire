@@ -1,0 +1,1 @@
+lar[105886]=`<b>(ὁ)</b> Philoladas, <i>h</i>. ANTH. <i>6, 289</i>.<p><b>Étym</b>. <i>contr. p</i>. *Φιλολαΐδας, <i>patr. de</i> Φιλόλαος.`

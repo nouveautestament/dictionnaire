@@ -1,0 +1,1 @@
+lar[72775]=`être matinal, se lever <i>ou</i> agir de bonne heure, THCR. <i>Idyl. 10, 58</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> être matinal, EUR. <i>Suppl. 978</i>.<br><b>      2</b> veiller, être éveillé, EUR. <i>Tr. 182</i>.<p><b>Étym</b>. ὄρθρος.`

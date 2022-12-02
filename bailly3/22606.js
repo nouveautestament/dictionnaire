@@ -1,0 +1,1 @@
+lar[22606]=`<b>ου (ὁ)</b> = <i>lat</i>. Granius, <i>n. d’h</i>. PLUT. <i>Cæs. 16, Mar. 35, etc</i>.`

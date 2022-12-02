@@ -1,0 +1,1 @@
+lar[8225]=`<b>ἀν·εκβίαστος, ος, ον</b>, que la violence ne peut écarter, PLUT. <i>M. 1055d</i>.<p><b>Étym</b>. ἀν-, ἐκβιάζομαι.`

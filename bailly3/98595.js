@@ -1,0 +1,1 @@
+lar[98595]=`<b>ύος (ἡ)</b> le nombre quaternaire, <i>càd</i>. le nombre 10 formé par l’addition des quatre premiers nombres (1 + 2 + 3 + 4), <i>fondement de toutes choses dans la doctrine pythagoricienne,</i> PYTHAG. <i>Aur. carm. 47</i> ; PLUT. <i>M. 381f ;</i> LUC. <i>Philopatr. 12</i>.<p><b>Étym</b>. τετράς.`

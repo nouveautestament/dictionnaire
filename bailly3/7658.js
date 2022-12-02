@@ -1,0 +1,1 @@
+lar[7658]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> bouleversement, ruine, SIB. <i>4, 69</i>.<p><b>Étym</b>. ἀνίστημι.`

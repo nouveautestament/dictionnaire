@@ -1,0 +1,1 @@
+lar[108755]=`<b>χονδρο·ποιητικός, ή, όν</b>, propre à former un cartilage, GAL. <i>2, 13</i>.<p><b>Étym</b>. χόνδρος, ποιέω.`

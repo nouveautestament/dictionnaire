@@ -1,0 +1,1 @@
+lar[97258]=`<b>σωσί·πολις, εως (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui sauve <i>ou</i> protège la ville <i>ou</i> les États, AR. <i>Ach. 163</i> ; STR. <i>648</i>.<p><b>Étym</b>. σῴζω, πόλις ; <i>cf</i>. Σωσίπτολις.`

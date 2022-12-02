@@ -1,0 +1,1 @@
+lar[1082]=`<i>adv</i>., par un changement soudain, LGN <i>22, 1</i>.`

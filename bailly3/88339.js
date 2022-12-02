@@ -1,0 +1,1 @@
+lar[88339]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> coupé, fendu, partagé, AMPHIS (<i>Com. fr. 3, 307).</i><p><b>Étym</b>. <i>vb. de</i> ῥαχίζω.`

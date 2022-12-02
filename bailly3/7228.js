@@ -1,0 +1,1 @@
+lar[7228]=`<i>adv</i>., sans contestation, XÉN. <i>Hell. 4, 3, 19 ; 7, 2, 6</i> ; PLAT. <i>Soph. 259b, etc</i>.`

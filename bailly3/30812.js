@@ -1,0 +1,1 @@
+lar[30812]=`<b>εἰσ·κωμάζω</b> (<i>seul. ao</i>. εἰσεκώμασα) entrer <i>ou</i> se précipiter comme un homme ivre, LYC. <i>1355</i> ; LUC. <i>Lex. 9</i> ; ARSTD. <i>t. 1, 353 ; fig</i>. ATH. <i>231e</i>.`

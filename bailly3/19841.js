@@ -1,0 +1,1 @@
+lar[19841]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> nuisible, funeste, HH. <i>Merc. 36 dout.</i> ; HÉS. <i>O. 363</i> ; XÉN. <i>Cyr. 8, 8, 7 ; etc</i>.<p>•<i> Sup</i>. -ώτατος, PLAT. <i>Phædr. 239b</i>.<p><b>Étym</b>. βλάπτω.`

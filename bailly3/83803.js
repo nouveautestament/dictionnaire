@@ -1,0 +1,1 @@
+lar[83803]=`<b>προ·βλέπω</b>, prévoir, prévenir, DH. <i>11, 20</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NT. <i>Hebr. 11, 40</i>.`

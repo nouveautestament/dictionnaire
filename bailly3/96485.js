@@ -1,0 +1,1 @@
+lar[96485]=`<b>ου (ὁ)</b> originaire <i>ou</i> habitant du dème Sypalèttos, <i>de la tribu Cécropide,</i> IS. <i>10, 4 Baiter-Sauppe</i>.`

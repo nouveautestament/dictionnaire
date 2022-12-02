@@ -1,0 +1,1 @@
+lar[65419]=`<b>μηλοφορέω-ῶ</b> <font color="darkgreen">(<i>impf. dor. 3 sg</i>. ἐμαλοφόρει)</font> <font color="purple">[ᾱ]</font> contenir (<i>propr</i>. porter) des pommes, THCR. <i>Epigr. 2, 4</i>.<p><b>Étym</b>. μηλοφόρος.`

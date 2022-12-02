@@ -1,0 +1,1 @@
+lar[14062]=`<b>ου (τὸ)</b> <font color="purple">[φᾰ]</font> petit papa, papounet, XÉNARQ. (ATH. <i>569c</i>).<p><b>Étym</b>. <i>dim. de</i> ἀπφά.`

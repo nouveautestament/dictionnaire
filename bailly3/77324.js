@@ -1,0 +1,1 @@
+lar[77324]=`<b>(ὁ)</b> Patègyas, <i>Perse,</i> XÉN. <i>An. 1, 8, 1</i>.`

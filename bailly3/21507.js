@@ -1,0 +1,1 @@
+lar[21507]=`<i>participe de</i> γέγωνα.`

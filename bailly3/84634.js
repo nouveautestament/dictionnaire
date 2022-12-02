@@ -1,0 +1,1 @@
+lar[84634]=`<b>προ·λάζυμαι</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) prendre <i>ou</i> saisir d’avance, EUR. <i>Ion 1027</i>.`

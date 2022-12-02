@@ -1,0 +1,1 @@
+lar[13040]=`<b>ας (ἡ)</b> expérience, épreuve, examen, GAL.<p><b>Étym</b>. <i>cf</i>. ἐμπειρία.`

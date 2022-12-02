@@ -1,0 +1,1 @@
+lar[87515]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de la longueur de la coudée πυγών, TH. <i>H.P. 3, 17, 6</i> ; MÉNESTHÈNE (ATH. <i>494b</i>).`

@@ -1,0 +1,1 @@
+lar[30748]=`<b>εἰσ·έπειτα</b>, <i>adv. ou mieux</i> <b>εἰς ἔπειτα</b>, SOPH. <i>Aj. 35,</i> ensuite, désormais.`

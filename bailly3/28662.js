@@ -1,0 +1,1 @@
+lar[28662]=`<b>δυσ·μεταχείριστος, ος, ον :<br>      1</b> difficile à manier (<i>filet</i>) XÉN. <i>Cyr. 2, 6 ; fig</i>. intraitable, PLAT. <i>Leg. 808d ;</i> EL. <i>N.A. 4, 44</i>.<br><b>      2</b> difficile à attaquer, HDT. <i>7, 236</i>.<p>•<i> Sup</i>. -ότατος, PLAT. <i>Leg. 808d</i>.<p><b>Étym</b>. δ. μεταχειρίζω.`

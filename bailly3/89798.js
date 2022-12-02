@@ -1,0 +1,1 @@
+lar[89798]=`<b>σεμνο·παράσιτος, ου (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> parasite à air respectable, ALEX. (<i>Com. fr. 3, 434).</i><p><b>Étym</b>. σεμνός, παράσιτος.`

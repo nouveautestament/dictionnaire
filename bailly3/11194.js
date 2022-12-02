@@ -1,0 +1,1 @@
+lar[11194]=`<b>ἁπαλο·κουρίς, ίδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> sorte de poisson, EPICH. (ATH. <i>304e</i>).<p><b>Étym</b>. ἁπαλός, κούρη.`

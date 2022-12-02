@@ -1,0 +1,1 @@
+lar[101722]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> action de filtrer, de clarifier, CLÉM.<p><b>Étym</b>. ὑλίζω.`

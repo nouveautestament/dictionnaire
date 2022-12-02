@@ -1,0 +1,1 @@
+lar[62109]=`<b>εως (ἡ)</b> rachat, rançon, rédemption, PLUT. <i>Arat. 11</i> ; SPT. <i>Lev. 25, 29, etc.</i> ; NT. <i>Luc. 1, 68</i>.<p><b>Étym</b>. λυτρόω.`

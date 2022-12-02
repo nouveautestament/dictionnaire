@@ -1,0 +1,1 @@
+lar[71605]=`<b>εως (ἡ)</b> action de reconnaître, de convenir, DS. <i>17, 68</i>.<p><b>Étym</b>. ὁμολογέω.`

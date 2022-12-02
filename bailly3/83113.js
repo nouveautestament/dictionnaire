@@ -1,0 +1,1 @@
+lar[83113]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Potnies, ESCHL. <i>fr. 171 Dind.</i> ; EUR. <i>Ph. 1124, etc</i>.<p><b>Étym</b>. Ποτνιαί.`

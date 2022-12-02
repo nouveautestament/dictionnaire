@@ -1,0 +1,1 @@
+lar[99491]=`pencher d’un côté, <i>en parl. d’un navire,</i> A. TAT. <i>3, 1</i>.<p><b>Étym</b>. τοῖχος.`

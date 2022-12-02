@@ -1,0 +1,1 @@
+lar[95403]=`<b>συν·εκρέω</b> <font color="darkgreen">(<i>ao.2</i> συνεξερρύην) :</font><br><b>      1</b> couler ensemble de, s’écouler avec, ARÉT. <i>Caus. m. diut. 2, 11</i> ; CLÉM. <i>375</i>.<br><b>      2</b> <i>fig</i>. s’écouler, disparaître <i>ou</i> périr avec, EPICT. (STOB. <i>Fl. 5, 95</i>).`

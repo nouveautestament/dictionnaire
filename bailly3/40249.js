@@ -1,0 +1,1 @@
+lar[40249]=`<i>adv</i>., dans l’Érèbe, <i>avec mouv</i>. OD. <i>20, 356</i>.<p><b>Étym</b>. ἔρεβος, -δε.`

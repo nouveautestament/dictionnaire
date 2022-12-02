@@ -1,0 +1,1 @@
+lar[4961]=`<b>ἀ·λόχευτος, ος, ον :<br>      1</b> né sans avoir été enfanté, COL. <i>180</i>.<br><b>      2</b> qui n’a pas enfanté, NONN. <i>D. 41, 53</i>.<p><b>Étym</b>. ἀ, λοχεύω.`

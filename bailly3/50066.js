@@ -1,0 +1,1 @@
+lar[50066]=`<b>ἰχθυο·πώλης, ου (ὁ)</b> marchand de poisson, AN. <i>fr. 344, 10</i> ; AMPH. (ATH. <i>224f</i>) ; PLUT. <i>M. 668d</i>.<p><b>Étym</b>. ἰ. πωλέω.`

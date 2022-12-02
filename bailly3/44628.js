@@ -1,0 +1,1 @@
+lar[44628]=`<b>ος, ον</b> <font color="purple">[ῠῐ]</font> d’orme, TH. <i>H.P. 5, 3, 3</i>.<p><b>Étym</b>. ζυγία.`

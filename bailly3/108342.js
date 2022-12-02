@@ -1,0 +1,1 @@
+lar[108342]=`<b>οῦ (ἡ)</b> coffre pour serrer les vêtements, les objets précieux, <i>etc</i>. IL. <i>16, 221</i> ; OD. <i>13, 10, etc.</i> ; THCR. <i>Idyl. 16, 10</i>.<p><b>Étym</b>. <i>inconnue</i>.`

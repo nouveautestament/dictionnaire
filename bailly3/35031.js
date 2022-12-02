@@ -1,0 +1,1 @@
+lar[35031]=`<b>ἐν·τελευτάω-ῶ</b>, finir dans, mourir dans, <i>dat</i>. THC. <i>2, 44</i>.`

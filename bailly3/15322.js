@@ -1,0 +1,1 @@
+lar[15322]=`<b>ἀρτι·γένεθλος, ος, ον</b> <font color="purple">[ῐ]</font> nouveau-né, ORPH. <i>Arg. 384</i>.<p><b>Étym</b>. ἄ. γενέθλη.`

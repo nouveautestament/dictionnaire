@@ -1,0 +1,1 @@
+lar[29870]=`<b>εως (ἡ)</b> <font color="purple">[χᾰ]</font> action d’entailler, de scarifier, PLUT. <i>M. 56e ;</i> ARÉT. <i>116c ;</i> ANTYLL. (ORIB. <i>2, 64 B-Dar</i>.).<p><b>Étym</b>. ἐγχαράσσω.`

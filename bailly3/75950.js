@@ -1,0 +1,1 @@
+lar[75950]=`<font color="purple">[ῡ]</font> <i>vb. de</i> παραμυθέομαι, PLAT. <i>Leg. 899d ;</i> SOPATR. (STOB. <i>Fl. 46, 52</i>).`

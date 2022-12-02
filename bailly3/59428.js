@@ -1,0 +1,1 @@
+lar[59428]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit lièvre, levreau, AR. <i>Ach. 520</i>.<p><b>Étym</b>. λαγώς.`

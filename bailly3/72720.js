@@ -1,0 +1,1 @@
+lar[72720]=`<b>ὀρθό·κραιρος, α, ον :<br>      1</b> qui dresse la tête <i>ou</i> les cornes, IL. <i>8, 231</i> ; OD. <i>12, 348</i>.<br><b>      2</b> <i>p. anal</i>. à la proue <i>ou</i> à la poupe relevée, IL. <i>18, 3 ; 19, 344</i>.<p><b>Étym</b>. ὀ. κραῖρα.`

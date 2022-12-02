@@ -1,0 +1,1 @@
+lar[83880]=`<b>προ·δαπανάω-ῶ</b> <font color="purple">[ᾰπᾰν]</font> dépenser d’avance, LUC. <i>Abd. 11</i>.`

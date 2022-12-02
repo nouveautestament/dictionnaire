@@ -1,0 +1,1 @@
+lar[82423]=`<b>πολυ·σφόνδυλος, ος, ον</b> <font color="purple">[ῠ]</font> aux nombreuses vertèbres, LUC. <i>Dips. 3</i>.<p><b>Étym</b>. π. σφονδύλη.`

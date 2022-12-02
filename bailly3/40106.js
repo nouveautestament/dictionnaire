@@ -1,0 +1,1 @@
+lar[40106]=`<b>εως (ἡ)</b> action de pousser sur, impulsion, ARSTT. <i>Phys. 7, 2, 3</i>.<p><b>Étym</b>. ἐπωθέω.`

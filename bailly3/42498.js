@@ -1,0 +1,1 @@
+lar[42498]=`<b>εὐ·κράς, ᾶτος (ὁ, ἡ) :<br>      1</b> bien mélangé, <i>d’où</i> bien tempéré, d’une température égale, PLAT. <i>Criti. 112d ;</i> TH. <i>H.P. 7, 1, 4 ; fig</i>. EUR. <i>fr. 50</i>.<br><b>      2</b> <i>en parl. de pers</i>. qui se mêle facilement à, qui se lie avec, ANTH. <i>12, 105</i>.<p><b>Étym</b>. εὖ, κεράννυμι.`

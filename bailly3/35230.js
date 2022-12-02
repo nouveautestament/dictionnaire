@@ -1,0 +1,1 @@
+lar[35230]=`<b>ή, όν</b>, propre à unir, PLUT. <i>M. 428a, 878a ;</i> PHIL. <i>1, 31 ; 2, 233</i>.<p><b>Étym</b>. ἑνόω.`

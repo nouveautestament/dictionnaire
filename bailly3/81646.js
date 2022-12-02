@@ -1,0 +1,1 @@
+lar[81646]=`<b>πολλα·πλόος-οῦς, όη-ῆ, όον-οῦν :<br>      1</b> multiple, PLAT. <i>Tim. 75b ;</i> ARSTT. <i>Poet. 21, 3</i>.<br><b>      2</b> <i>fig</i>. qui prend toutes sortes de formes, artificieux, PLAT. <i>Rsp. 397e</i>.<p><b>Étym</b>. πολύς, -πλοος.`

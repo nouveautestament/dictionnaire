@@ -1,0 +1,1 @@
+lar[39409]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> dont on s’occupe, dont on prend soin, SYN. <i>63</i> ; TAT. (EUS. <i>P.E. 491c</i>).<p><b>Étym</b>. <i>vb. de</i> ἐπιτηδεύω.`

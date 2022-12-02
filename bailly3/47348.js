@@ -1,0 +1,1 @@
+lar[47348]=`<b>ατος (τὸ)</b> ce qu’on amasse, trésor, réserve, SOPH. <i>Ph. 37</i> ; EUR. <i>El. 497, Ion 1394 ; fig. en parl. de maux,</i> DÉMOCR. (PLUT. <i>M. 500d</i>).<p><b>Étym</b>. θησαυρίζω.`

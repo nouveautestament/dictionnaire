@@ -1,0 +1,1 @@
+lar[97078]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de jonc, EUR. <i>Cycl. 208</i> ; AR. <i>fr. 227</i>.<p><b>Étym</b>. σχοῖνος.`

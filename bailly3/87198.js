@@ -1,0 +1,1 @@
+lar[87198]=`<b>πρωτό·γονον, ου (τὸ)</b> <i>autre n. de la plante</i> ἀείζωον, DIOSC. <i>Noth. 4, 89</i>.<p><b>Étym</b>. <i>neutre de</i> πρωτόγονος.`

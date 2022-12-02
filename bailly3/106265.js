@@ -1,0 +1,1 @@
+lar[106265]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> Philôtè, <i>f</i>. PLUT. <i>Rom. 29</i>.`

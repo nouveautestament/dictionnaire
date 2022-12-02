@@ -1,0 +1,1 @@
+lar[45592]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> linge pour essuyer, sorte de mouchoir, SAPPH. <i>116</i> ; HPC. <i>Art. 802</i> ; AR. <i>Pl. 729</i>.<p><b>Étym</b>. <i>probabl. mot égypt</i>.`

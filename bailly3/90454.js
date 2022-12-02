@@ -1,0 +1,1 @@
+lar[90454]=`<b>ου (ὁ)</b> Sisimithrès, <i>satrape perse</i> : Σισιμίθρου πέτρα (ἡ) la roche de Sisimithrès, <i>forteresse de Sogdiane,</i> PLUT. <i>Alex. 58</i>.`

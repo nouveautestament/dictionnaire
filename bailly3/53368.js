@@ -1,0 +1,1 @@
+lar[53368]=`<b>κατά·σκληρος, ος, ον</b>, très dur, PHIL. BYZ. <i>Bel. p. 71</i> ; HIPPIATR. <i>p. 233, 2</i>.<p><b>Étym</b>. κ. σκληρός.`

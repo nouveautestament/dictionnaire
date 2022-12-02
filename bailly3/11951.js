@@ -1,0 +1,1 @@
+lar[11951]=`<b>ἀπ·ιδιάζω</b>, être isolé, être <i>seul</i>. NYSS. <i>2, 718</i>.`

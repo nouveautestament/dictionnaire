@@ -1,0 +1,1 @@
+lar[5188]=`<b>ἀμαλλο·δετήρ, ῆρος (ὁ)</b> <font color="purple">[ᾰμ]</font> celui qui lie les gerbes, IL. <i>18, 553</i>.<p><b>Étym</b>. ἄμαλλα, δέω¹.`

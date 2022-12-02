@@ -1,0 +1,1 @@
+lar[34929]=`<b>ἐν·σκέλλω</b> (<i>seul. pf</i>. ἐνέσκληκα, <i>et pl.q.pf</i>. ἐνεσκλήκειν, <i>au sens du prés. et de l’impf</i>.) être endurci à, <i>dat</i>. HPC. <i>459, 45</i> ; A.RH. <i>3, 1251 ; fig</i>. ANTH. <i>12, 166</i>.<p>➳ <i>Poét. sbj. ao. 3 sg</i>. ἐνισκήλῃ, NIC. <i>Th. 694</i>.`

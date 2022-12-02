@@ -1,0 +1,1 @@
+lar[83800]=`<b>προ·βλαστάνω</b>, germer <i>ou</i> pousser avant, <i>gén</i>. TH. <i>C.P. 1, 13, 12, etc. ; abs</i>. TH. <i>C.P. 5, 1, 12, etc</i>.`

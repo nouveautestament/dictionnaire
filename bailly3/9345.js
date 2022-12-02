@@ -1,0 +1,1 @@
+lar[9345]=`<b>ἀ·νόσφιστος, ος, ον</b>, non enlevé par fraude, CHRYS. <i>6, 532</i>.<p><b>Étym</b>. ἀ, νοσφίζω.`

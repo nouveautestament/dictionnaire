@@ -1,0 +1,1 @@
+lar[52102]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> prostituée, LYC. <i>1385</i>.<p><b>Étym</b>. <i>cf</i>. κασωρεύω, κασωρικός.`

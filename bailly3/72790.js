@@ -1,0 +1,1 @@
+lar[72790]=`<b>ὀρθ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte son vrai nom, un nom convenable, ESCHL. <i>Ag. 700</i>.<p><b>Étym</b>. ὀρθός, ὄνομα.`

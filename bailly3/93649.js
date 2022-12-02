@@ -1,0 +1,1 @@
+lar[93649]=`<b>ή, όν</b>, enclin à concéder, à pardonner, ORIG. <i>3, 1193 Migne</i>.<p><b>Étym</b>. συγχωρέω.`

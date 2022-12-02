@@ -1,0 +1,1 @@
+lar[17657]=`<b>αὐτό·πρεμνος, ος, ον</b>, avec les racines elles-mêmes, <i>càd</i>. entier, <i>fig</i>. SOPH. <i>Ant. 714</i> ; AR. <i>Ran. 903</i> ; αὐτ. τι διδόναι, ESCHL. <i>Eum. 401,</i> donner qqe ch. avec les racines, <i>càd</i>. en toute propriété.<p><b>Étym</b>. αὐ. πρέμνον.`

@@ -1,0 +1,1 @@
+lar[69531]=`<b>εως (ἡ)</b> dessiccation, <i>d’où</i> sécheresse, PLUT. <i>M. 627d</i>.<p><b>Étym</b>. ξηραίνω.`

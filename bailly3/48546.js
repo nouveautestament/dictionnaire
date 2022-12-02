@@ -1,0 +1,1 @@
+lar[48546]=`<b>ιδος</b>, <i>adj. f</i>. d’Hiérapolis, <i>v. de Syrie,</i> EPIGR. (PLUT. <i>M. 14b</i>).`

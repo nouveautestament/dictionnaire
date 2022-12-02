@@ -1,0 +1,1 @@
+lar[81723]=`<b>πολυ·άριθμος, ος, ον</b> <font color="purple">[ᾰ]</font> très nombreux, CALLICRAT. (STOB. <i>Fl. 85, 16</i>) ; DS. <i>14, 25</i>.<p><b>Étym</b>. π. ἀριθμός.`

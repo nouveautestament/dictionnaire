@@ -1,0 +1,1 @@
+lar[91579]=`<b>οῦ (ὁ) :<br>      1</b> faute contre les règles du langage, solécisme, ARSTT. <i>Soph. el. 14</i> ; PLUT. <i>M. 731f ;</i> LUC. <i>V. auct. 23</i>.<br><b>      2</b> <i>p. anal</i>. faute contre les règles de la bienséance, maladresse, gaucherie, PLUT. <i>M. 520a ;</i> LUC. <i>Nigr. 31</i>.<p><b>Étym</b>. σολοικίζω.`

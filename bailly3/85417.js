@@ -1,0 +1,1 @@
+lar[85417]=`<b>προσ·διαπολεμέω-ῶ</b>, faire de nouvelles conquêtes, DC. <i>42, 53</i>.`

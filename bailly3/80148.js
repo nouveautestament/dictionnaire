@@ -1,0 +1,1 @@
+lar[80148]=`<b>ατος (τὸ) :<br>      1</b> être mutilé <i>ou</i> incomplet, ARSTT. <i>An. 2, 4, 9, etc.</i><br><b>      2</b> <i>c</i>. πήρωσις, ARSTT. <i>Metaph. 6, 9, 5, etc</i>.<p><b>Étym</b>. πηρόω.`

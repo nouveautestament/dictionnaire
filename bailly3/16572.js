@@ -1,0 +1,1 @@
+lar[16572]=`ressembler au bitume, DIOSC. <i>5, 45</i>.<p><b>Étym</b>. ἄσφαλτος.`

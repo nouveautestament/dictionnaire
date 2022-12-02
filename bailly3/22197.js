@@ -1,0 +1,1 @@
+lar[22197]=`<b>ατος (τὸ)</b> image <i>ou</i> inscription gravée, gravure, ciselure, EUP. (POLL. <i>7, 179</i>) ; STR. <i>638</i> ; ANTH. <i>11, 38</i>.<p><b>Étym</b>. γλύφω.`

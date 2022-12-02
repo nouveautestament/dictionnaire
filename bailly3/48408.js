@@ -1,0 +1,1 @@
+lar[48408]=`<b>ἰδιο·κρασία, ας (ἡ)</b> <font color="purple">[ῐδᾱσ]</font> tempérament propre, nature propre à chaque être, PROCL. <i>Ptol. p. 13</i>.<p><b>Étym</b>. ἴδ. κεράννυμι.`

@@ -1,0 +1,1 @@
+lar[2725]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire du dème attique Æxônè (Αἰξωνή) <i>de la tribu Cécropide, renommé pour la grossièreté de ses habitants,</i> XÉN. <i>Hell. 2, 4, 26</i> ; PLAT. <i>Lach. 197c, etc</i>.<p>➳ <i>Dans les inscr. att. plur</i>. Αἰξωνέες, <i>v. Meisterh. p. 110, 7</i>.`

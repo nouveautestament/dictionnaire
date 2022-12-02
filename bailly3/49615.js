@@ -1,0 +1,1 @@
+lar[49615]=`<b>ἰσο·γραφή, ῆς (ἡ)</b> <font color="purple">[ῑ̆ᾰ]</font> transcription exacte, <i>titre d’un livre d’Antisthène,</i> DL. <i>6, 15</i>.<p><b>Étym</b>. ἴ. γράφω.`

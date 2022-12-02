@@ -1,0 +1,1 @@
+lar[13056]=`<b>ἀπο·πέτομαι</b> <font color="darkgreen">(<i>prés. ind. 3 pl</i>. -πέτονται, PLUT. <i>M. 752f ; impér. 2 sg</i>. ἀποπέτου, AR. <i>Av. 1369 ; impf. 3 pl</i>. ἀπεπέτοντο, DC. <i>43 ; fut. 2 sg</i>. ἀποπετήσει, AR. <i>Pax 1126</i>)</font> s’envoler ; <i>cf</i>. ἀφίπταμαι.`

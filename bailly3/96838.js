@@ -1,0 +1,1 @@
+lar[96838]=`<b>ης (ἡ)</b> lie de vin, DIOSC. <i>Eupor. 2, 137</i> ; A. TR. <i>630</i>.<p><b>Étym</b>. <i>cf. lat</i>. fæcula.`

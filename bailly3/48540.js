@@ -1,0 +1,1 @@
+lar[48540]=`<b>ους (ὁ)</b> Hiéraménès, <i>Perse,</i> THC. <i>8, 58</i> ; XÉN. <i>Hell. 2, 1, 9</i>.`

@@ -1,0 +1,1 @@
+lar[74673]=`<b>εως (ἡ)</b> vibration, PORPH. (EUS. <i>P.E. 112b</i>).<p><b>Étym</b>. πάλλω.`

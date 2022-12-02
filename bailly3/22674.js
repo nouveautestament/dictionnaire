@@ -1,0 +1,1 @@
+lar[22674]=`<b>ου (ὁ) :<br>      1</b> petit porc, Ps.-ZONAR. <i>452</i> (γρύλλος).<br><b>      2</b> congre, <i>poisson de mer (cf</i>. γόγρος) ; NIC. <i>et</i> DIPH. (ATH. <i>288c, 356a</i>).<p><b>Étym</b>. γρῦ.`

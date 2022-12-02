@@ -1,0 +1,1 @@
+lar[64737]=`<b>μετα·καθέζομαι</b> <font color="darkgreen">(<i>impf</i>. μετεκαθεζόμην, <i>f</i>. μετακαθεδοῦμαι, <i>etc</i>.)</font> changer de siège, quitter son siège pour un autre, LUC. <i>Ic. 26</i>.`

@@ -1,0 +1,1 @@
+lar[3535]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῑ]</font> aconit, <i>plante vénéneuse,</i> TH. <i>H.P. 9, 16, 4</i> ; DIOSC. <i>4, 77</i>.`

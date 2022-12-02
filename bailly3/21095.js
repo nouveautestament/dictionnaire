@@ -1,0 +1,1 @@
+lar[21095]=`<b>βωμο·ειδής, ής, ές</b>, semblable à un autel, PLUT. <i>Them. 32</i> ; NYSS. <i>3, 1100a Migne</i>.<p><b>Étym</b>. βωμός, εἶδος.`

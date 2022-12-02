@@ -1,0 +1,1 @@
+lar[7858]=`<b>ἀν·αφής, ής, ές</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> intangible, impalpable, PLAT. <i>Phædr. 247c ;</i> LUC. <i>V.H. 2, 13</i>.<br><b>      2</b> qui cède sous la pression, mou, PLUT. <i>M. 721c</i>.<p><b>Étym</b>. ἀν-, ἅπτω¹.`

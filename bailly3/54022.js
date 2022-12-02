@@ -1,0 +1,1 @@
+lar[54022]=`<b>κατ·ηλογέω-ῶ</b>, ne faire aucun cas de, <i>acc</i>. HDT. <i>1, 84, etc. ; gén</i>. JOS. <i>A.J. 12, 4, 6</i> ; PARTH. <i>c. 23</i>.<p><b>Étym</b>. <i>ion. c</i>. *καταλογέω, <i>de</i> κ. ἀλογέω.`

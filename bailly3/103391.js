@@ -1,0 +1,1 @@
+lar[103391]=`<b>ὑπο·κολλάω-ῶ</b>, coller en dessous, HÉRON (MATH. <i>p. 185, 9 ; 222, 24 ; 269</i>).`

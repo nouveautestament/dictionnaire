@@ -1,0 +1,1 @@
+lar[97569]=`<b>τανυσί·δρομος, ος, ον</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. τανύδρομος, SAPPH. <i>71 Bgk</i>.`

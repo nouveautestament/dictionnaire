@@ -1,0 +1,1 @@
+lar[63361]=`<b>*μεγαλο·εργής</b>, <i>p. contr</i>. <b>μεγαλουργής, ής, ές</b> <font color="purple">[ᾰ]</font> qui fait de grandes choses, LUC. <i>Alex. 4</i>.<p><b>Étym</b>. μ. ἔργον.`

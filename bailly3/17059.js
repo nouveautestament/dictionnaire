@@ -1,0 +1,1 @@
+lar[17059]=`<b>ἄ·τυφος, ος, ον</b> <font color="purple">[ῡ]</font> sans orgueil, modeste, PLAT. <i>Phædr. 230a ;</i> PLUT. LUC. <i>etc</i>.<p>•<i> Cp</i>. -ότερος, PLUT. <i>Alex. 45 ; • Sup</i>. -ότατος, DL. <i>4, 42</i>.<p><b>Étym</b>. ἀ, τῦφος.`

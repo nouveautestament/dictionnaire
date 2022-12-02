@@ -1,0 +1,1 @@
+lar[53370]=`<b>κατα·σκοπεύω</b>, observer <i>ou</i> rechercher avec soin, SPT. <i>1Macc. 5, 38 ; Ex. 2, 4 ; Jos. 2, 1</i>.`

@@ -1,0 +1,1 @@
+lar[57930]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m. c</i>. κριμνίτης ARCHESTR. (ATH. <i>112b</i>).`

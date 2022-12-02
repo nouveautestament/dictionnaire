@@ -1,0 +1,1 @@
+lar[16749]=`<i>adv</i>., avec forte tension, <i>d’où</i> fixement, fermement, DS. <i>3, 18</i> ; PLUT. <i>Galb. 25</i>.<p>➳ <i>Ion</i>. ἀτενέως, HPC. <i>Prorrh. 78</i>.<p><b>Étym</b>. ἀτενής.`

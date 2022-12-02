@@ -1,0 +1,1 @@
+lar[74504]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> recrudescence d’un mal, HPC. <i>Fract. 772</i>.<p><b>Étym</b>. παλιγκοτέω.`

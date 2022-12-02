@@ -1,0 +1,1 @@
+lar[27535]=`<b>ῆρος (ὁ)</b> celui qui glorifie, BAS. <i>4, 388 Migne</i>.<p><b>Étym</b>. δοξάζω.`

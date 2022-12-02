@@ -1,0 +1,1 @@
+lar[64508]=`<b>ου (τὸ)</b> Mésogeion, <i>lieu de Lesbos,</i> PLUT. <i>M. 163a</i>.<p><b>Étym</b>. <i>neutre de</i> μεσόγειος.`

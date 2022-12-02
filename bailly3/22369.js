@@ -1,0 +1,1 @@
+lar[22369]=`<b>ου (ὁ) :<br>      1</b> congre <i>ou</i> anguille de mer, <i>poisson,</i> ARSTT. <i>H.A. 8, 2, 13</i> ; OPP. <i>H. 1, 521</i> ; ATH. <i>288c.</i><br><b>      2</b> <i>p. anal. avec les gros yeux du congre,</i> excroissance sur le tronc des arbres, TH. <i>H.P. 1, 8, 6</i>.`

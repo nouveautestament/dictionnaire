@@ -1,0 +1,1 @@
+lar[84485]=`<b>προ·καταπαύω</b>, faire cesser auparavant, contraindre <i>ou</i> contenir auparavant, LIB. <i>1, 554</i>.`

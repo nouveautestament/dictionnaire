@@ -1,0 +1,1 @@
+lar[90564]=`<font color="purple">[ᾰ]</font> <i>interj</i>. pst ! <i>signal du berger à son troupeau pour le faire avancer,</i> THCR. <i>Idyl. 4, 45 ; 8, 69, etc. ; avec</i> πρός <i>et l’acc</i>. THCR. <i>Idyl. 4, 46 ; ou pour l’emmener, avec</i> ἀπό <i>et le gén</i>. THCR. <i>Idyl. 5, 100</i>.`

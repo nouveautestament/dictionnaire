@@ -1,0 +1,1 @@
+lar[65937]=`<font color="purple">[ῡτῐ]</font> <i>adv</i>., à moitié selon le mode lydien, PLAT. <i>Rsp. 398e ;</i> ARSTT. <i>Pol. 8, 5</i>.<p><b>Étym</b>. μιξολύδιος.`

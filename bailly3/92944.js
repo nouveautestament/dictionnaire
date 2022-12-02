@@ -1,0 +1,1 @@
+lar[92944]=`<b>στροβιλόω-ῶ</b> <font color="purple">[ῑ]</font> tourner, <i>acc</i>. PLUT. <i>M. 235e</i>.<p><b>Étym</b>. στρόβιλος.`

@@ -1,0 +1,1 @@
+lar[13300]=`<b>εως (ἡ) :<br>      1</b> action de s’interrompre en parlant <i>ou</i> de cesser de parler, silence, PLUT. <i>Alex. 52</i>.<br><b>      2</b> <i>t. de rhét</i>. réticence, PLUT. <i>M. 1099e ;</i> QUINT. <i>9, 2, 54 et 60</i> ; HERMOG. <i>etc</i>.<p><b>Étym</b>. ἀποσιωπάω.`

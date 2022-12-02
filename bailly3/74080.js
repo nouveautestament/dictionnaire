@@ -1,0 +1,1 @@
+lar[74080]=`<b>ου (ὁ)</b> Pangæos :<br><b>      1</b> <i>fils d’Arès,</i> Ps.-PLUT. <i>Fluv. 3, 2</i>.<br><b>      2</b> <i>c</i>. Πάγγαιον Ps.-PLUT. <i>Fluv. 3, 3</i>.`

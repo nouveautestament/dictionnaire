@@ -1,0 +1,1 @@
+lar[103384]=`<b>ὑπο·κλύω</b> (<i>seul. prés. et impf</i>. ὑπέκλυον) :<br><b>      1</b> entendre de la bouche de : τινός, A.RH. <i>3, 477,</i> de la bouche de qqn.<br><b>      2</b> entendre à la dérobée, <i>acc</i>. Q. SM. <i>1, 509</i>.`

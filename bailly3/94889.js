@@ -1,0 +1,1 @@
+lar[94889]=`<b>συν·απολαμβάνω</b>, recevoir ensemble <i>ou</i> en même temps, XÉN. <i>An. 7, 7, 40</i>.`

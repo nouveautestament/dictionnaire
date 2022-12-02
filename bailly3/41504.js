@@ -1,0 +1,1 @@
+lar[41504]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> (<i>sel. d’autres</i> <b>εὐαυγία</b>) clarté lumineuse, lumière pure, JAMBL. <i>Protr. p. 152</i>.<p><b>Étym</b>. εὐαγής¹.`

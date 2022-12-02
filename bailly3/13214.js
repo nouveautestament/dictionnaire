@@ -1,0 +1,1 @@
+lar[13214]=`<font color="purple">[ᾱῡ]</font> <i>adv</i>., avec négligence, JUL. <i>252a</i>.<p><b>Étym</b>. <i>v</i>. ἀπορρᾳθυμέω.`

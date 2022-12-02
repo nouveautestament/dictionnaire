@@ -1,0 +1,1 @@
+lar[37573]=`<i>adv</i>., clairement, évidemment, HPC. <i>391, 24</i> ; ARSTT. <i>Probl. 10, 35</i> ; AR. <i>Th. 799</i>.<p>•<i> Cp</i>. -οτέρως, ARSTT. <i>H.A. 8, 21, 6 ; ou</i> -ότερον, ARSTT. <i>G.A. 3, 1, 15. • Sup</i>. -οτάτως, ARSTT. <i>G.A. 1, 19, 15, ou</i> -ότατα, ARSTT. <i>H.A. 3, 1, 11</i>.<p><b>Étym</b>. ἐπίδηλος.`

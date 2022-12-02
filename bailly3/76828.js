@@ -1,0 +1,1 @@
+lar[76828]=`<b>παρ·εφεδρεύω</b>, être de garde auprès de, protéger, <i>dat</i>. POL. <i>2, 24, 13, etc</i>.`

@@ -1,0 +1,1 @@
+lar[51963]=`<b>ιδος</b> <font color="purple">[ᾰᾱ]</font> <i>adj. f</i>. de Karyes, <i>ép. d’Artémis ; pl</i>. αἱ Καρυάτιδες :<br><b>      1</b> femmes de Karyes, <i>d’où</i> Caryatides, <i>figures de femmes qui supportent un entablement,</i> LYNC. (ATH. <i>241d</i>).<br><b>      2</b> danses en l’honneur d’Artémis de Karyes, PAUS. <i>3, 10, 7</i>.<p><b>Étym</b>. Κάρυαι.`

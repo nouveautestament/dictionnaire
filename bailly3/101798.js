@@ -1,0 +1,1 @@
+lar[101798]=`<b>α, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> de l’Hymette, STR. <i>399</i>.<br><b>      2</b> doux comme le miel de l’Hymette, LUC. <i>Rh. præc. 11</i>.<p><b>Étym</b>. Ὑμηττός.`

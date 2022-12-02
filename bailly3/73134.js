@@ -1,0 +1,1 @@
+lar[73134]=`<b>η, ον</b> <font color="purple">[ῑ]</font> sombre, foncé, <i>particul. en parl. d’un mélange de noir, de rouge et de blanc,</i> PLAT. <i>Tim. 68d ;</i> TH. <i>Col. 9, 30 ; ou d’un rouge entre le πορφύρεος et le</i> φοινίκινος, XÉN. <i>Cyr. 8, 3, 3</i>.<p><b>Étym</b>. ὄρφνη.`

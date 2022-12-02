@@ -1,0 +1,1 @@
+lar[2710]=`<b>ου</b>, Ænos :<br><b>      1 (ἡ)</b> <i>v. de Thrace (auj</i>. Enez) HDT. <i>4, 90</i> ; THC. <i>4, 28, etc.</i><br><b>      2 (ὁ)</b> <i>h</i>. Q. SM. <i>11, 79</i>.`

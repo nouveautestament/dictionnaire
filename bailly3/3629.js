@@ -1,0 +1,1 @@
+lar[3629]=`<b>ἀ·κραγής, ής, ές</b> <font color="purple">[ᾰγ]</font> qui ne crie pas, muet ; <i>sel. d’autres,</i> qui crie fort, <i>d’où</i> féroce, ESCHL. <i>Pr. 803</i>.<p><b>Étym</b>. ἀ <i>priv. ou augm</i>. κράζω.`

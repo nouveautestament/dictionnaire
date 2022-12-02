@@ -1,0 +1,1 @@
+lar[37085]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> vêtement de dessus, PLUT. <i>Alex. 32</i> ; AQU. <i>Ex. 25, 7</i> ; TAT. <i>Or. ad Græc. 852b</i>.<p><b>Étym</b>. ἐπενδύω.`

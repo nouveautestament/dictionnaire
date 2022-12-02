@@ -1,0 +1,1 @@
+lar[102841]=`<b>ὑπερ·τροχάζω</b>, courir au delà de, laisser de côté, PHIL. <i>1, 173</i>.`

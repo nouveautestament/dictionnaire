@@ -1,0 +1,1 @@
+lar[84509]=`<b>προ·κατασφάζω</b>, égorger auparavant, APP. <i>Iber. 12</i>.`

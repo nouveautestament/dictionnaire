@@ -1,0 +1,1 @@
+lar[107214]=`<b>Φύρκον τεῖχος (τὸ)</b> <i>litt</i>. le « mur Phyrkon », <i>forteresse d’Élide,</i> THC. <i>5, 49</i>.`

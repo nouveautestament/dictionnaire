@@ -1,0 +1,1 @@
+lar[102285]=`<b>ὑπερ·αποδίδωμι</b> <font color="purple">[δῐ]</font> donner à la place de, PHILSTR. <i>533</i>.`

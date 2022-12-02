@@ -1,0 +1,1 @@
+lar[79184]=`<b>περι·πτίσσω</b>, peler <i>ou</i> écorcer tout autour, TH. <i>H.P. 4, 4, 10 ; 9, 16, 9 ; fig</i>. περιεπτισμένος, pelé, écorcé, <i>d’où</i> purifié, pur, sans mélange, AR. <i>Ach. 507, etc</i>.`

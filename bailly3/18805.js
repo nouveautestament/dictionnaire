@@ -1,0 +1,1 @@
+lar[18805]=`<b>βαθύ·σκαρθμος, ος, ον</b> <font color="purple">[βᾰ]</font> aux bonds élevés, NONN. <i>D. 10, 238</i>.<p><b>Étym</b>. β. σκαρθμός.`

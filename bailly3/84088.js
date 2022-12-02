@@ -1,0 +1,1 @@
+lar[84088]=`<b>προ·εκλύω :<br>      1</b> dégager <i>ou</i> rendre libre auparavant, ATH. <i>45e.</i><br><b>      2</b> briser de fatigue avant le temps, POL. <i>15, 16, 3</i>.`

@@ -1,0 +1,1 @@
+lar[77999]=`<b>πεντά·μετρος, ος, ον</b> <font color="purple">[ᾰ]</font> à cinq mesures <i>ou</i> cinq pieds ; ὁ π. (<i>s.-e</i>. στίχος) HERMÉSIAN. <i>5, 36, etc</i>. vers pentamètre.<p><b>Étym</b>. π. μέτρον.`

@@ -1,0 +1,1 @@
+lar[63352]=`<b>μεγαλό·δοξος, ος, ον</b> <font color="purple">[ᾰ]</font> de grande réputation, illustre, PD. <i>O. 9, 26</i> ; PLUT. <i>Thes. 1</i>.<p><b>Étym</b>. μ. δόξα.`

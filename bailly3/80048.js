@@ -1,0 +1,1 @@
+lar[80048]=`<b>α, ον :<br>      1</b> fait de boue <i>ou</i> d’argile, MAN. <i>4, 292</i>.<br><b>      2</b> qui vit dans la fange, <i>en parl. d’un poisson</i>. PAHS. <i>4, 34, 2</i>.<p><b>Étym</b>. πηλός.`

@@ -1,0 +1,1 @@
+lar[53559]=`<b>κατα·τίλλω</b>, arracher poil à poil, épiler, plumer, HPC. <i>574, 19</i>.`

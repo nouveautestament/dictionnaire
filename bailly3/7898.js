@@ -1,0 +1,1 @@
+lar[7898]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> exhalaison, <i>d’où</i> éruption volcanique, ARSTT. <i>Mund. 4 ; Meteor. 2, 8, 15, etc.</i><br><b>      2</b> <i>fig</i>. orgueil, LUC. <i>Philopatr. 3</i>.`

@@ -1,0 +1,1 @@
+lar[54363]=`<b>ου (ὁ)</b> <font color="purple">[ᾱῑσ]</font> Kaphisias, <i>joueur de flûte,</i> PLUT. <i>Arat. 6, 7 ; Pyrrh. 8, etc</i>.<p><b>Étym</b>. Καφισός.`

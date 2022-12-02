@@ -1,0 +1,1 @@
+lar[55419]=`<b>ίδος</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. κιθαρίστρια ANTH. <i>5, 222</i>.`

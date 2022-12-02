@@ -1,0 +1,1 @@
+lar[41411]=`<b>ἑτερωνυμέω-ῶ</b> <font color="purple">[ῠ]</font> différer de nom, NICOM. <i>Arithm. 92</i>.<p><b>Étym</b>. ἑτερώνυμος.`

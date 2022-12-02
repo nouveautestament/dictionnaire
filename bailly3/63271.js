@@ -1,0 +1,1 @@
+lar[63271]=`<b>μαψι·τόκος, ος, ον</b> <font color="purple">[ῐ]</font> qui enfante vainement, ANTH. <i>14, 125</i>.<p><b>Étym</b>. μάψ, τίκτω.`

@@ -1,0 +1,1 @@
+lar[15659]=`<b>ἀρχιτεκτονέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> être architecte, PLUT. <i>Per. 13, etc.</i><br><b>      2</b> être directeur, chef, AR. <i>Pax 305, etc</i>.<p>➳ <i>Pf. pass. inf</i>. ἠρχιτεκτονῆσθαι, TH. <i>Char. 2, 5</i>.<p><b>Étym</b>. ἀρχιτέκτων.`

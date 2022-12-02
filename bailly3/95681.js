@@ -1,0 +1,1 @@
+lar[95681]=`<b>συν·επιστέλλω</b>, mander <i>ou</i> faire savoir en même temps, LUC. <i>Cron. 15</i>.`

@@ -1,0 +1,1 @@
+lar[89561]=`<b>ιδος (ἡ)</b> <i>s.-e</i>. χώρα, le territoire des Samnites, PLUT. <i>Pyrrh. 24, etc</i>.<p><b>Étym</b>. Σαυνῖται.`

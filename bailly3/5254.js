@@ -1,0 +1,1 @@
+lar[5254]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰμ]</font> faute, <i>càd.</i> :<br><b>      1</b> erreur, méprise, HDT. <i>1, 91</i> ; HPC. <i>64, 51, etc.</i> ; STR. <i>13, 1, 54 Kram.</i><br><b>      2</b> faute, péché, JOS. <i>A.J. 3, 9, 3 ; 18, 5, 2</i>.<p><b>Étym</b>. ἁμαρτάνω.`

@@ -1,0 +1,1 @@
+lar[95091]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> relation habituelle, commerce, BAS. <i>4, 528 Migne</i>.<p><b>Étym</b>. συνδιάγω.`

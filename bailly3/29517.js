@@ -1,0 +1,1 @@
+lar[29517]=`<b>ἐγ·καταδύομαι</b> <font color="darkgreen">(<i>ao.2</i> ἐγκατέδυν <font color="purple">[ῡ]</font>, <i>pf</i>. ἐγκαταδέδυκα)</font> se plonger dans <i>ou</i> sur, <i>dat</i>. ANTH. <i>7, 532 ; acc</i>. OPP. <i>H. 4, 153</i>.<p><b>Étym</b>. ἐν. κ.`

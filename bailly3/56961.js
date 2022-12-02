@@ -1,0 +1,1 @@
+lar[56961]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> Koprée, <i>fils de Pélops,</i> IL. <i>15, 639</i>.`

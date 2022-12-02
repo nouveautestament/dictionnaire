@@ -1,0 +1,1 @@
+lar[11079]=`<b>ἀπ·αγινέω-ῶ</b> <font color="purple">[ᾰγῑ]</font> payer un tribut, HDT. <i>3, 89 et 94</i>.`

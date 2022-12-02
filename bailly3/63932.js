@@ -1,0 +1,1 @@
+lar[63932]=`<b>ατος (τὸ) :<br>      1</b> tache noire, HPC. <i>Fract. 760, Art. 840</i> ; PLUT. <i>M. 564e.</i><br><b>      2</b> teinture noire : μ. γραμματόκον, ANTH. <i>6, 63,</i> couleur noire.<p><b>Étym</b>. μελαίνω.`

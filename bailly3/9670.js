@@ -1,0 +1,1 @@
+lar[9670]=`<b>ῆς (ἡ)</b> action de retourner contre, PLUT. <i>M. 901d ;</i> GAL. <i>2, 47</i>.<p><b>Étym</b>. ἀντεπιστρέφω.`

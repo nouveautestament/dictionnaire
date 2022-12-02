@@ -1,0 +1,1 @@
+lar[6240]=`<b>ἀμφί·λοξος, ος, ον</b>, à double sens, louche, LUC. <i>Philopatr. 5</i>.<p><b>Étym</b>. ἀ. λοξός.`

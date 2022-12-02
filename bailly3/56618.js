@@ -1,0 +1,1 @@
+lar[56618]=`<b>κολετράω-ῶ</b>, fouler aux pieds, AR. <i>Nub. 552</i>.`

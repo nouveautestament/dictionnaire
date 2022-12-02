@@ -1,0 +1,1 @@
+lar[62477]=`<b>ῶν (αἱ)</b> <i>s.-e</i>. πέτραι, les Hautes roches, <i>du côté N. de l’acropole d’Athènes,</i> EUR. <i>Ion 13, 283, 494, 1400</i>.<p><b>Étym</b>. <i>pl. fém. de</i> μακρός.`

@@ -1,0 +1,1 @@
+lar[52555]=`<b>κατα·κληρόω-ῶ</b>, distribuer <i>ou</i> attribuer par la voie du sort, <i>acc</i>. DS. <i>13, 2</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> obtenir comme part, se faire attribuer, <i>acc</i>. PLUT. <i>Pomp. 41</i>.<br><b>      2</b> tirer <i>ou</i> désigner par la voie du sort, SPT. <i>1Reg. 14, 42</i>.`

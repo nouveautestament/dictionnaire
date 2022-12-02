@@ -1,0 +1,1 @@
+lar[102767]=`<b>εως (ἡ)</b> action de remplir outre mesure, <i>d’où</i> trop-plein, réplétion, GAL. <i>4, 756</i>.<p><b>Étym</b>. ὑπερπληρόω.`

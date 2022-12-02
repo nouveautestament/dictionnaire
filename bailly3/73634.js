@@ -1,0 +1,1 @@
+lar[73634]=`<b>οὐραγέω-ῶ</b> <font color="purple">[ᾱ]</font> conduire l’arrière-garde, <i>p. suite,</i> être à l’arrière-garde, POL. <i>4, 11, 6</i> ; DS. <i>14, 80, etc</i>.<p><b>Étym</b>. οὐραγός.`

@@ -1,0 +1,1 @@
+lar[22047]=`<b>ου</b> <i>et</i> <b>α (ὁ) :<br>      1</b> Glaukias, <i>n. d’h. grec,</i> PLUT. <i>Pyrrh. 3, 4</i> ; LUC. ATH. <i>etc.</i><br><b>      2</b> = <i>lat</i>. Glaucia, <i>n. d’h. rom</i>. PLUT. <i>Mar. 28 ; au plur</i>. οἱ Γλαυκίαι, PLUT. <i>Lys. c. Syll. 1,</i> les Glaucia.<p>➳ <i>Gén</i>. Γλαυκία, ANTH. <i>App. 140</i>.<p><b>Étym</b>. γλαυκός.`

@@ -1,0 +1,1 @@
+lar[16065]=`<b>ἀσπλαγχνέω-ῶ</b>, <i>f</i>. ήσω, être sans entrailles, sans pitié, AQU.<p><b>Étym</b>. ἄσπλαγχνος.`

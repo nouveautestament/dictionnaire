@@ -1,0 +1,1 @@
+lar[27793]=`<b>δρακονθ·όμιλος, ος, ον</b> <font color="purple">[ᾰῑ]</font> qui fréquente les dragons, ESCHL. <i>Suppl. 267</i>.<p><b>Étym</b>. δράκων, ὁμιλέω.`

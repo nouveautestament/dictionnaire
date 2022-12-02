@@ -1,0 +1,1 @@
+lar[47450]=`<b>ης (ἡ)</b> Thoè :<br><b>      1</b> <i>fille d’Okéanos,</i> HÉS. <i>Th. 354</i>.<br><b>      2</b> <i>Néréïde,</i> IL. <i>18, 40</i>.`

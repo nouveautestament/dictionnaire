@@ -1,0 +1,1 @@
+lar[67802]=`<b>ναυσι·πέδη, ης (ἡ)</b> <font color="purple">[ῐ]</font> amarre (<i>propr</i>. entrave) d’un navire, LUC. <i>Lex. 15</i>.<p><b>Étym</b>. ν. πέδη.`

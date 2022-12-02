@@ -1,0 +1,1 @@
+lar[85613]=`<b>προσ·εξελίσσω</b>, développer en outre <i>ou</i> amener en outre par un mouvement tournant, <i>acc.,</i> POL. <i>6, 40, 13</i>.`

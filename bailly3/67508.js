@@ -1,0 +1,1 @@
+lar[67508]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> émoussé, relâché, affaibli, MAN. <i>4, 254 conj</i>.<p><b>Étym</b>. <i>vb. de</i> μωλύω.`

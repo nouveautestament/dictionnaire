@@ -1,0 +1,1 @@
+lar[21133]=`<b>ου (ὁ) :<br>   I</b> le Gange, <i>fl. de l’Inde,</i> STR. DS. PLUT. <i>etc.</i><br><b>   II</b> <i>n. d’h.</i> :<br><b>      1</b> Gangès, <i>n. myth</i>. PLUT.<br><b>      2</b> <i>roi d’Éthiopie,</i> PHILSTR.<p>➳ <i>Gén</i>. Γάγγους, M. RUBR. <i>47 ; gén. ion</i>. Γάγγεω, ARR. <i>Ind. 2, 9, etc. Acc</i>. Γάγγεα, ARR. <i>Ind. 4, 2, 15</i>.`

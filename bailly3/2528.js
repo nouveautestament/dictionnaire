@@ -1,0 +1,1 @@
+lar[2528]=`<b>αἱμάλ·ωψ, ωπος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> épanchement de sang, HPC. <i>207c, etc.</i><br><b>      2</b> <i>adj</i>. semblable à un amas de sang coagulé, ARÉT. <i>Caus. m. diut. 2, 1</i>.<p><b>Étym</b>. αἱμαλέος, ὤψ.`

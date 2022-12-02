@@ -1,0 +1,1 @@
+lar[110564]=`<i>adv</i>., en forme d’oreille, RUF. <i>59</i>.<p><b>Étym</b>. ὠτοειδής.`

@@ -1,0 +1,1 @@
+lar[85634]=`<b>προσ·επαιτιάομαι-ῶμαι</b>, accuser en outre, <i>acc</i>. PLUT. <i>C. Gracch. 6</i>.`

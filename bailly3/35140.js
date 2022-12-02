@@ -1,0 +1,1 @@
+lar[35140]=`<b>ος, ον :<br>      1</b> nourri dans, qui croît dans, A.RH. <i>1, 1117 ; fig</i>. qui vit dans : μόχθῳ, SOPH. <i>O.C. 1362,</i> dans la peine ; παλαιᾷ ἁμέρᾳ, SOPH. <i>Aj. 622,</i> avancé en âge.<br><b>      2</b> <i>subst</i>. ὁ ἔντρ. nourrisson de, <i>gén</i>. EUR. <i>I.A. 289</i> ; ARSTT. <i>fr. 625</i>.<p><b>Étym</b>. ἐντρέφω.`

@@ -1,0 +1,1 @@
+lar[53446]=`<b>οῦ (ὁ) :<br>      1</b> étude des astres, ANON. II AR. <i>p. 110</i>.<br><b>      2</b> <i>plur</i>. Notions sur les astres, <i>titre d’ouvrages de Pseudo-Ératosthène et d’Hipparque</i>.<p><b>Étym</b>. καταστερίζω.`

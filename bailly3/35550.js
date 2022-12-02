@@ -1,0 +1,1 @@
+lar[35550]=`<b>ἐξ·απο·δίομαι</b> (<i>sbj</i>. ἐξαποδίωμαι) <font color="purple">[ᾱ par nécessité métrique]</font> chasser de, IL. <i>5, 763</i>.<p><b>Étym</b>. ἐξ, ἀποδίομαι ; <i>cf</i>. δίω, δίεμαι.`

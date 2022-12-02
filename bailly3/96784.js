@@ -1,0 +1,1 @@
+lar[96784]=`<b>ου (τὸ)</b> emplacement pour un jeu de paume, TH. <i>Char. 6</i>.<p><b>Étym</b>. σφαιρίζω.`

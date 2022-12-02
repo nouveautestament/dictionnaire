@@ -1,0 +1,1 @@
+lar[82572]=`<b>πολυχρηματίζω</b> <font color="purple">[ᾰ]</font> être très riche, STR. <i>414</i>.<p><b>Étym</b>. πολυχρήματος.`

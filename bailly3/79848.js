@@ -1,0 +1,1 @@
+lar[79848]=`<b>ατος (τὸ) :<br>      1</b> déploiement, ARSTT. <i>H.A. 5, 6, 2</i>.<br><b>      2</b> étoffe déployée, voile, rideau, ESCHL. <i>Ag. 909</i>.<p><b>Étym</b>. πετάννυμι.`

@@ -1,0 +1,1 @@
+lar[26673]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ῑ]</font><br><b>      1</b> tournoyant, IL. <i>5, 479</i> ; OD. <i>6, 89</i> ; EUR. <i>Cycl. 46</i> ; A.RH. <i>2, 551</i>.<br><b>      2</b> <i>p. ext</i>. arrondi, MOSCH. <i>2, 55</i>.<p><b>Étym</b>. δίνη.`

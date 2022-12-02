@@ -1,0 +1,1 @@
+lar[37642]=`<b>εως (ἡ)</b> action de doubler, redoublement, PHIL. <i>2, 479</i>.<p><b>Étym</b>. ἐπιδιπλόω.`

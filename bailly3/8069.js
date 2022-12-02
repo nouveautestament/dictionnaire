@@ -1,0 +1,1 @@
+lar[8069]=`<b>ἀνδρο·κμής, ῆτος (ὁ)</b> qui accable les hommes, meurtrier, ESCHL. <i>Eum. 248, 956</i> ; EUR. <i>Suppl. 525</i>.<p><b>Étym</b>. ἀνήρ, κάμνω.`

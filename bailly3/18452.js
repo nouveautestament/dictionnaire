@@ -1,0 +1,1 @@
+lar[18452]=`<b>ἀχθέω-ῶ</b> (<i>seul. prés. et impf</i>. ἤχθεον-ουν) :<br><b>      1 <i>tr.</i></b> fatiguer, accabler, ARÉT. <i>Caus. m. diut. 2, 13</i>.<br><b>      2 <i>intr.</i></b> être accablé, <i>ib. 2</i>.<p><b>Étym</b>. ἄχθος.`

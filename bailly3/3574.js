@@ -1,0 +1,1 @@
+lar[3574]=`<b>ἀ·κόρητος, ος, ον</b>, insatiable de, <i>gén</i>. IL. <i>12, 335, etc. (inus. dans l’Od</i>.) ; HH. <i>Ven. 71</i> ; HÉS. <i>Sc. 346</i>.<p><b>Étym</b>. <i>cf</i>. ἀκόρεστος.`

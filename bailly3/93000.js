@@ -1,0 +1,1 @@
+lar[93000]=`<b>ή, όν</b>, couvert de figurines d’oiseaux peints <i>ou</i> brodés, SOPHR. (ATH. <i>48c</i>).<p><b>Étym</b>. <i>vb. de</i> *στρουθόω, <i>de</i> στρουθός.`

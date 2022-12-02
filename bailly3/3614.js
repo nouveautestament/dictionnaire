@@ -1,0 +1,1 @@
+lar[3614]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> conte <i>ou</i> chanson, LUC. <i>Philops. 18</i>.<p><b>Étym</b>. ἄκουσμα.`

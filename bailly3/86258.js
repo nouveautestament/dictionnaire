@@ -1,0 +1,1 @@
+lar[86258]=`<i>adv</i>., tout à coup, soudain, ARSTT. <i>Nic. 9, 5, 2</i> ; POL. <i>6, 43, 3</i>.<p><b>Étym</b>. πρόσπαιος.`

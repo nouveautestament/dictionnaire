@@ -1,0 +1,1 @@
+lar[10333]=`<b>ἀντι·προσαγορεύω</b> <font color="purple">[ᾰγ]</font> rendre un salut à, <i>acc</i>. PLUT. <i>Crass. 3 ; cf</i>. ἀντιπροσεῖπον.`

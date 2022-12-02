@@ -1,0 +1,1 @@
+lar[76446]=`<b>παρα·φύτευσις, εως (ἡ)</b> <font color="purple">[ῠ]</font> action de planter auprès, GEOP. <i>9, 10, 10</i>.<p><b>Étym</b>. παραφυτεύω.`

@@ -1,0 +1,1 @@
+lar[78656]=`<b>περι·θλάω-ῶ</b>, briser autour de <i>ou</i> sur, <i>p. suite,</i> couvrir de contusions, <i>acc</i>. PLUT. <i>M. 341a</i>.`

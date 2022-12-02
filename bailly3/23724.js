@@ -1,0 +1,1 @@
+lar[23724]=`<b>δεκατόω-ῶ</b> <font color="purple">[ᾰ]</font> percevoir la dîme : τινα, NT. <i>Hebr. 7, 6 (pf. 3 sg</i>. δεδεκάτωκε), sur qqn (<i>cf</i>. SPT. <i>Neh. 10, 37) ; au pass</i>. payer la dîme, NT. <i>Hebr. 7, 9 (pf. 3 sg</i>. δεδεκάτωται).<p><b>Étym</b>. δέκατος.`

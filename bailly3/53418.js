@@ -1,0 +1,1 @@
+lar[53418]=`<b>κατα·στάθμησις, εως (ἡ)</b> observation astronomique, EPIC. π. φύσ. <i>p. 18 Orell</i>.<p><b>Étym</b>. κ. *σταθμέω <i>de</i> σταθμός.`

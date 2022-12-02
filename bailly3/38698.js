@@ -1,0 +1,1 @@
+lar[38698]=`<b>ος, ον :<br>      1</b> appliqué sur, <i>en parl. d’un enduit, d’un emplâtre, etc</i>. ARTÉM. <i>334 Reiff, 2</i>.<br><b>      2</b> recouvert d’un enduit ; <i>en mauv. part,</i> plâtré, fardé, ALCIPHR. <i>3, 11 ; fig</i>. feint, mensonger, LUC. <i>D. mort. 27, 7</i>.<p><b>Étym</b>. ἐπιπλάσσω.`

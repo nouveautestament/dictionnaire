@@ -1,0 +1,1 @@
+lar[98246]=`<b>τελ·ώνης, ου (ὁ)</b> fermier public, percepteur d’impôts, publicain, AR. <i>Eq. 248</i> ; ESCHN. <i>3, 135 ; souv. en mauv. part, à cause de la dureté et de la cupidité des agents de cette classe d’hommes,</i> XÉNON (<i>Fragmenta comicorum græcorum 4, 596</i>) ; POL. <i>12, 13, 9</i>.<p><b>Étym</b>. τέλος, ὠνέομαι.`

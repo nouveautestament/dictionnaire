@@ -1,0 +1,1 @@
+lar[94922]=`<b>συν·αποτελέω-ῶ</b>, accomplir avec <i>ou</i> en même temps, PLAT. <i>Pol. 258e, Epinic. 986c</i>.`

@@ -1,0 +1,1 @@
+lar[36050]=`<b>ἑξ·και·πεντηκοντα·πλάσιος, ος, ον</b>, cinquante-six fois aussi grand, PLUT. <i>M. 925c</i>.`

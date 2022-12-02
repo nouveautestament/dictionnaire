@@ -1,0 +1,1 @@
+lar[99882]=`<i>d’où trisyll</i>. <b>Τραιανός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. Trajanus, Trajan, <i>n. d’h. rom., particul. empereur rom</i>. ANTH. <i>6, 332 ; 9, 210, etc</i>.`

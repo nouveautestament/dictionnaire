@@ -1,0 +1,1 @@
+lar[104953]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. φαρύγγεθρον GAL.`

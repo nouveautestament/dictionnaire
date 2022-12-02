@@ -1,0 +1,1 @@
+lar[74864]=`<b>παν·άξιος, ος, ον</b> <font color="purple">[ᾰν]</font> tout à fait digne, OPP. <i>C. 3, 408</i>.<p><b>Étym</b>. π. ἄξιος.`

@@ -1,0 +1,1 @@
+lar[13222]=`<b>ἀπο·ρραψῳδέω-ῶ</b>, réciter <i>ou</i> déclamer contre les rhapsodes, XÉN. <i>Cyr. 3, 3, 54</i>.`

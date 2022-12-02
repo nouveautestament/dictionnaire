@@ -1,0 +1,1 @@
+lar[75526]=`<b>παρα·διόρθωμα, ατος (τὸ)</b> correction mal faite <i>ou</i> mal appliquée, PORPH. <i>Qu. Hom. 8</i>.<p><b>Étym</b>. π. διορθόω.`

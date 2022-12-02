@@ -1,0 +1,1 @@
+lar[66775]=`<b>όος-οῦς (ἡ)</b> forme, figure, extérieur, ARCHYT. (STOB. <i>Ecl. phys. p. 81).</i><p><b>Étym</b>. μορφή.`

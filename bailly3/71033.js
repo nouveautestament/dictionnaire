@@ -1,0 +1,1 @@
+lar[71033]=`<b>ὀλιγό·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui a peu d’enfants, PLAT. <i>Leg. 930a</i>.<p><b>Étym</b>. ὀλ. παῖς.`

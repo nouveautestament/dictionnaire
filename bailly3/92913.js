@@ -1,0 +1,1 @@
+lar[92913]=`<b>ου</b>, <i>adj. m</i>. de Strepsa, AR. <i>fr. 23 Dind</i>.<p><b>Étym</b>. <i>v</i>. Στρέψα.`

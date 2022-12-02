@@ -1,0 +1,1 @@
+lar[90605]=`<b>ητος (ἡ)</b> gaucherie, maladresse <i>ou</i> grossièreté, HDT. <i>7, 9</i> ; SOPH. <i>Ant. 1028</i> ; PLAT. <i>Rsp. 441e ;</i> DÉM. <i>70, 20</i>.<p><b>Étym</b>. σκαιός.`

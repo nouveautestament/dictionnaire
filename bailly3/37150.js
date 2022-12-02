@@ -1,0 +1,1 @@
+lar[37150]=`<b>ἔπ·εργος, ος, ον</b>, qui accomplit, qui produit, PSI <i>6, 619, 8</i>.<p><b>Étym</b>. ἐπί, ἔργον.`

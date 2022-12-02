@@ -1,0 +1,1 @@
+lar[80421]=`<b>ου</b> <font color="purple">[ῑᾱ]</font> <i>adj. m</i>. de Pisa, <i>en Élide,</i> PD. <i>O. 1, 112</i> ; οἱ Πισᾶται, les habitants de Pisa, PD. <i>O. 9, 103</i>.<p>➳ <font color="purple">[ῐ]</font> PD. <i>ll. cc</i>.<p><b>Étym</b>. Πῖσα.`

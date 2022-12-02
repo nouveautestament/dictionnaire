@@ -1,0 +1,1 @@
+lar[47805]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠῐ]</font><br><b>      1</b> fille de la fille, petite-fille, AND. <i>17, 2</i> ; LYS. <i>208, 8</i>.<br><b>      2</b> nièce, DH. <i>Lys. 21</i>.<p><b>Étym</b>. <i>fém. de</i> θυγατριδέος.`

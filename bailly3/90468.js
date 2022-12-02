@@ -1,0 +1,1 @@
+lar[90468]=`<b>ου (τὸ)</b> <font color="purple">[ῑῠ]</font> temple de Sisyphe, DS. <i>20, 103</i> ; STR. <i>379</i>.<p><b>Étym</b>. Σίσυφος.`

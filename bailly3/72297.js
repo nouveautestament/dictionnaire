@@ -1,0 +1,1 @@
+lar[72297]=`<b>ὀπισθ·ουρητικός, ή, όν</b>, qui urine par derrière, ARSTT. <i>H.A. 2, 1, 45, etc</i>.<p><b>Étym</b>. ὄπισθε, οὐρέω.`

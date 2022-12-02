@@ -1,0 +1,1 @@
+lar[101950]=`<b>ὑπ·αναπίμπλημι</b> <font color="purple">[ῠᾰν]</font> remplir <i>ou</i> imprégner profondément, EL. <i>N.A. 17, 13</i>.`

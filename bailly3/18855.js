@@ -1,0 +1,1 @@
+lar[18855]=`<b>όνος (ὁ)</b> sorte de goujon, <i>poisson,</i> EPICH. (ATH. <i>288a</i>).`

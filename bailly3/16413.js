@@ -1,0 +1,1 @@
+lar[16413]=`<b>ἀ·συγκατάθετος, ος, ον</b> <font color="purple">[κᾰᾰ]</font> qui ne consent pas, ARISTOCL. (EUS. <i>P.E. 761d</i>) ; PHIL.<p><b>Étym</b>. ἀ, συγκατατίθημι.`

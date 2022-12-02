@@ -1,0 +1,1 @@
+lar[45331]=`<b>ἡμερό·βιος, ος, ον :<br>      1</b> qui ne vit qu’un jour, <i>d’où</i> : τὸ ἡμερόβιον, TH. <i>Metaph. p. 321, 3 Brandt</i> ; PLIN. <i>H.N. 11, 43,</i> éphémère, <i>insecte</i>.<br><b>      2</b> qui vit au jour le jour, SATYR. <i>fr. 17a</i>.<p><b>Étym</b>. ἡμέρα, βίος.`

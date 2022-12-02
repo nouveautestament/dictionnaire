@@ -1,0 +1,1 @@
+lar[61969]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> Lyra, <i>f</i>. LUC. <i>D. mer. 6, 2</i>.<br><b>      2</b> <i>lieu où Orphée consacra sa lyre à Apollon,</i> A.RH. <i>2, 929</i>.<p>➳ <i>Épq. et ion</i>. λύρη, A.RH. <i>l. c</i>.`

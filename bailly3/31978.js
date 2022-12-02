@@ -1,0 +1,1 @@
+lar[31978]=`<b>ἐκ·πυρηνίζω</b> <font color="purple">[ῡ]</font> faire sortir le noyau, <i>d’où fig</i>. faire sortir comme un noyau, faire jaillir, ARSTT. <i>Phys. 4, 7</i>.<p><b>Étym</b>. ἐκ, πυρήν.`

@@ -1,0 +1,1 @@
+lar[106303]=`<font color="darkgreen">(<i>seul. ao.2</i> ἔφλαδον <font color="purple">[ᾰ]</font>)</font> se déchirer avec bruit, ESCHL. <i>Ch. 28</i>.`

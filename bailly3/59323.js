@@ -1,0 +1,1 @@
+lar[59323]=`<b>ου (τὸ)</b> Labdalon, <i>forteresse sur l’Epipoles de Syracuse,</i> THC. <i>6, 97, 98</i>.`

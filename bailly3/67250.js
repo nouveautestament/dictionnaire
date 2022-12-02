@@ -1,0 +1,1 @@
+lar[67250]=`<b>μυριό·μορφος, ος, ον</b> <font color="purple">[ῡ]</font> qui revêt mille formes, ANTH. <i>9, 524, 525</i>.<p><b>Étym</b>. μ. μορφή.`

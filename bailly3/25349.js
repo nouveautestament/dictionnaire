@@ -1,0 +1,1 @@
+lar[25349]=`<b>δια·πορθμεύω :<br>   I <i>tr</i>.<br>      1</b> faire passer un fleuve <i>ou</i> un détroit, HDT. <i>4, 141</i>.<br><b>      2</b> transmettre un message, HDT. <i>9, 4 ; abs</i>. faire passer, faire porter, transmettre, PLAT. <i>Conv. 202e.</i><br><b>   II <i>intr.</i></b> traverser un fleuve, <i>en parl. de bateaux,</i> HDT. <i>1, 205 ; 5, 52</i>.`

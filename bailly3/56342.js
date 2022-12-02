@@ -1,0 +1,1 @@
+lar[56342]=`<b>οῦ (ὁ) :<br>      1</b> jappement joyeux <i>ou</i> craintif d’un chien, OD. <i>16, 163 ; p. anal</i>. cri d’un petit enfant, ATH. <i>376a.</i><br><b>      2</b> <i>p. ext</i>. rugissement, cri de bête féroce, A.RH. <i>3, 884</i> ; OPP. <i>C. 3, 169</i>.<p><b>Étym</b>. κνυζέω.`

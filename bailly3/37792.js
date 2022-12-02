@@ -1,0 +1,1 @@
+lar[37792]=`<b>ας (ἡ)</b> action d’en imposer à, imposture, fraude, AQU. <i>Ps. 34, 20</i>.<p><b>Étym</b>. ἐπίθετος ; <i>cf</i>. ἐπίθεσις.`

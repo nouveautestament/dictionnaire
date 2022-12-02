@@ -1,0 +1,1 @@
+lar[41487]=`<b>ας (ἡ)</b> <i>traduct., sel. une fausse étymol., du lat</i>. ovatio (<i>v</i>. εὐαστής) PLUT. <i>Marc. 22</i>.`

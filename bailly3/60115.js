@@ -1,0 +1,1 @@
+lar[60115]=`<b>α, ον</b> <font color="purple">[μᾰ]</font> de demi-ton <i>ou</i> de dièse, BRYENN. <i>p. 396, 397, 404 Wallis</i>.<p><b>Étym</b>. λεῖμμα.`

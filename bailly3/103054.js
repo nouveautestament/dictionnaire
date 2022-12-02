@@ -1,0 +1,1 @@
+lar[103054]=`<b>ὑπο·βρύχω</b> <font color="purple">[βρῡ]</font> respirer profondément, POLÉM. <i>Physiogn. 2, 9</i>.`

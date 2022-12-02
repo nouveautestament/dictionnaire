@@ -1,0 +1,1 @@
+lar[21997]=`<b>ου (τὸ)</b> sorte de petite rave (<i>Daucus gingidium</i> L.) DIOSC. <i>2, 167</i> ; GAL. <i>6, 364e ; 13, 166 ; etc</i>.<p><b>Étym</b>. <i>dim. de</i> γιγγίς.`

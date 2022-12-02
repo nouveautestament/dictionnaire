@@ -1,0 +1,1 @@
+lar[100441]=`<b>τρίσ·εφθος, ος, ον</b> <font color="purple">[ῐ]</font> trois fois cuit, A. TR. <i>7, p. 322 ; 8, p. 409</i>.<p><b>Étym</b>. τρ. ἑφθός.`

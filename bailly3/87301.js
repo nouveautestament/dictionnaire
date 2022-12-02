@@ -1,0 +1,1 @@
+lar[87301]=`<b>η, ον</b> <font color="purple">[ῐ]</font> fait de bois d’orme, TH. <i>H.P. 5, 3, 4</i>.<p>➳ <i>Dans les inscr. att</i>. πτελείϊνος (<i>329 av. J.-C.) et</i> πτελέϊνος (<i>5<sup>e</sup> siècle av. J.-C.) v. Meisterh. p. 35, 17</i>.<p><b>Étym</b>. πτελέα.`

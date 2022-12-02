@@ -1,0 +1,1 @@
+lar[80727]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Platè, <i>n. de lieu,</i> ANTH. <i>1, 34</i>.<p><b>Étym</b>. <i>v</i>. πλάτη.`

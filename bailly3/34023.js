@@ -1,0 +1,1 @@
+lar[34023]=`<b>ἐν·άριθμος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> compté dans <i>ou</i> parmi, <i>dat</i>. ORPH. <i>Arg. 110</i>.<br><b>      2</b> compté pour qqe ch., honoré, PLAT. <i>Soph. 258c</i>.<p>➳ <i>Poét</i>. ἐνήριθμος, CALL. <i>fr. 127</i>.<p><b>Étym</b>. ἐν, ἀριθμός.`

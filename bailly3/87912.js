@@ -1,0 +1,1 @@
+lar[87912]=`<b>πυρί·τροχος, ος, ον</b> <font color="purple">[ῠ]</font> à la course enflammée, NONN. <i>D. 14, 292</i>.<p><b>Étym</b>. π. τρέχω.`

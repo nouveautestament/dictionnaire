@@ -1,0 +1,1 @@
+lar[105316]=`<b>ή, όν</b> <font color="purple">[ῐῐ]</font> de la fin de l’automne, HPC. <i>Aph. 1245</i> ; ARSTT. <i>fr. 232 ; H.A. 5, 12, 3, etc</i>.<p><b>Étym</b>. φθινόπωρον.`

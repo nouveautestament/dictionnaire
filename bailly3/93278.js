@@ -1,0 +1,1 @@
+lar[93278]=`<b>συγ·καταγιγνώσκω</b>, <i>réc</i>. <b>συγκαταγινώσκω</b> <font color="purple">[ῑ]</font> condamner ensemble <i>ou</i> en même temps, <i>gén</i>. DS. <i>17, 30</i> ; ARSTD. <i>t. 1, 495 ; au pass</i>. APP. <i>Civ. 1, 62</i>.`

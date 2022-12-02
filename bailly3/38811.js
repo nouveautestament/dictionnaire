@@ -1,0 +1,1 @@
+lar[38811]=`<b>ἐπι·προσβάλλω</b>, se jeter sur, <i>d’où</i> aborder à, <i>dat</i>. A.RH. <i>1, 931</i>.`

@@ -1,0 +1,1 @@
+lar[11604]=`<b>ἀπειρό·πλους, ους, ουν</b>, sans expérience de la navigation, LUC. <i>Dom. 12</i>.<p><b>Étym</b>. ἄ. πλοῦς.`

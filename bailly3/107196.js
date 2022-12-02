@@ -1,0 +1,1 @@
+lar[107196]=`<b>φυξ·ήλιος, ος, ον</b>, qui fuit le soleil <i>ou</i> le jour, NIC. <i>Th. 660</i>.<p><b>Étym</b>. φεύγω, ἥλιος.`

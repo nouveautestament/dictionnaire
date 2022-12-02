@@ -1,0 +1,1 @@
+lar[93964]=`<b>συμ·μετασχηματίζω</b> <font color="purple">[μᾰ]</font> transformer en même temps, ONOS. <i>13</i>.<br><b><i>Moy.</i></b> se transformer avec, ES. <i>307 Halm</i>.`

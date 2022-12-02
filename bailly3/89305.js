@@ -1,0 +1,1 @@
+lar[89305]=`<b>υκος (ἡ)</b> vermillon, <i>d’où</i> incarnat, DIOSC. <i>5, 103</i>.`

@@ -1,0 +1,1 @@
+lar[81303]=`<b>ας (ἡ)</b> vitesse des pieds, agilité, IL. <i>2, 792 au plur.</i> ; EUR. <i>I.T. 33, etc</i>.<p><b>Étym</b>. ποδώκης.`

@@ -1,0 +1,1 @@
+lar[26269]=`<b>δι·ερίζω :<br>      1</b> être en contestation, EPIGR. (A. GELL. <i>3, 11</i>) ; JAMBL. (PHOT. <i>Bibl. 14, 19</i>).<br><b>      2</b> être rival de, APP. <i>2, 854 Schweigh.</i><br><b><i>Moy.</i></b> être en contestation : τινι, PLUT. <i>Cato ma. 15,</i> avec qqn.`

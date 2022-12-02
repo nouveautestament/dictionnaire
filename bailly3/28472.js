@@ -1,0 +1,1 @@
+lar[28472]=`<b>δυσ·ηλάκατος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> à la quenouille funeste, <i>càd.</i> :<br><b>      1</b> <i>act</i>. qui file (pour les mortels) un sort malheureux, NONN. <i>D. 1, 367</i>.<br><b>      2</b> <i>pass</i>. au sort malheureux, NONN. <i>D. 4, 321</i>.<p><b>Étym</b>. δ. ἠλακάτη.`

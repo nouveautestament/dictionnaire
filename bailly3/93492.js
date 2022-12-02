@@ -1,0 +1,1 @@
+lar[93492]=`<b>σύγ·κοιτος, ος, ον :<br>      1</b> compagnon de lit, <i>fig</i>. PD. <i>P. 9, 42</i> ; PLUT. <i>M. 100f ; subst</i>. ὁ σ. époux, ANTH. <i>5, 152, 191</i> ; ἡ σ. épouse, POÈT. (PLUT. <i>M. 1098b</i>).<br><b>      2</b> d’époux, d’amant, ANTH. <i>5, 166, 196</i>.<p><b>Étym</b>. σύν, κοίτη.`

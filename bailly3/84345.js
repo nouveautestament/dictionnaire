@@ -1,0 +1,1 @@
+lar[84345]=`<b>ή, όν :<br>   I</b> qui a en vue, <i>gén</i>. ARSTT. <i>M. mor. 1, 18, 6</i>.<br><b>   II</b> <i>t. de gr.</i> :<br><b>      1</b> qui sert de préposition : μόριον, DH. <i>Amm. 2, 2,</i> préposition.<br><b>      2</b> qui concerne les prépositions, DYSC. <i>Synt. 326, etc</i>.<p><b>Étym</b>. προτίθημι.`

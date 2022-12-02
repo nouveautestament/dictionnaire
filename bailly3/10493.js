@@ -1,0 +1,1 @@
+lar[10493]=`<b>ἀντι·τέμνω</b> (<i>part. ao</i>. -τεμών) couper contre, <i>càd</i>. couper des racines ou des plantes pour remèdes, EUR. <i>Alc. 972</i>.`

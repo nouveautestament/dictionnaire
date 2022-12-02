@@ -1,0 +1,1 @@
+lar[17306]=`<b>αὐστηρό·πρακτος, ου (ὁ, ἡ)</b> qui agit avec austérité, PTOL. <i>Tetr. p. 159</i>.<p><b>Étym</b>. αὐστηρός, πράσσω.`

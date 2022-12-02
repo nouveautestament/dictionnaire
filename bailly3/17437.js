@@ -1,0 +1,1 @@
+lar[17437]=`<b>αὐτο·δεκάς, άδος (ἡ)</b> le nombre dix en soi, PLOT. <i>Enn. 6, 6</i>.`

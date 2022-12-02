@@ -1,0 +1,1 @@
+lar[82204]=`<b>πολυ·όστεον, ου (τὸ)</b> partie très osseuse du pied, près des doigts, ARSTT. <i>H.A. 1, 15, 6</i>.<p><b>Étym</b>. π. ὀστέον.`

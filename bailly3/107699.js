@@ -1,0 +1,1 @@
+lar[107699]=`<b>χαλκοτορέω-ῶ</b>, fabriquer (<i>litt</i>. percer <i>ou</i> creuser) en airain, A. PL. <i>15</i>.<p><b>Étym</b>. χαλκότορος.`

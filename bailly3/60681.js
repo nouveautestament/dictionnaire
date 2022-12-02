@@ -1,0 +1,1 @@
+lar[60681]=`<b>όος-οῦς (ἡ) :<br>      1</b> femme qui accouche, HPC. <i>de Morb. 1</i> ; EUR. <i>El. 652, etc.</i> ; AR. <i>Eccl. 530, etc.</i><br><b>      2</b> femelle qui met bas, OPP. <i>C. 3, 208</i>.<p><b>Étym</b>. λέχω.`

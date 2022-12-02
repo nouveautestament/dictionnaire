@@ -1,0 +1,1 @@
+lar[26516]=`<font color="purple">[ῐ]</font> <i>vb. de</i> δικάζω, PHIL. <i>1, 90</i>.`

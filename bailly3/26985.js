@@ -1,0 +1,1 @@
+lar[26985]=`<b>δί·πος</b> <font color="purple">[ῐ]</font> (<i>seul. nom.) c</i>. δίπους, JAMBL. <i>V. Pyth. p. 300</i>.`

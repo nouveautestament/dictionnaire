@@ -1,0 +1,1 @@
+lar[99368]=`<b>ης (ἡ) :<br>      1</b> nourrice, AR. <i>Eq. 716, Th. 609, Lys. 558 ; p. opp. à</i> τροφός, PLUT. <i>M. 3c.</i><br><b>      2</b> <i>c</i>. τιτθός, ARSTT. <i>H.A. 7, 10, 10 ; 7, 12, 1</i>.<p>➳ <i>Dans les inscr. att. à côté de</i> τήθη, <i>v. Meisterh. p. 15, 8</i>.<p><b>Étym</b>. τιθήνη.`

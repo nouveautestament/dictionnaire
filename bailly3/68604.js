@@ -1,0 +1,1 @@
+lar[68604]=`<b>α, ον</b> <font color="purple">[ρῐ]</font> de Nèrikos, DP. <i>495</i>.<p><b>Étym</b>. Νήρικος.`

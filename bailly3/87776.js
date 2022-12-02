@@ -1,0 +1,1 @@
+lar[87776]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> πύργος, AR. <i>Eq. 793 ; particul</i>. tourelle de navire, STR. <i>12, 3, 18 Kram</i>.`

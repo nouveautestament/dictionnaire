@@ -1,0 +1,1 @@
+lar[27906]=`<b>ου (ὁ)</b> ver de terre, ANTH. <i>11, 197</i>.`

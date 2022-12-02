@@ -1,0 +1,1 @@
+lar[7382]=`<b>ἀνα·πισσόω-ῶ</b>, enduire de poix de nouveau, GEOP. <i>6, 8, 3</i>.`

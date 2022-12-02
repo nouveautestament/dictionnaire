@@ -1,0 +1,1 @@
+lar[59435]=`<b>λαγώ·πους, ους, ουν</b>, <i>gén</i>. <b>ποδος</b>, aux pieds de lièvre, <i>d’où subst</i>. ὁ λ. perdrix blanche, <i>oiseau,</i> PLIN. <i>H.N. 10, 68 ; ou</i> pied de lièvre, <i>sorte de trèfle,</i> DIOSC. <i>4, 17</i> ; GAL. <i>13, 201</i>.<p><b>Étym</b>. λαγώς, πούς.`

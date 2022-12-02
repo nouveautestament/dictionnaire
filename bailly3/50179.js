@@ -1,0 +1,1 @@
+lar[50179]=`<b>(ἡ)</b> l’île des lutteurs, <i>n. d’une î. imaginaire,</i> LUC. <i>V.H. 2, 46</i>.<p><b>Étym</b>. κάββαλε.`

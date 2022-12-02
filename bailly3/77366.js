@@ -1,0 +1,1 @@
+lar[77366]=`<b>ή, όν</b>, qui concerne les gens du même pays <i>ou</i> de la même tribu, ARSTT. <i>Œc. 2, 4, 1</i> ; DICÉARQ. (E. BYZ. <i>v°</i> πάτρα).<p><b>Étym</b>. πατριώτης.`

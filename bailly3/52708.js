@@ -1,0 +1,1 @@
+lar[52708]=`<b>κατ·αλείφω</b> (<i>pf. pass</i>. καταλήλειμμαι) <font color="purple">[ᾰλ]</font><br><b>      1</b> étendre un enduit, ARSTT. <i>H.A. 9, 40, 50</i>.<br><b>      2</b> enduire, oindre : τί τινι, EL. <i>N.A. 3, 26,</i> une chose avec une autre.`

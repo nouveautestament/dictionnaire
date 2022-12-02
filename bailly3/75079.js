@@ -1,0 +1,1 @@
+lar[75079]=`<b>ων (τὰ)</b> <font color="purple">[ᾰν]</font> fête célébrée par tous les Ioniens réunis, HDT. <i>1, 148</i>.<p><b>Étym</b>. Πανίωνες.`

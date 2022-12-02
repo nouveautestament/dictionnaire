@@ -1,0 +1,1 @@
+lar[22822]=`<b>γυναικό·φρων, ονος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui a les sentiments d’une femme, EUR. <i>fr. 364, 34</i>.<p><b>Étym</b>. γ. φρήν.`

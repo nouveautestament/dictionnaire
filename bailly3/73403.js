@@ -1,0 +1,1 @@
+lar[73403]=`<b>έως</b>, <i>adj. m</i>. habitant <i>ou</i> originaire du dème att. Otrynè, DÉM. <i>1083, 5</i>.`

@@ -1,0 +1,1 @@
+lar[89654]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Seilènis, <i>f</i>. ANTH. <i>7, 456 ; 11, 409</i>.<p><b>Étym</b>. Σειληνός.`

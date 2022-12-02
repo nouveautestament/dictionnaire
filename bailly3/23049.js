@@ -1,0 +1,1 @@
+lar[23049]=`<b>ας (ἡ)</b> flux de larmes, Ps.-CALLISTH. <i>3, 3</i>.<p><b>Étym</b>. δακρύρροος.`

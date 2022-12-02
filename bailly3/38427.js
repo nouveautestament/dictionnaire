@@ -1,0 +1,1 @@
+lar[38427]=`<b>ἐπι·μηθής, ής, ές</b>, avisé, sage, prudent, THCR. <i>Idyl. 25, 79</i>.<p><b>Étym</b>. ἐπί, μανθάνω.`

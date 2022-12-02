@@ -1,0 +1,1 @@
+lar[23600]=`<b>ιδος</b>, <i>adj. f</i>. qui convient pour un dîner (vêtement), DC. <i>69, 28</i>.<p><b>Étym</b>. δεῖπνον.`

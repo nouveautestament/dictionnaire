@@ -1,0 +1,1 @@
+lar[15628]=`<b>ἀρχι·μάγειρος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> cuisinier-chef, maître-queux, SPT. <i>Gen. 39, 1</i> ; PLUT. <i>M. 11b, etc</i>.`

@@ -1,0 +1,1 @@
+lar[57251]=`<b>εως (ἡ)</b> parure, PLAT. <i>Criti. 117b, etc.</i> ; PLUT. <i>Thes. 23 ; au plur</i>. PLAT. <i>Gorg. 504d</i>.<p><b>Étym</b>. κοσμέω.`

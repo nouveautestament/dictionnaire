@@ -1,0 +1,1 @@
+lar[92665]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> rocailleux, GAL. <i>Lex. Hipp. 19, 140</i>.`

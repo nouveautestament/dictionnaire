@@ -1,0 +1,1 @@
+lar[50504]=`<b>καθ·υποκλέπτω :<br>      1</b> faire furtivement, <i>acc</i>. EUM. <i>p. 58</i>.<br><b>      2</b> dissimuler, <i>acc</i>. EUM. <i>p. 358</i>.`

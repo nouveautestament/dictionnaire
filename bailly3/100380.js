@@ -1,0 +1,1 @@
+lar[100380]=`<b>τριποδη·λάλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui parle assise sur un trépied, ANTH. <i>2, 72</i>.<p><b>Étym</b>. τρίπους, λαλέω.`

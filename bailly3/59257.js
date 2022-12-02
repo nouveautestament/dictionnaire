@@ -1,0 +1,1 @@
+lar[59257]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> action de ramer, manœuvre de la rame, ARSTT. <i>Meteor. 2, 98</i> ; STR. <i>406</i>.<p><b>Étym</b>. κωπηλάτης.`

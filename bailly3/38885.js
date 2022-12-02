@@ -1,0 +1,1 @@
+lar[38885]=`<b>ἐπί·ρρημα, ατος (τὸ) :<br>      1</b> partie de la parabase composée de 16 trochaïques tétramètres, HÉPH. <i>Poem. 14, 3</i>.<br><b>      2</b> adverbe, DYSC. <i>Adv. 529, 6, etc.</i> ; DH. <i>Comp. p. 8, 12</i> ; PLUT. <i>M. 1009c</i>.<p><b>Étym</b>. ἐπί, ῥῆμα.`

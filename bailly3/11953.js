@@ -1,0 +1,1 @@
+lar[11953]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. ἄπιον, A. TR. <i>407</i>.`

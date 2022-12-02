@@ -1,0 +1,1 @@
+lar[50203]=`<b>οῦ (ὁ)</b> éclat de rire, CLÉM. <i>1, 448 Migne</i>.<p><b>Étym</b>. καγχάζω.`

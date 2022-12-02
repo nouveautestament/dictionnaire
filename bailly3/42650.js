@@ -1,0 +1,1 @@
+lar[42650]=`<b>εὐ·μέθοδος, ος, ον</b>, qui suit une bonne méthode, méthodique, OLYMPIOD. <i>Plat. 1 Alc. § 14</i> ; A. TR. <i>1, 289, 11 Puschmann</i>.<p><b>Étym</b>. εὖ, μέθοδος.`

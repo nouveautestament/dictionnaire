@@ -1,0 +1,1 @@
+lar[79277]=`<b>περι·σκληρύνω</b>, durcir tout autour <i>ou</i> entièrement, HPC. <i>Aph. 1253</i>.`

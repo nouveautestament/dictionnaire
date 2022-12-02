@@ -1,0 +1,1 @@
+lar[4383]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> moulu, broyé, ARCHIG. (ORIB. <i>2, 153 B.-Dar</i>.).<p><b>Étym</b>. <i>vb. de</i> ἀλέω.`

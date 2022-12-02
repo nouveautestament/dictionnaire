@@ -1,0 +1,1 @@
+lar[30827]=`<b>*εἰσ·οικέω</b>, <i>ion</i>. <b>ἐσ·οικέω-ῶ</b> (<i>seul. prés</i>.) aller habiter dans, ANTH. <i>7, 320</i>.`

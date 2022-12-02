@@ -1,0 +1,1 @@
+lar[44023]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> adolescence, ANTH. <i>6, 282</i>.<p><b>Étym</b>. ἔφηβος.`

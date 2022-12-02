@@ -1,0 +1,1 @@
+lar[29944]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> suc <i>ou</i> jus exprimé (d’un fruit) DIOSC. <i>1, 133</i>.<p><b>Étym</b>. ἐγχυλίζω.`

@@ -1,0 +1,1 @@
+lar[66569]=`<b>*μονολέων</b>, <i>seul. ion</i>. <b>μουνολέων, οντος (ὁ)</b> lion énorme, <i>propr</i>. « d’une grandeur <i>ou</i> d’une force singulière », ANTH. <i>6, 221</i>.<p><b>Étym</b>. μόνος, λέων.`

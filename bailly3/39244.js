@@ -1,0 +1,1 @@
+lar[39244]=`<b>ἐπι·συνοικίζω</b>, établir de nouveaux habitants, mener une seconde colonie, STR. <i>213 ; pass</i>. être colonisé de nouveau, PAUS. <i>6, 22, 5</i>.`

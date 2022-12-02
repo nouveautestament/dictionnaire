@@ -1,0 +1,1 @@
+lar[82153]=`<b>πολυ·νεικής, ής, ές</b> <font color="purple">[ῠ]</font> <i>adj</i>. qui aime les querelles, ESCHL. <i>Sept. 830</i>.<p><b>Étym</b>. π. νεῖκος.`

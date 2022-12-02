@@ -1,0 +1,1 @@
+lar[57535]=`<b>ήεσσα, ῆεν</b>, semblable au chou, NIC. <i>Al. 330</i>.<p><b>Étym</b>. κράμβη.`

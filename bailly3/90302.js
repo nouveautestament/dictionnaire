@@ -1,0 +1,1 @@
+lar[90302]=`<b>(ὁ)</b> = <i>lat</i>. Silo, <i>n. d’h. rom</i>. PLUT. <i>Cato mi. 2</i>.`

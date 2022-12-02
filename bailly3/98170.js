@@ -1,0 +1,1 @@
+lar[98170]=`<b>εως (ἡ)</b> accomplissement, ANTH. <i>App. 39, 12</i>.<p><b>Étym</b>. τελέω.`

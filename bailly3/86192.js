@@ -1,0 +1,1 @@
+lar[86192]=`<b>πρόσ·οικος, ος, ον</b>, qui habite auprès, voisin de, <i>dat</i>. HDT. <i>1, 144</i> ; THC. <i>1, 24, etc. ; en parl. de villes ou de pays,</i> situé près de, <i>dat</i>. PLAT. <i>Leg. 705a ; gén</i>. PLUT. <i>Fab. 2, etc</i>.<p><b>Étym</b>. π. οἶκος.`

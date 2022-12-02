@@ -1,0 +1,1 @@
+lar[24487]=`<b>δια·γλαύσσω</b> (<i>seul. prés. 3 pl</i>. -ουσι) briller d’un vif éclat, A.RH. <i>1, 1281</i>.`

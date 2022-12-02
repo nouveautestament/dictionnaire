@@ -1,0 +1,1 @@
+lar[70569]=`<b>οἰνο·πώλης, ου (ὁ)</b> marchand de vin, DIPH. (<i>Com. fr. 4, 376</i>) ; ARSTT. <i>Mir. 32</i>.<p><b>Étym</b>. οἶν. πωλέω.`

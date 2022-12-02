@@ -1,0 +1,1 @@
+lar[42070]=`<b>ας (ἡ)</b> louable émulation, PLUT. <i>Lyc. 21 dout</i>.<p><b>Étym</b>. εὔζηλος.`

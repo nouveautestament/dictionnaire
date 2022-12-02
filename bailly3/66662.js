@@ -1,0 +1,1 @@
+lar[66662]=`<b>μονοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger seul, ANTIPH. (ATH. <i>8e</i>).<p><b>Étym</b>. μονοφάγος.`

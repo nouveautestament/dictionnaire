@@ -1,0 +1,1 @@
+lar[58436]=`<b>κυδι·άνειρα, ας</b> <font color="purple">[ῡᾰν]</font> <i>adj. f.</i> :<br><b>      1</b> <i>act</i>. qui rend glorieux, IL. <i>1, 490</i>.<br><b>      2</b> <i>pass</i>. illustre, A. PL. <i>1, 1</i>.<p><b>Étym</b>. κυδιάω, ἀνήρ.`

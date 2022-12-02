@@ -1,0 +1,1 @@
+lar[83]=`<i>adv</i>., avec inconstance, MÉN. <i>4, 96 Meineke</i>.`

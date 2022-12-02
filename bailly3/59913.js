@@ -1,0 +1,1 @@
+lar[59913]=`<b>ους (ὁ)</b> Lasthénès, <i>h</i>. ESCHL. <i>Sept. 620</i> ; DÉM. <i>8, 40 ; 9, 66 Baiter-Sauppe, etc</i>.<p>➳ <i>Acc</i>. -η, DÉM. <i>9, 66 ; 19, 342 Baiter-Sauppe, etc. ; ou</i> -ην, DS. <i>16, 53, etc</i>.<p><b>Étym</b>. λαός, σθένος ; <i>cf</i>. Σθενέλαος.`

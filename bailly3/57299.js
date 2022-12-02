@@ -1,0 +1,1 @@
+lar[57299]=`<b>οῦ (ὁ)</b> auteur <i>ou</i> créateur du monde, JAMBL. <i>Nicom. ar. p. 11</i>.<p><b>Étym</b>. κόσμος, ἔργον.`

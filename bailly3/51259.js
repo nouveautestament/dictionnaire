@@ -1,0 +1,1 @@
+lar[51259]=`<b>κάλλ·ιχθυς, υος (ὁ)</b> <font color="purple">[ῠ]</font> <i>propr</i>. « beau poisson », <i>poisson de mer,</i> ARSTT. <i>fr. 297</i> ; ATH. <i>282e, etc.</i> ; OPP. <i>H. 3, 335</i>.<p><b>Étym</b>. κ. ἰχθύς.`

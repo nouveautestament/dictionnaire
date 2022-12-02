@@ -1,0 +1,1 @@
+lar[99627]=`<b>τοπ·άρχης, ου (ὁ)</b> gouverneur d’un territoire, d’une province, d’un pays, PALÆPH. <i>72, 7</i> ; SPT. <i>Gen. 41, 34</i>.<p><b>Étym</b>. τόπος, ἄρχω.`

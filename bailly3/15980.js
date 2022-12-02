@@ -1,0 +1,1 @@
+lar[15980]=`<b>ᾀσματο·κάμπτης, ου (ὁ)</b> <font color="purple">[μᾰ]</font> tourneur de chants, <i>sobriquet des poètes tragiques et lyriques,</i> AR. <i>Nub. 333</i>.<p><b>Étym</b>. ᾆσμα, κάμπτω.`

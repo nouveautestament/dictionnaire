@@ -1,0 +1,1 @@
+lar[23043]=`<b>δακρυο·πετής, ής, ές</b> <font color="purple">[αῠ]</font> qui fait couler (<i>litt</i>. tomber) des larmes, ESCHL. <i>Suppl. 112</i>.<p><b>Étym</b>. δάκρυον, πετ- <i>de</i> πίπτω.`

@@ -1,0 +1,1 @@
+lar[69357]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>autre n. de la plante</i> βαλλωτή, DIOSC. <i>3, 107</i>.`

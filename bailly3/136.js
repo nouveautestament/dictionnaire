@@ -1,0 +1,1 @@
+lar[136]=`<b>ἀ·βόητος, ος, ον :<br>      1</b> qu’on ne pleure pas bruyamment, <i>litt</i>. avec des cris, ANTH. <i>App. 200</i>.<br><b>      2</b> qui ne crie pas, muet, silencieux, NONN. <i>D. 9, 857</i>.<p>➳ <i>Dor</i>. ἀβόατος <font color="purple">[ᾱτ]</font> ANTH. <i>l. c</i>.<p><b>Étym</b>. ἀ, βοάω.`

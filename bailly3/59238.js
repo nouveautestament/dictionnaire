@@ -1,0 +1,1 @@
+lar[59238]=`<b>ου (τὸ)</b> moustiquaire, SPT. <i>Judith 10, 21 ; 13, 9 et 15</i>.<p><b>Étym</b>. κώνωψ.`

@@ -1,0 +1,1 @@
+lar[109976]=`<b>ψυχο·μαντεῖον, ου (τὸ)</b> <font color="purple">[ῡ]</font> lieu où l’on évoque et on l’on interroge les morts, PLUT. <i>M. 109c</i>.`

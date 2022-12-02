@@ -1,0 +1,1 @@
+lar[105909]=`<b>φιλομαθέω-ῶ</b> <font color="purple">[ῐᾰ]</font> aimer à s’instruire, avoir le goût de la science, PLAT. <i>Leg. 810a ;</i> POL. <i>1, 13, 9, etc.</i> ; PLUT. <i>Syll. 13</i> ; περί τινος, POL. <i>3, 59, 4,</i> aimer à s’instruire sur qqe ch.<p><b>Étym</b>. φιλομαθής.`

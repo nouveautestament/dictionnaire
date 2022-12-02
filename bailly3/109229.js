@@ -1,0 +1,1 @@
+lar[109229]=`<b>χρυσο·πήληξ, ηκος (ὁ, ἡ)</b> au casque d’or, ESCHL. <i>Sept. 106</i> ; EUR. <i>Ph. 939</i>.`

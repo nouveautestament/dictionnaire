@@ -1,0 +1,1 @@
+lar[38205]=`<i>adv</i>., avec plus d’éclat, POL. <i>5, 23, 2</i>.<p><b>Étym</b>. ἐπικυδής.`

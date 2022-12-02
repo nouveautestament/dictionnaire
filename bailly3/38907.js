@@ -1,0 +1,1 @@
+lar[38907]=`<b>ἐπι·ρροιζέω-ῶ :<br>      1</b> faire un bruit strident, <i>en parl. de traits,</i> NONN. <i>D. 48, 940 ; en parl. du corbeau,</i> TH. <i>Sign. 1, 16</i> ; ARAT. <i>969</i>.<br><b>      2 <i>tr.</i></b> annoncer en criant : τί τινι, ESCHL. <i>Eum. 424,</i> qqe ch. à qqn.<p><b>Étym</b>. ἐπί, ῥοιζέω.`

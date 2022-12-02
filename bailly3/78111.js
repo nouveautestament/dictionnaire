@@ -1,0 +1,1 @@
+lar[78111]=`<b>πεντ·ετηρίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> durée de cinq années, HDT. <i>3, 97 ; 4, 94</i>.<br><b>      2</b> fête quinquennale, <i>comme les Panathénées,</i> HDT. <i>6, 111</i> ; THC. <i>3, 104</i>.`

@@ -1,0 +1,1 @@
+lar[87242]=`<b>πρωτό·πολις, εως (ὁ, ἡ)</b> le premier dans l’État, PLUT. <i>M. 322</i>.<p><b>Étym</b>. πρ. πόλις.`

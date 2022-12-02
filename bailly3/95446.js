@@ -1,0 +1,1 @@
+lar[95446]=`<b>συν·ελαφρίζω</b>, alléger ensemble, contribuer à alléger, NAZ. <i>3, 1063 Migne</i>.`

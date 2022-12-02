@@ -1,0 +1,1 @@
+lar[101507]=`<b>ὑδρ·άρπαξ, αγος (ὁ)</b> clepsydre (<i>litt</i>. qui entraîne l’eau) SIMPL. <i>Arstt. Cæl. p. 127</i>.<p><b>Étym</b>. ὕδωρ, ἁρπάζω ; <i>v</i>. κλεψύδρα.`

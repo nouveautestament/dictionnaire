@@ -1,0 +1,1 @@
+lar[48649]=`<i>adv</i>., à la manière des hiérophantes, LUC. <i>Alex. 39</i>.`

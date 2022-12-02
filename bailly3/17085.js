@@ -1,0 +1,1 @@
+lar[17085]=`<b>ῶν (αἱ)</b> Augeies :<br><b>      1</b> <i>v. de Locride,</i> IL. <i>2, 532</i>.<br><b>      2</b> <i>v. de Laconie (postér</i>. Αἰγαιαί), IL. <i>2, 583</i>.`

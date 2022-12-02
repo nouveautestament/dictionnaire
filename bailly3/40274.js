@@ -1,0 +1,1 @@
+lar[40274]=`<b>ου (τὸ)</b> débris, ruine, ARSTT. <i>Rhet. 3, 11, 13</i> ; OPP. <i>H. 5, 324, d’ord. au pl</i>. ruines d’un mur, d’une maison, <i>etc</i>. HDT. <i>2, 154 ; 4, 124</i> ; EUR. <i>Bacch. 7</i> ; lambeaux d’un vêtement, SOPH. <i>fr. 400</i> ; EUR. <i>Tr. 1025</i> ; νεκρῶν ἐρ. SOPH. <i>Aj. 308</i> ; EUR. <i>fr. 268,</i> débris d’animaux morts.<p><b>Étym</b>. ἐρείπω.`

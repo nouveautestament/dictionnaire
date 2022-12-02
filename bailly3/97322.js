@@ -1,0 +1,1 @@
+lar[97322]=`<i>p. élision</i> :<br><b>      1</b> <i>pour</i> τε.<br><b>      2</b> <i>pour</i> τοι <i>devant</i> ἄν (τ' ἄν), ἄρα (τ' ἄρα) IL. <i>23, 310</i> ; OD. <i>1, 60, 347, et une fois,</i> OD. <i>3, 147, dev</i>. αἶψα ; <i>dev</i>. ἄν <i>et</i> ἄρα <i>on écrit mieux avec crase</i> τἄν, τἆρα.`

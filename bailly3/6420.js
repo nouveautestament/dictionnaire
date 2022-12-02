@@ -1,0 +1,1 @@
+lar[6420]=`<b>ἀμφι·φάω</b> (<i>prés. part</i>.) briller autour, ORACL. (SYN. <i>142d</i>).`

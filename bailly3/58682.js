@@ -1,0 +1,1 @@
+lar[58682]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ᾰῑτῐδ]</font> cotylet, <i>plante,</i> GAL. <i>4, 282</i>.`

@@ -1,0 +1,1 @@
+lar[22435]=`<b>γονίας χειμών (ὁ)</b> tempête violente, <i>ou, sel. d’autres,</i> qui naît soudainement, ESCHL. <i>Ch. 1067</i>.<p><b>Étym</b>. γόνος.`

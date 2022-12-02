@@ -1,0 +1,1 @@
+lar[12389]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font><br><b>      1</b> soin, culte, adoration, ARSTT. <i>Pol. 7, 14</i>.<br><b>      2</b> soin du corps après les exercices gymnastiques, ANTYLL. <i>106</i> ; GAL. <i>6, 39, etc</i>.<p><b>Étym</b>. ἀποθεραπεύω.`

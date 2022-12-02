@@ -1,0 +1,1 @@
+lar[22802]=`<b>γυναικό·κλωψ, ωπος (ὁ)</b> <font color="purple">[ῠ]</font> voleur de femmes, LYC. <i>771</i>.<p><b>Étym</b>. γ. κλέπτω.`

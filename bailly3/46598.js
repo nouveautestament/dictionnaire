@@ -1,0 +1,1 @@
+lar[46598]=`<i>suff. adv. marquant une idée de départ, d’éloignement, v</i>. ἄλλοθεν, οἴκοθεν ; <i>avec un pron. ou un n. de pers</i>. ἐμέθεν, σέθεν, θεόθεν ; <i>construit avec une prép.</i> : ἐξ οὐρανόθεν, IL. <i>8, 19</i> ; ἀπὸ Τροίηθεν, OD. <i>9, 38 ; qqf. réduit à</i> -θε : ἀντρόθε, πάντοθε.`

@@ -1,0 +1,1 @@
+lar[41687]=`<b>(ὁ)</b> <font color="purple">[ᾰᾱ]</font> Eubatas, <i>h</i>. EL. <i>V.H. 10, 2</i>.`

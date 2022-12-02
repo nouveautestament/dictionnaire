@@ -1,0 +1,1 @@
+lar[46748]=`<b>ος, ον</b>, fait par la divinité, ISOCR. <i>152c</i>.<p><b>Étym</b>. θεοποιέω.`

@@ -1,0 +1,1 @@
+lar[98079]=`<b>ας (ἡ)</b> nourriture, entretien <i>ou</i> éducation de ses enfants, DÉMOCR. (STOB. <i>Fl. 76, 13</i>) ; PLUT. <i>Lyc. c. Num. 3 ; en parl. d’animaux,</i> nourriture <i>ou</i> entretien des petits, ARSTT. <i>H.A. 6, 4, 5</i>.<p><b>Étym</b>. τεκνοτρόφος.`

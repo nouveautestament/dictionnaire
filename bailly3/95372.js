@@ -1,0 +1,1 @@
+lar[95372]=`<b>συν·εκμοχλεύω</b>, soulever en même temps <i>ou</i> aider à soulever avec un levier, AR. <i>Lys. 430</i>.`

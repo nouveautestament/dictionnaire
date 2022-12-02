@@ -1,0 +1,1 @@
+lar[64379]=`<font color="purple">[νᾱ]</font> <i>dor. c</i>. μερίμνημα.`

@@ -1,0 +1,1 @@
+lar[26600]=`<b>ης (ἡ)</b> <i>divinité de la chasse d’origine pré-grecque, assimilée à Artémis</i>, HDT. <i>3, 59</i> ; EUR. <i>Hipp. 146</i> ; AR. <i>Vesp. 368</i>.<p><b>Étym</b>. Δίκτη, « celle du mont Diktè », <i>mais rattaché à</i> δίκτυον <i>par étym. populaire</i>, « la Chasseresse aux filets », <i>cf</i>. AR. <i>l.c</i>.`

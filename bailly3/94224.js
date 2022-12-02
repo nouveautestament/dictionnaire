@@ -1,0 +1,1 @@
+lar[94224]=`<b>συμ·περιφράσσω</b>, enfermer dans une même enceinte, ARSTT. <i>Physiogn. 6, 16 dout</i>.`

@@ -1,0 +1,1 @@
+lar[54370]=`<b>οῦ (ὁ)</b> <font color="purple">[κᾰ]</font> <i>c</i>. καγχασμός, AR. <i>Nub. 1073</i>.<p><b>Étym</b>. καχάζω.`

@@ -1,0 +1,1 @@
+lar[58644]=`<b>ονος</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. boiteux, <i>ép. d’Hèphæstos,</i> IL. <i>18, 371</i>.<p>➳ <i>Voc</i>. κυλλοπόδιον <font color="purple">[ῑ]</font> IL. <i>21, 331</i>.<p><b>Étym</b>. κυλλόπους.`

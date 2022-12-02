@@ -1,0 +1,1 @@
+lar[21006]=`<b>βυθο·τρεφής, ής, ές</b> <font color="purple">[ῠ]</font> qui vit (<i>litt</i>. nourri) au fond de l’eau, SPT. <i>3Macc. 6, 8</i>.<p><b>Étym</b>. βυθός, τρέφω.`

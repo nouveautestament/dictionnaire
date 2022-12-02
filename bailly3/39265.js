@@ -1,0 +1,1 @@
+lar[39265]=`<b>ου (τὸ)</b> bout arrondi (du nez) GAL. <i>18, 805</i>.<p><b>Étym</b>. ἐπίσφαιρον.`

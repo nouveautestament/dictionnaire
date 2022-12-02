@@ -1,0 +1,1 @@
+lar[83208]=`<b>ων (οἱ)</b> les Præsies, <i>pple indien,</i> PLUT. <i>Alex. 62</i>.`

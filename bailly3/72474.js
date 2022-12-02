@@ -1,0 +1,1 @@
+lar[72474]=`<b>ος, ον</b>, qui concerne la vue ; τὰ ὀπώπια, HPC. les organes de la vue.<p><b>Étym</b>. ὀπωπή.`

@@ -1,0 +1,1 @@
+lar[60418]=`<b>λεπτο·λόγος, ος, ον</b>, qui disserte subtilement, épilogueur, chicaneur, AR. <i>Ran. 876</i> ; τὸ λεπτολόγον, ANTH. <i>App. 70, c</i>. λεπτολογία.<p><b>Étym</b>. λεπτός, λέγω.`

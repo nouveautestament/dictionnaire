@@ -1,0 +1,1 @@
+lar[52266]=`<b>κατ·άγχω</b>, serrer fortement, étrangler, NYSS. <i>1, 758 ; fig</i>. PLUT. <i>M. 526</i>.`

@@ -1,0 +1,1 @@
+lar[64491]=`<b>μεσ·ήπειρος, ος, ον</b>, situé au milieu des terres, continental, DP. <i>211, 1068</i>.<p><b>Étym</b>. μ. ἤ.`

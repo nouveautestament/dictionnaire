@@ -1,0 +1,1 @@
+lar[53314]=`<b>κατα·σήθω</b>, passer au crible <i>ou</i> à la chausse, tamiser <i>ou</i> filtrer, HPC. <i>651, 1</i> ; GEOP. <i>12, 17, 1</i>.`

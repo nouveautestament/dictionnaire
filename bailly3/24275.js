@@ -1,0 +1,1 @@
+lar[24275]=`<b>ή, όν</b>, qui parle au peuple, <i>particul</i>. en le flattant, PLAT. <i>Soph. 268b</i>.<p><b>Étym</b>. δημολόγος.`

@@ -1,0 +1,1 @@
+lar[37290]=`<b>ύος (ἡ)</b> <font color="purple">[ῠ]</font> affabilité, courtoisie, OD. <i>21, 306</i>.<p><b>Étym</b>. ἔπος.`

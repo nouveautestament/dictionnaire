@@ -1,0 +1,1 @@
+lar[108930]=`<b>χρεωστέω-ῶ</b>, être débiteur, <i>d’où act</i>. devoir, être redevable de, <i>acc</i>. NAZ. ; <i>au pass</i>. χρεωστοῦμαί τι, HLD. <i>5, 30,</i> on me doit qqe ch.<p><b>Étym</b>. χρεώστης.`

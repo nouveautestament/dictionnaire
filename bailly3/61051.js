@@ -1,0 +1,1 @@
+lar[61051]=`<b>λιθό·δμητος, ος, ον</b> <font color="purple">[ῐ]</font> construit en pierres, ANTH. <i>9, 570</i>.<p><b>Étym</b>. λ. δμητός.`

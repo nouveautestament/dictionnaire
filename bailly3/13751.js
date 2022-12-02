@@ -1,0 +1,1 @@
+lar[13751]=`<b>ἀπο·φορτίζομαι</b>, se décharger de, <i>acc</i>. ATH. <i>37c, etc. ; abs</i>. se soulager l’estomac <i>ou</i> le ventre, ARTÉM. <i>2, 26</i>.`

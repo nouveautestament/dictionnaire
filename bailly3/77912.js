@@ -1,0 +1,1 @@
+lar[77912]=`<b>ᾶς (ἡ)</b> belle-mère, DÉM. <i>1123, 1</i>.<p>➳ <i>Ion</i>. πενθερή, CALL. <i>Dian. 149</i>.<p><b>Étym</b>. <i>fém. de</i> πενθερός.`

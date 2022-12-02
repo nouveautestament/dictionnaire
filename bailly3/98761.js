@@ -1,0 +1,1 @@
+lar[98761]=`<b>τεττι·γόνια, ων (τὰ)</b> <font color="purple">[τῑ]</font> cigales de petite espèce, ARSTT. <i>H.A. 4, 7, 13</i>.<p><b>Étym</b>. τέττιξ, γένος.`

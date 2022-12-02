@@ -1,0 +1,1 @@
+lar[53488]=`<b>ατος (τὸ) :<br>      1</b> pont de navire, HDT. <i>8, 118, 119</i> ; THC. <i>1, 49, etc.</i> ; XÉN. <i>Hell. 1, 4, 7, etc.</i><br><b>      2</b> <i>en gén</i>. plancher inférieur, niveau <i>ou</i> plan du rez-de-chaussée, ATHÉNÉE MÉC.<p><b>Étym</b>. καταστρώννυμι.`

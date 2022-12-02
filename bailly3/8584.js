@@ -1,0 +1,1 @@
+lar[8584]=`<b>ἀν·έστιος, ος, ον</b>, sans foyer, <i>d’où</i> errant, vagabond, IL. <i>9, 63</i> ; SOPH. <i>fr. 5</i> ; AR. <i>Eq. 1266 ; joint à</i> ἄοικος, LUC. <i>Sacr. 11 ; à</i> ἄνοικος, ATH. <i>611c, etc</i>.<p><b>Étym</b>. ἀν-, ἑστία.`

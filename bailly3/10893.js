@@ -1,0 +1,1 @@
+lar[10893]=`<b>ἀξι·απόλαυστος, ος, ον</b>, digne qu’on en jouisse, STOB. <i>Ecl. 2, 118</i>.<p><b>Étym</b>. ἄ. ἀπολαύω.`

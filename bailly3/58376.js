@@ -1,0 +1,1 @@
+lar[58376]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> jeu de dés, PLAT. <i>Phædr. 274d.</i><br><b>      2</b> <i>fig</i>. risque, hasard, XÉN. <i>Mem. 1, 3, 2</i>.<p><b>Étym</b>. κύβος.`

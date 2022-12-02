@@ -1,0 +1,1 @@
+lar[21462]=`<b>ου (ὁ)</b> Gauranos, <i>satrape,</i> Ps.-PLUT. <i>Fluv. 24, 3</i>.`

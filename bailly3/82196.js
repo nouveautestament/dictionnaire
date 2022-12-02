@@ -1,0 +1,1 @@
+lar[82196]=`<b>πολύ·οπτος, ος, ον</b>, visible à tous (<i>propr</i>. à beaucoup.) POÈT. (<i>Cram. 4, 349).</i><p><b>Étym</b>. π. ὄψομαι.`

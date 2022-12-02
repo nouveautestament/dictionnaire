@@ -1,0 +1,1 @@
+lar[60690]=`<b>ου (ὁ)</b> Léôgoras, <i>père de l’orateur Andocide,</i> THC. <i>1, 51</i> ; AR. <i>Nub. 109, etc</i>.<p><b>Étym</b>. λεώς, ἀγορεύω.`

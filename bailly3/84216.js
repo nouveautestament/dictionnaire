@@ -1,0 +1,1 @@
+lar[84216]=`<b>προ·εξυφαίνω</b> <font color="purple">[ῠ]</font> composer (<i>propr</i>. tisser) auparavant, EUM. <i>p. 370</i>.`

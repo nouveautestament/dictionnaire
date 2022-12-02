@@ -1,0 +1,1 @@
+lar[78371]=`<b>περι·αλείφω</b> <font color="purple">[ᾰ]</font> oindre <i>ou</i> enduire tout autour, AR. <i>Eq. 907</i> ; τί τινι, PLAT. <i>Criti. 116d</i>, couvrir qqe ch. d’un enduit ; <i>au pass</i>. ARSTT. <i>H.A. 9, 40, 10</i>.`

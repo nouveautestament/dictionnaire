@@ -1,0 +1,1 @@
+lar[67414]=`<b>ίδος</b> <font color="purple">[ῡῐδ]</font> <i>adj. f</i>. de Mysie, mysienne, A.RH. <i>1, 1349 ; 2, 766</i> ; DP. <i>805</i>.<p><b>Étym</b>. Μυσός.`

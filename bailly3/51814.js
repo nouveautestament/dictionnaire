@@ -1,0 +1,1 @@
+lar[51814]=`<b>καρκινίας λίθος (ὁ)</b> pierre de la couleur du crabe, PLIN. <i>H.N. 37, 72</i>.<p><b>Étym</b>. καρκίνος.`

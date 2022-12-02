@@ -1,0 +1,1 @@
+lar[71687]=`<b>ὁμό·σκηνος, ος, ον</b>, compagnon de tente, compagnon, DH. <i>6, 74, etc</i>.<p><b>Étym</b>. ὁμ. σκηνή.`

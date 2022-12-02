@@ -1,0 +1,1 @@
+lar[72569]=`<b>οῦ (ὁ)</b> Ordèssos, <i>fl. de Scythie,</i> HDT. <i>4, 48</i>.`

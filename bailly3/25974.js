@@ -1,0 +1,1 @@
+lar[25974]=`<b>ας (ἡ) :<br>      1</b> javelot à double tranchant, AR. (POLL. <i>7, 157</i>) ; HDN <i>2, 13, 4</i> ; PLUT. <i>Mar. 25</i>.<br><b>      2</b> manteau double, <i>càd</i>. avec doublure, <i>ou, sel. d’autres,</i> dont on croise un pan sur l’épaule, PLUT. <i>M. 754f</i>.<p><b>Étym</b>. δίβολος.`

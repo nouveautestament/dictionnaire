@@ -1,0 +1,1 @@
+lar[104981]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> Phasis, <i>h</i>. Q. SM. <i>10, 89</i>.`

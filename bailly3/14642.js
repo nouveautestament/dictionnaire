@@ -1,0 +1,1 @@
+lar[14642]=`<b>Ἀριστ·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰᾱγ]</font> Aristagoras :<br><b>      1</b> <i>de Milet,</i> HDT. <i>5, 30, etc.</i> ; THC. <i>4, 102, etc.</i><br><b>      2</b> <i>autres,</i> PD. <i>N. 11, etc</i>.<p>➳ <i>Ion</i>. -όρης, ANTH. <i>7, 639, etc. ; gén. ion</i>. -εω, HDT. <i>5, 30 ; 9, 90</i> ; ANTH. <i>9, 568</i>.<p><b>Étym</b>. ἄριστος, ἀγορά.`

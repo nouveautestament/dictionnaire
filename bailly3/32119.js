@@ -1,0 +1,1 @@
+lar[32119]=`<b>ἐκ·τεκμαίρομαι</b> <font color="darkgreen">(<i>part. ao</i>. ἐκτεκμαρθέν)</font> <i>c</i>. τεκμαίρομαι, ORACL. (EUS. <i>P.E. 5, 23</i>).`

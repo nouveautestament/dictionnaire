@@ -1,0 +1,1 @@
+lar[75016]=`<b>παν·εύφημος, ος, ον</b> <font color="purple">[ᾰ]</font> digne de toute εὐφημία, NAZ. <i>3, 511 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[11154]=`<b>ἀπ·ακοντίζω</b> <font color="purple">[ᾰκ]</font> lancer un trait, lancer, ARSTT. <i>H.A. 2, 1, 53</i> ; NONN. <i>D. 40, 414</i>.`

@@ -1,0 +1,1 @@
+lar[97625]=`<b>ατος (τὸ)</b> <font color="purple">[τᾰ]</font> trouble, EUR. <i>H.f. 907, 1091</i> ; DH. <i>8, 52</i>.<p><b>Étym</b>. ταράσσω.`

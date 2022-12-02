@@ -1,0 +1,1 @@
+lar[50553]=`<b>καινοπαθέω-ῶ</b> <font color="purple">[ᾰ]</font> éprouver une souffrance <i>ou</i> une affection nouvelle, <i>càd</i>. inconnue, PLUT. <i>M. 1106a</i>.<p><b>Étym</b>. καινοπαθής.`

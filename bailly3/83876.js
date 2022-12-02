@@ -1,0 +1,1 @@
+lar[83876]=`<b>ατος (τὸ)</b> exercice préparatoire, ATH. <i>631a ; particul. t. de rhét</i>. exercice d’éloquence, ARSTT. <i>Rhet. Al. 29, 4</i>.<p><b>Étym</b>. προγυμνάζω.`

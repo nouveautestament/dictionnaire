@@ -1,0 +1,1 @@
+lar[77828]=`<b>ας (ἡ)</b> Pélopeia :<br><b>      1</b> <i>fille de Pélias,</i> A.RH. <i>1, 326, etc.</i><br><b>      2</b> <i>fille de Thyeste,</i> LUC. <i>Salt. 43</i>.<p><b>Étym</b>. <i>fém. de</i> Πελόπειος.`

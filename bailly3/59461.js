@@ -1,0 +1,1 @@
+lar[59461]=`<b>ῶν (οἱ)</b> les Lazes, <i>pple de Colchide,</i> LUC. <i>Tox. 44</i>.`

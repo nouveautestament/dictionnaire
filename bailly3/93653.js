@@ -1,0 +1,1 @@
+lar[93653]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec impétuosité, ESCHL. <i>Pers. 480</i>.<p><b>Étym</b>. σεύω, -δην.`

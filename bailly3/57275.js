@@ -1,0 +1,1 @@
+lar[57275]=`<b>κοσμο·θέτης, ου (ὁ)</b> qui ordonne et gouverne le monde, NAZ. <i>2, 161c</i>.<p><b>Étym</b>. κόσμος, τίθημι.`

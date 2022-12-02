@@ -1,0 +1,1 @@
+lar[101372]=`<font color="purple">[ῠ]</font> <i>adv</i>., sainement, en bon état de santé.<p>•<i> Cp</i>. -οτέρως, XÉN. <i>Lac. 2, 5 ; ou</i> -ότερον, XÉN. <i>Mem. 3, 13, 2 ; • Sup</i>. -ότατα, XÉN. <i>Mem. 4, 7, 9</i>.`

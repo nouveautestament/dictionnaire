@@ -1,0 +1,1 @@
+lar[105705]=`<b>φιλό·βοτρυς, υς, υ</b>, <i>gén</i>. <b>υος</b> <font color="purple">[ῐ]</font> qui aime le raisin (<i>litt</i>. les grappes de raisin) PLUT. <i>M. 668a ;</i> PHANOCR. (ATH. <i>276f</i>) ; NONN. <i>D. 12, 108</i>.<p><b>Étym</b>. φ. βότρυς.`

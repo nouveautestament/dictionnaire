@@ -1,0 +1,1 @@
+lar[103274]=`<b>ὑπο·θραύω</b>, blesser (<i>litt</i>. casser) légèrement, SPT. <i>2Macc. 9, 11</i>.`

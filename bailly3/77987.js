@@ -1,0 +1,1 @@
+lar[77987]=`<b>πεντα·κόλουρος, ος, ον</b> <font color="purple">[ᾰ]</font> tronqué de cinq côtés, NICOM. <i>Arithm. 127</i>.`

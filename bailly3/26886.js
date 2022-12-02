@@ -1,0 +1,1 @@
+lar[26886]=`<i>att. réc</i>. <b>Διοσκούρειον, ου (τὸ)</b> le temple des Dioscures, THC. <i>4, 110</i> ; DÉM. <i>390, 26</i>.<p>➳ Διοσκούρειον, THC. <i>l. c. etc.</i> ; PLUT. <i>Syll. 33</i> ; DC. <i>etc. ; cf</i>. Διόσκοροι <i>fin</i>.`

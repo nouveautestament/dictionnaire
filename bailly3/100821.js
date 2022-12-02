@@ -1,0 +1,1 @@
+lar[100821]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> <i>c</i>. τρυγῳδικός, AR. <i>Ach. 628</i>.`

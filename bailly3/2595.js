@@ -1,0 +1,1 @@
+lar[2595]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> flux de sang, hémorrhagie, HPC. <i>Aph. 1259</i>.`

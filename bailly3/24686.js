@@ -1,0 +1,1 @@
+lar[24686]=`<b>α, ον</b>, qu’il faut <i>ou</i> qu’on peut diviser, PLAT. <i>Rsp. 412b ; au neutre</i> διαιρετέον, il faut diviser, PLAT. <i>Leg. 874e ;</i> ARSTT. <i>Pol. 8, 7, 1</i>.<p><b>Étym</b>. <i>vb. de</i> διαιρέω.`

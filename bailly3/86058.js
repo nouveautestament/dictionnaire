@@ -1,0 +1,1 @@
+lar[86058]=`<b>προσ·κοσμέω-ῶ</b>, orner en outre <i>ou</i> encore plus, PLUT. <i>M. 316d ;</i> JOS. <i>B.J. 5, 13, 6, etc. ; au pass</i>. s’adjoindre à, <i>dat</i>. ARSTT. <i>Ath. 13, 5</i>.`

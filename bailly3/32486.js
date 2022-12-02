@@ -1,0 +1,1 @@
+lar[32486]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’arroser d’huile, SOR. <i>Obst. p. 287 Erm</i>.<p><b>Étym</b>. ἐλαιοχυτέω.`

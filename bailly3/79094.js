@@ -1,0 +1,1 @@
+lar[79094]=`<b>περι·πιαίνω</b> <font color="purple">[πῑ]</font> rendre très gras, DP. <i>1071</i>.`

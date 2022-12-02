@@ -1,0 +1,1 @@
+lar[58132]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>v</i>. κρουματικός.`

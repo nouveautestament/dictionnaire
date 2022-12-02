@@ -1,0 +1,1 @@
+lar[14686]=`<b>ιος (ὁ)</b> <font color="purple">[ᾰ]</font> Aristis, <i>h</i>. THCR. <i>Idyl. 7, 99</i>.<p><b>Étym</b>. ἄριστος.`

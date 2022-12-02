@@ -1,0 +1,1 @@
+lar[72927]=`<b>ας (ἡ)</b> <font color="purple">[ῑθ]</font> génération des oiseaux, A. LIB. <i>3</i>.<p><b>Étym</b>. ὀρνιθόγονος.`

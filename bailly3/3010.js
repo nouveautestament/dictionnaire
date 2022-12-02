@@ -1,0 +1,1 @@
+lar[3010]=`<i>adv</i>., promptement, aussitôt, IL. <i>3, 145, etc.</i> ; OD. <i>1, 392, etc.</i> ; ESCHL. <i>Suppl. 481</i> ; αἶ. μάλα, IL. <i>4, 70, etc</i>. tout aussitôt.<p>➳ <i>Inus. en prose</i>.<p><b>Étym</b>. <i>pré-grec, cf</i>. αἴφνης.`

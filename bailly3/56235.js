@@ -1,0 +1,1 @@
+lar[56235]=`<b>α, ον :<br>      1</b> obscur, sombre, ESCHL. <i>Pr. 1029</i> ; EUR. <i>Alc. 595</i>.<br><b>      2</b> qui agit dans l’obscurité, à la nuit tombante, HIPPON. <i>fr. 63, ou</i> avant le jour, AR. <i>Vesp. 124, etc</i>.<p>➳ <i>Fém</i>. -ος, AR. <i>Ran. 1350</i>.<p><b>Étym</b>. κνέφας.`

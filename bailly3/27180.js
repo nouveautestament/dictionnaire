@@ -1,0 +1,1 @@
+lar[27180]=`<font color="purple">[ῐ]</font> avoir le pied fourchu, SPT. <i>Lev. 26</i> ; PHIL. <i>1, 320</i> ; CLÉM. <i>109, 32, etc</i>.<p><b>Étym</b>. δίχηλος.`

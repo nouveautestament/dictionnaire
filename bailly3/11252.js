@@ -1,0 +1,1 @@
+lar[11252]=`<b>εως (ἡ)</b> chute des fleurs, TH. <i>C.P. 5, 9, 13</i>.<p><b>Étym</b>. ἀπανθέω.`

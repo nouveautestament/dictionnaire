@@ -1,0 +1,1 @@
+lar[33930]=`<b>ἐν·απογεννάω-ῶ</b> (<i>seul. moy</i>.) faire naître dans, <i>dat</i>. PLUT. <i>M. 767d</i>.`

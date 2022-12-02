@@ -1,0 +1,1 @@
+lar[6245]=`<b>Ἀμφί·λοχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Amphilokhos, <i>devin,</i> OD. <i>15, 248</i> ; HDT. <i>3, 91, etc.</i> ; THC. <i>2, 68</i>.<p><b>Étym</b>. ἀ. λόχος.`

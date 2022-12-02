@@ -1,0 +1,1 @@
+lar[31280]=`<b>ἐκ·θάλλω</b>, faire germer, faire pousser, <i>acc</i>. SPT. <i>Hab. 3, 17</i>.`

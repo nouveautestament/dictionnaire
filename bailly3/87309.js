@@ -1,0 +1,1 @@
+lar[87309]=`<b>(ἡ)</b> <i>seul. nom</i>. PHÆNIAS (ATH. <i>61b</i>) ; <i>acc</i>. πτέριν, THCR. <i>Idyl. 3, 14, et nom. pl</i>. πτέρεις. POL. <i>3, 71, 4,</i> sorte de fougère (<i>Apsidium felix</i> L.).<p><b>Étym</b>. πτερόν.`

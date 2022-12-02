@@ -1,0 +1,1 @@
+lar[67627]=`<b>ναο·πόλος, ου (ὁ) :<br>      1</b> qui réside dans un temple, PD. <i>fr. 70, 5</i>.<br><b>      2</b> conservateur <i>ou</i> inspecteur d’un temple, HÉS. <i>Th. 991 (ion</i>. νηο-).<p><b>Étym</b>. ναός, πολέω.`

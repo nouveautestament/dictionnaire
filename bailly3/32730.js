@@ -1,0 +1,1 @@
+lar[32730]=`<font color="purple">[ῑᾰ]</font> <i>adv</i>., à Éleusis, <i>avec mouv</i>. XÉN. <i>Hell. 2, 4, 24</i> ; LYS. <i>125, 6, etc</i>.<p><b>Étym</b>. Ἐλευσίς, -δε.`

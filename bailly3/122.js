@@ -1,0 +1,1 @@
+lar[122]=`<b>ατος (τὸ)</b> méprise, erreur (<i>cf. franç</i>. bévue) POL. <i>fr. 1</i>.<p><b>Étym</b>. ἀβλεπτέω.`

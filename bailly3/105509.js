@@ -1,0 +1,1 @@
+lar[105509]=`<b>ου (ὁ)</b> Philaros, <i>fl. de Béotie,</i> PLUT. <i>Lys. 29</i>.`

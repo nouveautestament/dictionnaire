@@ -1,0 +1,1 @@
+lar[78648]=`<b>ος, ον</b> <font color="purple">[σῐ]</font> qu’on peut placer autour, JOS. <i>A.J. 15, 8, 2</i>.<p><b>Étym</b>. περιτίθημι.`

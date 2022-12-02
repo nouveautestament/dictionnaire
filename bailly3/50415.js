@@ -1,0 +1,1 @@
+lar[50415]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> καθιερόω, PLAT. <i>Leg. 809b</i>.`

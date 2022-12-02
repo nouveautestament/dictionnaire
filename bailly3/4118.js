@@ -1,0 +1,1 @@
+lar[4118]=`<b>Ἀλβανὶς λίμνη (ἡ)</b> le lac du mt Albain (<i>auj</i>. Lago Albano) PLUT. <i>Cam. 3</i>.<p><b>Étym</b>. Ἀλβανός.`

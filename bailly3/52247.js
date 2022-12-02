@@ -1,0 +1,1 @@
+lar[52247]=`<b>κατα·γοητεύω :<br>      1</b> tromper par des moyens de charlatan, ensorceler, XÉN. <i>Cyr. 8, 1, 40 ; An. 5, 7, 9</i> ; PLUT. <i>M. 986e, etc.</i><br><b>      2</b> falsifier, altérer, EL. <i>N.A. 4, 40</i>.`

@@ -1,0 +1,1 @@
+lar[83995]=`<b>προ·δοκή, ῆς (ἡ)</b> endroit pour épier, embuscade, IL. <i>4, 107</i>.<p><b>Étym</b>. π. δέχομαι.`

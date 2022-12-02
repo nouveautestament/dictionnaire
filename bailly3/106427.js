@@ -1,0 +1,1 @@
+lar[106427]=`<b>φλοιο·ρραγής, ής, ές</b> <font color="purple">[ᾰ]</font> dont l’écorce est fendue <i>ou</i> gercée, TH. <i>H.P. 4, 14, 2 ; C.P. 3, 18, 3</i>.<p><b>Étym</b>. φ. ῥήγνυμι.`

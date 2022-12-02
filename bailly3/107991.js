@@ -1,0 +1,1 @@
+lar[107991]=`<b>Χάρ·οψ, οπος (ὁ)</b> <font color="purple">[ᾰ]</font> Kharops, <i>h</i>. IL. <i>11, 426</i> ; LUC. <i>D. mort. 25, 1, etc</i>.<p><b>Étym</b>. <i>v</i>. χάροψ.`

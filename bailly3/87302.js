@@ -1,0 +1,1 @@
+lar[87302]=`<b>οῦ (τὸ)</b> Ptéléon :<br><b>      1</b> <i>lieu de Triphylie (auj</i>. Pteléa), THC. <i>5, 18</i>.<br><b>      2</b> <i>château fort d’Ionie,</i> THC. <i>8, 24 et 31</i>.<br><b>      3</b> <i>lieu de Kardia, en Thrace,</i> DÉM. <i>7, 39 et 40 Baiter-Sauppe</i>.<p><b>Étym</b>. πτελέα.`

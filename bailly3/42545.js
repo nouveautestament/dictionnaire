@@ -1,0 +1,1 @@
+lar[42545]=`<b>εὔ·κτιτος, ος, ον</b> <font color="purple">[ῐ]</font> bien bâti, IL. <i>2, 592</i> ; HH. <i>Ap. 423</i> ; SAPPH. (ATH. <i>599c</i>) ; DP. <i>552</i>.<p>➳ <i>Épq</i>. ἐΰκτιτος, IL. HH. <i>ll. cc</i>.<p><b>Étym</b>. εὖ, *κτίω, <i>v</i>. κτίζω.`

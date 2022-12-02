@@ -1,0 +1,1 @@
+lar[3274]=`<b>ἀ·κέραυνος, ος, ον</b>, épargné par la foudre, ESCHL. <i>fr. 17</i>.<p><b>Étym</b>. ἀ, κεραυνός.`

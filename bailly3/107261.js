@@ -1,0 +1,1 @@
+lar[107261]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> physiognomonie, art de juger qqn d’après son air, sa physionomie, ARSTT. <i>Physiogn. 2, 2</i>.<p>➳ <i>Ion</i>. φυσιογνωμονίη, HPC.<p><b>Étym</b>. φυσιογνώμων.`

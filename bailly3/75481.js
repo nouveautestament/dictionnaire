@@ -1,0 +1,1 @@
+lar[75481]=`<b>παρα·γωνίσκος, ου (ὁ)</b> <font color="purple">[ᾰγ]</font> équerre de charpentier, SPT.<p><b>Étym</b>. π. γωνία.`

@@ -1,0 +1,1 @@
+lar[93314]=`<b>συγ·κατακλείω</b>, enfermer ensemble <i>ou</i> avec : ἄνδρας λέουσι, LUC. <i>D. mort. 14, 4,</i> des hommes avec des lions ; <i>fig</i>. τινὰ ἀπορίᾳ, LUC. <i>V. auct. 9,</i> réduire qqn à la misère ; <i>au pass</i>. ARSTT. <i>H.A. 5, 32, 1</i>.<p>➳ <i>Ion</i>. συγκατακληΐω, HDT. <i>1, 182</i>.`

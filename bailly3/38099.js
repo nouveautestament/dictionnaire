@@ -1,0 +1,1 @@
+lar[38099]=`<b>ἐπι·κοιτέω-ῶ</b>, passer la nuit sur, ἐπί <i>et le gén</i>. POL. <i>22, 10, 6</i>.<p><b>Étym</b>. ἐπί, κοίτη.`

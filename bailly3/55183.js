@@ -1,0 +1,1 @@
+lar[55183]=`<b>ου (τὸ)</b> moyen pour charmer, charme magique, sortilège, SOPH. <i>Tr. 575</i>.<p><b>Étym</b>. <i>neutre de</i> κηλητήριος.`

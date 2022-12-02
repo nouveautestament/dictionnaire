@@ -1,0 +1,1 @@
+lar[2830]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Æsakos, <i>Centaure,</i> NONN. <i>D. 14, 190</i>.`

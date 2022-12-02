@@ -1,0 +1,1 @@
+lar[99879]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> confection d’une tragédie <i>ou</i> de tragédies, SEXT. <i>Disput. antiscept. p. 626</i>.<p><b>Étym</b>. τραγῳδοποιός.`

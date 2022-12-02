@@ -1,0 +1,1 @@
+lar[96850]=`<b>σφενδονο·ειδής, ής, ές</b>, semblable à une fronde, AGATHÉM. <i>t. 1, p. 2 Huds</i>.<p><b>Étym</b>. σφενδόνη, εἶδος.`

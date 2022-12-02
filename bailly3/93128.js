@@ -1,0 +1,1 @@
+lar[93128]=`<b>στυφο·κόπος, ος, ον</b> <font color="purple">[ῠ]</font> qui frappe avec un bâton, <i>ou</i> <b>στυφόκοπος</b>, frappé de coups de bâton, AR. <i>Av. 1299</i>.<p><b>Étym</b>. στύπος, κόπτω.`

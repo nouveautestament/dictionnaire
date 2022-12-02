@@ -1,0 +1,1 @@
+lar[14129]=`<b>ἀραι·όφθαλμος, ος, ον</b> <font color="purple">[ᾰρ]</font> aux bourgeons rares, GEOP. <i>5, 8, 2</i>.<p><b>Étym</b>. ἀ. ὀφθαλμός.`

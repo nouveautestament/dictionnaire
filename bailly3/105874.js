@@ -1,0 +1,1 @@
+lar[105874]=`<b>φιλο·κυδής, ής, ές</b> <font color="purple">[ῐῡ]</font> qui aime la gloire <i>ou</i> le bruit, HH. <i>Merc. 375, 481</i>.<p><b>Étym</b>. φ. κῦδος.`

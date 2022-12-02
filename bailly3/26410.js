@@ -1,0 +1,1 @@
+lar[26410]=`<b>ου (ὁ)</b> Dithyrambos, <i>h</i>. HDT. <i>7, 227</i>.`

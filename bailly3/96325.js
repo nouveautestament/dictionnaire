@@ -1,0 +1,1 @@
+lar[96325]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> artisan <i>ou</i> artiste collègue d’un autre, NT. <i>Ap. 19, 25 var</i>.<p><b>Étym</b>. σύντεχνος.`

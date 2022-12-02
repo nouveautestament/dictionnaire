@@ -1,0 +1,1 @@
+lar[72036]=`<b>ιδος (ἡ)</b> sorte de plante légumineuse odorante, TH. <i>H.P. 6, 13</i>.<p>➳ <i>Acc</i>. -ιν, POÈT. (PLUT. <i>M. 44e</i>).`

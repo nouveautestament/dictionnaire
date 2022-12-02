@@ -1,0 +1,1 @@
+lar[73909]=`<font color="darkgreen">(<i>ao</i>. ὤχευσα, <i>pf. pass</i>. ὤχευμαι)</font> couvrir, saillir, <i>en parl. d’animaux,</i> HDT. <i>3, 85</i> ; PLAT. <i>Rsp. 454d, etc. ; d’oiseaux,</i> HDT. <i>2, 64 ; de poissons,</i> ATH. <i>353e ; au pass. en parl. de la femelle,</i> être saillie, ARSTT. <i>H.A. 6, 22, etc</i>.<p><b>Étym</b>. ὀχέω <i>ou</i> ἔχω, ὀχεύς.`

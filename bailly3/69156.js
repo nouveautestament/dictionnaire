@@ -1,0 +1,1 @@
+lar[69156]=`<b>Νυκτι·πόρος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Nyktiporos, <i>fl. imaginaire,</i> LUC. <i>V.H. 2, 33</i>.<p><b>Étym</b>. <i>v</i>. νυκτιπόρος.`

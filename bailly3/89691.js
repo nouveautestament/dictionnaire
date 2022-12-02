@@ -1,0 +1,1 @@
+lar[89691]=`<b>ου (τὸ)</b> sistre, <i>sorte de crécelle dont on se servait aux fêtes d’Isis, en Égypte,</i> PLUT. <i>M. 376c ;</i> PHILSTR. <i>769</i> ; AQU. <i>2Reg. 6, 5</i>.`

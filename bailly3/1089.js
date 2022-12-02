@@ -1,0 +1,1 @@
+lar[1089]=`<b>ἀγχί·φυτος, ος, ον</b> <font color="purple">[ῐῠ]</font> planté auprès, NONN. <i>D. 3, 152, etc</i>.<p><b>Étym</b>. ἄ. φύω.`

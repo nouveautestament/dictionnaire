@@ -1,0 +1,1 @@
+lar[48835]=`<b>ἰκριόω-ῶ</b>, construire en échafaudage, échafauder, DC. <i>43, 22 ; 59, 7</i>.<p><b>Étym</b>. ἴκριον.`

@@ -1,0 +1,1 @@
+lar[27186]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f., c</i>. διχθάδιος MUS. <i>298</i>.<p><b>Étym</b>. διχθά.`

@@ -1,0 +1,1 @@
+lar[39434]=`<b>ου (ὁ)</b> <font color="purple">[τῑ]</font> Épitimidès, <i>h</i>. EL. <i>V.H. 4, 7</i>.<p><b>Étym</b>. <i>patr. de</i> Ἐπίτιμος.`

@@ -1,0 +1,1 @@
+lar[59457]=`<b>ου (ὁ) :<br>      1</b> <i>sorte de</i> fourmi, EL. <i>N.A. 10, 42</i>.<br><b>      2</b> <i>sorte de</i> guêpe, TÉLÈPHE (EL. <i>N.A. 10, 42</i>).`

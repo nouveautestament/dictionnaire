@@ -1,0 +1,1 @@
+lar[57799]=`<b>ου (ὁ)</b> le fils de Krèthée, <i>càd</i>. Talaos, ANTIM. (PAUS. <i>8, 25, 9).</i><p><b>Étym</b>. Κρηθεύς.`

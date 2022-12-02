@@ -1,0 +1,1 @@
+lar[43078]=`<b>ας (ἡ)</b> facilité à se procurer, PORPH. <i>Abst. 1, 51</i>.<p><b>Étym</b>. εὐπόριστος.`

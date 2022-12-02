@@ -1,0 +1,1 @@
+lar[37963]=`<b>ἐπι·κάτειμι</b> (<i>seul. part. prés</i>. -κατίων) descendre, <i>avec</i> εἰς <i>et l’acc</i>. THC. <i>2, 49</i>.`

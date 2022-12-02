@@ -1,0 +1,1 @@
+lar[71248]=`<b>ὀλο·φώϊος, ος, ον</b>, funeste, malfaisant, OD. <i>4, 410, 460 ; 10, 289 ; 17, 248, etc. (seul. au pl. neutre</i>) ; THCR. <i>Idyl. 25, 185</i>.<p><b>Étym</b>. ὀλοός, φώς.`

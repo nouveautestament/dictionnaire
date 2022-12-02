@@ -1,0 +1,1 @@
+lar[16710]=`<b>ἄ·ταφος, ος, ον</b> <font color="purple">[τᾰ]</font> privé de sépulture, HDT. <i>9, 27</i> ; SOPH. <i>Ant. 29 ; O.C. 1732</i> ; THC. XÉN. <i>etc.</i> ; ἄταφον ποιεῖν τινα, LYS. déclarer qqn privé de sépulture ; ἄταφοι πράξεις, PLAT. <i>Leg. 960b</i>, refus de sépulture.<p><b>Étym</b>. ἀ, θάπτω.`

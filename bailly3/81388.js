@@ -1,0 +1,1 @@
+lar[81388]=`<b>ποικιλο·γράφος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui écrit <i>oua</i> écrit sur des sujets variés, OD. <i>5, 8</i>.<p><b>Étym</b>. π. γράφω.`

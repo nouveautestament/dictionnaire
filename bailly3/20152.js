@@ -1,0 +1,1 @@
+lar[20152]=`<b>βολο·τυπής, ής, ές</b> <font color="purple">[ῠ]</font> frappé d’un coup de soleil, ANTH. <i>App. 394, 7</i>.<p><b>Étym</b>. βολή, τύπτω.`

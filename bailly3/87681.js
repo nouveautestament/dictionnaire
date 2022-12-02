@@ -1,0 +1,1 @@
+lar[87681]=`<b>ιδος</b> <font color="purple">[ῠᾱῐδ]</font> <i>adj. f. c</i>. Πύλαιος, SOPH. <i>Tr. 639</i>.`

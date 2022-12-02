@@ -1,0 +1,1 @@
+lar[10719]=`<b>ἄν·υλος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> sans bois, TH. <i>C.P. 1, 5, 2</i>.<br><b>      2</b> <i>p. ext</i>. sans matière, immatériel, BAS. <i>173c</i>.<p><b>Étym</b>. ἀν-, ὕλη.`

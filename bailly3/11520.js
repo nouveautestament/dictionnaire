@@ -1,0 +1,1 @@
+lar[11520]=`<b>ἀ·πειθαρχία, ας (ἡ)</b> insubordination, ANT. <i>(Bkk. 78</i>) ; DC. <i>Exc. 23, 80</i>.`

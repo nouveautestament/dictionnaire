@@ -1,0 +1,1 @@
+lar[73992]=`<b>ὀψιανθέω-ῶ</b>, fleurir tardivement, TH. <i>H.P. 6, 2, 6</i>.<p><b>Étym</b>. ὀψιανθής.`

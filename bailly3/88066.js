@@ -1,0 +1,1 @@
+lar[88066]=`<i>adv. interr</i>. comment ? SOPHR. <i>(Bkk. p. 604, 1).</i><p><b>Étym</b>. *πός, <i>d’où</i> ποῦ, ποῖ, <i>etc</i>.`

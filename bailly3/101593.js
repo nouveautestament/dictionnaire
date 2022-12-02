@@ -1,0 +1,1 @@
+lar[101593]=`<b>ας (ἡ)</b> hydrophobie (<i>litt</i>. crainte de l’eau) CELS. <i>5, 27</i>.<p><b>Étym</b>. ὑδροφόβος.`

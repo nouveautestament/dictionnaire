@@ -1,0 +1,1 @@
+lar[81815]=`<b>*πολυ·γύναιξ</b>, <i>seul. nom. pl</i>. <b>πολυγύναικες</b> <font color="purple">[ῠῠ]</font> <i>adj. m. c</i>. πολυγύναιος STR. <i>835</i>.`

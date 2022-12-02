@@ -1,0 +1,1 @@
+lar[21464]=`<b>έως (ὁ)</b> vent de l’î. Gauris (Γαυρίς), <i>càd. vent du nord pour les habitants de la Pamphylie,</i> ARSTT. <i>Vent. 973, 6</i>.`

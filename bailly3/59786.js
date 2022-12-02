@@ -1,0 +1,1 @@
+lar[59786]=`<b>Λαο·βίη, ης (ἡ)</b> <font color="purple">[ᾱ]</font> Laobiè, <i>f</i>. NONN. <i>D. 26, 264, 285</i>.<p><b>Étym</b>. λαός, βία.`

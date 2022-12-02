@@ -1,0 +1,1 @@
+lar[94508]=`<b>συμ·ψελλίζω</b>, balbutier avec <i>ou</i> ensemble, ARR. <i>Epict. 1, 24, 18</i>.`

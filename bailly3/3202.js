@@ -1,0 +1,1 @@
+lar[3202]=`<b>ἀ·κατάπληκτος, ος, ον</b>, qui ne se trouble pas, impassible, DH. <i>1, 81</i> ; DS. <i>14, 112, etc</i>.<p><b>Étym</b>. ἀ, καταπλήσσω.`

@@ -1,0 +1,1 @@
+lar[19833]=`<i>vb. de</i> βιόω, PLAT. <i>Gorg. 500d</i>.`

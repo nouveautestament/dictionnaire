@@ -1,0 +1,1 @@
+lar[74593]=`<b>παλιν·στομέω-ῶ</b> <font color="purple">[ᾰ]</font> parler de nouveau, ESCHL. <i>Sept. 258</i>.<p><b>Étym</b>. π. στόμα.`

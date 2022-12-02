@@ -1,0 +1,1 @@
+lar[29331]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de mariage, PROCL. <i>H. Ven. 10</i>.<p><b>Étym</b>. ἔγγαμος.`

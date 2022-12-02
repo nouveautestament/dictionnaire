@@ -1,0 +1,1 @@
+lar[53539]=`<b>κατα·ταχέω-ῶ</b> <font color="purple">[ᾰχ]</font> gagner de vitesse : τινα, POL. <i>1, 46, 7,</i> qqn ; τινα ἔν τινι, POL. <i>8, 5, 2,</i> qqn en qqe ch. ; <i>avec un part</i>. devancer, prévenir qqn en faisant qqe ch. ; <i>au pass</i>. DS. <i>14, 72</i>.<p><b>Étym</b>. κ. τάχος.`

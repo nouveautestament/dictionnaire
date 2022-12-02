@@ -1,0 +1,1 @@
+lar[31560]=`<b>ἐκ·λαχανίζομαι</b> (<i>3 sbj. ao</i>. -ίσωνται) <font color="purple">[ᾰᾰ]</font> cueillir des légumes, TH. <i>H.P. 7, 11, 3</i>.<p><b>Étym</b>. ἐκ, λάχανον.`

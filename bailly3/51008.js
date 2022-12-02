@@ -1,0 +1,1 @@
+lar[51008]=`<b>ας (ἡ)</b> <i>ou</i> <b>κάλανδρος, ου (ὁ)</b> <font color="purple">[κᾰ]</font> calandre, <i>sorte d’alouette,</i> OPP. <i>Ix. 3, 15</i>.`

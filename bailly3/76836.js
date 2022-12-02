@@ -1,0 +1,1 @@
+lar[76836]=`<b>παρ·ηβάω-ῶ</b> (<i>pf</i>. παρήβηκα) n’être plus dans la force de l’âge, avoir perdu de sa force, HDT. <i>3, 53</i> ; ESCHL. <i>Ag. 985</i> ; THC. <i>2, 44 ; fig. en parl. du vin,</i> LUC. <i>Lex. 13 ; ou des passions,</i> PHIL. <i>1, 604</i>.`

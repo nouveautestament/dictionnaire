@@ -1,0 +1,1 @@
+lar[6392]=`<b>ἀμφι·τέμνω</b> <font color="darkgreen">(<i>ao. part</i>. -τεμών)</font> couper autour, ANTH. <i>5, 228</i>.`

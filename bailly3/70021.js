@@ -1,0 +1,1 @@
+lar[70021]=`<b>ὀβριμό·θυμος, ος, ον</b> <font color="purple">[ῐῡ]</font> au cœur robuste <i>ou</i> hardi, HH. <i>7, 2</i> ; HÉS. <i>Th. 140</i>.<p><b>Étym</b>. ὄβριμος, θυμός.`

@@ -1,0 +1,1 @@
+lar[108033]=`<b>ητος (ἡ) :<br>      1</b> défaut de consistance, XÉN. <i>Œc. 19, 11</i> ; PLUT. <i>Pyrrh. 28, M. 99b, 649c.</i><br><b>      2</b> <i>fig</i>. vanité, vain orgueil, PLAT. <i>Theæt. 175b ; p. opp. à</i> μεγαλοψυχία, ARSTT. <i>Nic. 2, 7, 7</i> ; PLUT. <i>Alc. 6</i>.<p><b>Étym</b>. χαῦνος.`

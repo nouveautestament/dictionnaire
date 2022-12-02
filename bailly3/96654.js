@@ -1,0 +1,1 @@
+lar[96654]=`<b>συσ·σωματοποιέω-ῶ</b> <font color="purple">[ᾰ]</font> réunir en un corps, ARSTT. <i>Mund. 4, 32</i>.`

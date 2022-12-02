@@ -1,0 +1,1 @@
+lar[81675]=`<b>πολυ·άγκιστρος, ος, ον</b>, à plusieurs hameçons, OPP. <i>H. 3, 78</i> ; τὸ πολυάγκιστρον, ARSTT. <i>H.A. 4, 7, 14 ; 9, 37, 9,</i> ligne à plusieurs hameçons, palangrotte.<p><b>Étym</b>. π. ἄγκιστρον.`

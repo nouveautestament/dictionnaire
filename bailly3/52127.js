@@ -1,0 +1,1 @@
+lar[52127]=`<b>οῦ (ὁ)</b> la cataracte (d’Éléphantine) ESCHL. <i>Pr. 811, etc</i>.`

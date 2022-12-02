@@ -1,0 +1,1 @@
+lar[87950]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> blé, froment, IL. <i>8, 188, etc.</i> ; OD. <i>20, 109 ; au plur</i>. HDT. <i>2, 36, etc.</i> ; THC. <i>6, 22</i> ; AR. <i>Vesp. 1405, etc. ; joint à</i> ζειαί <i>et à</i> κρῖ, OD. <i>4, 604 ; à</i> κριθαί, OD. <i>9, 110</i>.<br><b>      2</b> grain de blé, ARSTT. <i>G.A. 1, 20, 16</i>.`

@@ -1,0 +1,1 @@
+lar[107530]=`<b>ου (τὸ)</b> <font color="purple">[χᾰμᾰ]</font> <i>dim. de</i> χάλασμα HÉRON (MATH. <i>251</i>).`

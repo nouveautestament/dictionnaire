@@ -1,0 +1,1 @@
+lar[66046]=`<b>μισό·νυμφος, ος, ον</b> <font color="purple">[ῑ]</font> ennemi du mariage, LYC. <i>356</i>.<p><b>Étym</b>. μ. νύμφη.`

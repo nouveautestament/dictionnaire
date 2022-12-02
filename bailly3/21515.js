@@ -1,0 +1,1 @@
+lar[21515]=`<i>adv. c</i>. γαίηθεν, ORACL. (EUS. <i>P.E. 5, 9) conj</i>.<p><b>Étym</b>. γέη, -θεν.`

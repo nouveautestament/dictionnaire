@@ -1,0 +1,1 @@
+lar[27227]=`<b>διχο·φυΐα, ας (ἡ)</b> <font color="purple">[δῐ]</font> maladie des poils <i>ou</i> des cheveux qui se fendent en deux à leur extrémité, GAL. <i>2, 267 ; 19, 430</i>.<p><b>Étym</b>. δίχα, φύω, <i>cf</i>. διφυΐα.`

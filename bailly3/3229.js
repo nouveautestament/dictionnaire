@@ -1,0 +1,1 @@
+lar[3229]=`<b>ἀ·κατάτριπτος, ος, ον</b>, qui ne peut s’user, inépuisable, POL. <i>3, 89, 9</i>.<p><b>Étym</b>. ἀ, κατατρίβω.`

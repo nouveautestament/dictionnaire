@@ -1,0 +1,1 @@
+lar[97731]=`<b>ταρταρόω-ῶ</b> <font color="purple">[ᾰρο]</font> plonger dans les abîmes (<i>litt</i>. dans le Tartare) NT. <i>2Petr. 2, 4</i>.<p><b>Étym</b>. Τάρταρος.`

@@ -1,0 +1,1 @@
+lar[65447]=`<b>οῦ (ὁ)</b> colère, ressentiment, IL. <i>16, 62, 202, 282</i>.<p><b>Étym</b>. μηνίω.`

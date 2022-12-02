@@ -1,0 +1,1 @@
+lar[110393]=`<b>ὡρακιάω-ῶ</b> <font color="purple">[ρᾱ]</font> tomber en défaillance, AR. <i>Ran. 481</i> ; LIB. <i>4, 143, 209</i> ; THÉM. <i>314b ;</i> ὡρ. τὸ βλέμμα, ARISTÉN. <i>1, 10,</i> devenir pâle, blêmir.`

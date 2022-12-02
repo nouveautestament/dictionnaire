@@ -1,0 +1,1 @@
+lar[92924]=`<b>στρηνιάω-ῶ :<br>      1</b> être orgueilleux, insolent, ANTIPH. (<i>Com. fr. 3, 44</i>) ; DIPH. (<i>Com. fr. 4, 429</i>) ; NT. <i>Apoc. 18, 7 et 9</i>.<br><b>      2</b> vivre dans la mollesse, SOPHIL. (<i>Com. fr. 3, 582).</i><p><b>Étym</b>. στρῆνος.`

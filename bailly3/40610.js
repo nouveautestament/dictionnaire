@@ -1,0 +1,1 @@
+lar[40610]=`<b>ίδος (ἡ)</b> <i>adj. f</i>. d’Hermionè II, THC. <i>1, 131 ; subst</i>. ἡ Ἑ. THC. <i>2, 56</i> ; XÉN. <i>Hell. 4, 2, 9 ; 7, 2, 2,</i> la contrée d’Hermionè.<p><b>Étym</b>. Ἑρμιόνη.`

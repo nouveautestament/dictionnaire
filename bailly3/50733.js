@@ -1,0 +1,1 @@
+lar[50733]=`<font color="purple">[ᾰ]</font><br><b>      1 <i>intr.</i></b> avoir un mauvais caractère, ARR. <i>Epict. 3, 16, 4 ; 4, 6, 31</i>.<br><b>      2 <i>tr.</i></b> tourner en dérision, <i>acc</i>. STOB. <i>Ecl. 2, 40</i>.<p><b>Étym</b>. κακοήθης.`

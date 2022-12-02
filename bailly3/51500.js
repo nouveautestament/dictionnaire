@@ -1,0 +1,1 @@
+lar[51500]=`<b>(ὁ)</b> qui étouffe les chiens, <i>surn. lydien d’Hermès,</i> HIPPON. <i>fr. 1</i>.`

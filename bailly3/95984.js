@@ -1,0 +1,1 @@
+lar[95984]=`<b>συν·θυραυλέω-ῶ</b> <font color="purple">[θῠ]</font> monter la garde ensemble aux portes, SYN. <i>15e</i>.`

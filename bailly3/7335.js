@@ -1,0 +1,1 @@
+lar[7335]=`<b>ἀνα·πάσσω</b>, répandre sur : χάριν τινί, PD. <i>O. 11, 98,</i> répandre de la grâce sur qqe ch.`

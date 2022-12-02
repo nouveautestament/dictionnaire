@@ -1,0 +1,1 @@
+lar[106104]=`<b>φιλο·στέφανος, ος, ον</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> qui aime les couronnes, HH. <i>Cer. 102</i> ; EUR. <i>fr. 462, 7 ; p. suite,</i> qui aime les festins (où les convives étaient couronnés) ION (ATH. <i>447f</i>).<br><b>      2</b> qui recherche <i>ou</i> dispute les couronnes, PLUT. <i>Lyc. 23</i>.`

@@ -1,0 +1,1 @@
+lar[17726]=`<b>αὐτό·τεχνος, ος, ον</b>, instruit par lui-même, PLUT. <i>M. 991e</i>.<p><b>Étym</b>. αὐ. τέχνη.`

@@ -1,0 +1,1 @@
+lar[67744]=`<b>ιος</b> <i>ou</i> <b>εως (ἡ)</b> Naukratis (<i>auj</i>. Gieif), <i>v. du Delta égyptien,</i> HDT. <i>2, 97, etc.</i> ; PLAT. <i>Phædr. 274c, etc</i>.<p>➳ <i>Gén. ion</i>. -ιος, HDT. <i>2, 97 ; poét</i>. -ιδος, ANTH. <i>6, 207 ; dat. ion</i>. -ι, HDT. <i>2, 135</i>.`

@@ -1,0 +1,1 @@
+lar[63936]=`<b>ὦ μέλε</b>, <i>en parl. à un homme ou à une femme,</i> mon ami ! mon bon ami ! AR. <i>Nub. 33, Vesp. 1400 ; Eccl. 120, etc.</i> ; PLAT. <i>Theæt. 178e</i>.`

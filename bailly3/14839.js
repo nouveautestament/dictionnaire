@@ -1,0 +1,1 @@
+lar[14839]=`<b>Ἄρκτων ὄρος (τὸ)</b> la montagne des Ours, <i>en Mysie,</i> A.RH. <i>1, 941</i>.<p><b>Étym</b>. <i>cf</i>. ἄρκτος.`

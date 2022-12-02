@@ -1,0 +1,1 @@
+lar[88265]=`<b>ου (ἡ)</b> nerprun épineux, <i>arbrisseau appelé aussi</i> παλίουρος, EUP. <i>2-1, 426 Meineke</i> ; TH. <i>H.P. 3, 18, 2</i> ; DIOSC. <i>1, 119</i>.`

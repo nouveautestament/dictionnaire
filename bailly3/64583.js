@@ -1,0 +1,1 @@
+lar[64583]=`<b>μεσουργέω-ῶ</b>, rendre médial, <i>d’où, au pass</i>., être <i>ou</i> devenir médial, moyen <i>ou</i> intermédiaire, RHÉT. <i>3, 747 W</i>.<p><b>Étym</b>. μ. ἔργον.`

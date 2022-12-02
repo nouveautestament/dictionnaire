@@ -1,0 +1,1 @@
+lar[27033]=`<b>άδος (ἡ)</b> <font color="purple">[ῡ]</font> groupe de vingt mille, NT. <i>Apoc. 9, 16</i>.<p><b>Étym</b>. δισμύριοι.`

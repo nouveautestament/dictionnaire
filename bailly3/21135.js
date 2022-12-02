@@ -1,0 +1,1 @@
+lar[21135]=`<b>ου (τὸ)</b> tumeur sous-cutanée, glande (<i>et non</i> ganglion, <i>au sens moderne</i>), GAL. <i>2, 272c ;</i> P. ÉG. <i>6, 39, etc</i>.`

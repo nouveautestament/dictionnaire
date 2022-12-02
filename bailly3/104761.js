@@ -1,0 +1,1 @@
+lar[104761]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> Phalère :<br><b>      1</b> <i>port d’Athènes,</i> HDT. <i>5, 85 ; 8, 66, 67, etc.</i><br><b>      2</b> <i>autre n. de</i> Νεάπολις, <i>dans le pays des Opikes,</i> LYC. <i>717</i>.`

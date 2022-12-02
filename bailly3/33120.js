@@ -1,0 +1,1 @@
+lar[33120]=`<b>εως (ἡ)</b> cri, clameur, ARÉT. <i>Cur. m. acut. 1, 4</i> ; ANTYLL. (ORIB. <i>1, 447, 8 B.-Dar</i>.).<p><b>Étym</b>. ἐμβοάω.`

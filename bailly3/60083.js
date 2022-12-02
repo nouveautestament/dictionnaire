@@ -1,0 +1,1 @@
+lar[60083]=`<b>ης, ες</b>, qui ressemble à un chaudron, à une marmite, ATH. <i>468e</i>.<p><b>Étym</b>. λέβης, -ωδης.`

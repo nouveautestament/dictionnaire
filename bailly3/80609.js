@@ -1,0 +1,1 @@
+lar[80609]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Plathanè, <i>f</i>. AR. <i>Ran. 549, etc</i>.`

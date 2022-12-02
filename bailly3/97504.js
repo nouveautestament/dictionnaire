@@ -1,0 +1,1 @@
+lar[97504]=`<b>ταναί·μυκος, ος, ον</b> <font color="purple">[ᾰυ]</font> aux mugissements prolongés, ANTH. <i>6, 116</i>.<p><b>Étym</b>. ταναός, μυκάομαι.`

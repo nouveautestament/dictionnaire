@@ -1,0 +1,1 @@
+lar[72666]=`<b>ου (ὁ)</b> hôte, étranger, <i>ou p.-ê. c</i>. Ὀρθάνης, LYC. <i>538 dout</i>.`

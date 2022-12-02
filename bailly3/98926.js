@@ -1,0 +1,1 @@
+lar[98926]=`<b>τηλε·δαπός, ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> d’un pays lointain, étranger, OD. <i>6, 279, etc.</i><br><b>      2</b> situé au loin, IL. <i>21, 454</i>.<p><b>Étym</b>. τ. -δαπος ; <i>cf</i>. ποδαπός.`

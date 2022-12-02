@@ -1,0 +1,1 @@
+lar[72322]=`<b>ου (ὁ)</b> Hoplias, <i>fl. près de Coronée,</i> PLUT. <i>Lyc. 29</i>.`

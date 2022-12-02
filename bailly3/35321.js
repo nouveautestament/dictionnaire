@@ -1,0 +1,1 @@
+lar[35321]=`<b>α, ον :<br>      1</b> qu’il faut écarter de, ἐκ <i>et le gén</i>. XÉN. <i>Cyr. 2, 2, 23</i>.<br><b>      2</b> qu’il faut abolir, PLAT. <i>Leg. 942c.</i><br><b>      3</b> qu’il faut choisir, XÉN. <i>Cyr. 4, 5, 52</i>.<p><b>Étym</b>. <i>vb. de</i> ἐξαιρέω.`

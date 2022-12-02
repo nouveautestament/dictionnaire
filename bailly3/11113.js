@@ -1,0 +1,1 @@
+lar[11113]=`<font color="purple">[ᾰ]</font> <i>prép. c</i>. ἀπό, HÉS. <i>Sc. 409</i>.`

@@ -1,0 +1,1 @@
+lar[106349]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> <i>c</i>. φλεγματιαῖος HPC. <i>Aër. 287, Acut. 389, etc</i>.<p>➳ <i>Ion</i>. φλεγματίης, HPC. <i>ll. cc</i>.`

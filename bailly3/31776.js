@@ -1,0 +1,1 @@
+lar[31776]=`<b>ἐκ·πατέω-ῶ</b> <font color="purple">[ᾰ]</font> sortir de la route frayée, se retirer à l’écart, DL. <i>1, 112 ; 4, 19 ; 9, 63</i>.`

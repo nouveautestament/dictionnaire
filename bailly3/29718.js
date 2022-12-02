@@ -1,0 +1,1 @@
+lar[29718]=`<b>ἐγ·κονίομαι</b> <font color="purple">[ῑ]</font> se couvrir de poussière (avant la lutte) XÉN. <i>Conv. 3, 8 (ao. inf</i>. -ίσασθαι) ; LUC. <i>Am. 45 (prés. ind. 3 sg</i>. -ίεται).<p><b>Étym</b>. ἐν, κόνις.`

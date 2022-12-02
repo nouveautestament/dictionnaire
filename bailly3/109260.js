@@ -1,0 +1,1 @@
+lar[109260]=`<b>χρυσό·σημος, ος, ον</b> <font color="purple">[ῡ]</font> orné d’un signe, <i>particul</i>. d’un bouton d’or, <i>en parl. du laticlave romain,</i> DH. <i>4, 74 ; 5, 47</i>.<p><b>Étym</b>. χρ. σῆμα.`

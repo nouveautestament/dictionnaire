@@ -1,0 +1,1 @@
+lar[99092]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾱ]</font> qui apprivoise, <i>fig</i>. qui cajole, flatteur, AR. <i>Vesp. 704</i>.<p><b>Étym</b>. τιθασεύω.`

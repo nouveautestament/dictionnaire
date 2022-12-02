@@ -1,0 +1,1 @@
+lar[106620]=`<b>ή, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> couvert d’écailles, ARSTT. <i>H.A. 1, 6, 4 ; 2, 17, 18, etc.</i> ; DH. <i>1, 35</i>.<br><b>      2</b> disposé <i>ou</i> plaqué en forme d’écailles, POSIDIPP. (ATH. <i>376f</i>) ; PLUT. <i>Luc. 28</i> ; SPT. <i>1Reg. 17, 5</i>.<p><b>Étym</b>. φολίς.`

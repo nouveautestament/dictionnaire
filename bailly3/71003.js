@@ -1,0 +1,1 @@
+lar[71003]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> production <i>ou</i> descendance peu féconde, PLAT. <i>Prot. 321b</i>.<p><b>Étym</b>. ὀλιγόγονος.`

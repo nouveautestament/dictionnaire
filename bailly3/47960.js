@@ -1,0 +1,1 @@
+lar[47960]=`<b>άδος</b> <font color="purple">[ῡ]</font> <i>adj. f</i>. Θ. νῆσος, <i>c</i>. Θυνηΐς A.RH. <i>2, 350 et 675</i>.`

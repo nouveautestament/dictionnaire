@@ -1,0 +1,1 @@
+lar[10186]=`<b>ἀντι·παραπέμπομαι</b> <font color="darkgreen">(<i>impf</i>. ἀντιπαρεπεμπόμην)</font> être accompagné et encouragé : μνήμῃ τινός, PLUT. <i>M. 1099d</i>, par le souvenir de qqe ch.`

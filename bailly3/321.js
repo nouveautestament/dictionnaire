@@ -1,0 +1,1 @@
+lar[321]=`<b>Ἀγα·μέμνων, ονος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agamemnon, <i>roi de Mycènes, chef des Grecs devant Troie,</i> IL. <i>2, 10, etc</i>.<p>➳ <i>Voc</i>. Ἀγάμεμνον, EUR. <i>I.A. 316</i>.<p><b>Étym</b>. ἀγα- ; <i>p. la deuxième partie</i> : *Ἀγαμένμων, <i>de</i> μένος, μένω <i>ou</i> *Ἀγαμέδμων, <i>de</i> μέδομαι.`

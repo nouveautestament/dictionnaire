@@ -1,0 +1,1 @@
+lar[59691]=`<b>οῦ</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui porte un flambeau, DL. <i>9, 62</i>.<p><b>Étym</b>. *λαμπαδίζω <i>de</i> λαμπάς.`

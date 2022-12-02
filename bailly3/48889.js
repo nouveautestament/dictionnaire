@@ -1,0 +1,1 @@
+lar[48889]=`<font color="purple">[ῑ]</font> se rendre propice, se concilier, SPT. <i>Dan. 9, 19</i>.<p><b>Étym</b>. ἱλάσκομαι.`

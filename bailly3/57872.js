@@ -1,0 +1,1 @@
+lar[57872]=`<b>οῦ (ὁ)</b> conduite digne d’un Crétois, <i>càd</i>. fourberie, PLUT. <i>Æmil. 26</i>.<p><b>Étym</b>. κρητίζω.`

@@ -1,0 +1,1 @@
+lar[87708]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> fond d’un vase, AR. <i>fr. 263 Dind.</i> ; PHÉRÉCR. (<i>Com. fr. 2, 298</i>) ; TH. <i>Char. 30</i>.<br><b>      2</b> couvercle d’un vase, ARSTT. <i>Probl. 25, 2</i>.<br><b>      3</b> garde d’une épée, SOPH. <i>fr. 291 Dind</i>.<p><b>Étym</b>. <i>cf</i>. πυθμήν.`

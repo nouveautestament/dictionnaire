@@ -1,0 +1,1 @@
+lar[13324]=`<b>ἀπο·σκίμπτω</b> (<i>seul. inf. pf. pass</i>. ἀπεσκίμφθαι) lancer avec force, PD. <i>O. 6, 101</i>.<p><b>Étym</b>. <i>c</i>. ἀποσκήπτω.`

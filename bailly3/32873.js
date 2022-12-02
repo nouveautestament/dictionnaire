@@ -1,0 +1,1 @@
+lar[32873]=`<b>ή, όν</b>, qu’on peut tirer, ARSTT. <i>G.A. 2, 6, 25</i>.<p><b>Étym</b>. <i>vb. de</i> ἕλκω.`

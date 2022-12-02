@@ -1,0 +1,1 @@
+lar[4500]=`<b>ου (ὁ)</b> d’Halimunte (<i>v</i>. Ἀλιμουντάδε) DÉM. <i>57, 60 Baiter-Sauppe</i> ; PLUT. <i>Cim. 4, etc</i>.`

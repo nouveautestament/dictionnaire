@@ -1,0 +1,1 @@
+lar[60094]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. λεηλασία, EN. TACT. <i>Pol. 16, 3</i>.<p><b>Étym</b>. λεηλατέω.`

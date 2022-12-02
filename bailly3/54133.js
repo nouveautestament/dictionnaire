@@ -1,0 +1,1 @@
+lar[54133]=`<b>ῆρος (ὁ)</b> qui injurie, insulteur, MAN. <i>4, 235</i>.<p><b>Étym</b>. κατονειδίζω.`

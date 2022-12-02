@@ -1,0 +1,1 @@
+lar[96080]=`<b>συν·νομοθετέω-ῶ</b>, proposer une loi avec qqn, PLAT. <i>Leg. 833e ;</i> DÉM. <i>708 fin</i>.<p><b>Étym</b>. <i>décr</i>.`

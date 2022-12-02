@@ -1,0 +1,1 @@
+lar[1504]=`<b>ας (ἡ)</b> manque d’esclaves, ARSTT. <i>Pol. 6, 8, 23</i>.<p><b>Étym</b>. ἄδουλος.`

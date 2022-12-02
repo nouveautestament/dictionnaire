@@ -1,0 +1,1 @@
+lar[51234]=`<b>καλλί·τεκνος, ος, ον</b> <font color="purple">[ῐ]</font> qui a de beaux, de bons <i>ou</i> d’illustres enfants, ARSTT. <i>fr. 622</i>.<p>•<i> Cp</i>. -ότερος, LUC. <i>D. deor. 16, 1 ; • Sup</i>. -ότατος, PLUT. <i>Æmil. 5</i>.<p><b>Étym</b>. κ. τέκνον.`

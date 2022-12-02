@@ -1,0 +1,1 @@
+lar[14251]=`<b>ἀργι·κέραυνος, ος, ον</b> <font color="purple">[ῐ]</font> à la foudre éclatante de blancheur, <i>ép. de Zeus,</i> IL. <i>19, 121</i> ; PD. <i>O. 8, 3</i>.<p><b>Étym</b>. ἀργός¹, κεραυνός.`

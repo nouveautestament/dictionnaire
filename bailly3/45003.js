@@ -1,0 +1,1 @@
+lar[45003]=`<b>ῆρος</b>, <i>adj. m</i>. qui assaisonne (<i>propr</i>. qui rend agréable) ERATOSTH. (HSCH.).<p><b>Étym</b>. ἡδύνω.`

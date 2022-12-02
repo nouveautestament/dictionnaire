@@ -1,0 +1,1 @@
+lar[34774]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par la réflexion, PROCL. <i>Plat. Parm. 632 Stallb</i>.`

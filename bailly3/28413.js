@@ -1,0 +1,1 @@
+lar[28413]=`<b>δυσ·έξιτος, ος, ον</b> <font color="purple">[ῠῐ]</font> d’où il est difficile de sortir, DS. <i>3, 44 (corr</i>. -ίτητος <i>2, 579 Dindorf).</i><p><b>Étym</b>. δ. ἔξειμι².`

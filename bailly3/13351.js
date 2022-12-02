@@ -1,0 +1,1 @@
+lar[13351]=`<b>ἀπο·σκώπτω</b>, railler, τινά, PLAT. <i>Theæt. 174a ;</i> εἴς τινα, LUC. <i>Herm. 51</i> ; πρός τινα, DC. <i>48, 38</i> ; ἐπί τινι, DC. <i>60, 33,</i> lancer une raillerie contre qqn ; τι εἴς τινα, DL. <i>5, 11,</i> lancer qqe raillerie contre qqn.`

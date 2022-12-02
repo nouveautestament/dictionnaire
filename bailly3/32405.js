@@ -1,0 +1,1 @@
+lar[32405]=`<b>ἐκ·χρώννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐξέχρωσε)</font> teindre, colorer, THÉODECT. (STR. <i>695</i>).`

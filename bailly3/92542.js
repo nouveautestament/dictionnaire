@@ -1,0 +1,1 @@
+lar[92542]=`<b>ατος (τὸ)</b> colonne dressée, AQU. <i>Jud. 9, 6</i>.<p><b>Étym</b>. στηλόω.`

@@ -1,0 +1,1 @@
+lar[96823]=`<b>ου (ὁ)</b> celui qui fait tomber, <i>fig</i>. qui fait cesser, <i>gén</i>. LYC. <i>207</i>.<p><b>Étym</b>. σφάλλω.`

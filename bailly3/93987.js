@@ -1,0 +1,1 @@
+lar[93987]=`<b>συμ·μηρύομαι</b> <font color="purple">[ῡ]</font> rouler ensemble, pelotonner, <i>fig</i>. M. ANT. <i>8, 23</i>.`

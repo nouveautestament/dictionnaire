@@ -1,0 +1,1 @@
+lar[17428]=`<b>αὐτό·γραφος, ος, ον</b> <font color="purple">[ᾰ]</font> écrit de la propre main de qqn, DH. <i>5, 7</i> ; PLUT. <i>Sert. 27</i> ; τὸ αὐτόγραφον, PLUT. <i>M. 1115c</i>, acte autographe, écrit original.<p><b>Étym</b>. αὐ. γράφω.`

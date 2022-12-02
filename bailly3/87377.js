@@ -1,0 +1,1 @@
+lar[87377]=`<b>η, ον</b> <font color="purple">[ῐ]</font> qui s’envole, <i>fig</i>. JUL. <i>383d</i>.<p><b>Étym</b>. πέτομαι.`

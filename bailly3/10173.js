@@ -1,0 +1,1 @@
+lar[10173]=`<b>ἀντι·παραδείκνυμι</b>, confronter, NYSS. <i>1, 175 Migne</i>.`

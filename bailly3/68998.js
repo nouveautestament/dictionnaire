@@ -1,0 +1,1 @@
+lar[68998]=`<b>νοσό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> dont le cœur est malade, MAN. <i>4, 540</i>.<p><b>Étym</b>. ν. θυμός.`

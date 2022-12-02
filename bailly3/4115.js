@@ -1,0 +1,1 @@
+lar[4115]=`<b>ύος (ἡ)</b> <font color="purple">[ᾰλ]</font> cécité, OD. <i>9, 503</i> ; ORPH. <i>Arg. 670</i>.<p><b>Étym</b>. ἀλαόω.`

@@ -1,0 +1,1 @@
+lar[79216]=`<i>adv</i>., en glissant <i>ou</i> en tombant de chaque côté, A.RH. <i>4, 1581</i>.<p><b>Étym</b>. περιρρηδής.`

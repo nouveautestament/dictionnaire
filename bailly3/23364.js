@@ -1,0 +1,1 @@
+lar[23364]=`<b>ης (ἡ) :<br>      1</b> Daphnè, <i>n. de f. myth</i>. LUC. <i>D. deor. 2, 14 et 15</i> ; ANTH. <i>9, 124 et 307 ; etc.</i><br><b>      2</b> <i>plur</i>. αἱ Δάφναι, Daphnæ, <i>v. de la basse Égypte, près de Péluse,</i> HDT. <i>2, 30 et 107</i>.<p>➳ <i>Voc</i>. Δάφνη, NONN. <i>D. 15, 299</i>.`

@@ -1,0 +1,1 @@
+lar[40563]=`<b>ων (τὰ) :<br>      1</b> fêtes d’Hermès, PLAT. <i>Lys. 206d ;</i> ESCHN. <i>2, 22</i>.<br><b>      2</b> luttes éphébiques auxquelles présidait Hermès Ἐναγώνιος, PD. <i>O. 6, 79 ; P. 2, 10, etc</i>.<p><b>Étym</b>. Ἑρμαῖος.`

@@ -1,0 +1,1 @@
+lar[39634]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme un épiphonème, HERMOG. <i>Rhet. 79, 2</i> ; D. PHAL. <i>51, 3</i>.`

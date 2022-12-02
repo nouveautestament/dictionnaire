@@ -1,0 +1,1 @@
+lar[50271]=`<b>καθαπερ·αν·εί</b> <font color="purple">[ᾰθᾰ]</font> <i>c</i>. καθάπερ PLAT. <i>Leg. 684c ;</i> ARSTT. <i>H.A. 4, 2, 16, etc</i>.<p><b>Étym</b>. κ. ἄν, εἰ.`

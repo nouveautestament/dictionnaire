@@ -1,0 +1,1 @@
+lar[48130]=`<b>ατος (τὸ)</b> acte de flatterie, parole caressante <i>ou</i> flatteuse, AR. <i>Vesp. 563 ; au pl</i>. EUR. <i>Suppl. 1103</i> ; PLUT. <i>M. 823c</i>.<p><b>Étym</b>. θωπεύω.`

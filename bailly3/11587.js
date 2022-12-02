@@ -1,0 +1,1 @@
+lar[11587]=`<b>ἀπειρο·θάλαττος, ος, ον</b> <font color="purple">[ᾰθᾰ]</font> sans expérience de la mer, PHILSTR. <i>883</i>.<p><b>Étym</b>. ἄ. θάλαττα.`

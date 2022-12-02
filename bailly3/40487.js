@@ -1,0 +1,1 @@
+lar[40487]=`<b>ἐριό·στεπτος, ος, ον</b>, couronné de bandelettes de laine, ESCHL. <i>Suppl. 23 conj</i>.<p><b>Étym</b>. ἔ. στέφω.`

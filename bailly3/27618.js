@@ -1,0 +1,1 @@
+lar[27618]=`<b>ου (ἡ)</b> Dorkion (<i>litt</i>. petite gazelle) <i>f</i>. ANTH. <i>12, 161</i>.<p><b>Étym</b>. δόρξ.`

@@ -1,0 +1,1 @@
+lar[93647]=`<b>εως (ἡ)</b> concession, consentement, PLAT. <i>Leg. 770c, 957d, Crat. 435b, etc.</i> ; PLUT. <i>Cato mi. 25 ; fig</i>. pardon, CHRYS.<p><b>Étym</b>. συγχωρέω.`

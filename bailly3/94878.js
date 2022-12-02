@@ -1,0 +1,1 @@
+lar[94878]=`<b>συν·αποκινδυνεύω</b> <font color="purple">[δῡ]</font> s’associer au danger de, <i>dat</i>. LGN <i>22 fin</i> ; HLD. <i>6, 7</i>.`

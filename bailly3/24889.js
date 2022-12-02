@@ -1,0 +1,1 @@
+lar[24889]=`<b>δια·κύπτω :<br>      1</b> se pencher à travers une ouverture pour regarder, HDT. <i>3, 145</i> ; AR. <i>Eccl. 930</i>.<br><b>      2</b> se pencher comme pour regarder à travers, AR. <i>Pax 78</i> ; XÉN. <i>Cyr. 3, 3, 66</i>.<p><b>Étym</b>. <i>part. pf</i>. διακεκυφότας, <i>correct. p</i>. διακεκοφότας, <i>de</i> διακόπτω.`

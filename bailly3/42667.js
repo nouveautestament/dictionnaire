@@ -1,0 +1,1 @@
+lar[42667]=`<b>Εὐ·μένης, ους</b> <i>ou</i> <b>Εὐ·μενής, οῦς (ὁ)</b> Euménès (Eumène) :<br><b>      1</b> <i>général d’Alexandre le Grand,</i> PLUT. <i>Eum. 1, etc.</i><br><b>      2</b> <i>autres,</i> HDT. <i>8, 93, etc</i>.<p>➳ <i>Acc</i>. -η, POL. <i>22, 25 ; ou</i> -ῆ, DS. <i>16, 40, etc.</i> ; -ην, DL. <i>5, 4</i>.<p><b>Étym</b>. <i>cf</i>. εὐμενής.`

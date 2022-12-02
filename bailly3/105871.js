@@ -1,0 +1,1 @@
+lar[105871]=`<b>φιλό·κτιστος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime à bâtir, NONN. <i>Jo. 2, 98</i>.`

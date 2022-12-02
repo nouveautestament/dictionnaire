@@ -1,0 +1,1 @@
+lar[64785]=`<b>μετα·κύμιος, ος, ον</b> <font color="purple">[ῡ]</font> qui sépare <i>ou</i> écarte les vagues, EUR. <i>Alc. 91</i>.<p><b>Étym</b>. μ. κῦμα.`

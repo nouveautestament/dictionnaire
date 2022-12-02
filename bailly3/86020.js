@@ -1,0 +1,1 @@
+lar[86020]=`<b>εως (ἡ)</b> action de bondir devant, NAZ.<p><b>Étym</b>. προσκιρτάω.`

@@ -1,0 +1,1 @@
+lar[93281]=`<b>συγ·καταγομφόω-ῶ</b>, clouer ensemble, PLUT. <i>M. 426c</i>.`

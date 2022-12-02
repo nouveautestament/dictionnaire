@@ -1,0 +1,1 @@
+lar[61840]=`<b>λυκ·άνθρωπος, ος, ον</b> <font color="purple">[ῠ]</font> atteint de lycanthropie, AÉT. <i>6, 11</i> ; P. ÉG. <i>3, 16</i>.<p><b>Étym</b>. λύκος, ἄ.`

@@ -1,0 +1,1 @@
+lar[93969]=`<b>συμ·μετέρχομαι</b>, se déplacer avec, <i>dat</i>. BAS.`

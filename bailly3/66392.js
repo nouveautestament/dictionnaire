@@ -1,0 +1,1 @@
+lar[66392]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sorte de sauterelle, NIC. <i>Th. 416 ; cf</i>. μόλουρος.`

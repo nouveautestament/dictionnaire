@@ -1,0 +1,1 @@
+lar[86712]=`<b>προ·σωρεύω</b>, amasser auparavant <i>ou</i> d’avance, APP. <i>Civ. 1, 69</i>.`

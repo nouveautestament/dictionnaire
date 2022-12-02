@@ -1,0 +1,1 @@
+lar[105597]=`<b>Φίλ·ηβος, ος, ον</b> <font color="purple">[ῐ]</font> Philèbos (Philèbe) <i>litt</i>. qui aime les jeunes gens, <i>titre d’un dialogue de Platon, etc.</i> ; LUC. <i>As. 36</i>.<p><b>Étym</b>. φ. ἥβη.`

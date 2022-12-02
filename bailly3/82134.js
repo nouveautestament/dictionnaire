@@ -1,0 +1,1 @@
+lar[82134]=`<b>πολύ·μνηστος, ος, ον :<br>      1</b> <i>act</i>. qui a une mémoire très fidèle, reconnaissant, ESCHL. <i>Ag. 821</i>.<br><b>      2</b> <i>pass</i>. dont on garde fidèlement le souvenir. ESCHL. <i>Ag. 1459</i>.<p>➳ <i>Dor</i>. πολύμναστος, ESCHL. <i>Ag. 1459</i>.<p><b>Étym</b>. π. μνάομαι 2.`

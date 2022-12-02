@@ -1,0 +1,1 @@
+lar[9373]=`<b>ἄν·οψος, ος, ον</b>, qui manque de mets, <i>càd</i>. qui n’a que du pain, PLUT. <i>M. 123b</i>.<p><b>Étym</b>. ἀν-, ὄψον.`

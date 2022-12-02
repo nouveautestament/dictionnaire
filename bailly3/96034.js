@@ -1,0 +1,1 @@
+lar[96034]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font> qui a tendance à se resserrer, à se condenser, ARSTT. <i>Probl. 11, 58, 4, p. opp. à</i> διϊτικός, <i>au cp</i>. -ώτερος.<p><b>Étym</b>. σύνειμι².`

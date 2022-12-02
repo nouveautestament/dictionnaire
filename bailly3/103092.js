@@ -1,0 +1,1 @@
+lar[103092]=`<b>ὑπο·γραμματεύω</b> <font color="purple">[μᾰ]</font> être sous-greffier, scribe <i>ou</i> greffier adjoint, ANT. <i>147, 14</i> ; LYS. <i>186, 8</i> ; PLUT. <i>Æmil. 37, Cato ma. 24</i>.`

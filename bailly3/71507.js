@@ -1,0 +1,1 @@
+lar[71507]=`<b>ὁμό·θεσμος, ος, ον</b>, dont les lois sont les mêmes, SIB. <i>5, 264</i>.<p><b>Étym</b>. ὁμ. θεσμός.`

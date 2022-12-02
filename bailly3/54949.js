@@ -1,0 +1,1 @@
+lar[54949]=`<b>ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. descendant de Kerkaphos, <i>càd</i>. Rhodien, A. PL. <i>4, 49 ; au pl</i>. οἱ Κερκαφίδαι, ANTH. <i>9, 287,</i> les Rhodiens.<p><b>Étym</b>. Κέρκαφος.`

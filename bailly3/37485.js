@@ -1,0 +1,1 @@
+lar[37485]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> qu’on pose sur ses genoux, PD. <i>P. 9, 107</i>.<p><b>Étym</b>. ἐπιγουνίς.`

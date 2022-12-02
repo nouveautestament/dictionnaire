@@ -1,0 +1,1 @@
+lar[64912]=`<b>μετα·πνέω</b>, reprendre haleine, se reposer de, <i>gén</i>. OPP. <i>H. 5, 314</i>.`

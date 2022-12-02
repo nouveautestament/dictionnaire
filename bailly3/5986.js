@@ -1,0 +1,1 @@
+lar[5986]=`<b>ἀμφ·αλαλάζω</b> <font color="darkgreen">(<i>impf. poét</i>. ἀμφαλάλαζον)</font> <font color="purple">[φᾰλᾰλ]</font> entourer avec des cris de joie, NONN. <i>D. 40, 98</i>.`

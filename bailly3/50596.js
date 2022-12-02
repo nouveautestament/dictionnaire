@@ -1,0 +1,1 @@
+lar[50596]=`<b>καιρο·σκόπος, ος, ον</b>, qui guette l’occasion, GR. THAUM. <i>p. 996b</i>.<p><b>Étym</b>. κ. σκοπέω.`

@@ -1,0 +1,1 @@
+lar[17427]=`<b>αὐτο·γραμμή, ῆς (ἡ)</b> la ligne en soi, <i>càd</i>. la ligne idéale <i>ou</i> mathématique, ARSTT. <i>Metaph. 6, 11, 6</i>.`

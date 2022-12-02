@@ -1,0 +1,1 @@
+lar[20898]=`<b>αντος (ὁ)</b> Bryas :<br><b>      1</b> <i>n. d’h</i>. PAUS. ; <i>part. n. de deux philosophes pythagoriciens,</i> JAMBL.<br><b>      2</b> <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

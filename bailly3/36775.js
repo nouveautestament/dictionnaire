@@ -1,0 +1,1 @@
+lar[36775]=`<b>ἐπ·αργυρόω-ῶ</b> <font color="purple">[ῠ]</font> payer d’un poids égal en argent, <i>càd</i>. très cher, MNÉSIM. (ATH. <i>359c</i>).`

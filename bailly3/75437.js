@@ -1,0 +1,1 @@
+lar[75437]=`<b>παρα·γεύω</b>, faire goûter, <i>fig.</i> : τινὰ φρονήματος, PLUT. <i>Lyc. 14,</i> faire goûter à qqn un sentiment, une opinion.<br><b><i>Moy.</i></b> goûter du bout des lèvres : τινος, ANAXIL. (<i>Com. fr. 3, 343</i>) à qqe ch. ; <i>fig</i>. ANTIPH. (<i>Com. fr. 3, 140</i>).`

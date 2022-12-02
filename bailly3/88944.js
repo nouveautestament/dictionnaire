@@ -1,0 +1,1 @@
+lar[88944]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de rider, contraction des traits, ride, GAL. <i>14, 767</i>.<p><b>Étym</b>. ῥυσόω.`

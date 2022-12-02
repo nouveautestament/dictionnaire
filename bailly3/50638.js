@@ -1,0 +1,1 @@
+lar[50638]=`<b>κακ·εντρεχής, ής, ές</b> <font color="purple">[ᾰ]</font> fourbe, POL. (<i>Coll. Vatic. 2, 414 Mai</i>) ; STR. <i>301</i>.<p><b>Étym</b>. κ. ἐντρεχής.`

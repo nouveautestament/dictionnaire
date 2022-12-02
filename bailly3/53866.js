@@ -1,0 +1,1 @@
+lar[53866]=`<b>κατ·εμπάζω</b> (<i>seul. prés</i>.) surprendre, saisir, NIC. <i>Th. 695</i>.`

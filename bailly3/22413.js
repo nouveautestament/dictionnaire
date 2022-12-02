@@ -1,0 +1,1 @@
+lar[22413]=`<b>γομφό·δετος, ος, ον</b>, lié <i>ou</i> assujetti au moyen de chevilles, ESCHL. <i>Suppl. 846</i>.<p><b>Étym</b>. γόμφος, δέω.`

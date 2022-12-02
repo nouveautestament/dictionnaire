@@ -1,0 +1,1 @@
+lar[11212]=`<b>ἀπ·αμαυρόω-ῶ</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> dissiper les ténèbres, ORPH. <i>H. 5, 6</i>.<br><b>      2</b> priver de la lumière, SPT. <i>Esaï. 44, 18</i>.`

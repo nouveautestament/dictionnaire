@@ -1,0 +1,1 @@
+lar[54246]=`<b>κατ·ωπός, ός, όν</b>, qui baisse les yeux <i>ou</i> le visage, HIPPIATR.<p><b>Étym</b>. κ. ὤψ.`

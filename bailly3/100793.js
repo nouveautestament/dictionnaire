@@ -1,0 +1,1 @@
+lar[100793]=`<b>όεσσα, όεν</b>, en forme de cercle, <i>d’où</i> :<br><b>      1</b> circulaire, CALL. <i>Del. 261</i>.<br><b>      2</b> rond, ANTH. <i>6, 65 ; 11, 58</i> ; NIC. <i>Th. 332, etc</i>.<p><b>Étym</b>. τροχός.`

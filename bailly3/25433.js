@@ -1,0 +1,1 @@
+lar[25433]=`<b>ας (ἡ)</b> quantité suffisante, TH. <i>C.P. 1, 11, 6</i>.<p><b>Étym</b>. διαρκής.`

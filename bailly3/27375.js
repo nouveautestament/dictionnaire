@@ -1,0 +1,1 @@
+lar[27375]=`<b>ας (ἡ)</b> <font color="purple">[σῐ]</font> fausse opinion qu’on a de sa sagesse <i>ou</i> de son habileté, PLAT. COM. (POLL. <i>4, 9).</i><p><b>Étym</b>. δοκησίσοφος.`

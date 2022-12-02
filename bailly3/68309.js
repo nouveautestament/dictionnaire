@@ -1,0 +1,1 @@
+lar[68309]=`<b>νεο·φθίμενος, η, ον</b> <font color="purple">[ῐ]</font> consumé <i>ou</i> détruit depuis peu, NONN. <i>D. 25, 274</i>.<p><b>Étym</b>. ν. φθίνω.`

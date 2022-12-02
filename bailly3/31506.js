@@ -1,0 +1,1 @@
+lar[31506]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font> qui facilite la sécrétion, TH. <i>C.P. 6, 1, 3</i>.<p><b>Étym</b>. ἐκκρίνω.`

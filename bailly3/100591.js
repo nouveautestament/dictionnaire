@@ -1,0 +1,1 @@
+lar[100591]=`<b>τρι·φυής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> de trois natures, ORPH. <i>H. 50, 5</i>.<br><b>      2</b> à trois pousses, TH. <i>H.P. 2, 6, 9</i>.<p><b>Étym</b>. τρ. φύω.`

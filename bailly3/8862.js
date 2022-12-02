@@ -1,0 +1,1 @@
+lar[8862]=`<b>ἀνθο·κάρηνος, ος, ον</b> <font color="purple">[κᾰ]</font> à la tête parée de fleurs, OPP. <i>C. 4, 235</i>.<p><b>Étym</b>. ἄνθος, κάρηνον.`

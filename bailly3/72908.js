@@ -1,0 +1,1 @@
+lar[72908]=`<b>ὀρνεο·πάτακτος, ος, ον</b> <font color="purple">[πᾰ]</font> déchiré par les oiseaux, CHRYS. <i>8, 83</i>.<p><b>Étym</b>. ὄρνεον, πατάσσω.`

@@ -1,0 +1,1 @@
+lar[5064]=`<b>ή, όν</b>, sorte de poisson de mer, ARSTT. <i>fr. 290</i>.<p><b>Étym</b>. <i>cf</i>. ἀλφηστής.`

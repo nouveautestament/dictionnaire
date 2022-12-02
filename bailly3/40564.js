@@ -1,0 +1,1 @@
+lar[40564]=`<b>ή, όν</b>, d’Hermès <i>ou</i> semblable à Hermès, MARIN. <i>V. Procl. 28</i> ; CIA. <i>2, 781, 4, 5 (vers 300 av. J.-C., v. Meisterh. p. 26, 8).</i><p><b>Étym</b>. Ἑρμῆς.`

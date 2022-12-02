@@ -1,0 +1,1 @@
+lar[81845]=`<b>πολυδημ·ώδης, ης, ες</b> <font color="purple">[ῠ]</font> très populeux, DL. <i>7, 14</i>.<p><b>Étym</b>. πολύς, δημώδης.`

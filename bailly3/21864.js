@@ -1,0 +1,1 @@
+lar[21864]=`<b>ας (ἡ)</b> arpentage, géométrie, LUC. <i>Nigr. 2 ; au plur</i>. PLAT. <i>Men. 76a</i>.<p>➳ <i>Ion</i>. γεωμετρίη, HDT. <i>2, 109 ; dat. pl</i>. -ίῃσι, MAN. <i>4, 129</i>.<p><b>Étym</b>. γεωμέτρης.`

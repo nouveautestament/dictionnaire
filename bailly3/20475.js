@@ -1,0 +1,1 @@
+lar[20475]=`<b>βού·μυκοι, ων (οἱ)</b> <font color="purple">[ῡ]</font> bruits souterrains semblables au mugissement des bœufs, ARSTT. <i>Probl. 25, 2, 1</i>.<p><b>Étym</b>. βοῦς, μυκάομαι.`

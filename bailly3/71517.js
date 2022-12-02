@@ -1,0 +1,1 @@
+lar[71517]=`<b>ὁμοιό·βιος, ος, ον</b>, qui a le même genre de vie, ARSTT. <i>P.A. 3, 1, 17</i>.<p><b>Étym</b>. ὅμ. βίος.`

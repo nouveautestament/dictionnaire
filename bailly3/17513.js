@@ -1,0 +1,1 @@
+lar[17513]=`<b>αὐτο·κατάρα, ας (ἡ)</b> exécration <i>ou</i> malédiction proprement dite, NAZ.`

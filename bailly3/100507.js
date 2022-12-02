@@ -1,0 +1,1 @@
+lar[100507]=`<i>adv</i>., sur trois rangs, HÉS. <i>Th. 727</i> ; OPP. <i>H. 5, 327</i>.<p><b>Étym</b>. τρίστοιχος.`

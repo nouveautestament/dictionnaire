@@ -1,0 +1,1 @@
+lar[17742]=`<b>ας (ἡ) :<br>      1</b> travail qu’on fait soi-même, travail personnel, <i>p. opp. au travail des esclaves,</i> POL. <i>4, 21, 1</i> ; PLUT. <i>Cato ma. 1</i>.<br><b>      2</b> expérience personnelle, POL. <i>9, 14, 4</i>.<br><b>      3</b> meurtre sur soi-même <i>ou</i> sur les siens, ESCHL. <i>Eum. 336</i>.<p><b>Étym</b>. αὐτουργός.`

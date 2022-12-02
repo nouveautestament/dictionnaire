@@ -1,0 +1,1 @@
+lar[72800]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑγᾰ]</font> <i>c</i>. ὀρίγανος, DIOSC. <i>3, 49</i>.`

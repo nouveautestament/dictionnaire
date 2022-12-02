@@ -1,0 +1,1 @@
+lar[10786]=`<i>att</i>. <b>ἁνύσιμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui peut mener à terme, <i>d’où</i> efficace : εἴς τι, XÉN. <i>Cyr. 1, 6, 22</i> ; πρός τι, PLAT. <i>Leg. 716d</i>, pour qqe ch.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>Cyr. 16, 19</i> ; ARÉT. <i>Cur. m. acut. 1, 10. • Sup</i>. -ώτατος, PLAT. <i>l. c</i>.<p><b>Étym</b>. ἀνύω, ἁνύω.`

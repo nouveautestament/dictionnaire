@@ -1,0 +1,1 @@
+lar[102418]=`<b>ὑπερ·εκθεραπεύω</b> <font color="purple">[ᾰ]</font> capter par des prévenances excessives, ESCHN. <i>48 fin</i>.`

@@ -1,0 +1,1 @@
+lar[12028]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> infaillibilité, SEXT. <i>p. 448</i>.<p><b>Étym</b>. ἀπλάνητος.`

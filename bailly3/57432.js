@@ -1,0 +1,1 @@
+lar[57432]=`<b>κουρο·βόρος, ος, ον</b>, qui dévore (<i>càd</i>. qui fait périr) les enfants, ESCHL. <i>Ag. 1512</i>.<p><b>Étym</b>. κοῦρος, βιβρώσκω.`

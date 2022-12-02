@@ -1,0 +1,1 @@
+lar[34077]=`<b>ἐν·αυχένιος, α, ον</b>, qui entoure le cou, ORPH. <i>Lith. 499</i> ; ANTH. <i>7, 493</i>.<p><b>Étym</b>. ἐν, αὐχήν.`

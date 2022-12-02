@@ -1,0 +1,1 @@
+lar[76171]=`<b>παρά·σειρον, ου (τὸ)</b> ralingue, <i>étoffe de couleur voyante qui entoure la voile comme d’un cadre,</i> LUC. <i>Nav. 5</i> ; CALLIX. (ATH. <i>206c</i>).<p><b>Étym</b>. <i>neutre de</i> παράσειρος.`

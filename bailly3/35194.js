@@ -1,0 +1,1 @@
+lar[35194]=`<b>*ἐν·υπνόω-ῶ</b>, <i>seul. épq</i>. <b>ἐνυπνώω</b> (<i>part. prés</i>.) dormir dans, <i>dat</i>. NIC. <i>Th. 546</i>.<p><b>Étym</b>. ἐν, ὑπνόω.`

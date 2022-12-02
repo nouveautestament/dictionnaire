@@ -1,0 +1,1 @@
+lar[63723]=`<b>      1 <i>tr.</i></b> couper la queue, <i>d’où</i> écourter, mutiler, NICOM. <i>Arithm. 124, 126</i>.<br><b>      2 <i>intr.</i></b> avoir la queue courte <i>ou</i> coupée, <i>en parl. de plantes, de fruits,</i> GEOP. <i>19, 2, 1, etc</i>.<p><b>Étym</b>. μείουρος.`

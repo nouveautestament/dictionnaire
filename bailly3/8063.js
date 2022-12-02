@@ -1,0 +1,1 @@
+lar[8063]=`<b>ἀνδρο·θνής, ῆτος (ὁ, ἡ)</b> homicide, meurtrier, ESCHL. <i>Ag. 814</i>.<p><b>Étym</b>. ἀνήρ, θνῄσκω.`

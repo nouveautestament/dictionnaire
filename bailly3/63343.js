@@ -1,0 +1,1 @@
+lar[63343]=`<b>μεγαλ·ογκία</b>, <i>ion</i>. <b>μεγαλ·ογκίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> masse énorme, large circuit, DÉMOCR. (STOB. <i>Fl. 103, 25).</i><p><b>Étym</b>. μ. ὄγκος.`

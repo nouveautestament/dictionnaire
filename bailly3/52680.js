@@ -1,0 +1,1 @@
+lar[52680]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰβ]</font> action de saisir, PLAT. <i>Def. 412c</i>.<p><b>Étym</b>. καταλαμβάνω.`

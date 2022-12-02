@@ -1,0 +1,1 @@
+lar[25402]=`<b>δια·πυκτεύω</b>, combattre à coups de poing, <i>d’où</i> lutter : τινί, contre qqn, XÉN. <i>Cyr. 7, 5, 53</i> ; ARR. <i>Epict. 2, 21, 11 ; fig</i>. LUC. <i>Gall. 22</i>.`

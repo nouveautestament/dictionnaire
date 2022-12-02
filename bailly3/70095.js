@@ -1,0 +1,1 @@
+lar[70095]=`<b>εως (ἡ)</b> action de conduire sur la route, de guider, SEXT. <i>56, 5 Bkk</i>.<p><b>Étym</b>. ὁδηγέω.`

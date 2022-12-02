@@ -1,0 +1,1 @@
+lar[92697]=`<i>adv</i>., en rang, par file, en ordre, ARSTT. <i>G.A. 4, 4, 6</i> ; TH. <i>H.P. 3, 12, 7</i> ; A.RH. <i>1, 1004</i>.<p><b>Étym</b>. στοῖχος, -δον.`

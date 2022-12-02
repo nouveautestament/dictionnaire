@@ -1,0 +1,1 @@
+lar[99540]=`<b>ου (ὁ)</b> Tolophos, <i>Étolien,</i> THC. <i>3, 100</i>.`

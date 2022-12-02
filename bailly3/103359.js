@@ -1,0 +1,1 @@
+lar[103359]=`<b>ὑπο·κεφάλαιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> coussin pour la tête, oreiller, HPC. <i>Fract. 757</i> ; ARÉT. <i>p. 75, 14</i>.<p><b>Étym</b>. ὑ. κεφαλή.`

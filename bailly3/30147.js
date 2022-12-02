@@ -1,0 +1,1 @@
+lar[30147]=`<i>adv.</i> : ἐ. ἔχειν, PLUT. <i>Arat. 25,</i> avoir des instincts serviles.<p><b>Étym</b>. ἐθελόδουλος.`

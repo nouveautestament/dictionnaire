@@ -1,0 +1,1 @@
+lar[95670]=`<b>συν·επισημαίνω</b>, signifier en même temps <i>ou</i> en outre, PLUT. <i>M. 398a.</i><br><b><i>Moy.</i></b> marquer en même temps <i>ou</i> en outre son approbation, DS. <i>17, 25, ou</i> son blâme, POL. <i>4, 24, 4</i>.`

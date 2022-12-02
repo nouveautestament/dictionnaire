@@ -1,0 +1,1 @@
+lar[75421]=`<i>adv.</i> :<br><b>      1</b> audacieusement, témérairement, MÉN. <i>4, 259 Meineke</i> ; POL. <i>1, 44, 6 ; 16, 5, 6</i> ; PLUT. <i>Galb. 1</i>.<br><b>      2</b> à l’improviste, POL. <i>1, 23, 7, etc</i>.<p>•<i> Cp</i>. -ώτερον, PLUT. <i>l.c</i>.`

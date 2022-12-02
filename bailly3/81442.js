@@ -1,0 +1,1 @@
+lar[81442]=`<i>adv</i>., à la façon des bergers, EUM. <i>110</i>.`

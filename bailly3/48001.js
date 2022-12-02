@@ -1,0 +1,1 @@
+lar[48001]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> fenêtre, DIOSC. <i>1, 119</i>.<p><b>Étym</b>. <i>cf</i>. θυρίς.`

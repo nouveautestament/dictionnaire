@@ -1,0 +1,1 @@
+lar[1675]=`<b>ἀει·λιβής, ής, ές</b> <font color="purple">[ῐ]</font> qui dégoutte sans cesse, NONN. <i>Jo. 3, 30</i>.<p><b>Étym</b>. ἀ. λείβω.`

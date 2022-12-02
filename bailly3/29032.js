@@ -1,0 +1,1 @@
+lar[29032]=`<b>δύσ·χυμος, ος, ον</b> <font color="purple">[χῡ]</font> de saveur (<i>litt</i>. de suc) désagréable, ARSTT. <i>G.A. 4, 8, 3</i> ; TH. <i>C.P. 6, 12, 4</i>.<p><b>Étym</b>. δ. χυμός.`

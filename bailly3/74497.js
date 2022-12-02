@@ -1,0 +1,1 @@
+lar[74497]=`<b>παλιγ·γενής, ής, ές</b> <font color="purple">[ᾰ]</font> qui renaît, NONN. <i>D. 2, 650</i>.<p><b>Étym</b>. π. γένος.`

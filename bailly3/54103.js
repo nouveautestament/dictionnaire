@@ -1,0 +1,1 @@
+lar[54103]=`<b>κατ·οικοφθορέω-ῶ</b>, ruiner de fond en comble, PLUT. <i>Alc. 23</i>.`

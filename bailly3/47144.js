@@ -1,0 +1,1 @@
+lar[47144]=`<i>adv</i>., à Thèbes, <i>avec mouv</i>. IL. <i>23, 679</i>.<p><b>Étym</b>. Θῆβαι, -δε.`

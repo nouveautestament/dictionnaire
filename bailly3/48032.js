@@ -1,0 +1,1 @@
+lar[48032]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui frappe à la porte ; <i>subst</i>. τὸ θυροκοπικόν, ATH. <i>618c</i>, air de flûte, sorte de sérénade pour se faire ouvrir la porte.<p><b>Étym</b>. θυροκόπος.`

@@ -1,0 +1,1 @@
+lar[91323]=`<b>σκυλοδεψέω-ῶ</b> <font color="purple">[ῠ]</font> être corroyeur, AR. <i>Pl. 514</i>.<p><b>Étym</b>. σκυλοδέψης.`

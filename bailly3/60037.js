@@ -1,0 +1,1 @@
+lar[60037]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <font color="purple">[ᾰ]</font> Lakhésis, <i>l’une des trois Parques,</i> HÉS. <i>Th. 218, Sc. 258</i> ; PD. <i>O. 7, 64</i> ; PLUT. <i>M. 664a, etc</i>.<p>➳ <i>Voc</i>. Λάχεσι, ORPH. <i>H. 59, 16</i>.<p><b>Étym</b>. <i>v</i>. λάχεσις.`

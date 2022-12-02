@@ -1,0 +1,1 @@
+lar[101452]=`<b>άδος</b>, <i>dat. pl. épq</i>. -άδεσσιν <font color="purple">[ῠᾰδ]</font> <i>adj. f</i>. de l’Hydaspe, NONN. <i>D. 32, 286</i>.<p><b>Étym</b>. Ὑδάσπης.`

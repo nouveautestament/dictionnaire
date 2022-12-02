@@ -1,0 +1,1 @@
+lar[32214]=`<b>ἔκ·τοτε</b>, <i>adv</i>., depuis lors, dès lors, SOCR. RHOD. (ATH. <i>148c</i>), <i>etc. (Forme réc. p</i>. ἐκ τότε.).`

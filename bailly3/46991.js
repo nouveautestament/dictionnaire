@@ -1,0 +1,1 @@
+lar[46991]=`<i>voc</i>. <b>-ι (ἡ)</b> Thersis, <i>f</i>. ANTH. <i>7, 649</i>.<p><b>Étym</b>. θέρω.`

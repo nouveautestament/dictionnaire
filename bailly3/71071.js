@@ -1,0 +1,1 @@
+lar[71071]=`<b>ὀλιγό·ϋπνος, ος, ον</b> <font color="purple">[ῐ]</font> qui dort peu, APP. <i>Iber. 74 au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. ὀλ. ὕπνος.`

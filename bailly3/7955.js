@@ -1,0 +1,1 @@
+lar[7955]=`<b>εως (ἡ) :<br>      1</b> action de rafraîchir, rafraîchissement, HPC. <i>Fract. 767</i>.<br><b>      2</b> <i>fig</i>. soulagement, allègement, STR. <i>459</i>.`

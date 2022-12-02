@@ -1,0 +1,1 @@
+lar[77239]=`<b>Πασί·μαχος, ου (ὁ)</b> <font color="purple">[ᾱῐᾰ]</font> Pasimakhos, <i>Laconien,</i> XÉN. <i>Hell. 4, 4, 10</i>.<p><b>Étym</b>. π. μάχομαι.`

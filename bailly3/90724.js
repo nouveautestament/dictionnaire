@@ -1,0 +1,1 @@
+lar[90724]=`<b>ῶν (αἱ)</b> haut-de-chausses, ANTIPH. (<i>Com. fr. 3, 19).</i><p><b>Étym</b>. σκέλος.`

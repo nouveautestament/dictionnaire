@@ -1,0 +1,1 @@
+lar[100051]=`<b>όος-οῦς (ἡ)</b> lieu rocailleux, NIC. <i>Th. 283 dout</i>.<p><b>Étym</b>. τρηχύς.`

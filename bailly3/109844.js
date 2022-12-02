@@ -1,0 +1,1 @@
+lar[109844]=`<b>ψιλοκορρέω-ῶ</b> <font color="purple">[ῑ]</font> avoir les tempes dégarnies, DIOGÉN. <i>Ep. 19</i>.<p><b>Étym</b>. ψιλοκόρρης.`

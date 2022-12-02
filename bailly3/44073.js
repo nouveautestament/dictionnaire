@@ -1,0 +1,1 @@
+lar[44073]=`<b>εως (ἡ)</b> <font color="purple">[ῑδ]</font> transpiration facile <i>ou</i> abondante, PLUT. <i>Brut. 25 au pl</i>.<p><b>Étym</b>. ἐφιδρόω.`

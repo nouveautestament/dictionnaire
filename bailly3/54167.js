@@ -1,0 +1,1 @@
+lar[54167]=`<b>κατ·οργιάζω</b>, initier aux mystères orgiaques, PLUT. <i>Sol. 12 ; au pass</i>. PLUT. <i>M. 766b, etc</i>.`

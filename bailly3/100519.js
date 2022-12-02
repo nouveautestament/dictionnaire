@@ -1,0 +1,1 @@
+lar[100519]=`<b>τρισχιλι·έτης, ης, ες</b> <font color="purple">[χῑ]</font> de trois mille ans, HIÉROCL. <i>de Provid. p. 463 Bekker</i>.<p><b>Étym</b>. τρισχίλιοι, ἔτος.`

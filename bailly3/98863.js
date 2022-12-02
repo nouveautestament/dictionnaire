@@ -1,0 +1,1 @@
+lar[98863]=`<b>τεχνο·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> auteur d’un traité sur un art (grammaire, rhétorique, <i>etc</i>.) ARSTT. <i>Rhet. Al. 1, 17</i> ; DH. <i>Lys. 24</i>.<p><b>Étym</b>. τέχνη, γράφω.`

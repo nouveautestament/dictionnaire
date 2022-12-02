@@ -1,0 +1,1 @@
+lar[39254]=`<b>οῦ (ὁ) :<br>      1</b> action de traîner derrière soi, <i>fig</i>. de traîner en longueur, POL. <i>4, 49, 1 ; p. suite,</i> laisser-aller, négligence, POL. <i>40, 2, 10</i>.<br><b>      2</b> moquerie, dérision, STOÏC. (STOB. <i>Ecl. 2, 222).</i><p><b>Étym</b>. ἐπισύρω.`

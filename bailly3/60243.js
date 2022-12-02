@@ -1,0 +1,1 @@
+lar[60243]=`<b>λεκιθο·λαχανό·πωλις, ιδος (ἡ)</b> <font color="purple">[ῐᾰᾰῐδ]</font> marchande de pois et de légumes, AR. <i>Lys. 458</i>.<p><b>Étym</b>. λέκιθος, λάχανον, πωλέω.`

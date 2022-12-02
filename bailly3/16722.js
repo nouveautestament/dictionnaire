@@ -1,0 +1,1 @@
+lar[16722]=`<i>adv</i>., sans indice, au hasard, XÉN. <i>Mem. 1, 4, 4</i>.`

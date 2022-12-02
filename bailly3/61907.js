@@ -1,0 +1,1 @@
+lar[61907]=`<b>λυκο·σπάς, άδος (ὁ, ἡ)</b> <font color="purple">[ῠᾰδ]</font><br><b>      1</b> déchiré <i>ou</i> ravi par un loup <i>ou</i> des loups, NIC. <i>Th. 742</i>.<br><b>      2</b> ὁ λ. cheval sauvage <i>de la basse Italie,</i> EL. <i>N.A. 16, 24</i> ; PLUT. <i>M. 641f</i>.<p><b>Étym</b>. λ. σπάω.`

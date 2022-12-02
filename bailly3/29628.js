@@ -1,0 +1,1 @@
+lar[29628]=`<b>ή, όν</b>, propre à exhorter, qui encourage, M. TYR. <i>94, 35 Dübn.</i> ; ἐγκ. ἐπίρρημα, DYSC. <i>Synt. 258, 11,</i> adverbe d’exhortation (<i>par ex</i>. ἄγε, φέρε, <i>etc</i>.).<p><b>Étym</b>. ἐγκελεύω.`

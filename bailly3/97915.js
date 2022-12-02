@@ -1,0 +1,1 @@
+lar[97915]=`<b>ταχύ·πτερνος, ος, ον</b> <font color="purple">[ᾰ]</font> au pied (<i>litt</i>. au talon) agile. THGN. <i>551</i>.<p><b>Étym</b>. τ. πτέρνα.`

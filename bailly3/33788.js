@@ -1,0 +1,1 @@
+lar[33788]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui introduit, <i>gén</i>. PROCL. <i>Plat. Parm. 651 Stallb</i>.<p><b>Étym</b>. ἐνάγω.`

@@ -1,0 +1,1 @@
+lar[86501]=`<b>προ·στρατεύομαι</b> <font color="purple">[ᾰ]</font> faire auparavant une expédition, CHRYS.`

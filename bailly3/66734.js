@@ -1,0 +1,1 @@
+lar[66734]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. μορμύρος, DORION (ATH. <i>313e</i>) ; OPP. <i>H. 1, 100</i>.`

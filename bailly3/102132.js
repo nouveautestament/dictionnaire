@@ -1,0 +1,1 @@
+lar[102132]=`<b>ὑπ·εκ·προθέω</b>, s’élancer du fond <i>ou</i> de derrière et courir en avant, IL. <i>21, 604</i> ; OD. <i>8, 125</i> ; A.RH. <i>4, 937</i> ; τινά, IL. <i>9, 506,</i> de manière à dépasser, <i>ou</i> atteindre qqn.<p>➳ <i>Prés. ind. 3 sg</i>. ὑπεκπροθέει, IL. <i>9, 506 ; part. acc. sg</i>. ὑπεκπροθέοντα, IL. <i>21, 604</i>.`

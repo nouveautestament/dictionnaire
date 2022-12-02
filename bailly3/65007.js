@@ -1,0 +1,1 @@
+lar[65007]=`<b>μετα·τροπαλίζομαι</b> (<i>seul. prés</i>.) <font color="purple">[πᾰ]</font> se retourner en fuyant, IL. <i>20, 190</i>.<p><b>Étym</b>. μετατροπή.`

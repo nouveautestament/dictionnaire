@@ -1,0 +1,1 @@
+lar[61027]=`<b>ου (τὸ)</b> <font color="purple">[ῐῐδ]</font> petite pierre, PLAT. <i>Phæd. 110d ;</i> PLUT. <i>M. 979b ;</i> LUC. <i>H. conscr. 4 ; particul.</i> :<br><b>      1</b> pierre, calcul vésical, HPC. <i>215f etg</i>.<br><b>      2</b> pierre précieuse, CLÉM. <i>252</i>.<p><b>Étym</b>. λίθος.`

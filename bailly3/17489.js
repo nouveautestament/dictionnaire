@@ -1,0 +1,1 @@
+lar[17489]=`<b>αὐτο·θελής, ής, ές</b>, qui agit de sa propre volonté, ANTH. <i>9, 79</i>.<p><b>Étym</b>. αὐ. θέλω.`

@@ -1,0 +1,1 @@
+lar[86254]=`<b>προσ·παθῶς</b> <font color="purple">[ᾰ]</font> <i>adv</i>., avec un goût passionné pour, CLÉM. <i>554, 577</i>.<p><b>Étym</b>. π. πάθος.`

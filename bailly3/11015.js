@@ -1,0 +1,1 @@
+lar[11015]=`<b>ας (ἡ)</b> abstinence de vin, STR. <i>706</i>.<p><b>Étym</b>. ἄοινος.`

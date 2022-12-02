@@ -1,0 +1,1 @@
+lar[47974]=`<b>ου (ὁ)</b> thon, <i>poisson de mer</i>, ORACL. (HDT. <i>1, 61</i>) ; ESCHL. <i>Pers. 424</i> ; ARSTT. <i>H.A. 6, 17, 12, etc</i>.<p><b>Étym</b>. <i>pré-grec ; rapprochement avec</i> θύνω, θύω <i>par étym. populaire</i>.`

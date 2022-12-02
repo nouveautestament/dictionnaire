@@ -1,0 +1,1 @@
+lar[97097]=`<b>σχοινο·πλόκος, ος, ον</b>, qui tresse du jonc ; <i>subst</i>. cordier, HPC. <i>1120c ;</i> PLUT. <i>M. 473c</i>.<p><b>Étym</b>. σχοῖνος, πλέκω.`

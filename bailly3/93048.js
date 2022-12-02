@@ -1,0 +1,1 @@
+lar[93048]=`<font color="darkgreen">(<i>f</i>. στρώσω, <i>ao</i>. ἔστρωσα, <i>pf</i>. ἔστρωκα, <i>pl.q.pf</i>. ἐστρώκειν ; <i>pass. f</i>. στρωθήσομαι, <i>ao</i>. ἐστρώθην, <i>pf</i>. ἔστρωμαι, <i>pl.q.pf</i>. ἐστρώμην)</font> étendre (un tapis, <i>etc</i>.) PLUT. <i>Artax. 22</i> ; ATH. <i>581 ; au pass</i>. PLAT. <i>Rsp. 372b</i>.<p><b>Étym</b>. στόρνυμι, στορέννυμι.`

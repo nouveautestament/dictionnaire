@@ -1,0 +1,1 @@
+lar[31814]=`<b>ἐκ·περιτρέχω</b>, courir çà et là tout autour, ARISTÉN. <i>1, 27</i>.`

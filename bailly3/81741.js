@@ -1,0 +1,1 @@
+lar[81741]=`<b>πολυ·αῦλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾰκ]</font> aux nombreux sillons, <i>càd</i>. vaste, ANTH. <i>6, 238</i> ; SIB. <i>4, 72</i>.<p><b>Étym</b>. π. αὖ.`

@@ -1,0 +1,1 @@
+lar[33012]=`<b>εος-ους (τὸ)</b> Hélos :<br><b>      1</b> <i>brg de Laconie (auj</i>. Élos) IL. <i>2, 584</i> ; THC. <i>4, 54</i> ; XÉN. <i>Hell. 6, 5, 32</i>.<br><b>      2</b> <i>brg d’Élide,</i> IL. <i>2, 594</i>.`

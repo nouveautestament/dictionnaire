@@ -1,0 +1,1 @@
+lar[92909]=`(<i>seul. prés. et impf</i>.) se consumer, dépérir, être épuisé, IL. <i>15, 512</i> ; OD. <i>12, 351</i> ; στρ. καμάτοισι, A.RH. <i>4, 384</i> ; νόσῳ, CALL. <i>Cer. 68,</i> être épuisé par les fatigues, par la maladie.<p><b>Étym</b>. <i>inconnue</i>.`

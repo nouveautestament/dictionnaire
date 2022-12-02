@@ -1,0 +1,1 @@
+lar[40754]=`<b>ος, ον</b>, qui mugit, mugissant, IL. <i>18, 580</i>.<p><b>Étym</b>. ἐρεύγομαι.`

@@ -1,0 +1,1 @@
+lar[64068]=`<b>ήεσσα, ῆεν</b>, riche en abeilles, NIC. <i>Th. 11</i> ; COL. <i>23</i>.<p><b>Étym</b>. μέλισσα.`

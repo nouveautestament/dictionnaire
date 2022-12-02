@@ -1,0 +1,1 @@
+lar[39769]=`<b>ἐπ·ιωγαί, ῶν (αἱ)</b> endroits de la côte où s’abritent les vaisseaux, OD. <i>5, 404</i> ; OPP. <i>H. 2, 550</i>.<p><b>Étym</b>. ἐπί, ἰωγή.`

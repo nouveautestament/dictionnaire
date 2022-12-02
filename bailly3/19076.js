@@ -1,0 +1,1 @@
+lar[19076]=`<b>οῦ (ὁ)</b> <font color="purple">[βῐ]</font> Le joueur de luth, <i>titre d’une comédie de Magnès,</i> SCH.-AR. <i>Eq. 519</i>.<p><b>Étym</b>. βαρβιτίζω.`

@@ -1,0 +1,1 @@
+lar[38505]=`<b>εως (ἡ) :<br>      1 <i>tr</i></b>. partage, répartition, HPC. <i>27, 32</i> ; CLÉM. <i>552</i>.<br><b>      2 <i>intr</i></b>. action de se consumer en se propageant, PLUT. <i>Lys. 12</i> ; DL. <i>10, 93</i>.<p><b>Étym</b>. ἐπινέμω.`

@@ -1,0 +1,1 @@
+lar[76989]=`<b>*Παρνασιάς</b>, <i>ion</i>. <b>Παρνησιάς, άδος</b> <font color="purple">[νᾱάδ]</font> <i>adj. f. c</i>. Παρνάσιος, EUR. <i>Ion 86</i>.`

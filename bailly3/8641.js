@@ -1,0 +1,1 @@
+lar[8641]=`<b>ητος (ἡ)</b> cousinage, <i>d’où</i> parenté, PLAT. <i>Leg. 871b ;</i> DÉM. <i>1068 fin</i>.<p><b>Étym</b>. ἀνεψιός.`

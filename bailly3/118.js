@@ -1,0 +1,1 @@
+lar[118]=`<i>adv</i>., avec intempérance, PANYAS. (<i>6, 8, p.-ê. mauv. leç. p</i>. ζαβλεμέως).<p><b>Étym</b>. ἀβλεμής.`

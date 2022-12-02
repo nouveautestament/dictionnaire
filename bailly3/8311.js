@@ -1,0 +1,1 @@
+lar[8311]=`<b>ἀ·νέμητος, ος, ον :<br>      1</b> non partagé, ESCHN. <i>14, 31</i> ; DÉM. <i>1083, 16</i>.<br><b>      2</b> qui n’a pas de part, <i>d’où</i> sans patrimoine, sans ressources, PLUT. <i>Cato mi. 26</i>.<p><b>Étym</b>. ἀ, -νέμω.`

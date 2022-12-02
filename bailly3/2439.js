@@ -1,0 +1,1 @@
+lar[2439]=`<b>αἰθερο·δρόμος, ος, ον</b>, qui court dans les airs, AR. <i>Av. 1381</i>.<p><b>Étym</b>. αἰθ. δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[20542]=`<b>(ὁ)</b> Boutaliôn, <i>litt</i>. le rustre, <i>titre de comédies d’Antiphane et de Xénarque</i>.`

@@ -1,0 +1,1 @@
+lar[50923]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> mauvais teint, DIOSC. <i>3, 1</i>.<p><b>Étym</b>. κακόχροος.`

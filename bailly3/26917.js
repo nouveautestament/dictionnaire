@@ -1,0 +1,1 @@
+lar[26917]=`<b>δι·οχυρόω-ῶ</b> (<i>part. pf. pass</i>. διωχυρωμένα) <font color="purple">[ῠ]</font> fortifier solidement, POL. <i>5, 46, 3</i>.`

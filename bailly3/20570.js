@@ -1,0 +1,1 @@
+lar[20570]=`<b>ου</b>, <i>adj. m</i>. de Boukhétes, CALL. (EM.) ; POLYEN.<p><b>Étym</b>. <i>v</i>. βούχετα.`

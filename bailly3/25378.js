@@ -1,0 +1,1 @@
+lar[25378]=`<b>δια·προστατεύω</b> <font color="purple">[τᾰ]</font> (<i>part. ao</i>. -εύσαντος) continuer de proposer, <i>acc</i>. POL. <i>4, 13, 7</i>.`

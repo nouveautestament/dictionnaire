@@ -1,0 +1,1 @@
+lar[58283]=`<b>Κτησι·φῶν, ῶντος (ὁ)</b> Ktèsiphôn (Ctésiphon) :<br><b>      1 (ὁ)</b> <i>n. d’h</i>. AR. <i>Ach. 1002</i> ; DÉM. <i>19 argum.</i><br><b>      2 (ἡ)</b> <i>n. de v</i>. LUC. <i>Nav. 34</i>.<p><b>Étym</b>. κτῆσις, φάω.`

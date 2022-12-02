@@ -1,0 +1,1 @@
+lar[11266]=`<font color="purple">[τᾰ]</font> <i>adv</i>., de toutes parts, DS. <i>20, 57</i> ; ἁ. γῆς, LUC. <i>D. mort. 9, 2,</i> de tous les points de la terre.`

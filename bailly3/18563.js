@@ -1,0 +1,1 @@
+lar[18563]=`<b>η, ον</b> <font color="purple">[ᾰῠῐ]</font> fait avec de la paille (feu) PLUT. <i>M. 658e</i>.<p><b>Étym</b>. ἄχυρον.`

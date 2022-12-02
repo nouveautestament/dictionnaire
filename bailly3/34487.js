@@ -1,0 +1,1 @@
+lar[34487]=`<b>ἔν·ηχος, ος, ον :<br>      1</b> qui a un son en soi-même : ἔνηχα ὄργανα, PHILLIS (ATH. <i>636c</i>) instruments à vent, <i>càd</i>. qui ont le son en eux, <i>p. opp. aux instruments à cordes</i>.<br><b>      2</b> sonore, PHILSTR. <i>266</i>.<p><b>Étym</b>. ἐν, ἦχος.`

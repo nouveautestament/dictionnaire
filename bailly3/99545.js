@@ -1,0 +1,1 @@
+lar[99545]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Tomaros (<i>auj</i>. Tómaros, <i>anc</i>. Olýtsikas) <i>mt. de Thesprotie,</i> DÉM. <i>Or. 21, 53 Baiter-Sauppe</i>.`

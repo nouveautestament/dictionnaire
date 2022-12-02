@@ -1,0 +1,1 @@
+lar[69198]=`<i>épq. et ion</i>. <b>Νυμφαίη, ης (ἡ)</b> Nymphæa, <i>î. de Calypso,</i> A.RH. <i>4, 574</i>.<p><b>Étym</b>. νύμφη.`

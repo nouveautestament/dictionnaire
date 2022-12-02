@@ -1,0 +1,1 @@
+lar[96812]=`<b>ας (ἡ)</b> Sphaktèria (Sphactérie, <i>auj</i>. Sfaktiría) <i>petite î. devant Pylos, sur la côte de Messénie,</i> THC. <i>4, 8</i> ; PLUT. <i>Alc. 14, etc</i>.<p><b>Étym</b>. <i>cf</i>. Σφαγία <i>et</i> Σφαγίαι.`

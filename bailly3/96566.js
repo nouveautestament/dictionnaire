@@ -1,0 +1,1 @@
+lar[96566]=`<b>εως (ἡ)</b> choc, conflit, ARÉT. <i>Cur. m. diut. 1, 13</i>.<p><b>Étym</b>. συρρήγνυμι.`

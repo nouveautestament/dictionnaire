@@ -1,0 +1,1 @@
+lar[36879]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>seul. voc</i>. Ἐπάφιε, fils d’Épaphos, <i>ép. de Bacchus,</i> ORPH. <i>H. 49, 7 ; 51, 9 dout</i>.`

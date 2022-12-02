@@ -1,0 +1,1 @@
+lar[5808]=`<b>ἀμπελο·γενής, ής, ές</b>, de l’espèce de la vigne, ARSTT. <i>Phys. 2, 8, 12</i>.<p><b>Étym</b>. ἄ. γένος.`

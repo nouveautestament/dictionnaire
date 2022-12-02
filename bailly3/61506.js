@@ -1,0 +1,1 @@
+lar[61506]=`<i>adv</i>., avec éloquence, PLUT. <i>M. 405</i>.<p>•<i> Sup</i>. -ώτατα, PLUT. <i>M. 968c</i>.<p><b>Étym</b>. λόγιος.`

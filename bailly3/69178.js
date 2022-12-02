@@ -1,0 +1,1 @@
+lar[69178]=`<b>ας (ἡ)</b> marche de nuit, POL. <i>5, 7, 3, etc.</i> ; PLUT. <i>M. 180a, etc</i>.<p><b>Étym</b>. νυκτοπόρος.`

@@ -1,0 +1,1 @@
+lar[95737]=`<b>ας (ἡ) :<br>      1</b> coopération, concours, assistance, ARSTT. <i>Probl. 4, 2, 4 ; au plur</i>. ARSTT. <i>Œc. 1, 3, 2</i> ; POL. <i>8, 35, 10</i>.<br><b>      2</b> <i>en mauv. part,</i> conspiration, DÉM. <i>1285, 17</i> ; DIN. <i>104, 33</i>.<p><b>Étym</b>. συνεργός.`

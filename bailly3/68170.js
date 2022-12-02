@@ -1,0 +1,1 @@
+lar[68170]=`<b>νεο·κόνητος, ος, ον</b>, nouvellement répandu (<i>propr</i>. nouvellement accompli) <i>en parl. du sang,</i> SOPH. <i>El. 1394 conj</i>.<p><b>Étym</b>. ν. κονέω.`

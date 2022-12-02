@@ -1,0 +1,1 @@
+lar[31276]=`<i>adv</i>., en lançant de loin, ATH. <i>25d</i>.<p>•<i> Sup</i>. -ώτατα, SYN. <i>269d</i>.<p><b>Étym</b>. ἑκηβόλος.`

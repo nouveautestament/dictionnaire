@@ -1,0 +1,1 @@
+lar[48502]=`<b>ου (τὸ)</b> légère transpiration, HPC. <i>1210g</i>.<p><b>Étym</b>. <i>dim. de</i> ἱδρώς.`

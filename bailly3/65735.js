@@ -1,0 +1,1 @@
+lar[65735]=`<b>μικρό·ρραξ, αγος (ὁ, ἡ)</b> <font color="purple">[ῑᾱγ]</font> qui a de petits pépins, DIOSC. <i>5, 2</i>.<p><b>Étym</b>. μ. ῥάξ.`

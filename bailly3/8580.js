@@ -1,0 +1,1 @@
+lar[8580]=`<b>ἀν·έσπερος, ος, ον</b>, sans soir, <i>càd</i>. sans fin, BAS. <i>1, 52 Migne</i>.<p><b>Étym</b>. ἀν-, ἑσπέρα.`

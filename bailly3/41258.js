@@ -1,0 +1,1 @@
+lar[41258]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> examen, recherche, SPT. <i>Job 10, 17 ; 12, 6 ; 31, 14</i>.<p><b>Étym</b>. ἐτάζω, <i>cf</i>. ἐτασμός.`

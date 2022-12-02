@@ -1,0 +1,1 @@
+lar[90615]=`<font color="purple">[ᾰ]</font> fouir, fouiller, <i>acc</i>. ARSTT. <i>Probl. 32, 6 et 13</i> ; PLUT. <i>M. 516d ;</i> σκ. ἄνθρακας, AR. <i>Pax 440, ou</i> πῦρ, PYTHAG. (DL. <i>8, 17</i>) ; PLUT. <i>Num. 14</i> ; LUC. <i>V.H. 2, 28,</i> tisonner, attiser du charbon <i>ou</i> du feu.<p><b>Étym</b>. σκάλλω.`

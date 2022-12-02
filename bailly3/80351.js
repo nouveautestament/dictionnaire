@@ -1,0 +1,1 @@
+lar[80351]=`<b>ά, όν</b> <font color="purple">[ῐᾰ]</font> sale, crasseux, EUR. <i>El. 183</i> ; CRAT. (<i>Com. fr. 2, 212</i>) ; EUP. <i>2-1, 529 Meineke</i> ; τὸ πιναρόν, LUC. <i>Somn. 8</i>, saleté ; souillé de larmes, A. PL. <i>4, 196</i>.<p>➳ <i>Ion</i>. πινηρός, HPC. (EROT. <i>p. 290).</i><p><b>Étym</b>. πίνος.`

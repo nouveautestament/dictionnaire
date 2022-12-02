@@ -1,0 +1,1 @@
+lar[19376]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font> semblable à une grenouille <i>ou</i> à un crapaud, <i>càd</i>. immonde, NYSS. <i>1, 200, etc</i>.<p><b>Étym</b>. βάτραχος, -ωδης.`

@@ -1,0 +1,1 @@
+lar[42880]=`<b>ατος (τὸ)</b> serment fait <i>ou</i> tenu loyalement, ESCHL. <i>Ch. 879 au pl</i>.<p><b>Étym</b>. εὔορκος.`

@@ -1,0 +1,1 @@
+lar[31424]=`<b>ἐκ·κηραίνω</b> <font color="darkgreen">(<i>ao. 3 pl</i>. ἐξεκήραναν)</font> engourdir, ESCHL. <i>Eum. 128</i>.`

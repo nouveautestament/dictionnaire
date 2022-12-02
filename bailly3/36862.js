@@ -1,0 +1,1 @@
+lar[36862]=`<b>ἐπ·αυτομολέω-ῶ</b> (<i>inf. ao</i>. -ῆσαι) venir de soi-même, πρός <i>et l’acc</i>. EL. <i>N.A. 2, 11</i>.`

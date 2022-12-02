@@ -1,0 +1,1 @@
+lar[102883]=`<i>adv</i>., avec orgueil, avec dédain, DC. <i>37, 5 et 49</i>.<p><b>Étym</b>. ὑπέρφρων.`

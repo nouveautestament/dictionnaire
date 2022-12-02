@@ -1,0 +1,1 @@
+lar[39177]=`<b>ας (ἡ)</b> attention, soin, sollicitude, BAS.<p><b>Étym</b>. ἐπιστρεφής.`

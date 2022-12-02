@@ -1,0 +1,1 @@
+lar[30985]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vers chacun des deux côtés, dans les deux endroits, <i>avec mouv</i>. PLAT. <i>Gorg. 523c, Phæd. 112e</i>.<p><b>Étym</b>. ἑκάτερος.`

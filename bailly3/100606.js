@@ -1,0 +1,1 @@
+lar[100606]=`<b>τρί·χαλος, ος, ον</b> <font color="purple">[ῐᾱ]</font> fendu en trois, <i>d’où</i> triple ; τρίχαλον κῦμα, ESCHL. <i>Sept. 760,</i> la troisième vague, le flot terrible.<p><b>Étym</b>. <i>dor. c</i>. *τρίχηλος, <i>de</i> τρ. χηλή.`

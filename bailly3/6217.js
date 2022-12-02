@@ -1,0 +1,1 @@
+lar[6217]=`<b>ἀμφι·κυκάω-ῶ</b> <font color="purple">[ῠ]</font> bouleverser, NIC. <i>Th. 602</i>.`

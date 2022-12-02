@@ -1,0 +1,1 @@
+lar[13595]=`<b>ἀπο·τῆλε</b>, <i>adv</i>., au loin, loin de, <i>gén</i>. ANTH. <i>7, 637</i>.<p><b>Étym</b>. ἀ. τῆλε.`

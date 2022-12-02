@@ -1,0 +1,1 @@
+lar[110203]=`<b>ὠκυ·ρόης, ου</b> <font color="purple">[ῠ]</font> <i>c</i>. ὠκύροος, A.RH. <i>2, 349, 650</i> ; ANTH. <i>9, 219</i>.<p>➳ <i>Dor</i>. ὠκυρόας, EUR. <i>Bacch. 569</i>.`

@@ -1,0 +1,1 @@
+lar[36096]=`<b>ἔξ·οινος, ος, ον</b>, pris de vin, ivre, MACH. (ATH. <i>349a dout</i>.) ; ALEX. (ATH. <i>613d</i>) ; EL. <i>V.H. 9, 26</i>.<p><b>Étym</b>. ἐξ, οἶνος.`

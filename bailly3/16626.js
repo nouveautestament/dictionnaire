@@ -1,0 +1,1 @@
+lar[16626]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui provoque la nausée, HPC. <i>Art. 794</i>.<br><b>      2</b> qui éprouve la nausée, HPC. <i>Acut. 395 ; d’où</i> dégoûté, blasé, PLUT.<p><b>Étym</b>. ἄση.`

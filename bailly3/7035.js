@@ -1,0 +1,1 @@
+lar[7035]=`<b>ἀνα·κυΐσκω</b> (<i>seul. prés</i>.) faire avorter, ARSTT. <i>H.A. 6, 19, 1</i>.`

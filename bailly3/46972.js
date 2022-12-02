@@ -1,0 +1,1 @@
+lar[46972]=`<b>ός, όν</b>, qui agit d’une manière chaleureuse, résolue, hardie, XÉN. <i>Mem. 1, 3, 9</i> ; LUC. <i>Tim. 2</i>.<p><b>Étym</b>. <i>contract. de</i> θερμοεργός.`

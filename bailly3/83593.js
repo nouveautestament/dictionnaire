@@ -1,0 +1,1 @@
+lar[83593]=`<b>προ·αναχώννυμι</b> (<i>seul. prés</i>.) amonceler auparavant, SYN. <i>Provid. p. 64</i>.`

@@ -1,0 +1,1 @@
+lar[36556]=`<b>ονος (ὁ)</b> <font color="purple">[ᾱ]</font> <i>mot. dor</i>. suivant, serviteur, CLITARQ. (ATH. <i>267c</i>).<p><b>Étym</b>. ἕπομαι.`

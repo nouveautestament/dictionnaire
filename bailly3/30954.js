@@ -1,0 +1,1 @@
+lar[30954]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Hékamèdè, <i>f</i>. IL. <i>11, 624 ; 14, 6</i>.<p><b>Étym</b>. ἑκάς, μήδομαι.`

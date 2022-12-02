@@ -1,0 +1,1 @@
+lar[41332]=`<font color="purple">[ῐ]</font> <i>adv.</i> : ἑ. ἔχειν πρός τι, ARR. <i>Epict. 3, 12, 7,</i> avoir de l’inclination vers.<p><b>Étym</b>. ἑτεροκλινής.`

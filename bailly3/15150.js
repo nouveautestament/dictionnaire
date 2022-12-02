@@ -1,0 +1,1 @@
+lar[15150]=`<b>ας (ἡ)</b> conduite infâme, mœurs infâmes, BAS. <i>4, 625d Migne</i>.<p><b>Étym</b>. ἀρρητοποιός.`

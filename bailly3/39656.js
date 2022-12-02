@@ -1,0 +1,1 @@
+lar[39656]=`<b>ἐπι·χαριεντίζομαι</b> <font color="purple">[ᾰ]</font> badiner agréablement, LUC. <i>Conv. 12</i>.`

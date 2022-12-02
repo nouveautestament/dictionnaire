@@ -1,0 +1,1 @@
+lar[64671]=`<i>adv</i>., de quantité variable, HÉPH. <i>p. 75</i>.`

@@ -1,0 +1,1 @@
+lar[10123]=`<b>ή, όν</b>, qui concerne la contradiction entre les lois, PLUT. <i>M. 741d</i>.<p><b>Étym</b>. ἀντινομία.`

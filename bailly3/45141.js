@@ -1,0 +1,1 @@
+lar[45141]=`<b>ἤ·κεστος, η, ον</b>, qui n’a pas encore senti l’aiguillon, indompté, IL. <i>6, 94, etc</i>.<p><b>Étym</b>. <i>épq. p</i>. ἄκεστος, <i>de</i> ἀ <i>priv. et</i> κεντέω.`

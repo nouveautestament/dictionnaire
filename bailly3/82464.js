@@ -1,0 +1,1 @@
+lar[82464]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> fécondité maternelle, ARSTT. <i>G.A. 3, 1, 16 ; 4, 4, 13</i>.<p><b>Étym</b>. πολυτόκος.`

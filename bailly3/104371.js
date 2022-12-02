@@ -1,0 +1,1 @@
+lar[104371]=`<b>ὑφ·έζομαι</b>, s’accroupir <i>ou</i> s’asseoir en dessous, OPP. <i>H. 2, 302</i>.`

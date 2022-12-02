@@ -1,0 +1,1 @@
+lar[25098]=`<b>εως (ἡ)</b> moquerie, raillerie, ATH. <i>220b</i>.<p><b>Étym</b>. διαμωκάομαι.`

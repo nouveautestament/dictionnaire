@@ -1,0 +1,1 @@
+lar[51292]=`<b>καλο·διδάσκαλος, ου</b> <font color="purple">[κᾰκᾰ]</font> <i>adj. m</i>. qui enseigne le bien, NT. <i>Tit. 2, 3</i>.<p><b>Étym</b>. κ. διδάσκαλος.`

@@ -1,0 +1,1 @@
+lar[106359]=`<b>α, ον</b>, de la plaine de Phlègres, ESCHL. <i>Eum. 295</i> ; EUR. <i>H.f. 1193</i>.<p><b>Étym</b>. Φλέγραι.`

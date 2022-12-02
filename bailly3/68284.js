@@ -1,0 +1,1 @@
+lar[68284]=`<b>νεο·τριβής, ής, ές</b> <font color="purple">[ῐ]</font> nouvellement battu, Ps.-PHOCYL. <i>167</i>.<p><b>Étym</b>. ν. τρίβω.`

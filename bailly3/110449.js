@@ -1,0 +1,1 @@
+lar[110449]=`<b>ὡρο·θετέω-ῶ :<br>      1</b> présider à la naissance de, <i>acc</i>. ANTH. <i>11, 160</i>.<br><b>      2</b> faire <i>ou</i> tirer l’horoscope de qqn, ANTH. <i>11, 161</i>.<p><b>Étym</b>. ὥρα, θετός.`

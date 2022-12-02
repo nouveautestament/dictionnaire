@@ -1,0 +1,1 @@
+lar[3362]=`<i>ou</i> <b>ἀκηρυκτί</b>, <i>adv</i>., :<br><b>      1</b> sans proclamation par héraut, DC. <i>50, 7</i>.<br><b>      2</b> sans héraut, THC. <i>2, 1</i>.<p><b>Étym</b>. ἀκήρυκτος.`

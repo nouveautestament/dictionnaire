@@ -1,0 +1,1 @@
+lar[100901]=`<b>η, ον</b> <font color="purple">[ῡῐ]</font> fait de loques, tout en haillons, JOS. <i>A.J. 5, 1, 16</i> ; ALCIPHR. <i>1, 36, etc.</i> ; M. TYR. <i>13, 5</i>.<p><b>Étym</b>. τρῦχος.`

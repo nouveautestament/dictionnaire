@@ -1,0 +1,1 @@
+lar[64382]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne des préoccupations, des soucis, ARTÉM. <i>1, 6</i>.<p><b>Étym</b>. μέριμνα.`

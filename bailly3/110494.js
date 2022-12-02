@@ -1,0 +1,1 @@
+lar[110494]=`<i>pour</i> ὡς, <i>quand il est placé après le mot auquel il se rapporte</i>.<p><b>Étym</b>. <i>v</i>. ὡς.`

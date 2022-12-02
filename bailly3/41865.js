@@ -1,0 +1,1 @@
+lar[41865]=`<b>εὐ·διακόσμητος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à mettre en ordre, POL. <i>8, 36, 9</i>.<p><b>Étym</b>. εὖ, διακοσμέω.`

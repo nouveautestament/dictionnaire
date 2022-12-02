@@ -1,0 +1,1 @@
+lar[78519]=`<b>εως (ἡ)</b> action de lier tout autour, MUSON. (STOB. <i>Fl. 1, 84).</i><p><b>Étym</b>. περιδέω.`

@@ -1,0 +1,1 @@
+lar[90506]=`<b>ά, όν</b> <font color="purple">[ῑ]</font><br><b>      1</b> de blé, qui concerne le blé, HPC. <i>Acut. 385</i> ; ARSTT. <i>Nic. 5, 7, 5</i> ; τὰ σιτηρά, TH. <i>H.P. 1, 10, 7, etc</i>. les céréales.<br><b>      2</b> comestible, XÉNOCR. <i>Al. 41</i>.<p><b>Étym</b>. σῖτος.`

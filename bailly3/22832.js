@@ -1,0 +1,1 @@
+lar[22832]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petite femme :<br><b>      1</b> <i>t. d’affection,</i> AR. <i>Th. 792, Vesp. 610</i> ; LUC. <i>Ic. 15, etc.</i><br><b>      2</b> <i>en mauv. part,</i> petit bout de femme, femmelette, DÉM. <i>787, 25</i> ; ARSTT. <i>Nic. 9, 11, 4</i>.<p><b>Étym</b>. γυνή.`

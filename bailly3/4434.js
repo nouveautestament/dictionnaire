@@ -1,0 +1,1 @@
+lar[4434]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> semblable à, <i>dat</i>. IL. <i>6, 401</i> ; OD. <i>8, 174</i> ; ESCHL. <i>Pr. 449</i>.<p>➳ <i>Fém. ion</i>. -ίη, DP. <i>1131</i>.<p><b>Étym</b>. <i>cf</i>. ἦλιξ.`

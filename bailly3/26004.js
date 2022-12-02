@@ -1,0 +1,1 @@
+lar[26004]=`<b>εως (ἡ)</b> <font color="purple">[δῐ]</font> leçon, enseignement, EUR. <i>Hec. 600</i>.<p><b>Étym</b>. διδάσκω.`

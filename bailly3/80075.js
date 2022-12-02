@@ -1,0 +1,1 @@
+lar[80075]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Πηλιωτικός EUR. <i>Med. 484, etc</i>.`

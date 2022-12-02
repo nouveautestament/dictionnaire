@@ -1,0 +1,1 @@
+lar[61943]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> <i>c</i>. λυμαντήριος, ARR. <i>Epict. 3, 7, 20</i>.`

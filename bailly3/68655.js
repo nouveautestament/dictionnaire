@@ -1,0 +1,1 @@
+lar[68655]=`<b>      1</b> jeûner, AR. <i>Th. 949, etc.</i> ; PLUT. <i>M. 626f.</i><br><b>      2</b> <i>fig</i>. jeûner de, s’abstenir de, EMPÉD. <i>454 Mullach</i>.<p><b>Étym</b>. νῆστις.`

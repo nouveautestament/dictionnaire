@@ -1,0 +1,1 @@
+lar[1628]=`<b>ἀεθλο·νικία, ας (ἡ)</b> <font color="purple">[νῑ]</font> victoire aux jeux, PD. <i>N. 3, 10</i>.<p><b>Étym</b>. ἄ. νίκη.`

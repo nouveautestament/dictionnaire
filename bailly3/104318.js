@@ -1,0 +1,1 @@
+lar[104318]=`<b>ὑστερο·λόγος, ος, ον</b>, qui joue les rôles secondaires, TÉLÈS (STOB. <i>Fl. 5, 67).</i><p><b>Étym</b>. ὕ. λέγω.`

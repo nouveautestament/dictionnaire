@@ -1,0 +1,1 @@
+lar[27039]=`<b>δι·σπορέω-ῶ</b> (<i>prés. pass</i>.) ensemencer deux fois, STR. <i>768</i>.<p><b>Étym</b>. δίς, σπόρος.`

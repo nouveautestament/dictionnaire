@@ -1,0 +1,1 @@
+lar[36347]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de fête, JOS. <i>A.J. 11, 6, 13</i> ; PLUT. <i>M. 270a ;</i> τὰ ἑορτάσιμα, LUC. <i>Sat. 11,</i> apprêts d’une fête.<p><b>Étym</b>. ἑορτάζω.`

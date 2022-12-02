@@ -1,0 +1,1 @@
+lar[63452]=`<b>μεγαλ·όφθαλμος, ος, ον</b> <font color="purple">[γᾰ]</font> aux grands yeux, ARSTT. <i>Physiogn. 6, 26</i>.<p><b>Étym</b>. μ. ὀφθαλμός.`

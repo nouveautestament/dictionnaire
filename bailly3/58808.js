@@ -1,0 +1,1 @@
+lar[58808]=`<b>κυνο·κομέω-ῶ</b> <font color="purple">[ῠ]</font> soigner <i>ou</i> élever des chiens, SYN. <i>66</i>.<p><b>Étym</b>. κ. κομέω.`

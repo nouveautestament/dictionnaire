@@ -1,0 +1,1 @@
+lar[86271]=`<b>προσ·παραλαμβάνω :<br>      1</b> prendre en outre, <i>acc</i>. DC. <i>42, 58</i>.<br><b>      2</b> embrasser <i>ou</i> comprendre en outre, <i>acc</i>. DIOSC. <i>1 proœm</i>.`

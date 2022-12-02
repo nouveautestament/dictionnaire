@@ -1,0 +1,1 @@
+lar[9777]=`<b>ἀντι·βοηθέω-ῶ</b>, venir à son tour au secours de, <i>dat</i>. THC. <i>6, 18, etc.</i> ; XÉN. <i>Hell. 7, 4, 2</i> ; PLAT. <i>Rsp. 559e</i>.`

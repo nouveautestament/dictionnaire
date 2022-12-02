@@ -1,0 +1,1 @@
+lar[109602]=`<b>ψεδνόω-ῶ</b>, rendre chauve, <i>au pass</i>. SEXT. <i>M. 1, 255</i>.<p><b>Étym</b>. ψεδνός.`

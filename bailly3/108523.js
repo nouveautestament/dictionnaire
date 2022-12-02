@@ -1,0 +1,1 @@
+lar[108523]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. de</i> χιτών, ANTH. <i>11, 154</i>.`

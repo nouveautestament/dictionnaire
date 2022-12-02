@@ -1,0 +1,1 @@
+lar[53609]=`<b>κατ·αύω</b>, dessécher, brûler, ALCM. <i>94</i>.`

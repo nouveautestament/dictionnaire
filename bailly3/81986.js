@@ -1,0 +1,1 @@
+lar[81986]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠκῑ]</font> fréquence <i>ou</i> variété de mouvements, ARÉT. <i>Caus. m. acut. 2, 2</i>.<p><b>Étym</b>. πολυκίνητος.`

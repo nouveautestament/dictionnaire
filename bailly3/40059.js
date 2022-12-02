@@ -1,0 +1,1 @@
+lar[40059]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de couver, incubation, ARSTT. <i>H.A. 6, 6, 3</i>.<p><b>Étym</b>. ἐπῳάζω.`

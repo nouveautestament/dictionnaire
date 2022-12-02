@@ -1,0 +1,1 @@
+lar[34040]=`<b>ἐν·ασελγαίνω</b> <font color="darkgreen">(<i>ao</i>. ἐνησέλγησα, <i>pf. pass</i>. ἐνησέλγημαι)</font> se porter à des actes de violence : εἴς τινα, DS. <i>Exc. 527, 58,</i> contre qqn.`

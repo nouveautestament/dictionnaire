@@ -1,0 +1,1 @@
+lar[39965]=`<b>ἑπτακαιδεκά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰᾰ]</font> de dix-sept coudées, A. CAR. <i>Mir. c. 98, p. 149</i>.<p><b>Étym</b>. ἑ. πῆχυς.`

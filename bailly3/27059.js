@@ -1,0 +1,1 @@
+lar[27059]=`<b>οῦ (ὁ)</b> doute, incertitude, PLUT. <i>M. 214e</i>.<p><b>Étym</b>. διστάζω.`

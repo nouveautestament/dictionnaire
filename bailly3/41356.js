@@ -1,0 +1,1 @@
+lar[41356]=`<b>ἑτερο·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui erre de côté et d’autre, NIC. <i>Al. 243</i>.<p><b>Étym</b>. ἕ. πλανάομαι.`

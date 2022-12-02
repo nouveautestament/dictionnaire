@@ -1,0 +1,1 @@
+lar[96453]=`<b>ου (τὸ) :<br>      1</b> promesse avec serment, DH. <i>10, 31</i>.<br><b>      2</b> déclaration avec serment, LGS <i>4, 31</i>.<p><b>Étym</b>. συνόμνυμι.`

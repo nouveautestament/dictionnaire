@@ -1,0 +1,1 @@
+lar[1744]=`<i>adv</i>., d’une façon inespérée, ESCHL. <i>Pers. 261</i>.<p><b>Étym</b>. ἄελπτος.`

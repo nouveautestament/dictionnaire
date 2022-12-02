@@ -1,0 +1,1 @@
+lar[45732]=`<b>ἠπειρο·γενής, ής, ές</b>, né sur la terre ferme, ESCHL. <i>Pers. 42</i>.<p><b>Étym</b>. ἤπειρος, γίγνομαι.`

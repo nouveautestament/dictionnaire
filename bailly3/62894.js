@@ -1,0 +1,1 @@
+lar[62894]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> consomption, épuisement, GAL. <i>1, 42, etc</i>.<p><b>Étym</b>. μαραίνω.`

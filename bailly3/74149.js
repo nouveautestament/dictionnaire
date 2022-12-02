@@ -1,0 +1,1 @@
+lar[74149]=`<b>παγό·λυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> de glace fondue, ORIB. <i>77 Matthäi</i>.<p><b>Étym</b>. πάγος, λυτός.`

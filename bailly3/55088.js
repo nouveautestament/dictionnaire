@@ -1,0 +1,1 @@
+lar[55088]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne la tête, de la tête, DIOSC. <i>3, 55</i> ; GAL. <i>13, 698</i>.<p><b>Étym</b>. κεφαλή.`

@@ -1,0 +1,1 @@
+lar[32972]=`<b>ἐλλογέω-ῶ</b>, porter en compte, imputer, NT. <i>Rom. 5, 13</i>.<p><b>Étym</b>. ἔλλογος.`

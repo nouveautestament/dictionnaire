@@ -1,0 +1,1 @@
+lar[22960]=`<b>οῦ</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui déchire, <i>en parl. de l’envie,</i> ANACR. <i>42, 10</i>.<p><b>Étym</b>. δαΐζω.`

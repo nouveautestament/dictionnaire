@@ -1,0 +1,1 @@
+lar[63481]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le fils de Mégamèdès, HH. <i>Merc. 100</i>.`

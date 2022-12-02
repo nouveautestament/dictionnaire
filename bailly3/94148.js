@@ -1,0 +1,1 @@
+lar[94148]=`<b>συμ·παχύνω</b> <font color="purple">[ᾰ ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> rendre épais <i>ou</i> compact, HPC. <i>510, 11</i> ; D. PHAL. <i>§ 158</i>.`

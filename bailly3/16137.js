@@ -1,0 +1,1 @@
+lar[16137]=`<b>(ὁ)</b> Astaspès, <i>Perse,</i> ESCHL.`

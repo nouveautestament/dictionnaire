@@ -1,0 +1,1 @@
+lar[58369]=`<b>κυαν·ώπης, ου</b> <font color="purple">[ῠᾰ]</font> <i>adj. m</i>. aux yeux sombres <i>ou</i> noirs, OPP. <i>C. 1, 307</i>.<p><b>Étym</b>. κυανός², ὤψ.`

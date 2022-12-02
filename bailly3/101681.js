@@ -1,0 +1,1 @@
+lar[101681]=`<b>ης (ἡ)</b> Hylæè (<i>litt</i>. la région boisée) <i>contrée de la Sarmatie, à l’E. du Borysthène,</i> HDT. <i>4, 9, etc</i>.<p><b>Étym</b>. <i>fém. de</i> ὑλαῖος.`

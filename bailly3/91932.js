@@ -1,0 +1,1 @@
+lar[91932]=`<b>σπλαγχνο·τόμος, ος, ον</b>, qui découpe les entrailles de la victime, HÉGÉSANDRE (ATH. <i>147a</i>).<p><b>Étym</b>. σπλ. τέμνω.`

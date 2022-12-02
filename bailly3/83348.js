@@ -1,0 +1,1 @@
+lar[83348]=`<b>εος-ους (τὸ)</b> objet de respect, ESCHL. <i>Pers. 623</i> ; πρ. Ἀργείων, ESCHL. <i>Ag. 855, 1393,</i> l’auguste assemblée des Argiens.<p><b>Étym</b>. πρέσβυς.`

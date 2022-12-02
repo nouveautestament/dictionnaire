@@ -1,0 +1,1 @@
+lar[59623]=`<b>οῦ</b>, <i>adj. m.</i> :<br><b>      1</b> qui rue, XÉN. <i>Mem. 3, 3, 4</i>.<br><b>      2</b> qui foule, qui presse : ληνοῦ, ANTH. <i>9, 403,</i> le fouleur du pressoir.<p><b>Étym</b>. λακτίζω.`

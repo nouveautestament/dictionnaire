@@ -1,0 +1,1 @@
+lar[97932]=`<i>dor. et éol. c</i>. τῶν, <i>gén. pl. fém. de</i> ὁ, ἡ, τό, <i>pron. relat</i>.`

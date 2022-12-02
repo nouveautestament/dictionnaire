@@ -1,0 +1,1 @@
+lar[81414]=`<b>ποικιλό·τευκτος, ος, ον</b> <font color="purple">[ῐ]</font> habilement travaillé, <i>d’où</i> artificieux, ANTH. <i>9, 482</i>.<p><b>Étym</b>. π. τεύχω.`

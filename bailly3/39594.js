@@ -1,0 +1,1 @@
+lar[39594]=`<b>ἐπι·φοινικίζω</b> <font color="purple">[νῑ]</font> tirer sur le rouge pourpre, TH. <i>fr. 20, 32</i>.<p><b>Étym</b>. ἐπί, φοῖνιξ.`

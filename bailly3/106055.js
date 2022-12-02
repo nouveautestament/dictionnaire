@@ -1,0 +1,1 @@
+lar[106055]=`<b>φιλ·οπωριστής, οῦ (ὁ)</b> <font color="purple">[φῐ]</font> qui aime les fruits de l’automne, ANTH. <i>9, 563</i>.<p><b>Étym</b>. φ. ὀπώρα.`

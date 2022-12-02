@@ -1,0 +1,1 @@
+lar[97342]=`<b>ταγέω-ῶ</b> <font color="purple">[ᾱ]</font> (<i>seul. prés. inf</i>.) commander à, <i>gén</i>. ESCHL. <i>Pers. 764</i>.<p><b>Étym</b>. ταγός.`

@@ -1,0 +1,1 @@
+lar[94640]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par synalèphe, SEXT. <i>M. 1, 165</i>.`

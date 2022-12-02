@@ -1,0 +1,1 @@
+lar[73915]=`<b>ή, όν</b>, qui concerne les moyens de transport, ASCLÉPIOD. TACT. <i>1, 3</i>.<p><b>Étym</b>. ὄχημα.`

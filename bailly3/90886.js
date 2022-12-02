@@ -1,0 +1,1 @@
+lar[90886]=`<b>σκια·μάχος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> qui combat contre des ombres, PHIL. <i>1, 199</i>.<p><b>Étym</b>. σκιά, μάχομαι.`

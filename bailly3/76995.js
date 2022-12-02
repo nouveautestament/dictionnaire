@@ -1,0 +1,1 @@
+lar[76995]=`<b>ηθος</b> (ἡ, <i>qqf</i>. ὁ) le Parnès (<i>auj</i>. Párnitha), <i>chaîne de mt. entre l’Attique et la Béotie</i>.<p>➳ ἡ Π. AR. <i>Nub. 323</i> ; THC. <i>2, 23, etc.</i> ; ὁ Π. ANTIPH. (<i>Com. fr. 3, 111</i>).`

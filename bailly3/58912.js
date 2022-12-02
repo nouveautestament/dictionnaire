@@ -1,0 +1,1 @@
+lar[58912]=`<b>η, ον</b> <font color="purple">[ῡῐ]</font> de cyprus, DIOSC. <i>1, 18</i> ; κύπρινον ἔλαιον <i>ou abs</i>. τὸ κύπρινον, DIOSC. <i>1, 65, 124,</i> huile <i>ou</i> onguent de cyprus.<p><b>Étym</b>. κύπρος.`

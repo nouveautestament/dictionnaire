@@ -1,0 +1,1 @@
+lar[50716]=`<b>κακο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> d’un vilain aspect, DC. <i>78, 9</i>.<p><b>Étym</b>. κ. εἶδος.`

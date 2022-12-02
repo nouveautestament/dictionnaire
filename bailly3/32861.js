@@ -1,0 +1,1 @@
+lar[32861]=`<i>adv</i>., en tirant, en traînant, par violence, HÉS. <i>Sc. 302</i>.<p><b>Étym</b>. ἕλκω, -δον.`

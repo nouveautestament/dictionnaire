@@ -1,0 +1,1 @@
+lar[82023]=`<b>πολύ·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> à plusieurs têtes, EUR. <i>Bacch. 1017 ; fig</i>. SIB. <i>3, 176</i>.<p><b>Étym</b>. π. *κρᾶνον.`

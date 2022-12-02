@@ -1,0 +1,1 @@
+lar[53927]=`<b>κατ·εράω-ῶ</b> <font color="darkgreen">(<i>ao</i>. κατήρασα)</font> soutirer, décanter, STR. <i>812 ; fig</i>. D. PHAL. <i>326</i>.`

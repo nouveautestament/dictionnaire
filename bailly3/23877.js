@@ -1,0 +1,1 @@
+lar[23877]=`<b>εως (ἡ)</b> croissance en arbre, TH. <i>C.P. 2, 15, 5</i>.<p><b>Étym</b>. δενδρόω.`

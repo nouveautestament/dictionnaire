@@ -1,0 +1,1 @@
+lar[58378]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> maison de jeu, ESCHN. <i>8, 22</i>.<p><b>Étym</b>. κύβος.`

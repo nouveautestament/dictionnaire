@@ -1,0 +1,1 @@
+lar[50065]=`<b>ας (ἡ)</b> marchande de poissons, PHÉRÉCR. <i>fr. 276</i>.<p><b>Étym</b>. ἰχθυοπώλης.`

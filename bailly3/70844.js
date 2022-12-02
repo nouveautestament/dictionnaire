@@ -1,0 +1,1 @@
+lar[70844]=`<b>ὀκτά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> de huit mois, HPC. <i>1031c ;</i> XÉN. <i>Cyn. 7, 6</i> ; ARSTT. <i>H.A. 5, 14, etc</i>.<p>➳ <i>Fém</i>. -η, ARSTT. <i>H.A. 7, 4, 2</i>.<p><b>Étym</b>. ὀ. μήν.`

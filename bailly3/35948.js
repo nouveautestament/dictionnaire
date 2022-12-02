@@ -1,0 +1,1 @@
+lar[35948]=`<b>ἐξ·ηλιάζω</b>, exposer au soleil, brûler <i>ou</i> faire périr en exposant au soleil, SPT. <i>2Reg. 21, 6</i>.<p><b>Étym</b>. ἐξ, ἥλιος.`

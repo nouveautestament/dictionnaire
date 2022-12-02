@@ -1,0 +1,1 @@
+lar[78392]=`<b>περι·ανίστημι</b> <font color="purple">[ᾰ]</font> faire lever tout autour, PHIL. <i>2, 552</i>.<br><b><i>Moy.</i></b> se lever, se réveiller, APD. <i>2, 1, 4</i>.`

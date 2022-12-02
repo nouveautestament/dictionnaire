@@ -1,0 +1,1 @@
+lar[36466]=`<b>ἐπ·ακρία, ας (ἡ)</b> le pays haut, <i>région de l’Attique,</i> STR. <i>397</i>.<p><b>Étym</b>. ἐπί, ἄκρος.`

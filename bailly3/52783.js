@@ -1,0 +1,1 @@
+lar[52783]=`<b>κατα·λωφέω-ῶ</b> <font color="darkgreen">(<i>impf. ion</i>. κατελώφεον)</font> reposer de, <i>gén</i>. A.RH. <i>3, 616</i>.`

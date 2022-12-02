@@ -1,0 +1,1 @@
+lar[7666]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> sorte de gâteau léger, <i>litt</i>. « bien levé », ATH. <i>114a</i>.<p><b>Étym</b>. ἀνίστημι.`

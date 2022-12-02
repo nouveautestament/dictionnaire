@@ -1,0 +1,1 @@
+lar[108128]=`<b>χειρό·δεικτος, ος, ον</b>, qu’on montre de la main, visible, SOPH. <i>O.R. 901</i>.<p><b>Étym</b>. χ. δείκνυμι.`

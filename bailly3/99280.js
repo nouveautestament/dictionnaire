@@ -1,0 +1,1 @@
+lar[99280]=`<b>ή, όν</b> <font color="purple">[τῑμ]</font> enclin à se venger, vindicatif, ARSTT. <i>Nic. 4, 5, 4</i> ; τὰ τιμωρητικά, ARSTT. <i>Rhet. 1, 10, 17,</i> actes de vengeance.<p><b>Étym</b>. τιμωρέω.`

@@ -1,0 +1,1 @@
+lar[74992]=`<b>παν·επίκλοπος, ος, ον</b> <font color="purple">[ᾰ]</font> tout à fait rusé, fourbe, OPP. <i>C. 2, 28</i>.<p><b>Étym</b>. π. ἐπίκλοπος.`

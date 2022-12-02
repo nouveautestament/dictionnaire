@@ -1,0 +1,1 @@
+lar[38413]=`<b>ἐπι·μερίζω :<br>      1</b> répartir, distribuer, DH. <i>2, 50 ; t. de gr</i>. ἐπιμεριζόμενον ὄνομα, D. THR. <i>636, 13,</i> nom distributif (<i>p. ex</i>. ἕτερος, ἑκάτερος, ἕκαστος) ; <i>cf</i>. DYSC. <i>Synt. 92, 21</i>.<br><b>      2</b> détailler, énumérer, STR. <i>587</i>.`

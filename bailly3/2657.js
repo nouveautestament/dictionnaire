@@ -1,0 +1,1 @@
+lar[2657]=`<font color="purple">[δᾱ]</font> <i>dor. c</i>. Αἰνησίδημος.`

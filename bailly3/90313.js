@@ -1,0 +1,1 @@
+lar[90313]=`<b>σιλφιο·φόρος, ος, ον</b>, qui produit du silphium, STR. <i>133</i> ; PTOL. <i>4, 410</i>.<p><b>Étym</b>. σίλφιον, φέρω.`

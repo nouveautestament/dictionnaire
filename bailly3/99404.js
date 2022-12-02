@@ -1,0 +1,1 @@
+lar[99404]=`<b>η, ον</b> <font color="purple">[ῑῐ]</font> du blé τίφη, ORIB. <i>1, 8, p. 24, 2</i>.`

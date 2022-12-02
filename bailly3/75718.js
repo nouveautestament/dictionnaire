@@ -1,0 +1,1 @@
+lar[75718]=`<b>παρα·κεντέω-ῶ</b>, piquer sur le côté, TH. <i>H.P. 5, 9, 4 ; t. de méd</i>. faire une ponction, GAL. <i>2, 360, 396</i>.`

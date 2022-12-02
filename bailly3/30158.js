@@ -1,0 +1,1 @@
+lar[30158]=`<b>ῆρος</b>, <i>adj. m</i>. qui agit volontairement <i>ou</i> volontiers, empressé, OD. <i>2, 292</i>.<p><b>Étym</b>. ἐθέλω.`

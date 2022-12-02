@@ -1,0 +1,1 @@
+lar[84985]=`<b>προπολέω-ῶ</b>, être ministre d’un temple, <i>d’où au pass</i>. φωνὴ προπολουμένη, A. TAT. <i>4, 15,</i> voix de l’oracle, <i>litt</i>. « employée au service d’un dieu ».<p><b>Étym</b>. πρόπολος.`

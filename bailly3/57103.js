@@ -1,0 +1,1 @@
+lar[57103]=`<b>ου (ὁ)</b> = <i>lat</i>. Cornūtus, <i>n. d’h. rom</i>. PLUT. <i>Mar. 43, etc</i>.`

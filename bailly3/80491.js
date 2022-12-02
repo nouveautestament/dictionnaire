@@ -1,0 +1,1 @@
+lar[80491]=`<b>ατος (τὸ) :<br>      1</b> ce qui fait foi d’une chose, gage, preuve, EMPÉD. <i>106 Mullach</i> ; ESCHL. <i>Ch. 977, etc.</i> ; ARSTT. <i>Rhet. 1, 15, 17 ; au pl</i>. πιστώματα γηραλέα, ESCHL. <i>Pers. 171</i>, vieillards sûrs, fidèles.<br><b>      2</b> assurance, confiance, EPIC. (DL. <i>10, 154).</i><p><b>Étym</b>. πιστόω.`

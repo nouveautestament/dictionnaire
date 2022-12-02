@@ -1,0 +1,1 @@
+lar[100465]=`<b>τρισ·κατάρατος, ος, ον</b> <font color="purple">[ᾰᾰᾱ]</font> trois fois digne d’être maudit, DÉM. <i>794, 24</i> ; MÉN. (EM. <i>413, 6</i>).`

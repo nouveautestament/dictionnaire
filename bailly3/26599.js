@@ -1,0 +1,1 @@
+lar[26599]=`<b>έως (ὁ)</b> pêcheur au filet, STR. <i>384</i> ; EL. <i>N.A. 1, 12</i>.<p><b>Étym</b>. δίκτυον.`

@@ -1,0 +1,1 @@
+lar[13493]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> décomposition, dissolution, CLÉM. <i>458</i>.<p><b>Étym</b>. ἀποσυνίστημι.`

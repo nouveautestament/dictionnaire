@@ -1,0 +1,1 @@
+lar[28756]=`<b>δυσ·παραβοήθητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qu’il est difficile de secourir, POL. <i>5, 22, 7</i>.<p><b>Étym</b>. δ. παραβοηθέω.`

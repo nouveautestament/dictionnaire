@@ -1,0 +1,1 @@
+lar[2423]=`<b>ωνος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. brûlé <i>ou</i> noirci par le soleil, THCR. <i>Idyl. 7, 138</i>.<p><b>Étym</b>. αἴθαλος.`

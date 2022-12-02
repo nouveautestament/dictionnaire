@@ -1,0 +1,1 @@
+lar[100891]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> homme sensuel, ATH. <i>7a ;</i> DS. <i>Exc. 459, 82</i>.<p><b>Étym</b>. τρυφάω.`

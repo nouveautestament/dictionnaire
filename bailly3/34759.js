@@ -1,0 +1,1 @@
+lar[34759]=`<b>ης (ἡ)</b> (<i>seul. dat. pl</i>. ἐννεσίῃσιν, IL. <i>5, 894</i> ; HÉS. <i>Th. 494</i> ; CALL. <i>Dian. 108,</i> Q. SM. <i>3, 475 ; postér. au gén</i>. ἐννεσιάων, A.RH. <i>3, 1364</i>) suggestion, conseil, <i>avec le gén. de la personne</i>.<p><b>Étym</b>. <i>pour</i> *ἐνεσίη, <i>du th</i>. ἐνε- <i>de</i> ἐνίημι.`

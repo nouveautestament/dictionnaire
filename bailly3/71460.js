@@ -1,0 +1,1 @@
+lar[71460]=`<b>ὁμο·δέμνιος, ος, ον</b>, qui a la même couche, époux <i>ou</i> épouse, ESCHL. <i>Ag. 1108</i> ; MUS. <i>70</i>.<p><b>Étym</b>. ὁμ. δέμνιον.`

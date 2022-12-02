@@ -1,0 +1,1 @@
+lar[48263]=`<i>ou</i> <b>Ἰάρφας, α (ὁ)</b> <font color="purple">[βᾱ, φᾱ]</font> Iarbas <i>ou</i> Iarphas, <i>roi de Numidie,</i> PLUT. <i>Pomp. 12</i>.`

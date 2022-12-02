@@ -1,0 +1,1 @@
+lar[52809]=`<b>κατα·μεγαλοφρονέω-ῶ</b> <font color="purple">[γᾰ]</font> éprouver des sentiments de fierté, CLÉM. <i>274</i> ; τινος, CLÉM. <i>538,</i> regarder qqe ch. avec dédain.`

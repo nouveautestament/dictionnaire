@@ -1,0 +1,1 @@
+lar[25087]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῡ]</font> moisissure <i>ou</i> putréfaction profonde, SOR. <i>Obst. p. 111 Erm</i>.<p><b>Étym</b>. διαμυδάω.`

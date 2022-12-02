@@ -1,0 +1,1 @@
+lar[28871]=`<b>δυσ·πρόσωπος, ος, ον</b>, d’aspect terrible, PLUT. <i>Mar. 15</i>.<p><b>Étym</b>. δ. πρόσωπον.`

@@ -1,0 +1,1 @@
+lar[96197]=`<b>ή, όν</b>, qui embrasse d’un coup d’œil, perspicace, pénétrant, PLAT. <i>Rsp. 537c ;</i> ARSTT. <i>Plant. 1, 7, 10</i>.<p><b>Étym</b>. συνόψομαι.`

@@ -1,0 +1,1 @@
+lar[8628]=`<b>ἀ·νέφελος, ος, ον :<br>      1</b> sans nuage, serein, OD. <i>6, 45</i> ; ARSTT. <i>Mund. 4, 4</i> ; PLUT. <i>Arat. 21</i>.<br><b>      2</b> <i>fig</i>. non voilé, SOPH. <i>El. 1246</i>.<p>➳ <font color="purple">[ᾱ]</font> OD. <i>l. c.</i> ; ARAT. <i>415 (var</i>. ἀννέφ-).<p><b>Étym</b>. ἀ, νεφέλη.`

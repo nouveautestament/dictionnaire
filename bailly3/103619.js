@@ -1,0 +1,1 @@
+lar[103619]=`<b>ὑπο·νοτίζω</b>, mouiller en dessous <i>ou</i> un peu, GAL. <i>14, 485</i>.`

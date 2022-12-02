@@ -1,0 +1,1 @@
+lar[42859]=`<b>εὔ·ομβρος, ος, ον</b>, bien arrosé par la pluie, STR. <i>183</i>.<p><b>Étym</b>. εὖ, ὄμβρος.`

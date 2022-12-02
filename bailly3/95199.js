@@ -1,0 +1,1 @@
+lar[95199]=`<b>συν·διορθόω-ῶ</b>, redresser avec <i>ou</i> en même temps, HPC. <i>Fract. 753</i> ; corriger <i>ou</i> blâmer en même temps, <i>fig</i>. ARSTT. <i>Top. 6, 14, 4</i> ; JAMBL. <i>V. Pyth. 19</i>.`

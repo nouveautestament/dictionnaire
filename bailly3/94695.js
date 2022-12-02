@@ -1,0 +1,1 @@
+lar[94695]=`<b>συν·αναγράφω</b> <font color="purple">[ᾰφ]</font> inscrire avec, DS. <i>17, 1 ; au pass</i>. ESCHN. <i>39, 10</i>.`

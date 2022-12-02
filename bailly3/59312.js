@@ -1,0 +1,1 @@
+lar[59312]=`<b>Λά·αρχος, ου (ὁ)</b> Laarkhos, <i>h</i>. PLUT. <i>Mul. virt. 25</i>.<p><b>Étym</b>. λᾶας, ἄρχω.`

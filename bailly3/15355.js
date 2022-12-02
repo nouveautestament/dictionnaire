@@ -1,0 +1,1 @@
+lar[15355]=`<b>ης (ἡ)</b> Artimpasa, <i>n. d’Aphrodite Ourania chez les Scythes,</i> HDT. <i>4, 59</i>.`

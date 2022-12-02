@@ -1,0 +1,1 @@
+lar[88180]=`<b>εως (ἡ)</b> cannelure, ARSTT. <i>Nic. 10, 4, 2</i> ; JOS. <i>A.J. 12, 2</i>.<p><b>Étym</b>. *ῥαβδόω <i>de</i> ῥάβδος.`

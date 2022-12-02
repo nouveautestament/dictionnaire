@@ -1,0 +1,1 @@
+lar[73816]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit œil, AR. <i>Eq. 909</i>.<p><b>Étym</b>. <i>dim. de</i> ὀφθαλμός.`

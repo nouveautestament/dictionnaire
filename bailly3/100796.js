@@ -1,0 +1,1 @@
+lar[100796]=`<b>τροχο·πέδη, ης (ἡ)</b> entrave pour les roues, enrayoir, HÉROD. ATT. (ATH. <i>99c</i>).<p><b>Étym</b>. τροχός, πέδη.`

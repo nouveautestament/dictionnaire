@@ -1,0 +1,1 @@
+lar[70646]=`<b>οἰο·πέδιλος, ος, ον</b> <font color="purple">[ῑ]</font> chaussé d’un seul pied, A.RH. <i>1, 7</i>.<p><b>Étym</b>. οἶος, πέδιλον.`

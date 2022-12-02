@@ -1,0 +1,1 @@
+lar[73361]=`<b>ὀσχο·βόρος, ος, ον</b>, qui mange les jeunes pousses, SIB. <i>8, 494</i>.<p><b>Étym</b>. ὄσχος, βιβρώσκω.`

@@ -1,0 +1,1 @@
+lar[39525]=`<b>ἐπι·τρύζω</b> (<i>seul. prés</i>.) bourdonner, faire un bruit léger, <i>en parl. de la cigale,</i> ANTH. <i>6, 54 ; de la souris,</i> BABR. <i>112</i>.`

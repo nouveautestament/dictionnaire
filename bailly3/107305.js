@@ -1,0 +1,1 @@
+lar[107305]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> celui qui fait des plantations, ARSTT. <i>Plant. 1, 7, 4</i>.<p><b>Étym</b>. φυτεύω.`

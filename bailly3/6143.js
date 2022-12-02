@@ -1,0 +1,1 @@
+lar[6143]=`<b>ἀμφι·ετής, ής, ές</b>, qui revient tous les ans, ORPH. <i>H. 52, 1</i> ; CALL. <i>Del. 278</i>.<p><b>Étym</b>. ἀ. ἔτος.`

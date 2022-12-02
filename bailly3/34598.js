@@ -1,0 +1,1 @@
+lar[34598]=`passer l’année, PLAT. COM. (ATH. <i>644a</i>).<p><b>Étym</b>. ἐνιαυτός.`

@@ -1,0 +1,1 @@
+lar[109812]=`<b>ψηφο·ποιός, οῦ (ὁ)</b> qui fabrique <i>ou</i> arrange les suffrages pour tromper, SOPH. <i>Aj. 1135</i>.<p><b>Étym</b>. ψ. ποιέω.`

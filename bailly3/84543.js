@@ -1,0 +1,1 @@
+lar[84543]=`<b>προ·κέλευθος, ος, ον</b>, qui précède, précurseur, MOSCH. <i>2, 147</i> ; ANTH. <i>5, 245</i>.`

@@ -1,0 +1,1 @@
+lar[17038]=`<font color="purple">[ῐ]</font> <i>adv</i>., en langue attique, DÉM. <i>202, 11</i> ; PLUT.`

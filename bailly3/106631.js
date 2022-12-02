@@ -1,0 +1,1 @@
+lar[106631]=`<b>ατος (τὸ)</b> ce qui est livré pour être tué, EUR. <i>Ion 1496</i>.<p><b>Étym</b>. φονεύω.`

@@ -1,0 +1,1 @@
+lar[10214]=`<b>ἀντι·παρηγορέω-ῶ</b>, consoler par ses exhortations, PLUT. <i>M. 118a</i>.`

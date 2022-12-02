@@ -1,0 +1,1 @@
+lar[57577]=`<b>ορος (ὁ)</b> Krantôr, <i>h</i>. PLUT. <i>Cons. ad Apoll. 3</i>.<p>➳ <i>Voc</i>. Κράντορ, DL. <i>4, 5</i>.<p><b>Étym</b>. <i>v</i>. κράντωρ.`

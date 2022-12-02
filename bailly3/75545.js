@@ -1,0 +1,1 @@
+lar[75545]=`<b>α, ον :<br>      1</b> qu’on peut <i>ou</i> qu’il faut transmettre, PLAT. <i>Leg. 802e ; au neutre,</i> il faut transmettre, PLAT. <i>1 Alc. 132c.</i><br><b>      2</b> qu’on peut <i>ou</i> qu’il faut remettre, PLAT. <i>Leg. 715a ; au plur. neutre,</i> il faut remettre, THC. <i>21, 86</i>.`

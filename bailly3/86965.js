@@ -1,0 +1,1 @@
+lar[86965]=`<b>προ·φλεβοτομέω-ῶ</b>, faire une saignée auparavant, GAL. <i>19, 711</i>.`

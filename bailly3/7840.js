@@ -1,0 +1,1 @@
+lar[7840]=`<b>ἀν·αϋτέω</b> <font color="darkgreen">(<i>ao. 3 pl</i>. ἀνηΰτησαν)</font> s’écrier, OPP. <i>C. 4, 301 ; etc</i>.<p><b>Étym</b>. ἀνά, ἀ.`

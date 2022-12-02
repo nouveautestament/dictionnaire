@@ -1,0 +1,1 @@
+lar[23867]=`<b>δενδρο·φόρος, ος, ον</b>, qui produit (<i>litt</i>. qui porte) des arbres, ATH. <i>621b ;</i> ἡ δ. (<i>s.-e</i>. γῆ) PHIL. <i>2, 583,</i> terre plantée d’arbres, verger.<p>•<i> Sup</i>. -ώτατος, PLUT. <i>Syll. 12</i>.<p><b>Étym</b>. δένδρον, φέρω.`

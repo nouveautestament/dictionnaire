@@ -1,0 +1,1 @@
+lar[107792]=`<b>χαμαι·ριφής, ής, ές</b> <font color="purple">[ᾰ]</font> qui tombe à terre, bas, très petit, nain, TH. <i>H.P. 2, 6, 11 dout</i>.<p><b>Étym</b>. χ. ῥίπτω.`

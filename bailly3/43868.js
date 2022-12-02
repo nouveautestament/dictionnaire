@@ -1,0 +1,1 @@
+lar[43868]=`<b>εὐ·ῶπις, ιδος</b>, <i>adj. f</i>. aux beaux yeux <i>ou</i> beau à voir, OD. <i>6, 113, 142</i> ; HH. <i>Cer. 334</i> ; PD. <i>O. 11, 77</i> ; SOPH. <i>Tr. 523</i> ; A.RH. <i>4, 1090</i>.<p>➳ En prose, <i>seul. acc</i>. εὐῶπιν, M. TYR. <i>p. 260</i>.<p><b>Étym</b>. εὖ, ὤψ.`

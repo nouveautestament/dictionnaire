@@ -1,0 +1,1 @@
+lar[13295]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font><br><b>      1</b> dégoût des aliments, HPC. <i>1089f, etc. ; au plur</i>. ORIB. <i>3, 190, etc.</i><br><b>      2</b> abstinence, PORPH. <i>43, 17, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. ἀπόσιτος.`

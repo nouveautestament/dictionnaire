@@ -1,0 +1,1 @@
+lar[207]=`<b>οῦ (ὁ)</b> coquet, fat, ADAM. <i>Physiogn. 2, 20</i>.<p><b>Étym</b>. ἁβρύνω.`

@@ -1,0 +1,1 @@
+lar[43237]=`<b>εὐρυ·αίχμας</b>, <i>adj. m</i>. qui porte au loin sa lance, qui étend sa domination au loin, PD. (STR. <i>54).</i><p><b>Étym</b>. εὐρύς, αἰχμή.`

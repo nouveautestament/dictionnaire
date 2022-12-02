@@ -1,0 +1,1 @@
+lar[68625]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite île, îlot, THC. <i>8, 11</i> ; STR. <i>129</i> ; PLUT. <i>Oth. 10, etc</i>.<p><b>Étym</b>. νησίς.`

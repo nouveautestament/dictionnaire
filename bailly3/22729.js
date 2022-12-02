@@ -1,0 +1,1 @@
+lar[22729]=`<b>γυιό·χαλκος, ος, ον</b>, aux membres d’airain, <i>càd</i>. vigoureux, ANTH. <i>15, 26</i>.<p><b>Étym</b>. γ. χαλκός.`

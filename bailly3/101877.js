@@ -1,0 +1,1 @@
+lar[101877]=`<i>ou mieux</i> <b>ἐπαγωγικός, ή, όν</b> <font color="purple">[ᾰ]</font> tiré en longueur, DH. <i>Dem. 4</i>.<p><b>Étym</b>. ὑπαγωγός.`

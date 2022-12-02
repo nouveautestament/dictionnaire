@@ -1,0 +1,1 @@
+lar[65008]=`<b>ῆς (ἡ) :<br>      1</b> changement, échange, HIPPODAM. (STOB. <i>Fl. 98, 71</i>) ; PLUT. <i>M. 720c.</i><br><b>      2</b> déviation, TRYPH. <i>Trop. 2 p. 763</i>.<p>➳ <i>Dor</i>. μετατροπά, EUR. <i>Andr. 492</i>.<p><b>Étym</b>. μετατρέπω.`

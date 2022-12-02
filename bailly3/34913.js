@@ -1,0 +1,1 @@
+lar[34913]=`<b>ἐν·σαββατίζω</b> (<i>part. ao</i>. -ίσας) <font color="purple">[βᾰ]</font> se reposer dans (<i>litt</i>. fêter le sabbat dans) <i>dat</i>. NYSS. <i>2, 867</i>.`

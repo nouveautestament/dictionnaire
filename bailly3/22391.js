@@ -1,0 +1,1 @@
+lar[22391]=`<b>ας (ἡ) :<br>      1</b> magie, sorcellerie, PLAT. <i>Conv. 202e, etc.</i> ; HDN <i>4, 12</i>.<br><b>      2</b> <i>p. ext</i>. fascination, PLUT. <i>M. 961d ; d’où, en mauv. part,</i> charlatanisme, imposture, DS. <i>1, 76 ; joint à</i> ἀπάτη, POL. <i>4, 20, 5 ; à</i> ἀπάτη καὶ ψευδολογία, LUC. <i>Nigr. 15 ; etc</i>.<p><b>Étym</b>. γοητεύω.`

@@ -1,0 +1,1 @@
+lar[21990]=`<b>γιγαντο·φόνος, ος, ον</b> <font color="purple">[ῐ]</font> meurtrier des géants, EUR. <i>H.f. 1191</i> ; NONN. <i>D. 1, 516</i>.<p><b>Étym</b>. γίγας, φεν- <i>de</i> πεφνεῖν.`

@@ -1,0 +1,1 @@
+lar[58072]=`<b>Κρονό·τεκνος, ου (ὁ)</b> père de Kronos, <i>ép. d’Ouranos,</i> ORPH. <i>H. 3, 8</i>.<p><b>Étym</b>. Κρ. τίκτω.`

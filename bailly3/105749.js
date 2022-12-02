@@ -1,0 +1,1 @@
+lar[105749]=`<b>φιλο·δεσπότης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui aime son maître, <i>titre de comédies de Timostratos et de Théognètos</i>.`

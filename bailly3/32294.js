@@ -1,0 +1,1 @@
+lar[32294]=`<b>ας (ἡ)</b> révélation (de choses secrètes) GAL. <i>Hipp. et Plat. 2, 8</i>.<p><b>Étym</b>. ἐκφαίνω.`

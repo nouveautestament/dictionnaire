@@ -1,0 +1,1 @@
+lar[79002]=`<b>περι·οικέω-ῶ</b>, habiter autour de, dans le voisinage de, <i>acc</i>. HDT. <i>1, 57 ; 2, 112, etc.</i> ; XÉN. <i>An. 5, 6, 16</i> ; LYS. <i>110, 40</i>.`

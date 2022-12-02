@@ -1,0 +1,1 @@
+lar[37615]=`<b>ἐπι·διδάσκω</b>, enseigner en outre, XÉN. <i>Cyr. 1, 3, 17 ; Œc. 10, 10</i>.`

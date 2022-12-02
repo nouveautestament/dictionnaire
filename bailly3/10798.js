@@ -1,0 +1,1 @@
+lar[10798]=`<b>ης (ἡ)</b> Anytè, <i>poétesse de Tégée, auteur d’épigrammes,</i> ANTH. <i>6, 123</i>.`

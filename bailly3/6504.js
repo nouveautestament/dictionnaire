@@ -1,0 +1,1 @@
+lar[6504]=`<font color="purple">[βᾰ]</font> <i>adv</i>., en montant, ARSTT. <i>H.A. 6, 30, 1</i>.<p>➳ <i>Poét</i>. ἀμβαδόν, OPP. <i>C. 3, 500</i>.<p><b>Étym</b>. ἀναβαίνω.`

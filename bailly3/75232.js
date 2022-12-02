@@ -1,0 +1,1 @@
+lar[75232]=`<b>παν·τλήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, tout à fait malheureux, EUR. <i>Hec. 198</i>.<p>➳ <i>Dor</i>. παντλάμων <font color="purple">[ᾱ]</font> SOPH. <i>El. 150, etc</i>.<p><b>Étym</b>. π. τλήμων.`

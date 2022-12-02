@@ -1,0 +1,1 @@
+lar[79362]=`<font color="purple">[ᾰ]</font> il faut éviter, PHILONID. (ATH. <i>675e</i>).<p><b>Étym</b>. περιΐστημι.`

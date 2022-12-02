@@ -1,0 +1,1 @@
+lar[76174]=`<b>παρα·σείω</b>, balancer de côté : τὰς χεῖρας, ARSTT. <i>Nic. 4, 3, 15 ; ou simpl</i>. παρασείειν, TH. <i>Char. 4,</i> balancer les bras pour courir plus vite, <i>d’où</i> courir à toutes jambes, <i>fig</i>. MACH. (ATH. <i>243f</i>).`

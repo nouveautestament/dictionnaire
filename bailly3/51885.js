@@ -1,0 +1,1 @@
+lar[51885]=`<b>καρπο·δότης, ου</b>, <i>adj. m</i>. qui donne des fruits, NAZ. <i>2, 617 ; 3, 1572 Migne</i>.<p><b>Étym</b>. κ. δίδωμι.`

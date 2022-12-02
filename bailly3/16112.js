@@ -1,0 +1,1 @@
+lar[16112]=`<b>α (ὁ)</b> STR. PTOL. <i>ou</i> <b>Ἀσταβόρρας, α (ὁ)</b> EL. HLD. Astaboras <i>ou</i> Astaborrhas, <i>fl. d’Éthiopie,</i> STR. HLD. <i>et de l’Inde,</i> EL.`

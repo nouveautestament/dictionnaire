@@ -1,0 +1,1 @@
+lar[18607]=`<b>ἄ·ψηφος, ος, ον</b>, sans pierre (anneau), ARTÉM. <i>2, 5</i>.<p><b>Étym</b>. ἀ, ψῆφος.`

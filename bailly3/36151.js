@@ -1,0 +1,1 @@
+lar[36151]=`<b>ἐξ·ονειρώσσω</b>, HPC. <i>232, 10 ; att</i>. <b>-ώττω</b>, ARSTT. <i>G.A. 2, 4, 22 (seul. prés</i>.) avoir des pertes séminales pendant le sommeil.<p><b>Étym</b>. ἐξ, ὄνειρος.`

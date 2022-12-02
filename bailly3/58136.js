@@ -1,0 +1,1 @@
+lar[58136]=`<b>ή, όν</b>, frappé, <i>en parl. d’un instrument,</i> NICOM. <i>Harm. 5</i>.<p><b>Étym</b>. <i>vb. de</i> κρούω.`

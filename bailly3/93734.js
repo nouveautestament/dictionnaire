@@ -1,0 +1,1 @@
+lar[93734]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> préparé avec des figues, AÉT. <i>2, 127 ; subst</i>. τὰ συκωτά, GAL. <i>6, 379, 387,</i> sorte de préparation de figues bonne pour les maladies de foie.<p><b>Étym</b>. συκόω.`

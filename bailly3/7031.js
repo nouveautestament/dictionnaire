@@ -1,0 +1,1 @@
+lar[7031]=`<b>ου</b>, <i>adj. m</i>. d’Anaktorion, HDT. <i>9, 28</i>.<p><b>Étym</b>. Ἀνακτόριον.`

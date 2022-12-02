@@ -1,0 +1,1 @@
+lar[22450]=`<b>ας (ἡ)</b> perte séminale, gonorrhée, GAL. <i>2, 80</i> ; GEOP. <i>12, 13, 14</i>.<p><b>Étym</b>. *γονόρροος, <i>de</i> γόνος, ῥέω.`

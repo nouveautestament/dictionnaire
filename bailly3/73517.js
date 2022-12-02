@@ -1,0 +1,1 @@
+lar[73517]=`<b>ου (ὁ)</b> = <i>lat</i>. Villius, <i>n. d’h. rom</i>. PLUT. <i>Flam. 12</i>.`

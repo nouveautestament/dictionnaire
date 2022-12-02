@@ -1,0 +1,1 @@
+lar[21595]=`<b>γελοιο·μελέω-ῶ</b>, faire des chansons pour rire, ANTH. <i>7, 719</i>.<p><b>Étym</b>. γελοῖος, μέλος.`

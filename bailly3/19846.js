@@ -1,0 +1,1 @@
+lar[19846]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. βλάβη, HDT. <i>1, 9</i> ; EUR. <i>Her. 255 ; Ion 998</i> ; AR. <i>Ran. 1151</i> ; PLAT. <i>Leg. 843c</i>.<p>➳ <i>Sel. Mœr. p. 103, plus att. que</i> βλάβη.<p><b>Étym</b>. <i>Cf</i>. βλάπτω.`

@@ -1,0 +1,1 @@
+lar[47954]=`<b>ης, ες</b> <font color="purple">[ῡ]</font><br><b>      1</b> courageux, ARSTT. <i>Rhet. 2, 12, 9 ; en parl. d’animaux,</i> ARSTT. <i>H.A. 1, 1, 32, etc.</i><br><b>      2</b> irascible, violent, rétif, ARSTT. <i>Nic. 7, 6, 3</i> ; PLUT. <i>M. 462a</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>H.A. 9, 1</i>.<p><b>Étym</b>. θυμός, -ωδης.`

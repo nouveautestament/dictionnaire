@@ -1,0 +1,1 @@
+lar[80042]=`<b>ή, όν</b>, <i>au cp</i>. -ώτερος, sujet à se congeler, TH. <i>C.P. 5, 14, 3</i>.<p><b>Étym</b>. πηκτός.`

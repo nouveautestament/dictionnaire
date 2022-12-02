@@ -1,0 +1,1 @@
+lar[11344]=`<i>adv</i>., sans être préparé, ARSTT. <i>Rhet. Al. 9, 11, dout</i>.`

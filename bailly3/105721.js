@@ -1,0 +1,1 @@
+lar[105721]=`<b>φιλό·γλυκυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[γλῠ]</font> qui aime les choses douces, <i>particul</i>. le vin doux, ARSTT. <i>Top. 2, 3, 8 ; Probl. 3, 28 ; Eud. 2, 10, 28</i> ; PLUT. <i>M. 673d</i>.<p><b>Étym</b>. φ. γλυκύς.`

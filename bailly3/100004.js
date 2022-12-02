@@ -1,0 +1,1 @@
+lar[100004]=`<b>ή, όν</b> <font color="purple">[ᾱᾰ]</font> propre au traitement du mal d’yeux appelé τράχωμα, GAL.`

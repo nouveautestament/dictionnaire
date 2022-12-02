@@ -1,0 +1,1 @@
+lar[105634]=`<font color="purple">[φῐ]</font> avec affection, CLÉM. <i>768</i>.`

@@ -1,0 +1,1 @@
+lar[11793]=`<i>att</i>. <b>-ίττως</b>, sans superfluité, simplement, DS. <i>12, 26</i>.`

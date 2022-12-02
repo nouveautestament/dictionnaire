@@ -1,0 +1,1 @@
+lar[34823]=`<b>ἐν·οινοχοέω-οῶ</b> (<i>seul. part. prés. épq</i>. ἐνοινοχοεῦντες, OD. <i>3, 472, et impf. 3 sg</i>. ἐνῳνοχόει, IL. <i>4, 3</i>) verser du vin dans, ἐν <i>et le dat</i>.<p><b>Étym</b>. <i>mauv. leç., v</i>. οἰνοχοέω.`

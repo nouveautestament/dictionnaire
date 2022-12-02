@@ -1,0 +1,1 @@
+lar[96778]=`jouer à la balle, PLAT. <i>Theæt. 146a ;</i> ATH. <i>14f</i>.<p><b>Étym</b>. σφαῖρα.`

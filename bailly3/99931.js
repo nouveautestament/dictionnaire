@@ -1,0 +1,1 @@
+lar[99931]=`<b>τραπ·έμπαλιν</b> <font color="purple">[ᾰᾰ]</font> <i>adv</i>., en revenant sur ses pas, à rebours, PHÉRÉCR. (PHOT. <i>p. 598, 11), et par conj</i>. PLUT. <i>M. 396 et</i> DC. <i>47, 40, 7</i>.<p><b>Étym</b>. τρέπω, ἔμπαλιν.`

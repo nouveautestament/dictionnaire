@@ -1,0 +1,1 @@
+lar[46557]=`<b>ος, ον</b>, qui soutient les fondements (de la terre), <i>ép. de Poséidôn,</i> CORN. <i>22 ; subst</i>. ὁ θ. (<i>s.-e</i>. λίθος) HÉRACLITE GRAMM. <i>All. Hom. 48,</i> pierre fondamentale.<p><b>Étym</b>. θεμέλιος, ἔχω.`

@@ -1,0 +1,1 @@
+lar[13512]=`<b>ἀπο·σφραγίζω</b> <font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> <font color="purple">[ᾱγ]</font><br><b>      1</b> cacheter, sceller, PLUT. <i>Alex. 2</i>.<br><b>      2</b> desceller, DL. <i>4, 59</i>.<br><b><i>Moy.</i></b> cacheter, sceller, EUR. <i>Or. 1108</i> ; ATH. <i>34a</i>.`

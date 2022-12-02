@@ -1,0 +1,1 @@
+lar[36169]=`<b>ἔξ·οπλος, ος, ον</b>, sans armure, à découvert, POL. <i>3, 81, 2</i>.<p><b>Étym</b>. ἐξ, ὅπλον.`

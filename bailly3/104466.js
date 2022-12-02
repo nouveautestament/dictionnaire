@@ -1,0 +1,1 @@
+lar[104466]=`<b>εως (ἡ)</b> gonflement, grosseur, tumeur, GAL. <i>19, 546</i>.<p><b>Étym</b>. ὑψηλός.`

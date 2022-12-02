@@ -1,0 +1,1 @@
+lar[102917]=`<i>adv</i>., de l’étage supérieur, OD. <i>1, 328</i>.<p><b>Étym</b>. ὑπερώϊον, -θεν.`

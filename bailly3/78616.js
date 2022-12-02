@@ -1,0 +1,1 @@
+lar[78616]=`<b>περι·ζώστρα, ας (ἡ) :<br>      1</b> tablier, ANAXANDR. (<i>Com. fr. 3, 202</i>).<br><b>      2</b> bandelette, THCR. <i>Idyl. 2, 122</i>.`

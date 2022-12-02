@@ -1,0 +1,1 @@
+lar[19195]=`<b>βαρύ·πνοος, ος, ον</b> <font color="purple">[ᾰ]</font> qui exhale une odeur forte, NIC. <i>Al. 338 ; Th. 76, 82</i>.<p><b>Étym</b>. β. πνέω.`

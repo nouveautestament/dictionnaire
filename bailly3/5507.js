@@ -1,0 +1,1 @@
+lar[5507]=`<i>adv</i>., sans faire défaut, avec constance, PLUT. <i>Dio. 14</i>.`

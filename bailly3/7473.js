@@ -1,0 +1,1 @@
+lar[7473]=`<b>ἀνα·πρήθω</b> (<i>part. ao</i>. -πρήσας) faire gonfler <i>ou</i> bouillonner en chauffant, <i>d’où</i> faire gonfler, <i>p. suite,</i> faire éclater : δάκρυ, IL. <i>9, 433</i> ; OD. <i>2, 81,</i> ses larmes.`

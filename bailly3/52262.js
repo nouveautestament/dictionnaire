@@ -1,0 +1,1 @@
+lar[52262]=`<b>κατα·γυμνάζω</b>, exercer avec soin, former par l’exercice, <i>acc</i>. LUC. <i>Anach. 24, etc. ; avec l’inf</i>. LUC. <i>Nigr. 27</i>.`

@@ -1,0 +1,1 @@
+lar[92656]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font> qui concerne les vers : στ. θάνατος, ANTH. <i>11, 135,</i> mort causée par de mauvais vers.<p><b>Étym</b>. στίχος.`

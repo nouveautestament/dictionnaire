@@ -1,0 +1,1 @@
+lar[105383]=`<b>φιαλόω-ῶ</b> <font color="purple">[ᾰ]</font> creuser en forme de coupe : δένδρα, GEOP. <i>9, 5, 7,</i> déchausser des arbres.<p><b>Étym</b>. φιάλη.`

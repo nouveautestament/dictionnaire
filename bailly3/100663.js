@@ -1,0 +1,1 @@
+lar[100663]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> chevelu, couvert de cheveux <i>ou</i> de poils, ARSTT. <i>H.A. 1, 7, 1 ; P.A. 4, 12, 30</i> ; τὰ τριχωτά, ARSTT. <i>P.A. 3, 3, 14,</i> les animaux à poil, TH. <i>fr. 13, 2</i>.<p><b>Étym</b>. τριχόω.`

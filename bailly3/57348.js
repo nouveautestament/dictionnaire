@@ -1,0 +1,1 @@
+lar[57348]=`<b>(τὸ) :<br>      1</b> Κ. ὄρος, ESCHN. <i>66, 8 (= 3, 86),</i> le mt Kotylæon, <i>en Eubée</i>.<br><b>      2</b> Κ. ἕδος, NONN. <i>D. 13, 163,</i> la ville de Kotylæon, <i>en Eubée</i>.`

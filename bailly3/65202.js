@@ -1,0 +1,1 @@
+lar[65202]=`<b>μετ·όρχιον, ου (τὸ)</b> intervalle entre deux rangées d’arbres <i>ou</i> de plantations quelconques, AR. <i>Pax 568</i>.<p><b>Étym</b>. μ. ὄρχος.`

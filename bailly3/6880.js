@@ -1,0 +1,1 @@
+lar[6880]=`<b>ή, όν</b>, qui purge par le haut, DIOSC. <i>5, 114</i>.<p><b>Étym</b>. ἀνακαθαίρω.`

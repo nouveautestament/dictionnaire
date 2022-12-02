@@ -1,0 +1,1 @@
+lar[99372]=`<b>οῦ (ὁ) :<br>      1</b> bout de sein, AR. <i>Th. 640</i> ; HPC. <i>Aph. 1254</i> ; LYC. <i>92, 32, 38 ; en parl. d’un jeune garçon,</i> ANTH. <i>12, 95</i>.<br><b>      2</b> père nourricier, PHIL. <i>1, 166 dout</i>.<p><b>Étym</b>. τιθήνη.`

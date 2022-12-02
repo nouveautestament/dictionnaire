@@ -1,0 +1,1 @@
+lar[22710]=`<b>ου (ὁ) :<br>      1</b> pièce de bois à laquelle est ajusté le coutre de la charrue, HÉS. <i>O. 425, 434</i>.<br><b>      2</b> champ, terre, <i>rar. au sg</i>. SOPH. <i>fr. 643</i> ; EUR. <i>Her. 839 ; d’ord. au pl</i>. ESCHL. <i>Pr. 369, 708 ; fr. 198</i> ; SOPH. <i>O.C. 58 ; fig. en parl. du sein fécond d’une femme,</i> SOPH. <i>Ant. 569</i>.`

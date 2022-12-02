@@ -1,0 +1,1 @@
+lar[62091]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> transport de fureur, JUL. <i>436b</i>.<p><b>Étym</b>. λυσσομανής.`

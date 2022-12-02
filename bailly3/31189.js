@@ -1,0 +1,1 @@
+lar[31189]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> apprentissage, EUR. <i>Ion 1419</i>.<p><b>Étym</b>. ἐκδιδάσκω.`

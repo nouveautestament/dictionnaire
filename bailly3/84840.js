@@ -1,0 +1,1 @@
+lar[84840]=`<b>προ·ολισθάνω</b>, glisser auparavant, BAS.`

@@ -1,0 +1,1 @@
+lar[7885]=`<b>ἀνα·φράζομαι</b> <font color="darkgreen">(<i>ao. opt. sync. 3 sg</i>. ἀμφράσσαιτο)</font> reconnaître, OD. <i>19, 391</i>.`

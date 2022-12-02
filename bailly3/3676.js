@@ -1,0 +1,1 @@
+lar[3676]=`<b>ή, όν</b>, semblable à une branche, TH. <i>H.P. 4, 6, 8</i>.<p><b>Étym</b>. ἀκρεμών.`

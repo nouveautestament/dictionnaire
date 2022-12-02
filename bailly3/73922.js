@@ -1,0 +1,1 @@
+lar[73922]=`<b>ου (ὁ)</b> frange <i>ou</i> bordure d’une tunique, AR. et PHÉRÉCR. (<i>Com. fr. 2, 1078, 296</i>).`

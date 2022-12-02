@@ -1,0 +1,1 @@
+lar[29138]=`<b>δωμάω-ῶ</b> (<i>seul. ao. part</i>. -ήσαντες) bâtir, construire, LYC. <i>719</i> ; A.RH. <i>2, 531</i>.<br><b><i>Moy.</i></b> (<i>seul. ao. inf</i>. -ήσασθαι) faire bâtir, ANTH. <i>11, 400</i> ; LYC. <i>593</i>.<p><b>Étym</b>. δέμω.`

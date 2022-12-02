@@ -1,0 +1,1 @@
+lar[8975]=`<b>ας (ἡ)</b> création d’hommes <i>ou</i> de l’homme, LUC. <i>Prom. 5, 17</i>.<p><b>Étym</b>. ἀνθρωποποιός.`

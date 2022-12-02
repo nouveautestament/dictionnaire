@@ -1,0 +1,1 @@
+lar[73769]=`<i>ou mieux</i> <b>οὔ τί που</b>, <i>adv</i>., en rien, PD. <i>P. 4, 55 ; particul. adv. interr</i>. SOPH. <i>Ph. 1233</i> ; AR. <i>Ran. 522,</i> ne serait-ce pas que ?`

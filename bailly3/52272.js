@@ -1,0 +1,1 @@
+lar[52272]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰγ]</font> crosse <i>ou</i> refouloir pour refouler d’avant en arrière le tiroir (διώστρα) de l’engin γαστραφέτης <i>ou</i> εὐθύτονον de petit calibre, PHIL. BYZ. <i>Bel. 57</i> ; HÉRON <i>Bel. 6</i>.<p><b>Étym</b>. κατάγω.`

@@ -1,0 +1,1 @@
+lar[100540]=`<b>(ὁ)</b> Tritantækhmès, <i>Perse,</i> HDT. <i>1, 192 ; 7, 82</i>.`

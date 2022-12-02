@@ -1,0 +1,1 @@
+lar[38318]=`<b>ἐπ·ιλλώπτω</b> (<i>seul. part. prés</i>.) regarder de travers, PLUT. <i>M. 51c</i>.`

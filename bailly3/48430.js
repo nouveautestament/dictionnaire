@@ -1,0 +1,1 @@
+lar[48430]=`<b>ἰδιό·σημος, ος, ον</b> <font color="purple">[ῐδ]</font> qui a une signification propre <i>ou</i> particulière, RHÉT. <i>7, 195 W</i>.<p><b>Étym</b>. ἴδ. σῆμα.`

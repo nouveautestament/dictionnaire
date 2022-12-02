@@ -1,0 +1,1 @@
+lar[80442]=`ressembler à de la poix, DIOSC.<p><b>Étym</b>. πίσσα.`

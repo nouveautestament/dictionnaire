@@ -1,0 +1,1 @@
+lar[48620]=`<b>ἱερο·πρόσπολος, ου (ὁ)</b> qui prend soin des choses sacrées, PTOL. <i>Tetr. p. 159</i>.<p><b>Étym</b>. ἱ. προσπολέω.`

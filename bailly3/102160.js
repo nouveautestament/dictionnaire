@@ -1,0 +1,1 @@
+lar[102160]=`<b>εως (ἡ)</b> évacuation par le bas, HPC. <i>408, 7 ; 421, 2</i>.<p><b>Étym</b>. ὑπεκχωρέω.`

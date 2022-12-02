@@ -1,0 +1,1 @@
+lar[6589]=`<b>ἀνα·γεννητικός, ή, όν</b>, propre à régénérer, JAMBL. <i>Myst. 1, 28</i>.`

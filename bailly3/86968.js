@@ -1,0 +1,1 @@
+lar[86968]=`<b>προ·φοιβάζω</b>, purifier auparavant, NONN. <i>Jo. 11, 55</i>.`

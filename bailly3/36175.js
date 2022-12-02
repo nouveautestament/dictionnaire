@@ -1,0 +1,1 @@
+lar[36175]=`<b>ἐξ·οργίζω</b>, transporter de fureur : τινα, XÉN. <i>Eq. 9, 2</i> ; ESCHN. <i>27, 19,</i> qqn ; τινὰ πρός τινα, XÉN. <i>Mem. 3, 3, 7,</i> une personne contre une autre ; <i>au pass</i>. être transporté de fureur, BATR. <i>185</i> ; ARISTÉN. <i>2, 20</i>.`

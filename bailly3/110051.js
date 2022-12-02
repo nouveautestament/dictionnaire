@@ -1,0 +1,1 @@
+lar[110051]=`<b>ατος (τὸ)</b> morceau, bouchée, ARSTT. <i>Rhet. 3, 4, 3</i> ; PLUT. <i>Rom. 27, etc</i>.<p><b>Étym</b>. ψωμίζω.`

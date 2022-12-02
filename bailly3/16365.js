@@ -1,0 +1,1 @@
+lar[16365]=`<b>ας (ἡ)</b> <font color="purple">[ῠδᾰ]</font> Astydameia, <i>f</i>. PD. EL. ATH. <i>etc</i>.<p><b>Étym</b>. <i>Cf</i>. Ἀστυδάμας.`

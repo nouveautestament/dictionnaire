@@ -1,0 +1,1 @@
+lar[83382]=`<b>οῦ (ὁ)</b> action de précipiter, destruction, ruine, SIB. <i>4, 69</i>.<p><b>Étym</b>. πρηνίζω.`

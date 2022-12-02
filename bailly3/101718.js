@@ -1,0 +1,1 @@
+lar[101718]=`<b>ου (ὁ)</b> Hylias, <i>fl. entre Crotone et Thurii,</i> THC. <i>7, 35</i>.`

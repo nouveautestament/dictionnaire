@@ -1,0 +1,1 @@
+lar[19527]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> de Bembina, <i>brg d’Argolide,</i> THCR. <i>Idyl. 25, 202</i>.`

@@ -1,0 +1,1 @@
+lar[101544]=`<b>ὑδρο·θήρας, ου (ὁ)</b> pêcheur, <i>litt</i>. chasseur sur l’eau, EL. <i>N.A. 14, 19</i>.<p><b>Étym</b>. ὕδ. θηράω.`

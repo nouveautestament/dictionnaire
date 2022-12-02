@@ -1,0 +1,1 @@
+lar[97231]=`<font color="purple">[ῑτ]</font> <i>adv</i>., comme un sorite, SEXT. <i>Phys. 1, 182</i>.`

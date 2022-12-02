@@ -1,0 +1,1 @@
+lar[72492]=`<b>ὀπωρ·ώνης, ου (ὁ)</b> qui achète <i>ou</i> vend des fruits, DÉM. <i>314, 13</i> ; ARISTÉN. <i>2, 1</i>.<p><b>Étym</b>. ὀπώρα, ὠνέομαι.`

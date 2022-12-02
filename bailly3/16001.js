@@ -1,0 +1,1 @@
+lar[16001]=`<b>ἀ·σπάθητος, ος, ον</b> <font color="purple">[πᾰ]</font> d’un tissu peu serré, lâche, SOPH. <i>fr. 849 ; fig</i>. ἀ. φάλαγξ, DH. <i>16, 3,</i> phalange peu compacte.<p><b>Étym</b>. ἀ, σπαθάω.`

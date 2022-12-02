@@ -1,0 +1,1 @@
+lar[42224]=`<font color="purple">[ῠ]</font> <i>adv</i>., droit au but, d’où en droite ligne, HLD. <i>5, 22</i> ; PHIL. <i>2, 3 ; joint à</i> εὐστόχως, PHIL. <i>2, 139</i>.`

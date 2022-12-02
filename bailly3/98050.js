@@ -1,0 +1,1 @@
+lar[98050]=`<b>τεκμηριόω-ῶ</b>, donner une preuve, prouver, THC. <i>1, 3 et 9 ; 3, 104 ; au pass</i>. être prouvé par un fait, DC. <i>75, 13</i>.<br><b><i>Moy.</i></b> présumer d’après un indice, induire de qqe signe, supposer, PHIL. <i>2, 505</i> ; DYSC. <i>Pron. 371b</i>.<p><b>Étym</b>. τεκμήριον.`

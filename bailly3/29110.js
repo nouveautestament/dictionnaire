@@ -1,0 +1,1 @@
+lar[29110]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui vient <i>ou</i> se fait le 12<sup>e</sup> jour, PLAT. <i>Rsp. 614b ;</i> TH. <i>H.P. 7, 1, 3</i> ; THCR. <i>Idyl. 2, 156</i>.<p><b>Étym</b>. δώδεκα.`

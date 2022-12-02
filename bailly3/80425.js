@@ -1,0 +1,1 @@
+lar[80425]=`<b>ου (ὁ)</b> <font color="purple">[πῑ]</font> Pisias, <i>h</i>. AR. <i>Av. 766</i>.`

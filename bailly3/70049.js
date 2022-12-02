@@ -1,0 +1,1 @@
+lar[70049]=`<i>adv</i>., avec enflure, <i>càd</i>. avec orgueil, XÉN. <i>Hell. 3, 4, 8 au cp</i>. -ότερον.`

@@ -1,0 +1,1 @@
+lar[62516]=`<b>μακρό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> qui a de la longanimité, patient, ANTH. <i>11, 317</i>.<p><b>Étym</b>. μ. θυμός.`

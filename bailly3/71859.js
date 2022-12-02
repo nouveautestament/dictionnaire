@@ -1,0 +1,1 @@
+lar[71859]=`<i>adv</i>., d’une manière injurieuse, outrageante, M. ANT. <i>1, 10</i>.`

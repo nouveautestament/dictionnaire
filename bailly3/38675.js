@@ -1,0 +1,1 @@
+lar[38675]=`<b>εως (ἡ)</b> frissonnement, chair de poule, AGATHIN. (ORIB. <i>2, 402 B.-Dar</i>.).<p><b>Étym</b>. ἐπιπήγνυμι.`

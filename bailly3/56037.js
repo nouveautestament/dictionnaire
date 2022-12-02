@@ -1,0 +1,1 @@
+lar[56037]=`<b>ή, όν</b>, appelé, <i>càd.</i> :<br><b>      1</b> convié, invité, ESCHN. <i>50, 1</i> ; EL. <i>N.A. 11, 22 ; d’où</i> bienvenu, OD. <i>17, 386</i>.<br><b>      2</b> convoqué <i>ou</i> appelé nominativement, <i>càd</i>. choisi, IL. <i>9, 165</i>.<p><b>Étym</b>. <i>vb. de</i> καλέω.`

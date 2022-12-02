@@ -1,0 +1,1 @@
+lar[70809]=`<b>ωνος (ὁ)</b> Okridiôn, <i>héros rhodien,</i> PLUT. <i>M. 297c</i>.`

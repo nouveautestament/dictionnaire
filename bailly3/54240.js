@@ -1,0 +1,1 @@
+lar[54240]=`<b>ή, όν</b>, qui marque une affirmation avec serment, <i>p. opp. à</i> ἀπωμοτικός, D. THR. <i>642, 15</i>.<p><b>Étym</b>. κατόμνυμι.`

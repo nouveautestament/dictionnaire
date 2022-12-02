@@ -1,0 +1,1 @@
+lar[88839]=`<b>ῥυγχ·ελέφας, αντος (ὁ, ἡ)</b> muni d’une trompe d’éléphant, ANTH. <i>11, 204</i>.<p><b>Étym</b>. ῥύγχος, ἐ.`

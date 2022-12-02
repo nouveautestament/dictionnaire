@@ -1,0 +1,1 @@
+lar[67049]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> histoire <i>ou</i> étude des choses fabuleuses, mythologie, PLAT. <i>Rsp. 394b.</i><br><b>      2</b> récit fabuleux, conte, PLAT. <i>Criti. 110a ;</i> PLUT. <i>M. 133f.</i><br><b>      3</b> <i>p. ext</i>. récit, entretien, PLAT. <i>Leg. 752a</i>.<p><b>Étym</b>. μυθολόγος.`

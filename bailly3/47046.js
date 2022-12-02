@@ -1,0 +1,1 @@
+lar[47046]=`<b>θεσπι·ῳδός, ός, όν</b>, dont les chants sont inspirés des dieux, <i>d’où</i> prophétique, ESCHL. <i>Ag. 1135</i> ; EUR. <i>Hel. 145 ; subst</i>. ἡ θ. DH. <i>1, 31, trad. du lat</i>. carmenta, prophétesse.<p><b>Étym</b>. θέσπις, ᾠδή.`

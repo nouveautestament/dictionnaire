@@ -1,0 +1,1 @@
+lar[58891]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> κυπασσίς HIPPON. <i>fr. 18</i>.`

@@ -1,0 +1,1 @@
+lar[76881]=`<b>ῶν (οἱ)</b> habitants de la Parætakène, <i>en Perse,</i> HDT. <i>1, 101</i>.<p><b>Étym</b>. Παραιτακηνή.`

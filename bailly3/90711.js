@@ -1,0 +1,1 @@
+lar[90711]=`(<i>seul. prés. et impf.) c</i>. σκεδάννυμι, HDN GR.`

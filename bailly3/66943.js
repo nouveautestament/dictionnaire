@@ -1,0 +1,1 @@
+lar[66943]=`<i>adv.</i> :<br><b>      1</b> péniblement, PLAT. <i>Gorg. 504e, 505a.</i><br><b>      2</b> méchamment, SEXT. <i>237 Bkk</i>.<p>•<i> Cp</i>. -οτέρως, PLAT. <i>Rsp. 343e, ou</i> -ότερον, XÉN. <i>Hell. 1, 4, 13 ; • Sup</i>. -ότατα, PLAT. <i>Eryx. 406</i>.<p><b>Étym</b>. μοχθηρός.`

@@ -1,0 +1,1 @@
+lar[110436]=`<i>adv</i>., d’une manière déterminée, ARSTT. <i>Categ. 7, 31 et 34 ; Top. 8, 5, 2 ; Metaph. 4, 15, 2</i> ; POL. <i>10, 46, 10, etc</i>.<p><b>Étym</b>. ὡρισμένος, <i>part. pf. pass. de</i> ὁρίζω.`

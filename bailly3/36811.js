@@ -1,0 +1,1 @@
+lar[36811]=`<b>ἐπ·αρύτω</b> <font color="darkgreen">(<i>ao</i>. ἐπήρυσα)</font> <font color="purple">[ᾰρ]</font> puiser, D. CHRYS. <i>1, p. 411</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>M. 600c</i>.`

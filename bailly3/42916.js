@@ -1,0 +1,1 @@
+lar[42916]=`<b>εὐ·πάλαιστρος, ος, ον</b> <font color="purple">[ᾰ]</font> exercé à la palestre, <i>d’où fig</i>. souple dans l’argumentation, LGN <i>34, 2</i>.<p><b>Étym</b>. εὖ, παλαίστρα.`

@@ -1,0 +1,1 @@
+lar[3879]=`<b>ἀκρο·χερσίτης, ου (ὁ)</b> qui lutte seulement avec les mains (<i>non</i> à bras le corps) PAUS. <i>6, 4, 1</i>.<p><b>Étym</b>. ἄ. <i>dat. pl</i>. χερσί, -της, <i>ou p</i>. *ἀκροχειριστής.`

@@ -1,0 +1,1 @@
+lar[39920]=`<b>ἐπ·οχθίζω</b>, se plaindre de, <i>dat</i>. OPP. <i>H. 5, 170</i>.`

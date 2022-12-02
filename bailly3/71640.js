@@ -1,0 +1,1 @@
+lar[71640]=`<b>ὁμο·πάτριος, ος, ον</b>, né du même père, ESCHL. <i>Pr. 559</i> ; XÉN. <i>An. 3, 1, 17</i> ; PLAT. <i>Leg. 774e, etc</i>.<p>➳ <i>Fém</i>. -α, IS. <i>83, 7</i> ; SPT. <i>Lev. 18, 11</i>.<p><b>Étym</b>. ὁμ. πατήρ.`

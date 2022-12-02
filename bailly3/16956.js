@@ -1,0 +1,1 @@
+lar[16956]=`<b>έως</b> <font color="purple">[ᾱ]</font><br><b>      1</b> intrépide, EUPH. <i>p. 126 Mein. (acc. sg</i>. ἀτρέα).<br><b>      2</b> qui ne fait pas trembler : οὐκ ἀτρῆες ἀνάγκαι Μοιρέων, ANTH. <i>App. 50,</i> les Parques aux arrêts inévitables et qui font trembler.<p><b>Étym</b>. ἀ, τρέω.`

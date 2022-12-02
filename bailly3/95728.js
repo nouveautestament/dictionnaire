@@ -1,0 +1,1 @@
+lar[95728]=`<b>συν·εργάτης</b>, <i>anc. att</i>. <b>ξυν·εργάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. συνεργός, SOPH. <i>Ph. 93</i> ; EUR. <i>Bacch. 1146 ; en parl. de choses,</i> EUR. <i>Hipp. 417</i>.<p><b>Étym</b>. σ. ἐργάτης.`

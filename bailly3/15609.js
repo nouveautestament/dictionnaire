@@ -1,0 +1,1 @@
+lar[15609]=`<b>ἀρχι·θεράπων, οντος (ὁ)</b> <font color="purple">[ρᾰ]</font> chef des serviteurs, EUST. <i>Op. 291, 49</i>.`

@@ -1,0 +1,1 @@
+lar[80209]=`<b>ή, όν</b>, compressible, ARSTT. <i>Meteor. 4, 9, 15</i> ; TH. <i>fr. 7, 8</i>.<p><b>Étym</b>. πιέζω.`

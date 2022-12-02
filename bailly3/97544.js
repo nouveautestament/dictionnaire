@@ -1,0 +1,1 @@
+lar[97544]=`<b>τανυ·ήκης, ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> à longue pointe, à pointe aiguë, IL. <i>14, 385</i> ; OD. <i>10, 439, etc.</i><br><b>      2</b> qui s’allonge, <i>en parl. de branches qui s’entrechoquent par l’effet de la tempête,</i> IL. <i>16, 768</i>.<p><b>Étym</b>. τανυ-, ἀκή ; <i>cf</i>. ταναήκης.`

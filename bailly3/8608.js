@@ -1,0 +1,1 @@
+lar[8608]=`<b>ἀν·ευλαβής, ής, ές</b> <font color="purple">[λᾰ]</font><br><b>      1</b> sans crainte de Dieu, AQU. <i>Esai. 57, 11</i>.<br><b>      2</b> irrespectueux, CHRYS. <i>7, 317 Migne</i>.<p><b>Étym</b>. ἀν-, εὐ.`

@@ -1,0 +1,1 @@
+lar[96897]=`<b>ατος (τὸ)</b> resserrement, lien, nœud, HÉRON <i>Aut. 245a</i>.<p><b>Étym</b>. σφίγγω.`

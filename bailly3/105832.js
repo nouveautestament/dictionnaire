@@ -1,0 +1,1 @@
+lar[105832]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> <i>c</i>. φιλοκέρδεια, DS. <i>5, 35</i> ; LUC. <i>Sat. 14</i>.`

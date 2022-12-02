@@ -1,0 +1,1 @@
+lar[368]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰᾰῐ]</font> agaric, <i>sorte de champignon,</i> DIOSC. <i>3, 1</i>.<p>➳ <font color="purple">[ᾱᾰῐ]</font> ANDROM. (GAL. <i>Antid. 14, 39</i>).`

@@ -1,0 +1,1 @@
+lar[5487]=`<b>ἀ·μετάθετος, ος, ον</b>, immuable, POL. <i>2, 32, 5, etc.</i> ; DS. <i>1, 23, etc.</i> ; PLUT. <i>M. 675b ;</i> SPT. <i>3Macc. 5, 1, etc</i>.<p><b>Étym</b>. ἀ, μετατίθημι.`

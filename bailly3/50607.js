@@ -1,0 +1,1 @@
+lar[50607]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> habitant de Césarée, en Cappadoce, ANTH. <i>8, 6, 9</i>.<p><b>Étym</b>. Καισάρεια.`

@@ -1,0 +1,1 @@
+lar[35764]=`<b>ου (τὸ)</b> treuil, cylindre sur lequel on enroule une corde, PHIL. BYZ. <i>Bel. 38</i>.<p><b>Étym</b>. ἐξελίσσω.`

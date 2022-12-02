@@ -1,0 +1,1 @@
+lar[102707]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> fierté, mépris, dédain, M. ANT. <i>8, 26</i> ; SPT. <i>Num. 22, 30</i>.<p><b>Étym</b>. ὑπεροράω.`

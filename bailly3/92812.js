@@ -1,0 +1,1 @@
+lar[92812]=`<font color="purple">[ᾰτ]</font> faire camper, <i>d’où au pass. (impf. 3 pl. épq</i>. ἐστρατόωντο) être campé, IL. <i>3, 187 ; 4, 378</i>.<p><b>Étym</b>. στρατός.`

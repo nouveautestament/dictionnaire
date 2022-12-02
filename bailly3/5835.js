@@ -1,0 +1,1 @@
+lar[5835]=`<b>ης (ἡ)</b> Ampè, <i>v. à l’embouchure du Tigre,</i> HDT. <i>6, 20</i>.`

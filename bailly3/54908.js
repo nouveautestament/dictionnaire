@@ -1,0 +1,1 @@
+lar[54908]=`<b>εως (ἡ) :<br>      1</b> <i>act</i>. action de foudroyer, STR. <i>750</i> ; PLUT. <i>Marc. 28, M. 996c.</i><br><b>      2</b> <i>pass</i>. action d’être foudroyé, SCYMN. <i>394</i>.<p><b>Étym</b>. κεραυνόω.`

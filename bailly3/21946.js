@@ -1,0 +1,1 @@
+lar[21946]=`<b>γηροβοσκέω-ῶ</b>, prendre soin d’un vieillard, <i>particul</i>. de ses parents dans leur vieillesse, EUR. <i>Med. 1033 ; Alc. 663</i> ; MÉN. <i>Monost. 270 ; au pass</i>. être soigné dans sa vieillesse, AR. <i>Ach. 678</i>.<p><b>Étym</b>. γηροβοσκός.`

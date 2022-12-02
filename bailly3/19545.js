@@ -1,0 +1,1 @@
+lar[19545]=`<b>εος-ους (τὸ)</b> fond, profondeur, <i>en parl. de la mer,</i> IL. <i>18, 38, 49 ; au plur</i>. IL. <i>1, 358 ; 13, 21, 32</i> ; OD. <i>1, 53</i> ; PD. <i>O. 7, 105</i> ; AR. <i>Ran. 666 ; en parl. d’une forêt,</i> OD. <i>17, 316 ; fig</i>. le fond (du cœur) ANTH. <i>5, 274</i>.<p><b>Étym</b>. <i>poét. c</i>. βάθος ; <i>cf</i>. βαθύς.`

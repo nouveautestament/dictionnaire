@@ -1,0 +1,1 @@
+lar[55811]=`<i>adv</i>., furtivement, DYSC. <i>(Bkk. p. 611, 27).</i><p><b>Étym</b>. κλέπτω.`

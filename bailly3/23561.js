@@ -1,0 +1,1 @@
+lar[23561]=`<b>δεινο·κάθεκτος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à contenir, à réprimer, ORPH. <i>H. 9, 6</i>.<p><b>Étym</b>. δ. κατέχω.`

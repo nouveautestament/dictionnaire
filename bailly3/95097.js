@@ -1,0 +1,1 @@
+lar[95097]=`<b>συν·διαθέω</b>, traverser en courant avec, PLAT. <i>Pol. 266c</i>.`

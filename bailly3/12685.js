@@ -1,0 +1,1 @@
+lar[12685]=`<b>ἀπο·κτάομαι-ῶμαι</b>, cesser de posséder, être dépossédé, BAS. <i>2, 56</i>.`

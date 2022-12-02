@@ -1,0 +1,1 @@
+lar[52343]=`<b>*Κατάδουπα, ων (τὰ)</b> <i>forme supposée d’après le lat</i>. Catadupa (CIC. <i>Somn. Scip. § 5) ; on ne trouve que le gén</i>. Καταδούπων, HDT. <i>2, 17, qui peut être rapporté au nomin</i>. Κατάδουποι.<p><b>Étym</b>. <i>v</i>. κατάδουπος.`

@@ -1,0 +1,1 @@
+lar[94011]=`<b>εως (ἡ)</b> action de se souvenir à la fois, SEXT. <i>M. 7, 279 ; P. 3, 108</i>.<p><b>Étym</b>. συμμνημονεύω.`

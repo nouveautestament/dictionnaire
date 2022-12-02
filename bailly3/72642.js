@@ -1,0 +1,1 @@
+lar[72642]=`<b>ὀρεσσί·γονος, ος, ον</b> <font color="purple">[ῐ]</font> né dans les montagnes, AR. <i>Ran. 1344</i>.<p><b>Étym</b>. ὄρος, γίγνομαι.`

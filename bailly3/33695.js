@@ -1,0 +1,1 @@
+lar[33695]=`<b>ἐμ·φλέγω</b>, enflammer, embraser dans, <i>avec</i> ἐν <i>et le dat</i>. A. PL. <i>198 ; au pass</i>. NIC. <i>Th. 338</i>.<p><b>Étym</b>. ἐν, φλ.`

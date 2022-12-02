@@ -1,0 +1,1 @@
+lar[93078]=`<b>στυλο·γλύφος, ος, ον</b> <font color="purple">[ῡῠ]</font> qui taille des colonnes, PHIL. PARADOX. <i>VII mir. 1</i>.<p><b>Étym</b>. στ. γλύφω.`

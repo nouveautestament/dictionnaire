@@ -1,0 +1,1 @@
+lar[100865]=`<b>τρυσί·μοχθος, ος, ον</b>, usé par la fatigue <i>ou</i> la peine, EUR. <i>fr. inc. 986 Nauck</i>.`

@@ -1,0 +1,1 @@
+lar[56787]=`<b>ου (ὁ)</b> Komètès (<i>propr</i>. le Chevelu) <i>h</i>. A.RH. <i>1, 35</i>.<p>➳ <i>Dor</i>. Κομάτας <font color="purple">[ᾱᾱ]</font> THCR. <i>Idyl. 5, 4, 150</i>.<p><b>Étym</b>. κομήτης.`

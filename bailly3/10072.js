@@ -1,0 +1,1 @@
+lar[10072]=`<b>ἀντι·μέλλω</b>, différer <i>ou</i> temporiser à son tour, THC. <i>3, 12</i>.`

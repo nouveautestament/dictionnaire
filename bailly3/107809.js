@@ -1,0 +1,1 @@
+lar[107809]=`<b>χαμ·ερπής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se traîne à terre, rampant, ANTH. <i>App. 39, 8</i>.<p><b>Étym</b>. χαμαί, ἕρπω.`

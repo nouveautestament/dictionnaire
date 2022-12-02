@@ -1,0 +1,1 @@
+lar[107618]=`<b>ης (ἡ)</b> Khalkè (<i>auj</i>. Khálki) <i>î. de la mer Icarienne,</i> THC. <i>8, 41, 44</i>.`

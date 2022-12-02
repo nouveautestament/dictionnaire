@@ -1,0 +1,1 @@
+lar[41311]=`<b>ἑτερό·ζηλος, ος, ον</b>, qui a d’autres goûts, SEXT. <i>202, 4 Bkk.</i> ; ANTH. <i>11, 216</i>.<p><b>Étym</b>. ἕ. ζῆλος.`

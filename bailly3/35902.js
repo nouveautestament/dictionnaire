@@ -1,0 +1,1 @@
+lar[35902]=`<b>ἐξεχέ·βρογχος, ος, ον</b>, qui a le nœud de la gorge saillant, HPC. <i>Art. 807</i> ; ARÉT. <i>Caus. m. diut. 1, 8</i>.<p><b>Étym</b>. ἐξέχω, βρόγχος.`

@@ -1,0 +1,1 @@
+lar[108313]=`<b>χερσομανέω-ῶ</b>, être inculte, sauvage, NAZ. <i>Epitaph. patris</i>.<p><b>Étym</b>. χέρσος, μαίνομαι.`

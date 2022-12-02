@@ -1,0 +1,1 @@
+lar[68316]=`<b>νεο·φώτιστος, ος, ον</b>, nouvellement baptisé, CHRYS. <i>4, 751</i>.<p><b>Étym</b>. ν. φωτίζω.`

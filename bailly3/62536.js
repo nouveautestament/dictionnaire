@@ -1,0 +1,1 @@
+lar[62536]=`<b>μακρονοσέω-ῶ</b>, être longtemps malade, ARR. <i>Epict. 3, 16, 12</i>.<p><b>Étym</b>. μ. νόσος.`

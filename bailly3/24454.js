@@ -1,0 +1,1 @@
+lar[24454]=`<b>ής, ές</b>, imprégné, trempé, LUC. <i>Trag. 304</i>.<p><b>Étym</b>. διαβρέχω.`

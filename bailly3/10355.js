@@ -1,0 +1,1 @@
+lar[10355]=`<b>εως (ἡ) :<br>      1</b> heurt, <i>d’où</i> résistance, HPC. <i>22, 48</i>.<br><b>      2</b> emploi d’un cas pour un autre, antiptose, PRISC. <i>Gr. lat. 17, 155</i> ; SCH.-AR. <i>Vesp. 135</i>.<p><b>Étym</b>. ἀντιπίπτω.`

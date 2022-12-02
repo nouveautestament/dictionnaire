@@ -1,0 +1,1 @@
+lar[1071]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐᾰ]</font> fils d’Anchise (Énée, IL. <i>16, 754 ; ou</i> Ekhépolos, IL. <i>23, 296</i>).`

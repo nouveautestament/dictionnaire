@@ -1,0 +1,1 @@
+lar[105002]=`nourrir au râtelier, THÉODOT. <i>Prov. 14, 4</i> ; ŒNOM. (EUS. <i>P.E. 232c</i>).`

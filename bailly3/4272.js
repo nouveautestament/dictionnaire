@@ -1,0 +1,1 @@
+lar[4272]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> Alexippa, <i>f</i>. ANTH. <i>7, 434</i>.<p><b>Étym</b>. <i>cf</i>. Ἀλέξιππος.`

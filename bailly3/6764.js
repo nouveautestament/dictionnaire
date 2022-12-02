@@ -1,0 +1,1 @@
+lar[6764]=`<b>ἀνα·ζωγρέω-ῶ</b>, rappeler à la vie, ANTH. <i>7, 594</i> ; NONN. <i>D. 29, 153</i>.`

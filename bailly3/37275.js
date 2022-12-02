@@ -1,0 +1,1 @@
+lar[37275]=`<b>ἐπ·ηρεμέω-ῶ</b> (part, <i>prés</i>.) se reposer après, <i>dat</i>. LUC. <i>Am. 45 ; abs</i>. NYSS. <i>1, 319d</i>.`

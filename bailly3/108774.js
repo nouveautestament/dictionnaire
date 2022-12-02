@@ -1,0 +1,1 @@
+lar[108774]=`<b>χορδ·αψός, οῦ (ὁ)</b> maladie du gros intestin, HPC. <i>Coac. 201 ; Gal. 3, 309</i> ; ARÉT. <i>Caus. m. acut. 2, 6</i>.<p><b>Étym</b>. χορδή, ἅπτω.`

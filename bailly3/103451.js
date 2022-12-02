@@ -1,0 +1,1 @@
+lar[103451]=`<b>ὑπο·λανθάνω</b> <font color="darkgreen">(<i>f</i>. ὑπολήσω, <i>ao.2</i> ὑπέλαθον, <i>etc</i>.)</font> être caché sous, EL. <i>V.H. 3, 1</i>.`

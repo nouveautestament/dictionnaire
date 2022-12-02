@@ -1,0 +1,1 @@
+lar[57477]=`<b>ης, ες</b>, en forme de limaçon, roulé en spirale, PALÆPH. <i>52, 1 (var</i>. -οειδής) ; PLUT. <i>Plac. phil. 4, 16</i>.<p><b>Étym</b>. *κοχλίον, <i>dim. de</i> κόχλος, -ωδης.`

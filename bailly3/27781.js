@@ -1,0 +1,1 @@
+lar[27781]=`<b>οῦ (ὁ)</b> action de saisir, EUR. <i>Cycl. 170</i> ; Q. SM. <i>1, 350</i>.`

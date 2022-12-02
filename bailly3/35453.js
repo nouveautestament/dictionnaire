@@ -1,0 +1,1 @@
+lar[35453]=`<b>ἐξ·αναζέω</b> (<i>fut. 3 sg</i>. -ζέσει) faire éclater en bouillonnant, <i>fig</i>. ESCHL. <i>Pr. 370</i>.`

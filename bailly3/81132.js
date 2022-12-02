@@ -1,0 +1,1 @@
+lar[81132]=`<b>πλουτο·κρατία, ας (ἡ)</b> <font color="purple">[ᾰτ]</font> gouvernement <i>ou</i> domination des riches, XÉN. <i>Mem. 4, 6, 12</i>.<p><b>Étym</b>. πλ. κράτος.`

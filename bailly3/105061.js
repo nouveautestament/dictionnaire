@@ -1,0 +1,1 @@
+lar[105061]=`<b>αντος (ὁ)</b> Pheidas, <i>chef des Béotiens devant Troie,</i> IL. <i>13, 691</i>.<p><b>Étym</b>. φείδομαι.`

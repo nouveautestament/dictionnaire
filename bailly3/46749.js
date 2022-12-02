@@ -1,0 +1,1 @@
+lar[46749]=`<b>ας (ἡ)</b> déification, apothéose, PLUT. <i>M. 377c ;</i> PORPH. <i>Abst. 322</i>.<p><b>Étym</b>. θεοποιός.`

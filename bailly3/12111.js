@@ -1,0 +1,1 @@
+lar[12111]=`<b>ἀπο·αφύσσω</b> <font color="darkgreen">(<i>ao</i>. ἀποήφυσα)</font> <font color="purple">[ᾰφ]</font> vider avec l’écope, EUPH. (ATH. <i>475f</i>).`

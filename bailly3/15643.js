@@ -1,0 +1,1 @@
+lar[15643]=`<b>ἀρχί·πλανος, ου (ὁ)</b> <font color="purple">[ᾰν]</font> chef de nomades, LUC. <i>Tox. 39</i>.<p><b>Étym</b>. ἀ. πλάνη.`

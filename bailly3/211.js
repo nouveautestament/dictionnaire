@@ -1,0 +1,1 @@
+lar[211]=`<b>ου (ὁ)</b> Habrônikhos, <i>h</i>. HDT. <i>8, 21</i> ; THC. <i>1, 91, etc</i>.<p><b>Étym</b>. <i>dim. de</i> Ἅβρων.`

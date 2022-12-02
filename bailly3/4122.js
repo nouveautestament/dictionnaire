@@ -1,0 +1,1 @@
+lar[4122]=`<b>ου (ὁ)</b> = <i>lat</i>. Albinus, <i>n. d’h. rom</i>. PLUT. <i>Brut. 12, Cato ma. 12, etc</i>.`

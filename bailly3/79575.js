@@ -1,0 +1,1 @@
+lar[79575]=`<b>περι·φείδομαι</b>, épargner soigneusement, <i>gén</i>. THCR. <i>Epigr. 9</i> ; A.RH. <i>1, 620</i>.`

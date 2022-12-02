@@ -1,0 +1,1 @@
+lar[79170]=`<b>περι·πορεύομαι :<br>      1</b> aller autour, faire le tour de, <i>acc</i>. POL. <i>4, 54, 4, etc. ; abs</i>. PLAT. <i>Leg. 716a.</i><br><b>      2</b> parcourir, <i>acc</i>. POL. <i>3, 7, 3, etc</i>.`

@@ -1,0 +1,1 @@
+lar[66068]=`<b>μισο·πράγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑ]</font> qui hait les affaires, la vie active, DAMASC. (PHOT. <i>p. 352, 19).</i><p><b>Étym</b>. μ. πρᾶγμα.`

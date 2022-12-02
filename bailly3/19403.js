@@ -1,0 +1,1 @@
+lar[19403]=`<b>ου (ὁ)</b> fourneau, cheminée, M. TYR. <i>22, 3</i>.<p>➳ βαυνός, <i>non att. sel</i>. ARC.`

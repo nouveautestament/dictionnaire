@@ -1,0 +1,1 @@
+lar[64816]=`<b>ή, όν :<br>      1</b> qui concerne le travail des mines ; ἡ μεταλλευτική (<i>s.-e</i>. τέχνη) ARSTT. <i>Pol. 1, 11, 4,</i> l’art d’exploiter une mine.<br><b>      2</b> qui consiste en mines, métallurgique, PLAT. <i>Leg. 847d</i>.<p><b>Étym</b>. μεταλλεύω.`

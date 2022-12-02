@@ -1,0 +1,1 @@
+lar[4083]=`<b>ἀ·λαμπής, ής, ές</b>, qui ne brille pas, sombre, obscur, HPC. <i>Progn. 37, 21</i> ; TH. <i>Col. 14</i> ; PLUT. <i>Phoc. 2, M. 736b, etc.</i> ; ἀλαμπὴς ἡλίου, SOPH. <i>Tr. 691,</i> non éclairé par le soleil ; <i>fig. en parl. de la gloire,</i> PLUT. <i>Phoc. 1</i>.<p><b>Étym</b>. ἀ, λάμπω.`

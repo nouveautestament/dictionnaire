@@ -1,0 +1,1 @@
+lar[86647]=`<b>προσ·χαίρω</b>, se réjouir de, <i>dat</i>. PLUT. <i>Ant. 29</i> ; SPT. <i>Prov. 8, 30</i>.`

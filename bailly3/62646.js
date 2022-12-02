@@ -1,0 +1,1 @@
+lar[62646]=`<b>μαλακοψυχέω-ῶ</b> <font color="purple">[ᾰᾰῡ]</font> avoir l’âme faible, être pusillanime, JOS. <i>Macc. 6</i>.<p><b>Étym</b>. μαλακόψυχος.`

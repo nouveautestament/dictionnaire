@@ -1,0 +1,1 @@
+lar[87677]=`<b>πυλα·μάχος, ος, ον</b> <font color="purple">[ῠᾱᾰ]</font> qui combat aux portes d’une ville, qui assiège les portes d’une ville, <i>ép. d’Athèna,</i> STÉSICH. <i>fr. 48 (71) Bgk</i>.<p>➳ <i>Ion</i>. πυλημάχος, CALL. <i>fr. 503 Schn. ; sel. d’autres,</i> πυλαιμάχος <i>dans les deux textes</i>.<p><b>Étym</b>. πύλη, μάχομαι.`

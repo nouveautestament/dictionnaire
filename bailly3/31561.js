@@ -1,0 +1,1 @@
+lar[31561]=`<b>ἐκ·λεαίνω</b>, effacer en polissant, <i>d’où</i> :<br><b>      1</b> polir, aplanir, <i>au pr</i>. HPC. <i>102g ;</i> PLAT. <i>Conv. 191a ;</i> PLUT. <i>M. 77d ; fig</i>. PLUT. <i>M. 83c, 131c, 600d.</i><br><b>      2</b> effacer, supprimer, abolir, PLUT. <i>M. 567b</i>.`

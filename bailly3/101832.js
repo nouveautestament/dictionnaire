@@ -1,0 +1,1 @@
+lar[101832]=`<b>ὑμνο·τόκος, ος, ον</b>, qui enfante des hymnes, NONN. <i>D. 26, 204</i>.<p><b>Étym</b>. ὕ. τίκτω.`

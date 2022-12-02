@@ -1,0 +1,1 @@
+lar[45096]=`<b>ου (τὸ)</b> passoire, filtre, STR. <i>147 conj</i>.<p><b>Étym</b>. ἠθητήρ.`

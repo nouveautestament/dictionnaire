@@ -1,0 +1,1 @@
+lar[48105]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> vérificateur, arbitre, juge, LYC. <i>93</i>.<p><b>Étym</b>. θυωρός.`

@@ -1,0 +1,1 @@
+lar[78067]=`<i>mieux que</i> <b>πενταδραχμία, ας (ἡ)</b> poids, quantité <i>ou</i> valeur de cinq drachmes, XÉN. <i>Hell. 1, 6, 12</i>.<p><b>Étym</b>. πεντέδραχμος.`

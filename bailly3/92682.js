@@ -1,0 +1,1 @@
+lar[92682]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. parfumé de lavande, DIOSC. <i>5, 54</i>.<p><b>Étym</b>. στοιχάς.`

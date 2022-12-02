@@ -1,0 +1,1 @@
+lar[74924]=`<b>παν·δέξιος, ος, ον</b>, tout à fait favorable, SYN. <i>132</i>.<p><b>Étym</b>. π. δεξιός.`

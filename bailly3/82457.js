@@ -1,0 +1,1 @@
+lar[82457]=`<b>πολύ·τιτος, ος, ον</b> <font color="purple">[<i>irrég</i>. ῑ]</font> très honoré, ORACL. (HDT. <i>5, 92, 2).</i><p><b>Étym</b>. π. τίω.`

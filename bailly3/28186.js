@@ -1,0 +1,1 @@
+lar[28186]=`<b>δυσ·ανάτρεπτος, ος, ον</b> <font color="purple">[ῠᾰν]</font> difficile à renverser, PLUT. <i>Cæs. 4</i>.<p>•<i> Cp</i>. -οτερος, GAL. <i>12, 407</i>.<p><b>Étym</b>. δ. ἀνατρέπω.`

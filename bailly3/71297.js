@@ -1,0 +1,1 @@
+lar[71297]=`<b>εως (ἡ)</b> action de faire un tout, THEOL. <i>p. 59</i>.<p><b>Étym</b>. ὁλόω.`

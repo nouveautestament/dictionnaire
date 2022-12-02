@@ -1,0 +1,1 @@
+lar[13047]=`<b>εως (ἡ) :<br>      1</b> envoi, HDT. <i>7, 148</i>.<br><b>      2</b> renvoi, répudiation, DÉM. <i>1365, 12</i>.<p><b>Étym</b>. ἀποπέμπω.`

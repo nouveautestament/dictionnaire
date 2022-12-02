@@ -1,0 +1,1 @@
+lar[98570]=`(<i>seul. prés</i>.) glousser, crier comme une poule qui pond, A. MYND. (ATH. <i>398d</i>).`

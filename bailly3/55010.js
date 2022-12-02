@@ -1,0 +1,1 @@
+lar[55010]=`<b>κερο·φόρος, ος, ον</b>, qui porte des cornes, EUR. <i>Bacch. 691</i>.<p><b>Étym</b>. κέρας, φέρω.`

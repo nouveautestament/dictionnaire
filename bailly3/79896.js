@@ -1,0 +1,1 @@
+lar[79896]=`<b>πετροβατέω-ῶ</b> <font color="purple">[ᾰ]</font> gravir des rochers, DS. <i>2, 6</i> ; APP. <i>Civ. 4, 79</i>.<p><b>Étym</b>. πετροβάτης.`

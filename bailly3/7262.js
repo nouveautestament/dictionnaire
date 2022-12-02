@@ -1,0 +1,1 @@
+lar[7262]=`<b>ἀν·ανταπόδοτον, ος, ον</b>, sans proposition correspondante, GR. COR. <i>p. 47</i>.`

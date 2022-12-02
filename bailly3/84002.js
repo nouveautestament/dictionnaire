@@ -1,0 +1,1 @@
+lar[84002]=`<b>εως (ἡ) :<br>      1</b> avance d’argent, HERMIPP. (<i>Com. fr. 2, 415</i>) ; DÉM. <i>1208, 16 ; 1210, 10</i>.<br><b>      2</b> trahison, PLAT. <i>Leg. 856e</i>.<p><b>Étym</b>. προδίδωμι.`

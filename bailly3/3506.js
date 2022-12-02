@@ -1,0 +1,1 @@
+lar[3506]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> suite, ARSTT. <i>Rhet. 3, 9, 7</i>.<br><b>      2</b> conséquence, ARSTT. <i>An. pr. 1, 46, 17</i>.<br><b>      3</b> déférence, acquiescement, obéissance, PLAT. <i>Def. 412b</i>.<p><b>Étym</b>. ἀκολουθέω.`

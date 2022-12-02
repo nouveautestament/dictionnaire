@@ -1,0 +1,1 @@
+lar[99681]=`<b>ου (ὁ)</b> ciseau <i>ou</i> burin, PHILYLL. (EUST. <i>p. 1533, 10).</i><p><b>Étym</b>. *τορέω.`

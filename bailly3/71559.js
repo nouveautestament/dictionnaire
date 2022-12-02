@@ -1,0 +1,1 @@
+lar[71559]=`<b>ητος (ἡ)</b> similitude, ressemblance, PLAT. <i>Tim. 30c, Phædr. 240c, etc. ; au pl</i>. PLAT. <i>Phæd. 82a, etc.</i> ; ARSTT. <i>Nic. 6, 3, etc</i>.<p><b>Étym</b>. ὅμοιος.`

@@ -1,0 +1,1 @@
+lar[96786]=`<b>ή, όν</b>, qui concerne le jeu de paume, ARR. <i>Epict. 2, 5, 20</i> ; ἡ σφαιριστική (<i>s.-e</i>. τέχνη) CLÉM. <i>Str. 2, p. 442, 24</i> ; TIMOCR. (ATH. <i>15c</i>) l’art de jouer à la balle ; ὁ σφαιριστικός, POLL. <i>9, 107,</i> habile joueur de balle.<p><b>Étym</b>. σφαιρίζω.`

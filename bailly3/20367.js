@@ -1,0 +1,1 @@
+lar[20367]=`<b>βου·δόρος, ος, ον :<br>      1</b> où l’on écorche les bœufs, HÉS. <i>O. 502</i>.<br><b>      2</b> <i>subst</i>. ὁ β. couteau pour écorcher les bœufs, BABR. <i>97, 7</i>.<p><b>Étym</b>. βοῦς, δέρω.`

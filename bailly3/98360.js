@@ -1,0 +1,1 @@
+lar[98360]=`<b>η, ον</b> <font color="purple">[θῐ]</font> de térébinthe <i>ou</i> de térébenthine, XÉN. <i>An. 4, 4, 13</i> ; DIOSC. <i>1, 50 ; 5, 39 ; subst</i>. ἡ τερεβινθίνη (<i>s.-e</i>. ῥητίνη) DIOSC. <i>4, 154, etc</i>. la térébenthine.<p><b>Étym</b>. τερέβινθος.`

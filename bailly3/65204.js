@@ -1,0 +1,1 @@
+lar[65204]=`<b>ή, όν</b>, qui marque la participation, la communauté, <i>en parl. de certains adjectifs,</i> D. THR. <i>636, 15</i>.<p><b>Étym</b>. *μετουσιάζω, <i>de</i> μετουσία.`

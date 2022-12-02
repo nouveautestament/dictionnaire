@@ -1,0 +1,1 @@
+lar[99359]=`<b>ου (ἡ)</b> <font color="purple">[ῑ <i>pour</i> ῐ, ᾰ]</font> Titaros, <i>v. et mt de Thessalie,</i> LYC. <i>904</i>.`

@@ -1,0 +1,1 @@
+lar[88604]=`<b>ῥινό·βολος, ος, ον</b> <font color="purple">[ῑ]</font> lancé par le nez, ANTH. <i>9, 769</i>.<p><b>Étym</b>. ῥίς, βάλλω.`

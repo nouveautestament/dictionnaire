@@ -1,0 +1,1 @@
+lar[31101]=`<b>ἐκ·βλύω</b> <font color="purple">[ῡ]</font> (<i>part. prés</i>. -ύοντα) <i>c</i>. ἐκβλύζω, A.RH. <i>4, 1417</i>.`

@@ -1,0 +1,1 @@
+lar[46697]=`<b>ας (ἡ) :<br>      1</b> recherche sur la divinité <i>ou</i> les choses divines, <i>d’où</i> science de la divinité, théologie, PLAT. <i>Rsp. 379a ; au plur</i>. ARSTT. <i>Meteor. 2, 1, 2</i>.<br><b>      2</b> doctrine de la divinité de J.-C. ORIG. <i>3, 1069 Migne</i>.<p><b>Étym</b>. θεολόγος.`

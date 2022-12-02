@@ -1,0 +1,1 @@
+lar[24583]=`<b>δια·δράττομαι</b> (<i>seul. ao</i>.) se saisir de, <i>gén</i>. POL. <i>1, 58, 8 (sbj. 3 pl</i>. -άξωνται) ; PHIL. <i>2, 328</i>.<p><b>Étym</b>. <i>inf</i>. -άξασθαι.`

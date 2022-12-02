@@ -1,0 +1,1 @@
+lar[86209]=`<b>προσομοιόω-ῶ :<br>      1 <i>tr.</i></b> assimiler à, <i>dat</i>. DL. <i>7, 40</i>.<br><b>      2</b> être semblable à, <i>dat</i>. DÉM. <i>1398, 24</i>.<p><b>Étym</b>. προσόμοιος.`

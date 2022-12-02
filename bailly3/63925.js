@@ -1,0 +1,1 @@
+lar[63925]=`<b>Μελαν·ώπη, ης (ἡ)</b> Melanôpè, <i>mère d’Homère,</i> LUC. <i>Dem. enc. 9</i>.<p><b>Étym</b>. <i>v</i>. μελανωπός.`

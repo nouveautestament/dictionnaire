@@ -1,0 +1,1 @@
+lar[34208]=`<b>ατος (τὸ)</b> chose pliée en double, GAL. <i>2, 12</i>.<p><b>Étym</b>. ἐνδιπλόω.`

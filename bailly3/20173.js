@@ -1,0 +1,1 @@
+lar[20173]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> larve du ver à soie, ARSTT. <i>H.A. 5, 19, 10</i> (<i>var</i>. βομβυλίς).`

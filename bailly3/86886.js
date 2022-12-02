@@ -1,0 +1,1 @@
+lar[86886]=`<b>προ·ϋποπτεύω</b>, soupçonner d’avance, JOS. <i>B.J. 7, 7, 4</i> ; DC. <i>38, 15</i>.`

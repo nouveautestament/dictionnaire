@@ -1,0 +1,1 @@
+lar[96123]=`<b>ορος (ὁ)</b> qui habite <i>ou</i> vit avec, ESCHL. <i>Eum. 833</i>.<p><b>Étym</b>. συνοικέω.`

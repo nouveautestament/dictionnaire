@@ -1,0 +1,1 @@
+lar[58687]=`<b>ου (τὸ)</b> petite tasse, DÉM. <i>565 fin</i>.<p>➳ κυμβίον (<i>non</i> κυμβεῖον) CIA. <i>2, 757, 32 (335 av. J.-C.), etc. ; v. Meisterh. p. 42</i>.<p><b>Étym</b>. κύμβη.`

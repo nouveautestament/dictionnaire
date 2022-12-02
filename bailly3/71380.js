@@ -1,0 +1,1 @@
+lar[71380]=`<b>ος, ον</b>, d’Homère, homérique, HDT. <i>5, 67</i> ; HPC. <i>848b ;</i> PLAT. <i>Theæt. 179e</i>.<p>➳ <i>Fém</i>. -α, <i>ion</i>. -η, A. ÉTOL. (ATH. <i>699c</i>).<p><b>Étym</b>. Ὅμηρος.`

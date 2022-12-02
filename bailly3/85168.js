@@ -1,0 +1,1 @@
+lar[85168]=`<b>προσ·αναπηδάω-ῶ</b>, s’élancer vers <i>ou</i> sur, <i>dat</i>. EL. <i>N.A. 5, 23</i>.`

@@ -1,0 +1,1 @@
+lar[25429]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> énumération détaillée, PLUT. <i>M. 27c</i>.<p><b>Étym</b>. διαριθμέω.`

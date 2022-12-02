@@ -1,0 +1,1 @@
+lar[8588]=`<b>ἀν·έταιρος, ος, ον</b>, sans compagnons, sans amis, PLUT. <i>M. 807a</i>.<p><b>Étym</b>. ἀν-, ἑταῖρος.`

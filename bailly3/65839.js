@@ -1,0 +1,1 @@
+lar[65839]=`<font color="purple">[μῑ]</font> <i>c</i>. μιμηλάζω PHIL. <i>1, 610</i>.<p><b>Étym</b>. <i>cf</i>. μορφάζω <i>et</i> μορφίζω.`

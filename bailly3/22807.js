@@ -1,0 +1,1 @@
+lar[22807]=`<b>γυναικο·μανής, ής, ές</b> <font color="purple">[ῠᾰ]</font> fou des femmes, ANTH. <i>12, 86</i> ; LUC. <i>Alex. 11</i> ; ATH. <i>464d ; etc</i>.<p><b>Étym</b>. γ. μαίνομαι.`

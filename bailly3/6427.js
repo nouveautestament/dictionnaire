@@ -1,0 +1,1 @@
+lar[6427]=`<b>ἀμφι·φῶς, ῶτος (ὁ, ἡ)</b> qui brille autour (ATH. <i>645b</i>).<p><b>Étym</b>. ἀ. φῶς.`

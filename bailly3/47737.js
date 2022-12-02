@@ -1,0 +1,1 @@
+lar[47737]=`<b>ου (τὸ)</b> petit grumeau, NIC. <i>Al. 295</i>.<p><b>Étym</b>. θρόμβος.`

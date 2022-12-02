@@ -1,0 +1,1 @@
+lar[83299]=`<b>πραΰ·γελως</b>, <i>ion</i>. <b>πρηΰ·γελως, ωτος (ὁ, ἡ)</b> <font color="purple">[ᾱῠ]</font> au doux sourire, LICYMN. <i>4</i> ; ANTH. <i>9, 229 ; 10, 4</i>.<p><b>Étym</b>. πραΰς, γέλως.`

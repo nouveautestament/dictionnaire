@@ -1,0 +1,1 @@
+lar[49705]=`<b>ἰσο·πάλαιστος, ος, ον</b> <font color="purple">[ῑ̆ᾰλ]</font> long d’une palme, ANTH. <i>6, 287</i>.<p><b>Étym</b>. ἴ. παλαιστή.`

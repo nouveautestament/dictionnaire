@@ -1,0 +1,1 @@
+lar[105396]=`<b>ας (ἡ)</b> = <i>lat</i>. Fidentia, <i>v. de la Gaule Cispadane,</i> PLUT. <i>Syll. 27</i>.`

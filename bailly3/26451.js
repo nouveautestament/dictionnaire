@@ -1,0 +1,1 @@
+lar[26451]=`<font color="purple">[ῐτ]</font> <i>vb. de</i> δίειμι, aller à travers, PLAT. <i>Rsp. 545a</i>.`

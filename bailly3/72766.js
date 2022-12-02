@@ -1,0 +1,1 @@
+lar[72766]=`<b>ὀρθό·τονος, ος, ον</b>, frappé de l’accent droit, <i>càd</i>. plein, <i>p. opp. à l’accent fléchi, comme l’accent de τις dans</i> τίς ἐστι ; (<i>p. opp. à</i> ἔστι τις <i>où τις est enclitique</i>) DYSC.<p><b>Étym</b>. ὀ. τόνος.`

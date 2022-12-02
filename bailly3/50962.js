@@ -1,0 +1,1 @@
+lar[50962]=`<b>καλαμάομαι-ῶμαι</b> <font color="purple">[ᾰλᾰ]</font> ramasser le chaume après la moisson, <i>d’où</i> :<br><b>      1</b> glaner, <i>fig</i>. PLUT. <i>M. 182a.</i><br><b>      2</b> <i>p. anal</i>. grappiller après la vendange, SPT. <i>Deut. 24, 22 ; Jer. 6, 9</i>.<p><b>Étym</b>. καλάμη.`

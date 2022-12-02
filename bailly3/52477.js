@@ -1,0 +1,1 @@
+lar[52477]=`<b>κατα·καλλύνω</b> <font color="purple">[ῡ]</font> nettoyer, rendre beau, brillant, EUM. <i>p. 446</i>.`

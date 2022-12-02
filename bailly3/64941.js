@@ -1,0 +1,1 @@
+lar[64941]=`<b>μετα·ρριπίζω</b> <font color="purple">[ῑπ]</font> <i>c</i>. μεταρρίπτω, NONN. <i>D. 2, 408</i> ; EUM. <i>p. 125, 141 ; au pass</i>. ARR. <i>Epict. 1, 4, 19</i>.`

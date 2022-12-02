@@ -1,0 +1,1 @@
+lar[61598]=`<b>άδος (ἡ)</b> <i>au plur</i>. le reste, CHRYS. <i>5, 149, etc</i>.<p><b>Étym</b>. λείπω.`

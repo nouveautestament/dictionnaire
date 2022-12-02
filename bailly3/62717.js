@@ -1,0 +1,1 @@
+lar[62717]=`<b>οῦ (ἡ)</b> Mallos (<i>auj</i>. Kızıltahta) <i>v. de Cilicie,</i> CALL. (E. BYZ.).`

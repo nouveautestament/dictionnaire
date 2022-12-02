@@ -1,0 +1,1 @@
+lar[49164]=`<b>ή, όν</b>, de Juif, judaïque, SPT. <i>2Macc. 8, 11 et 13, 21, etc</i>.<p><b>Étym</b>. Ἰουδαία.`

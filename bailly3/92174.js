@@ -1,0 +1,1 @@
+lar[92174]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> agissements séditieux, AND. <i>30, 4</i> ; PLAT. <i>Leg. 715b, 832c</i>.<p><b>Étym</b>. στασιώτης.`

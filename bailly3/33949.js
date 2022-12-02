@@ -1,0 +1,1 @@
+lar[33949]=`<b>ἐν·αποκλύζω</b>, laver dans, <i>dat</i>. DIOSC. <i>3, 41</i> ; CLÉM. <i>1, 428 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[35530]=`<b>ἑξά·πεδος, ος, ον</b> <font color="purple">[ᾰ]</font> long de six pieds, HDT. <i>2, 149</i>.<p><b>Étym</b>. ἕξ, πούς.`

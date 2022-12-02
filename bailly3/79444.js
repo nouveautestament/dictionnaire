@@ -1,0 +1,1 @@
+lar[79444]=`<b>περι·σφαραγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> faire du bruit tout autour, NIC. <i>Th. 553</i>.`

@@ -1,0 +1,1 @@
+lar[46506]=`<b>ητος (ἡ) :<br>      1</b> nature divine, divinité, PLUT. <i>M. 665a ;</i> SPT. <i>Sap. 19, 9</i> ; NT. <i>Rom. 1, 20</i>.<br><b>      2</b> confiance dans la divinité, PLUT. <i>Syll. 6</i>.<p><b>Étym</b>. θεῖος¹.`

@@ -1,0 +1,1 @@
+lar[62246]=`<b>ης (ἡ)</b> <font color="purple">[μᾰ]</font> magicienne, RHÉT. <i>7, π. ἰδ. l. 2, c. 3, 2 W</i>.<p><b>Étym</b>. μάγος.`

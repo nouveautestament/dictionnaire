@@ -1,0 +1,1 @@
+lar[42325]=`<b>εὐθύ·φρων, ων, ον</b>, au cœur droit, <i>càd</i>. bienveillant, ESCHL. <i>Eum. 1040</i>.<p><b>Étym</b>. εὐ. φρήν.`

@@ -1,0 +1,1 @@
+lar[26265]=`<b>οῦ (ὁ)</b> explorateur, investigateur, XÉN. <i>Cyr. 6, 3, 2</i> ; DH. <i>4, 43</i>.`

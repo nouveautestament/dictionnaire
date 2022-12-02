@@ -1,0 +1,1 @@
+lar[70546]=`<b>ας (ἡ)</b> Œnopia, <i>anc. n. d’Égine,</i> PD. <i>I. 7, 21</i>.<p><b>Étym</b>. Οἴνοψ.`

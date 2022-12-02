@@ -1,0 +1,1 @@
+lar[37959]=`<b>ἐπι·καταψάω-ῶ</b>, gratter à la surface, <i>acc</i>. STR. <i>831</i>.`

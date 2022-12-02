@@ -1,0 +1,1 @@
+lar[31165]=`<b>ορος</b>, <i>adj. m</i>. qui se charge de, qui prend sur soi, <i>gén</i>. ESCHL. <i>fr. 194</i>.<p><b>Étym</b>. ἐκδέχομαι.`

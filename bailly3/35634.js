@@ -1,0 +1,1 @@
+lar[35634]=`<b>ἑξά·στοιχος, ος, ον</b>, à six rangs (de grains par épi) <i>en parl. d’orge,</i> TH. <i>H.P. 8, 4, 2</i>.<p><b>Étym</b>. ἕξ, στοῖχος.`

@@ -1,0 +1,1 @@
+lar[39009]=`<b>ας (ἡ)</b> action de lancer ses rayons (<i>litt</i>. ses regards) ANTH. <i>App. 315</i>.<p><b>Étym</b>. ἐπίσκοπος.`

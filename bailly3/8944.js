@@ -1,0 +1,1 @@
+lar[8944]=`<b>ἀνθρωπο·δαίμων, ονος (ὁ)</b> homme devenu dieu, EUR. <i>Rhes. 971</i>.`

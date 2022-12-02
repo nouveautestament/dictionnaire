@@ -1,0 +1,1 @@
+lar[30380]=`<b>ων</b>, <i>adj. m</i>. vingt, ANTH. <i>App. 262</i>.<p><b>Étym</b>. εἴκοσι.`

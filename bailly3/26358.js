@@ -1,0 +1,1 @@
+lar[26358]=`<b>εως (ἡ)</b> récit, narration, exposition, PLAT. <i>Phædr. 266e, Rsp. 392d ;</i> ARSTT. <i>Rhet. 3, 16</i> ; POL. <i>3, 36, 4</i>.<p><b>Étym</b>. διηγέομαι.`

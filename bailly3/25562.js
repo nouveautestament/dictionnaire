@@ -1,0 +1,1 @@
+lar[25562]=`<b>δίασμα, ατος (τὸ)</b> chaîne d’une trame, CALL. <i>fr. 244</i> ; NONN. <i>D. 6, 151</i>.<p><b>Étym</b>. διάζομαι.`

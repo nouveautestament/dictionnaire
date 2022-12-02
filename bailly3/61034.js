@@ -1,0 +1,1 @@
+lar[61034]=`<b>λιθοβολέω-ῶ</b> <font color="purple">[ῐ]</font> lapider, PLUT. <i>M. 1011e ;</i> SPT. <i>Ex. 18, 13 ; Lev. 20, 2, etc.</i> ; NT. <i>Marc. 12, 4</i>.<p><b>Étym</b>. λιθοβόλος.`

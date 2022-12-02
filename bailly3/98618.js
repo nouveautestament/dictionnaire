@@ -1,0 +1,1 @@
+lar[98618]=`<b>τετρά·ξοος, ος, ον</b>, taillé carrément <i>ou</i> propre à être taillé carrément, TH. <i>H.P. 5, 1, 9</i>.<p><b>Étym</b>. τ. ξέω.`

@@ -1,0 +1,1 @@
+lar[4442]=`<b>έων (οἱ)</b> Haliées (<i>auj. p.-ê</i>. Pórto Chéli) <i>v. d’Argolide,</i> HDT. <i>7, 137</i> ; THC. <i>1, 105</i> ; XÉN. <i>Hell. 6, 2, 3, etc</i>.<p>➳ <i>Acc</i>. -έας, HDT. <i>l. c.</i> ; -ᾶς, THC. <i>l. c. ; postér</i>. -εῖς, DS. <i>11, 78</i> ; STR. <i>373 ; cf</i>. Ἁλία.`

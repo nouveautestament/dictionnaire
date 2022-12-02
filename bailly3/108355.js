@@ -1,0 +1,1 @@
+lar[108355]=`<b>α, ον</b>, d’oie, EUR. <i>fr. 470</i> ; ARSTT. <i>H.A. 5, 33, 5</i> ; DS. <i>1, 70</i> ; DIOSC. <i>1, 81</i> ; ERIPH. <i>3, 552 Meineke</i> ; LUC. <i>Alex. 13</i> ; ATH. <i>384c</i>.<p><b>Étym</b>. χήν.`

@@ -1,0 +1,1 @@
+lar[16169]=`<i>adv</i>., sans gémir, PLUT. <i>M. 107a</i>.`

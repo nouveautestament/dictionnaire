@@ -1,0 +1,1 @@
+lar[51802]=`<b>ου (ὁ)</b> le Carien, <i>surn. de Zeus, chez les Cariens,</i> HDT. <i>1, 171 ; 5, 66</i>.<p><b>Étym</b>. Κάρ.`

@@ -1,0 +1,1 @@
+lar[95154]=`<b>συν·διασῴζω</b>, sauver <i>ou</i> conserver avec <i>ou</i> en même temps, THC. <i>4, 62 ; 7, 57</i> ; PLAT. <i>Conv. 220e ;</i> DÉM. <i>840, 16</i>.`

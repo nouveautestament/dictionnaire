@@ -1,0 +1,1 @@
+lar[37087]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἐπένδυμα, SOPH. <i>fr. 391</i> ; NICOCH. (POLL. <i>7, 45</i>) ; SPT. <i>1Reg. 18, 4 ; 2, 18, 18</i>.<p><b>Étym</b>. ἐπενδύω.`

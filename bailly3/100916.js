@@ -1,0 +1,1 @@
+lar[100916]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> sorte d’hirondelle qui vit dans des trous, dans des crevasses, <i>etc</i>. HDN GR. <i>Epim. p. 36 Boissonade</i>.<p><b>Étym</b>. τρώγλη.`

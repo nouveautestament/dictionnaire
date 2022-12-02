@@ -1,0 +1,1 @@
+lar[6879]=`<b>εως (ἡ)</b> purification, <i>d’où</i> :<br><b>      1</b> déblaiement, POL. <i>5, 100, 6</i>.<br><b>      2</b> éclaircissement, STR. <i>738</i>.<p><b>Étym</b>. ἀνακαθαίρω.`

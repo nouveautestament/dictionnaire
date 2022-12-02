@@ -1,0 +1,1 @@
+lar[52246]=`<b>κατα·γογγύζω</b>, murmurer contre, <i>gén</i>. SPT. <i>1Macc. 11, 39, etc</i>.`

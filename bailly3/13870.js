@@ -1,0 +1,1 @@
+lar[13870]=`<b>ἀπρακτέω-ῶ :<br>      1</b> ne rien faire, rester oisif, ARSTT. <i>Nic. 1, 5, 6, etc.</i><br><b>      2</b> ne rien obtenir : παρά τινος, XÉN. <i>Cyr. 1, 6, 6,</i> de qqn.<p><b>Étym</b>. ἄπρακτος.`

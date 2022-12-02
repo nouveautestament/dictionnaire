@@ -1,0 +1,1 @@
+lar[53242]=`<b>ος, ον</b> <font color="purple">[ᾰφ]</font> recousu, raccommodé, LUC. <i>Ep. sat. 28</i>.<p><b>Étym</b>. καταρράπτω.`

@@ -1,0 +1,1 @@
+lar[33985]=`<b>ἐν·αποστηρίζομαι</b> (<i>seul. prés</i>.) s’appuyer <i>ou</i> être appuyé sur, s’enfoncer dans, <i>avec</i> εἰς <i>et l’acc</i>. HPC. <i>397, 39</i> ; STOB. <i>Ecl. 1, 528</i>.`

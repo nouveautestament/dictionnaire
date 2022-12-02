@@ -1,0 +1,1 @@
+lar[66629]=`<b>μονό·στεγος, ος, ον</b>, qui n’a qu’un toit <i>ou</i> qu’un étage, DH. <i>3, 68</i>.<p><b>Étym</b>. μ. στέγη.`

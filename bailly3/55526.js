@@ -1,0 +1,1 @@
+lar[55526]=`<b>κινναμωμ·έλαιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> huile de cinname, GAL. <i>14, 515</i>.<p><b>Étym</b>. κιννάμωμον, ἔλαιον.`

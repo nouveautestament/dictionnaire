@@ -1,0 +1,1 @@
+lar[10535]=`<b>ἀντι·τωθάζω</b>, railler à son tour <i>ou</i> en retour, CON. <i>Narr. 49</i>.`

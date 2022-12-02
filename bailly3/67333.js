@@ -1,0 +1,1 @@
+lar[67333]=`<b>μυρό·χριστος, ος, ον</b> <font color="purple">[ῠ]</font> imprégné de parfums, EUR. <i>Cycl. 501</i>.<p><b>Étym</b>. μ. χρίω.`

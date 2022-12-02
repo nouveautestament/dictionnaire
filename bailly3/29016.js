@@ -1,0 +1,1 @@
+lar[29016]=`<b>δυ·σχιδής, ής, ές</b> <font color="purple">[ῐ]</font> difficile à fendre, TH. <i>H.P. 3, 10, 1</i>.<p><b>Étym</b>. δ. σχίζω.`

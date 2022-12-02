@@ -1,0 +1,1 @@
+lar[58370]=`<b>κυαν·ῶπις, ιδος</b> <font color="purple">[ῠᾰῐδ]</font> <i>adj. f. c</i>. κυανωπός, OD. <i>12, 60 ; fig</i>. ESCHL. <i>Pers. 559</i>.<p><b>Étym</b>. <i>cf</i>. κυανωπός.`

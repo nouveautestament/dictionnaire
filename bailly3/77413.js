@@ -1,0 +1,1 @@
+lar[77413]=`<b>οῦ (ὁ)</b> beau-père, PLUT. <i>Cleom. 11, etc</i>.<p><b>Étym</b>. πατήρ.`

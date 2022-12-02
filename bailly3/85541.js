@@ -1,0 +1,1 @@
+lar[85541]=`<b>προσ·εκτραγῳδέω-ῶ</b> <font color="purple">[ᾰ]</font> exagérer en outre d’une façon déclamatoire, ORIG.`

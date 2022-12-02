@@ -1,0 +1,1 @@
+lar[30399]=`<b>εἰκοστ·ώνης, ου (ὁ)</b> fermier de l’impôt du vingtième, ARR. <i>Epict. 4, 1, 33</i>.<p><b>Étym</b>. εἰ. ὠνέομαι.`

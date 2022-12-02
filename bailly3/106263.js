@@ -1,0 +1,1 @@
+lar[106263]=`<b>ου (ὁ)</b> Philôtadès, <i>h</i>. ESCHN. <i>Tim. 114, 115 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>patr. de</i> Φιλώτας.`

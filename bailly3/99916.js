@@ -1,0 +1,1 @@
+lar[99916]=`<b>τραπεζο·κόρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> parasite, Ps.-PHOCYL. <i>91</i>.<p><b>Étym</b>. τρ. κορέω.`

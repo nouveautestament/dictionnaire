@@ -1,0 +1,1 @@
+lar[17261]=`<b>εως (ἡ)</b> accroissement et diminution, <i>en parl. des jours et des nuits,</i> PTOL. <i>Math. synt. 1, 15d ; des phases de la lune,</i> EUST. <i>Il. 4, 549, 1 Van der Valk ; du flux et reflux de la mer,</i> STR. <i>Chrest. 32 Huds</i>.<p><b>Étym</b>. αὐξομειόω.`

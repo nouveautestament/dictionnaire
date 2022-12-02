@@ -1,0 +1,1 @@
+lar[9983]=`<b>ή, όν</b>, qui repousse, SEXT. <i>M. 10, 137</i>.<p><b>Étym</b>. ἀντικόπτω.`

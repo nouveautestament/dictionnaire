@@ -1,0 +1,1 @@
+lar[47830]=`<b>ας</b>, <i>ion</i>. <b>-ίη, ης (ἡ) :<br>      1</b> sacrifice, A.RH. <i>1, 1124</i> ; ANTH. <i>5, 17</i> ; DH. <i>1, 21</i>.<br><b>      2</b> rites mystiques, initiation, ORPH. <i>Arg. 472</i>.<p><b>Étym</b>. θυηπόλος.`

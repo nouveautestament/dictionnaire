@@ -1,0 +1,1 @@
+lar[70454]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐᾰ]</font> le fils d’Oïlée, <i>càd</i>. Ajax, IL. <i>12, 365</i>.<p>➳ <i>Gén. épq</i>. -αο <font color="purple">[ᾱ]</font> Q. SM. <i>6, 556. Par contr</i>. Οἰλιάδης, ANTH. <i>App. 9, 3</i>.<p><b>Étym</b>. <i>patr. de</i> Ὀϊλεύς.`

@@ -1,0 +1,1 @@
+lar[31611]=`<b>ἐκ·λιχμάομαι-ῶμαι</b>, laper, <i>d’où</i> absorber, épuiser, PHIL. <i>1, 124</i>.`

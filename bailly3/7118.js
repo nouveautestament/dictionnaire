@@ -1,0 +1,1 @@
+lar[7118]=`<b>ας (ἡ) :<br>      1</b> proportion mathématique, PLAT. <i>Tim. 31c, 32c ;</i> ARSTT. <i>Nic. 5, 3, 8, etc.</i> ; κατὰ τὴν ἀναλογίαν, POL. <i>3, 13, 5, etc</i>. proportionnellement.<br><b>      2</b> correspondance, analogie, <i>en gén</i>. PLAT. <i>Pol. 257b, etc.</i> ; ARSTT. <i>H.A. 1, 1, etc</i>.<p><b>Étym</b>. ἀνάλογος.`

@@ -1,0 +1,1 @@
+lar[80000]=`<b>ιδος</b> <font color="purple">[ᾰῑῐδ]</font> <i>adj. f. c</i>. πηγανίτης SOPATR. (ATH. <i>101b</i>).`

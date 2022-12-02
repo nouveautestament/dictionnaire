@@ -1,0 +1,1 @@
+lar[29865]=`<b>ἐγ·χαλινόω-ῶ</b> <font color="purple">[ᾰῑ]</font> mettre un mors dans, brider, <i>acc</i>. BABR. <i>76, 14 ; au pass. (pf</i>. ἐγκεχαλίνωμαι) HDT. <i>3, 14</i> ; XÉN. <i>An. 7, 2, 21 ; fig</i>. refréner, PLUT. <i>Lys. 21</i>.<p><b>Étym</b>. ἐν, χ.`

@@ -1,0 +1,1 @@
+lar[102598]=`<b>ὑπερ·κλύζω :<br>      1 <i>intr.</i></b> déborder, STR. <i>440</i>.<br><b>      2 <i>tr.</i></b> inonder, <i>acc</i>. STR. <i>456</i>.`

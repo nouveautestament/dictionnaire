@@ -1,0 +1,1 @@
+lar[78120]=`<b>πεντηκοντα·ετής, ής, ές</b>, de cinquante ans, quinquagénaire, PLAT. <i>1 Alc. 127e</i>.<p><b>Étym</b>. π. ἔτος.`

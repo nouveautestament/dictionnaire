@@ -1,0 +1,1 @@
+lar[77106]=`<b>εως (ἡ)</b> action d’exciter, de stimuler, XÉN. <i>Hipp. 1, 25</i> ; POL. <i>6, 39, 8</i>.<p><b>Étym</b>. παρορμάω.`

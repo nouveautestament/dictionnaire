@@ -1,0 +1,1 @@
+lar[78255]=`<b>α, ον</b>, qui aide à la digestion, ARÉT. <i>Caus. m. diut. 2, 7</i>.<p><b>Étym</b>. πέπτω.`

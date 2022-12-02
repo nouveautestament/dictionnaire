@@ -1,0 +1,1 @@
+lar[47023]=`<b>θεσμ·ῳδός, οῦ (ὁ)</b> qui rend des oracles, PHIL. (EUS. <i>P.E. 360e</i>).<p><b>Étym</b>. θ. ᾠδή.`

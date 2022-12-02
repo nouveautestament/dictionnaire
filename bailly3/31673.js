@@ -1,0 +1,1 @@
+lar[31673]=`<b>εως (ἡ)</b> action de mesurer, mensuration, POL. <i>5, 98, 10</i>.<p><b>Étym</b>. ἐκμετρέω.`

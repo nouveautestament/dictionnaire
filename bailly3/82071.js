@@ -1,0 +1,1 @@
+lar[82071]=`<b>πολύ·λλιστος, ος, ον :<br>      1</b> invoqué par de nombreuses prières, OD. <i>5, 445</i>.<br><b>      2</b> que l’on appelle de ses vœux, désiré, souhaité, ORPH. <i>H. 40, 9</i>.<br><b>      3</b> fréquenté par les suppliants, HH. <i>Ap. 347 ; Cer. 28</i>.<p>➳ <i>Fém</i>. πολυλλίστη, ORPH. <i>l. c</i>.<p><b>Étym</b>. π. λίσσομαι.`

@@ -1,0 +1,1 @@
+lar[78306]=`<b>*περάω-ῶ</b>, <i>à cause des homonymes avec</i> περάω¹ (περάαν, ἐπέρασα, <i>etc.) posé par erreur p</i>. πέρνημι.`

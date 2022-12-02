@@ -1,0 +1,1 @@
+lar[40310]=`<b>οῦ (τὸ)</b> rame (<i>mot poét. ; en prose,</i> κώπη) OD. <i>11, 77, 121, 129, etc. ; au plur</i>. OD. <i>11, 124</i> ; ORACL. (HDT. <i>8, 96</i>) ; EUR. <i>I.A. 1388, I.T. 1485</i>.<p><b>Étym</b>. ἐρέσσω, <i>cf</i>. ἐρετμός.`

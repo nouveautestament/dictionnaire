@@ -1,0 +1,1 @@
+lar[14248]=`<b>οῦ</b>, <i>adj. m.</i> :<br><b>      1</b> blanc, <i>en parl. d’écume,</i> ESCHL. <i>Sept. 60 ; de cygnes,</i> THCR. <i>Idyl. 25, 131</i>.<br><b>      2</b> brillant (serpent) ESCHL. <i>Eum. 181</i>.<p><b>Étym</b>. <i>cf</i>. ἀργής <i>et</i> ἀργήεις.`

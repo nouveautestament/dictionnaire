@@ -1,0 +1,1 @@
+lar[18534]=`<b>ἀχρηστέω-ῶ</b> (<i>seul. prés</i>.) être inutile, SEXT. <i>M. 1, 259</i>.<p><b>Étym</b>. ἄχρηστος.`

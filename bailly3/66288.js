@@ -1,0 +1,1 @@
+lar[66288]=`<b>μοιρ·αγέτης</b>, <i>dor</i>. <b>μοιρ·αγέτας</b>, <i>gén</i>. <b>α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> qui dirige le Destin, PAUS. <i>5, 15, 5 ; 8, 37, 1, etc</i>.<p>➳ <i>Ion. gén</i>. μοιρηγέτεω, A.RH. <i>1, 1127</i>.<p><b>Étym</b>. μοῖρα, ἡγέομαι.`

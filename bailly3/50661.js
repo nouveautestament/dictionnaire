@@ -1,0 +1,1 @@
+lar[50661]=`<font color="purple">[ᾰβ]</font> imiter le cri de la perdrix, ARSTT. <i>H.A. 4, 9, 18</i>.<p><b>Étym</b>. κακκαβίς.`

@@ -1,0 +1,1 @@
+lar[26999]=`<b>δι·πύρηνος, ος, ον</b> <font color="purple">[ῐῡ]</font> à deux noyaux, <i>d’où</i> à double bouton (sonde de chirurgien) GAL. <i>3, 212 ; 4, 187</i> ; P. ÉG. <i>146, 148 Briau</i>.<p><b>Étym</b>. δίς, πυρήν.`

@@ -1,0 +1,1 @@
+lar[18881]=`<b>(τὸ)</b> <i>autre n. de la plante</i> ἄσαρον, DIOSC. <i>1, 9</i>.`

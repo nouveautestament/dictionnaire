@@ -1,0 +1,1 @@
+lar[13317]=`<b>ἀπο·σκηνόω-ῶ :<br>      1</b> éloigner <i>ou</i> déplacer sa tente, SPT. <i>Gen. 13 fin</i>.<br><b>      2</b> <i>p. suite,</i> vivre à part (<i>v</i>. ἀποσκηνέω, ἀπόσκηνος) PLUT. <i>Eum. 15, etc. ; d’où fig</i>. être étranger à, <i>gén</i>. PLUT. <i>M. 334b</i>.`

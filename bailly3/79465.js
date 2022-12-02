@@ -1,0 +1,1 @@
+lar[79465]=`<b>(ὁ)</b> Péritas :<br><b>      1</b> <i>n. d’h</i>. A. PL. <i>236</i>.<br><b>      2</b> <i>n. de chien,</i> SOTAD. (PLUT. <i>Alex. 61</i>).`

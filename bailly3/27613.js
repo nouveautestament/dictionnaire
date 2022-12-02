@@ -1,0 +1,1 @@
+lar[27613]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font><br><b>   I</b> <i>subst</i>. chevreuil, <i>c</i>. δορκάς, CALL. <i>Ep. 33, 2</i> ; OPP. <i>C. 1, 440 ; fig. en parl. d’une jeune fille,</i> ANTH. <i>5, 292</i>.<br><b>   II</b> <i>adj</i>. de chevreuil, <i>d’où subst</i>. fouet en peau de chevreuil, NAZ. <i>1, 717a Migne</i>.<p><b>Étym</b>. δόρξ.`

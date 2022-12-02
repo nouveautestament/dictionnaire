@@ -1,0 +1,1 @@
+lar[956]=`<i>adv</i>., grossièrement, PHILSTR. <i>198, etc</i>.`

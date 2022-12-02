@@ -1,0 +1,1 @@
+lar[68349]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Nestor, A.RH.<p><b>Étym</b>. Νέστωρ.`

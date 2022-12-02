@@ -1,0 +1,1 @@
+lar[85268]=`<b>προσ·αποστερέω-ῶ</b>, dépouiller en outre de, <i>gén</i>. DÉM. <i>536, 14</i> ; SOCR. <i>Ep. 6, p. 16, 3</i>.`

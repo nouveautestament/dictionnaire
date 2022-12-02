@@ -1,0 +1,1 @@
+lar[17819]=`<b>(ὁ)</b> homme malpropre, PHRYN. COM. (POLL. <i>2, 34).</i><p><b>Étym</b>. αὐχμός.`

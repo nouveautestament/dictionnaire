@@ -1,0 +1,1 @@
+lar[68606]=`<b>ου (τὸ)</b> laurier-rose, DIOSC. <i>4, 82</i>.<p><b>Étym</b>. νηρός.`

@@ -1,0 +1,1 @@
+lar[47070]=`<i>voc</i>. -ί (ἡ) <font color="purple">[ῠ]</font> Thestylis, <i>esclave,</i> THCR. <i>Idyl. 2, 1</i>.`

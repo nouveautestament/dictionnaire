@@ -1,0 +1,1 @@
+lar[51397]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kameiros, <i>oncle d’Hèlios,</i> PD. <i>O. 7, 135</i>.`

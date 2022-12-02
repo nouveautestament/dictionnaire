@@ -1,0 +1,1 @@
+lar[46169]=`<b>θαλασσό·παις, παιδος (ὁ)</b> <font color="purple">[θᾰ]</font> enfant de la mer, LYC. <i>892</i>.<p><b>Étym</b>. θ. παῖς.`

@@ -1,0 +1,1 @@
+lar[85428]=`<b>προσ·διατάσσω</b>, <i>att</i>. <b>-τάττω</b>, disposer en outre, JOS. <i>A.J. 4, 8, 41</i>.<br><b><i>Moy.</i></b> ordonner en outre, PHIL. <i>2, 399</i>.`

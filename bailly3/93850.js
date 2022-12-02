@@ -1,0 +1,1 @@
+lar[93850]=`<b>οῦ (ὁ) :<br>      1</b> qui vit avec un autre, compagnon, associé, POL. <i>8, 12, 3</i>.<br><b>      2</b> <i>particul</i>. confident <i>ou</i> favori des empereurs romains, PLUT. <i>M. 207c, etc</i>.<p><b>Étym</b>. συμβιόω.`

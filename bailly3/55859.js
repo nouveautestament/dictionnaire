@@ -1,0 +1,1 @@
+lar[55859]=`<b>Κλειτ·αγόρα, ας (ἡ)</b> <font color="purple">[τᾰ]</font> Kleitagora, <i>f</i>. AR. <i>Lys. 1237, etc</i>.<p>➳ <i>Ion</i>. Κλειταγόρη, ANTH. <i>7, 657</i>.<p><b>Étym</b>. <i>fém. de</i> Κλειταγόρας.`

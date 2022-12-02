@@ -1,0 +1,1 @@
+lar[84026]=`<b>προ·εγκρατεύομαι</b> <font color="purple">[ᾰ]</font> se préparer par l’abstinence, BAS. <i>3, 181 Migne</i>.`

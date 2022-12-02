@@ -1,0 +1,1 @@
+lar[41300]=`<b>ἑτερό·γονος, ος, ον</b>, dont le père et la mère sont chacun de race différente, HIPPIATR. <i>p. 11</i>.<p><b>Étym</b>. ἕ. γίγνομαι.`

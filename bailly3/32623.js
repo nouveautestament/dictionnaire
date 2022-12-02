@@ -1,0 +1,1 @@
+lar[32623]=`<b>ή, όν :<br>      1</b> propre à rechercher, à examiner, PLAT. <i>Soph. 216b, etc.</i><br><b>      2</b> propre à convaincre, ARSTT. <i>Rhet. 2, 4, 12</i>.<br><b>      3</b> propre à réfuter, ARSTT. <i>Rhet. 2, 22, 14</i>.<p>•<i> Sup</i>. -ώτατος, LGN <i>4, 1</i>.<p><b>Étym</b>. ἐλέγχω.`

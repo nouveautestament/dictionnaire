@@ -1,0 +1,1 @@
+lar[67795]=`<b>Ναυσι·μάχη, ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> Nausimakhè, <i>f</i>. AR. <i>Th. 804</i>.<p><b>Étym</b>. <i>v</i>. Ναυσίμαχος.`

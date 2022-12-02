@@ -1,0 +1,1 @@
+lar[97455]=`<b>ω (ὁ)</b> Talôs, <i>h</i>. PLAT. <i>Min. 320c ;</i> A.RH. <i>4, 1636</i> ; LUC. <i>Salt. 49 etc</i>.`

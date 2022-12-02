@@ -1,0 +1,1 @@
+lar[96741]=`<b>σύ·σχολος, ος, ον</b>, qui jouit d’une paix profonde, HIÉROCL. (STOB. <i>Fl. 67, 24).</i><p><b>Étym</b>. σύν, σχολή.`

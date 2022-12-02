@@ -1,0 +1,1 @@
+lar[52854]=`<b>κατα·μολύνω</b> <font color="purple">[ῡ]</font> souiller, EUM. <i>p. 274</i> ; CHRYS. <i>4, 373</i>.`

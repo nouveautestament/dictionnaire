@@ -1,0 +1,1 @@
+lar[61543]=`<b>ου (ὁ)</b> Lonkhatès, <i>Scythe,</i> LUC. <i>Tox. 44, 55</i>.`

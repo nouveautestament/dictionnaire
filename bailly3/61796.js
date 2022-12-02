@@ -1,0 +1,1 @@
+lar[61796]=`<b>ΐδος</b> <font color="purple">[ῡῐδ]</font> <i>adj. f</i>. Lydienne, HERMÉS. (ATH. <i>598a</i>).<p><b>Étym</b>. Λυδός.`

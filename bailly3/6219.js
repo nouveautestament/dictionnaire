@@ -1,0 +1,1 @@
+lar[6219]=`<b>ἀμφι·κυνέω-ῶ</b> (<i>seul. inf. ao</i>. -κύσαι <font color="purple">[ῠ]</font>) couvrir de baisers, Q. SM. <i>7, 328</i>.`

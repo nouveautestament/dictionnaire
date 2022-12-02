@@ -1,0 +1,1 @@
+lar[74037]=`<b>ὀψο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> passionné pour la bonne chère, gourmet, ATH. <i>464e</i>.<p><b>Étym</b>. ὄψον, μαίνομαι.`

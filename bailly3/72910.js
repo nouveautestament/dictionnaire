@@ -1,0 +1,1 @@
+lar[72910]=`<b>ὀρνεό·φοιτος, ος, ον</b>, fréquenté par les oiseaux, ANTH. <i>10, 11</i>.<p><b>Étym</b>. ὄρνεον, φοιτάω.`

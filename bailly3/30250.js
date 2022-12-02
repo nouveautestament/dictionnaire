@@ -1,0 +1,1 @@
+lar[30250]=`<b>ας</b>, <i>épq</i>. <b>-έη, ης (ἡ)</b> Eidothéa <i>ou</i> Eidothéè :<br><b>      1</b> <i>n. d’une déesse de la mer,</i> OD. <i>4, 366</i> ; NONN. <i>D. 1, 37 ; 43, 102</i> ; ANTH. <i>9, 474</i>.<br><b>      2</b> <i>n. de f</i>. ANTH. <i>5, 17</i>.<p><b>Étym</b>. εἶδος, θεά.`

@@ -1,0 +1,1 @@
+lar[108718]=`<b>ης, ες</b>, de la nature du choléra, cholérique, HPC. <i>Coac. 285e</i>.<p><b>Étym</b>. χολέρα, -ωδης.`

@@ -1,0 +1,1 @@
+lar[61634]=`<font color="purple">[ᾰ]</font> préparer <i>ou</i> faire cuire dans un plat, ORIB. <i>p. 65 Mai ; au pass</i>. ANON. <i>(Bkk. p. 105, 17).</i><p><b>Étym</b>. λοπάς.`

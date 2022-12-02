@@ -1,0 +1,1 @@
+lar[3554]=`<b>ἀκοντο·βόλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui lance des traits, A.RH. <i>2, 1000</i> ; OPP. <i>C. 3, 135</i>.<p><b>Étym</b>. ἄκων¹, βάλλω.`

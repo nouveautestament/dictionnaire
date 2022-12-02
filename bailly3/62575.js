@@ -1,0 +1,1 @@
+lar[62575]=`<b>μακρο·τράχηλος, ος, ον</b> <font color="purple">[ᾰχ]</font> au long cou, DS. <i>2, 50 ; fig</i>. ANTH. <i>5, 135</i>.`

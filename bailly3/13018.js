@@ -1,0 +1,1 @@
+lar[13018]=`<b>ἀπο·πάλλω</b>, faire rebondir, LUC. <i>Am. 45 ; au pass</i>. rebondir, être réfléchi <i>ou</i> répercuté, ARSTT. <i>Probl. 9, 14, 1</i> ; PLUT. <i>Alex. 35</i>.`

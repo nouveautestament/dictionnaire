@@ -1,0 +1,1 @@
+lar[47605]=`<b>θρασύ·πονος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui travaille <i>ou</i> qui lutte courageusement, PD. <i>O. 1, 156</i>.<p><b>Étym</b>. θρ. πένομαι.`

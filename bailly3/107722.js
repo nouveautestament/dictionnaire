@@ -1,0 +1,1 @@
+lar[107722]=`<b>χαλκό·χρους, ους, ουν</b>, qui a la couleur de l’airain, DIOSC. <i>2, 213</i>.<p><b>Étym</b>. χ. χρόα.`

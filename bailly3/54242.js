@@ -1,0 +1,1 @@
+lar[54242]=`<b>κατω·νάκη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> vêtement d’esclave, garni d’une fourrure de peau de mouton, AR. <i>Lys. 1151, etc</i>.<p><b>Étym</b>. κάτω, νάκος.`

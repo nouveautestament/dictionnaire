@@ -1,0 +1,1 @@
+lar[96332]=`<b>εως (ἡ)</b> conservation, EUM. <i>445</i>.<p><b>Étym</b>. συντηρέω.`

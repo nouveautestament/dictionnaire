@@ -1,0 +1,1 @@
+lar[20491]=`<b>βουο·νόμαι, ῶν (οἱ)</b> les Bouonomes, <i>litt</i>. les Bouviers, <i>pple près du Phase,</i> ORPH. <i>Arg. 1048</i>.<p><b>Étym</b>. βοῦς, νέμω.`

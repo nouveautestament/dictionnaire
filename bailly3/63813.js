@@ -1,0 +1,1 @@
+lar[63813]=`<i>non</i> <b>*Μελαμποδία, ας (ἡ)</b> la Mélampodeia (histoire de Mélampous) <i>poème d’Hésiode</i>.<p><b>Étym</b>. Μελάμπους.`

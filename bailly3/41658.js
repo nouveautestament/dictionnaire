@@ -1,0 +1,1 @@
+lar[41658]=`<b>εὐ·άροτος, ος, ον</b> <font color="purple">[ᾰ]</font> bien labouré <i>ou</i> facile à labourer, A.RH. <i>2, 810</i> ; ANTH. <i>6, 41, etc</i>.<p><b>Étym</b>. εὖ, ἀρόω.`

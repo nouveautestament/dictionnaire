@@ -1,0 +1,1 @@
+lar[11445]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> trompeur, mensonger, OD. <i>14, 127, 288 ; en parl. de pers</i>. NONN. <i>D. 46, 10</i>.<p><b>Étym</b>. ἀπάτη.`

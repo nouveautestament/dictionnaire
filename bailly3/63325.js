@@ -1,0 +1,1 @@
+lar[63325]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en un langage magnifique, APP. <i>1, 122, 744 Schweigh</i>.`

@@ -1,0 +1,1 @@
+lar[7974]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾰᾰθ]</font> action virile, belle action, STR. <i>19</i> ; PLUT. <i>Sert. 10</i>.`

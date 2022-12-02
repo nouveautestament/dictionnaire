@@ -1,0 +1,1 @@
+lar[74083]=`<b>παγ·γενέτειρα, ας</b>, <i>adj. f</i>. mère de toutes choses, ANTH. <i>12, 97</i>.<p><b>Étym</b>. <i>fém. de</i> παγγενέτης.`

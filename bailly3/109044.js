@@ -1,0 +1,1 @@
+lar[109044]=`toucher, <i>d’où</i> partager (une couche), <i>acc</i>. EUR. <i>Her. 915</i>.<br><b><i>Moy.</i></b> se mettre en contact avec, toucher, <i>dat</i>. THCR. <i>Idyl. 10, 18</i>.<p><b>Étym</b>. χρόα.`

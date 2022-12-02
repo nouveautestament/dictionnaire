@@ -1,0 +1,1 @@
+lar[70725]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> flocon de laine graisseuse, HPC. <i>877e</i>.<p><b>Étym</b>. οἴσυπος.`

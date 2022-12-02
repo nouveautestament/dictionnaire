@@ -1,0 +1,1 @@
+lar[105773]=`<font color="purple">[ῐ]</font> <i>adv</i>., libéralement, PLAT. <i>Theæt. 146d</i>.`

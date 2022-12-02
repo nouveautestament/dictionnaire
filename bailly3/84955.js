@@ -1,0 +1,1 @@
+lar[84955]=`<b>εως (ἡ)</b> action de ficher en avant, ORIB. <i>191 Mai</i>.<p><b>Étym</b>. προπήγνυμι.`

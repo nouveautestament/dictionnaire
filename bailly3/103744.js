@@ -1,0 +1,1 @@
+lar[103744]=`<i>adv.</i> :<br><b>      1</b> <i>pass</i>. d’une manière suspecte, THC. <i>8, 68</i> ; XÉN. <i>Hell. 2, 3, 40</i> ; PLUT. <i>M. 813b.</i><br><b>      2</b> <i>act</i>. avec méfiance, THC. <i>6, 53 ; 8, 66</i> ; DÉM. <i>381 fin</i> ; ISOCR. <i>182a ;</i> ARSTT. <i>Probl. 20, 34</i>.<p><b>Étym</b>. ὕποπτος.`

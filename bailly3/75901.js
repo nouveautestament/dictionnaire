@@ -1,0 +1,1 @@
+lar[75901]=`<b>παρά·λυπρος, ος, ον</b> <font color="purple">[ῡ]</font> à peu près fertile, peu fertile, STR. <i>3, 2, 3 ; 3, 4, 13 Kram</i>.<p><b>Étym</b>. π. λυπρός.`

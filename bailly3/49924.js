@@ -1,0 +1,1 @@
+lar[49924]=`<b>ἰσχυρο·ποιέω-ῶ</b> <font color="purple">[ῡ]</font> fortifier, GAL. <i>14, 752</i> ; POL. <i>28, 17, 7</i> ; DS. <i>14, 9</i> ; JOS. <i>A.J. 15, 8, 5</i> ; PLUT. <i>M. 890d ; particul</i>. corroborer par des preuves <i>ou</i> des raisonnements, CLÉM. <i>Str. 1, p. 356</i>.<p><b>Étym</b>. ἰσχυρός, ποιέω.`

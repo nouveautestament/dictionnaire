@@ -1,0 +1,1 @@
+lar[97885]=`<b>ταχυ·γόνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui engendre <i>ou</i> produit promptement, <i>au cp</i>. -ώτερος, TH. <i>C.P. 4, 3, 6</i>.<p><b>Étym</b>. τ. γίγνομαι.`

@@ -1,0 +1,1 @@
+lar[93552]=`<b>συγ·κτίζω</b> (<i>pf</i>. συνέκτικα, <i>pf. pass</i>. συνέκτισμαι) fonder avec, <i>d’où</i> :<br><b>      1</b> créer avec, JOS. <i>A.J. 15, 8, 5</i> ; SPT. <i>Sir. 1, 14</i>.<br><b>      2</b> coloniser avec, HDT. <i>4, 156</i> ; THC. <i>7, 57 ; p. anal</i>. αὐλῶνες εὖ συνεκτισμένοι, STR. <i>206,</i> sillons bien cultivés.`

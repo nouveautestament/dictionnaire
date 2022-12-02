@@ -1,0 +1,1 @@
+lar[14036]=`<b>ἄ·πτωτος, ος, ον :<br>      1</b> infaillible, LGN <i>33</i>.<br><b>      2</b> <i>t. de gr</i>. sans cas, indéclinable, DL. <i>7, 58</i> ; DYSC. <i>(Bkk. p. 501, 23 ; 537, 22).</i><p><b>Étym</b>. ἀ, πίπτω.`

@@ -1,0 +1,1 @@
+lar[72060]=`<b>ου (ὁ)</b> Oxyartès :<br><b>      1</b> <i>Perse,</i> PLUT. <i>Alex. 58, 68</i>.<br><b>      2</b> <i>autre,</i> LUC. <i>Cat. 6</i>.`

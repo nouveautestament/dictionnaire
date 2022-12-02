@@ -1,0 +1,1 @@
+lar[85026]=`<b>*πρό·πρυμνος, ος, ον</b>, qui sombre la poupe en avant, <i>seul. au pl. neutre adv</i>. πρόπρυμνα, ESCHL. <i>Sept. 769,</i> de fond en comble.<p><b>Étym</b>. π. πρύμνα.`

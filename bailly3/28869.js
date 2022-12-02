@@ -1,0 +1,1 @@
+lar[28869]=`<b>δυσ·προσπόριστος, ος, ον</b>, où l’on se procure difficilement des vivres, EN. TACT. <i>Pol. 8</i>.<p><b>Étym</b>. δ. προσπορίζω.`

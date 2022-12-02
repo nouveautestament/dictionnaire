@@ -1,0 +1,1 @@
+lar[25141]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> purification (des humeurs) ARÉT. <i>Cur. m. diut. 2, 2</i>.<p><b>Étym</b>. *διανήφω, <i>de</i> δ. νήφω.`

@@ -1,0 +1,1 @@
+lar[81630]=`<b>πολλ·αγόρασος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> grand acheteur, PHÉRÉCR. (<i>Com. fr. 2, 320).</i><p><b>Étym</b>. πολύς, ἀγοράζω.`

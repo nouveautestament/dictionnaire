@@ -1,0 +1,1 @@
+lar[97091]=`<b>σχοινο·δρομία</b>, <i>ion</i>. <b>σχοινο·δρομίη, ης (ἡ)</b> course <i>ou</i> danse sur la corde, HPC. <i>366, 55 dout</i>.<p><b>Étym</b>. σχοῖνος, δρόμος.`

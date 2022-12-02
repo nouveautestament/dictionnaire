@@ -1,0 +1,1 @@
+lar[27149]=`<b>διφρ·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> conducteur d’un char, PD. <i>P. 9, 143 ; I. 1, 23</i> ; ESCHL. <i>Eum. 156</i> ; EUR. <i>I.A. 216</i>.<p>➳ <i>Dor</i>. διφρηλάτας, PD. EUR. <i>ll. cc</i>.<p><b>Étym</b>. δίφρος, ἐλαύνω.`

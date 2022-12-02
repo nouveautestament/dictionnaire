@@ -1,0 +1,1 @@
+lar[24698]=`<b>δι·αϊστόω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. ao. 3 sg</i>. διηΐστωσε) <i>litt</i>. faire complètement disparaître, anéantir, faire périr, <i>acc</i>. SOPH. <i>Tr. 881</i>.`

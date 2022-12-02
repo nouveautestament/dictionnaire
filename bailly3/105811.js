@@ -1,0 +1,1 @@
+lar[105811]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> passion du vin, HDT. <i>3, 34</i> ; DS. <i>5, 26</i> ; ATH. <i>430a</i>.<p>➳ <i>Ion</i>. φιλοινίη, HDT. <i>l.c</i>.<p><b>Étym</b>. φίλοινος.`

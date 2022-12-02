@@ -1,0 +1,1 @@
+lar[71812]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> creusé <i>ou</i> bombé en forme de nombril, PHÉRÉCR. (ATH. <i>502a</i>) ; POL. <i>6, 25, 7</i>.<p><b>Étym</b>. *ὀμφαλόω <i>de</i> ὀμφαλός.`

@@ -1,0 +1,1 @@
+lar[32260]=`<b>ἐκ·τυμπάνωσις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> gonflement de la peau tendue comme la peau d’un tambour, STR. <i>773</i>.<p><b>Étym</b>. ἐκ, τυμπανόω.`

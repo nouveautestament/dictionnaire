@@ -1,0 +1,1 @@
+lar[27410]=`altérer, falsifier, DIOSC. <i>1, 6, 77 et 79</i>.<p><b>Étym</b>. δόλος.`

@@ -1,0 +1,1 @@
+lar[13440]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> ἀπόστημα, ORIB. <i>10 Mai</i>.`

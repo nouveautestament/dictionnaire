@@ -1,0 +1,1 @@
+lar[73522]=`<b>ου (ὁ)</b> = <i>lat</i>. Vitellius, <i>n. d’h. rom</i>. PLUT. <i>Galb. 22, etc</i>.`

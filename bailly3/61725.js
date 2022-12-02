@@ -1,0 +1,1 @@
+lar[61725]=`<b>λοχ·αγωγός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. λοχαγός, PD. <i>N. 4 argum</i>.`

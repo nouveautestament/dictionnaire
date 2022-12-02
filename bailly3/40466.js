@@ -1,0 +1,1 @@
+lar[40466]=`<b>οῦ (τὸ)</b> <font color="purple">[ῑ]</font> figue sauvage, LYNC. (ATH. <i>75d</i>) ; ARSTT. <i>H.A. 5, 32, 5 ; au plur. contracte</i> ἐρινᾶ, ARSTT. <i>H.A. 5, 32, 6</i>.<p><b>Étym</b>. ἐρινός.`

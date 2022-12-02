@@ -1,0 +1,1 @@
+lar[8728]=`<b>ἀν·ηπύω</b> <font color="purple">[ῠ, A.RH. <i>4, 1197</i> ; ῡ, MOSCH. <i>2, 98</i>]</font> (<i>seul. prés. et impf</i>.) dire à haute voix, crier.<p><b>Étym</b>. ἀνά, ἠπυώ.`

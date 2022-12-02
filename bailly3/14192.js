@@ -1,0 +1,1 @@
+lar[14192]=`<b>ας (ἡ)</b> Arachosie, <i>province de l’empire persan,</i> PLUT. <i>Eum. 19, M. 328c, etc</i>.`

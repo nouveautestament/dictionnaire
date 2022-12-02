@@ -1,0 +1,1 @@
+lar[87473]=`<b>ου (τὸ)</b> asile pour les mendiants <i>ou</i> les pauvres, hôpital, NAZ. <i>3, 348c Migne</i>.<p><b>Étym</b>. πτωχός.`

@@ -1,0 +1,1 @@
+lar[20149]=`<b>βολο·κτυπίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> bruit des dés que l’on jette, ANTH. <i>9, 767</i>.<p><b>Étym</b>. βόλος, κτυπέω.`

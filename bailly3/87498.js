@@ -1,0 +1,1 @@
+lar[87498]=`<b>πυγ·αλγίας, ου</b> <font color="purple">[ῡᾰς]</font> qui a mal aux fesses, STR. <i>639 conj</i>.<p><b>Étym</b>. πυγή, ἀλγέω.`

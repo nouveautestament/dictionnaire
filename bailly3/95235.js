@@ -1,0 +1,1 @@
+lar[95235]=`<b>σύν·δυο</b> (οἱ, αἱ, τὰ) deux ensemble, deux à deux, HH. <i>Ven. 74</i> ; PD. <i>P. 3, 146</i> ; HDT. <i>4, 66</i> ; PLAT. <i>Leg. 962c, Tim. 54d</i>.<p>➳ <i>Dat. invar</i>. σύνδυο, POL. <i>8, 6, 2</i>.`

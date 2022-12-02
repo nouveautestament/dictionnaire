@@ -1,0 +1,1 @@
+lar[70950]=`<b>*ὀλεσι·τύραννος</b>, <i>poét</i>. <b>ὀλεσσιτύραννος, ος, ον</b> <font color="purple">[ῐ]</font> qui détruit les tyrans, ANTH. <i>15, 50</i>.<p><b>Étym</b>. ὄλλυμι, τύραννος.`

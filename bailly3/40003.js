@@ -1,0 +1,1 @@
+lar[40003]=`<b>ἑπτά·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰ]</font> de sept coudées, HDT. <i>1, 68 ; 4, 152 ; 9, 81</i> ; PLAT. <i>Ep. 363a</i>.<p><b>Étym</b>. ἑ. πῆχυς.`

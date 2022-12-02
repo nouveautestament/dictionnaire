@@ -1,0 +1,1 @@
+lar[33022]=`<b>ἐλπιδο·κοπέω-ῶ</b> <font color="purple">[ῐ]</font> flatter d’espérances trompeuses, SEXT. <i>753, 24 Bkk</i>.<p><b>Étym</b>. ἐ. κόπτω.`

@@ -1,0 +1,1 @@
+lar[87897]=`<i>acc</i>. <b>ιν (ὁ)</b> <font color="purple">[ῠῐ]</font> Pyris, <i>Troyen,</i> IL. <i>16, 416</i>.<p><b>Étym</b>. πῦρ.`

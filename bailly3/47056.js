@@ -1,0 +1,1 @@
+lar[47056]=`<i>att</i>. <b>Θετταλιῶτις, ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> Thessaliôtide, <i>partie de la Thessalie,</i> HDT. <i>1, 57</i> ; STR. <i>430, 435</i>.<p>➳ ATT. Θετταλιῶτις, STR. <i>ll. cc</i>.<p><b>Étym</b>. Θεσσαλία.`

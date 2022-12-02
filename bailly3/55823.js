@@ -1,0 +1,1 @@
+lar[55823]=`<b>Κλεί·δικος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Kleidikos, <i>h</i>. DÉM. <i>57, 42 Baiter-Sauppe</i>.<p><b>Étym</b>. κλ. δίκη ; <i>cf</i>. Κλεύδικος.`

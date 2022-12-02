@@ -1,0 +1,1 @@
+lar[16818]=`<b>ἀτιμο·πενθής, ής, ές</b> <font color="purple">[ῑ]</font> qui pleure son déshonneur, ESCHL. <i>Eum. 792</i>.<p><b>Étym</b>. ἄτιμος, πένθος.`

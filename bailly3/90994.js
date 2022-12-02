@@ -1,0 +1,1 @@
+lar[90994]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. σκίρρων :<br><b>      1</b> vent qui soufflait des roches Scironiennes <i>sur l’isthme de Corinthe,</i> ARSTT. <i>fr. 238</i> ; STR. <i>28, 391</i>.<br><b>      2</b> vent du N.-O. <i>c</i>. ἀργέστης, ARSTT. <i>Meteor. 2, 6, 8</i>.`

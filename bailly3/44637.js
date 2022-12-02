@@ -1,0 +1,1 @@
+lar[44637]=`<b>ζυγο·κρούστης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui donne un coup de pouce à la balance, <i>càd</i>. qui trompe en pesant, ARTÉM. <i>4, 59</i>.<p><b>Étym</b>. ζυγόν, κρούω.`

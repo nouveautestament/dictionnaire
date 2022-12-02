@@ -1,0 +1,1 @@
+lar[5750]=`<b>(ὁ)</b> Amorgès, <i>Perse,</i> HDT. <i>5, 121</i> ; THC. <i>8, 5 et 28</i>.`

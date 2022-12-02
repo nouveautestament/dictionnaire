@@ -1,0 +1,1 @@
+lar[101829]=`<b>ὑμνο·πόλος, ος, ον</b>, qui compose des hymnes, PHALAR. <i>Ep. 19 ; subst</i>. ὁ ὑμν. poète d’hymnes, SIM. <i>fr. 116</i> ; ANTH. <i>7, 18, etc</i>.<p><b>Étym</b>. ὕ. πολέω.`

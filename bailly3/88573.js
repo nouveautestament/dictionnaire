@@ -1,0 +1,1 @@
+lar[88573]=`<b>ης (ἡ)</b> Rhithymnia (<i>auj</i>. Réthymno) <i>v. de Crète,</i> EL. <i>N.A. 14, 20</i>.`

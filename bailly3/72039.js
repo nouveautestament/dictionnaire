@@ -1,0 +1,1 @@
+lar[72039]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> à fruits acides, ATH. <i>76a</i>.<p><b>Étym</b>. ὀξύς.`

@@ -1,0 +1,1 @@
+lar[55952]=`<b>κλεψι·ποτέω-ῶ</b> <font color="purple">[ῐ]</font> tromper en faisant boire les autres (sans boire soi-même) ANON. (SUID. <i>et</i> POLL. <i>6, 20).</i><p><b>Étym</b>. κλέπτω, <i>vb. de</i> πίνω.`

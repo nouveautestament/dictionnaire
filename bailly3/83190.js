@@ -1,0 +1,1 @@
+lar[83190]=`<b>πραγματο·μαθής, ής, ές</b> <font color="purple">[μᾰᾰ]</font> qui connaît les affaires, ANON. (SUID.).<p><b>Étym</b>. πρ. μανθάνω.`

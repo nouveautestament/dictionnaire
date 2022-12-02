@@ -1,0 +1,1 @@
+lar[36857]=`<b>ἐπ·αύριον</b>, <i>adv</i>., le lendemain, POL. <i>8, 15, 6</i> ; SPT. <i>Gen. 19, 34 ; Num. 11, 32 ; Judith 7, 1</i>.<p><b>Étym</b>. ἐπί, αὔριον.`

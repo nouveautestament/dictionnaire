@@ -1,0 +1,1 @@
+lar[61868]=`<b>Λυκι·άρχης, ου (ὁ)</b> <font color="purple">[ῠ]</font> magistrat suprême de Lycie, STR. <i>665</i>.<p><b>Étym</b>. Λυκία, ἄρχω.`

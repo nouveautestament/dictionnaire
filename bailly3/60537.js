@@ -1,0 +1,1 @@
+lar[60537]=`<b>λευκ·ερινεός, οῦ (ὁ)</b> <font color="purple">[ῑ]</font> figuier sauvage à figues blanches, ATH. <i>76c</i>.`

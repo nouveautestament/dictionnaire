@@ -1,0 +1,1 @@
+lar[43935]=`se faire porter (<i>litt</i>. s’asseoir) à dos, <i>en parl. d’un jeu d’enfants où le vaincu porte le vainqueur sur son dos,</i> PHILÉM. (STOB. <i>Fl. 114, 2).</i><p><b>Étym</b>. ἔφεδρος.`

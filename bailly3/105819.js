@@ -1,0 +1,1 @@
+lar[105819]=`<b>φιλό·καινος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime la nouveauté, DH. <i>Exc. p. 2319 Reiske</i> ; PLUT. <i>M. 731b, etc.</i> ; τὸ φιλόκαινον, LUC. <i>Ic. 24,</i> l’amour de la nouveauté.<p><b>Étym</b>. φ. καινός.`

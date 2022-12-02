@@ -1,0 +1,1 @@
+lar[15126]=`<b>ητος (ἡ)</b> sexe masculin, HIÉROCL. (STOB. <i>Fl. 85, 21</i>) ; ARSTT. <i>Plant. 1, 2, 8</i>.<p><b>Étym</b>. ἄρρην.`

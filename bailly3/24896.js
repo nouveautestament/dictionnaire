@@ -1,0 +1,1 @@
+lar[24896]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> celui qui empêche, qui met obstacle à, HDT. <i>6, 56</i> ; PLAT. <i>Phædr. 239e</i>.<p><b>Étym</b>. διακωλύω.`

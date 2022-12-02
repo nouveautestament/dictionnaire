@@ -1,0 +1,1 @@
+lar[43728]=`<b>ας (ἡ) :<br>      1</b> force de porter <i>ou</i> de supporter, HPC. <i>Fract. 775</i>.<br><b>      2</b> fertilité, fécondité, abondance, XÉNAGOR. (MACR. <i>Sat. 5, 19</i>) ; ALCIPHR. <i>1, 24</i>.<p><b>Étym</b>. εὔφορος.`

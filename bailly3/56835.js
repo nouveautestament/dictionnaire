@@ -1,0 +1,1 @@
+lar[56835]=`<b>οῦ (ὁ)</b> vantard, fanfaron, EUR. <i>Ph. 600</i>.<p><b>Étym</b>. κόμπος.`

@@ -1,0 +1,1 @@
+lar[101563]=`<b>ὑδρ·όμφαλος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> malade d’un amas d’humeurs au nombril, GAL. <i>2, 395</i>.<p><b>Étym</b>. <i>v</i>. ὑδρόμφαλον.`

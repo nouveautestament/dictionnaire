@@ -1,0 +1,1 @@
+lar[108771]=`<b>χοραυλέω-ῶ</b>, accompagner de la flûte un chœur de danse, STR. <i>796 conj</i>.<p><b>Étym</b>. χοραύλης.`

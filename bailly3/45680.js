@@ -1,0 +1,1 @@
+lar[45680]=`<b>ιος</b>, <i>adj. f</i>. âgée d’une année.<p>➳ <i>Dans Hom. seul. acc. sg</i>. ἦνιν, IL. <i>10, 292</i> ; OD. <i>3, 382 ; acc. pl</i>. ἤνις <font color="purple">[ῑ]</font> IL. <i>6, 94, 275, 309 ; postér. gén. sg</i>. ἤνιος, A.RH. <i>4, 174</i>.<p><b>Étym</b>. <i>inconnue</i>.`

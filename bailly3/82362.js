@@ -1,0 +1,1 @@
+lar[82362]=`<b>πολύ·σκαρθμος, ος, ον</b>, qui fait d’énormes bonds <i>ou</i> qui ne cesse de bondir, IL. <i>2, 814</i> ; NIC. <i>Th. 350</i> ; Q. SM. <i>5, 657</i>.<p><b>Étym</b>. π. σκαίρω.`

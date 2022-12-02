@@ -1,0 +1,1 @@
+lar[85072]=`<b>προσ·αγκυλόω-ῶ</b> <font color="purple">[ῠ]</font> assujettir avec des courroies, HÉRON.<p><b>Étym</b>. <i>Math. vet. p. 245</i>.`

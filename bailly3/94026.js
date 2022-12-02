@@ -1,0 +1,1 @@
+lar[94026]=`<b>συμ·μυέω-ῶ</b>, initier avec, <i>dat</i>. PLUT. <i>Alex. 2</i>.`

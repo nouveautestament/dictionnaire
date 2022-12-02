@@ -1,0 +1,1 @@
+lar[30837]=`<b>εἰσ·ομόργνυμι</b> <font color="purple">[ῡ]</font> (<i>seul. prés. moy</i>.) imprimer dans, <i>avec</i> εἰς <i>et l’acc</i>. CHÆRÉM. (ATH. <i>608c</i>).`

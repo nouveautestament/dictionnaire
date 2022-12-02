@@ -1,0 +1,1 @@
+lar[55627]=`<b>κισσό·βρυος, ος, ον</b>, rempli <i>ou</i> couvert de lierre, ORPH. <i>H. 29, 4</i>.<p><b>Étym</b>. κισσός, βρύω.`

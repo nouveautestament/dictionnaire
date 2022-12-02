@@ -1,0 +1,1 @@
+lar[42076]=`<b>εὔ·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> bien apparié, ANTH. <i>5, 56</i>.<p><b>Étym</b>. εὖ, ζεύγνυμι.`

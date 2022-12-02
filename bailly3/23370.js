@@ -1,0 +1,1 @@
+lar[23370]=`<b>ας (ἡ)</b> Daphnèphorie, <i>fête où l’on portait un rameau d’olivier ceint de lauriers en l’honneur d’Apollon,</i> PROCL. (PHOT. <i>p. 321, 11).</i><p><b>Étym</b>. δαφνηφόρος.`

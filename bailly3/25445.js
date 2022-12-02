@@ -1,0 +1,1 @@
+lar[25445]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> fracture, HPC. <i>148d</i>.<p><b>Étym</b>. διαρρήγνυμι.`

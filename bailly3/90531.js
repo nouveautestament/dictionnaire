@@ -1,0 +1,1 @@
+lar[90531]=`<b>σιτό·κουρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui consomme les vivres <i>ou</i> le blé, <i>càd</i>. bouche inutile, fainéant, MÉN. <i>244, 420 Kock</i>.<p><b>Étym</b>. σ. κείρω.`

@@ -1,0 +1,1 @@
+lar[23985]=`<b>ῆς</b> <i>ou</i> <b>δέσμη, ης (ἡ)</b> faisceau, paquet, DÉM. <i>934, 26</i> (δεσμή) ; <i>particul</i>. faisceau de bois coupé, ATH. <i>700b ;</i> gerbe, botte (de plantes), ALEX. (ATH. <i>652c</i>) ; ARSTT. <i>fr. 134</i> ; TH. <i>H.P. 9, 17, 1</i> ; ATH. <i>618d</i>.<p><b>Étym</b>. δέω¹.`

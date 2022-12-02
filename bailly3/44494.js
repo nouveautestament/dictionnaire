@@ -1,0 +1,1 @@
+lar[44494]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ζεφύριος, NONN. <i>D. 48, 517</i>.`

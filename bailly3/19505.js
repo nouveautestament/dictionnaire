@@ -1,0 +1,1 @@
+lar[19505]=`<b>ας (ἡ)</b> fabrication de machines de jet, HÉRON <i>Bel. 121, 122</i>.<p><b>Étym</b>. βελοποιός.`

@@ -1,0 +1,1 @@
+lar[102873]=`<b>ὑπερ·φιλοτίμως</b> <font color="purple">[ῐῑ]</font> <i>adv</i>., avec trop d’ambition, THPP. (ATH. <i>531c</i>).<p><b>Étym</b>. ὑ. φιλότιμος.`

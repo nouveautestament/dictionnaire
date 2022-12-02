@@ -1,0 +1,1 @@
+lar[36084]=`<b>ας (ἡ)</b> établissement d’émigrés, POLYEN <i>4, 2, 11 (dout</i>.).<p><b>Étym</b>. ἔξοικος.`

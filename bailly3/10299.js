@@ -1,0 +1,1 @@
+lar[10299]=`<b>ἀντι·πολέμιος, ος, ον</b>, qui est en guerre contre, belligérant, ennemi, THC. <i>3, 90</i>.`

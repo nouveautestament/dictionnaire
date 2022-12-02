@@ -1,0 +1,1 @@
+lar[89159]=`<font color="purple">[σᾰ]</font> être agité <i>ou</i> inquiet, <i>d’où</i> se lamenter, ANACR. <i>167</i>.<p><b>Étym</b>. σάλος.`

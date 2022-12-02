@@ -1,0 +1,1 @@
+lar[49059]=`<b>ου (ἡ)</b> Inykos (<i>auj</i>. Caltabellotta <i>ou</i> Menfi) <i>v. de Sicile,</i> HDT. <i>6, 24</i> ; PLAT. <i>Hipp. ma. 282e, 284b</i>.`

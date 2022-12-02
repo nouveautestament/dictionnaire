@@ -1,0 +1,1 @@
+lar[92146]=`<b>ου (ὁ) :<br>      1</b> cruche de terre pour le vin, AR. <i>Pl. 545, fr. 448 Dind.</i> ; DÉM. <i>933, 25, etc.</i><br><b>      2</b> cruche, <i>en gén</i>. HPC. <i>1234b</i>.<p>➳ ἡ στ. HERMIPP. (<i>Com. fr. 2, 410</i>) ; ERATOSTH. (ATH. <i>499e</i>).<p><b>Étym</b>. <i>indo-europ</i>. *sth₂-mn-o- « ce qui se tient debout », <i>v</i>. ἵστημι.`

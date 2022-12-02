@@ -1,0 +1,1 @@
+lar[21430]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. ventrue, PHÉRÉCR. (ATH. <i>481c, sel. Mein</i>. -οίδεας).<p><b>Étym</b>. γαστήρ.`

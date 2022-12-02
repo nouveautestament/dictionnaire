@@ -1,0 +1,1 @@
+lar[76945]=`<b>παρ·ιππάζομαι</b>, aller à cheval le long de <i>ou</i> au delà de, <i>dat</i>. ONOS. <i>23 et 33</i>.`

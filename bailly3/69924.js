@@ -1,0 +1,1 @@
+lar[69924]=`<b>*ξυνωνία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῡ]</font> communauté, ARCHIL. <i>86</i>.<p><b>Étym</b>. ξυνών ; <i>cf</i>. κοινωνία.`

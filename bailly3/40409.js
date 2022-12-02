@@ -1,0 +1,1 @@
+lar[40409]=`<b>ἐρι·γήθης, ης, ες</b>, qui cause une grande joie, ORPH. <i>Lith. 24</i>.<p><b>Étym</b>. ἐρι-, γηθέω.`

@@ -1,0 +1,1 @@
+lar[8501]=`<b>ας (ἡ)</b> indifférence, dédain, ARR. <i>Epict. 2, 1, 14</i> ; CLÉM. <i>840</i>.<p><b>Étym</b>. ἀνεπίστρεπτος.`

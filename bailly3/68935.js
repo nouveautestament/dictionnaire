@@ -1,0 +1,1 @@
+lar[68935]=`<b>νομο·δότης, ου (ὁ)</b> qui donne des lois, SYMM. <i>Ps. 75, 13</i>.<p><b>Étym</b>. ν. δίδωμι.`

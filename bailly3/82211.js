@@ -1,0 +1,1 @@
+lar[82211]=`<b>πολύ·οψος, ος, ον :<br>      1</b> qui abonde en mets délicats, LUC. <i>Gall. 11</i>.<br><b>      2</b> abondant en poissons, STR. <i>560</i>.<p><b>Étym</b>. π. ὄψον.`

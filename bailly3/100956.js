@@ -1,0 +1,1 @@
+lar[100956]=`<b>ωός (ὁ)</b> Trôs :<br><b>      1</b> <i>fils d’Alastor, Troyen,</i> IL. <i>20, 463</i>.<br><b>      2</b> <i>fils d’Érikhthonios, roi de Phrygie, fondateur de Troie,</i> IL. <i>5, 265 ; 20, 230</i> ; HH. <i>Ven. 208</i>.`

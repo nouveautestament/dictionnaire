@@ -1,0 +1,1 @@
+lar[75851]=`<b>ή, όν</b>, qu’on peut prendre avec soi, dont on peut se charger, PLAT. <i>Men. 93b ;</i> CHRYSIPP. (PLUT. <i>M. 1035d</i>).<p><b>Étym</b>. <i>vb. de</i> παραλαμβάνω.`

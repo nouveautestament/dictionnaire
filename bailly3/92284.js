@@ -1,0 +1,1 @@
+lar[92284]=`<b>ή, όν</b>, propre à resserrer, à constiper, astringent, DIOSC. <i>1, 160, 164</i>.<p><b>Étym</b>. στεγνόω.`

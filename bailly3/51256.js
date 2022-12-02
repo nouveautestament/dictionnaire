@@ -1,0 +1,1 @@
+lar[51256]=`<b>καλλί·φωνος, ος, ον</b> <font color="purple">[ῐ]</font> qui a une belle voix, un son agréable, PLAT. <i>Leg. 817c</i>.<p>•<i> Sup</i>. -ότατος, PLUT. <i>M. 973a</i>.<p><b>Étym</b>. κ. φωνή.`

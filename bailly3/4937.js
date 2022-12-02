@@ -1,0 +1,1 @@
+lar[4937]=`<b>η, ον</b> <font color="purple">[ᾰλ]</font> préparé avec du salpêtre, DIOSC. <i>5, 76</i>.`

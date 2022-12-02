@@ -1,0 +1,1 @@
+lar[56441]=`<b>κοιλο·φυής, ής, ές</b>, naturellement creux, OPP. <i>H. 4, 653</i>.<p><b>Étym</b>. κοῖλος, φύω.`

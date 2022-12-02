@@ -1,0 +1,1 @@
+lar[71066]=`<b>ὀλιγοτροφέω-ῶ</b> <font color="purple">[ῐ]</font> donner peu de nourriture à, <i>acc</i>. ES. <i>358, p. 234 Korais</i>.<p><b>Étym</b>. ὀλιγοτρόφος.`

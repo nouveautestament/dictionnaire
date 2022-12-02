@@ -1,0 +1,1 @@
+lar[97328]=`<b>ας (ἡ)</b> tablette pour jouer aux dés, ANTH. <i>9, 482, 21 ; 9, 767</i>.<p><b>Étym</b>. <i>lat</i>. tabula.`

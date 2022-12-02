@@ -1,0 +1,1 @@
+lar[49307]=`<b>ἱππό·γυποι, ων (οἱ)</b> cavaliers montés sur des vautours, LUC. <i>V.H. 1, 13</i>.<p><b>Étym</b>. ἵ. γύψ.`

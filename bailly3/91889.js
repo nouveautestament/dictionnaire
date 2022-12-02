@@ -1,0 +1,1 @@
+lar[91889]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> étendu, vaste, IL. <i>11, 754</i>.<p><b>Étym</b>. <i>inconnue ; cf</i>. σπίδιος ; <i>p.-ê. rapprochement avec lat</i>. spissus.`

@@ -1,0 +1,1 @@
+lar[91753]=`<b>(ὁ)</b> Spargée, <i>Centaure,</i> NONN. <i>D. 14, 187</i>.`

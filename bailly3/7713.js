@@ -1,0 +1,1 @@
+lar[7713]=`<i>adv</i>., en sens inverse, SEXT. <i>M. 22</i>.<p><b>Étym</b>. ἀναστρέφω.`

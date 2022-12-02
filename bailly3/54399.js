@@ -1,0 +1,1 @@
+lar[54399]=`<b>ου (ὁ)</b> cruche, SPT. <i>3Reg. 17, 12 et 16</i>.<p><b>Étym</b>. <i>cf. lat</i>. capsa.`

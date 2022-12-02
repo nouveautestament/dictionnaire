@@ -1,0 +1,1 @@
+lar[108059]=`<font color="purple">[ᾰ]</font> <i>c</i>. χειμάζω, STR. <i>205</i> ; ONOS. <i>9, p. 42</i>.`

@@ -1,0 +1,1 @@
+lar[18573]=`<b>ης, ες</b> <font color="purple">[ᾰῠ]</font> semblable à de la paille, ARSTT. <i>Probl. 21, 12, 2</i> ; HICÉS. (ATH. <i>328c</i>) ; <i>part</i>. en forme de brins de paille, HPC. <i>427, 26</i>.<p><b>Étym</b>. ἄχυρον, -ωδης.`

@@ -1,0 +1,1 @@
+lar[26838]=`<b>οῦ (ὁ)</b> exploration avec la sonde, <i>t. de chir</i>. P. ÉG. <i>6, 73</i>.<p><b>Étym</b>. *διοπτρίζω <i>de</i> διόπτρα.`

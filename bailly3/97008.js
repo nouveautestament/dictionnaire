@@ -1,0 +1,1 @@
+lar[97008]=`<b>ίδος (ἡ)</b> <i>d’ord. au plur.</i> :<br><b>      1</b> côtes d’un bœuf, ESCHL. <i>fr. 342</i> ; AR. <i>Eq. 362, etc.</i><br><b>      2</b> côtes d’un porc, D. CHR. <i>Or. 7, p. 236</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

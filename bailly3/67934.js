@@ -1,0 +1,1 @@
+lar[67934]=`<b>νε·ηλιφής, ής, ές</b> <font color="purple">[ῐ]</font> nouvellement <i>ou</i> fraîchement enduit, ARSTT. <i>Probl. 11, 7</i>.<p><b>Étym</b>. ν. ἀλείφω.`

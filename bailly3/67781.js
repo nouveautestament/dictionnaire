@@ -1,0 +1,1 @@
+lar[67781]=`<b>ναυ·πόρος, ος, ον</b>, <i>c</i>. ναυσιπόρος, qui fait marcher un navire, EUR. <i>Tr. 877</i>.`

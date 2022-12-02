@@ -1,0 +1,1 @@
+lar[105918]=`<b>φιλομαχέω-ῶ</b> <font color="purple">[ῐᾰ]</font> aimer à combattre, PLUT. <i>Pomp. 65, Cæs. 52, etc. ; en mauv. part,</i> être batailleur, PLUT. <i>Fab. 5, etc. ; fig</i>. PLUT. <i>M. 122b, 195d</i>.<p><b>Étym</b>. φιλόμαχος.`

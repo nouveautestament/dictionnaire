@@ -1,0 +1,1 @@
+lar[97734]=`<b>α, ον</b>, de Tartèssos, AR. <i>Ran. 4, 192, 475, etc.</i> ; οἱ Ταρτήσσιοι, HDT. <i>4, 192,</i> les habitants de Tartèssos <i>ou</i> Tartèsos.<p><b>Étym</b>. <i>v</i>. Ταρτησσός.`

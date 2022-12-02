@@ -1,0 +1,1 @@
+lar[29700]=`<b>ἐγ·κοιτάζομαι</b>, être couché <i>ou</i> enfoncé dans, <i>dat</i>. APD. POL. <i>26</i>.<p><b>Étym</b>. ἐν, κ.`

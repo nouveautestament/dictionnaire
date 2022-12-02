@@ -1,0 +1,1 @@
+lar[56841]=`<b>ατος (τὸ)</b> action <i>ou</i> parole fine, ingénieuse, ARSTT. <i>Meteor. 1, 13</i> ; LUC. <i>Am. 54</i>.<p><b>Étym</b>. κομψεύω.`

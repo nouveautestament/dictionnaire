@@ -1,0 +1,1 @@
+lar[89291]=`<b>σανδαλο·θήκη, ης (ἡ)</b> <font color="purple">[δᾰ]</font> endroit où l’on dépose les sandales, MÉN. <i>4, 165 Meineke</i>.<p><b>Étym</b>. σάνδαλον, θ.`

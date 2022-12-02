@@ -1,0 +1,1 @@
+lar[42571]=`<b>εὔ·λαλος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> au beau langage, disert, SPT. <i>Job 11, 2 ; Sir. 6, 5</i> ; ANTH. <i>9, 525</i>.<br><b>      2</b> qui parle beaucoup, bavard, <i>en parl. d’une bouteille,</i> ANTH. <i>9, 229</i>.<p><b>Étym</b>. εὖ, λαλέω.`

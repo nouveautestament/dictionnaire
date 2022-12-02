@@ -1,0 +1,1 @@
+lar[65377]=`<b>*Μηλίς</b>, <i>dor</i>. <b>Μαλίς, ίδος (ἡ)</b> <font color="purple">[ᾱ]</font> Mâlis, <i>nymphe,</i> THCR. <i>Idyl. 13, 45</i>.`

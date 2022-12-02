@@ -1,0 +1,1 @@
+lar[81897]=`<b>πολύ·ζηλος, ος, ον :<br>      1</b> très désiré, très recherché, aimé, SOPH. <i>Tr. 185</i>.<br><b>      2</b> agité par l’envie, SOPH. <i>O.R. 381</i>.<p><b>Étym</b>. π. ζῆλος.`

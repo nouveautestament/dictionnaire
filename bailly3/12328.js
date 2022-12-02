@@ -1,0 +1,1 @@
+lar[12328]=`<b>α, ον</b>, <i>vb. de</i> ἀποδίδωμι, PLAT. <i>Rsp. 456b, etc.</i> ; ARSTT. <i>Top. 6, 4, 8, etc</i>.`

@@ -1,0 +1,1 @@
+lar[27124]=`<font color="purple">[ῑ]</font> (<i>seul. prés</i>.) chercher, scruter, fouiller, IL. <i>16, 747</i> ; HÉS. <i>O. 374</i>.<p>➳ <i>Prés. ind. 3 sg</i>. διφᾷ, CALL. <i>fr. 32 ; 2 pl</i>. διφᾶτε, CALL. <i>fr. 65 ; part</i>. διφῶν, IL. <i>l. c. ; fém</i>. διφῶσα, <i>l. c. — Prés. ion</i>. διφέω, ANTH. <i>9, 559</i>.`

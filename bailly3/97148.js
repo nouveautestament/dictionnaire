@@ -1,0 +1,1 @@
+lar[97148]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> Sôkratéa, <i>f</i>. ANTH. <i>App. 384</i>.<p><b>Étym</b>. Σωκράτης.`

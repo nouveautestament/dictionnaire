@@ -1,0 +1,1 @@
+lar[60240]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Lékithè, <i>v. près de Torone,</i> THGN. <i>58</i>.<p><b>Étym</b>. <i>mss</i>. Ληκύθη.`

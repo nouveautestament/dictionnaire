@@ -1,0 +1,1 @@
+lar[54713]=`<b>ας (ἡ)</b> recherche de futilités, DH. <i>6, 70</i> ; DL. <i>208</i>.<p><b>Étym</b>. κενόσπουδος.`

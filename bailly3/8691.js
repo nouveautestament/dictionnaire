@@ -1,0 +1,1 @@
+lar[8691]=`<b>ἀν·ηλάκατος, ος, ον</b> <font color="purple">[λᾰᾰ]</font> inhabile à manier la quenouille, MATR. (ATH. <i>183a</i>).<p><b>Étym</b>. ἀν-, ἠλακάτη.`

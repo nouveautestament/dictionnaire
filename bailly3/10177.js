@@ -1,0 +1,1 @@
+lar[10177]=`<b>ἀντι·παραθέω</b>, courir à la rencontre et à côté, XÉN. <i>An. 4, 8, 17</i>.`

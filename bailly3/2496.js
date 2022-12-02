@@ -1,0 +1,1 @@
+lar[2496]=`<b>ωνος (ὁ)</b> Æthôn :<br><b>      1</b> <i>nom qu’Ulysse se donne à lui-même,</i> OD. <i>19, 193</i>.<br><b>      2</b> <i>cheval d’Hector,</i> IL. <i>8, 185, etc</i>.<p><b>Étym</b>. <i>v</i>. αἴθων.`

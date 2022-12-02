@@ -1,0 +1,1 @@
+lar[16683]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> absence de trouble, calme, tranquillité d’âme, EPIC. (DL. <i>10, 96</i>) ; CIC. <i>Fam. 15, 19</i> ; PLUT. <i>etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>28, 45, etc</i>.`

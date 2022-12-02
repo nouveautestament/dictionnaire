@@ -1,0 +1,1 @@
+lar[45190]=`<b>      1</b> faire cuire au soleil, <i>acc</i>. STR. <i>773</i>.<br><b>      2</b> exposer (un condamné) au soleil, SPT. <i>2Reg. 21, 14</i>.<br><b><i>Moy.</i></b> se chauffer au soleil, ARSTT. <i>H.A. 9, 5, 7</i> ; AR. <i>Vesp. 772, avec jeu de mots sur le sens de</i> ἡλιάζομαι.<p><b>Étym</b>. ἥλιος.`

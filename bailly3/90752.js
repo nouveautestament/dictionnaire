@@ -1,0 +1,1 @@
+lar[90752]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σκέπας, ANTH. <i>6, 298</i>.<p><b>Étym</b>. <i>cf</i>. σκεπανός.`

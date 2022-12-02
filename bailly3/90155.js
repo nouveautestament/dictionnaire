@@ -1,0 +1,1 @@
+lar[90155]=`<b>σιδηροδετέω-ῶ</b> <font color="purple">[ῐ]</font> attacher avec des liens de fer, Ps.-HÉRACLITE ÉPH. <i>Ep. 7, 8</i>.<p><b>Étym</b>. σιδηρόδετος.`

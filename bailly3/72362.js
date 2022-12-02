@@ -1,0 +1,1 @@
+lar[72362]=`<b>ὁπλο·φόρος, ος, ον</b>, qui porte des armes, armé, EUR. <i>Ph. 789, etc.</i> ; XÉN. <i>Cyr. 5, 4, 27, etc. ; particul. c</i>. δορυφόρος, XÉN. <i>Hier. 2, 8</i>.<p><b>Étym</b>. ὅπλ. φέρω.`

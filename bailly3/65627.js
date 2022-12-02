@@ -1,0 +1,1 @@
+lar[65627]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰγ]</font> usage d’aliments impurs, SPT. <i>4Macc. 5, 3 et 25</i>.<p><b>Étym</b>. μιαροφαγέω.`

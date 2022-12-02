@@ -1,0 +1,1 @@
+lar[86430]=`<b>προσ·σύρω</b> <font color="purple">[ῡ]</font> allonger, tirailler, GAL. <i>6, 155</i>.`

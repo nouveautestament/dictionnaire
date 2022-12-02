@@ -1,0 +1,1 @@
+lar[71119]=`<b>ὀλισθο·γνωμονέω-ῶ</b>, glisser sur la pente de ses réflexions, s’égarer dans ses pensées, LUC. <i>Lex. 19</i>.<p><b>Étym</b>. ὀλισθάνω, γνώμων.`

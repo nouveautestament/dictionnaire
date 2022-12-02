@@ -1,0 +1,1 @@
+lar[15346]=`<b>ἀρτί·κολλος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> parfaitement collé, <i>d’où</i> bien ajusté, SOPH. <i>Tr. 768</i>.<br><b>      2</b> <i>fig</i>. qui forme un ensemble parfait, ESCHL. <i>Ch. 580</i>.<br><b>      3</b> qui s’adapte bien, <i>d’où</i> opportun, ESCHL. <i>Sept. 373</i>.<p><b>Étym</b>. ἄ. κολλάω.`

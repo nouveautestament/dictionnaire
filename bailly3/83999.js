@@ -1,0 +1,1 @@
+lar[83999]=`<b>προ·δοξάζω</b>, juger <i>ou</i> penser d’avance, PLAT. <i>Theæt. 178e ;</i> ARSTT. <i>Metaph. 4, 6, 8</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>Rhet. 1, 2, 4</i>.`

@@ -1,0 +1,1 @@
+lar[66298]=`<b>α, ον</b>, d’un degré, <i>t. de math</i>. PTOL. <i>Geogr. 2, p. 30</i> ; SYN. <i>311b</i>.<p><b>Étym</b>. μοῖρα.`

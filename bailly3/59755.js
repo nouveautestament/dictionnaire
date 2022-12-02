@@ -1,0 +1,1 @@
+lar[59755]=`<b>ης, ες</b>, couvert d’écume, de scories <i>ou</i> de pellicules, HPC. <i>74e, 148a</i>.<p><b>Étym</b>. λάμπη, -ωδης.`

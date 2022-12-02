@@ -1,0 +1,1 @@
+lar[85291]=`<b>προσ·αριστάω-ῶ</b> <font color="purple">[ᾱρ]</font> déjeuner en outre <i>ou</i> ajouter à son déjeuner, HPC. <i>542, 40</i>.`

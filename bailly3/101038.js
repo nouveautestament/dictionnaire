@@ -1,0 +1,1 @@
+lar[101038]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> <i>c</i>. τυμπανίας, GAL. <i>2, 382</i> ; A. TR. <i>3, p. 519</i>.<br><b>      2</b> malade atteint d’hydropisie, hydropique, HÉRODOTUS (MÉD. <i>p. 293, 23 Matthäi) conj</i>.`

@@ -1,0 +1,1 @@
+lar[43893]=`<b>ἔφ·αλος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui est sur la mer, POSIDIPP. (ATH. <i>596d</i>).<br><b>      2</b> situé près de la mer, maritime, IL. <i>2, 538</i> ; SOPH. <i>Aj. 192</i> ; ἡ ἔφ. (<i>s.-e</i>. γῆ) LUC. <i>Am. 7,</i> la côte.<p><b>Étym</b>. ἐπί, ἅλς.`

@@ -1,0 +1,1 @@
+lar[10172]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> mouvement en avant contre (l’ennemi), <i>en parl. d’une ligne de troupes,</i> POL. <i>9, 3, 10 ; 11, 18, 2</i> ; PLUT. <i>Pyrrh. 21</i>.<br><b>      2</b> <i>fig</i>. hostilité, POL. <i>10, 37, 2 ; 17, 14, 13</i>.<p><b>Étym</b>. ἀντιπαράγω.`

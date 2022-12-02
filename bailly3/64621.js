@@ -1,0 +1,1 @@
+lar[64621]=`<b>ου (ὁ)</b> le Messie, <i>propr</i>. « l’Oint = Χριστός », NT. <i>Joh. 1, 42 ; 4, 25</i>.<p><b>Étym</b>. <i>mot hébr</i>.`

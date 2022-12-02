@@ -1,0 +1,1 @@
+lar[50343]=`<b>καθ·εξῆς</b>, <i>adv</i>., par rang, par ordre, de suite, <i>d’où</i> ensuite, NT. <i>1, 3 ; 8, 1, etc.</i> ; PLUT. <i>M. 615b</i>.<p><b>Étym</b>. κ. ἑξῆς.`

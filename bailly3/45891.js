@@ -1,0 +1,1 @@
+lar[45891]=`<b>Ἡρό·φιλος, ου (ὁ)</b> Hèrophilos :<br><b>      1</b> <i>médecin de Chalcédoine,</i> PLUT. <i>Curios. 7, etc.</i><br><b>      2</b> <i>philosophe cynique,</i> LUC. <i>Ic. 16</i>.<p><b>Étym</b>. Ἥρα, φίλος.`

@@ -1,0 +1,1 @@
+lar[22138]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰσ]</font> saveur douce, douceur, NT. <i>Apocr. Act. et mart. Matthæi 2</i>.<p><b>Étym</b>. γλυκαίνω.`

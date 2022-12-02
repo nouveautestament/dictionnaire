@@ -1,0 +1,1 @@
+lar[82058]=`<b>πολύ·κωμος, ος, ον</b> <font color="purple">[ῠ]</font> qui préside à des festins abondants, <i>ép. de Dionysos,</i> ANTH. <i>9, 524</i>.<p><b>Étym</b>. π. κῶμος.`

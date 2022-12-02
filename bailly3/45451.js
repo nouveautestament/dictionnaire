@@ -1,0 +1,1 @@
+lar[45451]=`<b>ἡμι·κόγγιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> demi-conge, <i>mesure,</i> DIOSC. (GAL. <i>13, 984).</i><p><b>Étym</b>. ἡμι-, <i>lat</i>. congius.`

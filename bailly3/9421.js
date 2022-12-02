@@ -1,0 +1,1 @@
+lar[9421]=`<b>εως (ἡ)</b> <font color="purple">[ᾰκ]</font> conséquence réciproque, SYN. <i>49d</i>.<p><b>Étym</b>. ἀντακολουθέω.`

@@ -1,0 +1,1 @@
+lar[70921]=`<b>ὀλβο·δότης, ου</b>, <i>adj. m</i>. qui procure le bonheur, ORPH. <i>H. 67, 9</i>.<p>➳ <i>Dor. acc</i>. -δόταν, EUR. <i>Bacch. 572</i>.<p><b>Étym</b>. ὄλβος, δίδωμι.`

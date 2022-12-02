@@ -1,0 +1,1 @@
+lar[33075]=`<b>ἔμ·βαρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a du poids, grave, sage, prudent, MÉN. <i>502 Kock</i>.<p><b>Étym</b>. ἐν, βαρύς.`

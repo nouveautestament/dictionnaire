@@ -1,0 +1,1 @@
+lar[22584]=`<b>ου (τὸ)</b> <font color="purple">[μᾰῐκᾰ]</font> école enfantine, PLUT. <i>M. 278e, 712a</i>.<p><b>Étym</b>. γραμματοδιδάσκαλος.`

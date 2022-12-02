@@ -1,0 +1,1 @@
+lar[77861]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. Πέλωρον, ANTH. <i>6, 224</i>.`

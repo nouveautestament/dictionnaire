@@ -1,0 +1,1 @@
+lar[31126]=`<b>ἐκ·βυθίζομαι</b> <font color="purple">[ῠ]</font> (<i>part. prés</i>.) sortir du fond de l’eau, CALLISTR. <i>Stat. 14</i>.<p><b>Étym</b>. ἐκ, βυθός.`

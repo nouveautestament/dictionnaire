@@ -1,0 +1,1 @@
+lar[70320]=`<b>οἰκειο·πραγέω-ῶ</b> <font color="purple">[ᾱ]</font> ne s’occuper que de ses propres affaires, SYN. <i>243c</i>.<p><b>Étym</b>. οἰκεῖος, πράσσω.`

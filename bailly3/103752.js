@@ -1,0 +1,1 @@
+lar[103752]=`répéter souvent <i>ou</i> s’épaissir : οἴνῳ, LUC. <i>Lex. 14,</i> avec du vin, se verser souvent du vin <i>ou</i> s’alourdir de vin.<p><b>Étym</b>. ὑπόπυκνος.`

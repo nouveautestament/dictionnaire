@@ -1,0 +1,1 @@
+lar[94111]=`<b>συμ·παραφύομαι</b>, naître en même temps auprès, THÉM. <i>56a</i>.`

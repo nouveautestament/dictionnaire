@@ -1,0 +1,1 @@
+lar[7917]=`<b>ἀνα·χαράσσω</b> <font color="purple">[χᾰ]</font><br><b>      1</b> soulever en grattant, PLUT. <i>M. 913e.</i><br><b>      2</b> <i>fig</i>. soulever, provoquer, faire naître, PLUT. <i>M. 396a</i>.`

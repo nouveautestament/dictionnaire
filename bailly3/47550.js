@@ -1,0 +1,1 @@
+lar[47550]=`<b>ου (ὁ)</b> <font color="purple">[ᾰν]</font> <i>c</i>. θρανίς, M. SID. <i>29</i>.`

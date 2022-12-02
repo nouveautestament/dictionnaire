@@ -1,0 +1,1 @@
+lar[34582]=`<b>ἔν·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> courageux, ARSTT. <i>Pol. 7, 7, 3</i>.<p><b>Étym</b>. ἐν, θυμός.`

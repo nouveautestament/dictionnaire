@@ -1,0 +1,1 @@
+lar[106317]=`<b>ατος (τὸ)</b> contusion, <i>ion. c</i>. θλάσμα, HPC. <i>Art. 802, etc</i>.<p><b>Étym</b>. φλάω.`

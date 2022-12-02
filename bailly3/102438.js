@@ -1,0 +1,1 @@
+lar[102438]=`<b>ὑπερ·εμπίπλημι</b>, emplir par-dessus bord, <i>d’où au pass</i>. être plein de manière à déborder : τινος, XÉN. <i>Cyr. 1, 6, 17</i> ; LUC. <i>Conv. 35,</i> de qqe ch. ; <i>fig</i>. ἡδονῆς, EL. <i>N.A. 14, 25,</i> de joie.`

@@ -1,0 +1,1 @@
+lar[12458]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> envoi <i>ou</i> établissement d’une colonie, DH. <i>3, 31</i>.<p><b>Étym</b>. ἀποικίζω.`

@@ -1,0 +1,1 @@
+lar[94253]=`<b>συμ·πιστεύω</b>, se confier en même temps, <i>ou simpl</i>. se confier à, <i>dat</i>. JOS. <i>B.J. 4, 26, 5</i>.`

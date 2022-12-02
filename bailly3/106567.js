@@ -1,0 +1,1 @@
+lar[106567]=`<b>φοινικό·λεγνος, ος, ον</b> <font color="purple">[ῑ]</font> à la queue <i>ou</i> aux ailes frangées d’un rouge vif, ION (HSCH.).<p><b>Étym</b>. φ. λέγνον.`

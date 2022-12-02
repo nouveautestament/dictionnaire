@@ -1,0 +1,1 @@
+lar[4279]=`<b>ωνος (ὁ)</b> Alexiôn, <i>h</i>. PLUT. <i>Qu. conv. 7, 3, 1</i>.<p><b>Étym</b>. ἀλέξω.`

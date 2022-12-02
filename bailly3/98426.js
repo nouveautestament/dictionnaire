@@ -1,0 +1,1 @@
+lar[98426]=`<b>τερψί·νοος, οος, οον</b> <font color="purple">[ῐ]</font> qui charme <i>ou</i> réjouit le cœur, ANTH. <i>9, 505</i>.<p><b>Étym</b>. τέρπω, νόος.`

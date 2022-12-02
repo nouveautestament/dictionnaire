@@ -1,0 +1,1 @@
+lar[63792]=`<b>μελαθρόω-ῶ</b>, garnir de poutres, SPT. <i>3Reg. 7, 5</i>.<p><b>Étym</b>. μέλαθρον.`

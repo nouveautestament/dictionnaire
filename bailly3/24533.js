@@ -1,0 +1,1 @@
+lar[24533]=`<b>δια·δακρύω</b> <font color="darkgreen">(<i>ao. part</i>. -ύσας)</font> pleurer pendant une pause, <i>en parl. d’une personne qui parle,</i> DH. <i>10, 17</i>.`

@@ -1,0 +1,1 @@
+lar[14717]=`<b>Ἀριστό·λαος, ου (ὁ)</b> <i>ion</i>. Ἀριστόλεως, ω <font color="purple">[ᾰᾱ]</font> Aristolaos, <i>h</i>. DÉM. <i>18, 197 Baiter-Sauppe</i>.<p><b>Étym</b>. ἄ. λαός.`

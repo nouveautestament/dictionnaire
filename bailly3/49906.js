@@ -1,0 +1,1 @@
+lar[49906]=`<b>ας (ἡ) :<br>      1</b> faiblesse <i>ou</i> gracilité de la voix, HPC. <i>1040c.</i><br><b>      2</b> bégaiement, ARSTT. <i>Probl. 10, 40, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. ἰσχνόφωνος.`

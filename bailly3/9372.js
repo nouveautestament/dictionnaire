@@ -1,0 +1,1 @@
+lar[9372]=`<b>ας (ἡ)</b> manque de mets, <i>particul</i>. de poissons, ANTIPH. (ATH. <i>342f</i>) ; PLUT. <i>M. 237f</i>.<p><b>Étym</b>. ἄνοψος.`

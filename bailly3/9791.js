@@ -1,0 +1,1 @@
+lar[9791]=`<b>Ἀντι·γένης, ους (ὁ)</b> Antigénès, <i>h</i>. THC. <i>2, 23</i> ; XÉN. <i>Hell. 1, 3, 1, etc</i>.<p>➳ <i>Voc</i>. -η, PLUT. <i>Reg. apophth. Alex. 21 ; gén</i>. -εος, ARR. <i>Ind. 15, 10 ; acc</i>. -η, DÉM. <i>37, 22 et 25 Baiter-Sauppe</i> ; PLUT. <i>Eum. 13, ou</i> -ην, LYC. <i>22</i> ; DH. <i>7, 1, etc</i>.<p><b>Étym</b>. ἀ. γένος.`

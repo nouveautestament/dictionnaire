@@ -1,0 +1,1 @@
+lar[35454]=`<b>ἐξ·αναιρέω-ῶ</b> <font color="darkgreen">(<i>ao.2</i> ἐξανεῖλον)</font> enlever de, <i>gén</i>. HH. <i>Cer. 255</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao.2, 3 sg</i>. ἐξανείλετο)</font> <i>m. sign</i>. EUR. <i>Ion 269</i>.`

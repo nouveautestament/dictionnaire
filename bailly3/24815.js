@@ -1,0 +1,1 @@
+lar[24815]=`<b>δι·ακοντίζομαι</b> <font color="purple">[ᾰ]</font><br><b>      1</b> s’exercer à la lutte au javelot, XÉN. <i>Cyr. 1, 4, 4</i>.<br><b>      2</b> combattre avec le javelot : πρός τινα, TH. <i>Char. 27</i>, contre qqn.`

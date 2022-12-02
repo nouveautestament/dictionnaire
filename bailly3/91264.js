@@ -1,0 +1,1 @@
+lar[91264]=`<b>ου (ὁ)</b> Skythinos, <i>poète iambique,</i> ANTH. <i>12, 232, etc</i>.`

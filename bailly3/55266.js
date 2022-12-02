@@ -1,0 +1,1 @@
+lar[55266]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>autre n. du poisson de mer</i> κιρρίς, ATH. <i>355c</i>.`

@@ -1,0 +1,1 @@
+lar[102782]=`<b>εως (ἡ)</b> <i>litt</i>. action de tomber par-dessus <i>ou</i> au delà, <i>d’où</i> excès, NYSS.<p><b>Étym</b>. ὑπερπίπτω.`

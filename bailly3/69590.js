@@ -1,0 +1,1 @@
+lar[69590]=`<b>ξοανη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte une statue, <i>au plur. titre d’une pièce de Sophocle</i>.<p><b>Étym</b>. ξόανον, φέρω.`

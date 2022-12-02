@@ -1,0 +1,1 @@
+lar[38405]=`<b>ος, ον</b>, blâmable, DYSC. <i>Pron. 370, 401 ; Conj. 505, 537 ; Adv. 543 ; Synt. 259</i> ; APP. <i>2, 382 Schweigh</i>.<p><b>Étym</b>. ἐπιμέμφομαι.`

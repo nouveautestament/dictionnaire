@@ -1,0 +1,1 @@
+lar[4412]=`<b>ου</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> <i>adj. m</i>. d’Haliartos, NONN. <i>D. 4, 335</i>.<br><b>      2</b> <i>subst</i>. habitant <i>ou</i> originaire d’Haliartos, THC. <i>4, 93</i> ; PLUT. <i>Lys. 29, etc</i>.`

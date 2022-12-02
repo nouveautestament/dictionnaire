@@ -1,0 +1,1 @@
+lar[27279]=`<b>ῆρος (ὁ)</b> celui qui poursuit, BABR. <i>6</i>.<p><b>Étym</b>. διώκω.`

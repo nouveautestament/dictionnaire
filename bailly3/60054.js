@@ -1,0 +1,1 @@
+lar[60054]=`<b>λαχύ·φλοιος, ος, ον</b> <font color="purple">[ᾰ]</font> aux petites feuilles, NIC. <i>Al. 269</i>.<p><b>Étym</b>. ἐλαχύς, φλοιός.`

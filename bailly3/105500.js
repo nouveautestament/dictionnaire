@@ -1,0 +1,1 @@
+lar[105500]=`<b>φιλ·αργεῖος, ος, ον</b> <font color="purple">[ῐ]</font> ami des Argiens, THÉM. <i>335c</i>.<p><b>Étym</b>. φ. Ἀργεῖος.`

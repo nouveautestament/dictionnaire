@@ -1,0 +1,1 @@
+lar[101248]=`<b>οῦ (ὁ)</b> moquerie, raillerie, injure, ARSTT. <i>Pol. 7, 17, 10</i> ; DH. <i>3, 71, etc</i>.<p><b>Étym</b>. τωθάζω.`

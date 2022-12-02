@@ -1,0 +1,1 @@
+lar[77893]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> accompagné de pustules <i>ou</i> qui fait pousser des pustules, HPC. <i>1165f</i>.<p><b>Étym</b>. πέμφιξ, -ωδης.`

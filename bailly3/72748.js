@@ -1,0 +1,1 @@
+lar[72748]=`<b>ὀρθο·πύγιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ὀρροπύγιον, Ps.-ERATOSTH. <i>Cat. 25 ; 41</i>.`

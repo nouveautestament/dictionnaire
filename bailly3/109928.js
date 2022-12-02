@@ -1,0 +1,1 @@
+lar[109928]=`<i>barbarisme d’un Scythe, pour</i> ψύλλος, AR. <i>Th. 1180</i>.`

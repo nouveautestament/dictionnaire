@@ -1,0 +1,1 @@
+lar[83361]=`<b>ιδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> femme âgée, ESCHL. <i>Eum. 731, 1027</i> ; EUR. <i>Hec. 842</i> ; PLAT. <i>Hipp. ma. 286a ;</i> ESCHN. <i>76, 4 ; joint à</i> ἄνθρωπος, LYS. <i>93, 7</i>.<p><b>Étym</b>. <i>fém. de</i> πρεσβύτης.`

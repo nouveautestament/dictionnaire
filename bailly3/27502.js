@@ -1,0 +1,1 @@
+lar[27502]=`<b>ορος (ὁ)</b> constructeur, MAN. <i>6, 415</i>.<p><b>Étym</b>. δομέω.`

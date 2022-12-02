@@ -1,0 +1,1 @@
+lar[105817]=`<b>φιλο·καθάριος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui aime la pureté, la sainteté, PROCL. <i>Ptol. p. 90</i>.<p><b>Étym</b>. φ. καθαρός.`

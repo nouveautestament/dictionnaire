@@ -1,0 +1,1 @@
+lar[68419]=`<b>ή, όν</b>, fait de nuages, LUC. <i>V.H. 1, 19</i>.<p><b>Étym</b>. νεφελόω.`

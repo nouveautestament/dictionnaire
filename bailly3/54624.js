@@ -1,0 +1,1 @@
+lar[54624]=`<b>εοῦ (ὁ)</b> Kéléos, <i>père de Triptolème,</i> HH. <i>Cer. 146</i> ; AR. <i>Ach. 55</i>.`

@@ -1,0 +1,1 @@
+lar[14817]=`<i>adv</i>., d’une manière suffisante, ESCHL. <i>Ch. 892</i> ; THC. <i>1, 22</i> ; ἀ. ἔχει, EUR. <i>Hec. 318</i> ; POL. <i>2, 37, 6,</i> il suffit.<p>➳ <i>Non contr</i>. ἀρκεόντως, Ps.-PLUT. <i>V. Hom. 7</i>.<p><b>Étym</b>. ἀρκέω.`

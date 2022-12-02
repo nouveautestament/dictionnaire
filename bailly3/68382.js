@@ -1,0 +1,1 @@
+lar[68382]=`<b>νευρο·σιδηροῦς, ᾶ, οῦν</b> <font color="purple">[ῐ]</font> aux nerfs de fer, CHRYS. <i>1, 1083</i>.<p><b>Étym</b>. ν. σιδήρεος.`

@@ -1,0 +1,1 @@
+lar[5712]=`<i>adv</i>., sans fatigue, IL. <i>11, 637</i> ; CALL. <i>Dian. 25</i> ; LUC. <i>Nav. 21, etc</i>.<p><b>Étym</b>. ἀμόγητος.`

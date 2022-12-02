@@ -1,0 +1,1 @@
+lar[80208]=`<b>ου (τὸ)</b> presse, <i>instrument de torture,</i> SYN. <i>1, 201</i>.<p><b>Étym</b>. πιέζω.`

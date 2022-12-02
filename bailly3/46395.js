@@ -1,0 +1,1 @@
+lar[46395]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> évocation des dieux, NAZ. <i>2, 25 Migne</i> ; JAMBL. <i>Myst. 92, 2</i>.<p><b>Étym</b>. <i>cf</i>. θεαγωγέω.`

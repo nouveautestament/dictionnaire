@@ -1,0 +1,1 @@
+lar[71429]=`<b>ὀμματο·στερής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. privé de la vue, SOPH. <i>O.C. 1260</i> ; EUR. <i>Ph. 327</i>.<br><b>      2</b> <i>act</i>. qui prive de la vue, ESCHL. <i>Eum. 940</i>.<p><b>Étym</b>. ὄμμα, στερέω.`

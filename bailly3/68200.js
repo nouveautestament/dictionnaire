@@ -1,0 +1,1 @@
+lar[68200]=`<b>νεο·πειθής, ής, ές</b>, qui obéit depuis peu, NONN. <i>Jo. 6, 37</i>.<p><b>Étym</b>. ν. πείθω.`

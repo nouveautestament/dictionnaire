@@ -1,0 +1,1 @@
+lar[173]=`<b>ἁβρό·δαις, αιτος (ὁ, ἡ)</b> aux mets délicats, ACHESTR. (ATH. <i>4e</i>).<p><b>Étym</b>. ἁ. δαίς.`

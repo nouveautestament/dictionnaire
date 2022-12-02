@@ -1,0 +1,1 @@
+lar[88131]=`<font color="darkgreen">(<i>seul. prés. ind., impér. et inf. éol</i>. πώνην)</font> <i>c</i>. πίνω, ALC. <i>52, 54, 20</i>.`

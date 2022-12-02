@@ -1,0 +1,1 @@
+lar[29616]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) art de peindre à l’encaustique, PLIN. <i>H.N. 35, 39</i>.<p><b>Étym</b>. ἔγκαυστος.`

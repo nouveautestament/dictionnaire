@@ -1,0 +1,1 @@
+lar[50349]=`<b>εως (ἡ)</b> action de faire descendre, d’introduire, d’enfoncer, ARSTT. <i>Meteor. 2, 2, 22 ; Probl. 32, 5, 3</i>.<p><b>Étym</b>. καθίημι.`

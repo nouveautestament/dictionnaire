@@ -1,0 +1,1 @@
+lar[68223]=`<b>Νεο·πτόλεμος, ου (ὁ)</b> Néoptolémos (Néoptolème) :<br><b>      1</b> <i>fils d’Achille et de Déidamia,</i> IL. <i>19, 327</i> ; OD. <i>11, 506, etc.</i><br><b>      2</b> <i>autres,</i> DÉM. <i>264, 25, etc</i>.<p><b>Étym</b>. <i>v</i>. πτόλεμος.`

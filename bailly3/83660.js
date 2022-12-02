@@ -1,0 +1,1 @@
+lar[83660]=`<b>προ·απολείπω :<br>      1 <i>tr.</i></b> abandonner auparavant, ANT. <i>140, 28</i> ; HPC. <i>611, 17 ; acc</i>. ARSTT. <i>Rhet. Al. 31, 5, etc.</i><br><b>      2 <i>intr.</i></b> mourir auparavant, prématurément, <i>avec un part</i>. PAUS. <i>2, 1, 5</i>.<br><b><i>Moy.</i></b> abandonner auparavant, PLUT. <i>M. 1078f</i>.`

@@ -1,0 +1,1 @@
+lar[5877]=`<b>υκος (ὁ)</b> <font color="purple">[ῠκ]</font> Ampyx, <i>père de Mopsos,</i> ORPH. <i>Arg. 126</i>.`

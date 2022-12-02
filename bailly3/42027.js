@@ -1,0 +1,1 @@
+lar[42027]=`<i>adv</i>., avec inclination pour, πρός <i>et l’acc</i>. STR. <i>28</i>.`

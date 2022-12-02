@@ -1,0 +1,1 @@
+lar[107147]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m.</i> : ἀγών, PALÆPH. <i>37,</i> concours dont le prix était une couronne de feuilles.<p><b>Étym</b>. φύλλον.`

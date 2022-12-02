@@ -1,0 +1,1 @@
+lar[63817]=`<b>ου (τὸ)</b> ellébore noir, <i>ainsi nommé du médecin Μελάμπους qui passait pour l’avoir le premier employé en médecine,</i> TH. <i>H.P. 9, 10, 4</i>.`

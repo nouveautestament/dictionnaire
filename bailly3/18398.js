@@ -1,0 +1,1 @@
+lar[18398]=`<font color="purple">[ᾰχ]</font> <i>adv</i>., à Acharnes, <i>sans mouv</i>. LUC. <i>Ic. 18</i>.<p><b>Étym</b>. Ἀχαρναί.`

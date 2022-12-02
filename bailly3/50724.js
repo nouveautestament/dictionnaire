@@ -1,0 +1,1 @@
+lar[50724]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font><br><b>      1</b> zèle malheureux <i>ou</i> mal placé, POL. <i>10, 25, 10</i>.<br><b>      2</b> <i>t. de rhét</i>. mauvais goût, affectation, LUC. <i>Salt. 82</i>.<p><b>Étym</b>. κακόζηλος.`

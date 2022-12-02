@@ -1,0 +1,1 @@
+lar[100218]=`<b>τρι·ημίπηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b> <font color="purple">[μῐ]</font> long d’une coudée et demie, CALLIX. (ATH. <i>199c</i>).<p><b>Étym</b>. τρ. ἡ.`

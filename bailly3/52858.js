@@ -1,0 +1,1 @@
+lar[52858]=`<b>κατα·μονομαχέω-ῶ</b> <font color="purple">[μᾰ]</font> vaincre en combat singulier, <i>acc</i>. PLUT. <i>Thes. 11</i>.`

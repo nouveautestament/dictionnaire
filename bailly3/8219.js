@@ -1,0 +1,1 @@
+lar[8219]=`<b>ἀνεισφορία, ας (ἡ)</b> exemption d’impôts, immunité, PLUT. <i>Eum. 4</i>.<p><b>Étym</b>. ἀνείσφορος.`

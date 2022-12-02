@@ -1,0 +1,1 @@
+lar[26567]=`<b>δι·κότυλος, ος, ον</b> <font color="purple">[ῐῠ]</font><br><b>      1</b> de la contenance de deux cotyles, COM. (ATH. <i>293, 467d, etc</i>.) ; POLYEN <i>8, 16, 2</i>.<br><b>      2</b> à deux rangs de ventouses, <i>en parl. de poulpes,</i> ARSTT. <i>H.A. 4, 1, 8, etc</i>.<p><b>Étym</b>. δίς, κοτύλη.`

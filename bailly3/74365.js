@@ -1,0 +1,1 @@
+lar[74365]=`<b>οῦ (ἡ)</b> Pæsos, <i>v. de Troade,</i> IL. <i>5, 612</i> ; HDT. <i>5, 117</i>.`

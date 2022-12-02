@@ -1,0 +1,1 @@
+lar[28107]=`<b>δυο·ειδής, ής, ές</b>, à double aspect <i>ou</i> de deux sortes, PORPH. <i>V. Pyth. 84</i>.<p><b>Étym</b>. δύο, εἶδος.`

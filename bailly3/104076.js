@@ -1,0 +1,1 @@
+lar[104076]=`<b>ατος (τὸ)</b> aide, assistance, HDT. <i>1, 137</i> ; XÉN. <i>Hier. 8, 7</i> ; AND. <i>21, 41</i>.<p><b>Étym</b>. ὑπουργέω.`

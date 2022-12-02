@@ -1,0 +1,1 @@
+lar[26494]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> justice, XÉN. <i>An. 2, 6, 26 ; Cyr. 8, 8, 13</i> ; PLAT. <i>Prot. 321b ; Gorg. 508a</i>.<p><b>Étym</b>. δίκαιος.`

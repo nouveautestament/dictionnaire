@@ -1,0 +1,1 @@
+lar[44678]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> atelier de peinture, PLUT. <i>M. 171f</i>.<p><b>Étym</b>. ζωγράφος.`

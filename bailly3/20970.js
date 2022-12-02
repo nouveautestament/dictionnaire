@@ -1,0 +1,1 @@
+lar[20970]=`<b>ή, όν :<br>      1</b> vorace, ARSTT. <i>Probl. 23, 39, etc.</i> ; PLUT. <i>M. 352f.</i><br><b>      2</b> corrosif, PLUT. <i>M. 635b.</i><br><b>      3</b> qui excite l’appétit, CHRYSIPP. (ATH. <i>335d</i>).<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>P.A. 4, 5 ; Probl. 26, 43 ; 23, 39. • Sup</i>. -ώτατος, ARSTT. <i>fr. 222</i>.<p><b>Étym</b>. βιβρώσκω.`

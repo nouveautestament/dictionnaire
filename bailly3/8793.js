@@ -1,0 +1,1 @@
+lar[8793]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à l’asphodèle, TH. <i>H.P. 9, 10, 1</i>.<p><b>Étym</b>. ἀνθέρικος, -ωδης.`

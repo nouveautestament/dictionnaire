@@ -1,0 +1,1 @@
+lar[69447]=`<b>οῦ (ὁ) :<br>      1</b> réception d’un étranger, PLAT. <i>Lys. 205c ;</i> PLUT. <i>Demetr. 12</i> ; LUC. <i>Salt. 45</i>.<br><b>      2</b> caractère étrange d’une chose, étrangeté, nouveauté, POL. <i>15, 17, 1</i> ; DS. <i>3, 33 ; p. suite,</i> trouble causé par une chose nouvelle, DIOSC. <i>2, 182</i>.<p><b>Étym</b>. ξενίζω.`

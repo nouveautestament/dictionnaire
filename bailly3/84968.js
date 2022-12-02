@@ -1,0 +1,1 @@
+lar[84968]=`<b>πρόπλοος-ους, όου-οῦ (ὁ)</b> navigation en avant, traversée, APP. <i>Civ. 5, 112</i>.<p><b>Étym</b>. προπλέω.`

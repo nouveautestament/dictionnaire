@@ -1,0 +1,1 @@
+lar[30392]=`<b>εἰκοστ·όγδοον, ου (τὸ)</b> la vingt-huitième partie, NICOM. <i>Arithm. 89 Ast</i>.<p><b>Étym</b>. εἰ. ὄγδοος.`

@@ -1,0 +1,1 @@
+lar[27021]=`<b>      1</b> lancer le disque, PHILSTR. <i>Ep. 43</i>.<br><b>      2</b> lancer comme un disque, <i>d’où p. ext</i>. lancer fortement (<i>seul. au pass</i>.) EUR. <i>Ion 1268 (f</i>. εὐθήσεται) ; ANTH. <i>9, 14 (ao</i>. -ευθείς).<p><b>Étym</b>. δίσκος.`

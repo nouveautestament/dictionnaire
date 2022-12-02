@@ -1,0 +1,1 @@
+lar[13954]=`<b>ἀ·πρόσιτος, ος, ον</b> <font color="purple">[ῐ]</font> inabordable, inaccessible, <i>en parl. de choses (montagne, précipice, etc</i>.) POL. <i>3, 49, 7</i> ; DS. <i>19, 96 ; fig</i>. PLUT. <i>Alc. 4, etc</i>.<p><b>Étym</b>. ἀ, πρόσειμι.`

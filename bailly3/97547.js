@@ -1,0 +1,1 @@
+lar[97547]=`<b>τανυ·κνήμις, ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰῑδ]</font> aux longues jambes, NONN. <i>D. 48, 287</i>.<p><b>Étym</b>. τανυ-, κνημίς.`

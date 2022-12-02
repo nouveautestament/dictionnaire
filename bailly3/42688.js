@@ -1,0 +1,1 @@
+lar[42688]=`<b>εὔ·μετρος, ος, ον :<br>   I</b> de juste mesure, de moyenne grandeur, ARÉT. <i>p. 72, 27</i> ; THCR. <i>Idyl. 25, 209</i>.<br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> bien mesuré, bien calculé, ESCHL. <i>Ag. 1010</i>.<br><b>      2</b> <i>t. de rhét</i>. bien rythmé, DH. <i>Comp. 25</i>.`

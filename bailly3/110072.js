@@ -1,0 +1,1 @@
+lar[110072]=`<i>adv. ou conj. dor. p</i>. ὡς, GRAMM. <i>p. 591, 22 Bekker, Anecdota græca, etc</i>.).`

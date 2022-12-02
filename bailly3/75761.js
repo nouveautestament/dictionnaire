@@ -1,0 +1,1 @@
+lar[75761]=`<b>παρα·κοιμάομαι-ῶμαι</b>, coucher <i>ou</i> dormir auprès de, <i>dat</i>. ATH. <i>189e ;</i> JOS. <i>A.J. 7, 7, 1</i>.`

@@ -1,0 +1,1 @@
+lar[56169]=`<b>Κλυτό·νηος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Klytonèos, <i>h</i>. OD. <i>8, 119, 123</i> ; A.RH. <i>1, 134</i>.<p><b>Étym</b>. κλ. ναῦς.`

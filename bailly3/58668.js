@@ -1,0 +1,1 @@
+lar[58668]=`<b>Κυματο·λήγη, ης (ἡ)</b> <font color="purple">[ῡᾰ]</font> Kymatolègè, <i>litt</i>. « qui apaise les vagues », <i>Néréide,</i> HÉS. <i>Th. 253</i>.<p><b>Étym</b>. κῦμα, λήγω.`

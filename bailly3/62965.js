@@ -1,0 +1,1 @@
+lar[62965]=`<b>μαρκίατον μύρον (τὸ)</b> sorte d’onguent <i>ou</i> de parfum, A. TR. <i>1, p. 9, 14</i>.`

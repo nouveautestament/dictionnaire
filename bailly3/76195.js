@@ -1,0 +1,1 @@
+lar[76195]=`<b>παρα·σιώπησις, εως (ἡ)</b> action de passer sous silence, prétérition, <i>fig. de rhét.</i> : κατὰ παρασιώπησιν, CLÉM. <i>1, 1309 Migne</i> ; QUINT. <i>9, 3, 99,</i> par prétérition.<p><b>Étym</b>. παρασιωπάω.`

@@ -1,0 +1,1 @@
+lar[36774]=`<b>ἐπ·άργυρος, ος, ον</b> <font color="purple">[ῠ]</font> orné <i>ou</i> plaqué d’argent, HDT. <i>1, 50</i>.<p><b>Étym</b>. ἐπί, ἄργυρος.`

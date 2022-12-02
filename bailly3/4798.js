@@ -1,0 +1,1 @@
+lar[4798]=`<b>ή, όν :<br>      1</b> enclin à changer, changeant, variable, T. LOCR. <i>99d ;</i> ARSTT. <i>Sens. 4, 12 ; Phys. 8, 5, 15</i>.<br><b>      2</b> qui change les dispositions <i>ou</i> l’état du corps, GAL. <i>2, 239</i>.<p><b>Étym</b>. ἀλλοιόω.`

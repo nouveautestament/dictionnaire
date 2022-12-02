@@ -1,0 +1,1 @@
+lar[25255]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> διάπηγμα PHIL. BYZ. <i>64</i>.`

@@ -1,0 +1,1 @@
+lar[37823]=`<b>ἐπι·θορυβέω-ῶ</b> <font color="purple">[ῠ]</font> répondre par des acclamations, XÉN. <i>Hell. 2, 3, 50</i> ; DH. <i>6, 39 et 83 ; ou en mauv. part,</i> par des clameurs, XÉN. <i>Hell. 1, 7, 13</i>.`

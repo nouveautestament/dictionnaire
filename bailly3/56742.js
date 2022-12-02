@@ -1,0 +1,1 @@
+lar[56742]=`<b>ῆρος (ὁ)</b> plongeur, nageur, ESCHL. <i>Suppl. 408</i>.<p><b>Étym</b>. κολυμβάω.`

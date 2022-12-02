@@ -1,0 +1,1 @@
+lar[46462]=`<b>ης (ἡ)</b> sujet de contemplation, ANTH. <i>11, 352</i>.<p><b>Étym</b>. θεήμων.`

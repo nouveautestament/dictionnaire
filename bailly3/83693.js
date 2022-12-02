@@ -1,0 +1,1 @@
+lar[83693]=`<b>προ·αποτήκω</b>, faire fondre auparavant, GAL. <i>14, 268</i>.`

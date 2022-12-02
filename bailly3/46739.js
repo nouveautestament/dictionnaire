@@ -1,0 +1,1 @@
+lar[46739]=`<b>θεοπλαστέω-ῶ</b>, forger un dieu, diviniser, <i>acc</i>. PHIL. <i>1, 257, 371, 464</i> ; HLD. <i>9, 9</i>.<p><b>Étym</b>. θεοπλάστης.`

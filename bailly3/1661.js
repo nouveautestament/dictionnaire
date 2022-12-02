@@ -1,0 +1,1 @@
+lar[1661]=`<b>ἀεί·θουρος, ος, ον</b>, qui s’élance toujours, toujours prêt à combattre, OPP. <i>C. 2, 189</i>.<p><b>Étym</b>. ἀ. θοῦρος.`

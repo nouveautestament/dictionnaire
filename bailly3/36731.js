@@ -1,0 +1,1 @@
+lar[36731]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ἐπάνω, ANTH. <i>11, 404</i>.<p><b>Étym</b>. ἐπάνω, -θι.`

@@ -1,0 +1,1 @@
+lar[21961]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Gèryôn, ARSTT. <i>Mir. 133</i> ; PHILSTR. <i>V. Ap. 5, 5</i>.<p><b>Étym</b>. Γηρυών.`

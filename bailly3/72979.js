@@ -1,0 +1,1 @@
+lar[72979]=`<b>ίτιδος</b> <font color="purple">[ῑτῐδ]</font> <i>adj. f. c</i>. ὀροβίτης PLIN. <i>H.N. 33, 5</i>.`

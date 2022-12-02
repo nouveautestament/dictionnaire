@@ -1,0 +1,1 @@
+lar[72906]=`<b>ὀρνεό·μορφος, ος, ον</b>, qui a forme d’oiseau, PROCL. <i>Ptol. 4, 9, p. 281</i>.<p><b>Étym</b>. ὄρνεον, μορφή.`

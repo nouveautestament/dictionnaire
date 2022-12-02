@@ -1,0 +1,1 @@
+lar[54639]=`<b>ή, όν :<br>      1</b> qui concerne le commandement, PLUT. <i>M. 72d.</i><br><b>      2</b> qui concerne l’exhortation : ἡ κελευστική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 260d</i>, l’art d’exhorter, de persuader.<p><b>Étym</b>. κελευστός.`

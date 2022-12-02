@@ -1,0 +1,1 @@
+lar[66495]=`<b>μον·ήμερος, ος, ον</b>, qui ne dure qu’un jour, EL. <i>N.A. 5, 43</i>.<p><b>Étym</b>. μ. ἡμέρα.`

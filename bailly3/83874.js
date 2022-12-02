@@ -1,0 +1,1 @@
+lar[83874]=`<b>      1</b> exercer auparavant, préparer par l’exercice, <i>acc</i>. SOPH. <i>fr. 450 Dind.</i> ; LUC. <i>Herm. 78</i>.<br><b>      2</b> <i>particul</i>. préparer aux exercices oratoires, ARR. <i>Epict. 1, 26, 13</i>.`

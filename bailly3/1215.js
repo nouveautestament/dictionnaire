@@ -1,0 +1,1 @@
+lar[1215]=`<b>ἀ·δέκαστος, ος, ον</b>, non corrompu, incorruptible, intègre, ARSTT. <i>Nic. 2, 9, 6</i> ; PLUT. <i>M. 48f ;</i> LUC. <i>Herm. 64</i>.<p><b>Étym</b>. ἀ, δεκάζω.`

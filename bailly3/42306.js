@@ -1,0 +1,1 @@
+lar[42306]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> direction en ligne droite, ARSTT. <i>Categ. 8, 20, etc.</i><br><b>      2</b> droiture, justice, SPT. <i>Jos. 24, 14</i>.<p><b>Étym</b>. εὐθύς.`

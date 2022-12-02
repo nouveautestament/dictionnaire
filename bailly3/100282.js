@@ -1,0 +1,1 @@
+lar[100282]=`<b>τρι·μάχιον, ου (τὸ)</b> <font color="purple">[ῐμᾰ]</font> hippuris <i>ou</i> prèle des bois, <i>plante,</i> DIOSC. <i>Noth. 4, 46</i>.<p><b>Étym</b>. τρ. μάχη.`

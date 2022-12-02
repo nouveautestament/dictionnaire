@@ -1,0 +1,1 @@
+lar[105504]=`<b>Φιλ·άργυρος, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> Philargyros, <i>h</i>. PLUT. <i>Cato ma. 38, etc</i>.<p><b>Étym</b>. <i>cf</i>. φιλάργυρος.`

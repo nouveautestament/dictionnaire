@@ -1,0 +1,1 @@
+lar[31224]=`<b>ος, ον</b>, qui recueille, qui embrasse, PROCL. <i>Plat. Tim. p. 293</i>.`

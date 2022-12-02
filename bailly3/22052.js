@@ -1,0 +1,1 @@
+lar[22052]=`<b>η, ον</b>, d’un gris bleuâtre, PLUT. <i>M. 821e</i>.<p><b>Étym</b>. γλαυκός.`

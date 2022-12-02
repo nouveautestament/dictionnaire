@@ -1,0 +1,1 @@
+lar[94751]=`<b>συν·ανασκάπτω</b>, saper et renverser ensemble, STR. <i>381</i>.`

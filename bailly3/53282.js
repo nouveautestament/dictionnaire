@@ -1,0 +1,1 @@
+lar[53282]=`<b>κατα·ρρυπαίνω</b> <font color="purple">[ῠ]</font> souiller, salir, <i>fig</i>. ISOCR. <i>245d, 407d ;</i> PLAT. <i>Leg. 919e ; joint à</i> καταμιαίνειν, <i>Leg. 937d</i>.<p><b>Étym</b>. κ. ῥυπαίνω.`

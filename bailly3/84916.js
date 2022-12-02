@@ -1,0 +1,1 @@
+lar[84916]=`<b>πρό·πειρα, ας (ἡ)</b> essai <i>ou</i> épreuve préliminaire : πρόπειραν ποιεῖσθαι ἔν τινι, HDT. <i>9, 48 ; ou</i> εἰ, THC. <i>3, 86 ; ou</i> λαμβάνειν, EL. <i>N.A. 8, 22,</i> faire auparavant une expérience.<p><b>Étym</b>. π. πεῖρα.`

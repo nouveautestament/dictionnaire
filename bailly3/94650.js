@@ -1,0 +1,1 @@
+lar[94650]=`<b>συν·αλίσκομαι</b> <font color="purple">[ᾰ]</font> être pris avec <i>ou</i> en même temps, PLUT. <i>Dio. c. Brut. 3</i> ; EL. <i>N.A. 11, 12</i> ; DL. <i>2, 105</i>.`

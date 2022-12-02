@@ -1,0 +1,1 @@
+lar[521]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec orgueil <i>ou</i> fierté, POL. <i>2, 8, 7</i> ; ANTH. <i>9, 745</i>.<p>•<i> Cp</i>. -ότερον, POL. <i>18, 17, 3</i>.`

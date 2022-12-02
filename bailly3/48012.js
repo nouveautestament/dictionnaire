@@ -1,0 +1,1 @@
+lar[48012]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν (ἡ)</b> <i>s.-e</i>. χώρα, la contrée de Thyréa, THC. <i>2, 27</i> ; PLUT. <i>Pyrrh. 32</i>.<p><b>Étym</b>. Θυρεά.`

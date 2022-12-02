@@ -1,0 +1,1 @@
+lar[26438]=`transporter de l’autre côté d’un isthme, POL. <i>4, 19, 7</i>.<p><b>Étym</b>. δίϊσθμος.`

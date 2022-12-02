@@ -1,0 +1,1 @@
+lar[25820]=`<b>δι·αυχενίζομαι</b>, redresser le cou, se rengorger, EUN. (SUID. <i>v°</i> ἀνηρέθιζεν).<p><b>Étym</b>. διά, αὐχήν.`

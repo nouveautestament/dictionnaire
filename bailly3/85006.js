@@ -1,0 +1,1 @@
+lar[85006]=`<b>προ·ποτίζω</b>, donner à boire auparavant, GAL. <i>14, 383</i>.`

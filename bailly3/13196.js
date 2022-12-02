@@ -1,0 +1,1 @@
+lar[13196]=`<b>ατος (τὸ) :<br>      1</b> objet de controverse, question à débattre, PLAT. <i>Phil. 36e ;</i> ARSTT. <i>Top. 8, 11, 12, etc.</i><br><b>      2</b> difficulté, POL. <i>31, 21, 8</i>.<p><b>Étym</b>. ἀπορέω.`

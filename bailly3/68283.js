@@ -1,0 +1,1 @@
+lar[68283]=`<b>νεό·τρητος, ος, ον</b>, <i>litt</i>. nouvellement percé, <i>càd</i>. nouvellement fait, <i>en parl. d’une blessure,</i> DIOSC. <i>1, 142</i>.<p><b>Étym</b>. ν. τιτραίνω.`

@@ -1,0 +1,1 @@
+lar[43678]=`<b>εὔ·υμνος, ος, ον</b>, célébré dans de beaux hymnes <i>ou</i> dans des hymnes nombreux, HH. <i>Ap. 19, 207</i> ; CALL. <i>Ap. 30</i>.<p>•<i> Sup</i>. -ότατος, CALL. <i>fr. 36</i>.<p><b>Étym</b>. εὖ, ὕμνος.`

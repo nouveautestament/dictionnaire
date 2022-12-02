@@ -1,0 +1,1 @@
+lar[14989]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> terre arable <i>ou</i> labourée, IL. <i>9, 580</i> ; OD. <i>9, 134</i> ; A.RH. <i>1, 826, 867, etc</i>.<p><b>Étym</b>. ἀρόω.`

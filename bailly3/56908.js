@@ -1,0 +1,1 @@
+lar[56908]=`<b>ου (ὁ)</b> = <i>lat</i>. Considius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 14</i>.`

@@ -1,0 +1,1 @@
+lar[62595]=`<b>ου (τὸ)</b> rouleau pour étendre la pâte, PLUT. <i>M. 159d</i>.<p><b>Étym</b>. μάσσω.`

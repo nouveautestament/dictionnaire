@@ -1,0 +1,1 @@
+lar[25645]=`<b>διά·στυλος, ος, ον</b> <font color="purple">[ῡ]</font> dont les colonnes sont espacées, <i>particul</i>. à une distance de trois diamètres, VITR. <i>3, 2</i>.<p><b>Étym</b>. διά, στῦλος.`

@@ -1,0 +1,1 @@
+lar[100812]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> vendangeur, HÉS. <i>Sc. 293</i>.<br><b>      2</b> le Vendangeur, <i>constellation</i> (auj. le Bouvier), VI Non. Mart. Vindemitor apparet, quem Græci trygetera dicunt, COLUM. <i>11, 2, 24</i>.<p>➳ <font color="purple">[ῡ]</font> <i>à l’arsis,</i> HÉS. <i>l. c</i>.<p><b>Étym</b>. τρυγάω.`

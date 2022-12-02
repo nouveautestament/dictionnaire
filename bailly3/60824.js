@@ -1,0 +1,1 @@
+lar[60824]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> Lènée, <i>fils de Silène,</i> NONN. <i>D. 14, 99, etc</i>.<p><b>Étym</b>. Λῆναι.`

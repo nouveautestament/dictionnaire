@@ -1,0 +1,1 @@
+lar[26142]=`<b>δι·εκπνέω</b> (<i>prés. 3 pl</i>. -πνέουσι) souffler à travers, ARSTT. <i>Mund. 4, 15</i>.`

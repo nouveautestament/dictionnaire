@@ -1,0 +1,1 @@
+lar[27458]=`<b>ων (οἱ)</b> les Dolopes, <i>pple de Thessalie, postér. d’Épire,</i> PD. (STR. <i>431</i>) ; HDT. <i>7, 132, 185</i> ; THC. <i>1, 98 ; etc</i>.<p>➳ <i>Dat. pl</i>. Δόλοψιν, <i>épq</i>. Δολόπεσσιν, IL. <i>9, 484</i> ; Q. SM. <i>3, 469</i> ; ORPH. <i>Arg. 132</i>.<p><b>Étym</b>. Δόλοψ.`

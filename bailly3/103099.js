@@ -1,0 +1,1 @@
+lar[103099]=`<b>ὑπο·γρύπος, ος, ον</b> <font color="purple">[γρῡ]</font> qui a le nez légèrement aquilin, PHILSTR. <i>725</i>.<p><b>Étym</b>. ὑ. γρυπός.`

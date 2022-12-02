@@ -1,0 +1,1 @@
+lar[98541]=`<b>α, ον</b> <font color="purple">[ᾰγ]</font> carré, quadrangulaire, GEOP. <i>2, 2, 4</i>.<p><b>Étym</b>. τετράγωνος.`

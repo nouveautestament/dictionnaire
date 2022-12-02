@@ -1,0 +1,1 @@
+lar[33502]=`<b>ας (ἡ) :<br>      1</b> stupidité, ESCHN. <i>84, 30 ; d’où</i> démence, PLUT. <i>M. 56c ;</i> GAL. <i>8, 79</i>.<br><b>      2</b> instabilité, inconstance, ESCHN. <i>50, 10</i>.<p><b>Étym</b>. ἔμπληκτος.`

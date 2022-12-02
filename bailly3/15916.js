@@ -1,0 +1,1 @@
+lar[15916]=`<b>ἀ·σκευής, ής, ές :<br>      1</b> sans instruments, sans outils, HDT. <i>3, 131</i>.<br><b>      2</b> sans meubles, MUSON. (STOB. <i>Fl. 67, 20).</i><p><b>Étym</b>. ἀ, σκεῦος.`

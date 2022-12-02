@@ -1,0 +1,1 @@
+lar[865]=`<b>ἀγραυλέω-ῶ</b>, séjourner <i>ou</i> passer la nuit dans les champs, ARSTT. <i>Mir. 11</i> ; PLUT. <i>Num. 4 ; en parl. de bergers,</i> NT. <i>Luc. 2, 8</i>.<p><b>Étym</b>. ἄγραυλος.`

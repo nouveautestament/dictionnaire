@@ -1,0 +1,1 @@
+lar[90701]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>dim. de</i> σκαφίς, POL. <i>34, 3, 2</i> ; STR. <i>24</i> ; LUC. <i>D. mort. 4, 1, etc</i>.`

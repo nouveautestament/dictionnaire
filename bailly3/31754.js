@@ -1,0 +1,1 @@
+lar[31754]=`<i>adv</i>., volontairement, EUR. <i>Tr. 1037</i>.<p><b>Étym</b>. ἑκούσιος.`

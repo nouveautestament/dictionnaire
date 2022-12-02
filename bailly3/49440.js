@@ -1,0 +1,1 @@
+lar[49440]=`<b>ἱππο·τρόφος, ος, ον :<br>      1</b> qui nourrit des chevaux (contrée, <i>etc.) en parl. de la Thrace</i> ; HÉS. <i>O. 505 ; d’Argos,</i> PD. <i>N. 10, 77</i>.<br><b>      2</b> qui nourrit <i>ou</i> élève des chevaux, <i>particul. pour les courses,</i> DÉM. <i>331, 18, etc</i>.<p><b>Étym</b>. ἵ. τρέφω.`

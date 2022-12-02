@@ -1,0 +1,1 @@
+lar[82384]=`<b>πολυ·στασίαστος, ος, ον</b> <font color="purple">[τᾰ]</font> troublé par de fréquentes <i>ou</i> de continuelles séditions, APP. <i>Civ. 2, 151</i>.<p><b>Étym</b>. π. στασιάζω.`

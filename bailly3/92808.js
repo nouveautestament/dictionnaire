@@ -1,0 +1,1 @@
+lar[92808]=`<b>στραταρχέω-ῶ</b> <font color="purple">[ᾰτ]</font> être chef d’armée, JOS. <i>B.J. 4, 1, 10</i>.<p><b>Étym</b>. στρατάρχης.`

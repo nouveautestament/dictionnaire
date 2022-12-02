@@ -1,0 +1,1 @@
+lar[14289]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. d’Argos <i>ou</i> d’Argolide, ESCHL. <i>Suppl. 236</i> ; ἡ Ἀ. (<i>s.-e</i>. χώρα) PAUS. <i>2, 15, 4, etc</i>. l’Argolide.<p><b>Étym</b>. Ἀργόλας.`

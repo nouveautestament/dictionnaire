@@ -1,0 +1,1 @@
+lar[102391]=`<b>ὑπέρ·δικος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> tout à fait juste, SOPH. <i>Aj. 1119</i>.<br><b>      2</b> défenseur <i>ou</i> vengeur de la justice, PD. <i>P. 10, 68</i>.<p><b>Étym</b>. ὑ. δίκη.`

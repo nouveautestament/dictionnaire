@@ -1,0 +1,1 @@
+lar[43459]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec un équilibre parfait, d’une manière posée, avec calme, ARR. <i>Epict. 2, 5, 7</i> ; DL. <i>7, 182</i> ; APP. <i>1, 131 Schweigh</i>.<p><b>Étym</b>. εὐσταθής.`

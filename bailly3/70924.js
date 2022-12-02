@@ -1,0 +1,1 @@
+lar[70924]=`<b>ὀλβο·μέλαθρος, ος, ον</b>, qui est d’une maison fortunée, MAN. <i>4, 504</i>.<p><b>Étym</b>. ὄ. μέλαθρον.`

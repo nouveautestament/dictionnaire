@@ -1,0 +1,1 @@
+lar[5738]=`<b>Ἀμομφ·άρετος, ου (ὁ)</b> Amompharétos, <i>h</i>. HDT. <i>9, 53, etc.</i> ; PLUT. <i>Arist. 17, etc</i>.<p><b>Étym</b>. ἄμομφος, ἀρετή.`

@@ -1,0 +1,1 @@
+lar[86975]=`<b>προ·φράζω</b>, annoncer <i>ou</i> proclamer d’avance, HÉS. <i>O. 653</i> ; HDT. <i>1, 120</i> ; A.RH. <i>3, 1315</i>.<p>➳ <i>Part. pf. pass</i>. προπεφραδμένος, HÉS. <i>O. 653</i> ; A.RH. <i>3, 1315</i>.`

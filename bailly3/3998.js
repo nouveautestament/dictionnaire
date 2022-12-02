@@ -1,0 +1,1 @@
+lar[3998]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> pointe, IL. <i>10, 373, etc.</i> ; OD. <i>19, 453</i> ; THCR. <i>Idyl. 22, 195 ; rare en prose,</i> LUC. <i>D. mort. 27, 4</i>.<p><b>Étym</b>. ἀκή <i>avec redoubl</i>.`

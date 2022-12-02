@@ -1,0 +1,1 @@
+lar[92143]=`<b>ου (τὸ)</b> <font color="purple">[νᾰ]</font> <i>dim. de</i> στάμνος, EUP. <i>et</i> EPHIPP. (<i>Com. fr. 2, 505 ; 3, 340</i>).`

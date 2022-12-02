@@ -1,0 +1,1 @@
+lar[96274]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> trouble profond, bouleversement, HPC. <i>V. med. 17</i> ; ARSTT. <i>Probl. 1, 4</i> ; PLUT. <i>M. 728b</i>.<p><b>Étym</b>. συνταράσσω.`

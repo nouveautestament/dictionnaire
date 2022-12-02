@@ -1,0 +1,1 @@
+lar[75564]=`<b>παρα·ζάω-ῶ</b> (<i>seul. prés. et impf</i>. παρέζαον-ῶν) :<br><b>   I</b> vivre à côté de, partager la vie de, <i>dat</i>. PLUT. <i>M. 672d.</i><br><b>   II</b> vivre à côté de la véritable vie, <i>càd.</i> :<br><b>      1</b> vivre sans vivre, végéter, ANAXANDR. (ATH. <i>642b</i>).<br><b>      2</b> gaspiller <i>ou</i> perdre sa vie, PLUT. <i>M. 13b</i>.`

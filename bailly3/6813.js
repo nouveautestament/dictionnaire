@@ -1,0 +1,1 @@
+lar[6813]=`<b>ἀνα·θυάω-ῶ</b>, être de nouveau en rut, <i>en parl. des truies,</i> ARSTT. <i>H.A. 5, 14, 23, etc</i>.`

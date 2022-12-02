@@ -1,0 +1,1 @@
+lar[37350]=`<b>εως (ἡ) :<br>      1</b> action de jeter les yeux sur, PLUT. <i>Phil. 11, Nic. 25, etc.</i><br><b>      2</b> <i>fig</i>. examen, recherche, EPIC. (DL. <i>10, 35</i>) ; ARSTT. <i>An. pr. 1, 29, 1</i>.<p><b>Étym</b>. ἐπιβλέπω.`

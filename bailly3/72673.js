@@ -1,0 +1,1 @@
+lar[72673]=`<b>ου (ὁ)</b> Orthanès, <i>sorte de Priape,</i> PLAT. COM. (ATH. <i>441f</i>) ; STR. <i>587</i>.<p><b>Étym</b>. ὀρθός.`

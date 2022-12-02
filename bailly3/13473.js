@@ -1,0 +1,1 @@
+lar[13473]=`<b>ος, ον :<br>      1</b> qui se détourne, SOPH. <i>Aj. 69</i>.<br><b>      2</b> dont on se détourne, redoutable, odieux, ORPH. <i>H. 70, 8</i>.<br><b>      3</b> ἡ ἀπ. <i>t. de gr</i>. apostrophe, <i>signe d’élision,</i> EM. <i>638, 19</i> ; DRAC. <i>157, 23</i> ; ARC. <i>189, 4</i> ; PORPH. <i>Pros. 107, 115, etc</i>.<p><b>Étym</b>. ἀποστρέφω.`

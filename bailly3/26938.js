@@ -1,0 +1,1 @@
+lar[26938]=`<b>διπλασι·επι·δίτριτος, ος, ον</b>, plus grand de 2 ⅔, BRYENN. <i>p. 395 Wallis</i>.`

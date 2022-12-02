@@ -1,0 +1,1 @@
+lar[59830]=`<b>λαο·τύπος, ος, ον</b> <font color="purple">[ᾱῠ]</font> qui taille <i>ou</i> sculpte la pierre, ANTH. <i>7, 429</i> ; ὁ λ. A. PL. <i>59,</i> tailleur de pierres.<p><b>Étym</b>. λᾶας, τύπτω.`

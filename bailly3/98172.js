@@ -1,0 +1,1 @@
+lar[98172]=`<b>ατος (τὸ) :<br>      1</b> imposition, impôt, contribution, LUC. <i>J. tr. 11 ; Ep. sat. 35</i> ; DS. <i>Exc. 576, 66</i>.<br><b>      2</b> rite religieux, CLÉM. <i>18</i>.<p><b>Étym</b>. τελέω.`

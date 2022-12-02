@@ -1,0 +1,1 @@
+lar[42159]=`<b>εὐθάνατος θάνατος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> mort qui est une belle mort, MÉN. <i>22 Kock</i>.<p><b>Étym</b>. εὖ, θάνατος.`

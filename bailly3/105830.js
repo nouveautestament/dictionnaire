@@ -1,0 +1,1 @@
+lar[105830]=`<b>φιλοκερδέω-ῶ</b> <font color="purple">[ῐ]</font> aimer le gain, être cupide, XÉN. <i>An. 1, 9, 16 ; Cyr. 1, 6, 32</i> ; PLAT. <i>Hipparch. 225b, 226e</i>.<p><b>Étym</b>. φιλοκερδής.`

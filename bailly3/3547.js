@@ -1,0 +1,1 @@
+lar[3547]=`<b>εως (ἡ)</b> <font color="purple">[ᾰτῐ]</font> action de lancer un trait, XÉN. <i>An. 1, 9, 5</i> ; DC. <i>38, 49</i>.<p><b>Étym</b>. ἀκοντίζω.`

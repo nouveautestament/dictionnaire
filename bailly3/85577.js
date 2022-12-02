@@ -1,0 +1,1 @@
+lar[85577]=`<b>προσ·εμφερής, ής, ές</b>, qui a quelque rapport avec, <i>dat</i>. EUR. <i>fr. 385, 13</i> ; XÉN. <i>Conv. 4, 19</i> ; ARSTT. <i>H.A. 9, 43, etc</i>.<p>•<i> Sup</i>. -έστατος, HDT. <i>4, 2</i>.<p><b>Étym</b>. π. ἐμφέρω.`

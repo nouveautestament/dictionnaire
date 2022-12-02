@@ -1,0 +1,1 @@
+lar[4675]=`<b>ή, όν</b> <font color="purple">[μᾱῐ]</font> à la façon d’Alcman, Ps.-PLUT. <i>Mus. 12, etc</i>.<p><b>Étym</b>. Ἀλκμάν.`

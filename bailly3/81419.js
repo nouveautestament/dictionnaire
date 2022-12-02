@@ -1,0 +1,1 @@
+lar[81419]=`<b>ποικιλό·φωνος, ος, ον</b> <font color="purple">[ῐ]</font> à la parole changeante <i>ou</i> perfide, ATH. <i>258a</i>.<p><b>Étym</b>. π. φωνή.`

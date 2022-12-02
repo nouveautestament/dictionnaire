@@ -1,0 +1,1 @@
+lar[21327]=`<b>γαμο·κλόπος, ος, ον</b> <font color="purple">[ᾰ]</font> adultère, ANTH. <i>9, 475</i> ; TRIPHIOD. <i>45</i> ; NONN. <i>D. 3, 377, etc</i>.<p><b>Étym</b>. γάμος, κλέπτω.`

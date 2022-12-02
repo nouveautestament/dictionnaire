@@ -1,0 +1,1 @@
+lar[97700]=`<b>ης (ἡ)</b> grande corbeille, panier, manne, POLL. <i>10, 158</i>.`

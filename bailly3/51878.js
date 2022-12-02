@@ -1,0 +1,1 @@
+lar[51878]=`<b>καρπο·γένεθλος, ος, ον</b>, qui fait naître les fruits, <i>ép. d’Apollon,</i> ANTH. <i>9, 525</i>.<p><b>Étym</b>. κ. γενέθλη.`

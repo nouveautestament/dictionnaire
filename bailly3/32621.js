@@ -1,0 +1,1 @@
+lar[32621]=`<b>α, ον</b>, <i>vb. de</i> ἐλέγχω, STR. <i>88</i> ; SEXT. <i>503, 11 ; au neutre,</i> PLAT. <i>Leg. 905d</i>.`

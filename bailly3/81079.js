@@ -1,0 +1,1 @@
+lar[81079]=`<font color="darkgreen">(<i>3 pl. impf. épq</i>. πλίσσοντο)</font> écarter les jambes pour marcher, <i>d’où</i> avoir une bonne allure, <i>en parl. de mules,</i> OD. <i>6, 318</i>.<p><b>Étym</b>. <i>incert</i>.`

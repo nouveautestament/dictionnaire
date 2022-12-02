@@ -1,0 +1,1 @@
+lar[38822]=`<b>ἐπι·πρόσω</b>, <i>adv</i>., loin en avant, ARÉT. <i>Caus. m. diut. 2, 12</i>.`

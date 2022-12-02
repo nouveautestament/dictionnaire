@@ -1,0 +1,1 @@
+lar[10238]=`<i>adv</i>., en retour, inversement <i>ou</i> réciproquement, ARCHIM. <i>Plan. æq. 1, 7</i> ; NICOM. <i>Theol. 52</i> ; THEOL. <i>25</i>.<p><b>Étym</b>. <i>v</i>. ἀντιπεπονθός.`

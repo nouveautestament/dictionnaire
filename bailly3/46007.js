@@ -1,0 +1,1 @@
+lar[46007]=`<b>ἤ·τε</b>, <i>conj.</i> :<br><b>      1</b> ou bien, ou encore, IL. <i>19, 148</i>.<br><b>      2</b> que, OD. <i>16, 216</i>.<p><b>Étym</b>. ἤ, τε.`

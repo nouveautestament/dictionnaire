@@ -1,0 +1,1 @@
+lar[71385]=`<b>ὁμηρέω-ῶ</b>, <i>c</i>. ὁμηρεύω³, se rencontrer avec, <i>dat</i>. OD. <i>16, 468</i>.`

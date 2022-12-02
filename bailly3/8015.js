@@ -1,0 +1,1 @@
+lar[8015]=`<i>adv</i>., virilement, THC. <i>2, 64, etc.</i> ; XÉN. <i>Cyr. 1, 3, 1, etc.</i> ; AR. <i>Pax 498, etc. ; joint à</i> εὖ : εὖ κἀνδρείως, AR. <i>Th. 656</i> ; εὖ τε καὶ ἀνδρείως, PLAT. <i>Leg. 855a ;</i> ἀνδρείως τε καὶ εὖ, PLAT. <i>Crat. 440d</i>, avec résolution et courage.<p>•<i> Sup</i>. ἀνδρειότατα, PLAT. <i>Pol. 262a, etc.</i> ; EL. <i>N.A. 1, 60, etc</i>.`

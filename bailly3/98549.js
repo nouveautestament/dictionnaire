@@ -1,0 +1,1 @@
+lar[98549]=`<b>τετρα·δάκτυλος, ος, ον</b> <font color="purple">[τρᾰῠ]</font><br><b>      1</b> qui a quatre doigts, ARSTT. <i>P.A. 4, 10, 30 ; en parl. d’oiseaux,</i> ARSTT. <i>H.A. 2, 12, 4</i>.<br><b>      2</b> long <i>ou</i> large de quatre doigts, HPC. <i>Art. 783</i> ; τὸ τ. ÆL. DION. (EUST. <i>1291, 43</i>) longueur <i>ou</i> largeur de quatre doigts.`

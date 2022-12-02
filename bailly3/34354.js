@@ -1,0 +1,1 @@
+lar[34354]=`<b>ἐν·επιορκέω-ῶ</b>, faire un faux serment, se parjurer, ESCHN. <i>75, 1 ; au pass</i>. THÉMISTOCLE <i>Ep. 8</i>.`

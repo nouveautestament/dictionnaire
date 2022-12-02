@@ -1,0 +1,1 @@
+lar[27638]=`<b>δορυ·δρέπανον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> faux emmanchée dans un bois de lance, <i>arme employée par les défenseurs des villes assiégées,</i> POL. <i>22, 10, 4, ou dans les batailles navales,</i> PLAT. <i>Lach. 183d ;</i> STR. <i>195</i>.<p><b>Étym</b>. δόρυ, δρέπανον.`

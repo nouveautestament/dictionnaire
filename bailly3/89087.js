@@ -1,0 +1,1 @@
+lar[89087]=`<b>σαγηνό·δετος, ος, ον</b> <font color="purple">[ᾰ]</font> lié <i>ou</i> noué au filet, ANTH. <i>9, 299</i>.<p><b>Étym</b>. σαγήνη, δέω.`

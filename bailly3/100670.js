@@ -1,0 +1,1 @@
+lar[100670]=`<b>τρι·ώροφος, ος, ον</b>, à trois étages, HDT. <i>1, 180</i> ; SPT. <i>Gen. 6, 16 ; en parl. d’un navire,</i> ARSTD. <i>t. 1, 240</i> ; τὸ τριώροφον, SPT. <i>3Reg. 6, 8,</i> le troisième étage.<p><b>Étym</b>. τρεῖς, ὄροφος.`

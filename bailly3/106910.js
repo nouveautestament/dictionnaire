@@ -1,0 +1,1 @@
+lar[106910]=`<b>φρονηματιάω-ῶ</b> <font color="purple">[μᾰ]</font> être présomptueux, CHRYS. <i>in Ep. ad Hebr. serm. 28, t. 4, p. 576, 28</i>.`

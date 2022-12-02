@@ -1,0 +1,1 @@
+lar[66763]=`<b>οῦ (ὁ)</b> danse où l’on imite l’allure <i>ou</i> les mouvements de divers animaux, ATH. <i>626f</i>.<p><b>Étym</b>. μορφάζω.`

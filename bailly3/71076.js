@@ -1,0 +1,1 @@
+lar[71076]=`<b>ὀλιγό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> peu intelligent, PLUT. <i>M. 504a</i>.<p><b>Étym</b>. ὀλ. φρήν.`

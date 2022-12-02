@@ -1,0 +1,1 @@
+lar[11273]=`<i>adv</i>., partout, de tous côtés, IL. <i>7, 183</i> ; OD. <i>8, 278</i> ; HÉS. <i>Th. 524</i> ; PLAT. <i>Leg. 752a, etc</i>.<p><b>Étym</b>. ἅπας.`

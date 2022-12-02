@@ -1,0 +1,1 @@
+lar[88433]=`<b>ου (ὁ)</b> = <i>lat</i>. Rēgŭlus, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 23, etc</i>.`

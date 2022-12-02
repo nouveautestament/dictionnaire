@@ -1,0 +1,1 @@
+lar[27297]=`<b>ας (ἡ)</b> <font color="purple">[δῐῠ]</font> double nom, MAN. <i>4, 376</i> ; HDN RH. <i>Schem. 608, 9</i>.<p><b>Étym</b>. διώνυμος.`

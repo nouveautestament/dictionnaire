@@ -1,0 +1,1 @@
+lar[58041]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Krokylos, <i>n. de berger,</i> THCR. <i>Idyl. 5, 11</i>.`

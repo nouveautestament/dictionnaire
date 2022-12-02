@@ -1,0 +1,1 @@
+lar[19622]=`<b>ιδος (ὁ)</b> Bèlouris, <i>Perse,</i> PLUT.`

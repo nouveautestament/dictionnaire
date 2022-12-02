@@ -1,0 +1,1 @@
+lar[55333]=`<b>κητο·θηρεῖον, ου (τὸ)</b> magasin d’appareils pour la pêche de la baleine, EL. <i>N.A. 13, 16 conj. (vulg</i>. κητοθηρία).<p><b>Étym</b>. κῆτος, θήρα.`

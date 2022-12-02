@@ -1,0 +1,1 @@
+lar[46939]=`<b>θερμ·ηγορέω-ῶ</b>, parler avec chaleur <i>ou</i> colère, ORACL. (LUC. <i>Per. 30).</i><p><b>Étym</b>. θερμός, ἀγορεύω.`

@@ -1,0 +1,1 @@
+lar[106026]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour du travail, habitudes laborieuses, PLAT. <i>Rsp. 535c et d</i> ; ISOCR. <i>12a ; joint à</i> καρτερία, PLAT. <i>1 Alc. 122c ;</i> φ. τινός, DÉM. <i>1408, 21,</i> pratique de qqe ch. ; <i>au plur</i>. ISOCR. <i>Antid. § 310</i>.<p><b>Étym</b>. φιλόπονος.`

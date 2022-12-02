@@ -1,0 +1,1 @@
+lar[29746]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> marque d’empire sur soi-même, JAMBL. <i>V. Pyth. 17</i>.<p><b>Étym</b>. ἐγκρατεύομαι.`

@@ -1,0 +1,1 @@
+lar[102037]=`<b>ου (ὁ)</b> Hypatès, <i>Thébain,</i> XÉN. <i>Hell. 4, 3, 7</i> ; PLUT. <i>Pel. 11, etc</i>.`

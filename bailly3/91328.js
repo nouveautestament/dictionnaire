@@ -1,0 +1,1 @@
+lar[91328]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> peau de bête, THCR. <i>Idyl. 25, 142</i> ; ANTH. <i>6, 35, 165, etc.</i><br><b>      2</b> enveloppe, écorce (de noix) NIC. <i>Al. 270</i>.`

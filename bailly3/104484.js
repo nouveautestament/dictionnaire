@@ -1,0 +1,1 @@
+lar[104484]=`<b>ὑψί·δειρος, ος, ον</b> <font color="purple">[ῐ]</font> à crêtes élevées, BACCHYL. <i>4, 4</i>.<p><b>Étym</b>. ὕ. δειράς.`

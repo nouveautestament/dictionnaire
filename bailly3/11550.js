@@ -1,0 +1,1 @@
+lar[11550]=`<b>ἀπ·ειλίσσω</b>, <i>ion. c</i>. ἀφελίσσω, dérouler, HÉRON <i>Aut. 245</i> ; EN. TACT. <i>Pol. 18, 9</i>.<br><b><i>Moy.</i></b> se dérouler, HÉRON <i>Aut. 270</i>.`

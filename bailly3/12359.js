@@ -1,0 +1,1 @@
+lar[12359]=`<b>ἀπο·είκω</b> <font color="darkgreen">(<i>impér. 2 sg</i>. ἀπόεικε)</font> se retirer de, <i>gén</i>. IL. <i>3, 406</i>.`

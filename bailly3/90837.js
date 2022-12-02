@@ -1,0 +1,1 @@
+lar[90837]=`<b>σκηνο·πηγία, ας (ἡ) :<br>      1</b> action de dresser une tente, <i>d’où</i> construction d’un nid, ARSTT. <i>H.A. 9, 7, 1</i>.<br><b>      2</b> fête des Tabernacles, <i>chez les Juifs,</i> SPT. <i>Deut. 16, 16 ; 31, 10 ; 2 Macc. 1, 9</i> ; NT. <i>Joh. 7, 2, etc</i>.<p><b>Étym</b>. <i>cf</i>. σκηνοπηγέω.`

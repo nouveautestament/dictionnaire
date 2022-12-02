@@ -1,0 +1,1 @@
+lar[2602]=`<b>αἱμορροϊδο·καύστης, ου (ὁ)</b> appareil pour brûler les hémorrhoïdes, P. ÉG. <i>6, 79</i>.<p><b>Étym</b>. αἱμορροΐς, καίω.`

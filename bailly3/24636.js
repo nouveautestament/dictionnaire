@@ -1,0 +1,1 @@
+lar[24636]=`<b>ατος (τὸ)</b> manière dont les astres sont disposés (à la naissance de qqn) SEXT. <i>737, 10 Bkk</i>.`

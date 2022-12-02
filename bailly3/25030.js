@@ -1,0 +1,1 @@
+lar[25030]=`<b>δια·μέλλω</b>, tarder sans cesse à, différer sans cesse de, <i>avec un inf. ou un part</i>. THC. <i>1, 142</i> ; LUC. <i>Nigr. 10 ; abs</i>. temporiser, THC. <i>1, 71</i>.`

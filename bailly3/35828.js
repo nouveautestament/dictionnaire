@@ -1,0 +1,1 @@
+lar[35828]=`<b>ἐξ·ερεύγω</b> <font color="darkgreen">(<i>ao.2</i> ἐξήρυγον)</font> vomir, DH. <i>2, 69</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> vomir, HPC. <i>82e ; 278, 30</i>.<br><b>      2</b> avoir un flux de ventre, ARSTT. <i>H.A. 10, 1, 15</i>.<br><b>      3</b> se décharger (dans la mer) <i>en parl. de fleuves,</i> HDT. <i>1, 202</i> ; ARSTT. <i>H.A. 8, 20, 6</i>.`

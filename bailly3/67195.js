@@ -1,0 +1,1 @@
+lar[67195]=`<b>μυό·χοδος γέρων (ὁ)</b> vieille crotte de rat <i>ou</i> de souris, <i>sobriquet,</i> MÉN. (<i>Com. fr. 4, 199).</i><p><b>Étym</b>. <i>v</i>. μυόχοδα.`

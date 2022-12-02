@@ -1,0 +1,1 @@
+lar[56290]=`<b>ου</b> <font color="purple">[ῐδ]</font> <i>adj. m</i>. κν. κόκκος, EUB. (ATH. <i>66d</i>) baie du daphné-cnidium <i>ou</i> poivre de montagne.`

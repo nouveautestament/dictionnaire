@@ -1,0 +1,1 @@
+lar[66248]=`<i>ou</i> <b>μνῖον, ου (τὸ)</b> mousse, algue marine, LYC. <i>398</i>.<p>➳ <font color="purple">[ῐ]</font> NUMÉN. (ATH. <i>295c</i>) ; <font color="purple">[ῑ]</font> NIC. <i>Th. 787, Al. 396</i>.`

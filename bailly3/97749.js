@@ -1,0 +1,1 @@
+lar[97749]=`<font color="purple">[ᾰᾱ]</font> <i>c</i>. τέττα, ANTH. <i>11, 67</i>.`

@@ -1,0 +1,1 @@
+lar[66030]=`<b>μισό·θεος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait les dieux, ESCHL. <i>Ag. 1090</i> ; LUC. <i>Tim. 35</i>.<p><b>Étym</b>. μ. θεός.`

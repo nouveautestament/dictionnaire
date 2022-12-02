@@ -1,0 +1,1 @@
+lar[23936]=`<b>δεραιο·πέδη, ης (ἡ)</b> <i>litt</i>. entrave du cou, collet pour les oiseaux, ANTH. <i>6, 14 ; 9, 76</i>.<p><b>Étym</b>. δέραιον, πέδη.`

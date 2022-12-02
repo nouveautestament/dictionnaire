@@ -1,0 +1,1 @@
+lar[13068]=`<b>ἀπο·πίνω</b> <font color="purple">[ῑ]</font> boire de, <i>gén</i>. HDT. <i>4, 70</i>.`

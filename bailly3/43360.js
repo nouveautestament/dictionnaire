@@ -1,0 +1,1 @@
+lar[43360]=`<b>εὐρυχωρέω-ῶ</b> <font color="purple">[ῠ]</font> rendre spacieux, élargir, SYMM. <i>Ps. 17, 37</i>.<p><b>Étym</b>. εὐρύχωρος.`

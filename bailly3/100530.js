@@ -1,0 +1,1 @@
+lar[100530]=`<font color="purple">[ῐτ]</font> avoir la fièvre tierce, DIOSC. <i>4, 61</i>.<p><b>Étym</b>. τριταῖος.`

@@ -1,0 +1,1 @@
+lar[20119]=`<b>ης (ἡ)</b> Bolbitinè (<i>auj</i>. Rosette <i>ou</i> Rachid), <i>v. d’Égypte,</i> HÉCAT.`

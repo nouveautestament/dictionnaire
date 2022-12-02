@@ -1,0 +1,1 @@
+lar[52293]=`<b>κατα·δειμαίνω</b>, craindre tout à fait, EUN. <i>p. 138</i>.`

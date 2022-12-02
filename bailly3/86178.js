@@ -1,0 +1,1 @@
+lar[86178]=`<b>ος, ον</b>, qui concerne une procession : προσόδιον μέλος, PLUT. <i>Æmil. 33, ou</i> ᾆσμα, PAUS. <i>4, 4, 1,</i> chant de procession, <i>particul. en l’honneur d’Apollon et d’Artémis</i> ; τὸ προσόδιον, <i>m. sign</i>. DÉMOCH. (ATH. <i>253b</i>) ; actions de grâces, AR. <i>Av. 853</i>.<p><b>Étym</b>. πρόσοδος.`

@@ -1,0 +1,1 @@
+lar[58836]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font><br><b>      1</b> chienne de chasse, <i>à Sparte,</i> CALL. <i>Dian. 94</i>.<br><b>      2</b> Petite-Ourse, <i>constellation,</i> NONN. <i>D. 1, 166</i> ; MAN. <i>2, 24</i>.<p><b>Étym</b>. <i>cf</i>. κυνόσουρα.`

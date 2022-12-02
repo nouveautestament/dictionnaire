@@ -1,0 +1,1 @@
+lar[27931]=`<i>adv</i>., d’une course rapide, PLAT. <i>Leg. 706c</i>.`

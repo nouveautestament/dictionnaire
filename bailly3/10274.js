@@ -1,0 +1,1 @@
+lar[10274]=`<b>ἀντι·πηρόω-ῶ</b>, mutiler par vengeance, PHIL. <i>2, 332</i>.`

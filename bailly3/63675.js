@@ -1,0 +1,1 @@
+lar[63675]=`<b>ου (ὁ)</b> Meidios, <i>fl. d’Asie Mineure,</i> THC. <i>8, 106</i>.`

@@ -1,0 +1,1 @@
+lar[9046]=`<b>ἀν·ιάχω</b> <font color="purple">[ῐ]</font> <font color="darkgreen">(<i>impf</i>. ἀνίαχον)</font> <font color="purple">[ῑᾰ]</font><br><b>      1</b> s’écrier, A.RH. <i>2, 270</i>.<br><b>      2</b> acclamer, vanter, A. PL. <i>296</i>.<p><b>Étym</b>. ἀνά, ἰ.`

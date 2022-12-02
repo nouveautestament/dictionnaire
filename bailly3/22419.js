@@ -1,0 +1,1 @@
+lar[22419]=`<b>ατος (τὸ) :<br>   I</b> <i>pass</i>. ce qui est assujetti au moyen de chevilles :<br><b>      1</b> pont d’un navire, PLUT. <i>Marc. 15</i>.<br><b>      2</b> paroi d’un navire, LGS <i>2, 26</i>.<br><b>   II</b> <i>act</i>. ce qui sert à assujettir, cheville, clou, PLUT. <i>M. 321d</i>.<p><b>Étym</b>. γομφόω.`

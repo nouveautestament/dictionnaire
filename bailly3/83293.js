@@ -1,0 +1,1 @@
+lar[83293]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> vendu, SOPH. <i>Tr. 276</i>.<br><b>      2</b> vénal, SPT. <i>2Macc. 11, 3</i>.<p><b>Étym</b>. <i>vb. de</i> πιπράσκω.`

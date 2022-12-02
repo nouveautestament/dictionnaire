@@ -1,0 +1,1 @@
+lar[44101]=`<b>ας (ἡ) :<br>      1</b> visite des postes, POL. <i>6, 35, 8</i>.<br><b>      2</b> <i>p. ext</i>. les hommes chargés de la visite, patrouille, DS. <i>20, 16</i> ; POLYEN <i>7, 5, 4 ; 7, 14, 2</i>.<p><b>Étym</b>. ἐφοδεύω.`

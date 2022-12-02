@@ -1,0 +1,1 @@
+lar[75110]=`<b>παν·ομιλεί</b> <font color="purple">[ᾰῑλ]</font> <i>adv</i>., en troupe compacte, en masse, ESCHL. <i>Sept. 296</i>.<p><b>Étym</b>. π. ὅμιλος.`

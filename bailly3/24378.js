@@ -1,0 +1,1 @@
+lar[24378]=`<b>δηρί·φατος, ος, ον</b> <font color="purple">[ῐᾰ]</font> tué dans un combat, ANTH. <i>7, 722</i>.<p><b>Étym</b>. δῆρις, φάω.`

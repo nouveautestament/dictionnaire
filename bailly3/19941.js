@@ -1,0 +1,1 @@
+lar[19941]=`jeter de côté et d’autre, <i>acc</i>. HPC. <i>489, 40 ; au pass</i>. ARÉT. <i>Cur. m. acut. 1, 1 ; fig</i>. βλ. φροντίδ' ἀνά τι, XÉNOPHAN. <i>8, 9 Bgk,</i> promener sa pensée à travers qqe ch.<p><b>Étym</b>. βλητός.`

@@ -1,0 +1,1 @@
+lar[45357]=`<b>ἡμερο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui paraît <i>ou</i> se montre le jour, PLAT. <i>Def. 411a ;</i> ARSTT. <i>Top. 6, 4, 14</i>.<p><b>Étym</b>. ἡμέρα, φαίνω.`

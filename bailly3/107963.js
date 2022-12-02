@@ -1,0 +1,1 @@
+lar[107963]=`<b>ου (ὁ)</b> Kharmantidès, <i>h</i>. PLAT. <i>Rsp. 328b, etc</i>.`

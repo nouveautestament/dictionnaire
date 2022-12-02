@@ -1,0 +1,1 @@
+lar[52523]=`<b>κατα·κερματίζω</b> <font color="purple">[μᾰ]</font><br><b>      1</b> réduire en petites parts, en menus morceaux : κατὰ μόρια, PLAT. <i>Men. 79c ;</i> εἰς σμικρά, PLAT. <i>Rsp. 395b ;</i> εἰς μικρά, D. PHAL. <i>76, m. sign.</i><br><b>      2</b> changer en petite monnaie, AR. <i>fr. 24</i>.`

@@ -1,0 +1,1 @@
+lar[41191]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui concerne le foyer, l’âtre, ANTH. <i>7, 210</i>.<p><b>Étym</b>. ἐσχάρα.`

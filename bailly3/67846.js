@@ -1,0 +1,1 @@
+lar[67846]=`<b>ναύ·φρακτος, ος, ον</b>, défendu par des vaisseaux, muni de vaisseaux, ESCHL. <i>Pers. 950, 1027</i> ; EUR. <i>I.A. 1259</i> ; AR. <i>Eq. 567</i> ; ναύφρακτον βλέπειν, AR. <i>Ach. 95,</i> avoir un œil (énorme) comme le trou par où passe la rame d’un navire de guerre.<p><b>Étym</b>. ναῦς, φράσσω.`

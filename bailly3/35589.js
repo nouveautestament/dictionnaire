@@ -1,0 +1,1 @@
+lar[35589]=`<font color="purple">[ᾰ]</font> chercher à plaire à, <i>dat</i>. XÉN. <i>Œc. 5, 19 (var</i>. -εσκομένους) ; CLÉM. <i>1, 556 Migne</i>.`

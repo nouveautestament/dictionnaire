@@ -1,0 +1,1 @@
+lar[88472]=`<b>ῥηξί·χθων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui fait éclater <i>ou</i> trembler le sol sous ses pas, ORPH. <i>H. 51, 9</i>.<p><b>Étym</b>. ῥήγνυμι, χθών.`

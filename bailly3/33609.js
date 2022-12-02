@@ -1,0 +1,1 @@
+lar[33609]=`<b>ἐμπροσθο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se montre par devant, GAL. <i>de Fasc. 18-1, 820</i>.<p><b>Étym</b>. ἔ. φαίνω.`

@@ -1,0 +1,1 @@
+lar[85596]=`<b>προσ·ένταξις, εως (ἡ)</b> introduction dans les rangs de soldats de renfort, ASCLÉPIOD. <i>6, 1</i>.<p><b>Étym</b>. π. ἐντάσσω.`

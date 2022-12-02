@@ -1,0 +1,1 @@
+lar[71193]=`<b>ὁλομελέω-ῶ</b>, avoir ses membres entiers, intacts, GAL. <i>5, 340</i>.<p><b>Étym</b>. ὁλομελής.`

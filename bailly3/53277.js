@@ -1,0 +1,1 @@
+lar[53277]=`<b>εως (ἡ)</b> action d’avaler, DIOSC. <i>Eup. 2, 4</i>.<p><b>Étym</b>. καταρροφέω.`

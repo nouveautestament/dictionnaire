@@ -1,0 +1,1 @@
+lar[57235]=`<font color="purple">[ῐ]</font> passer au crible, tamiser, DÉMOCR. (SEXT. <i>p. 395, 26</i>) ; PLUT. <i>M. 902d ;</i> GEOP. <i>3, 7, 1</i>.<p><b>Étym</b>. κόσκινον.`

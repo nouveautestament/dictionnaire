@@ -1,0 +1,1 @@
+lar[48442]=`<b>ἰδιο·τρόφος, ος, ον</b> <font color="purple">[ῐδ]</font> qui nourrit, qui élève à part, PLAT. <i>Pol. 261d</i>.<p><b>Étym</b>. ἴδ. τρέφω.`

@@ -1,0 +1,1 @@
+lar[14303]=`<b>ου (ὁ)</b> Argynnos, <i>h</i>. PLUT. <i>Gryll. 7</i>.`

@@ -1,0 +1,1 @@
+lar[9158]=`<i>adv</i>., OPP. <i>H</i>. 2.315, <i>ou</i> ἐν ἀγκάσιν, <i>ANTH</i>. 12.200, dans les bras.<p><b>Étym</b>. <i>cf</i>. ἀγκάς.`

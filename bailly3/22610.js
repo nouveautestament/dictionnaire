@@ -1,0 +1,1 @@
+lar[22610]=`<b>α, ον :<br>      1</b> qu’il faut dessiner <i>ou</i> peindre, LUC. <i>Im. 17</i>.<br><b>      2</b> <i>neutre</i> γραπτέον, il faut écrire, STR. <i>9, 4, 5</i> ; γρ. ὅπως, XÉN. <i>Eq. 2, 11,</i> il faut écrire que.<p><b>Étym</b>. <i>vb. de</i> γράφω.`

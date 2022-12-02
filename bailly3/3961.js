@@ -1,0 +1,1 @@
+lar[3961]=`<b>ἀ·κτυπί</b> <font color="purple">[ῠ]</font> <i>adv</i>., sans bruit, POLÉM. <i>Physiogn. 1, 7</i>.<p><b>Étym</b>. ἀ, κτυπέω.`

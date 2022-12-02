@@ -1,0 +1,1 @@
+lar[56731]=`<b>ατος (τὸ)</b> vêtement ample et qui fait des plis, PLUT. <i>Mar. 25</i>.<p><b>Étym</b>. κολπόω.`

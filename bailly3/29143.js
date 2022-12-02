@@ -1,0 +1,1 @@
+lar[29143]=`<b>ου (τὸ)</b> (<i>s.-e</i>. μῆλον) sorte de pêche <i>ou p.-ê</i>. d’abricot (<i>lat</i>. duracinum) GEOP. <i>3, 1, 4 ; 10, 13, 1</i> ; NYSS. <i>3, 1084a Migne</i>.`

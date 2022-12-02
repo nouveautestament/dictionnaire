@@ -1,0 +1,1 @@
+lar[57849]=`<b>α, ον</b>, de Krèstôn ; ἡ Κρηστωναίη, HDT. <i>7, 127,</i> la Krèstônie, <i>contrée entre le Strymon et l’Axios</i> ; οἱ Κρηστωναῖοι, PD. <i>fr. 212,</i> HDT. <i>5, 3, etc</i>. habitants de la Krèstônie.<p><b>Étym</b>. Κρηστών.`

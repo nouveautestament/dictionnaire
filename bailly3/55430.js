@@ -1,0 +1,1 @@
+lar[55430]=`<b>κίκεως (τὸ)</b> ricin, <i>arbrisseau,</i> HDT. <i>2, 94</i> ; PLAT. <i>Tim. 60a</i>.<p>➳ ἡ κίκι, <i>gén</i>. τῆς κίκεως, P. ÉG. <i>7, p. 297</i> ; τῆς κίκι, GAL. <i>Lex. Hipp. p. 414</i>.`

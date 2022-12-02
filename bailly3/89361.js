@@ -1,0 +1,1 @@
+lar[89361]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de lapis-lazuli, ARSTT. <i>Plant. 2, 9, 8</i> ; PHILSTR. <i>V. Ap. 1, 25</i>.<p>➳ <i>Fém</i>. -ος, Ps.-CALLIST. <i>1, 4</i>.<p><b>Étym</b>. σάπφειρος.`

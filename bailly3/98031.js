@@ -1,0 +1,1 @@
+lar[98031]=`<b>τειχο·μελής, ής, ές</b>, dont les accords élèvent des murailles, <i>en parl. de la lyre d’Amphion,</i> ANTH. <i>9, 216</i>.<p><b>Étym</b>. τ. μέλος.`

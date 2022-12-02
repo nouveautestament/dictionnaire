@@ -1,0 +1,1 @@
+lar[55242]=`<b>κηπο·τύραννος, ου (ὁ)</b> <font color="purple">[ῠ]</font> roi des Jardins (d’Épicure) <i>surn. du philosophe Apollodôros,</i> DL. <i>10, 25</i>.<p><b>Étym</b>. κῆπος, τύραννος.`

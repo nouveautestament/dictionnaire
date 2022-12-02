@@ -1,0 +1,1 @@
+lar[80346]=`<b>Πινακό·σπογγος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Éponge-de-table, <i>n. de parasite,</i> ALCIPHR. <i>3, 63</i>.<p><b>Étym</b>. π. σπόγγος.`

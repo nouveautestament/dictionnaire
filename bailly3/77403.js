@@ -1,0 +1,1 @@
+lar[77403]=`<b>πατρο·φόνος, ος, ον</b>, meurtrier de son père, ESCHL. <i>Sept. 783 ; ou</i> du père de qqn, EUR. <i>Or. 193 ; subst</i>. PLAT. <i>Leg. 869b</i>, parricide.<p><b>Étym</b>. π. πεφνεῖν.`

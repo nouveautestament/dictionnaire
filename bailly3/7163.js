@@ -1,0 +1,1 @@
+lar[7163]=`<b>ἀνα·μασάομαι-ῶμαι</b> <font color="purple">[μᾰ]</font> ruminer, <i>fig</i>. AR. <i>Vesp. 783</i>.`

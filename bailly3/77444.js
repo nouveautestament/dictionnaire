@@ -1,0 +1,1 @@
+lar[77444]=`<b>εως (ἡ)</b> cessation, fin, SPT. <i>Jer. 31, 2</i>.<p><b>Étym</b>. παύω.`

@@ -1,0 +1,1 @@
+lar[80106]=`<b>εως (ἡ)</b> action de se vautrer dans la boue, PLUT. <i>M. 166a</i>.<p><b>Étym</b>. πηλόω.`

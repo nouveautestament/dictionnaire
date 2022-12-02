@@ -1,0 +1,1 @@
+lar[23927]=`<i>adv</i>., comme il convient, PLAT. <i>Leg. 837c</i>.`

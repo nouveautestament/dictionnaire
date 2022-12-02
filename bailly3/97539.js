@@ -1,0 +1,1 @@
+lar[97539]=`<b>τανύ·γληνος, ος, ον</b> <font color="purple">[ᾰ]</font> aux grosses prunelles, aux gros yeux, NONN. <i>D. 43, 42</i>.<p><b>Étym</b>. τανυ-, γλήνη.`

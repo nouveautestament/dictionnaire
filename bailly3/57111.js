@@ -1,0 +1,1 @@
+lar[57111]=`<b>ου (ὁ)</b> Apollon de Koropè, <i>v. de Thessalie,</i> NIC. <i>Th. 614</i>.`

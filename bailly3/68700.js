@@ -1,0 +1,1 @@
+lar[68700]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> petite flûte <i>ou</i> fifre, AR. <i>Ach. 554</i>.`

@@ -1,0 +1,1 @@
+lar[67933]=`<b>νε·ήλατος, ος, ον</b> <font color="purple">[ᾰ]</font> nouvellement étiré, <i>d’où</i> nouvellement pétri, <i>càd</i>. frais, tendre, <i>en parl. du pain,</i> DÉM. <i>314, 1</i>.<p><b>Étym</b>. ν. ἐλαύνω.`

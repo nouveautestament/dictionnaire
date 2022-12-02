@@ -1,0 +1,1 @@
+lar[71909]=`<b>Ὀνησί·κριτος, ου. (ὁ)</b> <font color="purple">[ῐτ]</font> Onèsikritos, <i>amiral d’Alexandre le Grand,</i> PLUT. <i>Alex. 8, etc</i>.<p><b>Étym</b>. ὄνησις, κρίνω.`

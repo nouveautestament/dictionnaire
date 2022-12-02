@@ -1,0 +1,1 @@
+lar[84061]=`<b>προ·εκβάλλω</b>, rejeter <i>ou</i> faire sortir auparavant, ARSTT. <i>H.A. 8, 24, 10</i>.`

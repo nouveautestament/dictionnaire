@@ -1,0 +1,1 @@
+lar[17959]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἄφενος, HÉS. <i>O. 24</i> ; CALL. <i>Jov. 96</i> ; ANTH. <i>9, 234 (gén. épq</i>. ἀφένοιο).`

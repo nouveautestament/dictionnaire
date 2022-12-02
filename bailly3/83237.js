@@ -1,0 +1,1 @@
+lar[83237]=`<b>Πραξι·εργίδαι, ῶν (οἱ)</b> les Praxiergides, <i>famille sacerdotale d’Athènes,</i> PLUT. <i>Alc. 34</i> ; DS. <i>11, 54</i>.<p><b>Étym</b>. <i>patr. de</i> Πραξίεργος, <i>h</i>.`

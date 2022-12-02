@@ -1,0 +1,1 @@
+lar[66895]=`<b>ᾶ (ὁ)</b> Musa, <i>surn. d’un médecin inventeur d’une sorte de pastille,</i> P. ÉG. <i>7, 12</i>.<p><b>Étym</b>. μοῦσα.`

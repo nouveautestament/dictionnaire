@@ -1,0 +1,1 @@
+lar[5441]=`<i>adv.</i> :<br><b>      1</b> de manière à ne mériter aucun blâme, ESCHL. <i>Suppl. 269</i> ; SOPH. <i>Ph. 1465</i> ; XÉN. <i>Cyr. 7, 3, 10</i>.<br><b>      2</b> sans faire de reproche, <i>d’où</i> avec satisfaction, avec plaisir, XÉN. <i>Cyr. 4, 2, 37</i>.`

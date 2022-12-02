@@ -1,0 +1,1 @@
+lar[77237]=`<b>Πασι·κλῆς, έους (ὁ)</b> <font color="purple">[ᾱ]</font> Pasiklès, <i>h</i>. HDT. <i>9, 97</i> ; DÉM. <i>36, 10, etc. Baiter-Sauppe</i>.<p>➳ <i>Gén. ion</i>. -έος, HDT. <i>l. c</i>.<p><b>Étym</b>. π. κλέος.`

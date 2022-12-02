@@ -1,0 +1,1 @@
+lar[95324]=`<b>συν·εισρέω</b>, faire ensemble irruption, EL. <i>N.A. 1, 2</i> ; JOS. <i>B.J. 2, 17, 6</i>.`

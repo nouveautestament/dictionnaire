@@ -1,0 +1,1 @@
+lar[54443]=`<b>ων (τὰ)</b> <font color="purple">[ᾰᾰ]</font> petits trous à la circonférence du bouclier, <i>par où l’on observait l’ennemi,</i> EUR. <i>Ph. 1386</i>.<p><b>Étym</b>. *κεγχρόω <i>de</i> κέγχρος.`

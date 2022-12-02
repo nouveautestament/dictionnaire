@@ -1,0 +1,1 @@
+lar[61214]=`<b>ου</b>, <i>adj. m</i>. de Lindos, HDT. <i>7, 153, etc</i>.<p><b>Étym</b>. Λίνδος.`

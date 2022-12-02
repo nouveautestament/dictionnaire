@@ -1,0 +1,1 @@
+lar[75938]=`<i>adv</i>., pêle-mêle, NICOM. <i>Harm. 10</i>.<p><b>Étym</b>. παραμίγνυμι.`

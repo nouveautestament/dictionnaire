@@ -1,0 +1,1 @@
+lar[77165]=`<b>παρ·υπάτη, ης (ἡ)</b> <font color="purple">[ῠᾰ]</font> <i>s.-e</i>. χορδή, la seconde corde (d’une lyre) <i>propr</i>. « voisine de la plus haute », ARSTT. <i>Probl. 19, 3</i> ; PLUT. <i>M. 1134f, etc</i>.<p><b>Étym</b>. <i>fém. de</i> *παρύπατος <i>de</i> π. ὕπατος.`

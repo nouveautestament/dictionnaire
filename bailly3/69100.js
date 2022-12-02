@@ -1,0 +1,1 @@
+lar[69100]=`<b>νυκτ·εγερσία, ας (ἡ)</b> veille, travail <i>ou</i> entreprise nocturne, PHIL. <i>1, 155</i>.<p><b>Étym</b>. νύξ, ἐγείρω.`

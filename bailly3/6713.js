@@ -1,0 +1,1 @@
+lar[6713]=`<b>ἀνά·δικος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> jugé de nouveau, PLAT. <i>Leg. 937d ;</i> AND. <i>12, 7</i>.<br><b>      2</b> qui concerne une affaire jugée de nouveau, DÉM. <i>760, 3</i>.`

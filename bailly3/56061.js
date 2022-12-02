@@ -1,0 +1,1 @@
+lar[56061]=`<b>ακος (ἡ)</b> Klimax (<i>litt</i>. l’Échelle <i>ou</i> l’Échelon) :<br><b>      1</b> <i>chaîne de mt. de Lycie (auj</i>. Tahtalı Dağı <i>ou</i> Olimpos Dağı) PLUT. <i>Alex. 17</i>.<br><b>      2</b> <i>plur</i>. κλίμακες βραυρώνιαι, EUR. <i>I.T. 1462,</i> échelons de Braurônie, <i>càd</i>. monts de Braurônie, <i>en forme d’échelons</i>.`

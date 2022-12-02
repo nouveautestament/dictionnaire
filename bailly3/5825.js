@@ -1,0 +1,1 @@
+lar[5825]=`<b>ῶνος (ὁ)</b> vignoble, ESCHN. <i>49, 13</i> (<i>v</i>. ἀμπελουργεῖον) ; DS. <i>4, 6</i> ; PLUT. <i>Mar. 21</i> ; SPT. <i>Gen. 9, 20, etc</i>.<p><b>Étym</b>. ἄμπελος.`

@@ -1,0 +1,1 @@
+lar[87287]=`<b>ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. πτάξ, ANON. (<i>Com. fr. 4, 631</i>).`

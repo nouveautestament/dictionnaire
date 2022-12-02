@@ -1,0 +1,1 @@
+lar[52508]=`<b>κατα·κεκράκτης, ου (ὁ)</b> (<i>voc</i>. -κεκρᾶκτα, AR. <i>Eq. 303 conj. ; sel. von Velsen,</i> βδελυρὲ κρᾶκτα) qui abat <i>ou</i> dompte en poussant de grands cris.<p><b>Étym</b>. κ. κέκραγα <i>pf. de</i> κράζω.`

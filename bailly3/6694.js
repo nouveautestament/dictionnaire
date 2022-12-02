@@ -1,0 +1,1 @@
+lar[6694]=`<b>εως (ἡ) :<br>      1</b> action d’attacher sur, PLUT. <i>Sert. 22</i>.<br><b>      2</b> action d’attacher en haut, LUC. <i>J. tr. 33</i>.<p><b>Étym</b>. ἀναδέω.`

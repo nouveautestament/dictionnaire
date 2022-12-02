@@ -1,0 +1,1 @@
+lar[3338]=`<b>ἀ·κήδευτος, ος, ον</b>, abandonné sans sépulture, PLUT. <i>Per. 28</i> ; JOS. <i>A.J. 6, 14, 8</i>.<p><b>Étym</b>. ἀ, κηδεύω.`

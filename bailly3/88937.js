@@ -1,0 +1,1 @@
+lar[88937]=`<b>ατος (τὸ)</b> tiraillement, mauvais traitement, violence, LYC. <i>1089</i>.<p><b>Étym</b>. ῥυστάζω.`

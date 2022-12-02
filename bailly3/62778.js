@@ -1,0 +1,1 @@
+lar[62778]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> sorte de coupe, NICON (ATH. <i>487c</i>).<br><b>      2</b> sorte de coup au jeu du cottabe, ANTIPH. (ATH. <i>667a</i>).`

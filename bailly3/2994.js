@@ -1,0 +1,1 @@
+lar[2994]=`<b>ατος (τὸ)</b> butin de guerre, BAS.`

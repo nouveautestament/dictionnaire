@@ -1,0 +1,1 @@
+lar[21083]=`<b>βωλο·κόπος, ος, ον</b>, qui fend les mottes, CRAT. (E. BYZ. <i>v°</i> Δωδώνη).<p><b>Étym</b>. βῶλος, κόπτω.`

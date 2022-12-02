@@ -1,0 +1,1 @@
+lar[63607]=`<b>μεθ·ιδρύω</b>, <i>propr</i>. déplacer, transposer, changer, <i>acc</i>. PLAT. <i>Leg. 904e.</i><br><b><i>Moy.</i></b> :<br><b>      1 <i>intr.</i></b> se déplacer, transporter sa résidence, PLUT. <i>Ages. 11</i>.<br><b>      2 <i>tr.</i></b> transporter avec soi dans sa résidence, <i>acc</i>. DH. <i>6, 52</i>.<p><b>Étym</b>. μετά, ἱ.`

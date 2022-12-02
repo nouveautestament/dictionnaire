@@ -1,0 +1,1 @@
+lar[86872]=`<b>προ·ϋπεξορμάω-ῶ</b>, s’élancer secrètement avant, <i>gén</i>. LUC. <i>D. mort. 27, 3</i>.`

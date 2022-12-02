@@ -1,0 +1,1 @@
+lar[34736]=`<b>ἐννεα·φάρμακος, ος, ον</b> <font color="purple">[ᾰφμᾰ]</font> composé de neuf ingrédients (remède) CELS. <i>Med. 5, 19, 10</i>.<p><b>Étym</b>. ἐ. φάρμακον.`

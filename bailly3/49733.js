@@ -1,0 +1,1 @@
+lar[49733]=`<font color="purple">[ῑ̆]</font> <i>adv</i>., en équilibre, HPC. <i>808f ;</i> PLAT. <i>Phædr. 247, etc</i>.`

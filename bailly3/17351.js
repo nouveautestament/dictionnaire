@@ -1,0 +1,1 @@
+lar[17351]=`<i>adv</i>., spontanément, volontairement, PHIL. <i>2, 173</i>.`

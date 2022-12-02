@@ -1,0 +1,1 @@
+lar[85932]=`<b>προσ·καταγελάω-ῶ</b>, rire <i>ou</i> se moquer en outre de, <i>gén</i>. ATH. <i>508b</i>.`

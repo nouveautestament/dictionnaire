@@ -1,0 +1,1 @@
+lar[49859]=`<b>έως</b>, <i>adj. m</i>. de la ville d’Istros, LYC. <i>74</i>.<p><b>Étym</b>. Ἴστρος².`

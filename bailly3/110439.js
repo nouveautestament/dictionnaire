@@ -1,0 +1,1 @@
+lar[110439]=`<b>ῶν (οἱ)</b> les Orites, <i>pple de la Gédrosie,</i> PLUT. <i>Alex. 66</i>.`

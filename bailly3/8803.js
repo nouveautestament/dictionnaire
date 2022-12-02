@@ -1,0 +1,1 @@
+lar[8803]=`<b>ἀνθεσ·φόρος, ος, ον</b>, qui porte des fleurs, EUR. <i>Bacch. 703, I.A. 1544</i>.<p><b>Étym</b>. ἄνθος, φέρω.`

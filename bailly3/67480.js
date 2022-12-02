@@ -1,0 +1,1 @@
+lar[67480]=`<b>ας (ἡ)</b> trou de souris, <i>fig. par moquerie,</i> EPICRAT. <i>3, 369 Meineke</i>.<p><b>Étym</b>. μῦς.`

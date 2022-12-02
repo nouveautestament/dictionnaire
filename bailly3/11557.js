@@ -1,0 +1,1 @@
+lar[11557]=`<b>ἀπειρ·άγαθος, ος, ον</b> <font color="purple">[ρᾰᾰ]</font> qui n’a pas l’expérience <i>ou</i> la connaissance de ce qui est bon, SPT. <i>Esth. 8, 13, 8</i>.<p><b>Étym</b>. ἄπειρος, ἀγαθός.`

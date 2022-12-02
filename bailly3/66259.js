@@ -1,0 +1,1 @@
+lar[66259]=`<b>άδος (ἡ)</b> sorte de danse sauvage, ATH. <i>629d</i>.`

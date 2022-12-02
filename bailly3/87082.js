@@ -1,0 +1,1 @@
+lar[87082]=`<b>ου</b>, <i>adj. m</i>. de la poupe : πρ. κάλως, EUR. <i>Med. 770,</i> câble de la poupe, amarre ; <i>fig</i>. πρ. ἄναξ, ESCHL. <i>Eum. 16, ou</i> ἀνήρ, ESCHL. <i>Eum. 765,</i> le pilote (de l’État).<p><b>Étym</b>. πρύμνα.`

@@ -1,0 +1,1 @@
+lar[108173]=`<b>χειροτεχνέω-ῶ</b>, exercer un art manuel, HPC. <i>Ep. ad. Demag</i>.<p><b>Étym</b>. χειροτέχνης.`

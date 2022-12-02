@@ -1,0 +1,1 @@
+lar[36760]=`<b>εως (ἡ)</b> action de soulever un doute, une question, NYSS. <i>2, 418 ; 3, 251</i>.<p><b>Étym</b>. ἐπαπορέω.`

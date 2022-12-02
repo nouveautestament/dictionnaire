@@ -1,0 +1,1 @@
+lar[11941]=`<b>ἀπ·ηχής, ής, ές :<br>      1</b> discordant, ARSTD. <i>t. 1, 506</i> ; LUC. <i>V. auct. 10</i>.<br><b>      2</b> <i>fig</i>. choquant, désagréable, ALCIPHR. <i>3, 74</i>.<p><b>Étym</b>. ἀπο, ἦχος.`

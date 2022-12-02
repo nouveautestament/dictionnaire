@@ -1,0 +1,1 @@
+lar[12755]=`<b>οῦ (ὁ)</b> amincissement, ANTYLL. <i>99, 15</i>.<p><b>Étym</b>. ἀπολεπτύνω.`

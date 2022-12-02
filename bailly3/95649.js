@@ -1,0 +1,1 @@
+lar[95649]=`<b>συνεπιλείπω</b>, faire défaut, manquer <i>ou</i> cesser en même temps, JAMBL. <i>V. Pyth. p. 202</i> ; PLOT. <i>Enn. 2, 1228</i>.`

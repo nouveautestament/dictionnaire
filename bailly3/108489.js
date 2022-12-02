@@ -1,0 +1,1 @@
+lar[108489]=`<b>Χιο·γενής, ής, ές</b> <font color="purple">[ῑ]</font> originaire de Khios, ANTH. <i>11, 44</i>.<p><b>Étym</b>. Χῖος, γένος.`

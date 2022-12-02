@@ -1,0 +1,1 @@
+lar[27490]=`<b>ατος (τὸ)</b> don, PLAT. <i>Def. 415b ;</i> PLUT. <i>M. 182e, 531f ;</i> NT. <i>Matth. 7, 11, etc</i>.<p><b>Étym</b>. δίδωμι.`

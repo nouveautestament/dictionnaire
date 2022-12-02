@@ -1,0 +1,1 @@
+lar[59318]=`<b>(τὸ)</b> <i>indécl. c</i>. λάμβδα, AR. <i>Eccl. 920</i> ; PLAT. <i>Crat. 434c, etc.</i> ; ARSTT. <i>H.A. 3, 4, 6</i>.`

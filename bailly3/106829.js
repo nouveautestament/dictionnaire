@@ -1,0 +1,1 @@
+lar[106829]=`<b>ης (ἡ)</b> = <i>lat</i>. Fregellæ, Frégelles, <i>v. du Latium,</i> PLUT. <i>C. Gracch. 3</i>.`

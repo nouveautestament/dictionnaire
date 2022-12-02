@@ -1,0 +1,1 @@
+lar[103209]=`<b>ὑπο·δύνω</b> <font color="purple">[δῡ]</font> revêtir par-dessous : κιθῶνα τοῖσι εἵμασι, HDT. <i>1, 155,</i> revêtir une tunique sous ses habits ; <i>fig.</i> : ἡγεμονίην, HDT. <i>6, 2,</i> se charger d’un commandement ; κίνδυνον, HDT. <i>3, 69,</i> affronter un danger.<p><b>Étym</b>. <i>cf</i>. ὑποδύω.`

@@ -1,0 +1,1 @@
+lar[68436]=`<b>ων (οἱ)</b> les Nékhræes, <i>pple de l’Inde,</i> LUC. <i>Fug. 6</i>.`

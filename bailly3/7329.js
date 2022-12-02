@@ -1,0 +1,1 @@
+lar[7329]=`<b>εως (ἡ)</b> oscillation en arrière, ARSTT. <i>Mund. 4, 31</i>.<p><b>Étym</b>. ἀναπάλλω.`

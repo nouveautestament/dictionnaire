@@ -1,0 +1,1 @@
+lar[52303]=`lier fortement, GEOP. <i>12, 21</i> ; SPT. <i>Sir. 30, 7 ; fig</i>. ἁμαρτίαν, SPT. <i>Sir. 7, 9, litt</i>. nouer fortement une faute, <i>càd</i>. la renouveler.`

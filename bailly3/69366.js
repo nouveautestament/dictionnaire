@@ -1,0 +1,1 @@
+lar[69366]=`<b>ου (τὸ)</b> petit Xanthias, <i>h</i>. AR. <i>Ran. 582</i>.<p><b>Étym</b>. <i>dim. de</i> Ξανθίας.`

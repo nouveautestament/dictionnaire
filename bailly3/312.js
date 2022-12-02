@@ -1,0 +1,1 @@
+lar[312]=`<b>οῦ (ὁ)</b> statuaire, sculpteur, CLÉM. <i>1, 136 Migne</i>.<p><b>Étym</b>. ἄγαλμα, ἔργον.`

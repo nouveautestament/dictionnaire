@@ -1,0 +1,1 @@
+lar[93307]=`<b>συγ·κατακαίνω</b>, tuer ensemble, massacrer, APP. <i>Civ. 4, 42</i>.`

@@ -1,0 +1,1 @@
+lar[94740]=`<b>συν·αναπιέζω</b>, presser en même temps, HÉRON <i>Spir. p. 164d</i>.`

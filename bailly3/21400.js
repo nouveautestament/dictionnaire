@@ -1,0 +1,1 @@
+lar[21400]=`<b>ου (ὁ)</b> sorte de poisson inconnu, M. SID. <i>37</i>.`

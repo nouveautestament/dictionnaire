@@ -1,0 +1,1 @@
+lar[106082]=`<b>φιλο·σκόπελος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les roches, les récifs, <i>etc</i>. ANTH. <i>6, 32</i> ; NONN. <i>D. 5, 230, etc</i>.`

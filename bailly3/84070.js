@@ -1,0 +1,1 @@
+lar[84070]=`<b>εως (ἡ)</b> exposition préliminaire, SCYMN. <i>13</i> ; POL. <i>3, 1, 7 ; 8, 13, 2</i>.<p><b>Étym</b>. προεκτίθημι.`

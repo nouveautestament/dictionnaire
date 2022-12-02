@@ -1,0 +1,1 @@
+lar[35439]=`<b>*Ἐξαμύας</b>, <i>ion</i>. <b>Ἐξαμύης, ου (ὁ)</b> Examyès, <i>père de Thalès de Milet, le philosophe et mathématicien,</i> HERMÉS. <i>fr. 2, v. 38</i>.`

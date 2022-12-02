@@ -1,0 +1,1 @@
+lar[80364]=`<b>ή, όν</b>, qui concerne la pinne marine, M. RUBR. <i>p. 20</i> ; τὸ πιννικόν (<i>s.-e</i>. ἔριον) byssus <i>ou</i> lin marin, <i>M. rubr. p. 33</i>.<p><b>Étym</b>. πίννα.`

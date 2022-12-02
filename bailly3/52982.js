@@ -1,0 +1,1 @@
+lar[52982]=`<b>κατα·παγίως</b> <font color="purple">[πᾰ]</font> <i>adv</i>., à état fixe, comme résidence fixe, ISOCR. <i>Antid. § 156</i>.<p><b>Étym</b>. κ. πάγιος.`

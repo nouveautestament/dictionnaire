@@ -1,0 +1,1 @@
+lar[92378]=`<b>ας (ἡ)</b> forme étroite des feuilles, TH. <i>C.P. 6, 18, 8</i>.<p><b>Étym</b>. στενόφυλλος.`

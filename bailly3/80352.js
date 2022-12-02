@@ -1,0 +1,1 @@
+lar[80352]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Pinaros, <i>fl. de Cilicie,</i> TH. <i>H.P. 2, 2, 7, etc.</i> ; PLUT. <i>Alex. 20, etc</i>.<p>➳ <i>Gén. épq</i>. Πινάροιο, DP. <i>867</i>.`

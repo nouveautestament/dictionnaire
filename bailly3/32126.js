@@ -1,0 +1,1 @@
+lar[32126]=`<b>ἐκ·τελευτάω-ῶ :<br>      1 <i>tr.</i></b> achever, accomplir, PD. <i>P. 12, 29</i> ; ESCHL. <i>Pr. 1020 ; au pass</i>. SOPH. <i>Tr. 170</i>.<br><b>      2 <i>intr.</i></b> s’achever, ESCHL. <i>Suppl. 411</i>.<p>➳ <i>Fut. 3 sg. dor</i>. ἐκτελευτάσει, PD. <i>l. c</i>.`

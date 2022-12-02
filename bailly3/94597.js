@@ -1,0 +1,1 @@
+lar[94597]=`<b>ατος (τὸ)</b> réunion, OLYMPIOD.<p><b>Étym</b>. συναιρέω.`

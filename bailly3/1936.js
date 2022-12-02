@@ -1,0 +1,1 @@
+lar[1936]=`<b>ος, ον</b> <font color="purple">[ᾰᾰμ]</font> d’Athamas (plaine) <i>en Phthiotide,</i> A.RH. <i>2, 516</i>.<p><b>Étym</b>. Ἀθάμας.`

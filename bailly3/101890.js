@@ -1,0 +1,1 @@
+lar[101890]=`<font color="purple">[ῠᾰ]</font> <i>adv. et prép.</i> :<br><b>      1</b> en dessous, IL. <i>15, 520</i> ; en se baissant, IL. <i>21, 493</i>.<br><b>      2</b> de côté, IL. <i>21, 271, etc.</i> ; A.RH. <i>2, 735 ; avec un gén</i>. en se détournant de, IL. <i>18, 421</i>.<p><b>Étym</b>. ὑπαί, -θα.`

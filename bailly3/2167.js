@@ -1,0 +1,1 @@
+lar[2167]=`<b>ής, ές</b> <font color="purple">[ᾱ]</font><br><b>      1</b> déplorable, triste, PD. <i>P. 1, 83 ; I. 1, 49</i> ; ESCHL. <i>Eum. 479, etc.</i><br><b>      2</b> pénible, dur, PD. <i>P. 4, 236</i>.<p>➳ <i>Ion</i>. -ηνής, ARCHIL. <i>20</i>.<p><b>Étym</b>. <i>inconnue</i>.`

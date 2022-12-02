@@ -1,0 +1,1 @@
+lar[39688]=`<b>ἐπι·χειρονομέω-ῶ :<br>      1</b> gesticuler, PHIL. <i>1, 298 ; 2, 485</i>.<br><b>      2</b> <i>fig</i>. faire effort pour saisir, PHIL. <i>2, 371</i>.`

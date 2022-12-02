@@ -1,0 +1,1 @@
+lar[12553]=`<b>ἀπο·κηδεύω</b>, achever les funérailles, <i>acc</i>. HDT. <i>9, 31</i>.`

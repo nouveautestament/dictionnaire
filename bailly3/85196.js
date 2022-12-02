@@ -1,0 +1,1 @@
+lar[85196]=`<b>προσ·ανερέσθαι</b>, interroger en outre <i>ou</i> encore, JOS. <i>A.J. 19, 4, 1</i>.<p><b>Étym</b>. <i>inf. ao.2 moy. de</i> *προσανέρω, <i>de</i> π. ἀνά, *ἔρω.`

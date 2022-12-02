@@ -1,0 +1,1 @@
+lar[70319]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. οἰκεῖος, PLUT. <i>Cic. 20 corrigé en</i> οἰκιακός.`

@@ -1,0 +1,1 @@
+lar[4790]=`<b>ητος (ἡ)</b> diversité, PLAT. <i>Tim. 82b ; plur</i>. HPC. <i>296, 19</i>.<p><b>Étym</b>. ἀλλοῖος.`

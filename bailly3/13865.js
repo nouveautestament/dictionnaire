@@ -1,0 +1,1 @@
+lar[13865]=`<font color="purple">[μᾰ]</font> <i>adv</i>., sans effort, sans embarras, JUL. <i>191c, etc</i>.`

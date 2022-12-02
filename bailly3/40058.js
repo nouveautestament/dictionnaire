@@ -1,0 +1,1 @@
+lar[40058]=`<b>ἐπ·ῳάζω :<br>      1</b> couver des œufs, <i>d’où</i> couver, ARSTT. <i>H.A. 6, 8, etc.</i><br><b>      2</b> faire éclore, DS. <i>1, 74</i>.<p><b>Étym</b>. ἐπί, ᾠόν.`

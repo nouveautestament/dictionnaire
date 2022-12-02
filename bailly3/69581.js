@@ -1,0 +1,1 @@
+lar[69581]=`<b>ξιφο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> en forme d’épée, TH. <i>H.P. 7, 13, 1</i>.<p><b>Étym</b>. ξ. εἶδος.`

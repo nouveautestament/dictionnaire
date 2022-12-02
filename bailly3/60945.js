@@ -1,0 +1,1 @@
+lar[60945]=`<i>adv</i>., de la Libye, NIC. <i>Al. 368</i>.<p>➳ <i>Dor</i>. Λιβύαθε <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 1, 24</i>.<p><b>Étym</b>. Λιβύη, -θε.`

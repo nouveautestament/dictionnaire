@@ -1,0 +1,1 @@
+lar[46202]=`<b>θαλερ·όμματος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux yeux pleins de fraîcheur, de jeunesse, ORPH. <i>H. 79, 5</i>.<p><b>Étym</b>. θαλερός, ὄμμα.`

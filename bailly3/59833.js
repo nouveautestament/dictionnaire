@@ -1,0 +1,1 @@
+lar[59833]=`<b>λαο·φθόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui détruit <i>ou</i> perd le peuple, THGN. <i>781</i>.<p><b>Étym</b>. λ. φθείρω.`

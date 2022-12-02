@@ -1,0 +1,1 @@
+lar[82312]=`<b>πολυ·πτόητος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> plein d’effroi, très craintif, PLUT. <i>M. 44c.</i><br><b>      2</b> inquiet, soupçonneux, ANTH. <i>5, 290</i>.<br><b>   II</b> <i>act</i>. très effrayant, <i>en parl. d’une mer agitée,</i> ANTH. <i>7, 624</i>.<p>➳ <i>Ion</i>. πολυπτοίητος, ANTH. <i>ll. cc</i>.<p><b>Étym</b>. π. πτοέω.`

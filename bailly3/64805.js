@@ -1,0 +1,1 @@
+lar[64805]=`<b>μεταλλ·άρχης, ου (ὁ)</b> directeur de l’exploitation d’une mine, P. ALEX. <i>Apot. 24, p. 67, l. 20 Boer</i>.<p><b>Étym</b>. μέταλλον, ἄρχω.`

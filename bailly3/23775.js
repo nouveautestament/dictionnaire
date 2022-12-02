@@ -1,0 +1,1 @@
+lar[23775]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petite amorce, PHILOX. (ATH. <i>147a</i>).<p><b>Étym</b>. <i>dim. de</i> δελέασμα.`

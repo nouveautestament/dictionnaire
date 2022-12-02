@@ -1,0 +1,1 @@
+lar[47224]=`<b>ᾶς</b> <i>ou</i> <b>θημωνία, ας (ἡ)</b> <i>c</i>. θημών SPT. <i>Ex. 8, 14 ; Job 21, 32 ; Cant. 7, 2 ; en parl. de cadavres,</i> SPT. <i>1Macc. 11, 4</i>.`

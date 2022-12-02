@@ -1,0 +1,1 @@
+lar[87589]=`<b>Πυθο·χάρης</b>, <i>acc</i>. <b>-ην</b> <font color="purple">[ῡᾰ]</font> Pythokharès, <i>h</i>. EL. <i>N.A. 11, 28</i>.<p><b>Étym</b>. Πυθώ, χαίρω.`

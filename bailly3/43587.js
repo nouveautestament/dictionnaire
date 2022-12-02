@@ -1,0 +1,1 @@
+lar[43587]=`<b>ας (ἡ)</b> habileté, industrie, <i>d’où</i> savoir, <i>en gén</i>. DH. <i>Dem. 35</i> ; LUC. <i>Herm. 20</i> ; A. PL. <i>4, 142</i>.<p><b>Étym</b>. εὔτεχνος.`

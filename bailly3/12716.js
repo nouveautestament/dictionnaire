@@ -1,0 +1,1 @@
+lar[12716]=`<b>ου (τὸ)</b> <font color="purple">[λᾰ]</font> dévidoir, <i>machine pour manœuvrer les cordages,</i> PHIL. BYZ. <i>Bel. 61</i>.<p><b>Étym</b>. ἀπολαμβάνω.`

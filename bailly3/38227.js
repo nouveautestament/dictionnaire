@@ -1,0 +1,1 @@
+lar[38227]=`<b>ἐπι·κυρέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> rencontrer par hasard, <i>dat</i>. PD. <i>P. 10, 21</i>.<br><b>      2</b> <i>p. suite,</i> obtenir, jouir de, <i>gén</i>. ESCHL. <i>Pers. 853 ; cf</i>. A.RH. <i>3, 342</i>.<p>➳ <i>Ao</i>. ἐπέκυρσα, <i>c. de</i> *ἐπικύρω, ESCHL. <i>l. c</i>.`

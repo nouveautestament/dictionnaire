@@ -1,0 +1,1 @@
+lar[108853]=`<b>χορτο·φαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger du fourrage, BARDESAN. (EUS. <i>P.E. 273c</i>).<p><b>Étym</b>. χόρτος, -φαγος <i>de</i> φαγεῖν.`

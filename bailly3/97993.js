@@ -1,0 +1,1 @@
+lar[97993]=`<b>ου (τὸ)</b> Téthrônion, <i>petite v. de Phocide</i>. HDT. <i>8, 33</i>.`

@@ -1,0 +1,1 @@
+lar[49269]=`<b>ἱππ·ηγέτης, ου (ὁ)</b> conducteur de chevaux (Poséidon) LYC. <i>767</i>.<p><b>Étym</b>. ἵππος, ἄγω.`

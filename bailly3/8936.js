@@ -1,0 +1,1 @@
+lar[8936]=`<b>οῦ (ὁ)</b> nature humaine, ARISTIPP. (DL. <i>2, 70).</i><p><b>Étym</b>. ἀνθρωπίζω.`

@@ -1,0 +1,1 @@
+lar[77436]=`<b>παυσ·ανίας, ου</b> <font color="purple">[ᾰνῐ]</font> <i>adj. m</i>. qui apaise la douleur, SOPH. <i>fr. 765 Dind</i>.<p><b>Étym</b>. π. ἀνία.`

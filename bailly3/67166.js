@@ -1,0 +1,1 @@
+lar[67166]=`<b>ου (τὸ)</b> <i>seul. au plur</i>. τὰ μύξα, sébeste, <i>fruit du sébestier,</i> AÉT.`

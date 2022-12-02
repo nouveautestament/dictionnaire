@@ -1,0 +1,1 @@
+lar[29179]=`<b>δωροδοτέω-ῶ</b>, faire des présents à, <i>acc</i>. AQU. <i>Ezech. 16, 33</i>.<p><b>Étym</b>. δωροδότης.`

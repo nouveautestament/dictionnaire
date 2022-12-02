@@ -1,0 +1,1 @@
+lar[50999]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Kalamos, <i>n. d’h. myth</i>. NONN. <i>D. 11, 380, etc</i>.<p><b>Étym</b>. <i>v</i>. κάλαμος.`

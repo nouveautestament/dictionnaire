@@ -1,0 +1,1 @@
+lar[75233]=`<b>παντο·βίης, ου</b>, <i>adj. m</i>. qui dompte tout par la force, ANTH. <i>7, 732</i>.<p><b>Étym</b>. π. βία.`

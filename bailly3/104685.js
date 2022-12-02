@@ -1,0 +1,1 @@
+lar[104685]=`<b>α, ον</b>, de Phæstos, <i>en Crète,</i> PLUT. <i>Sol. 12</i> ; NONN. <i>D. 13, 226</i>.<p><b>Étym</b>. Φαιστός.`

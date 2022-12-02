@@ -1,0 +1,1 @@
+lar[56205]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> ouvrage filé, trame, assemblage de fils, NIC. (ATH. <i>372e</i>).<br><b>      2</b> <i>p. anal</i>. feuillage <i>ou</i> liane enroulée, SPT. <i>Num. 15, 38</i>.<p><b>Étym</b>. κλώθω.`

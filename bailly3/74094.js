@@ -1,0 +1,1 @@
+lar[74094]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> glacé, glacial, D. CHR. <i>1, p. 550</i>.<br><b>      2</b> congelé, ARÉT. <i>Cur. m. acut. 2, 2</i>.<p><b>Étym</b>. πήγνυμι.`

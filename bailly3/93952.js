@@ -1,0 +1,1 @@
+lar[93952]=`<b>συμ·μεταδίδωμι</b> <font color="purple">[δῐ]</font> faire part à : τινί, POL. <i>4, 5, 9,</i> à qqn ; τινος, POL. <i>5, 36, 2,</i> de qqe ch. ; τινὶ περὶ τῶν ἐνεστώτων, POL. <i>23, 14, 7,</i> à qqn de l’état des affaires, le consulter sur les circonstances présentes.`

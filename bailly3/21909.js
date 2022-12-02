@@ -1,0 +1,1 @@
+lar[21909]=`<i>adv</i>., de terre, ESCHL. <i>Sept. 247 ; Eum. 904</i> ; SOPH. <i>O.C. 1591</i>.<p><b>Étym</b>. γῆ, -θεν.`

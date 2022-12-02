@@ -1,0 +1,1 @@
+lar[21146]=`<b>ων (τὰ)</b> <font color="purple">[ᾰδ]</font> Gadeires :<br><b>      1</b> <i>v. de Bétique en Espagne (auj</i>. Cadix), PD. <i>N. 4, 112</i> ; POL. <i>34, 5</i> ; STR. DS. <i>etc.</i><br><b>      2</b> <i>î. de la côte de Bétique,</i> DP. <i>451 ; cf</i>. STR. PTOL. <i>etc</i>.<p>➳ <i>Ion</i>. Γήδειρα, HDT. <i>4, 8</i>.`

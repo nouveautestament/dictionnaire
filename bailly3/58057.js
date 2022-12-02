@@ -1,0 +1,1 @@
+lar[58057]=`<b>ωνος (ὁ, ἡ)</b> Krommyôn, <i>v. de Mégaride, postér. de Corinthie,</i> THC. <i>4, 42 et 44</i> ; XÉN. <i>Hell. 4, 4, 13, etc</i>.<p>➳ ἡ Κρ. STR. <i>380</i>.`

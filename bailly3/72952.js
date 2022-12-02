@@ -1,0 +1,1 @@
+lar[72952]=`<b>ὀρνιθόω-ῶ</b>, changer en oiseau, ATH. <i>393e</i>.<p><b>Étym</b>. ὄρνις.`

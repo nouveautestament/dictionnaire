@@ -1,0 +1,1 @@
+lar[71027]=`<b>ὀλιγο·μετρία, ας (ἡ)</b> <font color="purple">[ῐγ]</font><br><b>      1</b> petitesse de mesure, petitesse, STOB. <i>Ecl. phys. p. 1008</i>.<br><b>      2</b> <i>t. de pros</i>. petit nombre de pieds, EUST. <i>Il. p. 353, 39</i>.<p><b>Étym</b>. ὀλ. μέτρον.`

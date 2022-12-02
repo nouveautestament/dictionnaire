@@ -1,0 +1,1 @@
+lar[66138]=`<b>(ὁ)</b> Mnamias, <i>Thébain,</i> PLUT. <i>Herod. mal. 31</i>.`

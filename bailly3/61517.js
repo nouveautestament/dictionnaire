@@ -1,0 +1,1 @@
+lar[61517]=`<b>ας (ἡ)</b> ressemblance avec la prose, caractère prosaïque d’un écrit, DH. <i>Comp. 26</i>.<p><b>Étym</b>. λογοειδής.`

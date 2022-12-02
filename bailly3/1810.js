@@ -1,0 +1,1 @@
+lar[1810]=`<b>ἀερο·φοίτας, α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> <i>c</i>. ἀεροφοῖτις, ἀερόφοιτος ION (SCH.-AR. <i>Pax 835).</i><p>➳ <i>Ion</i>. ἠεροφοίτης, ORPH. <i>Lith. 45</i> ; NONN. <i>D. 6, 368</i>.`

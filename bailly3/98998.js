@@ -1,0 +1,1 @@
+lar[98998]=`<i>adv. dor. c</i>. ἐκεῖ, THCR. <i>Idyl. 1, 106, etc.</i> ; ORACL. (PLUT. <i>Dem. 19</i>).`

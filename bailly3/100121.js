@@ -1,0 +1,1 @@
+lar[100121]=`<b>τρι·βελής, ής, ές</b> <font color="purple">[ῐ]</font> à trois pointes, A. PL. <i>215</i>.<p><b>Étym</b>. τρεῖς, βέλος.`

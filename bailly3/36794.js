@@ -1,0 +1,1 @@
+lar[36794]=`<b>ἐπ·αρκής, ής, ές :<br>      1</b> qui vient au secours de, NIC. <i>Al. 577</i>.<br><b>      2</b> <i>p. suite,</i> suffisant à, <i>dat</i>. DP. <i>1101</i> ; PLUT. <i>Cic. 7</i>.<p><b>Étym</b>. ἐπαρκέω.`

@@ -1,0 +1,1 @@
+lar[41981]=`<b>εὐ·εμής, ής, ές :<br>      1</b> qui vomit facilement, HPC. <i>645, 35</i>.<br><b>      2</b> facile à vomir, TH. <i>H.P. 9, 10, 2</i>.<p>•<i> Cp</i>. -έστερος, DIOSC. <i>p. 412 ; • Sup</i>. -έστατος, RUF. <i>p. 128 Matthäi (corr. p</i>. -ώτατος).<p><b>Étym</b>. εὖ, ἐμέω, <i>cf</i>. εὐημής.`

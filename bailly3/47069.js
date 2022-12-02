@@ -1,0 +1,1 @@
+lar[47069]=`<b>ου (ὁ)</b> fils de Thestôr, <i>càd</i>. Kalkhas (Calchas) IL. <i>1, 69 ; ou</i> Alkmaôn, IL. <i>12, 394</i>.<p>➳ <i>Voc</i>. -ίδη, HOM. <i>Ep. 5</i>.<p><b>Étym</b>. <i>patr. de</i> Θέστωρ.`

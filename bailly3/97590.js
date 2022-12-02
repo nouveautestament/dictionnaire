@@ -1,0 +1,1 @@
+lar[97590]=`<b>ταξι·αρχία, ας (ἡ)</b> commandement d’une cohorte <i>ou</i> d’un bataillon, ARSTT. <i>Pol. 6, 8, 15</i> ; POLYEN <i>3, 9, 10</i>.<p><b>Étym</b>. ταξίαρχος.`

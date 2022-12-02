@@ -1,0 +1,1 @@
+lar[13451]=`<b>ατος (τὸ)</b> crasse <i>ou</i> saleté qu’on ôte avec le strigile, <i>au bain,</i> STR. <i>224</i>.<p><b>Étym</b>. ἀποστλεγγίζω.`

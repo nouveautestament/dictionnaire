@@ -1,0 +1,1 @@
+lar[60768]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> l’État, PLUT. <i>Rom. 26, M. 280</i>.<br><b>      2</b> <i>chez les Achéens,</i> la maison commune où se traitaient les affaires publiques, HDT. <i>7, 197</i>.<p><b>Étym</b>. λαός.`

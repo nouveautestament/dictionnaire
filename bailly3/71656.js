@@ -1,0 +1,1 @@
+lar[71656]=`<b>ὁμο·πολίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> concitoyen, EUSTR. <i>Nic. 474, 18</i>.<p><b>Étym</b>. ὁμ. πολίτης.`

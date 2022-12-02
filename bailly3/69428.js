@@ -1,0 +1,1 @@
+lar[69428]=`<b>ξεν·αρκής, ής, ές</b>, protecteur des étrangers, PD. <i>N. 4, 12</i>.<p><b>Étym</b>. ξένος, ἀρκέω.`

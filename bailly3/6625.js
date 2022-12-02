@@ -1,0 +1,1 @@
+lar[6625]=`<b>ἀνα·γνάμπτω</b> <font color="darkgreen">(<i>ao</i>. ἀνέγναμψα, <i>ao. pass</i>. ἀνεγνάμφθην)</font> recourber en sens contraire, <i>d’où</i> :<br><b>      1</b> <i>au pass</i>. se recourber, IL. <i>2, 348, etc.</i><br><b>      2</b> délier, détacher, OD. <i>14, 348</i>.`

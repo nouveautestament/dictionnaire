@@ -1,0 +1,1 @@
+lar[2333]=`<b>ῶνος (ὁ)</b> Ægôn, <i>fl. d’Éthiopie,</i> ARSTT. <i>Meteor. 1, 13</i>.`

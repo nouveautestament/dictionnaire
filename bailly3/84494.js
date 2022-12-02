@@ -1,0 +1,1 @@
+lar[84494]=`<b>προ·καταρκτικός, ή, όν :<br>      1</b> qui est la cause première, le principe, le fondement, PLUT. <i>M. 1056b et d</i> ; SEXT. <i>P. 3, 16</i>.<br><b>      2</b> préliminaire en forme de préface, RHÉT.<br><b>      3</b> <i>t. de métr.</i> : παιών, D. PHAL. <i>§ 21,</i> péon commençant par une syllabe longue.<p><b>Étym</b>. προκατάρχω.`

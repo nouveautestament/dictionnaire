@@ -1,0 +1,1 @@
+lar[58445]=`<b>η, ον</b> <font color="purple">[ῡ]</font> <i>dér. de</i> κύδιστος NIC. <i>Th. 3</i> (<i>var</i>. κηδέστατος).`

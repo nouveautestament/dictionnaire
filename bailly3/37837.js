@@ -1,0 +1,1 @@
+lar[37837]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> <i>adj. f</i>. qui désire volontiers, amie de, <i>gén</i>. CALL. <i>Dian. 237</i>.<p><b>Étym</b>. ἐπιθυμέω.`

@@ -1,0 +1,1 @@
+lar[33734]=`<b>ἐμ·φυσιόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐνεφυσίωσα)</font> <font color="purple">[ῡ]</font> souffler dans, inspirer, CLÉM. <i>897</i> ; SPT. <i>1Esdr. 9, 48 ; au pass</i>. être gonflé <i>ou</i> rempli (de joie) SPT. <i>1Esdr. 9, 55</i>.<p><b>Étym</b>. ἐν, φ.`

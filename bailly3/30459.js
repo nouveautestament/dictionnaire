@@ -1,0 +1,1 @@
+lar[30459]=`<b>ας (ἡ)</b> <font color="purple">[ῐῐ]</font> pureté, limpidité, ARSTT. <i>Col. 3, 2</i> ; SEXT. <i>M. 9, 73</i>.<p><b>Étym</b>. εἰλικρινής.`

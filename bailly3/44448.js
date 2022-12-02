@@ -1,0 +1,1 @@
+lar[44448]=`<font color="purple">[ῡ]</font> faire bouillir, ORIB. <i>1, 396 ; pass</i>. ζέννυμαι, bouillir, A. APHR. <i>Probl. 1, 104</i>.<p><b>Étym</b>. ζέω.`

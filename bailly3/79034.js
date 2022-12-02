@@ -1,0 +1,1 @@
+lar[79034]=`<b>περι·ορύσσω</b>, <i>att</i>. <b>περι·ορύττω :<br>      1</b> creuser tout autour, HDT. <i>2, 99</i> ; ARSTT. <i>Probl. 20, 8</i> ; TH. <i>C.P. 5, 6, 3 ; au pass</i>. PLAT. <i>Criti. 118c.</i><br><b>      2</b> fouiller <i>ou</i> extraire tout autour, PLUT. <i>Ant. 45</i>.`

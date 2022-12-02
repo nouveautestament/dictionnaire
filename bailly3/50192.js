@@ -1,0 +1,1 @@
+lar[50192]=`<i>p. apocope et assimilation poét. pour</i> κατά <i>devant un</i> γ : κὰγ γόνυ, IL. <i>20, 458</i> ; κὰγ γόνων, <i>éol. p</i>. κατὰ γονάτων, SAPPH. <i>fr. 44 Bgk</i>.`

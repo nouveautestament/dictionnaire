@@ -1,0 +1,1 @@
+lar[105082]=`<i>adv</i>., avec amour du gain, PLAT. <i>Rsp. 559d</i>.`

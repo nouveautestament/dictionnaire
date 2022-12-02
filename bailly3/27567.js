@@ -1,0 +1,1 @@
+lar[27567]=`<b>δοξο·φαγία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> avidité de gloire <i>ou</i> d’honneurs, POL. <i>6, 9, 7</i>.<p><b>Étym</b>. δόξα, φαγεῖν.`

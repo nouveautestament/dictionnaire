@@ -1,0 +1,1 @@
+lar[4538]=`<b>*ἁλί·πληκτος</b>, <i>seul. dor</i>. <b>ἁλίπλακτος, ος, ον</b> <font color="purple">[ᾰ]</font> battu des flots, PD. <i>P. 4, 14</i> ; SOPH. <i>Aj. 597</i>.<p><b>Étym</b>. ἅ. πλήσσω.`

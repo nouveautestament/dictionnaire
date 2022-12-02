@@ -1,0 +1,1 @@
+lar[85966]=`<b>προσ·καταπράττω</b>, accomplir en outre, ARSTD. <i>t. 1, 394</i>.`

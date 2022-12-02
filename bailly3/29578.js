@@ -1,0 +1,1 @@
+lar[29578]=`<b>ἐγ·κατατάττω</b> <font color="darkgreen">(<i>f</i>. -τάξω) :</font><br><b>      1</b> ranger parmi, entremêler à, <i>dat</i>. CLÉM. <i>423</i> ; LGN <i>10, 7</i>.<br><b>      2</b> approuver, sanctionner, CLÉM. <i>227</i>.<p><b>Étym</b>. ἐν, κ.`

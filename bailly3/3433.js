@@ -1,0 +1,1 @@
+lar[3433]=`<i>adv</i>., sans être appelé, ZÉNOB. <i>2, 46</i>.<p><b>Étym</b>. ἄκλητος.`

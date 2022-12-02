@@ -1,0 +1,1 @@
+lar[88461]=`<b>ου (ὁ)</b> = <i>lat</i>. Rhēnus, le Rhin, <i>fleuve qui marquait la limite entre la Gaule et la Germanie,</i> ARSTT. <i>Mir. 168</i> ; PLUT. <i>Cæs. 19, etc</i>.`

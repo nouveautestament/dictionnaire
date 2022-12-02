@@ -1,0 +1,1 @@
+lar[17481]=`<b>αὐτό·ζωος, ος, ον</b>, qui possède la vie en soi ; τὸ αὐτόζωον, ARSTT. <i>Top. 5, 7, 7,</i> l’être qui possède la vie en soi, <i>càd</i>. qui vit par lui-même, l’Être en soi.<p><b>Étym</b>. αὐ. ζωός.`

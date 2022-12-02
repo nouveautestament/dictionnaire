@@ -1,0 +1,1 @@
+lar[76014]=`<b>παρ·αξόνιος, ος, ον</b>, placé auprès de l’essieu ; <i>subst</i>. τὸ π. clavette fixée dans l’essieu pour assujettir la roue, AR. <i>Ran. 819</i>.<p><b>Étym</b>. π. ἄξων.`

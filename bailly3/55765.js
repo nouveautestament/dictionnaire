@@ -1,0 +1,1 @@
+lar[55765]=`<b>ατος (τὸ)</b> morceau brisé, fragment, ANTH. <i>11, 153</i> ; PLUT. <i>T. Gracch. 19</i> ; NT. <i>Marc. 6, 43, etc</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 678b, 33 (378/366 av. J.-C.) ; v. Meisterh. p. 149, 6</i>.<p><b>Étym</b>. κλάω.`

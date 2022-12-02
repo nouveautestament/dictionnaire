@@ -1,0 +1,1 @@
+lar[98974]=`<b>ός, όν</b>, éloigné, ESCHL. <i>Pr. 1</i> ; EUR. <i>Andr. 889 ; avec le gén</i>. éloigné de, EUR. <i>Or. 1325</i>.<p><b>Étym</b>. τῆλε.`

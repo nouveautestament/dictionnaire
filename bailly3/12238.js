@@ -1,0 +1,1 @@
+lar[12238]=`<i>adv</i>., de manière à démontrer, à convaincre, ARSTT. <i>An. post. 1, 6, 8</i> ; DL. <i>9, 77</i>.`

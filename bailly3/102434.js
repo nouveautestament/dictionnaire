@@ -1,0 +1,1 @@
+lar[102434]=`<b>ὑπερέκχυσις, εως (ἡ)</b> <font color="purple">[χῠ]</font> débordement, inondation, HLD. <i>1, 5</i> ; PLUT. <i>M. 731c</i>.<p><b>Étym</b>. ὑπερεκχέω.`

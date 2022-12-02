@@ -1,0 +1,1 @@
+lar[80632]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πλακοῦς, ARR. <i>Epict. 2, 16, 25</i>.`

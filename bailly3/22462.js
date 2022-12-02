@@ -1,0 +1,1 @@
+lar[22462]=`<b>γονύ·κροτος, ος, ον</b>, dont les genoux s’entrechoquent <i>ou</i> se heurtent en marchant, ANACR. (EUST. <i>Il. 932 init</i>.) ; ARSTT. <i>Physiogn. 3, 9 ; 6, 5</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>H.A. 4, 11, 12</i>.<p><b>Étym</b>. γ. κρότος.`

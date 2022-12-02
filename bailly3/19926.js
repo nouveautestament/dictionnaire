@@ -1,0 +1,1 @@
+lar[19926]=`<b>(ὁ)</b> Blepsias, <i>h</i>. LUC. ATH. <i>etc</i>.<p><b>Étym</b>. βλέπω.`

@@ -1,0 +1,1 @@
+lar[76152]=`<b>εως (ἡ)</b> action de rompre sur un point un corps de troupes, ARR. <i>An. 2, 11</i>.<p><b>Étym</b>. παραρρήγνυμι.`

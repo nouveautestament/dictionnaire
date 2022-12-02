@@ -1,0 +1,1 @@
+lar[83093]=`<b>ας (ἡ)</b> abreuvoir, DS. <i>3, 17</i> ; STR. <i>356</i> ; CALL. <i>Dian. 50</i>.<p><b>Étym</b>. ποτίζω.`

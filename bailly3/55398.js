@@ -1,0 +1,1 @@
+lar[55398]=`(<i>seul. prés. et impf</i>. ἐκιδνάμην) <font color="purple">[ᾰ]</font> se répandre : ὑπεὶρ ἅλα, ἐπ' αἶαν, IL. <i>8, 1 ; 23, 227,</i> sur la mer, sur la terre, <i>en parl. de l’aurore</i> ; κατὰ χῶρον, PD. <i>fr. 95, 6,</i> à travers un pays ; ὕπνος ἐπ' ὄσσοις κίδναται, EUR. <i>Hec. 916,</i> le sommeil se répand sur les yeux.<p><b>Étym</b>. σκεδάννυμι.`

@@ -1,0 +1,1 @@
+lar[36353]=`<b>οῦ (ὁ)</b> celui qui célèbre une fête, M. TYR. <i>20, 4</i>.<p><b>Étym</b>. ἑορτάζω.`

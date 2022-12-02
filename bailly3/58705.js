@@ -1,0 +1,1 @@
+lar[58705]=`<b>κυμό·κτυπος, ος, ον</b> <font color="purple">[ῡῠ]</font> battu par les flots retentissants, SIMM. (HÉPH. <i>p. 74).</i><p><b>Étym</b>. κ. κτύπος.`

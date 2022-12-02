@@ -1,0 +1,1 @@
+lar[33323]=`<b>ἔμ·παις</b>, <i>gén</i>. <b>-παιδος</b>, <i>adj. f</i>. qui porte un enfant dans son sein, CRAT. <i>fr. 375</i>.<p><b>Étym</b>. ἐν, παῖς.`

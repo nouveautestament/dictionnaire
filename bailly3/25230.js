@@ -1,0 +1,1 @@
+lar[25230]=`<b>δια·πενθέω-ῶ</b> <font color="darkgreen">(<i>ao. 3 pl</i>. διεπένθησαν)</font> conserver le deuil, PLUT. <i>Popl. 23</i>.`

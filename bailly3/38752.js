@@ -1,0 +1,1 @@
+lar[38752]=`<b>ος, ον</b>, désiré <i>ou</i> regretté, APP. <i>Iber. 43</i> ; NT. <i>Phil. 4, 1</i>.<p><b>Étym</b>. ἐπιποθέω.`

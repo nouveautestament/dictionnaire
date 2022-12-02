@@ -1,0 +1,1 @@
+lar[54234]=`<b>κατ·ωμαδίς</b> <font color="purple">[μᾰ]</font> <i>c</i>. κατωμαδόν J. ALEX.`

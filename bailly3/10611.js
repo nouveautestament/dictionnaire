@@ -1,0 +1,1 @@
+lar[10611]=`<b>ατος (τὸ)</b> emploi d’un temps pour un autre, GRAMM.<p><b>Étym</b>. ἀ. χρόνος.`

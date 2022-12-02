@@ -1,0 +1,1 @@
+lar[80219]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> propre à persuader, persuasif, ARR. <i>Epict. 1, 8, 7</i>.<p><b>Étym</b>. πιθανολόγος.`

@@ -1,0 +1,1 @@
+lar[79400]=`<b>περιστί·αρχος, ος, ον</b>, qui préside aux purifications, AR. <i>Eccl. 128</i>.<p><b>Étym</b>. περίστια, ἄρχω.`

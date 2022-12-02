@@ -1,0 +1,1 @@
+lar[16479]=`<b>ἀ·σύμψηφος, ος, ον</b>, qui n’est pas du même avis que, <i>gén</i>. PLUT. <i>Dio. 30</i>.`

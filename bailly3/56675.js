@@ -1,0 +1,1 @@
+lar[56675]=`<b>ατος (τὸ)</b> partie tronquée, écourtée, tronçon, ARSTT. <i>Metaph. 4, 27, 1</i>.<p><b>Étym</b>. κολοβόω.`

@@ -1,0 +1,1 @@
+lar[35331]=`<b>ἐξ·αϊστόω-ῶ</b> <font color="purple">[ᾰ]</font> effacer jusqu’à la dernière trace, anéantir, ESCHL. <i>Pr. 668</i>.`

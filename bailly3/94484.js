@@ -1,0 +1,1 @@
+lar[94484]=`<i>adv</i>., pêle-mêle, confusément, NIC. <i>Th. 110</i>.<p><b>Étym</b>. συμφύρω, -δην.`

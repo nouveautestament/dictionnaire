@@ -1,0 +1,1 @@
+lar[74567]=`<b>παλινδρομέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> courir en sens inverse, rebrousser chemin, Ps.-HDT. <i>V. Hom. 19</i> ; DS. <i>20, 74</i> ; PLUT. <i>Cic. 22 ; fig</i>. POL. <i>7, 3, 8</i>.<br><b>      2</b> <i>p. anal</i>. se résorber, <i>en parl. d’un abcès,</i> HPC. <i>Progn. 43</i>.<p><b>Étym</b>. παλίνδρομος.`

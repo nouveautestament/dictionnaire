@@ -1,0 +1,1 @@
+lar[48340]=`<b>ηρος (ὁ)</b> <font color="purple">[ῐ]</font> l’Èbre (<i>esp</i>. Ebro) <i>fl. d’Espagne,</i> POL. <i>2, 13, etc</i>.`

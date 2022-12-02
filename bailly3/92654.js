@@ -1,0 +1,1 @@
+lar[92654]=`<b>ου (τὸ)</b> <font color="purple">[ῐῐδ]</font> <i>dim. de</i> στίχος, PLUT. <i>Per. 30, M. 60a, 668b, etc.</i> ; ATH. <i>4a</i>.`

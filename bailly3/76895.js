@@ -1,0 +1,1 @@
+lar[76895]=`<b>ου (ὁ)</b> enfant né d’une jeune fille, ARSTT. <i>Pol. 5, 7, 2</i> ; STR. <i>278, etc</i>.<p><b>Étym</b>. παρθένος.`

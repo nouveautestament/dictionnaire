@@ -1,0 +1,1 @@
+lar[72215]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action d’accompagner, CRITON (STOB. <i>Ecl. eth. p. 350).</i><p><b>Étym</b>. ὀπαδέω.`

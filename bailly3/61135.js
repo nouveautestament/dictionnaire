@@ -1,0 +1,1 @@
+lar[61135]=`<b>ας (ἡ)</b> sensualité, HDN GR. <i>Epim. p. 77 Boissonade</i>.<p><b>Étym</b>. λιμβεύω.`

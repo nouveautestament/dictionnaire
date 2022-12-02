@@ -1,0 +1,1 @@
+lar[81250]=`<b>Ποδα·λείριος, ου (ὁ)</b> Podaleirios, <i>fils d’Asklèpios, médecin de l’armée grecque devant Troie,</i> IL. <i>2, 732 ; 11, 833</i> ; XÉN. <i>Cyn. 1, 2, etc</i>.<p><b>Étym</b>. πούς, λείριον.`

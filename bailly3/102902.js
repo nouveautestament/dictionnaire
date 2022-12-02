@@ -1,0 +1,1 @@
+lar[102902]=`<b>ὑπερχολάω-ῶ :<br>      1 <i>intr.</i></b> être extrêmement bilieux <i>ou</i> irascible, AR. <i>Lys. 694</i> ; PHILSTR. <i>828</i>.<br><b>      2 <i>tr.</i></b> remplir de bile, HPC. (GAL. <i>Lex. Hipp. 19, 149).</i><p><b>Étym</b>. ὑπέρχολος.`

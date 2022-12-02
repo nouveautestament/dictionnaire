@@ -1,0 +1,1 @@
+lar[78724]=`<b>περι·καταβάλλω :<br>      1</b> abattre tout autour <i>ou</i> de tous côtés, A.RH. <i>3, 707</i>.<br><b>      2</b> <i>p. ext</i>. abattre, renverser, NONN. <i>D. 37, 578 ; fig</i>. πένθος τινί, Q. SM. <i>1, 819, ou avec l’acc. de pers.</i> : τινὰ ἄτῃ, Q. SM. <i>5, 469,</i> plonger qqn dans le deuil, dans le malheur.`

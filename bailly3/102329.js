@@ -1,0 +1,1 @@
+lar[102329]=`<b>ὑπερ·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> trop lourd, <i>d’où</i> trop grand, ESCHL. <i>Ag. 1175</i>.<p><b>Étym</b>. ὑ. βάρος.`

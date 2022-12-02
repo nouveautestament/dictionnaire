@@ -1,0 +1,1 @@
+lar[80273]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> androsace, <i>plante,</i> DIOSC. <i>3, 150</i>.<p><b>Étym</b>. πικρός.`

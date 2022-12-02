@@ -1,0 +1,1 @@
+lar[83554]=`<b>προ·ανακόπτω</b>, couper d’avance <i>ou</i> auparavant, JOS. <i>B.J. 3, 6, 2 ; fig</i>. πρ. μή, CLÉM. <i>548,</i> prendre les devants pour empêcher de.`

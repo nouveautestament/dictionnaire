@@ -1,0 +1,1 @@
+lar[101307]=`<b>ὑαλο·ειδής, ής, ές</b> <font color="purple">[ῠ, <i>par exc</i>. ῡ <i>à l’arsis</i> ; ᾰ]</font> transparent comme du verre, ORPH. <i>Lith. 277</i> ; PHILOL. <i>A 19, p. 404, 4</i> (PLUT. <i>M. 890a</i>) ; ὑ. λίθος, TH. <i>Lap. 30,</i> sorte de saphir <i>ou</i> de topaze, <i>pierre précieuse</i>.<p><b>Étym</b>. ὕαλος, εἶδος.`

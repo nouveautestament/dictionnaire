@@ -1,0 +1,1 @@
+lar[35074]=`<b>ἔν·τηκτος, ος, ον</b>, tourné en eau, altéré, <i>en parl. du sang,</i> ARÉT. <i>Cur. m. diut. 2, 13</i>.<p><b>Étym</b>. ἐντήκω.`

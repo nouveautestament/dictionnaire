@@ -1,0 +1,1 @@
+lar[32265]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> sculpture, moulure, travail en relief <i>ou</i> en bosse, MÉN. (ATH. <i>484d</i>) ; <i>p. ext</i>. image, PLAT. <i>Tim. 50c.</i><br><b>      2</b> ἐκτ. βροντῆς, CRITIAS <i>fr. 9, 32 dout</i>. endroit où la foudre a laissé son empreinte.<p><b>Étym</b>. ἐκτυπόω.`

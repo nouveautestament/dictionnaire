@@ -1,0 +1,1 @@
+lar[54036]=`<b>κατ·ηρεμίζω</b>, apaiser, calmer, XÉN. <i>An. 7, 1, 22</i> ; PLUT. <i>M. 384a</i>.<p><b>Étym</b>. κ. ἠρέμα.`

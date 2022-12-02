@@ -1,0 +1,1 @@
+lar[43457]=`<b>ας (ἡ)</b> juste poids, juste mesure, ORIB. <i>68 Mai</i>.<p><b>Étym</b>. *εὔσταθμος, <i>v</i>. εὐστάθμως.`

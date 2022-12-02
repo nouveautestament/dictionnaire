@@ -1,0 +1,1 @@
+lar[2533]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à une haie, PLAT. <i>Leg. 681a</i>.<p><b>Étym</b>. αἱμασιά, -ωδης.`

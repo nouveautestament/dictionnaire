@@ -1,0 +1,1 @@
+lar[67700]=`<b>ου (ὁ)</b> Nastès, <i>chef des Cariens,</i> IL. <i>2, 867</i>.`

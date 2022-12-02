@@ -1,0 +1,1 @@
+lar[94634]=`<b>συν·αλγηδών, όνος (ἡ)</b> qui s’associe à une souffrance, à une douleur, EUR. <i>Suppl. 74</i>.`

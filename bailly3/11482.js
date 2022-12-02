@@ -1,0 +1,1 @@
+lar[11482]=`<b>ἀπ·αυτοματίζω</b> <font color="purple">[μᾰ]</font><br><b>      1</b> faire de soi-même, PLUT. <i>M. 717b.</i><br><b>      2</b> produire de soi-même, PHIL. <i>2, 131</i> ; HLD. <i>8, 14</i>.<br><b>      3</b> monter de soi-même, PHIL. <i>1, 93</i> ORIB. <i>2, 66 B.-Dar</i>.`

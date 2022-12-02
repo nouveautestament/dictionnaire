@@ -1,0 +1,1 @@
+lar[8955]=`<b>ας (ἡ)</b> homicide (<i>crime</i>) HLD. <i>10, 7</i> ; CLÉM. <i>36</i>.`

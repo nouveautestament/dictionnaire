@@ -1,0 +1,1 @@
+lar[11903]=`<b>ή, όν</b>, de l’est, ARSTT. <i>Meteor. 2, 6, 21</i>.<p>•<i> Cp</i>. -ώτερος, PTOL. <i>Geogr. 1, 11, 1 (var</i>. ἀφηλ-).<p><b>Étym</b>. ἀπηλιώτης.`

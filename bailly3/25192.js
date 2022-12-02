@@ -1,0 +1,1 @@
+lar[25192]=`<b>ης (ἡ)</b> <font color="purple">[πᾰ]</font> lutte énergique, PLUT. <i>Cor. 2, M. 50f</i>.`

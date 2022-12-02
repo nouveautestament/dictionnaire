@@ -1,0 +1,1 @@
+lar[58630]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font><br><b>      1</b> petite coupe, ACHÆ. (ATH. <i>480f</i>).<br><b>      2</b> petite boîte à drogues, GAL. <i>Lex. Hipp. 19, 115</i>.<p><b>Étym</b>. κύλιξ ; <i>cf</i>. κυλίχνη.`

@@ -1,0 +1,1 @@
+lar[34594]=`<i>adv</i>., quelquefois, SOR. <i>Fract. 248, 17 Id</i>.<p><b>Étym</b>. ἔνι, -άκις, <i>formé par anal. avec</i> ἐνίοτε.`

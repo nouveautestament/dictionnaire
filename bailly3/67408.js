@@ -1,0 +1,1 @@
+lar[67408]=`<b>μυσιάω-ῶ</b>, être essoufflé, <i>d’où fig</i>. être rassasié, CORN. <i>N.D. c. 28, p. 213</i>.`

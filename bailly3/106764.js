@@ -1,0 +1,1 @@
+lar[106764]=`<b>ου (ὁ)</b> Phraatès, <i>n. de plusieurs rois Parthes,</i> PLUT. <i>Pomp. 33, Crass. 33, etc</i>.`

@@ -1,0 +1,1 @@
+lar[109751]=`<b>ψευδ·υποβολιμαῖος, α, ον</b> <font color="purple">[ῠῐ]</font> qui passe faussement pour supposé, <i>titre d’une pièce de Krobylos,</i> DL. <i>Plat. p. 191</i> ; ATH. <i>107e, 364f</i>.`

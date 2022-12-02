@@ -1,0 +1,1 @@
+lar[109655]=`<b>ας (ἡ)</b> propos mensonger, mensonge, ALCIPHR. <i>1, 18</i>.<p><b>Étym</b>. ψευδηγόρος.`

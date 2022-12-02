@@ -1,0 +1,1 @@
+lar[93450]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. συγκλασμός THÉODOT. <i>Prov. 19, 29</i>.`

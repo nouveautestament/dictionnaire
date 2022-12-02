@@ -1,0 +1,1 @@
+lar[67733]=`<b>ή, όν :<br>      1</b> de pilote, ATH. <i>207c, etc.</i> ; τὰ ναυκληρικά, PLAT. <i>Leg. 842d</i>, genre de vie d’un pilote ; ὁ ναυκληρικός, PLUT. <i>M. 787a</i>, pilote.<br><b>      2</b> d’armateur, LUC. <i>D. mer. 2, 2</i>.<p><b>Étym</b>. ναύκληρος.`

@@ -1,0 +1,1 @@
+lar[92066]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> mesure par stades, STR. <i>47 et 75</i>.<p><b>Étym</b>. στάδιον.`

@@ -1,0 +1,1 @@
+lar[28407]=`<b>δυσ·εξήγητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à expliquer en détail, DL. <i>9, 13</i>.<p><b>Étym</b>. δ. ἐξηγέομαι.`

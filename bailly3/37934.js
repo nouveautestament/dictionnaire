@@ -1,0 +1,1 @@
+lar[37934]=`<b>ἐπι·καταπηδάω-ῶ</b>, sauter ensuite dans, <i>avec</i> εἰς <i>et l’acc</i>. JOS. <i>B.J. 3, 10, 9</i>.`

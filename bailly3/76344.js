@@ -1,0 +1,1 @@
+lar[76344]=`<b>παρα·τράγῳδος, ος, ον</b>, tragique mal à propos, emphatique, PLUT. <i>M. 7a ;</i> LGN <i>3, 1</i>.`

@@ -1,0 +1,1 @@
+lar[26401]=`<b>δί·θυμος, ος, ον</b> <font color="purple">[ῐῡ]</font> <i>litt</i>. discordant, <i>d’où</i> querelleur, SPT. <i>Prov. 26, 20</i>.<p><b>Étym</b>. δίς, θυμός.`

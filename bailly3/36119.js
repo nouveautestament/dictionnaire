@@ -1,0 +1,1 @@
+lar[36119]=`<b>εως (ἡ)</b> destruction, extermination, SPT. <i>1Macc. 7, 7 ; Ps. 108, 13 ; Ezech. 9, 1</i> ; JOS. <i>A.J. 11, 6, 6</i>.<p><b>Étym</b>. ἐξολοθρεύω.`

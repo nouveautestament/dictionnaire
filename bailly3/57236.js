@@ -1,0 +1,1 @@
+lar[57236]=`<font color="purple">[ῐ]</font> <i>adv</i>., comme un crible, LUC. <i>Tim. 3</i>.<p><b>Étym</b>. κόσκινον, -δον.`

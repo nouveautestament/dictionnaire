@@ -1,0 +1,1 @@
+lar[87050]=`<b>προ·ψηλαφάω-ῶ</b> <font color="purple">[ᾰφ]</font> tâter auparavant, P. ÉG. <i>132, 16</i>.`

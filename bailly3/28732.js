@@ -1,0 +1,1 @@
+lar[28732]=`<b>δύσ·οργος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> irascible, SOPH. <i>Aj. 1017</i>.<br><b>      2</b> irrité, SOPH. <i>Tr. 1118 ; etc</i>.<p><b>Étym</b>. δ. ὀργή.`

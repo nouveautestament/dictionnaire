@@ -1,0 +1,1 @@
+lar[130]=`<font color="purple">[ᾱτ]</font> <i>adv</i>., sans être appelé par des cris, qui vient spontanément, PD. <i>N. 8, 9</i>.<p><b>Étym</b>. <i>dor. c</i>. *ἀβοητί <i>de</i> ἀβόητος.`

@@ -1,0 +1,1 @@
+lar[67679]=`<b>ή, όν</b>, qui a la propriété d’engourdir, de stupéfier, narcotique, GAL.<p><b>Étym</b>. ναρκόω.`

@@ -1,0 +1,1 @@
+lar[101488]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑδεροειδής, GAL. <i>Lex. Hipp. 19, 148</i> ; RUF. <i>p. 14</i> ; ORIB. <i>119 Matthäi</i>.<p><b>Étym</b>. ὕδερος, -ωδης.`

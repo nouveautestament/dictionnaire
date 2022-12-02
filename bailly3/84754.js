@@ -1,0 +1,1 @@
+lar[84754]=`<b>προ·μύησις, εως (ἡ)</b> initiation antérieure <i>ou</i> préalable, PLUT. <i>M. 107e</i>.<p><b>Étym</b>. πρό, μυέω.`

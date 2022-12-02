@@ -1,0 +1,1 @@
+lar[26357]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite narration, historiette, STR. <i>651</i>.<p><b>Étym</b>. διήγημα.`

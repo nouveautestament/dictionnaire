@@ -1,0 +1,1 @@
+lar[51571]=`<b>ου (ὁ)</b> = <i>lat</i>. Canutius, <i>n. d’h. rom</i>. PLUT. <i>Brut. 21</i>.`

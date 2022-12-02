@@ -1,0 +1,1 @@
+lar[21650]=`<b>γενεθλια·λόγος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> tireur d’horoscopes, ARTÉM. <i>2, 69</i> ; PORPH. <i>etc</i>.<p><b>Étym</b>. γενέθλιος, λέγω.`

@@ -1,0 +1,1 @@
+lar[55061]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> <i>c</i>. κεῦθος, THGN. <i>243</i>.<p><b>Étym</b>. <i>dat. pl</i>. κεύθμασι, <i>corr</i>. κεύθεσι.`

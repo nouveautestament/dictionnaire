@@ -1,0 +1,1 @@
+lar[29888]=`<i>adv</i>., d’une manière aventureuse, ARCHYT. (STOB. <i>Fl. 3, 426</i>).`

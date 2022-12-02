@@ -1,0 +1,1 @@
+lar[18292]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῡ]</font> <i>dim. de</i> ἀφύη, AR. <i>fr. 442</i>.`

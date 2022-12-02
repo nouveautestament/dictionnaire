@@ -1,0 +1,1 @@
+lar[30542]=`<b>εως (ἡ)</b> action de céder, PLUT. <i>M. 1122c ;</i> DL. <i>10, 43 ; au plur</i>. PLUT. <i>M. 447a</i>.<p><b>Étym</b>. εἴκω.`

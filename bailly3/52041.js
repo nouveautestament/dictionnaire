@@ -1,0 +1,1 @@
+lar[52041]=`<i>ou</i> <b>Κασιλίνον, ου (τὸ)</b> = <i>lat</i>. Casilinum, <i>v. de Campanie,</i> PLUT. <i>Fab. 6</i>.`

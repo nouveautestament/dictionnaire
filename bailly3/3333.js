@@ -1,0 +1,1 @@
+lar[3333]=`<b>ῆς (ἡ)</b> action de secourir, de porter remède, HPC. 853c, 866b.<p><b>Étym</b>. <i>cf</i>. ἀκέω, ἀκέομαι.`

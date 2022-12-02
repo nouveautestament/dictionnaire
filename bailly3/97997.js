@@ -1,0 +1,1 @@
+lar[97997]=`<font color="purple">[ῑ]</font> <i>épq. et dor. c</i>. σοί, <i>dat. de</i> σύ, IL. <i>11, 201</i> ; OD. <i>4, 619</i> ; ORACL. (HDT. <i>5, 60, 61</i>).`

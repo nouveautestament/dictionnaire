@@ -1,0 +1,1 @@
+lar[44312]=`<b>ατος (τὸ) :<br>   I</b> ce qu’on fait cuire <i>ou</i> bouillir, PLAT. <i>Rsp. 372c, 455c.</i><br><b>   II</b> aliment cuit :<br><b>      1</b> bouillie, ARSTT. <i>H.A. 2, 6</i> ; DS. <i>180 ; 3, 53</i>.<br><b>      2</b> moût cuit (sapa) HPC. <i>359, 6</i>.<p><b>Étym</b>. ἑψέω.`

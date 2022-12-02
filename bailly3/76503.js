@@ -1,0 +1,1 @@
+lar[76503]=`<b>ης (ἡ)</b> <font color="purple">[δᾰ]</font> <i>s.-e</i>. δορά, IL. <i>3, 17 ; 10, 29</i> ; HDT. <i>7, 69 ; p. contr. att</i>. παρδαλῆ, ANAXANDR. <i>65 Kock,</i> peau de panthère.<p>➳ <i>Dor</i>. -έα, PD. <i>P. 4, 143</i>.<p><b>Étym</b>. <i>fém. de</i> *παρδάλεος, <i>de</i> πάρδαλις.`

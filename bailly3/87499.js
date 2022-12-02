@@ -1,0 +1,1 @@
+lar[87499]=`<b>πύγ·αργος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui a les fesses blanches : ὁ π. sorte de gazelle, HDT. <i>4, 192 ; ou</i> pygargue, <i>sorte d’aigle à queue blanche,</i> ARSTT. <i>H.A. 9, 32, 1</i>.<br><b>      2</b> mou, efféminé, ARCHIL. <i>177</i> ; SOPH. <i>fr. 931 Dind.</i> ; LYC. <i>71</i>.<p><b>Étym</b>. π. ἀργός.`

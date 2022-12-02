@@ -1,0 +1,1 @@
+lar[59834]=`<b>λαο·φόνος, ος, ον</b> <font color="purple">[ᾱ]</font> qui tue le peuple, THCR. <i>Idyl. 17, 53</i>.<p><b>Étym</b>. λ. πεφνεῖν.`

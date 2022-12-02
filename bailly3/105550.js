@@ -1,0 +1,1 @@
+lar[105550]=`<b>φιλ·έννυχος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime la nuit, P. SIL. <i>Ecphr. ag. Soph. 827</i>.`

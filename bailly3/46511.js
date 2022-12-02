@@ -1,0 +1,1 @@
+lar[46511]=`<i>épq</i>. θεειόω-ῶ, purifier par le soufre, OD. <i>22, 482</i> ; EUR. <i>Hel. 875 ; fig</i>. LYSIPP. (POLL. <i>7, 41</i>).<br><b><i>Moy.</i></b> purifier pour son usage par le soufre, OD. <i>23, 50</i>.<p><b>Étym</b>. θεῖον¹.`

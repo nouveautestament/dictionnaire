@@ -1,0 +1,1 @@
+lar[99451]=`<b>ή, όν</b>:<br><b>      1</b> coupé, taillé, SOPH. <i>El. 747</i> ; EUR. <i>Hipp. 1245</i>.<br><b>      2</b> qu’on peut couper <i>ou</i> séparer, divisible, THCR. <i>Idyl. 25, 275</i> ; ARSTT. <i>Metaph. 4, 15, 1</i> ; PLUT. <i>M. 106d, 883d</i>.<p><b>Étym</b>. <i>vb. de</i> τέμνω.`

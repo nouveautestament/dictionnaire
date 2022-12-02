@@ -1,0 +1,1 @@
+lar[3798]=`<b>ας (ἡ)</b> sommet d’une colline, POL. <i>2, 27, 5</i> ; DS. <i>18, 44 ; 19, 26</i> ; STR. <i>699</i>.<p><b>Étym</b>. ἀκρόλοφος.`

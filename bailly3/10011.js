@@ -1,0 +1,1 @@
+lar[10011]=`<b>ἀντι·κωλύω</b>, empêcher à son tour, <i>ou</i> empêcher, HPC. <i>412, 36</i>.`

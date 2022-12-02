@@ -1,0 +1,1 @@
+lar[62459]=`<b>ης</b> <font color="purple">[μᾰ]</font> Macédonienne, SCYMN. <i>658</i>.<p><b>Étym</b>. Μακεδών.`

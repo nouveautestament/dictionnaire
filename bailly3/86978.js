@@ -1,0 +1,1 @@
+lar[86978]=`<b>προ·φροντίζω</b>, méditer <i>ou</i> réfléchir auparavant, HPC. <i>Aër. 281</i>.`

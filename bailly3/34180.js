@@ -1,0 +1,1 @@
+lar[34180]=`<b>ἐν·διαστέλλομαι</b> (<i>seul. prés</i>.) s’expliquer clairement, STOB. <i>Ecl. eth. 2, 7</i>.`

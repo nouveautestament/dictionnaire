@@ -1,0 +1,1 @@
+lar[34443]=`<b>ἐν·έψω</b>, faire cuire dans, NIC. <i>Al. 71</i> ; ARÉT. <i>Cur. m. acut. 1, 1</i>.`

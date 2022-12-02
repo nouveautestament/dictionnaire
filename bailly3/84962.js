@@ -1,0 +1,1 @@
+lar[84962]=`<b>ατος (τὸ)</b> ébauche de sculpture, maquette, CIC. <i>Att. 12, 41, 4</i> ; PLIN. <i>H.N. 35, 45</i>.<p><b>Étym</b>. προπλάσσω.`

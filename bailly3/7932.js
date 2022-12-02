@@ -1,0 +1,1 @@
+lar[7932]=`<b>ἀνα·χρώννυμι</b> <font color="darkgreen">(<i>f</i>. -χρώσω, <i>ao</i>. ἀνέχρωσα, <i>pf. pass</i>. ἀνακέχρωσμαι) :</font><br><b>      1</b> colorer, teindre, PLUT. <i>M. 930f ; au pass</i>. TH. <i>Sud. 12</i> ; PLUT. <i>M. 89d.</i><br><b>      2</b> infecter de qqe contagion, CHRYS. <i>11, 500</i>.`

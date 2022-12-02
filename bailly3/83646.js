@@ -1,0 +1,1 @@
+lar[83646]=`<b>προ·αποικίζω</b>, emmener auparavant comme colon, APP. <i>Civ. 2, 119</i>.`

@@ -1,0 +1,1 @@
+lar[107607]=`<b>χαλκεο·τέχνης, ου (ὁ)</b> habile à travailler l’airain, <i>ép. d’Hèphæstos,</i> Q. SM. <i>2, 440</i>.<p><b>Étym</b>. χ. τέχνη.`

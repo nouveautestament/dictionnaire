@@ -1,0 +1,1 @@
+lar[69879]=`<b>ξυνο·δοτήρ, ῆρος</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. qui distribue ses dons à tous, <i>ép. d’Apollon et de Bacchus,</i> ANTH. <i>9, 525, 15, etc</i>.<p><b>Étym</b>. ξυνός, δίδωμι.`

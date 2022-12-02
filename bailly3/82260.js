@@ -1,0 +1,1 @@
+lar[82260]=`<b>πολυ·πλόκαμος, ος, ον</b> <font color="purple">[ᾰ]</font> aux nombreuses tresses, M. SID. <i>36</i>.`

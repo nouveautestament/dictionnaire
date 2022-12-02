@@ -1,0 +1,1 @@
+lar[55194]=`<b>ή, όν</b>, qui concerne l’opération d’une tumeur <i>ou</i> d’une hernie, GAL. <i>6, 22</i>.<p><b>Étym</b>. <i>v</i>. κηλοτομία.`

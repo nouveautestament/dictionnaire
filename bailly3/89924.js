@@ -1,0 +1,1 @@
+lar[89924]=`<b>ης, ες</b>, semblable à une chapelle, EL. <i>N.A. 10, 31</i>.<p><b>Étym</b>. σηκός, -ωδης.`

@@ -1,0 +1,1 @@
+lar[66133]=`<b>ου (τὸ)</b> <font color="purple">[ᾱᾰ]</font> <i>dim. de</i> μνᾶ, DIPH. <i>(Bkk. p. 108, 32</i>).`

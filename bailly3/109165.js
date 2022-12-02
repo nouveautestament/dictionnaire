@@ -1,0 +1,1 @@
+lar[109165]=`<b>χρυσο·γραφής, ής, ές</b> <font color="purple">[ῡᾰ]</font> peint en or <i>ou</i> brodé d’or, CALLIX. (ATH. <i>200d</i>).<p><b>Étym</b>. χρ. γράφω.`

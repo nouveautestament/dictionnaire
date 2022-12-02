@@ -1,0 +1,1 @@
+lar[6688]=`<b>ἀνα·δενδρο·μαλάχη, ης (ἡ)</b> <font color="purple">[μᾰᾰ]</font> mauve qui monte en arbre, ORIB. <i>2, 541, 584, 660 B.-Dar</i>.<p><b>Étym</b>. ἀ. δένδρον, μ.`

@@ -1,0 +1,1 @@
+lar[52812]=`<b>κατα·μεθύω</b> (<i>seul. prés</i>.) être ivre de, <i>gén</i>. PHIL. <i>1, 361</i>.`

@@ -1,0 +1,1 @@
+lar[96699]=`<b>συστομόω-ῶ</b>, rétrécir la bouche <i>ou</i> l’ouverture, STR. <i>308</i>.<p><b>Étym</b>. σύστομος.`

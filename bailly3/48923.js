@@ -1,0 +1,1 @@
+lar[48923]=`<font color="purple">[ῑλ]</font> <i>gén. épq. de</i> Ἴλιον, IL. <i>21, 295</i>.`

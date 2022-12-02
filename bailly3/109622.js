@@ -1,0 +1,1 @@
+lar[109622]=`<b>ψευδαγγελέω-ῶ</b>, être un faux messager <i>ou</i> un faux ange, PHIL. <i>1, 273</i>.<p><b>Étym</b>. ψευδάγγελος.`

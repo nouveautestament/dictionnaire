@@ -1,0 +1,1 @@
+lar[51523]=`<b>(ὁ)</b> Kanthariôn, <i>h</i>. PLUT. <i>Qu. gr. 39</i>.`

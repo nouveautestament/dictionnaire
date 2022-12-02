@@ -1,0 +1,1 @@
+lar[98543]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> carré, quadrangulaire, DIOPH.<p><b>Étym</b>. τετράγωνος.`

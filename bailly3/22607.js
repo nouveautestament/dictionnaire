@@ -1,0 +1,1 @@
+lar[22607]=`<b>γραο·λογία, ας (ἡ)</b> <font color="purple">[ᾱο]</font> radotage de vieille femme, SEXT. <i>M. 1, 141</i>.<p><b>Étym</b>. γραῦς, λόγος.`

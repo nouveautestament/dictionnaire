@@ -1,0 +1,1 @@
+lar[82796]=`<b>έως (ὁ)</b> pêcheur à la nasse, PANCRAT. (ATH. <i>321e</i>).<p><b>Étym</b>. πόρκος.`

@@ -1,0 +1,1 @@
+lar[49964]=`<b>ου (ἡ)</b> Itanos (<i>auj</i>. Erimoúpoli) <i>v. de Crète,</i> HDT. <i>4, 151</i>.`

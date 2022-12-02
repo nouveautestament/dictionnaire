@@ -1,0 +1,1 @@
+lar[9864]=`<b>ἀντί·δουπος, ος, ον</b>, qui renvoie le son, qui résonne, ESCHL. <i>Pers. 121 etc</i>.<p><b>Étym</b>. ἀ. δουπέω.`

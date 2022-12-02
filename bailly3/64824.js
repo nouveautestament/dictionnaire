@@ -1,0 +1,1 @@
+lar[64824]=`<b>ου (τὸ)</b> Métallon, <i>v. de Lydie, près du Pactole,</i> NONN. <i>D. 13, 472</i>.<p><b>Étym</b>. <i>v</i>. μέταλλον.`

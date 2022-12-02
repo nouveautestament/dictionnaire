@@ -1,0 +1,1 @@
+lar[36779]=`<b>ἐπ·αρήγω</b> <font color="darkgreen">(<i>f</i>. ήξω, <i>ao. impér</i>. ἐπάρηξον)</font> porter secours à, <i>dat</i>. IL. <i>23, 783,</i> OD. <i>13, 391</i> ; EUR. <i>El. 1350</i> ; AR. <i>Vesp. 402 ; abs</i>. ESCHL. <i>Ch. 725</i> ; SOPH. <i>El. 1197</i> ; XÉN. <i>Cyr. 6, 4, 18</i>.`

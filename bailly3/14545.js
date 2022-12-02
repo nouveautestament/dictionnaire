@@ -1,0 +1,1 @@
+lar[14545]=`<b>ή, όν</b> <font color="purple">[ῑῐ]</font><br><b>      1</b> qui concerne les articulations, HIPPIATR. <i>p. 25, 10</i>.<br><b>      2</b> qui souffre aux articulations, goutteux, HPC. <i>850e ;</i> DAMOX. (ATH. <i>102b</i>) ; CIC. <i>Fam. 9, 23</i>.<p><b>Étym</b>. ἄρθρον.`

@@ -1,0 +1,1 @@
+lar[21270]=`<b>οῦ (ὁ) :<br>      1</b> Galènos, <i>Troyen,</i> Q. SM. <i>10, 89</i>.<br><b>      2</b> Galien, <i>médecin célèbre,</i> ATH. <i>1e ;</i> ANTH. <i>7, 559, etc</i>.`

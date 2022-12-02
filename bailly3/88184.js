@@ -1,0 +1,1 @@
+lar[88184]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> ῥαγάς CELS. <i>Med. 6, 18, 7</i>.`

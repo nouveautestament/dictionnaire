@@ -1,0 +1,1 @@
+lar[28224]=`<b>δυσ·απόσχετος, ος, ον</b> <font color="purple">[ῠᾰ]</font> dont on s’abstient difficilement, SEXT. <i>M. 9, 152</i>.<p><b>Étym</b>. δ. ἀπέχω.`

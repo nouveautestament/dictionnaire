@@ -1,0 +1,1 @@
+lar[14456]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> propitiatoire, DH. <i>1, 67</i>.<p><b>Étym</b>. ἀρεστήρ.`

@@ -1,0 +1,1 @@
+lar[31802]=`<b>ἐκ·περίειμι</b> (<i>inf</i>. ἐκπεριϊέναι) approcher en faisant un détour, contourner, XÉN. <i>Cyn. 6, 10</i> ; LUC. <i>Rh. præc. 5</i>.`

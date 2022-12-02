@@ -1,0 +1,1 @@
+lar[87753]=`<b>πυρ·αμητός, οῦ (ὁ)</b> <font color="purple">[ῡᾱ]</font><br><b>      1</b> récolte du froment, moisson, ARSTT. <i>H.A. 6, 17, 15</i> ; TH. <i>H.P. 7, 6, 2</i>.<br><b>      2</b> époque de la moisson, DAMOCR. (GAL. <i>14, 94).</i><p><b>Étym</b>. πυρός, ἀμάω.`

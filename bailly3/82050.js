@@ -1,0 +1,1 @@
+lar[82050]=`<b>ορος (ὁ)</b> Polyktôr :<br><b>      1</b> <i>héros d’Ithaque,</i> OD. <i>17, 207</i>.<br><b>      2</b> <i>Myrmidon,</i> IL. <i>24, 397</i>.`

@@ -1,0 +1,1 @@
+lar[110098]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Ôgyros, <i>h</i>. NONN. <i>D. 13, 417, 418</i>.`

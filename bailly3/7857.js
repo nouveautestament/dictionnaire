@@ -1,0 +1,1 @@
+lar[7857]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> Anaphè (<i>auj</i>. Anáfi) <i>î. de la mer Égée,</i> A.RH. <i>4, 1717, etc</i>.`

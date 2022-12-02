@@ -1,0 +1,1 @@
+lar[105675]=`<b>ης (ἡ)</b> <font color="purple">[φῐ]</font> Philistè, <i>f</i>. AR. <i>Th. 568</i>.<p>➳ <i>Dor</i>. Φιλίστα <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 2, 145</i>.<p><b>Étym</b>. <i>cf</i>. φίλιστος.`

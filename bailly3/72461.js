@@ -1,0 +1,1 @@
+lar[72461]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐλ]</font> <i>propr</i>. « la voyante », <i>ép. d’Athèna,</i> PLUT. <i>Lyc. 11</i>.<p><b>Étym</b>. ὀπτίλος.`

@@ -1,0 +1,1 @@
+lar[57739]=`<b>ύος (ἡ)</b> <font color="purple">[βᾰ]</font> danse au son des castagnettes, HH. <i>Ap. 162</i>.<p><b>Étym</b>. κρεμβαλιάζω.`

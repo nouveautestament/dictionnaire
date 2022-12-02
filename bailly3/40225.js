@@ -1,0 +1,1 @@
+lar[40225]=`<b>ἐργό·χειρον, ου (τὸ)</b> ouvrage fait de main d’homme, produit manufacturé, BAS. <i>3, 633 Migne</i>.<p><b>Étym</b>. ἔργον, χείρ.`

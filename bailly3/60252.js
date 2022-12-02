@@ -1,0 +1,1 @@
+lar[60252]=`<b>α, ον</b>, <i>vb. de</i> λέγω, XÉN. <i>An. 5, 6, 6, etc.</i> ; PLAT. <i>Rsp. 378a, etc. ; au neutre,</i> PLAT. <i>Tim. 46e, Rsp. 392a, etc</i>.`

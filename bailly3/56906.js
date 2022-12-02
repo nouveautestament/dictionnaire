@@ -1,0 +1,1 @@
+lar[56906]=`<b>ου (ὁ) :<br>      1</b> barbe au menton, LUC. <i>Lex. 5</i>.<br><b>      2</b> pendant d’oreilles, POL. <i>10, 8, 6</i>.`

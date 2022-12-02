@@ -1,0 +1,1 @@
+lar[60880]=`<b>ας (ἡ)</b> prêtresse, CALL. <i>fr. 123</i>.<p><b>Étym</b>. <i>fém. de</i> λῃτήρ.`

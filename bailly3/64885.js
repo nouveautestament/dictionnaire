@@ -1,0 +1,1 @@
+lar[64885]=`<b>μετα·παραδίδωμι</b>, donner de l’un à l’autre, transmettre, JAMBL. <i>V. Pyth. c. 226, p. 448 Kiessl</i>.`

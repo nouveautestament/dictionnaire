@@ -1,0 +1,1 @@
+lar[446]=`<b>ου (ὁ)</b> Angros, <i>fl. d’Illyrie,</i> HDT. <i>4, 49</i>.`

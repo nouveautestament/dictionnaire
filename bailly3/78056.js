@@ -1,0 +1,1 @@
+lar[78056]=`<b>πεντά·χορδον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> pentachorde, <i>instrument de musique à cinq cordes,</i> ATH. <i>637a</i>.<p><b>Étym</b>. π. χορδή.`

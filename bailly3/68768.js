@@ -1,0 +1,1 @@
+lar[68768]=`<b>α (ὁ)</b> <font color="purple">[ῑᾱᾱ]</font> Nikolaïdas, <i>h</i>. PAUS. <i>6, 10, 5</i>.<p>➳ <i>Par contr</i>. Νικολᾴδας, ANTH. <i>13, 19</i>.`

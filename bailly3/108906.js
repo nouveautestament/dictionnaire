@@ -1,0 +1,1 @@
+lar[108906]=`<b>ή, όν</b>, qui a la faculté <i>ou</i> l’habitude de hennir, PLUT. <i>M. 877b ; Phil. 1, 310</i> ; SEXT. <i>P. 2, 111</i>.<p><b>Étym</b>. χρεμετίζω.`

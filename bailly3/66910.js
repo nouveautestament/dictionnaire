@@ -1,0 +1,1 @@
+lar[66910]=`<b>μουσο·δόνημα, ατος (τὸ)</b> transport poétique, <i>propr</i>. « agitation causée par la Muse », EUP. <i>245 Kock au pl</i>.<p><b>Étym</b>. μοῦσα, δονέω.`

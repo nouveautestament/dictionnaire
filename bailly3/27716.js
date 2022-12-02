@@ -1,0 +1,1 @@
+lar[27716]=`<b>δουλο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> d’apparence <i>ou</i> d’aspect servile, JOS. <i>B.J. 2, 7, 2</i>.<p><b>Étym</b>. δοῦλος, φαίνω.`

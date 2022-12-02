@@ -1,0 +1,1 @@
+lar[79082]=`<b>περι·πέτομαι</b>, voler autour de, <i>acc</i>. LUC. <i>Halc. 1 ; abs</i>. AR. <i>Av. 165, etc. ; fig. avec l’acc</i>. LUC. <i>H. conscr. 1</i>.`

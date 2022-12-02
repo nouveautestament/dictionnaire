@@ -1,0 +1,1 @@
+lar[30192]=`<i>vb. de</i> ἐθίζω, XÉN. <i>Mem. 2, 1, 28</i> ; PLAT. <i>Rsp. 396a, etc</i>.`

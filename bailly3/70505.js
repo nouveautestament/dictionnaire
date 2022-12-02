@@ -1,0 +1,1 @@
+lar[70505]=`<b>ιδος (ὁ)</b> Œnis, <i>éphore lacédémonien,</i> POL. <i>4, 31, 2</i>.<p><b>Étym</b>. οἶνος.`

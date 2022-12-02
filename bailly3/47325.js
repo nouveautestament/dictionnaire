@@ -1,0 +1,1 @@
+lar[47325]=`<b>θηρο·σκόπος, ος, ον</b>, qui guette les animaux sauvages, HH. <i>27, 11</i> ; ANTH. <i>6, 240</i>.<p><b>Étym</b>. θ. σκέπτομαι.`

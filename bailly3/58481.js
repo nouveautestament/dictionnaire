@@ -1,0 +1,1 @@
+lar[58481]=`<b>ατος (τὸ) :<br>      1</b> fœtus, fruit de la conception, PLAT. <i>Rsp. 461c ;</i> ARSTT. <i>G.A. 1, 13, etc.</i><br><b>      2</b> tige du chou (<i>cf</i>. κῦμα) DIOSC. <i>2, 146</i>.<p><b>Étym</b>. κυέω.`

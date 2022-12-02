@@ -1,0 +1,1 @@
+lar[71479]=`<b>ὁμό·εδρος, ος, ον</b>, qui a un siège semblable, HERM. (STOB. <i>Ecl. 1, 1102).</i><p><b>Étym</b>. ὁμ. ἕδρα.`

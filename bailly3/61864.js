@@ -1,0 +1,1 @@
+lar[61864]=`<font color="purple">[ῠ]</font> <i>adv</i>., à la manière des loups, ESCHL. <i>fr. 33</i>.<p><b>Étym</b>. λύκος, -δον.`

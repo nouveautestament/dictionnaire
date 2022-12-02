@@ -1,0 +1,1 @@
+lar[9843]=`<b>ἀντι·διδάσκω</b> <font color="purple">[δῐ]</font><br><b>      1</b> enseigner à son tour <i>ou</i> au contraire, APP. <i>Civ. 5, 19</i> ; ANTH. <i>6, 236</i>.<br><b>      2</b> présenter une pièce de théâtre pour disputer le prix, AR. <i>Vesp. 1410</i>.`

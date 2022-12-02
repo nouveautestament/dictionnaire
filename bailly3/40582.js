@@ -1,0 +1,1 @@
+lar[40582]=`<b>ου (ὁ)</b> Hermeias (Hermias) <i>h</i>. PLAT. <i>Ep. 6</i>.<p><b>Étym</b>. <i>v</i>. Ἑρμῆς.`

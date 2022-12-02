@@ -1,0 +1,1 @@
+lar[23641]=`<b>δεκά·βοιος, ος, ον</b> <font color="purple">[ᾰ]</font> du prix de dix bœufs, PLUT. <i>Thes. 25</i>.<p><b>Étym</b>. δ. βοῦς.`

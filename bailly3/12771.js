@@ -1,0 +1,1 @@
+lar[12771]=`<b>ἀπο·λιθόω-ῶ</b> <font color="purple">[ῐ]</font> pétrifier, ARSTT. <i>Probl. 24, 11, 1 ; au pass</i>. être pétrifié, ARSTT. <i>ibid.</i> ; STR. <i>251</i>.`

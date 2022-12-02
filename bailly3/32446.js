@@ -1,0 +1,1 @@
+lar[32446]=`<b>ιδος (ἡ)</b> la région du port d’Élæa, <i>en Épire,</i> THC. <i>1, 46</i>.<p><b>Étym</b>. Ἐλαία.`

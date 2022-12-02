@@ -1,0 +1,1 @@
+lar[106517]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῐδ]</font> de Phœbus, DIONYS. <i>Ap. 20</i> ; ANTH. <i>9, 201</i>.<p><b>Étym</b>. Φοῖβος.`

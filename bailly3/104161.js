@@ -1,0 +1,1 @@
+lar[104161]=`<b>ὑπο·χλιαίνω</b>, échauffer peu à peu <i>ou</i> légèrement, HPC. <i>1012d ;</i> PLUT. <i>M. 658d</i>.`

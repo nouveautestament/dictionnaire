@@ -1,0 +1,1 @@
+lar[23972]=`<b>ας (ἡ)</b> couverture de cuir, APD. POL. <i>29, 21</i>.<p><b>Étym</b>. <i>cf</i>. δέρρις.`

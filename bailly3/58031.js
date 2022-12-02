@@ -1,0 +1,1 @@
+lar[58031]=`<b>κροκό·πεπλος, ος, ον</b>, au voile d’un jaune de safran, IL. <i>8, 1, etc.</i> ; HÉS. <i>Th. 273, 358</i> ; ALCM. (HÉPH. <i>p. 39).</i><p><b>Étym</b>. κρόκος, πέπλον.`

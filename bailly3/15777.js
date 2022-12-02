@@ -1,0 +1,1 @@
+lar[15777]=`<b>ἀ·σείρωτος, ος, ον</b>, qui n’a que des chevaux attelés au joug, EUR. <i>Ion 1150 ; cf</i>. σειραφόρος.<p><b>Étym</b>. ἀ, *σειρόω <i>de</i> σειρά.`

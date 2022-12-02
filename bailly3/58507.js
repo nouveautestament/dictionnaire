@@ -1,0 +1,1 @@
+lar[58507]=`<b>(ἡ)</b> <i>ion. et poét. c</i>. χύτρα, HÉRODAS <i>fr. 3, p. 510 Bergk, Potæ lyrici græci</i>.`

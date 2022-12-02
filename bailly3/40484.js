@@ -1,0 +1,1 @@
+lar[40484]=`<b>ἐριο·πώλης, ου (ὁ)</b> marchand de laine, BAS. <i>1, 477 Migne</i>.<p><b>Étym</b>. ἔριον, πωλέω.`

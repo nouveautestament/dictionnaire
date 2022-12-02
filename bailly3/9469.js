@@ -1,0 +1,1 @@
+lar[9469]=`<b>ἄντ·ανδρος, ου (ὁ, ἡ)</b> remplaçant, otage (<i>litt</i>. homme pour homme) LUC. <i>D. mort. 16, 2</i>.<p><b>Étym</b>. ἀντί, ἀνήρ.`

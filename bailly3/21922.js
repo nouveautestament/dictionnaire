@@ -1,0 +1,1 @@
+lar[21922]=`<b>γη·λεχής, ής, ές</b>, qui couche sur la terre, CALL. <i>Del. 286</i>.<p><b>Étym</b>. γῆ, λέχος.`

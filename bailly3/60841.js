@@ -1,0 +1,1 @@
+lar[60841]=`<i>c</i>. ληρέω, HÉRACLITE ÉPH. <i>fr. 15</i> (PLUT. <i>M. 362a</i>) <i>pour</i> ληναΐζω.`

@@ -1,0 +1,1 @@
+lar[105964]=`<b>φιλό·νικος, ος, ον</b> <font color="purple">[ῐῑ]</font> qui aime à vaincre, ARSTT. <i>Rhet. 1, 6</i>.<p><b>Étym</b>. φ. νίκη.`

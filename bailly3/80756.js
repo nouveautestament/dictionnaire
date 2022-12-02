@@ -1,0 +1,1 @@
+lar[80756]=`<font color="purple">[ᾰῠ]</font> <i>adv</i>., largement, abondamment, A. TAT. ASTR. <i>Isag. in Arat. 44, 15 Maass</i>.<p>•<i> Cp</i>. -ώτερον, P. ÉG. <i>6, 53</i>.<p><b>Étym</b>. πλατυκός.`

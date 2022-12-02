@@ -1,0 +1,1 @@
+lar[29901]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> petite anguille, AMPHIS <i>et</i> EPHIPP. (ATH. <i>295f, 359b</i>).<p><b>Étym</b>. ἔγχελυς.`

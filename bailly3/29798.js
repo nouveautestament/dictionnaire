@@ -1,0 +1,1 @@
+lar[29798]=`<b>ἐγ·κυματίζω</b> (<i>part. ao. pass</i>. -ισθέντες) <font color="purple">[ῡᾰ]</font> ballotter sur les flots, NYSS. <i>1, 283d</i>.<p><b>Étym</b>. ἐν, κῦμα.`

@@ -1,0 +1,1 @@
+lar[102232]=`<b>ὑπερ·αγωνίζομαι</b> <font color="purple">[ᾰγ]</font> lutter pour, <i>gén</i>. APP. <i>Civ. 1, 96</i> ; JOS. <i>B.J. 2, 12, 7</i> ; τινι ὑπέρ τινος, THÉM. <i>37a</i>, avec qqn pour qqe ch.`

@@ -1,0 +1,1 @@
+lar[6793]=`<b>ἀνα·θηλέω-ῶ</b>, pousser <i>ou</i> fleurir de nouveau, IL. <i>1, 236</i> ; ANTH. <i>5, 264</i>.<p><b>Étym</b>. ἀνά, θάλλω.`

@@ -1,0 +1,1 @@
+lar[104307]=`<b>ὑστερ·αλγής, ής, ές</b>, qui éprouve <i>ou</i> cause des douleurs dans la matrice, HPC. <i>394</i>.<p><b>Étym</b>. ὑστέρα, ἄλγος.`

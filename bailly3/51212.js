@@ -1,0 +1,1 @@
+lar[51212]=`<b>ης (ἡ)</b> Kallirrhoè :<br><b>      1</b> <i>Océanide,</i> APD. <i>2, 5, 9, etc.</i><br><b>      2</b> <i>source à Athènes, près de l’Acropole,</i> THC. <i>2, 15, etc</i>.<p>➳ <i>Par nécess. pros</i>. Καλλιρόη, HH. <i>Cer. 419</i> ; HÉS. <i>Th. 288</i>.<p><b>Étym</b>. <i>cf</i>. καλλίρροος.`

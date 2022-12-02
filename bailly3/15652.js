@@ -1,0 +1,1 @@
+lar[15652]=`<b>ἀρχι·σιτοποιός, οῦ (ὁ)</b> <font color="purple">[ῐῑ]</font> premier intendant de la bouche du roi, SPT. <i>Gen. 40, 1, etc</i>.`

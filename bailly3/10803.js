@@ -1,0 +1,1 @@
+lar[10803]=`<b>ἀν·υφαίνω</b> <font color="purple">[ῠ]</font> tisser de nouveau, PLAT. <i>Phæd. 87d</i>.<p><b>Étym</b>. ἀνά, ὑ.`

@@ -1,0 +1,1 @@
+lar[95054]=`<b>συν·δανείζομαι</b> <font color="purple">[ᾰ]</font> emprunter avec <i>ou</i> en même temps, PLUT. <i>Eum. 13</i>.`

@@ -1,0 +1,1 @@
+lar[68301]=`<b>νεό·τυρος, ου (ὁ)</b> <font color="purple">[ῡ]</font> fromage frais, A. TR. <i>2 p. 726</i>.<p><b>Étym</b>. ν. τυρός.`

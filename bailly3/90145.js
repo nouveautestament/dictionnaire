@@ -1,0 +1,1 @@
+lar[90145]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ῐ]</font> <i>poét. c</i>. σιδήρεος, NIC. <i>Al. 51</i> ; MAN. <i>1, 313</i>.`

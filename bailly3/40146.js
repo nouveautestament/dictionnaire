@@ -1,0 +1,1 @@
+lar[40146]=`être passionné pour, <i>gén</i>. ESCHL. <i>Pr. 893</i>.<p><b>Étym</b>. ἐραστής.`

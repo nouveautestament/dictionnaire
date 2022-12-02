@@ -1,0 +1,1 @@
+lar[85651]=`<b>προσ·επερωτάω-ῶ</b>, demander en outre, ORIG.`

@@ -1,0 +1,1 @@
+lar[62752]=`<b>ου (ὁ)</b> <font color="purple">[δᾰ]</font> verrou, ARTÉM. <i>2, 10</i>.`

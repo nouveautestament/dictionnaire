@@ -1,0 +1,1 @@
+lar[71209]=`<i>adv</i>., avec la racine entière, SPT. <i>Esth. 3, 13</i>.<p><b>Étym</b>. ὁλόρριζος.`

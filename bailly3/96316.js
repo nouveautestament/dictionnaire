@@ -1,0 +1,1 @@
+lar[96316]=`<i>adv</i>., en ordre, d’une manière convenue, PLAT. <i>Ap. 23e</i>.<p><b>Étym</b>. συντάσσω.`

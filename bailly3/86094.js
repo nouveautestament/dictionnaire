@@ -1,0 +1,1 @@
+lar[86094]=`<b>προσ·λαγχάνω</b> <font color="darkgreen">(<i>ao.2</i> προσέλαχον, <i>pf</i>. προσείληχα)</font> intenter : δίκην, DÉM. <i>884, 26</i> ; PLUT. <i>Per. 36,</i> un procès.`

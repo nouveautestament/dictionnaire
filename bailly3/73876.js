@@ -1,0 +1,1 @@
+lar[73876]=`<b>όεσσα, όεν :<br>      1</b> situé sur une hauteur, IL. <i>22, 411</i> ; ORACL. (HDT. <i>5, 92, 2</i>).<br><b>      2</b> <i>fig</i>. grand, élevé, superbe, <i>ou sel. d’autres,</i> sourcilleux, <i>en parl. de la langue d’Eschyle,</i> ANTH. <i>7, 39</i>.<p><b>Étym</b>. ὀφρύς.`

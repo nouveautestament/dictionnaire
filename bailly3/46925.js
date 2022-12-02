@@ -1,0 +1,1 @@
+lar[46925]=`<b>α, ον</b>, qui provoque la chaleur, HPC. <i>416, 5</i>.<p><b>Étym</b>. θερμαίνω.`

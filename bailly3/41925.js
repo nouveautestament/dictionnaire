@@ -1,0 +1,1 @@
+lar[41925]=`<i>adv.</i> :<br><b>      1</b> avec honneur <i>ou</i> considération, MAN. <i>1, 102</i>.<br><b>      2</b> d’une façon remarquable, PLAT. <i>Hipp. ma. 287e</i>.<p><b>Étym</b>. εὔδοξος.`

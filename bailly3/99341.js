@@ -1,0 +1,1 @@
+lar[99341]=`<b>ου (ὁ)</b> = <i>lat</i>. Titianus, <i>n. d’h. rom</i>. LUC. <i>H. conscr. 21</i>.`

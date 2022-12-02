@@ -1,0 +1,1 @@
+lar[90088]=`<i>voc</i>. <b>α (ὁ)</b> <font color="purple">[ῐ]</font> Sibyrtas, <i>h</i>. THCR. <i>Idyl. 5, 5, 72, 74</i>.`

@@ -1,0 +1,1 @@
+lar[6386]=`<b>ἀμφι·τάπης, ητος (ὁ)</b> <font color="purple">[τᾰ]</font> tapis velu <i>ou</i> laineux des deux côtés, ALEX. <i>(Bkk. p. 83, 15</i>) ; DIPH. (POLL. <i>10, 38).</i><p><b>Étym</b>. ἀ. τάπης.`

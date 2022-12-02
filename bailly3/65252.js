@@ -1,0 +1,1 @@
+lar[65252]=`<b>ου (τὸ) :<br>      1</b> front, IL. <i>11, 95 ; 16, 739 ; d’où</i> bandeau sur le front, ligature au front, GAL. <i>18, 803</i>.<br><b>      2</b> <i>p. anal</i>. marge d’une feuille, bord d’une page, HDN GR. <i>Epim. pp. 2, 3 Boissonade</i> ; huile parfumée d’Égypte, ATH. <i>688</i> ; DIOSC. <i>1, 39</i>.<p><b>Étym</b>. μέτωπον.`

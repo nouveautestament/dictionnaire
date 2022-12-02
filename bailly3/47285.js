@@ -1,0 +1,1 @@
+lar[47285]=`<b>θηριό·δηγμα, ατος (τὸ)</b> morsure de bête sauvage <i>ou</i> venimeuse, DIOSC. <i>1, 27</i>.<p><b>Étym</b>. θ. δῆγμα.`

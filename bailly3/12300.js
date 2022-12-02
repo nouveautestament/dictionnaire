@@ -1,0 +1,1 @@
+lar[12300]=`<b>ἀπο·δικεῖν</b> <font color="purple">[ῐ]</font> <i>ao.2 <font color="darkgreen">(seul. ind. 3 sg</i>. ἀπέδικεν, ESCHL. <i>Ag. 1410 ; impér. 2 sg</i>. ἀπόδικε, EUR. <i>H.f. 1204)</font></i> jeter dehors, expulser, refouler.<p><b>Étym</b>. ἀπό, δικεῖν.`

@@ -1,0 +1,1 @@
+lar[63782]=`<b>μελάγ·χολος, ος, ον</b> enduit d’un fiel noir, SOPH. <i>Tr. 573</i>.<p><b>Étym</b>. μέλας, χολή.`

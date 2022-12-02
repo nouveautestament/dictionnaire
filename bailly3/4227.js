@@ -1,0 +1,1 @@
+lar[4227]=`<b>οῦ (ὁ)</b> Alexaménos, <i>h</i>. ARSTT. (ATH. <i>505b</i>).<p><b>Étym</b>. ἀλέξω.`

@@ -1,0 +1,1 @@
+lar[73436]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> qui a de longues oreilles, CALL. (EUST. <i>Il. p. 870, 6</i>) ; ANTH. <i>11, 130</i>.<br><b>      2</b> à une <i>ou</i> à plusieurs anses, SIM. (ATH. <i>498c</i>) ; ANTIM. <i>61 Kinkel</i>.<p><b>Étym</b>. οὖας.`

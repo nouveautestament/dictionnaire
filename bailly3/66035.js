@@ -1,0 +1,1 @@
+lar[66035]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> aversion pour le vin, STOB. <i>Ecl. 2, 182</i>.<p><b>Étym</b>. μίσοινος.`

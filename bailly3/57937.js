@@ -1,0 +1,1 @@
+lar[57937]=`<b>η, ον</b> <font color="purple">[ῐῑ]</font> fait <i>ou</i> préparé avec des lis, POL. <i>31, 4, 2</i>.<p><b>Étym</b>. κρίνον.`

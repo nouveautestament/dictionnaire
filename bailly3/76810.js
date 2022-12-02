@@ -1,0 +1,1 @@
+lar[76810]=`<b>παρ·ευδιάζομαι</b>, jouir d’une sérénité constante, POL. <i>4, 32, 5</i>.`

@@ -1,0 +1,1 @@
+lar[51976]=`<font color="purple">[ᾰῡ]</font> accommoder délicatement en civet <i>ou</i> en ragoût, ALEX. (ATH. <i>642d</i>) ; MÉN. (ATH. <i>172b</i>) ; <i>fig</i>. PLUT. <i>M. 55a</i>.<p><b>Étym</b>. καρύκη.`

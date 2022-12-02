@@ -1,0 +1,1 @@
+lar[38448]=`<b>ος, ον :<br>      1</b> mêlé, TIMON (DL. <i>9, 52</i>) ; NIC. <i>Th. 528 ; subst</i>. ὁ ἐπ. (<i>s.-e</i>. ὄχλος) SPT. <i>Num. 11, 4,</i> foule confuse, multitude ; <i>particul</i>. formé d’un mélange de, APP. <i>Civ. 5, 95</i>.<br><b>      2</b> commun à, <i>dat</i>. STR. <i>647</i>.<p><b>Étym</b>. ἐπιμίγνυμι.`

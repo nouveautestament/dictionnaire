@@ -1,0 +1,1 @@
+lar[27603]=`<b>ίδος (ἡ)</b> couteau de cuisine, ANAXIPP. (ATH. <i>169c</i>).<p><b>Étym</b>. δέρω.`

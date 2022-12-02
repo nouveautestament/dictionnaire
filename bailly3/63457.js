@@ -1,0 +1,1 @@
+lar[63457]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> élévation des sentiments, grandeur d’âme, HDT. <i>7, 136</i> ; PLAT. <i>Conv. 194b ;</i> ISOCR. <i>194a.</i><br><b>      2</b> <i>en mauv. part</i> : orgueil, fierté, HDT. <i>7, 24</i> ; ANT. <i>127, 21 ; au pl</i>. sentiments d’orgueil, ANTH. <i>5, 299</i>.<p><b>Étym</b>. μεγαλόφρων.`

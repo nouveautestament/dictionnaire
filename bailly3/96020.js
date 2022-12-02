@@ -1,0 +1,1 @@
+lar[96020]=`<b>εως (ἡ)</b> action de faire manœuvrer la cavalerie en masse, EL. TACT. <i>18, 5</i>.<p><b>Étym</b>. συνιππεύω.`

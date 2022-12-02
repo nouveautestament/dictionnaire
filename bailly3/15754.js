@@ -1,0 +1,1 @@
+lar[15754]=`<b>Ἀσβαμαῖον ὕδωρ (τὸ)</b> la fontaine d’Asbamæe, <i>en Cappadoce,</i> ARSTT. <i>Mir. 153</i>.`

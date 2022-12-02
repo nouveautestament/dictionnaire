@@ -1,0 +1,1 @@
+lar[52915]=`<b>κατ·ανθρακόω-ῶ</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> réduire en charbon, brûler, consumer, SOPH. <i>El. 58</i> ; EUR. <i>I.A. 1602</i>.<br><b>      2</b> brûler avec un pieu carbonisé, EUR. <i>Cycl. 663</i>.<p>➳ <i>Fut. moy</i>. -ώσομαι, ESCHL. <i>fr. 265</i>.`

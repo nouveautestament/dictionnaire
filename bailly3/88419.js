@@ -1,0 +1,1 @@
+lar[88419]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Rhèginos, <i>h</i>. ANTH. <i>App. 69</i>.<p><b>Étym</b>. <i>v</i>. Ῥηγῖνος.`

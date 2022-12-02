@@ -1,0 +1,1 @@
+lar[22477]=`<b>ος, ον</b>, de Gorgias, XÉN. <i>Conv. 2, 26</i> ; ATH. <i>504e ; etc</i>.<p><b>Étym</b>. Γοργίας.`

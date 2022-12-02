@@ -1,0 +1,1 @@
+lar[26687]=`<b>δί·ξοος, οος, οον</b>, à double veinure, <i>en parl. de certains bois,</i> TH. <i>H.P. 5, 1, 9</i>.<p><b>Étym</b>. δίς, ξέω.`

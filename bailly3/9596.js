@@ -1,0 +1,1 @@
+lar[9596]=`<b>ἀντ·εμπίπρημι</b> <font color="darkgreen">(<i>impf</i>. -ενεπίμπρην)</font> incendier en retour <i>ou</i> à son tour, HDT. <i>5, 102</i>.`

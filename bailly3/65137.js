@@ -1,0 +1,1 @@
+lar[65137]=`<b>μετεωρο·λέσχης, ου (ὁ)</b> qui disserte <i>ou</i> bavarde dans les nuages, PLAT. <i>Rsp. 489c ;</i> PLUT. <i>Nic. 23, etc</i>.<p><b>Étym</b>. μετέωρος, λέσχη.`

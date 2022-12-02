@@ -1,0 +1,1 @@
+lar[43545]=`<b>εὔ·σχιστος, ος, ον</b>, bien fendu <i>ou</i> facile à tendre, TH. <i>H.P. 5, 6, 3</i>.<p>➳ <i>Poét</i>. ἐΰσχιστος, ANTH. <i>6, 227</i>.<p><b>Étym</b>. εὖ, σχίζω.`

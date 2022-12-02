@@ -1,0 +1,1 @@
+lar[74579]=`<b>παλίν·νοστος, ος, ον</b> <font color="purple">[ᾰ]</font> qui revient encore une fois, NONN. <i>D. 6, 62</i>.<p><b>Étym</b>. π. νόστος ; <i>cf</i>. παλίνοστος.`

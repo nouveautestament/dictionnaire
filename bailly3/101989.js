@@ -1,0 +1,1 @@
+lar[101989]=`<b>ὑπ·απειλέω-ῶ</b> <font color="purple">[ῠᾰ]</font> menacer à mots couverts, <i>dat</i>. XÉN. <i>Hell. 4, 6, 3</i>.`

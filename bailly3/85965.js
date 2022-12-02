@@ -1,0 +1,1 @@
+lar[85965]=`<b>προσ·καταποντόω-ῶ</b>, plonger en outre dans la mer, DC. <i>42, 38</i>.`

@@ -1,0 +1,1 @@
+lar[63914]=`<b>μελάν·σπερμον, ου (τὸ)</b> <i>propr</i>. « à graines noires », <i>autre n. de la plante μελάνθιον,</i> DIOSC. <i>Par. 2, 53</i>.<p><b>Étym</b>. μ. σπέρμα.`

@@ -1,0 +1,1 @@
+lar[21754]=`<b>(ὁ)</b> Gérandas, <i>Spartiate,</i> PLUT. <i>Pel. 25</i>.`

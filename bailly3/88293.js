@@ -1,0 +1,1 @@
+lar[88293]=`<b>ή, όν</b>, de tailleur : ἡ ῥαπτική (<i>s.-e</i>. τέχνη) CHRYS. <i>9, 790e Migne,</i> l’art du tailleur.<p><b>Étym</b>. ῥάπτω.`

@@ -1,0 +1,1 @@
+lar[93245]=`<b>σύγ·καιρος, ος, ον</b>, qui vient à propos, opportun, ALCIPHR. <i>3, 16</i>.<p><b>Étym</b>. σ. καιρός.`

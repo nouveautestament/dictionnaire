@@ -1,0 +1,1 @@
+lar[60113]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> <i>c</i>. λειμών, EUR. <i>Ph. 1587, Bacch. 867</i> ; ANTH. <i>9, 788</i>.<br><b>      2</b> jardin, PHÉRÉCR. (ATH. <i>685b</i>).`

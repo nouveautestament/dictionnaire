@@ -1,0 +1,1 @@
+lar[109802]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui ressemble à un décret, ARSTT. <i>Nic. 5, 7, 1</i>.<p><b>Étym</b>. ψ. -ωδης.`

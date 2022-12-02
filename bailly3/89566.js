@@ -1,0 +1,1 @@
+lar[89566]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> sorte de pierre précieuse, DIOSC. <i>Noth. 2, 209</i>.`

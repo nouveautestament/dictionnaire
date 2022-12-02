@@ -1,0 +1,1 @@
+lar[8636]=`<b>ᾶς (ἡ)</b> <font color="purple">[ᾰν]</font> cousine germaine, XÉN. <i>Mem. 2, 7, 2</i> ; ISOCR. <i>386a ;</i> DH. <i>1, 79</i> ; PLUT. <i>Sol. 1</i>.<p><b>Étym</b>. <i>fém. de</i> ἀνεψιός.`

@@ -1,0 +1,1 @@
+lar[79153]=`<b>περι·ποίκιλος, ος, ον</b> <font color="purple">[ῐ]</font> tacheté <i>ou</i> bariolé tout autour, XÉN. <i>Cyn. 5, 23</i>.<p><b>Étym</b>. π. ποικίλος.`

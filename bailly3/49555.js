@@ -1,0 +1,1 @@
+lar[49555]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> liberté de parler égale pour tous, <i>d’où en gén</i>. égalité de droits dans un état démocratique (<i>cf</i>. ἰσονομία <i>et</i> ἐλευθερία) HDT. <i>5, 78</i> ; XÉN. <i>Cyr. 1, 3, 10</i> ; DÉM. <i>555, 16, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. ἰσηγορέω.`

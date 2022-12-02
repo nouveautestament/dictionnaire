@@ -1,0 +1,1 @@
+lar[28841]=`<b>δυσ·πόριστος, ος, ον</b>, qu’on se procure difficilement, DH. <i>1, 37</i> ; PLUT. <i>M. 156f ;</i> τὸ δ. PLUT. <i>Sol. 23,</i> le manque.<p><b>Étym</b>. δ. πορίζω.`

@@ -1,0 +1,1 @@
+lar[82404]=`<b>πολύ·στομος, ος, ον :<br>      1</b> à plusieurs bouches, <i>càd</i>. à plusieurs branches (veine), HPC. <i>277, 56 ; ou</i> embouchures, <i>en parl. du Nil,</i> NIC. <i>Th. 175</i> ; à plusieurs ouvertures, ANTYLL. (ORIB. <i>3, 631 B.-Dar</i>.).<br><b>      2</b> qui parle beaucoup, NONN. <i>D. 26, 275</i>.<p><b>Étym</b>. π. στόμα.`

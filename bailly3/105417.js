@@ -1,0 +1,1 @@
+lar[105417]=`<b>φιλαγρέω-ῶ</b> <font color="purple">[ῐ]</font> aimer la campagne, EPIC. (DL. <i>10, 120).</i><p><b>Étym</b>. φίλαγρος.`

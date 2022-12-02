@@ -1,0 +1,1 @@
+lar[69972]=`<b>ας (ἡ) :<br>      1</b> étrille, <i>particul</i>. pour le bain, ARTÉM. <i>1, 64</i> ; LUC. <i>Lex. 5</i>.<br><b>      2</b> <i>autre n. de l’instrument de chirurgie</i> ὠτεγχύτης, GAL. κ. τοπ. <i>l. 3, p. 88, 10</i> ; ARCHIG. <i>p. 190, 51, etc</i>.<p><b>Étym</b>. ξύω.`

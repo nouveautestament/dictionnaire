@@ -1,0 +1,1 @@
+lar[72332]=`<b>ας (ἡ)</b> <font color="purple">[ῑτ]</font> combat d’hoplites, PLAT. <i>Leg. 706c</i>.<p><b>Étym</b>. ὁπλιτεύω.`

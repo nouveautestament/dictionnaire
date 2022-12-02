@@ -1,0 +1,1 @@
+lar[5329]=`<b>ἀμβλυ·γώνιος, ος, ον</b> <font color="purple">[ῠ]</font> à angles obtus, POL. <i>34, 6</i>.<p><b>Étym</b>. ἀμβλύς, γωνία.`

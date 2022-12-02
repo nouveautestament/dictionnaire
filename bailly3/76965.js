@@ -1,0 +1,1 @@
+lar[76965]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> correspondance de sons <i>ou</i> de deux membres de phrase, CRAT. JUN. (DL. <i>8, 37).</i><p><b>Étym</b>. παρισόω.`

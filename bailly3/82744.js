@@ -1,0 +1,1 @@
+lar[82744]=`<b>ποππυλιάσδω</b> <font color="purple">[ῠ]</font> <i>c</i>. ποππύζω THCR. <i>Idyl. 5, 89</i>.<p><b>Étym</b>. <i>dor. c</i>. *ποππυλιάζω.`

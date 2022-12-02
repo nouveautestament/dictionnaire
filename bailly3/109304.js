@@ -1,0 +1,1 @@
+lar[109304]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> atelier de fondeur d’or, <i>càd</i>. d’orfèvre, DÉM. <i>521, 27 (témoign</i>.) ; POL. <i>26, 10, 3</i>.<p><b>Étym</b>. χρυσοχοέω.`

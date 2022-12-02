@@ -1,0 +1,1 @@
+lar[7779]=`<b>ἀνα·τοπόομαι-οῦμαι</b>, changer de lieu, PHILSTR. <i>V. Ap. 1, 32 dout</i>.`

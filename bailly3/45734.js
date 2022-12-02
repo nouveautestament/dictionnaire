@@ -1,0 +1,1 @@
+lar[45734]=`<i>adv.</i> :<br><b>      1</b> vers le rivage, OD. <i>18, 84</i>.<br><b>      2</b> vers la plaine, <i>p. opp. aux montagnes,</i> A.RH. <i>2, 978</i>.<p><b>Étym</b>. ἤπειρος, -δε.`

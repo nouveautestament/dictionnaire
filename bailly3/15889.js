@@ -1,0 +1,1 @@
+lar[15889]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Ascalon, JOS.`

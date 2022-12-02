@@ -1,0 +1,1 @@
+lar[39616]=`<b>ης (ἡ)</b> application de l’esprit, <i>d’où</i> :<br><b>      1</b> prudence, sagesse, OD. <i>5, 437</i> ; A.RH. <i>3, 659 ; souv. au pl</i>. conseils de la sagesse, OD. <i>19, 22</i>.<br><b>      2</b> examen, observation, ARAT. <i>762</i>.<p>➳ <i>Mot épq. ; en prose,</i> JOS. <i>A.J. 15, 11, 3</i> ; PHIL. <i>352, 532</i>.<p><b>Étym</b>. ἐπίφρων.`

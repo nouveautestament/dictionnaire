@@ -1,0 +1,1 @@
+lar[18085]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> suppliant, ESCHL. <i>Suppl. 241</i>.<br><b>      2</b> protecteur des suppliants (Zeus), ESCHL. <i>Suppl. 1</i>.<p><b>Étym</b>. ἀφικνέομαι.`

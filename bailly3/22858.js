@@ -1,0 +1,1 @@
+lar[22858]=`<b>γυρο·δρόμος, ος, ον</b> <font color="purple">[ῡ]</font> qui court en tournant autour, ANTH. <i>9, 20</i>.<p><b>Étym</b>. γῦρος, δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[20699]=`<b>ου (ὁ)</b> Brakhyllès, <i>h</i>. DÉM., POL.`

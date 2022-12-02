@@ -1,0 +1,1 @@
+lar[104275]=`<i>inf. ao. pass. de</i> ὕω.`

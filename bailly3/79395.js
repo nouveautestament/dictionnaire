@@ -1,0 +1,1 @@
+lar[79395]=`<b>περι·στήθιος, ος, ον</b>, qui entoure la poitrine : τὸ περιστήθιον, le pectoral du grand prêtre juif, SPT. <i>Ex. 28, 4</i>.<p><b>Étym</b>. π. στῆθος.`

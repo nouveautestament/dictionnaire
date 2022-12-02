@@ -1,0 +1,1 @@
+lar[75812]=`<b>παρα·κρύπτω</b>, cacher auprès, DS. <i>18, 19</i>.<br><b><i>Moy.</i></b> se cacher, DL. <i>2, 131</i>.`

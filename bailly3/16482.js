@@ -1,0 +1,1 @@
+lar[16482]=`<b>ἀ·σύνακτος, ος, ον :<br>      1</b> qui ne forme pas un tout, incohérent, EPICT. <i>Ench. 44</i> ; SEXT.<br><b>      2</b> non admis dans la communauté, excommunié, NAZ.<p><b>Étym</b>. ἀ, συνάγω.`

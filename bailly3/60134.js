@@ -1,0 +1,1 @@
+lar[60134]=`<b>εως (ἡ)</b> action de rendre lisse, de polir, HLD. CHIR. (CHIR. <i>p. 97, 32).</i><p><b>Étym</b>. λειοποιέω.`

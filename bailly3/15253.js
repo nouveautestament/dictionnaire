@@ -1,0 +1,1 @@
+lar[15253]=`<b>ης (ἡ)</b> <font color="purple">[τᾰ]</font> Artakiè :<br><b>      1</b> <i>source du pays des Lestrygons,</i> OD. <i>10, 108</i>.<br><b>      2</b> <i>source près de Cyzique,</i> A.RH. <i>1, 957</i>.`

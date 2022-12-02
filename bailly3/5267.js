@@ -1,0 +1,1 @@
+lar[5267]=`<b>ἀ·μαρτύρητος, ος, ον</b> <font color="purple">[ῠ]</font> qui n’a pas besoin d’être attesté, EUR. <i>H.f. 290</i>.<p><b>Étym</b>. ἀ, μαρτυρέω.`

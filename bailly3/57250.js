@@ -1,0 +1,1 @@
+lar[57250]=`<b>ατος (τὸ)</b> parure, ornement, XÉN. <i>Cyr. 7, 3, 7</i> ; PLAT. <i>Leg. 956a, etc</i>.<p><b>Étym</b>. κοσμέω.`

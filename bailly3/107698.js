@@ -1,0 +1,1 @@
+lar[107698]=`<b>χαλκο·τόρευτος, ος, ον</b>, tourné <i>ou</i> ciselé en airain, ORPH. <i>H. 16, 2</i>.<p><b>Étym</b>. χ. τορεύω.`

@@ -1,0 +1,1 @@
+lar[72345]=`<b>ὁπλο·μανέω-ῶ :<br>      1</b> avoir la passion des armes <i>ou</i> de la guerre, ANTH. <i>9, 320</i> ; SYN. <i>249a.</i><br><b>      2</b> combattre avec fureur, ATH. <i>234c</i>.<p><b>Étym</b>. ὁπλ. μαίνομαι.`

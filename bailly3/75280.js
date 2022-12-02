@@ -1,0 +1,1 @@
+lar[75280]=`<b>ας (ἡ)</b> commerce de denrées de toute sorte, ARCHIPP. (<i>Com. fr. 2, 723).</i><p><b>Étym</b>. παντοπώλης.`

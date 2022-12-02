@@ -1,0 +1,1 @@
+lar[83963]=`<b>προ·διεξοδεύω</b>, parcourir d’avance par la pensée, méditer d’avance, SEXT. <i>M. 7, 188</i>.`

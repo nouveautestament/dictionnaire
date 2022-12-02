@@ -1,0 +1,1 @@
+lar[65718]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> état d’un corps composé de petites parties, ARSTT. <i>An. 1, 2, 15</i>.<p><b>Étym</b>. μικρομερής.`

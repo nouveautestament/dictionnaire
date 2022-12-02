@@ -1,0 +1,1 @@
+lar[36408]=`<b>ἐπ·αιδέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -αιδεσθήσομαι, <i>ao</i>. ἐπῃδέσθην, <i>pf. inus</i>.)</font> avoir honte, rougir de, <i>dat</i>. BABR. <i>43, 14 ; avec l’inf</i>. EUR. <i>I.A. 900</i> ; ARR. <i>An. 4, 7, 7 ; avec</i> εἰ, SOPH. <i>Ant. 510</i> ; ἐπ. τινα, PLAT. <i>Leg. 921a</i>, éprouver un sentiment de respect devant qqn.`

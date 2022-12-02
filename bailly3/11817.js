@@ -1,0 +1,1 @@
+lar[11817]=`<b>έως</b>, <i>épq</i>. <b>-ῆος (ὁ)</b> <font color="purple">[ᾰ]</font> qui arrête, IL. <i>8, 361</i>.<p><b>Étym</b>. ἀπερωέω.`

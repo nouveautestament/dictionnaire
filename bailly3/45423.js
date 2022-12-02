@@ -1,0 +1,1 @@
+lar[45423]=`<b>ἡμί·εκτον, ου (τὸ) :<br>      1</b> <i>c</i>. ἡμιεκτέον DÉM. <i>918, 11</i> ; TH. <i>H.P. 2, 6, 2</i> ; PLUT. <i>Syll. 13</i>.<br><b>      2</b> somme de huit oboles, CRATÈS COM. (POLL. <i>9, 62</i>) ; CIA. <i>3, 98 (époque impériale</i>) ; <i>v. Meisterh. p. 100, 17</i>.<p><b>Étym</b>. ἡμι-, ἕκτος.`

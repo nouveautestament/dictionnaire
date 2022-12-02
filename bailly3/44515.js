@@ -1,0 +1,1 @@
+lar[44515]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, envieux, jaloux de, <i>gén</i>. OD. <i>5, 118</i> ; CALL. <i>Dian. 30</i> ; MUS. <i>36, 37</i> ; OPP. <i>C. 3, 191</i>.<p><b>Étym</b>. ζῆλος.`

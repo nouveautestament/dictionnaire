@@ -1,0 +1,1 @@
+lar[42522]=`<b>εὐ·κρόκαλος, ος, ον</b> <font color="purple">[ᾰ]</font> couvert de sable <i>ou</i> de coquillages, NONN. <i>D. 15, 95</i>.<p><b>Étym</b>. εὖ, κροκάλη.`

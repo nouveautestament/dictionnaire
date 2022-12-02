@@ -1,0 +1,1 @@
+lar[53921]=`<b>κατ·επιτηδεύω</b>, travailler avec recherche, DH. <i>Thuc. 42</i>.`

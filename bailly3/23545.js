@@ -1,0 +1,1 @@
+lar[23545]=`<b>εσσα, εν</b> <font color="purple">[ᾰ]</font> craintif, ANTH. <i>9, 244</i>.<p><b>Étym</b>. δεῖμα.`

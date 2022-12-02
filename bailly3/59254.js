@@ -1,0 +1,1 @@
+lar[59254]=`<b>ῶνος (ὁ)</b> bois pour rames, TH. <i>H.P. 5, 1, 7</i>.<p><b>Étym</b>. κώπη.`

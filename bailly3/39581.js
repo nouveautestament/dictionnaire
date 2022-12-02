@@ -1,0 +1,1 @@
+lar[39581]=`<b>ής, ές</b>, enflammé, <i>càd</i>. d’un rouge de feu à la surface, ARSTT. <i>Physiogn. 6, 34</i>.<p><b>Étym</b>. ἐπιφλέγω.`

@@ -1,0 +1,1 @@
+lar[33462]=`<b>ἐμ·πίτνω</b>, <i>mieux que</i> <b>ἐμ·πιτνέω</b> <i>(seul. prés.) c</i>. ἐμπίπτω, ESCHL. <i>Ag. 1468, Suppl. 120</i> ; SOPH. <i>Aj. 58</i>.`

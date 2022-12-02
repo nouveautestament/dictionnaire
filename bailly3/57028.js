@@ -1,0 +1,1 @@
+lar[57028]=`<b>ου (ὁ)</b> = <i>lat</i>. Corvīnus, <i>n. d’h. rom</i>. PLUT. <i>Mar. 28</i>.`

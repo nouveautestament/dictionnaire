@@ -1,0 +1,1 @@
+lar[74958]=`jouer de la pandore, EUPHOR. <i>Hel. 32</i>.<p><b>Étym</b>. πανδοῦρα.`

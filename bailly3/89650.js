@@ -1,0 +1,1 @@
+lar[89650]=`<b>ῶ (ὁ)</b> Séthôs, <i>roi d’Égypte,</i> HDT. <i>2, 141</i>.`

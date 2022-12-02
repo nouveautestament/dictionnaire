@@ -1,0 +1,1 @@
+lar[29486]=`<b>ἐγ·κανάσσω</b> <font color="purple">[κᾰ]</font> (<i>seul. ao</i>.) verser avec bruit, EUR. <i>Cycl. 152, conj.</i> ; AR. <i>Eq. 105 (impér</i>. ἐγκάναξον) ; ALCIPHR. <i>3, 36, 3 (part</i>. -άξας).<p><b>Étym</b>. ἐν, κ.`

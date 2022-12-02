@@ -1,0 +1,1 @@
+lar[24213]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire de Dèmètrias, <i>en Thessalie,</i> POL. <i>5, 99, 3</i>.<p><b>Étym</b>. Δημητριάς.`

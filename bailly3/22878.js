@@ -1,0 +1,1 @@
+lar[22878]=`<i>seul. voc</i>. <b>-υ (ὁ)</b> Gôbrys, <i>h</i>. ANTH. <i>10, 18</i>.`

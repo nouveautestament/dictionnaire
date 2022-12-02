@@ -1,0 +1,1 @@
+lar[43057]=`<b>ας (ἡ)</b> agilité <i>ou</i> force des pieds, XÉN. <i>Eq. 1, 3</i>.<p><b>Étym</b>. εὔπους.`

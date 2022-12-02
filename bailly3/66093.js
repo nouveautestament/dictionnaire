@@ -1,0 +1,1 @@
+lar[66093]=`<b>υος (τὸ) :<br>      1</b> terre vitriolique, couperose jaune, HPC. <i>635, 33</i> ; DIOSC. <i>5, 117, etc.</i><br><b>      2</b> sorte de truffe qu’on trouvait à Cyrène, TH. <i>H.P. 1, 6, 13</i>.`

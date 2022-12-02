@@ -1,0 +1,1 @@
+lar[106606]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> le dieu agité <i>ou</i> vagabond, <i>ép. de Bacchus,</i> ANTH. <i>9, 524</i>.<p><b>Étym</b>. φοιτάω.`

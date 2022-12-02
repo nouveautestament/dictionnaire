@@ -1,0 +1,1 @@
+lar[54455]=`<b>κεδρ·ελάτη, ης (ἡ)</b> le grand cèdre (<i>propr</i>. cèdre-sapin) PLIN. <i>H.N. 13, 11 ; 24, 11</i>.<p><b>Étym</b>. κέδρος, ἐλάτη.`

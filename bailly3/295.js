@@ -1,0 +1,1 @@
+lar[295]=`<b>ἀ·γάλαξ, ακτος (ὁ, ἡ)</b> <font color="purple">[ᾰγᾰ]</font> sans lait, CALL. <i>Ap. 52</i>.<p><b>Étym</b>. ἀ, γάλα.`

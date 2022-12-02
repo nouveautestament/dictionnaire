@@ -1,0 +1,1 @@
+lar[27807]=`<b>δρακοντο·έθειρα, ας</b> <font color="purple">[ᾰκ]</font> <i>adj. f</i>. à la chevelure entrelacée de serpents, ORPH. <i>Lith. 536</i>.<p><b>Étym</b>. δράκων, ἔθειρα.`

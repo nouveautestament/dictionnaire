@@ -1,0 +1,1 @@
+lar[17311]=`<b>ονος (ὁ) :<br>      1</b> Ausôn, <i>h</i>. LYC.<br><b>      2</b> <i>adj. m</i>. d’Ausonie, DH. <i>etc</i>.`

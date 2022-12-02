@@ -1,0 +1,1 @@
+lar[21271]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> sérénité, <i>c</i>. γαλήνη, SEXT. <i>P. 1, 10 ; postér. titre de respect</i> : (Votre) Sérénité, BAS. <i>4, 345c Migne</i>.<p><b>Étym</b>. γαληνός.`

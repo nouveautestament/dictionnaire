@@ -1,0 +1,1 @@
+lar[63310]=`<b>μεγαλ·αύχην, ενος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui dresse le cou, orgueilleux, OLYMPIOD. (PHOT. <i>Bibl. 59, 6).</i><p><b>Étym</b>. μ. αὐχήν.`

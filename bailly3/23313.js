@@ -1,0 +1,1 @@
+lar[23313]=`<b>δασύ·μαλλος, ος, ον</b>, à la laine touffue, au poil touffu (bélier, OD. <i>9, 425</i> ; peau de chèvre, EUR. <i>Cycl. 360).</i><p><b>Étym</b>. δ. μαλλός.`

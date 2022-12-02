@@ -1,0 +1,1 @@
+lar[89754]=`<b>σελινίτης οἶνος (ὁ)</b> <font color="purple">[ῑῑ]</font> vin aromatisé de persil, DIOSC. <i>Noth. 5, 74</i> ; GEOP. <i>8, 16</i>.<p><b>Étym</b>. σέλινον.`

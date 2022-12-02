@@ -1,0 +1,1 @@
+lar[47991]=`<b>θυο·σκόπος, ου (ὁ)</b> qui examine les entrailles de la victime, devin, EUR. <i>Rhes. 68</i> vulg.<p><b>Étym</b>. θύος, σκοπέω.`

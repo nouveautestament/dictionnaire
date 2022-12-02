@@ -1,0 +1,1 @@
+lar[44223]=`<b>ἐχέ·τρωσις, εως (ἡ)</b> bryoine <i>ou</i> vigne-blanche, <i>plante,</i> HPC. <i>574, 52</i>.<p><b>Étym</b>. ἔχω, τρῶσις.`

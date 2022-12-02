@@ -1,0 +1,1 @@
+lar[34563]=`<b>οῦ (ὁ)</b> celui qui fait asseoir sur un trône, NAZ. <i>3, 1156, 1164 Migne</i>.<p><b>Étym</b>. ἐνθρονίζω.`

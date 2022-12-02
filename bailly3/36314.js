@@ -1,0 +1,1 @@
+lar[36314]=`<b>ου</b>, <i>adj. m.</i> :<br><b>      1</b> qui repousse : ἐξ. ἄνεμος, HDT. <i>2, 113, etc</i>. vent contraire et violent.<br><b>      2</b> <i>p. suite,</i> exterminateur, <i>ép. d’Arès,</i> EUR. <i>Rhes. 322</i>.<p><b>Étym</b>. ἐξωθέω.`

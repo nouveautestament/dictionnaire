@@ -1,0 +1,1 @@
+lar[50102]=`<b>ἰχνο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> esquisse, ébauche de dessin, VITR. <i>1, 2, 2</i>.<p><b>Étym</b>. ἴ. γράφω.`

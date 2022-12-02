@@ -1,0 +1,1 @@
+lar[107943]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de balance inventée par Archimède, SIMPL. <i>Arstt. Phys. p. 253</i>.`

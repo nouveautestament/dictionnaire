@@ -1,0 +1,1 @@
+lar[54369]=`<i>att. c</i>. καγχάζω, AR. <i>Eccl. 849, etc</i>.<p>➳ <i>Fut. dor</i>. -αξῶ, THCR. <i>Idyl. 5, 162</i>.<p><b>Étym</b>. <i>indo-europ</i>. *kha kha « ha, ha ! » ; <i>verbe expressif de caractère onomatopéique à redoubl. ; cf. lat</i>. cachinnus.`

@@ -1,0 +1,1 @@
+lar[64535]=`<b>μεσό·λευκος, ος, ον</b>, blanc au milieu, mêlé de blanc, XÉN. <i>Cyr. 8, 3, 14</i> ; EPHIPP. HIST. (ATH. <i>537e</i>).<p><b>Étym</b>. μέσος, λευκός.`

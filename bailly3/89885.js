@@ -1,0 +1,1 @@
+lar[89885]=`<b>ου (τὸ)</b> Sésindion, <i>v. de l’Inde,</i> NONN. <i>D. 26, 55</i>.`

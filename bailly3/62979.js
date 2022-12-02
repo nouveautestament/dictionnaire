@@ -1,0 +1,1 @@
+lar[62979]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρο]</font><br><b>      1</b> marbre, CALL. <i>Ap. 24 dout.</i><br><b>      2</b> excroissance au pied de l’âne, HIPPIATR.`

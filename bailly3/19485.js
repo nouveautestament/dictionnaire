@@ -1,0 +1,1 @@
+lar[19485]=`<b>(οἱ)</b> les Belges, <i>pple gaulois,</i> STR. PLUT. <i>etc</i>.`

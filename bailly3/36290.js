@@ -1,0 +1,1 @@
+lar[36290]=`<b>ἐξ·υψόω-ῶ</b>, élever, exalter, SPT. <i>Sir. 1, 30 ; Dan. 3, 51</i>.`

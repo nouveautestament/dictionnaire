@@ -1,0 +1,1 @@
+lar[99751]=`<i>crase att. et poét. p</i>. τὸ ἐν μέσῳ.<p><b>Étym</b>. <i>v</i>. μέσος.`

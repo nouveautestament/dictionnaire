@@ -1,0 +1,1 @@
+lar[732]=`<b>ἀγλα·ώψ, ῶπος (ὁ, ἡ)</b> à la flamme brillante (torche) SOPH. <i>O.R. 214</i>.<p><b>Étym</b>. ἀ. ὤψ.`

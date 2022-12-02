@@ -1,0 +1,1 @@
+lar[26743]=`<b>δι·οϊστεύω</b> (<i>seul. fut. et ao</i>.) lancer un trait à travers, <i>gén</i>. OD. <i>19, 578, etc. ; abs</i>. percer d’un trait, OD. <i>12, 102</i>.<p>➳ <i>Ao. opt. 2 sg</i>. διοϊστεύσειας, OD. <i>12, 102</i>.`

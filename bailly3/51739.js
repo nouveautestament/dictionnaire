@@ -1,0 +1,1 @@
+lar[51739]=`<i>adv</i>., en ce qui concerne le cœur, SEXT. <i>23</i> ; GAL. <i>2, 21</i>.`

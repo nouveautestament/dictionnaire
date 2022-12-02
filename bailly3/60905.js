@@ -1,0 +1,1 @@
+lar[60905]=`<b>ΐδος</b> <font color="purple">[ῐᾰῐδ]</font> <i>adj. f</i>. du Liban, NONN. <i>D. 32, 9 ; 41, 149, etc</i>.<p><b>Étym</b>. Λίβανος.`

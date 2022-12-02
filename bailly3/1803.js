@@ -1,0 +1,1 @@
+lar[1803]=`<b>ἀερο·πόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui s’avance à travers les airs, PLAT. <i>Tim. 40a</i>.<p><b>Étym</b>. ἀήρ, πόρος.`

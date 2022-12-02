@@ -1,0 +1,1 @@
+lar[15149]=`<b>ἀρρητοποιέω-ῶ</b>, commettre des actes infâmes, ARTÉM. <i>121 Reiff</i>.<p><b>Étym</b>. ἀρρητοποιός.`

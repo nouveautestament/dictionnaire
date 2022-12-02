@@ -1,0 +1,1 @@
+lar[42678]=`<b>εὐ·μετάθετος, ος, ον :<br>      1</b> facile à changer : πρὸς ἔλεον, PLUT. <i>M. 799c</i>, facile à amener à la pitié.<br><b>      2</b> changeant, inconstant, PLUT. <i>Dio. 53</i>.<p><b>Étym</b>. εὖ, μετατίθημι.`

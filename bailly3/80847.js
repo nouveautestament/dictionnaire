@@ -1,0 +1,1 @@
+lar[80847]=`<b>πλειστό·μβροτος, ος, ον</b>, fréquenté par beaucoup de mortels, très fréquenté, PD. <i>O. 6, 116</i>.<p><b>Étym</b>. πλ. βροτός.`

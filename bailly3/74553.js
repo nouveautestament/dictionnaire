@@ -1,0 +1,1 @@
+lar[74553]=`<b>παλίμ·φοιτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui revient sur ses pas, MAX. <i>π. κατ. 332, 560</i>.<p><b>Étym</b>. π. φοιτάω.`

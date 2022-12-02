@@ -1,0 +1,1 @@
+lar[49788]=`<b>ἰσοχρονέω-ῶ</b> <font color="purple">[ῑ̆]</font><br><b>      1</b> avoir une égale durée, TH. <i>C.P. 4, 11, 9</i> ; LUC. <i>Syr. 3</i>.<br><b>      2</b> avoir le même nombre de temps, DYSC. <i>Synt. 257, 272, etc</i>.<p><b>Étym</b>. ἰσόχρονος.`

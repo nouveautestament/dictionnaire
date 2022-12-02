@@ -1,0 +1,1 @@
+lar[88949]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> protecteur, OD. <i>17, 187, 223</i> ; OPP. <i>C. 3, 13</i> ; ANTH. <i>5, 217</i>.<p><b>Étym</b>. ῥύομαι.`

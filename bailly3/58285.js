@@ -1,0 +1,1 @@
+lar[58285]=`<b>α, ον</b>, <i>vb. de</i> κτάομαι, PLAT. <i>Rsp. 742, etc. ; au neutre,</i> PLAT. <i>Rsp. 373a, 1 Alc. 134c</i>.`

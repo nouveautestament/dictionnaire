@@ -1,0 +1,1 @@
+lar[68304]=`<b>ας (ἡ)</b> renouvellement, restauration, CHRYS. <i>1, 935</i>.<p><b>Étym</b>. νεουργός.`

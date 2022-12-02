@@ -1,0 +1,1 @@
+lar[9349]=`<b>ἀν·οτοτύζω</b> <font color="darkgreen">(<i>ao</i>. ἀνωτότυξα)</font> éclater en sanglots, ESCHL. <i>Ag. 1074</i> ; EUR. <i>Hel. 371</i>.<p><b>Étym</b>. ἀνά, ὀτοτοῖ.`

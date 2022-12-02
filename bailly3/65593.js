@@ -1,0 +1,1 @@
+lar[65593]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec <i>ou</i> selon l’art du mécanicien <i>ou</i> de l’ingénieur, DS. <i>18, 27</i>.`

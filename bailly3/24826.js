@@ -1,0 +1,1 @@
+lar[24826]=`<b>δια·κορκορυγέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. ao. 3 sg</i>. διεκορκορύγησε) faire crépiter : τὴν γαστέρα, AR. <i>Nub. 387</i>, l’estomac <i>ou</i> le ventre.`

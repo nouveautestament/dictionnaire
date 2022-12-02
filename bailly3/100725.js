@@ -1,0 +1,1 @@
+lar[100725]=`<i>ou</i> <b>τροῦλα, ης (ἡ)</b> = <i>lat</i>. trulla :<br><b>      1</b> truelle, NICOL. MYREPS. <i>9, 70</i>.<br><b>      2</b> <i>sorte de mesure,</i> OLYMPIOD. (PHOT. <i>Bibl. p. 60, 32</i>).`

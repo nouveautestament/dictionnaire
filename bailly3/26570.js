@@ -1,0 +1,1 @@
+lar[26570]=`<b>ητος (ἡ)</b> forme fourchue, HPC. <i>411, 5</i>.<p><b>Étym</b>. δίκραιος.`

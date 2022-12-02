@@ -1,0 +1,1 @@
+lar[6249]=`<b>ἀμφί·μαλλος, ος, ον</b>, laineux des deux côtés <i>ou</i> qui enveloppe de laine, EL. <i>V.H. 3, 40</i>.<p><b>Étym</b>. ἀ. μαλλός.`

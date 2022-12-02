@@ -1,0 +1,1 @@
+lar[109873]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> perroquet, CALLIX. (ATH. <i>387d</i>) ; PLUT. <i>M. 972f ;</i> EL. <i>N.A. 6, 19 ; 13, 18</i>.`

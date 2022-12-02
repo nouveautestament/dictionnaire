@@ -1,0 +1,1 @@
+lar[60471]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> pelure d’oignon, THPP. COM. <i>2, 806</i> ; PLUT. <i>M. 684b</i>.<p><b>Étym</b>. λέπω.`

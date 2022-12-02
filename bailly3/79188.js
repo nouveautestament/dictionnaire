@@ -1,0 +1,1 @@
+lar[79188]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> enlacement, EUR. <i>Suppl. 815 au plur. ; fig</i>. EUR. <i>Ion 1516 au plur.</i><br><b>      2</b> enceinte, pourtour, EUR. <i>Ph. 1357</i> ; AR. <i>Av. 1241, etc</i>.<p><b>Étym</b>. περιπτύσσω.`

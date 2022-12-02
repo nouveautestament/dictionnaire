@@ -1,0 +1,1 @@
+lar[46632]=`<b>θεο·διφής, ής, ές</b> <font color="purple">[ῑ]</font> qui cherche la divinité, SYN. <i>340b</i>.<p><b>Étym</b>. θ. διφάω.`

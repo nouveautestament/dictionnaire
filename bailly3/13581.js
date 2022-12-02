@@ -1,0 +1,1 @@
+lar[13581]=`<b>εως (ἡ)</b> enfantement, DIOSC. <i>5, 153</i> ; SEXT. <i>Astr. 53, 65, etc</i>.<p><b>Étym</b>. ἀποτίκτω.`

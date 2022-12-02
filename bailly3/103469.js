@@ -1,0 +1,1 @@
+lar[103469]=`<b>ὑπο·λήγω</b>, cesser peu à peu, HPC. <i>Epid. 1, 958</i> ; EL. <i>V.H. 14, 29</i> ; τινός, EL. <i>N.A. 12, 44,</i> discontinuer qqe ch.`

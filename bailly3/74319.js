@@ -1,0 +1,1 @@
+lar[74319]=`<b>παιδο·τρόφος, ος, ον</b>, qui nourrit <i>ou</i> élève des enfants, SIM. <i>fr. 14</i> ; EUR. <i>H.f. 902 ; en parl. de la branche d’olivier qu’on plaçait à la porte de la maison d’un enfant nouveau-né,</i> SOPH. <i>O.C. 701</i>.<p><b>Étym</b>. π. τρέφω.`

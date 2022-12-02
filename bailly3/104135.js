@@ -1,0 +1,1 @@
+lar[104135]=`<b>ὑπο·φωνέω-ῶ :<br>      1</b> répondre en criant, PLUT. <i>Pomp. 25</i>.<br><b>      2</b> exciter par ses cris, <i>dat</i>. NYSS.<br><b>      3</b> crier doucement, murmurer, gazouiller, MOSCH. <i>3, 49</i>.`

@@ -1,0 +1,1 @@
+lar[2774]=`<b>αἰολό·χρως, ωτος (ὁ, ἡ)</b> aux couleurs variées, EUR. <i>Pir. fr. 596, 4 Nauck</i>.<p><b>Étym</b>. αἰ. χρώς.`

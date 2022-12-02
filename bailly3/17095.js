@@ -1,0 +1,1 @@
+lar[17095]=`<i>ou</i> <b>αὐγῖτις, ιδος (ἡ)</b> <i>sorte de pierre précieuse,</i> PLIN. <i>H.N. 37, 54</i>.`

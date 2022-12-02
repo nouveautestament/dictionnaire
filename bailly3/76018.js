@@ -1,0 +1,1 @@
+lar[76018]=`<b>ατος (τὸ)</b> partie accessoire dans un morceau de sculpture, D. PHAL. <i>§ 55</i>.<p><b>Étym</b>. παραξύω.`

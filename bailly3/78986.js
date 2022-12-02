@@ -1,0 +1,1 @@
+lar[78986]=`<b>περί·ογκος, ος, ον</b>, très gros, volumineux, ARSTT. <i>Physiogn. 6, 9</i>.<p><b>Étym</b>. π. ὄγκος.`

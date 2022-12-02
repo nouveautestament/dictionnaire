@@ -1,0 +1,1 @@
+lar[70864]=`<b>ὀκτά·τονος, ος, ον</b> <font color="purple">[ᾰ]</font> tendu en huit parties, au nombre de huit, ANTH. <i>9, 14</i>.<p><b>Étym</b>. ὀ. τείνω.`

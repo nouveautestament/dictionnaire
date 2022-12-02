@@ -1,0 +1,1 @@
+lar[38005]=`<b>ατος (τὸ)</b> raillerie, sarcasme, D. PHAL. <i>§ 111</i>.<p><b>Étym</b>. ἐπικερτομέω.`

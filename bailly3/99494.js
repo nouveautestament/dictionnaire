@@ -1,0 +1,1 @@
+lar[99494]=`<b>τοιχό·κρανον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>t. d’archit</i>. tête de mur, PHIL. BYZ. (MATH. <i>p. 83).</i><p><b>Étym</b>. τ. *κρᾶνον.`

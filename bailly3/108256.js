@@ -1,0 +1,1 @@
+lar[108256]=`<b>οπος (ὁ)</b> Khéops (<i>égypt</i>. Chun) <i>anc. roi d’Égypte, constructeur de la plus grande pyramide,</i> HDT. <i>2, 124, etc</i>.`

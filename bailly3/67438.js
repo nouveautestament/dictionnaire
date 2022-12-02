@@ -1,0 +1,1 @@
+lar[67438]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> célébré par des mystères, ORPH. <i>H. 76, 7</i>.<p><b>Étym</b>. μυστιπολεύω.`

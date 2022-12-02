@@ -1,0 +1,1 @@
+lar[7376]=`<b>οῦ (ὁ)</b> refoulement, HÉRON <i>Spir. 182</i>.<p><b>Étym</b>. ἀναπιέζω.`

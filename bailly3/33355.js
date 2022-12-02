@@ -1,0 +1,1 @@
+lar[33355]=`<b>ἐμπεδό·καρπος, ος, ον</b>, qui porte toujours des fruits, EMPÉD. (TH. <i>C.P. 1, 13, 2).</i><p><b>Étym</b>. ἔμπεδος¹, καρπός.`

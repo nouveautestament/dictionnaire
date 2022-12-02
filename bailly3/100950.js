@@ -1,0 +1,1 @@
+lar[100950]=`<b>Τρωξ·άρτης, ου (ὁ)</b> « Ronge-pain, Grignotte-pain » <i>n. de rat,</i> BATR. <i>109, 250</i>.<p>➳ <i>Gén. épq</i>. -αο <font color="purple">[ᾱ]</font> BATR. <i>28, 104</i>.<p><b>Étym</b>. τρώγω, ἄρτος.`

@@ -1,0 +1,1 @@
+lar[64974]=`<b>μετα·στεφανόω-ῶ</b> <font color="purple">[φᾰ]</font> couronner de nouveau, EUM. <i>p. 73</i>.`

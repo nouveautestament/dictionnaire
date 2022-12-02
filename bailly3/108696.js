@@ -1,0 +1,1 @@
+lar[108696]=`<b>χοιρο·πώλης</b>, <i>dor</i>. <b>χοιρο·πώλας, α (ὁ)</b> <font color="purple">[ᾱ]</font> marchand de cochons, AR. <i>Ach. 818, etc</i>.<p><b>Étym</b>. χ. πωλέω.`

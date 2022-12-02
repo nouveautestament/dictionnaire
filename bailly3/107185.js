@@ -1,0 +1,1 @@
+lar[107185]=`<b>φυλο·στάφυλον, ου (τὸ)</b> <i>autre n. de la plante</i> κάππαρις (<i>lat</i>. capparis) DIOSC. <i>Noth. 448</i>.<p><b>Étym</b>. φῦλον, σταφυλή.`

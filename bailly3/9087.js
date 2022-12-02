@@ -1,0 +1,1 @@
+lar[9087]=`<b>ἀν·ίλαστος, ος, ον</b> <font color="purple">[ῑ]</font> implacable, PLUT. <i>M. 170c</i>.<p><b>Étym</b>. ἀν-, ἱλάσκομαι.`

@@ -1,0 +1,1 @@
+lar[24858]=`<font color="purple">[ῐδ]</font> <i>adv.</i> :<br><b>      1</b> en tranchant sur tous, surtout, IL. <i>12, 103 ; 15, 108</i> ; HDT. <i>4, 53 ; d’où</i> supérieurement, admirablement, LUC. <i>Am. 3</i>.<br><b>      2</b> distinctement, NIC. <i>Th. 955</i>.<p><b>Étym</b>. διακρίνω, <i>et</i> -δον.`

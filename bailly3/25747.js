@@ -1,0 +1,1 @@
+lar[25747]=`<b>ῆς (ἡ) :<br>      1</b> action de couper en deux, séparation, division, EL. <i>N.A. 13, 30</i>.<br><b>      2</b> le tranchant (des dents) EL. <i>N.A. 1, 31</i>.<p><b>Étym</b>. διατέμνω.`

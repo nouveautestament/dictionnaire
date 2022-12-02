@@ -1,0 +1,1 @@
+lar[19569]=`<b>ου (τὸ)</b> nitre de belle qualité, GAL. <i>13, 490</i>.`

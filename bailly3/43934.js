@@ -1,0 +1,1 @@
+lar[43934]=`<b>ἐφεδριάω-ῶ</b> (<i>part. prés. acc. épq</i>. ἐφεδριόωντα) s’asseoir sur, se poser sur, <i>dat</i>. COL. <i>15</i>.<p><b>Étym</b>. ἐφέδρα.`

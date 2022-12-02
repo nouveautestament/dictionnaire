@@ -1,0 +1,1 @@
+lar[9059]=`<b>ἀν·ίδρωτος, ος, ον</b>, qui n’est pas en sueur, XÉN. <i>Cyr. 2, 1, 29</i>.<p><b>Étym</b>. ἀν-, ἱδρόω.`

@@ -1,0 +1,1 @@
+lar[90244]=`<b>σικιννο·τύρβη, ης (ἡ)</b> <font color="purple">[σῐ]</font> air de flûte pour danser la σίκιννις, TRYPH. (ATH. <i>618e</i>).`

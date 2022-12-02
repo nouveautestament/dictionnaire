@@ -1,0 +1,1 @@
+lar[69699]=`<b>ξύλ·οχος, ου (ὁ)</b> <font color="purple">[ῠ]</font> lieu boisé, taillis, fourré où se retirent les bêtes sauvages, IL. <i>5, 162, etc.</i> ; OD. <i>4, 335, etc.</i> ; ANACR. <i>7, 5</i> ; ANTH. <i>7, 445</i>.<p><b>Étym</b>. ξύλον, ἔχω.`

@@ -1,0 +1,1 @@
+lar[97152]=`<b>σωκρατέω-ῶ</b> <font color="purple">[ᾰ]</font> imiter Socrate, AR. <i>Av. 1282</i>.<p><b>Étym</b>. Σωκράτης.`

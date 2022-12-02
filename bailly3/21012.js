@@ -1,0 +1,1 @@
+lar[21012]=`<font color="purple">[ῠᾰ]</font> <i>c</i>. βυκανάω, SEXT. <i>M. 6, 24</i>.`

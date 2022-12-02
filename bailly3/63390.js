@@ -1,0 +1,1 @@
+lar[63390]=`<b>μεγαλό·μισθος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se fait payer cher, LUC. <i>M. cond. 15</i> ; ATH. <i>569a</i>.<p><b>Étym</b>. μ. μισθός.`

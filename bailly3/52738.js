@@ -1,0 +1,1 @@
+lar[52738]=`<b>κατα·λιθόω-ῶ</b> <font color="purple">[ῐ]</font> lapider, PAUS. <i>6, 9, 7</i> ; JOS. <i>A.J. 4, 8, 36, etc</i>.`

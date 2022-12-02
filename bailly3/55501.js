@@ -1,0 +1,1 @@
+lar[55501]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> dangereux, hasardeux, POL. <i>8, 22, 3, etc.</i> ; PLUT. <i>Cæs. 25</i>.<p>•<i> Sup</i>. -έστατος, HIPPIATR. <i>p. 65, 2</i>.<p><b>Étym</b>. κίνδυνος, -ωδης.`

@@ -1,0 +1,1 @@
+lar[103296]=`<b>ὑπ·οικίζομαι</b> <font color="darkgreen">(<i>ao</i>. -ῳκισάμην)</font> <i>c</i>. ὑποικέω ANTH. <i>7, 372</i>.`

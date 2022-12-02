@@ -1,0 +1,1 @@
+lar[25413]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec beaucoup de feu, avec ardeur, NAZ. <i>10, 166</i>.`

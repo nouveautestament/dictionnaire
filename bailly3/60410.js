@@ -1,0 +1,1 @@
+lar[60410]=`<b>λεπτο·κάλαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> dont le chaume est grêle <i>ou</i> la tige mince, TH. <i>H.P. 8, 9, 2</i>.<p><b>Étym</b>. λ. κ.`

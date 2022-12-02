@@ -1,0 +1,1 @@
+lar[39757]=`<b>ἐπι·ψελλίζω</b>, murmurer entre ses dents, ARR. <i>Epict. 3, 24, 88</i>.`

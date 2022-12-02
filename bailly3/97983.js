@@ -1,0 +1,1 @@
+lar[97983]=`<font color="purple">[ῠ]</font> <i>adv</i>., tumultueusement, en désordre, XÉN. <i>Hell. 5, 3, 5</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> θορυβέω.`

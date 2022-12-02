@@ -1,0 +1,1 @@
+lar[72445]=`<b>ή, όν</b>, rôti, SOTAD. (ATH. <i>293b</i>) ; ARSTT. <i>Probl. 20, 5</i>.<p><b>Étym</b>. ὀπτάω.`

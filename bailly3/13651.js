@@ -1,0 +1,1 @@
+lar[13651]=`<b>ἀπο·τρίς</b>, <i>adv</i>., trois fois, DYSC. <i>Synt. 339, 14</i>.`

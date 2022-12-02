@@ -1,0 +1,1 @@
+lar[1676]=`<b>ἀεί·λιχνος, ος, ον</b>, qui savoure toujours, avide de, <i>gén</i>. PHIL. <i>1, 348</i>.<p><b>Étym</b>. ἀ. λίχνος.`

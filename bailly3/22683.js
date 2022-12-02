@@ -1,0 +1,1 @@
+lar[22683]=`<font color="purple">[ῡ]</font> <i>ou</i> <b>γρουνός, οῦ (ὁ)</b> bois sec, fagot, LYC. <i>86, 294</i>.`

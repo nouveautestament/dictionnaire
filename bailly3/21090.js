@@ -1,0 +1,1 @@
+lar[21090]=`<b>έων (οἱ)</b> habitants des collines Bômes (βωμοί) <i>en Étolie,</i> THC. <i>3, 96</i> ; STR. <i>451</i>.`

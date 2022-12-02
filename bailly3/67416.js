@@ -1,0 +1,1 @@
+lar[67416]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῠ]</font> action <i>ou</i> parole abominable, crime, souillure, HPC. <i>303, 39</i> ; ESCHL. <i>Ch. 651</i> ; SOPH. <i>O.R. 138, etc.</i> ; être impur, ESCHL. <i>Eum. 195</i>.<p><b>Étym</b>. <i>inconnue</i>.`

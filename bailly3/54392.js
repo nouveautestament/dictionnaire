@@ -1,0 +1,1 @@
+lar[54392]=`<b>καχρυ·φόρος, ος, ον</b> <font color="purple">[ᾱῠ]</font> qui porte des graines sèches, NIC. <i>Th. 850</i>.<p><b>Étym</b>. κάχρυς, φέρω, <i>cf</i>. καχρυοφόρος.`

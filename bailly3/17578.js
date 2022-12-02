@@ -1,0 +1,1 @@
+lar[17578]=`<b>αὐτο·μάρτυς, υρος (ὁ, ἡ)</b> <font color="purple">[ῡς, ῠρ]</font> lui-même témoin, témoin oculaire, ESCHL. <i>Ag. 989</i>.`

@@ -1,0 +1,1 @@
+lar[98765]=`<b>ιγος (ὁ)</b> Tettix, <i>h</i>. PLUT. <i>Ser. num. vind. 17</i>.<p><b>Étym</b>. <i>cf</i>. τέττιξ.`

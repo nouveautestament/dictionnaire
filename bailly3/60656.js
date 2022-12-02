@@ -1,0 +1,1 @@
+lar[60656]=`<b>ου (τὸ)</b> Leukônion, <i>lieu de Chios,</i> THC. <i>8, 24</i>.`

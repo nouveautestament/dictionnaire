@@ -1,0 +1,1 @@
+lar[109252]=`<b>χρυσό·ρραπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῡᾰ]</font> à la baguette d’or, à la verge d’or, <i>ép. d’Hermès,</i> OD. <i>5, 87, etc.</i> ; HH. <i>Merc. 539</i>.<p><b>Étym</b>. χρ. ῥαπίς.`

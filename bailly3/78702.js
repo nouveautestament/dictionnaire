@@ -1,0 +1,1 @@
+lar[78702]=`<b>περι·καίνυμαι</b> (<i>seul. prés</i>.) <font color="purple">[ῠ]</font> triompher de, dompter, NIC. <i>Th. 38</i>.`

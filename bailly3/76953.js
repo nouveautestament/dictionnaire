@@ -1,0 +1,1 @@
+lar[76953]=`<i>voc</i>. <b>-α (ὁ)</b> Pariskas, <i>Perse,</i> PLUT. <i>Artax. 12</i>.`

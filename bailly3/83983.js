@@ -1,0 +1,1 @@
+lar[83983]=`<b>προ·διοικέω-ῶ</b> (<i>part. pf. pass</i>. προδιῳκημένος) :<br><b>      1</b> disposer <i>ou</i> régler auparavant, <i>acc</i>. DÉM. <i>625, 5</i>.<br><b>      2</b> digérer auparavant, ORIB. <i>p. 75 Matthäi</i>.<br><b><i>Moy.</i></b> disposer autrement, ESCHN. <i>20, 33</i> ; DH. <i>Rhet. 9, 7</i>.`

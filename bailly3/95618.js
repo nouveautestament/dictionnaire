@@ -1,0 +1,1 @@
+lar[95618]=`<b>συν·επιθεωρέω-ῶ</b>, considérer ensemble <i>ou</i> en même temps, SEXT. <i>M. 7, 46</i>.`

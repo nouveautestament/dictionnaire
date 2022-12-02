@@ -1,0 +1,1 @@
+lar[79090]=`<b>περι·πηλόω-ῶ</b>, entourer d’une couche de boue <i>ou</i> de terre glaise, GAL. <i>13, 431</i>.`

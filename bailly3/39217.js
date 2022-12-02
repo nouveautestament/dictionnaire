@@ -1,0 +1,1 @@
+lar[39217]=`<b>ἐπι·συμμαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> alliance offensive et défensive, PHILIPP. (DÉM. <i>160, 13</i>).`

@@ -1,0 +1,1 @@
+lar[11114]=`<b>ἀπ·αιγειρόομαι-οῦμαι</b>, être changé en peuplier noir, STR. <i>215</i>.<p><b>Étym</b>. ἀπό, αἴγειρος.`

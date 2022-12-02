@@ -1,0 +1,1 @@
+lar[32196]=`<b>οῦ (ὁ) :<br>      1</b> déplacement, migration, ARSTT. <i>H.A. 8, 13, 14</i>.<br><b>      2</b> éloignement, STR. <i>201</i>.<p><b>Étym</b>. ἐκτοπίζω.`

@@ -1,0 +1,1 @@
+lar[13784]=`<b>ἀπο·χαράσσω</b> <font color="purple">[χᾰ]</font><br><b>      1</b> effacer en grattant, D. CHR. <i>337</i>.<br><b>      2</b> <i>t. de méd</i>. scarifier, HIPPIATR.`

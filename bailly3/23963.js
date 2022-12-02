@@ -1,0 +1,1 @@
+lar[23963]=`<b>δερματο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> vêtu d’une peau, STR. <i>776</i>.<p><b>Étym</b>. δέρμα, φέρω.`

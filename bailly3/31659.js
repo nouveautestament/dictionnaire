@@ -1,0 +1,1 @@
+lar[31659]=`<b>ἐκ·ματαιάζω</b> <font color="purple">[μᾰ]</font> (<i>part. prés</i>. -ουσαι) travailler en vain, NYSS. <i>1, 381c</i>.`

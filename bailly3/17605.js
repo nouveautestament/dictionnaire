@@ -1,0 +1,1 @@
+lar[17605]=`<i>adv</i>., comme un transfuge, <i>càd</i>. en traître, SOPH. <i>fr. 617</i>.`

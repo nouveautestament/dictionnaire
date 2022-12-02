@@ -1,0 +1,1 @@
+lar[85992]=`<b>προσ·κατεύχομαι</b>, prononcer en outre des imprécations, TH. <i>H.P. 9, 8, 8</i>.`

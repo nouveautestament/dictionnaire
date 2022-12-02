@@ -1,0 +1,1 @@
+lar[22859]=`<b>γυρο·ειδῶς</b> <font color="purple">[ῡ]</font> <i>adv</i>., circulairement, en rond, DIOSC. <i>2, 204</i>.<p><b>Étym</b>. γῦρος, εἶδος.`

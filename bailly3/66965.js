@@ -1,0 +1,1 @@
+lar[66965]=`<i>ou</i> <b>μύ</b>, <i>onomatopée pour exprimer un gémissement, un grognement, etc</i>. AR. <i>Eq. 10</i>.`

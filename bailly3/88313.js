@@ -1,0 +1,1 @@
+lar[88313]=`<b>ῥαφαν·έλαιον, ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> huile de raifort, DIOSC. <i>1, 45 titre</i>.<p><b>Étym</b>. ῥάφανος, ἔλαιον.`

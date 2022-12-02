@@ -1,0 +1,1 @@
+lar[109245]=`<b>χρυσό·πρυμνος, ος, ον</b> <font color="purple">[ῡσ]</font> à poupe d’or, PLUT. <i>Ant. 26</i> ; APP. <i>Pr. 10, etc</i>.<p><b>Étym</b>. χρ. πρύμνα.`

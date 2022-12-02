@@ -1,0 +1,1 @@
+lar[96021]=`<b>συν·ιππεύω</b>, aller à cheval ensemble <i>ou</i> avec, DC. <i>50, 5 ; dat</i>. SYN. <i>12c</i>.`

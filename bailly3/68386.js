@@ -1,0 +1,1 @@
+lar[68386]=`<b>ας (ἡ)</b> action de mouvoir au moyen de fils, M. ANT. <i>6, 28 ; 7, 29</i>.<p><b>Étym</b>. νευρόσπαστος.`

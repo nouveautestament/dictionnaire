@@ -1,0 +1,1 @@
+lar[96231]=`<b>ή, όν</b>, qui peut cicatriser, NAZ. <i>1, 1252 Migne</i>.<p><b>Étym</b>. συνουλόω.`

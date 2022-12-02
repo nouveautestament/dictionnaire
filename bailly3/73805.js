@@ -1,0 +1,1 @@
+lar[73805]=`<b>ου (ὁ)</b> Opheltas :<br><b>      1</b> <i>n. d’h</i>. PLUT. <i>Demetr. 14, Cim. 1</i>.<br><b>      2</b> <i>mt. d’Eubée,</i> LYC. <i>373</i>.`

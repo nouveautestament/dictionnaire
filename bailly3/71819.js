@@ -1,0 +1,1 @@
+lar[71819]=`<b>(τὸ)</b> <i>indécl</i>. plante aromatique de Perse, <i>p.-ê. c</i>. ἄμωμον, PLUT. <i>M. 369e</i>.`

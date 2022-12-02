@@ -1,0 +1,1 @@
+lar[80256]=`<b>ου (ὁ)</b> Pithos, <i>h</i>. ANTH. <i>App. 270</i>.`

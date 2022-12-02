@@ -1,0 +1,1 @@
+lar[89494]=`<b>Σαρωνιτική Σύρτις (ἡ)</b> Syrte de Sarônis, <i>dans l’Inde,</i> Ps.-PLUT. <i>Fluv. 1</i>.`

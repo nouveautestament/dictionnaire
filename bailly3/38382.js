@@ -1,0 +1,1 @@
+lar[38382]=`<b>ἐπι·μειδάω</b>, sourire à, IL. <i>8, 38, etc. (touj. part. ao</i>.) ; HÉS. <i>Th. 547</i> ; τινι, ANTH. <i>6, 345,</i> à qqn.<p><b>Étym</b>. <i>cf</i>. ἐπιμειδιάω.`

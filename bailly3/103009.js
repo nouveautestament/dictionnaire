@@ -1,0 +1,1 @@
+lar[103009]=`<b>ὑπο·άμουσος, ος, ον</b> <font color="purple">[ᾰ]</font> quelque peu étranger aux muses, PLAT. <i>Rsp. 548e</i>.`

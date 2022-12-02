@@ -1,0 +1,1 @@
+lar[3089]=`<b>ἀκαμαντο·πόδας</b> <font color="purple">[ᾰκᾰδᾱ]</font> <i>adj. dor. c</i>. ἀκαμαντόπους SYN. <i>Hymn. 9, 1616 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[109246]=`<b>χρυσό·πρῳρος, ος, ον</b> <font color="purple">[ῡ]</font> à proue d’or, PHILSTR. <i>p. 282</i>.<p><b>Étym</b>. χρ. πρῴρα.`

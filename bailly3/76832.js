@@ -1,0 +1,1 @@
+lar[76832]=`<i>ion. c</i>. παρῶ, <i>sbj. prés. de</i> πάρειμι¹ <i>ou sbj. ao.2 de</i> παρίημι.`

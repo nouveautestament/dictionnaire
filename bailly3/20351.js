@@ -1,0 +1,1 @@
+lar[20351]=`<b>ου (τὸ)</b> sorte de plante (<i>Aster atticus</i> L.) employée pour résoudre certaines tumeurs, DIOSC. <i>4, 120</i>.<p><b>Étym</b>. βουβών.`

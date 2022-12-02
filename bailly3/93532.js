@@ -1,0 +1,1 @@
+lar[93532]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. de</i> σύγκριμα M. ANT. <i>8, 25</i>.`

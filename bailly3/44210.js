@@ -1,0 +1,1 @@
+lar[44210]=`<b>ἐχε·πευκής, ής, ές :<br>      1</b> aigu, pointu, <i>en parl. de traits,</i> IL. <i>1, 51, etc.</i><br><b>      2</b> amer, NIC. <i>Th. 600, 866</i> ; ORPH. <i>Lith. 469</i>.`

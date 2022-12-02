@@ -1,0 +1,1 @@
+lar[8666]=`<i>adv</i>., sans agrément, d’une façon désagréable, CLÉM. <i>874</i>.`

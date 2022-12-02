@@ -1,0 +1,1 @@
+lar[81620]=`<b>ης (ἡ)</b> <font color="purple">[ᾱ]</font> Polikhna :<br><b>      1</b> <i>v. de Troade,</i> THC. <i>8, 14, 23, etc.</i><br><b>      2</b> <i>v. de Chios,</i> HDT. <i>6, 26</i>.<br><b>      3</b> <i>v. de Crète,</i> HDT. <i>7, 170</i>.<p>➳ <i>Ion</i>. Πολίχνη, HDT. <i>ll. cc</i>.<p><b>Étym</b>. <i>v</i>. πολίχνη.`

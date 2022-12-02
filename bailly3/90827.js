@@ -1,0 +1,1 @@
+lar[90827]=`<b>ή, όν</b>, de théâtre, scénique, DS. <i>17, 16 et 106</i> ; PHIL. <i>1, 18</i> ; PLUT. <i>M. 1142b ;</i> ATH. <i>561a, 630c</i> ; ὁ σκ. PLUT. <i>Oth. 6,</i> acteur, <i>p. opp. au chœur</i> (θυμελικός).<p>•<i> Comp</i>. -ώτερος, NAZ.<p><b>Étym</b>. σκηνή.`

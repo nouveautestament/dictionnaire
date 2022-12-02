@@ -1,0 +1,1 @@
+lar[19580]=`<b>ας (ἡ)</b> Bérœa :<br><b>      1</b> <i>n. de f. myth</i>. NONN. <i>D. 41, 151, 155</i>.<br><b>      2 β</b>. <i>ou</i> <b>βέρροια (ἡ)</b> Bérœa <i>ou</i> Berrœa, <i>v. de Macédoine (auj</i>. Véria), THC. <i>1, 61 ; etc</i>.<p>➳ <i>Épq</i>. βεροίη, ANTH. <i>7, 390</i>.<p><b>Étym</b>. <i>Cf</i>. βερόη.`

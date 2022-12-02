@@ -1,0 +1,1 @@
+lar[17464]=`<b>αὐτο·εῖδος, εος-ους (τὸ)</b> l’espèce en soi, ARSTT. <i>Metaph. 40, 10</i>.`

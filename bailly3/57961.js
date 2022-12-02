@@ -1,0 +1,1 @@
+lar[57961]=`<b>ος, ον</b> <font color="purple">[ῐσ]</font><br><b>      1</b> qui sert à juger, décisif, critique ; <i>particul. en parl. de maladie,</i> HPC. <i>956f, etc.</i><br><b>      2</b> qui concerne <i>ou</i> amène la crise, HPC. <i>387, 38</i>.<p>•<i> Cp</i>. -ώτερος, HPC. <i>387, 38</i>.<p><b>Étym</b>. κρίνω.`

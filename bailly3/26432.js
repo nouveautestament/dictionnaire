@@ -1,0 +1,1 @@
+lar[26432]=`<b>διϊ·πετής, ής, ές</b> <font color="purple">[ῐῑ]</font> qui vole à travers le ciel, HH. <i>Ven. 4</i>.<p><b>Étym</b>. Διός, πέτομαι.`

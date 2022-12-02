@@ -1,0 +1,1 @@
+lar[32908]=`<i>sel. d’autres,</i> <b>Ἑλλανοδικεών, ῶνος (ὁ)</b> <font color="purple">[ᾱῐ]</font> tribunal des Hellanodices, <i>à Élis,</i> PAUS. <i>6, 24, 1</i>.`

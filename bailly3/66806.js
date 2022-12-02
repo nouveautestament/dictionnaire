@@ -1,0 +1,1 @@
+lar[66806]=`<b>ου (τὸ)</b> petit veau, EPHIPP. (ATH. <i>359b</i>) ; THCR. <i>Idyl. 4, 4</i>.<p><b>Étym</b>. μόσχος.`

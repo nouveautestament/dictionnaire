@@ -1,0 +1,1 @@
+lar[58331]=`<b>κυαν·άμπυξ, υκος (ὁ, ἡ)</b> <font color="purple">[ᾰῠκ]</font> au bandeau sombre, PD. <i>fr. 5</i>.<p><b>Étym</b>. κ. ἄμπυξ.`

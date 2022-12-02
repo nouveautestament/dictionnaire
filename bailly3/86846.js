@@ -1,0 +1,1 @@
+lar[86846]=`<b>προ·ϋλακτέω-ῶ</b> <font color="purple">[ῠ]</font> aboyer pour défendre qqn, ALCIPHR. <i>3, 62</i>.`

@@ -1,0 +1,1 @@
+lar[50587]=`<b>ή, όν</b>, du moment opportun, de saison, PTOL. <i>Tetr. 76 et 136 ; particul. t. de méd</i>. du moment critique, GAL. <i>2, 362</i>.<p><b>Étym</b>. καιρός.`

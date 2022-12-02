@@ -1,0 +1,1 @@
+lar[4131]=`<b>ά, όν</b>, douloureux, HPC. <i>657, 2</i> ; SPT. <i>Jer. 10, 19, etc</i>.<p><b>Étym</b>. ἄλγος.`

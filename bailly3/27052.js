@@ -1,0 +1,1 @@
+lar[27052]=`<b>δισσο·τόκος, ος, ον</b>, qui enfante deux fois, NONN. <i>D. 5, 199</i>.<p><b>Étym</b>. δισσός, τίκτω.`

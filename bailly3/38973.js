@@ -1,0 +1,1 @@
+lar[38973]=`<b>ἐπί·σιτος, ος, ον</b> <font color="purple">[ῑτ]</font> <i>c</i>. ἐπισίτιος 1, CRATÈS (ATH. <i>247e</i>).`

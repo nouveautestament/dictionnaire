@@ -1,0 +1,1 @@
+lar[8043]=`<b>α, ον</b>, de l’î. Andros, XÉN. <i>Hell. 1, 4, 22 ; 2, 1, 31</i> ; οἱ Ἄνδριοι, les habitants d’Andros, HDT. <i>8, 66 et 111</i> ; THC. <i>4, 42 ; 7, 57 ; etc</i>.<p><b>Étym</b>. Ἄνδρος.`

@@ -1,0 +1,1 @@
+lar[16099]=`<b>ου (ἡ)</b> Assos :<br><b>      1</b> <i>v. de Mysie,</i> XÉN. STR. <i>etc.</i><br><b>      2</b> <i>fl. de Phocide,</i> PLUT.`

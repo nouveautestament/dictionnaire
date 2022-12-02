@@ -1,0 +1,1 @@
+lar[50266]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> nœud, EUR. <i>Hipp. 671</i>.<p><b>Étym</b>. καθάπτω.`

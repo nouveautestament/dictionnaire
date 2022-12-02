@@ -1,0 +1,1 @@
+lar[16908]=`<b>Ἀτρακηῒς λίμνη (ἡ)</b> <font color="purple">[ᾰᾰ]</font> le lac d’Atrax, ORPH. <i>Arg. 161</i>.<p><b>Étym</b>. Ἄτραξ.`

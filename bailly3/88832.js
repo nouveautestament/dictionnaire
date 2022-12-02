@@ -1,0 +1,1 @@
+lar[88832]=`<b>ῶνος (ὁ)</b> lieu planté de grenadiers, SPT. <i>Zach. 12, 11</i>.<p><b>Étym</b>. ῥοά.`

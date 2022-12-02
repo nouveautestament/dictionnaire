@@ -1,0 +1,1 @@
+lar[84173]=`<b>προ·εντυγχάνω</b> <font color="darkgreen">(<i>f</i>. -εντεύξομαι, <i>ao</i>. -ενέτυχον, <i>etc</i>.)</font> rencontrer auparavant, se mettre auparavant en relation avec, <i>dat</i>. PLUT. <i>Nic. 10</i> ; ὄψις πρ. τῆς φωνῆς, PLUT. <i>Pomp. 2,</i> la vue devance la parole, <i>càd</i>. commencer l’entretien du regard avant d’avoir parlé.`

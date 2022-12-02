@@ -1,0 +1,1 @@
+lar[82417]=`<b>πολυ·σύλλαβος, ος, ον</b> <font color="purple">[ᾰ]</font> formé de plusieurs syllabes, polysyllabique, DH. <i>Comp. 11</i> ; LUC. <i>Nec. 9</i>.<p><b>Étym</b>. π. συλλαβή.`

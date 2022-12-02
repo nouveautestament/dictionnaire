@@ -1,0 +1,1 @@
+lar[53721]=`<b>κατα·χειροτονέω-ῶ</b>, lever la main contre, <i>d’où</i> condamner : τινος, DÉM. <i>515,</i> qqn ; τινος θάνατον, PLAT. <i>Ax. 368e ;</i> DÉM. <i>350, 27,</i> voter à main levée la peine de mort contre qqn ; καταχειροτονηθὲν αὐτοῦ ἀσεβεῖν, DÉM. <i>578, 24,</i> un vote de condamnation ayant été rendu contre lui pour sacrilège.`

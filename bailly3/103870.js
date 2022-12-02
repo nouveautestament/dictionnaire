@@ -1,0 +1,1 @@
+lar[103870]=`<b>ης (ἡ) :<br>      1</b> fondement, base, DS. <i>3, 44</i>.<br><b>      2</b> dépôt, sédiment, PLAT. <i>Phæd. 109c ;</i> PROTAGORID. (ATH. <i>124e</i>) ; DIOSC. <i>5, 120</i> ; PLUT. <i>Phoc. 3, etc</i>.`

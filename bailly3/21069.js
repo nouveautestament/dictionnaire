@@ -1,0 +1,1 @@
+lar[21069]=`<font color="darkgreen">(<i>seul. part. pf. pass</i>. βεβωλασμένος)</font> remuer des mottes de terre, <i>càd</i>. labourer, ONOS. <i>10, 1</i>.<p><b>Étym</b>. βῶλος.`

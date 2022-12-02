@@ -1,0 +1,1 @@
+lar[107818]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. χαμεύνιον THCR. <i>Idyl. 7, 133</i>.`

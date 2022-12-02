@@ -1,0 +1,1 @@
+lar[10625]=`<b>ατος (τὸ) :<br>      1</b> sorte de seau pour puiser, PLUT. <i>M. 974e ;</i> NT. <i>Joh. 4, 11</i>.<br><b>      2</b> eau qu’on verse sur une plaie, sur une blessure, <i>etc</i>. DIOSC. <i>4, 64</i>.<p><b>Étym</b>. ἀντλέω.`

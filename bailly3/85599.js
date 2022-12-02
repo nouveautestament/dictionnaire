@@ -1,0 +1,1 @@
+lar[85599]=`<b>προσ·εντρυφάω-ῶ</b> <font color="purple">[ῠ]</font> insulter en outre, <i>dat</i>. RHÉT. <i>1, 482 W</i>.`

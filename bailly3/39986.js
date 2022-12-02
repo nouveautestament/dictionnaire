@@ -1,0 +1,1 @@
+lar[39986]=`<b>ἑπτά·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> à sept sons <i>ou</i> cordes, PD. <i>P. 2, 70</i>.<p><b>Étym</b>. ἑ. κτύπος.`

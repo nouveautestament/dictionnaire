@@ -1,0 +1,1 @@
+lar[11395]=`<i>adv</i>., en reniant, BAS. <i>2, 647</i>.<p><b>Étym</b>. ἀπαρνέομαι.`

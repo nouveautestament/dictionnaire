@@ -1,0 +1,1 @@
+lar[83674]=`<b>προ·αποπλύνω</b> <font color="purple">[ῡ]</font> laver d’abord, A. TR. <i>2, 126</i>.`

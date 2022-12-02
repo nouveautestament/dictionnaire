@@ -1,0 +1,1 @@
+lar[16265]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰγᾰ]</font> le joueur d’osselets, <i>comédie d’Alexandre d’Étolie</i>.<p><b>Étym</b>. ἀστραγαλίζω.`

@@ -1,0 +1,1 @@
+lar[62813]=`<b>μανό·φυλλος, ος, ον</b> <font color="purple">[ᾱ]</font> aux feuilles rares <i>ou</i> clairsemées, TH. <i>H.P. 8, 6, 3</i>.<p><b>Étym</b>. μανός, φύλλον.`

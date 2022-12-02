@@ -1,0 +1,1 @@
+lar[93223]=`<b>ας (ἡ)</b> <font color="purple">[νᾰ]</font> exercice en commun, PLUT. <i>M. 898b, 905b ;</i> SEXT. <i>M. 1, 61</i>.<p><b>Étym</b>. συγγυμνάζω.`

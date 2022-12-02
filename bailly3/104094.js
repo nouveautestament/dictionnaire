@@ -1,0 +1,1 @@
+lar[104094]=`<i>adv</i>., avec parcimonie, <i>d’où</i> rarement, PLUT. <i>Alex. 28 conj</i>.`

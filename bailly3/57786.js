@@ -1,0 +1,1 @@
+lar[57786]=`<b>κρεω·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> carnivore, ARSTT. <i>P.A. 4, 12</i> ; LYC. <i>660</i>.<p><b>Étym</b>. κρέας, φαγεῖν.`

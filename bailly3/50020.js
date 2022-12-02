@@ -1,0 +1,1 @@
+lar[50020]=`<b>Ἴφι·κλος, ου (ὁ)</b> <font color="purple">[ῑῑ̆]</font> Iphiklos :<br><b>      1</b> <i>fils de Phylakos,</i> IL. <i>2, 706, etc.</i><br><b>      2</b> <i>fils de Thestios,</i> A.RH. <i>1, 45, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἰφικλέης.`

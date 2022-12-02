@@ -1,0 +1,1 @@
+lar[55667]=`<b>ου (τὸ) :<br>      1</b> citronnier, GEOP. <i>10, 7, 8</i>.<br><b>      2</b> écorce du citronnier, A. APHR. <i>Probl. 1, 119</i>.<br><b>      3</b> citron, GAL. <i>19, 209</i> ; ATH. <i>83c</i>.<p><b>Étym</b>. κίτρον.`

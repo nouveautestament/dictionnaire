@@ -1,0 +1,1 @@
+lar[61567]=`<b>α, ον</b>, qui sert aux libations, de libation, ATH. <i>512f</i>.<p><b>Étym</b>. λοιβή.`

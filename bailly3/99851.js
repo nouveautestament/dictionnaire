@@ -1,0 +1,1 @@
+lar[99851]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petit bouc, THCR. <i>Idyl. 5, 141</i> ; ANTH. <i>9, 317</i>.<br><b>      2</b> sorte de poisson de mer, M. SID. <i>23</i>.<p><b>Étym</b>. τράγος.`

@@ -1,0 +1,1 @@
+lar[39523]=`<i>adv</i>., en courant, rapidement, avec volubilité, EL. <i>N.A. 7, 7</i>.<p><b>Étym</b>. ἐπίτροχος.`

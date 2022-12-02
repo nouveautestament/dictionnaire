@@ -1,0 +1,1 @@
+lar[69579]=`<b>ξιφο·δήλητος, ος, ον</b> <font color="purple">[ξῐ]</font> qui fait périr par l’épée, ESCHL. <i>Ag. 1528</i>.<p><b>Étym</b>. ξ. δηλέω.`

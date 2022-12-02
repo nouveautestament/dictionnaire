@@ -1,0 +1,1 @@
+lar[22036]=`<b>ωνος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. γλαμυρός AR. <i>Ran. 588 ; Eccl. 254</i> ; EUP. (SCH.-AR. <i>Vesp. 897</i>) ; LYS. <i>142, 5</i>.`

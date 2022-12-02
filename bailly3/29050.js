@@ -1,0 +1,1 @@
+lar[29050]=`<b>ου (τὸ)</b> Dysôron, <i>mt de Macédoine,</i> HDT. <i>5, 17</i>.`

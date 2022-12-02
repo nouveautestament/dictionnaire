@@ -1,0 +1,1 @@
+lar[31002]=`<b>ων (τὰ)</b> <font color="purple">[κᾰ]</font> fête lacédémonienne où l’on sacrifiait une hécatombe, STR. <i>362</i>.<p><b>Étym</b>. ἑκατόμβη.`

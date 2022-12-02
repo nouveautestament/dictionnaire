@@ -1,0 +1,1 @@
+lar[18001]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de purifier <i>ou</i> d’amollir par la cuisson, TH. <i>H.P. 9, 2, 5</i>.<p><b>Étym</b>. ἀφέψω.`

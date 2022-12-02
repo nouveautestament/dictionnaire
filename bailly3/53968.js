@@ -1,0 +1,1 @@
+lar[53968]=`<b>κατ·εύδω</b>, <i>barbarisme d’un Scythe p</i>. καθεύδω, AR. <i>Th. 1193</i>.`

@@ -1,0 +1,1 @@
+lar[58470]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> de Kydônia, THCR. <i>Idyl. 7, 12</i>.<p><b>Étym</b>. Κυδωνία.`

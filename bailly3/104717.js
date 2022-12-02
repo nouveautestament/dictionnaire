@@ -1,0 +1,1 @@
+lar[104717]=`<b>φαλαγγομαχέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> livrer un combat d’infanterie, XÉN. <i>Cyr. 6, 4, 18</i>.<p><b>Étym</b>. φαλαγγομάχης.`

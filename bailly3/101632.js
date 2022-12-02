@@ -1,0 +1,1 @@
+lar[101632]=`<b>ὑετό·μαντις, εως (ὁ, ἡ)</b> qui annonce la pluie, EUPH. <i>fr. 65, p. 105 Mein</i>.<p><b>Étym</b>. ὑετός, μάντις.`

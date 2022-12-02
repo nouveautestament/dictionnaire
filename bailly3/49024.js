@@ -1,0 +1,1 @@
+lar[49024]=`<font color="purple">[μᾰ]</font> rendre semblable, <i>d’où au pass</i>. être semblable, LIB. <i>4, p. 1069</i>.<p><b>Étym</b>. ἴνδαλμα.`

@@ -1,0 +1,1 @@
+lar[5597]=`<b>ἀ·μίμητος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> inimitable, PLUT. <i>Per. 13, M. 335b ;</i> ANTH. <i>5, 108</i>.<br><b>      2</b> non imité, PLUT. <i>M. 53d</i>.<p><b>Étym</b>. ἀ, μιμέομαι.`

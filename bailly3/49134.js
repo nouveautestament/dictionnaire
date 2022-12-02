@@ -1,0 +1,1 @@
+lar[49134]=`<b>ἰ·όμματος, ος, ον</b> <font color="purple">[ῐ]</font> aux yeux aux reflets violets, J. GÉOM. <i>H. in Virg. 867 Migne</i>.<p><b>Étym</b>. ἴον, ὄμμα.`

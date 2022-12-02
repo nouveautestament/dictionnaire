@@ -1,0 +1,1 @@
+lar[71]=`<b>ἀ·βαφής, ής, ές</b> <font color="purple">[βᾰ]</font> non trempé, non teint, PLUT. <i>M. 650b</i>.<p><b>Étym</b>. ἀ, βάπτω.`

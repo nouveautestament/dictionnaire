@@ -1,0 +1,1 @@
+lar[97365]=`<i>part. ao. pass. de</i> τείνω.`

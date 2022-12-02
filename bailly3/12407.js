@@ -1,0 +1,1 @@
+lar[12407]=`<b>εως (ἡ)</b> action d’élever au rang des dieux, apothéose, CIC. <i>Att. 1, 15</i> ; STR. <i>284 ; au plur</i>. PLUT. <i>M. 210d</i>.<p><b>Étym</b>. ἀποθεόω.`

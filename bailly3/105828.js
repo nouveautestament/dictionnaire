@@ -1,0 +1,1 @@
+lar[105828]=`<b>φιλο·κατάσκευος, ος, ον</b> <font color="purple">[ῐκᾰ]</font> trop apprêté, PROCL. (PHOT. <i>Bibl. 318, 30).</i><p><b>Étym</b>. φ. κατασκευή.`

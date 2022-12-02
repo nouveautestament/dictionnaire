@@ -1,0 +1,1 @@
+lar[36812]=`<b>ας (ἡ) :<br>      1</b> province <i>ou</i> gouvernement, préfecture, POL. <i>1, 15, 10 ; 1, 17, 5</i> ; PLUT. <i>Cæs. 4</i> ; NT. <i>Ap. 23, 34 ; 25, 1</i>.<br><b>      2</b> préfecture, charge de préfet, DS. <i>Exc. 498, 77</i> ; ARR. <i>Epict. 4, 1, 55 ; 4, 7, 21, etc</i>.<p><b>Étym</b>. ἔπαρχος.`

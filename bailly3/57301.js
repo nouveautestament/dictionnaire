@@ -1,0 +1,1 @@
+lar[57301]=`<b>κοσμο·φορέω-ῶ</b>, porter le monde, SPT. <i>4Macc. 15, 31</i>.<p><b>Étym</b>. κ. φόρος <i>de</i> φέρω.`

@@ -1,0 +1,1 @@
+lar[107813]=`<b>χαμευνέω-ῶ</b> <font color="purple">[ᾰ]</font> coucher à terre, PHILSTR. <i>241</i> ; SYN. <i>De regn. 15</i>.<p><b>Étym</b>. χαμεύνη.`

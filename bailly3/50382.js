@@ -1,0 +1,1 @@
+lar[50382]=`<b>καθ·ηδύνω</b> <font color="purple">[ᾰῡ]</font> (<i>part. pf. pass</i>. -υσμένος) rendre très doux <i>ou</i> trop doux, ATH. <i>140a ; fig</i>. EUN. <i>p. 13</i>.`

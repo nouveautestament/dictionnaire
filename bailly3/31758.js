@@ -1,0 +1,1 @@
+lar[31758]=`<font color="purple">[πᾰ]</font> s’affecter trop vivement : περί τι, CLÉM. <i>160c Migne, 577c Migne,</i> de qqe ch.<p><b>Étym</b>. ἐκπαθής.`

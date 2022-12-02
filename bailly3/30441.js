@@ -1,0 +1,1 @@
+lar[30441]=`<i>adv</i>., en se ramassant sur soi-même, ANTH. <i>9, 14</i>.<p><b>Étym</b>. εἰλέω, -δον.`

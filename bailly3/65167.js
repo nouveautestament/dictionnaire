@@ -1,0 +1,1 @@
+lar[65167]=`<b>ου (ὁ)</b> = <i>lat</i>. Metius, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 7</i>.`

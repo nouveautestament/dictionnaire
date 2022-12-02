@@ -1,0 +1,1 @@
+lar[27871]=`<b>α, ον</b>, du poids <i>ou</i> de la valeur d’une drachme, NIC. <i>Th. 519</i>.<p><b>Étym</b>. δραχμή.`

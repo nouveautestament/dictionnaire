@@ -1,0 +1,1 @@
+lar[55447]=`<b>α, ον</b> <font color="purple">[κῐῐκ]</font> de Cilicie, ESCHL. <i>Pr. 351</i> ; STR. <i>537, etc.</i> ; ἄρτος, PLAT. COM. (ATH. <i>110d</i>) pain de Cilicie, <i>càd</i>. grossier.<p>➳ <i>Fém</i>. -ος, STR. <i>84, 492</i>.<p><b>Étym</b>. Κίλιξ.`

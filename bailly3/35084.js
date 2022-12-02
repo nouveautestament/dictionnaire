@@ -1,0 +1,1 @@
+lar[35084]=`<b>ητος (ἡ)</b> <font color="purple">[ῑ]</font> valeur, mérite, ARSTT. <i>Rhet. 2, 15, 2</i>.<p><b>Étym</b>. ἔντιμος.`

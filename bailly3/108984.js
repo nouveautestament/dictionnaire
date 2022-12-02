@@ -1,0 +1,1 @@
+lar[108984]=`<b>χρησμο·φόρος, ος, ον</b>, qui rend (<i>litt</i>. qui apporte) un oracle <i>ou</i> des oracles, PAUS. <i>4, 94</i>.<p><b>Étym</b>. χρησμός, φέρω.`

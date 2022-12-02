@@ -1,0 +1,1 @@
+lar[56603]=`<b>ας</b>, <i>adj. f</i>. qui châtie, ANTH. <i>7, 425</i>.<p><b>Étym</b>. <i>fém. de</i> κολαστήρ.`

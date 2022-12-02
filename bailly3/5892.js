@@ -1,0 +1,1 @@
+lar[5892]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀμυγδάλη, ARSTT. <i>H.A. 9, 9</i> fin ; TH. <i>H.P. 4, 4, 7, etc.</i> ; COM. (ATH. <i>28a, 52f</i>).`

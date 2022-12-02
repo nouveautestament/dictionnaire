@@ -1,0 +1,1 @@
+lar[72130]=`<b>ὀξύ·μωρος, ος, ον</b> <font color="purple">[ῠ]</font> fin sous une apparence de niaiserie : τὸ ὀξύμωρον, RHÉT. ingénieuse alliance de mots contradictoires, <i>c</i>. insaniens sapientia <i>ou</i> strenua inertia.<p><b>Étym</b>. ὀ. μωρός.`

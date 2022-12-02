@@ -1,0 +1,1 @@
+lar[45548]=`<b>ἡμι·σαπής, ής, ές</b> <font color="purple">[ῐᾰ]</font> à moitié gâté, HPC. <i>461, 11</i> ; GAL. <i>6, 502</i>.<p><b>Étym</b>. ἡμι-, σήπω.`

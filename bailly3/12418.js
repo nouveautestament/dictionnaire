@@ -1,0 +1,1 @@
+lar[12418]=`<b>ατος (τὸ)</b> jus <i>ou</i> suc exprimé, DIOSC. <i>1, 151, etc.</i> ; GAL. <i>13, 162</i>.<p><b>Étym</b>. ἀποθλίβω.`

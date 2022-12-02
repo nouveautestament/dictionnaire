@@ -1,0 +1,1 @@
+lar[16409]=`<i>adv</i>., sans pardonner, BAS.`

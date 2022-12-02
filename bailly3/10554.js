@@ -1,0 +1,1 @@
+lar[10554]=`<b>ἀντι·φιλέω-ῶ</b> <font color="purple">[φῐ]</font><br><b>      1</b> aimer en retour, XÉN. <i>Mem. 2, 6, 28</i> ; PLAT. <i>Lys. 212c ;</i> THCR. <i>Idyl. 12, 16</i>.<br><b>      2</b> <i>p. suite,</i> embrasser en retour, ANTH. <i>5, 285</i>.`

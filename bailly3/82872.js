@@ -1,0 +1,1 @@
+lar[82872]=`<font color="purple">[ῠ]</font> <i>adv</i>., comme la pourpre, DIOSC. <i>1, 99</i>.<p><b>Étym</b>. πορφυροειδής.`

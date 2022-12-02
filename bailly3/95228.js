@@ -1,0 +1,1 @@
+lar[95228]=`<i>adv</i>., concurremment, ESCHL. <i>Ag. 1184</i> ; ARSTT. <i>H.A. 10, 5, 1</i>.`

@@ -1,0 +1,1 @@
+lar[42721]=`<b>ας (ἡ) :<br>      1</b> beauté de forme, EUR. <i>Tr. 936</i> ; PLAT. <i>Conv. 218e, Leg. 716a ; fig</i>. EUR. <i>Cycl. 317</i>.<br><b>      2</b> forme régulière, heureuse proportion, ESCHL. <i>Pr. 495</i>.<p><b>Étym</b>. εὔμορφος.`

@@ -1,0 +1,1 @@
+lar[80586]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> situation oblique, <i>fig</i>. humilité, NAZ. <i>1, 949 Migne</i>.<br><b>      2</b> <i>t. de gr</i>. emploi des cas obliques, D. PHAL.<p><b>Étym</b>. πλάγιος.`

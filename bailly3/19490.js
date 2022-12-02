@@ -1,0 +1,1 @@
+lar[19490]=`<b>ου (τὸ)</b> sorte de plante, ARSTT. <i>Plant. 1, 7, 2</i>.`

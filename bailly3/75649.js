@@ -1,0 +1,1 @@
+lar[75649]=`<b>ή, όν :<br>      1</b> qu’on peut fléchir par des prières, PLAT. <i>Leg. 905d, etc.</i><br><b>      2</b> qu’on peut <i>ou</i> qu’il faut détourner par des prières, PLUT. <i>M. 23a.</i><br><b>      3</b> pardonnable, PHIL. <i>2, 319</i>.<p><b>Étym</b>. <i>vb. de</i> παραιτέομαι.`

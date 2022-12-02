@@ -1,0 +1,1 @@
+lar[102693]=`<i>adv</i>., par-dessus tout, PLOT. <i>p. 749e</i>.<p><b>Étym</b>. ὑπέρειμι.`

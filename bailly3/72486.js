@@ -1,0 +1,1 @@
+lar[72486]=`<b>ὀπωρο·κάπηλος, ου (ὁ)</b> marchand de fruits, ALCIPHR. <i>3, 60</i>.<p><b>Étym</b>. ὀπώρα, κ.`

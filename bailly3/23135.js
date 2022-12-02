@@ -1,0 +1,1 @@
+lar[23135]=`<b>(ὁ)</b> Damatas, <i>chef des Cadusiens,</i> XÉN. <i>Cyr. 5, 3, 28</i> ; <i>var</i>. Δατάμας.`

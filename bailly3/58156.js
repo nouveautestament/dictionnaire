@@ -1,0 +1,1 @@
+lar[58156]=`<b>ας (ἡ)</b> sorte de chasse aux Hilotes, <i>à laquelle on exerçait les jeunes Spartiates,</i> PLAT. <i>Leg. 633b ;</i> ARSTT. (PLUT. <i>Lyc. 28).</i><p><b>Étym</b>. κρύπτω.`

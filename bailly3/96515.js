@@ -1,0 +1,1 @@
+lar[96515]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> sifflement, son sifflant, AR. <i>Ach. 554 ; en parl. du vent,</i> ORPH. <i>H. 34, 25</i>.<p><b>Étym</b>. συρίζω.`

@@ -1,0 +1,1 @@
+lar[96523]=`<b>Συριη·γενής, ής, ές</b> <font color="purple">[ῠ]</font> originaire de Syrie, ORACL. (HDT. <i>7, 140</i>) ; ORPH. <i>Lith. 259</i>.<p><b>Étym</b>. Συρίη, γένος.`

@@ -1,0 +1,1 @@
+lar[65141]=`<b>μετεωρο·λόγος, ου (ὁ) :<br>      1</b> qui disserte sur les corps <i>ou</i> les phénomènes célestes, <i>ou, en gén.,</i> qui s’en occupe, HPC. <i>281 mil.</i> ; EUR. (CLÉM. <i>732</i>).<br><b>      2</b> <i>fig</i>. qui disserte à perte de vue, qui se perd dans les nuages, PLAT. <i>Crat. 401b, etc.</i> ; POL. <i>229b</i>.<p><b>Étym</b>. μετέωρος, λέγω.`

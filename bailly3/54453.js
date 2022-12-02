@@ -1,0 +1,1 @@
+lar[54453]=`<b>ῶν (αἱ)</b> Kédrées, <i>v. de Carie,</i> XÉN. <i>Hell. 2, 1, 15</i>.`

@@ -1,0 +1,1 @@
+lar[16071]=`<i>adv</i>., sans trêve, d’une façon implacable, INSCR. (CIG. <i>2, 2053b, 9, 300 av. J.-C.), etc.</i> ; PHIL.<p><b>Étym</b>. ἄσπονδος.`

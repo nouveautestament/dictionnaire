@@ -1,0 +1,1 @@
+lar[80858]=`<b>εος-ους (τὸ)</b> ouvrage tressé, corbeille, AR. <i>Ach. 454</i>.<p><b>Étym</b>. πλέκω.`

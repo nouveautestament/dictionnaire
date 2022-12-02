@@ -1,0 +1,1 @@
+lar[105142]=`<b>Φερέ·νικος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Phérénikos :<br><b>      1</b> <i>h</i>. IS. <i>Or. 1, 31, etc. Baiter-Sauppe</i>.<br><b>      2</b> <i>cheval du roi Hiéron, vainqueur dans le stade,</i> PD. <i>O. 1, 29, etc</i>.<p><b>Étym</b>. φ. νίκη.`

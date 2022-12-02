@@ -1,0 +1,1 @@
+lar[28716]=`<b>δυσ·οιώνιστος, ος, ον</b> <font color="purple">[ῠ]</font> de mauvais augure, LUC. <i>Eun. 6</i> ; DC. <i>41, 49</i>.<p><b>Étym</b>. δ. οἰωνίζομαι.`

@@ -1,0 +1,1 @@
+lar[94625]=`<b>συν·ακροάομαι-οῶμαι</b>, écouter avec <i>ou</i> en même temps : τινός τινι, PLAT. <i>Sis. 387a</i>, écouter qqn avec un autre ; <i>abs</i>. PLAT. <i>Menex. 235b ;</i> CLÉM. <i>Str. 1, 1, 12</i>.`

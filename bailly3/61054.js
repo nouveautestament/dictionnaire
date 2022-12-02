@@ -1,0 +1,1 @@
+lar[61054]=`<b>λιθο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> qui ressemble à de la pierre, PLAT. <i>Tim. 74a ;</i> GAL. <i>4, 13</i>.<p><b>Étym</b>. λ. εἶδος.`

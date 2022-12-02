@@ -1,0 +1,1 @@
+lar[52514]=`<b>ατος (τὸ)</b> piqûre, ouvrage piqué, PLAT. <i>Tim. 76b</i>.<p><b>Étym</b>. κατακεντέω.`

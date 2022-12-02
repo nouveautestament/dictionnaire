@@ -1,0 +1,1 @@
+lar[5435]=`<b>ἀ·μέλλητος, ος, ον</b>, qui ne doit pas être différé, LUC. <i>Nigr. 27</i>.<p><b>Étym</b>. ἀ, μέλλω.`

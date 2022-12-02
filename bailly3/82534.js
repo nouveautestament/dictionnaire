@@ -1,0 +1,1 @@
+lar[82534]=`<b>πολύ·φροντις, ις, ι</b>, <i>gén</i>. <b>ιδος</b> <font color="purple">[ῐδ]</font> plein de soucis, d’inquiétude, ANACREONT. <i>48, 6</i> ; SPT. <i>Sap. 9, 15</i>.<p><b>Étym</b>. π. φροντίζω.`

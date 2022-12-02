@@ -1,0 +1,1 @@
+lar[74221]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui aime la plaisanterie, enjoué, HDT. <i>2, 173</i>.<p><b>Étym</b>. παιγνία.`

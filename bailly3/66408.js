@@ -1,0 +1,1 @@
+lar[66408]=`<b>ου (ὁ)</b> Molpos, <i>h</i>. PLUT. <i>Qu. gr. 28</i>.`

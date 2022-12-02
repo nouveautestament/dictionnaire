@@ -1,0 +1,1 @@
+lar[35543]=`<b>ἑξά·πλεθρος, ος, ον</b>, long de six plèthres <i>ou</i> arpents, HDT. <i>2, 149</i>.<p><b>Étym</b>. ἕξ, πλέθρον.`

@@ -1,0 +1,1 @@
+lar[25265]=`<b>δια·πιέζω</b> (<i>seul. ao</i>. διεπίεσα) presser l’un contre l’autre, écraser ensemble, LUC. <i>Lex. 11</i>.`

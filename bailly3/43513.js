@@ -1,0 +1,1 @@
+lar[43513]=`<b>εὐ·συνάλλακτος, ος, ον</b>, d’un commerce facile, qui se prête à, πρός <i>et l’acc</i>. PLUT. <i>M. 42e</i>.<p><b>Étym</b>. εὖ, συναλλάσσω.`

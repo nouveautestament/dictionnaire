@@ -1,0 +1,1 @@
+lar[99873]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> tragique, AR. <i>Pl. 424, Ach. 9, 886, Ran. 769, etc</i>.<p><b>Étym</b>. τραγῳδός.`

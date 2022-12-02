@@ -1,0 +1,1 @@
+lar[48053]=`<b>ου (ὁ)</b> Thyrsos, <i>h</i>. PLUT. <i>Ant. 73</i>.`

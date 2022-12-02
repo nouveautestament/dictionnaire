@@ -1,0 +1,1 @@
+lar[27283]=`<b>ορος (ὁ)</b> qui fait avancer (une vache) ANTH. <i>10, 101</i>.<p><b>Étym</b>. <i>cf</i>. διωκτήρ.`

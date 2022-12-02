@@ -1,0 +1,1 @@
+lar[66758]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Morykhos, PLAT. <i>Phædr. 227b</i>.<p><b>Étym</b>. Μόρυχος.`

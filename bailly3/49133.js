@@ -1,0 +1,1 @@
+lar[49133]=`<b>ἰο·μιγής, ής, ές</b> <font color="purple">[ῑῐ]</font> mêlé de venin, de poison, ANTH. <i>9, 1</i>.<p><b>Étym</b>. ἰός², μίγνυμι.`

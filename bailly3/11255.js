@@ -1,0 +1,1 @@
+lar[11255]=`<b>ἀπ·ανθρακόω-ῶ</b> <font color="purple">[ᾰκ]</font> réduire en charbon, LUC. <i>D. mort. 20, 4</i>.`

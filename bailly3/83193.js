@@ -1,0 +1,1 @@
+lar[83193]=`<b>εος-ους (τὸ) :<br>      1</b> <i>c</i>. πρᾶγμα, PD. <i>N. 3, 10, etc.</i> ; ESCHL. <i>Pers. 248, etc.</i> ; AR. <i>Av. 112, etc.</i><br><b>      2</b> les affaires de l’État, ESCHL. <i>Sept. 2</i>.`

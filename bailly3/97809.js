@@ -1,0 +1,1 @@
+lar[97809]=`<b>ταυρο·φυής, ής, ές</b>, de la nature du taureau, NONN. <i>D. 7, 153</i>.<p><b>Étym</b>. τ. φύω.`

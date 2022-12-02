@@ -1,0 +1,1 @@
+lar[22994]=`<b>(ἡ)</b> <i>seul. dat</i>. δαΐ <i>et acc</i>. δαΐν, combat, mêlée, IL. <i>13, 286 ; 14, 387 ; 24, 739</i> ; HÉS. <i>Th. 650</i> ; ESCHL. <i>Sept. 926 (partout dat</i>.) ; CALL. <i>fr. 243 (acc</i>.).<p><b>Étym</b>. δαίω, allumer.`

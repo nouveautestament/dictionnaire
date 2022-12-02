@@ -1,0 +1,1 @@
+lar[33820]=`<b>ἐν·αίσιος, ος, ον :<br>      1</b> convenable, juste, honnête, SOPH. <i>O.C. 1482</i>.<br><b>      2</b> <i>postér</i>. de bon augure, DC. <i>38, 13</i>.<p><b>Étym</b>. ἐν, αἶσα.`

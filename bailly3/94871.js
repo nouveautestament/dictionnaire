@@ -1,0 +1,1 @@
+lar[94871]=`<b>συν·αποίχομαι</b>, s’en aller ensemble <i>ou</i> avec, ARÉT. <i>Cur. m. diut. 1, 4</i>.`

@@ -1,0 +1,1 @@
+lar[80790]=`<b>πλατύ·σχιστος, ος, ον</b> <font color="purple">[ᾰ]</font> largement fendu, TH. <i>H.P. 9, 10, 1 dout</i>.<p><b>Étym</b>. πλ. σχίζω.`

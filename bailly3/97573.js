@@ -1,0 +1,1 @@
+lar[97573]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠ]</font> tension, HPC. <i>Art. 833</i> ; ARÉT. <i>Cur. m. acut. 2, 2</i>.<p><b>Étym</b>. τανύω.`

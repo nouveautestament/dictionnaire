@@ -1,0 +1,1 @@
+lar[2428]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> de la couleur de la suie, fuligineux, ARSTT. <i>Mund. 4, 20</i>.<p><b>Étym</b>. αἴθαλος, -ωδης.`

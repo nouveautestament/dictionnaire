@@ -1,0 +1,1 @@
+lar[47930]=`<b>όεσσα, όεν</b> <font color="purple">[ῠ]</font> rempli de thym, POÈT. (SUID. <i>v°</i> μᾶσσον).<p><b>Étym</b>. θύμος.`

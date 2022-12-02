@@ -1,0 +1,1 @@
+lar[89680]=`<b>ωνος (ὁ)</b> Seirôn, <i>Spartiate,</i> PLUT. <i>M. 225e</i>.`

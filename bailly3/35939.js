@@ -1,0 +1,1 @@
+lar[35939]=`<b>ἑξηκοντα·στάδιος, ος, ον</b> <font color="purple">[ᾰδ]</font> de 60 stades, STR. <i>268</i>.<p><b>Étym</b>. ἑξ. στάδιον.`

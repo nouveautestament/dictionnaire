@@ -1,0 +1,1 @@
+lar[60084]=`<b>ου (ὁ)</b> sorte de poisson, COM. (ATH. <i>118d, etc</i>.).`

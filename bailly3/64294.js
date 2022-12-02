@@ -1,0 +1,1 @@
+lar[64294]=`<b>ητος (ὁ)</b> sorte de bouc égyptien, <i>d’où</i> le dieu Pan, HDT. <i>2, 46</i>.`

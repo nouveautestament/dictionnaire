@@ -1,0 +1,1 @@
+lar[19495]=`<b>(ὁ)</b> Bélitaras, <i>Perse,</i> PLUT.`

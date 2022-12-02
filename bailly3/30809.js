@@ -1,0 +1,1 @@
+lar[30809]=`<b>εἰσ·κυλίω</b>, <i>anc. att</i>. <b>ἐσ·κυλίω</b> <font color="purple">[ῠῑ]</font> (<i>seul. ao</i>. εἰσεκύλισα <i>ou</i> ἐσεκύλισα) faire rouler dans, <i>dat</i>. CALL. <i>Del. 33 ; fig</i>. empêtrer, précipiter, <i>avec</i> εἰς <i>ou</i> ἐς <i>et l’acc</i>. AR. <i>Th. 651, 767</i>.<p>➳ ἐσκ. AR. <i>Th. 767</i>.`

@@ -1,0 +1,1 @@
+lar[62307]=`<b>οῦ</b> (<i>genre inconnu</i>) cabillaud, <i>poisson,</i> EPICH.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

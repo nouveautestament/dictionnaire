@@ -1,0 +1,1 @@
+lar[16393]=`<b>Ἀστύ·πυλος, ου (ὁ)</b> <font color="purple">[ῠῠ]</font> Astypylos, <i>h</i>. IL. <i>21, 209</i>.<p><b>Étym</b>. ἄστυ, πύλη.`

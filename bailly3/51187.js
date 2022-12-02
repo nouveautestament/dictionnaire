@@ -1,0 +1,1 @@
+lar[51187]=`<b>καλλί·πηχυς, -πήχεως (ὁ, ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> aux beaux coudes, EUR. <i>Tr. 1194</i>.<br><b>      2</b> aux beaux bras, ALCIPHR. <i>3, 67</i>.<p><b>Étym</b>. κ. πῆχυς.`

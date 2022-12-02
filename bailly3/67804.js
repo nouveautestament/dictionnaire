@@ -1,0 +1,1 @@
+lar[67804]=`<b>ναυσι·πομπός, ός, όν</b> <font color="purple">[ῐ]</font> qui pousse (<i>propr</i>. qui envoie) les vaisseaux, EUR. <i>Ph. 1712</i>.<p><b>Étym</b>. ν. πέμπω.`

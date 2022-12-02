@@ -1,0 +1,1 @@
+lar[52451]=`<b>κατ·αιονάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. κατῃόνησα)</font> mouiller, humecter, imbiber, <i>acc</i>. ATH. <i>41b ;</i> PLUT. <i>M. 74d ;</i> LUC. <i>Lex. 5 ; fig</i>. τινα σοφίᾳ, DC. <i>38, 19,</i> imprégner qqn de sagesse.`

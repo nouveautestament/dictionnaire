@@ -1,0 +1,1 @@
+lar[108600]=`<b>χλοηφορέω-ῶ</b>, produire de jeunes pousses, se couvrir de verdure, verdoyer, TH. <i>H.P. 8, 6, 5</i> ; PHIL. <i>De Temul. 241</i> ; CYRILL. <i>c. Jul. 2, 55, p. 585a</i>.<p><b>Étym</b>. χλοηφόρος.`

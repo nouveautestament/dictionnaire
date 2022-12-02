@@ -1,0 +1,1 @@
+lar[66963]=`<b>Μόψου ἑστία (ἡ)</b> STR. <i>676, ou</i> <b>Μόψου πόλις (ἡ)</b> ANTH. <i>9, 698,</i> le Foyer <i>ou</i> la Ville de Mopsos <i>en Cilicie</i>.`

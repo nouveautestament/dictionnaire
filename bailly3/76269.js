@@ -1,0 +1,1 @@
+lar[76269]=`<b>παρα·συκοφαντέω-ῶ</b> <font color="purple">[ῠ]</font> chicaner, critiquer en pointillant, PLUT. <i>M. 73b ;</i> PHIL. <i>1, 340</i>.`

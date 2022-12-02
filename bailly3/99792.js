@@ -1,0 +1,1 @@
+lar[99792]=`<b>ων (οἱ)</b> les habitants de Tusculum, PLUT. <i>Cam. 38</i>.<p><b>Étym</b>. Τοῦσκλον.`

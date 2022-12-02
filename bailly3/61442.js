@@ -1,0 +1,1 @@
+lar[61442]=`<b>λιφ·αιμέω</b>, <i>mieux que</i> <b>λειφ·αιμέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> perdre son sang, APP. <i>Celt. 10</i>.<br><b>      2</b> devenir exsangue <i>ou</i> pâle, ARSTT. <i>Probl. 4, 7, 2</i>.<p><b>Étym</b>. λείπω, αἷμα.`

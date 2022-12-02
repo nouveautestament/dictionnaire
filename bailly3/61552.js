@@ -1,0 +1,1 @@
+lar[61552]=`<b>λογχο·ειδής, ής, ές</b>, semblable à une lance, en forme de lance, DIOSC. <i>4, 146</i>.<p><b>Étym</b>. λ. εἶδος.`

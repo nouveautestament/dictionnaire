@@ -1,0 +1,1 @@
+lar[84577]=`<b>ας (ἡ)</b> garde que l’on monte devant qqe ch. POL. <i>2, 5, 6, etc</i>.<p><b>Étym</b>. πρόκοιτος.`

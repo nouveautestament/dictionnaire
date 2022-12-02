@@ -1,0 +1,1 @@
+lar[14173]=`<i>3 sg. impér. ao. act. de</i> αἴρω.`

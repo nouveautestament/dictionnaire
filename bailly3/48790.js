@@ -1,0 +1,1 @@
+lar[48790]=`<b>ου (ὁ)</b> Ikélos, <i>h</i>. PLUT. <i>Galb. 7 et 20</i>.`

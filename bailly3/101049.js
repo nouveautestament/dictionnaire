@@ -1,0 +1,1 @@
+lar[101049]=`<b>α, ον</b>, du Tymphè, <i>mt de Thesprotie, en Épire,</i> LYC. <i>802</i> ; ἡ Τυμφαία, TH. <i>Lap. 64,</i> le pays autour du Tymphè ; οἱ Τυμφαῖοι, STR. <i>326,</i> les habitants du Tymphè.`

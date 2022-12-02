@@ -1,0 +1,1 @@
+lar[4932]=`<b>ἄ·λοπος, ος, ον</b>, non teillé, <i>en parlant du lin,</i> AR. <i>Lys. 536</i>.<p><b>Étym</b>. ἀ, λέπω.`

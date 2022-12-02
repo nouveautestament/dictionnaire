@@ -1,0 +1,1 @@
+lar[99275]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> secours, protection, défense, HDT. <i>7, 169</i>.<br><b>      2</b> châtiment, PLAT. <i>Leg. 866b, Rsp. 363e.</i><br><b>      3</b> <i>p. suite,</i> vengeance, PLUT. <i>M. 860a</i>.<p><b>Étym</b>. τιμωρέω.`

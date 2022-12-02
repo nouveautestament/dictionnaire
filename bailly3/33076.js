@@ -1,0 +1,1 @@
+lar[33076]=`<b>ἐμ·βαρύθω</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) être lourd <i>ou</i> peser sur, <i>dat</i>. NIC. <i>Th. 324 ; abs. p. anal. en parl. d’odeurs,</i> NIC. <i>Th. 512</i>.<p><b>Étym</b>. ἐν, βαρύς.`

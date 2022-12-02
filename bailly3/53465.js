@@ -1,0 +1,1 @@
+lar[53465]=`<b>κατα·στολίζω</b>, vêtir, <i>particul</i>. parer, PLUT. <i>M. 65d</i>.`

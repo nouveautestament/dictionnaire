@@ -1,0 +1,1 @@
+lar[64743]=`<b>μετα·καταχέω</b>, verser ensuite, <i>en parl. d’un liquide,</i> HPC. <i>395, 15</i>.`

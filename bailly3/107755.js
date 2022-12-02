@@ -1,0 +1,1 @@
+lar[107755]=`<b>χαμαιδρυΐτης οἶνος (ὁ)</b> vin aromatisé de germandrée, DIOSC. <i>5, 51</i>.<p><b>Étym</b>. χαμαίδρυς.`

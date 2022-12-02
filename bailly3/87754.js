@@ -1,0 +1,1 @@
+lar[87754]=`<b>ων (τὰ)</b> Pyramies, <i>lieu d’Argolide,</i> PLUT. <i>Pyrrh. 32</i>.`

@@ -1,0 +1,1 @@
+lar[70469]=`<b>οἰν·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui sert à transporter du vin, CRAT. (POLL. <i>6, 23</i>) ; PHÉRÉCR. (ATH. <i>481c</i>).<p><b>Étym</b>. οἶνος, ἀγωγός.`

@@ -1,0 +1,1 @@
+lar[107460]=`<b>Χαιρέ·δημος, ου (ὁ)</b> Khærédèmos (Chærédème) <i>h</i>. PLAT. <i>Euthyd. 297e, etc</i>.<p><b>Étym</b>. χαίρω, δῆμος.`

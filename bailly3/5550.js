@@ -1,0 +1,1 @@
+lar[5550]=`<b>ἀ·μήρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qu’on ne peut parvenir à dérouler, interminable, A.RH. <i>2, 221</i>.<p><b>Étym</b>. ἀ, μηρύω.`

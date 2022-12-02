@@ -1,0 +1,1 @@
+lar[2020]=`<b>Ἀθην·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰᾱᾱ]</font> Athènagoras, <i>h</i>. THC. <i>6, 35, etc</i>.<p>➳ <i>Ion</i>. -όρης, HDT. <i>9, 90</i>.`

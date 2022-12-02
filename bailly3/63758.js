@@ -1,0 +1,1 @@
+lar[63758]=`<b>μελάγ·καρπος, ος, ον</b>, aux fruits noirs, EMPÉD. (PLUT. <i>M. 474c</i>).<p><b>Étym</b>. μ. καρπός.`

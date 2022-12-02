@@ -1,0 +1,1 @@
+lar[59349]=`<b>ων (τὰ)</b> Labrandes, <i>village de Carie avec un temple à Zeus,</i> HDT. <i>5, 119, etc</i>.`

@@ -1,0 +1,1 @@
+lar[46710]=`<b>θεο·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui lutte contre la divinité, LUC. <i>J. tr. 45</i> ; NT. <i>Ap. 5, 39</i>.<p><b>Étym</b>. θ. μάχομαι, <i>cf</i>. θεημάχος.`

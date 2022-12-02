@@ -1,0 +1,1 @@
+lar[49099]=`<b>Ἰό·βακχος, ου (ὁ) :<br>      1</b> <i>n. de Bacchus qu’on invoque par le cri de</i> ἰὼ βάκχε, A. PL. <i>289</i>.<br><b>      2</b> <i>titre de poèmes sur Bacchus, commençant par</i> ἰὼ βάκχε, ARCHIL. (HÉPH. <i>p. 94</i>) ; RHÉT. <i>9, 129 W., etc</i>.<p><b>Étym</b>. ἰώ, βάκχος.`

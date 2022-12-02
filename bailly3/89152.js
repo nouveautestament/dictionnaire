@@ -1,0 +1,1 @@
+lar[89152]=`<b>ωνος (ὁ)</b> Sakôn, <i>fondateur d’Himéra,</i> THC. <i>6, 5</i>.`

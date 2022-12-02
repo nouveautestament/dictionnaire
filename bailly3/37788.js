@@ -1,0 +1,1 @@
+lar[37788]=`<b>ατος (τὸ)</b> ce qu’on pose sur :<br><b>      1</b> chapiteau d’une colonne, SPT. <i>3Reg. 7, 16, etc.</i><br><b>      2</b> couvercle, JOS. <i>A.J. 3, 6, 5</i> ; RUF. <i>p. 172 Matthäi etc.</i><br><b>      3</b> <i>t. de méd</i>. emplâtre, ARÉT. <i>Cur. m. acut. 2, 2</i> ; DIOSC. <i>Iob. p. 46</i>.<p><b>Étym</b>. ἐπιτίθημι.`

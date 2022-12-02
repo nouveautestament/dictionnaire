@@ -1,0 +1,1 @@
+lar[64173]=`<b>μελλό·νυμφος, ου (ὁ, ἡ) :<br>      1</b> nubile, SOPH. <i>Tr. 207</i>.<br><b>      2</b> qui est sur le point de se marier, fiancé, LYC. <i>174 ; d’ord. en parl. de la femme</i> : ἡ μ. SOPH. <i>Ant. 633</i> ; DC. <i>58, 7,</i> fiancée.<p><b>Étym</b>. μ. νύμφη.`

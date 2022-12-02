@@ -1,0 +1,1 @@
+lar[88164]=`pêcher à la ligne, ARSTT. <i>H.A. 9, 37, 5</i>.<p><b>Étym</b>. ῥάβδος.`

@@ -1,0 +1,1 @@
+lar[40890]=`<b>ἐρωτιάω-ῶ</b>, être amoureux <i>ou</i> épris de, <i>gén</i>. A. TAT. <i>6, 20</i>.<p><b>Étym</b>. ἔρως.`

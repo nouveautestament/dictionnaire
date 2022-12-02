@@ -1,0 +1,1 @@
+lar[85160]=`<b>προσ·αναμάσσομαι</b>, encourir en outre, <i>acc</i>. BAS.`

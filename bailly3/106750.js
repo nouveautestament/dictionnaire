@@ -1,0 +1,1 @@
+lar[106750]=`<b>ου (ὁ)</b> = <i>lat</i>. Fulvius, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 29</i>.`

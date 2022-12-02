@@ -1,0 +1,1 @@
+lar[81855]=`<b>πολυ·δόναξ, ακος (ὁ, ἡ)</b> <font color="purple">[ᾰκ]</font> abondant en roseaux, CHRYS.`

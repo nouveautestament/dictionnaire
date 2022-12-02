@@ -1,0 +1,1 @@
+lar[67718]=`<b>ναύ·αρχος, ου (ὁ) :<br>      1</b> commandant d’un vaisseau, POL. <i>1, 21, 4</i>.<br><b>      2</b> commandant d’une flotte, amiral, HDT. <i>7, 59, etc.</i> ; THC. <i>4, 11 ; 8, 20, etc.</i> ; SOPH. <i>Aj. 1232</i>.<p><b>Étym</b>. ναῦς, ἄρχω.`

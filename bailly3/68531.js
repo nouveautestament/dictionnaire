@@ -1,0 +1,1 @@
+lar[68531]=`<i>adv</i>., sans pitié, ESCHL. <i>Pr. 240</i>.<p><b>Étym</b>. νηλεής.`

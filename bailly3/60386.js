@@ -1,0 +1,1 @@
+lar[60386]=`<b>ητος (ἡ)</b> état d’un corps atteint de la lèpre, CHRYS. <i>5, 150</i>.<p><b>Étym</b>. λεπρός.`

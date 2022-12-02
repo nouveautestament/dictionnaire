@@ -1,0 +1,1 @@
+lar[102334]=`<b>(ὁ)</b> Hyperbatas, <i>h</i>., PLUT. <i>Cleom. 14</i>.<p><b>Étym</b>. ὑπερβαίνω.`

@@ -1,0 +1,1 @@
+lar[46613]=`<b>θεο·γεννής, ής, ές</b>, engendré par un dieu, SOPH. <i>Ant. 834</i>.<p><b>Étym</b>. θ. γεννάω.`

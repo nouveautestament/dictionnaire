@@ -1,0 +1,1 @@
+lar[12162]=`<b>ἀπο·βροχθίζω</b> (<i>inf. ao</i>. -ίσαι) absorber, avaler, AR. <i>fr. 31</i>.`

@@ -1,0 +1,1 @@
+lar[18011]=`<b>ή, όν</b>, narratif, DH. <i>Rhet. 1, 8</i> ; RHÉT. <i>3, 559 W</i>.<p><b>Étym</b>. ἀφήγημα.`

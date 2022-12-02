@@ -1,0 +1,1 @@
+lar[91292]=`<b>σκυλακο·κτόνος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui tue les jeunes chiens, GLYCON <i>p. 1057 Bgk</i>.<p><b>Étym</b>. σκ. κτείνω.`

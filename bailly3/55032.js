@@ -1,0 +1,1 @@
+lar[55032]=`<b>ας (ἡ)</b> Kerkhneia, <i>fontaine près de Lerna,</i> ESCHL. <i>Pr. 676</i>.`

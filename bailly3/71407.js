@@ -1,0 +1,1 @@
+lar[71407]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> sujet d’entretien, de conversation, PLAT. <i>Leg. 730b.</i><br><b>      2</b> société, compagnie, EUR. <i>fr. 218 Nauck</i> ; LUC. <i>Am. 25</i>.<p><b>Étym</b>. ὁμιλέω.`

@@ -1,0 +1,1 @@
+lar[108073]=`<b>      1</b> hiverner, HDT. <i>6, 31 ; 7, 37 ; 8, 126, 130</i>.<br><b>      2</b> être orageux, TH. <i>fr. 5, 3, 5</i>.<p><b>Étym</b>. χειμέριος.`

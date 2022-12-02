@@ -1,0 +1,1 @@
+lar[31884]=`<b>ἔκπλοος-ους, όου-ου (ὁ) :<br>      1</b> départ d’un vaisseau <i>ou</i> sur un vaisseau, ESCHL. <i>Pers. 385</i> ; XÉN. <i>Hell. 2, 1, 17</i> ; ἔκπλουν ποιεῖσθαι, THC. <i>1, 65,</i> gagner le large, prendre la mer.<br><b>      2</b> lieu de départ d’un navire, passe d’un port, ESCHL. <i>Pers. 367</i> ; XÉN. <i>Hell. 1, 6, 18</i>.<p><b>Étym</b>. ἐκπλέω.`

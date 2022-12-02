@@ -1,0 +1,1 @@
+lar[16845]=`<b>ίδος (ἡ) :<br>      1</b> fille d’Atlas, HÉS. <i>Th. 938</i> ; STR. LUC. <i>etc.</i><br><b>      2</b> mer d’Atlas, Atlantique, HDT. <i>1, 202</i>.<br><b>      3</b> î. d’Atlas, Atlantide, <i>î. fabuleuse de l’Océan, au delà des colonnes d’Hercule,</i> PLAT. <i>Tim. 24a, etc.</i> ; STR. <i>etc</i>.<p><b>Étym</b>. Ἄτλας.`

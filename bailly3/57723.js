@@ -1,0 +1,1 @@
+lar[57723]=`<b>ή, όν</b>, qui retentit des coups du plectre, ESCHL. <i>Ch. 822</i>.<p><b>Étym</b>. <i>vb. de</i> κρέκω.`

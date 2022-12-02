@@ -1,0 +1,1 @@
+lar[36309]=`<b>ἔξ·ωρος, ος, ον :<br>      1</b> qui n’est pas de saison, intempestif, déplacé, SOPH. <i>El. 618</i>.<br><b>      2</b> qui n’est plus de saison, vieux, suranné, ESCHN. <i>1, 95</i> ; PLUT. <i>Syll. 36 ; avec le gén</i>. qui a passé l’âge de, LUC. <i>Herm. 78</i>.<p><b>Étym</b>. ἐξ, ὥρα.`

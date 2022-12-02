@@ -1,0 +1,1 @@
+lar[68698]=`<b>ου (ὁ)</b> = <i>lat</i>. Nigidius, <i>n. d’h. rom</i>. PLUT. <i>Cic. 20, etc</i>.`

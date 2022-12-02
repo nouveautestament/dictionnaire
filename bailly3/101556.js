@@ -1,0 +1,1 @@
+lar[101556]=`<b>Ὑδρο·μέδουσα, ης (ἡ)</b> Reine des eaux, <i>n. d’une grenouille,</i> BATR. <i>19</i>.<p><b>Étym</b>. ὕδ. μέδω.`

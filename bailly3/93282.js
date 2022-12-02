@@ -1,0 +1,1 @@
+lar[93282]=`<b>συγ·κατάγω</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> contribuer à ramener, AR. <i>Th. 339</i> ; PLAT. <i>Ep. 333e ;</i> ISOCR. <i>349d ;</i> ESCHN. <i>38, 21</i>.<br><b>      2</b> faire descendre en même temps, ARSTT. <i>H.A. 9, 37, 2, etc</i>.`

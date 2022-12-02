@@ -1,0 +1,1 @@
+lar[24449]=`<b>δια·βουλεύομαι :<br>      1</b> délibérer, discuter, THC. <i>2, 5 ; 6, 34</i> ; AND. <i>22, 12</i> ; δ. εἴτε… εἴτε, PLAT. <i>Pol. 304e</i>, délibérer pour savoir <i>ou</i> décider si… ou si, <i>etc.</i><br><b>      2</b> décider de, <i>inf</i>. LUC. <i>Pisc. 24</i>.`

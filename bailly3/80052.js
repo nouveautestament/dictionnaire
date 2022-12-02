@@ -1,0 +1,1 @@
+lar[80052]=`<b>ύδος (ἡ)</b> <font color="purple">[ᾰῠδ]</font> palamyde, sorte de thon appelé aussi κορδύλη, κύβιον <i>ou</i> ὄρκυνος, SOPH. <i>fr. 446</i> ; ARSTT. <i>H.A. 6, 17, 11</i> ; ATH. <i>116e, 303b</i>.`

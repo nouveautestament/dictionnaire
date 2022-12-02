@@ -1,0 +1,1 @@
+lar[57300]=`<b>κοσμο·φθόρος, ος, ον</b>, qui fait périr l’univers, ANTH. <i>11, 270</i>.<p><b>Étym</b>. κ. φθείρω.`

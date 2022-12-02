@@ -1,0 +1,1 @@
+lar[99362]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> reine, ESCHL. <i>fr. 266</i>.`

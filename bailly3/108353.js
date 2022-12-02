@@ -1,0 +1,1 @@
+lar[108353]=`<b>έως (ὁ)</b> <font color="purple">[ᾰῐ]</font> petit de l’oie d’Égypte, EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. χηναλώπηξ.`

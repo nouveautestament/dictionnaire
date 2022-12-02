@@ -1,0 +1,1 @@
+lar[10198]=`<b>ἀντι·παρατείνω :<br>      1</b> étendre (des troupes) sur une ligne parallèle, DC. <i>62, 8</i>.<br><b>      2</b> <i>fig</i>. établir en parallèle, comparer, opposer, PLAT. <i>Phædr. 257c</i>.`

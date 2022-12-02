@@ -1,0 +1,1 @@
+lar[75399]=`<b>ή, όν</b>, qui pousse <i>ou</i> repousse à côté, TH. <i>H.P. 1, 3, 3, vulg. corrigée en</i> παραβλαστητικός.<p><b>Étym</b>. παραβλαστάνω.`

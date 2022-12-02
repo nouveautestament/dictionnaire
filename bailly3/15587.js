@@ -1,0 +1,1 @@
+lar[15587]=`<b>Ἀρχί·δαμος, ου (ὁ)</b> <font color="purple">[ῐᾱ]</font> Arkhidamos, <i>roi de Lacédémone,</i> THC. <i>1, 79, etc</i>.<p>➳ <i>Ion. et att</i>. Ἀρχίδημος, HDT. <i>6, 71 ; 8, 131</i>.<p><b>Étym</b>. ἄρχω, δᾶμος <i>dor. c</i>. δῆμος.`

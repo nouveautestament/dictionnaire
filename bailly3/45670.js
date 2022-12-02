@@ -1,0 +1,1 @@
+lar[45670]=`<i>c</i>. ἡνιοχέω :<br><b>      1</b> <i>au propre,</i> IL. <i>11, 103, etc.</i> ; OD. <i>6, 319</i>.<br><b>      2</b> <i>fig. avec l’acc</i>. ANTH. <i>9, 696, etc. ; avec le gén</i>. ANACR. <i>4 ; joint à</i> βασιλεύειν, PLUT. <i>M. 155a</i>.<p><b>Étym</b>. ἡνιοχεύς.`

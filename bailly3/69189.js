@@ -1,0 +1,1 @@
+lar[69189]=`<i>adv</i>., pendant la nuit, HÉS. <i>O. 175</i> ; SOPH. <i>Aj. 47, 1056</i> ; EUR. <i>Bacch. 469, etc.</i> ; PLUT. <i>M. 687c, etc</i>.<p><b>Étym</b>. νύξ.`

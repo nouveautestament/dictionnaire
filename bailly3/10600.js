@@ -1,0 +1,1 @@
+lar[10600]=`<b>ἀντι·χειροτονέω-ῶ</b>, voter à main levée contre, <i>abs</i>. THC. <i>6, 13 et 24</i> ; AR. <i>Eccl. 423 ; avec un dat</i>. M. TYR. <i>17 ; avec</i> ὡς, DÉM. <i>1346, 25</i>.`

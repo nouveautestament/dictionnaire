@@ -1,0 +1,1 @@
+lar[21032]=`<b>ου (τὸ)</b> tannerie, JUL. <i>fr. 314e</i>.`

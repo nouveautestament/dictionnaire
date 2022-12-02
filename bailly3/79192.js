@@ -1,0 +1,1 @@
+lar[79192]=`<b>εως (ἡ)</b> conjoncture, accident, HPC. <i>26, 1</i> ; PLUT. <i>M. 918c ;</i> SEXT. <i>P. 1, 144, etc</i>.<p><b>Étym</b>. περιπίπτω.`

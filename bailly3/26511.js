@@ -1,0 +1,1 @@
+lar[26511]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> jugement, PHIL. <i>1, 133</i>.<p><b>Étym</b>. δικάζω.`

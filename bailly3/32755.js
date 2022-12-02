@@ -1,0 +1,1 @@
+lar[32755]=`<b>ἐλεφαντό·βοτος, ος, ον</b>, où paissent les éléphants, NONN. <i>D. 39, 26</i>.<p><b>Étym</b>. ἐ. βόσκω.`

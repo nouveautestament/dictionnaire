@@ -1,0 +1,1 @@
+lar[72675]=`<b>(ὁ)</b> <font color="purple">[ᾱ]</font> Orthaôn, <i>Centaure,</i> NONN. <i>D. 14, 190</i>.`

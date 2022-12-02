@@ -1,0 +1,1 @@
+lar[50461]=`<b>καθ·οριστικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui sert à définir, à déterminer, CLÉM. <i>2, 472 Migne</i>.<p><b>Étym</b>. κ. ὁρίζω.`

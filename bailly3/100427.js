@@ -1,0 +1,1 @@
+lar[100427]=`<b>τρισ·άνθρωπος, ος, ον</b>, trois fois homme, <i>càd</i>. trois fois malheureux, tout à fait malheureux, DIOG. (DL. <i>6, 47</i>).`

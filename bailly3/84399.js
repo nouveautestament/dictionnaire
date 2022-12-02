@@ -1,0 +1,1 @@
+lar[84399]=`<b>προ·ϊππεύω</b>, aller à cheval en avant, PLUT. <i>Syll. 28</i> ; τινός, PLUT. <i>Cam. 2,</i> s’avancer à cheval devant qqn.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>Popl. 22</i>.`

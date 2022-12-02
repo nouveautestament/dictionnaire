@@ -1,0 +1,1 @@
+lar[93159]=`<font color="purple">[ῠᾰ]</font> vivre en Sybarite, dans la mollesse, AR. <i>Pax 344</i> ; ARCHYT. (STOB. <i>Fl. 43, 134).</i><p><b>Étym</b>. Σύβαρις.`

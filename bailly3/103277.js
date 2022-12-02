@@ -1,0 +1,1 @@
+lar[103277]=`<b>ὑπο·θρύπτομαι :<br>      1</b> être un peu efféminé <i>ou</i> émoussé, PLUT. <i>Per. 15</i>.<br><b>      2</b> se livrer secrètement au plaisir : τινος προσώπῳ, ANTH. <i>5, 294,</i> sur le visage de qqn, <i>càd</i>. lui donner des baisers.`

@@ -1,0 +1,1 @@
+lar[75394]=`<b>παρα·βλαστάνω :<br>      1</b> pousser des rejetons, se développer, HPC. <i>401, 8</i> ; ARSTT. <i>G.A. 3, 11 ; fig</i>. PLAT. <i>Rsp. 573d.</i><br><b>      2 <i>tr.</i></b> faire pousser, THÉM. <i>360b</i>.`

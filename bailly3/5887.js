@@ -1,0 +1,1 @@
+lar[5887]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰᾰῐδ]</font> petite amande, amande, PHILOX. (ATH. <i>643c</i>) ; PLUT. <i>M. 624d</i>.<p><b>Étym</b>. ἀμυγδάλη.`

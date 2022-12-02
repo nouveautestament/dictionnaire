@@ -1,0 +1,1 @@
+lar[38714]=`<b>ας</b>, <i>adj. f</i>. qui frappe sur, qui châtie, ANTH. <i>6, 233</i>.<p><b>Étym</b>. ἐπιπλήσσω.`

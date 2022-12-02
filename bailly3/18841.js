@@ -1,0 +1,1 @@
+lar[18841]=`<b>βαϊνός, ός, όν</b>, fait de branches de palmier, SYMM. <i>Gen. 40, 16</i>.<p><b>Étym</b>. βάϊς.`

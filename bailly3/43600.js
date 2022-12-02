@@ -1,0 +1,1 @@
+lar[43600]=`<b>εὔ·τοκος, ος, ον</b>, qui enfante heureusement <i>ou</i> aisément, ARSTT. <i>H.A. 6, 22, au cp</i>. -ώτερος ; ARSTT. <i>H.A. 6, 18, au</i> <i>• Sup</i>. -ώτατος.<p><b>Étym</b>. εὖ, τίκτω.`

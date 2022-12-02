@@ -1,0 +1,1 @@
+lar[33887]=`<b>ἐναντιο·ζύγως</b> <font color="purple">[ῠ]</font> <i>adv</i>., par une combinaison en sens contraire, THEOL. <i>11</i>.<p><b>Étym</b>. ἐν. ζυγός.`

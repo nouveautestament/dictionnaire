@@ -1,0 +1,1 @@
+lar[78204]=`<b>ιδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> sorte de pierre semblable à un grain de poivre, PLIN. <i>H.N. 20, 66</i>.<p><b>Étym</b>. πέπερι.`

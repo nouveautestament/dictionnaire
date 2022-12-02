@@ -1,0 +1,1 @@
+lar[85661]=`<b>προσ·επιγεννάω-ῶ</b>, engendrer <i>ou</i> produire encore, TH. <i>C.P. 1, 11, 6</i>.`

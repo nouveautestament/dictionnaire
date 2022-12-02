@@ -1,0 +1,1 @@
+lar[68762]=`<b>Νικό·δρομος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikodromos, <i>h</i>. HDT. <i>6, 88</i>.<p><b>Étym</b>. νικάω, δρόμος.`

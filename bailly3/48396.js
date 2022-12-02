@@ -1,0 +1,1 @@
+lar[48396]=`<b>ἰδιο·βουλέω-ῶ</b> <font color="purple">[ῐδ]</font> prendre conseil seulement de soi, DC. <i>43, 27</i>.<p><b>Étym</b>. ἴδιος, βουλή.`

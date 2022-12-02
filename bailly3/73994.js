@@ -1,0 +1,1 @@
+lar[73994]=`<b>ὀψιανὸς λίθος (ὁ)</b> <font color="purple">[ῐᾰ]</font> obsidienne, <i>sorte d’agate noire,</i> M. RUBR. <i>5</i> ; ORPH. <i>Lith. 282</i>.`

@@ -1,0 +1,1 @@
+lar[7913]=`<b>ή, όν</b> <font color="purple">[χᾰ]</font> qui relâche, DIOSC. <i>1, 183</i>.`

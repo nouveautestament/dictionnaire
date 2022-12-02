@@ -1,0 +1,1 @@
+lar[12303]=`<b>ἀπο·δίομαι</b> (<i>sbj</i>. ἀποδίωμαι <font color="purple">[ᾱ <i>à l’arsis</i>]</font>) repousser, IL. <i>5, 763 (sel. d’autres,</i> ἐξαποδίομαι).<p><b>Étym</b>. ἀπό, *δίομαι.`

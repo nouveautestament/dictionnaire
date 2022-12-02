@@ -1,0 +1,1 @@
+lar[66373]=`<b>ου (τὸ)</b> petit du sanglier, marcassin, EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. μολοβρός.`

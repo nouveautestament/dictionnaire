@@ -1,0 +1,1 @@
+lar[43850]=`<b>εὔ·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> plein d’âme, courageux, ardent, ESCHL. <i>Pers. 394</i> ; EUR. <i>Rhes. 510</i> ; PLAT. <i>Leg. 830c ; joint à</i> ἀνδρεῖος, DIN. <i>100, 19</i> ; τὸ εὔψυχον, THC. <i>2, 39 et 43,</i> magnanimité, générosité.<p>•<i> Sup</i>. -ότατος, THC. <i>2, 11</i> ; ARSTT. <i>Rhet. Al. 2</i>.<p><b>Étym</b>. εὖ, ψυχή.`

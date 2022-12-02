@@ -1,0 +1,1 @@
+lar[51129]=`<b>καλλί·θριξ</b>, <i>gén</i>. <b>καλλίτριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font><br><b>      1</b> à la belle crinière, IL. <i>5, 323</i> ; OD. <i>3, 475, etc.</i><br><b>      2</b> à la belle toison, OD. <i>9, 336, 469</i>.<p><b>Étym</b>. κ. θρίξ.`

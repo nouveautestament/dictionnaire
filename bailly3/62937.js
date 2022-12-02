@@ -1,0 +1,1 @@
+lar[62937]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Marianus, <i>poète de l’Anthologie,</i> ANTH. <i>9, 626, etc</i>.`

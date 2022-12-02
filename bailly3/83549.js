@@ -1,0 +1,1 @@
+lar[83549]=`<b>προ·ανακηρύττω</b>, proclamer d’avance, CHRYS.`

@@ -1,0 +1,1 @@
+lar[16283]=`<b>ος, ον</b> <font color="purple">[ᾰπ]</font> <i>c</i>. ἀστραπαῖος, ORPH. <i>H. 14, 9</i>.<p><b>Étym</b>. ἀστραπή.`

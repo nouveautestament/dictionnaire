@@ -1,0 +1,1 @@
+lar[66020]=`<b>μισό·γελως, ωτος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> qui hait le rire, A. ÉTOL. (A. GELL. <i>15, 20).</i><p><b>Étym</b>. μ. γέλως.`

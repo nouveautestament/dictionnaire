@@ -1,0 +1,1 @@
+lar[79724]=`<b>εως (ἡ)</b> refoulement, ARSTT. <i>Respir. 5, 1</i>.<p><b>Étym</b>. περιωθέω.`

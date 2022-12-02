@@ -1,0 +1,1 @@
+lar[29907]=`<b>ἐγχέσ·παλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui lance la javeline, IL. <i>2, 131</i>.<p><b>Étym</b>. ἔγχος, πάλλω.`

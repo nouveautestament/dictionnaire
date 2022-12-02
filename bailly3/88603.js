@@ -1,0 +1,1 @@
+lar[88603]=`<b>ῥινό·βατος, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> sorte de raie qui tient à la fois du poisson ῥίνη et du poisson βάτος, <i>p.-ê. le</i> poisson-guitare, ARSTT. <i>H.A. 6, 11, 7</i>.`

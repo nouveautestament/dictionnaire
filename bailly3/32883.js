@@ -1,0 +1,1 @@
+lar[32883]=`<b>ος, ον</b>, qu’on peut tirer : ἕλκυστρον ξύλον, APD. POL. pièce de bois mobile verticalement.<p><b>Étym</b>. ἑλκύω.`

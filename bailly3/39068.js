@@ -1,0 +1,1 @@
+lar[39068]=`<b>ῶν (αἱ)</b> filles puînées, HÉCAT. (EM. <i>596, 35).</i><p><b>Étym</b>. <i>cf</i>. μέτασσαι.`

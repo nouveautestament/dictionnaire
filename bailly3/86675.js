@@ -1,0 +1,1 @@
+lar[86675]=`<b>ατος (τὸ) :<br>      1</b> atterrissement, ESCHL. <i>Pr. 847</i> ; STR. <i>598</i>.<br><b>      2</b> remblai, chaussée, terrasse élevée contre (le mur d’une ville assiégée) SPT. <i>2Reg. 20, 15</i>.<p><b>Étym</b>. προσχώννυμι.`

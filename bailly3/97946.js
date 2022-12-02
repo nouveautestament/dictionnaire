@@ -1,0 +1,1 @@
+lar[97946]=`<b>ιδος</b>, <i>adj. f</i>. de Tégée, XÉN. <i>Hell. 6, 5, 16 ; subst</i>. ἡ Τ. (<i>s.-e</i>. χώρα) THC. <i>5, 65,</i> le territoire de Tégée.<p><b>Étym</b>. Τεγέα.`

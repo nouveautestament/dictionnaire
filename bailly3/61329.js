@@ -1,0 +1,1 @@
+lar[61329]=`<b>λιπό·θριξ</b>, <i>mieux que</i> <b>λειπό·θριξ, -τριχος (ὁ, ἡ)</b> qui a perdu ses cheveux, chauve, EL. <i>N.A. 17, 4</i>.<p><b>Étym</b>. λείπω, θρίξ.`

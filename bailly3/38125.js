@@ -1,0 +1,1 @@
+lar[38125]=`<b>ἐπί·κοτος, ος, ον :<br>      1</b> <i>act</i>. qui garde rancune, vindicatif, ESCHL. <i>Pr. 602, Sept. 786, Ch. 628 ; p. ext</i>. ennemi, hostile, PD. <i>fr. 228</i>.<br><b>      2</b> <i>pass</i>. digne de haine, de ressentiment, SOPH. <i>fr. 386</i>.`

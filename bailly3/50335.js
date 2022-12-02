@@ -1,0 +1,1 @@
+lar[50335]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de manière à être retenu, PHILSTR. <i>712</i>.`

@@ -1,0 +1,1 @@
+lar[22954]=`<b>δαιδαλό·χειρ, -χειρος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux mains habiles, ANTH. <i>6, 204</i>.<p><b>Étym</b>. δαίδαλος, χείρ.`

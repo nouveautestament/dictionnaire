@@ -1,0 +1,1 @@
+lar[95460]=`<b>συν·εμβιβάζω</b> <font color="purple">[ῐ]</font> faire entrer en même temps, DS. <i>20, 68 conj</i>.`

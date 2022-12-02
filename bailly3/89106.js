@@ -1,0 +1,1 @@
+lar[89106]=`(<i>inf. ao</i>. σαικωνίσαι) remuer, AR. <i>fr. 674 Dind</i>.`

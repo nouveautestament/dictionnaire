@@ -1,0 +1,1 @@
+lar[63441]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> grandeur, CHRYSIPP. (PLUT. <i>M. 441b</i>).<p><b>Étym</b>. μέγας.`

@@ -1,0 +1,1 @@
+lar[69449]=`<font color="purple">[ῐ]</font><br><b>      1</b> vivre à l’étranger, POL. <i>12, 28, 6</i> ; STR. <i>673</i> ; LUC. <i>Patr. enc. 8</i>.<br><b>      2</b> servir comme soldat étranger, comme mercenaire, ISOCR. <i>410c</i>.<p><b>Étym</b>. ξένος.`

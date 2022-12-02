@@ -1,0 +1,1 @@
+lar[100920]=`<b>Τρωγλο·δύτης, ου (ὁ)</b> Troglodyte ; <i>au pl</i>. les Troglodytes, <i>pple d’Éthiopie, qui vivait dans des cavernes,</i> HDT. <i>4, 183, etc.</i> ; DS. <i>3, 31, etc.</i> ; STR. <i>774, 819</i>.<p><b>Étym</b>. <i>cf</i>. τρωγλοδύτης.`

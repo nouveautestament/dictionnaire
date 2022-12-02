@@ -1,0 +1,1 @@
+lar[31418]=`<b>ητος (ἡ)</b> excentricité, <i>t. de math</i>. JAMBL. <i>V. Pyth. 6, 31</i>.<p><b>Étym</b>. ἔκκεντρος.`

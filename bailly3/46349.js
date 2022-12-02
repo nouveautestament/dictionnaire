@@ -1,0 +1,1 @@
+lar[46349]=`<b>ου (ὁ)</b> Thauborios, <i>h</i>. ANTH. <i>5, 185</i>.`

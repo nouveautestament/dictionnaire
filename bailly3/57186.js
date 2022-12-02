@@ -1,0 +1,1 @@
+lar[57186]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> homme armé d’une massue, IL. <i>7, 9, 138</i> ; PAUS. <i>8, 11, 4 ; particul</i>. l’homme à la massue, <i>càd</i>. le brigand Périphétès, PLUT. <i>Thes. 8, Thes. c. Rom. 1, etc</i>.<p><b>Étym</b>. κορυνάω.`

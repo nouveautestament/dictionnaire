@@ -1,0 +1,1 @@
+lar[7540]=`<b>ἀναρπάξ·ανδρος, α, ον</b>, qui entraîne les hommes (le Sphinx) ESCHL. <i>Sept. 776</i>.<p><b>Étym</b>. ἀναρπάζω, ἀνήρ.`

@@ -1,0 +1,1 @@
+lar[1985]=`<b>ητος (ἡ) :<br>   I.1</b> athéisme, PHIL. <i>1, 360, etc.</i><br><b>      2</b> <i>particul</i>. la non-croyance aux dieux reconnus, DC. <i>67, 14, 2</i>.<br><b>   II</b> impiété, <i>en gén</i>. PLAT. <i>Pol. 308e ; au pl</i>. PLAT. <i>Leg. 967c</i>.<p><b>Étym</b>. ἄθεος.`

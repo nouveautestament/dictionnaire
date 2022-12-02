@@ -1,0 +1,1 @@
+lar[76538]=`<b>παρ·έγκειμαι</b>, se trouver placé entre, GAL. <i>18, 189</i>.`

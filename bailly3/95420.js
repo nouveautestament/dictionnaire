@@ -1,0 +1,1 @@
+lar[95420]=`<i>adv</i>., en resserrant, en abrégeant, PROCL. <i>Plat. 1 Alc. p. 52</i>.<p><b>Étym</b>. συνεκτικός.`

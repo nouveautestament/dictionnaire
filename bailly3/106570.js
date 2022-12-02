@@ -1,0 +1,1 @@
+lar[106570]=`<b>φοινικο·πάρυφος, ος, ον</b> <font color="purple">[ῑᾰῠ]</font> bordé de pourpre, <i>en parl. de la trabea romaine,</i> DH. <i>6, 13</i>.<p><b>Étym</b>. φ. παρυφή.`

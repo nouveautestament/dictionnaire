@@ -1,0 +1,1 @@
+lar[79371]=`<b>περι·στείχω</b>, aller autour de, <i>acc</i>. OD. <i>4, 277</i> ; ANTH. <i>5, 139 ; abs</i>. circuler, <i>en parl. d’une coupe,</i> CALL. <i>fr. 109</i>.`

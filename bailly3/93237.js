@@ -1,0 +1,1 @@
+lar[93237]=`<b>συγ·καθιερόω-ῶ</b>, consacrer en même temps <i>ou</i> ensemble, PLUT. <i>Cam. 8, M. 612d</i>.`

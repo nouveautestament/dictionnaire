@@ -1,0 +1,1 @@
+lar[67213]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> parfum, onguent, SYMM. <i>Esaï. 57, 9</i>.<br><b>      2</b> officine de parfumeur, HIPPIATR. <i>p. 137, 19</i>.<p><b>Étym</b>. μυρεψός.`

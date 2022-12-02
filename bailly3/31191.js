@@ -1,0 +1,1 @@
+lar[31191]=`<b>ἐκ·διδράσκω</b>, s’enfuir, s’échapper, THC. <i>1, 126, etc.</i> ; ἐκ <i>et le gén</i>. HDT. <i>3, 4 ; 4, 148, etc</i>.<p>➳ <i>Ao.2 ind. 1 pl</i>. ἐξέδραμεν, EUR. <i>Her. 14 ; inf</i>. ἐκδρᾶναι, DC. <i>37, 47 ; part. fém</i>. ἐκδρᾶσα, AR. <i>Eccl. 55 ; plur. masc</i>. ἐκδράντες, HDT. <i>4, 148. — Ion</i>. ἐκδιδρήσκω, HDT. <i>3, 4 ; 6, 24, etc</i>.`

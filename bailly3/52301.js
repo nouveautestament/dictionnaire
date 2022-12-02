@@ -1,0 +1,1 @@
+lar[52301]=`<b>κατα·δέρκομαι</b> <font color="darkgreen">(<i>f</i>. -δέρξομαι, <i>ao.1</i> κατεδέρχθην)</font> regarder d’en haut : ἐπὶ χθόνα, HH. <i>Cer. 70,</i> sur la terre ; τι, OD. <i>11, 16</i> ; SOPH. <i>Tr. 1000,</i> qqe ch.<p>➳ <i>Prés. 2 sg. poét</i>. -δέρκεαι, HH. <i>l. c</i>.`

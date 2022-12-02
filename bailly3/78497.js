@@ -1,0 +1,1 @@
+lar[78497]=`<b>περι·γομφόω-ῶ</b>, attacher (<i>propr</i>. clouer) à un poteau, LIB. <i>3, 218</i>.`

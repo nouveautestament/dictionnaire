@@ -1,0 +1,1 @@
+lar[4895]=`<i>adv</i>., sans réflexion, <i>d’où</i> sans raison, THC. <i>3, 45</i> ; PLAT. <i>Prot. 324b, Tim. 87c ;</i> POL. <i>1, 51, 2, etc.</i> ; PLUT. <i>M. 171e, etc</i>.`

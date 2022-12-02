@@ -1,0 +1,1 @@
+lar[46226]=`<b>θαλλο·φόρος, ου (ὁ, ἡ)</b> thallophore, vieillard <i>ou</i> femme qui portait un rameau d’olivier (aux Panathénées) XÉN. <i>Conv. 4, 17</i> ; AR. <i>Vesp. 544</i>.<p><b>Étym</b>. θαλλός, φέρω.`

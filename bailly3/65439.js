@@ -1,0 +1,1 @@
+lar[65439]=`<b>ᾶ (ὁ)</b> Mènas :<br><b>      1</b> <i>Lacédémonien,</i> THC. <i>5, 19, etc.</i><br><b>      2</b> <i>autre,</i> PLUT. <i>Ant. 32, etc</i>.<p>➳ <i>Voc</i>. Μηνᾶ, PLUT. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[100730]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> fromage frais, AR. <i>Vesp. 838 ; fr. 536</i> ; EUP. (SCH.-AR. <i>Vesp. 925</i>) ; ARSTT. <i>H.A. 3, 20, 14, etc</i>.<p><b>Étym</b>. τρέφω.`

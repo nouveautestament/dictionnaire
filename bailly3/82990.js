@@ -1,0 +1,1 @@
+lar[82990]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à un fleuve, EUN. (PHOT. <i>Bibl. p. 54, 15).</i><p><b>Étym</b>. ποταμός, -ωδης.`

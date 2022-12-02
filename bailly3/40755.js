@@ -1,0 +1,1 @@
+lar[40755]=`<b>οῦ (ὁ)</b> éructation, rot, ARSTT. <i>Probl. 13, 4</i> ; TH. <i>fr. 4, 61</i>.<p><b>Étym</b>. ἐρεύγομαι.`

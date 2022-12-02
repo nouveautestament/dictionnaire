@@ -1,0 +1,1 @@
+lar[45565]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> long d’un demi-stade, LUC. <i>V.H. 1, 40</i>.<p><b>Étym</b>. ἡμιστάδιον.`

@@ -1,0 +1,1 @@
+lar[95972]=`<b>συν·θρανόω-ῶ</b> <font color="purple">[ᾱ]</font> ruiner de fond en comble, EUR. <i>Bacch. 633</i>.`

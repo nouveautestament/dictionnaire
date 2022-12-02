@@ -1,0 +1,1 @@
+lar[85953]=`<b>προσ·καταλείφω</b> <font color="purple">[ᾰᾰ]</font> enduire en outre, ARSTT. <i>H.A. 5, 20, 1</i>.`

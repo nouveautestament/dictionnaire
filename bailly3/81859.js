@@ -1,0 +1,1 @@
+lar[81859]=`<b>πολυ·δράστεια, ας (ἡ)</b> grande efficacité, CORN. <i>N.D. 13</i>.<p><b>Étym</b>. π. δράω.`

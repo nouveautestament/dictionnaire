@@ -1,0 +1,1 @@
+lar[19713]=`<b>βιβλιο·πώλης, ου (ὁ)</b> libraire, NICOPH. (ATH. <i>126f</i>) ; ARISTOM. (POLL. <i>7, 211) ; etc</i>.<p><b>Étym</b>. βιβλίον, πωλέω.`

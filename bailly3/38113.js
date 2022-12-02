@@ -1,0 +1,1 @@
+lar[38113]=`<b>ῆς (ἡ)</b> coupure, incision, <i>d’où</i> :<br><b>      1</b> taille d’un arbre, TH. <i>C.P. 5, 17, 3</i>.<br><b>      2</b> blessure, DC. <i>38, 50, etc</i>.<p><b>Étym</b>. ἐπικόπτω.`

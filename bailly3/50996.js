@@ -1,0 +1,1 @@
+lar[50996]=`<b>ων (οἱ)</b> Kalames (<i>propr</i>. les Roseaux) <i>v. de Samos,</i> HDT. <i>9, 96</i>.<p><b>Étym</b>. κάλαμος.`

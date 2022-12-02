@@ -1,0 +1,1 @@
+lar[86790]=`<b>ου (τὸ)</b> <font color="purple">[τῑ]</font> arrhes, LUC. <i>Rh. præc. 17</i>.<p><b>Étym</b>. π. τιμή.`

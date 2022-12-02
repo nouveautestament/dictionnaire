@@ -1,0 +1,1 @@
+lar[49978]=`<font color="purple">[ῐ]</font> <i>c</i>. ἰτέον, AR. <i>Nub. 131</i> ; DIPH. <i>(Bkk. 100, 12</i>) ; SYN. <i>254</i>.`

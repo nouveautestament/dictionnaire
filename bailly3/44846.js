@@ -1,0 +1,1 @@
+lar[44846]=`<i>particule épq</i>. comme, <i>dans la locut</i>. ἣ θέμις ἐστί, IL. <i>2, 73</i> ; OD. <i>3, 45, etc</i>. comme c’est la règle.`

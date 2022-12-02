@@ -1,0 +1,1 @@
+lar[17358]=`<b>αὐτ·ερέτης, ου (ὁ) :<br>      1</b> qui est à la fois rameur et soldat (<i>litt</i>. qui rame lui-même, <i>en parl. de soldats</i>) THC. <i>1, 10 ; 3, 18, etc.</i><br><b>      2</b> qui est son propre rameur, <i>càd</i>. qui conduit lui-même sa barque, ANTH. <i>7, 305</i>.<p><b>Étym</b>. αὐτός, ἐρέτης.`

@@ -1,0 +1,1 @@
+lar[77597]=`<b>πειθ·ανάγκη, ης (ἡ)</b> <font color="purple">[ᾰν]</font> persuasion contrainte, <i>càd</i>. imposée par l’évidence <i>ou</i> la force des choses, POL. <i>22, 25, 7</i> ; CIC. <i>Att. 9, 13</i> ; SYN. <i>De regn. 15, 1097b Migne</i>.<p><b>Étym</b>. πείθω, ἀνάγκη.`

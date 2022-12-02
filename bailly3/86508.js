@@ -1,0 +1,1 @@
+lar[86508]=`<b>ατος (τὸ) :<br>      1</b> disgrâce, infortune qui s’attache à qqn, ESCHL. <i>Ag. 395</i>.<br><b>      2</b> débris, fragment, PLUT. <i>M. 99c</i>.<p><b>Étym</b>. προστρίβω.`

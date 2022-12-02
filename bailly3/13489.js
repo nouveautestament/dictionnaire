@@ -1,0 +1,1 @@
+lar[13489]=`<b>ἀπο·συρίζω</b> <font color="purple">[ῡ]</font> siffler fortement, HH. <i>Merc. 280 ; au pass</i>. résonner avec un sifflement, <i>ou simpl</i>. être sifflé, <i>en parl. d’un air,</i> LUC. <i>V.H. 2, 5</i>.`

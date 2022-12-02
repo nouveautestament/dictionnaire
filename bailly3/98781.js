@@ -1,0 +1,1 @@
+lar[98781]=`<b>ου (ὁ)</b> ARSTT. <i>H.A. 4, 1, 8 et</i> <b>τευθός, οῦ (ὁ)</b> seiche <i>ou</i> calmar de grande espèce, ARSTT. <i>H.A. 9, 2, 1</i>.<p><b>Étym</b>. <i>cf</i>. τευθίς.`

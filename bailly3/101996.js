@@ -1,0 +1,1 @@
+lar[101996]=`<b>ὑπ·αποτρέχω</b> <font color="purple">[ῠᾰ]</font> s’en aller en courant, se sauver, AR. <i>Eccl. 284</i>.`

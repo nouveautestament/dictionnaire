@@ -1,0 +1,1 @@
+lar[10236]=`<b>εως (ἡ)</b> corrélation <i>ou</i> rapport inverse, <i>t. d’arithm</i>. NICOM. <i>Theol. p. 75</i>.<p><b>Étym</b>. ἀντιπέπονθα, <i>pf. de</i> ἀντιπάσχω.`

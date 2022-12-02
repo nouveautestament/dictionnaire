@@ -1,0 +1,1 @@
+lar[99672]=`<b>οῦ (ὁ)</b> tourneur, M. ANT. <i>5, 1</i> ; ARISTOX. <i>Harm. el. 2, p. 33c</i>.<p><b>Étym</b>. τορνεύω.`

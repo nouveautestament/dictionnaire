@@ -1,0 +1,1 @@
+lar[51239]=`<b>καλλί·τεχνος, ος, ον</b> <font color="purple">[ῐ]</font> qui travaille avec art, STR. <i>41, 757,</i> THÉM. <i>56</i>.<p><b>Étym</b>. κ. τέχνη.`

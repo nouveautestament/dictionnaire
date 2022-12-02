@@ -1,0 +1,1 @@
+lar[68612]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> innombrable, infini, HÉS. <i>O. 50</i> ; A.RH. <i>3, 1288 ; 4, 158</i>.<p><b>Étym</b>. νη-, ἀρι-, compter, <i>v</i>. ἀριθμός ; <i>cf</i>. εἰκοσινήριτος.`

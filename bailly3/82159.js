@@ -1,0 +1,1 @@
+lar[82159]=`<b>πολυ·νίκης, ου (ὁ)</b> <font color="purple">[ῠῑ]</font> souvent vainqueur, LUC. <i>Lex. 11</i>.<p><b>Étym</b>. π. νικάω.`

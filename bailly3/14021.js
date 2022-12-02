@@ -1,0 +1,1 @@
+lar[14021]=`<b>ἄ·πτιλος, ος, ον</b> <font color="purple">[ῐ]</font> sans plumes, JUL. <i>383c</i>.<p><b>Étym</b>. ἀ, πτίλον.`

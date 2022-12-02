@@ -1,0 +1,1 @@
+lar[21124]=`<b>ων (οἱ)</b> = <i>lat</i>. Gabii :<br><b>      1</b> Gabies, <i>v. du Latium,</i> DIOCL. (PLUT. <i>Rom. 6, etc</i>.) ; DH. <i>1, 84 ; etc.</i><br><b>      2</b> les Gabiens, DH. <i>4, 53, 58</i> ; APP. <i>Reg. 6</i>.`

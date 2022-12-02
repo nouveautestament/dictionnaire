@@ -1,0 +1,1 @@
+lar[65042]=`<b>μετα·χαλκεύω</b>, refondre <i>ou</i> reforger des métaux, EUM. <i>p. 150</i>.<p><b>Étym</b>. μ. χαλκός.`

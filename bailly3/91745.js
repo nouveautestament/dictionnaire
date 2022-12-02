@@ -1,0 +1,1 @@
+lar[91745]=`<b>ου (τὸ)</b> <font color="purple">[γᾰ]</font> <i>sorte de plante,</i> DIOSC. <i>4, 21</i>.`

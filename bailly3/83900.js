@@ -1,0 +1,1 @@
+lar[83900]=`<b>προ·δημιουργέω-ῶ</b>, créer auparavant, PLOT. <i>de Pulchr. 411 Creuz</i>.`

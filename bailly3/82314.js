@@ -1,0 +1,1 @@
+lar[82314]=`<b>πολύ·πτολις, ις, ι</b>, <i>gén</i>. <b>ιος</b>, aux villes nombreuses, CALL. <i>Dian. 225, Del. 266</i>.<p><b>Étym</b>. π. πτόλις.`

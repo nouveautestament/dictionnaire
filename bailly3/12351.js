@@ -1,0 +1,1 @@
+lar[12351]=`<b>εως (ἡ)</b> découragement, dégoût, CORN. <i>c. 35 p. 234</i>.<p><b>Étym</b>. <i>v</i>. ἀποδυσπετέω.`

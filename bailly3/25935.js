@@ -1,0 +1,1 @@
+lar[25935]=`<b>ος, ον</b>, enduit d’un onguent, DIOSC. <i>1, 34</i> ; ARÉT. <i>76 ; subst</i>. τὸ διάχριστον, DIOSC. <i>1, 34,</i> onguent.<p><b>Étym</b>. διαχρίω.`

@@ -1,0 +1,1 @@
+lar[40953]=`<b>(ὁ)</b> Esdras, <i>n. d’h. hébreu,</i> JOS. <i>A.J. 11, 5, 1 ; titre d’un des Livres de l’Ancien Testament</i>.`

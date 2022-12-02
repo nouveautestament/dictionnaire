@@ -1,0 +1,1 @@
+lar[76442]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à veiller sur, qui sert à protéger, ARTÉM. <i>3, 58 vulg</i>.<p><b>Étym</b>. παραφυλάσσω.`

@@ -1,0 +1,1 @@
+lar[8450]=`<b>ἀν·επίκριτος, ος, ον</b> <font color="purple">[ῐτ]</font> sur qui <i>ou</i> sur quoi l’on ne peut prononcer, qui ne peut être décidé <i>ou</i> jugé, GAL. <i>8, 449</i> ; SEXT. <i>P. 1, 98</i>.<p><b>Étym</b>. ἀν-, ἐπικρίνω.`

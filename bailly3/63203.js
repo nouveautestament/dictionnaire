@@ -1,0 +1,1 @@
+lar[63203]=`<b>α, ον</b>, de Maurétanie, EL. <i>N.A. 3, 1 ; 14, 61, etc.</i> ; ἡ Μαυρουσία (<i>s.-e</i>. γῆ) la Maurétanie, PLUT. <i>Sert. 7, etc</i>.<p><b>Étym</b>. Μαῦρος.`

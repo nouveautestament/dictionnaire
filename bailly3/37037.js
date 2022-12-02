@@ -1,0 +1,1 @@
+lar[37037]=`<b>ἐπ·έκρηξις, εως (ἡ)</b> diffraction, rupture en sens divers, EPICT. (DL. <i>10, 115).</i><p><b>Étym</b>. ἐπί, ἐκρήγνυμι.`

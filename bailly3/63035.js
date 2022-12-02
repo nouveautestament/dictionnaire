@@ -1,0 +1,1 @@
+lar[63035]=`<b>ῆρος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui mâche : μῦς μασητήρ, HPC. <i>Art. 797,</i> muscle de la mâchoire.<p><b>Étym</b>. μασάομαι.`

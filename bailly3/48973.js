@@ -1,0 +1,1 @@
+lar[48973]=`<b>ἱματιό·πωλις, ιδος (ἡ)</b> <font color="purple">[ῑᾰ]</font> marchande d’habits, ATH. <i>76a</i>.<p><b>Étym</b>. <i>fém. de</i> ἱματιοπώλης.`

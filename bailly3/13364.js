@@ -1,0 +1,1 @@
+lar[13364]=`<b>ου (τὸ)</b> <font color="purple">[πᾰ]</font> <i>dim. de</i> ἀποσπάς, ANTH. <i>6, 102</i>.`

@@ -1,0 +1,1 @@
+lar[58140]=`<b>οῦ (ὁ)</b> Kryassos, <i>promont. et v. de Carie,</i> PLUT. <i>M. 246d</i>.`

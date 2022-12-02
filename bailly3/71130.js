@@ -1,0 +1,1 @@
+lar[71130]=`<b>ου (τὸ) :<br>      1</b> quille de navire, A.RH. <i>1, 1314</i>.<br><b>      2</b> vase pour les liquides et les matières sèches, EPIGEN. (ATH. <i>480a</i>).<p>➳ <i>Ion</i>. -ήϊον, A.RH. <i>l. c</i>.<p><b>Étym</b>. ὁλκή.`

@@ -1,0 +1,1 @@
+lar[92326]=`<b>στελεχό·καρπος, ος, ον</b>, qui porte ses fruits sur la tige, TH. <i>H.P. 4, 2, 4</i>.<p><b>Étym</b>. στέλεχος, καρπός.`

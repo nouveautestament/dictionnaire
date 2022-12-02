@@ -1,0 +1,1 @@
+lar[100876]=`<font color="darkgreen">(<i>part. ao</i>. τρυφερανθείς)</font> <font color="purple">[ῠ]</font> vivre dans la mollesse, AR. <i>Vesp. 688</i>.<p><b>Étym</b>. τρυφερός.`

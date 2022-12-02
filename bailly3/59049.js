@@ -1,0 +1,1 @@
+lar[59049]=`<b>ων (τὰ) :<br>      1</b> nuages, vapeurs, CALL. <i>fr. 300 ; fig</i>. nuée (de traits) LYC. <i>1426</i>.<br><b>      2</b> creux de l’oreille, oreille, LYC. <i>1402</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

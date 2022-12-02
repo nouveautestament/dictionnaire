@@ -1,0 +1,1 @@
+lar[17175]=`<b>αὐλ·άρχης, ου (ὁ)</b> chef de la cour <i>ou</i> du palais, SPT. <i>2Reg. 8, 18</i>.<p><b>Étym</b>. αὐλή, ἄρχω.`

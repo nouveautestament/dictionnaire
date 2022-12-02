@@ -1,0 +1,1 @@
+lar[71744]=`<b>ὁμο·φλεγής, ής, ές</b>, qui brûle en même temps <i>ou</i> de même, NONN. <i>D. 6, 220</i>.<p><b>Étym</b>. ὁμ. φλέγω.`

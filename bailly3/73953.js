@@ -1,0 +1,1 @@
+lar[73953]=`<font color="darkgreen">(<i>ao</i>. ὤχμασα) :</font><br><b>      1</b> tenir assujetti, lier, enchaîner, <i>acc</i>. ESCHL. <i>Pr. 5, etc.</i> ; EUR. <i>Cycl. 484, etc.</i><br><b>      2</b> tenir ferme, porter fermement, <i>acc</i>. A.RH. <i>1, 743</i> ; OPP. <i>H. 3, 374</i>.<p><b>Étym</b>. ἔχω.`

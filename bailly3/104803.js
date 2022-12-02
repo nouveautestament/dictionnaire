@@ -1,0 +1,1 @@
+lar[104803]=`<b>φανερό·φιλος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui est ouvertement ami, ami déclaré, ARSTT. <i>Nic. 4, 3, 28</i>.<p><b>Étym</b>. φ. φίλος.`

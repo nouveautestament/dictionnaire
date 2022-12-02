@@ -1,0 +1,1 @@
+lar[107958]=`<b>χαριτ·ώνυμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui comporte un nom gracieux, BACCHYL. <i>2, 2</i>.<p><b>Étym</b>. χάρις, ὄνομα.`

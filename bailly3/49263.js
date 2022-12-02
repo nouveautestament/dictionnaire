@@ -1,0 +1,1 @@
+lar[49263]=`<b>έως (ὁ)</b> Hippée (<i>litt</i>. Cavalier <i>ou</i> Chevalier) <i>n. d’h</i>. XÉN. <i>Hell. 1, 6, 29</i>.<p><b>Étym</b>. <i>v</i>. ἱππεύς.`

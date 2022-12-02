@@ -1,0 +1,1 @@
+lar[47886]=`<b>α, ον</b>, de Thymbra, EUR. <i>Rhes. 508 ; particul</i>. dieu de Thymbra (Apollon) EUR. <i>Rhes. 224</i>.<p><b>Étym</b>. Θύμβρα.`

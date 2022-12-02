@@ -1,0 +1,1 @@
+lar[23480]=`<b>ή, όν :<br>      1</b> porté à demander, solliciteur, ARSTT. <i>Nic. 4, 3, 32</i>.<br><b>      2</b> qui demande, suppliant (discours, PLUT. <i>Cor. 18</i> ; voix, DS. <i>17, 44).</i><p><b>Étym</b>. δέω².`

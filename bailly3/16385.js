@@ -1,0 +1,1 @@
+lar[16385]=`<b>Ἀστυ·όχη, ης (ἡ)</b> Astyokhè, <i>f</i>. IL. <i>2, 513</i> ; APD. Q. SM. ANTH.<p><b>Étym</b>. <i>fém. de</i> Ἀστύοχος.`

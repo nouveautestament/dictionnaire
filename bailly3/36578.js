@@ -1,0 +1,1 @@
+lar[36578]=`<b>ἐπ·αναδίδωμι</b>, faire peu à peu des progrès, HPC. <i>Epid. 1, 963</i>.`

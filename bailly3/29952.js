@@ -1,0 +1,1 @@
+lar[29952]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> infusé, DIOSC. <i>Parab. 1</i>.<p><b>Étym</b>. <i>vb. de</i> ἐγχυματίζω.`

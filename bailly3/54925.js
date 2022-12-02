@@ -1,0 +1,1 @@
+lar[54925]=`<b>ῆρος (ὁ)</b> qui cherche son gain, SIB. <i>7, 136</i>.<p><b>Étym</b>. κερδαίνω.`

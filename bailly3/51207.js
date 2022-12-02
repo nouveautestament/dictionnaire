@@ -1,0 +1,1 @@
+lar[51207]=`<b>καλλι·ρέεθρος, ος, ον</b> <font color="purple">[ῐ]</font> au beau cours, aux belles eaux, OD. <i>10, 107</i> ; HÉS. <i>Th. 339</i> ; EUR. <i>H.f. 784</i>.<p><b>Étym</b>. κ. ῥέεθρον.`

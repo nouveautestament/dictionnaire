@@ -1,0 +1,1 @@
+lar[54433]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. κεγχρίας 2, NIC. <i>Th. 463</i> ; LYC. <i>912</i>.`

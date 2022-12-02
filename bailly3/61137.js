@@ -1,0 +1,1 @@
+lar[61137]=`<b>Λιμέν·αρχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Liménarkhos (<i>propr</i>. le maître du port) <i>n. de vaisseau,</i> ALCIPHR. <i>1, 17</i>.<p><b>Étym</b>. λιμήν, ἄρχω.`

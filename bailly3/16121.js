@@ -1,0 +1,1 @@
+lar[16121]=`<b>α</b> (<i>ion</i>. <b>-η</b>), <b>ον</b> <font color="purple">[τᾰ]</font> d’Astakos, ANTH. NONN. <i>etc</i>.<p><b>Étym</b>. Ἄστακος².`

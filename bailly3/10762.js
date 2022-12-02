@@ -1,0 +1,1 @@
+lar[10762]=`<b>ἀν·υπομενετός, ή, όν</b>, qu’on ne supporte pas, STOB. <i>Ecl. 2, 196</i>.<p><b>Étym</b>. ἀν-, ὑπομένω.`

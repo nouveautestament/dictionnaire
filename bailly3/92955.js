@@ -1,0 +1,1 @@
+lar[92955]=`<font color="purple">[ῠ]</font> <i>adv</i>., en rond, A. APHR. <i>Probl. 1, 107</i>.<p><b>Étym</b>. <i>v</i>. στρογγυλοειδής.`

@@ -1,0 +1,1 @@
+lar[43147]=`<b>ου (ὁ)</b> <font color="purple">[ῠῐ]</font> habitant <i>ou</i> originaire du dème Eupyrides, <i>dème attique de la tribu Léontide,</i> ANTH. <i>App. 328</i>.<p><b>Étym</b>. Εὐπυρίδαι, E. Byz.`

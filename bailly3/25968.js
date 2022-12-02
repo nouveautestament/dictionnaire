@@ -1,0 +1,1 @@
+lar[25968]=`<b>ή, όν</b>, rafraîchissant, HPC. <i>364, 21</i>.<p><b>Étym</b>. διαψύχω.`

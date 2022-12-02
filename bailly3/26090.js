@@ -1,0 +1,1 @@
+lar[26090]=`<b>δι·ειδής, ής, ές</b>, transparent, limpide, TH. <i>C.P. 6, 19, 2</i> ; LUC. <i>Bacch. 6</i> ; PHILSTR. <i>Ep. 23</i>.<p><b>Étym</b>. *διείδω.`

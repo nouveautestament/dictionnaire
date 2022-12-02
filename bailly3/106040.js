@@ -1,0 +1,1 @@
+lar[106040]=`<b>φιλό·πρακτος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλοπράγμων, PTOL. <i>Tetr. 3, 160</i> ; PROCL. <i>Ptol. 225</i>.`

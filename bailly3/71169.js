@@ -1,0 +1,1 @@
+lar[71169]=`<b>ὁλό·καυτος, ος, ον</b> (sacrifice) où l’on brûle la victime entière, holocauste, SPT. <i>Lev. 6, 23</i>.<p><b>Étym</b>. ὅλος, καίω.`

@@ -1,0 +1,1 @@
+lar[81415]=`<b>ποικιλο·τέχνης, ου (ὁ)</b> habile en arts variés, TRIPHIOD. <i>536</i>.<p><b>Étym</b>. π. τέχνη.`

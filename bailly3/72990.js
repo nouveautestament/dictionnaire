@@ -1,0 +1,1 @@
+lar[72990]=`<b>ὁρο·θεσία, ας (ἡ)</b> délimitation, <i>d’où</i> limite, NT. <i>Ap. 17, 26</i>.<p><b>Étym</b>. <i>cf</i>. ὁροθέσια.`

@@ -1,0 +1,1 @@
+lar[84746]=`<b>πρό·μοιρος, ος, ον</b>, qui devance les destins, prématuré, EL. (SUID.) ; ANTH. <i>11, 159</i> ; MAN. <i>1, 276</i>.<p><b>Étym</b>. π. μοῖρα.`

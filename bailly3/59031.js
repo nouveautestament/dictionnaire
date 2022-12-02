@@ -1,0 +1,1 @@
+lar[59031]=`<b>κυτιση·νόμος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui broute du cytise, NIC. <i>Al. 572</i>.<p><b>Étym</b>. κύτισος, νέμω.`

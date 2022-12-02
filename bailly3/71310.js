@@ -1,0 +1,1 @@
+lar[71310]=`<i>ou</i> <b>ὁμακόϊον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> salle d’audition commune, lieu de réunion pour les disciples de Pythagore, PORPH. <i>V. Pyth. p. 44</i> (-όϊον) ; JAMBL. <i>V. Pyth. p. 66</i> (-οεῖον).<p><b>Étym</b>. ὁμάκοοι.`

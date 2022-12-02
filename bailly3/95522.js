@@ -1,0 +1,1 @@
+lar[95522]=`<b>συν·εξέλκω</b> <font color="darkgreen">(<i>ao</i>. -είλκυσα)</font> tirer ensemble au dehors, DYSC. <i>Pron. p. 117b</i>.`

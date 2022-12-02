@@ -1,0 +1,1 @@
+lar[77871]=`<b>πεμματο·λόγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui parle <i>ou</i> traite de la pâtisserie, ATH. <i>648a</i>.<p><b>Étym</b>. πέμμα, λέγω.`

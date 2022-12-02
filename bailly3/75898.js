@@ -1,0 +1,1 @@
+lar[75898]=`<b>παρα·λυγίζω</b> <font color="purple">[ῠ]</font> tordre, TH. <i>H.P. 5, 1, 11 dout</i>.`

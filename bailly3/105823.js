@@ -1,0 +1,1 @@
+lar[105823]=`<b>φιλο·καλλωπιστής, οῦ (ὁ)</b> <font color="purple">[φῐ]</font> qui aime la toilette, coquet, PTOL. <i>Tetr. p. 70</i>.<p><b>Étym</b>. φ. καλλωπίζομαι.`

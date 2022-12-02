@@ -1,0 +1,1 @@
+lar[88153]=`<b>ήεσσα, ῆεν</b>, qui vole, qui s’envole, NONN. <i>D. 8, 177</i> ; SIB. <i>1, 249</i>.<p><b>Étym</b>. πωτάομαι.`

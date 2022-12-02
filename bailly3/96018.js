@@ -1,0 +1,1 @@
+lar[96018]=`<b>συν·ίππαρχος, ου (ὁ)</b> commandant de cavalerie avec un autre, HDT. <i>7, 88</i>.`

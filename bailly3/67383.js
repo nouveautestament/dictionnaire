@@ -1,0 +1,1 @@
+lar[67383]=`<b>ης (ἡ)</b> Myrtoussa, <i>mt. de Libye,</i> CALL. <i>Ap. 90</i>.<p><b>Étym</b>. <i>contract. de</i> *μυρτόεσσα, <i>fém. de</i> *μυρτόεις, couvert de myrtes, <i>de</i> μύρτος.`

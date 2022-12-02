@@ -1,0 +1,1 @@
+lar[71344]=`<b>ὀμβριμό·θυμος, ος, ον</b> <font color="purple">[ῐῡ]</font> au cœur violent, <i>ép. d’Arès,</i> ORPH. <i>H. 88, 2</i>.<p><b>Étym</b>. ὄμβριμος, θυμός.`

@@ -1,0 +1,1 @@
+lar[48357]=`<b>ου (ὁ)</b>= <i>lat</i>. Ignatius, <i>n. d’h. rom</i>. PLUT. <i>Crass. 27</i>.<p>➳ <font color="purple">[ᾰ]</font> ANTH. <i>15, 29, etc</i>.`

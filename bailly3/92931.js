@@ -1,0 +1,1 @@
+lar[92931]=`<b>ου (ὁ)</b> chair dure, coriace, SPT. <i>Job 20, 18</i>.<p><b>Étym</b>. <i>cf</i>. στριφνός.`

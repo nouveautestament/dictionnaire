@@ -1,0 +1,1 @@
+lar[68198]=`<b>νεο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> nouvellement figé, de consistance toute récente, PLUT. <i>M. 602d ;</i> GAL. <i>5, 15</i>.<p><b>Étym</b>. ν. πήγνυμι.`

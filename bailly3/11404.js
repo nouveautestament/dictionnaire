@@ -1,0 +1,1 @@
+lar[11404]=`<b>εως (ἡ)</b> départ, <i>litt</i>. levée (de l’ancre, du camp, <i>etc</i>.) DH. <i>1, 44, etc.</i> ; SPT. <i>Num. 33, 2</i> ; JOS. <i>A.J. 17, 9, 3</i>.<p><b>Étym</b>. ἀπαίρω.`

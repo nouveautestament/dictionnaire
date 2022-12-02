@@ -1,0 +1,1 @@
+lar[19233]=`<b>βαρυωπέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰῠ]</font> avoir la vue faible (<i>litt</i>. alourdie), SPT. <i>Gen. 48, 10</i>.<p><b>Étym</b>. βαρυωπής.`

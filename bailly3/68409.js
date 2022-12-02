@@ -1,0 +1,1 @@
+lar[68409]=`<b>νεφελ·ηγερέτα</b> (<i>seul. nom.-voc</i>. νεφεληγερέτα, LUC. <i>Tim. 1, et gén</i>. νεφεληγερέταο <font color="purple">[ᾱ]</font>) IL. <i>1, 511 ; 4, 30</i> ; OD. <i>1, 63, etc</i>. (ὁ) assembleur de nuages.<p>➳ <font color="purple">[ᾰ ; ᾱ <i>par posit. dev</i>. Ζεύς]</font>.<p><b>Étym</b>. νεφέλη, ἀγείρω.`

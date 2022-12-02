@@ -1,0 +1,1 @@
+lar[97688]=`<b>ος, ον</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. ταριχευτός, EL. <i>N.A. 12, 6</i>.<p><b>Étym</b>. <i>cf</i>. τάριχος².`

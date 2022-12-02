@@ -1,0 +1,1 @@
+lar[49291]=`<b>ἱππιο·χαίτης, ου</b>, <i>adj. m</i>. fait d’une crinière de cheval, IL. <i>6, 469</i>.<p><b>Étym</b>. ἵππιος, χαίτη.`

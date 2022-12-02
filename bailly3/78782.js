@@ -1,0 +1,1 @@
+lar[78782]=`<b>περι·κλίνω</b>, incliner à l’horizon, être à son déclin, STR. <i>103</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NYSS.`

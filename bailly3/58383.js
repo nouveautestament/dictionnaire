@@ -1,0 +1,1 @@
+lar[58383]=`<b>ου (τὸ)</b> Kybélon, <i>lieu d’Athènes,</i> LUC. <i>J. voc. 7</i>.`

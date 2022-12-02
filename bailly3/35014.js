@@ -1,0 +1,1 @@
+lar[35014]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> celui qui ensevelit, SPT. <i>Gen. 50, 2</i> ; STR. <i>517</i> ; ANTH. <i>11, 125</i>.<p><b>Étym</b>. ἐνταφιάζω.`

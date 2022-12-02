@@ -1,0 +1,1 @@
+lar[20395]=`<b>ων (οἱ)</b> <font color="purple">[ᾰ]</font> les Bucéphales, <i>pple imaginaire,</i> LUC.<p><b>Étym</b>. <i>v</i>. βουκέφαλος.`

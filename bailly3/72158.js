@@ -1,0 +1,1 @@
+lar[72158]=`<b>(ὁ)</b> Oxyroès, <i>n. grécisé du n. perse Osroès,</i> LUC. <i>H. conscr. 18</i>.`

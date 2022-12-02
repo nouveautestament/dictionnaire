@@ -1,0 +1,1 @@
+lar[85545]=`<b>προσ·εκφέρω</b> <font color="darkgreen">(<i>ao</i>. -εξήνεγκα, <i>etc</i>.)</font> apporter <i>ou</i> payer en outre, <i>acc</i>. POL. <i>3, 27, 8</i>.`

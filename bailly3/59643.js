@@ -1,0 +1,1 @@
+lar[59643]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> dont on peut parler, qu’on peut vanter, ANTH. <i>7, 47</i>.<p><b>Étym</b>. λαλέω.`

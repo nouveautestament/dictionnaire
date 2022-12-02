@@ -1,0 +1,1 @@
+lar[102798]=`<b>ὑπερ·σκελής, ής, ές</b>, qui a des jambes démesurément <i>ou</i> inégalement longues, PLAT. <i>Tim. 87e</i>.<p><b>Étym</b>. ὑ. σκέλος.`

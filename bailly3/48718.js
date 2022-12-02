@@ -1,0 +1,1 @@
+lar[48718]=`<b>ης (ἡ)</b> <font color="purple">[ῐᾰ]</font> Ithakè (Ithaque, <i>auj</i>. Itháki <i>ou</i> Thiáki) <i>une des î. Ioniennes,</i> IL. <i>2, 632, etc.</i> ; OD. <i>1, 18, etc.</i> ; PLAT. <i>Ion 535c, etc</i>.<p>➳ <i>Dor</i>. Ἰθάκα, ANTH. <i>App. 344</i>.`

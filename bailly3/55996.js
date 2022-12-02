@@ -1,0 +1,1 @@
+lar[55996]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κλῆμα, TH. <i>H.P. 9, 11, 9</i>.`

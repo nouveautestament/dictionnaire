@@ -1,0 +1,1 @@
+lar[38209]=`<font color="purple">[ῡᾱ]</font> (ὁ) Épikydidas, <i>h</i>. THC. <i>5, 12</i> ; XÉN. <i>Hell. 4, 2, 2</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Ἐπικύδης.`

@@ -1,0 +1,1 @@
+lar[73345]=`<b>εως (ἡ) :<br>      1</b> odorat, PLAT. <i>Phæd. 111b, etc.</i> ; ARSTT. <i>Sens. 2 fin</i>.<br><b>      2</b> <i>au pl</i>. αἱ ὀσφρήσεις, PLAT. <i>Theæt. 156b ;</i> OPP. <i>C. 4, 66</i> ; HDN <i>1, 12, 4,</i> les organes de l’odorat, <i>càd</i>. les narines, le nez.<p><b>Étym</b>. ὀσφράομαι.`

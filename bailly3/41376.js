@@ -1,0 +1,1 @@
+lar[41376]=`<b>ἑτερο·σκελής, ής, ές</b>, de jambes inégales, boiteux, HIPPIATR.<p><b>Étym</b>. ἕ. σκέλος.`

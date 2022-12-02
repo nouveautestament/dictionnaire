@@ -1,0 +1,1 @@
+lar[43243]=`<b>Εὐρυ·άναξ</b>, <i>gén</i>. <b>ακτος (ὁ)</b> <font color="purple">[ᾰν]</font> Euryanax, <i>h</i>. HDT. <i>9, 11</i>.<p><b>Étym</b>. <i>v</i>. εὐρυάναξ.`

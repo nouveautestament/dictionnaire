@@ -1,0 +1,1 @@
+lar[81868]=`<b>πολύ·εδρος, ος, ον</b>, à plusieurs sièges <i>ou</i> degrés, PLUT. <i>Per. 13</i>.<p><b>Étym</b>. π. ἕδρα.`

@@ -1,0 +1,1 @@
+lar[21579]=`<b>ιδος</b> <i>ou mieux</i> <b>-ιθος (ἡ)</b> <font color="purple">[ῑ]</font> ANTH. <i>6, 232, ou</i> γελγίς, <b>ίδος (ἡ)</b> TH. <i>C.P. 6, 10, 7,</i> gousse d’ail.<p>➳ <i>Acc. pl</i>. τὰς γέλγεις, TH. <i>C.P. 1, 4, 5</i>.`

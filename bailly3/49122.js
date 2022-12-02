@@ -1,0 +1,1 @@
+lar[49122]=`<b>ης (ἡ)</b> Jokastè (Jocaste) <i>femme de Laïos et mère d’Œdipe,</i> SOPH. <i>O.R. 950, etc</i>.<p>➳ <i>Dor</i>. Ἰοκάστα, EUR. <i>Ph. 803</i>.`

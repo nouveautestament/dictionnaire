@@ -1,0 +1,1 @@
+lar[52509]=`<b>οῦ (ὁ)</b> encouragement, exhortation, STR. <i>9, 3, 10 Kram</i>.<p><b>Étym</b>. κατακελεύω.`

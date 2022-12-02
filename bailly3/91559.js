@@ -1,0 +1,1 @@
+lar[91559]=`<b>ου (ὁ)</b> laiteron, <i>plante,</i> TH. <i>H.P. 4, 6, 10, etc</i>.`

@@ -1,0 +1,1 @@
+lar[47743]=`<b>εως (ἡ)</b> coagulation (de lait) DIOSC. <i>2, 21</i> ; (de sang) GAL. <i>2, 265, etc</i>.<p><b>Étym</b>. θρομβόω.`

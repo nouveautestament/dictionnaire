@@ -1,0 +1,1 @@
+lar[33950]=`<b>ἐν·αποκρύπτω</b>, cacher dans, <i>dat</i>. STR. <i>730</i> ; CLÉM. <i>1, 257 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[73023]=`<b>ατος (τὸ)</b> toiture, toit, ATH. <i>205d ;</i> SPT. <i>Ezech. 41, 26 ; 2Par. 3, 7</i>.<p><b>Étym</b>. ὀροφόω.`

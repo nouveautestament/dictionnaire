@@ -1,0 +1,1 @@
+lar[33943]=`<b>ἐν·αποκάμνω</b>, se laisser abattre dans, <i>dat</i>. JOS. <i>B.J. 3, 6, 1</i>.`

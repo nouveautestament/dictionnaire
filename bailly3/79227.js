@@ -1,0 +1,1 @@
+lar[79227]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de couler autour, AGATHARCH. (PHOT. <i>Bibl. 451, 35</i>).<br><b>      2</b> écoulement <i>ou</i> cours abondant, GAL. <i>2, 279</i>.<p><b>Étym</b>. περιρρέω.`

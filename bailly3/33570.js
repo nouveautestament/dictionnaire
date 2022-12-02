@@ -1,0 +1,1 @@
+lar[33570]=`<b>ή, όν</b>, commercial, mercantile, PLAT. <i>Pol. 290a</i>.<p><b>Étym</b>. ἐμπορεύομαι.`

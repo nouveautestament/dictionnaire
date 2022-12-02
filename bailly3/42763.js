@@ -1,0 +1,1 @@
+lar[42763]=`<b>ορος (ὁ)</b> époux, EUR. <i>H.f. 27, 97</i>.<p>➳ <i>Dor</i>. εὐνάτωρ <font color="purple">[ᾱ]</font> ESCHL. <i>Suppl. 665</i> ; EUR. <i>Ion 912</i>.<p><b>Étym</b>. εὐνάω.`

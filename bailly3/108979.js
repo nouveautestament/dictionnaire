@@ -1,0 +1,1 @@
+lar[108979]=`<b>ας (ἡ)</b> action de rendre des oracles, prophétie, DS. <i>16, 26</i> ; PLUT. <i>Lys. 32</i>.<p><b>Étym</b>. χρησμολόγος.`

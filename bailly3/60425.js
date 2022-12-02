@@ -1,0 +1,1 @@
+lar[60425]=`<b>λεπτό·νευρος, ος, ον</b>, qui a les nerfs minces, les fibres grêles, ADAM. <i>Physiogn. 2, 1, p. 375, au cp</i>. -ότερος.<p><b>Étym</b>. λ. νεῦρον.`

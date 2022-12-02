@@ -1,0 +1,1 @@
+lar[6796]=`<b>ἀνα·θλίβω :<br>      1</b> faire jaillir en pressant, STR. <i>173</i>.<br><b>      2</b> presser fortement, PLUT. <i>M. 688d ;</i> ANTH. <i>7, 23 ; 9, 668</i>.`

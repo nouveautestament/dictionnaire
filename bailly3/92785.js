@@ -1,0 +1,1 @@
+lar[92785]=`<b>στραγγαλιάω-ῶ</b> <font color="purple">[γᾰ]</font> user de ruses, de moyens tortueux, PLUT. <i>M. 618f</i>.<p><b>Étym</b>. στραγγαλιά.`

@@ -1,0 +1,1 @@
+lar[56275]=`<i>adv</i>., avec démangeaison <i>ou</i> irritation, GAL. <i>19, 70</i>.`

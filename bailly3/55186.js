@@ -1,0 +1,1 @@
+lar[55186]=`<b>ου (ὁ)</b> malade d’une hernie, STR. <i>827</i> ; ANTH. <i>11, 404</i>.<p><b>Étym</b>. κήλη.`

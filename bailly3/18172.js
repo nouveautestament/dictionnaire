@@ -1,0 +1,1 @@
+lar[18172]=`<b>ος, ον</b> (<i>seul. cp</i>. -ότερος) <i>litt</i>. qui n’entraîne pas (la balance), <i>d’où</i> léger, <i>en parl. d’un poids,</i> STR. <i>735</i>.<p><b>Étym</b>. ἀφέλκω.`

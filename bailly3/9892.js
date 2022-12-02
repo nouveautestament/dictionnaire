@@ -1,0 +1,1 @@
+lar[9892]=`<b>ἀντί·θετος, ος, ον</b>, opposé, PLUT. <i>M. 672b ;</i> SEXT. <i>M. 9, 156</i> ; τὸ ἀντίθετον, AR. <i>fr. 300</i> ; ARSTT. <i>Rhet. Al. 27, 1,</i> opposition, antithèse.<p><b>Étym</b>. <i>vb. de</i> ἀντιτίθημι.`

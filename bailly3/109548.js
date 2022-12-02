@@ -1,0 +1,1 @@
+lar[109548]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμᾰ]</font> <i>var. de</i> Ψαμάθη PD. <i>N. 5, 13</i>.`

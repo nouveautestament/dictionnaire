@@ -1,0 +1,1 @@
+lar[79907]=`<b>*πετρό·ρρυτος</b>, <i>poét</i>. <b>πετρό·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule d’un rocher, ORPH. <i>H. 50, 9</i>.<p><b>Étym</b>. π. ῥέω.`

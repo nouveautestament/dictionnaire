@@ -1,0 +1,1 @@
+lar[82041]=`<b>πολυ·κτέανος, ος, ον</b> <font color="purple">[ᾰ]</font> aux possessions nombreuses, très riche, PD. <i>O. 10, 44</i>.<p><b>Étym</b>. π. κτέανον.`

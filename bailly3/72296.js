@@ -1,0 +1,1 @@
+lar[72296]=`<b>ης, ες :<br>      1</b> atteint d’ὀπισθοτονία, HPC. <i>74b, etc.</i><br><b>      2</b> avec accompagnement d’ὀπισθοτονία, HPC. <i>120g, etc</i>.<p><b>Étym</b>. ὀπισθότονος, -ωδης.`

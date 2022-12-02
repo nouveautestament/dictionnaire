@@ -1,0 +1,1 @@
+lar[63323]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> langage magnifique, XÉN. <i>Ap. 1, 2 ; au plur</i>. propos orgueilleux, EUR. <i>Her. 356</i>.<br><b>      2</b> action de vanter, de louer avec emphase, PLUT. <i>M. 1038c ;</i> LUC. <i>M. cond. 23</i>.<br><b>      3</b> style emphatique, DH. <i>Thuc. 27, etc</i>.<p><b>Étym</b>. μεγαληγόρος.`

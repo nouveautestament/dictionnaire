@@ -1,0 +1,1 @@
+lar[3230]=`<b>ἀ·καταφρόνητος, ος, ον</b>, non méprisé, <i>càd</i>. considéré <i>ou</i> redouté, XÉN. <i>Ages. 6, 8</i>.<p><b>Étym</b>. ἀ, καταφρονέω.`

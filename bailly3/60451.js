@@ -1,0 +1,1 @@
+lar[60451]=`<b>λεπτο·ϋφής, ής, ές</b> <font color="purple">[ῠ]</font> finement tissé, LUC. <i>Am. 41</i> ; ALCIPHR. <i>3, 41</i>.<p><b>Étym</b>. λ. ὑφαίνω.`

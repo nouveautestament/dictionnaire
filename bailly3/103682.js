@@ -1,0 +1,1 @@
+lar[103682]=`<b>ὑπο·πίμελος, ος, ον</b> <font color="purple">[ῑ]</font> un peu gras, DIPH. SIPHN. (ATH. <i>121c</i>) ; GAL. <i>19, 359, 360</i>.<p><b>Étym</b>. ὑ. πιμελή.`

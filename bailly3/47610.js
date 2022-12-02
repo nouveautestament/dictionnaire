@@ -1,0 +1,1 @@
+lar[47610]=`<b>θρασυστομέω-ῶ</b> <font color="purple">[ᾰ]</font> parler avec hardiesse, ESCHL. <i>Suppl. 203</i> ; SOPH. <i>Ph. 380, etc</i>.<p><b>Étym</b>. θρασύστομος.`

@@ -1,0 +1,1 @@
+lar[110462]=`<b>ὡρονομέω-ῶ :<br>      1</b> tirer l’horoscope de qqn, MAN. <i>1, 58, 339</i>.<br><b>      2</b> ὡ. γένεσίν τινος, ANTH. <i>11, 383,</i> présider à la naissance de qqn.<p><b>Étym</b>. ὡρονόμος.`

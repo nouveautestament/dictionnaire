@@ -1,0 +1,1 @@
+lar[16694]=`<b>(ἡ)</b> Atargatis, <i>déesse syrienne,</i> STR.`

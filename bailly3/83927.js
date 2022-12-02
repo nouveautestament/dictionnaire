@@ -1,0 +1,1 @@
+lar[83927]=`<b>προ·διαλογίζομαι</b>, délibérer auparavant, CHRYSIPP. (GAL. <i>5, 150</i>).`

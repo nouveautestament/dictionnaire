@@ -1,0 +1,1 @@
+lar[91750]=`<b>εος (ὁ)</b> Spargapeidès :<br><b>      1</b> <i>roi des Scythes,</i> HDT. <i>4, 76</i>.<br><b>      2</b> <i>roi des Agathyrses,</i> HDT. <i>4, 78</i>.`

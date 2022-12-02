@@ -1,0 +1,1 @@
+lar[46744]=`<b>θεό·πλουτος, ος, ον</b>, qui tient ses richesses de Dieu, CHRYS. <i>4, 297</i>.<p><b>Étym</b>. θ. πλοῦτος.`

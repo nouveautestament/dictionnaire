@@ -1,0 +1,1 @@
+lar[60782]=`<b>οῦ (ὁ)</b> qui parle d’une voix creuse, SOPH. <i>fr. 905</i>.<p><b>Étym</b>. ληκυθίζω.`

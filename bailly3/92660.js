@@ -1,0 +1,1 @@
+lar[92660]=`<b>στιχο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> versificateur, TAT. <i>Or. ad Græc. c. 860 Migne</i>.<p><b>Étym</b>. στίχος, ποιέω.`

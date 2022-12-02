@@ -1,0 +1,1 @@
+lar[65691]=`<b>μικρό·βωλος, ος, ον</b> <font color="purple">[ῑ]</font> qui consiste en petites mottes, DIOSC. <i>1, 77</i>.<p><b>Étym</b>. μ. βῶλος.`

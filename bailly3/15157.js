@@ -1,0 +1,1 @@
+lar[15157]=`<i>adv</i>., d’une manière indicible <i>ou</i> mystérieuse, DL. <i>7, 187</i>.<p><b>Étym</b>. ἄρρητος.`

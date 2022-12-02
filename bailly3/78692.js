@@ -1,0 +1,1 @@
+lar[78692]=`<b>περι·καθαίρω</b> <font color="purple">[κᾰ]</font> purifier <i>ou</i> nettoyer tout autour <i>ou</i> complètement, PLAT. <i>Criti. 120a ;</i> ARSTT. <i>H.A. 8, 13, 10 ; fig</i>. ARSTT. <i>fr. 454</i>.`

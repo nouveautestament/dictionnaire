@@ -1,0 +1,1 @@
+lar[49625]=`<b>ἰσό·δομος, ος, ον</b> <font color="purple">[ῑ̆]</font> dont les assises de pierres sont égales, VITR. <i>2, 8, § 33</i>.<p><b>Étym</b>. ἴ. δέμω.`

@@ -1,0 +1,1 @@
+lar[20229]=`<i>adv</i>., plus au nord, PTOL.<p><b>Étym</b>. *βορείως, <i>de</i> βόρειος.`

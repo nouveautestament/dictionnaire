@@ -1,0 +1,1 @@
+lar[31730]=`<b>ἐκ·νόμιος, ος, ον</b>, énorme, extraordinaire, PD. <i>N. 1, 86</i> ; ORPH. <i>fr. 8, 29</i>.<p><b>Étym</b>. ἐκ, νόμος.`

@@ -1,0 +1,1 @@
+lar[22714]=`<b>γυι·αλθής, ής, ές</b>, qui fortifie les membres, NIC. <i>Th. 529</i>.<p><b>Étym</b>. γυῖον, ἀλθαίνω.`

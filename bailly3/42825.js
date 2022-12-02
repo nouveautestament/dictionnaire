@@ -1,0 +1,1 @@
+lar[42825]=`<b>εὔ·ξυλος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> dont le bois est bon, TH. <i>H.P. 4, 4, 6</i>.<br><b>      2</b> riche en bois, APP. <i>Hann. 58</i>.<p><b>Étym</b>. εὖ, ξύλον.`

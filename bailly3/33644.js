@@ -1,0 +1,1 @@
+lar[33644]=`<b>ἐμπυρο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> tout à fait comme du feu, PLUT. <i>M. 881d</i>.<p><b>Étym</b>. ἔμπυρος, εἶδος.`

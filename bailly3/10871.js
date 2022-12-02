@@ -1,0 +1,1 @@
+lar[10871]=`<b>ἀν·ωφελής, ής, ές :<br>      1</b> qui refuse assistance, EUR. <i>Or. 1616 ; d’où</i> inutile, vain, ESCHL. <i>Pr. 33</i> ; THC. <i>2, 47, etc.</i><br><b>      2</b> nuisible à, <i>dat</i>. THC. <i>6, 33</i>.<p>•<i> Cp</i>. -έστερος, XÉN. <i>Cyn. 13, 11</i> ; PLAT. <i>Hipp. ma. 284e. • Sup</i>. -έστατος, XÉN. <i>Conv. 6, 7</i>.<p><b>Étym</b>. ἀν-, ὄφελος.`

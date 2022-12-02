@@ -1,0 +1,1 @@
+lar[20985]=`<b>ου (ὁ)</b> = <i>lat</i>. Bĭbŭlus, <i>surn. des Calpurnius et des Publicius, à Rome,</i> PLUT. <i>Cæs. 14</i> ; APP. <i>Civ. 2, 9, etc</i>.`

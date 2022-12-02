@@ -1,0 +1,1 @@
+lar[108627]=`<b>χλωρο·μέλας</b> <font color="purple">[ᾱ]</font>, <b>αινα, αν</b> <font color="purple">[ᾰ]</font> d’un noir jaunâtre <i>ou</i> pâle, GAL. <i>5, 483</i>.`

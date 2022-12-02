@@ -1,0 +1,1 @@
+lar[78250]=`<i>et</i> <b>πέπρωτο</b>, <i>3 sg. pf. et pl.q.pf. épq</i>. il est <i>et</i> il était marqué par le destin, IL. <i>18, 329</i> ; HÉS. <i>Th. 464 ; part</i>. πεπρωμένος, η, ον, marqué par le destin, IL. <i>16, 441 ; 15, 209</i> ; πεπρωμένον ἐστί, IL. <i>3, 309,</i> l’arrêt du destin.<p><b>Étym</b>. *πόρω.`

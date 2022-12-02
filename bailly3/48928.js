@@ -1,0 +1,1 @@
+lar[48928]=`rouler les yeux, <i>d’où abs</i>. loucher, <i>en parl. de pers</i>. HPC. <i>Epid. 3, 1066 ; en parl. des yeux eux-mêmes,</i> HPC. <i>153c, 1122g.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>491, 6</i>.<p><b>Étym</b>. ἴλλω.`

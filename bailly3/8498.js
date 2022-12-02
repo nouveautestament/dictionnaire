@@ -1,0 +1,1 @@
+lar[8498]=`<i>adv</i>., sans se détourner, avec indifférence <i>ou</i> dédain, ARR. <i>Epict. 2, 9, 4</i>.`

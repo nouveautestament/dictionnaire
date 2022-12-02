@@ -1,0 +1,1 @@
+lar[34976]=`<b>ἐν·στρέφω :<br>      1 <i>tr.</i></b> faire tourner dans, <i>d’où au pass</i>. se mouvoir en tournant <i>ou</i> tourner dans, <i>dat</i>. IL. <i>5, 306</i>.<br><b>      2 <i>intr.</i></b> se tourner, se mouvoir dans, parcourir, <i>dat</i>. EUR. <i>Ion 300</i>.<br><b><i>Moy.</i></b> faire tourner, faire mouvoir (ses articulations) <i>acc</i>. HPC. <i>58, 5</i>.`

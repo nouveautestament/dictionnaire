@@ -1,0 +1,1 @@
+lar[77486]=`<b>άδος</b> <font color="purple">[ᾰῡᾰδ]</font> <i>adj. f. c</i>. Πάχυνος NONN. <i>D. 2, 398</i>.`

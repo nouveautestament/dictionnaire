@@ -1,0 +1,1 @@
+lar[99913]=`<b>ή, όν</b>, relatif aux affaires de banque, ARSTT. <i>Ath. 52, 2</i>.`

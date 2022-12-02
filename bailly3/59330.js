@@ -1,0 +1,1 @@
+lar[59330]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰ]</font> = Labeo, <i>n. d’h. rom</i>. PLUT. <i>Brut. 12, etc</i>.`

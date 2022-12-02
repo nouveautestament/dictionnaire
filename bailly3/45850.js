@@ -1,0 +1,1 @@
+lar[45850]=`<b>ου (ὁ)</b> Èrétænos, <i>fl. près de Vicentia, en Italie,</i> EL. <i>N.A. 14, 8</i>.`

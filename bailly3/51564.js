@@ -1,0 +1,1 @@
+lar[51564]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> construction régulière, <i>d’où</i> partie d’une construction, MAN. <i>1, 299 ; 4, 151, etc</i>.<p><b>Étym</b>. κανονίζω.`

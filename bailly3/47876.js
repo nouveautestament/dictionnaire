@@ -1,0 +1,1 @@
+lar[47876]=`<b>θυμαρέω-ῶ</b> <font color="purple">[ῡᾰ]</font> avoir pour agréable, approuver, THCR. <i>Idyl. 26, 9</i>.<p><b>Étym</b>. θυμαρής.`

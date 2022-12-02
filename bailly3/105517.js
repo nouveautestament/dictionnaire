@@ -1,0 +1,1 @@
+lar[105517]=`<b>Φίλ·αρχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philarkhos, <i>h</i>. PLUT. <i>Parall. min. 30</i>.<p><b>Étym</b>. <i>cf</i>. φίλαρχος.`

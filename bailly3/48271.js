@@ -1,0 +1,1 @@
+lar[48271]=`<b>ή, όν</b>, d’Iasos, <i>en Carie,</i> THC. <i>8, 26</i>.<p><b>Étym</b>. Ἴασος².`

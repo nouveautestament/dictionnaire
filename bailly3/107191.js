@@ -1,0 +1,1 @@
+lar[107191]=`<b>ης, ες</b> <font color="purple">[ῡᾰ]</font> rempli d’excroissances <i>ou</i> de tumeurs, HPC. <i>400, 39</i>.<p><b>Étym</b>. φῦμα, -ωδης.`

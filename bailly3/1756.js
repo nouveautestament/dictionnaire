@@ -1,0 +1,1 @@
+lar[1756]=`<b>ἀεξί·φυτος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui fait pousser les plantes, ANTH. <i>9, 363, 5</i> ; COL. <i>239</i> ; NONN. <i>D. 7, 146, etc</i>.<p><b>Étym</b>. ἀ. φυτόν.`

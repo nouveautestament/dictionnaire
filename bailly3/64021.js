@@ -1,0 +1,1 @@
+lar[64021]=`<b>μελί·κηρον, ου (τὸ)</b> <font color="purple">[ῐ]</font> sorte de vin, PLUT. <i>M. 1160c</i>.<p><b>Étym</b>. μέλι, κηρός.`

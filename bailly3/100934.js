@@ -1,0 +1,1 @@
+lar[100934]=`<b>ή, όν</b>, de Troie, troyen, IL. <i>10, 11 ; 17, 724, etc.</i> ; ESCHL. <i>Ag. 334, etc.</i> ; τὰ Τρωϊκά, HDT. <i>2, 145 ; 7, 20, etc.</i> ; THC. <i>1, 3 ; 4, 14, etc</i>. les événements, <i>càd</i>. la guerre de Troie ; <i>ou</i> les affaires de Troie, ARSTT. <i>Metaph. 4, 11, etc</i>.<p><b>Étym</b>. Τρῶες.`

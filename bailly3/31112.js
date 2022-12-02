@@ -1,0 +1,1 @@
+lar[31112]=`<b>ος, ον :<br>      1</b> rejeté, <i>particul</i>. avorté, ARSTT. <i>G.A. 3, 2, 6</i>.<br><b>      2</b> digne d’être rejeté, abject, PLUT. <i>M. 44e</i>.<p><b>Étym</b>. ἐκβολή.`

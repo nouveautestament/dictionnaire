@@ -1,0 +1,1 @@
+lar[104517]=`<b>ὑψί·πεδος, ος, ον</b> <font color="purple">[ῐ]</font> au sol élevé, situé sur une hauteur, PD. <i>I. 1, 42</i>.<p><b>Étym</b>. ὕ. πέδον.`

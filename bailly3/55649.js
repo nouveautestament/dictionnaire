@@ -1,0 +1,1 @@
+lar[55649]=`<b>κισσο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[χῐ]</font> vêtu, <i>càd</i>. couvert de lierre, ORPH. <i>Lith. 258</i>.<p><b>Étym</b>. κισσός, χιτών.`

@@ -1,0 +1,1 @@
+lar[7814]=`<b>ἀνα·τυρβάζω</b> (<i>part. pf</i>. ἀνατετυρβακώς) troubler profondément, AR. <i>Eq. 310</i>.`

@@ -1,0 +1,1 @@
+lar[8305]=`<b>ἀν·έμβατος, ος, ον</b> <font color="purple">[βᾰ]</font><br><b>      1</b> où l’on ne peut entrer, inaccessible, DH. <i>1, 3</i> ; PLUT. <i>Pyrrh. 29</i> ; ANTH. <i>9, 641, etc.</i><br><b>      2</b> qui ne peut entrer, ANTH. <i>9, 287</i>.<p><b>Étym</b>. ἀν-, ἐμβαίνω.`

@@ -1,0 +1,1 @@
+lar[109854]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> substance pour faire tomber le poil, dépilatoire, TH. <i>H.P. 9, 20, 3</i> ; GAL. <i>Comp. med. sec. loc. 1, 4</i>.<br><b>      2</b> <i>particul</i>. vigne-blanche (ἀμπελολεύκη) qui possède cette propriété, HPC. <i>889h ;</i> TH. <i>H.P. 9, 20, 3</i>.<p><b>Étym</b>. ψιλόω.`

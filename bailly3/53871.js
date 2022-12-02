@@ -1,0 +1,1 @@
+lar[53871]=`<b>κατ·έναντι</b> <font color="purple">[ῐ]</font> <i>c</i>. κατέναντα <i>avec le gén</i>. SPT. <i>Ex. 19, 2 ; 2Par. 8, 14</i>.`

@@ -1,0 +1,1 @@
+lar[95382]=`<b>συν·εκπίμπρημι</b>, enflammer en même temps, ARSTT. <i>Meteor. 3, 1, 9</i>.`

@@ -1,0 +1,1 @@
+lar[1266]=`<b>ἀ·δήϊος, ος, ον :<br>      1</b> non dévasté, à l’abri des ravages : ἀπό τινος, SOPH. <i>O.C. 1533,</i> de qqn.<br><b>      2</b> non ennemi, non hostile, A.RH. <i>4, 647</i>.<p>➳ <i>Par contr</i>. ἀδῇος, SOPH. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[92647]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> robe sacerdotale, CHRYS. <i>12, 776 Migne</i>.<p><b>Étym</b>. <i>dim. de</i> στίχος.`

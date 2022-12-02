@@ -1,0 +1,1 @@
+lar[26116]=`<b>δι·εκβαίνω</b>, sortir en passant à travers, s’échapper à travers, STR. <i>536</i>.`

@@ -1,0 +1,1 @@
+lar[25528]=`<b>δια·σκάπτω</b>, <i>litt</i>. ouvrir en fouillant <i>ou</i> en creusant (un isthme, PAUS. <i>2, 1, 5</i> ; un mur, LYS. <i>131, 5) ; avec le gén</i>. PLUT. <i>Pyrrh. 33</i>.`

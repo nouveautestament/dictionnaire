@@ -1,0 +1,1 @@
+lar[23667]=`<b>δεκά·λιτρος, ος, ον</b>, qui pèse <i>ou</i> vaut dix livres, ARSTT. <i>fr. 467</i> ; τὸ δ. monnaie valant dix livres, SOPHR. <i>60 Ahrens</i>.<p><b>Étym</b>. δ. λίτρα.`

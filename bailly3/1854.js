@@ -1,0 +1,1 @@
+lar[1854]=`<font color="darkgreen">(<i>seul. prés. pass. 3 sg</i>. ἀζάνεται)</font> <font color="purple">[ζᾰ]</font> <i>c</i>. ἀζαίνω, HH. <i>Ven. 271</i>.`

@@ -1,0 +1,1 @@
+lar[39033]=`<b>ἐπι·σοβέω-ῶ :<br>      1</b> pousser vivement, exciter : τινα ταῖς μάστιξι, THÉM. <i>50b</i>, qqn avec le fouet.<br><b>      2</b> agiter sur, secouer sur : τι, HLD. <i>6, 11,</i> qqe ch. (sur qqn) ; <i>d’où</i> lancer sur : τί τινι, ALEX. (ATH. <i>483e</i>) qqe ch. sur qqn.`

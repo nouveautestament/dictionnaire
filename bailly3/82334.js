@@ -1,0 +1,1 @@
+lar[82334]=`<b>ας (ἡ)</b> grand nombre de racines, TH. <i>C.P. 3, 10, 6</i>.<p><b>Étym</b>. πολύρριζος.`

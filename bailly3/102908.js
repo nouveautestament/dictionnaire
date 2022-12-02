@@ -1,0 +1,1 @@
+lar[102908]=`<b>εως (ἡ)</b> <font color="purple">[χῠ]</font> débordement, inondation, STR. <i>743</i> ; PLUT. <i>M. 502a, etc. ; au plur</i>. PLUT. <i>M. 826f</i>.<p><b>Étym</b>. ὑπερχέω.`

@@ -1,0 +1,1 @@
+lar[85350]=`<b>ή, όν</b>, qui peut jeter vers <i>ou</i> appliquer sur, HIÉROCL.<p><b>Étym</b>. προσβλητός.`

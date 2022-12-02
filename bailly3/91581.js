@@ -1,0 +1,1 @@
+lar[91581]=`<b>σολοικο·ειδής, ής, ές</b>, qui ressemble à un solécisme, EUST. <i>1752, 43, etc</i>.<p><b>Étym</b>. σόλοικος, εἶδος.`

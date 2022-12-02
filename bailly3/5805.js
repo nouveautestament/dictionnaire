@@ -1,0 +1,1 @@
+lar[5805]=`<b>ιδος</b>, <i>adj. f.</i> : ἀ. γῆ, STR. <i>316</i> ; DIOSC. <i>5, 173,</i> terre propre à l’entretien de la vigne.<p><b>Étym</b>. ἄμπελος.`

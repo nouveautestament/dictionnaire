@@ -1,0 +1,1 @@
+lar[18810]=`<b>βαθυ·σμῆριγξ, ιγγος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> au poil épais, NONN. <i>D. 1, 528</i>.`

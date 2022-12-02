@@ -1,0 +1,1 @@
+lar[67072]=`<b>μυιο·σόβος, ου (ὁ)</b> celui qui chasse les mouches, ANTH. <i>9, 764</i>.<p><b>Étym</b>. μ. σοβέω.`

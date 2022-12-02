@@ -1,0 +1,1 @@
+lar[9918]=`<b>ἀντι·κατάγω</b>, faire descendre <i>ou</i> amener en retour, T. LOCR. <i>101d</i>.`

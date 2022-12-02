@@ -1,0 +1,1 @@
+lar[45013]=`<b>ἡδυ·παθέω-ῶ</b> <font color="purple">[ῠᾰ]</font> mener une vie efféminée, XÉN. <i>Cyr. 1, 5, 1 ; Œc. 5, 2</i>.<p><b>Étym</b>. ἡδυπαθής.`

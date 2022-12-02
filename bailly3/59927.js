@@ -1,0 +1,1 @@
+lar[59927]=`<font color="purple">[ᾰ]</font> <i>adv</i>., λ. ἔχειν, PHILSTR. <i>V. soph. 2, p. 552,</i> être velu.<p><b>Étym</b>. λάσιος.`

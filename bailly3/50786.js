@@ -1,0 +1,1 @@
+lar[50786]=`<b>κακό·μορφος, ος, ον</b> <font color="purple">[ᾰ]</font> difforme, laid, ANTH. <i>5, 89</i>.<p><b>Étym</b>. κ. μορφή.`

@@ -1,0 +1,1 @@
+lar[11748]=`<b>ἀπ·ερημόω-ῶ</b> <font color="darkgreen">(<i>f</i>. ώσω ; <i>part. pf. pass</i>. ἀπηρημωμένος)</font> laisser isolé ; <i>au pass</i>. être délaissé, <i>d’où</i> être privé : τινος, PLAT. <i>Pol. 247b ;</i> ἀπό τινος, PLAT. <i>Soph. 237d</i>, de qqe ch.`

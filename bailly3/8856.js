@@ -1,0 +1,1 @@
+lar[8856]=`<b>ἀνθό·βολος, ος, ον</b>, orné de guirlandes de fleurs, ANTH. <i>9, 270</i>.<p><b>Étym</b>. ἄνθος, βάλλω.`

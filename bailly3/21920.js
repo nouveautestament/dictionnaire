@@ -1,0 +1,1 @@
+lar[21920]=`<b>ος, ον</b>, terrestre, ANTH. <i>App. 39</i>.<p><b>Étym</b>. γῆ.`

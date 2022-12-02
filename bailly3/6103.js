@@ -1,0 +1,1 @@
+lar[6103]=`<b>ἀμφι·δηριάομαι-ῶμαι</b> (<i>seul. part. prés</i>.) se disputer, combattre pour : τινι, LYC. <i>1437,</i> pour qqe ch. ; τινος ἕνεκα, SIM. AM. <i>Iamb. fr. 6, 118,</i> pour qqn.`

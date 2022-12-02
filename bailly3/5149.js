@@ -1,0 +1,1 @@
+lar[5149]=`<b>ου (τὸ)</b> sorte de figue, <i>mot crétois,</i> HERMONAX (ATH. <i>76f</i>).`

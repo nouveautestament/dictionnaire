@@ -1,0 +1,1 @@
+lar[39654]=`<b>ους (ὁ)</b> <font color="purple">[ᾰ]</font> Épikharès, <i>h</i>. DÉM. <i>35, 14, etc. Baiter-Sauppe</i>.<p>➳ <i>Voc</i>. -ης, AND. <i>1, 95 Baiter-Sauppe ; acc</i>. -ην, AND. <i>1, 122 Baiter-Sauppe</i>.`

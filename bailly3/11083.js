@@ -1,0 +1,1 @@
+lar[11083]=`<b>ατος (τὸ)</b> fracture, ORIB. <i>Fract. p. 86, 6</i> ; GAL. <i>10, 143</i>.<p><b>Étym</b>. ἀπάγνυμι.`

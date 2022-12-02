@@ -1,0 +1,1 @@
+lar[57385]=`<b>ου (τὸ)</b> marmite, casse, ARR. <i>Epict. 3, 22, 71</i>.<p><b>Étym</b>. <i>lat</i>. cucuma.`

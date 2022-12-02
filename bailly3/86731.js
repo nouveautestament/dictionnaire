@@ -1,0 +1,1 @@
+lar[86731]=`<b>προ·ταράσσω</b> <font color="purple">[τᾰ]</font> troubler auparavant, HPC. <i>1131b ;</i> THÉM. <i>50b</i>.`

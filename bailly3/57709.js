@@ -1,0 +1,1 @@
+lar[57709]=`<b>ης (ἡ)</b> supérieure par le rang, maîtresse, reine, IL. <i>22, 48</i>.<p><b>Étym</b>. <i>fém. de</i> κρείων.`

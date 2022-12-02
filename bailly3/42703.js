@@ -1,0 +1,1 @@
+lar[42703]=`<b>εὐ·μίμητος, ος, ον</b> <font color="purple">[ῑ]</font> facile à imiter, PLAT. <i>Rsp. 605a</i>.<p><b>Étym</b>. εὖ, μιμέομαι.`

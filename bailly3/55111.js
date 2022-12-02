@@ -1,0 +1,1 @@
+lar[55111]=`<font color="purple">[χᾰ]</font> <i>adv</i>., avec relâchement, GAL. <i>2, 398</i>.<p><b>Étym</b>. χαλάω.`

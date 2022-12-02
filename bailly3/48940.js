@@ -1,0 +1,1 @@
+lar[48940]=`<b>εως (ἡ)</b> roulement d’yeux, HPC. <i>72e, 168h ;</i> ARÉT. <i>Caus. m. diut. 1, 7</i>.<p><b>Étym</b>. ἴλλω.`

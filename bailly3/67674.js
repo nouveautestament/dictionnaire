@@ -1,0 +1,1 @@
+lar[67674]=`<b>ου (ὁ, ἡ)</b> narcisse, <i>fleur</i>, HH. <i>Cer. 8, 428</i> ; SOPH. <i>O.C. 684</i> ; MOSCH. <i>2, 65 ; fém</i>. THCR. <i>Idyl. 1, 133</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

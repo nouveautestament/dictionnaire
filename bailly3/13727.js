@@ -1,0 +1,1 @@
+lar[13727]=`<b>ἀπο·φθέγγομαι :<br>      1</b> déclarer hautement LUC. <i>Zeux. 1 ; particul</i>. énoncer une sentence, PLUT. <i>M. 405d ;</i> rendre un oracle, LUC. <i>Alex. 25</i>.<br><b>      2</b> rendre un son : ἀπ. σαθρόν, LUC. <i>Par. 4,</i> sonner le fêlé, <i>en parl. d’un vase</i>.<br><b>      3</b> chanter des hymnes, SPT. <i>1Par. 25, 1</i>.`

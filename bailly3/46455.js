@@ -1,0 +1,1 @@
+lar[46455]=`<b>θεηκολέω-ῶ</b>, être prêtre, <i>Sylloge inscriptionum græcarum, Wilhelm Dittenberger 378, 9 (1<sup>er</sup> siècle après J.-C.), v. Meisterh. p. 16, 10</i>.<p><b>Étym</b>. θεηκόλος.`

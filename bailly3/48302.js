@@ -1,0 +1,1 @@
+lar[48302]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> préparé avec de la violette, parfumé de violette, AÉT. <i>1, p. 9, 1</i> ; ORIB. <i>84 Matthäi</i>.<p><b>Étym</b>. ἴον.`

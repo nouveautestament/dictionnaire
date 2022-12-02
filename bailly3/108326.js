@@ -1,0 +1,1 @@
+lar[108326]=`(<i>seul. prés</i>.) avoir envie d’aller à la selle, AR. <i>Eq. 888, Nub. 295</i>.<p><b>Étym</b>. χέζω.`

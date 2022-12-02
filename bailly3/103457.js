@@ -1,0 +1,1 @@
+lar[103457]=`<b>ατος (τὸ)</b> reste, reliquat <i>ou</i> arriéré d’un compte, ARSTT. <i>H.A. 6, 2, 10 ; G.A. 2, 6, 41 et 44</i> ; TH. <i>C.P. 1, 11, 3 ; 5, 1, 5</i>.<p><b>Étym</b>. ὑπολείπω.`

@@ -1,0 +1,1 @@
+lar[89033]=`<font color="purple">[ᾰ]</font> <i>pl. neutre de</i> σός, σή, σόν.<br><b>σά</b> <font color="purple">[ᾱ]</font> <i>duel fém. de</i> σός, σή, σόν.`

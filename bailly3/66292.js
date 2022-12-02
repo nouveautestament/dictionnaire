@@ -1,0 +1,1 @@
+lar[66292]=`<i>adv</i>., par un arrêt du Destin, PRISC. <i>Gr. lat. 15, 4, 24</i>.`

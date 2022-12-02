@@ -1,0 +1,1 @@
+lar[3670]=`<font color="purple">[ᾱτ]</font> <i>adv</i>., sans mélange, <i>d’où</i> absolument, entièrement, EL. <i>N.A. 16, 11</i> ; LUC. <i>D. mar. 1, 3</i>.<p>➳ <i>Ion</i>. ἀκρήτως, HPC. <i>Epid. 1, 107c</i>.<p><b>Étym</b>. ἄκρατος.`

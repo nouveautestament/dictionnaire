@@ -1,0 +1,1 @@
+lar[48732]=`<b>ἰθυ·βόλος, ος, ον</b> <font color="purple">[ῑῠ]</font> lancé en droite ligne, APD. <i>3, 15, 1</i>.<p><b>Étym</b>. ἰθύς, βάλλω.`

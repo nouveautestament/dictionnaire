@@ -1,0 +1,1 @@
+lar[4977]=`<b>εως (ἡ) :<br>      1</b> saut, bond, ARSTT. <i>Nic. 10, 4, 3</i>.<br><b>      2</b> battement du cœur, ARSTT. <i>P.A. 18, 23</i>.<p><b>Étym</b>. ἅλλομαι.`

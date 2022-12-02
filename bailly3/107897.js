@@ -1,0 +1,1 @@
+lar[107897]=`<b>χαρι·δότης, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>litt</i>. « celui qui donne la joie », <i>ép. de Zeus,</i> PLUT. <i>M. 1048c ; d’Hermès,</i> PLUT. <i>M. 303d ; de Bacchus,</i> PLUT. <i>Ant. 24, M. 613d</i>.<p><b>Étym</b>. χαρά, δίδωμι.`

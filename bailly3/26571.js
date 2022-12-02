@@ -1,0 +1,1 @@
+lar[26571]=`<b>δικραιόω-ῶ</b>, séparer en deux parties, HPC. <i>276, 43 ; 1035a</i>.<p><b>Étym</b>. δίκραιος.`

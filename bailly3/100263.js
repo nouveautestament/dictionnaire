@@ -1,0 +1,1 @@
+lar[100263]=`<b>τρι·κότυλος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui contient trois cotyles, HPC. <i>533, 45</i> ; AR. <i>Th. 543</i> ; DIONYS. SINOP. <i>et</i> MÉN. (ATH. <i>467d, 472b</i>).<p><b>Étym</b>. τρεῖς, κοτύλη.`

@@ -1,0 +1,1 @@
+lar[91270]=`<b>ά, όν</b>, sombre, triste, chagrin, MÉN. <i>4, 72 Meineke</i> ; ARAT. <i>1120</i>.<p><b>Étym</b>. σκυδμαίνω.`

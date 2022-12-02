@@ -1,0 +1,1 @@
+lar[29669]=`<b>ἐγκληρόω-ῶ</b> (<i>part. pf. pass</i>. ἐγκεκληρωμένην) donner en partage, <i>d’où au pass</i>. tomber en partage à, <i>dat</i>. EL. <i>V.H. 8, 1</i>.<p><b>Étym</b>. ἔγκληρος.`

@@ -1,0 +1,1 @@
+lar[83854]=`<b>ου (ὁ)</b> qui goûte <i>ou</i> déguste d’abord, PLUT. <i>M. 990a ;</i> ATH. <i>171b</i>.<p><b>Étym</b>. προγεύομαι.`

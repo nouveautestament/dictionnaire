@@ -1,0 +1,1 @@
+lar[14697]=`<b>Ἀριστό·δημος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristodèmos (Aristodème) <i>h</i>. HDT. <i>4, 147, etc.</i> ; XÉN. <i>Hell. 4, 2, 9, etc</i>.<p>➳ <i>Dor</i>. Ἀριστόδαμος <font color="purple">[δᾱ]</font> SIM. <i>fr. 188 Bgk</i> ; ALC. <i>50</i>.`

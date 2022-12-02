@@ -1,0 +1,1 @@
+lar[86425]=`<b>*προσ·συνίημι</b>, <i>ion</i>. <b>προσ·ξυνίημι</b>, comprendre en outre, faire en outre attention à, <i>acc</i>. HPC. <i>Acut. 392, etc</i>.`

@@ -1,0 +1,1 @@
+lar[14597]=`<b>ή, όν</b> <font color="purple">[ᾰι]</font><br><b>      1</b> qui concerne les nombres, ARSTT. <i>Nic. 2, 6, 7</i> ; PLUT. <i>M. 979e ;</i> ἡ ἀριθμητική (<i>s.-e</i>. τέχνη) PLAT. <i>Rsp. 525a</i>, l’art de compter, l’arithmétique.<br><b>      2</b> habile à compter, habile calculateur, PLAT. <i>Gorg. 453e</i>.<p>•<i> Sup</i>. -ώτατος, POLL. <i>4, 162</i>.`

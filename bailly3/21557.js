@@ -1,0 +1,1 @@
+lar[21557]=`<b>ας, ᾳ, αν (ἡ)</b> Géla, <i>v. de la côte sud de Sicile,</i> THC. <i>6, 4</i> ; XÉN. <i>Hell. 2, 3, 5</i> ; AR. <i>Ach. 606, etc</i>.<p>➳ <i>Ion</i>. Γέλη, HDT. <i>6, 23 ; 7, 156. Cf</i>. Γέλαι.`

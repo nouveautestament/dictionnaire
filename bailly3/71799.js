@@ -1,0 +1,1 @@
+lar[71799]=`<b>ὀμφαλη·τόμος, ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> médecin <i>ou</i> sage-femme, <i>propr</i>. qui coupe le cordon ombilical, HPC. <i>608, 55</i>.<p><b>Étym</b>. ὀμφαλ. τέμνω.`

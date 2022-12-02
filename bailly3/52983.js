@@ -1,0 +1,1 @@
+lar[52983]=`<b>κατα·παγκρατιάζω</b> <font color="purple">[ρᾰ]</font> vaincre au pancrace, PHIL. <i>1, 681 ; 2, 348</i>.<p><b>Étym</b>. κ. παγκράτιον.`

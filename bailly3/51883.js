@@ -1,0 +1,1 @@
+lar[51883]=`<b>καρπο·δότειρα, ας</b>, <i>adj. f</i>. qui donne des fruits, ORPH. <i>H. 42, 9</i>.<p><b>Étym</b>. κ. δίδωμι.`

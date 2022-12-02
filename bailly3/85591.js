@@ -1,0 +1,1 @@
+lar[85591]=`<b>προσ·ενθυμέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -ήσομαι, <i>ao</i>. προσενεθυμήθην)</font> <font color="purple">[ῡ]</font> songer <i>ou</i> considérer en outre, LYCURG. <i>176, 26</i> ; RHÉT. <i>1, 208 W., etc</i>.`

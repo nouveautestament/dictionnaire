@@ -1,0 +1,1 @@
+lar[15413]=`<b>ἀρτοποιέω-ῶ :<br>      1</b> faire du pain, DIOSC. <i>2, 111, etc.</i><br><b>      2</b> transformer en pain, <i>acc</i>. APP. <i>Civ. 2, 61</i>.<p><b>Étym</b>. ἀρτοποιός.`

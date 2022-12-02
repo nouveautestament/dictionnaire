@@ -1,0 +1,1 @@
+lar[20603]=`<b>ου (ὁ)</b> Brankhos :<br><b>      1</b> <i>fils d’Apollon,</i> STR. LUC. LGS <i>etc.</i><br><b>      2</b> <i>n. d’h</i>. BABR.`

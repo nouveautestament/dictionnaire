@@ -1,0 +1,1 @@
+lar[31999]=`<b>ατος (τὸ) :<br>      1</b> lambeau, HPC. <i>Art. 837</i>.<br><b>      2</b> éruption, débordement, TH. <i>C.P. 1, 5, 2 ; d’où</i> ravine, POL. <i>12, 20, 4</i>.<br><b>      3</b> éruption cutanée, HPC. <i>1211e</i>.<p><b>Étym</b>. ἐκρήγνυμι.`

@@ -1,0 +1,1 @@
+lar[78399]=`<b>περι·αράσσω</b> <font color="purple">[ᾰρ]</font> mettre en pièces, briser, NIC. <i>Th. 842</i>.`

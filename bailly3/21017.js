@@ -1,0 +1,1 @@
+lar[21017]=`<b>ιδος</b> <i>ou</i> <b>βυλλίς, ίδος (ἡ)</b> Byllis, <i>v. de la côte d’Illyrie,</i> PLUT. <i>Brut. 26</i>.`

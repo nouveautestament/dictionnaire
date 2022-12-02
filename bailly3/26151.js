@@ -1,0 +1,1 @@
+lar[26151]=`<b>δι·εκτέλλω</b> (<i>seul. part. pr. neutre</i> διεκτέλλον) s’élever jusqu’à, croître jusqu’à, NIC. (ATH. <i>683e</i>).`

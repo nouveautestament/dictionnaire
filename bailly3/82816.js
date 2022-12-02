@@ -1,0 +1,1 @@
+lar[82816]=`<b>ου (ὁ)</b> qui se prostitue, débauché, AR. <i>Pl. 155</i> ; XÉN. <i>Mem. 1, 6, 13, etc</i>.<p><b>Étym</b>. πέρνημι ; <i>cf</i>. πόρνη.`

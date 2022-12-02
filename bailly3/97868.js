@@ -1,0 +1,1 @@
+lar[97868]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., vivement, rapidement, <i>au cp</i>. -ώτερον, NONN. <i>Jo. 13, 117</i>.`

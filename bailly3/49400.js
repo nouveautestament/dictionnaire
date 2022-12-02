@@ -1,0 +1,1 @@
+lar[49400]=`<b>ἱππο·πέδη, ης (ἡ) :<br>      1</b> entrave pour les chevaux, HIPPIATR. <i>256, 23</i>.<br><b>      2</b> ligne courbe décrite par une planète, PROCL. <i>Eucl. p. 31, 28</i>.<p><b>Étym</b>. ἵ. πέδη.`

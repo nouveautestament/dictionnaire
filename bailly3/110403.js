@@ -1,0 +1,1 @@
+lar[110403]=`<b>ας (ἡ)</b> Ôreithyia (Orithyie) :<br><b>      1</b> <i>fille du roi Érekhthée,</i> HDT. <i>7, 189</i> ; PLAT. <i>Phædr. 229b.</i><br><b>      2</b> <i>Néréide,</i> IL. <i>18, 48</i>.<br><b>      3</b> <i>f</i>. ANTH. <i>14, 120</i>.<p>➳ <i>Dans les inscr. att. seul</i>. Ὠρείθυα, <i>v. Meisterh. p. 47, 1</i>.<p><b>Étym</b>. ὄρος, θέω.`

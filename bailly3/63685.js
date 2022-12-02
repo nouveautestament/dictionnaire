@@ -1,0 +1,1 @@
+lar[63685]=`<b>(ὁ)</b> <i>mot forgé par</i> PLAT. <i>Crat. 409c, pour expliquer l’étymologie de</i> μείς.`

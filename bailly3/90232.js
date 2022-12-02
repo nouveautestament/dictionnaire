@@ -1,0 +1,1 @@
+lar[90232]=`<b>ή, όν</b> <font color="purple">[σῐ]</font> de Siciliote, DIOSC. <i>3, 29</i>.<p><b>Étym</b>. <i>v</i>. Σικελιώτης.`

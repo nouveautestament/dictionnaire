@@ -1,0 +1,1 @@
+lar[39216]=`<b>ἐπι·συμβάλλομαι</b>, rassembler dans son esprit, songer à, <i>acc</i>. PHYLARQ. (ATH. <i>593d, dout</i>.).`

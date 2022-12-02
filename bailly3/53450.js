@@ -1,0 +1,1 @@
+lar[53450]=`<b>ής, ές :<br>      1</b> couronné, SOPH. <i>Tr. 178</i>.<br><b>      2</b> qui couronne, EUR. <i>Suppl. 259</i>.<p><b>Étym</b>. καταστέφω.`

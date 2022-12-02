@@ -1,0 +1,1 @@
+lar[76416]=`<i>adv</i>., comme un fou, RHÉT. <i>1, 552 W</i>.<p><b>Étym</b>. παράφορος.`

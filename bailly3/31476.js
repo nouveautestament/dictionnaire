@@ -1,0 +1,1 @@
+lar[31476]=`<b>ἐκ·κονιόω-ῶ</b> (<i>pf. pass. part. ion</i>. ἐκκεκονιωμένοισι) nettoyer en ôtant la poussière, HPC. <i>372, 9</i>.`

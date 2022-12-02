@@ -1,0 +1,1 @@
+lar[91628]=`<b>ας (ἡ)</b> Sura, <i>lieu d’un oracle en Lycie,</i> PLUT. <i>Sol. an. 23, etc</i>.`

@@ -1,0 +1,1 @@
+lar[61874]=`<b>ου (ὁ)</b> Lykinos, <i>h</i>. AR. <i>Ach. 50</i> ; DÉM. <i>1223, 2, etc</i>.<p><b>Étym</b>. λύκος.`

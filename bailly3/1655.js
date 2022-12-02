@@ -1,0 +1,1 @@
+lar[1655]=`<b>ἀεί·ζωος, ος, ον</b>, qui vit toujours, <i>d’où</i> :<br><b>      1</b> éternel, PLAT. <i>Ep. 566a ;</i> ANTH. <i>7, 14, etc.</i><br><b>      2</b> vivace (<i>plante</i>) ESCHL. <i>fr. 31</i> ; τὸ ἀείζωον, <i>litt</i>. plante vivace, <i>n. de div. espèces de plantes,</i> TH. <i>H.P. 1, 10, 4 ; 7, 15, 2</i> ; DIOSC. <i>2, 217, etc</i>.<p><b>Étym</b>. ἀ. ζωός.`

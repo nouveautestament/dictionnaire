@@ -1,0 +1,1 @@
+lar[63667]=`<b>μει·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui offre la victime μεῖον (<i>v</i>. μείων), pour la réception d’un enfant dans une confrérie, EUP. <i>116 Kock</i>.<p><b>Étym</b>. μεῖον, ἀγωγός.`

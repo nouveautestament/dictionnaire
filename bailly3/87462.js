@@ -1,0 +1,1 @@
+lar[87462]=`<b>πτωκός (ὁ, ἡ) :<br>      1</b> timide, peureux, IL. <i>22, 310 ; subst</i>. ὁ πτ. IL. <i>17, 676</i> ; TH. <i>H.P. 4, 3, 5</i> ; THCR. <i>Idyl. 1, 110,</i> le lièvre.<br><b>      2</b> fuyard, fugitif, ESCHL. <i>Eum. 325</i>.<p><b>Étym</b>. <i>cf</i>. πτώσσω, πτήσσω.`

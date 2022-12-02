@@ -1,0 +1,1 @@
+lar[24116]=`<b>έως (ὁ)</b> Dèïonée, <i>h</i>. Q. SM. <i>10, 167</i> ; PLUT. <i>Thes. 8, etc</i>.`

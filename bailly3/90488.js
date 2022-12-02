@@ -1,0 +1,1 @@
+lar[90488]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> approvisionnement, <i>d’où</i> paye, solde, ANTIPH. (ATH. <i>238b vulg. ; corr</i>. -άρκημα).<p><b>Étym</b>. σιταρχέω.`

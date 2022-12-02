@@ -1,0 +1,1 @@
+lar[20734]=`<b>βραχυ·τελής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui finit vite, court, SPT. <i>Sap. 15, 9</i>.<p><b>Étym</b>. βρ. τέλος.`

@@ -1,0 +1,1 @@
+lar[9556]=`<b>ος, ον</b>, allégué à l’encontre, CIC. <i>Q. fr. 2, 10</i>.<p><b>Étym</b>. ἀντεισάγω.`

@@ -1,0 +1,1 @@
+lar[90797]=`<b>ή, όν</b>, préparé, apprêté, PLAT. <i>Rsp. 510</i> a : ARSTT. <i>Metaph. 4, 2, 7</i> ; LUC. <i>Alex. 31</i>.<p><b>Étym</b>. <i>vb. de</i> σκευάζω.`

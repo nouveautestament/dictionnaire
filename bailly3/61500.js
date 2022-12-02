@@ -1,0 +1,1 @@
+lar[61500]=`<b>α, ον :<br>      1</b> dont il faut tenir compte, PLAT. <i>Tim. 61e.</i><br><b>      2</b> qu’il faut porter en compte, attribuer à, HLD. <i>1, 15</i>.<br><b>      3</b> à quoi il faut réfléchir, MÉN. (PLUT. <i>M. 103d</i>).<p><b>Étym</b>. <i>vb. de</i> λογίζομαι.`

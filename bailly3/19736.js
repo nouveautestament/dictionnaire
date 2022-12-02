@@ -1,0 +1,1 @@
+lar[19736]=`<b>ή, όν</b> <font color="purple">[ῑῡ]</font> de Bithynie, STR. LUC. ; <i>subst</i>. οἱ βιθυνοί, les Bithynes <i>ou</i> Bithyniens, <i>pple d’Asie Mineure,</i> HDT. <i>et de Thrace,</i> THC. XÉN. A.RH. <i>etc</i>.<p>➳ <i>Par licence</i> <font color="purple">[ῐῠ]</font> ANTH. <i>8, 93</i>.`

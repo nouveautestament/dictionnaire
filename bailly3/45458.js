@@ -1,0 +1,1 @@
+lar[45458]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui concerne la migraine, AÉT. <i>6, 49</i>.<br><b>      2</b> sujet à la migraine, P. ÉG. <i>2, 5</i>.<p><b>Étym</b>. ἡμικρανία.`

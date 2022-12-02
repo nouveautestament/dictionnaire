@@ -1,0 +1,1 @@
+lar[91359]=`<b>α, ον</b> <font color="purple">[ῡ]</font> de cordonnier, MAN. <i>4, 321</i>.<p><b>Étym</b>. σκυτεύς.`

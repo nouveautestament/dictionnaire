@@ -1,0 +1,1 @@
+lar[34195]=`<b>ἐν·δίημι</b> (<i>seul. impf. 3 pl</i>. ἐνδίεσαν) poursuivre, IL. <i>18, 584</i>.`

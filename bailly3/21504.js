@@ -1,0 +1,1 @@
+lar[21504]=`<i>neutre du partic</i>. γεγωνώς, <i>v</i>. γέγωνα, <i>fin</i>.`

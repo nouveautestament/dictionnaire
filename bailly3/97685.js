@@ -1,0 +1,1 @@
+lar[97685]=`<i>mieux que</i> <b>ταριχοπωλεῖον, ου (τὸ)</b> <font color="purple">[ᾰῑ]</font> marché aux salaisons, TH. <i>Char. 6</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 821, 14 (commenc. du 4<sup>e</sup> siècle av. J.-C. ; v. Meisterh. p. 43).</i><p><b>Étym</b>. ταριχοπώλης.`

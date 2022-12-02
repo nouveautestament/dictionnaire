@@ -1,0 +1,1 @@
+lar[37926]=`<b>ἐπι·καταθέω</b>, faire des incursions sur, DC. <i>40, 36</i>.`

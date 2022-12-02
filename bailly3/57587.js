@@ -1,0 +1,1 @@
+lar[57587]=`<b>κρασπεδόω-ῶ</b>, garnir d’une frange, d’une bordure, EUR. <i>Ion 1423</i>.<p><b>Étym</b>. κράσπεδον.`

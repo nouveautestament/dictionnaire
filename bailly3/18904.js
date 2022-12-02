@@ -1,0 +1,1 @@
+lar[18904]=`<b>ῶν (οἱ)</b> les Bakkhiades <i>ou</i> descendants de Bakkhis, <i>famille célèbre de Corinthe,</i> HDT. <i>5, 92,</i> ARSTT. PLUT. <i>etc</i>.<p>➳ <i>Gén. ion</i>. βακχιαδέων, <i>dat</i>. -άδῃσι, HDT.<p><b>Étym</b>. βάκχις ; <i>cf</i>. βακχίδαι.`

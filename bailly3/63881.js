@@ -1,0 +1,1 @@
+lar[63881]=`<b>μελανό·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ᾰῠγ]</font> aux noirs bancs de rameurs, ESCHL. <i>Suppl. 530</i>.<p><b>Étym</b>. μ. ζυγόν.`

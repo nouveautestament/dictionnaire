@@ -1,0 +1,1 @@
+lar[73159]=`<b>ας (ἡ)</b> partie du théâtre (entre la scène et les sièges des spectateurs) où le chœur faisait ses évolutions, PLAT. <i>Ap. 26e ;</i> POL. <i>30, 13, 11 ; fig</i>. πολέμου, PLUT. <i>M. 193e</i>, champ de bataille.<p><b>Étym</b>. ὀρχέομαι.`

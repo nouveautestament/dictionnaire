@@ -1,0 +1,1 @@
+lar[31394]=`<b>ἐκ·καρδιόω-ῶ</b>, arracher le cœur à, <i>acc</i>. A. TR. <i>1, 571, 7 Puschmann</i>.<p><b>Étym</b>. ἐκ, καρδία.`

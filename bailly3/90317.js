@@ -1,0 +1,1 @@
+lar[90317]=`<b>Σιμ·αίθα, ης (ἡ)</b> <font color="purple">[ῑ]</font> Simætha, <i>f</i>. AR. <i>Ach. 524</i> ; THCR. <i>Idyl. 2, 101, etc</i>.<p><b>Étym</b>. σιμός, αἴθω.`

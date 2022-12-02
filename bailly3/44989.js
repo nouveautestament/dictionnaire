@@ -1,0 +1,1 @@
+lar[44989]=`<b>ου (ἡ)</b> <font color="purple">[ῠ]</font> Hèdylion, <i>f</i>. ANTH. <i>5, 133</i>.<p><b>Étym</b>. <i>dim. de</i> Ἡδύλος.`

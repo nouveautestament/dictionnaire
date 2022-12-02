@@ -1,0 +1,1 @@
+lar[104073]=`<i>adv</i>., avec une apparence trompeuse : διακεῖσθαι, POL. <i>10, 35, 6,</i> avoir des dispositions secrètement hostiles ; ἔχειν πρός τινα, PLUT. <i>Luc. 22, 5,</i> avoir une haine <i>ou</i> une jalousie secrète contre qqn.`

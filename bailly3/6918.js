@@ -1,0 +1,1 @@
+lar[6918]=`<b>ἀνα·κεράννυμι</b>, mélanger : οἶνον, AR. <i>Ran. 511,</i> tremper du vin ; τί τινι, PLAT. <i>Criti. 121a</i>, mélanger une chose avec une autre.<p>➳ <i>Ao. pass</i>. ἀνεκεράσθην, PLAT. <i>Tim. 87a ; postér</i>. ἀνεκράθην, <i>d’où part</i>. ἀνακραθείς, PLUT. <i>Rom. 29</i>.`

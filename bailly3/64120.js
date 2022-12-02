@@ -1,0 +1,1 @@
+lar[64120]=`<b>μελιτουργέω-ῶ</b> <font color="purple">[ῐ]</font> préparer le miel, ARSTT. <i>H.A. 9, 40, 11</i>.<p><b>Étym</b>. *μελιτουργός, <i>de</i> μέλι, ἔργον.`

@@ -1,0 +1,1 @@
+lar[92329]=`<b>στελεχόω-ῶ</b>, faire monter en tige, faire croître, PHIL. <i>2, 456 ; au pass</i>. croître, STR. <i>694 ; fig</i>. PHIL. <i>2, 348</i>.<p><b>Étym</b>. στέλεχος.`

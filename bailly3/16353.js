@@ -1,0 +1,1 @@
+lar[16353]=`<b>ἄ·στρωτος, ος, ον :<br>      1</b> sans tapis ni couverture, sans lit, EPICH. (ATH. <i>236b</i>) ; PLAT. <i>Pol. 272a, etc. ; d’où</i> nu (sol), EUR. <i>H.f. 52</i>.<br><b>      2</b> sans selle, ARR. <i>Tact. 2, 4</i>.<p><b>Étym</b>. ἀ, στρώννυμι.`

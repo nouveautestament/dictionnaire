@@ -1,0 +1,1 @@
+lar[82438]=`<b>πολυ·τειρής, ής, ές</b> <font color="purple">[ῠ]</font> parsemé de constellations, ARAT. <i>604</i>.<p><b>Étym</b>. π. τέρας.`

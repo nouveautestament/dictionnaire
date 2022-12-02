@@ -1,0 +1,1 @@
+lar[9400]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> émulation, HLD. <i>7, 7</i>.<p><b>Étym</b>. ἀνταγωνίζομαι.`

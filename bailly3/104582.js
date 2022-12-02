@@ -1,0 +1,1 @@
+lar[104582]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Fabricianus, <i>n. d’h. rom</i>. PLUT. <i>Parall. min. 37</i>.`

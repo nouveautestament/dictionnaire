@@ -1,0 +1,1 @@
+lar[14478]=`<i>voc</i>. <b>ευ</b>, <i>gén</i>. <b>ευος</b>, <i>dat</i>. <b>ευϊ</b>, <i>acc</i>. <b>ευα (ὁ)</b> <font color="purple">[ᾰ]</font> <i>éol. et béot. c</i>. Ἄρης, SAPPH. <i>35</i> ; ALC. <i>23, 28, 29, etc.</i> ; COR. <i>3</i>.`

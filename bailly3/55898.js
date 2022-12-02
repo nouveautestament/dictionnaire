@@ -1,0 +1,1 @@
+lar[55898]=`<b>Κλεό·κριτος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Kléokritos, <i>h</i>. AR. <i>Av. 876, etc.</i> ; XÉN. <i>Hell. 2, 4, 20</i> ; DÉM. <i>1055, 26</i> ; PLUT. <i>M. 835e</i>.<p><b>Étym</b>. κλ. κρίνω.`

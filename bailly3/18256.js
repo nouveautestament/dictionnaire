@@ -1,0 +1,1 @@
+lar[18256]=`<b>ἀφρό·κομος, ος, ον</b> <font color="purple">[α]</font> à la chevelure ruisselante d’écume, MUS. <i>262</i> ; NONN. <i>D. 2, 618</i>.<p><b>Étym</b>. ἀφρός, κόμη.`

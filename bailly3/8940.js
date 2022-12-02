@@ -1,0 +1,1 @@
+lar[8940]=`<b>ἀνθρωπο·γναφεῖον, ου (τὸ)</b> <font color="purple">[ᾰφ]</font> <i>mot com</i>. baignoire, <i>litt</i>. lieu <i>ou</i> instrument pour fouler l’homme, CLÉM. <i>281</i>.`

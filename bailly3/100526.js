@@ -1,0 +1,1 @@
+lar[100526]=`<b>τριταγωνιστέω-ῶ</b> <font color="purple">[ῐᾰ]</font> jouer les rôles de troisième ordre, DÉM. <i>314, 12 ; 315, 10, etc.</i> : τινι, PLUT. <i>M. 840a</i>, après qqn.<p><b>Étym</b>. τριταγωνιστής.`

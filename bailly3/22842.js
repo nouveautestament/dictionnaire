@@ -1,0 +1,1 @@
+lar[22842]=`<b>άδος</b> <font color="purple">[ῡᾰδ]</font> <i>adj. f</i>. habité par les vautours, ESCHL. <i>Suppl. 796</i>.<p><b>Étym</b>. γύψ.`

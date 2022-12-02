@@ -1,0 +1,1 @@
+lar[95536]=`<b>συν·εξιδρόω-ῶ</b>, évacuer en même temps par la transpiration, ARSTT. <i>Probl. 13, 11</i>.`

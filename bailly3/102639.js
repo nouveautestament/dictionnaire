@@ -1,0 +1,1 @@
+lar[102639]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> protection, défense, SPT.<p><b>Étym</b>. ὑπερμαχέω.`

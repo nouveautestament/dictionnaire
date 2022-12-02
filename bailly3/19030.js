@@ -1,0 +1,1 @@
+lar[19030]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une façon vulgaire, CLÉM. <i>273</i>.<p><b>Étym</b>. βάναυσος.`

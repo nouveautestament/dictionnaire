@@ -1,0 +1,1 @@
+lar[7739]=`<b>εως (ἡ)</b> <font color="purple">[χῐ]</font> dissection, GAL. <i>2, 360</i>.<p><b>Étym</b>. ἀνασχίζω.`

@@ -1,0 +1,1 @@
+lar[66475]=`<b>οῦ (ὁ)</b> moine, BAS. <i>4, 645</i> ; NAZ. <i>2, 541, etc. Migne</i>.<p><b>Étym</b>. μονάζω.`

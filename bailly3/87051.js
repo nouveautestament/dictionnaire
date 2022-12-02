@@ -1,0 +1,1 @@
+lar[87051]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰφ]</font> action de tâter auparavant, PROCL. <i>Plat. Tim. p. 108</i>.<p><b>Étym</b>. προψηλαφάω.`

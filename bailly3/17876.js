@@ -1,0 +1,1 @@
+lar[17876]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui fait disparaître, qui détruit, PLUT. <i>M. 828f</i> (<i>conj</i>. δανειστής).<p><b>Étym</b>. ἀφανίζω.`

@@ -1,0 +1,1 @@
+lar[27063]=`<b>δι·στάσιος, ος, ον</b> <font color="purple">[ᾰ]</font> d’un poids <i>ou</i> d’une valeur double, PLAT. <i>Hipparch. 231d</i>.<p><b>Étym</b>. δίς, στάσις.`

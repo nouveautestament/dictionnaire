@@ -1,0 +1,1 @@
+lar[13042]=`<b>ἀπο·πελιόω-ῶ</b>, rendre blême, <i>d’où au pass</i>. devenir pâle, HPC. <i>397, 34</i>.`

@@ -1,0 +1,1 @@
+lar[42134]=`<b>εὐ·ηπελής, ής, ές</b>, maniable, traitable, <i>d’où</i> facile, doux, HSCH.<p><b>Étym</b>. εὖ, πέλομαι.`

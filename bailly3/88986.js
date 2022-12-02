@@ -1,0 +1,1 @@
+lar[88986]=`<i>adv.</i> :<br><b>      1</b> à la façon des Romains, PLUT. <i>Æmil. 13</i> ; PTOL. (ATH. <i>229d</i>) ; ANTH. <i>9, 502</i>.<br><b>      2</b> dans la langue des Romains, en latin, CELS. (ORIG. <i>1, 1573 Migne</i>).`

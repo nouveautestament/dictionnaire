@@ -1,0 +1,1 @@
+lar[105150]=`<b>φερε·πτέρυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> empenné, OPP. <i>H. 2, 482</i>.<p><b>Étym</b>. φ. πτερόν.`

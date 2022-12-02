@@ -1,0 +1,1 @@
+lar[2940]=`<i>gén</i>. <b>-εω</b>, <i>acc</i>. <b>-αν (ὁ)</b> <font color="purple">[ῑ]</font> amant, THCR. <i>Idyl. 12, 14, 20</i>.`

@@ -1,0 +1,1 @@
+lar[82365]=`<b>πολύ·σκεπτος, ος, ον</b> très apparent, tout à fait visible, ARAT. <i>136</i>.<p><b>Étym</b>. π. σκέπτομαι.`

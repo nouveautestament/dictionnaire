@@ -1,0 +1,1 @@
+lar[99921]=`<b>τραπεζο·ρήτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> orateur de table, ATH. <i>23e</i>.<p><b>Étym</b>. τρ. ῥήτωρ.`

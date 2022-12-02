@@ -1,0 +1,1 @@
+lar[24882]=`<b>δια·κυβεύω</b> <font color="purple">[ῠ]</font> jouer aux dés : πρός τινα, PLUT. <i>Rom. 5</i>, avec qqn ; <i>fig</i>. δ. περί τινος, PLUT. <i>M. 128a</i>, courir la chance d’une entreprise.`

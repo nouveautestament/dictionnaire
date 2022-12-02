@@ -1,0 +1,1 @@
+lar[94109]=`<b>συμ·παραφέρω</b>, emporter ensemble le long de <i>ou</i> au delà de, PTOL. <i>1, 22, 6 ; d’où au pass</i>. être emporté <i>ou</i> courir ensemble le long de <i>ou</i> au delà de, XÉN. <i>Cyn. 3, 10</i> ; PLUT. <i>Cæs. 34</i>.`

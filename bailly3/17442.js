@@ -1,0 +1,1 @@
+lar[17442]=`<b>ας (ἡ)</b> <font color="purple">[ᾱκ]</font> action de se servir soi-même, CHRYSIPP. (ATH. <i>18b</i>) ; TÉLÈS (STOB. <i>Fl. 108, 82).</i><p><b>Étym</b>. αὐτοδιάκονος.`

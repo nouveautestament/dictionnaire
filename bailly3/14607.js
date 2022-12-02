@@ -1,0 +1,1 @@
+lar[14607]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰῐ]</font> les Arimaspes (<i>litt</i>. qui n’ont qu’un œil) <i>pple fabuleux des régions hyperboréennes,</i> HDT. <i>4, 27, etc. ou d’Afrique,</i> ESCHL. <i>Pr. 805</i> ; Ἀριμασπὸς στρατός, ESCHL. <i>l. c</i>. le peuple des Arimaspes.<p><b>Étym</b>. <i>mot scythe ; cf</i>. ἄριμα.`

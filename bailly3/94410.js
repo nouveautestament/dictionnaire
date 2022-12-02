@@ -1,0 +1,1 @@
+lar[94410]=`<font color="purple">[ᾰ]</font> <i>adv</i>., visiblement, EUN. <i>p. 54 (au</i> <i>• Sup</i>. συμφανέστατα).<p><b>Étym</b>. συμφανής.`

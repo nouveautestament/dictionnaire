@@ -1,0 +1,1 @@
+lar[43823]=`<b>εὔ·χρηστος, ος, ον</b>, d’un bon usage, d’un usage facile <i>ou</i> commode : πρός τι, XÉN. <i>Mem. 3, 8, 5</i> ; PLAT. <i>Leg. 777b ;</i> εἴς τι, DS. <i>5, 40,</i> pour qqe ch.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Cyr. 5, 3, 39. • Sup</i>. -ότατος, XÉN. <i>Mem. 4, 1, 3</i> ; ARSTT. <i>Pol. 7, 17</i>.<p><b>Étym</b>. εὖ, χράομαι.`

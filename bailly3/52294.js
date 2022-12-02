@@ -1,0 +1,1 @@
+lar[52294]=`<b>καταδειπνέω-ῶ</b>, manger dans un repas, <i>acc</i>. EL. <i>V.H. 1, 24</i> ; PLUT. <i>M. 355c</i>.<p><b>Étym</b>. κατάδειπνον.`

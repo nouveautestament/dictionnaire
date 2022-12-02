@@ -1,0 +1,1 @@
+lar[60948]=`<b>ου (τὸ)</b> lotus sauvage, <i>arbre,</i> DIOSC. <i>4, 112</i>.`

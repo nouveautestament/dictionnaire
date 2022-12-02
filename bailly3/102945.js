@@ -1,0 +1,1 @@
+lar[102945]=`<b>ὑπ·ημύω</b> (<i>seul. pf. irrég. 3 sg</i>. ὑπεμνήμυκε, IL. <i>22, 491, p</i>. ὑπεμήμυκε <i>avec redoubl. p</i>. ὑπήμυκε ; <i>postér., au prés. 3 pl</i>. ὑπημύουσι, COL. <i>322</i>) demeurer le visage morne et baissé.<p><b>Étym</b>. ὑ. ἠμύω.`

@@ -1,0 +1,1 @@
+lar[44631]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠ]</font> serpolet sauvage, <i>plante</i>, DIOSC. <i>3, 46</i> ; PHILIN. (ATH. <i>681f</i>).`

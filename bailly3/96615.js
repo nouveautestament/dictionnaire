@@ -1,0 +1,1 @@
+lar[96615]=`<b>συ·σπαράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="purple">[πᾰ]</font> mettre en pièces <i>ou simpl</i>. tourmenter en même temps, NT. <i>Luc. 9, 42</i>.`

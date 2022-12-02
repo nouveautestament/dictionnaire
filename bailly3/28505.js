@@ -1,0 +1,1 @@
+lar[28505]=`<b>δύσ·θετος, ος, ον :<br>      1</b> difficile à placer, à remettre, HPC. <i>776e.</i><br><b>      2</b> mal disposé : τὸ δύσθετον τῆς χώρας, JOS. <i>A.J. 15, 9, 6,</i> mauvaise condition du pays.<p>•<i> Cp</i>. -ώτερος, HPC. <i>l. c</i>.<p><b>Étym</b>. δ. τίθημι.`

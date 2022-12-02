@@ -1,0 +1,1 @@
+lar[110470]=`<b>ου (τὸ) :<br>      1</b> horloge, STR. <i>119</i>.<br><b>      2</b> horoscope, SEXT. <i>M. 5, 68</i>.<p><b>Étym</b>. ὡροσκοπέω.`

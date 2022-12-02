@@ -1,0 +1,1 @@
+lar[88002]=`<b>πυρρό·τριχος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. πυρρόθριξ, THCR. <i>Idyl. 8, 3</i>.`

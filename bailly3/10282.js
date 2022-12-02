@@ -1,0 +1,1 @@
+lar[10282]=`<b>ου (ὁ)</b> qui rend coup pour coup, BAS. <i>2, 208</i>.<p><b>Étym</b>. ἀντιπλήσσω.`

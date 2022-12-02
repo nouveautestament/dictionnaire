@@ -1,0 +1,1 @@
+lar[28285]=`<b>δύσ·δεικτος, ος, ον</b>, difficile à montrer, CLÉM. <i>2, 121a Migne</i>.<p><b>Étym</b>. δ. δείκνυμι.`

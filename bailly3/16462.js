@@ -1,0 +1,1 @@
+lar[16462]=`<b>ἀ·σύμπλεκτος, ος, ον</b>, non enlacé, non joint, désuni, TH. <i>C.P. 6, 10, 3</i>.<p><b>Étym</b>. ἀ, συμπλέκω.`

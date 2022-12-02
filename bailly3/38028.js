@@ -1,0 +1,1 @@
+lar[38028]=`<b>ἐπι·κίδνημι</b> (<i>seul. prés</i>.) élever au-dessus de : κακοῖς ἐπ. θυμόν, ORACL. (HDT. <i>7, 140</i>) élever son âme au-dessus du malheur.<br><b><i>Moy.</i></b> (<i>seul. prés. et impf</i>.) se répandre sur <i>ou</i> à travers, IL. <i>7, 451, 458</i> ; ἐπ. αἶαν, IL. <i>2, 850</i> ; A.RH. <i>2, 978</i> ; Q. SM. <i>5, 347,</i> sur <i>ou</i> à travers la terre.`

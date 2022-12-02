@@ -1,0 +1,1 @@
+lar[107869]=`<font color="purple">[χᾰ]</font> marquer d’une empreinte, d’un signe distinctif, <i>fig</i>. caractériser, distinguer, PHIL. <i>1, 151</i> ; Ps.-PLUT. <i>V. Hom. 172</i>.<p><b>Étym</b>. χαρακτήρ.`

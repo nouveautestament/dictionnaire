@@ -1,0 +1,1 @@
+lar[44777]=`<b>ζῳο·τρόφος, ος, ον</b>, qui nourrit <i>ou</i> élève des animaux, CLÉM. <i>119</i>.<p><b>Étym</b>. ζῷον, τρέφω.`

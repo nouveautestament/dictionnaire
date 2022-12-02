@@ -1,0 +1,1 @@
+lar[35488]=`<b>ἐξ·ανευρίσκω</b> <font color="purple">[ᾰ]</font> trouver et produire au dehors, imaginer, SOPH. <i>Ph. 991</i>.`

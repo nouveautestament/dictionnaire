@@ -1,0 +1,1 @@
+lar[60575]=`<b>λευκό·λινον, ου (τὸ)</b> <font color="purple">[ῐ]</font> filasse blanche pour cordages, HDT. <i>7, 25, 34, 36</i> ; EL. <i>N.A. 5, 3</i>.<p><b>Étym</b>. λ. λίνον.`

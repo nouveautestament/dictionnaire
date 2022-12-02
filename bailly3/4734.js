@@ -1,0 +1,1 @@
+lar[4734]=`<b>ἀλληλο·βασία, ας (ἡ)</b> <font color="purple">[βᾰ]</font> action de monter l’un sur l’autre, CLÉM. <i>223</i>.<p><b>Étym</b>. ἀλλήλων, βαίνω.`

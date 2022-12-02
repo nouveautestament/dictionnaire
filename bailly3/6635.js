@@ -1,0 +1,1 @@
+lar[6635]=`<b>εως (ἡ) :<br>   I</b> action de reconnaître ; HDT. <i>1, 116</i>.<br><b>   II</b> lecture, <i>d’où</i> :<br><b>      1</b> <i>propr</i>. lecture, récitation, PLAT. <i>Euthyd. 279e, Leg. 810e ;</i> PLUT. <i>M. 130c.</i><br><b>      2</b> leçon d’un texte, ATH. <i>189b ;</i> DYSC. <i>Synt. 164</i>.<p><b>Étym</b>. ἀναγιγνώσκω.`

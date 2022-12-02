@@ -1,0 +1,1 @@
+lar[55851]=`<b>Κλεισι·δίκη, ης (ἡ)</b> <font color="purple">[ῐῐ]</font> Kleisidikè, <i>f</i>. HH. <i>Cer. 109</i>.<p><b>Étym</b>. κλείω, δίκη.`

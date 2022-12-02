@@ -1,0 +1,1 @@
+lar[106024]=`<b>φιλο·πόνηρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les méchancetés <i>ou</i> les méchantes gens, TH. <i>Char. 31</i> ; PLUT. <i>Alc. 24</i>.<p><b>Étym</b>. φ. πονηρός.`

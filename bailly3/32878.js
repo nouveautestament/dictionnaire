@@ -1,0 +1,1 @@
+lar[32878]=`<b>οῦ (ὁ)</b> action de tirer, PHIL. <i>1, 151</i> ; PLUT. <i>M. 900e ;</i> ἑλκυσμὸς διάκενος, SEXT. <i>243, 15 Bkk</i>. traction à vide, <i>càd</i>. travail inutile.<p><b>Étym</b>. ἑλκύω.`

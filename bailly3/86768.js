@@ -1,0 +1,1 @@
+lar[86768]=`<i>adv</i>., plus en avant, plus loin, HH. <i>32, 10</i> ; A.RH. <i>1, 306 ; avec un gén</i>. A.RH. <i>1, 1241</i>.<p><b>Étym</b>. προτέρω, -σε.`

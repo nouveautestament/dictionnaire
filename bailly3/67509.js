@@ -1,0 +1,1 @@
+lar[67509]=`<b>      1 <i>tr.</i></b> émousser, relâcher, affaiblir, épuiser, GAL. <i>Lex. Hipp. 19, 124</i>.<br><b>      2 <i>intr.</i></b> s’amollir, devenir flasque, <i>en parl. d’une viande qui cuit doucement,</i> GRAMM.<p><b>Étym</b>. μῶλυς.`

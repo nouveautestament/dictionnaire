@@ -1,0 +1,1 @@
+lar[18833]=`<b>βαθύ·χθων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> au sol profond, <i>càd</i>. fertile, ESCHL. <i>Sept. 306</i>.<p><b>Étym</b>. β. χθών.`

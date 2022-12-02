@@ -1,0 +1,1 @@
+lar[47631]=`<b>οῦ (ὁ)</b> action de se briser, SPT. <i>Nah. 2, 10</i>.<p><b>Étym</b>. θραύω.`

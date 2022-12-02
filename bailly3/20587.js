@@ -1,0 +1,1 @@
+lar[20587]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> prune sauvage, THCR. <i>Idyl. 7, 146</i>.`

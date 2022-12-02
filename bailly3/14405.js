@@ -1,0 +1,1 @@
+lar[14405]=`<b>οῦ (ὁ)</b> eau pour arroser <i>ou</i> pour abreuver, IL. <i>18, 521</i> ; OD. <i>13, 247</i> ; A.RH. <i>4, 1247</i> ; NONN. <i>D. 26, 184</i>.<p><b>Étym</b>. ἄρδω.`

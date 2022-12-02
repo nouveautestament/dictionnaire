@@ -1,0 +1,1 @@
+lar[61070]=`<b>λιθο·ξόανος, ος, ον</b> <font color="purple">[ῐᾰ]</font> orné de statues en pierre, NONN. <i>D. 4, 273</i>.<p><b>Étym</b>. λ. ξόανον.`

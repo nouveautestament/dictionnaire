@@ -1,0 +1,1 @@
+lar[36108]=`<b>ἐξ·οιωνίζομαι</b>, écarter comme un mauvais présage, <i>acc</i>. PLUT. <i>Dem. 21, 2 ; avec l’inf</i>. éviter comme une chose de mauvais présage de, <i>etc</i>. PLUT. <i>M. 289b</i>.<p><b>Étym</b>. <i>ao. 3 pl</i>. ἐξοιωνίσαντο.`

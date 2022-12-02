@@ -1,0 +1,1 @@
+lar[90043]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾱῐδ]</font> Sthénélaïs, <i>f</i>. ANTH. <i>5, 2</i>.<p><b>Étym</b>. <i>v</i>. Σθενέλαος.`

@@ -1,0 +1,1 @@
+lar[37315]=`<b>ἐπι·βαρέω-ῶ</b> <font color="purple">[ᾰ]</font> aggraver, surcharger, <i>acc</i>. DH. <i>4, 9 ; fig. dat</i>. APP. <i>Civ. 3, 17, etc</i>.<p>➳ <i>Fut. moy. au sens pass</i>. DH. <i>8, 73</i>.`

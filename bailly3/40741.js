@@ -1,0 +1,1 @@
+lar[40741]=`<b>ας (ἡ)</b> = <i>lat</i>. Hersilia, <i>f</i>. PLUT. <i>Rom. 4 et 18, Thes. c. Rom. 6, etc</i>.`

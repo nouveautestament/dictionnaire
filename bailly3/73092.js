@@ -1,0 +1,1 @@
+lar[73092]=`<b>ονος (ὁ)</b> <font color="purple">[ῠ]</font> Orythaôn, <i>h</i>. Q. SM. <i>3, 150</i>.`

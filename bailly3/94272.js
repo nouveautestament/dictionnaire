@@ -1,0 +1,1 @@
+lar[94272]=`<b>εως (ἡ)</b> entrelacement, union, ARSTT. <i>P.A. 13, 20</i> ; GAL. <i>8, 183</i>.<p><b>Étym</b>. συμπλέκω.`

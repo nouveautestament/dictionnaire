@@ -1,0 +1,1 @@
+lar[46237]=`<b>ος, ον</b>, qui réchauffe, qui console, ANTH. <i>6, 206</i>.<p><b>Étym</b>. θάλπω.`

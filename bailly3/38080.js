@@ -1,0 +1,1 @@
+lar[38080]=`<b>ἐπι·κνάω-ῶ</b>, gratter à la surface, AR. <i>Av. 533, 1582, etc.</i> ; HLD. <i>2, 8</i>.<p>➳ <i>Inf. prés</i>. ἐπικνῆν, COM. ANON. (<i>Com. fr. 4, 658</i>).`

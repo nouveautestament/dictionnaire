@@ -1,0 +1,1 @@
+lar[39443]=`<b>*ἐπι·τλάω</b> (<i>seul. ao.2 impér. 3 sg</i>. ἐπιτλήτω <i>et part</i>. ἐπιτλάς) supporter patiemment : τι, NIC. <i>Al. 241,</i> qqe ch. ; τοι ἐπιτλήτω κραδίη μύθοισιν ἐμοῖσιν, IL. <i>19, 220,</i> que ton cœur cède à mes conseils, <i>litt</i>. patiente par l’effet de mes paroles ; <i>abs</i>. IL. <i>23, 591</i>.`

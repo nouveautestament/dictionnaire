@@ -1,0 +1,1 @@
+lar[82486]=`<b>ας (ἡ)</b> grande abondance d’eau, TH. <i>C.P. 2, 14, 2</i>.<p><b>Étym</b>. πολύϋδρος.`

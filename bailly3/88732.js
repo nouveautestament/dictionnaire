@@ -1,0 +1,1 @@
+lar[88732]=`<b>      1</b> ramer avec bruit, <i>d’où</i> se livrer à une vogue <i>ou</i> nage accélérée, CRAT. (<i>Com. fr. 2, 176</i>) ; AR. <i>fr. 60 Dind.</i><br><b>      2</b> manger avec bruit comme les porcs, AR. <i>Ach. 807</i>.<p><b>Étym</b>. ῥοθιάς.`

@@ -1,0 +1,1 @@
+lar[84967]=`<b>προ·πλήττω</b>, frapper auparavant, HIM. <i>Or. 12, 3</i>.`

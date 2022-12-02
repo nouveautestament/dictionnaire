@@ -1,0 +1,1 @@
+lar[32886]=`<b>ης, ες :<br>      1</b> couvert d’ulcères, ulcéreux, HPC. <i>Epid. 3, 1085 ; ou</i> de plaies, EUR. <i>Hipp. 1359</i>.<br><b>      2</b> <i>fig</i>. ulcéré, irritable, POL. <i>Exc. Vat. p. 441</i> ; PLUT. <i>M. 454b</i>.<p><b>Étym</b>. ἕλκος, -ωδης.`

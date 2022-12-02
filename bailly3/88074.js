@@ -1,0 +1,1 @@
+lar[88074]=`<b>πωγωνο·τροφέω-ῶ</b>, entretenir <i>ou</i> laisser croître sa barbe, STR. <i>719</i> ; DS. <i>4, 5</i> ; PLUT. <i>M. 230b</i>.<p><b>Étym</b>. πώγων, -τροφος <i>de</i> τρέφω.`

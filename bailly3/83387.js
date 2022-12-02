@@ -1,0 +1,1 @@
+lar[83387]=`<b>Πρηξί·λεως, ω (ὁ)</b> <font color="purple">[ῐ]</font> Prèxiléôs, <i>h</i>. HDT. <i>9, 107</i>.<p><b>Étym</b>. πρήσσω, λεώς.`

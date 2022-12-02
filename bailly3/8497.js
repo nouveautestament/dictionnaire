@@ -1,0 +1,1 @@
+lar[8497]=`<b>ἀν·επίστρεπτος, ος, ον</b>, qui ne se détourne pas, indifférent : τινος, ARTÉM. <i>2, 37</i> ; SYN. <i>145c</i>, à qqe ch.<p><b>Étym</b>. ἀν-, ἐπιστρέφω.`

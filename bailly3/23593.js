@@ -1,0 +1,1 @@
+lar[23593]=`<b>ου (τὸ)</b> salle à manger, PLUT. <i>Luc. 41</i> ; JOS. <i>B.J. 2, 8, 5</i>.<p><b>Étym</b>. δειπνέω.`

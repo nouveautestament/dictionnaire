@@ -1,0 +1,1 @@
+lar[88788]=`<b>ῥοπαλο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à une massue, DIOSC. <i>3, 148</i>.<p><b>Étym</b>. ῥόπαλον, εἶδος.`

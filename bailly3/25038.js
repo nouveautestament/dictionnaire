@@ -1,0 +1,1 @@
+lar[25038]=`<i>adv</i>., au milieu de, <i>gén</i>. CIA. <i>2, 1054, 13 (347 av. J.-C.) dout. (sel. Köhler,</i> διὰ μέσης, <i>etc</i>.).<p><b>Étym</b>. διάμεσος.`

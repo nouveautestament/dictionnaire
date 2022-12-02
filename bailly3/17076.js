@@ -1,0 +1,1 @@
+lar[17076]=`<b>οῦ (ὁ)</b> dessèchement, sécheresse, HPC. <i>47, 43</i>.`

@@ -1,0 +1,1 @@
+lar[26914]=`<b>δι·οχετεύω</b> <font color="darkgreen">(<i>f</i>. -εύσω)</font> distribuer comme par des conduits (l’eau dans le sol, la nourriture dans le corps, <i>etc</i>.) PLAT. <i>Tim. 77c ;</i> DS. <i>20, 8 ; au pass</i>. être arrosé à l’aide de canaux <i>ou</i> de rigoles, STR. <i>212</i>.`

@@ -1,0 +1,1 @@
+lar[88462]=`<b>ῥηνο·φορεύς, έως</b>, <i>adj. m</i>. vêtu d’une peau d’agneau, <i>ép. de Dionysos,</i> ANTH. <i>9, 524, 18</i>.<p><b>Étym</b>. ῥήν, φέρω.`

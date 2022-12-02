@@ -1,0 +1,1 @@
+lar[89540]=`<b>ή, όν</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> semblable à un satyre, PLAT. <i>Conv. 221e ;</i> PLUT. <i>Cato ma. 7, Galb. 16, etc.</i><br><b>      2</b> qui concerne le drame satyrique, PLAT. <i>Conv. 222d ;</i> ARSTT. <i>Poet. 4, 17, etc.</i> ; τὸ σ. le drame satyrique, XÉN. <i>Conv. 4, 19, etc</i>.<p><b>Étym</b>. σάτυρος.`

@@ -1,0 +1,1 @@
+lar[18605]=`<b>ἀ·ψηλάφητος, ος, ον</b> <font color="purple">[λᾰ]</font> non tâté, non touché, intact, POL. <i>8, 21, 5</i>.<p><b>Étym</b>. ἀ, ψηλαφέω.`

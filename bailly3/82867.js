@@ -1,0 +1,1 @@
+lar[82867]=`<b>πορφυρό·βαπτος, ος, ον</b> <font color="purple">[ῠ]</font> teint en pourpre, PLAT. COM. <i>2-2, 683 Mein</i>.<p><b>Étym</b>. πορφύρα, βάπτω.`

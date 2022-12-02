@@ -1,0 +1,1 @@
+lar[102822]=`<b>ας (ἡ) :<br>      1</b> partie supérieure d’une ch., <i>particul</i>. le dessus d’une voiture, d’un char, OD. <i>6, 70</i> ; PLAT. <i>Theæt. 207a ;</i> OPP. <i>C. 1, 530</i>.<br><b>      2</b> fierté, orgueil, THGN. <i>418</i>.<p>➳ <i>Ion</i>. ὑπερτερίη, OD. THGN. <i>ll. cc</i>.<p><b>Étym</b>. ὑπέρτερος.`

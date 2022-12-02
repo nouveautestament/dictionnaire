@@ -1,0 +1,1 @@
+lar[64638]=`<b>εως (ἡ)</b> action de remplir, RHÉT. <i>5, 479 W. ; 6, 110 W</i>.<p><b>Étym</b>. μεστόω.`

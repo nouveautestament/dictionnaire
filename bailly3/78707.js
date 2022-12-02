@@ -1,0 +1,1 @@
+lar[78707]=`<b>περι·καλαμῖτις, ιδος (ἡ)</b> <font color="purple">[ᾰᾰῑῐδ]</font> écorce de roseau, GAL. <i>13, 334</i>.<p><b>Étym</b>. π. κάλαμος.`

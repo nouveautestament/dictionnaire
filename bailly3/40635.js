@@ -1,0 +1,1 @@
+lar[40635]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> Hermokratéia, <i>f</i>. ANTH. <i>7, 743</i> (<i>fém. de</i> Ἑρμοκράτης).`

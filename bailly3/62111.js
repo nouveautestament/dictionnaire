@@ -1,0 +1,1 @@
+lar[62111]=`<b>οῦ (ὁ)</b> libérateur, rédempteur, NT. <i>Ap. 7, 35</i> ; CHRYS. <i>2, 63</i>.<p><b>Étym</b>. λυτρόω.`

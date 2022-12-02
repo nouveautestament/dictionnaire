@@ -1,0 +1,1 @@
+lar[73813]=`<b>ας (ἡ) :<br>      1</b> ophtalmie avec épanchement d’humeurs et chassie, XÉN. <i>Mem. 3, 8, 3</i> ; PLAT. <i>Phædr. 255d, etc. ; au pl</i>. HPC. <i>943d, etc.</i><br><b>      2</b> cécité, AR. <i>Pl. 115</i>.<p><b>Étym</b>. ὀφθαλμός.`

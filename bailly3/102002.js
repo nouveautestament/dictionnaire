@@ -1,0 +1,1 @@
+lar[102002]=`<b>ὑπ·άργιλος, ος, ον</b> <font color="purple">[ῠῑ]</font> légèrement argileux, TH. <i>H.P. 9, 4, 8</i>.`

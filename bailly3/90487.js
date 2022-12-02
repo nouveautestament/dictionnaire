@@ -1,0 +1,1 @@
+lar[90487]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> approvisionnement de blé, <i>ou, p. ext</i>. de vivres, ARSTT. <i>Œc. 2, 24, 2</i> ; POL. <i>1, 52, 5, etc</i>.<p><b>Étym</b>. σιταρκέω.`

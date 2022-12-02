@@ -1,0 +1,1 @@
+lar[56364]=`<b>κνωπός (ὁ)</b> bête sauvage <i>ou</i> malfaisante, NIC. <i>Th. 499, etc</i>.`

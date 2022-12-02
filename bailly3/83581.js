@@ -1,0 +1,1 @@
+lar[83581]=`<b>προ·ανατέμνω</b>, disséquer auparavant, GAL. <i>2, 300, 504</i>.`

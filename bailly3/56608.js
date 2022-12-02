@@ -1,0 +1,1 @@
+lar[56608]=`<b>ή, όν</b>, propre à corriger, PLAT. <i>Soph. 229a ;</i> PLUT. <i>M. 458b ; fig</i>. propre à purifier, GAL. <i>14, 760</i>.<p><b>Étym</b>. κολάζω.`

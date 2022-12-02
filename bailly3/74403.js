@@ -1,0 +1,1 @@
+lar[74403]=`<b>ωνος (ὁ)</b> nacelle qu’on désarticule à volonté, STR. <i>818</i>.<p><b>Étym</b>. πακτός.`

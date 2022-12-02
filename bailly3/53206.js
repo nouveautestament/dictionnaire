@@ -1,0 +1,1 @@
+lar[53206]=`<b>ος, ον</b> <font color="purple">[τᾱᾱ]</font> digne d’exécration, maudit, EUR. <i>Med. 112, etc.</i> ; AR. <i>Ran. 178, etc.</i> ; DÉM. <i>174, 24, etc</i>.<p>•<i> Cp</i>. -ότερος, DÉM. <i>298, 28 ; • Sup</i>. -ότατος, SOPH. <i>O.R. 1345</i>.<p><b>Étym</b>. καταράομαι.`

@@ -1,0 +1,1 @@
+lar[99550]=`<b>έως (ὁ)</b> Tomée :<br><b>      1</b> <i>mt. près de Pylos,</i> THC. <i>4, 118</i>.<br><b>      2</b> Tomée <i>ou</i> Tomes, <i>port sur le Pont-Euxin,</i> EL. <i>N.A. 14, 25</i>.`

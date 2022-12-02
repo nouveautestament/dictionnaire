@@ -1,0 +1,1 @@
+lar[92317]=`<b>ᾶς (ἡ)</b> trou où s’adapte le manche d’une cognée, EN. TACT. <i>Pol. 18, 10 Hug</i>.<p>➳ <i>Ion</i>. στελεή, A.RH. <i>4, 957</i>.`

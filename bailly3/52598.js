@@ -1,0 +1,1 @@
+lar[52598]=`<b>κατ·ακοντίζω</b> <font color="darkgreen">(<i>f</i>. ιῶ, <i>ao</i>. κατεκόντισα)</font> <font color="purple">[ᾰκ]</font> abattre <i>ou</i> tuer à coups de javelots, HDT. <i>9, 17</i> ; DÉM. <i>277, 20</i> ; DS. <i>1, 59, etc</i>.`

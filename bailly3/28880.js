@@ -1,0 +1,1 @@
+lar[28880]=`<b>δυσροέω-οῶ</b>, avoir un cours malheureux, être malheureux, <i>en parl. d’événements,</i> ARR. <i>Epict. 1, 28, 30, etc</i>.<p><b>Étym</b>. δύσροος.`

@@ -1,0 +1,1 @@
+lar[11081]=`<b>ἀπ·αγκωνίζομαι</b>, se faire jour en écartant avec les coudes, PHILSTR. <i>V. Ap. 6 ; fig</i>. ἀπηγκωνισμένη γλῶσσα, PHILSTR. <i>V. soph. 2, 1,</i> langue qui s’ouvre un passage, <i>càd</i>. libre et hardie.`

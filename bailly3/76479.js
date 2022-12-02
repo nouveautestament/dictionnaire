@@ -1,0 +1,1 @@
+lar[76479]=`<font color="purple">[ῠ]</font> <i>vb. de</i> παραχέω, GEOP. <i>7, 26, 1</i>.`

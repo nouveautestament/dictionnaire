@@ -1,0 +1,1 @@
+lar[79231]=`<b>περι·σαίω</b>, <i>épq</i>. <b>περι·σσαίω</b>, agiter autour ; <i>d’où au pass</i>. être agité autour, flotter autour, <i>en parl. d’un panache,</i> IL. <i>19, 382 ; 22, 315</i> ; HH. <i>7, 4</i>.`

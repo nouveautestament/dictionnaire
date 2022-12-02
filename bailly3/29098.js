@@ -1,0 +1,1 @@
+lar[29098]=`<b>α, ον</b> <font color="purple">[ᾰσ]</font> douze fois aussi grand, PLUT. <i>M. 1028c</i>.<p><b>Étym</b>. δ. -πλάσιος.`

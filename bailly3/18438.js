@@ -1,0 +1,1 @@
+lar[18438]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> peuplier blanc (<i>Populus alba</i> L.) IL. <i>13, 389 ; 16, 482</i>.`

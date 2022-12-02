@@ -1,0 +1,1 @@
+lar[106968]=`<b>φρυγανο·φόρος, ος, ον</b> <font color="purple">[ῡᾰ]</font> qui porte du menu bois sec, des broussailles, LYS. (POLL. <i>7, 130).</i><p><b>Étym</b>. φρύγανον, φέρω.`

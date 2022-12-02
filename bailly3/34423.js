@@ -1,0 +1,1 @@
+lar[34423]=`<b>ἐν·ευφραίνομαι</b>, se réjouir de <i>ou</i> dans, <i>dat</i>. SPT. <i>Prov. 8, 31</i> ; PHIL. <i>1, 231, 335</i>.`

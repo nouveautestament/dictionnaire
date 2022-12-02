@@ -1,0 +1,1 @@
+lar[94004]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> imitateur avec d’autres, NT. <i>Phil. 3, 17</i>.<p><b>Étym</b>. συμμιμέομαι.`

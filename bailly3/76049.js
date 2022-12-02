@@ -1,0 +1,1 @@
+lar[76049]=`<b>παρα·πηγνύω</b> (<i>seul. prés. et impf</i>.) greffer, PLUT. <i>M. 640f</i>.<p><b>Étym</b>. <i>cf</i>. παραπήγνυμι.`

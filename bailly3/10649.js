@@ -1,0 +1,1 @@
+lar[10649]=`<b>ἀντ·ολοφύρομαι</b> <font color="purple">[ῡ]</font> se lamenter à son tour, JOS. <i>B.J. 4, 5, 1</i>.`

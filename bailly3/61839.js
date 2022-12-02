@@ -1,0 +1,1 @@
+lar[61839]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> lycanthropie, <i>maladie qui fait qu’on se croit changé en loup,</i> P. ÉG. <i>3, 16</i>.<p><b>Étym</b>. λυκάνθρωπος.`

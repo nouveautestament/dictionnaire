@@ -1,0 +1,1 @@
+lar[94377]=`<b>συμ·προστάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> collègue comme président, NAZ. <i>3, 1331 Migne</i>.`

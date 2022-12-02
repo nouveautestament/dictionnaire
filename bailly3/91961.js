@@ -1,0 +1,1 @@
+lar[91961]=`<b>σπογγο·τόμος, ος, ον</b>, qui coupe les éponges de roches sous-marines, OPP. <i>H. 2, 436, etc</i>.<p><b>Étym</b>. σπόγγος, τέμνω.`

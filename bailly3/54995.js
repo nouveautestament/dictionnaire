@@ -1,0 +1,1 @@
+lar[54995]=`<b>κερνο·φόρος, ος, ον</b>, qui porte les vases sacrés, NIC. <i>Al. 217</i> ; κερνοφόρον ὄρχημα, ATH. <i>629c</i>, danse des Corybantes qui portaient les vases sacrés.<p><b>Étym</b>. κέρνος, φέρω.`

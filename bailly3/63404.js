@@ -1,0 +1,1 @@
+lar[63404]=`<b>ιδος</b>, <i>acc</i>. <b>ιν (ἡ)</b> <font color="purple">[ᾰῑτ]</font> le territoire de Mégalopolis, PLUT. <i>Cleom. 6, etc</i>.<p><b>Étym</b>. Μεγαλόπολις.`

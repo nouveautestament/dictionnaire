@@ -1,0 +1,1 @@
+lar[37539]=`<b>ἐπι·δέμω</b> (<i>seul. part. ao. moy</i>. ἐπιδειμάμενος) construire sur, OPP. <i>C. 4, 121</i>.`

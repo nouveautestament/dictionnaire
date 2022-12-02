@@ -1,0 +1,1 @@
+lar[82475]=`<b>πολύ·τριχος, ος, ον</b> <font color="purple">[ῐ]</font> aux cheveux <i>ou</i> poils abondants, PHILONID. (<i>Com. fr. 2, 424</i>) ; τὸ πολύτριχον, GAL. <i>sorte de plante capillaire appelée aussi</i> καλλίτριχον.<p><b>Étym</b>. π. θρίξ.`

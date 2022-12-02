@@ -1,0 +1,1 @@
+lar[96645]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font><br><b>      1</b> action de manger ensemble, PLAT. <i>Leg. 781a ;</i> DOSIAD. (ATH. <i>143b</i>).<br><b>      2</b> réunion de convives, XÉN. <i>Œc. 8, 12</i>.<p><b>Étym</b>. σύσσιτος.`

@@ -1,0 +1,1 @@
+lar[99269]=`<b>ακτος (ὁ)</b> <font color="purple">[ῑ]</font> Timônax, <i>h</i>. HDT. <i>7, 98, etc</i>.<p><b>Étym</b>. τιμή, ἄναξ ; <i>cf</i>. Τιμώνασσα.`

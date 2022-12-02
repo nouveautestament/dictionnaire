@@ -1,0 +1,1 @@
+lar[86500]=`<b>προσ·τραγῳδέω-ῶ</b> <font color="purple">[ᾰ]</font> exagérer avec une emphase tragique, STR. <i>814</i> ; LGN <i>7, 1</i>.`

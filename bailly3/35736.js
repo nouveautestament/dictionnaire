@@ -1,0 +1,1 @@
+lar[35736]=`<b>ἐξ·ειρωνεύομαι :<br>      1</b> railler, se moquer de, JOS. <i>A.J. 15, 3, 6</i>.<br><b>      2</b> dire en raillant <i>ou</i> par feinte, feindre, <i>acc</i>. JOS. <i>A.J. 15, 7, 4</i>.`

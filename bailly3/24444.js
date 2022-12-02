@@ -1,0 +1,1 @@
+lar[24444]=`<b>ος, ον</b>, dévoré, <i>d’où</i> anéanti, SOPH. <i>Tr. 676</i>.<p><b>Étym</b>. <i>cf</i>. διαβόρος.`

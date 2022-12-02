@@ -1,0 +1,1 @@
+lar[90139]=`<b>σιδηρ·αγωγός, ός, όν</b> <font color="purple">[ῐᾰ]</font> qui attire le fer, SEXT. <i>M. 1, 126</i>.<p><b>Étym</b>. σίδηρος, ἄγω.`

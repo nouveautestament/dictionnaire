@@ -1,0 +1,1 @@
+lar[31052]=`<b>ἑκατοντά·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[κᾰ]</font> de cent couleurs, <i>càd</i>. multicolore, EUM. <i>9</i>.<p><b>Étym</b>. ἑ. χρώς.`

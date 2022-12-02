@@ -1,0 +1,1 @@
+lar[16224]=`<b>ἀ·στιγής, ής, ές</b> <font color="purple">[ῐ]</font> non ponctué, non accentué (manuscrit, livre, <i>etc</i>.) E. BYZ. <i>v°</i> Ἀνακτόριον.<p><b>Étym</b>. ἀ, στίζω.`

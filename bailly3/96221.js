@@ -1,0 +1,1 @@
+lar[96221]=`<b>συν·όρνυμαι</b> <font color="darkgreen">(<i>seul. part. ao.2 moy</i>. συνόρμενος, η, ον)</font> s’élancer, ESCHL. <i>Ag. 420</i>.`

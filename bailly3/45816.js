@@ -1,0 +1,1 @@
+lar[45816]=`<b>ΐδος (ἡ)</b> l’Hérakléïde, <i>poème sur Hèraklès,</i> ARSTT. <i>Poet. 8, 2</i>.<p><b>Étym</b>. Ἡρακλῆς.`

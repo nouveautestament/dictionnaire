@@ -1,0 +1,1 @@
+lar[84507]=`<b>ῆς (ἡ)</b> mort antérieure <i>ou</i> prématurée, DL. <i>10, 154</i>.<p><b>Étym</b>. προκαταστρέφω.`

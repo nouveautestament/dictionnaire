@@ -1,0 +1,1 @@
+lar[85528]=`<b>προσ·εκπονέω-ῶ :<br>      1</b> se donner plus de peine, PLUT. <i>Nic. 17</i>.<br><b>      2</b> faire de nouveaux efforts, CLÉM. <i>371, etc</i>.`

@@ -1,0 +1,1 @@
+lar[6290]=`<b>ἀμφι·πεδάω-ῶ</b> <font color="darkgreen">(<i>ao. part</i>. -ήσας)</font> lier d’entraves tout autour, OPP. <i>H. 2, 34</i>.`

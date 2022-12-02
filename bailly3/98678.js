@@ -1,0 +1,1 @@
+lar[98678]=`<b>τετρα·σκελής, ής, ές</b>, à quatre jambes, <i>d’où</i> à quatre pieds, ESCHL. <i>Pr. 395</i> ; SOPH. <i>fr. 678</i> ; τ. ὕβρισμα, EUR. <i>H.f. 181,</i> violence d’hommes quadrupèdes, <i>càd</i>. de Centaures ; πόλεμος, EUR. <i>H.f. 1272,</i> guerre contre les Centaures.<p><b>Étym</b>. τ. σκέλος.`

@@ -1,0 +1,1 @@
+lar[9050]=`<b>ἀν·ιδιτί</b> <font color="purple">[ᾰῑῑῑ]</font> <i>adv</i>., sans sueur, sans peine, PLAT. <i>Leg. 718e</i>.<p><b>Étym</b>. ἀν-, ἰδίω.`

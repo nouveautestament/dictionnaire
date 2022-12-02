@@ -1,0 +1,1 @@
+lar[62117]=`<b>ου (τὰ)</b> chandelier <i>ou</i> lampe, PHÉRÉCR. (ATH. <i>700c</i>).<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 678b, 33, 13 et z, 78 (378/366 av. J.-C.) ; v. Meisterh. p. 40</i>.<p><b>Étym</b>. λύχνος.`

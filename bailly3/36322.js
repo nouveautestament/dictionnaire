@@ -1,0 +1,1 @@
+lar[36322]=`<i>adv</i>., du dehors, STOB. <i>Fl. 4, 39 Gaisf</i>.`

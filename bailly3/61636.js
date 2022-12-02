@@ -1,0 +1,1 @@
+lar[61636]=`<b>λοπαδο·φυσητής, οῦ (ὁ)</b> <font color="purple">[ᾰῡ]</font> <i>propr</i>. « qui souffle dans les plats, qui joue des plats », <i>sobriquet du joueur de flûte Dorion, renommé pour sa gourmandise,</i> MNÉSIM. (ATH. <i>338b</i>).<p><b>Étym</b>. λ. φυσάω.`

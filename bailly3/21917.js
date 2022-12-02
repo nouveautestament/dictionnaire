@@ -1,0 +1,1 @@
+lar[21917]=`<b>ου (τὸ)</b> <i>sorte de poireau,</i> AR. <i>fr. 122</i> ; PHRYN. COM. <i>2-1, 584, 3 Mein., etc</i>.`

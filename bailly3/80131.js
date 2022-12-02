@@ -1,0 +1,1 @@
+lar[80131]=`<b>εως (ἡ) :<br>      1</b> action d’emboîter, d’ajuster, PLAT. <i>Pol. 280d ; p. suite,</i> solidité, CHRYSIPP. (STOB. <i>Fl. 103, 22</i>).<br><b>      2</b> congélation, PLAT. <i>Phil. 32a ;</i> ARSTT. <i>Meteor. 4, 5, 2, etc.</i><br><b>      3</b> coagulation (du lait) DS. <i>4, 81</i>.<p><b>Étym</b>. πήγνυμι.`

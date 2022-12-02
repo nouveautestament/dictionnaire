@@ -1,0 +1,1 @@
+lar[19900]=`<b>ατος (τὸ) :<br>      1</b> regard, EUR. <i>H.f. 306</i> ; AR. <i>Pl. 1022</i> ; DÉM. <i>etc.</i><br><b>      2</b> <i>au pl</i>. les yeux, ESCHL. <i>fr. 238</i> ; ANTIPH. (ATH. <i>38b</i>).<p><b>Étym</b>. βλέπω.`

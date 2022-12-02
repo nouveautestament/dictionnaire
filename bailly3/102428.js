@@ -1,0 +1,1 @@
+lar[102428]=`<b>ὑπερ·εκτίνω</b> <font color="purple">[ῐ]</font> payer pour, <i>gén</i>. LUC. <i>D. mort. 22, 2</i>.`

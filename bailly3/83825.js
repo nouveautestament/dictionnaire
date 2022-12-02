@@ -1,0 +1,1 @@
+lar[83825]=`<b>προ·βουλή, ῆς (ἡ)</b> délibération préalable : ἐκ προβουλῆς, ANT. <i>112, 10 ; 47, 4, etc</i>. d’après un dessein arrêté, de propos délibéré.<p><b>Étym</b>. π. βουλή.`

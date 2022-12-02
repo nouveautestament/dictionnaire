@@ -1,0 +1,1 @@
+lar[57000]=`<b>ω (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de figue, HERMIPP. (ATH. <i>77a</i>).`

@@ -1,0 +1,1 @@
+lar[87268]=`<font color="purple">[ῠ]</font> <i>adv</i>., dans la forme primitive, dans le principe, BAS. <i>3, 316 Migne</i>.`

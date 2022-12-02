@@ -1,0 +1,1 @@
+lar[49014]=`<b>α, ον</b> <font color="purple">[ῑᾰ]</font> d’Inakhos, ESCHL. <i>Pr. 590</i>.<p><b>Étym</b>. Ἴναχος.`

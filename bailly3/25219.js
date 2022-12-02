@@ -1,0 +1,1 @@
+lar[25219]=`<b>δια·παφλάζω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. διεπάφλασεν)</font> bouillonner, NONN. <i>D. 31, 24</i>.`

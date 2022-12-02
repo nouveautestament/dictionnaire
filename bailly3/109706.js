@@ -1,0 +1,1 @@
+lar[109706]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ψευδομαρτυρία <i>seul. au gén. sg</i>. : ψευδομαρτυρίου δίκη, ATT., poursuites pour faux témoignage, <i>et au dat. pl</i>. PLAT. <i>Theæt. 148b</i>.<p><b>Étym</b>. ψευδόμαρτυς.`

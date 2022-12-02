@@ -1,0 +1,1 @@
+lar[19230]=`<b>βαρύ·ψυχος, ος, ον</b> <font color="purple">[ᾰψῡ]</font> à l’esprit accablé <i>ou</i> abattu, <i>d’où</i> pusillanime, SOPH. <i>Aj. 319</i>.<p><b>Étym</b>. β. ψυχή.`

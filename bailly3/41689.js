@@ -1,0 +1,1 @@
+lar[41689]=`<b>εὔ·βατος, ος, ον</b> <font color="purple">[ᾰ]</font> où l’on peut aisément marcher, accessible, abordable, ESCHL. <i>Pr. 718</i> ; XÉN. <i>Hell. 4, 6, 9</i> ; PLAT. <i>Leg. 761a ;</i> POL. <i>1, 56, 4</i>.<p>•<i> Cp</i>. -ώτερος, XÉN. <i>l. c.</i> ; TH. <i>H.P. 2, 6, 12</i>.<p><b>Étym</b>. εὖ, βαίνω.`

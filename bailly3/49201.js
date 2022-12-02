@@ -1,0 +1,1 @@
+lar[49201]=`<b>ου (τὸ)</b> sorte de musc, <i>plante,</i> TH. <i>H.P. 4, 10, 1</i>.`

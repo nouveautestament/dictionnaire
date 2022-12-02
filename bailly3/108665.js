@@ -1,0 +1,1 @@
+lar[108665]=`<b>ου (τὸ)</b> <font color="purple">[νῐ]</font> <i>dim. de</i> χοινίκη, CELS. <i>8, 3</i> ; THÉM. <i>302, 26</i>.`

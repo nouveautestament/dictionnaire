@@ -1,0 +1,1 @@
+lar[3059]=`<font color="purple">[κᾰᾱ]</font> <i>adj. m. c</i>. ἄκακος, ESCHL. <i>Pers. 841</i>.`

@@ -1,0 +1,1 @@
+lar[110572]=`<b>ου (ὁ)</b> Ôtos :<br><b>      1</b> <i>fils d’Aloée et d’Iphimédeia,</i> IL. <i>5, 385</i> ; OD. <i>11, 308</i> ; PLAT. <i>Conv. 190b ;</i> LUC. <i>Ic. 23, Char. 3, etc.</i><br><b>      2</b> <i>chef des Épéens,</i> IL. <i>15, 518</i>.`

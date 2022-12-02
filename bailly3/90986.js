@@ -1,0 +1,1 @@
+lar[90986]=`<b>ή, όν</b>, bondissant, pétulant, PLUT. <i>M. 13b ;</i> CORN. <i>N.D. 20</i>.<p><b>Étym</b>. σκιρτάω.`

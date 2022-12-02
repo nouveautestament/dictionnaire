@@ -1,0 +1,1 @@
+lar[28147]=`<b>δυσ·αίνητος, ος, ον</b> <font color="purple">[ῠ]</font> au renom funeste, ORPH. <i>Arg. 1337 dout</i>.<p><b>Étym</b>. δ. αἰνέω.`

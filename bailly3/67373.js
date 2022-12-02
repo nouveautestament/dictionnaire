@@ -1,0 +1,1 @@
+lar[67373]=`<b>ου (ἡ)</b> Myrtion, <i>f</i>. LUC. <i>D. mort. 27, 7</i>.<p><b>Étym</b>. <i>dim. de</i> μύρτος.`

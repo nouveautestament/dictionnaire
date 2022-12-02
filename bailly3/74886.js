@@ -1,0 +1,1 @@
+lar[74886]=`<b>παν·άρρητος, ος, ον</b> <font color="purple">[ᾰν]</font> tout à fait ineffable <i>ou</i> mystérieux, SYN. <i>Hymn. 2, 91</i>.<p><b>Étym</b>. π. ἄρρητος.`

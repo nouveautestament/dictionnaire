@@ -1,0 +1,1 @@
+lar[53600]=`<b>κατ·αυθεντέω-ῶ</b>, exercer son pouvoir sur, commander à, <i>gén</i>. BAS. <i>2, 243</i>.`

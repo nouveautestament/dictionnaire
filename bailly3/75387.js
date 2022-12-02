@@ -1,0 +1,1 @@
+lar[75387]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font> que l’on peut transgresser, SOPH. <i>Ant. 874</i>.<p>➳ <i>Poét</i>. παρβατός, ESCHL. <i>Suppl. 1049</i>.<p><b>Étym</b>. <i>vb. de</i> παραβαίνω.`

@@ -1,0 +1,1 @@
+lar[19066]=`<b>βαρβαρό·λεξις, εως (ἡ)</b> <font color="purple">[ᾰρο]</font> barbarisme dans le maniement d’une langue étrangère (<i>p. opp. à</i> βαρβαρισμός, barbarisme dans le maniement de la langue nationale) CONSENT.<p><b>Étym</b>. <i>Gramm. lat. Keil 5, 386</i>.`

@@ -1,0 +1,1 @@
+lar[96644]=`<b>εως (ἡ)</b> <font color="purple">[ῑτ]</font> <i>c</i>. συσσιτία PLUT. <i>Lyc. 12</i>.`

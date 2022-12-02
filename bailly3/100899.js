@@ -1,0 +1,1 @@
+lar[100899]=`(<i>genre inconnu</i>) <font color="purple">[ῠχᾱ]</font> Trykhata, <i>mt. d’Eubée,</i> LYC. <i>374</i>.`

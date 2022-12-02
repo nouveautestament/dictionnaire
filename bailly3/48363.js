@@ -1,0 +1,1 @@
+lar[48363]=`<b>ου (ὁ)</b> Idakos, <i>lieu de la Chersonèse de Thrace,</i> THC. <i>8, 104</i>.`

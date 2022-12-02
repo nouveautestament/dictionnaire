@@ -1,0 +1,1 @@
+lar[71398]=`<b>ου (τὸ)</b> gage, otage, <i>d’ord. au pl</i>. LYS. <i>126, 21</i> ; POL. <i>3, 52, 5 ; au plur. en parl. d’un seul otage,</i> SPT. <i>1Macc. 1, 11</i>.<p><b>Étym</b>. <i>cf</i>. ὅμηρος.`

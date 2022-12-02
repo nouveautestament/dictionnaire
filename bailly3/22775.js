@@ -1,0 +1,1 @@
+lar[22775]=`<b>Γυμνο·σοφισταί, ῶν (οἱ)</b> Gymnosophistes, <i>sages de l’Inde qui vivaient nus,</i> ARSTT. <i>fr. 30</i> ; PLUT. <i>Alex. 64</i> ; LUC. <i>Fug. 7 ; etc</i>.<p><b>Étym</b>. γυμνός, σοφιστής.`

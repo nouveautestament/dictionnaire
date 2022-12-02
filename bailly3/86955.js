@@ -1,0 +1,1 @@
+lar[86955]=`<b>προφητο·τόκος, ου</b>, <i>adj. f</i>. mère d’un prophète <i>ou</i> de prophètes, PHIL. <i>1, 658</i>.<p><b>Étym</b>. προφήτης, τίκτω.`

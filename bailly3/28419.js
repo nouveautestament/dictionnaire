@@ -1,0 +1,1 @@
+lar[28419]=`<b>δυσ·επίβατος, ος, ον</b> <font color="purple">[ῠῐᾰ]</font> d’un accès difficile, DS. <i>1, 69</i> ; APD. POL. <i>32</i>.<p><b>Étym</b>. δ. ἐπιβαίνω.`

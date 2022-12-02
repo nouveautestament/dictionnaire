@@ -1,0 +1,1 @@
+lar[49344]=`<b>Ἱππο·κλέας, α (ὁ)</b> <font color="purple">[ᾱ]</font> Hippokléas, <i>h</i>. PD. <i>P. 10, 8, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἱπποκλέης.`

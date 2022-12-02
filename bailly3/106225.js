@@ -1,0 +1,1 @@
+lar[106225]=`<b>ης (ἡ)</b> Philtè, <i>f</i>. PLUT. <i>X orat. Hyper. 18</i>.`

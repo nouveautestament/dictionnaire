@@ -1,0 +1,1 @@
+lar[45829]=`<b>(ὁ)</b> Hèréas, <i>historien originaire de Mégare,</i> PLUT. <i>Thes. 20, 32 ; Sol. 10</i>.`

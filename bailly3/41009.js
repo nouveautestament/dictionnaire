@@ -1,0 +1,1 @@
+lar[41009]=`<b>εως (ἡ)</b> mouvement vers, désir, PLAT. <i>Crat. 411d, 420a</i>.<p><b>Étym</b>. ἵημι.`

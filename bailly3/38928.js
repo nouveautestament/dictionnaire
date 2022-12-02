@@ -1,0 +1,1 @@
+lar[38928]=`<b>ατος (τὸ)</b> charge <i>ou</i> paquet posé sur, <i>d’où</i> :<br><b>      1</b> selle, bât, SPT. <i>Lev. 15, 9</i>.<br><b>      2</b> <i>fig</i>. poids, charge, SOPH. <i>Ph. 755</i>.<p><b>Étym</b>. ἐπισάττω.`

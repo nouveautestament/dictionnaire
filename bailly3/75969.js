@@ -1,0 +1,1 @@
+lar[75969]=`<b>παρ·ανατείνω</b>, s’étendre <i>ou</i> être étendu le long de, M. RUBR. <i>37</i>.`

@@ -1,0 +1,1 @@
+lar[43316]=`<b>Εὐρυ·πτόλεμος, ου (ὁ)</b> Euryptolémos, <i>h</i>. XÉN. <i>Hell. 1, 3, 12</i> ; PLUT. <i>Per. 7, etc</i>.<p><b>Étym</b>. εὐ. πτόλεμος.`

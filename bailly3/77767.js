@@ -1,0 +1,1 @@
+lar[77767]=`<b>ή, όν</b>, coupé <i>ou</i> qui peut être coupé avec la hache, TH. <i>H.P. 5, 5, 6</i>.<p><b>Étym</b>. <i>vb. de</i> πελεκάω.`

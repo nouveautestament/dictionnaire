@@ -1,0 +1,1 @@
+lar[20623]=`<b>βραδυ·λαλέω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[ᾰῠᾰ]</font> parler lentement, ORIG. <i>Migne 16, p. 3086</i>.`

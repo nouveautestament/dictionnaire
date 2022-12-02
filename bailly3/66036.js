@@ -1,0 +1,1 @@
+lar[66036]=`<b>μίσ·οινος, ος, ον</b> <font color="purple">[ῑ]</font> qui a de l’aversion pour le vin, HPC. <i>677, 15</i>.<p><b>Étym</b>. μισέω, οἶνος.`

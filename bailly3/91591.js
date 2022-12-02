@@ -1,0 +1,1 @@
+lar[91591]=`<b>ων (οἱ)</b> <font color="purple">[ῠ]</font> les Solymes, <i>pple de Lycie,</i> IL. <i>6, 189, 204</i> ; HDT. <i>1, 173, etc</i>.`

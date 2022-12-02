@@ -1,0 +1,1 @@
+lar[108723]=`<b>ας (ἡ)</b> vomissement de bile, PLUT. <i>M. 692f</i>.<p><b>Étym</b>. <i>cf</i>. χολημετέω.`

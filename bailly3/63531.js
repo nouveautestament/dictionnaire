@@ -1,0 +1,1 @@
+lar[63531]=`<b>ου (ὁ)</b> Mégistès, <i>h</i>. ANACR. (ATH. <i>671 f. etc</i>.).`

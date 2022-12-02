@@ -1,0 +1,1 @@
+lar[100107]=`<b>ου (ὁ)</b> = <i>lat</i>. Triarius, <i>n. d’h. rom</i>. PLUT. <i>Luc. 35, etc</i>.`

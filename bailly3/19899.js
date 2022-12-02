@@ -1,0 +1,1 @@
+lar[19899]=`(<i>seul. prés</i>.) :<br><b>      1</b> être dans tout l’éclat de, <i>d’où</i> être fier de : σθένεϊ, IL. <i>8, 337 ; 9, 237, etc. ou</i> περὶ σθένεϊ, IL. <i>17, 22,</i> de sa force.<br><b>      2</b> se faire fort de, menacer de, <i>inf</i>. BATR. <i>275</i>.<p><b>Étym</b>. <i>Orig. inconnue</i>.`

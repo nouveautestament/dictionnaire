@@ -1,0 +1,1 @@
+lar[27114]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> clarifié, GAL. <i>10, 452</i>.<p><b>Étym</b>. διυλίζω.`

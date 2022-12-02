@@ -1,0 +1,1 @@
+lar[72861]=`<b>οῦ (ὁ)</b> celui qui fait prêter serment, XÉN. <i>Hell. 6, 5, 3</i> ; ANT. <i>143, 8, etc</i>.<p><b>Étym</b>. ὁρκόω.`

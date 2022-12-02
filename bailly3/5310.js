@@ -1,0 +1,1 @@
+lar[5310]=`<b>ἀ·μάχητος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> contre qui l’on ne peut lutter, SOPH. <i>Ph. 198</i>.<br><b>      2</b> qui n’a pas encore combattu, XÉN. <i>Cyr. 6, 4, 14</i>.<p><b>Étym</b>. ἀ, μάχομαι.`

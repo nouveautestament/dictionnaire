@@ -1,0 +1,1 @@
+lar[76519]=`<b>ου (ὁ)</b> léopard <i>ou</i> panthère, EL. <i>N.A. 1, 31</i>.`

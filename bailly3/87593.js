@@ -1,0 +1,1 @@
+lar[87593]=`<b>οῦς (ἡ)</b> <font color="purple">[ῡ]</font> Pythô :<br><b>      1</b> <i>anc. n. de la partie de la Phocide située au pied du Parnasse et où se trouve Delphes,</i> IL. <i>9, 405</i> ; OD. <i>8, 80, etc.</i><br><b>      2</b> <i>p. suite, anc. n. de Delphes,</i> PD. <i>P. 4, 117, etc.</i> ; HDT. <i>1, 54</i>.`

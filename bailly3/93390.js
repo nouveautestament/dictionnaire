@@ -1,0 +1,1 @@
+lar[93390]=`<b>ος, ον</b>, mêlé de, formé d’un mélange de, <i>dat</i>. PHILOX. (ATH. <i>643c</i>).<p><b>Étym</b>. <i>vb. de</i> *συγκαταφύρω, <i>de</i> σύν, κατά, φύρω.`

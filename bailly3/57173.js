@@ -1,0 +1,1 @@
+lar[57173]=`<b>ης (ἡ)</b> touffe de cheveux, houppe, ASIUS (ATH. <i>525f</i>).<p><b>Étym</b>. κόρυμβος.`

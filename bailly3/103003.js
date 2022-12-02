@@ -1,0 +1,1 @@
+lar[103003]=`<i>att</i>. <b>ὑπνώττω</b> (<i>seul. prés</i>.) sommeiller, être endormi <i>ou</i> assoupi, ESCHL. <i>Eum. 121, etc.</i> ; EUR. <i>Or. 173, etc.</i> ; PLAT. <i>Rsp. 534c ; fig</i>. ESCHL. <i>Sept. 287</i>.<p><b>Étym</b>. ὕπνος.`

@@ -1,0 +1,1 @@
+lar[38053]=`<b>ατος (τὸ)</b> chef d’accusation, grief, SOPH. <i>O.R. 227, 529</i> ; EUR. <i>Or. 570</i> ; XÉN. <i>Œc. 11, 4</i>.<p><b>Étym</b>. ἐπικαλέω.`

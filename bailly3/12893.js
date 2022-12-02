@@ -1,0 +1,1 @@
+lar[12893]=`<b>ἀπο·μίμησις, εως (ἡ)</b> <font color="purple">[μῑ]</font> action d’imiter fidèlement, imitation exacte, HPC. <i>344, 34</i> ; ARSTT. <i>Rhet. Al. 1, 7</i> ; PLUT. <i>Num. 14</i>.<p><b>Étym</b>. ἀπομιμέομαι.`

@@ -1,0 +1,1 @@
+lar[61226]=`<b>λινό·δρυς, υος (ἡ)</b> <font color="purple">[ῐ ; ῡ <i>nomin</i>.]</font> <i>autre n. de la plante</i> χαμαίδρυς, DIOSC. <i>3, 102</i>.`

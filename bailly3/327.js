@@ -1,0 +1,1 @@
+lar[327]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> célibat, PLUT. <i>M. 491e</i>.<p><b>Étym</b>. ἄγαμος.`

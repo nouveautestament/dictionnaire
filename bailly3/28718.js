@@ -1,0 +1,1 @@
+lar[28718]=`<b>δυσ·όλισθος, ος, ον</b> <font color="purple">[ῠ]</font> qui glisse et tombe difficilement, P. ÉG. <i>122</i>.<p><b>Étym</b>. δ. ὀλισθαίνω.`

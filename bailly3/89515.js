@@ -1,0 +1,1 @@
+lar[89515]=`<b>ου (τὸ)</b> <i>mesure hébraïque valant 1 muid (modius) ½ romain ou 24 setiers (sextarii</i>) JOS. <i>A.J. 9, 4, 5</i> ; NT. <i>Matth. 13, 33, etc</i>.`

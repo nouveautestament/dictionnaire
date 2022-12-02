@@ -1,0 +1,1 @@
+lar[60487]=`<b>ακτος (ὁ)</b> Lesbonax :<br><b>      1</b> <i>philosophe,</i> LUC. <i>Salt. 69</i>.<br><b>      2</b> <i>grammairien</i>.`

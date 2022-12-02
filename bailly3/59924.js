@@ -1,0 +1,1 @@
+lar[59924]=`<b>ῶνος (ὁ)</b> Lasiôn, <i>v. d’Élide,</i> XÉN. <i>Hell. 3, 2, 30, etc</i>.`

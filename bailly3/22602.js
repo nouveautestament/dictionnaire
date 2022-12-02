@@ -1,0 +1,1 @@
+lar[22602]=`<b>γραμμο·ποίκιλος, ος, ον</b> <font color="purple">[ῐ]</font> rayé <i>ou</i> traversé de lignes qui se croisent diversement, ARSTT. <i>fr. 279</i>.<p><b>Étym</b>. γραμμή, ποικίλος.`

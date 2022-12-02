@@ -1,0 +1,1 @@
+lar[36684]=`<b>ἐπ·άνεμος, ος, ον</b> <font color="purple">[ᾰ]</font> venteux, HPC. <i>1200d</i>.<p><b>Étym</b>. ἐπί, ἄνεμος, <i>cf</i>. ἐπήνεμος.`

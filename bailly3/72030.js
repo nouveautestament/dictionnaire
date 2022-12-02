@@ -1,0 +1,1 @@
+lar[72030]=`<b>ου</b> <font color="purple">[ῠῑ]</font> <i>adj. m</i>. semblable à de l’onyx, DIOSC. <i>5, 84</i>.<p><b>Étym</b>. ὄνυξ.`

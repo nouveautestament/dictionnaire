@@ -1,0 +1,1 @@
+lar[91723]=`<b>σπανο·καρπία, ας (ἡ)</b> <font color="purple">[πᾰ]</font> disette de fruits, DS. <i>5, 39</i>.<p><b>Étym</b>. σπανός, καρπός.`

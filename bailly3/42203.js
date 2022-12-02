@@ -1,0 +1,1 @@
+lar[42203]=`<b>εὐθικτέω-ῶ</b>, toucher le but, APD. POL. <i>16e</i>.<p><b>Étym</b>. εὔθικτος.`

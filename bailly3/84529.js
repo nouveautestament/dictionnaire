@@ -1,0 +1,1 @@
+lar[84529]=`<b>προ·κατεύχομαι :<br>      1</b> faire des prières auparavant, HLD. <i>2, 35</i>.<br><b>      2</b> prier pour, implorer, <i>gén</i>. JOS. <i>B.J. 2, 8, 5</i>.`

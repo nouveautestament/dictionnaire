@@ -1,0 +1,1 @@
+lar[82466]=`<b>πολύ·τολμος, ος, ον</b> <font color="purple">[ῠ]</font> rempli d’audace, PLUT. <i>M. 731c</i>.<p><b>Étym</b>. π. τόλμα.`

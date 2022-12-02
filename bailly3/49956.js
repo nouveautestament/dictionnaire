@@ -1,0 +1,1 @@
+lar[49956]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> Italien, italique, STR. <i>210</i> ; PLUT. <i>Oth. 6</i> ; ANTH. <i>7, 368, 741</i> ; ἡ Ἰταλὴ φωνή, APP. <i>2, 866 Schweigh</i>. la langue italique <i>ou</i> latine.<p>➳ <font color="purple">[ῑ]</font> ANTH. <i>7, 692</i>.`

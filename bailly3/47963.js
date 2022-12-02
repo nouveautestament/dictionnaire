@@ -1,0 +1,1 @@
+lar[47963]=`lancer le harpon contre un thon : <i>fig</i>. εἴς τι, AR. <i>Vesp. 1087,</i> contre qqe ch.<p><b>Étym</b>. θύννος.`

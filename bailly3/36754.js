@@ -1,0 +1,1 @@
+lar[36754]=`<b>ἐπ·απόλλυμι</b> <font color="darkgreen">(<i>ao</i>. ἐπαπώλεσα)</font> faire périr après, EL. <i>N.A. 10, 48</i> ; LUC. <i>M. cond. 42</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao.2, 3 sg</i>. ἐπαπώλετο)</font> périr après, DC. <i>60, 34</i>.`

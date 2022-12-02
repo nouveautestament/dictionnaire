@@ -1,0 +1,1 @@
+lar[71094]=`<b>ου (ὁ)</b> Oligyrtos, <i>place forte d’Arcadie,</i> PLUT. <i>Cleom. 26</i>.`

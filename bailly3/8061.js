@@ -1,0 +1,1 @@
+lar[8061]=`<i>adv</i>., en venant d’un homme, ANTH. <i>4, 175</i> ; A. PL. <i>115</i>.<p><b>Étym</b>. ἀνήρ, -θεν.`

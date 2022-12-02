@@ -1,0 +1,1 @@
+lar[71743]=`<b>ὁμό·φθογγος, ος, ον</b>, dont le son est le même <i>ou</i> semblable, NONN. <i>D. 1, 157</i>.<p><b>Étym</b>. ὁμ. φθόγγος.`

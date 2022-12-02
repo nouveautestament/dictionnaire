@@ -1,0 +1,1 @@
+lar[65659]=`<b>(ἡ)</b> Miéza, <i>v. de Macédoine, sur le Strymon,</i> PLUT. <i>Alex. 7</i>.`

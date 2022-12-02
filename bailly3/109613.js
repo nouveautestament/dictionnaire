@@ -1,0 +1,1 @@
+lar[109613]=`<b>ψελιόω-ῶ</b>, entourer comme d’un collier, ANTH. <i>7, 234</i>.<p><b>Étym</b>. ψέλιον.`

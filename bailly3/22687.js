@@ -1,0 +1,1 @@
+lar[22687]=`<b>α, ον</b> <font color="purple">[ῡ]</font> orné de griffons, PORPH.`

@@ -1,0 +1,1 @@
+lar[32329]=`<b>ἐκ·φλύω</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐκφλυνδάνω, GAL. <i>Lex. Hipp. 19, 96</i>.`

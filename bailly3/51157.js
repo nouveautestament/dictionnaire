@@ -1,0 +1,1 @@
+lar[51157]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> de Callimaque, PLUT. <i>Ant. 70, etc</i>.<p><b>Étym</b>. Καλλίμαχος.`

@@ -1,0 +1,1 @@
+lar[61971]=`<b>λυρ·αοιδός</b>, ANTH. <i>7, 612</i> ; A. PL. <i>279, p. contr</i>. <b>λυρῳδός, οῦ (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> joueur, joueuse de lyre, ANTH. <i>6, 118,</i> PLUT. <i>Syll. 33</i>.<p><b>Étym</b>. λύρα, ἀοιδός.`

@@ -1,0 +1,1 @@
+lar[4009]=`<b>ἄ·κωνος, ος, ον</b>, dont le sommet n’est pas conique, JOS. <i>A.J. 3, 7, 3</i>.<p><b>Étym</b>. ἀ, κῶνος.`

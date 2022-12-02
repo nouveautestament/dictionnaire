@@ -1,0 +1,1 @@
+lar[68324]=`<b>νεό·χριστος, ος, ον</b>, fraîchement enduit, DS. <i>Exc. p. 542, 92</i> ; APP. <i>Civ. 1, 74</i>.<p><b>Étym</b>. ν. χρίω.`

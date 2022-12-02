@@ -1,0 +1,1 @@
+lar[12017]=`<b>ἄπ·ιχθυς, υς, υ</b>, <i>gén</i>. <b>υος</b> (<i>acc. pl</i>. -υς) <font color="purple">[ῡ]</font> qui ne mange pas de poissons, AR. <i>fr. 480</i>.<p><b>Étym</b>. ἀπό, ἰχθύς.`

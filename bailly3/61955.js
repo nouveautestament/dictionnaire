@@ -1,0 +1,1 @@
+lar[61955]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> sujet d’affliction, SOPH. <i>Tr. 554</i> ; DC. <i>55, 17</i>.<p><b>Étym</b>. λυπέω.`

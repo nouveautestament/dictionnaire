@@ -1,0 +1,1 @@
+lar[87177]=`<b>ῶν (οἱ)</b> les Prôtiades, <i>n. de famille,</i> ARSTT. (ATH. <i>576b</i>).`

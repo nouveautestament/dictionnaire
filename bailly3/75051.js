@@ -1,0 +1,1 @@
+lar[75051]=`<b>ων (οἱ)</b> les Panthialæes, <i>pple persan,</i> HDT. <i>1, 125</i>.`

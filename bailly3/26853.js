@@ -1,0 +1,1 @@
+lar[26853]=`<i>adv</i>., de façon à redresser, à corriger, ORIG. <i>1, 504c Migne</i>.`

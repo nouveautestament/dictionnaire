@@ -1,0 +1,1 @@
+lar[7527]=`<b>ἀν·άριστος, ος, ον</b> <font color="purple">[ᾱρ]</font> qui n’a pas dîné (<i>en parl. du repas du matin ou du milieu du jour</i>), HPC. <i>376, 55</i> ; XÉN. <i>An. 1, 10, 19, etc. ; Hell. 7, 5, 15</i> ; PLUT. <i>M. 127e, etc</i>.<p><b>Étym</b>. ἀν-, ἄριστον.`

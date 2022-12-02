@@ -1,0 +1,1 @@
+lar[58748]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> chasse avec des chiens, PLUT. <i>Alex. 40</i> ; DL. <i>6, 31</i> ; ANTH. <i>6, 183 ; 7, 338</i>.<p>➳ <i>Dor</i>. κυναγεσία <font color="purple">[ᾱ]</font> ANTH. <i>ll. cc</i>.<p><b>Étym</b>. κυνηγέτης.`

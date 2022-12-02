@@ -1,0 +1,1 @@
+lar[38015]=`<b>(ὁ)</b> l’Embreneur, <i>n. com. d’oiseau,</i> AR. <i>Av. 68</i>.<p><b>Étym</b>. ἐπιχέζω.`

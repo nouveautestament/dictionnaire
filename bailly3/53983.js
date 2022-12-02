@@ -1,0 +1,1 @@
+lar[53983]=`<b>εως (ἡ)</b> action d’endormir, d’assoupir, de calmer, JAMBL. <i>V. Pyth. p. 285</i>.<p><b>Étym</b>. κατευνάω.`

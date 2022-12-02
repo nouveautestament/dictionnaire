@@ -1,0 +1,1 @@
+lar[101867]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> suggestion, conseil, JOS. <i>A.J. 3, 8, 8 ; 17, 4, 3</i> ; CLÉM. <i>102</i>.<p><b>Étym</b>. ὑπαγορεύω.`

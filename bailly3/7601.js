@@ -1,0 +1,1 @@
+lar[7601]=`<b>ἀνα·σειράζω</b>, secouer la bride (pour dompter le cheval) EUR. <i>Hipp. 237</i> ; A.RH. <i>1, 391 ; fig</i>. retenir, contenir, <i>en gén</i>. AR. <i>fr. 470</i> ; ANTH. <i>9, 687</i>.`

@@ -1,0 +1,1 @@
+lar[13238]=`<b>ἀπο·ρριγέω-ῶ</b> <font color="purple">[ῑ]</font> (<i>seul. pf</i>. ἀπέρριγα <font color="purple">[ῑ]</font>) frissonner de crainte, OD. <i>2, 52</i>.<p><b>Étym</b>. ἀ. ῥιγέω.`

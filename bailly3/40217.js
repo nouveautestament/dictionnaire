@@ -1,0 +1,1 @@
+lar[40217]=`<b>ἐργοπονέομαι-οῦμαι</b>, travailler activement, ARTÉM. <i>3, 6</i>.<p><b>Étym</b>. ἐργοπόνος.`

@@ -1,0 +1,1 @@
+lar[48572]=`<b>ης (ἡ)</b> l’Hibernie (<i>auj</i>. Irlande) ARSTT. <i>Mund. 3, 12</i>.`

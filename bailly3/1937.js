@@ -1,0 +1,1 @@
+lar[1937]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰᾰμ]</font> la fille d’Athamas (Hellè) ESCHL. <i>Pers. 70</i>.`

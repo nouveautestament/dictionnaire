@@ -1,0 +1,1 @@
+lar[97995]=`<i>lac. c</i>. τέ, <i>acc. dor. de</i> σύ, ALCM. (DYSC. <i>Pron. p. 106c</i>).`

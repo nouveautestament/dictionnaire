@@ -1,0 +1,1 @@
+lar[107803]=`<b>χαμαί·τυπος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui frappe à terre ; <i>subst</i>. ὁ χ. :<br><b>      1</b> <i>sorte de faucon</i> qui se jette sur sa proie à terre, ARSTT. <i>H.A. 9, 36, 3</i>.<br><b>      2</b> débauché (<i>cf</i>. χαμαιτύπη) PHIL. <i>1, 345</i>.<p><b>Étym</b>. χ. τύπτω.`

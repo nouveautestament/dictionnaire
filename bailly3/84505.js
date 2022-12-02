@@ -1,0 +1,1 @@
+lar[84505]=`<b>ή, όν</b> <font color="purple">[ᾰτ]</font> qui sert de préambule <i>ou</i> de sommaire à un discours, RHÉT. <i>8, 58 W</i>.<p><b>Étym</b>. προκαθίστημι.`

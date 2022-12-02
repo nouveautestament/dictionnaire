@@ -1,0 +1,1 @@
+lar[58909]=`<b>α, ον</b> <font color="purple">[ῡῐδ]</font><br><b>      1</b> de Kypris, MUS. <i>42, etc.</i><br><b>      2</b> <i>p. ext</i>. tendre, amoureux, ANTH. <i>10, 68</i>.<p><b>Étym</b>. Κύπρις.`

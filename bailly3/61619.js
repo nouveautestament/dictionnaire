@@ -1,0 +1,1 @@
+lar[61619]=`<b>λοξο·βάτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui marche obliquement, BATR. <i>297</i>.<p><b>Étym</b>. λοξός, βαίνω.`

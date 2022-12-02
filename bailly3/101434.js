@@ -1,0 +1,1 @@
+lar[101434]=`<b>ὑγρο·φυής, ής, ές</b>, d’une nature humide <i>ou</i> tendre, SCH.-THCR. <i>1, 47</i>.<p><b>Étym</b>. ὑ. φύω.`

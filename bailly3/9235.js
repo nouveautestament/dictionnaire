@@ -1,0 +1,1 @@
+lar[9235]=`<b>ἄν·οιστρος, ος, ον</b>, sans aiguillon, <i>càd</i>. sans ardeur, NAZ.<p><b>Étym</b>. ἀν-, οἶστρος.`

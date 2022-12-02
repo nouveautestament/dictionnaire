@@ -1,0 +1,1 @@
+lar[12940]=`<b>εως (ἡ) :<br>      1</b> attribution, partage, M. ANT. <i>8, 6</i>.<br><b>      2</b> <i>au plur</i>. embranchements <i>ou</i> ramifications d’un nerf, ORIB. <i>3, p. 42, 8 ; 486, 14</i>.<p><b>Étym</b>. ἀπονέμω.`

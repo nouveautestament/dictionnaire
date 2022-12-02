@@ -1,0 +1,1 @@
+lar[110368]=`<b>ᾠο·φόρος, ος, ον :<br>      1</b> qui porte des œufs dans son sein, ARSTT. <i>H.A. 9, 37, 17</i>.<br><b>      2</b> qui produit des œufs, OPP. <i>H. 1, 478</i>.<p><b>Étym</b>. ᾠ. φέρω.`

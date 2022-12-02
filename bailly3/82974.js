@@ -1,0 +1,1 @@
+lar[82974]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> ποταμός, STR. <i>343</i> ; MÉTAG. (ATH. <i>233d</i>).`

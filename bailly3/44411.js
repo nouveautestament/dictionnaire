@@ -1,0 +1,1 @@
+lar[44411]=`<b>ακος (ὁ)</b> le Zarax, <i>mt. d’Eubée</i>, LYC. <i>373</i>.`

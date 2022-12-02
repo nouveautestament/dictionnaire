@@ -1,0 +1,1 @@
+lar[51172]=`<i>adv</i>., mieux, PLAT. <i>Theæt. 169e</i>.<p><b>Étym</b>. κάλλιον.`

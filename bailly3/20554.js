@@ -1,0 +1,1 @@
+lar[20554]=`<b>βού·τυρον, ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> beurre, HPC. <i>508, 46</i> ; DIOSC. <i>2, 81</i>.<br><b>      2</b> sorte d’onguent, PLUT. <i>M. 1109b</i>.<p><b>Étym</b>. βοῦς, τυρός.`

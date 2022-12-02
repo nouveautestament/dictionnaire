@@ -1,0 +1,1 @@
+lar[8000]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρ]</font> petit homme chétif, avorton, AR. <i>Ach. 517</i> ; SYN. <i>245c</i>.<p><b>Étym</b>. ἀνήρ.`

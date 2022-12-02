@@ -1,0 +1,1 @@
+lar[87556]=`<font color="purple">[ῡ]</font> être inspiré par Apollon Pythien <i>ou</i> prédire comme la Pythie, E. BYZ. <i>v°</i> Πυθώ.<p><b>Étym</b>. Πυθία.`

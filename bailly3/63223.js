@@ -1,0 +1,1 @@
+lar[63223]=`<b>μαχαιρο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> porteur d’un sabre, <i>en parl. des Égyptiens,</i> HDT. <i>9, 32 ; des Perses,</i> ESCHL. <i>Pers. 56 ; des Thraces,</i> THC. <i>2, 96 ; 7, 27, etc</i>.<p><b>Étym</b>. μάχαιρα, φέρω.`

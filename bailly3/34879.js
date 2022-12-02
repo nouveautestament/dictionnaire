@@ -1,0 +1,1 @@
+lar[34879]=`<b>ἐν·ουλίζω</b>, boucler, friser, ALCIPHR. <i>fr. 5, 4</i> ; ARISTÉN. <i>1, 1</i>.<p><b>Étym</b>. ἐν, οὖλος.`

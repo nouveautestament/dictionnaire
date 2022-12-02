@@ -1,0 +1,1 @@
+lar[99033]=`<b>ου (ὁ)</b> Tèrillos :<br><b>      1</b> <i>tyran d’Himèra, en Sicile,</i> HDT. <i>7, 165</i>.<br><b>      2</b> <i>autre,</i> PLAT. <i>Ep. 363c</i>.`

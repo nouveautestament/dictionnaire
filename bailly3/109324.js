@@ -1,0 +1,1 @@
+lar[109324]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> doreur, PLUT. <i>M. 348e</i>.<p><b>Étym</b>. χρυσόω.`

@@ -1,0 +1,1 @@
+lar[74900]=`<b>Παν·αχαιοί, ῶν (οἱ)</b> <font color="purple">[ᾰνᾰχ]</font> tous les Achéens réunis, <i>p. ext</i>. tous les Grecs, IL. <i>2, 404, etc.</i> ; OD. <i>1, 239, etc</i>.<p><b>Étym</b>. π. Ἀχαιοί.`

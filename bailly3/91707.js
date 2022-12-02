@@ -1,0 +1,1 @@
+lar[91707]=`<b>σπαθό·φυλλος, ος, ον</b> <font color="purple">[ᾰ]</font> à feuilles en forme de spatule, TH. <i>H.P. 1, 10, 4 conj</i>.<p><b>Étym</b>. σπάθη, φύλλον.`

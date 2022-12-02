@@ -1,0 +1,1 @@
+lar[12898]=`<b>ἀπομισθόω-ῶ</b>, donner contre salaire : ποιεῖν τι, DÉM. <i>1069, 20,</i> donner qqe ch. à faire moyennant salaire ; γῆν, THC. <i>3, 68</i> ; LYS. <i>109, 10,</i> donner une terre à loyer.`

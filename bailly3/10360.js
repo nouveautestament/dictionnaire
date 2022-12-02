@@ -1,0 +1,1 @@
+lar[10360]=`<b>ἀντιπυργόω-ῶ</b>, fortifier de tours (la colline d’Arès) en face de <i>ou</i> par opposition à (l’Acropole), ESCHL. <i>Eum. 688</i>.`

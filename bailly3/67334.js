@@ -1,0 +1,1 @@
+lar[67334]=`<b>μυρό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ]</font> à la peau parfumée, ANTH. <i>9, 570</i>.<p><b>Étym</b>. μ. χρόα.`

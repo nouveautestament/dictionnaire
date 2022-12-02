@@ -1,0 +1,1 @@
+lar[59909]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>au pl</i>. trépied de cuisine, <i>d’où</i> cuisine, AR. <i>Pax 893, etc.</i><br><b>      2</b> chaise percée, HPC. <i>261, 13</i> ; ANTH. <i>11, 74 ; au pl</i>. AR. <i>fr. 80</i> ; HPC. <i>888d</i>.`

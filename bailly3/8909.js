@@ -1,0 +1,1 @@
+lar[8909]=`<b>ἀνθρακόω-ῶ</b> (<i>seul. part. pf. pass</i>. ἠνθρακωμένος) <font color="purple">[ᾰκ]</font> réduire en charbon, ESCHL. <i>Pr. 372</i> ; EUR. <i>Cycl. 612</i>.<p><b>Étym</b>. ἄνθραξ.`

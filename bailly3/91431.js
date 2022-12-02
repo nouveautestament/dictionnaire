@@ -1,0 +1,1 @@
+lar[91431]=`<font color="purple">[μᾰ]</font> ressembler à l’émeraude, DS. <i>2, 52</i> ; DIOSC. <i>5, 160</i>.<p><b>Étym</b>. σμάραγδος.`

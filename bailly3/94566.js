@@ -1,0 +1,1 @@
+lar[94566]=`<b>συν·αγωνιάω-ῶ</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> s’associer aux peines <i>ou</i> aux angoisses de, <i>dat</i>. POL. <i>3, 43, 8</i> ; DS. <i>17, 100 ; avec</i> ὑπέρ <i>et le gén</i>. PLUT. <i>M. 486b.</i><br><b>      2</b> assister dans une lutte, SIB. <i>3, 712</i>.`

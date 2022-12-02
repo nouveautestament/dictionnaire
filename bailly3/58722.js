@@ -1,0 +1,1 @@
+lar[58722]=`<b>ου (ὁ)</b> Kynægeiros (Cynégire) <i>h</i>. HDT. <i>6, 114</i>.`

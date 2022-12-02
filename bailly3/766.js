@@ -1,0 +1,1 @@
+lar[766]=`<b>Ἁγνό·δωρος, ου (ὁ)</b> Hagnodôros, <i>h</i>. LYS. <i>13, 55 Baiter-Sauppe</i>.<p><b>Étym</b>. ἁγνός, δῶρον.`

@@ -1,0 +1,1 @@
+lar[108945]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> action de faire des affaires pour gagner de l’argent, <i>d’où</i> gain, XÉN. <i>Œc. 20, 22</i> ; EL. <i>fr. p. 369</i>.<p><b>Étym</b>. χρηματίζομαι.`

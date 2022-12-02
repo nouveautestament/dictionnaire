@@ -1,0 +1,1 @@
+lar[52385]=`<b>κατα·θάπτω</b>, ensevelir, IL. <i>19, 228 ; 24, 611</i> ; ESCHL. <i>Ag. 1553</i> ; ISOCR. <i>388e, etc</i>.`

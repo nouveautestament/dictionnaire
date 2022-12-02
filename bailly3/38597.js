@@ -1,0 +1,1 @@
+lar[38597]=`<i>adv</i>., en se parjurant, HDN <i>6, 9</i>.<p><b>Étym</b>. ἐπίορκος.`

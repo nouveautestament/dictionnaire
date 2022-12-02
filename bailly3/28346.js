@@ -1,0 +1,1 @@
+lar[28346]=`<b>δυσ·έκκρουστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à chasser de force, SEXT. <i>M. 7, 23</i>.<p><b>Étym</b>. δ. ἐκκρούω.`

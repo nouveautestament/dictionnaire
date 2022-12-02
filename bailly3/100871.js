@@ -1,0 +1,1 @@
+lar[100871]=`<b>τρυ·φάλεια, ας (ἡ)</b> <font color="purple">[ῠᾰ]</font> casque, <i>litt</i>. casque avec un trou pour y fixer le panache, IL. <i>3, 372 ; 11, 352 ; 13, 530 ; 19, 382, etc.</i> ; OD. <i>22, 183</i> ; HÉS. <i>Sc. 199</i> ; AR. <i>Ran. 1016</i>.<p><b>Étym</b>. τρύω, φάλος.`

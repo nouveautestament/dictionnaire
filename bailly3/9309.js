@@ -1,0 +1,1 @@
+lar[9309]=`<b>ἀν·όρεκτος, ος, ον :<br>      1</b> sans appétit, sans désir, ARSTT. <i>Virt. et vit. 4, 5</i> ; PLUT. <i>M. 460a.</i><br><b>      2</b> non désiré, PLUT. <i>M. 664a</i>.<p><b>Étym</b>. ἀν-, ὀρέγω.`

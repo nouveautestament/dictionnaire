@@ -1,0 +1,1 @@
+lar[43137]=`<b>εὐ·πτέρυγος, ος, ον</b> <font color="purple">[ῠ]</font> aux belles ailes <i>ou</i> aux ailes rapides, OPP. <i>C. 3, 125 ; fig</i>. ANTH. <i>10, 6</i>.<p><b>Étym</b>. εὖ, πτέρυξ.`

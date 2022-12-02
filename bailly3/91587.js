@@ -1,0 +1,1 @@
+lar[91587]=`<b>ου (ὁ) :<br>      1</b> masse de fer, <i>particul</i>. sorte de disque, IL. <i>23, 826, 839, 844</i> ; NIC. <i>Th. 905</i> ; NONN. <i>D. 37, 667</i>.<br><b>      2</b> <i>p. ext</i>. masse compacte, A.RH. <i>3, 1366, 1372</i>.<p><b>Étym</b>. <i>inconnue</i>.`

@@ -1,0 +1,1 @@
+lar[75227]=`<b>(ὁ)</b> Pantikapès (<i>auj</i>. Inhul) <i>fl. de la Sarmatie d’Europe,</i> HDT. <i>4, 18, etc</i>.`

@@ -1,0 +1,1 @@
+lar[108551]=`<b>ά, όν</b> <font color="purple">[ᾱ]</font> <i>seul. dans la loc</i>. χλαρὸν γελᾶν, PD. <i>P. 9, 65,</i> rire doucement, sourire ; <i>sel. d’autres,</i> rire d’un rire frais et sonore.<p><b>Étym</b>. <i>cf</i>. *χλάδω.`

@@ -1,0 +1,1 @@
+lar[11773]=`<b>ἀ·περιμάχητος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> qui ne mérite pas qu’on se batte pour lui, indigne d’être défendu, PHIL. <i>1, 2</i>.<br><b>      2</b> non belliqueux, paisible, <i>joint à</i> εἰρηνικός, M. TYR. <i>36, 1</i>.<p><b>Étym</b>. ἀ, περιμάχομαι.`

@@ -1,0 +1,1 @@
+lar[58988]=`<b>κυρτ·αύχην</b>, <i>gén</i>. <b>ενος (ὁ, ἡ)</b> au cou baissé, au dos voûté <i>ou</i> courbé, QUINT. <i>1, 5, 67</i>.<p><b>Étym</b>. κυρτός, αὐχήν.`

@@ -1,0 +1,1 @@
+lar[93170]=`<b>συ·βώτης</b>, <i>non</i> <b>*συ·βότης, ου (ὁ)</b> <font color="purple">[ῠ]</font> gardeur de pourceaux, porcher, OD. <i>4, 640 ; 14, 470</i> ; HDT. <i>2, 47, 48</i> ; PLAT. <i>Theæt. 174d, Rsp. 373c ;</i> ARSTT. <i>Poet. 16, 4</i>.<p>➳ <i>Gén. épq</i>. συβώτεω, OD. <i>14, 459 ; 15, 304</i>.<p><b>Étym</b>. σῦς, βόσκω.`

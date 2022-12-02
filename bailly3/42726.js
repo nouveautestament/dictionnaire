@@ -1,0 +1,1 @@
+lar[42726]=`<b>εὔ·μοχθος, ος, ον</b>, qui supporte beaucoup de fatigues <i>ou</i> très vigoureux, ANTH. <i>App. 103</i>.<p><b>Étym</b>. εὖ, μόχθος.`

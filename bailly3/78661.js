@@ -1,0 +1,1 @@
+lar[78661]=`<b>περι·θραύω</b>, briser tout autour, HPC. <i>513, 35</i> ; ARSTT. <i>Probl. 23, 36, etc.</i> ; PHIL. <i>1, 564, etc</i>.`

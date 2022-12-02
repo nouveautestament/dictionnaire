@@ -1,0 +1,1 @@
+lar[81797]=`<b>πολυ·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> très prudent, très sage, PLAT. <i>Phædr. 275a ;</i> DC. <i>76, 16</i>.<br><b>      2</b> très sentencieux, PHILSTR. <i>502</i>.<p><b>Étym</b>. π. γνώμη.`

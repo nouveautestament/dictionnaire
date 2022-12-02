@@ -1,0 +1,1 @@
+lar[57217]=`<b>κορων·εκάβη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> femme aussi vieille qu’Hécube et qu’une corneille, ANTH. <i>11, 67</i>.<p><b>Étym</b>. κορώνη, Ἑκάβη.`

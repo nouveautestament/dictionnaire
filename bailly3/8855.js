@@ -1,0 +1,1 @@
+lar[8855]=`<b>εως (ἡ)</b> action de s’épanouir en fleurs, floraison, GEOP. <i>10, 59, 3</i>.<p><b>Étym</b>. ἀνθοβολέω.`

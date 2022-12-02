@@ -1,0 +1,1 @@
+lar[100130]=`<b>τρί·βραχυς, εος</b> <font color="purple">[ῐᾰ]</font> <i>adj. m</i>. qui se compose de trois brèves, <i>etc</i>. ARCAD. <i>40</i> ; ὁ τρ. πούς, DH. <i>Comp. 17 ; ou subst</i>. ὁ τρίβραχυς, DH. <i>Comp. 17,</i> GRAMM. tribraque, <i>pied de trois brèves</i>.<p><b>Étym</b>. τρεῖς, βραχύς.`

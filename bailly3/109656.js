@@ -1,0 +1,1 @@
+lar[109656]=`<b>ψευδ·ηγόρος, ος, ον</b>, qui dit des faussetés, menteur, LYC. <i>1455</i> ; ANTH. <i>1, 106</i>.<p><b>Étym</b>. ψεῦδος, ἀγορεύω.`

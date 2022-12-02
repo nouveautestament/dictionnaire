@@ -1,0 +1,1 @@
+lar[94378]=`<b>συμ·προστίθημι</b> <font color="purple">[τῐ]</font> adapter ensemble <i>ou</i> en même temps, STR. <i>598</i>.`

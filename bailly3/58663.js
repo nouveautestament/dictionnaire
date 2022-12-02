@@ -1,0 +1,1 @@
+lar[58663]=`<font color="purple">[ῡᾰ]</font> soulever les flots, <i>d’où au pass</i>. être agité, <i>en parl. de vagues,</i> ARSTT. <i>H.A. 9, 37</i> ; GAL. <i>19, 717</i>.<p><b>Étym</b>. κῦμα.`

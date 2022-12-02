@@ -1,0 +1,1 @@
+lar[108222]=`<b>ου (ἡ)</b> Khélidonion, <i>litt</i>. petite hirondelle, <i>f</i>. LUC. <i>D. mer. 10</i>.<p><b>Étym</b>. <i>dim. de</i> χελιδών.`

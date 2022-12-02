@@ -1,0 +1,1 @@
+lar[88008]=`<b>ωνος (ὁ)</b> Pyrrhon :<br><b>      1</b> <i>philosophe célèbre, fondateur de l’école des sceptiques,</i> PLUT. <i>Alex. fort. 1, 10, etc.</i> ; LUC. <i>Bis acc. 24 et 25, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Qu. rom. 79, etc</i>.`

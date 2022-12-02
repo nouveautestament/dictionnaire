@@ -1,0 +1,1 @@
+lar[99384]=`<b>ου (ὁ)</b> = <i>lat</i>. Titus, <i>n. d’h. rom</i>. PLUT. <i>T. Gracch. 14, etc</i>.`

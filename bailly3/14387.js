@@ -1,0 +1,1 @@
+lar[14387]=`<b>ἀρδαλόω-ῶ</b> (<i>seul. prés. et ao</i>. ἠρδάλωσα ; <i>pass. seul. part. pf</i>. ἠρδαλωμένος) <font color="purple">[δᾰ]</font><br><b>      1</b> tacher, salir, HPC. <i>582, 12</i>.<br><b>      2</b> <i>p. ext</i>. troubler, PHILÉM. <i>fr. 56 Mein</i>.<p><b>Étym</b>. ἄρδαλος.`

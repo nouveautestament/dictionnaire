@@ -1,0 +1,1 @@
+lar[89244]=`<b>ου (ὁ)</b> Sambikos, <i>h</i>. PLUT. <i>Qu. gr. 47</i>.`

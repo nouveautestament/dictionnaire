@@ -1,0 +1,1 @@
+lar[66337]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. μοιχεία, MAN. <i>4, 394</i>.`

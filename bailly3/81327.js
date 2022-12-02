@@ -1,0 +1,1 @@
+lar[81327]=`<b>ή, όν</b>, enclin à désirer, à regretter, MÉTOP. (STOB. <i>Fl. 1, 64).</i><p><b>Étym</b>. ποθητός.`

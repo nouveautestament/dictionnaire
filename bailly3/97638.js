@@ -1,0 +1,1 @@
+lar[97638]=`<b>ταραξί·πολις, εως (ὁ, ἡ)</b> <font color="purple">[τᾰξῐ]</font> qui trouble la ville <i>ou</i> l’État, PHIL. <i>2, 520, 537</i>.<p><b>Étym</b>. ταράσσω, πόλις.`

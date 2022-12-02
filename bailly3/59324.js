@@ -1,0 +1,1 @@
+lar[59324]=`<b>ων (οἱ)</b> chausse-trappes à deux jambes en forme de Λ, HÉRON <i>Mens. p. 4</i>.<p><b>Étym</b>. λάβδα.`

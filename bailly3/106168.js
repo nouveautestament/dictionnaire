@@ -1,0 +1,1 @@
+lar[106168]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Philourgos, <i>h</i>. AR. <i>Lys. 266</i> ; ISOCR. <i>Or. 18, 57 Baiter-Sauppe</i>.<p><b>Étym</b>. φ. ἔργον.`

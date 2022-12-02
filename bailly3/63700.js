@@ -1,0 +1,1 @@
+lar[63700]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> courroie qu’on s’enroulait autour du poing pour le pugilat, PAUS. <i>8, 40, 3</i>.`

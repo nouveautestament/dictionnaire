@@ -1,0 +1,1 @@
+lar[73099]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> grand bruit, bruit retentissant, <i>en parl. du cours du Scamandre,</i> IL. <i>21, 256 ; du bruit d’une troupe,</i> IL. <i>17, 741, etc.</i> ; HÉS. <i>Sc. 401 ; du bruit de la mer,</i> SIM. (PLUT. <i>M. 602c</i>), <i>etc</i>.`

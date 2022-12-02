@@ -1,0 +1,1 @@
+lar[20156]=`<i>onomatopée pour imiter le bourdonnement,</i> AR. <i>Th. 45</i>.<p><b>Étym</b>. βόμβος.`

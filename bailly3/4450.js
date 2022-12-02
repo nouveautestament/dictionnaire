@@ -1,0 +1,1 @@
+lar[4450]=`<font color="darkgreen">(<i>f. pass</i>. ἁλισθήσομαι ; <i>pf. pass</i>. ἥλισμαι)</font> <font color="purple">[ᾰ]</font><br><b>      1</b> saler, ARSTT. <i>H.A. 6, 15, 10 ; Probl. 21, 5</i> ; NT. <i>Marc. 9, 49</i>.<br><b>      2</b> nourrir avec du sel <i>ou</i> des aliments salés, ARSTT. <i>H.A. 8, 10, 2</i>.<p><b>Étym</b>. ἅλς.`

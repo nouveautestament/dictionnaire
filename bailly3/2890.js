@@ -1,0 +1,1 @@
+lar[2890]=`<b>αἰσχρό·γελως, ωτος (ὁ, ἡ)</b> honteusement ridicule, MAN. <i>4, 283</i>.<p><b>Étym</b>. αἰ. γέλως.`

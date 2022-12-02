@@ -1,0 +1,1 @@
+lar[109074]=`<b>χρύσ·αιγις, ιδος</b> <font color="purple">[ῡῐδ]</font> <i>adj. f</i>. à l’égide d’or, BACCHYL. <i>fr. 15, 2</i>.<p><b>Étym</b>. χρυσός, αἰγίς.`

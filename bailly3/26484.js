@@ -1,0 +1,1 @@
+lar[26484]=`<b>δικαιο·πραγέω-ῶ</b> <font color="purple">[ῐᾱγ]</font> pratiquer la justice, ARSTT. <i>Nic. 1, 8 ; 5, 1 ; Rhet. 1, 13, 3</i> ; PLUT. <i>Sol. 5, M. 135f</i>.<p><b>Étym</b>. δίκαιος, πράσσω.`

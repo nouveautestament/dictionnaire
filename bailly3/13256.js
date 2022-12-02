@@ -1,0 +1,1 @@
+lar[13256]=`<b>ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui coule au dehors, qui s’épanche, HÉS. <i>O. 593</i>.<br><b>      2</b> sujet à écoulement, PLAT. <i>Tim. 43a ;</i> ARSTT. <i>Meteor. 2, 1, 7</i>.<br><b>      3</b> qui offre un écoulement, XÉN. <i>Eq. 4, 3</i>.<p><b>Étym</b>. ἀπορρέω.`

@@ -1,0 +1,1 @@
+lar[19041]=`<b>ου (τὸ) :<br>      1</b> salle, de bain, PLIN. MIN. <i>Ep. 2, 17</i>.<br><b>      2</b> baptistère, NYSS. <i>3, 420 Migne</i>.<p><b>Étym</b>. βαπτίζω.`

@@ -1,0 +1,1 @@
+lar[18838]=`<i>ou</i> <b>βαῖαι, ῶν (αἱ)</b> = <i>lat</i>. Baiæ, Baïes, <i>v. de Campanie,</i> STR. PLUT. APP. <i>etc</i>.`

@@ -1,0 +1,1 @@
+lar[45010]=`<b>ἡδυ·όνειρος, ος, ον</b>, qui procure des rêves agréables, HERMIPP. (ATH. <i>27f</i>).<p><b>Étym</b>. ἡ. ὄνειρος.`

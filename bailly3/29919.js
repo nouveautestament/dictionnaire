@@ -1,0 +1,1 @@
+lar[29919]=`<b>ἐγ·χονδρίζω</b> (<i>part. ao</i>. -ίσας) rapprocher les cartilages, ARCHIG. (GAL.).<p><b>Étym</b>. ἐν, χόνδρος.`

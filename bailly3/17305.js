@@ -1,0 +1,1 @@
+lar[17305]=`<b>ας (ἡ) :<br>      1</b> sécheresse, TH. <i>C.P. 6, 12, 6</i>.<br><b>      2</b> austérité, POL. <i>4, 21</i>.<p><b>Étym</b>. αὐστηρός.`

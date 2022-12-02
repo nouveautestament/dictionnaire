@@ -1,0 +1,1 @@
+lar[70420]=`<b>ή, όν</b>, casanier, sédentaire, LUC. <i>Fug. 16</i>.<p><b>Étym</b>. οἰκουρία.`

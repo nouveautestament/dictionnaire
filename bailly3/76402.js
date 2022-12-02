@@ -1,0 +1,1 @@
+lar[76402]=`<b>παρα·φθάνω</b>, devancer, dépasser à la course, <i>acc</i>.<p>➳ <i>Seul. ao</i>. παρέφθην, PAUS. <i>5, 8, 8</i> ; HLD. <i>4, 7, d’où 3 sg. opt. épq</i>. παραφθαίησι, IL. <i>10, 346 ; part</i>. παραφθάς, IL. <i>22, 197 et part. moy</i>. παραφθάμενος, IL. <i>23, 515</i>.`

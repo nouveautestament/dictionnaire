@@ -1,0 +1,1 @@
+lar[68320]=`<b>νεοχμόω-ῶ</b> (<i>seul. prés. et ao</i>. ἐνεόχμωσα) :<br><b>      1</b> renouveler, ARSTT. <i>Mund. 7, 1</i> ; SEXT. <i>P. 296, 16</i>.<br><b>      2</b> innover, changer l’état des affaires, HDT. <i>4, 201 ; 5, 19</i> ; THC. <i>1, 12</i> ; DH. <i>5, 74</i>.<p><b>Étym</b>. νεοχμός.`

@@ -1,0 +1,1 @@
+lar[287]=`<b>ήεσσα, ῆεν</b> <font color="purple">[ᾰγ]</font> <i>c</i>. ἀγακλεής, APOLLIN.`

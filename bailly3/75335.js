@@ -1,0 +1,1 @@
+lar[75335]=`<b>ου (ὁ)</b> Papæos, <i>n. de Zeus chez les Scythes,</i> HDT. <i>4, 59</i>.`

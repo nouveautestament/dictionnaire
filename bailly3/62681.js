@@ -1,0 +1,1 @@
+lar[62681]=`<b>η, ον</b> <font color="purple">[ᾰκῐ]</font> <i>c</i>. μαλθακός, ANTH. <i>9, 567</i>.`

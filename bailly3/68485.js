@@ -1,0 +1,1 @@
+lar[68485]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> nouvellement né, <i>d’où</i> neuf, IL. <i>2, 43 ; 14, 185</i> ; HH. <i>Ap. 122</i> ; A.RH. <i>1, 775 ; 4, 188</i>.<p><b>Étym</b>. <i>pour</i> *νεηγάτεος, <i>de</i> νέος, γέγαα.`

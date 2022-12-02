@@ -1,0 +1,1 @@
+lar[32385]=`<b>ἐκ·χάσκω</b>, regarder bouche béante <i>ou</i> fixement, SPT. <i>1Esdr. 4, 19</i>.`

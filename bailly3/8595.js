@@ -1,0 +1,1 @@
+lar[8595]=`<b>ἀν·ετυμολόγητος, ος, ον</b> <font color="purple">[ῠ]</font> dont l’étymologie est inconnue, SEXT. <i>M. 1, 245</i>.<p><b>Étym</b>. ἀν-, ἐτυμολογέω.`

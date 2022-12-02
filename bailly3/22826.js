@@ -1,0 +1,1 @@
+lar[22826]=`<b>γυναικόω-ῶ</b> <font color="purple">[ῠ]</font> faire devenir femme, <i>d’où au pass</i>. devenir femme, HPC. <i>1202a ;</i> PHIL. <i>1, 183</i>.<p><b>Étym</b>. γυνή.`

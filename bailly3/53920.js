@@ -1,0 +1,1 @@
+lar[53920]=`<b>ατος (τὸ)</b> recherche de style, LGN <i>30, 1</i>.<p><b>Étym</b>. κατεπιτηδεύω.`

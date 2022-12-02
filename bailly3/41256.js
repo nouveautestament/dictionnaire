@@ -1,0 +1,1 @@
+lar[41256]=`(<i>seul. ao. moy</i>.) <font color="purple">[ᾰ]</font> s’adjoindre <i>ou</i> se choisir pour compagnon, <i>acc</i>. IL. <i>13, 456 (opt. 3 sg</i>. ἑταρίσσαιτο) ; CALL. <i>Dian. 206 (ind. 2 sg. poét</i>. ἑταρίσσαο).<p><b>Étym</b>. ἕταρος ; <i>cf</i>. ἑταιρίζομαι.`

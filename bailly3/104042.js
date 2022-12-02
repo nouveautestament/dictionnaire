@@ -1,0 +1,1 @@
+lar[104042]=`avoir des accès <i>ou</i> des retours périodiques, HPC. <i>Aph. 1251, etc.</i> ; PHIL. <i>1, 459, 83</i>.<p><b>Étym</b>. ὑποτροπίη.`

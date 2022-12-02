@@ -1,0 +1,1 @@
+lar[59793]=`<b>ας (ἡ)</b> <font color="purple">[ᾱδᾰ]</font> Laodameia, <i>f</i>. IL. <i>6, 197</i>.<p>➳ <i>Ion</i>. Λαοδαμείη, NONN. <i>D. 7, 127</i>.<p><b>Étym</b>. <i>cf</i>. Λαοδάμας.`

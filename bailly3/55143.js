@@ -1,0 +1,1 @@
+lar[55143]=`<b>ατος (τὸ) :<br>      1</b> parenté par alliance, par mariage, EUR. <i>Med. 76</i> ; PLAT. <i>Leg. 773b.</i><br><b>      2</b> parent par mariage, SOPH. <i>O.R. 85</i> ; EUR. <i>Or. 477</i>.<p><b>Étym</b>. κηδεύω.`

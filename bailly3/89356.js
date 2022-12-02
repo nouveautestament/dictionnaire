@@ -1,0 +1,1 @@
+lar[89356]=`<b>σαπρο·φαγέω-ῶ</b> <font color="purple">[σᾰφᾰ]</font> manger des aliments gâtés, MART. <i>3, 77, 10</i>.<p><b>Étym</b>. σαπρός, φαγέω.`

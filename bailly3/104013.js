@@ -1,0 +1,1 @@
+lar[104013]=`<b>ὑπο·τραγῳδέω-ῶ</b> <font color="purple">[ᾰ]</font> jouer la tragédie dans les rôles secondaires, comme second de, <i>dat</i>. PHILSTR. <i>V. soph. 1, 18</i>.`

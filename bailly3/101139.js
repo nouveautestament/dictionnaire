@@ -1,0 +1,1 @@
+lar[101139]=`<b>τυροποιέω-ῶ</b> <font color="purple">[ῡ]</font> faire des fromages STR. <i>169, 200</i> ; LGS <i>3, 33</i>.<p><b>Étym</b>. τυροποιός.`

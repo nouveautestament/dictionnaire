@@ -1,0 +1,1 @@
+lar[57377]=`<b>ας (ἡ)</b> = <i>lat</i>. Quadrantia, <i>n. de f. rom</i>. PLUT. <i>Cic. 29</i>.`

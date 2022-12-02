@@ -1,0 +1,1 @@
+lar[46382]=`<b>ῶν (οἱ)</b> habitants de Thapsakos, XÉN. <i>An. 1, 4, 18</i>.<p><b>Étym</b>. <i>v</i>. Θάψακος.`

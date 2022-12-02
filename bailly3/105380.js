@@ -1,0 +1,1 @@
+lar[105380]=`<b>φιαλίτης ἀριθμός (ὁ)</b> <font color="purple">[ᾰῑ]</font> le problème des tasses, <i>n. d’un certain problème d’arithmétique,</i> PROCL. <i>Eucl. 12</i>.<p><b>Étym</b>. φιάλη.`

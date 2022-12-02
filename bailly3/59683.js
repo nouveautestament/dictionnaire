@@ -1,0 +1,1 @@
+lar[59683]=`<b>λαμπαδεύω</b> <font color="purple">[πᾰ]</font> convertir en flambeaux, DS. <i>20, 7</i>.<br><b><i>Moy.</i></b> porter une torche dans une course aux flambeaux, PHIL. <i>1, 478</i>.<p><b>Étym</b>. λαμπάς.`

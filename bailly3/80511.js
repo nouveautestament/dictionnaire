@@ -1,0 +1,1 @@
+lar[80511]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire du dème Pitthée, <i>de la tribu Cécropide,</i> PLAT. <i>Euthyphr. 2b, etc.</i> ; DÉM. <i>21, 62 Baiter-Sauppe, etc.</i> ; ARSTT. <i>Rhet. 2, 23, etc</i>.`

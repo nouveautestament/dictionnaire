@@ -1,0 +1,1 @@
+lar[71639]=`<b>ὁμό·παις, -παιδος (ὁ, ἡ)</b> jumeau (frère <i>ou</i> sœur), POÈT. (HSCH.) ; POLL. <i>3, 23</i>.<p><b>Étym</b>. ὁμ. παῖς.`

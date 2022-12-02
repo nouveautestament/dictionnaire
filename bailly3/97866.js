@@ -1,0 +1,1 @@
+lar[97866]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> l’animal agile, <i>càd</i>. le lièvre, EL. <i>N.A. 7, 47</i>.<p><b>Étym</b>. ταχύς.`

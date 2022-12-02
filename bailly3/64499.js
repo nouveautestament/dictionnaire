@@ -1,0 +1,1 @@
+lar[64499]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> intermédiaire, DS. <i>4, 54</i> ; NT. <i>Gal. 3, 19 ; Hebr. 9, 15</i>.<br><b>      2</b> arbitre, médiateur, qui intercède, POL. <i>28, 15, 8</i> ; SPT. <i>Job 9, 33</i> ; NT. <i>1Tim. 2, 6</i>.<p><b>Étym</b>. μέσος.`

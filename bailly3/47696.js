@@ -1,0 +1,1 @@
+lar[47696]=`<b>θριαμβο·διθύραμβος, ου (ὁ)</b> <font color="purple">[ῐῑῠ]</font> qui inspire les dithyrambes, les chants de triomphe, <i>ép. de Dionysos,</i> PRATIN. (ATH. <i>617f</i>).<p><b>Étym</b>. θρ. διθύραμβος.`

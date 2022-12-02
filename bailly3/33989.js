@@ -1,0 +1,1 @@
+lar[33989]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱγ]</font> sceau imprimé dans, CLÉM. <i>1, 1053 Migne</i>.`

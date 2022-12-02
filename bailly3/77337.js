@@ -1,0 +1,1 @@
+lar[77337]=`<b>ου (ἡ)</b> Patoumos, <i>v. d’Arabie,</i> HDT. <i>2, 158</i>.`

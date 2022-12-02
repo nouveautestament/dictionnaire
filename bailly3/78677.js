@@ -1,0 +1,1 @@
+lar[78677]=`<b>περι·ϊδρόω-ῶ</b>, être inondé de sueur, SEXT. <i>M. 11, 159</i>.`

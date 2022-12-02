@@ -1,0 +1,1 @@
+lar[108531]=`<b>ωνος (ὁ)</b> Khiôn, <i>archonte athénien,</i> DÉM. <i>30, 17 Baiter-Sauppe, etc</i>.`

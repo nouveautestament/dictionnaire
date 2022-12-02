@@ -1,0 +1,1 @@
+lar[96869]=`<b>ῶνος (ὁ)</b> nid de guêpes, guêpier, ARSTT. <i>H.A. 9, 41, 5</i>.<p><b>Étym</b>. σφήξ.`

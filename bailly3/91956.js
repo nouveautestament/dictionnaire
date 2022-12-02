@@ -1,0 +1,1 @@
+lar[91956]=`<i>adv</i>., comme une éponge, EPIC. (STOB. <i>Ecl. 1, p. 532).</i><p><b>Étym</b>. σπογγοειδής.`

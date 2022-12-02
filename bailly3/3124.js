@@ -1,0 +1,1 @@
+lar[3124]=`<b>ἀκανθοφορέω-ῶ</b> <font color="purple">[ᾰκ]</font> produire des épines <i>ou</i> des ronces, NAZ. <i>1, 949 Migne</i>.<p><b>Étym</b>. ἀκανθοφόρος.`

@@ -1,0 +1,1 @@
+lar[75601]=`<b>παρα·θητεύω</b>, être au service de, <i>dat</i>. POÈT. (PLUT. <i>M. 761e</i>).`

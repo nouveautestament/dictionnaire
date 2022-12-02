@@ -1,0 +1,1 @@
+lar[41701]=`<b>εὐ·βλέφαρος, ος, ον</b> <font color="purple">[ᾰ]</font> aux belles paupières, aux beaux yeux, ANTH. <i>14, 122</i>.<p><b>Étym</b>. εὖ, βλέφαρον.`

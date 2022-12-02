@@ -1,0 +1,1 @@
+lar[38917]=`<b>ἐπι·ρρυπαίνω</b> <font color="purple">[ῠ]</font> salir à la surface, PLUT. <i>M. 828a ;</i> DIOSC. <i>Iob. 2</i>.<p><b>Étym</b>. ἐπί, ῥυπαίνω.`

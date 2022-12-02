@@ -1,0 +1,1 @@
+lar[49935]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> force, puissance, SPT. <i>Cant. 3, 5</i> ; PHIL. <i>1, 354</i>.<p><b>Étym</b>. ἰσχύω.`

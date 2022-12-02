@@ -1,0 +1,1 @@
+lar[34465]=`<i>adv</i>., dans un ordre inverse, inversement, NAZ. <i>35, p. 564b</i>.<p><b>Étym</b>. ἐναλλάσσω.`

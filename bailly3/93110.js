@@ -1,0 +1,1 @@
+lar[93110]=`<b>ης, ες</b>, qui a un goût d’alun, HPC. <i>Aër. 286 ; Probl. 24, 18</i> ; TH. <i>C.P. 2, 5, 1</i>.<p><b>Étym</b>. στυπτηρία, -ωδης.`

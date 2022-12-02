@@ -1,0 +1,1 @@
+lar[81570]=`<b>πολιο·κρόταφος, ος, ον</b> <font color="purple">[ᾰ]</font> aux tempes blanchissantes, IL. <i>8, 518</i> ; HÉS. <i>O. 179</i> ; ALEX. (<i>Com. fr. 3, 502) etc</i>.`

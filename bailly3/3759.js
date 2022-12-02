@@ -1,0 +1,1 @@
+lar[3759]=`<b>ἀκροβυστέω-ῶ</b>, n’être pas circoncis, SPT. <i>Lev. 19, 23</i>.<p><b>Étym</b>. ἀκρόβυστος.`

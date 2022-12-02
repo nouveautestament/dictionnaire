@@ -1,0 +1,1 @@
+lar[40632]=`<b>ου (ὁ)</b> Hermokleidès, <i>h</i>. ANTH. <i>11, 159</i>.<p><b>Étym</b>. <i>patr. de</i> Ἑρμοκλῆς.`

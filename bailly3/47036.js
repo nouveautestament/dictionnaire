@@ -1,0 +1,1 @@
+lar[47036]=`<b>θεσπι·έπεια, ας</b>, <i>adj. f</i>. qui annonce des oracles, prophétique, SOPH. <i>O.R. 463</i>.<p><b>Étym</b>. θέσπις, ἔπος.`

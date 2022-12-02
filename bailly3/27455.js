@@ -1,0 +1,1 @@
+lar[27455]=`<b>δολό·μητις</b>, <i>gén</i>. <b>-ιος</b>, <i>acc</i>. <b>-ιν (ὁ, ἡ)</b> <i>c</i>. δολομήτης ; <i>en parl. de pers. (Égisthe,</i> OD. <i>1, 300 ; 3, 198, 250 ; 4, 525 ; Clytemnestre,</i> OD. <i>11, 422) ; en parl. de choses,</i> ESCHL. <i>Pers. 93</i>.<p><b>Étym</b>. δόλος, μῆτις.`

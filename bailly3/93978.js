@@ -1,0 +1,1 @@
+lar[93978]=`<i>anc. att</i>. <b>ξυμμέτρησις, εως (ἡ)</b> action de mesurer par comparaison, EPIC. (DL. <i>10, 130</i>) ; THC. <i>3, 20</i>.<p><b>Étym</b>. συμμετρέω.`

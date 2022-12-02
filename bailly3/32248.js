@@ -1,0 +1,1 @@
+lar[32248]=`<b>ἐκ·τρύχω</b> <font color="purple">[ῡ]</font> <i>(seul. prés.) c</i>. ἐκτρυχόω DC. <i>77, 9</i>.`

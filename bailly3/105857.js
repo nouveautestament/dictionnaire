@@ -1,0 +1,1 @@
+lar[105857]=`<b>Φιλο·κράτης, ους (ὁ)</b> <font color="purple">[ῐᾰ]</font> Philokratès, <i>h</i>. THC. <i>5, 116</i> ; XÉN. <i>Hell. 4, 8, 24</i> ; AR. <i>Av. 1077, etc</i>.<p>➳ <i>Voc</i>. Φιλόκρατες, ANTH. <i>12, 16 ; gén. poét</i>. -εος, ANTH. <i>12, 17 ; acc</i>. -ην, <i>ou</i> -η, AND. <i>1, 46 Baiter-Sauppe</i> ; AR. <i>Av. 1077</i>.<p><b>Étym</b>. φ. κράτος.`

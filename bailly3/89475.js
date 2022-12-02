@@ -1,0 +1,1 @@
+lar[89475]=`<b>ή, όν</b>, qui a la vertu de faire renaître les chairs, DIOSC. <i>1, 180</i> ; GAL. <i>13, 145</i>.<p><b>Étym</b>. σαρκόω.`

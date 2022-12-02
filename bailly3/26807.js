@@ -1,0 +1,1 @@
+lar[26807]=`<b>Διονυσιο·πηγανό·δωρος, ου (ὁ)</b> <font color="purple">[ῐῡῐο]</font> Dionysiopèganodôros, <i>càd</i>. marchand de rue, ANTH. <i>11, 17 ; cf</i>. Διονυσιάς.<p><b>Étym</b>. Διονύσιος, πήγανον, δῶρον.`

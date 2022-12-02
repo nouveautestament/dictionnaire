@@ -1,0 +1,1 @@
+lar[21503]=`<b>γεγωνο·κώμη, ης (ἡ)</b> femme qui remplit le village de cris, COM. ANON. <i>4, 631</i>.<p><b>Étym</b>. γέγωνα, κώμη.`

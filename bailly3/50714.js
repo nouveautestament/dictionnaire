@@ -1,0 +1,1 @@
+lar[50714]=`<b>κακό·δουλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> mauvais esclave, CRAT. (<i>Com. fr. 2, 65, 7</i>) ; LUC. <i>Philopatr. 7</i>.<p><b>Étym</b>. κ. δοῦλος.`

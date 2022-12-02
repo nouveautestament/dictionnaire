@@ -1,0 +1,1 @@
+lar[51990]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à une noix, TH. <i>C.P. 1, 19, 1</i>.<p><b>Étym</b>. κάρυον, -ωδης.`

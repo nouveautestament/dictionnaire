@@ -1,0 +1,1 @@
+lar[53394]=`<b>κατ·ασπάζομαι :<br>      1</b> embrasser affectueusement, PLUT. <i>Cor. 9, etc.</i><br><b>      2</b> <i>p. ext</i>. accueillir affectueusement, HLD. <i>5, 11 ; 7, 7</i>.`

@@ -1,0 +1,1 @@
+lar[5885]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> d’amande, XÉN. <i>An. 4, 4, 13</i>.<p><b>Étym</b>. ἀμυγδάλη.`

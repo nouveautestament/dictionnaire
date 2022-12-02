@@ -1,0 +1,1 @@
+lar[66771]=`<b>ας (ἡ)</b> examen de la forme <i>ou</i> de la figure, JOS. <i>Hypomn. 327</i>.<p><b>Étym</b>. μορφοσκόπος.`

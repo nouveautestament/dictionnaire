@@ -1,0 +1,1 @@
+lar[57170]=`<b>ου (ὁ)</b> Korylas, <i>chef paphlagonien,</i> XÉN. <i>An. 5, 5, 12 et 22, etc</i>.`

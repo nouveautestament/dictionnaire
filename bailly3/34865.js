@@ -1,0 +1,1 @@
+lar[34865]=`<b>ἐν·ορύσσω</b>, fouiller <i>ou</i> creuser dans, PHILSTR. <i>79</i>.`

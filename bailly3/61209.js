@@ -1,0 +1,1 @@
+lar[61209]=`<b>λιν·αγρέτης, ου</b> <font color="purple">[ῐᾰ]</font> <i>adj. m</i>. pris au filet, LYC. <i>237</i>.<p><b>Étym</b>. λίνον, ἄγρα.`

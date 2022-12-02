@@ -1,0 +1,1 @@
+lar[48837]=`<b>(ὁ)</b> sorte de poisson, CALL. (ATH. <i>329a</i>).<p><b>Étym</b>. <i>pré-grec</i>.`

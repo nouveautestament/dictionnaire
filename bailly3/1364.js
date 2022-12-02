@@ -1,0 +1,1 @@
+lar[1364]=`<b>ἀ·διάστατος, ος, ον</b> <font color="purple">[τᾰ]</font><br><b>      1</b> sans intervalle, continu, ANT. (SUID.).<br><b>      2</b> sans dimensions, PLUT. <i>M. 601c, etc</i>.<p><b>Étym</b>. ἀ, διΐστημι.`

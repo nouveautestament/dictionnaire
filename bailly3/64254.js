@@ -1,0 +1,1 @@
+lar[64254]=`<b>ου (ὁ)</b> Memnonios, <i>h</i>. ANTH. <i>7, 552, etc</i>.`

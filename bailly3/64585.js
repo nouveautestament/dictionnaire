@@ -1,0 +1,1 @@
+lar[64585]=`<b>μεσο·φάλακρος, ος, ον</b> <font color="purple">[φᾰ]</font> chauve sur le milieu de la tête, à demi chauve, PROCL. <i>Ptol. p. 203</i>.<p><b>Étym</b>. μ. φαλακρός.`

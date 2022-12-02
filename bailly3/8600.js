@@ -1,0 +1,1 @@
+lar[8600]=`<b>ἀν·ευάζω :<br>      1</b> crier évoé, <i>comme les Bacchantes,</i> DP. <i>579</i> ; ANTH. <i>9, 139</i>.<br><b>      2</b> célébrer avec des cris de joie, <i>acc</i>. LYC. <i>207</i> ; ARR. <i>An. 5, 2, 9</i>.<p>➳ <i>Seul. prés</i>. DP. ANTH. LYC. <i>ll. cc. ; fut</i>. ἀνευάξω, NONN. <i>D. 1, 20 ; ao. inf</i>. ἀνευάσαι, ARR. <i>l. c</i>.<p><b>Étym</b>. ἀνά, εὐοῖ.`

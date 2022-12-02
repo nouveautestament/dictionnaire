@@ -1,0 +1,1 @@
+lar[92268]=`<b>στέγ·αρχος, ου (ὁ)</b> maître de maison, HDT. <i>1, 133</i> ; ANTIPH. (<i>Com. fr. 3, 93).</i><p><b>Étym</b>. στέγη, ἄρχω.`

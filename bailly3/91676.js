@@ -1,0 +1,1 @@
+lar[91676]=`<b>α, ον</b>, de Sophocle, DH. <i>Comp. 9</i> ; PLUT. <i>Artax. 28, etc</i>.<p><b>Étym</b>. Σοφοκλῆς.`

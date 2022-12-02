@@ -1,0 +1,1 @@
+lar[23889]=`<b>(ὁ)</b> Dexidèmidès, <i>titre d’une comédie d’Amphis, v. Mein. (Com. fr. 1, p. 405).</i><p><b>Étym</b>. <i>patr. de</i> *Δεξίδημος, <i>de</i> δέχομαι, δῆμος.`

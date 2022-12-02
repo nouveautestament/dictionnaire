@@ -1,0 +1,1 @@
+lar[17343]=`<b>αὐτ·έκμαγμα, ατος (τὸ)</b> véritable empreinte, véritable image, AR. <i>Th. 514</i>.<p><b>Étym</b>. αὐτός, ἔ.`

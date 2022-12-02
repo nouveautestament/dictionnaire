@@ -1,0 +1,1 @@
+lar[96176]=`<b>συν·ομοιοπαθέω-ῶ</b> <font color="purple">[ᾰ]</font> être affecté de la même manière que, <i>dat</i>. ARSTT. <i>Rhet. 3, 7, 5</i>.`

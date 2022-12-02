@@ -1,0 +1,1 @@
+lar[7432]=`<b>ἀν·αποδήμητος, ος, ον</b>, qui n’a jamais voyagé à l’étranger, PHIL. <i>2, 11</i>.<p><b>Étym</b>. ἀν-, ἀποδημέω.`

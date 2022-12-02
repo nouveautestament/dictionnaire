@@ -1,0 +1,1 @@
+lar[24038]=`<i>adv. forme att. renforcée de</i> δεῦρο, AR. <i>Eccl. 1074, Nub. 323</i> ; AND. <i>21, 8</i> ; PLUT. <i>Cam. 33, etc</i>.`

@@ -1,0 +1,1 @@
+lar[103290]=`<b>ὑπο·ϊάστιος, ος, ον</b>, hypo-ionien, <i>mode de musique,</i> EUCL. <i>Intr. harm. 12</i> ; A. QUINT. <i>p. 23</i>.`

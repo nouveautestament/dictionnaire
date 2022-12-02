@@ -1,0 +1,1 @@
+lar[8970]=`<b>ἀνθρωποπαθέω-ῶ</b> <font color="purple">[πᾰ]</font> avoir des sentiments <i>ou</i> des passions conformes à la nature humaine, PHIL. <i>1, 134 ; 2, 534</i>.`

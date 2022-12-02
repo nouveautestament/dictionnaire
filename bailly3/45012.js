@@ -1,0 +1,1 @@
+lar[45012]=`<b>ας (ἡ)</b> <font color="purple">[ῠπᾰ]</font> vie de jouissance, mollesse, XÉN. <i>Cyr. 7, 5, 74</i> ; ATH. <i>40c, 310a</i>.<p><b>Étym</b>. ἡδυπαθής.`

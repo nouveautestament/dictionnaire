@@ -1,0 +1,1 @@
+lar[76340]=`<b>παρά·τολμος, ος, ον</b>, trop hardi, téméraire, PLUT. <i>Pomp. 32, M. 661b, etc</i>.<p><b>Étym</b>. π. τόλμα.`

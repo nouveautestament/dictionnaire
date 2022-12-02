@@ -1,0 +1,1 @@
+lar[49656]=`<b>ἰσό·κραιρος, ος, ον</b> <font color="purple">[ῑ̆]</font> aux cornes égales, NONN. <i>D. 27, 24</i>.<p><b>Étym</b>. ἴ. κραῖρα.`

@@ -1,0 +1,1 @@
+lar[36682]=`<b>*ἐπ·ανελκύω</b> <font color="darkgreen">(<i>ao. part</i>. ἐπανελκύσαντες)</font> tirer à sec sur le rivage, ARR. <i>An. 2, 19, 6</i>.`

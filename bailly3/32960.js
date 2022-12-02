@@ -1,0 +1,1 @@
+lar[32960]=`<b>ἐλ·λιμνάζω</b> (<i>seul. prés</i>.) être stagnant, former un marais <i>ou</i> un lac, BAS. <i>3, 272a Migne</i>.<p><b>Étym</b>. ἐν, λίμνη.`

@@ -1,0 +1,1 @@
+lar[104472]=`<b>ὕψι</b> <font color="purple">[ῐ]</font> <i>adv</i>., en haut, IL. <i>13, 140</i> ; OD. <i>16, 264</i> ; HH. <i>Ap. 202</i> ; HÉS. <i>O. 202 ; particul</i>. en haute mer, IL. <i>14, 77 ; 16, 374</i>.<p><b>Étym</b>. <i>anc. locat. en</i> *-i, <i>v</i>. ὕψος ; <i>cf</i>. ὑψίων, ὑψίτερος, ὕψιστος.`

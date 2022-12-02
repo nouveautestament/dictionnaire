@@ -1,0 +1,1 @@
+lar[50026]=`<b>Ἰφί·νοος, όου (ὁ)</b> <font color="purple">[ῑῐ]</font> Iphinoos, <i>h</i>. IL. <i>7, 14</i>.<p><b>Étym</b>. ἶφι, νόος.`

@@ -1,0 +1,1 @@
+lar[38850]=`<b>ἐπι·πώλησις, εως (ἡ)</b> action de passer en revue, la revue (<i>décrite au 4<sup>e</sup> chant de l’Iliade</i>) PLUT. <i>M. 29a</i>.<p><b>Étym</b>. ἐπί, πωλέομαι.`

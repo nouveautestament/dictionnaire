@@ -1,0 +1,1 @@
+lar[88475]=`<b>ου (τὸ)</b> petit discours, sentence, ATH. <i>501a</i>.<p><b>Étym</b>. <i>dim. de</i> ῥῆσις.`

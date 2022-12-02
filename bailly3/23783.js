@@ -1,0 +1,1 @@
+lar[23783]=`<b>ου (τὸ) :<br>      1</b> appât, amorce, OPP. <i>H. 2, 431</i>.<br><b>      2</b> lanterne, TIMACH. (ATH. <i>699e</i>).<p><b>Étym</b>. <i>cf</i>. δέλεαρ.`

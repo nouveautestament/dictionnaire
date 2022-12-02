@@ -1,0 +1,1 @@
+lar[25101]=`<b>δι·αναγκάζω</b> <font color="purple">[ᾰν]</font><br><b>      1</b> contraindre, forcer, PLAT. <i>Leg. 836a ; particul</i>. réduire un membre luxé, HPC. <i>863f.</i><br><b>      2</b> ouvrir de force, <i>acc</i>. HPC. <i>364, 17</i>.`

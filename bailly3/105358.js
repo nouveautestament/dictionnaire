@@ -1,0 +1,1 @@
+lar[105358]=`<i>adv</i>., avec un caractère envieux, PLUT. <i>M. 682d</i>.`

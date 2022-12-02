@@ -1,0 +1,1 @@
+lar[44500]=`<b>Ζεφυρῖτις Ἀφροδίτη (ἡ)</b> <font color="purple">[ῠῑῐ]</font> Aphrodite de Zéphyrion (Ζεφύριον) <i>promont. de Cyrénaïque</i>, CALL. <i>Ep. 5</i>.`

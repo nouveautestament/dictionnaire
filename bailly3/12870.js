@@ -1,0 +1,1 @@
+lar[12870]=`<b>ἀπο·ματαΐζω</b> <font color="purple">[μᾰᾰ]</font> <i>euphém. p</i>. ἀποπέρδω, lâcher un vent, HDT. <i>2, 162</i> ; FAVOR. (STOB. <i>Fl. 115, 24).</i><p><b>Étym</b>. ἀπό, μάταιος.`

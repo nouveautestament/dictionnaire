@@ -1,0 +1,1 @@
+lar[68656]=`<b>ου</b>, <i>adj. m</i>. qui jeûne, MATR. (ATH. <i>134f</i>).<p><b>Étym</b>. <i>cf</i>. νῆστις.`

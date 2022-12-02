@@ -1,0 +1,1 @@
+lar[34066]=`<b>ἐν·αύλιος, α, ον</b>, qui est dans la cour ; ἡ ἐναύλιος (<i>s.-e</i>. θύρα <i>ou</i> ὁδός) COM. (PLUT. <i>M. 1098</i>) porte <i>ou</i> couloir qui conduit aux appartements intérieurs ; ἡ ἐναυλίη, HPC. <i>645 fin,</i> col de la matrice.<p><b>Étym</b>. ἔναυλος³.`

@@ -1,0 +1,1 @@
+lar[28935]=`<b>δυσ·τράπεζος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait un repas horrible, EUR. <i>H.f. 385</i>.<p><b>Étym</b>. δ. τράπεζα.`

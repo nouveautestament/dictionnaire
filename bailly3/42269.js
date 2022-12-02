@@ -1,0 +1,1 @@
+lar[42269]=`<b>Εὐθύ·νοος-ους (ὁ)</b> <font color="purple">[ῠ]</font> Euthynoos, <i>h</i>. ISOCR. <i>Or. 21 Baiter-Sauppe</i> ; PLUT. <i>Cons. ad Apoll. 14</i>.<p><b>Étym</b>. εὐ. νόος.`

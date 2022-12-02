@@ -1,0 +1,1 @@
+lar[48406]=`<b>ἰδιο·θηρία, ας (ἡ)</b> <font color="purple">[ῐδ]</font> chasse privée, pour soi-même, PLAT. <i>Soph. 223b</i>.<p><b>Étym</b>. ἴδ. θήρα.`

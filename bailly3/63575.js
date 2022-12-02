@@ -1,0 +1,1 @@
+lar[63575]=`<i>vb. de</i> μετέχω, THC. <i>8, 66</i> ; ANTIPH. (ATH. <i>143a</i>) ; PLAT. <i>Rsp. 424e</i>.`

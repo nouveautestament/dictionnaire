@@ -1,0 +1,1 @@
+lar[4152]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> douloureux, pénible, IL. <i>5, 658</i> ; OD. <i>10, 78 ; avec un inf</i>. ἵπποι ἀ. δαμήμεναι, IL. <i>10, 402,</i> chevaux difficiles à dompter.<p>•<i> Sup</i>. -ότατος, A.RH. <i>4, 11</i>.<p><b>Étym</b>. <i>cf</i>. ἀλγεινός.`

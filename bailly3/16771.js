@@ -1,0 +1,1 @@
+lar[16771]=`<b>ἀ·τευχής, ής, ές</b>, non équipé, non armé, EUR. <i>Andr. 1119</i> ; ANTH. <i>9, 320</i> ; NONN. <i>etc</i>.<p><b>Étym</b>. ἀ, τεῦχος.`

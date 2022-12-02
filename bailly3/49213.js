@@ -1,0 +1,1 @@
+lar[49213]=`<b>ἱππ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui sert au transport des chevaux : ἱππ. πλοῖα, HDT. <i>6, 48</i> ; νέες, HDT. <i>6, 95</i> ; ναῦς, THC. <i>2, 56 ; 4, 42</i> ; τριήρεις, DÉM. <i>44, 20</i> ; DS. <i>11, 3 ; ou simpl</i>. αἱ ἱππαγωγοί, AR. <i>Eq. 599</i> ; DÉM. <i>46, 5,</i> vaisseaux de transport pour les chevaux.<p><b>Étym</b>. ἵ. ἄγω.`

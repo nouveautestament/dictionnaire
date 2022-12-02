@@ -1,0 +1,1 @@
+lar[100474]=`<b>τρισ·μύριοι, αι, α</b> <font color="purple">[ῡ]</font><br><b>      1</b> trente mille, HDT. <i>2, 163 ; 7, 184</i> ; AR. <i>Av. 1179</i> ; XÉN. <i>An. 7, 8, 26</i> ; PLAT. <i>Ax. 369a, Conv. 175e ; collect. au sg</i>. τρισμυρία ἵππος, ESCHL. <i>Pers. 315,</i> 30 000 hommes de cavalerie.<br><b>      2</b> <i>p. ext</i>. en nombre infini, AR.`

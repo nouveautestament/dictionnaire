@@ -1,0 +1,1 @@
+lar[105753]=`<b>Φιλό·δημος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philodèmos, <i>h</i>. ESCHN. <i>F. leg. § 150, 152 Baiter-Sauppe</i> ; ANTH. <i>4, 2, 9, etc</i>.<p>➳ <i>Dor</i>. Φιλόδαμος <font color="purple">[ᾱ]</font> JAMBL. <i>V. Pyth. 267</i>.<p><b>Étym</b>. <i>v</i>. φιλόδημος.`

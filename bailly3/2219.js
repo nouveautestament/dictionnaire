@@ -1,0 +1,1 @@
+lar[2219]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. αἰγιάλειος NIC. <i>Th. 786</i> ; NUMÉN. (ATH. <i>313c</i>).`

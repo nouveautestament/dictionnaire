@@ -1,0 +1,1 @@
+lar[89030]=`<b>Σ, σ, ς, C, с</b> (σίγμα <i>ou</i> σῖγμα) sigma, <i>18<sup>e</sup> lettre de l’alphabet grec. En chiffre</i> σʹ = <i>200</i> ; ͵σ = <i>200 000</i>.`

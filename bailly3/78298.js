@@ -1,0 +1,1 @@
+lar[78298]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. πέραθεν, A.RH. <i>4, 54</i> ; MAN. <i>3, 417, etc</i>.<p><b>Étym</b>. περάτη, -θεν.`

@@ -1,0 +1,1 @@
+lar[4744]=`<b>ἀλληλουχέω-ῶ</b>, être en état de cohésion, PHIL. <i>1, 464 ; 2, 417</i> ; NICOM. <i>Theol. 69</i>.<p><b>Étym</b>. ἀλληλοῦχος.`

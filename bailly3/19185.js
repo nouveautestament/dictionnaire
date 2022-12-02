@@ -1,0 +1,1 @@
+lar[19185]=`<b>βαρυ·παθέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰῠᾰ]</font> être gravement <i>ou</i> péniblement affecté, PLUT. <i>M. 167f</i>.<p><b>Étym</b>. β. πάθος.`

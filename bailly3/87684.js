@@ -1,0 +1,1 @@
+lar[87684]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῠ]</font> couronne, <i>mot lacon</i>. ALCM. <i>16</i> ; CALL. <i>fr. 358</i> ; PAMPHIL. (ATH. <i>678a</i>).<p><b>Étym</b>. <i>cf</i>. φύλλον.`

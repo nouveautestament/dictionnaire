@@ -1,0 +1,1 @@
+lar[25526]=`(<i>part. prés</i>.) sarcler, <i>d’où</i> bouleverser profondément, PLUT. <i>M. 981b</i>.`

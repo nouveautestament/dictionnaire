@@ -1,0 +1,1 @@
+lar[2490]=`<b>ατος (τὸ) :<br>      1</b> étincelle, D. CHR. <i>667, 21 Reiske ; fig</i>. lueur, rayonnement (de bonté, de gloire, <i>etc</i>.) POL. <i>4, 35, 7 ; 20, 5, 4</i> ; PLUT. <i>M. 966b.</i><br><b>      2</b> lueur étincelante, éclat des armes, ONOS.<p><b>Étym</b>. αἰθύσσω.`

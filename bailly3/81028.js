@@ -1,0 +1,1 @@
+lar[81028]=`<b>οῦ (ὁ)</b> approche, ARSTT. <i>Rhet. 2, 5, 2 ; particul</i>. relations sexuelles, ARSTT. <i>H.A. 4, 9, 11</i>.<p>➳ <i>Dor</i>. πλατιασμός <font color="purple">[ᾱτ]</font> DIUS (STOB. <i>409, 2).</i><p><b>Étym</b>. πλησιάζω.`

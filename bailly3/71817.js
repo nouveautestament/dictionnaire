@@ -1,0 +1,1 @@
+lar[71817]=`<b>(ὁ)</b> Omphis, <i>surn. d’Osiris,</i> HERM. (PLUT. <i>Is. et Os. 42</i>).`

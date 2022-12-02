@@ -1,0 +1,1 @@
+lar[8885]=`<b>ας (ἡ)</b> odeur de fleur, CHRYS.<p><b>Étym</b>. ἄνθος, ὀσμή.`

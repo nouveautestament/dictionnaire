@@ -1,0 +1,1 @@
+lar[60565]=`<b>λευκο·θρᾳκία ἄμπελος (ἡ)</b> vigne à raisin blanc de Bithynie, GEOP. <i>5, 17, 4</i>.<p><b>Étym</b>. λ. Θρᾷξ.`

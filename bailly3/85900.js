@@ -1,0 +1,1 @@
+lar[85900]=`<b>προ·σιτεύω</b> <font color="purple">[ῑ]</font> manger auparavant, GEOP. <i>5, 3, 1</i>.`

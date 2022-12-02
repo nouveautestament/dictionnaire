@@ -1,0 +1,1 @@
+lar[32497]=`<i>mauv. prononc. de</i> ἐλαφρός, AR. <i>Th. 1180</i>.`

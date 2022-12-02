@@ -1,0 +1,1 @@
+lar[107198]=`<b>φυξί·μηλα δένδρα (τὰ)</b> <font color="purple">[ῐ]</font> arbres qui échappent aux troupeaux, <i>càd</i>. à la dent des troupeaux, <i>à cause de leur élévation,</i> ESCHL. <i>fr. 377</i> ; PLUT. <i>M. 293a</i>.<p><b>Étym</b>. φεύγω, μῆλον.`

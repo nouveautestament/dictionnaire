@@ -1,0 +1,1 @@
+lar[61417]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰ]</font> prière, supplication, SPT. <i>2Macc. 3, 20 et 10, 16</i>.<p><b>Étym</b>. λιτανεύω.`

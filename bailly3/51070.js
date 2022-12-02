@@ -1,0 +1,1 @@
+lar[51070]=`<b>ου (ἡ)</b> Kallatèbos, <i>v. de Lydie,</i> HDT. <i>7, 31</i>.`

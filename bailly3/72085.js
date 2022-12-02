@@ -1,0 +1,1 @@
+lar[72085]=`<b>Ὀξυ·δράκαι, ῶν (οἱ)</b> les Oxydraques, <i>propr</i>. aux regards perçants, <i>pple de l’Inde entre le Gange et l’Hyphasis,</i> STR. <i>687</i>.<p><b>Étym</b>. ὀ. δέρκομαι.`

@@ -1,0 +1,1 @@
+lar[55951]=`<b>κλεψί·νυμφος, ος, ον</b> <font color="purple">[ῐ]</font> aux amours adultères, LYC. <i>1116</i>.<p><b>Étym</b>. κλέπτω, νύμφη.`

@@ -1,0 +1,1 @@
+lar[15285]=`<b>ας (ἡ)</b> intégrité, <i>particul</i>. bonne santé, ANTH. <i>9, 644</i>.<p><b>Étym</b>. ἀρτεμής.`

@@ -1,0 +1,1 @@
+lar[72613]=`<b>ὀρει·φοίτης, ου</b>, <i>adj. m</i>. qui parcourt les montagnes, PHANOCL. (PLUT. <i>M. 671).</i><p><b>Étym</b>. ὄρος, φοιτάω.`

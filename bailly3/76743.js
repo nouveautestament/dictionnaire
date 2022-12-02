@@ -1,0 +1,1 @@
+lar[76743]=`<b>παρ·εξίημι :<br>      1</b> laisser de côté, DC. <i>40, 2, etc.</i><br><b>      2</b> <i>avec idée de temps,</i> laisser passer, HDT. <i>7, 210</i>.`

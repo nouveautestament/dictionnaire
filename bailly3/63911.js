@@ -1,0 +1,1 @@
+lar[63911]=`<b>μελανό·χρως, ως, ων</b>, <i>gén</i>. <b>ωτος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> de couleur noire <i>ou</i> sombre, EUR. <i>Hec. 1106</i> ; THCR. <i>Idyl. 3, 35</i> ; ARSTT. <i>Physiogn. 3</i> ; τὸ μελανόχρων, TH. <i>Sens. § 78,</i> couleur noire ; <i>fig</i>. sombre, triste, ESCHL. <i>Suppl. 785</i>.<p><b>Étym</b>. μ. χρώς.`

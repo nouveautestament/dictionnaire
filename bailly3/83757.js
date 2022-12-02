@@ -1,0 +1,1 @@
+lar[83757]=`<b>προ·βαπτίζω</b>, baptiser avant, CLÉM. <i>974</i>.`

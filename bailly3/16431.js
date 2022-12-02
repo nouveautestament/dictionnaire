@@ -1,0 +1,1 @@
+lar[16431]=`<b>ἀ·συκοφάντητος, ος, ον</b> <font color="purple">[ῡ]</font> non dénoncé, non calomnié, <i>d’où</i> irréprochable, ESCHN. <i>84, 44</i> ; PLUT. <i>Luc</i>.<p><b>Étym</b>. ἀ, συκοφαντέω.`

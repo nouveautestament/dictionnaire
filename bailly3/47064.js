@@ -1,0 +1,1 @@
+lar[47064]=`<b>ης (ἡ)</b> Thestè :<br><b>      1</b> <i>sœur de Denys de Syracuse,</i> PLUT. <i>Dio. 21</i>.<br><b>      2</b> <i>source en Libye,</i> HDT. <i>4, 159</i> (<i>var</i>. Θέστις).`

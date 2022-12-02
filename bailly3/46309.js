@@ -1,0 +1,1 @@
+lar[46309]=`<b>θάργηλος ἄρτος (ὁ)</b> pain fait des prémices de la récolte, CRATÈS GRAMM. (ATH. <i>114a</i>).<p><b>Étym</b>. <i>cf</i>. θαλύσιος.`

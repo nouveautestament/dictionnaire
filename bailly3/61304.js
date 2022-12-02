@@ -1,0 +1,1 @@
+lar[61304]=`<b>λιπαυγέω-ῶ</b> <font color="purple">[ῐ]</font> être aveugle, BAS.<p><b>Étym</b>. λιπαυγής.`

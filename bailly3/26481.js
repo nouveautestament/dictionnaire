@@ -1,0 +1,1 @@
+lar[26481]=`<b>δικαιο·ποιέω-ῶ</b> <font color="purple">[ῐ]</font> pratiquer la justice, ORIG. <i>2, 1144b Migne</i>.<p><b>Étym</b>. δίκαιος, π.`

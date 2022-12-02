@@ -1,0 +1,1 @@
+lar[63231]=`<b>α, ον</b> <font color="purple">[ᾰᾱ]</font> de Makhaôn, ORPH. <i>Lith. 343</i>.<p><b>Étym</b>. Μαχάων.`

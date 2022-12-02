@@ -1,0 +1,1 @@
+lar[40101]=`<b>ἐπ·ωπή, ῆς (ἡ)</b> lieu d’où l’on peut observer, ESCHL. <i>Suppl. 539</i>.<p><b>Étym</b>. ἐπί, ὤψ.`

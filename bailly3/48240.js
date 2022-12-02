@@ -1,0 +1,1 @@
+lar[48240]=`<b>Ἰ·άνθη, ης (ἡ)</b> Ianthè, <i>Océanide,</i> HH. <i>Cer. 418</i> ; HÉS. <i>Th. 349</i>.<p><b>Étym</b>. <i>pour</i> *Ϝιάνθη, <i>de</i> ἴον, <i>pour</i> *Ϝίον ἄνθος.`

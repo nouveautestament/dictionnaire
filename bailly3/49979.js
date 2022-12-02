@@ -1,0 +1,1 @@
+lar[49979]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font> <i>au</i> <i>• Sup</i>. -ώτατος, <i>c</i>. ἰταμός, ARSTT. <i>Nic. 3, 8, 10</i>.`

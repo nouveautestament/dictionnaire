@@ -1,0 +1,1 @@
+lar[74666]=`<b>οῦ (ὁ)</b> agitation, <i>particul.</i> :<br><b>      1</b> secousse, ALCIPHR. <i>1, 39</i>.<br><b>      2</b> vibration, mouvement (du vent, <i>etc</i>.) DS. <i>3, 51, etc.</i><br><b>      3</b> palpitation, ARSTT. <i>Respir. 20, 2 ; particul</i>. battement du pouls, HPC. <i>Acut. 389</i>.<p><b>Étym</b>. πάλλω.`

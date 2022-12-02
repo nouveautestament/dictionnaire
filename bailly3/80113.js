@@ -1,0 +1,1 @@
+lar[80113]=`<b>οῦ (ὁ)</b> le Pénée (<i>auj</i>. Piniós <i>ou</i> Salambriás) <i>fl. de Thessalie,</i> IL. <i>2, 752, 753, 756</i> ; HH. <i>21, 3</i> ; HÉS. <i>Th. 343</i> ; HDT. <i>7, 20, etc</i>.<p>➳ Πηνεϊός, PD. <i>P. 10, 86</i>.`

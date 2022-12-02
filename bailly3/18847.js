@@ -1,0 +1,1 @@
+lar[18847]=`<b>ης (ἡ) :<br>      1</b> casaque de pâtre <i>ou</i> de paysan en peau de bête (<i>cf. att</i>. σισύρα), HDT. <i>4, 64</i> ; THCR. <i>Idyl. 3, 25 ; 5, 15</i>.<br><b>      2</b> tente de cuir <i>ou</i> de peau, SOPH. <i>fr. 853</i>.<p>➳ <i>Dor</i>. βαίτα, THCR. <i>Idyl. ll. cc</i>.`

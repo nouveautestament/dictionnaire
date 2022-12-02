@@ -1,0 +1,1 @@
+lar[22715]=`<b>γυι·αλκής, ής, ές</b>, aux membres robustes, OPP. <i>H. 2, 277 ; 5, 465</i> ; NONN. <i>D. 10, 384</i>.<p><b>Étym</b>. γ. ἀλκή.`

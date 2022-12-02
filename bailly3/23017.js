@@ -1,0 +1,1 @@
+lar[23017]=`<b>Δαΐ·φαντος, ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> Daïphantos, <i>h</i>. PLUT. <i>M. 194c ;</i> EL. <i>V.H. 12, 3, etc</i>.<p><b>Étym</b>. δαΐς, φαίνω.`

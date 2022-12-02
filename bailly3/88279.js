@@ -1,0 +1,1 @@
+lar[88279]=`<b>      1</b> asperger, NT. <i>Hebr. 9, 13, 19, 21 ; au pass</i>. ATH. <i>521a ;</i> SPT. <i>Lev. 6, 27, etc.</i><br><b>      2</b> <i>p. suite,</i> purifier, SPT. <i>Ps. 51, 7</i> ; NT. <i>Hebr. 10, 22</i>.<p>➳ <i>Pf. pass</i>. ῥεράντισμαι, NT. <i>l. c</i>.<p><b>Étym</b>. ῥαντός.`

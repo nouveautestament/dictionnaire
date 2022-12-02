@@ -1,0 +1,1 @@
+lar[39816]=`<b>ος, ον</b>, digne de pitié, lamentable, ESCHL. <i>Ag. 1221</i>.<p><b>Étym</b>. <i>vb. de</i> ἐποικτίζω.`

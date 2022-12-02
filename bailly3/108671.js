@@ -1,0 +1,1 @@
+lar[108671]=`<b>ων (αἱ)</b> <font color="purple">[ᾰ]</font> les Khœrades (<i>auj</i>. isole Cheradi, San Pietro et San Paolo) îlots près de Tarente, THC. <i>7, 33</i>.<p><b>Étym</b>. χοιράς.`

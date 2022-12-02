@@ -1,0 +1,1 @@
+lar[79651]=`<b>περί·φωρος, ος, ον</b>, pris sur le fait, surpris, découvert, PLUT. <i>M. 49c</i>.`

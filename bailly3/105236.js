@@ -1,0 +1,1 @@
+lar[105236]=`<b>ατος (τὸ)</b> tromperie, duperie, ANT. <i>fr. 25, 14</i> (SCH.-AR. <i>Pax 1165).</i><p><b>Étym</b>. φηλόω.`

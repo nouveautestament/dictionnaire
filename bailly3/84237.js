@@ -1,0 +1,1 @@
+lar[84237]=`<b>προ·επιθεωρέω-ῶ</b>, contempler auparavant, SOCR. <i>Ep. 6, p. 9 Orelli</i>.`

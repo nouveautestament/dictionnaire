@@ -1,0 +1,1 @@
+lar[3440]=`<b>ἄ·κλιτος, ος, ον</b> <font color="purple">[ῐ]</font> indéclinable. D. THR. <i>641, 23</i> ; DYSC. <i>Pron. 273b, etc</i>.<p><b>Étym</b>. ἀ, κλίνω.`

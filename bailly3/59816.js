@@ -1,0 +1,1 @@
+lar[59816]=`<b>λαο·παθής, ής, ές</b> <font color="purple">[ᾱᾰ]</font> qui est une souffrance pour le peuple, ESCHL. <i>Pers. 945</i>.<p><b>Étym</b>. λ. πάθος.`

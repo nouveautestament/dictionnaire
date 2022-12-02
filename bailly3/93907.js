@@ -1,0 +1,1 @@
+lar[93907]=`<b>συμ·μανθάνω :<br>      1</b> s’instruire <i>ou</i> apprendre avec, SOPH. <i>Aj. 869</i>.<br><b>      2</b> <i>p. suite,</i> s’habituer à, XÉN. <i>An. 4, 5, 27</i>.`

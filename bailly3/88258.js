@@ -1,0 +1,1 @@
+lar[88258]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰκ]</font> vêtement déguenillé ; haillon, AR. <i>Ach. 432</i>.<p><b>Étym</b>. ῥακόω.`

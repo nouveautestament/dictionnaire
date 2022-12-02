@@ -1,0 +1,1 @@
+lar[49695]=`<b>ἰσ·όνειρος, ος, ον</b> <font color="purple">[ῑ̆]</font> semblable (<i>propr</i>. égal) à un songe, ESCHL. <i>Pr. 549</i>.<p><b>Étym</b>. ἴ. ὄνειρος.`

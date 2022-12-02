@@ -1,0 +1,1 @@
+lar[63488]=`<i>adv</i>., à Mégare, <i>avec mouv</i>. AR. <i>Ach. 524</i>.<p><b>Étym</b>. Μέγαρα, -δε.`

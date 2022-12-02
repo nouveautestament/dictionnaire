@@ -1,0 +1,1 @@
+lar[1025]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> <i>fém. de</i> ἀγυρτήρ, ESCHL. <i>Ag. 1273</i>.`

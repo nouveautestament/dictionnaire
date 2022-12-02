@@ -1,0 +1,1 @@
+lar[57757]=`<b>ου (τὸ)</b> marché à la viande, ARTÉM. <i>5, 2</i>.<p><b>Étym</b>. <i>cf</i>. κρεωπώλιον.`

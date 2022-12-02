@@ -1,0 +1,1 @@
+lar[21209]=`<b>γαλακτουχέω-ῶ</b> <font color="purple">[γᾰ]</font> avoir du lait, <i>en parl. d’une femme,</i> PLUT. <i>M. 640f</i> (<i>part. fém. gén</i>. γαλακτουχούσης, <i>correct. p</i>. γαλακτούσης).<p><b>Étym</b>. γαλακτοῦχος.`

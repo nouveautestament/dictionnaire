@@ -1,0 +1,1 @@
+lar[95463]=`<b>συν·εμπάσσω</b> <i>ou</i> <b>-πάττω</b>, parsemer <i>ou</i> saupoudrer en même temps de, DIOSC. <i>5, 85</i>.`

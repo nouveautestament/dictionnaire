@@ -1,0 +1,1 @@
+lar[64550]=`<b>μεσοπορέω-ῶ</b>, marcher au milieu <i>d’où</i> tenir la haute mer (<i>en parl. d’un pilote</i>), TH. <i>Char. 25, 2, etc</i>.<p><b>Étym</b>. μεσόπορος.`

@@ -1,0 +1,1 @@
+lar[90261]=`<b>ου</b>, <i>ou</i> <b>σικυός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> concombre, HPC. <i>360, 26 et 27 ; 584, 13 ; 623, 27</i> ; AR. <i>Ach. 520, Pax 1001</i> ; TH. <i>H.P. 1, 13, 4</i> ; ATH. <i>73d et e, 372b</i>.`

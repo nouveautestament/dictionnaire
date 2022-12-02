@@ -1,0 +1,1 @@
+lar[40538]=`<b>ἐρι·ώδυνος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui cause de grandes douleurs, MAX. <i>π. κατ. 161</i>.<p><b>Étym</b>. ἐρι-, ὀδύνη.`

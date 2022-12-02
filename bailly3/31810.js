@@ -1,0 +1,1 @@
+lar[31810]=`<b>ἐκ·περιπορεύομαι</b>, faire complètement le tour de, <i>acc</i>. SPT. <i>Jos. 15, 3</i>.`

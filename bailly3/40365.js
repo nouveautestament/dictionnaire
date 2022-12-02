@@ -1,0 +1,1 @@
+lar[40365]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> du désert : ἐ. ὄνος, SPT. <i>Job 14, 12,</i> âne du désert, âne sauvage.<p><b>Étym</b>. ἔρημος.`

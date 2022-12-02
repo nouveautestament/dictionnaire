@@ -1,0 +1,1 @@
+lar[12057]=`<b>ἄ·πληστος, ος, ον</b>, insatiable de, <i>gén</i>. THGN. <i>109, etc.</i> ; ESCHL. <i>Ag. 102, etc.</i> ; XÉN. <i>Cyr. 8, 2, 20</i> ; PLAT. <i>Leg. 773e, etc</i>.<p>•<i> Cp</i>. -ότερος, SPT. <i>Prov. 23, 2. • Sup</i>. -ότατος, PLAT. <i>Rsp. 442a ;</i> PLUT. <i>Galb. 29, etc</i>.<p><b>Étym</b>. ἀ, πίμπλημι.`

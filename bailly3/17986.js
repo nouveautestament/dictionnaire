@@ -1,0 +1,1 @@
+lar[17986]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qu’il faut congédier <i>ou</i> laisser aller, PLAT. <i>Euthyphr. 15d ; au neutre</i> ἀφετέον, il faut congédier <i>ou</i> laisser de côté, PLAT. <i>Phædr. 260a, etc</i>.<p><b>Étym</b>. <i>vb. de</i> ἀφίημι.`

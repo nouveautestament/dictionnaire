@@ -1,0 +1,1 @@
+lar[43212]=`<b>εὐρό·νοτος, ου (ὁ)</b> vent du sud-sud-est (<i>litt</i>. entre l’Eurus et le Notus) ARSTT. <i>Mund. 4, 14</i>.<p><b>Étym</b>. Εὖρος, νότος.`

@@ -1,0 +1,1 @@
+lar[5126]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> alopécie, <i>maladie qui fait tomber les cheveux comme des poils de renard,</i> SOPH. <i>fr. 369</i> ; GAL. <i>10, 579</i>.<br><b>      2</b> <i>plur</i>. places pelées <i>ou</i> chauves sur la tête, ARSTT. <i>Probl. 10, 27, 2</i>.<p><b>Étym</b>. ἀλώπηξ.`

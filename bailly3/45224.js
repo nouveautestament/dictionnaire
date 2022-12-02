@@ -1,0 +1,1 @@
+lar[45224]=`<b>ἡλιοθερέω-ῶ</b>, se chauffer au soleil, GAL. <i>6, p. 84</i>.<p><b>Étym</b>. ἡλιοθερής.`

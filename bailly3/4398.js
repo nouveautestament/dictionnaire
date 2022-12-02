@@ -1,0 +1,1 @@
+lar[4398]=`<font color="darkgreen">(<i>seul. prés. et impf. 3 sg. épq</i>. ἄλθετο, IL. <i>5, 417</i>)</font> être guéri, se guérir, Q. SM. <i>9, 475</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *h₂el-, croître.`

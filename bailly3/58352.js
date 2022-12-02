@@ -1,0 +1,1 @@
+lar[58352]=`<b>κυανο·πλόκαμος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> aux boucles noires <i>ou</i> d’un bleu sombre, Q. SM. <i>5, 345</i>.<p><b>Étym</b>. κ. πλόκαμος.`

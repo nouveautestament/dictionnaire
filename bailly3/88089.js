@@ -1,0 +1,1 @@
+lar[88089]=`<b>οῦ (ὁ)</b> qui dresse des jeunes chevaux, <i>ou en gén</i>. de jeunes animaux, EL. <i>N.A. 7, 41, etc</i>.<p><b>Étym</b>. πωλεύω.`

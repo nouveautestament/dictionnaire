@@ -1,0 +1,1 @@
+lar[34887]=`<b>ἐνουσιόω-ῶ</b>, donner l’existence, faire exister, HIÉROCL. <i>C. aur. 2, 3</i>.<p><b>Étym</b>. ἐνούσιος.`

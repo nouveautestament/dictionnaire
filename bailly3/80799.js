@@ -1,0 +1,1 @@
+lar[80799]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de Platon ; τὰ Πλατώνεια, PORPH. (EUS. <i>P.E. 10, 3, p. 466</i>) fête en l’honneur de Platon.<p><b>Étym</b>. Πλάτων.`

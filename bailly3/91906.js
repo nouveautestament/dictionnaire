@@ -1,0 +1,1 @@
+lar[91906]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> rocailleux, ARSTT. <i>H.A. 5, 15, 19</i> ; POL. <i>10, 10, 7</i>.<p><b>Étym</b>. σπίλος², -ωδης.`

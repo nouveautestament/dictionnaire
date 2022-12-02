@@ -1,0 +1,1 @@
+lar[85080]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>   I</b> dont on se sert pour adresser la parole à qqn <i>ou</i> pour saluer, JOS. <i>A.J. 15, 6, 3</i>.<br><b>   II</b> <i>subst</i>. τὸ προσαγορευτικόν :<br><b>      1</b> présent de bienvenue, APP. <i>Civ. 3, 44</i>.<br><b>      2</b> vocatif, <i>t. de gr</i>. DL. <i>6, 67</i>.<p><b>Étym</b>. προσαγορεύω.`

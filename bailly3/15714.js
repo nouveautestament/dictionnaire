@@ -1,0 +1,1 @@
+lar[15714]=`<b>ἄ·σακτος, ος, ον</b>, non chargé, <i>d’où</i> vide, flasque, XÉN. <i>Œc. 19, 11</i>.<p><b>Étym</b>. ἀ, σάττω.`

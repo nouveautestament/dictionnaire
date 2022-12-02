@@ -1,0 +1,1 @@
+lar[106413]=`<b>φλογμο·τύραννος, ου (ὁ)</b> <font color="purple">[ῠ]</font> roi de la flamme <i>ou</i> du feu, POÈT. (EUS. <i>P.E. 201).</i><p><b>Étym</b>. φλογμός, τύραννος.`

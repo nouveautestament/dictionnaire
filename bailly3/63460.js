@@ -1,0 +1,1 @@
+lar[63460]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> grandeur d’âme, noblesse, JAMBL. <i>V. Pyth. 103 ; en parl. du style,</i> LGN <i>13, 2 ; 36, 4</i>.<p><b>Étym</b>. μεγαλοφυής.`

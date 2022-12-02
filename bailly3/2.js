@@ -1,0 +1,1 @@
+lar[2]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἡ, <i>fém. de</i> ὁ.`

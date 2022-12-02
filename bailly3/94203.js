@@ -1,0 +1,1 @@
+lar[94203]=`<b>ῆς (ἡ)</b> entrelacement, enchaînement, LUC. <i>H. conscr. 55</i>.<p><b>Étym</b>. περιπλέκω.`

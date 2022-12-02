@@ -1,0 +1,1 @@
+lar[103658]=`<b>ὑπο·πέλιος, ος, ον</b>, un peu noirâtre, presque livide, blafard, HPC. <i>Art. 840 ; Epid. 1, 984</i> ; TH. <i>H.P. 3, 11, 1</i>.`

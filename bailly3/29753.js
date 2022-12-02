@@ -1,0 +1,1 @@
+lar[29753]=`<b>ἐγ·κρέμαμαι</b> (<i>seul. part. prés</i>.) ATTIC. (EUS. <i>3, 1329a Migne</i>) être suspendu à, <i>d’où</i> dépendre de.`

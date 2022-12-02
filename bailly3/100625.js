@@ -1,0 +1,1 @@
+lar[100625]=`<b>τριχο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> semblable à un cheveu <i>ou</i> à des cheveux, HPC. <i>230, 54</i> ; ARSTT. <i>H.A. 9, 37, 2 ; en parl. des veines,</i> GAL. <i>2, 808</i>.<p><b>Étym</b>. θρίξ, εἶδος.`

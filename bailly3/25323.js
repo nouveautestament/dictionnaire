@@ -1,0 +1,1 @@
+lar[25323]=`<b>δια·πολιορκέω-ῶ</b>, assiéger complètement, bloquer, THC. <i>3, 17</i>.`

@@ -1,0 +1,1 @@
+lar[38745]=`<b>ας (ἡ) :<br>      1</b> souffle, TH. <i>Vent. 55</i>.<br><b>      2</b> souffle, inspiration, ESCHL. <i>Suppl. 18, 45, etc.</i> ; PLAT. <i>Leg. 811c, Phædr. 265b ;</i> ARSTT. <i>Eud. 1, 1, 4</i>.<p><b>Étym</b>. ἐπίπνοος.`

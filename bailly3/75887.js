@@ -1,0 +1,1 @@
+lar[75887]=`<i>adv.</i> :<br><b>      1</b> d’une manière imprévue, HPC. <i>Aph. 1245</i> ; DÉM. <i>835, 7</i>.<br><b>      2</b> d’une manière déraisonnable, POL. <i>1, 74, 14, etc</i>.<p>•<i> Sup</i>. -ώτατα, JOS. <i>B.J. 2, 19, 7</i>.`

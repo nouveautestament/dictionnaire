@@ -1,0 +1,1 @@
+lar[11311]=`<b>ἀ·παράδεκτος, ος, ον :<br>      1</b> inadmissible, DYSC. <i>Synt. p. 164, 22</i>.<br><b>      2</b> qui n’admet pas, <i>gén</i>. DYSC. <i>Synt. p. 16, 18 ; 53, 11 ; 59, 18, etc.</i> ; PHIL. <i>1, 311, etc</i>.<p><b>Étym</b>. ἀ, παραδέχομαι.`

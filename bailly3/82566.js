@@ -1,0 +1,1 @@
+lar[82566]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grand nombre de cordes, PLAT. <i>Rsp. 399c ;</i> ATH. <i>352d, etc</i>.<p><b>Étym</b>. πολύχορδος.`

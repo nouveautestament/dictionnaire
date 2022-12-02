@@ -1,0 +1,1 @@
+lar[14781]=`<b>Ἀρί·φρων (ὁ)</b> <font color="purple">[ᾰ]</font> Ariphrôn (<i>litt</i>. très sensé) :<br><b>      1</b> <i>grand-père de Périclès,</i> HDT. <i>6, 131, etc.</i><br><b>      2</b> <i>frère de Périclès,</i> PLAT. <i>Prot. 320a ;</i> PLUT. <i>Alc. 1 et 3</i>.<br><b>      3</b> <i>autres,</i> THC. <i>4, 66, etc</i>.<p><b>Étym</b>. ἀρι-, φρήν.`

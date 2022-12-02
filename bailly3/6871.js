@@ -1,0 +1,1 @@
+lar[6871]=`<i>adv</i>., sans qu’on puisse dire la cause, A. APHR.`

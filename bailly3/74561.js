@@ -1,0 +1,1 @@
+lar[74561]=`<b>παλιν·αυτόμολος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui revient de lui-même au parti qu’il a trahi, XÉN. <i>Hell. 7, 3, 10</i>.`

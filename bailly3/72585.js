@@ -1,0 +1,1 @@
+lar[72585]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui peut marcher dans les montagnes, CLÉM. <i>240</i>.<p><b>Étym</b>. ὀρειβάτης.`

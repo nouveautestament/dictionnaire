@@ -1,0 +1,1 @@
+lar[4116]=`<b>ἀλα·ώψ, ῶπος (ὁ, ἡ)</b> <font color="purple">[ᾰλ]</font> aveugle, SYN. <i>Hymn. 3, 583</i>.<p><b>Étym</b>. ἀλαός, ὤψ ; <i>cf</i>. ἀλαωπός.`

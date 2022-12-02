@@ -1,0 +1,1 @@
+lar[41827]=`<b>εὐ·δάκρυτος, ος, ον</b> <font color="purple">[ῡ]</font> qui fait verser beaucoup de larmes, ESCHL. <i>Ch. 181</i>.<p><b>Étym</b>. εὖ, δακρύω.`

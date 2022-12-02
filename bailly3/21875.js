@@ -1,0 +1,1 @@
+lar[21875]=`<b>γεω·πείνης, ου</b>, <i>adj. m</i>. pauvre en terres, HDT. <i>2, 6 ; 8, 111</i> ; ARSTD. <i>t. 1, 191</i>.<p><b>Étym</b>. γῆ, πένομαι.`

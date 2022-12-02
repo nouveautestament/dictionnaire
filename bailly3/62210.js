@@ -1,0 +1,1 @@
+lar[62210]=`<b>ου (ὁ)</b> <i>c</i>. βαγαῖος, <i>frère de Pharnabaze,</i> PLUT. <i>Alc. 39</i>.`

@@ -1,0 +1,1 @@
+lar[83829]=`<b>προ·βραχύς, έος (ὁ)</b> <i>s.-e</i>. πούς, mètre commençant par une brève (⏑‒‒‒) DIOM. <i>481, 19</i>.`

@@ -1,0 +1,1 @@
+lar[19707]=`<b>βιβλιο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui transcrit des livres, copiste, ANTIPH. (POLL. <i>7, 211).</i><p><b>Étym</b>. βιβλίον, γράφω.`

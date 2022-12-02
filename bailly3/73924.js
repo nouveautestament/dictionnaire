@@ -1,0 +1,1 @@
+lar[73924]=`<b>ης, ες :<br>      1</b> escarpé, montueux, DH. <i>6, 33</i>.<br><b>      2</b> tuberculeux, GAL. <i>2, 386, etc</i>.<p><b>Étym</b>. ὄχθος, -ωδης.`

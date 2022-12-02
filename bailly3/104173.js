@@ -1,0 +1,1 @@
+lar[104173]=`<b>ὑπο·χόνδριος, ος, ον</b>, situé sous les cartilages, ARSTT. <i>Probl. 30, 1, 10</i> ; τὸ ὑποχόνδριον <i>ou</i> τὰ ὑποχόνδρια, HPC. <i>Aph. 1251, etc.</i> ; ARSTT. <i>H.A. 1, 13, 1,</i> les hypocondres, <i>région du corps sous les fausses côtes</i>.<p><b>Étym</b>. ὑ. χόνδρος.`

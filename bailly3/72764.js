@@ -1,0 +1,1 @@
+lar[72764]=`<b>εως (ἡ)</b> accentuation pleine, DYSC. <i>Pron. 44b</i>.<p><b>Étym</b>. <i>v</i>. ὀρθότονος.`

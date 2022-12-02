@@ -1,0 +1,1 @@
+lar[38437]=`<b>ἐπι·μηνίω</b>, être irrité contre : τινί, IL. <i>13, 460</i> ; contre qqn ; τινί τι, APP. <i>Civ. 3, 55,</i> contre qqn au sujet de qqe ch.<p>➳ <i>Impf. 3 sg</i>. ἐπεμήνιε, IL. <i>13, 460 ; opt. ao. 3 sg</i>. ἐπιμηνίσειεν, APP. <i>l. c</i>.`

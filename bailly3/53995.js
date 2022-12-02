@@ -1,0 +1,1 @@
+lar[53995]=`<b>κατ·ευφραίνω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. κατεύφρανεν)</font> transporter de joie, LUC. <i>Am. 1</i>.`

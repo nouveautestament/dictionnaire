@@ -1,0 +1,1 @@
+lar[62067]=`<font color="purple">[ῡῐ]</font> <i>adv.</i> :<br><b>      1</b> à bon marché : λυσιτελέστερον τοῦ δέοντος πρίασθαι, EL. <i>N.A. 10, 50,</i> acheter au-dessous du prix.<br><b>      2</b> avantageusement, utilement, DS. <i>14, 102</i>.<p>•<i> Cp</i>. -έστερον, EL. <i>l. c. ; • Sup</i>. -έστατα, HDN <i>3, 5</i>.<p><b>Étym</b>. λυσιτελής.`

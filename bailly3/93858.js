@@ -1,0 +1,1 @@
+lar[93858]=`<b>εως (ἡ) :<br>      1</b> union, SPT. <i>Ex. 26, 24</i>.<br><b>      2</b> rapprochement, comparaison, DL. <i>9, 87</i> ; SEXT. <i>M. 7, 375, etc.</i><br><b>      3</b> assistance, aide, DL. <i>7, 105</i>.<br><b>      4</b> conjecture, explication, ARR. <i>An. 1, 18, 12</i>.<p><b>Étym</b>. συμβάλλω.`

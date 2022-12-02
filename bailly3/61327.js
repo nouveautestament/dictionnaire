@@ -1,0 +1,1 @@
+lar[61327]=`<b>λιπο·δρανής</b>, <i>mieux que</i> <b>λειπο·δρανής, ής, ές</b> <font color="purple">[ᾰ]</font> sans forces, faible, ARÉT. <i>57, 18</i>.<p><b>Étym</b>. λείπω, δράω.`

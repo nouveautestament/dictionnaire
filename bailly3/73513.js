@@ -1,0 +1,1 @@
+lar[73513]=`<b>ῶνος (ἡ)</b> = <i>lat</i>. Vibo (<i>auj</i>. Vibo Valentia) <i>v. du Bruttium,</i> PLUT. <i>Cic. 32, etc</i>.`

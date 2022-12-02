@@ -1,0 +1,1 @@
+lar[97053]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>att. c</i>. σκινδάλαμος, AR. <i>Nub. 130</i>.`

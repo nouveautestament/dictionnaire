@@ -1,0 +1,1 @@
+lar[52085]=`<b>ωνος</b>, <i>ou</i> <b>Καστλών, ῶνος (ὁ)</b> Kastlôn, <i>v. de Bétique en Espagne,</i> PLUT. <i>Sert. 3</i>.`

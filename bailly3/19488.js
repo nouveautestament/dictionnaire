@@ -1,0 +1,1 @@
+lar[19488]=`<b>ου (ὁ)</b> pois chiche, <i>légume,</i> AR. <i>fr. 595</i>.`

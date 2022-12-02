@@ -1,0 +1,1 @@
+lar[6566]=`<b>ἀνα·βραχεῖν</b>, <i>inf. ao.2 d’où ind. 3 sg</i>. ἀνέβραχε <font color="purple">[ᾰχ]</font><br><b>      1</b> retentir, IL. <i>19, 13</i>.<br><b>      2</b> jaillir avec bruit, A.RH. <i>1, 1147</i>.`

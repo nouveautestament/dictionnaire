@@ -1,0 +1,1 @@
+lar[43112]=`<b>εὐ·προσήγορος, ος, ον</b>, d’abord facile, affable, <i>en parl. de pers</i>. EUR. <i>Hipp. 95 ; en parl. de choses (cœur, esprit, parole, etc</i>.) EUR. <i>Alc. 775, etc.</i> ; ISOCR. <i>6b ;</i> PLUT. <i>M. 120a, etc</i>.<p>•<i> Sup</i>. -ώτατος, JOS. <i>A.J. 19, 1</i>.`

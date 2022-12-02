@@ -1,0 +1,1 @@
+lar[75597]=`<b>παρα·θήγω</b>, aiguiser, HERMIPP. (PLUT. <i>Per. 33) ; fig</i>. exciter, DH. <i>8, 57</i> ; PLUT. <i>M. 1145f</i>.`

@@ -1,0 +1,1 @@
+lar[62391]=`<b>*Μαιονιστί</b>, <i>ion</i>. <b>Μῃονιστί</b>, <i>adv</i>., en langage méonien, HIPPON. <i>fr. 1</i>.`

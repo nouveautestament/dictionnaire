@@ -1,0 +1,1 @@
+lar[101538]=`<b>ὑδρο·δόκος, ος, ον</b>, qui contient <i>ou</i> reçoit l’eau, THEOL. <i>p. 46, 10</i>.<p><b>Étym</b>. ὕδ. δέχομαι.`

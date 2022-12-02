@@ -1,0 +1,1 @@
+lar[97320]=`<i>épq. c</i>. σῴζω.<p>➳ <i>Act. seul. prés</i>. OD. <i>5, 490 ; 9, 430</i> ; A.RH. <i>4, 197, et impf</i>. σώεσκον, IL. <i>8, 363. Pass. seul. prés</i>. A.RH. <i>2, 610 ; 3, 307, et impf</i>. σωόμην, A.RH. <i>2, 1010</i> ; ANTH. <i>9, 53</i>.`

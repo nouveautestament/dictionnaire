@@ -1,0 +1,1 @@
+lar[31105]=`<b>ἐκ·βοηθέω-ῶ :<br>      1</b> partir pour porter secours, HDT. <i>9, 26</i> ; PLUT. <i>M. 773f.</i><br><b>      2</b> faire une sortie, THC. <i>1, 105</i>.`

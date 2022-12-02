@@ -1,0 +1,1 @@
+lar[38236]=`<b>ἐπι·κωθωνίζομαι</b>, boire encore, CRITIAS (POLL. <i>6, 31</i>).`

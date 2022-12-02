@@ -1,0 +1,1 @@
+lar[63515]=`<b>ους (ὁ)</b> Mégaphernès, <i>Perse,</i> XÉN. <i>An. 1, 2, 20</i>.`

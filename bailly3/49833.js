@@ -1,0 +1,1 @@
+lar[49833]=`<b>ἱστιο·ρράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui coud des toiles à voile, <i>fig. càd</i>. arrangeur de ficelles, charlatan, AR. <i>Th. 935</i>.<p><b>Étym</b>. ἱστίον, ῥάπτω.`

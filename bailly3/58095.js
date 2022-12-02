@@ -1,0 +1,1 @@
+lar[58095]=`<b>Κροτο·νίκη, ης (ἡ)</b> <font color="purple">[ῑ]</font> Krotonikè, <i>f</i>. Ps.-PLUT. <i>Fluv. 3, 1</i>.<p><b>Étym</b>. κρότος, νίκη.`

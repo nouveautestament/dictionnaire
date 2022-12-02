@@ -1,0 +1,1 @@
+lar[66994]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> moisissure, pourriture, DIOSC. <i>1, 6</i> ; PLUT. <i>M. 915c ;</i> ARÉT. <i>p. 121, 37</i>.<p><b>Étym</b>. μυδάω.`

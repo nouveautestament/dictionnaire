@@ -1,0 +1,1 @@
+lar[58334]=`<b>κυαν·αυγής, ής, ές</b> <font color="purple">[ᾰ]</font> d’un bleu <i>ou</i> d’un noir sombre et brillant, ORPH. <i>H. 2, 3</i> ; EUR. <i>Alc. 261</i> ; LUC. <i>Dom. 11 ; fig</i>. AR. <i>Av. 1389</i>.<p><b>Étym</b>. κ. αὐγή.`

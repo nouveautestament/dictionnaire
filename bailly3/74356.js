@@ -1,0 +1,1 @@
+lar[74356]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fleur de farine, <i>d’où</i> poussière très menue, AR. <i>Nub. 262</i>.<br><b>      2</b> <i>fig</i>. homme très fin, insaisissable : παιπάλη λέγειν, AR. <i>Nub. 260,</i> être une fine langue.<p><b>Étym</b>. <i>inconnue</i>.`

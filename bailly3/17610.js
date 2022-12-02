@@ -1,0 +1,1 @@
+lar[17610]=`<b>ας (ἡ)</b> droit de se régir par ses propres lois, indépendance, autonomie, <i>en parl. d’un État,</i> THC. <i>3, 46</i> ; XÉN. <i>Hell. 5, 1, 36</i> ; ISOCR. <i>etc</i>.<p><b>Étym</b>. αὐτόνομος.`

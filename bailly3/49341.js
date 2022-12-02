@@ -1,0 +1,1 @@
+lar[49341]=`<b>ος, ον</b>, d’hippocentaure, SEXT. <i>M. 9, 125</i>.<p><b>Étym</b>. ἱπποκένταυρος.`

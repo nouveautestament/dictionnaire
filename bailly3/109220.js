@@ -1,0 +1,1 @@
+lar[109220]=`<b>χρυσό·νημος, ος, ον</b> <font color="purple">[ῡ]</font> tissé d’or, J. DAMASC. <i>2, 883c</i>.<p><b>Étym</b>. χρ. νῆμα.`

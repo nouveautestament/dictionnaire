@@ -1,0 +1,1 @@
+lar[81766]=`<b>πολύ·βοτρυς, υος (ὁ, ἡ)</b> <font color="purple">[λῠ]</font> aux grappes abondantes, HÉS. <i>fr. 76, 2 Göttling</i> ; SIM. <i>fr. 53 (25) Bgk</i> ; THCR. <i>Idyl. 25, 11</i> ; EUR. <i>Bacch. 651</i>.<p><b>Étym</b>. π. βότρυς.`

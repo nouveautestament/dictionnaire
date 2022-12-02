@@ -1,0 +1,1 @@
+lar[50718]=`<b>κακο·ελκής, ής, ές</b> <font color="purple">[ᾰ]</font> atteint d’un ulcère malin <i>ou</i> qui a le caractère d’un ulcère malin, MAN. <i>1, 54</i>.<p><b>Étym</b>. κ. ἕλκος.`

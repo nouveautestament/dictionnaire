@@ -1,0 +1,1 @@
+lar[47353]=`<b>θησαυρο·ποιός, ός, όν</b>, qui amasse un trésor, PLAT. <i>Rsp. 554a</i>.<p><b>Étym</b>. θ. ποιέω.`

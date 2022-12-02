@@ -1,0 +1,1 @@
+lar[50223]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> καδίσκος NICOCH. <i>fr. 2</i>.`

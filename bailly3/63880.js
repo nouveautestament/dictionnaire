@@ -1,0 +1,1 @@
+lar[63880]=`<b>μελανο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> noirâtre, ARSTT. <i>Col. 5, 11</i>.<p><b>Étym</b>. μ. εἶδος.`

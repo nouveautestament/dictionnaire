@@ -1,0 +1,1 @@
+lar[37780]=`<b>ἐπι·θαρρύνω</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐπιθαρσύνω DH. <i>10, 41</i> ; PLUT. <i>Mar. 36</i>.`

@@ -1,0 +1,1 @@
+lar[53948]=`<b>κατ·ερυκάνω</b> (<i>seul. prés. et impf</i>.) <font color="purple">[ῡᾰ]</font> <i>c</i>. κατερύκω IL. <i>24, 218</i> ; ORPH. <i>Arg. 645</i>.`

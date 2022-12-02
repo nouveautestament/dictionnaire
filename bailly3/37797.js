@@ -1,0 +1,1 @@
+lar[37797]=`<b>ου (ὁ)</b> imposteur, LUC. <i>Trag. 171</i> ; SYMM. <i>Ps. 1, 1</i> ; PTOL. <i>Tetr. 165</i>.<p><b>Étym</b>. ἐπιτίθημι.`

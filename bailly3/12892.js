@@ -1,0 +1,1 @@
+lar[12892]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> imitation fidèle, copie exacte, BATON (ATH. <i>639f</i>) ; DS. <i>16, 26</i>.<p><b>Étym</b>. ἀπομιμέομαι.`

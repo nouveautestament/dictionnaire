@@ -1,0 +1,1 @@
+lar[27555]=`<b>δοξομανέω-ῶ</b> <font color="purple">[κᾰ]</font> (<i>seul. prés</i>.) avoir une folle passion pour la gloire, PHIL. <i>1, 550, 673</i>.<p><b>Étym</b>. δοξομανής.`

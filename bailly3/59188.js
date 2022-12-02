@@ -1,0 +1,1 @@
+lar[59188]=`<b>κωμο·γραμματεύς, έως (ὁ)</b> <font color="purple">[μᾰ]</font> préposé au cadastre pour dresser le tableau des villages d’un pays <i>ou</i> des quartiers d’une ville, JOS. <i>A.J. 16, 7, 3</i>.<p><b>Étym</b>. κώμη, γρ.`

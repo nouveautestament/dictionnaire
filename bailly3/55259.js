@@ -1,0 +1,1 @@
+lar[55259]=`<b>ου (τὸ)</b> cérinthe, <i>fleur d’été,</i> TH. <i>H.P. 6, 8, 3</i>.`

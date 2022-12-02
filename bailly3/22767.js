@@ -1,0 +1,1 @@
+lar[22767]=`<b>γυμνο·δερκέομαι-οῦμαι</b> (<i>seul. prés</i>.) se faire voir nu, LUC. <i>Cyn. 1</i>.<p><b>Étym</b>. γυμνός, δέρκομαι.`

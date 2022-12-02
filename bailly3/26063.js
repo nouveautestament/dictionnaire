@@ -1,0 +1,1 @@
+lar[26063]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑ]</font> Didon, <i>fondatrice et reine de Carthage,</i> STR. <i>832</i> ; A. PL. <i>4, 151</i>.`

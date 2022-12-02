@@ -1,0 +1,1 @@
+lar[93190]=`<b>συγ·γέρων, οντος (ὁ)</b> compagnon de vieillesse, BABR. <i>22, 7</i>.`

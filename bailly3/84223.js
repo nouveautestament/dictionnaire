@@ -1,0 +1,1 @@
+lar[84223]=`<b>προ·επαινέω-ῶ</b>, louer auparavant, THC. <i>3, 38</i>.`

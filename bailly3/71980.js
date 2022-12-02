@@ -1,0 +1,1 @@
+lar[71980]=`<b>ου (τὸ)</b> petit mot, LGN <i>43, 2</i> ; ARR. <i>Epict. 2, 23, 14</i>.<p><b>Étym</b>. <i>dim. de</i> ὄνομα.`

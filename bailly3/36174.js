@@ -1,0 +1,1 @@
+lar[36174]=`<b>ἐξ·οργιάζω</b>, mettre hors de soi et jeter dans le délire, ARSTT. <i>Pol. 8, 7, 4</i>.`

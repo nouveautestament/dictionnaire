@@ -1,0 +1,1 @@
+lar[52885]=`<font color="purple">[μᾰ]</font> anathématiser, NT. <i>Matth. 26, 74</i>.`

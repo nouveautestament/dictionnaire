@@ -1,0 +1,1 @@
+lar[48614]=`<b>ας (ἡ)</b> soin des choses saintes, fonction sacrée, JOS. <i>A.J. 14, 10, 23</i> ; CLÉM. <i>Str. 4, 22, § 143</i>.<p><b>Étym</b>. ἱεροποιός.`

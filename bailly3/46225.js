@@ -1,0 +1,1 @@
+lar[46225]=`<b>θαλλοφορέω-ῶ</b>, porter un rameau d’olivier, <i>aux Panathénées,</i> CRAT. (<i>Com. fr. 2, 33</i>) ; PHÉRÉCR. (<i>Com. fr. 2, 276</i>) ; DICÉARQ. (SCH.-AR. <i>Vesp. 540).</i><p><b>Étym</b>. θαλλοφόρος.`

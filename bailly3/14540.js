@@ -1,0 +1,1 @@
+lar[14540]=`<b>ἀρθρ·έμβολος, ος, ον</b>, qui comprime les articulations ; τὰ ἀ. JOS. <i>Macc. 8, 13 etc.,</i> instruments de torture pour comprimer les articulations.<p><b>Étym</b>. ἄρθρον, ἐμβάλλω.`

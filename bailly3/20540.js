@@ -1,0 +1,1 @@
+lar[20540]=`<i>gén. ion</i>. <b>εω (ὁ)</b> Boutakidès, <i>Crotoniate,</i> HDT. <i>5, 47</i>.`

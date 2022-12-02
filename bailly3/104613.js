@@ -1,0 +1,1 @@
+lar[104613]=`<b>ης (ἡ)</b> Phaéthousa, <i>litt</i>. « la brillante » <i>fille d’Hèlios,</i> OD. <i>12, 132</i>.<p><b>Étym</b>. <i>fém. de</i> φαέθων.`

@@ -1,0 +1,1 @@
+lar[51855]=`<font color="purple">[πᾰ]</font> rapidement, promptement, IL. <i>1, 359</i> ; A.RH. <i>3, 450</i>.`

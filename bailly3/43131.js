@@ -1,0 +1,1 @@
+lar[43131]=`<b>εὐ·προχώρητος, ος, ον</b>, qui s’avance facilement, PTOL. <i>Tetr. 157</i>.<p><b>Étym</b>. εὖ, προχωρέω.`

@@ -1,0 +1,1 @@
+lar[15438]=`<b>(ὁ)</b> Artokhmès, <i>Perse,</i> HDT. <i>7, 3</i>.`

@@ -1,0 +1,1 @@
+lar[38623]=`<b>ἐπι·παρανέω</b>, entasser encore par-dessus, THC. <i>2, 77</i>.`

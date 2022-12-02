@@ -1,0 +1,1 @@
+lar[72864]=`<font color="purple">[ᾰ]</font> <i>v</i>. ὁρμάω, EUR. <i>Med. 189, Andr. 859</i>.`

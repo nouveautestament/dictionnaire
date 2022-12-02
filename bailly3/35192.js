@@ -1,0 +1,1 @@
+lar[35192]=`<b>ης, ες</b>, semblable à un rêve, STR. <i>713</i> ; PLUT. <i>M. 1024b ;</i> ARTÉM. <i>1, 6</i>.<p><b>Étym</b>. ἐνύπνιον, -ωδης.`

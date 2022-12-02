@@ -1,0 +1,1 @@
+lar[61690]=`<b>ου (τὸ)</b> <font color="purple">[ῑδ]</font> petite baignoire, HÉRON <i>190b</i>, d ; <i>191a, etc</i>.<p><b>Étym</b>. λουτήριον.`

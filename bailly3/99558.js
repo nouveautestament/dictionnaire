@@ -1,0 +1,1 @@
+lar[99558]=`<b>ου (ὁ) :<br>      1</b> morceau coupé, partie, part, portion, BATR. <i>37</i> ; AR. <i>Eq. 1179, 1190</i> ; TH. <i>Char. 12</i> ; ALEX. <i>et</i> SOPATR. (ATH. <i>95a, 101b</i>) ; PHÉRÉCR. (POLL. <i>6, 58, 60), etc.</i><br><b>      2</b> <i>particul</i>. morceau de papyrus <i>ou</i> de parchemin, <i>d’où</i> tome, volume, DL. <i>6, 15</i>.<p><b>Étym</b>. τέμνω.`

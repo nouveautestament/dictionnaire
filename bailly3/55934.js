@@ -1,0 +1,1 @@
+lar[55934]=`<b>η, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> infâme voleur, AR. <i>Pl. 26</i>.<br><b>      2</b> très habile à voler, très expert au vol, ARSTT. <i>Physiogn. 2, 15</i>.<p><b>Étym</b>. <i>sup. formé de</i> κλέπτης.`

@@ -1,0 +1,1 @@
+lar[58854]=`<b>η, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> le plus impudent (<i>litt</i>. le plus chien) IL. <i>10, 503</i> ; A.RH. <i>3, 192</i>.<br><b>      2</b> <i>p. suite,</i> le pire, HH. <i>Cer. 307, d’où</i> le plus terrible, EUR. <i>Suppl. 807</i>.<p><b>Étym</b>. <i>sup. de</i> κυν- <i>radic. de</i> κύων ; <i>cf</i>. κύντερος.`

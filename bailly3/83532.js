@@ -1,0 +1,1 @@
+lar[83532]=`<b>προ·αμαρτάνω</b> <font color="darkgreen">(<i>ao.2</i> -ήμαρτον, <i>etc</i>.)</font> <font color="purple">[ᾰμ]</font> pécher auparavant, NT. <i>2Cor. 12, 21 ; 13, 2</i> ; τὰ προημαρτημένα, HDN <i>3, 14,</i> les fautes antérieures.`

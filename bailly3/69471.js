@@ -1,0 +1,1 @@
+lar[69471]=`<b>Ξενο·κλῆς</b>, <i>par contr. p</i>. <b>Ξενοκλέης, έους (ὁ)</b> Xénoklès :<br><b>      1</b> <i>mauvais poète tragique,</i> AR. <i>Th. 169, 441 ; Ran. 86, etc.</i><br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 3, 4, 20</i> ; THCR. <i>Epigr. 10, 2</i>.<p>➳ <i>Poét</i>. Ξενοκλέης, AR. <i>Ran. 86</i>.<p><b>Étym</b>. ξένος, κλέος.`

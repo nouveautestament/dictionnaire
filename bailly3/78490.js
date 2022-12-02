@@ -1,0 +1,1 @@
+lar[78490]=`<b>περί·γλισχρος, ος, ον</b>, tout à fait visqueux, HPC. <i>Aph. 1251</i>.`

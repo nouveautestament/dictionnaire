@@ -1,0 +1,1 @@
+lar[57060]=`<i>ou</i> <b>κορίανδρον, ου (τὸ)</b> coriandre, <i>plante et graine,</i> ANAXANDR. (<i>Com. fr. 3, 193, etc.) ; au plur</i>. ANACR. <i>138</i> ; AR. <i>Eq. 676, 682</i>.<p><b>Étym.</b> <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[109134]=`<b>χρυσ·ηλάκατος, ος, ον</b> <font color="purple">[ῡᾰᾰ]</font> à la quenouille d’or, aux flèches d’or, <i>ép. d’Artémis,</i> IL. <i>20, 70, etc.</i> ; SOPH. <i>Tr. 637 ; de Lèto, d’Amphitrite, des Néréides,</i> PD. <i>O. 6 fin ; N. 5, 65 ; 6, 62</i>.<p>➳ <i>Dor</i>. χρυσαλάκατος <font color="purple">[ᾱλ]</font> PD. <i>ll. cc</i>.<p><b>Étym</b>. χρ. ἠλακάτη.`

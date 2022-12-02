@@ -1,0 +1,1 @@
+lar[11672]=`<b>ῶν (αἱ)</b> assemblées du peuple, <i>à Sparte</i>, HSCH.`

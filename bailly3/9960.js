@@ -1,0 +1,1 @@
+lar[9960]=`<b>ἀντι·κηδεύω</b>, honorer à l’égal de, <i>gén</i>. EUR. <i>Ion 734</i>.`

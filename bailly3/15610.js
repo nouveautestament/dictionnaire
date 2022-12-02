@@ -1,0 +1,1 @@
+lar[15610]=`<b>ἀρχιθεωρέω-ῶ</b> <font color="purple">[ῐ]</font> être chef des théores, DÉM. <i>552, 4</i>.<p><b>Étym</b>. ἀρχιθέωρος.`

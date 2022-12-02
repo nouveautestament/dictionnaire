@@ -1,0 +1,1 @@
+lar[34325]=`<b>ἐν·εμέω-ῶ</b> <font color="darkgreen">(<i>f</i>. ἐνεμέσω, <i>ao</i>. ἐνήμεσα)</font> vomir dans, <i>avec</i> ἐς <i>et l’acc</i>. HDT. <i>2, 172 ; avec le dat</i>. ANTH. <i>7, 377</i>.`

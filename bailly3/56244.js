@@ -1,0 +1,1 @@
+lar[56244]=`<b>η, ον</b>, de carthame, DIOSC. <i>1, 44</i>.<p><b>Étym</b>. κνῆκος.`

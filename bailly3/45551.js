@@ -1,0 +1,1 @@
+lar[45551]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> moitié, SPT. <i>Num. 31, 36 et 42</i> ; THEOL. <i>p. 39</i>.<p><b>Étym</b>. ἡμισεύω.`

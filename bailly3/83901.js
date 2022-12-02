@@ -1,0 +1,1 @@
+lar[83901]=`<b>προ·διαβαίνω</b>, franchir auparavant <i>ou</i> le premier, <i>acc</i>. XÉN. <i>Eq. 8, 3</i> ; PLUT. <i>M. 968e ; abs</i>. DC. <i>41, 47</i>.`

@@ -1,0 +1,1 @@
+lar[62142]=`<b>Λυχνό·πολις, εως (ἡ)</b> la Ville des lampes <i>ou</i> des lanternes, LUC. <i>V.H. 1, 29</i>.<p><b>Étym</b>. λ. πόλις.`

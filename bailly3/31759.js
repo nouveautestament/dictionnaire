@@ -1,0 +1,1 @@
+lar[31759]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> passion trop vive, LGN <i>38, 3</i>.<p><b>Étym</b>. ἐκπαθής.`

@@ -1,0 +1,1 @@
+lar[109713]=`<b>ψευδο·παιδεία, ας (ἡ)</b> fausse instruction, CÉB. <i>Tab. 11</i>.`

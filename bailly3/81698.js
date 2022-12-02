@@ -1,0 +1,1 @@
+lar[81698]=`<b>πολυ·αλφής, ής, ές</b>, qui coûte un grand prix, NONN. <i>D. 37, 715</i>.<p><b>Étym</b>. π. ἀλφή.`

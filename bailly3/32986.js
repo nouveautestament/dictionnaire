@@ -1,0 +1,1 @@
+lar[32986]=`<b>ή, όν</b>, muet, <i>ou p.-ê</i>. agile, <i>en parl. des poissons,</i> SOPH. <i>Aj. 1297</i> ; POÈT. (ATH. <i>277d</i>).`

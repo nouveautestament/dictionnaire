@@ -1,0 +1,1 @@
+lar[95135]=`<b>συν·διαπλέκω</b>, enlacer ensemble, entrelacer, JAMBL. (STOB. <i>Ecl. 1, 864</i>).`

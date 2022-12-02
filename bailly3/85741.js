@@ -1,0 +1,1 @@
+lar[85741]=`<b>προσ·επιτιμάω-ῶ</b> <font color="purple">[τῑ]</font><br><b>      1</b> faire en outre des reproches <i>ou</i> faire de nouveaux reproches à, <i>dat</i>. SPT. <i>Sir. 13, 27</i> ; DC. <i>58, 49</i>.<br><b>      2</b> élever le prix, EL. (SUID. <i>v°</i> βύβλον).`

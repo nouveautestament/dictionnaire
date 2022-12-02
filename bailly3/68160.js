@@ -1,0 +1,1 @@
+lar[68160]=`<b>νεο·κάττυτος, ος, ον</b> <font color="purple">[ῡ]</font> nouvellement ressemelé, STRATT. (ATH. <i>622a</i>).<p><b>Étym</b>. ν. καττύω.`

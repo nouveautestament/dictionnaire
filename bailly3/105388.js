@@ -1,0 +1,1 @@
+lar[105388]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾰ]</font> Phibalis, <i>contrée de Mégaride,</i> AR. <i>Ach. 803</i>.<p><b>Étym</b>. <i>v</i>. φιβάλεως, φίβαλις.`

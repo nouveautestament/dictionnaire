@@ -1,0 +1,1 @@
+lar[70629]=`<i>adv</i>., d’un seul côté, d’une seule part, ARAT. <i>55</i> ; A.RH. <i>2, 28</i> ; οἰόθεν οἶος, IL. <i>7, 39, 226,</i> tout à fait seul.<p><b>Étym</b>. οἶος, -θεν.`

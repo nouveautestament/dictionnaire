@@ -1,0 +1,1 @@
+lar[67222]=`<b>μυρί·ανδρος, ος, ον</b> <font color="purple">[ῡ]</font> qui contient <i>ou</i> peut contenir dix mille hommes, PLAT. <i>Ep. 337c ;</i> ISOCR. <i>286e ;</i> ARSTT. <i>Pol. 2, 8, 2</i>.<p><b>Étym</b>. μυρίοι, ἀνήρ.`

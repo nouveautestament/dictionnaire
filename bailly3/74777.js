@@ -1,0 +1,1 @@
+lar[74777]=`<b>πάμ·φιλος, ος, ον</b> <font color="purple">[ῐ]</font> cher à tous, ESCHL. <i>Eum. 536</i>.<p><b>Étym</b>. πᾶς, φίλος.`

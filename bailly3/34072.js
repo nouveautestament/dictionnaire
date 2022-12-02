@@ -1,0 +1,1 @@
+lar[34072]=`<b>ἔν·αυλος, ος, ον :<br>      1</b> qui habite dans une caverne, EUR. <i>Ph. 1573</i>.<br><b>      2</b> qui est dans la grotte, <i>p. opp. à</i> θυραῖος, SOPH. <i>Ph. 158</i>.<p><b>Étym</b>. ἐν, αὐλή.`

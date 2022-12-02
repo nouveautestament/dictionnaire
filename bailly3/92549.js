@@ -1,0 +1,1 @@
+lar[92549]=`<b>ος, ον</b>, qui ressemble à la chaîne d’une étoffe, TH. <i>H.P. 3, 18, 11</i>.<p><b>Étym</b>. στήμων.`

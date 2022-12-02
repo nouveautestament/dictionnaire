@@ -1,0 +1,1 @@
+lar[98797]=`<i>ou</i> <b>Τευμησσός, οῦ</b>: Teumèsos <i>ou</i> Teumèssos, <i>mt. et v. de Béotie,</i> EUR. <i>Ph. 1100</i>.`

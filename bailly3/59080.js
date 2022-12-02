@@ -1,0 +1,1 @@
+lar[59080]=`<b>(τὸ)</b> <font color="purple">[ᾰ]</font> toison, peau de brebis servant de couche, de tapis <i>ou</i> de couverture, IL. <i>9, 661</i> ; OD. <i>3, 38, etc.</i> ; τὸ χρύσειον κ. THCR. <i>Idyl. 13, 16 ; ou abs</i>. HDT. <i>7, 193,</i> la toison d’or.<p>➳ <i>Forme contr</i>. κῶς, NICOCH. <i>fr. 13</i>.<p><b>Étym</b>. <i>Orig. inconnue, p.-ê. pré-grec</i>.`

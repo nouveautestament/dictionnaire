@@ -1,0 +1,1 @@
+lar[53293]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font><br><b>      1</b> bonne direction, PLUT. <i>Alex. 7</i>.<br><b>      2</b> confirmation, NT. <i>2Cor. 13, 9</i>.<p><b>Étym</b>. καταρτίζω.`

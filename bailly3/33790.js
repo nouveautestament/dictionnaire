@@ -1,0 +1,1 @@
+lar[33790]=`<b>ἐν·αγωνίζομαι</b> <font color="purple">[ᾰ]</font><br><b>      1</b> combattre dans <i>ou</i> parmi, <i>dat</i>. HDT. <i>2, 160 ; 3, 83 ; abs</i>. γῆν εὐμενῆ ἐναγωνίζεσθαι τοῖς Ἕλλησιν, THC. <i>2, 74,</i> terre favorable aux Grecs pour y combattre.<br><b>      2</b> combattre avec, <i>dat</i>. POL. <i>1, 4, 5</i>.`

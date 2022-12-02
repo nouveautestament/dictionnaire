@@ -1,0 +1,1 @@
+lar[65424]=`<b>μηλόω-ῶ</b>, explorer avec la sonde, sonder, HPC. <i>448, 39, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. RUF. <i>p. 119 Matthäi</i>.<p><b>Étym</b>. μήλη.`

@@ -1,0 +1,1 @@
+lar[16868]=`<b>ης, ες</b>, vaporeux, ARSTT. <i>Mund. 4, 2</i> ; TH. <i>C.P. 3, 16, 4</i>.<p><b>Étym</b>. ἀτμός, -ωδης.`

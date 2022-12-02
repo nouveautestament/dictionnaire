@@ -1,0 +1,1 @@
+lar[61107]=`<b>εως (ἡ)</b> action de vanner, NAZ. <i>1, 386</i>.<p><b>Étym</b>. λικμάω.`

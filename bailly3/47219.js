@@ -1,0 +1,1 @@
+lar[47219]=`<b>οῦς (ἡ)</b> <i>litt</i>. nourrice = <i>lat</i>. Rumina, PLUT. <i>M. 278c</i>.<p><b>Étym</b>. θηλή.`

@@ -1,0 +1,1 @@
+lar[6195]=`<b>ἀμφί·κολλος, ος, ον</b>, plaqué tout autour, PLAT. COM. <i>2-2, 628 Mein</i>.<p><b>Étym</b>. ἀ. κόλλα.`

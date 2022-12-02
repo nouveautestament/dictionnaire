@@ -1,0 +1,1 @@
+lar[56125]=`<b>(ἡ)</b> Clusia, <i>f</i>. PLUT. <i>Parall. min. 13</i>.`

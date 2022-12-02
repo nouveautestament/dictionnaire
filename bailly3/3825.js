@@ -1,0 +1,1 @@
+lar[3825]=`<b>ἀκρο·πόρος, ος, ον</b>, qui perce avec la pointe, à la pointe aiguë, OD. <i>3, 463</i>.<p><b>Étym</b>. ἄ. πείρω.`

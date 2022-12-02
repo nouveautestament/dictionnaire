@@ -1,0 +1,1 @@
+lar[73388]=`<b>ου (ὁ)</b> bruit retentissant, <i>en parl. d’un combat,</i> HÉS. <i>Th. 709 ; de chariots,</i> ESCHL. <i>Sept. 204, etc. ; du tonnerre,</i> SOPH. <i>O.C. 1479, etc. ; de la flûte,</i> SOPH. <i>Aj. 1202, etc</i>.`

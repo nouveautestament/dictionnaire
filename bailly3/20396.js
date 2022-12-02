@@ -1,0 +1,1 @@
+lar[20396]=`<b>βου·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> à tête de bœuf (cheval), <i>en parl. d’une race renommée de chevaux thessaliens,</i> AR. <i>fr. 135</i>.<br><b>      2</b> <i>autre n. de la plante</i> τρίβολος ἔνυδρος, DIOSC. <i>4, 15</i>.<p><b>Étym</b>. βοῦς, κεφαλή.`

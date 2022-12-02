@@ -1,0 +1,1 @@
+lar[23368]=`<b>ου (τὸ)</b> temple d’Apollon porteur de laurier, TH. (ATH. <i>424f</i>).<p><b>Étym</b>. δαφνηφόρος.`

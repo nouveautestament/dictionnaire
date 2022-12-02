@@ -1,0 +1,1 @@
+lar[60230]=`<b>εως (ἡ)</b> action de réduire en poudre, PLUT. <i>M. 129d ;</i> GAL. <i>2, 243</i>.<p><b>Étym</b>. λειόω.`

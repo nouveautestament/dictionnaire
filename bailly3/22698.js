@@ -1,0 +1,1 @@
+lar[22698]=`<b>η, ον :<br>   I</b> <i>adj</i>. rongé, creusé, LYC. <i>631</i> ; NIC. <i>Al. 77 ; d’où</i> caverneux, LYC. <i>1280</i>.<br><b>   II</b> <i>subst</i>. ἡ γρώνη :<br><b>      1</b> caverne, grotte, NIC. <i>Th. 794</i> ; EM. <i>241, 52</i>.<br><b>      2</b> huche à pétrir, pétrin, ANTH. <i>7, 736</i>.<p><b>Étym</b>. γράω.`

@@ -1,0 +1,1 @@
+lar[85799]=`<b>ή, όν</b>, qui concerne la prière, propre à la prière, MÉN. RHÉT. <i>9, 154 W</i>.<p><b>Étym</b>. προσεύχομαι.`

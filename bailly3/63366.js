@@ -1,0 +1,1 @@
+lar[63366]=`<b>μεγάλ·οιτος, ος, ον</b> <font color="purple">[ᾰ]</font> très malheureux, infortuné, THCR. <i>Idyl. 2, 72</i>.<p><b>Étym</b>. μ. οἶτος.`

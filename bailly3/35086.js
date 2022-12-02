@@ -1,0 +1,1 @@
+lar[35086]=`<font color="purple">[ῑ]</font> <i>adv</i>., avec honneur, honorablement : ἐ. ἔχειν, XÉN. <i>An. 2, 1, 7,</i> être en honneur ; ἐ. ἔχειν <i>ou</i> ἄγειν τινά, PLAT. <i>Rsp. 528b</i>, c, honorer qqn.<p>•<i> Sup</i>. -ότατα, DC. <i>63, 17</i>.<p><b>Étym</b>. ἔντιμος.`

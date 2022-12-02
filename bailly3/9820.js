@@ -1,0 +1,1 @@
+lar[9820]=`<b>ἀντι·δέομαι</b>, demander à son tour : τινός τι, PLAT. <i>Lach. 186d</i>, qqe ch. à qqn.`

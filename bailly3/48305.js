@@ -1,0 +1,1 @@
+lar[48305]=`<b>ῆς (ἡ)</b> <font color="purple">[ῑᾱᾰ]</font> <i>s.-e</i>. τέχνη, traitement par des frictions <i>ou</i> des onctions, PLIN. <i>H.N. 29, 3</i>.<p><b>Étym</b>. <i>v</i>. ἰατραλείπτης.`

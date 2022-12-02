@@ -1,0 +1,1 @@
+lar[62132]=`<b>ίτιδος</b> <font color="purple">[ῑτῐδ]</font> <i>adj. f.</i> : φλομίς, DIOSC. <i>4, 104,</i> plante dont les feuilles séchées servent de mèches.<p><b>Étym</b>. λύχνος.`

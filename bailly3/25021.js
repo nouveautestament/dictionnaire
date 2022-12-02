@@ -1,0 +1,1 @@
+lar[25021]=`<b>δια·μειρακιεύομαι</b> <font color="purple">[ρᾰ]</font> (<i>seul. part. prés</i>.) se conduire en jeune homme, <i>càd</i>. avec emportement <i>ou</i> inconvenance : τινι, PLUT. <i>Dem. c. Cic. 2</i>, avec qqn.`

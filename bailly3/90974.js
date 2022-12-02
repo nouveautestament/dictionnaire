@@ -1,0 +1,1 @@
+lar[90974]=`<b>ά, όν</b>, dur, endurci, <i>fig</i>. LGS <i>2, 14</i>.`

@@ -1,0 +1,1 @@
+lar[10366]=`il faut contredire, <i>avec</i> πρός <i>et l’acc</i>. PLAT. <i>Pol. 297b</i>.`

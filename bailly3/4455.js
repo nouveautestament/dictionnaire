@@ -1,0 +1,1 @@
+lar[4455]=`<b>ἁλί·ζωος, ος, ον</b> <font color="purple">[ᾰ]</font> qui vit dans la mer, PANCR. (ATH. <i>321f</i>) ; ANTH. <i>7, 654</i>.<p><b>Étym</b>. ἅλς, ζάω.`

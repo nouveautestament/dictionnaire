@@ -1,0 +1,1 @@
+lar[80821]=`<b>ητος (ἡ)</b> quantité plus grande, NICOM. <i>Harm. p. 18</i>.<p><b>Étym</b>. πλείων.`

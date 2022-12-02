@@ -1,0 +1,1 @@
+lar[7652]=`<font color="purple">[τᾰ]</font> <i>adv</i>., en se levant, IL. <i>9, 671 ; 23, 469</i>.<p><b>Étym</b>. <i>th</i>. ἀναστα- <i>de</i> ἀνίστημι, -δον.`

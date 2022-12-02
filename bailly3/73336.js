@@ -1,0 +1,1 @@
+lar[73336]=`<b>ιδος (ἡ)</b> osyris, <i>plante, vraisembl. la même que</i> χηνοπόδιον, DIOSC. <i>4, 143</i>.`

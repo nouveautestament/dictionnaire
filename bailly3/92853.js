@@ -1,0 +1,1 @@
+lar[92853]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Stratokléidès, <i>h</i>. ANTH. <i>11, 210</i>.<p><b>Étym</b>. <i>patr. de</i> Στρατοκλῆς.`

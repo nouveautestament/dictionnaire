@@ -1,0 +1,1 @@
+lar[99245]=`<b>τιμο·κρατία, ας (ἡ)</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> État dans lequel l’amour des honneurs est le principal mobile, PLAT. <i>Rsp. 545b.</i><br><b>      2</b> État où le pouvoir appartient aux citoyens possesseurs d’un certain revenu, ARSTT. <i>Nic. 8, 10, 1 et 3</i>.<p><b>Étym</b>. τιμή, κρατέω.`

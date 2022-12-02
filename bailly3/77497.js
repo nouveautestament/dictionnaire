@@ -1,0 +1,1 @@
+lar[77497]=`<b>παχυ·σκελής, ής, ές</b> <font color="purple">[ᾰ]</font> aux grosses jambes, POÈT. (PLUT. <i>M. 1101f</i>).<p><b>Étym</b>. π. σκέλος.`

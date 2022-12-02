@@ -1,0 +1,1 @@
+lar[31794]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec expansion, à cœur ouvert, XÉN. <i>Cyr. 8, 7, 7</i>.<p><b>Étym</b>. ἐκπετάννυμι.`

@@ -1,0 +1,1 @@
+lar[100860]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῡ]</font> vase percé d’un orifice, PHIL. BYZ. <i>Bel. 90</i>.<p><b>Étym</b>. τρυπάω.`

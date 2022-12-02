@@ -1,0 +1,1 @@
+lar[32381]=`<b>ἐκ·χαραδρόω-ῶ</b> <font color="purple">[ᾰᾰ]</font> couper de ravins, de tranchées, POL. <i>4, 41, 9</i> ; STR. <i>11, 3, 4 Kram</i>.<p><b>Étym</b>. ἐκ, χαράδρα.`

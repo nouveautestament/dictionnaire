@@ -1,0 +1,1 @@
+lar[82960]=`<b>ποτ·αγωγίς, ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>dor. c</i>. *προσαγωγίς, femme espion, ARSTT. <i>Pol. 5, 11</i>.<p><b>Étym</b>. προσάγω.`

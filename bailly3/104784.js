@@ -1,0 +1,1 @@
+lar[104784]=`<b>ή, όν</b>, blanc, HSCH.<p><b>Étym</b>. <i>pré-grec</i>.`

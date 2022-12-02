@@ -1,0 +1,1 @@
+lar[12334]=`<b>ἀπο·δοχμόω-ῶ</b> (<i>part. ao</i>. ἀποδοχμώσας) incliner, faire pencher de côté, OD. <i>9, 372</i>.`

@@ -1,0 +1,1 @@
+lar[74821]=`<b>παν·άθλιος, α, ον</b> <font color="purple">[ᾰν]</font> tout à fait malheureux, accablé d’infortunes, ESCHL. <i>Ch. 697</i> ; SOPH. <i>O.C. 1110</i> ; EUR. <i>Hec. 658</i>.<p><b>Étym</b>. π. ἄθλιος.`

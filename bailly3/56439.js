@@ -1,0 +1,1 @@
+lar[56439]=`<b>κοιλοφθαλμιάω-ῶ</b>, avoir les yeux creux et enfoncés, GAL. <i>6, 444</i>.<p><b>Étym</b>. κοιλόφθαλμος.`

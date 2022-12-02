@@ -1,0 +1,1 @@
+lar[37206]=`<b>ἐπ·ευθυμέω-ῶ</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao. sbj</i>. -ήσωσι)</font> se réjouir de, <i>dat</i>. SPT. <i>Sap. 18, 6</i>.`

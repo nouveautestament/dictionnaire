@@ -1,0 +1,1 @@
+lar[109625]=`<b>ψευδ·άγγελος, ου (ὁ)</b> qui apporte de fausses nouvelles, IL. <i>15, 159</i> ; ARSTT. <i>Poet. 16, 10</i>.<p><b>Étym</b>. ψευδής, ἄγγελος.`

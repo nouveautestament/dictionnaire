@@ -1,0 +1,1 @@
+lar[103973]=`<b>ὑπο·ταύριον, ου (τὸ)</b> le périnée, HIÉROCL. (HIPPIATR. <i>p. 154, 5</i>) ; HIPPIATR. <i>p. 153, 25 ; cf</i>. τράμις.<p><b>Étym</b>. ὑ. ταῦρος.`

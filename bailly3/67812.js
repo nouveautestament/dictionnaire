@@ -1,0 +1,1 @@
+lar[67812]=`<b>ναύ·σταθμον, ου (τὸ)</b> port, mouillage, THC. <i>3, 6</i> ; PLUT. <i>Pomp. 24 ; au plur</i>. EUR. <i>Rhes. 244, 602</i>.<p><b>Étym</b>. ν. σταθμός.`

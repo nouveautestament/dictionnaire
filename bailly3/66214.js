@@ -1,0 +1,1 @@
+lar[66214]=`<b>Μνησί·μαχος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Mnèsimakhos, <i>poète de la moyenne comédie,</i> EL. <i>N.A. 13, 4</i>.<p><b>Étym</b>. μν. μάχη.`

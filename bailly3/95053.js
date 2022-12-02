@@ -1,0 +1,1 @@
+lar[95053]=`<b>συν·δάμνημι</b> (<i>seul. prés</i>.) dompter avec, NIC. <i>Al. 173</i>.`

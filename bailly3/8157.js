@@ -1,0 +1,1 @@
+lar[8157]=`<i>adv</i>., sans reproche, DÉM. <i>212, 8</i> ; ARSTT. <i>Pol. 6, 8</i>.`

@@ -1,0 +1,1 @@
+lar[65875]=`<b>ωνος (ὁ)</b> touffe de menthe, PHILOD. ὑπ. <i>22</i>.<p><b>Étym</b>. μίνθα.`

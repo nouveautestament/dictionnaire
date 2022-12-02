@@ -1,0 +1,1 @@
+lar[107015]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>c</i>. φυγαδεῖον, PLUT. <i>M. 988a ;</i> SPT. <i>Num. 35, 15 ; Jos. 20, 2, etc</i>.<p><b>Étym</b>. <i>neutre de</i> φυγαδευτήριος.`

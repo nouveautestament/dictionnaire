@@ -1,0 +1,1 @@
+lar[72257]=`<font color="purple">[ῑ]</font> <i>c</i>. ὀπιπτεύω MUS. <i>101</i>.<p><b>Étym</b>. <i>indo-europ</i>. *opi-h₃k<sup>w</sup>-, regarder ; <i>de</i> ὀπι-, <i>v</i>. *ὄπις², <i>et</i> *h₃ek<sup>w</sup>-, <i>v</i>. ὄπωπα.`

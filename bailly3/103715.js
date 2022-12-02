@@ -1,0 +1,1 @@
+lar[103715]=`<b>ὑπο·πόνηρος, ος, ον</b>, un peu méchant, PROCL. <i>Ptol. p. 97, 98 ; adv</i>. ὑποπόνηρα, HPC. <i>1194d</i>, d’une manière qqe peu maligne.<p><b>Étym</b>. ὑ. πονηρός.`

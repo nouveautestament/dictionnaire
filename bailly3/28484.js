@@ -1,0 +1,1 @@
+lar[28484]=`<b>δυσ·ηνιόχητος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à conduire avec les rênes, à gouverner, LUC. <i>Abd. 17</i>.<p><b>Étym</b>. δ. ἡνιοχέω.`

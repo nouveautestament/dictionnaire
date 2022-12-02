@@ -1,0 +1,1 @@
+lar[90421]=`<b>εως (ἡ)</b> sifflement d’un corps rougi au feu et qu’on mouille, ARSTT. <i>Meteor. 2, 9, 16</i>.<p><b>Étym</b>. σίζω.`

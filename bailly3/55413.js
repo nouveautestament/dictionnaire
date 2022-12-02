@@ -1,0 +1,1 @@
+lar[55413]=`<font color="purple">[ῐᾰ]</font> <i>vb. de</i> κιθαρίζω, PLAT. <i>Sis. 389c</i>.`

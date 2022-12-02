@@ -1,0 +1,1 @@
+lar[85067]=`<b>προσ·αγάλλω</b> <font color="purple">[ᾰγ]</font> orner <i>ou</i> honorer encore plus, EUP. <i>119 Kock</i>.`

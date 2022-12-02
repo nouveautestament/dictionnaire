@@ -1,0 +1,1 @@
+lar[96804]=`<b>οῦ (ὁ)</b> qui fait des sphères, SYN. <i>Hymn. 5, 17</i>.<p><b>Étym</b>. σφαιρόω.`

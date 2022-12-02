@@ -1,0 +1,1 @@
+lar[14104]=`<b>ου</b>, <i>épq</i>. <b>οιο (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Arabos, <i>h</i>. ESCHL. <i>Pers. 38</i>.`

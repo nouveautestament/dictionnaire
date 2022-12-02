@@ -1,0 +1,1 @@
+lar[76778]=`<b>παρ·έπομαι</b>, suivre de près, accompagner, <i>dat</i>. XÉN. <i>Ap. 27 ; abs</i>. PLAT. <i>Phæd. 89a ; fig</i>. PLAT. <i>Leg. 667b ; t. de log</i>. être la conséquence de, <i>dat</i>. ARSTT. <i>Soph. el. 6, 10, etc. ; abs</i>. PLAT. <i>Theæt. 186a</i>.`

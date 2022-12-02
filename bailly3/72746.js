@@ -1,0 +1,1 @@
+lar[72746]=`<b>ὀρθο·πρίων, ονος (ὁ)</b> <font color="purple">[ῑ]</font> instrument de chirurgien pour trépaner, GAL. <i>2, 98c</i>.<p><b>Étym</b>. ὀ. πρίων.`

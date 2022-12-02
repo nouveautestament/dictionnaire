@@ -1,0 +1,1 @@
+lar[67455]=`<b>ου (ὁ)</b> moule, <i>coquillage comestible,</i> ATH. <i>85e</i>.<p><b>Étym</b>. μῦς.`

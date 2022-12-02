@@ -1,0 +1,1 @@
+lar[97345]=`<font color="purple">[ᾰ]</font> faire frire <i>ou</i> griller dans la poêle, EUP. (ATH. <i>17d</i>).<p><b>Étym</b>. τάγηνον ; <i>cf</i>. τηγανίζω.`

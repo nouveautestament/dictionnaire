@@ -1,0 +1,1 @@
+lar[89640]=`<b>ή, όν</b>, du nome Sebennytès (<i>auj</i>. Samannoud) <i>en Égypte,</i> HDT. <i>2, 17, 155, etc</i>. (<i>v</i>. Σεβεννύτης).<p><b>Étym</b>. Σεβεννύτης.`

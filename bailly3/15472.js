@@ -1,0 +1,1 @@
+lar[15472]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰῠ]</font> sorte de cuiller ; <i>particul</i>. mesure pour les liquides, DIOSC. <i>2, 84</i>.<p><b>Étym</b>. ἀρύω¹.`

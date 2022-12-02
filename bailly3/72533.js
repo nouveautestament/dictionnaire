@@ -1,0 +1,1 @@
+lar[72533]=`<b>ὀργανόω-ῶ</b> <font color="purple">[ᾰ]</font> munir d’instruments <i>ou</i> d’organes, SEXT. <i>397</i>.<p><b>Étym</b>. ὄργανον.`

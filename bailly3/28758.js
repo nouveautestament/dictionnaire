@@ -1,0 +1,1 @@
+lar[28758]=`<b>δυσ·παράγραφος, ος, ον</b> <font color="purple">[πᾰᾰφ]</font> difficile à déterminer, POL. <i>16, 12, 10 ; 17, 13, 3 ; 17, 15, 1</i>.<p><b>Étym</b>. δ. παραγράφω.`

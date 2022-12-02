@@ -1,0 +1,1 @@
+lar[17312]=`<b>αὐτ·άγαθος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui est le bien même, RHÉT. <i>3, 476 W. etc</i>.<p><b>Étym</b>. αὐτός, ἀγαθός.`

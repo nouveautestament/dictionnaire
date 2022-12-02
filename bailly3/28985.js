@@ -1,0 +1,1 @@
+lar[28985]=`<b>δύσ·φραστος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> difficile à expliquer, PLAT. <i>Tim. 50c.</i><br><b>      2</b> difficile, <i>en gén</i>. OPP. <i>H. 2, 60</i>.<br><b>   II</b> <i>act</i>. qui parle difficilement, DÉMÉTR. (EUS. <i>P.E. 441c</i>).<p><b>Étym</b>. δ. φράζω.`

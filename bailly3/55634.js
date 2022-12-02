@@ -1,0 +1,1 @@
+lar[55634]=`<b>κισσό·πληκτος, ος, ον</b>, frappé du thyrse de Bacchus enlacé de lierre, <i>càd</i>. inspiré, animé d’un transport divin, ANTIPH. (ATH. <i>643e</i>).<p>➳ <i>Mein. propose</i> κισσόπλεκτος, enlacé de lierre.<p><b>Étym</b>. κισσός, πλήσσω.`

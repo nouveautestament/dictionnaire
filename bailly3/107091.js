@@ -1,0 +1,1 @@
+lar[107091]=`<b>ου (ὁ)</b> <font color="purple">[ῠᾰ]</font> habitant <i>ou</i> originaire de Phylakè, <i>en Thessalie,</i> LUC. <i>D. mort. 23, 1</i>.<p><b>Étym</b>. Φυλάκη.`

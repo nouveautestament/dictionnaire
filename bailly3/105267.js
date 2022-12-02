@@ -1,0 +1,1 @@
+lar[105267]=`<b>ή, όν</b>, corruptible, ARSTT. <i>An. post. 1, 8, 2 ; 1, 24, 5 ; Metaph. 1, 9, 8</i> ; PLUT. <i>M. 106d, 717e ;</i> SEXT. <i>M. 9, 141</i>.<p><b>Étym</b>. <i>vb. de</i> φθείρω.`

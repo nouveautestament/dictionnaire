@@ -1,0 +1,1 @@
+lar[38794]=`<b>ἐπι·πρέπω</b> (<i>seul. prés</i>.) :<br><b>      1</b> se montrer à la surface, être apparent, paraître, OD. <i>24, 252</i> ; PD. <i>P. 8, 46</i> ; THCR. <i>Idyl. 25, 40</i>.<br><b>      2</b> être apparent sur, <i>dat</i>. LUC. <i>D. mar. 1, 1</i>.<br><b>      3</b> convenir à, <i>dat</i>. XÉN. <i>Cyr. 7, 5, 83</i> ; PLUT. <i>M. 794a</i>.`

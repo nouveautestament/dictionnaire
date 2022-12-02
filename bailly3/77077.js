@@ -1,0 +1,1 @@
+lar[77077]=`<b>παροξυτονέω-ῶ</b> <font color="purple">[ῠ]</font> marquer la pénultième d’un accent aigu, EUST. <i>1600, 18, etc</i>.<p><b>Étym</b>. παροξύτονος.`

@@ -1,0 +1,1 @@
+lar[33435]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> action de sauter sur, assaut, HPC. <i>1008g</i>.<p><b>Étym</b>. ἐμπηδάω.`

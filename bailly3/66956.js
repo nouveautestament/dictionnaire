@@ -1,0 +1,1 @@
+lar[66956]=`<b>ου (ὁ) :<br>      1</b> petit levier, AR. <i>fr. 405</i>.<br><b>      2</b> instrument de chirurgie pour réduire les luxations, HPC. <i>868d</i>.<p><b>Étym</b>. μοχλός.`

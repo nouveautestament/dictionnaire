@@ -1,0 +1,1 @@
+lar[55177]=`<i>att</i>. <b>κάλη, ης (ἡ) :<br>      1</b> tumeur, <i>particul</i>. hernie, HPC. <i>Aër. 284</i> ; GAL. <i>7, 321</i> ; ANTH. <i>6, 166, etc.</i><br><b>      2</b> bosse sur le dos d’un buffle, ARSTT. <i>H.A. 8, 28, 5 (att</i>. κάλη, <i>corr. p</i>. καίτη).<p><b>Étym</b>. <i>cf. les composés</i> ἐντεροκήλη, βουβωνοκήλη, <i>etc</i>.`

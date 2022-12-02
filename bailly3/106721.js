@@ -1,0 +1,1 @@
+lar[106721]=`<b>φορταγωγέω-ῶ</b> <font color="purple">[ᾱ]</font> transporter des marchandises par mer, LGN <i>43, 4</i>.<p><b>Étym</b>. φορταγωγός.`

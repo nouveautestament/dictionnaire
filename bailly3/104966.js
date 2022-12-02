@@ -1,0 +1,1 @@
+lar[104966]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire de Phasèlis, DÉM. <i>923, 1</i> ; PLUT. <i>Alex. 17, etc</i>.<p><b>Étym</b>. Φάσηλις.`

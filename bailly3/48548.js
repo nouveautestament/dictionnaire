@@ -1,0 +1,1 @@
+lar[48548]=`<b>ας (ἡ)</b> <font color="purple">[ᾱτ]</font> fonction de prêtre, prêtrise, ARSTT. <i>Pol. 7, 8, 7</i> ; SPT. <i>Ex. 29, 9 ; Num. 3, 10</i> ; NT. <i>Luc. 1, 9 ; Hebr. 7, 5</i>.<p><b>Étym</b>. ἱερατεύω.`

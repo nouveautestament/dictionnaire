@@ -1,0 +1,1 @@
+lar[38322]=`<i>adv</i>., en forme de péroraison, ESCHN. <i>Ctes. arg</i>.`

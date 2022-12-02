@@ -1,0 +1,1 @@
+lar[61989]=`<b>*λυροκτυπία</b>, <i>ion</i>. <b>λυροκτυπίη, ης (ἡ)</b> <font color="purple">[ῠῠ]</font> action de faire résonner la lyre, ANTH. <i>6, 54</i> ; A. PL. <i>277, 4</i>.<p><b>Étym</b>. λυροκτύπος.`

@@ -1,0 +1,1 @@
+lar[42056]=`<b>εὐ·ερνής, ής, ές :<br>      1</b> qui pousse bien, EUR. <i>I.T. 1100 ; en parl. de pers. et d’animaux, càd</i>. grand, élancé, POSIDON. (STR. <i>103</i>).<br><b>      2</b> où les plantes poussent bien, couvert d’une riche végétation, STR. <i>477</i>.<p><b>Étym</b>. εὖ, ἔρνος.`

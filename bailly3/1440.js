@@ -1,0 +1,1 @@
+lar[1440]=`<b>ἀ·διόδευτος, ος, ον</b>, infranchissable, CHAR. <i>7, 3</i> ; THÉM. <i>206d</i>.<p><b>Étym</b>. ἀ, διοδεύω.`

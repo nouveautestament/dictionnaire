@@ -1,0 +1,1 @@
+lar[86263]=`<b>προσ·παραβάλλω</b>, étendre en outre, PLUT. <i>Cleom. 13</i>.`

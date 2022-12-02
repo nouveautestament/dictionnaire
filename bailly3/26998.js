@@ -1,0 +1,1 @@
+lar[26998]=`<b>δί·πυλος, ος, ον</b> <font color="purple">[ῠ]</font> à deux portes, SOPH. <i>Ph. 952</i> ; τὸ δίπυλον, double porte, <i>n. des</i> Θριάσιαι πύλαι, <i>à Athènes,</i> POL. <i>16, 25, 7</i> ; PLUT. <i>Per. 30</i> ; LUC. <i>Scyth. 2, Nav. 17, et du temple de Janus à Rome,</i> PLUT. <i>M. 322b</i>.<p><b>Étym</b>. δίς, πύλη.`

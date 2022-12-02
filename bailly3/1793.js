@@ -1,0 +1,1 @@
+lar[1793]=`<b>*ἀερό·μορφος</b>, <i>seul. ion</i>. <b>ἠερόμορφος, ος, ον</b>, qui a l’aspect de l’air, semblable à l’air, ORPH. <i>H. 80</i>.<p><b>Étym</b>. ἀ. μορφή.`

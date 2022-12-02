@@ -1,0 +1,1 @@
+lar[101872]=`<b>ὑπ·αγρύπνος, ος, ον</b> <font color="purple">[ῠπᾰ]</font> qui dort peu, HPC. <i>Coac. 146</i>.`

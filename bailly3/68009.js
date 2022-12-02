@@ -1,0 +1,1 @@
+lar[68009]=`<b>νεκρό·πολις, εως (ἡ)</b> nécropole <i>ou</i> ville des morts, <i>à Alexandrie, en Égypte,</i> STR. <i>795, 799</i>.<p><b>Étym</b>. ν. πόλις.`

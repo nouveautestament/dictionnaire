@@ -1,0 +1,1 @@
+lar[80750]=`<b>πλατύ·κερως, ωτος (ὁ)</b> <font color="purple">[ᾰῠ]</font> cerf à larges cornes, DIOSC. <i>2, 85</i>.<p><b>Étym</b>. πλ. κέρας.`

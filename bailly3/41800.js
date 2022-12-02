@@ -1,0 +1,1 @@
+lar[41800]=`<b>εὔ·γομφος, ος, ον</b>, bien cloué, fortement joint, EUR. <i>I.T. 1286</i>.<p><b>Étym</b>. εὖ, γόμφος.`

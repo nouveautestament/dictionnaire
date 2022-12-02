@@ -1,0 +1,1 @@
+lar[19635]=`<b>ων (οἱ)</b> <font color="purple">[ῡ]</font> les habitants de Bèrytos, JOS. HDN, A. TAT.<p><b>Étym</b>. βηρυτός.`

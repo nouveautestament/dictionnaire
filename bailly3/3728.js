@@ -1,0 +1,1 @@
+lar[3728]=`<i><font color="darkgreen">(seul. prés</i>. EPICH. <i>dans</i> ATH. <i>183c ; et impf. 3 sg</i>. ἠκροάζετο, <i>ou p.-ê. ao</i>. ἠκροάσατο, MÉN. <i>Com. fr. 4, 113)</font> c</i>. ἀκροάομαι.`

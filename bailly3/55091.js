@@ -1,0 +1,1 @@
+lar[55091]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κεφαλή, PLUT. <i>M. 641b ;</i> DIOSC. <i>3, 6 et 144, etc</i>.`

@@ -1,0 +1,1 @@
+lar[42086]=`<b>εὔ·ζωρος, ος, ον</b>, sans mélange, <i>en parl. du vin,</i> POÈT. (PLUT. <i>Thes. 22).</i><p>•<i> Cp</i>. -ότερος, DIPH. (ATH. <i>423f</i>) ; LUC. <i>Lex. 14 ; ou</i> -έστερος, EPHIPP. <i>et</i> ANTIPH. (ATH. <i>370d, 423e</i>).<p><b>Étym</b>. εὖ, ζωρός.`

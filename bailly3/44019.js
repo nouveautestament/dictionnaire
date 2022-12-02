@@ -1,0 +1,1 @@
+lar[44019]=`<b>ας (ἡ) :<br>      1</b> adolescence, ARTÉM. <i>1, 54</i>.<br><b>      2</b> <i>c</i>. ἐφηβεῖον, SPT. <i>2Macc. 4, 9</i>.<p><b>Étym</b>. ἔφηβος.`

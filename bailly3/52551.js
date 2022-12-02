@@ -1,0 +1,1 @@
+lar[52551]=`<b>κατα·κληροδοτέω-ῶ</b>, distribuer par héritage, SPT. <i>Deut. 21, 16</i> ; JOS. <i>19, 51</i>.`

@@ -1,0 +1,1 @@
+lar[93517]=`<b>συγ·κοτταβίζω</b> <font color="purple">[ᾰ]</font> jouer au cottabe ensemble, ANON. (<i>Com. fr. 4, 623</i>).`

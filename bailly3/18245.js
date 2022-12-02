@@ -1,0 +1,1 @@
+lar[18245]=`<font color="darkgreen">(<i>f</i>. άσω)</font> <font color="purple">[αῑσ]</font> se livrer aux plaisirs de l’amour, <i>en parl. de l’homme,</i> HPC. <i>370, 36, etc.</i> ; XÉN. <i>Mem. 1, 3, 14, etc.</i> ; PLAT. <i>Rsp. 426a ; etc. ; au pass. en parl. de la femme,</i> XÉN. <i>Hier. 3, 4 ; etc</i>.<p><b>Étym</b>. ἀφροδίσιος.`

@@ -1,0 +1,1 @@
+lar[102933]=`<b>ὑπ·εύδιος, ος, ον</b>, qui est sous un ciel serein, <i>d’où</i> serein, calme, paisible, A.RH. <i>1, 584, etc.</i> ; ARAT. <i>1012, etc.</i> ; τὸ ὑπεύδιον τῆς θαλάσσης, PLUT. <i>Them. 32,</i> le calme de la mer.<p>➳ <font color="purple">[ῑ]</font> ARAT. <i>l. c</i>.<p><b>Étym</b>. ὑ. εὐδία.`

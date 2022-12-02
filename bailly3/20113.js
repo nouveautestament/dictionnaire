@@ -1,0 +1,1 @@
+lar[20113]=`<b>ου (τὸ)</b> petit oignon, EPICT. <i>Ench. 7</i>.<p><b>Étym</b>. βολβός.`

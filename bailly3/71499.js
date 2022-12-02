@@ -1,0 +1,1 @@
+lar[71499]=`<b>ας (ἡ)</b> situation dans une même zone, P. ALEX. <i>Apot. 12, p. 26, l. 4 Boer</i>.<p><b>Étym</b>. ὁμόζωνος.`

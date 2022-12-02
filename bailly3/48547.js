@@ -1,0 +1,1 @@
+lar[48547]=`<b>ος, ον</b>, à la façon d’un grand-prêtre, ANTH. <i>1, 88</i>.<p><b>Étym</b>. ἱερός, ἄρχω.`

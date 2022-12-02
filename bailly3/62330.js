@@ -1,0 +1,1 @@
+lar[62330]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qu’on peut apprendre, XÉN. <i>Cyr. 1, 6, 23</i> ; PLUT. <i>De Virt. 376c ;</i> ARSTT. <i>Nic. 6, 3</i>.<p>➳ <i>Fém</i>. -ός, PLAT. <i>l. c</i>.<p><b>Étym</b>. <i>vb. de</i> μανθάνω.`

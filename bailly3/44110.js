@@ -1,0 +1,1 @@
+lar[44110]=`<b>ἔφ·οδος, ου (ὁ)</b> qui fait une ronde de surveillance, XÉN. <i>Cyr. 8, 6, 16</i> ; POL. <i>6, 36, 6</i>.<p><b>Étym</b>. ἐπί, ὁδός.`

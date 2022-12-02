@@ -1,0 +1,1 @@
+lar[16348]=`<b>ἀστρο·χίτων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> à la tunique étoilée, ORPH. <i>Arg. 511, 1026</i> ; NONN. <i>D. 17, 946</i>.<p>➳ <i>Voc</i>. -χίτων, NONN. <i>D. 40, 369, etc</i>.<p><b>Étym</b>. ἄστρον, χιτών.`

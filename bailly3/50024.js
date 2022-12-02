@@ -1,0 +1,1 @@
+lar[50024]=`<b>Ἰφι·μέδεια, ας (ἡ)</b> <font color="purple">[ῑῐ]</font> Iphimédeia, <i>f</i>. OD. <i>11, 305</i> ; PD. <i>P. 4, 157</i>.<p><b>Étym</b>. ἶφι, μέδομαι.`

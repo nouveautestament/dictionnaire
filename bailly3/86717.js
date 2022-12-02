@@ -1,0 +1,1 @@
+lar[86717]=`<b>προσ·ωφελέω-ῶ</b>, venir en aide à, <i>dat</i>. EUR. <i>Alc. 41, etc. ; particul. en parl. de guerre,</i> venir au secours de, <i>dat</i>. HDT. <i>9, 103 ; acc</i>. HDT. <i>9, 68 ; abs</i>. DH. <i>8, 74</i>.`

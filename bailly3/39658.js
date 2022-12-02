@@ -1,0 +1,1 @@
+lar[39658]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπίχαρις PTOL. <i>Tetr. 144</i>.`

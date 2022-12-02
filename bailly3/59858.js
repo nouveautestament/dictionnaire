@@ -1,0 +1,1 @@
+lar[59858]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> Lapithanos, <i>h</i>. ANTH. <i>6, 307</i>.`

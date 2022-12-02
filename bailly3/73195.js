@@ -1,0 +1,1 @@
+lar[73195]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ὁσαχοῖ DÉM. <i>682, 12</i>.<p><b>Étym</b>. *ὁσαχός, <i>de</i> ὅσος.`

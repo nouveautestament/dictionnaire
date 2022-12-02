@@ -1,0 +1,1 @@
+lar[25635]=`<b>ατος (τὸ)</b> entorse, luxation, HPC. <i>Off. 748</i>.<p><b>Étym</b>. διαστρέφω.`

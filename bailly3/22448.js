@@ -1,0 +1,1 @@
+lar[22448]=`<b>ας (ἡ)</b> génération, procréation, A. APHR. <i>Probl. 2, 68</i>.<p><b>Étym</b>. *γονοποιός, <i>de</i> γόνος, ποιέω.`

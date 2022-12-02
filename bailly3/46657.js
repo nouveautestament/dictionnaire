@@ -1,0 +1,1 @@
+lar[46657]=`<i>adv</i>., de manière à ressembler à la divinité, A.RH. <i>2, 1189</i>.<p><b>Étym</b>. θεοειδής.`

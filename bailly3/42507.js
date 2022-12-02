@@ -1,0 +1,1 @@
+lar[42507]=`<i>adv</i>., d’une manière tempérée, EUM. <i>7, p. 242</i>.<p><b>Étym</b>. εὐκραής.`

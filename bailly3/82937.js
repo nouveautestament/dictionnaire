@@ -1,0 +1,1 @@
+lar[82937]=`<font color="purple">[ᾰῐ]</font> <i>adv. épq. c</i>. ποσάκις, CALL. <i>Dian. 119</i>.<p><b>Étym</b>. *πόσσος <i>p</i>. πόσος, -άκι.`

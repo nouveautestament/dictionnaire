@@ -1,0 +1,1 @@
+lar[89436]=`<b>σαρκο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à de la chair, PLAT. <i>Tim. 75e ;</i> ARSTT. <i>H.A. 1, 16, 16</i>.<p>•<i> Cp</i>. -έστερος, ARÉT. <i>p. 19, 22</i>.<p><b>Étym</b>. σ. εἶδος.`

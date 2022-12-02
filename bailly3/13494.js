@@ -1,0 +1,1 @@
+lar[13494]=`<b>ατος (τὸ)</b> sang d’un animal égorgé, EL. <i>N.A. 1, 34</i>.<p><b>Étym</b>. ἀποσφάζω ; <i>cf</i>. ὑπόσφαγμα.`

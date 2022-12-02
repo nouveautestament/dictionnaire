@@ -1,0 +1,1 @@
+lar[29007]=`<i>adv</i>., avec indignation, ARSTT. <i>Rhet. 3, 7, 3</i>.<p><b>Étym</b>. δυσχεραίνω.`

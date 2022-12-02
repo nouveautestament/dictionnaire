@@ -1,0 +1,1 @@
+lar[74159]=`<font color="purple">[χᾰ]</font> <i>adv</i>., très difficilement, XÉN. <i>An. 7, 5, 16</i>.`

@@ -1,0 +1,1 @@
+lar[42896]=`<b>εὐοψέω-ῶ</b>, avoir de beaux <i>ou</i> de bons poissons <i>ou</i> beaucoup de poissons, STR. <i>184, 658</i>.<p><b>Étym</b>. εὔοψος.`

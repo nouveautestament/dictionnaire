@@ -1,0 +1,1 @@
+lar[49553]=`<b>ἰσ·εννύω</b> (<i>seul. prés</i>.) <font color="purple">[ῑ̆]</font> être entre deux âges, HPC. <i>638, 42</i>.<p><b>Étym</b>. ἴσος, ἔνος, <i>v</i>. ἐνιαυτός.`

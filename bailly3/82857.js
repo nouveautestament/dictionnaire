@@ -1,0 +1,1 @@
+lar[82857]=`<font color="purple">[ῠ]</font><br><b>      1</b> avoir une couleur voisine de la pourpre, DS. <i>2, 53</i> ; DIOSC. <i>1, 19 ; 2, 194 ; 3, 44</i> ; APD. (ATH. <i>281e</i>).<br><b>      2</b> avoir une couleur foncée <i>ou</i> sombre, <i>en parl. de la mer,</i> ARSTT. <i>Mir. 130, 3</i>.<p><b>Étym</b>. πορφύρα.`

@@ -1,0 +1,1 @@
+lar[41714]=`<b>ΐδος</b>, <i>adj. f</i>. d’Eubée, HDT. <i>3, 89</i>.<p>➳ <i>Par contract</i>. Εὐβοῖς, οῖδος, ESCHL. <i>fr. 27</i> ; SOPH. <i>Tr. 74</i> ; EUR. <i>Her. 83, El. 442</i>.`

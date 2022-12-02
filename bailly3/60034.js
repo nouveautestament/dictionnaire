@@ -1,0 +1,1 @@
+lar[60034]=`<b>ας</b> <font color="purple">[λᾰ]</font> <i>adj. f</i>. petit, <i>ou p.-ê</i>. λάχεια <i>pour</i> ἐλαχεῖα, OD. <i>9, 116 ; 10, 509 ; sel. d’autres,</i> touffu.`

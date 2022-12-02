@@ -1,0 +1,1 @@
+lar[32644]=`<i>att</i>. <b>ἐλεινῶς</b>, <i>adv.</i> :<br><b>      1</b> avec compassion, SOPH. <i>Ph. 870</i>.<br><b>      2</b> pitoyablement, AR. <i>Th. 1063</i>.`

@@ -1,0 +1,1 @@
+lar[22851]=`<b>ης (ἡ)</b> sorte de gâteau, LUC. <i>Trag. 157</i>.`

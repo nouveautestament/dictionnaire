@@ -1,0 +1,1 @@
+lar[90354]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Simônè, <i>f</i>. ANTH. <i>13, 24</i>.`

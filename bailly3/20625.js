@@ -1,0 +1,1 @@
+lar[20625]=`<b>βραδύ·νοος, ος, ον</b> <font color="purple">[ᾰῠ]</font> d’esprit lent, NYSS. <i>1, 760b Migne</i>.<p><b>Étym</b>. βρ. νόος.`

@@ -1,0 +1,1 @@
+lar[71991]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui forge des mots, PLAT. <i>Crat. 388e</i>.<p><b>Étym</b>. ὄ. ἔργον.`

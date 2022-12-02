@@ -1,0 +1,1 @@
+lar[52911]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> racloir pour le fromage, PLUT. <i>Dio. 58</i>.<p><b>Étym</b>. <i>mot sicilien</i>.`

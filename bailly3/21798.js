@@ -1,0 +1,1 @@
+lar[21798]=`(<i>seul. prés</i>.) vieillir, <i>en parl. de vin,</i> A. TR. <i>9, 524</i>.<p><b>Étym</b>. γέρων.`

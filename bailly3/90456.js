@@ -1,0 +1,1 @@
+lar[90456]=`<b>ης (ἡ)</b> cheveux tressés, SPT. <i>Lev. 19, 27</i>.`

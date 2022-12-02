@@ -1,0 +1,1 @@
+lar[99406]=`<b>ου (τὸ)</b> sorte de narcisse, <i>dont on faisait des couronnes et des parfums,</i> TH. <i>H.P. 6, 6, 11 ; 7, 13, 7 ; C.P. 1, 10, 5</i>.`

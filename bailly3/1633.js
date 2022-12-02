@@ -1,0 +1,1 @@
+lar[1633]=`<b>ἀει·βλαστής, ής, ές</b>, qui pousse <i>ou</i> germe toujours, TH. <i>C.P. 1, 11, 6</i>.<p><b>Étym</b>. ἀ. βλαστάνω.`

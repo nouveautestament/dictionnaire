@@ -1,0 +1,1 @@
+lar[107710]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art de travailler le cuivre <i>ou</i> l’airain, le métier de chaudronnier, de forgeron <i>ou</i> de fondeur, ARSTT. <i>Pol. 1, 8, 1</i>.<p><b>Étym</b>. χαλκουργός.`

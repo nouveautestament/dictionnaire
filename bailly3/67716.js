@@ -1,0 +1,1 @@
+lar[67716]=`<b>ας (ἡ) :<br>      1</b> commandement d’un vaisseau <i>ou</i> d’une flotte, THC. <i>8, 20 et 33</i> ; XÉN. <i>Hell. 1, 5, 1 ; 2, 1, 6</i>.<br><b>      2</b> suprématie maritime, ARSTT. <i>Pol. 2, 12, 5</i>.<br><b>      3</b> flotte, LYC. <i>733</i>.<p><b>Étym</b>. ναύαρχος.`

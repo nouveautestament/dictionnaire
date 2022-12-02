@@ -1,0 +1,1 @@
+lar[91638]=`<b>(ὁ)</b> Sousas, <i>Perse,</i> ESCHL. <i>Pers. 958</i>.`

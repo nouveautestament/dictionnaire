@@ -1,0 +1,1 @@
+lar[24406]=`<b>δια·βάσκω</b> (<i>seul. prés</i>.) se pavaner, AR. <i>Av. 486</i>.`

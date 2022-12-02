@@ -1,0 +1,1 @@
+lar[28214]=`<b>δυσ·απόδοτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à définir, SEXT. <i>M. 7, 242</i>.<p><b>Étym</b>. δ. ἀποδίδωμι.`

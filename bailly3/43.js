@@ -1,0 +1,1 @@
+lar[43]=`<b>ου (ὁ)</b> <font color="purple">[ᾰβᾰδ]</font> <font color="brown">descendant d’Abas</font>, A.RH. <i>1, 178, etc</i>.<p><b>Étym</b>. Ἄβας.`

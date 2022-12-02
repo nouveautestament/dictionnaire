@@ -1,0 +1,1 @@
+lar[29712]=`<b>οῦ (ὁ)</b> insertion dans le vagin, MOSCHION <i>Mul. pass. 132, p. 75</i> ; AÉT. <i>3, 153</i>.<p><b>Étym</b>. ἐγκολπίζω.`

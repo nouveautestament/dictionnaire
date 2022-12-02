@@ -1,0 +1,1 @@
+lar[45211]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Hèlikè, <i>f</i>. Ps.-PLUT. <i>Fluv. 11, 1</i>.<p><b>Étym</b>. ἡλίκος.`

@@ -1,0 +1,1 @@
+lar[71013]=`<b>ὀλιγο·εξία, ας (ἡ)</b> <font color="purple">[ῐγ]</font> pauvreté, NICOM. <i>Arithm. 1, 14, 2, Hoche</i>.<p><b>Étym</b>. ὀλ. ἑκτός.`

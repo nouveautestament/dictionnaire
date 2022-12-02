@@ -1,0 +1,1 @@
+lar[4864]=`<b>εως (ἡ)</b> action de conserver dans la saumure, DIOSC. <i>3, 52 et 91</i>.<p><b>Étym</b>. ἁλμεύω.`

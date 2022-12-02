@@ -1,0 +1,1 @@
+lar[91705]=`<b>σπαθο·μήλη, ης (ἡ)</b> <font color="purple">[ᾱ]</font> sonde en forme de spatule, GAL. <i>4, 191</i>.<p><b>Étym</b>. σπάθη, μήλη.`

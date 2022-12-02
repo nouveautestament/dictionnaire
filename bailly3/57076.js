@@ -1,0 +1,1 @@
+lar[57076]=`<b>κοριο·ειδής, ής, ές</b>, noir comme la prunelle des yeux, EPICH. (ATH. <i>282a, 308e</i>).<p><b>Étym</b>. κόρη, εἶδος.`

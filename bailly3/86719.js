@@ -1,0 +1,1 @@
+lar[86719]=`<b>εως (ἡ)</b> aide, assistance, <i>d’où</i> utilité, SOPH. <i>Ph. 1406</i>.<p><b>Étym</b>. προσωφελέω.`

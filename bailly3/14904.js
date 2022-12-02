@@ -1,0 +1,1 @@
+lar[14904]=`<i>adv</i>., convenablement, DS. <i>3, 15</i> ; JOS. <i>A.J. 6, 1, 2, etc</i>.<p><b>Étym</b>. ἁρμόζω.`

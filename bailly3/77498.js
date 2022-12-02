@@ -1,0 +1,1 @@
+lar[77498]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> grosseur, embonpoint, HPC. <i>1200d</i>.<p><b>Étym</b>. παχύνω.`

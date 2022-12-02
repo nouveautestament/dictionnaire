@@ -1,0 +1,1 @@
+lar[77133]=`<b>ου (ὁ)</b> celui qui accompagne les nouveaux mariés sur le char nuptial, AR. <i>Av. 1740</i> ; LUC. <i>Her. 5 ; cf</i>. παράνυμφος.<p><b>Étym</b>. π. ὄχος.`

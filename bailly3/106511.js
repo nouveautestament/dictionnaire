@@ -1,0 +1,1 @@
+lar[106511]=`<b>ή, όν :<br>      1</b> inspiré, LGN <i>13, 2</i>.<br><b>      2</b> <i>p. suite,</i> qui prophétise, qui prononce en prophétisant, <i>gén</i>. PLUT. <i>Rom. 20</i>.<p><b>Étym</b>. φοιβάζω².`

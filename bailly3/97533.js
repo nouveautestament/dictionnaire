@@ -1,0 +1,1 @@
+lar[97533]=`<b>ίτιδος (ἡ)</b> lithosperme, <i>plante,</i> DIOSC.`

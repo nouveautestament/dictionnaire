@@ -1,0 +1,1 @@
+lar[109874]=`<b>Ψιχ·άρπαξ, αγος (ὁ)</b> <font color="purple">[ῑᾰγ]</font> Attrape-miettes, <i>n. de rat,</i> BATR. <i>24, 27, 105, 141, 236</i>.<p><b>Étym</b>. ψίξ, ἁρπάζω.`

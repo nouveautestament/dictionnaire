@@ -1,0 +1,1 @@
+lar[107362]=`<b>α, ον</b>, de Phocide, phocéen, ANTH. <i>14, 121</i>.<p><b>Étym</b>. Φωκίς.`

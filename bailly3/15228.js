@@ -1,0 +1,1 @@
+lar[15228]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire du nome d’Arsinoè, EL. <i>N.A. 10, 24</i>.<p><b>Étym</b>. Ἀρσινόη.`

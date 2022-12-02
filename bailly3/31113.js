@@ -1,0 +1,1 @@
+lar[31113]=`<b>ου (τὸ)</b> drogue pour faire avorter, HPC. <i>627, 19, etc.</i> ; PLUT. <i>M. 134f</i>.<p><b>Étym</b>. ἔκβολος.`

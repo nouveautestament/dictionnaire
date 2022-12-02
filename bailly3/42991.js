@@ -1,0 +1,1 @@
+lar[42991]=`<b>εὐ·περίπατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui permet d’aller et de venir, LUC. <i>Trag. 326</i>.<p><b>Étym</b>. εὖ, περιπατέω.`

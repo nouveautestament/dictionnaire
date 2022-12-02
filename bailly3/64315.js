@@ -1,0 +1,1 @@
+lar[64315]=`<b>Μενέ·ξενος, ου (ὁ)</b> Ménexénos (Ménexène) <i>h</i>. DÉM. <i>1009, 26, etc. ; titre d’un dialogue de Platon</i>.<p><b>Étym</b>. μένω, ξένος.`

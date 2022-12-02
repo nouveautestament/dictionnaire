@@ -1,0 +1,1 @@
+lar[63647]=`<b>μεθ·υποδέομαι-οῦμαι</b>, changer de chaussures, AR. <i>Eccl. 544</i>.<p><b>Étym</b>. μετά, ὑποδέω.`

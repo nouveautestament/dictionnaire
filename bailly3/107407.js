@@ -1,0 +1,1 @@
+lar[107407]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>vb. de</i> φωράω SEXT. <i>P. 1, 183</i>.`

@@ -1,0 +1,1 @@
+lar[10435]=`<b>ἀντιστοιχέω-ῶ</b>, se placer sur une ligne parallèle <i>ou</i> correspondante, XÉN. <i>An. 5, 4, 12 ; Conv. 2, 20</i>.<p><b>Étym</b>. ἀντίστοιχος.`

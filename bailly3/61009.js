@@ -1,0 +1,1 @@
+lar[61009]=`<b>λιθάζω</b> <font color="purple">[ῐ]</font><br><b>      1</b> lancer des pierres, ARSTT. <i>Probl. 5, 8</i> ; STR. <i>705</i>.<br><b>      2</b> lancer comme une pierre, POL. <i>10, 29, 5</i>.<br><b>      3</b> lapider, <i>acc</i>. SPT. <i>2Reg. 16, 6</i> ; NT. <i>Joh. 10, 31</i>.<p><b>Étym</b>. λίθος.`

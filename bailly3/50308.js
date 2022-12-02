@@ -1,0 +1,1 @@
+lar[50308]=`<b>καθ·αυαίνω</b> <font color="purple">[κᾰ]</font> <i>c</i>. καταυαίνω, LUC. <i>Am. 12</i>.`

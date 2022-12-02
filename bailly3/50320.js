@@ -1,0 +1,1 @@
+lar[50320]=`<b>καθ·είμαρμαι</b>, <i>seul. 3 sg</i>. καθείμαρται, il est arrêté par les destins, ARR. <i>Epict. 2, 6, 10 ; et part</i>. καθειμαρμένος, PLUT. <i>Alex. 52,</i> réglé par les destins.<p><b>Étym</b>. κ. εἱμαρμένος.`

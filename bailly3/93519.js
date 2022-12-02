@@ -1,0 +1,1 @@
+lar[93519]=`<b>συγ·κραδαίνω</b> <font color="purple">[ρᾰ]</font> secouer ensemble, ARSTT. <i>Mund. 4, 29</i>.`

@@ -1,0 +1,1 @@
+lar[13687]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> échec, mauvaise fortune, DIN. <i>94, 6</i> ; POL. <i>5, 98, 9, etc</i>.<p><b>Étym</b>. ἀποτυχής.`

@@ -1,0 +1,1 @@
+lar[14106]=`<font color="purple">[ᾰρ]</font> <i>adv</i>., avec un choc bruyant, LUC. <i>Lex. 5</i>.<p><b>Étym</b>. ἀράσσω.`

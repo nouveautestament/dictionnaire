@@ -1,0 +1,1 @@
+lar[20393]=`<b>βου·κεφάλας, α (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Bucéphale, <i>cheval d’Alexandre le Grand,</i> STR. <i>698</i> ; PLUT. <i>Alex. 61</i> ; ARR. <i>An. 5, 19, 5, etc</i>.<p><b>Étym</b>. <i>forme macéd. c</i>. βουκέφαλος.`

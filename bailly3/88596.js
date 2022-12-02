@@ -1,0 +1,1 @@
+lar[88596]=`<b>ῥιν·ήλατος, ος, ον</b> <font color="purple">[ῑᾰ]</font> dépisté par le flair, OPP. <i>H. 2, 290</i>.<p><b>Étym</b>. ῥίς, ἐλαύνω.`

@@ -1,0 +1,1 @@
+lar[76470]=`<b>ατος (τὸ) :<br>      1</b> personnage accessoire dans un chœur <i>ou, p. ext</i>., dans un drame, SCH.-AR. <i>Pax 114</i>.<br><b>      2</b> personnage supplémentaire pour le chœur, POLL. <i>4, 110</i>.<p><b>Étym</b>. παραχορηγέω.`

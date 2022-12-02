@@ -1,0 +1,1 @@
+lar[13212]=`<b>ἀπ·ορούω</b> (<i>seul. ao</i>. ἀπώρουσα, <i>épq</i>. ἀπόρουσα) :<br><b>      1</b> s’élancer loin de, IL. <i>5, 20 ; particul</i>. s’élancer en arrière, IL. <i>21, 251</i> ; OD. <i>22, 95</i>.<br><b>      2</b> s’élancer, se dresser, <i>en parl. de colonnes,</i> PD. <i>fr. 58</i>.`

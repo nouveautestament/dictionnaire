@@ -1,0 +1,1 @@
+lar[38037]=`<b>ἐπι·κίρνημι</b>, <i>ion. c</i>. ἐπικεράννυμι, HÉRACLITE GRAMM. <i>All. Hom. p. 117 ; au pass</i>. HDT. <i>1, 51 ; cf</i>. PLUT. <i>M. 270a</i>.`

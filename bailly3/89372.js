@@ -1,0 +1,1 @@
+lar[89372]=`<i>adv</i>., à la façon <i>ou</i> dans la langue des Sarrasins (Σαρακηνοί) <i>pple arabe,</i> SYN. <i>Febr. p. 76, 120</i>.`

@@ -1,0 +1,1 @@
+lar[81162]=`<font color="darkgreen">(<i>seul. prés</i>. PLAT. <i>Rsp. 388a, impf</i>. ἐπλώϊζον, THC. <i>1, 13 et impf. itér. 3 sg</i>. πλωΐζεσκεν, HÉS. <i>O. 632</i>)</font> naviguer.<br><b><i>Moy.</i></b> (<i>seul. part. prés.) m. sign</i>. STR. <i>791</i> ; LUC. <i>H. conscr. 62 ; V.H. 26</i>.<p><b>Étym</b>. πλώω.`

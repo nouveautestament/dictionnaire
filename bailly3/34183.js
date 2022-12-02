@@ -1,0 +1,1 @@
+lar[34183]=`<b>ἐν·διατίθημι</b>, disposer dans, PLOT. <i>Enn. 2, 943 Creuz</i>.`

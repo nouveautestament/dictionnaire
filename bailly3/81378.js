@@ -1,0 +1,1 @@
+lar[81378]=`<b>ου</b>, <i>dor</i>. <b>-ω</b> <font color="purple">[κῐ]</font> Pœkilios, <i>h</i>. ANTH. <i>App. 147</i>.<p><b>Étym</b>. ποικίλος.`

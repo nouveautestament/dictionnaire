@@ -1,0 +1,1 @@
+lar[62631]=`<b>μαλακο·ειδής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> d’apparence molle, DRAC. <i>141</i>.<p><b>Étym</b>. μ. εἶδος.`

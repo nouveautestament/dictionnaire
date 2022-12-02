@@ -1,0 +1,1 @@
+lar[87783]=`<b>πυργο·δόμος, ος, ον</b>, qui construit des tours, NONN. <i>D. 5, 67 ; 44, 41</i>.<p><b>Étym</b>. π. δέμω.`

@@ -1,0 +1,1 @@
+lar[66162]=`<b>(ἡ)</b> <font color="purple">[νᾰ]</font> Mnasylla, <i>f</i>. ANTH. <i>7, 730</i>.`

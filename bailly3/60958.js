@@ -1,0 +1,1 @@
+lar[60958]=`<b>ος, ον</b> <font color="purple">[ῐῑ]</font> <i>c</i>. Λιβυστικός EL. <i>N.A. 17, 41, etc.</i> ; οἱ Λ. EL. <i>N.A. 14, 14,</i> les Libyens.`

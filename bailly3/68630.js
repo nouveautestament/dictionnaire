@@ -1,0 +1,1 @@
+lar[68630]=`<b>ῖδος (ἡ)</b> <font color="purple">[ῑδ]</font> petite île, îlot, HDT. <i>8, 76, 95</i> ; PLUT. <i>Alex. 60, Ant. 19</i> ; ANTH. <i>6, 89, etc</i>.<p><b>Étym</b>. νῆσος.`

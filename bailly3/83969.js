@@ -1,0 +1,1 @@
+lar[83969]=`<b>προ·διέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> -διῆλθον, <i>etc</i>.) :</font><br><b>      1</b> parcourir <i>ou</i> traverser auparavant, <i>acc</i>. HPC. <i>Acut. 395, etc. ; fig</i>. XÉN. <i>Cyn. 1, 47</i>.<br><b>      2</b> donner d’abord des explications sur, <i>acc</i>. DS. <i>1, 9</i> ; περί <i>et le gén</i>. DS. <i>3, 11</i>.`

@@ -1,0 +1,1 @@
+lar[94058]=`<b>συμ·παραγγέλλω</b>, soutenir la candidature de qqn, DH. <i>10, 58</i> ; PLUT. <i>Crass. 7</i>.`

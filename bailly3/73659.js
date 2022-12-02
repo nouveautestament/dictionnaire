@@ -1,0 +1,1 @@
+lar[73659]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰν]</font><br><b>      1</b> du ciel, céleste, MAN. <i>4, 273</i>.<br><b>      2</b> du palais de la bouche, NIC. <i>Al. 16</i>.<p><b>Étym</b>. οὐρανός.`

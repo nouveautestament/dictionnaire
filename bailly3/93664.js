@@ -1,0 +1,1 @@
+lar[93664]=`<b>συ·ζητέω-ῶ :<br>      1</b> faire des recherches avec : τινι, PLAT. <i>Crat. 384c</i>, avec qqn ; τινι περί τινος, PLAT. <i>Men. 90b</i>, avec qqn sur qqe ch.<br><b>      2</b> discuter avec : τινι, NT. <i>Ap. 6, 9 ; ou</i> πρός τινα, NT. <i>Ap. 9, 29 ; Marc. 1, 27,</i> avec qqn.`

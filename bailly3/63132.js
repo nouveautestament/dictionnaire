@@ -1,0 +1,1 @@
+lar[63132]=`<font color="purple">[μᾰ]</font> parler <i>ou</i> agir vainement <i>ou</i> sottement, ESCHL. <i>Ag. 995</i> ; SOPH. <i>O.R. 891</i>.<p><b>Étym</b>. <i>contr. de</i> ματαΐζω.`

@@ -1,0 +1,1 @@
+lar[1702]=`<b>ἀεί·σοος, ος, ον</b>, sauvé pour toujours, NONN. <i>Jo. 112, 28</i>.<p><b>Étym</b>. ἀ. σόος.`

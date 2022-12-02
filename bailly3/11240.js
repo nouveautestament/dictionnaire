@@ -1,0 +1,1 @@
+lar[11240]=`<b>ἀπ·αναισχυντέω-ῶ</b>, rejeter toute pudeur, DÉM. <i>850, 17</i> ; ἀπ. ὡς, PLAT. <i>Ap. 31c</i>, avoir l’impudence de soutenir que.`

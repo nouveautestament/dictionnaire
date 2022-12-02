@@ -1,0 +1,1 @@
+lar[22359]=`<b>οῦ (ὁ) :<br>      1</b> parent par le sang, IL. <i>3, 174</i> ; A.RH. <i>2, 1162, etc.</i><br><b>      2</b> <i>particul. (s.-e</i>. φράτωρ) frère consanguin, frère (<i>cf</i>. ἀδελφός <i>et lat</i>. germanus), IL. <i>15, 350 ; 22, 234</i>.<p><b>Étym</b>. γιγνώσκω.`

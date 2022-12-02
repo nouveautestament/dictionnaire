@@ -1,0 +1,1 @@
+lar[100076]=`<b>τριακοντά·κλινος, ος, ον</b> <font color="purple">[ᾱῑ]</font> à trente lits de table, PLUT. <i>M. 679b ;</i> ATH. <i>541c</i>.<p><b>Étym</b>. τρ. κλίνη.`

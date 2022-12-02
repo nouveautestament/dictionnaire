@@ -1,0 +1,1 @@
+lar[20655]=`<b>ου</b> <font color="purple">[μᾰ]</font> <i>adj. m. c</i>. βράστης, POSIDON. (DL. <i>7, 154).</i><p><b>Étym</b>. βράσμα.`

@@ -1,0 +1,1 @@
+lar[98393]=`<b>ῶν (οἱ)</b> les Termiles, <i>Crétois établis en Lycie par Sarpédon,</i> HDT. <i>1, 173 ; 7, 92, etc</i>.`

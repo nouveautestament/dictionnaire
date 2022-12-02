@@ -1,0 +1,1 @@
+lar[16528]=`<i>adv</i>., sans coordination, sans ordre, PLUT. <i>Nic. 3</i>.`

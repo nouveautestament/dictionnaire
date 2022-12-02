@@ -1,0 +1,1 @@
+lar[90002]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> préparé avec du sésame, XÉN. <i>An. 4, 4, 13</i> ; STR. <i>742</i> ; DIOSC. <i>1, 41</i>.<p><b>Étym</b>. σησάμη.`

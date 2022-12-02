@@ -1,0 +1,1 @@
+lar[28088]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui convient au pouvoir absolu <i>ou</i> au possesseur d’un pouvoir absolu, <i>p. opp. à</i> πολιτικός, ARSTT. <i>Pol. 2, 10</i> ; ὀλιγαρχία δ. ARSTT. <i>Pol. 4, 14,</i> oligarchie exerçant un pouvoir absolu ; <i>cf</i>. PLUT. <i>M. 818a, etc</i>.<p><b>Étym</b>. δυναστεύω.`

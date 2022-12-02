@@ -1,0 +1,1 @@
+lar[42882]=`<b>εὔ·ορμος, ος, ον :<br>      1</b> qui offre un bon port, IL. <i>21, 23</i> ; OD. <i>4, 358, etc.</i> ; HÉS. <i>Sc. 207</i> ; SOPH. <i>Ph. 221, etc.</i><br><b>      2</b> qui trouve un bon port, ANTH. <i>10, 4</i>.<p><b>Étym</b>. εὖ, ὅρμος.`

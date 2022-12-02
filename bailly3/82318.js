@@ -1,0 +1,1 @@
+lar[82318]=`<b>πολύ·πυλος, ος, ον</b> <font color="purple">[ῠῠ]</font> à plusieurs portes, DS. <i>1, 45</i>.<p><b>Étym</b>. π. πύλη.`

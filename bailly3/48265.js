@@ -1,0 +1,1 @@
+lar[48265]=`<b>ου (ὁ)</b> Iardanos, <i>roi de Lydie, père d’Omphale,</i> HDT. <i>1, 7</i>.`

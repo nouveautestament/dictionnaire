@@ -1,0 +1,1 @@
+lar[56902]=`<b>κοννέω-ῶ</b> (<i>seul. prés</i>.) connaître, ESCHL. <i>Suppl. 164, 174</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

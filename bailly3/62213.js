@@ -1,0 +1,1 @@
+lar[62213]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰᾰ]</font> chevalet d’un instrument à cordes, PHILSTR. <i>V. soph. 1, 7, p. 487</i>.`

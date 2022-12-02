@@ -1,0 +1,1 @@
+lar[98349]=`<b>τερατουργέω-ῶ</b> <font color="purple">[ᾰ]</font> accomplir des prodiges, SYN. <i>20a, etc</i>.<p><b>Étym</b>. τερατουργός.`

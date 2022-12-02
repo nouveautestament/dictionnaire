@@ -1,0 +1,1 @@
+lar[106787]=`<b>(ὁ)</b> Phrasias, <i>h</i>. XÉN. <i>An. 6, 5, 11</i> ; DÉM. <i>Or. 52, 3, 4, 7 Baiter-Sauppe</i>.<p><b>Étym</b>. φράζω.`

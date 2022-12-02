@@ -1,0 +1,1 @@
+lar[93444]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> commotion, SEXT. <i>M. 9, 170</i>.<p><b>Étym</b>. συγκινέω.`

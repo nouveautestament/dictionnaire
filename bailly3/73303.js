@@ -1,0 +1,1 @@
+lar[73303]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> <i>sorte de gâteau,</i> PLIN. <i>H.N. 37, 65</i>.<p><b>Étym</b>. ὄστρακον.`

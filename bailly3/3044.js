@@ -1,0 +1,1 @@
+lar[3044]=`<b>ἀ·καθυπερτέρητος, ος, ον</b>, au-dessus duquel on ne peut s’élever, PTOL.<p><b>Étym</b>. ἀ. κατυπερτερέω.`

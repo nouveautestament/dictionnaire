@@ -1,0 +1,1 @@
+lar[27188]=`<b>διχό·βουλος, ος, ον</b> <font color="purple">[ῐ]</font> jaloux, ennemi, PD. <i>O. 8, 114</i>.<p><b>Étym</b>. δίχα, βουλή.`

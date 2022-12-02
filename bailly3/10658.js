@@ -1,0 +1,1 @@
+lar[10658]=`<b>ἀντ·ορύσσω :<br>      1</b> faire une contre-mine, HDT. <i>4, 200</i>.<br><b>      2</b> arracher en fouillant, PAUS. <i>3, 14, 10</i>.`

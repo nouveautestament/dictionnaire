@@ -1,0 +1,1 @@
+lar[1423]=`<b>ἀδικο·δοξία, ας (ἡ)</b> <font color="purple">[ᾰδῐ]</font> gloire cherchée par des moyens iniques, POL. <i>23, 16, 7</i>.`

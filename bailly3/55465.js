@@ -1,0 +1,1 @@
+lar[55465]=`<b>ή, όν</b>, des Cimmériens <i>de la Chersonèse Taurique,</i> ESCHL. <i>Pr. 730</i>.<p><b>Étym</b>. Κιμμέριοι.`

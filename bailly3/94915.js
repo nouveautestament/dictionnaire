@@ -1,0 +1,1 @@
+lar[94915]=`<b>συν·αποσπάω-ῶ</b>, arracher avec <i>ou</i> en même temps, <i>au pass</i>. APD. <i>2, 7, 7</i>.`

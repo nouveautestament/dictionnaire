@@ -1,0 +1,1 @@
+lar[91177]=`<b>σκορπιο·κτόνον, ου (τὸ)</b> <i>litt</i>. « la mort aux scorpions », <i>autre n. de la plante</i> σκορπίουρον, DIOSC. <i>4, 193</i>.<p><b>Étym</b>. σκ. κτείνω.`

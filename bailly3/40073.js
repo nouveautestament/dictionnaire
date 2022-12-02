@@ -1,0 +1,1 @@
+lar[40073]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec douleur, HPC. <i>Epid. 1, 975</i>.`

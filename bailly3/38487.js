@@ -1,0 +1,1 @@
+lar[38487]=`<b>ἐπι·μυλίς, ίδος (ἡ)</b> <font color="purple">[ῠ]</font> rotule, articulation du genou, HPC. <i>Mochl. 841 ; cf</i>. ἐπιγονατίς.<p><b>Étym</b>. ἐπί, μύλη.`

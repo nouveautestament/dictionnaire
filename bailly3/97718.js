@@ -1,0 +1,1 @@
+lar[97718]=`<i>adv</i>., en venant de Tarse, LUC. <i>Pseud. 20</i>.<p><b>Étym</b>. Ταρσός, -θεν.`

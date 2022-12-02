@@ -1,0 +1,1 @@
+lar[13901]=`<b>ἀ·πρόγραφος, ος, ον</b> <font color="purple">[ᾰφ]</font> non écrit publiquement, HYPÉR. (POLL. <i>6, 144).</i><p><b>Étym</b>. ἀ, προγράφω.`

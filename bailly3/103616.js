@@ -1,0 +1,1 @@
+lar[103616]=`<b>ὑπο·νοσέω-ῶ</b>, être un peu malade, HPC. <i>514, 51</i> ; LUC. <i>Tox. 29 ; en gén</i>. être malade, HPC. <i>Epid. 1, 941</i>.`

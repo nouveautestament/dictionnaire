@@ -1,0 +1,1 @@
+lar[15466]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀρυτήρ, SOPH. <i>fr. 703</i>.`

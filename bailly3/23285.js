@@ -1,0 +1,1 @@
+lar[23285]=`<i>gén. épq</i>. <b>εω (ὁ)</b> <font color="purple">[ῠ]</font> Daskyles, <i>h</i>. ANTH. <i>7, 709</i>.`

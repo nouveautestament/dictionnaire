@@ -1,0 +1,1 @@
+lar[49155]=`<b>ἰο·τόκος, ος, ον</b> <font color="purple">[ῑ]</font> qui engendre du venin, venimeux, OPP. <i>C. 3, 73</i>.<p><b>Étym</b>. ἰός², τίκτω.`

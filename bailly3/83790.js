@@ -1,0 +1,1 @@
+lar[83790]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. προβιβασμός NICOM. <i>Harm. 24</i>.`

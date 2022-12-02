@@ -1,0 +1,1 @@
+lar[101333]=`<b>(ὁ)</b> Hybréas, <i>h</i>. PLUT. <i>Ant. 24, etc</i>.<p><b>Étym</b>. ὕβρις.`

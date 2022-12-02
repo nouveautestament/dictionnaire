@@ -1,0 +1,1 @@
+lar[93351]=`<b>συγ·καταποντόω-ῶ</b>, précipiter ensemble dans la mer, SEXT. <i>M. 5, 92</i>.`

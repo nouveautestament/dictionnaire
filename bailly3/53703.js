@@ -1,0 +1,1 @@
+lar[53703]=`<b>κατα·φύω</b>, planter, <i>d’où pf. au sens intr</i>. καταπέφυκα, être produit, PLUT. <i>M. 442</i>.`

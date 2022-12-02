@@ -1,0 +1,1 @@
+lar[9663]=`<b>ἀντ·επίρρημα, ατος (τὸ)</b> partie de la parabase, <i>dans l’ancienne comédie grecque,</i> HÉPH. <i>14, 3</i>.`

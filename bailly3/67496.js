@@ -1,0 +1,1 @@
+lar[67496]=`<b>ας (ἡ)</b> grimace, moquerie, EL. <i>V.H. 3, 19</i>.<p><b>Étym</b>. μῶκος.`

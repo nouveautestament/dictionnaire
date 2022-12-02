@@ -1,0 +1,1 @@
+lar[43083]=`<b>εὐποτμέω-ῶ</b>, avoir un heureux sort, être heureux, PLUT. <i>Æmil. 26</i>.<p><b>Étym</b>. εὔποτμος.`

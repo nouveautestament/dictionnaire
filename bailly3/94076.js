@@ -1,0 +1,1 @@
+lar[94076]=`<b>συμ·παρακύπτω</b>, se pencher ensemble pour regarder, LUC. <i>Ic. 25</i>.`

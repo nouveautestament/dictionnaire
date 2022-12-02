@@ -1,0 +1,1 @@
+lar[89948]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> couvert de tombeaux, ANTH. <i>7, 628</i>.<p><b>Étym</b>. σῆμα.`

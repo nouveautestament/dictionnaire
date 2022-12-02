@@ -1,0 +1,1 @@
+lar[25759]=`<b>δια·τορέω-ῶ</b> <font color="darkgreen">(<i>ao. pass. inf</i>. -ηθῆναι)</font> percer, SOPH. <i>fr. 295 conj</i>.`

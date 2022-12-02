@@ -1,0 +1,1 @@
+lar[55580]=`<b>ου (τὸ)</b> chardon qu’on employait pour guérir les varices, DIOSC. <i>4, 119</i>.<p><b>Étym</b>. κιρσός.`

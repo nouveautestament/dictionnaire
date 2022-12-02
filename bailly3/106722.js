@@ -1,0 +1,1 @@
+lar[106722]=`<b>φορτ·αγωγός, ός, όν</b> <font color="purple">[ᾰ]</font> qui sert à transporter des fardeaux, une charge, des marchandises, <i>particul.</i> : ναῦς, SCH.-OD. <i>5, 250,</i> vaisseau de transport.<p><b>Étym</b>. φόρτος, ἄγω.`

@@ -1,0 +1,1 @@
+lar[56755]=`<b>ος, ον</b>, de Colchide, PLAT. <i>Euthyd. 285c ;</i> A.RH. <i>4, 485</i> ; οἱ Κόλχοι, PD. <i>P. 4, 376</i> ; HDT. <i>2, 104</i> ; XÉN. <i>An. 4, 8, 8 et 9</i> ; EUR. <i>Med. 2,</i> les habitants de la Colchide.<p><b>Étym</b>. <i>v</i>. Κολχίς.`

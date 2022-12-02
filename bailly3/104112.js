@@ -1,0 +1,1 @@
+lar[104112]=`<b>ὑπο·φλεγμαίνω</b>, s’enflammer un peu <i>ou</i> être un peu enflammé, ORIB. <i>286 Matthäi</i>.`

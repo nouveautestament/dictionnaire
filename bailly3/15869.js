@@ -1,0 +1,1 @@
+lar[15869]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Asios, <i>n. de deux guerriers,</i> IL. <i>2, 837, etc. ; 16, 717</i>.`

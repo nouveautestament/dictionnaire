@@ -1,0 +1,1 @@
+lar[54218]=`<b>ύος (ἡ)</b> morceau de cuir pour ressemeler, AR. <i>fr. 276</i>.`

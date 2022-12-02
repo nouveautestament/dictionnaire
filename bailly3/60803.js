@@ -1,0 +1,1 @@
+lar[60803]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. Λήμνιος A.RH. <i>1, 653, etc.</i> ; LUC. <i>Am. 2, etc</i>.<p>➳ <i>Dat. pl. épq</i>. Λημνιάδεσσιν, NONN. <i>D. 2, 766</i> ; ORPH. <i>Arg. 479. Dor</i>. Λαμνιάς, PD. <i>O. 4, 32</i>.`

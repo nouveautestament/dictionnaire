@@ -1,0 +1,1 @@
+lar[34585]=`<b>ἐν·θυσιάζω</b> <font color="purple">[ῠ]</font> sacrifier dans <i>ou</i> sur, SIB. <i>5, 355</i>.`

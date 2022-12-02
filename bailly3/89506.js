@@ -1,0 +1,1 @@
+lar[89506]=`<i>adv</i>., d’une façon satanique, NYSS. <i>3, 313 Migne</i>.`

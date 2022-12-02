@@ -1,0 +1,1 @@
+lar[65854]=`<b>ου (ὁ)</b> Mimnerme, <i>poète élégiaque</i>.`

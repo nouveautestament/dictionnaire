@@ -1,0 +1,1 @@
+lar[5762]=`rendre informe, ANTIM. <i>72 Kinkel</i>.<p><b>Étym</b>. ἄμορφος.`

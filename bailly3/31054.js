@@ -1,0 +1,1 @@
+lar[31054]=`<b>ἑκατοντ·όργυιος, ος, ον</b> <font color="purple">[ᾰ]</font> de cent brasses, PD. <i>fr. 110</i>.<p><b>Étym</b>. ἑ. ὀργυιά.`

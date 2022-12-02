@@ -1,0 +1,1 @@
+lar[15327]=`<b>ἀρτί·γνωστος, ος, ον</b>, nouvellement connu, APP. <i>Civ. 3, 12</i>.<p><b>Étym</b>. ἄ. γιγνώσκω.`

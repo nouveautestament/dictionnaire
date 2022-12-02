@@ -1,0 +1,1 @@
+lar[32722]=`<b>ἐλευθερό·στομος, ος, ον</b>, qui parle librement <i>ou</i> avec franchise, ESCHL. <i>Suppl. 948</i>.<p><b>Étym</b>. ἐ. στόμα.`

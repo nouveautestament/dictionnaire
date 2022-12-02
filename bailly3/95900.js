@@ -1,0 +1,1 @@
+lar[95900]=`<b>συνηρεφέω-ῶ :<br>      1</b> couvrir d’un ombrage épais, <i>fig</i>. obscurcir, aveugler, EUR. <i>Phaëth. fr. 773, 3 Nauck</i>.<br><b>      2 <i>intr.</i></b> se couvrir d’ombrages épais, TH. <i>H.P. 6, 1, 3</i>.<p><b>Étym</b>. συνηρεφής.`

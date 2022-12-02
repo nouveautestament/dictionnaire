@@ -1,0 +1,1 @@
+lar[75852]=`<b>ορος (ὁ)</b> qui reçoit par transmission, HERM. (STOB. <i>Ecl. phys. p. 932).</i><p><b>Étym</b>. παραλαμβάνω.`

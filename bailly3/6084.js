@@ -1,0 +1,1 @@
+lar[6084]=`<b>ἀμφιγνωμονέω-ῶ</b>, douter, être incertain, BAS.<p><b>Étym</b>. ἀ. γνώμων.`

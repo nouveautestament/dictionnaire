@@ -1,0 +1,1 @@
+lar[7121]=`<i>adv</i>., proportionnellement <i>ou</i> par analogie, NYSS. <i>2, 211, etc</i>.`

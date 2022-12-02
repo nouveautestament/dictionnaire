@@ -1,0 +1,1 @@
+lar[40576]=`<b>οῦ (ὁ)</b> action de soutenir, d’appuyer, HPC. <i>Fract. 770</i>.<p><b>Étym</b>. ἑρμάζω.`

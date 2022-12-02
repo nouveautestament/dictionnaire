@@ -1,0 +1,1 @@
+lar[101520]=`<b>εως (ἡ)</b> action d’arroser, TH. <i>C.P. 3, 9, 5</i>.<p><b>Étym</b>. ὑδρεύω.`

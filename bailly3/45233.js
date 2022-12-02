@@ -1,0 +1,1 @@
+lar[45233]=`<b>ἡλιό·μορφος, ος, ον</b>, de la forme du soleil, POÈT. (ATH. <i>542e</i>).<p><b>Étym</b>. ἥ. μορφή.`

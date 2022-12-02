@@ -1,0 +1,1 @@
+lar[36585]=`<b>ἐπ·αναθεάομαι-εῶμαι</b>, voir <i>ou</i> examiner de nouveau, XÉN. <i>Cyr. 5, 4, 11</i>.`

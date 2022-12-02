@@ -1,0 +1,1 @@
+lar[50805]=`<b>κακο·παθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui souffre de mauvais traitements, malheureux, PHIL. BYZ. <i>p. 56</i>.<p><b>Étym</b>. κ. πάσχω.`

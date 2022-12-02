@@ -1,0 +1,1 @@
+lar[56689]=`<b>άδος</b>, <i>adj. f</i>. apprêtée avec de la citrouille, ANTH. <i>11, 371</i>.<p><b>Étym</b>. κολοκύνθη.`

@@ -1,0 +1,1 @@
+lar[42765]=`<b>ων (τὰ)</b> couche, lit, APP. <i>Civ. 5, 117</i>.<p><b>Étym</b>. εὐνή.`

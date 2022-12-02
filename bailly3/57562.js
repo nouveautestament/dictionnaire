@@ -1,0 +1,1 @@
+lar[57562]=`<b>ων (οἱ) :<br>      1</b> Kranies (<i>auj</i>. ruines près d’Argostóli) <i>v. de Céphallénie,</i> THC. <i>5, 35, etc.</i><br><b>      2</b> habitants de Kranies, THC.`

@@ -1,0 +1,1 @@
+lar[25980]=`<b>δί·γαμμα (τὸ)</b> <i>indécl</i>. digamma <i>ou</i> double gamma, <i>ancien</i> ϝ <i>grec ayant le son du w anglais,</i> DYSC. <i>Pron. 358b ;</i> DH. <i>20 ; etc</i>.<p><b>Étym</b>. δίς, γάμμα.`

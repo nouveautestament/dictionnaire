@@ -1,0 +1,1 @@
+lar[39431]=`<font color="purple">[τῑμ]</font> <i>adv</i>., d’un caractère grondeur, CHRYS. <i>2, 326</i>.`

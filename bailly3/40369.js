@@ -1,0 +1,1 @@
+lar[40369]=`<b>ἐρημο·νόμος, ος, ον</b>, qui paît <i>ou</i> vit dans les lieux solitaires, <i>d’où</i> sauvage, A.RH. <i>4, 1333</i> ; ANTH. <i>6, 184</i>.<p><b>Étym</b>. ἔ. νέμω.`

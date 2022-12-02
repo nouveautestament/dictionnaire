@@ -1,0 +1,1 @@
+lar[57153]=`<b>οῦ (ὁ)</b> Korydallos :<br><b>      1</b> <i>dème attique de la tribu Hippothoontide,</i> TH. (ATH. <i>390b</i>).<br><b>      2</b> <i>h</i>. HDT. <i>7, 214</i>.`

@@ -1,0 +1,1 @@
+lar[43707]=`<b>οῦ (ὁ)</b> euphémisme, emploi d’un mot favorable au lieu d’un mot de mauvais augure, <i>p. ex</i>. Εὐμενίδες <i>p</i>. Ἐρινύες <i>(v. ces mots)</i> HERMOG. <i>Prog. 36</i> ; D. PHAL. <i>114, 18</i> ; κατ' εὐφημισμόν, CORN. <i>119,</i> par euphémisme.<p><b>Étym</b>. εὐφημίζω.`

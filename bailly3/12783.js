@@ -1,0 +1,1 @@
+lar[12783]=`<b>ἀ·πολίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui n’est pas citoyen, THPP. (POLL. <i>3, 58</i>).`

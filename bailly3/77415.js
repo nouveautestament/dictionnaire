@@ -1,0 +1,1 @@
+lar[77415]=`<i>gén</i>. <b>ωος</b> <i>et</i> <b>ω</b>, <i>dat</i>. <b>ῳ</b>, <i>acc</i>. <b>ωα</b> <i>et</i> <b>ων</b> ; <i>plur</i>. <b>ωες</b>, <i>etc. sel. la 3<sup>e</sup> décl</i>. (ὁ) frère du père, oncle paternel, PD. <i>P. 6, 46</i> ; HDT. <i>4, 76 ; 6, 103, etc</i>.<p><b>Étym</b>. πατήρ, <i>cf</i>. μήτρως.`

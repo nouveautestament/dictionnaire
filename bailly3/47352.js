@@ -1,0 +1,1 @@
+lar[47352]=`<b>θησαυρο·μανία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> manie de thésauriser, TAT. <i>Or. ad Græc. 22, c. 856b Migne</i>.<p><b>Étym</b>. θησαυρός, μ.`

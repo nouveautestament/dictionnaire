@@ -1,0 +1,1 @@
+lar[88260]=`<b>(ὁ)</b> Rhambakas, <i>Mède,</i> XÉN. <i>Cyr. 5, 3, 42</i>.`

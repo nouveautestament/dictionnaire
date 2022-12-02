@@ -1,0 +1,1 @@
+lar[59889]=`<b>λαρνακό·γυιος, ος, ον</b> <font color="purple">[νᾰ]</font> aux jambes torses (Pan) ANTH. <i>15, 21</i>.<p><b>Étym</b>. λάρναξ, γυῖον.`

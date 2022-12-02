@@ -1,0 +1,1 @@
+lar[64654]=`<font color="purple">[ᾰᾰ]</font> <i>adv.</i> :<br><b>      1</b> en se déplaçant, PHIL. <i>1, 176, etc.</i> ; PLUT. <i>M. 896a ;</i> CLÉM. <i>487</i>.<br><b>      2</b> <i>t. de gr</i>. transitivement, DYSC. <i>Pron. 315c</i>.`

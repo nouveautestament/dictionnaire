@@ -1,0 +1,1 @@
+lar[96572]=`<b>σύρροος-ους, οος-ους, οον-ουν</b>, qui coule avec, qui unit son cours à <i>ou</i> se réunit, en coulant, avec, <i>dat</i>. T. LOCR. <i>101e, 104a ;</i> POL. <i>10, 10, 12</i> ; ὁ σ. ARSTT. <i>H.A. 10, 7, 12,</i> confluent.<p><b>Étym</b>. συρρέω.`

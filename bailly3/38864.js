@@ -1,0 +1,1 @@
+lar[38864]=`<b>ἐπι·ρραπίζω</b> <font color="purple">[ᾰ]</font> frapper avec une baguette <i>ou</i> comme avec une baguette : τὸ πῦρ, DH. <i>1, 59,</i> le feu ; ἐπ. τινὰ κατὰ κόρρης, ARISTÉN. <i>1, 4,</i> frapper qqn à la tempe ; <i>fig</i>. blâmer, réprimander, ATH. <i>168f, 422c</i>.<p><b>Étym</b>. ἐπί, ῥαπίζω.`

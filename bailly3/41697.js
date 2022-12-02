@@ -1,0 +1,1 @@
+lar[41697]=`<b>εὐβλαστέω-ῶ :<br>      1 <i>intr.</i></b> croître avec abondance <i>ou</i> force, TH. <i>C.P. 1, 20, 5</i>.<br><b>      2 <i>tr.</i></b> faire croître vigoureusement, TH. <i>C.P. 4, 3, 3</i>.<p><b>Étym</b>. εὖ, βλαστάνω.`

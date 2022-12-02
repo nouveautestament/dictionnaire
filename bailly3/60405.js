@@ -1,0 +1,1 @@
+lar[60405]=`<b>λεπτό·δερμος, ος, ον</b>, qui a la peau mince, fine, HPC. <i>487, 20 ; 557, 18</i>.<p>•<i> Sup</i>. -ότατος, ARSTT. <i>Probl. 10, 5, P.A. 2, 18, 3, etc</i>.<p><b>Étym</b>. λ. δέρμα.`

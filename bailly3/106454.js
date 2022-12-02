@@ -1,0 +1,1 @@
+lar[106454]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> frivole, vain, PLUT. <i>Lyc. 6 ; M. 615a</i>.<p><b>Étym</b>. φλύαρος, -ωδης.`

@@ -1,0 +1,1 @@
+lar[1946]=`<font color="purple">[θᾱ]</font> <i>dor. c</i>. Ἀθήνησι.`

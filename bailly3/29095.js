@@ -1,0 +1,1 @@
+lar[29095]=`<b>δωδεκα·όργυιος, ος, ον</b>, de douze brasses, HÉRON <i>vol. 1, p. 190 F. Hultsch, <i>Metrologicorum scriptorum reliquiæ</i></i>.<p><b>Étym</b>. δ. ὄργυια.`

@@ -1,0 +1,1 @@
+lar[4110]=`<b>ἁλατο·πωλία, ας (ἡ)</b> <font color="purple">[ᾰᾰτ]</font> vente de sel, ARSTT. <i>Œc. 2, 2, 3</i>.<p><b>Étym</b>. ἅλας, πωλέω.`

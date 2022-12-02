@@ -1,0 +1,1 @@
+lar[51009]=`<b>ου (ὁ)</b> <font color="purple">[κᾰ]</font> calandre, <i>sorte d’alouette</i>, OPP. <i>Ix</i>. 3,15.`

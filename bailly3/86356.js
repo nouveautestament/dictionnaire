@@ -1,0 +1,1 @@
+lar[86356]=`<b>πρόσ·πολος, ου (ὁ, ἡ) :<br>      1</b> serviteur, servante, SOPH. <i>O.C. 897, 1553</i> ; EUR. <i>Or. 106, etc. ; au fém</i>. SOPH. <i>El. 78, O.R. 945, O.C. 746, etc.</i><br><b>      2</b> <i>particul</i>. ministre <i>ou</i> prêtresse d’un temple, ESCHL. <i>Eum. 1024</i> ; SOPH. <i>O.C. 1053</i> ; EUR. <i>Suppl. 2, etc</i>.<p><b>Étym</b>. π. πέλω.`

@@ -1,0 +1,1 @@
+lar[47813]=`<i>ou</i> <b>θυΐα, ας (ἡ) :<br>      1</b> mortier, vase à piler, AR. <i>Nub. 676, etc.</i><br><b>      2</b> bassin pour jouer au cottabe, PLAT. COM. <i>2-2, 630 Mein</i>.<p>➳ <i>Ion</i>. θυείη, HPC. <i>de int. aff. 5, 574, etc</i>.<p><b>Étym</b>. θύος, <i>cf</i>. θυΐα.`

@@ -1,0 +1,1 @@
+lar[73614]=`<b>ου (ὁ)</b> Vologèse, <i>roi parthe,</i> LUC. <i>H. conscr. 14</i>.`

@@ -1,0 +1,1 @@
+lar[60775]=`<b>α, ον</b>, borné de tous côtés, <i>en parl. d’une île,</i> LYC. <i>966, 1391</i>.<p><b>Étym</b>. λήγω.`

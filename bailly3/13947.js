@@ -1,0 +1,1 @@
+lar[13947]=`<b>ἀ·προσεκτέω-ῶ</b>, ne pas faire attention, être négligent, ORIG. <i>2, 1160a</i>.<p><b>Étym</b>. ἀ, *πρόσεκτος, <i>vb. de</i> προσέχω.`

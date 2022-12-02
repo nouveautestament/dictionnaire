@@ -1,0 +1,1 @@
+lar[97374]=`<b>ταινιο·ειδής, ής, ές</b>, en forme de bandelette <i>ou</i> de ruban, HPC. <i>Art. 813</i> ; TH. <i>H.P. 4, 6, 2</i>.<p><b>Étym</b>. ταινία, εἶδος.`

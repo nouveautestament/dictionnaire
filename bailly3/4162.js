@@ -1,0 +1,1 @@
+lar[4162]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> pêche, ARSTT. <i>Œc. 2, 4, 6 dout.</i> ; HDN <i>3, 1, etc</i>.<p><b>Étym</b>. <i>p</i>. ἀλιεία.`

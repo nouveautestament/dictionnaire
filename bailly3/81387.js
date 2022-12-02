@@ -1,0 +1,1 @@
+lar[81387]=`<b>ποικιλό·γραμμος, ος, ον</b> <font color="purple">[ῐ]</font> aux lignes de couleurs variées, ARSTT. (ATH. <i>327f</i>).<p><b>Étym</b>. π. γραμμή.`

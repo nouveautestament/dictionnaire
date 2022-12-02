@@ -1,0 +1,1 @@
+lar[9037]=`<b>ἀν·ιάομαι</b> <font color="darkgreen">(<i>seul. 3 pl. prés. ion</i>. ἀνιεῦνται)</font> guérir, soulager, HDT. <i>7, 236</i>.<p><b>Étym</b>. ἀνά, ἰάομαι.`

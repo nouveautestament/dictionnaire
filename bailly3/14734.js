@@ -1,0 +1,1 @@
+lar[14734]=`<b>Ἀριστό·νικος, ου (ὁ)</b> Aristonikos, <i>h</i>. DÉM. <i>18, 83 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀριστόνικος.`

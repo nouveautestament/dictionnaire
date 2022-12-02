@@ -1,0 +1,1 @@
+lar[55584]=`<b>οῦ (ὁ)</b> varice, gonflement des veines, GAL. <i>2, 275 ; 7, 321</i>.`

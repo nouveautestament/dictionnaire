@@ -1,0 +1,1 @@
+lar[59756]=`<b>(ὁ)</b> coup de dés, EUB. (POLL. <i>7, 205</i>).`

@@ -1,0 +1,1 @@
+lar[20944]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> vigne-blanche, <i>plante grimpante,</i> NIC. <i>Th. 939</i>.<p><b>Étym</b>. βρύω.`

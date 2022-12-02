@@ -1,0 +1,1 @@
+lar[67464]=`souffler par le nez en fermant les lèvres, <i>d’où</i> :<br><b>      1</b> se plaindre, soupirer, THCR. <i>Idyl. 20, 13</i>.<br><b>      2</b> railler, ANTH. <i>5, 179</i>.<br><b>      3</b> grogner, gronder, POL. <i>15, 26, 8</i>.<p>➳ <i>Part. prés. fém. dor</i>. μυχθίζοισα, THCR. <i>l. c</i>.<p><b>Étym</b>. μύζω.`

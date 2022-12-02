@@ -1,0 +1,1 @@
+lar[74373]=`<b>ονος</b>, <i>adj. m.</i> :<br><b>      1</b> de Pæonie : οἱ Παίονες, IL. <i>21, 155</i> ; HDT. <i>5, 12, etc</i>. les Pæones (<i>v</i>. Παιονία).<br><b>      2</b> de Pannonie : οἱ Παίονες, HÉRACL. LEMB. (ATH. <i>333a</i>) les Pannoniens.<p><b>Étym</b>. <i>v</i>. Παιονία.`

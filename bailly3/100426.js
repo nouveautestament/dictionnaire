@@ -1,0 +1,1 @@
+lar[100426]=`<b>τρισ·ανάριθμος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> tout à fait innombrable, ORACL. (LEX.).`

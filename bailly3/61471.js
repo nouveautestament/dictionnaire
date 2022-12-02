@@ -1,0 +1,1 @@
+lar[61471]=`<b>ων (αἱ) :<br>      1</b> blanc de l’œil, NIC. <i>Th. 292</i>.<br><b>      2</b> <i>d’où</i> œil, ANTH. <i>5, 270</i>.`

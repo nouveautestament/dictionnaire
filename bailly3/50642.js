@@ -1,0 +1,1 @@
+lar[50642]=`<b>κακ·εργέτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. malfaisant, ATH. <i>184c</i>.<p><b>Étym</b>. κ. ἔργον.`

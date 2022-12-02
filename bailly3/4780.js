@@ -1,0 +1,1 @@
+lar[4780]=`<b>ἀλλο·ειδής, ής, ές</b>, qui a un autre aspect, OD. <i>13, 194 à l’acc. (sel. d’autres,</i> ἀλλοϊδέα <i>p</i>. *ἀλλοϝιδέα) <i>trisyll</i>.<p><b>Étym</b>. ἄ. εἶδος.`

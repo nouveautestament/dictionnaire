@@ -1,0 +1,1 @@
+lar[12432]=`<b>ἀπο·θρύπτω</b> (<i>part. pf. pass</i>. ἀποτεθρυμμένος) amollir, PLAT. <i>Rsp. 495e</i>.`

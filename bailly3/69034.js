@@ -1,0 +1,1 @@
+lar[69034]=`<b>νοτέω-ῶ</b>, être humide, NIC. <i>Th. 254</i> ; CALL. <i>Ep. 54, 2</i>.<p><b>Étym</b>. νότος.`

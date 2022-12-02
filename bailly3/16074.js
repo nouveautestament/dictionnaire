@@ -1,0 +1,1 @@
+lar[16074]=`<b>ος, ον :<br>      1</b> non ensemencé, DÉM. <i>379, 4</i> ; PLUT. <i>Alex. 66, etc.</i><br><b>      2</b> qui pousse sans culture, LUC. <i>Rh. præc. 8</i> ; NIC. (ATH. <i>684b</i>).<p><b>Étym</b>. ἀ, σπείρω.`

@@ -1,0 +1,1 @@
+lar[5071]=`moudre l’orge, HIPPON. <i>fr. 46</i>.<p><b>Étym</b>. ἄλφιτον.`

@@ -1,0 +1,1 @@
+lar[57730]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de suspendre, suspension, HPC. <i>836</i> ; ORIB. <i>p. 173 Matthäi</i>.<p><b>Étym</b>. κρεμάννυμι.`

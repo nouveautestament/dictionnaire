@@ -1,0 +1,1 @@
+lar[57877]=`<b>ης (ἡ)</b> <font color="purple">[ῑᾰ]</font> sorte de gâteau, ALCM. (ATH. <i>646a</i>).<p><b>Étym</b>. κρίβανος.`

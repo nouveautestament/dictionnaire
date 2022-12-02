@@ -1,0 +1,1 @@
+lar[38656]=`<b>ἐπι·πεντεκαιδέκατος λόγος (ὁ)</b> <font color="purple">[ᾰ]</font> proportion de ¹⁶⁄₁₅, PTOL. <i>Harm. 2, 1, p. 93 Wal</i>.`

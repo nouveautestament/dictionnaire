@@ -1,0 +1,1 @@
+lar[65734]=`<b>μικρο·πύρηνος, ος, ον</b> <font color="purple">[ῑῡ]</font> qui a un petit noyau, TH. <i>C.P. 1, 16, 2</i>.<p><b>Étym</b>. μ. πυρήν.`

@@ -1,0 +1,1 @@
+lar[64566]=`<b>μεσο·στάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> support du milieu, <i>càd</i>. montant <i>ou</i> pied-droit central (du bâti de l’engin εὐθύτονον) HÉRON <i>Bel. 26</i>.<p><b>Étym</b>. μέσος, ἵστημι.`

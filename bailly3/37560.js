@@ -1,0 +1,1 @@
+lar[37560]=`<i>d’où</i> 'πιδεύην, SAPPH. <i>2, 15 conj. ; sel. Jacobitz, impf. éol. d’un verbe inus</i>. *ἐπιδεύημι, <i>c</i>. ἐπιδέω² ; <i>sel. Schneidewin et Hermann, conj. adoptée par Bergk,</i> 'πιδεύης, <i>c</i>. ἐπιδευής.`

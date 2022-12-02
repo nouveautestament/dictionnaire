@@ -1,0 +1,1 @@
+lar[41738]=`<b>εὐ·βύριος, ος, ον</b> <font color="purple">[ῠ]</font> aux belles habitations, EUPH. <i>72</i>.<p><b>Étym</b>. εὖ, βύριον.`

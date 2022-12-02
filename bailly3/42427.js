@@ -1,0 +1,1 @@
+lar[42427]=`<b>ας (ἡ)</b> <font color="purple">[κῑ]</font><br><b>      1</b> facilité à mouvoir, mobilité extrême, ARTÉMON (ATH. <i>637e</i>) ; POL. <i>8, 28, 3 ; au plur</i>. DS. <i>3, 49</i>.<br><b>      2</b> facilité à se mouvoir, EPIC. (DL. <i>10, 63).</i><p><b>Étym</b>. εὐκίνητος.`

@@ -1,0 +1,1 @@
+lar[6128]=`(<i>seul. prés</i>.) revêtir, PLUT. <i>C. Gracch. 2</i>.<p><b>Étym</b>. <i>réfection sur l’ao</i>. ἀμφιέσαι <i>de</i> ἀμφιέννυμι ; <i>cf</i>. ἀμφιάζω.`

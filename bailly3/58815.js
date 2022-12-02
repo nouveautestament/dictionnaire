@@ -1,0 +1,1 @@
+lar[58815]=`<b>κυνο·μόριον, ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ὀροβάγχη, DIOSC. <i>Noth. 2, 172</i>.`

@@ -1,0 +1,1 @@
+lar[44857]=`(<i>seul. prés</i>.) :<br><b>      1</b> devenir jeune homme (<i>lat</i>. pubescere) HPC. <i>Aph. 1248</i> ; XÉN. <i>An. 4, 6, 1, etc.</i><br><b>      2</b> <i>p. ext</i>. devenir fort, prendre de la force, <i>fig</i>. EUR. <i>Alc. 1085</i> ; ANTH. <i>6, 30</i> ; PHILSTR. <i>p. 667</i>.<p><b>Étym</b>. ἥβη.`

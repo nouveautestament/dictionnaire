@@ -1,0 +1,1 @@
+lar[3445]=`<b>ἄ·κλυστος, ος, ον</b>, non battu des flots, LYC. <i>736</i> ; DS. <i>3, 44</i> ; PLUT. <i>Mar. 15, etc</i>.<p>➳ <i>Acc. fém. dor</i>. ἀκλύσταν, EUR. <i>I.A. 121</i>.<p><b>Étym</b>. ἀ, κλύζω.`

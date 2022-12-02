@@ -1,0 +1,1 @@
+lar[63168]=`<b>*ματία</b>, <i>ion</i>. <b>ματίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> entreprise vaine, OD. <i>10, 79</i>.<br><b>      2</b> erreur, folie, A.RH. <i>1, 805 ; 4, 367</i>.<p><b>Étym</b>. μάτα.`

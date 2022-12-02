@@ -1,0 +1,1 @@
+lar[108810]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> σφονδυλίς, DIOSC. <i>Noth. 3, 90</i>.`

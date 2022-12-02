@@ -1,0 +1,1 @@
+lar[97878]=`<b>ταχυ·βάτης, ου</b> <font color="purple">[ᾰῠᾰ]</font> <i>c</i>. ταχυβάμων EUR. <i>Rhes. 134</i>.`

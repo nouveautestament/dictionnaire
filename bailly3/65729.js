@@ -1,0 +1,1 @@
+lar[65729]=`<b>μικρο·πόνηρος, ος, ον</b> <font color="purple">[ῑ]</font> méchant dans de petites choses, ARSTT. <i>Pol. 4, 11, 5</i>.<p><b>Étym</b>. μ. πονηρός.`

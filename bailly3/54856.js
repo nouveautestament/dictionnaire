@@ -1,0 +1,1 @@
+lar[54856]=`<b>κερατ·άρχης, ου (ὁ)</b> <font color="purple">[ᾰτ]</font> commandant de 32 éléphants, EL. TACT. <i>22</i>.<p><b>Étym</b>. κέρας, ἄρχω.`

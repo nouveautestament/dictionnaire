@@ -1,0 +1,1 @@
+lar[20172]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> tout insecte bourdonnant (<i>abeille, bourdon, mouche, etc</i>.) AR. <i>Vesp. 107</i> ; ARSTT. <i>H.A. 9, 40, 2, etc.</i><br><b>      2</b> bouteille d’où le liquide sort avec un glouglou, HPC. <i>494, 55</i> ; ATH. <i>784c ;</i> LUC. <i>Lex. 7</i>.<p><b>Étym</b>. βόμβος.`

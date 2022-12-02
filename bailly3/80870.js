@@ -1,0 +1,1 @@
+lar[80870]=`<b>πλεο·μελής, ής, ές</b>, qui a des membres en plus, JAMBL. <i>Nicom. ar. p. 43</i>.<p><b>Étym</b>. πλέον, μέλος.`

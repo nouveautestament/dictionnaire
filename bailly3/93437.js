@@ -1,0 +1,1 @@
+lar[93437]=`<b>συγ·κηδεστής, οῦ (ὁ) :<br>      1</b> beau-frère, <i>quand deux frères épousent deux sœurs,</i> DS. <i>Exc. 597, 57</i>.<br><b>      2</b> beau-frère, <i>en gén</i>. DÉM. <i>949, 6</i>.`

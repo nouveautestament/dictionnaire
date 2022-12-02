@@ -1,0 +1,1 @@
+lar[100094]=`<b>ης, ες</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾱ]</font> qui dure trente ans, THC. <i>1, 23 et 115 ; 2, 2, etc</i>.<p><b>Étym</b>. τριάκοντα, ἔτος.`

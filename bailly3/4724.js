@@ -1,0 +1,1 @@
+lar[4724]=`<b>ἀλλ·επ·άλληλος, ος, ον</b>, l’un après l’autre, successif, alternatif, PAUS. <i>9, 39, 4</i>.<p><b>Étym</b>. ἄλλος, ἐπί, ἀλλήλων.`

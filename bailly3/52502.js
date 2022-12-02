@@ -1,0 +1,1 @@
+lar[52502]=`<b>κατα·κείρω :<br>      1</b> faire tomber en tondant, tondre, raser : τὸν πώγωνα, PLUT. <i>M. 52d</i>, la barbe.<br><b>      2</b> dilapider, piller, dévaster, <i>acc</i>. OD. <i>4, 686 ; 22, 36 ; 23, 356</i>.<br><b><i>Moy.</i></b> tondre <i>ou</i> raser sur soi (la tête, les cheveux, <i>etc</i>.) HDT. <i>1, 82</i>.`

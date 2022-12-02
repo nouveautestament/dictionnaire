@@ -1,0 +1,1 @@
+lar[78799]=`<b>περι·κολάπτω</b>, gratter autour, HIPPIATR.`

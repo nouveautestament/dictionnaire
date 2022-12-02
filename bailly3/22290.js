@@ -1,0 +1,1 @@
+lar[22290]=`<b>ου (ὁ)</b> Gnouros, <i>Scythe, père d’Anacharsis,</i> HDT. <i>4, 76</i> ; DL. <i>1, 8, 9</i>.`

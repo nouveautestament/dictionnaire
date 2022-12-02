@@ -1,0 +1,1 @@
+lar[19775]=`<b>βιο·στερής, ής, ές</b>, privé de ressources pour vivre, SOPH. <i>O.C. 747</i>.<p><b>Étym</b>. βίος, στερέω.`

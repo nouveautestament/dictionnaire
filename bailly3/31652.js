@@ -1,0 +1,1 @@
+lar[31652]=`<b>ἐκ·μαργόω-ῶ</b> <font color="darkgreen">(<i>ao. pass</i>. ἐξεμαργώθης)</font> rendre insensé, EUR. <i>Tr. 992</i>.`

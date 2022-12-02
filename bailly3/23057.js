@@ -1,0 +1,1 @@
+lar[23057]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> sorte de poisson de mer, <i>p.-ê</i>. le mulet, ATH. <i>307b</i>.<p><b>Étym</b>. δάκτυλος.`

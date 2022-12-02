@@ -1,0 +1,1 @@
+lar[102378]=`<b>ὑπέρ·γηρως, ως, ων</b>, extrêmement vieux <i>ou</i> ancien, LUC. <i>D. mort. 6, 2 ; 27, 9 ; Dem. enc. 63</i> ; JOS. <i>A.J. 5, 1, 28</i> ; BABR. <i>47, 1</i> ; τὸ ὑπ. ESCHL. <i>Ag. 79,</i> l’extrême vieillesse.<p><b>Étym</b>. ὑ. γῆρας.`

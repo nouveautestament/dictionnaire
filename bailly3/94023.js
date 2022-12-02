@@ -1,0 +1,1 @@
+lar[94023]=`<b>σύμ·μορφος, ος, ον</b>, de même forme que, conforme à, <i>dat</i>. NIC. <i>Th. 321</i> ; NT. <i>Phil. 3, 21 ; gén</i>. NT. <i>Rom. 8, 29 ; abs</i>. LUC. <i>Am. 39</i>.<p><b>Étym</b>. σ. μορφή.`

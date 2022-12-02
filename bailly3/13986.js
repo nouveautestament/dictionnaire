@@ -1,0 +1,1 @@
+lar[13986]=`<b>ἀ·πρόστομος, ος, ον</b>, non terminé en pointe, MAGN. (POLL. <i>2, 101</i>).`

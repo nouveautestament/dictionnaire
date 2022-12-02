@@ -1,0 +1,1 @@
+lar[105662]=`<b>Φιλ·ίππη</b>, <i>dor</i>. <b>-α, ας (ἡ)</b> <font color="purple">[φῐ]</font> Philippè, <i>f</i>. ANTH. <i>5, 61</i>.<p><b>Étym</b>. <i>fém. de</i> Φίλιππος.`

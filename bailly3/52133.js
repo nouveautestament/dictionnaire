@@ -1,0 +1,1 @@
+lar[52133]=`<b>κατα·βαυκαλάω-ῶ</b> <font color="purple">[κᾰ]</font> endormir par des chants, EL. <i>N.A. 14, 20</i>.`

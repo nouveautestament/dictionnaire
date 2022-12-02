@@ -1,0 +1,1 @@
+lar[1416]=`<font color="purple">[ᾰῐ]</font> <i>vb. de</i> ἀδικέω, PLAT. <i>Crit. 49a</i>.`

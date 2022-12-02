@@ -1,0 +1,1 @@
+lar[51392]=`<i>ou</i> <b>Κάμβλης, ητος (ὁ)</b> Kambès <i>ou</i> Kamblès, <i>roi de Lydie,</i> EL. <i>V.H. 1, 27, 415c</i>.`

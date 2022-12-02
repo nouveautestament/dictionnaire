@@ -1,0 +1,1 @@
+lar[44340]=`<b>ἑωλο·κρασία, ας (ἡ)</b> <font color="purple">[ᾱσ]</font><br><b>      1</b> mélange de lie <i>ou</i> des impuretés du vin, DÉM. <i>242, 13</i>.<br><b>      2</b> goût fétide <i>ou</i> mauvaise odeur que laisse l’ivresse, PLUT. <i>M. 148a</i>.<p><b>Étym</b>. ἕωλος, κεράννυμι.`

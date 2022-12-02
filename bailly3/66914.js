@@ -1,0 +1,1 @@
+lar[66914]=`<b>μουσό·ληπτος, ος, ον</b>, possédé, <i>càd</i>. inspiré par les Muses, PLUT. <i>Marc. 17, etc</i>.<p><b>Étym</b>. μοῦσα, ληπτός.`

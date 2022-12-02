@@ -1,0 +1,1 @@
+lar[77238]=`<b>Πασι·κράτης, ους (ὁ)</b> <font color="purple">[ᾱῐᾰ]</font> Pasikratès, <i>h</i>. PLUT. <i>Alex. 29</i>.<p>➳ <i>Gén. ion</i>. -εος, ARR. <i>Ind. 18, 8</i>.<p><b>Étym</b>. π. κράτος.`

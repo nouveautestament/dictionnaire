@@ -1,0 +1,1 @@
+lar[38313]=`<b>ής, ές</b> <font color="purple">[ῐπ]</font> qui manque, PLUT. <i>Syll. 7</i>.<p><b>Étym</b>. ἐπιλείπω.`

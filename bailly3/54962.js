@@ -1,0 +1,1 @@
+lar[54962]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de tisser avec la navette, ARSTT. <i>Phys. 7, 2, 4</i>.<p><b>Étym</b>. κερκίζω.`

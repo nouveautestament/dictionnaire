@@ -1,0 +1,1 @@
+lar[81521]=`<b>οῦ :<br>      1</b> <i>adj. m</i>. de guerre, THCR. <i>Idyl. 15, 51</i> ; DS. <i>2, 11, etc.</i><br><b>      2</b> <i>subst</i>. ὁ π. guerrier combattant, IL. <i>5, 602, etc</i>.<p>➳ <i>Poét</i>. πτολεμιστής, IL. <i>22, 132</i>.<p><b>Étym</b>. πολεμίζω.`

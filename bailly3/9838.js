@@ -1,0 +1,1 @@
+lar[9838]=`<b>ἀντι·διαστέλλω :<br>      1</b> distinguer en opposant, distinguer, STR. <i>457</i> ; ἀπό τινός τι, LGN <i>fr. 3, 5,</i> une chose d’une autre.<br><b>      2</b> <i>p. suite,</i> opposer : τί τινι, SEXT. <i>P. 1, 9,</i> une chose à une autre.<br><b><i>Moy.</i></b> distinguer <i>ou</i> opposer, DH. <i>Thuc. 32</i>.`

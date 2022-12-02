@@ -1,0 +1,1 @@
+lar[13604]=`<b>ατος (τὸ)</b> pièce, morceau arraché, THCR. <i>Idyl. 15, 19</i>.<p><b>Étym</b>. ἀποτίλλω.`

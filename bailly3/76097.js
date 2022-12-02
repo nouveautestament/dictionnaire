@@ -1,0 +1,1 @@
+lar[76097]=`<b>ῆς (ἡ)</b> souffle <i>ou</i> vent qui s’échappe par une ouverture latérale, HPC. <i>244, 17</i> ; GEOP. <i>10, 56, 6</i>.<p><b>Étym</b>. παραπνέω.`

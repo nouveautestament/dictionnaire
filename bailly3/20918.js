@@ -1,0 +1,1 @@
+lar[20918]=`<b>ῶν (αἱ)</b> <font color="purple">[ῠ]</font> Bryseiæ, <i>v. de Laconie, au S. O. de Sparte (forme épq. de</i> βρυσεαί, PAUS. <i>3, 20, 3</i>), IL. <i>2, 583</i>.`

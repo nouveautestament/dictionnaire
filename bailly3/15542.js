@@ -1,0 +1,1 @@
+lar[15542]=`<b>ἀρχέ·πλουτος, ος, ον</b>, maître absolu de sa fortune, SOPH. <i>El. 72</i>.<p><b>Étym</b>. ἄρχω, πλοῦτος.`

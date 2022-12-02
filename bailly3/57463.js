@@ -1,0 +1,1 @@
+lar[57463]=`<b>κουφο·φορέομαι-οῦμαι</b>, se mouvoir légèrement, être emporté légèrement, SEXT. <i>p. 568</i>.<p><b>Étym</b>. κοῦφος, φορέω.`

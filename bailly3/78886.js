@@ -1,0 +1,1 @@
+lar[78886]=`<b>εως (ἡ) :<br>      1</b> action d’embrasser, SPT. <i>Eccl. 3, 5</i>.<br><b>      2</b> action de comprendre, compréhension, ARSTT. <i>G.A. 3, 11, 17</i> ; DH. <i>Comp. 12, etc.</i> ; κατὰ περίληψιν, CLÉM. <i>802,</i> d’ensemble, en bloc, sans énumérer en détail.<p><b>Étym</b>. περιλαμβάνω.`

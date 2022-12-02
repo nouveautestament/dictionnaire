@@ -1,0 +1,1 @@
+lar[53810]=`<b>ης (ἡ)</b> cautionnement, caution, DÉM. <i>788, 18</i>.`

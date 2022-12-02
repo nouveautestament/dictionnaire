@@ -1,0 +1,1 @@
+lar[8794]=`<b>ἀνθέριξ, ικος (ὁ)</b> <font color="purple">[ῐκ]</font><br><b>      1</b> barbe d’épi, <i>d’où</i> épi, IL. <i>20, 227</i> ; HÉS. <i>fr. 156 Gœtlling</i> ; OPP. <i>C. 1, 231</i>.<br><b>      2</b> tige, HDT. <i>4, 190</i> ; THCR. <i>Idyl. 1, 52</i>.<p><b>Étym</b>. ἄνθος.`

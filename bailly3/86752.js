@@ -1,0 +1,1 @@
+lar[86752]=`<b>προ·τελίζω</b>, célébrer les préliminaires du mariage devant, <i>dat</i>. EUR. <i>I.A. 433</i> ; CRAT. (<i>Com. fr. 2, 114).</i><p><b>Étym</b>. π. τέλος.`

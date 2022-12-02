@@ -1,0 +1,1 @@
+lar[59804]=`<b>όωντος (ὁ)</b> <font color="purple">[ᾱ]</font> Laokoôn (Laocoon) :<br><b>      1</b> <i>prêtre de Poséidon,</i> Q. SM. <i>12, 391</i>.<br><b>      2</b> <i>autre,</i> A.RH. <i>1, 191</i>.<p><b>Étym</b>. λ. κοέω, <i>litt</i>. « celui qui comprend le peuple ».`

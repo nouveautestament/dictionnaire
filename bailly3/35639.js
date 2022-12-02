@@ -1,0 +1,1 @@
+lar[35639]=`<b>ἐξ·ατιμάζω</b> <font color="purple">[ᾰῑ]</font> mépriser, SOPH. <i>O.C. 1378</i>.`

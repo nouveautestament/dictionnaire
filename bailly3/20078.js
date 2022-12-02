@@ -1,0 +1,1 @@
+lar[20078]=`<b>ου (ἡ)</b> Boïdion, <i>f</i>. PLUT. ; <i>par contract</i>. βοίδιον, ANTH. <i>5, 159, etc</i>.`

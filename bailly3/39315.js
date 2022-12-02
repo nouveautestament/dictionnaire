@@ -1,0 +1,1 @@
+lar[39315]=`<b>ου (ὁ)</b> Épitadas, <i>Lacédémonien,</i> THC. <i>4, 8, 31, etc</i>.`

@@ -1,0 +1,1 @@
+lar[97627]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> qui trouble, qui effraye, LYC. <i>43</i>.<p><b>Étym</b>. ταράσσω.`

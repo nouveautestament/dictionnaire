@@ -1,0 +1,1 @@
+lar[52239]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> relatif aux fractures, GAL. <i>10, 152, etc</i>.<p><b>Étym</b>. κάταγμα².`

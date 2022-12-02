@@ -1,0 +1,1 @@
+lar[30800]=`<b>*εἰσ·κλύω</b>, <i>ion. et poét</i>. <b>ἐσ·κλύω</b> <font color="darkgreen">(<i>impf</i>. ἐσέκλυον)</font> prêter l’oreille à, écouter, <i>gén</i>. OPP. <i>H. 2, 107</i>.`

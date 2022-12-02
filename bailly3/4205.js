@@ -1,0 +1,1 @@
+lar[4205]=`<b>ἄ·λεκτρος, ος, ον :<br>      1</b> sans union, SOPH. <i>Ant. 917</i> ; EUR. <i>Tr. 257 ; adv</i>. ἄλεκτρα, SOPH. <i>El. 962,</i> sans hymen.<br><b>      2</b> sans union légitime, SOPH. <i>El. 492</i>.<p><b>Étym</b>. ἀ, λέκτρον.`

@@ -1,0 +1,1 @@
+lar[63994]=`<b>μελι·βόας, ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. au doux cri, <i>ép. du cygne,</i> EUR. <i>fr. 775, 32</i>.<p><b>Étym</b>. μ. βοάω.`

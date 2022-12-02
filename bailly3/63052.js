@@ -1,0 +1,1 @@
+lar[63052]=`<b>ου</b> <font color="purple">[σᾰ]</font> <i>adj. m</i>. des Massagètes, ANTH. <i>4, 4</i> ; οἱ Μασσαγέται, les Massagètes, <i>pple de Scythie,</i> HDT. <i>1, 201, etc</i>.`

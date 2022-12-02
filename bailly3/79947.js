@@ -1,0 +1,1 @@
+lar[79947]=`<b>ή, όν</b>, interrogatif, D. THR. <i>637, 7</i> ; DYSC. <i>Adv. p. 607, etc</i>.<p><b>Étym</b>. *πευστός, <i>vb. de</i> πυνθάνομαι.`

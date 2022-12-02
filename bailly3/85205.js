@@ -1,0 +1,1 @@
+lar[85205]=`<b>προσ·ανίστημι</b> (<i>seul. ao.2 intr</i>. προσανέστην, <i>et prés. moy</i>. προσανίσταμαι) :<br><b>      1</b> se soulever et s’appuyer contre, <i>dat</i>. DH. <i>Comp. 22</i>.<br><b>      2</b> <i>fig</i>. se soulever et s’insurger, DC. <i>39, 54</i>.`

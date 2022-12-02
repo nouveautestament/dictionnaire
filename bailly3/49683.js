@@ -1,0 +1,1 @@
+lar[49683]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆]</font> mesure égale ARSTT. <i>fr. 43</i> ; PLUT. <i>M. 1139b</i>.<p><b>Étym</b>. ἰσόμετρος.`

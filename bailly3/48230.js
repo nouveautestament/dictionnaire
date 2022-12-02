@@ -1,0 +1,1 @@
+lar[48230]=`<b>ης, ες</b>, semblable à des ïambes, satirique, PHILSTR. <i>246</i>.<p><b>Étym</b>. ἰ. -ωδης.`

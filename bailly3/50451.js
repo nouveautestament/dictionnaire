@@ -1,0 +1,1 @@
+lar[50451]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> remorquage d’un navire (à l’entrée d’un port), EN. TACT. <i>Pol. 10, 7</i> ; ATH. <i>204c</i>.<p><b>Étym</b>. καθέλκω.`

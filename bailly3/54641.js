@@ -1,0 +1,1 @@
+lar[54641]=`<b>κελευτιάω-ῶ</b> (<i>seul. part. prés. épq</i>. κελευτιόων) presser vivement, ordonner, exciter, IL. <i>12, 265 ; 13, 125</i>.<p><b>Étym</b>. κελεύω.`

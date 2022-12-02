@@ -1,0 +1,1 @@
+lar[100408]=`<b>ου (ὁ)</b> celui qui frictionne les baigneurs, PLUT. <i>Alex. 40</i>.<p><b>Étym</b>. τρίβω.`

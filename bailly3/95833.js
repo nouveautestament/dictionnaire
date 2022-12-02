@@ -1,0 +1,1 @@
+lar[95833]=`<b>συν·εφιζάνω</b>, s’asseoir <i>ou</i> se poser ensemble sur, <i>dat</i>. EUM. <i>1, p. 10</i>.`

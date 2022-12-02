@@ -1,0 +1,1 @@
+lar[16164]=`<i>adv</i>., fermement, OD. <i>4, 419, 459 ; par contract</i>. ἀστεμφῶς, PROCL.<p><b>Étym</b>. ἀστεμφής.`

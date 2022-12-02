@@ -1,0 +1,1 @@
+lar[38647]=`<b>ἐπι·πείθομαι :<br>      1</b> se laisser persuader par : τινι, IL. <i>17, 154</i> ; OD. <i>2, 103,</i> par qqn.<br><b>      2</b> <i>p. suite,</i> ajouter foi à : μαρτυρίοισιν, ESCHL. <i>Ag. 1095,</i> à des témoignages.<br><b>      3</b> obéir à, être docile à : τινι, HÉS. <i>Sc. 369,</i> à qqn ; <i>abs</i>. SOPH. <i>El. 1472</i>.`

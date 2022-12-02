@@ -1,0 +1,1 @@
+lar[47349]=`<b>οῦ (ὁ)</b> action de mettre en réserve, d’amasser, ARSTT. <i>Pol. 1, 8, 13</i> ; TH. <i>Od. 14</i>.<p><b>Étym</b>. θησαυρίζω.`

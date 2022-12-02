@@ -1,0 +1,1 @@
+lar[89679]=`<b>ατος (τὸ)</b> résidu desséché du baume, AÉT.<p><b>Étym</b>. σειρόω.`

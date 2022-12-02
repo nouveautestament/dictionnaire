@@ -1,0 +1,1 @@
+lar[55358]=`<b>άδος</b> <font color="purple">[ῑσᾰδ]</font> <i>adj. f</i>. du Kèphisos, PAUS. <i>9, 34, 10</i>.<p><b>Étym</b>. Κήφισος.`

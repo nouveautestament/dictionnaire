@@ -1,0 +1,1 @@
+lar[8686]=`<b>ἀνηκουστέω-ῶ</b>, ne pas entendre, ne pas écouter, désobéir à, <i>gén</i>. IL. <i>15, 236 ; 16, 676</i> ; ESCHL. <i>Pr. 40</i> ; THC. <i>1, 84 ; dat</i>. HDT. <i>6, 14 ; abs</i>. HDT. <i>1, 115</i>.<p><b>Étym</b>. ἀνήκουστος.`

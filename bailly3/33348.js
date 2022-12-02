@@ -1,0 +1,1 @@
+lar[33348]=`<b>ἐμ·πατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> entrer dans, <i>gén</i>. ESCHL. <i>Ag. 1434</i>.<br><b>      2</b> marcher sur, fouler aux pieds, <i>acc</i>. JOS. <i>B.J. 6, 9, 4</i>.<p><b>Étym</b>. ἐν, π.`

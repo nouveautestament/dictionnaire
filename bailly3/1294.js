@@ -1,0 +1,1 @@
+lar[1294]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans débat, POL. <i>3, 93, 1</i>.`

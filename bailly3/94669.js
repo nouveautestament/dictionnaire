@@ -1,0 +1,1 @@
+lar[94669]=`<b>συν·αλωνιάζω</b>, célébrer la fête de la moisson, SUID.<p><b>Étym</b>. σ. ἁλωνία.`

@@ -1,0 +1,1 @@
+lar[99657]=`<b>ή, όν</b>, gravé <i>ou</i> ciselé en creux <i>ou</i> en relief, MÉN. (ATH. <i>781e</i>) ; DS. <i>18, 27 ; fig</i>. ciselé, <i>càd</i>. travaillé finement, avec art (style, vers, <i>etc</i>.) ANTH. <i>9, 545</i> ; DH. <i>Comp. 25</i>.<p><b>Étym</b>. τορεύω.`

@@ -1,0 +1,1 @@
+lar[11204]=`<font color="purple">[ᾰᾰ]</font><br><b>      1</b> amollir, assouplir, XÉN. <i>Eq. 5, 5</i>.<br><b>      2</b> rendre tendre <i>ou</i> délicat, XÉN. <i>Lac. 2, 1</i>.<p><b>Étym</b>. ἁπαλός.`

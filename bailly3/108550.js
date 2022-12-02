@@ -1,0 +1,1 @@
+lar[108550]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> *χλανίσκος, <i>lui-même dim. de</i> χλανίς, AR. <i>Ach. 519</i> ; ESCHN. <i>18, 30</i>.`

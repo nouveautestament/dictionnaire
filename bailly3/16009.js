@@ -1,0 +1,1 @@
+lar[16009]=`<font color="darkgreen">(<i>f</i>. εύσω)</font> <font color="purple">[πᾰ]</font> pêcher, ARISTÉN. <i>1, 17</i>.<p><b>Étym</b>. ἀσπαλιεύς.`

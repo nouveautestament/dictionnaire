@@ -1,0 +1,1 @@
+lar[53215]=`<b>καταργυρόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> argenter, HDT. <i>1, 98</i> ; PLUT. <i>Phil. 9, etc.</i><br><b>      2</b> corrompre avec de l’argent, SOPH. <i>Ant. 1077</i>.<p><b>Étym</b>. κατάργυρος.`

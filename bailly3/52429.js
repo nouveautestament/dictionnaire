@@ -1,0 +1,1 @@
+lar[52429]=`<b>κατα·θυμοβορέω-ῶ</b> <font color="purple">[ῡ]</font> se ronger le cœur, avoir le cœur dévoré d’ennuis, PYTHAG. (Ps.-PLUT. <i>V. Hom. p. 366</i>).`

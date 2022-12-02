@@ -1,0 +1,1 @@
+lar[103529]=`<b>ὑπο·μέμφομαι</b>, blâmer un peu, PLUT. <i>Cato mi. 15</i> ; NONN. <i>D. 15, 288</i>.`

@@ -1,0 +1,1 @@
+lar[92981]=`<b>(ὁ)</b> Strouthias, <i>litt</i>. le Moineau, <i>n. de parasite,</i> MÉN. <i>4, 152 Meineke</i>.<p><b>Étym</b>. στρουθός.`

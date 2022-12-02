@@ -1,0 +1,1 @@
+lar[62811]=`<b>μανό·στημος, ος, ον</b> <font color="purple">[ᾱ, <i>par nécessité métr</i>. ᾰ]</font> au tissu lâche, ESCHL. <i>fr. 411</i>.<p><b>Étym</b>. μανός, στήμων.`

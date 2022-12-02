@@ -1,0 +1,1 @@
+lar[18095]=`<b>ἀ·φιλέταιρος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’aime pas ses compagnons, BAS. <i>4, 225b Migne</i>.`

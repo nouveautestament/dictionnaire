@@ -1,0 +1,1 @@
+lar[28442]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> difficulté d’une entreprise, PLUT. <i>Æmil. 16</i>.<br><b>      2</b> inhabileté au travail, APP. <i>Syr. 19</i>.<br><b>      3</b> difficulté de manœuvrer : δυσεργίαν ἔχειν, HÉRON, être dur à manœuvrer.<p><b>Étym</b>. δύσεργος.`

@@ -1,0 +1,1 @@
+lar[8895]=`<b>ή, όν</b> <font color="purple">[ᾰκ]</font> carbonisé, ARSTT. <i>Meteor. 4, 9, 31</i>.<p><b>Étym</b>. ἀνθρακεύω.`

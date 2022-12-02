@@ -1,0 +1,1 @@
+lar[81324]=`<b>ῆς (ἡ) :<br>      1</b> regret, désir, IL. <i>6, 362 ; 14, 368 ; 19, 321, etc.</i><br><b>      2</b> <i>p. suite,</i> manque de (qqe ch.) OD. <i>15, 514, 546</i>.<p><b>Étym</b>. <i>cf</i>. πόθος.`

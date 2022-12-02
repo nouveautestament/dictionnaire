@@ -1,0 +1,1 @@
+lar[1147]=`<b>ης (ἡ)</b> ignorance, inexpérience, OD. <i>24, 244 (var</i>. ἀδαημοσύνη).<p><b>Étym</b>. ἀδαήμων.`

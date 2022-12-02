@@ -1,0 +1,1 @@
+lar[13171]=`<b>ῆρος (ὁ)</b> qui écarte en crachant <i>ou</i> en écumant, OPP. <i>H. 2, 11</i>.<p><b>Étym</b>. ἀποπτύω.`

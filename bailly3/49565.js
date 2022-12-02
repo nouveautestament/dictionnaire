@@ -1,0 +1,1 @@
+lar[49565]=`<i>impér. de</i> εἰμί, être, <i>ou de</i> οἶδα, savoir.`

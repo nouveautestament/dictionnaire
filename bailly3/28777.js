@@ -1,0 +1,1 @@
+lar[28777]=`<b>δυσ·πάριτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> difficile à traverser, XÉN. <i>An. 4, 1, 25 (var</i>. δυσπόριστος <i>et</i> δύσβατος).<p><b>Étym</b>. δ. πάρειμι².`

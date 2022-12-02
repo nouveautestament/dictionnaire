@@ -1,0 +1,1 @@
+lar[83502]=`<b>προ·αικίζομαι</b>, faire d’abord traiter outrageusement, <i>particul</i>. faire flageller, JOS. <i>B.J. 1, 14, 9</i>.`

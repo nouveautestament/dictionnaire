@@ -1,0 +1,1 @@
+lar[50187]=`<b>καβιό·θυρα, ων (τὰ)</b> sorte de trappe <i>ou</i> de pont-levis, MATH. <i>p. 47</i>.<p><b>Étym</b>. <i>mot hybride, lat</i>. cavea, <i>gr</i>. θύρα.`

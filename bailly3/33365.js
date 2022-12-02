@@ -1,0 +1,1 @@
+lar[33365]=`<b>ἔμ·πεδος, ος, ον</b>, emprisonné dans une entrave, enchaîné, LUC. <i>Lex. 10</i>.<p><b>Étym</b>. ἐν, πέδη.`

@@ -1,0 +1,1 @@
+lar[24655]=`<b>δια·θλίβω</b> (<i>seul. prés. 3 pl</i>. -ίβουσιν) mettre en pièces, CALL. <i>fr. 67</i>.`

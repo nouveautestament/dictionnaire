@@ -1,0 +1,1 @@
+lar[26421]=`<b>δι·ϊδρόω-ῶ</b> <font color="purple">[ῑδ]</font> suer à travers, GAL. <i>8, 644 ; 10, 233</i>.`

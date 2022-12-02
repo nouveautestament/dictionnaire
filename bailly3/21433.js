@@ -1,0 +1,1 @@
+lar[21433]=`<b>γαστρο·λογία, ας (ἡ)</b> Traité de la gourmandise, <i>ou</i> le Livre des gourmands, <i>ouvrage d’Arkhestratos,</i> ATH. <i>104b, 278b ; appelé aussi</i> γαστρονομία, ATH. <i>4e, 56c</i>.<p><b>Étym</b>. γαστήρ, λόγος.`

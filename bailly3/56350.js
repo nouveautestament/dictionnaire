@@ -1,0 +1,1 @@
+lar[56350]=`<font color="purple">[ῡ]</font> gratter légèrement, <i>acc</i>. AR. <i>Th. 481</i>.<p><b>Étym</b>. <i>cf</i>. κνάω.`

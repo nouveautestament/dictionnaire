@@ -1,0 +1,1 @@
+lar[105534]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐᾱ]</font> Philaôn, <i>h</i>. HDT. <i>8, 11</i>.`

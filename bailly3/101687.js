@@ -1,0 +1,1 @@
+lar[101687]=`<b>όεσσα, όεν</b> <font color="purple">[ῡ <i>à l’arsis,</i> ᾰ]</font> qui aboie, OPP. <i>H. 1, 721</i>.<p><b>Étym</b>. ὑλάσσω.`

@@ -1,0 +1,1 @@
+lar[41813]=`<b>εὐ·δαίδαλος, ος, ον</b> <font color="purple">[ᾰ]</font> artistement travaillé, BACCHYL. <i>17, 88 ; fr. 15, 4</i> ; ANTH. <i>1, 16</i>.<p><b>Étym</b>. εὖ, δαίδαλος.`

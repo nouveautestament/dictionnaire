@@ -1,0 +1,1 @@
+lar[14174]=`<i>adv</i>., à Araphène, <i>dème attique de la tribu Ægéïde, avec mouv</i>. DÉM. <i>1074, 10</i> (Ἀραφήν, E. BYZ.).`

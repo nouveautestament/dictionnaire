@@ -1,0 +1,1 @@
+lar[97324]=`<i>nom. et acc. pl. neutre de</i> ὁ, ἡ, τό, <i>article et ancienn. pron. rel. poét. et ion</i>.`

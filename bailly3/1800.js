@@ -1,0 +1,1 @@
+lar[1800]=`<b>Ἀερ·όπη, ης (ἡ)</b> <font color="purple">[ᾱ]</font> Aéropè, <i>femme d’Atrée,</i> LUC. <i>H. conscr. 8, Salt. 43, 67, etc</i>.<p>➳ <i>Gén. dor</i>. Ἀερόπας, EUR. <i>Or. 1009</i>.<p><b>Étym</b>. <i>cf</i>. Ἀέροπος.`

@@ -1,0 +1,1 @@
+lar[50494]=`<b>καθ·υπισχνέομαι-οῦμαι</b> <font color="darkgreen">(<i>ao.2</i> καθυπεσχόμην)</font> promettre, LUC. <i>Herm. 6</i>.`

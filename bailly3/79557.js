@@ -1,0 +1,1 @@
+lar[79557]=`<b>περι·τύμβιος, ος, ον</b>, qu’on verse autour d’un tombeau, ANTH. <i>7, 560</i>.<p><b>Étym</b>. π. τύμβος.`

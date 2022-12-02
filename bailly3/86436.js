@@ -1,0 +1,1 @@
+lar[86436]=`<b>προσ·σωρεύω</b>, amasser en outre <i>ou</i> encore, LUC. <i>Anach. 25</i> ; CORN. <i>N.D. 16</i>.`

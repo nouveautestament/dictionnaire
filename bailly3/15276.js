@@ -1,0 +1,1 @@
+lar[15276]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Artakhæès, <i>Perse,</i> HDT. <i>7, 22, 117</i>.`

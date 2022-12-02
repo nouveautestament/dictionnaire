@@ -1,0 +1,1 @@
+lar[51985]=`<b>καρυο·ναύτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui navigue dans une coquille de noix, LUC. <i>V.H. 2, 38</i>.<p><b>Étym</b>. κάρυον, ναύτης.`

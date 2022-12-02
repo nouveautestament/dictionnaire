@@ -1,0 +1,1 @@
+lar[860]=`<b>ΐδος (ἡ)</b> territoire des Agræes, THC. <i>3, 111</i>.<p><b>Étym</b>. Ἀγραῖοι.`

@@ -1,0 +1,1 @@
+lar[3661]=`<b>ἀκρατο·κώθων, ωνος (ὁ)</b> <font color="purple">[ᾱτ]</font> buveur effréné, HYPÉR. (PRISC. <i>Gr. lat. 18, 25, vol. 2, p 219 Kr</i>.) ; ATH. <i>246a, 483e</i>.<p><b>Étym</b>. ἄκρατος, κ.`

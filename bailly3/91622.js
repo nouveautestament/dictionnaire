@@ -1,0 +1,1 @@
+lar[91622]=`<b>(ὁ)</b> Souniadès, <i>h</i>. LYS. <i>7, 11 Baiter-Sauppe</i>.<p><b>Étym</b>. Σούνιον.`

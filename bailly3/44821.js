@@ -1,0 +1,1 @@
+lar[44821]=`<b>ῆρος</b>, <i>adj. m</i>. ceint pour le combat, CALL. <i>H. Ap. 85</i>.<p><b>Étym</b>. ζώννυμι.`

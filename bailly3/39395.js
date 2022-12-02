@@ -1,0 +1,1 @@
+lar[39395]=`<b>εως (ἡ) :<br>      1</b> action d’imaginer avec art, <i>d’où</i> préparation artificielle, fabrication ; <i>particul</i>. artifice de langage, DH. <i>Is. 3</i>.<br><b>      2</b> invention contre, machination contre, THC. <i>1, 71</i> ; PAUS. <i>1, 6, 4</i>.<br><b>      3</b> invention <i>ou</i> machination nouvelle, ATH. <i>124e</i>.<p><b>Étym</b>. ἐπιτεχνάομαι.`

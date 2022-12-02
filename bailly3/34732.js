@@ -1,0 +1,1 @@
+lar[34732]=`<b>ἐννεά·πυλος, ος, ον</b> <font color="purple">[ῠ]</font> à neuf portes, CLIDÈM. <i>(Bkk. p. 419, 29).</i><p><b>Étym</b>. ἐ. πύλη.`

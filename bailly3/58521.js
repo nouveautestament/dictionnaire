@@ -1,0 +1,1 @@
+lar[58521]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Kykè, <i>f</i>. ANACR. (ATH. <i>534a</i>).`

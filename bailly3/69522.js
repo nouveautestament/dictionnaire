@@ -1,0 +1,1 @@
+lar[69522]=`<b>α, ον</b>, qui concerne le setier, GAL. <i>1, 328</i>.<p><b>Étym</b>. ξέστης.`

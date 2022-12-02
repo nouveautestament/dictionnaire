@@ -1,0 +1,1 @@
+lar[110267]=`<b>ὠμό·βυρσος, ος, ον</b>, fait de cuir non tanné, PLUT. <i>Crass. 25</i>.<p><b>Étym</b>. ὠμός, βύρσα.`

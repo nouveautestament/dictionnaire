@@ -1,0 +1,1 @@
+lar[13703]=`<b>ας (ἡ) :<br>      1</b> absence, ESCHL. <i>Ag. 1259</i> ; THC. <i>1, 70, etc.</i><br><b>      2</b> manque, défaut de, perte, ARSTT. <i>Meteor. 4, 6, 10,</i> DS. <i>3, 14</i>.<br><b>      3</b> <i>particul</i>. perte séminale, PLUT. <i>M. 364d</i>.<p><b>Étym</b>. <i>part. prés. de</i> ἄπειμι¹.`

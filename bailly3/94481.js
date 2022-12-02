@@ -1,0 +1,1 @@
+lar[94481]=`<b>σύμ·φυλος, ος, ον</b> <font color="purple">[φῡ]</font><br><b>      1</b> de même tribu, de même race, ARSTT. <i>P.A. 4, 6, 3</i> ; BABR. <i>101, 3</i>.<br><b>      2</b> <i>p. suite,</i> qui a de l’affinité avec, qui convient à, <i>dat</i>. PLUT. <i>M. 137b ; abs</i>. PLUT. <i>M. 729b, 991b, etc</i>.<p>•<i> Sup</i>. -ότατος, PHILOD.<p><b>Étym</b>. σ. φυλή.`

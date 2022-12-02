@@ -1,0 +1,1 @@
+lar[84652]=`<b>προ·λήνιον, ου (τὸ)</b> réservoir devant le pressoir, SPT. <i>Esaï. 5, 2</i>.<p><b>Étym</b>. π. ληνός.`

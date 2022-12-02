@@ -1,0 +1,1 @@
+lar[73888]=`<b>ας (ἡ)</b> action de saillir, XÉN. <i>Eq. 5, 8</i> ; ARSTT. <i>G.A. 1, 14, etc</i>.<p><b>Étym</b>. ὀχεύω.`

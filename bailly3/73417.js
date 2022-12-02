@@ -1,0 +1,1 @@
+lar[73417]=`<b>υος (ὁ)</b> Otys, <i>roi de Paphlagonie,</i> XÉN. <i>Hell. 4, 1, 3, etc</i>.`

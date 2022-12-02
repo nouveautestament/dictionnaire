@@ -1,0 +1,1 @@
+lar[77920]=`<b>ατος (τὸ)</b> deuil, tristesse, ESCHL. <i>Ch. 432</i> ; EUR. <i>Suppl. 1035</i> ; THCR. <i>Idyl. 26, 26</i>.<p><b>Étym</b>. πενθέω.`

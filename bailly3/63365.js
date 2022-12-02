@@ -1,0 +1,1 @@
+lar[63365]=`<b>μεγαλό·θυμος, ος, ον</b> <font color="purple">[ᾰῡ]</font> au grand cœur, magnanime, PLAT. <i>Rsp. 375c</i>.<p><b>Étym</b>. μ. θυμός.`

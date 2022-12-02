@@ -1,0 +1,1 @@
+lar[96048]=`<b>συν·νεάζω :<br>      1</b> passer sa jeunesse avec, <i>dat</i>. EUR. <i>fr. 319 Nauck ; abs</i>. ALCIPHR. <i>2, 3, 9</i>.<br><b>      2</b> se conduire ensemble comme des jeunes gens, PHILSTR. <i>603</i>.`

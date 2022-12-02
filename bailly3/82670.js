@@ -1,0 +1,1 @@
+lar[82670]=`<b>πονηρο·διδάσκαλος, ου (ὁ, ἡ)</b> <font color="purple">[ῐκᾰ]</font> qui enseigne le mal, STR. <i>302</i>.<p><b>Étym</b>. πονηρός, δ.`

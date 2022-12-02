@@ -1,0 +1,1 @@
+lar[103921]=`<b>ατος (τὸ)</b> <font color="purple">[ῡλ]</font> soubassement d’un portique, APD. <i>et</i> BITON (MATH. <i>p. 17, 20 et 108).</i><p><b>Étym</b>. ὑποστυλόω.`

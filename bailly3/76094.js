@@ -1,0 +1,1 @@
+lar[76094]=`<b>παρά·πλοος-ους, οος-ους, οον-ουν</b>, qui navigue à côté ; ἡ π. (<i>s.-e</i>. ναῦς) POL. vaisseau qui navigue de conserve.<p><b>Étym</b>. παραπλέω.`

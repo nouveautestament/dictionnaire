@@ -1,0 +1,1 @@
+lar[16433]=`<b>α, ον</b> <font color="purple">[ῡ]</font> qui concerne un asile, PLUT. <i>Rom. 9</i>.<p><b>Étym</b>. ἄσυλον.`

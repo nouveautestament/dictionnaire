@@ -1,0 +1,1 @@
+lar[25929]=`<b>δια·χόω-ῶ :<br>      1</b> construire une jetée, HDT. <i>8, 97 (inf. prés</i>. -χοῦν).<br><b>      2</b> séparer <i>ou</i> protéger par un terrassement, STR. <i>245</i>.<p><b>Étym</b>. <i>inf. ao</i>. -χῶσαι.`

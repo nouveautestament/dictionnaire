@@ -1,0 +1,1 @@
+lar[107571]=`<b>ων (τὰ)</b> <font color="purple">[ᾰῑ]</font> ancres <i>ou</i> amarres, EUR. <i>Hec. 539</i> ; OPP. <i>H. 1, 359</i> ; NONN. <i>D. 3, 20</i>.`

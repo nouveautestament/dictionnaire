@@ -1,0 +1,1 @@
+lar[74520]=`<b>παλιμ·βλαστής, ής, ές</b> <font color="purple">[ᾰλ]</font> qui germe de nouveau, qui repousse, EUR. <i>H.f. 1274</i> ; TH. <i>H.P. 7, 2, 4</i>.<p><b>Étym</b>. π. βλαστάνω.`

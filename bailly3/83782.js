@@ -1,0 +1,1 @@
+lar[83782]=`<b>προβατό·σχημος, ος, ον</b> <font color="purple">[ᾰ]</font> qui ressemble à un mouton, CHRYS.<p><b>Étym</b>. πρ. σχῆμα.`

@@ -1,0 +1,1 @@
+lar[74278]=`<b>παιδό·βρωτος θοίνη (ἡ)</b> repas où l’on mange des enfants, LYC. <i>1199</i>.<p><b>Étym</b>. π. βιβρώσκω.`

@@ -1,0 +1,1 @@
+lar[34005]=`<b>ἐν·αράσσω</b> <font color="purple">[ᾰρ]</font> heurter contre, <i>avec</i> ἐπί <i>et l’acc</i>. PAUS. <i>4, 13, 1</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf</i>. ἐνηρασσόμην)</font> se heurter contre, <i>avec</i> ἐς <i>et l’acc</i>. APP. <i>Civ. 5, 98</i>.`

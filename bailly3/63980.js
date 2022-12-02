@@ -1,0 +1,1 @@
+lar[63980]=`<b>Μελησι·γενής, οῦς (ὁ)</b> Mélèsigénès, <i>propr</i>. « fils de Mélès », <i>càd</i>. Homère, Ps.-PLUT. <i>V. Hom. 3</i>.<p>➳ <i>Acc</i>. -ῆ, LUC. <i>Dem. enc. 9</i>.<p><b>Étym</b>. Μέλης, γίγνομαι.`

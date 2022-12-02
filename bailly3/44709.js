@@ -1,0 +1,1 @@
+lar[44709]=`<b>ζω·θαλπής, ής, ές</b>, qui réchauffe la vie, qui ranime, NONN. <i>D. 1, 454</i>.<p><b>Étym</b>. ζάω, θάλπω.`

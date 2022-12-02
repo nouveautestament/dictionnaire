@@ -1,0 +1,1 @@
+lar[79498]=`<b>ῆς (ἡ)</b> circoncision, SPT. <i>Gen. 17, 13</i> ; NT. <i>Rom. 2, 29</i>.<p><b>Étym</b>. περιτέμνω.`

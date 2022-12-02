@@ -1,0 +1,1 @@
+lar[104487]=`<b>ὑψί·δρομος, ος, ον</b>, qui court dans les régions du ciel, NAZ.<p><b>Étym</b>. ὕ. δραμεῖν.`

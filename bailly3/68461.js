@@ -1,0 +1,1 @@
+lar[68461]=`<i>adv</i>., nouvellement, récemment, <i>au cp</i>. νεωτέρως, PLAT. <i>Leg. 907 ; et au</i> <i>• Sup</i>. νεώτατα, THC. <i>1, 7</i>.<p><b>Étym</b>. νέος.`

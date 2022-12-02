@@ -1,0 +1,1 @@
+lar[3387]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> immobilité, ARSTT. <i>H.A. 5, 17, 11, etc.</i> ; PLUT. <i>M. 953d ; au plur</i>. GAL. <i>8, 19</i>.`

@@ -1,0 +1,1 @@
+lar[82226]=`<b>πολυ·πείρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui a de nombreuses limites, <i>p. suite,</i> de nombreuses contrées <i>ou</i> de nombreuses populations, HH. <i>Cer. 297</i>.<br><b>      2</b> <i>p. ext</i>. multiple, varié, ORPH. <i>Arg. 33</i>.<p><b>Étym</b>. π. πέρας.`

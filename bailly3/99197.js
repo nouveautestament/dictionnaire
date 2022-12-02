@@ -1,0 +1,1 @@
+lar[99197]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> semblable à Timarkhos, ESCHN. <i>Ctes. 157 Baiter-Sauppe</i>.<p><b>Étym</b>. Τίμαρχος, -ωδης.`

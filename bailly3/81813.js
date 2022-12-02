@@ -1,0 +1,1 @@
+lar[81813]=`<b>πολυ·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui écrit beaucoup <i>ou</i> sur beaucoup de sujets, CIC. <i>Att. 13, 18</i>.<p>•<i> Sup</i>. -ώτατος, DL. <i>10, 26</i>.<p><b>Étym</b>. π. γράφω.`

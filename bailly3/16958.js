@@ -1,0 +1,1 @@
+lar[16958]=`<b>ἄ·τρητος, ος, ον :<br>   I</b> <i>pass.</i> :<br><b>      1</b> non troué, sans ouverture, PLAT. <i>Pol. 279e ;</i> ARSTT. <i>H.A. 3, 7, 5</i>.<br><b>      2</b> <i>t. d’anat</i>. dont l’ouverture est occluse, GAL. <i>2, 396 ; etc.</i><br><b>   II</b> <i>act</i>. qui ne creuse pas de trous, ARSTT. <i>H.A. 1, 1, 28</i>.<p><b>Étym</b>. ἀ, τιτραίνω.`

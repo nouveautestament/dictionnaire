@@ -1,0 +1,1 @@
+lar[105849]=`<b>φιλο·κόλαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῐᾰκ]</font> qui aime les flatteurs, ARSTT. <i>Nic. 8, 8, 1 ; Rhet. 1, 11, 26</i> ; PLUT. <i>M. 48a</i>.`

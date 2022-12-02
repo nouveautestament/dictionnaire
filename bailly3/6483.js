@@ -1,0 +1,1 @@
+lar[6483]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> sorte d’encens semblable à l’amome, DIOSC. <i>1, 81</i>.<p><b>Étym</b>. ἄμωμον.`

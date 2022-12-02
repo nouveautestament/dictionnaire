@@ -1,0 +1,1 @@
+lar[41885]=`<b>εὐ·διάχυτος, ος, ον</b> <font color="purple">[ῠ]</font> facile à liquéfier, à dissoudre, ARSTT. <i>Probl. 1, 42</i> ; TH. <i>C.P. 3, 2, 6,</i> PLUT. <i>M. 901b</i>.<p><b>Étym</b>. εὖ, διαχέω.`

@@ -1,0 +1,1 @@
+lar[86584]=`<b>προσ·υφίσταμαι</b> <font color="darkgreen">(<i>f</i>. -υποστήσομαι, <i>ao.2</i> -υπέστην, <i>etc</i>.)</font> s’ajouter : τὰ προσυφεστῶτα, M. ANT. <i>5, 19,</i> les choses qui surviennent en outre, les accidents, <i>t. de philos</i>.`

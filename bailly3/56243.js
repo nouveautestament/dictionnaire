@@ -1,0 +1,1 @@
+lar[56243]=`<b>ου (ὁ)</b> <i>propr</i>. « le fauve » <i>càd</i>. le loup, BABR. <i>112, 12</i>.<p>➳ <i>Dor</i>. κνακίας <font color="purple">[ᾱ]</font> PAUS.<p><b>Étym</b>. κνῆκος.`

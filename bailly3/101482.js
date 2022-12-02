@@ -1,0 +1,1 @@
+lar[101482]=`<b>ὑδεριάω-ῶ</b> <font color="purple">[ῠ]</font> être hydropique, EL. <i>N.A. 3, 18 ; 14, 4</i> ; GAL. <i>2, 41, etc</i>.<p><b>Étym</b>. ὕδερος.`

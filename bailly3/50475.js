@@ -1,0 +1,1 @@
+lar[50475]=`<b>κάθ·υγρος, ος, ον</b> <font color="purple">[ᾰ]</font> très humide, HPC. <i>Aph. 1255</i> ; TH. <i>H.P. 1, 4, 2</i> ; DS. <i>5, 28</i>.<p><b>Étym</b>. κ. ὑγρός.`

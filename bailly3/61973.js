@@ -1,0 +1,1 @@
+lar[61973]=`<font color="purple">[ῠ]</font><br><b>      1</b> jouer de la lyre, ANACR. <i>45, 12</i>.<br><b>      2</b> chanter sur la lyre, CHRYSIPP. (PLUT. <i>M. 1037e</i>).<p><b>Étym</b>. λύρα.`

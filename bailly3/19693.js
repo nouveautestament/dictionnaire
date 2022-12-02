@@ -1,0 +1,1 @@
+lar[19693]=`<b>βιβάω-ῶ</b> <font color="purple">[ῐ]</font> (<i>seul. prés. ind. 3 sg</i>. βιβᾷ, <i>part</i>. βιβῶν, <i>et impf. itér. 3 sg</i>. ἐβίβασκεν) faire des enjambées, aller à grands pas, HH. <i>Merc. 225</i> (βιβᾷ) ; <i>Ap. 133</i> (ἐβίβασκε) ; PD. <i>O. 14, 17</i> (βιβῶν).<p><b>Étym</b>. βαίνω ; <i>cf</i>. βίβημι.`

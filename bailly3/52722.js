@@ -1,0 +1,1 @@
+lar[52722]=`<b>ή, όν</b>, qui se termine, qui cesse ; <i>subst</i>. τὸ καταληκτικόν (<i>s.-e</i>. μέτρον) HÉPH. <i>p. 25</i> vers catalectique, <i>càd</i>. auquel il manque une <i>ou</i> plusieurs syllabes (<i>propr</i>. qui se termine brusquement).<p><b>Étym</b>. καταλήγω.`

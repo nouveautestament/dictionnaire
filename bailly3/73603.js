@@ -1,0 +1,1 @@
+lar[73603]=`<i>c</i>. οὕνεκα <i>dev. une voy</i>. PD. <i>P. 9, 164</i>.<p>➳ <i>Dans les inscr. att. seul. au sens d’une conj. au temps de l’empire,</i> CIA. <i>3, 751, 14, v. Meisterh. p. 178, 26</i>.`

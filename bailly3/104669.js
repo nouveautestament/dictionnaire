@@ -1,0 +1,1 @@
+lar[104669]=`<i>adv</i>., visiblement, manifestement, PROCL. <i>Plat. 1 Alc. p. 73 (243).</i><p><b>Étym</b>. φαίνω.`

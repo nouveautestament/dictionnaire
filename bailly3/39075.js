@@ -1,0 +1,1 @@
+lar[39075]=`<b>οῦ (ὁ)</b> action de dégoutter, instillation, DIOSC. <i>3, 23</i>.<p><b>Étym</b>. ἐπιστάζω.`

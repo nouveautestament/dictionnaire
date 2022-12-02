@@ -1,0 +1,1 @@
+lar[103841]=`<b>ὑπο·σκόλιος, ος, ον</b>, un peu de travers, ARÉT. <i>Caus. m. diut. 1, 8</i>.<p><b>Étym</b>. ὑ. σκολιός.`

@@ -1,0 +1,1 @@
+lar[28399]=`<b>δυσ·εξαπάτητος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> difficile à tromper, XÉN. <i>Ages. 11, 12</i> ; PLAT. <i>Rsp. 413c ;</i> PLUT. <i>Ages. 38</i>.<p><b>Étym</b>. δ. ἐξαπατάω.`

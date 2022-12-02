@@ -1,0 +1,1 @@
+lar[4190]=`<b>ἀλειφατίτης ἄρτος (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> pain pétri avec de l’huile, EPICH. (ATH. <i>110b</i>).<p><b>Étym</b>. ἄλειφαρ.`

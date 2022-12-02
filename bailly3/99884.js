@@ -1,0 +1,1 @@
+lar[99884]=`<b>ου</b> (τὸ) croûte servant de fond à une pâtisserie, ATH. <i>113d</i>.<p><b>Étym</b>. <i>lat</i>. tractum.`

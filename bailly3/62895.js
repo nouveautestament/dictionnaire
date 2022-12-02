@@ -1,0 +1,1 @@
+lar[62895]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> qui consume, qui épuise, GAL. <i>2, 263</i>.<p><b>Étym</b>. μαρασμός, -ωδης.`

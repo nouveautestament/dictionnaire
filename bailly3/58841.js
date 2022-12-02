@@ -1,0 +1,1 @@
+lar[58841]=`<b>κυνο·σφαγής, ής, ές</b> <font color="purple">[ῠᾰ]</font> à qui l’on immole des chiens, LYC. <i>77</i>.<p><b>Étym</b>. κ. σφάζω.`

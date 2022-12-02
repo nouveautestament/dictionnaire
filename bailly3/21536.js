@@ -1,0 +1,1 @@
+lar[21536]=`<i>ou</i> <b>γεῖσσον, ου (τὸ) :<br>      1</b> partie saillante, corniche <i>ou</i> rebord d’un toit, TH. <i>Sign. 1, 18, etc.</i><br><b>      2</b> <i>particul</i>. parapet, créneau, EUR. <i>Or. 1569, etc. ; Ph. 1165, etc.</i><br><b>      3</b> <i>p. anal</i>. frange <i>ou</i> bordure d’un vêtement, AR. <i>fr. 602</i>.`

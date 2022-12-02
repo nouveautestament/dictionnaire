@@ -1,0 +1,1 @@
+lar[74058]=`<b>ὀψωνέω-ῶ</b>, faire des provisions de bouche, <i>particul</i>. de poisson, AR. <i>Vesp. 495, 1506, etc. ; en gén</i>. XÉN. <i>Mem. 3, 14, 1</i> ; PLUT. <i>M. 709a</i>.<p><b>Étym</b>. ὀψώνης.`

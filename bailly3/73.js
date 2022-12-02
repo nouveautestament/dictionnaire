@@ -1,0 +1,1 @@
+lar[73]=`<b>ου (ὁ)</b> Abgaros, <i>roi d’Édesse,</i> ANTH. <i>App. 166</i>.`

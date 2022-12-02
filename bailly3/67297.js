@@ -1,0 +1,1 @@
+lar[67297]=`<b>      1</b> éprouver une démangeaison semblable à un fourmillement, AÉT. <i>12, 41</i>.<br><b>      2</b> produire une sensation de fourmillement, être formicant, <i>en parl. du pouls,</i> GAL. <i>19, 412, 539</i>.<p><b>Étym</b>. μύρμηξ.`

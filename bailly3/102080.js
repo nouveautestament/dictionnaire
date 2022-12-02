@@ -1,0 +1,1 @@
+lar[102080]=`<b>ὑπ·ειλέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> rouler sous, <i>d’où au pass</i>. se glisser sous, <i>acc</i>. EL. <i>N.A. 9, 57</i>.`

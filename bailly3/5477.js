@@ -1,0 +1,1 @@
+lar[5477]=`<b>ἀ·μεσίτευτος, ος, ον</b> <font color="purple">[ῐ]</font> sans médiateur, SYN. <i>116d</i>.<p><b>Étym</b>. ἀ, μεσιτεύω.`

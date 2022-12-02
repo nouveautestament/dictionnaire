@@ -1,0 +1,1 @@
+lar[18259]=`<b>εως (ἡ)</b> démence, folie, STOB. <i>Ecl. 2, 100</i>.<p><b>Étym</b>. ἀφρονεύομαι.`

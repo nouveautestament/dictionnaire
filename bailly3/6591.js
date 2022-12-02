@@ -1,0 +1,1 @@
+lar[6591]=`<b>ἀνα·γεύω</b>, faire goûter, AR. <i>Nub. 523</i>.`

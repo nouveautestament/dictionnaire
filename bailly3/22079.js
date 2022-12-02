@@ -1,0 +1,1 @@
+lar[22079]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰῠ]</font> Glaphyræ, <i>v. de Thessalie,</i> IL. <i>2, 712</i>.`

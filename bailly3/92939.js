@@ -1,0 +1,1 @@
+lar[92939]=`<b>στροβιλίτης οἶνος (ὁ)</b> <font color="purple">[ῑ ῑ]</font> vin aromatisé de graines de pommes de pin, DIOSC. <i>5, 44</i>.<p><b>Étym</b>. στρόβιλος.`

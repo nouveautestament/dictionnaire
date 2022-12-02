@@ -1,0 +1,1 @@
+lar[14309]=`<b>α, ον</b> <font color="purple">[ῠ]</font> qui concerne l’extraction de l’argent ; ἀργύρεια ἔργα, XÉN. <i>Vect. 4, 5</i> ; DÉM. <i>568, 17, ou</i> ἀργύρεια μέταλλα, THC. <i>2, 55, etc. ou simpl</i>. τὰ ἀργύρεια, XÉN. <i>Mem. 2, 5, 2</i> ; ESCHN. <i>14, 27,</i> mines d’argent.<p><b>Étym</b>. ἄργυρος.`

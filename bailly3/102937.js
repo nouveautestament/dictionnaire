@@ -1,0 +1,1 @@
+lar[102937]=`<b>ὑπ·εφήβαρχος, ου (ὁ)</b> sous-directeur des éphèbes, ARR.`

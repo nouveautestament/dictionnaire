@@ -1,0 +1,1 @@
+lar[71643]=`<b>ὁμο·πλεκής, ής, ές</b>, plié <i>ou</i> tressé ensemble, NONN. <i>Jo. 21, 66</i> ; CHRISTOD. <i>Ecphr. 252</i>.<p><b>Étym</b>. ὁμ. πλέκω.`

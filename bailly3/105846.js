@@ -1,0 +1,1 @@
+lar[105846]=`<b>φιλό·κνισος, ος, ον</b> <font color="purple">[ῐῑ]</font> qui aime l’odeur de la graisse, <i>càd</i>. des viandes rôties, NONN. <i>D. 19, 177</i>.<p><b>Étym</b>. φ. κνῖσα.`

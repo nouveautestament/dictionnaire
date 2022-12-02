@@ -1,0 +1,1 @@
+lar[99897]=`<b>τρανο·ποιέω-ῶ</b> <font color="purple">[ᾱ]</font> rendre clair, prononcer nettement, SCH.-DÉM. <i>p. 25, 7</i>.<p><b>Étym</b>. τρανός, ποιέω.`

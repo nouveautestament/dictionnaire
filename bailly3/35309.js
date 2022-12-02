@@ -1,0 +1,1 @@
+lar[35309]=`<b>ἐξ·αιθριάζω</b>, exposer en plein air, HPC. <i>551, 44</i> ; DIOSC. <i>5, 24</i> ; JOS. <i>B.J. 3, 10, 7 ; 4, 8, 3</i>.<p><b>Étym</b>. ἐξ, αἰθρία.`

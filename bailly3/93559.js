@@ -1,0 +1,1 @@
+lar[93559]=`<b>συγ·κυκάω-ῶ</b> <font color="purple">[κῠ]</font> mêler, bouleverser, AR. <i>Ach. 531, Pl. 1107</i> ; PLAT. <i>Leg. 669d ;</i> PLUT. <i>M. 897d</i>.`

@@ -1,0 +1,1 @@
+lar[97566]=`<b>τανύ·ρρινος, ος, ον</b> <font color="purple">[ᾰῑ]</font> au long nez, NONN. <i>D. 5, 10</i>.<p><b>Étym</b>. τανυ-, ῥίς.`

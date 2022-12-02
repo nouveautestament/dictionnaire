@@ -1,0 +1,1 @@
+lar[68164]=`<b>ου (ὁ)</b> Néokleidès, <i>h</i>. AR. <i>Eccl. 255, 398</i> ; PLUT. <i>665, etc</i>.<p>➳ <i>Dor</i>. Νεοκλείδας, ANTH. <i>7, 72</i>.<p><b>Étym</b>. <i>patr. de</i> Νεοκλῆς.`

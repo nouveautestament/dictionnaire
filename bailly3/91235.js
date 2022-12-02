@@ -1,0 +1,1 @@
+lar[91235]=`<b>ας (ἡ)</b> ténèbres, obscurité, Ps.-JAMBL. <i>Theol. arithm. p. 6</i>.<p><b>Étym</b>. σκοτώδης.`

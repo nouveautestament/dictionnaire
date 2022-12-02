@@ -1,0 +1,1 @@
+lar[37970]=`<b>ας (ἡ)</b> épithète qualificative, appellation, titre, SEXT. <i>M. 10, 297</i>.<p><b>Étym</b>. ἐπικατηγορέω.`

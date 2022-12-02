@@ -1,0 +1,1 @@
+lar[80203]=`<b>εως (ἡ)</b> <font color="purple">[ῐ]</font> pression, ARSTT. <i>P.A. 4, 10, 25</i>.<p><b>Étym</b>. πιέζω.`

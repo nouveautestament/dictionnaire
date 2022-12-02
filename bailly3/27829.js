@@ -1,0 +1,1 @@
+lar[27829]=`<b>ας (ἡ)</b> <font color="purple">[ᾱᾰ]</font> composition <i>ou</i> représentation d’une pièce de théâtre, PHIL. <i>2, 597</i>.<p><b>Étym</b>. δραματοποιός.`

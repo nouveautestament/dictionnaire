@@ -1,0 +1,1 @@
+lar[10217]=`<b>ἀντι·παρίσταμαι</b>, correspondre à, PTOL. <i>Geogr. 8, 1, 14</i>.`

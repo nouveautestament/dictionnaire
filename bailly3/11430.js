@@ -1,0 +1,1 @@
+lar[11430]=`<b>ἀπ·ασκαρίζω</b> <font color="purple">[κᾰ]</font> sauter, trépigner, AR. <i>fr. 416</i> ; MÉN. (SUID.).`

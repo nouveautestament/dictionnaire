@@ -1,0 +1,1 @@
+lar[53005]=`<b>εως (ἡ)</b> <font color="purple">[πᾰ]</font> action de fouler aux pieds, SPT. <i>4Reg. 13, 7</i>.<p><b>Étym</b>. καταπατέω.`

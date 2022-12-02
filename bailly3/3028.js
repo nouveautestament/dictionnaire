@@ -1,0 +1,1 @@
+lar[3028]=`<b>ή, όν</b>, tenu en l’air, suspendu, ANTH. <i>5, 204</i>.<p><b>Étym</b>. <i>vb. de</i> αἰωρέω.`

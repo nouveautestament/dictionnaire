@@ -1,0 +1,1 @@
+lar[20782]=`<i>adv</i>., comme il convient pour un petit enfant, ORIG. <i>3, 476c Migne</i>.`

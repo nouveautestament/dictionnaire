@@ -1,0 +1,1 @@
+lar[14875]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> fabrication d’un char, HERMIAS <i>5</i>.<p><b>Étym</b>. ἁρματοποιός.`

@@ -1,0 +1,1 @@
+lar[27195]=`<b>δί·χολος, ος, ον :<br>      1</b> qui a deux vésicules de fiel, EL. <i>N.A. 11, 29</i>.<br><b>      2</b> tout à fait amer, <i>càd</i>. tout à fait hostile, ACHÆ. (HSCH.).<p><b>Étym</b>. δίς, χολή.`

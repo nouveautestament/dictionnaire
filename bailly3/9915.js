@@ -1,0 +1,1 @@
+lar[9915]=`<b>ἀντι·κάρδιον, ου (τὸ)</b> creux de la poitrine, RUF. <i>p. 28, 50</i>.<p><b>Étym</b>. ἀ. καρδία.`

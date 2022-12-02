@@ -1,0 +1,1 @@
+lar[85665]=`<b>προσ·επιδείκνυμι</b>, montrer <i>ou</i> exposer en outre, <i>acc</i>. POL. <i>4, 82, 5</i> ; DC. <i>54, 14</i>.`

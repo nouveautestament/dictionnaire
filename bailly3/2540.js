@@ -1,0 +1,1 @@
+lar[2540]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> du sang, qui concerne le sang, ARSTT. <i>P.A. 2, 6, 8, etc.</i><br><b>      2</b> qui a du sang, ARSTT. <i>H.A. 7, 3, au</i> <i>• Sup</i>. -ώτατος.<br><b>      3</b> βολβὸς ὁ αἱματικός, <i>c</i>. ἡμεροκαλλίς, DIOSC. <i>3, 137</i>.<p><b>Étym</b>. αἷμα.`

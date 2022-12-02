@@ -1,0 +1,1 @@
+lar[31707]=`<b>ἐκ·νέμομαι</b> <font color="darkgreen">(<i>f</i>. οῦμαι, <i>ao. pass</i>. ἐξενεμήθην) :</font><br><b>      1</b> paître, se repaître, TH. <i>H.P. 9, 16, 1 ; fig</i>. LUC. <i>Am. 25</i>.<br><b>      2</b> mener paître, <i>d’où p. ext</i>. conduire au dehors, SOPH. <i>Aj. 369</i>.`

@@ -1,0 +1,1 @@
+lar[6658]=`<b>έως (ὁ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> qui élève : ἀν. ψυχῶν, PROCL. <i>H. Sol. 34,</i> qui élève les âmes.<br><b>      2</b> <i>plur</i>. oreilles de souliers (<i>lat</i>. ligulæ), EL. <i>V.H. 9, 11</i> ; ATH. <i>543f</i>.<p><b>Étym</b>. ἀνάγω.`

@@ -1,0 +1,1 @@
+lar[15934]=`<b>ου (τὸ)</b> petite outre, PLUT. <i>Artax. 12</i> ; DL. <i>5, 16</i>.<p><b>Étym</b>. <i>dim. de</i> ἀσκός.`

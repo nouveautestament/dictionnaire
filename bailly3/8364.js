@@ -1,0 +1,1 @@
+lar[8364]=`<b>ἀν·ενόχλητος, ος, ον</b>, non troublé, non importuné, HDN <i>5, 7</i> ; HLD. <i>5, 19</i>.<p><b>Étym</b>. ἀν-, ἐνοχλέω.`

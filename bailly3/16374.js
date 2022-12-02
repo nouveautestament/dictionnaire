@@ -1,0 +1,1 @@
+lar[16374]=`<b>ἀστυ·μέριμνος, ος, ον</b> <font color="purple">[ῠ]</font> qui songe aux affaires de la ville, SYN. <i>319</i>.<p><b>Étym</b>. ἄ. μέριμνα.`

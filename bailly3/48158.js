@@ -1,0 +1,1 @@
+lar[48158]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Thôrykiôn, <i>h</i>. AR. <i>Ran. 363, 381</i>.`

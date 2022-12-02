@@ -1,0 +1,1 @@
+lar[58813]=`<b>κυνό·λυκος, ου (ὁ)</b> <font color="purple">[ῠῠ]</font> chien-loup, CTÉS. <i>Ind. 32</i>.<p><b>Étym</b>. κ. λύκος.`

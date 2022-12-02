@@ -1,0 +1,1 @@
+lar[61528]=`<b>λογό·μιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> bouffon qui contrefait le langage de qqn, ATH. <i>19c</i>.<p><b>Étym</b>. λ. μιμέομαι.`

@@ -1,0 +1,1 @@
+lar[109157]=`<b>χρυσο·βαφής, ής, ές</b> <font color="purple">[ῡᾰ]</font> teint en or, <i>càd</i>. qui a des vêtements <i>ou</i> des chaussures brodées d’or, PLUT. <i>Demetr. 41</i> ; ANTH. <i>15, 22, etc</i>.<p><b>Étym</b>. χρ. βάπτω.`

@@ -1,0 +1,1 @@
+lar[87719]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> boîte en buis :<br><b>      1</b> boîte pour remèdes <i>ou</i> pour diverses substances, LUC. <i>As. 14, Philops. 21 etc.</i><br><b>      2</b> encrier, JOS. <i>B.J. 1, 30, 7</i>.<p><b>Étym</b>. πύξος.`

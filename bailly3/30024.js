@@ -1,0 +1,1 @@
+lar[30024]=`<b>ἑδνάομαι-ῶμαι</b> (<i>seul. f</i>. -άσομαι <font color="purple">[ᾱσ]</font>) donner une dot, doter, EUR. <i>Hel. 933</i>.<p><b>Étym</b>. ἕδνον.`

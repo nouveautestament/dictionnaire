@@ -1,0 +1,1 @@
+lar[61596]=`<i>att</i>. <b>-ώττω</b>, être atteint de la peste, LUC. <i>H. conscr. 15, Scyth. 2</i>.<p><b>Étym</b>. λοιμός.`

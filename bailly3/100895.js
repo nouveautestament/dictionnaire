@@ -1,0 +1,1 @@
+lar[100895]=`<b>τρυφο·καλάσιρις, εως (ἡ)</b> <font color="purple">[ῠᾰᾰσῐ]</font> robe de femme élégante et luxueuse, AR. <i>fr. 309, 6</i>.<p><b>Étym</b>. τρυφή, καλάσιρις.`

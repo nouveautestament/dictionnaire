@@ -1,0 +1,1 @@
+lar[4799]=`<b>ή, όν</b>, qui peut changer, ARSTT. <i>Phys. 3, 1, 5</i> ; PLUT. <i>M. 882c</i>.`

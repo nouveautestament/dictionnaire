@@ -1,0 +1,1 @@
+lar[63330]=`<b>μεγαλ·ήτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> au grand cœur, au grand courage, <i>en parl. de héros ou de peuples,</i> IL. <i>13, 202</i> ; OD. <i>19, 176</i>.<br><b>      2</b> fier, orgueilleux, IL. <i>9, 109</i> ; OD. <i>5, 298, etc.</i> ; PD. <i>I. 5, 44</i>.<p><b>Étym</b>. μ. ἦτορ.`

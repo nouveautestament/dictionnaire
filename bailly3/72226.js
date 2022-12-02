@@ -1,0 +1,1 @@
+lar[72226]=`<i>neutre de</i> ὅσπερ <i>ou masc. poét. p</i>. ὅσπερ.`

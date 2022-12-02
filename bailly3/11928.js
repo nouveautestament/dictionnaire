@@ -1,0 +1,1 @@
+lar[11928]=`<b>ἀ·πήρινος, ος, ον</b> <font color="purple">[ῑ]</font> sans bourses (poisson) ARCHESTR. (ATH. <i>299a</i>) <i>conj</i>.<p><b>Étym</b>. ἀ, πηρίς.`

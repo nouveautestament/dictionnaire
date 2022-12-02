@@ -1,0 +1,1 @@
+lar[46780]=`<b>θεοσεβέω-ῶ</b>, honorer la divinité, être pieux, DC. <i>54, 30</i> ; CLÉM. <i>1, 529</i> ; CHRYS. <i>9, 465 Migne</i>.<p><b>Étym</b>. θεοσεβής.`

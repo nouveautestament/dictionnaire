@@ -1,0 +1,1 @@
+lar[78746]=`<b>περι·κελαδέω-ῶ</b> <font color="purple">[ᾰ]</font> gazouiller autour, RHÉT. <i>1, 634 W</i>.`

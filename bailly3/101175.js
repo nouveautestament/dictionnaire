@@ -1,0 +1,1 @@
+lar[101175]=`<b>όνος (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> embrasement, combustion, CALL. (HDN GR. <i>π. μ. λ. 9</i>).<br><b>      2</b> torche, ŒNOM. (EUS. <i>P.E. 234c</i>).<p><b>Étym</b>. τύφω.`

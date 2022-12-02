@@ -1,0 +1,1 @@
+lar[47874]=`<b>ου (ὁ)</b> sorte de poisson, <i>p.-ê</i>. l’ombre, EL. <i>N.A. 14, 22</i>.`

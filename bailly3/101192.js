@@ -1,0 +1,1 @@
+lar[101192]=`<b>εως (ἡ) :<br>      1</b> action d’aveugler, ISOCR. <i>257e.</i><br><b>      2</b> cécité, HPC. <i>Aph. 1258</i>.<p><b>Étym</b>. τυφλόω.`

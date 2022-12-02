@@ -1,0 +1,1 @@
+lar[20982]=`<b>α, ον</b>, de Byblos, <i>en Phénicie,</i> LUC. <i>Syr. 6, etc.</i> ; EL. <i>V.H. 4, 1 ; etc. ou en Égypte,</i> PLUT. <i>Is. et Os. 15</i>.<p>➳ <i>Gén. f. ion</i>. βυβλίης, LUC. <i>l. c</i>.<p><b>Étym</b>. βύβλος 1.`

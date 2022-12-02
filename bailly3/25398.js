@@ -1,0 +1,1 @@
+lar[25398]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> suppuration, HPC. <i>38, 44</i>.<p><b>Étym</b>. διαπυέω.`

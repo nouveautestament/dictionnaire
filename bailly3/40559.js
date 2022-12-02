@@ -1,0 +1,1 @@
+lar[40559]=`<b>Ἑρμ·αγόρας, ου (ὁ)</b> Hermagoras :<br><b>      1</b> <i>càd</i>. Hermès de place publique, LUC. <i>J. tr. 33</i>.<br><b>      2</b> <i>n. d’h</i>. PLUT. <i>Pomp. 42</i>.<p>➳ <i>Voc</i>. Ἑρμαγόρα, LUC. <i>l. c</i>.<p><b>Étym</b>. Ἑρμῆς, ἀγορά.`

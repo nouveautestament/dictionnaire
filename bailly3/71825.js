@@ -1,0 +1,1 @@
+lar[71825]=`<font color="purple">[ῠ]</font> <i>adv.</i> :<br><b>      1</b> du même nom, ARSTT. <i>Nic. 5, 1, 7</i>.<br><b>      2</b> d’une façon équivoque, TH. <i>C.P. 1, 22, 1</i>.`

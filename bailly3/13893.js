@@ -1,0 +1,1 @@
+lar[13893]=`<b>ἀ·πρίωτος, ος, ον</b> <font color="purple">[ῑ]</font> non opéré au moyen du trépan, HPC. <i>907h, 912d</i>.<p><b>Étym</b>. ἀ, πριόω.`

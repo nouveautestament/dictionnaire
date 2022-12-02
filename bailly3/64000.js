@@ -1,0 +1,1 @@
+lar[64000]=`<b>μελί·γηρυς, υος (ὁ, ἡ)</b> au doux son, OD. <i>12, 187</i> ; HH. <i>Ap. 519</i> ; ALCM. <i>13</i>.<p>➳ <i>En prose seul</i>. PLAT. <i>Phædr. 269a ; dor</i>. μελίγαρυς <font color="purple">[ᾱ]</font> PD. <i>O. 11, 4 ; N. 3, 7</i>.<p><b>Étym</b>. μ. γῆρυς.`

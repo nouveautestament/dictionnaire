@@ -1,0 +1,1 @@
+lar[78544]=`<b>ῆς (ἡ) :<br>      1</b> course autour, course circulaire, circuit, XÉN. <i>Cyn. 10, 11</i> ; PLUT. <i>Æmil. 20</i>.<br><b>      2</b> <i>en parl. du temps, des astres,</i> tour périodique, révolution, EUR. <i>Hel. 776</i>.<br><b>      3</b> <i>fig</i>. action de circonvenir, fraude, PLUT. <i>M. 886c ;</i> MEMN. <i>8</i>.<p><b>Étym</b>. περίδρομος.`

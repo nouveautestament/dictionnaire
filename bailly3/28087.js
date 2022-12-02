@@ -1,0 +1,1 @@
+lar[28087]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> territoire soumis à l’autorité d’un gouverneur, gouvernement, province ; <i>p. suite,</i> ressources <i>ou</i> produits d’une province, SPT. <i>3Reg. 3, 1</i>.<p><b>Étym</b>. δυναστεύω.`

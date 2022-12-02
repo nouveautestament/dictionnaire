@@ -1,0 +1,1 @@
+lar[48974]=`<b>ῆς (ἡ)</b> <font color="purple">[ῑᾰ]</font> <i>s.-e</i>. τέχνη, l’art du tailleur, PLAT. <i>Pol. 280a</i>.<p><b>Étym</b>. ἱ. ἔργον.`

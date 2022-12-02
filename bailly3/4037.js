@@ -1,0 +1,1 @@
+lar[4037]=`<b>ή, όν</b> <font color="purple">[ᾰᾱ]</font><br><b>      1</b> <i>en parl. de choses,</i> de fanfaron, de vantard, HPC. <i>20, 14</i> ; ARSTT. <i>Nic. 4, 7</i>.<br><b>      2</b> <i>en parl. de pers</i>. disposé à se vanter, vantard, XÉN. <i>Mem. 1, 2, 5</i>.<p>•<i> Cp</i>. -ώτερος, POL. <i>27, 6, 12</i>.<p><b>Étym</b>. ἀλαζών.`

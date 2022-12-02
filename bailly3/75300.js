@@ -1,0 +1,1 @@
+lar[75300]=`<b>παντο·φυής, ής, ές</b>, qui produit tout, ORPH. <i>H. 10, 10</i> ; TIMON (DL. <i>6, 18).</i><p><b>Étym</b>. π. φύω.`

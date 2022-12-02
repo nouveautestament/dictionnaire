@@ -1,0 +1,1 @@
+lar[88903]=`<b>ῥυπο·κόνδυλος, ος, ον</b> <font color="purple">[ῠῠ]</font> aux doigts sales, PLAT. COM. <i>2-2, 656 Mein.</i> ; AR. <i>fr. 620 Dind</i>.<p><b>Étym</b>. ῥύπος, κ.`

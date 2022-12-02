@@ -1,0 +1,1 @@
+lar[81947]=`<b>πολυ·ϊδρεία</b>, <i>ion</i>. <b>πολυϊδρείη, ης (ἡ)</b> grande science, <i>d’où</i> prudence, habileté, OD. <i>2, 346 ; 23, 77</i>.<p><b>Étym</b>. πολύϊδρις.`

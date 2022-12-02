@@ -1,0 +1,1 @@
+lar[21241]=`<b>α</b> <i>et</i> <b>ου (ὁ)</b> = <i>lat</i>. Galba :<br><b>      1</b> <i>empereur romain,</i> PLUT. DC. JOS. <i>etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Syll. 17</i> ; APP. DC.<p>➳ <i>Voc</i>. Γάλβα, PLUT. <i>Galb. 4. Gén</i>. Γάλβα, PLUT. <i>Galb. 5</i> ; DC. <i>63 ; ou</i> Γάλβου, DC. <i>51, 3. Acc. pl</i>. Γάλβας, PLUT. <i>Arist. c. Cat. ma. 1</i>.`

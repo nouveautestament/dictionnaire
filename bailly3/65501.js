@@ -1,0 +1,1 @@
+lar[65501]=`<b>μηρυκάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> mâcher en ruminant, ruminer, PLUT. <i>Rom. 4</i>.`

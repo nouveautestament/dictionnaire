@@ -1,0 +1,1 @@
+lar[44701]=`<b>ζῳδιο·φόρος, ος, ον</b>, qui porte des animaux : ζ. κύκλος, NYSS. <i>1, 896</i>, le zodiaque.<p><b>Étym</b>. ζῴδιον, φέρω.`

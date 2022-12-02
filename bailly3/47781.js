@@ -1,0 +1,1 @@
+lar[47781]=`<b>(ἡ)</b> Thryoessa (<i>propr</i>. remplie de jonc) <i>ville d’Élide, sur l’Alphée,</i> IL. <i>11, 711</i>.<p><b>Étym</b>. <i>fém. de</i> θρυόεις.`

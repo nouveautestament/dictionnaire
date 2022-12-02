@@ -1,0 +1,1 @@
+lar[83254]=`<i>ou</i> <b>πραότης, ητος (ἡ)</b> <font color="purple">[ᾱ]</font> douceur, bonté, facilité de caractère, ATT. ; <i>p. opp. à</i> χαλεπότης, LYS. <i>106, 15</i> ; PLAT. <i>Rsp. 558a, etc. ; à</i> ἀγριότης, PLAT. <i>Conv. 197d ; à</i> ὀργιλότης, ARSTT. <i>Nic. 4, 5 ; Rhet. 2, 3, 1, etc. ; au plur</i>. ISOCR. <i>106a</i>.<p><b>Étym</b>. πρᾷος.`

@@ -1,0 +1,1 @@
+lar[49765]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆τῑ]</font> égalité d’honneurs, de considération, de condition, STR. <i>8, 5, 4 Kram.</i> ; LUC. <i>D. mort. 25, 2, etc.</i> ; PHIL. <i>2, 86</i>.<p><b>Étym</b>. ἰσότιμος.`

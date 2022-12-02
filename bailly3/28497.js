@@ -1,0 +1,1 @@
+lar[28497]=`<b>δυσ·θέατος, ος, ον</b> <font color="purple">[ᾱ]</font><br><b>      1</b> difficile à voir, obscur, EL. <i>N.A. 9, 61 ; joint à</i> ἀμαυρός, PLUT. <i>M. 966c.</i><br><b>      2</b> pénible à voir, affreux, ESCHL. <i>Pr. 69</i> ; SOPH. <i>Aj. 1004</i>.<p><b>Étym</b>. δ. θεάομαι.`

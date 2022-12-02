@@ -1,0 +1,1 @@
+lar[25668]=`<b>άγος (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> intervalle entre deux rochers, <i>d’où</i> crevasse, précipice, HDT. <i>2, 158, etc.</i><br><b>      2</b> cavité, OPP. <i>H. 1, 744</i>.<p><b>Étym</b>. διασφάττω.`

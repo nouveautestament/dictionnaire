@@ -1,0 +1,1 @@
+lar[63463]=`<b>μεγαλοφωνέω-ῶ</b> <font color="purple">[ᾰ]</font> crier fort, MOSCHION <i>Mul. pass. 19</i>.<p><b>Étym</b>. μεγαλόφωνος.`

@@ -1,0 +1,1 @@
+lar[47214]=`<b>θηλυ·φόνος, ος, ον</b> <font color="purple">[ῠ]</font>, qui tue les femmes, NIC. <i>Al. 41 ; subst</i>. τὸ θηλυφόνον, TH. <i>H.P. 9, 18, 2</i> ; DIOSC. <i>4, 77,</i> aconit, <i>plante</i>.<p><b>Étym</b>. θ. πεφνεῖν.`

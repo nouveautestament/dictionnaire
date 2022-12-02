@@ -1,0 +1,1 @@
+lar[56059]=`<b>ή, όν</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> fait en forme d’échelle <i>ou</i> de degrés, POL. <i>5, 59, 9</i>.<br><b>      2</b> <i>fig</i>. κλιμακωτὸν σχῆμα, HERMOG. <i>3, 286, 710 Walz,</i> gradation, <i>t. de rhét</i>.<p><b>Étym</b>. *κλιμακόω <i>de</i> κλῖμαξ.`

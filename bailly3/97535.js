@@ -1,0 +1,1 @@
+lar[97535]=`<b>τανταλόω-ῶ</b> <font color="purple">[ᾰλ]</font> foudroyer (comme fut frappé Tantale) SOPH. <i>Ant. 134</i>.<p><b>Étym</b>. Τάνταλος.`

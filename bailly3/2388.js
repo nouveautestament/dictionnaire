@@ -1,0 +1,1 @@
+lar[2388]=`<b>αἰει·γενέτης, ου</b>, <i>adj. m</i>. immortel, <i>en parl. des dieux, seul. dans Hom. et à la fin des vers</i> : θεῶν αἰειγενετάων, IL. <i>2, 400</i> ; θεοῖσ' αἰειγενέτῃσιν, IL. <i>3, 296</i>.<p><b>Étym</b>. αἰεί, γίγνομαι.`

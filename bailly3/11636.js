@@ -1,0 +1,1 @@
+lar[11636]=`<b>ἀπ·εκλύω</b>, résoudre, dissoudre, A. APHR. <i>Probl. 1, 120</i>.`

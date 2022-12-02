@@ -1,0 +1,1 @@
+lar[89158]=`<b>σαλαγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font><br><b>      1 <i>tr</i>.</b> <i>c</i>. βινέω, POÈT. (LUC. <i>Alex. 50</i>).<br><b>      2 <i>intr.</i></b> s’entrechoquer, OPP. <i>C. 3, 352 ; p. ext</i>. s’agiter avec violence, OPP. <i>C. 4, 74</i>.<p><b>Étym</b>. <i>cf</i>. σαλάσσω.`

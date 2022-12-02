@@ -1,0 +1,1 @@
+lar[23568]=`<b>Δεινό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Deinomakhos, <i>h</i>. LUC. <i>Philops. 6 ; etc</i>.<p><b>Étym</b>. δ. μάχομαι.`

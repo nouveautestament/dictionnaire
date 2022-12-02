@@ -1,0 +1,1 @@
+lar[19428]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’une manière impudente <i>ou</i> infâme, PHIL. <i>1, 209</i>.`

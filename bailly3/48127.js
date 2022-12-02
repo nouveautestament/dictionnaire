@@ -1,0 +1,1 @@
+lar[48127]=`<b>(ἡ)</b> Thônis, <i>Égyptienne,</i> PLUT. <i>Demetr. 27</i>.`

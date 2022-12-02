@@ -1,0 +1,1 @@
+lar[54187]=`<b>άδος</b>, <i>adj. f</i>. ténébreuse (la nuit), SOPH. (PHOT. <i>Bibl. p. 150, 9</i>) ; A.RH. <i>4, 1695</i>.`

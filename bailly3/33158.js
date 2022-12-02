@@ -1,0 +1,1 @@
+lar[33158]=`<b>ῆς (ἡ)</b> fomentation, lotion, PLUT. <i>M. 42c ;</i> DIOSC. <i>1, 53</i> ; ANTYLL. (ORIB. <i>2, 332, 5 B.-Dar</i>.).<p><b>Étym</b>. ἐμβρέχω.`

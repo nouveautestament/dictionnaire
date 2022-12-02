@@ -1,0 +1,1 @@
+lar[17895]=`<b>ἀ·φαρμάκευτος, ος, ον</b> <font color="purple">[μᾰ]</font> non drogué, <i>d’où</i> :<br><b>      1</b> non mêlé de drogues <i>ou</i> de poisons, HPC. <i>401, 15</i>.<br><b>      2</b> non teinté, non fardé, ALCIPHR. <i>fr. 5, 4</i>.<p><b>Étym</b>. ἀ, φαρμακεύω.`

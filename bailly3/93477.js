@@ -1,0 +1,1 @@
+lar[93477]=`<b>συγ·κλύζω</b>, <i>anc. att</i>. <b>ξυγ·κλύζω</b>, inonder de flots qui s’entrechoquent, <i>d’où</i> ballotter sur les flots, <i>au pass</i>. PLUT. <i>M. 206c, 467d ; p. suite,</i> submerger, <i>fig. au pass</i>. PLUT. <i>M. 831b ; en gén. fig</i>. bouleverser, confondre, <i>au pass</i>. PHILSTR. <i>509</i>.<p><b>Étym</b>. σύγκλυς.`

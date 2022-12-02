@@ -1,0 +1,1 @@
+lar[60819]=`<b>ου (τὸ)</b> le Lènæon, <i>temple de Dionysos, à Athènes, où l’on célébrait les fêtes du pressoir,</i> AR. <i>Ach. 504</i> ; PLAT. <i>Prot. 327d ;</i> DÉM. <i>517, 26</i>.<p><b>Étym</b>. Λῆναι.`

@@ -1,0 +1,1 @@
+lar[23828]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰ]</font> faisceau, botte, GEOP.<p><b>Étym</b>. δέμα.`

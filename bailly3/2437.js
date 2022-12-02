@@ -1,0 +1,1 @@
+lar[2437]=`<b>αἰθερο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> voyager dans les airs, LUC. <i>Philops. 25</i>.<br><b>      2</b> <i>fig</i>. élever son esprit <i>ou</i> son âme, PHIL.<p><b>Étym</b>. αἰθήρ, βαίνω.`

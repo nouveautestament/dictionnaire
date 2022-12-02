@@ -1,0 +1,1 @@
+lar[25006]=`<b>δια·μαστιγόω-ῶ</b> <font color="purple">[τῑ]</font> (<i>seul. part. pf. pass</i>. -μεμαστιγωμένη) fouetter durement, PLAT. <i>Gorg. 524e</i>.`

@@ -1,0 +1,1 @@
+lar[4474]=`<b>α, ον</b> <font color="purple">[ᾰῐκ]</font> <i>c</i>. Ἁλικαρνασσεύς ANDROT. (E. BYZ. <i>v°</i> Ἁλικαρνάσσιος).<p>➳ <i>Dans les inscr. att. d’ord. écrit par</i> σσ, CIA. <i>1, 230, 29 (450 av. J.-C.) ; 233, 10 (447 av. J.-C.) ; 235, 13c (445 av. J.-C.) ; une fois seul. par</i> σ : Ἁλικαρνάσιοι, CIA. <i>1, 229, 19b (451 av. J.-C.), v. Meisterh. p. 75, 12</i>.`

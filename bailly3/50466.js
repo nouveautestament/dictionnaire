@@ -1,0 +1,1 @@
+lar[50466]=`<i>vb. de</i> καθοσιόω NICOM. <i>Arithm. 50</i>.`

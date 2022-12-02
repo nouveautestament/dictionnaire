@@ -1,0 +1,1 @@
+lar[45236]=`<b>Ἡλι·όπη, ης (ἡ)</b> Hèliopè, <i>personn. allégor</i>. EMPÉD. (PLUT. <i>M. 474b</i>).<p><b>Étym</b>. ἥ. ὄψομαι.`

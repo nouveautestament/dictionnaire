@@ -1,0 +1,1 @@
+lar[8444]=`<i>adv</i>., sans être pressé <i>ou</i> exhorté, PHIL. <i>1, 115</i>.`

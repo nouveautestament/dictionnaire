@@ -1,0 +1,1 @@
+lar[16004]=`<b>ου (ὁ</b> <i>ou</i> <b>ἡ)</b> <font color="purple">[πᾰᾰ]</font> genêt épineux, <i>de la famille de l’acanthe (Genista acanthoclada</i> L.) THGN. <i>1193</i> ; PLAT. <i>Rsp. 616a ;</i> TH. <i>H.P. 9, 7, 3</i> ; THCR. <i>Idyl. 24, 87, etc</i>.<p>➳ ὁ ἀ. AR. <i>fr. 588</i> ; ἡ ἀ. PHÉRÉCR. (ATH. <i>685b</i>) ; TH. <i>Od. 33</i>.`

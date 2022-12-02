@@ -1,0 +1,1 @@
+lar[91942]=`<b>ου (τὸ) :<br>      1</b> bandage <i>ou</i> compresse pour les plaies <i>ou</i> fractures, HPC. <i>Fract. 769</i> ; PHILÉM. (<i>Com. fr. 4, 42</i>) ; EL. <i>N.A. 8, 9</i>.<br><b>      2</b> <i>autre n. de la fougère</i> ἄσπληνον, DIOSC. <i>3, 151</i>.`

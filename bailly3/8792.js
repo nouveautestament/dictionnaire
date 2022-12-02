@@ -1,0 +1,1 @@
+lar[8792]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> tige, <i>particul</i>. tige d’asphodèle, TH. <i>H.P. 7, 13, 2</i> ; NIC. <i>Th. 535</i> ; CALL. <i>Del. 193</i>.<br><b>      2</b> fleur d’asphodèle, DIOSC. <i>2, 199</i>.<br><b>      3</b> asphodèle, CRAT. (PHRYN. GR. <i>p. 110</i>) ; EUP. (PLUT. <i>M. 662e</i>).<p><b>Étym</b>. ἀνθέριξ.`

@@ -1,0 +1,1 @@
+lar[82702]=`<b>ποντο·θήρης, ου (ὁ)</b> qui chasse sur mer, <i>càd</i>. pêcheur, ANTH. <i>6, 193</i>.<p><b>Étym</b>. <i>ion. c</i>. *ποντοθήρας, <i>de</i> πόντος, θηράω.`

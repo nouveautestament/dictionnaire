@@ -1,0 +1,1 @@
+lar[1443]=`<b>ἀ·δίοπος, ος, ον</b>, sans surveillant, sans chef, ESCHL. <i>fr. 246</i>.`

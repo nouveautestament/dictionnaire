@@ -1,0 +1,1 @@
+lar[61084]=`<b>λιθο·τράχηλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> au cou de pierre, <i>càd</i>. au cou raide, JUL. <i>fragm. 213 Migne</i>.<p><b>Étym</b>. λ. τράχηλος.`

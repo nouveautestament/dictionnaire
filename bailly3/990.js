@@ -1,0 +1,1 @@
+lar[990]=`(<i>seul. prés</i>.) chasser <i>ou</i> pêcher, <i>acc</i>. OD. <i>5, 53</i> ; CALL. <i>Ap. 60 ; abs</i>. OPP. <i>C. 1, 129</i>.<p><b>Étym</b>. ἄγρα.`

@@ -1,0 +1,1 @@
+lar[103426]=`<b>ος, ον</b> <font color="purple">[κρῠ]</font> caché, secret, NONN. <i>D. 36, 96</i>.<p><b>Étym</b>. ὑποκρύπτω.`

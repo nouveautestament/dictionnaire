@@ -1,0 +1,1 @@
+lar[102982]=`<b>ή, όν :<br>      1</b> endormi, somnolent, NIC. <i>Th. 189</i> ; DL. <i>6, 77, etc.</i><br><b>      2</b> qui ressemble au sommeil, PHILSTR. <i>819</i>.<p><b>Étym</b>. ὕπνος.`

@@ -1,0 +1,1 @@
+lar[24060]=`<b>ας (ἡ)</b> nombre d’une seconde série, THEOL. <i>p. 35</i>.<p><b>Étym</b>. δ. ὁδός.`

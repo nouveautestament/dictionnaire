@@ -1,0 +1,1 @@
+lar[52240]=`<b>κατα·γνάμπτω</b>, courber, recourber, ANTH. <i>4, 3, 51</i>.`

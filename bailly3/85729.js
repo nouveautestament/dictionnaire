@@ -1,0 +1,1 @@
+lar[85729]=`<b>προσ·επισφίγγω</b>, serrer contre, lier étroitement à, PHIL. <i>1, 291</i>.`

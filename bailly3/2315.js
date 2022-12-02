@@ -1,0 +1,1 @@
+lar[2315]=`<b>αἰγο·τριχέω-ῶ</b> <font color="purple">[ῐ]</font> avoir le poil d’une chèvre, STR. <i>822</i>.<p><b>Étym</b>. αἴξ, θρίξ.`

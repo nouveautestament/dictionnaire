@@ -1,0 +1,1 @@
+lar[61223]=`<b>λινο·γενής, ής, ές</b> <font color="purple">[ῐ]</font> fait de lin, SOPH. (POLL. <i>7, 45).</i><p><b>Étym</b>. λίνον, γίγνομαι.`

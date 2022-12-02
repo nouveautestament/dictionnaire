@@ -1,0 +1,1 @@
+lar[69373]=`<b>ης (ἡ)</b> Xanthippè (Xanthippe) <i>f., particul. femme de Socrate,</i> XÉN. <i>Conv. 2, 10</i> ; PLAT. <i>Phæd. 60a</i>.<p><b>Étym</b>. <i>cf</i>. Ξάνθιππος.`

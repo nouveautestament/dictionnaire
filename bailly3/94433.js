@@ -1,0 +1,1 @@
+lar[94433]=`<b>συμ·φιλοσοφέω-ῶ</b> <font color="purple">[ῐ]</font> s’occuper ensemble de philosophie, ARSTT. <i>Nic. 9, 12, 2</i> ; PLUT. <i>Cic. 24</i> ; LUC. <i>D. deor. 18, 2, etc.</i> ; σ. τινί τι, STR. <i>757,</i> étudier qqe ch. avec qqn.`

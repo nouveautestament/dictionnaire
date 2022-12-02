@@ -1,0 +1,1 @@
+lar[55287]=`<b>κηρο·τέχνης, ου (ὁ)</b> ouvrier modeleur en cire, ANACR. <i>10, 9</i>.<p><b>Étym</b>. κηρός, τέχνη.`

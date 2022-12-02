@@ -1,0 +1,1 @@
+lar[38621]=`<b>ἐπι·παράγω</b> <font color="purple">[ᾰ]</font> promener tout autour, ἐπί <i>et l’acc</i>. HPC. <i>Mochl. 848</i>.`

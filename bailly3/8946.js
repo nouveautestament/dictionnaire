@@ -1,0 +1,1 @@
+lar[8946]=`<b>ἀνθρωπο·ειδής, ής, ές</b>, qui a forme humaine, HDT. <i>2, 86, 142</i> ; ARSTT. <i>Metaph. 2, 2, 22, etc</i>.<p><b>Étym</b>. ἄ. εἶδος.`

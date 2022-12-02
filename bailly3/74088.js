@@ -1,0 +1,1 @@
+lar[74088]=`<b>παγ·γέωργος, ου (ὁ, ἡ)</b> cultivateur du monde entier, JOS. <i>Macc. 2, 15</i>.<p><b>Étym</b>. π. γεωργός.`

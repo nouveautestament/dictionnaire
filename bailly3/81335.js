@@ -1,0 +1,1 @@
+lar[81335]=`<b>ποθό·βλητος, ος, ον</b>, atteint d’un désir passionné, ANTH. <i>6, 71 ; 9, 620</i> ; NONN. <i>D. 4, 225</i>.<p><b>Étym</b>. πόθος, βάλλω.`

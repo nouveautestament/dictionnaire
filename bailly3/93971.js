@@ -1,0 +1,1 @@
+lar[93971]=`<b>συμ·μετεωρίζω</b>, élever avec <i>ou</i> ensemble, STR. <i>56</i>.`

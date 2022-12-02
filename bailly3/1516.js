@@ -1,0 +1,1 @@
+lar[1516]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> faiblesse, HDN <i>2, 10, 17</i>.<p>➳ <i>Ion. épq</i>. -νίη, A.RH. <i>2, 200</i>.<p><b>Étym</b>. ἀδρανής.`

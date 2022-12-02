@@ -1,0 +1,1 @@
+lar[64110]=`<b>ου (ὁ)</b> <font color="purple">[ῑτ]</font> Mélitidès, <i>type d’idiot, à Athènes,</i> AR. <i>Ran. 991</i> ; EL. <i>V.H. 13, 15</i>.`

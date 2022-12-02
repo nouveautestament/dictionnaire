@@ -1,0 +1,1 @@
+lar[30028]=`<i>épq</i>. <b>ἐεδνωτής, οῦ (ὁ)</b> qui dote sa fille, <i>d’où</i> beau-père, IL. <i>13, 382</i>.<p><b>Étym</b>. ἑδνόω.`

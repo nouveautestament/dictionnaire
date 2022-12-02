@@ -1,0 +1,1 @@
+lar[46262]=`<font color="purple">[ᾰ]</font> (<i>seul. fém. pl. nom</i>. θαμειαί, IL. <i>1, 52, etc. ; acc</i>. θαμειάς, IL. <i>9, 383 ; 22, 316 ; et cp</i>. θαμειότερος, NIC. <i>Al. 594</i>) nombreux, fréquent, qui se succède continuellement.<p><b>Étym</b>. θαμά.`

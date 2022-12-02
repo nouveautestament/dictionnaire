@@ -1,0 +1,1 @@
+lar[15440]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> assaisonnement, BATR. <i>41</i> ; SOPH. (ATH. <i>67f</i>) ; <i>fig</i>. PLUT. <i>M. 9c</i>.<p><b>Étym</b>. ἀρτύω.`

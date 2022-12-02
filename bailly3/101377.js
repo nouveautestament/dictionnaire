@@ -1,0 +1,1 @@
+lar[101377]=`<b>ὑγιο·ποιέω-ῶ</b> <font color="purple">[ῠ]</font> rendre sain, guérir, DS. <i>Exc. 521, 12</i>.<p><b>Étym</b>. ὑγιής, ποιέω.`

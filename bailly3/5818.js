@@ -1,0 +1,1 @@
+lar[5818]=`<b>ας (ἡ)</b> travail <i>ou</i> culture de la vigne, TH. <i>C.P. 3, 14, 2</i>.`

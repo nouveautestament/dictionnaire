@@ -1,0 +1,1 @@
+lar[3091]=`<b>ἀκαμαντο·χάρμας</b> (<i>seul. voc</i>. -χάρμαν) <font color="purple">[κᾰ]</font> infatigable au combat, PD. <i>fr. 179</i>.<p><b>Étym</b>. ἀκ. χάρμη.`

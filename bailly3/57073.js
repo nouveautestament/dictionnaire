@@ -1,0 +1,1 @@
+lar[57073]=`<i>adv</i>., à Corinthe, <i>avec mouv</i>. LUC. <i>Herm. 28</i>.<p><b>Étym</b>. Κόρινθος, -δε.`

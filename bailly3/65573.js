@@ -1,0 +1,1 @@
+lar[65573]=`<b>οῦ (ὁ)</b> beau-père, THPP. COM. (POLL. <i>3, 27) formé d’après</i> μητρυιά).`

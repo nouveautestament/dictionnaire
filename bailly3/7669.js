@@ -1,0 +1,1 @@
+lar[7669]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> action de troubler, de bouleverser, RHÉT. <i>3, 596 W</i>.<p><b>Étym</b>. ἀναστατόω.`

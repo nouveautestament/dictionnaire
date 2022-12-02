@@ -1,0 +1,1 @@
+lar[66001]=`<b>ᾶς (ἡ)</b> solde, paye, <i>particul</i>. solde militaire, THC. <i>8, 45</i> ; XÉN. <i>An. 5, 6, 23, etc.</i> ; ISOCR. <i>408d ;</i> DS. <i>16, 81 ; au plur</i>. DS. <i>17, 64, etc</i>.<p><b>Étym</b>. μισθός, φέρω.`

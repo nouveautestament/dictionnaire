@@ -1,0 +1,1 @@
+lar[49003]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> désirable, souhaitable, aimable, charmant, <i>en parl. d’une rivière,</i> IL. <i>2, 751 ; de chants,</i> PD. <i>O. 6, 10 ; de couronnes,</i> HÉS. <i>Th. 577 ; de gloire,</i> PD. <i>P. 9, 132, etc. ; en parl. de pers</i>. ANTH. <i>5, 298 ; 9, 524, 525</i>.<p><b>Étym</b>. <i>vb. de</i> ἱμείρω.`

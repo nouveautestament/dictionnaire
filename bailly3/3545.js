@@ -1,0 +1,1 @@
+lar[3545]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petit javelot, petit trait, HH. <i>Ven. 460</i> ; HDT. <i>1, 34</i> ; THC. <i>5, 65</i> ; XÉN. <i>Hell. 4, 5, 15</i>.<br><b>      2</b> <i>plur</i>. exercice du javelot, PLAT. <i>Leg. 794c</i>.<p><b>Étym</b>. ἄκων¹.`

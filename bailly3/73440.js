@@ -1,0 +1,1 @@
+lar[73440]=`<i>contr. att. p</i>. ὁ ἐγώ, AR. <i>Ach. 41, etc</i>.`

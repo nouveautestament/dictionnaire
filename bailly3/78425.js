@@ -1,0 +1,1 @@
+lar[78425]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à califourchon, PLUT. <i>Artax. 14</i> ; A. TAT. <i>1, 1</i>.<p><b>Étym</b>. περιβαίνω, -δην.`

@@ -1,0 +1,1 @@
+lar[20457]=`<b>εως (ἡ)</b> <font color="purple">[λῑᾱ]</font> atteinte de boulimie, PLUT. <i>M. 695d</i>.<p><b>Étym</b>. βουλιμιάω.`

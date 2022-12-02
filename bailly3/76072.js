@@ -1,0 +1,1 @@
+lar[76072]=`<b>παρα·πλευρόω-ῶ</b>, garnir sur les flancs, <i>en parl. d’un navire, dat</i>. PHILSTR. <i>126</i>.<p><b>Étym</b>. π. πλευρά.`

@@ -1,0 +1,1 @@
+lar[64718]=`<b>μετά·δουπος, ος, ον</b>, qui tombe au milieu de, intermédiaire, HÉS. <i>O. 821</i>.<p><b>Étym</b>. μ. δοῦπος.`

@@ -1,0 +1,1 @@
+lar[74204]=`<b>παθο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui cause les affections du corps <i>ou</i> de l’âme, GAL. <i>13, 275</i>.<p><b>Étym</b>. πάθος, ποιέω.`

@@ -1,0 +1,1 @@
+lar[68383]=`<b>νευρο·σπαδής, ής, ές</b> <font color="purple">[ᾰ]</font> tiré au moyen de cordes, SOPH. <i>Ph. 290</i>.<p><b>Étym</b>. ν. σπάω.`

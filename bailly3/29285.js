@@ -1,0 +1,1 @@
+lar[29285]=`<font color="purple">[ᾰ]</font> <i>adv</i>., par une évolution renouvelée sept fois, NYSS. <i>2, 878b</i>.`

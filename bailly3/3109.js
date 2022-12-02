@@ -1,0 +1,1 @@
+lar[3109]=`<b>ή, όν</b> <font color="purple">[ᾰκ]</font> épineux, TH. <i>H.P. 6, 4, 6</i>.`

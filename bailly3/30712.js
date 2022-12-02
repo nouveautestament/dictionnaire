@@ -1,0 +1,1 @@
+lar[30712]=`<b>*εἰσβατός</b>, <i>anc. att</i>. <b>ἐσβατός, ή, όν</b> <font color="purple">[ᾰ]</font> accessible, THC. <i>2, 41</i>.<p><b>Étym</b>. εἰσβαίνω.`

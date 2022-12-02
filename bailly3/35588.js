@@ -1,0 +1,1 @@
+lar[35588]=`<b>ἐξ·αργυρόω-ῶ</b> <font color="purple">[ῠ]</font> convertir en argent, HDT. <i>6, 86</i>.`

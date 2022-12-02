@@ -1,0 +1,1 @@
+lar[76783]=`<b>πάρ·εργος, ος, ον</b>, qui est hors d’œuvre, accessoire, secondaire, PLAT. <i>Phædr. 174a, Tim. 38d, etc</i>.<p><b>Étym</b>. π. ἔργον.`

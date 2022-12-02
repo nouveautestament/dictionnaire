@@ -1,0 +1,1 @@
+lar[15585]=`<b>ου (ὁ)</b> <font color="purple">[ῐδᾱ]</font> Arkhidamidas, <i>h</i>. PLUT. <i>Lyc. 20, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀρχίδαμος.`

@@ -1,0 +1,1 @@
+lar[61035]=`<b>ας (ἡ)</b> <font color="purple">[ῐθ]</font> jet de pierres, lapidation, HPC. <i>Fract. 721</i> ; DS. <i>3, 49</i>.<p><b>Étym</b>. λιθοβόλος.`

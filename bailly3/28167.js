@@ -1,0 +1,1 @@
+lar[28167]=`<b>δυσ·ανάδοτος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> difficile à digérer, GAL. <i>2, 239</i> ; ATH. <i>91e ; joint à</i> δύσπεπτος, HIPPIATR. <i>p. 1, 25</i>.<p><b>Étym</b>. δ. ἀναδίδωμι.`

@@ -1,0 +1,1 @@
+lar[89534]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰῠ]</font> sorte de breuvage aphrodisiaque, P. ÉG. <i>7, 11</i>.<p><b>Étym</b>. σατύριον.`

@@ -1,0 +1,1 @@
+lar[80413]=`<b>(οἱ)</b> les habitants de Pira, <i>dème de Mégaride,</i> PLUT. <i>Qu. gr. 16</i>.`

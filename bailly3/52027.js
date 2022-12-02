@@ -1,0 +1,1 @@
+lar[52027]=`<b>άδος (ἡ)</b> <font color="purple">[κᾰ]</font> courtisane, prostituée, AR. <i>Eccl. 1106, etc</i> (<i>cf</i>. κασαύριον, κάσσα).`

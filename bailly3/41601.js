@@ -1,0 +1,1 @@
+lar[41601]=`<b>εὐ·άνθεμος, ος, ον</b>, aux belles fleurs, fleuri, PD. <i>O. 1, 67</i> ; ANTH. <i>4, 1, 9</i>.<p><b>Étym</b>. εὖ, ἄνθεμον.`

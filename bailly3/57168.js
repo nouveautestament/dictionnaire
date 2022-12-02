@@ -1,0 +1,1 @@
+lar[57168]=`<b>Κορυ·θαλία, ας (ἡ)</b> Korythalia, <i>ép. d’Artémis,</i> ATH. <i>139b</i>.`

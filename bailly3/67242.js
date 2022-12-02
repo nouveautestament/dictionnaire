@@ -1,0 +1,1 @@
+lar[67242]=`<b>μυρι·όδους, ους, ουν</b>, <i>gén</i>. <b>οντος</b> <font color="purple">[ῡ]</font> aux dents énormes, ANTH. <i>9, 285</i>.<p><b>Étym</b>. μ. ὀδούς.`

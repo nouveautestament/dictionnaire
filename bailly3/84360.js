@@ -1,0 +1,1 @@
+lar[84360]=`<b>προ·θρηνέω-ῶ</b>, déplorer d’avance <i>ou</i> depuis longtemps, PHIL. <i>2, 72</i> ; ARSTD. <i>t. 1, 419</i>.`

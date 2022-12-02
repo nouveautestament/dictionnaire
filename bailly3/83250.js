@@ -1,0 +1,1 @@
+lar[83250]=`<font color="purple">[ᾱ]</font> <i>adv</i>., avec plus de douceur <i>ou</i> de bonté, AR. <i>Ran. 856</i> ; EL. <i>N.A. 5, 39</i>.<p><b>Étym</b>. πρᾶος.`

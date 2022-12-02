@@ -1,0 +1,1 @@
+lar[34006]=`<b>ας (ἡ)</b> vue claire et distincte, clarté, évidence, PLAT. <i>Pol. 277c ;</i> POL. <i>3, 54, 2 ; particul. t. de rhét</i>. description animée, DH. <i>Lys. 7</i>.<p><b>Étym</b>. ἐναργής.`

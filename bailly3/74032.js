@@ -1,0 +1,1 @@
+lar[74032]=`<b>ὀψι·φόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui produit tardivement, TH. <i>C.P. 1, 17, 9</i>.<p><b>Étym</b>. ὀψέ, φέρω.`

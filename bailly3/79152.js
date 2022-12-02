@@ -1,0 +1,1 @@
+lar[79152]=`<b>ή, όν</b>, qui peut procurer, <i>gén</i>. MNÉSITH. (ATH. <i>358a</i>).<p><b>Étym</b>. περιποιέω.`

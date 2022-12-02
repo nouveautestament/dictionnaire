@@ -1,0 +1,1 @@
+lar[95174]=`<b>συν·διαχειμάζω</b>, passer l’hiver avec <i>ou</i> ensemble, PLUT. <i>Ages. 40, Ant. 37</i>.`

@@ -1,0 +1,1 @@
+lar[70478]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de pampre <i>ou</i> de vigne, IBYC. <i>fr. 1, 6 Bgk</i> ; HPC. <i>668, 54</i>.<p><b>Étym</b>. οἴναρον.`

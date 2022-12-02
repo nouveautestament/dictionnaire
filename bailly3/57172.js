@@ -1,0 +1,1 @@
+lar[57172]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Korymbasos, <i>h</i>. NONN. <i>D. 28, 51, etc</i>.`

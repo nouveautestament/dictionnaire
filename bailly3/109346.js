@@ -1,0 +1,1 @@
+lar[109346]=`<font color="purple">[ῠ]</font> <i>adv</i>., d’une façon vulgaire, BAS. <i>3, 466</i>.`

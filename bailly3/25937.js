@@ -1,0 +1,1 @@
+lar[25937]=`<b>διά·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> brodé d’or, DÉM. <i>522, 2</i> ; POL. <i>6, 53, 7</i> ; PLUT. <i>M. 142c, etc</i>.<p><b>Étym</b>. διά, χρυσός.`

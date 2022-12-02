@@ -1,0 +1,1 @@
+lar[107449]=`<b>ου (ὁ)</b> Khabrias (Chabrias) :<br><b>      1</b> <i>général athénien,</i> XÉN. <i>Hell. 5, 1, 12</i> ; DÉM. <i>20, 81 Baiter-Sauppe, etc.</i><br><b>      2</b> <i>autre,</i> DÉM. <i>59, 33 Baiter-Sauppe, etc</i>.<p>➳ <i>Voc</i>. Χαβρία, PLUT. <i>Phoc. 7 ; au plur</i>. Χαβρίαι, PLUT. <i>Adv. Col. 32,</i> des généraux comme Khabrias.`

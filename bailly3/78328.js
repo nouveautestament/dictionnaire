@@ -1,0 +1,1 @@
+lar[78328]=`<b>ικος (ὁ</b> <i>ou</i> <b>ἡ)</b> <font color="purple">[ῑκ]</font> perdrix, <i>oiseau,</i> SOPH. <i>fr. 300 Dind.</i> ; AR. <i>Av. 297, 767</i> ; XÉN. <i>Mem. 2, 1, 4</i> ; EL. <i>N.A. 4, 16, etc</i>.<p>➳ <font color="purple">[ῐκ]</font> ARCHIL. (ATH. <i>388f</i>) ; EPICH. <i>fr. 63 Ahrens</i>.`

@@ -1,0 +1,1 @@
+lar[53977]=`<b>κατ·ευλογέω-ῶ</b>, louer fortement, vanter, PLUT. <i>M. 66a, etc.</i> ; SPT. <i>Tob. 10, 12 ; 11, 12</i>.`

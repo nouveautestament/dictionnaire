@@ -1,0 +1,1 @@
+lar[94440]=`<b>συμ·φοβέω-ῶ</b>, effrayer en même temps, DC. <i>51, 26 ; d’où au pass</i>. s’effrayer en même temps, THC. <i>6, 101</i>.`

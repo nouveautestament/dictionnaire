@@ -1,0 +1,1 @@
+lar[19695]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Vivianus, <i>n. d’h</i>. ANTH. <i>9, 692</i>.`

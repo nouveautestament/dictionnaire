@@ -1,0 +1,1 @@
+lar[96914]=`<b>σφοδρόω-ῶ</b>, rendre violent, <i>d’où au pass</i>. être violent, <i>en parl. du vent,</i> PHIL. <i>2, 99</i>.<p><b>Étym</b>. σφοδρός.`

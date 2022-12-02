@@ -1,0 +1,1 @@
+lar[14636]=`<b>ἀρί·σημος, ος, ον</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> notable, remarquable, HH. <i>Merc. 12</i>.<br><b>      2</b> tout à fait visible, THCR. <i>Idyl. 25, 157 (dor</i>. ἀρίσαμος <font color="purple">[σᾱ]</font>).<p><b>Étym</b>. ἀρι-, σῆμα.`

@@ -1,0 +1,1 @@
+lar[86446]=`<b>προσ·ταργανόω-ῶ</b> <font color="purple">[γᾰ]</font> nouer <i>ou</i> attacher à, <i>dat</i>. LYC. <i>748</i>.`

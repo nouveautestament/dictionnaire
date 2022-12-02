@@ -1,0 +1,1 @@
+lar[96641]=`<b>συσ·σήπω</b>, faire pourrir <i>ou</i> faire se consumer ensemble, ARSTT. <i>P.A. 3, 14, 13 ; au pf. et au pass</i>. pourrir <i>ou</i> se consumer ensemble, EL. <i>N.A. 10, 13</i> ; CLÉM. <i>Protr. 1, 7</i>.`

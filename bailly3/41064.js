@@ -1,0 +1,1 @@
+lar[41064]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> du soir, XÉN. <i>Lac. 12, 6</i> ; DC. <i>69, 18</i> ; ATH. <i>11d ;</i> ANTH. <i>5, 202</i> ; ἡ ἑσπερινὴ θυσία, SPT. <i>Lev. 23, 5 ; 4Reg. 16, 15 ; 2Esdr. 9, 4 ; Ps. 140, 2,</i> sacrifice du soir ; ἑσπερινὴ εὐχή, BAS. <i>4, 497 Migne,</i> prière du soir.<p><b>Étym</b>. ἕσπερος.`

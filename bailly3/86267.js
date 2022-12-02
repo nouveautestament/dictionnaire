@@ -1,0 +1,1 @@
+lar[86267]=`<b>προσ·παραιρέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -παραιρήσομαι, <i>ao.2</i> -παρειλόμην, <i>etc</i>.)</font> enlever en outre <i>ou</i> encore, DC. <i>46, 40</i>.`

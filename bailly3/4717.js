@@ -1,0 +1,1 @@
+lar[4717]=`<i>non</i> ἀλλαχῆ <font color="purple">[ᾰχ]</font> <i>adv</i>., ailleurs, <i>sans mouv.</i> : ἄλλος ἀ. XÉN. <i>An. 7, 3, 47,</i> l’un ici, l’autre là ; ἄλλοτε ἀ. XÉN. <i>Mem. 1, 4, 12,</i> tantôt ici, tantôt là.<p><b>Étym</b>. *ἀλλαχο- <i>de</i> ἄλλος.`

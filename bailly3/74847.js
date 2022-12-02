@@ -1,0 +1,1 @@
+lar[74847]=`<b>ου (τὸ)</b> <font color="purple">[πᾰ]</font> Panakton, <i>lieu sur la frontière de l’Attique et de la Béotie,</i> THC. <i>5, 3, etc</i>.`

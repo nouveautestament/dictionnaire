@@ -1,0 +1,1 @@
+lar[95519]=`<b>συν·εξελεύθερος, ου (ὁ)</b> compagnon d’affranchissement, DC. <i>60, 15</i>.`

@@ -1,0 +1,1 @@
+lar[15599]=`<b>ἀρχ·ιερεύς, έως (ὁ) :<br>      1</b> grand-prêtre, PLAT. <i>Leg. 947a ; à Rome,</i> le Pontifex maximus, POL. <i>23, 1</i> ; PLUT. <i>Num. 9</i>.<br><b>      2</b> <i>t. eccl</i>. évêque, NAZ. NYSS. <i>etc</i>.`

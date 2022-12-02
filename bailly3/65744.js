@@ -1,0 +1,1 @@
+lar[65744]=`<b>μικρό·στηθος, ος, ον</b>, qui a la poitrine petite, MNÉSITH. (ORIB. <i>3, 24 B.-Dar</i>.).<p><b>Étym</b>. μ. στῆθος.`

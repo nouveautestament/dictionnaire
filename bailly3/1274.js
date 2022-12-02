@@ -1,0 +1,1 @@
+lar[1274]=`<b>ἀδηλο·ποιέω-ῶ</b>, faire disparaître, SYMM. <i>Job 9, 5</i>.<p><b>Étym</b>. ἄδηλος, π.`

@@ -1,0 +1,1 @@
+lar[16119]=`<b>α, ον</b> <font color="purple">[τᾰ]</font> de la race d’Astakos, SOPH.<p><b>Étym</b>. Ἄστακος¹.`

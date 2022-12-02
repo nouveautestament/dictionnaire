@@ -1,0 +1,1 @@
+lar[84049]=`<b>προ·ειρηνεύω</b>, pacifier auparavant, JOS. <i>B.J. 3, 1, 2</i>.`

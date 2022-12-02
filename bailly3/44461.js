@@ -1,0 +1,1 @@
+lar[44461]=`<b>ζευγ·ηλάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> conducteur d’un attelage de chevaux <i>ou</i> de bœufs, SOPH. <i>fr. 545</i> ; XÉN. <i>An. 6, 1, 8</i>.<p><b>Étym</b>. ζεῦγος, ἐλαύνω.`

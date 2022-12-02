@@ -1,0 +1,1 @@
+lar[93870]=`<font color="purple">[ᾱ]</font> rechercher les pique-nique, EPICH. (ATH. <i>374e</i>).<p><b>Étym</b>. συμβολή.`

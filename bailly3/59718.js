@@ -1,0 +1,1 @@
+lar[59718]=`<b>λάμπ·ουρις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. à la queue brillante, <i>ép. du renard,</i> ESCHL. <i>fr. 397 ; p. ext. ép. d’un homme rusé</i> (Ulysse, <i>etc</i>.) LYC. <i>344, etc</i>.<p><b>Étym</b>. <i>cf</i>. Λάμπουρος.`

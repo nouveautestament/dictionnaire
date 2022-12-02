@@ -1,0 +1,1 @@
+lar[105511]=`<b>φιλ·άρχαιος</b> <i>ou</i> <b>φιλ·αρχαῖος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime l’antiquité <i>ou</i> les anciens, DH. <i>Dem. p. 1067, 1069, 1105</i> ; ATH. <i>126b ;</i> PLUT. <i>M. 1107e ;</i> PORPH. <i>V. Plot. p. 116</i>.<p><b>Étym</b>. φ. ἀρχαῖος.`

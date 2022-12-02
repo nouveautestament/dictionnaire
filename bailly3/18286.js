@@ -1,0 +1,1 @@
+lar[18286]=`<b>ας (ἡ)</b> <i>c</i>. ἀφύη, SOTAD. (ATH. <i>293e</i>) ; GRAMM. <i>472, 26 Bekker, Anecdota græca</i>.`

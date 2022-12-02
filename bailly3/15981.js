@@ -1,0 +1,1 @@
+lar[15981]=`<b>ᾀσματο·λογέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[μᾰ]</font> réciter des chants, ARTÉM. <i>1, 76</i>.<p><b>Étym</b>. ᾆσμα, -λόγος <i>de</i> λέγω.`

@@ -1,0 +1,1 @@
+lar[38360]=`<b>ἐπι·μανδαλωτόν, οῦ (τὸ)</b> <font color="purple">[δᾰ]</font> baiser lascif, AR. <i>Ach. 1201</i>.`

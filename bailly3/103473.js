@@ -1,0 +1,1 @@
+lar[103473]=`<b>εως (ἡ)</b> cessation graduelle, approche de la fin, ATH. <i>491e</i>.<p><b>Étym</b>. ὑπολήγω.`

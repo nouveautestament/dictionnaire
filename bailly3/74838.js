@@ -1,0 +1,1 @@
+lar[74838]=`<b>έος-οῦς (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>plante dont on tire l’</i>ὀποπάναξ, TH. <i>H.P. 9, 9, 1</i> ; DIOSC. <i>3, 55</i>.<p><b>Étym</b>. <i>v</i>. πανακής.`

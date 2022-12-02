@@ -1,0 +1,1 @@
+lar[59826]=`<b>λαο·τίνακτος, ος, ον</b> <font color="purple">[ᾱῐ]</font> ébranlé, <i>d’où</i> renversé par une pierre, ANTH. <i>9, 272</i>.<p><b>Étym</b>. λ. τινάσσω.`

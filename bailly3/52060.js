@@ -1,0 +1,1 @@
+lar[52060]=`<b>ης (ἡ)</b> Kassiopè (Cassiope) <i>autre n. de Kassiépeia, femme de Kèphée, changée en constellation,</i> A. PL. <i>4, 147</i>.`

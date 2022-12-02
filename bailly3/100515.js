@@ -1,0 +1,1 @@
+lar[100515]=`<b>τρισ·ύπατος, ου (ὁ)</b> <font color="purple">[ῐῠᾰ]</font> trois fois consul, PLUT. <i>Galb. 22</i> ; APP. <i>Civ. 1, 96</i>.<p><b>Étym</b>. τρ. ὕπατος.`

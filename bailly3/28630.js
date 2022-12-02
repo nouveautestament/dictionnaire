@@ -1,0 +1,1 @@
+lar[28630]=`<i>adv</i>., d’une manière indissoluble, XÉN. <i>Œc. 8, 13</i>.`

@@ -1,0 +1,1 @@
+lar[73948]=`<b>ὀχλο·μανέω-ῶ</b> <font color="purple">[ᾰ]</font> être passionné pour la faveur populaire, PLUT. <i>M. 603d</i>.<p><b>Étym</b>. ὄ. μαίνομαι.`

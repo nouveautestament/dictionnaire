@@ -1,0 +1,1 @@
+lar[11136]=`<b>ἀπ·αίσιος, ος, ον</b>, sous de funestes auspices, PLUT. <i>M. 266d, Arist. 15</i> ; LUC. <i>Laps. 2, etc</i>.<p><b>Étym</b>. ἀπό, αἴσιος.`

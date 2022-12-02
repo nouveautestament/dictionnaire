@@ -1,0 +1,1 @@
+lar[57226]=`<b>ίδος (ἡ)</b> Korônis, <i>f</i>. HH. <i>16, 2</i> ; LUC. <i>Alex. 14, etc</i>.<p><b>Étym</b>. <i>cf</i>. κορωνίς.`

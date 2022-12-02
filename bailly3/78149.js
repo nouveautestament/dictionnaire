@@ -1,0 +1,1 @@
+lar[78149]=`payer l’impôt du cinquantième, DÉM. <i>932, 27, etc</i>.<p><b>Étym</b>. πεντηκοστός.`

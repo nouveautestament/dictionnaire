@@ -1,0 +1,1 @@
+lar[97355]=`<b>ταγματ·άρχης, ου (ὁ)</b> commandant d’une troupe (cohorte, escadron <i>ou</i> légion) DH. <i>20, 4</i>.<p><b>Étym</b>. τάγμα, ἄρχω.`

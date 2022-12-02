@@ -1,0 +1,1 @@
+lar[45285]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action d’aller, marche, EUR. <i>Hec. 67, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἤλυθον.`

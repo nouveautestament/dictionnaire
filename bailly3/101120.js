@@ -1,0 +1,1 @@
+lar[101120]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῡ]</font> qui fait des fromages, <i>ép. d’Hermès, dieu des chevriers,</i> ANTH. <i>9, 744</i>.<p><b>Étym</b>. τυρεύω.`

@@ -1,0 +1,1 @@
+lar[108754]=`<b>χονδρο·νευρώδης, ης, ες</b>, qui participe de la nature des nerfs et des cartilages, HPC. <i>Mochl. 842</i>.<p><b>Étym</b>. χόνδρος, νεῦρον, -ωδης.`

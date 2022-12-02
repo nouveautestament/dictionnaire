@@ -1,0 +1,1 @@
+lar[39922]=`<b>ου (τὸ)</b> selle de cavalier, XÉN. <i>Eq. 12, 9</i>.<p><b>Étym</b>. <i>neutre de</i> ἔποχος.`

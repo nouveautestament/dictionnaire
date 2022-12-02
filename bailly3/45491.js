@@ -1,0 +1,1 @@
+lar[45491]=`<b>ἡμι·μοίριον, ου (τὸ)</b> <font color="purple">[μῐ]</font><br><b>      1</b> demi-drachme, HPC. <i>876b.</i><br><b>      2</b> demi-degré, <i>càd</i>. trente minutes, PTOL. <i>1, p. 26, 33, etc</i>.<p><b>Étym</b>. ἡμι-, μοῖρα.`

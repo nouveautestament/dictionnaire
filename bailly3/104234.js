@@ -1,0 +1,1 @@
+lar[104234]=`<b>ὑπ·ώβολος, ος, ον</b>, donné en gage, affecté au paiement d’une dette, hypothéqué, PHÉRÉCR. <i>fr. 57</i>.<p><b>Étym</b>. <i>p</i>. *ὑπόβολος, <i>de</i> ὑποβάλλω.`

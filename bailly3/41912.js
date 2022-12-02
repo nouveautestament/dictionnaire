@@ -1,0 +1,1 @@
+lar[41912]=`<b>ή, όν</b>, approuvé, bienvenu, SYMM. <i>Ps. 67, 31 ; Cant. 6, 3</i> ; DL. <i>2, 87</i>.<p><b>Étym</b>. εὐδοκέω.`

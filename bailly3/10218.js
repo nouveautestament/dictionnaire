@@ -1,0 +1,1 @@
+lar[10218]=`<b>ἀντι·παριστάω-ῶ</b>, mettre en opposition, <i>acc</i>. MOSCHION <i>Mul. pass. 126, p. 58</i>.<p><b>Étym</b>. ἀ. παρίστημι.`

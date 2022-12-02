@@ -1,0 +1,1 @@
+lar[40692]=`<b>ιος (ὁ)</b> <i>nom égyptien du vin,</i> HIPPON. <i>fr. 51,</i> SAPPH. (ATH. <i>39a ;</i> LYC. <i>579</i>).`

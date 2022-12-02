@@ -1,0 +1,1 @@
+lar[88194]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> de grains de raisin, TH. <i>H.P. 3, 18, 2</i>.<p><b>Étym</b>. ῥάξ.`

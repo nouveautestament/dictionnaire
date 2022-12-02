@@ -1,0 +1,1 @@
+lar[81107]=`<b>πλουσιάω-ῶ</b>, <i>c</i>. πλουτέω, A. APHR. <i>Probl. 2, 10</i>.<p><b>Étym</b>. <i>où Syllburg écrit</i> πλουτῶν.`

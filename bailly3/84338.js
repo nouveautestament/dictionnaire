@@ -1,0 +1,1 @@
+lar[84338]=`<b>ατος (τὸ)</b> fondation, fondement, base, PHIL. BYZ. <i>67</i>.<p><b>Étym</b>. προτίθημι.`

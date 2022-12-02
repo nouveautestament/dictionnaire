@@ -1,0 +1,1 @@
+lar[61383]=`<i>mieux que</i> <b>λειπυρικός, ή, όν</b> <font color="purple">[λῐ]</font> qui ressemble à une fièvre intermittente, HPC. <i>134e</i>.<p><b>Étym</b>. <i>cf</i>. λιπυρία, λιπυρίας.`

@@ -1,0 +1,1 @@
+lar[102102]=`<b>ὑπ·εκβάλλω :<br>      1</b> faire sortir <i>ou</i> lancer par-dessous, ANTH. <i>5, 66</i> ; PLUT. <i>M. 530d.</i><br><b>      2</b> passer le long de <i>ou</i> au delà, A.RH. <i>1, 596</i>.`

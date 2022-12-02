@@ -1,0 +1,1 @@
+lar[101713]=`<b>ὑλη·σκόπος, ος, ον</b> <font color="purple">[ῡ]</font> qui visite <i>ou</i> parcourt les forêts, <i>ép. de Pan,</i> ANTH. <i>6, 107</i>.<p><b>Étym</b>. ὕλη, σκοπέω.`

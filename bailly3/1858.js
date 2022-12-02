@@ -1,0 +1,1 @@
+lar[1858]=`<b>ας (ἡ) :<br>      1</b> absence de jalousie, CLÉM. <i>1, 1028</i>.<br><b>      2</b> simplicité, PLUT. <i>Lyc. 21 (var</i>. εὐζηλία).<p><b>Étym</b>. ἄζηλος.`

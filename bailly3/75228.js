@@ -1,0 +1,1 @@
+lar[75228]=`<b>ων (οἱ)</b> les Pantimathes, <i>pple sur l’Oxus,</i> HDT. <i>3, 92</i>.`

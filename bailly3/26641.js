@@ -1,0 +1,1 @@
+lar[26641]=`<b>α, ον</b> <font color="purple">[δῐ]</font> âgé de deux mois, HPC. <i>690a, 757f ;</i> GAL. <i>12, 357</i> ; GEOP. <i>17, 3</i>.<p><b>Étym</b>. δίς, μήν.`

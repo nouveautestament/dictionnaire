@@ -1,0 +1,1 @@
+lar[79659]=`<b>περι·χαλκόω-ῶ</b>, entourer de plaques d’airain <i>ou</i> de cuivre, SPT. <i>Ex. 27, 6</i>.`

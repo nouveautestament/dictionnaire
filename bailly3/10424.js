@@ -1,0 +1,1 @@
+lar[10424]=`<font color="purple">[τᾰ]</font> <i>adv</i>., d’une manière hostile, NYSS. <i>1, 393</i>.`

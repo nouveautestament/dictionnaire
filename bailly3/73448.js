@@ -1,0 +1,1 @@
+lar[73448]=`<font color="purple">[ᾰ]</font> <i>adv</i>., nulle part, <i>avec mouv</i>. XÉN. <i>Hell. 5, 28, etc.</i> ; τῆς Θρᾴκης, DÉM. <i>675, 25,</i> en aucun lieu de la Thrace.<p><b>Étym</b>. οὐδαμός.`

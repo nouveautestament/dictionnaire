@@ -1,0 +1,1 @@
+lar[30437]=`<b>ης, ες :<br>      1</b> atteint de colique iliaque, HPC. <i>Epid. 3, 1077</i>.<br><b>      2</b> qui cause une colique iliaque, ARÉT. <i>Caus. m. acut. 2, 6</i>.<br><b>      3</b> qui consiste en une colique iliaque, DIOSC. <i>1, 30, 6</i>.<p><b>Étym</b>. εἰλεός, -ωδης.`

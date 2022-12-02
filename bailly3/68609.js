@@ -1,0 +1,1 @@
+lar[68609]=`<i>ou</i> <b>νηρείτης, ου (ὁ)</b> coquillage de mer, ARSTT. <i>H.A. 4, 4, 31, etc</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

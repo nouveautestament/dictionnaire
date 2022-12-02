@@ -1,0 +1,1 @@
+lar[46675]=`<b>ος, ον</b>, travaillé par les dieux, divin, Q. SM. <i>3, 419</i> ; TRIPHIOD. <i>40</i>.<p><b>Étym</b>. θ. κάμνω.`

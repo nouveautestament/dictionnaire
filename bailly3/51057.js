@@ -1,0 +1,1 @@
+lar[51057]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> manège pour les chevaux, EL. <i>N.A. 3, 2</i>.<p><b>Étym</b>. καλινδέομαι, <i>cf</i>. κυλινδήθρα.`

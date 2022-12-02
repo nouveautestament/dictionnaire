@@ -1,0 +1,1 @@
+lar[3950]=`<b>ῖνος (ἡ)</b> Aktis, <i>n. de chienne,</i> XÉN. <i>Cyn. 7, 5</i>.`

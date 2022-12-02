@@ -1,0 +1,1 @@
+lar[96089]=`<b>συν·νυμφοκόμος, ος, ον</b>, qui aide à parer la mariée, EUR. <i>I.A. 48</i>.`

@@ -1,0 +1,1 @@
+lar[14707]=`<b>Ἀριστο·κλῆς, έους (ὁ)</b> <font color="purple">[ᾰ]</font> Aristoklès, <i>h</i>. THC. <i>5, 16, etc</i>.<p>➳ <i>Poét</i>. Ἀριστοκλέης, ANTH. <i>7, 60, etc. ; gén. poét</i>. -ῆος, A. PL. <i>4, 220 ; gén. att</i>. -είους, CIA. <i>2, 804, a, 5 (334 av. J.-C.) ; acc. att</i>. -ηα, CIA. <i>3, 1527</i>.<p><b>Étym</b>. ἄ. κλέος.`

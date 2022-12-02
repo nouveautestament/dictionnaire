@@ -1,0 +1,1 @@
+lar[62517]=`<font color="purple">[ῡ]</font> <i>adv</i>., avec longanimité <i>ou</i> patience, NT. <i>Ap. 26, 3</i>.`

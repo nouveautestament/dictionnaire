@@ -1,0 +1,1 @@
+lar[31779]=`<b>ἐκ·παφλάζω</b>, s’échapper en bouillonnant, ARSTT. <i>Probl. 24, 9, 1</i>.`

@@ -1,0 +1,1 @@
+lar[38284]=`<b>ἐπι·ληκέω-ῶ</b> <font color="darkgreen">(<i>impf. poét</i>. ἐπελήκεον)</font> faire du bruit en battant des mains, <i>ou</i> en marquant la mesure à des danseurs, OD. <i>8, 379</i>.`

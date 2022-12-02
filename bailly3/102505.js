@@ -1,0 +1,1 @@
+lar[102505]=`<b>ὑπερ·ήνωρ, ορος (ὁ, ἡ)</b> fier de sa force, orgueilleux, arrogant, <i>en parl. de pers</i>. HÉS. <i>Th. 995 ; en parl. d’animaux,</i> ORPH. <i>Arg. 942 ; en parl. de choses</i> (langage, cœur, <i>etc</i>.) EUR. <i>Ph. 185</i> ; ORPH. <i>Arg. 669</i>.<p>➳ <i>Dor</i>. ὑπεράνωρ <font color="purple">[ᾱ]</font> EUR. <i>l. c</i>.<p><b>Étym</b>. ὑ. ἀνήρ.`

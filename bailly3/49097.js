@@ -1,0 +1,1 @@
+lar[49097]=`<b>ης, ες</b>, gluant, visqueux, HPC. <i>876c ;</i> TH. <i>H.P. 9, 18, 1 ; fig</i>. LUC. <i>Tim. 29</i>.<p><b>Étym</b>. ἰξός, -ωδης.`

@@ -1,0 +1,1 @@
+lar[34936]=`<b>ἐν·σκιρρόω-ῶ</b>, durcir, <i>d’où au pass</i>. s’endurcir, XÉN. <i>Eq. 4, 2 ; fig</i>. s’invétérer.`

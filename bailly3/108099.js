@@ -1,0 +1,1 @@
+lar[108099]=`<b>χειρ·αψία, ας (ἡ) :<br>      1</b> action d’entrelacer les bras, <i>t. de lutte,</i> PLUT. <i>M. 234d ; d’où en gén</i>. action d’en venir aux mains, engagement, combat, mêlée, POL. (SUID.).<br><b>      2</b> sorte de friction légère, C. AUR. <i>Chron. 1, 4 ; Acut. 3, 18c</i>.<p><b>Étym</b>. χ. ἅπτω.`

@@ -1,0 +1,1 @@
+lar[302]=`<b>ου (τὸ)</b> sorte d’aloès, DIOSC. <i>1, 21</i>.`

@@ -1,0 +1,1 @@
+lar[68667]=`<b>νή·τιτος, ος, ον</b> <font color="purple">[ῐ]</font> impuni, ANTH. <i>App. 50</i>.<p><b>Étym</b>. νη-, τίω.`

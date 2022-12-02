@@ -1,0 +1,1 @@
+lar[24632]=`<b>δια·θεάομαι</b> -εῶμαι, examiner à fond : τι, PLAT. <i>Crat. 424d ;</i> PHILSTR. <i>83, etc</i>., qqe ch. ; <i>avec un relat</i>. ὅσην χώραν ἔχοιεν, XÉN. <i>An. 3, 1, 19</i>, quelle étendue de territoire ils occupaient.`

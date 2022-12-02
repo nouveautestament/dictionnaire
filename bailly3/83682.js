@@ -1,0 +1,1 @@
+lar[83682]=`<b>προ·αποσημαίνω</b>, signifier <i>ou</i> désigner auparavant, BAS.`

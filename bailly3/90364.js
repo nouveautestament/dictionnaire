@@ -1,0 +1,1 @@
+lar[90364]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾱῐδ]</font> grain de moutarde, A. TR. <i>7, 311</i>.<p><b>Étym</b>. <i>dim. de</i> σίναπι.`

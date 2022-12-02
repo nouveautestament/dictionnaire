@@ -1,0 +1,1 @@
+lar[66685]=`<b>μονό·χρονος, ος, ον :<br>      1</b> qui ne dure qu’un temps, de courte durée, ARISTIPP. (ATH. <i>544a</i>).<br><b>      2</b> qui n’a qu’une durée d’un temps, GRAMM. <i>p. 1171 Bekker, Anecdota græca</i>.<p><b>Étym</b>. μ. χρόνος.`

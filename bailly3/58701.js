@@ -1,0 +1,1 @@
+lar[58701]=`<b>κυμο·δέγμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> qui reçoit les flots, baigné par les flots, EUR. <i>Hipp. 1173</i>.<p><b>Étym</b>. κῦμα, δέχομαι.`

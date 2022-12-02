@@ -1,0 +1,1 @@
+lar[894]=`<b>ων (οἱ)</b> Agrianes, <i>pple de Thrace,</i> HDT. <i>5, 16</i> ; THC. <i>2, 96, etc.</i> ; les Agrianes, <i>corps de troupes légères macédonien,</i> ARR. <i>An. 1, 5, 1, etc</i>.`

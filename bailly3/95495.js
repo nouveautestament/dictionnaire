@@ -1,0 +1,1 @@
+lar[95495]=`<b>συν·εξαλείφω</b> <font color="purple">[ᾰ]</font> essuyer, <i>fig., càd</i>. faire disparaître, PLUT. <i>Cato mi. 17</i>.`

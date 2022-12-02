@@ -1,0 +1,1 @@
+lar[63170]=`<i>ion</i>. <b>Ματιηνός, ή, όν</b>, de la Matiène, <i>en Médie,</i> HDT. <i>1, 189</i> ; ἡ Ματιηνὴ γῆ), HDT. <i>5, 52,</i> la Matiène ; οἱ Ματιηνοί, les habitants de la Matiène, HDT. <i>1, 72, etc</i>.`

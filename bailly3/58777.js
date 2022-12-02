@@ -1,0 +1,1 @@
+lar[58777]=`<font color="purple">[ῠ]</font> <i>adv</i>., comme un chien, PORPH. <i>Abst. p. 218, 5 éd. Rhœr</i>.<p>•<i> Cp</i>. -ώτερον, PLUT. <i>M. 601e</i>.`

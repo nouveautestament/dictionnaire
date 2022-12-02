@@ -1,0 +1,1 @@
+lar[28608]=`<b>ας (ἡ)</b> <font color="purple">[ρᾱ]</font><br><b>      1</b> mauvais tempérament, PLUT. <i>Dio. 2</i>.<br><b>      2</b> intempérie, PLUT. <i>Alex. 58</i>.<p>➳ <i>Ion</i>. -ίη, MAN. <i>4, 543</i>.<p><b>Étym</b>. δύσκρατος.`

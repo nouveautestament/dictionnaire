@@ -1,0 +1,1 @@
+lar[108587]=`<b>χλο·ανθής, ής, ές</b>, à fleur verdoyante, verdoyant, NIC. <i>Th. 550</i>.<p><b>Étym</b>. χλόη, ἄνθος.`

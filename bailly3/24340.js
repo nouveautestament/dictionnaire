@@ -1,0 +1,1 @@
+lar[24340]=`<b>Δημό·χαρις, ιδος (ὁ)</b> <font color="purple">[ᾰῐδ]</font> Dèmokharis :<br><b>      1</b> <i>poète de l’Anthologie,</i> A. PL. <i>310, titre</i>.<br><b>      2</b> <i>autre poète de l’Anthologie,</i> ANTH. <i>6, 63 ; 9, 633</i>.<p>➳ <i>Dor</i>. Δαμό- <font color="purple">[ᾱ]</font> ANTH. <i>ll. cc. ; voc</i>. Δαμόχαρι, A. PL. <i>43</i>.<p><b>Étym</b>. δ. χάρις.`

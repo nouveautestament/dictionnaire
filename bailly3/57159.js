@@ -1,0 +1,1 @@
+lar[57159]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κορυδαλλίς, ARSTT. <i>H.A. 9, 1, 13</i>.`

@@ -1,0 +1,1 @@
+lar[48056]=`<b>ας (ἡ)</b> action de porter un thyrse, PLUT. <i>M. 671e</i>.<p><b>Étym</b>. θυρσοφόρος.`

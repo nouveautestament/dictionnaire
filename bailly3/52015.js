@@ -1,0 +1,1 @@
+lar[52015]=`<b>όνος (ἡ) :<br>      1</b> Carthage (<i>auj</i>. Qarṭāj) <i>v. d’Afrique,</i> HDT. <i>3, 19</i> ; SOPH. <i>fr. 536, etc.</i><br><b>      2</b> Κ. νέα (ἡ) Carthagène (<i>propr</i>. la nouvelle Carthage) <i>v. d’Espagne,</i> STR. <i>147</i>.`

@@ -1,0 +1,1 @@
+lar[20969]=`<b>ῆρος (ὁ)</b> qui mange, ESCHL. <i>fr. 203</i> ; NIC. <i>Al. 421 ; fig</i>. qui dévore, qui consume, ESCHL. <i>Eum. 803 ; subst</i>. ὁ βρ. l’insecte dévorant, <i>càd</i>. la teigne, AQU. <i>Esai. 50, 9</i>.<p><b>Étym</b>. βιβρώσκω.`

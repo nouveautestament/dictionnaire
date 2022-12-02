@@ -1,0 +1,1 @@
+lar[16952]=`<i>adv.</i> :<br><b>      1</b> sans détour, sans tergiversation, sans hésitation, EL. <i>N.A. 17, 17</i>.<br><b>      2</b> sans se laisser détourner <i>ou</i> fléchir, impitoyablement, JOS. <i>B.J. 7, 9, 1 ; etc</i>.`

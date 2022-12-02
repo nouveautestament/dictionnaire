@@ -1,0 +1,1 @@
+lar[109951]=`<b>οῦ (ὁ)</b> qui prend le frais ; οἱ ψυχασταί, ATH. <i>124c</i>, ceux qui prennent le frais, <i>titre d’une comédie de Strattis</i>.<p><b>Étym</b>. ψυχάζω.`

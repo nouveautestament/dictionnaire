@@ -1,0 +1,1 @@
+lar[50942]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui fait du tort, nuisible à, <i>gén</i>. LIB. <i>4, 782,</i> DIOSC. <i>1, 123</i>.<p><b>Étym</b>. κακόω.`

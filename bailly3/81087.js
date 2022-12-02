@@ -1,0 +1,1 @@
+lar[81087]=`<b>ῖδος (ἡ)</b> <font color="purple">[ᾰῑδ]</font><br><b>      1</b> boucle de cheveux, <i>d’ord. en parl. de femmes, au pl</i>. BION <i>1, 20</i> ; EUPHOR. <i>52 ; collect. au sg</i>. chevelure bouclée, THCR. <i>Idyl. 13, 7</i>.<br><b>      2</b> crinière d’animal, OPP. <i>C. 3, 179</i>.<p><b>Étym</b>. πλόκαμος.`

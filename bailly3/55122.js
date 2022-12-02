@@ -1,0 +1,1 @@
+lar[55122]=`<b>ω (ἡ)</b> Kéôs (<i>auj</i>. Kéa <i>ou</i> Tziá) <i>une des Cyclades,</i> PD. <i>I. 1, 9</i> ; XÉN. <i>Hell. 5, 4, 61</i> ; PLAT. <i>Hipp. ma. 282c, etc</i>.<p>➳ <i>Acc</i>. Κέω <i>dans une inscr. att. (v. Meisterh. p. 101, 20).</i><p><b>Étym</b>. <i>cf</i>. Κῶς.`

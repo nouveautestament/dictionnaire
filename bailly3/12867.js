@@ -1,0 +1,1 @@
+lar[12867]=`<b>ἀπο·μαρτύρομαι</b> <font color="purple">[ῡ]</font> prendre à témoin, PLAT. <i>Soph. 237a</i>.`

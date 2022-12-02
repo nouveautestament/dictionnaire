@@ -1,0 +1,1 @@
+lar[30168]=`<b>ἐθελουργέω-ῶ</b>, travailler de bonne volonté, EL. <i>N.A. 7, 13</i>.<p><b>Étym</b>. ἐθελουργός.`

@@ -1,0 +1,1 @@
+lar[56497]=`<b>κοινο·φιλής, ής, ές</b> <font color="purple">[ῐ]</font> qui consiste en une affection commune, ESCHL. <i>Eum. 985 conj</i>.<p><b>Étym</b>. κοινός, φιλέω.`

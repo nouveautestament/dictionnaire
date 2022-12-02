@@ -1,0 +1,1 @@
+lar[67346]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sorte de plante semblable au myrte, DIOSC. <i>4, 116</i>.<p><b>Étym</b>. μύρρα.`

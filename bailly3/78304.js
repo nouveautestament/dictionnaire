@@ -1,0 +1,1 @@
+lar[78304]=`<b>περατόω-ῶ</b> <font color="purple">[ᾰ]</font> limiter, PLUT. <i>M. 719c ;</i> SEXT. <i>M. 1, 81 ; au pass</i>. prendre fin, se terminer, ARSTT. <i>An. 1, 3, 20, etc</i>.<p><b>Étym</b>. πέρας.`

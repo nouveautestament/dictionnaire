@@ -1,0 +1,1 @@
+lar[64059]=`<b>οῦ (ὁ) :<br>      1</b> démembrement, division, DH. <i>Lys. 11</i>.<br><b>      2</b> sorte de modulation, trille, BRYENN. <i>p. 480 Wallis</i>.<p><b>Étym</b>. μελίζω.`

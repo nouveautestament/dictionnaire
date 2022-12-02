@@ -1,0 +1,1 @@
+lar[79256]=`<b>εως (ἡ)</b> déchaussement (de la vigne) GEOP. <i>9, 9, 2</i>.<p><b>Étym</b>. περισκάπτω.`

@@ -1,0 +1,1 @@
+lar[95694]=`<b>συν·επιτιμάω-ῶ</b> <font color="purple">[τῑ]</font> blâmer <i>ou</i> reprocher en même temps, PLUT. <i>Lys. 15</i>.`

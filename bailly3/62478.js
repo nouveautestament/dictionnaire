@@ -1,0 +1,1 @@
+lar[62478]=`<b>μακρ·αίων, ωνος (ὁ, ἡ) :<br>      1</b> qui dure longtemps, ESCHL. <i>fr. 281</i> ; SOPH. <i>Aj. 194, etc.</i><br><b>      2</b> qui vit longtemps, vieux, âgé, SOPH. <i>O.C. 150</i> ; immortel, SOPH. <i>O.R. 1099</i>.<p><b>Étym</b>. μακρός, αἰών.`

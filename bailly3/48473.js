@@ -1,0 +1,1 @@
+lar[48473]=`<b>ῶν (αἱ)</b> = <i>lat</i>. idus, les ides, <i>à Rome,</i> DH. <i>1, 97 ; 2, 1068 et 1246 ; 4, 2149 Reiske</i> ; JOS. <i>A.J. 13, 9, 2, etc.</i> ; PLUT. <i>M. 269c, etc</i>.<p><b>Étym</b>. <i>cf</i>. εἰδοί.`

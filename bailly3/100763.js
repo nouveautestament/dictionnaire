@@ -1,0 +1,1 @@
+lar[100763]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui court, HÉS. <i>O. 516</i> ; ANTH. <i>6, 66 ; 7, 681 ; p. ext</i>. rapide, EUR. <i>I.A. 146 ; p. anal</i>. roulant, PLUT. <i>M. 588f.</i><br><b>      2</b> arrondi, rond, ANTH. <i>5, 35</i> ; ARAT. <i>476</i> ; NIC. <i>Th. 589</i>.<p>•<i> Cp</i>. -ώτερος, ANTH. <i>7, 681</i>.<p><b>Étym</b>. τροχός.`

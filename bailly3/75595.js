@@ -1,0 +1,1 @@
+lar[75595]=`<b>εως (ἡ)</b> action d’observer à côté de, PLUT. <i>M. 820a</i>.<p><b>Étym</b>. παραθεωρέω.`

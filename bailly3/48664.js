@@ -1,0 +1,1 @@
+lar[48664]=`<b>Ἱερ·ώνυμος, ου (ὁ)</b> Hiérônymos :<br><b>      1</b> <i>poète dithyrambique,</i> AR. <i>Ach. 388</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>9, 33</i> ; XÉN. <i>An. 3, 1, 34, etc</i>.<p><b>Étym</b>. <i>v</i>. ἱερώνυμος.`

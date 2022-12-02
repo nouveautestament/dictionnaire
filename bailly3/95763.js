@@ -1,0 +1,1 @@
+lar[95763]=`<b>εως (ἡ)</b> sorte de raisonnement par interrogation, SEXT. <i>P. 2, 160, etc</i>.<p><b>Étym</b>. συνερωτάω.`

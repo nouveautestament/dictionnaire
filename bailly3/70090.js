@@ -1,0 +1,1 @@
+lar[70090]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> où l’on peut voyager, accessible, STR. <i>510</i>.<p><b>Étym</b>. ὁδεύω.`

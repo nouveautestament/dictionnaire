@@ -1,0 +1,1 @@
+lar[32137]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec allongement, ATH. <i>105e ;</i> DRAC. <i>15, 25</i>.<p><b>Étym</b>. ἐκτείνω.`

@@ -1,0 +1,1 @@
+lar[74255]=`<b>ή, όν</b>, qui concerne l’instruction, T. LOCR. <i>103</i> ; ἡ παιδευτική (<i>s.e</i>. τέχνη) PLAT. <i>Soph. 231b</i>, l’art d’instruire ; τὸ παιδευτικόν, PLUT. <i>Lyc. 4,</i> l’instruction.<p><b>Étym</b>. παιδεύω.`

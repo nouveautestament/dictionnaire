@@ -1,0 +1,1 @@
+lar[55651]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> sorte de vase à boire en bois de lierre (<i>sel</i>. ATH. <i>476f</i>) OD. <i>9, 346 ; 16, 52</i> ; THCR. <i>Idyl. 1, 27</i>.<br><b>      2</b> vase de bois pour traire le lait, EUM.<p><b>Étym</b>. κισσός.`

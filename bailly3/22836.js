@@ -1,0 +1,1 @@
+lar[22836]=`<b>εω (ὁ)</b> le Gyndès, <i>fl. d’Assyrie,</i> HDT. <i>1, 189, 202 ; 5, 52</i>.`

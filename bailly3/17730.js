@@ -1,0 +1,1 @@
+lar[17730]=`<b>αὐτο·τόκος, ος, ον</b>, qui s’enfante soi-même, NONN. <i>D. 8, 81</i>.<p><b>Étym</b>. αὐ. τίκτω.`

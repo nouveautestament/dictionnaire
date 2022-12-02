@@ -1,0 +1,1 @@
+lar[10370]=`<b>ας (ἡ)</b> courant contraire, TH. <i>Vent. 53</i>.<p><b>Étym</b>. ἀντίρροος.`

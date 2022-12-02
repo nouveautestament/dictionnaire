@@ -1,0 +1,1 @@
+lar[39951]=`<b>ἑπτά·δραχμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> du prix de sept drachmes, THCR. <i>Idyl. 15, 19 (acc. pl. dor</i>. -άχμως).<p><b>Étym</b>. ἑ. δραχμή.`

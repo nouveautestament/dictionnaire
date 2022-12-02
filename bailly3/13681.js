@@ -1,0 +1,1 @@
+lar[13681]=`<b>ἀπο·τύπτω</b>, frapper jusqu’à épuisement <i>ou</i> jusqu’au bout, HPC. <i>481, 19</i>.<br><b><i>Moy.</i></b> cesser de se frapper la poitrine, cesser de se lamenter, HDT. <i>2, 40</i>.`

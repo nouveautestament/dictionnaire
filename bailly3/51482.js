@@ -1,0 +1,1 @@
+lar[51482]=`<i>ou</i> <b>καννάβιος, ος, ον</b>, propre à servir de modèle : σῶμα κανάβιον (<i>ou</i> καννάβιον) ANTH. <i>11, 107,</i> corps de mannequin, <i>càd</i>. si décharné qu’il n’est plus qu’une sorte de squelette.<p><b>Étym</b>. κάναβος.`

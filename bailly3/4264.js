@@ -1,0 +1,1 @@
+lar[4264]=`<b>ἀλεξί·λογος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui aide la parole, CRIT. (ATH. <i>28c</i>).<p><b>Étym</b>. ἀ. λόγος.`

@@ -1,0 +1,1 @@
+lar[74279]=`<b>ίας (ἡ)</b> procréation d’enfants, PLAT. <i>Conv. 208e, etc</i>.<p><b>Étym</b>. παιδογόνος.`

@@ -1,0 +1,1 @@
+lar[21037]=`<b>βυρσο·τενής, ής, ές</b>, tendu de peau (tambour), EUR. <i>Hel. 1347</i>.<p><b>Étym</b>. βύρσα, τείνω.`

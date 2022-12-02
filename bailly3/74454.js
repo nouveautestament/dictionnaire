@@ -1,0 +1,1 @@
+lar[74454]=`<b>παλαιστρο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ᾰῠᾰκ]</font> surveillant du gymnase <i>ou</i> de la lutte, HPC. <i>1201f ;</i> EL. <i>V.H. 8, 14</i>.<p><b>Étym</b>. παλαίστρα, φύλαξ.`

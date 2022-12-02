@@ -1,0 +1,1 @@
+lar[18076]=`<i>part. prés. f. plur. de</i> ἀφίημι.`

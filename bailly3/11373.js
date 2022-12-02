@@ -1,0 +1,1 @@
+lar[11373]=`<b>ἀ·παρενθύμητος, ος, ον</b> <font color="purple">[ῡ]</font> qui ne se laisse pas distraire, soigneux, attentif, M. ANT. <i>10, 8</i>.<p><b>Étym</b>. ἀ, παρενθυμέομαι.`

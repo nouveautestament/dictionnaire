@@ -1,0 +1,1 @@
+lar[63822]=`<b>μελάμ·πυρον, ου (τὸ)</b> <font color="purple">[ῡ]</font> blé noir, mauvaise herbe qui croît dans le blé, TH. <i>H.P. 8, 4, 6 ; 8, 8, 3</i> ; DIOSC. <i>3, 129 ; 4, 17</i>.<p><b>Étym</b>. μ. πυρός.`

@@ -1,0 +1,1 @@
+lar[49963]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., avec hardiesse <i>ou</i> effronterie, PLUT. <i>M. 93f</i>.<p>•<i> Cp</i>. -ώτερον, PLAT. <i>Leg. 773b ;</i> DÉM. <i>414, 1</i>.<p><b>Étym</b>. ἰταμός.`

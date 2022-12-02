@@ -1,0 +1,1 @@
+lar[46655]=`<b>ας (ἡ)</b> ressemblance avec la divinité, JAMBL. <i>V. Pyth. p. 6</i>.<p><b>Étym</b>. θεοειδής.`

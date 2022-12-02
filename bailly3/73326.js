@@ -1,0 +1,1 @@
+lar[73326]=`<b>ου (τὸ) :<br>      1</b> huître, ESCHL. <i>fr. 25 Dind.</i> ; ARCHESTR. (ATH. <i>92d</i>) <i>etc.</i> ; LUC. <i>V. auct. 26</i>.<br><b>      2</b> couleur de pourpre, PLAT. <i>Rsp. 420c ;</i> CALLIX. (ATH. <i>197f</i>).<p>➳ <i>Par crase att</i>. κὤστρεια, ESCHL. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. ὄστρεον.`

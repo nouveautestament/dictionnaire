@@ -1,0 +1,1 @@
+lar[15818]=`<b>ή, όν</b>, valétudinaire, maladif, ARSTT. <i>H.A. 7, 10, 3</i> ; LUC. <i>Tox. 19</i>.<p><b>Étym</b>. ἀσθενής.`

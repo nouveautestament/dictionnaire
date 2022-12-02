@@ -1,0 +1,1 @@
+lar[16282]=`<b>ἀστραπη·φόρος, ος, ον</b> <font color="purple">[ᾰπ]</font> qui porte des éclairs, EUR. <i>Bacch. 3</i>.<p><b>Étym</b>. ἀστραπή, φέρω.`

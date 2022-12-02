@@ -1,0 +1,1 @@
+lar[91271]=`<font color="darkgreen">(<i>ao</i>. ἐσκυθρώπασα, <i>pf</i>. ἐσκυθρώπακα) :</font><br><b>      1</b> avoir l’air sombre, triste, chagrin, AR. <i>Lys. 7, Pl. 756</i> ; XÉN. <i>Cyr. 6, 2, 21</i> ; PLAT. <i>2 Alc. commenc.</i> ; DÉM. <i>1122, 12, etc.</i><br><b>      2</b> être sombre, <i>en parl. des couleurs,</i> PHILSTR. <i>Im. 1, 26</i>.<p><b>Étym</b>. σκυθρωπός.`

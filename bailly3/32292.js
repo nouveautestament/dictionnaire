@@ -1,0 +1,1 @@
+lar[32292]=`<b>ή, όν</b>, propre à expliquer, à faire voir, JAMBL. <i>Protr. 324</i>.<p><b>Étym</b>. ἐκφαίνω.`

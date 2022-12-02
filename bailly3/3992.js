@@ -1,0 +1,1 @@
+lar[3992]=`<b>ἀκυρόω-ῶ</b> <font color="purple">[ῡ]</font> considérer comme non avenu, annuler, DH. <i>2, 72</i> ; DS. <i>16, 24</i> ; PLUT. <i>Lyc. 9</i> ; SPT. <i>3Esdr. 6, 32</i>.<p><b>Étym</b>. ἄκυρος.`

@@ -1,0 +1,1 @@
+lar[20675]=`<b>ου (τὸ)</b> bracelet, SYMM. <i>2Reg. 1, 10</i>.<p><b>Étym</b>. <i>Cf. lat</i>. brachiale.`

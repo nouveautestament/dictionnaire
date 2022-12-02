@@ -1,0 +1,1 @@
+lar[90794]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σκευασία ALEX. (<i>Com. fr. 3, 430</i>).`

@@ -1,0 +1,1 @@
+lar[49255]=`<b>ας (ἡ) :<br>   I</b> maniement des chevaux <i>ou</i> assemblage de chevaux, <i>d’où</i> :<br><b>      1</b> chevauchée, course à cheval, EUR. <i>H.f. 374</i> ; XÉN. <i>Cyr. 8, 8, 19</i>.<br><b>      2</b> dressage des chevaux, STR. <i>215</i>.<br><b>   II</b> corps de cavalerie, XÉN. <i>An. 5, 6, 8</i>.<p><b>Étym</b>. ἱππεύς.`

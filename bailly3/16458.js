@@ -1,0 +1,1 @@
+lar[16458]=`<b>ἀ·συμπαθής, ής, ές</b> <font color="purple">[πᾰ]</font> qui manque de sympathie <i>ou</i> de compassion : τινι, PLUT. <i>Cor. 21</i> ; πρός τινα, PLUT. <i>M. 976c</i>, pour qqn ; πρός τι, ARR. SYN. pour qqe ch.<p>•<i> Sup</i>. -έστατος, DL. <i>4, 17</i>.`

@@ -1,0 +1,1 @@
+lar[64326]=`<i>vb. de</i> μένω, XÉN. <i>Hell. 3, 2, 9</i> ; PLAT. <i>Rsp. 328b</i>.<p><b>Étym</b>. <i>cf</i>. μενητέον.`

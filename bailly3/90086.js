@@ -1,0 +1,1 @@
+lar[90086]=`<b>ου (ὁ)</b> <font color="purple">[ῐῠ]</font> <i>c</i>. σιβύνη, ANTH. <i>6, 93 ; 7, 421</i>.`

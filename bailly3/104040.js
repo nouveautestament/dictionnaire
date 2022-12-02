@@ -1,0 +1,1 @@
+lar[104040]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en retournant sur ses pas, OPP. <i>H. 1, 636 ; 3, 274</i> ; P. SIL. <i>Ecphr. amb. 218</i>.<p><b>Étym</b>. ὑπότροπος, -δην.`

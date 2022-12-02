@@ -1,0 +1,1 @@
+lar[56072]=`<b>κλινο·πετής, ής, ές</b> <font color="purple">[ῑ]</font> alité, malade, HPC. <i>451, 21, etc.</i> ; XÉN. <i>Hell. 5, 4, 58</i> ; PLUT. <i>M. 791e</i>.<p><b>Étym</b>. κλίνη, <i>th</i>. πετ- <i>de</i> πίπτω.`

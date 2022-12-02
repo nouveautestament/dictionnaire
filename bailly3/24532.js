@@ -1,0 +1,1 @@
+lar[24532]=`<b>δια·δάκνω</b> (<i>seul. impf</i>.) déchirer à belles dents, <i>fig.</i> : τινά, POL. <i>4, 87, 5</i>, qqn.<br><b><i>Moy.</i></b> (<i>seul. prés</i>.) s’entre-déchirer, s’entre-mordre, <i>abs</i>. M. ANT. <i>5, 33</i> ; τῷ Κερβέρῳ, PLUT. <i>M. 1105a</i>, se battre avec Cerbère et se mordre mutuellement.<p><b>Étym</b>. διά, δάκνω.`

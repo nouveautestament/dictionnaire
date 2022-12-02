@@ -1,0 +1,1 @@
+lar[109133]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> Khrysèïs :<br><b>      1</b> <i>fille de Khrysès,</i> IL. <i>1, 111, 143, 182, 369, 439 ; au plur</i>. Χρυσηΐδες, ESCHL. <i>Ag. 1439,</i> des captives comme Khrysèïs.<br><b>      2</b> <i>fille de Thétis,</i> HÉS. <i>Th. 359</i>.<p><b>Étym</b>. <i>patr. de</i> Χρύσης.`

@@ -1,0 +1,1 @@
+lar[25484]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> traversé par des eaux courantes, STR. <i>213</i> ; NYSS. <i>3, 1108a Migne</i>.<p><b>Étym</b>. διαρρέω.`

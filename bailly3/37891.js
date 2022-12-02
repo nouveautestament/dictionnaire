@@ -1,0 +1,1 @@
+lar[37891]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> tout objet pour couvrir :<br><b>      1</b> couverture, voile, <i>fig</i>. MÉN. (STOB. <i>Fl. 91, 19</i>).<br><b>      2</b> carapace d’écrevisse, ARSTT. <i>H.A. 4, 3, 8</i> ; membrane qui recouvre les ouïes de poissons, ARSTT. <i>H.A. 2, 13, 5</i>.<p><b>Étym</b>. ἐπικαλύπτω.`

@@ -1,0 +1,1 @@
+lar[54593]=`<b>οντος (ὁ)</b> <font color="purple">[ᾰ]</font> Kéladôn (<i>propr</i>. le retentissant) :<br><b>      1</b> <i>fl. d’Élide,</i> IL. <i>7, 133</i>.<br><b>      2</b> <i>fl. d’Arcadie,</i> CALL. <i>Dian. 107</i> ; THCR. <i>Idyl. 17, 92</i>.<p><b>Étym</b>. <i>v</i>. κελάδω.`

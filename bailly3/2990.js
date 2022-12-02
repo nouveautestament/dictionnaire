@@ -1,0 +1,1 @@
+lar[2990]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> subit, soudain, ESCHL. <i>Pr. 680</i> ; THC. <i>2, 61, etc.</i> ; τὸ αἰφνίδιον, PLUT. <i>Crass. 9</i> ; LUC. <i>D. mort. 7, 2,</i> soudaineté ; <i>adv</i>., -ιον, PLUT. <i>Num. 15,</i> soudainement.<p><b>Étym</b>. αἴφνης.`

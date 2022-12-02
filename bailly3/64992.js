@@ -1,0 +1,1 @@
+lar[64992]=`<b>μετα·συντίθημι</b>, recomposer d’une autre manière, D. PHAL. <i>59</i>.`

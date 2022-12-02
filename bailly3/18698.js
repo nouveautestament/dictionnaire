@@ -1,0 +1,1 @@
+lar[18698]=`<b>(ὁ)</b> Bagasakès, <i>h</i>. HDT.`

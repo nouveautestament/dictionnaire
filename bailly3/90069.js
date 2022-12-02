@@ -1,0 +1,1 @@
+lar[90069]=`<b>*σιαλο·ποιός</b>, <i>ion</i>. <b>σιελο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui provoque la salivation, XÉNOCR. <i>Al. 47</i>.<p><b>Étym</b>. σίαλον, ποιέω.`

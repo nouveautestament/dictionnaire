@@ -1,0 +1,1 @@
+lar[63578]=`<b>ή, όν</b>, à quoi l’on participe, que l’on partage, ARSTT. <i>Metaph. 1, 9, 5 ; 6, 15, 8 ; 12, 4, 11</i>.<p><b>Étym</b>. <i>vb. de</i> μετέχω.`

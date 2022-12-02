@@ -1,0 +1,1 @@
+lar[57590]=`<b>ου (ὁ)</b> = <i>lat</i>. Crassus, <i>n. d’h. rom.,</i> PLUT. <i>Crass. 1, Cic. 15, etc</i>.`

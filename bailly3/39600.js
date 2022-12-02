@@ -1,0 +1,1 @@
+lar[39600]=`<b>ἐπιφορέω-ῶ</b>, apporter par-dessus, HDT. <i>4, 201</i> ; XÉN. <i>An. 3, 5, 10</i> ; AR. <i>Pax 224</i> ; τι ἐπί τι, HDT. <i>4, 183,</i> apporter une chose et la déposer sur une autre.<p><b>Étym</b>. ἐπίφορος.`

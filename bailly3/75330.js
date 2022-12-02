@@ -1,0 +1,1 @@
+lar[75330]=`se nourrir, s’abreuver de, <i>gén. ; ao. épq</i>. ἐπασσάμην, <i>OD</i>. 1.124, 9.87, <i>etc. ; part. fém. dor</i>. πασαμένα, ESCHL. <i>Ag</i>. 1408.<p><b>Étym</b>. Bailly R. Πα, manger ; <i>cf. lat</i>. pasco.`

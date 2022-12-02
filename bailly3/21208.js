@@ -1,0 +1,1 @@
+lar[21208]=`<b>οῦ (ὁ, ἡ)</b> <font color="purple">[γᾰ]</font> qui prépare des mets au laitage, PARMÉN. (ATH. <i>608a</i>).<p><b>Étym</b>. γάλα, ἔργον.`

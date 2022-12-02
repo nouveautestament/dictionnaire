@@ -1,0 +1,1 @@
+lar[8365]=`<b>ἀν·έντατος, ος, ον</b> <font color="purple">[τᾰ]</font> non tendu, sans force, THPP. COM. (POLL. <i>2, 234).</i><p><b>Étym</b>. ἀν-, ἐντείνω.`

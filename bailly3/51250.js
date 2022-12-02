@@ -1,0 +1,1 @@
+lar[51250]=`<b>καλλι·φυής, ής, ές</b> <font color="purple">[ῐ]</font> d’une belle croissance, <i>càd</i>. d’une belle forme, NONN. <i>D. 13, 171</i>.<p><b>Étym</b>. κ. φύω.`

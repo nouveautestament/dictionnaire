@@ -1,0 +1,1 @@
+lar[63751]=`<b>ή, όν</b>, qui peut amoindrir <i>ou</i> diminuer, LGN <i>42, 1</i>.<p><b>Étym</b>. μειόω.`

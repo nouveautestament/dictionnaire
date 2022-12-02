@@ -1,0 +1,1 @@
+lar[5731]=`<b>ἄ·μοιρος, ος, ον :</b> qui ne participe pas à, exclu de, <i>gén. ; d’ord. en mauv. part,</i> ESCHL. <i>Sept. 732, Eum. 352</i> ; SOPH. <i>Aj. 1327, etc.</i> ; PLAT. <i>Conv. 202d, etc. ; rar. en b. part,</i> exempt (d’un mal) PLAT. <i>Conv. 181c, Pol. 269e ; par opp. à</i> εὔμοιρος PLAT. <i>Conv. 197d</i>.<p><b>Étym</b>. ἀ, μοῖρα.`

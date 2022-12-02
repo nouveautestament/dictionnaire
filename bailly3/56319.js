@@ -1,0 +1,1 @@
+lar[56319]=`<i>mieux que</i> <b>κνισσόω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> remplir de la fumée <i>ou</i> du fumet des viandes, <i>acc</i>. MATR. (ATH. <i>136c</i>).<br><b>      2</b> réduire en fumée, <i>acc</i>. LUC. <i>Sat. 23</i> ; A. APHR. <i>Probl. 2, 17</i>.<p><b>Étym</b>. κνῖσα.`

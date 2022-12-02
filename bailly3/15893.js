@@ -1,0 +1,1 @@
+lar[15893]=`<b>ης (ἡ)</b> <font color="purple">[κᾰ]</font> l’Askanie :<br><b>1</b> <i>contrée de Phrygie, IL</i>. 2.863.<br><b>2</b> <i>contrée de Bithynie ou de Mysie, IL</i>. 13.793.`

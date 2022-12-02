@@ -1,0 +1,1 @@
+lar[11678]=`<b>ου (ὁ)</b> Apellikhos, <i>h</i>. ANTH. <i>7, 735</i>.`

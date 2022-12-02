@@ -1,0 +1,1 @@
+lar[27499]=`<b>ῆς (ἡ)</b> construction, <i>d’où</i> charpente du corps, corps, A.RH. <i>3, 1395</i> ; NIC. <i>Th. 153, 259</i> ; LYC. <i>334, 597, 783</i>.<p><b>Étym</b>. δέμω, <i>cf</i>. δέμας.`

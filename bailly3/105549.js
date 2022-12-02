@@ -1,0 +1,1 @@
+lar[105549]=`<b>φιλ·ένθεος, ος, ον</b> <font color="purple">[ῐ]</font> volontiers inspiré, ORPH. <i>H. 10, 5</i>.`

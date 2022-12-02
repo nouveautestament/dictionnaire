@@ -1,0 +1,1 @@
+lar[25085]=`<b>δια·μυδαλέος, α, ον</b> <font color="purple">[ᾰῡᾰ]</font> qui inonde, <i>en parl. de larmes,</i> ESCHL. <i>Pers. 538</i>.`

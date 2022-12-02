@@ -1,0 +1,1 @@
+lar[101738]=`<b>ὑλο·γράφος, ος, ον</b> <font color="purple">[ῡᾰ]</font> qui écrit <i>ou</i> qui peint sur du bois, MAN. <i>4, 342</i>.<p><b>Étym</b>. ὕλη, γράφω.`

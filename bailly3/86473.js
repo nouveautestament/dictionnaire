@@ -1,0 +1,1 @@
+lar[86473]=`<b>προ·στενάζω</b>, gémir auparavant, ESCHL. <i>Pr. 690 avec tmèse</i>.`

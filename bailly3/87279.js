@@ -1,0 +1,1 @@
+lar[87279]=`<i>adv.</i> :<br><b>      1</b> premièrement, avant les autres, POL. <i>10, 11, 16</i> ; ARSTT. <i>Nic. 8, 9</i>.<br><b>      2</b> premièrement, d’abord, ARSTT. <i>Nic. 8, 5</i> ; LUC. <i>Charid. 19, etc. ; d’où</i> primitivement, PLUT. <i>M. 347e ; p. suite,</i> originairement, CLÉOM. <i>79, 17</i>.<p><b>Étym</b>. πρῶτος.`

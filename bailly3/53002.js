@@ -1,0 +1,1 @@
+lar[53002]=`<b>κατα·παταγέω-ῶ</b> <font color="purple">[πᾰᾰ]</font> frapper, <i>acc</i>. EUM. <i>p. 378</i>.`

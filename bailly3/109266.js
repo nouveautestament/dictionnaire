@@ -1,0 +1,1 @@
+lar[109266]=`<b>χρυσό·στικτος, ος, ον</b> <font color="purple">[ῡ]</font> pointillé d’or, CLÉM. <i>188</i>.<p><b>Étym</b>. χρ. στίζω.`

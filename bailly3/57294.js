@@ -1,0 +1,1 @@
+lar[57294]=`<b>κοσμο·σάνδαλον, ου (τὸ)</b> <font color="purple">[δᾰ]</font> <i>autre nom de la plante</i> ὑάκινθος, CRAT. (ATH. <i>681a</i>) ; PHÉRÉCR. (ATH. <i>685a</i>).<p><b>Étym</b>. κόσμος, σάνδαλον.`

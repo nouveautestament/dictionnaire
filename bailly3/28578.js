@@ -1,0 +1,1 @@
+lar[28578]=`<b>δύσ·κηλος, ος, ον</b>, difficile à soigner, à cultiver, ESCHL. <i>Eum. 825</i>.<p><b>Étym</b>. δ. κηλέω.`

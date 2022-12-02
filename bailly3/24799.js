@@ -1,0 +1,1 @@
+lar[24799]=`<b>δια·κολυμβάω-ῶ</b>, plonger à travers, traverser à la nage, POL. <i>5, 46, 8</i> ; SPT. <i>1Macc. 9, 48</i> ; δ. τὸν Τίβεριν, DS. <i>14, 116</i>, traverser le Tibre à la nage.`

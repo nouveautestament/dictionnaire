@@ -1,0 +1,1 @@
+lar[62771]=`<b>ου (ὁ)</b> casaque de gros drap, ÆL. DION. (EUST. <i>Od. p. 1854, 32</i>) ; RHÉT. <i>1, 582 W</i>.`

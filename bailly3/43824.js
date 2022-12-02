@@ -1,0 +1,1 @@
+lar[43824]=`<i>adv</i>., commodément, utilement, POL. <i>3, 73, 5</i>.<p>•<i> Cp</i>. -ότερον, CHRYSIPP. (PLUT. <i>M. 1044d</i>).`

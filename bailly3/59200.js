@@ -1,0 +1,1 @@
+lar[59200]=`<b>ή, όν</b>, de comédie, comique, AR. <i>Vesp. 1020, 1047, Eccl. 889</i> ; PLAT. <i>Rsp. 606c</i>.<p><b>Étym</b>. κωμῳδός.`

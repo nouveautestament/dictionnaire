@@ -1,0 +1,1 @@
+lar[106029]=`<b>φιλο·πόρφυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime la pourpre, CLÉM. <i>257</i>.<p><b>Étym</b>. φ. πορφύρα.`

@@ -1,0 +1,1 @@
+lar[85820]=`<b>προσηγορέω-ῶ :<br>      1</b> adresser la parole à, saluer, SOPH. <i>El. 1471</i>.<br><b>      2</b> consoler, <i>acc</i>. EUR. <i>Ph. 989</i>.<p><b>Étym</b>. προσήγορος.`

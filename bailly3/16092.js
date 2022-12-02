@@ -1,0 +1,1 @@
+lar[16092]=`<b>ου (τὸ)</b> as, <i>monnaie romaine,</i> DH. <i>9, 27</i> ; PLUT. <i>Cam. 13 ; etc</i>.<p><b>Étym</b>. <i>lat</i>. assarius.`

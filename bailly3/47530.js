@@ -1,0 +1,1 @@
+lar[47530]=`<b>ος, ον</b>, qui s’élance, impétueux, <i>en parl. de pers</i>. (Arès, IL. <i>15, 127, etc.</i> ; Typhon, ESCHL. <i>Pr. 354) ; en parl. d’une lance,</i> EUR. <i>Rhes. 492</i>.<p><b>Étym</b>. <i>p</i>. *θόρ-ϝος, <i>de la R. indo-europ</i>. *d<sup>h</sup>erh₃-, sauter, monter ; <i>cf</i>. θουράς.`

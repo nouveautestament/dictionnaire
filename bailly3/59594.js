@@ -1,0 +1,1 @@
+lar[59594]=`<b>ῶν (οἱ)</b> Lakiades, <i>dème attique de la tribu Onéidè,</i> ARSTT. (PLUT. <i>Cim. 10</i>).`

@@ -1,0 +1,1 @@
+lar[33839]=`<b>ἐν·αλίγκιος, ος, ον</b> <font color="purple">[ᾰ]</font> semblable : τινι, IL. <i>5, 5, etc.</i> ; OD. <i>4, 310,</i> à qqn ; τινί τι, IL. <i>19, 250</i> ; OD. <i>1, 371, etc.</i> ; HÉS. <i>Sc. 88</i> ; PD. <i>I. 8, 37, etc</i>. à qqn en qqe ch.<p>➳ <i>Fém. ion</i>. ἐναλιγκίη, A.RH. <i>3, 857</i>.`

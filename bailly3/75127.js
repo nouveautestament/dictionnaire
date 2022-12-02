@@ -1,0 +1,1 @@
+lar[75127]=`<b>παν·όπτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui voit tout, <i>en parl. du soleil,</i> ESCHL. <i>Pr. 91 ; de Zeus,</i> ESCHL. <i>Eum. 1045 ; du bouvier Argos,</i> EUR. <i>Ph. 1115</i> ; AR. <i>Eccl. 80 ; au plur</i>. οἱ πανόπται, <i>titre de comédies de Cratinos et d’Eubule</i>.<p><b>Étym</b>. π. ὄψομαι.`

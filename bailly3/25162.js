@@ -1,0 +1,1 @@
+lar[25162]=`<b>ῆς (ἡ) :<br>      1</b> distribution, partage, PLAT. <i>Rsp. 535a, Leg. 714a, etc.</i> ; PLUT. <i>Per. 9, Cor. 16, M. 744a ; avec le dat</i>. δ. τινι, PLUT. <i>Ant. 14</i>, distribution faite à qqn ; <i>abs</i>. largesses au peuple, M. ANT. <i>1, 16</i>.<br><b>      2</b> direction, PLUT. <i>M. 102e</i>.<p><b>Étym</b>. διανέμω.`

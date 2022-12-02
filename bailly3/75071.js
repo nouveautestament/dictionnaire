@@ -1,0 +1,1 @@
+lar[75071]=`<b>α, ον</b> <font color="purple">[πᾱ]</font> <i>c</i>. Πανικός, ESCHL. <i>fr. 92 Dind</i>.`

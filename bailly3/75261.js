@@ -1,0 +1,1 @@
+lar[75261]=`<b>παντ·ολέτωρ, ορος</b>, <i>adj. m</i>. qui détruit <i>ou</i> perd tout, ANTH. <i>11, 348</i>.<p><b>Étym</b>. π. ὄλλυμι.`

@@ -1,0 +1,1 @@
+lar[109677]=`se faire une fausse opinion, se tromper, POL. <i>10, 2, 3</i>.<p><b>Étym</b>. ψευδόδοξος.`

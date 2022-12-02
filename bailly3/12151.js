@@ -1,0 +1,1 @@
+lar[12151]=`<b>α, ον</b>, sujet à jeter, <i>gén</i>. AR. <i>Pax 678</i>.`

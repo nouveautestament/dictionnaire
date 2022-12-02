@@ -1,0 +1,1 @@
+lar[50101]=`<b>ἰχνο·βλαβής, ής, ές</b> <font color="purple">[ᾰ]</font> blessé aux pieds, MAN. <i>4, 500</i>.<p><b>Étym</b>. ἴχνος, βλάπτω.`

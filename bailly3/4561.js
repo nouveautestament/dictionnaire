@@ -1,0 +1,1 @@
+lar[4561]=`<b>ατος (τὸ)</b> plantain d’eau (<i>Alisma parnassifolia</i> ou <i>Plantago</i> L.) <i>plante,</i> DIOSC. <i>3, 169</i>.`

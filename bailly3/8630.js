@@ -1,0 +1,1 @@
+lar[8630]=`<b>ἀν·έφικτος, ος, ον</b>, inaccessible, inabordable, PLUT. <i>M. 54d ;</i> LUC. <i>Halc. 3, etc</i>.<p><b>Étym</b>. ἀν-, ἐφικνέομαι.`

@@ -1,0 +1,1 @@
+lar[105016]=`<b>ου (τὸ)</b> <i>dim. de</i> φάττα, EPHIPP. (<i>Com. fr. 3, 334) ; fig. c. terme de tendresse,</i> AR. <i>Pl. 1011</i>.`

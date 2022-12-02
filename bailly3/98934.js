@@ -1,0 +1,1 @@
+lar[98934]=`<b>τηλέ·μαχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui combat de loin, <i>càd</i>. avec des armes de jet, LUC. <i>Lex. 12</i>.<p><b>Étym</b>. τ. μάχομαι.`

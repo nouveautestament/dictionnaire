@@ -1,0 +1,1 @@
+lar[38873]=`<b>ἐπι·ρρεμβῶς</b>, <i>adv</i>., avec négligence, HERM. (STOB. <i>Ecl. 1, 1092).</i><p><b>Étym</b>. ἐπί, ῥέμβω.`

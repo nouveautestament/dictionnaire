@@ -1,0 +1,1 @@
+lar[35455]=`<b>ἐξ·αναισθητέω-ῶ</b>, être complètement insensible, PORPH. <i>Abst. 1, 39</i>.`

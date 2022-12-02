@@ -1,0 +1,1 @@
+lar[75352]=`<b>παππο·σπέρματα, ων (τὰ)</b> dont la graine est cotonneuse, avec une aigrette, TH. <i>H.P. 7, 3, 2</i>.<p><b>Étym</b>. πάππος, σπέρμα.`

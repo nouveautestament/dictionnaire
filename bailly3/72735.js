@@ -1,0 +1,1 @@
+lar[72735]=`<b>ὀρθό·πλοος-ους, οος-ους, οον-ουν</b>, qui navigue heureusement (<i>propr</i>. directement, sans obstacles) <i>fig</i>. HIPPODAM. (STOB. <i>Fl. 103, 26).</i><p><b>Étym</b>. ὀ. πλέω.`

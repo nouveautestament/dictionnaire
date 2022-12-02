@@ -1,0 +1,1 @@
+lar[52672]=`<b>κατα·κυριεύω</b> <font color="purple">[ῡ]</font> commander à, dominer sur, <i>gén</i>. DS. <i>14, 64</i> ; SPT. <i>Ps. 71, 8, etc.</i> ; NT. <i>Matth. 20, 25</i>.`

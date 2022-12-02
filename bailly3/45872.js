@@ -1,0 +1,1 @@
+lar[45872]=`<b>ἠρι·πόλη, ης (ἡ)</b> l’Aurore (<i>propr</i>. celle qui vient le matin), le jour, ANTH. <i>5, 228, 254</i>.<p><b>Étym</b>. ἦρι, πολέω.`

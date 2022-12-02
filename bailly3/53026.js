@@ -1,0 +1,1 @@
+lar[53026]=`<b>κατα·πελτάζομαι</b>, attaquer avec des troupes légères, AR. <i>Ach. 160</i>.`

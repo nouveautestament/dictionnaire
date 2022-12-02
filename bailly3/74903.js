@@ -1,0 +1,1 @@
+lar[74903]=`<b>παν·δαίδαλος, ος, ον</b> <font color="purple">[ᾰλ]</font> disposé <i>ou</i> travaillé avec beaucoup d’art, PD. <i>fr. 45, 5</i>.<p><b>Étym</b>. π. δαίδαλος.`

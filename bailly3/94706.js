@@ -1,0 +1,1 @@
+lar[94706]=`<b>συν·αναίρεσις, εως (ἡ)</b> destruction <i>ou</i> disparition commune <i>ou</i> simultanée, SEXT. <i>M. 2, 267</i>.<p><b>Étym</b>. συναναιρέω.`

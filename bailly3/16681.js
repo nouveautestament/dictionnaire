@@ -1,0 +1,1 @@
+lar[16681]=`<font color="purple">[τᾰ]</font> <i>adv</i>., sans trouble, XÉN. <i>Hipp. 4, 9</i> ; M. ANT. <i>12, 3</i>.<p>•<i> Cp</i>. -ότερον, PLUT. <i>M. 1104b ; sup</i>. -ότατα, XÉN. <i>Hipp. 2, 1</i>.`

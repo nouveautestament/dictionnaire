@@ -1,0 +1,1 @@
+lar[56258]=`<b>κνημιδο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font> qui porte des jambarts, HDT. <i>7, 92</i>.<p><b>Étym</b>. κνημίς, φέρω.`

@@ -1,0 +1,1 @@
+lar[99260]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. τιμή, ARCHIL. <i>64</i> ; ESCHL. <i>Ch. 916</i>.`

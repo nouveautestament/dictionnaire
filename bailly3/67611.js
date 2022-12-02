@@ -1,0 +1,1 @@
+lar[67611]=`<b>ου (ὁ)</b> Nanaros, <i>h</i>. PLUT. <i>M. 1095d</i>.`

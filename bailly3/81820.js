@@ -1,0 +1,1 @@
+lar[81820]=`<b>πολύ·γωνος, ος, ον</b> <font color="purple">[ῠ]</font> qui a plusieurs angles, polygone, ARSTT. <i>Sens. 4, 23</i> ; PLUT. <i>M. 1121c</i>.<p><b>Étym</b>. π. γωνία.`

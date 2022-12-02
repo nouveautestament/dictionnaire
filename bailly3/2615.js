@@ -1,0 +1,1 @@
+lar[2615]=`<b>αἱμο·φόβος, ος, ον</b>, qui a peur du sang <i>ou</i> de saigner, GAL. <i>10, 210</i>.<p><b>Étym</b>. αἷμα, φέβομαι.`

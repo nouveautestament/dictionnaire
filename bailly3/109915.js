@@ -1,0 +1,1 @@
+lar[109915]=`<b>ά, όν</b>, menteur, mensonger, THGN. <i>124</i> ; LYC. <i>235, 1219</i>.<p><b>Étym</b>. <i>cf</i>. ψεύδω.`

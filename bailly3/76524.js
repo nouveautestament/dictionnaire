@@ -1,0 +1,1 @@
+lar[76524]=`<b>παρ·εγγλύφω</b> <font color="purple">[ῠ]</font> graver auprès, GAL.<p><b>Étym</b>. π. ἐν, γλύφω.`

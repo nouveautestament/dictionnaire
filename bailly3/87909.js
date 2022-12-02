@@ -1,0 +1,1 @@
+lar[87909]=`<b>πυρι·τόκος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui engendre le feu, ANTH. <i>6, 90, conj. p</i>. πυρητόκος.<p><b>Étym</b>. π. τίκτω.`

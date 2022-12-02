@@ -1,0 +1,1 @@
+lar[7125]=`<b>ή, όν :<br>      1</b> qui juge par analogie, SEXT. <i>M. 11, 250, etc.</i><br><b>      2</b> qui enseigne l’analogie, SEXT. <i>M. 2, 59</i>.`

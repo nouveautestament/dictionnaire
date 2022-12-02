@@ -1,0 +1,1 @@
+lar[6673]=`<b>ος, ον :<br>      1</b> partagé de nouveau, <i>en parl. de terres,</i> PLAT. <i>Leg. 843b ;</i> ARSTT. <i>Pol. 5, 7, 4, etc.</i><br><b>      2</b> annulé, non valable, PLUT. <i>M. 654a, Cam. 8</i> ; LUC. <i>Abd. 11</i>.<p><b>Étym</b>. ἀναδαίω².`

@@ -1,0 +1,1 @@
+lar[4348]=`<b>ἀ·λήϊστος, ος, ον</b>, qui ne peut être pillé, NAZ. <i>3, 1533 Migne</i>.<p><b>Étym</b>. ἀ, ληΐζω.`

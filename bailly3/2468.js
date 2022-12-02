@@ -1,0 +1,1 @@
+lar[2468]=`<b>ης (ἡ)</b> <i>s.-e</i>. στοά, portique <i>ou</i> galerie sur la cour, <i>vers l’Est et le Midi, par suite touj. exposée au soleil (d’où son nom) et servant de lieu de repos aux voyageurs,</i> IL. <i>6, 243, etc.</i> ; OD. <i>3, 399, etc</i>.<p><b>Étym</b>. <i>pré-grec ; rapprochement avec</i> αἴθω <i>par étym. populaire</i>.`

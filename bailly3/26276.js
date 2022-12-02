@@ -1,0 +1,1 @@
+lar[26276]=`<b>ά, όν</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui épouvante, qui fait fuir : δ. βροτός, OD. <i>6, 201,</i> mortel redoutable.<br><b>      2</b> qui fuit (de frayeur), <i>d’où</i> agile : διερῷ ποδί, OD. <i>9, 43,</i> d’un pied agile.<p><b>Étym</b>. δίεσθαι, s’enfuir, avoir peur ; <i>cf</i>. δέδια ; <i>pour le suff. cf</i>. φοβερός.`

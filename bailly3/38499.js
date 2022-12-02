@@ -1,0 +1,1 @@
+lar[38499]=`<b>ἐπι·ναυμαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat sur mer (<i>litt</i>. sur les vaisseaux) Ps.-PLUT. <i>V. Hom. 387</i>.`

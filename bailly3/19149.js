@@ -1,0 +1,1 @@
+lar[19149]=`<b>βαρυθυμέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰῠῡ]</font> supporter avec peine, être irrité <i>ou</i> mécontent, APP. <i>Civ. 2, 20</i> ; SPT. <i>Num. 16, 15 ; 3Reg. 11, 22</i> ; ἐπί τινι, DS. <i>20, 41,</i> de qqe ch.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>Syll. 6</i>.<p><b>Étym</b>. βαρύθυμος.`

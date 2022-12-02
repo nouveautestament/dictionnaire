@@ -1,0 +1,1 @@
+lar[14286]=`<b>Ἀργό·λας, α (ὁ, ἡ)</b> <font color="purple">[λᾱ]</font> du peuple d’Argos, Argien, EUR. <i>Rhes. 41</i>.<p><b>Étym</b>. Ἄργος¹, λαός.`

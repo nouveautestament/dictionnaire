@@ -1,0 +1,1 @@
+lar[106160]=`<b>φιλό·τρυφος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui aime la mollesse, mou, délicat, PTOL. <i>Tetr. p. 162c</i>.<p><b>Étym</b>. φ. τρυφή.`

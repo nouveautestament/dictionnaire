@@ -1,0 +1,1 @@
+lar[50434]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> action de s’asseoir, SPT. <i>Jer. 28, 9</i> ; PLUT. <i>M. 609b, etc</i>.<p><b>Étym</b>. καθίζω.`

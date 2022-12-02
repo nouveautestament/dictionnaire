@@ -1,0 +1,1 @@
+lar[75546]=`<b>ή, όν</b>, transmis, enseigné <i>ou</i> qu’on peut transmettre <i>ou</i> enseigner, PLAT. <i>Men. 93b ;</i> DL. <i>4, 12</i>.<p><b>Étym</b>. <i>vb. de</i> παραδίδωμι.`

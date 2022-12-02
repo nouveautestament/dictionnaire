@@ -1,0 +1,1 @@
+lar[85007]=`<b>ατος (τὸ)</b> breuvage <i>ou</i> potion qu’on donne auparavant, RUF. <i>162 Matthäi</i>.<p><b>Étym</b>. προποτίζω.`

@@ -1,0 +1,1 @@
+lar[647]=`<b>ἀγκυλο·βλέφαρον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> adhérence des paupières entre elles <i>ou</i> avec le blanc de l’œil, P. ÉG. <i>6, 15</i>.<p><b>Étym</b>. ἀγκύλος, βλ.`

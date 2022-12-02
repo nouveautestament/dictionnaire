@@ -1,0 +1,1 @@
+lar[36838]=`<b>ἐπ·αυγάζω</b> <font color="darkgreen">(<i>impf</i>. ἐπηύγαζον, <i>ao</i>. ἐπηύγασα) :</font><br><b>      1 <i>tr.</i></b> éclairer, illuminer à la surface, MAX. <i>π. κατ. 26</i>.<br><b>      2 <i>impers</i></b>. ἐπαυγάζει, POLYEN <i>1, 39, 1,</i> il commence à faire jour.<br><b><i>Moy.</i></b> jeter les yeux sur, regarder, <i>acc</i>. ANTH. <i>9, 58 ; 12, 91</i>.`

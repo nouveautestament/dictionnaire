@@ -1,0 +1,1 @@
+lar[37644]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> doute, GAL. <i>6, 83</i>.<p><b>Étym</b>. ἐπιδιστάζω.`

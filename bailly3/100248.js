@@ -1,0 +1,1 @@
+lar[100248]=`<b>ου (τὸ)</b> <font color="purple">[λῑ]</font> <i>c</i>. τρίκλινον, THPP. COM. (ATH. <i>23e</i>).<p><b>Étym</b>. <i>v</i>. τρίκλινος.`

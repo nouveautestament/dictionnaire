@@ -1,0 +1,1 @@
+lar[99143]=`<b>ου (ὁ)</b> <font color="purple">[ῐῑ]</font> le Tessin (<i>auj</i>. Ticino) <i>fl. de la haute Italie,</i> POL. <i>34, 10</i> ; STR. <i>217, etc</i>.`

@@ -1,0 +1,1 @@
+lar[77147]=`<b>α, ον</b> <font color="purple">[ᾰσ]</font> de Parrhasia, PD. <i>O. 9, 143, etc.</i> ; EUR. <i>Or. 1645</i> ; οἱ Παρράσιοι, THC. <i>5, 33, etc</i>. habitants de Parrhasia.<p><b>Étym</b>. Παρρασία.`

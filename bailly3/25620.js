@@ -1,0 +1,1 @@
+lar[25620]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, le métier <i>ou</i> l’art du tisserand, THÉOD. <i>p. 53</i>.<p><b>Étym</b>. διάζομαι.`

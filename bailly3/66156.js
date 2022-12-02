@@ -1,0 +1,1 @@
+lar[66156]=`<b>ου (ὁ)</b> Mnasippos, <i>stratège lacédémonien,</i> XÉN. <i>Hell. 6, 2, 4 et 5, etc</i>.<p><b>Étym</b>. μνάομαι, ἵππος.`

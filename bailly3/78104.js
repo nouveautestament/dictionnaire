@@ -1,0 +1,1 @@
+lar[78104]=`<b>πεντε·πάλαστος</b>, <i>mieux que</i> <b>πεντε·πάλαιστος, ος, ον</b> <font color="purple">[πᾰ]</font> large de cinq palmes, XÉN. <i>Cyn. 9, 14 ; 10, 3</i>.<p>➳ <i>Dans les inscr. att</i>. πεντεπαλάστω, πεντεπάλαστα, CIA. <i>1, 322a, 21, 26, 28, 51, 77 (409 av. J.-C.) ; v. Meisterh. p. 125, 3, note 1117</i>.<p><b>Étym</b>. π. παλαστή.`

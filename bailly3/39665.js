@@ -1,0 +1,1 @@
+lar[39665]=`<b>ου (ὁ)</b> Épikharmos (Épicharme) <i>poète com. sicilien,</i> XÉN. <i>Mem. 2, 1, 20</i> ; PLAT. <i>Theæt. 152e ;</i> THCR. <i>Epigr. 17, 1, etc</i>.<p><b>Étym</b>. ἐπιχαίρω.`

@@ -1,0 +1,1 @@
+lar[21341]=`<b>γαμψ·ώνυχος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. γαμψῶνυξ ARSTT. <i>H.A. 6, 7, 2 ; G.A. 3, 1, 13</i> ; EPICH. (ATH. <i>105b</i>).`

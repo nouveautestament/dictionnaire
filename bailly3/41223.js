@@ -1,0 +1,1 @@
+lar[41223]=`<b>ή, όν</b>, de l’intérieur, <i>càd</i>. de l’intimité, réservé aux seuls adeptes, LUC. <i>V. auct. 26 ; en parl. de certains ouvrages d’Aristote,</i> CLÉM. <i>2, 89b ;</i> οἱ ἐσωτερικοί (<i>s.-e</i>. μαθηταί) JAMBL. <i>V. Pyth. 152,</i> les disciples initiés à la doctrine ésotérique de Pythagore.<p><b>Étym</b>. ἐσώτερος.`

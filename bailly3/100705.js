@@ -1,0 +1,1 @@
+lar[100705]=`<b>ου (τὸ)</b> pressoir, HIPPON. <i>fr. 57</i>.<p><b>Étym</b>. <i>ion. p</i>. *τροπεῖον <i>de</i> τρέπω.`

@@ -1,0 +1,1 @@
+lar[66706]=`<b>μον·ώψ</b>, <i>ion</i>. <b>μουν·ώψ, ῶπος (ὁ, ἡ)</b> qui n’a qu’un œil, ESCHL. <i>Pr. 803</i> ; EUR. <i>Cycl. 21, 644</i>.<p>➳ <i>Poét</i>. μούνωψ, ESCHL. <i>l. c</i>.<p><b>Étym</b>. μ. ὤψ.`

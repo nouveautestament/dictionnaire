@@ -1,0 +1,1 @@
+lar[10678]=`<b>ων (οἱ)</b> les habitants d’Antrôn, DÉM. <i>10, 9 Baiter-Sauppe</i>.<p><b>Étym</b>. Ἀντρών.`

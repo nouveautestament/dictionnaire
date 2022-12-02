@@ -1,0 +1,1 @@
+lar[104763]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Phalèros :<br><b>      1</b> <i>Lapithe,</i> HÉS. <i>Sc. 180</i>.<br><b>      2</b> <i>Athénien,</i> A.RH. <i>1, 96</i> ; ORPH. <i>Arg. 145</i>.`

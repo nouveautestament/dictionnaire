@@ -1,0 +1,1 @@
+lar[110487]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> rugissement, SPT. <i>Ezech. 19, 7</i>.<p><b>Étym</b>. ὠρύω.`

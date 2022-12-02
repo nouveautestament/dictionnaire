@@ -1,0 +1,1 @@
+lar[14040]=`<b>ἄ·πυγος, ος, ον</b> <font color="purple">[ῡ]</font> sans fesses, SIM. AM. <i>fr. 7, 76</i> ; PLAT. COM. (GAL. <i>9, 316).</i><p>•<i> Cp</i>. -ότερος, ANTH. <i>11, 327</i>.<p><b>Étym</b>. ἀ, πυγή.`

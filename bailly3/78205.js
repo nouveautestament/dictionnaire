@@ -1,0 +1,1 @@
+lar[78205]=`<b>πεπερό·γαρον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> sauce faite de saumure et de poivre, A. TR. <i>1, 67</i>.<p><b>Étym</b>. πέπερι, γάρον.`

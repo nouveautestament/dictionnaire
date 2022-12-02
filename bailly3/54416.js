@@ -1,0 +1,1 @@
+lar[54416]=`<b>ου</b>, <i>adj. m</i>. de Kébrène, HOM. <i>Ep. 10</i>.<p><b>Étym</b>. <i>v</i>. Κεβρήν.`

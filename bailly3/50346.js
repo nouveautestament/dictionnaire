@@ -1,0 +1,1 @@
+lar[50346]=`<b>κάθ·ερμα, ατος (τὸ)</b> pendant d’oreilles, ANACR. <i>19, 12 au pl</i>.<p><b>Étym</b>. κ. ἕρμα.`

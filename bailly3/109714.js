@@ -1,0 +1,1 @@
+lar[109714]=`<b>ψευδό·παν, ανος (ὁ)</b> <font color="purple">[ᾱν]</font> faux Pan, JUL. <i>Or. 234d</i>.`

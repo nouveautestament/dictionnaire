@@ -1,0 +1,1 @@
+lar[98454]=`<i>att</i>. <b>τετταρακοστός, ή, όν</b> <font color="purple">[ᾰᾰ]</font> quarantième, THC. <i>1, 60</i> ; ἡ τετταρακοστή, AR. <i>Eccl. 825,</i> l’impôt du quarantième sur le capital ; αἱ τεσσαρακοσταί, THC. <i>8, 101 litt</i>. les quarantièmes, <i>monnaie de Chios</i>.<p><b>Étym</b>. τεσσαράκοντα.`

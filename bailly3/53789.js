@@ -1,0 +1,1 @@
+lar[53789]=`<b>κατα·ψηλαφάω-ῶ</b> <font color="purple">[ᾰφ]</font> <i>c</i>. καταψάω, LUC. <i>As. 14</i>.`

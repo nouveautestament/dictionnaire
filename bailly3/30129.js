@@ -1,0 +1,1 @@
+lar[30129]=`<b>άδος (ὁ, ἡ) :<br>      1</b> habitué à : τινος, THC. <i>2, 44</i> ; PLUT. <i>Oth. 5 et 12, M. 8d ; rar</i>. τινι, HPC. <i>307, 46</i> ; OPP. <i>H. 5, 499,</i> à qqe ch. ; <i>abs</i>. HPC. <i>597, 2 ; d’où</i> familier, apprivoisé, THÉM. <i>273d.</i><br><b>      2</b> habituel : τινι, HPC. <i>645, 32,</i> à qqn.<p><b>Étym</b>. <i>v</i>. ἔθος.`

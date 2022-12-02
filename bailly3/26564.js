@@ -1,0 +1,1 @@
+lar[26564]=`<b>δι·κόρυμβος, ος, ον</b> <font color="purple">[ῐ]</font> à deux sommets, LUC. <i>Char. 5</i>.<p><b>Étym</b>. δίς, κόρυμβος.`

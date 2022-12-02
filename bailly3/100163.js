@@ -1,0 +1,1 @@
+lar[100163]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> troisième génération, durée de trois générations, DÉM. <i>1327, 3</i> ; STR. <i>516, 540</i> ; PLUT. <i>Cato ma. 15</i> ; HDN <i>1, 7, 5</i>.<p><b>Étym</b>. τρίγονος.`

@@ -1,0 +1,1 @@
+lar[12556]=`<b>ἀπό·κηρος, ος, ον</b>, exempt de la mort, EMPÉD. <i>147 Diels</i>.<p><b>Étym</b>. ἀπό, κήρ.`

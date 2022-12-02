@@ -1,0 +1,1 @@
+lar[37933]=`<b>ἐπι·καταμένω</b>, rester encore, continuer de rester, XÉN. <i>Cyr. 1, 2, 11, etc</i>.`

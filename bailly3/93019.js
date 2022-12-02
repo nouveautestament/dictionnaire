@@ -1,0 +1,1 @@
+lar[93019]=`<b>στροφο·δινέω-ῶ</b> <font color="purple">[ῑ]</font> <i>c</i>. στρεφεδινέω, ESCHL. <i>Ag. 51</i>.`

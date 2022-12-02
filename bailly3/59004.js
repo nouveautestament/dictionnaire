@@ -1,0 +1,1 @@
+lar[59004]=`<b>ατος (τὸ) :<br>      1</b> courbure, <i>d’où</i> convexité, <i>particul. t. mil</i>. ligne de bataille recourbée en demi-lune, POL. <i>3, 113, 8, etc.</i><br><b>      2</b> bosse, LUC. <i>Ind. 7</i>.<br><b>      3</b> rotondité du ventre d’une femme enceinte, HPC. <i>108d.</i><br><b>      4</b> enflure, <i>en gén</i>. HPC. <i>40, 25</i>.<p><b>Étym</b>. κυρτόω.`

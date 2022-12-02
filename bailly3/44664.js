@@ -1,0 +1,1 @@
+lar[44664]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> fermentation, HPC. <i>1121g ;</i> PLAT. <i>Tim. 66b ;</i> PLUT. <i>M. 659b</i>.<p><b>Étym</b>. ζυμόω.`

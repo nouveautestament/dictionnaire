@@ -1,0 +1,1 @@
+lar[13774]=`<b>ἀπο·φώλιος, ος, ον</b>, qui sort d’un trou, d’un gîte : ἀποφώλιον ἆσθμα ἐχίδνης, NIC. <i>Al. 524,</i> souffle d’un serpent caché dans un trou.<p><b>Étym</b>. ἀπό, φωλεός.`

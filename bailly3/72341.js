@@ -1,0 +1,1 @@
+lar[72341]=`<b>ὁπλό·δουπος, ος, ον</b>, aux armes retentissantes, ORPH. <i>H. 64, 3</i>.<p><b>Étym</b>. ὅπλ. δουπέω.`

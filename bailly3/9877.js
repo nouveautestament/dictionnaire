@@ -1,0 +1,1 @@
+lar[9877]=`<b>ἀντι·ζητέω-ῶ</b>, chercher de son côté, XÉN. <i>Œc. 8, 23</i>.`

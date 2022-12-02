@@ -1,0 +1,1 @@
+lar[3927]=`<b>ης (ἡ)</b> pauvreté, CLÉM. <i>Protr. 66a, etc</i>.<p><b>Étym</b>. ἀκτήμων.`

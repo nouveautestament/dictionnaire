@@ -1,0 +1,1 @@
+lar[54634]=`<b>εως (ἡ)</b> action de commander, ordre, PLUT. <i>M. 32c</i>.<p><b>Étym</b>. κελεύω.`

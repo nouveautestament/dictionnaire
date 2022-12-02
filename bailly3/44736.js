@@ -1,0 +1,1 @@
+lar[44736]=`<i>(seul. prés</i>. HPC. <i>8, 144 Littré, et impf. 2 sg</i>. ἐζώννυες, NT. <i>Joh. 51, 18) c</i>. ζώννυμι.`

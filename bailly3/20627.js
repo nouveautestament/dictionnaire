@@ -1,0 +1,1 @@
+lar[20627]=`<b>βραδυ·πειθής, ής, ές</b> <font color="purple">[ᾰῠ]</font> lent à se laisser persuader, lent à obéir, ANTH. <i>5, 287</i> ; NONN. <i>D. 4, 313</i>.<p><b>Étym</b>. βρ. πείθω.`

@@ -1,0 +1,1 @@
+lar[83324]=`<b>ή, όν</b>, digne de respect <i>ou</i> de considération, ESCHL. <i>Eum. 914</i> ; AR. <i>Lys. 1298</i>.<p><b>Étym</b>. <i>vb. de</i> πρέπω.`

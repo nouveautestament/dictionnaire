@@ -1,0 +1,1 @@
+lar[57127]=`<b>ήεσσα, ῆεν</b>, aux tempes garnies de cheveux, ORPH. <i>Lith. 492</i>.<p><b>Étym</b>. κόρση.`

@@ -1,0 +1,1 @@
+lar[73899]=`<b>ὀχετ·ηγός, ός, όν</b>, qui amène par un conduit, qui fait dériver par un canal, IL. <i>21, 257 ; fig</i>. ANTH. <i>5, 229, 285</i>.<p><b>Étym</b>. ὀχετός, ἄγω.`

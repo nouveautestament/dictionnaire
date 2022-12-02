@@ -1,0 +1,1 @@
+lar[26596]=`<b>δικτυ·βόλος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui jette le filet, pêcheur, ANTH. <i>6, 105</i> ; OPP. <i>H. 4, 578</i>.<p><b>Étym</b>. δίκτυον, βάλλω.`

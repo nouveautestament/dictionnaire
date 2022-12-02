@@ -1,0 +1,1 @@
+lar[4148]=`(<i>seul. prés</i>.) être chaud, ARSTT. <i>Pol. 4, 9, etc</i>.<p><b>Étym</b>. ἀλέα¹.`

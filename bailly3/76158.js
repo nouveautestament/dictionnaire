@@ -1,0 +1,1 @@
+lar[76158]=`<b>παρα·ρροιζέομαι-οῦμαι</b>, couler avec bruit auprès <i>ou</i> devant, JOS. <i>B.J. 5, 2, 2</i>.<p><b>Étym</b>. π. ῥοιζέω.`

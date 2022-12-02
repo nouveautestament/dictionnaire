@@ -1,0 +1,1 @@
+lar[9089]=`<b>ἀν·ίλλομαι</b> (<i>seul. prés</i>.) ne vouloir pas, refuser, PORPH. <i>V. Plot. 65, 1</i> ; DAMASC. <i>Plat. Phil. 22, 2</i>.`

@@ -1,0 +1,1 @@
+lar[18553]=`<b>ἀ·χρώματος, ος, ον</b> <font color="purple">[μᾰ]</font> sans couleur, PLAT. <i>Phædr. 247c ;</i> PLUT. <i>M. 97a</i>.<p><b>Étym</b>. ἀ, χρῶμα.`

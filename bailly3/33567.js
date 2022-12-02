@@ -1,0 +1,1 @@
+lar[33567]=`<b>ατος (τὸ)</b> marchandise, XÉN. <i>Vect. 3, 4, etc</i>.<p><b>Étym</b>. ἐμπορεύομαι.`

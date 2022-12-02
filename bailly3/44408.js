@@ -1,0 +1,1 @@
+lar[44408]=`<b>ζα·πληθής, ής, ές</b>, tout à fait plein de, <i>gén</i>. ESCHL. <i>Pers. 316</i> ; ANTH. <i>7, 75</i>.<p><b>Étym</b>. ζα-, πλῆθος.`

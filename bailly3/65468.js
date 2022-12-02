@@ -1,0 +1,1 @@
+lar[65468]=`<font color="purple">[ῡ]</font> <i>vb. de</i> μηνύω, PHIL. <i>V. Mos. 3, § 30, p. 170</i>.`

@@ -1,0 +1,1 @@
+lar[15300]=`<i>vb. de</i> αἴρω, ALEX. (ATH. <i>642f</i>) ; PLUT. <i>M. 882c</i>.`

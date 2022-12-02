@@ -1,0 +1,1 @@
+lar[57308]=`<i>att</i>. <b>κόττυφος, ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> merle, <i>oiseau,</i> ARSTT. <i>H.A. 9, 19</i> ; MATR. <i>et</i> DIOCL. (ATH. <i>136d, 305b</i>).<br><b>      2</b> sorte de poisson de mer, NUMÉN. (ATH. <i>305b</i>) ; EL. <i>N.A. 1, 14</i>.<br><b>      3</b> coq, <i>chez les Béotiens,</i> PAUS. <i>9, 22, 4</i>.`

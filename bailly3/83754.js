@@ -1,0 +1,1 @@
+lar[83754]=`<b>ου (ὁ)</b> habitant du dème Probalinthos, <i>dème att. de la tribu Pandionide,</i> DÉM. <i>527, 528 Baiter-Sauppe</i>.`

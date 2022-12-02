@@ -1,0 +1,1 @@
+lar[9376]=`<b>ἀν·ρεία, ας (ἡ)</b> flux jaillissant, <i>mot créé par</i> PLAT. <i>Crat. 413e, pour expliquer l’étymologie de</i> ἀνδρεία.<p><b>Étym</b>. ἀνά, ῥέω.`

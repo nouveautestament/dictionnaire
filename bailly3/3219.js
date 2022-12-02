@@ -1,0 +1,1 @@
+lar[3219]=`<b>ἀκαταστατέω-ῶ</b> <font color="purple">[στᾰ]</font> être agité, bouleversé, ARR. <i>Epict. 2, 1, 12 ; au pass</i>. SPT. <i>Tob. 1, 15</i>.`

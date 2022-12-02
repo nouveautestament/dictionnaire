@@ -1,0 +1,1 @@
+lar[87318]=`<b>ίδος (ἡ)</b> fond d’un vase, ALEX. (<i>Com. fr. 3, 523</i>).`

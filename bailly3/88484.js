@@ -1,0 +1,1 @@
+lar[88484]=`<b>(ἡ)</b> Rhètana, <i>n. de f. rom</i>. PLUT. <i>Parall. min. 30</i>.`

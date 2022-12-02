@@ -1,0 +1,1 @@
+lar[94808]=`<b>συν·ανταγωνίζομαι</b> <font color="purple">[ᾰγ]</font> lutter ensemble contre, PLAT. <i>1 Alc. 119d</i>.`

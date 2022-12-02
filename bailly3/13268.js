@@ -1,0 +1,1 @@
+lar[13268]=`<b>ἀπο·σαρκόομαι-οῦμαι</b>, se former en chair, devenir de la chair, ARSTT. <i>Probl. 1, 52, 3</i>.`

@@ -1,0 +1,1 @@
+lar[77316]=`<b>Πατελλο·χάρων, οντος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Ami-des-plats, <i>n. de parasite,</i> ALCIPHR. <i>3, 54</i>.<p><b>Étym</b>. πάτελλα, χαίρω.`

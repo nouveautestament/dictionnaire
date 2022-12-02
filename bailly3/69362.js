@@ -1,0 +1,1 @@
+lar[69362]=`<b>ης (ἡ)</b> Xanthè, <i>fille d’Okéanos,</i> HÉS. <i>Th. 356</i>.<p><b>Étym</b>. ξανθός.`

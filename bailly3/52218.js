@@ -1,0 +1,1 @@
+lar[52218]=`<b>κατα·γηράω-ῶ</b> (<i>seul. prés. et impf</i>.) HDT. <i>2, 146</i> ; PLAT. <i>Criti. 112c ; pour les autres temps, il se confond avec</i> καταγηράσκω.<p>➳ <i>Impf. 3 sg</i>. κατεγήρα <font color="purple">[ρᾱ]</font> OD. <i>9, 510</i>.`

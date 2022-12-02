@@ -1,0 +1,1 @@
+lar[15888]=`<b>α, ον</b>, d’Ascalon ; τὰ Ἀ. (<i>s.-e</i>. σῦκα) ATH. <i>78a</i>, figues d’Ascalon.<p><b>Étym</b>. Ἀσκάλων.`

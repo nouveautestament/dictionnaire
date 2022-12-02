@@ -1,0 +1,1 @@
+lar[89026]=`<b>οῦ (ὁ)</b> fente, crevasse, IL. <i>23, 420</i> ; OPP. <i>C. 3, 323</i> ; STR. <i>367</i> ; PLUT. <i>Crass. 4</i>.<p><b>Étym</b>. ῥήγνυμι.`

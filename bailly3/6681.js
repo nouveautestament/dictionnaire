@@ -1,0 +1,1 @@
+lar[6681]=`<b>ή, όν</b>, propre à recevoir, SEXT. <i>M. 7, 355</i>.<p><b>Étym</b>. ἀναδέχομαι.`

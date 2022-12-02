@@ -1,0 +1,1 @@
+lar[104705]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui a la couleur d’une lentille, HPC. <i>Epid. 3, 1090</i>.<p><b>Étym</b>. φακός, -ωδης.`

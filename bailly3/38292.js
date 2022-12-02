@@ -1,0 +1,1 @@
+lar[38292]=`être atteint d’épilepsie, PLUT. <i>M. 290b</i>.<p><b>Étym</b>. ἐπίληπτος.`

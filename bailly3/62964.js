@@ -1,0 +1,1 @@
+lar[62964]=`<b>οῦ (ὁ)</b> Markianos = <i>lat</i>. Marcianus, Marcien :<br><b>      1</b> <i>géographe d’Héraclée</i>.<br><b>      2</b> <i>empereur romain d’Orient,</i> ANTH. <i>9, 802 ; 15, 2</i>.<br><b>      3</b> <i>autres,</i> PLUT. <i>Galb. 7, etc</i>.<p>➳ <i>Par nécessité prosodique</i> <font color="purple">[ᾰν]</font> ANTH. <i>ll. cc</i>.`

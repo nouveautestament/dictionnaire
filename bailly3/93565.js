@@ -1,0 +1,1 @@
+lar[93565]=`<b>συγ·κυμαίνομαι</b> (<i>seul. prés</i>.) <font color="purple">[κῡ]</font> être agité, <i>en parl. des flots,</i> SÉLEUC. (STOB. <i>Fl. App. 21, 25</i>).`

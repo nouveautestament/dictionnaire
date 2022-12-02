@@ -1,0 +1,1 @@
+lar[15522]=`<b>ἀρχε·δίκης, ου (ὁ)</b> <font color="purple">[ῐ]</font> premier possesseur, possesseur légitime, PD. <i>P. 4, 9</i>.<p><b>Étym</b>. ἄρχω, δίκη.`

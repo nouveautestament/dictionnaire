@@ -1,0 +1,1 @@
+lar[55269]=`<b>ης, ες</b>, qui ressemble à un rayon de miel, TH. <i>H.P. 3, 13, 3</i>.<p><b>Étym</b>. κηρίον, -ωδης.`

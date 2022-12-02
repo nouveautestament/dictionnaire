@@ -1,0 +1,1 @@
+lar[25340]=`<b>ας (ἡ) :<br>      1</b> marche à travers (le ciel) <i>en parl. des astres,</i> PLAT. <i>Epin. 984e.</i><br><b>      2</b> marche prolongée, <i>fig. en parl. du développement d’un discours,</i> PLAT. <i>Criti. 106a</i>.<p><b>Étym</b>. διαπορεύω.`

@@ -1,0 +1,1 @@
+lar[98494]=`<b>τεταρτη·μόριος, ος, ον</b>, qui vaut, pèse <i>ou</i> représente un quart ; <i>subst</i>. τὸ τεταρτημόριον :<br><b>      1</b> le quart, HDT. <i>2, 180</i>.<br><b>      2</b> <i>particul</i>. le quart d’une obole, ARSTT. <i>Pol. 7, 1, 4 ; à Rome, le</i> quadrans, PLUT. <i>Popl. 23</i>.<p>➳ <i>Fém</i>. -α, PROCL.<p><b>Étym</b>. τέταρτος, μόριον.`

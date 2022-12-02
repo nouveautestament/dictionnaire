@@ -1,0 +1,1 @@
+lar[16676]=`<b>ἀ·ταπείνωτος, ος, ον</b> <font color="purple">[τᾰ]</font> non abaissé, non déprimé, non abattu, PLUT. <i>M. 28c</i>.<p><b>Étym</b>. ἀ, ταπεινόω.`

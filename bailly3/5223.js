@@ -1,0 +1,1 @@
+lar[5223]=`<b>ἁμαξό·βιος, ος, ον</b> <font color="purple">[ᾰμ]</font> qui vit dans des chariots, comme les Scythes, <i>etc</i>. PTOL. <i>3, 5, 19</i>.<p><b>Étym</b>. ἄμαξα, βίος.`

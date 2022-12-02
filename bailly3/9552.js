@@ -1,0 +1,1 @@
+lar[9552]=`<b>*ἀντ·είρω</b> (<i>seul. fut</i>. ἀντερῶ, <i>pf</i>. ἀντείρηκα, <i>part. pf. pass</i>. -ειρημένος, <i>f. ant</i>. -ειρήσομαι) :<br><b>      1</b> contredire : τινί, PLAT. <i>Rsp. 580a</i>, qqn ; <i>d’où</i> refuser, SOPH. <i>Tr. 1184</i> ; interdire, SOPH. <i>Ant. 47</i>.<br><b>      2</b> répondre : τι πρός τινα, AR. <i>Nub. 1079,</i> qqe ch. à qqn.`

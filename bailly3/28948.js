@@ -1,0 +1,1 @@
+lar[28948]=`<b>δυσ·τρύπητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à percer, TH. <i>H.P. 5, 6, 3 au cp</i>. -ότερος.<p><b>Étym</b>. δ. τρυπάω.`

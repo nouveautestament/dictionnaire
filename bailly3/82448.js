@@ -1,0 +1,1 @@
+lar[82448]=`<b>πολυ·τεχνής, ής, ές</b> <font color="purple">[ῠ]</font> travaillé avec beaucoup d’art, ORPH. <i>Arg. 583</i>.<p><b>Étym</b>. π. τέχνη.`

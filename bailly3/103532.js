@@ -1,0 +1,1 @@
+lar[103532]=`<b>ή, όν</b>, qui se résigne volontiers, endurant, patient, ARSTT. <i>Nic. 3, 6, 6 ; Eud. 3, 5, 2, etc.</i> ; M. ANT. <i>1, 16</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Nic. l. c</i>.<p><b>Étym</b>. ὑπομένω.`

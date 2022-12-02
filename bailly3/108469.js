@@ -1,0 +1,1 @@
+lar[108469]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de Khilôn, ARSTT. <i>Rhet. 2, 12, 14</i>.<p><b>Étym</b>. Χίλων.`

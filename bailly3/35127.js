@@ -1,0 +1,1 @@
+lar[35127]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> frotté sur (<i>p. anal. avec les métaux sur la pierre de touche), d’où</i> rompu à, exercé à, expert : τινι, SOPH. <i>Ant. 177</i> ; PLAT. <i>Leg. 769b ;</i> περί τι, ISOCR. <i>Antid. § 187,</i> en qqe ch.<p>•<i> Cp</i>. -έστερος, CLÉM. <i>Str. 6, 17, p. 824</i>.<p><b>Étym</b>. ἐντρίβω.`

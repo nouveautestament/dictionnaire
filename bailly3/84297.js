@@ -1,0 +1,1 @@
+lar[84297]=`<b>προ·εφορμάω-ῶ</b>, s’élancer auparavant <i>ou</i> le premier, HLD. <i>9, 17</i>.`

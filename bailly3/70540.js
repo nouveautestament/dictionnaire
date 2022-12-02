@@ -1,0 +1,1 @@
+lar[70540]=`<b>οἰνο·μήτωρ, ορος</b>, <i>adj. f</i>. mère du vin, <i>ép. de la vigne,</i> ASTYDAM. (ATH. <i>40b</i>).<p><b>Étym</b>. οἶν. μήτηρ.`

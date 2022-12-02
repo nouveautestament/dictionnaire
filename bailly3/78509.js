@@ -1,0 +1,1 @@
+lar[78509]=`<b>περι·δεής, ής, ές :<br>      1</b> très craintif, timoré, HDT. <i>5, 44</i> ; τινι, HDT. <i>7, 15,</i> au sujet de qqe ch. ; τινος, THC. <i>3, 28</i> ; PLAT. <i>Ep. 348b</i>, au sujet de qqn <i>ou</i> de qqe ch. ; <i>avec</i> μή, THC. <i>3, 80, etc.</i><br><b>      2</b> terrible, ISOCR. <i>19c ;</i> ALCIPHR. <i>2, 4</i>.<p><b>Étym</b>. π. δέος.`

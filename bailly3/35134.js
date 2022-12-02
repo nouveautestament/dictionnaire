@@ -1,0 +1,1 @@
+lar[35134]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> sorte de tamis de crin, PLUT. <i>M. 912d</i>.<p><b>Étym</b>. *ἐντριχόω <i>de</i> ἔντριχος.`

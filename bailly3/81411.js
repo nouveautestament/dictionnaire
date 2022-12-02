@@ -1,0 +1,1 @@
+lar[81411]=`<b>ποικιλό·στικτος, ος, ον</b> <font color="purple">[κῐ]</font> pointillé de couleurs variées, ARSTT. (ATH. <i>305c</i>).<p><b>Étym</b>. π. στίζω.`

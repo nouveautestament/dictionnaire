@@ -1,0 +1,1 @@
+lar[71445]=`<b>ὁμο·γέρων, οντος (ὁ)</b> compagnon de vieillesse, LUC. <i>M. cond. 20</i>.<p><b>Étym</b>. ὁμ. γέρων.`

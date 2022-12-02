@@ -1,0 +1,1 @@
+lar[78455]=`<b>περι·βοθρόω-ῶ</b>, entourer d’un fossé <i>ou</i> d’une rigole, TH. <i>C.P. 5, 13, 1</i>.`

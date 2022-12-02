@@ -1,0 +1,1 @@
+lar[81075]=`<b>πλινθο·φόρος, ου (ὁ)</b> qui porte des briques, manœuvre, <i>titre d’une comédie de Diphile,</i> AR. <i>Av. 1134</i>.<p><b>Étym</b>. πλίνθος, φέρω.`

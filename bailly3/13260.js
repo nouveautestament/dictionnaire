@@ -1,0 +1,1 @@
+lar[13260]=`<b>ἀπ·ορύσσω</b> <font color="darkgreen">(<i>ao.2 pass. 3 pl</i>. ἀπωρύγησαν)</font> <i>c</i>. ὀρύσσω, SYMM. <i>Ps. 70, 24</i>.`

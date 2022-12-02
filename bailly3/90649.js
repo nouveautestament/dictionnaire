@@ -1,0 +1,1 @@
+lar[90649]=`<b>ου (τὸ)</b> <font color="purple">[δᾰ]</font> tige servant de détente à un piège, <i>fig</i>. AR. <i>Ach. 687</i>.<p><b>Étym</b>. σκάνδαλον.`

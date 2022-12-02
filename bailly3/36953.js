@@ -1,0 +1,1 @@
+lar[36953]=`<b>εως (ἡ)</b> tour d’une corde enroulée, HÉRON <i>Bel. 11, 128</i> ; HÉRON <i>Aut. 246, 248, etc</i>.<p><b>Étym</b>. ἐπειλέω.`

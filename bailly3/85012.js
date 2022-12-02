@@ -1,0 +1,1 @@
+lar[85012]=`<b>προ·πράσσω</b>, <i>att</i>. <b>-άττω</b>, faire auparavant <i>ou</i> avant qqn, ESCHL. <i>Ch. 834</i> ; DC. <i>52, 13 ; au pass</i>. ARSTT. <i>Poet. 18, 3</i> ; LUC. <i>J. voc. 2</i>.`

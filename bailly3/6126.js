@@ -1,0 +1,1 @@
+lar[6126]=`<b>ἀμφι·δύομαι</b> <font color="darkgreen">(<i>seul. fut</i>. -δύσομαι)</font> se vêtir : χροῒ πέπλον, SOPH. <i>Tr. 605,</i> se couvrir le corps d’un manteau.`

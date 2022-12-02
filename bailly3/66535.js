@@ -1,0 +1,1 @@
+lar[66535]=`<i>adv</i>., d’une seule espèce, avec uniformité, JAMBL. <i>Myst. p. 4, 39</i>.<p><b>Étym</b>. μονοειδής.`

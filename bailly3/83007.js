@@ -1,0 +1,1 @@
+lar[83007]=`<i>mieux que</i> <b>Ποτιδαιατικός, ή, όν</b> <font color="purple">[ῑ]</font> de Potidée, THC. <i>1, 118, etc</i>.<p><b>Étym</b>. Ποτειδεάτης.`

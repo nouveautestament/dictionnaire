@@ -1,0 +1,1 @@
+lar[19555]=`<b>α, ον</b>, de Bergè ; β. διήγημα, STR. <i>100,</i> hâblerie impudente, à la façon d’Antiphane de Bergè.<p><b>Étym</b>. βέργη.`

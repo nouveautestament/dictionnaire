@@ -1,0 +1,1 @@
+lar[14433]=`<b>ων, ἄρειον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> <i>sert de comparatif à</i> ἀγαθός :<br><b>      1</b> plus fort, plus courageux, IL. <i>1, 260, etc.</i> ; OD. <i>2, 277, etc.</i><br><b>      2</b> <i>en gén</i>. meilleur, supérieur, HÉS. <i>O. 205</i> ; PD. <i>I. 7, 13, etc.</i> ; ESCHL. <i>Sept. 305, etc</i>.`

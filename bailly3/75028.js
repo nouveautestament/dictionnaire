@@ -1,0 +1,1 @@
+lar[75028]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> célébration d’une fête solennelle, DH. <i>7, 71, etc.</i><br><b>      2</b> <i>fig</i>. pompe, ostentation, PLUT. <i>M. 791b, etc</i>.<p><b>Étym</b>. πανηγυρίζω.`

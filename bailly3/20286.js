@@ -1,0 +1,1 @@
+lar[20286]=`<b>βοτανη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> fertile en pâturages, NONN. <i>D. 25, 526</i>.<p><b>Étym</b>. βοτάνη, φέρω.`

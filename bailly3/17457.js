@@ -1,0 +1,1 @@
+lar[17457]=`<b>αὐτό·δορος, ος, ον</b>, revêtu de sa peau, avec sa peau même, PLUT. <i>M. 694b</i>.<p><b>Étym</b>. αὐ. δορά.`

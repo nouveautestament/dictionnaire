@@ -1,0 +1,1 @@
+lar[52882]=`<b>εως (ἡ)</b> <font color="purple">[ᾰνκᾰ]</font> réduction d’un membre luxé, HPC. <i>815g</i>.<p><b>Étym</b>. καταναγκάζω.`

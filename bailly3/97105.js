@@ -1,0 +1,1 @@
+lar[97105]=`<b>σχοινό·τονος, ος, ον</b>, garni d’un fond sanglé, <i>litt</i>. de jonc tressé <i>ou</i> de cordes tendues, HPC. <i>682, 28</i>.<p><b>Étym</b>. σχοῖνος, τείνω.`

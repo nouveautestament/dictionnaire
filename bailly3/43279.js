@@ -1,0 +1,1 @@
+lar[43279]=`<b>ων (τὰ)</b> fêtes en l’honneur d’Euryklès, <i>ami d’Auguste,</i> STR. <i>366</i>.<p><b>Étym</b>. Εὐρυκλῆς.`

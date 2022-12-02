@@ -1,0 +1,1 @@
+lar[40618]=`<b>Ἑρμο·γένης, ους (ὁ)</b> Hermogénès (Hermogène) :<br><b>      1</b> <i>n. de divers personnages,</i> XÉN. <i>Conv. 3, 14 ; Mem. 2, 10, 3 ; Hell. 4, 8, 13</i> ; PLAT. <i>Phæd. 59b.</i><br><b>      2</b> <i>n. d’un rhéteur célèbre,</i> PHILSTR. <i>V. soph. 2, 7</i>.<p><b>Étym</b>. Ἑ. γένος.`

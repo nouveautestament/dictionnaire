@@ -1,0 +1,1 @@
+lar[415]=`<b>ἀγγειο·σέλινον, ου (τὸ)</b> <font color="purple">[ῑ]</font> persil en pot, ANACR. <i>38</i>.<p><b>Étym</b>. ἀγγ. σ.`

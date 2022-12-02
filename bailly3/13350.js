@@ -1,0 +1,1 @@
+lar[13350]=`<b>ἀπο·σκύλλω</b> <font color="darkgreen">(<i>ao. opt. moy. 2 sg</i>. -σκύλαιο)</font> dépouiller, NIC. <i>Th. 690</i>.`

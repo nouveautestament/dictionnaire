@@ -1,0 +1,1 @@
+lar[31844]=`<b>ατος (τὸ) :<br>      1</b> substance exprimée, jus, DIOSC. <i>1, 62 ; 4, 160</i>.<br><b>      2</b> pression du cerveau par des esquilles d’os, GAL. <i>Def. med. 19, 432</i>.<p><b>Étym</b>. ἐκπιέζω.`

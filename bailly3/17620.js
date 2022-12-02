@@ -1,0 +1,1 @@
+lar[17620]=`<b>αὐτο·ολότης, ητος (ἡ)</b> la notion du tout en soi, le tout en soi, PROCL.<p><b>Étym</b>. αὐ. ὁλότης.`

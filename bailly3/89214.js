@@ -1,0 +1,1 @@
+lar[89214]=`<b>ου (τὸ) :<br>      1</b> petit tube, GAL. <i>4, 189</i>.<br><b>      2</b> <i>autre n. de la plante</i> ἵππουρις, GEOP. <i>2, 6, 27</i>.<p><b>Étym</b>. <i>dim. de</i> σάλπιγξ.`

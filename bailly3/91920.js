@@ -1,0 +1,1 @@
+lar[91920]=`<b>ου (τὸ)</b> <font color="purple">[ῐν]</font> <i>dim. de</i> σπίνος EUB. <i>3, 268 Meineke</i>.`

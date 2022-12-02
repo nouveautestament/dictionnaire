@@ -1,0 +1,1 @@
+lar[56065]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de lit, DÉM. <i>816, 19</i>.<p><b>Étym</b>. κλίνη.`

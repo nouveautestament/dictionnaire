@@ -1,0 +1,1 @@
+lar[91070]=`aller par des chemins détournés, SPT. <i>Prov. 14, 2</i>.<p><b>Étym</b>. σκολιός.`

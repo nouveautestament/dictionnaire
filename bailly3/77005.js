@@ -1,0 +1,1 @@
+lar[77005]=`<b>παρ·οδεύω :<br>      1</b> passer auprès, THCR. <i>Idyl. 23, 47</i>.<br><b>      2</b> aller au delà de, dépasser, <i>acc</i>. PLUT. <i>M. 670c ;</i> LUC. <i>Nigr. 36 ; au pass</i>. PLUT. <i>M. 759e ;</i> JOS. <i>B.J. 5, 10, 2</i>.<p><b>Étym</b>. π. ὁδεύω.`

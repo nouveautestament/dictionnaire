@@ -1,0 +1,1 @@
+lar[60579]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Leukolophidès, <i>h</i>. XÉN. <i>Hell. 1, 4, 21</i> ; PLAT. <i>Prot. 315e</i>.<p><b>Étym</b>. Λευκόλοφος.`

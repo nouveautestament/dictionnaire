@@ -1,0 +1,1 @@
+lar[83471]=`<b>ατος (τὸ)</b> annonce faite d’avance, prédiction, JOS. <i>B.J. 1, 3, 5</i>.<p><b>Étym</b>. προαγγέλλω.`

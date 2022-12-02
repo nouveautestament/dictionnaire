@@ -1,0 +1,1 @@
+lar[58090]=`<b>εως (ἡ) :<br>      1</b> claquement, DH. <i>Comp. 166 ; particul</i>. applaudissement, PLAT. <i>Ax. 365a.</i><br><b>      2</b> <i>t. de méc</i>. battage, martelage, écrouissage (d’un métal) PHIL. BYZ.<p><b>Étym</b>. κροτέω.`

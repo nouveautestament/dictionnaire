@@ -1,0 +1,1 @@
+lar[60899]=`<b>λι·ανθής, ής, ές</b>, tout en fleurs, ORPH. <i>584 dout</i>.<p><b>Étym</b>. λίαν, ἄνθος.`

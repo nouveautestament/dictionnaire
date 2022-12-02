@@ -1,0 +1,1 @@
+lar[36124]=`<b>ἐξ·ομβρέω-ῶ</b>, faire pleuvoir, <i>d’où fig</i>. répandre à flots, à profusion, SPT. <i>Sir. 1, 19 ; 10, 13</i>.`

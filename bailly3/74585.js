@@ -1,0 +1,1 @@
+lar[74585]=`<b>παλίν·ορσος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui s’élance en arrière, qui revient vivement sur ses pas, qui recule, IL. <i>3, 33</i> ; A.RH. <i>1, 416</i>.<p><b>Étym</b>. π. ὄρρος.`

@@ -1,0 +1,1 @@
+lar[74921]=`<b>παν·δέκτειρα, ας</b>, <i>adj. f</i>. qui reçoit <i>ou</i> renferme tout en soi, HPC.<p><b>Étym</b>. π. δέχομαι.`

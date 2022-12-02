@@ -1,0 +1,1 @@
+lar[3175]=`<b>ἀ·κατακάλυπτος, ος, ον</b> <font color="purple">[ᾰλ]</font> non voilé, non couvert, POL. <i>15, 27, 2</i> ; SPT. <i>Lev. 13, 45</i> ; NT. <i>1Cor. 11, 5 et 13</i>.<p><b>Étym</b>. ἀ, κατακαλύπτω.`

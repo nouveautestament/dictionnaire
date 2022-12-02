@@ -1,0 +1,1 @@
+lar[25092]=`<b>δι·αμφίδιος, ος, ον</b> <font color="purple">[φῐ]</font> double, différent, ESCHL. <i>Pr. 555</i>.<p><b>Étym</b>. διαμφίς.`

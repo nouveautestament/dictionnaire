@@ -1,0 +1,1 @@
+lar[79191]=`<b>ατος (τὸ)</b> conjoncture, <i>particul</i>. accident, malheur, PLAT. <i>Prot. 345b</i>.<p><b>Étym</b>. περιπίπτω.`

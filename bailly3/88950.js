@@ -1,0 +1,1 @@
+lar[88950]=`<b>ῥυτιδό·φλοιος, ος, ον</b> <font color="purple">[ῠῐ]</font> à la peau (<i>litt</i>. à l’écorce) ridée, ANTH. <i>6, 22</i>.<p><b>Étym</b>. ῥυτίς, φλοιός.`

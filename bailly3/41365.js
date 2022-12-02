@@ -1,0 +1,1 @@
+lar[41365]=`<b>ἑτερό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, qui a un pied plus court, qui boite, ALCIPHR. <i>3, 27</i> ; PHILSTR. <i>515</i>.<p><b>Étym</b>. ἕ. πούς.`

@@ -1,0 +1,1 @@
+lar[40347]=`<b>εως (ἡ)</b> action de roter, éructation, HPC. <i>Epid. 1, 959</i>.<p><b>Étym</b>. ἐρεύγομαι.`

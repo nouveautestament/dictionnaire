@@ -1,0 +1,1 @@
+lar[77410]=`<b>ίδος (ἡ)</b> Patronis, <i>v. de Phocide,</i> PLUT. <i>Syll. 15</i>.`

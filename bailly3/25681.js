@@ -1,0 +1,1 @@
+lar[25681]=`<b>εως (ἡ)</b> <font color="purple">[μᾰῐσ]</font> action de donner une forme, de modeler, PROCL. <i>Ptol. p. 16a</i>.<p><b>Étym</b>. διασχηματίζω.`

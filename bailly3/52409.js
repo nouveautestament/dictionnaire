@@ -1,0 +1,1 @@
+lar[52409]=`<b>κατα·θηλύνω</b> (<i>part. pf. pass</i>. -τεθηλυμμένος, LUC. <i>Pisc. 31, ou</i> -τεθηλυσμένος, HPC. <i>290, 8</i>) efféminer, amollir.`

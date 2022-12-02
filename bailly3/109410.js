@@ -1,0 +1,1 @@
+lar[109410]=`<b>ητος (ἡ)</b> claudication, PLUT. <i>M. 963c ; au pl. ib. 35c ; p. anal. en parl. d’un vers qui n’est pas sur ses pieds,</i> ATH. <i>632e</i>.<p><b>Étym</b>. χωλός.`

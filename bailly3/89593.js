@@ -1,0 +1,1 @@
+lar[89593]=`<b>(ἡ)</b> <i>autre n. de la plante</i> ὑοσκύαμος, DIOSC.`

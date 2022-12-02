@@ -1,0 +1,1 @@
+lar[29198]=`<b>(ἡ)</b> <i>seul. nom</i>. don, présent, HÉS. <i>O. 354</i>.<p><b>Étym</b>. <i>p</i>. δώ-ς <i>ou</i> *δώτ-ς, <i>cf. lat</i>. dōs, dōtis, <i>v</i>. δίδωμι.`

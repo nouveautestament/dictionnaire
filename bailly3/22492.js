@@ -1,0 +1,1 @@
+lar[22492]=`<b>ου (ὁ)</b> Gorgos, <i>h</i>. HDT. <i>5, 104</i> ; POL. <i>5, 5</i> ; PLUT. <i>Tim. 35 ; etc</i>.`

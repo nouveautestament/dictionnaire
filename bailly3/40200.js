@@ -1,0 +1,1 @@
+lar[40200]=`<b>ης (ἡ)</b> Ergiskè, <i>v. de Thrace,</i> DÉM. <i>85 fin, etc</i>.`

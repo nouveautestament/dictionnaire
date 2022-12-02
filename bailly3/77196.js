@@ -1,0 +1,1 @@
+lar[77196]=`<b>παρ·ώμαλος, ος, ον</b> <font color="purple">[μᾰ]</font> presque semblable, STR. <i>167</i>.<p><b>Étym</b>. π. ὁμαλός.`

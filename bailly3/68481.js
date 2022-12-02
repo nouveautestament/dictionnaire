@@ -1,0 +1,1 @@
+lar[68481]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vers le navire, OD. <i>13, 19</i> ; A.RH. <i>4, 1768</i>.<p><b>Étym</b>. ναῦς, -δε.`

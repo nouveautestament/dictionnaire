@@ -1,0 +1,1 @@
+lar[50835]=`<b>κακο·πρόσωπος, ος, ον</b> <font color="purple">[ᾰ]</font> laid de visage, difforme, POSIDIPP. <i>104, 19 Bkk.</i> ; PLUT. <i>M. 1058a, etc</i>.<p><b>Étym</b>. κ. πρόσωπον.`

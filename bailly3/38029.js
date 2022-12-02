@@ -1,0 +1,1 @@
+lar[38029]=`<b>ἐπι·κιθάρισμα, ατος (τὸ)</b> <font color="purple">[κῐ]</font> finale d’un air joué sur la lyre, TERTULL. <i>2, 589 Migne</i>.<p><b>Étym</b>. ἐπί, κιθαρίζω.`

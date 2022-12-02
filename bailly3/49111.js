@@ -1,0 +1,1 @@
+lar[49111]=`<b>ἰό·δετος, ος, ον</b>, tressé de violettes, PD. <i>fr. 45</i>.<p><b>Étym</b>. ἴ. δετός.`

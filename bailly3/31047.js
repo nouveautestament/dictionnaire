@@ -1,0 +1,1 @@
+lar[31047]=`<b>άδος (ἡ)</b> le nombre cent, centaine, HDT. <i>7, 185</i> ; T. LOCR. <i>96b ;</i> THCR. <i>Idyl. 17, 82, etc.</i> ; LUC. <i>Herm. 56</i>.<p><b>Étym</b>. ἑκατόν.`

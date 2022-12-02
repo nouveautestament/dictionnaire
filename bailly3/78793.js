@@ -1,0 +1,1 @@
+lar[78793]=`<b>περι·κλυτός, ή, όν</b> <font color="purple">[ῠ]</font> renommé alentour, illustre, <i>en parl. d’Hèphæstos,</i> IL. <i>1, 607, etc.</i> ; OD. <i>8, 287, etc. ; de héros,</i> IL. <i>11, 104, etc. ; d’un aède,</i> OD. <i>1, 325, etc. ; d’une ville,</i> OD. <i>4, 9, etc. ; de choses (présents, etc</i>.) IL. <i>6, 324 ; 7, 299, etc</i>.<p><b>Étym</b>. π. κλύω.`

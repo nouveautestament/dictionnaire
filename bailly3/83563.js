@@ -1,0 +1,1 @@
+lar[83563]=`<b>προ·αναμέλπω</b>, chanter d’avance <i>ou</i> auparavant, SPT. <i>Sap. 18, 9</i>.`

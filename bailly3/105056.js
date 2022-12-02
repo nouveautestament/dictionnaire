@@ -1,0 +1,1 @@
+lar[105056]=`<b>φεγγο·βολέω-ῶ</b>, jeter de la lumière sur, <i>acc</i>. MAN. <i>4, 264, 367, etc</i>.<p><b>Étym</b>. φέγγος, -βόλος <i>de</i> βάλλω.`

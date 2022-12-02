@@ -1,0 +1,1 @@
+lar[89324]=`<b>η, ον</b> <font color="purple">[τᾰ]</font> de santal, M. RUBR. <i>p. 20, conj. p</i>. σαγάλινος.<p><b>Étym</b>. σάνταλον.`

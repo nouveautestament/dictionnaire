@@ -1,0 +1,1 @@
+lar[82053]=`<b>πολύ·κυκος, ος, ον</b> <font color="purple">[ῠῠ]</font> très turbulent, PORPH. <i>Il. 2, 144</i>.<p><b>Étym</b>. π. κυκάω.`

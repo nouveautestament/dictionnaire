@@ -1,0 +1,1 @@
+lar[31347]=`<b>ἔκ·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> qui a l’esprit excité, ardent, ESCHL. <i>Pers. 372 (var</i>. εὐθύμου <i>Weil</i>) ; PLUT. <i>Æmil. 12</i> ; APP. <i>Civ. 5, 38</i>.<p>•<i> Sup</i>. -ότατος, APP. <i>l. c</i>.`

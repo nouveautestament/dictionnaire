@@ -1,0 +1,1 @@
+lar[99670]=`<b>εως (ἡ)</b> action de travailler au tour, travail du tourneur, CLÉM. <i>217</i>.<p><b>Étym</b>. τορνεύω.`

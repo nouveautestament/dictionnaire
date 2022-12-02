@@ -1,0 +1,1 @@
+lar[26035]=`<b>ου (ὁ)</b> <font color="purple">[ῐῠ]</font> de Didymes, <i>ép. d’Apollon,</i> NIC. (ATH. <i>477b</i>) ; DL. <i>1, 1</i>.<p><b>Étym</b>. Δίδυμα.`

@@ -1,0 +1,1 @@
+lar[5491]=`<b>ἀ·μετάκλαστος, ος, ον</b>, qu’on ne peut rompre, inflexible, XÉN. <i>Ep. 1, 2</i>.<p><b>Étym</b>. ἀ, μετακλάω.`

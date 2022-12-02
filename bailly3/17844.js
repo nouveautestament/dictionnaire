@@ -1,0 +1,1 @@
+lar[17844]=`<b>ἀφ·αδρύνομαι</b> <font color="purple">[ῡ]</font> (<i>seul. inf. prés</i>.) grossir, se développer, <i>en parl. d’une graine,</i> TH. <i>C.P. 4, 7, 8</i>.<p><b>Étym</b>. ἀπό, ἁ.`

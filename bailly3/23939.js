@@ -1,0 +1,1 @@
+lar[23939]=`<b>ατος (τὸ)</b> peau, cuir, EUR. <i>Bacch. 835</i> ; δ. πάγχρυσον, EUR. <i>Med. 480,</i> la toison d’or. <i>Cf</i>. δέρος.`

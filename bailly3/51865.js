@@ -1,0 +1,1 @@
+lar[51865]=`<b>ου (τὸ)</b> sorte de bois étranger, <i>employé en médecine,</i> GAL. <i>13, 186, etc</i>.`

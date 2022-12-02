@@ -1,0 +1,1 @@
+lar[89008]=`<b>(ὁ)</b> Rhôparas, <i>satrape perse,</i> XÉN. <i>An. 7, 8, 25</i>.`

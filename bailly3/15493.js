@@ -1,0 +1,1 @@
+lar[15493]=`<b>ή, όν</b>, habile dans la science de l’antiquité, STR. <i>452 (au cp</i>. -ώτερος).<p><b>Étym</b>. *ἀρχαιολόγος, <i>de</i> ἀρχαῖος, λέγω.`

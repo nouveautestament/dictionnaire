@@ -1,0 +1,1 @@
+lar[18351]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰᾱᾰδ]</font><br><b>      1</b> <i>adj</i>. d’Achaïe, achéenne, CALL. <i>Del. 100</i> ; NONN. <i>D. 41, 89, etc.</i><br><b>      2</b> <i>subst</i>. l’Achéenne, IL. <i>2, 422</i> ; OD. <i>2, 101, etc.</i> ; CALL. <i>Pall. 13</i>.<p>➳ <i>Dat. pl. poét</i>. Ἀχαιϊάδεσσιν, A.RH. <i>1, 284</i>.`

@@ -1,0 +1,1 @@
+lar[9440]=`<b>ἀντ·αναβιβάζω</b> (<i>part. ao</i>. -βιβάσας) <font color="purple">[ῐ]</font> faire monter à son tour, XÉN. <i>Hell. 3, 2, 15</i>.`

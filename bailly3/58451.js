@@ -1,0 +1,1 @@
+lar[58451]=`<b>κυδοιδοπάω-ῶ</b> <font color="purple">[ῠ]</font> faire du tapage, AR. <i>Pax 1152, Nub. 616</i>.<p><b>Étym</b>. <i>cf</i>. κυδοιμέω.`

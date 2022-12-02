@@ -1,0 +1,1 @@
+lar[13851]=`<b>ος, ον</b>, refroidi, rafraîchi, GAL. <i>13, 35</i>.<p><b>Étym</b>. ἀποψύχω.`

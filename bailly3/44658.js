@@ -1,0 +1,1 @@
+lar[44658]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> levain, ARSTT. <i>G.A. 3, 4, 3</i> ; SPT. <i>Ex. 12, 15 ; fig</i>. levain de corruption, NT. <i>Matth. 16, 6</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *iuHs-, mélanger, mettre en mouvement ; <i>cf. lat</i>. jūs, <i>sscr</i>. yū́ṣ-, fermentation, brouet.`

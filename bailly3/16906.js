@@ -1,0 +1,1 @@
+lar[16906]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., sans caractère tragique, M. ANT. <i>1, 16</i>.`

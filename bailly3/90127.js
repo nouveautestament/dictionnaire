@@ -1,0 +1,1 @@
+lar[90127]=`<b>ου (τὸ)</b> <font color="purple">[ῐῡ]</font> <i>c</i>. σιγύνης, ARSTT. <i>Poet. 21, 6</i> ; ANTH. <i>7, 578</i>.`

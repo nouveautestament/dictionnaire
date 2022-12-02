@@ -1,0 +1,1 @@
+lar[74208]=`<i>gén</i>. <b>έως</b>, <i>acc</i>. <b>έα</b>, <i>att</i>. <b>ᾶ (ὁ)</b> <font color="purple">[ᾰ]</font> habitant <i>ou</i> originaire du dème att. Pæanie, <i>de la tribu Pandionide,</i> DÉM. <i>18, 180 Baiter-Sauppe, etc. ; au plur</i>. οἱ Παιανιεῖς, les citoyens du dème Pæanie, ESCHN. <i>2, 150 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Παιάν.`

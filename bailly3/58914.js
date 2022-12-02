@@ -1,0 +1,1 @@
+lar[58914]=`<b>α, ον</b>, de Chypre, ESCHL. <i>Pers. 891, Suppl. 282, etc.</i> ; οἱ Κύπριοι, PD. <i>P. 2, 28</i> ; HDT. <i>3, 19</i> ; XÉN. <i>Cyr. 6, 2, 10,</i> les Chypriotes ; τὰ Κύπρια, HDT. <i>2, 117</i> ; ARSTT. <i>Poet. 23,</i> les chants de Chypre, <i>poème cyclique</i>.<p><b>Étym</b>. Κύπρος.`

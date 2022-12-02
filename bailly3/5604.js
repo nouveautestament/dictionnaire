@@ -1,0 +1,1 @@
+lar[5604]=`<b>ἅμ·ιππος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> rapide comme un coursier, SOPH. <i>Ant. 985</i>.<br><b>      2</b> οἱ ἅ., THC. <i>5, 57</i> ; XÉN. <i>Hell. 7, 5, 23,</i> fantassins mêlés aux cavaliers.<p><b>Étym</b>. ἅμα, ἵ.`

@@ -1,0 +1,1 @@
+lar[86757]=`<b>προ·τένθης, ου (ὁ, ἡ)</b> qui déguste d’avance, dégustateur, ATH. <i>171c ;</i> qui se jette sur les plats avant les autres, AR. <i>Nub. 1198 ; c</i>. παράσιτος (<i>Com. fr. 2, 256) etc</i>.<p>➳ ἡ πρ. EL. <i>N.A. 15, 10</i>.`

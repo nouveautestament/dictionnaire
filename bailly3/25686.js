@@ -1,0 +1,1 @@
+lar[25686]=`<b>ατος (τὸ)</b> moitié du dièse, <i>t. de mus</i>. PHILOL. <i>B 6, p. 410, 9</i>.<p><b>Étym</b>. <i>Boeth. 2, 27</i>.`

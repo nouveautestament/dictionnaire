@@ -1,0 +1,1 @@
+lar[39645]=`<b>ἐπι·χαλαζάω-ῶ</b> <font color="purple">[ᾰλ]</font> accabler comme de grêle, <i>acc</i>. LUC. <i>Tim. 58</i>.`

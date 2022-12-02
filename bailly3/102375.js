@@ -1,0 +1,1 @@
+lar[102375]=`<b>ὑπερ·γέμω</b> (<i>seul. prés</i>.) être tout plein de, <i>gén</i>. ALCIPHR. <i>3, 11</i> ; POL. <i>4, 75, 8 ; abs</i>. ALEX. (ATH. <i>419b</i>) ; DS. <i>3, 17</i>.`

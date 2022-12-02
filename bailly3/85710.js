@@ -1,0 +1,1 @@
+lar[85710]=`<b>προσ·επιπονέω-ῶ</b>, supporter en outre la fatigue de, <i>acc</i>. ESCHN. <i>34, 1</i>.`

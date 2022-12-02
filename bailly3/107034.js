@@ -1,0 +1,1 @@
+lar[107034]=`<b>φυγο·δέμνιος, ος, ον</b> <font color="purple">[ῠ]</font> qui fuit le mariage, ANTH. <i>6, 10</i>.<p><b>Étym</b>. φεύγω, δέμνιον.`

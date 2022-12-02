@@ -1,0 +1,1 @@
+lar[53896]=`<b>κατ·επαίρομαι</b>, se soulever, se révolter contre, <i>gén</i>. SYMM. <i>Ps. 60, 4</i>.`

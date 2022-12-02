@@ -1,0 +1,1 @@
+lar[8268]=`<b>ἀν·εκχύμωτος, ος, ον</b> <font color="purple">[ῡ]</font> dont on n’a pas exprimé le suc, GAL. <i>13, 584</i>.<p><b>Étym</b>. ἀν-, ἐκχυμόω.`

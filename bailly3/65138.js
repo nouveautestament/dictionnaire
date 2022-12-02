@@ -1,0 +1,1 @@
+lar[65138]=`<b>μετεωρολογέω-ῶ</b>, disserter sur les corps <i>ou</i> les phénomènes célestes, PLAT. <i>Ax. 370e ;</i> LUC. <i>Nec. 21</i>.<p><b>Étym</b>. μετεωρολόγος.`

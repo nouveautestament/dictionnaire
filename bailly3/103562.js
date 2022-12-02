@@ -1,0 +1,1 @@
+lar[103562]=`<b>ή, όν</b>, qui rappelle le souvenir, commémoratif, SEXT. <i>P. 2, 99 ; M. 8, 202 ; subst</i>. τὸ ὑπομνηστικόν, ANTH. <i>5, 292,</i> inscription commémorative ; CLÉM. <i>Str. 61, 1</i>.<p><b>Étym</b>. ὑπομιμνῄσκω.`

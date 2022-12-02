@@ -1,0 +1,1 @@
+lar[87322]=`<b>πτερνο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui marche sur les talons, HPC. <i>Art. 826c</i>.<p><b>Étym</b>. πτέρνα, βαίνω.`

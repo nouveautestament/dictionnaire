@@ -1,0 +1,1 @@
+lar[54844]=`<b>οῦντος (ὁ)</b> Kérasunte, <i>colonie de Sinope sur la mer Noire,</i> XÉN. <i>An. 5, 3, 2, etc</i>.`

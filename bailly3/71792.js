@@ -1,0 +1,1 @@
+lar[71792]=`<b>ίτιδος</b> <font color="purple">[ᾰῑτῐ]</font> <i>adj</i>. qui ressemble à du verjus, HPC. <i>668, 33</i> ; ὀμφ. κηκίς, DIOSC. <i>1, 147 ; ou subst</i>. ἡ ὀμφακῖτις, GAL. <i>14, 478,</i> sorte de noix de galle.<p><b>Étym</b>. <i>fém. de</i> ὀμφακίτης.`

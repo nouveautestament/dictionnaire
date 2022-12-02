@@ -1,0 +1,1 @@
+lar[28467]=`<b>δύσ·ζωος, ος, ον</b>, qui mène une vie misérable, <i>joint à</i> κοὐ βίοτον (<i>var</i>. κἀβίοτον) ANTH. <i>9, 574</i>.<p><b>Étym</b>. δ. ζωή.`

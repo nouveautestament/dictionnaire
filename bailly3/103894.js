@@ -1,0 +1,1 @@
+lar[103894]=`<b>ὑπο·στίζω :<br>      1</b> piqueter, tacheter, NONN. <i>D. 1, 333</i>.<br><b>      2</b> ponctuer d’une virgule, GRAMM.`

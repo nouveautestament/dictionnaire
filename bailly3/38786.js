@@ -1,0 +1,1 @@
+lar[38786]=`<b>ἐπι·πορσύνω</b> <font color="purple">[ῡ]</font> (<i>seul. ao. itér</i>. ἐπιπορσύνεσκον) préparer, procurer, Q. SM. <i>7, 712</i>.`

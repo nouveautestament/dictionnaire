@@ -1,0 +1,1 @@
+lar[39499]=`<b>ἐπι·τρι·τέταρτος, ος, ον</b>, qui comprend un entier plus 3 / 4, NICOM. <i>Arithm. 101</i>.<p><b>Étym</b>. ἐπί, τρεῖς, τέταρτος.`

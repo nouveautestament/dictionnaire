@@ -1,0 +1,1 @@
+lar[71579]=`<b>ὁμό·καπος, ος, ον</b>, compagnon de crèche, <i>càd</i>. de table, <i>sel. d’autres</i> ὁμόκαπνος, qui respire la même fumée, <i>càd</i>. qui mange à la même table, EPIM. (ARSTT. <i>Pol. 1, 1, 6).</i><p><b>Étym</b>. ὁμός, κάπη <i>ou</i> καπνός.`

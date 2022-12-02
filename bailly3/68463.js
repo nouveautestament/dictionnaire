@@ -1,0 +1,1 @@
+lar[68463]=`<font color="purple">[ῐ]</font> <i>adv</i>., nouvellement, récemment, HDT. <i>2, 49</i> ; THC. <i>4, 108</i> ; XÉN. <i>Cyr. 3, 3, 36</i> ; PLAT. <i>Gorg. 503c ;</i> SOPH. <i>El. 1049</i> ; EUR. <i>Med. 366, etc</i>.<p><b>Étym</b>. νέος.`

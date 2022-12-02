@@ -1,0 +1,1 @@
+lar[41775]=`<b>εὐ·γλάγετος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a beaucoup de lait <i>ou</i> qui a du bon lait, LUC. <i>Trag. 110</i>.<p><b>Étym</b>. εὖ, γλάγος.`

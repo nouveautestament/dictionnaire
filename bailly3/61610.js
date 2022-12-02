@@ -1,0 +1,1 @@
+lar[61610]=`<b>οῦ (ὁ)</b> Lokros :<br><b>      1</b> <i>roi des Lélèges,</i> HÉS. (STR. <i>322) etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Qu. gr. 15, etc</i>., ATH. <i>70c, etc</i>.`

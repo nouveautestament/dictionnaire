@@ -1,0 +1,1 @@
+lar[10174]=`<b>ἀντι·παραδέχομαι</b>, recevoir à la place, DYSC. <i>Synt. p. 108, 13 Bkk</i>.`

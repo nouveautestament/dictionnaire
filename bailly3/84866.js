@@ -1,0 +1,1 @@
+lar[84866]=`<b>προ·ούσιος, ος, ον</b>, préexistant à la matière, SYN. <i>Hymn. 3, 221</i>.<p><b>Étym</b>. π. οὐσία.`

@@ -1,0 +1,1 @@
+lar[99190]=`<b>τιμά·οχος, ος, ον</b> <font color="purple">[ῑᾱ]</font> honoré, célébré, HH. <i>Ven. 31, Cer. 269</i>.<p><b>Étym</b>. τιμή, ἔχω ; <i>cf</i>. τιμοῦχος.`

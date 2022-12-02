@@ -1,0 +1,1 @@
+lar[78100]=`<b>ή, όν</b>, du dème Pentélè : Π. λίθος, PLAT. <i>Eryx. 394e ; ou</i> Πεντελικὴ μάρμαρος, STR. <i>399, etc</i>. pierre <i>ou</i> marbre de Pentélè, marbre pentélique.<p>➳ <i>Dans les inscr. att</i>. Πεντελεικός, CIA. <i>1, 321, 8 (409 av. J.-C.) etc. ; postér</i>. Πεντελῃκός, CIA. <i>2, 1054, 31, 33, 45 (347 av. J.-C.) ; v. Meisterh. p. 29, 30, 41</i>.`

@@ -1,0 +1,1 @@
+lar[51972]=`<b>ου (ὁ)</b> sorte d’euphorbe, <i>autre n. de la plante</i> τιθύμαλος, DIOSC. <i>4, 165</i>.`

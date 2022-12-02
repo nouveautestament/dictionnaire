@@ -1,0 +1,1 @@
+lar[19982]=`<b>βλοσυρό·φρων, ων, ον</b> <font color="purple">[ῠ]</font> à l’âme cruelle, ESCHL. <i>Suppl. 833</i>.<p><b>Étym</b>. βλοσυρός, φρήν.`

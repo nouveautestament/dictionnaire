@@ -1,0 +1,1 @@
+lar[80343]=`<b>πινακο·ειδής, ής, ές</b> <font color="purple">[ῐᾰ]</font> en forme de table, DIOGÉN. <i>5, 72</i>.<p><b>Étym</b>. π. εἶδος.`

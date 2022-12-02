@@ -1,0 +1,1 @@
+lar[91303]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> qui dépouille un ennemi tué, <i>d’où en gén</i>. spoliateur, pillard, SYMM. <i>Ezech. 23, 15</i>.<p><b>Étym</b>. σκυλεύω.`

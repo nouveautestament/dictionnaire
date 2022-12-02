@@ -1,0 +1,1 @@
+lar[106699]=`<b>ή, όν</b>, joué sur la lyre, SOPH. <i>fr. 15</i>.<p><b>Étym</b>. φορμίζω.`

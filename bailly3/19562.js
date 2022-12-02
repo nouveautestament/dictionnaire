@@ -1,0 +1,1 @@
+lar[19562]=`<b>ου (ὁ)</b> Bérékynthos (Bérécynthe) :<br><b>      1</b> <i>prêtre de Cybèle,</i> PLUT.<br><b>      2</b> <i>mt de Crète,</i> DS.<p><b>Étym</b>. <i>cf</i>. *βερέκυς.`

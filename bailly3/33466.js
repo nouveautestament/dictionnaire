@@ -1,0 +1,1 @@
+lar[33466]=`<b>ἐμ·πλανάομαι-ῶμαι</b> <font color="purple">[λᾰ]</font> s’égarer dans, <i>dat</i>. HLD. <i>2, 29</i>.<p><b>Étym</b>. ἐν, πλ.`

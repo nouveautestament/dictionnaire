@@ -1,0 +1,1 @@
+lar[102265]=`<b>ὑπερ·αναιδίζομαι</b> <font color="purple">[ᾰν]</font> être surpassé <i>ou</i> vaincu en impudence, AR. <i>Eq. 1206 conj</i>.`

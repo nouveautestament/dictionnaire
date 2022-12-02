@@ -1,0 +1,1 @@
+lar[92882]=`<b>ιδος (ὁ)</b> Strattis :<br><b>      1</b> <i>poète de l’anc. comédie,</i> ATH. <i>160b.</i><br><b>      2</b> <i>tyran de Chios,</i> HDT. <i>4, 138, etc</i>.<p>➳ <i>Dat. ion</i>. Στράττι, HDT. <i>8, 132</i>.<p><b>Étym</b>. στρατός.`

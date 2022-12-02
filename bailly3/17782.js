@@ -1,0 +1,1 @@
+lar[17782]=`<b>Αὐτό·χθων, ονος (ὁ)</b> Autokhthôn, <i>roi myth. de l’Atlantide,</i> PLAT.`

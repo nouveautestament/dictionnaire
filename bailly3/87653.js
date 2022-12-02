@@ -1,0 +1,1 @@
+lar[87653]=`<b>ου (ὁ)</b> athlète qui combat à coups de poing, qui lutte au pugilat, PD. <i>O. 10, 20</i> ; SOPH. <i>Tr. 442</i> ; PLAT. <i>Gorg. 460d ; p. opp. à</i> παλαιστής, PLAT. <i>Leg. 819b ; surn. d’Apollon,</i> PLUT. <i>M. 724c</i>.<p><b>Étym</b>. πύξ.`

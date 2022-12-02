@@ -1,0 +1,1 @@
+lar[42612]=`<b>εὐ·λοέτειρα, ας</b>, <i>adj. f</i>. aux bains somptueux, ANTH. <i>App. 336</i>.<p><b>Étym</b>. εὖ, λούω.`

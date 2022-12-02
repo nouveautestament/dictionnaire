@@ -1,0 +1,1 @@
+lar[50200]=`<b>ου (ὁ)</b> barreau, SCH.-THCR. <i>8, 57</i>.<p><b>Étym</b>. <i>cf. lat</i>. cancelli.`

@@ -1,0 +1,1 @@
+lar[83650]=`<b>προ·αποκινδυνεύω</b>, s’exposer au danger avant, <i>dat</i>. DC. <i>50, 19</i>.`

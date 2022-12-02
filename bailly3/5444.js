@@ -1,0 +1,1 @@
+lar[5444]=`<i>adv</i>., sans reproche, CLÉM. <i>870</i>.<p>➳ <i>Ion</i>. ἀμεμφέως, ORPH. <i>H. 42, 11</i>.<p><b>Étym</b>. ἀμεμφής.`

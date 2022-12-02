@@ -1,0 +1,1 @@
+lar[76649]=`réprimander, SPT. <i>2Macc. 4, 33</i>.`

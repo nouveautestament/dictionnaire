@@ -1,0 +1,1 @@
+lar[5710]=`<b>ἀμνο·κών (ὁ)</b> simple, innocent (<i>litt</i>. gardeur de moutons) AR. <i>Eq. 264</i>.<p><b>Étym</b>. ἀμνός, κοέω.`

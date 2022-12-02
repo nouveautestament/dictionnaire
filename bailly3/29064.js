@@ -1,0 +1,1 @@
+lar[29064]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> le nombre douze, ANTH. <i>9, 782, cf</i>. δωδεκάς.`

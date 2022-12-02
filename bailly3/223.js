@@ -1,0 +1,1 @@
+lar[223]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> sorte de sauce épicée, MÉN. <i>4, 148 Meineke</i> ; PHÉRÉCR. (<i>ib. 2, 359</i>) ; ALEX.<p><b>Étym</b>. <i>ib. 3, 447</i>.`

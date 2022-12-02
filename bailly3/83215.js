@@ -1,0 +1,1 @@
+lar[83215]=`<b>ῆρος (ὁ) :<br>      1</b> qui agit, qui exécute, auteur de qqe ch. IL. <i>9, 443</i>.<br><b>      2</b> qui traite d’affaires, qui trafique, marchand, OD. <i>8, 162</i>.<br><b>      3</b> qui perçoit les impôts <i>ou</i> les amendes, THÉM. <i>114a, etc</i>.<p>➳ <i>Ion</i>. πρηκτήρ, HOM. <i>ll. cc</i>.<p><b>Étym</b>. πράσσω.`

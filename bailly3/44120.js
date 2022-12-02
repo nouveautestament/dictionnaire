@@ -1,0 +1,1 @@
+lar[44120]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> contemplation, PORPH. <i>ad Marcell. 21</i>.<p><b>Étym</b>. ἐφοράω.`

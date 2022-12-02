@@ -1,0 +1,1 @@
+lar[61848]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Lykastos, <i>en Crète,</i> A. PL. <i>253, 2</i>.<p><b>Étym</b>. Λύκαστος.`

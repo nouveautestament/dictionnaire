@@ -1,0 +1,1 @@
+lar[55604]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> lierre, HPC. (EROT. <i>p. 208</i>).<br><b>      2</b> ciste, <i>arbrisseau,</i> DIOSC. <i>1, 126</i>.<p><b>Étym</b>. <i>cf</i>. κισσός <i>et</i> κίστος.`

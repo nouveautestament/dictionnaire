@@ -1,0 +1,1 @@
+lar[94532]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> réunion en troupeau, PLUT. <i>M. 980a ;</i> GEOP. <i>16, 1, 10</i>.<br><b>      2</b> <i>p. ext</i>. réunion, assemblée, <i>en gén</i>. PORPH. (STOB. <i>Fl. 1, 88) ; au plur</i>. PLUT. <i>Lyc. c. Num. 4</i>.<p><b>Étym</b>. συναγελάζω.`

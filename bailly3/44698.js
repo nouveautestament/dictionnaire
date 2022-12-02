@@ -1,0 +1,1 @@
+lar[44698]=`<i>adv</i>., en forme de zodiaque, PTOL. <i>Tetr. p. 19, 815</i>.`

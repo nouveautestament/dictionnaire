@@ -1,0 +1,1 @@
+lar[63576]=`<b>ου</b>, <i>adj. m</i>. qui prend part à, qui participe à, <i>gén</i>. CLÉM. <i>348</i>.<p><b>Étym</b>. μετέχω.`

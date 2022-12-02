@@ -1,0 +1,1 @@
+lar[58733]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰρ]</font> SOPH. <i>fr. 318</i> ; SCYL. (ATH. <i>70c</i>) <i>ou</i> κύναρος ἄκανθα, églantier, HÉCAT. (ATH. <i>70a</i>) ; SOPH. <i>fr. 643</i>.<p><b>Étym</b>. <i>cf</i>. κινάρα.`

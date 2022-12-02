@@ -1,0 +1,1 @@
+lar[92]=`λόφος (ὁ), = <i>lat</i>. Aventinus, le mont Aventin, <i>à Rome</i>, STR. 180, 234 ; PLUT. <i>Rom</i>. 9, <i>Num</i>. 15.`

@@ -1,0 +1,1 @@
+lar[39554]=`<b>ἐπι·φατνίδιος, ος</b> <i>ou</i> <b>α, ον</b> <font color="purple">[ῐδ]</font> qui est dans <i>ou</i> sur la crèche, XÉN. <i>Eq. 5, 1</i>.<p><b>Étym</b>. ἐπί, φάτνη.`

@@ -1,0 +1,1 @@
+lar[80575]=`<b>ου (τὸ)</b> parfum ainsi nommé de l’inventrice Πλαγγών, POLÉM. (ATH. <i>690e</i>).`

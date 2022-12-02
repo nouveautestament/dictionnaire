@@ -1,0 +1,1 @@
+lar[57206]=`<font color="purple">[ῠ]</font> <i>adv</i>., jusqu’au sommet, ORPH. <i>Lith. 112</i>.<p><b>Étym</b>. κορυφή, -δε.`

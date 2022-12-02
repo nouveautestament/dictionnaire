@@ -1,0 +1,1 @@
+lar[50844]=`<b>κακο·ρροθέω-ῶ</b> <font color="purple">[ᾰ]</font> injurier, outrager, <i>acc</i>. EUR. <i>Hipp. 340</i> ; AR. <i>Ach. 576, Th. 896</i>.<p><b>Étym</b>. κ. ῥόθος.`

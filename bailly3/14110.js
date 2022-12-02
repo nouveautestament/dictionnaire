@@ -1,0 +1,1 @@
+lar[14110]=`<b>ου (ἡ)</b> Arados, <i>î. et v. près la côte de Phénicie,</i> JOS. <i>A.J. 1, 6, 2, etc</i>.`

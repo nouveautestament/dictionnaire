@@ -1,0 +1,1 @@
+lar[46750]=`<b>θεο·ποιός, ός, όν :<br>      1</b> qui fait des statues <i>ou</i> des images de dieux ; ἡ θ. τέχνη, ANTH. <i>9, 774,</i> l’art de faire des images de dieux.<br><b>      2</b> qui divinise, ANON. (SUID. <i>v°</i> λῆξις) ; ŒNOM. (EUS. <i>3, 396 Migne</i>) ; LUC. <i>3, 49 Reitz</i> ; CLÉM. <i>1, 144 Migne</i>.<p><b>Étym</b>. θ. ποιέω.`

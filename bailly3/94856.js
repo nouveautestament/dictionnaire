@@ -1,0 +1,1 @@
+lar[94856]=`<font color="purple">[νῡ]</font> montrer <i>ou</i> démontrer avec, EUCL. <i>Elem. 13, 14 ; au pass</i>. SEXT. <i>M. 11, 216</i>.`

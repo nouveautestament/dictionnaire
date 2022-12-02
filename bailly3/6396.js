@@ -1,0 +1,1 @@
+lar[6396]=`<b>ἀμφι·τινάσσω</b> (<i>seul. ao. 3 sg</i>. ἀμφετίναξε) <font color="purple">[τῐ]</font> secouer tout autour, ébranler, fracasser, ANTH. <i>5, 256</i>.`

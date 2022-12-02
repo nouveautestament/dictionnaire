@@ -1,0 +1,1 @@
+lar[43417]=`<b>ας (ἡ)</b> facilité <i>ou</i> tendance à se pourrir, TH. <i>H.P. 8, 9, 1</i>.<p><b>Étym</b>. εὔσηπτος.`

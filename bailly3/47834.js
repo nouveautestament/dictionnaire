@@ -1,0 +1,1 @@
+lar[47834]=`<b>οῦ (ὁ)</b> qui offre un sacrifice, PHŒN. COL. (ATH. <i>530e</i>).<p><b>Étym</b>. θύος.`

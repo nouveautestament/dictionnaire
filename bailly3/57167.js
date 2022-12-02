@@ -1,0 +1,1 @@
+lar[57167]=`<b>Κορυ·θάλεια, ας (ἡ)</b> Korythaleia, <i>nourrice d’Apollon,</i> PLUT. <i>Qu. conv. 3, 9, 2</i>.<p><b>Étym</b>. <i>cf</i>. Κορυθαλία.`

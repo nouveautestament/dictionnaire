@@ -1,0 +1,1 @@
+lar[69481]=`<b>ας (ἡ)</b> action de rassembler des troupes étrangères, ARSTT. <i>Œc. 2, 40</i> ; DS. <i>19, 61</i>.<p><b>Étym</b>. ξενολόγος.`

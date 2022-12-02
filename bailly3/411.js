@@ -1,0 +1,1 @@
+lar[411]=`<b>ου (τὸ)</b> <i>dim. de</i> ἀγγεῖον, DAMOCR. (GAL. <i>Antid. 894</i>).`

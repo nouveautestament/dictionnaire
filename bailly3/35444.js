@@ -1,0 +1,1 @@
+lar[35444]=`<b>ἐξ·αμφοτερίζω</b> (<i>pf. 3 sg</i>. ἐξημφοτέρικε) rendre une question ambiguë, <i>de telle sorte qu’on y peut faire deux réponses, acc</i>. PLAT. <i>Euthyd. 300d</i>.`

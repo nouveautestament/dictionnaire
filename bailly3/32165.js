@@ -1,0 +1,1 @@
+lar[32165]=`<b>εως (ἡ)</b> <font color="purple">[τῐ]</font> paiement complet, récompense <i>ou</i> châtiment, PLAT. <i>Leg. 855a ;</i> DÉM. <i>1025, 2</i> ; ἔκτισιν ποιεῖσθαι, DÉM. <i>834, 27,</i> s’acquitter ; <i>d’où</i> amende, ARSTT. <i>Ath. 8, 4</i>.<p><b>Étym</b>. ἐκτίνω.`

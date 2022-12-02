@@ -1,0 +1,1 @@
+lar[58402]=`<font color="purple">[ῠ]</font><br><b>      1</b> jouer aux dés, AR. <i>Eccl. 672</i> ; περὶ διπλασίων, XÉN. <i>Hell. 3, 6, 16,</i> jouer aux dés sur une mise double.<br><b>      2</b> <i>fig</i>. risquer, hasarder : τι, EUR. <i>Rhes. 446,</i> qqe ch. ; περί τινι, PLAT. <i>Prot. 314a</i>, courir un risque pour qqn <i>ou</i> qqe ch.<p><b>Étym</b>. κύβος.`

@@ -1,0 +1,1 @@
+lar[85075]=`<b>προσ·άγνυμι</b> <font color="darkgreen">(<i>f</i>. προσάξω, <i>ao. προσέαξα, etc</i>.)</font> briser contre, <i>rég. ind. au dat</i>. Q. SM. <i>3, 510</i>.`

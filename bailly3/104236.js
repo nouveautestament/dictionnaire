@@ -1,0 +1,1 @@
+lar[104236]=`<b>ὑπ·ώμαιος, ος, ον</b>, placé sous l’épaule : πούς, ARAT. <i>144, 1115,</i> pied de devant.<p><b>Étym</b>. ὑ. ὦμος.`

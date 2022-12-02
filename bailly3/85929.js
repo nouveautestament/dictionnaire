@@ -1,0 +1,1 @@
+lar[85929]=`<b>προσ·καταβάλλομαι</b>, produire en outre, A. APHR. <i>Probl. præf. p. 4, 36 dout</i>.`

@@ -1,0 +1,1 @@
+lar[22977]=`<b>δαιμονιοῦχος αἰτία (ἡ)</b> accusation d’être possédé du mauvais esprit, PROCL. <i>Plat. Parm. p. 513 Stallb</i>.<p><b>Étym</b>. δαιμόνιον, ἔχω.`

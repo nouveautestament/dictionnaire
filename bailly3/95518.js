@@ -1,0 +1,1 @@
+lar[95518]=`<b>συν·εξελαύνω :<br>      1 <i>tr.</i></b> faire sortir <i>ou</i> chasser ensemble, ESCHL. <i>Ag. 1606</i>.<br><b>      2 <i>intr.</i></b> s’élancer ensemble, ANTH. <i>9, 715</i>.`

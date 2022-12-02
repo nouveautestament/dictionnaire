@@ -1,0 +1,1 @@
+lar[55425]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> qui concerne l’art de chanter en s’accompagnant de la cithare, AR. <i>Ran. 1281</i> ; PLAT. <i>Leg. 722d ;</i> ἡ κιθαρῳδική, PLAT. <i>Gorg. 502a</i>, l’art de chanter en s’accompagnant de la cithare.<p>•<i> Sup</i>. -ώτατος, ARSTT. <i>Probl. 19, 48, 1</i>.<p><b>Étym</b>. κιθαρῳδός.`

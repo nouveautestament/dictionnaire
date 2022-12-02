@@ -1,0 +1,1 @@
+lar[23994]=`<b>δεσμο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠ ᾰκ]</font> geôlier, LUC. <i>Tox. 30, etc.</i> ; NT. <i>Ap. 16, 23, 27, 36</i> ; ARTÉM. <i>2, 60 ; etc</i>.<p><b>Étym</b>. δεσμός, φ.`

@@ -1,0 +1,1 @@
+lar[110481]=`<b>οῦ (ὁ)</b> rugissement THCR. <i>Idyl. 25, 217</i> ; EL. <i>N.A. 5, 51</i> ; LGS <i>2, 26 et 30</i>.<p><b>Étym</b>. <i>cf</i>. ὠρυγή.`

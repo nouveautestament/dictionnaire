@@ -1,0 +1,1 @@
+lar[52424]=`<b>κατα·θρύπτω</b>, briser, casser en morceaux pour jeter dans : εἴς τι, DS. <i>1, 83</i> ; CLÉM. <i>126,</i> dans qqe ch. ; <i>d’où abs</i>. briser en morceaux, mettre en pièces, NIC. <i>Al. 61</i> ; ARTÉM. (ATH. <i>663e</i>).`

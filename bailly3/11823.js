@@ -1,0 +1,1 @@
+lar[11823]=`<b>ου (ὁ)</b> Apésantos :<br><b>      1</b> <i>n. d’h</i>. Ps.-PLUT. <i>Fluv. 18, 4</i>.<br><b>      2</b> <i>c</i>. Ἀπέσας 2, Ps.-PLUT. <i>Fluv. 18, 9</i>.`

@@ -1,0 +1,1 @@
+lar[98359]=`ressembler à la térébenthine, DIOSC. <i>5, 160</i>.<p><b>Étym</b>. τερέβινθος.`

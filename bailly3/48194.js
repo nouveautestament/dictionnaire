@@ -1,0 +1,1 @@
+lar[48194]=`<b>ος, ον</b>, qui concerne Iakkhos, bachique, EUR. <i>Cycl. 69</i>.<p><b>Étym</b>. Ἴακχος.`

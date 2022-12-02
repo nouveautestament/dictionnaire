@@ -1,0 +1,1 @@
+lar[67644]=`avoir l’odeur du nard, DIOSC. <i>1, 10</i>.<p><b>Étym</b>. νάρδος.`

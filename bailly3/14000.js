@@ -1,0 +1,1 @@
+lar[14000]=`<b>ἀ·προτί·μαστος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> non touché, non outragé, IL. <i>19, 263</i>.<br><b>      2</b> qu’on ne peut atteindre, EUPH. <i>62</i>.<p><b>Étym</b>. ἀ, προτί, μάσσω.`

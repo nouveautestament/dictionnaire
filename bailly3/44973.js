@@ -1,0 +1,1 @@
+lar[44973]=`<b>ἡδύ·βορος, ος, ον</b> <font color="purple">[ῠ]</font> agréable à manger, NAZ. <i>2, 105</i>.<p><b>Étym</b>. ἡ. βιβρώσκω.`

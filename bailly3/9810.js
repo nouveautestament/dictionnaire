@@ -1,0 +1,1 @@
+lar[9810]=`<b>εως (ἡ)</b> exception judiciaire <i>ou</i> moyen préjudiciel, LYS. <i>167, 22</i>.<p><b>Étym</b>. ἀντιγράφω.`

@@ -1,0 +1,1 @@
+lar[98383]=`<b>ου (ὁ)</b> câble fixé à l’extrémité de la vergue, AR. <i>Eq. 440</i>.<p><b>Étym</b>. τέρθρον.`

@@ -1,0 +1,1 @@
+lar[100167]=`<font color="purple">[ῐγ]</font><br><b>      1 <i>tr.</i></b> rendre triangulaire, élever un nombre à la puissance triangulaire, PLUT. <i>M. 416c.</i><br><b>      2 <i>intr.</i></b> être triangulaire, former le triangle, HLD. <i>10, 5</i> ; MAN. <i>4, 266</i>.<p><b>Étym</b>. τρίγωνος.`

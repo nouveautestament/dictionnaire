@@ -1,0 +1,1 @@
+lar[93411]=`<b>συγ·κατολισθαίνω</b>, glisser en bloc <i>ou</i> en même temps, DS. <i>1, 30</i>.`

@@ -1,0 +1,1 @@
+lar[102010]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui existe par soi <i>ou</i> réellement, SEXT. <i>P. 3, 249</i> ; GAL. <i>19, 530</i>.<br><b>      2</b> qui marque la substance : ὑπαρκτικὸν ῥῆμα, DYSC. <i>Synt. 71, 219, etc</i>. le substantif ; ὑπαρκτικαὶ συντάξεις, DYSC. constructions avec le verbe substantif.<p><b>Étym</b>. ὑπάρχω.`

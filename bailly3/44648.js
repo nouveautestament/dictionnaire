@@ -1,0 +1,1 @@
+lar[44648]=`<b>ζυγοφορέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> être traîné par un attelage de bœufs, PHIL. BYBL. (EUS. <i>3, 80 Migne).</i><p><b>Étym</b>. ζυγοφόρος.`

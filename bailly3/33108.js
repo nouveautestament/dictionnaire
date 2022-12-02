@@ -1,0 +1,1 @@
+lar[33108]=`<b>εως (ἡ) :<br>      1</b> action de vivre dans <i>ou</i> sur, PLUT. <i>M. 640d.</i><br><b>      2</b> action de vivre parmi, SPT. <i>Sir. 38, 14 ; 3 Macc. 3, 23</i>.<p><b>Étym</b>. ἐμβιόω.`

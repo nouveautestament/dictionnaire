@@ -1,0 +1,1 @@
+lar[36839]=`<b>ἐπαυδάω-ῶ</b> (<i>seul. moy</i>.) appeler à haute voix, invoquer, <i>acc</i>. SOPH. <i>Ph. 395</i>.`

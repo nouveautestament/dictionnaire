@@ -1,0 +1,1 @@
+lar[95850]=`<b>ατος (τὸ)</b> aliment cuit qu’on sert avec d’autres, GAL. <i>6, 351</i>.<p><b>Étym</b>. συνεψέω.`

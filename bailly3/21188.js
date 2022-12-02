@@ -1,0 +1,1 @@
+lar[21188]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> de Galadres, LYC. <i>1342</i>.<p><b>Étym</b>. Γαλάδραι.`

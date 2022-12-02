@@ -1,0 +1,1 @@
+lar[30623]=`<b>εος-ους (τὸ)</b> laine, OD. <i>4, 135 ; 9, 426</i>.<p><b>Étym</b>. <i>p</i>. *ϝέρϝος, <i>de indo-europ</i>. *ueru-os-, laine ; <i>cf. lat</i>. vervēx.`

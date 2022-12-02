@@ -1,0 +1,1 @@
+lar[97605]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> bassesse de sentiments, TERTULL. <i>de Jejun. 15</i>.<p><b>Étym</b>. ταπεινοφρονέω.`

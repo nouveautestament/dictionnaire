@@ -1,0 +1,1 @@
+lar[35286]=`<b>ἑξά·δραχμος, ος, ον</b> <font color="purple">[ᾰχ]</font> de six drachmes, ARSTT. <i>Œc. 2, 8 et 37</i>.<p><b>Étym</b>. ἕξ, δραχμή.`

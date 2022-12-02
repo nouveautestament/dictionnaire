@@ -1,0 +1,1 @@
+lar[17561]=`<b>αὐτο·λήκυθος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui apporte lui-même sa burette d’huile, <i>d’où</i> :<br><b>      1</b> pauvre, gueux, ANTIPH. (POLL. <i>10, 62</i>) ; DÉM. <i>1261, 17 ; etc.</i><br><b>      2</b> avare, <i>d’où</i> parasite, PLUT. <i>M. 50c ;</i> LUC. <i>Lex. 10</i>.`

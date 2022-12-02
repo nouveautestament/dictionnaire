@@ -1,0 +1,1 @@
+lar[22522]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Γόρτυν POL. <i>23, 15,</i> EL. <i>V.H. 12, 12 ; etc</i>.`

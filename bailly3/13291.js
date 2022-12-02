@@ -1,0 +1,1 @@
+lar[13291]=`<b>ἀπο·σιμόω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> rendre camus, <i>d’où, au pass</i>. être camus, LUC. <i>D. mort. 24, 2</i>.<br><b>      2</b> faire manœuvrer de côté en demi-cercle : στρατιάν (<i>var</i>. ἐπισ-) XÉN. <i>Hell. 5, 4, 50,</i> une armée ; ναῦς, THC. <i>4, 25,</i> des navires (pour éviter un choc direct).`

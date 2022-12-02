@@ -1,0 +1,1 @@
+lar[109363]=`<i>fém. du part. ao. pass. épq. de</i> χέω.`

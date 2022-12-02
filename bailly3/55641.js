@@ -1,0 +1,1 @@
+lar[55641]=`<b>κισσο·τόμοι, ων (αἱ)</b> <i>s.-e</i>. ἡμέραι, PAUS. <i>2, 13, 4,</i> la coupe du lierre, <i>fête où l’on coupait le lierre pour les sacrifices, à Phlionte</i>.<p><b>Étym</b>. κισσός, τέμνω.`

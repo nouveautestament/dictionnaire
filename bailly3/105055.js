@@ -1,0 +1,1 @@
+lar[105055]=`<b>α, ον</b>, brillant : τὸ φεγγαῖον, EN. TACT. <i>Pol. 10,</i> lumière, lueur.<p><b>Étym</b>. φέγγος.`

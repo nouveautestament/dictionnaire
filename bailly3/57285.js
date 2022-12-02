@@ -1,0 +1,1 @@
+lar[57285]=`<b>οῦ (ὁ)</b> créateur du monde, HERM. (STOB. <i>Ecl. 1, 976).</i><p><b>Étym</b>. κοσμοποιέω.`

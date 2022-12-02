@@ -1,0 +1,1 @@
+lar[5458]=`<b>ἀ·μερής, ής, ές :<br>      1</b> non divisé en parties, indivisible, PLAT. <i>Theæt. 205e, Soph. 245a, Tim. 35a ;</i> ARSTT. <i>An. post. 2, 19</i> ; PLUT. <i>Cic. 40, etc.</i><br><b>      2</b> impartial (jugement) LUC. <i>Cal. 8</i>.<p><b>Étym</b>. ἀ, μέρος.`

@@ -1,0 +1,1 @@
+lar[57209]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> pointe, sommet, ATHÉNÉE MÉC. <i>36, 7</i>.<p><b>Étym</b>. κορυφόω.`

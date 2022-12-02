@@ -1,0 +1,1 @@
+lar[58042]=`<b>ύδος (ἡ)</b> duvet qu’on arrache d’un tissu laineux qu’on époussette, HDT. <i>3, 8</i> ; HPC. <i>38, 4</i> ; AR. <i>(Bkk. p. 468, 19</i>) ; TH. <i>Char. 2</i> ; PLUT. <i>Syll. 35</i>.<p><b>Étym</b>. κρέκω ; <i>cf</i>. κρόκη.`

@@ -1,0 +1,1 @@
+lar[17896]=`<b>ἀ·φάρμακος, ος, ον</b> <font color="purple">[μᾰ]</font> non vénéneux, GAL. <i>6, 368d</i>.<p><b>Étym</b>. ἀ, φάρμακον.`

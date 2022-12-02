@@ -1,0 +1,1 @@
+lar[62061]=`<b>ας (ἡ)</b> la Lusitanie, (<i>auj</i>. le Portugal) <i>partie occidentale de la péninsule Ibérique,</i> PLUT. <i>Sert. 12, etc</i>.`

@@ -1,0 +1,1 @@
+lar[49013]=`<b>ω (ὁ)</b> Inarôs, <i>fils de Psammétique, roi d’Égypte,</i> HDT. <i>3, 12, etc.</i> ; THC. <i>1, 104</i>.`

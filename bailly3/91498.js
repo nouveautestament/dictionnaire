@@ -1,0 +1,1 @@
+lar[91498]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. de</i> σμίλη, P. ÉG. <i>6, 73</i>.`

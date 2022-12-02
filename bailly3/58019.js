@@ -1,0 +1,1 @@
+lar[58019]=`<b>η, ον</b>, de crocodile ; λόγος, raisonnement du crocodile, <i>sorte de sophisme,</i> CLÉM. <i>651</i>.<p><b>Étym</b>. κροκόδειλος.`

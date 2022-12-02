@@ -1,0 +1,1 @@
+lar[107721]=`<b>χαλκο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> à la cuirasse (<i>litt</i>. à la tunique) d’airain, IL. <i>1, 371, etc</i>.<p><b>Étym</b>. χ. χιτών.`

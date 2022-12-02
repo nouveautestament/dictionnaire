@@ -1,0 +1,1 @@
+lar[31626]=`<b>ἐκ·λοχμόομαι-οῦμαι</b> (<i>prés</i>. -οῦνται) se couvrir de bois, de forêts, TH. <i>C.P. 3, 19, 1</i>.`

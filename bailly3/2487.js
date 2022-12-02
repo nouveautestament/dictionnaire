@@ -1,0 +1,1 @@
+lar[2487]=`<b>ου (ὁ)</b> fraîcheur du matin, froid, OD. <i>14, 318</i>.<p><b>Étym</b>. αἴθρα.`

@@ -1,0 +1,1 @@
+lar[71760]=`<b>ὁμο·χοῖνιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> compagnon de chénix, <i>càd</i>. compagnon d’esclavage, qui reçoit la ration commune d’un chénix de blé, PLUT. <i>M. 643d</i>.<p><b>Étym</b>. ὁμ. χοῖνιξ.`

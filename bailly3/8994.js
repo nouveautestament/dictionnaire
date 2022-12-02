@@ -1,0 +1,1 @@
+lar[8994]=`<b>ἀνθ·υπάγω</b> <font color="purple">[ᾰγ]</font> <font color="darkgreen">(<i>impf</i>. ἀνθυπῆγον) :</font><br><b>      1</b> accuser à son tour, THC. <i>3, 70</i>.<br><b>      2</b> <i>t. de gr</i>. subordonner <i>ou</i> rattacher à, DYSC. <i>Pron. 264c, etc. ; Conj. 480, 23 et 28, etc</i>.<p><b>Étym</b>. ἀντί, ὑ.`

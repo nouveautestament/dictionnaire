@@ -1,0 +1,1 @@
+lar[10427]=`<b>ἀντι·στέργω</b>, chérir en retour, D. CHR. <i>Or. 12, p. 394</i>.`

@@ -1,0 +1,1 @@
+lar[109953]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> frais, froid, rafraîchissant, HPC. <i>Epid. 1, 938</i> ; XÉN. <i>Cyn. 10, 6 ; Œc. 9, 3 et 4 ; Mem. 3, 8, 9</i> ; ARSTT. <i>Probl. 35, 4</i> ; TH. <i>C.P. 3, 23, 4</i>.<p><b>Étym</b>. ψῦχος.`

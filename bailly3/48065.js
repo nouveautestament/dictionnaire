@@ -1,0 +1,1 @@
+lar[48065]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> garni d’une porte, <i>fig</i>. BABR. <i>59, 11</i>.<p><b>Étym</b>. <i>vb. de</i> θυρόω.`

@@ -1,0 +1,1 @@
+lar[25042]=`<b>ή, όν</b>, diamétral, diagonal, THEOL. <i>3 et 59</i>.<p><b>Étym</b>. διάμετρος.`

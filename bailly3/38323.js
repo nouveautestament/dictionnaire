@@ -1,0 +1,1 @@
+lar[38323]=`<b>εως (ἡ)</b> <font color="purple">[γῐ]</font> <i>c</i>. ἐπιλογισμός EPIC. (PLUT. <i>M. 1091b</i>).`

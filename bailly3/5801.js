@@ -1,0 +1,1 @@
+lar[5801]=`<b>ου (τὸ)</b> petite vigne, AR. <i>Ach. 512, Pax 596</i>.<p><b>Étym</b>. ἄμπελος.`

@@ -1,0 +1,1 @@
+lar[22708]=`<b>ων (οἱ)</b> les Gyzantes, <i>pple de Libye,</i> HDT. <i>4, 194</i>.`

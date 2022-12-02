@@ -1,0 +1,1 @@
+lar[24730]=`<b>δια·καραδοκέω-ῶ</b> <font color="purple">[κᾰᾱ]</font> attendre patiemment <i>ou</i> anxieusement jusqu’au bout, DIPH. <i>(Bkk. 1445</i>) ; PLUT. <i>Ant. 56</i>.`

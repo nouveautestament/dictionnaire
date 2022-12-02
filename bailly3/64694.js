@@ -1,0 +1,1 @@
+lar[64694]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> altération d’un texte, STR. <i>12, 3, 22 Kram.</i> ; DYSC. <i>Synt. 156, 2</i>.<br><b>      2</b> transcription, copie, JUL. <i>Ep. 9</i>.<br><b>      3</b> emprunt fait à une personne pour en payer une autre, PLUT. <i>M. 831a</i>.<p><b>Étym</b>. μεταγράφω.`

@@ -1,0 +1,1 @@
+lar[109892]=`<b>(οἱ)</b> les Psoloeis, <i>époux des filles de Minyas,</i> PLUT. <i>Qu. gr. 38</i>.`

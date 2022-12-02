@@ -1,0 +1,1 @@
+lar[59957]=`<b>λα·τόμος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> tailleur de pierres, SPT. <i>1Reg. 5, 15</i> ; JOS. <i>A.J. 11, 4, 1</i>.<p><b>Étym</b>. λᾶς, τέμνω.`

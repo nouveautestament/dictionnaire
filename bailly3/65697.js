@@ -1,0 +1,1 @@
+lar[65697]=`<b>μικρο·δοσία, ας (ἡ)</b> <font color="purple">[μῑ]</font> action de faire de petits présents, POL. <i>5, 90, 5</i>.<p><b>Étym</b>. μ. δοτός.`

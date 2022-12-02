@@ -1,0 +1,1 @@
+lar[94874]=`<b>συν·αποκαλέω-ῶ</b> <font color="purple">[κᾰ]</font> appeler ensemble <i>ou</i> en même temps, PLUT. <i>M. t. 5, 2, p. 712 b Wyttenbach</i>.`

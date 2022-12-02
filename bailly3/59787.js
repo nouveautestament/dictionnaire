@@ -1,0 +1,1 @@
+lar[59787]=`<b>λαο·βόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui dévore le peuple, SYN. <i>347</i>.<p><b>Étym</b>. λ. βιβρώσκω.`

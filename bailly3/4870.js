@@ -1,0 +1,1 @@
+lar[4870]=`<b>ἁλμο·πότις, ιδος (ἡ)</b> qui boit de l’eau de mer <i>ou</i> de l’eau salée, ATH. <i>32e</i>.<p><b>Étym</b>. ἅλμη, πίνω.`

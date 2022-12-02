@@ -1,0 +1,1 @@
+lar[38235]=`<b>εως (ἡ)</b> action de se pencher, inclinaison, ANTYLL. (ORIB. <i>3, 572 B.-Dar</i>.).<p><b>Étym</b>. ἐπικύπτω.`

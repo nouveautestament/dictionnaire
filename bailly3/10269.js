@@ -1,0 +1,1 @@
+lar[10269]=`<b>ἀντι·πέσσω</b>, <i>att</i>. <b>ἀντι·πέττω</b> (<i>sbj. ao. pass</i>. -πεφθῶ) cuire à son tour, ARSTT. <i>Probl. 5, 30, 1</i>.`

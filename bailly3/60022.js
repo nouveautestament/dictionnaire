@@ -1,0 +1,1 @@
+lar[60022]=`<b>Λαχανο·θαύμασος, ου (ὁ)</b> <i>propr</i>. l’admirateur de légumes, <i>n. d’un parasite,</i> ALCIPHR. <i>3, 47</i>.<p><b>Étym</b>. λάχανον, θαυμάζω.`

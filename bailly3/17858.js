@@ -1,0 +1,1 @@
+lar[17858]=`<b>ης (ἡ) :<br>      1</b> sorte de gesse, <i>plante,</i> ARSTT. <i>H.A. 8, 10, 3</i> ; TH. <i>H.P. 8, 3, etc.</i><br><b>      2</b> sorte de plante sauvage, <i>d’ord. appelée</i> ἀπάτη, TH.<p><b>Étym</b>. <i>cf</i>. φακή <i>et</i> φάκος.`

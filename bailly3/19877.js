@@ -1,0 +1,1 @@
+lar[19877]=`<b>ή, όν</b>, qui germe <i>ou</i> pousse facilement, TH. <i>C.P. 1, 11, 4</i>.<p><b>Étym</b>. βλαστάνω.`

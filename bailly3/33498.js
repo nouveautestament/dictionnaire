@@ -1,0 +1,1 @@
+lar[33498]=`<b>ἐμ·πλημμυρέω-ῶ</b> <font color="purple">[ῡ]</font> (<i>prés</i>.) être inondé de, <i>dat</i>. PHILSTR. <i>806</i>.<p><b>Étym</b>. ἐν, πλ.`

@@ -1,0 +1,1 @@
+lar[108167]=`<b>ας (ἡ)</b> inspection <i>ou</i> observation des mains, JOS. <i>Hypomn. c. 114</i>.<p><b>Étym</b>. χειροσκόπος.`

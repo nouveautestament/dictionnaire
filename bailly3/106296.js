@@ -1,0 +1,1 @@
+lar[106296]=`<b>υος (ὁ)</b> père, <i>litt</i>. celui qui engendre, LYC. <i>462, 486</i>.<p><b>Étym</b>. φιτύω.`

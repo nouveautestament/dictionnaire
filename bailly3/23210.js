@@ -1,0 +1,1 @@
+lar[23210]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui prête de l’argent à intérêts, <i>en mauv. part,</i> usurier, PLUT. <i>Sol. 13</i> ; SPT. <i>4Reg. 4, 1 ; etc</i>.<p><b>Étym</b>. δανείζω.`

@@ -1,0 +1,1 @@
+lar[86589]=`<b>προ·σφάζω</b>, immoler auparavant, EUR. <i>Hel. 1255</i>.`

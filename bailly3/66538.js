@@ -1,0 +1,1 @@
+lar[66538]=`<b>μονό·ζωνος, ος, ον</b>, qui n’a qu’une ceinture <i>ou</i> un baudrier, <i>càd</i>. équipé <i>ou</i> armé à la légère, SPT. <i>4Reg. 13, 20 ; Job 29, 25</i>.<p><b>Étym</b>. μ. ζώνη.`

@@ -1,0 +1,1 @@
+lar[94850]=`<b>συν·αποβιάζομαι</b>, réprimer, contenir ensemble, ARSTT. <i>H.A. 7, 1, 4</i>.`

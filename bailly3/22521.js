@@ -1,0 +1,1 @@
+lar[22521]=`<b>υνος (ἡ)</b> <font color="purple">[ῡ]</font> Gortyne (<i>auj</i>. ruines près d’Áyii Đeka) <i>v. de Crète,</i> IL. <i>2, 646</i> ; OD. <i>3, 294</i> ; PLAT. <i>Leg. 708a ; etc</i>.`

@@ -1,0 +1,1 @@
+lar[9476]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de contrebalancer, PORPH. (EUS. <i>P.E. 556d</i>).<p><b>Étym</b>. ἀντανισόω.`

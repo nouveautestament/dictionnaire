@@ -1,0 +1,1 @@
+lar[73697]=`<b>οὐρέω-ῶ</b>, avoir une heureuse navigation, SOPH. <i>O.R. 696 vulg</i>.<p><b>Étym</b>. οὖρος¹.`

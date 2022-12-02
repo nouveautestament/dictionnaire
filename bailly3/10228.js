@@ -1,0 +1,1 @@
+lar[10228]=`<b>ου (ὁ)</b> Antipatridès, <i>h</i>. PLUT. <i>M. 760c</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀντίπατρος.`

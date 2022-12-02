@@ -1,0 +1,1 @@
+lar[67290]=`<b>μυρμηκ·άνθρωποι, ων (οἱ)</b> les hommes-fourmis, <i>titre d’une comédie de Phérécrate</i>.<p><b>Étym</b>. μύρμηξ, ἄνθρωπος.`

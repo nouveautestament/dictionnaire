@@ -1,0 +1,1 @@
+lar[4842]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> différence de nature, EPIC. (DL. <i>10, 106).</i><p><b>Étym</b>. ἀλλόφυλος.`

@@ -1,0 +1,1 @@
+lar[81478]=`<b>ατος (τὸ)</b> souffle impétueux <i>ou</i> menaçant, ESCHL. <i>Sept. 280</i>.<p><b>Étym</b>. ποιφύσσω.`

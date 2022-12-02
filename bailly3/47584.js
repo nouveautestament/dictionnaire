@@ -1,0 +1,1 @@
+lar[47584]=`<b>Θρασυ·λέων, οντος (ὁ)</b> <font color="purple">[ᾰῠ]</font> Thrasyléôn, <i>h</i>. EL. <i>Ep. rust. 9 ; plur</i>. Θρασυλέοντες, PLUT. <i>Epic. 13,</i> des Thrasyléon.<p><b>Étym</b>. θρ. λέων.`

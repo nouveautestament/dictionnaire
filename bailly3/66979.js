@@ -1,0 +1,1 @@
+lar[66979]=`<b>μυ·γαλέη-ῆ, έης-ῆς (ἡ)</b> <font color="purple">[ῡᾰ]</font> musaraigne (<i>lat</i>. mus araneus) HDT. <i>2, 67</i> ; ANAXANDR. (ATH. <i>300a</i>) ; ARSTT. <i>H.A. 8, 24</i> ; PLUT. <i>M. 670b</i>.<p>➳ μυγαλέη <i>non contracté,</i> NIC. <i>Th. 816</i>.<p><b>Étym</b>. μῦς, γαλέη.`

@@ -1,0 +1,1 @@
+lar[52617]=`<b>ή, όν</b> <font color="purple">[ρᾰ]</font> qui retient, qui arrête, AÉT. <i>9, 37</i>.<p>•<i> Cp</i>. -ώτερος, ORIB. <i>p. 65 Matthäi</i>.`

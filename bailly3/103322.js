@@ -1,0 +1,1 @@
+lar[103322]=`<b>ὑπο·κάπτω</b>, avaler, happer, ARSTT. <i>H.A. 9, 29, 3</i>.`

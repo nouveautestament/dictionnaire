@@ -1,0 +1,1 @@
+lar[37373]=`<b>ου (τὸ)</b> vêtement, manteau, SPT. <i>Jud. 4, 18 ; Ezech. 13, 18 et 21</i> ; JOS. <i>A.J. 6, 11, 4</i>.<p><b>Étym</b>. ἐπιβολή.`

@@ -1,0 +1,1 @@
+lar[23391]=`<b>ης (ἡ)</b> Daphnousa, <i>v. de Locride,</i> EUPH. (E. BYZ.).<p><b>Étym</b>. <i>p</i>. *δαφνόεισα, <i>fém. de</i> Δαφνοῦς.`

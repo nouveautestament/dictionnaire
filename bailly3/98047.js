@@ -1,0 +1,1 @@
+lar[98047]=`<b>α, ον</b>, <i>vb. de</i> τεκμαίρομαι, ARÉT. <i>Cur. m. acut. 1, 1 ; au neutre,</i> HPC. <i>Off. 746</i>.<p><b>Étym</b>. <i>v</i>. τεκμαίρω.`

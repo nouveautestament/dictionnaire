@@ -1,0 +1,1 @@
+lar[68798]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑ]</font> Nikô, <i>f</i>. ANTH. <i>5, 150, etc</i>.<p><b>Étym</b>. νίκη.`

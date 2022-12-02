@@ -1,0 +1,1 @@
+lar[55376]=`<b>      1</b> altérer une monnaie, AR. <i>Ran. 721</i> ; ARSTT. <i>Nic. 9, 3 ; ou</i> des marchandises, PLAT. <i>Leg. 917b.</i><br><b>      2</b> <i>p. ext</i>. agir <i>ou</i> parler avec mauvaise foi, EUR. <i>Bacch. 475</i>.<p><b>Étym</b>. κίβδηλος.`

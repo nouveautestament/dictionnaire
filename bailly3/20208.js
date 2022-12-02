@@ -1,0 +1,1 @@
+lar[20208]=`<b>βορβορ·όπη, ης (ἡ)</b> trou de boue, <i>t. injurieux,</i> HIPPON. <i>fr. 110</i> ; COM. <i>fr. 124</i>.<p><b>Étym</b>. β. ὀπή.`

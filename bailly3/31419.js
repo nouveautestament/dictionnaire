@@ -1,0 +1,1 @@
+lar[31419]=`<b>εως (ἡ)</b> action de vider, évacuation, CHRYS. <i>5, 434</i>.<p><b>Étym</b>. ἐκκενόω.`

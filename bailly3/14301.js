@@ -1,0 +1,1 @@
+lar[14301]=`<i>adv</i>., à Argos, <i>avec mouv</i>. IL. <i>2, 348</i>.<p><b>Étym</b>. Ἄ. 1, -δε.`

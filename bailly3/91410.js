@@ -1,0 +1,1 @@
+lar[91410]=`<b>σκωλόω-ῶ</b>, arrêter par un obstacle, <i>au pass</i>. se heurter contre un obstacle, AQU. <i>Hos. 9, 8</i>.<p><b>Étym</b>. σκῶλον.`

@@ -1,0 +1,1 @@
+lar[70783]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ὀκλαδόν BABR. <i>25, 7</i>.`

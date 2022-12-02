@@ -1,0 +1,1 @@
+lar[80103]=`<font color="purple">[ῐ]</font> <i>adv</i>., au loin <i>ou</i> de loin, SAPPH. <i>fr. 1, 6 Bgk, éol. c</i>. τηλόθι <i>ou</i> τηλόθεν.`

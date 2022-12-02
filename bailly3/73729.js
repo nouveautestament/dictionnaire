@@ -1,0 +1,1 @@
+lar[73729]=`<b>ου (ὁ)</b> gardien, <i>d’où</i> protecteur, défenseur, IL. <i>8, 80, etc.</i> ; OD. <i>3, 411, etc.</i> ; PD. <i>I. 7, 55</i> ; A.RH. <i>4, 1643</i> ; OPP. <i>C. 1, 375</i>.<p><b>Étym</b>. <i>p</i>. ϝόϝρος, <i>de la R. indo-europ</i>. *uer-, observer ; <i>cf</i>. ὁράω.`

@@ -1,0 +1,1 @@
+lar[62438]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> Macédoine, <i>pays au N.-E. de la Grèce,</i> HDT. <i>5, 17, etc.</i> ; THC. <i>1, 58, etc.</i> ; XÉN. <i>Hell. 5, 2, 12, etc.</i> ; PLAT. <i>Gorg. 470d</i>.<p>➳ <i>Ion</i>. Μακεδονίη, HDT. <i>l. c. etc</i>.<p><b>Étym</b>. Μακεδόνιος, μακεδνός.`

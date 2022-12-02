@@ -1,0 +1,1 @@
+lar[80578]=`<b>όνος (ὁ)</b> poupée de cire, CALL. <i>Cer. 92</i>.<p><b>Étym</b>. πλάσσω.`

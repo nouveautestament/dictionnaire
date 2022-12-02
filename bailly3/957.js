@@ -1,0 +1,1 @@
+lar[957]=`<b>ἀγροικο·πυρρώνειος, ου (ὁ)</b> grossier Pyrrhoniste, GAL. <i>De diff. puls. 8, 711</i>.`

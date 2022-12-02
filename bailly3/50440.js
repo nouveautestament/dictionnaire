@@ -1,0 +1,1 @@
+lar[50440]=`<b>καθ·ιστορέω-ῶ</b> <font color="purple">[ᾰ]</font> raconter <i>ou</i> expliquer en détail, GEOP. <i>15, 2</i>.`

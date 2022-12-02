@@ -1,0 +1,1 @@
+lar[42786]=`<b>ας (ἡ)</b> Eunomia, <i>càd.</i> :<br><b>      1</b> l’Ordre <i>personnifié,</i> PD. <i>O. 9, 17 ; 13, 6</i>.<br><b>      2</b> <i>une des Heures, fille de Thémis,</i> HÉS. <i>Th. 902</i>.<p>➳ <i>Ion</i>. -ίη, HÉS. <i>l. c</i>.<p><b>Étym</b>. εὐνομία¹.`

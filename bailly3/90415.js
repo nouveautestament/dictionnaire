@@ -1,0 +1,1 @@
+lar[90415]=`<b>ή, όν</b> <font color="purple">[σῐ]</font> de Sinope : Σινωπικὴ γῆ, STR. <i>144, ou</i> ἡ Σινωπικὴ μίλτος, TH. <i>Lap. 52</i> ; DIOSC. <i>5, 111 ; ou simpl</i>. ἡ Σινωπική, STR. <i>540,</i> terre <i>ou</i> vermillon de Sinope, <i>rouge minéral employé en peinture</i>.<p><b>Étym</b>. Σινώπη.`

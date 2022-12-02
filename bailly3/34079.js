@@ -1,0 +1,1 @@
+lar[34079]=`<b>ἐν·αύω</b>, allumer : πῦρ, HDT. <i>7, 231</i> ; XÉN. <i>Mem. 2, 2, 12</i> ; DIN. <i>106, 12</i> ; POL. <i>9, 40, 5,</i> allumer du feu.<br><b><i>Moy.</i></b> allumer pour soi : πῦρ, CRAT. <i>(Bkk. 13, 20</i>) du feu ; ἔκ τινος, LUC. <i>Tim. 6 ; fig</i>. ἀπό τινος, PLUT. <i>Num. 9,</i> à qqe ch. ; <i>fig</i>. PLAT. <i>Ax. 371e ;</i> EL. (SUID. <i>v°</i> ἐναύσματα).`

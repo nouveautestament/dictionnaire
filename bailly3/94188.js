@@ -1,0 +1,1 @@
+lar[94188]=`<b>συμ·περιέρχομαι</b>, faire ensemble le tour de, <i>acc</i>. APP. <i>Civ. 5, 20 ; fig</i>. τινι, CLÉOM. <i>p. 74,</i> avec qqe ch.`

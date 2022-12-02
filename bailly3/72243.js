@@ -1,0 +1,1 @@
+lar[72243]=`<b>ὀπίας τυρός (ὁ)</b> <font color="purple">[ᾱ]</font> fromage de lait qu’on a fait cailler avec du suc de figues, EUR. <i>Cycl. 136 ; abs</i>. ὀπίας, AR. <i>Vesp. 353, avec jeu de mots</i>.<p><b>Étym</b>. ὀπός.`

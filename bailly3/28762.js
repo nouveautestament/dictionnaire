@@ -1,0 +1,1 @@
+lar[28762]=`<b>δυσ·παράθελκτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à émouvoir par des caresses, ESCHL. <i>Suppl. 386</i>.<p><b>Étym</b>. δ. παραθέλγω.`

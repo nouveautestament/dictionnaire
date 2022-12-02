@@ -1,0 +1,1 @@
+lar[84860]=`<b>προ·ορμάω-ῶ :<br>      1 <i>tr.</i></b> lancer en avant, <i>au pass</i>. se lancer en avant, XÉN. <i>Cyr. 4, 3, 1</i>.<br><b>      2 <i>intr.</i></b> s’élancer en avant, XÉN. <i>Cyr. 1, 4, 21, etc. ; p. ext</i>. pousser, croître, <i>en parl. de plantes,</i> TH. <i>C.P. 1, 12, 8</i>.`

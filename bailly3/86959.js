@@ -1,0 +1,1 @@
+lar[86959]=`<b>προ·φθάνω</b>, prévenir, devancer, <i>acc</i>. ESCHL. <i>Ag. 1028</i> ; PLAT. <i>Rsp. 500a ; avec un part</i>. AR. <i>Eccl. 884</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. part</i>. προφθάμενος <font color="purple">[ᾰ]</font>)</font> <i>m. sign</i>. A.RH. <i>4, 913</i> ; NONN. <i>Jo. 13, 19</i>.`

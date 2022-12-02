@@ -1,0 +1,1 @@
+lar[17755]=`<i>adv</i>., en tuant de sa main, ESCHL. <i>Suppl. 65</i>.`

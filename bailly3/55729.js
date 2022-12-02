@@ -1,0 +1,1 @@
+lar[55729]=`<font color="purple">[ᾰ]</font> tailler les arbres, <i>particul</i>. la vigne, ARTÉM. <i>1, 51</i> ; CLÉM. <i>Str. 1, 9, 43, etc.</i> ; GEOP. <i>3, 1, 1, etc</i>.<p><b>Étym</b>. κλάδος.`

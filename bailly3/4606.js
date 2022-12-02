@@ -1,0 +1,1 @@
+lar[4606]=`<font color="purple">[ᾰ]</font> <i>adv</i>., vainement, SOPH. <i>Ph. 840</i>.<p><b>Étym</b>. ἅλιος 3.`

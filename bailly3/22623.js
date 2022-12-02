@@ -1,0 +1,1 @@
+lar[22623]=`<b>γραφειο·ειδής</b>, <i>mieux que</i> <b>γραφιοειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à un poinçon (os), GAL. <i>De usu part. 3, 651</i>.<p><b>Étym</b>. γραφεῖον, εἶδος.`

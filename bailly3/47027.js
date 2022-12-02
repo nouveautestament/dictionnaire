@@ -1,0 +1,1 @@
+lar[47027]=`<b>ου (ὁ)</b> Thespésios, <i>h</i>. PLUT. <i>Ser. num. vind. 22</i>.<p><b>Étym</b>. <i>v</i>. θεσπέσιος.`

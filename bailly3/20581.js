@@ -1,0 +1,1 @@
+lar[20581]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> prix du combat, NT. <i>1Cor. 9, 24</i>.<p>➳ <i>Ion</i>. βραβήϊον, OPP. <i>C. 4, 197</i>.<p><b>Étym</b>. βραβεύω.`

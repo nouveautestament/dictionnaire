@@ -1,0 +1,1 @@
+lar[86336]=`<b>ή, όν</b>, accessible aux navires, HDT. <i>4, 47 et 71</i>.<p><b>Étym</b>. <i>vb. de</i> προσπλώω.`

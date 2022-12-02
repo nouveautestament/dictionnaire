@@ -1,0 +1,1 @@
+lar[47226]=`<b>ας (ἡ)</b> <i>c</i>. θημών SPT. <i>Ex</i>. 8.14 ; <i>Job</i> 21.32 ; <i>Cant</i>. 7.2 ; <i>en parl. de cadavres</i>, SPT. <i>1Macc</i>. 11.4.`

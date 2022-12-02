@@ -1,0 +1,1 @@
+lar[92306]=`<b>έως (ὁ)</b> originaire <i>ou</i> habitant du dème Steiria (<i>auj</i>. ruines de Pórto Ráfti) <i>de la tribu Pandionide,</i> XÉN. <i>Hell. 4, 8, 25</i> ; ESCHN. <i>3, 195</i> ; LYS. <i>16, 5 Baiter-Sauppe</i>.`

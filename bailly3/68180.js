@@ -1,0 +1,1 @@
+lar[68180]=`<b>νεό·κτιστος, ος, ον</b>, nouvellement bâti <i>ou</i> fondé, PD. <i>P. 4, 206</i> ; HDT. <i>5, 24</i> ; THC. <i>3, 100</i>.<p>➳ <i>Fém</i>. νεοκτίστα <font color="purple">[ᾱ]</font> PD. <i>N. 9, 2</i>.<p><b>Étym</b>. ν. κτίζω.`

@@ -1,0 +1,1 @@
+lar[42957]=`<b>εὔ·πατρις, ιδος</b>, <i>adj. f.</i> :<br><b>      1</b> née d’un père noble, EUR. <i>I.A. 1077 ; à Rome,</i> de patricien, DC. <i>46, 45</i>.<br><b>      2</b> dont les sentiments attestent la noblesse, SOPH. <i>El. 1080</i>.<p><b>Étym</b>. εὖ, πατήρ.`

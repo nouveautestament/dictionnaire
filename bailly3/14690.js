@@ -1,0 +1,1 @@
+lar[14690]=`<b>Ἀριστό·βουλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristoboulos (Aristobule) :<br><b>      1</b> <i>roi de Judée,</i> PLUT. <i>Pomp. 39, etc.</i><br><b>      2</b> <i>historien grec,</i> PLUT. <i>Alex. 15, etc.</i> ; LUC. <i>H. conscr. 12, etc.</i><br><b>      3</b> <i>autres,</i> ESCHN. <i>3, 162 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. ἄ. βουλή.`

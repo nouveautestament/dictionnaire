@@ -1,0 +1,1 @@
+lar[100029]=`<b>εως (ἡ)</b> action de tourner, DL. <i>7, 114</i>.<p><b>Étym</b>. τρέπω.`

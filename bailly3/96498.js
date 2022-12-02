@@ -1,0 +1,1 @@
+lar[96498]=`<b>(ὁ)</b> Syrgis (<i>auj</i>. Donets) <i>fl. de Scythie,</i> HDT. <i>4, 123</i>.`

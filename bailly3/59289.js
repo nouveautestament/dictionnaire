@@ -1,0 +1,1 @@
+lar[59289]=`<i>(genre inconnu) indécl</i>. Kôütha, <i>village de l’Inde,</i> EL. <i>N.A. 16, 35</i>.`

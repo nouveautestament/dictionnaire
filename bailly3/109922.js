@@ -1,0 +1,1 @@
+lar[109922]=`<b>α, ον</b>, qui donne de la fraîcheur, rafraîchissant, EUR. <i>fr. 784</i> ; ACHÆ. (ATH. <i>690b</i>) ; τὸ ψυκτήριον, HÉS. <i>fr. 47, 8 Gaisford,</i> lieu frais ; τὰ ψυκτήρια, ESCHL. <i>fr. 145,</i> lieux <i>ou</i> ombrages rafraîchissants.<p><b>Étym</b>. ψύχω.`

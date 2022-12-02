@@ -1,0 +1,1 @@
+lar[32792]=`<b>ου (ὁ)</b> Éliacim, <i>n. d’h. hébreu,</i> NT. <i>Matth. 1, 13 ; Luc. 3, 30, etc</i>.`

@@ -1,0 +1,1 @@
+lar[29904]=`<b>ἐγχελυ·ωπός, ός, όν</b> <font color="purple">[ῠ]</font> qui a des yeux d’anguille, LUC. <i>V.H. 1, 35</i>.<p><b>Étym</b>. ἔγχελυς, ὤψ.`

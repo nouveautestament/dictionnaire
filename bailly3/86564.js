@@ -1,0 +1,1 @@
+lar[86564]=`montrer en outre, <i>rég. ind. au dat</i>. POL. <i>23, 10, 4, etc</i>.`

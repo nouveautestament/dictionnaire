@@ -1,0 +1,1 @@
+lar[39173]=`<b>ἐπι·στρατοπεδεύω</b> <font color="purple">[ᾰ]</font> camper en face de, <i>dat</i>. POL. <i>1, 19, 5</i>.`

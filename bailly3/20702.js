@@ -1,0 +1,1 @@
+lar[20702]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> brièveté dans le discours <i>ou</i> le style, PLAT. <i>Gorg. 449c ; Phædr. 269a ;</i> PLUT. <i>M. 153e, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>24, 43</i>.<p><b>Étym</b>. βραχυλόγος.`

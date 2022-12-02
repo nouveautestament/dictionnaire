@@ -1,0 +1,1 @@
+lar[106466]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> φλυκταινίς HPC. <i>Epid. 1, 985</i>.`

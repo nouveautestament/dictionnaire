@@ -1,0 +1,1 @@
+lar[71040]=`<b>ὀλιγοποτέω-ῶ</b> <font color="purple">[ῐ]</font> boire peu, ARSTT. <i>P.A. 3, 7</i> ; PLUT. <i>M. 224d</i>.<p><b>Étym</b>. ὀλιγόποτος.`

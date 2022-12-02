@@ -1,0 +1,1 @@
+lar[29560]=`<b>ἐγ·καταρρίπτω</b> (<i>prés. pass</i>. -ρρίπτεται) précipiter dans, HLD. <i>9, 5</i>.<p><b>Étym</b>. ἐν, κ.`

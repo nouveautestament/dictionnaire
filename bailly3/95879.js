@@ -1,0 +1,1 @@
+lar[95879]=`<b>συν·ῆλιξ</b>, <i>anc. att</i>. <b>ξυν·ῆλιξ, ικος</b> (ὁ, ἡ, τὸ) <font color="purple">[ῐκ]</font> de même âge, <i>subst</i>. compagnon, camarade de, <i>dat</i>. ESCHL. <i>Pers. 784 ; abs</i>. EUP. <i>2-1, 501 Meineke ; fém</i>. ANTH. <i>7, 711 ; neutre plur</i>. ξυνήλικα, SPT. <i>Dan. 1, 10</i>.<p>➳ <i>Dor</i>. συνᾶλιξ, ANTH. <i>l. c</i>.<p><b>Étym</b>. σ. ἧλιξ.`

@@ -1,0 +1,1 @@
+lar[102618]=`<b>ὑπερ·κρίνομαι</b> <font color="purple">[ῑ]</font> être jugé supérieur (en beauté, en talent, <i>etc</i>.) AQU. <i>Ps. 50, 5</i>.`

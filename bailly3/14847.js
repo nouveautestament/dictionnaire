@@ -1,0 +1,1 @@
+lar[14847]=`<b>-ῶ</b>, veiller sur des filets, sur une trame, EL. <i>V.H. 1, 2 ; fig</i>. garder avec soin, EUP. (EUST. <i>Od. 1535, 20).</i><p><b>Étym</b>. ἀρκυωρός.`

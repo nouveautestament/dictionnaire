@@ -1,0 +1,1 @@
+lar[42823]=`<b>εὔ·ξοος, οος, οον :<br>      1</b> bien raclé, bien poli, <i>p. ext</i>. bien travaillé, IL. <i>2, 390, etc.</i> ; OD. <i>4, 590, etc.</i><br><b>      2</b> facile à polir, TH. <i>H.P. 5, 6, 4</i>.<p>•<i> Cp</i>. -οώτερος, TH. <i>l. c</i>.<p>➳ <i>Épq</i>. ἐΰξοος, HOM. <i>l. c. ; gén. contr</i>. ἐΰξου, IL. <i>10, 373</i>.`

@@ -1,0 +1,1 @@
+lar[17764]=`<i>adv</i>., par sa propre nature, naturellement, PLAT. <i>Gorg. 513b ; Leg. 642c ; etc</i>.<p><b>Étym</b>. αὐτοφυής.`

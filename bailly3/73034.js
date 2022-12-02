@@ -1,0 +1,1 @@
+lar[73034]=`<b>ου (ὁ)</b> extrémité de la colonne vertébrale, le sacrum, RUF. <i>p. 31</i> ; LUC. <i>Lex. 2 ; en parl. d’animaux,</i> croupion, AR. <i>Ran. 222, Pl. 122, Pax 1239, etc</i>.<p><b>Étym</b>. <i>indo-europ</i>. *h₁ers, *h₁ors-, derrière, anus ; <i>cf. angl</i>. arse.`

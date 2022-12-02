@@ -1,0 +1,1 @@
+lar[79832]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Pétalè, <i>f</i>. ANTH. <i>9, 245, etc</i>.<p><b>Étym</b>. <i>cf</i>. πέταλον.`

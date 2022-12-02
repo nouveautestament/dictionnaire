@@ -1,0 +1,1 @@
+lar[65037]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>vb. de</i> μεταφυτεύω, GEOP. <i>5, 13</i>.`

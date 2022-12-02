@@ -1,0 +1,1 @@
+lar[33909]=`<b>ή, όν</b>, opposé, contraire à, <i>dat</i>. STOB. <i>Ecl. 2, 210</i>.<p><b>Étym</b>. ἐναντιόομαι.`

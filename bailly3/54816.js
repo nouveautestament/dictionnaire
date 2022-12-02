@@ -1,0 +1,1 @@
+lar[54816]=`<b>κεραμοπωλέω-ῶ</b>, vendre de la poterie, ALEX. (POLL. <i>7, 161).</i><p><b>Étym</b>. κεραμοπώλης.`

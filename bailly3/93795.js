@@ -1,0 +1,1 @@
+lar[93795]=`<i>adv</i>., en raisonnant, ARSTT. <i>Rhet. 2, 24, 2</i> ; DL. <i>7, 78</i>.`

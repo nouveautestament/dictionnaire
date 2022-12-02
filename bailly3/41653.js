@@ -1,0 +1,1 @@
+lar[41653]=`<b>ας (ἡ)</b> heureux accord, juste proportion, harmonie, PLAT. <i>Def. 411e ;</i> DÉM. <i>1407, 5</i> ; ISOCR. <i>Antid. § 203</i> ; πρὸς ἔντευξιν, PLUT. <i>Pomp. 1,</i> abord affable.<p><b>Étym</b>. εὐάρμοστος.`

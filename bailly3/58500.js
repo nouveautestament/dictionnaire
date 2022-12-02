@@ -1,0 +1,1 @@
+lar[58500]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de Cythère, IL. <i>10, 268</i> ; HDT. <i>1, 82</i> ; ἡ Κυθηρία (<i>s.-e</i>. γῆ) XÉN. <i>Hell. 4, 8, 7,</i> l’î. de Cythère ; οἱ Κυθήριοι, THC. <i>4, 54</i> ; XÉN. <i>Hell. 4, 8, 7,</i> les habitants de Cythère.<p><b>Étym</b>. Κύθηρα.`

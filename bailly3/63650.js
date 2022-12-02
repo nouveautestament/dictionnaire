@@ -1,0 +1,1 @@
+lar[63650]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de s’enivrer, ivresse, THGN. <i>836</i>.<p><b>Étym</b>. μεθύω.`

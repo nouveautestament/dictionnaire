@@ -1,0 +1,1 @@
+lar[11422]=`<b>ἀπ·αρύω</b> <font color="darkgreen">(<i>f</i>. ύσω ; <i>ao</i>. ἀπήρυσα ; <i>part. ao. pass</i>. ἀπαρυθείς)</font> <font color="purple">[ᾰρ]</font> puiser, épuiser, <i>avec l’acc</i>. HDT. <i>4, 2 ; ou le gén</i>. MÉD. <i>46, 22 ; fig</i>. ALEX. (ATH. <i>36e</i>).`

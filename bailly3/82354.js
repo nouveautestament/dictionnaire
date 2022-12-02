@@ -1,0 +1,1 @@
+lar[82354]=`<b>πολύ·σημος, ος, ον</b> <font color="purple">[ῠ]</font> qui a beaucoup de significations, BAS. <i>3, 473c Migne</i>.<p><b>Étym</b>. π. σῆμα.`

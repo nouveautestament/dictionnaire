@@ -1,0 +1,1 @@
+lar[92163]=`<font color="purple">[ᾰ]</font> d’une manière stable, constante, HPC. <i>388, 41</i>.<p>•<i> Cp</i>. -ωτέρως, PLAT. <i>Tim. 55e</i>.`

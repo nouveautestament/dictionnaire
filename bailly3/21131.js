@@ -1,0 +1,1 @@
+lar[21131]=`<b>ης (ἡ)</b> <font color="purple">[ᾰμ]</font> <i>c</i>. γάγγαμον STR. <i>307</i>.`

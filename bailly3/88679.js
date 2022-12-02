@@ -1,0 +1,1 @@
+lar[88679]=`<b>ή, όν</b>, de Rhodes, STÉPHANOS (<i>Com. fr. 4, 544</i>) ; ARSTT. <i>fr. 105</i> ; STR. <i>619</i>.<p><b>Étym</b>. Ῥόδιος.`

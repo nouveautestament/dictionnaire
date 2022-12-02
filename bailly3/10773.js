@@ -1,0 +1,1 @@
+lar[10773]=`<b>ἀν·υπόστολος, ος, ον</b>, sans détour, sans sous-entendu, franc, JOS. <i>A.J. 16, 3, 1</i>.`

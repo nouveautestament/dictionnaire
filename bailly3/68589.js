@@ -1,0 +1,1 @@
+lar[68589]=`<b>νή·ποινος, ος, ον :<br>      1</b> impuni ; <i>adv</i>., νήποινον, OD. <i>1, 160, 377, 18, 297, etc</i>. impunément.<br><b>      2</b> qui ne punit pas, <i>càd</i>. non vengé, OD. <i>1, 245, 380</i>.<br><b>      3</b> privé de, <i>gén</i>. PD. <i>P. 9, 60</i>.<p><b>Étym</b>. νη-, ποινή.`

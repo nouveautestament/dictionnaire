@@ -1,0 +1,1 @@
+lar[93228]=`<b>συγ·καθαρμόζω</b> <font color="purple">[κᾰ]</font><br><b>      1</b> ensevelir, SOPH. <i>Aj. 922</i>.<br><b>      2</b> aider à soigner les plaies d’un mort, EUR. <i>El. 1228</i>.`

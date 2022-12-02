@@ -1,0 +1,1 @@
+lar[77205]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> dérivé d’un nom <i>ou</i> d’un mot semblable, PLAT. <i>Leg. 757d ;</i> τὸ παρωνύμιον, mot provenant d’un dérivé, PLAT. <i>Soph. 268c, etc. ; ou</i> surnom, PLUT. <i>Num. 21</i>.<p><b>Étym</b>. παρώνυμος.`

@@ -1,0 +1,1 @@
+lar[49146]=`<b>ἰό·πλοκος, ος, ον</b>, aux couronnes <i>ou</i> aux guirlandes de violette, ALC. <i>54</i> ; ANTH. <i>9, 524</i>.<p><b>Étym</b>. ἴον, πλέκω.`

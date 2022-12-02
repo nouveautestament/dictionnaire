@@ -1,0 +1,1 @@
+lar[15912]=`<i>adv</i>., inconsidérément, sans réflexion, THC. <i>6, 21</i> ; PLAT. <i>Charm. 158e</i>.<p>•<i> Cp</i>. -ότερον, ARSTT. <i>Pol. 2, 12</i> ; PLUT. <i>Demetr. 1</i>.`

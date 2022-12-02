@@ -1,0 +1,1 @@
+lar[76378]=`<b>πάρ·αυλος, ος, ον</b>, qui n’est pas d’accord avec la flûte, discordant, POÈT. (ATH. <i>164f</i>).<p><b>Étym</b>. π. αὐλός.`

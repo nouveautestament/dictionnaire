@@ -1,0 +1,1 @@
+lar[63138]=`<b>ματαιο·λόγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui tient de vains <i>ou</i> de sots discours, TÉLEST. <i>1, 11</i> ; NT. <i>Tit. 1, 10</i>.<p><b>Étym</b>. μάταιος, λέγω.`

@@ -1,0 +1,1 @@
+lar[53611]=`<b>κατα·φαιδρύνω</b>, rendre brillant, illuminer, NAZ. <i>2, 770 ; fig. au pass</i>. CHRYS. <i>5, 820</i>.`

@@ -1,0 +1,1 @@
+lar[53114]=`<b>κατα·πλύνω :<br>      1</b> laver en versant sur, AR. <i>fr. 546 ; au pass</i>. TH. <i>C.P. 3, 24, 3</i> ; ὕδατι τὴν κεφαλήν, XÉN. <i>Eq. 5, 6,</i> laver la tête en l’arrosant d’eau.<br><b>      2</b> enlever en lavant, nettoyer, <i>au pass. fig</i>. ESCHN. <i>79, 19</i>.`

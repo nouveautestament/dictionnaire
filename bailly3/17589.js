@@ -1,0 +1,1 @@
+lar[17589]=`<b>αὐτο·μαχεί</b> <font color="purple">[ᾰ]</font> <i>adv</i>., en combattant pour soi-même, DC. <i>Exc. p. 161 Mai</i>.`

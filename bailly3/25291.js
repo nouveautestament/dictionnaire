@@ -1,0 +1,1 @@
+lar[25291]=`<b>δια·πληρόω-ῶ</b>, remplir complètement, EN. TACT. <i>Pol. 16</i>.`

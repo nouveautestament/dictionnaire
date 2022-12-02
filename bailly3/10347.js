@@ -1,0 +1,1 @@
+lar[10347]=`<b>ἀντι·πρόσωπος, ος, ον</b>, opposé face à face, visage contre visage, XÉN. <i>Cyr. 7, 1, 25</i> ; PLUT. <i>Arat. 32, etc</i>.<p><b>Étym</b>. ἀ. πρόσωπον.`

@@ -1,0 +1,1 @@
+lar[91044]=`<b>σκληρ·όστρακος, ος, ον</b> <font color="purple">[ᾰ]</font> à écaille dure, ARSTT. <i>H.A. 4, 4, 9</i>.<p><b>Étym</b>. σκλ. ὄστρακον.`

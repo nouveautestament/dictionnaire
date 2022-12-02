@@ -1,0 +1,1 @@
+lar[91296]=`<b>ης, ες</b> <font color="purple">[ῠᾰ]</font> qui ressemble à un jeune chien ; τὸ σκυλακῶδες, XÉN. <i>Cyr. 1, 4, 4,</i> caractère caressant d’un jeune chien.<p><b>Étym</b>. σκύλαξ, -ωδης.`

@@ -1,0 +1,1 @@
+lar[83850]=`<b>ας (ἡ)</b> grand-mère, aïeule, LYC. <i>183</i>.<p><b>Étym</b>. <i>fém. de</i> προγεννήτωρ.`

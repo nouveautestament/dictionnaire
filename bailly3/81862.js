@@ -1,0 +1,1 @@
+lar[81862]=`<b>πολύ·δρυμος, ος, ον</b> <font color="purple">[ῡμ]</font> aux nombreuses forêts, RHIAN. (E. BYZ. <i>v°</i> Μελαιναί).<p><b>Étym</b>. π. δρυμός.`

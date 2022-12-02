@@ -1,0 +1,1 @@
+lar[98251]=`<b>ου (τὸ)</b> bureau de publicain, POSIDIPP. (POLL. <i>9, 28</i>) ; NT. <i>Matth. 9, 9 ; Marc. 2, 14</i>.<p><b>Étym</b>. τελώνης.`

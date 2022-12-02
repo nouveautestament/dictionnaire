@@ -1,0 +1,1 @@
+lar[96695]=`<i>adv</i>., sur le même rang, de même classe, de même sorte, ARSTT. <i>Sens. 7, 14</i>.`

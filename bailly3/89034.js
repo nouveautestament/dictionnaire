@@ -1,0 +1,1 @@
+lar[89034]=`<i>pl. neutre de l’adj</i>. σόος.`

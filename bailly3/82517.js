@@ -1,0 +1,1 @@
+lar[82517]=`<b>πολυ·φλέγματος, ος, ον</b> <font color="purple">[ᾰ]</font> très sujet aux pituites, PROCL. <i>Ptol. p. 214</i> ; ANTYLL. (ORIB. <i>92 Matthäi).</i><p><b>Étym</b>. π. φλέγμα.`

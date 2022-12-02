@@ -1,0 +1,1 @@
+lar[17706]=`<b>αὐτο·σφαγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui s’égorge lui-même <i>ou</i> qui meurt égorgé par un des siens, SOPH. <i>Aj. 841</i> ; EUR. <i>Ph. 1316</i>.<p><b>Étym</b>. αὐ. σφάζω.`

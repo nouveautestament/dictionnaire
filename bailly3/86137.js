@@ -1,0 +1,1 @@
+lar[86137]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> προσμηχανάομαι ORIB. <i>136 Matthäi</i>.`

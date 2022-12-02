@@ -1,0 +1,1 @@
+lar[85755]=`<b>προσ·επιχαρίζομαι</b> <font color="purple">[ᾰ]</font> faire preuve en outre de bonne volonté, accorder en outre, XÉN. <i>Hipp. 3, 2</i>.`

@@ -1,0 +1,1 @@
+lar[42317]=`<b>εὐθύ·τρυπος, ος, ον</b> <font color="purple">[ῠπ]</font> <i>c</i>. εὐθύτρητος, DÉMOCR. (TH. <i>Sens. § 73 conj</i>.).`

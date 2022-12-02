@@ -1,0 +1,1 @@
+lar[61936]=`<b>α, ον</b> <font color="purple">[ῠ]</font> du Lykôrée, <i>ép. d’Apollon,</i> A.RH. <i>4, 1490 ; d’où</i> Λυκωρείη κιθάρη, A. PL. <i>279, 4,</i> lyre d’Apollon.<p><b>Étym</b>. Λυκωρεύς.`

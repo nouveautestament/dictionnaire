@@ -1,0 +1,1 @@
+lar[4255]=`<b>ἀλεξι·βέλεμνος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui protège contre les traits, ANTH. <i>6, 81</i>.<p><b>Étym</b>. ἀλέξω, βέλεμνον.`

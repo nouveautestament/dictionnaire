@@ -1,0 +1,1 @@
+lar[35608]=`<b>ἐξ·αρμόττω</b>, <i>réc</i>. <b>ἐξ·αρμόζω</b> (<i>pf. pass. 3 sg</i>. ἐξήρμοσται) :<br><b>      1</b> désunir, <i>acc</i>. PHILSTR. <i>815</i>.<br><b>      2</b> ajuster exactement, JOS. <i>A.J. 8, 3, 6</i>.`

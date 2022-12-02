@@ -1,0 +1,1 @@
+lar[56509]=`<b>εως (ἡ)</b> action de mettre en commun, communauté, PLAT. <i>Pol. 310b</i>.<p><b>Étym</b>. κοινωνέω.`

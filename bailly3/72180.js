@@ -1,0 +1,1 @@
+lar[72180]=`<b>ὀξυ·τόκιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>s.-e</i>. φάρμακον, moyen pour faciliter un accouchement, DIOSC. <i>2, 194</i>.<p><b>Étym</b>. ὀ. τίκτω.`

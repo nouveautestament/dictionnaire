@@ -1,0 +1,1 @@
+lar[89167]=`<b>ος, ον</b> <font color="purple">[ᾰλᾰ]</font> de salamandre, NIC. <i>Th. 819</i>.<p><b>Étym</b>. σαλαμάνδρα.`

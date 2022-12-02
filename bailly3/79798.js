@@ -1,0 +1,1 @@
+lar[79798]=`<i>adv.</i> :<br><b>      1</b> en langue persane, HDT. <i>9, 110</i> ; XÉN. <i>An. 4, 5, 10</i> ; PLUT. <i>Artax. 11, etc.</i><br><b>      2</b> à la façon des Perses, ARSTD. <i>50, 414</i>.<p><b>Étym</b>. περσίζω.`

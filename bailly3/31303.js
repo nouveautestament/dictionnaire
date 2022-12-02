@@ -1,0 +1,1 @@
+lar[31303]=`<b>ἐκ·θερμαίνω :<br>      1</b> échauffer fortement, TH. <i>C.P. 1, 3, 4</i> ; PLUT. <i>M. 652b, etc.</i><br><b>      2</b> détruire par le feu, PLUT. <i>M. 48c, ou</i> faire évaporer par la chaleur, ARSTT. <i>Probl. 2, 35</i>.<p><b>Étym</b>. ἐκ, θερμαίνω.`

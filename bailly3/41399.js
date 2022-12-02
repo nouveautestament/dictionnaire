@@ -1,0 +1,1 @@
+lar[41399]=`<b>ἑτερό·χηλος, ος, ον</b>, qui a un sabot plus court que l’autre, boiteux, HIPPIATR.<p><b>Étym</b>. ἕ. χηλή.`

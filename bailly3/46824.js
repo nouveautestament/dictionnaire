@@ -1,0 +1,1 @@
+lar[46824]=`<b>ή, όν</b>, qui concerne la magie <i>ou</i> les magiciens, théurgique, JAMBL. <i>Myst. 7, 4, etc</i>.<p><b>Étym</b>. θεουργός.`

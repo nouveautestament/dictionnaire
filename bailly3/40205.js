@@ -1,0 +1,1 @@
+lar[40205]=`<b>ἐργοδιωκτέω-ῶ</b>, presser des travaux, SPT. <i>2Par. 8, 10</i>.<p><b>Étym</b>. ἐργοδιώκτης.`

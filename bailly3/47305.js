@@ -1,0 +1,1 @@
+lar[47305]=`<i>adv</i>., d’une manière bestiale <i>ou</i> sauvage, ISOCR. <i>226c</i>.<p><b>Étym</b>. θηριώδης.`

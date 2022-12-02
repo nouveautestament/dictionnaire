@@ -1,0 +1,1 @@
+lar[96981]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> incision, TH. <i>H.P. 4, 2, 8 ; particul</i>. incision d’une veine, saignée, ARÉT. <i>Cur. m. acut. 1, 10 ; 2, 3</i>.<br><b>      2</b> action de lâcher, de laisser tomber, PHIL. BYZ. <i>Bel</i>.<p><b>Étym</b>. σχάζω.`

@@ -1,0 +1,1 @@
+lar[107632]=`<b>ή, όν</b> <font color="purple">[κῐ]</font> <i>c</i>. Χαλκιδικός, LESBON. GR. <i>4</i>.`

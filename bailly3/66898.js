@@ -1,0 +1,1 @@
+lar[66898]=`<b>ος, ον :<br>      1</b> des Muses, PD. <i>I. 8, 133</i> ; EUR. <i>Bacch. 408</i>.<br><b>      2</b> musical, ANTH. <i>9, 372</i>.<p><b>Étym</b>. μοῦσα.`

@@ -1,0 +1,1 @@
+lar[45397]=`<b>ἡμι·γέρων, οντος</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. à moitié vieillard, LGS <i>3, 31</i>.<p><b>Étym</b>. ἡμι-, γ.`

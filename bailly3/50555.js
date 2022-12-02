@@ -1,0 +1,1 @@
+lar[50555]=`<b>καινο·πηγής, ής, ές</b>, nouvellement fabriqué, ESCHL. <i>Sept. 642</i>.<p><b>Étym</b>. κ. πήγνυμι.`

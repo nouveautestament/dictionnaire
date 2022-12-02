@@ -1,0 +1,1 @@
+lar[65022]=`<b>μετα·φημίζω</b>, appeler d’un autre nom, MAN. <i>2, 136</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. 3 pl</i>. μετεφημίξαντο)</font> <i>m. sign</i>. RHIAN. (SCH.-A.RH. <i>3, 1089</i>).`

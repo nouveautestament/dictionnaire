@@ -1,0 +1,1 @@
+lar[36961]=`<b>ἐπεί·περ</b> <i>ou</i> <b>ἐπεί περ</b> (<i>dans Homère toujours séparé par un mot,</i> ἐπεὶ σύ περ, IL. <i>13, 447</i> ; OD. <i>20, 181) conj. avec l’ind</i>. puisqu’enfin, puisqu’en vérité, ESCHL. <i>Ag. 822, 854</i> ; SOPH. <i>O.R. 1003, O.C. 75</i>.`

@@ -1,0 +1,1 @@
+lar[10928]=`<b>ἀξιό·μισος, ος, ον</b> <font color="purple">[μῑ]</font> <i>c</i>. ἀξιομισής, ESCHL. <i>Eum. 366</i>.`

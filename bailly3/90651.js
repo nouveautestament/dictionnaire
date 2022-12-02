@@ -1,0 +1,1 @@
+lar[90651]=`<b>οῦ (ὁ)</b> <font color="purple">[δᾰ]</font> action de causer du scandale, ORIG. <i>4, 753</i> ; BAS. <i>3, 533 ; 4, 968 Migne</i>.<p><b>Étym</b>. σκανδαλίζω.`

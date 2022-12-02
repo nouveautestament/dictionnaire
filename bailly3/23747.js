@@ -1,0 +1,1 @@
+lar[23747]=`<b>δεκ·έμβολος, ος, ον</b>, armé de dix éperons (navire), ESCHL. <i>fr. 136</i>.<p><b>Étym</b>. δέκα, ἔμβολον.`

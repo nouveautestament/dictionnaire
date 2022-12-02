@@ -1,0 +1,1 @@
+lar[77872]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> pâtissier, LUC. <i>Cron. 13</i>.<p><b>Étym</b>. π. ἔργον.`

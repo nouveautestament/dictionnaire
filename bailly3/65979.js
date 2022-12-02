@@ -1,0 +1,1 @@
+lar[65979]=`<b>ή, όν</b> <font color="purple">[μῑ]</font> haineux, ARR. <i>Epict. 1, 18, 10</i> ; ORIG. <i>c. Cels. 4, p. 495</i>.<p><b>Étym</b>. μισέω.`

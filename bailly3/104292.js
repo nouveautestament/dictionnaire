@@ -1,0 +1,1 @@
+lar[104292]=`<b>Ὕσ·πορος, ου (ὁ)</b> Hysporos, <i>litt</i>. « passage pour les porcs, guéable même aux porcs », <i>fl. de l’Inde,</i> NONN. <i>D. 26, 168</i>.`

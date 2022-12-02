@@ -1,0 +1,1 @@
+lar[17051]=`<b>ἄ·τυπος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui ne se rapporte à aucun type, sans caractère propre (mal) GAL. <i>7, 471</i>.<br><b>      2</b> qui articule mal, A. GELL. <i>4, 2 (lat</i>. atypus).<p><b>Étym</b>. ἀ, τύπος.`

@@ -1,0 +1,1 @@
+lar[7401]=`<b>ἀνα·πλημμύρω</b> <font color="purple">[ῡ]</font> faire déborder, Q. SM. <i>14, 635</i>.`

@@ -1,0 +1,1 @@
+lar[35338]=`<b>ἐξ·αίφνης</b>, <i>adv</i>., tout à coup, subitement, IL. <i>17, 738, etc.</i> ; PD. <i>O. 9, 56</i> ; ESCHL. <i>Pr. 1077</i> ; SOPH. <i>O.C. 1610 ; avec un part</i>. ἄν τι δόξειεν ἀκούσαντι ἐξαίφνης, PLAT. <i>Crat. 396b</i>, il en jugerait ainsi aussitôt après avoir entendu.<p><b>Étym</b>. <i>pré-grec, cf</i>. ἐξαπίνης.`

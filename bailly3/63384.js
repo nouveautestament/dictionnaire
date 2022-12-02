@@ -1,0 +1,1 @@
+lar[63384]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font> ensemble formé de parties grandes, <i>d’où</i> grandeur, ampleur, ARSTT. <i>Metaph. 1, 8, 4</i> ; TH. <i>Ign. 45</i>.<p><b>Étym</b>. μεγαλομερής.`

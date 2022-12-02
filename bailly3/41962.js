@@ -1,0 +1,1 @@
+lar[41962]=`<b>εὐεκτέω-ῶ</b>, se bien porter, être fort, vigoureux, GAL. <i>6, 775, etc.</i> ; CÉB. <i>p. 76 ; en parl. d’arbres,</i> PLUT. <i>M. 919c</i>.<p><b>Étym</b>. εὔεκτος.`

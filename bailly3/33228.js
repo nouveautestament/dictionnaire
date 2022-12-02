@@ -1,0 +1,1 @@
+lar[33228]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec fureur, DC. <i>65, 16</i>.<p><b>Étym</b>. ἐμμανής.`

@@ -1,0 +1,1 @@
+lar[72269]=`<b>ὀπισθο·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> lourd <i>ou</i> chargé par derrière, PLOT. <i>Enn. 2, 1394</i>.<p><b>Étym</b>. ὄπισθε, βάρος.`

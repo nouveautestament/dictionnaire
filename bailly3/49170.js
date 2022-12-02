@@ -1,0 +1,1 @@
+lar[49170]=`<b>ας (ἡ)</b> = <i>lat</i>. Julia, <i>n. de f. rom</i>. PLUT. <i>Ant. 2, etc</i>.`

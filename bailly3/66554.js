@@ -1,0 +1,1 @@
+lar[66554]=`<b>μονό·κλαυτος, ος, ον</b>, qui pleure <i>ou</i> gémit seul, ESCHL. <i>Sept. 1064</i>.<p><b>Étym</b>. μ. κλαίω.`

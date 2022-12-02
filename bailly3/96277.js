@@ -1,0 +1,1 @@
+lar[96277]=`<b>συν·ταργανόω-ῶ</b> <font color="purple">[γᾰ]</font> entrelacer, embrouiller, LYC. <i>1101</i>.`

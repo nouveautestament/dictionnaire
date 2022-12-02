@@ -1,0 +1,1 @@
+lar[96374]=`<b>συν·τριήραρχος, ου (ὁ)</b> qui contribue à l’armement d’une trirème, DÉM. <i>566, 24 ; 1145, 23</i>.<p><b>Étym</b>. σύν, τριήραρχος.`

@@ -1,0 +1,1 @@
+lar[41508]=`<b>εὐ·άγλις, ιθος</b> <font color="purple">[ῑς, ῑθ]</font> <i>adj. f</i>. aux gousses nombreuses <i>ou</i> belles, NIC. <i>Al. 432</i>.<p><b>Étym</b>. εὖ, ἀγλίς.`

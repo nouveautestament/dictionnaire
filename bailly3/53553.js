@@ -1,0 +1,1 @@
+lar[53553]=`<b>κατα·τεχνολογέω-ῶ</b>, traiter avec art, NAZ.`

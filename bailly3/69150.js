@@ -1,0 +1,1 @@
+lar[69150]=`<b>νυκτί·πλοια, ας (ἡ)</b> navigation nocturne, STR. <i>757</i>.<p><b>Étym</b>. ν. πλόος.`

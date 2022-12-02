@@ -1,0 +1,1 @@
+lar[81649]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en beaucoup d’endroits, XÉN. <i>Cyr. 7, 1, 30</i> ; PLUT. <i>Pomp. 24</i>.<p><b>Étym</b>. *πολλαχός, -θι.`

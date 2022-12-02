@@ -1,0 +1,1 @@
+lar[74581]=`<b>παλιν·οδία, ας (ἡ)</b> <font color="purple">[ᾰῐν]</font> passage d’une série à une autre, <i>en parl. des nombres,</i> THEOL. <i>p. 59</i>.<p><b>Étym</b>. π. ὁδός.`

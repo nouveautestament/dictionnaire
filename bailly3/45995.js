@@ -1,0 +1,1 @@
+lar[45995]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec calme, tranquillement, HH. <i>Merc. 438</i> ; PLAT. <i>Theæt. 179e</i>.<p><b>Étym</b>. ἡσύχιος.`

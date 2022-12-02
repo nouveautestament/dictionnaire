@@ -1,0 +1,1 @@
+lar[1979]=`<i>adv</i>., sans loi, sans règle, PHAËNNIS (PAUS. <i>10, 15, 3</i>).`

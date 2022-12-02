@@ -1,0 +1,1 @@
+lar[43502]=`<b>εὔ·στυλος, ος, ον</b> <font color="purple">[ῡ]</font><br><b>      1</b> aux belles colonnes, EUR. <i>I.T. 128</i>.<br><b>      2</b> dont les colonnes sont à intervalles réguliers, VITR. <i>3, 2, 1</i>.<p><b>Étym</b>. εὖ, στῦλος.`

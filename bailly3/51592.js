@@ -1,0 +1,1 @@
+lar[51592]=`<b>ου (ὁ)</b> sorte de farine, <i>c</i>. ἄλφιτον, PHÉRÉCR. (PHOT. <i>130, 19 ; 131, 1</i>).`

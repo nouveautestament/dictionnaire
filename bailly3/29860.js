@@ -1,0 +1,1 @@
+lar[29860]=`(<i>seul. prés</i>.) veiller, IL. <i>11, 551 ; 17, 660</i> ; OD. <i>20, 33 et 53</i> ; OPP. <i>C. 3, 514</i> ; A.RH. <i>2, 308</i> ; ARÉT. <i>Cur. m. acut. 75</i>.<p><b>Étym</b>. ἐγρήγορα.`

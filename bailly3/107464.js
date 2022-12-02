@@ -1,0 +1,1 @@
+lar[107464]=`<b>Χαιρέ·λεως (ὁ)</b> Khæréléôs, <i>un des trente tyrans,</i> XÉN. <i>Hell. 2, 3, 2, etc</i>.<p><b>Étym</b>. χ. λεώς.`

@@ -1,0 +1,1 @@
+lar[76349]=`<b>παρα·τρέω</b> <font color="darkgreen">(<i>ao. épq</i>. παρέτρεσσα)</font> se jeter de côté en tremblant, s’enfuir en tremblant, IL. <i>5, 295</i>.`

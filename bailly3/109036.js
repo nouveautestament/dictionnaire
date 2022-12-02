@@ -1,0 +1,1 @@
+lar[109036]=`<b>χριστομαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre contre le Christ, NYSS.<p><b>Étym</b>. χριστομάχος.`

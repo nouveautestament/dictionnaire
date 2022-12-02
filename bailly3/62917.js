@@ -1,0 +1,1 @@
+lar[62917]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. μαργότης ANACR. <i>87</i> ; THGN. <i>1271</i> ; A.RH. <i>3, 797 ; 4, 375 et 1019</i> ; ANTH. <i>9, 367</i>.`

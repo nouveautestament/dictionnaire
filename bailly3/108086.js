@@ -1,0 +1,1 @@
+lar[108086]=`<i>adv</i>., à la suite de l’orage, ARAT. <i>995</i>.<p><b>Étym</b>. χειμών, -θεν.`

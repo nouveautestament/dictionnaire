@@ -1,0 +1,1 @@
+lar[110501]=`<i>ou</i> <b>ὡς</b>, <i>adv. de lieu dor. c</i>. οὗ, où, THCR. <i>Idyl. 1, 13 ; 5, 101, etc</i>.`

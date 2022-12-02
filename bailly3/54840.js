@@ -1,0 +1,1 @@
+lar[54840]=`<b>ατος (τὸ) :<br>      1</b> mélange, JAMBL. <i>V. Pyth. p. 132</i>.<br><b>      2</b> mélange pour tempérer la force d’un liquide, SPT. <i>Esaï. 65, 10</i> ; THÉODOT. <i>Prov. 23, 30</i>.<p><b>Étym</b>. κεράννυμι.`

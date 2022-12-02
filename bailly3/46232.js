@@ -1,0 +1,1 @@
+lar[46232]=`<b>ου (ὁ)</b> Thalpios, <i>chef des Épéens devant Troie,</i> IL. <i>2, 620</i>.`

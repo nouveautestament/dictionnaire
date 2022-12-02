@@ -1,0 +1,1 @@
+lar[30947]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> d’Hékalè (Zeus) PLUT. <i>Thes. 14</i>.<p><b>Étym</b>. Ἑκάλη, <i>cf</i>. Ἑκαλήσιον.`

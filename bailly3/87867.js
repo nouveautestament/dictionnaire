@@ -1,0 +1,1 @@
+lar[87867]=`<b>πυρι·έφθης, ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. πυριάτη, PHILIPPID. (ATH. <i>658d</i>).<p><b>Étym</b>. <i>v</i>. πυρίεφθος.`

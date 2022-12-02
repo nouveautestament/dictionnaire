@@ -1,0 +1,1 @@
+lar[65896]=`(<i>seul. ao</i>. ἐμινύθισα) <font color="purple">[ῐῠ]</font> diminuer, amoindrir, HPC. <i>424, 41</i>.<p><b>Étym</b>. μινύθω.`

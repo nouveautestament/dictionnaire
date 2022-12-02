@@ -1,0 +1,1 @@
+lar[90957]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> lieu où l’on joue aux dés, maison de jeu, tripot, ISOCR. <i>149c, Antid. § 306,</i> LUC. <i>Lex. 10</i>.<p><b>Étym</b>. σκίραφος.`

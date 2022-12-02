@@ -1,0 +1,1 @@
+lar[62948]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> menu charbon, braise, HPC. <i>648, 55</i> ; AR. <i>Ach. 350</i> ; THÉM. <i>245a ;</i> JUL. <i>233a, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

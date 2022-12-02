@@ -1,0 +1,1 @@
+lar[69055]=`<b>οῦ (ὁ)</b> avertissement, admonition, MÉN. (POLL. <i>9, 139, conj</i>. *νουθετισμός).<p><b>Étym</b>. νουθετέω.`

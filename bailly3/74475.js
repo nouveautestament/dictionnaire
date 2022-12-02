@@ -1,0 +1,1 @@
+lar[74475]=`<b>ου (τὸ)</b> <font color="purple">[ᾰλ]</font> <i>c</i>. παλάθιον, AR. <i>Pax 574</i>.`

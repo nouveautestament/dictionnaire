@@ -1,0 +1,1 @@
+lar[45229]=`<b>ἡλιο·κάνθαρος, ου (ὁ)</b> <font color="purple">[θᾰ]</font> escarbot consacré au soleil, <i>chez les Égyptiens,</i> A. TR.<p><b>Étym</b>. ἥ. κάνθαρος.`

@@ -1,0 +1,1 @@
+lar[88642]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. ῥῖψις, LYC. <i>235, 1326</i>.`

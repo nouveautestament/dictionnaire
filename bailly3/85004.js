@@ -1,0 +1,1 @@
+lar[85004]=`<b>εως (ἡ)</b> action de boire à la santé de qqn, santé qu’on porte <i>ou</i> qu’on accepte, <i>d’ord. au plur</i>. POL. <i>31, 4, 6</i> ; ATH. <i>432d ;</i> ANTH. <i>5, 134, etc.</i> ; δεξιοῦσθαι ἀλλήλους ταῖς πρ. JOS. <i>A.J. 6, 14, 6,</i> se faire accueil mutuellement en trinquant.<p><b>Étym</b>. προπίνω.`

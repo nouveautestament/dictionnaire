@@ -1,0 +1,1 @@
+lar[12848]=`<b>ἀπο·μαδάω-ῶ</b> <font color="purple">[μᾰ]</font> tomber, <i>en parl. des cheveux,</i> ARSTT. <i>Mir. 78</i>.`

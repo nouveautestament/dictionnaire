@@ -1,0 +1,1 @@
+lar[64155]=`<b>μελλέ·πταρμος, ος, ον</b>, qui veut éternuer, ARSTT. <i>Probl. 31, 7</i>.<p><b>Étym</b>. μέλλω, πταίρω.`

@@ -1,0 +1,1 @@
+lar[91132]=`<b>ου (ὁ)</b> Skopiadès, <i>litt</i>. « l’espion » <i>n. d’h. fictif,</i> ALCIPHR. <i>3, 32</i>.<p><b>Étym</b>. σκοπός.`

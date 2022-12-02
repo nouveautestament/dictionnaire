@@ -1,0 +1,1 @@
+lar[1207]=`<b>ἀδειμάντως</b>, <i>adv</i>., sans crainte, ESCHL. <i>Ch. 771</i>.`

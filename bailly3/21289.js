@@ -1,0 +1,1 @@
+lar[21289]=`<b>γαλλο·μανής, ής, ές</b> <font color="purple">[μᾰ]</font> agité d’un transport furieux, comme les prêtres de Cybèle, MAN. <i>4, 221</i>.<p><b>Étym</b>. Γάλλος, μαίνομαι.`

@@ -1,0 +1,1 @@
+lar[105927]=`<b>φιλο·μεῖραξ, ακος (ὁ)</b> <font color="purple">[ῐᾰκ]</font> qui aime les garçons, ATH. <i>603e ;</i> PAUS. <i>6, 23, 6</i>.<p><b>Étym</b>. φ. μεῖραξ.`

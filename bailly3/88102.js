@@ -1,0 +1,1 @@
+lar[88102]=`<b>ου (τὸ)</b> jeune poulain, AR. <i>Vesp. 189, Pax 75</i> ; AND. <i>9, 5</i> ; ARSTT. <i>G.A. 2, 8, 15</i>.<p><b>Étym</b>. πῶλος.`

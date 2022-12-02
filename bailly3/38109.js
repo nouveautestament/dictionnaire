@@ -1,0 +1,1 @@
+lar[38109]=`<b>ἐπι·κομπάζω :<br>      1</b> ajouter pour se vanter : τι, EUR. <i>H.f. 981,</i> qqe ch. ; τί τινι, PLUT. <i>Cam. 22,</i> une chose à une autre.<br><b>      2</b> se vanter au sujet de, <i>dat</i>. CALL. <i>Dian. 263</i>.`

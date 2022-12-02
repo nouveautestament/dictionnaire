@@ -1,0 +1,1 @@
+lar[81036]=`<b>ητος (ἡ)</b> proximité, voisinage, DYSC. <i>Adv. p. 571, 28 (Bkk</i>.).<p><b>Étym</b>. πλησίος.`

@@ -1,0 +1,1 @@
+lar[31956]=`<b>ἐκ·προρέω</b>, <i>p</i>. *ἐκπρορρέω, couler en avant hors de, <i>gén</i>. ANTH. <i>9, 669</i> ; ORPH. <i>Lith. 201</i>.`

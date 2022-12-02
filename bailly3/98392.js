@@ -1,0 +1,1 @@
+lar[98392]=`<b>έως (ὁ)</b> protecteur des frontières, <i>ép. de Zeus,</i> LYC. <i>706</i> ; DH. <i>1, 74</i>.<p><b>Étym</b>. τέρμα.`

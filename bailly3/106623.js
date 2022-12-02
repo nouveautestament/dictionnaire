@@ -1,0 +1,1 @@
+lar[106623]=`<b>ης, ες</b>, dartreux, HPC. <i>Epid. 4, p. 430, etc</i>.<p><b>Étym</b>. φόλλιξ, -ωδης.`

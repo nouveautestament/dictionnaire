@@ -1,0 +1,1 @@
+lar[101466]=`<b>ὑδατο·πλήξ, ῆγος (ὁ, ἡ)</b> <font color="purple">[ῡᾰ]</font> battu par l’eau, OPP. <i>C. 2, 142</i>.<p><b>Étym</b>. ὕδ. πλήσσω.`

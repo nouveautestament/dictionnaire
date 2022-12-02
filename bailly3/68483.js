@@ -1,0 +1,1 @@
+lar[68483]=`<b>άδος (ἡ)</b> <i>sorte d’animal fabuleux, dans l’î. de Samos,</i> EL. <i>N.A. 17, 28</i>.`

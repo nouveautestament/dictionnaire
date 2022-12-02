@@ -1,0 +1,1 @@
+lar[30898]=`<b>εἰσ·τρέπομαι</b>, <i>ion. et anc. att</i>. <b>ἐσ·τρέπομαι</b> (<i>seul. prés</i>. -εται) se tourner en dedans, <i>p. opp. à</i> ἐκτρέπεσθαι, ARSTT. <i>H.A. 9, 37, 8</i>.`

@@ -1,0 +1,1 @@
+lar[10494]=`<b>ἀντι·τέρπω</b>, réjouir à son tour <i>ou</i> en retour, PLUT. <i>M. 334a</i>.`

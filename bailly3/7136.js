@@ -1,0 +1,1 @@
+lar[7136]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἀναλυτήρ MAGN. <i>fr. 4</i>.`

@@ -1,0 +1,1 @@
+lar[28798]=`<b>δυσ·περιγένητος, ος, ον</b> <font color="purple">[ῐ]</font> difficile à surmonter, PHIL. <i>1, 621</i>.<p><b>Étym</b>. δ. περιγίγνομαι.`

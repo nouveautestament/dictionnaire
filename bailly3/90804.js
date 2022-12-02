@@ -1,0 +1,1 @@
+lar[90804]=`<b>οῦ (ὁ, ἡ)</b> qui fabrique des meubles, <i>particul</i>. des costumes <i>ou</i> objets de théâtre, AR. <i>Eq. 232</i> ; ARSTT. <i>Poet. 6, 28</i> ; PLUT. <i>M. 1123c ;</i> ATH. <i>621e</i>.<p><b>Étym</b>. σκεῦος, ποιέω.`

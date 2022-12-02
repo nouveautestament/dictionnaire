@@ -1,0 +1,1 @@
+lar[16997]=`<font color="purple">[αῡ]</font> <i>adv</i>., sans se lasser, ORPH. <i>fr. 33</i> ; JOS. <i>A.J. 11, 5, 8</i> ; JUL. <i>Or. 7, 226c, etc</i>.`

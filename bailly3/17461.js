@@ -1,0 +1,1 @@
+lar[17461]=`<b>αὐτο·δύναμις, εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> pouvoir absolu, ORIG.`

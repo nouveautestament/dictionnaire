@@ -1,0 +1,1 @@
+lar[77791]=`<b>ή, όν</b>, livide, HPC. <i>Aph. 1251</i> ; SOPH. <i>fr. 577 Dind., etc.</i> (<i>var</i>. πελιτνός).<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *peli-, pâle, gris ; <i>cf</i>. πελιός, πελλός, πέλεια, πολιός.`

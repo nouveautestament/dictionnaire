@@ -1,0 +1,1 @@
+lar[94988]=`<b>συν·ασμενίζω</b>, se réjouir ensemble <i>ou</i> avec, EM. <i>155, 25</i>.`

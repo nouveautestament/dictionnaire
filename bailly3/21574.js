@@ -1,0 +1,1 @@
+lar[21574]=`<b>ή, όν</b>, risible, plaisant, OD. <i>8, 307</i> ; BABR. <i>45, 12</i>.<p><b>Étym</b>. γελάω.`

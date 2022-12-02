@@ -1,0 +1,1 @@
+lar[4441]=`<b>ἁλι·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> dont la teinte ressemble à celle de la mer, NUMÉN. (ATH. <i>305c</i>).<p><b>Étym</b>. ἅλς, εἶδος.`

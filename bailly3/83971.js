@@ -1,0 +1,1 @@
+lar[83971]=`<b>προ·διηγέομαι-οῦμαι</b>, exposer auparavant, HDT. <i>4, 145</i> ; DÉM. <i>1345, 10</i>.<p>➳ <i>Pf. au sens pass</i>. HPC. <i>Aër. 289</i>.`

@@ -1,0 +1,1 @@
+lar[67788]=`<b>Ναυσί·θοος, ου (ὁ)</b> Nausithoos :<br><b>      1</b> <i>fils de Poséidon et roi des Phéaciens,</i> OD. <i>6, 7 ; 7, 56, 62, etc.</i><br><b>      2</b> <i>fils d’Ulysse,</i> HÉS. <i>Th. 1016</i>.<br><b>      3</b> <i>héros athénien,</i> PLUT. <i>Thes. 17</i>.<p><b>Étym</b>. ν. θέω.`

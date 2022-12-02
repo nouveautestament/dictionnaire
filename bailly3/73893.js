@@ -1,0 +1,1 @@
+lar[73893]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> dérivation par un conduit, PLAT. <i>Leg. 844a</i>.<p><b>Étym</b>. ὀχετός, ἀγωγός.`

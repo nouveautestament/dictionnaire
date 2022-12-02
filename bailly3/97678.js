@@ -1,0 +1,1 @@
+lar[97678]=`<b>ά, όν</b> <font color="purple">[ᾰῑ]</font><br><b>      1</b> préparé en salaison, fumé, séché, ARR. <i>An. 4, 21</i> ; CHRYSIPP. <i>et</i> CLÉOMÈD. (ATH. <i>137e et 393c</i>).<br><b>      2</b> dont on se sert pour les salaisons : κεράμιον ταριχηρόν, ARSTT. <i>H.A. 4, 8, 21,</i> poterie pour les salaisons.<p><b>Étym</b>. τάριχος.`

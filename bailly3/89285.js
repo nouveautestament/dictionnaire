@@ -1,0 +1,1 @@
+lar[89285]=`<b>ων (οἱ)</b> habitants de Sanè, <i>dans la péninsule Athos,</i> THC. <i>5, 18, etc</i>.<p><b>Étym</b>. Σάνη.`

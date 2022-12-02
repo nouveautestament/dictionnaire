@@ -1,0 +1,1 @@
+lar[91837]=`<b>σπερμ·αγοραιο·λεκιθο·λαχανό·πωλις, ιδος (ἡ)</b> <font color="purple">[ᾰγῐᾰᾰ]</font> marchande de graines et de légumes, AR. <i>Lys. 457</i>.`

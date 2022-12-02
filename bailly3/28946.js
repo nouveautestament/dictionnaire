@@ -1,0 +1,1 @@
+lar[28946]=`<b>ου (ὁ)</b> Dystros, <i>n. du 2<sup>e</sup> mois (mois de</i> mars) <i>macédonien,</i> ANTH. <i>11, 243</i> ; JOS. <i>B.J. 4, 7, 3</i>.`

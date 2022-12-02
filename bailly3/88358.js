@@ -1,0 +1,1 @@
+lar[88358]=`<b>ης, ες</b>, qui est comme ronflant, HPC. <i>1162h</i>.<p><b>Étym</b>. ῥέγχω, -ωδης.`

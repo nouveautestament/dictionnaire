@@ -1,0 +1,1 @@
+lar[22332]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> intelligiblement, EUR. <i>El. 946 ; joint à</i> ἁπλῶς, DÉM. <i>722, 15 ; p. opp. à</i> οὐ σαφῶς, ARSTT. <i>G.A. 2, 8, 1, etc.</i><br><b>      2</b> familièrement : γν. ἔχειν τινί, DÉM. <i>1247, 14,</i> être en relations d’amitié avec qqn.`

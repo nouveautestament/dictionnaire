@@ -1,0 +1,1 @@
+lar[53231]=`<b>κατα·ρραίνω :<br>      1</b> faire couler : ὕδωρ, GEOP. <i>2, 32, 1,</i> de l’eau ; <i>au pass</i>. être répandu goutte à goutte sur, SEXT. <i>P. 1, 55</i>.<br><b>      2</b> arroser : τί τινι, DS. <i>Ecl. 2, p. 525, 59,</i> qqe ch. avec un liquide ; <i>au pass</i>. être arrosé de, <i>dat</i>. PLUT. <i>M. 914f</i>.`

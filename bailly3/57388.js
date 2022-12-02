@@ -1,0 +1,1 @@
+lar[57388]=`<b>ωνος (ὁ)</b> PLUT. <i>Flam. 18, ou</i> <b>Κουλλέων, ωνος (ὁ)</b> PLUT. <i>Pomp. 49</i> = <i>lat</i>. Culeo, <i>n. d’h. rom</i>.`

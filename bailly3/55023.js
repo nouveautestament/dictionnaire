@@ -1,0 +1,1 @@
+lar[55023]=`<b>οῦ (ἡ)</b> Kertônos, <i>v. de Mysie,</i> XÉN. <i>An. 7, 8, 7, cf</i>. Κερτόνιον.`

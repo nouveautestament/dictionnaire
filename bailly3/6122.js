@@ -1,0 +1,1 @@
+lar[6122]=`<b>ἀμφι·δρύπτω</b> (<i>seul. part. pf. pass</i>. -δεδρυμμένος) déchirer tout autour, Q. SM. <i>4, 396 dout</i>.`

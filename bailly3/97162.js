@@ -1,0 +1,1 @@
+lar[97162]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit tuyau, petit tube, P. ÉG. <i>148 Briau</i>.<p><b>Étym</b>. σωλήν.`

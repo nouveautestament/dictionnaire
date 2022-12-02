@@ -1,0 +1,1 @@
+lar[33775]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> sacrifice funèbre <i>ou</i> expiatoire, AR. <i>fr. 445a, 13</i> ; DC. <i>97, 9</i>.<p><b>Étym</b>. ἐναγίζω.`

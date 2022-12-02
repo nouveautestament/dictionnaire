@@ -1,0 +1,1 @@
+lar[20573]=`<b>ης, ες</b>, semblable à un bœuf, ADAM. <i>Physiogn. 2, 26</i>.<p><b>Étym</b>. βοῦς, -ωδης.`

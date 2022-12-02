@@ -1,0 +1,1 @@
+lar[37636]=`<b>ἐπι·διορίζω</b>, définir en outre, ARSTT. <i>Cæl. 3, 4, 7</i> ; GAL. π. κρίσ. <i>p. 116</i>.`

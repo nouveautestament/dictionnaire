@@ -1,0 +1,1 @@
+lar[11700]=`<b>ἀπ·ενεόω-εῶ</b> <font color="darkgreen">(<i>ao. pass</i>. ἀπηνεώθην)</font> rendre stupide, SPT. <i>Dan. 4, 16</i>.<p><b>Étym</b>. ἀ. ἐνεός.`

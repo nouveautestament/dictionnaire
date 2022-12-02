@@ -1,0 +1,1 @@
+lar[87154]=`<b>Πρωτ·αγόρας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Protagoras, <i>sophiste célèbre dont le nom sert de titre à un dialogue de Platon</i>.<p>➳ <i>Voc</i>. Πρωταγόρα, PLAT. <i>Prot. 316b, etc. Ion</i>. Πρωταγόρης, ANTH. <i>7, 130, etc. ; voc</i>. -η, ANTH. <i>l. c</i>.<p><b>Étym</b>. πρῶτος, ἀγορεύω.`

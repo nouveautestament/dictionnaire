@@ -1,0 +1,1 @@
+lar[23071]=`<b>ιδος (ἡ)</b> <font color="purple">[ῠ]</font> sorte de plante, DIOSC. <i>3, 5</i>.<p><b>Étym</b>. δάκτυλος.`

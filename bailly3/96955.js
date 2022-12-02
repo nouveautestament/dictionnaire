@@ -1,0 +1,1 @@
+lar[96955]=`<b>εως (ἡ)</b> <font color="purple">[ῡᾰ]</font> action d’étendre sous le marteau, TIMAR. (<i>Notices des mss. t. 9, p. 196).</i><p><b>Étym</b>. σφυρηλατέω.`

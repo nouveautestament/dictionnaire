@@ -1,0 +1,1 @@
+lar[78964]=`<b>περι·νίζω</b>, laver tout autour, HPC. <i>659, 55</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DS. <i>4, 51</i>.`

@@ -1,0 +1,1 @@
+lar[22376]=`(<i>seul. prés</i>.) arrondir, AR. <i>Th. 56, 61</i>.<p><b>Étym</b>. γογγύλος.`

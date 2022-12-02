@@ -1,0 +1,1 @@
+lar[107656]=`<b>χαλκό·δετος, ος, ον</b> : garni d’airain, d’airain, ESCHL. <i>Sept. 160, fr. 51</i> ; SOPH. <i>Ant. 945,</i> EUR. <i>Ph. 114,</i> ANTH. <i>5, 179</i>.<p><b>Étym</b>. χ. δέω.`

@@ -1,0 +1,1 @@
+lar[39104]=`<b>ιδος</b> <font color="purple">[ᾰ]</font> <i>fém. de</i> ἐπιστάτης, <i>adj. f</i>. A. QUINT. <i>2, p. 69</i>.`

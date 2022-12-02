@@ -1,0 +1,1 @@
+lar[15019]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit champ, ANTH. <i>11, 365</i>.<p><b>Étym</b>. ἄρουρα.`

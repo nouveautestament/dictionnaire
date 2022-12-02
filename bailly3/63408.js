@@ -1,0 +1,1 @@
+lar[63408]=`<b>ης (ἡ)</b> <font color="purple">[γᾰ]</font> penchant à faire de grandes choses, PLUT. <i>Alc. 6</i>.<p><b>Étym</b>. μεγαλοπράγμων.`

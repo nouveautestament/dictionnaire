@@ -1,0 +1,1 @@
+lar[8550]=`<b>ἀν·ερεύνητος, ος, ον :<br>      1</b> non exploré, PLAT. <i>Hipp. ma. 298c ;</i> ARSTT. <i>Nic. 10, 9, 22</i>.<br><b>      2</b> qu’on ne peut découvrir, EUR. <i>Ion 255</i> ; PLAT. <i>Crat. 421d</i>.<p><b>Étym</b>. ἀν-, ἐρευνάω.`

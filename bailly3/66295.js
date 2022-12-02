@@ -1,0 +1,1 @@
+lar[66295]=`<b>μοιρη·γενής, ής, ές</b>, né d’un heureux destin <i>ou</i> pour un heureux destin, IL. <i>3, 182</i>.<p><b>Étym</b>. μοίρη, γένος.`

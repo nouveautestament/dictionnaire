@@ -1,0 +1,1 @@
+lar[51289]=`<b>καλο·βάτης, ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> qui marche avec des échasses, MAN. <i>5, 146</i>.<p><b>Étym</b>. κᾶλον, βαίνω.`

@@ -1,0 +1,1 @@
+lar[87452]=`<b>ας (ἡ)</b> Ptykhia (<i>auj</i>. Víđo <i>ou</i> Ptychía) <i>î. près de Kerkya,</i> THC. <i>4, 46</i>.`

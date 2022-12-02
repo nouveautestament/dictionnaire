@@ -1,0 +1,1 @@
+lar[28665]=`<b>δύσ·μηνις, ις, ι</b>, <i>gén</i>. <b>ιος</b>, malveillant, haineux, ANTH. <i>9, 69</i>.<p><b>Étym</b>. δ. μῆνις.`

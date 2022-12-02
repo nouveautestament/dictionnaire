@@ -1,0 +1,1 @@
+lar[87333]=`<b>πτερο·ποίκιλος, ος, ον</b> <font color="purple">[ῐ]</font> aux ailes <i>ou</i> aux plumes bigarrées, AR. <i>Av. 248, 1410</i>.<p><b>Étym</b>. πτερόν, ποικίλος.`

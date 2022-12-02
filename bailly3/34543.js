@@ -1,0 +1,1 @@
+lar[34543]=`<b>εως (ἡ)</b> compression, étreinte, GAL. <i>7, 415</i> ; ARÉT. <i>Caus. m. acut. 1, 6</i>.<p><b>Étym</b>. ἐνθλίβω.`

@@ -1,0 +1,1 @@
+lar[5183]=`<b>ἀ·μάλθακτος, ος, ον</b>, qu’on ne peut amollir, dur, ANTH. <i>5, 234</i>.<p><b>Étym</b>. ἀ, μαλθάσσω.`

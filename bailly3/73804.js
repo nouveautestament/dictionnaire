@@ -1,0 +1,1 @@
+lar[73804]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> utile, CALL. <i>Ap. 94</i> ; OPP. <i>H. 3, 429</i> ; ORPH. <i>Arg. 467</i>.<p><b>Étym</b>. ὀφέλλω.`

@@ -1,0 +1,1 @@
+lar[93172]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> <i>fém. de</i> συβώτης, PLAT. COM. <i>2-2, 685 Mein</i>.`

@@ -1,0 +1,1 @@
+lar[40580]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Hermaôn, <i>forme dor. d’Hermès,</i> HÉS. <i>fr. 9 Gaisford</i> ; BION <i>3, 8</i> ; ANTH. <i>4, 3, 110</i>.<p><b>Étym</b>. Ἑρμῆς.`

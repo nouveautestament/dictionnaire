@@ -1,0 +1,1 @@
+lar[852]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> creux de la main : ἕλε γαῖαν ἀγοστῷ, IL. <i>11, 425, etc</i>. il saisit la terre (en tombant) du creux de sa main ; ἀγ. χειρός, A.RH. <i>3, 120,</i> creux de la main.<br><b>      2</b> bras recourbé, embrassement, THCR. <i>Idyl. 17, 129</i>.<br><b>      3</b> sein (d’une académie) ANTH. <i>6, 144</i>.`

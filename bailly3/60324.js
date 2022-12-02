@@ -1,0 +1,1 @@
+lar[60324]=`<b>ης (ἡ)</b> territoire des Léontins, THC. <i>5, 4</i>.<p><b>Étym</b>. Λεοντῖνοι.`

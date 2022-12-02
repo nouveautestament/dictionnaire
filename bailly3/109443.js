@@ -1,0 +1,1 @@
+lar[109443]=`<b>ατος (τὸ)</b> place, emplacement, PORPH. <i>ad Marcell. p. 36, 37, etc.</i> ; GEOP. <i>4, 1, 16</i>.<p><b>Étym</b>. χωρέω.`

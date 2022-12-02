@@ -1,0 +1,1 @@
+lar[52802]=`<b>κατα·μαστεύω</b>, chercher avec soin, SYN. <i>241a</i>.`

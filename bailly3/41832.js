@@ -1,0 +1,1 @@
+lar[41832]=`(<i>seul. prés</i>.) dormir, LYC. <i>1354</i>.<p><b>Étym</b>. εὕδω.`

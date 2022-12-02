@@ -1,0 +1,1 @@
+lar[44925]=`<b>Ἡγησι·πύλη, ης (ἡ)</b> <font color="purple">[ῐῠ]</font> Hègèsipylè, <i>n. de f. thrace,</i> HDT. <i>6, 39</i> ; PLUT. <i>Cim. 4</i>.<p><b>Étym</b>. ἡγέομαι, πύλη.`

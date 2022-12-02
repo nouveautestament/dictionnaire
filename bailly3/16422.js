@@ -1,0 +1,1 @@
+lar[16422]=`<font color="purple">[ῐ]</font> <i>adv</i>., sans qu’on puisse comparer, sans rapport, DYSC. <i>Adv. 635</i>.`

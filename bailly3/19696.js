@@ -1,0 +1,1 @@
+lar[19696]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> βιβλάριον NT. <i>Apoc. 10, 2, 8, 9, 10</i>.`

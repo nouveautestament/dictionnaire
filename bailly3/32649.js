@@ -1,0 +1,1 @@
+lar[32649]=`<b>ύος (ἡ)</b> compassion, commisération, OD. <i>17, 451</i>.<p><b>Étym</b>. ἐλεέω.`

@@ -1,0 +1,1 @@
+lar[82760]=`<b>ατος (τὸ) :<br>      1</b> chemin, route, ESCHL. <i>Eum. 239</i>.<br><b>      2</b> voyage, marche, expédition, EUR. <i>I.A. 300</i>.<p><b>Étym</b>. πορεύω.`

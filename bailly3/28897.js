@@ -1,0 +1,1 @@
+lar[28897]=`<b>δυσ·σύμβατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui s’associe difficilement à, qui répugne à, <i>avec</i> πρός <i>et l’acc</i>. PLUT. <i>M. 661c</i>.<p><b>Étym</b>. δ. συμβαίνω.`

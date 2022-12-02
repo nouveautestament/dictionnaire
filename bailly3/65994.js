@@ -1,0 +1,1 @@
+lar[65994]=`<b>ας (ἡ)</b> paiement d’une solde, <i>d’où</i> solde, THC. <i>8, 83</i> ; XÉN. <i>An. 2, 5, 22</i> ; DS. <i>16, 73</i>.<p><b>Étym</b>. μισθοδότης.`

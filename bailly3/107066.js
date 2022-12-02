@@ -1,0 +1,1 @@
+lar[107066]=`<b>φυκό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῡῐχ]</font> qui a une chevelure d’algues, couronné d’algues, MATR. (ATH. <i>135b</i>).<p><b>Étym</b>. φῦκος, θρίξ.`

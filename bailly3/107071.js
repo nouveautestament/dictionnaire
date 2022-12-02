@@ -1,0 +1,1 @@
+lar[107071]=`<b>(ὁ)</b> Phyktée, <i>h</i>. HÉS. <i>fr. 30 Gaisford</i>.`

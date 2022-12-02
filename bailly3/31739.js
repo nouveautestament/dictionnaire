@@ -1,0 +1,1 @@
+lar[31739]=`<b>ἐκ·νοστέω</b>, revenir (<i>seul. part. ao. dat. sg</i>. ἐκνοστήσαντι, IL. <i>17, 207 ; 22, 444 ; 24, 705 ; et duel</i> ἐκνοστήσαντε, IL. <i>5, 157).</i><p>➳ <i>Sel. d’autres, en deux mots,</i> μάχης ἔκ νοστ.`

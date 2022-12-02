@@ -1,0 +1,1 @@
+lar[77520]=`<b>ου (ὁ)</b> Pédaritos, <i>Spartiate,</i> THC. <i>8, 28, etc</i>.`

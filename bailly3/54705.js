@@ -1,0 +1,1 @@
+lar[54705]=`<b>κενολογέω-ῶ</b>, dire des choses vaines <i>ou</i> frivoles, EUR. (POLL. <i>2, 120) ; etc</i>.<p><b>Étym</b>. κ. λόγος.`

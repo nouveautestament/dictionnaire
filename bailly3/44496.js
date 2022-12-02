@@ -1,0 +1,1 @@
+lar[44496]=`<b>Ζεφυρηῒς ἀκτή (ἡ)</b> <font color="purple">[ῠ]</font> le promontoire de Zéphyrion, POSIDIPP. (ATH. <i>318d ;</i> Ζεφυρῖτις <i>Mein</i>.).`

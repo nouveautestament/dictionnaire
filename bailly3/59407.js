@@ -1,0 +1,1 @@
+lar[59407]=`<b>ος, ον</b>, libertin, débauché, T. LOCR. <i>104e ;</i> ARSTT. <i>H.A. 6, 21, etc</i>.<p>•<i> Sup</i>. λαγνίστατος, ARSTT. <i>l. c.</i> ; CLÉM. <i>222</i>.<p>➳ <i>Fém. gén</i>. λάγνης, ANAXANDR. (<i>Com. fr. 3, 199).</i><p><b>Étym</b>. <i>cf</i>. λαγών.`

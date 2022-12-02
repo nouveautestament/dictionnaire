@@ -1,0 +1,1 @@
+lar[61532]=`<b>ας (ἡ) :<br>      1</b> habileté à imaginer, imagination, TH. <i>Char. 9</i>.<br><b>      2</b> conte, fable, CHAR. <i>3, 2</i>.<br><b>      3</b> prière, SYMM. <i>Ps. 101, 1</i>.<p><b>Étym</b>. λογοποιός.`

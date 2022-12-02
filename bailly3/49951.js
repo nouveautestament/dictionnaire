@@ -1,0 +1,1 @@
+lar[49951]=`<b>ου</b> <font color="purple">[ῑᾰ]</font> <i>adj. m</i>. Italiote, <i>particul.</i> :<br><b>      1</b> <i>en parl. de pers</i>. Italien de la Grande-Grèce, HDT. <i>4, 15</i> ; THC. <i>6, 90 ;7, 87</i> ; PLAT. <i>Eryx. 393d, etc.</i><br><b>      2</b> <i>en parl. de choses,</i> italique, THÉM. <i>Or. 4, 54a</i>.<p><b>Étym</b>. Ἰταλία.`

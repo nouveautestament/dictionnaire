@@ -1,0 +1,1 @@
+lar[6910]=`<b>ων (τὰ)</b> fête des Dioscures, LYS. (DH. <i>6, 84 Reiske).</i><p><b>Étym</b>. Ἄνακες.`

@@ -1,0 +1,1 @@
+lar[27537]=`<b>ή, όν</b>, apte à se faire une opinion, PLAT. <i>Theæt. 207e ;</i> ARSTT. <i>Nic. 6, 13, 2</i> ; δοξαστικὴ ἐπιστήμη, PLAT. <i>Soph. 233c</i>, l’art de conjecturer.<p><b>Étym</b>. δοξάζω.`

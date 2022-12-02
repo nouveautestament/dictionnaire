@@ -1,0 +1,1 @@
+lar[90527]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. σιτοθήκη, AQU. <i>Joel 1, 17</i>.<p><b>Étym</b>. σιτοδόχος.`

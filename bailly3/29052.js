@@ -1,0 +1,1 @@
+lar[29052]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui aime à plonger, ARSTT. <i>fr. 454</i> ; ὁ δ. le plongeur, <i>insecte aquatique,</i> DIOSC. <i>4, 142</i>.<br><b>      2</b> occidental, JOS. <i>A.J. 20, 8, 11, etc</i>.<p><b>Étym</b>. δύω.`

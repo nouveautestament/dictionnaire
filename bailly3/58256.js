@@ -1,0 +1,1 @@
+lar[58256]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> κτῆμα, ALCIPHR. <i>1, 36</i>.`

@@ -1,0 +1,1 @@
+lar[42860]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> commerce agréable, <i>d’où</i> enjouement, plaisanterie, CHARIS. <i>33, 12 ; 549, 10 (Gramm. lat. Keil).</i><p><b>Étym</b>. εὐόμιλος.`

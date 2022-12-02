@@ -1,0 +1,1 @@
+lar[86699]=`<b>ου (τὸ) :<br>      1</b> masque de théâtre, masque, LUC. <i>Nigr. 11, Tim. 28 ; fig</i>. PLUT. <i>M. 527d.</i><br><b>      2</b> <i>p. suite,</i> acteur, PHIL. <i>2, 520</i> ; JOS. <i>A.J. 6, 12, 7</i>.<p><b>Étym</b>. πρόσωπον.`

@@ -1,0 +1,1 @@
+lar[109187]=`<b>χρυσό·κλειστος, ος, ον</b> <font color="purple">[ῡ]</font> enfermé dans de l’or, ISTER (ATH. <i>478b</i>) <i>var. p</i>. χρυσόκλυστος.<p><b>Étym</b>. χρ. κλείω.`

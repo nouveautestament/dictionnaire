@@ -1,0 +1,1 @@
+lar[72717]=`<b>ων (οἱ)</b> <font color="purple">[ῠ]</font> les Orthokorybantes, <i>pple perse,</i> HDT. <i>3, 92</i>.`

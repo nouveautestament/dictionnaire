@@ -1,0 +1,1 @@
+lar[9862]=`<b>ἀντι·δουλεύω</b>, servir à son tour, <i>dat</i>. EUR. <i>Suppl. 362</i>.`

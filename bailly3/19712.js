@@ -1,0 +1,1 @@
+lar[19712]=`<b>ου (τὸ)</b> boutique de libraire, librairie, GAL. <i>1, 35a ;</i> ATH. <i>1e</i>.<p><b>Étym</b>. βιβλιοπώλης.`

@@ -1,0 +1,1 @@
+lar[66736]=`murmurer en bouillonnant, murmurer, gronder, <i>en parl. d’un liquide,</i> IL. <i>5, 599, etc.</i> ; EL. <i>N.A. 14, 26</i> ; A.RH. <i>1, 543 ; fig</i>. MAN. <i>5, 118</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DP. <i>82</i>.`

@@ -1,0 +1,1 @@
+lar[63832]=`<b>μελαν·άθηρ, ερος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>sorte de blé noir,</i> GEOP. <i>3, 3</i>.<p><b>Étym</b>. μ. ἀθήρ.`

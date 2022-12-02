@@ -1,0 +1,1 @@
+lar[48669]=`<b>η, ον</b> <font color="purple">[ῠ]</font> sacerdotal ; <i>subst</i>. τὰ ἱερώσυνα, parties de la victime réservées au prêtre, AMIPS. (ATH. <i>368e</i>).<p><b>Étym</b>. ἱερός.`

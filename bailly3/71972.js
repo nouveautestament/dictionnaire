@@ -1,0 +1,1 @@
+lar[71972]=`<i>adv</i>., par son nom, THC. <i>1, 132</i> ; XÉN. <i>Cyr. 1, 4, 15, etc.</i> ; ESCHN. <i>27, 21, etc</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>1, 40, 44 (424 av. J.-C.) ; v. Meisterh. p. 115, 8. Ion</i>. οὐνομαστί, HDT. <i>5, 1</i>.<p><b>Étym</b>. ὀνομάζω.`

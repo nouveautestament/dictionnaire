@@ -1,0 +1,1 @@
+lar[55130]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Kèdaliôn :<br><b>      1</b> <i>serviteur d’Hèphæstos,</i> LUC. <i>Dom. 28</i>.<br><b>      2</b> <i>titre d’une pièce perdue de Sophocle</i>.`

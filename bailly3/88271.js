@@ -1,0 +1,1 @@
+lar[88271]=`<b>(ὁ)</b> Rhamphias, <i>Lacédémonien,</i> THC. <i>1, 139, etc.</i> ; XÉN. <i>Hell. 1, 1, 35</i>.<p><b>Étym</b>. ῥάμφος.`

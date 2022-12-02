@@ -1,0 +1,1 @@
+lar[100699]=`<b>τροπαιοφορέω-ῶ</b>, remporter des trophées, triompher, PHIL. <i>2, 34</i>.<p><b>Étym</b>. τροπαιοφόρος.`

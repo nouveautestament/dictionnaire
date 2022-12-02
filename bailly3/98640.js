@@ -1,0 +1,1 @@
+lar[98640]=`<b>τετραπλασι·εφ·ήμισυς, εια, υ</b> <font color="purple">[ᾰᾰμῐ]</font> quatre fois et demie aussi fort, comme 9 : 2 NICOM. <i>Arithm. 1, 22</i>.<p><b>Étym</b>. τ. ἐπί, ἥμισυς.`

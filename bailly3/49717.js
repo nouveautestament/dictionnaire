@@ -1,0 +1,1 @@
+lar[49717]=`<i>adv</i>., avec côtés égaux, NICOM. <i>Arithm. 118</i>.`

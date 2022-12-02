@@ -1,0 +1,1 @@
+lar[87266]=`<b>πρωτοτυπέω-ῶ</b> <font color="purple">[ῠ]</font> être le premier type, DYSC. <i>Pron. 343b</i>.`

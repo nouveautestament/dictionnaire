@@ -1,0 +1,1 @@
+lar[84239]=`<b>προ·επικρίνω</b> <font color="purple">[ῑν]</font> juger <i>ou</i> décider d’avance, SEXT. <i>M. 8, 265</i>.`

@@ -1,0 +1,1 @@
+lar[72258]=`observer avec soin, <i>d’où</i> :<br><b>      1</b> observer curieusement, OD. <i>19, 67</i>.<br><b>      2</b> guetter sournoisement, épier, IL. <i>7, 243</i> ; HÉS. <i>O. 29, etc.</i> ; MUS. <i>101</i>.<br><b>      3</b> regarder avec inquiétude, IL. <i>4, 371</i>.<p><b>Étym</b>. ὀπιπεύω, <i>par analog. avec</i> ὀπτεύω.`

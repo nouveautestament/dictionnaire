@@ -1,0 +1,1 @@
+lar[92952]=`<b>στρογγυλό·γλυφος, ος, ον</b> <font color="purple">[ῠῠ]</font> taillé rond, HÉRON <i>Aut. 269</i>.<p><b>Étym</b>. στρογγύλος, γλύφω.`

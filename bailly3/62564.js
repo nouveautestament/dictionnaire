@@ -1,0 +1,1 @@
+lar[62564]=`<b>μακρο·τένων, οντος</b>, <i>adj. m</i>. qui s’étend loin, qui s’enfonce profondément, ANTH. <i>6, 96</i>.<p><b>Étym</b>. μακρός, τείνω.`

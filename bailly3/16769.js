@@ -1,0 +1,1 @@
+lar[16769]=`<b>ἄ·τευκτος, ος, ον</b>, qui n’obtient pas, frustré de, <i>gén</i>. M. TYR.<p><b>Étym</b>. ἀ, τυγχάνω.`

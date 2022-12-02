@@ -1,0 +1,1 @@
+lar[33826]=`<i>mieux que</i> <b>ἐννάκις</b>, <i>adv</i>., neuf fois, PLAT. <i>Criti. 108e ;</i> DS. <i>17, 66, etc</i>.<p>➳ <i>Postér. et poét</i>. ἐννάκι, ANTH. <i>14, 120, 8 ; ou</i> ἐννεάκις, NICOM. <i>Harm. p. 16. Ion</i>. εἰνάκις, OD. <i>14, 230. Sur l’orthographe</i> ἐνάκις, <i>v. Meisterh. p. 125, 6</i>.`

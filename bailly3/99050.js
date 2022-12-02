@@ -1,0 +1,1 @@
+lar[99050]=`<b>οῦ (ὁ)</b> Tiarantos (<i>auj</i>. Olt <i>ou, sel. d’autres,</i> Tisza) <i>affl. de l’Ister,</i> HDT. <i>4, 48</i>.`

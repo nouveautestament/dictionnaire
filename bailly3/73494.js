@@ -1,0 +1,1 @@
+lar[73494]=`<b>ου (ὁ)</b> = <i>lat</i>. Vergilius, Virgile, <i>poète rom</i>. PLUT. <i>Cic. 32, etc</i>.`

@@ -1,0 +1,1 @@
+lar[17639]=`<i>adv</i>., de son pied, LUC. <i>Lex. 2</i>.<p><b>Étym</b>. αὐτόπους.`

@@ -1,0 +1,1 @@
+lar[26875]=`<b>ου (τὸ)</b> Diorphon, <i>mt. d’Arménie, près de l’Araxe,</i> Ps.-PLUT. <i>Fluv. p. 1049 Wyttenbach</i>.`

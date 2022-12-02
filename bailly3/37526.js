@@ -1,0 +1,1 @@
+lar[37526]=`<i>inf. prés. de</i> ἐπιδέω, <i>ou inf. ao.2 de</i> ἐπεῖδον.`

@@ -1,0 +1,1 @@
+lar[42244]=`<b>εὐθυ·θρίξ</b>, <i>gén</i>. <b>-τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> qui a les cheveux droits, <i>càd</i>. plats, ARSTT. <i>G.A. 5, 3, 13</i>.<p><b>Étym</b>. εὐ. θρίξ.`

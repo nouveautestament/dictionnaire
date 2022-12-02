@@ -1,0 +1,1 @@
+lar[12808]=`<b>Ἀπολλωνό·βλητος, ος, ον</b> <font color="purple">[ᾰ]</font> frappé par les flèches d’Apollon, MACR. <i>Sat. 1, 17</i>.<p><b>Étym</b>. Ἀπόλλων, βάλλω.`

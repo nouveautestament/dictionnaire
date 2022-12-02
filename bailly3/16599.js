@@ -1,0 +1,1 @@
+lar[16599]=`<b>ἀ·σχαδής, ής, ές</b> <font color="purple">[χᾰ]</font> qui ne peut être arrêté <i>ou</i> réprimé, ESCHL. <i>fr. 363</i>.<p><b>Étym</b>. ἀ, σχάζω.`

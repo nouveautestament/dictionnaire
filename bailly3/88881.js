@@ -1,0 +1,1 @@
+lar[88881]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> du Rhyndakos, ORPH. <i>Arg. 634</i>.<p><b>Étym</b>. Ῥύνδακος.`

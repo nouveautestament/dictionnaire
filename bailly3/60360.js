@@ -1,0 +1,1 @@
+lar[60360]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite plante médicinale dont les feuilles sont laiteuses et donnent l’ὀξύγαλα, DIOSC. <i>2, 205</i> ; GAL. <i>13, 635</i>.`

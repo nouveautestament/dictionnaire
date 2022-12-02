@@ -1,0 +1,1 @@
+lar[94005]=`<b>συμ·μιμνῄσκομαι</b> <font color="darkgreen">(<i>pf</i>. συμμέμνημαι)</font> se souvenir ensemble : τί τινι, DÉM. <i>1129, 15,</i> de qqe ch. avec qqn.`

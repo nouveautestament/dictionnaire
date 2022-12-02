@@ -1,0 +1,1 @@
+lar[286]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., glorieusement, HPC. <i>28, 13</i>.<p><b>Étym</b>. ἀγακλεής.`

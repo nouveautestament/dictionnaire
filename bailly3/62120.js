@@ -1,0 +1,1 @@
+lar[62120]=`<b>ῶνος (ὁ)</b> endroit où l’on dépose les lampes, LUC. <i>V.H. 1, 29</i>.<p><b>Étym</b>. λύχνος.`

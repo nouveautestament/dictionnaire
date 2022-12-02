@@ -1,0 +1,1 @@
+lar[70327]=`<b>ατος (τὸ) :<br>      1</b> rapport de parenté <i>ou</i> d’amitié, DH. <i>Rhet. 7, 5 vulg</i>. (ἀξίωμα, <i>conj. Sylb</i>.).<br><b>      2</b> <i>p. ext</i>. rapport naturel, rapport de conformité, STR. <i>269</i>.<p><b>Étym</b>. οἰκειόω.`

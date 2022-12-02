@@ -1,0 +1,1 @@
+lar[14845]=`<b>ου (τὸ)</b> <font color="purple">[τᾰ]</font> place de filets tendus, XÉN. <i>Cyn. 6, 6</i>.<p><b>Étym</b>. ἀρκύστατος.`

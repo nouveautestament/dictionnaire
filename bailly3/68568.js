@@ -1,0 +1,1 @@
+lar[68568]=`<b>νη·πελέω</b>, être impuissant, HPC. (GAL. <i>Lex. Hipp. 19, 124</i>).`

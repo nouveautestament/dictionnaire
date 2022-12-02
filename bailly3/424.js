@@ -1,0 +1,1 @@
+lar[424]=`<b>ή, όν :<br>      1</b> de messager : ἀγγ. ὄρχησις, ATH. <i>629e</i>, danse du messager, <i>càd</i>. figurant l’arrivée et le récit d’un messager ; ἀγγ. μέτρον, DIOM. <i>512, 23,</i> sorte d’hexamètre auquel manque la syllabe finale.<br><b>      2</b> d’ange, angélique, CLÉM. <i>2, 288</i> ; NAZ. <i>2, 320, etc. Migne</i>.<p><b>Étym</b>. ἄγγελος.`

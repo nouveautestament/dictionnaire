@@ -1,0 +1,1 @@
+lar[107126]=`<b>ου (ὁ)</b> le fils de Phylée, <i>càd</i>. Mégès, Q. SM. <i>10, 138</i>.<p><b>Étym</b>. Φυλεύς.`

@@ -1,0 +1,1 @@
+lar[42182]=`<i>adv</i>., aussitôt, tout de suite, ATT. ; ἐπεὶ εὐθέως, XÉN. <i>Hell. 3, 2, 4,</i> aussitôt que ; οἷον εὐθέως, POL. <i>6, 52, 1,</i> bref, pour prendre un exemple.<p><b>Étym</b>. εὐθύς.`

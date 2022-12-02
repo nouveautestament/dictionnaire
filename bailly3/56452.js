@@ -1,0 +1,1 @@
+lar[56452]=`<b>εως (ἡ)</b> creux, cavité, NICOM. <i>Harm. p. 19</i>.<p><b>Étym</b>. κοιλόω.`

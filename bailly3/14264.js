@@ -1,0 +1,1 @@
+lar[14264]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> <i>mieux que</i> ἀργιλλώδης, argileux, ARSTT. <i>Meteor. 1, 14, 17</i> ; TH. <i>H.P. 3, 18, 5</i>.<p>•<i> Cp</i>. -έστερος, HDT. <i>2, 12</i>.<p><b>Étym</b>. ἄργιλος, -ωδης.`

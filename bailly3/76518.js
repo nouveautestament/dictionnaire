@@ -1,0 +1,1 @@
+lar[76518]=`<b>(ὁ)</b> Pardokas, <i>n. d’esclave,</i> AR. <i>Ran. 608</i>.`

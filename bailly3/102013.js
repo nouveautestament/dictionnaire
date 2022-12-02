@@ -1,0 +1,1 @@
+lar[102013]=`<b>ὕπ·αρνος, ος, ον</b> <font color="purple">[ῠ]</font> qui allaite (<i>litt</i>. qui a sous soi) un agneau, EUR. <i>Andr. 557</i> ; CALL. <i>Ap. 53</i>.<p><b>Étym</b>. ὑ. ἀρήν.`

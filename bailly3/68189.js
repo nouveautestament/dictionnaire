@@ -1,0 +1,1 @@
+lar[68189]=`<b>νεό·λουτος, ος, ον</b>, qui vient de se baigner, HPC. <i>264, 16</i>.<p>➳ <i>Avec redoubl. par nécessité prosod</i>. νεόλλουτος, HH. <i>Merc. 241</i>.<p><b>Étym</b>. ν. λούω.`

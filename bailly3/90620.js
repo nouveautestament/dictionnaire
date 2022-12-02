@@ -1,0 +1,1 @@
+lar[90620]=`<b>σκαληνόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre oblique, PLUT. <i>M. 1121 a et b</i>.<p><b>Étym</b>. σκαληνός.`

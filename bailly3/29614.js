@@ -1,0 +1,1 @@
+lar[29614]=`<b>εως (ἡ)</b> inflammation, chaleur intérieure, PLUT. <i>M. 127b ;</i> DIOSC. <i>5, 21</i>.<p><b>Étym</b>. ἐγκαίω.`

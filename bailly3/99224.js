@@ -1,0 +1,1 @@
+lar[99224]=`<b>ας (ἡ)</b> <font color="purple">[ῑμ]</font> <i>c</i>. τιμητεία, PLUT. <i>Æmil. 38, M. 199b</i>.`

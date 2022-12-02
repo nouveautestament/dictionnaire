@@ -1,0 +1,1 @@
+lar[101685]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠᾰ]</font> aboiement, POÈT. (PLAT. <i>Leg. 967d</i>) ; A.RH. <i>3, 749, etc.</i> ; ANTH. <i>6, 167</i> ; PLUT. <i>Cim. 18</i> ; LUC. <i>Philops. 24, 27</i>.<p><b>Étym</b>. ὑλάσσω.`

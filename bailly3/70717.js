@@ -1,0 +1,1 @@
+lar[70717]=`<b>οἰστρο·φόρος, ος, ον</b>, qui enfonce (<i>propr</i>. qui porte) l’aiguillon, <i>ép. d’Aphrodite,</i> ANTH. <i>5, 234</i>.<p><b>Étym</b>. οἶστρος, φέρω.`

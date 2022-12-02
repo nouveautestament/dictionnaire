@@ -1,0 +1,1 @@
+lar[99317]=`<b>Τισαμενο·φαίνιππος, ου (ὁ)</b> <font color="purple">[ῑσᾰ]</font> Tisaménophænippos, <i>càd</i>. un composé de Tisaménos et de Phænippos, <i>càd</i>. double coquin, <i>n. d’h</i>. AR. <i>Ach. 603</i>.<p><b>Étym</b>. Τ. Φαίνιππος.`

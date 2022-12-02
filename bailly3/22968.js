@@ -1,0 +1,1 @@
+lar[22968]=`<b>οῦ (ὁ)</b> possession par le démon, ORIG. <i>3, 1109a Migne</i>.<p><b>Étym</b>. δαιμονιάω.`

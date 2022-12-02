@@ -1,0 +1,1 @@
+lar[37476]=`<i>vb. de</i> ἐπιγιγνώσκω, NICOM. <i>Arithm. 114</i> ; A. QUINT. <i>p. 47</i>.`

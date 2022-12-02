@@ -1,0 +1,1 @@
+lar[49982]=`<b>α, ον</b> <font color="purple">[ῐν]</font> fait de miel et de sésame, ANTH. <i>6, 232</i>.<p><b>Étym</b>. ἴτριον.`

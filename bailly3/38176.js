@@ -1,0 +1,1 @@
+lar[38176]=`<b>εως (ἡ)</b> décision, détermination, STR. <i>7</i> ; PLUT. <i>M. 43c, etc.</i> ; DYSC. <i>Pron. 351c, Adv. 551</i>.<p><b>Étym</b>. ἐπικρίνω.`

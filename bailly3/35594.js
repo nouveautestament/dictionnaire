@@ -1,0 +1,1 @@
+lar[35594]=`<b>ἔξ·αρθρος, ος, ον :<br>      1</b> désarticulé, déboîté, luxé, JOS. <i>A.J. 3, 11, 6</i> ; SPT. <i>4Macc. 9, 13</i>.<br><b>      2</b> dont les articulations sont saillantes, HPC. <i>Art. 787</i>.<p><b>Étym</b>. ἐξ, ἄρθρον.`

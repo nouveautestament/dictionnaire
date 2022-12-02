@@ -1,0 +1,1 @@
+lar[99995]=`<b>ας (ἡ)</b> <font color="purple">[ᾰχ]</font> prononciation rude, STR. <i>662</i>.<p><b>Étym</b>. τραχύστομος.`

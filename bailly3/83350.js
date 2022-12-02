@@ -1,0 +1,1 @@
+lar[83350]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> ancienneté d’âge, HDT. <i>6, 51</i> ; PLUT. <i>M. 636d</i>.<p><b>Étym</b>. πρεσβυγενής.`

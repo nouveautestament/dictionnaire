@@ -1,0 +1,1 @@
+lar[95674]=`<b>συν·επισκοπέω-ῶ</b>, examiner avec, τί τινι, XÉN. <i>Mem. 4, 7, 8,</i> qqe ch. avec qqn ; τι, STR. <i>349,</i> qqe ch. ; PLUT. <i>M. 82e.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. GAL. <i>10, 223</i>.`

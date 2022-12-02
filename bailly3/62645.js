@@ -1,0 +1,1 @@
+lar[62645]=`<b>μαλακό·χειρ, -χειρος (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> à la main douce <i>ou</i> délicate, PD. <i>N. 3, 96</i>.<p><b>Étym</b>. μ. χείρ.`

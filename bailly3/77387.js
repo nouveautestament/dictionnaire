@@ -1,0 +1,1 @@
+lar[77387]=`<b>ας (ἡ)</b> autorité <i>ou</i> direction paternelle, LUC. <i>Dem. enc. 12</i>.<p><b>Étym</b>. πατρονόμος.`

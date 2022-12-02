@@ -1,0 +1,1 @@
+lar[25083]=`<i>adv</i>., continuellement, HPC. <i>536, 46</i> ; NIC. <i>Th. 495 ; cf</i>. διαμπερές, <i>v</i>. διαμπερής.`

@@ -1,0 +1,1 @@
+lar[87178]=`être le premier de tous, M. ANT. <i>7, 55</i>.<p><b>Étym</b>. πρώτιστος.`

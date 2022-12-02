@@ -1,0 +1,1 @@
+lar[97780]=`<b>ταυρο·ειδής, ής, ές</b>, qui ressemble à un taureau, STR. <i>827</i>.<p><b>Étym</b>. τ. εἶδος.`

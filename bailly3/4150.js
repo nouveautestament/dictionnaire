@@ -1,0 +1,1 @@
+lar[4150]=`<b>ή, όν</b>, réchauffant, SEXT. <i>P. 179</i>.<p><b>Étym</b>. ἀλεαίνω.`

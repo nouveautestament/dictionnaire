@@ -1,0 +1,1 @@
+lar[72075]=`<b>ὀξυ·γράφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui écrit vite, SPT. <i>Ps. 44, 2</i> ; PHIL. <i>2, 363</i>.<p><b>Étym</b>. ὀ. γράφω ; <i>cf</i>. ταχυγράφος.`

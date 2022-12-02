@@ -1,0 +1,1 @@
+lar[43516]=`<b>εὐ·συνάρμοστος, ος, ον</b>, qui s’adapte et s’unit facilement, ARSTT. <i>G.A. 1, 7, 3</i>.<p><b>Étym</b>. εὖ, συναρμόζω.`

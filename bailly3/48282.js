@@ -1,0 +1,1 @@
+lar[48282]=`<b>*Ἰασονίδης</b>, <i>ion</i>. <b>Ἰησονίδης, ου (ὁ)</b> <font color="purple">[ῐᾱῐ]</font> le fils de Jason, IL. <i>7, 468, 471 ; 23, 747</i>.`

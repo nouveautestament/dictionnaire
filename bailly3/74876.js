@@ -1,0 +1,1 @@
+lar[74876]=`<b>παν·άποτμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait infortuné, IL. <i>24, 255, 493</i>.<p>•<i> Sup</i>. -ότατος, ANTH. <i>9, 425</i>.<p><b>Étym</b>. π. ἄποτμος.`

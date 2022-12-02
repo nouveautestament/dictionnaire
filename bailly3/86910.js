@@ -1,0 +1,1 @@
+lar[86910]=`<b>(ὁ)</b> Prusias, <i>n. de plusieurs rois de Bithynie,</i> PLUT. <i>Flam. 20</i> ; LUC. <i>D. mort. 12, 6, etc</i>.`

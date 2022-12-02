@@ -1,0 +1,1 @@
+lar[28529]=`<b>δύσ·ικμος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à humecter, sec, HPC. <i>603, 23</i>.<p><b>Étym</b>. δ. ἰκμάς.`

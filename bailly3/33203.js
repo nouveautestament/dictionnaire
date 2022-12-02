@@ -1,0 +1,1 @@
+lar[33203]=`<b>ή, όν :<br>      1</b> qui fait vomir, émétique, ARSTT. <i>Probl. 3, 18</i>.<br><b>      2</b> enclin à vomir, HPC. <i>Acut. 395</i> ; ARSTT. <i>H.A. 9, 50, 12</i>.<br><b>      3</b> qui a l’habitude de se faire vomir, PLUT. <i>Pomp. 51, M. 204c</i>.<p><b>Étym</b>. ἔμετος.`

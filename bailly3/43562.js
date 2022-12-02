@@ -1,0 +1,1 @@
+lar[43562]=`<b>εὐ·ταπείνωτος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à humilier, SYN. <i>277</i>.<p><b>Étym</b>. εὖ, ταπεινόω.`

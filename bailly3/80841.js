@@ -1,0 +1,1 @@
+lar[80841]=`<b>Πλειστο·άναξ, ακτος (ὁ)</b> Pleistoanax, <i>h</i>. THC. <i>1, 107, etc</i>.<p>➳ <i>Par contr</i>. Πλειστῶναξ, PLUT. <i>Lyc. 20, Per. 22, etc</i>.<p><b>Étym</b>. πλ. ἄναξ.`

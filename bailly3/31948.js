@@ -1,0 +1,1 @@
+lar[31948]=`<b>ἐκ·προθυμέομαι-οῦμαι</b> <font color="purple">[ῡ]</font> désirer du fond du cœur, <i>inf</i>. EUR. <i>Ph. 1678</i>.`

@@ -1,0 +1,1 @@
+lar[33760]=`<b>ἐμ·ψύχω</b> <font color="purple">[ῡ]</font> rafraîchir, ATH. <i>676c ;</i> GAL. <i>13, 4</i> ; ARÉT. <i>Cur. m. acut. 2, 2</i>.`

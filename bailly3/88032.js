@@ -1,0 +1,1 @@
+lar[88032]=`<b>ης, ες</b>, enflammé, ardent, EUR. <i>Bacch. 146</i>.<p><b>Étym</b>. πυρσός¹, -ωδης.`

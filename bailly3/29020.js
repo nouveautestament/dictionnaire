@@ -1,0 +1,1 @@
+lar[29020]=`<b>δυσ·χορήγητος, ος, ον</b>, dont il est difficile d’organiser la représentation (à cause de la dépense) <i>en parl. d’une pièce de théâtre,</i> PLUT. <i>M. 812e</i>.<p><b>Étym</b>. δ. χορηγέω.`

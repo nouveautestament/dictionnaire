@@ -1,0 +1,1 @@
+lar[20894]=`<b>οῦ</b>, <i>adj. m</i>. fait en forme de lacet, NÉOPHRON <i>fr. 3 N</i>. (SCH.-EUR. <i>Med. 1387</i>) ; SYMM. <i>Ex. 28, 15</i>.<p><b>Étym</b>. *βροχόω, <i>de</i> βρόχος.`

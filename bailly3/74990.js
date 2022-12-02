@@ -1,0 +1,1 @@
+lar[74990]=`<b>παν·επ·ήτριμος, ος, ον</b> <font color="purple">[ᾰῐ]</font> tout à fait serré, compact, OPP. <i>C. 3, 172</i>.<p><b>Étym</b>. π. ἐπί, ἤτριον.`

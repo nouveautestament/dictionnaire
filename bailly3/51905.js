@@ -1,0 +1,1 @@
+lar[51905]=`<b>καρπο·φόρος, ος, ον</b>, qui porte <i>ou</i> produit des fruits, <i>en parl. d’arbres,</i> XÉN. <i>Cyr. 6, 2, 22 ; en parl. de pays,</i> PD. <i>P. 4, 11 ; en parl. de Dèmèter,</i> AR. <i>Ran. 382 ; en gén</i>. productif, EUR. <i>I.T. 1235</i>.<p><b>Étym</b>. κ. φέρω.`

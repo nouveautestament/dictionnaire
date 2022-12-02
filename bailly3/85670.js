@@ -1,0 +1,1 @@
+lar[85670]=`<b>προσ·επιδίδωμι</b> <font color="purple">[δῐ]</font> donner en outre, <i>rég. ind. au dat</i>. PLAT. <i>Soph. 222e ;</i> DH. <i>Thuc. 5</i> ; DC. <i>49, 31</i>.`

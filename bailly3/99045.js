@@ -1,0 +1,1 @@
+lar[99045]=`<i>adv</i>., vainement, THCR. <i>Idyl. 25, 230</i>.`

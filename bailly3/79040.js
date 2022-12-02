@@ -1,0 +1,1 @@
+lar[79040]=`<b>οῦ (ὁ)</b> propriété, possession particulière, SPT. <i>Ps. 134, 4 ; Eccl. 2, 8</i>.<p><b>Étym</b>. περιουσιάζω.`

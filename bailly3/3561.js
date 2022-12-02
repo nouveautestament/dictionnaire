@@ -1,0 +1,1 @@
+lar[3561]=`<b>ἀ·κοπίαστος, ος, ον :<br>      1</b> qui ne fatigue pas, ARSTT. <i>Mund. 1, 2</i>.<br><b>      2</b> infatigable, STOB. <i>Ecl. 1, 952</i>.<p><b>Étym</b>. ἀ, κοπιάω.`

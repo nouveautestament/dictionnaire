@@ -1,0 +1,1 @@
+lar[5958]=`<b>ἀ·μύριστος, ος, ον</b> <font color="purple">[ῠ]</font> non parfumé, HÉRACLITE ÉPH. <i>fr. 92</i> (PLUT. <i>Pyth. or. 6, 397a</i>).<p><b>Étym</b>. ἀ, μυρίζω.`

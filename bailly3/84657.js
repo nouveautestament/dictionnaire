@@ -1,0 +1,1 @@
+lar[84657]=`<b>προ·λιμοκτονέω-ῶ</b> <font color="purple">[ῑ]</font> faire auparavant mourir de faim, ARSTT. <i>H.A. 8, 6, 3</i>.`

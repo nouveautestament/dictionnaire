@@ -1,0 +1,1 @@
+lar[77478]=`<b>παχυ·κάρδιος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au cœur grossier, CHRYS.<p><b>Étym</b>. π. καρδία.`

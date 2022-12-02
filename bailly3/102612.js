@@ -1,0 +1,1 @@
+lar[102612]=`<i>adv</i>., avec un ressentiment extrême, EUR. <i>H.f. 1037</i>.`

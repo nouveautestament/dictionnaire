@@ -1,0 +1,1 @@
+lar[23360]=`<b>α, ον :<br>      1</b> de laurier, NONN. <i>D. 2, 98</i> ; CHRIST. <i>Ecphr. 260</i>.<br><b>      2</b> qui porte une branche <i>ou</i> une couronne de laurier (Apollon), NONN. <i>D. 13, 82 et 129</i>.<p><b>Étym</b>. δάφνη.`

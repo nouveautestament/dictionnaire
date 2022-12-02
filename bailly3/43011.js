@@ -1,0 +1,1 @@
+lar[43011]=`<b>εὐ·πήλης</b>, <i>gén</i>. <b>ηκος (ὁ, ἡ)</b> au beau casque, ANTH. <i>6, 120 ; fig</i>. BABR. <i>143</i>.<p><b>Étym</b>. εὖ, πήληξ.`

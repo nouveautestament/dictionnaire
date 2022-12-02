@@ -1,0 +1,1 @@
+lar[33771]=`<b>ἐν·αγελάζομαι</b> <font color="purple">[ᾰγ]</font> rassembler comme un troupeau dans, <i>dat</i>. EPICT. (STOB. <i>Fl. 5, 113</i>).`

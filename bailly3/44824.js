@@ -1,0 +1,1 @@
+lar[44824]=`<b>α, ον</b>, honoré au cap Zôstèr, <i>ép. d’Apollon</i>, EUPH. (EM. <i>414, 20</i>) ; PAUS. <i>1, 31, 1 ; d’Athèna,</i> PAUS. <i>9, 17, 2</i>.<p><b>Étym</b>. ζώννυμι.`

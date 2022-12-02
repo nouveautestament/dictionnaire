@@ -1,0 +1,1 @@
+lar[21337]=`<b>ή, όν :<br>      1</b> recourbé (bec, ARSTT. <i>P.A. 3, 1, 14</i> ; ongles, ARSTT. <i>P.A. 4, 12, 21</i> ; cornes, ARSTT. <i>H.A. 9, 45, 4, etc</i>.).<br><b>      2</b> <i>part</i>. aux serres recourbées (oiseau de proie), AR. <i>Nub. 337</i>.<p><b>Étym</b>. *γάμπτω = κάμπτω.`

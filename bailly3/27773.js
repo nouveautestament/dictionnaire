@@ -1,0 +1,1 @@
+lar[27773]=`<b>ης (ἡ)</b> drave, <i>sorte de plante,</i> DIOSC. <i>2, 187</i>.`

@@ -1,0 +1,1 @@
+lar[84708]=`<b>προ·μελετάω-ῶ :<br>      1</b> s’exercer d’avance à, <i>acc</i>. AR. <i>Eccl. 117</i> ; PLAT. <i>Soph. 218d ; inf</i>. XÉN. <i>Ath. 1, 20</i>.<br><b>      2</b> préluder, AR. <i>Th. 1178</i> ; POL. <i>10, 47, 3</i>.`

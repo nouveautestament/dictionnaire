@@ -1,0 +1,1 @@
+lar[45907]=`(<i>non</i> <b>Ἡρώδας</b>), <b>α (ὁ)</b> Hèrôdas, <i>Syracusain,</i> XÉN. <i>Hell. 3, 4, 1</i>.<p><b>Étym</b>. <i>cf</i>. Ἡρῴδης.`

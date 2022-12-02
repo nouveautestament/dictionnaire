@@ -1,0 +1,1 @@
+lar[27480]=`<b>δολό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, à l’esprit astucieux, fourbe, ESCHL. <i>Suppl. 750</i> ; ANTH. <i>7, 145</i>.<p><b>Étym</b>. δόλος, φρήν.`

@@ -1,0 +1,1 @@
+lar[22460]=`<b>γονυ·κλαυσ·άγρυπνα</b> <i>ou mieux</i> <b>γονυ·καυσ·άγρυπνα, ης (ἡ)</b> qui brise <i>ou mieux</i> qui brûle les genoux et chasse le sommeil (la goutte), LUC. <i>Trag. 201</i>.<p><b>Étym</b>. γ. κλαίω <i>ou</i> καίω, ἄγρυπνος.`

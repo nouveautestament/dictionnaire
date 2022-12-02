@@ -1,0 +1,1 @@
+lar[109855]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> nudité d’un os décharné, HPC. <i>Art. 832 ; Epid. 3, 1083</i>.<p><b>Étym</b>. ψιλόω.`

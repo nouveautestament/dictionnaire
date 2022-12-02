@@ -1,0 +1,1 @@
+lar[91563]=`<b>ίτιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. de Sodome, <i>v. de Palestine,</i> ANTH. <i>8, 170</i>.`

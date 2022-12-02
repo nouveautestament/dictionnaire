@@ -1,0 +1,1 @@
+lar[6571]=`<b>οῦ (ὁ)</b> extraction avec un lacet, P. ÉG. <i>6, 13</i>.<p><b>Étym</b>. ἀναβροχίζω.`

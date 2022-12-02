@@ -1,0 +1,1 @@
+lar[50594]=`OD. <i>7, 107, gén. pl. d’un mot inconnu, p.-ê</i>. bien tressé, solidement tissu.<p><b>Étym</b>. <i>sel. Lob. Path. el. 1, p. 504, p</i>. *καροεσσέων, <i>poét. c</i>. *καιροεσσέων, <i>de</i> *καιρόεις.`

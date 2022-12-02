@@ -1,0 +1,1 @@
+lar[54636]=`<b>οῦ (ὁ)</b> ordre, commandement, EUR. <i>I.A. 1130, etc</i>.<p><b>Étym</b>. κελεύω.`

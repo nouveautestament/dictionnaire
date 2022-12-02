@@ -1,0 +1,1 @@
+lar[51569]=`<b>ας (ἡ)</b> = <i>lat</i>. Canuleia, <i>n. de f. rom</i>. PLUT. <i>Num. 10</i>.`

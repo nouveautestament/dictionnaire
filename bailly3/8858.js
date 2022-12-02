@@ -1,0 +1,1 @@
+lar[8858]=`<b>ἀνθο·γραφέω-ῶ</b> (<i>seul. impf</i>. ἠνθογράφουν) <font color="purple">[ᾰ]</font> peindre en un style fleuri, PHIL. <i>1, 33</i>.<p><b>Étym</b>. ἄνθος, γράφω.`

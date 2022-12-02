@@ -1,0 +1,1 @@
+lar[40551]=`<b>ή, όν</b>, faisable, qui peut se faire, ARR. <i>Ind. 20</i>.<p><b>Étym</b>. <i>vb. de</i> *ἔργω.`

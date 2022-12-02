@@ -1,0 +1,1 @@
+lar[34832]=`<i>part. neutre de</i> ἔνειμι.`

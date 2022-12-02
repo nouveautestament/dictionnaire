@@ -1,0 +1,1 @@
+lar[3525]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> pierreux, NIC. <i>Al. 41</i> (ἀκόνη) ; <i>sel. d’autres,</i> d’Akones (Ἀκόναι) <i>lieu de Bithynie</i>.`

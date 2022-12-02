@@ -1,0 +1,1 @@
+lar[53130]=`<b>εως (ἡ) :<br>      1</b> accablement par la fatigue, CHRYS. <i>6, 671</i>.<br><b>      2</b> <i>fig</i>. abattement, affliction, BAS. <i>2, 245, etc</i>.<p><b>Étym</b>. καταπονέω.`

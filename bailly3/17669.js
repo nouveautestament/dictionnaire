@@ -1,0 +1,1 @@
+lar[17669]=`<b>αὔτ·οπτος, ος, ον</b>, qui se laisse voir en personne, JUL. <i>221b</i>.<p><b>Étym</b>. αὐ. ὄψομαι.`

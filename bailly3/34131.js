@@ -1,0 +1,1 @@
+lar[34131]=`<b>ἐν·δελεχής, ής, ές</b>, continu, continuel, PLAT. <i>Leg. 717e ;</i> PLUT. <i>Per. 19</i>.<p>•<i> Sup</i>. -έστατος, ISOCR. <i>Antid. § 167</i>.`

@@ -1,0 +1,1 @@
+lar[95416]=`<b>συν·εκτίθημι</b> <font color="purple">[τῐ]</font><br><b>      1</b> exposer ensemble, LGS <i>1, 3</i> ; PLUT. <i>M. 27c.</i><br><b>      2</b> éloigner, écarter, SEXT. <i>M. 8, 480</i>.`

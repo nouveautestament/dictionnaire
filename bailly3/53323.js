@@ -1,0 +1,1 @@
+lar[53323]=`<b>κατα·σιδηρόω-ῶ</b> <font color="purple">[ῐ]</font> garnir de fer, DS. <i>13, 54</i>.`

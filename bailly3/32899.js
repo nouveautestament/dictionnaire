@@ -1,0 +1,1 @@
+lar[32899]=`<b>ἐλ·λαμπόω-ῶ</b> (<i>seul. prés. inf. pass</i>. -οῦσθαι) éclairer, illuminer, PROCL. <i>Plat. Tim. 275</i>.`

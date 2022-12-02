@@ -1,0 +1,1 @@
+lar[35884]=`<b>ἐξ·ευνουχίζω</b>, rendre eunuque, PHIL. <i>1, 224, 289 ; fig</i>. PLUT. <i>M. 692c</i>.<p><b>Étym</b>. ἐξ, εὐνοῦχος.`

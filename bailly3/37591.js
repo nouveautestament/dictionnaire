@@ -1,0 +1,1 @@
+lar[37591]=`<b>ἐπι·διακινδυνεύω</b> <font color="purple">[ῡ]</font> s’exposer en outre à des dangers, JOS. <i>A.J. 14, 14, 3</i>.`

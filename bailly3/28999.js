@@ -1,0 +1,1 @@
+lar[28999]=`<b>δυσ·χαλίνωτος, ος, ον</b> <font color="purple">[ᾰῑ]</font> difficile à brider, GAL. <i>2, 88e</i>.<p><b>Étym</b>. δ. χαλινόω.`

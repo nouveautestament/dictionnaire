@@ -1,0 +1,1 @@
+lar[75946]=`<b>παρ·αμπίσχω</b> <font color="darkgreen">(<i>impf</i>. παρήμπισχον)</font> <i>c</i>. παραμπέχω ALCIDAM. (ARSTT. <i>Rhet. 3, 3</i>).`

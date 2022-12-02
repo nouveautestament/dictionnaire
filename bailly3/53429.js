@@ -1,0 +1,1 @@
+lar[53429]=`<font color="purple">[στᾰ]</font> <i>vb. de</i> καθίστημι, XÉN. <i>Cyr. 8, 1, 10</i> ; PLAT. <i>Rsp. 414a, etc</i>.`

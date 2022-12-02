@@ -1,0 +1,1 @@
+lar[64358]=`<i>voc</i>. <b>ίδη (ὁ)</b> <font color="purple">[ῐ]</font> Mentoridès, <i>h</i>. ANTH. <i>9, 415</i>.`

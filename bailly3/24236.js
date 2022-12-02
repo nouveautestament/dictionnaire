@@ -1,0 +1,1 @@
+lar[24236]=`<b>δημο·γέρων, οντος (ὁ)</b> un des anciens du peuple, <i>d’où, au plur</i>. les anciens du peuple, <i>càd</i>. les chefs, IL. <i>3, 149</i> ; ARSTT. <i>Nic. 2, 9, 6 ; abs. au sg</i>. le chef, IL. <i>11, 372</i>.<p>➳ <i>Dor</i>. δαμο- <font color="purple">[ᾱ]</font> EUR. <i>Andr. 300</i>.<p><b>Étym</b>. δ. γέρων.`

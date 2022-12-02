@@ -1,0 +1,1 @@
+lar[11448]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰπᾰ]</font> ruse, stratagème, ANTH. <i>7, 195</i> ; EN. TACT. <i>Pol. 6, 23, p. 71, 16</i>.<p><b>Étym</b>. ἀπατάω.`

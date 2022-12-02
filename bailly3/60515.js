@@ -1,0 +1,1 @@
+lar[60515]=`<b>λευκ·άνθεμον, ου (τὸ)</b> <i>sorte de camomille,</i> DIOSC. <i>3, 154</i>.`

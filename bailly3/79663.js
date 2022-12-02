@@ -1,0 +1,1 @@
+lar[79663]=`<b>ου (τὸ)</b> <font color="purple">[χᾰ]</font> <i>dim. de</i> περιχαρακτήρ GAL. <i>10, 616</i>.`

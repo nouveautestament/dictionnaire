@@ -1,0 +1,1 @@
+lar[59631]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. de Laconie, laconien, HH. <i>Ap. 410, etc</i>.<p><b>Étym</b>. Λάκων 1.`

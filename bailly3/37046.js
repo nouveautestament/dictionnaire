@@ -1,0 +1,1 @@
+lar[37046]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font> incursion en pays ennemi, DS. <i>Exc. 533, 46</i>.<p><b>Étym</b>. ἐπελαύνω.`

@@ -1,0 +1,1 @@
+lar[23574]=`<b>δεινό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, aux pieds terribles, <i>càd</i>. à la marche terrible (l’Imprécation) SOPH. <i>O.R. 418</i>.<p><b>Étym</b>. δ. πούς.`

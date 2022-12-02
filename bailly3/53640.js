@@ -1,0 +1,1 @@
+lar[53640]=`<b>κατα·φθινύθω</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> détruire de fond en comble, <i>acc</i>. HH. <i>Cer. 354</i>.<p><b>Étym</b>. <i>cf</i>. καταφθίνω, καταφθίω.`

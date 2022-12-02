@@ -1,0 +1,1 @@
+lar[90214]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑῐδ]</font> la fille de Sithôn, <i>càd</i>. Pallène, NONN. <i>D. 48, 115</i>.`

@@ -1,0 +1,1 @@
+lar[33026]=`<b>ατος (τὸ)</b> objet d’espoir, EPIC. (PLUT. <i>M. 1189d</i>).<p><b>Étym</b>. ἐλπίζω.`

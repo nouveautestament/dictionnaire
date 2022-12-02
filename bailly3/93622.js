@@ -1,0 +1,1 @@
+lar[93622]=`<b>ατος (τὸ)</b> friction avec un corps gras, onction, DIOSC. <i>1, 131</i> ; ORIB. <i>67 Mai</i>.<p><b>Étym</b>. συγχρίω.`

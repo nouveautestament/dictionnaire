@@ -1,0 +1,1 @@
+lar[12860]=`<b>ἀπο·μανθάνω</b>, désapprendre, XÉN. <i>Cyr. 4, 3, 14</i> ; PLAT. <i>Phæd. 96c, etc</i>.`

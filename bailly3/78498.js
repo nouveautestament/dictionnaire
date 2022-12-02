@@ -1,0 +1,1 @@
+lar[78498]=`<b>ης (ἡ)</b> Périgounè, <i>f</i>. PLUT. <i>Thes. 8</i>.`

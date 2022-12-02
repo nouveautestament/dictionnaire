@@ -1,0 +1,1 @@
+lar[73021]=`<b>ου (ὁ) :<br>      1</b> roseau dont on couvre les maisons, IL. <i>24, 451</i>.<br><b>      2</b> <i>p. ext</i>. toiture, THC. <i>1, 134 ; d’où</i> toit, <i>en gén</i>. XÉN. <i>An. 7, 4, 16, etc.</i> ; PLAT. <i>Rsp. 417a, etc</i>.<p><b>Étym</b>. ἐρέφω.`

@@ -1,0 +1,1 @@
+lar[107875]=`<b>ου (ὁ)</b> <font color="purple">[χᾰ]</font> qui marque une empreinte sur une monnaie, monnayeur, MAN. <i>6, 388</i>.<p><b>Étym</b>. χαράσσω.`

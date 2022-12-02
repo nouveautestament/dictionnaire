@@ -1,0 +1,1 @@
+lar[44443]=`<b>ας (ἡ)</b> Zéleia, <i>v. de Troade</i>, IL. <i>2, 824</i>.<p>➳ <i>Gén. ion</i>. -είης, IL. <i>4, 103</i>.`

@@ -1,0 +1,1 @@
+lar[65780]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Mikythos, <i>h</i>. HDT. <i>7, 170</i> ; ANTH. <i>6, 355</i>.`

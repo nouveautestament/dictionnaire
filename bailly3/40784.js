@@ -1,0 +1,1 @@
+lar[40784]=`<b>ἐρυθρο·ειδής, ής, ές</b>, d’apparence rouge, rougeâtre, GAL. <i>4, 280 ; 7, 28</i> ; RUF. <i>p. 41 Clinch</i>.<p><b>Étym</b>. ἐ. εἶδος.`

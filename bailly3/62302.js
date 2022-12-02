@@ -1,0 +1,1 @@
+lar[62302]=`<b>μαζο·βόλιον, ου (τὸ)</b> plateau de bois <i>pour distribuer les gâteaux sacrés,</i> APION (APOLL. <i>Lex. p. 124, 15).</i><p><b>Étym</b>. μᾶζα, βάλλω.`

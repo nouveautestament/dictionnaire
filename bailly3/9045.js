@@ -1,0 +1,1 @@
+lar[9045]=`<i>adv</i>., sans remède, PLAT. <i>Phæd. 113e, etc.</i> ; ARSTT. <i>H.A. 8, 29, etc</i>.<p><b>Étym</b>. ἀνίατος.`

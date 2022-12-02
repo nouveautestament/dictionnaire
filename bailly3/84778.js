@@ -1,0 +1,1 @@
+lar[84778]=`<b>ης (ἡ)</b> Pronoè :<br><b>      1</b> <i>fille de Nérée,</i> HÉS. <i>Th. 261</i>.<br><b>      2</b> <i>autres,</i> Q. SM. <i>6, 469, etc</i>.<p><b>Étym</b>. πρόνοος.`

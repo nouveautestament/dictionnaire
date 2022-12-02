@@ -1,0 +1,1 @@
+lar[80302]=`<b>ου (τὸ)</b> <font color="purple">[πῑ]</font> petit bonnet de feutre, ARSTT. <i>fr. 226</i> ; POL. <i>35, 6, 4</i> ; PLUT. <i>Flam. 13, etc</i>.<p><b>Étym</b>. <i>dim. de</i> πῖλος.`

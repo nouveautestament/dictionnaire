@@ -1,0 +1,1 @@
+lar[42714]=`<b>ας (ἡ)</b> bonne part, bon lot, <i>d’où</i> :<br><b>      1</b> bon état (du corps, de la voix, <i>etc</i>.) LUC. <i>Eun. 8, Salt. 72, Rh. præc. 8</i>.<br><b>      2</b> <i>abs</i>. bonheur, PLUT. <i>M. 14c.</i><br><b>      3</b> avantage, talent, DH. <i>Rhet. 5, 3</i>.<p><b>Étym</b>. εὔμοιρος.`

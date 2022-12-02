@@ -1,0 +1,1 @@
+lar[75569]=`<b>εως (ἡ)</b> jalousie, envie, PHIL. <i>2, 422</i>.<p><b>Étym</b>. παραζηλόω.`

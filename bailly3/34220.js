@@ -1,0 +1,1 @@
+lar[34220]=`<b>οῦ (ὁ)</b> celui qui doute, PHIL. <i>2, 582</i>.<p><b>Étym</b>. ἐνδοιάζω.`

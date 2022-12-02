@@ -1,0 +1,1 @@
+lar[83497]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui combat avant, LUC. <i>Salt. 14</i>.<br><b>      2</b> qui combat pour, défenseur, PHIL. <i>2, 312, 542 ; en parl. de choses (discours, paroles, etc</i>.) PLUT. <i>Lys. 26</i>.<p><b>Étym</b>. προαγωνίζομαι.`

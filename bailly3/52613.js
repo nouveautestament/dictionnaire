@@ -1,0 +1,1 @@
+lar[52613]=`<b>κατα·κράζω</b>, <i>f. ant. utilisé c. fut</i>. -κεκράξομαι :<br><b>      1</b> assourdir de ses cris, <i>acc</i>. AR. <i>Eq. 287</i>.<br><b>      2</b> effrayer par ses cris, ANON. BYZ. <i>104, 33, 31</i>.`

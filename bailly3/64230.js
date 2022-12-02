@@ -1,0 +1,1 @@
+lar[64230]=`<b>μεμβρ·αφύη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> sorte de sardine, ARISTONYM. (ATH. <i>287d</i>).<p><b>Étym</b>. μεμβράς, ἀφύη.`

@@ -1,0 +1,1 @@
+lar[77453]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Paphlagoneios, <i>fl. de la chaîne de l’Ida</i>.<p><b>Étym</b>. Παφλαγών.`

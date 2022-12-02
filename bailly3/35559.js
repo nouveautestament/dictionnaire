@@ -1,0 +1,1 @@
+lar[35559]=`<b>ἐξ·αποξύνω</b> <font color="darkgreen">(<i>ao. part</i>. -οξύνας)</font> <font color="purple">[ῡ]</font> aiguiser tout à fait, EUR. <i>Cycl. 456</i>.`

@@ -1,0 +1,1 @@
+lar[66913]=`<b>μουσοληπτέομαι-οῦμαι</b> (<i>seul. prés</i>.) être possédé, <i>càd</i>. inspiré par les Muses, ARSTD. (PHOT. <i>Bibl. p. 16, 411).</i><p><b>Étym</b>. μουσόληπτος.`

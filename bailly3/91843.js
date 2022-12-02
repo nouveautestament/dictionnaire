@@ -1,0 +1,1 @@
+lar[91843]=`<font color="purple">[ᾰ]</font> en germe, d’une manière élémentaire, NICOM. <i>130a ;</i> Ps.-JAMBL. <i>Theol. arithm. 3a ;</i> CLÉM. <i>308</i>.<p>•<i> Cp</i>. -ώτερον, NICOM. <i>114d</i>.`

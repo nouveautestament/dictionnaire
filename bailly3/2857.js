@@ -1,0 +1,1 @@
+lar[2857]=`<b>ου (ὁ)</b> fils d’Æson (Jason).<p>➳ <i>Voc</i>. -ίδη, A.RH. <i>1, 463. Nom. dor</i>. -ίδας, THCR. <i>Idyl. 13, 16</i>.<p><b>Étym</b>. Αἴσων.`

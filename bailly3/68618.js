@@ -1,0 +1,1 @@
+lar[68618]=`<b>Νήσαιον πεδίον (τὸ)</b> la plaine de Nèsaia <i>ou</i> Niçâya, <i>en Médie,</i> HDT. <i>7, 40</i>.`

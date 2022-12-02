@@ -1,0 +1,1 @@
+lar[84561]=`<b>ου (ὁ)</b> = <i>lat</i>. Proculeius, <i>n. d’h. rom</i>. PLUT. <i>Ant. 77, etc</i>.`

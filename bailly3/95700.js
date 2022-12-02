@@ -1,0 +1,1 @@
+lar[95700]=`<b>συν·επιφαίνομαι</b>, se montrer avec, PLUT. <i>M. 767c, etc</i>.`

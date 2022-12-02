@@ -1,0 +1,1 @@
+lar[71428]=`<b>ὀμματο·ποιός, ός, όν</b> <font color="purple">[ᾰ]</font> qui fait voir (<i>propr</i>. qui fait des yeux) JAMBL. <i>V. Pyth. p. 70</i>.<p><b>Étym</b>. ὄμμα, ποιέω.`

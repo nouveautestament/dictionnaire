@@ -1,0 +1,1 @@
+lar[11353]=`<b>ἀπαρατρέπτως</b>, <i>adv</i>., avec inflexibilité, M. ANT. <i>1, 16</i>.`

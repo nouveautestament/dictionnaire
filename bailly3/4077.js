@@ -1,0 +1,1 @@
+lar[4077]=`<b>ἄ·λαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui ne parle pas, muet, ESCHL. <i>fr. 57</i> ; PLUT. <i>M. 438b ;</i> SPT. <i>Ps. 37, 13 ; joint à</i> κωφός, A. APHR. <i>Probl. 1, 138</i>.<br><b>      2</b> qui rend muet, <i>joint à</i> κωφός, NT. <i>Marc. 9, 17</i>.<p><b>Étym</b>. ἀ, λαλέω.`

@@ -1,0 +1,1 @@
+lar[87447]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de cracher, crachement, HPC. <i>Aph. 1248</i> ; ARSTT. <i>Phys. 7, 2, 5</i>.<br><b>      2</b> crachat, ARSTT. <i>H.A. 10, 3, 8</i>.<p><b>Étym</b>. πτύω.`

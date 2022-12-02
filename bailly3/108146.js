@@ -1,0 +1,1 @@
+lar[108146]=`<b>χειρο·λογέω-ῶ</b>, cueillir avec la main, GEOP. <i>10, 21, 6</i>.<p><b>Étym</b>. χ. -λογος <i>de</i> λέγω.`

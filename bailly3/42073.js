@@ -1,0 +1,1 @@
+lar[42073]=`<b>εὐ·ζυγής, ής, ές</b> <font color="purple">[ῠ]</font> bien uni, bien assorti, <i>en parl. d’une union,</i> NAZ. <i>4, 45a Migne</i>.<p><b>Étym</b>. <i>cf</i>. εὔζυγος.`

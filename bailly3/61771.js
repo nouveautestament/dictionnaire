@@ -1,0 +1,1 @@
+lar[61771]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> articulation d’un membre, NAZ. <i>Stel. 2, 107</i>.<p><b>Étym</b>. λυγίζω.`

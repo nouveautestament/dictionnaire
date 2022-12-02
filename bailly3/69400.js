@@ -1,0 +1,1 @@
+lar[69400]=`<b>(ὁ)</b> <i>anc. n. de l’Euphrate,</i> Ps.-PLUT. <i>Fluv. 20, 1</i>.`

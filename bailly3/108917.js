@@ -1,0 +1,1 @@
+lar[108917]=`<b>ας (ἡ)</b> banqueroute, POL. <i>Fr. hist. 68</i> ; DH. <i>5, 67</i> ; PLUT. <i>Sol. 15</i>.<p><b>Étym</b>. <i>v</i>. χρεοκοπέω.`

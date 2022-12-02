@@ -1,0 +1,1 @@
+lar[73155]=`<i>adv</i>., de manière à danser <i>ou</i> en dansant, STR. <i>473</i> ; EL. <i>N.A. 2, 11</i>.`

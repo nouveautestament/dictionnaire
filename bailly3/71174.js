@@ -1,0 +1,1 @@
+lar[71174]=`<b>ὁλό·κληρος, ος, ον</b>, qui forme un tout, <i>d’où</i> entier, intact, complet, parfait, PLAT. <i>Tim. 44c, Phædr. 250c, etc.</i> ; LUC. <i>Macr. 2</i>.<p><b>Étym</b>. ὅλος, κλῆρος.`

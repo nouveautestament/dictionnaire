@@ -1,0 +1,1 @@
+lar[41539]=`<b>(ὁ)</b> le fils d’Euhæmôn (Eurypylos) IL. <i>5, 76 ; 11, 810</i>.<p><b>Étym</b>. <i>patr. de</i> Εὐαίμων.`

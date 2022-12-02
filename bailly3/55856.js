@@ -1,0 +1,1 @@
+lar[55856]=`<b>ή, όν</b>, fermé, barricadé, STR. <i>617, 656</i> ; DS. <i>20, 85</i>.<p>➳ <i>Ion</i>. κληϊστός, OD. <i>2, 344 ; att</i>. κλῃστός, EUR. <i>Pel. fr. 620 Nauck</i>.<p><b>Étym</b>. <i>vb. de</i> κλείω.`

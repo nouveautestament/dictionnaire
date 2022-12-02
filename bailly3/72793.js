@@ -1,0 +1,1 @@
+lar[72793]=`<b>Ὀρθώσιος Ζεύς (ὁ)</b> Jupiter Stator, <i>à Rome,</i> DH. <i>2, 50</i>.<p><b>Étym</b>. ὀρθόω.`

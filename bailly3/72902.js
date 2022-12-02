@@ -1,0 +1,1 @@
+lar[72902]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. d’Ornées, <i>en Kynurie,</i> THC. <i>6, 7</i>.<p>➳ <i>Ion</i>. Ὀρνεήτης, HDT. <i>8, 73</i>.<p><b>Étym</b>. Ὀρνεαί.`

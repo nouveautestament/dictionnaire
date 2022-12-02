@@ -1,0 +1,1 @@
+lar[71526]=`<b>ης, ες</b>, rempli de membres de phrase à désinence semblable, SCH.-ISOCR. <i>p. 105, 4</i>.<p><b>Étym</b>. ὁμοιοκατάληκτος, -ωδης.`

@@ -1,0 +1,1 @@
+lar[51631]=`<b>ος, ον :<br>      1</b> de couleur fuligineuse : ἄμπελος, TH. <i>H.P. 2, 3, 2, c</i>. κάπνεως.<br><b>      2</b> <i>subst</i>. ἡ κ. fumeterre (<i>cf. lat</i>. fumaria) <i>plante,</i> DIOSC. <i>4, 110</i>.<p><b>Étym</b>. καπνός.`

@@ -1,0 +1,1 @@
+lar[81394]=`<b>ποικιλό·δωρος, ος, ον</b> <font color="purple">[ῐ]</font> qui fait des présents variés, NONN. <i>Jo. 12, 15</i>.<p><b>Étym</b>. π. δῶρον.`

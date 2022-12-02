@@ -1,0 +1,1 @@
+lar[66564]=`<b>μονό·κροτος, ος, ον</b>, qui ne frappe qu’un coup, <i>càd</i>. qui n’a qu’un rang de rames <i>ou</i> de rameurs, XÉN. <i>Hell. 2, 1, 28</i> ; STR. <i>325</i>.<p><b>Étym</b>. μ. κροτέω.`

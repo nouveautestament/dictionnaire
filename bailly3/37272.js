@@ -1,0 +1,1 @@
+lar[37272]=`<b>ή, όν</b>, insolent, COM. (STOB. <i>Ecl. phys. p. 194).</i><p><b>Étym</b>. ἐπηρεάζω.`

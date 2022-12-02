@@ -1,0 +1,1 @@
+lar[11588]=`<b>ἀπειρό·κακος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> sans expérience du malheur, EUR. <i>Alc. 927</i>.<br><b>      2</b> sans expérience du mal, NONN. <i>D. 42, 155</i> ; τὸ ἀ. THC. <i>5, 105,</i> simplicité, naïveté.<p><b>Étym</b>. ἄ. κακός.`

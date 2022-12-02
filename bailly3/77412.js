@@ -1,0 +1,1 @@
+lar[77412]=`<b>πατρ·ωνύμιος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte le nom du père, ESCHL. <i>Pers. 146</i>.<p><b>Étym</b>. π. ὄνομα.`

@@ -1,0 +1,1 @@
+lar[26403]=`<b>ή, όν</b> <font color="purple">[ῑῠ]</font> dithyrambique, DH. <i>Thuc. 29, etc.</i> ; ARSTT. <i>Poet. 1, 13</i>.<p><b>Étym</b>. διθύραμβος.`

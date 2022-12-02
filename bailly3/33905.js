@@ -1,0 +1,1 @@
+lar[33905]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui a une dénomination contraire (<i>v</i>. ἐναντιωνυμέω) NICOM. <i>Arithm. p. 78</i>.<p><b>Étym</b>. ἐναντίος, ὄνομα.`

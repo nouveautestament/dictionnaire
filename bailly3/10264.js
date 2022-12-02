@@ -1,0 +1,1 @@
+lar[10264]=`<b>ἀντι·περιφορά, ᾶς (ἡ)</b> action de tourner en sens contraire, PROCL. <i>Plat. Parm. 571</i>.<p><b>Étym</b>. ἀ. περιφέρω.`

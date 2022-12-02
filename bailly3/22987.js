@@ -1,0 +1,1 @@
+lar[22987]=`<font color="darkgreen">(<i>seul. impf. 3 sg</i>. δαίνυεν <font color="purple">[ῠ]</font>)</font> <i>c</i>. δαίνυμι CALL. <i>Cer. 84</i>.`

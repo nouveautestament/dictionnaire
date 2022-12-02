@@ -1,0 +1,1 @@
+lar[87317]=`<b>εως (ὁ)</b> <i>sorte d’oiseau de proie,</i> ARSTT. <i>H.A. 9, 36, 1</i>.`

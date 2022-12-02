@@ -1,0 +1,1 @@
+lar[8593]=`<i>adv</i>., sans être prêt, JOS. <i>Vit. 22</i> ; APP. <i>Mithr. 12</i>.`

@@ -1,0 +1,1 @@
+lar[81286]=`<b>ῆρος</b>, <i>adj. m.</i> :<br><b>      1</b> qui tombe jusqu’aux pieds, ESCHL. <i>Ch. 1000</i>.<br><b>      2</b> muni de pieds : ὁ π. JOS. <i>A.J. 8, 3, 7</i>, trépied.<p><b>Étym</b>. ποδίζω.`

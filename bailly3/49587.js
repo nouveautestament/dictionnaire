@@ -1,0 +1,1 @@
+lar[49587]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐ]</font> <i>c</i>. ἰσίκιον A. APHR. <i>Probl. 11, 14</i>.`

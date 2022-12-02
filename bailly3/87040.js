@@ -1,0 +1,1 @@
+lar[87040]=`<b>πρό·χωλος, ος, ον</b>, tout à fait boiteux, LUC. <i>Oc. 146</i>.<p><b>Étym</b>. π. χωλός.`

@@ -1,0 +1,1 @@
+lar[26974]=`<b>δι·πόδης, ου</b> <i>ou</i> <b>δί·ποδος, ου</b>, <i>adj. m. (seul. gén</i>. διπόδου <font color="purple">[ῐ]</font>) long <i>ou</i> large de deux pieds, XÉN. <i>Œc. 19, 3</i>.<p><b>Étym</b>. δίς, πούς.`

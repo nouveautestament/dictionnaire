@@ -1,0 +1,1 @@
+lar[65505]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> petite pelote, HÉRON <i>Aut. p. 148</i>.<p><b>Étym</b>. <i>dim. de</i> μήρυμα.`

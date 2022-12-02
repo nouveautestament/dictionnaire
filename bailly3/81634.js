@@ -1,0 +1,1 @@
+lar[81634]=`<font color="purple">[ᾰσ]</font><br><b>      1</b> multiplier, EUCL. <i>Elem. 7, 10 ; au pass</i>. ARSTT. <i>Phys. 6, 7, 2</i>.<br><b>      2</b> <i>fig</i>. amplifier, POL. <i>30, 4, 13</i> ; DS. <i>1, 1</i>.<p><b>Étym</b>. πολλαπλάσιος.`

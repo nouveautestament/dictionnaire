@@ -1,0 +1,1 @@
+lar[89967]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> bouleau, <i>arbre,</i> TH. <i>H.P. 3, 14, 4</i>.`

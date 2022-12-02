@@ -1,0 +1,1 @@
+lar[73088]=`<b>ης (ἡ)</b> riz, <i>plante et graine,</i> TH. <i>H.P. 4, 5, etc.</i> ; STR. <i>690</i> ; DIOSC. <i>2, 117</i> ; EL. <i>N.A. 13, 8, etc</i>.<p><b>Étym</b>. <i>orig. orientale</i>.`

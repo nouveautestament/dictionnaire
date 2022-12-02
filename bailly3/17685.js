@@ -1,0 +1,1 @@
+lar[17685]=`<i>adv</i>., là même, ici même, <i>avec mouv</i>. HDT. <i>3, 124</i> ; THC. <i>7, 26</i> ; AR. <i>Lys. 873, etc</i>.<p><b>Étym</b>. αὐτός, -σε.`

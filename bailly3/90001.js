@@ -1,0 +1,1 @@
+lar[90001]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> sésame, <i>plante oléagineuse,</i> GEOP. <i>3, 2, 4</i>.`

@@ -1,0 +1,1 @@
+lar[85821]=`<b>ατος (τὸ)</b> objet <i>ou</i> personne à qui on adresse la parole, EUR. <i>Suppl. 803</i>.<p><b>Étym</b>. προσηγορέω.`

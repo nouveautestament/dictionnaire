@@ -1,0 +1,1 @@
+lar[64074]=`<b>μελισσο·βότος, ος, ον</b>, qui donne la pâture aux abeilles, DP. <i>327</i>.<p><b>Étym</b>. μ. βόσκω.`

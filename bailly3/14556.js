@@ -1,0 +1,1 @@
+lar[14556]=`<b>ας (ἡ)</b> l’Arie (<i>partie de la province moderne de</i> Chorasan), <i>contrée de Perse,</i> STR. JOS. <i>etc.</i> ; ἡ Ἀρία χώρα, TH. <i>H.P. 4, 4, 12, m. sign</i>.<p>➳ <i>Ion</i>. Ἀρίη, ANTH. <i>9, 557</i>.`

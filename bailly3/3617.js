@@ -1,0 +1,1 @@
+lar[3617]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> auditeur, MÉN. (POLL. <i>2, 82</i>) ; DH. <i>Isocr. 1</i>.<p><b>Étym</b>. ἀκούω.`

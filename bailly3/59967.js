@@ -1,0 +1,1 @@
+lar[59967]=`<b>ου</b> <i>ou</i> <b>λατρόν, οῦ (τὸ)</b> salaire, rémunération, ESCHL. <i>Suppl. 1011</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

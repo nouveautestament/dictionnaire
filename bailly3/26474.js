@@ -1,0 +1,1 @@
+lar[26474]=`<b>ή, όν</b> <font color="purple">[δῐ]</font> d’avocat, de barreau, HERMOG. <i>Rhet. 3, 49, 6</i>.<p><b>Étym</b>. δικαιολόγος.`

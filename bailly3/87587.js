@@ -1,0 +1,1 @@
+lar[87587]=`<b>Πυθό·πολις, εως (ἡ)</b> <font color="purple">[ῡ]</font> Pythopolis, <i>v. de Bithynie,</i> MÉNÉCR. NYSS. (PLUT. <i>Thes. 26).</i><p><b>Étym</b>. Πυθώ, πόλις.`

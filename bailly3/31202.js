@@ -1,0 +1,1 @@
+lar[31202]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font><br><b>      1</b> punition, châtiment, APD. <i>3, 7, 6</i>.<br><b>      2</b> remise d’une peine, DC. <i>38, 7</i>.<p><b>Étym</b>. ἔκδικος.`

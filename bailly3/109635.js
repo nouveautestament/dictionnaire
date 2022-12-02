@@ -1,0 +1,1 @@
+lar[109635]=`<b>ψευδ·απόστολος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> faux apôtre, NT. <i>2Cor. 11, 13</i>.`

@@ -1,0 +1,1 @@
+lar[93242]=`<b>συγ·καθοσιόω-ῶ</b>, consacrer avec <i>ou</i> ensemble, PLUT. <i>M. 636e ;</i> JOS. <i>A.J. 16, 2, 4</i>.`

@@ -1,0 +1,1 @@
+lar[68043]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> chrysalide de ver à soie, ARSTT. <i>H.A. 5, 19</i> ; ATH. <i>352f</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

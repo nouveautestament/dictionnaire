@@ -1,0 +1,1 @@
+lar[39268]=`<b>εως (ἡ)</b> <font color="purple">[ᾰλῐ]</font> gangrène à la surface, HPC. <i>Art. 816</i>.<p><b>Étym</b>. ἐπισφακελίζω.`

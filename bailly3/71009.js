@@ -1,0 +1,1 @@
+lar[71009]=`<font color="purple">[ῐᾰ]</font> (<i>seul. part. prés</i>.) être faible, épuisé, exténué, IL. <i>15, 246, etc</i>.<p><b>Étym</b>. ὀλιγοδρανής.`

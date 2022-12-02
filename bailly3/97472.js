@@ -1,0 +1,1 @@
+lar[97472]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font><br><b>      1</b> habitudes d’économie, administration bien ordonnée, XÉN. <i>Œc. 7, 41</i> ; PLAT. <i>Leg. 806a.</i><br><b>      2</b> charge d’intendant <i>ou</i> de trésorier, ARSTT. <i>Pol. 5, 9, 3 ; à Rome,</i> questure, PLUT. <i>Cato mi. 17, 18</i>.<p><b>Étym</b>. ταμιεύω.`

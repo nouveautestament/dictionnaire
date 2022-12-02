@@ -1,0 +1,1 @@
+lar[86909]=`<b>άδος (ἡ)</b> sorte de coupe, <i>ainsi nommée d’une ville de Bithynie,</i> ATH. <i>475f, 496d</i>.`

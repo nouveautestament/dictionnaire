@@ -1,0 +1,1 @@
+lar[82543]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> grand nombre de voix <i>ou</i> de sons, <i>en parl. d’oiseaux,</i> DS. <i>2, 56 ; de flûtes,</i> PLUT. <i>M. 1141c.</i><br><b>      2</b> <i>p. suite,</i> variété de langage, JOS. <i>A.J. 1, 4, 3</i>.<br><b>      3</b> parole abondante, loquacité, PLUT. <i>M. 674c</i>.<p><b>Étym</b>. πολύφωνος.`

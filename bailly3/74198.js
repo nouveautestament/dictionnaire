@@ -1,0 +1,1 @@
+lar[74198]=`<b>παθο·κράτεια, ας (ἡ)</b> <font color="purple">[ᾰθᾰτ]</font> empire sur ses passions, JOS. <i>Macc. 13, 3</i>.<p><b>Étym</b>. π. κρατέω.`

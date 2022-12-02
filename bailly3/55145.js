@@ -1,0 +1,1 @@
+lar[55145]=`<b>οῦ (ὁ)</b> qui prend soin de, curateur, ARSTT. <i>Probl. 19, 48</i> ; ANTH. <i>7, 712</i>.<p><b>Étym</b>. κηδεύω.`

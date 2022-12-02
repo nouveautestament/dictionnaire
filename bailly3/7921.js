@@ -1,0 +1,1 @@
+lar[7921]=`<b>ἀνα·χελύσσομαι</b>, expectorer en toussant, GAL. <i>Lex. Hipp</i>.<p><b>Étym</b>. <i>conj</i>.`

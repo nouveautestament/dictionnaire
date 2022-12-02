@@ -1,0 +1,1 @@
+lar[76656]=`<b>παρ·εμβαίνω</b>, s’avancer dans, à côté de, DH. <i>2, 34, etc.</i> ; PLUT. <i>M. 593e</i>.`

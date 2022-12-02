@@ -1,0 +1,1 @@
+lar[108251]=`<b>εως (ἡ)</b> Khemmis :<br><b>      1</b> <i>v. de la Haute-Égypte (auj</i>. Akhmîm) HDT. <i>2, 91, etc.</i><br><b>      2</b> <i>î. du lac Boutô dans la Basse-Égypte,</i> HDT. <i>2, 156</i>.`

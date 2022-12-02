@@ -1,0 +1,1 @@
+lar[78889]=`<b>περι·λιπής, ής, ές</b> <font color="purple">[λῐ]</font> <i>c</i>. περίλοιπος, <i>gén</i>. PLAT. <i>Leg. 702a ; abs</i>. POL. <i>1, 73, 2</i> ; STR. <i>388</i>.`

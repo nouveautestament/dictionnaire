@@ -1,0 +1,1 @@
+lar[2265]=`<b>αἰγι·νομεύς, έως</b>, <i>ion</i>. <b>ῆος (ὁ)</b> <font color="purple">[ῐ]</font> chevrier, ANTH. <i>9, 318</i>.<p><b>Étym</b>. αἴξ, νέμω.`

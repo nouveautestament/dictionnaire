@@ -1,0 +1,1 @@
+lar[94134]=`<b>συμ·παροίχομαι</b>, passer ensemble <i>ou</i> avec, <i>dat</i>. SEXT. <i>M. 10, 201, 202</i>.`

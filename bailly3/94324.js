@@ -1,0 +1,1 @@
+lar[94324]=`<b>συμ·πορσύνω</b> <font color="purple">[ῡ <i>prés.,</i> ῠ <i>fut</i>.]</font> procurer ensemble, HPC. <i>Art. 792</i> ; A.RH. <i>4, 549</i>.`

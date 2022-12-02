@@ -1,0 +1,1 @@
+lar[67903]=`<b>οῦ (ὁ)</b> premier labour d’une terre en jachère, XÉN. <i>Œc. 7, 20</i>.<p><b>Étym</b>. νεάω.`

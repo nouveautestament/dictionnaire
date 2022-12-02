@@ -1,0 +1,1 @@
+lar[85107]=`<b>προσ·αιωρέομαι-οῦμαι</b>, se suspendre à, se soulever : προσαιωρήσασθαι τῇ λόγχῃ, DS. <i>Exc. p. 594, 50,</i> se soulever en s’appuyant sur sa lance.`

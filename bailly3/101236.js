@@ -1,0 +1,1 @@
+lar[101236]=`<i>dat. sg.</i> :<br><b>      1</b> de <i>l’art</i>. ὁ, ἡ, τό.<br><b>      2</b> <i>dat. sg. poét. du relat</i>. ὅς, ἥ, ὅ.<br><b>      3</b> <i>att. p</i>. τινί, <i>dat. sg. de</i> τὶς (<i>cf</i>. τῳ).`

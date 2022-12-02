@@ -1,0 +1,1 @@
+lar[48216]=`<b>ης (ἡ)</b> Iambè, <i>n. de f. myth</i>. HH. <i>Cer. 195, 203</i>.<p><b>Étym</b>. ἰάπτω.`

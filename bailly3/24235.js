@@ -1,0 +1,1 @@
+lar[24235]=`<b>*Δημο·γέρων</b>, <i>seul. dor</i>. <b>Δαμογέρων (ὁ)</b> <font color="purple">[ᾱ]</font> Damogérôn, <i>écrivain agricole,</i> GEOP. <i>11, 30</i>.<p><b>Étym</b>. <i>v</i>. δημογέρων.`

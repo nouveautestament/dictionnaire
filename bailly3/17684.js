@@ -1,0 +1,1 @@
+lar[17684]=`<b>αὐτό·σαρξ, -σαρκος (ὁ, ἡ)</b> qui n’est que chair, charnel, CHRYS.`

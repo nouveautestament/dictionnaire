@@ -1,0 +1,1 @@
+lar[29551]=`<b>ἐγ·καταπίμπρημι</b> <font color="darkgreen">(<i>ao. inf</i>. -καταπρῆσαι)</font> faire brûler dans, <i>dat</i>. PHALAR. <i>Ep. 5, p. 28, 65 Valckenaer</i>.<p><b>Étym</b>. ἐν, κ.`

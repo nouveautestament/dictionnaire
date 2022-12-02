@@ -1,0 +1,1 @@
+lar[106467]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. φλύκταινα, HPC. <i>994d</i>.`

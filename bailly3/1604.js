@@ -1,0 +1,1 @@
+lar[1604]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδω]</font> <i>c</i>. Ἀδωναία, NONN. <i>D. 33, 25</i>.`

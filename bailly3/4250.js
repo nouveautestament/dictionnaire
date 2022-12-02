@@ -1,0 +1,1 @@
+lar[4250]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui repousse, <i>gén</i>. A.RH. <i>2, 519</i>.<br><b>      2</b> <i>p. suite,</i> qui vient au secours de, qui soutient, défenseur de, <i>gén</i>. IL. <i>20, 396 ; dat</i>. XÉN. <i>Œc. 4, 3</i>.<p><b>Étym</b>. ἀλέξω.`

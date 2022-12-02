@@ -1,0 +1,1 @@
+lar[18171]=`<b>ῆς (ἡ)</b> action de tirer au dehors, <i>d’où</i> :<br><b>      1</b> évacuation, ARCHIG. (ORIB. <i>2, 154, 8</i>).<br><b>      2</b> distraction, abstraction, CLÉM. <i>503</i>.<p><b>Étym</b>. ἀφέλκω.`

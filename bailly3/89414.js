@@ -1,0 +1,1 @@
+lar[89414]=`<b>ου (τὸ)</b> <i>sorte de vêtement, p.-ê. c</i>. σάραπις, SOPH. <i>fr. 139 Dind</i>.`

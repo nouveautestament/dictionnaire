@@ -1,0 +1,1 @@
+lar[31729]=`<b>ῆς (ἡ)</b> action de mener paître, DH. <i>1, 39</i>.<p><b>Étym</b>. ἐκνέμω.`

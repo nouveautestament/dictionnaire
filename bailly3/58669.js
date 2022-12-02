@@ -1,0 +1,1 @@
+lar[58669]=`<b>κυματο·πλήξ, ῆγος (ὁ, ἡ)</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> battu des flots, SOPH. <i>O.C. 1241</i> ; ANTH. <i>10, 7</i>.<br><b>      2</b> ballotté par les flots, HPC. <i>357, 49</i>.<p>➳ κυματόπληξ, HPC. <i>l. c</i>.<p><b>Étym</b>. κῦμα, πλήσσω.`

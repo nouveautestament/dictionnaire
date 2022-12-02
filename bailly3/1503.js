@@ -1,0 +1,1 @@
+lar[1503]=`<b>ἀ·δούλευτος, ος, ον :<br>      1</b> qui n’a jamais été esclave, IS. (POLL. <i>3, 80</i>).<br><b>      2</b> qui ne veut pas servir <i>ou</i> travailler, ARR. <i>Epict. 2, 10, 1</i>.<br><b>      3</b> non asservi, SIB. <i>10, 22</i>.<p><b>Étym</b>. ἀ, δουλεύω.`

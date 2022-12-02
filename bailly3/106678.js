@@ -1,0 +1,1 @@
+lar[106678]=`<b>εως (ἡ) :<br>      1</b> action de porter, DH. <i>2, 64</i> ; ATH. <i>220a.</i><br><b>      2</b> état de ce qui est porté, DH. <i>2, 49</i>.<p><b>Étym</b>. φορέω.`

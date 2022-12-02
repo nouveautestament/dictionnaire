@@ -1,0 +1,1 @@
+lar[58342]=`<font color="purple">[ᾰ]</font> <i>c</i>. κυανέω, DIOSC. <i>1, 1, etc.</i> ; PLUT. <i>M. 894f</i>.`

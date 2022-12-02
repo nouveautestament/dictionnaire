@@ -1,0 +1,1 @@
+lar[40390]=`<b>Ἐρι·ασπίδας</b>, <i>gén</i>. <b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Ériaspidas, <i>h</i>. ANTH. <i>6, 153</i>.<p><b>Étym</b>. ἐρι-, ἀσπίς.`

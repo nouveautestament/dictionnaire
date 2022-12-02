@@ -1,0 +1,1 @@
+lar[39220]=`<b>ἐπι·συμπλέκω</b>, impliquer en outre dans, <i>dat</i>. DYSC. <i>Synt. 124, 26</i> ; RHÉT. <i>7c, 17 et 19 W</i>.`

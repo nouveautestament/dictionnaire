@@ -1,0 +1,1 @@
+lar[9093]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀνιαρός, ESCHL. <i>Pers. 256, etc</i>.`

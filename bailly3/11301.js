@@ -1,0 +1,1 @@
+lar[11301]=`<font color="purple">[βᾰ]</font> <i>adv</i>., d’une manière inviolable, ARR. <i>Epict. 2, 11, 17 ; 2, 15, 1</i>.`

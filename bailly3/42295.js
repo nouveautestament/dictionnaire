@@ -1,0 +1,1 @@
+lar[42295]=`<b>εὐθυ·ρρήμων, ων, ον</b>, qui parle sans détour, franc, CIC. <i>Fam. 12, 16, 3, au cp</i>. -ονέστερος.<p><b>Étym</b>. εὐ. ῥῆμα.`

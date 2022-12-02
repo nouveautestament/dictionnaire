@@ -1,0 +1,1 @@
+lar[44770]=`<b>ητος (ἡ)</b> nature animale, animalité, PLUT. <i>M. 1001b ;</i> GAL. <i>5, 336</i>.<p><b>Étym</b>. ζῷον.`

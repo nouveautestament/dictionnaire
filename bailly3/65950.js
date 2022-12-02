@@ -1,0 +1,1 @@
+lar[65950]=`<b>μισ·άδελφος, ος, ον</b> <font color="purple">[ῑᾰδ]</font> qui hait son frère, PLUT. <i>M. 482c</i>.<p><b>Étym</b>. μισέω, ἀδελφός.`

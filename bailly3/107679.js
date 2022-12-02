@@ -1,0 +1,1 @@
+lar[107679]=`<b>χαλκό·πεδος, ος, ον</b>, au sol d’airain, <i>càd</i>. inébranlable, PD. <i>I. 7, 61</i>.<p><b>Étym</b>. χ. πέδον.`

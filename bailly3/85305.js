@@ -1,0 +1,1 @@
+lar[85305]=`<b>προσ·αστειάζομαι</b>, ajouter une plaisanterie piquante <i>ou</i> aimable, POL. <i>fr. 161 Dind</i>.<p><b>Étym</b>. π. ἀστεῖος.`

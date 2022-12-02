@@ -1,0 +1,1 @@
+lar[27833]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱᾰ]</font> auteur dramatique ; <i>fig</i>. qui machine, qui concerte, JOS. <i>B.J. 1, 26, 4</i>.<p><b>Étym</b>. δρᾶμα, ἔργον.`

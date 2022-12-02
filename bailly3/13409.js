@@ -1,0 +1,1 @@
+lar[13409]=`<b>ιδος (ἡ)</b> <font color="purple">[τᾰ]</font> qui fait défection, séditieux, rebelle, SPT. <i>2Esdr. 2, 14</i> ; JOS. <i>A.J. 11, 2, 1</i>.<p><b>Étym</b>. <i>cf</i>. ἀποστάτης.`

@@ -1,0 +1,1 @@
+lar[82973]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ποτάμιος, ARSTT. <i>Meteor. 2, 1, 6</i>.`

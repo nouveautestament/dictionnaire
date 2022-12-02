@@ -1,0 +1,1 @@
+lar[5654]=`<b>ἀμμο·βάτης, ου (ὁ)</b> <font color="purple">[βᾰ]</font> sorte de serpent (<i>litt</i>. qui marche sur le sable) EL. <i>N.A. 6, 51</i>.<p><b>Étym</b>. ἄμμος, βαίνω.`

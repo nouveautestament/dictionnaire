@@ -1,0 +1,1 @@
+lar[106175]=`<b>φιλο·φόρμιγξ, ιγγος (ὁ, ἡ)</b> <font color="purple">[φῐ]</font> qui aime la lyre, <i>càd</i>. l’accompagnement de la lyre, ESCHL. <i>Suppl. 696</i>.`

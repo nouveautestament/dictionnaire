@@ -1,0 +1,1 @@
+lar[27601]=`<b>δορι·πόνος, ος, ον</b> <font color="purple">[ῐ]</font> occupé aux travaux de la guerre, belliqueux, EUR. <i>I.A. 771, El. 479</i>.<p><b>Étym</b>. δόρυ, πένομαι.`

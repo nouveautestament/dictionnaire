@@ -1,0 +1,1 @@
+lar[67018]=`<b>εως (ἡ)</b> initiation aux préceptes d’une religion, JAMBL. <i>V. Pyth. 154</i> ; PLUT. <i>M. 169d</i>.<p><b>Étym</b>. μυέω.`

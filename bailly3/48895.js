@@ -1,0 +1,1 @@
+lar[48895]=`<b>(ὁ)</b> <i>c</i>. Οἰλεύς, HÉS. <i>fr. 3 Gaisford</i> ; EUR. <i>Rhes. 175, etc</i>.`

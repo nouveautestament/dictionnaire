@@ -1,0 +1,1 @@
+lar[43550]=`<b>εὐ·σωματώδης, ης, ες</b> <font color="purple">[ᾰ]</font> robuste, dont le corps a belle apparence, ARSTT. <i>Probl. 2, 31, au cp</i>. -έστερος.<p><b>Étym</b>. εὖ, σῶμα, -ωδης.`

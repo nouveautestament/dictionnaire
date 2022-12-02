@@ -1,0 +1,1 @@
+lar[66605]=`<b>μονό·ποιος, ος, ον</b>, qui n’a qu’une propriété, une qualité, SEXT. <i>P. 94, p. 26</i>.<p><b>Étym</b>. μ. ποιός.`

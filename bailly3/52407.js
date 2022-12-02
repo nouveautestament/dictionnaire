@@ -1,0 +1,1 @@
+lar[52407]=`<b>κατα·θήγω</b>, aiguiser contre <i>ou</i> dans, ANTH. <i>6, 303</i>.`

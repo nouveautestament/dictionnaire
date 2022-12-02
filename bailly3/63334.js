@@ -1,0 +1,1 @@
+lar[63334]=`<b>μεγαλ·ίστωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui sait de grandes choses <i>ou</i> qui sait beaucoup, EUM. <i>p. 258</i>.<p><b>Étym</b>. μ. ἵστωρ.`

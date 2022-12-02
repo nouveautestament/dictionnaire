@@ -1,0 +1,1 @@
+lar[92609]=`<b>οῦ (ὁ)</b> piqûre, ESCHL. <i>Suppl. 839</i>.<p><b>Étym</b>. στίζω.`

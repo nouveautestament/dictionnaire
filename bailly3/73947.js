@@ -1,0 +1,1 @@
+lar[73947]=`<b>ὀχλο·λοίδορος, ος, ον</b>, qui outrage la foule, le bas peuple, TIMON (DL. <i>9, 6).</i><p><b>Étym</b>. ὄ. λοιδορέω.`

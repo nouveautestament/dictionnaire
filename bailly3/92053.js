@@ -1,0 +1,1 @@
+lar[92053]=`<b>(ὁ)</b> Stagès, <i>Perse,</i> THC. <i>8, 16</i> ; XÉN. <i>Hell. 1, 2, 5</i>.`

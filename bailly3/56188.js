@@ -1,0 +1,1 @@
+lar[56188]=`<b>οῦς (ἡ)</b> Klôthô, <i>une des trois Parques,</i> HÉS. <i>Th. 218, 905 ; Sc. 258</i> ; PLAT. <i>Rsp. 617c ;</i> LUC. <i>H. conscr. 38</i>.<p>➳ <i>Voc</i>. -οῖ, LUC. <i>Cat. 5</i>.<p><b>Étym</b>. κλώθω.`

@@ -1,0 +1,1 @@
+lar[71110]=`(<i>seul. prés. et impf.) c</i>. ὀλισθάνω, ARSTT. <i>Probl. 24, 1, etc</i>.`

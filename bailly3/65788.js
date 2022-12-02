@@ -1,0 +1,1 @@
+lar[65788]=`<b>ή, όν</b>, de Milet <i>ou</i> Milésien, PLUT. <i>Crass. 32</i> ; LUC. <i>Am. 1</i>.<p><b>Étym</b>. Μιλήσιος.`

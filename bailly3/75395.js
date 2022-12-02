@@ -1,0 +1,1 @@
+lar[75395]=`<b>ης (ἡ)</b> pousse, rejeton, ramification, TH. <i>H.P. 1, 2, 6</i>.<p><b>Étym</b>. παραβλαστάνω.`

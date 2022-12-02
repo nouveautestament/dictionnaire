@@ -1,0 +1,1 @@
+lar[62907]=`<b>ου (τὸ)</b> <font color="purple">[γᾰ]</font> perle, PAUS. <i>8, 18, 12</i> ; PHILSTR. <i>913</i>.<p><b>Étym</b>. <i>cf</i>. μαργαρίτης.`

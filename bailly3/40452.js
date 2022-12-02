@@ -1,0 +1,1 @@
+lar[40452]=`<b>ἐρι·κτέανος, ος, ον</b> <font color="purple">[ᾰ]</font> aux riches possessions, OPP. <i>C. 1, 312</i>.<p><b>Étym</b>. ἐρι-, κτέανον.`

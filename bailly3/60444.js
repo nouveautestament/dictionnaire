@@ -1,0 +1,1 @@
+lar[60444]=`<b>λεπτο·τράχηλος, ος, ον</b> <font color="purple">[ᾰ]</font> au cou mince, grêle, A. MYND. (ATH. <i>392c</i>).<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Physiogn. 5, 5</i>.`

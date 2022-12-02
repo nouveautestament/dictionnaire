@@ -1,0 +1,1 @@
+lar[3864]=`<b>ἀκρο·φαληριάω-ῶ</b> (<i>seul. part. prés. fém. épq</i>. -ιόωσα) avoir le sommet blanchi (d’écume) NONN. <i>D. 2, 460</i>.`

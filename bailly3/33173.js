@@ -1,0 +1,1 @@
+lar[33173]=`<b>ας (ἡ)</b> incision pour extraire le fœtus, GAL. <i>2, 92d</i>.<p><b>Étym</b>. <i>cf</i>. ἐμβρυοτομέω.`

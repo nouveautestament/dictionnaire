@@ -1,0 +1,1 @@
+lar[83697]=`<b>προ·αποφαίνω :<br>      1</b> faire connaître auparavant, <i>acc</i>. PLUT. <i>M. 1146c.</i><br><b>      2</b> déclarer auparavant : Καίσαρα τύραννον, APP. <i>Civ. 2, 127,</i> César tyran.<br><b><i>Moy.</i></b> faire connaître <i>ou</i> déclarer auparavant (son avis) <i>acc</i>. PLAT. <i>Prot. 340b, etc.</i> ; PLUT. <i>Mar. 29</i>.`

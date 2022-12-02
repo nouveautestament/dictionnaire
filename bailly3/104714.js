@@ -1,0 +1,1 @@
+lar[104714]=`<b>ή, όν</b> <font color="purple">[φᾰῑτ]</font> qui concerne les soldats d’une phalange <i>ou</i> d’une légion : σπεῖρα φαλαγγιτική, POL. <i>18, 11, 10,</i> division d’infanterie.<p><b>Étym</b>. φαλαγγίτης.`

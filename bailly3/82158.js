@@ -1,0 +1,1 @@
+lar[82158]=`<b>πολύ·νηστος, ος, ον</b> <font color="purple">[ῠ]</font> qui forme un énorme monceau, SIB. <i>3, 543</i>.<p><b>Étym</b>. π. νήθω.`

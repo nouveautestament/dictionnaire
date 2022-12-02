@@ -1,0 +1,1 @@
+lar[67017]=`<b>ου (ὁ)</b> Myènos, <i>h</i>. Ps.-PLUT. <i>Fluv. 8, 3</i>.`

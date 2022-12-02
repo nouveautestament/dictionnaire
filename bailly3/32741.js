@@ -1,0 +1,1 @@
+lar[32741]=`<b>      1</b> tromper par de vaines espérances, OD. <i>19, 565 ; avec l’acc</i>. IL. <i>23, 388</i>.<br><b>      2</b> dévaster, HÉS. <i>Th. 330</i>.<p>➳ <i>Prés. ind. 3 pl</i>. ἐλεφαίρονται, OD. <i>19, 565 ; impf. 3 sg</i>. ἐλεφαίρετο, HÉS. <i>Th. 330, et part. ao</i>. ἐλεφηράμενος, IL. <i>23, 388</i>.`

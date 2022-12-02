@@ -1,0 +1,1 @@
+lar[69163]=`<b>νυκτι·φρούρητος, ος, ον</b>, qui fait bonne garde la nuit, ESCHL. <i>Pr. 862</i>.<p><b>Étym</b>. ν. φρουρέω.`

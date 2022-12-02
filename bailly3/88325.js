@@ -1,0 +1,1 @@
+lar[88325]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> qui trame (<i>litt</i>. qui coud) un complot, ESCHL. <i>Ag. 1604</i>.<p><b>Étym</b>. ῥάπτω.`

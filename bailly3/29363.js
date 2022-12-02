@@ -1,0 +1,1 @@
+lar[29363]=`<b>ἔγ·γλυκος, ος, ον</b> <font color="purple">[ῠ]</font> doucereux, DIOSC. <i>5, 10</i>.<p><b>Étym</b>. ἐν, γλυκύς.`

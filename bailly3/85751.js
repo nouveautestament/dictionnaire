@@ -1,0 +1,1 @@
+lar[85751]=`<b>προσ·επιφοιτάω-ῶ</b>, venir souvent auprès, PHIL. <i>2, 67</i>.`

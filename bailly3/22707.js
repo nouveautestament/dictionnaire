@@ -1,0 +1,1 @@
+lar[22707]=`<b>ου (ὁ)</b> <font color="purple">[υ]</font> Gygès, <i>roi de Lydie,</i> HDT. <i>1, 8, etc.</i> ; PLAT. <i>Rsp. 359d ;</i> PLUT. <i>etc</i>.<p>➳ <i>Voc</i>. Γύγη, HDT. <i>1, 8. Gén. épq. poét. et ion</i>. Γύγεω, ANTH. <i>7, 709 ; 9, 423</i> ; HDT. <i>1, 13, etc. Acc</i>. Γύγην, <i>ion</i>. Γυγέα, HDT. <i>1, 8 et 15</i>.`

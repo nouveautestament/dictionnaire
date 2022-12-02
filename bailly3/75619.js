@@ -1,0 +1,1 @@
+lar[75619]=`<b>ου (ὁ)</b> <font color="purple">[βᾰ]</font> <i>poét. et att. c</i>. παραβάτης, IL. <i>23, 132</i> ; EUR. <i>Suppl. 677</i>.<p>➳ <i>Dans une inscr. att</i>. CIA. <i>1, 5, 1 (500/456 av. J.-C.) ; v. Meisterh. p. 157, § 76, 6</i>.`

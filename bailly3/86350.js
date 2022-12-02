@@ -1,0 +1,1 @@
+lar[86350]=`<i>ou</i> <b>προσποιήτως</b>, <i>adv</i>., par feinte, avec dissimulation, DC. <i>44, 47</i>.<p>➳ προσποιήτως, PLAT. <i>Theæt. 174d</i>.`

@@ -1,0 +1,1 @@
+lar[21347]=`<b>ίδος (ἡ)</b> la Ganide <i>ou</i> région de Ganos, ESCHN.<p><b>Étym</b>. Γάνος.`

@@ -1,0 +1,1 @@
+lar[42091]=`<b>*εὐηγορία</b>, <i>dor</i>. <b>εὐαγορία, ας (ἡ)</b> <font color="purple">[ᾱγ]</font> éloge, louange, CALL. <i>L. Pall. 139</i>.<p><b>Étym</b>. εὐήγορος.`

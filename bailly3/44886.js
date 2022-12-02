@@ -1,0 +1,1 @@
+lar[44886]=`<b>*ἡγεμόνευμα</b>, <i>seul. dor</i>. <b>ἁγεμόνευμα, ατος (τὸ)</b> <font color="purple">[ᾱγ]</font> conduite, <i>d’où</i> guide, conducteur, EUR. <i>Ph. 1494</i>.`

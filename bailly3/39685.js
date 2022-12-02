@@ -1,0 +1,1 @@
+lar[39685]=`<b>ἐπι·χειρίζομαι</b>, mettre la main à, tenter, HPC. <i>1147 e dout</i>.<p><b>Étym</b>. ἐπί, χείρ ; <i>cf</i>. ἐπιχειρέω.`

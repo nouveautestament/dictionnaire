@@ -1,0 +1,1 @@
+lar[100398]=`<b>τρί·πορθος, ος, ον</b> <font color="purple">[ῐ]</font> trois fois dévasté, ANTH. <i>15, 25</i>.<p><b>Étym</b>. τρ. πέρθω.`

@@ -1,0 +1,1 @@
+lar[98925]=`<b>τηλε·δανός, ός, όν</b> <font color="purple">[ᾰ]</font> de longue durée, SIB. <i>14, 104 dout</i>.<p><b>Étym</b>. τῆλε, -δανος ; <i>la formation cf</i>. πευκεδανός, τυφεδανός.`

@@ -1,0 +1,1 @@
+lar[70979]=`<b>ὀλιγαρχέω-ῶ</b> <font color="purple">[ῐ]</font> être membre d’une oligarchie, ARSTT. <i>Pol. 4, 15, 13 ; au pass</i>. <b>ὀλιγαρχέομαι-οῦμαι</b>, être gouverné par une oligarchie, THC. <i>8, 76</i> ; XÉN. <i>Ath. 2, 17, 20</i> ; PLAT. <i>Rsp. 552b, etc</i>.<p><b>Étym</b>. ὀλιγάρχης.`

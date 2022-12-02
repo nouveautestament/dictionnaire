@@ -1,0 +1,1 @@
+lar[19152]=`<font color="purple">[ᾰῠῡ]</font> <i>adv</i>., avec irritation, ALCIPHR. <i>2, 3, 80 ; mot blâmé par</i> POLL. <i>3, 99</i>.`

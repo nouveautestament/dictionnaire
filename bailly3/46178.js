@@ -1,0 +1,1 @@
+lar[46178]=`<b>*θαλασσουργέω</b>, <i>att</i>. <b>θαλαττουργέω-ῶ</b> <font color="purple">[θᾰ]</font> faire métier de marin <i>ou</i> de pêcheur, POL. <i>6, 52, 1</i>.<p><b>Étym</b>. θαλασσουργός.`
