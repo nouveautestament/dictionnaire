@@ -1,0 +1,1 @@
+lar[109283]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> qui travaille l’or, orfèvre, joaillier, CRITIAS <i>56</i> ; SPT. <i>Sap. 15, 9</i>.<p><b>Étym</b>. χρ. ἔργον.`

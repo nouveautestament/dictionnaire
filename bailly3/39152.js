@@ -1,0 +1,1 @@
+lar[39152]=`<b>ή, όν</b>, épistolaire, <i>càd.</i> :<br><b>      1</b> qui convient pour une lettre, ARSTT. <i>fr. 620</i>.<br><b>      2</b> écrit dans le style d’une lettre, DH. <i>Lys. 1, 3</i> ; DL. <i>10, 25</i>.<p><b>Étym</b>. ἐπιστολή.`

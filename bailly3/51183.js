@@ -1,0 +1,1 @@
+lar[51183]=`<b>καλλι·πέδιλος, ος, ον</b> <font color="purple">[ῐῑ]</font> aux belles sandales <i>ou</i> chaussures, HH. <i>Merc. 57</i>.<p><b>Étym</b>. κ. πέδιλον.`

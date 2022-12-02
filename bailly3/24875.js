@@ -1,0 +1,1 @@
+lar[24875]=`<b>δια·κτενίζω</b> (<i>seul. part. pf. pass</i>. διεκτενισμένα) écarter (les cheveux) avec le peigne, <i>d’où</i> peigner avec soin, PHILSTR. <i>335</i>.`

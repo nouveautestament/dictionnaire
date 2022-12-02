@@ -1,0 +1,1 @@
+lar[67502]=`<b>υος (τὸ) :<br>      1</b> plante à racines noires et à fleurs blanches avec des propriétés magiques, OD. <i>10, 305</i>.<br><b>      2</b> ail à fleurs jaunes, TH. <i>H.P. 9, 15, 7</i> ; DIOSC. <i>3, 54</i>.<p>➳ <font color="purple">[ῡ]</font> <i>irrég. au gén</i>. LYC. <i>679</i>.<p><b>Étym</b>. <i>probabl. pré-grec</i>.`

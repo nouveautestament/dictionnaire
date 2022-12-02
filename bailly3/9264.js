@@ -1,0 +1,1 @@
+lar[9264]=`<b>ἀν·ομογενής, ής, ές</b>, non homogène, non de même sorte, SEXT. <i>M. 8, 229</i>.<p><b>Étym</b>. ἀν-, ὁ.`

@@ -1,0 +1,1 @@
+lar[68943]=`<b>ή, όν :<br>      1</b> de législateur, PLAT. <i>Crat. 437e ;</i> ἡ νομοθετική (<i>s.-e</i>. τέχνη) PLAT. <i>Gorg. 464c, etc</i>. fonction de législateur.<br><b>      2</b> habile à faire des lois, PLAT. <i>Leg. 657a ;</i> ARSTT. <i>Nic. 10, 9</i>.<p><b>Étym</b>. νομοθέτης.`

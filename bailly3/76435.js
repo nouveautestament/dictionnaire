@@ -1,0 +1,1 @@
+lar[76435]=`<b>παρά·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui est hors de son bon sens, fou, insensé, SOPH. <i>El. 473</i> ; EUR. <i>Hipp. 232</i> ; PLAT. <i>Leg. 649d ;</i> PLUT. <i>Pomp. 72</i>.<p><b>Étym</b>. π. φρήν.`

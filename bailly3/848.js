@@ -1,0 +1,1 @@
+lar[848]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> assemblée, EUR. <i>d’ord. au pl. dans les chœurs, El. 724, I.T. 1096, Andr. 1037 ; au sg. seul. H.f. 412</i>.<p><b>Étym</b>. ἀγορά.`

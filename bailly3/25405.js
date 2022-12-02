@@ -1,0 +1,1 @@
+lar[25405]=`<b>διά·πυος, ος, ον</b> <font color="purple">[ῡ]</font> qui suppure, HPC. <i>1257g, 1260b</i>.<p><b>Étym</b>. διά, πῦον.`

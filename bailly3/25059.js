@@ -1,0 +1,1 @@
+lar[25059]=`<b>δια·μιμνῄσκω</b> (<i>seul. pf. pass</i>. διαμέμνημαι) conserver dans sa mémoire, XÉN. <i>Mem. 1, 4, 13</i> ; DH. <i>4, 9</i>.`

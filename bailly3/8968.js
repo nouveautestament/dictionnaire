@@ -1,0 +1,1 @@
+lar[8968]=`<b>ἀνθρωπόομαι-οῦμαι</b>, <i>néol. stoïc</i>. concevoir l’idée de l’homme (<i>cf</i>. ἱππόομαι, τοιχόομαι) PLUT. <i>M. 1120c</i>.<p><b>Étym</b>. ἄνθρωπος.`

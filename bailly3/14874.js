@@ -1,0 +1,1 @@
+lar[14874]=`<b>ἁρματο·πηγός, οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> fabricant de chars, charron, IL. <i>4, 485</i> ; THCR. <i>Idyl. 25, 247</i>.<p><b>Étym</b>. ἅρμα, πήγνυμι.`

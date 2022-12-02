@@ -1,0 +1,1 @@
+lar[45388]=`<b>ἡμί·βραχυς, εια, υ</b> <font color="purple">[ᾰχ]</font> demi-bref, <i>t. de pros. (p. ex</i>. une consonne est demi-brève par rapport à une voyelle brève) SCH.-D. THR. <i>824, 25</i>.<p><b>Étym</b>. ἡμι-, βραχύς.`

@@ -1,0 +1,1 @@
+lar[48259]=`<b>α, ον</b> <font color="purple">[ᾱῠ]</font> d’Iapygie, THC. <i>6, 29</i>.<p>➳ <i>Ion</i>. Ἰηπύγιος, DP. <i>482</i>.`

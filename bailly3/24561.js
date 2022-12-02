@@ -1,0 +1,1 @@
+lar[24561]=`<b>ατος (τὸ)</b> <font color="purple">[ῐκ]</font> objet d’un procès à régler par διαδικασία, LYS. <i>149, 7</i>.<p><b>Étym</b>. διαδικάζω.`

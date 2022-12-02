@@ -1,0 +1,1 @@
+lar[67394]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de parfumer, HPC.<p><b>Étym</b>. μυρόω.`

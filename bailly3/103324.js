@@ -1,0 +1,1 @@
+lar[103324]=`<b>ὑπο·καρόω-ῶ</b> <font color="purple">[ᾰ]</font> endormir un peu, assoupir, HPC. <i>Epid. 1, 987</i> ; DIOSC. <i>4, 76</i>.`

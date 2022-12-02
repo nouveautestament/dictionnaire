@@ -1,0 +1,1 @@
+lar[56923]=`<b>ήεσσα, ῆεν</b>, qui ressemble à la conyze, NIC. <i>Th. 615</i>.<p><b>Étym</b>. κόνυζα.`

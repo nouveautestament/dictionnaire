@@ -1,0 +1,1 @@
+lar[29610]=`<b>ἐγ·κατορύσσω</b>, enfouir dans, <i>avec</i> ἐν <i>et le dat</i>. DH. <i>Rhet. 5 ; avec le dat. seul,</i> CLÉM. <i>176, 889</i>.<p><b>Étym</b>. ἐν, κ.`

@@ -1,0 +1,1 @@
+lar[76720]=`<b>παρ·εντείνω</b>, tendre fortement, <i>acc</i>. RUF. <i>p. 145</i> ; tendre une nouvelle corde sur un instrument, <i>càd</i>. ajouter à son éloquence des ressources nouvelles, PLUT. <i>Per. 8</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PLUT. <i>M. 84a</i>.`

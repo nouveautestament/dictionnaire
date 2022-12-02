@@ -1,0 +1,1 @@
+lar[23630]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> fangeux, sale, CLÉM. <i>1, 152c, 653a</i> (δεῖσα, fange, LEX.).`

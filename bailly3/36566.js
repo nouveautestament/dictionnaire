@@ -1,0 +1,1 @@
+lar[36566]=`<i>adv</i>., en jetant par dessus, <i>d’où</i> en guise de surtout, HDT. <i>2, 81</i>.<p><b>Étym</b>. ἐπαναβάλλω, -δον.`

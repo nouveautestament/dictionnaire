@@ -1,0 +1,1 @@
+lar[105499]=`<b>φιλ·απόδημος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime à voyager, XÉN. <i>Hell. 4, 3, 2</i> ; EL. <i>N.A. 7, 24</i> ; ARTÉM. <i>1, 80</i>.`

@@ -1,0 +1,1 @@
+lar[99653]=`<b>ατος (τὸ) :<br>      1</b> ciselure en creux <i>ou</i> en relief, SOPATR. (ATH. <i>230e</i>) ; PLUT. <i>M. 42c ;</i> A. PL. <i>89, 5</i>.<br><b>      2</b> vase ciselé, MÉN. (ATH. <i>484d</i>) ; DS. <i>3, 47</i> ; STR. <i>387</i>.<p><b>Étym</b>. τορεύω.`

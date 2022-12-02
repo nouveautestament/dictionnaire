@@ -1,0 +1,1 @@
+lar[77243]=`<b>πασι·πόρνη, ης (ἡ)</b> <font color="purple">[ᾱῐ]</font> fille publique, courtisane, HERMIPP. (<i>Com. fr. 2, 384).</i><p><b>Étym</b>. π. πόρνη.`

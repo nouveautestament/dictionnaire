@@ -1,0 +1,1 @@
+lar[53571]=`<b>κατα·τρεπτικῶς</b>, <i>adv</i>., de manière à retourner, à changer, STOB. <i>Ecl. 2, 150</i>.<p><b>Étym</b>. κ. τρέπω.`

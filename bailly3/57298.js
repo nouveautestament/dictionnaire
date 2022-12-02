@@ -1,0 +1,1 @@
+lar[57298]=`<b>κοσμουργέω-ῶ</b>, créer (<i>propr</i>. travailler) le monde, HÉRACLITE ÉPH.<p><b>Étym</b>. κοσμουργός.`

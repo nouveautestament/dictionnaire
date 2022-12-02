@@ -1,0 +1,1 @@
+lar[1585]=`<font color="purple">[ᾰῠᾰ]</font> <i>adv</i>., sans force, ANT. <i>122, 42 ; 127, 26</i> ; ἀδ. ἔχειν, être impuissant, PLAT. <i>Ax. 364b ;</i> PLUT. <i>Ages. 27 ; avec l’inf</i>. être incapable de, ARSTT. <i>Rhet. Al. 25, 3</i>.`

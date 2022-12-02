@@ -1,0 +1,1 @@
+lar[21125]=`<b>ου (ὁ) :<br>      1</b> Gabios, <i>chef lydien,</i> NONN. <i>D. 13, 500</i>.<br><b>      2</b> = <i>lat</i>. (Marcus) Gabius (Apicius), DC. <i>57, 19</i>.`

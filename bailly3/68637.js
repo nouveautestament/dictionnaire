@@ -1,0 +1,1 @@
+lar[68637]=`<b>ιδος</b>, <i>adj. f. c</i>. νησιώτης, ESCHL. <i>Pers. 390</i> ; PLUT. <i>M. 602e</i>.<p>➳ <i>Dor</i>. νασιῶτις <font color="purple">[ᾱ]</font> SOPH. <i>Tr. 658</i>.`

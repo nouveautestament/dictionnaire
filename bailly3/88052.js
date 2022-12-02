@@ -1,0 +1,1 @@
+lar[88052]=`<i>adv. dor. c</i>. ποῖ <i>ou</i> πῆ, SOPHR. (AMMON.Gr. <i>121</i>).`

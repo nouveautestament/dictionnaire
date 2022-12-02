@@ -1,0 +1,1 @@
+lar[23084]=`<b>ά, όν</b> <font color="purple">[ᾱ]</font> brûlant, chaud, EMPÉD. (PLUT. <i>M. 663a</i>).<p><b>Étym</b>. δαλός.`

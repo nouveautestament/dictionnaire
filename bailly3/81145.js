@@ -1,0 +1,1 @@
+lar[81145]=`<i>att</i>. <b>πλύσμα, ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> eau où l’on a lavé, eau sale, PLAT. COM. <i>2-2, 644 Mein.</i> ; ARSTT. <i>H.A. 4, 8, 22</i>.<br><b>      2</b> eau où l’on a fait infuser qqe ch., infusion, HPC. <i>4079, 1229h</i>.<p><b>Étym</b>. πλύνω.`

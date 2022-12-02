@@ -1,0 +1,1 @@
+lar[56889]=`<b>ίδος (ἡ)</b> lente des cheveux, ARSTT. <i>H.A. 5, 31</i> ; ATH. <i>352f, etc</i>.<p><b>Étym</b>. <i>indo-europ</i>. *ḱnid-, lente.`

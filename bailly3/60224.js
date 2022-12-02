@@ -1,0 +1,1 @@
+lar[60224]=`<b>λειψ·ύδριον, ου (τὸ)</b> contrée aride, <i>particul. le mt Parnès en Attique,</i> HDT. <i>5, 62</i> ; AR. <i>Lys. 655, etc</i>.<p><b>Étym</b>. <i>v</i>. λειψυδρία.`

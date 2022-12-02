@@ -1,0 +1,1 @@
+lar[5803]=`<b>ίδος (ἡ)</b> Ampélis, <i>f</i>. LUC. <i>D. mer. 8</i>.`

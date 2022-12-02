@@ -1,0 +1,1 @@
+lar[33347]=`<b>ἐμ·πάτακτος, ος, ον</b> <font color="purple">[πᾰ]</font> frappé (de la foudre), <i>d’où</i> qui a l’esprit frappé, aliéné, PTOL. <i>Tetr. 165</i>.<p><b>Étym</b>. ἐν, πατάσσω.`

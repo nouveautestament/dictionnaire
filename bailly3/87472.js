@@ -1,0 +1,1 @@
+lar[87472]=`<b>ας (ἡ)</b> mendicité, pauvreté, AR. <i>Pl. 549</i> ; PLAT. <i>Leg. 936b ;</i> LYS. <i>898, 9 ; au pl</i>. PLAT. <i>Rsp. 618a</i>.<p>➳ <i>Ion</i>. πτωχηΐη, HDT. <i>3, 14</i>.<p><b>Étym</b>. πτωχεύω.`

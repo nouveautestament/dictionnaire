@@ -1,0 +1,1 @@
+lar[23750]=`<b>δεκ·έτηρος, ος, ον</b>, qui dure dix ans (lutte), ANTH. <i>9, 474</i>.<p><b>Étym</b>. δέκα, ἔτος.`

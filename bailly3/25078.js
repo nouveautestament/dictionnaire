@@ -1,0 +1,1 @@
+lar[25078]=`<b>εως (ἡ)</b> application de charpie, P. ÉG. <i>170 Briau</i> ; ORIB. <i>10 Mai</i>.<p><b>Étym</b>. διαμοτόω.`

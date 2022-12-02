@@ -1,0 +1,1 @@
+lar[105961]=`<b>φιλό·νεος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les jeunes gens <i>ou</i> la jeunesse, LUC. <i>Am. 24</i> ; HLD. <i>7, 20</i>.<p><b>Étym</b>. φ. νέος.`

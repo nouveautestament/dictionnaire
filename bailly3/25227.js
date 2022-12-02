@@ -1,0 +1,1 @@
+lar[25227]=`<b>δια·πείρω<br>      1</b> transpercer : τί τινι, PLUT. <i>Artax. 14 (ao. inf</i>. -πεῖραι) transpercer une chose avec une autre ; δ. λίνῳ, DIOSC. <i>2 (prés</i>.) traverser d’un fil ; διαπεπαρμένος ἤλοις, PLUT. <i>M. 567f</i>, percé de clous.<br><b>      2</b> enfoncer à travers : τί τινος, EUR. <i>Ph. 26</i>, une chose à travers une autre.`

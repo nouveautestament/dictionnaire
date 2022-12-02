@@ -1,0 +1,1 @@
+lar[71766]=`<b>ὁμοχρονέω-ῶ :<br>      1</b> vivre dans le même temps, être <i>ou</i> se supposer contemporain, LUC. <i>H. conscr. 50</i>.<br><b>      2</b> marquer la même durée que, <i>dat</i>. LUC. <i>Im. 14</i>.<p><b>Étym</b>. ὁμόχρονος.`

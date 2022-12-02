@@ -1,0 +1,1 @@
+lar[56823]=`<b>κομο·τροφέω-ῶ</b>, laisser croître ses cheveux, STR. <i>196</i> ; DS. <i>1, 11</i>.<p><b>Étym</b>. κόμη, -τροφος <i>de</i> τρέφω.`

@@ -1,0 +1,1 @@
+lar[56358]=`<b>α, ον</b>, de Knôsos, <i>en Crète, d’où</i> Crétois, HDT. <i>3, 122</i> ; SOPH. <i>Aj. 699</i> ; EUR. <i>H.f. 1327</i> ; PLAT. <i>Leg. 629c, etc.</i> ; οἱ Κνώσιοι, PLAT. <i>Leg. 754c, etc.</i> ; STR. <i>478, etc</i>. les habitants de Knôsos.<p><b>Étym</b>. Κνωσός.`

@@ -1,0 +1,1 @@
+lar[9481]=`<b>ἀντ·άξιος, α, ον</b>, égal en valeur, équivalent à, <i>gén</i>. IL. <i>11, 514, etc.</i> ; HDT. <i>7, 103</i> ; XÉN. <i>Mem. 2, 10, 3, etc.</i> ; PLAT. <i>Leg. 728a, etc. ; abs</i>. IL. <i>1, 136</i>.<p>➳ <i>Fém</i>. -ος, THCR. <i>Idyl. 17, 114</i>.<p><b>Étym</b>. ἀντί, ἄ.`

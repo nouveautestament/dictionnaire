@@ -1,0 +1,1 @@
+lar[20209]=`<b>ου (ὁ)</b> fange, bourbier (<i>différent de</i> πηλός, boue, terre détrempée ; <i>cf</i>. PLAT. <i>Phæd. 111e</i>), ESCHL. <i>Eum. 694</i> ; AR. <i>Vesp. 259</i> ; PLAT. <i>Phæd. 69c ; au plur. Phæd. 110a</i>.`

@@ -1,0 +1,1 @@
+lar[2508]=`<b>οῦ (ὁ)</b> mauvais traitement, DÉM. <i>102, 20</i>.<p><b>Étym</b>. αἰκίζω.`

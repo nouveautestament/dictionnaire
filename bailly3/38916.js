@@ -1,0 +1,1 @@
+lar[38916]=`<b>ἐπι·ρρύομαι</b>, préserver, délivrer, ESCHL. <i>Sept. 165</i>.<p><b>Étym</b>. ἐπί, ῥύομαι.`

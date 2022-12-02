@@ -1,0 +1,1 @@
+lar[86669]=`<b>*προσ·χρίμπτω</b>, <i>poét</i>. <b>ποτι·χρίμπτω</b>, <i>au moy</i>. atteindre, pénétrer dans, remplir, ESCHL. <i>Sept. 84</i>.`

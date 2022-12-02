@@ -1,0 +1,1 @@
+lar[98601]=`<b>τετρα·λογία, ας (ἡ)</b> <font color="purple">[ᾰ]</font> tétralogie, <i>ensemble de quatre pièces (trois tragédies et un drame satyrique) que soumettaient au concours de poésie les Tragiques antérieurs à Sophocle,</i> DL. <i>3, 35 ; p. anal. en parl. d’un groupe de quatre dialogues de Platon,</i> THRASYLL. (DL. <i>3, 56).</i><p><b>Étym</b>. τ. λόγος.`

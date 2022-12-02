@@ -1,0 +1,1 @@
+lar[75400]=`<b>παρα·βλέπω :<br>      1</b> regarder de côté, AR. <i>Ran. 409, etc. ; p. opp. à</i> ἀτενίζω, ARSTT. <i>Meteor. 1, 6, 12 ; fig. en mauv. part,</i> regarder de travers, mépriser, POL. <i>6, 46, 6</i> ; NYSS. <i>2, 292 Migne</i>.<br><b>      2</b> avoir le regard faux <i>ou</i> la vue louche, LUC. <i>Nec. 1</i>.`

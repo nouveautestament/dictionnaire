@@ -1,0 +1,1 @@
+lar[43028]=`<b>εὐ·πλαδής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. πλαδαρός, JAMBL. <i>Math. 191</i>.`

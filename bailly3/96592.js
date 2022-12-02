@@ -1,0 +1,1 @@
+lar[96592]=`<b>οῦ (ὁ)</b> qui prépare <i>ou</i> machine qqe complot, CLÉM. <i>26</i>.<p><b>Étym</b>. συσκευάζω.`

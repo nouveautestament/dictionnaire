@@ -1,0 +1,1 @@
+lar[35882]=`<b>ἐξ·ευμενίζω</b>, <i>au moy</i>. se rendre favorable : τινα, PLUT. <i>Fab. 4, etc.</i> ; PHIL. <i>1, 168 ; 2, 533</i> ; JOS. <i>A.J. 11, 5, 4 ; 12, 2, 13,</i> qqn.`

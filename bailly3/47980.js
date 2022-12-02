@@ -1,0 +1,1 @@
+lar[47980]=`<b>ῶν (οἱ)</b> <font color="purple">[ῡ]</font> les Thynes, <i>pple d’origine thrace, établi en Asie Mineure sur la côte de Bithynie,</i> HDT. <i>1, 28</i> ; XÉN. <i>An. 7, 2, 22 ; 4, 14, 18</i> ; A.RH. <i>2, 531</i>.`

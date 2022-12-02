@@ -1,0 +1,1 @@
+lar[28587]=`<b>δυσκληρέω-ῶ</b>, n’être pas favorisé du sort, PLAT. <i>Leg. 690c ; p. ext</i>. être malheureux, NYSS. <i>1, 890c</i>.<p><b>Étym</b>. δύσκληρος.`

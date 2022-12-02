@@ -1,0 +1,1 @@
+lar[19475]=`<b>ωνος</b> <i>ou</i> <b>βεβών, ῶνος (ὁ)</b> Bébon, <i>surn. de Typhon,</i> PLUT.`

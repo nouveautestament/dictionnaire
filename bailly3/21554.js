@@ -1,0 +1,1 @@
+lar[21554]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> voisin, ANTH. <i>9, 407</i>.<p><b>Étym</b>. γείτων.`

@@ -1,0 +1,1 @@
+lar[52673]=`<b>κατα·κυρόω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> confirmer, ratifier, SOPH. <i>Ant. 936</i>.<br><b>      2</b> décider, <i>particul</i>. adjuger, JOS. <i>A.J. 12, 4, 4</i> ; condamner : <i>au pass</i>. κατακυρωθεὶς θανάτου, EUR. <i>Or. 1013,</i> condamné à mort.`

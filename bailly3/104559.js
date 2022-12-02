@@ -1,0 +1,1 @@
+lar[104559]=`<b>ὑψό·φωνος, ος, ον</b>, à la voix élevée <i>ou</i> forte, HPC. <i>955d</i>.<p><b>Étym</b>. ὕψι, φωνή.`

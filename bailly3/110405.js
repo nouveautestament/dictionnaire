@@ -1,0 +1,1 @@
+lar[110405]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Ôréos, XÉN. <i>Hell. 5, 4, 57</i> ; ESCHN. <i>3, 100, etc.</i> ; DÉM. <i>8, 59, etc. Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Ὠρεός.`

@@ -1,0 +1,1 @@
+lar[18604]=`<b>ἄ·ψηκτος, ος, ον :<br>      1</b> non tanné, <i>càd</i>. non assoupli, non amolli, dur, AR. <i>Lys. 657</i>.<br><b>      2</b> non peigné, A.RH. <i>3, 50</i>.<p><b>Étym</b>. ἀ, ψήχω.`

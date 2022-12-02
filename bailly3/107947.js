@@ -1,0 +1,1 @@
+lar[107947]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐῑῐ]</font> Kharitimidès, <i>h</i>. AR. <i>Eccl. 293</i>.`

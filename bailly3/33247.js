@@ -1,0 +1,1 @@
+lar[33247]=`<b>ἐμ·μελῳδέω-ῶ</b>, chanter (ou prononcer) en mesure avec, <i>dat</i>. NYSS. <i>1, 140c Migne</i>.<p><b>Étym</b>. ἐν, μ.`

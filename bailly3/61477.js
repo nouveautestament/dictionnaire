@@ -1,0 +1,1 @@
+lar[61477]=`<b>λογάω-ῶ</b> (<i>seul. prés</i>.) avoir envie de parler, LUC. <i>Lex. 15</i>.<p><b>Étym</b>. λόγος.`

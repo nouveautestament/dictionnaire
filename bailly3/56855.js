@@ -1,0 +1,1 @@
+lar[56855]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Konabos, <i>n. d’un cheval,</i> Q. SM. <i>8, 242</i>.<p><b>Étym</b>. <i>v</i>. κόναβος.`

@@ -1,0 +1,1 @@
+lar[63026]=`<b>ου (ὁ)</b> Masabatès, <i>eunuque,</i> PLUT. <i>Artax. 17</i>.`

@@ -1,0 +1,1 @@
+lar[72857]=`<b>ὁρκ·ωμοσία, ας (ἡ)</b> action de prêter un serment, NT. <i>Hebr. 7, 20</i>.<p><b>Étym</b>. ὅρκος, ὄμνυμι.`

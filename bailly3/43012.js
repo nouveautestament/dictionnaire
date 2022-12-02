@@ -1,0 +1,1 @@
+lar[43012]=`<b>εὐ·πηνής, ής, ές</b>, couvert de vêtements d’une belle trame, bien vêtu, CRAT. (POLL. <i>7, 43).</i><p><b>Étym</b>. <i>cf</i>. εὔπηνος.`

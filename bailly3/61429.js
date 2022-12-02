@@ -1,0 +1,1 @@
+lar[61429]=`<b>ητος (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> simplicité, absence d’apprêts, PLUT. <i>Ages. 36</i> ; τῆς διαίτης, DS. <i>2, 59</i> ; CIC. <i>Fam. 7, 26,</i> régime frugal.<br><b>      2</b> <i>t. de rhét</i>. litote, <i>figure par laquelle on laisse entendre plus qu’on ne dit,</i> RHÉT.<p><b>Étym</b>. λιτός.`

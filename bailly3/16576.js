@@ -1,0 +1,1 @@
+lar[16576]=`<b>ἀσφαλτό·πισσα, ης (ἡ)</b> mélange de bitume et de poix, SPT. <i>Ex. 2, 3</i>.`

@@ -1,0 +1,1 @@
+lar[28850]=`<b>ας (ἡ)</b> <font color="purple">[ᾱγ]</font> revers, malheur, ANT. <i>120, 12</i> ; POL. <i>3, 103, 2 (var</i>. ἀπραγ-) ; <i>cf</i>. POLL. <i>3, 99</i>.<p><b>Étym</b>. δυσπραγής.`

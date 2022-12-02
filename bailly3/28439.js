@@ -1,0 +1,1 @@
+lar[28439]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> fonctionnement défectueux, vice de mécanisme, HÉRON <i>Aut. 268</i>.<p><b>Étym</b>. δυσεργής ; <i>cf</i>. δυσεργία.`

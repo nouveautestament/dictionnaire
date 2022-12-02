@@ -1,0 +1,1 @@
+lar[57563]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> crâne, IL. <i>8, 84</i> ; PD. <i>I. 4, 92</i> ; EUR. <i>Rhes. 679</i> ; PLAT. <i>Euthyd. 299e, etc.</i><br><b>      2</b> tête, AMPHIS (ATH. <i>295f</i>).<p><b>Étym</b>. <i>cf</i>. κάρα.`

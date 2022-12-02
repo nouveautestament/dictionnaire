@@ -1,0 +1,1 @@
+lar[51105]=`<b>καλλι·γύναιξ, αικος (ὁ, ἡ)</b> <font color="purple">[ῐῠ]</font> riche en belles femmes, <i>en parl. d’un pays</i>.<p>➳ <i>Seul. gén</i>. SAPPH. <i>135 ; dat</i>. PD. <i>P. 9, 131 ; acc</i>. IL. <i>2, 683, etc.</i> ; OD. <i>13, 412</i>.<p><b>Étym</b>. κ. γυνή.`

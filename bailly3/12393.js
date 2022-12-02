@@ -1,0 +1,1 @@
+lar[12393]=`<b>ἀπο·θερίζω</b>, moissonner, <i>d’où</i> couper, abattre, EL. <i>N.A. 1, 5</i> ; APD. <i>1, 9, 22</i>.`

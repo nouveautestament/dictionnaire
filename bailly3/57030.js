@@ -1,0 +1,1 @@
+lar[57030]=`<font color="purple">[ᾱ]</font> danser la danse κόρδαξ, DC. <i>50, 27</i> ; D. CHR. <i>v. 2, p. 4, 34</i> ; JUL. <i>350b.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. RHÉT. <i>1, 570 W</i>.<p><b>Étym</b>. κόρδαξ.`

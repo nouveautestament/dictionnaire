@@ -1,0 +1,1 @@
+lar[12835]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec indulgence pour absoudre, XÉN. <i>Hell. 5, 4, 25</i>.`

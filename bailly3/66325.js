@@ -1,0 +1,1 @@
+lar[66325]=`<b>ας (ἡ)</b> crime d’adultère, PLUT. <i>M. 475b ; au plur</i>. PLAT. <i>Leg. 839a, Rsp. 443a, etc. ; fig. en parl. de l’inclination à l’idolâtrie,</i> CLÉM. <i>687</i>.<p><b>Étym</b>. μοιχός.`

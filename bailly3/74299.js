@@ -1,0 +1,1 @@
+lar[74299]=`<b>παιδο·νόμος, ος, ον</b>, préposé à l’éducation des enfants ; ὁ π. pédonome, <i>magistrat qui surveillait l’éducation des enfants, à Sparte,</i> XÉN. <i>Lac. 2, 2</i> ; ARSTT. <i>Pol. 4, 15, 13 ; en Crète,</i> EPHOR. (STR. <i>483).</i><p><b>Étym</b>. π. νέμω.`

@@ -1,0 +1,1 @@
+lar[65762]=`<b>ας (ἡ)</b> petitesse de nature <i>ou</i> de croissance, petitesse, STR. <i>821</i>.<p><b>Étym</b>. μικροφυής.`

@@ -1,0 +1,1 @@
+lar[108147]=`<b>χειρο·μάγγανον, ου (τὸ)</b> <font color="purple">[γᾰ]</font> machine de guerre portative, MATH. <i>p. 318</i>.`

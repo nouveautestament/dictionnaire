@@ -1,0 +1,1 @@
+lar[66328]=`<b>ας (ἡ)</b> femme adultère, PLAT. <i>Conv. 191e ;</i> PLUT. <i>M. 60f</i>.<p><b>Étym</b>. μοιχεύω.`

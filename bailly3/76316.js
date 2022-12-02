@@ -1,0 +1,1 @@
+lar[76316]=`construire auprès, PLUT. <i>Pomp. 40</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> fabriquer faussement, <i>càd</i>. forger, imaginer, OD. <i>14, 131</i>.<br><b>      2</b> dénaturer, changer, IL. <i>14, 54</i>.`

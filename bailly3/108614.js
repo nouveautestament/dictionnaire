@@ -1,0 +1,1 @@
+lar[108614]=`<b>χλωρ·αύχην, χενος (ὁ, ἡ)</b> au cou jaunâtre <i>ou</i> d’un vert tendre, SIM. <i>fr. 73 Bgk</i>.<p><b>Étym</b>. χλωρός, αὐχήν.`

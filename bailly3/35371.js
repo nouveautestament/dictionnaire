@@ -1,0 +1,1 @@
+lar[35371]=`<b>ἐξ·ακρίζω</b> <font color="purple">[ᾰ]</font> (<i>prés</i>.) s’élever jusqu’au haut de, <i>acc</i>. EUR. <i>Or. 275</i>.<p><b>Étym</b>. ἐξ, ἄκρος.`

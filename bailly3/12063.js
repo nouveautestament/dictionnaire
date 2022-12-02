@@ -1,0 +1,1 @@
+lar[12063]=`<b>ἁπλό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux plats <i>ou</i> unis, A. APHR. <i>Probl. 1, 2 ; 1, 8</i> ; PTOL. <i>Tetr. p. 143a</i>.<p><b>Étym</b>. ἁπλόος, θρίξ.`

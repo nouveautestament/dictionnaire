@@ -1,0 +1,1 @@
+lar[19879]=`<b>βλαστο·κοπέω-ῶ</b>, <i>f</i>. ήσω, couper les jeunes pousses, TH. <i>C.P. 5, 9, 13</i>.<p><b>Étym</b>. βλαστός, -κοπος <i>de</i> κόπτω.`

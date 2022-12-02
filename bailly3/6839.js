@@ -1,0 +1,1 @@
+lar[6839]=`<b>ἄν·αιμος, ος, ον</b>, qui n’a pas de sang, PLAT. <i>Tim. 70c, Prot. 321b ;</i> ARSTT. <i>H.A. 1, 16, 5, etc</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>H.A. 3, 19 ; • Sup</i>. -ότατος, <i>H.A. 1, 16</i>.<p><b>Étym</b>. ἀν-, αἷμα.`

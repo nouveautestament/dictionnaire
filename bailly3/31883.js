@@ -1,0 +1,1 @@
+lar[31883]=`<b>ῆς (ἡ)</b> déploiement, <i>d’où fig</i>. fuite, ARTÉM. <i>4, 57</i>.<p><b>Étym</b>. ἐκ, πλέκω.`

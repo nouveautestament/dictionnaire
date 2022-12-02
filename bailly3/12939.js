@@ -1,0 +1,1 @@
+lar[12939]=`<b>εως (ἡ)</b> mortification, <i>d’où</i> mort, ARR. <i>Epict. 4, 5, 21</i>.<p><b>Étym</b>. ἀπονεκρόω.`

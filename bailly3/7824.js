@@ -1,0 +1,1 @@
+lar[7824]=`<i>adv</i>., sans parler, HPC. <i>74c</i>.`

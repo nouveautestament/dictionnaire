@@ -1,0 +1,1 @@
+lar[77252]=`<b>Πασι·φίλη, ης (ἡ)</b> <font color="purple">[ᾱῐῐ]</font> Pasiphilè, <i>f</i>. ARCHIL. (ATH. <i>594c</i>).<p><b>Étym</b>. <i>fém. de</i> Πασίφιλος.`

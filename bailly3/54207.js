@@ -1,0 +1,1 @@
+lar[54207]=`<b>εως (ἡ)</b> vision, vue, EPIC. <i>N. deor. p. 19 Orell</i>.<p><b>Étym</b>. κατόψομαι.`

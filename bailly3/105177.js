@@ -1,0 +1,1 @@
+lar[105177]=`<b>φέρ·ομβρον, ου (τὸ)</b> <i>litt</i>. « qui amène la pluie, » <i>n. du concombre sauvage,</i> DIOSC. <i>Noth. 4, 152, 154</i>.<p><b>Étym</b>. φ. ὄμβρος.`

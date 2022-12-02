@@ -1,0 +1,1 @@
+lar[15406]=`<b>ἀρτο·κόπος, ου (ὁ, ἡ)</b> qui cuit le pain, <i>d’où</i> boulanger, boulangère, HDT. <i>9, 82</i> ; XÉN. <i>An. 4, 4, 21, etc.</i> ; PLAT. <i>Gorg. 518b</i>.<p>➳ <i>Fém. seul</i>. HDT. <i>1, 51</i>.<p><b>Étym</b>. <i>par métathèse p. proto-grec</i> *artopok<sup>w</sup>os, <i>cf. myc</i>. a-to-po-qo, <i>de</i> ἄρτος, πέσσω ; <i>v</i>. ἀρτοποπής <i>et</i> ἀρτοπόπος.`

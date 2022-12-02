@@ -1,0 +1,1 @@
+lar[41843]=`<i>adv</i>., très clairement, PLUT. <i>Thes. 3</i>.`

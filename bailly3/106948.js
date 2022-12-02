@@ -1,0 +1,1 @@
+lar[106948]=`<b>ή, όν</b>, qui sert de poste <i>ou</i> de garnison, DC. <i>56, 42</i>.<p><b>Étym</b>. φρουρά.`

@@ -1,0 +1,1 @@
+lar[80826]=`<b>ητος (ἡ)</b> <i>c</i>. πλειονότης, Ps.-JAMBL. <i>Theol. arithm. p. 12</i>.`

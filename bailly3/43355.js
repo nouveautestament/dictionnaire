@@ -1,0 +1,1 @@
+lar[43355]=`<b>εὐρυ·χαδής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui contient largement, large, spacieux, LUC. <i>Lex. 7</i> ; ANTH. <i>6, 305</i>.<p><b>Étym</b>. εὐ. χανδάνω.`

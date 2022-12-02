@@ -1,0 +1,1 @@
+lar[11586]=`<b>ἀπειρό·ζυγος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui ne connaît pas le joug, BAS. <i>2, 114</i>.<p><b>Étym</b>. ἄ. ζυγός.`

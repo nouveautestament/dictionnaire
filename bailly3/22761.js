@@ -1,0 +1,1 @@
+lar[22761]=`<b>ου :<br>      1</b> <i>adj. m</i>. nu, LUC. <i>Bacch. 3</i> ; LYC. <i>387 ; d’où</i> privé de tout, pauvre, indigent, ANTH. <i>7, 65</i>.<br><b>      2</b> <i>subst</i>. (ὁ) soldat armé à la légère, XÉN. <i>An. 4, 1, 6 ; Cyr. 7, 5, 5</i> ; STR. <i>654</i> ; THÉM. <i>325b</i>.<p><b>Étym</b>. γυμνής.`

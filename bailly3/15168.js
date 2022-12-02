@@ -1,0 +1,1 @@
+lar[15168]=`<b>ου (ὁ)</b> Arrhidæos (Arrhidée) <i>frère d’Alexandre le Grand,</i> PLUT. <i>Alex. 10, 77, etc</i>.`

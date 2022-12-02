@@ -1,0 +1,1 @@
+lar[103535]=`<i>ou</i> <b>ὑπομονητός, ή, όν</b>, supportable, JOS. <i>A.J. 17, 6, 5</i>.<p><b>Étym</b>. <i>vb. de</i> ὑπομένω.`

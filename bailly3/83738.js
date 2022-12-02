@@ -1,0 +1,1 @@
+lar[83738]=`<b>προ·αφαυαίνω</b>, faire dessécher auparavant, PHIL. <i>2, 370</i>.`

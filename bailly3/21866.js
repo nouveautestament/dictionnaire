@@ -1,0 +1,1 @@
+lar[21866]=`<i>adv</i>., d’une manière géométrique, ARSTT. <i>Top. 8, 11, 3</i> ; STR. <i>94</i> ; CIC. <i>Att. 12, 5,</i> PLUT. <i>M. 643b ; 931c</i>.`

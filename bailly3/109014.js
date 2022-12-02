@@ -1,0 +1,1 @@
+lar[109014]=`<b>χρηστο·μουσέω-ῶ</b>, faire de bonne musique, être un habile musicien, ATH. <i>633b</i>.<p><b>Étym</b>. χρ. μοῦσα.`

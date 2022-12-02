@@ -1,0 +1,1 @@
+lar[11297]=`<b>ἄ·παππος, ος, ον</b>, sans aïeul, <i>d’où fig</i>. sans parenté avec, étranger à : φάος οὐκ ἄπαππον Ἰδαίου πυρός, ESCHL. <i>Ag. 311,</i> lumière qui ne laisse pas d’avoir pour aïeul le feu de l’Ida, <i>càd</i>. qui descend en droite ligne du feu de l’Ida.<p><b>Étym</b>. ἀ, πάππος.`

@@ -1,0 +1,1 @@
+lar[62867]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. σμάραγδος, MÉN. (ATH. <i>94b</i>) ; ORPH. <i>Lith. 608</i>.`

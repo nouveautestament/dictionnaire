@@ -1,0 +1,1 @@
+lar[63520]=`<b>ας (ἡ)</b> accomplissement de grandes choses, PLAT. <i>Ax. 370b</i>.<p><b>Étym</b>. μέγεθος, ἔργον.`

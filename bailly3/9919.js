@@ -1,0 +1,1 @@
+lar[9919]=`<b>ἀντι·καταδύομαι</b>, s’enfoncer à son tour, A. TAT. <i>6, 18</i>.`

@@ -1,0 +1,1 @@
+lar[103045]=`<b>ὑπο·βραχεῖν</b> <font color="purple">[ᾰ]</font> <i>inf. ao.2 de</i> *ὑπο·βράζω, craquer <i>ou</i> retentir en dessous, Q. SM. <i>6, 335 ; 10, 72</i>.`

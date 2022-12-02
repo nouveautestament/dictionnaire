@@ -1,0 +1,1 @@
+lar[83685]=`<b>προ·αποστέλλω</b>, faire partir auparavant, THC. <i>4, 77 ; au pass</i>. être envoyé d’avance, THC. <i>3, 112 ; ou</i> avant, <i>gén</i>. THC. <i>3, 5</i>.`

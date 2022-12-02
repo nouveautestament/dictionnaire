@@ -1,0 +1,1 @@
+lar[99155]=`<b>ατος (τὸ) :<br>   I</b> tiraillement spasmodique, GAL.<br><b>   II</b> ce qu’on arrache en détail :<br><b>      1</b> poil épilé, PLUT. <i>M. 48b.</i><br><b>      2</b> charpie, HPC. <i>24f, 72k</i>.<p><b>Étym</b>. τίλλω.`

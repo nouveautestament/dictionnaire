@@ -1,0 +1,1 @@
+lar[58303]=`<b>ορος (ὁ) :<br>      1</b> fondateur, PD. (AR. <i>Av. 926</i>) ; DIPH. (ATH. <i>370c</i>).<br><b>      2</b> fondateur de colonie, EUR. <i>Ion 74</i>.<p><b>Étym</b>. κτίζω.`

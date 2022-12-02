@@ -1,0 +1,1 @@
+lar[14880]=`<b>οῦντος (ὁ)</b> <font color="purple">[μᾰ]</font> Harmatunte, <i>v. de Troade,</i> THC. <i>8, 101</i>.<p><b>Étym</b>. <i>contr. de</i> ἁρματόεις, -όεντος.`

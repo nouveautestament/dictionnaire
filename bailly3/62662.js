@@ -1,0 +1,1 @@
+lar[62662]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. de Maléa, <i>en Laconie,</i> PAUS. <i>2, 27 fin</i>.<p><b>Étym</b>. Μαλέα.`

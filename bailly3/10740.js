@@ -1,0 +1,1 @@
+lar[10740]=`<b>ἀν·υπερθέτος, ος, ον :<br>      1</b> non différé, sans délai, immédiat, DIOSC. <i>Præf. l. 7</i>.<br><b>      2</b> qu’on ne peut surpasser, DÉMOCR. (STOB. <i>Fl. 76, 13).</i><p><b>Étym</b>. ἀν-, ὑπερτίθημι.`

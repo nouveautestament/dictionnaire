@@ -1,0 +1,1 @@
+lar[95592]=`<b>συν·επεργάζομαι</b>, achever ensemble, ARSTD. <i>t. 2, 175</i>.`

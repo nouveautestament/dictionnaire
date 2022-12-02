@@ -1,0 +1,1 @@
+lar[44140]=`<b>Ἔφ·ορος, ου (ὁ)</b> Éphoros, <i>historien grec</i>.`

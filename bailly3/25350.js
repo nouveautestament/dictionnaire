@@ -1,0 +1,1 @@
+lar[25350]=`<b>δια·πόρθμιος, ος, ον</b>, qui sert d’intermédiaire, PROCL. <i>Plat. 1 Alc. 69</i>.<p><b>Étym</b>. διά, πορθμός.`

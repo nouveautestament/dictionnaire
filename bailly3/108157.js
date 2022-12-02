@@ -1,0 +1,1 @@
+lar[108157]=`(<i>seul. prés</i>.) avoir envie de gesticuler en cadence, CRAT. (POLL. <i>2, 153).</i><p><b>Étym</b>. χειρονομέω.`

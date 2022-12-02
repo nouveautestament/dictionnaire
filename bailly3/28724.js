@@ -1,0 +1,1 @@
+lar[28724]=`<b>δυσ·όνειρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui fait de mauvais rêves, PLUT. <i>M. 15b, 766b, etc.</i><br><b>      2</b> qui provoque de mauvais rêves, DIOSC. <i>2, 127</i> ; PLUT. <i>M. 734f</i>.<p><b>Étym</b>. δ. ὄνειρος.`

@@ -1,0 +1,1 @@
+lar[31087]=`<b>οῦ (ὁ)</b> celui qui arrache de force, AQU. <i>Prov. 6, 7</i>.<p><b>Étym</b>. ἐκβιάζω.`

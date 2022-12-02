@@ -1,0 +1,1 @@
+lar[68474]=`<b>νεωτερο·ποιός, ός, όν</b>, novateur, <i>particul</i>. qui fait une révolution, THC. <i>1, 70</i> ; ARSTT. <i>Pol. 2, 7</i>.<p><b>Étym</b>. νεώτερος, ποιέω.`

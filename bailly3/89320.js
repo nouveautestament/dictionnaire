@@ -1,0 +1,1 @@
+lar[89320]=`<b>ωνος (ὁ)</b> Sanniôn, <i>h</i>. PLAT. <i>Theag. 129d, etc</i>.<p><b>Étym</b>. σαννίων.`

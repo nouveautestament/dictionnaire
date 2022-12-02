@@ -1,0 +1,1 @@
+lar[51186]=`<b>καλλι·πέτηλος, ος, ον</b> <font color="purple">[ῐ]</font> aux belles feuilles, ANTH. <i>9, 64</i>.<p><b>Étym</b>. κ. πέτηλον.`

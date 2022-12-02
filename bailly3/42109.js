@@ -1,0 +1,1 @@
+lar[42109]=`<b>*εὐ·ηλάκατος</b>, <i>seul. dor</i>. <b>εὐ·αλάκατος, ος, ον</b> <font color="purple">[ᾱᾰᾰ]</font> qui a une belle quenouille, THCR. <i>Idyl. 28, 22</i>.<p><b>Étym</b>. εὖ, ἠλακάτη.`

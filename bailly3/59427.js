@@ -1,0 +1,1 @@
+lar[59427]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> duc, sorte de hibou à pattes velues comme celles d’un lièvre, ALEX. MYND. (ATH. <i>390f</i>).<p><b>Étym</b>. λαγώς.`

@@ -1,0 +1,1 @@
+lar[32868]=`<b>ἑλκο·ποιός, ός, όν</b>, qui fait une blessure, ESCHL. <i>Sept. 398</i>.<p><b>Étym</b>. ἕλκος, ποιέω.`

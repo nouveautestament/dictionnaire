@@ -1,0 +1,1 @@
+lar[13329]=`<b>ἀπο·σκληρύνω</b>, rendre dur, HPC. <i>204c ; au pass</i>. devenir dur, ARSTT. <i>Mir. 81, 3</i> ; TH. <i>C.P. 3, 16, 2</i>.`

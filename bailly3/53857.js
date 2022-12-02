@@ -1,0 +1,1 @@
+lar[53857]=`<b>κατ·ελεέω-εῶ</b>, avoir pitié de, <i>acc</i>. AND. <i>21, 33</i> ; POL. <i>2, 6, 2 ; abs</i>. PLAT. <i>Pol. 315c ;</i> ARSTT. <i>H.A. 9, 48, etc</i>.`

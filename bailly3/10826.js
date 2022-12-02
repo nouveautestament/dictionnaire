@@ -1,0 +1,1 @@
+lar[10826]=`<font color="purple">[ῠ]</font> <i>adv</i>., sans douleur, HPC. <i>205g ;</i> PLUT. <i>Cic. 2, Cleom. 10</i>.<p>•<i> Sup</i>. -ώτατα, HPC. <i>Acut. 384, 3</i>.`

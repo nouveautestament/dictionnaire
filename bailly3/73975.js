@@ -1,0 +1,1 @@
+lar[73975]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit mets, <i>particul</i>. petit plat de poisson, COM. (ATH. <i>385e</i>).<p><b>Étym</b>. <i>dim. de</i> ὄψον.`

@@ -1,0 +1,1 @@
+lar[7043]=`<b>εως (ἡ) :<br>      1</b> évolution de cavalerie, HDN <i>4, 2, 19</i>.<br><b>      2</b> révolution politique, POL. <i>6, 9, 10</i>.`

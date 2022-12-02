@@ -1,0 +1,1 @@
+lar[107544]=`<i>adv</i>., en langue chaldéenne, SPT. <i>Dan. 2, 26</i>.<p><b>Étym</b>. χαλδαΐζω.`

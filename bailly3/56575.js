@@ -1,0 +1,1 @@
+lar[56575]=`<b>οῦ (ὁ)</b> criard (<i>propr</i>. comme le coq <i>ou</i> le coucou) DL. <i>9, 6</i>.<p><b>Étym</b>. κοκκύζω.`

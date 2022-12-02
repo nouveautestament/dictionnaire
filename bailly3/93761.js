@@ -1,0 +1,1 @@
+lar[93761]=`<b>α</b> <i>et</i> <b>ου (ὁ)</b> = <i>lat</i>. Sulla, Sylla, <i>n. d’h. rom., particul. dictateur célèbre,</i> PLUT. <i>Syll. 1, etc</i>.<p>➳ <i>Voc</i>. Σύλλα, PLUT. <i>De coh. ira 1 ; gén</i>. Σύλλα, PLUT. <i>Syll. 5, etc.</i> ; Σύλλου, PLUT. <i>Reg. apophth. Σύλλας ; plur. acc</i>. Σύλλας, PLUT. <i>Cam. 11</i>.`

@@ -1,0 +1,1 @@
+lar[93300]=`<b>συγ·καταθνῄσκω</b> <font color="darkgreen">(<i>f</i>. -καταθανοῦμαι, <i>etc</i>.)</font> mourir avec, <i>dat</i>. MOSCH. <i>3, 65</i> ; ANTH. <i>7, 139</i>.`

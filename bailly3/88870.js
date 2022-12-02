@@ -1,0 +1,1 @@
+lar[88870]=`<b>όνος (ὁ)</b> mouvement circulaire <i>ou</i> en spirale, A.RH. <i>4, 144</i>.<p><b>Étym</b>. ῥέμβω.`

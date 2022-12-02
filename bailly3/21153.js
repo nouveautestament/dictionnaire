@@ -1,0 +1,1 @@
+lar[21153]=`<b>ης (ἡ) :<br>      1</b> le trésor du roi de Perse, <i>d’où</i> trésor royal (<i>aussi bien</i> le lieu du dépôt <i>que</i> le dépôt <i>même</i>), TH. <i>H.P. 8, 11, 5</i> ; DS. <i>17, 35</i> ; SPT. <i>2Esdr. 5, 17 ; 2, 7, 20</i>.<br><b>      2</b> <i>p. ext</i>. grosse somme d’argent, POL. <i>11, 34, 12 ; 22, 26, 21, etc</i>.<p><b>Étym</b>. <i>Orig. persane</i>.`

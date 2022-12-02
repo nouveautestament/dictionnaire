@@ -1,0 +1,1 @@
+lar[29839]=`<b>ἐγρεσί·κωμος, ος, ον</b> <font color="purple">[ῐ]</font> qui excite aux orgies, aux plaisirs de la table, <i>ép. de Bacchus,</i> ANTH. <i>9, 524, 6</i>.<p><b>Étym</b>. ἐγείρω, κῶμος.`

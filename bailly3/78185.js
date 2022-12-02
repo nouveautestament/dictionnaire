@@ -1,0 +1,1 @@
+lar[78185]=`<b>οῦ (ὁ) :<br>      1</b> <i>c</i>. πέπανσις, HPC. <i>Epid. 1, 940</i>.<br><b>      2</b> suppuration, HPC. <i>3, 1083</i>.`

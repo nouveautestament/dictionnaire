@@ -1,0 +1,1 @@
+lar[65849]=`<b>ορος (ὁ)</b> <font color="purple">[ῑ]</font> <i>c</i>. μιμητής, MAN. <i>4, 75</i>.`

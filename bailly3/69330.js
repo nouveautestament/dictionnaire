@@ -1,0 +1,1 @@
+lar[69330]=`<b>οπος (ὁ, ἡ)</b> <i>seul. dans les loc. νώροπι χαλκῷ et</i> νώροπα χαλκόν, IL. <i>2, 578</i> ; OD. <i>24, 467, 500,</i> airain éblouissant.<p><b>Étym</b>. νῶρ- <i>p.-ê. pré-grec ; p. le second terme v</i>. ὄψ², ὄπωπα.`

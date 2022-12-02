@@ -1,0 +1,1 @@
+lar[66053]=`<b>μισο·πάτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῑᾰ]</font> qui hait son père, DH. <i>4, 28</i>.<p><b>Étym</b>. μ. πατήρ.`

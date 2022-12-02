@@ -1,0 +1,1 @@
+lar[81827]=`<b>(ὁ)</b> <font color="purple">[ῠᾱιᾱ]</font> Polydamidas, <i>h</i>. THC. <i>4, 123</i>.<p><b>Étym</b>. <i>patr. de</i> *Πολύδαμος, <i>dor. c</i>. Πολύδημος.`

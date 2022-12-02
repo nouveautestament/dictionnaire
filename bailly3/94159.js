@@ -1,0 +1,1 @@
+lar[94159]=`<b>συμ·πεπαίνω</b>, faire mûrir ensemble, HPC. <i>1165b ;</i> ORIB. <i>p. 75 Mai</i>.`

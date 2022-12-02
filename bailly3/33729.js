@@ -1,0 +1,1 @@
+lar[33729]=`<b>ἐμ·φύρω</b> <font color="purple">[ῡ]</font> mélanger en pétrissant, <i>d’où</i> mélanger, LYC. <i>1380</i> ; confondre pêle-mêle, ESCHL. <i>fr. 32</i>.<p>➳ <i>Épq</i>. ἐνιφύρω, OPP. <i>H. 3, 498</i>.<p><b>Étym</b>. ἐν, φ.`

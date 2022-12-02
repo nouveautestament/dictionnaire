@@ -1,0 +1,1 @@
+lar[15389]=`<b>ἀρτί·φατος, ος, ον</b> <font color="purple">[ῐᾰ]</font> tué récemment, OPP. <i>H. 4, 256</i>.<p><b>Étym</b>. ἄ. πεφνεῖν.`

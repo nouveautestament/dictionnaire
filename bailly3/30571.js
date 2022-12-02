@@ -1,0 +1,1 @@
+lar[30571]=`<font color="darkgreen">(<i>seul. impf. épq</i>. ἐέργνυν)</font> <i>c</i>. εἵργω, OD. <i>10, 238</i>.`

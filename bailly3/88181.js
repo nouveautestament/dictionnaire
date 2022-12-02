@@ -1,0 +1,1 @@
+lar[88181]=`<b>ή, όν :<br>      1</b> rayé, cannelé, strié, <i>en parl. de vêtements,</i> XÉN. <i>Cyr. 8, 3, 16 ; en parl. d’animaux,</i> ARSTT. <i>H.A. 4, 4, 6 ; de colonnes,</i> EUSTR. <i>Nic. 10, 4 ; d’une coupe,</i> POLÉMON (ATH. <i>484c</i>).<br><b>      2</b> fait de baguettes, DS. <i>3, 22</i>.<p><b>Étym</b>. <i>vb. de</i> *ῥαβδόω, <i>de</i> ῥάβδος.`

@@ -1,0 +1,1 @@
+lar[32208]=`<b>ή, όν</b>, qu’on peut avoir, DL. <i>3, 105</i>.<p><b>Étym</b>. <i>vb. de</i> ἔχω.`

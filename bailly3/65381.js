@@ -1,0 +1,1 @@
+lar[65381]=`<b>ή, όν</b>, en forme de sonde, P. ÉG. <i>376 Briau</i>.<p><b>Étym</b>. *μηλιόω, <i>de</i> μήλη.`

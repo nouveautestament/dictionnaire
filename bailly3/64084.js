@@ -1,0 +1,1 @@
+lar[64084]=`<b>μελισσό·τοκος, ος, ον</b>, enfanté par les abeilles, ANTH. <i>7, 12</i>.<p><b>Étym</b>. μ. τίκτω.`

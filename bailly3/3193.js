@@ -1,0 +1,1 @@
+lar[3193]=`<i>adv</i>., sans s’accorder, d’une manière incohérente, DL. <i>7, 59</i> ; DYSC. <i>Synt. 7, 2 ; 89, 18</i>.`

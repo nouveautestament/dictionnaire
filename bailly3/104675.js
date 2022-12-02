@@ -1,0 +1,1 @@
+lar[104675]=`<b>(ἡ)</b> Phænô, <i>litt</i>. « la brillante », <i>nymphe,</i> HH. <i>5, 418</i>.<p><b>Étym</b>. φαίνω.`

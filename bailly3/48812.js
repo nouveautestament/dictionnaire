@@ -1,0 +1,1 @@
+lar[48812]=`<b>ή, όν</b> <font color="purple">[ῐκε]</font> fait pour supplier, propre à supplier, PHIL. <i>2, 546</i>.<p><b>Étym</b>. ἱκέτης.`

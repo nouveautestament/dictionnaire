@@ -1,0 +1,1 @@
+lar[92623]=`<b>οντος</b> <i>et</i> <b>ωνος (ὁ)</b> <i>litt</i>. « le brillant », Mercure, <i>ou, sel. d’autres,</i> Vénus, <i>planète,</i> ARSTT. <i>Mund. 2, 9</i> ; CIC. <i>N.D. 2, 20</i> ; PLUT. <i>M. 430a</i>.<p>➳ <i>Acc</i>. -ωνα, PLUT. <i>M. 1029b</i>.<p><b>Étym</b>. στίλβω.`

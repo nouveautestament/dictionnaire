@@ -1,0 +1,1 @@
+lar[80381]=`<b>πινυτό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐῠ]</font> à l’esprit inspiré, sage, prudent, ANTH. <i>3, 8 ; 7, 22</i> ; A. PL. <i>325</i>.<p><b>Étym</b>. πινυτός, φρήν.`

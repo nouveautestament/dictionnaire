@@ -1,0 +1,1 @@
+lar[82396]=`<b>πολυ·στιβία, ας (ἡ)</b> <font color="purple">[ῐβ]</font> chemin très fréquenté, OPP. <i>C. 4, 433</i>.<p><b>Étym</b>. π. στείβω.`

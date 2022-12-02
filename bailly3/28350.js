@@ -1,0 +1,1 @@
+lar[28350]=`<b>δυσ·εκλύτως</b> <font color="purple">[ῠῠ]</font> <i>adv</i>., d’une manière indissoluble, ESCHL. <i>Pr. 60</i>.<p><b>Étym</b>. δ. ἐκλύω.`

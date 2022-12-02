@@ -1,0 +1,1 @@
+lar[10777]=`<b>ας (ἡ)</b> insubordination, CHRYS. <i>7, 245</i>.<p><b>Étym</b>. ἀνυπότακτος.`

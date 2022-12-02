@@ -1,0 +1,1 @@
+lar[60355]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> lépas, <i>coquillage univalve qui s’attache aux roches,</i> ARSTT. <i>H.A. 4, 4, etc. ; fig</i>. AR. <i>Pl. 1096 ; Vesp. 105</i>.<p><b>Étym</b>. λέπω.`

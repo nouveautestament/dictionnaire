@@ -1,0 +1,1 @@
+lar[109197]=`<b>χρυσό·κονις, ιος</b> <i>ou</i> <b>εως (ἡ)</b> <font color="purple">[ῡ]</font> poudre d’or, TIMOTHÉE GR. <i>32</i>.<p><b>Étym</b>. χρ. κόνις.`

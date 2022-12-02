@@ -1,0 +1,1 @@
+lar[13361]=`<b>ή, όν</b>, qui chasse, qui disperse, JAMBL. <i>Protr. p. 346</i>.<p><b>Étym</b>. ἀποσοβέω.`

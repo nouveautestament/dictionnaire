@@ -1,0 +1,1 @@
+lar[10426]=`<b>ἀντι·στέλλω</b> <font color="darkgreen">(<i>f</i>. -στελῶ ; <i>pf. pass</i>. ἀντέσταλμαι) :</font><br><b>      1</b> mettre en opposition, CHRYS. <i>1, 953</i>).<br><b>      2</b> différer de, BAS. <i>2, 766</i>.`

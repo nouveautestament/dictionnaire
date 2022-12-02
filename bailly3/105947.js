@@ -1,0 +1,1 @@
+lar[105947]=`<b>φιλό·μοχθος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le travail pénible, PHALAR. <i>Ep. 180</i> ; PROCL. <i>Ptol. 222 ; adv</i>. φιλόμοχθα, MAN. <i>4, 277,</i> par amour du travail.<p><b>Étym</b>. φ. μόχθος.`

@@ -1,0 +1,1 @@
+lar[15665]=`<b>ἀρχι·τελώνης, ου (ὁ)</b> <font color="purple">[ῐ]</font> chef des publicains, NT. <i>Luc. 19, 2</i>.`

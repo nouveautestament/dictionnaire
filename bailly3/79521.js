@@ -1,0 +1,1 @@
+lar[79521]=`<b>περι·τρίβω</b>, user tout autour, ARSTT. <i>H.A. 9, 40, 50</i> ; LYC. <i>790, etc</i>.`

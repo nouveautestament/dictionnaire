@@ -1,0 +1,1 @@
+lar[51730]=`<b>ίδος (ἡ)</b> <font color="purple">[δᾰ]</font> cardamine, <i>sorte de cresson,</i> NIC. <i>Al. 533</i> ; PLUT. <i>M. 125f, 466d</i>.<p><b>Étym</b>. κάρδαμον.`

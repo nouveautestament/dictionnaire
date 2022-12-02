@@ -1,0 +1,1 @@
+lar[78668]=`<b>περι·θρυλέομαι-οῦμαι</b> <font color="purple">[ῡ]</font> être assourdi, BAS. <i>4, 268, 300 Migne</i>.`

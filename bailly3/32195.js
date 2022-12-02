@@ -1,0 +1,1 @@
+lar[32195]=`<b>ος</b> <i>ou</i> <b>α, ον :<br>      1</b> éloigné : ἀπάγετ' ἐκτόπιόν με, SOPH. <i>O.R. 1340,</i> emmenez-moi loin de ces lieux.<br><b>      2</b> <i>p. suite,</i> étranger, ATH. <i>659a.</i><br><b>      3</b> extraordinaire, étrange, ORPH. <i>H. 57, 10</i>.<p>➳ <i>Fém</i>. -ία, SOPH. <i>O.R. 166</i>.<p><b>Étym</b>. ἔκτοπος.`

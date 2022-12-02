@@ -1,0 +1,1 @@
+lar[24897]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> propre à empêcher, PLAT. <i>Pol. 280d ;</i> ARSTT. <i>H.A. 10, 1, 12</i>.<p><b>Étym</b>. διακωλύω.`

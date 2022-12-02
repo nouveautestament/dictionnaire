@@ -1,0 +1,1 @@
+lar[62006]=`<b>Λυσ·ανορίδας, α (ὁ)</b> <font color="purple">[ῡᾱῐᾱ]</font> Lysanoridas, <i>Spartiate,</i> PLUT. <i>Pel. 13</i>.<p><b>Étym</b>. λύω, ἀνήρ.`

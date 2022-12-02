@@ -1,0 +1,1 @@
+lar[22318]=`<i>adv</i>., sentencieusement, RHÉT. <i>1, 206 W</i>.`

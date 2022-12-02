@@ -1,0 +1,1 @@
+lar[94296]=`<b>ής, ές</b> <font color="purple">[ῐ]</font> suffocant, DS. <i>3, 51</i>.<p><b>Étym</b>. συμπνίγω.`

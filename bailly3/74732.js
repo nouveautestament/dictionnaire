@@ -1,0 +1,1 @@
+lar[74732]=`<b>παμ·πάλαιος, ος, ον</b> <font color="purple">[ᾰλ]</font> tout à fait ancien, PLAT. <i>Theæt. 181b ;</i> ARSTT. <i>Metaph. 1, 3, 6</i> ; PLUT. <i>Cato ma. 1</i>.<p><b>Étym</b>. π. παλαιός.`

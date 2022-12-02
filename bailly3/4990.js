@@ -1,0 +1,1 @@
+lar[4990]=`<b>ιος (ὁ)</b> Altis, <i>bois sacré de Zeus, à Olympie,</i> PD. <i>O. 11, 55</i> ; XÉN. <i>Hell. 7, 4, 29</i>.`

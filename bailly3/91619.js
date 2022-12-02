@@ -1,0 +1,1 @@
+lar[91619]=`<b>ου (ὁ)</b> = <i>lat</i>. Sulpicius, <i>n. d’h. rom</i>. PLUT. <i>Cic. 19, etc</i>.`

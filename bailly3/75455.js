@@ -1,0 +1,1 @@
+lar[75455]=`<font color="purple">[ρᾱ]</font> <i>dor. c</i>. παρήγορος.`

@@ -1,0 +1,1 @@
+lar[68448]=`<b>ας (ἡ)</b> l’action de tirer un vaisseau à terre, ARSTT. <i>Phys. 8, 3, 5</i> ; TH. <i>H.P. 5, 7, 2</i>.<p><b>Étym</b>. νεωλκός.`

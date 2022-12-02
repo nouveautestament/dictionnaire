@@ -1,0 +1,1 @@
+lar[86143]=`<b>προσ·μισθόω-ῶ</b>, donner en outre à loyer, louer en outre, DÉM. <i>948, 12</i>.<br><b><i>Moy.</i></b> louer de plus pour soi, prendre en outre à sa solde, <i>acc</i>. THC. <i>2, 33</i> ; XÉN. <i>Hell. 4, 8, 7</i> ; DÉM. <i>663 fin</i>.`

@@ -1,0 +1,1 @@
+lar[14869]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> qui va en char, PHILSTR. <i>788</i>.<p><b>Étym</b>. ἅρμα.`

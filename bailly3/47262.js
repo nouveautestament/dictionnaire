@@ -1,0 +1,1 @@
+lar[47262]=`<b>εως (ἡ)</b> action de chasser, chasse, poursuite, PLAT. <i>Leg. 824a ; fig</i>. PLAT. <i>Theæt. 166c</i>.<p><b>Étym</b>. θηρεύω.`

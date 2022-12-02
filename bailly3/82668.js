@@ -1,0 +1,1 @@
+lar[82668]=`<b>      1</b> être en mauvais état de santé, HPC. <i>Coac. 173</i>.<br><b>      2</b> se conduire mal, DÉM. <i>351, 9, etc.</i> ; méditer criminellement de, <i>gén</i>. SPT. <i>Gen. 37, 18</i>.<p><b>Étym</b>. πονηρός.`

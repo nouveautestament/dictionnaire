@@ -1,0 +1,1 @@
+lar[93632]=`<b>συγ·χρώζω :<br>      1</b> communiquer une couleur, une teinte, <i>d’où au pass</i>. prendre la même couleur que, <i>dat</i>. DS. <i>2, 52</i> ; PLUT. <i>M. 934d.</i><br><b>      2</b> fondre les mêmes couleurs, <i>d’où au pass</i>. se fondre ensemble, <i>en parl. de couleurs,</i> DH. <i>Comp. 23</i>.`

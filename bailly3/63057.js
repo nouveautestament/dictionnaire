@@ -1,0 +1,1 @@
+lar[63057]=`<b>ας (ἡ)</b> <font color="purple">[σᾰ]</font> Massalia (<i>auj</i>. Marseille) <i>v. de Gaule,</i> HDT. <i>5, 9</i> ; THC. <i>1, 13</i> ; ARSTT. <i>Pol. 5, 6, 2, etc</i>.<p>➳ <i>Ion</i>. Μασσαλίη, HDT. <i>l. c</i>.`

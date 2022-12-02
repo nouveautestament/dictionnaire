@@ -1,0 +1,1 @@
+lar[106041]=`<b>φιλο·πρεπής, ής, ές</b>, qui aime la décence, la grâce, le décorum, DH. <i>Rhet. 3, 5</i>.<p><b>Étym</b>. φ. πρέπω.`

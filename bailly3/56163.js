@@ -1,0 +1,1 @@
+lar[56163]=`<b>κλυτο·εργός, ός, όν</b> <font color="purple">[ῠ]</font> célèbre par ses ouvrages <i>ou</i> son talent, OD. <i>8, 345</i>.<p><b>Étym</b>. κλ. ἔργον.`

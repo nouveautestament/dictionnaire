@@ -1,0 +1,1 @@
+lar[11438]=`<b>ας (ἡ)</b> occupation qui détourne d’une autre, STR. <i>228</i>.<p><b>Étym</b>. <i>v</i>. ἀπασχολέω.`

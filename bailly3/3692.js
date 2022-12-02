@@ -1,0 +1,1 @@
+lar[3692]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> statut, commandement, AQU. <i>Deut. 6, 17, 20, etc</i>.<p><b>Étym</b>. ἀκριβάζω.`

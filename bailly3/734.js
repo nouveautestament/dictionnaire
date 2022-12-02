@@ -1,0 +1,1 @@
+lar[734]=`<b>ἄ·γληνος, ος, ον</b>, sans prunelles, aveugle, NONN. <i>Jo. 9, 6</i>.<p><b>Étym</b>. ἀ, γλήνη.`

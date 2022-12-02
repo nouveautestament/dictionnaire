@@ -1,0 +1,1 @@
+lar[728]=`<b>ου (ἡ)</b> Aglauros, <i>fille de Cécrops, honorée dans l’Acropole d’Athènes,</i> HDT. <i>8, 53</i> ; AR. <i>Th. 533, etc</i>.<p>➳ <i>Qqf</i>. Ἄγραυλος, <i>d’où</i> Ἀγραυλίδες <i>(v. ce mot) ; dans les inscr. att. seul</i>. Ἄγλαυρος, CIA. <i>3, 372 b (empire) ; v. Meisterh. p. 64, 9</i>.<p><b>Étym</b>. <i>v</i>. ἄγλαυρος.`

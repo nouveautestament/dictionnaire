@@ -1,0 +1,1 @@
+lar[18582]=`<b>ἀ·χώριστος, ος, ον :<br>      1</b> non séparé, PLAT. <i>Rsp. 524b ; part</i>. qui n’a pas de place marquée, XÉN. <i>Lac. 9, 5</i>.<br><b>      2</b> inséparable, ARSTT. <i>Nic. 1, 13, 10</i> ; GAL. <i>8, 702</i>.<p><b>Étym</b>. ἀ, χωρίζω.`

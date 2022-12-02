@@ -1,0 +1,1 @@
+lar[43129]=`<b>εὐ·προφάσιστος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qu’on justifie par de bons prétextes, plausible, THC. <i>6, 105</i>.<br><b>      2</b> qui admet facilement des prétextes, APP. <i>Lib. 64</i>.<p><b>Étym</b>. εὖ, προφασίζομαι.`

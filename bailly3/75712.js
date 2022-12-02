@@ -1,0 +1,1 @@
+lar[75712]=`<b>ή, όν</b>, propre à encourager, à exhorter, <i>avec</i> ἐπί <i>et l’acc</i>. PLAT. <i>Euthyd. 283b ; en parl. d’adverbes</i> (εἶα, ἄγε, <i>etc</i>.) DYSC. <i>Adv. 533, 14</i>.<p><b>Étym</b>. παρακελεύω.`

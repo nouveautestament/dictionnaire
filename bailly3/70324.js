@@ -1,0 +1,1 @@
+lar[70324]=`<b>οἰκειο·φώνως</b>, <i>adv</i>., de la propre bouche de qqn, CTÉS. <i>Pers. 9</i>.<p><b>Étym</b>. οἰκεῖος, φωνή.`

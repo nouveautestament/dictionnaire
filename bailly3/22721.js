@@ -1,0 +1,1 @@
+lar[22721]=`<b>γυιό·κολλος, ος, ον</b>, qui colle <i>ou</i> maintient les membres, LYC. <i>1202</i>.<p><b>Étym</b>. γ. κόλλα.`

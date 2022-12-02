@@ -1,0 +1,1 @@
+lar[14753]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la manière d’Aristote, TAT. <i>Or. ad Græc. 2</i>.`

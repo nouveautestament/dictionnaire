@@ -1,0 +1,1 @@
+lar[89570]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> des Sarmates, ARSTT. <i>G.A. 5, 3, 19</i>.<p><b>Étym</b>. Σαυρομάται.`

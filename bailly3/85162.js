@@ -1,0 +1,1 @@
+lar[85162]=`<b>προσ·αναμετρέω-ῶ</b>, mesurer en outre, HLD. CHIR. (ORIB. <i>24 Mai</i>).`

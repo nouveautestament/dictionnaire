@@ -1,0 +1,1 @@
+lar[89738]=`<font color="darkgreen">(<i>seul. part. prés. épq</i>. σεληνιόων)</font> <i>c</i>. σεληνιάζω, MAN. <i>4, 548</i>.`

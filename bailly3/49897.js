@@ -1,0 +1,1 @@
+lar[49897]=`<b>ας (ἡ)</b> maigreur, ARSTT. <i>Metaph. 4, 2, 3 ; 8, 6, 7</i>.<p><b>Étym</b>. ἰσχναίνω.`

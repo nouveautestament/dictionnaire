@@ -1,0 +1,1 @@
+lar[96423]=`<b>συν·υποκρίνομαι</b> <font color="purple">[ῑν]</font><br><b>      1</b> jouer un rôle avec, <i>dat</i>. feindre en même temps, POL. <i>3, 52, 6</i>.<br><b>      2</b> aider à feindre : τινί τι, PLUT. <i>Mar. 14,</i> aider qqn à feindre qqe ch., appuyer un prétexte donné par qqn.`

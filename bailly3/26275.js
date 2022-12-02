@@ -1,0 +1,1 @@
+lar[26275]=`<b>δι·έρομαι</b> <font color="darkgreen">(<i>impf. ou ao.2, 3 sg</i>. διήρετο, DC. <i>38, 4 ; inf</i>. διερέσθαι, PLAT. <i>Phil. 42e</i>)</font> interroger, demander.<p><b>Étym</b>. διά, ἔρω, <i>cf</i>. διείρομαι.`

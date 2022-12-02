@@ -1,0 +1,1 @@
+lar[86926]=`<b>προ·φαντασιόομαι-οῦμαι</b> <font color="purple">[ᾰσ]</font> se figurer d’avance, PAPPUS.`

@@ -1,0 +1,1 @@
+lar[81158]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui flotte, flottant, <i>en parl. d’oiseaux aquatiques qui nagent à la surface de l’eau,</i> A.RH. <i>2, 1054 ; en parl. des î. de la mer Égée appelées plus tard</i> Στροφάδες, TH. <i>H.P. 4, 10, 2 ; 4, 12, 4</i>.`

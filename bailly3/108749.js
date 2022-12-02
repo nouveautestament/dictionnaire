@@ -1,0 +1,1 @@
+lar[108749]=`<b>ης (ἡ)</b> condrille, <i>n. de deux plantes (Chondrilla juncea</i> L., <i>Leontodon bulbosum</i> L.) DIOSC. <i>2, 161</i>.`

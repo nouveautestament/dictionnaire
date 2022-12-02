@@ -1,0 +1,1 @@
+lar[85104]=`<b>ου (ὁ)</b> mendiant, PLUT. <i>M. 294a ;</i> LUC. <i>Nav. 24</i>.<p><b>Étym</b>. προσαιτέω.`

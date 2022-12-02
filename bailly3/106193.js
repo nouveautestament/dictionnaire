@@ -1,0 +1,1 @@
+lar[106193]=`<b>φιλοχρηματέω-ῶ</b> <font color="purple">[ῐᾰ]</font> aimer l’argent, être cupide, PLAT. <i>Leg. 737a ;</i> IS. <i>81, 29</i> ; PLUT. <i>M. 85f</i>.<p><b>Étym</b>. φιλοχρήματος.`

@@ -1,0 +1,1 @@
+lar[108819]=`<b>χοροιτυπέω-ῶ</b> <font color="purple">[ῠ]</font> frapper (la terre) en chœur, danser en chœur, OPP. <i>H. 1, 472 ; C. 4, 340, etc</i>.<p><b>Étym</b>. χοροιτύπος.`

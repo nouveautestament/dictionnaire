@@ -1,0 +1,1 @@
+lar[108314]=`<b>χέρσον·δε</b>, <i>adv</i>., vers la terre ferme, sur la terre ferme, <i>avec mouv</i>. IL. <i>21, 238</i> ; HH. <i>Ap. 28</i> ; THCR. <i>Idyl. 16, 61</i>.<p><b>Étym</b>. χέρσος, -δε.`

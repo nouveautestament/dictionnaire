@@ -1,0 +1,1 @@
+lar[58047]=`<b>ή, όν</b>, teint avec du safran, PD. <i>N. 1, 38 ; subst</i>. ὁ κρ. (<i>s.-e</i>. πέπλος <i>ou</i> χιτών) tunique de couleur jaune pour les femmes, <i>rar. pour les hommes (de mœurs efféminées</i>) DURIS (ATH. <i>155c</i>) ; AR. <i>Lys. 44</i>.<p><b>Étym</b>. κρόκος.`

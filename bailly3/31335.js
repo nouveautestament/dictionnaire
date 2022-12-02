@@ -1,0 +1,1 @@
+lar[31335]=`<b>ἐκ·θρηνέω-ῶ</b>, se lamenter au sujet de, <i>acc</i>. LUC. <i>Oc. 113</i>.`

@@ -1,0 +1,1 @@
+lar[67323]=`<i>mieux que</i> <b>μυροπώλιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> boutique de parfumeur <i>ou</i> marché aux parfums, LYS. <i>754, 5</i> ; DÉM. <i>786, 7 ; 911, 13</i>.<p><b>Étym</b>. μυροπώλης.`

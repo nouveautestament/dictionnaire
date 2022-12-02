@@ -1,0 +1,1 @@
+lar[105103]=`<b>(ἡ)</b> « l’î. de liège, » <i>î. fictive,</i> LUC. <i>V.H. 2, 4</i>.`

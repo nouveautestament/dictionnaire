@@ -1,0 +1,1 @@
+lar[96984]=`<b>ας (ἡ) :<br>      1</b> corde servant de barrière pour les courses du stade (<i>cf</i>. ὕσπληγξ) GAL. <i>12, 338a.</i><br><b>      2</b> corde de poulie, ARSTT. <i>Mund. 6, 12</i> ; POL. <i>8, 7, 10 ; 8, 8, 3</i>.<p><b>Étym</b>. σχάζω.`

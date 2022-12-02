@@ -1,0 +1,1 @@
+lar[91145]=`être semblable à l’ail, DIOSC. <i>3, 125</i>.<p><b>Étym</b>. σκόρδον.`

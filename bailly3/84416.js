@@ -1,0 +1,1 @@
+lar[84416]=`<b>προ·καθεύδω</b>, dormir d’avance <i>ou</i> auparavant, AR. <i>Vesp. 104</i>.`

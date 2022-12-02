@@ -1,0 +1,1 @@
+lar[28893]=`<b>δύσ·σοος, οος, οον</b>, difficile à sauver, à préserver, THCR. <i>Idyl. 3, 24 ; 4, 44</i>.<p><b>Étym</b>. δ. σόος.`

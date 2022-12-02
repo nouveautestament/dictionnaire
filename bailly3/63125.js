@@ -1,0 +1,1 @@
+lar[63125]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Masyntias, <i>n. d’esclave,</i> AR. <i>Vesp. 433</i>.`

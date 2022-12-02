@@ -1,0 +1,1 @@
+lar[94471]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> union de choses qui croissent et se soudent ensemble, HPC. <i>Fract. 778</i>.<p><b>Étym</b>. συμφύω.`

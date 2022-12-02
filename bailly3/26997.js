@@ -1,0 +1,1 @@
+lar[26997]=`<b>δί·πτωτος, ος, ον</b>, à deux terminaisons <i>ou</i> désinences, DYSC. <i>Pron. 116</i>.<p><b>Étym</b>. δίς, πίπτω.`

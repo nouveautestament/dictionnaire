@@ -1,0 +1,1 @@
+lar[56142]=`<b>ου (τὸ)</b> souci, <i>plante,</i> TH. <i>H.P. 9, 8, 5, etc.</i> ; DIOSC. <i>4, 13</i>.`

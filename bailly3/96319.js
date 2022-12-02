@@ -1,0 +1,1 @@
+lar[96319]=`<i>(seul. prés.) c</i>. συντιτράω, HDT. <i>2, 11 ; fig</i>. faire pénétrer : μῦθον δι' ὠτῶν, ESCHL. <i>Ch. 451,</i> faire pénétrer un récit dans les oreilles (pour qu’il se grave dans l’esprit).`

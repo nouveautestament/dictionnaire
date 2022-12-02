@@ -1,0 +1,1 @@
+lar[85514]=`<b>προσ·εκβάλλω :<br>      1</b> expulser en outre, DÉM. <i>555, 2</i> ; PLUT. <i>C. Gracch. 14</i>.<br><b>      2</b> <i>t. de géom. (s.-e</i>. γραμμήν) prolonger, STR. <i>90</i>.`

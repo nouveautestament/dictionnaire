@@ -1,0 +1,1 @@
+lar[107955]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰῐ]</font> Kharitô, <i>f</i>. ANTH. <i>5, 13, etc</i>.<p><b>Étym</b>. χάρις.`

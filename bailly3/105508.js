@@ -1,0 +1,1 @@
+lar[105508]=`<b>φιλ·άρματος, ος, ον</b> <font color="purple">[ῐμᾰ]</font> amateur de chars <i>ou</i> de courses de chars, PD. <i>I. 8, 43</i> ; EUR. <i>H.f. 467</i>.<p><b>Étym</b>. φ. ἅρμα.`

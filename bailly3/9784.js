@@ -1,0 +1,1 @@
+lar[9784]=`<b>ἀντι·βουλεύομαι</b>, prendre une décision contraire, POLYEN <i>1, 30, 3</i>.`

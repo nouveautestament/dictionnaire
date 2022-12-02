@@ -1,0 +1,1 @@
+lar[48619]=`<i>adv</i>., comme il convient à une personne <i>ou</i> à une chose sainte, STR. <i>567</i>.<p><b>Étym</b>. ἱεροπρεπής.`

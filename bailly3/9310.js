@@ -1,0 +1,1 @@
+lar[9310]=`<i>adv</i>., sans appétit, sans désir, A. TR. <i>1, 395, 12 Puschmann</i> ; CLÉM. <i>2, 444 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[9279]=`<b>ητος (ἡ)</b> différence, PLAT. <i>Parm. 159e, etc. ; au plur</i>. PLAT. <i>Pol. 294b ;</i> ARSTT. <i>Poet. 2, 5</i>.<p><b>Étym</b>. ἀνόμοιος.`

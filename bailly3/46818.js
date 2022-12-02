@@ -1,0 +1,1 @@
+lar[46818]=`<b>ής, ές</b>, qui nourrit un dieu ou des dieux, NONN. <i>D. 9, 101</i>.<p><b>Étym</b>. θ. τρέφω.`

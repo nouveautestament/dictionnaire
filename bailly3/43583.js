@@ -1,0 +1,1 @@
+lar[43583]=`<i>adv</i>., avec peu de dépense, simplement, XÉN. <i>Conv. 4, 49</i> ; DH. <i>Rhet. 10, 7</i>.<p>•<i> Cp</i>. εὐτελέστερον, XÉN. <i>Cyr. 8, 3, 46, etc. • Sup</i>. -έστατα, ISOCR. <i>476</i> ; HDN <i>2, 11, 1</i>.<p><b>Étym</b>. εὐτελής.`

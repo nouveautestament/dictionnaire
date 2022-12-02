@@ -1,0 +1,1 @@
+lar[26237]=`<b>ή, όν :<br>      1</b> qui sert d’issue : τὸ διεξοδικόν, ARSTT. <i>H.A. 1, 13, 2,</i> la partie du corps par où sortent les excréments.<br><b>      2</b> étendu, développé, <i>en parl. d’un récit,</i> PLUT. <i>Fab. 16</i> ; CLÉM. <i>1, 736b Migne</i>.<p><b>Étym</b>. διέξοδος.`

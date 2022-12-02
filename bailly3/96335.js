@@ -1,0 +1,1 @@
+lar[96335]=`<b>συν·τίκτω</b>, enfanter ensemble <i>ou</i> en même temps, ARÉT. <i>Cur. m. diut. 1, 4</i> ; PROCL. <i>Ptol. p. 139</i>.`

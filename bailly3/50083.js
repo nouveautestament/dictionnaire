@@ -1,0 +1,1 @@
+lar[50083]=`<b>ης, ες :<br>      1</b> semblable aux poissons, ARSTT. <i>P.A. 4, 13, 29</i>.<br><b>      2</b> abondant en poissons, poissonneux, HDT. <i>7, 109</i>.<p><b>Étym</b>. ἰ. -ωδης.`

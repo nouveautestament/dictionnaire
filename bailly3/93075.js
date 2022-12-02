@@ -1,0 +1,1 @@
+lar[93075]=`<b>ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font><br><b>      1</b> petite colonne, DH. <i>3, 21</i>.<br><b>      2</b> petit mât à l’arrière d’un navire, PLUT. <i>Pomp. 24</i>.<p><b>Étym</b>. στῦλος.`

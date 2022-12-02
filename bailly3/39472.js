@@ -1,0 +1,1 @@
+lar[39472]=`<font color="purple">[ᾰ]</font> (<i>seul. 3 pl. prés. épq</i>. -έουσι) <i>c</i>. ἐπιτρέπω, IL. <i>10, 421</i>.`

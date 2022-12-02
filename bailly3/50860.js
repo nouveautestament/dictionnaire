@@ -1,0 +1,1 @@
+lar[50860]=`<b>κακο·σταθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui est en mauvais état, NAZ. <i>2, 73</i>.<p><b>Étym</b>. κ. ἵστημι.`

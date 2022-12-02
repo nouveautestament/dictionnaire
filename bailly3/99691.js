@@ -1,0 +1,1 @@
+lar[99691]=`<b>α, ον</b>, de Torônè, <i>càd.</i> :<br><b>      1</b> le père de Torônè, <i>càd</i>. Protée, NONN. <i>D. 21, 287</i>.<br><b>      2</b> de la v. de Torônè : Τορωναίη ἄκρη, HDT. <i>7, 122,</i> le promontoire de Torônè ; οἱ Τορωναῖοι, THC. <i>4, 110, etc.</i> ; XÉN. <i>Hell. 2, 2, 3,</i> les habitants de Torônè.<p><b>Étym</b>. Τορώνη.`

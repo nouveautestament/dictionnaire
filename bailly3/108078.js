@@ -1,0 +1,1 @@
+lar[108078]=`<b>χειμιέω-ῶ</b>, être transi de froid, HPC. <i>418, 54</i>.<p><b>Étym</b>. χειμίη.`

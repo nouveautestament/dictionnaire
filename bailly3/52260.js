@@ -1,0 +1,1 @@
+lar[52260]=`<b>κατ·αγρέω</b>, prendre, surprendre, SAPPH. (DYSC. <i>Pron. p. 386</i>).`

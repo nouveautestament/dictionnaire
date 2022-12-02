@@ -1,0 +1,1 @@
+lar[38554]=`<b>ἐπι·νυμφεύω</b>, donner en mariage à, <i>dat</i>. EUM. <i>11, p. 426</i>.`

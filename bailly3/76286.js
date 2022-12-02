@@ -1,0 +1,1 @@
+lar[76286]=`<b>παρ·ασφαλίζω</b> <font color="purple">[φᾰ]</font> appuyer, consolider, fortifier, SPT. <i>Neh. 3, 8</i>.`

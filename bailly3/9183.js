@@ -1,0 +1,1 @@
+lar[9183]=`<b>ἄν·οζος, ος, ον</b>, sans nœud, sans bourgeon, TH. <i>H.P. 1, 8, 1</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>H.P. 3, 13, 3 ; 3, 15, 1, etc</i>.<p><b>Étym</b>. ἀν-, ὄ.`

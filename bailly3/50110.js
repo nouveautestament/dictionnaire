@@ -1,0 +1,1 @@
+lar[50110]=`<b>ἰχωρο·ειδής, ής, ές</b> <font color="purple">[ῑ]</font> purulent, HPC. (GAL.) ; ARSTT. <i>H.A. 3, 19, 8</i>.<p><b>Étym</b>. ἰχώρ, εἶδος.`

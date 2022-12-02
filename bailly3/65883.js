@@ -1,0 +1,1 @@
+lar[65883]=`<b>άδος</b> <font color="purple">[ῐᾰδ]</font> <i>adj. f</i>. des Minyes, ANTH. <i>App. 9, 32</i> ; PAUS. <i>9, 5, 9, etc</i>.<p><b>Étym</b>. Μινύαι.`

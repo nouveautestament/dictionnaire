@@ -1,0 +1,1 @@
+lar[103268]=`<b>ατος (τὸ)</b> fragment d’os fracassé, HIPPIATR. <i>p. 254, 26</i>.<p><b>Étym</b>. ὑποθλάω.`

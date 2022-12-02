@@ -1,0 +1,1 @@
+lar[65503]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> action de ruminer, SPT. <i>Lev. 11, 3, 4 ; Deut. 14, 6, 7</i>.<p><b>Étym</b>. μηρυκίζω.`

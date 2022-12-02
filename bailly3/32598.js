@@ -1,0 +1,1 @@
+lar[32598]=`<i>épq</i>. <b>ἐέλδωρ (τὸ)</b> <i>seul. nom. et acc. sg</i>. IL. <i>1, 41 ; 8, 242 ; 15, 74</i> ; OD. <i>17, 242 ; 23, 54 ; etc.</i> ; HÉS. <i>Sc. 36,</i> souhait, désir.<p>➳ ἡ ἐέλδ. IBYC. <i>fr. 19 Bgk</i>.<p><b>Étym</b>. ἔλδομαι.`

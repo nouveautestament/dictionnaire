@@ -1,0 +1,1 @@
+lar[89957]=`<i>adv</i>., en signifiant, en donnant un signe, STR. <i>759</i>.<p><b>Étym</b>. σημειώδης.`

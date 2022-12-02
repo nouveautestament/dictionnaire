@@ -1,0 +1,1 @@
+lar[15487]=`<font color="purple">[χᾱῐ]</font> <i>adv</i>., à la manière antique, à l’ancienne mode, ARSTT. <i>Metaph. 13, 2, 5</i> ; DS. <i>13, 83</i> ; PLUT. <i>M. 1135b</i>.`

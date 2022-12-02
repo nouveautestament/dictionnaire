@@ -1,0 +1,1 @@
+lar[95514]=`<b>συν·εξατμίζω</b>, dissiper en même temps par l’évaporation, ARSTT. <i>Meteor. 4, 5, 8, etc</i>.`

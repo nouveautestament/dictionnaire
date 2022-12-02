@@ -1,0 +1,1 @@
+lar[12054]=`<b>ας (ἡ)</b> désir insatiable, PLAT. <i>Rsp. 562b, Leg. 831d, etc.</i> ; LYS. <i>121, 41</i> ; DÉM. <i>614, 7 ; 958, 7, etc</i>.<p><b>Étym</b>. ἄπληστος.`

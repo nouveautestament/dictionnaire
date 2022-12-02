@@ -1,0 +1,1 @@
+lar[106669]=`<b>φορεια·φόρος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> porteur de chaise <i>ou</i> de litière, PLUT. <i>Galb. 25</i>.<p><b>Étym</b>. φορεῖον, φέρω.`

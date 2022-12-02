@@ -1,0 +1,1 @@
+lar[18595]=`<b>ἀψευδέω-ῶ</b>, <i>f</i>. ήσω, ne pas mentir, AR. <i>fr. 591</i> ; distinct <i>de</i> ἀληθεύειν, XÉN. <i>Cyr. 5, 2, 8</i> ; πρός τινα, SOPH. <i>Tr. 469</i> ; ESCHN. <i>40, 40,</i> parler à qqn sans le tromper ; περί τινος, ARSTT. <i>Soph. el. 1, 2,</i> parler de que ch. sans rien dire d’inexact.<p><b>Étym</b>. ἀψευδής.`

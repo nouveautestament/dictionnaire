@@ -1,0 +1,1 @@
+lar[77818]=`<b>(ὁ)</b> Pellès, <i>fondateur de Pellènè,</i> A.RH. <i>1, 177</i>.`

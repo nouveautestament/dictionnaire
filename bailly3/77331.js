@@ -1,0 +1,1 @@
+lar[77331]=`<b>(ὁ)</b> Patizeithès, <i>mage,</i> HDT. <i>3, 61</i>.`

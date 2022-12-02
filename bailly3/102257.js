@@ -1,0 +1,1 @@
+lar[102257]=`<b>ὑπερ·αλκής, ής, ές</b>, extrêmement fort, tout à fait solide, PLUT. <i>Pomp. 65</i>.<p><b>Étym</b>. ὑ. ἀλκή.`

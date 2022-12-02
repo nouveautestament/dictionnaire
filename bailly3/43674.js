@@ -1,0 +1,1 @@
+lar[43674]=`<b>εὐ·ύαλος, ος, ον</b> <font color="purple">[ᾰ]</font> fait de bon <i>ou</i> de beau verre, ANTH. <i>11, 55 dout</i>.<p><b>Étym</b>. εὖ, ὕαλος.`

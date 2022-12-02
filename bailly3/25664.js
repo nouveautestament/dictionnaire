@@ -1,0 +1,1 @@
+lar[25664]=`<b>ῆρος</b>, <i>adj. m</i>. qui égorge, meurtrier (fer) ANTH. <i>7, 493</i>.<p><b>Étym</b>. διασφάττω.`

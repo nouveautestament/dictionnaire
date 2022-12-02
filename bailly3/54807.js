@@ -1,0 +1,1 @@
+lar[54807]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> d’argile, HPC. <i>535, 27</i> ; XÉN. <i>Conv. 7, 2</i> ; AR. <i>Eccl. 4</i> ; ἡ κεραμική (<i>s.-e</i>. τέχνη) PLAT. <i>Pol. 288a</i>, l’art du potier.<p><b>Étym</b>. κέραμος.`

@@ -1,0 +1,1 @@
+lar[21783]=`<b>ου (ἡ)</b> Gérènos, <i>v. de Messénie,</i> HÉS. (E. BYZ. <i>v</i>° Γερηνία).`

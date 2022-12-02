@@ -1,0 +1,1 @@
+lar[34604]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en quelques endroits, PLUT. <i>Brut. 2, Cic. 24</i>.<br><b>      2</b> <i>avec idée de temps,</i> parfois, PLAT. <i>Phæd. 71b ;</i> ARSTT. <i>H.A. 5, 14, 12</i>.<p><b>Étym</b>. ἔνιοι, -χου.`

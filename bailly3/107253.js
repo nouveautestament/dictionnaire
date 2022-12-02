@@ -1,0 +1,1 @@
+lar[107253]=`<b>ιγγος (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> tige creuse et gonflée comme celle de l’ail, de l’oignon, <i>etc</i>. HPC. <i>de Fist. 2</i> ; TH. <i>H.P. 7, 4, 12</i>.<br><b>      2</b> sorte d’ail, DIOCLÈS (ATH. <i>68e</i>).<p><b>Étym</b>. φυσάω.`

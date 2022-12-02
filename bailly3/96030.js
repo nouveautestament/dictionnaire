@@ -1,0 +1,1 @@
+lar[96030]=`<b>συν·ίστωρ, ορος (ὁ, ἡ)</b> qui sait avec un autre, <i>d’où</i> témoin, SOPH. <i>Ph. 1293, etc.</i> ; EUR. <i>Suppl. 1174</i> ; THC. <i>2, 74</i> ; τινός, ANTH. <i>5, 4 et 5</i> ; POL. <i>28, 17, 13 ; 30, 8, 1 ; ou</i> τι, ESCHL. <i>Ag. 1090,</i> de qqe ch. (<i>cf</i>. συνειδέναι).<p><b>Étym</b>. σύν, ἵστωρ.`

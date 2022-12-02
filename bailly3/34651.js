@@ -1,0 +1,1 @@
+lar[34651]=`<b>οῦς (ἡ)</b> Énipô, <i>mère d’Archiloque,</i> EL. <i>V.H. 10, 13</i>.`

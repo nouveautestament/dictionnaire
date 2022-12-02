@@ -1,0 +1,1 @@
+lar[13272]=`<b>ἀπο·σαφέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἀπεσάφουν)</font> <font color="purple">[σᾰ]</font> éclaircir, expliquer, PLAT. <i>Prot. 348b ;</i> LUC. <i>H. conscr. 52</i>.<p><b>Étym</b>. ἀπό, σαφής.`

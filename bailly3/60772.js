@@ -1,0 +1,1 @@
+lar[60772]=`<i>dor</i>. <b>λακέω-ῶ</b> <font color="purple">[ᾱ]</font> faire du bruit en claquant, claquer, THCR. <i>Idyl. 2, 24</i>.`

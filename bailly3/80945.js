@@ -1,0 +1,1 @@
+lar[80945]=`<b>ατος (τὸ) :<br>      1</b> coup, SOPH. <i>Tr. 522</i>.<br><b>      2</b> blessure, SOPH. <i>Ant. 1283</i> ; EUR. <i>I.T. 1366, etc. ; en parl. d’une piqûre de guêpe,</i> ARSTT. <i>H.A. 9, 41, 1</i>.<p><b>Étym</b>. πλήσσω.`

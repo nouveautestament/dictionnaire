@@ -1,0 +1,1 @@
+lar[23835]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. rempli d’arbres, boisé, NONN. <i>D. 2, 639</i>.<p><b>Étym</b>. δένδρον.`

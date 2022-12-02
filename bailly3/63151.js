@@ -1,0 +1,1 @@
+lar[63151]=`<b>ματαιό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> sot, frivole, CLÉM. <i>18</i> ; SPT. <i>3Macc. 6, 11</i>.<p><b>Étym</b>. μάταιος, φρήν.`

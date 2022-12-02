@@ -1,0 +1,1 @@
+lar[38981]=`<b>ἐπι·σκεπής, ής, ές</b>, lieu couvert <i>ou</i> abrité, ARSTT. <i>H.A. 9, 16, 1</i> ; TH. <i>Vent. 30</i>.<p><b>Étym</b>. ἐπί, σκέπη.`

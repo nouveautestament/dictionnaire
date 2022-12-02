@@ -1,0 +1,1 @@
+lar[18732]=`<b>ας (ἡ)</b> fondement, siège, ESCHL. <i>Suppl. 859</i>.<p><b>Étym</b>. βάθρον.`

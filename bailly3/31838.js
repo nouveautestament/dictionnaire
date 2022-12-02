@@ -1,0 +1,1 @@
+lar[31838]=`<b>ἐκ·πηνίζομαι</b>, dévider, défiler, ARSTT. <i>Probl. 26, 61 ; fig</i>. AR. <i>Ran. 578</i>.<p><b>Étym</b>. <i>fut. 3 sg</i>. -ιεῖται.`

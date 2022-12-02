@@ -1,0 +1,1 @@
+lar[33639]=`<b>ἐμ·πυρίζω</b> <font color="purple">[ῠ]</font> mettre en feu, incendier, DS. <i>2, 36 ; 12, 43</i> ; SPT. <i>Lev. 10, 6 ; 1Reg. 30, 1 ; 1Esdr. 1, 52, etc</i>.<p><b>Étym</b>. ἐν, πῦρ.`

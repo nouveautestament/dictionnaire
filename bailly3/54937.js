@@ -1,0 +1,1 @@
+lar[54937]=`<b>όος-οῦς (ἡ) :<br>      1</b> renard, AR. <i>Eq. 1068</i> ; LUC. <i>Herm. 84</i>.<br><b>      2</b> belette, ARTÉM. <i>3, 28</i>.<p><b>Étym</b>. κέρδος.`

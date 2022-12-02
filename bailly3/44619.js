@@ -1,0 +1,1 @@
+lar[44619]=`<b>ου (τὸ)</b> cassette, coffre en bois, SOPH. <i>Tr. 692</i> ; EUR. <i>fr. 208</i> ; XÉN. <i>Cyr. 7, 3, 1</i>.<p><b>Étym</b>. ζυγόν.`

@@ -1,0 +1,1 @@
+lar[14743]=`<b>ἀριστο·πονεύς</b> <font color="purple">[ᾰ]</font> <i>seul. nom. pl. poét</i>. -ῆες, MAN. <i>4, 512, c</i>. ἀριστοπόνος.`

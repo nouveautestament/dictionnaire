@@ -1,0 +1,1 @@
+lar[109914]=`<b>ακος (ὁ)</b> bouton blanc qu’on disait venir au nez des menteurs, GAL.<p><b>Étym</b>. <i>inconnue ; rapprochement avec</i> ψυδρός <i>p.-ê. par étym. populaire</i>.`

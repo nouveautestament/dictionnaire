@@ -1,0 +1,1 @@
+lar[71159]=`exterminer, ruiner, détruire, SPT. <i>Ex. 12, 23, etc.</i> ; NT. <i>Hebr. 11, 28</i>.<p><b>Étym</b>. ὄλεθρος.`

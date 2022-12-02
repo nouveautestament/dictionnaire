@@ -1,0 +1,1 @@
+lar[97357]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> chef, commandant, ESCHL. <i>Pr. 96 ; Pers. 23, 324, 480</i> ; SOPH. <i>Ant. 1057</i> ; EUR. <i>I.A. 269 ; particul. en Thessalie,</i> chef suprême en temps de guerre, XÉN. <i>Hell. 6, 1, 8 ; 6, 4, 35, etc</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *teh₂g-, ordonner, ranger, <i>cf</i>. τάσσω.`

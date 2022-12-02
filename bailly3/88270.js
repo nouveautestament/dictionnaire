@@ -1,0 +1,1 @@
+lar[88270]=`<b>ῆς (ἡ)</b> sorte de couteau recourbé, POL. <i>10, 18, 6</i>.<p><b>Étym</b>. <i>cf</i>. ῥάμφος.`

@@ -1,0 +1,1 @@
+lar[7018]=`<b>εως (ἡ) :<br>      1</b> action de se concilier qqn, HDN <i>6, 6, 6</i>.<br><b>      2</b> recouvrement des forces, HPC. <i>10, 2</i>.<p><b>Étym</b>. ἀνακτάομαι.`

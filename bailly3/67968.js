@@ -1,0 +1,1 @@
+lar[67968]=`<b>ου</b>, <i>adj. m</i>. qui habite <i>ou</i> qui se trouve sur les bords du Nil, ATH. <i>309a</i>.<p><b>Étym</b>. Νεῖλος.`

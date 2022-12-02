@@ -1,0 +1,1 @@
+lar[101655]=`<b>ή, όν</b>, de porc, AXION. COM. <i>fr. 2</i> ; ὑϊκόν τι πάσχει, XÉN. <i>Mem. 1, 2, 30,</i> il éprouve qqe ch. comme ce qu’éprouvent les porcs.<p><b>Étym</b>. ὗς.`

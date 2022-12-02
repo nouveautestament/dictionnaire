@@ -1,0 +1,1 @@
+lar[46386]=`<b>ου (ἡ)</b> plante qui sert à teindre en jaune et qu’on tirait de l’île de Thapsos, THCR. <i>Idyl. 2, 88</i> ; NIC. <i>Al. 583</i>.<p><b>Étym</b>. Θάψος, <i>cf</i>. θαψία.`

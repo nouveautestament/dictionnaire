@@ -1,0 +1,1 @@
+lar[96411]=`<b>συν·υπηχέω-ῶ</b>, résonner d’accord avec, HIM. <i>Or. 18, 4</i>.`

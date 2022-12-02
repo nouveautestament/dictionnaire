@@ -1,0 +1,1 @@
+lar[102414]=`<b>εως (ἡ)</b> action de soutenir <i>ou</i> d’étayer par-dessous, EPIC. (DL. <i>10, 44</i>) ; JAMBL. <i>V. Pyth. p. 46</i>.<p><b>Étym</b>. ὑπερείδω.`

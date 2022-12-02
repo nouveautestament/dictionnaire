@@ -1,0 +1,1 @@
+lar[8759]=`<b>ἀνθ·αμιλλάομαι-ῶμαι</b> <font color="purple">[ᾰμ]</font> lutter contre, <i>dat</i>. LUC. <i>Im. 15 ; abs</i>. PLAT. <i>Leg. 731a ;</i> εἰς γῆν, XÉN. <i>Hell. 6, 2, 28,</i> lutter à qui le premier gagnera le rivage.<p><b>Étym</b>. ἀντί, ἁμ.`

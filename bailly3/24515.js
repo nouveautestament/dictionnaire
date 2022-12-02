@@ -1,0 +1,1 @@
+lar[24515]=`<b>δι·αγρυπνέω-ῶ</b>, passer la nuit sans dormir, rester éveillé, AR. <i>Ran. 931</i>, PLUT. <i>Cato mi. 27</i> ; τὴν νύκτα, DS. <i>14, 105</i>, toute la nuit.<p>➳ <i>Ao</i>. διηγρύπνησα, AR. DS. <i>ll. cc</i>.`

@@ -1,0 +1,1 @@
+lar[32576]=`<b>      1</b> rendre léger, EL. <i>N.A. 9, 52</i> ; MOSCH. <i>2, 126 ; fig</i>. alléger, ANTH. <i>9, 207</i>.<br><b>      2 <i>intr.</i></b> être léger, EUR. <i>fr. 534, 8</i> ; CALL. <i>Del. 115</i> ; OPP. <i>C. 1, 85</i>.<p>➳ <i>Impf. itér. 3 sg</i>. ἐλαφρίζεσκε, MOSCH. <i>l. c</i>.<p><b>Étym</b>. ἐλαφρός.`

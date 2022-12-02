@@ -1,0 +1,1 @@
+lar[53541]=`<i>adv</i>., hardiment, audacieusement, POL. <i>1, 86, 5, etc</i>.<p><b>Étym</b>. καταθαρρέω.`

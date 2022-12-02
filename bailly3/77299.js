@@ -1,0 +1,1 @@
+lar[77299]=`<b>παταγο·δρόμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui fait un grand bruit en courant, ORPH. <i>H. 19, 3</i>.<p><b>Étym</b>. πάταγος, δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[32135]=`<b>α, ον</b>, <i>vb. de</i> ἔχω, AR. <i>Ach. 259 ; au neutre,</i> XÉN. <i>Mem. 3, 11, 2</i> ; PLAT. <i>Gorg. 490c</i>.`

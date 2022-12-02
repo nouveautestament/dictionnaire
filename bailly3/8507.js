@@ -1,0 +1,1 @@
+lar[8507]=`<i>adv</i>., sans ordres, DL. <i>5, 20</i>.`

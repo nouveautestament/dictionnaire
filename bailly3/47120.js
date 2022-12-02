@@ -1,0 +1,1 @@
+lar[47120]=`<b>ου (τὸ)</b> place au théâtre, PLUT. <i>C. Gracch. 12</i>.<p><b>Étym</b>. θεωρέω.`

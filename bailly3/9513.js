@@ -1,0 +1,1 @@
+lar[9513]=`<b>ἀντ·αποτίω</b> <font color="darkgreen">(<i>ao</i>. -απέτισα)</font> payer en échange, acquitter en retour, ANTH. <i>9, 223</i>.`

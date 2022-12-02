@@ -1,0 +1,1 @@
+lar[64689]=`<b>ας (ἡ)</b> regret, repentir, SOPH. <i>El. 581</i>.<p><b>Étym</b>. μεταγιγνώσκω.`

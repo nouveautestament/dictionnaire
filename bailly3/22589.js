@@ -1,0 +1,1 @@
+lar[22589]=`<b>γραμματο·λικριφίς, ίδος (ὁ)</b> <font color="purple">[μᾰῐφ]</font> mauvais critique (<i>litt</i>. qui lit <i>ou</i> écrit de travers), ANTH. <i>11, 140</i>.<p><b>Étym</b>. γράμμα, λ.`

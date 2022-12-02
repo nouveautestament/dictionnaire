@@ -1,0 +1,1 @@
+lar[100613]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> triple, OPP. <i>C. 1, 47</i> ; ANTH. <i>5, 244, 260 ; 9, 482</i>.<p><b>Étym</b>. τριχθά.`

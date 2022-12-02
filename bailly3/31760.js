@@ -1,0 +1,1 @@
+lar[31760]=`<b>ἐκ·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> que la passion met hors de soi, transporté (de passion, de désir, de colère) POL. <i>16, 23, 5</i> ; JOS. <i>A.J. 15, 3, 4</i> ; ἐπί τινι, POL. <i>1, 7, 8,</i> au sujet de qqe ch. ; κατά τι, πρός τι, POL. <i>1, 1, 6,</i> pour qqe ch.<p><b>Étym</b>. ἐκ, πάθος.`

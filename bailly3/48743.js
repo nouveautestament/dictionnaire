@@ -1,0 +1,1 @@
+lar[48743]=`<b>*ἰθυ·μαχία</b>, <i>ion</i>. <b>ἰθυμαχίη, ης (ἡ)</b> <font color="purple">[ῑῠᾰ]</font> combat en rase campagne, HDT. <i>4, 102, 120</i>.<p><b>Étym</b>. ἰθυμάχος.`

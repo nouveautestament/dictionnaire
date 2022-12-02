@@ -1,0 +1,1 @@
+lar[57604]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> force, vigueur, OD. <i>11, 597</i>.<p><b>Étym</b>. κράτος.`

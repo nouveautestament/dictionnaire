@@ -1,0 +1,1 @@
+lar[80198]=`<b>α, ον</b> <font color="purple">[πῑ]</font> de Piérie, <i>en Macédoine,</i> SIM. (ATH. <i>125d</i>).`

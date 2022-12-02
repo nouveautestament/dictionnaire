@@ -1,0 +1,1 @@
+lar[74100]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> fixité, solidité, NYSS. <i>1, 128d Migne</i>.<p><b>Étym</b>. πάγιος.`

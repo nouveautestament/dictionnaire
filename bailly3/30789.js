@@ -1,0 +1,1 @@
+lar[30789]=`<b>εἰσ·καθίζω</b> (<i>part. ao</i>. εἰσκαθίσαντα) faire asseoir, CHRYS. <i>5, 570</i>.`

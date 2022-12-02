@@ -1,0 +1,1 @@
+lar[7211]=`<b>ἀνα·μορμύρω</b> <font color="darkgreen">(<i>impf. itér. 3 sg</i>. -μορμύρεσκε)</font> <font color="purple">[ῠ]</font> bouillonner avec bruit, OD. <i>12, 238</i>.`

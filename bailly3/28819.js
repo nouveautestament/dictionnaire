@@ -1,0 +1,1 @@
+lar[28819]=`<b>ας (ἡ)</b> navigation difficile, STR. <i>1, 2, 31 ; 16, 4, 23 Kram.</i> ; PHIL. <i>1, 601</i>.<p>➳ ION -ΐη, ANTH. <i>7, 630</i>.<p><b>Étym</b>. δύσπλοος.`

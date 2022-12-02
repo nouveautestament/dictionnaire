@@ -1,0 +1,1 @@
+lar[3632]=`<font color="purple">[ρᾱ]</font> <i>adv</i>., avec un bon vent, ARR. <i>Ind. 24, 1</i>.<p><b>Étym</b>. ἀκραής.`

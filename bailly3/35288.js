@@ -1,0 +1,1 @@
+lar[35288]=`<b>ἐξ·αδρύνω</b> <font color="purple">[ῡ]</font> rendre dru, <i>d’où au pass</i>. être formé, être parvenu à maturité, HPC. <i>255, 15</i>.`

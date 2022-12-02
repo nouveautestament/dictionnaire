@@ -1,0 +1,1 @@
+lar[61007]=`<b>ης (ἡ)</b> Lidé, <i>mt. de Carie,</i> HDT. <i>1, 175</i>.`

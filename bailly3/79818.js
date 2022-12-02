@@ -1,0 +1,1 @@
+lar[79818]=`<i>att</i>. <b>πεττευτής, οῦ (ὁ) :<br>      1</b> qui joue au trictrac, PLAT. <i>Pol. 292e.</i><br><b>      2</b> <i>p. ext</i>. qui dispose et combine toutes choses, <i>en parl. de la divinité,</i> PLAT. <i>Leg. 903d</i>.<p><b>Étym</b>. πεττεύω.`

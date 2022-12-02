@@ -1,0 +1,1 @@
+lar[27014]=`<b>δισ·άρπαγος, ος, ον</b> <font color="purple">[ῐᾰγ]</font> enlevé deux fois <i>ou</i> pour la seconde fois, LYC. <i>513</i>.<p><b>Étym</b>. δίς, ἁρπάζω.`

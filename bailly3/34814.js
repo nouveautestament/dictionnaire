@@ -1,0 +1,1 @@
+lar[34814]=`<b>ος, ον</b> <font color="purple">[ῐδ]</font> qui est dans la maison domestique, CLÉM. <i>1, 436 Migne,</i> GEOP. <i>2, 47, 12, etc</i>.<p><b>Étym</b>. ἔνοικος.`

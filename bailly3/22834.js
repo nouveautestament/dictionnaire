@@ -1,0 +1,1 @@
+lar[22834]=`<b>γύν·ανδρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> homme, femme, (être) de sexe douteux <i>ou</i> de double sexe, hermaphrodite, SOPH. <i>fr. 865</i>.<br><b>      2</b> femme virile <i>ou</i> énergique, virago, PHIL. <i>1, 183 et 512</i>.<p><b>Étym</b>. γυνή, ἀνήρ.`

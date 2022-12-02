@@ -1,0 +1,1 @@
+lar[49607]=`<b>ἰσο·βαρής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font> d’un poids égal à, <i>gén. ou dat</i>. ARSTT. <i>Cæl. 1, 6, 8 ; 4, 2, 7, etc.</i> ; LUC. <i>V. auct. 27</i>.<p><b>Étym</b>. ἴ. βάρος.`

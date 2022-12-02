@@ -1,0 +1,1 @@
+lar[7449]=`<b>ἀνα·πολίζω</b>, tourner et retourner, PD. <i>P. 6, 3</i>.<p><b>Étym</b>. ἀνά, πόλος.`

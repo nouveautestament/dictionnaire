@@ -1,0 +1,1 @@
+lar[79248]=`(<i>seul. part. prés</i>. περισθενέων) avoir une force supérieure, irrésistible, OD. <i>22, 368</i>.<p><b>Étym</b>. περισθενής.`

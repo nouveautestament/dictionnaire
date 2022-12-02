@@ -1,0 +1,1 @@
+lar[14032]=`<b>ἄ·πτυστος, ος, ον</b>, sans crachats : ἄ. βήξ, HPC. <i>177d, etc</i>. toux sèche.<p><b>Étym</b>. ἀ, πτύω.`

@@ -1,0 +1,1 @@
+lar[96902]=`<b>(ὁ)</b> Sphinès, <i>autre nom du gymnosophiste Kalanos,</i> PLUT. <i>Alex. 65</i>.`

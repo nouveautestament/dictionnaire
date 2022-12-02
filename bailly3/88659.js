@@ -1,0 +1,1 @@
+lar[88659]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> coulure, <i>phénomène naturel qui provoque la perte d’une partie des fleurs de la vigne,</i> TH. <i>H.P. 4, 14, 6</i>.<p><b>Étym</b>. ῥέω.`

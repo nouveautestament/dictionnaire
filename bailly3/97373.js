@@ -1,0 +1,1 @@
+lar[97373]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> ταινία HPC. <i>398, 54</i>.`

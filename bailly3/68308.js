@@ -1,0 +1,1 @@
+lar[68308]=`<b>νεο·φεγγής, ής, ές</b>, qui brille nouvellement : ν. μήνη, MAN. <i>2, 489,</i> nouvelle lune.<p><b>Étym</b>. ν. φέγγος.`

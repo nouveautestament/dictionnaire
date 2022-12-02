@@ -1,0 +1,1 @@
+lar[33338]=`<b>ἐμ·παρίημι</b>, <i>seul. pass</i>. <b>ἐμπαρίεμαι</b>, se relâcher, s’émousser contre, <i>dat</i>. PLUT. <i>M. 298a</i>.<p><b>Étym</b>. ἐν, π.`

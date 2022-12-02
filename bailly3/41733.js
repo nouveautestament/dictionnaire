@@ -1,0 +1,1 @@
+lar[41733]=`<b>εὔ·βους (ὁ, ἡ)</b> riche en bœufs, riche en troupeaux, HH. <i>Ap. 54 (acc</i>. εὔβουν, <i>vulg</i>. εὔβων).<p><b>Étym</b>. εὖ, βοῦς.`

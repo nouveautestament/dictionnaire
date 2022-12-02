@@ -1,0 +1,1 @@
+lar[67641]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> boisé, E. BYZ. <i>v°</i> βῆσσα.<p><b>Étym</b>. νάπη, -ωδης.`

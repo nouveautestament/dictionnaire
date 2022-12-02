@@ -1,0 +1,1 @@
+lar[59887]=`<b>λαρκο·φορέω-ῶ</b>, porter un panier à charbon, DC. <i>52, 25</i>.<p><b>Étym</b>. λάρκος, -φορος <i>de</i> φέρω.`

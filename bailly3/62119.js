@@ -1,0 +1,1 @@
+lar[62119]=`<b>έως (ὁ) :<br>      1</b> <i>c</i>. λυχνίτης, CALLIX. (ATH. <i>205f</i>).<br><b>      2</b> flambeau <i>ou</i> lanterne, ATH. <i>699</i>.<p><b>Étym</b>. λύχνος.`

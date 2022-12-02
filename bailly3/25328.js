@@ -1,0 +1,1 @@
+lar[25328]=`<b>δια·πομπεύω :<br>      1</b> mener jusqu’au bout un cortège, une procession, LUC. <i>Nec. 16</i>.<br><b>      2</b> faire circuler, <i>acc</i>. CRITIAS (ATH. <i>600e</i>).`

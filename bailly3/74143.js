@@ -1,0 +1,1 @@
+lar[74143]=`<b>παγ·κρότως</b>, <i>adv</i>., avec un grand bruit, ESCHL. <i>Suppl. 723</i>.<p><b>Étym</b>. π. κρότος.`

@@ -1,0 +1,1 @@
+lar[73359]=`<b>ου (τὸ)</b> excroissance à la matrice, GAL. <i>Lex. Hipp. 19, 127</i>.<p><b>Étym</b>. ὄσχη.`

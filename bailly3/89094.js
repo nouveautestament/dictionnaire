@@ -1,0 +1,1 @@
+lar[89094]=`<b>ωνος (ὁ)</b> Sankhôniathon, <i>historien phénicien</i>.`

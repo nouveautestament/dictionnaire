@@ -1,0 +1,1 @@
+lar[94504]=`<b>συμ·φωτίζομαι</b>, faire briller ensemble, <i>acc</i>. PLUT. <i>M. 898a</i>.`

@@ -1,0 +1,1 @@
+lar[101903]=`<font color="purple">[ῠ]</font> <i>adv</i>., de manière à mériter un reproche, PHIL. (EUS. <i>P.E. 387a</i>).`

@@ -1,0 +1,1 @@
+lar[33312]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec passion <i>ou</i> émotion, POL. <i>32, 10, 9</i> ; JOS. <i>A.J. 16, 4, 2</i>.<p>•<i> Cp</i>. ἐμπαθέστερον, PLUT. <i>Cic. 6, Cim. 4, M. 1094c, etc. • Sup</i>. -έστατα, PLUT. <i>M. 668c</i>.<p><b>Étym</b>. ἐμπαθής.`

@@ -1,0 +1,1 @@
+lar[66708]=`<b>ας (ἡ)</b> <i>mot dor</i>. portion, part, <i>particul. à Lacédémone,</i> corps d’infanterie <i>qui paraît avoir varié de 400 à 500, 700 et même 900 hommes,</i> XÉN. <i>Hell. 4, 3, 15 ; 4, 5, 11 ; 6, 1, 1 ; Lac. 11, 4 ; Ages. 2, 6</i> ; DS. <i>15, 32</i> ; PLUT. <i>Pel. 17</i>.`

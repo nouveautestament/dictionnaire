@@ -1,0 +1,1 @@
+lar[104897]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. φαρμακεύς, A. TR. <i>1, p. 29</i> ; PHIL. <i>1, 449</i>.`

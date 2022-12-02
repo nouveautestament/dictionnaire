@@ -1,0 +1,1 @@
+lar[45647]=`<i>adv</i>., tout au long, au long et au large, EMPÉD. <i>439 Mullach</i>.<p><b>Étym</b>. ἠνεκής.`

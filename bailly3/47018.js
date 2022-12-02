@@ -1,0 +1,1 @@
+lar[47018]=`célébrer les Thesmophories, XÉN. <i>Hell. 5, 2, 29</i> ; αἱ Θεσμοφοριάζουσαι, les Femmes célébrant les Thesmophories, <i>titre d’une comédie d’Aristophane</i>.<p><b>Étym</b>. Θεσμοφόρια.`

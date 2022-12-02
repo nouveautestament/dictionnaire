@@ -1,0 +1,1 @@
+lar[84375]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> pied <i>ou</i> base de l’autel, PAUS. <i>5, 13, 9</i>.<p><b>Étym</b>. προθύω.`

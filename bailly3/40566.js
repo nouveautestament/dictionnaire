@@ -1,0 +1,1 @@
+lar[40566]=`<b>ου (τὸ)</b> Hermæon, <i>n. de divers villages de Béotie,</i> THC. <i>7, 29 ; d’Arcadie,</i> PAUS. <i>8, 34, 6</i>.<p><b>Étym</b>. Ἑρμαῖος.`

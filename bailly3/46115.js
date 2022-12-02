@@ -1,0 +1,1 @@
+lar[46115]=`<b>θαῖδος (ἡ)</b> sorte de bandage pour la tête, GAL. <i>2, 479</i>.`

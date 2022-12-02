@@ -1,0 +1,1 @@
+lar[13225]=`<b>ἀπο·ρρευματίζω</b> <font color="purple">[μᾰ]</font> nettoyer en faisant couler, DIOCL. (P. ÉG. <i>28, 28</i>).`

@@ -1,0 +1,1 @@
+lar[34492]=`<b>ἐν·θακέω-ῶ</b> <font color="purple">[ᾱ]</font> siéger sur, <i>dat</i>. SOPH. <i>El. 267</i>.<p><b>Étym</b>. ἐν, θᾶκος.`

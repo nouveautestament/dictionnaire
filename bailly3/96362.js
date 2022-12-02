@@ -1,0 +1,1 @@
+lar[96362]=`<b>συν·τρανόω-ῶ</b> <font color="purple">[ᾱ]</font> éclaircir <i>ou</i> distinguer en même temps, PHIL. <i>2, 271</i>.`

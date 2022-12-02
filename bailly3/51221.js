@@ -1,0 +1,1 @@
+lar[51221]=`<b>      1</b> être le plus beau, l’emporter en beauté, HDT. <i>1, 196</i> ; PLUT. <i>Ant. 26</i> ; τινός, HDT. <i>6, 61,</i> sur qqn.<br><b>      2</b> considérer comme le plus beau, <i>d’où au pass</i>. être considéré comme le plus beau, EUR. <i>Hipp. 1009, Med. 947, etc</i>.<p><b>Étym</b>. κάλλιστος.`

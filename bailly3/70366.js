@@ -1,0 +1,1 @@
+lar[70366]=`<b>ου (ὁ) :<br>      1</b> maisonnette <i>ou</i> chambrette, DÉM. <i>258, 21</i> ; HDN <i>7, 9, 20</i>.<br><b>      2</b> <i>particul</i>. cage, volière, AR. <i>fr. 358, 15</i>.<p><b>Étym</b>. <i>dim. de</i> οἶκος.`

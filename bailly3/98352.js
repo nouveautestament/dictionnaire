@@ -1,0 +1,1 @@
+lar[98352]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui fait des choses extraordinaires ; <i>subst</i>. ὁ τ. DS. <i>Exc. 526, 101</i> ; LUC. <i>Gall. 4,</i> faiseur de tours, charlatan.<p><b>Étym</b>. τέρας, ἔργον.`

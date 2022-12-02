@@ -1,0 +1,1 @@
+lar[80013]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πῆγμα HÉRON <i>Spir. 158</i>.`

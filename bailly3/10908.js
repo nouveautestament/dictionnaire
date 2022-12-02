@@ -1,0 +1,1 @@
+lar[10908]=`<b>ἀξιο·θαύμαστος, ος, ον</b>, digne d’admiration, CALLIX. (ATH. <i>205c</i>) ; PLUT. <i>M. 983d</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Mem. 1, 4, 4</i>.<p><b>Étym</b>. ἄ. θαυμάζομαι.`

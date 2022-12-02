@@ -1,0 +1,1 @@
+lar[56552]=`<b>ων (τὰ)</b> coquillages terrestres, ARSTT. <i>H.A. 4, 4, 2</i>.<p><b>Étym</b>. κόκκος.`

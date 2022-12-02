@@ -1,0 +1,1 @@
+lar[99952]=`<i>ion</i>. <b>τρωμάτιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite blessure, HPC. <i>Epid. 3, 1082, etc</i>.`

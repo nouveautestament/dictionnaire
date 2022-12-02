@@ -1,0 +1,1 @@
+lar[81069]=`<b>πλινθο·ποιέω-ῶ</b>, fabriquer des briques, AR. <i>Av. 1139</i>.<p><b>Étym</b>. πλίνθος, π.`

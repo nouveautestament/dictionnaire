@@ -1,0 +1,1 @@
+lar[105791]=`<b>φιλοθηρέω-ῶ</b> <font color="purple">[ῐ]</font> aimer la chasse, EL. <i>V.H. 9, 3</i>.<p><b>Étym</b>. φιλόθηρος.`

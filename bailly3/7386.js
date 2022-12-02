@@ -1,0 +1,1 @@
+lar[7386]=`<b>ατος (τὸ) :<br>      1</b> forme <i>ou</i> figure reproduite, représentation, DS. <i>2, 56</i>.<br><b>      2</b> représentation théâtrale, STR. <i>11, 14, 12 Kram.</i> ; ARTÉM. <i>82 Reiff</i>.<br><b>      3</b> <i>fig</i>. fiction, STR. <i>530</i> ; SEXT. <i>M. 8, 354</i>.<p><b>Étym</b>. ἀναπλάσσω.`

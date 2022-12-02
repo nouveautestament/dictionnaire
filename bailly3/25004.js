@@ -1,0 +1,1 @@
+lar[25004]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> mâché, HPC. <i>517, 9</i>.<p><b>Étym</b>. <i>vb. de</i> διαμασάω.`

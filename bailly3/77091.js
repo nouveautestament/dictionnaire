@@ -1,0 +1,1 @@
+lar[77091]=`<b>ατος (τὸ)</b> sujet d’irritation, SPT. <i>3Reg. 16, 33 ; 20, 22</i>.<p><b>Étym</b>. παροργίζω.`

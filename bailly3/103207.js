@@ -1,0 +1,1 @@
+lar[103207]=`<b>ὑπό·δροσος, ος, ον</b>, légèrement humide de rosée, un peu humide, THCR. <i>Idyl. 25, 16</i>.<p><b>Étym</b>. ὑ. δρόσος.`

@@ -1,0 +1,1 @@
+lar[90831]=`<b>σκηνο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui monte sur la scène, acteur, NYSS. <i>3, 1228 Migne</i>.<p><b>Étym</b>. σκηνή, βαίνω.`

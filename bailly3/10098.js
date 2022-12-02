@@ -1,0 +1,1 @@
+lar[10098]=`<b>ἀντί·μηλον, ου (τὸ)</b> <i>autre n. de la mandragore</i> (<i>v</i>. μανδραγόρας) DIOSC. <i>4, 76</i>.<p><b>Étym</b>. ἀ. μῆλον.`

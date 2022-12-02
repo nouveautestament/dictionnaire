@@ -1,0 +1,1 @@
+lar[66363]=`<b>ου (ὁ</b> <i>ou</i> <b>ἡ)</b> <font color="purple">[ῐβ]</font><br><b>      1</b> ὁ μ. plomb, IL. <i>11, 237</i>.<br><b>      2</b> ἡ μ. plomb qui scelle une statue de bronze sur son piédestal, ANTH. <i>9, 723</i>.<p><b>Étym</b>. <i>cf</i>. μόλυβδος, μόλιβδος.`

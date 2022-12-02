@@ -1,0 +1,1 @@
+lar[70166]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> douloureux, HPC. <i>427, 32 ; 684, 42, etc. ; cp</i>. -έστερος, HPC. <i>Fract. 7, 64</i>.<p><b>Étym</b>. ὀδύνη, -ωδης.`

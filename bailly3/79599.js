@@ -1,0 +1,1 @@
+lar[79599]=`<b>οῦ (ὁ)</b> inflammation tout autour, SYMM. <i>Deut. 28, 22</i>.<p><b>Étym</b>. π. φλογίζω.`

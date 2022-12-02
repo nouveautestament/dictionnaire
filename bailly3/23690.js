@@ -1,0 +1,1 @@
+lar[23690]=`<font color="purple">[ᾰσ]</font> <i>adv</i>., au décuple, HPC. <i>V. med. 10</i>.`

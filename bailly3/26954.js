@@ -1,0 +1,1 @@
+lar[26954]=`<b>δί·πλεθρος, ος, ον</b>, de deux plèthres, <i>càd</i>. de deux arpents, DS. <i>1, 47 et 64</i> ; LUC. <i>V.H. 1, 16</i> ; τὸ δίπλεθρον, POL. <i>34, 12, 5,</i> étendue de deux arpents.<p><b>Étym</b>. δίς, πλέθρον.`

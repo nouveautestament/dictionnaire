@@ -1,0 +1,1 @@
+lar[48626]=`<b>ων (τὰ)</b> Jérusalem. <i>v. de Judée,</i> STR. <i>759</i> ; SPT. <i>Tob. 1, 4 ; 1 Macc. 1, 14, etc</i>.`

@@ -1,0 +1,1 @@
+lar[26028]=`<b>*διδράσκω</b>, <i>ion</i>. <b>*διδρήσκω</b>, <i>seul. dans les composés</i> ἀποδιδράσκω, διαδιδράσκω, <i>etc</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *dreh₂-, courir.`

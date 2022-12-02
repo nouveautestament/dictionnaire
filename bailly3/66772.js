@@ -1,0 +1,1 @@
+lar[66772]=`<b>μορφο·σκόπος, ος, ον</b>, qui prédit l’avenir en examinant la forme <i>ou</i> la figure, ARTÉM. <i>2, 69</i>.<p><b>Étym</b>. μορφή, σκοπέω.`

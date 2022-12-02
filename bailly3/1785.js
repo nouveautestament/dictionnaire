@@ -1,0 +1,1 @@
+lar[1785]=`<b>ἀερο·κώνωψ, ωπος (ὁ)</b> <font color="purple">[ᾱ]</font> moucheron aérien, LUC. <i>V.H. 1, 16 et 17</i>.`

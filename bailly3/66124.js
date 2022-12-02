@@ -1,0 +1,1 @@
+lar[66124]=`<b>(ὁ)</b> <i>indécl</i>. Michael (Michel) :<br><b>      1</b> <i>archange,</i> ANTH. <i>1, 32, etc.</i><br><b>      2</b> <i>empereur byzantin,</i> ANTH. <i>1, 107 ; 9, 815</i>.<br><b>      3</b> <i>écrivain,</i> ANTH. <i>App. 52, etc</i>.`

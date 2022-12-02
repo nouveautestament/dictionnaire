@@ -1,0 +1,1 @@
+lar[23648]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> qui fait partie d’une décurie, XÉN. <i>Cyr. 2, 2, 30</i>.<p><b>Étym</b>. δεκάς.`

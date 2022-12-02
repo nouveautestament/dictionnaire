@@ -1,0 +1,1 @@
+lar[9487]=`<b>ἀντ·απερύκω</b>, repousser en revanche, ANTH. <i>15, 14</i>.<p><b>Étym</b>. ἀντί, ἀ.`

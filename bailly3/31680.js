@@ -1,0 +1,1 @@
+lar[31680]=`<b>ἐκ·μιαίνω</b>, souiller, OPP. <i>H. 4, 663</i> ; SPT. <i>Lev. 18, 20 et 25</i>.<br><b><i>Moy.</i></b> se polluer, se souiller, HPC. <i>265, 14</i> ; SOPH. <i>fr. 913</i> ; AR. <i>Ran. 753</i>.`

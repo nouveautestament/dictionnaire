@@ -1,0 +1,1 @@
+lar[68574]=`se conduire comme un petit enfant, tomber en enfance, HPC. <i>1281, 52</i>.<p><b>Étym</b>. νήπιος.`

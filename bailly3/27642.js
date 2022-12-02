@@ -1,0 +1,1 @@
+lar[27642]=`<b>δορυ·κέντωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui pique avec la lance (Athèna) CORN. <i>N.D. p. 189 (conj</i>. δορικέντορα ; <i>sel. d’autres</i> δορυκέντειρα).<p><b>Étym</b>. δόρυ, κεντέω.`

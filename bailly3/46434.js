@@ -1,0 +1,1 @@
+lar[46434]=`<b>θεατρο·μανέω-ῶ</b> <font color="purple">[ᾱᾰ]</font> être passionné pour le théâtre, PHIL. <i>2, 167</i> ; MAN. <i>4, 277</i>.<p><b>Étym</b>. θ. μαίνομαι.`

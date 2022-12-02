@@ -1,0 +1,1 @@
+lar[77929]=`<b>ά, όν</b>, qui convient au deuil, de deuil, ANAXIL. <i>fr. 5</i>.<p><b>Étym</b>. πένθος.`

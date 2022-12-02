@@ -1,0 +1,1 @@
+lar[67535]=`<b>ας (ἡ)</b> folie, ESCHL. <i>Ag. 1670</i> ; THC. <i>4, 64 ; 5, 41</i> ; PLAT. <i>Leg. 818d, etc. ; particul</i>. désirs impudiques, EUR. <i>Hipp. 644, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>1, 131, 146</i>.<p><b>Étym</b>. μωρός.`

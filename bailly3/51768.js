@@ -1,0 +1,1 @@
+lar[51768]=`<b>α (ὁ)</b> Kardoukhas, <i>Perse,</i> XÉN. <i>Cyr. 6, 3, 30</i>.`

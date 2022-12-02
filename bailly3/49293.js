@@ -1,0 +1,1 @@
+lar[49293]=`<b>ίδος (ἡ)</b> (<i>s.-e</i>. ἐσθής) vêtement de cavalier, DC. <i>38, 14 (vulg. corr</i>. ἱππάς).<p><b>Étym</b>. ἵππος.`

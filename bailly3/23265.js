@@ -1,0 +1,1 @@
+lar[23265]=`<b>ος, ον</b> <font color="purple">[ᾱ]</font> de Darius : Δ. χρυσίον, Ps.-PLUT. <i>Fluv. 7, 2,</i> or de Darius.<p><b>Étym</b>. <i>v</i>. Δαρεῖος.`

@@ -1,0 +1,1 @@
+lar[35491]=`<b>ἐξ·ανέψιοι, ων (οἱ)</b> <font color="purple">[ᾰ]</font> cousins issus de germains, POL. (ATH. <i>440f</i>) ; SYN. <i>Ep. 118, 1497b Migne</i>.<p><b>Étym</b>. ἐξ, ἀνεψιός.`

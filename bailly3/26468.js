@@ -1,0 +1,1 @@
+lar[26468]=`<b>δικαιο·δότης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui rend la justice, STR. <i>797</i>.<p><b>Étym</b>. δίκαιος, δίδωμι.`

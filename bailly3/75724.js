@@ -1,0 +1,1 @@
+lar[75724]=`<font color="purple">[ῡ]</font> <i>vb. de</i> παρακινδυνεύω, DH. <i>9, 57</i>.`

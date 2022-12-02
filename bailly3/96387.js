@@ -1,0 +1,1 @@
+lar[96387]=`<b>συν·τυμβωρυχέω-ῶ</b> <font color="purple">[ρῠ]</font> fouiller un tombeau avec qqn, LUC. <i>Lex. 2</i>.<p><b>Étym</b>. <i>exemple de mot emphatique</i>.`

@@ -1,0 +1,1 @@
+lar[67859]=`<b>νε·ακόνητος, ος, ον</b> <font color="purple">[ᾱ]</font> fraîchement aiguisé, SOPH. <i>El. 1394 vulg</i>.<p><b>Étym</b>. νέος, ἀκονάω.`

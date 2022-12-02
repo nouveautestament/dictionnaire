@@ -1,0 +1,1 @@
+lar[34522]=`<b>ἐν·θερμαίνω</b> (<i>seul. pf. pass. 3 pl</i>. ἐντεθέρμανται) échauffer dans, <i>fig</i>. SOPH. <i>Tr. 368</i>.`

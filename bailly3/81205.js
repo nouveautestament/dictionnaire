@@ -1,0 +1,1 @@
+lar[81205]=`<b>πνευστιάω-ῶ</b>, avoir l’haleine courte, être asthmatique, HPC. <i>556, 25</i> ; ARSTT. <i>Rhet. 1, 2, 18</i>.<p>➳ <i>Part. prés. épq</i>. πνευστιόων, ANTH. <i>11, 382, 4</i>.<p><b>Étym</b>. πνέω.`

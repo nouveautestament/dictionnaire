@@ -1,0 +1,1 @@
+lar[53154]=`précipiter de, <i>gén</i>. NIC. <i>Th. 824</i> ; NONN. <i>D. 4, 395</i>.<p><b>Étym</b>. καταπρηνής.`

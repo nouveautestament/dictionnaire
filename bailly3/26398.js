@@ -1,0 +1,1 @@
+lar[26398]=`<b>δί·θηκτος, ος, ον</b> <font color="purple">[ῐ]</font> à deux tranchants, ESCHL. <i>Pr. 863</i>.<p><b>Étym</b>. δίς, θήγω.`

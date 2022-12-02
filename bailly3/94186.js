@@ -1,0 +1,1 @@
+lar[94186]=`<b>συμ·περιέλκω</b>, tirer <i>ou</i> traîner ensemble tout autour, PLUT. <i>M. 890b ;</i> GAL. <i>19, 276</i>.`

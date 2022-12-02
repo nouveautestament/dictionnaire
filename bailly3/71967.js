@@ -1,0 +1,1 @@
+lar[71967]=`<b>Ὀνομά·κριτος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Onomakritos :<br><b>      1</b> <i>devin et poète athénien,</i> HDT. <i>7, 6</i>.<br><b>      2</b> <i>autres,</i> THGN. <i>503</i> ; ARSTT. <i>Pol. 2, 12</i>.<p>➳ <i>Ion</i>. Οὐνομάκριτος, HDT. <i>l. c</i>.<p><b>Étym</b>. ὄν. κριτός.`

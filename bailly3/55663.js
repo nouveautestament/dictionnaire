@@ -1,0 +1,1 @@
+lar[55663]=`<b>ου (τὸ)</b> boisson au citron, limonade, A. TR. <i>10, p. 566</i>.<p><b>Étym</b>. κίτρον.`

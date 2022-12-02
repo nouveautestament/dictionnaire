@@ -1,0 +1,1 @@
+lar[95798]=`<b>συν·ευαρεστέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> donner son assentiment, approuver, DS. <i>Exc. Vat. p. 131</i>.`

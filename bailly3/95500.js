@@ -1,0 +1,1 @@
+lar[95500]=`<b>συν·εξαμιλλάομαι-ῶμαι</b> <font color="purple">[ᾰμ]</font> lutter avec, PLUT. <i>M. 137c</i>.`

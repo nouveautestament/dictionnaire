@@ -1,0 +1,1 @@
+lar[79895]=`<b>ου (τὸ)</b> sorte de plante, <i>p.-ê. la même que</i> πετροσέλινον, NIC. (ATH. <i>371c</i>).`

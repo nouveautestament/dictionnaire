@@ -1,0 +1,1 @@
+lar[31318]=`<b>ἐκ·θηράομαι-ῶμαι</b>, prendre à la chasse, XÉN. <i>Cyn. 5, 25 ; fig</i>. capturer, PLUT. <i>Pomp. 26</i>.`

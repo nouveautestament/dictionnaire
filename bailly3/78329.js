@@ -1,0 +1,1 @@
+lar[78329]=`<font color="darkgreen">(<i>seul. prés., pf</i>. πέπορδα, <i>au sens d’un prés. et pl.q.pf</i>. ἐπεπόρδειν <i>au sens d’un impf</i>.)</font> péter, AR. <i>Ach. 30, etc. Pax 335, etc</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *perd-, péter ; <i>cf. sscr</i>. párdate.`

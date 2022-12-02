@@ -1,0 +1,1 @@
+lar[69063]=`<b>ου (ὁ)</b> = <i>lat</i>. Numerius, <i>n. d’h. rom</i>. PLUT. <i>Mar. 35, Pomp. 63</i>.`

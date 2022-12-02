@@ -1,0 +1,1 @@
+lar[79144]=`<b>ῆς</b> <i>ou var</i>. <b>περίπνοια, ας (ἡ)</b> souffle circulant autour <i>ou</i> à travers, DS. <i>3, 19</i>.<p><b>Étym</b>. περίπνοος.`

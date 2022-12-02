@@ -1,0 +1,1 @@
+lar[107773]=`<b>χαμαι·λεχής, ής, ές</b> <font color="purple">[ᾰ]</font> qui couche <i>ou</i> dort à terre, ANTH. <i>7, 413</i>.<p><b>Étym</b>. χ. λέχος.`

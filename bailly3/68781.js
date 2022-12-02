@@ -1,0 +1,1 @@
+lar[68781]=`<b>Νικο·νόη, ης (ἡ)</b> <font color="purple">[ῑ]</font> Nikonoè, <i>f</i>. ANTH. <i>6, 292 ; 11, 71</i>.<p><b>Étym</b>. νίκη, νόος.`

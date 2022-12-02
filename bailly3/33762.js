@@ -1,0 +1,1 @@
+lar[33762]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action d’animer, PLOT. <i>Enn. 4, 3, p. 702, 5</i>.<p><b>Étym</b>. ἐμψυχόω.`

@@ -1,0 +1,1 @@
+lar[54945]=`<b>η, ον</b>, pourvu de cornes, AQU. <i>Ps. 49, 9</i>.<p><b>Étym</b>. κέρας.`

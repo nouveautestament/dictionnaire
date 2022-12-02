@@ -1,0 +1,1 @@
+lar[87970]=`<b>ων (οἱ)</b> habitants de Pyrrha <i>dans l’î. de Lesbos,</i> TH. <i>H.P. 3, 9, 5</i> ; PLUT. <i>Prov. 109, etc</i>.<p><b>Étym</b>. Πύρρα.`

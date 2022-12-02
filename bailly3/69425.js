@@ -1,0 +1,1 @@
+lar[69425]=`<b>ας (ἡ)</b> <font color="purple">[ᾰπᾰ]</font> action de tromper des hôtes <i>ou</i> des étrangers, PLAT. <i>Ep. 350c</i>.<p><b>Étym</b>. *ξεναπάτης.`

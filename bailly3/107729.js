@@ -1,0 +1,1 @@
+lar[107729]=`<b>Χαλκ·ώδων, οντος (ὁ)</b> Khalkôdôn, <i>litt</i>. aux dents d’airain, <i>roi des Abantes, en Eubée,</i> IL. <i>4, 464</i> ; SOPH. <i>Ph. 489, etc</i>.<p><b>Étym</b>. χαλκός, ὀδούς.`

@@ -1,0 +1,1 @@
+lar[19624]=`<font color="darkgreen">(<i>f</i>. ίσω)</font> <font color="purple">[μᾰ]</font><br><b>      1</b> marcher, ES. <i>322 b Halm</i>.<br><b>      2</b> mesurer par le nombre de pas, arpenter, POL. <i>3, 39, 8</i> ; STR. <i>322</i>.<p><b>Étym</b>. βῆμα.`

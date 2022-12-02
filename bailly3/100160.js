@@ -1,0 +1,1 @@
+lar[100160]=`<b>α (ὁ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. τρίγλη, SOPHR. (ATH. <i>324e</i>).`

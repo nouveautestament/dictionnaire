@@ -1,0 +1,1 @@
+lar[97061]=`<b>ου (ἡ) :<br>      1</b> lentisque, <i>arbrisseau,</i> HPC. <i>670, 5</i> ; THCR. <i>Idyl. 5, 129 ; 7, 13</i> ; fruit du lentisque, HDT. <i>4, 177</i>.<br><b>      2</b> oignon marin (<i>d’ord</i>. σκίλλα) AR. <i>Pl. 720, etc.</i> ; COM. (ATH. <i>68b, 71a</i>).`

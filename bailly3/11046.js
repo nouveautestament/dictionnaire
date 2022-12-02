@@ -1,0 +1,1 @@
+lar[11046]=`<b>ης, ες</b>, indéfini, DYSC. <i>Pron. p. 4b, etc. ; Synt. p. 27, 8, etc</i>.<p><b>Étym</b>. ἀόριστος, -ωδης.`

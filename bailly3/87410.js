@@ -1,0 +1,1 @@
+lar[87410]=`<b>ης, ες</b>, comme un homme frappé de stupeur, <i>d’où</i> frappé de stupeur <i>ou</i> d’épouvante, STOB. <i>Ecl. 2, 124</i>.<p><b>Étym</b>. πτοία, -ωδης.`

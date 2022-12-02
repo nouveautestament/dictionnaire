@@ -1,0 +1,1 @@
+lar[98778]=`<b>ου (τὸ)</b> <font color="purple">[ῑδ]</font> <i>dim. de τευθίς,</i> PHÉRÉCR. <i>et</i> EUB. (ATH. <i>269e, 311d</i>).`

@@ -1,0 +1,1 @@
+lar[92858]=`<b>στρατο·λογία, ας (ἡ)</b> <font color="purple">[ᾰτ]</font> levée de troupes, DH. <i>6, 44</i>.<p><b>Étym</b>. στρατολογέω.`

@@ -1,0 +1,1 @@
+lar[103804]=`<b>ὑπό·σαπρος, ος, ον</b> <font color="purple">[ᾰ]</font> un peu pourri, HPC. <i>Progn. 41</i>.<p><b>Étym</b>. ὑ. σαπρός.`

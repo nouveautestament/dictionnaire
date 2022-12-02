@@ -1,0 +1,1 @@
+lar[59663]=`<b>οῦ (ὁ)</b> emploi fréquent du lambda, QUINT. <i>1, 5, 32</i>.<p><b>Étym</b>. λάμβδα.`

@@ -1,0 +1,1 @@
+lar[89463]=`<b>σαρκο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> qui se montre avec de la chair, charnu, SEXT. <i>P. 1, 50</i>.<p><b>Étym</b>. σ. φαίνω.`

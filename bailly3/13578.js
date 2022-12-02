@@ -1,0 +1,1 @@
+lar[13578]=`<b>εως (ἡ) :<br>      1</b> terme, HPC. <i>409, 44, etc.</i><br><b>      2</b> résultat, PLAT. <i>Soph. 264a</i>.<p><b>Étym</b>. ἀποτελευτάω.`

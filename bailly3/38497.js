@@ -1,0 +1,1 @@
+lar[38497]=`<b>ἐπι·νάσσω</b> (<i>part. pf. pass</i>. ἐπινενασμένος) obstruer de, remplir de, <i>gén</i>. AR. <i>Eccl. 838</i>.<p><b>Étym</b>. <i>sel. d’autres, part. pf. pass</i>. ἐπινενησμένος, <i>de</i> ἐπινηνέω.`

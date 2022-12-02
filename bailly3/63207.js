@@ -1,0 +1,1 @@
+lar[63207]=`<b>οῦ (ὁ)</b> Mausôlos, <i>anc. n. du fl. Indus,</i> Ps.-PLUT. <i>Fluv. 25, 1</i>.`

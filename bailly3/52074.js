@@ -1,0 +1,1 @@
+lar[52074]=`<b>ή, όν</b> <font color="purple">[τᾰᾰ]</font> de châtaigne ; κασταναϊκὸν κάρυον, TH. <i>H.P. 4, 8, 11</i> ; DS. <i>2, 50,</i> châtaigne.<p><b>Étym</b>. κάστανον.`

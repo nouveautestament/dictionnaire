@@ -1,0 +1,1 @@
+lar[94861]=`<b>συν·αποδιδράσκω</b>, <i>anc. att</i>. <b>ξυν·αποδιδράσκω</b> <font color="darkgreen">(<i>ao.1</i> συναπέδρασα <font color="purple">[ᾱσ]</font>, <i>ao.2</i> συναπέδραν <font color="purple">[ᾱν]</font>)</font> s’enfuir <i>ou</i> s’échapper avec, AR. <i>Ran. 81 (ao.2</i>) ; LUC. <i>As. 27</i>.<p><b>Étym</b>. <i>ao.1</i>.`

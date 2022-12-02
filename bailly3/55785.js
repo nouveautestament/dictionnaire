@@ -1,0 +1,1 @@
+lar[55785]=`<b>κλαυσί·δειπνος, ος, ον</b> <font color="purple">[ῐ]</font> qui pleure un dîner perdu, BAS. <i>3, 208</i>.<p><b>Étym</b>. κλαίω, δεῖπνον.`

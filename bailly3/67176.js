@@ -1,0 +1,1 @@
+lar[67176]=`<b>μυο·ειδής, ής, ές</b>, semblable à un rat, MÉLÉT. <i>3, 59 Cramer</i>.<p><b>Étym</b>. μῦς, εἶδος.`

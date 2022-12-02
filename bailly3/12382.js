@@ -1,0 +1,1 @@
+lar[12382]=`<b>ἀπο·θεάομαι-εῶμαι</b>, observer, contempler, JOS. <i>B.J. 1, 15, 1</i>.`

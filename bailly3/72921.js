@@ -1,0 +1,1 @@
+lar[72921]=`<b>ή, όν</b> <font color="purple">[ῑθ]</font> propre aux oiseaux, qui convient aux oiseaux, LUC. <i>Somn. 5</i>.<p><b>Étym</b>. ὄρνις.`

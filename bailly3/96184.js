@@ -1,0 +1,1 @@
+lar[96184]=`<b>συν·ομώνυμος, ος, ον</b> <font color="purple">[νῠ]</font> qui a le même nom, ACHÆ. (ATH. <i>173d</i>) ; ANTH. <i>6, 206</i> ; ORACL. (DS. <i>Exc. p. 11).</i><p><b>Étym</b>. σύν, ὁμώνυμος.`

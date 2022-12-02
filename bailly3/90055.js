@@ -1,0 +1,1 @@
+lar[90055]=`<b>σθενόω-ῶ</b>, avoir la force de, NAZ. <i>2, 469 Migne</i>.<p><b>Étym</b>. σθένος.`

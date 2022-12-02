@@ -1,0 +1,1 @@
+lar[58247]=`<b>(τὸ)</b> <i>seul. nom. et acc. sg.</i> :<br><b>      1</b> bien, possession, IL. <i>10, 216 ; 24, 235</i> ; SIM. <i>fr. 112</i>.<br><b>      2</b> présent, A.RH. <i>4, 1550</i>.<p><b>Étym</b>. <i>cf</i>. κτέρεα.`

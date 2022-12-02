@@ -1,0 +1,1 @@
+lar[93604]=`<b>συγ·χιλίαρχος, ου (ὁ)</b> <font color="purple">[χῑ]</font> collègue dans le tribunat militaire, JOS. <i>A.J. 19, 1, 5</i>.`

@@ -1,0 +1,1 @@
+lar[37108]=`<b>ἐπ·εντύω</b> <font color="purple">[ῠ]</font> (<i>seul. impér. prés</i>.) équiper pour : ἐπ. τινὶ ἵππους, IL. <i>8, 374,</i> harnacher des chevaux pour qqn.`

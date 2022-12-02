@@ -1,0 +1,1 @@
+lar[24830]=`<font color="purple">[ᾱκο]</font> <i>adv</i>., deux cents fois, HÉRODOTUS (ORIB. <i>1, 498 B.-Dar</i>.).<p><b>Étym</b>. διακόσιοι, -άκις.`

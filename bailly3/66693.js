@@ -1,0 +1,1 @@
+lar[66693]=`<b>μονό·ωρος, ος, ον</b>, qui ne dure qu’un temps, CHRYS. <i>1, 676</i>.<p><b>Étym</b>. μ. ὥρα.`

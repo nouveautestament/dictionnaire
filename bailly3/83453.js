@@ -1,0 +1,1 @@
+lar[83453]=`<b>ου (ὁ)</b> = <i>lat</i>. Priscus, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 1, etc</i>.`

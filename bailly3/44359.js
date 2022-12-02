@@ -1,0 +1,1 @@
+lar[44359]=`<b>ἕωσ·περ</b>, <i>ou</i> <b>ἕως περ</b>, <i>conj</i>. aussi longtemps que, tant que, <i>se construit comme</i> ἕως, THC. <i>7, 19</i> ; XÉN. <i>Cyr. 7, 5, 39 ; Hell. 6, 5, 12 ; 7, 2, 23</i> ; PLAT. <i>Phæd. 243e ;</i> DÉM. <i>791, 13, etc</i>.<p><b>Étym</b>. ἕως², περ.`

@@ -1,0 +1,1 @@
+lar[24722]=`<b>δια·καλοκἀγαθίζομαι</b> <font color="purple">[κᾰᾱᾰ]</font> (<i>seul. prés</i>.) rivaliser de vertu, DIOG. (STOB. <i>Fl. 4, 112).</i><p><b>Étym</b>. διά, καλοκἀγαθός.`

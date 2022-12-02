@@ -1,0 +1,1 @@
+lar[14807]=`<b>ἀρκευθίτης οἶνος (ὁ)</b> vin aromatisé de genièvre, DIOSC. <i>5, 46</i>.<p><b>Étym</b>. ἄρκευθος.`

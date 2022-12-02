@@ -1,0 +1,1 @@
+lar[38443]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’imaginer un expédient, CHRYSIPP. (STOB. <i>Ecl. phys. p. 378).</i><p><b>Étym</b>. ἐπιμηχανάομαι.`

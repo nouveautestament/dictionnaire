@@ -1,0 +1,1 @@
+lar[19254]=`<b>βασιλειάω-ῶ</b> <font color="purple">[ᾰῐ]</font> avoir le désir de régner, JOS. <i>B.J. 1, 4, 1 ; 4, 9, 9, etc</i>.`

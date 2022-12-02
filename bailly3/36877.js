@@ -1,0 +1,1 @@
+lar[36877]=`<b>εως (ἡ)</b> action de toucher à, attouchement, CLÉM. <i>241</i>.<p><b>Étym</b>. ἐπαφάω.`

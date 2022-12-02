@@ -1,0 +1,1 @@
+lar[27575]=`<b>δορατο·ξόος, όος, όον</b> <font color="purple">[ᾰ]</font> <i>c</i>. δορυξόος, qui façonne (<i>litt</i>. qui racle) des bois de lance, NIC. <i>Th. 170</i>.<p><b>Étym</b>. δόρυ, ξέω.`

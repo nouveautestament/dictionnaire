@@ -1,0 +1,1 @@
+lar[35788]=`<b>ἐξ·ενέπω</b> (<i>seul. prés</i>.) :<br><b>      1</b> proclamer, déclarer, PD. <i>N. 4, 53 ; O. 8, 26</i>.<br><b>      2</b> dire, A.RH. <i>1, 764</i>.`

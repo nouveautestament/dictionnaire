@@ -1,0 +1,1 @@
+lar[3079]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> silencieux, tranquille, doux, POÈT. (EUST. <i>1009, 30).</i><p><b>Étym</b>. <i>cf</i>. ἀκήν.`

@@ -1,0 +1,1 @@
+lar[1203]=`<b>ἄ·δεικτος, ος, ον</b>, non montré, qui ne peut être montré, PHIL. <i>1, 197, 618</i>.<p><b>Étym</b>. ἀ, δείκνυμι.`

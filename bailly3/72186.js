@@ -1,0 +1,1 @@
+lar[72186]=`<b>ὀξυ·τόρος, ος, ον</b> <font color="purple">[ῠ]</font> perçant, NONN. <i>Jo. 19, 7</i> ; ANTH. <i>4, 1</i>.<p><b>Étym</b>. ὀ. τείρω.`

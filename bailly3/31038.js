@@ -1,0 +1,1 @@
+lar[31038]=`<b>οῦ (ὁ)</b> <font color="purple">[κᾰλᾰ]</font> action de centupler, ORIG. <i>177</i>.<p><b>Étym</b>. ἑκατονταπλασιάζω.`

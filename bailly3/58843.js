@@ -1,0 +1,1 @@
+lar[58843]=`<b>κυνο·τρόφος, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui élève des chiens, EL. <i>N.A. 16, 38</i> ; GAL. <i>14, 170</i>.<p><b>Étym</b>. κ. τρέφω.`

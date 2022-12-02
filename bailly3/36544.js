@@ -1,0 +1,1 @@
+lar[36544]=`<b>ορος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> qui vient, au secours de, défenseur, vengeur, OD. <i>16, 263 ; fém</i>. ORPH. <i>Lith. 581</i>.<p><b>Étym</b>. ἐπαμύνω.`

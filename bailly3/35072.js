@@ -1,0 +1,1 @@
+lar[35072]=`<i>adv</i>., artistement, habilement, LYS. (PHRYN. <i>344</i>) ; ARSTT. <i>Soph. el. 11, 12</i> ; MÉN. RHÉT. <i>157, 12, etc</i>.<p><b>Étym</b>. ἔντεχνος.`

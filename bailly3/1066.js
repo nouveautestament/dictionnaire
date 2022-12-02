@@ -1,0 +1,1 @@
+lar[1066]=`<b>ἀγχί·πορος, ος, ον</b> <font color="purple">[ῐ]</font> qui vient auprès, qui accompagne, ANTH. <i>10, 64 ; avec le gén</i>. NONN. <i>Jo. 4, 47 ; 6, 9</i>.<p><b>Étym</b>. ἄ. πόρος.`

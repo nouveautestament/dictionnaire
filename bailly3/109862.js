@@ -1,0 +1,1 @@
+lar[109862]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐῡ]</font> action de farder avec du blanc de céruse, CLÉM. <i>332</i>.<p><b>Étym</b>. ψιμυθίζω.`

@@ -1,0 +1,1 @@
+lar[98577]=`<b>τετρά·κερως, ως, ων</b>, <i>gén</i>. <b>ωτος</b> <font color="purple">[ᾰ]</font> à quatre cornes, ANTH. <i>App. 1, 95</i> ; OPP. <i>C. 2, 378</i>.<p>➳ <i>Acc. sg</i>. τετράκερων, ANTH. <i>l. c. ; acc. pl</i>. τετράκερως, EL. <i>N.A. 17, 10</i>.<p><b>Étym</b>. τ. κέρας.`

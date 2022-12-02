@@ -1,0 +1,1 @@
+lar[60313]=`<b>ας (ἡ)</b> férocité de lion, POLÉM. <i>Physiogn. 1, 6, p. 220</i>.<p><b>Étym</b>. <i>fém. de</i> λεόντειος.`

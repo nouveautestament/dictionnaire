@@ -1,0 +1,1 @@
+lar[93657]=`<b>-ιος (ὁ)</b> Syennésis, <i>chef ou roi cilicien,</i> ESCHL. <i>Pers. 326,</i> HDT. <i>1, 74, etc.</i> ; XÉN. <i>An. 1, 2, 21, etc</i>.<p>➳ <i>Gén</i>. Συεννέσιος, HDT. <i>5, 118</i> ; XÉN. <i>An. 1, 2, 12, etc</i>.`

@@ -1,0 +1,1 @@
+lar[106944]=`<b>εως (ἡ)</b> garde, défense, SPT. <i>2Reg. 5, 23</i>.<p><b>Étym</b>. φρουρέω.`

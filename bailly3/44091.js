@@ -1,0 +1,1 @@
+lar[44091]=`<b>ἔφ·ιππος, ος, ον :<br>      1</b> qui va à cheval, LYS. <i>140, 21</i> ; PLUT. <i>M. 306e, etc.</i><br><b>      2</b> équestre (statue) PLUT. <i>Popl. 19, etc.</i><br><b>      3</b> κλύδων ἐφ. SOPH. <i>El. 733,</i> torrent de chars et de chevaux.<p><b>Étym</b>. ἐπί, ἵππος.`

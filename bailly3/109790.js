@@ -1,0 +1,1 @@
+lar[109790]=`<b>Ψηττό·ποδες, ων (οἱ)</b> les hommes aux nageoires de barbue, <i>n. de pple imaginaire,</i> LUC. <i>V.H. 1, 35</i>.<p><b>Étym</b>. ψῆττα, πούς.`

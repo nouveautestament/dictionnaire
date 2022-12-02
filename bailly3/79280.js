@@ -1,0 +1,1 @@
+lar[79280]=`<b>περι·σκορπίζω</b>, répandre <i>ou</i> disperser de tous côtés, OLYMPIOD.`

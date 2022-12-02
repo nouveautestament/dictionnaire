@@ -1,0 +1,1 @@
+lar[84666]=`<b>οῦ (ὁ)</b> embuscade tendue auparavant, CONON <i>37</i>.<p><b>Étym</b>. προλοχίζω.`

@@ -1,0 +1,1 @@
+lar[104587]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> rongeur, <i>en parl. d’un ulcère,</i> PLUT. <i>M. 1087e ;</i> DIOSC. <i>2, 9</i> ; GAL. <i>6, 750, 815</i>.<p><b>Étym</b>. φαγέδαινα.`

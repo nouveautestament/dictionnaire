@@ -1,0 +1,1 @@
+lar[31701]=`<b>ἐκ·μυσάττομαι</b> <font color="purple">[ῠ]</font> exécrer, détester, PHIL. <i>2, 303</i>.`

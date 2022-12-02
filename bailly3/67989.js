@@ -1,0 +1,1 @@
+lar[67989]=`<b>ή, όν</b>, qui concerne les morts, LUC. <i>D. deor. 24, 1, etc</i>.<p><b>Étym</b>. νεκρός.`

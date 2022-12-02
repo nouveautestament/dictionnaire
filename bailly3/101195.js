@@ -1,0 +1,1 @@
+lar[101195]=`<b>τυφο·μανία, ας (ἡ)</b> <font color="purple">[ῡμᾰ]</font><br><b>      1</b> fol orgueil, PLUT. <i>M. 830b.</i><br><b>      2</b> sorte de stupeur, de torpeur, HPC. <i>1122h</i>.<p><b>Étym</b>. τυφομανής.`

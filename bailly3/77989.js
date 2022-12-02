@@ -1,0 +1,1 @@
+lar[77989]=`<b>ας (ἡ)</b> commandement de 512 hommes, EL. TACT. <i>9, 6</i>.<p><b>Étym</b>. πεντακοσίαρχος.`

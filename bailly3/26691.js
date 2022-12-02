@@ -1,0 +1,1 @@
+lar[26691]=`<b>Διό·βλητος, ος, ον</b> <font color="purple">[ῐ]</font> frappé par Zeus, foudroyé, EL. <i>N.A. 6, 62</i> ; NONN. <i>D. 21, 221</i>.<p><b>Étym</b>. Διός, βλητός.`

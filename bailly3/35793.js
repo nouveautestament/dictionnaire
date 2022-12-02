@@ -1,0 +1,1 @@
+lar[35793]=`<b>ἐξ·εντερίζω :<br>      1</b> enlever les intestins, DIOSC. <i>2, 67</i>.<br><b>      2</b> enlever la moelle d’une plante, DIOSC. <i>4, 151</i>.`

@@ -1,0 +1,1 @@
+lar[3854]=`<b>ἀκρότης, ητος (ἡ) :<br>      1</b> extrémité, HPC. <i>V. med. 17</i> ; ARSTT. <i>Plant. 2, 9, 12</i>.<br><b>      2</b> le plus haut point, ARSTT. <i>Nic. 2, 6, 17 ; fig</i>. supériorité, DH. <i>Dem. 2</i>.<p><b>Étym</b>. ἄκρος.`

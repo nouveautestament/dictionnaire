@@ -1,0 +1,1 @@
+lar[66669]=`<b>μονό·φθογγος, ος, ον</b>, qui n’a qu’un son, qui a un son simple, <i>p. opp. à</i> δίφθογγος, THÉODOS. <i>1031, 18</i>.<p><b>Étym</b>. μ. φθέγγω.`

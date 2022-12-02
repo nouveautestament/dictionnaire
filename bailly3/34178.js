@@ -1,0 +1,1 @@
+lar[34178]=`<i>adv</i>., par un arrangement fait avec art, avec une habile disposition, HERMOG. <i>Rhet. 142, 3</i>.`

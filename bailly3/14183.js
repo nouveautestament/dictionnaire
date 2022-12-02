@@ -1,0 +1,1 @@
+lar[14183]=`<b>ου (τὸ)</b> <font color="purple">[ᾰαῐδ]</font> <i>c</i>. ἀράχνιον CHRYS. <i>3, 514</i>.`

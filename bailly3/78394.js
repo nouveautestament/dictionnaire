@@ -1,0 +1,1 @@
+lar[78394]=`<b>περι·αντλέω-ῶ</b>, répandre autour <i>ou</i> sur, <i>avec le dat</i>. PLUT. <i>M. 502c ; au pass</i>. être inondé de, <i>dat</i>. JOS. <i>Macc. 15</i>.`

@@ -1,0 +1,1 @@
+lar[71786]=`<b>ου</b> <font color="purple">[ᾰῐᾱ]</font> <i>adj. m.</i> :<br><b>   I</b> fait avec du raisin vert, <i>d’où</i> sur, acide, ATH. <i>26d.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> âpre, acerbe, AR. <i>Ach. 352</i> ; PLUT. <i>M. 11d.</i><br><b>      2</b> non encore mûr : νεκρός, LUC. <i>Cat. 5,</i> jeune homme mort avant l’âge.<p><b>Étym</b>. ὄμφαξ.`

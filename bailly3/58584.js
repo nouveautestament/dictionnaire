@@ -1,0 +1,1 @@
+lar[58584]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Κυκλώπιος EUR. <i>I.T. 845</i>.`

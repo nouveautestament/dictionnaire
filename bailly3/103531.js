@@ -1,0 +1,1 @@
+lar[103531]=`<b>α, ον</b>, <i>vb. de</i> ὑπομένω, THC. <i>2, 88</i> ; PLAT. <i>Leg. 770e ;</i> ISOCR. <i>117e ;</i> ARSTT. <i>Nic. 3, 1, 9, etc</i>.`

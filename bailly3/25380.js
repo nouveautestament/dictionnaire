@@ -1,0 +1,1 @@
+lar[25380]=`<b>δια·πταίω</b> (<i>part. prés.) litt</i>. chopper sans cesse, <i>d’où</i> balbutier, LUC. <i>Somn. 8</i>.`

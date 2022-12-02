@@ -1,0 +1,1 @@
+lar[11350]=`<i>adv</i>., sans précautions, POL. <i>3, 52, 7</i> ; DS. <i>20, 41</i> ; JOS. <i>B.J. 4, 3, 3, etc</i>.`

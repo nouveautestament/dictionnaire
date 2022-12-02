@@ -1,0 +1,1 @@
+lar[81577]=`<b>ή, όν</b>, relatif au siège d’une ville, POL. <i>1, 58, 4</i> ; DS. <i>20, 103</i> ; τὰ π. traité sur l’art des sièges, <i>titre d’un ouvrage d’Énée le Tacticien</i>.<p><b>Étym</b>. πολιορκέω.`

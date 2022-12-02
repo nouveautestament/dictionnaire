@@ -1,0 +1,1 @@
+lar[88587]=`<b>ῥινάω-ῶ</b> <font color="purple">[ῑ]</font> conduire par le bout du nez, <i>d’où</i> mystifier, duper, PHÉRÉCR. (<i>Com. fr. 2, 261).</i><p><b>Étym</b>. ῥίς.`

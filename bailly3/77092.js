@@ -1,0 +1,1 @@
+lar[77092]=`<b>οῦ (ὁ) :<br>      1</b> provocation, SPT. <i>3Reg. 15, 30, etc.</i><br><b>      2</b> irritation, NT. <i>Eph. 4, 26</i>.<p><b>Étym</b>. παροργίζω.`

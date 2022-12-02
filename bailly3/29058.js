@@ -1,0 +1,1 @@
+lar[29058]=`<b>δυωδεκά·δρομος, ος, ον</b> <font color="purple">[ῠ]</font> qui a douze fois parcouru le stade, <i>càd</i>. qui a fourni la course entière, PD. <i>O. 2, 92</i>.<p><b>Étym</b>. δ. δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[23306]=`<b>δασύ·θριξ</b>, <i>gén</i>. <b>τριχος</b> (ὁ, ἡ, τὸ) <font color="purple">[ᾰῠῐ]</font> aux poils épais, velu, <i>en parl. de pers</i>. POLÉM. <i>Physiogn. 1, 5 ; d’animaux (bouc,</i> THCR. <i>Idyl. 7, 15 ; chèvre,</i> ANTH. <i>6, 113</i> ; GEOP. <i>18, 9, 4 et 6 ; brebis,</i> ANTH. <i>9, 136), etc</i>.<p><b>Étym</b>. δασύς, θρίξ.`

@@ -1,0 +1,1 @@
+lar[43116]=`<b>εὐ·προσίτως</b> <font color="purple">[ῐ]</font> <i>adv</i>., d’une façon accessible, LUC. <i>2, 136 Reitz</i>.`

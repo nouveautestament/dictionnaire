@@ -1,0 +1,1 @@
+lar[86710]=`<b>ας (ἡ) :<br>      1</b> personnification, DH. <i>Vet. script. cens. 3</i>.<br><b>      2</b> action de faire parler un personnage dans un récit, prosopopée, QUINT. <i>9, 2, 29</i> ; HERMOG. <i>Prog. 44</i> ; D. PHAL. <i>§ 265</i>.<p><b>Étym</b>. <i>cf</i>. προσωποποιέω.`

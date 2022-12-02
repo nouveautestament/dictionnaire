@@ -1,0 +1,1 @@
+lar[102468]=`<b>ὑπ·ερεύγομαι</b>, venir <i>ou</i> rejeter de son sein, <i>en parl. d’un fleuve, acc</i>. A.RH. <i>2, 984</i>.`

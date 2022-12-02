@@ -1,0 +1,1 @@
+lar[58876]=`<b>(ὁ)</b> <font color="purple">[ῠ]</font> <i>dor. c</i>. κύπειρος, ALCM. <i>15</i>.`

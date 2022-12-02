@@ -1,0 +1,1 @@
+lar[32555]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de cerf <i>ou</i> de biche, XÉN. <i>An. 1, 5, 2</i> ; ARSTT. <i>H.A. 4, 8, 27</i>.<p><b>Étym</b>. ἔλαφος.`

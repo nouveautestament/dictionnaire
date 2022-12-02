@@ -1,0 +1,1 @@
+lar[37816]=`<b>ἐπί·θλασις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> contusion, ORIB. <i>p. 86 Cocch</i>.<p><b>Étym</b>. ἐπί, θλάω.`

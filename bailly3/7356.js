@@ -1,0 +1,1 @@
+lar[7356]=`<i>adv</i>., explicitement, PLOT. <i>Enn. 2, 911</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ἀναπετάννυμι.`

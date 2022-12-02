@@ -1,0 +1,1 @@
+lar[101353]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. ὕβωμα HPC. <i>Art. 816, etc</i>.`

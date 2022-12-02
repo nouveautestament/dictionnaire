@@ -1,0 +1,1 @@
+lar[78117]=`<b>(οἱ, αἱ, τά)</b> <i>indécl</i>. cinquante, IL. <i>2, 509, etc</i>.<p>➳ <i>Éol</i>. πεντείκοντα, CORINN. <i>fr. 13 Bgk</i>.<p><b>Étym</b>. πέντε, -κοντα.`

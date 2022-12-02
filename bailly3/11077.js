@@ -1,0 +1,1 @@
+lar[11077]=`<i>adv</i>., de manière à énoncer, SEXT. <i>197</i>.`

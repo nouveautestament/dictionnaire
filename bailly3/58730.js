@@ -1,0 +1,1 @@
+lar[58730]=`<b>Κυν·αμολγοί, ῶν (οἱ)</b> <font color="purple">[ῠᾰ]</font> <i>litt</i>. « qui traient les chiennes », <i>n. d’un pple éthiopien,</i> DS. <i>3, 31</i> ; STR. <i>771</i>.<p><b>Étym</b>. κύων, ἀμέλγω.`

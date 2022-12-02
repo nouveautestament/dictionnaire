@@ -1,0 +1,1 @@
+lar[63272]=`<b>μαψ·υλάκας, ου</b>, <i>adj. m</i>. qui bavarde à tort et à travers, PD. <i>N. 7, 105</i>.<p>➳ <i>Fém. acc</i>. -άκαν, SAPPH. <i>fr. 28 Bgk (conj. p</i>. μαψυλάκταν).<p><b>Étym</b>. μάψ, ὑλάσσω.`

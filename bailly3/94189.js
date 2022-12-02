@@ -1,0 +1,1 @@
+lar[94189]=`<b>συμ·περιέχω</b>, embrasser, contenir avec, DH. <i>3, 43</i>.`

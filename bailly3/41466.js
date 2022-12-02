@@ -1,0 +1,1 @@
+lar[41466]=`<b>ἐτυμη·γόρος, ος, ον</b> <font color="purple">[ῠ]</font> véridique, ORPH. <i>Arg. 4, 1183</i>.<p><b>Étym</b>. ἔτυμος, ἀγορεύω.`

@@ -1,0 +1,1 @@
+lar[62443]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. de Macédoine : ἡ Μ. (<i>s.-e</i>. γῆ) HDT. <i>7, 127,</i> la Macédoine.<p><b>Étym</b>. Μακεδών.`

@@ -1,0 +1,1 @@
+lar[42915]=`<b>εὐ·πάλαιστος, ος, ον</b> <font color="purple">[ᾰ]</font> aisé à combattre, EPICH. (DL. <i>3, 17).</i><p><b>Étym</b>. εὖ, παλαίω.`

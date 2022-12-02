@@ -1,0 +1,1 @@
+lar[2360]=`<b>ητος (ἡ)</b> <font color="purple">[ᾱῐδ]</font> éternité, ARSTT. <i>Cæl. 2, 1</i>.<p><b>Étym</b>. ἀΐδιος.`

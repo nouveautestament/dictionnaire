@@ -1,0 +1,1 @@
+lar[917]=`<b>ἀγριο·μυρίκη, ης (ἡ)</b> <font color="purple">[ῠῑ]</font> bruyère sauvage, SPT. <i>Jer. 17, 6</i>.`

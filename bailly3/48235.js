@@ -1,0 +1,1 @@
+lar[48235]=`<b>α (ὁ)</b> Iempsal, <i>neveu de Jugurtha,</i> PLUT. <i>Mar. 40, Pomp. 12</i>.<p><b>Étym</b>. <i>nom sémit</i>.`

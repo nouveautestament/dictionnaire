@@ -1,0 +1,1 @@
+lar[1379]=`<b>ἀ·διάφθαρτος, ος, ον :<br>      1</b> non corrompu, PLAT. <i>Ap. 34b, etc.</i><br><b>      2</b> incorruptible, impérissable, GAL. <i>2, 27</i>.<p><b>Étym</b>. ἀ, διαφθείρω.`

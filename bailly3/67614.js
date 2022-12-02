@@ -1,0 +1,1 @@
+lar[67614]=`<b>η, ον :<br>      1</b> d’une petitesse excessive, nain, ARSTT. <i>H.A. 5, 24 ; P.A. 4, 10</i>.<br><b>      2</b> ὁ ν. sorte de pâtisserie, ATH. <i>646c</i>.<p><b>Étym</b>. <i>onomatopée</i>.`

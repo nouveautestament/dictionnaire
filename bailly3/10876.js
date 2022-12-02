@@ -1,0 +1,1 @@
+lar[10876]=`<b>ἀνώ·φοιτος, ος, ον</b>, qui monte <i>ou</i> tend à monter, PHIL. <i>2, 513</i>.<p><b>Étym</b>. ἄνω, φοιτάω.`

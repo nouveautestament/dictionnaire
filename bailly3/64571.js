@@ -1,0 +1,1 @@
+lar[64571]=`<b>μεσο·σχιδής, ής, ές</b> <font color="purple">[ῐ]</font> fendu par le milieu, TH. <i>H.P. 3, 11, 1</i> ; ANTH. <i>6, 64</i>.<p><b>Étym</b>. μ. σχίζω.`

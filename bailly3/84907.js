@@ -1,0 +1,1 @@
+lar[84907]=`<b>προ·παροξύνω</b> <font color="purple">[ῡ]</font> marquer l’antépénultième d’un accent aigu, PLUT. <i>M. 845b ;</i> DYSC. <i>Synt. 84, 29</i>.`

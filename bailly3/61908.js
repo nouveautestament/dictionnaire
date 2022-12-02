@@ -1,0 +1,1 @@
+lar[61908]=`<b>λυκό·στομος, ος, ον</b> <font color="purple">[ῠ]</font> sorte de sardine, <i>propr</i>. « à gueule de loup », EL. <i>N.A. 8, 18</i> ; GEOP. <i>20, 46, 1</i>.<p><b>Étym</b>. λ. στόμα.`

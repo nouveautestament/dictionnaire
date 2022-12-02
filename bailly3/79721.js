@@ -1,0 +1,1 @@
+lar[79721]=`<b>περι·ωπής, ής, ές</b>, qui voit dans toutes les directions, <i>en parl. d’Éros, qui a quatre yeux (cf. Vian (CUF) ad loc.)</i> ORPH. <i>Arg. 14</i>.<p><b>Étym</b>. π. ὄψομαι.`

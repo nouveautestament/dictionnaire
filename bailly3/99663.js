@@ -1,0 +1,1 @@
+lar[99663]=`<b>ή, όν</b>, pénétrable, vulnérable, LYC. <i>456</i>.<p><b>Étym</b>. <i>vb. de</i> *τορέω.`

@@ -1,0 +1,1 @@
+lar[65766]=`<b>μικρο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>pass</i>. qui se réjouit de peu, LGN <i>41</i>.<br><b>      2</b> <i>act</i>. qui cause de petites joies, ANTIP. (STOB. <i>Fl. 67, 25).</i><p><b>Étym</b>. μ. χαίρω.`

@@ -1,0 +1,1 @@
+lar[4522]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Halios, <i>h</i>. IL. <i>5, 678</i>.`

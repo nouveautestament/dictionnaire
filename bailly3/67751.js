@@ -1,0 +1,1 @@
+lar[67751]=`<b>ας (ἡ)</b> stationnement d’un navire qui surveille des bâtiments ennemis, APP. <i>Mithr. 92</i>.<p><b>Étym</b>. ναύλοχος.`

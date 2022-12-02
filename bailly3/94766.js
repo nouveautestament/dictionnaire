@@ -1,0 +1,1 @@
+lar[94766]=`<b>συν·ανατρίβω</b> <font color="purple">[ῑ]</font> <i>seul. au pass</i>. avoir des relations fréquentes avec, fréquenter, <i>dat</i>. EPICT. <i>Ench. 33, 6</i> ; DL. <i>7, 22</i>.`

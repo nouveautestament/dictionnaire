@@ -1,0 +1,1 @@
+lar[41571]=`<b>εὐ·άλφιτος, ος, ον</b> <font color="purple">[ῐ]</font> préparé avec de belle farine, ANTH. <i>7, 736</i>.<p><b>Étym</b>. εὖ, ἄλφιτον.`

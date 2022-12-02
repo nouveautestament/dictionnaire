@@ -1,0 +1,1 @@
+lar[104429]=`<b>ου (ὁ)</b> Hypsæos, <i>h</i>. PLUT. <i>Pomp. 55, etc</i>.<p><b>Étym</b>. ὕψι.`

@@ -1,0 +1,1 @@
+lar[45334]=`<b>ἡμεροδρομέω-ῶ</b>, faire le métier de coureur, STR. <i>251</i> ; LUC. <i>D. deor. 24, 1</i>.<p><b>Étym</b>. ἡμεροδρόμος.`

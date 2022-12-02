@@ -1,0 +1,1 @@
+lar[96775]=`<i>adv</i>., en forme de sphère <i>ou</i> de balle, IL. <i>13, 204</i> ; ARAT. <i>531</i> ; ANTH. <i>6, 45, etc</i>.<p><b>Étym</b>. σφαῖρα, -δον.`

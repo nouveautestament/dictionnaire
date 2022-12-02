@@ -1,0 +1,1 @@
+lar[101306]=`<b>ίτιδος</b> <font color="purple">[ᾰῑτ]</font> dont on peut faire du verre, vitrifiable, STR. <i>758, etc</i>.<p><b>Étym</b>. ὕαλος.`

@@ -1,0 +1,1 @@
+lar[60970]=`<b>ου (ὁ)</b> mortier à piler, NIC. <i>Th. 589, 618</i>.<p><b>Étym</b>. λίγδην, <i>cf. la notion de</i> « frotter ».`

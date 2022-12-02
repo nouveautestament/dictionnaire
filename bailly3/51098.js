@@ -1,0 +1,1 @@
+lar[51098]=`<b>καλλι·γέφυρος, ος, ον</b> <font color="purple">[ῐῡ]</font> au beau pont, EUR. <i>Rhes. 349</i>.<p><b>Étym</b>. κ. γέφυρα.`

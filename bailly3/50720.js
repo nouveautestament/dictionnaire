@@ -1,0 +1,1 @@
+lar[50720]=`<b>κακο·εργασία, ας (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> méfait, LESBON. RH. <i>3, 7 Kiehr</i>.<p><b>Étym</b>. κ. ἐργάζομαι.`

@@ -1,0 +1,1 @@
+lar[63728]=`<font color="purple">[ᾰ]</font> se conduire en jeune homme, <i>càd</i>. être pétulant, vif, PLUT. <i>Ant. 10</i> ; LUC. <i>D. mort. 27, 9, etc. ; en parl. de jeunes chevaux,</i> ANTH. <i>12, 238</i>.<p><b>Étym</b>. μεῖραξ.`

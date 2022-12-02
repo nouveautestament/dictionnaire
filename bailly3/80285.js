@@ -1,0 +1,1 @@
+lar[80285]=`<b>ητος (ἡ)</b> amertume, goût amer, HPC. <i>Acut. 387, etc.</i> ; PLAT. <i>Theæt. 159e, etc.</i> ; ARSTT. <i>Meteor. 2, 2 ; au plur</i>. PLAT. <i>Tim. 82e ; fig</i>. parole amère <i>ou</i> dure, EUR. <i>El. 1014</i> ; dureté, cruauté, HDT. <i>1, 130 ; au plur</i>. ISOCR. <i>Antid. § 321</i>.<p><b>Étym</b>. πικρός.`

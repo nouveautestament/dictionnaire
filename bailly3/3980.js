@@ -1,0 +1,1 @@
+lar[3980]=`<b>ου (ἡ)</b> <font color="purple">[ῠ]</font> gland comestible, <i>fruit du chêne</i> ἀρία, OD. <i>10, 242</i> ; ARSTT. <i>H.A. 8, 6, 4 ; ou du chêne</i> πρῖνος, TH. <i>H.P. 3, 16, 3</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

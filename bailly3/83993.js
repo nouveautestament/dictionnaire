@@ -1,0 +1,1 @@
+lar[83993]=`<b>προ·διώκω</b>, poursuivre en avant <i>ou</i> trop loin, THC. <i>6, 70</i> ; XÉN. <i>An. 3, 3, 10</i>.`

@@ -1,0 +1,1 @@
+lar[91414]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> σκῶμμα, AR. <i>Vesp. 1289</i>.`

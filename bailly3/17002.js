@@ -1,0 +1,1 @@
+lar[17002]=`(<i>seul. voc. masc. sg</i>.) bon père, cher père ! <i>terme de salut affectueux pour les vieillards,</i> IL. <i>9, 607 ; 17, 561</i> ; OD. <i>16, 31, etc</i>.<p><b>Étym</b>. <i>indo-europ</i>. *atta, père ; <i>cf. lat</i>. atta ; <i>v</i>. ἄππα, ἄπφα, <i>etc</i>.`

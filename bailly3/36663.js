@@ -1,0 +1,1 @@
+lar[36663]=`<b>ἐπ·αναφυσάω-ῶ</b> (<i>prés. impér. 2 sg</i>. -φύσα) <font color="purple">[ῡ]</font> souffler, AR. <i>Th. 1175</i>.`

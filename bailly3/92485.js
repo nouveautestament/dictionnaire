@@ -1,0 +1,1 @@
+lar[92485]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> <i>c</i>. στεφανηφόρος, EUR. <i>Hipp. (arg</i>.).<p><b>Étym</b>. στέφανος.`

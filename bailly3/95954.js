@@ -1,0 +1,1 @@
+lar[95954]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> écrit en caractères de convention, chiffré, POL. <i>8, 18, 9</i>.<p><b>Étym</b>. σύνθημα.`

@@ -1,0 +1,1 @@
+lar[63407]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾱγ]</font> grande entreprise, APP. <i>Civ. 5, 52</i>.<p><b>Étym</b>. μ. πράσσω.`

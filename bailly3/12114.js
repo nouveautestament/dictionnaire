@@ -1,0 +1,1 @@
+lar[12114]=`<b>ας (ἡ)</b> échelle de débarquement <i>ou</i> d’embarquement, THC. <i>4, 12</i> ; LUC. <i>D. mort. 10, 1, etc</i>.<p>➳ <i>Ion</i>. -βάθρη, HDT. <i>9, 98</i>.<p><b>Étym</b>. ἀποβαίνω.`

@@ -1,0 +1,1 @@
+lar[108013]=`<b>ου</b> <font color="purple">[μᾰᾱ]</font> <i>adj. m.</i> : σεισμός, ARSTT. <i>Mund. 5, 30</i> ; DL. <i>7, 154,</i> tremblement de terre avec formation de crevasses <i>ou</i> de gouffres.<p><b>Étym</b>. χάσμα.`

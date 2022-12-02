@@ -1,0 +1,1 @@
+lar[25401]=`<b>διά·πυκνος, ος, ον</b>, très fréquent, très serré, très dense, DIOSC. <i>4, 115</i>.<p><b>Étym</b>. δ. πυκνός.`

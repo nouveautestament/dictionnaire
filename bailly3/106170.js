@@ -1,0 +1,1 @@
+lar[106170]=`<b>φιλο·φάρμακος, ος, ον</b> <font color="purple">[ῐμᾰ]</font> qui aime les remèdes, GAL. <i>16, 322 ; subst</i>. τὸ φιλοφάρμακον, P. ÉG. <i>36, 45,</i> amour des remèdes.<p><b>Étym</b>. φ. φάρμακον.`

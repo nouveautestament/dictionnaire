@@ -1,0 +1,1 @@
+lar[4545]=`<b>ἁλι·πτοίητος, ος, ον</b> <font color="purple">[ᾰ]</font> qui craint la mer, NONN. <i>D. 8, 58</i>.<p><b>Étym</b>. ἅ. πτοιέω.`

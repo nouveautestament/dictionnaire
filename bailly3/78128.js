@@ -1,0 +1,1 @@
+lar[78128]=`<b>πεντηκοντά·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de cinquante enfants, ESCHL. <i>Pr. 853</i>.<br><b>      2</b> qui a cinquante enfants, ESCHL. <i>Suppl. 320</i>.`

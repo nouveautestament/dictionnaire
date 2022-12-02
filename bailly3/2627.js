@@ -1,0 +1,1 @@
+lar[2627]=`<b>αἱμωδέω-ῶ :<br>      1</b> avoir les dents agacées, HPC. <i>49, 30</i>.<br><b>      2</b> avoir le scorbut, ORION <i>617, 30</i>.<p><b>Étym</b>. αἱμώδης.`

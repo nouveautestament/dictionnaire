@@ -1,0 +1,1 @@
+lar[27849]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> misérable esclave fugitif, LUC. <i>Fug. 33</i>.<p><b>Étym</b>. <i>duel</i> -ίσκω.`

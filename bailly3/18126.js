@@ -1,0 +1,1 @@
+lar[18126]=`<b>ἀφ·ιππάζομαι</b> <font color="darkgreen">(<i>f</i>. άσομαι, <i>ao</i>. ἀφιππασάμην)</font> s’éloigner à cheval, POL. <i>29, 6, 16</i> ; PLUT. <i>Æmil. 19</i> ; LUC. HLD.<p><b>Étym</b>. ἀπό, ἱππ.`

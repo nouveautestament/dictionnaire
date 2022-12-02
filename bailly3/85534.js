@@ -1,0 +1,1 @@
+lar[85534]=`<b>προσ·εκταπεινόω-ῶ</b> <font color="purple">[ᾰ]</font> abaisser encore plus <i>ou</i> en même temps, PLUT. <i>M. 814e</i>.`

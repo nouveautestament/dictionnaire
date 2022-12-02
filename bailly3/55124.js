@@ -1,0 +1,1 @@
+lar[55124]=`<i>adv. éol. c</i>. ἐκεῖ, SAPPH. <i>fr. 51 Bgk</i>.`

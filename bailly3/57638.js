@@ -1,0 +1,1 @@
+lar[57638]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> <i>c</i>. κρατήριον ATH. <i>479c</i>.`

@@ -1,0 +1,1 @@
+lar[50971]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰ]</font> action de couper les tiges, moisson, ANTH. <i>6, 36</i>.<p><b>Étym</b>. καλαμητόμος.`

@@ -1,0 +1,1 @@
+lar[9459]=`<b>εως (ἡ)</b> action de compléter en échange <i>ou</i> de suppléer, EPIC. (DL. <i>10, 48).</i><p><b>Étym</b>. ἀνταναπληρόω.`

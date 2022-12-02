@@ -1,0 +1,1 @@
+lar[399]=`<b>ἀγά·φθεγκτος, ος, ον</b> <font color="purple">[ᾰγ]</font> retentissant, PD. <i>O. 6, 91</i>.<p><b>Étym</b>. ἀγα-, φθέγγομαι.`

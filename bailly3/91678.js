@@ -1,0 +1,1 @@
+lar[91678]=`<b>οος, οον</b>, d’un esprit sage, LUC. <i>Rh. præc. 17</i>.<p><b>Étym</b>. σοφός, νόος.`

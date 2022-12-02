@@ -1,0 +1,1 @@
+lar[56104]=`<b>ης (ἡ)</b> Kloniè, <i>Amazone,</i> Q. SM. <i>1, 42, etc</i>.`

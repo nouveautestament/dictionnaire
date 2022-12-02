@@ -1,0 +1,1 @@
+lar[86701]=`<b>ου (τὸ)</b> molène commune, DIOSC. <i>4, 107</i>.<p><b>Étym</b>. πρόσωπον.`

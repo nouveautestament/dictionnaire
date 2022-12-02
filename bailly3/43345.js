@@ -1,0 +1,1 @@
+lar[43345]=`<b>Εὔ·ρυτος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Eurytos, <i>h</i>. IL. <i>2, 596, 621</i> ; PD. <i>O. 10, 28</i> ; HDT. <i>7, 229</i> ; EUR. <i>I.A. 282</i>.<p><b>Étym</b>. <i>v</i>. εὔρυτος.`

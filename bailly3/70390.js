@@ -1,0 +1,1 @@
+lar[70390]=`<b>ή, όν</b>, bâti, construit, STR. <i>155, 369</i>.<p><b>Étym</b>. <i>vb. de</i> οἰκοδομέω.`

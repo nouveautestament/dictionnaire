@@ -1,0 +1,1 @@
+lar[29918]=`<b>ἐγ·χολόομαι-οῦμαι</b>, se tourner en bile, ORIB. <i>1, 206 B.-Dar</i>.<p><b>Étym</b>. ἐν, χολή.`

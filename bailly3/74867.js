@@ -1,0 +1,1 @@
+lar[74867]=`<b>παν·άπαστος, ος, ον</b> <font color="purple">[ᾰν]</font> tout à fait à jeun, NIC. <i>Al. 605</i>.<p><b>Étym</b>. π. ἄπαστος.`

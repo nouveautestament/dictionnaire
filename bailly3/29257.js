@@ -1,0 +1,1 @@
+lar[29257]=`<b>ἐαρό·χροος, οος, οον</b> <font color="purple">[ᾰ]</font> qui a l’éclat du printemps, ORPH. <i>Lith. 264</i>.<p><b>Étym</b>. ἔαρ, χρόα.`

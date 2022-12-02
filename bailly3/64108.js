@@ -1,0 +1,1 @@
+lar[64108]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. μελιτηρός AR. (<i>Com. fr. 2, 1157) ; sel. Cobet</i> μελιτηρόν.`

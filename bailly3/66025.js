@@ -1,0 +1,1 @@
+lar[66025]=`<b>ας (ἡ)</b> <font color="purple">[ῑῠ]</font> haine contre les femmes, ANTIPAT. (STOB. <i>Fl. 67, 25).</i><p><b>Étym</b>. μισογύνης.`

@@ -1,0 +1,1 @@
+lar[95652]=`<b>συν·επιμαρτυρέω-ῶ</b> <font color="purple">[τῠ]</font><br><b>      1</b> ajouter son témoignage à celui d’un autre, appuyer de son témoignage, <i>dat</i>. ARSTT. <i>Mund. 6, 31</i> ; POL. <i>26, 9, 4</i> ; ATH. <i>595e, etc.</i><br><b>      2</b> donner un témoignage favorable à, approuver, recommander, PLUT. <i>M. 486c, 539d, etc</i>.`

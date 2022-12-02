@@ -1,0 +1,1 @@
+lar[74918]=`<b>πάν·δειμα, ατος (τὸ)</b> grande crainte, épouvante, PD. <i>fr. 197</i>.<p><b>Étym</b>. π. δεῖμα.`

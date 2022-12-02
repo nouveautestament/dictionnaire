@@ -1,0 +1,1 @@
+lar[83555]=`<b>προ·ανακρίνω</b> <font color="purple">[ῑ]</font> demander <i>ou</i> examiner d’abord, ARSTT. <i>Pol. 4, 14, 7</i>.`

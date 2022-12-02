@@ -1,0 +1,1 @@
+lar[106067]=`<b>φιλο·ρρώξ, ῶγος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> ami du raisin, fécond en raisin, ANTH. <i>7, 22</i>.<p><b>Étym</b>. φ. ῥώξ <i>de</i> *ϝρώξ.`

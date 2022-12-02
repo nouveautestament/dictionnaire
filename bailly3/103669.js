@@ -1,0 +1,1 @@
+lar[103669]=`<b>ὑπο·πετάννυμι</b> <font color="darkgreen">(<i>f</i>. -πετάσω, <i>att</i>. -πετῶ, <i>pf. pass</i>. ὑποπέπταμαι)</font> étendre dessous, HPC. <i>887c ; au pass</i>. LUC. <i>Fug. 25</i>.`

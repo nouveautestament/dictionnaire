@@ -1,0 +1,1 @@
+lar[21217]=`<b>γαλακτό·χρως, ωτος (ὁ, ἡ)</b> <font color="purple">[γᾰ]</font> de la couleur du lait, PHILYLL. <i>et</i> NAUSICR. (ATH. <i>110f, 330b</i>).<p><b>Étym</b>. γάλα, χρώς.`

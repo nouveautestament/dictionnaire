@@ -1,0 +1,1 @@
+lar[104946]=`<b>α, ον</b> <font color="purple">[σᾱ]</font> de Pharsale, XÉN. <i>Hell. 6, 1, 2</i> ; EUR. <i>Andr. 16, 22</i> ; PLUT. <i>Pomp. 68, 71, etc.</i> ; οἱ Φαρσάλιοι, THC. <i>2, 22</i> ; XÉN. <i>Hell. 4, 3, 3, etc</i>. les habitants de Pharsale.<p><b>Étym</b>. Φάρσαλος.`

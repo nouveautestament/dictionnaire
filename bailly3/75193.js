@@ -1,0 +1,1 @@
+lar[75193]=`<b>παντ·άρχας, ου (ὁ)</b> <font color="purple">[χᾱ]</font> <i>dor</i>. maître de tout, chef suprême, AR. <i>Av. 1059</i>.<p><b>Étym</b>. π. ἄρχω.`

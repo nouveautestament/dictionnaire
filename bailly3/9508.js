@@ -1,0 +1,1 @@
+lar[9508]=`<b>ἀντ·απορέω-ῶ</b>, répondre à son tour par une question embarrassante, SEXT. <i>M. 1, 231</i>.`

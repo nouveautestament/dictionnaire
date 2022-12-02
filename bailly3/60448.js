@@ -1,0 +1,1 @@
+lar[60448]=`<b>ής, ές</b>, finement travaillé, HH. <i>31, 14</i> ; NIC. (ATH. <i>133d</i>).<p><b>Étym</b>. λεπτός, ἔργον.`

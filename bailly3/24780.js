@@ -1,0 +1,1 @@
+lar[24780]=`<b>δια·κλείω</b>, fermer le passage : τινὰ ἀπό τινος, POL. <i>1, 73, 6 ; ou</i> τινά τινος, POL. <i>5, 51, 10</i> ; DH. <i>11, 14</i>, interdire à qqn l’accès de qqe ch. (d’un pays, <i>etc.) ; fig</i>. τινός τινι, POL. <i>1, 82, 13</i>, empêcher qqn d’obtenir qqe ch. (une fonction, <i>etc.) ; avec l’inf</i>. empêcher de, JOS. <i>B.J. 1, 19, 1</i>.`

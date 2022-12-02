@@ -1,0 +1,1 @@
+lar[59177]=`<b>ᾶ (ὁ)</b> Kômètas, <i>poète de l’Anthologie,</i> ANTH. <i>9, 586, etc</i>.<p><b>Étym</b>. <i>cf</i>. κωμήτης.`

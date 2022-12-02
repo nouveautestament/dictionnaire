@@ -1,0 +1,1 @@
+lar[89114]=`<b>ου (ὁ) :<br>      1</b> de Saïs, HDT. <i>2, 152, etc.</i><br><b>      2</b> habitant de Saïs, HDT. <i>2, 169, etc</i>.<p><b>Étym</b>. Σάϊς.`

@@ -1,0 +1,1 @@
+lar[106428]=`<b>φλοιό·ρριζος, ος, ον</b>, dont la racine est en écorces, <i>càd</i>. formée d’écorces superposées, <i>d’où</i> τὰ φλοιόρριζα, TH. <i>Od. 63,</i> les oignons.<p><b>Étym</b>. φλ. ῥίζα.`

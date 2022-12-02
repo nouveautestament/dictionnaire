@@ -1,0 +1,1 @@
+lar[75960]=`<b>παρ·ανάγω</b>, ramener en haut une mâchoire déboîtée, HPC. <i>Mochl. 847</i>.`

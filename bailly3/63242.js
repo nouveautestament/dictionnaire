@@ -1,0 +1,1 @@
+lar[63242]=`<font color="purple">[ᾰ]</font> <i>adv</i>., au combat, <i>avec mouv</i>. THCR. <i>Idyl. 25, 136</i>.<p><b>Étym</b>. μάχη, -δε.`

@@ -1,0 +1,1 @@
+lar[108565]=`<font color="purple">[ῑ̆ᾰ]</font> <i>adv</i>., avec une chaleur douce, HPC. <i>890a</i>.<p><b>Étym</b>. χλιαρός.`

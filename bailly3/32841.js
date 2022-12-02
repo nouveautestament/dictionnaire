@@ -1,0 +1,1 @@
+lar[32841]=`<b>ἑλιξό·πορος, ος, ον</b>, à la marche circulaire, PROCL. <i>H. Sol. 48</i>.<p><b>Étym</b>. ἕλιξ, πόρος.`

@@ -1,0 +1,1 @@
+lar[19456]=`<i>adv</i>., d’une manière profane, PHIL. <i>1, 523</i> ; CHRYS. <i>6, 967</i>.<p><b>Étym</b>. βέβηλος.`

@@ -1,0 +1,1 @@
+lar[82512]=`<b>πολύ·φθορος, ος, ον :<br>      1</b> ruiné, SOPH. <i>Tr. 477</i>.<br><b>      2</b> riche en catastrophes, SOPH. <i>El. 10</i>.<br><b>      3</b> qui court mille dangers, SOPH. <i>fr. 499</i>.<p><b>Étym</b>. π. φθείρω.`

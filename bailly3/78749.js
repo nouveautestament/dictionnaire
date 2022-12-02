@@ -1,0 +1,1 @@
+lar[78749]=`<b>περι·κεράω-ῶ</b>, cerner en déployant les ailes (d’une armée, <i>etc</i>.) POL. <i>11, 1, 5, etc</i>.<p><b>Étym</b>. π. κέρας.`

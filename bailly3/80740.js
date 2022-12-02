@@ -1,0 +1,1 @@
+lar[80740]=`<b>πλατυ·άμφοδος, ος, ον</b> <font color="purple">[ᾰτ]</font> aux larges rues, SCH.-IL. <i>2, 12</i>.<p><b>Étym</b>. πλατύς, ἄ.`

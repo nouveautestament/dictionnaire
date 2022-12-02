@@ -1,0 +1,1 @@
+lar[55]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰβ]</font> Abas :<br><b>      1</b> <i>h</i>. IL. <i>5, 148</i> ; PD. <i>P. 8, 77</i>.<br><b>      2</b> <i>fl. d’Asie Mineure,</i> PLUT. <i>Pomp. 35, et d’Albanie,</i> DC. <i>37, 3</i>.`

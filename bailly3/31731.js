@@ -1,0 +1,1 @@
+lar[31731]=`<i>adv</i>., énormément, AR. <i>Pl. 981</i>.<p>•<i> Sup</i>. -ώτατα, AR. <i>Pl. 992</i>.`

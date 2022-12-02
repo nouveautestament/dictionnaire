@@ -1,0 +1,1 @@
+lar[29377]=`<b>ος, ον</b>, inscrit, POL. <i>3, 24, 6 ; 3, 25, 3 ; 4, 82, 5, etc.</i> ; τιμαὶ ἔγγρ. POL. <i>27, 15, 3,</i> honneurs conférés par des décrets <i>ou</i> des brevets ; τὰ ἔγγρ. POL. <i>3, 27, 1,</i> clauses d’un traité ; νόμοι ἔγγρ. STR. <i>259</i> ; DS. <i>1, 94,</i> lois écrites sur des tables.<p><b>Étym</b>. ἐγγράφω.`

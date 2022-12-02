@@ -1,0 +1,1 @@
+lar[85164]=`<b>προσ·ανανεόω-ῶ</b>, rappeler le souvenir de, <i>acc</i>. POL. <i>8, 2, 2</i>.`

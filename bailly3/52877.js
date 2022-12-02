@@ -1,0 +1,1 @@
+lar[52877]=`<b>κατα·μωλύνω</b> <font color="darkgreen">(<i>ao. pass</i>. κατεμωλύνθην)</font> émousser, HPC. <i>82f</i>.`

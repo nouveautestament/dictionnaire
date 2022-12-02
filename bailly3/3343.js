@@ -1,0 +1,1 @@
+lar[3343]=`<b>ἀκηδιάω-ῶ</b>, être découragé, être inerte, SPT. <i>Ps. 60, 3 ; 101, 1 ; 142, 4</i>.<p><b>Étym</b>. ἀκηδία.`

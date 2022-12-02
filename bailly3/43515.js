@@ -1,0 +1,1 @@
+lar[43515]=`<b>ας (ἡ)</b> caractère liant, sociable, ANDRON. <i>Pass. p. 751</i>.`

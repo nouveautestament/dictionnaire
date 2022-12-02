@@ -1,0 +1,1 @@
+lar[84023]=`<b>προ·εγκάθημαι</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> être assis, <i>càd</i>. être fixé (dans l’esprit) depuis longtemps, POL. <i>3, 15, 9</i>.`

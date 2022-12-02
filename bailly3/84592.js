@@ -1,0 +1,1 @@
+lar[84592]=`<b>ῆς (ἡ) :<br>      1</b> marche en avant (<i>v</i>. προκόπτω) PLUT. <i>M. 76d.</i><br><b>      2</b> <i>fig</i>. progrès, avancement (en crédit, en puissance) POL. <i>1, 12, 7, etc. ; au plur</i>. PLUT. <i>M. 75b ;</i> LUC. <i>Alex. 22 ; en mauv. part,</i> POL. <i>5, 16, 9</i> ; JOS. <i>A.J. 4, 4, 1</i>.`

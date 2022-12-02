@@ -1,0 +1,1 @@
+lar[95673]=`<b>συν·επισκευάζω</b>, préparer avec, PROCL. <i>Ptol. 1, 2</i>.`

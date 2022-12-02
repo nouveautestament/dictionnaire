@@ -1,0 +1,1 @@
+lar[40873]=`<b>ἐρω·μανής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> fou d’amour, DS. <i>Exc. 581, 98 conj.</i><br><b>      2</b> qui excite un amour insensé, ORPH. <i>H. 54, 142</i>.<p><b>Étym</b>. ἔρως, μαίνομαι.`

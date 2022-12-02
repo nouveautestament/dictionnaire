@@ -1,0 +1,1 @@
+lar[69697]=`<b>*ξυλοχίζομαι</b>, <i>dor</i>. <b>ξυλοχίσδομαι</b> <font color="purple">[ῠ]</font> ramasser du bois, THCR. <i>Idyl. 5, 65</i>.<p><b>Étym</b>. ξύλοχος.`

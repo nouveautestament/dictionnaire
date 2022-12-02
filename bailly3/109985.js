@@ -1,0 +1,1 @@
+lar[109985]=`<b>ψυχο·ρροφέω-ῶ</b> <font color="purple">[ῡ]</font> boire (du vin) frais <i>ou</i> rafraîchi, PLAT. COM. <i>2-2, 694, 58 Mein</i>.<p><b>Étym</b>. ψῦχος, ῥοφέω.`

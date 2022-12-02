@@ -1,0 +1,1 @@
+lar[102327]=`<i>adv</i>., d’une manière excessive <i>ou</i> extraordinaire) XÉN. <i>Ages. 1, 36</i> ; PLAT. <i>Leg. 667a, 836a ;</i> ISOCR. <i>8b, 234c ;</i> POL. <i>16, 24, 4, etc</i>.<p><b>Étym</b>. ὑπερβάλλω.`

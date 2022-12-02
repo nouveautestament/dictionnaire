@@ -1,0 +1,1 @@
+lar[68725]=`<b>(ὁ)</b> <font color="purple">[ῑ]</font> Nikée, <i>h</i>. PD. <i>O. 11, 86</i>.<p><b>Étym</b>. νίκη.`

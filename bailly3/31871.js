@@ -1,0 +1,1 @@
+lar[31871]=`<i>adv</i>., stupidement, EL. <i>N.A. 3, 22</i>.`

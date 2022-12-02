@@ -1,0 +1,1 @@
+lar[48061]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῠ]</font> vestibule, SOPH. <i>El. 328, O.R. 1242</i> ; LUC. <i>M. cond. 42</i>.<p><b>Étym</b>. θύρα.`

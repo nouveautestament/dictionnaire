@@ -1,0 +1,1 @@
+lar[26785]=`<b>Διο·μήτωρ, ορος (ἡ)</b> mère de Zeus, <i>nom mystique du nombre binaire dans la doctrine pythagoricienne (l’unité</i> « ἡ μονάς », <i>s’appelait</i> Ζεύς) THEOL. <i>p. 12</i>.<p><b>Étym</b>. Διός, μήτηρ.`

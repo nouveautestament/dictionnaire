@@ -1,0 +1,1 @@
+lar[105104]=`<b>ης (ἡ)</b> <font color="purple">[ᾱ]</font> chevelure postiche, perruque, LUC. <i>Alex. 59 ; D. mer. 11, 3, etc</i>.<p><b>Étym</b>. φέναξ ; <i>cf</i>. πηνίκη.`

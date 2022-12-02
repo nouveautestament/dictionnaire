@@ -1,0 +1,1 @@
+lar[6622]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> ciselure relevée en bosse, relief, STR. <i>806</i>.<p><b>Étym</b>. ἀναγλύφω.`

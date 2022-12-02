@@ -1,0 +1,1 @@
+lar[97354]=`<b>ταγματαρχέω-ῶ</b> <font color="purple">[μᾰ]</font> commander une troupe, PHIL. <i>1, 368</i>.<p><b>Étym</b>. ταγματάρχης.`

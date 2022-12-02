@@ -1,0 +1,1 @@
+lar[66286]=`<b>Μοιρα·γένης, ους (ὁ)</b> <font color="purple">[ᾱ]</font> Mœragénès, <i>h</i>. PLUT. <i>Qu. conv. 4, 6, 2</i>.<p><b>Étym</b>. μοῖρα, γένος.`

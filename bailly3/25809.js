@@ -1,0 +1,1 @@
+lar[25809]=`<b>δι·αυγής, ής, ές :<br>      1</b> qui brille à travers, brillant, <i>en parl. de plumes,</i> A.RH. <i>1, 221 ; d’astres,</i> A.RH. <i>2, 1104 ; d’un métal,</i> CALL. <i>L. Pall. 21</i>.<br><b>      2</b> transparent, limpide, <i>en parl. d’une source,</i> ANTH. <i>9, 277 ; d’eau,</i> ARSTT. <i>Mir. 112 ; de vin,</i> GAL. <i>2, 230</i>.<p><b>Étym</b>. διά, αὐγή.`

@@ -1,0 +1,1 @@
+lar[88534]=`<b>ῥιζ·άγρα, ης (ἡ)</b> pince pour extraire les racines des dents, P. ÉG. <i>757</i>.<p><b>Étym</b>. ῥίζα, ἄγρα.`

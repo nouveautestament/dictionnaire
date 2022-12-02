@@ -1,0 +1,1 @@
+lar[102033]=`<b>ης (ἡ)</b> Hypatè, <i>v. de Thessalie,</i> ARSTT. <i>Mir. 133</i>.`

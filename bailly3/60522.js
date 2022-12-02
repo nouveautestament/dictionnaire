@@ -1,0 +1,1 @@
+lar[60522]=`<b>εως (ἡ)</b> action de faire blanchir, ARSTT. <i>Phys. 5, 1, 5</i>.<p><b>Étym</b>. λευκαίνω.`

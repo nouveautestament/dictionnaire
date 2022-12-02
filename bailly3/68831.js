@@ -1,0 +1,1 @@
+lar[68831]=`<b>νιτρο·πηγικός, ή, όν</b>, qui provient de la cristallisation de l’eau de nitre, A. TR. <i>11, p. 630</i>.<p><b>Étym</b>. νίτρον, πήγνυμι.`

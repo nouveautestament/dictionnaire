@@ -1,0 +1,1 @@
+lar[40320]=`<b>ατος (τὸ)</b> aliment qui provoque des rapports, NAZ. <i>Epigr. 166</i>.<p><b>Étym</b>. ἐρεύγομαι.`

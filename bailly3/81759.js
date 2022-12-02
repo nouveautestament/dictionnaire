@@ -1,0 +1,1 @@
+lar[81759]=`<b>*πολυ·βόειος</b>, <i>ion</i>. <b>πουλυ·βόειος, α, ον</b> <font color="purple">[ῠ]</font> formé de plusieurs peaux de bœufs, Q. SM. <i>3, 329</i>.<p><b>Étym</b>. π. βοῦς.`

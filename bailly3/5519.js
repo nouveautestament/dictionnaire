@@ -1,0 +1,1 @@
+lar[5519]=`<b>ἀ·μετεώριστος, ος, ον</b>, non transporté dans l’espace, non ballotté, stable, BAS. <i>1, 328 Migne</i>.<p><b>Étym</b>. ἀ, μετεωρίζω.`

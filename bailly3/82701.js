@@ -1,0 +1,1 @@
+lar[82701]=`<i>adv</i>., du sein de la mer, IL. <i>14, 395</i>.<p><b>Étym</b>. πόντος, -θεν.`

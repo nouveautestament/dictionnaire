@@ -1,0 +1,1 @@
+lar[84182]=`<b>προ·εξάλλομαι</b>, s’élancer auparavant, THÉM. <i>15d ;</i> SYN. <i>129a</i>.`

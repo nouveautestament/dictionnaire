@@ -1,0 +1,1 @@
+lar[72739]=`<b>ὀρθοποδέω-ῶ</b>, aller droit sur ses pieds <i>ou</i> droit son chemin, NT. <i>Gal. 2, 14</i>.<p><b>Étym</b>. ὀρθόπους.`

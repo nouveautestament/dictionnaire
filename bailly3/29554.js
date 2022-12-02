@@ -1,0 +1,1 @@
+lar[29554]=`<b>ἐγ·καταπλέκω</b>, entrelacer dans, <i>avec</i> ἐν <i>et le dat</i>. XÉN. <i>Cyn. 9, 12</i> ; PLUT. <i>M. 494b</i>.<p><b>Étym</b>. ἐν, κ.`

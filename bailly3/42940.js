@@ -1,0 +1,1 @@
+lar[42940]=`<b>εὐ·πάρειος, ος, ον</b> <font color="purple">[ᾰ]</font> aux belles joues, POLL. <i>2, 87 ; 9, 162</i>.<p>➳ <i>Poét</i>. *εὐπάρῃος, <i>d’où dor</i>. εὐπάρᾳος <font color="purple">[ρᾱ]</font> PD. <i>P. 12, 16</i>.<p><b>Étym</b>. εὖ, παρειά.`

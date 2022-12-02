@@ -1,0 +1,1 @@
+lar[74513]=`<b>παλιλλογέω-ῶ</b> <font color="purple">[ᾰ]</font> redire, HDT. <i>1, 118</i> ; ARSTT. <i>Rhet. Al. 21, 1</i> ; APP. <i>Mithr. 14</i>.<p><b>Étym</b>. παλίλλογος.`

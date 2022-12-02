@@ -1,0 +1,1 @@
+lar[34297]=`<b>ἐν·ειδοφορέω-ῶ</b>, transformer en figure : πέτρον, ANTH. <i>12, 57,</i> une pierre.`

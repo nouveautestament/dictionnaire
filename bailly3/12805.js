@@ -1,0 +1,1 @@
+lar[12805]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> d’Apollon, PD. <i>P. 6, 9, etc.</i> ; EUR. <i>Or. 1389</i>.`

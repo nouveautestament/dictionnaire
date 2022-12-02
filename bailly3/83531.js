@@ -1,0 +1,1 @@
+lar[83531]=`<font color="purple">[ᾰ]</font> <i>adv</i>., inconsidérément, témérairement, SYN. <i>Ep. 142, 1536c Migne</i>.<p>•<i> Cp</i>. προαλέστερον, STR. <i>549</i>.<p><b>Étym</b>. προαλής.`

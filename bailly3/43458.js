@@ -1,0 +1,1 @@
+lar[43458]=`<i>adv</i>., avec juste poids, avec juste mesure, HPC. <i>588, 43</i>.<p><b>Étym</b>. *εὔσταθμος, <i>de</i> εὖ, στάθμη.`

@@ -1,0 +1,1 @@
+lar[48776]=`<b>ου (ὁ)</b> Ikadios, <i>h</i>. ARSTT. <i>Poet. 25</i>.`

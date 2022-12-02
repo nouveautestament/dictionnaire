@@ -1,0 +1,1 @@
+lar[100104]=`<b>τρι·ακτήρ, ῆρος (ὁ)</b> vainqueur en trois assauts, <i>d’où</i> vainqueur, ESCHL. <i>Ag. 171</i>.<p><b>Étym</b>. τριάζω.`

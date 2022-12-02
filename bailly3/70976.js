@@ -1,0 +1,1 @@
+lar[70976]=`<b>ὀλιγαρκέω-ῶ</b> <font color="purple">[ῐ]</font> se contenter de peu, GEOP. <i>14, 7, 25</i>.<p><b>Étym</b>. ὀλιγαρκής.`

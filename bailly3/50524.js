@@ -1,0 +1,1 @@
+lar[50524]=`<i>adv</i>., d’une manière définie, CLÉM. <i>2, 472 Migne</i>.<p><b>Étym</b>. καθορίζω.`

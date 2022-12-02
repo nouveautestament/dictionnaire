@@ -1,0 +1,1 @@
+lar[36608]=`<b>ἐπ·ανακρίνω</b> <font color="purple">[ῑ]</font> interroger à fond, DIONYS. <i>ad Demoph</i>.<p><b>Étym</b>. <i>Bud. Comm. p. 35</i>.`

@@ -1,0 +1,1 @@
+lar[65307]=`<b>ου (ὁ)</b> Médos :<br><b>      1</b> <i>premier roi des Perses,</i> ESCHL. <i>Pers. 765</i>.<br><b>      2</b> <i>fils de Bacchus,</i> Ps.-PLUT. <i>Fluv. 24, 1</i>.<p><b>Étym</b>. <i>cf</i>. Μῆδος.`

@@ -1,0 +1,1 @@
+lar[68416]=`<b>Νεφελο·κοκκυγία, ας (ἡ)</b> <font color="purple">[ῡ]</font> ville des coucous dans les nuages, <i>càd</i>. bâtie par les coucous dans les nuages, AR. <i>Av. 819</i>.<p><b>Étym</b>. ν. κόκκυξ.`

@@ -1,0 +1,1 @@
+lar[11859]=`<b>ἀπ·ευωνίζω</b>, vendre à bon marché, LUC. <i>Nigr. 23</i>.`

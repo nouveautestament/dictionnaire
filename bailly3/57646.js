@@ -1,0 +1,1 @@
+lar[57646]=`<b>α (ὁ)</b> <font color="purple">[ᾰῐδᾱ]</font> Kratèsippidas, <i>Spartiate,</i> XÉN. <i>Hell. 1, 1, 32</i>.<p><b>Étym</b>. <i>patr. dér. de</i> κρατήσιππος.`

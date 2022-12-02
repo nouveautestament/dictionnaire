@@ -1,0 +1,1 @@
+lar[59281]=`<i>gén</i>. <b>Κῶ</b>, <i>dat</i>. <b>Κῷ</b>, <i>acc</i>. <b>Κῶν</b> <i>ou</i> <b>Κῶ (ἡ)</b> l’î. de Kôs (<i>auj</i>. Kos, <i>anc</i>. Stanchio) HDT. <i>1, 144</i> ; THC. <i>8, 41, 108, etc</i>.<p>➳ <i>Acc</i>. Κῶν, IL. <i>2, 677 ; ou</i> Κῶ, XÉN. <i>Hell. 1, 5, 1</i> ; POL. <i>16, 15, 4, etc. Épq</i>. Κόως, HH. <i>Ap. 42</i>.<p><b>Étym</b>. <i>cf</i>. Κώϊος, Κῷος.`

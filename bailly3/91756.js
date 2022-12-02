@@ -1,0 +1,1 @@
+lar[91756]=`<b>εως (ἡ)</b> gonflement. DIOSC. <i>3, 41</i>.<p><b>Étym</b>. σπαργάω.`

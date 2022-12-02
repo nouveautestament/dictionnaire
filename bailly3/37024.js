@@ -1,0 +1,1 @@
+lar[37024]=`<b>ἐπ·εκδιηγέομαι-οῦμαι</b>, expliquer en détail, tout au long, PLAT. <i>Phæd. 97d</i>.`

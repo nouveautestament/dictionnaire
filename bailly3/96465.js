@@ -1,0 +1,1 @@
+lar[96465]=`<font color="purple">[ῐ]</font> conduire un char à deux chevaux, AR. <i>Nub. 15</i>.<p><b>Étym</b>. συνωρίς.`

@@ -1,0 +1,1 @@
+lar[17108]=`<b>(ἡ)</b> Augô, <i>n. de chienne,</i> XÉN.`

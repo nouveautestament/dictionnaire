@@ -1,0 +1,1 @@
+lar[19107]=`<b>οῦ (ἡ)</b> <i>s.-e</i>. μηχανή, treuil pour tirer <i>ou</i> soulever des fardeaux, HÉRON.<p><b>Étym</b>. <i>contract. de</i> *βαρεολκός, <i>du rad</i>. βαρεσ- <i>de</i> βάρος, <i>et</i> ἕλκω ; <i>cf</i>. βαρυολκός.`

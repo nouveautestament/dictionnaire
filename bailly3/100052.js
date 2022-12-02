@@ -1,0 +1,1 @@
+lar[100052]=`<i>prés. formé du pf</i>. τέτρηχα être rude, âpre, hérissé, NIC. <i>Th. 521</i>.<p><b>Étym</b>. <i>v</i>. ταράσσω.`

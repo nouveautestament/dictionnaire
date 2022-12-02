@@ -1,0 +1,1 @@
+lar[83794]=`<b>προ·βιβρώσκω</b>, manger avant, ARÉT. <i>Caus. m. acut. 2, 2</i>.`

@@ -1,0 +1,1 @@
+lar[38779]=`<b>εως (ἡ)</b> cours (des astres) PTOL. <i>Tetr. p. 99, 15</i>.<p><b>Étym</b>. ἐπιπορεύομαι.`

@@ -1,0 +1,1 @@
+lar[89253]=`<b>ου (ὁ)</b> Samidas, <i>h</i>. PLUT. <i>Gen. Socr. 3 et 32 dout</i>.`

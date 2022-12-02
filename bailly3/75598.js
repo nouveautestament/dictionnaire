@@ -1,0 +1,1 @@
+lar[75598]=`<b>ης (ἡ) :<br>   I</b> ce qu’on ajoute, appendice, supplément, PLUT. <i>M. 855d.</i><br><b>   II</b> ce que l’on confie :<br><b>      1</b> dépôt, Ps.-PHOCYL. <i>135</i>.<br><b>      2</b> otage, HDT. <i>6, 73</i>.<p><b>Étym</b>. παρατίθημι.`

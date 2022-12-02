@@ -1,0 +1,1 @@
+lar[22347]=`<b>ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> conflit d’opinions, lutte d’avis contraires, PHIL. <i>1, 693</i>.<p><b>Étym</b>. <i>v</i>. γνωσιμαχέω.`

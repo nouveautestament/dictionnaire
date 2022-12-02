@@ -1,0 +1,1 @@
+lar[109991]=`<b>ψυχο·τακής, ής, ές</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> qui consume l’âme, A. PL. <i>198</i> ; ANTH. <i>5, 56</i>.<br><b>      2</b> qui assigne les âmes à comparaître, NONN. <i>Jo. 12, 77</i>.<p><b>Étym</b>. ψ. τήκω.`

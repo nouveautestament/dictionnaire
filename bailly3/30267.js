@@ -1,0 +1,1 @@
+lar[30267]=`<b>ίδος</b>, <i>adj. f</i>. qui sait, CALL. <i>fr. 451</i>.<p><b>Étym</b>. *εἴδω.`

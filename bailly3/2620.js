@@ -1,0 +1,1 @@
+lar[2620]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grâce, charme, gentillesse, PLUT. <i>Num. 8</i>.<p><b>Étym</b>. αἱμύλος.`

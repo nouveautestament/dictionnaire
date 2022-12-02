@@ -1,0 +1,1 @@
+lar[39912]=`<b>ἐπ·οφλισκάνω</b> <font color="darkgreen">(<i>f</i>. -οφλήσω)</font> devoir toujours davantage, THÉM. <i>83</i>.`

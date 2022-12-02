@@ -1,0 +1,1 @@
+lar[27501]=`<b>εως (ἡ)</b> action de construire, <i>d’où</i> construction, JOS. <i>A.J. 15, 9, 6 ; B.J. 2, 17, 1</i>.<p><b>Étym</b>. δομέω.`

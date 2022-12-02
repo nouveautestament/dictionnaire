@@ -1,0 +1,1 @@
+lar[21219]=`<b>εως (ἡ)</b> <font color="purple">[γᾰ]</font> transformation en suc laiteux, TH. <i>C.P. 4, 4, 7</i>.<p><b>Étym</b>. γαλακτόομαι.`

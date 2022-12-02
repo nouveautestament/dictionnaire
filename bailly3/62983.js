@@ -1,0 +1,1 @@
+lar[62983]=`<b>ης, ες</b> <font color="purple">[ᾰρῠ]</font> brillant, étincelant, HPC. <i>111a, Acut. 390</i>.<p><b>Étym</b>. μαρμαρυγή, -ωδης.`

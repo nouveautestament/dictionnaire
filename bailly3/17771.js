@@ -1,0 +1,1 @@
+lar[17771]=`<b>αὐτο·χάρακτος, ος, ον</b> <font color="purple">[χᾰ]</font> qui se grave <i>ou</i> s’imprime de soi-même, <i>en parl. d’une image dans un miroir,</i> NONN. <i>D. 5, 599</i>.<p><b>Étym</b>. αὐ. χαράσσω.`

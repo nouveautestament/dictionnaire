@@ -1,0 +1,1 @@
+lar[108770]=`<b>ιος (ὁ)</b> Khorasmis, <i>Perse,</i> HDT. <i>7, 78</i>.`

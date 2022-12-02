@@ -1,0 +1,1 @@
+lar[47416]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> thlaspi, <i>plante, dont la graine est comme écrasée,</i> HPC. <i>628 fin, etc</i>.<p><b>Étym</b>. θλάω.`

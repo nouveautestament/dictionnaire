@@ -1,0 +1,1 @@
+lar[84340]=`<b>προ·θεραπεύω</b> <font color="purple">[ᾰ]</font><br><b>   I</b> donner d’avance des soins en vue de, <i>acc</i>. GEOP. <i>2, 47</i>.<br><b>   II</b> <i>fig.</i> :<br><b>      1</b> préparer en vue de, PLAT. <i>Rsp. 429e.</i><br><b>      2</b> user à l’avance de ménagements envers, <i>acc</i>. PLUT. <i>Alc. 25</i>.`

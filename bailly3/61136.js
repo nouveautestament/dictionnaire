@@ -1,0 +1,1 @@
+lar[61136]=`être sensuel, HDN GR. <i>Epim. p. 77 Boissonade</i>.`

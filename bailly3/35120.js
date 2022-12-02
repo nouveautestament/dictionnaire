@@ -1,0 +1,1 @@
+lar[35120]=`<i>au cp</i>. -ώτερον, <i>adv</i>., de manière à faire rentrer en soi-même, CHRYS. <i>1, 713 ; 10, 15 Migne</i>.`

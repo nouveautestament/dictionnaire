@@ -1,0 +1,1 @@
+lar[44240]=`<i>adv</i>., avec plus d’inimitié, XÉN. <i>Conv. 4, 3</i>.<p><b>Étym</b>. ἐχθίων.`

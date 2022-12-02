@@ -1,0 +1,1 @@
+lar[57150]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κορυδαλλίς, EPICH. <i>fr. 25 Ahrens</i>.`

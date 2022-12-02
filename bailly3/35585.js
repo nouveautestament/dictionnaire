@@ -1,0 +1,1 @@
+lar[35585]=`<b>ἐξ·αργέω-ῶ</b> (<i>pf</i>. ἐξήργηκα) :<br><b>      1 <i>tr.</i></b> faire <i>ou</i> entretenir avec négligence, différer, SOPH. <i>Ph. 556, etc.</i><br><b>      2 <i>intr.</i></b> être entièrement inactif, ARSTT. <i>Nic. 1, 8, 9</i>.`

@@ -1,0 +1,1 @@
+lar[40266]=`<b>ου (τὸ)</b> sorte de pâtisserie friable, GAL. <i>Lex. Hipp. 19, 100</i>.<p><b>Étym</b>. ἐρείκω.`

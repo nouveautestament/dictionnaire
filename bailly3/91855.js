@@ -1,0 +1,1 @@
+lar[91855]=`<b>ου (τὸ)</b> semence, NIC. <i>Al. 201, Th. 599, etc</i>.<p><b>Étym</b>. <i>neutre de</i> σπερμεῖος.`

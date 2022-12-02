@@ -1,0 +1,1 @@
+lar[58994]=`<b>κυρτιάω-ῶ</b> (<i>part. épq</i>. κυρτιόων) être courbe <i>ou</i> courbé, MAN. <i>4, 119</i>.<p><b>Étym</b>. κυρτός.`

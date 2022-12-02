@@ -1,0 +1,1 @@
+lar[80804]=`<b>Πλατωνό·πολις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> État régi selon les lois de Platon, République de Platon, PORPH. <i>V. Plot. 63, 9 dout</i>.<p><b>Étym</b>. Πλάτων, πόλις.`

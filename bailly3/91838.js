@@ -1,0 +1,1 @@
+lar[91838]=`<b>      1</b> procréer, HÉS. <i>O. 734</i> ; CALL. <i>fr. 207 ; abs</i>. ARSTT. <i>Probl. 4, 4, 2</i>.<br><b>      2</b> féconder, <i>en parl. du Nil,</i> PLUT. <i>M. 366a.</i><br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, NONN. <i>D. 3, 295</i>.<p><b>Étym</b>. σπέρμα.`

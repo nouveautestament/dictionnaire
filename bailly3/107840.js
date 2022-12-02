@@ -1,0 +1,1 @@
+lar[107840]=`<b>χαόω-ῶ</b>, engloutir, anéantir, SIMPL. <i>Epict. 173</i>.<p><b>Étym</b>. χάος.`

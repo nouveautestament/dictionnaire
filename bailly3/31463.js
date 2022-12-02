@@ -1,0 +1,1 @@
+lar[31463]=`<b>ἐκ·κοιλίζω</b> (<i>part. ao</i>. -ίξας) tirer du ventre, MITHÆCUS (ATH. <i>325f</i>).<p><b>Étym</b>. ἐκ, κοιλία.`

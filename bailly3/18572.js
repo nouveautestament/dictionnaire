@@ -1,0 +1,1 @@
+lar[18572]=`<b>ἀχυρόω-ῶ</b>, <i>f</i>. ώσω <font color="purple">[ᾰῠ]</font><br><b>      1</b> joncher de paille, ARSTT. <i>Probl. 11, 25</i>.<br><b>      2</b> fabriquer avec de la paille, POLIOCH. (ATH. <i>60b</i>).`

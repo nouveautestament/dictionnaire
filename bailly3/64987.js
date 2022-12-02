@@ -1,0 +1,1 @@
+lar[64987]=`<b>μετα·στυφελίζω</b> <font color="purple">[ῠ]</font> (<i>seul. ao</i>. μετεστυφέλιξα) frapper rudement, NONN. <i>D. 17, 164</i>.`

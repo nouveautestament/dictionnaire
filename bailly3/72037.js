@@ -1,0 +1,1 @@
+lar[72037]=`<b>ου (ὁ)</b> = <i>lat</i>. Hŏnōrātus, <i>n. d’h. rom</i>. PLUT. <i>Galb. 14</i> ; LUC. <i>Demon. 19</i>.`

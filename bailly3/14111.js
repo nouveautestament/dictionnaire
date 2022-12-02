@@ -1,0 +1,1 @@
+lar[14111]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> agitation, mouvement violent, HPC. <i>385, 4, etc. ; particul</i>. battement violent du cœur, NIC. <i>Th. 775</i>.`

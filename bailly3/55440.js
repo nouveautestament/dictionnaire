@@ -1,0 +1,1 @@
+lar[55440]=`<b>ίδος (ἡ)</b> chat-huant, CALL. <i>fr. 318</i>.`

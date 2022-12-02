@@ -1,0 +1,1 @@
+lar[106020]=`<b>φιλο·πολίτης, ου (ὁ)</b> <font color="purple">[ῐῑ]</font> qui aime les citoyens <i>ou</i> ses concitoyens, PLUT. <i>Lyc. 20, etc</i>.`

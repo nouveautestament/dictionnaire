@@ -1,0 +1,1 @@
+lar[89969]=`par putréfaction, CHIR. <i>p. 38 Cocch</i>.`

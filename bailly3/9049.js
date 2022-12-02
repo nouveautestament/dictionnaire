@@ -1,0 +1,1 @@
+lar[9049]=`<b>ἀν·ίδιος, ος, ον</b>, qui n’a rien en propre, BAS. <i>3, 71</i>.<p><b>Étym</b>. ἀν-, ἴδιος.`

@@ -1,0 +1,1 @@
+lar[61094]=`<b>λιθό·ψωκτος, ος, ον</b> <font color="purple">[ῐ]</font> qui polit la pierre, MAN. <i>4, 326</i>.<p><b>Étym</b>. λ. ψώχω.`

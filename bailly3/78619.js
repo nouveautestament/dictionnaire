@@ -1,0 +1,1 @@
+lar[78619]=`<b>περι·ηγής, ής, ές :<br>      1</b> qui se développe en cercle (Cyclades), CALL. <i>Del. 198</i>.<br><b>      2</b> <i>en gén</i>. rond, circulaire (anneau, HPC. <i>915h ;</i> lac, CALL. <i>Ap. 59, etc.) ; fig</i>. EMPÉD. <i>168 Mullach</i>.<p><b>Étym</b>. <i>ion. c</i>. περιαγής.`

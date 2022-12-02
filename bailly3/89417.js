@@ -1,0 +1,1 @@
+lar[89417]=`<b>ης (ἡ)</b> <font color="purple">[ᾰρῑ]</font> sarisse, <i>lance macédonienne de 14 à 16 pieds de long,</i> TH. <i>H.P. 3, 11, 2</i> ; POL. <i>2, 69, 7 ; 18, 12, 2, etc</i>.`

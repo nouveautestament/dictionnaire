@@ -1,0 +1,1 @@
+lar[80459]=`<b>*πισσώδης</b>, <i>seul. att</i>. <b>πιττώδης, ης, ες :<br>      1</b> semblable à de la poix, ARSTT. <i>H.A. 9, 10, 5</i>.<br><b>      2</b> qui produit de la poix, TH. <i>H.P. 1, 12, 2</i>.<p><b>Étym</b>. πίσσα, -ωδης.`

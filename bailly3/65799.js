@@ -1,0 +1,1 @@
+lar[65799]=`<b>ου (τὸ)</b> le mille romain, espace de mille pas, <i>équivalent à 8 stades,</i> POL. <i>34, 11, 8 ; 34, 12, 3</i> ; STR. <i>285, 322</i> ; PLUT. <i>Cic. 32, etc</i>.<p><b>Étym</b>. <i>lat</i>. millia.`

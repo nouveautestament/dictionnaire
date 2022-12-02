@@ -1,0 +1,1 @@
+lar[53433]=`<b>κατα·στεγάζω</b>, couvrir, <i>acc</i>. HDT. <i>4, 71</i> ; PLAT. <i>Criti. 115e ;</i> ARSTT. <i>H.A. 9, 20</i>.`

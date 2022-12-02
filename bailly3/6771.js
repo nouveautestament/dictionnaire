@@ -1,0 +1,1 @@
+lar[6771]=`<b>ἀνα·θάλλω</b> (ἀο. ἀνέθηλα, <i>ao.2</i> ἀνέθαλον) :<br><b>      1 <i>intr.</i></b> repousser, refleurir, EL. <i>V.H. 5, 4 ; N.A. 2, 25</i>.<br><b>      2 <i>tr.</i></b> faire pousser, faire fleurir, SPT. <i>Ezech. 17, 24 ; Sir. 50, 11 ; fig</i>. SPT. <i>Sir. 1, 15 ; 11, 22</i>.<p>➳ <i>Fut. moy. au sens pass</i>. ἀναθαλήσεται, ANTH. <i>7, 281</i>.`

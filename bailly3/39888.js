@@ -1,0 +1,1 @@
+lar[39888]=`<b>ἐπ·ορχέομαι-οῦμαι :<br>      1</b> danser auprès de <i>ou</i> avec, DÉM. <i>313, 26</i>.<br><b>      2</b> danser sur, <i>dat</i>. PLUT. <i>M. 336c ; fig</i>. insulter à, <i>dat</i>. APP. <i>Lib. 66</i>.`

@@ -1,0 +1,1 @@
+lar[64639]=`<b>μεσ·ύμνιον, ου (τὸ)</b> exclamation au milieu d’une strophe, HÉPH. <i>p. 70</i>.<p><b>Étym</b>. μέσος, ὕμνος.`

@@ -1,0 +1,1 @@
+lar[17031]=`<font color="purple">[ῐκ]</font> <i>adv</i>., en langue attique, DÉM. <i>1424, 1</i> ; ALEX. <i>et</i> ANTIPH. (ATH. <i>287f ; 323b</i>) ; PLAT. <i>Crat. 410c, etc</i>.<p><b>Étym</b>. ἀττικίζω.`

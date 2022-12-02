@@ -1,0 +1,1 @@
+lar[51004]=`<b>καλαμό·φυλλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui a des feuilles de roseau, TH. <i>H.P. 1, 10, 5</i> ; GEOP. <i>10, 44</i>.<p><b>Étym</b>. κ. φύλλον.`

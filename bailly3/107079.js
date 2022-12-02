@@ -1,0 +1,1 @@
+lar[107079]=`<b>(ὁ)</b> (<i>seul. nom. pl. épq</i>. φυλακῆες <font color="purple">[ῠᾰ]</font>) <i>épq. c</i>. φύλαξ, OPP. <i>C. 4, 295</i>.`

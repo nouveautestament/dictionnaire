@@ -1,0 +1,1 @@
+lar[92183]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de la valeur d’un statère, THPP. COM. <i>2, 800</i>.<p><b>Étym</b>. στατήρ.`

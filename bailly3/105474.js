@@ -1,0 +1,1 @@
+lar[105474]=`<b>φιλ·αναγνώστης, ου (ὁ)</b> <font color="purple">[ῐᾰν]</font> qui aime la lecture, PLUT. <i>Alex. 8</i>.<p><b>Étym</b>. φ. ἀναγιγνώσκω.`

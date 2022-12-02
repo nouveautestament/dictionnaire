@@ -1,0 +1,1 @@
+lar[54594]=`<b>ῶν (αἱ)</b> Kélænes, <i>v. de Phrygie, sur une colline du même n</i>. HDT. <i>7, 26</i> ; XÉN. <i>An. 1, 2, 8, etc</i>.<p><b>Étym</b>. κελαινός.`

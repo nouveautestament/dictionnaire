@@ -1,0 +1,1 @@
+lar[5893]=`<b>ου (ἡ)</b> <font color="purple">[ᾰᾰ]</font> amandier, LUC. <i>M. cond. 5</i>.<p><b>Étym</b>. ἀμυγδάλη.`

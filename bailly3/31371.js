@@ -1,0 +1,1 @@
+lar[31371]=`<b>ἑκκαιδεκά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> de seize temps (<i>litt</i>. signes) A. QUINT. <i>p. 35</i>.<p><b>Étym</b>. ἑ. σῆμα.`

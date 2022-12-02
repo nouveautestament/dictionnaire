@@ -1,0 +1,1 @@
+lar[85443]=`<b>προσ·διορίζω :<br>      1</b> définir <i>ou</i> spécifier en outre, DÉM. <i>496, 17</i> ; ARSTT. <i>An. 1, 3, 24, etc.</i><br><b>      2</b> maintenir en outre, <i>avec une prop. inf</i>. POL. <i>32, 7, 10</i>.<br><b><i>Moy.</i></b> définir <i>ou</i> spécifier en outre, ARSTT. <i>Nic. 6, 3, 4, etc</i>.`

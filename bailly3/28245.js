@@ -1,0 +1,1 @@
+lar[28245]=`<b>δύσ·αυλος, ος, ον</b> <font color="purple">[ῠ]</font> malheureux au concours de flûte, ANTH. <i>9, 266</i>.<p><b>Étym</b>. δ. αὐλός.`

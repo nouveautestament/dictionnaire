@@ -1,0 +1,1 @@
+lar[41859]=`<b>εὐ·διαίρετος, ος, ον :<br>      1</b> bon <i>ou</i> facile à diviser, ARSTT. <i>Phys. 4, 8, 10 ; P.A. 2, 8, 10</i> ; TH. <i>H.P. 7, 13, 1</i>.<br><b>      2</b> facile à démonter (machine) PHIL. BYZ.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Cæl. 4, 6</i>.<p><b>Étym</b>. εὖ, διαιρέω.`

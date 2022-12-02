@@ -1,0 +1,1 @@
+lar[15198]=`<b>ατος (τὸ) :<br>      1</b> faiblesse, maladie, HPC. <i>298, 40</i> ; DÉM. <i>24, 5</i>.<br><b>      2</b> infirmité morale, PLUT. <i>Nic. 28 ; t. stoïc</i>. infirmité de l’âme non initiée à la philosophie, CIC. <i>Tusc. 4, 10</i>.<p><b>Étym</b>. ἀρρωστέω.`

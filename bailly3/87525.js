@@ -1,0 +1,1 @@
+lar[87525]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> présure, ARSTT. <i>H.A. 3, 20, 15, etc</i>.<p>➳ <i>Ion</i>. -ίη, NIC. <i>Al. 68, etc</i>.<p><b>Étym</b>. πῦος.`

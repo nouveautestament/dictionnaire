@@ -1,0 +1,1 @@
+lar[101404]=`<b>ας (ἡ)</b> souplesse (<i>litt</i>. humidité) des membres, POLÉM. <i>Physiogn. p. 272</i> ; ADAM. <i>Physiogn. 2, 11</i>.<p><b>Étym</b>. ὑγρομελής.`

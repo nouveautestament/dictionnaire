@@ -1,0 +1,1 @@
+lar[96396]=`<b>συν·υβρίζω</b>, <i>anc. att</i>. <b>ξυν·υβρίζω</b>, outrager ensemble, PLUT. <i>M. 631f</i>.`

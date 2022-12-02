@@ -1,0 +1,1 @@
+lar[10940]=`<b>ἀξιο·πρεπής, ής, ές</b>, <i>seul. au</i> <i>• Sup</i>. -έστατος, décent, convenable, majestueux, XÉN. <i>Conv. 8, 40</i>.<p><b>Étym</b>. ἄ. πρέπω.`

@@ -1,0 +1,1 @@
+lar[36621]=`<b>ἐπ·αναλύω</b>, retourner, revenir, NYSS. <i>1, 118</i>.`

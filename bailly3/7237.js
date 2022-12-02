@@ -1,0 +1,1 @@
+lar[7237]=`<b>ἀνα·νεάζω</b>, rajeunir, AR. <i>Ran. 593</i>.<br><b><i>Moy.</i></b> redevenir jeune, DH. <i>Rhet. 6</i>.`

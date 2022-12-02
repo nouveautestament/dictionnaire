@@ -1,0 +1,1 @@
+lar[103126]=`<b>ὑπο·δειπνέω-ῶ</b>, prendre à un repas la place de, remplacer à table : τινι, qqn, LUC. <i>Gall. 10</i>.`

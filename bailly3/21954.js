@@ -1,0 +1,1 @@
+lar[21954]=`<b>γηροτροφέω-ῶ</b>, <i>f</i>. ήσω, <i>c</i>. γηροβοσκέω, IS. <i>1, 47</i> ; PLAT. <i>Menex. 248d ; au pass</i>. LYS. <i>133 fin</i> ; ISOCR. <i>305e</i>.<p>➳ <i>Fut. moy. au sens pass. 3 pl</i>. γηροτροφήσονται, DÉM. <i>1399, 17</i>.<p><b>Étym</b>. γηροτρόφος.`

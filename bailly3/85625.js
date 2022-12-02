@@ -1,0 +1,1 @@
+lar[85625]=`<b>προσ·εξίστημι</b>, mettre en outre <i>ou</i> encore plus hors de soi, bouleverser encore plus, <i>acc</i>. PLUT. <i>M. 128e</i>.`

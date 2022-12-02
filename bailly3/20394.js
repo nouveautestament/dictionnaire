@@ -1,0 +1,1 @@
+lar[20394]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite tête de bœuf, LYS. (ATH. <i>210a</i>).<p><b>Étym</b>. βουκέφαλος.`

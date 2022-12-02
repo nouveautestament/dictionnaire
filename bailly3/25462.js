@@ -1,0 +1,1 @@
+lar[25462]=`<b>δια·ρρινέω-ῶ</b> <font color="purple">[ρῑ]</font> (<i>seul. part. pf. pass</i>. διερρινημένος) percer en limant, limer à travers, ARSTT. <i>fr. 426</i> ; M. TYR. <i>2, 189 ; particul</i>. aléser (un trou) à la lime, HÉRON <i>Aut. 268</i>.`

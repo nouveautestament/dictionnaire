@@ -1,0 +1,1 @@
+lar[106777]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> prudent, sage, IL. <i>24, 354</i>.<p><b>Étym</b>. φράζω.`

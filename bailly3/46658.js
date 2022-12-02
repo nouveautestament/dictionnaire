@@ -1,0 +1,1 @@
+lar[46658]=`<b>θεο·είκελος, ος, ον</b>, semblable aux dieux, IL. <i>1, 131, etc.</i> ; OD. <i>3, 416</i> ; THÉM. <i>Or. 6, 79a</i>.<p><b>Étym</b>. θ. εἴκελος.`

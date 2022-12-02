@@ -1,0 +1,1 @@
+lar[94823]=`<b>εως (ἡ)</b> assemblée religieuse, ORIG. <i>2, 1013</i> ; NAZ. <i>1, 876</i> ; CHRYS. <i>7, 72 Migne</i>.<p><b>Étym</b>. συνάγω.`

@@ -1,0 +1,1 @@
+lar[94054]=`<b>συμ·πανηγυρίζω</b> <font color="purple">[ᾰῠ]</font> célébrer une fête <i>ou</i> des jeux avec, <i>dat</i>. DH. <i>4, 25</i> ; PLUT. <i>Demetr. 25</i> ; HDN <i>4, 9 ; abs</i>. DH. <i>Rhet. 2, 5</i>.`

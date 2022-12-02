@@ -1,0 +1,1 @@
+lar[8088]=`<b>ας (ἡ)</b> levée d’hommes, SPT. <i>2Macc. 12, 43</i>.<p><b>Étym</b>. <i>v</i>. ἀνδρολογέω.`

@@ -1,0 +1,1 @@
+lar[31737]=`<b>ἐκ·νοσηλεύω</b>, guérir à force de soins, PHIL. <i>1, 631 ; 2, 264</i>.`

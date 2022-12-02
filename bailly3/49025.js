@@ -1,0 +1,1 @@
+lar[49025]=`<b>οῦ (ὁ)</b> <i>c</i>. ἴνδαλμα ; <i>au plur</i>. Ἰνδαλμοί, <i>titre d’un poème de Timon de Phlionte,</i> DL. <i>9, 65, 105, c</i>. ἴνδαλμα.`

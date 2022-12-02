@@ -1,0 +1,1 @@
+lar[86994]=`<b>προ·φύω</b> (<i>seul. ao.2 intr</i>. προέφυν, <i>par contr</i>. προὔφυν) exister auparavant, SOPH. <i>Aj. 1291</i>.`

@@ -1,0 +1,1 @@
+lar[22801]=`<font color="purple">[ῠῡ]</font> <i>adv</i>., avec un cœur de femme, POL. <i>2, 8, 12</i>.`

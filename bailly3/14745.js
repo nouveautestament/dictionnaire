@@ -1,0 +1,1 @@
+lar[14745]=`<b>ἀριστο·πόσεια, ας (ἡ)</b> <font color="purple">[ᾰ]</font> excellente épouse, OPP. <i>C. 1, 6</i>.<p><b>Étym</b>. ἄ. πόσις.`

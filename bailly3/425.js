@@ -1,0 +1,1 @@
+lar[425]=`<i>adv</i>., à la façon des anges, ORIG. <i>3, 564 ; 4, 409 Migne</i> ; PROCL. <i>Plat. Tim. 298</i>.`

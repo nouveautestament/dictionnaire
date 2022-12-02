@@ -1,0 +1,1 @@
+lar[66027]=`<b>μισό·δημος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait le peuple <i>ou</i> la démocratie, AR. <i>Vesp. 474</i> ; PLAT. <i>Rsp. 566c ;</i> PLUT. <i>Alc. 21</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>Hell. 2, 3, 47</i>.<p><b>Étym</b>. μ. δῆμος.`

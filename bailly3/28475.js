@@ -1,0 +1,1 @@
+lar[28475]=`<b>δυσημερέω-ῶ</b> <font color="purple">[ῠ]</font> passer une mauvaise journée, <i>càd</i>. avoir des ennuis, éprouver un échec, être malheureux, PHÉRÉCR. (<i>Com. fr. 2, 296</i>) ; DH. <i>1, 57</i> ; PLUT. <i>M. 740a ;</i> ATH. <i>219e, 585c</i>.<p><b>Étym</b>. δυσήμερος.`

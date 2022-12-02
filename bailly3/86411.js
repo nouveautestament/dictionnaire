@@ -1,0 +1,1 @@
+lar[86411]=`<b>προσ·σταυρόω-ῶ</b>, entourer de palissades, <i>acc</i>. THC. <i>4, 9 (var</i>. προεσταύρωσε) ; APP. <i>Civ. 5, 33</i> (<i>var</i>. προεσταύρου).`

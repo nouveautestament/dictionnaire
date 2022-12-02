@@ -1,0 +1,1 @@
+lar[89093]=`<b>ας (ἡ)</b> Sagra, <i>fl. du Bruttium,</i> PLUT. <i>Æmil. 25</i>.`

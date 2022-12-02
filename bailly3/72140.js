@@ -1,0 +1,1 @@
+lar[72140]=`<b>ὀξυ·πείνης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m. c</i>. ὀξύπεινος PROCL. <i>Hes. O. 524</i>.`

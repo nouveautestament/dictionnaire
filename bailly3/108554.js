@@ -1,0 +1,1 @@
+lar[108554]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> action de tourner en dérision, raillerie, moquerie, DÉM. <i>705, 3</i> ; ARSTT. <i>Top. 6, 6, 6, etc</i>.<p><b>Étym</b>. χλευάζω.`

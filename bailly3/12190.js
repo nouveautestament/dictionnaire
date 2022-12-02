@@ -1,0 +1,1 @@
+lar[12190]=`<b>ἀπο·γεύω</b>, faire goûter à, ANTH. <i>4, 3, 39</i>.<br><b><i>Moy.</i></b> goûter à <i>ou</i> de, <i>gén</i>. PLAT. <i>Rsp. 354a ;</i> POL. <i>3, 57, 8, etc. ; fig</i>. PHIL. <i>2, 338, 392, 599</i>.`

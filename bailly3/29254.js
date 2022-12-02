@@ -1,0 +1,1 @@
+lar[29254]=`<font color="darkgreen">(<i>f</i>. ίσω) :</font><br><b>      1</b> passer le printemps (qqe part) XÉN. <i>An. 3, 5, 15</i> ; ATH. <i>513f</i> (<i>cf</i>. χειμάζω).<br><b>      2</b> avoir la fraîcheur <i>ou</i> l’aspect du printemps, PHIL. <i>2, 99</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 1, PLAT. <i>Ax. 371c</i>.<p><b>Étym</b>. ἔαρ.`

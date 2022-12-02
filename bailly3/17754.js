@@ -1,0 +1,1 @@
+lar[17754]=`<b>αὐτο·φόντης, ου (ὁ)</b> qui tue de sa main, meurtrier, EUR. <i>Med. 1269</i>.<p><b>Étym</b>. <i>cf</i>. αὐτοφόνος.`

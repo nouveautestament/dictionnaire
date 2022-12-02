@@ -1,0 +1,1 @@
+lar[106889]=`<i>seul</i>. <i>• Sup</i>. φρικωδέστατα <font color="purple">[ῑ]</font> <i>adv</i>., avec un frisson de terreur, DÉM. <i>644, 18</i>.<p><b>Étym</b>. φρικώδης.`

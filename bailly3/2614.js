@@ -1,0 +1,1 @@
+lar[2614]=`<b>αἱμο·σφαγεῖος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait couler le sang de la gorge, ESCHL. <i>Ag. 1092 Wei</i>.<p><b>Étym</b>. αἷ. σφάττω.`

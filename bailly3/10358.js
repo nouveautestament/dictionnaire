@@ -1,0 +1,1 @@
+lar[10358]=`<b>ἀντί·πυλος, ος, ον</b> <font color="purple">[ῠ]</font> dont les portes sont en face l’une de l’autre, HDT. <i>2, 148</i>.<p><b>Étym</b>. ἀ. πύλη.`

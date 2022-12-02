@@ -1,0 +1,1 @@
+lar[105624]=`<i>ion</i>. <b>Φιλησίη, ης (ἡ)</b> <font color="purple">[φῐ]</font> Philèsia, <i>f</i>. ANTH. <i>App. 259</i>.`

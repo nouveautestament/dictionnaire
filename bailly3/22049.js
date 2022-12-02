@@ -1,0 +1,1 @@
+lar[22049]=`<b>ου (τὸ)</b> <font color="purple">[ῑδ]</font> <i>c</i>. γλαυκινίδιον, ANTIPH. (ATH. <i>295d, 662b</i>).<p><b>Étym</b>. <i>dim. de</i> γλαῦκος.`

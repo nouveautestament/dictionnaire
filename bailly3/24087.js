@@ -1,0 +1,1 @@
+lar[24087]=`<i>forme réc. c</i>. δέχομαι, <i>prés</i>. ANTH. <i>9, 553 ; impér. 2 sg</i>. -υσο <font color="purple">[ῠ]</font> COL. <i>159</i> ; ORPH. <i>Lith. 692 ; 2 pl</i>. -υσθε, <i>ibid. 4 ; impf. 3 sg</i>. ἐδέχνυτο <font color="purple">[ῠ]</font> ORPH. <i>Arg. 566</i>.`

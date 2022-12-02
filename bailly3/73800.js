@@ -1,0 +1,1 @@
+lar[73800]=`<b>ατος (τὸ)</b> accroissement, <i>d’où</i> avantage, SOPH. <i>fr. 926 Dind</i>.<p><b>Étym</b>. ὀφέλλω².`

@@ -1,0 +1,1 @@
+lar[17852]=`<b>ή, όν</b>, propre à enlever <i>ou</i> à retrancher, <i>gén</i>. CLÉM. <i>286</i> ; DYSC. <i>Adv. 576, 2</i>.<p><b>Étym</b>. ἀφαιρέω.`

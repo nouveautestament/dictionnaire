@@ -1,0 +1,1 @@
+lar[89262]=`<b>Σαμο·θρᾴξ, ᾷκος</b> <font color="purple">[ᾰᾱκ]</font> <i>adj. m</i>. de Samothrace, CALL. <i>Ep. 48</i> ; PLUT. <i>Num. 13, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Σαμοθρᾷκες, Σαμοθρᾴκων, <i>v. Meisterh. p. 50, § 21, 1. Plur. ion</i>. Σαμοθρήϊκες, HDT. <i>2, 51 ; 8, 90</i>.<p><b>Étym</b>. Σ. Θρᾷξ ; <i>cf</i>. Σαμοθρᾴκη.`

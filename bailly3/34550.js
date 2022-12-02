@@ -1,0 +1,1 @@
+lar[34550]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> transport divin, <i>d’où</i> transport, <i>en gén</i>. PLAT. <i>Phædr. 249e</i>.<p><b>Étym</b>. ἐνθουσιάζω.`

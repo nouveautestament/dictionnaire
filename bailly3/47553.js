@@ -1,0 +1,1 @@
+lar[47553]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> espadon, <i>poisson</i>, XÉNOCR. <i>Al. 17</i>.`

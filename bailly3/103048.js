@@ -1,0 +1,1 @@
+lar[103048]=`<b>ὑπο·βρέχω</b> (<i>pf. pass</i>. ὑποβέβρεγμαι) :<br><b>      1</b> <i>tr.</i> : mouiller <i>ou</i> arroser légèrement, <i>particul</i>. de vin, ALEX. (ATH. <i>28e</i>) ; <i>au pass</i>. être légèrement ivre, LUC. <i>D. deor. 23, 2 ; Ic. 27, etc.</i><br><b>      2 <i>intr.</i></b> s’humecter le gosier, s’enivrer légèrement, ANTH. <i>11, 3, 5</i>.`

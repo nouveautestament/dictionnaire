@@ -1,0 +1,1 @@
+lar[43745]=`<b>ου (ὁ)</b> Euphrantidès, <i>devin athénien,</i> PHÆNIAS (PLUT. <i>Them. 13).</i><p><b>Étym</b>. εὐφραντός.`

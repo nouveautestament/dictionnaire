@@ -1,0 +1,1 @@
+lar[17615]=`<b>αὐτό·νοος-ους, οος-ους, οον-ουν</b>, qui a sa volonté propre, obstiné, opiniâtre, ESCHL. <i>Pr. 543 (conj. Dindorf au dat</i>. αὐτόνῳ).<p><b>Étym</b>. αὐ. νόος.`

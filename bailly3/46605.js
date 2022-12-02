@@ -1,0 +1,1 @@
+lar[46605]=`<b>θεο·βλαβής, ής, ές</b> <font color="purple">[ᾰ]</font> frappé de démence par les dieux, HDT. <i>1, 127 ; 8, 137</i>.<p><b>Étym</b>. θ. βλάπτω.`

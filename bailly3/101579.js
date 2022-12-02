@@ -1,0 +1,1 @@
+lar[101579]=`<b>ου (ὁ) :<br>      1</b> serpent d’eau, hydre, IL. <i>2, 723</i> ; BATR. <i>82</i> ; HDT. <i>2, 76</i> ; ARSTT. <i>H.A. 1, 1, 14 ; 2, 17, 23</i>.<br><b>      2</b> petit animal aquatique, ARTÉM. <i>4, 56</i>.<p><b>Étym</b>. <i>cf</i>. ὕδρα.`

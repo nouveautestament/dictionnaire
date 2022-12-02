@@ -1,0 +1,1 @@
+lar[76583]=`<b>παρ·εισγραφή, ῆς (ἡ)</b> <font color="purple">[ᾰφ]</font> inscription secrète <i>ou</i> frauduleuse, PLUT. <i>M. 756c</i>.`

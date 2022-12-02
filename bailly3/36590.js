@@ -1,0 +1,1 @@
+lar[36590]=`<b>εως (ἡ)</b> meurtre, destruction, POL. <i>2, 37, 8</i>.<p><b>Étym</b>. ἐπαναιρέω.`

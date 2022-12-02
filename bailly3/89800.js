@@ -1,0 +1,1 @@
+lar[89800]=`<b>σεμνό·ποτος, ος, ον</b>, qui est une boisson divine, ANTIPH. (<i>Com. fr. 3, 95).</i><p><b>Étym</b>. σ. πότος.`

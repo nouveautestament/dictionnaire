@@ -1,0 +1,1 @@
+lar[6614]=`<b>ἀναγκό·σιτος, ος, ον</b> <font color="purple">[ᾰνῑ]</font> contraint à manger, CRATÈS (ATH. <i>47e</i>).<p><b>Étym</b>. ἀ. σῖτος.`

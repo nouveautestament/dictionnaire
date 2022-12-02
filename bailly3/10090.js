@@ -1,0 +1,1 @@
+lar[10090]=`<b>εως (ἡ)</b> interversion, changement réciproque, DH. <i>Amm. 2, 10</i>.<p><b>Étym</b>. ἀντιμετατάσσω.`

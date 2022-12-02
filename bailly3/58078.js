@@ -1,0 +1,1 @@
+lar[58078]=`<b>ή, όν</b>, garni d’une frange <i>ou</i> d’une bordure, LYC. <i>1102</i> ; PLUT. <i>Luc. 28</i> ; SPT. <i>Ps. 44, 13</i>.<p><b>Étym</b>. κροσσός.`

@@ -1,0 +1,1 @@
+lar[31129]=`<b>ἐκ·γαλακτόω-ῶ</b> <font color="purple">[γᾰ]</font> (<i>prés. act. et pass</i>.) changer en lait, TH. <i>C.P. 3, 23, 1 ; au pass</i>. devenir laiteux, TH. <i>H.P. 8, 6, 1</i>.`

@@ -1,0 +1,1 @@
+lar[141]=`<b>ἄ·βολος, ος, ον</b>, qui n’a pas encore perdu ses premières dents (jeune cheval) SOPH. <i>fr. 363</i> ; PLAT. <i>Leg. 834c</i>.<p><b>Étym</b>. ἀ, βάλλω.`

@@ -1,0 +1,1 @@
+lar[78808]=`<b>περι·κομπέω-ῶ</b>, faire grand bruit alentour, JOS. <i>B.J. 1, 25, 2</i> ; SPT. <i>Sap. 17, 4</i>.`

@@ -1,0 +1,1 @@
+lar[81825]=`<b>πολυ·δάκτυλος, ος, ον</b> <font color="purple">[ῠῠ]</font> à plusieurs doigts, fissipède, ARSTT. <i>H.A. 2, 1, 30, etc</i>.`

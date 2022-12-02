@@ -1,0 +1,1 @@
+lar[17794]=`<b>αὐτο·ψυχή, ῆς (ἡ)</b> l’âme en soi, JUL. <i>Ep. 89b</i>, PLOT.`

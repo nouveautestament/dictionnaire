@@ -1,0 +1,1 @@
+lar[56282]=`<b>ου (τὸ) :<br>      1</b> racloir, grattoir, EROT. <i>p. 230</i>.<br><b>      2</b> sorte de laurier, <i>le même que</i> κνέωρος, HPC. <i>630, 3</i> ; DIOSC. <i>4, 173</i>.<p><b>Étym</b>. κνάω.`

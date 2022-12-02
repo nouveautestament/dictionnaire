@@ -1,0 +1,1 @@
+lar[34039]=`<b>ἐν·ασεβέω-ῶ</b> <font color="purple">[ᾰ]</font> traiter d’une manière impie, THÉMISTOCLE <i>Ep. 8</i>.`

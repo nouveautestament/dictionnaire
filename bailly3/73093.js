@@ -1,0 +1,1 @@
+lar[73093]=`<i>vb. de</i> ὀρύσσω, PHIL. BYZ. <i>Bel. 86d, etc</i>.`

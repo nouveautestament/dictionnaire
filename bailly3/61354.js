@@ -1,0 +1,1 @@
+lar[61354]=`<b>εος-ους (τὸ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> graisse d’animal, ARSTT. <i>Longæv. 5, 11</i> ; ANTH. <i>9, 377</i>.<br><b>      2</b> suc gras, huile, SOPH. <i>fr. 164</i>.<br><b>      3</b> <i>p. ext</i>. substance humide et brillante, <i>en parl. de sang,</i> ESCHL. <i>Ag. 1428</i>.<p><b>Étym</b>. λίπα.`

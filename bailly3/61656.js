@@ -1,0 +1,1 @@
+lar[61656]=`<b>ας (ἡ)</b> = <i>lat</i>. Luceria (<i>auj</i>. Lucera) <i>v. d’Apulie,</i> POL. <i>3, 88, etc</i>.`

@@ -1,0 +1,1 @@
+lar[64902]=`<b>μετα·πίνω</b> <font color="purple">[ῑ]</font> <font color="darkgreen">(<i>f</i>. -πίομαι, <i>etc</i>.)</font> boire ensuite, HPC. <i>393, 32</i>.`

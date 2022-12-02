@@ -1,0 +1,1 @@
+lar[103238]=`<b>ὑπο·ζωγραφέω-ῶ</b> <font color="purple">[ᾰ]</font> ébaucher une peinture, <i>d’où</i> peindre, figurer, EUM. <i>5, 1, etc</i>.`

@@ -1,0 +1,1 @@
+lar[74071]=`<b>ου (ὁ)</b> chef d’un village, BAS. <i>4, 236 Migne</i>.<p><b>Étym</b>. πάγος, ἄρχω.`

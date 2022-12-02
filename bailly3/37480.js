@@ -1,0 +1,1 @@
+lar[37480]=`<b>ου (τὸ)</b> épigonion, <i>harpe égyptienne à 40 cordes, ainsi nommée de son inventeur Épigonos,</i> ATH. <i>183c</i>.<p><b>Étym</b>. Ἐπίγονος.`

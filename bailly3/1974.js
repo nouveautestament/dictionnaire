@@ -1,0 +1,1 @@
+lar[1974]=`<b>ἄ·θελκτος, ος, ον</b>, qu’on ne peut adoucir, inflexible, ESCHL. <i>Suppl. 1056</i> ; LYC. <i>1335</i>.<p><b>Étym</b>. ἀ, θέλγω.`

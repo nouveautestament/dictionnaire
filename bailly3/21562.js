@@ -1,0 +1,1 @@
+lar[21562]=`<b>ου (ὁ)</b> Gélarkhos, <i>Athénien,</i> DÉM. <i>502, 17</i>.`

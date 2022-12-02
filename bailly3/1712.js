@@ -1,0 +1,1 @@
+lar[1712]=`<b>ἀει·φρούρητος, ος, ον</b>, toujours gardé, P. SIL. <i>Ecphr. ag. Soph. 300</i>.<p><b>Étym</b>. ἀ. φρουρέω.`

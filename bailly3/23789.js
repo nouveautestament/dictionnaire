@@ -1,0 +1,1 @@
+lar[23789]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> δέλτος, POL. <i>29, 11, 2</i>.`

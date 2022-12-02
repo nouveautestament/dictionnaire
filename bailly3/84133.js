@@ -1,0 +1,1 @@
+lar[84133]=`<b>προ·ελπίζω</b>, espérer longtemps avant, POSIDIPP. (ATH. <i>377c</i>) ; NT. <i>Eph. 1, 12, etc</i>.`

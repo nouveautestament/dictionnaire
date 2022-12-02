@@ -1,0 +1,1 @@
+lar[106184]=`<b>φιλο·φυσικός, ή, όν</b> <font color="purple">[ῐῠ]</font> qui aime la nature, <i>càd</i>. la puissance de la nature, GAL. <i>13, 554</i>.`

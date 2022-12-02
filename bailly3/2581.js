@@ -1,0 +1,1 @@
+lar[2581]=`<b>αἱμό·κερχνον, ου (τὸ)</b> toux sèche avec crachement de sang, HPC. (EROT. <i>p. 13).</i><p><b>Étym</b>. αἷ. κέρχνος.`

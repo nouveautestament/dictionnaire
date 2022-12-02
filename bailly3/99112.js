@@ -1,0 +1,1 @@
+lar[99112]=`<b>τιθέω-ῶ</b>, <i>c</i>. τίθημι, <i>seul. aux formes suiv. : prés. 2 sing</i>. τιθεῖς, PD. <i>P. 8, 8 ; 3 sg</i>. τιθεῖ, MIMNERME <i>1, 6 ; 5, 7 ; inf</i>. τιθεῖν, THGN. <i>286 ; impf</i>. ἐτίθουν, ἐτίθεις, ἐτίθει, ATT.`

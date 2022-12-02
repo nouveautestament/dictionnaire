@@ -1,0 +1,1 @@
+lar[16503]=`<b>ἀσυνεργητικός, ή, όν</b>, qui ne peut pas agir avec <i>ou</i> concourir à, PHILOD. <i>De sup. 15</i>.<p><b>Étym</b>. ἀσυνέργητος.`

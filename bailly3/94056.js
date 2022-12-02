@@ -1,0 +1,1 @@
+lar[94056]=`<b>συμ·παραβαδίζω</b> <font color="purple">[βᾰ]</font> marcher auprès avec, <i>dat</i>. THÉM. <i>272b</i>.`

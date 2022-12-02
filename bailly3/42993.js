@@ -1,0 +1,1 @@
+lar[42993]=`<b>εὐ·περίστατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui circonvient facilement, NT. <i>Hebr. 12, 1</i>.<p><b>Étym</b>. εὖ, περιΐστημι.`

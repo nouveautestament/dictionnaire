@@ -1,0 +1,1 @@
+lar[32494]=`<i>ou</i> <b>ἑλένη, ης (ἡ)</b> sorte de flambeau, ATH. <i>679d, 701a</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

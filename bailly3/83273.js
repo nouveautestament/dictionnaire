@@ -1,0 +1,1 @@
+lar[83273]=`<b>πρασίτης οἶνος (ὁ)</b> vin parfumé de marrube, DIOSC. <i>5, 58</i>.<p><b>Étym</b>. πράσιον.`

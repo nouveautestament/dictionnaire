@@ -1,0 +1,1 @@
+lar[65928]=`<b>μιξο·βόας, ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. mêlé de cris, ESCHL. <i>fr. 392</i>.<p><b>Étym</b>. μ. βοή.`

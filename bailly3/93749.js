@@ -1,0 +1,1 @@
+lar[93749]=`<font color="purple">[ᾰ]</font> épeler, PLUT. <i>M. 496f ;</i> LUC. <i>Gall. 23</i>.<p><b>Étym</b>. συλλαβή.`

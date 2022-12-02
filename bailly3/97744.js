@@ -1,0 +1,1 @@
+lar[97744]=`<b>ου (ὁ)</b> = <i>lat</i>. Tarchetius, <i>roi d’Albe,</i> PLUT. <i>Rom. 2</i>.`

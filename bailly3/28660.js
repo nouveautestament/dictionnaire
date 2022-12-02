@@ -1,0 +1,1 @@
+lar[28660]=`<font color="purple">[ᾰῑ]</font> <i>adv</i>., de manière à ne pouvoir être facilement déplacé, A. TR. <i>91</i>.`

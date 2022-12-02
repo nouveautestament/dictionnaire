@@ -1,0 +1,1 @@
+lar[88687]=`<b>Ῥοδ·ίππη, ης (ἡ)</b> Rhodippè, <i>litt</i>. « jument rosée », <i>f</i>. AR. <i>Lys. 370</i>.<p><b>Étym</b>. ῥόδιος, ἵππος.`

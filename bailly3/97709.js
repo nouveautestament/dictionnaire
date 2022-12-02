@@ -1,0 +1,1 @@
+lar[97709]=`<b>ου (ὁ)</b> Tarrhias, <i>h</i>. PLUT. <i>Alex. fort. 2, 7</i>.`

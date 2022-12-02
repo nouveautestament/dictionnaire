@@ -1,0 +1,1 @@
+lar[84885]=`<b>προ·παλής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. προπετής, ADAM. <i>Physiogn. 2, 1</i>.<p><b>Étym</b>. π. πάλλω.`

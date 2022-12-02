@@ -1,0 +1,1 @@
+lar[71332]=`<b>ὅμ·αυλος, ος, ον</b>, dont la flûte est à l’unisson ; <i>fig</i>. qui est en harmonie, SOPH. <i>O.R. 187</i>.<p><b>Étym</b>. ὁμός, αὐλός.`

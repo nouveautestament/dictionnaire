@@ -1,0 +1,1 @@
+lar[58340]=`<b>ῆς (ἡ)</b> Kyanè, <i>f</i>. PLAT. <i>Theag. 125e</i>.`

@@ -1,0 +1,1 @@
+lar[2510]=`<b>ου (ὁ)</b> SCYMN. <i>575 (par contr</i>. Αἶκλος, ALCM. <i>66</i>) Aïklos <i>ou</i> Æklos, <i>fondateur d’Érétria</i>.`

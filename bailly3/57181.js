@@ -1,0 +1,1 @@
+lar[57181]=`<b>κορυμβόω-ῶ</b>, relever une coiffure en touffe, N. DAM. <i>p. 450</i>.<p><b>Étym</b>. κόρυμβος.`

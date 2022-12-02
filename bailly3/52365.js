@@ -1,0 +1,1 @@
+lar[52365]=`<b>κατα·δωροδοκέω-ῶ :<br>      1 <i>tr.</i></b> corrompre par des présents, <i>d’où au pass</i>. se laisser corrompre par des présents, AR. <i>Ran. 361</i> ; ARSTT. <i>Pol. 2, 9</i>.<br><b>      2 <i>intr.</i></b> se laisser corrompre par des présents, AR. <i>Vesp. 1036</i> ; LYS. <i>178, 6</i>.`

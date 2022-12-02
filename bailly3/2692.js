@@ -1,0 +1,1 @@
+lar[2692]=`<b>αἰνο·λαμπής, ής, ές</b>, à la lueur effrayante, ESCHL. <i>Ag. 389</i>.<p><b>Étym</b>. αἰν. λάμπω.`

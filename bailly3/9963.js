@@ -1,0 +1,1 @@
+lar[9963]=`<b>ἀντι·κινέω-ῶ</b> <font color="purple">[κῑ]</font> mouvoir contre <i>ou</i> en sens contraire, ARSTT. <i>Mem. 2, 29</i> ; PHIL. <i>2, 22</i>.<br><b><i>Moy.</i></b> se mettre en mouvement contre, <i>avec</i> πρός <i>et l’acc</i>. POL. <i>2, 66, 3</i>.`

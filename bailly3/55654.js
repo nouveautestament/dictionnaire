@@ -1,0 +1,1 @@
+lar[55654]=`<b>ή, όν</b>, couvert <i>ou</i> couronné de lierre, ANTH. <i>6, 172</i>.<p><b>Étym</b>. <i>vb. de</i> κισσόω.`

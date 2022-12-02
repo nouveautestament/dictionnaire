@@ -1,0 +1,1 @@
+lar[51888]=`<b>καρπο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> trop abondant en fruits, <i>fig</i>. SOPH. <i>fr. 591</i>.<p><b>Étym</b>. κ. μαίνομαι.`

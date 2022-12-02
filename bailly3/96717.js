@@ -1,0 +1,1 @@
+lar[96717]=`<b>συ·στρογγυλίζω</b> <font color="purple">[γῠ]</font> <i>c</i>. συστρογγύλλω NICOM. COM. (ATH. <i>58a</i>).`

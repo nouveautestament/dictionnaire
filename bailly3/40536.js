@@ -1,0 +1,1 @@
+lar[40536]=`<b>ἐρί·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> qui a de l’or en abondance, ANTH. <i>9, 785</i> ; P. SIL. <i>Ecphr. ag. Soph. 1012</i>.<p><b>Étym</b>. ἐρι-, χρυσός.`

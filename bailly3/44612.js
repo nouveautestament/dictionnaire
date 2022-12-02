@@ -1,0 +1,1 @@
+lar[44612]=`<b>εως (ἡ)</b> action d’obscurcir, obscurcissement, NYSS. <i>2, 891</i>.<p><b>Étym</b>. ζοφόω.`

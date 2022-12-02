@@ -1,0 +1,1 @@
+lar[45486]=`<b>ἡμί·μηδος, ος, ον</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. à moitié mède, ŒNOM. (EUS. <i>P.E. 213b</i>).<p><b>Étym</b>. ἡμι-, Μῆδος, <i>cf</i>. ἡμιπέρσης.`

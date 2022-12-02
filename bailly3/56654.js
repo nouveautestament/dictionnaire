@@ -1,0 +1,1 @@
+lar[56654]=`<b>κολλυριο·ποιέω-ῶ</b> <font color="purple">[ῡ]</font> fabriquer des collyres (emplâtres <i>ou</i> onguents) DIOSC. <i>Par. 1, 207</i>.<p><b>Étym</b>. κολλύριον, ποιέω.`

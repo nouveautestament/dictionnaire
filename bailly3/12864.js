@@ -1,0 +1,1 @@
+lar[12864]=`<b>ἀπο·μαραίνω</b> <font color="purple">[μᾰ]</font> flétrir, faire dépérir, BAS. <i>2, 126 ; d’ord. au pass</i>. se consumer, dépérir, XÉN. <i>Ap. 7 ; en parl. de choses,</i> XÉN. <i>Conv. 8, 14</i> ; PLAT. <i>Rsp. 328d, etc.</i> ; ARSTT. <i>Meteor. 2, 8, 4, etc</i>.`

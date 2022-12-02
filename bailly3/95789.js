@@ -1,0 +1,1 @@
+lar[95789]=`<b>συν·έταιρος, ου (ὁ)</b> compagnon, camarade, HDT. <i>7, 193</i> ; SPT. <i>Gen. 26, 26 ; Dan. 2, 17</i>.<p><b>Étym</b>. σύν, ἑταῖρος.`

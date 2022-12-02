@@ -1,0 +1,1 @@
+lar[28820]=`<b>δύσ·πλοος-ους, οος-ους, οον-ουν</b>, dangereux aux navigateurs, ANTH. <i>7, 275</i>.<p><b>Étym</b>. δ. πλέω.`

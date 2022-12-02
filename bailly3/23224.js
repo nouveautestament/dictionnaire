@@ -1,0 +1,1 @@
+lar[23224]=`<b>ου (ὁ)</b> Daos, <i>n. d’esclave, particul. dans la comédie athénienne,</i> LUC. <i>Salt. 29</i> ; ANTH. <i>14, 123</i> ; COM.<p><b>Étym</b>. <i>p</i>. *Δᾶϝος = <i>lat</i>. Davus.`

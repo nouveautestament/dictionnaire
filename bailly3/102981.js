@@ -1,0 +1,1 @@
+lar[102981]=`<b>ὑπν·απάτης, ου</b> <font color="purple">[ᾰᾰ]</font> <i>adj. m</i>. qui charme (<i>litt</i>. qui trompe) le sommeil par de douces illusions, ANTH. <i>5, 165, 197</i>.<p><b>Étym</b>. ὑ. ἀπατάω.`

@@ -1,0 +1,1 @@
+lar[85094]=`<b>προσ·αιθρίζω</b>, faire monter vers le ciel, <i>acc</i>. ESCHL. <i>Ag. 301</i>.`

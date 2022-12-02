@@ -1,0 +1,1 @@
+lar[99419]=`<b>ατος (τὸ)</b> <i>mauv. prononc. de</i> κλῆμα, LUC. <i>J. voc. 11</i>.`

@@ -1,0 +1,1 @@
+lar[23394]=`<b>ή, όν</b>, préparé avec du laurier, GEOP. <i>12, 39, 6</i>.<p><b>Étym</b>. <i>vb. de</i> δαφνόω.`

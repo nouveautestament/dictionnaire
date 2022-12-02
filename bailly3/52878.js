@@ -1,0 +1,1 @@
+lar[52878]=`<b>κατα·μωλωπίζω</b>, couvrir de contusions, meurtrir, NYSS. <i>2, 569</i>.`

@@ -1,0 +1,1 @@
+lar[7111]=`<i>adv</i>., immuablement, CHRYS. <i>6, 963</i>.`

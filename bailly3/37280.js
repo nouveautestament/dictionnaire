@@ -1,0 +1,1 @@
+lar[37280]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Épèritos, OD. <i>24, 306</i>.`

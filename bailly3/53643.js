@@ -1,0 +1,1 @@
+lar[53643]=`<b>ᾶς (ἡ)</b> perte, destruction, ruine, EUR. <i>Ion 1236</i> ; POL. <i>1, 49, 4, etc. ; fig</i>. ESCHL. <i>Ch. 211</i>.<p><b>Étym</b>. καταφθείρω.`

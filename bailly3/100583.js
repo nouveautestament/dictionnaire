@@ -1,0 +1,1 @@
+lar[100583]=`<b>Τρι·φάλης, ητος (ὁ)</b> <font color="purple">[ῐᾰ]</font> l’homme au triple φάλης, <i>titre d’une comédie d’Aristophane,</i> LUC. <i>Fug. 32</i>.`

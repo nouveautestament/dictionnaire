@@ -1,0 +1,1 @@
+lar[102398]=`<b>ὑπερ·δομέω-ῶ</b>, construire au-dessus, JOS. <i>B.J. 6, 3, 2</i>.`

@@ -1,0 +1,1 @@
+lar[59151]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> qu’on peut <i>ou</i> qu’il faut empêcher, ARR. <i>Epict. 2, 5, 8</i>.<p><b>Étym</b>. <i>vb. de</i> κωλύω.`

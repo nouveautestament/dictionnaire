@@ -1,0 +1,1 @@
+lar[20712]=`<b>βραχύ·πνοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> qui a la respiration courte, HPC. <i>1098a</i>.<p><b>Étym</b>. βρ. πνέω.`

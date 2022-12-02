@@ -1,0 +1,1 @@
+lar[109952]=`<b>ψυχάω-ῶ</b> <font color="purple">[ῡ]</font> rafraîchir, <i>seul. moy</i>. ψυχάομαι -ῶμαι, se rafraîchir, EL. <i>V.H. 3, 1</i>.<p><b>Étym</b>. ψῦχος.`

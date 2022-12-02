@@ -1,0 +1,1 @@
+lar[44864]=`<b>οῦ</b>, <i>adj. m</i>. qui est dans la force de la jeunesse, EUR. <i>Her. 858</i> ; ὁ ἡβ. HH. <i>Merc. 56</i> ; EUR. <i>fr. 324, 5</i> ; ANTH. <i>7, 627,</i> adolescent.<p>➳ <i>Dor</i>. ἁβατάς <font color="purple">[ᾱᾱᾱ]</font> CALL. <i>L. Pall. 109</i>.<p><b>Étym</b>. ἡβάω, <i>cf</i>. ἡβητήρ.`

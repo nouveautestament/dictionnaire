@@ -1,0 +1,1 @@
+lar[31940]=`<b>ἐκ·πρίασθαι</b> <font color="purple">[ῐ]</font> (<i>inf. ao.2</i>) :<br><b>      1</b> acheter : τι παρά τινος, ISOCR. <i>31b</i>, qqe ch. à qqn ; χρήμασί τι, ANT. <i>136, 36,</i> qqe ch. à prix d’argent.<br><b>      2</b> acheter, corrompre : τινα, LYS. <i>159, 20,</i> qqn.`

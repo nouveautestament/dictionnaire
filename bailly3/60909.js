@@ -1,0 +1,1 @@
+lar[60909]=`<b>ου (ὁ)</b> Libanios, <i>rhéteur d’Antioche du 4<sup>e</sup> siècle après J.-C</i>.<p><b>Étym</b>. Λίβανος.`

@@ -1,0 +1,1 @@
+lar[59685]=`<b>λαμπαδη·κόμος, ος, ον</b> <font color="purple">[πᾰ]</font> qui prend soin des flambeaux, SYN. <i>74d</i>.<p><b>Étym</b>. λαμπάς, κομέω.`

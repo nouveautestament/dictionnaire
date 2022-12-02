@@ -1,0 +1,1 @@
+lar[67388]=`<b>Μυρτώσιον αἶπος (τὸ)</b> la hauteur de Myrtô, <i>lieu près de Cyrène, c</i>. Μύρτουσσα, A.RH. <i>2, 505</i>.`

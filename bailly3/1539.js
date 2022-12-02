@@ -1,0 +1,1 @@
+lar[1539]=`<b>ή, όν</b> <font color="purple">[ᾰκ]</font> de l’Adriatique, ANTH. <i>6, 257</i>.<p><b>Étym</b>. Ἀδρίας.`

@@ -1,0 +1,1 @@
+lar[47337]=`<b>θηρο·φυλάκιον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> ménagerie, THÉM. <i>91c</i>.<p><b>Étym</b>. θ. φύλαξ.`

@@ -1,0 +1,1 @@
+lar[48562]=`<b>ος, ον</b>, propre aux sacrifices, PLUT. <i>M. 729c</i>.<p><b>Étym</b>. ἱερεύω.`

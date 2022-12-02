@@ -1,0 +1,1 @@
+lar[12450]=`<b>ας (ἡ)</b> émigration, <i>en parl. de la captivité des Juifs,</i> SPT. <i>2Esdr. 6, 16, etc. ; 2Reg. 24, 15 et 47</i>.<p><b>Étym</b>. ἀποικέω.`

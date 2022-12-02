@@ -1,0 +1,1 @@
+lar[86864]=`<b>ῆς (ἡ)</b> service qu’on rend le premier à qqn, ARSTT. <i>Nic. 9, 2, 5</i>.<p><b>Étym</b>. προϋπάρχω.`

@@ -1,0 +1,1 @@
+lar[38800]=`<b>ἐπι·προβαίνω</b>, s’avancer sur <i>ou</i> vers, DP. <i>128</i>.`

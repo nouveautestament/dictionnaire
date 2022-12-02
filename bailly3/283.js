@@ -1,0 +1,1 @@
+lar[283]=`<b>Ἀγα·κλέης</b>, <i>gén. épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agakléès, <i>Myrmidon,</i> IL. <i>16, 571</i>.<p><b>Étym</b>. <i>v</i>. ἀγακλεής.`

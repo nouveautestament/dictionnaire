@@ -1,0 +1,1 @@
+lar[19739]=`<b>ου (τὸ)</b> <font color="purple">[βῑ]</font> petite amphore, DIOSC. <i>2, 96</i> ; GEOP. <i>10, 69, 1</i>.<p><b>Étym</b>. <i>dim. de</i> βῖκος.`

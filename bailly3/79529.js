@@ -1,0 +1,1 @@
+lar[79529]=`<b>περιτροπέω-ῶ</b> (<i>seul. part. prés</i>. περιτροπέων) :<br><b>      1</b> tourner tout autour, accomplir sa révolution, <i>en parl. du temps,</i> IL. <i>2, 295</i>.<br><b>      2</b> tourner en tous sens <i>ou</i> à travers, parcourir, <i>abs</i>. OD. <i>9, 465 ; avec l’acc</i>. HH. <i>Merc. 542</i>.<p><b>Étym</b>. περίτροπος.`

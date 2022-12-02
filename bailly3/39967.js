@@ -1,0 +1,1 @@
+lar[39967]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> qui a lieu le dix-septième jour, HPC. <i>Aph. 1250</i>.<p><b>Étym</b>. ἑπτακαιδέκατος.`

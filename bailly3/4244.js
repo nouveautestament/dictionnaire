@@ -1,0 +1,1 @@
+lar[4244]=`<b>(ὁ)</b> Alexas, <i>h</i>. PLUT. <i>Ant. 66, 72, etc</i>.`

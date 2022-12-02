@@ -1,0 +1,1 @@
+lar[83236]=`<b>Πραξι·δίκη, ης (ἡ)</b> <font color="purple">[ῐῐ]</font> Praxidikè :<br><b>      1</b> <i>déesse de la vengeance,</i> ORPH. <i>Arg. 31</i> ; PAUS. <i>3, 22, 2, etc.</i><br><b>      2</b> <i>f</i>. ANTH. <i>6, 136</i>.<p>➳ <i>Ion</i>. Πρηξιδίκη, ANTH. <i>l. c</i>.<p><b>Étym</b>. πράξις, δίκη.`

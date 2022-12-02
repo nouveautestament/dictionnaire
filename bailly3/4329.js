@@ -1,0 +1,1 @@
+lar[4329]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> véridique, ARSTT. <i>Nic. 4, 7</i>.`

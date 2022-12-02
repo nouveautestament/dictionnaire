@@ -1,0 +1,1 @@
+lar[96262]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> atteint de consomption, PHILSTR. <i>V. soph. 2, 1, 15</i>.<p><b>Étym</b>. συντήκω.`

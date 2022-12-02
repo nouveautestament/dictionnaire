@@ -1,0 +1,1 @@
+lar[23956]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Derkylos, <i>h</i>. AR. <i>Vesp. 78</i> ; ESCHN. DÉM. <i>etc</i>.`

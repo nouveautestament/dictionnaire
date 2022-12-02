@@ -1,0 +1,1 @@
+lar[5224]=`<b>ἁμάξ·οικος, ος, ον</b> <font color="purple">[ᾰμ]</font> qui habite dans un chariot, STR. <i>296, 249</i>.<p><b>Étym</b>. ἅ. οἰκέω.`

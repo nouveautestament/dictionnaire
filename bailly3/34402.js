@@ -1,0 +1,1 @@
+lar[34402]=`<b>α, ον</b>, de Vénétie, <i>en Paphlagonie,</i> A.RH. <i>2, 358</i>.<p><b>Étym</b>. Ἐνετοί.`

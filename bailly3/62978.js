@@ -1,0 +1,1 @@
+lar[62978]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰρο]</font> brillant, resplendissant, SOPH. <i>Ant. 610</i>.<p><b>Étym</b>. μάρμαρος.`

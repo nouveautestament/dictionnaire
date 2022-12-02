@@ -1,0 +1,1 @@
+lar[42541]=`<b>ή, όν</b>, qui exprime un vœu, votif (chant, <i>etc</i>.) MÉN. RHÉT. <i>9, 136 W.</i> ; PROCL. <i>Chrest. p. 389 Gaisf.</i> ; ἡ εὐκτικὴ ἔγκλισις, D. THR. <i>638, 7</i> : DYSC. <i>Synt. p. 212, 8, 14,</i> l’optatif, <i>t. de gramm</i>.<p><b>Étym</b>. εὔχομαι.`

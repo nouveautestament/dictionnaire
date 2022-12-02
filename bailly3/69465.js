@@ -1,0 +1,1 @@
+lar[69465]=`<b>ξενο·δώτης, ου</b>, <i>adj. m</i>. qui procure des hôtes, <i>ép. de Dionysos,</i> ANTH. <i>9, 524, 15</i>.<p><b>Étym</b>. ξ. δίδωμι.`

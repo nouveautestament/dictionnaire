@@ -1,0 +1,1 @@
+lar[95799]=`<b>συν·ευαστήρ, ῆρος (ὁ)</b> qui prend part aux fêtes de Bacchus, ORPH. <i>H. 1, 34</i>.<p><b>Étym</b>. σ. εὐάζω.`

@@ -1,0 +1,1 @@
+lar[98480]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> étendu, allongé, long, ANTH. <i>6, 204</i> ; TH. <i>H.P. 3, 11, 2</i>.<br><b>      2</b> <i>p. suite,</i> rigide, HPC. <i>Fract. 751</i>.<br><b>      3</b> lisse, uni, sans pli <i>ou</i> sans ride, LYCUS (ATH. <i>69e</i>), NIC. <i>Al. 343, 464</i>.<p><b>Étym</b>. τείνω.`

@@ -1,0 +1,1 @@
+lar[44370]=`<b>ου</b>, <i>adj. m</i>. de Zanklè, HDT. <i>6, 23, etc</i>.<p><b>Étym</b>. Ζάγκλη.`

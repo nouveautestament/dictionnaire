@@ -1,0 +1,1 @@
+lar[27439]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Dolikhos, <i>h</i>. HH. <i>Cer. 155</i>.<p><b>Étym</b>. δολιχός.`

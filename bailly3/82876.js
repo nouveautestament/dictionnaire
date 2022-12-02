@@ -1,0 +1,1 @@
+lar[82876]=`<b>πορφυρό·νωτος, ος, ον</b> <font color="purple">[ῠ]</font> au dos, <i>càd</i>. à la surface empourprée, NONN. <i>D. 44, 56</i>.<p><b>Étym</b>. π. νῶτος.`

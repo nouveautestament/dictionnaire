@@ -1,0 +1,1 @@
+lar[84522]=`<b>προ·κατέδω</b>, dévorer auparavant, LUC. <i>Hes. 7</i>.`

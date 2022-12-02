@@ -1,0 +1,1 @@
+lar[15793]=`<b>ἄ·σεμνος, ος, ον</b>, peu grave, peu digne, malséant, ARSTT. <i>Mund. 6, 13</i> ; DH. <i>Comp. 18</i>.<p><b>Étym</b>. ἀ, σεμνός.`

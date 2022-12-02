@@ -1,0 +1,1 @@
+lar[10670]=`<b>ἀντρο·ειδής, ής, ές</b>, semblable à une caverne, PLUT. <i>M. 896e</i>.<p><b>Étym</b>. ἄντρον, εἶδος.`

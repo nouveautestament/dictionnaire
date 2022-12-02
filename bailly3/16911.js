@@ -1,0 +1,1 @@
+lar[16911]=`<i>ou mieux</i> <b>ἀτρακτυλλίς, ίδος (ἡ)</b> sorte de chardon (<i>Carthamus lanatus</i> L.) <i>dont la tige servait à fabriquer des fuseaux,</i> XÉN. <i>Cyn. 9, 15</i> ; ARSTT. TH. ; THCR. <i>Idyl. 4, 52</i>.<p><b>Étym</b>. ἄτρακτος.`

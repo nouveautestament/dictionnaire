@@ -1,0 +1,1 @@
+lar[60354]=`<b>λέπ·αργος, ος, ον</b>, qui a la peau blanche, blanc, ESCHL. (ARSTT. <i>H.A. 9, 49</i>) ; THCR. <i>Idyl. 4, 45</i> ; ὁ λ. NIC. <i>Th. 349,</i> l’animal à peau blanche <i>ou</i> grise, l’âne.<p><b>Étym</b>. λέπος, ἀργός.`

@@ -1,0 +1,1 @@
+lar[19458]=`<i>adv</i>., de force, par nécessité, DS. <i>3, 25</i>.<p><b>Étym</b>. <i>part. pf. de</i> βιάζομαι.`

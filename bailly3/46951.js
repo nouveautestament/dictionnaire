@@ -1,0 +1,1 @@
+lar[46951]=`<b>Θερμο·λέπυρος, ου (ὁ)</b> Plat-chaud, <i>n. de parasite,</i> ALCIPHR. <i>1, 20</i>.<p><b>Étym</b>. θ. λεπυρός.`

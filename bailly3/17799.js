@@ -1,0 +1,1 @@
+lar[17799]=`<b>αὐτ·ωνητής, οῦ (ὁ)</b> qui achète soi-même <i>ou</i> pour soi-même, DIN. (POLL. <i>3, 81).</i><p><b>Étym</b>. αὐ. ὠνέομαι.`

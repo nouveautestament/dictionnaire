@@ -1,0 +1,1 @@
+lar[14308]=`<b>ἀργύρ·ασπις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῠῐδ]</font> qui porte un bouclier d’argent ; <i>au plur</i>. les Argyraspides, <i>corps d’élite de l’armée macédonienne,</i> POL. <i>5, 79, 4, etc</i>.<p><b>Étym</b>. ἄργυρος, ἀσπίς.`

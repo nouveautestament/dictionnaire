@@ -1,0 +1,1 @@
+lar[75185]=`<b>παν·τάλας, αινα, αν</b> <font color="purple">[ᾰλᾱ ᾰν]</font> tout à fait infortuné, ESCHL. <i>Pers. 638</i> ; EUR. <i>Andr. 140, Hec. 667</i>.<p><b>Étym</b>. π. τάλας.`

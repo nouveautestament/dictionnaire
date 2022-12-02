@@ -1,0 +1,1 @@
+lar[6481]=`<i>adv</i>., sans reproche, HDT. <i>3, 82</i>.`

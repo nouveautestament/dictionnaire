@@ -1,0 +1,1 @@
+lar[3887]=`<b>ἀκρό·ψιλος, ος, ον</b> <font color="purple">[ῑ]</font> chauve <i>ou</i> sans poils dans la partie supérieure, HPC. <i>1133e</i>.<p><b>Étym</b>. ἄ. ψιλός.`

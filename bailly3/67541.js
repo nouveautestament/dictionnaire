@@ -1,0 +1,1 @@
+lar[67541]=`<b>μωρολογέω-ῶ</b>, dire des sottises, PLUT. <i>M. 175c ; avec un acc</i>. ARCHESTR. (ATH. <i>163d</i>).<p><b>Étym</b>. μωρολόγος.`

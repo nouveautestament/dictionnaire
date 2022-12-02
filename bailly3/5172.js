@@ -1,0 +1,1 @@
+lar[5172]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμ]</font> Amæa, <i>autre n. de Dèmèter,</i> ANTH. <i>5, 233</i>.`

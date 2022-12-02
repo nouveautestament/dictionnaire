@@ -1,0 +1,1 @@
+lar[32474]=`<b>ου (τὸ)</b> local pour la fabrication de l’huile, DL. <i>1, 26</i>.<p><b>Étym</b>. ἔ. ἔργον.`

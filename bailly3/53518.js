@@ -1,0 +1,1 @@
+lar[53518]=`<b>κατα·σχηματίζω</b> <font color="purple">[μᾰ]</font> former, façonner, figurer, ISOCR. <i>226a ;</i> PLUT. <i>Rom. 26</i>.<br><b><i>Moy.</i></b> se conformer : πρὸς τὸ καλόν, PLUT. <i>Lyc. 57,</i> à ce qui est bien.`

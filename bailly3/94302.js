@@ -1,0 +1,1 @@
+lar[94302]=`<b>συμ·ποιέω-ῶ :<br>      1</b> faire avec <i>ou</i> ensemble, collaborer : τινί τι, AR. <i>fr. 231b ; ou</i> τι μετά τινος, SCH.-AR. <i>Nub. 857,</i> qqe ch. avec qqn.<br><b>      2</b> aider à faire, venir en aide : τι, AND. <i>9, 8</i> ; IS. <i>70, 29, etc</i>. pour qqe ch.`

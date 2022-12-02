@@ -1,0 +1,1 @@
+lar[78003]=`<b>πεντα·μοιρία, ας (ἡ)</b> espace divisé en cinq parties, P. ALEX. <i>Apot. 35, p. 94, l. 10 Boer</i>.`

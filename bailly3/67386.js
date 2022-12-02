@@ -1,0 +1,1 @@
+lar[67386]=`<b>ωνος</b>, <i>adj. m</i>. délicat, efféminé, LUC. <i>Lex. 12</i>.<p><b>Étym</b>. μύρτος.`

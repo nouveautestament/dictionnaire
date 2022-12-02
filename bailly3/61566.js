@@ -1,0 +1,1 @@
+lar[61566]=`<b>ου (ὁ)</b> Lothronos, <i>autre n. du fl. Vulturnus,</i> PLUT. <i>Fab. 6</i>.`

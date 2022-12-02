@@ -1,0 +1,1 @@
+lar[94685]=`<b>συν·αναβιβάζω</b> <font color="purple">[ῐ]</font> reporter en arrière en même temps, ORIB. <i>p. 161, 164 Mai ; en parl. de l’accent,</i> DYSC. <i>Adv. p. 545, 8</i>.`

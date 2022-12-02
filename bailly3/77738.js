@@ -1,0 +1,1 @@
+lar[77738]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. Πελασγικός CALL. <i>L. Pall. 4</i> ; NONN. <i>D. 28, 34, etc</i>.`

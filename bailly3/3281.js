@@ -1,0 +1,1 @@
+lar[3281]=`<b>ἀκερματιάω-ῶ</b> (<i>seul. prés</i>.) <font color="purple">[μᾰ]</font> manquer de monnaie, AR. <i>fr. 119</i>.<p><b>Étym</b>. ἀ, κέρμα.`

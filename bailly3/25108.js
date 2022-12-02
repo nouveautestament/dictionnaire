@@ -1,0 +1,1 @@
+lar[25108]=`<b>δι·ανακύπτω :<br>      1</b> relever la tête, ARISTÉAS <i>p. 237</i>.<br><b>      2</b> <i>p. suite,</i> regarder avec attention, PHIL. <i>1, 383</i>.`

@@ -1,0 +1,1 @@
+lar[86932]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> προφασίζομαι, ARSTT. <i>Rhet. Al. 30, 16</i>.`

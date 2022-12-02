@@ -1,0 +1,1 @@
+lar[74138]=`<b>ή, όν</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> qui concerne la lutte du pancrace, PLAT. <i>Euthyd. 272a.</i><br><b>      2</b> qui lutte <i>ou</i> s’exerce au pancrace, ARSTT. <i>Rhet. 1, 5, 14</i>.<p><b>Étym</b>. παγκρατιάζω.`

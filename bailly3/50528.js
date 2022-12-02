@@ -1,0 +1,1 @@
+lar[50528]=`<i>ou</i> <b>Καιδίκιος, ου (ὁ)</b> = <i>lat</i>. Cædicius, <i>n. d’h. rom</i>. PLUT. <i>Fort. Rom. 5</i>.`

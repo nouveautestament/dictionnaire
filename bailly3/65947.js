@@ -1,0 +1,1 @@
+lar[65947]=`<b>ας (ἡ)</b> <font color="purple">[ῑᾰγᾰ]</font> haine du bien, PLUT. <i>Phoc. 27</i>.<p><b>Étym</b>. μισάγαθος.`

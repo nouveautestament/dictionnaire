@@ -1,0 +1,1 @@
+lar[57597]=`<b>κραταί·βολος, ος, ον</b> <font color="purple">[ᾰ]</font> lancé avec force, EUR. <i>Bacch. 1096</i>.<p><b>Étym</b>. κράτος, βάλλω.`

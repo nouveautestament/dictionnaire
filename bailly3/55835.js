@@ -1,0 +1,1 @@
+lar[55835]=`<b>ῆς (ἡ)</b> Kleinè (<i>litt</i>. la Glorieuse) <i>f</i>. ANTH. <i>9, 550</i>.<p><b>Étym</b>. <i>fém. de</i> κλεινός.`

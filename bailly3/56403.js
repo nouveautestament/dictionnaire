@@ -1,0 +1,1 @@
+lar[56403]=`<b>η, ον</b>, fait de feuilles de palmier, STR. <i>824</i>.<p><b>Étym</b>. κόϊξ.`

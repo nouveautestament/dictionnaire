@@ -1,0 +1,1 @@
+lar[2845]=`<i>(seul. prés.) c</i>. αἰσθάνομαι, THC. <i>5, 26</i> ; PLAT. <i>Rsp. 608a ;</i> ISOCR. <i>27d ;</i> CLÉM. <i>1, 1121 Migne, etc</i>.`

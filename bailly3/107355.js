@@ -1,0 +1,1 @@
+lar[107355]=`<b>ᾶ (ὁ)</b> Phôkas (Phocas) <i>h</i>. ANTH. <i>9, 772</i>.`

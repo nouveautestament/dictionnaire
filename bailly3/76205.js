@@ -1,0 +1,1 @@
+lar[76205]=`<b>οῦ (ὁ)</b> qui prépare, <i>d’où</i> ministre, serviteur, PLAT. <i>Gorg. 518c, etc</i>.<p><b>Étym</b>. παρασκευάζω.`

@@ -1,0 +1,1 @@
+lar[91580]=`<b>οῦ (ὁ)</b> celui qui pèche contre les règles du langage, <i>titre d’un dialogue de Lucien</i>.<p><b>Étym</b>. σολοικίζω.`

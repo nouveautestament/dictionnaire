@@ -1,0 +1,1 @@
+lar[67467]=`<b>α, ον</b> <font color="purple">[ῠ]</font> qui est au fond, profond, intérieur, ESCHL. <i>Pers. 878</i> ; ARSTT. <i>Mund. 4</i> ; A.RH. <i>2, 742</i> ; ANTH. <i>App. 355, 3</i> ; LUC. <i>D. mort. 6, 4</i> ; οἱ μ. θεοί, DH. <i>1, 67,</i> les dieux pénates, <i>à Rome</i>.<p><b>Étym</b>. μυχός.`

@@ -1,0 +1,1 @@
+lar[72629]=`<b>ὀρέσ·βιος, ος, ον</b>, qui vit dans les montagnes, OPP. <i>C. 3, 345</i>.<p><b>Étym</b>. ὄρος, βίος.`

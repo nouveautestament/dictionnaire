@@ -1,0 +1,1 @@
+lar[44616]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ζύγιος, CHRYS. <i>6, 974</i>.`

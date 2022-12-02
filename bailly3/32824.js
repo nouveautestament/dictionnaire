@@ -1,0 +1,1 @@
+lar[32824]=`<b>ων (αἱ)</b> <font color="purple">[ῐκ]</font> les Muses (<i>litt</i>. habitantes de l’Hélicon) HÉS. <i>O. 656, Th. 1</i> ; PD. <i>I. 2, 50</i> ; EUR. <i>H.f. 791</i> ; ANTH. <i>7, 14, etc</i>.<p><b>Étym</b>. Ἑλικών.`

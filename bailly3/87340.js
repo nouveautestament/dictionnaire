@@ -1,0 +1,1 @@
+lar[87340]=`<b>πτεροφυέω-ῶ</b>, devenir ailé, PLAT. <i>Phædr. 251c, 255d ;</i> PLUT. <i>M. 751f ;</i> LUC. <i>Ic. 10</i>.<p><b>Étym</b>. πτεροφυής.`

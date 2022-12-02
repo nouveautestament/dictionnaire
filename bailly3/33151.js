@@ -1,0 +1,1 @@
+lar[33151]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> grondement, frémissement, SPT. <i>Thren. 2, 6</i>.<p><b>Étym</b>. ἐμβριμάομαι.`

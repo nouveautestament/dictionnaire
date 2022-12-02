@@ -1,0 +1,1 @@
+lar[47614]=`<b>θρασύ·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> au cœur hardi, OPP. <i>H. 1, 112</i> ; Q. SM. <i>1, 4, etc</i>.<p><b>Étym</b>. θρ. φρήν.`

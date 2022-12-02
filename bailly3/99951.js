@@ -1,0 +1,1 @@
+lar[99951]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les blessures, bon pour les blessures, DIOSC. <i>1, 130</i> ; τὰ τρ. (<i>s.-e</i>. φάρμακα) DIOSC. <i>1, 97,</i> remèdes bons pour les blessures.<p><b>Étym</b>. τραῦμα.`

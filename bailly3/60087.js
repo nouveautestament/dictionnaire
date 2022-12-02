@@ -1,0 +1,1 @@
+lar[60087]=`<b>ή, όν</b>, garni d’une frange, CALL. <i>Dian. 12</i> ; NIC. <i>Th. 726, etc</i>. (λεγνόω· ποικίλλω, HSCH.).`

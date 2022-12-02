@@ -1,0 +1,1 @@
+lar[27196]=`<b>*διχό·μην</b> <font color="purple">[ῐ]</font> (<i>seul. dat</i>. διχόμηνι, <i>et acc</i>. διχόμηνα, ARAT. <i>78 et 736) c</i>. διχόμηνος.`

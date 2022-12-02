@@ -1,0 +1,1 @@
+lar[108663]=`<b>ή, όν</b>, fait de terre, NT. <i>1Cor. 15, 47</i> ; CLÉM. <i>981</i> ; RHÉT. <i>1, 613 W</i>.<p><b>Étym</b>. *χόος.`

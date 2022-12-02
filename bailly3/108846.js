@@ -1,0 +1,1 @@
+lar[108846]=`<b>χορτο·κοπεῖον, ου (τὸ)</b> lieu où l’on coupe le foin, où l’on fane, DIOSC. <i>2, 177</i>.<p><b>Étym</b>. χόρτος, κόπτω.`

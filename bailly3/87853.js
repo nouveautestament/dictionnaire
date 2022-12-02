@@ -1,0 +1,1 @@
+lar[87853]=`<b>πυρι·βριθής, ής, ές</b> <font color="purple">[ῠῑθ]</font> chargé de feu, ORPH. <i>fr. 38</i>.<p><b>Étym</b>. π. βρίθω.`

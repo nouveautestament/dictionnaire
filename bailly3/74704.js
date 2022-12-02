@@ -1,0 +1,1 @@
+lar[74704]=`<b>παμ·μεδέων, οντος (ὁ)</b> qui gouverne tout, maître souverain, ANTH. <i>15, 40,</i> NONN. <i>Jo. 5, 102</i>.<p><b>Étym</b>. π. μέδω.`

@@ -1,0 +1,1 @@
+lar[107659]=`<b>χαλκο·θήκη, ης (ἡ)</b> armoire pour la batterie de cuisine, ATH. <i>231d</i>.<p><b>Étym</b>. χ. θήκη.`

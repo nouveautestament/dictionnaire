@@ -1,0 +1,1 @@
+lar[40815]=`<b>ἐρυμνό·νωτος, ος, ον</b>, au dos fortement cuirassé, <i>en parl. d’un crabe,</i> ANTH. <i>6, 196</i>.<p><b>Étym</b>. ἐρυμνός, νῶτος.`

@@ -1,0 +1,1 @@
+lar[86796]=`<font color="purple">[ῐ]</font> étendre devant, P. SIL. <i>Ecphr. ag. Soph. 225</i>.`

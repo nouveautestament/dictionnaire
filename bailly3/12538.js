@@ -1,0 +1,1 @@
+lar[12538]=`<b>ἀπο·κεκαλυμμένως</b> <font color="purple">[κᾰ]</font> <i>adv</i>., à découvert, ISOCR. <i>171e</i>.<p><b>Étym</b>. ἀποκαλύπτω.`

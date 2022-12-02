@@ -1,0 +1,1 @@
+lar[107324]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰφ]</font> façonnement de la terre au pied d’une plante, A. PL. <i>202</i>.<p><b>Étym</b>. φυτοσκάφος.`

@@ -1,0 +1,1 @@
+lar[4558]=`<b>ἀλισγέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἠλίσγησα)</font> souiller, SPT. <i>Sir. 40, 29 ; Dan. 1, 8, etc</i>.`

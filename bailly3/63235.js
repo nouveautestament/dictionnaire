@@ -1,0 +1,1 @@
+lar[63235]=`<b>ονος (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Makhaôn :<br><b>      1</b> <i>fils d’Asklèpios,</i> IL. <i>2, 732, etc.</i> ; XÉN. <i>Cyn. 1, 2 et 14</i> ; PLAT. <i>Ion 538c, etc.</i><br><b>      2</b> <i>autre,</i> THC. <i>2, 83</i>.<p>➳ <i>Voc</i>. Μαχᾶον, IL. <i>14, 3</i>.`

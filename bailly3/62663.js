@@ -1,0 +1,1 @@
+lar[62663]=`<b>ιδος</b> <font color="purple">[ᾰᾱῐδ]</font> <i>adj. f</i>. de Maléa <i>en Laconie,</i> ORPH. <i>Arg. 203</i> ; ἡ Μ. XÉN. <i>Hell. 6, 5, 24,</i> le territoire de Maléa <i>en Arcadie</i>.<p>➳ <i>Ion</i>. Μαλεῆτις, ORPH. <i>l. c. etc</i>.<p><b>Étym</b>. Μαλέα.`

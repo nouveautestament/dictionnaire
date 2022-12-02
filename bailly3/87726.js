@@ -1,0 +1,1 @@
+lar[87726]=`<i>ou</i> <b>πῦον, ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> pus, HPC. <i>Aph. 1246, etc. ; au plur</i>. HPC. <i>532, 51, etc.</i><br><b>      2</b> premier lait après l’accouchement, colostrum, EMPÉD. (ARSTT. <i>G.A., 4, 8, 14).</i><p><b>Étym</b>. πύθω.`

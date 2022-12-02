@@ -1,0 +1,1 @@
+lar[57867]=`agir <i>ou</i> parler comme un Crétois, <i>càd</i>. être fourbe, imposteur, PLUT. <i>Æmil. 23, Lys. 20</i> ; ANTH. <i>11, 371</i>.<p><b>Étym</b>. Κρής.`

@@ -1,0 +1,1 @@
+lar[88615]=`<b>ῥιν·ώλεθρος, ος, ον</b>, mortel pour le nez, infect, COM. ANON. <i>(Bkk. p. 61, 25).</i><p><b>Étym</b>. ῥίς, ὄλεθρος.`

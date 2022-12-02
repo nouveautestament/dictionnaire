@@ -1,0 +1,1 @@
+lar[61726]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en embuscade, insidieusement, NIC. <i>Th. 125</i>.<p><b>Étym</b>. λόχος, -δην.`

@@ -1,0 +1,1 @@
+lar[42929]=`<b>εὐ·παρακολουθήτως</b> <font color="purple">[ᾰκ]</font> <i>adv</i>., de manière à ce qu’on puisse facilement suivre, DH. <i>Thuc. 37</i>.<p><b>Étym</b>. <i>v</i>. εὐπαρακολούθητος.`

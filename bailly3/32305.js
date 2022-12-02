@@ -1,0 +1,1 @@
+lar[32305]=`déprécier : τι, LUC. <i>M. cond. 11</i> ; ARR. <i>An. 1, 13, 6,</i> qqe ch. ; <i>avec un inf</i>. ἐκφ. ποιεῖν τι, EL. <i>N.A. 11, 31,</i> dédaigner de faire qqe ch.<p><b>Étym</b>. ἔκφαυλος.`

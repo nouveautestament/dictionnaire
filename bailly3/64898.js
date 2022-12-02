@@ -1,0 +1,1 @@
+lar[64898]=`<b>μετα·πεττεύω</b>, changer de pièces au jeu de dames, <i>fig</i>. changer, PLAT. <i>Min. 316b</i>.<p><b>Étym</b>. μ. πεττός.`

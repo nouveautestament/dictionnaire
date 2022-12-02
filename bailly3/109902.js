@@ -1,0 +1,1 @@
+lar[109902]=`<b>ψοφο·μήδης, ης, ες</b>, qui aime le bruit, le tumulte, <i>ép. de Bacchus,</i> ANTH. <i>9, 524, 24</i>.<p><b>Étym</b>. ψόφος, μήδομαι.`

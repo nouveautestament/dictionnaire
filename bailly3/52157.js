@@ -1,0 +1,1 @@
+lar[52157]=`<b>ή, όν</b>, qui a la propriété <i>ou</i> la force de renverser, XÉN. <i>Eq. 8, 11 ; avec un gén</i>. DH. <i>Thuc. 19</i>.<p><b>Étym</b>. καταβάλλω.`

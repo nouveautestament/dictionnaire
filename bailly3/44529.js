@@ -1,0 +1,1 @@
+lar[44529]=`<b>α, ον</b>, <i>vb. de</i> ζηλόω, DL. <i>5, 74 ; au neutre,</i> POL. <i>4, 27, 8</i> ; PLUT. (STOB. <i>586, 1</i>).`

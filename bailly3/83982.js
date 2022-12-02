@@ -1,0 +1,1 @@
+lar[83982]=`<b>Πρό·δικος, ου (ὁ)</b> Prodikos, <i>sophiste,</i> AR. <i>Av. 692, etc.</i> ; XÉN. <i>Mem. 2, 2, 21, etc.</i> ; PLAT. <i>Ax. 366c, etc</i>.<p><b>Étym</b>. <i>v</i>. πρόδικος.`

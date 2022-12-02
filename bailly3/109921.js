@@ -1,0 +1,1 @@
+lar[109921]=`<b>ου (τὸ) :<br>      1</b> <i>dim. de</i> ψυκτήρ, NICOSTR. (ATH. <i>230d</i>) ; CALLIX. (ATH. <i>203a</i>).<br><b>      2</b> <i>v</i>. ψυκτήριος.`

@@ -1,0 +1,1 @@
+lar[44310]=`<i>adv</i>., d’une manière mensongère, faussement, PLAT. <i>Leg. 897a ;</i> STR. <i>63</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ψεύδω.`

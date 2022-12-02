@@ -1,0 +1,1 @@
+lar[12826]=`<b>ἀπο·λοχμόομαι-οῦμαι</b>, former un taillis, un bois, TH. <i>H.P. 6, 6, 6</i>.`

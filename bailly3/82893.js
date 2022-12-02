@@ -1,0 +1,1 @@
+lar[82893]=`<b>ποσά·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰ]</font> de combien de pieds ? PLAT. <i>Men. 85b</i>.<p><b>Étym</b>. π. πούς.`

@@ -1,0 +1,1 @@
+lar[63646]=`<b>μεθυ·πλήξ, ῆγος (ὁ, ἡ)</b> atteint par l’ivresse, CALL. <i>fr. 223</i> ; A. PL. <i>306</i>.<p><b>Étym</b>. μέθυ, πλήσσω.`

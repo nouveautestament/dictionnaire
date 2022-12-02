@@ -1,0 +1,1 @@
+lar[57077]=`<b>κοριο·ειδής, ής, ές</b>, semblable à la coriandre, DIOSC. <i>2, 207</i>.<p><b>Étym</b>. κόριον², εἶδος.`

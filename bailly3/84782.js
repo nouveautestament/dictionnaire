@@ -1,0 +1,1 @@
+lar[84782]=`<i>adv</i>., avec prévoyance, avec circonspection, XÉN. <i>Mem. 1, 4, 6</i>.`

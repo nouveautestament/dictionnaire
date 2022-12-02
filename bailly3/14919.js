@@ -1,0 +1,1 @@
+lar[14919]=`<b>ου (ὁ)</b> Harmonios, <i>h</i>. PLAT. (PLUT. <i>Qu. conv. 9, 5, 2).</i><p><b>Étym</b>. <i>cf</i>. ἁρμόνιος.`

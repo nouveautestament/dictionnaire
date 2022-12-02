@@ -1,0 +1,1 @@
+lar[31556]=`<b>ἐκ·λατομέω-ῶ</b> (<i>seul. ao</i>. ἐξελατόμησα) <font color="purple">[ᾱ]</font><br><b>      1</b> creuser dans le roc, SPT. <i>Deut. 6, 11</i>.<br><b>      2</b> construire en pierres, <i>acc</i>. SPT. <i>Num. 21, 18</i>.`

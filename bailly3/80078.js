@@ -1,0 +1,1 @@
+lar[80078]=`<b>πηλό·δετος, ος, ον</b>, joint avec du limon, NAZ. <i>3, 1288 Migne</i>.`

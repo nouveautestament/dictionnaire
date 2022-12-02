@@ -1,0 +1,1 @@
+lar[103091]=`<b>ὑπο·γραμματεύς, έως (ὁ)</b> <font color="purple">[μᾰ]</font> sous-greffier, scribe <i>ou</i> greffier adjoint, AR. <i>Ran. 1084</i> ; ANT. <i>145, 26</i> ; LYS. <i>186, 3</i>.<p><b>Étym</b>. ὑ. γραμματεύς.`

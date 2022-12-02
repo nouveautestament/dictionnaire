@@ -1,0 +1,1 @@
+lar[18614]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec un prompt dégoût, PHIL. <i>1, 214</i>.`

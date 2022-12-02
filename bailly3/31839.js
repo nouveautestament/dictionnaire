@@ -1,0 +1,1 @@
+lar[31839]=`<b>εως (ἡ)</b> condensation, congélation, TH. <i>C.P. 5, 14, 1</i>.<p><b>Étym</b>. ἐκπήγνυμι.`

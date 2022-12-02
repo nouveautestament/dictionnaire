@@ -1,0 +1,1 @@
+lar[44934]=`<b>ή, όν</b>, propre à guider, PROCL. <i>Plat. Parm. p. 483 Stallb</i>.<p><b>Étym</b>. ἡγέομαι.`

@@ -1,0 +1,1 @@
+lar[36158]=`<b>ἐξ·οξύνομαι</b>, devenir tout à fait acide, TH. <i>C.P. 6, 7, 7</i>.`

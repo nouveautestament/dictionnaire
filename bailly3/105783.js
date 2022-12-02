@@ -1,0 +1,1 @@
+lar[105783]=`<b>ης (ἡ)</b> <font color="purple">[ῐᾱῠ]</font> amour des spectacles, JOS. <i>A.J. 19, 1, 15</i>.<p><b>Étym</b>. φιλοθεάμων.`

@@ -1,0 +1,1 @@
+lar[86158]=`<b>εως (ἡ) :<br>      1</b> tendance d’un corps à tomber, PTOL. <i>1, 2, 3</i>.<br><b>      2</b> assentiment, CIC. <i>Att. 5, 4, 2</i>.<p><b>Étym</b>. προσνεύω.`

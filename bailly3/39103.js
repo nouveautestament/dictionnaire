@@ -1,0 +1,1 @@
+lar[39103]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec application, avec soin, SEXT. <i>230 Bkk.</i> ; NYSS. <i>3, 237 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[52517]=`<b>κατα·κεράννυμι</b> <font color="purple">[ῡ]</font> (<i>seul. part. prés. pass</i>.) mélanger, PLUT. <i>M. 132d</i>.`

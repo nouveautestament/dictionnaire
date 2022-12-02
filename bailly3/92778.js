@@ -1,0 +1,1 @@
+lar[92778]=`<b>οῦ (ὁ)</b> action de loucher, GAL. <i>2, 270</i> ; A. APHR. <i>Probl. 2, 11</i>.<p><b>Étym</b>. *στραβίζω, <i>de</i> στραβός.`

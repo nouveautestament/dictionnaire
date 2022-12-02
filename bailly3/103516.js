@@ -1,0 +1,1 @@
+lar[103516]=`<b>ὑπο·μαντεύομαι</b>, deviner en qqe sorte, <i>acc</i>. PLAT. <i>Sis. 388b</i>.`

@@ -1,0 +1,1 @@
+lar[103621]=`<b>ὑπο·νύσσω</b> <i>ou</i> <b>-νύττω</b>, piquer légèrement, THCR. <i>Idyl. 19, 3</i>.`

@@ -1,0 +1,1 @@
+lar[479]=`<b>ΐδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>fém. c</i>. ἀγελαῖος, NUMÉN. (ATH. <i>320d</i>).<br><b>      2</b> <i>c</i>. ἀγελείη, CORN. <i>20</i>.<p><b>Étym</b>. ἀγέλη.`

@@ -1,0 +1,1 @@
+lar[51079]=`<b>Καλλι·άνειρα, ας (ἡ)</b> <font color="purple">[ᾰν]</font> Kallianeira, <i>Néréïde,</i> IL. <i>18, 48</i>.<p><b>Étym</b>. κάλλος, ἀνήρ.`

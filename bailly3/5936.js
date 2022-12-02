@@ -1,0 +1,1 @@
+lar[5936]=`<b>Ἀμύν·ανδρος, ου (ὁ)</b> Amynandros, <i>h</i>. PLAT. <i>Tim. 21c, etc</i>.<p><b>Étym</b>. ἀμύνω, ἀνήρ.`

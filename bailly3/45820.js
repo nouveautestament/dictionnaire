@@ -1,0 +1,1 @@
+lar[45820]=`<b>ου (ὁ)</b> Hèramithrès, <i>h</i>. LUC. <i>Cat. 21</i>.`

@@ -1,0 +1,1 @@
+lar[106603]=`<b>ης, ες</b>, d’un rouge de sang, NIC. <i>Al. 489</i>.<p><b>Étym</b>. φοινός, -ωδης.`

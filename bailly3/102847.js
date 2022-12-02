@@ -1,0 +1,1 @@
+lar[102847]=`<b>ὑπ·έρυθρος, ος, ον</b>, un peu rouge, rougeâtre, HPC. <i>Progn. 40, Art. 840</i> ; THC. <i>2, 49</i> ; PLAT. <i>Rsp. 617a</i>.`

@@ -1,0 +1,1 @@
+lar[90226]=`<b>*Σικελίδης</b>, <i>dor</i>. <b>Σικελίδας (ὁ)</b> <font color="purple">[σῑ <i>par nécess. prosod</i>.]</font> Sikélidès, <i>poète de Samos,</i> THCR. <i>Idyl. 7, 40</i>.<p><b>Étym</b>. <i>patr. de</i> Σικελός.`

@@ -1,0 +1,1 @@
+lar[94616]=`<b>συν·ακαταληπτέω-ῶ</b> <font color="purple">[ῠᾰᾰ]</font> être également inintelligent, SEXT. <i>M. 1, 243 ; 11, 38</i>.`

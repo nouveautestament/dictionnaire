@@ -1,0 +1,1 @@
+lar[95604]=`<b>συν·επιβλάπτω</b>, léser également, ARSTT. <i>Pol. 2, 9, 20</i>.`

@@ -1,0 +1,1 @@
+lar[55528]=`<b>η</b> <i>ou</i> <b>ος, ον</b> <font color="purple">[ᾰ]</font> de cinname <i>ou</i> de cannelier, DIOSC. <i>1, 74</i> ; POL. (ATH. <i>439b</i>) ; LUC. <i>V.H. 2, 11</i>.<p><b>Étym</b>. κιννάμωμον.`

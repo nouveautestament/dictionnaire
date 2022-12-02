@@ -1,0 +1,1 @@
+lar[32155]=`<i>adv</i>., habituellement, par habitude, DS. <i>3, 4</i> ; PLUT. <i>M. 808f ;</i> ARR. <i>Epict. 3, 24, 78</i>.`

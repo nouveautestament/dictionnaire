@@ -1,0 +1,1 @@
+lar[2747]=`<b>ιδος (ἡ)</b> habitante de l’î. d’Éole, Ps.-HDT. <i>V. Hom. commenc</i>.<p><b>Étym</b>. Αἰόλιος.`

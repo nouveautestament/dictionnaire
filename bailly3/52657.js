@@ -1,0 +1,1 @@
+lar[52657]=`<b>εως (ἡ)</b> acquisition, conquête, POL. <i>4, 77, 2, etc.</i> ; STR. <i>357</i> ; PLUT. <i>Cæs. 22</i>.<p><b>Étym</b>. κατακτάομαι.`

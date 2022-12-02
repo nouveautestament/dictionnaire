@@ -1,0 +1,1 @@
+lar[32237]=`<b>ος, ον</b>, <i>propr</i>. qui s’écarte (des habitudes communes), étrange, grossier, sans éducation, NYSS. <i>1, 264</i> ; écarté (lieu), CIC. <i>Att. 12, 12</i>.<p><b>Étym</b>. ἐκτρέπω.`

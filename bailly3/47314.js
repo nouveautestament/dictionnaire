@@ -1,0 +1,1 @@
+lar[47314]=`<b>θηρο·ζυγο·καμψι·μέτωπος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui courbe sous le joug la tête des animaux, ANTH. <i>9, 538</i>.<p><b>Étym</b>. θήρ, ζυγόν, κάμπτω, μέτωπον.`

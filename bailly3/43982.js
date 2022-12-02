@@ -1,0 +1,1 @@
+lar[43982]=`<b>ος, ον</b>, dont on appelle devant une autre juridiction, DÉM. <i>78, 28</i> ; ἐφ. δίκη, ARSTT. <i>fr. 414, 416</i> ; LUC. <i>Im. 15</i> ; γνῶσις ἐφ. DÉM. <i>78, 28,</i> procès en appel.<p><b>Étym</b>. ἐφίημι.`

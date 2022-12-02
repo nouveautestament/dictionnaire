@@ -1,0 +1,1 @@
+lar[4127]=`<b>ἀλγεσί·θυμος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui afflige le cœur, ORPH. <i>H. 64, 6</i>.<p><b>Étym</b>. ἄ, θυμός.`

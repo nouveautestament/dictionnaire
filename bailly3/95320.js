@@ -1,0 +1,1 @@
+lar[95320]=`<b>συν·εισποιέω-ῶ</b>, admettre dans, faire participer à, PLUT. <i>M. 482e, 484d</i>.`

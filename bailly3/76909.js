@@ -1,0 +1,1 @@
+lar[76909]=`<b>παρθεν·οπίπης</b>, <i>voc</i>. <b>α</b>, <i>gén</i>. <b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui épie les jeunes filles, IL. <i>11, 385</i>.<p><b>Étym</b>. παρθένος, ὀπιπτεύω.`

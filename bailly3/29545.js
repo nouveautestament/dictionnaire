@@ -1,0 +1,1 @@
+lar[29545]=`<b>ἐγ·καταναίω</b> (<i>seul. ao. épq. 3 sg</i>. ἐγκατένασσε) faire habiter dans, <i>dat</i>. Mœro (ATH. <i>491c</i>) ; A.RH. <i>3, 116</i> (-κατένασσεν).<p><b>Étym</b>. ἐν, κ.`

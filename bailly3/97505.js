@@ -1,0 +1,1 @@
+lar[97505]=`<b>ϊδος (ὁ)</b> <font color="purple">[τᾰ]</font> le Tanaïs :<br><b>      1</b> <i>fl. de Sarmatie (auj</i>. le Don) HDT. <i>4, 20, etc.</i> ; ARSTT. <i>Meteor. 1, 14, etc.</i><br><b>      2</b> <i>n. d’h</i>. Ps.-PLUT. <i>Fluv. 14, 1</i>.`

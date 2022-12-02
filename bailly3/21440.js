@@ -1,0 +1,1 @@
+lar[21440]=`<b>γαστρο·φορέω-ῶ</b> (<i>seul. impf</i>. ἐγαστροφόρουν) porter dans son ventre, <i>en parl. d’une bouteille,</i> ANTH. <i>9, 232</i>.<p><b>Étym</b>. γαστήρ, -φόρος <i>de</i> φέρω.`

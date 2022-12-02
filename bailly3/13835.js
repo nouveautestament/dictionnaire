@@ -1,0 +1,1 @@
+lar[13835]=`<b>ατος (τὸ)</b> partie de l’instrument que touche le musicien et d’où part le son, PTOL. <i>Harm. p. 18, etc</i>.<p><b>Étym</b>. ἀποψάλλω.`

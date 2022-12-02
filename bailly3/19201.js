@@ -1,0 +1,1 @@
+lar[19201]=`<b>βαρυ·σμάραγος, ος, ον</b> <font color="purple">[ᾰᾰᾰ]</font> au bruit sourd <i>ou</i> retentissant, NONN. <i>D. 1, 156, etc.</i> ; ANTH. <i>3, 149</i>.`

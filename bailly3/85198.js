@@ -1,0 +1,1 @@
+lar[85198]=`<b>προσ·ανερωτάω-ῶ</b>, questionner en outre, PLAT. <i>Men. 74c ; avec</i> εἰ, CLÉM. <i>919</i>.`

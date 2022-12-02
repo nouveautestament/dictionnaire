@@ -1,0 +1,1 @@
+lar[29851]=`<b>ος, ον</b>, qui veille, vigilant, POLÉM. <i>248</i>.<p><b>Étym</b>. ἐγρήγορα.`

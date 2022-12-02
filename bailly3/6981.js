@@ -1,0 +1,1 @@
+lar[6981]=`<b>ἀνα·κολυμβάω-ῶ</b>, rapporter du fond de l’eau, TH. <i>H.P. 4, 6, 5</i>.`

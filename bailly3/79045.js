@@ -1,0 +1,1 @@
+lar[79045]=`<b>περι·οχέω-ῶ</b>, transporter autour, <i>d’où au pass</i>. être parcouru en tous sens, ARSTT. <i>Mund. 5, 11</i>.`

@@ -1,0 +1,1 @@
+lar[72880]=`<b>ατος (τὸ)</b> lieu de mouillage, ORACL. (EL. <i>N.A. 13, 21).</i><p><b>Étym</b>. ὁρμέω.`

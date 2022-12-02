@@ -1,0 +1,1 @@
+lar[21018]=`<b>βυνέω-ῶ</b> <font color="purple">[ῡ]</font> (<i>seul. impf. 3 pl</i>. ἐβύνουν) bourrer : τί τινι, AR. <i>Pax 645,</i> bourrer (la bouche) de qqe ch.<p><b>Étym</b>. βύω.`

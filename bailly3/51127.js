@@ -1,0 +1,1 @@
+lar[51127]=`<b>καλλι·θέμεθλος, ος, ον</b> <font color="purple">[ῐ]</font> aux belles fondations, MUS. <i>71</i>.<p><b>Étym</b>. κ. θέμεθλον.`

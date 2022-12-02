@@ -1,0 +1,1 @@
+lar[101946]=`<b>ὑπ·ανακόπτω</b> <font color="purple">[ῠᾰᾰ]</font> couper court à, réprimer, LIB. <i>4, 803</i>.`

@@ -1,0 +1,1 @@
+lar[14681]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> propre à puiser (de l’eau) ÉL. <i>N.A</i>. 17.37.`

@@ -1,0 +1,1 @@
+lar[102353]=`<b>ατος (τὸ)</b> ce qui dépasse une ligne donnée, <i>dans une figure, dans un plan,</i> ARCHIM. <i>p. 70, 4, etc</i>.<p><b>Étym</b>. ὑπερβάλλω.`

@@ -1,0 +1,1 @@
+lar[9638]=`<b>ἀντ·επείσοδος, ου (ἡ)</b> entrée à son tour <i>ou</i> à l’encontre, PLUT. <i>M. 903d</i>.`

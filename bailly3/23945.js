@@ -1,0 +1,1 @@
+lar[23945]=`<b>ης (ἡ) :<br>      1</b> cou, ESCHL. <i>Ag. 849</i> ; EUR. <i>El. 485</i>.<br><b>      2</b> <i>particul</i>. gorge, gosier, ESCHL. <i>Ag. 329</i> ; EUR. <i>Or. 41</i>.<p>➳ <i>Dor</i>. δέρα, EUR. <i>Ph. 169 ; El. 485</i>.<p><b>Étym</b>. <i>att., v</i>. δειρή.`

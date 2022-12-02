@@ -1,0 +1,1 @@
+lar[75808]=`<b>παρακρουσι·χοίνικος, ος, ον</b> <font color="purple">[ῐῐ]</font> qui trompe sur la mesure, <i>propr</i>. qui donne le coup de pouce au chenice, CORN. (POLL. <i>4, 169).</i><p><b>Étym</b>. παρακρούω, χοῖνιξ.`

@@ -1,0 +1,1 @@
+lar[33476]=`<b>ἐμ·πλατύνω</b> <font color="purple">[ᾰῡ]</font> déployer, développer, SPT. <i>Ex. 23, 18 ; Deut. 12, 20 ; Prov. 18, 16</i>.<br><b><i>Moy.</i></b> s’étendre longuement : περί τινος, STR. <i>385,</i> en parlant de qqe ch.<p><b>Étym</b>. ἐν, πλ.`

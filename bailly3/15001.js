@@ -1,0 +1,1 @@
+lar[15001]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀροτρεύς ANTH. <i>9, 299, etc</i>.`

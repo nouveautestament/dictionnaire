@@ -1,0 +1,1 @@
+lar[74123]=`<b>ας (ἡ)</b> héritage entier, ESCHL. <i>Ch. 486</i> ; SOPH. <i>fr. 774 Dind.</i> ; EUR. <i>Ion 814, etc</i>.<p><b>Étym</b>. πάγκληρος.`

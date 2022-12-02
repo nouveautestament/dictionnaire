@@ -1,0 +1,1 @@
+lar[18884]=`<b>βακχάω-ῶ</b> (<i>seul. prés. 3 sg</i>. βακχᾷ) être agité d’un transport de bacchante, ESCHL. <i>Sept. 498</i>.<p><b>Étym</b>. βάκχος.`

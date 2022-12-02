@@ -1,0 +1,1 @@
+lar[52013]=`être du parti des Carthaginois, PLUT. <i>Marc. 20</i>.<p><b>Étym</b>. Καρχηδών.`

@@ -1,0 +1,1 @@
+lar[66801]=`<b>      1</b> transplanter des marcottes, TH. <i>C.P. 1, 2, 1, etc. ; fig</i>. transplanter, planter, DÉM. <i>785, 4</i>.<br><b>      2</b> <i>p. ext</i>. nourrir, élever, PHILSTR. <i>269 ; fig</i>. fortifier, développer, DH. <i>7, 46</i>.<p><b>Étym</b>. μόσχος.`

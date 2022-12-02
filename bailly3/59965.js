@@ -1,0 +1,1 @@
+lar[59965]=`<b>α, ον</b>, qui concerne les serviteurs <i>ou</i> le service à gages, PD. <i>O. 11, 29</i> ; MAN. <i>1, 275</i>.<p><b>Étym</b>. λάτρον.`

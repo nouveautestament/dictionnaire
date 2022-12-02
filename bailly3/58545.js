@@ -1,0 +1,1 @@
+lar[58545]=`<b>ου (ὁ) :<br>      1</b> pilule, DIOSC. <i>2, 105</i>.<br><b>      2</b> anneau dans lequel on passe les rênes, GAL. <i>2, 321, etc.</i><br><b>      3</b> cercle astronomique, PTOL. <i>t. 1, p. 46, etc.</i><br><b>      4</b> bouton en pommeau, PHIL. BYZ. <i>61</i>.<p><b>Étym</b>. κύκλος.`

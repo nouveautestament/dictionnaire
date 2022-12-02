@@ -1,0 +1,1 @@
+lar[55142]=`<b>ορος (ὁ)</b> curateur, tuteur, MAN. <i>4, 514</i>.<p><b>Étym</b>. κήδομαι.`

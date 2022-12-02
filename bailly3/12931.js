@@ -1,0 +1,1 @@
+lar[12931]=`<i>neutre du part. prés. de</i> ἄπειμι¹.`

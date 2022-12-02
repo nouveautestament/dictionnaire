@@ -1,0 +1,1 @@
+lar[72040]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> oseille, NIC. <i>Th. 840</i> ; DIOSC. <i>2, 140</i>.<p><b>Étym</b>. <i>inconnue</i>.`

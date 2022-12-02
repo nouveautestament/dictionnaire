@@ -1,0 +1,1 @@
+lar[55558]=`<i>ou</i> <b>Κίρκαιον, ου (τὸ)</b> <i>v. et cap de</i> Circæum (<i>auj</i>. Monte Circeo) <i>dans le Latium,</i> ARSTT. <i>Mir. 78, etc.</i> ; TH. <i>H.P. 5, 8, 4, etc</i>.<p><b>Étym</b>. <i>v</i>. Κίρκας.`

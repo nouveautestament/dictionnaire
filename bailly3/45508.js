@@ -1,0 +1,1 @@
+lar[45508]=`<b>ου (τὸ) :<br>      1</b> petit mulet, STR. <i>5, 3, 6 Kram.</i><br><b>      2</b> hémionite, <i>sorte de fougère,</i> DIOSC. <i>3, 151</i>.<p><b>Étym</b>. ἡμίονος.`

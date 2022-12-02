@@ -1,0 +1,1 @@
+lar[70821]=`<b>ὀκτα·δάκτυλος, ος, ον</b> <font color="purple">[τᾰῠ]</font> de huit doigts, CLÉARQ. (ATH. <i>332d</i>).<p><b>Étym</b>. ὀκτώ, δάκτυλος.`

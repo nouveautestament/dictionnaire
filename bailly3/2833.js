@@ -1,0 +1,1 @@
+lar[2833]=`<b>ου (ὁ)</b> Æsarus (<i>auj</i>. Esaro) <i>petit fl. du Bruttium, en Italie</i>.<p>➳ <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 4, 17</i> ; DP. <i>370</i> ; <font color="purple">[ᾰ]</font> LYC. <i>911</i>.`

@@ -1,0 +1,1 @@
+lar[2038]=`<b>έρος (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> barbe d’épi, <i>d’où</i> épi, HÉS. <i>fr. 2, 2 Gaisford;</i> HPC. <i>496, 54</i>.<br><b>      2</b> <i>p. anal</i>. pointe de lance, de javelot, d’épée, ESCHL. <i>fr. 153</i> ; HPC. <i>1153h ;</i> PLUT. <i>Cato mi. 70</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

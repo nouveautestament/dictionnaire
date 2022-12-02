@@ -1,0 +1,1 @@
+lar[16416]=`<b>ἀ·συγκίνητος, ος, ον</b> <font color="purple">[ῑ]</font> <i>seul. au</i> <i>• Sup</i>. ἀσυγκινητότατος, qui met le moins en mouvement (tout le corps) ANTYLL.<p><b>Étym</b>. ἀ, συγκινέω.`

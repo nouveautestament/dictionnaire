@@ -1,0 +1,1 @@
+lar[69474]=`<b>Ξενο·κρίτη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Xénokritè, <i>f</i>. PLUT. <i>M. 261</i>.<p><b>Étym</b>. <i>v</i>. Ξενόκριτος.`

@@ -1,0 +1,1 @@
+lar[96099]=`<b>συν·οδίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> compagnon de route, ANTH. <i>App. 252</i>.<br><b>      2</b> qui concerne la rencontre du soleil et de la lune, DAMASC. (PHOT. <i>Bibl. p. 349, 27).</i><p><b>Étym</b>. σύν, ὁδίτης.`

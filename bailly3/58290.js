@@ -1,0 +1,1 @@
+lar[58290]=`<b>α, ον</b> <font color="purple">[ῐ]</font> en peau de martre, IL. <i>10, 355, 458</i>.<p><b>Étym</b>. <i>épq. p</i>. *κτίδιος, *ἰκτίδιος, <i>de</i> *κτίς, <i>c</i>. ἰκτίς.`

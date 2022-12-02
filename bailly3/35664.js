@@ -1,0 +1,1 @@
+lar[35664]=`<b>ἐξ·αυχμόω-ῶ :<br>      1 <i>tr.</i></b> faire dessécher, faire brûler, DL. <i>7, 141</i>.<br><b>      2 <i>intr.</i></b> se dessécher, TH. <i>C.P. 5, 9, 8</i>.`

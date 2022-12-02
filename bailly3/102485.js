@@ -1,0 +1,1 @@
+lar[102485]=`<b>εως (ἡ)</b> ébullition excessive, ARSTT. <i>Probl. 24, 6</i> ; Ps.-JAMBL. <i>Theol. arithm. p. 27, 30 Ast</i>.<p><b>Étym</b>. ὑπερζέω.`

@@ -1,0 +1,1 @@
+lar[69591]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>propr</i>. ouvrage en bois sculpté, SOPH. (ATH. <i>637a</i>).<br><b>      2</b> <i>particul</i>. statue de dieu en bois <i>ou</i> en pierre, EUR. <i>Tr. 1074, etc.</i> ; XÉN. <i>An. 5, 3, 12</i> ; PAUS. <i>1, 18, 5, etc</i>.<p><b>Étym</b>. ξέω.`

@@ -1,0 +1,1 @@
+lar[59504]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> pois chiche :<br><b>      1</b> <i>plante et graine légumineuse,</i> COM. (ATH. <i>55a</i>) ; TH. <i>H.P. 8, 3, 1, etc. ; C.P. 3, 22, 3</i> ; PLUT. <i>M. 386e.</i><br><b>      2</b> <i>surn. de Ptolémée VIII d’Égypte,</i> PLUT. <i>Cor. 11</i>.`

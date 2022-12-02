@@ -1,0 +1,1 @@
+lar[94958]=`<b>συν·αριστεύω</b> <font color="purple">[ᾰ]</font> rivaliser de bravoure avec, <i>dat</i>. EUR. <i>Tr. 803</i>.`

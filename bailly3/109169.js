@@ -1,0 +1,1 @@
+lar[109169]=`<b>χρυσο·δίνης, ου</b> <font color="purple">[ῡῑ]</font> <i>adj. m</i>. aux vagues (<i>litt</i>. au tournoiement) d’or, RHÉT. <i>1, 476 W</i>.<p><b>Étym</b>. χρ. δινέω.`

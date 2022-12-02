@@ -1,0 +1,1 @@
+lar[43927]=`<font color="darkgreen">(<i>pf</i>. ἐφήδρακα) :</font><br><b>      1 <i>tr.</i></b> asseoir sur : τί τινι, HLD. <i>1, 2,</i> asseoir une chose sur une autre ; <i>abs. càd</i>. affermir, <i>acc</i>. HLD. <i>7, 8</i>.<br><b>      2 <i>intr.</i></b> s’asseoir sur, <i>dat</i>. SEXT. <i>P. p. 114, 2</i>.<p><b>Étym</b>. ἐφέδρα.`

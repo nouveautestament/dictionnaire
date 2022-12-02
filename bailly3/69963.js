@@ -1,0 +1,1 @@
+lar[69963]=`<b>ῆρος (ὁ) :<br>      1</b> racloir, grattoir, ANTH. <i>6, 205</i> ; PLUT. <i>M. 350d.</i><br><b>      2</b> instrument de chirurgie, HPC. <i>907d ;</i> P. ÉG. <i>6, 90</i>.<p><b>Étym</b>. ξύω.`

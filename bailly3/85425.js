@@ -1,0 +1,1 @@
+lar[85425]=`<b>εως (ἡ)</b> <font color="purple">[σᾰ]</font> supplément d’explication, RHÉT. <i>8, 467 W</i>.<p><b>Étym</b>. προσδιασαφέω.`

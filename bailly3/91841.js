@@ -1,0 +1,1 @@
+lar[91841]=`<font color="purple">[ᾰ]</font><br><b>      1 <i>tr.</i></b> répandre de la semence, HERM. (STOB. <i>Ecl. 1, 476) ; fig</i>. féconder, SPT. <i>Lev. 12, 2</i>.<br><b>      2 <i>intr.</i></b> être en graines, SPT. <i>Ex. 9, 31</i>.<p><b>Étym</b>. σπέρμα.`

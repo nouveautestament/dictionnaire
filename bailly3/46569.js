@@ -1,0 +1,1 @@
+lar[46569]=`<b>θεμι·σκόπος, ος, ον</b>, qui examine avec justice, PD. <i>N. 7, 69</i>.<p><b>Étym</b>. θέμις, σκοπέω.`

@@ -1,0 +1,1 @@
+lar[95274]=`<b>συν·εικάζω :<br>      1</b> comparer en même temps, PTOL. <i>Tetr. 3, 120</i>.<br><b>      2</b> copier, imiter, ATH. <i>391b</i>.`

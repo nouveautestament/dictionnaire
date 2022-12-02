@@ -1,0 +1,1 @@
+lar[76954]=`<b>πάρ·ισος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> presque égal, POL. <i>1, 13, 12 ; 1, 28, 4, etc.</i><br><b>      2</b> correspondant, <i>en parl. de membres de phrase,</i> ARSTT. <i>Rhet. 3, 9, 9</i> ; DS. <i>12, 53</i>.<p><b>Étym</b>. π. ἴσος.`

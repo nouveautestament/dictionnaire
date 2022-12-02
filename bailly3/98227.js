@@ -1,0 +1,1 @@
+lar[98227]=`<b>ατος (τὸ) :<br>      1</b> eau stagnante, marais, endroit marécageux, AR. <i>Av. 1593</i> ; XÉN. <i>Œc. 20, 11</i> ; PLAT. <i>Phæd. 109b ; au plur</i>. basses terres exposées aux inondations, HDT. <i>2, 93</i>.<br><b>      2</b> boue, vase, EL. <i>V.H. 12, 46 ; p. anal</i>. ciment, mortier, HDT. <i>1, 179</i>.`

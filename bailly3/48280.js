@@ -1,0 +1,1 @@
+lar[48280]=`<b>ἰάσμινον μύρον (τὸ)</b> essence de jasmin, <i>parfum,</i> DIOSC. <i>Noth. 1, 76</i>.<p><b>Étym</b>. ἰάσμη.`

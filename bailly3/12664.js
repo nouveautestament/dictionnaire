@@ -1,0 +1,1 @@
+lar[12664]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font><br><b>      1</b> tri, choix, PLAT. <i>Def. 415d ; t. de méd</i>. sécrétion, HPC. <i>376, 28 et 52 ; 377, 24, etc.</i><br><b>      2</b> réponse, THGN. <i>1167</i> ; HDT. <i>1, 49, etc.</i> ; THC. <i>3, 60</i> ; XÉN. <i>Hell. 6, 1, 17, etc</i>.<p><b>Étym</b>. ἀποκρίνω.`

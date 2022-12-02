@@ -1,0 +1,1 @@
+lar[106271]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> de nature astringente, NIC. <i>Th. 892</i>.<p><b>Étym</b>. φιμός, -ωδης.`

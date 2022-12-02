@@ -1,0 +1,1 @@
+lar[34915]=`<b>ἐν·σαλπίζω</b>, sonner de la trompette dans, <i>dat</i>. GAL. <i>13, 408</i>.`

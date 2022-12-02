@@ -1,0 +1,1 @@
+lar[22627]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> petit stylet, THÉON <i>Prog. 100, 16</i>.<p><b>Étym</b>. <i>dim. de</i> γραφίς.`

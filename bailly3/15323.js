@@ -1,0 +1,1 @@
+lar[15323]=`<b>ἀρτι·γένειος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> à la barbe naissante, ANTH. <i>9, 219</i>.<br><b>      2</b> <i>fig</i>. qui pousse à foison, <i>en parl. de fautes, de solécismes,</i> LUC. <i>Sol. 2</i>.<p><b>Étym</b>. ἄ. γένειον.`

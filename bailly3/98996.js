@@ -1,0 +1,1 @@
+lar[98996]=`<i>acc. sg. fém. de l’art</i>. ὁ, ἡ, τό.<br><i>poét. acc. sg. fém. du pron. relat</i>. ὅς, ἥ, ὅ.`

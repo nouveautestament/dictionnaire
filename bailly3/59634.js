@@ -1,0 +1,1 @@
+lar[59634]=`<b>λακωνο·μανέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> être fou des Lacédémoniens, AR. <i>Av. 1281</i>.<p><b>Étym</b>. Λάκων, μαίνομαι.`

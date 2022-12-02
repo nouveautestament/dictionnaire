@@ -1,0 +1,1 @@
+lar[105816]=`<b>φιλ·οίφης, ου (ὁ)</b> <font color="purple">[ῐ]</font> débauché, THCR. <i>Idyl. 4, 62</i>.<p><b>Étym</b>. φ. οἰφέω.`

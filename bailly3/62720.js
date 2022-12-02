@@ -1,0 +1,1 @@
+lar[62720]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire de Mallos, PLUT. <i>Herod. mal. 24, etc</i>.<p><b>Étym</b>. Μαλλός.`

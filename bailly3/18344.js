@@ -1,0 +1,1 @@
+lar[18344]=`<i>adv</i>., par acquit de conscience, BAS.<p><b>Étym</b>. ἀφοσιόω.`

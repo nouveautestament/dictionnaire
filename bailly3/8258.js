@@ -1,0 +1,1 @@
+lar[8258]=`<b>ητος (ἡ)</b> qualité de ce qui est supportable, BAS.<p><b>Étym</b>. ἀνεκτός.`

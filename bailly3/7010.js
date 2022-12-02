@@ -1,0 +1,1 @@
+lar[7010]=`<b>ἀνα·κροταλίζω</b> <font color="purple">[ᾰλ]</font> applaudir bruyamment, ATH. <i>129c</i>.`

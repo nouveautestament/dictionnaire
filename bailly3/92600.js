@@ -1,0 +1,1 @@
+lar[92600]=`<b>ωνος (ὁ)</b> Stibôn, <i>litt</i>. « qui suit la piste » <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. στίβος.`

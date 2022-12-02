@@ -1,0 +1,1 @@
+lar[76516]=`<b>ου (ὁ)</b> sorte de poisson tacheté, <i>le même que</i> κεστρός, PLUT. <i>M. 965</i>.`

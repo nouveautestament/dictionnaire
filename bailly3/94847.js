@@ -1,0 +1,1 @@
+lar[94847]=`<b>συν·απλόω-ῶ</b>, déployer ensemble <i>ou</i> en même temps, CALLISTR. <i>Stat. 904 ; fig</i>. expliquer, HDN RH. <i>Schem. 609</i>.`

@@ -1,0 +1,1 @@
+lar[35047]=`<b>ης (ἡ)</b> l’intérieur d’un corps, d’une plante, <i>etc</i>. HPC. <i>624, 24</i> ; ARSTT. <i>Plant. 2, 8, 4</i> ; TH. <i>H.P. 3, 7, 5</i>.<p><b>Étym</b>. ἔντερον.`

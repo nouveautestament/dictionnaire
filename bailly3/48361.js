@@ -1,0 +1,1 @@
+lar[48361]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Idæos :<br><b>      1</b> <i>héraut troyen,</i> IL. <i>3, 248 ; 7, 276, etc.</i><br><b>      2</b> <i>Troyen,</i> IL. <i>5, 11</i>.`

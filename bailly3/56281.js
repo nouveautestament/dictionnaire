@@ -1,0 +1,1 @@
+lar[56281]=`<b>ή, όν</b>, gratté, raclé, ANTIPH. <i>fr. 79 Kock (conj. p</i>. κνιστός) ; ATH. <i>111d</i>.<p><b>Étym</b>. <i>vb. de</i> κνάω.`

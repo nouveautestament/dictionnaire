@@ -1,0 +1,1 @@
+lar[105434]=`<b>ητος (ἡ)</b> <font color="purple">[ῐᾰ]</font> amitié <i>ou</i> prédilection pour les Athéniens, GAL. <i>De hum. p. 152</i>.<p><b>Étym</b>. φιλαθήναιος.`

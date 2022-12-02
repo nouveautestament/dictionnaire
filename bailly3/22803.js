@@ -1,0 +1,1 @@
+lar[22803]=`<b>γυναικο·κρατέομαι-οῦμαι</b> <font color="purple">[ῠᾰ]</font> (<i>seul. part. prés</i>.) être gouverné par les femmes, ARSTT. <i>Pol. 2, 9, 7</i> ; DS. <i>2, 45</i> ; PLUT. <i>M. 755c</i>.<p><b>Étym</b>. γ. κρατέω.`

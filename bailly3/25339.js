@@ -1,0 +1,1 @@
+lar[25339]=`<i>adv</i>., très péniblement, PLUT. <i>Fab. 1</i>.`

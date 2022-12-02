@@ -1,0 +1,1 @@
+lar[47181]=`<font color="purple">[ῠ]</font> se conduire comme une femme, mollement, CLÉM. <i>570</i>.<p><b>Étym</b>. θηλυκός.`

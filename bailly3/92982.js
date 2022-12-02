@@ -1,0 +1,1 @@
+lar[92982]=`crier <i>ou</i> piauler comme un moineau, AR. <i>fr. 717 Dind.</i> ; THÉODOT. <i>Esaï. 10, 14</i>.<p><b>Étym</b>. στρουθίον.`

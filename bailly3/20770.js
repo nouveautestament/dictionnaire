@@ -1,0 +1,1 @@
+lar[20770]=`<b>ας (ἡ)</b> = <i>lat</i>. Britannia, Bretagne (la Grande-Bretagne), PLUT. <i>Cæs. 16, etc.</i> ; DC. <i>39, 50 ; etc. ; cf</i>. βρεταννία.`

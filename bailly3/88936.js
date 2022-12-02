@@ -1,0 +1,1 @@
+lar[88936]=`<b>ῥυσόω-ῶ</b> <font color="purple">[ῡ]</font> se rider, HIPPIATH. <i>48, 23 ; d’ord. au pass</i>. ARSTT. <i>Probl. 24, 10, 2 ; en parl. de fruits,</i> DIOSC. <i>5, 12</i> ; GEOP. <i>7, 18, 3 ; 10, 38, 10,</i> rendre rugueux, rider.<p>➳ <i>Fut. antér. part</i>. ῥερυσωμένος, <i>p</i>. ἐρρυσωμένος, APD. POL. <i>15</i>.<p><b>Étym</b>. ῥυσός.`

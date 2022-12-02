@@ -1,0 +1,1 @@
+lar[56924]=`<b>κονυζίτης οἶνος (ὁ)</b> vin aromatisé de conyze, DIOSC. <i>5, 63</i> ; GEOP. <i>8, 10</i>.<p><b>Étym</b>. κόνυζα.`

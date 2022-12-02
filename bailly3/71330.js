@@ -1,0 +1,1 @@
+lar[71330]=`<b>ας (ἡ)</b> action d’habiter ensemble, d’avoir commerce avec, ESCHL. <i>Ch. 599</i>.<p><b>Étym</b>. ὅμαυλος¹.`

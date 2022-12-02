@@ -1,0 +1,1 @@
+lar[88921]=`<b>ῥυσί·κοσμος, ος, ον</b> <font color="purple">[ῠ <i>irrég.,</i> ῐ]</font> qui sauve le monde, J. GÉOM. <i>H. in Virg. 4, p. 868</i>.<p><b>Étym</b>. ῥύομαι, κόσμος.`

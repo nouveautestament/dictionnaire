@@ -1,0 +1,1 @@
+lar[56063]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font> petit lit, ARR. <i>Epict. 3, 5, 13</i>.<p><b>Étym</b>. κλίνη.`

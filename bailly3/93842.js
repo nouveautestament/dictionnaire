@@ -1,0 +1,1 @@
+lar[93842]=`<b>ή, όν</b> <font color="purple">[βῐ]</font> conciliant, PLUT. <i>Alex. 14</i>.<p><b>Étym</b>. συμβιβάζω.`

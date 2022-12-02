@@ -1,0 +1,1 @@
+lar[57927]=`<i>ou</i> <b>Κριμισσός, οῦ (ὁ)</b> <font color="purple">[ῑῑ]</font> Krimisos <i>ou</i> Krimissos :<br><b>      1</b> <i>fl. de Sicile (auj</i>. Fiume Freddo) LYC. <i>961</i>.<br><b>      2</b> <i>h</i>. NONN. <i>D. 32, 234</i>.`

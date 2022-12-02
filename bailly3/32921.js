@@ -1,0 +1,1 @@
+lar[32921]=`<b>ου :<br>      1</b> <i>adj. m</i>. d’ellébore : ἑλλ. οἶνος, DIOSC. <i>5, 82,</i> vin préparé avec de l’ellébore.<br><b>      2</b> <i>subst</i>. ὁ ἑλλ. <i>autre n. de la plante</i> κενταύριον, DIOSC. <i>3, 9</i>.<p><b>Étym</b>. ἑλλέβορος.`

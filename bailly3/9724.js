@@ -1,0 +1,1 @@
+lar[9724]=`<b>ἀντ·εφορμέω-ῶ</b>, être à l’ancre en face (de l’ennemi), PLUT.`

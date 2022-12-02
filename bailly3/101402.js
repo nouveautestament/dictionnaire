@@ -1,0 +1,1 @@
+lar[101402]=`<b>ὑγρο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> passionné pour l’eau, NONN. <i>D. 43, 284</i>.<p><b>Étym</b>. ὑ. μαίνομαι.`

@@ -1,0 +1,1 @@
+lar[28476]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> mauvaise journée, <i>d’où</i> ennui, échec, malheur, ESCHL. <i>fr. 234</i> ; SOPH. <i>fr. 948 ; au plur</i>. PLUT. <i>Eum. 9</i>.<p>➳ <i>Dor</i>. δυσαμερία <font color="purple">[ᾱμ]</font> ESCHL. SOPH. <i>ll. cc</i>.<p><b>Étym</b>. δυσήμερος.`

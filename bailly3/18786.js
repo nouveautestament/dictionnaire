@@ -1,0 +1,1 @@
+lar[18786]=`<b>βαθύ·πλευρος, ος, ον</b> <font color="purple">[ᾰυ]</font> aux flancs épais, GEOP. <i>17, 2, 1</i>.<p><b>Étym</b>. β. πλευρά.`

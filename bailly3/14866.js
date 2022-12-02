@@ -1,0 +1,1 @@
+lar[14866]=`<b>ἁρματ·ήλατος, ος, ον</b> <font color="purple">[μᾰᾰ]</font><br><b>      1</b> où les chars peuvent passer, JAMBL. <i>Protr. p. 60, 1</i>.<br><b>      2</b> qui tourne avec la roue, <i>litt</i>. poussé comme une roue de char (IXION) EUR. <i>H.f. 1297</i>.<p><b>Étym</b>. ἅρμα, ἐλαύνω.`

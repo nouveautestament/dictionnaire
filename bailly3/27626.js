@@ -1,0 +1,1 @@
+lar[27626]=`<b>δορο·εργής, ής, ές</b>, qui travaille le bois, <i>d’où subst</i>. (ὁ) MAN. <i>4, 320 (conj</i>. δορυεργής) charpentier.<p><b>Étym</b>. δόρυ, ἔργον.`

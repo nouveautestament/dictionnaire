@@ -1,0 +1,1 @@
+lar[27584]=`<b>δορι·άλωτος, ος, ον</b> <font color="purple">[ῐᾰ]</font> conquis par la lance, pris à la guerre (<i>cf</i>. αἰχμάλωτος) <i>en parl. de pers</i>. EUR. <i>Tr. 518 ; d’un pays,</i> HDT. <i>8, 74 ; 9, 4</i>.<p>➳ <i>Ion</i>. δουριάλωτος, SOPH. <i>Aj. 211</i>.<p><b>Étym</b>. δόρυ, ἁλωτός.`

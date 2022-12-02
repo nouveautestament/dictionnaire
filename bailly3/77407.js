@@ -1,0 +1,1 @@
+lar[77407]=`<b>ωνος (ὁ)</b> Patrôn, <i>h</i>. PLUT. <i>Rom. 13, etc</i>.`

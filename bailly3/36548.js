@@ -1,0 +1,1 @@
+lar[36548]=`<b>ἐπ·αμφιέννυμι</b>, revêtir par-dessus, <i>d’où part. pf. pass</i>. ἐπημφιεσμένος, SOPH. <i>fr. 708,</i> revêtu par dessus de, <i>acc</i>.`

@@ -1,0 +1,1 @@
+lar[16280]=`<b>ἀστραπή·μορφος, ος, ον</b> <font color="purple">[ᾰπ]</font> qui a la forme d’un éclair, ARCHÉL.<p><b>Étym</b>. ἀ. μορφή.`

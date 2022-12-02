@@ -1,0 +1,1 @@
+lar[106120]=`<b>φιλο·σωκράτης (ὁ)</b> <font color="purple">[ῐᾰ]</font> ami de Socrate, ATH. <i>215f</i>.`

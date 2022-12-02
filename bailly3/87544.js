@@ -1,0 +1,1 @@
+lar[87544]=`<b>ου (ὁ)</b> Pythéas, <i>h</i>. PD. <i>I. 4, 22, etc</i>.<p>➳ <i>Voc</i>. Πυθέα, PD. <i>N. 5, 80, etc. ; gén</i>. Πυθέα, ANTH. <i>App. 71, etc. Ion</i>. Πυθέης, <i>gén</i>. έεω, HDT. <i>7, 81, etc. ; ou</i> -έω, HDT. <i>8, 92</i>.<p><b>Étym</b>. Πυθώ.`

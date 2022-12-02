@@ -1,0 +1,1 @@
+lar[104012]=`<b>ὑπο·τορεύω</b>, ciseler au-dessous, EL. <i>N.A. 10, 22</i>.`

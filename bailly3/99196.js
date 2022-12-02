@@ -1,0 +1,1 @@
+lar[99196]=`<b>Τίμ·αρχος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Timarkhos (Timarque) <i>h</i>. PLAT. <i>Theæt. 129a ;</i> ESCHN. <i>Tim. 1, etc.</i> ; DÉM. <i>432, 8, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. τιμή, ἄρχω.`

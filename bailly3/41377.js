@@ -1,0 +1,1 @@
+lar[41377]=`<b>ἑτερό·σκιος, ος, ον</b> <font color="purple">[ῐ]</font> où l’ombre à midi se projette toujours du même côté (nord <i>ou</i> sud) comme dans les zones tempérées, <i>p. opp. à</i> ἀμφίσκιος, CLÉM. <i>26, 15 et 22</i> ; STR. <i>135</i> ; PTOL. <i>p. 81, 82</i>.<p><b>Étym</b>. ἕ. σκιά.`

@@ -1,0 +1,1 @@
+lar[96259]=`<b>συνταγματ·άρχης, ου (ὁ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> chef d’une troupe, LUC. <i>Bacch. 2, Pseud. 18</i>.<br><b>      2</b> commandant d’une compagnie σύνταγμα, ARR. <i>Tact. 10, 3</i>.<p><b>Étym</b>. σύνταγμα, ἄρχω.`

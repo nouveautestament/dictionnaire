@@ -1,0 +1,1 @@
+lar[33741]=`<font color="purple">[ῠ]</font> <i>adv</i>., de nature, naturellement, CLÉM. <i>2, 196 Migne</i>.`

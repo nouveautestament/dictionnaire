@@ -1,0 +1,1 @@
+lar[102628]=`<b>ὑπέρ·λεπτος, ος, ον</b>, extrêmement mince <i>ou</i> fin, PHILSTR. <i>Im. 2, 29</i>.<p><b>Étym</b>. ὑ. λεπτός.`

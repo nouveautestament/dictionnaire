@@ -1,0 +1,1 @@
+lar[95781]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾱ]</font> régal <i>ou</i> festin en commun, DH. <i>4, 19</i>.<p><b>Étym</b>. συνεστιάω.`

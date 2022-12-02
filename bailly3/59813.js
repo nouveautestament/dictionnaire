@@ -1,0 +1,1 @@
+lar[59813]=`<b>Λαο·νίκη</b>, <i>p. contr</i>. <b>Λα·νίκη, ης (ἡ)</b> <font color="purple">[ᾱῑ]</font> Laonikè, Lanikè, <i>f</i>. EL. <i>V.H. 12, 6, etc</i>.<p><b>Étym</b>. λ. νίκη.`

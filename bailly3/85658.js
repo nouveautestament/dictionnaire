@@ -1,0 +1,1 @@
+lar[85658]=`<b>προσ·επιβλέπω</b>, fixer ses regards sur, <i>acc</i>. ARSTT. <i>An. pr. 1, 28, 16</i> ; STR. <i>154</i>.`

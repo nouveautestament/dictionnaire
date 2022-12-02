@@ -1,0 +1,1 @@
+lar[79606]=`<b>περι·φοινίσσω</b>, rougir tout autour, NYSS.`

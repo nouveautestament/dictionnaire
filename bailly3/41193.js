@@ -1,0 +1,1 @@
+lar[41193]=`<b>ἐσχαρίτης ἄρτος (ὁ)</b> <font color="purple">[χᾰῑ]</font> <i>ou simpl</i>. ὁ ἐσχ. COM. (ATH. <i>109c et d, 115e</i>) ; SPT. <i>2Reg. 6, 19</i> ; JOS. <i>A.J. 7, 4, 2,</i> pain cuit sur le gril, sorte de pain à moitié gâteau.<p><b>Étym</b>. ἐσχάρα.`

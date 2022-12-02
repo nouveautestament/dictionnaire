@@ -1,0 +1,1 @@
+lar[49838]=`<b>ἱστο·πέδη, ης (ἡ)</b> partie d’un navire où s’emboîte le pied du mât, OD. <i>12, 51, 162</i>.<p>➳ <i>Dor</i>. -πέδα, ALC. <i>18, 6</i>.<p><b>Étym</b>. ἱ. πέδη.`

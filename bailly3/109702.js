@@ -1,0 +1,1 @@
+lar[109702]=`<b>ψευδό·μαντις, εως (ὁ, ἡ)</b> faux devin, faux prophète, HDT. <i>4, 69</i> ; ESCHL. <i>Ag. 1195</i> ; SOPH. <i>O.C. 1097</i> ; EUR. <i>Or. 1667</i> ; LUC. <i>D. mort. 14, 5 ; au fém. en parl. de la Pythie,</i> PLUT. <i>M. 860d</i>.`

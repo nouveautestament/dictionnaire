@@ -1,0 +1,1 @@
+lar[38839]=`<b>εως (ἡ) :<br>      1</b> action de tomber sur, NICOM. <i>Harm. 24</i> ; ANTYLL. (ORIB. <i>3, 371 B.-Dar</i>.).<br><b>      2</b> action de survenir à, <i>dat</i>. PLUT. <i>M. 740d ; p. suite,</i> hasard, chance, THÉAGÈS (STOB. <i>Fl. 1, 33</i>) ; κατ' ἐπίπτωσιν, STR. <i>102</i> ; PLUT. <i>M. 740d</i>, par hasard.<p><b>Étym</b>. ἐπιπίπτω.`

@@ -1,0 +1,1 @@
+lar[72164]=`<b>ὀξυ·ρρόδινον, ου (τὸ)</b> <i>s.-e</i>. ἔλαιον, huile de rose mélangée de vinaigre, ATH. <i>67f</i>.<p><b>Étym</b>. ὀ. ῥόδον.`

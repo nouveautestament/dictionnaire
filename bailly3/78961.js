@@ -1,0 +1,1 @@
+lar[78961]=`<b>περι·νήχομαι</b>, nager autour, DH. <i>1, 15</i> ; PLUT. <i>M. 977a ;</i> τινι, Q. SM. <i>14, 548,</i> nager autour de qqe ch.`

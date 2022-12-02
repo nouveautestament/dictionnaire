@@ -1,0 +1,1 @@
+lar[52962]=`<b>κατα·νωτίζομαι :<br>      1</b> porter sur les épaules <i>ou</i> sur le dos, LUC. <i>Lex. 5, fig</i>. PLUT. <i>M. 924c.</i><br><b>      2</b> <i>fig. càd</i>. faire peu de cas de, mépriser, DAMASC. (PHOT. <i>Bibl. p. 346</i>).`

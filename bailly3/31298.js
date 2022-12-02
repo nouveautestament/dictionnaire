@@ -1,0 +1,1 @@
+lar[31298]=`<b>ατος (τὸ)</b> avis affiché publiquement, édit, POL. <i>31, 10, 1</i> ; SPT. <i>Esth. 8, 17 ; Ezech. 16, 24</i>.<p><b>Étym</b>. ἐκτίθημι.`

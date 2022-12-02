@@ -1,0 +1,1 @@
+lar[29035]=`<b>δυσ·χώριστος, ος, ον</b>, difficile à séparer, à démêler, PLUT. <i>M. 51a</i>.<p><b>Étym</b>. δ. χωρίζω ; <i>cf</i>. δυσχώρητος.`

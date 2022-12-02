@@ -1,0 +1,1 @@
+lar[93276]=`<b>συγ·καταγηράσκω</b>, vieillir ensemble <i>ou</i> avec, <i>dat. fig. en parl. de couleurs,</i> HDT. <i>1, 203 ; de sentiments, de passions,</i> ARSTT. <i>H.A. 10, 7, 3 ; abs. en parl. des dents,</i> HPC. <i>251, 54</i>.`

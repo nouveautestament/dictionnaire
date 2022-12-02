@@ -1,0 +1,1 @@
+lar[79203]=`<b>εως (ἡ)</b> aspersion, PLAT. <i>Crat. 405b</i>.<p><b>Étym</b>. περιρραίνω.`

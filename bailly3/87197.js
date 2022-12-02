@@ -1,0 +1,1 @@
+lar[87197]=`<b>ας (ἡ)</b> condition de premier-né, ATH. <i>660a</i>.<p><b>Étym</b>. πρωτόγονος.`

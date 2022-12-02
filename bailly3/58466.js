@@ -1,0 +1,1 @@
+lar[58466]=`<b>άδος</b> <font color="purple">[ῠᾰδ]</font> <i>adj. f</i>. de Kydônia, ORPH. <i>H. 35, 12</i>.<p><b>Étym</b>. Κυδωνία.`

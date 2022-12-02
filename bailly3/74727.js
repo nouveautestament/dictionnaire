@@ -1,0 +1,1 @@
+lar[74727]=`<b>παμ·μυσαρός, ά, όν</b> <font color="purple">[ῠᾰρ]</font> tout à fait criminel, scélérat, AR. <i>Lys. 969</i>.<p><b>Étym</b>. π. μυσαρός.`

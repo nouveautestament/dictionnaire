@@ -1,0 +1,1 @@
+lar[52653]=`<b>κατα·κτεατίζομαι</b> <font color="purple">[ᾰτι]</font> (<i>sbj. ao. 2 sg. poét</i>. κατακτεατίσσῃ) se procurer, acquérir, A.RH. <i>3, 136</i>.`

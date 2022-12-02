@@ -1,0 +1,1 @@
+lar[5133]=`<b>Ἀλωπεκόν·νησος, ου (ἡ)</b> Alôpékonnèse (<i>litt</i>. î. aux renards) <i>v. de la Chersonèse de Thrace,</i> DÉM. <i>23, 166 Baiter-Sauppe</i>.<p>➳ <i>L’orthographe par deux</i> ν <i>assurée par le dérivé</i> Ἀλωπεκοννήσιοι, CIA. <i>1, 230, 8,b</i> (<i>450 av. J.-C.), etc. (v. Meisterh. p. 17, 3).</i><p><b>Étym</b>. ἀλώπηξ, νῆσος.`

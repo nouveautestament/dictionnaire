@@ -1,0 +1,1 @@
+lar[107004]=`<b>(ὁ)</b> <font color="purple">[ῡ]</font> Phrynôndas, <i>fourbe fameux à Athènes, au temps de la guerre du Péloponnèse,</i> AR. <i>Th. 861, fr. 92</i> ; ISOCR. <i>382a</i>.`

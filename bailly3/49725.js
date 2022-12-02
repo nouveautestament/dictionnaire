@@ -1,0 +1,1 @@
+lar[49725]=`<b>ἰσό·πυρον, ου (τὸ)</b> <font color="purple">[ῑ̆ῡ]</font> sorte de fumeterre, <i>plante,</i> DIOSC. <i>4, 121</i> ; GAL. <i>13, 180</i>.<p><b>Étym</b>. ἴ. πυρός.`

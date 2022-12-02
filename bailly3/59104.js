@@ -1,0 +1,1 @@
+lar[59104]=`<b>ου (ὁ)</b> Kôès, <i>tyran de Mytilène,</i> HDT. <i>4, 97 ; 5, 11, etc</i>.`

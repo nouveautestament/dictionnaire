@@ -1,0 +1,1 @@
+lar[77309]=`<b>ων (τὰ)</b> <font color="purple">[ᾰᾰρ]</font> Patares (<i>auj</i>. ruines près de Gelemiş) <i>v. de Lycie,</i> HDT. <i>1, 182</i> ; POL. <i>22, 26 etc</i>.`

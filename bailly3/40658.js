@@ -1,0 +1,1 @@
+lar[40658]=`<b>ης (ἡ)</b> Hermônassa, <i>f</i>. ANTH. <i>5, 281</i>.<p><b>Étym</b>. <i>fém. de</i> Ἑρμῶναξ.`

@@ -1,0 +1,1 @@
+lar[37173]=`<i>adv</i>., avec circonspection, BAS.<p><b>Étym</b>. ἐπισκέπτομαι.`

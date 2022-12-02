@@ -1,0 +1,1 @@
+lar[57768]=`<b>Κρεό·φυλος, ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Κρεώφυλος, PLUT. <i>Lys. 23</i>.`

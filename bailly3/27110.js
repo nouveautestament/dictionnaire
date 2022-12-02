@@ -1,0 +1,1 @@
+lar[27110]=`<b>δι·υλάζομαι</b> <font color="purple">[ῡ]</font> (<i>seul. part. pf</i>. διυλασμένος) résoudre <i>ou</i> transformer en matière, PLAT. <i>Tim. 69a</i>.<p><b>Étym</b>. διά, ὕλη.`

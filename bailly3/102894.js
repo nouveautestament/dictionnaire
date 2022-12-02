@@ -1,0 +1,1 @@
+lar[102894]=`<b>ής, ές</b>, <i>gén</i>. <b>εος</b> <font color="purple">[ᾰ]</font> extrêmement joyeux, POL. <i>8, 19, 2, etc.</i> ; MAN. (JOS. <i>c. Ap. 2, 359</i>) ; ἐπί τινι, POL. <i>1, 44, 5,</i> de qqe ch.<p><b>Étym</b>. ὑπερχαίρω.`

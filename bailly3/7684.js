@@ -1,0 +1,1 @@
+lar[7684]=`<b>ἀνα·στένω</b> (<i>seul. prés. et impf</i>. ἀνέστενον) gémir, ESCHL. <i>Ag. 546, etc.</i> ; SOPH. <i>Ph. 737, etc.</i> ; EUR. <i>Hec. 184, etc. ; avec l’acc</i>. gémir sur, EUR. <i>I.T. 551</i>.`

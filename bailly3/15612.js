@@ -1,0 +1,1 @@
+lar[15612]=`<b>ας (ἡ)</b> <font color="purple">[χῐ]</font> fonction du chef des théores, LYS. <i>162, 5</i>.<p><b>Étym</b>. ἀρχιθέωρος.`

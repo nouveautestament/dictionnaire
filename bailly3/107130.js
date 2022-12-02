@@ -1,0 +1,1 @@
+lar[107130]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> φύλλον, DIOSC. <i>3, 176</i>.`

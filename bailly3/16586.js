@@ -1,0 +1,1 @@
+lar[16586]=`<b>ας (ἡ)</b> <font color="purple">[φᾰᾰγ]</font> feuillage d’une tige d’asperge, PLUT. <i>M. 138c</i>.<p><b>Étym</b>. *ἀσφαραγών <i>de</i> ἀσφάραγος².`

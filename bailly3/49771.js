@@ -1,0 +1,1 @@
+lar[49771]=`<b>ἰσο·τράπεζος, ος, ον</b> <font color="purple">[ῑ̆ᾰ]</font> aussi grand que la table, PHILOX. <i>et</i> ANTIPH. (ATH. <i>147b, 169e</i>).<p><b>Étym</b>. ἴ. τράπεζα.`

@@ -1,0 +1,1 @@
+lar[85776]=`<b>προσ·ερίζω</b> (<i>pf</i>. προσήρικα) :<br><b>      1 <i>intr.</i></b> se disputer encore <i>ou</i> en outre contre, <i>dat</i>. ARSTT. <i>H.A. 5, 1</i> ; LGS <i>4, 2</i>.<br><b>      2</b> s’irriter, AQU. <i>Ex. 23, 21</i>.<p>➳ <i>Dor. prés. impér. 2 sg</i>. ποτέρισδε, THCR. <i>Idyl. 5, 60</i>.`

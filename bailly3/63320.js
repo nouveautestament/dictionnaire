@@ -1,0 +1,1 @@
+lar[63320]=`<b>μεγαλ·έμπορος, ου (ὁ)</b> <font color="purple">[ᾰ]</font>, marchand en gros, NAZ. <i>1, 728 Migne</i>.<p><b>Étym</b>. μ. ἔμπορος.`

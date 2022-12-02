@@ -1,0 +1,1 @@
+lar[76077]=`<i>adv</i>., avec une paralysie partielle <i>ou</i> légère, HPC. <i>125d</i>.`

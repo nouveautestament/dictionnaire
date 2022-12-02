@@ -1,0 +1,1 @@
+lar[22773]=`<b>γυμνο·ρρύπαρος, ος, ον</b> <font color="purple">[ρῠᾰ]</font> (à moitié) nu et déguenillé, DL. <i>7, 16</i>.<p><b>Étym</b>. γ. ῥυπαρός.`

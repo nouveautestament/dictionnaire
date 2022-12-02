@@ -1,0 +1,1 @@
+lar[66069]=`<b>μισο·πρόβατος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui hait les brebis <i>ou</i> les animaux, <i>en gén</i>. ARCHYT. (STOB. <i>Fl. 46, 61).</i><p><b>Étym</b>. μ. πρόβατον.`

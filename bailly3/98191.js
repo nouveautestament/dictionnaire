@@ -1,0 +1,1 @@
+lar[98191]=`<b>ας (ἡ)</b> cérémonie d’initiation, célébration d’un mystère, sacrifice, A.RH. <i>1, 917</i> ; CALL. <i>Ap. 77, Cer. 129</i>.<p><b>Étym</b>. τελεσφόρος.`

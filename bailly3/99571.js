@@ -1,0 +1,1 @@
+lar[99571]=`chair du dos, <i>c</i>. νωτιαῖον κρέας, CORINN. <i>fr. 40 Bgk</i>.`

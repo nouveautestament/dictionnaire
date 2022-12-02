@@ -1,0 +1,1 @@
+lar[57707]=`<b>(ὁ)</b> Kreios, <i>fils d’Ouranos et de Gæa,</i> HÉS. <i>Th. 134, 375</i>.`

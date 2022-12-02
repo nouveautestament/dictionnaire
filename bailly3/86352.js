@@ -1,0 +1,1 @@
+lar[86352]=`<b>προσ·πολεμόομαι-οῦμαι</b>, faire en outre la guerre à, <i>acc</i>. THC. <i>3, 3,</i> DC. <i>37, 20</i>.<p><b>Étym</b>. π. πολεμόω.`

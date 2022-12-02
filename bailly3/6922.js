@@ -1,0 +1,1 @@
+lar[6922]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> récapitulation, DH. <i>1, 90</i> ; QUINT. <i>6, 1</i>.`

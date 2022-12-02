@@ -1,0 +1,1 @@
+lar[18830]=`<b>βαθυ·χαίτης, ου</b> <font color="purple">[ᾰῠ]</font> <i>adj. m</i>. à l’épaisse <i>ou</i> longue chevelure, HÉS. <i>Th. 977</i> ; ORPH. <i>H. 55, 7</i>.<p><b>Étym</b>. β. χαίτη.`

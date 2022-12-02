@@ -1,0 +1,1 @@
+lar[87362]=`<b>ωνος (ὁ)</b> oiseau inconnu, ANON. (<i>Com. fr. 4, 647).</i><p><b>Étym</b>. πτερόν.`

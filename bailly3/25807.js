@@ -1,0 +1,1 @@
+lar[25807]=`<b>ας (ἡ) :<br>      1</b> clarté transparente, PLUT. <i>M. 914b ; d’où</i> lueur, clarté, THÉM. <i>115a.</i><br><b>      2</b> ouverture par laquelle passe la lumière, DS. <i>17, 82</i>.<p><b>Étym</b>. διαυγής.`

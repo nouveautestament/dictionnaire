@@ -1,0 +1,1 @@
+lar[27086]=`<b>δι·σώματος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui a deux corps, DS. <i>4, 12</i> ; ORPH. <i>H. 70, 5</i> ; PHIL. <i>2, 481</i>.<p><b>Étym</b>. δίς, σῶμα.`

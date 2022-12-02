@@ -1,0 +1,1 @@
+lar[13895]=`<b>ἀ·προαίρετος, ος, ον</b>, qui se fait sans choix préalable, non délibéré, ARSTT. <i>Nic. 5, 8, 5</i>.<p><b>Étym</b>. ἀ, προαιρέω.`

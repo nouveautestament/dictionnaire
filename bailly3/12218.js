@@ -1,0 +1,1 @@
+lar[12218]=`<b>εως (ἡ)</b> action de mettre à nu, PLUT. <i>M. 142d, 751f ; en parl. d’épées qu’on dégaine,</i> APP. <i>2, 90 Schweigh</i>.<p><b>Étym</b>. ἀπογυμνόω.`

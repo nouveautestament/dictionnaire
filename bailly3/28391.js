@@ -1,0 +1,1 @@
+lar[28391]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> atteint de dysenterie, HPC. <i>142, 191</i> ; ARÉT. <i>61</i>.<p><b>Étym</b>. δυσεντερία, -ωδης.`

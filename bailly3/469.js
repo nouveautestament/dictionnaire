@@ -1,0 +1,1 @@
+lar[469]=`<font color="purple">[ᾰγ]</font> <i>adv</i>., sans rire, PLAT. <i>Euthyd. 278e ;</i> PLUT. <i>M. 727a</i>.<p><b>Étym</b>. ἀγέλαστος.`

@@ -1,0 +1,1 @@
+lar[67640]=`<b>(τὸ)</b> moutarde, AR. <i>Eq. 631</i> ; ATH. <i>28d, etc</i>.<p>➳ <i>Gén</i>. -υος, TH. <i>H.P. 1, 12, 1 ; dat</i>. -υϊ, LUC. <i>As. 47</i>.<p><b>Étym</b>. <i>cf</i>. σίναπι.`

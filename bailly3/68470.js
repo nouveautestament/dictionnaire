@@ -1,0 +1,1 @@
+lar[68470]=`<b>οῦ (ὁ)</b> goût <i>ou</i> penchant pour les nouveautés, <i>d’où</i> innovation, révolution, DÉM. <i>215, 26</i> ; PLUT. <i>Thes. 32, Lys. 24, M. 815b, etc.</i> ; LUC. <i>Zeux. 1 ; au pl</i>. PLAT. <i>Leg. 758</i>.<p><b>Étym</b>. νεωτερίζω.`

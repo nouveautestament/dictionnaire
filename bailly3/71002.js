@@ -1,0 +1,1 @@
+lar[71002]=`<b>ὀλιγο·γόνατος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui a peu d’articulations <i>ou</i> de nœuds, TH. <i>H.P. 4, 11, 11</i>.<p><b>Étym</b>. ὀλ. γόνυ.`

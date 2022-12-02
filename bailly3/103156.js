@@ -1,0 +1,1 @@
+lar[103156]=`<b>ὑπο·δῃόω-ῶ</b>, bouleverser, ravager, détruire, Q. SM. <i>2, 260 ; 3, 355</i>.`

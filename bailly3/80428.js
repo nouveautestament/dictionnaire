@@ -1,0 +1,1 @@
+lar[80428]=`<b>η, ον</b> <font color="purple">[ῐῐ]</font> fait avec des pois, AR. <i>Eq. 1171</i> ; ANTIPH. (<i>Com. fr. 3, 101).</i><p><b>Étym</b>. πίσος.`

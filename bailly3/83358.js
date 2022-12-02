@@ -1,0 +1,1 @@
+lar[83358]=`<b>α, ον</b> <font color="purple">[ῡῐδ]</font> <i>c</i>. πρεσβυτικός EL. <i>V.H. 2, 34 vulg</i>.`

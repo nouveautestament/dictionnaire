@@ -1,0 +1,1 @@
+lar[34456]=`<b>ἐν·ηδυπαθέω-ῶ</b> <font color="purple">[ῠᾰ]</font> être charmé de, <i>dat</i>. PHIL. <i>2, 326</i>.`

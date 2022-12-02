@@ -1,0 +1,1 @@
+lar[1393]=`<i>adv</i>., sans tromper, SEXT. <i>232 Bkk</i>.`

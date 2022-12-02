@@ -1,0 +1,1 @@
+lar[53391]=`<b>κατα·σοβέω-ῶ</b>, faire fuir, pourchasser, ARSTT. <i>Mir. 118, 2</i> ; PARTH. <i>14</i>.`

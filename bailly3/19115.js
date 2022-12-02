@@ -1,0 +1,1 @@
+lar[19115]=`<b>βαρυ·αχής, ής, ές</b> <font color="purple">[ᾰῠᾰ]</font> très douloureux, SOPH. <i>O.C. 1561</i>.<p><b>Étym</b>. β. ἄχος.`

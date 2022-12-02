@@ -1,0 +1,1 @@
+lar[22525]=`<b>ή, όν</b>, de Gortyne, PLAT. <i>Leg. 708a</i>.`

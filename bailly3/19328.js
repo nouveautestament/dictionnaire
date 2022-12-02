@@ -1,0 +1,1 @@
+lar[19328]=`<b>(ὁ)</b> Batakès, <i>h</i>. PLUT. <i>Mar. 17</i>.`

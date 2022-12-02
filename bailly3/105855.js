@@ -1,0 +1,1 @@
+lar[105855]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour de la parure, PLUT. <i>Phil. 9</i> ; CLÉM. <i>233</i>.<p><b>Étym</b>. φιλόκοσμος.`

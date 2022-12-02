@@ -1,0 +1,1 @@
+lar[59866]=`<b>ας (ἡ)</b> = <i>lat</i>. Larentia, <i>n. de f. et divinité rom</i>. PLUT. <i>Rom. 4, etc</i>.`

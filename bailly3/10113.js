@@ -1,0 +1,1 @@
+lar[10113]=`<i>adv</i>., avec une forme correspondant à, <i>dat</i>. PLUT. <i>Crass. 32</i>.`

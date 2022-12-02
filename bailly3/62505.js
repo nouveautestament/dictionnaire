@@ -1,0 +1,1 @@
+lar[62505]=`<b>μακρο·γόγγυλος, ος, ον</b> <font color="purple">[ῠ]</font> en forme d’ovale allongé, EPICH. (ATH. <i>85d</i>).<p><b>Étym</b>. μ. γογγύλος.`

@@ -1,0 +1,1 @@
+lar[96597]=`<b>συσκηνέω-ῶ :<br>      1</b> loger sous la même tente avec, <i>dat</i>. XÉN. <i>Lac. 13, 1 ; abs</i>. XÉN. <i>Hell. 3, 2, 8 ; 5, 3, 20</i> ; PLUT. <i>Alc. 4</i>.<br><b>      2</b> <i>p. ext</i>. vivre <i>ou</i> manger ensemble, XÉN. <i>Lac. 5, 4 ; Cyr. 2, 2, 1 ; 3, 2, 25</i> ; ARR. <i>Epict. 2, 22, 37</i>.<p><b>Étym</b>. σύσκηνος.`

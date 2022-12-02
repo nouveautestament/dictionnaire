@@ -1,0 +1,1 @@
+lar[44588]=`<b>ου (τὸ)</b> <font color="purple">[μῑ]</font> <i>c</i>. σμιλίον, SEXT. <i>638, 20 Bkk</i>.`

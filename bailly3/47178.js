@@ -1,0 +1,1 @@
+lar[47178]=`<b>θηλυ·γόνος, ος, ον</b> <font color="purple">[ῠ]</font> qui procrée des êtres du sexe féminin, HPC. <i>683 fin</i> ; ARSTT. <i>G.A. 4, 2, 1 ; H.A. 7, 6, 2 ; en parl. d’animaux, ibid. ; subst</i>. τὸ θηλυγόνον, DIOSC. <i>3, 140,</i> sorte de plante.<p><b>Étym</b>. θ. γίγνομαι.`

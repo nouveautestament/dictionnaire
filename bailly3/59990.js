@@ -1,0 +1,1 @@
+lar[59990]=`<b>Λα·φάνης, ους (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Laphanès, <i>h</i>. HDT. <i>6, 127</i>.<p><b>Étym</b>. λαός, φαίνω ; <i>dor. c</i>. Λεωφάνης.`

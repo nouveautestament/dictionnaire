@@ -1,0 +1,1 @@
+lar[93963]=`<b>συμ·μεταρρέω</b>, s’écouler ensemble <i>ou</i> en même temps, SIMPL. <i>Epict. p. 81</i>.`

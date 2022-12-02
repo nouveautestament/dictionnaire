@@ -1,0 +1,1 @@
+lar[11489]=`<b>ἀπ·αφρίζω</b> (<i>part. pf. pass</i>. ἀπηφρισμένος) jeter de l’écume, GEOP. <i>8, 29, 32 ; au pass</i>. GEOP. <i>8, 27, 2 et 30</i>.`

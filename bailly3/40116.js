@@ -1,0 +1,1 @@
+lar[40116]=`<b>ἔπ·ωχρος, ος, ον</b>, verdâtre, d’un vert pâle, HPC. <i>V.C. 911</i>.<p><b>Étym</b>. ἐπί, ὠχρός.`

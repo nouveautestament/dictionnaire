@@ -1,0 +1,1 @@
+lar[1951]=`<font color="purple">[ᾱᾰᾰ]</font> <i>adv</i>., pour l’immortalité, ANTH. <i>9, 570</i>.`

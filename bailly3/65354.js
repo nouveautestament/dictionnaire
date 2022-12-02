@@ -1,0 +1,1 @@
+lar[65354]=`<b>*μῆλας (τὸ)</b> <i>seul. gén. pl</i>. μηλάτων, mouton, brebis, LYC. <i>106</i>.<p><b>Étym</b>. <i>v</i>. μῆλον¹.`

@@ -1,0 +1,1 @@
+lar[49660]=`<b>ἰσο·κρατής, ής, ές</b> <font color="purple">[ῑ̆ᾰ]</font><br><b>      1</b> qui a une puissance <i>ou</i> une force égale, HPC. <i>474, 4</i> ; PLUT. <i>M. 827b ;</i> τινι, HDT. <i>4, 26,</i> qui a la même puissance <i>ou</i> les mêmes droits qu’un autre.<br><b>      2</b> égal, <i>en gén</i>. ARSTT. <i>Probl. 26, 26, 3</i>.<p><b>Étym</b>. ἴ. κράτος.`

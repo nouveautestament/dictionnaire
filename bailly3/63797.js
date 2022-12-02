@@ -1,0 +1,1 @@
+lar[63797]=`<b>άδος (ἡ)</b> <i>sorte de poisson,</i> CRAT. (ATH. <i>303d</i>).`

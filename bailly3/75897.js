@@ -1,0 +1,1 @@
+lar[75897]=`<b>Παρ·άλπιος, ος, ον</b>, qui habite près des Alpes, PLUT. <i>Æmil. 6</i>.<p><b>Étym</b>. π. Ἄλπεις.`

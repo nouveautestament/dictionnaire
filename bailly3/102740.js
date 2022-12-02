@@ -1,0 +1,1 @@
+lar[102740]=`<b>ὑπερ·παφλάζω</b>, bouillonner outre mesure <i>ou</i> par-dessus, LUC. <i>Lex. 8</i>.`

@@ -1,0 +1,1 @@
+lar[43578]=`faire peu de cas de, déprécier, <i>acc</i>. PLUT. <i>M. 1073c ;</i> LUC. <i>Im. 13</i>.<p><b>Étym</b>. εὐτελής.`

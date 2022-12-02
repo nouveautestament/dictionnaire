@@ -1,0 +1,1 @@
+lar[41139]=`<b>ου (τὸ)</b> temple de Vesta, <i>à Rome,</i> DC. <i>42, 31</i>.<p><b>Étym</b>. Ἑστία.`

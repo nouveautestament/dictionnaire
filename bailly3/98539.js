@@ -1,0 +1,1 @@
+lar[98539]=`<b>τετραγωνέω-ῶ</b> <font color="purple">[ᾰ]</font> former un carré avec, être en conjonction quadrangulaire avec, <i>t. d’astrol</i>. LUC. <i>Philopatr. 24</i>.<p><b>Étym</b>. τετράγωνος.`

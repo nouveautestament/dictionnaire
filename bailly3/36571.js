@@ -1,0 +1,1 @@
+lar[36571]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰν]</font> percepteur d’impôts, exacteur, SYMM. <i>Job 3, 18 (cf</i>. φορολόγος).<p><b>Étym</b>. ἐπαναγκάζω.`

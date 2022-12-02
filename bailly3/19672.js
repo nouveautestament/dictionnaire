@@ -1,0 +1,1 @@
+lar[19672]=`<b>βιαιο·θάνατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> frappé de mort violente, P. ALEX. <i>Apot. 24, p. 66, l. 10 Boer</i> ; TERTULL. <i>2, 747b</i>.<p><b>Étym</b>. βίαιος, θάνατος.`

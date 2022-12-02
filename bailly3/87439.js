@@ -1,0 +1,1 @@
+lar[87439]=`<b>ου (τὸ)</b> tablettes à écrire, NAZ. <i>Ep. 202, p. 332b Migne</i>.<p><b>Étym</b>. πτυκτός.`

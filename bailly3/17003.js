@@ -1,0 +1,1 @@
+lar[17003]=`<i>att. p</i>. <b>ἅτινα</b>, <i>plur. neutre de</i> ὅστις : οὐκ οἶδ' ἅ. σοφίζει, PLAT. <i>Gorg. 497a</i>, je ne sais quels sophismes tu imagines ; ἅττ' ἂν περὶ ἰατρικῆς λέγῃς, PLAT. <i>Conv. 176d</i>, ce que tu pourrais dire sur la médecine.`

@@ -1,0 +1,1 @@
+lar[33884]=`<b>ἐναντιο·δρομέω-ῶ</b>, courir en sens inverse : ἀλλήλοις, STR. <i>738,</i> les uns des autres ; <i>abs</i>. TH. <i>Vent. 28</i>.<p><b>Étym</b>. ἐν. δρόμος.`

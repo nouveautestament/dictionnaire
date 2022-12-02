@@ -1,0 +1,1 @@
+lar[38522]=`<b>ἐπι·νήφω</b> (<i>seul. prés</i>.) demeurer sobre pour, LUC. <i>Am. 45, ou</i> pendant, PLUT. <i>M. 87e</i>.`

@@ -1,0 +1,1 @@
+lar[65881]=`<b>Μινυα·μάχος, ος, ον</b> <font color="purple">[ῐᾱᾰ]</font> qui combat contre les Minyes, ANTH. <i>6, 116</i>.<p><b>Étym</b>. Μινύαι, μάχομαι.`

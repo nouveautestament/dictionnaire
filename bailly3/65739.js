@@ -1,0 +1,1 @@
+lar[65739]=`<b>μικρο·σιτία, ας (ἡ)</b> <font color="purple">[σῑ]</font> maigre chère, ALEX. <i>fr. 196-197 Kock</i>.<p><b>Étym</b>. μ. σῖτος.`

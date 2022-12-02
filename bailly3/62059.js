@@ -1,0 +1,1 @@
+lar[62059]=`<b>Λυσί·στρατος, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> Lysistratos, <i>h</i>. HDT. <i>8, 96</i> ; THC. <i>4, 110</i> ; AR. <i>Ach. 855, etc</i>.<p><b>Étym</b>. λύω, στρατός.`

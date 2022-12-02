@@ -1,0 +1,1 @@
+lar[77928]=`<b>πενθ·ήρης, ης, ες</b>, de deuil, qui est dans le deuil, EUR. <i>Ph. 323, etc</i>.<p><b>Étym</b>. πένθος, *ἄρω.`

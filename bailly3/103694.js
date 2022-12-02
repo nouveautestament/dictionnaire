@@ -1,0 +1,1 @@
+lar[103694]=`<b>ὑπό·πλεος, ος, ον</b>, <i>att</i>. <b>ὑπό·πλεως, ως, ων</b>, presque plein, HDT. <i>7, 47 ; avec le gén</i>. TIMOCR. <i>1, 10</i> ; LUC. <i>Somn. 4</i>.<p><b>Étym</b>. ὑ. πλέος.`

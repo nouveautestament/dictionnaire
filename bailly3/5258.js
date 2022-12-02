@@ -1,0 +1,1 @@
+lar[5258]=`<b>ή, όν</b> <font color="purple">[ᾰμ]</font> sujet à faillir, ARSTT. <i>Nic. 2, 3, 7</i> ; PLUT. <i>M. 420d</i>.<p><b>Étym</b>. ἁμαρτάνω.`

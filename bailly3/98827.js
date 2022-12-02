@@ -1,0 +1,1 @@
+lar[98827]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. m. c</i>. τεφρός, EL. <i>N.A. 10, 44</i>.`

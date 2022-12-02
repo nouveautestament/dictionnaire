@@ -1,0 +1,1 @@
+lar[20255]=`<b>άδος :<br>      1</b> <i>adj. f</i>. bien nourri, gras, <i>en parl. d’animaux,</i> NIC. <i>782</i> ; AL. <i>293</i>.<br><b>      2</b> <i>subst</i>. ἡ β. sorte de canard (<i>Anas crecca</i> L.), ARSTT. <i>H.A. 8, 3, 15</i>.<p><b>Étym</b>. βόσκω.`

@@ -1,0 +1,1 @@
+lar[23129]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Damasos :<br><b>      1</b> <i>Troyen,</i> IL. <i>12, 183</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>6, 127</i> ; CALL. <i>fr. 154</i>.`

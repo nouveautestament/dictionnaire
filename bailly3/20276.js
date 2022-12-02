@@ -1,0 +1,1 @@
+lar[20276]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>seul. plur</i>. τὰ βόστρυχα, <i>c</i>. βόστρυχος ANTH. <i>5, 260</i>.`

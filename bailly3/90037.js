@@ -1,0 +1,1 @@
+lar[90037]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font> fort, puissant, IL. <i>9, 505</i> ; HPC. <i>Fract. 773</i> ; EUR. <i>El. 389</i> ; A.RH. <i>4, 543</i>.<p>•<i> Cp</i>. -ώτερος, SOPH. <i>O.R. 467</i>.<p><b>Étym</b>. σθένος.`

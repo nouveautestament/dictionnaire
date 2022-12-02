@@ -1,0 +1,1 @@
+lar[94631]=`<b>συν·αλαλάζω</b> <font color="purple">[ᾰλᾰ]</font><br><b>      1 <i>intr.</i></b> pousser une clameur, POL. <i>1, 34, 2</i>.<br><b>      2 <i>tr.</i></b> acclamer, <i>acc</i>. EUR. <i>H.f. 11</i>.`

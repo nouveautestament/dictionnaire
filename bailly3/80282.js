@@ -1,0 +1,1 @@
+lar[80282]=`<b>πικρο·λογία, ας (ἡ)</b> langage amer, ARSTT. <i>Virt. et vit. 6, 3</i>.<p><b>Étym</b>. π. λόγος.`

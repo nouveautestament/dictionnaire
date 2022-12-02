@@ -1,0 +1,1 @@
+lar[41651]=`<b>εὐ·άρματος, ος, ον</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> aux beaux chars, SOPH. <i>Ant. 845</i>.<br><b>      2</b> heureux à la course des chars, PD. <i>P. 2, 5 et 7</i>.<p><b>Étym</b>. εὖ, ἅρμα.`

@@ -1,0 +1,1 @@
+lar[95749]=`<b>συν·ερέω-ῶ</b> (<i>pf</i>. συνείρηκα) <i>fut. et pf. de</i> συναγορεύω, parler en faveur de, <i>dat</i>. DÉM. <i>202, 4, etc. ; abs</i>. XÉN. <i>Cyr. 2, 2, 22 ; 8, 1, 6</i>.`

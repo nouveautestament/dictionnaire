@@ -1,0 +1,1 @@
+lar[53646]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> baiser, PHIL. <i>1, 480</i>.<p><b>Étym</b>. καταφιλέω.`

@@ -1,0 +1,1 @@
+lar[60823]=`<b>ῶνος (ὁ)</b> le mois Lènæôn (<i>postér</i>. le mois Γαμηλιών) <i>seconde moitié de Janvier et première moitié de Février,</i> HÉS. <i>O. 502</i> ; PLUT. <i>Comm. in Hesiod. p. 29</i>.<p><b>Étym</b>. Ληναῖος.`

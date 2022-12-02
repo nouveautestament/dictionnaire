@@ -1,0 +1,1 @@
+lar[83922]=`<b>προ·διακονέω-ῶ</b> <font color="purple">[ᾱ]</font> être attaché auparavant au service de qqn, JOS. <i>A.J. 18, 3, 4</i>.`

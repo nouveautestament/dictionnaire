@@ -1,0 +1,1 @@
+lar[49408]=`<b>ἱππο·σέλινον, ου (τὸ)</b> <font color="purple">[ῑν]</font> maceron, <i>plante (Smyrnium olus atrum</i> L.) TH. <i>H.P. 2, 2, 1</i> ; DIOSC. <i>3, 78 ; fig</i>. PHÉRÉCR. (ATH. <i>685a</i>).<p><b>Étym</b>. ἵ. σέλινον.`

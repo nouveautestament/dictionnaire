@@ -1,0 +1,1 @@
+lar[46503]=`<b>θειό·στεπτος, ος, ον</b>, couronné par Dieu, HLD. <i>Carm. ad Theod. 18</i>.<p><b>Étym</b>. θεῖος¹, στέφω.`

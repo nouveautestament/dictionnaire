@@ -1,0 +1,1 @@
+lar[71722]=`<b>ὁμό·τονος, ος, ον</b>, <i>propr</i>. également tendu, <i>d’où</i> :<br><b>      1</b> qui résonne avec une force égale, PLAT. <i>Phil. 17c.</i><br><b>      2</b> également intense, GAL.<br><b>      3</b> qui a le même accent, DYSC. <i>Pron. 103c, etc</i>.<p><b>Étym</b>. ὁμ. τόνος.`

@@ -1,0 +1,1 @@
+lar[77952]=`<b>πενόομαι-οῦμαι</b> <font color="darkgreen">(<i>part. ao</i>. πενωθείς)</font> devenir pauvre, MÉN. <i>Monost. 508</i>.<p><b>Étym</b>. πένης.`

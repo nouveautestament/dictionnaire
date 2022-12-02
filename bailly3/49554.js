@@ -1,0 +1,1 @@
+lar[49554]=`<b>ἰσηγορέω-ῶ</b> <i>et</i> <b>ἰσηγορέομαι-οῦμαι</b> <font color="purple">[ῑ̆]</font> parler avec une égale liberté, SPT. <i>Sir. 13, 11</i>.<p><b>Étym</b>. *ἰσήγορος, <i>de</i> ἴ. ἀγορεύω.`

@@ -1,0 +1,1 @@
+lar[84599]=`<b>πρό·κρημνος, ος, ον</b>, qui forme un escarpement en saillie, JOS. <i>Macc. 7</i>.<p><b>Étym</b>. π. κρημνός.`

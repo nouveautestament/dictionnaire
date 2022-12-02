@@ -1,0 +1,1 @@
+lar[9266]=`<b>ἀν·ομόζηλος, ος, ον</b>, de goûts différents, SEXT. <i>M. 7, 56</i>.<p><b>Étym</b>. ἀν-, ὁ.`

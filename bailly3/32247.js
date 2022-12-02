@@ -1,0 +1,1 @@
+lar[32247]=`<b>ἐκ·τρυχόω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> épuiser, THC. <i>3, 93 ; 7, 48</i>.<br><b>      2</b> user, mettre en lambeaux, LUC. <i>Tox. 30</i>.<p><b>Étym</b>. ἐκτρύχω.`

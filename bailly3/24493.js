@@ -1,0 +1,1 @@
+lar[24493]=`<b>ης (ἡ) :<br>      1</b> délibération : περί τινος, THC. <i>3, 42</i>, au sujet de qqe ch.<br><b>      2</b> décision, THC. <i>1, 87</i> ; διαγνώμην ποιεῖσθαι, THC. <i>3, 67</i>, rendre une sentence.<p><b>Étym</b>. διαγιγνώσκω.`

@@ -1,0 +1,1 @@
+lar[100284]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> division en trois parties, SALLUST. <i>De diis c. 11, p. 264</i>.<p><b>Étym</b>. τριμερής.`

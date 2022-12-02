@@ -1,0 +1,1 @@
+lar[18315]=`<b>ἀφ·υπνόω-ῶ</b>, <i>f</i>. ώσω :<br><b>      1</b> s’éveiller, ANTH. <i>9, 517</i>.<br><b>      2</b> s’endormir, NT. <i>Luc. 8, 23</i> ; A. DIOG. <i>9</i>.<br><b><i>Moy.</i></b> s’endormir, HLD. <i>9, 12 (var</i>. ὑφυπν.).<p><b>Étym</b>. ἀπό, ὑπνόω.`

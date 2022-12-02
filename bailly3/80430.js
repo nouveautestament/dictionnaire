@@ -1,0 +1,1 @@
+lar[80430]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> <i>c</i>. πίσος ALEX. (<i>Com. fr. 3, 524</i>).`

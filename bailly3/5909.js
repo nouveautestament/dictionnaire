@@ -1,0 +1,1 @@
+lar[5909]=`<b>ονος (ὁ)</b> <font color="purple">[ᾰῠᾱ]</font> Amythaôn, <i>fondateur de Pylos,</i> OD. <i>11, 259, etc</i>.<p>➳ <i>Dor</i>. Ἀμυθάν, -ᾶνος, PD. <i>P. 4, 129 ; ion</i>. Ἀμυθέων, HDT. <i>2, 49</i>.`

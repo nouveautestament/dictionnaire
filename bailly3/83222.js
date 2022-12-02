@@ -1,0 +1,1 @@
+lar[83222]=`<b>ας (ἡ)</b> soin de s’enrichir, STOB. <i>Ecl. eth. p. 332</i>.<p><b>Étym</b>. πράκτωρ.`

@@ -1,0 +1,1 @@
+lar[63349]=`<b>μεγαλο·δαίμων, ονος (ὁ)</b> <font color="purple">[ᾰ]</font> le grand génie, <i>càd</i>. la divinité, CLÉM. <i>42</i>.<p><b>Étym</b>. μ. δ.`

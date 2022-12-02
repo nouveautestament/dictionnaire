@@ -1,0 +1,1 @@
+lar[15335]=`<b>ἀρτί·δορος, ος, ον</b> <font color="purple">[ῐ]</font> nouvellement écorché, ANTH. <i>6, 22</i>.<p><b>Étym</b>. ἄ. δέρω.`

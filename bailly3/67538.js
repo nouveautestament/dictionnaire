@@ -1,0 +1,1 @@
+lar[67538]=`<b>μωρό·κακος, ος, ον</b> <font color="purple">[ᾰ]</font> fou et méchant, PROCL. <i>Ptol. p. 223</i>.<p><b>Étym</b>. μωρός, κακός.`

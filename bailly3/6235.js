@@ -1,0 +1,1 @@
+lar[6235]=`<b>ἀμφι·λιπής, ής, ές</b> <font color="purple">[λῐ]</font> <i>t. de pros</i>. incomplet aux deux extrémités, <i>en parl. de certaines sortes de vers,</i> M. VICT. <i>6-1, p. 110, 31 Gramm. lat. Keil</i>.<p><b>Étym</b>. ἀ. λείπω.`

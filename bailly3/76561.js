@@ -1,0 +1,1 @@
+lar[76561]=`<i>2 sg. ind. prés. de</i> πάρειμι¹ <i>et</i> πάρειμι²,<br><i>2 sg. impér. prés. de</i> πάρειμι².`

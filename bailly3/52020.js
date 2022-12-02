@@ -1,0 +1,1 @@
+lar[52020]=`<i>adv</i>., en léthargie, GAL. <i>14, 4</i>.`

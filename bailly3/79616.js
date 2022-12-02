@@ -1,0 +1,1 @@
+lar[79616]=`<b>περι·φόρινος, ος, ον</b> <font color="purple">[ρῑ]</font> enveloppé d’une peau épaisse, DIPH. (ATH. <i>383f</i>).<p><b>Étym</b>. π. φορίνη.`

@@ -1,0 +1,1 @@
+lar[35653]=`<b>ἐξ·αυδάω-ῶ :<br>      1</b> dire sans détour, IL. <i>1, 363 ; 16, 19, etc.</i><br><b>      2</b> chanter, EUR. <i>I.T. 181 ; qqf</i>. pousser des cris, EUR. <i>Hipp. 590</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ESCHL. <i>Ch. 150, 272</i>.`

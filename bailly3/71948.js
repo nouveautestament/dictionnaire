@@ -1,0 +1,1 @@
+lar[71948]=`<b>ὀνο·ειδής, ής, ές</b>, qui ressemble à un âne, ORIG. <i>c. Cels. 6, p. 359</i>.<p><b>Étym</b>. ὄν. εἶδος.`

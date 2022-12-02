@@ -1,0 +1,1 @@
+lar[51557]=`<b>ου (ὁ)</b> <font color="purple">[κᾰ]</font> homme long et maigre comme un échalas (<i>propr</i>. comme une règle de bois) HPC. <i>294, 55</i>.<p><b>Étym</b>. κανών.`

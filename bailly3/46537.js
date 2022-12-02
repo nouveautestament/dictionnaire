@@ -1,0 +1,1 @@
+lar[46537]=`<b>θελξί·μβροτος, ος, ον</b>, qui charme les mortels, ORPH. <i>Lith. 315</i>.<p><b>Étym</b>. θέλγω, βροτός.`

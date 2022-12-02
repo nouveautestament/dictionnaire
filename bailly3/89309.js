@@ -1,0 +1,1 @@
+lar[89309]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> petite planche, AR. <i>Pax 202</i>.<br><b>      2</b> <i>particul</i>. tablette pour afficher les lois, décrets <i>ou</i> arrêts, LYS. <i>146, 6</i> ; ESCHN. <i>82, 29</i>.<p><b>Étym</b>. <i>dim. de</i> σανίς.`

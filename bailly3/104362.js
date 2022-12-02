@@ -1,0 +1,1 @@
+lar[104362]=`<b>εως (ἡ)</b> action d’étendre sous, RHÉT. <i>7, 268 W</i>.<p><b>Étym</b>. ὑφαπλόω.`

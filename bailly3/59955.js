@@ -1,0 +1,1 @@
+lar[59955]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>var. p</i>. λατομεῖον, STR. <i>238, 395</i>.`

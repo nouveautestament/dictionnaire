@@ -1,0 +1,1 @@
+lar[20168]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> cocon de ver à soie, ARSTT. <i>H.A. 5, 19, 11</i>.<br><b>      2</b> sorte d’insecte bourdonnant, ARSTT. <i>H.A. 5, 24</i>.`

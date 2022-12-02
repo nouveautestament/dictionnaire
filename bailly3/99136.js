@@ -1,0 +1,1 @@
+lar[99136]=`<b>η, ον</b> <font color="purple">[ῐῠᾱ]</font> d’euphorbe, AÉT.<p><b>Étym</b>. τιθύμαλος.`

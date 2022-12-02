@@ -1,0 +1,1 @@
+lar[80308]=`<b>πιλο·ποιϊκός, ή, όν</b> <font color="purple">[πῑ]</font> qui concerne la fabrication du feutre, GAL. <i>13, 827</i>.`

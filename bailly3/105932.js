@@ -1,0 +1,1 @@
+lar[105932]=`<b>Φιλο·μήλα, ας (ἡ)</b> <font color="purple">[ῐᾱ]</font> Philomèla, <i>sœur de Proknè et fille de Pandiôn, changée en hirondelle,</i> DÉM. <i>1397, 28</i> ; APD. <i>3, 14, 8</i>.<p>➳ <i>Ion</i>. Φιλομήλη, NONN. <i>D. 12, 75</i>.<p><b>Étym</b>. φ. -μήλα <i>p.-ê. p. allong. de</i> μέλος.`

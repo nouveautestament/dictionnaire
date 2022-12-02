@@ -1,0 +1,1 @@
+lar[2325]=`<b>ου (ὁ)</b> Ægyptios, <i>litt</i>. l’Égyptien, <i>h</i>. OD. <i>2, 15</i>.`

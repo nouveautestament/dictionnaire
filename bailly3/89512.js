@@ -1,0 +1,1 @@
+lar[89512]=`<b>(ὁ)</b> Satiphernès, <i>Perse,</i> PLUT. <i>Artax. 11</i>.`

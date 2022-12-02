@@ -1,0 +1,1 @@
+lar[52063]=`<i>att</i>. <b>καττιτέρινος, η, ον</b> <font color="purple">[ῐῐ]</font> d’étain, PLUT. <i>M. 1075c ;</i> GAL. <i>14, 309, etc</i>.<p><b>Étym</b>. κασσίτερος.`

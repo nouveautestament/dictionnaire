@@ -1,0 +1,1 @@
+lar[68455]=`<b>νε·ώνητος, ος, ον</b>, nouvellement acheté, AR. <i>Pl. 769, Eq. 2</i>.<p><b>Étym</b>. νέος, ὠνέομαι.`

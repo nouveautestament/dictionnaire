@@ -1,0 +1,1 @@
+lar[93730]=`<b>συκόω-ῶ</b> <font color="purple">[ῡ]</font> nourrir de figues, ANTH. <i>9, 487</i>.<p><b>Étym</b>. σῦκον.`

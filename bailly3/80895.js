@@ -1,0 +1,1 @@
+lar[80895]=`<b>πλεονοσυλλαβέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir plus de syllabes que, <i>gén</i>. DYSC. <i>Pron. 360</i>.<p><b>Étym</b>. πλεονοσύλλαβος.`

@@ -1,0 +1,1 @@
+lar[64017]=`<b>Μελι·κέρτης, ου (ὁ)</b> Mélikertès (Mélicerte) <i>dieu marin,</i> PD. <i>fr. 1</i> ; NONN. <i>D. 5, 558, etc</i>.<p>➳ <i>Voc</i>. Μελικέρτα, ANTH. <i>6, 349 ; gén. épq</i>. Μελικέρτεω, ANTH. <i>7, 303</i>.`

@@ -1,0 +1,1 @@
+lar[32540]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Élatos :<br><b>      1</b> <i>guerrier,</i> IL. <i>6, 33</i>.<br><b>      2</b> <i>prétendant de Pénélope,</i> OD. <i>22, 267</i>.<br><b>      3</b> <i>Spartiate,</i> PLUT. <i>Lyc. 7</i>.`

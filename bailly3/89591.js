@@ -1,0 +1,1 @@
+lar[89591]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. σαφῶς, THGN. <i>957</i> ; ESCHL. <i>Pr. 781</i>.<p>➳ <i>Ion</i>. σαφηνέως, HDT. <i>1, 140 ; 3, 122 ; 6, 82</i>.<p><b>Étym</b>. σαφηνής.`

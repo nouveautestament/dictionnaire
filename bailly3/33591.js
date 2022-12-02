@@ -1,0 +1,1 @@
+lar[33591]=`<b>οῦ (ὁ)</b> incendie, DH. <i>2, 745 Reiske</i> ; PLUT. <i>M. 824e ;</i> ARR. <i>Epict. 3, 13, 10</i>.<p><b>Étym</b>. ἐμπίπρημι.`

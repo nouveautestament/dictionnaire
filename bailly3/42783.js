@@ -1,0 +1,1 @@
+lar[42783]=`<b>ατος (τὸ)</b> action conforme aux lois, CHRYSIPP. (PLUT. <i>M. 1041a</i>).<p><b>Étym</b>. εὐνομέω.`

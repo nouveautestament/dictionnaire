@@ -1,0 +1,1 @@
+lar[27918]=`<b>(τὸ)</b> <font color="purple">[ῐ]</font> <i>seul. nom. et acc. sg</i>. δρίος, OD. <i>14, 353 (nom</i>.) ; ANTH. <i>7, 203 (acc</i>.) ; OPP. <i>H. 4, 588 (acc) ; pl</i>. δρία, HÉS. <i>O. 528</i> ; SOPH. <i>Tr. 1012</i> ; EUR. <i>Hel. 1326</i> ; A.RH. <i>4, 970,</i> petit bois, taillis.`

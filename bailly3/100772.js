@@ -1,0 +1,1 @@
+lar[100772]=`<b>τροχηλατέω-ῶ</b> <font color="purple">[ᾰ]</font> faire tourner comme une roue, faire bondir, EUR. <i>El. 1253, Or. 36</i>.<p><b>Étym</b>. τροχήλατης.`

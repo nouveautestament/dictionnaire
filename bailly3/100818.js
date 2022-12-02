@@ -1,0 +1,1 @@
+lar[100818]=`<i>ion</i>. <b>Τρυγίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Trygia (<i>litt</i>. lie <i>ou</i> barbouillée de lie), <i>Bacchante,</i> NONN. <i>D. 14, 227, etc</i>.<p><b>Étym</b>. τρύξ.`

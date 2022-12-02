@@ -1,0 +1,1 @@
+lar[34730]=`<b>α, ον</b> <font color="purple">[λᾰ]</font> neuf fois aussi grand, IBYC. (ATH. <i>39b</i>).<p><b>Étym</b>. ἐ. -πλάσιος.`

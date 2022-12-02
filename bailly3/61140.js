@@ -1,0 +1,1 @@
+lar[61140]=`<b>ά, όν</b> <font color="purple">[ῐ]</font> pourvu d’un bon port <i>ou</i> qui forme un bon port, STR. <i>8, 6, 1 Kram</i>.<p><b>Étym</b>. λιμήν.`

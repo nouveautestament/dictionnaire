@@ -1,0 +1,1 @@
+lar[45197]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’exposer <i>ou</i> de s’exposer au soleil, DC. <i>59, 7</i> ; GEOP. <i>7, 1, 3</i>.<p><b>Étym</b>. ἡλιάζω.`

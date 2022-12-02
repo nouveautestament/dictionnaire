@@ -1,0 +1,1 @@
+lar[70732]=`<b>οἰτό·λινος, ου (ὁ)</b> <font color="purple">[ῐ]</font> chant funèbre en l’honneur de Linos, PAUS. <i>9, 29, 3</i>.<p><b>Étym</b>. οἶτος, Λίνος.`

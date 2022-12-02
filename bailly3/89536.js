@@ -1,0 +1,1 @@
+lar[89536]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῠ]</font> <i>c</i>. σατυρίασις 3, HPC. <i>1248e</i>.`

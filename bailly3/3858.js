@@ -1,0 +1,1 @@
+lar[3858]=`<b>ἀκρό·τονος, ος, ον</b>, qui tend le bras fortement, MÉTROD. SC. (ATH. <i>552d</i>).<p><b>Étym</b>. ἄ. τείνω.`

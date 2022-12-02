@@ -1,0 +1,1 @@
+lar[52010]=`<b>καρχαρ·όδων</b>, <i>gén</i>. <b>-όδοντος</b> <font color="purple">[χᾰ]</font> <i>adj. m. c</i>. καρχαρόδους THCR. <i>Idyl. 24, 85</i>.`

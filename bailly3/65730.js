@@ -1,0 +1,1 @@
+lar[65730]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> petitesse d’esprit <i>ou</i> de caractère, mesquinerie, esprit de chicane, ARSTT. <i>Nic. 2, 7 ; 4, 2 ; Rhet. 1, 9, 2</i>.<p><b>Étym</b>. μικροπρεπής.`

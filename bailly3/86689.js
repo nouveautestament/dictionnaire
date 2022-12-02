@@ -1,0 +1,1 @@
+lar[86689]=`<b>προσ·ώδης, ης, ες</b>, <i>au cp</i>. -έστερος, qui exhale une odeur forte <i>ou</i> désagréable, GAL. <i>Lex. Hipp. 19, 133</i>.<p><b>Étym</b>. π. ὄζω.`

@@ -1,0 +1,1 @@
+lar[72707]=`<b>ὀρθο·δρομέω-ῶ</b>, courir en droite ligne, XÉN. <i>Eq. 7, 14</i>.<p><b>Étym</b>. ὀ. δρόμος.`

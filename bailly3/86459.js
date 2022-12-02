@@ -1,0 +1,1 @@
+lar[86459]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>fém. de</i> προστάτης, SOPH. <i>O.C. 458</i> ; LUC. <i>Bis acc. 29, etc</i>.`

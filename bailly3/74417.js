@@ -1,0 +1,1 @@
+lar[74417]=`<b>ονος (ὁ)</b> Palæmôn, <i>propr</i>. le lutteur :<br><b>      1</b> <i>surn. de Mélikertès, fils d’Athamas, comme dieu marin,</i> EUR. <i>I.T. 271</i> ; LYC. <i>228</i>.<br><b>      2</b> <i>surn. d’Hèraklès,</i> LYC. <i>663</i>.<p>➳ <i>Voc</i>. Πάλαιμον, EUR. <i>I.T. 271, etc</i>.<p><b>Étym</b>. παλαίω.`

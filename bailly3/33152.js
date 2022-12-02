@@ -1,0 +1,1 @@
+lar[33152]=`<b>εως (ἡ)</b> <font color="purple">[ῑμ]</font> <i>c</i>. ἐμβρίμημα AQU. <i>Ps. 37, 4</i> ; SYMM. <i>Ezech. 21, 31</i>.`

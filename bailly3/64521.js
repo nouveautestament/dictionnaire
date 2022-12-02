@@ -1,0 +1,1 @@
+lar[64521]=`<b>μεσό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> médiocrement <i>ou</i> peu chevelu, <i>ou p.-ê</i>. dont les cheveux sont de couleur indécise, PROCL. <i>Ptol. 3, c. 16, p. 203, 204, 205</i>.<p><b>Étym</b>. μ. θρίξ.`

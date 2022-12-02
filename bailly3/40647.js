@@ -1,0 +1,1 @@
+lar[40647]=`<b>εος-ους (τὸ)</b> Hermos, <i>dème attique de la tribu Akamantide,</i> PLUT. <i>Phoc. 22</i>.`

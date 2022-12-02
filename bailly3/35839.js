@@ -1,0 +1,1 @@
+lar[35839]=`<b>ἐξ·ερινάζω</b> <font color="purple">[ῑ]</font> faire mûrir comme les figues dont on hâte la maturité, SOPH. <i>fr. 190</i>.`

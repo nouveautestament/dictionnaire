@@ -1,0 +1,1 @@
+lar[2073]=`<b>ἀθλο·φόρος, ος, ον</b>, qui remporte le prix de la lutte, IL. <i>9, 124</i> ; PD. <i>O. 7, 12</i>.<p>➳ <i>Ion</i>. ἀεθλ. IL. <i>22, 22</i> ; HDT. <i>1, 31</i>.<p><b>Étym</b>. ἆθλον, φέρω.`

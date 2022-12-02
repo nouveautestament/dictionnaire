@@ -1,0 +1,1 @@
+lar[91285]=`<font color="purple">[ῠᾰ]</font><br><b>      1</b> accoupler de jeunes chiens, <i>ou en gén</i>. des chiens, XÉN. <i>Cyn. 7, 1</i> ; ARR. <i>Cyn. 31, 3</i>.<br><b>      2</b> élever de jeunes chiens, <i>ou en gén</i>. des chiens, ARR. <i>Cyn. 8, 4 ; p. ext</i>. nourrir, <i>particul</i>. allaiter. STR. <i>299</i>.<p><b>Étym</b>. σκύλαξ.`

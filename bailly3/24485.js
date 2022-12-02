@@ -1,0 +1,1 @@
+lar[24485]=`<b>δι·άγκυλος, ος, ον</b> <font color="purple">[ῠ]</font> formé de deux courroies <i>ou</i> de lacets séparés l’un de l’autre, ORIB. <i>91 Mai</i>.<p><b>Étym</b>. διά, ἀγκύλη.`

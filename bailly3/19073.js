@@ -1,0 +1,1 @@
+lar[19073]=`<font color="purple">[ᾰρω]</font> <i>adv</i>., avec des noms étrangers, STR. <i>471</i>.<p><b>Étym</b>. βάρβαρος.`

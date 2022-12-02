@@ -1,0 +1,1 @@
+lar[52636]=`<b>κατα·κροταλίζω</b> <font color="purple">[ᾰλ]</font> résonner, faire du bruit, CALL. <i>Dian. 247</i>.`

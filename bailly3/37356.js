@@ -1,0 +1,1 @@
+lar[37356]=`<b>ή, όν</b>, qui applique son esprit à, JAMBL. <i>Protr. 4, p. 44</i>.<p><b>Étym</b>. ἐπιβάλλω.`

@@ -1,0 +1,1 @@
+lar[10569]=`<b>ἀντί·φορτος, ου (ὁ)</b> cargaison importée en échange de celle qu’on a exportée, fret de retour, AR. <i>Ach. arg</i>.<p><b>Étym</b>. ἀ. φόρτος.`

@@ -1,0 +1,1 @@
+lar[52445]=`<b>κατ·αιθύσσω</b>, faire briller, illuminer, <i>acc</i>. PD. <i>P. 4, 147 ; 5, 13</i>.`

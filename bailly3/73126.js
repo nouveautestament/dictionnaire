@@ -1,0 +1,1 @@
+lar[73126]=`<b>ή, όν</b>, d’Orphée, orphique, HDT. <i>2, 81</i> ; PLAT. <i>Leg. 782c, etc</i>.`

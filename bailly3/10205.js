@@ -1,0 +1,1 @@
+lar[10205]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> extension parallèle <i>ou</i> égale, CHRYSIPP. (STOB. <i>Ecl. 1, 37, 6</i>) ; PHIL. <i>1, 433</i>.<p><b>Étym</b>. ἀντιπαρεκτείνω.`

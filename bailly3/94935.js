@@ -1,0 +1,1 @@
+lar[94935]=`<b>συν·αποχωρέω-ῶ</b>, se retirer avec, DS. <i>19, 80</i> ; πρός τινα, POL. <i>20, 10, 5,</i> passer avec d’autres dans le camp de qqn.`

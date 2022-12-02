@@ -1,0 +1,1 @@
+lar[101460]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> cloque remplie d’eau qui se forme sous la paupière supérieure, GAL. <i>14, 712</i> ; P. ÉG. <i>6, 14 ; ou</i> près du foie, GAL. <i>9, 323</i>.<br><b>      2</b> <i>c</i>. παράπρισμα HIPPIATR.<p><b>Étym</b>. ὕδωρ.`

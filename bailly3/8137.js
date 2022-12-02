@@ -1,0 +1,1 @@
+lar[8137]=`<b>ῶνος (ὁ) :<br>      1</b> appartement des hommes, ESCHL. <i>Ag. 243, Ch. 712</i> ; EUR. <i>H.f. 954</i> ; AR. <i>Eccl. 676</i> ; XÉN. <i>Conv. 1, 4</i>.<br><b>      2</b> <i>à Rome,</i> passage entre deux cours d’une maison, VITR. <i>6, 10</i>.<p><b>Étym</b>. ἀνήρ.`

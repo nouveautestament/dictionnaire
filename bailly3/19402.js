@@ -1,0 +1,1 @@
+lar[19402]=`<b>ή, όν</b>, délicat, dédaigneux, prude, ARAR. (ARSTT. <i>Nic. 4, 58</i>).`

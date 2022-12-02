@@ -1,0 +1,1 @@
+lar[67397]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> action <i>ou</i> parole abominable, souillure, ESCHL. <i>Suppl. 995</i>.<p><b>Étym</b>. μυσάττω.`

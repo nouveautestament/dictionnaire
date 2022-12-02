@@ -1,0 +1,1 @@
+lar[94978]=`<b>συν·αρχαιρεσιάζω</b>, appuyer la candidature de qqn, PLUT. <i>M. 97a, Cic. 13, 8</i>.`

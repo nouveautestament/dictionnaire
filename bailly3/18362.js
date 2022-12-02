@@ -1,0 +1,1 @@
+lar[18362]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Perse, ANTH. <i>6, 332</i> ; οἱ Ἀχαιμένιοι, les Perses, A. PL. <i>4, 118</i>.`

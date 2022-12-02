@@ -1,0 +1,1 @@
+lar[37429]=`<b>ἐπι·γανόω-ῶ</b> <font color="purple">[ᾰ]</font> parer d’ornements brillants, parer, ALEX. (ATH. <i>117e</i>).`

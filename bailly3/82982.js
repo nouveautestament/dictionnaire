@@ -1,0 +1,1 @@
+lar[82982]=`<font color="purple">[ᾰ]</font> <i>adv</i>., dans le dème Potamos, PLUT. <i>Arist. 27</i>.<p><b>Étym</b>. Ποταμός.`

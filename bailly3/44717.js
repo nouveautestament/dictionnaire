@@ -1,0 +1,1 @@
+lar[44717]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> sorte d’ellébore, DIOSC. <i>4, 151</i>.`

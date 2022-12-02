@@ -1,0 +1,1 @@
+lar[36031]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> répartiteur des impôts, <i>sous les empereurs romains,</i> LUC. <i>Philopatr. 19</i>.<p><b>Étym</b>. ἐξισόω.`

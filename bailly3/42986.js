@@ -1,0 +1,1 @@
+lar[42986]=`<b>εὐ·περικάλυπτος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à envelopper, à cacher, POÈT. (STOB. <i>Fl. 105, 51).</i><p><b>Étym</b>. εὖ, περικαλύπτω.`

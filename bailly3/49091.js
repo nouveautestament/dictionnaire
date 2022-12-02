@@ -1,0 +1,1 @@
+lar[49091]=`<b>ἰξο·φόρος, ος, ον :<br>      1</b> qui porte <i>ou</i> produit de la glu, SOPH. <i>fr. 354</i>.<br><b>      2</b> englué, OPP. <i>H. 1, 32</i>.<p><b>Étym</b>. ἰξός, φέρω.`

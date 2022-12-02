@@ -1,0 +1,1 @@
+lar[29346]=`<b>ἐγ·γενής, ής, ές :<br>      1</b> indigène, national, HDT. <i>2, 47</i> ; ESCHL. <i>Sept. 582</i> ; SOPH. <i>El. 430, Ant. 199, O.R. 452</i> ; EUR. <i>Ion 63, etc.</i><br><b>      2</b> de la même race, de la même famille, SOPH. <i>O.R. 1168</i>.<br><b>      3</b> inné, naturel, PD. <i>N. 10, 51</i> ; SOPH. <i>El. 1328</i>.<p><b>Étym</b>. ἐν, γένος.`

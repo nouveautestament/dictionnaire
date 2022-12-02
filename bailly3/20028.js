@@ -1,0 +1,1 @@
+lar[20028]=`<i>adv</i>., comme un bœuf, AGATHARCH. <i>Peripl. 38</i>.`

@@ -1,0 +1,1 @@
+lar[86331]=`<b>προσ·πλέκω</b>, nouer à, enlacer à, <i>d’où</i> joindre à, M. ANT. <i>10, 7</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> s’attacher à, <i>dat</i>. POL. <i>5, 60, 7</i>.<br><b>      2</b> en venir aux mains avec, <i>dat</i>. STR. <i>6</i> ; PLUT. <i>M. 796a</i>.`

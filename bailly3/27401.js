@@ -1,0 +1,1 @@
+lar[27401]=`<b>ου (ὁ)</b> opinion, XÉNOPHAN. <i>fr. 14</i> ; CALL. <i>fr. 100</i>.<p><b>Étym</b>. <i>cf</i>. δοκέω.`

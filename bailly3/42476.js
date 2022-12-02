@@ -1,0 +1,1 @@
+lar[42476]=`<b>εὔ·κομος, ος, ον</b>, à la belle chevelure <i>ou</i> toison.<p>➳ <i>Épq</i>. ἠϋκ. IL. <i>1, 36 ; 2, 689, etc.</i> ; OD. <i>12, 389</i> ; HH. <i>Cer. 7</i> ; OPP. <i>C. 3, 43</i> ; A. PL. <i>4, 214, 231</i>.<p><b>Étym</b>. εὖ, κόμη.`

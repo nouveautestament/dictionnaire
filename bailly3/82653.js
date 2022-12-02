@@ -1,0 +1,1 @@
+lar[82653]=`<font color="purple">[ῠ]</font> <i>c</i>. πομφολυγέω, DIOSC. <i>1, 81</i>.`

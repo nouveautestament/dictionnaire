@@ -1,0 +1,1 @@
+lar[86539]=`<b>προ·συμφύομαι</b>, être soudé <i>ou</i> uni avant même de naître, HPC. <i>455, 44</i>.<p><b>Étym</b>. π. συμφύω.`

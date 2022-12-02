@@ -1,0 +1,1 @@
+lar[72691]=`<b>ὀρθό·βουλος, ος, ον</b>, qui conseille droitement, qui donne de sages avis, PD. <i>P. 4, 466, etc.</i> ; ESCHL. <i>Pr. 18</i>.<p><b>Étym</b>. ὀ. βουλή.`

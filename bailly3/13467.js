@@ -1,0 +1,1 @@
+lar[13467]=`<b>ἀπο·στράτηγος, ου (ὁ)</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> qui n’est plus général, ancien général, DÉM. <i>669, 7</i>.<br><b>      2</b> <i>à Rome,</i> ancien préteur, PLUT. <i>Marc. 22</i>.<p><b>Étym</b>. ἀ. στρατηγός.`

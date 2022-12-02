@@ -1,0 +1,1 @@
+lar[78382]=`<b>περι·αμύνω</b> <font color="purple">[ᾰῡ]</font> protéger tout autour, défendre en couvrant de son corps, PLUT. <i>Alc. 7</i>.`

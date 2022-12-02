@@ -1,0 +1,1 @@
+lar[50250]=`<b>καθ·αγνίζω</b> <font color="purple">[κᾰ]</font><br><b>      1</b> purifier, LUC. <i>Philops. 12 ; au pass</i>. EUR. <i>Or. 40</i>.<br><b>      2</b> déposer pour une consécration, offrir en sacrifice : τι ἐπὶ πυρί, EUR. <i>Ion 707,</i> qqe ch. sur le feu de l’autel.`

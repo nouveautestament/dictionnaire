@@ -1,0 +1,1 @@
+lar[93193]=`<b>συγ·γηθέω-ῶ</b>, se réjouir avec, <i>dat</i>. EUR. <i>Hel. 727</i>.`

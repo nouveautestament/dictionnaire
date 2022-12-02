@@ -1,0 +1,1 @@
+lar[91183]=`<b>σκορπιο·φόρος, ος, ον</b>, qui produit des scorpions, PTOL. <i>6, 17, 3</i>.<p><b>Étym</b>. σκ. φέρω.`

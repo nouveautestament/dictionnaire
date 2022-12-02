@@ -1,0 +1,1 @@
+lar[84627]=`<b>Προ·κύων, -κυνος (ὁ)</b> <font color="purple">[ῠν]</font> Prokyôn, <i>constellation qui se lève avant la Canicule,</i> ARAT. <i>450, etc</i>.`

@@ -1,0 +1,1 @@
+lar[75603]=`<b>εως (ἡ)</b> action d’effleurer, THÉM.<p><b>Étym</b>. παραθιγγάνω.`

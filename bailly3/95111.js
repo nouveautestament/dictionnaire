@@ -1,0 +1,1 @@
+lar[95111]=`<b>συν·διακρίνω</b> <font color="purple">[κρῑ]</font><br><b>      1</b> distinguer <i>ou</i> séparer avec <i>ou</i> en même temps, ARSTT. <i>Xen. 2, 29</i>.<br><b>      2</b> décider avec, T. LOCR. <i>104e</i>.`

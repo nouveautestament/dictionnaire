@@ -1,0 +1,1 @@
+lar[13683]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de marquer d’une empreinte, TH. <i>fr. 1, 51</i> ; LGN <i>13, 9</i>.<p><b>Étym</b>. ἀποτυπόω.`

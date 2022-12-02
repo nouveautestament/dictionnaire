@@ -1,0 +1,1 @@
+lar[4095]=`<b>ἀλαστέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἠλάστεον, <i>f</i>. ἀλαστήσω)</font> se plaindre, s’indigner, IL. <i>12, 163, etc.</i> ; τινι, MAN. <i>2, 183,</i> s’indigner contre qqn.<p>➳ <i>Impf</i>. ἠλάστεον, <i>trisyll</i>. IL. <i>15, 21</i>.<p><b>Étym</b>. ἄλαστος.`

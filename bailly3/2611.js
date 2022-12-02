@@ -1,0 +1,1 @@
+lar[2611]=`<b>αἱμο·σταγής, ής, ές</b> <font color="purple">[ᾰ]</font> dégoûtant de sang, EUR. <i>Thes. 1, 2</i>.<p><b>Étym</b>. αἷμα, στάζω.`

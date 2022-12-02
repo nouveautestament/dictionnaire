@@ -1,0 +1,1 @@
+lar[100738]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. nourri à l’écurie, <i>p. opp. à</i> φορβάς, ARSTT. <i>H.A. 8, 24, 2 ; ou</i> dans l’étable, PLUT. <i>Æmil. 33</i>.<p>➳ <i>Ion</i>. -ίης, NUMÉN. (ATH. <i>304e</i>).<p><b>Étym</b>. τρέφω ; <i>cf</i>. τρόφιος.`

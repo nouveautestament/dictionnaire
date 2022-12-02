@@ -1,0 +1,1 @@
+lar[106206]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> attachement à un lieu, à un séjour, AR. <i>Vesp. 834</i> ; DH. <i>1, 27, etc</i>.<p><b>Étym</b>. φιλόχωρος.`

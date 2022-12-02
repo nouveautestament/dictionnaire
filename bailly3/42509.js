@@ -1,0 +1,1 @@
+lar[42509]=`<b>εὐ·κρήδεμνος, ος, ον</b>, aux belles bandelettes, NONN. <i>D. 26, 338</i>.<p><b>Étym</b>. εὖ, κρήδεμνον.`

@@ -1,0 +1,1 @@
+lar[7502]=`<b>ἀνα·πυρόω-ῶ</b> <font color="purple">[ῠ]</font> enflammer, ARSTT. <i>Mund. 4, 19</i>.`

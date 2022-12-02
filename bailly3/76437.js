@@ -1,0 +1,1 @@
+lar[76437]=`<b>παρα·φυής, ής, ές</b>, qui croît auprès : τὸ παραφυές, ARSTT. <i>Rhet. 1, 2, 7,</i> ramification.<p><b>Étym</b>. παραφύω.`

@@ -1,0 +1,1 @@
+lar[62469]=`<b>ου</b>, <i>adj. m</i>. habitant <i>ou</i> originaire de Makistos, XÉN. <i>Hell. 3, 2, 25</i>.<p><b>Étym</b>. Μάκιστος.`

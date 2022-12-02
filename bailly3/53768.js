@@ -1,0 +1,1 @@
+lar[53768]=`<b>ου (τὸ)</b> vase pour verser de l’eau sur les baigneurs, EUP. <i>283 Kock ; en appos. c. adj</i>. PHÉRÉCR. <i>fr. 106, 19</i>.<p><b>Étym</b>. καταχέω.`

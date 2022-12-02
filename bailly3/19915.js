@@ -1,0 +1,1 @@
+lar[19915]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Blépyros, <i>h</i>. AR. <i>Eccl. 327</i>.`

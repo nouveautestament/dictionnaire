@@ -1,0 +1,1 @@
+lar[34773]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de l’intelligence, GAL. <i>2, 25</i> ; BAS. <i>3, 477 Migne</i>.<p><b>Étym</b>. ἐννόημα.`

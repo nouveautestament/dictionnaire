@@ -1,0 +1,1 @@
+lar[64679]=`<b>Μετα·γείτνια, ων (τὰ)</b> fête du mois Metageitniôn <i>où avaient lieu les changements de domicile et, par suite, de voisins,</i> PLUT. <i>M. 601b</i>.<p><b>Étym</b>. μ. γείτων.`

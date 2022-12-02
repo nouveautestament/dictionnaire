@@ -1,0 +1,1 @@
+lar[56127]=`<b>ου (τὸ)</b> = <i>lat</i>. Clusium (<i>auj</i>. Chiusi) <i>v. d’Étrurie,</i> PLUT. <i>Popl. 16, Cam. 17</i>.`

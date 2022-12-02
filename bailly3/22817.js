@@ -1,0 +1,1 @@
+lar[22817]=`<b>γυναικό·ποινος, ος, ον</b> <font color="purple">[ῠ]</font> qui est la rançon d’une femme, ESCHL. <i>Ag. 225</i>.<p><b>Étym</b>. γ. ποινή.`

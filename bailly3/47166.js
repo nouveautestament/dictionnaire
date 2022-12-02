@@ -1,0 +1,1 @@
+lar[47166]=`<b>θηλ·άρσην, ην, εν</b>, <i>gén</i>. <b>ενος</b>, à la fois mâle et femelle, NAZ. <i>3, 1109 Migne</i>.`

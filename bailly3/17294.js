@@ -1,0 +1,1 @@
+lar[17294]=`<b>α, ον</b>, vain, inutile, IBYC. <i>11</i> (EM.).<p><b>Étym</b>. <i>dor. c</i>. τηύσιος.`

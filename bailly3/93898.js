@@ -1,0 +1,1 @@
+lar[93898]=`<b>συμ·βρέχω</b>, arroser avec <i>ou</i> en même temps, GAL. <i>14, 399</i>.`

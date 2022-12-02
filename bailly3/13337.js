@@ -1,0 +1,1 @@
+lar[13337]=`<b>ος, ον</b>, qui s’écarte du but, ANTH. <i>App. 70</i>.<p><b>Étym</b>. ἀπόσκοπος.`

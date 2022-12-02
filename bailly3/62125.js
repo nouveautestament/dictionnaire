@@ -1,0 +1,1 @@
+lar[62125]=`<b>ή, όν</b>, qui se fait à la lumière des lampes : τὸ λυχνικόν, CHRYS. <i>1, 1013,</i> l’office du soir, <i>t. eccl</i>.<p><b>Étym</b>. λύχνος.`

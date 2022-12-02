@@ -1,0 +1,1 @@
+lar[107567]=`<b>χαλινο·φάγος, ος, ον</b> <font color="purple">[ᾰῑᾰ]</font> qui ronge son frein, CALL. <i>L. Pall. 12</i>.<p><b>Étym</b>. χ. φαγεῖν.`

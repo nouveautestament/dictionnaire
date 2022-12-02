@@ -1,0 +1,1 @@
+lar[97249]=`<b>Σωσί·θεος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Sôsithéos, <i>h</i>. DÉM. <i>43, arg. etc. Baiter-Sauppe</i> ; THCR. <i>Idyl. 8 arg. etc</i>.<p><b>Étym</b>. σῴζω, θεός.`

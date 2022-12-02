@@ -1,0 +1,1 @@
+lar[30503]=`<b>εἱματ·ανω·περίβαλλος, ου (ὁ)</b> <font color="purple">[ᾰᾰῐ]</font> qui s’enveloppe de son manteau rejeté sur l’épaule, <i>en parl. de philosophes,</i> HÉGÉSANDRE (ATH. <i>152a</i>).<p><b>Étym</b>. εἷμα, ἄνω, περιβάλλω.`

@@ -1,0 +1,1 @@
+lar[71263]=`<i>adv</i>., à Olympie, <i>avec mouv</i>. THC. <i>3, 8</i> ; AND. <i>17, 20</i>.<p><b>Étym</b>. Ὀλυμπία, -ζε.`

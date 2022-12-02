@@ -1,0 +1,1 @@
+lar[104140]=`<b>ὑπο·χαίρω</b> (<i>seul. prés</i>.) se réjouir secrètement, <i>sel. d’autres,</i> se réjouir, POLÉM. <i>Physiogn. 1, 18</i>.`

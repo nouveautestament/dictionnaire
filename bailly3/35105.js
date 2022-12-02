@@ -1,0 +1,1 @@
+lar[35105]=`<b>ἐν·τορεύω</b>, tailler en relief, ciseler, PLUT. <i>Cic. 1</i> ; LUC. <i>Ind. 8</i> ; JOS. <i>A.J. 8, 3, 2 ; au pass</i>. PLUT. <i>M. 164a</i>.`

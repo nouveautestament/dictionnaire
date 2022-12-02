@@ -1,0 +1,1 @@
+lar[76581]=`<b>ος, ον</b>, introduit furtivement, intrus, NT. <i>Gal. 2, 4 ; surn. d’un Ptolémée,</i> STR. <i>794</i>.<p><b>Étym</b>. παρεισάγω.`

@@ -1,0 +1,1 @@
+lar[83557]=`<b>προ·αναλαμβάνω :<br>      1</b> prendre d’avance, ATH. <i>45d ; d’où</i> prévenir <i>ou</i> devancer qqn, JOS. <i>A.J. 16, 4, 4</i>.<br><b>      2</b> reprendre <i>ou</i> exposer d’abord en peu de mots, <i>acc</i>. DS. <i>17, 5</i>.`

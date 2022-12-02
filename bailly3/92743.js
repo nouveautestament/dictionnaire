@@ -1,0 +1,1 @@
+lar[92743]=`<b>      1</b> parler avec emphase, AR. <i>Vesp. 721</i>.<br><b>      2</b> parler en ouvrant largement la bouche, HERMOG. (<i>W. 3, 224).</i><p><b>Étym</b>. στόμφαξ.`

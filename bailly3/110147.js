@@ -1,0 +1,1 @@
+lar[110147]=`<b>ίδος</b> <font color="purple">[ᾰῐδ]</font> <i>adj. f</i>. de l’Océan, PD. <i>O. 2, 129</i>.<p><b>Étym</b>. Ὠκεανός.`

@@ -1,0 +1,1 @@
+lar[41192]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> foyer, âtre, brasier, ALEX. (ATH. <i>642f</i>) ; PLUT. <i>Crass. 16</i> ; brasier pour la pêche de nuit, EL. <i>N.A. 2, 8</i>.<p><b>Étym</b>. ἐσχάρα.`

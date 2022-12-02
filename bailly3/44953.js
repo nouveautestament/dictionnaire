@@ -1,0 +1,1 @@
+lar[44953]=`<i>adv</i>., comme un frère, <i>càd</i>. tout à fait de même, HPC. <i>591, 17</i>.<p><b>Étym</b>. ἀδελφίζω.`

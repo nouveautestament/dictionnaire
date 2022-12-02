@@ -1,0 +1,1 @@
+lar[106200]=`<b>φιλο·χρήμων, ων, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλοχρήματος, DAMASC. (PHOT. <i>Bibl. 350, 18</i>).`

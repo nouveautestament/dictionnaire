@@ -1,0 +1,1 @@
+lar[82777]=`<b>έως (ὁ) :<br>      1</b> nocher qui fait passer l’eau, OD. <i>20, 187</i> ; HDT. <i>1, 24</i> ; AR. <i>Eccl. 1086</i> ; ESCHN. <i>76, 10 ; particul. en parl. de Charon,</i> EUR. <i>Alc. 252</i>.<br><b>      2</b> <i>p. ext</i>. batelier, THCR. <i>Idyl. 1, 57</i>.<p><b>Étym</b>. πορθμός.`

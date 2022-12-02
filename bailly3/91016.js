@@ -1,0 +1,1 @@
+lar[91016]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> discipline rude, PHIL. <i>2, 482</i>.<p><b>Étym</b>. <i>v</i>. σκληραγωγέω.`

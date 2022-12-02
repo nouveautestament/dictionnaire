@@ -1,0 +1,1 @@
+lar[88248]=`<b>ῥακοδυτέω-ῶ</b> <font color="purple">[ᾰῠ]</font> être couvert de haillons, ORIG. <i>3, 346c</i>.<p><b>Étym</b>. ῥακόδυτος.`

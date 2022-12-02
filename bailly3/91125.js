@@ -1,0 +1,1 @@
+lar[91125]=`<b>οῦ (ὁ)</b> qui observe de loin, qui surveille, SPT. <i>Esaï. 56, 10 ; Jer. 8, 17</i>.<p><b>Étym</b>. σκοπεύω.`

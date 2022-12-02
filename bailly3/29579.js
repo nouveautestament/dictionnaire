@@ -1,0 +1,1 @@
+lar[29579]=`<b>ἐγ·κατατέμνω</b> <font color="darkgreen">(<i>f</i>. -τεμῶ)</font> couper dans <i>ou</i> à l’intérieur, HPC. <i>914c ;</i> PLAT. <i>Rsp. 565d</i>.<p><b>Étym</b>. ἐν, κ.`

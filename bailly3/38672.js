@@ -1,0 +1,1 @@
+lar[38672]=`<b>ἐπι·πηδάω-ῶ :<br>      1</b> sauter sur, assaillir : τινι, AR. <i>Vesp. 705</i> ; PLAT. <i>Lys. 216a</i>, qqn ; <i>fig</i>. assaillir d’injures, PLUT. <i>M. 512d.</i><br><b>      2</b> saillir, ARSTT. <i>H.A. 5, 2, 4</i>.`

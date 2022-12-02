@@ -1,0 +1,1 @@
+lar[61921]=`<b>λυκό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> au cœur de loup, <i>càd</i>. hardi, POÈT. (PLUT. <i>M. 988).</i><p><b>Étym</b>. λ. φρήν.`

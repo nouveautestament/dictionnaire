@@ -1,0 +1,1 @@
+lar[70068]=`<b>ου (ὁ)</b> Ogmios, <i>surn. d’Hèraklès chez les Celtes,</i> LUC. <i>Herc. 1</i>.`

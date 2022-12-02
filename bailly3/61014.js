@@ -1,0 +1,1 @@
+lar[61014]=`<b>λιθαργυρο·φανής, ής, ές</b> <font color="purple">[ῐῠᾰ]</font> qui ressemble à la litharge <i>ou</i> à l’étain, DIOSC. <i>5, 100</i>.<p><b>Étym</b>. λιθάργυρος, φαίνω.`

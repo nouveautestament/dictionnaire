@@ -1,0 +1,1 @@
+lar[9796]=`<b>ἀντι·γηροτροφέω-ῶ</b>, nourrir <i>ou</i> soutenir un vieillard par reconnaissance, LESBON. RH. <i>2, 10, p. 30 Rieske</i>.`

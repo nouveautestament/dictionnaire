@@ -1,0 +1,1 @@
+lar[63432]=`<b>μεγαλό·σταχυς, υς, υ</b> <font color="purple">[ᾰᾰ]</font> à larges épis, DIOSC. <i>1, 6</i>.<p><b>Étym</b>. μ. στάχυς.`

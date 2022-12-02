@@ -1,0 +1,1 @@
+lar[42587]=`<i>adv</i>., de manière à être pris facilement, XÉN. <i>Cyr. 1, 3, 8, au</i> <i>• Sup</i>. -ότατα.<p><b>Étym</b>. εὔληπτος.`

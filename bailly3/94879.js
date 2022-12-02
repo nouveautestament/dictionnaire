@@ -1,0 +1,1 @@
+lar[94879]=`<b>συν·αποκλείω</b>, enfermer ensemble, SPT. <i>1Reg. 1, 6</i>.`

@@ -1,0 +1,1 @@
+lar[65491]=`<b>ου (ὁ)</b> Mèrionès, <i>h</i>. IL. <i>2, 651</i> ; EUR. <i>I.A. 201</i>.<p>➳ <i>Voc</i>. -η, IL. <i>13, 249 ; 16, 669, etc. ; gén. épq</i>. -αο <font color="purple">[ᾱ]</font> IL. <i>17, 610 ; 23, 877 ; ou</i> -εω, ANTH. <i>12, 97</i>.`

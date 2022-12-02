@@ -1,0 +1,1 @@
+lar[2277]=`<b>ης (ἡ)</b> Ægiroessa, <i>v. d’Éolide,</i> HDT. <i>1, 149</i>.<p><b>Étym</b>. <i>fém. de</i> αἰγιρόεις, « planté de peupliers noirs », <i>de</i> αἴγειρος.`

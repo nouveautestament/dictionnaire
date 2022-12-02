@@ -1,0 +1,1 @@
+lar[28235]=`<b>δυσ·αρίθμητος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à compter, APP. <i>Civ. 2, 73</i>.<p><b>Étym</b>. δ. ἀριθμέω.`

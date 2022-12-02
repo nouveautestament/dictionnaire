@@ -1,0 +1,1 @@
+lar[41627]=`<b>εὐ·αποκύλιστος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qu’on peut rouler facilement, glissant, GAL. <i>4, 471, 538</i>.<p><b>Étym</b>. εὖ, ἀποκυλίω.`

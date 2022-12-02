@@ -1,0 +1,1 @@
+lar[102059]=`<b>ὑπ·αυχμήεις, ήεσσα, ῆεν</b> <font color="purple">[ῠ]</font> quelque peu desséché, NIC. <i>fr. 5</i>.`

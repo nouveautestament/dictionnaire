@@ -1,0 +1,1 @@
+lar[16682]=`<b>ων (οἱ)</b> les Atarantes, <i>pple de l’intérieur de l’Afrique,</i> HDT.`

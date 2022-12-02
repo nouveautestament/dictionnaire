@@ -1,0 +1,1 @@
+lar[68445]=`<b>νεω·κόρος, ου (ὁ)</b> celui qui nettoie <i>ou</i> entretient un navire, ANTH. <i>9, 290</i>.<p><b>Étym</b>. ναῦς, κορέω.`

@@ -1,0 +1,1 @@
+lar[91356]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> <i>dim. de</i> σκῦτος, ANAXIL. (ATH. <i>548c</i>).`

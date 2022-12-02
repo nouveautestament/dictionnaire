@@ -1,0 +1,1 @@
+lar[6666]=`<b>ός, όν</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> qui amène en haut, qui provoque l’expulsion de, <i>gén</i>. HPC. <i>Acut. 392</i>.<br><b>      2</b> qui élève l’âme, JAMBL. <i>Myst. 2, 6</i>.<p><b>Étym</b>. ἀνάγω.`

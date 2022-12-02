@@ -1,0 +1,1 @@
+lar[100751]=`<b>ου (ὁ)</b> Trophônios, <i>fondateur du temple de Delphes,</i> HH. <i>Ap. 296 ; plus tard divinisé et identifié avec Zeus, d’où</i> Ζεὺς Τροφώνιος, STR. <i>414,</i> Zeus Trophônios ; <i>avec un oracle en Béotie,</i> HDT. <i>1, 46, etc.</i> ; ἐς Τροφωνίου, AR. <i>Nub. 508,</i> aller consulter l’oracle de Trophônios.`

@@ -1,0 +1,1 @@
+lar[105447]=`<b>Φιλ·αινίς, ίδος (ἡ)</b> <font color="purple">[ῐῐδ]</font> Philænis, <i>f</i>. LUC. <i>D. mer. 6, 1</i> ; ANTH. <i>5, 4, 186, etc</i>.<p>➳ <i>Voc</i>. -ί, ANTH. <i>ll. cc</i>.<p><b>Étym</b>. φ. αἶνος.`

@@ -1,0 +1,1 @@
+lar[68895]=`<b>ας (ἡ)</b> Numance, <i>v. d’Espagne,</i> PLUT. <i>Æmil. 22, etc</i>.`

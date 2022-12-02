@@ -1,0 +1,1 @@
+lar[58094]=`<b>κροτο·θόρυβος, ου (ὁ)</b> <font color="purple">[ῠ]</font> bruyant applaudissement, EPIC. (DL. <i>10, 5</i>) ; PLUT. <i>M. 45f, 1117a</i>.<p><b>Étym</b>. κρότος, θόρυβος.`

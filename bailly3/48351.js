@@ -1,0 +1,1 @@
+lar[48351]=`crier, TÉLÉCL. (HSCH.).<p><b>Étym</b>. ἴβυξ, EM.`

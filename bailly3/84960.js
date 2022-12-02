@@ -1,0 +1,1 @@
+lar[84960]=`<b>προ·πιστόω-ῶ</b> (<i>pf. pass</i>. προπεπίστωμαι) rendre croyable auparavant, <i>d’où au pass</i>. devenir croyable auparavant, SEXT. <i>P. 1, 116 ; M. 8, 62, etc. par conject</i>.`

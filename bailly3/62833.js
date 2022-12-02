@@ -1,0 +1,1 @@
+lar[62833]=`<i>adv</i>., comme un devin, AR. <i>Pax 1026</i> ; PLAT. <i>Conv. 198a, etc</i>.`

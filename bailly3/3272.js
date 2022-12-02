@@ -1,0 +1,1 @@
+lar[3272]=`<b>ἀ·κέραστος, ος, ον :<br>      1</b> non mêlé, exempt de, <i>gén</i>. PLAT. <i>Pol. 310d.</i><br><b>      2</b> qui ne peut se mêler, <i>particul. en parl. de sons,</i> qui ne peut se contracter, non contracté, DH. <i>Comp. 22</i>.<p><b>Étym</b>. ἀ, κεράννυμι.`

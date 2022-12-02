@@ -1,0 +1,1 @@
+lar[14838]=`<b>ἀρκτό·χειρ, ειρος (ὁ, ἡ)</b> qui a des mains comme des pattes d’ours, ARTÉM. <i>5, 49</i>.<p><b>Étym</b>. ἄ. χείρ.`

@@ -1,0 +1,1 @@
+lar[64568]=`<b>μεσο·στύλιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> entrecolonnement, AGATHARCH. <i>M. rubr. p. 59</i>.<p><b>Étym</b>. μ. στῦλος.`

@@ -1,0 +1,1 @@
+lar[71278]=`<b>α</b> <i>ou</i> <b>ος, ον</b>, de l’Olympe, Olympien <i>ou</i> Olympique, <i>en parl. de Zeus,</i> IL. <i>1, 508, etc. ; d’où abs</i>. ὁ Ὀλ. l’Olympien, <i>càd</i>. Zeus, LUC. <i>Per. 4 ; en parl. des dieux en gén</i>. AR. <i>Th. 333, 960, etc. ; surn. de Périclès,</i> AR. <i>Ach. 530, etc</i>.<p>➳ <i>Fém</i>. -ος, LYC. <i>564</i>.<p><b>Étym</b>. Ὄλυμπος.`

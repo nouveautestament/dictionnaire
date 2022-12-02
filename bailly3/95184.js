@@ -1,0 +1,1 @@
+lar[95184]=`<b>συν·διηθέω-ῶ</b>, filtrer <i>ou</i> purifier ensemble, PLAT. <i>Tim. 66e</i>.`

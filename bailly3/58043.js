@@ -1,0 +1,1 @@
+lar[58043]=`<b>κροκ·ύφαντος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> tissé légèrement ; τὸ κροκύφαντον, M. ANT. <i>2, 2,</i> voile léger.<br><b>      2</b> <i>c</i>. κεκρύφαλος, GAL. <i>14, 472</i>.<p><b>Étym</b>. κρόκη, ὑφαίνω.`

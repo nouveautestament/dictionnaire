@@ -1,0 +1,1 @@
+lar[57408]=`<b>ῆτος (ὁ)</b> Kourète (Curète) :<br><b>      1</b> <i>surn. d’Épiménide chez les Crétois,</i> PLUT. <i>Sol. 12</i>.<br><b>      2</b> <i>Indien,</i> NONN. <i>D. 14, 387, etc</i>.`

@@ -1,0 +1,1 @@
+lar[44915]=`<b>ου (ὁ)</b> Hègèsandridès (<i>litt</i>. fils d’Hègèsandros) <i>h</i>. XÉN. <i>Hell. 1, 1, 1 ; 1, 3, 17</i>.<p>➳ <i>Dor</i>. Ἀγησανδρίδας <font color="purple">[ᾱγ]</font> THC. <i>8, 91</i>.<p><b>Étym</b>. <i>patr. de</i> Ἡγήσανδρος.`

@@ -1,0 +1,1 @@
+lar[24530]=`<b>δι·αγωνοθετέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. prés. inf</i>.) intervenir <i>ou</i> décider comme arbitre, POL. <i>26, 7, 7</i>.`

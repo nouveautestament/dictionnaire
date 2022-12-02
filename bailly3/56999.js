@@ -1,0 +1,1 @@
+lar[56999]=`<b>εως (ἡ)</b> action de briser, de fatiguer, SPT. <i>Eccl. 12, 12</i>.<p><b>Étym</b>. κοπόω.`

@@ -1,0 +1,1 @@
+lar[11723]=`<b>ῶν (οἱ)</b> les Apérantes, <i>pple d’Étolie,</i> PLUT. <i>Flam. 15</i>.`

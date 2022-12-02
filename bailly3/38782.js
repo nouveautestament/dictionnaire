@@ -1,0 +1,1 @@
+lar[38782]=`<b>ατος (τὸ)</b> vêtement agrafé sur l’épaule, PLUT. <i>Alex. 32</i> ; APP. <i>Lib. 109</i>.<p>➳ <i>Dor</i>. ἐπιπόρπαμα, PLUT. <i>l. c</i>.<p><b>Étym</b>. ἐπιπορπέομαι.`

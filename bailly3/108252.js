@@ -1,0 +1,1 @@
+lar[108252]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de Khemmis : Χ. νομός, HDT. <i>2, 165,</i> le nome <i>ou</i> district de Khemmis ; <i>subst</i>. οἱ Χεμμῖται, HDT. <i>2, 91,</i> les habitants de Khemmis.<p><b>Étym</b>. Χέμμις.`

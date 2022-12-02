@@ -1,0 +1,1 @@
+lar[48293]=`<b>οῦς (ἡ)</b> <font color="purple">[ῑᾱ, <i>mais v. ci-dessous</i>]</font> Iasô, <i>déesse de la santé,</i> PAUS. <i>1, 34, 3</i>.<br><font color="purple">[ῐᾱ]</font> AR. <i>Pl. 701</i>.`

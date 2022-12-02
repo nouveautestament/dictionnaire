@@ -1,0 +1,1 @@
+lar[30854]=`<b>εἰσ·οχετεύω</b> <font color="darkgreen">(<i>ao</i>. εἰσωχέτευσεν)</font> faire couler par un conduit dans, <i>avec</i> εἰς <i>et l’acc</i>. HLD. <i>9, 3</i>.`

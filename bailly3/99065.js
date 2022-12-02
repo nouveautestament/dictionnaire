@@ -1,0 +1,1 @@
+lar[99065]=`<b>ης (ἡ)</b> Tingè, <i>f</i>. PLUT. <i>Sert. 9</i>.`

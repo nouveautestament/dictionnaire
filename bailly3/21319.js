@@ -1,0 +1,1 @@
+lar[21319]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de mariage, nuptial, OPP. <i>C. 3, 149</i> ; MOSCH. <i>2, 120</i> ; NONN. <i>D. 8, 6 (fém. ion</i>. -ίη) <i>etc</i>.<p><b>Étym</b>. γάμος.`

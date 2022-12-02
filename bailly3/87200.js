@@ -1,0 +1,1 @@
+lar[87200]=`<b>πρωτο·δαής, ής, ές</b>, qui apprend <i>ou</i> sait pour la première fois, OPP. <i>H. 4, 323</i>.`

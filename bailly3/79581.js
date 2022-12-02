@@ -1,0 +1,1 @@
+lar[79581]=`<b>περι·φεύγω</b>, parvenir à fuir, à échapper à, <i>acc</i>. PD. <i>O. 2, 78</i> ; PLAT. <i>Leg. 677b ;</i> PLUT. <i>M. 171f, etc.</i> ; ἐκ νόσου, HPC. <i>45, 14</i> ; ARSTT. <i>H.A. 8, 22, 2,</i> se tirer d’une maladie, <i>abs</i>. DÉM. <i>1256, 4 ; 1265, 24</i>.`

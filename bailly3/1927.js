@@ -1,0 +1,1 @@
+lar[1927]=`<b>ἄ·ηχος, ος, ον</b>, sans bruit, ARÉT. <i>Caus. m. diut. 1, 11</i>.<p><b>Étym</b>. ἀ, ἦχος.`

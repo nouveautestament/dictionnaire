@@ -1,0 +1,1 @@
+lar[2275]=`<b>αἰγί·πυρον, ου (τὸ)</b> <font color="purple">[ῐῠ]</font> <i>c</i>. αἰγίπυρος ANTH. <i>App. 120</i>.`

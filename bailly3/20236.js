@@ -1,0 +1,1 @@
+lar[20236]=`<b>(ὁ)</b> Borès, <i>chien d’Actéon,</i> POÈT. (APD. <i>3, 4, 4</i>).`

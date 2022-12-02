@@ -1,0 +1,1 @@
+lar[76865]=`<i>adv</i>., avec mépris, DH. <i>7, 12</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> παραμελέω.`

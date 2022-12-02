@@ -1,0 +1,1 @@
+lar[58316]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> l’idée abstraite d’une tasse, PLAT. (DL. <i>6, 53).</i><p><b>Étym</b>. κύαθος.`

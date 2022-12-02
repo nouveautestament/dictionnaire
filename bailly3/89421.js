@@ -1,0 +1,1 @@
+lar[89421]=`<b>οῦ (ὁ)</b> rire amer, sarcasme, RHÉT. <i>8, 591 W.</i> ; HDN RH. <i>Schem. 591</i>.<p><b>Étym</b>. σαρκάζω.`

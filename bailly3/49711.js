@@ -1,0 +1,1 @@
+lar[49711]=`<b>ἰσο·περίμετρος, ος, ον</b> <font color="purple">[ῑ̆σ]</font> d’un périmètre égal, SYN. <i>Calv. 8, 1181b Migne</i>.<p><b>Étym</b>. ἴ. περίμετρος.`

@@ -1,0 +1,1 @@
+lar[51359]=`<b>(ὁ)</b> <font color="purple">[ᾰδ]</font> <i>fils ou descendant de Calchas,</i> A. PL. <i>336</i>.<p><b>Étym</b>. <i>patr. de</i> Κάλχας.`

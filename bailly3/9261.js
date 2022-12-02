@@ -1,0 +1,1 @@
+lar[9261]=`<b>ἀν·ομίλητος, ος, ον</b> <font color="purple">[ῑ]</font> qui n’a pas de relations, insociable, sauvage, PLAT. <i>Leg. 951a ;</i> PLUT. <i>M. 50b ; avec un gén.</i> : ἀν. παιδείας, PLAT. <i>Ep. 332c</i>, étranger à toute éducation ; <i>d’où</i> grossier, sauvage, LUC. <i>M. cond. 14</i>.<p><b>Étym</b>. ἀν-, ὁμιλέω.`

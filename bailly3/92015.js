@@ -1,0 +1,1 @@
+lar[92015]=`<i>mot scythe,</i> œil, HDT. <i>4, 27</i>.`

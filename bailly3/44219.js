@@ -1,0 +1,1 @@
+lar[44219]=`<b>ης (ἡ)</b> manche de charrue, HÉS. <i>O. 465</i> ; A.RH. <i>3, 1325</i> ; ANTH. <i>7, 650</i>.<p><b>Étym</b>. ἔχω.`

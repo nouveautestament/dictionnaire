@@ -1,0 +1,1 @@
+lar[15091]=`<b>ἀ·ρραγάδωτος, ος, ον</b> <font color="purple">[ρᾰᾰ]</font> sans fissure, APD. POL. <i>23</i>.<p><b>Étym</b>. ἀ, *ῥαγαδόω, <i>de</i> ῥαγάς.`

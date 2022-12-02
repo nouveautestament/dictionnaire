@@ -1,0 +1,1 @@
+lar[18618]=`<b>ου (ὁ)</b> Apsinès, <i>rhéteur grec</i>.`

@@ -1,0 +1,1 @@
+lar[84954]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière outrageante, DÉM. <i>874, 14</i>.<p><b>Étym</b>. προπηλακίζω.`

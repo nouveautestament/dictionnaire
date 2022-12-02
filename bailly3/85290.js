@@ -1,0 +1,1 @@
+lar[85290]=`<b>προσ·αριθμέω-ῶ</b> <font color="purple">[ᾰ]</font> compter en outre, en surplus de, <i>dat</i>. JOS. <i>A.J. 7, 12</i> fin ; <i>au pass</i>. PLUT. <i>M. 1029d, etc</i>.`

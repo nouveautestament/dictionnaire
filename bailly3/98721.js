@@ -1,0 +1,1 @@
+lar[98721]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> à quatre places, <i>càd</i>. à quatre loges, <i>t. de botan</i>. DIOSC. <i>1, 133</i>.<p><b>Étym</b>. τ. χώρα.`

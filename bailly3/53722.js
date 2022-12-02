@@ -1,0 +1,1 @@
+lar[53722]=`<b>ας (ἡ)</b> condamnation par vote à main levée, DÉM. <i>516, 8</i>.<p><b>Étym</b>. <i>cf</i>. καταχειροτονέω.`

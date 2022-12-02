@@ -1,0 +1,1 @@
+lar[38836]=`<b>ἐπι·πτύσσω</b>, plier sur, <i>d’où</i> fermer en pliant, LUC. <i>Dem. enc. 25</i>.<br><b><i>Moy.</i></b> se replier, se refermer, HPC. <i>1201e ;</i> ARSTT. <i>H.A. 1, 16, 10</i>.`

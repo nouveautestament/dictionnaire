@@ -1,0 +1,1 @@
+lar[44718]=`<b>Ζωμ·εκπνέων, οντος (ὁ)</b> Haleine-de-sauce, <i>càd</i>. qui exhale une odeur de sauce <i>ou</i> de bouillon, <i>n. de parasite</i>, ALCIPHR. <i>3, 7</i>.<p><b>Étym</b>. ζωμός, ἐκπνέω.`

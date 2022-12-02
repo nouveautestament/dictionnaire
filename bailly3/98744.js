@@ -1,0 +1,1 @@
+lar[98744]=`<b>τετρ·ώβολος, ος, ον</b>, qui vaut quatre oboles, <i>proverb.</i> : τετρώβολον τοῦτ' ἔστι, AR. <i>Pax 254,</i> cela vaut quatre oboles, <i>càd. ironiq</i>. cela est cher ; <i>subst</i>. τὸ τετρώβολον, POL. <i>34, 8, 8,</i> pièce de quatre oboles.<p><b>Étym</b>. τ. ὀβολός.`

@@ -1,0 +1,1 @@
+lar[99068]=`<b>ῶν (οἱ)</b> les habitants de Tigennis, PLUT. <i>Sert. 9</i>.<p><b>Étym</b>. <i>v</i>. Τίγεννις.`

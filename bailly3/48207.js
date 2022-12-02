@@ -1,0 +1,1 @@
+lar[48207]=`<b>*Ἰαλύσιος</b>, <i>ion</i>. <b>Ἰηλύσιος, η, ον</b> <font color="purple">[ῡ]</font> d’Ialysos, DP. <i>505</i>.<p><b>Étym</b>. Ἰαλυσός.`

@@ -1,0 +1,1 @@
+lar[23984]=`<b>δεσμέω-ῶ</b> <i>(seul. prés.) c</i>. δεσμεύω ARSTT. <i>Plant. 1, 2, 17</i> ; HLD. <i>8, 9</i> ; NT. <i>Luc. 8, 29 ; etc. ; blâmé par les Atticistes,</i> MŒR. <i>p. 122</i> ; TH. MAG. <i>p. 199, 821</i>.`

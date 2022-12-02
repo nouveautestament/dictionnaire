@@ -1,0 +1,1 @@
+lar[33736]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de naître <i>ou</i> de croître dans, ORIB. <i>p. 120 Dund</i>.<p><b>Étym</b>. ἐμφύω.`

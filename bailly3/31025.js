@@ -1,0 +1,1 @@
+lar[31025]=`<b>ἑκατοντα·θύσανος, ος, ον</b> <font color="purple">[ᾰᾰῠᾰ]</font> garni de cent franges, JUL. <i>Ep. 180</i>.<p><b>Étym</b>. ἑκατοντάς, θύσανος.`

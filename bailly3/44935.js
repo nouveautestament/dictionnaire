@@ -1,0 +1,1 @@
+lar[44935]=`<b>ου (ὁ)</b> Hègètoridès (<i>litt</i>. fils d’Hègètôr) <i>h</i>. HDT. <i>9, 76</i>.<p><b>Étym</b>. <i>patr. de</i> Ἡγήτωρ.`

@@ -1,0 +1,1 @@
+lar[82791]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰ]</font> corollaire, <i>proposition tirée d’un théorème,</i> EUCL. <i>Elem. 3, 1</i>.<p><b>Étym</b>. πορίζω.`

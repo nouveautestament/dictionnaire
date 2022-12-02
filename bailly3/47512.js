@@ -1,0 +1,1 @@
+lar[47512]=`<b>ος, ον</b> <font color="purple">[ῡῐ]</font> de Thucydide, DH. <i>6, 998 Reiske</i> ; D. PHAL. <i>36, 12</i>.<p><b>Étym</b>. Θουκυδίδης.`

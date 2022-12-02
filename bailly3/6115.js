@@ -1,0 +1,1 @@
+lar[6115]=`<b>ἀμφιδοξέω-ῶ :<br>      1</b> être dans le doute, ARSTT. <i>Rhet. 1, 2, 4</i> ; περί τινων, POL. <i>32, 26, 5,</i> sur certaines choses.<br><b>      2</b> mettre en doute, <i>acc</i>. ARSTT. <i>Soph. el. 17, 17 ; pass</i>. être douteux, ARSTT. <i>Soph. el. 17, 18</i> ; DS. <i>13, 7 ; 19, 96</i> ; PLUT. <i>Thes. 24</i>.<p><b>Étym</b>. ἀμφίδοξος.`

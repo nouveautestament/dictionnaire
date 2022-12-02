@@ -1,0 +1,1 @@
+lar[16639]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Asôpios, <i>h</i>. THC.`

@@ -1,0 +1,1 @@
+lar[86561]=`<b>προσ·υπισχνέομαι-οῦμαι</b>, promettre en outre de, <i>inf</i>. PLUT. <i>Demetr. 10</i> ; DC. <i>38, 31, etc</i>.`

@@ -1,0 +1,1 @@
+lar[15345]=`<b>ἀρτί·καυτος</b> <i>ou</i> <b>ἀρτί·καυστος, ος, ον</b> <font color="purple">[ῐ]</font> nouvellement brûlé, TH. <i>Ign. 65</i>.<p><b>Étym</b>. ἄ. καίω.`

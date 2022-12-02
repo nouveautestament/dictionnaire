@@ -1,0 +1,1 @@
+lar[36365]=`<b>ἐπ·αγάλλομαι</b> (<i>seul. prés</i>.) <font color="purple">[ᾰγ]</font> se faire honneur de, se glorifier de : τινι, IL. <i>16, 91</i> ; ἐπί τινι, XÉN. <i>Œc. 4, 17,</i> qqe ch.`

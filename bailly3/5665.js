@@ -1,0 +1,1 @@
+lar[5665]=`<b>ου (ἡ)</b> Ammos, <i>litt</i>. « le sable » <i>contrée de Carie,</i> ESCHN. <i>679</i>.`

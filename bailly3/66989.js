@@ -1,0 +1,1 @@
+lar[66989]=`<font color="purple">[ῠ]</font> <i>c</i>. μυσάττομαι, NIC. <i>Al. 482</i>.`

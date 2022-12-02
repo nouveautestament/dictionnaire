@@ -1,0 +1,1 @@
+lar[76181]=`<b>παρα·σημεῖον, ου (τὸ)</b> fausse marque, contrefaçon, PLAT. COM. <i>2-2, 643 Mein</i>.`

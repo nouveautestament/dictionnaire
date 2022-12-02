@@ -1,0 +1,1 @@
+lar[76229]=`<b>παρα·σπόνδειος, ος, ον :<br>      1</b> qui préside aux libations (divinité) N. DAM. <i>150</i>.<br><b>      2</b> qui se chante pendant une libation, PHIL. <i>2, 484</i>.<p><b>Étym</b>. π. σπονδή.`

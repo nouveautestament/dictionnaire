@@ -1,0 +1,1 @@
+lar[67923]=`<b>νεβρόω-ῶ</b>, changer en faon, NONN. <i>D. 10, 60</i>.<p><b>Étym</b>. νεβρός.`

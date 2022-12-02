@@ -1,0 +1,1 @@
+lar[66070]=`<b>μισό·πτωχος, ος, ον</b> <font color="purple">[ῑ]</font> ennemi des mendiants, des pauvres, ANTH. <i>11, 403</i>.<p><b>Étym</b>. μ. πτωχός.`

@@ -1,0 +1,1 @@
+lar[40300]=`<b>ου (ἡ)</b> Érésos (<i>auj</i>. Eresós) <i>v. de Lesbos,</i> THC. <i>3, 18, etc.</i> ; DÉM. <i>17, 7 Baiter-Sauppe, etc</i>.`

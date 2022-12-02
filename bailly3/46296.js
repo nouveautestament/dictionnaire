@@ -1,0 +1,1 @@
+lar[46296]=`<b>ης, ες</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui est un indice de mort, HPC. <i>Progn. 37</i>.<br><b>      2</b> mortel, HPC. <i>Aph. 1247</i> ; EL. <i>N.A. 7, 5</i>.<p><b>Étym</b>. θάνατος, -ωδης.`

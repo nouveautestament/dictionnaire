@@ -1,0 +1,1 @@
+lar[10772]=`<i>adv</i>., irrésistiblement, ARISTOB. (EUS. <i>P.E. 377</i>).`

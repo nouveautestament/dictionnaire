@@ -1,0 +1,1 @@
+lar[67181]=`<b>μυο·κτόνος, ος, ον</b>, qui tue les rats, BATR. <i>159 ; en parl. de l’aconit,</i> NIC. <i>Al. 36</i>.<p><b>Étym</b>. μ. κτείνω.`

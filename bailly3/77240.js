@@ -1,0 +1,1 @@
+lar[77240]=`<b>πασι·μέλουσα, ης</b> <font color="purple">[ᾱῐ]</font> <i>adj. f.</i> :<br><b>      1</b> auquel tous s’intéressent, <i>ép. du navire Argo,</i> OD. <i>12, 70</i>.<br><b>      2</b> <i>p. suite,</i> connu de tous, célèbre, NONN. <i>D. 5, 128</i>.<p><b>Étym</b>. π. μέλω.`

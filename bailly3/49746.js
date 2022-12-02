@@ -1,0 +1,1 @@
+lar[49746]=`<b>ἰσό·σταθμος, ος, ον</b> <font color="purple">[ῑ̆]</font> d’un poids égal ; <i>p. ext</i>. égal, DIOSC. <i>1, 54</i> ; APP. <i>1, 97 Schweigh</i>.<p><b>Étym</b>. ἴ. σταθμός.`

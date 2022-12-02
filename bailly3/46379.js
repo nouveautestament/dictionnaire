@@ -1,0 +1,1 @@
+lar[46379]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> tour d’adresse, prodige, HLD. <i>10, 39</i>.<p><b>Étym</b>. θαυματουργέω.`

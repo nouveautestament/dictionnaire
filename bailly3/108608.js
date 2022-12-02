@@ -1,0 +1,1 @@
+lar[108608]=`<b>(ἡ)</b> fleur de jeunesse, puberté, ESCHL. <i>Eum. 189</i>.<p><b>Étym</b>. χλούνης.`

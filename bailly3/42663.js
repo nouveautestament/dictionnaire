@@ -1,0 +1,1 @@
+lar[42663]=`<b>ου</b>, <i>adj. m</i>. bienveillant, ami, OD. <i>6, 185</i> ; OPP. <i>H. 5, 45</i>.<p><b>Étym</b>. εὐμενής.`

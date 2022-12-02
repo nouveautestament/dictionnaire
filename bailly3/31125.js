@@ -1,0 +1,1 @@
+lar[31125]=`<b>ατος (τὸ)</b> sciure de bois (rongée et rejetée par la scie) SOPH. <i>Tr. 700</i>.<p><b>Étym</b>. ἐκβιβρώσκω.`

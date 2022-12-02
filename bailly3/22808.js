@@ -1,0 +1,1 @@
+lar[22808]=`<b>ας (ἡ)</b> <font color="purple">[ῠμᾰ]</font> folle passion pour les femmes, CHRYSIPP. (ATH. <i>464d</i>).<p><b>Étym</b>. γυναικομανής.`

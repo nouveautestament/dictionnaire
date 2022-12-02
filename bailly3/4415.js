@@ -1,0 +1,1 @@
+lar[4415]=`<b>άδος (ἡ)</b> territoire d’Halies <i>en Argolide,</i> THC. <i>2, 56</i>.<p><b>Étym</b>. Ἁλιαί.`

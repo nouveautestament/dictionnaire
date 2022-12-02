@@ -1,0 +1,1 @@
+lar[55389]=`remuer vivement les hanches ; <i>fig</i>. changer sans cesse, <i>acc</i>. THGN. <i>303</i>.<p><b>Étym</b>. κίγκλος.`

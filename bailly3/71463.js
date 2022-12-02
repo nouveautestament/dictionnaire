@@ -1,0 +1,1 @@
+lar[71463]=`<b>*ὁμό·δημος</b>, <i>dor</i>. <b>ὁμό·δαμος, ος, ον</b> <font color="purple">[ᾱ]</font> qui est du même peuple, PD. <i>O. 9, 48</i> ; τινι, PD. <i>I. 1, 30,</i> que qqn.<p><b>Étym</b>. ὁμ. δῆμος.`

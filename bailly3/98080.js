@@ -1,0 +1,1 @@
+lar[98080]=`<b>τεκνο·τρόφος, ος, ον</b>, qui nourrit <i>ou</i> élève des enfants, CHRYS. <i>Serm. 5</i>.<p><b>Étym</b>. τέκνον, τρέφω.`

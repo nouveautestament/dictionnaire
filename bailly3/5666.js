@@ -1,0 +1,1 @@
+lar[5666]=`<b>ου (ἡ) :<br>      1</b> sable, PLAT. <i>Phæd. 110a ;</i> ARSTT. <i>H.A. 4, 1, etc.</i> ; PLUT. <i>Fab. 6, etc.</i><br><b>      2</b> arène sablée, XÉN. <i>Mem. 3, 3, 6</i>.<br><b>      3</b> terre sulfureuse, STR.<p><b>Étym</b>. <i>emprunt à un substrat pré-indo-europ. ; cf</i>. ψάμμος, ψάμαθος <i>et</i> ἄμαθος.`

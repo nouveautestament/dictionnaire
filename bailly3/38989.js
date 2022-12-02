@@ -1,0 +1,1 @@
+lar[38989]=`<b>οῦ (ὁ)</b> qui s’occupe de préparer, d’organiser, DÉM. <i>618, 4 (loi</i>) ; ATH. <i>235d</i>.<p><b>Étym</b>. ἐπισκευάζω.`

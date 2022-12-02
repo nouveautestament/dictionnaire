@@ -1,0 +1,1 @@
+lar[85522]=`<b>προσ·εκλέγω</b>, enlever <i>ou</i> retrancher en outre, <i>acc</i>. TÉLÈS (STOB. <i>Fl. 108, 83</i>).<br><b><i>Moy.</i></b> choisir en outre pour soi, <i>acc</i>. POL. <i>6, 24, 2</i>.`

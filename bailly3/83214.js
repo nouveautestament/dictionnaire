@@ -1,0 +1,1 @@
+lar[83214]=`<b>α, ον</b>, <i>vb. de</i> πράσσω, PLAT. <i>Prot. 356c, etc. ; au neutre,</i> SOPH. <i>O.R. 1439</i> ; PLAT. <i>Prot. 356b, etc</i>.`

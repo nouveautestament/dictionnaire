@@ -1,0 +1,1 @@
+lar[45444]=`<b>ἡμί·κακος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à moitié méchant, à moitié mauvais, SOPH. <i>fr. 885</i> ; ALEX. <i>(Bkk. p. 98, 113).</i><p><b>Étym</b>. ἡμι-, κακός.`

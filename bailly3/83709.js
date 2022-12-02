@@ -1,0 +1,1 @@
+lar[83709]=`<b>προ·αριστίδιος, ος, ον</b> <font color="purple">[ᾱῐδ]</font> qui précède le déjeuner, SCYL. <i>p. 25</i>.<p><b>Étym</b>. π. ἄριστον.`

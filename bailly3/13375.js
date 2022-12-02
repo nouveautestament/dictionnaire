@@ -1,0 +1,1 @@
+lar[13375]=`<b>ἀπο·σπείρω</b>, jeter comme une semence, LUC. <i>Somn. 15</i>.`

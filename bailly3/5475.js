@@ -1,0 +1,1 @@
+lar[5475]=`<i>adv</i>., indivisiblement, CLÉM. <i>542</i>.<p><b>Étym</b>. ἀμερής.`

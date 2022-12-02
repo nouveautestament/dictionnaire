@@ -1,0 +1,1 @@
+lar[106105]=`<b>φιλο·στόνως</b> <font color="purple">[ῐ]</font> <i>adv</i>., avec les gémissements habituels, ESCHL. <i>Sept. 279</i>.<p><b>Étym</b>. φ. στόνος.`

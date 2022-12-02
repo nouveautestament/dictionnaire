@@ -1,0 +1,1 @@
+lar[95141]=`<b>συν·διαπορέω-ῶ</b> <font color="purple">[ᾰ]</font> être également dans le doute, PLUT. <i>Arist. 11</i> ; περί τινος, PLUT. <i>Pomp. 75</i> ; ὑπέρ τινος, DH. <i>11, 25,</i> sur qqe ch. ; <i>avec un relat</i>. PLUT. <i>Cæs. 32</i>.`

@@ -1,0 +1,1 @@
+lar[92320]=`<b>οῦ (ὁ)</b> rouleau pour étendre la pâte, ANAXIPP. (<i>Com. fr. 4, 465).</i><p>➳ <i>dans les inscr. att</i>. στελεοί, CIA. <i>2, add. 834, c (après 329 av. J.-C.), à côté de</i> στελειούς, CIA. <i>l. 55 ; v. Meisterh. p. 34</i>.`

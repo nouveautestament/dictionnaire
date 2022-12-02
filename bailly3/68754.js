@@ -1,0 +1,1 @@
+lar[68754]=`<b>ωνος (ὁ)</b> <font color="purple">[νῑ]</font> Nikiôn, <i>h</i>. PLUT. <i>Phoc. 13</i>.<p><b>Étym</b>. νίκη.`

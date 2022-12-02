@@ -1,0 +1,1 @@
+lar[29045]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> objet de honte <i>ou</i> de répugnance, JOS. <i>B.J. 1, 25, 5</i>.<p><b>Étym</b>. δυσωπέω.`

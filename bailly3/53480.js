@@ -1,0 +1,1 @@
+lar[53480]=`<i>mieux que</i> <b>καταστρατοπεδία, ας (ἡ)</b> séjour dans les camps, vie des camps, PHYLARQ. (ATH. <i>539c</i>) ; EL. <i>V.H. 9, 3</i>.<p><b>Étym</b>. καταστρατοπεδεύω.`

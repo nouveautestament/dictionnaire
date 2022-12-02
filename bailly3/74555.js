@@ -1,0 +1,1 @@
+lar[74555]=`<b>παλιμ·φυής, ής, ές</b> <font color="purple">[ᾰ]</font> qui renaît, qui repousse, LUC. <i>Am. 2</i> ; NONN. <i>Jo. 7, 148</i>.<p><b>Étym</b>. π. φύω.`

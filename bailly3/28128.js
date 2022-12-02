@@ -1,0 +1,1 @@
+lar[28128]=`<font color="purple">[ῠ]</font> <i>préfixe marquant une idée de difficulté, de malheur, c</i>. δυσάγγελος, δύσαγνος, <i>etc</i>.<p><b>Étym</b>. <i>p.-ê. de même orig. que la rac. sscrite</i> dush, gâter.`

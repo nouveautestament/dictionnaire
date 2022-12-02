@@ -1,0 +1,1 @@
+lar[87484]=`<b>πτωχοτροφέω-ῶ</b>, nourrir les mendiants, les pauvres, NAZ. <i>3, 352, 1113 Migne</i>.<p><b>Étym</b>. πτωχοτρόφος.`

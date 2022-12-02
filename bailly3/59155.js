@@ -1,0 +1,1 @@
+lar[59155]=`<b>κωλωτο·ειδής, ής, ές</b>, qui ressemble au lézard tacheté, HPC. <i>1139c</i>.<p><b>Étym</b>. κωλώτης, εἶδος.`

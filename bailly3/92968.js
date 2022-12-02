@@ -1,0 +1,1 @@
+lar[92968]=`<b>ου (τὸ)</b> petite pomme de pin, NIC. <i>Th. 628</i>.<p><b>Étym</b>. στρόμβος.`

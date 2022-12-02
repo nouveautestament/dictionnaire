@@ -1,0 +1,1 @@
+lar[67445]=`<b>μυστριο·πώλης, ου (ὁ)</b> marchand de petites cuillers, NICOPH. (ATH. <i>126e</i>).<p><b>Étym</b>. μυστρίον, <i>dim. de</i> μύστρον, πωλέω.`

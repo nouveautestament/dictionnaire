@@ -1,0 +1,1 @@
+lar[5820]=`<b>οῦ (ὁ, ἡ)</b> qui travaille la vigne, vigneron, AR. <i>Pax 190</i> ; PLUT. <i>M. 1049c ;</i> NT. <i>Luc. 13, 7</i>.<p><b>Étym</b>. <i>contr. de</i> ἀμπελοεργός.`

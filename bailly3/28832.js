@@ -1,0 +1,1 @@
+lar[28832]=`<b>δυσ·πολίτευτος, ος, ον</b> <font color="purple">[ῑ]</font> impropre aux affaires publiques, PLUT. <i>Dio. 32</i>.<p><b>Étym</b>. δ. πολιτεύω.`

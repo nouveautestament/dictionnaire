@@ -1,0 +1,1 @@
+lar[97881]=`<b>ταχύ·βουλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux résolutions précipitées <i>ou</i> qui change promptement de résolution, AR. <i>Ach. 630</i>.<p><b>Étym</b>. τ. βουλή.`

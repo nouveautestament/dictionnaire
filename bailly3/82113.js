@@ -1,0 +1,1 @@
+lar[82113]=`<b>πολυ·μῆτα</b> <font color="purple">[ῠᾰ]</font> <i>nom. éol. c</i>. πολυμήτης, OPP. <i>H. 5, 6</i>.`

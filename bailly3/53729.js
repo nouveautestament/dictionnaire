@@ -1,0 +1,1 @@
+lar[53729]=`<b>κατ·αχθής, ής, ές :<br>      1</b> <i>pass</i>. surchargé : τινος, ARAT. <i>1044,</i> de qqe ch. ; <i>abs</i>. NIC. <i>Al. 322</i>.<br><b>      2</b> <i>act</i>. accablant, NONN. <i>D. 40, 517</i>.<p><b>Étym</b>. κ. ἄχθος.`

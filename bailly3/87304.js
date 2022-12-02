@@ -1,0 +1,1 @@
+lar[87304]=`<b>(ὁ)</b> <font color="purple">[ᾱ]</font> Ptérélas, <i>roi de Taphos,</i> ANTH. <i>9, 684</i>.`

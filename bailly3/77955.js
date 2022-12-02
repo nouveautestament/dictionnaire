@@ -1,0 +1,1 @@
+lar[77955]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne le pentagone, NICOM. <i>Arithm. 2, 10, 1 Hoche</i>.<p><b>Étym</b>. πεντάγωνος.`

@@ -1,0 +1,1 @@
+lar[94900]=`<b>συν·απονεύω</b>, s’incliner <i>ou</i> chanceler ensemble, THC. <i>7, 71</i> ; avec, <i>dat</i>. PLUT. <i>M. 347b, 780a ;</i> PHILSTR. <i>886</i>.`

@@ -1,0 +1,1 @@
+lar[51936]=`<b>ας (ἡ)</b> force d’âme, fermeté, constance, patience, XÉN. <i>Cyr. 3, 3, 8 ; joint à</i> ἀνδρεία, PLAT. <i>1 Alc. 122c ; p. opp. à</i> μαλακία, XÉN. <i>Cyr. 8, 8, 15 ; au pl</i>. PLAT. <i>Rsp. 390d</i>.<p><b>Étym</b>. καρτερός.`

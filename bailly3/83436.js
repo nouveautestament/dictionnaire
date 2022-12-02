@@ -1,0 +1,1 @@
+lar[83436]=`<b>η, ον</b> <font color="purple">[ῑῐ]</font> d’yeuse, HÉS. <i>O. 427</i> ; AR. <i>Ach. 668</i> ; DIOSC. <i>1, 143, etc. ; fig</i>. dur, AR. <i>Ach. 180 ; en prose,</i> LUC. <i>H. conscr. 8, etc</i>.<p><b>Étym</b>. πρῖνος.`

@@ -1,0 +1,1 @@
+lar[62909]=`<b>ου (ὁ)</b> <font color="purple">[γᾰ]</font> Margasos, <i>h</i>. Q. SM. <i>10, 145</i>.`

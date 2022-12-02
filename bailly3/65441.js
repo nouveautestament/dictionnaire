@@ -1,0 +1,1 @@
+lar[65441]=`<b>α, ον :<br>      1</b> qui dure un mois, ESCHL. <i>Suppl. 266</i> ; STR. <i>173</i> ; τὸ μηνιαῖον, SPT. <i>Lev. 27, 6 ; Num. 18, 6, etc</i>. durée d’un mois.<br><b>      2</b> de chaque mois, A. APHR. <i>Probl. 2, 57</i> ; τὰ μηνιαῖα, PLUT. <i>M. 907f</i>, les menstrues.<p><b>Étym</b>. μήν².`

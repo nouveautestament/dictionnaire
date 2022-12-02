@@ -1,0 +1,1 @@
+lar[26183]=`<b>δι·εμπολάω-ῶ</b>, trafiquer de, vendre, <i>en gén</i>. EUR. <i>Bacch. 512</i> ; AR. <i>Ach. 973 ; fig</i>. marchander, SOPH. <i>Ph. 579</i>.`

@@ -1,0 +1,1 @@
+lar[26608]=`<b>υος (ὁ)</b> animal inconnu de Libye, HDT. <i>4, 192</i>.`

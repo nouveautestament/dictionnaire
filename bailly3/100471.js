@@ -1,0 +1,1 @@
+lar[100471]=`<b>τρισ·μακάριστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> trois fois digne d’envie, LUC. <i>V. auct. 12</i> ; SIB. <i>8, 164</i> ; ANTH. <i>1, 123</i>.<p><b>Étym</b>. τρ. μακαρίζω.`

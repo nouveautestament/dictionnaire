@@ -1,0 +1,1 @@
+lar[71025]=`<b>ὀλιγό·κλαδος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui a peu de branches, TH. <i>H.P. 1, 5, 1</i>.<p><b>Étym</b>. ὀλ. κλάδος.`

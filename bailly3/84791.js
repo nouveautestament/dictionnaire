@@ -1,0 +1,1 @@
+lar[84791]=`<b>προ·νομοθετέω-ῶ</b>, sanctionner par une loi avant, <i>avec</i> πρό <i>et le gén</i>. DC. <i>36, 22</i>.`

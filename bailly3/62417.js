@@ -1,0 +1,1 @@
+lar[62417]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰρ]</font> Makaria, <i>f</i>. PLUT. <i>Pel. 21, etc</i>.<p><b>Étym</b>. <i>v</i>. μακαρία.`

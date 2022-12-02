@@ -1,0 +1,1 @@
+lar[52838]=`<b>ης, ες :<br>      1</b> qui concerne les menstrues, ARSTT. <i>G.A. 3, 1, 24</i>.<br><b>      2</b> qui a des menstrues, ARSTT. <i>G.A. 2, 8, 14</i>.<p><b>Étym</b>. καταμήνιος, -ωδης.`

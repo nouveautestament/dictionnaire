@@ -1,0 +1,1 @@
+lar[90161]=`<b>*σιδηρο·νόμος</b>, <i>dor</i>. <b>σιδαρο·νόμος, ος, ον</b> <font color="purple">[ῐᾱ]</font> qui partage par le fer, <i>càd</i>. par l’épée, ESCHL. <i>Sept. 788</i>.<p><b>Étym</b>. σίδηρος, νέμω.`

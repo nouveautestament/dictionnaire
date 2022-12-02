@@ -1,0 +1,1 @@
+lar[56477]=`<b>κοινο·εργός, ός, όν</b>, qui travaille en commun, SIMPL. <i>Epict. p. 136</i>.<p><b>Étym</b>. κοινός, ἔργον.`

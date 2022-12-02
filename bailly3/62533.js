@@ -1,0 +1,1 @@
+lar[62533]=`<b>μακρο·λόγος, ος, ον</b>, qui parle longuement, verbeux, PLAT. <i>Soph. 268b au cp</i>. -ώτερος.<p><b>Étym</b>. μακρός, λέγω.`

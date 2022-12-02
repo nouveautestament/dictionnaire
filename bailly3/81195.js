@@ -1,0 +1,1 @@
+lar[81195]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui donne des vents, flatueux, DIOSC. <i>2, 109, 134, etc</i>.<p><b>Étym</b>. πνευματόω.`

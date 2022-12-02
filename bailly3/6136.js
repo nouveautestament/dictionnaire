@@ -1,0 +1,1 @@
+lar[6136]=`<b>ἀμφί·εργος, ος, ον</b>, travaillé de deux façons (par la pluie et par le soleil) <i>en parl. de la terre,</i> TH. <i>H.P. 3, 23, 1</i>.<p><b>Étym</b>. ἀ. ἔργον.`

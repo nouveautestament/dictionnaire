@@ -1,0 +1,1 @@
+lar[105513]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> amour du pouvoir, TH. <i>Char. 26</i> ; POL. <i>6, 49, 3</i> ; PLUT. <i>Cic. 45 ; au plur</i>. tentatives ambitieuses, PLUT. <i>Eum. 13</i>.<p><b>Étym</b>. φίλαρχος.`

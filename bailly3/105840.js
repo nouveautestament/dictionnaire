@@ -1,0 +1,1 @@
+lar[105840]=`<b>φιλο·κισσοφόρος</b> <font color="purple">[φῐ]</font> qui aime à porter le lierre, EUR. <i>Cycl. 620</i>.`

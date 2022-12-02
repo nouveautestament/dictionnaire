@@ -1,0 +1,1 @@
+lar[75285]=`<i>adv</i>., partout, de tous côtés, <i>avec mouv</i>. IL. <i>5, 508 ; 12, 12, 266, etc.</i> ; XÉN. <i>An. 7, 2, 23, etc. ; avec un gén</i>. ANTH. <i>9, 668, 10</i>.<p><b>Étym</b>. π. -σε.`

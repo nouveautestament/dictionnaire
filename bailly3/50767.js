@@ -1,0 +1,1 @@
+lar[50767]=`<b>κακο·λόγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui dit du mal de, qui injurie, détracteur ; <i>en parl. de choses,</i> injurieux, PD. <i>P. 11, 28</i> ; MÉN. <i>4, 144 Meineke</i> ; ARSTT. <i>Rhet. 2, 4, 18, etc</i>.<p><b>Étym</b>. κ. λέγω.`

@@ -1,0 +1,1 @@
+lar[28288]=`<b>δύσ·δηρις, ις, ι</b>, <i>gén</i>. <b>ιος</b>, difficile à combattre, NIC. <i>Th. 738</i>.<p><b>Étym</b>. δ. δῆρις.`

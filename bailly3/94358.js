@@ -1,0 +1,1 @@
+lar[94358]=`<b>συμ·πρόεδρος, ος, ον</b>, qui partage la présidence, ESCHN. <i>39, 21</i> ; JOS. <i>A.J. 14, 8, 5</i>.<p><b>Étym</b>. <i>décr</i>.`

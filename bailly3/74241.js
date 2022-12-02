@@ -1,0 +1,1 @@
+lar[74241]=`<b>ας (ἡ)</b> l’Éducation (de Cyrus), la Cyropédie, <i>c</i>. Κύρου παιδεία, PLUT. <i>Pel. c. Marc. 3, etc</i>.<p><b>Étym</b>. <i>v</i>. παιδεία.`

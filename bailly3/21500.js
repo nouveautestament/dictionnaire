@@ -1,0 +1,1 @@
+lar[21500]=`<b>εως (ἡ)</b> cri, vocifération, PLUT. <i>M. 722f</i>.<p><b>Étym</b>. γεγωνέω.`

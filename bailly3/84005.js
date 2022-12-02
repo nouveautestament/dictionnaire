@@ -1,0 +1,1 @@
+lar[84005]=`<b>ή, όν</b>, de traître <i>ou</i> de trahison, PLUT. <i>M. 668a ;</i> LUC. <i>Cal. 13, etc</i>.<p><b>Étym</b>. προδότης.`

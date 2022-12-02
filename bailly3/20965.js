@@ -1,0 +1,1 @@
+lar[20965]=`(<i>seul. prés</i>.) avoir envie de manger, CALL. <i>fr. 435</i>.<p><b>Étym</b>. βιβρώσκω.`

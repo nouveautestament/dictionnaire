@@ -1,0 +1,1 @@
+lar[65030]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> traduction, explication, PLUT. <i>Dem. 8</i>.<p><b>Étym</b>. μεταφράζω.`

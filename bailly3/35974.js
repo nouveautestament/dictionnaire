@@ -1,0 +1,1 @@
+lar[35974]=`<b>ἐξ·ηχέω-ῶ :<br>      1</b> faire résonner, faire retentir, SPT. <i>Sir. 40, 13 ; Joel 3, 14</i> ; NT. <i>1Thess. 1, 8, etc.</i> ; ἐξ. τὸ κύκνειον, POL. <i>30, 4, 7,</i> faire entendre en mourant le chant du cygne.<br><b>      2</b> produire un son discordant, <i>d’où fig</i>. déraisonner, POLÉM. <i>Physiogn. 1, 22</i>.`

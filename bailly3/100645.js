@@ -1,0 +1,1 @@
+lar[100645]=`<b>τρί·χους, ους, ουν</b> <font color="purple">[ῐ]</font> de la contenance de trois conges, NICOSTR. (ATH. <i>499c</i>).<p><b>Étym</b>. τρ. χοῦς.`

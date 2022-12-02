@@ -1,0 +1,1 @@
+lar[42352]=`<b>ιδος</b>, <i>adj. f</i>. de Bacchus, bachique, MOSCHION TR. (STOB. <i>Ecl. 1, 242).</i><p><b>Étym</b>. Εὔϊος.`

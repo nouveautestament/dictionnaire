@@ -1,0 +1,1 @@
+lar[30320]=`<b>ατος (τὸ) :<br>      1</b> représentation, image, ESCHL. <i>Sept. 523</i>.<br><b>      2</b> conjecture, M. TYR. <i>9, 3</i>.<p><b>Étym</b>. εἰκάζω.`

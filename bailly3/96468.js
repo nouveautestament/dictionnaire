@@ -1,0 +1,1 @@
+lar[96468]=`<b>συν·ωφελέω-ῶ</b>, venir également <i>ou</i> en même temps en aide à : τινι, SOPH. <i>Ph. 871, ou</i> τινα, XÉN. <i>Mem. 3, 5, 16,</i> à qqn ; εἴς τι, XÉN. <i>Œc. 2, 14,</i> servir à qqe ch.<br><b><i>Moy.</i></b> <i>m. sign</i>. LYS. <i>128, 40</i>.`

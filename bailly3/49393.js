@@ -1,0 +1,1 @@
+lar[49393]=`<b>ἱππό·μορφος, ος, ον</b>, qui a la forme d’un cheval, PLAT. <i>Phædr. 253c</i>.<p><b>Étym</b>. ἵ. μορφή.`

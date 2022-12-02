@@ -1,0 +1,1 @@
+lar[56112]=`<b>έως (ὁ) :<br>      1</b> voleur, SOPH. <i>Ph. 77</i>.<br><b>      2</b> <i>fig</i>. qui fait <i>ou</i> qui prépare clandestinement, SOPH. <i>Ant. 493</i>.<p><b>Étym</b>. κλέπτω.`

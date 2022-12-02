@@ -1,0 +1,1 @@
+lar[35464]=`<b>ἐξ·αναπνέω</b>, reprendre haleine, PLAT. <i>Phædr. 254c, Soph. 231c</i>.`

@@ -1,0 +1,1 @@
+lar[60543]=`<b>Λευκὴ ἀκτή (ἡ)</b> le Rivage blanc, <i>brg de la Chersonèse de Thrace,</i> HDT. <i>7, 25</i>.<p><b>Étym</b>. λευκός.`

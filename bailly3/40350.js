@@ -1,0 +1,1 @@
+lar[40350]=`<b>ου (τὸ)</b> temple d’Érekhthée, <i>sur l’Acropole à Athènes,</i> PLUT. <i>M. 843f</i>.<p><b>Étym</b>. Ἐρεχθεύς.`

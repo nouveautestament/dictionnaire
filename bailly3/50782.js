@@ -1,0 +1,1 @@
+lar[50782]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰν]</font> odieuse machination, LUC. <i>Phal. 1, 12</i> ; POLÉM. <i>Physiogn. p. 185</i>.<p><b>Étym</b>. κακομήχανος.`

@@ -1,0 +1,1 @@
+lar[7204]=`<i>part. pf. pass. de</i> ἀνάπτω.`

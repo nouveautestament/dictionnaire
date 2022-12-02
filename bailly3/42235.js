@@ -1,0 +1,1 @@
+lar[42235]=`<b>εὐθύ·δικος, ος, ον</b> <font color="purple">[ῠδῐ]</font> simplement <i>ou</i> strictement juste, ESCHL. <i>Ag. 761</i> ; ANTH. <i>6, 346</i>.<p><b>Étym</b>. εὐ. δίκη.`

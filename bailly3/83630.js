@@ -1,0 +1,1 @@
+lar[83630]=`<b>προ·απεχθάνομαι</b>, déclarer le premier <i>ou</i> auparavant son inimitié, DÉM. <i>179, 11</i>.`

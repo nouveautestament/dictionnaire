@@ -1,0 +1,1 @@
+lar[32124]=`<b>ἐκτελείωσις, εως (ἡ)</b> achèvement, accomplissement, TH. <i>C.P. 1, 9, 3</i>.<p><b>Étym</b>. ἐκτελειόω.`

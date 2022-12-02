@@ -1,0 +1,1 @@
+lar[62615]=`<b>μαλακ·αυγητός, ός, όν</b> <font color="purple">[ᾰᾰ]</font> qui repose doucement les yeux, <i>en parl. du sommeil ; sel. d’autres,</i> μαλακαύχητος, ος, ον, qui se vante de sa douceur, ARSTT. <i>fr. 675, 8 Rose</i>.<p><b>Étym</b>. μαλακός, αὐγή ; <i>sel. d’autres,</i> μ. αὐχέω.`

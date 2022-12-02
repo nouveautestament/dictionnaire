@@ -1,0 +1,1 @@
+lar[3782]=`<b>ἀκρό·καρπος, ος, ον</b>, dont les fruits sont au sommet, TH. <i>H.P. 1, 14, 2</i>.<p><b>Étym</b>. ἄ. καρπός.`

@@ -1,0 +1,1 @@
+lar[60080]=`faire cuire dans un chaudron, dans une marmite, LYC. <i>199</i>.<p><b>Étym</b>. λέβης.`

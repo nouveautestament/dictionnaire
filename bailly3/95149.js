@@ -1,0 +1,1 @@
+lar[95149]=`<b>συν·διασκέπτομαι</b>, examiner avec <i>ou</i> ensemble, PLAT. <i>Prot. 349b</i>.<p>➳ <i>Prés</i>. HIÉROCL. (STOB. <i>Fl. 67, 24</i>).`

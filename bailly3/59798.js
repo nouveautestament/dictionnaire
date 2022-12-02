@@ -1,0 +1,1 @@
+lar[59798]=`<font color="purple">[ᾱᾰ]</font> <i>adv</i>., selon l’opinion du peuple, POL. (STR. <i>317</i>).`

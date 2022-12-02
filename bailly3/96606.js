@@ -1,0 +1,1 @@
+lar[96606]=`<b>-οῦμαι</b> <font color="purple">[ῑ]</font> devenir également <i>ou</i> en même temps dur, GAL. 3.202.`

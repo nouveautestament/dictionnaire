@@ -1,0 +1,1 @@
+lar[31402]=`<b>ἐκ·καυλίζω</b>, arracher avec la tige, AR. <i>Eq. 824</i> ; DIOSC. <i>2, 165</i>.<p><b>Étym</b>. ἐκ, καυλός.`

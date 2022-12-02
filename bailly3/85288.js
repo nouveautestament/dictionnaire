@@ -1,0 +1,1 @@
+lar[85288]=`<b>προσ·αρθρόω-ῶ</b>, ajuster <i>ou</i> emboîter au moyen d’articulations, HPC. <i>Art. 810</i>.`

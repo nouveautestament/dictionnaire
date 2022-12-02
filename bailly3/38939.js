@@ -1,0 +1,1 @@
+lar[38939]=`<b>ος, ον</b>, secoué sur : κόμη, LUC. <i>Gall. 26,</i> chevelure flottant sur le front.<p><b>Étym</b>. ἐπισείω.`

@@ -1,0 +1,1 @@
+lar[73535]=`<b>οὐλαμη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte une troupe de guerriers, LYC. <i>32</i>.<p><b>Étym</b>. οὐλαμός, φέρω.`

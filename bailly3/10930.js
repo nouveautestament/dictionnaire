@@ -1,0 +1,1 @@
+lar[10930]=`<b>ἀξιό·μορφος, ος, ον</b>, d’une beauté remarquable, MAN. <i>4, 513</i>.<p><b>Étym</b>. ἄ. μορφή.`

@@ -1,0 +1,1 @@
+lar[32334]=`<b>εως (ἡ)</b> action de se répandre, divulgation, CLÉM. <i>2, 100 Migne</i>.<p><b>Étym</b>. ἐκφοιτάω.`

@@ -1,0 +1,1 @@
+lar[3305]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> propre à guérir, <i>gén</i>. PHIL. <i>1, 628</i> ; APP. <i>Lib. 88</i>.<br><b>      2</b> propre à remettre en état, à raccommoder (un vêtement), <i>d’où subst</i>. τὸ ἀκεστήριον, boutique de tailleur, LIB. <i>1, 358</i>.<p><b>Étym</b>. ἀκέομαι.`

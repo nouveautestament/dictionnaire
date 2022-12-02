@@ -1,0 +1,1 @@
+lar[72584]=`<b>ὀρει·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui marche à travers les montagnes, SOPH. <i>O.C. 1054, etc.</i> ; EUR. <i>Tr. 436, etc</i>.<p><b>Étym</b>. ὄρος, βαίνω.`

@@ -1,0 +1,1 @@
+lar[70677]=`<b>εως (ἡ)</b> action de porter, PLAT. <i>Crat. 420b</i>.<p><b>Étym</b>. <i>cf</i>. οἴσω.`

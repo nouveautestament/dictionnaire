@@ -1,0 +1,1 @@
+lar[99466]=`<i>att. c</i>. τοιαῦτα, PHÉRÉCR. (<i>Com. fr. 2, 335</i>) ; AR. <i>fr. 677, 678 Kock</i>.`

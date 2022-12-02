@@ -1,0 +1,1 @@
+lar[50484]=`<b>καθ·υπερακοντίζω</b> <font color="purple">[ᾰῠᾰ]</font> <font color="darkgreen">(<i>ao</i>. καθυπερηκόντισα)</font> <i>c</i>. ὑπερακοντίζω, AR. <i>Av. 825</i>.`

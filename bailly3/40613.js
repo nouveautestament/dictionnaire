@@ -1,0 +1,1 @@
+lar[40613]=`<b>ου (ὁ)</b> Hermippidas, <i>Lacédémonien,</i> PLUT. <i>Pel. 13</i>.<p><b>Étym</b>. <i>patr. de</i> Ἕρμιππος.`

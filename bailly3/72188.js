@@ -1,0 +1,1 @@
+lar[72188]=`<b>ὀξυ·φαής, ής, ές</b> <font color="purple">[ῠᾰ]</font> à la vue perçante, NONN. <i>D. 7, 214</i>.<p><b>Étym</b>. ὀ. φάος.`

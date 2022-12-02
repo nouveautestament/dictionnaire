@@ -1,0 +1,1 @@
+lar[79320]=`<b>περισσό·βοτος, ος, ον</b>, aux mets trop abondants, NONN. <i>Jo. 6, 12</i>.<p><b>Étym</b>. π. βόσκω.`

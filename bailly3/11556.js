@@ -1,0 +1,1 @@
+lar[11556]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰγᾰ]</font> inexpérience <i>ou</i> ignorance du bien, CLÉM. <i>190, 237, etc</i>.`

@@ -1,0 +1,1 @@
+lar[36413]=`<b>εως (ἡ)</b> action de louer, louange, EUR. <i>Tr. 418 au plur</i>.<p><b>Étym</b>. ἐπαινέω.`

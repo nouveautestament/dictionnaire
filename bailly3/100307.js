@@ -1,0 +1,1 @@
+lar[100307]=`<b>ακος (ἡ)</b> <font color="purple">[ῐᾰκ]</font> <i>c</i>. θρῖναξ, ANTH. <i>6, 104</i>.`

@@ -1,0 +1,1 @@
+lar[775]=`<i>adv</i>., par ignorance, ARSTT. <i>Top. 2, 9, 4</i>.<p><b>Étym</b>. ἀγνοέω.`

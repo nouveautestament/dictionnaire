@@ -1,0 +1,1 @@
+lar[79847]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> grand tussilage (<i>Tussilago petasites</i> L.) <i>plante,</i> DIOSC. <i>4, 108</i>.<p><b>Étym</b>. πέτασος.`

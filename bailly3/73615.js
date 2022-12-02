@@ -1,0 +1,1 @@
+lar[73615]=`<b>ας (ἡ)</b> = <i>lat</i>. Volumnia, <i>n. de f. rom</i>. PLUT. <i>Cor. 4, etc</i>.`

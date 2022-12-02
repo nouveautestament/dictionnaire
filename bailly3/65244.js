@@ -1,0 +1,1 @@
+lar[65244]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> employé par métonymie, EM. <i>460, 45</i>.<p><b>Étym</b>. μετωνυμία.`

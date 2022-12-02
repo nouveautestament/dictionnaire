@@ -1,0 +1,1 @@
+lar[46618]=`<b>ας (ἡ)</b> connaissance de Dieu, CLÉM. <i>2, 768 Migne</i> ; HIÉROCL. <i>C. aur. 463 Mullach</i>.<p><b>Étym</b>. θ. γιγνώσκω.`

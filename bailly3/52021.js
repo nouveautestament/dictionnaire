@@ -1,0 +1,1 @@
+lar[52021]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> lourdeur de tête, sommeil lourd, HPC. <i>798g ;</i> PHILONID. (ATH. <i>675a</i>) ; GAL. <i>2, 885</i>.<p><b>Étym</b>. καρόω.`

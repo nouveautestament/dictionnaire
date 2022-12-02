@@ -1,0 +1,1 @@
+lar[25857]=`<b>δια·φοινίσσω</b> (<i>seul. prés. pass. 3 pl</i>.) rendre rouge-pourpre, HPC. <i>192b, 195h</i>.`

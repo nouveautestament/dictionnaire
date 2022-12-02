@@ -1,0 +1,1 @@
+lar[26715]=`<b>δι·οδύρομαι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>impf. 3 sg</i>. διωδύρετο)</font> se lamenter : τι, DÉM. <i>1248, 20,</i> sur qqe ch.`

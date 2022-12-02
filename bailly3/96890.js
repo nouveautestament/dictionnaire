@@ -1,0 +1,1 @@
+lar[96890]=`<b>σφιγγο·καρίων (ὁ)</b> <font color="purple">[ᾱ]</font> le Carien qui parle par énigmes, <i>titre d’une comédie d’Eubule,</i> ATH. <i>449e</i>.<p><b>Étym</b>. σφίγξ, Κάρ.`

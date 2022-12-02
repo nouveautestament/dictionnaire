@@ -1,0 +1,1 @@
+lar[24273]=`<b>Δημο·λέων, οντος (ὁ)</b> Dèmoléôn :<br><b>      1</b> <i>Troyen,</i> IL. <i>20, 395</i>.<br><b>      2</b> <i>Lacédémonien,</i> Q. SM. <i>10, 119</i>.<br><b>      3</b> <i>autres,</i> PLUT. <i>Luc. 23 ; etc</i>.<p><b>Étym</b>. δῆμος, λέων.`

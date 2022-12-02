@@ -1,0 +1,1 @@
+lar[18772]=`<b>βαθυ·λήϊος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux moissons épaisses, aux riches moissons, IL. <i>18, 550</i> ; A.RH. <i>1, 830</i> ; ANTH. <i>9, 110</i>.<p><b>Étym</b>. β. λήϊον.`

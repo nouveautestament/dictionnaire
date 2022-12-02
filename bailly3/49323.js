@@ -1,0 +1,1 @@
+lar[49323]=`<b>ἱππο·δρόμος, ου (ὁ)</b> soldat de cavalerie légère, <i>en Sicile,</i> HDT. <i>7, 158</i>.<p><b>Étym</b>. ἵ. δραμεῖν.`

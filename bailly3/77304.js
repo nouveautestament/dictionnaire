@@ -1,0 +1,1 @@
+lar[77304]=`<b>ας</b> <font color="purple">[πᾰ]</font> <i>adj. f</i>. qui frappe, RHÉT. (<i>W. 3, 607).</i><p><b>Étym</b>. πατάσσω.`

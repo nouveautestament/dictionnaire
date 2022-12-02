@@ -1,0 +1,1 @@
+lar[27459]=`<b>α, ον</b>, de Dolope (tombeau) A.RH. <i>1, 585</i>.<p><b>Étym</b>. Δόλοψ.`

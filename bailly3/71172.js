@@ -1,0 +1,1 @@
+lar[71172]=`<b>εως (ἡ)</b> action d’offrir en holocauste, SPT. <i>Ex. 29, 25 ; Lev. 4, 34, etc</i>.<p><b>Étym</b>. ὁλοκαυτόω.`

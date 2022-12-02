@@ -1,0 +1,1 @@
+lar[37067]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui est monté sur, <i>gén.</i> : ἵππων ἐπεμβάται, EUR. <i>Bacch. 782,</i> guerriers montés sur des chevaux ; ἁρμάτων ἐπεμβάται, EUR. <i>Suppl. 585,</i> guerriers montés sur des chars, <i>ou abs</i>. EUR. <i>Suppl. 685</i>.<p><b>Étym</b>. ἐπεμβαίνω.`

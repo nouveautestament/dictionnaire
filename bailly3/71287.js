@@ -1,0 +1,1 @@
+lar[71287]=`<b>ου (ὁ)</b> figue tardive <i>ou</i> qui ne mûrit pas, HÉS. (STR. <i>642</i>) ; HDT. <i>1, 193</i> ; HPC. <i>566, 37, etc.</i> ; TH. <i>C.P. 5, 1, 8, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[59808]=`<b>(ἡ)</b> <font color="purple">[λᾱ]</font> Laomédeia, <i>Néréide,</i> HÉS. <i>Th. 257</i>.<p><b>Étym</b>. <i>cf</i>. Λαομέδων.`

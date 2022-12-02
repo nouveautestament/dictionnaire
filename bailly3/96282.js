@@ -1,0 +1,1 @@
+lar[96282]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>vb. de</i> συντείνω, PLAT. <i>Ep. 340c</i>.`

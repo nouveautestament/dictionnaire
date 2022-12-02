@@ -1,0 +1,1 @@
+lar[32281]=`<b>ἐκ·φαιδρύνω</b> <font color="purple">[ῡ]</font> rendre tout à fait brillant, luisant, EUR. <i>Bacch. 768</i>.`

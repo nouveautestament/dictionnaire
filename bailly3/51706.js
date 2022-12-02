@@ -1,0 +1,1 @@
+lar[51706]=`<b>(ἡ)</b> <font color="purple">[ᾰ]</font> Karambis (<i>auj</i>. Kerempi Bucua <i>ou</i> Kerine) <i>promont. de Paphlagonie</i>.<p>➳ <i>Gén</i>. -εως, LUC. <i>Tox. 57 ; ou</i> -ιδος, DP. <i>785 ; acc</i>. -ιν, DP. <i>151</i>.`

@@ -1,0 +1,1 @@
+lar[104660]=`<b>φαινίνδα παίζειν</b>, jouer à la balle, ANTIPH. (<i>Com. fr. 3, 137</i>) ; ATH. <i>14f ;</i> CLÉM. <i>283</i>.`

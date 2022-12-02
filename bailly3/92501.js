@@ -1,0 +1,1 @@
+lar[92501]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> couronnement, ATH. <i>673a</i>.<p><b>Étym</b>. στεφανόω.`

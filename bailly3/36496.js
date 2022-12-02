@@ -1,0 +1,1 @@
+lar[36496]=`<b>ἐπ·αλετρεύω</b> <font color="purple">[ᾰ]</font> moudre sur, A.RH. <i>1, 1077</i>.`

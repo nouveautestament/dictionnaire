@@ -1,0 +1,1 @@
+lar[12373]=`<b>ἀπο·ζωγραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> dépeindre, peindre, PLAT. <i>Tim. 71c</i>.`

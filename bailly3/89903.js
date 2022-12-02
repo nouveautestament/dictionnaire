@@ -1,0 +1,1 @@
+lar[89903]=`<b>σευτλο·μόλοχον, ου (τὸ)</b> <i>litt</i>. bette-mauve, <i>plante,</i> GEOP. <i>12, 1, 4</i>.`

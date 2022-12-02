@@ -1,0 +1,1 @@
+lar[8141]=`<b>ιδος (ἡ)</b> <i>s.-e</i>. ἑστία, appartement des hommes, LYS. <i>92, 29</i> ; XÉN. <i>Œc. 9, 6</i> ; PLUT. <i>M. 457c</i>.`

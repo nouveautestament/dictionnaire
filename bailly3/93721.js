@@ -1,0 +1,1 @@
+lar[93721]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> métier de sycophante, délation, calomnie, XÉN. <i>Hell. 2, 3, 12</i> ; LYS. <i>102, 5 ; 180, 2</i> ; DÉM. <i>642, 11, etc.</i><br><b>      2</b> fraude, DÉM. <i>372, 25 ; particul</i>. sophisme, ARSTT. <i>Rhet. 2, 24, 10, etc</i>.<p><b>Étym</b>. συκοφάντης.`

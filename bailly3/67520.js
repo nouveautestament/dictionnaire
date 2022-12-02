@@ -1,0 +1,1 @@
+lar[67520]=`<b>ή, όν</b>, enclin à blâmer, à critiquer, à railler, PTOL. <i>Tetr. 160</i> ; PHILOD. <i>De ira 1, p. 60</i>.<p><b>Étym</b>. μωμάομαι.`

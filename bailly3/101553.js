@@ -1,0 +1,1 @@
+lar[101553]=`<b>ὑδρο·λόγιον, ου (τὸ)</b> petite clepsydre, PTOL. <i>Tetr. p. 108, 23</i> ; CLÉOM. <i>2, 1</i>.<p><b>Étym</b>. ὕδ. λόγος.`

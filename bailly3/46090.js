@@ -1,0 +1,1 @@
+lar[46090]=`<b>οῦς (ἡ)</b> la nymphe Èkhô (Écho) AR. <i>Th. 1059</i> ; PAUS. <i>2, 35, 10</i>.<p>➳ <i>Dor</i>. Ἀχώ <font color="purple">[ᾱ]</font> ; <i>voc</i>. Ἀχοῖ, PD. <i>O. 14, 29 ; gén</i>. Ἀχοῦς, A. PL. <i>4, 233</i>.<p><b>Étym</b>. <i>v</i>. ἠχώ.`

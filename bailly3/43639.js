@@ -1,0 +1,1 @@
+lar[43639]=`<b>(ἡ)</b> Eutrèsis, <i>brg de Béotie,</i> IL. <i>2, 502</i>.`

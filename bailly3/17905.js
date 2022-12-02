@@ -1,0 +1,1 @@
+lar[17905]=`<b>ἀφασσάω-ῶ</b> <font color="darkgreen">(<i>ao. moy. 2 sg. sbj</i>. ἀφασσήσῃ)</font> <i>c</i>. ἀφάσσω HPC. <i>566, 45</i>.`

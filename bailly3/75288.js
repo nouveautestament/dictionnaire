@@ -1,0 +1,1 @@
+lar[75288]=`<i>adv</i>., en tout temps, toujours, MÉN. <i>Monost. 324, 720</i> ; ARSTT. <i>An. 2, 2, 4</i> ; SPT. <i>Sap. 11, 22 ; 19, 17</i> ; NT. <i>Matth. 26, 11</i> ; DYSC. <i>Pron. 304a, etc</i>.`

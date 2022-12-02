@@ -1,0 +1,1 @@
+lar[8619]=`<b>ατος (τὸ)</b> dilatation, <i>particul</i>. dilatation de l’artère, anévrisme, DIOSC. <i>4, 42</i> ; GAL. <i>2, 272</i>.<p><b>Étym</b>. ἀνευρύνω.`

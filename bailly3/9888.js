@@ -1,0 +1,1 @@
+lar[9888]=`<b>ου (τὸ)</b> lampourde, <i>plante (cf</i>. ξάνθων) DIOSC. <i>4, 138</i>.`

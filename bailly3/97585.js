@@ -1,0 +1,1 @@
+lar[97585]=`<b>τανυ·χειλής, ής, ές</b> <font color="purple">[ᾰῠ]</font> aux longues lèvres, <i>d’où</i> au long bec, à la trompe allongée, <i>etc</i>. Q. SM. <i>3, 221</i>.<p><b>Étym</b>. τανυ-, χεῖλος.`

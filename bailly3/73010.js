@@ -1,0 +1,1 @@
+lar[73010]=`<b>ὀρό·σπιζος, ου (ὁ)</b> pinson de montagne, <i>oiseau,</i> ARSTT. <i>H.A. 8, 3, 5</i>.<p><b>Étym</b>. ὄρος, σπίζα.`

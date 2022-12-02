@@ -1,0 +1,1 @@
+lar[62697]=`<b>έως (ὁ) :<br>      1</b> <i>au plur</i>. οἱ Μαλιεῖς, les Malies, <i>pple de Thessalie près du golfe Maliaque,</i> DÉM. <i>59, 101</i> ; ESCHN. <i>2, 116 Baiter-Sauppe, etc.</i><br><b>      2</b> ὁ Μ. κόλπος, <i>c</i>. Μαλιακὸς κόλπος, PLUT. <i>Per. 17</i>.`

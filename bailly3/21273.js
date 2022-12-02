@@ -1,0 +1,1 @@
+lar[21273]=`<b>οῦ (ὁ)</b> Galèpsos :<br><b>      1</b> <i>v. de Thrace,</i> THC. <i>4, 107 ; 5, 6</i> ; PLUT. <i>Æmil. 23, etc.</i><br><b>      2</b> <i>v. près de Thorônè,</i> HDT. <i>7, 122</i>.`

@@ -1,0 +1,1 @@
+lar[86587]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. προσφάγημα NT. <i>Joh. 21, 5</i>.`

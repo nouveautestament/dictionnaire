@@ -1,0 +1,1 @@
+lar[27774]=`<b>ου (ἡ)</b> Drabèskos, <i>v. de Thrace,</i> THC. <i>1, 100, etc. (sel. Mein</i>. Δραβησκός, <i>cf</i>. THC. <i>4, 102</i>).`

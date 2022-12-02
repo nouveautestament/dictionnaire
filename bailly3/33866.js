@@ -1,0 +1,1 @@
+lar[33866]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à l’égal de, <i>dat</i>. ISOCR. <i>234b</i>.`

@@ -1,0 +1,1 @@
+lar[34168]=`<b>ατος (τὸ)</b> lieu où l’on vit, demeure, DH. <i>1, 37</i> ; PLUT. <i>M. 968b ;</i> PHIL. <i>1, 52</i>.<p><b>Étym</b>. ἐνδιαιτάομαι.`

@@ -1,0 +1,1 @@
+lar[45509]=`<b>ίδος (ἡ)</b> fiente de mulet, HPC. <i>583, 28</i>.<p><b>Étym</b>. ἡμίονος.`

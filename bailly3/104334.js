@@ -1,0 +1,1 @@
+lar[104334]=`<b>οῦ (τὸ)</b> <i>sorte de vase</i> à boire, RHINTHON (ATH. <i>500f</i>).`

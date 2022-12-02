@@ -1,0 +1,1 @@
+lar[10296]=`<b>ἀντι·ποιμαίνω</b>, être pasteur (ou évêque) en rivalité avec un autre, NAZ. <i>1, 523</i>.`

@@ -1,0 +1,1 @@
+lar[32372]=`<b>ἐκ·φυτεύω</b> <font color="purple">[ῠ]</font><br><b>      1</b> greffer : εἰς συκῆν, ARSTT. <i>Probl. 20, 18,</i> sur un figuier.<br><b>      2</b> faire des plantations, H. PONT. <i>11</i>.`

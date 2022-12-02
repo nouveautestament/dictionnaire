@@ -1,0 +1,1 @@
+lar[66814]=`<b>μοσχο·σφραγιστής, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> celui qui marque d’un sceau les veaux choisis pour le sacrifice, CHÆRÉM. (PORPH. <i>Abst. 4, 7).</i><p><b>Étym</b>. μόσχος, σφραγίζω.`

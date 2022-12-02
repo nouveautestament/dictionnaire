@@ -1,0 +1,1 @@
+lar[5032]=`<b>ή, όν</b> <font color="purple">[ᾰῠῐ]</font> fait de mailles : θώραξ ἁλ. SPT. <i>1Reg. 17, 5</i> ; POL. <i>6, 23, 15, etc</i>. cotte de mailles, cuirasse à mailles, <i>p. opp. à</i> θώραξ φολιδωτός, POLL. <i>1, 135</i> ; τὰ ἁλυσιδωτά, SPT. <i>Ex. 28, 23 ; 1 Macc. 6, 35,</i> ouvrages (armures, <i>etc</i>.) faits en mailles.<p><b>Étym</b>. *ἁλυσιδόω.`

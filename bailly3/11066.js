@@ -1,0 +1,1 @@
+lar[11066]=`<b>ας (ἡ)</b> tranquillité ininterrompue, EPIC. (DL. <i>10, 127</i>).`

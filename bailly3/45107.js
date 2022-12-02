@@ -1,0 +1,1 @@
+lar[45107]=`<b>ἠθολογέω-ῶ</b>, imiter <i>ou</i> contrefaire le caractère, les mœurs de qqn, LGN <i>9 fin</i>.<p><b>Étym</b>. ἠθολόγος.`

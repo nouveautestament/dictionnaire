@@ -1,0 +1,1 @@
+lar[55780]=`<b>κλαύσ·ἄρα</b> <font color="purple">[ᾰᾰ]</font> <i>crase p</i>. κλαύσει ἄρα, AR. <i>Pax 532</i>.`

@@ -1,0 +1,1 @@
+lar[43152]=`<b>εὔ·πωλος, ος, ον :<br>      1</b> abondant en poulains <i>ou</i> en chevaux, <i>en parl. de Troie,</i> IL. <i>5, 551</i> ; OD. <i>14, 71</i>.<br><b>      2</b> qui consiste en beaux poulains : εὔπ. δῶρον, SOPH. <i>O.C. 711,</i> don de produire de beaux poulains.<p><b>Étym</b>. εὖ, πῶλος.`

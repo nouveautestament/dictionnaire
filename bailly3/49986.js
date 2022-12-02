@@ -1,0 +1,1 @@
+lar[49986]=`<b>ου (ὁ)</b> <font color="purple">[ῐῠ]</font> Itylos, <i>h</i>. OD. <i>19, 520, etc</i>.`

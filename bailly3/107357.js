@@ -1,0 +1,1 @@
+lar[107357]=`<b>ης (ἡ)</b> phoque, veau marin, <i>phocidé,</i> OD. <i>4, 404, 406, 451</i> ; HDT. <i>1, 202</i> ; AR. <i>Vesp. 1035, Pax 742</i>.`

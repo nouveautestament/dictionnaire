@@ -1,0 +1,1 @@
+lar[10346]=`<b>ἀντι·προσφθέγγομαι</b>, adresser la parole à son tour, PHIL. <i>1, 36</i>.`

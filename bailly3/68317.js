@@ -1,0 +1,1 @@
+lar[68317]=`<b>νεο·χάρακτος, ος, ον</b> <font color="purple">[χᾰ]</font> nouvellement empreint, SOPH. <i>Aj. 6</i>.<p><b>Étym</b>. ν. χαράσσω.`

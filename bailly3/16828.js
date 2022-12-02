@@ -1,0 +1,1 @@
+lar[16828]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῑ]</font> Atinia, <i>n. de f. rom</i>. ANTH.`

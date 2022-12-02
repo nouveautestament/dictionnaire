@@ -1,0 +1,1 @@
+lar[27367]=`attendre, observer, SOPHR. (D. PHAL. <i>151</i>).`

@@ -1,0 +1,1 @@
+lar[31244]=`<i>adv.</i> :<br><b>      1</b> là, <i>sans mouv</i>. IL. <i>3, 402</i> ; OD. <i>3, 116</i>.<br><b>      2</b> <i>avec idée de mouv. c</i>. ἐκεῖσε, ESCHL. <i>Sept. 810</i> ; OPP. <i>H. 4, 274</i> ; MUS. <i>23</i> ; ANTH. <i>4, 138</i>.<p>➳ κεῖθι, OD. <i>17, 10 ; en poésie att. sel. les besoins du vers</i>.<p><b>Étym</b>. ἐκεῖ, -θι.`

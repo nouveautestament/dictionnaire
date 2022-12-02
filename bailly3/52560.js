@@ -1,0 +1,1 @@
+lar[52560]=`<b>κατακλινο·βατής, ής, ές</b> <font color="purple">[ῑᾰ]</font> qui s’abat sur des lits (la goutte) LUC. <i>Trag. 198</i>.<p><b>Étym</b>. κατακλινής, βαίνω.`

@@ -1,0 +1,1 @@
+lar[36981]=`<b>ἐπ·εισδύω</b> (<i>seul. part. prés. fém</i>. -δύουσαι) <i>intr</i>. se glisser dans, s’insinuer dans, ARSTT. <i>Pol. 5, 8, 2</i>.`

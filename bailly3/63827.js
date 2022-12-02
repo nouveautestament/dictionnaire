@@ -1,0 +1,1 @@
+lar[63827]=`<b>μελάμ·φωνος, ος, ον</b>, dont la voix est sourde, obscure, GAL. <i>5, 384</i>.<p><b>Étym</b>. μ. φωνή.`

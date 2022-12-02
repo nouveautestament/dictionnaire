@@ -1,0 +1,1 @@
+lar[10063]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> adversaire, SIB. <i>12, 165</i>.<p><b>Étym</b>. ἀντιμαχέω.`

@@ -1,0 +1,1 @@
+lar[49753]=`<font color="purple">[ῑ̆ᾰ]</font> <i>adv</i>., avec le même nombre de syllabes, DRAC. <i>61, 21</i>.`

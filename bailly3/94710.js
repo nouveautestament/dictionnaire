@@ -1,0 +1,1 @@
+lar[94710]=`<b>συν·ανακεράννυμι,<br>      1</b> mélanger avec, <i>dat</i>. LUC. <i>Gall. 26 ; fig</i>. PLUT. <i>Them. 29</i>.<br><b>      2</b> contracter par synizèse, EUST. <i>11, 32</i>.<br><b><i>Moy.</i></b> mélanger avec, PHIL. <i>2, 315</i>.`

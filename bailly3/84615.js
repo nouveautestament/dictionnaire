@@ -1,0 +1,1 @@
+lar[84615]=`<b>προ·κυκλέω-ῶ</b> <font color="purple">[ῠ]</font> rouler en avant, <i>d’où</i> mettre dehors, ANON. (ATH. <i>360c</i>).`

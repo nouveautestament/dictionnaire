@@ -1,0 +1,1 @@
+lar[97411]=`<font color="purple">[ᾰ]</font> <i>adv</i>., péniblement, misérablement, THC. <i>3, 4</i> ; AR. <i>Eccl. 54</i>.`

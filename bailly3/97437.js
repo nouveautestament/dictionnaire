@@ -1,0 +1,1 @@
+lar[97437]=`<b>ου (ὁ)</b> = <i>lat</i>. Talassius <i>ou</i> Talassio, <i>le dieu de l’hymen,</i> PLUT. <i>Rom. 15, Pomp. 4, etc</i>.`

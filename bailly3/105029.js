@@ -1,0 +1,1 @@
+lar[105029]=`<b>οῦ (ὁ, ἡ)</b> qui fait de la mauvaise besogne, AR. <i>fr. 698</i>.<p><b>Étym</b>. φαῦλος, ἔργον.`

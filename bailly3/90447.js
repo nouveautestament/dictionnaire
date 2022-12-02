@@ -1,0 +1,1 @@
+lar[90447]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> vase pour conserver le blé, EUR. <i>fr. 824</i>.<br><b>      2</b> silo, DÉM. <i>100, 29 ; 135, 27,</i> LGS <i>1, 11</i>.<p>➳ <font color="purple">[ῐ]</font> ANTH. <i>App. 25</i>.<p><b>Étym</b>. <i>cf. lat</i>. sirus.`

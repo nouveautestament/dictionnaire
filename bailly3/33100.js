@@ -1,0 +1,1 @@
+lar[33100]=`<b>ἐμ·βελής, ής, ές</b>, qui se trouve à portée du trait, POL. <i>8, 7, 2</i> ; DS. <i>20, 44</i>.<p><b>Étym</b>. ἐν, βέλος.`

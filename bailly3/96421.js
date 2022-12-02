@@ -1,0 +1,1 @@
+lar[96421]=`<b>συν·υποκορίζω</b>, désigner par un diminutif, EUST. <i>1283, 43</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EUST. <i>1390, 19</i>.`

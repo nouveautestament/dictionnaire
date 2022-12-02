@@ -1,0 +1,1 @@
+lar[2751]=`<b>αἰολό·δακρυς, υς, υ</b>, <i>gén</i>. <b>υος</b>, qui verse des larmes abondantes, NONN. <i>D. 26, 79</i>.<p><b>Étym</b>. αἰ. δάκρυ.`

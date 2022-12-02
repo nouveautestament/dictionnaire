@@ -1,0 +1,1 @@
+lar[85454]=`<b>προσ·δοξοποιέομαι-οῦμαι</b>, faire croire des choses vaines, POL. <i>17, 15, 16 dout</i>.`

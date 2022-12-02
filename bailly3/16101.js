@@ -1,0 +1,1 @@
+lar[16101]=`<i>adv</i>., très près, le plus près, ANTH. <i>9, 430</i>.`

@@ -1,0 +1,1 @@
+lar[36700]=`<b>οῦ (ὁ)</b> efflorescence, DIOSC. <i>5, 107</i>.<p><b>Étym</b>. ἐπανθίζω.`

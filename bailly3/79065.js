@@ -1,0 +1,1 @@
+lar[79065]=`<b>περι·παύομαι</b>, cesser de tous côtés, A. TAT. <i>3, 5</i>.`

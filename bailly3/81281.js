@@ -1,0 +1,1 @@
+lar[81281]=`<b>ή, όν</b>, qui concerne un pied, A. QUINT. <i>p. 34</i>.<p><b>Étym</b>. πούς.`

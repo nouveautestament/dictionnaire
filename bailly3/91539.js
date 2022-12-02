@@ -1,0 +1,1 @@
+lar[91539]=`<b>ου (τὸ)</b> plante dont la graine a la saveur de la myrrhe, DIOSC. <i>3, 72</i>.<p><b>Étym</b>. σμύρνα.`

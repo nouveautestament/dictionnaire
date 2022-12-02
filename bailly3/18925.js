@@ -1,0 +1,1 @@
+lar[18925]=`<b>ου (ὁ)</b> barbeau, <i>poisson,</i> ARSTT. <i>H.A. 4, 11, 7</i>.`

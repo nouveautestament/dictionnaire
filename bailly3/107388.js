@@ -1,0 +1,1 @@
+lar[107388]=`<b>ή, όν</b>, qui concerne l’art d’exercer <i>ou</i> d’entretenir la voix, PLUT. <i>T. Gracch. 2</i>.<p><b>Étym</b>. φωνασκός.`

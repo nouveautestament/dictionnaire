@@ -1,0 +1,1 @@
+lar[65192]=`<b>μετ·ονομάζω</b> <font color="darkgreen">(<i>ao</i>. μετωνόμασα, <i>pass. ao</i>. μετωνομάσθην, <i>pf</i>. μετωνόμασμαι)</font> appeler d’un autre nom, HDT. <i>1, 94</i> ; THC. <i>1, 122</i> ; PLAT. <i>Theæt. 180a</i>.`

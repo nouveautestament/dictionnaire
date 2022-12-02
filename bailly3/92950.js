@@ -1,0 +1,1 @@
+lar[92950]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> style ramassé, serré, RHÉT. <i>8, 619 W</i>.<p><b>Étym</b>. στρογγυλίζω.`

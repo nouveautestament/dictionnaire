@@ -1,0 +1,1 @@
+lar[25993]=`<b>δί·γονος, ος, ον</b> <font color="purple">[ῐ]</font> né <i>ou</i> engendré deux fois, <i>ép. de Bacchus,</i> ANTH. <i>9, 524 ; p. suite,</i> double, SOPH. <i>fr. 137 ; avec un plur</i>. EUR. <i>El. 1178</i>.<p><b>Étym</b>. δίς, γίγνομαι.`

@@ -1,0 +1,1 @@
+lar[63186]=`<b>ων (τὰ)</b> = <i>lat</i>. matrōnālia, fête des matrones romaines, PLUT. <i>Rom. 21</i>.`

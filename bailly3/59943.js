@@ -1,0 +1,1 @@
+lar[59943]=`<b>ου (τὸ)</b> droit de cité latin (<i>lat</i>. jus Latii) STR. <i>186</i> ; APP. <i>Civ. 2, 26</i>.`

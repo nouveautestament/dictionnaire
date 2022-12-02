@@ -1,0 +1,1 @@
+lar[67475]=`<b>μύχ·ουρος, ου (ὁ)</b> <font color="purple">[ῠ]</font> gardien de l’intérieur d’une maison, LYC. <i>373</i>.<p><b>Étym</b>. μυχός, -ουρος ; <i>cf</i>. θυρωρός, <i>etc</i>.`

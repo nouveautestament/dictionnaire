@@ -1,0 +1,1 @@
+lar[2854]=`<b>ου (ὁ)</b> Æsios, <i>h</i>. DÉM. <i>29, 15, etc. Baiter-Sauppe</i>.`

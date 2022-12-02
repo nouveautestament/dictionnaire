@@ -1,0 +1,1 @@
+lar[45539]=`<b>ἡμι·πύργιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> moitié de tour, PHILSTR. <i>V. soph. 2, 11</i>.<p><b>Étym</b>. ἡμι-, πύργος.`

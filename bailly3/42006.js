@@ -1,0 +1,1 @@
+lar[42006]=`<i>ou</i> <b>εὐεπιβόλως</b>, <i>adv</i>., avec succès, ARTÉM. <i>4, Præf</i>.`

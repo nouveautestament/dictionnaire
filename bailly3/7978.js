@@ -1,0 +1,1 @@
+lar[7978]=`<b>Ἀνδρ·άγαθος, ου (ὁ)</b> <font color="purple">[ρᾰᾰθ]</font> Andragathos, <i>h</i>. ANTH. <i>12, 52</i>.<p><b>Étym</b>. ἀνήρ, ἀγαθός.`

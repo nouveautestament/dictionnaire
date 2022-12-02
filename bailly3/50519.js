@@ -1,0 +1,1 @@
+lar[50519]=`<b>καθ·υφαίνω</b>, broder sur, SPT. <i>Ex. 28, 17 ; Judith 10, 21</i>.`

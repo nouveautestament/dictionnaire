@@ -1,0 +1,1 @@
+lar[47449]=`<b>ατος (τὸ)</b> séjour tumultueux, ORPH. <i>H. 48, 6</i>.<p><b>Étym</b>. θοάζω.`

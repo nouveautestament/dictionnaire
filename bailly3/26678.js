@@ -1,0 +1,1 @@
+lar[26678]=`<b>ου (ὁ)</b> Dinos, <i>n. de lieu,</i> ARTÉM. (ATH. <i>333f</i>).`

@@ -1,0 +1,1 @@
+lar[76713]=`<b>παρ·ενοχλέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. -ηνώχλουν, <i>ao</i>. -ηνώχλησα, <i>pf. pass</i>. -ηνώχλημαι)</font> causer du trouble à, troubler, inquiéter, tourmenter, <i>abs</i>. HPC. <i>1276, 32 ; dat</i>. ARSTT. <i>Rhet. 2, 4, 21 ; acc</i>. POL. <i>16, 37, 3 ; au pass</i>. DÉM. <i>242, 16</i>.`

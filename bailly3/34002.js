@@ -1,0 +1,1 @@
+lar[34002]=`<b>ἐν·άπτω</b>, allumer, enflammer, AR. <i>Pax 1031</i>.<br><b><i>Moy.</i></b> allumer pour soi, LYS. <i>93, 2</i>.`

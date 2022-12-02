@@ -1,0 +1,1 @@
+lar[11312]=`<b>ἀ·παράθετος, ος, ον :<br>      1</b> non formé d’éléments apposés <i>ou</i> empruntés, non composé d’emprunts, <i>en parl. d’un ouvrage,</i> DL. <i>7, 181</i>.<br><b>      2</b> qu’on ne peut comparer, NYSS. <i>1, 475</i>.<p><b>Étym</b>. ἀ, παρατίθημι.`

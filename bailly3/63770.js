@@ -1,0 +1,1 @@
+lar[63770]=`<b>μελάγ·κροκος, ος, ον</b>, aux tissus noirs, aux voiles noires, ESCHL. <i>Sept. 857</i>.<p><b>Étym</b>. μ. κρέκω.`

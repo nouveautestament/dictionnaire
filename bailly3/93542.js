@@ -1,0 +1,1 @@
+lar[93542]=`<b>ος, ον</b> : γέλως, ZÉNOB. <i>2, 100,</i> le rire d’une personne qui en même temps bat des mains <i>ou</i> trépigne.<p><b>Étym</b>. συγκρούω.`

@@ -1,0 +1,1 @@
+lar[94454]=`<b>ου (ὁ)</b> Symphoros, <i>h</i>. ANTH. <i>App. 351</i>.<p><b>Étym</b>. <i>v</i>. σύμφορος.`

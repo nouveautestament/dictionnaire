@@ -1,0 +1,1 @@
+lar[28906]=`<b>δυσ·σῴστως</b>, <i>adv</i>., de façon à être difficilement conservé, HIPPIATR. <i>p. 195</i>.<p><b>Étym</b>. δ. σῴζω.`

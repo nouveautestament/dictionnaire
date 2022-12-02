@@ -1,0 +1,1 @@
+lar[31858]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> frappé de stupeur, POL. <i>1, 21, 7 ; 1, 76, 7</i>.<p><b>Étym</b>. ἐκπλήσσω.`

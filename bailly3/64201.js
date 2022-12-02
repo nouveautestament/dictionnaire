@@ -1,0 +1,1 @@
+lar[64201]=`<b>ή, όν</b>, usité dans le chant, PLUT. <i>M. 389f</i>.<p><b>Étym</b>. μελῳδέω.`

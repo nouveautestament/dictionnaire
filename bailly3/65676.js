@@ -1,0 +1,1 @@
+lar[65676]=`<b>ωνος (ὁ)</b> Mikiôn, <i>h</i>. DÉM. <i>58, 5 Baiter-Sauppe</i> ; PLUT. <i>Phoc. 25, Arat. 41</i>.`

@@ -1,0 +1,1 @@
+lar[93882]=`<b>ος, ον</b>, qui se rencontre avec, ESCHL. <i>Suppl. 502 ; subst</i>. ὁ σ. présage, ESCHL. <i>Pr. 487, etc.</i> ; rencontre fortuite, AR. <i>Av. 721</i>.<p><b>Étym</b>. συμβάλλω.`

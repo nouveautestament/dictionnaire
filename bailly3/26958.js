@@ -1,0 +1,1 @@
+lar[26958]=`<b>δι·πλήθης, ης, ες</b>, doublement plein, NIC. <i>Al. 153</i>.<p><b>Étym</b>. δίς, πλήθω.`

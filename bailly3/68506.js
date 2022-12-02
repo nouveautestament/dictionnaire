@@ -1,0 +1,1 @@
+lar[68506]=`<b>ϊδος (ὁ, ἡ)</b> <font color="purple">[ῐδ]</font> ignorant de, <i>gén</i>. OD. <i>8, 179 ; abs</i>. IL. <i>7, 198</i> ; HH. <i>Merc. 487, Cer. 256</i> ; CALL. <i>fr. 111</i>.<p>➳ <i>Acc</i>. -ϊδα, IL. <i>l. c.</i> ; -ϊν, CALL. <i>l. c</i>.<p><b>Étym</b>. <i>p.-ê</i>. νη-, *εἴδω.`

@@ -1,0 +1,1 @@
+lar[100219]=`<b>α, ον</b> <font color="purple">[μῐ]</font> long d’un pied et demi, XÉN. <i>Œc. 19, 4 conj</i>.<p><b>Étym</b>. τριημιπόδιον.`

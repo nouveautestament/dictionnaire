@@ -1,0 +1,1 @@
+lar[100999]=`<b>τυλ·υφάντης, ου (ὁ)</b> <font color="purple">[ῠῠ]</font> fabricant (<i>litt</i>. tisseur) de bourrelets, de matelas, HYPÉR. (POLL. <i>7, 191).</i><p><b>Étym</b>. τύλη, ὑφαίνω.`

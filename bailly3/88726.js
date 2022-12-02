@@ -1,0 +1,1 @@
+lar[88726]=`<b>ας (ἡ)</b> : λοπάς, mets apprêté avec des roses, ATH. <i>406a</i>.<p><b>Étym</b>. ῥόδον.`

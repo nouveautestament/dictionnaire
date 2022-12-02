@@ -1,0 +1,1 @@
+lar[86925]=`<b>εως (ἡ)</b> recommandation, SOPH. <i>Tr. 662</i>.<p><b>Étym</b>. προφαίνω.`

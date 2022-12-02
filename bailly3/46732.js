@@ -1,0 +1,1 @@
+lar[46732]=`<b>θεο·παράδοτος, ος, ον</b>, transmis par la divinité, PROCL. <i>Plat. Crat. 107</i>.<p><b>Étym</b>. θ. παραδίδωμι.`

@@ -1,0 +1,1 @@
+lar[20821]=`<b>(ἡ)</b> <font color="purple">[ῐτ]</font> Britomartis, <i>divinité crétoise,</i> CALL. <i>H. 3, 190</i> ; STR. DS. ; <i>sel</i>. PAUS. <i>3, 14, 2, surn. d’Artémis, en Crète</i>.`

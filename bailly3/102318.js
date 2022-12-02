@@ -1,0 +1,1 @@
+lar[102318]=`<b>ὑπερ·αυχέω-ῶ</b>, s’enorgueillir à l’excès, THC. <i>4, 19</i> ; DC. <i>57, 12, etc</i>.<p><b>Étym</b>. ὑπεραυχής.`

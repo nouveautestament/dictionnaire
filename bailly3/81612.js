@@ -1,0 +1,1 @@
+lar[81612]=`<b>πολιτο·γραφέω-ῶ</b> <font color="purple">[ῑᾰ]</font> inscrire parmi les citoyens, DS. <i>11, 49 ; au pass</i>. POL. <i>32, 17, 3</i> ; DS. <i>11, 72, etc</i>.<p><b>Étym</b>. πολίτης, -γράφος <i>de</i> γράφω.`

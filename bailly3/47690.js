@@ -1,0 +1,1 @@
+lar[47690]=`<b>ῶν (αἱ) :<br>      1</b> les Thries, <i>n. de trois nymphes qui ont enseigné à Apollon l’art divinatoire,</i> HH. <i>Merc. 552</i>.<br><b>      2</b> <i>p. ext</i>. αἱ θριαί, prédiction, oracle de ces nymphes, CALL. <i>Apoll. 44</i>.<p><b>Étym</b>. <i>inconnue</i>.`

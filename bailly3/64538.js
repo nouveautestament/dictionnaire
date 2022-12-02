@@ -1,0 +1,1 @@
+lar[64538]=`<b>μεσο·μήρια, ων (τὰ)</b> intervalle entre les cuisses, AÉT. <i>8, 7, p. 151, 37</i>.`

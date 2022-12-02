@@ -1,0 +1,1 @@
+lar[96168]=`<b>συν·ομῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> du même âge, compagnon, camarade, ANTH. <i>7, 203</i>.<p>➳ <i>Dor</i>. συνομᾶλιξ, THCR. <i>Idyl. 18, 22</i> ; BION <i>15, 29</i>.<p><b>Étym</b>. σ. ὁμῆλιξ.`

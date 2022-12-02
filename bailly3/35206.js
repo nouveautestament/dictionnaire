@@ -1,0 +1,1 @@
+lar[35206]=`<b>ἐν·υφίστημι :<br>   I</b> <i>act. (seul. ao.2</i> -υφέστην) <i>au sens intr</i>. être établi dans, être dans, M. ANT. <i>4, 14</i>.<br><b>   II <b><i>Moy.</i></b><br>      1 <i>intr.</i></b> exister dans, M. ANT. <i>6, 25</i>.<br><b>      2 <i>tr.</i></b> susciter, <i>acc</i>. JOS. <i>B.J. 4, 1, 5</i>.`

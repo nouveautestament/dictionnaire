@@ -1,0 +1,1 @@
+lar[11952]=`<b>ή, όν</b>, de solitude, de retraite, BAS. <i>2, 345</i>.<p><b>Étym</b>. ἀπιδιάζω.`

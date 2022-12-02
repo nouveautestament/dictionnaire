@@ -1,0 +1,1 @@
+lar[85686]=`<b>προσ·επικηρύσσω</b>, publier <i>ou</i> proclamer en outre, DC. <i>38, 17</i>.`

@@ -1,0 +1,1 @@
+lar[95511]=`<b>συν·εξαριθμέω-ῶ</b> <font color="purple">[ᾰ]</font> compter aussi au nombre de, DS. <i>14, 53</i> ; JOS. <i>B.J. 3, 4, 2</i>.`

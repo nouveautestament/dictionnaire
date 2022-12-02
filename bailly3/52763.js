@@ -1,0 +1,1 @@
+lar[52763]=`<b>ος, ον</b>, restant, qui reste, PLAT. <i>Tim. 39e ;</i> ARSTT. <i>Œc. 2, 20, etc.</i> ; POL. <i>3, 91, 9, etc.</i> ; τοῦτό ἐστι κατάλοιπον, <i>avec l’inf</i>. STRATON (ATH. <i>382d</i>) il ne reste plus qu’à, <i>ironiq</i>.<p><b>Étym</b>. καταλείπω.`

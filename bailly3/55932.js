@@ -1,0 +1,1 @@
+lar[55932]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐ]</font> voleuse, ALCIPHR. <i>3, 22</i>.<p><b>Étym</b>. κλέπτω.`

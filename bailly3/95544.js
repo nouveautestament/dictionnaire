@@ -1,0 +1,1 @@
+lar[95544]=`<b>συν·εξολισθαίνω</b>, s’échapper ensemble en glissant, MAN. <i>5, 43</i>.`

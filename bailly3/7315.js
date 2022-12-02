@@ -1,0 +1,1 @@
+lar[7315]=`<b>οῦς (ἡ)</b> <font color="purple">[ᾰν]</font> Anaxô, <i>f</i>. THCR. <i>Idyl. 2, 66</i> ; PLUT. <i>Thes. 29, etc</i>.<p><b>Étym</b>. ἄναξ.`

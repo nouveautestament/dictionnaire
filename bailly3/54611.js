@@ -1,0 +1,1 @@
+lar[54611]=`<b>οῦς (ἡ)</b> Kélænô, <i>fille d’Atlas, Pléiade,</i> NONN. <i>D. 3, 337</i>.<p><b>Étym</b>. κελαινός.`

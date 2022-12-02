@@ -1,0 +1,1 @@
+lar[73871]=`<b>ὀφρυάω-ῶ</b>, s’élever en forme de montagne escarpée, POÈT. (STR. <i>382).</i><p><b>Étym</b>. ὀφρύς.`

@@ -1,0 +1,1 @@
+lar[74453]=`<b>ου</b> <font color="purple">[ᾰῑτ]</font> <i>adj. m. c</i>. παλαιστικός, CALL. <i>fr. 191</i> ; PLUT. <i>M. 274d ;</i> BABR. <i>48, 5</i>.<p><b>Étym</b>. παλαίστρα.`

@@ -1,0 +1,1 @@
+lar[86089]=`<b>προσ·κυρόω-ῶ</b> <font color="purple">[ῠ]</font> rencontrer en outre, DYSC. <i>Synt. 119, 27</i>.`

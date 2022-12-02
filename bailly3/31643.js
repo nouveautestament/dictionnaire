@@ -1,0 +1,1 @@
+lar[31643]=`<b>ος, ον</b>, empreint, TH. <i>Sens. 16</i>.<p><b>Étym</b>. <i>vb. de</i> ἐκμάσσω.`

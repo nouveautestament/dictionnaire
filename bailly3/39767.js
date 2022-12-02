@@ -1,0 +1,1 @@
+lar[39767]=`<b>ἐπι·ψύχω</b> <font color="purple">[ῡ]</font> souffler sur, <i>d’où</i> rafraîchir, <i>acc</i>. A.RH. <i>2, 525</i> ; PLUT. <i>Sert. 8</i> ; PHIL. <i>2, 345</i>.`

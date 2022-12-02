@@ -1,0 +1,1 @@
+lar[65736]=`<b>μικρ·ορροπύγιος, ος, ον</b> <font color="purple">[ῑῡ]</font> qui a un petit croupion, une petite queue, ARSTT. <i>H.A. 2, 12</i>.<p><b>Étym</b>. μ. ὀρροπύγιον.`

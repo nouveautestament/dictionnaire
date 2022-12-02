@@ -1,0 +1,1 @@
+lar[21705]=`<b>ητος (ἡ)</b> qualité d’une âme bien née, générosité, noblesse, EUR. <i>Ph. 1680</i> ; THC. <i>3, 82</i> ; POL. <i>1, 59, 7 ; p. anal. en parl. du sol,</i> générosité, fécondité, XÉN. <i>Cyr. 8, 3, 38</i> ; POL. <i>3, 44, 8</i>.<p><b>Étym</b>. γενναῖος.`

@@ -1,0 +1,1 @@
+lar[48604]=`<b>ἱερο·μηνία, ας (ἡ)</b> fête de chaque mois, jour de fête, <i>en gén</i>. PD. <i>N. 3, 43</i> ; THC. <i>3, 56 et 65</i> ; DÉM. <i>710, 1</i>.<p><b>Étym</b>. ἱ. μήν.`

@@ -1,0 +1,1 @@
+lar[98790]=`<b>ίδος</b> <font color="purple">[ῐδ]</font><br><b>      1</b> de Teukros : Τ. αἶα, ESCHL. <i>Ag. 112 ; ou</i> γῆ, HDT. <i>2, 118,</i> la terre de Teukros, <i>càd</i>. la Troade.<br><b>      2</b> Troie, ARSTT. <i>Pepl. 57</i> ; ANTH. <i>15, 26</i>.<p><b>Étym</b>. Τεῦκρος.`

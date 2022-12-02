@@ -1,0 +1,1 @@
+lar[71954]=`<b>ας (ἡ)</b> <i>autre n. de la plante</i> ἄγχουσα.`

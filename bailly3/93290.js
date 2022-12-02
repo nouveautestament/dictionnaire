@@ -1,0 +1,1 @@
+lar[93290]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> coucher d’un astre en même temps que d’un autre, STR. <i>12</i>.<p><b>Étym</b>. συγκαταδύομαι.`

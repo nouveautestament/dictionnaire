@@ -1,0 +1,1 @@
+lar[9818]=`<b>ἀντί·δειπνος, ου (ὁ)</b> qui soupe à la place d’un autre, LUC. <i>Gall. 9</i>.<p><b>Étym</b>. ἀ. δεῖπνον.`

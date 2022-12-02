@@ -1,0 +1,1 @@
+lar[65982]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. μίσηθρον, P. SIL. <i>Th. Pyth. 63</i> ; GAL. <i>13, 275</i>.`

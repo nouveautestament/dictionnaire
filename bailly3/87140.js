@@ -1,0 +1,1 @@
+lar[87140]=`<b>πρωκός (ἡ)</b> <i>seul. plur</i>. goutte de rosée, CALL. <i>Ap. 40</i> ; THCR. <i>Idyl. 4, 16</i>.`

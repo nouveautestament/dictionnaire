@@ -1,0 +1,1 @@
+lar[77421]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. πατήρ, EUR. <i>fr. 660, 4 Nauck, conj. de Dind</i>.`

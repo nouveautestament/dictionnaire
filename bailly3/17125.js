@@ -1,0 +1,1 @@
+lar[17125]=`<i>par élis.</i> :<br><b>      1</b> <i>p</i>. αὖτ(ε) <i>dev. un esprit rude,</i> IL. <i>2, 540</i> ; OD. <i>21, 22, etc.</i><br><b>      2</b> <i>p</i>. αὖθι <i>dev. une voy</i>. IL. <i>9, 690 ; 11, 48 ; 12, 85</i> ; OD. <i>16, 463</i>.`

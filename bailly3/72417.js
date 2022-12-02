@@ -1,0 +1,1 @@
+lar[72417]=`<i>adv. relat</i>. vers lequel des deux endroits, THC. <i>1, 63 ; 5, 65</i> ; PLAT. <i>Conv. 190a</i>.<p><b>Étym</b>. ὁπότερος, -σε.`

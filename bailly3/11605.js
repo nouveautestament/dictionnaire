@@ -1,0 +1,1 @@
+lar[11605]=`<b>ἀπειρο·ποιός, ός, όν</b>, qui rend infini, PROCL. <i>Plat. Parm. 567, 602 Stallb</i>.<p><b>Étym</b>. ἄ. ποιέω.`

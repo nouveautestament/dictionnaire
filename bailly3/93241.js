@@ -1,0 +1,1 @@
+lar[93241]=`<b>συγ·καθορμίζομαι</b> <font color="darkgreen">(<i>part. ao. pass</i>. -ορμισθείς)</font> relâcher ensemble dans un port, POL. <i>5, 95, 3</i>.`

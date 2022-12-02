@@ -1,0 +1,1 @@
+lar[14848]=`<b>ἀρκυ·ωρός, οῦ (ὁ)</b> gardien des filets, XÉN. <i>Cyn. 6, 5</i>.<p><b>Étym</b>. ἄρκυς, οὖρος.`

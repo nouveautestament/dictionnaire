@@ -1,0 +1,1 @@
+lar[1600]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> d’Adonis : ἡ Ἀδ. ORPH. <i>Arg. 30,</i> l’amante d’Adonis (Aphrodite).<p><b>Étym</b>. Ἄδωνις.`

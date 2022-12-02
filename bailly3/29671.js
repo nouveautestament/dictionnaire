@@ -1,0 +1,1 @@
+lar[29671]=`<b>α, ον</b>, digne d’être blâmé, PLUT. <i>M. 1051c</i>.<p><b>Étym</b>. <i>vb. de</i> ἐγκαλέω.`

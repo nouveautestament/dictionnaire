@@ -1,0 +1,1 @@
+lar[72778]=`<b>ή, όν</b> <font color="purple">[ῑ ; <i>p. exc</i>. ῐ, ANTH. <i>5, 176 ; 42, 47</i>]</font> <i>c</i>. ὄρθριος, ARAT. <i>948</i>.`

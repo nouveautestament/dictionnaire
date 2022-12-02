@@ -1,0 +1,1 @@
+lar[5947]=`<b>(ὁ)</b> <font color="purple">[ᾰῐ]</font> cher petit Amyntas, THCR. <i>Idyl. 7, 132</i>.<p><b>Étym</b>. <i>dim. de</i> Ἀμύντας.`

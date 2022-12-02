@@ -1,0 +1,1 @@
+lar[19811]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐ]</font> bison (<i>Bos biso</i> L.) bœuf sauvage, OPP. <i>C. 2, 160</i> ; PAUS. <i>10, 13</i>.`

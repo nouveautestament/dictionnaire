@@ -1,0 +1,1 @@
+lar[36951]=`<b>ἐπ·ειλ·αρχία, ας (ἡ)</b> troupe de cavalerie de deux escadrons, EL. TACT. <i>20, 2</i>.<p><b>Étym</b>. ἐπί, εἴλη, ἄρχω.`

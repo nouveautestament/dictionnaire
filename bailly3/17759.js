@@ -1,0 +1,1 @@
+lar[17759]=`<b>ου (ὁ)</b> Autophradatès, <i>Perse,</i> XÉN. DÉM. ARR. <i>etc</i>.`

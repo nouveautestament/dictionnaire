@@ -1,0 +1,1 @@
+lar[78372]=`<b>ης (ἡ)</b> Périalla, <i>prêtresse de Delphes,</i> HDT. <i>6, 66</i>.`

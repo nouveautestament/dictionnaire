@@ -1,0 +1,1 @@
+lar[64543]=`<b>μεσό·νυξ, υχος (ὁ, ἡ)</b> <font color="purple">[ῠχ]</font> du milieu de la nuit ; ὁ μ. STÉSICH. <i>fr. 87 Bgk,</i> une des sept planètes dans le système pythagoricien.<p><b>Étym</b>. μ. νύξ.`

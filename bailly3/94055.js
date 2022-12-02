@@ -1,0 +1,1 @@
+lar[94055]=`<b>συμ·πανουργέω-ῶ</b> <font color="purple">[ᾰ]</font> agir méchamment de concert avec qqn, PLUT. <i>M. 64c</i>.`

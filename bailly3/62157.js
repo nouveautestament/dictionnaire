@@ -1,0 +1,1 @@
+lar[62157]=`<b>ήεσσα, ῆεν</b>, pernicieux, funeste, A.RH. <i>3, 801</i> ; TRIPHIOD. <i>261</i>.<p><b>Étym</b>. λώβη.`

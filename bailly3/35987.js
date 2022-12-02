@@ -1,0 +1,1 @@
+lar[35987]=`<b>ἐξ·ιθύνω</b> <font color="purple">[ῑ]</font> redresser, rendre tout à fait droit, IL. <i>15, 410 ; fig</i>. diriger, A.RH. <i>1, 562</i>.`

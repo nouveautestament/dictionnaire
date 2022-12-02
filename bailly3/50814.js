@@ -1,0 +1,1 @@
+lar[50814]=`<b>κακο·πετής, ής, ές</b> <font color="purple">[ᾰ]</font> qui vole mal, ARSTT. <i>H.A. 9, 15, 3</i>.<p><b>Étym</b>. κ. πέτομαι.`

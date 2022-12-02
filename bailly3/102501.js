@@ -1,0 +1,1 @@
+lar[102501]=`<b>ης (ἡ)</b> fierté, arrogance, A.RH. <i>3, 65</i>.<p><b>Étym</b>. ὑπερήνωρ.`

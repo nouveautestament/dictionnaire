@@ -1,0 +1,1 @@
+lar[57758]=`<b>κρεο·σαπείς, εῖσα, έν</b>, corrompu comme de la viande gâtée, PLUT. <i>M. 995c</i> (<i>dout.,</i> κατασαπείς <i>conj. Reiske).</i><p><b>Étym</b>. κρέας, σήπω.`

@@ -1,0 +1,1 @@
+lar[4713]=`<b>ᾶντος (ὁ)</b> saucisson, saucisse, AR. <i>Eq. 161</i> ; EUB. (ATH. <i>622f</i>) <i>etc</i>.`

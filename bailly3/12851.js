@@ -1,0 +1,1 @@
+lar[12851]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> action de désapprendre, BAS. <i>2, 783</i>.`

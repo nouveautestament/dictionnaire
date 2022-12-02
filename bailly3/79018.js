@@ -1,0 +1,1 @@
+lar[79018]=`<b>α, ον</b>, qu’il faut regarder avec indifférence, <i>avec un part</i>. HDT. <i>7, 168 ; avec une prop. inf</i>. XÉN. <i>Lac. 9, 5</i> ; HDT. <i>5, 39</i> ; περιοπτέον ὅπως μή, THC. <i>8, 48,</i> il faut veiller à ce que… ne.<p><b>Étym</b>. <i>vb. de</i> περιοράω.`

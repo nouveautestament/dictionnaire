@@ -1,0 +1,1 @@
+lar[18427]=`<b>Ἀχελήτιδες νύμφαι (αἱ)</b> les nymphes de l’Akhélès (Ἀχέλης) <i>fl. près de Smyrne,</i> PANYAS.`

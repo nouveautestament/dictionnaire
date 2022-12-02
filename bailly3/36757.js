@@ -1,0 +1,1 @@
+lar[36757]=`<b>ἐπ·αποπνίγομαι</b> <font color="darkgreen">(<i>opt. ao.2</i> -πνιγείης)</font> étouffer <i>ou</i> étrangler en outre, AR. <i>Eq. 940</i>.`

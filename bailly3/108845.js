@@ -1,0 +1,1 @@
+lar[108845]=`<b>οῦ (ὁ)</b> <i>c</i>. χορτασία, ANAXANDR. (POLL. <i>6, 43</i>) ; SIMPL. <i>Epict. 264</i>.`

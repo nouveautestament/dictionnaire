@@ -1,0 +1,1 @@
+lar[73298]=`<b>ὀστο·φανέω-ῶ</b> <font color="purple">[ᾰ]</font> montrer des os, HIPPIATR.`

@@ -1,0 +1,1 @@
+lar[78140]=`<b>ῆρος (ὁ)</b> commandant de cinquante soldats, THC. <i>5, 66</i> ; XÉN. <i>An. 3, 4, 21</i>.<p><b>Étym</b>. πεντήκοντα.`

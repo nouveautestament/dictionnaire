@@ -1,0 +1,1 @@
+lar[108968]=`<font color="purple">[ῐ]</font> <i>adv</i>., utilement, d’une manière avantageuse, THC. <i>8, 94</i> ; XÉN. <i>Cyr. 8, 5, 9</i> ; PLUT. <i>Pomp. 55, M. 36d, etc</i>.`

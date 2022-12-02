@@ -1,0 +1,1 @@
+lar[71727]=`<b>ας (ἡ)</b> conformité de goûts, de mœurs <i>ou</i> de genre de vie, DH. <i>4, 28</i>.<p><b>Étym</b>. ὁμότροπος.`

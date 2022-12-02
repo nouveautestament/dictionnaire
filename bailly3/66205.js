@@ -1,0 +1,1 @@
+lar[66205]=`<b>μνησί·θεος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui pense à Dieu, pieux, PLAT. <i>Crat. 394e.</i><br><b>      2</b> ἡ μνησίθεος, <i>autre n. de la plante</i> μεγάλη ἀρκευθίς, DIOSC. <i>1, 103</i>.<p><b>Étym</b>. μνάομαι, θεός.`

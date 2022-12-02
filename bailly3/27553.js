@@ -1,0 +1,1 @@
+lar[27553]=`<b>ή, όν</b>, propre à glorifier, NYSS. <i>1, 481 Migne</i>.<p><b>Étym</b>. δοξολόγος.`

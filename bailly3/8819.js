@@ -1,0 +1,1 @@
+lar[8819]=`<b>ης (ἡ)</b> Anthèlè, <i>brg près des Thermopyles, lieu de réunion des Amphictions,</i> HDT. <i>7, 176</i>.`

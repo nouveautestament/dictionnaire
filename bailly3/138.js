@@ -1,0 +1,1 @@
+lar[138]=`<b>ἀ·βολέω-ῶ</b>, se réunir avec, rencontrer, A.RH. <i>3, 1145</i>.<p>➳ <i>Ao. épq. 3 pl</i>. ἀβόλησαν, A.RH. <i>2, 770</i> ; CALL. <i>fr. 455</i>.<p><b>Étym</b>. ἀ <i>cop</i>. -βολος <i>de</i> βάλλω.`

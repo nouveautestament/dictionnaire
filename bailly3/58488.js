@@ -1,0 +1,1 @@
+lar[58488]=`<b>ας</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. la déesse de Cythère, <i>ép. d’Aphrodite,</i> OD. <i>18, 192, etc</i>.<p>➳ <i>Épq. et ion</i>. Κυθερείη, IL. <i>8, 288</i> ; HH. <i>4, 6, etc. ; éol</i>. Κυθέρηα, SAPPH. <i>128</i>.<p><b>Étym</b>. Κύθηρα.`

@@ -1,0 +1,1 @@
+lar[106285]=`<b>Φικός (ἡ)</b> <font color="purple">[ῑκ]</font> <i>béot. c</i>. Σφίγξ, HÉS. <i>Th. 326 dout</i>.`

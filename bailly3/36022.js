@@ -1,0 +1,1 @@
+lar[36022]=`<b>ἐξ·ιστορέω-ῶ</b>, chercher à connaître à fond : τι, ESCHL. <i>Sept. 506, Ch. 678</i> ; EUR. <i>Hec. 744,</i> qqe ch. ; τινά τι, HDT. <i>7, 195</i> ; EUR. <i>Hec. 236,</i> s’informer de qqe ch. auprès de qqn ; πόλιν, X. ÉPH. <i>1, 12,</i> explorer une ville.`

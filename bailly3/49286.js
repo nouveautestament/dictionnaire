@@ -1,0 +1,1 @@
+lar[49286]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> poisson, <i>p.-ê</i>. cheval de mer, EPICH. (ATH. <i>304e</i>).<p><b>Étym</b>. ἵππος.`

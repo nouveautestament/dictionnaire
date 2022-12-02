@@ -1,0 +1,1 @@
+lar[106875]=`<b>α, ον</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> qui se hérisse de froid, HPC. <i>V. med. 14 ; p. ext</i>. dont la surface est hérissée, raboteuse, ANTH. <i>7, 382</i> ; TRIPHIOD. <i>195</i>.<br><b>      2</b> qui fait frissonner, effrayant, terrible, ANTH. <i>7, 69 ; 9, 300</i> ; NONN. <i>D. 9, 42</i>.<p><b>Étym</b>. φρίκη.`

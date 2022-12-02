@@ -1,0 +1,1 @@
+lar[64078]=`<b>μελισσο·πόλος</b>, <i>att</i>. <b>μελιττο·πόλος, ου (ὁ)</b> qui élève des abeilles, apiculteur, ARSTT. <i>Mir. 64</i>.<p><b>Étym</b>. μ. πολέω.`

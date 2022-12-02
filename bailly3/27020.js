@@ -1,0 +1,1 @@
+lar[27020]=`<b>δί·σκαλμος, ος, ον</b>, à deux bancs de rameurs, SYN. <i>167a</i>.<p><b>Étym</b>. δίς, σκαλμός.`

@@ -1,0 +1,1 @@
+lar[29650]=`<b>ἐγ·κιλικίζω</b> <font color="purple">[κῐῐκ]</font> agir en Cilicien, <i>càd</i>. brutalement, PHÉRÉCR. <i>fr. 194</i> ; AR. <i>fr. 110</i>.<p><b>Étym</b>. ἐν, Κίλιξ.`

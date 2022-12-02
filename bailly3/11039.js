@@ -1,0 +1,1 @@
+lar[11039]=`<b>ἀ·ορία, ας (ἡ)</b> ténèbres, <i>fig</i>. malheur, infortune, SPT. <i>Esaï. 59, 9</i>.<p><b>Étym</b>. ἀ. ὁράω.`

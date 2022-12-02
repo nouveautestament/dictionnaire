@@ -1,0 +1,1 @@
+lar[10066]=`<b>ου (ὁ)</b> Antimakhos (Antimaque) :<br><b>      1</b> <i>Troyen,</i> IL. <i>11, 123</i>.<br><b>      2</b> <i>démagogue athénien,</i> AR. <i>Nub. 1022, Ach. 1150</i>.<br><b>      3</b> <i>autres,</i> DÉM. <i>958, 40, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀντίμαχος.`

@@ -1,0 +1,1 @@
+lar[67761]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne les combats sur mer, DS. <i>Exc. Vat. p. 68</i>.<p><b>Étym</b>. ναύμαχος.`

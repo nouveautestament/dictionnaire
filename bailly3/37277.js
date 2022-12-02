@@ -1,0 +1,1 @@
+lar[37277]=`<b>ἐπ·ήρετμος, ος, ον :<br>      1</b> qui se penche sur une rame, OD. <i>2, 403</i> ; OPP. <i>H. 4, 76</i>.<br><b>      2</b> garni de rames, OD. <i>5, 16, etc</i>.<p><b>Étym</b>. ἐπί, ἐρετμόν.`

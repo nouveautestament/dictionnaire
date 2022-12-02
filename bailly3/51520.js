@@ -1,0 +1,1 @@
+lar[51520]=`<b>ος, ον</b>, qui concerne un scarabée, ŒNOM. (EUS. <i>3, 393 Migne).</i><p><b>Étym</b>. κάνθαρος.`

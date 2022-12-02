@@ -1,0 +1,1 @@
+lar[13140]=`<b>ἀπο·προάγω</b> (<i>seul. pf. pass. inf</i>. ἀποπροῆχθαι, SEXT. <i>et part. neutre</i> ἀποπροηγμένα) <i>t. stoïc</i>. « n’être pas préféré, ce qui n’est pas préféré » par l’homme, <i>p. ex</i>. la maladie, la pauvreté, DL. <i>7, 105</i> ; A. GELL. <i>12, 5 ; cf</i>. CIC. <i>Fin. 3, 15 ; Fam. 9, 7, etc</i>.`

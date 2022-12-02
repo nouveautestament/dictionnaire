@@ -1,0 +1,1 @@
+lar[34934]=`<b>ἐν·σκια·τροφέω-ῶ</b> <font color="purple">[ᾱ]</font> nourrir à l’ombre, <i>càd</i>. discrètement, loin du monde, PLUT. <i>M. 476e</i>.<p><b>Étym</b>. ἐν, σκιά, τροφή.`

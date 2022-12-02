@@ -1,0 +1,1 @@
+lar[44422]=`<b>ζά·φελος, ος, ον</b> <font color="purple">[ᾰ]</font> violent, NIC. <i>Al. 556 (gén. épq</i>. ζαφέλοιο, <i>var</i>. ζαφλέγοιο).<p><b>Étym</b>. ἐπιζάφελος.`

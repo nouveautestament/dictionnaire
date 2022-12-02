@@ -1,0 +1,1 @@
+lar[45763]=`<b>ου (ὁ)</b> sorte de teigne (<i>tinea mellonella</i>) qu’attire la clarté d’une lampe, ARSTT. <i>H.A. 8, 27, 2</i>.`

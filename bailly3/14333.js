@@ -1,0 +1,1 @@
+lar[14333]=`<b>ἀργυρο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> semblable à de l’argent, blanc <i>ou</i> brillant comme de l’argent, EUR. <i>I.A. 752, etc.</i> ; ORPH. <i>Arg. 597, 1130</i> ; LUC. <i>D. mar. 3, 2, etc</i>.<p><b>Étym</b>. ἄ. εἶδος.`

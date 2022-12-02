@@ -1,0 +1,1 @@
+lar[54719]=`<b>ης (ἡ)</b> frivolité d’esprit, PLUT. <i>Ages. 37</i>.<p><b>Étym</b>. κενόφρων.`

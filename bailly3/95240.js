@@ -1,0 +1,1 @@
+lar[95240]=`<b>συν·εαρίζω</b> <font color="purple">[ᾰ]</font> ramener le printemps, <i>càd</i>. se rajeunir avec, <i>dat</i>. PLUT. <i>M. 959c</i>.`

@@ -1,0 +1,1 @@
+lar[43814]=`<b>εὔ·χορος</b>, <i>épq</i>. <b>ἠΰ·χορος, ος, ον</b>, aux belles danses, aux rondes harmonieuses, ANTH. <i>App. 217, 7</i>.<p><b>Étym</b>. εὖ, χορός.`

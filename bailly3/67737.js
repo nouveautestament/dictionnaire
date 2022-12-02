@@ -1,0 +1,1 @@
+lar[67737]=`<b>ας (ἡ)</b> <font color="purple">[ᾱρ]</font> l’une des 12 sections de chacune des 4 plus anciennes tribus, <i>à Athènes,</i> ARSTT. <i>fr. 349</i>.<p><b>Étym</b>. ναύκραρος.`

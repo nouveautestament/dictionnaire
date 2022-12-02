@@ -1,0 +1,1 @@
+lar[56676]=`<i>adv</i>., d’une manière tronquée, écourtée, imparfaite, <i>p. opp. à</i> σαφῶς, ARSTT. <i>Soph. el. 17, 15</i>.<p><b>Étym</b>. κολοβός.`

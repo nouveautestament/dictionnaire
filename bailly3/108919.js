@@ -1,0 +1,1 @@
+lar[108919]=`<b>χρεο·λυτέω-ῶ</b> <font color="purple">[ῠ]</font> payer une dette, PLUT. <i>Alc. 5</i> ; μισθόν, JOS. <i>A.J. 18, 8, 9,</i> payer un salaire dû.<p><b>Étym</b>. χρέος, λύω.`

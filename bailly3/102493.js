@@ -1,0 +1,1 @@
+lar[102493]=`<b>ὑπερ·ήδω</b>, réjouir extrêmement, BAS. ; <i>au pass</i>. ὑπερήδομαι, se réjouir outre mesure <i>ou</i> extrêmement, LUC. <i>V.H. 1, 30 ; Dem. enc. 26</i> ; τινι, HDT. <i>1, 54 ; 3, 22,</i> de qqe ch. ; ὅτι, XÉN. <i>Cyr. 8, 3, 50,</i> de ce que ; <i>avec un part</i>. HDT. <i>1, 90</i> ; XÉN. <i>Cyr. 3, 1, 31,</i> se réjouir de, <i>etc</i>.`

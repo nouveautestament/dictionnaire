@@ -1,0 +1,1 @@
+lar[100819]=`<b>τρυγίας οἶνος (ὁ)</b> vin avec un dépôt de lie, ORACL. (PLUT. <i>M. 295e, et</i> ATH. <i>31b</i>) ; <i>abs</i>. ὁ τρ. <i>m. sign</i>. SPT. <i>Ps. 74, 8 ; au plur</i>. SPT. <i>Esaï. 25, 6</i>.<p><b>Étym</b>. τρύξ.`

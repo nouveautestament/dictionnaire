@@ -1,0 +1,1 @@
+lar[13480]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> spoliation, pillage, EUM. <i>p. 286</i>.<p><b>Étym</b>. ἀποσυλάω.`

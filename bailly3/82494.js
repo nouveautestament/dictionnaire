@@ -1,0 +1,1 @@
+lar[82494]=`<b>πολυ·φάγος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui mange beaucoup, vorace, HPC. <i>358, 19</i> ; ARSTT. <i>fr. 477</i>.<p><b>Étym</b>. π. φαγεῖν.`

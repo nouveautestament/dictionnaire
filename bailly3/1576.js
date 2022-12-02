@@ -1,0 +1,1 @@
+lar[1576]=`<b>ἀδυναμέω-ῶ</b> <font color="purple">[ᾰῠᾰ]</font> être sans force, SPT. <i>Sir. Prol</i>.<p><b>Étym</b>. ἀδύναμος.`

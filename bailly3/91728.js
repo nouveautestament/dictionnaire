@@ -1,0 +1,1 @@
+lar[91728]=`<b>σπανό·σπερμος, ος, ον</b> <font color="purple">[ᾰ]</font> pauvre en semence, P. ÉG. <i>Apot. 4</i>.<p><b>Étym</b>. σπ. σπέρμα.`

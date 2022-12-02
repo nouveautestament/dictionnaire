@@ -1,0 +1,1 @@
+lar[55243]=`<b>ή, όν</b>, de jardin, de jardinage, de jardinier, PLAT. <i>Min. 316e, 317b ;</i> TH. <i>H.P. 7, 4, 5, etc</i>.<p><b>Étym</b>. κηπουρός.`

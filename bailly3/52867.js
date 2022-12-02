@@ -1,0 +1,1 @@
+lar[52867]=`<b>κατα·μυκάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> (<i>seul. prés. et impf</i>.) mugir, braire <i>ou</i> rugir contre, CHRYS. <i>2, 873</i>.`

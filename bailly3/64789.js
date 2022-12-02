@@ -1,0 +1,1 @@
+lar[64789]=`<b>μετ·αλγέω-ῶ</b>, regretter, se repentir de, <i>avec l’inf</i>. ESCHL. <i>Suppl. 405</i>.`

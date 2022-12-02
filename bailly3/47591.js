@@ -1,0 +1,1 @@
+lar[47591]=`<b>ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> de Thrasymakhos, DH. <i>Dem. 64</i>.<p><b>Étym</b>. Θρασύμαχος.`

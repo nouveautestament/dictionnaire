@@ -1,0 +1,1 @@
+lar[79383]=`<b>ίδος</b>, <i>voc</i>. <b>-ί (ἡ)</b> <font color="purple">[ῐδ]</font> Péristéris, <i>f</i>. ANTH. <i>7, 662</i>.<p><b>Étym</b>. περιστερά.`

@@ -1,0 +1,1 @@
+lar[77727]=`<b>πελαργάω-ῶ</b>, avertir, <i>p. allus. aux cigognes qui établissent des postes et s’avertissent par des signaux de tout danger,</i> PYTHAG. (DL. <i>8, 20, conj</i>. πεδαρτάω).<p><b>Étym</b>. πελαργός.`

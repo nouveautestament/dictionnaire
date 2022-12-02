@@ -1,0 +1,1 @@
+lar[71419]=`<b>ὀμιχλόω-ῶ</b>, couvrir de nuages, obscurcir, SPT. <i>Ps. 64, 13</i>.<p><b>Étym</b>. ὀμίχλη.`

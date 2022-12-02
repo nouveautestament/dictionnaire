@@ -1,0 +1,1 @@
+lar[43185]=`<b>ας (ἡ)</b> <font color="purple">[ῐλ]</font> <i>c</i>. εὑρεσιλογία, PLUT. <i>M. 1033b</i>.`

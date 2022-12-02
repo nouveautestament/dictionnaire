@@ -1,0 +1,1 @@
+lar[84670]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> affliction causée <i>ou</i> éprouvée d’avance, PLAT. <i>Rsp. 584c</i>.<p><b>Étym</b>. προλυπέω.`

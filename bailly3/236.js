@@ -1,0 +1,1 @@
+lar[236]=`<b>Ἀγαθ·άνωρ, ορος (ὁ)</b> <font color="purple">[ᾰᾰᾱ]</font> Agathanôr, <i>h</i>. ANTH. <i>7, 554</i>.<p><b>Étym</b>. ἀγαθός, ἀνήρ ; <i>cf</i>. Ἀνδράγαθος.`

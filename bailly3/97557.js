@@ -1,0 +1,1 @@
+lar[97557]=`<b>τανυ·πλόκαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> aux longues tresses, aux longues boucles, NONN. <i>D. 35, 328</i>.<p><b>Étym</b>. τανυ-, πλόκαμος.`

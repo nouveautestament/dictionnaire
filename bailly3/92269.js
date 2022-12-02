@@ -1,0 +1,1 @@
+lar[92269]=`<b>ατος (τὸ) :<br>      1</b> abri, XÉN. <i>An. 1, 5, 10</i> ; PLAT. <i>Tim. 63d, etc.</i><br><b>      2</b> <i>particul</i>. toit, PLAT. <i>Pol. 279d</i>.<p><b>Étym</b>. στεγάζω.`

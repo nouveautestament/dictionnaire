@@ -1,0 +1,1 @@
+lar[73706]=`<b>ας (ἡ)</b> sorte de plongeon, <i>oiseau aquatique,</i> ATH. <i>395e</i>.`

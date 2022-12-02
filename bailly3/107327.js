@@ -1,0 +1,1 @@
+lar[107327]=`<b>φυτο·σπόρος, ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>litt</i>. qui fait des plantations ; <i>fig</i>. qui engendre, père, SOPH. <i>Tr. 358 ; avec le gén</i>. SOPH. <i>O.R. arg. 1</i> ; CHRISTOD. <i>Ecphr. 106</i>.<p><b>Étym</b>. φυτόν, σπείρω.`

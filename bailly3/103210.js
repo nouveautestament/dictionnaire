@@ -1,0 +1,1 @@
+lar[103210]=`<b>εως (ἡ)</b> <font color="purple">[δῠ]</font><br><b>      1</b> action de s’enfoncer sous, ARSTT. <i>Inc. an. 15, 8</i>.<br><b>      2</b> lieu de refuge, asile, DS. <i>3, 44</i> ; JOS. <i>B.J. 3, 7, 22, etc</i>.<p><b>Étym</b>. ὑποδύω.`

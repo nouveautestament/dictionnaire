@@ -1,0 +1,1 @@
+lar[98897]=`<b>τηθ·αλλαδοῦς, οῦ (ὁ)</b> enfant élevé par une grand-mère, enfant gâté, COM. (EUST. <i>p. 971, 40).</i><p><b>Étym</b>. τήθη, ἀλλάσσω.`

@@ -1,0 +1,1 @@
+lar[64232]=`<i>adv</i>., avec soin, PLAT. <i>Prot. 344b</i>.<p><b>Étym</b>. μέλομαι.`

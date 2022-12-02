@@ -1,0 +1,1 @@
+lar[58573]=`<b>κυκλο·φόρος, ος, ον</b>, qui se meut circulairement, HÉRACLITE GRAMM. <i>All. Hom. 12</i>.<p><b>Étym</b>. κύκλος, φέρω.`

@@ -1,0 +1,1 @@
+lar[62625]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> mollesse, CHRYS. <i>1, 1048</i>.<p><b>Étym</b>. μαλακίζω.`

@@ -1,0 +1,1 @@
+lar[38673]=`<b>εως (ἡ) :<br>      1</b> action de bondir sur, d’attaquer, PLUT. <i>M. 76c, 916d.</i><br><b>      2</b> action de saillir, PLUT. <i>M. 768a</i>.<p><b>Étym</b>. ἐπιπηδάω.`

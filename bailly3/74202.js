@@ -1,0 +1,1 @@
+lar[74202]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui traite des passions, des affections, STOB. <i>Ecl. 2, 52</i>.<br><b>      2</b> qui concerne les maladies ; ἡ παθολογική (<i>s.e</i>. τέχνη) GAL. <i>2, 280,</i> pathologie, <i>partie de la médecine qui traite de la connaissance des maladies</i>.<p><b>Étym</b>. παθολογέω.`

@@ -1,0 +1,1 @@
+lar[96461]=`<font color="purple">[ῠῠ]</font> <i>adv</i>., avec similitude de sens, ARSTT. <i>Categ. 5, 15 ; An. 2, 1, 8</i> ; POL. <i>3, 33, 11</i> ; PLUT. <i>M. 76a</i>.`

@@ -1,0 +1,1 @@
+lar[49009]=`<i>ou</i> <b>ἑΐν</b> (<i>genre inconnu) mesure pour les liquides, équival. à 2 χόες attiques,</i> SPT. <i>Lev. 23, 13 ; Num. 15, 4, etc</i>.<p>➳ <i>Acc</i>. ἴνα, THCR. <i>Idyl. 21, 15 dout</i>.`

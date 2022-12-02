@@ -1,0 +1,1 @@
+lar[2696]=`<b>αἰνο·λέων, οντος (ὁ)</b> lion terrible, THCR. <i>Idyl. 25, 168</i>.<p><b>Étym</b>. αἰν. λ.`

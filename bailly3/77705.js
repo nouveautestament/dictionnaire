@@ -1,0 +1,1 @@
+lar[77705]=`<b>ου (τὸ)</b> <i>sorte de plante,</i> NIC. <i>Th. 627</i>.<p><b>Étym</b>. πεκτέω.`

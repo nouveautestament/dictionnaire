@@ -1,0 +1,1 @@
+lar[6895]=`<b>ῆς (ἡ)</b> crochet en saillie <i>ou</i> retroussé, BITON <i>Mach. p. 108, 7</i>.`

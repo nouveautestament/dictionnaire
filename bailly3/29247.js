@@ -1,0 +1,1 @@
+lar[29247]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> robe riche de femme, IL. <i>21, 507 (seul ex. du nomin.) ; 3, 385, 419 ; 14, 178 ; 21, 507</i> ; HH. <i>Cer. 176 ; une fois</i> εἱανός, IL. <i>16, 9</i>.<p><b>Étym</b>. <i>p</i>. *ϝεσ-ανός, <i>de la R. indo-europ</i>. *ues-, porter un vêtement ; <i>cf</i>. ἕννυμι.`

@@ -1,0 +1,1 @@
+lar[59758]=`<b>ου (τὸ)</b> Lampônion, <i>v. de Troade,</i> HDT. <i>5, 26</i>.`

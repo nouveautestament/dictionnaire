@@ -1,0 +1,1 @@
+lar[96529]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> <i>c</i>. συρισμός BAS. <i>2, 817 Migne</i>.`

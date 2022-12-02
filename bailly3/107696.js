@@ -1,0 +1,1 @@
+lar[107696]=`<b>χαλκό·τονον, ου (τὸ)</b> machine de jet à ressorts de bronze, PHIL. BYZ. <i>Bel. 72, etc</i>.<p><b>Étym</b>. χ. τείνω.`

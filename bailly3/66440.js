@@ -1,0 +1,1 @@
+lar[66440]=`<b>οῦ (ὁ)</b> tache, souillure, PLUT. <i>M. 779c ;</i> NT. <i>2Cor. 7, 1</i>.<p><b>Étym</b>. μολύνω.`

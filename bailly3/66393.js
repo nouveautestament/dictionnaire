@@ -1,0 +1,1 @@
+lar[66393]=`<b>ου (ὁ)</b> sorte de serpent, NIC. <i>Th. 491</i>.<p><b>Étym</b>. <i>cf</i>. μολουρίς.`

@@ -1,0 +1,1 @@
+lar[55002]=`<b>κερο·πλάστης, ου (ὁ)</b> coiffeur (<i>propr</i>. qui boucle la chevelure) ARCHIL. <i>59</i>.<p><b>Étym</b>. κέρας, πλάσσω.`

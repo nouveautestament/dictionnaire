@@ -1,0 +1,1 @@
+lar[89629]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> adoration, SIB. <i>7, 73</i>.<p><b>Étym</b>. σεβάζομαι.`

@@ -1,0 +1,1 @@
+lar[43257]=`<b>εὐρυ·γένειος, ος, ον</b> <font color="purple">[ῠ]</font> à la barbe large <i>ou</i> épaisse, OPP. <i>C. 2, 104</i>.<p><b>Étym</b>. εὐ. γένειον.`

@@ -1,0 +1,1 @@
+lar[60072]=`<b>ή, όν</b>, propre à polir, à adoucir, <i>gén</i>. DIPH. (ATH. <i>57c</i>) ; <i>abs</i>. ARSTT. <i>Probl. 3, 14</i>.<p><b>Étym</b>. λεαίνω.`

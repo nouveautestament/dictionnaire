@@ -1,0 +1,1 @@
+lar[100866]=`<b>τρυσ·ίππιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> marque au fer chaud sur la mâchoire des chevaux réformés, EUP. (EUST. <i>p. 1517).</i><p><b>Étym</b>. τρύω, ἵππος.`

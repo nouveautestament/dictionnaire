@@ -1,0 +1,1 @@
+lar[2114]=`<font color="purple">[ῡ]</font> <i>vb. de</i> ἀθυμέω, DÉM. <i>40, 12</i> ; HLD. <i>7, 11</i>.`

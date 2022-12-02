@@ -1,0 +1,1 @@
+lar[17353]=`<b>αὐτ·επιβούλευτος, ος, ον</b>, <i>c</i>. αὐτεπιβουλεύτης HÉRON <i>p. 269 Wescher, Poliorcétique des Grecs</i>.`

@@ -1,0 +1,1 @@
+lar[26660]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. Δινδυμήνη, PLUT. <i>Them. 30</i>.`

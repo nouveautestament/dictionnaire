@@ -1,0 +1,1 @@
+lar[59711]=`<b>ή, όν</b>, qui ressemble à un grand char couvert, SPT. <i>Num. 7, 3</i>.<p><b>Étym</b>. λαμπήνη.`

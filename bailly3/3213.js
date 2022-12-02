@@ -1,0 +1,1 @@
+lar[3213]=`<i>adv</i>., sans préparation, sans art, POL. <i>6, 4, 7 ; 10, 11, 1</i>.`

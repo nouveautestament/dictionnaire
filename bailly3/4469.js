@@ -1,0 +1,1 @@
+lar[4469]=`<b>ἁλι·κάκαβον, ου (τὸ)</b> sorte de morelle (<i>p.-ê. Physalis alkekengi</i> L.) <i>plante,</i> DIOSC. <i>2, 209 ; 4, 72, etc</i>.<p><b>Étym</b>. ἅλς, κάκαβος.`

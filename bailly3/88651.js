@@ -1,0 +1,1 @@
+lar[88651]=`<b>ῥιψο·κίνδυνος, ος, ον</b> <font color="purple">[ῡ]</font> qui se jette au milieu du danger, aventureux, téméraire : <i>en parl. de choses (entreprise, etc</i>.) XÉN. <i>Mem. 1, 3, 9 ; en parl. de pers</i>. ALCIPHR. <i>3, 52</i> ; ARSTD. <i>t. 1, 66</i> ; τὸ ῥιψοκίνδυνον, APP. <i>Civ. 5, 84,</i> audace, témérité.<p><b>Étym</b>. ῥ. κίνδυνος.`

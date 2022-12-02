@@ -1,0 +1,1 @@
+lar[77746]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de s’approcher, JAMBL. <i>Math. 8</i>.<p><b>Étym</b>. πελάζω.`

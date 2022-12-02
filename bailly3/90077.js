@@ -1,0 +1,1 @@
+lar[90077]=`<b>ης (ἡ)</b> = <i>lat</i>. Subura, <i>quartier de Rome,</i> PLUT. <i>Qu. rom. 97</i>.`

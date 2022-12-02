@@ -1,0 +1,1 @@
+lar[65944]=`<b>μίξ·οφρυς, υς, υ</b>, <i>gén</i>. <b>υος</b>, dont les sourcils se mêlent, se joignent, CRAT. (<i>Com. fr. 2, 209).</i><p><b>Étym</b>. μ. ὀφρύς.`

@@ -1,0 +1,1 @@
+lar[48665]=`<i>adv</i>., saintement, divinement, PLUT. <i>Lyc. 27</i>.<p><b>Étym</b>. ἱερός.`

@@ -1,0 +1,1 @@
+lar[94903]=`<b>συν·αποξύω</b>, enlever en même temps par un grattage, <i>fig</i>. THÉM. <i>223c</i>.`

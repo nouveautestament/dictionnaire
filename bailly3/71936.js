@@ -1,0 +1,1 @@
+lar[71936]=`<b>ου (ὁ) :<br>      1</b> merluche, <i>poisson de mer,</i> DORION <i>et</i> EUTHYD. (ATH. <i>118c, 315f</i>).<br><b>      2</b> cloporte, <i>crustacé,</i> GAL.<br><b>      3</b> cabestan, <i>machine à tirer ou soulever des fardeaux,</i> HPC. <i>761f ;</i> PHIL. BYZ. <i>Bel. 61d, 74a, 76a</i>.<p><b>Étym</b>. <i>dim. de</i> ὄνος.`

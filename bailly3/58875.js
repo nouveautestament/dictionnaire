@@ -1,0 +1,1 @@
+lar[58875]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> κύπαιρος ALCM. <i>22</i>.`

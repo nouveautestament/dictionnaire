@@ -1,0 +1,1 @@
+lar[90065]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> <i>sorte d’oiseau,</i> ATH. <i>392f</i>.`

@@ -1,0 +1,1 @@
+lar[33738]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action d’implanter <i>ou</i> de greffer, ARSTT. <i>Juv. 3, 1</i> ; TH. <i>C.P. 1, 6, 6</i>.<p><b>Étym</b>. ἐμφυτεύω.`

@@ -1,0 +1,1 @@
+lar[53785]=`<b>εως (ἡ)</b> relation mensongère, STR. <i>59</i>.<p><b>Étym</b>. καταψεύδομαι.`

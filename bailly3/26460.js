@@ -1,0 +1,1 @@
+lar[26460]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> habitant <i>ou</i> originaire de Dikæarkheia, POL. <i>3, 91, 4</i>.<p><b>Étym</b>. Δικαιάρχεια.`

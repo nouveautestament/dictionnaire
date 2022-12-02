@@ -1,0 +1,1 @@
+lar[92571]=`<b>ου (ὁ)</b> <i>trad. du lat</i>. Stătŏr, <i>surn. de Jupiter, à Rome,</i> PLUT. <i>Cic. 16</i>.<p><b>Étym</b>. ἵστημι.`

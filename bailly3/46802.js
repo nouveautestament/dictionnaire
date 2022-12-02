@@ -1,0 +1,1 @@
+lar[46802]=`<b>θεο·σύνδετος, ος, ον</b>, uni à Dieu, HIÉROCL. <i>C. aur. p. 478 Mullach</i>.<p><b>Étym</b>. θ. συνδέω.`

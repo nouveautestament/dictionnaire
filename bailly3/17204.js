@@ -1,0 +1,1 @@
+lar[17204]=`<b>ιδος (ἡ)</b> lieu où l’on passe la nuit :<br><b>      1</b> tente, camp, IL. <i>9, 232</i>.<br><b>      2</b> nid d’oiseaux, OD. <i>22, 470</i>.<br><b>      3</b> étable, HH. <i>Merc. 71 ; Ven. 168</i> ; CALL. <i>Cer. 106</i>.<br><b>      4</b> antre, grotte, EUR. <i>Cycl. 363</i> ; CALL. THCR. <i>etc</i>.`

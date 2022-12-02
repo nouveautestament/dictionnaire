@@ -1,0 +1,1 @@
+lar[68000]=`<b>νεκρο·ειδής, ής, ές</b>, qui ressemble à un mort, CHRYS. <i>1, 928</i>.<p><b>Étym</b>. ν. εἶδος.`

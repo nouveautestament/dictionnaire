@@ -1,0 +1,1 @@
+lar[51233]=`<b>ας (ἡ)</b> <font color="purple">[λῐ]</font> bonheur d’avoir de beaux <i>ou</i> d’illustres enfants, PARTH. <i>33</i>.<p><b>Étym</b>. καλλίτεκνος.`

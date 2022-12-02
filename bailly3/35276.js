@@ -1,0 +1,1 @@
+lar[35276]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> aqueduc (souterrain) à section hexagonale, PHIL. BYZ.<p><b>Étym</b>. ἑξάγωνος.`

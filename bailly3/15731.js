@@ -1,0 +1,1 @@
+lar[15731]=`<font color="purple">[σᾰ]</font> <i>adv</i>., sans disposition à se putréfier <i>ou</i> à fermenter, HPC. <i>Acut. 386</i>.<p><b>Étym</b>. ἀσαπής.`

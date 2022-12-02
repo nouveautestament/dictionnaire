@@ -1,0 +1,1 @@
+lar[63963]=`<b>ατος (τὸ)</b> étude, exercice pratique, EUR. <i>fr. inc. 902, 9 Nauck;</i> XÉN. <i>Cyr. 8, 1, 43</i> ; PLAT. <i>Phæd. 67d</i>.`

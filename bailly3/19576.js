@@ -1,0 +1,1 @@
+lar[19576]=`<b>ῶν (αἱ)</b> = Vercellæ (<i>auj</i>. Vercelli, Verceil) <i>v. de la Gaule Cisalpine,</i> PLUT. <i>Mar. 25</i>.`

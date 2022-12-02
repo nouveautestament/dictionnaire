@@ -1,0 +1,1 @@
+lar[74077]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰῑ]</font> (<i>s.e</i>. κόλπος) le golfe de Pagases (<i>auj</i>. golfe Pagasétique) PHILIPP. (DÉM. <i>159, 26</i>).`

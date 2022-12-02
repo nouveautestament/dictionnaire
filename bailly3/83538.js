@@ -1,0 +1,1 @@
+lar[83538]=`<b>προ·αναβοάω-οῶ</b>, crier d’abord <i>ou</i> auparavant, D. PHAL. <i>§ 15</i>.`

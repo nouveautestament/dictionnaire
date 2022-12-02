@@ -1,0 +1,1 @@
+lar[5055]=`<b>(τὸ)</b> <i>indécl</i>. alpha, <i>1<sup>e</sup> lettre de l’alphabet grec,</i> PLAT. <i>Crat. 431e, etc.</i> ; CALLIAS (ATH. <i>453d</i>) ; PLUT. <i>M. 738a</i>.<p><b>Étym</b>. <i>cf</i>. Α, α.`

@@ -1,0 +1,1 @@
+lar[37192]=`<b>ἐπετειοφορέω-ῶ</b>, porter des fruits tous les ans, TH. <i>C.P. 1, 20, 3</i>.<p><b>Étym</b>. ἐπετειοφόρος.`

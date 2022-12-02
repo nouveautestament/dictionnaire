@@ -1,0 +1,1 @@
+lar[85495]=`<b>ής, ές</b>, qui ressemble à, <i>dat</i>. NIC. <i>Th. 292</i>.<p><b>Étym</b>. *προσείκω.`

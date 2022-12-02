@@ -1,0 +1,1 @@
+lar[53267]=`<b>κατα·ρροιζέω-ῶ</b>, frapper avec un bruit strident <i>ou</i> aigu, <i>gén</i>. NONN. <i>D. 1, 217 ; 6, 116</i>.`

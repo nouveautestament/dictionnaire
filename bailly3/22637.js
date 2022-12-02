@@ -1,0 +1,1 @@
+lar[22637]=`<font color="purple">[ᾱ]</font> <i>adv</i>., comme une vieille femme, ORIG. <i>2, 499</i>.`

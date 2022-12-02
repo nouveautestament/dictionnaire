@@ -1,0 +1,1 @@
+lar[53570]=`<b>κατα·τραυματίζω</b>, couvrir de blessures, THC. <i>7, 80</i> ; POL. <i>15, 13, 1, ou</i> d’avaries, <i>en parl. d’un navire,</i> THC. <i>7, 41 ; 8, 10</i>.<p>➳ <i>Ion. pf. pass. inf</i>. κατατετρωματίσθαι, HDT. <i>7, 212</i>.`

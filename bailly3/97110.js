@@ -1,0 +1,1 @@
+lar[97110]=`<b>α, ον :<br>      1</b> qui est de loisir, qui agit à loisir, qui prend son temps, qui ne se presse pas, THC. <i>3, 29</i> ; XÉN. <i>An. 4, 1, 13, etc.</i><br><b>      2</b> <i>p. suite,</i> calme, tranquille, PLUT. <i>M. 603e ;</i> ARSTD. <i>t. 1, 76</i>.<p>•<i> Cp</i>. σχολαίτερος, HPC. <i>58, 35</i> ; HDN <i>7, 8, 24</i>.<p><b>Étym</b>. σχολή.`

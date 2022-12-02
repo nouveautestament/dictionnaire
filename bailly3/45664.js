@@ -1,0 +1,1 @@
+lar[45664]=`<b>έως (ὁ)</b> Èniopée, <i>conducteur du char d’Hector,</i> IL. <i>8, 120</i>.`

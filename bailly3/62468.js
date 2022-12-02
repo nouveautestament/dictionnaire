@@ -1,0 +1,1 @@
+lar[62468]=`<b>ῆρος</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. qui perce, qui blesse, <i>gén</i>. ESCHL. <i>Suppl. 466</i>.<p><b>Étym</b>. <i>vulg., conj</i>. μαστικτήρ.`

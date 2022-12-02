@@ -1,0 +1,1 @@
+lar[2900]=`<i>adv</i>., avec cupidité <i>ou</i> avarice, NT. <i>1Petr. 5, 2</i>.`

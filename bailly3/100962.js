@@ -1,0 +1,1 @@
+lar[100962]=`<i>vb. de</i> τιτρώσκω, SOR. <i>Obst. p. 118 Dietz</i>.`

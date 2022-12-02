@@ -1,0 +1,1 @@
+lar[5756]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui pressure, CRAT. (SUID.).<br><b>      2</b> marc de raisin, <i>c</i>. ἀμόργη, PHIL. BYZ. <i>Bel. 86d, 87a</i>.<p><b>Étym</b>. ἀμέργω.`

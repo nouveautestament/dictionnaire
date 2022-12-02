@@ -1,0 +1,1 @@
+lar[84200]=`<b>προ·εξεργάζομαι</b>, accomplir d’avance <i>ou</i> auparavant, RHÉT. <i>1, 321 W. ; pf. au sens pass</i>. être accompli auparavant, ARSTT. <i>Soph. el. 33, 15</i> ; PAUS. <i>1, 34, 5</i>.`

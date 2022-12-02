@@ -1,0 +1,1 @@
+lar[71631]=`<b>ὁμό·νοος-ους, οος-ους, οον-ουν</b>, de mêmes sentiments, uni de sentiments, POLL. <i>6, 155</i>.<p><b>Étym</b>. ὁμ. νόος.`

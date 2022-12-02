@@ -1,0 +1,1 @@
+lar[10302]=`<b>ἀντι·πολιορκέω-ῶ</b>, assiéger à son tour, THC. <i>7, 28</i> ; PLUT. <i>Marc. 7, etc</i>.`

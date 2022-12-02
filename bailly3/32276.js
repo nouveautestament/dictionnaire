@@ -1,0 +1,1 @@
+lar[32276]=`<b>ορος (ὁ, ἡ)</b> qui tient fortement, qui retient, <i>en parl. de Zeus,</i> SAPPH. <i>149</i> ; ὁ ἕ. LUC. <i>Lex. 15 (cf</i>. LYC. <i>100</i>) ancre.<p><b>Étym</b>. ἔχω ; <i>cf</i>. ἕστωρ.`

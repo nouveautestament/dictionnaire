@@ -1,0 +1,1 @@
+lar[14452]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière agréable à, <i>dat</i>. EUR. <i>I.T. 463, 581</i> ; PLAT. <i>Rsp. 504b</i>.<p><b>Étym</b>. ἀρέσκω.`

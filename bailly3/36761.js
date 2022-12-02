@@ -1,0 +1,1 @@
+lar[36761]=`<b>ή, όν</b>, qui fait naître un doute, DL. <i>7, 68</i>.<p><b>Étym</b>. ἐπαπορέω.`

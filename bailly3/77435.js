@@ -1,0 +1,1 @@
+lar[77435]=`<b>παυσ·άνεμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui apaise le vent, ESCHL. <i>Ag. 215</i>.<p><b>Étym</b>. παύω, ἄνεμος.`

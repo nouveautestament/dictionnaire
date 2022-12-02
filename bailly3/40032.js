@@ -1,0 +1,1 @@
+lar[40032]=`<b>ἑπτά·φθογγος, ος, ον</b>, à sept sons <i>ou</i> cordes, EUR. <i>Ion 881</i>.<p><b>Étym</b>. ἑ. φθέγγομαι.`

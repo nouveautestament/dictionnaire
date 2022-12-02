@@ -1,0 +1,1 @@
+lar[20690]=`<b>βραχύ·δρομος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>seul</i>. <i>• Sup</i>. -ώτατος, qui ne fournit qu’une petite course, XÉN. <i>Cyn. 5, 21</i>.<p><b>Étym</b>. βρ. δραμεῖν.`

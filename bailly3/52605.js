@@ -1,0 +1,1 @@
+lar[52605]=`<i>adv</i>., à satiété, à foison, DÉM. <i>289, 16</i> ; POL. <i>4, 12, 9, etc</i>.`

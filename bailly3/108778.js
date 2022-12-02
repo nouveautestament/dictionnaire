@@ -1,0 +1,1 @@
+lar[108778]=`<b>χορδο·λογέω-ῶ</b>, accorder un instrument avant de jouer, PLUT. <i>M. 87f</i>.<p><b>Étym</b>. χορδή, -λογος <i>de</i> λέγω.`

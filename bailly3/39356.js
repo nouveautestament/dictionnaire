@@ -1,0 +1,1 @@
+lar[39356]=`<b>ἐπι·τεκταίνομαι</b>, tramer, machiner contre, OPP. <i>C. 3, 405</i>.`

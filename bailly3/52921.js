@@ -1,0 +1,1 @@
+lar[52921]=`<i>c</i>. κατανείφω, PLUT. <i>Luc</i>. 24.<p><b>Étym</b>. <i>vulg</i>.).<p>Chantraine, DÉLG <i>s.v</i>. νείφει : « la graphie νίφει … est fautive ».`

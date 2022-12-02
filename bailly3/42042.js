@@ -1,0 +1,1 @@
+lar[42042]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν (ἡ)</b> bienfaitrice, EUR. <i>Alc. 1058</i> ; PLAT. <i>Leg. 896e</i>.<p><b>Étym</b>. <i>fém. de</i> εὐεργέτης.`

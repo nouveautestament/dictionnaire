@@ -1,0 +1,1 @@
+lar[56770]=`<b>ας (ἡ)</b> Komania, <i>forteresse de Mysie,</i> XÉN. <i>An. 7, 8, 15</i>.`

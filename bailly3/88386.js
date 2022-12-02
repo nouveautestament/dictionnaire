@@ -1,0 +1,1 @@
+lar[88386]=`<b>ης, ες :<br>      1</b> vacillant, agité, incertain, PLUT. <i>M. 45d, Dio. 7</i>.<br><b>      2</b> <i>p. suite,</i> qui se fait avec irrésolution <i>ou</i> négligence, POL. <i>16, 39, 2</i>.<p><b>Étym</b>. ῥέμβος, -ωδης.`

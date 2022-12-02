@@ -1,0 +1,1 @@
+lar[65722]=`<b>μικρό·πνοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῑ]</font> qui a la respiration courte, HPC. <i>1025c</i>.<p><b>Étym</b>. μ. πνέω.`

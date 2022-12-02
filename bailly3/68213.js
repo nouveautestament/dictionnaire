@@ -1,0 +1,1 @@
+lar[68213]=`<b>νεό·πνευστος, ος, ον</b>, nouvellement ranimé, NONN. <i>D. 25, 549</i>.<p><b>Étym</b>. ν. πνέω.`

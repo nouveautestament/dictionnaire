@@ -1,0 +1,1 @@
+lar[9657]=`<b>ἀντ·επικρατέω-ῶ</b> <font color="purple">[ᾰτ]</font> dominer à son tour, STR. <i>745</i> ; DC. <i>44, 27</i>.`

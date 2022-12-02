@@ -1,0 +1,1 @@
+lar[71907]=`<b>ὀνησί·δωρος, ος, ον</b> <font color="purple">[ῐ]</font> bienfaisant, secourable, PLUT. <i>M. 317a vulg. corrigé en</i> ἀνησίδωρος.<p><b>Étym</b>. ὄνησις, δῶρον.`

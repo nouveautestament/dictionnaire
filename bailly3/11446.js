@@ -1,0 +1,1 @@
+lar[11446]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀπατήλιος <i>en parl. de pers. et de choses,</i> IL. <i>1, 526</i> ; XÉN. <i>Œc. 1, 20</i> ; PLAT. <i>Crat. 407e, etc. ; joint à</i> κακοῦργος, PLAT. <i>Gorg. 465b</i>.`

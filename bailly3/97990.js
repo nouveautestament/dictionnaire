@@ -1,0 +1,1 @@
+lar[97990]=`<b>τεθριππο·τρόφος, ου (ὁ, ἡ)</b> qui entretient des attelages de quatre chevaux pour les quadriges, HDT. <i>6, 35</i>.<p><b>Étym</b>. τέθριππος, τρέφω.`

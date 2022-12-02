@@ -1,0 +1,1 @@
+lar[97889]=`<b>ταχυ·δινής, ής, ές</b> <font color="purple">[ᾰῠῑ]</font> au tournoiement rapide, NONN. <i>Jo. 5, 137</i>.<p><b>Étym</b>. τ. δινέω.`

@@ -1,0 +1,1 @@
+lar[21268]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> calme, sérénité, EPIC. (DL. <i>10, 83).</i><p><b>Étym</b>. γαληνίζω.`

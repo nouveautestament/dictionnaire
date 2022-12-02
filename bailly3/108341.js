@@ -1,0 +1,1 @@
+lar[108341]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> tressé en forme de mailles, ANACR. <i>38</i>.<p><b>Étym</b>. χηλή, <i>cf</i>. χηλεύω.`

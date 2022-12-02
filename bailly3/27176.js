@@ -1,0 +1,1 @@
+lar[27176]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> division en deux, NICOM. <i>Theol. 80</i>.<p><b>Étym</b>. διχάζω.`

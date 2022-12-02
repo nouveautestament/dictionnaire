@@ -1,0 +1,1 @@
+lar[98873]=`<b>τεχνουργέω-ῶ</b>, travailler avec art, EUM. <i>p. 17, 140, etc</i>.<p><b>Étym</b>. τέχνη, ἔργον.`

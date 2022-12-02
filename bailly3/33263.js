@@ -1,0 +1,1 @@
+lar[33263]=`<b>ἐμ·μεσιτεύω</b> <font color="purple">[ῑ]</font> être médiateur, concilier, CLÉM. <i>2, 473b Migne</i>.<p><b>Étym</b>. ἐν, μ.`

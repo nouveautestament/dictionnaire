@@ -1,0 +1,1 @@
+lar[71846]=`<b>ῶν (οἱ)</b> les Onéates, <i>tribu des Sicyoniens,</i> HDT. <i>5, 68</i>.`

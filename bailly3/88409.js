@@ -1,0 +1,1 @@
+lar[88409]=`<i>adv</i>., avec affluence <i>ou</i> abondance, PLUT. <i>M. 878f</i>.`

@@ -1,0 +1,1 @@
+lar[31912]=`<b>ἐκ·πονηρεύω</b>, vicier (le sang) SYN. <i>Ep. 114, 1496b Migne</i>.<p><b>Étym</b>. ἐκ, πονηρός.`

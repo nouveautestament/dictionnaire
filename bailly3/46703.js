@@ -1,0 +1,1 @@
+lar[46703]=`<b>θεο·λωβήτης, ου (ὁ)</b> qui outrage les dieux, sacrilège, MAN. <i>4, 234</i>.<p><b>Étym</b>. θ. λωβάομαι.`

@@ -1,0 +1,1 @@
+lar[43776]=`<b>εὐ·φώρατος, ος, ον</b> <font color="purple">[ᾱ]</font> facile à prendre sur le fait, facile à reconnaître, PLUT. <i>M. 63c ;</i> GAL. <i>8, 501</i>.<p><b>Étym</b>. εὖ, φωράω.`

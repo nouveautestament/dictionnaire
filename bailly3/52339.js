@@ -1,0 +1,1 @@
+lar[52339]=`<b>κατα·δοξάζω</b>, avoir une opinion défavorable, XÉN. <i>An. 7, 7, 30, etc.</i> ; ὑπέρ τινος, DH. <i>6, 10,</i> de qqn ; <i>d’où</i> soupçonner, <i>avec la prop. inf</i>. DH. <i>6, 29</i>.`

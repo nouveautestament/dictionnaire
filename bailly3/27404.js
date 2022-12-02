@@ -1,0 +1,1 @@
+lar[27404]=`<b>εως (ἡ)</b> charpente, SPT. <i>Eccl. 10, 18</i> ; SEXT. <i>144, 468 Bkk</i>.<p><b>Étym</b>. δοκόω.`

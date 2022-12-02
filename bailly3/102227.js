@@ -1,0 +1,1 @@
+lar[102227]=`<b>*ὑπερ·αγορεύω</b> (<i>seul. ao.2</i> ὑπερεῖπον) <font color="purple">[ᾰ]</font> parler en faveur de, <i>gén</i>. ARSTT. <i>Œc. 2, 21</i>.`

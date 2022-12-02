@@ -1,0 +1,1 @@
+lar[23328]=`<b>δασύ·φλοιος, ος, ον</b> <font color="purple">[ᾰ]</font> à écorce velue, NIC. <i>Al. 269</i>.<p><b>Étym</b>. δ. φλοιός.`

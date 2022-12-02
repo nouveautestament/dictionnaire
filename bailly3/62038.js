@@ -1,0 +1,1 @@
+lar[62038]=`<b>ας (ἡ)</b> <font color="purple">[ῡῐ]</font> Lysiméleia, <i>lac près de Syracuse,</i> THC. <i>7, 53</i> ; THCR. <i>Idyl. 16, 84</i>.<p><b>Étym</b>. λυσιμελής.`

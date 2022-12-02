@@ -1,0 +1,1 @@
+lar[33536]=`<b>ή, όν</b>, propre à faire obstacle, à empêcher, <i>gén</i>. ARSTT. <i>Nic. 7, 13, 1 ; Phys. 4, 8, 10</i> ; M. ANT. <i>8, 41</i> ; SPT. <i>4Macc. 1, 4</i>.<p><b>Étym</b>. ἐμποδίζω.`

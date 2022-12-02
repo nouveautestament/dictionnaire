@@ -1,0 +1,1 @@
+lar[20515]=`<b>ων (οἱ)</b> les habitants de Boura, LYC. <i>591</i>.<p><b>Étym</b>. βοῦρα.`

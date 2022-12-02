@@ -1,0 +1,1 @@
+lar[71791]=`<b>ου</b> <font color="purple">[ᾰῑ]</font> <i>adj. m.</i> :<br><b>      1</b> le dieu du raisin vert (Bacchus) EL. <i>V.H. 3, 41</i>.<br><b>      2</b> fait avec du raisin vert, DIOSC. <i>5, 12</i>.<p><b>Étym</b>. ὄμφαξ.`

@@ -1,0 +1,1 @@
+lar[20323]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> <i>c</i>. βοστρυχώδης, EUR. <i>Ph. 1485, conj</i>.<p><b>Étym</b>. βότρυχος, -ωδης.`

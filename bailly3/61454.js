@@ -1,0 +1,1 @@
+lar[61454]=`<b>λιχμ·ήρης, ης, ες :<br>      1</b> qui darde sa langue, NIC. <i>Th. 206</i>.<br><b>      2</b> qui lèche, NIC. <i>Al. 37</i>.<p><b>Étym</b>. λιχμάω, *ἄρω.`

@@ -1,0 +1,1 @@
+lar[93058]=`<b>στυγερ·ωπός, ός, όν</b> <font color="purple">[ῠ]</font> à l’aspect odieux, ANTH. <i>9, 662</i>.<p><b>Étym</b>. στ. ὤψ.`

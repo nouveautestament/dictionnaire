@@ -1,0 +1,1 @@
+lar[82437]=`<b>πολυ·τειρής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>act</i>. très fatigant, Q. SM. <i>4, 120</i>.<br><b>      2</b> <i>pass</i>. très affligé, Q. SM. <i>13, 281</i>.<p><b>Étym</b>. π. τείρω.`

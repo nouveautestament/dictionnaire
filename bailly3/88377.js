@@ -1,0 +1,1 @@
+lar[88377]=`<b>α, ον</b>, agissant, actif, ION (ATH. <i>604d</i>).<p><b>Étym</b>. ῥεκτήρ.`

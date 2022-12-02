@@ -1,0 +1,1 @@
+lar[89901]=`<b>ου (τὸ)</b> <i>c</i>. σεῦτλον, DIPH. SIPHN. (ATH. <i>371a</i>) ; LUC. <i>J. voc. 9</i>.`

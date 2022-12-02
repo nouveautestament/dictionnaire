@@ -1,0 +1,1 @@
+lar[66832]=`<b>ας (ἡ)</b> = <i>lat</i>. Mucia, <i>n. de f. rom</i>. PLUT. <i>Pomp. 42</i>.`

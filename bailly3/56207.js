@@ -1,0 +1,1 @@
+lar[56207]=`<b>ῆρος (ὁ) :<br>      1</b> fil qui se roule autour du fuseau, ESCHL. <i>Ch. 505</i> ; AR. <i>Ran. 1347, etc.</i> ; PLUT. <i>M. 558d.</i><br><b>      2</b> fuseau, A.RH. <i>4, 1062</i>.<p><b>Étym</b>. κλώθω.`

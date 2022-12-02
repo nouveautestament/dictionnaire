@@ -1,0 +1,1 @@
+lar[68549]=`<b>ος, ον</b>, sans vents, IL. <i>8, 556 ; d’où</i> calme, tranquille, ESCHL. <i>Ag. 566, etc.</i> ; EUR. <i>I.T. 1412, etc.</i> ; AR. <i>Th. 43, etc. ; fig</i>. EUR. <i>Hec. 533</i> ; PLUT. <i>M. 589d</i>.<p><b>Étym</b>. νη-, ἄνεμος.`

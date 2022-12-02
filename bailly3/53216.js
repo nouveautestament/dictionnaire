@@ -1,0 +1,1 @@
+lar[53216]=`<b>κατ·άρδω</b> (<i>seul. prés</i>.) arroser, <i>gén</i>. ANTIPH. (ATH. <i>300c</i>) ; DH. <i>2, 2 ; fig</i>. inonder, saturer d’éloges, AR. <i>Ach. 658</i>.`

@@ -1,0 +1,1 @@
+lar[99285]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> secousse, ébranlement, ANTH. <i>8, 159 ; 9, 139</i>.<p><b>Étym</b>. τινάσσω.`

@@ -1,0 +1,1 @@
+lar[93293]=`<b>συγ·καταθάπτω</b>, ensevelir avec <i>ou</i> en même temps que, <i>rég. ind. au dat</i>. HDT. <i>2, 81 ; 5, 92</i> ; LYS. <i>196, 12</i>.`

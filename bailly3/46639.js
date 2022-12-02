@@ -1,0 +1,1 @@
+lar[46639]=`<b>ας (ἡ)</b> Théodosia (<i>auj</i>. Feodosia, <i>anc</i>. Kaffa) <i>v</i>. de la Chersonèse Taurique, DÉM. <i>35, 31 et 32 Baiter-Sauppe, vulg</i>. Θευδοσία.<p><b>Étym</b>. <i>v</i>. θεοδοσία.`

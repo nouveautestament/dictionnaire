@@ -1,0 +1,1 @@
+lar[46231]=`<font color="darkgreen">(<i>seul. part. prés. ion. et épq</i>. θαλπιόων)</font> s’échauffer, OD. <i>19, 319</i> ; ARAT. <i>1073</i>.<p><b>Étym</b>. θάλπος.`

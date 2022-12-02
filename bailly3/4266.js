@@ -1,0 +1,1 @@
+lar[4266]=`<b>ἀλεξί·μβροτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui protège les mortels, PD. <i>N. 7, 30, P. 5, 91</i>.<p><b>Étym</b>. ἀ. *μβροτός, <i>v</i>. βροτός.`

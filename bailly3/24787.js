@@ -1,0 +1,1 @@
+lar[24787]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de se détourner, retraite, PLUT. <i>Pyrrh. 21</i>.<p><b>Étym</b>. διακλίνω.`

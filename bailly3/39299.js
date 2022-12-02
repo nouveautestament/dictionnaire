@@ -1,0 +1,1 @@
+lar[39299]=`<b>ἐπι·σχηματίζω</b> <font color="purple">[ᾰ]</font> composer son visage, JOS. <i>B.J. 2, 2, 5</i>.`

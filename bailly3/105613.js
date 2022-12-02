@@ -1,0 +1,1 @@
+lar[105613]=`<b>ου (ἡ)</b> <font color="purple">[ῐᾰ]</font> Petit-baiser, <i>n. de courtisane,</i> LUC. <i>D. mer. 112</i> ; ARISTÉN. <i>1, 14</i>.<p><b>Étym</b>. <i>dim. de</i> φίλημα.`

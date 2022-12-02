@@ -1,0 +1,1 @@
+lar[13383]=`<b>οῦ (ὁ)</b> action d’éponger, ORIB. <i>Coll. 9, c. 23</i>.<p><b>Étym</b>. ἀποσπογγίζω.`

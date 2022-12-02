@@ -1,0 +1,1 @@
+lar[107978]=`<b>ωνος (ὁ)</b> <i>litt</i>. « celui qui réjouit », <i>surn. de Zeus,</i> PAUS. <i>8, 12, 1</i>.<p><b>Étym</b>. χαίρω.`

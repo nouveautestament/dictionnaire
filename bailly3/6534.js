@@ -1,0 +1,1 @@
+lar[6534]=`<b>εως (ἡ)</b> résurrection, PLUT. <i>Luc. 18</i> ; SPT. <i>2Macc. 7, 9, etc</i>.<p><b>Étym</b>. ἀναβιόω.`

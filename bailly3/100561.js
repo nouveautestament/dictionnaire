@@ -1,0 +1,1 @@
+lar[100561]=`<b>τριτό·σπορος, ος, ον</b> <font color="purple">[ῐ]</font> engendré au troisième degré, <i>càd</i>. de la troisième génération, ESCHL. <i>Pers. 818</i>.<p><b>Étym</b>. τρ. σπείρω.`

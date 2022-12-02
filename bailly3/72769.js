@@ -1,0 +1,1 @@
+lar[72769]=`<b>ὀρθο·τριχέω-ῶ</b> <font color="purple">[ῐ]</font> avoir les cheveux relevés, SYMM. <i>Ps. 118, 119</i>.<p><b>Étym</b>. ὀ. θρίξ.`

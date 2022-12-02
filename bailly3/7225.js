@@ -1,0 +1,1 @@
+lar[7225]=`<b>ἀν·αμφίλογος, ος, ον</b>, non contesté, non douteux, XÉN. <i>Mem. 4, 2, 34 ; Conv. 3, 4</i> ; DH. <i>Amm. 1, 11</i>.<p>•<i> Sup</i>. -ώτατος, XÉN. <i>ll. cc</i>.`

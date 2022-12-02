@@ -1,0 +1,1 @@
+lar[80393]=`<b>(ὁ)</b> = <i>lat</i>. Pius, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 24, etc</i>.`

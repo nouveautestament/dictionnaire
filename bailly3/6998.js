@@ -1,0 +1,1 @@
+lar[6998]=`<b>ου (ὁ)</b> qui vocifère, BAS. <i>3, 640 Migne</i>.<p><b>Étym</b>. ἀνακράζω.`

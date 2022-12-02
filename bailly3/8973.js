@@ -1,0 +1,1 @@
+lar[8973]=`<b>ἀνθρωπο·πλάστης, ου (ὁ)</b> créateur (<i>litt</i>. modeleur) de l’homme, PHIL. <i>1, 652</i>.<p><b>Étym</b>. ἄ. πλάσσω.`

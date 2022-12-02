@@ -1,0 +1,1 @@
+lar[25570]=`<b>εως (ἡ)</b> vive agitation, trouble, M. ANT. <i>11, 12</i>.<p><b>Étym</b>. διασοβέω.`

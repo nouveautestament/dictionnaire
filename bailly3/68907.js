@@ -1,0 +1,1 @@
+lar[68907]=`<b>      1</b> mettre en pâture, OD. <i>9, 217, 336</i> ; HH. <i>Merc. 492 ; d’où</i> faire paître, PLAT. <i>Pol. 265d, etc.</i><br><b>      2</b> <i>c</i>. νωμάω, CHRISTOD. <i>Ecphr. 352</i>.<br><b><i>Moy.</i></b> paître, PLAT. <i>Pol. 295e</i>.<p><b>Étym</b>. νομή.`

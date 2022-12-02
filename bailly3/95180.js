@@ -1,0 +1,1 @@
+lar[95180]=`<b>συν·διελαύνω</b>, traverser ensemble <i>ou</i> avec, THÉM. <i>Or. 456, 11</i>.`

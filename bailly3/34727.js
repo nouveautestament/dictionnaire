@@ -1,0 +1,1 @@
+lar[34727]=`<b>ἐννε·άνειρα, ας</b> <font color="purple">[ᾰν]</font> <i>adj. f</i>. qui vit neuf âges d’homme, <i>en parl. de la corneille,</i> ARAT. <i>1022, conj</i>.<p><b>Étym</b>. ἐ. ἀνήρ.`

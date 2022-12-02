@@ -1,0 +1,1 @@
+lar[10061]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> lutte, résistance, DH. <i>8, 58</i>.<p><b>Étym</b>. ἀντιμαχέω.`

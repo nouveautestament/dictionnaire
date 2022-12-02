@@ -1,0 +1,1 @@
+lar[29781]=`<b>ἐγ·κυβερνάω-ῶ</b>, gouverner dans, DL. <i>9, 1</i>.<p>➳ <i>Prés. sbj. 3 sg. ion</i>. ἐγκυβερνέῃ, ARÉT. <i>Caus. m. diut. 1, 3</i>.<p><b>Étym</b>. ἐν, κ.`

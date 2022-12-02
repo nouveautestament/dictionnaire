@@ -1,0 +1,1 @@
+lar[45007]=`<b>ἡδύ·οδμος, ος, ον</b>, <i>ion. c</i>. ἡδύοσμος, HPC. <i>603, 32</i>.<p>➳ <i>Dor</i>. ἁδύ- <font color="purple">[ᾱ]</font> SIM. <i>fr. 121</i>.`

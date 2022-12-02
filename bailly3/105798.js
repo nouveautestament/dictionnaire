@@ -1,0 +1,1 @@
+lar[105798]=`<b>φιλο·θρέμμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> qui aime à nourrir <i>ou</i> à entretenir, qui nourrit, SIB. <i>5, 395</i> ; M. TYR. <i>7, 7</i>.<p><b>Étym</b>. φ. τρέφω.`

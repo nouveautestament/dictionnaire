@@ -1,0 +1,1 @@
+lar[79702]=`<b>περι·ψοφέω-ῶ</b>, faire du bruit autour, étourdir par le bruit, JOS. <i>A.J. 6, 2, 2 ; au pass</i>. PLUT. <i>M. 266e ;</i> JOS. <i>A.J. 11, 3, 9</i>.`

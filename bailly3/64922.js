@@ -1,0 +1,1 @@
+lar[64922]=`<b>μετα·πορθμεύω</b>, transporter par mer, ARSTT. <i>Plant. proœm. p. 814, 33</i>.`

@@ -1,0 +1,1 @@
+lar[76382]=`<i>adv</i>., par augmentation <i>ou</i> amplification, SEXT. <i>M. 3, 42</i>.<p><b>Étym</b>. παραυξάνω.`

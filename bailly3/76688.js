@@ -1,0 +1,1 @@
+lar[76688]=`<b>παρ·εμφέρω</b>, avoir quelque ressemblance avec, <i>dat</i>. DIOSC. <i>1, 64</i>.`

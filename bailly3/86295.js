@@ -1,0 +1,1 @@
+lar[86295]=`<b>προσ·πελάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> suivant, serviteur, THPP. (ATH. <i>271e, 443b</i>).`

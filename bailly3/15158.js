@@ -1,0 +1,1 @@
+lar[15158]=`<b>ἀρρηφορέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἠρρηφόρουν)</font> porter en procession les vêtements <i>ou</i> objets sacrés d’Athèna, AR. <i>Lys. 642</i>.<p>➳ <i>Inscr. att</i>. ἀρρη-, CIA. <i>2 add. 453, b, 14 (commenc. du 2<sup>e</sup> s. av. J.-C.) ; postér</i>. ἐρρη-, CIA. <i>5, 527 (fin de l’époque macédonienne).</i><p><b>Étym</b>. ἀρρηφόρος.`

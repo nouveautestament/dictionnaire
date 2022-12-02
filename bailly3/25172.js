@@ -1,0 +1,1 @@
+lar[25172]=`<b>δια·νυκτερεύω</b>, passer toute la nuit, <i>avec</i> νύκτα, XÉN. <i>Hell. 5, 4, 3</i> ; PLUT. <i>M. 950b ;</i> HDN <i>5, 8, 15 ; 8, 1, 11 ; cf</i>. διημερεύω.`

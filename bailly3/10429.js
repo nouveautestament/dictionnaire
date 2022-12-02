@@ -1,0 +1,1 @@
+lar[10429]=`<b>ατος (τὸ)</b> appui, support, HPC. <i>Art. 785, etc. ; fig</i>. SPT. <i>2Reg. 22, 19, etc</i>.<p><b>Étym</b>. ἀντιστηρίζω.`

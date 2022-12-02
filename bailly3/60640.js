@@ -1,0 +1,1 @@
+lar[60640]=`<b>λευκό·χροος-ους, οος-ους, οον-ουν</b>, de couleur blanche, ARSTT. <i>G.A. 1, 20</i> ; ARÉT. <i>Caus. m. diut. 1, 13</i>.<p><b>Étym</b>. λ. χρόα.`

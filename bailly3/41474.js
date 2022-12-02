@@ -1,0 +1,1 @@
+lar[41474]=`<font color="purple">[ῠ]</font> <i>adv</i>., étymologiquement, EUST. <i>Il. p. 396, 15</i>.<p>•<i> Cp</i>. -ώτερον, EUST. <i>Il. p. 2, 27</i>.`

@@ -1,0 +1,1 @@
+lar[101947]=`<b>ὑπ·ανακύπτω</b>, se retirer de dessous, se redresser, RHÉT. <i>1, 579 W</i>.`

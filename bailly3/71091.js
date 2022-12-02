@@ -1,0 +1,1 @@
+lar[71091]=`<b>ας (ἡ)</b> <font color="purple">[ῐῡ]</font><br><b>      1</b> pusillanimité, SPT. <i>Ex. 6, 9 ; Ps. 54, 8</i>.<br><b>      2</b> défaillance, HPC. <i>594, 7, etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>l. c</i>.<p><b>Étym</b>. ὀλιγόψυχος.`

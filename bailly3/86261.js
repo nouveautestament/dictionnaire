@@ -1,0 +1,1 @@
+lar[86261]=`<i>adv</i>., en venant du dème Prospaltes, DÉM. <i>1071, 25</i>.<p><b>Étym</b>. <i>v</i>. Προσπάλτιος.`

@@ -1,0 +1,1 @@
+lar[102130]=`<b>ὑπ·εκπνέω</b>, s’évaporer <i>ou</i> s’évanouir peu à peu, PLAT. <i>Ax. 365c</i>.`

@@ -1,0 +1,1 @@
+lar[103544]=`<b>ατος (τὸ)</b> mélange en dessous, mélange, PLUT. <i>M. 934d</i>.<p><b>Étym</b>. ὑπομίγνυμι.`

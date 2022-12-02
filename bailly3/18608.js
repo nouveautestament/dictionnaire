@@ -1,0 +1,1 @@
+lar[18608]=`<b>ἀ·ψηφοφόρητος, ος, ον</b>, qui n’a pas encore porté son suffrage, POL. <i>6, 14, 7</i>.<p><b>Étym</b>. ἀ, ψηφοφορέω.`

@@ -1,0 +1,1 @@
+lar[52524]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> morcellement en petites parties, CHRYS. <i>6, 416</i>.<p><b>Étym</b>. κατακερματίζω.`

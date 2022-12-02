@@ -1,0 +1,1 @@
+lar[25222]=`<b>δια·πεινάω-ῶ</b> (<i>seul. prés. 1 pl. dor</i>. -πεινᾶμες) jeûner à qui mieux mieux, AR. <i>Ach. 751</i>.`

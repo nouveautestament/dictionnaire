@@ -1,0 +1,1 @@
+lar[52936]=`<b>ατος (τὸ)</b> point où l’on aboutit, terme, dénouement, SPT. <i>Ps. 18, 7</i> ; CHRYS. <i>1, 34</i>.<p><b>Étym</b>. καταντάω.`

@@ -1,0 +1,1 @@
+lar[96853]=`<b>οῦ (ὁ)</b> action de s’approprier, ARSTT. <i>Rhet. 1, 13, 10</i>.<p><b>Étym</b>. σφετερίζω.`

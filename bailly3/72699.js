@@ -1,0 +1,1 @@
+lar[72699]=`<b>ὀρθο·δαής, ής, ές</b> <font color="purple">[ᾰ]</font> qui sait bien (<i>propr</i>. droitement), sage, habile, ESCHL. <i>Ag. 1022</i>.<p><b>Étym</b>. ὀ. διδάσκω.`

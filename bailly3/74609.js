@@ -1,0 +1,1 @@
+lar[74609]=`<b>παλιν·ῳδέω-ῶ</b> <font color="purple">[ᾰῐ]</font><br><b>   I</b> recommencer un chant, SEXT. <i>M. 7, 202 ; p. ext</i>. recommencer, PHIL. <i>1, 586</i>.<br><b>   II</b> chanter un chant différent <i>ou</i> sur un autre ton, <i>fig. càd</i>. chanter une palinodie, se rétracter, PLAT. <i>2 Alc. 142d, etc.</i> ; LUC. <i>M. cond. 1</i>.<p><b>Étym</b>. π. ᾠδή.`

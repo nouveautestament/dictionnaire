@@ -1,0 +1,1 @@
+lar[17492]=`<b>αὐτό·θεος, ου (ὁ)</b> Dieu en soi, Dieu même, PROCL. ECCL.`

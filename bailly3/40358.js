@@ -1,0 +1,1 @@
+lar[40358]=`être dans un lieu désert, dans la solitude, ANTH. <i>7, 315</i> ; THCR. <i>Idyl. 22, 35</i>.<p>➳ <i>Ao. itér</i>. ἐρημάζεσκον, THCR. <i>l. c</i>.<p><b>Étym</b>. ἔρημος.`

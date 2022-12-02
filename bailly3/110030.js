@@ -1,0 +1,1 @@
+lar[110030]=`<b>ψυχρο·σταγής, ής, ές</b> <font color="purple">[ᾰ]</font> congelé en stalactites, ARÉT. <i>Cur. m. diut. 2, 7, p. 58 dout</i>.<p><b>Étym</b>. ψ. στάζω ; <i>p.-ê</i>. ψυχροπαγής, congelé, <i>de</i> ψ. πήγνυμι.`

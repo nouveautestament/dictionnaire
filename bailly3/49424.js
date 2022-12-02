@@ -1,0 +1,1 @@
+lar[49424]=`<b>ἱππό·ταυρος, ου (ὁ)</b> moitié cheval, moitié taureau, HLD. <i>10, 29</i>.<p><b>Étym</b>. ἵ. ταῦρος.`

@@ -1,0 +1,1 @@
+lar[22704]=`(<i>acc. sg., genre inc</i>.) Gyarte, <i>contrée près de Syracuse,</i> PLUT. <i>Dio. 37</i>.`

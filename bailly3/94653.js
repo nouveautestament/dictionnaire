@@ -1,0 +1,1 @@
+lar[94653]=`<i>adv</i>., en concernant les contrats, NYSS.<p><b>Étym</b>. συνάλλαγμα.`

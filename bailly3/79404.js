@@ -1,0 +1,1 @@
+lar[79404]=`<b>περι·στίλβω</b>, briller autour, DS. <i>3, 45</i> ; PLUT. <i>M. 693d</i>.`

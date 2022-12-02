@@ -1,0 +1,1 @@
+lar[28673]=`<b>δύσ·μικτος, ος, ον</b>, qui ne se mêle pas <i>ou</i> ne s’unit pas facilement, PLAT. <i>Tim. 35a ;</i> PLUT. <i>Num. 17</i> ; τινι, PLUT. <i>Phoc. 2,</i> avec qqe ch.<p><b>Étym</b>. δ. μίγνυμι.`

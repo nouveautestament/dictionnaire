@@ -1,0 +1,1 @@
+lar[106204]=`<b>φιλό·χρυσος, ος, ον</b> <font color="purple">[ῐῡ]</font> qui aime l’or, cupide, LUC. <i>Gall. 13</i> ; ANTH. <i>8, 213, etc</i>.<p><b>Étym</b>. φ. χρυσός.`

@@ -1,0 +1,1 @@
+lar[11546]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> menaçant, <i>en parl. de choses (paroles, lois, etc</i>.) XÉN. <i>Mem. 3, 10, 8</i> ; PLAT. <i>Leg. 823c, Phæd. 268d, etc</i>.`

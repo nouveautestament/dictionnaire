@@ -1,0 +1,1 @@
+lar[2518]=`<b>ου (ὁ)</b> = <i>lat</i>. Ælius, <i>n. d’h. rom</i>. PLUT. <i>Æmil. 29</i>.`

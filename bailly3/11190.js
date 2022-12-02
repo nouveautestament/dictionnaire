@@ -1,0 +1,1 @@
+lar[11190]=`<b>εως (ἡ) :<br>      1</b> aliénation (d’une propriété, d’un objet) ARSTT. <i>Rhet. 1, 5, 7</i>.<br><b>      2</b> action de devenir étranger à, <i>gén</i>. SPT. <i>Jer. 13, 27</i>.<p><b>Étym</b>. ἀπαλλοτριόω.`

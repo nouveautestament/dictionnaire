@@ -1,0 +1,1 @@
+lar[63955]=`<b>μελεο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>propr</i>. qui supporte des malheurs, infortuné, ESCHL. <i>Sept. 964</i>.<p><b>Étym</b>. μέλεος, πάθος.`

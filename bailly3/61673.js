@@ -1,0 +1,1 @@
+lar[61673]=`<b>ου (ὁ)</b> = <i>lat</i>. Lucrētius, Lucrèce, <i>n. d’h. rom</i>. POL. <i>31, 12, etc.</i> ; PLUT. <i>Cam. 32, Popl. 16, etc</i>.`

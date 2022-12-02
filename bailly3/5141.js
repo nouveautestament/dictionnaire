@@ -1,0 +1,1 @@
+lar[5141]=`<b>ων (τὰ)</b> fête pour la capture des prisonniers de guerre, <i>à Tégée,</i> PAUS. <i>8, 47, 8</i>.<p><b>Étym</b>. ἁλωτός.`

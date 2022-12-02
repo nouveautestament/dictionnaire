@@ -1,0 +1,1 @@
+lar[40080]=`<b>ἐπ·ωμάδιος, ος, ον</b> <font color="purple">[ᾰ]</font> placé sur l’épaule, A. PL. <i>4, 108</i>.<p>➳ <i>Fém</i>. -ία, THCR. <i>Idyl. 29, 29</i>.<p><b>Étym</b>. ἐπί, ὦμος.`

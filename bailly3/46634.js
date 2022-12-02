@@ -1,0 +1,1 @@
+lar[46634]=`<b>θεό·δμητος, ος, ον :<br>      1</b> bâti, fondé par les dieux, IL. <i>8, 519</i> ; PD. <i>O. 6, 100</i> ; SOPH. <i>El. 707 ; fig</i>. PD. <i>O. 3, 11 ; I. 6, 15</i>.<br><b>      2</b> élevé en l’honneur des dieux, EUR. <i>Hec. 23</i>.<p>➳ <i>Dor</i>. -ατος <font color="purple">[ᾱ]</font> PD. <i>ll. cc. ; fém</i>. -άτα, PD. <i>O. 6, 100</i>.`

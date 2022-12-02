@@ -1,0 +1,1 @@
+lar[41383]=`<b>ἑτερο·ταγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se trouve autrement ordonné, PROCL. <i>Inst. theol. § 21</i>.<p><b>Étym</b>. ἕ. τάσσω.`

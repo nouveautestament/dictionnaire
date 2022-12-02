@@ -1,0 +1,1 @@
+lar[85862]=`<b>ή, όν :<br>      1</b> qui apporte, <i>gén</i>. GAL. ; <i>particul</i>. qui apporte un secours, qui aide, efficace, <i>avec</i> εἰς, <i>et l’acc</i>. PORPH. (EUS. <i>P.E. 113b</i>).<br><b>      2</b> qui ajoute (à sa vitesse) ; <i>p. suite,</i> qui accélère son cours, PROCL. <i>Ptol. p. 166, etc</i>.<p><b>Étym</b>. προστίθημι.`

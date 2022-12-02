@@ -1,0 +1,1 @@
+lar[104606]=`<b>ητος</b> (<i>genre inconnu</i>) Phagrès, <i>forteresse de Piérie,</i> HDT. <i>7, 112</i> ; THC. <i>2, 99, etc</i>.`

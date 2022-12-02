@@ -1,0 +1,1 @@
+lar[46715]=`<b>θεό·μητις, ιος (ὁ, ἡ)</b> inspiré par la sagesse divine, NONN. <i>Jo. 8, 43</i>.<p><b>Étym</b>. θ. μῆτις.`

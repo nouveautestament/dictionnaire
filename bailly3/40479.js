@@ -1,0 +1,1 @@
+lar[40479]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> semblable à Érinys <i>ou</i> aux Érinyes, PLUT. <i>M. 458b, 602d</i>.<p><b>Étym</b>. Ἐρινύς, -ωδης.`

@@ -1,0 +1,1 @@
+lar[31103]=`<b>ἐκ·βοάω-οῶ</b>, pousser un cri <i>ou</i> des cris, XÉN. <i>Cyn. 6, 10</i> ; POLYEN <i>13, 7, 48</i>.`

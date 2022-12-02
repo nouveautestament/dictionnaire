@@ -1,0 +1,1 @@
+lar[68096]=`<i>adv</i>., selon l’usage, CALLISTR. <i>Stat. p. 897</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> νομίζω.`

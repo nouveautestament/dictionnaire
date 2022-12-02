@@ -1,0 +1,1 @@
+lar[45295]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> Émathie, <i>anc. n. de la Macédoine,</i> STR. <i>329, etc</i>.<p>➳ <i>Ion</i>. -ίη, IL. <i>14, 226</i> ; HH. <i>Ap. 217, etc</i>.`

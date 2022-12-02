@@ -1,0 +1,1 @@
+lar[80066]=`<b>ηκος</b>, <i>adj. m</i>. habitant du dème Pèlèkes, ESCHN. <i>2, 83 ; 3, 139 Baiter-Sauppe</i>.<p><b>Étym</b>. Πήληκες.`

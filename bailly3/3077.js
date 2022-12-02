@@ -1,0 +1,1 @@
+lar[3077]=`<b>ἀ·καλλιέρητος, ος, ον</b>, dont les auspices ne sont pas favorables, non agréé des dieux, ESCHN. <i>72, 16 ; 75, 12</i>.<p><b>Étym</b>. ἀ, καλλιερέω.`

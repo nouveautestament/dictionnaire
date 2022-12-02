@@ -1,0 +1,1 @@
+lar[53778]=`<b>κατα·ψάλλω :<br>      1</b> charmer par les sons de la lyre, PLUT. <i>M. 785e.</i><br><b>      2</b> faire retentir des sons de la lyre, PLUT. <i>Ant. 56</i>.`

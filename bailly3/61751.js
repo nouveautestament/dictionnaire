@@ -1,0 +1,1 @@
+lar[61751]=`<i>adv</i>., pour aller en embuscade, IL. <i>1, 277</i> ; OD. <i>14, 317</i>.<p><b>Étym</b>. λόχος, -δε.`

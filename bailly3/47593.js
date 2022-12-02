@@ -1,0 +1,1 @@
+lar[47593]=`<b>Θρασύ·μαχος, ου (ὁ)</b> <font color="purple">[ᾰῠᾰ]</font> Thrasymakhos :<br><b>      1</b> <i>sophiste de Chalcédoine,</i> PLAT. <i>Rsp. 328b, etc.</i> ; ARSTT. <i>Soph. el. 33 ; Rhet. 3, 1 et 11, etc.</i><br><b>      2</b> <i>autres,</i> LYS. <i>8, 14</i> ; ESCHN. <i>Ep. 4, 6, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>cf</i>. θρασύμαχος.`

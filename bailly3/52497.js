@@ -1,0 +1,1 @@
+lar[52497]=`<b>κατα·καυχάομαι-ῶμαι</b>, traiter avec hauteur, SPT. <i>Zach. 10, 12 ; gén</i>. NT. <i>Rom. 11, 18, etc</i>.`

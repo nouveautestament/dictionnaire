@@ -1,0 +1,1 @@
+lar[5508]=`<b>ἀ·μετασάλευτος, ος, ον</b> <font color="purple">[σᾰ]</font> inébranlable, CLÉM. <i>201</i>.<p><b>Étym</b>. ἀ, μετασαλεύω.`

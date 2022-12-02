@@ -1,0 +1,1 @@
+lar[36065]=`<b>ος, ον</b>, qui concerne la sortie, le départ : ἐξ. νόμοι, CRAT. <i>fr. 170,</i> le finale d’une pièce lyrique.<p><b>Étym</b>. ἔξοδος.`

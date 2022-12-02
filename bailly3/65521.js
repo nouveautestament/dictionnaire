@@ -1,0 +1,1 @@
+lar[65521]=`<b>Μητί·οχος, ου (ὁ)</b> Mètiokhos, <i>h</i>. HDT. <i>6, 41</i> ; PLUT. <i>M. 811f ;</i> LUC. <i>Pseud. 25</i>.<p><b>Étym</b>. μῆτις, ἔχω.`

@@ -1,0 +1,1 @@
+lar[3166]=`<b>ἀ·κατάβλητος, ος, ον</b>, qu’on ne peut abattre <i>ou</i> réfuter, AR. <i>Nub. 1229</i>.<p><b>Étym</b>. ἀ, καταβάλλω.`

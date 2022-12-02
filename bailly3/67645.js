@@ -1,0 +1,1 @@
+lar[67645]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de nard, MÉN. (ATH. <i>691b</i>) ; TH. <i>Od. 4, 28</i> ; POL. <i>31, 4, 2</i>.<p><b>Étym</b>. νάρδος.`

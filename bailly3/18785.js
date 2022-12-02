@@ -1,0 +1,1 @@
+lar[18785]=`<b>βαθυ·πλεκής, ής, ές</b> <font color="purple">[ᾰυ]</font> tressé en réseau épais, OPP. <i>H. 4, 638</i>.<p><b>Étym</b>. β. πλέκω.`

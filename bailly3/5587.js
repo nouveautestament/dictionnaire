@@ -1,0 +1,1 @@
+lar[5587]=`<i>adv</i>., sans mélange, ALCIPHR. <i>2, 1, 4</i>.<p>•<i> Sup</i>. -ότατα, PLAT. <i>Phil. 59c</i>.<p><b>Étym</b>. ἄμικτος.`

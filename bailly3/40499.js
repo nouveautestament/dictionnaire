@@ -1,0 +1,1 @@
+lar[40499]=`<b>ιδος (ἡ)</b> la Discorde <i>personnifiée,</i> IL. <i>4, 440 ; 5, 518, etc.</i> ; HÉS. <i>Th. 225, Sc. 148, 156</i> ; EUR. <i>Ph. 798</i>.<p>➳ <i>Acc</i>. Ἔριδα, IL. <i>11, 3</i> ; Q. SM. <i>1, 166, ou</i> Ἔριν, HÉS. <i>l. c.</i> ; ESCHL. <i>Sept. 429</i> ; NONN. <i>D. 32, 177</i> ; PAUS. <i>5, 19, 2</i>.<p><b>Étym</b>. <i>cf</i>. ἔρις.`

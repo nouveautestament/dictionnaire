@@ -1,0 +1,1 @@
+lar[18434]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. Ἀχερόντιος CALL. <i>fr. 110</i>.`

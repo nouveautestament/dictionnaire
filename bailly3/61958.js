@@ -1,0 +1,1 @@
+lar[61958]=`<b>λυπησί·λογος, ος, ον</b> <font color="purple">[ῡῐ]</font> au bavardage insupportable, CRAT. (<i>Com. fr. 2, 190).</i><p><b>Étym</b>. λυπέω, λόγος.`

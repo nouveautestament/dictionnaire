@@ -1,0 +1,1 @@
+lar[44792]=`<b>ζῳόω-ζῳῶ</b>, remplir de vers, <i>d’où au pass</i>. fourmiller de vers, TH. <i>C.P. 5, 18, 2</i>.<p><b>Étym</b>. ζῷον.`

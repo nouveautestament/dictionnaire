@@ -1,0 +1,1 @@
+lar[86305]=`<b>προσ·περιορίζομαι</b>, embrasser (<i>litt</i>. enfermer dans des limites) en outre, <i>acc</i>. LGN <i>28, 3</i>.<p><b>Étym</b>. π. περιορίζω.`

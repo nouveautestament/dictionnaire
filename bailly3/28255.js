@@ -1,0 +1,1 @@
+lar[28255]=`<b>δυσ·βάστακτος, ος, ον</b>, difficile à supporter, accablant, PLUT. <i>M. 915f ;</i> SPT. <i>Prov. 27, 3</i> ; NT. <i>Matth. 23, 4 ; fig. en parl. de choses,</i> CHRYS. <i>2, 512 ; en parl. de pers</i>. insupportable, PHIL. <i>2, 449</i>.<p><b>Étym</b>. δ. βαστάζω.`

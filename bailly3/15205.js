@@ -1,0 +1,1 @@
+lar[15205]=`<b>Ἀρσακὶς λίμνη (ἡ)</b> le lac Arsakis <i>en Arménie,</i> Ps.-PLUT. <i>Fluv. 34</i>.`

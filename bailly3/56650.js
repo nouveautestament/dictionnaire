@@ -1,0 +1,1 @@
+lar[56650]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> (<i>seul. gén. sg</i>.) :<br><b>      1</b> petite pièce de monnaie, AR. <i>Pax 1200</i> ; EUP. (SCH.-AR. <i>Pax 1176) etc.</i><br><b>      2</b> petit poids, TH. <i>Lap. 46</i>.`

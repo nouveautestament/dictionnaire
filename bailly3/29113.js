@@ -1,0 +1,1 @@
+lar[29113]=`<b>δωδεκα·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui rapporte douze fois par an, LUC. <i>V.H. 2, 13</i>.<p><b>Étym</b>. δ. φέρω.`

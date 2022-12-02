@@ -1,0 +1,1 @@
+lar[47819]=`<b>θυελλο·τόκος, ου</b>, <i>adj. f</i>. qui enfante les tempêtes, NONN. <i>D. 28, 277</i>.<p><b>Étym</b>. θ. τίκτω.`

@@ -1,0 +1,1 @@
+lar[86520]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> application d’un corps sur un autre, P. ÉG.<p><b>Étym</b>. προστυπόω.`

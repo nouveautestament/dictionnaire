@@ -1,0 +1,1 @@
+lar[100739]=`<b>α, ον</b> <font color="purple">[ῐ]</font> du maître <i>ou</i> de la maîtresse de maison : αἱ τροφιμαῖαι, PHIL. <i>2, 443,</i> les filles de la maison.<p><b>Étym</b>. τρόφιμος.`

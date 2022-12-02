@@ -1,0 +1,1 @@
+lar[27111]=`<b>δι·υλίζω</b> <font color="purple">[ῡ]</font> passer à la chausse, clarifier, purifier, PLUT. <i>M. 692d ;</i> DIOSC. <i>5, 82</i> ; NT. <i>Matth. 23, 24 ; fig. en parl. de la vertu,</i> ARCHYT. (STOB. <i>Fl. 13, 40).</i><p>➳ <i>Part. pf. pass. acc. fém. dor</i>. -ισμέναν, ARCHYT. <i>l. c</i>.<p><b>Étym</b>. διά, ὑ.`

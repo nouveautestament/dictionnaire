@@ -1,0 +1,1 @@
+lar[15450]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> assaisonné, DIOSC. <i>2, 107</i>.<p><b>Étym</b>. ἀρτύω.`

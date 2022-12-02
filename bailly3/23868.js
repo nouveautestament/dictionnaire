@@ -1,0 +1,1 @@
+lar[23868]=`<b>δενδροφυέω</b> <font color="purple">[ῠ]</font> (<i>seul. part. prés. fém</i>. -φυούσης) produire des arbres, PORPH. <i>Abst. 2, 5</i>.<p><b>Étym</b>. δενδροφυής.`

@@ -1,0 +1,1 @@
+lar[36164]=`<b>ἐξ·οπίστω</b>, <i>barbarisme d’un Scythe p</i>. ἐξόπισθεν, AR. <i>Th. 1124</i>.`

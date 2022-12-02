@@ -1,0 +1,1 @@
+lar[89465]=`<b>σαρκοφορέω-ῶ</b>, être revêtu de chair, incarné, CLÉM. <i>251</i>.<p><b>Étym</b>. σαρκοφόρος.`

@@ -1,0 +1,1 @@
+lar[42186]=`<b>ων, ον</b>, bien allaité. bien nourri, ANTH. <i>6, 263</i>.<p><b>Étym</b>. εὐθηλέω.`

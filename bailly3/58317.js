@@ -1,0 +1,1 @@
+lar[58317]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui ressemble à une tasse, ATH. <i>482a</i>.<p><b>Étym</b>. κύαθος, -ωδης.`

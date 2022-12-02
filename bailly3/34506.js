@@ -1,0 +1,1 @@
+lar[34506]=`<b>ή, όν</b>, animé d’un transport divin, inspiré, PLAT. <i>Leg. 682 a dout</i>.<p><b>Étym</b>. ἐνθεάζω.`

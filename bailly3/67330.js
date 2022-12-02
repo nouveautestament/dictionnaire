@@ -1,0 +1,1 @@
+lar[67330]=`<b>μυρο·σταγής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui distille des parfums, ANON. (SUID. <i>v°</i> ἀναδούμενος).<p><b>Étym</b>. μύρον, στάζω.`

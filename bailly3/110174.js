@@ -1,0 +1,1 @@
+lar[110174]=`<b>ὠκυ·δρόμος, ος, ον</b>, agile à la course, ARION (<i>Bgk. Poet. lyr. p. 567</i>) ; EUR. <i>Bacch. 871</i> ; ORPH. <i>H. 68, 9</i>.<p>•<i> Sup</i>. ὠκυδρομώτατος, PHIL.<p><b>Étym</b>. ὠ. δραμεῖν.`

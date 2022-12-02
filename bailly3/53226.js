@@ -1,0 +1,1 @@
+lar[53226]=`<b>ή, όν</b>, qui commence : τὸ καταρκτικὸν αἴτιον, PLUT. <i>M. 1056b</i>, la cause première.<p><b>Étym</b>. κατάρχω.`

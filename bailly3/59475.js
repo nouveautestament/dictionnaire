@@ -1,0 +1,1 @@
+lar[59475]=`<b>λαθί·πονος, ος, ον</b> <font color="purple">[ᾱῐ]</font><br><b>      1 <i>intr</i></b>. qui oublie sa douleur, SOPH. <i>Aj. 711</i>.<br><b>      2 <i>tr</i></b>. qui fait oublier la douleur, SOPH. <i>Tr. 1021</i>.<p><b>Étym</b>. <i>dor. c</i>. *ληθίπονος, <i>de</i> λήθη <i>et</i> πόνος.`

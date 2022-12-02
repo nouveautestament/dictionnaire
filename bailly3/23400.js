@@ -1,0 +1,1 @@
+lar[23400]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> abondance, ARSTT. <i>H.A. 6, 18, 7 ; G.A. 5, 3, 12</i> ; POL. <i>2, 15, 2 ; etc</i>.<p><b>Étym</b>. δαψιλής.`

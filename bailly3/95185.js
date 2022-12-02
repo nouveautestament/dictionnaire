@@ -1,0 +1,1 @@
+lar[95185]=`<b>εως (ἡ)</b> action de passer la journée ensemble, PLUT. <i>Demetr. 32</i>.`

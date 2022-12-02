@@ -1,0 +1,1 @@
+lar[27428]=`<b>δολιχή·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux longs pieds, NUMÉN. (ATH. <i>305a</i>).<p><b>Étym</b>. δολιχός, πούς.`

@@ -1,0 +1,1 @@
+lar[85348]=`<b>εως (ἡ)</b> action de regarder en face, de considérer, PLUT. <i>M. 45c</i>.<p><b>Étym</b>. προσβλέπω.`

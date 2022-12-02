@@ -1,0 +1,1 @@
+lar[79821]=`<b>εντος</b>, <i>p. contr</i>. <b>Πεσσινοῦς, οῦντος (ἡ)</b> <font color="purple">[ῐ]</font> Pessinunte (<i>auj</i>. ruines près de Ballıhisar) <i>v. de Galatie,</i> POL. <i>22, 20</i> ; PLUT. <i>Mar. 17, etc</i>.<p>➳ ὁ Π. HDN <i>1, 11, 2, etc.</i> ; Πεσσινόεις, ANTH. <i>6, 220</i>.`

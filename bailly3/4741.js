@@ -1,0 +1,1 @@
+lar[4741]=`<b>ἀλληλό·τροπος, ος, ον</b>, qui prennent la forme l’un de l’autre, LIN. (STOB. <i>Ecl. 1, 282).</i><p><b>Étym</b>. ἀ. τρέπω.`

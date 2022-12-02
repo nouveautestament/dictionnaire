@@ -1,0 +1,1 @@
+lar[67613]=`<b>ου (ἡ)</b> Nannion, <i>propr</i>. « poupon », <i>f</i>. ANTH. <i>5, 207</i>.<p><b>Étym</b>. <i>dim. de</i> νάννος.`

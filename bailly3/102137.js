@@ -1,0 +1,1 @@
+lar[102137]=`<b>ὑπ·εκ·προφεύγω</b>, s’enfuir secrètement, IL. <i>20, 147 ; 21, 44</i> ; OD. <i>20, 43 ; avec l’acc</i>. échapper à, éviter en fuyant, OD. <i>12, 113</i> ; HÉS. <i>Sc. 42</i>.`

@@ -1,0 +1,1 @@
+lar[31092]=`<b>ἔκ·βιος, ος, ον</b> <font color="purple">[ῐ]</font> privé de vie, ARTÉM. <i>4, 32</i>.<p><b>Étym</b>. ἐκ, βίος.`

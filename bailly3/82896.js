@@ -1,0 +1,1 @@
+lar[82896]=`<i>adv. interr</i>. vers quel endroit ? <i>avec mouv</i>. IL. <i>16, 422</i> ; OD. <i>6, 199 ; 10, 431</i>.<p><b>Étym</b>. *πός.`

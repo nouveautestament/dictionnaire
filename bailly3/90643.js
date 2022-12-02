@@ -1,0 +1,1 @@
+lar[90643]=`<b>ας (ἡ)</b> scammonée (<i>Convolvulus scammonia</i> L.) <i>plante purgative,</i> ARSTT. <i>Probl. 1, 41, 43</i> ; DIOSC. <i>4, 171</i>.`

@@ -1,0 +1,1 @@
+lar[37405]=`<b>ἐπι·βρύκω</b> <font color="purple">[ῡ]</font> faire grincer : ὀδόντας, ANTH. <i>7, 433,</i> les dents ; <i>d’où abs</i>. grincer des dents, ARCHIPP. <i>fr. 36</i>.`

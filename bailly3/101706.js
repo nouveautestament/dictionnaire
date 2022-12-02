@@ -1,0 +1,1 @@
+lar[101706]=`<b>ὑλη·γενής, ής, ές</b> <font color="purple">[ῡ]</font> formé de matière, matériel, SYN. <i>Hymn. 3, 4</i>.<p><b>Étym</b>. ὕλη, γένος.`

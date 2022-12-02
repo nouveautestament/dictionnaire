@@ -1,0 +1,1 @@
+lar[16522]=`<b>ἀ·σύνθηκος, ος, ον</b>, infidèle à une convention, ONOS. <i>37</i>.<p><b>Étym</b>. ἀ, συνθήκη.`

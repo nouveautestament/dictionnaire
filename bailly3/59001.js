@@ -1,0 +1,1 @@
+lar[59001]=`<b>ου (ὁ)</b> tout objet tressé et convexe, <i>particul.</i> :<br><b>      1</b> nasse de pêcheur, PLAT. <i>Soph. 220c, Leg. 823e, etc.</i><br><b>      2</b> cage, ANTH. <i>9, 562</i>.<p><b>Étym</b>. κυρτός.`

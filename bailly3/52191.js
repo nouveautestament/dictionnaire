@@ -1,0 +1,1 @@
+lar[52191]=`<b>κατά·γαιος, ος, ον :<br>      1</b> souterrain, HDT. <i>2, 150 ; 3, 97, etc.</i> ; PAUS. <i>2, 23</i>.<br><b>      2</b> qui vit sur terre, terrestre, HDT. <i>4, 192 ; 6, 175</i>.<p><b>Étym</b>. κ. γαῖα, <i>cf</i>. κατάγειος.`

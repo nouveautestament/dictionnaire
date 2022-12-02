@@ -1,0 +1,1 @@
+lar[50549]=`<b>καινό·δοξος, ος, ον</b>, qui médite des innovations, qui veut innover, NAZ. <i>3, 1152 Migne</i>.<p><b>Étym</b>. κ. δόξα.`

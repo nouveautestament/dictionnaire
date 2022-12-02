@@ -1,0 +1,1 @@
+lar[106999]=`<b>ωνος (ὁ)</b> <font color="purple">[ῡ]</font> Phryniôn, <i>h</i>. PLAT. <i>Ep. 358b, etc</i>.`

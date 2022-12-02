@@ -1,0 +1,1 @@
+lar[31028]=`<b>ἑκατοντα·κέφαλος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à cent têtes, JUL. <i>Ep. 180</i>.<p><b>Étym</b>. ἑ. κεφαλή.`

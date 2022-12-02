@@ -1,0 +1,1 @@
+lar[98535]=`<b>τετρά·γναθος, ος, ον</b> <font color="purple">[νᾰ]</font> à quatre mâchoires ; <i>subst</i>. τὸ τετράγναθον, STR. <i>772</i> ; EL. <i>N.A. 17, 40, sorte d’araignée venimeuse</i>.<p><b>Étym</b>. τ. γνάθος.`

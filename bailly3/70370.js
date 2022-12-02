@@ -1,0 +1,1 @@
+lar[70370]=`<b>ορος (ὁ)</b> <i>c</i>. οἰκιστήρ, PORPH. (STOB. <i>Ecl. phys. p. 52 Mein</i>.).`

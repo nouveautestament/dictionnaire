@@ -1,0 +1,1 @@
+lar[76978]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Parménis, <i>f</i>. ANTH. <i>5, 247</i>.`

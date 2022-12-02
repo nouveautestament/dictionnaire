@@ -1,0 +1,1 @@
+lar[95527]=`<b>συν·εξερύω</b>, tirer dehors avec <i>ou</i> en même temps, ANTH. <i>6, 57</i>.`

@@ -1,0 +1,1 @@
+lar[45570]=`<b>ἡμι·στρόγγυλος, ος, ον</b> <font color="purple">[ῠ]</font> à moitié rond, LUC. <i>Oc. 97</i>.<p><b>Étym</b>. ἡμι-, στρογγύλος.`

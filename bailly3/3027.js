@@ -1,0 +1,1 @@
+lar[3027]=`<b>εως (ἡ)</b> action d’élever <i>ou</i> de suspendre, PLAT. <i>Tim. 89a</i>.`

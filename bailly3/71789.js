@@ -1,0 +1,1 @@
+lar[71789]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui est encore vert, <i>fig</i>. non mûr, non encore formé, ARISTÉN. <i>2, 7 ; subst</i>. τὸ ὀμφάκιον :<br><b>      1</b> verjus, DIOSC. <i>5, 7</i>.<br><b>      2</b> huile faite d’olives encore vertes, HPC. <i>407</i>.<p><b>Étym</b>. ὄμφαξ.`

@@ -1,0 +1,1 @@
+lar[81468]=`<b>ποιό·νομος, ος, ον</b>, riche en pâturages, ESCHL. <i>Suppl. 50</i>.<p><b>Étym</b>. ποία, νέμω.`

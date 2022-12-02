@@ -1,0 +1,1 @@
+lar[48463]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> :<br><b>      1</b> de condition privée, JOS. <i>A.J. 8, 11, 1, et p. suite,</i> de condition simple, ordinaire, APP. <i>Civ. 4, 16 et 95</i>.<br><b>      2</b> ignorante, vulgaire, ALCIPHR. <i>2, 4, 19</i>.<p><b>Étym</b>. <i>fém. de</i> ἰδιώτης.`

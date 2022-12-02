@@ -1,0 +1,1 @@
+lar[97913]=`<b>ταχύ·ποτμος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> <i>c</i>. ταχύμορος, PD. <i>O. 1, 107</i>.<br><b>      2</b> qui apporte une mort prompte, NONN. <i>Jo. 7, 33</i>.<p><b>Étym</b>. τ. πότμος.`

@@ -1,0 +1,1 @@
+lar[20912]=`<b>*βρύξ (ἡ)</b> <i>seul. acc</i>. βρύχα, abîme de la mer, OPP. <i>H. 2, 588</i>.<p><b>Étym</b>. <i>inconnue</i>.`

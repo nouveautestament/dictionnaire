@@ -1,0 +1,1 @@
+lar[36410]=`<b>ἐπ·αίθω</b> (<i>seul. prés</i>.) faire brûler, <i>d’où au pass</i>. se consumer, ANTH. <i>7, 48</i>.`

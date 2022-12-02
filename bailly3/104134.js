@@ -1,0 +1,1 @@
+lar[104134]=`<b>ὑπο·φωλεύω</b>, habiter dans des cavernes, <i>d’où</i> se cacher sous, <i>dat</i>. ANTH. <i>7, 375</i>.`

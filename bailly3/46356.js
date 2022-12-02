@@ -1,0 +1,1 @@
+lar[46356]=`<b>αντος (ὁ)</b> Thaumas, <i>n. myth</i>. HÉS. <i>Th. 235, 265, 780</i> ; PLAT. <i>Theæt. 155d</i>.<p><b>Étym</b>. θαῦμα.`

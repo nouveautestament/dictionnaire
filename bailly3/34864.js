@@ -1,0 +1,1 @@
+lar[34864]=`<b>ἐν·ορούω</b>, s’élancer, se jeter sur, <i>dat</i>. IL. <i>10, 486 ; 16, 783</i>.`

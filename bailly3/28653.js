@@ -1,0 +1,1 @@
+lar[28653]=`<i>adv</i>., avec malveillance <i>ou</i> hostilité, en ennemi, XÉN. <i>Hell. 5, 3, 27</i> ; PLAT. <i>Theæt. 168b ;</i> ISOCR. <i>129e, 297e</i>.<p>➳ <i>Ion</i>. δυσμενέως, NONN. <i>D. 21, 85</i>.<p><b>Étym</b>. δυσμενής.`

@@ -1,0 +1,1 @@
+lar[74723]=`<b>πάμ·μορος, ος, ον</b>, tout à fait malheureux, infortuné, SOPH. <i>O.C. 161</i>.<p><b>Étym</b>. π. μόρος.`

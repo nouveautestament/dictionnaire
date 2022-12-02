@@ -1,0 +1,1 @@
+lar[45079]=`<b>ωνος (ὁ)</b> Èétiôn :<br><b>      1</b> <i>roi des Ciliciens,</i> IL. <i>1, 366 ; 6, 395</i>.<br><b>      2</b> <i>Troyen,</i> IL. <i>17, 575</i>.<br><b>      3</b> <i>guerrier d’Imbros,</i> IL. <i>21, 43</i>.<br><b>      4</b> <i>autres,</i> HDT. <i>5, 92</i> ; CALL. <i>Ep. 25, 1, etc</i>.<p>➳ <i>Dor</i>. Ἀετίων.`

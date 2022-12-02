@@ -1,0 +1,1 @@
+lar[72756]=`<b>ὀρθο·στάτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui se tient droit, <i>d’où subst.</i> :<br><b>      1</b> colonne, EUR. <i>Ion 1134, etc.</i><br><b>      2</b> gâteau qu’on offrait dans les sacrifices funéraires, EUR. <i>Hel. 547</i>.<p><b>Étym</b>. ὀρθός, ἵστημι.`

@@ -1,0 +1,1 @@
+lar[102906]=`<b>ὑπερ·χρήματος, ος, ον</b> <font color="purple">[ᾰ]</font> excessivement riche, OCELL. <i>4, 6</i>.<p><b>Étym</b>. ὑ. χρῆμα.`

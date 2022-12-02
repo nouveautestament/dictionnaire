@@ -1,0 +1,1 @@
+lar[83715]=`<b>προ·ασκέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. προήσκησα)</font> exercer avant, <i>gén</i>. ARSTT. <i>Metaph. 1, 1, 3 ; abs</i>. exercer d’avance <i>ou</i> auparavant, ISOCR. <i>56a</i>.`

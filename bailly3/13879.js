@@ -1,0 +1,1 @@
+lar[13879]=`<b>ἀ·πρεπής, ής, ές</b>, qui ne convient pas, malséant, inconvenant, ATT. ; τὸ ἀπρεπές, <i>c</i>. ἀπρέπεια, THC. <i>5, 46 ; 6, 11</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Rhet. 3, 2 et 3. • Sup</i>. -έστατος, THC. <i>7, 68</i> ; PLAT. <i>Rsp. 398e</i>.<p><b>Étym</b>. ἀ, πρέπω.`

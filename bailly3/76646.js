@@ -1,0 +1,1 @@
+lar[76646]=`<b>παρ·ελαττόω-ῶ</b>, amoindrir, diminuer, CHRYS.`

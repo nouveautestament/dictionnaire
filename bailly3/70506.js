@@ -1,0 +1,1 @@
+lar[70506]=`<b>ου (ὁ)</b> petit vin, CRAT. (<i>Com. fr. 2, 117</i>) ; EUB. <i>3, 265 Meineke</i>.<p><b>Étym</b>. οἶνος.`

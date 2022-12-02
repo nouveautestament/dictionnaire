@@ -1,0 +1,1 @@
+lar[71784]=`<b>α, ον</b>, prophétique, NONN. <i>D. 9, 284 ; subst</i>. ἡ ὀμφαίη, EMPÉD. <i>28 Mullach,</i> la divinité prophétique.<p><b>Étym</b>. ὀμφή.`

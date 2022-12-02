@@ -1,0 +1,1 @@
+lar[25040]=`<b>εως (ἡ)</b> action de mesurer pour distribuer, <i>d’où</i> distribution de parts, PLUT. <i>M. 785c ;</i> SPT. <i>Ezech. 42, 15 ; Par. 2, 4, 2</i>.<p><b>Étym</b>. διαμετρέω.`

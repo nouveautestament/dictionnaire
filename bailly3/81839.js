@@ -1,0 +1,1 @@
+lar[81839]=`<b>πολύ·δενδρος, ος, ον</b> <font color="purple">[ῠ]</font> abondant en arbres, STR. <i>286</i>.<p>➳ <i>Dat. pl. hétérocl</i>. πολυδένδρεσσι, EUR. <i>Bacch. 560</i>.<p><b>Étym</b>. π. δένδρον.`

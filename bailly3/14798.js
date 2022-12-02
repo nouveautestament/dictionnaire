@@ -1,0 +1,1 @@
+lar[14798]=`<b>ἀρκεσί·γυιος, ος, ον</b> <font color="purple">[σῐ]</font> qui fortifie les membres, EUR. (ANTIPH. <i>fr. 207, 7 Kock).</i><p><b>Étym</b>. ἀρκέω, γυῖον.`

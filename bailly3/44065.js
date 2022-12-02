@@ -1,0 +1,1 @@
+lar[44065]=`<b>ητος (ἡ)</b> épuisement, décrépitude, HPC. <i>Acut. 392</i>.<p><b>Étym</b>. ἑφθός.`

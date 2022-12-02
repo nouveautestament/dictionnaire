@@ -1,0 +1,1 @@
+lar[359]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀγάπησις, MÉN. <i>(Bkk. 342</i>).`

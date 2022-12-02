@@ -1,0 +1,1 @@
+lar[38957]=`<i>adv</i>., d’une manière distinguée <i>ou</i> remarquable, POL. <i>6, 39, 6</i>.<p>•<i> Cp</i>. -οτέρως, ARTÉM. <i>2, 9</i>.`

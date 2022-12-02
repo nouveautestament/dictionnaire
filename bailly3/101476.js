@@ -1,0 +1,1 @@
+lar[101476]=`<b>ὑδατό·χροος, οος, οον</b> <font color="purple">[ῠᾰ]</font> de la couleur de l’eau, HPC. <i>986a, 1110g</i>.<p><b>Étym</b>. ὕδ. χρόα.`

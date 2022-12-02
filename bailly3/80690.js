@@ -1,0 +1,1 @@
+lar[80690]=`<b>πλαστο·κόμης, ου</b>, <i>adj. m</i>. qui a de faux cheveux, MAN. <i>4, 304</i>.<p><b>Étym</b>. πλ. κόμη.`

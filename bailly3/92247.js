@@ -1,0 +1,1 @@
+lar[92247]=`<b>σταχυόω-ῶ</b> (<i>part. pf. pass</i>. ἐσταχυωμένος) <font color="purple">[ᾰ]</font> produire un épi, <i>d’où au pass</i>. monter en épi, DIOSC. <i>4, 1</i>.<p><b>Étym</b>. στάχυς.`

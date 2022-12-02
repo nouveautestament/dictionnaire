@@ -1,0 +1,1 @@
+lar[56092]=`<b>ή, όν</b> <font color="purple">[ῐτ]</font> qui concerne la flexion (déclinaison, conjugaison, augment, <i>etc.) t. de gramm</i>. DYSC. <i>Synt. p. 180, 28</i>.<p><b>Étym</b>. κλίνω.`

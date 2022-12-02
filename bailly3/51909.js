@@ -1,0 +1,1 @@
+lar[51909]=`<b>ης (ἡ)</b> sorte de buglosse, <i>plante,</i> CLITOPH. (STOB. <i>Fl. 100, 20</i>).`

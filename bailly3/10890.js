@@ -1,0 +1,1 @@
+lar[10890]=`<b>ἀξι·άκουστος, ος, ον</b> <font color="purple">[ᾰκ]</font> digne d’être entendu <i>ou</i> écouté, XÉN. <i>Conv. 4, 44</i>.<p><b>Étym</b>. ἄ. ἀκούω.`

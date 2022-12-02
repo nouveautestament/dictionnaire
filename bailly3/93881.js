@@ -1,0 +1,1 @@
+lar[93881]=`<b>ου (τὸ)</b> Symbolon, <i>lieu de Thrace,</i> PLUT. <i>Brut. 38, etc</i>.`

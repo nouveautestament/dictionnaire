@@ -1,0 +1,1 @@
+lar[46973]=`<b>θερμο·χύτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> vase pour boissons chaudes, ANTH. <i>9, 587</i>.<p><b>Étym</b>. θ. χέω.`

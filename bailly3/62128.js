@@ -1,0 +1,1 @@
+lar[62128]=`<i>ou</i> <b>λύχνιον, ου (τὸ)</b> <i>dim. de</i> λύχνος, DIOCL. <i>et</i> ANTIPH. (ATH. <i>206e, 666f</i>) ; THCR. <i>Idyl. 21, 36</i> ; PLUT. <i>Cim. 6</i> ; LUC. <i>Conv. 46</i>.`

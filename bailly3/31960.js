@@ -1,0 +1,1 @@
+lar[31960]=`<b>ἐκ·προχέω</b> (<i>seul. prés</i>.) épancher, répandre, <i>acc</i>. ORPH. <i>Arg. 573 ; fig. en parl. de la voix,</i> ANTH. <i>7, 201</i>.`

@@ -1,0 +1,1 @@
+lar[16486]=`<b>ἀ·σύναρθρος, ος, ον</b>, non accompagné d’un article, DYSC. <i>Synt. 101</i>.`

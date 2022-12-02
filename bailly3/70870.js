@@ -1,0 +1,1 @@
+lar[70870]=`<b>ὀκτω·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> de huit doigts d’épaisseur, AR. <i>Lys. 109</i>.<p><b>Étym</b>. ὀ. δάκτυλος.`

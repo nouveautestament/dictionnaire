@@ -1,0 +1,1 @@
+lar[93382]=`<b>συγ·κατατρίβω</b> <font color="purple">[ῑ]</font> déchirer avec, PLUT. <i>Cleom. 26 dout</i>.`

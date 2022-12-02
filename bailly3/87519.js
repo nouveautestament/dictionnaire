@@ -1,0 +1,1 @@
+lar[87519]=`<b>ης (ἡ)</b> Pydna, <i>v. de Macédoine,</i> THC. <i>1, 61, etc</i>.`

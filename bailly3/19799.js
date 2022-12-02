@@ -1,0 +1,1 @@
+lar[19799]=`<b>ή, όν</b>, des Bisaltes, THC. <i>4, 109</i> ; οἱ β. DS. <i>12, 68,</i> les Bisaltes.<p><b>Étym</b>. βισάλται.`

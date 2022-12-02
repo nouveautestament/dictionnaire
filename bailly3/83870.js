@@ -1,0 +1,1 @@
+lar[83870]=`<b>οῦ</b>, <i>ou</i> <b>πρόγονος, ου (ὁ, ἡ)</b> enfant né d’un premier mariage, <i>au masc</i>. beau-fils (<i>lat</i>. privignus) EUR. <i>Ion</i> 1329 ; DH. <i>Isocr</i>. 18 ; LUC. <i>Cal</i>. 26 ; <i>au fém</i>. ἡ πρόγονος, IS. <i>Euph</i>. § 5 ; PLUT. <i>Pomp</i>. 9 ; <i>postér</i>. <b>ἡ προγόνη</b>, PHIL. 2.303, belle-fille.<p><b>Étym</b>. προγίγνομαι.`

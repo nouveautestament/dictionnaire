@@ -1,0 +1,1 @@
+lar[67554]=`<b>εως (ἡ)</b> imbécillité, folie, HPC. <i>69g</i>.<p><b>Étym</b>. μωρόω.`

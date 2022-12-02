@@ -1,0 +1,1 @@
+lar[42147]=`<b>εὐ·θαγής</b> <font color="purple">[ᾱ]</font> <i>c</i>. εὐθηγής, ANTH. <i>6, 204 dout</i>.`

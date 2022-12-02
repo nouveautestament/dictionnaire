@@ -1,0 +1,1 @@
+lar[18759]=`<b>βαθύ·κληρος, ος, ον</b> <font color="purple">[ᾰυ]</font><br><b>      1</b> qui a un lot profond, <i>càd</i>. opulent, HOM. <i>Ep. 16</i>.<br><b>      2</b> <i>p. ext. en parl. du sol lui-même,</i> riche, opulent, COL. <i>214</i> ; MAN. <i>3, 229</i>.<p><b>Étym</b>. β. κλῆρος.`

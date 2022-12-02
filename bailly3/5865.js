@@ -1,0 +1,1 @@
+lar[5865]=`<font color="darkgreen"><i>(f</i>. εύσω, <i>ao</i>. ἤμπρευσα, <i>pf. inus.)</i></font> traîner au moyen d’une longe, traîner, <i>en gén</i>. CALL. <i>fr. 234 ; fig</i>. λυπρὸν βίον ἀ. LYC. <i>975,</i> traîner une vie misérable (ἄμπρον, longe, SUID.).`

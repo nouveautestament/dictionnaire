@@ -1,0 +1,1 @@
+lar[50679]=`<b>κακο·βλαστής, ής, ές</b> <font color="purple">[ᾰ]</font> qui pousse mal, TH. <i>C.P. 1, 20, 6, etc., v</i>. κακοβλαστέω.<p><b>Étym</b>. κ. βλαστάνω.`

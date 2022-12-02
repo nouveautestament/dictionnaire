@@ -1,0 +1,1 @@
+lar[98779]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> semblable à la seiche, ATH. <i>318f</i>.<p><b>Étym</b>. τευθίς, -ωδης.`

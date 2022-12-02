@@ -1,0 +1,1 @@
+lar[23045]=`<b>δακρυό·τιμος, ος, ον</b> <font color="purple">[αῠῑ]</font> honoré par des larmes, ORPH. <i>H. 55, 6</i>.<p><b>Étym</b>. δ. τιμή.`

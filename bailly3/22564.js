@@ -1,0 +1,1 @@
+lar[22564]=`<b>ου (ὁ)</b> = <i>lat</i>. Gracchus, <i>h</i>. DS. <i>29, 29</i> ; DH. <i>10, 22</i> ; PLUT. <i>T. Gracch. 1, etc.</i> ; οἱ Γράκχοι, PLUT. <i>T. Gracch. 4, etc</i>. les Gracques.`

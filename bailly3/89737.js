@@ -1,0 +1,1 @@
+lar[89737]=`<b>οῦ (ὁ)</b> épilepsie, MOSCHION <i>Mul. pass. 129, p. 69 ; d’où</i> don de prédire, faculté de divination, DIOSC. <i>Noth. 478f</i>.<p><b>Étym</b>. σεληνιάζω.`

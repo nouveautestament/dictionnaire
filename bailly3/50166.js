@@ -1,0 +1,1 @@
+lar[50166]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> poursuite dans un combat, mêlée, IL. <i>8, 89, 158</i> ; HÉS. <i>Th. 683</i>.<p><b>Étym</b>. ἰωκή.`

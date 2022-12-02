@@ -1,0 +1,1 @@
+lar[60414]=`<b>λεπτό·κνημος, ος, ον</b>, aux jambes grêles, ADAM. <i>Physiogn. p. 374</i>.<p><b>Étym</b>. λ. κνήμη.`

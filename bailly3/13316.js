@@ -1,0 +1,1 @@
+lar[13316]=`<b>ἀπό·σκηνος, ος, ον</b>, qui vit à part, <i>litt</i>. sous une tente à part, XÉN. <i>Cyr. 8, 7, 14</i>.<p><b>Étym</b>. ἀ. σκηνή.`

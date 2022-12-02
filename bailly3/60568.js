@@ -1,0 +1,1 @@
+lar[60568]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de giroflée ; ὁ λ. (<i>s.-e</i>. στέφανος) ANTH. <i>11, 34,</i> couronne de giroflée ; τὸ λευκόϊνον HICÉS. (ATH. <i>689d</i>) essence <i>ou</i> huile de giroflée.<p><b>Étym</b>. λευκόϊον.`

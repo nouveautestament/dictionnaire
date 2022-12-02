@@ -1,0 +1,1 @@
+lar[96248]=`<i>adv</i>., en tenant étroitement serré, ANTH. <i>9, 343</i>.<p><b>Étym</b>. σύνοχος, -δον.`

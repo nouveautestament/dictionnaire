@@ -1,0 +1,1 @@
+lar[47044]=`<b>οῦ (ὁ)</b> devin, prophète, MAN. <i>6, 378</i> ; CHRYS. <i>7, 331</i>.<p><b>Étym</b>. θεσπίζω.`

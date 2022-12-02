@@ -1,0 +1,1 @@
+lar[81873]=`<b>Πολύ·ειδος, ου (ὁ)</b> Polyeidos :<br><b>      1</b> <i>devin,</i> IL. <i>5, 148</i> ; PLAT. <i>Ep. 311a, etc.</i><br><b>      2</b> <i>autres,</i> ARSTT. <i>Poet. 16, 17, etc</i>.<p><b>Étym</b>. π. εἶδος.`

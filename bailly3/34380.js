@@ -1,0 +1,1 @@
+lar[34380]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> action d’appuyer sur, d’enfoncer dans, HPC. <i>745c</i>.<p><b>Étym</b>. ἐνερείδω.`

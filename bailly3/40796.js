@@ -1,0 +1,1 @@
+lar[40796]=`<b>ἐρυθρό·χροος-ους, οος-ους, οον-ουν</b>, de couleur rouge, coloré en rouge, DC. <i>43, 43</i>.<p><b>Étym</b>. ἐ. χρόα.`

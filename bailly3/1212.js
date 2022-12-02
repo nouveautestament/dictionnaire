@@ -1,0 +1,1 @@
+lar[1212]=`<i>adv</i>. <font color="purple">[ῐ]</font> sans superstition, DS. <i>Exc. 614, 56</i>.`

@@ -1,0 +1,1 @@
+lar[60227]=`<b>ατος (τὸ)</b> couleur broyée à l’usage des peintres, TH. <i>Lap. 55</i>.<p><b>Étym</b>. λειόω.`

@@ -1,0 +1,1 @@
+lar[73189]=`<font color="purple">[ᾰ]</font> <i>adv</i>., aussi souvent que, toutes les fois que, XÉN. <i>Mem. 3, 4, 3, etc.</i> ; PLAT. <i>Theæt. 143a, etc</i>.<p>➳ <i>Épq</i>. ὁσσάκι, IL. <i>21, 265</i> ; ὁσσάκις, CALL. <i>Epigr. 2, 2</i>.<p><b>Étym</b>. ὅσος, -άκις.`

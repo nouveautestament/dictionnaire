@@ -1,0 +1,1 @@
+lar[12515]=`<b>ἀπο·καταλλάσσω</b>, <i>att</i>. <b>-άττω</b>, réconcilier complètement, NT. <i>Eph. 2, 16 ; Col. 1, 20</i>.`

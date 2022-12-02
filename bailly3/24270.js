@@ -1,0 +1,1 @@
+lar[24270]=`<b>*Δημοκρίτη</b>, <i>seul. dor</i>. <b>Δαμοκρίτα, ας (ἡ)</b> <font color="purple">[ᾱῐ]</font> Damokrita, <i>Lacédémonienne,</i> PLUT. <i>M. 775</i>.<p><b>Étym</b>. <i>fém. de</i> Δημόκριτος.`

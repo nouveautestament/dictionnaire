@@ -1,0 +1,1 @@
+lar[93076]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> petit bâton, baguette, HPC. <i>Mochl. 865</i> ; STR. <i>164</i>.<br><b>      2</b> pied vertical, support en forme de colonnette, HÉRON.<br><b>      3</b> partie d’un instrument de chirurgie, ORIB. <i>128 Mai</i>.<p><b>Étym</b>. <i>dim. de</i> στυλίς.`

@@ -1,0 +1,1 @@
+lar[49799]=`<b>ἰσό·ψυχος, ος, ον</b> <font color="purple">[ῑ̆ῡ]</font> dont l’âme <i>ou</i> les sentiments sont les mêmes, ESCHL. <i>Ag. 1470</i> ; NT. <i>Phil. 2, 20</i>.<p><b>Étym</b>. ἴ. ψυχή.`

@@ -1,0 +1,1 @@
+lar[62212]=`<b>οῦ</b> (<i>genre inconnu</i>) Magarsos, <i>port de Cilicie,</i> LYC. <i>439</i>.`

@@ -1,0 +1,1 @@
+lar[24469]=`<b>ας (ἡ)</b> divulgation, révélation, JOS. <i>B.J. 3, 8, 5</i>.<p><b>Étym</b>. διαγγέλλω.`

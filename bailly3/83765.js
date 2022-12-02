@@ -1,0 +1,1 @@
+lar[83765]=`<b>προ·βασκάνιον, ου (τὸ)</b> <font color="purple">[κᾰ]</font> sorte d’amulette contre les maléfices, PLUT. <i>M. 681f</i>.<p><b>Étym</b>. π. βάσκανος.`

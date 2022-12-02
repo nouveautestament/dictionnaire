@@ -1,0 +1,1 @@
+lar[73112]=`<b>      1</b> rendre orphelin, EUR. <i>Alc. 397 ; d’où au pass</i>. être orphelin : ἐκ δυοῖν, SOPH. <i>Tr. 942,</i> des deux côtés ; <i>fig. càd</i>. éloigner de ses parents, PD. <i>P. 6, 22</i>.<br><b>      2</b> <i>p. ext</i>. priver : τινά τινος, PD. <i>P. 4, 283</i> ; ANTH. <i>7, 483</i> ; THCR. <i>Epigr. 5, 6,</i> qqn de qqe ch.<p><b>Étym</b>. ὀρφανός.`

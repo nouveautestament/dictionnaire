@@ -1,0 +1,1 @@
+lar[79079]=`<b>ή, όν</b>, qui se déploie autour, AR. <i>Ach. 1201</i>.<p><b>Étym</b>. περιπετάννυμι.`

@@ -1,0 +1,1 @@
+lar[73641]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> vase de nuit, ESCHL. <i>fr. 179</i> ; SOPH. <i>fr. 147 Dind</i>.<p><b>Étym</b>. οὐρέω.`

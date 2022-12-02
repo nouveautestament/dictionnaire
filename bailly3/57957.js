@@ -1,0 +1,1 @@
+lar[57957]=`<i>non</i> <b>Κρίσσα, ης (ἡ)</b> Krisa, <i>v. de Phocide,</i> IL. <i>2, 520</i> ; SOPH. <i>El. 180</i>.<p>➳ <i>Ion</i>. Κρίση, HH. <i>Ap. 282, 438, 445 ; gén. dor</i>. Κρίσας, PD. <i>I. 2, 26</i>.`

@@ -1,0 +1,1 @@
+lar[71476]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> course simultanée, <i>particul</i>. conjonction de deux astres, LUC. <i>Astr. 22</i>.<p><b>Étym</b>. ὁμόδρομος.`

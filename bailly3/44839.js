@@ -1,0 +1,1 @@
+lar[44839]=`<b>εως (ἡ) :<br>      1</b> action de vivifier, GAL. <i>6, 339</i> ; AQU. <i>Gen. 45, 5</i>.<br><b>      2</b> action de placer dans le zodiaque TAT. <i>Or. ad Græc. 9, c. 825b</i>.<p><b>Étym</b>. ζωόω.`

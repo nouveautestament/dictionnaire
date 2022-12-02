@@ -1,0 +1,1 @@
+lar[47495]=`<b>οῦ (ὁ)</b> semence génitale, HDT. <i>2, 93</i> ; HPC. <i>479, 14</i> ; ARSTT. <i>H.A. 3, 1, 7</i> ; PLUT. <i>M. 637f</i>.<p><b>Étym</b>. θρῴσκω.`

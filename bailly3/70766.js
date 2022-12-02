@@ -1,0 +1,1 @@
+lar[70766]=`<b>οἰωνο·πόλος, ος, ον</b>, qui prédit l’avenir d’après le vol <i>ou</i> le cri des oiseaux, IL. <i>1, 69 ; 6, 76</i> ; ESCHL. <i>Suppl. 58</i> ; PLUT. <i>M. 593c</i>.<p><b>Étym</b>. οἰωνός, πέλω.`

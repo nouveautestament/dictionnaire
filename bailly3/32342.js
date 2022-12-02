@@ -1,0 +1,1 @@
+lar[32342]=`<b>ἐκ·φορτίζομαι</b> <font color="darkgreen">(<i>pf</i>. ἐκπεφόρτισμαι)</font> être vendu comme une marchandise, être abandonné, trahi, SOPH. <i>Ant. 1036</i>.<p><b>Étym</b>. ἐκ, φόρτος.`

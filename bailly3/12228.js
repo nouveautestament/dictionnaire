@@ -1,0 +1,1 @@
+lar[12228]=`<b>ἀπο·δαπανάω-ῶ</b> <font color="purple">[δᾰᾰ]</font> dépenser largement, HÉRODOTUS (ORIB. <i>2, 43 B.-Dar</i>.).`

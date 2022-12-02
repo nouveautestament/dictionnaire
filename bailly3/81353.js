@@ -1,0 +1,1 @@
+lar[81353]=`<b>ήεσσα, ῆεν</b>, couvert d’herbe <i>ou</i> de gazon, verdoyant, IL. <i>9, 150</i> ; OD. <i>16, 396, etc</i>.<p>➳ <i>Dor</i>. ποιάεις <font color="purple">[ᾱ]</font> SOPH. <i>O.C. 157 ; acc. contr</i>. ποιᾶντα, PD. <i>N. 5 fin</i>.<p><b>Étym</b>. ποία.`

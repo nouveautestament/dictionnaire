@@ -1,0 +1,1 @@
+lar[104607]=`<b>ου (ὁ) :<br>      1</b> pagre, <i>poisson vorace,</i> HPC. <i>7, 168</i> ; COM. (ATH. <i>255d, 327c</i>) ; ARSTT. <i>H.A. 8, 13, 19</i> ; EL. <i>N.A. 9, 7, etc.</i><br><b>      2</b> <i>en Crète,</i> pierre à aiguiser, SIMM. (ATH. <i>327f</i>).<p><b>Étym</b>. <i>pré-grec</i>.`

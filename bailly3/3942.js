@@ -1,0 +1,1 @@
+lar[3942]=`<b>όεσσα, όεν</b> <font color="purple">[ῐ pour ῑ]</font> rayonnant, SIB. <i>8, 191</i>.<p><b>Étym</b>. ἀκτίς.`

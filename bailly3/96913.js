@@ -1,0 +1,1 @@
+lar[96913]=`<b>ητος (ἡ)</b> véhémence, impétuosité, force, XÉN. <i>Hell. 7, 2, 23</i> ; PLAT. <i>Pol. 306e ; au plur</i>. PLAT. <i>Leg. 733b ;</i> TH. <i>C.P. 5, 12, 2</i>.<p><b>Étym</b>. σφοδρός.`

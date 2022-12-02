@@ -1,0 +1,1 @@
+lar[7162]=`<b>ἀνα·μαρυκάομαι-ῶμαι</b> <font color="purple">[μᾱῠ]</font> <i>c</i>. ἀναμηρυκάομαι, LUC. <i>Gall. 8</i> ; CLÉM. <i>Str. p. 677</i>.`

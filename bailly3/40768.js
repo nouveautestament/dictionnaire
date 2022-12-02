@@ -1,0 +1,1 @@
+lar[40768]=`(<i>seul. prés</i>.) rendre rouge, faire rougir, TH. <i>H.P. 3, 15, 3</i> ; HDN <i>5, 6, 24 ; au pass. (seul. prés. et part. pf. pass</i>. ἠρυθρασμένος) devenir rouge, rougir, TH. <i>H.P. 3, 12, 5 ; particul</i>. rougir de honte, XÉN. <i>Cyr. 1, 4, 4</i> ; ARSTT. <i>Nic. 4, 9, 2</i>.<p><b>Étym</b>. ἐρυθρός.`

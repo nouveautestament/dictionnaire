@@ -1,0 +1,1 @@
+lar[77216]=`<b>παρ·ωροφίς, ίδος (ἡ)</b> bord saillant d’un toit, HDT. <i>2, 155</i>.<p><b>Étym</b>. π. ὄροφος.`

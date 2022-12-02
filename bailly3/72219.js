@@ -1,0 +1,1 @@
+lar[72219]=`<b>ου (ὁ)</b> opale, <i>pierre précieuse,</i> ORPH. <i>Lith. 279</i>.`

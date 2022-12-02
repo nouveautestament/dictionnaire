@@ -1,0 +1,1 @@
+lar[101043]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. τύμπανον ANTH. <i>6, 220 dout</i>.`

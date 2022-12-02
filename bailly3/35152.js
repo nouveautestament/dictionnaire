@@ -1,0 +1,1 @@
+lar[35152]=`<b>ἐν·τυλόομαι-οῦμαι</b> <font color="purple">[ῠ]</font> devenir <i>ou</i> être calleux, DIOSC. <i>2, 45</i>.`

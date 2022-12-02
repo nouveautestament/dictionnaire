@@ -1,0 +1,1 @@
+lar[59620]=`<b>ῆς (ἡ)</b> (<i>s.-e</i>. τέχνη) l’art de donner des crocs-en-jambe, <i>dans la lutte,</i> ŒNOM. (EUS. <i>P.E. 230).</i><p><b>Étym</b>. λάξ.`

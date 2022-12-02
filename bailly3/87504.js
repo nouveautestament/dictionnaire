@@ -1,0 +1,1 @@
+lar[87504]=`<b>ου (τὸ)</b> <font color="purple">[ῡῐδ]</font> <i>dim. de</i> πυγή, AR. <i>Ach. 638, Eq. 1368</i>.`

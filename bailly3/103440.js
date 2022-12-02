@@ -1,0 +1,1 @@
+lar[103440]=`<b>ὑπο·κώλιον, ου (τὸ)</b> jambe, <i>particul</i>. fémur, XÉN. <i>Cyn. 4, 1 ; 5, 10 et 30</i> ; ARR. <i>Cyn. 5, 9</i>.<p><b>Étym</b>. ὑ. κῶλον.`

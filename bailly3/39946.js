@@ -1,0 +1,1 @@
+lar[39946]=`<b>ἑπτα·γράμματος, ος, ον</b> <font color="purple">[μᾰ]</font> formé de sept lettres, ANTH. <i>App. 176</i>.<p><b>Étym</b>. ἑ. γράμμα.`

@@ -1,0 +1,1 @@
+lar[70818]=`<b>ὀκτά·βλωμος ἄρτος</b>, pain dont la surface était divisée en huit portions, HÉS. <i>O. 440</i>.<p><b>Étym</b>. ὀκτώ, βλωμός.`

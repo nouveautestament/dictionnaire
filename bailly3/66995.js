@@ -1,0 +1,1 @@
+lar[66995]=`<b>ου (τὸ)</b> sorte d’instrument de chirurgie, P. ÉG. <i>6, 8, p. 129, 4, etc</i>.`

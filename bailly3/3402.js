@@ -1,0 +1,1 @@
+lar[3402]=`<b>Ἄκκα Λαρεντία (ἡ)</b> = <i>lat</i>. Acca Laurentia, <i>n. rom</i>. PLUT. <i>Rom. 4</i>.`

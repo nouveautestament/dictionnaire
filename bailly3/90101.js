@@ -1,0 +1,1 @@
+lar[90101]=`<b>έως (ὁ)</b> <font color="purple">[ῐ]</font> habitant de Sigeion, ARSTT. <i>Rhet. 1, 15</i>.<p><b>Étym</b>. Σίγειον.`

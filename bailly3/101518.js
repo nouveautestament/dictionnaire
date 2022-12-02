@@ -1,0 +1,1 @@
+lar[101518]=`<b>ατος (τὸ)</b> lieu où l’on puise de l’eau, réservoir, citerne, PTOL. <i>1, 10, 2</i> ; M. RUBR. <i>25 etc</i>.<p><b>Étym</b>. ὑδρεύω.`

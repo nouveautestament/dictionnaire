@@ -1,0 +1,1 @@
+lar[91945]=`<b>σπληνο·δάπανος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui consume la rate, NICOL. MYREPS. <i>8, 82</i>.<p><b>Étym</b>. σπλήν, δαπανάω.`

@@ -1,0 +1,1 @@
+lar[39113]=`<b>ἐπι·στεναχίζω</b> <font color="darkgreen">(<i>impf</i>. ἐπεστενάχιζον)</font> <font color="purple">[ᾰ]</font> gémir en outre, HÉS. <i>Th. 843, etc</i>.`

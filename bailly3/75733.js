@@ -1,0 +1,1 @@
+lar[75733]=`<font color="purple">[κῑ]</font> <i>adv</i>., avec l’esprit dérangé, PLUT. <i>Sol. 8</i>.`

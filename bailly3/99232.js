@@ -1,0 +1,1 @@
+lar[99232]=`<b>τιμιουλκέω-ῶ</b> <font color="purple">[τῑ]</font> vendre au poids de l’or (<i>litt</i>. entraîner le plateau par le poids) SPT. <i>Prov. 11, 26</i>.<p><b>Étym</b>. τίμιος, ἕλκω.`

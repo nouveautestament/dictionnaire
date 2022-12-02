@@ -1,0 +1,1 @@
+lar[16448]=`<b>ἀσυμβολέω-ῶ</b>, ne pas payer son écot, A. TAT. <i>8, 17, dout</i>.<p><b>Étym</b>. ἀσύμβολος.`

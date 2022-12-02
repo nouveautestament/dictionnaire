@@ -1,0 +1,1 @@
+lar[5318]=`<b>ης (ἡ)</b> spatule légèrement recourbée, HPC. <i>Art. 783, 839, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἄμβων.`

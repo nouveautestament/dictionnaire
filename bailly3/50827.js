@@ -1,0 +1,1 @@
+lar[50827]=`<b>κακό·πους</b>, <i>gén</i>. <b>-ποδος (ὁ, ἡ)</b> qui a de vilains pieds <i>ou</i> des pieds faibles, XÉN. <i>Eq. 1, 2 ; Mem. 3, 3, 4</i> ; ARSTT. <i>H.A. 1, 1</i>.<p><b>Étym</b>. κ. πούς.`

@@ -1,0 +1,1 @@
+lar[25486]=`<b>ῶγος (ὁ, ἡ) :<br>      1</b> <i>adj</i>. déchiré, <i>d’où</i> escarpé, <i>en parl. d’une roche,</i> EUR. <i>I.T. 262</i>.<br><b>      2</b> <i>subst</i>. ἡ δ. fragment, parcelle, OPP. <i>H. 5, 216</i>.<p><b>Étym</b>. διαρρήγνυμι.`

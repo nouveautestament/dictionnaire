@@ -1,0 +1,1 @@
+lar[43985]=`<b>ου (ἡ)</b> Éphèse (<i>auj</i>. ruines près de Selçuk) <i>v. de Lydie,</i> HDT. <i>1, 92, etc</i>.`

@@ -1,0 +1,1 @@
+lar[37497]=`<b>ἐπι·γώνιος, ος, ον</b>, angulaire, NICOM. <i>Arithm. 1, 19, 7</i> ; τὰ ἐπιγώνια, pierres angulaires, AQU. <i>Ps. 143, 12</i>.<p><b>Étym</b>. ἐπί, γωνία.`

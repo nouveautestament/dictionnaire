@@ -1,0 +1,1 @@
+lar[17516]=`<b>αὐτο·κέλευστος, ος, ον</b>, qui agit de sa propre volonté, spontané, XÉN. <i>An. 3, 4, 5</i> ; DH. <i>6, 31, etc.</i> ; ANTH. <i>5, 22, 3</i> ; NONN. <i>etc</i>.`

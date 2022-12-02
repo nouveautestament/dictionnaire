@@ -1,0 +1,1 @@
+lar[71539]=`<b>ὁμοιό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, qui forme un pied semblable, <i>t. de pros</i>. DRAC. <i>134, 1</i>.<p><b>Étym</b>. ὅμ. πούς.`

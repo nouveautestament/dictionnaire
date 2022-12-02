@@ -1,0 +1,1 @@
+lar[6413]=`<b>Ἀμφι·τρύων, ωνος (ὁ)</b> <font color="purple">[ῐ]</font> Amphitryon, <i>chef thébain,</i> IL. <i>5, 392</i> ; OD. <i>11, 266, 270</i>.<p><b>Étym</b>. ἀμφί, τρύω.`

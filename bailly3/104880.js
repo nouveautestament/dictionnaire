@@ -1,0 +1,1 @@
+lar[104880]=`<b>φαριακὸν φάρμακον (τὸ)</b> <i>sorte de poison inconnu,</i> PHYLARQ. (ATH. <i>81e</i>).`

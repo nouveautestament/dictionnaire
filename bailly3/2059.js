@@ -1,0 +1,1 @@
+lar[2059]=`<font color="purple">[ᾱ]</font> <i>adv</i>., à la façon des lutteurs, des athlètes, PLUT. <i>M. 192c</i>.`

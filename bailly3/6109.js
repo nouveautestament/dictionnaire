@@ -1,0 +1,1 @@
+lar[6109]=`<b>ου (ὁ)</b> = <i>lat</i>. Amfidius, <i>n. d’h. rom</i>. PLUT. <i>Cor. 22</i>.`

@@ -1,0 +1,1 @@
+lar[59547]=`<b>λαιμό·τομος, ος, ον</b>, égorgé, EUR. <i>Hec. 207, etc. ; en parl. de la tête elle-même (conj</i>. λαιμήτομος) détaché de la gorge, EUR. <i>I.A. 776</i>.<p><b>Étym</b>. λαιμός, τέμνω.`

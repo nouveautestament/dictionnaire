@@ -1,0 +1,1 @@
+lar[11211]=`<b>ἀπ·αμαλδύνω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἀπημάλδυνε)</font> <font color="purple">[ᾰμ]</font> obscurcir, gâter, perdre, ANTH. <i>9, 24</i> ; NONN. <i>D. 8, 209, etc.</i> ; Q. SM. <i>8, 209</i>.`

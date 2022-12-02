@@ -1,0 +1,1 @@
+lar[4059]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰλᾰλ]</font><br><b>      1</b> cri de guerre, HDT. <i>8, 37</i>.<br><b>      2</b> bruit retentissant (de flûtes, de tambours) EUR. <i>Cycl. 65, Hel. 1352</i>.`

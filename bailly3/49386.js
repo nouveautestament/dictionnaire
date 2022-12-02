@@ -1,0 +1,1 @@
+lar[49386]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> relatif à un combat de cavalerie, E. BYZ. <i>v°</i> Ἀλάβανδα.<p><b>Étym</b>. ἱππόμαχος.`

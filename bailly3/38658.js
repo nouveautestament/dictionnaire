@@ -1,0 +1,1 @@
+lar[38658]=`<b>ἐπι·πέπτω</b> (<i>seul. prés</i>.) cuire <i>ou</i> mûrir encore, GAL.`

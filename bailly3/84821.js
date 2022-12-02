@@ -1,0 +1,1 @@
+lar[84821]=`<b>προ·οδεύω</b>, cheminer devant, LUC. <i>Herm. 73</i>.`

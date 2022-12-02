@@ -1,0 +1,1 @@
+lar[110451]=`<b>οῦ (ὁ)</b> qui indique l’heure, ATH. <i>406e</i>.<p><b>Étym</b>. ὡρολόγος.`

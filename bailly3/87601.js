@@ -1,0 +1,1 @@
+lar[87601]=`<b>Πυθωνό·θεν</b> <font color="purple">[ῡ]</font> <i>adv</i>., de Python, TYRT. <i>fr. 4 (2) Bgk, etc</i>.<p><b>Étym</b>. Πυθών, -θεν.`

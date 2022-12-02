@@ -1,0 +1,1 @@
+lar[58794]=`<b>κυνο·δρομέω-ῶ</b> <font color="purple">[ῠ]</font> chasser au chien courant, XÉN. <i>Cyn. 6, 17 ; fig</i>. suivre à la piste, XÉN. <i>Conv. 4, 63</i>.<p><b>Étym</b>. κύων, δραμεῖν.`

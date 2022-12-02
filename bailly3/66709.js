@@ -1,0 +1,1 @@
+lar[66709]=`<font color="darkgreen">(<i>3 sg. pf. pass</i>. μεμόρακται</font>) partager, attribuer par la voie du sort, T. LOCR. <i>95a</i>.<p><b>Étym</b>. μόρα.`

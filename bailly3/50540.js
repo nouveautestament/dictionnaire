@@ -1,0 +1,1 @@
+lar[50540]=`<b>(ὁ)</b> Kæmarôn, <i>historien,</i> PLUT. <i>Fluv. 4, 3</i>.<p><b>Étym</b>. <i>sel. Müller, Hist. fr. 2, p. 441</i> Δαΐμαχος.`

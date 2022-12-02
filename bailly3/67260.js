@@ -1,0 +1,1 @@
+lar[67260]=`<b>μυριο·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡᾰ]</font> <i>c</i>. μυριοπλάσιος ARCHIM. <i>Aren. p. 519, 268</i> ; CHRYS. <i>1, 326</i>.`

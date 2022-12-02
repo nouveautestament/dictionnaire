@@ -1,0 +1,1 @@
+lar[10875]=`<b>ἀνω·φερής, ής, ές :<br>   I <i>intr.</i> :<br>      1</b> qui monte <i>ou</i> tend à monter, <i>en parl. d’odeurs, etc</i>. DS. <i>1, 7</i> ; PLUT. <i>M. 649c.</i><br><b>      2</b> qui monte à la tête, capiteux, ATH. <i>32c.</i><br><b>   II <i>tr</i></b>. qui porte en haut, ARSTT. <i>Phys. 4, 9, 2</i>.<p><b>Étym</b>. ἄνω², φέρω.`

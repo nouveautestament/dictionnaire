@@ -1,0 +1,1 @@
+lar[57473]=`<i>adv</i>., en forme de spirale, PHIL. PARADOX. <i>VII mir. c. 1, p. 5, 21</i>.<p><b>Étym</b>. κοχλιοειδής.`

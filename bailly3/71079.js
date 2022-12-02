@@ -1,0 +1,1 @@
+lar[71079]=`<b>ὀλιγό·χλωρος, ος, ον</b> <font color="purple">[ῐ]</font> d’un vert pâle ; <i>subst</i>. τὸ ὀλιγόχλωρον, DIOSC. <i>Noth. 2, 204,</i> le câprier, <i>arbre</i>.<p><b>Étym</b>. ὀλ. χλωρός.`

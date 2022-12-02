@@ -1,0 +1,1 @@
+lar[34541]=`<b>ἐν·θλίβω</b> <font color="purple">[ῑ]</font> presser sur <i>ou</i> dans, ARSTT. <i>H.A. 8, 15, 5 ; Probl. 21, 3</i> ; NIC. <i>Al. 454, 547</i>.`

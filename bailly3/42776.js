@@ -1,0 +1,1 @@
+lar[42776]=`<i>adv</i>., avec bienveillance, STOB. <i>Ecl. 2, 204</i>.<p><b>Étym</b>. εὐνοέω.`

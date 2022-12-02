@@ -1,0 +1,1 @@
+lar[88018]=`<b>πυρσο·γενής, ής, ές</b>, qui engendre <i>ou</i> fait jaillir du feu, NONN. <i>D. 2, 495</i>.<p><b>Étym</b>. π. γίγνομαι.`

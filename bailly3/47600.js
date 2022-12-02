@@ -1,0 +1,1 @@
+lar[47600]=`<b>*θρασυ·μήχανος</b>, <i>dor</i>. <b>-μάχανος, ος, ον</b> <font color="purple">[ᾰῠᾱᾰ]</font> aux desseins hardis, PD. <i>O. 6, 114 ; N. 4, 101</i>.<p><b>Étym</b>. θρ. μηχανή.`

@@ -1,0 +1,1 @@
+lar[41547]=`<b>ας (ἡ)</b> sensibilité délicate, vivacité des sensations, PLAT. <i>Tim. 76d ;</i> ARSTT. <i>P.A. 2, 10, 6</i> ; GAL. <i>19, 659, etc</i>.<p>➳ <i>Dor</i>. εὐαισθασία <font color="purple">[θᾱ]</font> T. LOCR. <i>103c</i>.<p><b>Étym</b>. εὐαίσθητος.`

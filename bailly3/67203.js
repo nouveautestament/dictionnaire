@@ -1,0 +1,1 @@
+lar[67203]=`<b>μυρ·άκοπον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> baume fortifiant, P. ÉG.<p><b>Étym</b>. μύρον, ἄκοπος.`

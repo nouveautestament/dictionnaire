@@ -1,0 +1,1 @@
+lar[68893]=`<b>α, ον</b>, conforme à l’usage, HDT. <i>2, 49</i> ; τὰ νόμαια, HDT. <i>1, 135, etc</i>. coutumes, usage.<p><b>Étym</b>. νόμος.`

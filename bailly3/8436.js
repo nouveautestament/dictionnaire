@@ -1,0 +1,1 @@
+lar[8436]=`<b>ἀν·επιεικής, ής, ές</b>, sans indulgence, dur, THC. <i>3, 66 au cp</i>. -έστερος.<p><b>Étym</b>. ἀν-, ἐ.`

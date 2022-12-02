@@ -1,0 +1,1 @@
+lar[44121]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> propre à inspecter, qui a le goût <i>ou</i> l’habitude d’inspecter, XÉN. <i>Œc. 12, 19</i>.`

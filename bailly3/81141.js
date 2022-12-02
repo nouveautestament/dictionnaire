@@ -1,0 +1,1 @@
+lar[81141]=`<b>ου (τὸ)</b> grotte de Pluton, <i>n. de diverses grottes, qu’on croyait être l’entrée aux enfers,</i> STR. <i>244, 629</i>.<p><b>Étym</b>. Πλούτων.`

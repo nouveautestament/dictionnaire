@@ -1,0 +1,1 @@
+lar[72859]=`<b>ὁρκ·ωμοτέω-ῶ</b>, jurer avec serment, EUR. <i>Suppl. 1190</i> : τινι, ESCHL. <i>Eum. 764,</i> à qqn ; τινα, ESCHL. <i>Sept. 46 ; ou</i> ἐπί τινι, LUC. <i>Tox. 50,</i> jurer par une divinité ; τινά τι, SOPH. <i>Ant. 265,</i> jurer qqe ch. au nom d’un dieu.<p><b>Étym</b>. ὁρκώμοτος.`

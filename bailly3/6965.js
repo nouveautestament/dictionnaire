@@ -1,0 +1,1 @@
+lar[6965]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui sert à gargariser, PLAT. COM. (POLL. <i>6, 25</i>).`

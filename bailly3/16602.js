@@ -1,0 +1,1 @@
+lar[16602]=`<b>ου (ὁ)</b> sanglier, ESCHL. <i>fr. 252</i> ; SCIRAS (ATH. <i>402b</i>).<p><b>Étym</b>. <i>mot sicilien d’orig. inconnue</i>.`

@@ -1,0 +1,1 @@
+lar[54638]=`<b>οῦ (ὁ)</b> celui qui donne <i>ou</i> transmet un ordre, <i>d’où</i> :<br><b>      1</b> chef des rameurs, celui qui marque la mesure pour le mouvement des rames, THC. <i>2, 84</i> ; XÉN. <i>Hell. 5, 1, 8, etc.</i> ; PLAT. <i>1 Alc. 125c ;</i> EUR. <i>Hel. 1612</i> ; PLUT. <i>M. 812c.</i><br><b>      2</b> héraut, DS. <i>20, 50</i>.<p><b>Étym</b>. κελεύω.`

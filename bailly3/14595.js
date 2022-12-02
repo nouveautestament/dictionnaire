@@ -1,0 +1,1 @@
+lar[14595]=`<b>α, ον</b> <font color="purple">[ᾰι]</font> <i>vb. de</i> ἀριθμέω, HPC. <i>1031b ;</i> TH. <i>fr. 3, 3</i>.`

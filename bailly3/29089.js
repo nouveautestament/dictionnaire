@@ -1,0 +1,1 @@
+lar[29089]=`<b>δωδεκά·κλωνος, ος, ον</b>, qui a douze rameaux <i>ou</i> rejetons, <i>fig</i>. CHRYS. <i>6, 460</i>.<p><b>Étym</b>. δ. κλών.`

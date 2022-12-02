@@ -1,0 +1,1 @@
+lar[25895]=`<b>δια·φυσικεύομαι</b> <font color="purple">[ῠῐ]</font> (<i>seul. part. prés</i>.) étudier à fond la nature des choses, JUL. (GAL. <i>9, 379</i>).`

@@ -1,0 +1,1 @@
+lar[80761]=`<b>πλατυ·λογέω-ῶ</b> <font color="purple">[ᾰῠ]</font> expliquer longuement, être prolixe, RHÉT. <i>3, 539 W</i>.<p><b>Étym</b>. πλ. λόγος.`

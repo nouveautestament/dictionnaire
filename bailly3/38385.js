@@ -1,0 +1,1 @@
+lar[38385]=`<b>ἐπι·μείζων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, encore plus grand, DÉMOCR. (STOB. <i>66, 37</i>).`

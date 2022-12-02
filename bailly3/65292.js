@@ -1,0 +1,1 @@
+lar[65292]=`<i>adv. au comp</i>. Μηδικώτερον, à la façon des Mèdes, PLUT. <i>Crass. 24</i>.`

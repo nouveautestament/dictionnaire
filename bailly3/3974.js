@@ -1,0 +1,1 @@
+lar[3974]=`<b>(ὁ)</b> = <i>lat</i>. Aquila, <i>n. d’h. rom</i>. ANTH. <i>App. 262</i>.`

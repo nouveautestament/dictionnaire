@@ -1,0 +1,1 @@
+lar[89062]=`<font color="purple">[ᾰ]</font> <i>interj. cri des Bacchantes</i> : εὐοῖ σαβοῖ, DÉM. <i>313, 27</i> ; STR. <i>471,</i> évoé Bacchus !.<p><b>Étym</b>. <i>cf</i>. εὐοῖ.`

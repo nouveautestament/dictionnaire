@@ -1,0 +1,1 @@
+lar[109475]=`<b>ου (ὁ)</b> = <i>lat</i>. Corus <i>ou</i> Caurus, <i>le vent du nord-ouest,</i> NT. <i>Ap. 27, 12</i>.`

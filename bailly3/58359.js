@@ -1,0 +1,1 @@
+lar[58359]=`<b>οῦ (ὁ)</b> lapis-lazuli, pierre bleue, PLAT. <i>Phæd. 113b</i>.<p><b>Étym</b>. <i>v</i>. κύανος.`

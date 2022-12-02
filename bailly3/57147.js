@@ -1,0 +1,1 @@
+lar[57147]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠᾱ]</font> <i>c</i>. κορυδαλλίς, SIM. (PLUT. <i>M. 91e</i>).`

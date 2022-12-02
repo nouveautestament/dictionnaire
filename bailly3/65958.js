@@ -1,0 +1,1 @@
+lar[65958]=`<b>ας (ἡ)</b> <font color="purple">[μῑ]</font> haine pour les hommes, PLAT. <i>Phæd. 89d ;</i> DÉM. <i>264, 2 ; 1122, 13</i>.<p><b>Étym</b>. μισάνθρωπος.`

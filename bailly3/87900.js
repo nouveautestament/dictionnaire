@@ -1,0 +1,1 @@
+lar[87900]=`<b>πυρί·σπαρτος, ος, ον</b> <font color="purple">[ῠ]</font> semé de feu, <i>càd</i>. ardent, A. PL. <i>208</i>.<p><b>Étym</b>. π. σπείρω.`

@@ -1,0 +1,1 @@
+lar[108711]=`<b>ας (ἡ)</b> tuyau pour l’écoulement des eaux, ARCHIM. <i>p. 145</i> ; PHIL. BYZ. <i>Bel. p. 98</i>.`

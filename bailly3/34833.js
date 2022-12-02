@@ -1,0 +1,1 @@
+lar[34833]=`<b>ἐν·όπαι, ῶν (αἱ)</b> pendants d’oreille, SOPH. <i>fr. 51</i>.<p><b>Étym</b>. ἐν, ὀπή.`

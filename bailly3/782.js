@@ -1,0 +1,1 @@
+lar[782]=`<b>ἁγνο·τελής, ής, ές</b>, aux rites sacrés, ORPH. <i>Arg. 551</i>.<p><b>Étym</b>. ἁ. τέλος.`

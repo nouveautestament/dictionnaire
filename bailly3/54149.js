@@ -1,0 +1,1 @@
+lar[54149]=`<b>ῆρος (ὁ) :<br>      1</b> éclaireur, espion, ESCHL. <i>Sept. 36</i>.<br><b>      2</b> instrument de chirurgie pour explorer un organe, sonde, HPC. <i>884d, 893f</i>.<p><b>Étym</b>. κατόψομαι.`

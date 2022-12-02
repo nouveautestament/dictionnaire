@@ -1,0 +1,1 @@
+lar[32128]=`<b>ἐκ·τελής, ής, ές :<br>      1</b> achevé, accompli, parfait, ESCHL. <i>Pers. 218 ; en parl. de pers</i>. EUR. <i>Ion 780</i>.<br><b>      2</b> <i>p. suite,</i> mûr, HÉS. <i>O. 464</i>.<p><b>Étym</b>. ἐκ, τέλος.`

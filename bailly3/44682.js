@@ -1,0 +1,1 @@
+lar[44682]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> habile à peindre, PLAT. <i>Theæt. 145a ;</i> ἡ ζωγραφική (<i>s.-e</i>. τέχνη) DS. <i>14, 46</i>, l’art de la peinture.<p><b>Étym</b>. ζωγράφος.`

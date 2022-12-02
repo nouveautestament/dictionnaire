@@ -1,0 +1,1 @@
+lar[77411]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> tiré du nom du père, patronymique, SEXT. <i>629, 28 Bkk</i>.<p><b>Étym</b>. <i>cf</i>. πατρωνύμιος.`

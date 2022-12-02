@@ -1,0 +1,1 @@
+lar[84459]=`<b>προ·καταιονάω-ῶ</b>, mouiller auparavant, GAL. <i>10, 307</i>.`

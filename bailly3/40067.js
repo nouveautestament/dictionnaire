@@ -1,0 +1,1 @@
+lar[40067]=`<b>ἐπ·ωδίνω</b> <font color="purple">[ῑ]</font> éprouver encore les douleurs de l’enfantement, souffrir encore, POÈT. (STOB. <i>Fl. 95, 15).</i><p><b>Étym</b>. ἐπί, ὠδίνω.`

@@ -1,0 +1,1 @@
+lar[13819]=`<b>ἀπο·χύνω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἀπέχυνε, <i>correct. p</i>. ἀπεχύηνε)</font> <i>c</i>. ἀποχέω, SPT. <i>3Reg. 22, 35</i>.`

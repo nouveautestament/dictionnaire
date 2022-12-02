@@ -1,0 +1,1 @@
+lar[101341]=`<b>ατος (τὸ) :<br>      1</b> outrage, mauvais traitement, violence, HDT. <i>3, 48 ; 7, 160</i> ; EUR. <i>Her. 18</i> ; XÉN. <i>Ath. 3, 5, etc.</i> ; τετρασκελὲς ὕβρ. EUR. <i>H.f. 181, litt</i>. « les êtres violents à quatre jambes », <i>càd</i>. les Centaures.<br><b>      2</b> objet d’outrage <i>ou</i> de violence, EUR. <i>Or. 1038</i>.<p><b>Étym</b>. ὑβρίζω.`

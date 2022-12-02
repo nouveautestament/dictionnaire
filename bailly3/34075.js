@@ -1,0 +1,1 @@
+lar[34075]=`<b>εως (ἡ)</b> action d’allumer, PLUT. <i>Cim. 10</i> ; CLÉM. <i>2, 388 Migne</i>.<p><b>Étym</b>. ἐναύω¹.`

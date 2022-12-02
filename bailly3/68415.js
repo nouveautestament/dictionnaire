@@ -1,0 +1,1 @@
+lar[68415]=`<b>νεφελο·κένταυρος, ου (ὁ)</b> nuage-centaure, <i>càd</i>. ayant la forme d’un centaure, LUC. <i>V.H. 1, 16</i>.<p><b>Étym</b>. ν. Κένταυρος.`

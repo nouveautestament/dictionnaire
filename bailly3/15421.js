@@ -1,0 +1,1 @@
+lar[15421]=`<b>ος, ον</b>, cuit au four de campagne (pain), ATH. <i>113a</i>.<p><b>Étym</b>. ἀρτόπτης.`

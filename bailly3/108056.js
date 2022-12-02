@@ -1,0 +1,1 @@
+lar[108056]=`<b>ωνος (ὁ)</b> <i>litt</i>. qui a de grosses lèvres, <i>sorte de</i> muge, <i>poisson de mer,</i> ARSTT. <i>H.A. 5, 11, 3, etc</i>.`

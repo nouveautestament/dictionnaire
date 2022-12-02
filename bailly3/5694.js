@@ -1,0 +1,1 @@
+lar[5694]=`<b>ἀμνησικακέω-ῶ</b> <font color="purple">[ῐᾰ]</font> n’avoir pas de ressentiment ; <i>au pass</i>. n’être l’objet d’aucun ressentiment, jouir d’une amnistie, DS. <i>18, 56</i>.<p><b>Étym</b>. ἀμνησίκακος.`

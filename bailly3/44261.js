@@ -1,0 +1,1 @@
+lar[44261]=`<b>ης (ἡ)</b> Ekhidna, <i>mère de Cerbère,</i> HÉS. <i>Th. 297, 301</i> ; SOPH. <i>Tr. 1101</i> ; HDT. <i>4, 9, etc</i>.<p>➳ <i>Gén. dor</i>. -ας, EUR. <i>Ph. 1020</i>.<p><b>Étym</b>. <i>v</i>. ἔχιδνα.`

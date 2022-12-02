@@ -1,0 +1,1 @@
+lar[19391]=`onomatopée pour imiter l’aboiement du chien, COM. (J. ALEX. <i>Acc. p. 32, 23</i>).`

@@ -1,0 +1,1 @@
+lar[31509]=`<b>ἐκ·κροτέω-ῶ</b> (<i>part. ao</i>. -ήσας) faire tomber des mains, JOS. <i>A.J. 6, 2, 2</i>.`

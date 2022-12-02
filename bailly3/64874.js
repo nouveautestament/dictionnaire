@@ -1,0 +1,1 @@
+lar[64874]=`<b>μετα·νίσσομαι</b> (<i>seul. prés. et impf</i>.) :<br><b>      1</b> se diriger d’un autre côté, s’en aller, s’éloigner, OD. <i>9, 58</i>.<br><b>      2</b> aller vers, se diriger vers, aller trouver, <i>acc</i>. PD. <i>P. 5, 8</i> ; EUR. <i>Tr. 131 ; avec εἰς et l’acc</i>. A.RH. <i>4, 628</i>.`

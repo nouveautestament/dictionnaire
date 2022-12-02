@@ -1,0 +1,1 @@
+lar[60292]=`<b>ης, ες</b>, qui ressemble à une chaloupe, ARSTT. <i>Inc. an. 10, 9</i>.<p><b>Étym</b>. λέμβος, -ωδης.`

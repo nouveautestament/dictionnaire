@@ -1,0 +1,1 @@
+lar[98773]=`<font color="purple">[ῡ]</font> <i>adv.</i> :<br><b>      1</b> stupidement, DÉM. <i>665, 13</i>.<br><b>      2</b> d’une façon cachée, CLÉM. <i>191</i>.<p><b>Étym</b>. τυφόω.`

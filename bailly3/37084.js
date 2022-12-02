@@ -1,0 +1,1 @@
+lar[37084]=`<b>ἐπ·ενδίδωμι</b> (<i>prés</i>.) donner en outre, ESCHL. <i>Ag. 1386</i>.`

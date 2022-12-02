@@ -1,0 +1,1 @@
+lar[15151]=`<b>ἀρρητο·ποιός, ός, όν</b>, qui commet des actes infâmes, LUC. <i>Lex. 10</i>.<p><b>Étym</b>. ἄρρητος, ποιέω.`

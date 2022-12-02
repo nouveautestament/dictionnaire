@@ -1,0 +1,1 @@
+lar[94590]=`<b>συν·αικλία, ας (ἡ)</b> repas commun, <i>à Sparte,</i> ALCM. <i>57</i>.<p><b>Étym</b>. σ. αἶκλον.`

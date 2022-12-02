@@ -1,0 +1,1 @@
+lar[60544]=`<b>λευκ·ηπατίας</b> <i>ou mieux</i> <b>λευχ·ηπατίας, ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. qui a le foie blanc, <i>càd</i>. simple, modeste, timide, ZÉNOB. <i>4, 87</i>.<p><b>Étym</b>. λ. ἧπαρ.`

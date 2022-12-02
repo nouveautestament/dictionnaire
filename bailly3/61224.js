@@ -1,0 +1,1 @@
+lar[61224]=`<b>λινό·δεσμος, ος, ον</b> <font color="purple">[ῐ]</font> lié avec des cordes, ESCHL. <i>Pers. 68</i>.<p><b>Étym</b>. λ. δεσμός.`

@@ -1,0 +1,1 @@
+lar[103724]=`<b>ὑπο·πρήθω :<br>      1</b> brûler en dessous, HDT. <i>4, 69</i>.<br><b>      2</b> souffler peu à peu, faire gonfler, EL. <i>N.A. 9, 43</i>.`

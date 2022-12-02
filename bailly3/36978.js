@@ -1,0 +1,1 @@
+lar[36978]=`<b>ἐπ·εισβάλλω :<br>      1 <i>tr.</i></b> verser en outre dans, <i>dat</i>. EUR. <i>El. 499</i>.<br><b>      2 <i>intr.</i></b> se jeter sur, <i>dat</i>. THC. <i>3, 13</i>.<p>➳ <i>Anc. att</i>. ἐπεσβάλλω, THC. <i>l. c</i>.`

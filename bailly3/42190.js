@@ -1,0 +1,1 @@
+lar[42190]=`<b>ης (ἡ) :<br>      1</b> bon ordre, HÉS. <i>O. 469</i>.<br><b>      2</b> habitudes de bon ordre, amour de l’ordre, XÉN. <i>Cyr. 8, 5, 7</i> ; EL. <i>N.A. 9, 17</i>.<p><b>Étym</b>. εὐθήμων.`

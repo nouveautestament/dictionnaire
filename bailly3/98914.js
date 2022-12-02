@@ -1,0 +1,1 @@
+lar[98914]=`<b>ας (ἡ)</b> <i>c</i>. τηλαύγησις, HDN GR. <i>Epim. p. 132 Boissonade</i>.`

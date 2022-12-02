@@ -1,0 +1,1 @@
+lar[23941]=`<b>ου</b>, <i>adj. m</i>. de Derbè (Δέρβη) <i>v. de Lycaonie,</i> NT. <i>Ap. 20, 4</i>.`

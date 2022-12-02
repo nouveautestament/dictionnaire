@@ -1,0 +1,1 @@
+lar[96821]=`<b>οῦ (ὁ)</b> chute, <i>d’où</i> malheur, AQU. <i>Ps. 120, 3</i>.<p><b>Étym</b>. σφάλλω.`

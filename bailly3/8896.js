@@ -1,0 +1,1 @@
+lar[8896]=`<font color="purple">[ᾰκ]</font><br><b>      1</b> faire du charbon, être charbonnier, TH. <i>H.P. 9, 3, 1</i>.<br><b>      2</b> brûler avec du charbon, faire griller, AR. <i>Lys. 340</i>.<p><b>Étym</b>. ἀνθρακεύς.`

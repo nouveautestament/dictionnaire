@@ -1,0 +1,1 @@
+lar[100976]=`<font color="purple">[ῠ]</font> tailler de la pierre avec le pic <i>ou</i> le ciseau, AR. <i>Av. 1138</i>.<p><b>Étym</b>. τύκος.`

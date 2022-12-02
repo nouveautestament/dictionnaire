@@ -1,0 +1,1 @@
+lar[19919]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> cil, AR. <i>Eccl. 402 ; d’ord. au plur</i>. AR. <i>Eq. 373</i> ; XÉN. <i>Mem. 1, 4, 6</i> ; ARSTT. <i>etc.</i><br><b>      2</b> paupière, ARSTT. <i>H.A. 2, 12, 7 ; 3, 11, 7, etc</i>.<p><b>Étym</b>. βλέφαρον.`

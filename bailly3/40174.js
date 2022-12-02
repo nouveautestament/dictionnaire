@@ -1,0 +1,1 @@
+lar[40174]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> l’ouvrière, l’industrieuse, <i>ép. d’Athèna,</i> SOPH. <i>fr. 724</i> ; PLUT. <i>M. 99a ;</i> EL. <i>V.H. 1, 2</i>.<br><b>      2</b> auteur <i>ou</i> cause de, qui est l’artisan de, ESCHL. <i>Pr. 461 Weil</i>.<br><b>      3</b> activité, industrie, CLÉM. <i>269</i>.<p><b>Étym</b>. ἔργον.`

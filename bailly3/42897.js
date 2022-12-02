@@ -1,0 +1,1 @@
+lar[42897]=`<b>ας (ἡ)</b> abondance de poissons, ALCIPHR. <i>1, 1 etc</i>.<p><b>Étym</b>. εὔοψος.`

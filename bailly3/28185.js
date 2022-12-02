@@ -1,0 +1,1 @@
+lar[28185]=`<font color="purple">[ῠᾰν]</font> <i>adv</i>., en supportant difficilement ; δ. ἔχειν πρός τι, CHRYS. <i>4, 441,</i> supporter difficilement qqe ch.<p><b>Étym</b>. δ. ἀνέχω.`

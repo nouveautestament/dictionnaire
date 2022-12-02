@@ -1,0 +1,1 @@
+lar[96266]=`<b>συν·ταλαιπωρέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> être malheureux avec, AR. <i>Lys. 1221</i> ; σ. τινί τι, SOPH. <i>O.C. 1136,</i> compatir au malheur de qqn.<br><b>      2</b> souffrir avec, <i>dat. en parl. d’une souffrance physique,</i> ARÉT. <i>Caus. m. acut. 2, 2</i>.`

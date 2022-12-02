@@ -1,0 +1,1 @@
+lar[73885]=`<i>ion</i>. <b>-εή, εῆς (ἡ)</b> caverne, grotte, ARAT. <i>1026</i>.<p><b>Étym</b>. ἔχω, contenir.`

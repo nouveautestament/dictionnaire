@@ -1,0 +1,1 @@
+lar[6060]=`<b>ή, όν</b>, qui enveloppe comme un filet, PLAT. <i>Soph. 235b</i>.<p><b>Étym</b>. ἀμφίβληστρον.`

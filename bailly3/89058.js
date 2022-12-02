@@ -1,0 +1,1 @@
+lar[89058]=`<b>(ἡ)</b> = <i>lat</i>. Sabina, <i>n. de f. rom</i>. ANTH. <i>App. 152, etc</i>.`

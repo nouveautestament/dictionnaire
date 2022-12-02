@@ -1,0 +1,1 @@
+lar[110473]=`<b>ου (τὸ) :<br>      1</b> appareil pour voir l’heure, horloge, DL. <i>2, 1 ; 6, 104</i>.<br><b>      2</b> instrument pour observer l’heure natale, SEXT. <i>p. 733, 7 ; 739, 27</i>.<p><b>Étym</b>. ὡροσκόπος.`

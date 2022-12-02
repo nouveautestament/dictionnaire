@@ -1,0 +1,1 @@
+lar[24807]=`<b>ατος (ἡ)</b> <font color="purple">[ᾱκ]</font><br><b>      1</b> office de serviteur, service, PLAT. <i>Theæt. 175e.</i><br><b>      2</b> <i>au pl</i>. ustensiles pour le service, ustensiles de ménage, ATH. <i>274b</i>.<p><b>Étym</b>. διακονέω.`

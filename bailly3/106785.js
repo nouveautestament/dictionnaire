@@ -1,0 +1,1 @@
+lar[106785]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Phraortès :<br><b>      1</b> <i>père de Déjocès, roi des Mèdes,</i> HDT. <i>1, 96</i> ; PLUT. <i>Pro Nobil. 4</i>.<br><b>      2</b> <i>fils de Déjocès,</i> HDT. <i>1, 73, 102, 103</i> ; PLUT. <i>Ant. 52</i>.`

@@ -1,0 +1,1 @@
+lar[92543]=`<b>εως (ἡ)</b> érection d’une colonne, SPT. <i>2Reg. 18, 18</i> ; AQU. <i>Esdr. 6, 13</i>.<p><b>Étym</b>. στηλόω.`

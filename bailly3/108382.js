@@ -1,0 +1,1 @@
+lar[108382]=`<b>οῦ</b> (ὁ, <i>p. exc</i>. ἡ, <i>v. ci-dessous</i>) <font color="purple">[ᾰ]</font> trou creux, cavité, tanière, IL. <i>21, 495</i> ; ARSTT. <i>H.A. 9, 11, 2</i> ; LYC. <i>181, etc</i>.<p>➳ ἡ χηραμός, A.RH. <i>4, 1452 ; plur. hétérocl</i>. τὰ χηραμά, NIC. <i>Th. 55, 149</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

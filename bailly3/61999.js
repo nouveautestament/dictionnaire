@@ -1,0 +1,1 @@
+lar[61999]=`<b>Λυσ·αγόρας</b>, <i>ion</i>. <b>Λυσ·αγόρης (ὁ)</b> <font color="purple">[ῡᾰγ]</font> Lysagoras, <i>h</i>. HDT. <i>5, 30 ; 6, 133</i>.<p><b>Étym</b>. λύω, ἀγορά.`

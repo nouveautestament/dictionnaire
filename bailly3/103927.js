@@ -1,0 +1,1 @@
+lar[103927]=`<b>ὑπο·συλάω-ῶ</b> <font color="purple">[σῡ]</font> piller secrètement, dérober, A. TR. <i>4, 231</i>.`

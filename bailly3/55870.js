@@ -1,0 +1,1 @@
+lar[55870]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> sorte de pierre, PLUT. <i>M. 1164b</i>.`

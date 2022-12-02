@@ -1,0 +1,1 @@
+lar[36639]=`<b>εως (ἡ)</b> répétition, redite, PHIL. <i>1, 254</i>.<p><b>Étym</b>. ἐπαναπολέω.`

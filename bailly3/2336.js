@@ -1,0 +1,1 @@
+lar[2336]=`<b>αἰγ·ῶνυξ, υχος (ὁ, ἡ)</b> <font color="purple">[ῠχ]</font> aux pieds de chèvre, ANTH. <i>6, 35</i>.<p><b>Étym</b>. αἴξ, ὄνυξ.`

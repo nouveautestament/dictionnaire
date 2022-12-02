@@ -1,0 +1,1 @@
+lar[77867]=`<b>ου (τὸ)</b> le cap Pélôron (<i>auj</i>. cap Peloro <i>ou</i> punta del Faro) <i>promont. au nord de la Sicile,</i> NONN. <i>D. 13, 321</i>.<p><b>Étym</b>. <i>cf</i>. πέλωρον.`

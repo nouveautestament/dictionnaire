@@ -1,0 +1,1 @@
+lar[32830]=`<b>ἑλίκ·ωψ, ωπος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux yeux mobiles <i>ou</i> vifs, IL. <i>1, 389</i>.<p><b>Étym</b>. ἐ. ὤψ.`

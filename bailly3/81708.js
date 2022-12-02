@@ -1,0 +1,1 @@
+lar[81708]=`<b>πολυ·άνθεμος, ος, ον</b>, abondant en fleurs, PD. <i>O. 13, 23</i> ; ANACR. <i>65</i>.<p><b>Étym</b>. π. ἄνθεμον.`

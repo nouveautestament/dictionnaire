@@ -1,0 +1,1 @@
+lar[90153]=`<b>σιδηρο·δάκτυλος, ος, ον</b> <font color="purple">[ῐῠ]</font> aux doigts de fer, ANTH. <i>6, 101</i>.`

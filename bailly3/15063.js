@@ -1,0 +1,1 @@
+lar[15063]=`<b>ου (τὸ)</b> sorte de balle à jouer, ATH. <i>15a ;</i> ARTÉM. <i>1, 57</i>.<p><b>Étym</b>. ἁρπάζω.`

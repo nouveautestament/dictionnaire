@@ -1,0 +1,1 @@
+lar[107883]=`<b>εως (ἡ)</b> <font color="purple">[χᾰ]</font> incision, PLUT. <i>M. 698c</i>.<p><b>Étym</b>. χαράσσω.`

@@ -1,0 +1,1 @@
+lar[38857]=`<b>εως (ἡ) :<br>      1</b> formation de calus, HPC. <i>Art. 791</i>.<br><b>      2</b> <i>p. ext</i>. calus, PLUT. <i>M. 906f ;</i> ARÉT. <i>Caus. m. diut. 2, 3</i>.<p><b>Étym</b>. ἐπιπωρόω.`

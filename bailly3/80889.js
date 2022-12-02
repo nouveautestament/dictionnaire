@@ -1,0 +1,1 @@
+lar[80889]=`<b>ή, όν</b>, cupide, arrogant, violent, ISOCR. <i>283d ;</i> DÉM. <i>777, 3, etc</i>.<p>•<i> Cp</i>. πλεονεκτικώτερος, ARSTT. <i>Pol. 7, 14, 15 ; • Sup</i>. πλεονεκτώτατος, ARSTT. <i>Rhet. 3, 17, 17</i>.<p><b>Étym</b>. πλεονέκτης.`

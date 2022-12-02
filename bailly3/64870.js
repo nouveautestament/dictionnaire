@@ -1,0 +1,1 @@
+lar[64870]=`<b>μετα·νέομαι</b> <font color="darkgreen">(<i>seul. part. ion</i>. μετανεύμενος)</font> aller vers (qqn <i>ou</i> qqe ch.), MUS. <i>205</i>.`

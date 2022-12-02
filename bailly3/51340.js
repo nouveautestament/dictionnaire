@@ -1,0 +1,1 @@
+lar[51340]=`<b>καλυκ·άνθεμον, ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> chèvrefeuille, <i>plante,</i> DIOSC. <i>4, 14</i>.<p><b>Étym</b>. κάλυξ, ἄνθεμον.`

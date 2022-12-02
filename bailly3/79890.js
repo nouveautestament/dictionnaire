@@ -1,0 +1,1 @@
+lar[79890]=`<b>πετρ·ηρεφής, ής, ές</b>, couvert d’une voûte de rocher, ESCHL. <i>Pr. 300</i> ; EUR. <i>Cycl. 82</i>.<p><b>Étym</b>. πέτρα, ἐρέφω.`

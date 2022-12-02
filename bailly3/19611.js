@@ -1,0 +1,1 @@
+lar[19611]=`Bèthphagè, <i>lieu près de Jérusalem,</i> NT. <i>Matth. 21, 1, etc</i>.`

@@ -1,0 +1,1 @@
+lar[444]=`<b>Ἄγγουρον ὄρος (τὸ)</b> le mt Angouron, <i>à l’embouchure de l’Ister,</i> A.RH. <i>4, 323</i>.`

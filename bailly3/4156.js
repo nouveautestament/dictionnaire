@@ -1,0 +1,1 @@
+lar[4156]=`<font color="purple">[ᾰῡ]</font> s’inquiéter de, s’occuper de, préparer : δαῖτα, OD. <i>1, 374, etc</i>. un repas ; δολοφροσύνην, HH. <i>Merc. 361,</i> une machination.<p>➳ <i>Ao</i>. ἀλέγυνα <font color="purple">[ᾰῡ]</font> A.RH. <i>1, 394. Ao. moy. 3 sg</i>. ἀλεγύνατο, EMPÉD. <i>445 Mullach</i>.<p><b>Étym</b>. ἀλέγω.`

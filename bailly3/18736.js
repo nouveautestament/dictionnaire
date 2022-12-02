@@ -1,0 +1,1 @@
+lar[18736]=`<b>βαθύ·βουλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux conseils profonds, aux pensées profondes, ESCHL. <i>Pers. 142</i>.<p><b>Étym</b>. β. βουλή.`

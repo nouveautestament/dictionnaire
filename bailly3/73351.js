@@ -1,0 +1,1 @@
+lar[73351]=`<b>ὀσφυαλγέω-ῶ</b>, souffrir des reins, HPC. <i>443c</i>.<p><b>Étym</b>. ὀσφυαλγής.`

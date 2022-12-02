@@ -1,0 +1,1 @@
+lar[88837]=`<b>ῥυ·άχετος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> foule tumultueuse, <i>d’où</i> populace, AR. <i>Lys. 170</i>.<p><b>Étym</b>. ῥέω, ἀχέω <i>dor. c</i>. ἠχέω.`

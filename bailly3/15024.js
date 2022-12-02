@@ -1,0 +1,1 @@
+lar[15024]=`<i>adv</i>., en ravissant, en arrachant, A.RH. <i>1, 1017, etc.</i> ; OPP. <i>H. 2, 567, etc</i>.<p><b>Étym</b>. ἁρπάζω.`

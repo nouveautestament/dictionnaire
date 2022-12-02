@@ -1,0 +1,1 @@
+lar[75853]=`<b>παρα·ληρέω-ῶ</b>, parler à tort et à travers, déraisonner, HPC. <i>Epid. 1, 986</i> ; PLAT. <i>Theæt. 169a ;</i> DÉM. <i>1421, 10, etc</i>.`

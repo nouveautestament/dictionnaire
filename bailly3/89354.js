@@ -1,0 +1,1 @@
+lar[89354]=`<b>σαπρό·στομος, ος, ον</b> <font color="purple">[ᾰ]</font> à l’haleine fétide, ARSTT. (STOB. <i>Fl. 5, 83).</i><p><b>Étym</b>. σαπρός, στόμα.`

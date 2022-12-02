@@ -1,0 +1,1 @@
+lar[16996]=`<b>ης (ἡ)</b> <font color="purple">[αῡ]</font> l’Infatigable <i>ou</i> l’Invincible (Athèna) IL. <i>2, 157, etc.</i> ; OD. <i>4, 762 ; 6, 324</i>.<p><b>Étym</b>. <i>par allong. p</i>. *Ἀτρύτη, <i>de</i> ἄτρυτος ; <i>cf</i>. Ἀϊδωνεύς <i>et</i> ᾍδης.`

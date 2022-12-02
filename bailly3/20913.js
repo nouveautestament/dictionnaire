@@ -1,0 +1,1 @@
+lar[20913]=`<b>εσσα, εν :<br>      1</b> couvert de mousse, NIC. <i>Th. 208</i> ; NONN. <i>D. 1, 203</i>.<br><b>      2</b> qui bourgeonne, qui pousse, NIC. <i>Al. 371, 478</i>.<p><b>Étym</b>. βρύον.`

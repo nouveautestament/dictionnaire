@@ -1,0 +1,1 @@
+lar[59545]=`<b>λαιμό·τμητος, ος, ον :<br>      1</b> <i>pass</i>. détaché de la gorge, EUR. <i>Ph. 455</i>.<br><b>      2</b> qui serre (<i>propr</i>. qui coupe) la gorge, <i>en parl. de la douleur,</i> AR. <i>Th. 1054</i>.<p><b>Étym</b>. λαιμός, τμητός.`

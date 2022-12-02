@@ -1,0 +1,1 @@
+lar[95139]=`<b>συν·διαπολεμέω-ῶ</b>, soutenir une guerre jusqu’au bout avec, THC. <i>8, 13</i>.`

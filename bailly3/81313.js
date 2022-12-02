@@ -1,0 +1,1 @@
+lar[81313]=`<b>ποηφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger de l’herbe, JOS. <i>B.J. 2, 8, 8</i>.<p><b>Étym</b>. ποηφάγος.`

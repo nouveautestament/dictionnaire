@@ -1,0 +1,1 @@
+lar[90219]=`<b>ή, όν</b> <font color="purple">[ῑᾰ]</font> de Sicanie, THC. <i>6, 62</i> ; ARSTT. <i>Meteor. 2, 3, 40</i>.<p><b>Étym</b>. Σικανία.`

@@ -1,0 +1,1 @@
+lar[123]=`<b>ἀ·βλέφαρος, ος, ον</b> <font color="purple">[φᾰ]</font> sans paupières, ANTH. <i>11, 66</i>.<p><b>Étym</b>. ἀ, βλέφαρον.`

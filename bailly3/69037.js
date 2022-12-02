@@ -1,0 +1,1 @@
+lar[69037]=`<b>έως (ὁ)</b> de Notion : οἱ Νοτιεῖς, ARSTT. <i>Pol. 5, 4,</i> les habitants de Notion.<p><b>Étym</b>. Νότιον.`

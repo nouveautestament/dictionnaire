@@ -1,0 +1,1 @@
+lar[35068]=`<b>ἔν·τεφρος, ος, ον</b>, qui est couleur de cendre, cendré, ATH. <i>395c ;</i> DIOSC. <i>5, 84 et 150</i>.<p><b>Étym</b>. ἐν, τέφρα.`

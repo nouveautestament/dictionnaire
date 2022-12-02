@@ -1,0 +1,1 @@
+lar[104219]=`<b>ὑπο·ψύχω</b> <font color="purple">[ῡ]</font> rafraîchir un peu, NIC. (ATH. <i>297a</i>).`

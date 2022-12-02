@@ -1,0 +1,1 @@
+lar[64527]=`<b>μεσο·κόνδυλος, ου (ὁ)</b> <font color="purple">[ῠ]</font> la jointure du milieu, <i>càd</i>. la seconde jointure, <i>après le προκόνδυλος,</i> RUF. (ORIB. <i>3, 389 B.-Dar</i>.).`

@@ -1,0 +1,1 @@
+lar[11394]=`<b>εως (ἡ)</b> action de renier <i>ou</i> de renoncer, PHIL. <i>2, 438</i>.<p><b>Étym</b>. ἀπαρνέομαι.`

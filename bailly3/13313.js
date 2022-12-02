@@ -1,0 +1,1 @@
+lar[13313]=`<b>ἀπο·σκευή, ῆς (ἡ) :<br>      1</b> bagages, <i>au sg. et au pl</i>. POL. <i>2, 3, 7, etc.</i> ; PLUT. <i>Arist. 11, etc. ; en gén</i>. mobilier, meubles, SPT. <i>Ezech. tr. v. 209</i>.<br><b>      2</b> lieux d’aisances, STR. <i>646</i>.<p><b>Étym</b>. ἀ. σκεῦος.`

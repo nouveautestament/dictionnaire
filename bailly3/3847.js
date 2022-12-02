@@ -1,0 +1,1 @@
+lar[3847]=`<b>ἀκρο·στόμιον, ου (τὸ)</b> extrémité <i>ou</i> bord de la bouche, DH. <i>Comp. p. 77, 2</i>.<p><b>Étym</b>. ἄ. στόμα.`

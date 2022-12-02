@@ -1,0 +1,1 @@
+lar[59883]=`<b>λαρκ·αγωγός, οῦ</b> <font color="purple">[ᾰγ]</font> <i>adj. m</i>. qui porte des paniers <i>ou</i> des corbeilles, EUR. <i>fr. 285</i>.<p><b>Étym</b>. λάρκος, ἄγω.`

@@ -1,0 +1,1 @@
+lar[34566]=`<b>ἐν·θρύπτω</b>, mettre en menus morceaux, émietter : ἔν τινι, HPC. <i>339, 30</i> ; τινί, NIC. <i>Th. 914</i> ; ἔς τι, NIC. <i>Th. 80,</i> dans qqe ch.<br><b><i>Moy.</i></b> <i>m. sign</i>. NIC. <i>Al. 266</i>.<p>➳ <i>Poét</i>. ἐνιθρ. NIC. <i>ll. cc</i>.`

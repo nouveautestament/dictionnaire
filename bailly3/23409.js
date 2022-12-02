@@ -1,0 +1,1 @@
+lar[23409]=`<b>*δέαμαι</b>, <i>seul. impf. 3 sg</i>. ἀεικέλιος δέατ' (<i>p</i>. δέατο) εἶναι, OD. <i>6, 242,</i> il avait l’air misérable.<p><b>Étym</b>. <i>R. indo-europ</i>. *deih₂-, briller ; <i>cf</i>. δῆλος, δῖος, δέελος.`

@@ -1,0 +1,1 @@
+lar[95573]=`<b>συν·επανίσταμαι</b> <font color="darkgreen">(<i>f</i>. -αναστήσομαι, <i>ao.2</i> -ανέστην, <i>etc</i>.)</font> <font color="purple">[ᾰ]</font> se soulever avec : τινι, HDT. <i>3, 61, ou</i> ἅμα τινί, HDT. <i>1, 59,</i> avec qqn ; τινι μετά τινος, DH. <i>6, 74,</i> contre qqn avec le secours d’un autre ; <i>abs</i>. HDT. <i>3, 84</i> ; THC. <i>1, 132</i>.`

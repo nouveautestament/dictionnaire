@@ -1,0 +1,1 @@
+lar[89286]=`<b>ου (ὁ)</b> Sanakharib, <i>roi d’Assyrie,</i> HDT. <i>2, 141</i>.`

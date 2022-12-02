@@ -1,0 +1,1 @@
+lar[27307]=`<b>ας (ἡ)</b> intervalle de temps, délai, <i>d’où</i> moment fixé (pour qqe ch.) JOS. <i>B.J. 5, 9, 1</i>.<p><b>Étym</b>. διά, ὥρα.`

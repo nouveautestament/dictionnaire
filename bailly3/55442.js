@@ -1,0 +1,1 @@
+lar[55442]=`<font color="purple">[ῐ]</font> <i>adv</i>., du dème Kikynna, AR. <i>Nub. 134</i>.<p><b>Étym</b>. <i>v</i>. Κικυννεύς.`

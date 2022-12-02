@@ -1,0 +1,1 @@
+lar[50981]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> calament, <i>sorte de plante aromatique,</i> NIC. <i>Th. 60</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

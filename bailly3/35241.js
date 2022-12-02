@@ -1,0 +1,1 @@
+lar[35241]=`<b>ἐξ·αγανακτέω-ῶ</b> <font color="purple">[ᾰγᾰ]</font> exhaler son indignation : πρός τινα, JOS. <i>A.J. 4, 2, 1,</i> contre qqn.`

@@ -1,0 +1,1 @@
+lar[9147]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> action d’égaliser, THC. <i>8, 87</i> ; PLAT. <i>Leg. 740e</i>.<p><b>Étym</b>. ἀνισόω.`

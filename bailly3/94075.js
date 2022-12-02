@@ -1,0 +1,1 @@
+lar[94075]=`<b>συμ·παρακομίζω</b>, amener avec soi le long de la côte (des navires) <i>acc</i>. THC. <i>8, 41 ; au pass. en parl. des navires,</i> THC. <i>8, 39</i>.<br><b><i>Moy.</i></b> assister un convoi de navires, DS. <i>3, 21</i>.`

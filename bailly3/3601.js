@@ -1,0 +1,1 @@
+lar[3601]=`<font color="purple">[ᾱκ]</font> <i>fém. de</i> ἄκων².`

@@ -1,0 +1,1 @@
+lar[4267]=`<b>ἀλεξί·μορος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui écarte la mort (Artémis, Apollon, Athèna, <i>etc</i>.) SOPH. <i>O.R. 164</i> ; NONN. <i>D. 32, 217, etc</i>.<p><b>Étym</b>. ἀ. μόρος.`

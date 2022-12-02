@@ -1,0 +1,1 @@
+lar[70849]=`<b>α, ον</b> <font color="purple">[ᾰσ]</font> huit fois aussi grand, AR. <i>Eq. 70</i> ; PLAT. <i>Tim. 35c</i>.<p><b>Étym</b>. ὀ. -πλάσιος.`

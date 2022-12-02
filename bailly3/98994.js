@@ -1,0 +1,1 @@
+lar[98994]=`<b>τημόσ·δε</b>, <i>adv. c</i>. τῆμος, CALL. <i>Jov. 21</i> ; A.RH. <i>2, 957</i>.<p>➳ <i>Dor</i>. ταμόσδε <font color="purple">[ᾱ]</font> THCR. <i>Idyl. 10, 49</i>.`

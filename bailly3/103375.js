@@ -1,0 +1,1 @@
+lar[103375]=`<b>ὑπο·κλάω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ὑπέκλασα, <i>ao. pass</i>. ὑπεκλάσθην) :</font><br><b>      1</b> briser en dessous, NIC. <i>Th. 728</i> ; Q. SM. <i>10, 372</i>.<br><b>      2</b> briser peu à peu, <i>fig</i>. Q. SM. <i>4, 483 ; au pass</i>. JOS. <i>B.J. 7, 8, 7</i>.<br><b>      3</b> abaisser, <i>au pass</i>. ANTH. <i>1, 216</i>.`

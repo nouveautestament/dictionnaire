@@ -1,0 +1,1 @@
+lar[19228]=`<b>βαρύ·χειλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux lèvres épaisses, A. PL. <i>20</i>.<p><b>Étym</b>. β. χεῖλος.`

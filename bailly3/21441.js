@@ -1,0 +1,1 @@
+lar[21441]=`<b>γαστρο·χάρυβδις, ιος (ὁ, ἡ)</b> <font color="purple">[χᾰ]</font> dont le ventre est une Charybde, <i>càd</i>. un gouffre ; CRAT. <i>(Bkk. 33, 18).</i><p><b>Étym</b>. γαστήρ, Χ.`

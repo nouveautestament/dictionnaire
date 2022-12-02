@@ -1,0 +1,1 @@
+lar[46147]=`<b>θαλασσί·γονος, ος, ον</b> <font color="purple">[θᾰῐ]</font> né de la mer, NONN. <i>D. 13, 458</i>.<p><b>Étym</b>. θάλασσα, γίγνομαι.`

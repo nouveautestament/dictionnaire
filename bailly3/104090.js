@@ -1,0 +1,1 @@
+lar[104090]=`<b>εως (ἡ) :<br>      1</b> petite ouverture par où pénètre le jour, petite fenêtre, HDT. <i>7, 36</i>.<br><b>      2</b> <i>p. ext</i>. petite ouverture, petit intervalle, <i>en gén</i>. PHIL. BYZ. <i>Bel. p. 99, 39</i>.<p><b>Étym</b>. ὑποφαύσκω.`

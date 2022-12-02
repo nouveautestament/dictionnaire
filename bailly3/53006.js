@@ -1,0 +1,1 @@
+lar[53006]=`<b>α, ον</b> <font color="purple">[πᾰ]</font> <i>vb. de</i> καταπατέω, GEOP. <i>6, 13, 1</i>.`

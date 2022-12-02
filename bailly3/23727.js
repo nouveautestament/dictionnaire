@@ -1,0 +1,1 @@
+lar[23727]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> bureau pour la perception <i>ou</i> la ferme des dîmes, ANTIPH. (POLL. <i>9, 29).</i><p><b>Étym</b>. δεκατώνης.`

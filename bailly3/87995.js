@@ -1,0 +1,1 @@
+lar[87995]=`<b>πυρρο·κόραξ, ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> crave à bec rouge (<i>Pyrrhocorax pyrrhocorax</i>), PLIN. <i>H.N. 10, 48, 68</i>.<p><b>Étym</b>. π. κόραξ.`

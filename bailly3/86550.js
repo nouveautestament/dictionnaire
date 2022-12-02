@@ -1,0 +1,1 @@
+lar[86550]=`<b>προ·συνοικέω-ῶ :<br>      1</b> habiter auparavant avec, <i>dat</i>. HDT. <i>3, 88</i> ; PLUT. <i>Demetr. 14</i>.<br><b>      2</b> habiter en outre avec, <i>dat</i>. THC. <i>6, 2</i>.<p>➳ <i>Att</i>. προσξυνοικέω, THC. <i>l. c</i>.`

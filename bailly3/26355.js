@@ -1,0 +1,1 @@
+lar[26355]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> descriptif, narratif, ARSTT. <i>Poet. 23, 1, etc</i>.<p><b>Étym</b>. διήγημα.`

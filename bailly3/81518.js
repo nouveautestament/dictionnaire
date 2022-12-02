@@ -1,0 +1,1 @@
+lar[81518]=`<i>adv</i>., en état de guerre : π. ἔχειν πρός τινα, XÉN. <i>Cyr. 5, 2, 25 ; Mem. 2, 6, 18, etc</i>. être en guerre avec qqn, dans des dispositions hostiles à qqn ; π. διακεῖσθαι, ISOCR. <i>123c</i>, être dans des dispositions hostiles.<p>•<i> Sup</i>. -ώτατα, XÉN. <i>An. 5, 9, 1</i>.`

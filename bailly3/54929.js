@@ -1,0 +1,1 @@
+lar[54929]=`<b>ων, κέρδιον</b>, <i>gén</i>. <b>ονος</b>, plus avantageux, plus utile, IL. <i>3, 41, etc.</i> ; OD. <i>20, 304</i>.<p><b>Étym</b>. <i>cp. dér. de</i> κέρδος ; <i>cf</i>. κέρδιστος.`

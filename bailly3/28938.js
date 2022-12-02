@@ -1,0 +1,1 @@
+lar[28938]=`<b>δυσ·τράπελος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à tourner, à mouvoir, à traiter, HPC. <i>279, 15 ; fig. en parl. de pers</i>. d’un caractère difficile, intraitable, SOPH. <i>Aj. 914 ; en parl. d’affaires, d’entreprises,</i> difficile, HÉNIOCH. (ATH. <i>408a</i>) ; PLUT. <i>M. 419a</i>.<p><b>Étym</b>. δ. τρέπω.`

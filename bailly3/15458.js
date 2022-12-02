@@ -1,0 +1,1 @@
+lar[15458]=`<b>ου (ὁ)</b> Arybbas, <i>roi d’Épire,</i> DÉM. <i>13, 5 (var</i>. Ἀρύμβας) ; PLUT. <i>Alex. 2, Pyrrh. 1</i>.`

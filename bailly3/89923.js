@@ -1,0 +1,1 @@
+lar[89923]=`<b>ης (ἡ)</b> <i>c</i>. σηκίς, ÆL. DIONYS. <i>fr. p. 206 Schwabe</i>.`

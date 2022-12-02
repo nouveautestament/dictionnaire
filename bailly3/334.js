@@ -1,0 +1,1 @@
+lar[334]=`<b>ή, όν</b>, irritant, PLAT. <i>Gorg. 511b</i>.<p><b>Étym</b>. <i>vb. de</i> ἀγανακτέω.`

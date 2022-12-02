@@ -1,0 +1,1 @@
+lar[10447]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> camp en face de l’ennemi, POL. <i>3, 101, 8</i>.`

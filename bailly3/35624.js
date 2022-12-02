@@ -1,0 +1,1 @@
+lar[35624]=`<b>ου (ὁ)</b> Exarkhos, <i>éphore spartiate,</i> XÉN. <i>Hell. 2, 3, 10</i>.`

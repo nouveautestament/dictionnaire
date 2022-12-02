@@ -1,0 +1,1 @@
+lar[20916]=`<b>βρυο·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte un chaton, <i>en parl. des fleurs du laurier,</i> TH. <i>C.P. 2, 11, 4</i>.<p><b>Étym</b>. βρύον, φέρω.`

@@ -1,0 +1,1 @@
+lar[94422]=`<b>συμ·φθέγγομαι</b>, parler <i>ou</i> résonner d’accord, être d’accord avec, <i>dat</i>. PLUT. <i>Alc. 2 ; abs</i>. DC. <i>74, 3</i>.`

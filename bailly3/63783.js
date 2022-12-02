@@ -1,0 +1,1 @@
+lar[63783]=`<b>ης, ες</b>, d’humeur sombre, de caractère mélancolique, ARÉT. <i>Caus. m. diut. 1, 15</i>.<p><b>Étym</b>. μελάγχολος, -ωδης.`

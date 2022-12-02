@@ -1,0 +1,1 @@
+lar[24723]=`<b>δια·καλύπτω</b>, découvrir aux regards, DÉM. <i>155, 26</i> ; DH. <i>5, 54</i> ; PLUT. <i>M. 764a.</i><br><b><i>Moy.</i></b> se mettre à nu en ôtant : τὸ ἱμάτιον, EL. <i>V.H. 5, 19</i>, son vêtement.`

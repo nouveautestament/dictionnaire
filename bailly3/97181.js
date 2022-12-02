@@ -1,0 +1,1 @@
+lar[97181]=`<b>σωματο·βλάβεια, ας (ἡ)</b> <font color="purple">[ᾰᾰβ]</font> lésion du corps, PROCL. <i>Ptol. p. 209</i>.<p><b>Étym</b>. σῶμα, βλάβη.`

@@ -1,0 +1,1 @@
+lar[8228]=`<b>ἀν·εκδίκητος, ος, ον</b> <font color="purple">[ῐ]</font> non vengé, non défendu, JOS. <i>A.J. 20, 3, 1</i>.<p><b>Étym</b>. ἀν-, ἐκδικέω.`

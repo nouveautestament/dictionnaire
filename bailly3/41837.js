@@ -1,0 +1,1 @@
+lar[41837]=`<b>εὔ·δενδρος, ος, ον</b>, planté de beaux arbres, <i>ou</i> couvert d’arbres, PD. <i>O. 8, 9 ; P. 4, 74 ; N. 11, 25</i> ; EUR. <i>I.T. 134</i> ; STR. <i>100</i>.<p>•<i> Sup</i>. -ότατος, HPC. <i>288, 49</i>.<p><b>Étym</b>. εὖ, δένδρον.`

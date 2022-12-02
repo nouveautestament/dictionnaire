@@ -1,0 +1,1 @@
+lar[110035]=`<b>ψυχρόω-ῶ</b>, refroidir, <i>d’où au pass</i>. se refroidir, ANTH. <i>12, 7</i>.<p><b>Étym</b>. ψυχρός.`

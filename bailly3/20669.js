@@ -1,0 +1,1 @@
+lar[20669]=`<b>α, ον</b>, de Braurôn, EUR. <i>I.T. 1463</i> ; βραυρωνία Ἄρτεμις <i>ou</i> θεά, DIN. PAUS. STR. <i>etc</i>. Artémis de Braurôn <i>ou</i> la déesse de Braurôn ; τὰ βραυρώνια, fêtes d’Artémis de Braurôn, AR. <i>Lys. 646, ou</i> de Dionysos, AR. <i>fr</i>.<p><b>Étym</b>. βραυρών.`

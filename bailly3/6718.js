@@ -1,0 +1,1 @@
+lar[6718]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font> redoublement, A. TR. <i>12, p. 687</i>.<p><b>Étym</b>. *ἀναδιπλάζω, <i>de</i> ἀνά, διπλάζω.`

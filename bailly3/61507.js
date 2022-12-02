@@ -1,0 +1,1 @@
+lar[61507]=`<b>λογο·γραφεύς, έως (ὁ)</b> <font color="purple">[ᾰ]</font> qui écrit des discours pour autrui, DH. <i>Din. 11 ; cf</i>. λογογράφος.`

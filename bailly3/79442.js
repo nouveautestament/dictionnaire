@@ -1,0 +1,1 @@
+lar[79442]=`<b>περι·σφάλλομαι</b>, glisser tout autour, glisser, faire un faux pas, HPC. <i>Art. 782</i>.`

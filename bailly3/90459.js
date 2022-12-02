@@ -1,0 +1,1 @@
+lar[90459]=`<b>ου (τὸ)</b> <font color="purple">[σῐ]</font> <i>c</i>. σίσυμβρον, AR. <i>Av. 160</i> ; ARSTT. <i>fr. 325</i> ; TH. <i>H.P. 2, 1, 3, etc</i>.`

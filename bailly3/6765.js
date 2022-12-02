@@ -1,0 +1,1 @@
+lar[6765]=`<b>ἀνα·ζώννυμι</b>, rappeler un soldat au service, <i>litt</i>. lui faire de nouveau ceindre son épée, THÉM. <i>224</i>.<br><b><i>Moy.</i></b> se ceindre <i>ou</i> s’envelopper de nouveau, <i>acc</i>. NONN. <i>D. 19, 73</i> ; NT. <i>1Petr. 1, 13, etc</i>.`

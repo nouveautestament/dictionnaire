@@ -1,0 +1,1 @@
+lar[54934]=`<b>κερδο·φόρος, ος, ον</b>, qui apporte un gain, un profit, ARTÉM. <i>2, 30</i>.<p><b>Étym</b>. κέρδος, φέρω.`

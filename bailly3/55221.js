@@ -1,0 +1,1 @@
+lar[55221]=`<b>ας (ἡ)</b> jardinage, PLAT. <i>Leg. 845d ;</i> DS. <i>5, 43 ; 20, 8</i>.<p><b>Étym</b>. κηπεύω.`

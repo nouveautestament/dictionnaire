@@ -1,0 +1,1 @@
+lar[44602]=`<b>α, ον</b>, sombre, ténébreux, ANTH. <i>7, 377</i>.<p><b>Étym</b>. ζόφος.`

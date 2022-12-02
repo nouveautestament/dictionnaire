@@ -1,0 +1,1 @@
+lar[7977]=`<b>ή, όν</b> <font color="purple">[ρᾰᾰθ]</font> digne d’un homme de cœur, HPC. <i>Art. 837 au cp</i>. -ώτερος.<p><b>Étym</b>. ἀνδραγαθία.`

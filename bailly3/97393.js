@@ -1,0 +1,1 @@
+lar[97393]=`<i>mauv. prononciat. d’un Scythe p</i>. τάχιστα, AR. <i>Th. 1214</i>.`

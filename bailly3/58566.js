@@ -1,0 +1,1 @@
+lar[58566]=`<b>κυκλοφορέομαι-οῦμαι</b>, se mouvoir circulairement, ARSTT. <i>Mund. 2</i> ; PLUT. <i>M. 927b, 952e</i>.<p><b>Étym</b>. κυκλοφόρος.`

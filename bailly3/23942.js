@@ -1,0 +1,1 @@
+lar[23942]=`<b>ων (οἱ)</b> <font color="purple">[ῑ]</font> les Derbikes, <i>pple de l’Inde,</i> NONN. <i>D. 26, 339</i>.`

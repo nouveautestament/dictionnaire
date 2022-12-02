@@ -1,0 +1,1 @@
+lar[776]=`<b>ἁγνο·πόλος, ος, ον :<br>      1</b> pur, ORPH. <i>H. 18, 12</i>.<br><b>      2</b> qui purifie, ORPH. <i>Arg. 38</i>.<p><b>Étym</b>. ἁγνός, πολέω.`

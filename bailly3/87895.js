@@ -1,0 +1,1 @@
+lar[87895]=`<b>πυρί·πνοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui souffle <i>ou</i> respire le feu, PD. <i>fr. 150</i> ; LYC. <i>1314</i>.<br><b>      2</b> enflammé, ardent, <i>fig</i>. ANTH. <i>5, 180 ; 7, 354, etc</i>.<p><b>Étym</b>. π. πνέω.`

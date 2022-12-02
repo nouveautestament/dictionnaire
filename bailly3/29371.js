@@ -1,0 +1,1 @@
+lar[29371]=`<b>εως (ἡ)</b> rangée de dents enfoncées comme des clous, GAL. DIOSC.<p><b>Étym</b>. ἐγγομφόω.`

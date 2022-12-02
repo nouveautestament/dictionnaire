@@ -1,0 +1,1 @@
+lar[16975]=`<b>ἄ·τρομος, ος, ον :<br>      1</b> qui ne tremble pas, intrépide, IL. <i>5, 126 ; 16, 163 ; 17, 157</i> ; A.RH. <i>3, 1257</i> ; OPP. NONN. <i>etc. ; en prose,</i> PLUT. <i>M. 815c.</i><br><b>      2</b> non agité, calme (sommeil, navigation, <i>etc</i>.) ANTH. <i>6, 69 ; 9, 107</i>.<p><b>Étym</b>. ἀ, τρέμω.`

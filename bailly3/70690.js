@@ -1,0 +1,1 @@
+lar[70690]=`<b>ύος (ἡ)</b> (<i>v</i>. ὀϊστευτής) l’art de lancer le javelot.`

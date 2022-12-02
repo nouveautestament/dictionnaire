@@ -1,0 +1,1 @@
+lar[73062]=`<b>ὀρσο·τριαίνης</b>, <i>éol</i>. <b>-τρίαινα</b>, <i>adj</i>. qui élève <i>ou</i> agite le trident, PD. <i>O. 8, 64, etc. ; subst</i>. PD. <i>O. 8, 64 ; N. 4, 86</i>.<p><b>Étym</b>. ὄρνυμι, τρίαινα.`

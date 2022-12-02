@@ -1,0 +1,1 @@
+lar[44271]=`<b>έως (ὁ)</b> (<i>nom. pl. épq</i>. ἐχιῆες) vipereau, <i>jeune vipère mâle,</i> NIC. <i>Th. 133</i>.<p><b>Étym</b>. ἔχις.`

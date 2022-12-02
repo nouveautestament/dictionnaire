@@ -1,0 +1,1 @@
+lar[109511]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui a des petits <i>ou</i> des rejetons, SOPH. <i>fr. 962</i>.<p><b>Étym</b>. ψάκαλος, ἔχω.`

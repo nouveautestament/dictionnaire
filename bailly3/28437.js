@@ -1,0 +1,1 @@
+lar[28437]=`<b>δυσ·έραστος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> malheureux en amour, M. TYR. <i>3, 5</i>.<br><b>      2</b> qui contrarie l’amour <i>ou</i> les amours, ANTH. <i>5, 172</i>.<p><b>Étym</b>. δ. ἐραστός.`

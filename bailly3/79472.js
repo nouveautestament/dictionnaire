@@ -1,0 +1,1 @@
+lar[79472]=`<b>εως (ἡ)</b> <font color="purple">[χῐ]</font> action d’entourer de fortifications, THC. <i>2, 77 ; 4, 131, etc</i>.<p><b>Étym</b>. περιτειχίζω.`

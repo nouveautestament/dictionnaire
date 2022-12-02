@@ -1,0 +1,1 @@
+lar[43171]=`<b>εως (ἡ)</b> invention, découverte, PLAT. <i>Rsp. 336e</i>, CRAT. <i>436a, etc</i>.<p><b>Étym</b>. εὑρίσκω.`

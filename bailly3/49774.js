@@ -1,0 +1,1 @@
+lar[49774]=`<b>ἰσο·τύραννος, ος, ον</b> <font color="purple">[ῑ̆ῠ]</font> égal à un roi <i>ou</i> au pouvoir d’un roi, ARSTT. <i>Pol. 2, 7</i> ; DH. <i>5, 70</i>.<p><b>Étym</b>. ἴ. τύραννος.`

@@ -1,0 +1,1 @@
+lar[64840]=`<b>ή, όν</b>, porté à se repentir, ARSTT. <i>Nic. 7, 8, 9</i>.<p><b>Étym</b>. μεταμέλομαι.`

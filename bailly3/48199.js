@@ -1,0 +1,1 @@
+lar[48199]=`<b>ου (ὁ)</b> Jacob, <i>n. d’h. hébreu,</i> NT. <i>Matth. 1, 2, 8 ; 1, 15, 16, etc</i>.`

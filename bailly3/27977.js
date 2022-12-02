@@ -1,0 +1,1 @@
+lar[27977]=`<b>δρύ·καρπον, ου (τὸ)</b> <font color="purple">[ῠ]</font> fruit du chêne, gland, LYC. <i>83</i>.<p><b>Étym</b>. δρῦς, καρπός.`

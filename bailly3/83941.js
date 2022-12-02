@@ -1,0 +1,1 @@
+lar[83941]=`<b>προ·διαρπάζω</b>, piller auparavant, DC. <i>37, 14</i> ; JOS. <i>B.J. 2, 18, 8</i>.`

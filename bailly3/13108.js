@@ -1,0 +1,1 @@
+lar[13108]=`<b>ἀπο·πνεύματος, ος, ον</b> <font color="purple">[μᾰ]</font> exposé au vent, TH. <i>Vent. 30 conj</i>.<p><b>Étym</b>. ἀπό, πνεῦμα.`

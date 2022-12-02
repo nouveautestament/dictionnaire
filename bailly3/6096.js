@@ -1,0 +1,1 @@
+lar[6096]=`<b>ἀμφι·δέμω</b> <font color="darkgreen">(<i>ao. moy. 3 pl</i>. ἀμφεδείμαντο)</font> bâtir autour, JOS. <i>B.J. 5, 5, 1</i>.`

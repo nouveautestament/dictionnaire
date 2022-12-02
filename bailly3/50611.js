@@ -1,0 +1,1 @@
+lar[50611]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> = <i>lat</i>. Cæsario, Césarion, <i>fils de César et de Cléopâtre,</i> PLUT. <i>Cæs. 49, Ant. 54 et 81</i>.<p><b>Étym</b>. Καῖσαρ.`

@@ -1,0 +1,1 @@
+lar[79701]=`<b>περι·ψιλόω-ῶ</b> <font color="purple">[ψῑ]</font> dépouiller tout autour, dénuder, HDT. <i>9, 83</i>.`

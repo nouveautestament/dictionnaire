@@ -1,0 +1,1 @@
+lar[40312]=`<b>ἐρετμόω-ῶ :<br>      1</b> armer de rames, EUR. <i>Med. 4</i>.<br><b>      2</b> agiter en ramant, ORPH. <i>Arg. 356, ou</i> comme des rames, NONN. <i>D. 7, 185</i>.<br><b>      3</b> parcourir en ramant, <i>fig</i>. NONN. <i>D. 14, 3</i>.<p><b>Étym</b>. ἐρετμόν.`

@@ -1,0 +1,1 @@
+lar[109679]=`<b>ας (ἡ)</b> fausse opinion, STR. <i>680</i> ; PLUT. <i>M. 716b, etc</i>.<p><b>Étym</b>. ψευδόδοξος.`

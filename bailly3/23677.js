@@ -1,0 +1,1 @@
+lar[23677]=`<b>δεκ·άμφορος, ος, ον</b>, qui contient dix amphores, EUR. <i>Cycl. 388</i> ; SOSITH. (ATH. <i>415b</i>).<p><b>Étym</b>. δ. ἀμφορεύς.`

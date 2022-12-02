@@ -1,0 +1,1 @@
+lar[104195]=`<b>ή, όν</b>, modeste, humble, NAZ.<p><b>Étym</b>. ὑποχωρέω.`

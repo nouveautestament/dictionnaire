@@ -1,0 +1,1 @@
+lar[89490]=`<b>ης (ἡ)</b> Sartè (<i>auj</i>. Sárti) <i>v. près du mt Athos,</i> HDT. <i>7, 122</i>.`

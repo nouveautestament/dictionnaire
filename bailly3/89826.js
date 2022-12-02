@@ -1,0 +1,1 @@
+lar[89826]=`<i>ou</i> <b>Σευουῆρα, ας (ἡ)</b> = <i>lat</i>. Sĕvēra, <i>n. de f. rom</i>. ANTH. <i>15, 4 et 8</i>.`

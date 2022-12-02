@@ -1,0 +1,1 @@
+lar[66076]=`<b>μισο·σώματος, ος, ον</b> <font color="purple">[ῑᾰ]</font> qui hait <i>ou</i> méprise le corps, PROCL. <i>Ptol. p. 222</i>.<p><b>Étym</b>. μ. σῶμα.`

@@ -1,0 +1,1 @@
+lar[48784]=`<b>α, ον</b> <font color="purple">[ῑᾰ]</font> d’Icare : πόντος Ἰ. IL. <i>2, 145</i> ; Ἰ. πέλαγος, HDT. <i>6, 96 ; ou abs</i>. τὸ Ἰκάριον, HDT. <i>6, 95,</i> la mer d’Icare, <i>partie de la mer Égée entre les Cyclades et la Carie</i>.<p><b>Étym</b>. Ἴκαρος.`

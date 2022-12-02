@@ -1,0 +1,1 @@
+lar[67122]=`<b>μυλ·εργάτης, ου (ὁ)</b> <font color="purple">[ῡᾰ]</font> esclave qui travaille à la meule, ANTH. <i>7, 394</i>.<p><b>Étym</b>. μύλη, ἐργάτης.`

@@ -1,0 +1,1 @@
+lar[60253]=`<b>ου (τὸ)</b> <font color="purple">[ῐκ]</font> litière, A. TR. <i>9, p. 524</i>.<p><b>Étym</b>. <i>lat</i>. lectica.`

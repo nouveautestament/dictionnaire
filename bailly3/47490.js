@@ -1,0 +1,1 @@
+lar[47490]=`(<i>seul. prés</i>.) recevoir la semence génitale, A. LIB. <i>29</i>.<p><b>Étym</b>. θορός.`

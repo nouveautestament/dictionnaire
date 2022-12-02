@@ -1,0 +1,1 @@
+lar[32241]=`<b>ἐκ·τρυγάω-ῶ</b> <font color="purple">[ῠ]</font> vendanger à fond, recueillir tout le fruit, SPT. <i>Lev. 25, 5</i> ; CHRYS. <i>5, 15</i>.`

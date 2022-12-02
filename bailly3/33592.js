@@ -1,0 +1,1 @@
+lar[33592]=`<b>οῦ (ὁ)</b> incendiaire, AQU. <i>Deut. 8, 15</i>.<p><b>Étym</b>. ἐμπρήθω.`

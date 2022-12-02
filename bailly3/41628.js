@@ -1,0 +1,1 @@
+lar[41628]=`<b>εὐ·απολόγητος, ος, ον</b> <font color="purple">[ᾰ]</font> facile à excuser, STR. <i>463</i> ; PLUT. <i>Ages. 17</i>.<p><b>Étym</b>. εὖ, ἀπολογέομαι.`

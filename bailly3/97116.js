@@ -1,0 +1,1 @@
+lar[97116]=`<b>ου (τὸ)</b> salle de repos <i>ou</i> d’étude, PLUT. <i>Luc. 42</i> ; MOSCHION HIST. (ATH. <i>207f</i>).<p><b>Étym</b>. σχολάζω.`

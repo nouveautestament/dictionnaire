@@ -1,0 +1,1 @@
+lar[52290]=`<b>κατα·δείδω</b> (<i>seul. ao</i>. κατέδεισα, <i>inf</i>. -δεῖσαι, <i>part</i>. -δείσας ; <i>postér. fut</i>. -δείσω) :<br><b>      1</b> craindre, <i>acc</i>. AR. <i>Pax 759</i> ; AND. <i>29, 17, etc. ou</i> περί τινος, PHIL. <i>2, 102,</i> au sujet de qqe ch. ; μή, PHIL. <i>2, 30,</i> que, <i>etc.</i><br><b>      2</b> effrayer, PHALAR. <i>Ep. 84</i>.`

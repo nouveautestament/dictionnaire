@@ -1,0 +1,1 @@
+lar[82030]=`<b>πολύ·κρεως, ως, ων</b>, abondant en viandes, PHIL. (EUS. <i>P.E. 392b</i>).<p><b>Étym</b>. π. κρέας.`

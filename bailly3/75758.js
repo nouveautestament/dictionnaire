@@ -1,0 +1,1 @@
+lar[75758]=`<b>παρα·κνημόομαι-οῦμαι</b>, traîner la jambe, marcher péniblement, lourdement, HIPPON. <i>fr. 130</i>.<p><b>Étym</b>. π. κνήμη.`

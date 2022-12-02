@@ -1,0 +1,1 @@
+lar[33582]=`<b>ος, ον</b>, potable, ARÉT. <i>Cur. m. diut. 1, 13</i>.<p><b>Étym</b>. ἐμπίνω.`

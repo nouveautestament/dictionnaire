@@ -1,0 +1,1 @@
+lar[17190]=`<i>adv</i>., à la manière des joueurs d’aulos, ANTIPH. (ATH. <i>667a</i>) ; PLUT. <i>M. 404f</i>.`

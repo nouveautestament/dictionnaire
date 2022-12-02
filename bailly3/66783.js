@@ -1,0 +1,1 @@
+lar[66783]=`<b>ων (οἱ)</b> <font color="purple">[ῡ]</font> <i>c</i>. Μοσσύνοικοι, ARTÉM. <i>1, 8</i>.`

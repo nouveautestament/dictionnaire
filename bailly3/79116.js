@@ -1,0 +1,1 @@
+lar[79116]=`<b>ος, ον</b>, entrelacé, enlacé, THCR. <i>Idyl. 18, 8 var</i>. περίπλικτος.<p><b>Étym</b>. περιπλέκω.`

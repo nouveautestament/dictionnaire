@@ -1,0 +1,1 @@
+lar[2560]=`<b>αἱματό·φυρτος, ος, ον</b> <font color="purple">[ᾰ]</font> souillé de sang, ANTH. <i>5, 180, etc</i>.<p><b>Étym</b>. αἷ. φύρω.`

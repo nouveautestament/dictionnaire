@@ -1,0 +1,1 @@
+lar[65389]=`<b>μηλο·δόκος, ος, ον</b>, qui reçoit des brebis en sacrifice, PD. <i>P. 3, 48</i>.<p><b>Étym</b>. μῆλον¹, δέχομαι.`

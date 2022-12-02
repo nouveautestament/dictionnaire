@@ -1,0 +1,1 @@
+lar[87045]=`<b>ατος (τὸ)</b> déjection, excrément, SPT. <i>Ezech. 32, 6</i>.<p><b>Étym</b>. προχωρέω.`

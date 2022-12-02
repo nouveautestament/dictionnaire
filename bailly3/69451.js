@@ -1,0 +1,1 @@
+lar[69451]=`<b>*ξενο·βάκχη</b>, <i>ion</i>. <b>ξεινο·βάκχη, ης</b>, <i>adj. f</i>. éprise d’amour pour un étranger, LYC. <i>175</i>.<p><b>Étym</b>. ξένος, βάκχη.`

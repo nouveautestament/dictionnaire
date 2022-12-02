@@ -1,0 +1,1 @@
+lar[7350]=`<b>ἀνα·πειράομαι-ῶμαι :<br>      1</b> faire l’épreuve de, essayer, <i>acc</i>. DÉM. <i>1229, 19</i> ; POL. <i>26, 7, 9</i>.<br><b>      2</b> recommencer <i>ou</i> continuer ses exercices, sa manœuvre, HDT. <i>6, 12</i> ; THC. <i>7, 7, etc</i>.`

@@ -1,0 +1,1 @@
+lar[71334]=`<b>ῶν (οἱ)</b> les habitants d’Ombes (<i>auj</i>. Kom Ombo) <i>v. d’Égypte, au nord de Syène,</i> EL. <i>N.A. 10, 21 et 24</i>.`

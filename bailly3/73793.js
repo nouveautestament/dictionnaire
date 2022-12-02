@@ -1,0 +1,1 @@
+lar[73793]=`<b>ου</b> <i>ou</i> <b>α (ὁ)</b> <font color="purple">[ᾱ]</font> Ophélas, <i>h</i>. ARSTT. <i>Œc. 2, 35</i>.`

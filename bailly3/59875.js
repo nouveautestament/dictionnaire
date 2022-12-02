@@ -1,0 +1,1 @@
+lar[59875]=`<b>ιος (ὁ)</b> Laris, <i>fl. d’Italie,</i> LYC. <i>725</i>.`

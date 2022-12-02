@@ -1,0 +1,1 @@
+lar[2200]=`<b>ου (ἡ)</b> peuplier noir (<i>Populus nigra</i> L.) OD. <i>7, 106, etc.</i> ; SOPH. <i>fr. 24</i> ; EUR. <i>Hipp. 211</i> ; ARSTT. <i>Mund. 6, 37, etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

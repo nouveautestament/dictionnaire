@@ -1,0 +1,1 @@
+lar[32404]=`<b>ἐκ·χρηματίζομαι</b> <font color="purple">[ᾰ]</font> extorquer de l’argent, rançonner, THC. <i>8, 87</i> ; DC. <i>53, 10</i>.`

@@ -1,0 +1,1 @@
+lar[7353]=`<b>ἀνα·πεμπάζω</b>, repasser dans son esprit, compter et recompter, LYC. <i>9</i> ; LUC. <i>Philopatr. 1</i> ; ANTH. <i>11, 382, etc.</i><br><b><i>Moy.</i></b> <i>m. sign. : acc</i>. PLAT. <i>Lys. 222e ;</i> PLUT. <i>M. 605a ;</i> LUC. <i>Nec. 12, etc. ; abs</i>. PLAT. <i>Leg. 724b</i>.`

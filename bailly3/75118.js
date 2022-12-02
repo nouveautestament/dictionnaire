@@ -1,0 +1,1 @@
+lar[75118]=`<b>Παν·οπεύς, έως</b>, <i>ion</i>. <b>ῆος (ὁ)</b> <font color="purple">[ᾰ]</font> Panopée, <i>l’un des chasseurs du sanglier de Kalydon,</i> IL. <i>23, 665</i> ; PLAT. <i>Ion 533a, etc</i>.<p><b>Étym</b>. π. ὄψομαι.`

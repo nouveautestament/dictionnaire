@@ -1,0 +1,1 @@
+lar[69687]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui concerne le travail du bois, EUR. <i>fr. 978</i> ; ἡ ξυλουργική (<i>s.-e</i>. τέχνη) PLAT. <i>Phil. 56b</i>, le métier de menuisier, de charpentier.<p><b>Étym</b>. <i>v</i>. ξυλουργία.`

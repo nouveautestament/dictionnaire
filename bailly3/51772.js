@@ -1,0 +1,1 @@
+lar[51772]=`<i>acc</i>. <b>-ιν (ἡ)</b> la fontaine Karéôtis, <i>n. fictif,</i> LUC. <i>V.H. 2, 33</i>.`

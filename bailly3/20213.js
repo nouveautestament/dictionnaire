@@ -1,0 +1,1 @@
+lar[20213]=`<b>ης, ες :<br>   I</b> bourbeux, fangeux, PLAT. <i>Phæd. 111e ;</i> ARSTT. <i>H.A. 5, 19, 16</i>.<br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> trouble, HPC. <i>Aph. 1260</i>.<br><b>      2</b> sale, impur, TH. <i>9, 2, 3</i>.<p>•<i> Cp</i>. -έστερος, PLAT. <i>l. c</i>.<p><b>Étym</b>. βόρβορος, -ωδης.`

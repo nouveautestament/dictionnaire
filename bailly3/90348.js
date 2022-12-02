@@ -1,0 +1,1 @@
+lar[90348]=`<i>gén</i>. <b>εω (ὁ)</b> <font color="purple">[ῑῠ]</font> Simylas, <i>h</i>. ANTH. <i>6, 34</i>.`

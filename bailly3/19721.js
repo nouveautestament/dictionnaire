@@ -1,0 +1,1 @@
+lar[19721]=`<b>ης (ἡ)</b> air de musique, SOPH. <i>fr. 79 ; cf</i>. βυδοί.`

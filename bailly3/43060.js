@@ -1,0 +1,1 @@
+lar[43060]=`<b>εὐ·ποίητος, ος, ον</b>, bien fait, bien travaillé, IL. <i>16, 106</i> ; OD. <i>3, 434 ; 20, 150</i> ; HH. <i>Ap. 265</i> ; HÉS. <i>Sc. 64</i> ; ANTH. <i>6, 174, etc</i>.<p><b>Étym</b>. εὖ, ποιέω.`

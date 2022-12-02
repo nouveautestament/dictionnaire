@@ -1,0 +1,1 @@
+lar[92205]=`<b>ος, ον</b> <font color="purple">[ᾰῐδ]</font> de raisiné, HPC. <i>497, 7</i>.<p><b>Étym</b>. σταφίς.`

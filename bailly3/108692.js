@@ -1,0 +1,1 @@
+lar[108692]=`<b>χοιρο·κομεῖον, ου (τὸ)</b> cage d’osier pour les petits cochons, AR. <i>Vesp. 844, etc., litt</i>. où l’on prend soin des petits cochons.<p><b>Étym</b>. χοῖρος, κομέω.`

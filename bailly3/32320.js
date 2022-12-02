@@ -1,0 +1,1 @@
+lar[32320]=`<b>ἐκ·φλεγμαίνω</b>, bouillonner, BAS. <i>1, 336a Migne</i>.`

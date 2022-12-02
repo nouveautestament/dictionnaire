@@ -1,0 +1,1 @@
+lar[55120]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec profusion, ALCIPHR. <i>3, 65</i>.<p><b>Étym</b>. χέω.`

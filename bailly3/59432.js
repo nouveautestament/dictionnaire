@@ -1,0 +1,1 @@
+lar[59432]=`<b>α, ον</b> <font color="purple">[ᾰγ]</font> de lièvre, AR. <i>Ach. 1110</i> ; PLUT. <i>M. 138f ;</i> τὰ λαγῷα (<i>s.-e</i>. κρέα) AR. <i>Eq. 1192, etc.</i> ; COM. (ATH. <i>400d</i>) viande de lièvre.<p><b>Étym</b>. λαγώς.`

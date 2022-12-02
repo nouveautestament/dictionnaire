@@ -1,0 +1,1 @@
+lar[92100]=`<b>οῦ (τὸ)</b> <i>c</i>. σταθμός, <i>d’ord. au plur</i>. τὰ σταθμά, SOPH. <i>O.R. 1139, etc.</i> ; XÉN. <i>Eq. 4, 3, etc. ; conservé au sg. au sens de</i> poids <i>dans les inscr. att</i>. CIA. <i>2, 701 ; 1, 50, 54</i>.<p><b>Étym</b>. <i>344 av. J.-C. etc. ; v. Meisterh. p. 113, 13</i>.`

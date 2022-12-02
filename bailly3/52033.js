@@ -1,0 +1,1 @@
+lar[52033]=`<b>οῦ (ὁ)</b> couverture de cheval velue des deux côtés, XÉN. <i>Cyr. 8, 3, 6</i>.`

@@ -1,0 +1,1 @@
+lar[110243]=`<b>ὠμ·αμπέλινος, η, ον</b> <font color="purple">[ῐ]</font> de la couleur des feuilles de vigne encore vertes, <i>p. opp. à</i> ξηραμπέλινος, ARR. <i>Eux. 37</i>.<p><b>Étym</b>. ὠμός, ἄμπελος.`

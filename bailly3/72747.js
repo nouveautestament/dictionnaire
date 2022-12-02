@@ -1,0 +1,1 @@
+lar[72747]=`<b>ὀρθό·πτερος, ος, ον</b>, dont les colonnes (<i>propr</i>. les plumes <i>ou</i> les ailes) se dressent, SOPH. <i>fr. 31 Dind</i>.<p><b>Étym</b>. ὀ. πτερόν.`

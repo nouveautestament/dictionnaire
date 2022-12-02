@@ -1,0 +1,1 @@
+lar[4998]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> agitation, inquiétude, HPC. <i>Aph. 1260</i>.<p><b>Étym</b>. ἀλύω.`

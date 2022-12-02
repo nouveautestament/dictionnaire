@@ -1,0 +1,1 @@
+lar[46718]=`<b>θεο·μισής, ής, ές</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui hait les dieux, AR. <i>Av. 1548</i>.<br><b>      2</b> haï des dieux, PLAT. <i>Euthyphr. 7a</i>.<p>•<i> Sup</i>. -έστατος, PLAT. <i>Leg. 916e</i>.<p><b>Étym</b>. θ. μισέω.`

@@ -1,0 +1,1 @@
+lar[458]=`<b>ἀγελαιο·κομική, ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. τέχνη, l’art de soigner les troupeaux, PLAT. <i>Pol. 275e</i>.<p><b>Étym</b>. ἀγελαῖος, κομέω.`

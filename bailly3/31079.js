@@ -1,0 +1,1 @@
+lar[31079]=`<b>α, ον</b> <font color="purple">[βᾰ]</font> qui concerne le débarquement, HIM. <i>Ecl. 13, 38</i> ; τὰ ἐκβατήρια, sacrifice après un heureux débarquement ; <i>fig</i>. ἐκβ. τῆς νόσου θύσας, PHILSTR. <i>V. soph. 1, 12,</i> ayant offert un sacrifice pour s’être heureusement tiré de la maladie.<p><b>Étym</b>. ἐκβαίνω.`

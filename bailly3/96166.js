@@ -1,0 +1,1 @@
+lar[96166]=`<b>συν·όμευνος, ος, ον</b>, compagnon <i>ou</i> compagne de lit, <i>d’où</i> époux, épouse, ANTH. <i>3, 3 ; App. 244, 384</i>.<p><b>Étym</b>. σύν, ὅμευνος.`

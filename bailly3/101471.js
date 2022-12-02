@@ -1,0 +1,1 @@
+lar[101471]=`<b>Ὑδατοσ·ύδνη, ης (ἡ)</b> <font color="purple">[ῠ, <i>par nécess. prosod</i>. ῡδᾰ]</font> Hydatosydnè, <i>litt</i>. « fille de l’eau », <i>n. d’une Néréïde,</i> CALL. <i>fr. 347</i>.<p><b>Étym</b>. ὕδωρ ; <i>formé par anal. avec</i> ἁλοσύδνη.`

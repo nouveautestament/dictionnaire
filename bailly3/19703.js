@@ -1,0 +1,1 @@
+lar[19703]=`<b>ου (τὸ)</b> tout petit livre, DÉM. <i>1283, 5</i> ; POL. <i>24, 2, 5</i>.<p>➳ <font color="purple">[ῑδ]</font> ANTH. <i>12, 208</i>.<p><b>Étym</b>. <i>dim. de</i> βιβλίς.`

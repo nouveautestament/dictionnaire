@@ -1,0 +1,1 @@
+lar[14379]=`<b>ἀργυ·φής, ής, ές</b> <font color="purple">[ῠ]</font> <i>c</i>. ἀργύφεος ORPH. <i>Lith. 284</i>.`

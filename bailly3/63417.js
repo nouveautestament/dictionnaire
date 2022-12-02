@@ -1,0 +1,1 @@
+lar[63417]=`<b>μεγαλο·ρρέκτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui accomplit de grandes choses, ADAM. <i>Physiogn. 2, 27</i>.<p><b>Étym</b>. μ. ῥέζω.`

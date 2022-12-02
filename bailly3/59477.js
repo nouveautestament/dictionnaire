@@ -1,0 +1,1 @@
+lar[59477]=`<b>λαθί·φθογγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait oublier la parole, HÉS. <i>Sc. 131</i>.<p><b>Étym</b>. λαθεῖν, φθόγγος.`

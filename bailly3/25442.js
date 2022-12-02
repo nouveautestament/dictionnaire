@@ -1,0 +1,1 @@
+lar[25442]=`<b>ῆς (ἡ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> pillage, HDT. <i>9, 42</i> ; SPT. <i>Num. 14, 3 ; etc.</i><br><b>      2</b> concussion, POL. <i>10, 16, 6</i>.<p><b>Étym</b>. διαρπάζω.`

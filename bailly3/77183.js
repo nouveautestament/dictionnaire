@@ -1,0 +1,1 @@
+lar[77183]=`<b>ος, ον</b>, qu’il faut <i>ou</i> qu’on peut éviter, PD. <i>P. 12, 53</i>.<p><b>Étym</b>. <i>vb. de</i> παρφυγέειν.`

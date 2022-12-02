@@ -1,0 +1,1 @@
+lar[13476]=`<b>ἀπο·στυφελίζω</b> <font color="purple">[ῠ]</font> repousser <i>ou</i> séparer avec violence : τινά τινος, IL. <i>18, 158,</i> qqn de qqn ; μόχθων, ANTH. <i>7, 603,</i> arracher qqn au chagrin.`

@@ -1,0 +1,1 @@
+lar[12791]=`<b>Ἀπολλό·θεμις (ὁ)</b> Apollothémis, <i>historien,</i> PLUT. <i>Lyc. 31</i>.<p><b>Étym</b>. Ἀ. θέμις.`

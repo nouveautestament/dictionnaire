@@ -1,0 +1,1 @@
+lar[12049]=`<i>adv</i>., sans blesser : ἐνετέον δὲ ἀπλήκτως ψυχρά, ORIB. <i>2, 218 B.-Dar</i>. on administrera des lavements froids, mais qui n’engourdissent pas.`

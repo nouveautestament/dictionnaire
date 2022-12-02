@@ -1,0 +1,1 @@
+lar[65009]=`<b>ας (ἡ)</b> changement, vicissitude, PD. <i>P. 10, 31 au pl</i>.<p><b>Étym</b>. μετάτροπος.`

@@ -1,0 +1,1 @@
+lar[20496]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Boupalos, <i>sculpteur et architecte de Chios, raillé par Hipponax, son ennemi, pour sa stupidité,</i> HIPPON. <i>fr. 11 ; 12, etc.</i> ; AR. <i>Lys. 361</i> ; LUC. <i>Pseud. 2</i>.`

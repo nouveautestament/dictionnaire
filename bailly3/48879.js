@@ -1,0 +1,1 @@
+lar[48879]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., gaîment, joyeusement, XÉN. <i>Ap. 33</i> ; PLUT. <i>Ages. 2, etc</i>.<p><b>Étym</b>. ἱλαρός.`

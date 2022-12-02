@@ -1,0 +1,1 @@
+lar[59207]=`<b>ας (ἡ)</b> <font color="purple">[δῐκᾰ]</font> indication que l’auteur comique donne aux acteurs, étude et répétition de la pièce, AR. <i>Eq. 516</i>.`

@@ -1,0 +1,1 @@
+lar[51281]=`<b>ατος (τὸ)</b> embellissement, ornement, PLAT. <i>Gorg. 492c ;</i> PLUT. <i>Lyc. 9 ; en mauv. part,</i> ornement recherché, HDN <i>5, 5, 9 ; en parl. du discours,</i> DH. <i>Thuc. 46</i>.<p><b>Étym</b>. καλλωπίζω.`

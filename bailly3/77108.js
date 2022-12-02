@@ -1,0 +1,1 @@
+lar[77108]=`<b>ή, όν</b>, propre à exciter, à stimuler, LGN <i>14</i> ; πρός τι, PLUT. <i>Lyc. 15,</i> qui excite à qqe ch.<p><b>Étym</b>. παρορμάω.`

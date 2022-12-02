@@ -1,0 +1,1 @@
+lar[101418]=`<b>ὑγρο·ρροέω-οῶ</b>, couler en eau, transpirer de l’humeur <i>ou simpl</i>. transpirer, ARSTT. <i>Probl. 1, 33</i>.<p><b>Étym</b>. ὑ. ῥόος.`

@@ -1,0 +1,1 @@
+lar[94696]=`<b>συν·αναγυμνόω-ῶ</b>, mettre à nu en même temps, PLUT. <i>Lyc. c. Num. 3 ; fig</i>. révéler, <i>au pass</i>. SEXT. <i>M. 8, 274</i>.`

@@ -1,0 +1,1 @@
+lar[25245]=`<b>δια·πετάννυμι</b>, déployer, étendre, ouvrir, AR. <i>Lys. 732, 733</i> ; ARSTT. <i>H.A. 5, 6, 2</i>.<p>➳ <i>Prés. impér. 2 sg</i>. -άννυ, AR. <i>Lys. 733. Ao. sbj. 3 sg</i>. -πετάσῃ, ARSTT. <i>l. c. ; part</i>. διαπετάσας, AR. <i>Lys. 732. Pf. part</i>. διαπεπετακότας, DS. <i>17, 115</i>.`

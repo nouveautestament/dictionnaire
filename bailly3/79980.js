@@ -1,0 +1,1 @@
+lar[79980]=`<font color="purple">[ῠ]</font> <i>adv.</i> :<br><b>      1</b> avec précaution, XÉN. <i>An. 2, 4, 24</i> ; ISOCR. <i>178e ;</i> DÉM. <i>83 fin</i>.<br><b>      2</b> de manière à être sauf, XÉN. <i>Hipp. 6, 2</i>.<p><b>Étym</b>. φυλάσσω.`

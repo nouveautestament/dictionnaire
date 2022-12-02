@@ -1,0 +1,1 @@
+lar[80418]=`<b>Πισαῖον ὄρος (τὸ)</b> le mt Pisa, <i>en Béotie,</i> PLUT. <i>Parall. min. 32</i>.`

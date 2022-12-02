@@ -1,0 +1,1 @@
+lar[46670]=`<b>θεό·κλητος, ος, ον :<br>      1</b> appelé <i>ou</i> proclamé par les dieux, NONN. <i>Jo. 1, 23</i>.<br><b>      2</b> où l’on invoque les dieux, NONN. <i>D. 5, 92</i>.<p><b>Étym</b>. θ. κλητός.`

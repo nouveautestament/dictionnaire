@@ -1,0 +1,1 @@
+lar[21837]=`<b>ή, όν</b>, apte à goûter ; τὸ γ. αἰσθητήριον, ARSTT. <i>An. 2, 10, 5 ; ou</i> ἡ γ. δύναμις, A. APHR. le sens du goût.<p><b>Étym</b>. γεύω.`

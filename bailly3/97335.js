@@ -1,0 +1,1 @@
+lar[97335]=`<b>      1</b> devenir rance, sentir le rance, GEOP. <i>9, 22, 3</i>.<br><b>      2</b> avoir une tumeur <i>ou</i> des ulcères, AÉT.<p><b>Étym</b>. ταγγός.`

@@ -1,0 +1,1 @@
+lar[77899]=`<b>ας (ἡ)</b> la classe des pénestes <i>ou</i> domestiques, <i>en Thessalie,</i> ARSTT. <i>Pol. 2, 5, 22, etc</i>.<p><b>Étym</b>. πενέστης.`

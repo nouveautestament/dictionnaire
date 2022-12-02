@@ -1,0 +1,1 @@
+lar[33918]=`<b>ἐν·απ·ενιαυτίζω</b> <font color="purple">[ᾰ]</font> séjourner un an hors de chez soi dans, <i>dat</i>. PARMÉNISC. GR. (SCH.-EUR. <i>Med. 264).</i><p><b>Étym</b>. ἐν, ἀπό, ἐ.`

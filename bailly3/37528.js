@@ -1,0 +1,1 @@
+lar[37528]=`<b>ἐπιδειπνέω-ῶ :<br>      1</b> faire un second repas, HPC. <i>V. med. 11, Acut. 388</i>.<br><b>      2</b> manger comme dessert, AR. <i>Eq. 1140, Eccl. 1178, etc</i>.<p><b>Étym</b>. ἐπίδειπνον.`

@@ -1,0 +1,1 @@
+lar[48970]=`<b>ἱματιο·κλέπτης, ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> voleur de vêtements, DL. <i>6, 52</i>.<p><b>Étym</b>. ἱ. κλέπτης.`

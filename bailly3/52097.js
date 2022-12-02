@@ -1,0 +1,1 @@
+lar[52097]=`<b>ορος (ὁ) :<br>      1</b> castor, <i>animal,</i> HDT. <i>4, 109</i> ; ARSTT. <i>H.A. 8, 5, etc.</i><br><b>      2</b> castoréum, <i>plante, c</i>. καστόριον, HPC. <i>659, 41</i> ; ARÉT. <i>p. 112</i>.<br><b>      3</b> safran, DIOSC. <i>1, 25</i>.`

@@ -1,0 +1,1 @@
+lar[8405]=`<b>ἀν·επάλλακτος, ος, ον</b>, qui n’alterne pas : ἀν. ζῷα, ARSTT. <i>H.A. 2, 1, 51,</i> animaux dont les dents ne s’emboîtent pas par alternance (de haut en bas et de bas en haut, mais sont d’égale longueur sur toute la rangée).<p><b>Étym</b>. ἀν-, ἐπαλλάσσω.`

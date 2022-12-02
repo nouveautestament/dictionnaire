@@ -1,0 +1,1 @@
+lar[57188]=`<b>όεσσα, όεν</b> <font color="purple">[ῡ]</font> qui croît en touffe, HÉS. <i>Sc. 289, au pl. neutre</i> κορυνιόεντα, <i>vulg</i>. κορωνιόωντα.<p><b>Étym</b>. κορύνη ; <i>v</i>. κορυνώδης.`

@@ -1,0 +1,1 @@
+lar[98144]=`<b>τελεό·γονος, ος, ον</b>, qui naît à terme, qui vient à maturité, ARSTT. <i>H.A. 7, 4, 19</i>.<p><b>Étym</b>. τέλεος, γίγνομαι.`

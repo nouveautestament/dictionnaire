@@ -1,0 +1,1 @@
+lar[55273]=`<b>κηρο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> peinture à la cire, ATH. <i>204b</i>.<p><b>Étym</b>. <i>cf</i>. κηρογραφέω.`

@@ -1,0 +1,1 @@
+lar[64088]=`<b>ή, όν</b>, qui concerne l’élève des abeilles, ATH. <i>68c</i>.<p><b>Étym</b>. μελισσουργός.`

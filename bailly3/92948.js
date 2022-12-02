@@ -1,0 +1,1 @@
+lar[92948]=`<b>ης</b> <font color="purple">[ῠ]</font> Strongylè (<i>litt</i>. la Ronde, <i>auj</i>. Stromboli) <i>une des î. Éoliennes,</i> THC. <i>3, 88</i>.<p><b>Étym</b>. <i>fém. de</i> στρογγύλος.`

@@ -1,0 +1,1 @@
+lar[35528]=`(<i>seul. prés</i>.) <font color="purple">[ᾰᾰ]</font> tromper un peu, AR. <i>Ach. 657, Eq. 1144</i>.<p><b>Étym</b>. <i>dim. com. de</i> ἐξαπατάω.`

@@ -1,0 +1,1 @@
+lar[11362]=`<b>ἀπ·αργυρίζω</b> <font color="purple">[ῠ]</font> trafiquer avec de l’argent, vendre <i>ou</i> acheter, THÉM. <i>292</i>.`

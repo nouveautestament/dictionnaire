@@ -1,0 +1,1 @@
+lar[6832]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Anæes, <i>v. d’Ionie,</i> THC. <i>3, 19</i>.<p><b>Étym</b>. Ἄναια.`

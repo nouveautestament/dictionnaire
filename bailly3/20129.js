@@ -1,0 +1,1 @@
+lar[20129]=`<b>οῦ (ὁ)</b> oignon, ARSTT. <i>Probl. 20, 26</i> ; TH. <i>H.P. 7, 13, 8 ; etc</i>.`

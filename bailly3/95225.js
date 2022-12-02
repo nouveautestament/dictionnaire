@@ -1,0 +1,1 @@
+lar[95225]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f. c</i>. σύνδρομος 1, EUR. <i>I.T. 422</i> ; THCR. <i>Idyl. 13, 22</i>.`

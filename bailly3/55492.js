@@ -1,0 +1,1 @@
+lar[55492]=`<b>ου (ὁ)</b> <i>plante inconnue,</i> MNÉSIM. (ATH. <i>403d</i>).`

@@ -1,0 +1,1 @@
+lar[56486]=`<b>κοινο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> qui sympathise, DH. <i>1, 41</i>.<p><b>Étym</b>. κοινός, πάθος.`

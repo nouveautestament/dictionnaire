@@ -1,0 +1,1 @@
+lar[61080]=`<b>λιθό·στρωτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> bâti en pierres, SOPH. <i>Ant. 1204</i>.<br><b>      2</b> pavé en mosaïque, SPT. <i>Cant. 3, 10</i> ; τὸ λιθόστρωτον, ARR. <i>Epict. 4, 7, 37</i> ; NT. <i>Joh. 19, 13,</i> mosaïque.<p><b>Étym</b>. λ. στρώννυμι.`

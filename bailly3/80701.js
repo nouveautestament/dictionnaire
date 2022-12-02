@@ -1,0 +1,1 @@
+lar[80701]=`<b>ας (ἡ)</b> <font color="purple">[ᾰτ]</font> Platæa, (<i>auj</i>. Πλαταιές, Plateés, Platée) <i>v. de Béotie,</i> HDT. <i>8, 50</i> ; THC. <i>2, 4, etc. ; plus souv. au plur</i>. Πλαταιαί, HDT. <i>9, 25, 30, etc</i>.<p><b>Étym</b>. πλατύς.`

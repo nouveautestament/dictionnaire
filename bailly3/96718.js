@@ -1,0 +1,1 @@
+lar[96718]=`<b>συ·στρογγύλλω</b>, mettre en boule, arrondir : τὴν οὐσίαν, ALEX. (ATH. <i>165d</i>) son bien, <i>càd</i>. n’en faire qu’une bouchée pour le dévorer.`

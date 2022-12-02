@@ -1,0 +1,1 @@
+lar[19631]=`<b>(ὁ)</b> Bèrisadès, <i>roi de Thrace,</i> DÉM. ; <i>roi du Pont,</i> MACH. (ATH. <i>349d</i>).`

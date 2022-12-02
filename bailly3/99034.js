@@ -1,0 +1,1 @@
+lar[99034]=`<b>οῦ (ὁ)</b> qui veille sur, gardien de, <i>gén</i>. ESCHL. <i>Suppl. 248</i>.<p><b>Étym</b>. <i>cf</i>. τηρέω.`

@@ -1,0 +1,1 @@
+lar[77008]=`<b>ος, ον :<br>      1</b> situé sur la rue <i>ou</i> sur la route, HYPÉR. (POLL. <i>7, 121</i>) ; PLUT. <i>M. 521d.</i><br><b>      2</b> commun, proverbial, BAS. <i>3, 388 Migne</i>.<p><b>Étym</b>. πάροδος.`

@@ -1,0 +1,1 @@
+lar[1314]=`<b>ἀ·διάδοχος, ος, ον</b>, sans successeur, continu, NAZ. <i>2, 609 Migne</i>.<p><b>Étym</b>. ἀ, διαδέχομαι.`

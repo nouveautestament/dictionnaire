@@ -1,0 +1,1 @@
+lar[45345]=`<b>ῶν (τὰ)</b> calendrier, PTOL. (<i>Fabricii bibliotheca græca 2, 431).</i><p><b>Étym</b>. <i>v</i>. ἡμερολόγιον.`

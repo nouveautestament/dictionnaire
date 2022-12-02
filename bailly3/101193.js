@@ -1,0 +1,1 @@
+lar[101193]=`(<i>seul. prés</i>.) être aveugle, LUC. <i>V.H. 1, 25 ; d’où fig</i>. être insensible, CIC. <i>Att. 2, 19</i> ; LUC. <i>Nigr. 4</i> ; ἀμφί τι, GAL. <i>19, 51</i> ; περί τι, POL. <i>2, 61, 12</i> ; PLUT. <i>M. 167a</i>, GAL. <i>11, 489d</i>, à qqe ch.<p><b>Étym</b>. τυφλός ; <i>pour la format. cf</i>. λιμώττω <i>de</i> λιμός, ὀνειρώττω <i>de</i> ὄνειρος.`

@@ -1,0 +1,1 @@
+lar[65112]=`<b>μετ·έπειτα</b>, <i>adv</i>., plus tard, dans la suite, IL. <i>14, 310</i> ; OD. <i>10, 519</i> ; HDT. <i>1, 25 ; 7, 7, etc.</i> ; PLAT. <i>Ep. 353c ;</i> ARSTT. <i>Nic. 10, 4, 9</i>.<p><b>Étym</b>. μ. ἔπειτα.`

@@ -1,0 +1,1 @@
+lar[81396]=`<b>ποικιλό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐῐχ]</font><br><b>      1</b> au poil tacheté, EUR. <i>Alc. 584</i>.<br><b>      2</b> aux plumes tachetées, POÈT. (PLUT. <i>M. 1067e</i>).<p><b>Étym</b>. π. θρίξ.`

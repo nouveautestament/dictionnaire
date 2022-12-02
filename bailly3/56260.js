@@ -1,0 +1,1 @@
+lar[56260]=`<b>κνημο·παχής, ής, ές</b> <font color="purple">[ᾰ]</font> gros comme la jambe, TH. <i>H.P. 9, 4, 3 ; C.P. 3, 4, 3</i>.<p><b>Étym</b>. κνήμη, παχύς.`

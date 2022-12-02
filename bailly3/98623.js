@@ -1,0 +1,1 @@
+lar[98623]=`<b>ας (ἡ)</b> <font color="purple">[ρᾱ]</font> attelage de quatre chevaux, PD. <i>O. 2, 8 ; P. 2, 8</i>.<p><b>Étym</b>. τετράορος.`

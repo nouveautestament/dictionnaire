@@ -1,0 +1,1 @@
+lar[39029]=`<b>ἐπι·σμάω-ῶ</b>, appliquer comme un enduit, enduire : τινά τινος, qqn de qqe ch. ; <i>fig</i>. entartrer, insulter, τί γὰρ οὗτος ἡμᾶς οὐκ ἐπισμῇ τῶν κακῶν ; AR. <i>Th. 389,</i> car de quelles mauvaises qualités cet homme ne nous salit pas ?`

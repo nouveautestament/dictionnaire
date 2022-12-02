@@ -1,0 +1,1 @@
+lar[6044]=`<b>Ἀμφί·αλος, ου (ὁ)</b> <font color="purple">[ᾰλ]</font> Amphialos, <i>Phéacien,</i> OD. <i>8, 114, 128</i>.`

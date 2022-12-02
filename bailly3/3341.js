@@ -1,0 +1,1 @@
+lar[3341]=`<b>ας (ἡ) :<br>      1</b> négligence, indifférence, CIC. <i>Att. 12, 45</i> ; SPT. <i>Ps. 118, 28 ; Sir. 29, 5</i>.<br><b>      2</b> chagrin, LUC. <i>Herm. 77</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>272, 39</i>.`

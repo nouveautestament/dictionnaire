@@ -1,0 +1,1 @@
+lar[89013]=`<b>ή, όν</b>, qui concerne de menus objets, <i>d’où</i> petit, menu, de peu de valeur, ERASISTR. (PLUT. <i>Lyc. 9</i>) ; ῥωπικὰ γράψασθαι, ANTH. <i>6, 355,</i> faire peindre grossièrement ; τὰ ῥωπικά, PLUT. <i>M. 495c</i>, marchandises <i>ou</i> objets de peu de valeur ; <i>fig</i>. τὸ ῥωπικόν, LGN <i>3, 4,</i> faux brillant, clinquant du style.<p><b>Étym</b>. ῥῶπος.`

@@ -1,0 +1,1 @@
+lar[27010]=`<b>(ὁ)</b> <i>seul. nomin. c</i>. Ζεύς, RHINTHON (CHŒROB. <i>vol. 3, p. 1194 Bkk</i>).`

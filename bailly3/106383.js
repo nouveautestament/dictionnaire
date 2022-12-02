@@ -1,0 +1,1 @@
+lar[106383]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui n’est qu’un sot bavardage, vain, niais, GAL. <i>Lex. Hipp. 19, 152</i>.<p><b>Étym</b>. φλήναφος, -ωδης.`

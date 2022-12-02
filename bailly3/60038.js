@@ -1,0 +1,1 @@
+lar[60038]=`<b>ιος (ἡ)</b> sort, destinée, BACIS (HDT. <i>9, 43).</i><p><b>Étym</b>. λαγχάνω.`

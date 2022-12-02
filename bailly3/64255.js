@@ -1,0 +1,1 @@
+lar[64255]=`<b>α, ον</b>, de Memnon : Μεμνόνιον ἄστυ, HDT. <i>5, 54,</i> la ville de Memnon, <i>càd</i>. Suse ; <i>cf</i>. HDT. <i>7, 151</i>.<p><b>Étym</b>. Μέμνων.`

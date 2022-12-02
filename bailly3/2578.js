@@ -1,0 +1,1 @@
+lar[2578]=`<b>αἱμο·δαιτέω-ῶ</b>, se repaître de chairs sanglantes, TH. (PORPH. <i>Abst. 2, 8, p. 117).</i><p><b>Étym</b>. αἷ. δαίνυμαι.`

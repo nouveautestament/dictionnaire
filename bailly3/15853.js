@@ -1,0 +1,1 @@
+lar[15853]=`<b>ἀ·σίδηρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> non en fer, EUR. <i>Bacch. 1104</i>.<br><b>      2</b> non travaillé par le fer, ANTH. <i>9, 299</i>.<br><b>      3</b> sans fer, sans glaive, EUR. <i>Bacch. 736</i>.<p>➳ <i>Dor</i>. ἀσίδαρος <font color="purple">[δᾱ]</font> ANTH. <i>l. c</i>.<p><b>Étym</b>. ἀ, σίδηρος.`

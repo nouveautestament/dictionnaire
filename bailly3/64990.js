@@ -1,0 +1,1 @@
+lar[64990]=`<b>ή, όν</b>, propre à renouveler le corps par l’évacuation des humeurs, DIOSC. <i>4, 157</i>.<p><b>Étym</b>. μετασυγκρίνω.`

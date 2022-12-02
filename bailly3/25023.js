@@ -1,0 +1,1 @@
+lar[25023]=`<b>δια·μελαίνω :<br>      1 <i>tr.</i></b> noircir tout à fait, PLUT. <i>Flam. 4</i>.<br><b>      2 <i>intr.</i></b> devenir tout à fait noir, PLUT. <i>M. 921f</i>.`

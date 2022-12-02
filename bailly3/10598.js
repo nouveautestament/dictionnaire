@@ -1,0 +1,1 @@
+lar[10598]=`<b>ἀντι·χασμάομαι-ῶμαι</b>, bâiller par imitation de, <i>càd</i>. en voyant qqn bâiller, ARSTT. <i>Probl. 7, 1, 1, etc</i>.`

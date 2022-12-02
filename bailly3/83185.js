@@ -1,0 +1,1 @@
+lar[83185]=`<b>πραγματο·γραφέω-ῶ</b> <font color="purple">[μᾰᾰ]</font> écrire un récit détaillé, CHRYS.<p><b>Étym</b>. πρᾶγμα, -γραφος <i>de</i> γράφω.`

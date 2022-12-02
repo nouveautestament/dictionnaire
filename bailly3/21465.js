@@ -1,0 +1,1 @@
+lar[21465]=`<b>ηκος (ὁ)</b> vantard, fanfaron, ALC. (DL. <i>1, 81).</i><p><b>Étym</b>. γαῦρος.`

@@ -1,0 +1,1 @@
+lar[31688]=`<b>ἐκ·μουσόω-ῶ</b>, instruire, EL. <i>V.H. 14, 34</i> ; τινά τι, EUR. <i>Bacch. 825,</i> enseigner qqe ch. à qqn.<p><b>Étym</b>. ἐκ, μοῦσα.`

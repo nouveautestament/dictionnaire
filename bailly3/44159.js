@@ -1,0 +1,1 @@
+lar[44159]=`chanter comme refrain, ERATOSTH. (SCH.-PD. <i>O. 9, 1).</i><p><b>Étym</b>. ἐφύμνιον.`

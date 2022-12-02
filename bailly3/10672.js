@@ -1,0 +1,1 @@
+lar[10672]=`<b>ου (τὸ)</b> grotte, antre, caverne, <i>comme habitation des nymphes et des dieux champêtres,</i> OD. <i>13, 203</i> ; HÉS. <i>Th. 483 ; en parl. de l’antre de Polyphème,</i> OD. <i>9, 216 ; comme repaire d’un lion,</i> ESCHL. <i>Eum. 193 ; ou refuge d’un serpent,</i> EUR. <i>Ph. 232</i>.`

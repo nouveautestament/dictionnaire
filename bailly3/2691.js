@@ -1,0 +1,1 @@
+lar[2691]=`<b>αἰνό·θρυπτος, ος, ον</b>, terriblement mou, efféminé, THCR. <i>Idyl. 15, 27</i>.<p><b>Étym</b>. αἰν. θρύπτω.`

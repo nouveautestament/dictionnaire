@@ -1,0 +1,1 @@
+lar[78920]=`<b>περί·μεστος, ος, ον</b>, entièrement plein de, <i>gén</i>. XÉN. <i>Conv. 2, 11</i>.<p><b>Étym</b>. π. μεστός.`

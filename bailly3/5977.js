@@ -1,0 +1,1 @@
+lar[5977]=`<b>ἀμφ·αγαπάζω</b> (<i>seul. prés. et impf</i>.) <font color="purple">[ᾰγᾰ]</font> entourer d’affection, OD. <i>14, 381</i> ; A.RH. <i>3, 258, etc.</i><br><b><i>Moy.</i></b> (<i>seul. prés.) m. sign</i>. IL. <i>16, 192</i> ; HH. <i>Cer. 291</i>.<p>➳ <i>Impf. épq</i>. ἀμφαγάπαζον, OD. A.RH. <i>ll. cc</i>.`

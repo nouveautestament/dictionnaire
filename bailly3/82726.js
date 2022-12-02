@@ -1,0 +1,1 @@
+lar[82726]=`<b>ποντόω-ῶ :<br>      1</b> plonger dans la mer, N. DAM. <i>Exc. p. 445 Val.</i><br><b>      2</b> changer en mer, inonder, Q. SM. <i>14, 604</i>.<p><b>Étym</b>. πόντος.`

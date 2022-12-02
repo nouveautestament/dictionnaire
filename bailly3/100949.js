@@ -1,0 +1,1 @@
+lar[100949]=`<b>ων (τὰ)</b> <font color="purple">[ᾰν]</font> petites branches sèches, broussailles, TH. <i>C.P. 3, 2, 2</i>.<p><b>Étym</b>. τρώγω.`

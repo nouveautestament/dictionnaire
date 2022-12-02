@@ -1,0 +1,1 @@
+lar[99713]=`<i>dor. c</i>. *τόσσας, <i>nom. sg. masc. part. ao.1 act</i>. s’étant trouvé par hasard, PD. <i>P. 3, 27</i>.<p><b>Étym</b>. <i>incert. ; cf</i>. ἐπέτοσσε.`

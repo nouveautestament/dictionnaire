@@ -1,0 +1,1 @@
+lar[55225]=`<b>έως (ὁ)</b> jardinier, PHILYLL. (POLL. <i>7, 110).</i><p>➳ <i>Dor</i>. καπεύς <font color="purple">[ᾱ]</font> ANTH. <i>9, 329</i>.<p><b>Étym</b>. κῆπος.`

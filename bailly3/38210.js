@@ -1,0 +1,1 @@
+lar[38210]=`<b>ἐπι·κυέω-ῶ</b>, concevoir de nouveau avant d’être délivrée d’un premier enfant, HPC. <i>1144e ;</i> ARSTT. <i>H.A. 7, 4 fin</i>.`

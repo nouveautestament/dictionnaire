@@ -1,0 +1,1 @@
+lar[74503]=`<b>παλιγκοτέω-ῶ</b> <font color="purple">[ᾰ]</font> s’irriter de nouveau, <i>d’où</i> s’exacerber, <i>en parl. d’une maladie,</i> HPC. <i>Fract. 760</i> ; se rouvrir, <i>en parl. d’une blessure,</i> HPC. <i>Fract. 766</i>.<p><b>Étym</b>. παλίγκοτος.`

@@ -1,0 +1,1 @@
+lar[28363]=`<b>δυσ·έκφευκτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à éviter, auquel on échappe difficilement, POL. <i>1, 77, 7</i> ; MAN. <i>4, 477</i>.<p><b>Étym</b>. δ. ἐκφεύγω.`

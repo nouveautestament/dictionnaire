@@ -1,0 +1,1 @@
+lar[91555]=`<b>ου (τὸ)</b> queue de cheval pour chasser les insectes, PHIL. <i>2, 428</i>.<p><b>Étym</b>. σοβέω.`

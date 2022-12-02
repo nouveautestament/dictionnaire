@@ -1,0 +1,1 @@
+lar[49118]=`<b>ης (ἡ)</b> Ioessa (<i>propr</i>. la Violette) <i>f</i>. LUC. <i>D. mer. 12</i>.<p><b>Étym</b>. <i>v</i>. ἰόεις.`

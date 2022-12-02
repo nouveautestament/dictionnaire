@@ -1,0 +1,1 @@
+lar[36851]=`<b>εως (ἡ) :<br>      1</b> croissance, accroissement, agrandissement, PLAT. <i>Leg. 957d ;</i> PLUT. <i>Sol. 15</i>.<br><b>      2</b> avantage, profit, POL. <i>5, 88, 6</i>.`

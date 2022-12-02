@@ -1,0 +1,1 @@
+lar[19443]=`<b>οῦ (ὁ) :<br>      1</b> celui qui assure <i>ou</i> affirme, DH. <i>1, 11 et 49</i> ; PLUT. <i>Flam. 4 ; d’où</i> garant, POL. <i>2, 40, 2</i>.<br><b>      2</b> celui qui décide, arbitre, PLUT. <i>Cam. 18</i>.<p><b>Étym</b>. βεβαιόω.`

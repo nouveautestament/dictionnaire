@@ -1,0 +1,1 @@
+lar[76913]=`<b>ας (ἡ)</b> éducation d’une jeune fille <i>ou</i> des jeunes filles, CLÉM. <i>1, 1177 Migne</i>.<p><b>Étym</b>. π. τροφή.`

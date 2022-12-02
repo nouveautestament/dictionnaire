@@ -1,0 +1,1 @@
+lar[55607]=`<b>έως (ὁ)</b> Kissée, <i>père d’Hécube,</i> EUR. <i>Hec. 3</i>.<p><b>Étym</b>. <i>cf</i>. κισσεύς.`

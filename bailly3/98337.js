@@ -1,0 +1,1 @@
+lar[98337]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> charlatan, imposteur, DS. <i>Exc. 529, 29</i>.<p><b>Étym</b>. τέρας.`

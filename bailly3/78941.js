@@ -1,0 +1,1 @@
+lar[78941]=`<b>περι·ναιετάω-ῶ :<br>      1</b> habiter autour, OD. <i>6, 66 ; 8, 551 ; 23, 136</i> ; HÉS. <i>Th. 370</i> ; PD. <i>N. 8, 16</i>.<br><b>      2</b> être habité autour, <i>en parl. d’une ville,</i> OD. <i>4, 177</i>.`

@@ -1,0 +1,1 @@
+lar[28328]=`<b>δυσ·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> difforme, HDT. <i>6, 61</i> ; SOPH. <i>fr. 109, 9</i> ; PLAT. <i>Soph. 228a</i>.<p>•<i> Sup</i>. -έστατος, DC. <i>60, 27</i>.<p><b>Étym</b>. δ. εἶδος.`

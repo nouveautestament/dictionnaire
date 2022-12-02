@@ -1,0 +1,1 @@
+lar[47527]=`<b>α, ον</b>, <i>c</i>. θοῦρος, ESCHL. <i>Pers. 73, 718 ; Eum. 627, etc.</i> ; SOPH. <i>Aj. 212, 612</i> ; AR. <i>Ran. 1289, etc</i>.`

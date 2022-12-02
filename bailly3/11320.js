@@ -1,0 +1,1 @@
+lar[11320]=`<b>ας (ἡ)</b> inconséquence, précipitation téméraire, BAS. <i>1, 406</i>.<p><b>Étym</b>. <i>v</i>. ἀπαρακολούθητος.`

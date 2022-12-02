@@ -1,0 +1,1 @@
+lar[43354]=`<b>Εὐρυ·φῶν, ῶντος (ὁ)</b> <font color="purple">[ῠ]</font> Euryphôn, <i>h</i>. ARSTT. <i>Pol. 2, 8</i>.`

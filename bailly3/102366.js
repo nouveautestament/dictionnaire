@@ -1,0 +1,1 @@
+lar[102366]=`<b>ὑπερ·βράζω</b>, déborder en bouillonnant, ANTH. <i>11, 248</i>.`

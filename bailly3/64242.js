@@ -1,0 +1,1 @@
+lar[64242]=`<i>adv</i>., follement, JOS. <i>A.J. 16, 7, 3</i>.<p><b>Étym</b>. μέμηνα, <i>pf. de</i> μαίνομαι.`

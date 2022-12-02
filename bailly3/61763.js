@@ -1,0 +1,1 @@
+lar[61763]=`<i>adv</i>., en sanglotant, SOPH. <i>O.C. 1621</i> ; ANTH. <i>15, 28</i>.<p><b>Étym</b>. λύζω, -δην.`

@@ -1,0 +1,1 @@
+lar[96889]=`<b>ου (τὸ)</b> collier <i>ou</i> bracelet, LUC. <i>Apol. 1</i>.<p><b>Étym</b>. σφίγξ.`

@@ -1,0 +1,1 @@
+lar[422]=`<b>(ὁ)</b> <i>seul. nom</i>. IL. <i>3, 206 ; 13, 252 ; 15, 640,</i> messager ; <i>sur l’acc. adv</i>. ἀγγελίην, <i>v</i>. ἀγγελία.`

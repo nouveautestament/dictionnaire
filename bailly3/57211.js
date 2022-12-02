@@ -1,0 +1,1 @@
+lar[57211]=`<b>ου (τὸ)</b> = <i>lat</i>. Corfinium (<i>auj</i>. Corfinio) <i>v. du Samnium,</i> PLUT. <i>Cæs. 34</i>.`

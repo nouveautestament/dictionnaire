@@ -1,0 +1,1 @@
+lar[68954]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠᾰῐδ]</font> <i>fém. de</i> νομοφύλαξ PHIL. <i>1, 584</i>.`

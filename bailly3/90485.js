@@ -1,0 +1,1 @@
+lar[90485]=`<b>σιτ·αρκέω-ῶ</b> <font color="purple">[ῑ]</font> approvisionner de vivres, STR. <i>652</i> ; DS. <i>Exc. Vat. p. 39 ; au pass</i>. STR. <i>833</i>.<p><b>Étym</b>. σῖτος, ἀρκέω.`

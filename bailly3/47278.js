@@ -1,0 +1,1 @@
+lar[47278]=`<b>θηρι·άλωτος, ος, ον</b> <font color="purple">[ᾰ]</font> saisi par une bête sauvage, SPT. <i>Gen. 31, 39 ; Ex. 22, 13, 31 ; Lev. 5, 2</i>.<p><b>Étym</b>. θηρίον, ἁλωτός.`

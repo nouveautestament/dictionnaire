@@ -1,0 +1,1 @@
+lar[63070]=`mâcher, manger, NIC. <i>Th. 916</i>.<p><b>Étym</b>. μάσταξ.`

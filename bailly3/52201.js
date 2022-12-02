@@ -1,0 +1,1 @@
+lar[52201]=`<b>κατ·αγγίζω</b>, verser dans un vase, DIOSC. <i>5, 22, 31</i>.<p><b>Étym</b>. κ. ἄγγος.`

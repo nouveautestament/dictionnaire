@@ -1,0 +1,1 @@
+lar[27057]=`<i>ou</i> <b>δισυλλάβως</b>, <i>adv</i>., en deux syllabes, ATH. <i>446e ;</i> DYSC. <i>Pron. 304a</i>.`

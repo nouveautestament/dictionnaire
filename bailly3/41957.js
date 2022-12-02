@@ -1,0 +1,1 @@
+lar[41957]=`<b>εὐ·έκκαυτος, ος, ον</b>, facile à consumer par le feu, CORN. <i>199</i> ; GAL. <i>2, 3</i>.<p><b>Étym</b>. εὖ, ἐκκαίω.`

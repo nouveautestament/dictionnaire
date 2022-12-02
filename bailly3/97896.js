@@ -1,0 +1,1 @@
+lar[97896]=`<b>ταχυ·ήρης, ης, ες</b> <font color="purple">[ᾰ]</font> qui rame vivement, ESCHL. <i>Suppl. 33</i> ; OPP. <i>H. 4, 569</i>.<p><b>Étym</b>. τ. ἐρέσσω.`

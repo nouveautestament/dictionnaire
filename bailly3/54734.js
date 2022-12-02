@@ -1,0 +1,1 @@
+lar[54734]=`<b>Κενταυρο·μαχία, ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat de centaures, PLUT. <i>Thes. 29, etc</i>.<p><b>Étym</b>. Κ. μάχη.`

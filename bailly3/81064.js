@@ -1,0 +1,1 @@
+lar[81064]=`<b>ης (ἡ)</b> Plinthinè, <i>v. de la Basse-Égypte,</i> HELLANIC. (ATH. <i>34a</i>).`

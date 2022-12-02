@@ -1,0 +1,1 @@
+lar[91640]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Suse, ARR. <i>An. 3, 8, 5 ; 6, 28, 6</i> ; ἡ Σουσιανή, STR. <i>732,</i> le territoire de Suse, la Susiane.<p><b>Étym</b>. Σοῦσα.`

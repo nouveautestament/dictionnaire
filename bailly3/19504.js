@@ -1,0 +1,1 @@
+lar[19504]=`<b>βελονο·πώλης, ου (ὁ)</b> Bélonopôlès, <i>litt</i>. marchand d’aiguilles, AR. <i>Pl. 175</i>.<p><b>Étym</b>. βελόνη, πωλέω.`

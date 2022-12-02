@@ -1,0 +1,1 @@
+lar[3482]=`<b>ας (ἡ) :<br>      1</b> non-communauté des biens, ARSTT. <i>Pol. 2, 5, 12</i>.<br><b>      2</b> caractère insociable, STOB. <i>Ecl. 2, 320</i>.<p><b>Étym</b>. ἀκοινώνητος.`

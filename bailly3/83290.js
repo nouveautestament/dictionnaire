@@ -1,0 +1,1 @@
+lar[83290]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾱ]</font> crieur dans les ventes, <i>titre d’une comédie,</i> POLL. <i>7, 8</i>.<p><b>Étym</b>. πιπράσκω.`

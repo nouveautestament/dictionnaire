@@ -1,0 +1,1 @@
+lar[4748]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> action de s’entre-manger, HDT. <i>3, 25</i> ; PLAT. <i>Epin. 975a, etc</i>.<p><b>Étym</b>. ἀλληλοφάγος.`

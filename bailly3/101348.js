@@ -1,0 +1,1 @@
+lar[101348]=`<b>ὑβριστο·δίκαι, ῶν (οἱ)</b> <font color="purple">[δῐ]</font> juges prévaricateurs, <i>titre d’une comédie d’Eupolis,</i> POLL. <i>8, 126</i>.<p><b>Étym</b>. ὑβριστής, δίκη.`

@@ -1,0 +1,1 @@
+lar[37044]=`<b>ἐπ·εκχέω</b>, épancher sur, <i>d’où, au pass.</i> :<br><b>      1</b> <i>fig</i>. se répandre sur <i>ou</i> contre, <i>dat</i>. SPT. <i>Judith 15, 4 (ao. sbj</i>. ἐπεκχυθῶσι).<br><b>      2</b> <i>au propre,</i> se répandre par-dessus, Q. SM. <i>10, 481</i>.<p><b>Étym</b>. <i>pf. part. fém</i>. ἐπεκχυμένην.`

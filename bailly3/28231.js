@@ -1,0 +1,1 @@
+lar[28231]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰρ]</font> <i>c</i>. δυσαρέστησις CLÉM. <i>1, 496 Migne</i> ; HIPPIATR. <i>106, 19</i>.<p><b>Étym</b>. δυσάρεστος.`

@@ -1,0 +1,1 @@
+lar[102406]=`<b>ὑπ·ερεθίζω</b>, exciter légèrement, APP. <i>Civ. 2, 94</i> ; BABR. <i>95, 65</i>.`

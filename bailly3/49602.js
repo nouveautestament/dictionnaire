@@ -1,0 +1,1 @@
+lar[49602]=`<b>ου (ὁ)</b> <font color="purple">[ῐχ]</font> Ismènikhos, <i>h</i>. AR. <i>Ach. 954</i>.`

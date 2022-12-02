@@ -1,0 +1,1 @@
+lar[5484]=`<b>ἀ·μετάγνωστος, ος, ον :<br>      1</b> qui ne change pas de sentiment, inflexible, JOS. <i>A.J. 16, 10, 1</i>.<br><b>      2</b> dont on n’a pas à se repentir, M. TYR. <i>1, 4</i>.<p><b>Étym</b>. ἀ, μεταγιγνώσκω.`

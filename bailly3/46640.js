@@ -1,0 +1,1 @@
+lar[46640]=`<b>ου (ὁ)</b> Théodosios, <i>h</i>. A. PL. <i>42</i>.<p>➳ <i>Par contr. att</i>. Θουδόσιος, CIA. <i>2, 835, c-l, 58 (320/317 av. J.-C.) v. Meisterh. p. 57, § 26, 1. Dor</i>. Θευδόσιος, ANTH. <i>9, 682, etc</i>.<p><b>Étym</b>. θεόδοτος.`

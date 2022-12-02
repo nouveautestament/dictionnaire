@@ -1,0 +1,1 @@
+lar[98295]=`<b>όνος (ὁ)</b> Tenthrèdôn, <i>chef des Magnésiens,</i> IL. <i>2, 756</i>.<p><b>Étym</b>. <i>v</i>. τενθρηδών.`

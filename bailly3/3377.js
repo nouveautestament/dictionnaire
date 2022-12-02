@@ -1,0 +1,1 @@
+lar[3377]=`<b>ἄ·κικυς, υος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> <i>pass</i>. sans force, OD. <i>9, 515 ; 21, 131</i> ; ESCHL. <i>Pr. 548</i> ; HPC. <i>504, 5</i>.<br><b>      2</b> <i>act</i>. qui affaiblit, ORPH. <i>Lith. 22</i>.<p><b>Étym</b>. ἀ, κίκυς.`

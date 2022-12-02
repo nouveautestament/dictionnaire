@@ -1,0 +1,1 @@
+lar[22354]=`<i>adv</i>., avec faculté de connaître, avec connaissance, CLÉM. <i>292c, 1020a, etc. Migne</i>.`

@@ -1,0 +1,1 @@
+lar[19801]=`<b>ης (ἡ)</b> Bisanthè (<i>auj</i>. Tekirdağ) <i>v. sur la côte de l’Hellespont, en Thrace,</i> HDT. XÉN. <i>etc</i>.`

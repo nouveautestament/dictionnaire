@@ -1,0 +1,1 @@
+lar[106075]=`<b>φιλό·σιτος, ος, ον</b> <font color="purple">[ῐῑ]</font><br><b>      1</b> qui aime le blé, XÉN. <i>Œc. 20, 27</i>.<br><b>      2</b> qui mange volontiers, PLAT. <i>Rsp. 475c</i>.<p><b>Étym</b>. φ. σῖτος.`

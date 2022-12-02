@@ -1,0 +1,1 @@
+lar[63915]=`<b>ου</b> <i>et</i> <b>α (ὁ)</b> Mélantas, <i>h</i>. DÉM. <i>18, 249 Baiter-Sauppe</i> ; PLUT. <i>Artax. 19</i>.`

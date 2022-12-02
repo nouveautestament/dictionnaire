@@ -1,0 +1,1 @@
+lar[102300]=`<b>ὑπερ·ασπίζω</b>, couvrir de son bouclier, prendre la défense de, protéger, <i>acc</i>. POL. <i>6, 39, 6</i> ; DS. <i>17, 99</i> ; PLUT. <i>Cor. 3, etc. ; gén</i>. ARR. <i>An. 6, 28, 6</i> ; SPT. <i>Gen. 15, 1, etc. ; avec</i> ὑπέρ <i>et le gén</i>. SPT. <i>4Reg. 19, 34 ; Esaï. 31, 5 ; abs</i>. PLUT. <i>Marc. 2</i> ; ARR. <i>An. 7, 5, 8</i>.`

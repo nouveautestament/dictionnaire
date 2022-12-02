@@ -1,0 +1,1 @@
+lar[61376]=`<b>λιπο·ψυχέω-ῶ</b>, <i>mieux que</i> <b>λειπο·ψυχέω-ῶ</b> <font color="purple">[ῐῡ]</font><br><b>      1</b> perdre ses sens, s’évanouir, DS. <i>12, 62</i> ; PLUT. <i>M. 347b, etc.</i><br><b>      2</b> perdre courage, HDT. <i>7, 229</i>.<p><b>Étym</b>. λείπω, ψυχή.`

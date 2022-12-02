@@ -1,0 +1,1 @@
+lar[19451]=`<font color="purple">[βᾰᾰ]</font> <i>adv</i>., au moyen d’un examen <i>ou</i> d’une épreuve sévère, ORIG. <i>c. Cels. 2, 426 ; 3, 472</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> βασανίζω.`

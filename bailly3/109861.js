@@ -1,0 +1,1 @@
+lar[109861]=`<b>ψιμυθιόω-ῶ</b> <font color="purple">[ῐῡ]</font> farder avec du blanc de céruse, PLUT. <i>Alc. 39 ; au pass</i>. LYS. <i>93, 4 et 20</i> ; CTÉS. (ATH. <i>528f</i>).<p><b>Étym</b>. ψιμύθιον.`

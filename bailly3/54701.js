@@ -1,0 +1,1 @@
+lar[54701]=`<i>adv</i>., par un vain amour de gloire, CHRYS. <i>3, 293</i>.`

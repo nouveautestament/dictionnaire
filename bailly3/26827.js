@@ -1,0 +1,1 @@
+lar[26827]=`<b>ας (ἡ)</b> observation à l’aide du dioptre, PROCL. <i>Hyp. 15c, 16b, etc</i>.<p><b>Étym</b>. διοπτεύω.`

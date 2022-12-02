@@ -1,0 +1,1 @@
+lar[63599]=`<b>εως (ἡ)</b> <font color="purple">[ῐκ]</font> passage d’un âge à un autre, BAS. <i>1, 493 ; 2, 25 Migne</i>.<p><b>Étym</b>. μεθηλικιόομαι.`

@@ -1,0 +1,1 @@
+lar[3108]=`<font color="purple">[ᾰκ]</font> récolter des épines, NAZ.`

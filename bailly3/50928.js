@@ -1,0 +1,1 @@
+lar[50928]=`<b>κακό·ψογος, ος, ον</b> <font color="purple">[ᾰ]</font> qui blâme méchamment, détracteur, THGN. <i>287</i>.<p><b>Étym</b>. κ. ψέγω.`

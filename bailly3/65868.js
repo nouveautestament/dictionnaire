@@ -1,0 +1,1 @@
+lar[65868]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Mindaros, <i>h</i>. THC. <i>8, 85</i> ; XÉN. <i>Hell. 1, 1, etc</i>.`

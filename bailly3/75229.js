@@ -1,0 +1,1 @@
+lar[75229]=`<b>πάν·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> tout à fait honoré <i>ou</i> honoré de tous, SOPH. <i>El. 687</i> ; ORPH. <i>H. 14, etc</i>.<p><b>Étym</b>. π. τιμή.`

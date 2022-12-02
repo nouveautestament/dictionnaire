@@ -1,0 +1,1 @@
+lar[59738]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> voix claire <i>ou</i> forte, HDT. <i>6, 60</i>.<p><b>Étym</b>. λαμπρόφωνος.`

@@ -1,0 +1,1 @@
+lar[89481]=`<b>σαρξι·φαγής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui consume la chair, GAL. <i>13, 935</i> ; P. ÉG. <i>7, 252</i>.<p><b>Étym</b>. σάρξ, φαγεῖν.`

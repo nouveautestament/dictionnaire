@@ -1,0 +1,1 @@
+lar[6093]=`<b>ἀμφί·δεα, ων (τὰ)</b> bords de la matrice, HPC. <i>610, 42</i>.<p><b>Étym</b>. ἀ. δέω.`

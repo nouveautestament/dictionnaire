@@ -1,0 +1,1 @@
+lar[87458]=`<font color="purple">[ᾰ]</font> faire tomber, APOLL. PAR. <i>Hist. mir. 199, 4</i> ; AQU. <i>Ps. 139, 11 ; au pass</i>. tomber du haut mal, être épileptique, P. ALEX. <i>Apot. 24, p. 56, l. 16 Boer</i>.<p><b>Étym</b>. πτῶμα.`

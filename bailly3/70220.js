@@ -1,0 +1,1 @@
+lar[70220]=`<b>ὀθονο·ποιός, οῦ (ὁ)</b> qui fabrique la toile, tisserand, DIOSC. <i>5, 152</i>.<p><b>Étym</b>. ὀθόνη, ποιέω.`

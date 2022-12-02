@@ -1,0 +1,1 @@
+lar[84175]=`<b>προ·εξαγκωνίζω</b>, préluder à la lutte en s’escrimant des bras, <i>fig</i>. ARSTT. <i>Rhet. 3, 14, 11</i>.`

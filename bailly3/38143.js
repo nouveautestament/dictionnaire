@@ -1,0 +1,1 @@
+lar[38143]=`<b>ἐπι·κραιαίνω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπεκραίαινε, IL. <i>3, 302 ; ao. 3 sg</i>. ἐπεκρήηνε, CALL. <i>Dian. 40 ; impér</i>. ἐπικρήηνον, IL. <i>1, 455)</font> épq. c</i>. ἐπικραίνω.`

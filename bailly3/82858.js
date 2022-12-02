@@ -1,0 +1,1 @@
+lar[82858]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> πορφύρα, ARSTT. <i>H.A. 5, 15, 4</i>.`

@@ -1,0 +1,1 @@
+lar[21646]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne le jour de la naissance, ANTH. <i>6, 321</i>.<br><b>      2</b> <i>subst</i>. ὁ γ. tireur d’horoscopes, GAL. <i>11, 10</i>.<p><b>Étym</b>. γενέθλιος.`

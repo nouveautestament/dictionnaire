@@ -1,0 +1,1 @@
+lar[36009]=`<b>ἐξ·ιπόω-ῶ</b> <font color="purple">[ῑ]</font><br><b>      1</b> faire sortir en pressant, <i>d’où</i> faire suppurer, HPC. <i>Art. 817 ; p. suite,</i> faire dessécher, ARSTD. <i>t. 2, 349 fin</i>.<br><b>      2</b> presser fortement, AR. <i>Lys. 291</i>.`

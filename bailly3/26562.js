@@ -1,0 +1,1 @@
+lar[26562]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰφ]</font> esprit de chicane, MAN. <i>2, 296</i>.<p><b>Étym</b>. δικορράφος.`

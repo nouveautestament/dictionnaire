@@ -1,0 +1,1 @@
+lar[69161]=`<b>νυκτί·φοιτος, ος, ον</b> <font color="purple">[ῐ]</font> qui a coutume de venir <i>ou simpl</i>. qui vient la nuit, ESCHL. <i>Pr. 658</i> ; LYC. <i>225</i>.<p><b>Étym</b>. ν. φοιτάω.`

@@ -1,0 +1,1 @@
+lar[26983]=`<b>ης, ες</b> <font color="purple">[ῑπ]</font> qui sent les Dipolies, <i>càd</i>. vieux, suranné, AR. <i>Nub. 984</i>.<p><b>Étym</b>. Διπόλια, -ωδης.`

@@ -1,0 +1,1 @@
+lar[81367]=`<b>ποιη·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. ποηφάγος, ARSTT. <i>fr. 268</i> ; M. TYR. <i>29, 4</i>.`

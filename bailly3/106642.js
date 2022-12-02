@@ -1,0 +1,1 @@
+lar[106642]=`<b>φονο·λιβής, ής, ές</b> <font color="purple">[ῐ]</font> dégouttant de sang (<i>litt</i>. de meurtre) ESCHL. <i>Ag. 1427, Eum. 164</i>.<p><b>Étym</b>. φόνος, λείβω.`

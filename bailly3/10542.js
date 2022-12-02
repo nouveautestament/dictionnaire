@@ -1,0 +1,1 @@
+lar[10542]=`<b>ή, όν</b> <font color="purple">[φᾰ]</font> contradictoire, ARSTT. <i>Interpr. 7, 6</i>.<p><b>Étym</b>. ἀντίφημι.`

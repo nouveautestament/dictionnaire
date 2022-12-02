@@ -1,0 +1,1 @@
+lar[77760]=`<b>πελειο·θρέμμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui nourrit des pigeons <i>ou</i> des colombes, ESCHL. <i>Pers. 309</i>.<p><b>Étym</b>. πέλεια, τρέφω.`

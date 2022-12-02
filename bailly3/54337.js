@@ -1,0 +1,1 @@
+lar[54337]=`<b>ου (ὁ)</b> le Kaystros (<i>auj</i>. Küçük Menderes) <i>fl. d’Asie Mineure,</i> ANACR. <i>159</i> ; DP. <i>837</i> ; STR. <i>621, etc</i>.`

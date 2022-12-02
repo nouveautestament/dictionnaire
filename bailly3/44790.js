@@ -1,0 +1,1 @@
+lar[44790]=`<b>ζῳό·φυτον, ου (τὸ)</b> <font color="purple">[ῠ]</font> zoophyte, <i>intermédiaire entre l’animal et la plante</i>, ARSTT. <i>H.A. 18, 1, 6</i>.<p><b>Étym</b>. ζῷον, φυτόν.`

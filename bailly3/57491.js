@@ -1,0 +1,1 @@
+lar[57491]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾱᾰ]</font> les descendants de Kragalée (Κραγαλεύς) <i>famille royale de Kirrha,</i> ESCHN. <i>3, 107 et 108 Baiter-Sauppe</i>.`

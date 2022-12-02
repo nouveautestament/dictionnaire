@@ -1,0 +1,1 @@
+lar[77246]=`<b>(ὁ)</b> <font color="purple">[ᾱσῐ]</font> Pasitélidas, <i>Laconien,</i> THC. <i>4, 132 ; 5, 3</i>.<p><b>Étym</b>. <i>patr. de</i> *Πασιτέλης, <i>de</i> π. τέλος.`

@@ -1,0 +1,1 @@
+lar[62995]=`<b>ου (τὸ)</b> <font color="purple">[σῐ]</font> petit sac, bourse, HPC. <i>Acut. 387</i> ; A. CARYST. (POL. <i>10, 152</i>) ; SPT. <i>Gen. 42, 27, 28</i>.<p><b>Étym</b>. <i>dim. de</i> μάρσιπος.`

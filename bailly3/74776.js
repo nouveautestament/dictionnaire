@@ -1,0 +1,1 @@
+lar[74776]=`<b>Παμ·φίλη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Pamphilè, <i>f</i>. ARSTT. <i>H.A. 5, 19, etc</i>.<p><b>Étym</b>. <i>fém. de</i> πάμφιλος.`

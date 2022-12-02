@@ -1,0 +1,1 @@
+lar[52801]=`<b>κατα·μάσσω</b>, <i>att</i>. <b>-άττω</b>, essuyer avec soin, PALÆPH. <i>52, 2</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. LUC. <i>As. 10</i>.`

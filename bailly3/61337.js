@@ -1,0 +1,1 @@
+lar[61337]=`<b>λιπο·μαρτυρίου</b>, <i>mieux que</i> <b>λειπο·μαρτυρίου δίκη (ἡ)</b> action en justice pour refus de témoignage, DÉM. <i>1190, 5</i>.<p><b>Étym</b>. λ. μαρτυρία.`

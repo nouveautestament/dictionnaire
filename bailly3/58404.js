@@ -1,0 +1,1 @@
+lar[58404]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> prêtre de Cybèle, <i>d’où</i> inspiré, CRAT. (PHOT. <i>183, 1</i>).`

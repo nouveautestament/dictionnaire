@@ -1,0 +1,1 @@
+lar[65907]=`<b>ά, όν</b> <font color="purple">[ῐῠ]</font> qui murmure d’une voix plaintive, qui gémit doucement, THCR. <i>Idyl. 13, 12 ; fig</i>. ESCHL. <i>Ag. 1165</i>.<p><b>Étym</b>. μινύθω.`

@@ -1,0 +1,1 @@
+lar[47332]=`<b>θηρο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à une bête sauvage, PROCL. HÉS. <i>O. 151</i>.<p><b>Étym</b>. θ. φαίνω.`

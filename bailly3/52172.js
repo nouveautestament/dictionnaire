@@ -1,0 +1,1 @@
+lar[52172]=`<b>καταβοστρυχόω-ῶ</b> <font color="purple">[ῠ]</font> arranger en boucles pendantes, EUM. <i>p. 110</i>.<p><b>Étym</b>. καταβόστρυχος.`

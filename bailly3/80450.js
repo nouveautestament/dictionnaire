@@ -1,0 +1,1 @@
+lar[80450]=`<b>πισσο·κωνίας, ου</b>, <i>adj. m</i>. qui enduit de poix, <i>ép. d’Arès,</i> CRAT. (<i>Com. fr. 2, 228).</i><p><b>Étym</b>. π. κωνάω.`

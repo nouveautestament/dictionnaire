@@ -1,0 +1,1 @@
+lar[39394]=`<b>ατος (τὸ)</b> nouvelle invention, EL. <i>N.A. 12, 16</i>.<p><b>Étym</b>. ἐπιτεχνάομαι.`

@@ -1,0 +1,1 @@
+lar[82144]=`<b>πολύ·μορφος, ος, ον</b> <font color="purple">[ῠ]</font> qui a plusieurs formes, aux formes variées, HPC. <i>Aër. 289</i> ; ARSTT. <i>P.A. 4, 11, 22</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>An. pr. 2, 10 ; • Sup</i>. -ότατος, ARSTT. <i>H.A. 8, 28, 11</i>.<p><b>Étym</b>. π. μορφή.`

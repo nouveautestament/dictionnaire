@@ -1,0 +1,1 @@
+lar[72252]=`<b>ή, όν :<br>      1</b> du pays des Opiques, ANTH. <i>5, 132, 21 (avec jeu de mots sur le sens de</i> ὀπή, trou) ; <i>subst</i>. οἱ Ὀπικοί, THC. <i>6, 4</i> ; ARSTT. <i>Pol. 7, 10,</i> les Opiques, <i>pple de la Grande-Grèce</i>.<br><b>      2</b> <i>p. ext</i>. barbare, grossier, ANTH. <i>7, 132</i>.`

@@ -1,0 +1,1 @@
+lar[25774]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> action de percer, <i>d’où</i> ouverture, pore, HPC. <i>412, 32</i> ; GAL. <i>4, 522</i>.<p><b>Étym</b>. διατρέω.`

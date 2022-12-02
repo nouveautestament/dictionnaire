@@ -1,0 +1,1 @@
+lar[71084]=`<b>ας (ἡ)</b> <font color="purple">[ῐγ]</font> courte durée, ARSTT.<p><b>Étym</b>. ὀλιγόχρονος.`

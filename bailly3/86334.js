@@ -1,0 +1,1 @@
+lar[86334]=`<b>ῆς (ἡ)</b> action d’appliquer, application, ARTÉM. <i>1, 77</i>.<p><b>Étym</b>. προσπλέκω.`

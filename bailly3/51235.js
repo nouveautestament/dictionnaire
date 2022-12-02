@@ -1,0 +1,1 @@
+lar[51235]=`<b>Καλλι·τέλης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Kallitélès, <i>h</i>. ANTH. <i>6, 138</i>.<p>➳ <i>Gén. épq</i>. -ευς, ANTH. <i>7, 163, etc. ; acc</i>. -η, ANTH. <i>7, 164 ; et</i> -ην, ANTH. <i>7, 163, etc</i>.<p><b>Étym</b>. κ. τέλος.`

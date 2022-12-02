@@ -1,0 +1,1 @@
+lar[107810]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en rampant, bassement, NAZ.<p><b>Étym</b>. χαμερπής.`

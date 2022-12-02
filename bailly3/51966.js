@@ -1,0 +1,1 @@
+lar[51966]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠ]</font> castration des chevaux, HIPPIATR. <i>p. 239, 33</i>.<p><b>Étym</b>. καρυδόω.`

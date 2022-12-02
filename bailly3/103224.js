@@ -1,0 +1,1 @@
+lar[103224]=`<b>ὑπο·επιμερής, ής, ές</b>, moindre d’un entier et d’une fraction, JAMBL. <i>Nicom. ar. 50d</i>.`

@@ -1,0 +1,1 @@
+lar[93027]=`<b>ης (ἡ)</b> Strybèlè, <i>f</i>. DÉM. <i>59, 50 et 121 Baiter-Sauppe</i>.`

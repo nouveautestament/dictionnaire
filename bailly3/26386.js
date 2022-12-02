@@ -1,0 +1,1 @@
+lar[26386]=`<b>δι·ηρεφής, ής, ές</b>, couvert d’un toit, couvert, Q. SM. <i>6, 325</i>.<p><b>Étym</b>. διά, ἐρέφω.`

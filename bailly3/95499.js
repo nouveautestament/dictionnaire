@@ -1,0 +1,1 @@
+lar[95499]=`<b>συν·εξαμείβω</b> <font color="purple">[ᾰ]</font> changer en même temps, BABR. <i>59, 15</i>.`

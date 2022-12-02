@@ -1,0 +1,1 @@
+lar[97272]=`<b>Σώ·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Sôstratos, <i>h</i>. PD. <i>O. 6, 9, 80</i> ; HDT. <i>4, 152</i> ; DÉM. <i>35, 20 et 34 Baiter-Sauppe</i> ; LUC. <i>D. mort. 30, etc</i>.<p><b>Étym</b>. σῶς, στρατός.`

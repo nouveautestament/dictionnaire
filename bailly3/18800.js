@@ -1,0 +1,1 @@
+lar[18800]=`<b>βαθύ·ρριζος, ος, ον</b> <font color="purple">[ᾰ]</font> aux racines profondes, SOPH. <i>Tr. 1195</i> ; A.RH. <i>1, 1199</i> ; Q. SM. <i>4, 202</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>H.P. 1, 7, 2</i>.<p><b>Étym</b>. β. ῥίζα.`

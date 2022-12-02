@@ -1,0 +1,1 @@
+lar[48578]=`<b>ἱερο·γομφία, ας (ἡ)</b> écriture hiéroglyphique, SYN. <i>114c</i>.<p><b>Étym</b>. ἱ. γόμφος, <i>cf</i>. ἱερογραφία.`

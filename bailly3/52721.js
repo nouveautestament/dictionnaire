@@ -1,0 +1,1 @@
+lar[52721]=`<i>vb. de</i> καταλήγω, PROCL. <i>Plat. Parm. p. 948 Stallb</i>.`

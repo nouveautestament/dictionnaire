@@ -1,0 +1,1 @@
+lar[54742]=`<b>ου (τὸ)</b> instrument pour piquer :<br><b>      1</b> alène, LUC. <i>Cat. 20</i>.<br><b>      2</b> aiguille, GAL. <i>Lex. Hipp. 19, 134</i>.<p><b>Étym</b>. κεντέω.`

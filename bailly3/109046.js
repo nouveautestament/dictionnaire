@@ -1,0 +1,1 @@
+lar[109046]=`(<i>d’où ao. pass. part. fém. pl</i>. χροιϊσθεῖσαι) teindre, NIC. <i>fr. 74, 26 ; cf</i>. χροΐζω.`

@@ -1,0 +1,1 @@
+lar[64012]=`<b>μελι·ηδής, ής, ές</b>, doux comme du miel, IL. <i>4, 346</i> ; OD. <i>9, 94, etc. ; fig. en parl. du cœur,</i> IL. <i>10, 495 ; du retour dans la patrie,</i> OD. <i>11, 100 ; du sommeil,</i> OD. <i>19, 551, etc</i>.<p>➳ <i>Dor</i>. μελιαδής <font color="purple">[ᾱ]</font> ALC. <i>47</i> ; PD. <i>fr. 147</i>.<p><b>Étym</b>. μέλι, ἡδύς.`

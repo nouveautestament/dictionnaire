@@ -1,0 +1,1 @@
+lar[41609]=`<b>εὐ·άντητος, ος, ον :<br>      1</b> d’agréable abord, affable, bienveillant, ORPH. <i>H. 1, 5</i> ; ANTH. <i>App. 283</i>.<br><b>      2</b> bienvenu, OPP. <i>C. 2, 488 ; H. 2, 149</i>.<p><b>Étym</b>. εὖ, ἀντάω.`

@@ -1,0 +1,1 @@
+lar[75124]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> panoplie <i>ou</i> armure complète d’un hoplite (<i>càd</i>. le bouclier, le casque, la cuirasse, les cuissards, l’épée et la lance) HDT. <i>1, 60, etc.</i> ; THC. <i>3, 114</i> ; PLAT. <i>Leg. 796b ;</i> AR. <i>Av. 830, etc. ; fig</i>. NT. <i>Eph. 6, 11</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l.c</i>.`

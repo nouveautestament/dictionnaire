@@ -1,0 +1,1 @@
+lar[74665]=`<b>ου (ὁ)</b> <font color="purple">[ᾰτᾱς]</font> <i>s.e</i>. σεισμός, tremblement de terre avec secousses violentes, ARSTT. <i>Mund. 4, 31</i>.<p><b>Étym</b>. πάλλω.`

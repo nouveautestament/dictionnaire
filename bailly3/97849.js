@@ -1,0 +1,1 @@
+lar[97849]=`<b>ίριδος (ἡ)</b> <font color="purple">[σῑ]</font> <i>var. de</i> Ταπόσειρις, PLUT. <i>Demetr. c. Ant. 3</i>.`

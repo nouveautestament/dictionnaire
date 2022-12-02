@@ -1,0 +1,1 @@
+lar[102816]=`<b>ὑπερτελέω-ῶ</b>, passer par-dessus, franchir, <i>acc</i>. ESCHL. <i>Ag. 359</i>.<p><b>Étym</b>. ὑπερτελής.`

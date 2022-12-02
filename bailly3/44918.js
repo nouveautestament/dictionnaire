@@ -1,0 +1,1 @@
+lar[44918]=`<b>ου (ὁ)</b> Hègèsias, <i>h</i>. LUC. <i>Rh. præc. 9, etc</i>.<p><b>Étym</b>. ἡγέομαι.`

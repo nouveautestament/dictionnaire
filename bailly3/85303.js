@@ -1,0 +1,1 @@
+lar[85303]=`<b>*προσ·άρω</b> (<i>seul. part. pf. act</i>. προσαρηρώς, IL. <i>5, 725, et pf. pass. 3 sg</i>. προσαρήρεται, HÉS. <i>O. 429</i>) ajuster <i>ou</i> fixer à, <i>dat</i>.`

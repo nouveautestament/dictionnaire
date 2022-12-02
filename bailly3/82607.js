@@ -1,0 +1,1 @@
+lar[82607]=`<b>πολυ·ωπέτις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. qui a beaucoup d’yeux, MAX. <i>π. κατ. 584</i>.<p><b>Étym</b>. π. ὤψ.`

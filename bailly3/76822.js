@@ -1,0 +1,1 @@
+lar[76822]=`<b>ατος (τὸ)</b> prétexte inventé, imagination, fiction, PAUS. <i>2, 16, 2</i>.<p><b>Étym</b>. παρευρίσκω.`

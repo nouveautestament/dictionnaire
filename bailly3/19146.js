@@ -1,0 +1,1 @@
+lar[19146]=`<b>βαρυ·ήκοος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> qui a l’ouïe dure, ARÉT. <i>307, 8</i>.<br><b>      2</b> qui produit la dureté de l’ouïe, HPC. <i>50, 34 ; 1247a ;</i> PHIL. SEXT.<p><b>Étym</b>. β. ἀκούω.`

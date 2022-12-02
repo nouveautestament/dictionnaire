@@ -1,0 +1,1 @@
+lar[11668]=`<b>ἀπελευθερόω-ῶ</b>, affranchir, PLAT. <i>Leg. 915a ;</i> ARSTT. <i>Rhet. 3, 8, 1</i>.<p><b>Étym</b>. ἀπελεύθερος.`

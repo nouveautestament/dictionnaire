@@ -1,0 +1,1 @@
+lar[51034]=`<b>καλεσσί·χορος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui invite (<i>càd</i>. qui excite) à la danse, ORPH. <i>Lith. 712</i>.<p><b>Étym</b>. καλέω, χορός.`

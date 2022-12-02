@@ -1,0 +1,1 @@
+lar[93689]=`<b>ας (ἡ)</b> <font color="purple">[ῡᾰῑ]</font> <i>c</i>. συκάμινος, DIOSC. <i>1, 180</i> ; ES. <i>71 Halm</i>.`

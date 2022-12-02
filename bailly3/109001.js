@@ -1,0 +1,1 @@
+lar[109001]=`<b>ή, όν :<br>      1</b> <i>pass</i>. bon pour l’usage, utile, usuel, PLUT. <i>Cato ma. 1, M. 32e.</i><br><b>      2</b> <i>act</i>. qui sait se servir de, habile à se servir de, <i>gén</i>. ARSTT. <i>Œc. 1, 6, 1</i> ; POL. <i>1, 7, 4 ; postér. dat. (c</i>. χράομαι) M. ANT. <i>7, 55</i>.<p>•<i> Sup</i>. χρηστικώτατος, PLUT. <i>M. 32e</i>.<p><b>Étym</b>. χράομαι.`

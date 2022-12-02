@@ -1,0 +1,1 @@
+lar[28970]=`<b>δύσ·φατος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> au son sinistre, ESCHL. <i>Ag. 1152</i>.<br><b>      2</b> difficile à expliquer, obscur, LYC. <i>10</i>.<p><b>Étym</b>. δ. φημί.`

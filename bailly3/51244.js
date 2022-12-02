@@ -1,0 +1,1 @@
+lar[51244]=`<b>καλλί·τριχον, ου (τὸ)</b> <font color="purple">[ῐχ]</font> capillaire, <i>plante,</i> DIOSC. <i>4, 136</i> ; EL. <i>N.A. 1, 35</i> ; GAL. <i>14, 321, etc</i>.<p><b>Étym</b>. <i>neutre de</i> καλλίτριχος.`

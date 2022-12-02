@@ -1,0 +1,1 @@
+lar[97897]=`<b>ταχυ·θάνατος, ος, ον</b> <font color="purple">[ᾰῠᾰᾰ]</font><br><b>   I <i>intr.</i> :<br>      1</b> exposé à une mort soudaine, HPC. <i>Aph. 1246</i>.<br><b>      2</b> qui meurt vite, tout à coup, HPC. <i>Epid. 1, 948</i>.<br><b>   II <i>tr</i></b>. qui fait mourir promptement, HPC. <i>Acut. 393, Art. 829</i>.<p><b>Étym</b>. τ. θάνατος.`

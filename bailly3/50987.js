@@ -1,0 +1,1 @@
+lar[50987]=`<b>ου</b> <font color="purple">[ᾰᾰῑ]</font> <i>adj. m</i>. de chaume, A. TR. <i>5, p. 261</i>.<p><b>Étym</b>. κάλαμος.`

@@ -1,0 +1,1 @@
+lar[4817]=`<b>ἀλλοτριο·μορφο·δίαιτος, ος, ον</b>, qui se renouvelle par des changements de forme (la nature) ORPH. <i>H. 9, 83</i>.<p><b>Étym</b>. ἀ. μορφή, δίαιτα.`

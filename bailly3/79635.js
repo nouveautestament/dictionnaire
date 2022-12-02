@@ -1,0 +1,1 @@
+lar[79635]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> dédain, orgueil, COL. <i>196</i> ; THÉM. <i>259b</i>.<p><b>Étym</b>. περίφρων.`

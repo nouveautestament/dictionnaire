@@ -1,0 +1,1 @@
+lar[65047]=`<b>μετα·χείριος, ος, ον</b>, qui se trouve entre les mains, NONN. <i>Jo. 13, 40</i>.<p><b>Étym</b>. μ. χείρ.`

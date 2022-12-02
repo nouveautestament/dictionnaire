@@ -1,0 +1,1 @@
+lar[59292]=`être sourd <i>ou</i> muet, être silencieux, SPT. <i>1Reg. 10, 27 ; Job 6, 24 ; 13, 13</i>.<p><b>Étym</b>. κωφός.`

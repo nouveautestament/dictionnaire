@@ -1,0 +1,1 @@
+lar[81418]=`<b>ποικιλό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐ]</font> à l’esprit fertile en expédients, EUR. <i>Hec. 131</i>.<p><b>Étym</b>. π. φρήν.`

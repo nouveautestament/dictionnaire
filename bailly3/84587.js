@@ -1,0 +1,1 @@
+lar[84587]=`<b>προ·κομίζω :<br>      1</b> porter devant <i>ou</i> en avant, <i>acc</i>. LUC. <i>D. mer. 4, 5</i> ; JOS. <i>A.J. 1, 16, 2 ; fig</i>. produire au jour, publier, CLÉM. <i>199 Sylb.</i><br><b>      2</b> porter processionnellement, DS. <i>Exc. 644, 37</i>.<br><b>      3</b> porter au loin, transporter, <i>acc</i>. HDT. <i>4, 122</i> ; LUC. <i>Nav. 19</i>.`

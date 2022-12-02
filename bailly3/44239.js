@@ -1,0 +1,1 @@
+lar[44239]=`<b>ος, ον</b>, <i>seul</i>. PLUT. <i>neutre</i> ἔχθιμα, SOPH. <i>fr. 590,</i> les haines.<p><b>Étym</b>. ἔχθω.`

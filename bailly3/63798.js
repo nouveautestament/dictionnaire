@@ -1,0 +1,1 @@
+lar[63798]=`<b>ων (αἱ)</b> <i>sorte de coquillages noirs,</i> ATH. <i>86a</i>.<p><b>Étym</b>. μέλας.`

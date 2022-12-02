@@ -1,0 +1,1 @@
+lar[90709]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. σκάφη, EL. <i>N.A. 7, 47</i>.`

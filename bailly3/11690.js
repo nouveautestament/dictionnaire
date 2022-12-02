@@ -1,0 +1,1 @@
+lar[11690]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font> apparence éloignée de, <i>d’où</i> invraisemblance, absurdité, SEXT. <i>P. 3, 61, etc.</i> ; CLÉM. <i>367 ; au plur</i>. STR. <i>454</i>.<p><b>Étym</b>. ἀπεμφαίνω.`

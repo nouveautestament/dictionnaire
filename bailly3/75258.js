@@ -1,0 +1,1 @@
+lar[75258]=`<b>παντο·κράτωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> <font color="purple">[ᾰτ]</font> tout-puissant, ANTH. <i>App. 282</i> ; SPT. <i>2Reg. 5, 10 ; 2, 7, 25 ; Job 5, 17, etc</i>.`

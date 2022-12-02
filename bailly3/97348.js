@@ -1,0 +1,1 @@
+lar[97348]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> frit <i>ou</i> rôti dans la poêle, ALEX. (ATH. <i>108).</i><p><b>Étym</b>. <i>vb. de</i> ταγηνίζω ; <i>cf</i>. τηγανιστός.`

@@ -1,0 +1,1 @@
+lar[16156]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> urbanité, finesse, LIB. <i>1, 322</i>.<p><b>Étym</b>. ἀστεῖος.`

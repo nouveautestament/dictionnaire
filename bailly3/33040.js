@@ -1,0 +1,1 @@
+lar[33040]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> sorte de flûte en buis, avec une embouchure de cuir, SOPH. <i>fr. 398</i> ; CALLIAS (ATH. <i>176f</i>).<br><b>      2</b> millet, HPC. <i>638, 2</i> ; AR. <i>fr. 351</i> ; POL. <i>2, 15, 2</i>.<p><b>Étym</b>. ἐλύω.`

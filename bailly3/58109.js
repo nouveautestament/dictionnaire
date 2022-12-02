@@ -1,0 +1,1 @@
+lar[58109]=`<b>κρουματο·ποιός, οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> habile joueur de flûte, MACH. (ATH. <i>337c</i>).<p><b>Étym</b>. κροῦμα, ποιέω.`

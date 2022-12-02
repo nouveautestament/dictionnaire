@@ -1,0 +1,1 @@
+lar[79003]=`<b>ου (τὸ)</b> terrain autour d’une ville <i>ou</i> d’une habitation, IS. (HARP.) ; ARSTD. <i>t. 1, 359</i>.<p><b>Étym</b>. περίοικος.`

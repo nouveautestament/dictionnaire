@@ -1,0 +1,1 @@
+lar[88290]=`<b>ίδος (ἡ)</b> <i>dor. c</i>. ῥαφίς, EPICH. <i>fr. 40 Ahrens</i>.`

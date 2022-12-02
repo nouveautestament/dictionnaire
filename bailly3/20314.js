@@ -1,0 +1,1 @@
+lar[20314]=`<b>βοτρυόομαι-οῦμαι</b> (<i>seul. prés</i>.) se former en grappes, TH. <i>C.P. 1, 18, 4</i>.<p><b>Étym</b>. βότρυς.`

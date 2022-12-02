@@ -1,0 +1,1 @@
+lar[84994]=`<b>ῆς (ἡ) :<br>      1</b> action d’envoyer en avant, PLUT. <i>Galb. 8</i>.<br><b>      2</b> action d’accompagner processionnellement, d’escorter pour faire honneur, XÉN. <i>Ages. 2, 27</i> ; POL. <i>20, 11, 8, etc.</i> ; PLUT. <i>Num. 14 : particul</i>. action de suivre un convoi funèbre, CHRYS.<p><b>Étym</b>. προπέμπω.`

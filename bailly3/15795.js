@@ -1,0 +1,1 @@
+lar[15795]=`<b>ἀσεπτέω-ῶ</b> (<i>seul. prés</i>.) être impie, SOPH. <i>Ant. 1350</i>.<p><b>Étym</b>. ἄσεπτος.`

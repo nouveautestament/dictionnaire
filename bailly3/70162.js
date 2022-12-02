@@ -1,0 +1,1 @@
+lar[70162]=`<font color="purple">[ῠ]</font> <i>adv</i>., douloureusement, ARSTT. <i>H.A. 9, 1, 23</i> ; LUC. <i>Lex. 2</i>.`

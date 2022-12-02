@@ -1,0 +1,1 @@
+lar[55170]=`<b>ας (ἡ)</b> nerprun, <i>arbrisseau,</i> TH. <i>H.P. 1, 15 ; 3, 6</i>.<p><b>Étym</b>. <i>cf</i>. κήλαστρον, κήλαστρος.`

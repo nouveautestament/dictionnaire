@@ -1,0 +1,1 @@
+lar[88071]=`<b>ου</b>, <i>adj. m</i>. barbu, CRAT. (<i>Com. fr. 2, 208</i>) ; PTOL. <i>7, 2, 23</i> ; π. ἀστήρ, ARSTT. <i>Meteor. 1, 7, 4</i> ; PLUT. <i>M. 893c ;</i> DL. <i>7, 152, etc</i>. comète barbue <i>ou</i> chevelue.<p><b>Étym</b>. πώγων.`

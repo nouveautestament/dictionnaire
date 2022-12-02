@@ -1,0 +1,1 @@
+lar[85739]=`<b>προσ·επιτέρπομαι</b>, se réjouir encore <i>ou</i> encore plus, AR. <i>Ran. 231</i>.<p><b>Étym</b>. π. ἐπιτέρπω.`

@@ -1,0 +1,1 @@
+lar[61274]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font> action de graisser, onction, ANTYLL. (ORIB. <i>2, 450 B.-Dar</i>.).<p><b>Étym</b>. λιπαίνω.`

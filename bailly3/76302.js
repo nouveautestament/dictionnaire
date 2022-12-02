@@ -1,0 +1,1 @@
+lar[76302]=`<b>παρα·σχοινίζω</b>, mesurer au cordeau, arpenter, STR. <i>710</i>.`

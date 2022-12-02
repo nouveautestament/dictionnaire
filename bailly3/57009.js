@@ -1,0 +1,1 @@
+lar[57009]=`<b>κορακο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> semblable au corbeau, ARSTT. <i>H.A. 1, 1, 30</i>.<br><b>      2</b> semblable à un bec de corbeau, GAL. <i>2, 275</i>.<p><b>Étym</b>. κόραξ, εἶδος.`

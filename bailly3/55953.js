@@ -1,0 +1,1 @@
+lar[55953]=`<b>κλεψι·τόκος, ος, ον</b> <font color="purple">[ῐ]</font> qui enfante secrètement, <i>ép. de Rhéa,</i> OPP. <i>C. 3, 11</i>.<p><b>Étym</b>. κλέπτω, τόκος.`

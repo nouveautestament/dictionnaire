@@ -1,0 +1,1 @@
+lar[69233]=`<b>νυμφό·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> qui est <i>ou</i> se fait en l’honneur d’une jeune mariée, ESCHL. <i>Ag. 705</i>.<p><b>Étym</b>. ν. τιμή.`

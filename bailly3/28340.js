@@ -1,0 +1,1 @@
+lar[28340]=`<b>δυσ·εκθέρμαντος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à échauffer, PLUT. <i>M. 625a ;</i> GAL. <i>6, 352, etc</i>.<p><b>Étym</b>. δ. ἐκθερμαίνω.`

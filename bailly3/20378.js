@@ -1,0 +1,1 @@
+lar[20378]=`<b>βουθυτέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ῠ]</font><br><b>      1</b> faire un sacrifice de bœufs <i>ou</i> de génisses, SOPH. <i>O.C. 888</i> ; EUR. <i>El. 785</i> ; ESCHN. POL.<br><b>      2</b> <i>p. ext</i>. sacrifier, <i>en gén</i>. AR. <i>Pl. 819</i>.<p><b>Étym</b>. βούθυτος.`

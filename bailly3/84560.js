@@ -1,0 +1,1 @@
+lar[84560]=`<b>προ·κλῃδονίζομαι</b>, prophétiser, prédire, JOS. <i>B.J. 3, 1, 3</i>.`

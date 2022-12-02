@@ -1,0 +1,1 @@
+lar[87430]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>litt</i>. « la baveuse », <i>sorte de vipère ou d’aspic,</i> EL. <i>N.A. 3, 33</i> ; PORPH. <i>Abst. 3, 9</i>.<p><b>Étym</b>. πτύω.`

@@ -1,0 +1,1 @@
+lar[108111]=`<b>ατος (τὸ)</b> membre traité, pansé <i>ou</i> opéré par un médecin, HPC. <i>Art. 791, 808</i>.<p><b>Étym</b>. χειρίζω.`

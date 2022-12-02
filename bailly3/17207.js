@@ -1,0 +1,1 @@
+lar[17207]=`<b>οῦ (ὁ)</b> action de séjourner, séjour, SYMM. <i>Jes. 10, 29, etc</i>.<p><b>Étym</b>. αὐλίζομαι.`

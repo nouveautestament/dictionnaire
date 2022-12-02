@@ -1,0 +1,1 @@
+lar[11171]=`<b>ἀπ·αληθεύω</b> <font color="purple">[ᾰλ]</font> dire la vérité, XÉN. <i>Œc. 3, 12</i>.`

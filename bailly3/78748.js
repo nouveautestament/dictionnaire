@@ -1,0 +1,1 @@
+lar[78748]=`<b>περι·κεράννυμι</b>, répandre tout autour, PLUT. <i>M. 924b</i>.`

@@ -1,0 +1,1 @@
+lar[57657]=`<b>Κράτ·ιππος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kratippos :<br><b>      1</b> <i>historien contemporain de Thucydide,</i> PLUT. <i>X orat. And. 11</i>.<br><b>      2</b> <i>philosophe péripatéticien,</i> PLUT. <i>Pomp. 75, etc</i>.<p><b>Étym</b>. κράτος, ἵππος ; <i>cf</i>. Ἱπποκράτης.`

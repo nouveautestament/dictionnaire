@@ -1,0 +1,1 @@
+lar[30264]=`<i>adv</i>., sciemment, avec connaissance, ESCHN. <i>15, 40</i> ; ARSTT. <i>Phys. 1, 4, 12</i>.<p><b>Étym</b>. εἰδώς.`

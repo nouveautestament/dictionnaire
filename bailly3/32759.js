@@ -1,0 +1,1 @@
+lar[32759]=`<b>ἐλεφαντο·κομία, ας (ἡ)</b> soin <i>ou</i> entretien des éléphants, EL. <i>N.A. 6, 8</i>.<p><b>Étym</b>. ἐ. κομέω.`

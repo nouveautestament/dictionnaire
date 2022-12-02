@@ -1,0 +1,1 @@
+lar[76362]=`<b>παρα·τρυγάω-ῶ</b> <font color="purple">[ῠ]</font> cueillir du raisin encore vert, <i>fig</i>. ARISTÉN. <i>2, 7</i>.`

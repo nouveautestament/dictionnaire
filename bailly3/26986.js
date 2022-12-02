@@ -1,0 +1,1 @@
+lar[26986]=`<b>δι·πόταμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> baigné par deux fleuves, EUR. <i>Suppl. 621</i>.<p><b>Étym</b>. δίς, ποταμός.`

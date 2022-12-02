@@ -1,0 +1,1 @@
+lar[13462]=`<b>ἀπο·στραγγαλίζω</b> <font color="purple">[γᾰ]</font> étrangler, DS. <i>14, 12</i> ; STR. <i>796</i>.`

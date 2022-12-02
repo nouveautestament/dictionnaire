@@ -1,0 +1,1 @@
+lar[2509]=`<b>ου (τὸ)</b> repas du soir, souper, <i>chez les Lacédémoniens,</i> ATH. <i>139b</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

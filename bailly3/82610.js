@@ -1,0 +1,1 @@
+lar[82610]=`<b>πολυ·ωρέω-ῶ</b>, prendre grand soin de, <i>d’où</i> respecter, vénérer, <i>acc</i>. DS. <i>18, 65</i> ; DL. <i>6, 9 ; abs</i>. ESCHN. <i>8, 5 ; au pass</i>. ARSTT. <i>Rhet. 2, 2, 7</i>.<p><b>Étym</b>. π. ὤρα.`

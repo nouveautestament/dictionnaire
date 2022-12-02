@@ -1,0 +1,1 @@
+lar[47522]=`<b>ων (οἱ)</b> Thourii <i>ou</i> Thurium, <i>v. de Lucanie, colonie d’Athènes,</i> PLAT. <i>Euthyd. 271c ;</i> ARSTT. <i>Pol. 3, 6, 6 et 8</i> ; PLUT. <i>Per. 11, Alc. 22 et 23, etc</i>.<p><b>Étym</b>. <i>lat</i>. Thurium, <i>cf</i>. Θούριον.`

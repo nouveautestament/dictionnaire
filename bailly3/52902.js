@@ -1,0 +1,1 @@
+lar[52902]=`<b>κατ·ανεμόω-ῶ</b> <font color="purple">[ᾰν]</font> agiter au moyen du vent, EUM. <i>p. 394</i>.`

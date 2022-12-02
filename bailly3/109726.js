@@ -1,0 +1,1 @@
+lar[109726]=`<b>ψευδό·πτωμα, ατος (τὸ)</b> fausse chute d’un lutteur pour tromper son adversaire, PLUT. <i>Pel. c. Marc. 1</i>.`

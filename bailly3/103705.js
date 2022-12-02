@@ -1,0 +1,1 @@
+lar[103705]=`<b>ὑπο·ποδισμός, οῦ (ὁ)</b> mouvement rétrograde d’une étoile, PROCL. <i>Hyp. p. 143, 9 Halma</i>.<p><b>Étym</b>. ὑ. ποδίζω.`

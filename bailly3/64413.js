@@ -1,0 +1,1 @@
+lar[64413]=`<b>ης (ἡ)</b> Méropè, <i>f</i>. SOPH. <i>O.R. 775, 990</i> ; ARSTT. <i>Poet. 14</i> ; PLUT. <i>Thes. 19, etc</i>.<p>➳ <i>Dor</i>. Μερόπα, ANT. <i>3, 5</i>.`

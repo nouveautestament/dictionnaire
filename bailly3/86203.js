@@ -1,0 +1,1 @@
+lar[86203]=`<b>εως (ἡ)</b> <font color="purple">[μῑ]</font> fréquentation, relation, commerce avec CLÉM. <i>220</i>.<p><b>Étym</b>. προσομιλέω.`

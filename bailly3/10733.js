@@ -1,0 +1,1 @@
+lar[10733]=`<b>ἀν·υπέρβατος, ος, ον</b> <font color="purple">[βᾰ]</font><br><b>      1</b> infranchissable, D. CHR. <i>2, 338</i>.<br><b>      2</b> <i>fig</i>. qu’on ne peut surmonter, invincible, DL. <i>7, 93</i>.<p><b>Étym</b>. ἀν-, ὑπερβαίνω.`

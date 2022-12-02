@@ -1,0 +1,1 @@
+lar[95426]=`<b>συν·εκτραχύνω</b> <font color="purple">[ᾱῡ]</font> irriter, mettre en fureur, <i>en parl. d’un fleuve,</i> PLUT. <i>Syll. 16</i>.`

@@ -1,0 +1,1 @@
+lar[53700]=`<b>κατα·φυτεύω</b> <font color="purple">[ῠ]</font> planter, PLUT. <i>Cim. 13</i> ; LUC. <i>V.H. 2, 42 ; fig</i>. SPT. <i>2Macc. 1, 29</i> ; EUM. <i>p. 138</i>.`

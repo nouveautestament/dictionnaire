@@ -1,0 +1,1 @@
+lar[76831]=`<b>εως (ἡ)</b> action de faire cuire, PALÆPH. <i>44, 2</i>.<p><b>Étym</b>. π. ἕψω.`

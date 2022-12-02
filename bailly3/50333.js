@@ -1,0 +1,1 @@
+lar[50333]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui a la propriété d’arrêter, de retenir, ARSTT. <i>Probl. 34, 15, 4</i> ; A. APHR. <i>Probl. 2, 60</i>.<p><b>Étym</b>. καθεκτός.`

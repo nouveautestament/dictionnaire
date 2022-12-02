@@ -1,0 +1,1 @@
+lar[18504]=`<b>ἀ·χόρταστος, ος, ον</b>, insatiable, MÉN. <i>fr. inc. 144 Meineke</i> ; SYMM. <i>Ps. 58, 16</i>.<p><b>Étym</b>. ἀ, χορτάζω.`

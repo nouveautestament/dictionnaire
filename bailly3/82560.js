@@ -1,0 +1,1 @@
+lar[82560]=`<b>πολυ·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῠῐ]</font> à plusieurs tuniques <i>ou</i> enveloppes, TH. <i>C.P. 3, 21, 2, etc</i>.<p><b>Étym</b>. π. χιτών.`

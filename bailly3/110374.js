@@ -1,0 +1,1 @@
+lar[110374]=`<b>ιδος :<br>   I (ὁ)</b> Ôpis, <i>h</i>. SIM. <i>fr. 153 Bgk</i>.<br><b>   II (ἡ)</b> Ôpis :<br><b>      1</b> <i>f. de la région hyperboréenne,</i> HDT. <i>4, 35</i> ; PLAT. <i>Ax. 371a, etc.</i><br><b>      2</b> <i>v</i>. d’Assyrie (<i>auj</i>. Tall al-Mujailāt) HDT. <i>1, 189</i> ; XÉN. <i>An. 2, 4, 25, etc</i>.`

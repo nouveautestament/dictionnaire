@@ -1,0 +1,1 @@
+lar[9418]=`<b>ἀντ·αιωρέω-ῶ</b>, élever à son tour, PLOT. <i>670a</i>.`

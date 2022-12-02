@@ -1,0 +1,1 @@
+lar[60555]=`<b>ου (ὁ)</b> able, <i>poisson,</i> HICÉS. (ATH. <i>306e</i>) ; GAL. <i>6, 390</i>.<p><b>Étym</b>. λευκός.`

@@ -1,0 +1,1 @@
+lar[61783]=`<b>γκός (ὁ)</b> lynx, loup cervier, HH. <i>18, 24</i> ; XÉN. <i>Cyn. 11, 1</i> ; EUR. <i>Alc. 582</i> ; ARSTT. <i>H.A. 2, 1</i>.<p><b>Étym</b>. <i>emprunt à un substrat pré-indo-europ</i>.`

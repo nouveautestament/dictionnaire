@@ -1,0 +1,1 @@
+lar[100524]=`<b>τρι·σώματος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à trois corps, ESCHL. <i>Ag. 870</i> ; EUR. <i>H.f. 24, etc.</i> ; DS. <i>4, 8</i>.<p><b>Étym</b>. τρ. σῶμα.`

@@ -1,0 +1,1 @@
+lar[90351]=`<b>σιμ·ῳδός, οῦ (ὁ)</b> <font color="purple">[ῑ]</font> chanteur de chansons joyeuses, ARISTOCL. (ATH. <i>620d</i>).<p><b>Étym</b>. Σῖμος, ᾠδή.`

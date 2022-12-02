@@ -1,0 +1,1 @@
+lar[99306]=`<b>ου (ὁ)</b> Tiribazos, <i>satrape d’Arménie,</i> XÉN. <i>Hell. 4, 4, 4 ; 4, 4, 7, etc</i>.`

@@ -1,0 +1,1 @@
+lar[39143]=`<b>ἐπι·στιχάομαι-ῶμαι</b> <font color="purple">[τῐ]</font> (<i>seul. impf. 3 pl. épq</i>. ἐπεστιχόωντο) s’approcher de, ἐς <i>et l’acc</i>. NONN. <i>Jo. 4, 206</i>.<p><b>Étym</b>. ἐπί, στίχος.`

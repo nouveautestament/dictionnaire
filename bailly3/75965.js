@@ -1,0 +1,1 @@
+lar[75965]=`<b>παρ·αναλίσκω</b> <font color="darkgreen">(<i>f</i>. παραναλώσω ; <i>ao. pass</i>. παραναλώθην)</font> <font color="purple">[ᾰνᾱλ]</font> dépenser mal à propos <i>ou</i> en pure perte, DÉM. <i>167, 14 ; 1432, 16 ; au pass. en parl. de pers</i>. être sacrifié en pure perte, PLUT. <i>Lys. 28</i>.`

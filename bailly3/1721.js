@@ -1,0 +1,1 @@
+lar[1721]=`<b>ἀ·εκήλιος, ος, ον</b>, inconvenant, indigne, injurieux, IL. <i>18, 77</i>.<p><b>Étym</b>. ἀ, ἕκηλος.`

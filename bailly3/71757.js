@@ -1,0 +1,1 @@
+lar[71757]=`<b>ας (ἡ) :<br>      1</b> communauté <i>ou</i> identité de langage, DH. <i>1, 29</i>.<br><b>      2</b> ressemblance de sons, ARSTT. <i>Pol. 2, 5 ; particul</i>. accord de sons, LUC. <i>2, 305 Reitz</i>.<p><b>Étym</b>. ὁμόφωνος.`

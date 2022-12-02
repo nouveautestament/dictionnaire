@@ -1,0 +1,1 @@
+lar[87176]=`<b>πρωτ·ηρότης, ου (ὁ)</b> celui qui a labouré le premier, HÉS. <i>O. 488</i>.<p><b>Étym</b>. πρ. ἀρότης.`

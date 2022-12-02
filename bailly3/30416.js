@@ -1,0 +1,1 @@
+lar[30416]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῐ]</font> convive d’un festin εἰλαπίνη, IL. <i>17, 577 ; ép. de Zeus chez les Cypriotes,</i> ATH. <i>174a</i>.<p><b>Étym</b>. εἰλαπίνη.`

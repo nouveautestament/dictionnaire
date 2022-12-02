@@ -1,0 +1,1 @@
+lar[51771]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. κάρα, NIC. (ATH. <i>684a</i>).`

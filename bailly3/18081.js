@@ -1,0 +1,1 @@
+lar[18081]=`<b>ἀφ·ικάνω</b> <font color="purple">[ᾰῐᾱ]</font> (<i>seul. prés. et impf</i>. ἀφίκανον) parvenir à, arriver à, <i>avec l’acc. du lieu,</i> OD. <i>14, 159 ; etc., ou avec</i> πρός <i>et l’acc</i>. IL. <i>6, 388</i>.`

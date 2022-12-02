@@ -1,0 +1,1 @@
+lar[12970]=`<b>ἀπο·νίσσομαι</b> (<i>seul. prés</i>.) s’en aller, s’éloigner, THGN. <i>528</i> ; A.RH. <i>3, 899</i>.`

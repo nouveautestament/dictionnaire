@@ -1,0 +1,1 @@
+lar[98634]=`<b>τετραπλασι·επιδιμερής, ής, ές</b> <font color="purple">[ᾰᾰῐδῐ]</font> quatre fois deux tiers aussi fort, comme 14 : 3, NICOM. <i>Arithm. 1, 23</i>.`

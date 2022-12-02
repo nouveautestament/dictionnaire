@@ -1,0 +1,1 @@
+lar[76016]=`<b>παρα·ξυράω</b>, <i>ion</i>. <b>παρα·ξυρέω-ῶ</b> <font color="purple">[ῠ]</font> raser à côté, HPC. <i>469, 40</i>.`

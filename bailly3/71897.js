@@ -1,0 +1,1 @@
+lar[71897]=`<b>ου (ὁ)</b> Onestès, <i>poète de l’Anthologie,</i> ANTH. <i>5, 20, etc</i>.`

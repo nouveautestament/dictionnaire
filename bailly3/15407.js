@@ -1,0 +1,1 @@
+lar[15407]=`<b>*ἀρτό·κρεας, ατος (τὸ)</b> <i>seul. lat</i>. artocreas, mélange de pain et de viande, sorte de hachis, PERS. <i>6, 50</i>.<p><b>Étym</b>. ἄρτος, κρέας.`

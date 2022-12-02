@@ -1,0 +1,1 @@
+lar[94050]=`<b>συμ·παίω :<br>      1 <i>tr.</i></b> frapper avec <i>ou</i> contre, <i>dat</i>. SOPH. <i>El. 727</i>.<br><b>      2 <i>intr.</i></b> survenir violemment, EUR. <i>Hec. 118</i>.`

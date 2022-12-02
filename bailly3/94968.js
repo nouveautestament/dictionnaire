@@ -1,0 +1,1 @@
+lar[94968]=`<b>ή, όν</b>, apte à ajuster, à coordonner, DIOTOG. (STOB. <i>Fl. 48, 62</i>) ; JAMBL. <i>Myst. 4, 12</i>.<p><b>Étym</b>. συναρμόζω.`

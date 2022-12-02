@@ -1,0 +1,1 @@
+lar[91823]=`<b>ης, ες</b>, en forme de spirale, NIC. <i>Al. 253, 527</i>.<p><b>Étym</b>. σπεῖρα, -ωδης.`

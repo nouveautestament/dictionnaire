@@ -1,0 +1,1 @@
+lar[28706]=`<b>δυσοδέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) marcher péniblement, PLUT. <i>Pyrrh. 32</i> ; ARR. <i>Epict. 3, 19, 3</i>.<p><b>Étym</b>. δύσοδος.`

@@ -1,0 +1,1 @@
+lar[54160]=`<i>adv</i>., selon les lois de la catoptrique, <i>càd</i>. de la réflexion par les miroirs, PLUT. <i>M. 890f</i>.`

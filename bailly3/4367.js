@@ -1,0 +1,1 @@
+lar[4367]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> mouture, EUN. <i>V. Max. p. 59</i>.<p><b>Étym</b>. ἀλήθω.`

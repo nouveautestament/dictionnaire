@@ -1,0 +1,1 @@
+lar[105130]=`<b>φερέ·ζωος, ος, ον</b>, qui donne (<i>litt</i>. qui apporte) la vie, NONN. <i>D. 12, 6</i>.<p><b>Étym</b>. φ. ζωή.`

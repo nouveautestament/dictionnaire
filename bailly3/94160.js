@@ -1,0 +1,1 @@
+lar[94160]=`<i>adv</i>., conjointement, GAL. <i>19, 489</i>.<p><b>Étym</b>. συμπλέκω.`

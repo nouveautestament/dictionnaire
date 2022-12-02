@@ -1,0 +1,1 @@
+lar[39789]=`<b>ἐπ·ογμεύω</b> (<i>seul. prés</i>.) décrire en sillonnant : κύκλον, TRIPHIOD. <i>354,</i> un cercle.`

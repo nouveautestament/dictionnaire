@@ -1,0 +1,1 @@
+lar[20488]=`<b>βου·νόμος, ος, ον</b>, qui paît, <i>en parl. d’un troupeau de bœufs,</i> SOPH. <i>O.R. 26</i>.<p><b>Étym</b>. βοῦς, νέμω.`

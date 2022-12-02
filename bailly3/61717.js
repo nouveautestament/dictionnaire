@@ -1,0 +1,1 @@
+lar[61717]=`<b>λόφ·ουρος, ος, ον</b>, dont la queue a de longs poils : τὰ λόφουρα, ARSTT. <i>H.A. 1, 6, etc.</i> ; TH. <i>H.P. 3, 10, 2,</i> bêtes de somme.<p><b>Étym</b>. λόφος, οὐρά.`

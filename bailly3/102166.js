@@ -1,0 +1,1 @@
+lar[102166]=`<b>ὑπ·εμβάλλω</b>, insérer après, <i>rég. ind. au dat</i>. GR. COR. <i>387</i>.`

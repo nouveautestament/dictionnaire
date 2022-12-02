@@ -1,0 +1,1 @@
+lar[101208]=`<b>ῶ</b>, <i>acc</i>. <b>ῶ (ὁ)</b> <i>c</i>. Τυφῶν, PD. <i>P. 1, 16 ; 8, 16</i> ; ESCHL. <i>Sept. 517</i> ; HDT. <i>3, 5, etc</i>.<p>➳ <i>Gén</i>. -ῶ, ESCHL. <i>l. c.</i> ; AR. <i>Nub. 336 ; acc</i>. -ῶ, HDT. <i>l. c.</i> ; AR. <i>Eq. 511</i>.`

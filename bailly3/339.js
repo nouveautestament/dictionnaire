@@ -1,0 +1,1 @@
+lar[339]=`<b>ἀγά·ννιφος, ος, ον</b> <font color="purple">[ᾰγῐ]</font> couvert de neiges abondantes, IL. <i>1, 420</i>.<p><b>Étym</b>. ἀγα-, νείφω.`

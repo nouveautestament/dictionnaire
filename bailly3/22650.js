@@ -1,0 +1,1 @@
+lar[22650]=`<b>έως (ὁ)</b> <font color="purple">[ῑ]</font> pêcheur, THCR. <i>Idyl. 1, 39</i> ; MOSCH. <i>5, 9</i> ; ANTH. <i>7, 505 ; etc</i>.`

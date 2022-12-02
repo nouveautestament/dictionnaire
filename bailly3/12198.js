@@ -1,0 +1,1 @@
+lar[12198]=`<b>ἀπο·γλαυκόομαι-οῦμαι</b> <font color="darkgreen">(<i>inf. ao</i>. -γλαυκωθῆναι ; <i>part. pf</i>. ἀπεγλαυκωμένος)</font> être atteint du glaucome, <i>maladie des yeux,</i> DS. <i>3, 24</i> ; PLUT. <i>Tim. 37</i>.`

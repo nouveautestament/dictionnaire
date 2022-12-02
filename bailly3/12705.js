@@ -1,0 +1,1 @@
+lar[12705]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> machine roulante, LGN <i>40, 4</i>.<p><b>Étym</b>. ἀποκυλίω.`

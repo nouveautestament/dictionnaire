@@ -1,0 +1,1 @@
+lar[59542]=`<b>λαιμό·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> qui coule de la gorge, EUR. <i>Hel. 335</i>.<p><b>Étym</b>. λ. ῥέω.`

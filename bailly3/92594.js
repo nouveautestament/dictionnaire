@@ -1,0 +1,1 @@
+lar[92594]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> gelée blanche, OD. <i>5, 467 ; 17, 25</i> ; CALL. <i>Ep. 32</i>.<p><b>Étym</b>. στείβω ; <i>pour la relation d’idées, cf</i>. πάγος <i>de</i> πήγνυμι.`

@@ -1,0 +1,1 @@
+lar[81865]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grande libéralité, munificence, XÉN. <i>Cyr. 8, 2, 7</i>.<p><b>Étym</b>. πολύδωρος.`

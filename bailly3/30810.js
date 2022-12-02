@@ -1,0 +1,1 @@
+lar[30810]=`<b>εἰσ·κύπτω</b>, se baisser pour regarder dans, SPT. <i>1Reg. 13, 18</i>.`

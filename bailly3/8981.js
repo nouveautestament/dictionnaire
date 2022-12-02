@@ -1,0 +1,1 @@
+lar[8981]=`<b>ἀνθρωπο·τόκος, ος, ον</b>, qui enfante un homme <i>ou</i> des hommes, NYSS. <i>3, 1024 Migne</i>.<p><b>Étym</b>. ἄ. τίκτω.`

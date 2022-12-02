@@ -1,0 +1,1 @@
+lar[66524]=`<b>μονό·γραμμος, ος, ον</b>, qui n’est formé que d’un seul trait, de simples contours, EPIC. (CIC. <i>N.D. 2, 23).</i><p><b>Étym</b>. μ. γραμμή.`

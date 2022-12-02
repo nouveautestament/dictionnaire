@@ -1,0 +1,1 @@
+lar[42276]=`<b>ος, ον</b>, qui sert à diriger, à gouverner, ESCHL. <i>Pers. 764</i>.<p><b>Étym</b>. εὐθυντήρ.`

@@ -1,0 +1,1 @@
+lar[76266]=`<b>παρα·στύφω</b>, être légèrement astringent, DIPH. SIPHN. (ATH. <i>73a</i>).`

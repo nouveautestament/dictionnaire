@@ -1,0 +1,1 @@
+lar[73657]=`<b>οὐρανό·δεικτος, ος, ον</b> <font color="purple">[ᾰ]</font> montré <i>ou</i> qui se montre dans le ciel, HH. <i>32, 3</i>.<p><b>Étym</b>. οὐρ. δεικτός.`

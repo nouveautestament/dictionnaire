@@ -1,0 +1,1 @@
+lar[106869]=`<b>φρε·ωρύχος, ος, ον</b> <font color="purple">[ῠ]</font> qui creuse un puits <i>ou</i> des puits, PLUT. <i>M. 159c ;</i> THÉM. <i>152c</i>.<p><b>Étym</b>. φρέαρ, ὀρύσσω.`

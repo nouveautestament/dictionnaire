@@ -1,0 +1,1 @@
+lar[105448]=`<b>Φιλαίνου</b> <i>ou</i> <b>Φιλαίνων βωμά (τὰ)</b> les autels de Philæne <i>ou</i> des frères Philænes, <i>sur la frontière de Kyrènè,</i> POL. <i>3, 39 ; 10, 40</i>.`

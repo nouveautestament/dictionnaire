@@ -1,0 +1,1 @@
+lar[37453]=`<b>ἐπι·γεραίρω</b>, combler d’honneurs, XÉN. <i>Cyr. 8, 6, 11</i>.`

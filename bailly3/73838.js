@@ -1,0 +1,1 @@
+lar[73838]=`<b>ὀφιό·δηκτος, ος, ον</b>, mordu par un serpent, SPT. <i>Sir. 12, 17, etc</i>.<p><b>Étym</b>. ὄφις, δάκνω.`

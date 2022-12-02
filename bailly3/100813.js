@@ -1,0 +1,1 @@
+lar[100813]=`<b>ου</b> <i>ou</i> <b>τρυγητός, οῦ (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> récolte (moisson, vendange) PLUT. <i>M. 671d ;</i> LUC. <i>Philops. 22</i> ; LGS <i>2, 1, 2</i> ; JOS. <i>A.J. 2, 5, 2</i>.<br><b>      2</b> époque de la récolte, THC. <i>4, 84</i> ; TH. <i>H.P. 5, 1, 2</i> ; GAL. <i>13, 896, etc</i>.<p><b>Étym</b>. τρυγάω.`

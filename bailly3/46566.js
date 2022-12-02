@@ -1,0 +1,1 @@
+lar[46566]=`<b>θεμί·πλεκτος, ος, ον</b>, tressé avec art (<i>propr</i>. avec régularité) PD. <i>N. 9, 125</i>.<p><b>Étym</b>. θέμις, πλέκω.`

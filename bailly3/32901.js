@@ -1,0 +1,1 @@
+lar[32901]=`<b>ἐλ·λάμπω :<br>      1</b> briller sur, éclairer, ARCHIL. <i>55</i>.<br><b>      2</b> briller <i>ou</i> réfléchir dans, <i>dat</i>. PLUT. <i>M. 40d.</i><br><b><i>Moy.</i></b> se distinguer, s’illustrer : τινι, HDT. <i>1, 80,</i> en qqe ch.<p><b>Étym</b>. ἐν, λ.`

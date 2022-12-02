@@ -1,0 +1,1 @@
+lar[22559]=`<b>γραιόομαι-οῦμαι</b>, devenir vieux, <i>en parl. d’une vigne,</i> ANTH. <i>9, 261 (au prés</i>.).<p><b>Étym</b>. γραῖα.`

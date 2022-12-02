@@ -1,0 +1,1 @@
+lar[30009]=`<b>ου (ὁ)</b> d’Edessa <i>en Mésopotamie,</i> LUC. <i>H. conscr. 24</i>.<p><b>Étym</b>. Ἔδεσσα.`

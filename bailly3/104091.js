@@ -1,0 +1,1 @@
+lar[104091]=`<b>ὑπο·φαύσκω</b> (<i>seul. part. prés</i>.) commencer à briller, ARSTT. <i>Probl. 8, 17, 1</i>.`

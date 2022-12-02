@@ -1,0 +1,1 @@
+lar[96945]=`<b>ης, ες</b>, qui bat comme le pouls, ARSTT. <i>Spir. 4, 8</i>.<p><b>Étym</b>. σφυγμός, -ωδης.`

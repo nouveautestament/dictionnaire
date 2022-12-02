@@ -1,0 +1,1 @@
+lar[94351]=`<b>συμ·πρίασθαι</b>, <i>sert d’inf. ao.2 à</i> συνωνέομαι acheter ensemble <i>ou</i> en même temps, LYS. <i>164, 33</i> ; ARSTT. <i>Pol. 1, 11, 11</i>.<p><b>Étym</b>. σ. πρίαμαι.`

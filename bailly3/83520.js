@@ -1,0 +1,1 @@
+lar[83520]=`<b>προ·αιώνιος, α, ον</b>, qui a précédé tous les temps, NAZ. <i>2, 424 ; 3, 332 Migne</i>.<p><b>Étym</b>. π. αἰών.`

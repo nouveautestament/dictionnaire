@@ -1,0 +1,1 @@
+lar[74011]=`<b>ὀψί·μοθος, ος, ον</b> <font color="purple">[ῐ]</font> qui vient tard au combat, NONN. <i>D. 28, 92 dout</i>.`

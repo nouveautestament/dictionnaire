@@ -1,0 +1,1 @@
+lar[34408]=`<b>ἐν·ευδιάω</b> (<i>seul. part. prés. épq</i>. ἐνευδιόων) planer dans un air pur, A.RH. <i>2, 935</i>.<p><b>Étym</b>. ἐν, εὐδία.`

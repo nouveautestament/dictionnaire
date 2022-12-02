@@ -1,0 +1,1 @@
+lar[96623]=`<b>συ·σπένδω</b>, faire ensemble des libations pour un sacrifice, DÉM. <i>400, 21</i> ; ESCHN. <i>61, 2</i> ; ATH. <i>149e</i>.`

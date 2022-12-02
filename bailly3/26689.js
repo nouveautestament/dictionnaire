@@ -1,0 +1,1 @@
+lar[26689]=`<b>δί·ξυλος, ος, ον</b> <font color="purple">[ῠ]</font> formé de deux sortes de bois <i>ou</i> de deux pièces de bois, ORIB. <i>133 Mai</i>.<p><b>Étym</b>. δίς, ξύλον.`

@@ -1,0 +1,1 @@
+lar[34321]=`<b>ἐν·ελίσσω</b>, <i>att</i>. <b>-ίττω</b>, enrouler, envelopper dans, <i>avec le dat</i>. NIC. <i>Al. 287, ou</i> εἰς <i>et l’acc</i>. PLAT. <i>Conv. 220b.</i><br><b><i>Moy.</i></b> s’envelopper, <i>avec</i> ἐν <i>et le dat</i>. HDT. <i>2, 95</i>.<p>➳ <i>Ion. et poét</i>. ἐνειλίσσω, HDT. <i>l. c</i>.`

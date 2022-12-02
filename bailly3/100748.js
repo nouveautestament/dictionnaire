@@ -1,0 +1,1 @@
+lar[100748]=`<b>τροφο·φορέω-ῶ</b>, porter de la nourriture, nourrir, SPT. <i>Deut. 1, 31 ; 2 Macc. 7, 27</i> ; NT. <i>Ap. 13, 18</i>.<p><b>Étym</b>. τροφή, -φορος <i>de</i> φέρω.`

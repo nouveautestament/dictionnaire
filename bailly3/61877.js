@@ -1,0 +1,1 @@
+lar[61877]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Lykios, <i>h</i>. XÉN. <i>An. 3, 3, 20</i>.<p><b>Étym</b>. λύκος.`

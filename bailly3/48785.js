@@ -1,0 +1,1 @@
+lar[48785]=`<b>ης (ἡ)</b> fille d’Ikarios, <i>càd</i>. Pénélope, MAX. <i>π. κατ. 90</i>.`

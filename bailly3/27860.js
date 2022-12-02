@@ -1,0 +1,1 @@
+lar[27860]=`<i>vb. de</i> δράω, SOPH. <i>O.R. 1443</i> ; EUR. <i>I.A. 1024</i> ; PLAT. <i>Leg. 644b ; plur</i>. δραστέα, SOPH. <i>Tr. 1204</i>.`

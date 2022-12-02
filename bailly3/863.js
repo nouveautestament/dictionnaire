@@ -1,0 +1,1 @@
+lar[863]=`<font color="purple">[μᾰ]</font> <i>adv</i>., sans lettres, sans instruction, ARR. <i>Epict. 2, 9, 10</i>.`

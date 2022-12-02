@@ -1,0 +1,1 @@
+lar[49181]=`<b>οῦς (ἡ)</b> <i>surn. de Dèmèter, déesse protectrice des gerbes,</i> SEMUS (ATH. <i>618d</i>, e).<p><b>Étym</b>. <i>v</i>. ἴουλος.`

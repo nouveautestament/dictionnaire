@@ -1,0 +1,1 @@
+lar[93993]=`<b>συμ·μιαιφονέω-ῶ</b>, égorger ensemble, Ps.-HÉRACLITE ÉPH. <i>Ep. 7, 3</i>.`

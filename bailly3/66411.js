@@ -1,0 +1,1 @@
+lar[66411]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de plomb, HPC. <i>Art. 827, 828</i> ; EUP. <i>2-1, 496 Meineke</i> ; ARSTT. <i>Nic. 5, 10</i>.<p><b>Étym</b>. μόλυβδος.`

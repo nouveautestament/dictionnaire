@@ -1,0 +1,1 @@
+lar[59728]=`<b>Λαμπρο·κλῆς, έους (ὁ)</b> Lamproklès :<br><b>      1</b> <i>fils de Socrate,</i> XÉN. <i>Mem. 2, 2</i>.<br><b>      2</b> <i>poète dithyrambique,</i> Ps.-PLUT. <i>Mus. 16, etc</i>.<p><b>Étym</b>. λαμπρός, κλέος.`

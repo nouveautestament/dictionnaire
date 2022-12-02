@@ -1,0 +1,1 @@
+lar[7248]=`<b>ἀνα·νήφω :<br>      1</b> redevenir à jeun, <i>d’où</i> recouvrer ses sens, ARSTT. <i>Mir. 178</i> ; ἐκ μέθης, DH. <i>4, 35,</i> au sortir de l’ivresse.<br><b>      2 <i>tr.</i></b> faire redevenir à jeun, remettre en son bon sens, LUC. <i>Bis acc. 17</i>.`

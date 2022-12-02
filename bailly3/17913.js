@@ -1,0 +1,1 @@
+lar[17913]=`<b>ἀφ·αύω</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> dessécher, consumer, brûler, AR. <i>Eq. 394</i>.<p><b>Étym</b>. ἀπό, αὕω.`

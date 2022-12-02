@@ -1,0 +1,1 @@
+lar[18103]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰλ]</font> indifférence pour le beau <i>ou</i> le bien, EUP. (ATH. <i>3a</i>).<p><b>Étym</b>. ἀφιλόκαλος.`

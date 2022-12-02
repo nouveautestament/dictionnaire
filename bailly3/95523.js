@@ -1,0 +1,1 @@
+lar[95523]=`<b>συν·εξεμέω-ῶ</b>, vomir <i>ou</i> rejeter en même temps, ARSTT. <i>H.A. 5, 15, 10</i>.`

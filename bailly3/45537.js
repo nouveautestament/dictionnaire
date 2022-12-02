@@ -1,0 +1,1 @@
+lar[45537]=`<b>ἡμι·πόνηρος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié méchant, ARSTT. <i>Nic. 7, 10, 3</i> ; POL. <i>5, 11, 34</i>.<p><b>Étym</b>. ἡμι-, πονηρός.`

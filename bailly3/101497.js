@@ -1,0 +1,1 @@
+lar[101497]=`<b>ὑδραγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> conduire des eaux, STR. <i>614</i>.<p><b>Étym</b>. ὑδραγωγός.`

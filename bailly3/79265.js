@@ -1,0 +1,1 @@
+lar[79265]=`<i>seul. cp</i>. -σκελέστερον, <i>adv</i>., d’une façon désagréable, avec peine, MÉN. <i>p. 440 Meineke</i>.<p><b>Étym</b>. περισκελής.`

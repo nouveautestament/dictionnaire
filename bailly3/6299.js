@@ -1,0 +1,1 @@
+lar[6299]=`<b>ἀμφι·περι·πλέγδην</b>, <i>adv</i>., en se repliant tout autour, ANTH. <i>5, 276</i>.<p><b>Étym</b>. ἀ. περί, πλέκω.`

@@ -1,0 +1,1 @@
+lar[67634]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> habitant de Napis, <i>brg de Scythie,</i> ORPH. <i>Arg. 753</i>.`

@@ -1,0 +1,1 @@
+lar[24659]=`<b>δια·θραύω</b>, briser en menus morceaux, PLAT. <i>Tim. 57a ;</i> ARSTT. <i>H.A. 9, 14, 3</i> ; TH. <i>C.P. 6, 9, 3</i>.`

@@ -1,0 +1,1 @@
+lar[94081]=`<b>συμ·παραμένω</b>, <i>anc. att</i>. <b>ξυμ·παραμένω :<br>      1</b> rester avec qqn pour l’assister, <i>dat</i>. MÉN. <i>4, 164 Meineke</i>.<br><b>      2</b> rester en même temps que, <i>dat</i>. THC. <i>6, 89 ; abs</i>. persister, HPC. <i>Prorrh. 100</i> ; THC. <i>6, 89</i>.`

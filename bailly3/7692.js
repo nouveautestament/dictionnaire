@@ -1,0 +1,1 @@
+lar[7692]=`<b>ἀνα·στηρίζω</b>, fixer solidement, planter, ANTH. <i>7, 321</i>.`

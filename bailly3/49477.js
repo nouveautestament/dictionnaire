@@ -1,0 +1,1 @@
+lar[49477]=`<b>ου (τὸ)</b> compresseur, <i>sorte d’instrument de chirurgie,</i> ANTYLL. <i>et</i> MÉGÈS (ORIB. <i>3, 629 et 637 B.-Dar</i>.).<p><b>Étym</b>. ἰπόω.`

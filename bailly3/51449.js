@@ -1,0 +1,1 @@
+lar[51449]=`<b>ῶν (οἱ)</b> <font color="purple">[πᾱ]</font> les Campaniens, <i>habitants de la Campanie,</i> PLUT. <i>Dio. 27, etc</i>.<p><b>Étym</b>. <i>cf</i>. Καμπανία.`

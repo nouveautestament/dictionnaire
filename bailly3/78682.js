@@ -1,0 +1,1 @@
+lar[78682]=`<b>περι·ΐπταμαι</b> <font color="darkgreen">(<i>f</i>. περιπτήσομαι, <i>ao.2</i> περιέπτην)</font> voler autour de, <i>avec</i> περί <i>et l’acc</i>. ARSTT. <i>H.A. 5, 9, 2</i> ; DC. <i>58, 5, etc</i>.`

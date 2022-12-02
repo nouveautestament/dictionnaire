@@ -1,0 +1,1 @@
+lar[61847]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> Lykas, <i>n. de chienne,</i> SIM. <i>Epigr. 185</i>.`

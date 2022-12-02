@@ -1,0 +1,1 @@
+lar[37397]=`<b>ής, ές</b> <font color="purple">[ρῑ]</font> qui pèse de tout son poids, accablant, ESCHL. <i>Eum. 965</i>.<p><b>Étym</b>. ἐπιβρίθω.`

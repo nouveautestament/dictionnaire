@@ -1,0 +1,1 @@
+lar[52671]=`<b>κατα·κύπτω :<br>      1</b> pencher la tête, se pencher, IL. <i>16, 611, etc.</i><br><b>      2</b> <i>particul</i>. pencher la tête pour regarder dans, LUC. <i>D. mort. 21, 1, etc. ; ou</i> tenir les yeux baissés <i>par honte ou par pudeur,</i> ANTH. <i>12, 8</i>.`

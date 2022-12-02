@@ -1,0 +1,1 @@
+lar[25662]=`<b>ατος (τὸ)</b> ouverture, fente, HIPPON. <i>fr. 68A</i>.<p><b>Étym</b>. διασφάττω.`

@@ -1,0 +1,1 @@
+lar[13121]=`<b>α, ον</b>, qui renvoie au loin, <i>càd</i>. qui écarte les fléaux, SPT. <i>Lev. 16, 8, 9</i>.<p><b>Étym</b>. ἀποπομπή.`

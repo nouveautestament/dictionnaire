@@ -1,0 +1,1 @@
+lar[86355]=`<b>προσ·πολιτεύομαι</b> <font color="purple">[ῑ]</font> diriger en outre les affaires de l’État, PHALAR. <i>Ep. 12</i>.`

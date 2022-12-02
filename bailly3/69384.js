@@ -1,0 +1,1 @@
+lar[69384]=`<b>ου (ἡ)</b> Xanthos (<i>auj</i>. Ksanthos, ruines près de Kınık) <i>v. sur le Xanthe de Lycie,</i> PLUT. <i>Brut. 30</i>.`

@@ -1,0 +1,1 @@
+lar[32646]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> pitié, compassion, CALL. <i>Del. 152</i>.<br><b>      2</b> don charitable, aumône, DL. <i>5, 17</i> ; SPT. <i>Tob. 4, 7 ; Sir. 3, 14 ; 12, 3</i> ; NT. <i>Matth. 6, 2</i> ; ἐλεημοσύνας πολλὰς ποιεῖν τινι, SPT. <i>Tob. 1, 3,</i> faire d’abondantes aumônes à qqn.<p><b>Étym</b>. ἐλεήμων.`

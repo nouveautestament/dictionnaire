@@ -1,0 +1,1 @@
+lar[109051]=`<b>ιος (ὁ)</b> Khromis, <i>h</i>. IL. <i>2, 858</i> ; THCR. <i>Idyl. 1, 24</i>.`

@@ -1,0 +1,1 @@
+lar[17288]=`<b>ων (οἱ)</b> <i>transcr. du lat</i>. Aurunci, les Auronces, <i>pple de Campanie,</i> DC.`

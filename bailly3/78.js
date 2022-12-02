@@ -1,0 +1,1 @@
+lar[78]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ρῑ]</font> territoire d’Abdère <i>en Thrace,</i> TH. <i>H.P. 3, 1, 5</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀβδηρίτης.`

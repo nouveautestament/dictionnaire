@@ -1,0 +1,1 @@
+lar[106319]=`<i>et</i> <b>φλαττοθραττοφλαττόθρατ</b>, <i>onomatopée comique pour imiter un bredouillement emphatique,</i> AR. <i>Ran. 1286</i>.`

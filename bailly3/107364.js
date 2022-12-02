@@ -1,0 +1,1 @@
+lar[107364]=`<b>ωνος (ὁ)</b> Phôkiôn (Phocion) <i>général et homme d’État athénien,</i> ESCHN. <i>2, 170, etc.</i> ; DÉM. <i>21, 164 Baiter-Sauppe</i> ; PLUT. <i>Tim. 6, Alex. 39, Phoc. 1, etc</i>.`

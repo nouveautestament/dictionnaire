@@ -1,0 +1,1 @@
+lar[68412]=`<i>adv</i>., comme un nuage, NONN. <i>D. 15, 1</i>.<p><b>Étym</b>. νεφέλη, -δον.`

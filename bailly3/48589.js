@@ -1,0 +1,1 @@
+lar[48589]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> lieu pour les sacrifices, <i>en Messénie,</i> PAUS. <i>4, 32, 1</i>.<p><b>Étym</b>. ἱερόθυτος.`

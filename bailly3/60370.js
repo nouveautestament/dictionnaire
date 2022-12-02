@@ -1,0 +1,1 @@
+lar[60370]=`<b>ιος (ὁ)</b> <i>mot éolien,</i> lièvre, VARR. <i>R.R. 3, 12, etc</i>.`

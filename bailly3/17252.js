@@ -1,0 +1,1 @@
+lar[17252]=`<b>αὐξι·θαλής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui favorise la végétation, ORPH. <i>H. 25, 3</i>.<p><b>Étym</b>. αὔξω, θάλλω.`

@@ -1,0 +1,1 @@
+lar[1658]=`<b>ἀει·θαλής, ής, ές</b> <font color="purple">[θᾰ]</font> toujours vert, ANTH. <i>7, 195, etc. ; fig</i>. toujours jeune, ORPH. <i>H. 60, 5</i> ; τὸ ἀ. τῶν φύλλων, DIOSC. <i>4, 88,</i> les feuilles toujours vertes.<p>➳ <i>Ion</i>. αἰειθ. ORPH. <i>l. c</i>.<p><b>Étym</b>. ἀ. θάλλω.`

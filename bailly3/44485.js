@@ -1,0 +1,1 @@
+lar[44485]=`<b>α (ὁ)</b> <font color="purple">[ῐᾱ]</font> Zeuxidas, <i>Spartiate,</i> THC. <i>5, 19 et 24</i>.<p><b>Étym</b>. <i>patr. de</i> Ζεῦξις.`

@@ -1,0 +1,1 @@
+lar[42771]=`<b>ιδος (ἡ)</b> épouse, SOPH. <i>Tr. 565</i> ; EUR. <i>I.A. 397, etc.</i> ; ANTH. <i>9, 355</i>.<p><b>Étym</b>. εὐνή.`

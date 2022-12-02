@@ -1,0 +1,1 @@
+lar[62461]=`<b>ῶν (αἱ)</b> <font color="purple">[ᾰ]</font> les Bacchantes, POL. (ATH. <i>198e</i>) ; ANTH. <i>7, 709</i>.`

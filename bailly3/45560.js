@@ -1,0 +1,1 @@
+lar[45560]=`<b>ἡμί·σπαθον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἡμισπάθιον ANTYLL. (ORIB. <i>3, 628 B.-Dar</i>.).`

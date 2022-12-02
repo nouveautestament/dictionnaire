@@ -1,0 +1,1 @@
+lar[19258]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> Basileios, <i>h</i>. ANTH. <i>8, 6, etc.</i><br><b>      2</b> Basile, <i>écrivain ecclés</i>.<p><b>Étym</b>. <i>Cf</i>. βασίλειος.`

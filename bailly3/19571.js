@@ -1,0 +1,1 @@
+lar[19571]=`<b>ων (οἱ)</b> <i>mot d’origine inconnue, p.-ê. n. de peuple, synon. de</i> « imbéciles, niais » AR. <i>Eq. 635</i>.`

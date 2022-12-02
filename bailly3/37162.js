@@ -1,0 +1,1 @@
+lar[37162]=`<b>ατος (τὸ) :<br>      1</b> question, consultation, HDT. <i>6, 67</i> ; THC. <i>3, 53 et 68</i>.<br><b>      2</b> promesse solennelle, stipulation, NT. <i>1Petr. 3, 21</i>.<p>➳ <i>Ion</i>. ἐπειρ. HDT. <i>l. c</i>.`

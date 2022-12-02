@@ -1,0 +1,1 @@
+lar[3645]=`<b>ας (ἡ)</b> <font color="purple">[ᾱσ]</font> intempérie, <i>p. opp. à</i> εὐκρασία, TH. <i>C.P. 3, 2, 5</i> ; DC. <i>77, 22</i>.<p>➳ <i>Ion</i>. ἀκρησίη, HPC. <i>V. med. 10</i>.<p><b>Étym</b>. ἄκρατος.`

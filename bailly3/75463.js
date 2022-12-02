@@ -1,0 +1,1 @@
+lar[75463]=`<b>ου</b> <font color="purple">[ᾰφ]</font> <i>adj. f. (s.e</i>. γραμμή) <i>signe (d’ord. ainsi figuré —) pour marquer les diverses parties du chœur ou de la parabase qui se correspondent dans la tragédie et dans l’ancienne comédie,</i> HÉPH. <i>Poem. 15, 2, 7, 8</i> ; SCH.-AR. <i>Nub. 518, etc</i>.<p><b>Étym</b>. παραγράφω.`

@@ -1,0 +1,1 @@
+lar[93530]=`<b>συγ·κρητισμός, οῦ (ὁ)</b> union des Crétois, <i>d’où</i> coalition de deux adversaires contre un troisième, PLUT. <i>M. 490b</i>.<p><b>Étym</b>. σ. Κρητίζω.`

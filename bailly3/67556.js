@@ -1,0 +1,1 @@
+lar[67556]=`<b>ῆος (ὁ)</b> Moïse, <i>législateur des Juifs,</i> ANTH. <i>1, 60, etc</i>.<p>➳ <i>Voc</i>. Μωσῆ, ANTH. <i>1, 61 ; acc</i>. -ῆν, ANTH. <i>1, 59</i>.`

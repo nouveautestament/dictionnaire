@@ -1,0 +1,1 @@
+lar[102727]=`<b>εως (ἡ)</b> vestibule, SYMM. <i>Ezech. 40, 21</i>.<p><b>Étym</b>. ὑπεροχέω.`

@@ -1,0 +1,1 @@
+lar[74257]=`<b>ή, όν</b>, qu’on peut apprendre, PLAT. <i>Prot. 324b</i>.<p><b>Étym</b>. <i>vb. de</i> παιδεύω.`

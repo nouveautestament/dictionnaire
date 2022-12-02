@@ -1,0 +1,1 @@
+lar[38687]=`<b>ἐπι·πίστωσις, εως (ἡ)</b> confirmation de la πίστωσις, <i>t. de rhét</i>. PLAT. <i>Phædr. 266e</i>.`

@@ -1,0 +1,1 @@
+lar[103527]=`<b>ὑπο·μελανίζω</b> <font color="purple">[ᾰ]</font> <i>c</i>. ὑπομελαίνω, ARÉT. <i>Caus. m. acut. 1, 8 ; Caus. m. diut. 1, 10</i> ; GEOP. <i>2, 6, 38</i>.`

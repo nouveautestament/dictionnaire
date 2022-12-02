@@ -1,0 +1,1 @@
+lar[105870]=`<b>Φιλο·κτήτης, ου (ὁ)</b> <font color="purple">[ῐ]</font> Philoktètès (Philoctète) <i>compagnon d’Hèraklès,</i> IL. <i>2, 718, 725</i> ; OD. <i>8, 219, etc. ; titre d’une tragédie de Sophocle</i>.<p>➳ <i>Voc</i>. Φιλοκτῆτα, SOPH. <i>Ph. 432 ; gén. épq</i>. -αο <font color="purple">[ᾱ]</font> IL. <i>2, 725</i> ; PD. <i>P. 1, 50, etc</i>.<p><b>Étym</b>. φ. κτάομαι.`

@@ -1,0 +1,1 @@
+lar[51727]=`<b>ῆς (ἡ)</b> <i>autre n. de la plante</i> καρδαμίς <i>ou</i> ἰβηρίς, DIOSC. <i>1, 188</i>.`

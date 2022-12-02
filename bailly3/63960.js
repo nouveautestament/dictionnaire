@@ -1,0 +1,1 @@
+lar[63960]=`<b>ος, ον</b>, aux ailes sonores <i>ou</i> harmonieuses, <i>ép. de la cigale, ANTH</i>. 7.194.<p><b>Étym</b>. μέλος, πτερόν.`

@@ -1,0 +1,1 @@
+lar[65340]=`<i>vb. de</i> μηκύνω, JAMBL. <i>Nicom. ar. p. 33c</i>.`

@@ -1,0 +1,1 @@
+lar[979]=`<b>ἀγρο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien des champs, A. PL. <i>243</i>.`

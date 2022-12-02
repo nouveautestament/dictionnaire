@@ -1,0 +1,1 @@
+lar[71208]=`<b>ου (ὁ)</b> Oloros :<br><b>      1</b> <i>roi thrace,</i> HDT. <i>6, 39 et 41</i>.<br><b>      2</b> <i>père de Thucydide,</i> THC. <i>4, 104</i>.`

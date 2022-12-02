@@ -1,0 +1,1 @@
+lar[4583]=`<b>ἀλιτό·ξενος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui viole l’hospitalité, PD. <i>O. 11, 6</i>.<p><b>Étym</b>. ἀλιταίνω, ξένος.`

@@ -1,0 +1,1 @@
+lar[78939]=`<b>ής, ές</b> <font color="purple">[ῡ]</font> qui mugit <i>ou</i> gronde alentour, ORPH. <i>Arg. 311</i>.<p><b>Étym</b>. περιμυκάομαι.`

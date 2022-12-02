@@ -1,0 +1,1 @@
+lar[92540]=`<b>*στηλουργός</b>, <i>seul. dor</i>. <b>σταλουργός, ός, όν</b> <font color="purple">[ᾱ]</font> où l’on a élevé une stèle, ANTH. <i>7, 423</i>.<p><b>Étym</b>. στήλη, ἔργον.`

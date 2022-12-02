@@ -1,0 +1,1 @@
+lar[34903]=`<b>ἐν·ρέω</b> (<i>seul. sbj. ao.2</i> ἐνρυῇ) couler dans, <i>fig. dat</i>. NYSS. <i>1, 412</i>.`

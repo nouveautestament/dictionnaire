@@ -1,0 +1,1 @@
+lar[20300]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> petite grappe de raisin, ALEX. (ATH. <i>516e</i>) ; LGS <i>2, 13</i>.<br><b>      2</b> <i>p. anal</i>. pendant d’oreille en forme de grappe de raisin, COM. (POLL. <i>5, 97).</i><p><b>Étym</b>. <i>dim. de</i> βότρυς.`

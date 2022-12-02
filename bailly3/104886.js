@@ -1,0 +1,1 @@
+lar[104886]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> ridé, GAL. <i>Lex. Hipp. 19, 150 v°</i> φαρκιδώδης.<p><b>Étym</b>. φαρκίς, -ωδης.`

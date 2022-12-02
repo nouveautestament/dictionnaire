@@ -1,0 +1,1 @@
+lar[5894]=`<b>ατος (ὁ)</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> action d’arracher (les cheveux) SOPH. <i>Aj. 633</i>.<br><b>      2</b> déchirure (faite par des ongles) EUR. <i>Andr. 827</i>.<p><b>Étym</b>. ἀμύσσω.`

@@ -1,0 +1,1 @@
+lar[13472]=`<b>ας (ἡ)</b> qui détourne du mal (Aphrodite) PAUS. <i>9, 16, 2</i>.<p><b>Étym</b>. *αποστρόφος ; <i>cf</i>. ἀπόστροφος.`

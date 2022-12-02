@@ -1,0 +1,1 @@
+lar[76324]=`<b>παρα·τεχνολογέω-ῶ</b> s’écarter de son sujet, faire une digression, D. PHAL. <i>§ 178</i>.`

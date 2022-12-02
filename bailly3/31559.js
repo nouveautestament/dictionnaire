@@ -1,0 +1,1 @@
+lar[31559]=`<b>ἐκ·λαχαίνω</b> (<i>seul. impf</i>. ἐξελάχαινον) <font color="purple">[ᾰ]</font> creuser, fouir, A.RH. <i>1, 374 ; 4, 1532</i> ; TRIPHIOD. <i>208</i>.`

@@ -1,0 +1,1 @@
+lar[91917]=`<b>ος, ον</b>, qui lance des étincelles, CHRYS.<p><b>Étym</b>. σπινθήρ, βάλλω.`

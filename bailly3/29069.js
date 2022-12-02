@@ -1,0 +1,1 @@
+lar[29069]=`<b>δυωκαιεικοσί·πηχυς, υς, υ</b> <font color="purple">[ῠῐ]</font> de 22 coudées, IL. <i>15, 678</i>.<p><b>Étym</b>. <i>épq. c</i>. δυοκαι-.`

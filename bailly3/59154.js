@@ -1,0 +1,1 @@
+lar[59154]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> Kôlôtis, <i>ép. d’Aphrodite,</i> LYC. <i>867</i>.<p><b>Étym</b>. <i>cf</i>. Κωλιάς.`

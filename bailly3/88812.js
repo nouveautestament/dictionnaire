@@ -1,0 +1,1 @@
+lar[88812]=`<b>ας (ἡ)</b> = <i>lat</i>. Rŭtĭlia, <i>n. de f. rom</i>. LUC. <i>Alex. 39</i>.`

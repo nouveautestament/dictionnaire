@@ -1,0 +1,1 @@
+lar[28313]=`<b>δυσ·διερεύνητος, ος, ον</b>, difficile à rechercher <i>ou</i> à explorer, PLAT. <i>Rsp. 432c ;</i> DC. <i>51, 26</i> ; THÉM. <i>254d</i>.<p><b>Étym</b>. δ. διερευνάω.`

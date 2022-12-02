@@ -1,0 +1,1 @@
+lar[29725]=`<b>ἐγ·κορύπτω</b> (<i>fut. moy</i>. ἐγκορύψεται) lancer un coup de tête à, <i>dat. en parl. d’un bélier,</i> LYC. <i>558</i>.<p><b>Étym</b>. ἐν, κ.`

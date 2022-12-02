@@ -1,0 +1,1 @@
+lar[5385]=`<b>ωνος (ὁ)</b> toute saillie arrondie :<br><b>      1</b> sommet arrondi d’une colline, ESCHL. <i>fr. 100</i>.<br><b>      2</b> bord arrondi d’un vase, d’une coupe, PLUT. <i>Lyc. 9</i> ; CRITIAS (ATH. <i>483b</i>).<br><b>      3</b> ambon, jubé, <i>titre d’un poème de</i> P. SIL. <i>Ecphr. amb. tit</i>.<p><b>Étym</b>. <i>cf. lat</i>. umbo.`

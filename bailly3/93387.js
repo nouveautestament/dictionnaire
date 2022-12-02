@@ -1,0 +1,1 @@
+lar[93387]=`<b>συγ·καταφθείρω</b>, détruire <i>ou</i> perdre ensemble, POL. <i>9, 26, 6</i>.`

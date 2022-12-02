@@ -1,0 +1,1 @@
+lar[2796]=`<b>αἰπύ·λοφος, ος, ον</b> <font color="purple">[ῠ]</font> à la cime élevée, NONN. <i>D. 2, 379</i>.<p><b>Étym</b>. αἰπ. λόφος.`

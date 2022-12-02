@@ -1,0 +1,1 @@
+lar[82065]=`<b>πολυ·λίμενος, ος, ον</b> <font color="purple">[ῠῐ]</font> aux ports nombreux, ARTÉM. (EUST. <i>287, 34).</i><p><b>Étym</b>. π. λιμήν.`

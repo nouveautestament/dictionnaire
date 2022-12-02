@@ -1,0 +1,1 @@
+lar[52656]=`<b>οῦ (ὁ)</b> l’action de peigner avec soin, HÉRODOTUS (ORIB. <i>305).</i><p><b>Étym</b>. κατακτενίζω.`

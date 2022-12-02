@@ -1,0 +1,1 @@
+lar[82759]=`<b>ου (τὸ)</b> ressources pour un voyage <i>ou</i> moyen de transport (char, vaisseau, <i>etc</i>.) PLAT. <i>Leg. 678d, Tim. 44e, etc</i>.<p><b>Étym</b>. πορεύω.`

@@ -1,0 +1,1 @@
+lar[77536]=`<b>έως (ὁ)</b> habitant d’une plaine, DL. <i>1, 58</i>.`

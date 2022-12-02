@@ -1,0 +1,1 @@
+lar[47194]=`<b>θηλύ·μορφος, ος, ον</b> <font color="purple">[ῠ]</font> aux formes féminines, EUR. <i>Bacch. 353</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>Physiogn. 5, 10</i>.<p><b>Étym</b>. θ. μορφή.`

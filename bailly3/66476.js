@@ -1,0 +1,1 @@
+lar[66476]=`<b>ή, όν</b>, solitaire, monastique, BAS. <i>1, 192, etc.</i> ; NAZ. <i>3, 1052</i> ; NYSS. <i>3, 1013, etc. Migne</i>.<p><b>Étym</b>. μοναστής.`

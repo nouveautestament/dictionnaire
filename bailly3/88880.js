@@ -1,0 +1,1 @@
+lar[88880]=`<b>ης (ἡ)</b> oiseau des Indes gros comme une colombe, CTÉS. <i>Pers. 61</i>.`

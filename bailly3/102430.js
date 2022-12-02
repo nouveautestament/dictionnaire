@@ -1,0 +1,1 @@
+lar[102430]=`<b>ὑπερ·εκτρέπομαι</b>, avoir plus que de l’aversion pour, <i>acc</i>. ARÉT. <i>Caus. m. diut. 1, 5</i>.`

@@ -1,0 +1,1 @@
+lar[17474]=`<b>αὐτο·επιστήμη, ης (ἡ)</b> la science en soi, ARSTT. <i>Metaph. 9, 8</i>.`

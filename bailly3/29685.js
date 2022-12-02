@@ -1,0 +1,1 @@
+lar[29685]=`<b>ἐγ·κλυδάζομαι</b> (<i>prés</i>. -εται) <font color="purple">[ῠ]</font> flotter intérieurement, HPC. <i>451, 49</i>.<p><b>Étym</b>. ἐν, κλ.`

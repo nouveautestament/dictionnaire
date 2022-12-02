@@ -1,0 +1,1 @@
+lar[79752]=`<b>(ὁ)</b> = Perpenna, <i>n. d’h. rom</i>. PLUT. <i>Sert. 15, etc</i>.`

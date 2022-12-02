@@ -1,0 +1,1 @@
+lar[8214]=`<b>*ἀνεῖσα</b> (<i>seul. opt</i>. ἀνέσαιμι, IL. <i>14, 209, et part. nom. masc. pl</i>. ἀνέσαντες, IL. <i>13, 657) ao.1 d’un verbe inus</i>. faire monter.<p><b>Étym</b>. <i>qqf. rattaché à</i> ἀνίημι, <i>sel. d’autres à</i> *ἀνέζω, faire asseoir, <i>de</i> ἀνά, ἕζω.`

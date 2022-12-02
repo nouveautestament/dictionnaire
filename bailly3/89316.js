@@ -1,0 +1,1 @@
+lar[89316]=`<b>ας (ἡ)</b> vase pour boire, PHILÉM. (<i>Com. fr. 4, 30</i>).`

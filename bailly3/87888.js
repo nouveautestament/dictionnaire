@@ -1,0 +1,1 @@
+lar[87888]=`<b>η, ον</b> <font color="purple">[ῡῐ]</font> de blé, de froment, EUR. <i>fr. 374 Nauck</i> ; XÉN. <i>An. 4, 5, 31</i> ; ARSTT. <i>Probl. 1, 37, 1</i> ; TH. <i>H.P. 8, 4, 1</i>.<p><b>Étym</b>. πυρός.`

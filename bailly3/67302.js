@@ -1,0 +1,1 @@
+lar[67302]=`<b>ώεσσα, ῶεν</b>, plein de verrues, M. SID. <i>97</i>.<p><b>Étym</b>. μύρμηξ.`

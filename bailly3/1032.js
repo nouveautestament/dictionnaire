@@ -1,0 +1,1 @@
+lar[1032]=`<b>ου (ὁ)</b> Ankhasios, <i>h</i>. ANTH. <i>App. 114</i>.`

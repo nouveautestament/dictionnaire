@@ -1,0 +1,1 @@
+lar[104352]=`<b>ὕφ·αμμος, ος, ον</b>, dont le fond est du sable, sablonneux, TH. <i>H.P. 1, 6, 12 ; C.P. 3, 6, 3</i>.<p><b>Étym</b>. ὑ. ἅμμος.`

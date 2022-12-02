@@ -1,0 +1,1 @@
+lar[2831]=`<b>ωνος (ὁ)</b> émerillon, <i>petit oiseau de proie,</i> ARSTT. <i>H.A. 9, 36, 1</i>.`

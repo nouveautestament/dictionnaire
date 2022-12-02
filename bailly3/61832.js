@@ -1,0 +1,1 @@
+lar[61832]=`<b>ου (τὸ)</b> le temple d’Apollon du Lycée, PLUT. <i>M. 300a</i>.<p><b>Étym</b>. <i>v</i>. Λύκαιος.`

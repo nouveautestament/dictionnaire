@@ -1,0 +1,1 @@
+lar[85690]=`<b>προσ·επικρούω</b>, lancer sur <i>ou</i> contre, <i>rég. ind. avec</i> πρός <i>et l’acc</i>. DC. <i>36, 32</i>.`

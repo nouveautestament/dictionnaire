@@ -1,0 +1,1 @@
+lar[29480]=`<b>ων (τὰ)</b> <font color="purple">[κᾰ]</font> <i>mot com. p. opp. à</i> ἀνακαλυπτήρια, présents à une fille laide pour qu’elle ne se dévoile pas le visage, PHILSTR. <i>611</i>.<p><b>Étym</b>. ἐγκαλύπτω.`

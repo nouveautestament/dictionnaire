@@ -1,0 +1,1 @@
+lar[19106]=`<b>ου (ὁ)</b> <i>ou</i> <b>βᾶρον, ου (τὸ)</b> sorte de plante aromatique, MNÉSIM. <i>fr. 4, 62</i>.`

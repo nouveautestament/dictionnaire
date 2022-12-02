@@ -1,0 +1,1 @@
+lar[10529]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> résistance, <i>particul</i>. résistance de sons qui ne s’harmonisent pas, DH. <i>6, 867, 1077 Reiske ; p. suite,</i> fermeté, dureté, SEXT. <i>P. 3, 39 ; au plur</i>. PLUT. <i>M. 599d.</i><br><b>      2</b> répercussion, HERM. (STOB. <i>Ecl. 1, 400).</i><p><b>Étym</b>. ἀντίτυπος.`

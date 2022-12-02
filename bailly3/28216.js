@@ -1,0 +1,1 @@
+lar[28216]=`<b>δυσ·αποκατάστατος, ος, ον</b> <font color="purple">[ῠᾰκᾰστᾰ]</font> difficile à rétablir, M. ANT. <i>11, 8</i> ; GAL. <i>2, 397</i>.<p><b>Étym</b>. δ. ἀποκαθίστημι.`

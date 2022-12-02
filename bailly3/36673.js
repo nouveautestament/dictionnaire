@@ -1,0 +1,1 @@
+lar[36673]=`<b>ἐπ·ανδιπλοΐζω</b>, <i>par contr</i>. -οίζω, redoubler, ESCHL. <i>Eum. 1014 conj</i>.`

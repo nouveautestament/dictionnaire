@@ -1,0 +1,1 @@
+lar[1328]=`<i>adv</i>., sans interruption, POL. <i>9, 3, 8</i> ; SPT. <i>1Macc. 12, 11</i> ; NT. <i>Rom. 1, 9</i>.`

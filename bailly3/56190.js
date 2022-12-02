@@ -1,0 +1,1 @@
+lar[56190]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> rocheux, escarpé, IL. <i>2, 729</i>.<p><b>Étym</b>. κλῶμαξ.`

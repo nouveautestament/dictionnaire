@@ -1,0 +1,1 @@
+lar[23899]=`<b>δεξιο·λάβος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>au pl</i>. gardes <i>ou</i> satellites d’un prince, NT. <i>Ap. 23, 23 (var</i>. δεξιοβόλος).<p><b>Étym</b>. δεξιός, λαμβάνω.`

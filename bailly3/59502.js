@@ -1,0 +1,1 @@
+lar[59502]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῠῐ]</font> tithymale <i>ou</i> épurge, <i>plante,</i> DIOSC. <i>4, 167</i> ; GAL. <i>13, 201, etc</i>.<p><b>Étym</b>. <i>cf</i>. λάθυρον.`

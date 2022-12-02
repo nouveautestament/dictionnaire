@@ -1,0 +1,1 @@
+lar[103753]=`<b>ὑπό·πυκνος, ος, ον</b>, assez épais <i>ou</i> assez fréquent, HPC. <i>1028c ; adv</i>., ὑπόπυκνον, assez fréquemment, SUÉT. <i>Ner. 20</i>.<p><b>Étym</b>. ὑ. πυκνός.`

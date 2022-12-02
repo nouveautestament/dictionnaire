@@ -1,0 +1,1 @@
+lar[25972]=`<b>δι·βαφής, ής, ές</b> <font color="purple">[ῐᾰ]</font> teint deux fois, SPT. <i>Ex. 25, 4</i>.<p><b>Étym</b>. <i>cf</i>. δίβαφος.`

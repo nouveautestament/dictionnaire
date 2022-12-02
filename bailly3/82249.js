@@ -1,0 +1,1 @@
+lar[82249]=`<b>οῦ (ὁ)</b> <font color="purple">[λᾰ]</font> <i>c</i>. πολλαπλασιασμός, PLUT. <i>M. 1020c ;</i> SEXT. <i>M. 10, 217</i>.`

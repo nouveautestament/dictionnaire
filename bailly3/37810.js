@@ -1,0 +1,1 @@
+lar[37810]=`<b>ἐπιθηματόω-ῶ</b> <font color="purple">[ᾰ]</font> garnir d’un couvercle, ANTICLID. (ATH. <i>473c</i>).<p><b>Étym</b>. ἐπίθημα.`

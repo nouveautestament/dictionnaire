@@ -1,0 +1,1 @@
+lar[66906]=`<i>adv.</i> :<br><b>      1</b> selon les règles de la musique, PLAT. <i>1 Alc. 108d ;</i> PLUT. <i>M. 405a.</i><br><b>      2</b> avec art, avec goût, PLAT. <i>Prot. 333a, Rsp. 403a, etc</i>.<p>•<i> Cp</i>. -ωτέρως, ARSTT. <i>Rhet. 2, 22 ; • Sup</i>. -ώτατα, AR. <i>Ran. 873</i>.`

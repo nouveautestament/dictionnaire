@@ -1,0 +1,1 @@
+lar[14340]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> forgeur (<i>litt</i>. monnayeur) de paroles, CRAT. <i>fr. 224 Mein</i>.<p><b>Étym</b>. ἀργυροκόπος.`

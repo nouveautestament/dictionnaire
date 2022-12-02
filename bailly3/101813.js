@@ -1,0 +1,1 @@
+lar[101813]=`<i>vb. de</i> ὑμνέω, PLAT. <i>Epin. 983e ;</i> LUC. <i>Demon. 19</i>.`

@@ -1,0 +1,1 @@
+lar[107605]=`<b>χαλκεό·στερνος, ος, ον</b>, à la poitrine d’airain, <i>ép. d’Arès,</i> BACCHYL. <i>5, 34</i>.<p><b>Étym</b>. χ. στέρνον.`

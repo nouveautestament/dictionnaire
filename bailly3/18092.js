@@ -1,0 +1,1 @@
+lar[18092]=`<b>ἀφ·ιλάσκομαι</b> <font color="darkgreen">(<i>ao</i>. ἀφιλασάμην)</font> apaiser, calmer, PLAT. <i>Leg. 873a</i>.<p><b>Étym</b>. ἀπό, ἱλ.`

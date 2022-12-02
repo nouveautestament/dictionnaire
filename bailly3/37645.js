@@ -1,0 +1,1 @@
+lar[37645]=`<b>ἐπι·δίτριτος, ος, ον</b> <font color="purple">[ρῐ]</font> <i>c</i>. ἐπιδιμερής, NICOM. <i>Arithm. p. 101, 1</i>.`

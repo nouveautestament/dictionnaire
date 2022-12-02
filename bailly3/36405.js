@@ -1,0 +1,1 @@
+lar[36405]=`<font color="purple">[ᾱ]</font> <i>adv</i>., avec impétuosité, OPP. <i>H. 2, 616</i>.<p><b>Étym</b>. ἐπαΐσσω.`

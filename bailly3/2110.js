@@ -1,0 +1,1 @@
+lar[2110]=`<b>ἄ·θρυπτος, ος, ον :<br>      1</b> non brisé, impérissable, PLUT. <i>M. 1055a.</i><br><b>      2</b> qui ne se laisse pas amollir <i>ou</i> fléchir, austère, PLUT. <i>Per. 5</i>.<p><b>Étym</b>. ἀ, θρύπτω.`

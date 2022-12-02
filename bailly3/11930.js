@@ -1,0 +1,1 @@
+lar[11930]=`<b>ατος (τὸ)</b> <i>c</i>. ἀπάρτημα, NYSS. <i>1, 320c Migne</i>.<p><b>Étym</b>. <i>pour la format. du mot cf</i>. ἀπηγόρημα.`

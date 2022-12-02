@@ -1,0 +1,1 @@
+lar[99277]=`<b>α, ον</b>, <i>vb. de</i> τιμωρέω, DÉM. <i>561, 2 ; au neutre,</i> HDT. <i>7, 168</i> ; HPC. <i>Acut. 390</i> ; PLAT. <i>Leg. 867c, etc. ; au plur. neutre,</i> THC. <i>1, 86</i>.`

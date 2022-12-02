@@ -1,0 +1,1 @@
+lar[35968]=`<b>ἑξ·ήρης, ης, ες</b>, à six rangs de rames, PLUT. <i>Cato mi. 39</i> ; ἡ ἑξ. (<i>s.-e</i>. ναῦς) POL. <i>1, 26, 11 ; 16, 7, 1, etc</i>. navire à six rangs de rames.<p><b>Étym</b>. ἕξ, ἐρέσσω.`

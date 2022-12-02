@@ -1,0 +1,1 @@
+lar[65555]=`<b>μητρο·κτόνος, ος, ον :<br>      1</b> qui tue sa mère ; ὁ μ. ESCHL. <i>Eum. 102, etc.</i> ; EUR. <i>El. 975, etc.</i> ; PLAT. <i>Leg. 869b</i>, meurtrier de sa mère, parricide.<br><b>      2</b> relatif au meurtre d’une mère, ESCHL. <i>Eum. 281, etc.</i> ; EUR. <i>I.T. 1200, Or. 1649</i>.<p><b>Étym</b>. μήτηρ, κτείνω.`

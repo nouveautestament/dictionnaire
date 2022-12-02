@@ -1,0 +1,1 @@
+lar[57029]=`<b>ης (ἡ)</b> <font color="purple">[δᾱ]</font> la déesse de la danse κόρδαξ, <i>ép. d’Artémis,</i> PAUS. <i>6, 22, 1</i>.<p><b>Étym</b>. κόρδαξ.`

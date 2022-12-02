@@ -1,0 +1,1 @@
+lar[109387]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> vase de terre, marmite, HDT. <i>5, 88</i> ; PLAT. COM. (ATH. <i>279c</i>) ; ATH. <i>502b</i>.<p><b>Étym</b>. χύτρα.`

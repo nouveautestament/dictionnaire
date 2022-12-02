@@ -1,0 +1,1 @@
+lar[14649]=`<b>ος, ον</b> <font color="purple">[ᾰρι]</font> d’Aristarque, STR. <i>103</i> ; ATH. <i>113d</i>.<p><b>Étym</b>. Ἀρίσταρχος.`

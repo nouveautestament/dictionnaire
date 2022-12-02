@@ -1,0 +1,1 @@
+lar[91699]=`<font color="purple">[ᾰ]</font> remuer avec la spatule, NICOL. MYREPS. <i>9, 71</i>.<p><b>Étym</b>. σπάθη.`

@@ -1,0 +1,1 @@
+lar[100736]=`<b>ατος (τὸ)</b> nourriture, aliment, HPC. <i>887f</i>.<p><b>Étym</b>. τρέφω.`

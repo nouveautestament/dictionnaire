@@ -1,0 +1,1 @@
+lar[83018]=`<font color="purple">[ῐ]</font> <i>adv</i>., duquel des deux côtés ? XÉN. <i>Mem. 4, 2, 14 et 17</i> ; PLAT. <i>Phædr. 263b</i>.<p><b>Étym</b>. πότερος, -θι.`

@@ -1,0 +1,1 @@
+lar[100078]=`<b>τριακοντά·μηυος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> de trente mois, ARSTT. <i>H.A. 5, 14, 16</i>.<p><b>Étym</b>. τρ. μήν.`

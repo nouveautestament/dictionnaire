@@ -1,0 +1,1 @@
+lar[4654]=`<b>Ἀλκι·μένης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Alkiménès, <i>h</i>. XÉN. <i>Hell. 4, 4, 7</i> ; ARSTT. <i>Mir. 96, etc</i>.<p>➳ <i>Gén. poét</i>. -εος, ANTH. <i>7, 656 ; acc</i>. -ην, ANTH. <i>11, 382</i>.<p><b>Étym</b>. ἀλκή, μὲνος.`

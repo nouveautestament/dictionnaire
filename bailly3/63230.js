@@ -1,0 +1,1 @@
+lar[63230]=`<b>ου (ὁ)</b> Makhanidas, <i>tyran de Sparte,</i> PLUT. <i>Phil. 10, 12</i>.`

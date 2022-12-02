@@ -1,0 +1,1 @@
+lar[107145]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> <i>c</i>. φυλλάς, GEOP. <i>7, 18, 1</i>.<br><b>      2</b> sorte de plante, ATH. <i>66c.</i><br><b>      3</b> hachis d’herbes, HÉRACLIDE TAR. (ATH. <i>120d</i>).<p><b>Étym</b>. φύλλον.`

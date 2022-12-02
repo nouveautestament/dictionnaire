@@ -1,0 +1,1 @@
+lar[1331]=`<b>ας (ἡ)</b> continuité, PHILOD.`

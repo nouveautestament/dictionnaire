@@ -1,0 +1,1 @@
+lar[56386]=`<b>ου (ὁ)</b> le quadrans <i>ou</i> quart de l’as, NT. <i>Marc. 12, 42</i>.<p><b>Étym</b>. <i>lat</i>. quadrans, quadrantis.`

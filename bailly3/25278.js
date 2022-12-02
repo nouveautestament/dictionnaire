@@ -1,0 +1,1 @@
+lar[25278]=`<b>δια·πλανάω-ῶ</b> <font color="purple">[ᾰν]</font> égarer complètement, PLUT. <i>M. 917e ;</i> ARR. <i>Epict. 1, 20, 10</i>.<br><b><i>Moy.</i></b> s’égarer complètement, DS. <i>17, 116</i>.<p><b>Étym</b>. <i>ao. part. de forme pass</i>. -πλανηθείς.`

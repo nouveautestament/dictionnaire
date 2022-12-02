@@ -1,0 +1,1 @@
+lar[68479]=`<i>préf. négatif</i> (<i>v</i>. νηκερδής, νηλεής, νήπιος, <i>etc</i>.).<p><b>Étym</b>. <i>cf. sscr</i>. na.`

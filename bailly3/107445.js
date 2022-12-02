@@ -1,0 +1,1 @@
+lar[107445]=`<i>élis. poét. pour</i> κε <i>dev. une aspirée</i>.`

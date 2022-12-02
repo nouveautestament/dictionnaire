@@ -1,0 +1,1 @@
+lar[71383]=`être uni, d’accord avec, HÉS. <i>Th. 39</i>.<p><b>Étym</b>. ὁμήρης.`

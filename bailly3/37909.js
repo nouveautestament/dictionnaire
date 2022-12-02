@@ -1,0 +1,1 @@
+lar[37909]=`<b>ἐπι·καρπίζομαι</b>, faire fructifier outre mesure, <i>càd</i>. épuiser une terre, TH. <i>H.P. 8, 9, 3</i>.`

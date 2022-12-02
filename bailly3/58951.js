@@ -1,0 +1,1 @@
+lar[58951]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> domination, autorité, NYSS. <i>1, 148b</i>.<p><b>Étym</b>. κυριεύω.`

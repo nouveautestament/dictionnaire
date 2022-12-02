@@ -1,0 +1,1 @@
+lar[31728]=`<b>ας (ἡ)</b> démence, folie, ARSTT. <i>Somn. 2, 8 ; 3, 13</i>.<p><b>Étym</b>. ἔκνοος.`

@@ -1,0 +1,1 @@
+lar[63990]=`<b>ας (ἡ) :<br>      1</b> frêne, IL. <i>13, 178 ; 16, 767</i> ; HÉS. <i>O. 145, etc.</i><br><b>      2</b> lance en bois de frêne, IL. <i>22, 225, etc</i>.<p>➳ <i>Ion</i>. -ίη, HOM. <i>ll. cc. ; gén. plur. dor</i>. μελιᾶν, HÉS. <i>l. c</i>.`

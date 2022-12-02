@@ -1,0 +1,1 @@
+lar[94732]=`<b>συν·αναμιμνῄσκω</b>, rappeler en même temps : τινί τινος, PLUT. <i>M. 397e</i>, qqe ch. au souvenir de qqn ; <i>pass</i>. se rappeler avec, <i>dat</i>. PLAT. <i>Leg. 897e</i>.`

@@ -1,0 +1,1 @@
+lar[20132]=`<b>ου (ὁ)</b> habitant de Bolbitinè, ANTH. <i>6, 58, tit</i>.<p><b>Étym</b>. <i>v</i>. βολβιτίνη.`

@@ -1,0 +1,1 @@
+lar[62628]=`<b>μαλακό·γειος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> dont le sol est mou, STR. <i>52</i>.<p><b>Étym</b>. μαλακός, γῆ.`

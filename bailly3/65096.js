@@ -1,0 +1,1 @@
+lar[65096]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> passage d’une âme d’un corps dans un autre, DS. <i>Exc. Vat. 31, 14</i> ; PORPH. <i>Abst. 350</i>.<p><b>Étym</b>. *μετεμψυχόω, <i>de</i> μ. ἐμψυχόω.`

@@ -1,0 +1,1 @@
+lar[27593]=`<b>δορι·λύμαντος, ος, ον</b> <font color="purple">[ῐῡ]</font> dévasté par les lances, ESCHL. <i>fr. 128</i>.<p><b>Étym</b>. δόρυ, λυμαίνω.`

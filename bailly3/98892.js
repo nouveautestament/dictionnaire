@@ -1,0 +1,1 @@
+lar[98892]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. ταγηνιστός, DIPH. SIN. (ATH. <i>90e</i>).`

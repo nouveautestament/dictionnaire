@@ -1,0 +1,1 @@
+lar[33116]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> action de se jeter dans, irruption, HPC. <i>423, 31</i>.<p><b>Étym</b>. ἐμβάλλω.`

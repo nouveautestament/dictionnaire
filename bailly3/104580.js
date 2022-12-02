@@ -1,0 +1,1 @@
+lar[104580]=`<b>φαβο·τύπος, ος, ον</b> qui frappe les colombes, ARSTT. <i>H.A. 8, 3, 1</i>.<p><b>Étym</b>. φάψ, τύπτω.`

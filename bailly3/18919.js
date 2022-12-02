@@ -1,0 +1,1 @@
+lar[18919]=`<b>ων (τὰ)</b> offrande des prémices, SPT. <i>Neh. 13, 31</i>.<p><b>Étym</b>. <i>mot hébreu</i>.`

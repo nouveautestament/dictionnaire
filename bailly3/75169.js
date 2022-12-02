@@ -1,0 +1,1 @@
+lar[75169]=`<b>*παν·συδόν</b>, <i>par assimil</i>. <b>πασσυδόν</b> <font color="purple">[ῠ]</font> <i>adv. c</i>. πανσυδίᾳ, πανσυδίῃ, πανσυδίην tous ensemble, NONN. <i>D. 27, 243</i>.<p><b>Étym</b>. π. συ- <i>de</i> σεύω, -δον.`

@@ -1,0 +1,1 @@
+lar[90091]=`<i>dat. sg. dor. de</i> σιγή, <i>ou prés. ind. 3 sg. de</i> σιγάω.`

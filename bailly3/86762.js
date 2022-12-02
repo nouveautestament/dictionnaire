@@ -1,0 +1,1 @@
+lar[86762]=`<b>ατος (τὸ)</b> supériorité, avantage, mérite supérieur, POL. <i>16, 20, 6 ; particul.</i> :<br><b>      1</b> victoire, POL. <i>1, 9, 7 ; 2, 10, 6</i> ; DS. <i>3, 71</i>.<br><b>      2</b> crédit, honneur, réputation, SPT. <i>Jud. 4, 9</i>.<p><b>Étym</b>. προτερέω.`

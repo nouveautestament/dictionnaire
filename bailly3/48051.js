@@ -1,0 +1,1 @@
+lar[48051]=`<b>θυρσο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui s’abandonne à un transport bachique, le thyrse en main, EUR. <i>Ph. 792</i> ; ORPH. <i>H. 49, 8</i>.<p><b>Étym</b>. θ. μαίνομαι.`

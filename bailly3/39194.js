@@ -1,0 +1,1 @@
+lar[39194]=`<b>ἐπι·στυγής, ής, ές</b> <font color="purple">[ῡ]</font> haï, odieux, CLÉM. <i>79</i>.<p><b>Étym</b>. ἐπί, στυγέω.`

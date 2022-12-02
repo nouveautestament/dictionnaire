@@ -1,0 +1,1 @@
+lar[5733]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> vase à traire, THCR. <i>Idyl. 8, 87</i> ; ANTH. <i>9, 224</i>.<p><b>Étym</b>. ἀμέλγω.`

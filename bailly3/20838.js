@@ -1,0 +1,1 @@
+lar[20838]=`(<i>seul. part. prés</i>.) être transporté du délire bachique, ANTH. <i>9, 774, 775</i>.<p><b>Étym</b>. βρόμιος.`

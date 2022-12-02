@@ -1,0 +1,1 @@
+lar[32501]=`<b>ᾶ (ὁ)</b> <font color="purple">[λᾰ]</font> sorte d’oiseau inconnu, AR. <i>Av. 886</i>.`

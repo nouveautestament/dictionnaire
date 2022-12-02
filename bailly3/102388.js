@@ -1,0 +1,1 @@
+lar[102388]=`<b>ὑπερ·διατείνομαι</b>, faire les plus grands efforts, DÉM. <i>770, 4</i> ; LUC. <i>Herm. 25, etc</i>.`

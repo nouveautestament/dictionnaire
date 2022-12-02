@@ -1,0 +1,1 @@
+lar[83808]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> controversé, PLUT. <i>Cato mi. 25</i>.<p><b>Étym</b>. πρόβλημα, -ωδης.`

@@ -1,0 +1,1 @@
+lar[54340]=`<i>adv</i>., avec une fièvre ardente, GAL. <i>2, 102, 103</i>.`

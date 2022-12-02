@@ -1,0 +1,1 @@
+lar[45585]=`<b>ου (τὸ)</b> <font color="purple">[ῐτ]</font> moitié (d’une fève) DIOSC. <i>2, 127</i>.<p><b>Étym</b>. ἡμίτομος.`

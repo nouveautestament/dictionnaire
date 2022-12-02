@@ -1,0 +1,1 @@
+lar[14856]=`<b>(ὁ)</b> Harmamithrès, <i>Perse,</i> HDT. <i>7, 88</i>.`

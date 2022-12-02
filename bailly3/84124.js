@@ -1,0 +1,1 @@
+lar[84124]=`<b>προ·εκχέω</b> <font color="darkgreen">(<i>ao</i>. -εξέχεα, <i>etc</i>.)</font> verser <i>ou</i> répandre auparavant, LUC. <i>Pseud. 4</i>.`

@@ -1,0 +1,1 @@
+lar[60236]=`<b>λεκανο·μαντεία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> divination au moyen d’un bassin de métal, Ps.-CALLISTH. (<i>Fabricii bibliotheca græca v. 14, p. 148).</i><p><b>Étym</b>. λεκάνη, μαντεία.`

@@ -1,0 +1,1 @@
+lar[5019]=`<b>άδος (ἡ)</b> <font color="purple">[ῡ]</font> carline <i>ou</i> globulaire, <i>plante,</i> P. ÉG. <i>7, 3 et 4</i>.<p><b>Étym</b>. ἄλυπος.`

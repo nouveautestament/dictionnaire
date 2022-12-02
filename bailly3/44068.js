@@ -1,0 +1,1 @@
+lar[44068]=`<b>ας (ἡ)</b> <i>ou</i> <b>ἐφιάλτιον, ου (τὸ)</b> plante salutaire contre le cauchemar, Anon. <i>de vir. herb. 162</i>.<p><b>Étym</b>. ἐφιάλτης.`

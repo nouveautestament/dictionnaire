@@ -1,0 +1,1 @@
+lar[72506]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> le sens de la vue, DÉMAD. <i>278, 41</i> ; ARSTT. <i>An. 3, 2</i> ; NIC. <i>10, 3, etc.</i> ; PLUT. <i>M. 440f.</i><br><b>      2</b> <i>au pl</i>. les yeux, DS. <i>2, 6</i>.<br><b>      3</b> vision, SPT. <i>Joel 2, 28</i>.<p><b>Étym</b>. ὁράω.`

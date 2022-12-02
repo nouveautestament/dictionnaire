@@ -1,0 +1,1 @@
+lar[106506]=`<b>ων (οἱ)</b> = <i>lat</i>. Fodii, <i>anc. n. des Fabius,</i> PLUT. <i>Fab. 1</i>.`

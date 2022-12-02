@@ -1,0 +1,1 @@
+lar[50402]=`<b>καθ·ησυχάζω :<br>      1</b> se tenir complètement en repos, POL. <i>9, 32, 2</i>.<br><b>      2</b> garder un silence absolu, PHIL. <i>2, 71</i>.`

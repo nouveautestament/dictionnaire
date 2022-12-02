@@ -1,0 +1,1 @@
+lar[5630]=`<font color="purple">[μᾰ]</font> nouer, attacher, GAL. <i>2, 398</i> ; ORIB. <i>4, 404 B.-Dar</i>.<p><b>Étym</b>. ἅμμα.`

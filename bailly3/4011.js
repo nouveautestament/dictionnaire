@@ -1,0 +1,1 @@
+lar[4011]=`<b>(ὁ)</b> = <i>lat</i>. Ahala, <i>n. d’h. rom</i>. PLUT. <i>Brut. 1</i>.`

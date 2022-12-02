@@ -1,0 +1,1 @@
+lar[86798]=`<b>προ·τιτύσκω</b> (<i>seul. prés</i>.) <font color="purple">[ῐ]</font> préparer, <i>acc</i>. EPIGR. ANON.<p><b>Étym</b>. <i>Welck. Syll. 183, 24, p. 230</i>.`

@@ -1,0 +1,1 @@
+lar[49804]=`<b>ης (ἡ)</b> Issa :<br><b>      1</b> <i>anc. n. de Lesbos,</i> LYC. <i>219</i>.<br><b>      2</b> <i>î. de la mer Adriatique (auj</i>. Vis) A.RH. <i>4, 563</i>.`

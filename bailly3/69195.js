@@ -1,0 +1,1 @@
+lar[69195]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font> action de conduire la fiancée à son époux, POL. <i>26, 7, 8</i> ; PLUT. <i>M. 329d</i>.<p><b>Étym</b>. νυμφαγωγός.`

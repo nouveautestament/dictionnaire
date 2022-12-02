@@ -1,0 +1,1 @@
+lar[106366]=`<b>ά, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> enflammé, HPC. <i>590</i>.<br><b>      2</b> qui brûle, qui enflamme, AR. <i>Ach. 665</i> ; CRAT. (ATH. <i>344f</i>).<p><b>Étym</b>. φλέγω.`

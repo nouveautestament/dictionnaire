@@ -1,0 +1,1 @@
+lar[1993]=`<b>ἀ·θέρμαντος, ος, ον</b>, non réchauffé, qui ne peut être réchauffé, ESCHL. <i>Ch. 625</i>.<p><b>Étym</b>. ἀ, θερμαίνω.`

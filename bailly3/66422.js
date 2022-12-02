@@ -1,0 +1,1 @@
+lar[66422]=`<b>μολυβδόω-ῶ</b>, <i>seul. au pass</i>. <b>μολυβδόομαι-οῦμαί :<br>      1</b> fondre comme du plomb, DIOSC. <i>5, 99</i>.<br><b>      2</b> être chargé de plomb, être plombé, ARSTT. <i>Probl. 16, 3, 1</i>.`

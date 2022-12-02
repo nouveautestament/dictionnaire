@@ -1,0 +1,1 @@
+lar[89252]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. Σάμιος, CRAT. (<i>Com. fr. 2, 23</i>) ; PLUT. <i>Prov. 1, 61, etc</i>.`

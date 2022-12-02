@@ -1,0 +1,1 @@
+lar[58811]=`<b>κυνο·κτόνον, ου (τὸ)</b> <font color="purple">[ῠ]</font> aconit, <i>plante vénéneuse, mortelle pour les chiens,</i> DIOSC. <i>4, 78</i>.<p><b>Étym</b>. κ. κτείνω.`

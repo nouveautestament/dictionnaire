@@ -1,0 +1,1 @@
+lar[46219]=`<b>ας (ἡ) :<br>      1</b> branche d’olivier, DIOSC. <i>5, 86</i>.<br><b>      2</b> <i>c</i>. κάππαρις, DIOSC. <i>2, 204</i>.<p><b>Étym</b>. θαλλός.`

@@ -1,0 +1,1 @@
+lar[61374]=`<b>λιπο·φεγγής</b>, <i>mieux que</i> <b>λειπο·φεγγής, ής, ές</b> <font color="purple">[ῐ]</font> privé de lumière, aveugle, MUS. <i>238</i> ; MAN. <i>1, 65</i>.<p><b>Étym</b>. λ. φέγγος.`

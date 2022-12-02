@@ -1,0 +1,1 @@
+lar[29423]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> dont on peut se réveiller, THCR. <i>Idyl. 24, 7</i>.<p><b>Étym</b>. ἐγείρω.`

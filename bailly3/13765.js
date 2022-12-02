@@ -1,0 +1,1 @@
+lar[13765]=`<b>ἀπο·φύλιος, ος, ον</b> <font color="purple">[ῡ]</font> d’une race étrangère, ESCHL. <i>fr. 375</i>.<p><b>Étym</b>. ἀ. φῦλον.`

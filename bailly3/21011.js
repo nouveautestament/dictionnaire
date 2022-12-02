@@ -1,0 +1,1 @@
+lar[21011]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> qui sonne du cor à bouquin, un trompette, POL. <i>2, 29, 6, etc.</i> ; APP. <i>Hann. 41</i>.<p><b>Étym</b>. βυκανάω.`

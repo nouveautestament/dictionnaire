@@ -1,0 +1,1 @@
+lar[17493]=`<b>αὐτό·θερμος, ος, ον</b>, chaud par soi-même <i>ou</i> naturellement, DAMASC. <i>Plat. Phæd. 76</i>.`

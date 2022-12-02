@@ -1,0 +1,1 @@
+lar[76623]=`<b>παρ·εκπεράω-ῶ</b>, passer le long <i>ou</i> au delà de, <i>acc</i>. ESCHL. <i>fr. 23</i>.`

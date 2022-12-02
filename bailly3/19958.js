@@ -1,0 +1,1 @@
+lar[19958]=`<b>ου (τὸ)</b> sorte de fougère, DIOSC. <i>4, 186 ; cf</i>. βλάχνον.`

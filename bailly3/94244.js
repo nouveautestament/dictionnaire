@@ -1,0 +1,1 @@
+lar[94244]=`<b>συμ·πιλέω-ῶ</b> <font color="purple">[ῑ]</font> fouler ensemble, comprimer, PLAT. <i>Tim. 45b ; au pass</i>. PLAT. <i>Tim. 49c, 76c, etc.</i> ; ARSTT. <i>Cæl. 3</i> ; PLUT. <i>Demetr. 41</i> ; LUC. <i>Tox. 30, etc.</i> ; DC. <i>66, 21</i>.`

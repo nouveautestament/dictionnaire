@@ -1,0 +1,1 @@
+lar[98138]=`<b>οῦ (ὁ)</b> celui qui achève <i>ou</i> accomplit, NT. <i>Hebr. 12, 2</i>.<p><b>Étym</b>. τελειόω.`

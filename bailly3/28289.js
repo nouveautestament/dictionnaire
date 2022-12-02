@@ -1,0 +1,1 @@
+lar[28289]=`<b>δυσ·διάβατος, ος, ον</b> <font color="purple">[βᾰ]</font> difficile à traverser, POL. <i>1, 39, 13</i> ; DS. <i>17, 93</i>.<p><b>Étym</b>. δ. διαβαίνω.`

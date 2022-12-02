@@ -1,0 +1,1 @@
+lar[80620]=`<i>ion</i>. <b>Πλακίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Plakia, <i>v. de Mysie,</i> HDT. <i>1, 57, etc</i>.`

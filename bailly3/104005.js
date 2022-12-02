@@ -1,0 +1,1 @@
+lar[104005]=`<b>ὑπο·τονθορύζω</b>, murmurer, grommeler, LUC. <i>M. cond. 26, Herm. 1, Bis acc. 4, etc.</i> ; LIB. <i>4, 813 ; avec un acc.</i> : ὑπ. ἐπῳδήν, LUC. <i>Nec. 7,</i> murmurer une incantation.`

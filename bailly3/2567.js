@@ -1,0 +1,1 @@
+lar[2567]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de convertir en sang, GAL. <i>6, 256 ; 8, 350</i>.<p><b>Étym</b>. αἱματόω.`

@@ -1,0 +1,1 @@
+lar[14633]=`<b>αντος (ὁ)</b> <font color="purple">[ᾰρ]</font> Arisbante, <i>h</i>. IL. <i>17, 345</i>.`

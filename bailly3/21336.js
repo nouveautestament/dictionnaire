@@ -1,0 +1,1 @@
+lar[21336]=`<b>ῶν (αἱ) :<br>      1</b> mâchoires d’animal (<i>lion,</i> IL. <i>16, 489 ; cheval,</i> IL. <i>19, 394 ; âne,</i> LYC. <i>94) ; p. anal. en parl. de Typhon,</i> ESCHL. <i>Pr. 355</i>.<br><b>      2</b> bec d’oiseau, EUR. <i>Ion 159</i> ; AR. <i>Eq. 198</i>.<p><b>Étym</b>. *γάμπτω = κάμπτω ; <i>cf</i>. γόμφος.`

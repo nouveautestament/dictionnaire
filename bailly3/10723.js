@@ -1,0 +1,1 @@
+lar[10723]=`<b>ἀν·υμνέω-ῶ :<br>      1</b> proclamer par un oracle (chanté) EUR. <i>El. 1190</i>.<br><b>      2</b> célébrer dans un chant, exalter, LUC. <i>Philopatr. 4</i>.<br><b>      3</b> chanter encore, DH. <i>Rhet. 2, 1</i>.<p><b>Étym</b>. ἀνά, ὑμνέω.`

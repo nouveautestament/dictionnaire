@@ -1,0 +1,1 @@
+lar[102219]=`<b>ὑπερ·αγάζομαι</b> <font color="purple">[ᾰγ]</font> <i>c</i>. ὑπεράγαμαι EL. <i>V.H. 12, 31 conj</i>.`

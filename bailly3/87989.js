@@ -1,0 +1,1 @@
+lar[87989]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐχ]</font> qui danse la pyrrhique, LYS. <i>161, 37</i> ; IS. <i>54, 30</i>.<p><b>Étym</b>. πυρριχίζω.`

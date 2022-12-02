@@ -1,0 +1,1 @@
+lar[59167]=`<b>οῦ (ὁ) :<br>      1</b> qui prend part à une fête κῶμος, XÉN. <i>Cyr. 7, 5, 26</i> ; PLAT. <i>Conv. 212c, etc. ; en parl. de Dionysos,</i> chef d’un κῶμος, AR. <i>Nub. 606</i>.<br><b>      2</b> <i>adj</i>. avec accompagnement <i>de</i> κῶμος, LUC. <i>Trag. 85</i>.<p><b>Étym</b>. κωμάζω.`

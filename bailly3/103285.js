@@ -1,0 +1,1 @@
+lar[103285]=`<b>ίδος (ἡ)</b> <font color="purple">[θῡ]</font> guirlande de fleurs qu’on se mettait autour du cou pour en mieux respirer les parfums, ANACR. (ATH. <i>674d</i>) ; PLUT. <i>M. 647e</i>.<p><b>Étym</b>. ὑποθυμιάω.`

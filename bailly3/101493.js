@@ -1,0 +1,1 @@
+lar[101493]=`<b>ὑδο·γενής, ής, ές</b> <font color="purple">[ῠ, <i>par nécess. pros</i>. ῡ]</font> né de l’eau, ORPH. <i>fr. 2, 36</i>.<p><b>Étym</b>. ὕδος, γίγνομαι.`

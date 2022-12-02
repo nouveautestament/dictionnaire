@@ -1,0 +1,1 @@
+lar[71793]=`<b>ὀμφακό·μελι, ιτος (τὸ)</b> <font color="purple">[ᾰῐ]</font> boisson faite de verjus et de miel, DIOSC. <i>5, 31</i>.<p><b>Étym</b>. ὄμφαξ, μέλι.`

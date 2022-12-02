@@ -1,0 +1,1 @@
+lar[40832]=`<b>ης (ἡ)</b> <font color="purple">[ῠῑ]</font> nielle, rouille du blé, PLAT. <i>Rsp. 609a ;</i> ARSTT. <i>H.A. 5, 22, 3 ; au pl</i>. XÉN. <i>Œc. 5, 18</i> ; PLAT. <i>Conv. 188b ;</i> TH. <i>C.P. 3, 22, 1</i> ; ORPH. <i>Lith. 594</i>.<p><b>Étym</b>. <i>pré-grec ; rapprochement avec</i> ἐρυθρός <i>par étym. populaire</i>.`

@@ -1,0 +1,1 @@
+lar[53922]=`<b>κατ·επιτίθημι</b>, placer sur, imposer, EUM. <i>p. 77, etc</i>.`

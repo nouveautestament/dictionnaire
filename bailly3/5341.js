@@ -1,0 +1,1 @@
+lar[5341]=`<b>ητος (ἡ)</b> qualité d’une chose émoussée, ARSTT. <i>G.A. 5, 8, 8 ; fig</i>. affaiblissement, PLUT. <i>Galb. 18 ; M. 42c, 929a, etc</i>.<p><b>Étym</b>. ἀμβλύς.`

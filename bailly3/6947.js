@@ -1,0 +1,1 @@
+lar[6947]=`<b>ή, όν :<br>      1</b> propre à rappeler, à ramener (la santé, l’appétit, <i>etc.) gén</i>. DIOSC. <i>3, 92 ; 5, 3</i> ; ἀν. πρὸς ὀμόνοιαν, PLUT. <i>Lyc. 4,</i> propre à ramener la concorde.<br><b>      2</b> propre à rappeler en arrière : τὸ ἀ. DH. <i>8, 65</i> ; PLUT. <i>M. 236e, 273f ;</i> ANTH. <i>9, 136,</i> signal de retraite.<p><b>Étym</b>. ἀνακαλέω.`

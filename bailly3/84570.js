@@ -1,0 +1,1 @@
+lar[84570]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> entendu <i>ou</i> connu depuis longtemps, IL. <i>20, 204</i>.<p><b>Étym</b>. προκλύω.`

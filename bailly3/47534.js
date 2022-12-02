@@ -1,0 +1,1 @@
+lar[47534]=`<b>ου (ὁ) :<br>      1</b> siège, OD. <i>12, 318</i>.<br><b>      2</b> séance <i>ou</i> session d’une assemblée, OD. <i>2, 26</i> ; COL. <i>15</i>.<p><b>Étym</b>. <i>épq. c</i>. θῶκος.`

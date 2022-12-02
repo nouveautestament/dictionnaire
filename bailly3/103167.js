@@ -1,0 +1,1 @@
+lar[103167]=`<b>ὑπο·διαστολή, ῆς (ἡ) :<br>      1</b> division des phrases en petits membres, QUINT. <i>11, 3, 35</i>.<br><b>      2</b> sorte de virgule <i>ou</i> petit signe pour séparer deux <i>ou</i> plusieurs parties d’un mot, <i>p. ex</i>. ὅ, τι <i>pour</i> ὅτι, EUST. <i>701, 56 ; 1465, 16, etc</i>.<p><b>Étym</b>. ὑ. διαστολή.`

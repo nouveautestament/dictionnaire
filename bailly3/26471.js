@@ -1,0 +1,1 @@
+lar[26471]=`<b>δικαιο·κτόνος, ος, ον</b> <font color="purple">[ῐ]</font> meurtrier des justes, <i>càd</i>. des innocents, CHRYS. <i>5, 997</i>.<p><b>Étym</b>. δ. κτείνω.`

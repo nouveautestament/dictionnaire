@@ -1,0 +1,1 @@
+lar[18291]=`<b>ἀφ·υγραίνω</b> (<i>seul. prés. pass</i>.) arroser, humecter, ARSTT. <i>H.A. 10, 6, 5</i>.<p><b>Étym</b>. <i>corr</i>. ἐφυγρ.`

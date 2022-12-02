@@ -1,0 +1,1 @@
+lar[106811]=`<b>έως (ὁ)</b> <font color="purple">[ᾱ]</font> membre d’une même curie, <i>à Rome,</i> DH. <i>2, 64</i>.<p><b>Étym</b>. φρατρία.`

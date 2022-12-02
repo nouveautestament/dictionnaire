@@ -1,0 +1,1 @@
+lar[89999]=`<b>α, ον</b> <font color="purple">[σᾰ]</font> préparé avec du sésame, LUC. <i>Pisc. 41</i>.<p><b>Étym</b>. σησάμη.`

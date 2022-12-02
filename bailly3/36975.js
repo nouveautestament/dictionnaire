@@ -1,0 +1,1 @@
+lar[36975]=`<b>ος, ον :<br>      1</b> importé, amené du dehors, DÉM. <i>254, 21 ; 466, 21</i> ; HDN <i>1, 5 ; 8, 5</i>.<br><b>      2</b> <i>p. suite,</i> étranger, <i>p. opp. à</i> αὐτόχθων, EUR. <i>Ion 590 ; à</i> οἰκεῖος, PLAT. <i>Crat. 420b, ou à</i> πάτριος, ATH. <i>274b</i>.<p><b>Étym</b>. ἐπεισάγω.`

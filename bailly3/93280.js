@@ -1,0 +1,1 @@
+lar[93280]=`<b>συγ·κατάγνυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>f</i>. -κατάξω, <i>ao</i>. -κατέαξα, <i>etc</i>.)</font> briser ensemble, SYMM. <i>Ps. 67, 24</i> ; JUL. <i>60a</i>.`

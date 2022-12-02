@@ -1,0 +1,1 @@
+lar[5998]=`<b>ἀμφ·αρίστερος, ος, ον</b> <font color="purple">[ᾰρ]</font> gauche des deux mains, tout à fait gauche, AR. <i>fr. 432</i>.<p><b>Étym</b>. ἀ. ἀριστερός.`

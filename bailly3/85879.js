@@ -1,0 +1,1 @@
+lar[85879]=`<b>*προσ·θύμιος</b>, <i>dor</i>. <b>ποτι·θύμιος, ος, ον</b> <font color="purple">[ῐῡ]</font> conforme au désir de, bienvenu de, <i>dat</i>. ANTH. <i>6, 288</i>.<p><b>Étym</b>. π. θυμός.`

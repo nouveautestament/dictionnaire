@@ -1,0 +1,1 @@
+lar[100585]=`<b>ος, ον</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. τριφάσιος NIC. <i>Th. 102</i>.`

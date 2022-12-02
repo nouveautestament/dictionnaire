@@ -1,0 +1,1 @@
+lar[61991]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. <b>τέχνη</b> <font color="purple">[ῠῐ]</font> l’art de fabriquer des lyres, l’art du luthier, PLAT. <i>Euthyd. 289c</i>.<p><b>Étym</b>. λυροποιός.`

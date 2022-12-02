@@ -1,0 +1,1 @@
+lar[57761]=`<i>adv</i>., par morceaux, <i>en parl. de chair, de viande,</i> HDT. <i>3, 13</i>.<p><b>Étym</b>. κρεουργέω, -δον.`

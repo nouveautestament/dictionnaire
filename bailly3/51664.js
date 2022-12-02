@@ -1,0 +1,1 @@
+lar[51664]=`<b>ου (ὁ)</b> = <i>lat</i>. Caprarius, <i>n. d’h. rom</i>. PLUT. <i>Fort. Rom. 4</i>.`

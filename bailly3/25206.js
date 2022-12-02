@@ -1,0 +1,1 @@
+lar[25206]=`<b>δια·παροξύνω</b> <font color="darkgreen">(<i>ao. pass. 3 sg</i>. διαπαρωξύνθη)</font> exciter fortement, exaspérer, JOS. <i>A.J. 10, 7, 5 dout</i>.`

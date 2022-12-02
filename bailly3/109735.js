@@ -1,0 +1,1 @@
+lar[109735]=`<b>ψευδο·σοφιστής, οῦ (ὁ)</b> le faux sophiste, <i>titre d’un ouvrage de Lucien</i>.`

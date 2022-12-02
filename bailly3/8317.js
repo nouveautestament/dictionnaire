@@ -1,0 +1,1 @@
+lar[8317]=`<b>ἀνεμό·δρομος, ος, ον</b> <font color="purple">[ᾰ]</font> qui court comme le vent, LUC. <i>V.H. 1, 13</i>.<p><b>Étym</b>. ἄνεμος, δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[10195]=`<b>εως (ἡ)</b> préparatifs de résistance, DH. <i>6, 22</i> ; JOS. <i>A.J. 78, 8, 4</i>.<p><b>Étym</b>. ἀντιπαρατάσσω.`

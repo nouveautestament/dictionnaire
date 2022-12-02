@@ -1,0 +1,1 @@
+lar[85051]=`<b>προ·ρρήγνυμι</b>, briser <i>ou</i> déchirer auparavant, GAL. <i>14, 524</i>.<p><b>Étym</b>. π. ῥήγνυμι.`

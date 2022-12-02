@@ -1,0 +1,1 @@
+lar[33555]=`<b>ἐμ·πολίζω</b> (<i>part. pf. pass</i>. ἐμπεπολισμένος) enfermer dans l’enceinte d’une ville, DH. <i>2, 1</i>.<p><b>Étym</b>. ἐν, πόλις.`

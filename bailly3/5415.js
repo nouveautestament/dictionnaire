@@ -1,0 +1,1 @@
+lar[5415]=`<b>ἀμειψι·ρρυσμίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>ion</i>. changement de cours, DL. <i>9, 47</i>.<p><b>Étym</b>. ἄμειψις, ῥυσμός.`

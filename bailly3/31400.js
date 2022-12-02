@@ -1,0 +1,1 @@
+lar[31400]=`<b>ἐκ·καυλέω-ῶ</b>, monter en tige, ARSTT. <i>Probl. 20, 17</i> ; TH. <i>H.P. 1, 2, 2 ; 7, 4, 3, etc. ; C.P. 4, 3, 5</i>.<p><b>Étym</b>. ἐκ, καυλός.`

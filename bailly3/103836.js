@@ -1,0 +1,1 @@
+lar[103836]=`<b>ὑπο·σκιάω-ῶ :<br>      1</b> couvrir peu à peu de son ombre, <i>acc</i>. ARAT. <i>854 (3 sbj. épq</i>. ὑποσκιάῃσι).<br><b>      2</b> couvrir d’ombrages, ombrager, A.RH. <i>1, 451 (3 pl. prés. épq</i>. ὑποσκιόωνται).<p><b>Étym</b>. ὑ. σκιάω.`

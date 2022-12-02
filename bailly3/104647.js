@@ -1,0 +1,1 @@
+lar[104647]=`<b>φαιδρ·ωπός, ός, όν</b>, qui a le visage brillant de joie, l’air riant, ESCHL. <i>Ag. 725</i> ; EUR. <i>Or. 894</i>.<p><b>Étym</b>. φαιδρός, ὤψ.`

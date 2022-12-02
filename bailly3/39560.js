@@ -1,0 +1,1 @@
+lar[39560]=`<b>ἐπί·φημι</b>, consentir, acquiescer, EMPÉD. (PLUT. <i>M. 820f et 1113b</i>).`

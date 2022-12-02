@@ -1,0 +1,1 @@
+lar[27464]=`<b>δολο·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui trompe par ses artifices, NONN. <i>D. 8, 126</i>.<p><b>Étym</b>. δόλος, πλάνη.`

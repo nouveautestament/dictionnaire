@@ -1,0 +1,1 @@
+lar[18086]=`<b>ἀ·φιλάγαθος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui n’aime pas le bien <i>ou</i> les gens de bien, NT. <i>2Tim. 3, 3</i>.`

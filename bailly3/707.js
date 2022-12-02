@@ -1,0 +1,1 @@
+lar[707]=`<b>ἀγλαό·μητις, ιος (ὁ, ἡ)</b> aux brillants projets, à l’esprit ingénieux, TRIPHIOD. <i>183</i>.<p><b>Étym</b>. ἀ. μῆτις.`

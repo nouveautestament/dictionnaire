@@ -1,0 +1,1 @@
+lar[22635]=`<b>γράω-ῶ</b> (<i>3 sg. impf</i>. ἔγραε) manger, CALL. <i>fr. 200</i>.<p><b>Étym</b>. <i>cf</i>. γραίνω.`

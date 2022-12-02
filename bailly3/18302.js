@@ -1,0 +1,1 @@
+lar[18302]=`<b>ἀφ·υλακτέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. prés. pass</i>.) aboyer, <i>fig</i>. LUC. <i>Am. 17</i>.`

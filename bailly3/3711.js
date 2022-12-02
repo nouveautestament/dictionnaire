@@ -1,0 +1,1 @@
+lar[3711]=`<b>ἀκριδο·θήκη, ης (ἡ)</b> <font color="purple">[ῐ]</font> cage à sauterelles, THCR. <i>Idyl. 1, 52</i> ; LGS <i>1, 10 (corr. p</i>. ἀκριδοθήρα).<p><b>Étym</b>. ἀκρίς, θήκη.`

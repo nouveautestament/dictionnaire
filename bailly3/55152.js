@@ -1,0 +1,1 @@
+lar[55152]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> plein de sollicitude, EUR. <i>Or. 1017</i>.<p><b>Étym</b>. κήδω.`

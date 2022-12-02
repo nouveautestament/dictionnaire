@@ -1,0 +1,1 @@
+lar[23101]=`<b>δαμαλή·βοτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> où paissent les génisses, A. PL. <i>230</i>.<p><b>Étym</b>. δαμάλη, βόσκω.`

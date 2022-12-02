@@ -1,0 +1,1 @@
+lar[3958]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Aktoris, <i>servante de Pénélope,</i> OD. <i>23, 228</i>.`

@@ -1,0 +1,1 @@
+lar[1038]=`<b>Ἀγχι·άλη, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> Ankhialè, <i>nymphe,</i> A.RH. <i>1, 1130</i>.<p><b>Étym</b>. <i>cf</i>. ἀγχίαλος.`

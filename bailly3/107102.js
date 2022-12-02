@@ -1,0 +1,1 @@
+lar[107102]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec vigilance, en prenant ses précautions, POL. <i>6, 8, 3</i>.<p>•<i> Cp</i>. -ώτερον, POL. <i>1, 18, 1</i>.`

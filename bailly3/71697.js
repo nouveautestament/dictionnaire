@@ -1,0 +1,1 @@
+lar[71697]=`<b>ὁμό·στεγος, ος, ον</b>, réuni sous un même toit, NAZ. <i>Carm. p. 8c</i>.<p>➳ <i>Dans une inscr. att</i>. ὁμότεγος, CIA. <i>2, 1054, 6 (347 av. J.-C.) ; v. Meisterh. p. 70, 17</i>.<p><b>Étym</b>. ὁμ. στέγη.`

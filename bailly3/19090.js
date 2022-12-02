@@ -1,0 +1,1 @@
+lar[19090]=`<b>ατος (τὸ)</b> <font color="purple">[βᾰ]</font> fardeau pesant, DH. <i>10, 16, dout</i>.<p><b>Étym</b>. βαρέω.`

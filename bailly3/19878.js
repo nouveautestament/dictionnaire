@@ -1,0 +1,1 @@
+lar[19878]=`<b>ή, όν :<br>      1</b> <i>c</i>. βλαστητικός TH. <i>H.P. 3, 12, 8</i>.<br><b>      2</b> qui favorise la germination, TH. <i>Od. 63</i> ; GEOP. <i>9, 9, 3</i>.<p>•<i> Cp</i>. -ώτερος, GEOP. <i>9, 9, 3 et 8. • Sup</i>. -ώτατος, TH. <i>C.P. 1, 13, 10</i>.`

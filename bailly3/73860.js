@@ -1,0 +1,1 @@
+lar[73860]=`<b>ης, ες :<br>      1</b> semblable à un serpent, ARSTT. <i>P.A. 4, 13, etc.</i> ; TH. <i>fr. 12, 4</i>.<br><b>      2</b> couvert de serpents, PD. <i>O. 13, 61, ou</i> rempli de serpents, STR. <i>770</i>.<p><b>Étym</b>. ὄφις, -ωδης.`

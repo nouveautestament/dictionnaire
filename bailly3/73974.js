@@ -1,0 +1,1 @@
+lar[73974]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>dim. de</i> ὀψάριον GEOP. <i>20, 46, 1</i>.`

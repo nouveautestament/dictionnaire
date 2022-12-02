@@ -1,0 +1,1 @@
+lar[84986]=`<b>ου (τὸ)</b> guirlande, couronne, SEMUS (ATH. <i>622c dout</i>.).`

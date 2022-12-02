@@ -1,0 +1,1 @@
+lar[65998]=`<b>μισθό·δωρος, ος, ον</b>, qui donne libéralement un salaire, une récompense, EUBULID. (ATH. <i>437d</i>).<p><b>Étym</b>. μ. δῶρον.`

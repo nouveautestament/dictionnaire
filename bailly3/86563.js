@@ -1,0 +1,1 @@
+lar[86563]=`<b>προσ·υπογράφω</b> <font color="purple">[ᾰ]</font> décrire <i>ou</i> esquisser en outre, LGN <i>14</i> ; PHIL. <i>1, 590</i> ; DL. <i>6, 103</i>.`

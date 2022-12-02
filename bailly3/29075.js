@@ -1,0 +1,1 @@
+lar[29075]=`<b>δωδεκά·γναμπτος, ος, ον</b>, dont il faut faire douze fois le tour, PD. <i>O. 3, 59</i>.<p><b>Étym</b>. δ. γνάμπτω.`

@@ -1,0 +1,1 @@
+lar[30689]=`<b>εἰσ·αντλέω-ῶ</b> (<i>inf. prés</i>.) verser dans, <i>avec</i> εἰς <i>et l’acc</i>. CLÉARQ. (ATH. <i>416b</i>).`

@@ -1,0 +1,1 @@
+lar[83465]=`<b>(ὁ)</b> marchand, <i>litt</i>. celui qui crie « achetez ! achetez ! » AR. <i>Ach. 36</i>.<p><b>Étym</b>. πρίω², <i>impér. de</i> πρίαμαι.`

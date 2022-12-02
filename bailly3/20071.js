@@ -1,0 +1,1 @@
+lar[20071]=`<i>dans la loc</i>. αἰβοῖ βοῖ <i>ou</i> αἰβοιβοῖ, AR. <i>Pax 1066, exclamation de rire ou de moquerie</i>.`

@@ -1,0 +1,1 @@
+lar[67905]=`<b>ος, ον</b>, de faon, CALL. <i>Dian. 244</i> ; PLUT. <i>M. 150e ;</i> A. PL. <i>305, 1</i>.<p><b>Étym</b>. νεβρός.`

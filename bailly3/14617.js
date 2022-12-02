@@ -1,0 +1,1 @@
+lar[14617]=`<b>ου (ἡ)</b> sorte d’emplâtre, A. TR. <i>7, p. 129, etc.</i> ; GAL. <i>13, 665, etc. (var</i>. -άνιος).<p><b>Étym</b>. Ἀριοβαρζάνης.`

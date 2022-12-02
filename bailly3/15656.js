@@ -1,0 +1,1 @@
+lar[15656]=`<b>ἀρχι·συνάγωγος, ου (ὁ)</b> <font color="purple">[ῐῠᾰγ]</font> chef de synagogue, NT. <i>Marc. 5, 22, etc</i>.<p><b>Étym</b>. ἀ. συναγωγή.`

@@ -1,0 +1,1 @@
+lar[3579]=`<b>ου (ἡ)</b> acorus, <i>plante aromatique,</i> TH. <i>H.P. 1, 22</i>.`

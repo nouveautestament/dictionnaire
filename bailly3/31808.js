@@ -1,0 +1,1 @@
+lar[31808]=`<b>ἐκ·περιπλέω</b>, naviguer autour, POL. <i>1, 23, 9</i> ; PLUT. <i>Æmil. 15</i> ; CLÉOM. <i>8, 23</i>.`

@@ -1,0 +1,1 @@
+lar[38285]=`<b>*ἐπι·ληκυθίστρια</b>, <i>dor</i>. <b>ἐπι·λακυθίστρια, ας</b> <font color="purple">[ᾱῠ]</font> <i>adj. f</i>. ampoulée, <i>ép. de la muse tragique,</i> ANTH. <i>13, 21</i>.<p><b>Étym</b>. ἐπί, ληκυθίζω.`

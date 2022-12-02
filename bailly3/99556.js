@@ -1,0 +1,1 @@
+lar[99556]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. tranchant : μύλαι τομίδες, SPT. <i>Prov. 30, 14,</i> dents molaires tranchantes comme des ciseaux.<p><b>Étym</b>. τέμνω.`

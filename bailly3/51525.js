@@ -1,0 +1,1 @@
+lar[51525]=`<b>ου (ὁ)</b> <font color="purple">[θᾰ]</font> Kantharos :<br><b>      1</b> <i>héros athénien qui donna son nom à une partie du Pirée,</i> AR. <i>Pax 145</i>.<br><b>      2</b> <i>poète de l’ancienne comédie</i>.`

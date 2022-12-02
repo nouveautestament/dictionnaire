@@ -1,0 +1,1 @@
+lar[55412]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. κιθάρισις, CALL. <i>Del. 312</i>.`

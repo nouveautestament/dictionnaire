@@ -1,0 +1,1 @@
+lar[12879]=`<b>ἀπο·μελαίνω</b>, rendre tout à fait noir, TH. <i>H.P. 2, 7, 5</i>.`

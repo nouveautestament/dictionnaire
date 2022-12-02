@@ -1,0 +1,1 @@
+lar[11973]=`<b>ἄ·πικρος, ος, ον</b>, non amer, sans amertume, ARSTT. <i>Virt. et vit. 4, 3</i>.<p><b>Étym</b>. ἀ, πικρός.`

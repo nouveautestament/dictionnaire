@@ -1,0 +1,1 @@
+lar[32275]=`<b>ορος (ὁ)</b> Hector, <i>fils de Priam,</i> IL. <i>1, 242, etc.</i> ; HDT. <i>2, 120, etc</i>.<p>➳ <i>Voc</i>. Ἕκτορ, IL. <i>2, 802</i>.<p><b>Étym</b>. <i>cf</i>. ἕκτωρ.`

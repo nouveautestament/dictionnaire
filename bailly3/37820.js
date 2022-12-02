@@ -1,0 +1,1 @@
+lar[37820]=`<b>ἐπι·θολόω-ῶ</b>, rendre trouble sur, troubler à la surface, LUC. <i>Lex. 4 ; au pass</i>. PLUT. <i>M. 894e ; fig</i>. ARTÉM. <i>309 Reiff</i>.`

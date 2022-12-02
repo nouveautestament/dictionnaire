@@ -1,0 +1,1 @@
+lar[102890]=`<i>adv</i>., outre mesure, extraordinairement, merveilleusement, AR. <i>Ach. 142</i> ; PLAT. <i>Gorg. 481b ;</i> ὑπερφυῶς ὡς, PLAT. <i>Phæd. 66a</i>, à merveille ; <i>dans les réponses,</i> PLAT. <i>Rsp. 525b</i>.<p><b>Étym</b>. ὑπερφυής.`

@@ -1,0 +1,1 @@
+lar[21034]=`<b>βυρσο·παφλαγών, όνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> le tanneur paphlagonien, <i>sobriquet du démagogue Cléon</i> (<i>v</i>. βυρσαίετος <i>et</i> βυρσίνη) AR. <i>Eq. 47</i>.<p><b>Étym</b>. βύρσα, Π.`

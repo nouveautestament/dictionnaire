@@ -1,0 +1,1 @@
+lar[99945]=`<b>ή, όν :<br>      1</b> qui bégaye, qui balbutie, HDT. <i>4, 155</i> ; HPC. <i>Aph. 1257</i> ; PLUT. <i>M. 963c ; p. opp. à</i> τορός, PLUT. <i>M. 405b.</i><br><b>      2</b> qui gazouille, <i>en parl. de l’hirondelle,</i> A. PL. <i>141</i> ; ANTH. <i>9, 57, 70</i>.<p>➳ <i>Fém</i>. τραυλός, ANTH.`

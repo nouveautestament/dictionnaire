@@ -1,0 +1,1 @@
+lar[74125]=`<b>πάγ·κοινος, ος, ον</b>, commun à tous, PD. <i>O. 6, 107</i> ; ESCHL. <i>Sept. 608, etc.</i> ; SOPH. <i>Ant. 1119, etc.</i> ; EUR. <i>Tr. 425</i>.<p><b>Étym</b>. π. κοινός.`

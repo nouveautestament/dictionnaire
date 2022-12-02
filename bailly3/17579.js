@@ -1,0 +1,1 @@
+lar[17579]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de son propre mouvement, DS. <i>2, 25 (var</i>. -ματεί).<p><b>Étym</b>. αὐτόματος.`

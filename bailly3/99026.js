@@ -1,0 +1,1 @@
+lar[99026]=`<i>vb. de</i> τηρέω, PLAT. <i>Rsp. 412e, 413c ;</i> DH. <i>Rhet. 10, 19</i>.`

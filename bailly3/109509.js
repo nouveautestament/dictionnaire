@@ -1,0 +1,1 @@
+lar[109509]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ψάκαλος AR. BYZ. (EUST. <i>1625, 46</i>).`

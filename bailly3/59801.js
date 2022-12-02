@@ -1,0 +1,1 @@
+lar[59801]=`<b>λαο·θαμβής, ής, ές</b> <font color="purple">[ᾱ]</font> admiré du peuple, J. GÉOM. <i>H. in Virg. 4, p. 867</i>.<p><b>Étym</b>. λ. θάμβος.`

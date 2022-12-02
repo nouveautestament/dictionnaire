@@ -1,0 +1,1 @@
+lar[38504]=`<b>ἐπι·νείφω</b>, <i>mieux que</i> <b>ἐπι·νίφω</b> <font color="purple">[ῑ]</font><br><b>      1</b> faire tomber la neige sur, PHIL. <i>1, 299 ; au pass</i>. être couvert de neige, TH. <i>H.P. 4, 16, 6</i> ; PHIL. <i>1, 441</i>.<br><b>      2 <i>impers</i></b>. ἐπινείφει, XÉN. <i>Cyn. 8, 1,</i> la neige continue à tomber.`

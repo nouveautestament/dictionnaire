@@ -1,0 +1,1 @@
+lar[49101]=`<b>ου (ὁ)</b> <font color="purple">[ῑᾰ]</font> Iobatès, <i>roi myth. de Lydie,</i> SOPH. (STOB. <i>Fl. 119, 6</i>).`

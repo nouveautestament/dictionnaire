@@ -1,0 +1,1 @@
+lar[49373]=`<b>ἱππό·λοφος, ος, ον</b>, garni d’une crinière de cheval, ANTH. <i>App. 323 ; fig</i>. AR. <i>Ran. 818</i>.<p><b>Étym</b>. ἵ. λόφος.`

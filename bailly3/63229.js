@@ -1,0 +1,1 @@
+lar[63229]=`<font color="purple">[μᾱνᾱ]</font> <i>dor. c</i>. μηχάνησις.`

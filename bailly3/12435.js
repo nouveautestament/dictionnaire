@@ -1,0 +1,1 @@
+lar[12435]=`<b>ἀπο·θυμιάω-ῶ</b> <font color="purple">[ῡ]</font> faire des fumigations, ARSTT. <i>H.A. 6, 37, 3</i>.`

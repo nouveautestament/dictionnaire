@@ -1,0 +1,1 @@
+lar[27565]=`<b>δοξό·σοφος, ος, ον</b>, qui se croit sage, PLAT. <i>Phædr. 275b ;</i> ARSTT. <i>Rhet. 2, 10, etc</i>.<p><b>Étym</b>. δόξα, σοφός.`

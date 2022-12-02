@@ -1,0 +1,1 @@
+lar[46159]=`<b>θαλασσο·κράμβη, ης (ἡ)</b> <i>et</i> <b>θαλασσό·κραμβον, ου (τὸ)</b> <font color="purple">[θᾰ]</font> chou marin, <i>plante,</i> GEOP. <i>12, 1, 1, etc</i>.<p><b>Étym</b>. θ. κράμβη.`

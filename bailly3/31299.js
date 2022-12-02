@@ -1,0 +1,1 @@
+lar[31299]=`<b>ἐκ·θεολογέω-ῶ</b> (<i>seul. pf. pass. 3 sg</i>. ἐκτεθεολόγηται) attribuer à la divinité, HÉRACLITE GRAMM. <i>All. Hom. p. 83 Mehler</i>.`

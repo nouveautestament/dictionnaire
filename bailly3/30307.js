@@ -1,0 +1,1 @@
+lar[30307]=`<font color="purple">[ᾰ]</font> (<i>seul. prés. et impf</i>. εἴκαθον ; <i>sel. d’autres,</i> εἰκάθω <i>sbj. ao. d’où</i> εἰκαθεῖν, εἰκαθών) <i>c</i>. εἴκω, céder, SOPH. <i>O.R. 650, Ph. 1352, Ant. 1096, El. 396, Tr. 1177</i>.`

@@ -1,0 +1,1 @@
+lar[24850]=`<b>*δια·κρηνάω-ῶ</b>, <i>seul. dor</i>. <b>δια·κρανάω-ῶ</b> <font color="purple">[ᾱν]</font> (<i>seul. 2 pl. ao</i>. διεκρανάσατε, <i>vulg</i>. διεκρανώσατε) faire couler comme d’une source, <i>acc</i>. THCR. <i>Idyl. 7, 154</i>.<p><b>Étym</b>. διά, κρήνη.`

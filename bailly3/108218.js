@@ -1,0 +1,1 @@
+lar[108218]=`<b>Χελιδονία ἄκρα</b>, <i>ion</i>. Χελιδονίη ἄκρη (ἡ) le cap Khélidonia, <i>litt</i>. « des hirondelles » (<i>auj</i>. Gelidonya <i>ou</i> Taşlı) <i>en Lycie,</i> Q. SM. <i>3, 234</i>.<p><b>Étym</b>. <i>fém. de</i> χελιδόνιος.`

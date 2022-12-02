@@ -1,0 +1,1 @@
+lar[96200]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> coup d’œil d’ensemble, CLÉM. <i>821</i>.<p><b>Étym</b>. συνοράω.`

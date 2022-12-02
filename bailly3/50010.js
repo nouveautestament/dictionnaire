@@ -1,0 +1,1 @@
+lar[50010]=`<b>Ἰφι·γένεια, ας (ἡ)</b> <font color="purple">[ῑῐ]</font> Iphigénie, <i>fille d’Agamemnon,</i> PD. <i>P. 11, 35</i> ; ESCHL. <i>Ag. 1555</i> ; EUR. <i>Or. 23, etc</i>.<p>➳ <i>Acc</i>. Ἰφιγενείαν, ESCHL. <i>Ag. 1526. Ion</i>. Ἰφιγενείη, NONN. <i>D. 13, 107, etc</i>.<p><b>Étym</b>. ἶφι, γένος.`

@@ -1,0 +1,1 @@
+lar[92208]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> raisin sec, raisiné, THCR. <i>Idyl. 27, 9</i> ; ANTH. <i>5, 304, 1</i> ; NIC. <i>Th. 943</i> ; DIOSC. <i>3, 55 ; 4, 156 ; 5, 4, etc</i>.`

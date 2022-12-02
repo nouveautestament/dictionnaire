@@ -1,0 +1,1 @@
+lar[34310]=`<b>ἐν·είργνυμι</b> <i>ou</i> <b>ἐν·είργω</b>, enfermer dans, <i>dat</i>. PHALAR. <i>Ep. 50</i>.<p><b>Étym</b>. ἐν, εἵργνυμι <i>ou</i> εἵργω.`

@@ -1,0 +1,1 @@
+lar[54385]=`<b>καχ·ορμισία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰμῐ]</font> mouillage funeste, ANTH. <i>7, 640</i>.<p><b>Étym</b>. κακός, ὁρμίζω.`

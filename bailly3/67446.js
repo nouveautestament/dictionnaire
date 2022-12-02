@@ -1,0 +1,1 @@
+lar[67446]=`<b>ου (τὸ) :<br>      1</b> cuiller, NIC. <i>et</i> HIPPOLOCH. (ATH. <i>126a, 129c</i>).<br><b>      2</b> mystre, <i>mesure de deux cuillerées,</i> HIPPIATR.<p><b>Étym</b>. μυστίλη.`

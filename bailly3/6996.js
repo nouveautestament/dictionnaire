@@ -1,0 +1,1 @@
+lar[6996]=`<b>ἀνα·κραδάω-ῶ</b> <font color="purple">[ᾰδ]</font> agiter en l’air, brandir, NAZ. <i>Carm. 14, 8, p. 78 Dronke</i>.`

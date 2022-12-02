@@ -1,0 +1,1 @@
+lar[95759]=`<b>συν·ερύω</b> <font color="darkgreen">(<i>impf</i>. συνείρυον)</font> contracter, resserrer, CHRISTOD. <i>Ecphr. 14 ; fig</i>. EPIGR. (DL. <i>2, 112</i>).`

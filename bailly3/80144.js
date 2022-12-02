@@ -1,0 +1,1 @@
+lar[80144]=`<b>ά, όν</b>, estropié, privé de l’usage d’un membre, HPC. <i>647, 46</i> ; ANTH. <i>9, 11 ; particul</i>. aveugle, IL. <i>2, 599 ; en parl. de l’intelligence,</i> SIM. AM. <i>fr. 7, 6 ; fig</i>. émoussé, hébété, impuissant, LUC. <i>Am. 46 ; joint à</i> ἀμβλεῖς, PHIL. <i>1, 624</i>.<p><b>Étym</b>. <i>inconnue</i>.`

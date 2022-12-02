@@ -1,0 +1,1 @@
+lar[77560]=`<b>ωνος (ὁ)</b> à qui on met souvent les entraves, <i>càd</i>. mauvais esclave, AR. <i>fr. 46</i>.<p><b>Étym</b>. πέδη.`

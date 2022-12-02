@@ -1,0 +1,1 @@
+lar[109317]=`<b>χρυσ·ώνυμος, ος, ον</b> <font color="purple">[ῡῠ]</font> dont le nom est tiré du mot « or », ANTH. <i>1, 106</i>.<p><b>Étym</b>. χρ. ὄνομα.`

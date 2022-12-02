@@ -1,0 +1,1 @@
+lar[9881]=`<b>ἀντι·ζωγρέω-ῶ</b>, sauver la vie en retour, <i>en parl. d’animaux et de chasseurs,</i> BABR. <i>107, 15</i>.`

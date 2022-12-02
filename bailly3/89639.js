@@ -1,0 +1,1 @@
+lar[89639]=`<b>Σεβεννύτης νομός (ὁ)</b> le nome Sebennytès <i>en Égypte,</i> HDT. <i>2, 166, etc</i>.<p><b>Étym</b>. <i>v</i>. Σεβεννυτικός.`

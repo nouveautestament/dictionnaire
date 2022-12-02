@@ -1,0 +1,1 @@
+lar[68513]=`<b>νη·κηδής, ής, ές</b>, libre de souci, PLAT. <i>Conv. 197c</i>.<p><b>Étym</b>. νη-, κῆδος.`

@@ -1,0 +1,1 @@
+lar[106457]=`<b>φλυδάω-ῶ</b> <font color="purple">[ῠ]</font> être tout humide, tout moite, <i>d’où</i> être flasque, HPC. <i>308, 31</i>.<p><b>Étym</b>. φλύω.`

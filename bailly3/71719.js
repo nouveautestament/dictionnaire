@@ -1,0 +1,1 @@
+lar[71719]=`<b>ὁμό·τιτθος, ος, ον</b>, nourri du même sein, DIN. (POLL. <i>6, 156).</i><p><b>Étym</b>. ὁμ. τιτθή.`

@@ -1,0 +1,1 @@
+lar[107984]=`<b>χαροποιέω-ῶ</b>, rendre joyeux, SYMM. <i>Ps. 20, 7</i>.`

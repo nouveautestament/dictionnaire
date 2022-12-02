@@ -1,0 +1,1 @@
+lar[26913]=`<b>ας (ἡ)</b> écoulement des eaux, <i>d’où</i> aqueduc, STR. <i>458</i>.<p><b>Étym</b>. διοχετεύω.`

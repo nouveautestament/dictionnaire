@@ -1,0 +1,1 @@
+lar[74371]=`(<i>seul. prés. et impf. épq. v. ci-dessous</i>) :<br><b>      1</b> se montrer tout à coup, apparaître soudainement, IL. <i>2, 450</i> ; A.RH. <i>4, 1442</i>.<br><b>      2</b> s’élancer impétueusement, OPP. <i>C. 2, 250 ; H. 2, 288</i>.<p>➳ <i>Impf. épq. 3 sg</i>. παίφασσε, A.RH. <i>l.c</i>.<p><b>Étym</b>. <i>inconnue</i>.`

@@ -1,0 +1,1 @@
+lar[31532]=`<b>ἐκ·κωλύω</b> (<i>prés</i>. -ύει) écarter, empêcher d’entrer, <i>acc</i>. NYSS. <i>1, 165d</i>.`

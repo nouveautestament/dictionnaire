@@ -1,0 +1,1 @@
+lar[95158]=`<b>συν·διατείνω</b>, étendre <i>ou</i> allonger avec <i>ou</i> en même temps, PLUT. <i>M. 63c</i>.`

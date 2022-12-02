@@ -1,0 +1,1 @@
+lar[82051]=`<b>πολυ·κυδής, ής, ές</b> <font color="purple">[ῠῡ]</font> très glorieux, ANTH. <i>1, 8, 4</i>.<p><b>Étym</b>. π. κῦδος.`

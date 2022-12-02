@@ -1,0 +1,1 @@
+lar[75192]=`<b>παντ·αρκής, ής, ές</b>, qui suffit à tous, <i>d’où</i> qui vient au secours de tous, ESCHL. <i>Pers. 855</i>.<p><b>Étym</b>. π. ἀρκέω.`

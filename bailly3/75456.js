@@ -1,0 +1,1 @@
+lar[75456]=`<b>παρά·γραμμα, ατος (τὸ) :<br>      1</b> clause additionnelle, DÉM. <i>997, 10</i>.<br><b>      2</b> mot dénaturé par plaisanterie, <i>par substitution d’une lettre à une autre,</i> ARSTT. <i>Rhet. 3, 11</i>.`

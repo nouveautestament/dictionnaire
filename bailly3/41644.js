@@ -1,0 +1,1 @@
+lar[41644]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> εὐαρεστέω, PHIL. <i>2, 413</i>.`

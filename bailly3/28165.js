@@ -1,0 +1,1 @@
+lar[28165]=`<b>δυσ·ανάβατος, ος, ον</b> <font color="purple">[ῠᾰᾰᾰ]</font> difficile à gravir, CORN. <i>14</i>.<p>➳ <i>Poét</i>. δυσάμβατος, SIM. (CLÉM. <i>Str. 4, p. 585).</i><p><b>Étym</b>. δ. ἀναβαίνω.`

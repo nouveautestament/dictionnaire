@@ -1,0 +1,1 @@
+lar[83913]=`<b>προ·διαγωνίζομαι</b> <font color="purple">[ᾰγ]</font> combattre d’abord <i>ou</i> d’avance, <i>avec</i> πρός <i>et l’acc</i>. DS. <i>Exc. 518, 14</i>.`

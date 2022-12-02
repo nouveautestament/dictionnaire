@@ -1,0 +1,1 @@
+lar[45240]=`<b>ἡλιο·σκόπιον, ου (τὸ)</b> héliotrope <i>ou</i> euphorbe (<i>Euphorbia helioscopia</i> L.) <i>plante,</i> ARSTT. <i>Plant. 1, 4, 11</i>.<p><b>Étym</b>. ἥλιος, σκοπέω.`

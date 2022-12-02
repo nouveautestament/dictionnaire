@@ -1,0 +1,1 @@
+lar[27539]=`<b>ή, όν :<br>      1</b> sur qui <i>ou</i> sur quoi l’on se fait une opinion, DL. <i>10, 33 ; p. opp. à</i> γνωστός, PLAT. <i>Rsp. 578b ; à</i> νοητός, PARMÉN. (PLUT. <i>M. 1114c</i>) ; PLAT. <i>Rsp. 534a ; p. suite,</i> qu’on se figure, imaginaire, PLAT. <i>Phædr. 248b.</i><br><b>      2</b> glorifié, SPT. <i>Deut. 26, 19</i>.<p><b>Étym</b>. <i>vb. de</i> δοξάζω.`

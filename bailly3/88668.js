@@ -1,0 +1,1 @@
+lar[88668]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> souple, flexible, IL. <i>18, 576</i>.<p><b>Étym</b>. ῥαδινός.`

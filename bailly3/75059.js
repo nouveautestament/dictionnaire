@@ -1,0 +1,1 @@
+lar[75059]=`<b>πάν·θυτος, ος, ον</b> <font color="purple">[ῠ]</font> que l’on célèbre par des sacrifices de toute sorte, <i>càd</i>. tout auguste, SOPH. <i>Aj. 712</i>.<p><b>Étym</b>. π. θύω.`

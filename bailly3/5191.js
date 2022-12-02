@@ -1,0 +1,1 @@
+lar[5191]=`<b>ἀμαλλο·φόρος, ος, ον</b> <font color="purple">[ᾰμ]</font> qui porte des gerbes, PORPH. <i>Abst. 2, 19</i>.<p><b>Étym</b>. ἄ. φέρω.`

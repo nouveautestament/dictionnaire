@@ -1,0 +1,1 @@
+lar[72468]=`<i>att. c</i>. ὀπυίω LUC. <i>M. cond. 41, etc</i>.<p>➳ <i>Impf</i>. ὤπυον <font color="purple">[ῡ]</font> LUC. <i>Alex. 50 ; f</i>. ὀπύσω <font color="purple">[ῡ]</font> AR. <i>Ach. 255. Pass. prés</i>. ὀπύομαι, PLUT. <i>Sol. 20</i>.`

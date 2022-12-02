@@ -1,0 +1,1 @@
+lar[71641]=`<b>ὁμο·πάτωρ, ορος</b> <font color="purple">[ᾰ]</font> <i>adj. m. c</i>. ὁμοπάτριος PLAT. <i>Leg. 924e ;</i> DÉM. <i>1067, 4</i>.`

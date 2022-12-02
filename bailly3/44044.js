@@ -1,0 +1,1 @@
+lar[44044]=`<b>ἐφ·ήμερον, ου (τὸ) :<br>   I</b> éphémère, insecte qui ne vit qu’un jour, ARSTT. <i>H.A. 5, 12, 26</i>.<br><b>   II</b> <i>n. de plantes vénéneuses, propres à faire mourir en un jour, càd.</i> :<br><b>      1</b> colchique, NIC. <i>Al. 250</i>.<br><b>      2</b> ornithogalon, DIOSC. <i>4, 85</i>.<p><b>Étym</b>. <i>neutre de</i> ἐφήμερος.`

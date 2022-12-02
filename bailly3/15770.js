@@ -1,0 +1,1 @@
+lar[15770]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Aséa, XÉN.<p><b>Étym</b>. Ἀσέα.`

@@ -1,0 +1,1 @@
+lar[101018]=`<b>ος, ον</b>, qui fréquente les tombeaux, ANTH. <i>7, 154</i>.<p><b>Étym</b>. τύμβος, ἔχω.`

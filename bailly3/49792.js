@@ -1,0 +1,1 @@
+lar[49792]=`<font color="purple">[ῑ̆]</font> <i>adv</i>., avec une égale durée, SEXT. <i>743 Bkk</i>.`

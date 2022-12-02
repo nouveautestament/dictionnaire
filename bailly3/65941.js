@@ -1,0 +1,1 @@
+lar[65941]=`<b>μιξο·πάρθενος, ος, ον</b>, qui est à moitié une jeune fille, <i>en parl. d’Ekhidna,</i> HDT. <i>4, 9 ; du Sphinx,</i> EUR. <i>Ph. 1030</i>.<p><b>Étym</b>. μ. παρθένος.`

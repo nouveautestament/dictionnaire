@@ -1,0 +1,1 @@
+lar[62035]=`<b>ου (τὸ)</b> lysimachie, <i>plante,</i> DIOSC. <i>4, 3</i>.`

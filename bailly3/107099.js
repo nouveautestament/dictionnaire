@@ -1,0 +1,1 @@
+lar[107099]=`<b>α, ον</b> <font color="purple">[ῠ]</font> qui sert à protéger, à préserver, <i>gén</i>. PLAT. <i>Leg. 842d</i>.<p><b>Étym</b>. φυλάσσω.`

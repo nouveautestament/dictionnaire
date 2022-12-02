@@ -1,0 +1,1 @@
+lar[16305]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. ἄστρις ANTIPH. <i>(Bkk. 454, 32</i>).`

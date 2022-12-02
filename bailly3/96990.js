@@ -1,0 +1,1 @@
+lar[96990]=`<b>άδος (ἡ)</b> orcanette, <i>plante,</i> HPC. <i>622, 54</i>.`

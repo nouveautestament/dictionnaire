@@ -1,0 +1,1 @@
+lar[74189]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., avec disposition à souffrir, SEXT. <i>P. 2, 10</i>.`

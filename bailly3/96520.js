@@ -1,0 +1,1 @@
+lar[96520]=`<font color="purple">[ῠ]</font> agir <i>ou</i> parler en Syrien, SEXT. <i>M. 1, 314</i> ; LUC. <i>M. cond. 10</i>.<p><b>Étym</b>. Σύρος.`

@@ -1,0 +1,1 @@
+lar[109822]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite natte, PHILÉM. (PHOT. <i>p. 371, 26</i>) ; DIOSC. <i>5, 103</i>.<p><b>Étym</b>. <i>dim. de</i> ψίαθος.`

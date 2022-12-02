@@ -1,0 +1,1 @@
+lar[10065]=`<b>ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> qui lutte contre, adversaire, ATH. <i>154e.</i><br><b>      2</b> <i>c</i>. ἀξιόμαχος, APP. <i>Iber. 9</i>.<p><b>Étym</b>. ἀντιμάχομαι.`

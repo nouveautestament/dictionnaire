@@ -1,0 +1,1 @@
+lar[28420]=`<b>δυσ·επίβολος, ος, ον</b> <font color="purple">[ῠῐ]</font> difficile à atteindre, d’un abord difficile, EN. TACT. <i>Pol. c. 8</i> ; δ. πλοῦς, M. RUBR. <i>39,</i> navigation difficile.<p><b>Étym</b>. δ. ἐπιβάλλω.`

@@ -1,0 +1,1 @@
+lar[79705]=`<b>ος, ον :<br>      1</b> refroidi tout autour <i>ou</i> très froid, PLUT. <i>Æmil. 14</i>.<br><b>      2</b> <i>act</i>. qui rafraîchit, <i>d’où</i> agréable, ALCIPHR. <i>3, 59, 2</i>.<p><b>Étym</b>. περιψύχω.`

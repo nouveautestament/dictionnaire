@@ -1,0 +1,1 @@
+lar[107560]=`<b>χαλιναγωγέω-ῶ</b> <font color="purple">[ᾰῑᾰ]</font> conduire avec le frein, RHÉT. <i>1, 425 W. ; fig</i>. NT. <i>Jac. 1, 26 ; 3, 2</i> ; LUC. <i>Salt. 70 ; Tyr. 4</i>.<p><b>Étym</b>. χαλιναγωγός.`

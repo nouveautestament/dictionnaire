@@ -1,0 +1,1 @@
+lar[81434]=`<b>Ποίμ·ανδρος, ου (ὁ)</b> Pœmandros, <i>fondateur de Tanagra,</i> PLUT. <i>Qu. gr. 37, etc</i>.<p><b>Étym</b>. ποιμήν, ἀνήρ.`

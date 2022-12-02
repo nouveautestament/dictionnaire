@@ -1,0 +1,1 @@
+lar[59727]=`<b>λαμπρό·βιος, ος, ον</b>, qui vit magnifiquement, P. ALEX. <i>Apot. 24, p. 60, l. 19 Boer</i>.<p><b>Étym</b>. λαμπρός, βίος.`

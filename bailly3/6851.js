@@ -1,0 +1,1 @@
+lar[6851]=`<b>ἀν·αίρετος, ος, ον</b>, qui ne sait pas choisir (le bien) TIMON (SEXT. <i>M. 11, 164).</i><p><b>Étym</b>. ἀν-, αἱρέομαι.`

@@ -1,0 +1,1 @@
+lar[21851]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de munir d’un pont, STR. <i>59</i> ; ARR. <i>An. 5, 7, 3</i>.<p><b>Étym</b>. γεφυρόω.`

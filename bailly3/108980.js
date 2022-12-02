@@ -1,0 +1,1 @@
+lar[108980]=`<b>χρησμο·λόγος, ος, ον :<br>      1</b> qui prononce <i>ou</i> rend des oracles, HDT. <i>1, 62 ; 8, 96</i> ; SOPH. <i>fr. 960</i>.<br><b>      2</b> qui interprète <i>ou</i> explique les oracles, HDT. <i>7, 142, 143, etc</i>.<p><b>Étym</b>. χρησμός, λέγω.`

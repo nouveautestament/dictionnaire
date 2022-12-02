@@ -1,0 +1,1 @@
+lar[71107]=`<b>α, ον</b>, <i>mot tarentin c</i>. ὀλίγος, RHINTHON. (EM. <i>621, 51</i>).`

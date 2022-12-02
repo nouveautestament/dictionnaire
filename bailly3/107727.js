@@ -1,0 +1,1 @@
+lar[107727]=`<b>ου (ὁ)</b> <font color="purple">[ᾰδ]</font> le fils de Khalkôdôn, <i>càd</i>. Elphénor, IL. <i>2, 541 ; 4, 164</i>.<p><b>Étym</b>. Χαλκώδων.`

@@ -1,0 +1,1 @@
+lar[38272]=`<i>adv</i>., avec calcul, avec réflexion, CLÉM. <i>186</i>.<p><b>Étym</b>. ἐπιλογίζομαι.`

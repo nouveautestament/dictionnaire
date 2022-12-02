@@ -1,0 +1,1 @@
+lar[90976]=`<b>σκιρρόω-ῶ</b>, faire durcir, <i>d’où au pass</i>. se durcir, HPC. <i>569, 44 ; 658, 45 ; fig</i>. prendre de la consistance, SOPHR. <i>fr. 36 Ahrens</i>.<p><b>Étym</b>. σκιρρός.`

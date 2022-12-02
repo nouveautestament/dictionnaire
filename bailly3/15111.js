@@ -1,0 +1,1 @@
+lar[15111]=`<b>ἀρρενογονέω-ῶ</b> (<i>seul. prés</i>.) mettre au monde des enfants <i>ou</i> des produits mâles, TH. <i>H.P. 9, 18, 5</i>.<p><b>Étym</b>. ἀρρενογόνος.`

@@ -1,0 +1,1 @@
+lar[8724]=`<b>ἀν·ήνυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> inachevé, sans fin, SOPH. <i>El. 167</i>.<br><b>      2</b> <i>p. suite,</i> sans effet, sans résultat, PLAT. <i>Phæd. 84a, etc</i>.<p>➳ <i>Dor</i>. ἀνάνυτα <font color="purple">[νᾱ]</font> <i>adv</i>., THCR. <i>Idyl. 15, 87</i>.<p><b>Étym</b>. ἀν-, ἀνύω.`

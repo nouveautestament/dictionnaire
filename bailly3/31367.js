@@ -1,0 +1,1 @@
+lar[31367]=`<b>ἑκκαιδεκά·δωρος, ος, ον</b> <font color="purple">[ᾰ]</font> long de seize palmes, IL. <i>4, 109</i>.<p><b>Étym</b>. ἑ. δῶρον.`

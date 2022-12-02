@@ -1,0 +1,1 @@
+lar[50288]=`<b>καθ·αρμόζω</b> <font color="darkgreen">(<i>ao</i>. καθήρμοσα)</font> <font color="purple">[κᾰ]</font> arranger, adapter, ajuster : τι, HDT. <i>2, 121, 2,</i> qqe ch. ; βρόχον δέρᾳ, EUR. <i>Hipp. 771,</i> un lacet à son cou (pour se pendre) ; πλόκαμον ὑπὸ μίτρᾳ, EUR. <i>Bacch. 929,</i> une boucle de cheveux sous une mitre.<p><b>Étym</b>. κατά, ἁρμόζω.`

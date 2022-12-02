@@ -1,0 +1,1 @@
+lar[99231]=`<b>ητος (ἡ)</b> <font color="purple">[τῑ]</font> haut prix, valeur, mérite, ARSTT. <i>G.A. 2, 3, 11 ; joint à</i> δύναμις, ARSTT. <i>Nic. 10, 7, 8</i>.<p><b>Étym</b>. τίμιος.`

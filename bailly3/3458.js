@@ -1,0 +1,1 @@
+lar[3458]=`<b>ἀ·κμής, ῆτος</b> (ὁ, ἡ, τὸ) :<br><b>      1</b> non fatigué, frais, IL. <i>11, 802, etc.</i> ; PLUT. <i>Cim. 13</i> ; LUC. <i>Herm. 40</i> ; ARR. <i>An. 5, 16, 2, etc.</i><br><b>      2</b> inébranlable, ANTH. <i>9, 526</i>.<p>➳ <i>Neutre,</i> PAUS. <i>6, 15, 5</i>.<p><b>Étym</b>. ἀ, κάμνω.`

@@ -1,0 +1,1 @@
+lar[11635]=`<b>ἀπ·εκλούω</b>, nettoyer en lavant, DIOSC. <i>1, 131</i>.`

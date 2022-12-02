@@ -1,0 +1,1 @@
+lar[51670]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κάπρος, AR. <i>fr. 421</i>.`

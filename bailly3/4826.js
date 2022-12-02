@@ -1,0 +1,1 @@
+lar[4826]=`<b>ἀλλοτριο·φρονέω-ῶ</b>, avoir des sentiments hostiles, DS. <i>17, 4</i>.<p><b>Étym</b>. ἀ. φρονέω.`

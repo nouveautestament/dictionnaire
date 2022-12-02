@@ -1,0 +1,1 @@
+lar[90498]=`<b>σιτη·βόρος, ος, ον</b> <font color="purple">[ῑ]</font> qui se nourrit de blé, NIC. <i>Al. 115</i>.<p><b>Étym</b>. σῖτος, βιβρώσκω.`

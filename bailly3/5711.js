@@ -1,0 +1,1 @@
+lar[5711]=`<b>οῦ (ὁ, ἡ)</b> agneau, AR. <i>Av. 1559, etc. ; dans les Livres saints, en parl. de J.-C. l’agneau sans tache,</i> NT. <i>Ap. 8, 33 ; Joh. 1, 29, 36 ; 1Petr. 1, 19</i> ; ἡ ἀ. agneau femelle, agnelle, THCR. <i>Idyl. 5, 144, etc.</i> ; ANTH. <i>5, 205</i>.`

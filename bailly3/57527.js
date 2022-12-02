@@ -1,0 +1,1 @@
+lar[57527]=`<b>ου (ὁ)</b> criard, POLÉM. <i>Physiogn. 1, 11</i>.<p><b>Étym</b>. κράζω.`

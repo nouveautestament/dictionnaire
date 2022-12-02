@@ -1,0 +1,1 @@
+lar[43347]=`<b>εὐρύ·τρυπος, ος, ον</b> <font color="purple">[ῠπ]</font> largement troué, DEMOCR. (TH. <i>Sens. 73).</i><p><b>Étym</b>. εὐ. τρυπάω.`

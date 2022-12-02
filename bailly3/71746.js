@@ -1,0 +1,1 @@
+lar[71746]=`<b>ὁμο·φραδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui parle <i>ou</i> pense de même, qui est d’accord, NONN. <i>Jo. 4, 40</i>.<p><b>Étym</b>. ὁμ. φράζω.`

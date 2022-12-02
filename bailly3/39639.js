@@ -1,0 +1,1 @@
+lar[39639]=`<b>οῦ (ὁ)</b> illumination, PLUT. <i>M. 936b</i>.<p><b>Étym</b>. ἐπιφωτίζω.`

@@ -1,0 +1,1 @@
+lar[4666]=`<b>Ἀλκι·σθένης, ους (ὁ)</b> Alkisthénès, <i>h</i>. THC. <i>3, 91</i>.<p>➳ <i>Acc</i>. -ην, AND. <i>1, 35 Baiter-Sauppe</i> ; DH. <i>Lys. 12</i> ; -η, ATH. <i>541a</i>.<p><b>Étym</b>. ἀλκή, σθένος.`

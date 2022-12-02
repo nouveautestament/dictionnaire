@@ -1,0 +1,1 @@
+lar[29077]=`<b>δωδεκα·δάκτυλος, ος, ον</b> <font color="purple">[κᾰῠ]</font><br><b>      1</b> de douze doigts, APD. POL. <i>34</i>.<br><b>      2</b> ἡ δ. <i>avec ou sans</i> ἔκφυσις, le duodénum, <i>intestin,</i> HÉROPHIL. (GAL. <i>7, 511</i>) ; GAL. <i>4, 173</i>.<p><b>Étym</b>. δ. δάκτυλος.`

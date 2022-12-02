@@ -1,0 +1,1 @@
+lar[13400]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> défection, abandon d’un parti, DH. <i>7, 1</i> ; PLUT. <i>Galb. 1 ; particul</i>. apostasie, SPT. <i>3Reg. 21, 13, etc</i>.<p><b>Étym</b>. ἀφίστημι.`

@@ -1,0 +1,1 @@
+lar[8489]=`<b>ἀν·επίστατος, ος, ον</b> <font color="purple">[τᾰ]</font> inattentif, négligent, POL. <i>5, 34, 4</i> ; SEXT. <i>112, 18 Bkk.</i> ; τινος, PORPH. <i>Abst. 1, 9,</i> inattentif à qqe ch.<p><b>Étym</b>. ἀν-, ἐφίστημι.`

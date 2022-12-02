@@ -1,0 +1,1 @@
+lar[6877]=`<b>ἀνα·καγχάζω</b>, éclater de rire, PLAT. <i>Rsp. 357a, Euthyd. 300d ;</i> PLUT. <i>Ant. 20, etc</i>.`

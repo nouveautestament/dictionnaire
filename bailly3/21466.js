@@ -1,0 +1,1 @@
+lar[21466]=`<b>ατος (τὸ)</b> <font color="purple">[ᾱμ]</font> orgueil, arrogance, PLUT. <i>Æmil. 27 ; Ant. 2</i> ; SPT. <i>Judith 10, 8, etc</i>.<p><b>Étym</b>. γαυριάω.`

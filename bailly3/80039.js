@@ -1,0 +1,1 @@
+lar[80039]=`<b>οῦ (τὸ) :<br>      1</b> partie plate de la rame, OD. <i>7, 328 ; 13, 78</i>.<br><b>      2</b> <i>au plur</i>. gouvernail, ARAT. <i>155</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *ped-, pied, <i>cf</i>. πηδάω.`

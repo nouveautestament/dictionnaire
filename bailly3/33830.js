@@ -1,0 +1,1 @@
+lar[33830]=`<i>mieux que</i> <b>ἐννακόσιοι, αι, α</b>, neuf cents, THC. <i>1, 46</i>.<p>➳ <i>Sur l’orthographe</i> ἐνακόσ- <i>v. Meisterh. p. 125, 6</i>.`

@@ -1,0 +1,1 @@
+lar[37232]=`<b>ἐπ·ηγ·κενίδες, ων (αἱ)</b> voliges qui forment le plancher du gaillard dans un navire, OD. <i>5, 253</i>.<p><b>Étym</b>. ἐπί, ἐνεγκεῖν.`

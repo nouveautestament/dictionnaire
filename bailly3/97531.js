@@ -1,0 +1,1 @@
+lar[97531]=`<b>ή, όν</b> <font color="purple">[ᾰλ]</font> de Tantale, MAN. <i>5, 187</i>.<p><b>Étym</b>. Τάνταλος.`

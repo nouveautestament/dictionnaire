@@ -1,0 +1,1 @@
+lar[4919]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> qui sert à graisser, LYC. <i>579</i>.<p><b>Étym</b>. ἀλοιφή.`

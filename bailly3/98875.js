@@ -1,0 +1,1 @@
+lar[98875]=`<b>τεχνόω-ῶ</b>, enseigner un art, GAL. <i>De Constit. art. med. 1, 227</i>.<p><b>Étym</b>. τέχνη.`

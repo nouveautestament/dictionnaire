@@ -1,0 +1,1 @@
+lar[32657]=`<b>ἑλειο·νόμος, ος, ον</b>, qui vit (<i>litt</i>. qui paît) dans les marais <i>ou</i> les marécages, <i>en parl. de nymphes,</i> A.RH. <i>2, 821 ; d’herbe,</i> ORPH. <i>Arg. 1052</i>.<p><b>Étym</b>. ἕλειος, νέμω.`

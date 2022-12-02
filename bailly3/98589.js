@@ -1,0 +1,1 @@
+lar[98589]=`<b>τετρα·κόρυμβος, ος, ον</b> <font color="purple">[ᾰ]</font> à quatre grappes, ANTH. <i>7, 23</i>.<p><b>Étym</b>. τ. κόρυμβος.`

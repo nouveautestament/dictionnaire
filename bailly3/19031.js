@@ -1,0 +1,1 @@
+lar[19031]=`<b>ου (ὁ)</b> <i>transcript. du n. d’h. rom</i>. Bandius, PLUT. <i>Marc. 10</i>.`

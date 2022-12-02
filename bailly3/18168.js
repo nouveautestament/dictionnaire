@@ -1,0 +1,1 @@
+lar[18168]=`<b>ἀ·φοίνικτος, ος, ον</b>, non teint en pourpre, A. TAT. <i>3, 7</i>.<p><b>Étym</b>. ἀ, φοινίσσω.`

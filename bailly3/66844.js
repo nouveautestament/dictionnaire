@@ -1,0 +1,1 @@
+lar[66844]=`<b>ου (ὁ)</b> = <i>lat</i>. Mundus :<br><b>      1</b> <i>n. d’h. rom</i>. ANTH. <i>9, 103</i>.<br><b>      2</b> <i>tombeau à Rome,</i> PLUT. <i>Rom. 11</i>.`

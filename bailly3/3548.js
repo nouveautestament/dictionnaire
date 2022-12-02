@@ -1,0 +1,1 @@
+lar[3548]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰκ]</font><br><b>      1</b> portée du trait, XÉN. <i>Hell. 4, 4, 16</i>.<br><b>      2</b> javelot lancé <i>ou</i> fixé dans un corps, PLUT. <i>Alex. 43, etc.</i><br><b>      3</b> <i>plur</i>. corps de soldats armés de javelots, PLUT. <i>Pyrrh. 21</i>.<p><b>Étym</b>. ἀκοντίζω.`

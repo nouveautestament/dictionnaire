@@ -1,0 +1,1 @@
+lar[28181]=`<b>δυσ·ανασκεύαστος, ος, ον</b> <font color="purple">[ῠᾰν]</font> qui se rétablit difficilement, A. TR. <i>12, 776</i>.<p><b>Étym</b>. δ. ἀνασκευάζω.`

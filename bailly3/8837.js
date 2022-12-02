@@ -1,0 +1,1 @@
+lar[8837]=`<b>ου (ὁ)</b> serran, <i>poisson de mer,</i> ARSTT. <i>H.A. 9, 37, 6 etc</i>.`

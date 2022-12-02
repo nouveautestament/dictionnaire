@@ -1,0 +1,1 @@
+lar[77611]=`<b>Πειθό·λας (ὁ)</b> Peitholas, <i>h</i>. DÉM. <i>59, 91 Baiter-Sauppe</i>.<p><b>Étym</b>. <i>contract. de</i> Πειθόλαος.`

@@ -1,0 +1,1 @@
+lar[34991]=`<b>ἐν·σχολάζω</b>, se reposer dans, ARSTT. <i>Pol. 7, 12, 7</i> ; THÉM. <i>39b ; dat</i>. PHIL. <i>1, 358 ; fig</i>. τινί, CIC. <i>Att. 7, 11, 2,</i> se reposer en qqn, trouver une consolation en qqn.`

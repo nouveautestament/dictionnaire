@@ -1,0 +1,1 @@
+lar[39305]=`<b>ἐπι·σωματόομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> prendre du corps, se développer, DIOSC. <i>5, 84</i>.<p><b>Étym</b>. ἐπί, σῶμα.`

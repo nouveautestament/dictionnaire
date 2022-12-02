@@ -1,0 +1,1 @@
+lar[19445]=`<font color="purple">[ᾱ]</font> <i>v</i>. βαίνω <i>fin</i>.`

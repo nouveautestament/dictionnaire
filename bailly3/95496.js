@@ -1,0 +1,1 @@
+lar[95496]=`<b>συν·εξαλλάσσω</b>, <i>att</i>. <b>-άττω</b>, changer en même temps, NYSS.`

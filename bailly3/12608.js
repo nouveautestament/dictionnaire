@@ -1,0 +1,1 @@
+lar[12608]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> incliné, qui est en pente, PLUT. <i>M. 273d</i>.<p><b>Étym</b>. ἀποκλίνω.`

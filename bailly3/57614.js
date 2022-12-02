@@ -1,0 +1,1 @@
+lar[57614]=`<b>κραταί·πιλος, ος, ον</b> <font color="purple">[ᾰῑ]</font> à la chevelure vigoureuse <i>ou</i> abondante, ESCHL. <i>(Bkk. p. 1391).</i><p><b>Étym</b>. κραταιός, πῖλος.`

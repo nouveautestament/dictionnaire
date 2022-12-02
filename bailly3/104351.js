@@ -1,0 +1,1 @@
+lar[104351]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> guéable, DS. <i>Exc. 508, 49</i>.<p><b>Étym</b>. ὕφαλος, -ωδης.`

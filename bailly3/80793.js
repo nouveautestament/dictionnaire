@@ -1,0 +1,1 @@
+lar[80793]=`<b>πλατύ·φυλλος, ος, ον</b> <font color="purple">[ᾰτῠ]</font> à larges feuilles, ARSTT. <i>An. post. 2, 16, 2</i> ; TH. <i>H.P. 3, 8, 2</i>.<p>•<i> Cp</i>. πλατυφυλλότερος, TH. <i>C.P. 5, 7, 2</i>.<p><b>Étym</b>. πλ. φύλλον.`

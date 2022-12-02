@@ -1,0 +1,1 @@
+lar[104482]=`<b>ὑψί·γυιος, ος, ον</b> <font color="purple">[ῐ]</font> dont les membres se dressent, aux membres élancés, <i>ép. d’une forêt,</i> PD. <i>O. 5, 30</i>.<p><b>Étym</b>. ὕ. γυῖον.`

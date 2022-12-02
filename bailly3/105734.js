@@ -1,0 +1,1 @@
+lar[105734]=`<b>φιλο·γύναιος, ος, ον</b> <font color="purple">[ῐῠ]</font> <i>c</i>. φιλογύνης, ARSTT. <i>Physiogn. 3, 14</i> ; ATH. <i>605a, etc</i>.`

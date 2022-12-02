@@ -1,0 +1,1 @@
+lar[83345]=`<i>adj. f</i>. âgée, vieille, ES. <i>21, p. 15 Korais</i>.<p><b>Étym</b>. πρέσβυς.`

@@ -1,0 +1,1 @@
+lar[74691]=`<b>Παμ·βωτάδης, ου</b>, <i>adj. m</i>. habitant <i>ou</i> originaire du dème de la tribu Érekhthéide Pambôtadès, DÉM. <i>53, 13 Baiter-Sauppe</i>.<p><b>Étym</b>. π. βόσκω.`

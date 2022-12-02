@@ -1,0 +1,1 @@
+lar[61676]=`<b>ων (οἱ)</b> les prêtres qui célèbrent les Lupercales <i>à Rome,</i> PLUT. <i>Rom. 21, etc</i>.<p><b>Étym</b>. <i>v</i>. Λουπερκάλια.`

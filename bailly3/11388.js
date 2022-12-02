@@ -1,0 +1,1 @@
+lar[11388]=`<b>ής, ές</b> <font color="purple">[ᾰᾰῑ]</font> de gratteron, NIC. <i>Th. 953</i>.<p><b>Étym</b>. ἀπαρίνη.`

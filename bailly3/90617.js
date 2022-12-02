@@ -1,0 +1,1 @@
+lar[90617]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> inégalité, PLUT. <i>M. 697a</i>.<p><b>Étym</b>. σκαληνός.`

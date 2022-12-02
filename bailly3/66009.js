@@ -1,0 +1,1 @@
+lar[66009]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> ALCIPHR. <i>1, 36, 37</i>.<p><b>Étym</b>. <i>dim. de</i> μίσθωμα.`

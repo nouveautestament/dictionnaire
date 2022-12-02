@@ -1,0 +1,1 @@
+lar[103385]=`<b>ὑπο·κνάω-ῶ</b>, se consumer (<i>litt</i>. se ronger <i>ou</i> se gratter intérieurement) TRIPHIOD. <i>42</i>.`

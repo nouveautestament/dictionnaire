@@ -1,0 +1,1 @@
+lar[68757]=`<b>Νικο·γένης, ους (ὁ)</b> <font color="purple">[ῑ]</font> Nikogénès, <i>h</i>. PLUT. <i>Them. 26, 28</i>.<p><b>Étym</b>. νικάω, γένος.`

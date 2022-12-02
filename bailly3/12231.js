@@ -1,0 +1,1 @@
+lar[12231]=`<b>ἀπο·δασμός, οῦ (ὁ) :<br>      1</b> partage, part attribuée à qqn, portion, DH. <i>3, 6</i>.<br><b>      2</b> <i>p. suite,</i> partie détachée d’un tout, partie, fraction <i>ou</i> rameau (d’un peuple) THC. <i>1, 12</i>.<p><b>Étym</b>. ἀποδαίομαι.`

@@ -1,0 +1,1 @@
+lar[1282]=`<b>ἀδημονέω-ῶ</b> (<i>seul. prés. et ao., inf. et partic</i>.) se tourmenter, HPC. <i>563, 5</i> ; PLAT. <i>Theæt. 175d, etc.</i> ; ἀδημονῆσαι τὰς ψυχάς, XÉN. <i>Hell. 4, 4, 3,</i> avoir l’âme inquiète ; ἀδημονεῖν τινι <i>ou</i> ὑπό τινος, PLAT. <i>Phædr. 251d, etc.</i> ; ἐπί τινι, DH. <i>3, 70,</i> être inquiet de qqe ch.<p><b>Étym</b>. <i>inconnue</i>.`

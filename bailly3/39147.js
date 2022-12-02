@@ -1,0 +1,1 @@
+lar[39147]=`<b>έως (ὁ)</b> commandant en second d’une escadre, vice-amiral, <i>à Lacédémone,</i> XÉN. <i>Hell. 1, 1, 23 ; 2, 1, 7 ; 4, 8, 11</i> ; PLUT. <i>Lys. 7</i>.<p><b>Étym</b>. ἐπιστέλλω.`

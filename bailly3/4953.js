@@ -1,0 +1,1 @@
+lar[4953]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. τέχνη, commerce de pourpre, IS. (HARP.).<p><b>Étym</b>. ἁλουργοπώλης.`

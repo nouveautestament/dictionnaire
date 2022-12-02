@@ -1,0 +1,1 @@
+lar[28122]=`<b>(ὁ)</b> Dyris, <i>n. d’un vent chez les Pamphyliens,</i> TH. <i>Vent. 53</i>.`

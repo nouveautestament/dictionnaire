@@ -1,0 +1,1 @@
+lar[26865]=`<b>δι·ορρόω-ῶ</b>, rendre séreux, <i>d’où au pass</i>. se tourner en sérosité, devenir séreux, <i>en parl. du sang,</i> ARSTT. <i>H.A. 3, 19, 8 ; du lait, ibid. 3, 20, 7</i>.`

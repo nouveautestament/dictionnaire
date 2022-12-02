@@ -1,0 +1,1 @@
+lar[41725]=`<b>έως (ὁ)</b> bon conseiller, <i>ép. de plusieurs dieux (Zeus, Hadès, Bacchus, etc</i>.) DS. <i>5, 72</i> ; NIC. <i>Al. 14</i> ; ORPH. <i>H. 29, 6</i>.<p>➳ <i>Acc</i>. εὐβουλῆ, PLUT. <i>M. 714c</i>.<p><b>Étym</b>. εὔβουλος.`

@@ -1,0 +1,1 @@
+lar[50760]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῐσ]</font> jugement illégal <i>ou</i> inique, POL. <i>12, 24, 6</i> ; ANTH. <i>7, 236</i>.<p><b>Étym</b>. κακόκριτος.`

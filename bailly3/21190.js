@@ -1,0 +1,1 @@
+lar[21190]=`<font color="purple">[γᾰ]</font><br><b>      1</b> être blanc comme du lait, DIOSC. <i>2, 174 et 206</i>.<br><b>      2</b> téter ; <i>au pass</i>. être tété, PHIL. <i>1, 660</i>.<p><b>Étym</b>. γάλα.`

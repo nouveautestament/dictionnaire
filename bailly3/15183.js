@@ -1,0 +1,1 @@
+lar[15183]=`<b>ἀρρυθμο·πότης, ου (ὁ)</b> qui boit sans mesure, TIMON (ATH. <i>445e</i>).<p><b>Étym</b>. ἄρρυθμος, πίνω.`

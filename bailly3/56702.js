@@ -1,0 +1,1 @@
+lar[56702]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> <i>c</i>. κολοσσιαῖος STR. <i>13</i> ; DS. <i>1, 46 ; 2, 34</i> ; PLUT. <i>M. 780a</i>.`

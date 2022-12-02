@@ -1,0 +1,1 @@
+lar[19167]=`<b>βαρυμηνιάω-ῶ</b>, éprouver un grave ressentiment, HLD. <i>1, 15</i>.<p><b>Étym</b>. βαρύμηνις.`

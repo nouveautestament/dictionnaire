@@ -1,0 +1,1 @@
+lar[1370]=`<i>adv</i>., sans perversion, SEXT. <i>690 Bkk.</i> ; CLÉM. <i>1, 425 Migne</i>.`

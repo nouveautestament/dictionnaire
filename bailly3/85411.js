@@ -1,0 +1,1 @@
+lar[85411]=`<b>προσ·διανέμω</b>, partager en outre, PLUT. <i>Cato ma. 10</i>.<br><b><i>Moy.</i></b> se partager en outre (qqe ch.) DÉM. <i>393, 26</i> ; PLUT. <i>Demetr. 30</i>.`

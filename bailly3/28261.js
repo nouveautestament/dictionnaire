@@ -1,0 +1,1 @@
+lar[28261]=`<b>δυσ·βουλία, ας (ἡ)</b> mauvais conseil, résolution funeste, ESCHL. <i>Ag. 1609</i> ; SOPH. <i>Ant. 95</i> ; AR. <i>Nub. 587 ; au plur</i>. SOPH. <i>Ant. 1269</i>.<p><b>Étym</b>. δ. βουλή.`

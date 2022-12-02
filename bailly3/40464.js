@@ -1,0 +1,1 @@
+lar[40464]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> pollinisation des figues par la caprification, TH. <i>C.P. 2, 9, 5</i>.<p><b>Étym</b>. ἐρινάζω.`

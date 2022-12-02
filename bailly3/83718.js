@@ -1,0 +1,1 @@
+lar[83718]=`<b>οῦ (ὁ)</b> qui combat au premier rang avec un bouclier, DH. <i>3, 14</i>.<p><b>Étym</b>. προασπίζω.`

@@ -1,0 +1,1 @@
+lar[4753]=`<b>ἀλληλό·φιλος, ος, ον</b> <font color="purple">[ῐ]</font> qui s’aiment mutuellement, GEOP. <i>20, 6, 1</i> (<i>v</i>. ἀλληλοτρόφος).<p><b>Étym</b>. ἀ. φίλος.`

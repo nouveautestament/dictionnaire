@@ -1,0 +1,1 @@
+lar[75510]=`<b>παρα·διαζεύγνυμι</b> <font color="purple">[ῡ]</font> faire une disjonction vicieuse, <i>t. de gr. ou de rhét</i>. A. GELL. <i>16, 8</i>.`

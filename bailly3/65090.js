@@ -1,0 +1,1 @@
+lar[65090]=`<b>ου (ὁ)</b> = <i>lat</i>. Metellus, <i>n. d’h. rom</i>. PLUT. <i>Syll. 31, Mar. 4, Pomp. 2, etc. ; plur</i>. Μέτελλοι, PLUT. <i>Cor. 11,</i> les Métellus ; <i>duel</i> Μετέλλω, APP. <i>Civ. 4, 22,</i> les deux Métellus.`

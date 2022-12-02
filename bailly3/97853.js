@@ -1,0 +1,1 @@
+lar[97853]=`creuser une fosse, XÉN. <i>Hell. 5, 2, 4</i> ; PLAT. <i>Leg. 760e, etc.</i> ; ESCHN. <i>87, 29</i>.<p><b>Étym</b>. τάφρος.`

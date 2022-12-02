@@ -1,0 +1,1 @@
+lar[73980]=`<b>ὀψ·αρτύω</b>, apprêter les mets, faire la cuisine, POL. <i>12, 24, 2</i> ; ATH. <i>18a</i>.<p><b>Étym</b>. ὄψον, ἀρτύω.`

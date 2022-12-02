@@ -1,0 +1,1 @@
+lar[101194]=`<b>τυφο·γέρων, οντος (ὁ)</b> vieil imbécile (<i>litt</i>. vieillard dont l’esprit est émoussé) AR. <i>Nub. 908, Lys. 335</i>.<p><b>Étym</b>. τῦφος, γέρων.`

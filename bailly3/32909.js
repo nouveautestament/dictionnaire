@@ -1,0 +1,1 @@
+lar[32909]=`<b>Ἑλλανοδικέω-ῶ</b> <font color="purple">[ᾱῐ]</font> exercer la fonction d’hellanodice, PAUS. <i>6, 1, 5</i>.<p><b>Étym</b>. Ἑλλανοδίκης.`

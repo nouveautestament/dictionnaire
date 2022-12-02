@@ -1,0 +1,1 @@
+lar[61067]=`<b>ας (ἡ)</b> collection de pierres, AQU. <i>Ps. 78, 1</i>.<p><b>Étym</b>. λιθολόγος.`

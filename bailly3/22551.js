@@ -1,0 +1,1 @@
+lar[22551]=`<b>ας (ἡ)</b> Græa :<br><b>      1</b> <i>v. de Béotie, sur la côte (postér</i>. Tanagra), IL. <i>2, 498</i> ; Γραίης (<i>ion</i>.) ἄστυ, NONN. <i>D. 13, 77, m. sign.</i><br><b>      2</b> <i>n. de f</i>. COR. (PAUS. <i>9, 20, 2</i>).`

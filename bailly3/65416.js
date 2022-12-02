@@ -1,0 +1,1 @@
+lar[65416]=`<b>ου (ὁ)</b> sorte de corset (<i>litt</i>. qui contient les seins) ANTH. <i>6, 211</i>.<p><b>Étym</b>. μῆλον², ἔχω.`

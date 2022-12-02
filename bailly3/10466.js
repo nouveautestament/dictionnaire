@@ -1,0 +1,1 @@
+lar[10466]=`<b>ἀντι·σφαιρίζω</b> (<i>part. fut. att</i>. ιῶν) jouer à la balle contre qqn, XÉN. <i>Lac. 9, 5</i>.`

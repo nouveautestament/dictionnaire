@@ -1,0 +1,1 @@
+lar[14775]=`<b>(ἡ)</b> <i>autre n. de la plante</i> λινόζωστις, DIOSC. <i>4, 188</i>.`

@@ -1,0 +1,1 @@
+lar[2119]=`<i>ou</i> <b>Ἀθύρ</b>, Athyr, <i>mois égyptien correspondant au Pyanepsiôn athénien,</i> ANTH. <i>9, 383</i> ; PLUT. <i>M. 356d, 366d, 378e</i>.<p>➳ Ἀθύρ, ANTH. <i>App. 392</i>.`

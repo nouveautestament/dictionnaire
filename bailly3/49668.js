@@ -1,0 +1,1 @@
+lar[49668]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> période composée de membres égaux, HERMOG. <i>Rhet. 287, 20</i>.<p><b>Étym</b>. ἰσόκωλος.`

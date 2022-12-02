@@ -1,0 +1,1 @@
+lar[20706]=`<b>βραχύ·νωτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui a le dos court <i>ou</i> petit, ORACL. (STR. <i>262</i>) ; RUF. (ORIB. <i>2, 93 B.-Dar</i>.).<p><b>Étym</b>. βρ. νῶτος.`

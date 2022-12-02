@@ -1,0 +1,1 @@
+lar[63903]=`<b>μελαν·όφθαλμος, ος, ον</b> <font color="purple">[ᾰν]</font> aux yeux noirs, HPC. <i>Epid. 1, 955</i> ; ARSTT. <i>G.A. 5, 1, 17</i> ; GEOP. <i>17, 2, 1</i>.<p><b>Étym</b>. μ. ὀφθαλμός.`

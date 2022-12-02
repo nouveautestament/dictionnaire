@@ -1,0 +1,1 @@
+lar[21773]=`<b>γερασ·φόρος, ος, ον</b>, qui obtient un honneur, PD. <i>P. 2, 43</i>.<p><b>Étym</b>. γέρας, φέρω.`

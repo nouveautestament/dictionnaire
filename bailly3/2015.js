@@ -1,0 +1,1 @@
+lar[2015]=`<b>ἀ·θηλής, ής, ές</b>, qui n’allaite pas, TRIPHIOD. <i>34</i> ; NONN. <i>D. 48, 361</i>.<p><b>Étym</b>. ἀ, θήλη.`

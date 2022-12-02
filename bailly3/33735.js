@@ -1,0 +1,1 @@
+lar[33735]=`<b>ἐμ·φυσιόω-ῶ</b> <font color="purple">[ῠ]</font> faire naître dans, <i>dat</i>. HPC. <i>Lex. 2, 19</i> ; XÉN. <i>Lac. 3, 4</i>.<p><b>Étym</b>. ἐν, φύσις.`

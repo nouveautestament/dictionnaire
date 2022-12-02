@@ -1,0 +1,1 @@
+lar[83084]=`<b>ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. grande buveuse, EPICRAT. <i>3, 365 Meineke</i> ; PLAT. COM. <i>2-2, 685 Mein</i>.<p><b>Étym</b>. <i>fém. de</i> πότης.`

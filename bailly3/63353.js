@@ -1,0 +1,1 @@
+lar[63353]=`<font color="purple">[ᾰ]</font> <i>adv</i>., dans une grande gloire, SPT. <i>3Macc. 6, 39</i>.`

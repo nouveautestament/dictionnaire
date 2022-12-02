@@ -1,0 +1,1 @@
+lar[55761]=`<b>κλασ·αυχενεύομαι</b> <font color="purple">[ᾰ]</font> pencher la tête (<i>propr</i>. le cou) avec affectation, ARCHIPP. COM. (PLUT. <i>Alc. 1).</i><p><b>Étym</b>. κλάω, αὐχήν.`

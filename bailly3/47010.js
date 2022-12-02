@@ -1,0 +1,1 @@
+lar[47010]=`<b>θεσμο·ποιέω-ῶ</b>, faire des lois, donner des lois, EUR. <i>Ph. 1645</i>.<p><b>Étym</b>. θ. ποιέω.`

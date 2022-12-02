@@ -1,0 +1,1 @@
+lar[5562]=`<b>ἀ·μηχανής, ής, ές</b> <font color="purple">[χᾰ]</font> <i>c</i>. ἀμήχανος, HH. <i>Merc. 447 dout</i>.`

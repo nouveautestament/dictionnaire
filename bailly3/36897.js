@@ -1,0 +1,1 @@
+lar[36897]=`<b>ἐπ·άχνυμαι</b> <font color="purple">[ῠ]</font> (<i>seul. part. prés</i>.) s’affliger de, <i>dat</i>. TRIPHIOD. <i>424</i>.`

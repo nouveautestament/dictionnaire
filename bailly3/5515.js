@@ -1,0 +1,1 @@
+lar[5515]=`<b>ας (ἡ)</b> immutabilité, PTOL. <i>Tetr. 16</i>.<p><b>Étym</b>. ἀμετάτρεπτος.`

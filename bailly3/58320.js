@@ -1,0 +1,1 @@
+lar[58320]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de la grosseur d’une fève, LUC. <i>Herm. 40</i> ; GAL. <i>14, 468</i>.<p><b>Étym</b>. κύαμος.`

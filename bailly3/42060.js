@@ -1,0 +1,1 @@
+lar[42060]=`<b>ῶν (οἱ)</b> habitants d’Euespérides, HDT. <i>4, 198</i> ; THC. <i>7, 50, etc</i>.<p><b>Étym</b>. <i>v</i>. Εὐεσπερίδες.`

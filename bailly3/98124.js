@@ -1,0 +1,1 @@
+lar[98124]=`<b>τελειογονέω-ῶ</b>, enfanter à terme, produire en parfaite maturité, TH. <i>C.P. 1, 11, 3 ; 3, 18, 1 ; au pass</i>. PHIL.<p><b>Étym</b>. τελειογόνος.`

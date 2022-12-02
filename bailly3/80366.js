@@ -1,0 +1,1 @@
+lar[80366]=`<b>πιννο·τήρης</b> <i>ou</i> <b>πινο·τήρης, ου (ὁ)</b> pinnotère, <i>petit crabe qui vit dans l’écaille de la nacre,</i> ARSTT. <i>H.A. 5, 15, 17</i> ; CHRYSIPP. (ATH. <i>89d</i>) ; PLUT. <i>M. 980b ; fig. sobriquet de parasite,</i> SOPH. <i>fr. 116</i> ; AR. <i>Vesp. 1510</i>.<p><b>Étym</b>. πίννα, τηρέω.`

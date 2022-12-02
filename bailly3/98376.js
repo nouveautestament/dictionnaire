@@ -1,0 +1,1 @@
+lar[98376]=`<b>      1</b> être mangé des vers, être vermoulu, DIOSC. <i>1, 1</i>.<br><b>      2</b> être carié, ORIB. <i>p. 19</i>.<p><b>Étym</b>. τερηδών.`

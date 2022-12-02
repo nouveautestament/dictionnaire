@@ -1,0 +1,1 @@
+lar[103714]=`<b>ὑπο·πονέω-ῶ</b>, souffrir un peu, HPC. <i>Epid. 3, 1089</i>.`

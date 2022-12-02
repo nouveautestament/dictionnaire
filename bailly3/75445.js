@@ -1,0 +1,1 @@
+lar[75445]=`<b>παρ·αγκωνίζω</b>, repousser du coude, CLÉARQ. (ATH. <i>258a</i>).<br><b><i>Moy.</i></b> :<br><b>      1</b> repousser du coude, LUC. <i>Tim. 54 ; d’où</i> repousser, écarter, STR. <i>229</i>.<br><b>      2</b> former un coude, un repli, HLD. <i>5, 20</i>.<p><b>Étym</b>. π. ἀγκών.`

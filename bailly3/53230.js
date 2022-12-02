@@ -1,0 +1,1 @@
+lar[53230]=`<b>κατα·ρρᾳθυμέω-ῶ</b> <font color="purple">[ρᾱῡ]</font><br><b>      1 <i>tr.</i></b> perdre <i>ou</i> compromettre par sa négligence, XÉN. <i>Hell. 6, 2, 39 ; au pass</i>. DÉM. <i>42, 14</i>.<br><b>      2 <i>intr.</i></b> être négligent, paresseux, DÉM. <i>765, 13</i>.`

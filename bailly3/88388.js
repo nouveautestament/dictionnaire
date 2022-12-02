@@ -1,0 +1,1 @@
+lar[88388]=`<b>ου (τὸ)</b> = <i>lat</i>. Remonium, <i>lieu de Rome sur le mt Aventin,</i> PLUT. <i>Rom. 9</i>.`

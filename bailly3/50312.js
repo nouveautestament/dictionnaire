@@ -1,0 +1,1 @@
+lar[50312]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit siège, ORIB. <i>p. 236 Matthäi</i>.<p><b>Étym</b>. <i>dim. de</i> καθέδρα.`

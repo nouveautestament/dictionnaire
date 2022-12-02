@@ -1,0 +1,1 @@
+lar[101395]=`<b>ὑγρο·βόλος, ος, ον</b>, qui jette <i>ou</i> répand de l’humidité, EUR. <i>fr. 836, 3</i>.<p><b>Étym</b>. ὑ. βάλλω.`

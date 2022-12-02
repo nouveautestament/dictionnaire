@@ -1,0 +1,1 @@
+lar[65289]=`<b>ας (ἡ)</b> Médie (<i>auj</i>. Azerbaïdjan, Irak-Adjémi, Gilan <i>et une partie de</i> Mazandéran), <i>contrée de Perse,</i> XÉN. <i>Cyr. 6, 1, 27, etc.</i> ; Μηδίας τεῖχος, XÉN. <i>An. 1, 7, 15,</i> le mur de Médie, <i>entre le Tigre et l’Euphrate</i>.`

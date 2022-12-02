@@ -1,0 +1,1 @@
+lar[11946]=`<b>ἀπ·ιάλλω</b>, <i>mot lac</i>. renvoyer, THC. <i>5, 77</i>.`

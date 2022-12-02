@@ -1,0 +1,1 @@
+lar[108462]=`<b>χιλιό·χρυσος, ου (ὁ)</b> <font color="purple">[χῑῡ]</font> <i>sorte de médicament,</i> A. TR. <i>11, 643</i>.<p><b>Étym</b>. χ. χρυσός.`

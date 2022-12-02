@@ -1,0 +1,1 @@
+lar[23072]=`<b>δακτυλοδεικτέω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. prés. act. et pass</i>.) montrer du doigt, <i>en mauv. part,</i> DÉM. <i>790, 20 ; en b. part,</i> DH. <i>Rhet. 7, 4</i> ; CLÉM. <i>296</i>.<p><b>Étym</b>. δακτυλόδεικτος.`

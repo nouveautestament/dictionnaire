@@ -1,0 +1,1 @@
+lar[83770]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> éleveur <i>ou</i> gardeur de moutons, <i>titre d’une pièce d’Antiphane,</i> ATH. <i>295c</i>.<p><b>Étym</b>. πρόβατον.`

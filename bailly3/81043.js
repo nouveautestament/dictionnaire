@@ -1,0 +1,1 @@
+lar[81043]=`<b>ατος (τὸ)</b> ce qui remplit :<br><b>      1</b> ce qui rassasie, ATH. <i>111c.</i><br><b>      2</b> semence, sperme ; τὸ πλ. λαμβάνειν, ARSTT. <i>H.A. 6, 23, 3</i>, concevoir.<p><b>Étym</b>. πλήθω.`

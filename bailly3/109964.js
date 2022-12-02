@@ -1,0 +1,1 @@
+lar[109964]=`<b>ψυχο·βλαβής, ής, ές</b> <font color="purple">[ῡᾰ]</font> nuisible <i>ou</i> funeste à l’âme, CHRYS. <i>t. 1, p. 169</i>.<p><b>Étym</b>. ψυχή, βλάπτω.`

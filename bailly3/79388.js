@@ -1,0 +1,1 @@
+lar[79388]=`<b>οῦ (ὁ)</b> pigeon mâle, PHÉRÉCR. <i>et</i> ALEX. (ATH. <i>395b</i>) <i>forme blâmée par</i> LUC. <i>Sol. 7</i>.<p><b>Étym</b>. περιστερά.`

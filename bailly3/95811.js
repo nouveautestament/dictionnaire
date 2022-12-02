@@ -1,0 +1,1 @@
+lar[95811]=`<b>σύν·ευνος, ος, ον</b>, qui partage la couche, épouse <i>ou</i> concubine, PD. <i>O. 1, 143</i> ; ESCHL. <i>Ag. 1116, 1442</i> ; SOPH. <i>Aj. 1301</i> ; EUR. <i>Med. 1001, etc. qqf</i>. époux, ESCHL. <i>Pr. 866</i> ; AR. <i>Eccl. 953, etc</i>.<p>➳ <i>Fém. dor</i>. σύνευναι, ANTH. <i>5, 195 dout</i>.<p><b>Étym</b>. σ. εὐνή.`

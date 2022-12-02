@@ -1,0 +1,1 @@
+lar[2159]=`<b>α, ον</b>, d’Æa ; Αἰαίη (<i>ion</i>.) νῆσος, OD. <i>10, 135 ; 12, 3,</i> l’î. d’Æa, <i>séjour de Circé</i> ; ἡ Αἰαίη, OD. <i>9, 32, etc</i>. l’habitante d’Æa, <i>càd</i>. Circé.<p><b>Étym</b>. Αἶα.`

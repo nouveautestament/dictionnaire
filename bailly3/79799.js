@@ -1,0 +1,1 @@
+lar[79799]=`<b>Περσο·διώκτης, ου (ὁ)</b> qui poursuit les Perses, destructeur des Perses, A. PL. <i>233</i>.<p><b>Étym</b>. Πέρσαι, διώκω.`

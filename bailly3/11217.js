@@ -1,0 +1,1 @@
+lar[11217]=`<b>ας (ἡ)</b> Apameia :<br><b>      1</b> <i>v. de Syrie, sur l’Oronte,</i> STR. <i>275, etc.</i><br><b>      2</b> <i>v. de la Grande-Phrygie, sur le Méandre,</i> STR. <i>569, etc.</i><br><b>      3</b> <i>v. de Bithynie,</i> STR. <i>563, etc</i>.`

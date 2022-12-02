@@ -1,0 +1,1 @@
+lar[81680]=`<b>πολύ·αιγος, ος, ον</b>, aux nombreux troupeaux de chèvres, ANTH. <i>9, 744</i>.<p><b>Étym</b>. π. αἴξ.`

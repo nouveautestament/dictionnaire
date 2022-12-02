@@ -1,0 +1,1 @@
+lar[99175]=`<b>ας (ἡ)</b> <font color="purple">[ῑ]</font> Timæa, <i>mère du roi de Sparte Agis I,</i> PLUT. <i>Alc. 23, Lys. 22, etc</i>.`

@@ -1,0 +1,1 @@
+lar[49339]=`<b>ἱππο·κάνθαρος, ου (ὁ)</b> <font color="purple">[ᾰρ]</font> escarbot dont on se sert comme d’un cheval, AR. <i>Pax 181</i>.<p><b>Étym</b>. ἵ. κάνθαρος.`

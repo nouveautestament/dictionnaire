@@ -1,0 +1,1 @@
+lar[105109]=`<b>ιδος</b> <font color="purple">[ᾱῐδ]</font> <i>adj. f. c</i>. Φενεάτης ALCIPHR. <i>3, 48</i>.`

@@ -1,0 +1,1 @@
+lar[70337]=`<b>ιδος</b>, <i>acc</i>. <b>ιν :<br>   I</b> <i>adj. f</i>. de la maison, domestique, SOPH. <i>fr. 745 Dind.</i><br><b>   II</b> <i>subst</i>. ἡ οἰκ. :<br><b>      1</b> maîtresse de maison, épouse, THCR. <i>Idyl. 18, 38</i>.<br><b>      2</b> femme esclave, servante, EUR. <i>El. 104</i>.<p><b>Étym</b>. <i>fém. de</i> οἰκέτης.`

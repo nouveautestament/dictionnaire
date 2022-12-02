@@ -1,0 +1,1 @@
+lar[46335]=`<b>(ὁ) :<br>      1</b> Tharypas, <i>roi des Molosses,</i> THC. <i>2, 80</i>.<br><b>      2</b> autre, XÉN. <i>An. 2, 6, 28</i>.`

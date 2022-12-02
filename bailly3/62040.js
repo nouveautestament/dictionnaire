@@ -1,0 +1,1 @@
+lar[62040]=`<b>Λυσι·μένης, ους (ὁ)</b> <font color="purple">[ῡῐ]</font> Lysiménès, <i>h</i>. XÉN. <i>Hell. 7, 1, 45</i>.<p><b>Étym</b>. λ. μένος.`

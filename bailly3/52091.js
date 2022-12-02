@@ -1,0 +1,1 @@
+lar[52091]=`<b>ου (τὸ)</b> castoréum, <i>plante,</i> DIOSC. <i>1, 77</i>.<p><b>Étym</b>. κάστωρ.`

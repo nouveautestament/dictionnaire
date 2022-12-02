@@ -1,0 +1,1 @@
+lar[31906]=`<b>ἐκ·πολίζω</b>, faire dépendre de la cité, joindre à la cité, ARSTD. <i>14, 198</i>.<p><b>Étym</b>. ἐκ, πόλις.`

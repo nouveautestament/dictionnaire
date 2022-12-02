@@ -1,0 +1,1 @@
+lar[91594]=`<b>ου (τὸ)</b> Solonium, <i>v. du territoire de Lanuvium,</i> PLUT. <i>Mar. 35</i>.`

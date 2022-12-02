@@ -1,0 +1,1 @@
+lar[26396]=`<b>δι·θεΐα, ας (ἡ)</b> religion qui admet deux divinités, NAZ. <i>2, 148c Migne</i>.<p><b>Étym</b>. δίς, θεός.`

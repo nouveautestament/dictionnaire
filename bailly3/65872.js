@@ -1,0 +1,1 @@
+lar[65872]=`<b>ου (ὁ)</b> excrément, MNÉSIM. (<i>Com. fr. 3, 570</i>).`

@@ -1,0 +1,1 @@
+lar[29717]=`<i>adv</i>., au prix de pénibles efforts, PD. <i>N. 3, 35</i>.<p><b>Étym</b>. ἐγκονέω.`

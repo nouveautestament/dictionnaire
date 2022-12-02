@@ -1,0 +1,1 @@
+lar[28149]=`<b>δυσαισθητέω-ῶ</b> <font color="purple">[ῠ]</font> être insensible, A. TR. <i>1, 45</i>.<p><b>Étym</b>. δυσαίσθητος.`

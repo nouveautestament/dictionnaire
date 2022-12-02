@@ -1,0 +1,1 @@
+lar[77479]=`<b>παχύ·καυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> <i>au cp</i>. -ότερος, à tige épaisse, TH. <i>H.P. 6, 2, 6</i>.`

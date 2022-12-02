@@ -1,0 +1,1 @@
+lar[45611]=`<b>ἡμί·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> à moitié en or, ANAXANDR. <i>5 Kock</i>.<p><b>Étym</b>. ἡμι-, χρυσός.`

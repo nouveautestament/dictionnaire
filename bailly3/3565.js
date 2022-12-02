@@ -1,0 +1,1 @@
+lar[3565]=`<b>ἄ·κοπρος, ος, ον :<br>      1</b> sans fumier, TH. <i>H.P. 8, 6, 4</i>.<br><b>      2</b> qui ne va pas à la selle, HPC.<p><b>Étym</b>. ἀ, κόπρος.`

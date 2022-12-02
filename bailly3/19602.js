@@ -1,0 +1,1 @@
+lar[19602]=`<i>onomatopée pour imiter le cri de la brebis,</i> CRAT. <i>fr. 41</i> ; AR. <i>fr. 562</i>.`

@@ -1,0 +1,1 @@
+lar[106932]=`<i>adv</i>., avec soin, avec sollicitude, XÉN. <i>Mem. 3, 11, 10</i> ; EL. <i>N.A. 8, 27</i>.`

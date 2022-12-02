@@ -1,0 +1,1 @@
+lar[97884]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font> promptitude à engendrer, ARSTT. <i>H.A. 6, 37, 4</i>.<p><b>Étym</b>. ταχυγόνος.`

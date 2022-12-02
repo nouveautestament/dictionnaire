@@ -1,0 +1,1 @@
+lar[74324]=`<b>παιδο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mange les enfants, PD. <i>fr. 143</i>.<p><b>Étym</b>. π. φαγεῖν.`

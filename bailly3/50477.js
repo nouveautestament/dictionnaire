@@ -1,0 +1,1 @@
+lar[50477]=`<b>καθ·υλακτέω-ῶ</b> <font color="purple">[ᾰῠ]</font> aboyer contre, PLUT. <i>M. 969d ; fig</i>. τινός, BAS. <i>3, 360 Migne,</i> contre qqn.`

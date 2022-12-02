@@ -1,0 +1,1 @@
+lar[90192]=`<b>όεσσα, όεν</b> <font color="purple">[ῐ]</font> d’un rouge de grenade, NIC. <i>Al. 276</i>.<p><b>Étym</b>. σίδη.`

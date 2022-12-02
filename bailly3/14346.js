@@ -1,0 +1,1 @@
+lar[14346]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> institué pour recueillir de l’argent, SPT. <i>2Macc. 11, 3</i>.<p><b>Étym</b>. ἀργυρολογέω.`

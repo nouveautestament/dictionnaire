@@ -1,0 +1,1 @@
+lar[15080]=`<b>ϊος (ὁ)</b> Arpoxaïs, <i>Scythe,</i> HDT. <i>4, 5 et 6</i>.`

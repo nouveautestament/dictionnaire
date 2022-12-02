@@ -1,0 +1,1 @@
+lar[6238]=`<b>ἀμφί·λογος, ος, ον :<br>   I</b> <i>act</i>. qui dispute, SOPH. <i>Ant. 111</i> ; EUR. <i>Med. 637</i>.<br><b>   II</b> <i>pass.</i> :<br><b>      1</b> disputé, contesté, qui est en question : τὰ ἀ. THC. <i>4, 118 ; 5, 79,</i> les points en discussion.<br><b>      2</b> <i>p. suite,</i> équivoque, XÉN. <i>Mem. 4, 2, 34</i>.<p><b>Étym</b>. ἀμφιλέγω.`

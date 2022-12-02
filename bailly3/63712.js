@@ -1,0 +1,1 @@
+lar[63712]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec douceur <i>ou</i> bonté, SIM. AM. <i>fr. 7, 18</i>.<p><b>Étym</b>. μείλιχος.`

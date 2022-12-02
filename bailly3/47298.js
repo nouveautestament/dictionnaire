@@ -1,0 +1,1 @@
+lar[47298]=`<b>θηριό·τροφος, ος, ον</b>, qui se nourrit de bêtes sauvages, GAL. <i>10, 391</i>.<p><b>Étym</b>. θ. τρέφω.`

@@ -1,0 +1,1 @@
+lar[7657]=`<b>ατος (τὸ)</b> <font color="purple">[τᾰ]</font> créature, SIB. <i>8, 268</i>.<p><b>Étym</b>. <i>th</i>. ἀναστα- <i>de</i> ἀνίστημι.`

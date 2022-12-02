@@ -1,0 +1,1 @@
+lar[74712]=`<b>πάμ·μηνος, ος, ον</b>, qui dure tous les mois <i>ou</i> toute l’année, continuel, SOPH. <i>El. 851</i>.<p><b>Étym</b>. π. μήν.`

@@ -1,0 +1,1 @@
+lar[84763]=`<b>προ·ναυμαχέω-ῶ</b> <font color="purple">[ᾰ]</font> livrer un combat naval pour la défense de, <i>gén</i>. HDT. <i>6, 7 ; 8, 60</i>.`

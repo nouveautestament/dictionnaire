@@ -1,0 +1,1 @@
+lar[46533]=`<b>ος, ον</b>, qui charme, adoucit, apaise, ESCHL. <i>Eum. 81</i> ; EUR. <i>Hipp. 478, 509</i> ; PLUT. <i>M. 759b</i>.<p><b>Étym</b>. θέλγω.`

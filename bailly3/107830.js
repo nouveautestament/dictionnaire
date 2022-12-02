@@ -1,0 +1,1 @@
+lar[107830]=`<b>χανδο·πότης, ου (ὁ)</b> qui boit à pleine bouche, grand buveur, ANTH. <i>11, 59</i>.<p><b>Étym</b>. χανδόν, πίνω.`

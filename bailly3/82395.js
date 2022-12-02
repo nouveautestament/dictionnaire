@@ -1,0 +1,1 @@
+lar[82395]=`<b>πολυ·στεφής, ής, ές :<br>      1</b> orné de nombreuses couronnes, ESCHL. <i>Eum. 39</i> ; A. PL. <i>338, etc. ; p. ext</i>. couronné de, <i>gén</i>. SOPH. <i>O.R. 83</i>.<br><b>      2</b> entrelacé dans une couronne, NIC. <i>Th. 378</i>.`

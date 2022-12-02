@@ -1,0 +1,1 @@
+lar[107583]=`<b>χαλκ·άρματος, ος, ον</b> <font color="purple">[μᾰ]</font> au char d’airain, PD. <i>P. 4, 155</i>.<p><b>Étym</b>. χαλκός, ἅρμα.`

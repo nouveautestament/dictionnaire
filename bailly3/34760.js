@@ -1,0 +1,1 @@
+lar[34760]=`<b>ατος (τὸ)</b> signe de tête, SPT. <i>Prov. 6, 13</i>.<p><b>Étym</b>. ἐννεύω.`

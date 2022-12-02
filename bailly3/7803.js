@@ -1,0 +1,1 @@
+lar[7803]=`<b>ἀνα·τρυγάω-ῶ</b> <font color="purple">[ῠ]</font> grappiller après la vendange, PHIL. <i>2, 390</i>.`

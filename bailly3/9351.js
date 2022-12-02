@@ -1,0 +1,1 @@
+lar[9351]=`<b>ου (τὸ)</b> temple d’Anubis, LUC. <i>Tox. 28, Ic. 24</i>.<p><b>Étym</b>. Ἄνουβις.`

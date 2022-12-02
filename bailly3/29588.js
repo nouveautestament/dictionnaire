@@ -1,0 +1,1 @@
+lar[29588]=`<b>ἐγ·καταχρίω</b> (<i>prés. impér</i>. -χριε) enduire, DIOSC. <i>Par. 1, 124</i>.<p><b>Étym</b>. ἐν, κ.`

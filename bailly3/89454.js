@@ -1,0 +1,1 @@
+lar[89454]=`<b>σαρκο·πυώδης, ης, ες</b> <font color="purple">[ῡ]</font> qui ressemble à une chair purulente, HPC.<p><b>Étym</b>. σαρκόπυον, -ωδης.`

@@ -1,0 +1,1 @@
+lar[83637]=`<b>προ·απογράφομαι</b> <font color="purple">[γρᾰ]</font> décrire d’abord, PTOL. <i>2, 1, 7</i>.`

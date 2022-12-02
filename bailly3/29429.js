@@ -1,0 +1,1 @@
+lar[29429]=`<b>ου (τὸ)</b> moyen d’exciter, stimulant, EL. <i>N.A. 13, 14 ; V.H. 2, 44</i>.<p><b>Étym</b>. ἐγείρω.`

@@ -1,0 +1,1 @@
+lar[6263]=`<b>ἀμφί·μηλον, ου (τὸ)</b> sonde à deux boutons, ORIB. <i>2, 56 B.-Dar</i>.<p><b>Étym</b>. ἀ. μῆλον.`

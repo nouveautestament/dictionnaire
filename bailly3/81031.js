@@ -1,0 +1,1 @@
+lar[81031]=`<b>Πλησί·μαχος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Plèsimakhos, <i>écrivain,</i> Ps.-PLUT. <i>Fluv. 18, 13</i>.<p><b>Étym</b>. πλησίος, μάχομαι.`

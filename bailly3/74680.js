@@ -1,0 +1,1 @@
+lar[74680]=`<b>ας (ἡ)</b> <font color="purple">[βᾰῐ]</font> reine absolue, AR. <i>Nub. 357, etc.</i> ; A.RH. <i>4, 382</i>.<p><b>Étym</b>. παμβασιλεύς.`

@@ -1,0 +1,1 @@
+lar[76511]=`<b>οῦ (ὁ)</b> Pardalos, <i>h</i>. PLUT. <i>Præc. reip. ger. 32</i>.<p><b>Étym</b>. <i>cf</i>. παρδαλός.`

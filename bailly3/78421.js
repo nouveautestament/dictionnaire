@@ -1,0 +1,1 @@
+lar[78421]=`<b>περι·αυχένιος, ος, ον</b>, qu’on met autour du cou, HDT. <i>3, 20</i> ; ALCIPHR. <i>3, 3</i> ; τὸ περιαυχένιον, APP. <i>Mithr. 85</i> ; ARISTÉN. <i>1, 19,</i> collier.<p><b>Étym</b>. π. αὐχήν.`

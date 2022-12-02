@@ -1,0 +1,1 @@
+lar[58565]=`<i>adv</i>., en rond, PLUT. <i>M. 892f</i>.<p><b>Étym</b>. κυκλοτερής.`

@@ -1,0 +1,1 @@
+lar[71352]=`<b>ὀμβρο·τόκος, ος, ον</b>, qui engendre la pluie, ORPH. <i>H. 20, 2, etc</i>.<p><b>Étym</b>. ὄμβρος, τίκτω.`

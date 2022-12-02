@@ -1,0 +1,1 @@
+lar[54380]=`<b>(ἡ)</b> <i>autre nom de la plante</i> βούφθαλμον, DIOSC. <i>3, 156</i>.`

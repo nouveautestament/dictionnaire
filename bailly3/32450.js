@@ -1,0 +1,1 @@
+lar[32450]=`<b>ά, όν :<br>      1</b> huileux, PLAT. <i>Tim. 60a ;</i> ἐλ. δρόσος, ANTH. <i>5, 4,</i> suc (<i>litt</i>. rosée) de l’olive, huile.<br><b>      2</b> plein d’huile (vase), HPC. <i>240, 12</i>.<p><b>Étym</b>. ἐλαία.`

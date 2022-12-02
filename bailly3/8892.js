@@ -1,0 +1,1 @@
+lar[8892]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> préparation du charbon, TH. <i>H.P. 3, 8, 7</i>.<p><b>Étym</b>. ἀνθρακεύω.`

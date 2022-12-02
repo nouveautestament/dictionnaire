@@ -1,0 +1,1 @@
+lar[95746]=`<b>εως (ἡ) :<br>      1</b> claquement des dents, HPC. <i>1215f.</i><br><b>      2</b> rapprochement, resserrement, contraction, SOR.<p><b>Étym</b>. συνερείδω.`

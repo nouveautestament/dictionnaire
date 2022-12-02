@@ -1,0 +1,1 @@
+lar[23448]=`chercher à faire peur, HH. <i>Merc. 163 (prés. 2 sg</i>. -ίσκεαι, <i>conj. p</i>. τιτύσκεαι) ; AR. <i>Lys. 564 (impf. 3 sg</i>. ἐδεδίσκετο).<p><b>Étym</b>. <i>p</i>. *δεδϝίσκομαι, <i>v</i>. δείδω ; <i>cf</i>. δεδίσσομαι <i>et</i> δειδίσσομαι.`

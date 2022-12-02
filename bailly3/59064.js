@@ -1,0 +1,1 @@
+lar[59064]=`<b>ου</b>, <i>adj. m</i>. de Salamine, HÉS. (STR. <i>393).</i><p><b>Étym</b>. Κυχρεύς.`

@@ -1,0 +1,1 @@
+lar[83994]=`<b>προ·δοκέω-ῶ</b>, <i>seul. pass. pl.q.pf. 3 sg</i>. προεδέδοκτο, THC. <i>7, 18 : par contract</i>. προὐδέδοκτο, PLAT. <i>Phædr. 88d</i>, il parut, il avait paru bon auparavant, on décida, on avait décidé auparavant ; <i>part. pf</i>. τὰ προδεδογμένα, THC. <i>3, 40,</i> les décisions antérieures.`

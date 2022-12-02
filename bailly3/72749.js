@@ -1,0 +1,1 @@
+lar[72749]=`<b>ὀρθο·ρρημοσύνη, ης (ἡ)</b> correction <i>ou</i> précision du langage, THÉM. <i>289d</i>.<p><b>Étym</b>. ὀ. ῥῆμα.`

@@ -1,0 +1,1 @@
+lar[3625]=`<b>ἀ·κράαντος, ος, ον</b> <font color="purple">[αᾱα]</font> qui ne s’accomplit pas, sans résultat, vain, IL. <i>2, 138</i> ; OD. <i>2, 203 ; cf</i>. ἄκραντος.`

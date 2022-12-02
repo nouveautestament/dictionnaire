@@ -1,0 +1,1 @@
+lar[34511]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action d’insérer, insertion, CLÉM. <i>1, 364 Migne</i>.<p><b>Étym</b>. ἐνθεματίζω.`

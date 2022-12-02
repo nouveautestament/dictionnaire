@@ -1,0 +1,1 @@
+lar[26961]=`<b>ος, ον</b>, à double ligne, HÉRON (Wesch. <i>Poliorc</i>. p. 233).<p><b>Étym</b>. διπλόος, γραμμή.`

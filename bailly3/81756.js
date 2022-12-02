@@ -1,0 +1,1 @@
+lar[81756]=`<b>πολυ·βλαστής, ής, ές</b>, aux nombreux bourgeons, TH. <i>C.P. 3, 19, 2</i>.<p><b>Étym</b>. π. βλαστάνω.`

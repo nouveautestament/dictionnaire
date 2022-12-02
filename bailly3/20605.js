@@ -1,0 +1,1 @@
+lar[20605]=`<b>ου (ὁ)</b> Bradatas, <i>Perse,</i> XÉN.`

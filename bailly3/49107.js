@@ -1,0 +1,1 @@
+lar[49107]=`<b>ἰο·βόρος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui se nourrit de venin, OPP. <i>C. 3, 223</i>.<br><b>      2</b> qui dévore par l’effet du poison, NIC. <i>Th. 467</i>.<p><b>Étym</b>. ἰός², βιβρώσκω.`

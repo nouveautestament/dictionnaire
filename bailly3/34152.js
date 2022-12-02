@@ -1,0 +1,1 @@
+lar[34152]=`<i>adv</i>., d’une manière insuffisante, THC. <i>2, 40 ; p. opp. à</i> ἱκανῶς, PLAT. <i>Phæd. 88e ;</i> ἐνδεεστέρως ἤ, THC. <i>4, 39,</i> DÉM. <i>162, 3,</i> moins que ; ἐνδ. ἔχειν τινός, EUR. <i>fr. 890, 8,</i> PLUT. <i>Nic. 27,</i> manquer de qqe ch.<p>•<i> Cp</i>. ἐνδεεστέρως, THC. <i>ll. cc.</i> ; PLAT. <i>Phæd. 74e, etc</i>.<p><b>Étym</b>. ἐνδεής.`

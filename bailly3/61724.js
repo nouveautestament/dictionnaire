@@ -1,0 +1,1 @@
+lar[61724]=`<b>οῦ (ὁ)</b> Lokhagos, <i>h</i>. PLUT. <i>Apophth. lac. v° Λοχαγός</i>.<p><b>Étym</b>. <i>v</i>. λοχαγός.`

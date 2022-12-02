@@ -1,0 +1,1 @@
+lar[76705]=`<b>εως (ἡ)</b> action d’intercaler, <i>d’où</i> :<br><b>      1</b> <i>t. de gr</i>. insertion d’une lettre dans un mot, RHÉT. <i>3, 567 W.</i><br><b>      2</b> <i>t. de rhét</i>. parenthèse, HERMOG. <i>Rhet. 287, 21</i>.<p><b>Étym</b>. παρεντίθημι.`

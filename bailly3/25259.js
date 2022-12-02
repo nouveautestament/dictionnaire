@@ -1,0 +1,1 @@
+lar[25259]=`<b>δια·πηνικίζω</b> <font color="purple">[ῐκ]</font> (<i>2 sg. ao</i>. διεπηνίκισας) arranger avec ruse, falsifier, CRAT. <i>fr. 296 Mein</i>.`

@@ -1,0 +1,1 @@
+lar[86489]=`<b>προσ·τιλάω-ῶ</b> <font color="purple">[ῑ]</font> embrener, <i>avec</i> πρός <i>et l’acc</i>. AR. <i>Nub. 411</i> ; ARTÉM. <i>2, 26</i>.`

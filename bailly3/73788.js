@@ -1,0 +1,1 @@
+lar[73788]=`<b>ου (ὁ)</b> débiteur, PLAT. <i>Leg. 736d ;</i> NT. <i>Matth. 18, 24 ; Rom. 8, 12, etc</i>. redevable de qqe ch. : ἀρκεῖν, SOPH. <i>Aj. 590,</i> obligé, par reconnaissance <i>ou</i> en retour, à protéger (qqn).<p><b>Étym</b>. ὀφείλω.`

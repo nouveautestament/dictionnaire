@@ -1,0 +1,1 @@
+lar[48538]=`<b>ἱερακο·τρόφος, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui nourrit des éperviers, EUN. <i>Exc. p. 95, 18</i>.<p><b>Étym</b>. ἱ. τρέφω.`

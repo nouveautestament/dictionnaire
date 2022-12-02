@@ -1,0 +1,1 @@
+lar[42465]=`<b>εὐ·κοινώνητος, ος, ον :<br>      1</b> qui se prête à des relations, qui communique volontiers, ARSTT. <i>Nic. 4, 2</i>.<br><b>      2</b> <i>p. ext</i>. accommodant, sociable, PHIL. <i>Virt. 19</i> ; THÉM. <i>269c</i>.<p><b>Étym</b>. εὖ, κοινωνέω.`

@@ -1,0 +1,1 @@
+lar[77847]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> πέλτη, CALLIX. (ATH. <i>200f</i>) ; LUC. <i>Bacch. 1</i>.`

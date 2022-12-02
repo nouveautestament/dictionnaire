@@ -1,0 +1,1 @@
+lar[50450]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de bandage ; GAL. <i>11, 476</i>.<p><b>Étym</b>. καθέλκω.`

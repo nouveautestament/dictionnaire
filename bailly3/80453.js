@@ -1,0 +1,1 @@
+lar[80453]=`<b>(ὁ)</b> Pissouthnès, <i>fils d’Hystaspe, Perse,</i> THC. <i>1, 115, etc.</i> ; PLUT. <i>Per. 25, etc</i>.`

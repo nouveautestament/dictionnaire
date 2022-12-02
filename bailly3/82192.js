@@ -1,0 +1,1 @@
+lar[82192]=`<b>πολυ·όμματος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a beaucoup d’yeux, LUC. <i>D. deor. 3, 1</i>.<p><b>Étym</b>. π. ὄμμα.`

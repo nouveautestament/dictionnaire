@@ -1,0 +1,1 @@
+lar[38298]=`<b>*ἐπίλησις</b>, <i>seul. dor</i>. <b>ἐπίλασις, εως (ἡ)</b> <font color="purple">[ᾱ]</font> oubli, PD. <i>P. 1, 46</i>.<p><b>Étym</b>. ἐπιλήθω.`

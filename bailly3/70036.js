@@ -1,0 +1,1 @@
+lar[70036]=`<b>α, ον</b>, qui vient <i>ou</i> se fait le 80<sup>e</sup> jour, HPC. <i>832, 3 ; 1131f</i>.<p><b>Étym</b>. ὀγδοηκοστός.`

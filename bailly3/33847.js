@@ -1,0 +1,1 @@
+lar[33847]=`<b>ή, όν</b>, qui amène un changement, qui altère, <i>gén</i>. GAL. <i>2, 46</i>.<p><b>Étym</b>. ἐναλλάσσω.`

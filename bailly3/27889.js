@@ -1,0 +1,1 @@
+lar[27889]=`<b>*Δρεσία</b>, <i>ion</i>. <b>-ίη, ης (ἡ)</b> Drésia <i>ou</i> Drésiè, <i>v. de Phrygie,</i> NONN. <i>D. 13, 514</i>.`

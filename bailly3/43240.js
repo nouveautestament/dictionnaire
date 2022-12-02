@@ -1,0 +1,1 @@
+lar[43240]=`<b>Εὐρύ·αλος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Euryalos, <i>h</i>. IL. <i>2, 565, etc.</i> ; Q. SM. <i>4, 473, etc</i>.<p>➳ <i>Gén. épq</i>. -οιο, Q. SM. <i>11, 118</i>.<p><b>Étym</b>. <i>cf</i>. εὐρύαλος.`

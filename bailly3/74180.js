@@ -1,0 +1,1 @@
+lar[74180]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> = <i>lat</i>. Padus, le Pô, <i>fl. d’Italie,</i> PLUT. <i>Marc. 6, etc</i>.`

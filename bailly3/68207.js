@@ -1,0 +1,1 @@
+lar[68207]=`<b>νεο·πλεκής, ής, ές</b>, nouvellement entrelacé, NIC. <i>Al. 96</i>.<p><b>Étym</b>. ν. πλέκω.`

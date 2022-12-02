@@ -1,0 +1,1 @@
+lar[80635]=`<b>πλακουντο·ποιός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> pâtissier, SOPATR. (ATH. <i>644c</i>).<p><b>Étym</b>. πλακοῦς, ποιέω.`

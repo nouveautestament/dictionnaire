@@ -1,0 +1,1 @@
+lar[64895]=`<b>μετά·πεμψις, εως (ἡ)</b> action d’envoyer chercher, de mander, PLAT. <i>Ep. 338b ;</i> PLUT. <i>M. 594f, Alex. 33</i>.<p><b>Étym</b>. μεταπέμπω.`

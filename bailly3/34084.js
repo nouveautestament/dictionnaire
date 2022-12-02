@@ -1,0 +1,1 @@
+lar[34084]=`<b>ἐν·αφίημι</b> <font color="darkgreen">(<i>f</i>. -αφήσω) :</font><br><b>      1</b> lâcher, laisser aller dans, ARSTT. <i>H.A. 5, 22, 4 ; G.A. 1, 18, 27 ; dat</i>. ARTÉM. <i>2, 26</i>.<br><b>      2</b> introduire dans, <i>avec</i> ἐς <i>et l’acc</i>. HDT. <i>1, 214</i>.<p>➳ <i>Ao. ion</i>. ἐνάπηκα, HDT. <i>l. c</i>.`

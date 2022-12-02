@@ -1,0 +1,1 @@
+lar[104723]=`<b>ου (ὁ)</b> Phalækos :<br><b>      1</b> <i>tyran des Phocéens,</i> ESCHN. <i>45, 20 et 29 Baiter-Sauppe</i>.<br><b>      2</b> <i>poète, inventeur du mètre</i> Φαλαίκειον, ATH. <i>440d ;</i> ANTH. <i>6, 165, etc</i>.`

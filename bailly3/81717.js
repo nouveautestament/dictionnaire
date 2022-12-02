@@ -1,0 +1,1 @@
+lar[81717]=`<b>πολυ·ανώδυνος, ος, ον</b>, très efficace pour calmer la douleur, DIOSC. <i>Noth. 4, 79</i>.`

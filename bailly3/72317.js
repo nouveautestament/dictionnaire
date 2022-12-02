@@ -1,0 +1,1 @@
+lar[72317]=`<b>ὁπλέω-ῶ</b>, préparer, apprêter, OD. <i>6, 73</i>.<p>➳ <i>Act. seul. impf</i>. ὥπλεον, OD. <i>6, 73</i>.<p><b>Étym</b>. ὅπλον.`

@@ -1,0 +1,1 @@
+lar[64313]=`<b>μενέ·μαχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui attend le combat de pied ferme, APP. <i>Iber. 6, 51</i>.<p><b>Étym</b>. μένω, μάχη.`

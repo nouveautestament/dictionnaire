@@ -1,0 +1,1 @@
+lar[14888]=`<b>ου (τὸ)</b> <i>seul. plur</i>. outillage d’un chantier, HÉRON <i>Aut. 265</i>.<p><b>Étym</b>. ἄρμενον.`

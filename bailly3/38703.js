@@ -1,0 +1,1 @@
+lar[38703]=`<b>ἐπι·πλατύνω</b> <font color="purple">[ᾰῡ]</font> élargir encore plus, ARSTT. <i>Mund. 3, 8</i>.`

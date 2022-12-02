@@ -1,0 +1,1 @@
+lar[89184]=`<font color="purple">[ᾰ]</font> <i>seul. part. prés. pass</i>. σαλεύμενος (<i>ion. c</i>. σαλούμενος) ARCHIL. <i>102</i>.<p><b>Étym</b>. <i>c</i>. σαλεύω.`

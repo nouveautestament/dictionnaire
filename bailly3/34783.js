@@ -1,0 +1,1 @@
+lar[34783]=`<b>ου (ὁ)</b> Ennomos :<br><b>      1</b> <i>Mysien,</i> IL. <i>2, 858 ; 17, 218</i>.<br><b>      2</b> <i>Troyen,</i> IL. <i>11, 422</i>.<p><b>Étym</b>. ἔννομος¹.`

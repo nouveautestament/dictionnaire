@@ -1,0 +1,1 @@
+lar[41363]=`<b>ἑτερο·ποιός, ός, όν</b>, qui rend autre, qui transforme, PROCL. CRAT. <i>(Bkk. 1375).</i><p><b>Étym</b>. ἕ. ποιέω.`

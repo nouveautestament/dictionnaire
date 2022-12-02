@@ -1,0 +1,1 @@
+lar[42651]=`<i>adv</i>., suivant une bonne méthode, ARISTÉN. <i>1, 13</i>.`

@@ -1,0 +1,1 @@
+lar[47878]=`<b>η, ον</b> <font color="purple">[ῡ]</font> <i>c</i>. θυμαρής CALL. <i>Dian. 167</i> ; NIC. <i>Al. 590</i>.`

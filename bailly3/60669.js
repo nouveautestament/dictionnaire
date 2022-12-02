@@ -1,0 +1,1 @@
+lar[60669]=`<b>λευχειμονέω-ῶ</b>, être vêtu de blanc, PLAT. <i>Rsp. 617c ;</i> STR. <i>520, etc</i>.<p><b>Étym</b>. λευχείμων.`

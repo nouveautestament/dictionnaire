@@ -1,0 +1,1 @@
+lar[107233]=`<b>φυσ·έχη, ης (ἡ)</b> <i>litt</i>. « qui contient la nature, le caractère », <i>fausse étymol. de</i> ψυχή, <i>imaginée par</i> PLAT. <i>Crat. 400b</i>.<p><b>Étym</b>. φύσις, ἔχω.`

@@ -1,0 +1,1 @@
+lar[1494]=`<i>adv</i>., sans gloire <i>ou</i> sans honneur, PLUT. <i>Thes. 35</i>.`

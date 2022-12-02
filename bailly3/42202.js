@@ -1,0 +1,1 @@
+lar[42202]=`<b>ή, όν</b>, qui va en droite ligne, SEXT. <i>M. 10, 51</i>.<p><b>Étym</b>. εὐθύς.`

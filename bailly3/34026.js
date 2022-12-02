@@ -1,0 +1,1 @@
+lar[34026]=`<b>ῆς (ἡ)</b> insertion (<i>litt</i>. adaptation) d’un instrument de chirurgie dans (un organe) ANTYLL. (ORIB. <i>2, 426).</i><p><b>Étym</b>. ἐναρμόττω.`

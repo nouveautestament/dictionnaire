@@ -1,0 +1,1 @@
+lar[98985]=`<i>adv</i>., avec négligence, M. TYR. <i>25, 4</i>.<p><b>Étym</b>. *τημελής, <i>v</i>. τημελέω.`

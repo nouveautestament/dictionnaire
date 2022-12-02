@@ -1,0 +1,1 @@
+lar[105444]=`<b>φίλ·αιμος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. φιλαίματος PROCL. <i>Ptol. p. 230</i>.`

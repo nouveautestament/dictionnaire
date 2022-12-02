@@ -1,0 +1,1 @@
+lar[24349]=`<b>ακτος (ὁ)</b> Dèmônax, <i>h</i>. HDT. <i>4, 161</i> ; LUC. <i>Demon. 1, etc. ; Tox. 13, 17</i> ; ANTH. <i>11, 329 ; etc</i>.<p>➳ <i>Voc</i>. -ῶναξ, LUC. <i>Demon. 12, 27 ; ou</i> -ώναξ, ANTH. <i>l. c</i>.<p><b>Étym</b>. δῆμος, ἄναξ ; <i>cf</i>. Ἱππῶναξ.`

@@ -1,0 +1,1 @@
+lar[35406]=`<b>εως (ἡ) :<br>      1</b> action de s’élancer, ARÉT. <i>Cur. m. diut. 1, 2</i>.<br><b>      2</b> dislocation, déplacement, HPC. <i>Art. 811</i>.<p><b>Étym</b>. ἐξάλλομαι.`

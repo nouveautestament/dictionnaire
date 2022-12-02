@@ -1,0 +1,1 @@
+lar[22123]=`<b>γλοιο·πότις</b>, <i>adj. f</i>. qui boit la sueur gluante de la peau (tunique), ANTH. <i>6, 282</i>.<p><b>Étym</b>. γλοιός, πίνω.`

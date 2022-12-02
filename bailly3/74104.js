@@ -1,0 +1,1 @@
+lar[74104]=`<b>παγ·καίνιστος, ος, ον</b>, entièrement renouvelé, toujours nouveau, ESCHL. <i>Ag. 960</i>.<p><b>Étym</b>. πᾶν, καινίζω.`

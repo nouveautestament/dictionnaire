@@ -1,0 +1,1 @@
+lar[61408]=`<b>εως (ἡ)</b> surface lisse, ARSTT. <i>H.A. 1, 7, 4</i>.<p><b>Étym</b>. λισσός.`

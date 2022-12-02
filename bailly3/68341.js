@@ -1,0 +1,1 @@
+lar[68341]=`<b>ή, όν</b>, de Néron, PLUT. <i>Galb. 17, etc</i>.<p><b>Étym</b>. Νέρων.`

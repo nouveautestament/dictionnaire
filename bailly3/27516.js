@@ -1,0 +1,1 @@
+lar[27516]=`<b>*δονακο·δίφης</b>, <i>seul. ion</i>. <b>δουνακοδίφης</b> <font color="purple">[ᾰῑ]</font> qui cherche des roseaux, ANTH. <i>10, 22, conj</i>.<p><b>Étym</b>. δοῦναξ, διφάω.`

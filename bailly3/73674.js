@@ -1,0 +1,1 @@
+lar[73674]=`<b>οὐρανο·σκόπος, ος, ον</b> <font color="purple">[ᾰ]</font> qui observe le ciel ; <i>subst</i>. ὁ οὐρ. uranoscope <i>ou</i> rapeçon, <i>sorte de poisson qui a les yeux tournés en haut,</i> ATH. <i>356a</i>.<p><b>Étym</b>. οὐρ. σκοπέω.`

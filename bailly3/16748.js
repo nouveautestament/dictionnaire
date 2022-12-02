@@ -1,0 +1,1 @@
+lar[16748]=`<b>οῦ (ὁ)</b> observation attentive, TH. <i>fr. 8, 9</i>.<p><b>Étym</b>. ἀτενίζω.`

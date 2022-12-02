@@ -1,0 +1,1 @@
+lar[83065]=`<b>ή, όν</b>, <i>au cp</i>. -ώτερος, grand buveur, PLUT. <i>Demetr. 1</i>.<p><b>Étym</b>. πότος.`

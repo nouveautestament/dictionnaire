@@ -1,0 +1,1 @@
+lar[26918]=`<b>εως (ἡ) :<br>      1</b> action de voir à travers, PLUT. <i>M. 915a.</i><br><b>      2</b> inspection, examen, PLAT. <i>Tim. 40d.</i><br><b>      3</b> perspicacité, PLUT. <i>M. 408e</i>.<p><b>Étym</b>. διόψομαι.`

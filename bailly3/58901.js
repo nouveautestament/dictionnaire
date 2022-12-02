@@ -1,0 +1,1 @@
+lar[58901]=`<b>κυπελλο·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte une coupe, ANTH. <i>App. 69</i>.<p><b>Étym</b>. κύπελλον, φέρω.`

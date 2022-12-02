@@ -1,0 +1,1 @@
+lar[20261]=`<b>οῦ (ὁ)</b> pâtre, berger, ANTH. <i>7, 703</i> ; ES. <i>316 Halm</i>.<p><b>Étym</b>. βόσκω.`

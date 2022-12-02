@@ -1,0 +1,1 @@
+lar[59514]=`<b>ϊγγος (ἡ) :<br>      1</b> petite pierre, OD. <i>5, 433 ; 6, 95</i>.<br><b>      2</b> pierre, <i>en gén</i>. A.RH. <i>1, 402</i>.<p><b>Étym</b>. λᾶας.`

@@ -1,0 +1,1 @@
+lar[62357]=`<b>α</b> <i>et</i> <b>ου (ὁ)</b> = <i>lat</i>. Mæcenas (Mécène) <i>n. d’h. rom</i>. PLUT. <i>Dem. c. Cic. 3</i>.<p>➳ <i>Gén</i>. -α, PLUT. <i>Reg. apophth. Cæs. Aug. 6, etc. ; et</i> -ου, DC. <i>51, 3, etc</i>.`

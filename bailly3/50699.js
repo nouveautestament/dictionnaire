@@ -1,0 +1,1 @@
+lar[50699]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui porte malheur, DL. <i>7, 104</i> ; SEXT. <i>428 Bkk</i>.<p><b>Étym</b>. κακοδαίμων.`

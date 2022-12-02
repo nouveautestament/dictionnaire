@@ -1,0 +1,1 @@
+lar[104984]=`<b>ου (τὸ)</b> sorte de lichen qui s’attache aux troncs d’arbres, TH. <i>H.P. 3, 8, 6</i>.`

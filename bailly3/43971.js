@@ -1,0 +1,1 @@
+lar[43971]=`<b>ἐφ·επτακαιδέκατος, η, ον</b> <font color="purple">[ᾰᾰ]</font> qui comprend un entier et un dix-septième, PLUT. <i>M. 1021d ;</i> A. QUINT. <i>p. 114, 115</i>.<p><b>Étym</b>. ἐπί, <i>etc</i>.`

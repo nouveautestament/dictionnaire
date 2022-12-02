@@ -1,0 +1,1 @@
+lar[5036]=`<i>ou</i> <b>ἄλυσις, εως (ἡ)</b> <font color="purple">[ᾰῠ]</font> chaîne, HDT. <i>9, 74</i> ; THC. <i>2, 76</i> ; EUR. <i>Or. 984</i> ; PLUT. <i>M. 829a, etc.</i> ; parure de femme, AR. <i>fr. 309</i>.`

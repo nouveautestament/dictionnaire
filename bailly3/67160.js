@@ -1,0 +1,1 @@
+lar[67160]=`<font color="darkgreen">(<i>f</i>. μυνοῦμαι, <i>part. ao</i>. μυνάμενος)</font> s’excuser, prétexter, ALC. <i>89</i>.<p><b>Étym</b>. μύνη ; <i>cf</i>. ἀμύνω.`

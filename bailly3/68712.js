@@ -1,0 +1,1 @@
+lar[68712]=`<b>Νίκ·ανδρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Nikandros (Nicandre) :<br><b>      1</b> <i>poète grec</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>8, 131</i> ; XÉN. <i>An. 5, 1, 15</i>.<p><b>Étym</b>. νικάω, ἀνήρ.`

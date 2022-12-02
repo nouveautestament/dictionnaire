@@ -1,0 +1,1 @@
+lar[42728]=`<b>εὔ·μυκος, ος, ον</b> <font color="purple">[ῡ]</font> qui mugit fortement, ANTH. <i>6, 255 ; 9, 104</i>.<p><b>Étym</b>. εὖ, μυκάομαι.`

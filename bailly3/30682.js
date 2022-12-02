@@ -1,0 +1,1 @@
+lar[30682]=`<b>*εἰσ·ανδρόω</b>, <i>ion</i>. <b>ἐσ·ανδρόω-ῶ</b> (<i>sbj. ao. 3 sg</i>. -ώσῃ) remplir <i>ou</i> peupler d’hommes, A.RH. <i>1, 874</i>.`

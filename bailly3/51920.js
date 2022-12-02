@@ -1,0 +1,1 @@
+lar[51920]=`<b>ου (τὸ)</b> = <i>lat</i>. carrus, char, chariot, SPT. <i>1Esdr. 5, 55, 78</i>.`

@@ -1,0 +1,1 @@
+lar[77036]=`<b>ης, ες</b>, qui ressemble à un proverbe, proverbial, PLUT. <i>M. 302c, 616c, etc</i>.<p><b>Étym</b>. παροιμία, -ωδης.`

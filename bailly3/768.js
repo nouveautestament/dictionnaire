@@ -1,0 +1,1 @@
+lar[768]=`<b>ατος (τὸ) :<br>      1</b> ignorance, SPT. <i>Sir. 51, 19</i>.<br><b>      2</b> faute par ignorance, TH. <i>H.P. 9, 4, 8</i> ; SPT. <i>Tob. 3, 3 ; Judith 5, 20</i> ; NT. <i>Hebr. 9, 7</i>.<p><b>Étym</b>. ἀγνοέω.`

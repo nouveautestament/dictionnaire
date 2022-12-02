@@ -1,0 +1,1 @@
+lar[71184]=`<b>ὁλό·λιθος, ος, ον</b> <font color="purple">[ῐ]</font> tout en pierres, STR. <i>813</i>.<p><b>Étym</b>. ὅλ. λίθος.`

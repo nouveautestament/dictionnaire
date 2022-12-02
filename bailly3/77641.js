@@ -1,0 +1,1 @@
+lar[77641]=`<b>οῦ (ὁ)</b> Peiræos, <i>port sur le golfe de Corinthe,</i> THC. <i>8, 10, 20</i>.`

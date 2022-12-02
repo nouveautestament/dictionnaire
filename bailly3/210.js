@@ -1,0 +1,1 @@
+lar[210]=`<b>ωνος (ὁ)</b> Habrôn, <i>h</i>. DÉM. <i>43, 19 Baiter-Sauppe</i>.<p><b>Étym</b>. ἁβρός.`

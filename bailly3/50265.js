@@ -1,0 +1,1 @@
+lar[50265]=`<b>καθ·αμαξεύω</b> <font color="purple">[κᾰᾰμ]</font> faire passer un char par-dessus ; <i>d’où part. pf. pass</i>. καθημαξευμένος, foulé par les chars, rabattu, usé, <i>fig</i>. EL. (SUID.) ; <i>particul. en parl. du style,</i> DH. <i>10, 41 ; Thuc. 11, 2 etc</i>.`

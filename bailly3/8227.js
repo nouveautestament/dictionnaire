@@ -1,0 +1,1 @@
+lar[8227]=`<b>ἀν·εκδιήγητος, ος, ον</b>, qu’on ne peut expliquer <i>ou</i> raconter, NT. <i>2Cor. 9, 15</i>.<p><b>Étym</b>. ἀν-, ἐκδιηγέομαι.`

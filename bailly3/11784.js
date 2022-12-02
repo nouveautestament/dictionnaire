@@ -1,0 +1,1 @@
+lar[11784]=`<b>ἀ·περισάλπιγκτος, ος, ον</b>, non troublé par le bruit de la trompette, STOB. <i>Fl. 54, 60</i>.<p><b>Étym</b>. ἀ, περισαλπίζω.`

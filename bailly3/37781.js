@@ -1,0 +1,1 @@
+lar[37781]=`<b>ἐπι·θαρσύνω</b> <font color="purple">[ῡ]</font> enhardir, encourager, <i>acc</i>. IL. <i>4, 183</i>.`

@@ -1,0 +1,1 @@
+lar[86031]=`<b>ατος (τὸ)</b> eau pour bassiner, lotion, ORIB. <i>157 Matthäi</i>.<p><b>Étym</b>. προσκλύζω.`

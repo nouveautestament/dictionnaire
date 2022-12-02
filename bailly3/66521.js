@@ -1,0 +1,1 @@
+lar[66521]=`<b>μονο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui a son opinion <i>ou</i> sa volonté propre, opiniâtre, DH. <i>2, 12 ; 5, 71</i>.<p><b>Étym</b>. μ. γνώμη.`

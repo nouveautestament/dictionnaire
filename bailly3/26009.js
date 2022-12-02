@@ -1,0 +1,1 @@
+lar[26009]=`<font color="purple">[ῐκᾰ]</font> <i>adv</i>., à la manière de ceux qui enseignent, méthodiquement, PLAT. <i>Crat. 388b ;</i> POL. <i>6, 3, 5</i>.<p>•<i> Cp</i>. -ώτερον, HERMOG. ; DIOPH. <i>de mult. num. p. 14. • Sup</i>. -ώτατα, CLÉM. <i>380</i>.`

@@ -1,0 +1,1 @@
+lar[71542]=`<b>ὁμοιό·πτωτος, ος, ον :<br>      1</b> qui est au même cas, PLUT. <i>Demetr. 14, etc.</i> ; DYSC. <i>Synt. 124, 25, etc.</i><br><b>      2</b> de même désinence ; <i>subst</i>. τὸ ὁμοιόπτωτον, QUINT. <i>9, 3, 80,</i> figure de langage où les mots ont une désinence semblable.<p><b>Étym</b>. ὅμ. πίπτω.`

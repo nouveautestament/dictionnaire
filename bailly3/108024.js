@@ -1,0 +1,1 @@
+lar[108024]=`<i>crase p</i>. καὶ ἕτερος, <i>inscr. att</i>.`

@@ -1,0 +1,1 @@
+lar[33295]=`<b>ἐμ·μυέω-ῶ</b>, initier à, <i>avec</i> ἐν <i>et le dat</i>. AR. <i>Pl. 845</i>.<p><b>Étym</b>. ἐν, μ.`

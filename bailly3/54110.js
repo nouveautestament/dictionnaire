@@ -1,0 +1,1 @@
+lar[54110]=`<b>κάτ·οινος, ος, ον</b>, plein de vin, entièrement ivre, EUR. <i>Ion 533</i> ; DS. <i>5, 26</i>.<p><b>Étym</b>. κ. οἶνος.`

@@ -1,0 +1,1 @@
+lar[32922]=`<b>ἑλλεβορο·δότης, ου (ὁ)</b> qui administre de l’ellébore (médecin) GAL. <i>6, 22c</i>.<p><b>Étym</b>. ἑλλέβορος, δίδωμι.`

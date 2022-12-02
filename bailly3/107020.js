@@ -1,0 +1,1 @@
+lar[107020]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., comme en exil, PLUT. <i>Tim. 24</i>.`

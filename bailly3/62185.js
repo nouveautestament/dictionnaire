@@ -1,0 +1,1 @@
+lar[62185]=`IL. <i>12, 283, ion. p</i>. λωτέοντα, fleuri, <i>part. prés. de</i> λωτέω, <i>ou, sel. d’autres, p</i>. *λωτοῦντα, <i>contr. de</i> *λωτόεντα, <i>de</i> *λωτόεις, όεσσα, όεν, couvert de fleurs de lotus.<p><b>Étym</b>. <i>v</i>. λωτός.`

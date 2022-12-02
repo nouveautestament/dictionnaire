@@ -1,0 +1,1 @@
+lar[59390]=`<b>(ὁ)</b> <font color="purple">[ᾱᾱ]</font> chef (<i>propr</i>. conducteur) du peuple, PD. <i>O. 1, 89, P. 3, 85, etc</i>.<p><b>Étym</b>. <i>dor. c</i>. *λαγέτης, <i>de</i> λαός, ἄγω.`

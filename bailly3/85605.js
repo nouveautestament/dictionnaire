@@ -1,0 +1,1 @@
+lar[85605]=`<b>προσ·εξαμαρτάνω</b> <font color="darkgreen">(<i>f</i>. -εξαμαρτήσομαι, <i>ao.2</i> -εξήμαρτον, <i>etc</i>.)</font> <font color="purple">[ᾰμ]</font> commettre encore une faute, ARSTT. <i>H.A. 10, 1, 12</i> ; τι πρός τινι, DÉM. <i>1295, 23,</i> PLUT. <i>Oth. 10</i> ; ajouter une faute à d’autres.`

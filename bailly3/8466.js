@@ -1,0 +1,1 @@
+lar[8466]=`<b>ἀν·επινόητος, ος, ον :<br>      1</b> inconcevable, SEXT. <i>P. 2, 104</i>.<br><b>      2</b> ignorant de, <i>gén</i>. DS. <i>2, 59</i>.<p><b>Étym</b>. ἀν-, ἐπινοέω.`

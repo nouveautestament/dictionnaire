@@ -1,0 +1,1 @@
+lar[1086]=`<b>ἀγχί·τοκος, ος, ον</b> <font color="purple">[ῐ]</font> sur le point d’enfanter, PD. <i>fr. 58, 5</i>.<p><b>Étym</b>. ἄ. τίκτω.`

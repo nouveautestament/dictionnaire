@@ -1,0 +1,1 @@
+lar[39343]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠ]</font> accélération, DIOTOGÉN. (STOB. <i>Fl. 48, 62).</i><p><b>Étym</b>. ἐπιταχύνω.`

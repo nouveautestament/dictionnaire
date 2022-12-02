@@ -1,0 +1,1 @@
+lar[25012]=`<b>διαμαχέω-ῶ</b> <font color="purple">[μᾰ]</font> (<i>seul. part. ao</i>. -ήσας) <i>c</i>. διαμάχομαι, JOS. <i>B.J. 6, 9, 4</i>.`

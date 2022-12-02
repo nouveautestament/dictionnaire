@@ -1,0 +1,1 @@
+lar[57471]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> κοχλίας EPICT. <i>Ench. 7</i>.`

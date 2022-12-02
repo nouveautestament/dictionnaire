@@ -1,0 +1,1 @@
+lar[76943]=`<b>ου (τὸ)</b> Parion (<i>auj</i>. Kemer) <i>port de Mysie, sur la Propontide,</i> HDT. <i>5, 117</i> ; XÉN. <i>An. 7, 2, 7, etc</i>.`

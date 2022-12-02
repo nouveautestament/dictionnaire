@@ -1,0 +1,1 @@
+lar[70544]=`<b>οἰνο·πέπαντος, ος, ον</b>, dont le vin mûrit (<i>propr</i>. cuit) dans la grappe, ANTH. <i>6, 232</i>.<p><b>Étym</b>. οἶν. πεπαίνω.`

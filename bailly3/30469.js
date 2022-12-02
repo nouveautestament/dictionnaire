@@ -1,0 +1,1 @@
+lar[30469]=`<b>οῦ (ὁ)</b> Eilissos (Ilissus),<br><b>      1</b> <i>h</i>. Q. SM. <i>1, 228</i>.<br><b>      2</b> <i>n. d’un des deux ruisseaux de l’Attique,</i> PAUS. <i>1, 19, 5</i> ; LUC. <i>Dom. 4, 5</i>.`

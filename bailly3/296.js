@@ -1,0 +1,1 @@
+lar[296]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγᾰ]</font> manque de lait, AUTOCR. <i>(Bkk. p. 336).</i><p><b>Étym</b>. ἀγάλακτος.`

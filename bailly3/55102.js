@@ -1,0 +1,1 @@
+lar[55102]=`<b>κεφαλό·ρριζος, ος, ον</b> <font color="purple">[ᾰ]</font> aux racines bulbeuses, TH. <i>H.P. 1, 14, 2</i>.<p><b>Étym</b>. κεφαλή, ῥίζα.`

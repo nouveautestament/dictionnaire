@@ -1,0 +1,1 @@
+lar[95188]=`<b>συν·δικάζω</b> <font color="purple">[ῐ]</font><br><b>      1</b> avoir part à un jugement, PLAT. <i>Leg. 798b.</i><br><b>      2</b> être assesseur d’un juge, LYS. <i>184, 11 et 24</i>.`

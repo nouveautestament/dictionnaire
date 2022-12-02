@@ -1,0 +1,1 @@
+lar[25410]=`<b>διαπυρπαλαμάω-ῶ</b> <font color="purple">[πᾰᾰμ]</font> <font color="darkgreen">(<i>ao. 3 sg</i>. διαπυρπαλάμησεν)</font> scrupuleusement forger des ruses, complètement mettre en œuvre des artifices, HH. <i>Merc. 357</i>.<p><b>Étym</b>. δ. πυρπάλαμος.`

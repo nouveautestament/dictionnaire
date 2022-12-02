@@ -1,0 +1,1 @@
+lar[37219]=`<b>ἐπ·ευφρατίδιος, ου</b> <font color="purple">[ᾱῐδ]</font> <i>adj. m</i>. qui habite au bord de l’Euphrate, LUC. <i>Pisc. 19</i>.<p><b>Étym</b>. ἐπί, Εὐφράτης.`

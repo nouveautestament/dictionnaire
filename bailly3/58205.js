@@ -1,0 +1,1 @@
+lar[58205]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Krôbialos, <i>v. de Paphlagonie,</i> A.RH. <i>2, 944</i>.`

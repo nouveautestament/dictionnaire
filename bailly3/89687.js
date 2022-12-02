@@ -1,0 +1,1 @@
+lar[89687]=`<b>σεισμο·ποιός, ός, όν</b>, qui cause des tremblements de terre, PTOL. <i>Tetr. 94</i>.<p><b>Étym</b>. σεισμός, ποιέω.`

@@ -1,0 +1,1 @@
+lar[24986]=`<b>δι·αλφιτόω-ῶ</b> <font color="purple">[φῐ]</font> (<i>seul. fut. act</i>.) remplir de farine, AR. <i>Nub. 669</i>.`

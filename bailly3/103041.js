@@ -1,0 +1,1 @@
+lar[103041]=`<b>α, ον</b> <font color="purple">[ῐ]</font> supposé, <i>en parl. d’un enfant,</i> HDT. <i>1, 137, etc.</i> ; PLAT. <i>Rsp. 537e ;</i> ARSTT. <i>H.A. 9, 29, 3</i> ; DH. <i>4, 32</i> ; LUC. <i>D. mort. 16, 2, etc. ; fig</i>. PLUT. <i>M. 3d, etc</i>.<p><b>Étym</b>. ὑποβολή.`

@@ -1,0 +1,1 @@
+lar[15313]=`<font color="purple">[ᾰκ]</font> <i>adv</i>., un nombre de fois pair, <i>p. opp. à</i> περιττάκις, PLAT. <i>Parm. 144a ;</i> PLUT. <i>M. 429d</i>.<p><b>Étym</b>. ἄρτιος, -άκις.`

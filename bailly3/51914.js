@@ -1,0 +1,1 @@
+lar[51914]=`<b>οῦ (ὁ)</b> <i>s.-e</i>. χιτών, tunique dont les manches descendent jusqu’au poignet, SPT. <i>2Reg. 13, 18</i>.<p><b>Étym</b>. <i>vb. de</i> *καρπόω, <i>de</i> καρπός, poignet.`

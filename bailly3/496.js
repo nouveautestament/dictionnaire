@@ -1,0 +1,1 @@
+lar[496]=`<b>ἀ·γενής, ής, ές :<br>      1</b> qui n’est pas né, non créé, PLAT. <i>Tim. 27c.</i><br><b>      2</b> de naissance obscure, <i>d’où</i> sans noblesse, bas, vil, SOPH. <i>fr. 105</i>.<br><b>      3</b> sans postérité, IS. (HARP.).<p><b>Étym</b>. ἀ, γένος.`

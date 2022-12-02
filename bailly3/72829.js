@@ -1,0 +1,1 @@
+lar[72829]=`<b>ατος (τὸ)</b> borne, frontière, limite : <i>au sg</i>. HDT. <i>2, 17 ; d’ord. au pl</i>. HDT. <i>4, 45</i> ; EUR. <i>Hec. 16, etc.</i> ; PLUT. <i>M. 122c ; d’où</i> territoire enfermé dans des limites, pays, contrée, EUR. <i>Hipp. 1459</i>.<p>➳ <i>Ion</i>. οὔρισμα, HDT. <i>2, 17 ; 4, 45</i>.<p><b>Étym</b>. ὁρίζω.`

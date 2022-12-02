@@ -1,0 +1,1 @@
+lar[76817]=`<b>παρ·ευνάζω</b>, faire coucher auprès de, <i>ou, au pass</i>. coucher auprès de, <i>dat</i>. OD. <i>22, 37</i>.`

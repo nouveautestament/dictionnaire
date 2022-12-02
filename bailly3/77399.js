@@ -1,0 +1,1 @@
+lar[77399]=`<b>πατρο·φαής, ής, ές</b>, <i>voc. masc</i>. <b>-φαές</b>, qui brille de l’éclat du père, <i>càd</i>. de Dieu, NAZ. <i>3, 1325 Migne</i>.<p><b>Étym</b>. π. φάος.`

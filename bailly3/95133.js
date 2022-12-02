@@ -1,0 +1,1 @@
+lar[95133]=`<b>συν·διαπέτομαι</b>, voler ensemble à travers, PLAT. <i>Theæt. 199e</i>.`

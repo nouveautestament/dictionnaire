@@ -1,0 +1,1 @@
+lar[29499]=`<i>adv</i>., obliquement, NYSS. <i>2, 830a</i>.`

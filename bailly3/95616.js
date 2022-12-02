@@ -1,0 +1,1 @@
+lar[95616]=`<b>συν·επιθειάζω :<br>      1</b> attribuer à la divinité, <i>acc</i>. PLUT. <i>Syll. 6</i>.<br><b>      2</b> reconnaître comme d’origine divine, <i>acc</i>. PLUT. <i>M. 409c</i>.`

@@ -1,0 +1,1 @@
+lar[64828]=`<b>ός, όν</b>, qui travaille aux mines, mineur, DS. <i>5, 7</i> ; DIOSC. <i>5, 84</i>.<p><b>Étym</b>. μέταλλον, ἔργον.`

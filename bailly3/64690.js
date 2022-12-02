@@ -1,0 +1,1 @@
+lar[64690]=`<b>ης (ἡ)</b> changement d’opinion, <i>d’où</i> défection, APP. <i>Civ. 5, 122</i>.<p><b>Étym</b>. μεταγιγνώσκω.`

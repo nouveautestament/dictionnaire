@@ -1,0 +1,1 @@
+lar[50537]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Kaïkos :<br><b>      1</b> <i>fl. de Mysie (auj</i>. Barkirtschaï) ESCHL. (STR. <i>616</i>) ; HDT. <i>7, 42</i> ; XÉN. <i>An. 7, 8, 18</i>.<br><b>      2</b> <i>h</i>. THCR. <i>Ep. 23</i> ; PLUT. <i>Cor. 11, etc</i>.`

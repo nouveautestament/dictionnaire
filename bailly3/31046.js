@@ -1,0 +1,1 @@
+lar[31046]=`<b>ἑκατόντ·αρχος, ου (ὁ)</b> <font color="purple">[κᾰ]</font> <i>c</i>. ἑκατοντάρχης, XÉN. <i>Cyr. 5, 3, 41</i> ; PLUT. <i>Syll. 35</i> ; DC. <i>56, 42</i> ; NT. <i>Matth. 8, 5</i>.`

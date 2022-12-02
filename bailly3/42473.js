@@ -1,0 +1,1 @@
+lar[42473]=`<i>adv</i>., avec une humeur facile, paisiblement, XÉN. <i>Mem. 4, 8, 2</i> ; PLAT. <i>Phæd. 117c ;</i> ARSTT. <i>Nic. 1, 11, 12</i>.<p>•<i> Cp</i>. -ώτερον, PLUT. <i>M. 235c</i>.<p><b>Étym</b>. εὔκολος.`

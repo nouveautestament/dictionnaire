@@ -1,0 +1,1 @@
+lar[88426]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui a un abcès crevé à l’intérieur, HPC. <i>1217c</i>.<p><b>Étym</b>. ῥῆγμα, -ωδης.`

@@ -1,0 +1,1 @@
+lar[43692]=`<b>εὐ·φάνταστος, ος, ον</b>, qui a l’imagination vive, PLATONIUS <i>Diff. char</i>.<p><b>Étym</b>. εὖ, φαντάζω.`

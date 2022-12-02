@@ -1,0 +1,1 @@
+lar[72894]=`<b>ου (ὁ)</b> petit collier, CHARÈS (ATH. <i>93d</i>).<p><b>Étym</b>. ὅρμος.`

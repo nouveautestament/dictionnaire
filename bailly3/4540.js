@@ -1,0 +1,1 @@
+lar[4540]=`<b>ἁλί·πλοος-ους, οος-ους, οον-ουν :<br>      1</b> qui nage en mer, <i>càd</i>. couvert par les flots, IL. <i>12, 26</i>.<br><b>      2</b> qui navigue sur mer, ARION <i>1, 20</i> ; ὁ ἁ. marin <i>ou</i> pêcheur, A.RH. <i>3, 1329</i> ; CALL. <i>Del. 15</i>.<p><b>Étym</b>. ἅ. πλέω.`

@@ -1,0 +1,1 @@
+lar[20167]=`<b>ου</b> <font color="purple">[ῡ]</font> <i>adj. m.</i> : β. κάλαμος, TH. <i>H.P. 4, 11, 3,</i> roseau propre à faire des flûtes.<p><b>Étym</b>. βόμβυξ.`

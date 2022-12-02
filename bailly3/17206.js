@@ -1,0 +1,1 @@
+lar[17206]=`<b>ου (ὁ) :<br>      1</b> petit aulos, pipeau, SOPH. <i>fr. 753</i> ; DH. <i>7, 72</i>.<br><b>      2</b> petit tuyau, HPC. <i>238, 30, etc.</i> ; ARSTT. <i>fr. 424</i> ; POL. <i>10, 46 ; etc</i>.<p><b>Étym</b>. <i>dim. de</i> αὐλός.`

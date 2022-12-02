@@ -1,0 +1,1 @@
+lar[1947]=`<b>ας (ἡ)</b> <font color="purple">[ᾱᾰᾰσ]</font> immortalité, PLAT. <i>Phædr. 246a</i>.<p>➳ <font color="purple">[ῑ]</font> SIB. <i>2, 41, 150</i>.<p><b>Étym</b>. ἀθάνατος.`

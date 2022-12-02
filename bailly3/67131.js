@@ -1,0 +1,1 @@
+lar[67131]=`<b>μυλιάω-ῶ</b> (<i>seul. part. prés. épq</i>. μυλιόωντες) <font color="purple">[ῠ, <i>par nécess. métr</i>. ῡ]</font> grincer des dents, HÉS. <i>O. 530</i>.<p><b>Étym</b>. μύλη.`

@@ -1,0 +1,1 @@
+lar[50507]=`<b>καθ·υπονοέω-οῶ</b>, soupçonner, suspecter, JAMBL. <i>Myst. 212</i>.`

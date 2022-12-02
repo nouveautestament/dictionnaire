@@ -1,0 +1,1 @@
+lar[21649]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui concerne les horoscopes ; γ. ἐπιστήμη, JAMBL. <i>Myst. p. 167 ; ou subst</i>. ἡ γ. (<i>s.-e</i>. τέχνη), PHIL. <i>1, 466</i> ; PROCL. <i>etc</i>. l’art de tirer des horoscopes.`

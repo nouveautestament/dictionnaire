@@ -1,0 +1,1 @@
+lar[108347]=`<b>ης (ἡ) :<br>      1</b> came, <i>sorte de coquillage,</i> ARSTT. <i>H.A. 5, 15, 14</i> ; EL. <i>N.A. 15, 12</i>.<br><b>      2</b> chème, <i>mesure de trois et de deux drachmes pour les liquides,</i> HPC. <i>621, 42 ; 625, 31</i>.<p><b>Étym</b>. χαίνω.`

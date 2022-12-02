@@ -1,0 +1,1 @@
+lar[31689]=`<b>ἐκ·μοχθέω-ῶ :<br>      1</b> accomplir péniblement, EUR. <i>El. 307</i>.<br><b>      2</b> supporter (une fatigue, <i>etc</i>.) ESCHL. <i>Pr. 825</i> ; EUR. <i>I.T. 1455</i>.<br><b>      3</b> obtenir à force de peine, EUR. <i>H.f. 1369, etc.</i><br><b>      4</b> sortir à force de peine victorieux de : τι, EUR. <i>H.f. 309,</i> de quelque épreuve.`

@@ -1,0 +1,1 @@
+lar[26373]=`<b>δι·ηλιφής, ής, ές</b> <font color="purple">[ῐ]</font> imprégné de parfums, SOPH. <i>fr. 148</i>.<p><b>Étym</b>. διά, ἀλείφω.`

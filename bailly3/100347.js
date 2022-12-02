@@ -1,0 +1,1 @@
+lar[100347]=`<b>τρι·πέδων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui mérite trois fois les entraves, <i>d’où</i> mauvais esclave (<i>cf. lat</i>. trifurcifer) AR. BYZ. <i>fr. p. 177 Nauck</i>.<p><b>Étym</b>. τρ. πέδη.`

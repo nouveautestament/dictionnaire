@@ -1,0 +1,1 @@
+lar[64649]=`<b>μετα·βάπτω</b>, teindre en une autre couleur, <i>d’où au pass</i>. changer de couleur, PLUT. <i>Lys. 17</i> ; LUC. <i>Bis acc. 8, etc. ; fig</i>. LUC. <i>Anach. 33</i>.`

@@ -1,0 +1,1 @@
+lar[105689]=`<font color="purple">[φῐ]</font> <i>adv</i>., amicalement, en ami, THC. <i>3, 65</i> ; XÉN. <i>Cyr. 6, 3, 15</i> ; PLAT. <i>Leg. 768e</i>.<p><b>Étym</b>. φίλιος.`

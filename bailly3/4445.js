@@ -1,0 +1,1 @@
+lar[4445]=`<b>ἁλι·ερκής, ής, ές</b> <font color="purple">[ᾰ]</font> enfermé par la mer, PD. <i>O. 8, 34 ; I. 1, 10 ; P. 1, 34</i> ; OPP. <i>H. 3, 175</i>.<p><b>Étym</b>. ἅλς, ἕρκος.`

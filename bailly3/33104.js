@@ -1,0 +1,1 @@
+lar[33104]=`<font color="purple">[ῐ]</font> <i>vb. de</i> ἐμβιβάζω ORIB. <i>2, 466, 8 B.-Dar</i>.`

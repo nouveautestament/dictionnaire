@@ -1,0 +1,1 @@
+lar[88251]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> déchiré, <i>d’où</i> :<br><b>      1</b> déguenillé, ANTH. <i>6, 21</i>.<br><b>      2</b> sillonné de rides, ridé, ANTH. <i>11, 66</i>.<p><b>Étym</b>. ῥάκος.`

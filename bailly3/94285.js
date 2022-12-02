@@ -1,0 +1,1 @@
+lar[94285]=`<b>εως (ἡ) :<br>      1</b> action d’achever, de compléter, ARSTT. <i>Plant. 1, 2, 12</i> ; POL. <i>5, 90, 4</i> ; SPT. <i>2Par. 36, 21</i>.<br><b>      2</b> <i>t. de rhét</i>. récapitulation, LGN <i>12, 2</i>.<p><b>Étym</b>. συμπληρόω.`

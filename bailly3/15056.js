@@ -1,0 +1,1 @@
+lar[15056]=`<b>ἁρπαξί·βιος, ος, ον</b> <font color="purple">[ῐβ]</font> qui vit de rapines, ARCHESTR. (ATH. <i>4e</i>).<p><b>Étym</b>. ἅρπαξ, βίος.`

@@ -1,0 +1,1 @@
+lar[9610]=`<b>ἀντ·εξάγω</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> exporter à son tour <i>ou</i> à la place, XÉN. <i>Vect. 3, 2</i>.<br><b>      2</b> faire sortir à la rencontre de, mettre en campagne, POL. <i>2, 18, 6</i> ; DS. <i>13, 66</i> ; PLUT. <i>Popl. 9 ; d’où intr. en appar. (s.-e</i>. στρατόν) marcher contre, POL. <i>3, 66, 11</i>.`

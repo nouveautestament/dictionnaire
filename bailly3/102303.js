@@ -1,0 +1,1 @@
+lar[102303]=`<b>οῦ (ὁ)</b> protecteur, SPT. <i>Ps. 17, 2, 30, etc</i>.<p><b>Étym</b>. ὑπερασπίζω.`

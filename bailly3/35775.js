@@ -1,0 +1,1 @@
+lar[35775]=`<b>ἐξ·ελληνίζω</b>, rendre grec :<br><b>      1</b> faire remonter à une origine grecque, PLUT. <i>Num. 13</i>.<br><b>      2</b> donner une forme grecque, JOS. <i>A.J. 1, 6, 1</i>.`

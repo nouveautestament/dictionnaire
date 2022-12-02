@@ -1,0 +1,1 @@
+lar[51053]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῑδ]</font> <i>dim. de</i> καλιά, EUP. <i>42 Kock</i>.`

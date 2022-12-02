@@ -1,0 +1,1 @@
+lar[107369]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> <font color="purple">[ῠῐ]</font> Phokylidès (Phocylide) <i>poète de Milet,</i> PHOCYL. <i>1, etc. Bgk</i> ; PLAT. <i>Rsp. 407a et b, etc</i>.`

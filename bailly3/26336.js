@@ -1,0 +1,1 @@
+lar[26336]=`<b>δι·εχθραίνω</b> (<i>inf. prés</i>.) être ennemi déclaré de, <i>dat</i>. SEXT. <i>226</i>.<p><i>cf</i>. διεχθρεύω.`

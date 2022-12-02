@@ -1,0 +1,1 @@
+lar[84467]=`<b>προ·κατακόπτω</b>, abattre auparavant, ANTIPH. (ATH. <i>5a</i>).`

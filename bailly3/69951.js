@@ -1,0 +1,1 @@
+lar[69951]=`<b>ος, ον</b>, qui se gratte, SOPHR. (EM. <i>737, 3).</i><p><b>Étym</b>. ξύω.`

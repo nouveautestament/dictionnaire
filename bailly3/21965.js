@@ -1,0 +1,1 @@
+lar[21965]=`<b>υος (ἡ) :<br>      1</b> voix, IL. <i>4, 437</i> ; SOPH. <i>O.R. 186</i> ; EUR. <i>Alc. 969 ; en prose,</i> PLUT. <i>M. 397c.</i><br><b>      2</b> <i>particul</i>. langage, EUR. <i>Rhes. 294</i>.<p><b>Étym</b>. <i>cf</i>. γηρύω.`

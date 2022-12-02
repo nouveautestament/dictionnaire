@@ -1,0 +1,1 @@
+lar[91626]=`<b>έως</b>, <i>adj. m</i>. originaire <i>ou</i> habitant de Sounion, DÉM. <i>238, 17 (décr</i>.) ; LUC. <i>Nec. 16, etc</i>.<p><b>Étym</b>. Σούνιον.`

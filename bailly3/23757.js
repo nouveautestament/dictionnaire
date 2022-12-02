@@ -1,0 +1,1 @@
+lar[23757]=`<b>ου (ὁ)</b> <i>c</i>. Δέκιμος (<i>avec chute de l’ι atone</i>), APP. <i>Ill. 19, Civ. 2, 48, etc</i>.`

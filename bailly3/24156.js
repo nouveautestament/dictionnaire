@@ -1,0 +1,1 @@
+lar[24156]=`<b>δηλον·ότι</b>, <i>adv.</i> :<br><b>      1</b> évidemment, manifestement, PLAT. <i>Crit. 53a, Gorg. 487d, etc.</i><br><b>      2</b> c’est-à-dire, à savoir, XÉN. <i>Cyr. 5, 4, 6</i> ; PLAT. <i>Conv. 199a ; etc. (p</i>. δῆλον ὅτι ; <i>cf</i>. THC. <i>3, 38</i> ; XÉN. <i>An. 1, 3, 9 ; etc</i>.).`

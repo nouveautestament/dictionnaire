@@ -1,0 +1,1 @@
+lar[83375]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>sorte d’olive,</i> NIC. <i>Al. 87</i>.<p><b>Étym</b>. πρημάς.`

@@ -1,0 +1,1 @@
+lar[55096]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Képhallènia, EL. <i>N.A. 3, 32</i>.`

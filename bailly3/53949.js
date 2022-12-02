@@ -1,0 +1,1 @@
+lar[53949]=`<b>κατ·ερύκω</b> <font color="purple">[ῡ]</font> retenir, arrêter : τινά, IL. <i>6, 518</i> ; OD. <i>4, 284,</i> qqn ; τινά τινος, AR. <i>Vesp. 601,</i> empêcher qqn de faire qqe ch. ; <i>au pass</i>. être arrêté : εὐρέϊ πόντῳ, OD. <i>1, 197 ; 4, 498,</i> par la vaste mer.`

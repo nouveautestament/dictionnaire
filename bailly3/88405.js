@@ -1,0 +1,1 @@
+lar[88405]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> de la nature d’une fluxion, d’un rhume, d’un rhumatisme, HPC. <i>1210c ;</i> GAL. <i>19, 535</i>.<p>•<i> Cp</i>. -έστερος, GAL. <i>l. c</i>.<p><b>Étym</b>. ῥεῦμα, -ωδης.`

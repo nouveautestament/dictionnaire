@@ -1,0 +1,1 @@
+lar[14579]=`<b>ἀρί·δηλος, ος, ον</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> très visible, qu’on voit de loin (montagne) SIM. (POLL. <i>5, 48</i>).<br><b>      2</b> très clair, évident, HDT. <i>8, 65</i>.<p>•<i> Cp</i>. -ότερος, THÉM. <i>Or. 2, 26c</i>.<p>➳ <i>Dor</i>. -δαλος <font color="purple">[ᾱ]</font> SIM. <i>l. c</i>.<p><b>Étym</b>. ἀρι-, δῆλος.`

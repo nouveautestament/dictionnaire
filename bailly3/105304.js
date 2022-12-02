@@ -1,0 +1,1 @@
+lar[105304]=`<b>άδος</b> <font color="purple">[ῑᾰδ]</font> <i>adj. f</i>. de Phthia, EUR. <i>Hec. 451,</i> ANDR. <i>861, etc. ; subst</i>. ἡ Φθ. EUR. <i>Andr. 119,</i> femme de Phthia.<p><b>Étym</b>. Φθία.`

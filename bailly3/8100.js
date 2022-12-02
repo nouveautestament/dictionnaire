@@ -1,0 +1,1 @@
+lar[8100]=`<b>ἀνδρο·μήκης, ης, ες</b>, de la taille (<i>litt</i>. de la longueur) d’un homme, XÉN. <i>Hell. 3, 2, 3</i> ; POL. <i>8, 7, 6, etc.</i> ; DS. <i>3, 40</i> ; JOS. <i>B.J. 5, 5, 4, etc</i>.<p><b>Étym</b>. ἀνήρ, μῆκος.`

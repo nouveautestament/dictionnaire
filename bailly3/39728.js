@@ -1,0 +1,1 @@
+lar[39728]=`<b>ἐπί·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> plaqué d’or, doré, HDT. <i>1, 50 ; 2, 182, etc.</i> ; XÉN. <i>Mem. 3, 10, 14</i> ; PLAT. <i>Leg. 800e ; en parl. de chaussures,</i> LGS <i>1, 5 ; fig. en parl. d’un homme riche (cf. franç</i>. cousu d’or) HLD. <i>2, 8</i>.`

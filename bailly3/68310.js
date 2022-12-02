@@ -1,0 +1,1 @@
+lar[68310]=`<b>νεό·φοιτος, ος, ον :<br>      1</b> nouvellement arrivé, COL. <i>383</i> ; TRIPHIOD. <i>365</i>.<br><b>      2</b> nouvellement visité, ANTH. <i>7, 699</i>.<p><b>Étym</b>. ν. φοιτάω.`

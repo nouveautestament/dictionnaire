@@ -1,0 +1,1 @@
+lar[14193]=`<b>ου (ὁ)</b> habitant de l’Arachosie, ARSTT. <i>H.A. 2, 1, etc</i>.`

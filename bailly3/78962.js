@@ -1,0 +1,1 @@
+lar[78962]=`<b>ων (οἱ)</b> habitants de Périnthos, HDT. <i>5, 1 ; 7, 25</i> ; XÉN. <i>An. 7, 2, 11, etc</i>.<p><b>Étym</b>. Πέρινθος.`

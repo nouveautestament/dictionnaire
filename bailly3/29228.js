@@ -1,0 +1,1 @@
+lar[29228]=`<font color="purple">[ᾱ]</font> <i>2 sg. impér. prés. ou 3 sg. impf. poét. p</i>. εἴα <i>de</i> ἐάω.`

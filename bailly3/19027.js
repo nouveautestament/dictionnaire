@@ -1,0 +1,1 @@
+lar[19027]=`<b>βαναυσο·τεχνέω-ῶ</b> <font color="purple">[ᾰ]</font> exercer un métier manuel, STR. <i>782</i>.<p><b>Étym</b>. βάναυσος, τέχνη.`

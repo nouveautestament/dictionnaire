@@ -1,0 +1,1 @@
+lar[13877]=`<b>ας (ἡ)</b> manque de convenance, de régularité, PLAT. <i>Rsp. 465c</i>.<p><b>Étym</b>. ἀπρεπής.`

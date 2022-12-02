@@ -1,0 +1,1 @@
+lar[93368]=`<b>συγ·κατασκήπτω</b>, fondre ensemble sur, PLUT. <i>Brut. 37</i>.`

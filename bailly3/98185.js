@@ -1,0 +1,1 @@
+lar[98185]=`<b>ή, όν :<br>      1</b> qui accomplit, qui achève, ARSTT. <i>Physiogn. 6, 44</i>.<br><b>      2</b> d’initiateur (aux mystères), propre à initier, à consacrer, PLAT. <i>Phædr. 248d, 265b ;</i> PLUT. <i>Sol. 12</i> ; EL. <i>N.A. 2, 42, etc</i>.<p><b>Étym</b>. τελέω.`

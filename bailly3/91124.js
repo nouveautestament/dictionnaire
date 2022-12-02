@@ -1,0 +1,1 @@
+lar[91124]=`<b>ου (τὸ)</b> hauteur d’où l’on observe, ORIG. <i>2, 745d, etc</i>.<p><b>Étym</b>. σκοπεύω.`

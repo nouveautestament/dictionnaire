@@ -1,0 +1,1 @@
+lar[60907]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> un peu d’encens, MÉN. (ATH. <i>385e conj</i>.).<p><b>Étym</b>. λίβανος.`

@@ -1,0 +1,1 @@
+lar[100431]=`<b>τρισ·αριστεύς, έως (ὁ)</b> <font color="purple">[ῑᾰ]</font> trois fois vainqueur, HERMOG.<p><b>Étym</b>. <i>W. 3, 4</i>.`

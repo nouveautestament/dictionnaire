@@ -1,0 +1,1 @@
+lar[19551]=`<i>prés. épq. au sens d’un fut. (seul. 1 sg</i>. IL. <i>15, 194 et 2 sg</i>. βέῃ, IL. <i>16, 852 ; 24, 131 ; par renforcem. épq. 1 sg</i>. βείομαι, IL. <i>22, 431</i>) vivre.<p><b>Étym</b>. <i>apparenté à</i> βίος <i>et</i> βιόω.`

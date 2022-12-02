@@ -1,0 +1,1 @@
+lar[33896]=`<b>ἐναντιο·πραγέω-ῶ</b> <font color="purple">[ᾱ]</font> être du parti contraire, DS. <i>3, 65</i>.<p><b>Étym</b>. ἐ. πράσσω.`

@@ -1,0 +1,1 @@
+lar[107477]=`<b>(ὁ)</b> <font color="purple">[ᾰ]</font> Khærètadès, <i>Athénien,</i> AR. <i>Eccl. 51</i>.`

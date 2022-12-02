@@ -1,0 +1,1 @@
+lar[41495]=`<b>εὐ·άγγελος, ος, ον</b>, qui apporte une bonne nouvelle, qui marque un événement heureux, ESCHL. <i>Ag. 22, 262, 646</i> ; EUR. <i>Ph. 1232</i> ; OPP. <i>H. 5, 237</i>.<p><b>Étym</b>. εὖ, ἄγγελος.`

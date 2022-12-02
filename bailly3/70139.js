@@ -1,0 +1,1 @@
+lar[70139]=`<b>ὀδοντο·φυής, ής, ές</b>, né des dents (du dragon) EUR. <i>Ph. 821</i>.<p><b>Étym</b>. ὀδούς, φύω.`

@@ -1,0 +1,1 @@
+lar[87445]=`<b>ή, όν</b>, qui s’effraie facilement, ARSTT. <i>Mir. 169</i> ; STR. <i>263, etc</i>.<p><b>Étym</b>. πτύρω.`

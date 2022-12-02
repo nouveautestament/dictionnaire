@@ -1,0 +1,1 @@
+lar[95006]=`<b>συν·ατιμόω-ῶ</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. συνατιμάζω PLUT. <i>Flam. 19</i>.`

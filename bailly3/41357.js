@@ -1,0 +1,1 @@
+lar[41357]=`<b>ἑτερο·πλατής, ής, ές</b> <font color="purple">[ᾰ]</font> plus large d’un côté que de l’autre, APD. POL. <i>26</i>.<p><b>Étym</b>. ἕ. πλάτος.`

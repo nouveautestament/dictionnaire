@@ -1,0 +1,1 @@
+lar[52740]=`<b>κατα·λιπαρέω-ῶ</b> <font color="purple">[ῑᾰ]</font> supplier, LUC. <i>D. deor. 25, 2</i>.`

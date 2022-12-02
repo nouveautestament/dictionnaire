@@ -1,0 +1,1 @@
+lar[108815]=`<b>χοροι·θαλής, ής, ές</b> <font color="purple">[ᾰ]</font> qui fleurit dans les chœurs, ANTH. <i>6, 287</i>.<p><b>Étym</b>. χ. θάλλω.`

@@ -1,0 +1,1 @@
+lar[92641]=`<b>ή, όν</b>, foulé, serré, compact, SOPH. <i>Ph. 33 ; d’où</i> solide, fort, AR. <i>Ach. 180</i> ; TH. <i>Ign. 37</i>.<p><b>Étym</b>. στείβω.`

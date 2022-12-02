@@ -1,0 +1,1 @@
+lar[77816]=`<b>ης (ἡ)</b> Pellènè :<br><b>      1</b> <i>v. d’Achaïe (auj</i>. ruines près de Pellíni) IL. <i>2, 574</i> ; HDT. <i>1, 145</i> ; XÉN. <i>Hell. 7, 1, 18, etc.</i><br><b>      2</b> <i>v. de Laconie,</i> AR. <i>Av. 1421, etc.</i> ; XÉN. <i>Hell. 7, 5, 9, etc</i>.<p>➳ <i>Dor</i>. Πελλάνα <font color="purple">[ᾱᾱ]</font> PD. <i>O. 9, 146, etc</i>.`

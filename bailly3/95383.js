@@ -1,0 +1,1 @@
+lar[95383]=`<b>συν·εκπίνω</b> <font color="purple">[ῑ]</font> boire jusqu’à la dernière goutte <i>ou</i> en même temps, XÉN. <i>An. 7, 3, 32</i> ; PLUT. <i>M. 664e</i>.`

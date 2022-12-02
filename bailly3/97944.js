@@ -1,0 +1,1 @@
+lar[97944]=`<b>ου (ὁ)</b> habitant de Tégée, THC. <i>4, 134 ; 5, 32, etc.</i> ; XÉN. <i>Hell. 4, 2, 13, etc</i>.<p>➳ <i>Ion</i>. Τεγεήτης, HDT. <i>1, 65, 68, etc</i>.<p><b>Étym</b>. Τεγέα.`

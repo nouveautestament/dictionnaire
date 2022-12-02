@@ -1,0 +1,1 @@
+lar[32459]=`<b>ἐλαιο·θέσιον, ου (τὸ)</b> salle où l’on déposait l’huile, <i>dans les bains,</i> VITR. <i>5, 11, 2</i>.<p><b>Étym</b>. ἔ. τίθημι.`

@@ -1,0 +1,1 @@
+lar[38601]=`<b>ου (τὸ)</b> petite cheville, chevillette, HÉRON <i>Aut. 272</i>.<p><b>Étym</b>. <i>dim. de</i> ἐπίουρος².`

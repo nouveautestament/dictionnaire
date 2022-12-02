@@ -1,0 +1,1 @@
+lar[3320]=`<b>(ὁ)</b> <font color="purple">[ᾰκ]</font> Akestôndas, <i>h</i>. ANTH. <i>6, 295</i>.<p><b>Étym</b>. ἀκέομαι.`

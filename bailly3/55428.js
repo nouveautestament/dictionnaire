@@ -1,0 +1,1 @@
+lar[55428]=`<b>ων (τὰ)</b> <font color="purple">[ῑκᾰ]</font> sorte de légume, NIC. <i>Th. 841</i>.`

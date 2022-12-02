@@ -1,0 +1,1 @@
+lar[91312]=`<b>ου (τὸ)</b> Skyllæon,<br><b>      1</b> <i>promont. d’Argolide (auj</i>. Skýlleo <i>ou</i> Kávo Skylí) THC. <i>5, 53, etc.</i><br><b>      2</b> <i>ville du Bruttium (auj</i>. Scilla) OD. <i>12, 73, etc.</i> ; POL. <i>34, 2</i> ; STR. <i>6, 257</i> ; APP. <i>Civ. 4, 359</i> ; DIOD. SIC. <i>48, 47</i> ; SÉN. <i>Ep. 79</i>.`

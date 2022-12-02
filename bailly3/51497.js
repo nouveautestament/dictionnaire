@@ -1,0 +1,1 @@
+lar[51497]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> bruit retentissant, PROCL. <i>Plat. Tim. p. 273</i>.<p><b>Étym</b>. καναχίζω.`

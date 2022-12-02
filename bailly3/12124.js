@@ -1,0 +1,1 @@
+lar[12124]=`rejeter en toussant, expectorer, HPC. <i>Progn. 45, 19 ; 189d, etc</i>.`

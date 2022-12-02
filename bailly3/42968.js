@@ -1,0 +1,1 @@
+lar[42968]=`<b>εὐ·πελαγής, ής, ές</b> <font color="purple">[ᾰ]</font> où la mer est belle, ORPH. <i>H. 168</i>.<p><b>Étym</b>. εὖ, πέλαγος.`

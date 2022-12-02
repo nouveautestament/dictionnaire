@@ -1,0 +1,1 @@
+lar[41313]=`<b>ἑτεροζυγέω-ῶ</b> <font color="purple">[ῠ]</font> tirer le joug d’un autre côté que son compagnon ; <i>fig</i>. contracter une alliance mal assortie : τινι, NT. <i>2Cor. 6, 14,</i> avec qqn.<p><b>Étym</b>. ἑτερόζυγος.`

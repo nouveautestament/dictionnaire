@@ -1,0 +1,1 @@
+lar[97309]=`<b>ου (τὸ)</b> maison de correction, PLAT. <i>Leg. 908a ;</i> PHIL. <i>2, 54</i>.<p><b>Étym</b>. σοφρονιστήρ.`

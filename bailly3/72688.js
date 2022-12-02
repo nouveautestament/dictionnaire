@@ -1,0 +1,1 @@
+lar[72688]=`<b>ὀρθο·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> à épines droites, TH. <i>C.P. 3, 18, 11 (var</i>. ὀρθάκανθος).<p><b>Étym</b>. ὀρθός, ἄκανθα.`

@@ -1,0 +1,1 @@
+lar[96708]=`<b>συ·στρατιώτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> compagnon d’armes, XÉN. <i>An. 1, 2, 26 ; Hell. 2, 4, 20 ; 5, 3, 17</i> ; PLAT. <i>Rsp. 556c ;</i> ARSTT. <i>Nic. 8, 9, 1</i>.`

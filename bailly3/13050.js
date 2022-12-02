@@ -1,0 +1,1 @@
+lar[13050]=`<b>ἀπο·περάω-ῶ</b>, traverser, PLUT. <i>Pomp. 62</i>.`

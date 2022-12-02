@@ -1,0 +1,1 @@
+lar[33683]=`<b>ἐμ·φιλόνεικος, ος, ον</b> <font color="purple">[ῐ]</font> qui a le goût inné des querelles, querelleur-né, BAS. <i>3, 452</i> ; NYSS. <i>2, 225 Migne</i>.<p><b>Étym</b>. ἐν, φ.`

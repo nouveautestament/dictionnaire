@@ -1,0 +1,1 @@
+lar[91548]=`<b>σοβαρο·βλέφαρος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> au sourcil hautain, ANTH. <i>5, 217</i>.<p><b>Étym</b>. σοβαρός, βλέφαρον.`

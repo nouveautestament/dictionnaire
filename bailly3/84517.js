@@ -1,0 +1,1 @@
+lar[84517]=`<b>προ·καταφθείρω</b>, détruire <i>ou</i> anéantir auparavant, TÉLÈS (STOB.).`

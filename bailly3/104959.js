@@ -1,0 +1,1 @@
+lar[104959]=`<b>ίδος (ἡ)</b> <font color="purple">[γᾰ]</font> petit couteau, ANTH. <i>6, 307</i>.<p><b>Étym</b>. φάσγανον.`

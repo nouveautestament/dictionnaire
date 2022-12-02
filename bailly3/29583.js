@@ -1,0 +1,1 @@
+lar[29583]=`<b>ἐγ·καταφλέγω</b>, faire brûler dans, <i>dat</i>. GEOP. <i>9, 6, 2 ; fig</i>. NYSS. <i>1, 112b</i>.<p><b>Étym</b>. ἐν, κ.`

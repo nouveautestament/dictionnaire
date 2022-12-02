@@ -1,0 +1,1 @@
+lar[83897]=`<i>adv</i>., de toute évidence, d’une manière éclatante, SOPH. <i>Aj. 1311</i> ; PLUT. <i>Oth. 9</i> ; ESCHN. <i>26, 9</i>.<p><b>Étym</b>. πρόδηλος.`

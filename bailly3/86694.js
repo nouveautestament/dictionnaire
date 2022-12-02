@@ -1,0 +1,1 @@
+lar[86694]=`<b>προσ·ωθέω-ῶ</b>, pousser contre <i>ou</i> vers, SPT. <i>2Macc. 13, 6</i> ; GEOP. <i>17, 19, 4, etc</i>.`

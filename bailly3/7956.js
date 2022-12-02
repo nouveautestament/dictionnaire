@@ -1,0 +1,1 @@
+lar[7956]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> rafraîchissement, PLAT. <i>Leg. 919a ; fig</i>. soulagement, EUR. <i>Suppl. 615</i> ; PLAT. <i>Conv. 176a.</i><br><b>      2</b> action de reprendre son souffle, PLAT. <i>Tim. 84d ;</i> ATH. <i>24e</i>.<p><b>Étym</b>. ἀναψύχω.`

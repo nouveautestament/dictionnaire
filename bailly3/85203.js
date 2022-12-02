@@ -1,0 +1,1 @@
+lar[85203]=`<b>προσ·ανιάω-ῶ</b> <font color="purple">[ᾰν]</font> causer un nouveau chagrin, SYN. <i>186c</i>.`

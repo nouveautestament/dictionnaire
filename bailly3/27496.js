@@ -1,0 +1,1 @@
+lar[27496]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Dŏmĭtĭānus, Domitien, <i>empereur romain,</i> PLUT. <i>Num. 19</i> ; HDN <i>1, 3, 4, etc. ; cf</i>. Δομιτιανός.`

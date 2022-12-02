@@ -1,0 +1,1 @@
+lar[2893]=`<b>αἰσχροεργέω-ῶ</b>, <i>p. contr</i>. <b>αἰσχρουργέω-ῶ :<br>      1</b> commettre des actions honteuses, CLÉM. <i>1, 649 Migne</i>.<br><b>      2</b> commettre des obscénités, DL. <i>1, 5</i> ; DC. <i>77, 16</i> ; SEXT. <i>170, 5 Bkk</i>.<p><b>Étym</b>. αἰσχροεργός.`

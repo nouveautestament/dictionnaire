@@ -1,0 +1,1 @@
+lar[65795]=`mesurer par milles, POL. <i>3, 39, 8 ; 34, 11, 8 ; 34, 12, 3</i> ; STR. <i>285</i>.<p><b>Étym</b>. μίλιον.`

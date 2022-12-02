@@ -1,0 +1,1 @@
+lar[24657]=`<b>δια·θορυβέω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> troubler profondément : τινα, THC. <i>5, 29</i> ; LUC. <i>Alex. 31</i>, qqn.<br><b>      2</b> faire un grand tumulte, PLUT. <i>Galb. 18</i>.`

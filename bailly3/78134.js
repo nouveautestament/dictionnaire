@@ -1,0 +1,1 @@
+lar[78134]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> nombre de cinquante, groupe de cinquante personnes <i>ou</i> choses, SOPH. <i>fr. 379 Dind.</i> ; PHIL. <i>2, 481</i>.<p><b>Étym</b>. πεντήκοντα.`

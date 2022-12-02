@@ -1,0 +1,1 @@
+lar[34907]=`<b>ἐνριζόω-ῶ</b>, faire prendre racine, HPC. <i>304, 15 Lind.</i> ; JOS. <i>B.J. 4, 8, 3</i>.<p><b>Étym</b>. ἔνριζος.`

@@ -1,0 +1,1 @@
+lar[17229]=`<b>ῶνος (ὁ)</b> Aulôn :<br><b>      1</b> <i>v. et vallée de Messénie,</i> XÉN. <i>etc.</i><br><b>      2</b> <i>lieu d’Attique,</i> ESCHN.<br><b>      3</b> <i>lieu de Chalcidique,</i> THC.<br><b>      4</b> <i>bras de mer entre Chypre et la Cilicie,</i> LUC. <i>et entre Andros et Ténos,</i> SCYL.<p><b>Étym</b>. <i>v</i>. αὐλών.`

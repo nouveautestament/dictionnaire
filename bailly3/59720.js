@@ -1,0 +1,1 @@
+lar[59720]=`<b>λαμπρ·αυγέτις, ιδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. λαμπραυγής MAN. <i>1, 301, etc</i>.`

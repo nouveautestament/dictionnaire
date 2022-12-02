@@ -1,0 +1,1 @@
+lar[30514]=`<b>ής, ές</b> <i>ou</i> <b>εἰναέτης, ης, ες</b> <font color="purple">[ᾰ]</font> de neuf années, ORPH. <i>Lith. 342 ; adv</i>. εἰνάετες, OD. <i>14, 240,</i> pendant neuf ans.<p><b>Étym</b>. ἐννέα, ἔτος.`

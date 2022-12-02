@@ -1,0 +1,1 @@
+lar[61219]=`<b>λιν·εργής, ής, ές</b> <font color="purple">[ῐ]</font> travaillé en lin, LYC. <i>716</i>.<p><b>Étym</b>. λίνον, ἔργον.`

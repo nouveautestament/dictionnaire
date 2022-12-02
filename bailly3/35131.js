@@ -1,0 +1,1 @@
+lar[35131]=`<b>ἔν·τριτος, ος, ον</b> <font color="purple">[ῐ]</font> triple, SPT. <i>Eccl. 4, 12</i>.<p><b>Étym</b>. ἐν, τρίτος.`

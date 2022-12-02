@@ -1,0 +1,1 @@
+lar[35699]=`<b>ἐξ·εδαφίζω</b> <font color="purple">[ᾰ]</font> détruire de fond en comble, SIB. <i>8, 39</i>.<p><b>Étym</b>. ἐξ, ἔδαφος.`

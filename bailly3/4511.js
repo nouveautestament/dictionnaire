@@ -1,0 +1,1 @@
+lar[4511]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font> de sel, HDT. <i>4, 185</i>.<p><b>Étym</b>. ἅλς.`

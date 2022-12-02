@@ -1,0 +1,1 @@
+lar[86277]=`<b>προσ·παρασκευάζω</b>, préparer en outre, <i>acc</i>. DÉM. <i>94, 20</i>.<br><b><i>Moy.</i></b> préparer en outre pour soi, <i>acc</i>. DÉM. <i>445 fin</i>.`

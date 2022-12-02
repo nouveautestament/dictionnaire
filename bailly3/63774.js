@@ -1,0 +1,1 @@
+lar[63774]=`<b>μελαγ·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> vêtu de noir, en vêtement de deuil, ESCHL. <i>Ch. 9 ; fig</i>. sombre, triste, <i>en parl. de l’âme,</i> ESCHL. <i>Pers. 114</i>.<p><b>Étym</b>. μ. χιτών.`

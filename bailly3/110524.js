@@ -1,0 +1,1 @@
+lar[110524]=`<b>ας (ἡ)</b> = <i>lat</i>. Ostia, Ostie, <i>port du Latium,</i> PLUT. <i>Mar. 35, 42, etc</i>.`

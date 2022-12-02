@@ -1,0 +1,1 @@
+lar[14002]=`<b>ἀ·προφανής, ής, ές</b> <font color="purple">[φᾰ]</font> imprévu, ORPH. <i>Arg. 785</i>.<p><b>Étym</b>. ἀ, προφαίνω.`

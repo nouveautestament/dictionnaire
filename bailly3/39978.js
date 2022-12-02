@@ -1,0 +1,1 @@
+lar[39978]=`<font color="purple">[ᾰ]</font> <i>adv</i>., sept fois, PD. <i>O. 13, 39</i> ; AR. <i>Lys. 698</i> ; LUC. <i>Pisc. 2</i>.<p><b>Étym</b>. ἑπτά, -κις.`

@@ -1,0 +1,1 @@
+lar[91228]=`<b>ος, ον</b>, non éclairé par la lune, OD. <i>14, 457</i>.<p><b>Étym</b>. σκοτομήνη.`

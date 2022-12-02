@@ -1,0 +1,1 @@
+lar[23201]=`<b>ιδος (ὁ)</b> Dandamis :<br><b>      1</b> <i>brahmane,</i> PLUT. <i>Alex. 8, 65</i> ; ARR. <i>An. 7, 2, 2</i>.<br><b>      2</b> <i>Scythe,</i> LUC. <i>Tox. 39</i>.`

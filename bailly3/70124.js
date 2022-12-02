@@ -1,0 +1,1 @@
+lar[70124]=`<b>ὁδοι·πόρος, ου (ὁ) :<br>      1</b> voyageur, <i>particul</i>. à pied, ESCHL. <i>Ag. 901</i> ; SOPH. <i>O.R. 292</i> ; AR. <i>Ach. 205</i> ; PLUT. <i>M. 536c, 649b.</i><br><b>      2</b> guide, IL. <i>24, 375</i>.<p><b>Étym</b>. ὁδός, πορεύομαι.`

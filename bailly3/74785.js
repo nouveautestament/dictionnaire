@@ -1,0 +1,1 @@
+lar[74785]=`<b>οῦ (τὸ)</b> <font color="purple">[ῡᾰ]</font> Pamphyliakon, <i>lieu d’Argos,</i> PLUT. <i>Mul. virt. 4</i>.<p><b>Étym</b>. Παμφυλία.`

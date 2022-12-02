@@ -1,0 +1,1 @@
+lar[61961]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> <i>c</i>. λυπητήριος PLUT. <i>M. 657a</i>.`

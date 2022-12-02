@@ -1,0 +1,1 @@
+lar[105862]=`<b>φιλο·κρόταλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime les castagnettes, ANTH. <i>9, 505</i>.<p><b>Étym</b>. φ. κρόταλον.`

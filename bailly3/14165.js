@@ -1,0 +1,1 @@
+lar[14165]=`<b>α, ον</b> <font color="purple">[ᾰᾱ]</font> d’Aratus, THCR. <i>Idyl. 17</i> ; τὸ Ἀράτειον, PLUT. <i>Arat. 53,</i> lieu consacré à Aratus de Sicyone.<p><b>Étym</b>. Ἄρατος.`

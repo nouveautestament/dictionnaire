@@ -1,0 +1,1 @@
+lar[49687]=`<b>*ἰσο·μήτωρ</b>, <i>seul. dor</i>. <b>ἰσομάτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῑ̆ᾱ]</font> égal à sa mère, THCR. <i>Idyl. 8, 14</i>.<p><b>Étym</b>. ἴ. μήτηρ.`

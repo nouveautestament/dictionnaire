@@ -1,0 +1,1 @@
+lar[27675]=`<b>ή, όν</b>, qui aime à donner, libéral, ARSTT. <i>Nic. 4, 1, 47 ; t. de gr</i>. ἡ δοτική (<i>s.-e</i>. πτῶσις) STR. <i>648</i> ; DH. <i>Thuc. 11</i> ; PLUT. <i>M. 1006d, etc</i>. le cas de l’attribution, <i>càd</i>. le datif.<p><b>Étym</b>. δίδωμι.`

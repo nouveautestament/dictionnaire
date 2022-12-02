@@ -1,0 +1,1 @@
+lar[103781]=`<b>ὑπο·ρροιζέω-ῶ</b>, faire un bruit sourd, PLUT. <i>M. 590c</i>.<p><b>Étym</b>. ὑ. ῥοιζέω.`

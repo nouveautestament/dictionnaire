@@ -1,0 +1,1 @@
+lar[74552]=`<b>παλίμ·φημος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui renvoie le son, qui répond, EUR. <i>Ion 1096</i>.<br><b>      2</b> dont le son est à rebours, discordant, TRIPHIOD. <i>423</i> ; PHIL. <i>2, 301</i>.<p>➳ <i>Dor</i>. παλίμφαμος <font color="purple">[φᾱ]</font> EUR. <i>l.c</i>.<p><b>Étym</b>. π. φήμη.`

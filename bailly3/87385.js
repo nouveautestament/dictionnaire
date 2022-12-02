@@ -1,0 +1,1 @@
+lar[87385]=`<b>πτιλόω-ῶ</b> <font color="purple">[ῐ]</font> donner des ailes, PHILSTR. <i>134</i>.<p><b>Étym</b>. πτίλον.`

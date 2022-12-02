@@ -1,0 +1,1 @@
+lar[49723]=`<b>ἰσό·πρεσβυς (ὁ, ἡ)</b> <font color="purple">[ῑ̆]</font> de vieillard (<i>litt</i>. égal à un vieillard) ESCHL. <i>Ag. 78</i>.<p><b>Étym</b>. ἴ. πρέσβυς.`

@@ -1,0 +1,1 @@
+lar[31075]=`<b>ἐκ·βασανίζω</b> <font color="purple">[ᾰᾰ]</font> mettre à la torture, JOS. <i>A.J. 15, 8, 4 ; p. ext</i>. mettre à l’épreuve, éprouver, <i>fig</i>. PHILSTR. <i>V. Ap. 2, 30</i>.`

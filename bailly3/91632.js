@@ -1,0 +1,1 @@
+lar[91632]=`<b>(ὁ)</b> = <i>lat</i>. Sura, <i>n. d’h. rom</i>. PLUT. <i>Syll. 11</i>.`

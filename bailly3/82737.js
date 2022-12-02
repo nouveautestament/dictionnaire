@@ -1,0 +1,1 @@
+lar[82737]=`<b>ου (ὁ)</b> = <i>lat</i>. Publius, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 4, etc</i>.`

@@ -1,0 +1,1 @@
+lar[4336]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., véritablement, réellement, ISOCR. <i>111b ;</i> PLAT. <i>Tim. 19b, etc</i>.<p>•<i> Sup</i>. -ώτατα, POL. <i>40, 8, 7</i>.`

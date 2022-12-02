@@ -1,0 +1,1 @@
+lar[72385]=`<b>ὁποί·ποτε</b>, <i>adv. relat</i>. quelque part que ce soit, <i>avec mouv</i>. ATT.<p><b>Étym</b>. ὅποι, ποτέ.`

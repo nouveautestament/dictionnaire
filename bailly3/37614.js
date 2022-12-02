@@ -1,0 +1,1 @@
+lar[37614]=`<b>ἐπι·διαφθείρω</b>, détruire en outre, PHIL. <i>p. 42</i> ; JOS. <i>B.J. 6, 3, 2</i>.`

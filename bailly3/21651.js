@@ -1,0 +1,1 @@
+lar[21651]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui concerne la naissance, NONN. <i>Jo. 9, 7</i>.<p><b>Étym</b>. γενέθλιος.`

@@ -1,0 +1,1 @@
+lar[76121]=`<b>παρα·προχέω</b> (<i>seul. part. ao. pass. fém</i>. παραπροχυθεῖσα) répandre auprès, NONN. <i>D. 48, 599</i>.`

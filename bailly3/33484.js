@@ -1,0 +1,1 @@
+lar[33484]=`<b>ἐμ·πλεονάζω</b>, répandre à profusion, <i>dat</i>. Ps.-HÉRACLITE ÉPH. <i>Ep. 7, 6</i>.<p><b>Étym</b>. ἐν, πλ.`

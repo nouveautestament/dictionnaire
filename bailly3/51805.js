@@ -1,0 +1,1 @@
+lar[51805]=`<font color="purple">[ᾱτῑ]</font> <i>adv</i>., à la manière des Cariens, en Carien, STR. <i>663</i>.<p><b>Étym</b>. Κάρ.`

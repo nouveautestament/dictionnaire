@@ -1,0 +1,1 @@
+lar[72844]=`<b>ὁρκιη·τόμος, ος, ον</b>, qui conclut une convention avec serment, DYSC. <i>Adv. p. 602, 24</i>.`

@@ -1,0 +1,1 @@
+lar[4681]=`<b>ου (τὸ)</b> secours, remède, NIC. <i>Th. 528</i>.<p><b>Étym</b>. ἀλκτήρ.`

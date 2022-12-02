@@ -1,0 +1,1 @@
+lar[94115]=`<b>συμ·πάρειμι</b> :<br><b>      1</b> être présent aussi <i>ou</i> en même temps, HPC. <i>V. med. 15</i> ; XÉN. <i>Lac. 2, 2 ; 12, 3, etc.</i><br><b>      2</b> venir au secours de, assister, <i>dat</i>. XÉN. <i>Hell. 4, 6, 1 ; en parl. d’un avocat,</i> DÉM. <i>749, 16</i>.<p><b>Étym</b>. εἰμί, être.`

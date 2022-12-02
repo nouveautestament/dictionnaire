@@ -1,0 +1,1 @@
+lar[104800]=`<b>φανερό·μισος, ος, ον</b> <font color="purple">[ᾰῑ]</font> qui hait ouvertement, ARSTT. <i>Nic. 4, 3, 28</i>.<p><b>Étym</b>. φ. μισέω.`

@@ -1,0 +1,1 @@
+lar[2230]=`<b>αἰγι·βότης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui nourrit des chèvres, ANTH. <i>6, 334</i>.<p><b>Étym</b>. αἴξ, βόσκω.`

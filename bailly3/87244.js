@@ -1,0 +1,1 @@
+lar[87244]=`<b>πρωτό·ποσις, εως (ἡ)</b> femme mariée pour la première fois, THÉMISON (ATH. <i>235a</i>).<p><b>Étym</b>. πρ. πόσις.`

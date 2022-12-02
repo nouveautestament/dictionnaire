@@ -1,0 +1,1 @@
+lar[54848]=`<b>οῦ (ὁ)</b> celui qui fait un mélange, ORPH. <i>fr. 28, 13</i>.<p><b>Étym</b>. κεράννυμι.`

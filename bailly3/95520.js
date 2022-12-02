@@ -1,0 +1,1 @@
+lar[95520]=`<b>συν·εξελίσσω</b>, <i>att</i>. <b>-ίττω</b>, dérouler <i>ou</i> déployer en même temps, CALLISTR. <i>11</i>.`

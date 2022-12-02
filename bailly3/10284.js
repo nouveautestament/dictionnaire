@@ -1,0 +1,1 @@
+lar[10284]=`<b>εως (ἡ)</b> action de frapper à son tour, NAZ. <i>2, 229</i>.<p><b>Étym</b>. ἀντιπλήσσω.`

@@ -1,0 +1,1 @@
+lar[96470]=`<b>συο·βαύβαλος, ος, ον</b> <font color="purple">[ᾰ]</font> d’étable à porcs, CRAT. (<i>Com. fr. 2, 187).</i><p><b>Étym</b>. σῦς, βαυβάω.`

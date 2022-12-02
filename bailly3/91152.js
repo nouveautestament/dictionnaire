@@ -1,0 +1,1 @@
+lar[91152]=`<b>ου (τὸ)</b> scordium <i>ou</i> germandrée (<i>Teucrium scordium</i> L.) <i>plante,</i> DIOSC. <i>3, 125</i> ; ORIB. <i>196 Mai</i>.<p>➳ <font color="purple">[ῑ]</font> ANDROM. (GAL. <i>429</i>).`

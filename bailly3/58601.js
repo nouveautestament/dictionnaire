@@ -1,0 +1,1 @@
+lar[58601]=`<b>(ἡ)</b> gymnase en l’honneur de Kylarabès, <i>à Argos,</i> PLUT. <i>Pyrrh. 32</i>.`

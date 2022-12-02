@@ -1,0 +1,1 @@
+lar[15192]=`<b>ἀ·ρρυτίδωτος, ος, ον</b> <font color="purple">[ῠῐ]</font> non ridé, ANTH. <i>5, 13 ; 6, 252</i>.<p><b>Étym</b>. ἀ, ῥυτιδόω.`

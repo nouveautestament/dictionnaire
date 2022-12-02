@@ -1,0 +1,1 @@
+lar[61434]=`<b>ου (τὸ)</b> <i>ion. et anc. att. c</i>. νίτρον, HDT. <i>2, 86, 87</i> ; AR. (<i>Com. fr. 2, 1078</i>) ; PLAT. <i>Tim. 60d, 65d, etc</i>.`

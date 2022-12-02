@@ -1,0 +1,1 @@
+lar[63658]=`<b>ας (ἡ)</b> ivrognesse, THPP. COM. (POLL. <i>6, 25).</i><p><b>Étym</b>. μεθύω.`

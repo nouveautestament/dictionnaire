@@ -1,0 +1,1 @@
+lar[62174]=`<b>ου (ὁ)</b> Lôos, <i>mois macédonien, correspond. à la 2<sup>e</sup> moitié de</i> Ἑκατομβαιών <i>et à la 1<sup>re</sup> moitié de</i> Μεταγειτνιών, PLUT. <i>Alex. 3</i>.`

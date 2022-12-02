@@ -1,0 +1,1 @@
+lar[7833]=`<b>ἀν·αύξητος, ος, ον :<br>      1</b> qui ne croît pas, ARSTT. <i>Cæl. 1, 3, 7</i>.<br><b>      2</b> <i>t. de gr</i>. sans augment, EUST. <i>19, 29</i>.<p><b>Étym</b>. ἀν-, αὔξω.`

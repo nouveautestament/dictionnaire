@@ -1,0 +1,1 @@
+lar[64852]=`<b>μετ·αμπέχω</b> <i>ou</i> <b>μετ·αμπίσχω</b>, faire changer de vêtement, <i>d’où moy</i>. changer de vêtement : ἀντὶ τῆς ἐλευθερίας τὴν δουλείαν μεταμπισχόμενος, PLAT. <i>Rsp. 569c</i>, qui prend la livrée de l’esclavage en échange du vêtement de l’homme libre ; <i>abs</i>. ARSTD. <i>t. 2, 207</i>.`

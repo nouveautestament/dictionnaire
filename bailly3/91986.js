@@ -1,0 +1,1 @@
+lar[91986]=`<b>σπονδ·αυλέω-ῶ</b>, jouer de la flûte pour les libations, ARTÉM. <i>1, 58</i>.<p><b>Étym</b>. σπονδή, αὐλέω.`

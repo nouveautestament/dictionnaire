@@ -1,0 +1,1 @@
+lar[61231]=`<b>λινο·θήρας, ου (ὁ)</b> <font color="purple">[ῐᾱ]</font> chasseur au filet, ANTH. <i>7, 172</i>.<p><b>Étym</b>. λ. θηράω.`

@@ -1,0 +1,1 @@
+lar[63945]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui prend soin de, <i>gén</i>. EMPÉD. <i>398 Mullach,</i> ANTH. <i>6, 39</i>.<p><b>Étym</b>. μελεδαίνω.`

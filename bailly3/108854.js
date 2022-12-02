@@ -1,0 +1,1 @@
+lar[108854]=`<b>χορτο·φόρος, ος, ον :<br>      1</b> qui produit du fourrage, GEOP. <i>3, 11, 7</i>.<br><b>      2</b> qui porte du fourrage, POLYEN <i>3, 15</i> ; STR. <i>705</i>.<p><b>Étym</b>. χόρτος, φέρω.`

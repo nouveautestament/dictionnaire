@@ -1,0 +1,1 @@
+lar[94845]=`<b>συν·απηχέω-ῶ</b>, retentir de cris de tous côtés, POLYEN <i>8, 23, 3 dout</i>.`

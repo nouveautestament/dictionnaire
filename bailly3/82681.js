@@ -1,0 +1,1 @@
+lar[82681]=`<b>ή, όν</b>, propre à supporter la fatigue <i>ou</i> le travail, ARSTT. <i>Longæv. 5, 6</i>.<p><b>Étym</b>. πονέω.`

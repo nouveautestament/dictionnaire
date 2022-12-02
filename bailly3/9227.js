@@ -1,0 +1,1 @@
+lar[9227]=`<i>adv</i>., sans avoir à te lamenter, <i>càd</i>. impunément, SOPH. <i>Aj. 1227</i>.<p><b>Étym</b>. ἀνοίμωκτος.`

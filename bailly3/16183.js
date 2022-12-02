@@ -1,0 +1,1 @@
+lar[16183]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Astéris, <i>î. près d’Ithaque,</i> OD. <i>4, 846</i>.`

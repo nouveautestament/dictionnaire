@@ -1,0 +1,1 @@
+lar[40454]=`<b>ἐρί·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> au bruit retentissant, <i>ép. de Poséidon,</i> HÉS. <i>Th. 456, 930</i>.<p><b>Étym</b>. ἐρι-, κτύπος.`

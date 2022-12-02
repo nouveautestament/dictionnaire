@@ -1,0 +1,1 @@
+lar[85971]=`<b>προσ·κατασκάπτω</b>, détruire en outre de fond en comble, JOS. <i>Vit. 10</i>.`

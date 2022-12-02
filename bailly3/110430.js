@@ -1,0 +1,1 @@
+lar[110430]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> <i>t. d’astrol</i>. l’ascendant de la nativité, PROCL. <i>Ptol. p. 186</i>.<p><b>Étym</b>. ὥριμος.`

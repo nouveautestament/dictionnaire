@@ -1,0 +1,1 @@
+lar[5902]=`<b>εως (ἡ)</b> obscurcissement, GAL.<p><b>Étym</b>. ἀμυδρόω.`

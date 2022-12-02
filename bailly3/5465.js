@@ -1,0 +1,1 @@
+lar[5465]=`<i>adv</i>., sans inquiétude, HDN <i>4, 5, 15</i>.`

@@ -1,0 +1,1 @@
+lar[31627]=`<b>ἐκ·λυγίζω</b> <font color="purple">[ῠ]</font> plier, assouplir, PORPH. <i>Abst. 1, 33</i> ; NYSS. <i>2, 700d</i>.`

@@ -1,0 +1,1 @@
+lar[103530]=`<b>ὑπο·μεμψίμοιρος, ος, ον</b> <font color="purple">[ῐ]</font> un peu mécontent de son sort, CIC. <i>Att. 6, 1</i>.`

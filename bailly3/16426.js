@@ -1,0 +1,1 @@
+lar[16426]=`<b>ἀσυγχύτως</b> <font color="purple">[χῠ]</font> <i>adv</i>., sans fusion, sans confusion, ARR. <i>Epict. 4, 8, 20</i> ; CLÉM. <i>etc</i>.`

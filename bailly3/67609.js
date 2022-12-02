@@ -1,0 +1,1 @@
+lar[67609]=`<b>ου (ὁ)</b> Namertès, <i>h</i>. PLUT. <i>M. 230a</i>.`

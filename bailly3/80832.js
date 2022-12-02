@@ -1,0 +1,1 @@
+lar[80832]=`<font color="purple">[ᾰ]</font> <i>adv</i>., le plus grand nombre de fois, le plus souvent, très souvent, HPC. <i>Art. 818</i> ; ANT. <i>139, 34, etc.</i> ; ὡς πλ. PLAT. <i>Rsp. 459d, etc.</i> ; ὅτι πλ. XÉN. <i>Œc. 16, 14, etc</i>. le plus souvent possible.<p><b>Étym</b>. πλεῖστος, -άκις.`

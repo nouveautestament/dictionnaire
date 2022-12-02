@@ -1,0 +1,1 @@
+lar[64540]=`<b>μεσό·νεοι, ων (οἱ)</b> rameurs du banc du milieu, ARSTT. <i>Mech. 4</i>.<p><b>Étym</b>. μέσος, ναῦς.`

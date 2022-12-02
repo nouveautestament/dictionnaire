@@ -1,0 +1,1 @@
+lar[91754]=`<font color="darkgreen">(<i>part. prés. épq. fém</i>. σπαργεῦσα)</font> <i>c</i>. σπαργάω, Q. SM. <i>14, 283</i>.`

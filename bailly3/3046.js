@@ -1,0 +1,1 @@
+lar[3046]=`parler <i>ou</i> agir à contre-temps, PHIL. <i>2, 116, 280</i>.<p><b>Étym</b>. ἄκαιρος.`

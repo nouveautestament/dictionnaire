@@ -1,0 +1,1 @@
+lar[24359]=`<b>ου (ὁ)</b> = <i>lat</i>. Densus, <i>n. d’h</i>. PLUT. <i>Galb. 26</i> ; DC. <i>64, 6</i>.`

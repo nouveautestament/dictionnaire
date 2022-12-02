@@ -1,0 +1,1 @@
+lar[96577]=`<b>ή, όν</b>, nettoyé, lavé, <i>litt</i>. balayé par le courant d’un ruisseau <i>ou</i> d’une rivière, POL. <i>34, 9, 10</i> ; STR. <i>246</i>.<p><b>Étym</b>. <i>vb. de</i> σύρω.`

@@ -1,0 +1,1 @@
+lar[70754]=`<b>οῦ (ὁ)</b> action de tirer des présages du vol <i>ou</i> du cri des oiseaux, présage, PLUT. <i>Num. 14</i> ; SPT. <i>Num. 23, 23 ; Sir. 34, 5</i>.<p><b>Étym</b>. οἰωνίζομαι.`

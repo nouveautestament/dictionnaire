@@ -1,0 +1,1 @@
+lar[33062]=`<b>(ὁ)</b> <font color="purple">[ᾰᾱ]</font> cordonnier, <i>surn. d’Anytos,</i> THPP. COM. <i>2, 813</i>.<p><b>Étym</b>. ἐμβάς.`

@@ -1,0 +1,1 @@
+lar[38665]=`<b>ἐπι·πετάννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao</i>. ἐπεπέτασα)</font> étendre sur : τι ἐπί τι, XÉN. <i>Cyn. 5, 10,</i> une chose sur une autre ; <i>au pass</i>. être étendu <i>ou</i> répandu, Q. SM. <i>14, 25</i>.<p><b>Étym</b>. <i>pl.q.pf. 3 sg. poét</i>. ἐπιπέπτατο.`

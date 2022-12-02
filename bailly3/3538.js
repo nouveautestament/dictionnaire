@@ -1,0 +1,1 @@
+lar[3538]=`<b>ἀ·κόνιτος, ος, ον</b> <font color="purple">[ῑ]</font> sans poussière, sans combat, sans effort, Q. SM. <i>4, 319</i>.<p><b>Étym</b>. ἀ, κονίω.`

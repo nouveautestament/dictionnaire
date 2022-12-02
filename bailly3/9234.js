@@ -1,0 +1,1 @@
+lar[9234]=`<b>ἀν·οιστρέω-ῶ</b>, aiguillonner, <i>càd</i>. transporter d’une fureur divine, EUR. <i>Bacch. 979</i>.<p><b>Étym</b>. ἀνά, οἶστρος.`

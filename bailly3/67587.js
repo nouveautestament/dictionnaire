@@ -1,0 +1,1 @@
+lar[67587]=`<b>ου (τὸ)</b> <i>sorte de plante de l’Inde,</i> TH. <i>H.P. 9, 7, 3</i>.`

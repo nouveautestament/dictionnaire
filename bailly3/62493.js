@@ -1,0 +1,1 @@
+lar[62493]=`<b>ων (οἱ)</b> les Macrobies, <i>litt</i>. les hommes à longue vie, <i>pple d’Éthiopie,</i> HDT. <i>3, 17, 97</i> ; DP. <i>560</i>.<p><b>Étym</b>. μακρόβιος.`

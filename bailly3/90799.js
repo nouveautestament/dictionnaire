@@ -1,0 +1,1 @@
+lar[90799]=`<b>σκευο·θήκη, ης (ἡ)</b> endroit pour serrer des meubles, des ustensiles, <i>etc. ; d’où</i> :<br><b>      1</b> magasin, ESCHL. <i>fr. 273</i>.<br><b>      2</b> arsenal, ESCHN. <i>57, 27</i> ; PHILOD. <i>Rhet. p. 24, 2</i>.<br><b>      3</b> garde-manger, ATH. <i>460d</i>.<p><b>Étym</b>. σκεῦος, θήκη.`

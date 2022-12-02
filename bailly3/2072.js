@@ -1,0 +1,1 @@
+lar[2072]=`<b>ας (ἡ)</b> <font color="purple">[ᾱῠ]</font> <i>dor</i>. lutte, ANTH. <i>6, 54</i>.<p>➳ <i>Ion</i>. ἀεθλοσύνη, ANTH. <i>5, 294</i>.`

@@ -1,0 +1,1 @@
+lar[12372]=`<b>ἀπ·όζω</b> <font color="darkgreen">(<i>impf</i>. ἄπωζον, <i>f</i>. -οζήσω) :</font><br><b>      1</b> exhaler une odeur : τινός, IBYC. <i>42</i> ; PLUT. <i>M. 13e</i>, de qqe ch. (parfum, <i>etc</i>.).<br><b>      2</b> <i>intr. impers</i>. ἀπόζει, il se dégage une odeur : ἀπ. ἡδὺ τῆς χώρης, HDT. <i>3, 113,</i> il se dégage une odeur agréable de la contrée.`

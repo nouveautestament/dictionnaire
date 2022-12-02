@@ -1,0 +1,1 @@
+lar[82215]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grand nombre d’enfants, ISOCR. <i>203d ;</i> APP. <i>Civ. 1, 7</i>.<p><b>Étym</b>. πολύπαις.`

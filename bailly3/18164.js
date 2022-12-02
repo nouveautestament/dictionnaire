@@ -1,0 +1,1 @@
+lar[18164]=`<b>εως (ἡ)</b> action d’aller à la selle, <i>d’où</i> :<br><b>      1</b> excrément, EROT.<br><b>      2</b> anus, CLÉM.<p><b>Étym</b>. ἀφοδεύω.`

@@ -1,0 +1,1 @@
+lar[93833]=`<b>συμ·βεβαιόω-ῶ</b>, affermir solidement, confirmer, CLÉM. <i>205, 47</i>.`

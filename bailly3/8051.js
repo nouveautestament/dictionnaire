@@ -1,0 +1,1 @@
+lar[8051]=`<b>ας (ἡ)</b> descendance par les hommes <i>ou</i> les mâles, HPC. <i>1294, 33</i>.<p><b>Étym</b>. ἀνήρ, γένος.`

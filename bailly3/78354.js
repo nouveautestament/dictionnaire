@@ -1,0 +1,1 @@
+lar[78354]=`<b>περι·ᾴδω</b>, chanter autour, de tous côtés, LUC. <i>Salt. 27 ; au pass</i>. être étourdi par du bruit autour de soi, PLUT. <i>M. 663d</i>.`

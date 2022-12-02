@@ -1,0 +1,1 @@
+lar[109025]=`<b>χριστ·έμπορος, ου (ὁ)</b> qui fait trafic du Christ, <i>càd</i>. de la religion, NAZ. <i>p. 178, 306</i> ; CHRYS. <i>Comm. in ep. ad Thess. p. 17</i>.<p><b>Étym</b>. χριστός, ἔμπορος.`

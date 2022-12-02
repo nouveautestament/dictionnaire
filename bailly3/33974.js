@@ -1,0 +1,1 @@
+lar[33974]=`<b>ἐν·αποπλύνω</b> <font color="purple">[ῡ]</font> laver dans, <i>avec</i> ἐν <i>et le dat</i>. ARSTT. <i>Sens. 4, 11</i> ; PAUS. <i>3, 25, 8</i>.`

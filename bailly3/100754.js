@@ -1,0 +1,1 @@
+lar[100754]=`<b>τροχαι·ειδής, ής, ές</b>, semblable à un trochée, trochaïque, A. QUINT. <i>1, 39</i>.<p><b>Étym</b>. τροχαῖος, εἶδος.`

@@ -1,0 +1,1 @@
+lar[24338]=`<b>δημο·χαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui plaît au peuple, P. ALEX. <i>Apot. 24, p. 67, l. 3 Boer</i>.<p><b>Étym</b>. δῆμος, χαίρω.`

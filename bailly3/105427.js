@@ -1,0 +1,1 @@
+lar[105427]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>c</i>. φιλαδελφία ANTH. <i>9, 799</i>.`

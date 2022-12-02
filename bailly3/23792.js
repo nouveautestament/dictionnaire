@@ -1,0 +1,1 @@
+lar[23792]=`<b>δελτο·ειδῶς</b>, <i>adv</i>., en forme de delta <i>ou</i> de triangle, RUF. <i>Part. corp. p. 67</i>.<p><b>Étym</b>. δέλτα, εἶδος.`

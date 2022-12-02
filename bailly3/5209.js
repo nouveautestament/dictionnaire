@@ -1,0 +1,1 @@
+lar[5209]=`<b>έως (ὁ)</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> voiturier, D. CHR. <i>2, 339</i>.<br><b>      2</b> qui traîne un chariot, PLUT. <i>Dio. 38</i>.<p><b>Étym</b>. ἅμαξα.`

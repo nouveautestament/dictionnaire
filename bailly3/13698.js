@@ -1,0 +1,1 @@
+lar[13698]=`<b>εως (ἡ)</b> action de rejeter en urinant <i>ou</i> d’uriner, ARÉT. <i>p. 53, 25</i>.<p><b>Étym</b>. ἀπουρέω.`

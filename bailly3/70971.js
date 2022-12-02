@@ -1,0 +1,1 @@
+lar[70971]=`<b>ὀλιγανθρωπέω-ῶ</b> <font color="purple">[ῐ]</font> <i>c</i>. ὀλιγανδρέω, THÉAGÈS (SCH.-PD. <i>N. 3, 21</i>).<br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>A.J. 11, 5, 8</i>.<p><b>Étym</b>. ὀλιγάνθρωπος.`

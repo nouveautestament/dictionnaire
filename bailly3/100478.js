@@ -1,0 +1,1 @@
+lar[100478]=`<b>τρισ·νέατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui précède l’avant-dernier, pénultième, CRAT. (<i>Com. fr. 2, 93</i>).`

@@ -1,0 +1,1 @@
+lar[77768]=`<b>ορος (ὁ)</b> qui coupe <i>ou</i> taille avec la hache, MAN. <i>4, 324</i>.<p><b>Étym</b>. πελεκάω.`

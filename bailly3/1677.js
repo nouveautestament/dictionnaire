@@ -1,0 +1,1 @@
+lar[1677]=`<b>ας</b> <font color="purple">[ᾰ]</font> disposition à rendre toujours compte : ἀειλογίαν παρέχειν <i>ou</i> προτείνεσθαι, DÉM. <i>341, 16,</i> s’offrir toujours à rendre compte.<p><b>Étym</b>. ἀ. λόγος.`

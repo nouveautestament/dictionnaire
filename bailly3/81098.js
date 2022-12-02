@@ -1,0 +1,1 @@
+lar[81098]=`<b>ου (ὁ)</b> ce qui est plié <i>ou</i> tressé, <i>d’où</i> :<br><b>      1</b> touffe de cheveux noués <i>ou</i> bouclés, ESCHL. <i>Ch. 197</i> ; SOPH. <i>Aj. 1179, etc.</i> ; EUR. <i>El. 527, etc.</i><br><b>      2</b> couronne tressée, PD. <i>O. 13, 45</i> ; EUR. <i>El. 778, etc.</i><br><b>      3</b> corde d’arc tressée, LYC. <i>915</i>.<p><b>Étym</b>. πλέκω.`

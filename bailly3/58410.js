@@ -1,0 +1,1 @@
+lar[58410]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> de forme cubique, PLAT. <i>Tim. 55c.</i><br><b>      2</b> élevé au cube, <i>en parl. d’un nombre,</i> ARSTT. <i>Probl. 15, 3</i>.<p><b>Étym</b>. κύβος.`

@@ -1,0 +1,1 @@
+lar[22873]=`<b>ου (ἡ) :<br>      1</b> gypse, plâtre, HDT. <i>7, 69</i> ; PLAT. <i>Phæd. 110c ;</i> TH. <i>Lap. 64</i> ; ANTH. <i>5, 19 ; etc.</i> ; PAUS. <i>8, 22, 7 ; 9, 32, 1</i>.<br><b>      2</b> chaux vive, TH. <i>fr. 2, 3</i>.`

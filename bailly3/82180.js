@@ -1,0 +1,1 @@
+lar[82180]=`<b>πολύ·ογκος, ος, ον</b>, qui a une grosseur énorme, CHRYS.<p><b>Étym</b>. π. ὄγκος.`

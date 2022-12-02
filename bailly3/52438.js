@@ -1,0 +1,1 @@
+lar[52438]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font> par où l’on peut descendre, OD. <i>13, 110</i>.<p><b>Étym</b>. <i>cf</i>. καταβατός.`

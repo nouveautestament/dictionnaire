@@ -1,0 +1,1 @@
+lar[2963]=`<b>αἰτιο·λογέω-ῶ</b>, rechercher <i>ou</i> expliquer les causes, PLUT. <i>M. 689b ;</i> GAL. <i>2, 365</i> ; SEXT. <i>40, 18 Bkk. etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. DYSC. <i>Conj. 507</i>.<p><b>Étym</b>. αἰτία, λόγος.`

@@ -1,0 +1,1 @@
+lar[39861]=`<b>ἐπ·οπτάω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἐπώπτων) :</font><br><b>      1</b> faire rôtir <i>ou</i> griller sur, OD. <i>12, 363</i>.<br><b>      2</b> faire rôtir <i>ou</i> griller ensuite <i>ou</i> de nouveau, DIPH. SIPHN. (ATH. <i>121c, 656b</i>).`

@@ -1,0 +1,1 @@
+lar[67255]=`<b>μυριοντα·πλάσιος, ος, ον</b> <font color="purple">[ῡᾰσ]</font> dix mille fois plus, CHRYS. <i>8, 196</i>.<p><b>Étym</b>. μυρίοι, -πλάσιος.`

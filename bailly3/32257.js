@@ -1,0 +1,1 @@
+lar[32257]=`<b>ἐκ·τυλίσσω</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) dérouler, T. LOCR. <i>97c</i>.`

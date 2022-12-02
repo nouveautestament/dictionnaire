@@ -1,0 +1,1 @@
+lar[77382]=`<b>ας (ἡ)</b> meurtre d’un père, parricide, HIPPARQ. (STOB. <i>Fl. 108, 81</i>) ; PLUT. <i>Rom. 22, etc</i>.<p><b>Étym</b>. πατροκτόνος.`

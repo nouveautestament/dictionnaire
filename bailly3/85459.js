@@ -1,0 +1,1 @@
+lar[85459]=`<b>προσ·δυσκολαίνω</b> (<i>seul. prés</i>.) être très fâché contre, <i>dat</i>. PLUT. <i>M. 818a</i>.`

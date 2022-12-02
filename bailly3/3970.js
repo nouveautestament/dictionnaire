@@ -1,0 +1,1 @@
+lar[3970]=`<b>ου (τὸ)</b> = <i>lat</i>. Aquinium, <i>v. du Latium,</i> PLUT. <i>Oth. 5</i>.`

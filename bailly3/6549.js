@@ -1,0 +1,1 @@
+lar[6549]=`<b>εως (ἡ)</b> exclamation, cri, DH. <i>9, 10</i>.<p><b>Étym</b>. ἀναβοάω.`

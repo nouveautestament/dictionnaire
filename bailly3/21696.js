@@ -1,0 +1,1 @@
+lar[21696]=`<b>ή, όν</b>, engendré, créé, PLAT. <i>Tim. 28b ; p. opp. à</i> ἀΐδιος, ARSTT. <i>Cæl. 1, 11</i>.<p><b>Étym</b>. γενέσθαι ; <i>cf</i>. γεννητός.`

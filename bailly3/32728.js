@@ -1,0 +1,1 @@
+lar[32728]=`<b>ῆρος (ὁ)</b> Éleuthère :<br><b>      1</b> <i>v. de Béotie,</i> HÉS. <i>Th. 54</i>.<br><b>      2</b> <i>n. d’h</i>. ARCHIT. (PLUT. <i>Qu. gr. 39</i>).`

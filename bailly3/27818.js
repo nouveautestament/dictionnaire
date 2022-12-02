@@ -1,0 +1,1 @@
+lar[27818]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui se montre couvert de serpents, EUR. <i>Or. 256</i>.<br><b>      2</b> de la nature du serpent, <i>fig</i>. PLUT. <i>M. 551e</i>.<p><b>Étym</b>. δράκων, -ωδης.`

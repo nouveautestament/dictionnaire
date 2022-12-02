@@ -1,0 +1,1 @@
+lar[73863]=`<b>ατος (τὸ) :<br>      1</b> dette, LUC. <i>Herm. 80</i> ; HDN <i>5, 1, 13</i>.<br><b>      2</b> <i>particul</i>. amende, DÉM. <i>998, 25 ; 1047, 27 ; 1347, 15, etc.</i> ; DS. <i>16, 23</i>.<p><b>Étym</b>. ὀφλισκάνω.`

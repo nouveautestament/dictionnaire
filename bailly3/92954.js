@@ -1,0 +1,1 @@
+lar[92954]=`<b>στρογγυλο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> de forme arrondie, rond, PLUT. <i>M. 1121c</i>.<p><b>Étym</b>. στ. εἶδος.`

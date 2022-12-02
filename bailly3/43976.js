@@ -1,0 +1,1 @@
+lar[43976]=`<b>ἐφ·ερπύζω</b> <font color="darkgreen">(<i>ao</i>. ἐφείρπυσα)</font> <i>v</i>. ἐφέρπω.`

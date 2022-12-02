@@ -1,0 +1,1 @@
+lar[28723]=`<b>δυσ·όμοιος, ος, ον</b> <font color="purple">[ῠ]</font> dissemblable, STRATT. (<i>Com. fr. 2, 791).</i><p><b>Étym</b>. δ. ὅμοιος.`

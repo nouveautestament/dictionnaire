@@ -1,0 +1,1 @@
+lar[38383]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de sourire à, PLUT. <i>M. 1009e, 1092e</i>.<p><b>Étym</b>. ἐπιμειδιάω.`

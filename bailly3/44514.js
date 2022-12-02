@@ -1,0 +1,1 @@
+lar[44514]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> jalousie, Q. SM. <i>13, 388 au pl</i>.<p><b>Étym</b>. ζηλήμων.`

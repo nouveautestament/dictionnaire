@@ -1,0 +1,1 @@
+lar[96490]=`<b>ίδος</b> <font color="purple">[ῠᾱῐδ]</font> <i>adj</i>. Syracusaine, NONN. <i>D. 9, 22</i>.`

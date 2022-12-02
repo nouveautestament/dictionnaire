@@ -1,0 +1,1 @@
+lar[102877]=`<b>ὑπερ·φοβέομαι-οῦμαι</b>, craindre très fort, ESCHL. <i>Sept. 238 ; avec</i> μή, XÉN. <i>Cyr. 1, 4, 2</i>.`

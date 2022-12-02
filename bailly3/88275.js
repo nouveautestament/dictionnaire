@@ -1,0 +1,1 @@
+lar[88275]=`<b>ου (ὁ)</b> Rhampsinit, <i>roi d’Égypte,</i> HDT. <i>2, 121, etc</i>.`

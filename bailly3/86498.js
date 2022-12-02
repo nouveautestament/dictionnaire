@@ -1,0 +1,1 @@
+lar[86498]=`<b>προ·στομίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> tubulure, bec d’un soufflet, APD. POL. <i>20</i>.<p><b>Étym</b>. π. στόμα.`

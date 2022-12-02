@@ -1,0 +1,1 @@
+lar[47909]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾱ]</font> cassolette, encensoir, THC. <i>6, 46</i> ; AND. <i>33, 3, etc</i>.<p>➳ <i>Ion</i>. -ιητήριον, HDT. <i>4, 162</i>.<p><b>Étym</b>. θυμιάω.`

@@ -1,0 +1,1 @@
+lar[70512]=`<b>οἰνο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> qui plonge dans le vin, NONN. <i>D. 7, 15</i>.<p><b>Étym</b>. οἶν. βάπτω.`

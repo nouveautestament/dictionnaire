@@ -1,0 +1,1 @@
+lar[82482]=`<b>πολυ·τρόφος, ος, ον :<br>      1</b> qui donne de la nourriture en abondance, très féconde, <i>en parl. de Dèmèter,</i> CALL. <i>Cer. 2</i>.<br><b>      2</b> très nourrissant (fromage, <i>etc</i>.) DIOSC. <i>2, 80, etc</i>.<p><b>Étym</b>. π. τρέφω.`

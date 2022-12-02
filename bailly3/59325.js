@@ -1,0 +1,1 @@
+lar[59325]=`<b>ατος (τὸ)</b> figure de mathématiques en forme de Λ, JAMBL. <i>Nicom. ar. p. 16</i>.<p><b>Étym</b>. λάβδα.`

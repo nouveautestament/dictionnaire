@@ -1,0 +1,1 @@
+lar[87064]=`<b>πρό·ωρος, ος, ον</b>, prématuré, précoce, PLUT. <i>M. 101f ;</i> ANTH. <i>7, 643, etc. ; neutre adv</i>. πρόωρον, LUC. <i>Am. 21,</i> prématurément.<p><b>Étym</b>. π. ὥρα.`

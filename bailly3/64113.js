@@ -1,0 +1,1 @@
+lar[64113]=`<b>οῦ (ὁ)</b> <font color="purple">[λῐ]</font> emploi du miel dans une tisane <i>ou</i> dans un remède, P. ÉG. <i>1, 7</i> ; MNÉSITH. (ORIB. <i>3, 154 B.-Dar</i>.).`

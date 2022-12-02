@@ -1,0 +1,1 @@
+lar[23247]=`<b>α, ον</b> <font color="purple">[ᾰν]</font> dardanien, troyen, EUR. <i>Tr. 840</i>.<p><i>cf</i>. Δαρδάνιος.`

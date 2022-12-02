@@ -1,0 +1,1 @@
+lar[50946]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀσκαλαβώτης, SPT. <i>Lev. 11, 30</i>.`

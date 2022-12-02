@@ -1,0 +1,1 @@
+lar[14155]=`<font color="purple">[ᾰρᾱ]</font> <i>adv</i>., fermement, solidement, ESCHL. <i>Suppl. 945</i> ; EUR. <i>Med. 1192</i> ; PLAT. <i>Phædr. 240d</i>.<p>• <i>Cp. irrég</i>. ἀραρότερον, THÉM. <i>270c</i>.<p><b>Étym</b>. ἀραρώς.`

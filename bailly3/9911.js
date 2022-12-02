@@ -1,0 +1,1 @@
+lar[9911]=`<b>ἀντι·κακουργέω-ῶ</b> <font color="purple">[κᾰ]</font> faire du mal à son tour <i>ou</i> en retour, PLAT. <i>Crit. 49c et 54c</i>.`

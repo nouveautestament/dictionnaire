@@ -1,0 +1,1 @@
+lar[45724]=`<b>ός, όν</b> <font color="purple">[ᾰ]</font> qui coupe (<i>propr</i>. qui travaille) le foie d’une victime (pour prédire l’avenir) LYC. <i>839</i>.<p><b>Étym</b>. ἧπαρ, ἔργον.`

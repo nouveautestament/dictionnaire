@@ -1,0 +1,1 @@
+lar[95125]=`<b>συν·διαμένω</b>, rester jusqu’au bout avec, XÉN. <i>Cyr. 4, 5, 53</i> ; ARSTT. <i>Eud. 7, 1, 13</i>.`

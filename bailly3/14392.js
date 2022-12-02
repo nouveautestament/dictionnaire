@@ -1,0 +1,1 @@
+lar[14392]=`<b>ων (τὰ)</b> Ardérikkes, <i>village</i> :<br><b>      1</b> <i>d’Assyrie (auj</i>. Akkerkuf) <i>sur l’Euphrate,</i> HDT. <i>1, 185</i>.<br><b>      2</b> <i>de Perse (auj</i>. Aracca), <i>près de Suse,</i> HDT. <i>6, 119</i>.`

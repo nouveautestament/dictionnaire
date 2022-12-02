@@ -1,0 +1,1 @@
+lar[43553]=`<b>εὔ·σωτρος</b>, <i>épq</i>. <b>ἐΰ·σσωτρος, ος, ον</b>, aux belles <i>ou</i> bonnes roues, HÉS. <i>Sc. 273</i>.<p><b>Étym</b>. εὖ, σῶτρον.`

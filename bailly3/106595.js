@@ -1,0 +1,1 @@
+lar[106595]=`<b>ικος (ὁ)</b> <font color="purple">[ῑκ]</font> pourpre, teinture de pourpre, <i>litt</i>. « couleur de sang », <i>cf</i>. φοίνιος, <i>ou, sel. d’autres, ainsi nommée des Phéniciens, inventeurs de la pourpre, IL</i>. 4.161, 6.219 ; <i>OD</i>. 23.201, <i>etc.</i> ; EUR. <i>Ph</i>. 1488.<p><b>Étym</b>. <i>cf</i>. φοῖνιξ¹.`

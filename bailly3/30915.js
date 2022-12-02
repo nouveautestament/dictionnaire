@@ -1,0 +1,1 @@
+lar[30915]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> embouchure d’un fleuve, estuaire, PTOL. <i>Geogr. 2, 2</i>.<p><b>Étym</b>. εἰσχέω.`

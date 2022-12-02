@@ -1,0 +1,1 @@
+lar[99785]=`<b>ης (ἡ)</b> <i>sorte de poisson, p.-ê</i>. la torpille, A. TR. <i>11, p. 652</i>.`

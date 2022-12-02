@@ -1,0 +1,1 @@
+lar[90102]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> Sigeion (Sigée, <i>auj</i>. près de Kumkale) <i>v. et promont. de Troade,</i> HDT. <i>4, 38, etc.</i> ; THC. <i>6, 59, etc</i>.`

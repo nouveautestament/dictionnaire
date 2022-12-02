@@ -1,0 +1,1 @@
+lar[62969]=`<b>ων (οἱ)</b> les Marcomans, <i>pple germain,</i> LUC. <i>Alex. 48</i>.`

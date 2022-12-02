@@ -1,0 +1,1 @@
+lar[9436]=`<b>ἀντ·αμελέω-ῶ</b>, négliger en retour, PHIL. <i>2, 275</i>.`

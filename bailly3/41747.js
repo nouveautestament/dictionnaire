@@ -1,0 +1,1 @@
+lar[41747]=`<b>εὔ·γαμος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui a fait un heureux mariage, NONN. <i>D. 1, 27</i>.<br><b>      2</b> <i>act</i>. qui procure un heureux mariage, NONN. <i>D. 20, 144</i>.<p><b>Étym</b>. εὖ, γάμος.`

@@ -1,0 +1,1 @@
+lar[103356]=`<b>ὑπο·κεντέω-ῶ :<br>      1</b> piquer en dessous, DC. <i>65, 27</i>.<br><b>      2</b> percer de dessous, APP. <i>Ill. 2</i>.`

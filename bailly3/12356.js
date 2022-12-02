@@ -1,0 +1,1 @@
+lar[12356]=`<b>ἀπο·δωρέομαι-οῦμαι</b>, donner en présent, CRITIAS (ATH. <i>432d</i>).`

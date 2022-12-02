@@ -1,0 +1,1 @@
+lar[89842]=`<b>ιδος (ὁ)</b> <font color="purple">[ᾱῐδ]</font> <i>réc. c</i>. Σάραπις, ANTH. <i>14, 70 ; sur l’antériorité de la forme en</i> Σα-, <i>v</i>. Σάραπις.`

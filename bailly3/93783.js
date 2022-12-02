@@ -1,0 +1,1 @@
+lar[93783]=`commettre ensemble des brigandages, EUN. (SUID. <i>v</i>. γιγαντώδης).<p><b>Étym</b>. συλλῃστής.`

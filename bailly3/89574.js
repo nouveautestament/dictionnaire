@@ -1,0 +1,1 @@
+lar[89574]=`<b>ῆρος (ὁ) :<br>      1</b> pointe de fer ajustée au bas de la lance pour la fixer en terre, IL. <i>10, 153</i> ; HDT. <i>7, 41</i> ; POL. <i>6, 25, 6 ; 11, 18, 4</i>.<br><b>      2</b> <i>p. ext</i>. lance, javeline, ANTH. <i>6, 110</i>.`

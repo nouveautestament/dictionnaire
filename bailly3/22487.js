@@ -1,0 +1,1 @@
+lar[22487]=`<b>ου (ἡ)</b> Gorgonion, <i>f</i>. ANTH. <i>8, 78, etc</i>.`

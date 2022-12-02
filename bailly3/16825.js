@@ -1,0 +1,1 @@
+lar[16825]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font> action de déshonorer, flétrissure, déshonneur, ESCHL. <i>Ag. 702 ; Ch. 435</i>.<p><b>Étym</b>. ἀτιμόω.`

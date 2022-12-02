@@ -1,0 +1,1 @@
+lar[59230]=`<b>ων (τὰ)</b> fêtes du dieu Consus, <i>à Rome,</i> PLUT. <i>Rom. 15</i>.<p><b>Étym</b>. Κῶνσος.`

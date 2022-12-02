@@ -1,0 +1,1 @@
+lar[51699]=`<b>ου (ὁ)</b> <font color="purple">[ᾱᾰ]</font> <i>n. d’animaux</i> :<br><b>      1</b> escarbot, scarabée, <i>insecte,</i> ARSTT. <i>H.A. 4, 7, 1</i>.<br><b>      2</b> homard, AR. <i>fr. 302</i>.`

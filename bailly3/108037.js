@@ -1,0 +1,1 @@
+lar[108037]=`<b>εως (ἡ) :<br>   I</b> <i>act.</i> :<br><b>      1</b> action de détendre, d’amollir, SEXT. <i>P. 1, 238</i>.<br><b>      2</b> <i>fig</i>. action d’amollir par des caresses, par la persuasion, AR. <i>Nub. 877</i>.<br><b>   II</b> <i>pass</i>. espace vide, intervalle, GEOP. <i>10, 75, 17</i>.<p><b>Étym</b>. χαυνόω.`

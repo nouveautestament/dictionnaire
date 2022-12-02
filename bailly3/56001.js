@@ -1,0 +1,1 @@
+lar[56001]=`<b>κληματόομαι-οῦμαι</b> <font color="darkgreen">(<i>pf</i>. κεκλημάτωμαι)</font> <font color="purple">[ᾰ]</font> se développer en sarments, SOPH. <i>fr. 239</i> ; TH. <i>C.P. 2, 10, 3</i>.<p><b>Étym</b>. κλῆμα.`

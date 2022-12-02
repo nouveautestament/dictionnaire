@@ -1,0 +1,1 @@
+lar[15274]=`<b>ους</b>, <i>acc</i>. <b>ην (ὁ)</b> Artaphernès, <i>Perse,</i> THC. <i>4, 50</i>.<p>➳ <i>Gén</i>. -ους, PAUS. <i>1, 32, 7</i> ; APP. <i>Mithr. 108</i> ; -ου, DL. <i>2, 8, 79</i>.`

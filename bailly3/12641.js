@@ -1,0 +1,1 @@
+lar[12641]=`<b>ἀπο·κορυφόω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> terminer en pointe, POL. <i>3, 49, 6 ; d’où au pass</i>. se terminer en pointe, TH. <i>Ign. 53</i>.<br><b>      2</b> <i>fig</i>. récapituler en peu de mots, HDT. <i>5, 73</i>.`

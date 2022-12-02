@@ -1,0 +1,1 @@
+lar[52486]=`<i>adv</i>., abondamment, SPT. <i>Zach. 2, 4</i>.`

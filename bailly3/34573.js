@@ -1,0 +1,1 @@
+lar[34573]=`<b>ου (τὸ)</b> <font color="purple">[ῡᾰ]</font> petite sentence, A. GELL. <i>7, 13, 4 Hertz</i>.<p><b>Étym</b>. <i>dim. de</i> ἐνθύμημα.`

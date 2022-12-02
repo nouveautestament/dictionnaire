@@ -1,0 +1,1 @@
+lar[64822]=`<b>μετ·αλλοιόω-ῶ</b>, rendre différent, PHIL. <i>1, 243</i> ; STOB. <i>Ecl. phys. p. 1102</i> ; E. BYZ. v° Ἀζανοί.`

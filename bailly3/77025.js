@@ -1,0 +1,1 @@
+lar[77025]=`<b>ας (ἡ)</b> séjour <i>ou</i> établissement en pays étranger, SPT. <i>Sap. 19, 10</i> ; NT. <i>Ap. 13, 17</i>.<p><b>Étym</b>. πάροικος.`

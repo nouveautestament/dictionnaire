@@ -1,0 +1,1 @@
+lar[94686]=`<b>συν·αναβλαστάνω</b>, croître avec <i>ou</i> ensemble, TH. <i>H.P. 3, 4, 2</i> ; PHIL. <i>1, 344, 444</i>.`

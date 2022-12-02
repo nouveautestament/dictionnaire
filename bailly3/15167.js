@@ -1,0 +1,1 @@
+lar[15167]=`<b>ἄ·ρριγος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> insensible au froid, ARSTT. <i>Sens. 2, 13</i>.<br><b>      2</b> qui ne frissonne pas, ARÉT. <i>p. 43, 44</i>.<p>•<i> Sup</i>. -ότατος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. ἀ, ῥῖγος.`

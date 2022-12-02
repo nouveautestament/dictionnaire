@@ -1,0 +1,1 @@
+lar[74452]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne le gymnase <i>ou</i> la lutte, ALEX. (<i>Com. fr. 3, 525</i>) ; ARSTT. <i>Categ. 8, 26</i>.<p><b>Étym</b>. παλαίστρα.`

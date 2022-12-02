@@ -1,0 +1,1 @@
+lar[56830]=`<b>οῦ (ὁ)</b> vantard, fanfaron, PLUT. <i>Crass. 16</i>.<p><b>Étym</b>. κομπάζω.`

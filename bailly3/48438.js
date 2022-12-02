@@ -1,0 +1,1 @@
+lar[48438]=`<b>ητος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> propriété <i>ou</i> nature particulière, caractère propre, XÉN. <i>An. 2, 3, 16</i> ; PLAT. <i>Pol. 305d ;</i> POL. <i>1, 13, 13</i> ; SPT. <i>Sap. 2, 23 ; au pl</i>. particularités, POL. <i>9, 22, 7</i>.<br><b>      2</b> nom propre, E. BYZ. <i>v°</i> Θετταλία.<p><b>Étym</b>. ἴδιος.`

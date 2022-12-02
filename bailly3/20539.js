@@ -1,0 +1,1 @@
+lar[20539]=`<b>βου·σφαγέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰ]</font> égorger des bœufs, EUR. <i>El. 627</i>.<p><b>Étym</b>. βοῦς, σφᾰγ- <i>de</i> σφάζω.`

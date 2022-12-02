@@ -1,0 +1,1 @@
+lar[109205]=`<b>χρυσο·λογέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> ramasser <i>ou</i> recueillir de l’or, ANTH. <i>8, 230</i>.<br><b>      2</b> ne parler que d’or, LUC. <i>Gall. 6</i>.<p><b>Étym</b>. χρ. -λογος <i>de</i> λέγω.`

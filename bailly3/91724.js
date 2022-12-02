@@ -1,0 +1,1 @@
+lar[91724]=`<b>σπανο·πώγων, ωνος</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui a la barbe rare, ION (POLL. <i>2, 88).</i><p><b>Étym</b>. σπανός, πώγων.`

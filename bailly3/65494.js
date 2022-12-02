@@ -1,0 +1,1 @@
+lar[65494]=`<b>μηρο·ρραφής, ής, ές</b> <font color="purple">[ᾰ]</font> cousu dans la cuisse (de Zeus) <i>ép. de Bacchus,</i> NONN.<p><b>Étym</b>. μηρός, ῥάπτω.`

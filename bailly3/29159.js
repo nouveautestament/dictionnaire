@@ -1,0 +1,1 @@
+lar[29159]=`<b>ή, όν</b>, dorien, HDT. <i>1, 56, etc.</i> ; ESCHL. <i>Sept. 183</i> ; SOPH. <i>O.C. 1372</i> ; EUR. <i>El. 836</i> ; THC. <i>6, 4</i> ; PLAT. <i>Crat. 409a, etc.</i> ; ἡ Δ. διάλεκτος, DYSC. <i>Adv. 584, 19 Bkk</i>. le dialecte dorien.<p><b>Étym</b>. Δωριεύς.`

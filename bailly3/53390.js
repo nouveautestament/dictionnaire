@@ -1,0 +1,1 @@
+lar[53390]=`<b>κατα·σοβαρεύομαι</b> <font color="purple">[ᾰ]</font> traiter avec hauteur, <i>gén</i>. DL. <i>1, 81 ; 6, 24</i> ; JOS. <i>B.J. 3, 1, 1</i>.`

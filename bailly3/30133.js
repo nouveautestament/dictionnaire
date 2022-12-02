@@ -1,0 +1,1 @@
+lar[30133]=`<b>ἐθελ·άστειος, ος, ον</b>, d’une politesse <i>ou</i> d’une grâce empressée, HLD. <i>7, 10</i>.<p><b>Étym</b>. ἐθέλω, ἀστεῖος.`

@@ -1,0 +1,1 @@
+lar[52453]=`<b>ατος (τὸ)</b> lotion, compresse, EL. <i>N.A. 8, 22</i> ; A. TR. <i>1, p. 52</i>.<p><b>Étym</b>. καταιονάω.`

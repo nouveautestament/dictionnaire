@@ -1,0 +1,1 @@
+lar[81874]=`<i>adv</i>., de beaucoup de manières, très diversement, DH. <i>Comp. 26</i>.<p><b>Étym</b>. πολυειδής.`

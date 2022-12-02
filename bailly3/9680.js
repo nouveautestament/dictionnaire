@@ -1,0 +1,1 @@
+lar[9680]=`<b>ἀντ·επιχωριάζω</b>, occuper une place correspondante à, correspondre à, BAS. <i>3, 9</i>.`

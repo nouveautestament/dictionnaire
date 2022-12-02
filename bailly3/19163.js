@@ -1,0 +1,1 @@
+lar[19163]=`<b>βαρύ·λογος, ος, ον</b> <font color="purple">[ᾰῠ]</font> médisant, PD. <i>P. 2, 56</i>.<p><b>Étym</b>. β. λέγω.`

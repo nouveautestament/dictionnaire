@@ -1,0 +1,1 @@
+lar[69675]=`<b>ξυλό·μακερ, ερος (τὸ)</b> <font color="purple">[ῠᾰ]</font> sorte de racine médicinale (<i>Rheum barbaricum</i> L.) A. TR. <i>7, p. 130</i>.<p><b>Étym</b>. ξ. μάκερ.`

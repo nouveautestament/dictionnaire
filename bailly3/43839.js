@@ -1,0 +1,1 @@
+lar[43839]=`<b>εὔ·χυτος, ος, ον</b> <font color="purple">[ῠ]</font> facile à répandre, liquide, ARÉT. <i>p. 119</i>.<p><b>Étym</b>. εὖ, χέω.`

@@ -1,0 +1,1 @@
+lar[62614]=`<b>μαλακαί·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b> <font color="purple">[ᾰᾰ]</font> aux pieds délicats, THCR. <i>Idyl. 15, 103</i> (μαλακαὶ πόδας <i>Fritszche).</i><p><b>Étym</b>. μαλακός, πούς.`

@@ -1,0 +1,1 @@
+lar[16538]=`<b>ἀ·συνύπαρκτος, ος, ον</b>, qui ne peut coexister, SEXT. JAMBL.<p><b>Étym</b>. ἀ, συνυπάρχω.`

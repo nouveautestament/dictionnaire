@@ -1,0 +1,1 @@
+lar[105364]=`<i>ion</i>. <b>φθορίη, ης (ἡ)</b> corruption, ruine, perte, HPC. <i>Jusjur</i>.<p><b>Étym</b>. φθόρος.`

@@ -1,0 +1,1 @@
+lar[101781]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> ὑμήν, ARSTT. <i>H.A. 1, 17, 17 ; 4, 4, 19</i> ; CLÉM. <i>Pæd. 2, 10, 109</i> ; RUF. <i>p. 113 Matthäi</i>.`

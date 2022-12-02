@@ -1,0 +1,1 @@
+lar[57848]=`<b>ῶνος (ἡ)</b> Krèstôn, <i>anc. v. pélasgigue de Thrace,</i> HDT. <i>1, 57</i>.`

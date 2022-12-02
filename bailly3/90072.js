@@ -1,0 +1,1 @@
+lar[90072]=`<b>σιαλο·χόος, όος, όον</b> <font color="purple">[ᾰ]</font> qui répand de la salive, qui bave, ARÉT. <i>Caus. m. acut. 17, etc.</i> ; GAL. <i>Hipp. præd. 16, 508</i>.<p><b>Étym</b>. σίαλον, χέω.`

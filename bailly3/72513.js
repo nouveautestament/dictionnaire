@@ -1,0 +1,1 @@
+lar[72513]=`<i>adv</i>., d’une manière visible, PLUT. <i>M. 1029</i>.`

@@ -1,0 +1,1 @@
+lar[91553]=`<b>ης (ἡ) :<br>      1</b> queue de cheval, HIPPIATR.<br><b>      2</b> crinière de casque faite d’une queue de cheval, SYN. <i>80d</i>.`

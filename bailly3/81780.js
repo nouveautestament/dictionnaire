@@ -1,0 +1,1 @@
+lar[81780]=`<b>πολυ·γάλακτος, ος, ον</b> <font color="purple">[ῠγᾰ]</font> au lait abondant, ARSTT. <i>P.A. 4, 10, 37</i>.<p>➳ <i>Ion</i>. πουλυγάλακτος, <i>au • Sup</i>. -ότατος, ANTH. <i>9, 224</i>.<p><b>Étym</b>. π. γάλα.`

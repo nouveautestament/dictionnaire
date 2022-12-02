@@ -1,0 +1,1 @@
+lar[29605]=`<b>ἐγ·κατοικίζω</b>, faire loger dans, établir dans, <i>dat</i>. LUC. <i>As. 25 (ao. sbj. 1 pl</i>. -κατοικίσωμεν) ; LYC. <i>1261 (fut. 3 sg</i>. -οικιεῖ) ; <i>fig</i>. PLUT. <i>M. 779f</i> (<i>part. ao. pass</i>. -ισθείς).<p><b>Étym</b>. ἐν, κ.`

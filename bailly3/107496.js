@@ -1,0 +1,1 @@
+lar[107496]=`<b>ατος (τὸ)</b> crinière d’un casque, ESCHL. <i>Sept. 385</i>.<p><b>Étym</b>. χαίτη.`

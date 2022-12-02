@@ -1,0 +1,1 @@
+lar[109782]=`<i>gén</i>. <b>ψηνός (ὁ) :<br>      1</b> gallinsecte (<i>Cynips psenes</i> L.) <i>sorte de mouche qui vit sur le figuier sauvage,</i> AR. <i>Av. 590</i> ; ARSTT. <i>H.A. 5, 32, 5</i> ; TH. <i>H.P. 2, 8, 1 ; C.P. 2, 95 ; et dans le fruit du palmier mâle,</i> HDT. <i>1, 193</i>.<br><b>      2</b> fruit du palmier mâle, ARSTT. <i>Plant. 1, 6, 7</i>.`

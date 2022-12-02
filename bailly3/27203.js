@@ -1,0 +1,1 @@
+lar[27203]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> divergence d’opinion, dissentiment, PLUT. <i>M. 70c ;</i> APP. <i>Civ. 5, 33</i>.<p><b>Étym</b>. διχόνοος.`

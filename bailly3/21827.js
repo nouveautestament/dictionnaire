@@ -1,0 +1,1 @@
+lar[21827]=`<b>ή, όν</b>, des Gètes, du pays des Gètes, EL. <i>N.A. 15, 24</i> ; ARR. <i>Tact. 44, 1</i> ; ἡ Γετική (<i>s.-e</i>. γῆ), le pays des Gètes, LUC. <i>Ic. 16</i> ; SCYMN. <i>740</i>.<p><b>Étym</b>. Γέται.`

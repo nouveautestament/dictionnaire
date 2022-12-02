@@ -1,0 +1,1 @@
+lar[44745]=`<b>ή, όν</b>, propre à engendrer des êtres vivants, PHIL. <i>2, 148</i> ; PROCL. <i>Plat. Crat. p. 99</i>.<p><b>Étym</b>. ζωογόνος.`

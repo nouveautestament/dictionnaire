@@ -1,0 +1,1 @@
+lar[23366]=`<b>δαφν·ηρεφής, ής, ές</b>, couvert de lauriers, PORPH. (EUS. <i>P.E. 6, 3).</i><p><b>Étym</b>. δάφνη, ἐρέφω.`

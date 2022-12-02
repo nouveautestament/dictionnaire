@@ -1,0 +1,1 @@
+lar[925]=`<b>ἀγριο·συκάμινον, ου (τὸ)</b> mûre sauvage, MOSCHION <i>Mul. pass. 121, p. 56</i>.`

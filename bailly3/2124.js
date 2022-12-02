@@ -1,0 +1,1 @@
+lar[2124]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰθ]</font><br><b>      1</b> jeu, jouet, IL. <i>15, 363</i> ; OD. <i>18, 323</i> ; HH. <i>Merc. 40</i>.<br><b>      2</b> divertissement, récréation, EUR. <i>fr. 274 Nauck</i> ; ALCID. (ARSTT. <i>Rhet. 3, 3, 2 et 4</i>).<br><b>      3</b> statue, ANTH. <i>7, 154</i>.<p><b>Étym</b>. ἀθύρω.`

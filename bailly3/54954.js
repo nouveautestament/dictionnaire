@@ -1,0 +1,1 @@
+lar[54954]=`<b>ΐδος (ἡ)</b> Kerkèis, <i>Océanide,</i> HÉS. <i>Th. 355</i>.`

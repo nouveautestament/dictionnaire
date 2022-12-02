@@ -1,0 +1,1 @@
+lar[20436]=`<b>ου (τὸ)</b> bonne petite résolution, AR. <i>Eq. 100</i>.<p><b>Étym</b>. <i>dim. de</i> βούλευμα.`

@@ -1,0 +1,1 @@
+lar[49492]=`<b>ἰριο·ειδής, ής, ές</b> <font color="purple">[ῑρ]</font> semblable à un arc-en-ciel, LUC. <i>H. conscr. 19 dout</i>.<p><b>Étym</b>. ἶρις, εἶδος.`

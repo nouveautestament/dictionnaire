@@ -1,0 +1,1 @@
+lar[78932]=`<b>περι·μορφόομαι-οῦμαι</b>, être changé tout autour, NYSS.`

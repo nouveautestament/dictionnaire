@@ -1,0 +1,1 @@
+lar[10954]=`<b>Ἀξί·οχος, ου (ὁ)</b> Axiokhos, <i>h</i>. PLAT. <i>Euthyd. 271b, etc. ; titre d’un dialogue de Platon</i>.<p><b>Étym</b>. ἄξιος, ἔχω.`

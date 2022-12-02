@@ -1,0 +1,1 @@
+lar[100685]=`trembler, CHRYS.`

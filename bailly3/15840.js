@@ -1,0 +1,1 @@
+lar[15840]=`<b>άδος</b> <font color="purple">[ᾰᾰδ]</font> <i>adj. f</i>. asiatique, ESCHL. <i>Pers. 549</i> ; EUR. <i>Or. 1397, etc.</i> ; AR. PLUT. <i>etc</i>.<p><b>Étym</b>. Ἀσία.`

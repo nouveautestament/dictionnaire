@@ -1,0 +1,1 @@
+lar[102592]=`<b>ὑπερ·κενόω-ῶ</b>, faire évacuer <i>ou</i> purger outre mesure, GAL. <i>7, 206</i>.`

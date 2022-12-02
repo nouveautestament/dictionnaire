@@ -1,0 +1,1 @@
+lar[68186]=`<b>Νεο·λαΐδας</b>, <i>p. contr</i>. <b>Νεο·λᾴδας, α (ὁ)</b> <font color="purple">[ᾱᾱ]</font> Néolaïdas, <i>h</i>. ANTH. <i>6, 109</i>.<p><b>Étym</b>. νέος, λαός.`

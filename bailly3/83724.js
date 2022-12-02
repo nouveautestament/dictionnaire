@@ -1,0 +1,1 @@
+lar[83724]=`<b>προ·αστίτης, ου (ὁ)</b> <font color="purple">[ῑ]</font> habitant de banlieue, E. BYZ. <i>v°</i> ἄστυ.<p><b>Étym</b>. π. ἄστυ.`

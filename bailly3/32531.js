@@ -1,0 +1,1 @@
+lar[32531]=`<b>ΐδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. semblable au sapin, NIC. <i>Al. 624</i>.<p><b>Étym</b>. ἐλάτη.`

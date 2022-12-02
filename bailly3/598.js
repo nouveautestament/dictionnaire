@@ -1,0 +1,1 @@
+lar[598]=`<font color="purple">[ᾰ]</font> <i>adv</i>., saintement, ISOCR. <i>226c ;</i> CLÉM. <i>2, 244 Migne</i>.`

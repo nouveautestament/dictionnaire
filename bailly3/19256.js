@@ -1,0 +1,1 @@
+lar[19256]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐλ]</font> petit roi, roi de petite taille, PLUT. <i>Ages. 3</i>.<p><b>Étym</b>. <i>dim. de</i> βασιλεύς.`

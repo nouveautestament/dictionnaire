@@ -1,0 +1,1 @@
+lar[80711]=`<b>οῦ (ὁ)</b> <i>lat</i>. platanista, <i>sorte de grand poisson dans le Gange,</i> PLIN. <i>H.N. 9, 17</i>.`

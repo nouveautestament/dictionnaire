@@ -1,0 +1,1 @@
+lar[88268]=`<b>α, ον</b>, du dème Rhamnunte, DÉM. <i>18, 38, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. Ῥαμνοῦς.`

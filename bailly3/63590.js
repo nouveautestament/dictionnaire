@@ -1,0 +1,1 @@
+lar[63590]=`<b>μεθ·ερπύζω</b> <font color="darkgreen">(<i>ao</i>. -είρπυσα)</font> <i>c</i>. μεθέρπω ORPH. <i>Lith. 421</i>.`

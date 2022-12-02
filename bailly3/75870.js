@@ -1,0 +1,1 @@
+lar[75870]=`<b>ή, όν</b>, qui concerne la parallaxe, PROCL. <i>Hyp. p. 105, 13</i>.<p><b>Étym</b>. παραλλάσσω.`

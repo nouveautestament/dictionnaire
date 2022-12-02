@@ -1,0 +1,1 @@
+lar[96236]=`<b>οῦ (ὁ)</b> commerce intime, union, PLUT. <i>M. 1e ;</i> SPT. <i>Sir. 23, 5</i>.<p><b>Étym</b>. συνουσιάζω.`

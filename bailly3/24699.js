@@ -1,0 +1,1 @@
+lar[24699]=`<b>δι·αισχύνομαι</b> <font color="darkgreen">(<i>ao. part</i>. -υνθείς)</font> être tout à fait confus, LUC. <i>Electr. 3</i>.`

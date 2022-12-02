@@ -1,0 +1,1 @@
+lar[80768]=`<b>πλατύ·νωτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au large dos, BATR. <i>298</i>.<p><b>Étym</b>. πλ. νῶτος.`

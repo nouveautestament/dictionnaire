@@ -1,0 +1,1 @@
+lar[86077]=`<b>προσ·κυλινδέω</b> <font color="purple">[ῠ]</font> <i>c</i>. προσκυλίω CLÉARQ. (ATH. <i>332d</i>).`

@@ -1,0 +1,1 @@
+lar[20329]=`<b>υος (ὁ)</b> Botys, <i>h</i>. ARSTT. <i>Metaph. 5, 10</i>.`

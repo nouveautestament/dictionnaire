@@ -1,0 +1,1 @@
+lar[20359]=`<b>βού·γλωσσον, ου (τὸ) :<br>      1</b> langue de bœuf <i>ou</i> buglosse, <i>plante,</i> DIOSC. <i>4, 120</i>.<br><b>      2</b> sole, <i>poisson,</i> OPP. <i>H. 1, 99</i>.<p><b>Étym</b>. βοῦς, γλῶσσα ; <i>cf</i>. βούγλωσσος.`

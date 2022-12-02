@@ -1,0 +1,1 @@
+lar[73131]=`<b>α, ον :<br>      1</b> sombre, obscur, IL. <i>10, 83, etc.</i> ; OD. <i>9, 143, etc.</i> ; EUR. <i>Or. 1225, etc. ; subst</i>. ἡ ὀρφναία, <i>ion</i>. ὀρφναίη, A.RH. <i>2, 690,</i> la nuit.<br><b>      2</b> nocturne, ESCHL. <i>Ag. 21</i>.<p><b>Étym</b>. ὄρφνη.`

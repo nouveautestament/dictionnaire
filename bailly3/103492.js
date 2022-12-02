@@ -1,0 +1,1 @@
+lar[103492]=`<b>ὑπό·λιχνος, ος, ον</b>, quelque peu gourmand, LUC. <i>Ic. 29</i>.<p><b>Étym</b>. ὑ. λίχνος.`

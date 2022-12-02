@@ -1,0 +1,1 @@
+lar[51025]=`<b>ου (ὁ)</b> = <i>lat</i>. Calvisius, <i>n. d’h. rom</i>. PLUT. <i>Galb. 12</i>.`

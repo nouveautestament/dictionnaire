@@ -1,0 +1,1 @@
+lar[80181]=`<b>ου (ὁ)</b> Pidokos, <i>Athénien,</i> XÉN. <i>Hell. 1, 1, 29</i>.`

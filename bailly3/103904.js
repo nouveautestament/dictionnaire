@@ -1,0 +1,1 @@
+lar[103904]=`<b>ὑπο·στρατεύομαι</b> <font color="purple">[ᾰ]</font> faire campagne <i>ou</i> servir sous les ordres de, <i>dat</i>. APP. <i>Civ. 1, 29</i>.`

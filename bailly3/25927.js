@@ -1,0 +1,1 @@
+lar[25927]=`<b>δια·χλιδάω-ῶ</b> (<i>part. pf</i>. διακεχλιδώς <font color="purple">[ῑδ]</font>) s’abandonner à la mollesse, ARCHIPP. COM. (PLUT. <i>Alc. 1</i>).`

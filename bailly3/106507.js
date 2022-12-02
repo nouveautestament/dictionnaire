@@ -1,0 +1,1 @@
+lar[106507]=`purifier, nettoyer, CALL. <i>L. Pall. 11</i> ; LYC. <i>731, 875, 1166</i>.<p><b>Étym</b>. φοῖβος.`

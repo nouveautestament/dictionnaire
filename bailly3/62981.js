@@ -1,0 +1,1 @@
+lar[62981]=`<b>μαρμαρόω-ῶ</b> <font color="purple">[ᾰρο]</font> changer en pierre <i>ou</i> en marbre, LYC. <i>876</i>.<p><b>Étym</b>. μάρμαρος.`

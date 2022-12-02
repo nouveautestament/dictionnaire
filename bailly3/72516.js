@@ -1,0 +1,1 @@
+lar[72516]=`<b>ου</b>, <i>ou</i> <b>Ὀρβηλός, οῦ (ὁ)</b> Orbèlos (<i>auj</i>. Belasitsa <i>ou</i> Kerkíni) <i>chaîne de mt. au nord de la Macédoine,</i> HDT. <i>5, 16</i> ; DS. <i>20, 19, etc</i>.`

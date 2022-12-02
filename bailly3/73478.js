@@ -1,0 +1,1 @@
+lar[73478]=`<b>ήεσσα, ῆεν</b>, qui est sur le sol, à terre, OD. <i>5, 334 ; 10, 136</i>.<p><b>Étym</b>. οὖδας.`

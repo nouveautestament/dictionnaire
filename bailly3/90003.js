@@ -1,0 +1,1 @@
+lar[90003]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> σησαμῆ, HDN GR. <i>Epim. p. 125 Boissonade</i>.`

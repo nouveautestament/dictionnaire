@@ -1,0 +1,1 @@
+lar[101960]=`<b>ὑπ·αναχωρέω-ῶ</b> <font color="purple">[ῠᾰᾰ]</font> se retirer peu à peu, lentement, THC. <i>1, 51</i> ; DH. <i>5, 8</i> ; DC. <i>63, 26, etc</i>.`

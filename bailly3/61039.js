@@ -1,0 +1,1 @@
+lar[61039]=`<b>λιθό·γληνος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> <i>pass</i>. dont les yeux sont pétrifiés, NONN. <i>D. 48, 456</i>.<br><b>      2</b> <i>act</i>. dont les yeux ont la vertu de pétrifier, NONN. <i>D. 47, 592</i>.<p><b>Étym</b>. λ. γλήνη.`

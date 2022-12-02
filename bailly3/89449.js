@@ -1,0 +1,1 @@
+lar[89449]=`<b>σαρκο·πέδη, ης (ἡ)</b> entraves <i>ou</i> lien de la chair, NAZ.<p><b>Étym</b>. σ. πέδη.`

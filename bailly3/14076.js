@@ -1,0 +1,1 @@
+lar[14076]=`<b>ἀπ·ωνέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -ωνηθήσομαι)</font> racheter, THPP. COM. <i>2, 823</i>.`

@@ -1,0 +1,1 @@
+lar[48327]=`<i>interj</i>. oh ! oh ! <i>cri de douleur,</i> AR. <i>Ran. 1029</i>.<p><b>Étym</b>. <i>cf</i>. ἰαῦ.`

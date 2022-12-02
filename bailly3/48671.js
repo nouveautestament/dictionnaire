@@ -1,0 +1,1 @@
+lar[48671]=`<i>interj. exclamation moqueuse,</i> ho ! ho! AR. <i>Vesp. 1335</i>.<p><b>Étym</b>. <i>cf</i>. ἰή, ἰού, <i>etc</i>.`

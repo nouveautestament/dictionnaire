@@ -1,0 +1,1 @@
+lar[101199]=`<b>ης, ες</b> <font color="purple">[ῡ]</font><br><b>      1</b> qui a le délire, HPC. <i>1120d, etc.</i><br><b>      2</b> <i>en parl. de la fièvre,</i> avec accompagnement de délire, HPC. <i>1046c ;</i> GAL. <i>6, 850, 5</i>.<p><b>Étym</b>. τῦφος, -ωδης.`

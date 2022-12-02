@@ -1,0 +1,1 @@
+lar[94439]=`<b>συμ·φλυαρέω-ῶ</b> <font color="purple">[ᾱ]</font> bavarder ensemble, M. ANT. <i>9, 41</i>.`

@@ -1,0 +1,1 @@
+lar[6189]=`<b>ἀμφι·κλινής, ής, ές</b> <font color="purple">[ῐν]</font> qui penche de l’un et de l’autre côté, incertain, PHIL. <i>2, 548</i>.<p><b>Étym</b>. ἀ. κλίνω.`

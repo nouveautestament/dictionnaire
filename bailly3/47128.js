@@ -1,0 +1,1 @@
+lar[47128]=`<b>ίδος (ἡ)</b> Théôris, <i>prophétesse, à Athènes,</i> DÉM. <i>25, 79 Baiter-Sauppe</i>.`

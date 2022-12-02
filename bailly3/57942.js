@@ -1,0 +1,1 @@
+lar[57942]=`<b>κρινο·στέφανος, ος, ον</b> <font color="purple">[ῐᾰ]</font> couronné de lis, AUS. <i>Epist. 12, 4</i>.<p><b>Étym</b>. κρίνον, στέφανος.`

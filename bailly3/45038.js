@@ -1,0 +1,1 @@
+lar[45038]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> voix <i>ou</i> son agréable, ALCIPHR. <i>3, 12</i> ; BABR. <i>9, 3</i>.<p><b>Étym</b>. ἡδύφωνος.`

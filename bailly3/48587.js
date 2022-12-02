@@ -1,0 +1,1 @@
+lar[48587]=`<b>ἱερο·θαλλής, ής, ές</b>, au feuillage sacré, ORPH. <i>H. 39, 17 dout</i>.<p><b>Étym</b>. ἱ. θάλλω.`

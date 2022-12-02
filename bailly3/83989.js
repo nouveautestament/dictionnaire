@@ -1,0 +1,1 @@
+lar[83989]=`<b>εως (ἡ)</b> action de corriger d’avance, précaution oratoire, RHÉT. <i>8, 433 W</i>.<p><b>Étym</b>. προδιορθόομαι.`

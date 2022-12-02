@@ -1,0 +1,1 @@
+lar[78011]=`<b>πεντα·παλαιστιαῖος, α, ον</b> <font color="purple">[ᾰπᾰ]</font> <i>forme réc. c</i>. πεντεπάλαστος, HLD. CHIR. (ORIB. <i>p. 159 Mai</i>).`

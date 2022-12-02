@@ -1,0 +1,1 @@
+lar[91091]=`<b>ακος (ὁ)</b> <font color="purple">[ᾰκ]</font> sorte de bécasse, <i>oiseau,</i> ARSTT. <i>H.A. 9, 8, 12</i>.<p><b>Étym</b>. σκόλοψ.`

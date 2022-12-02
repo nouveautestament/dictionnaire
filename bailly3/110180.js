@@ -1,0 +1,1 @@
+lar[110180]=`<b>ὠκυ·μάχος, ος, ον</b> <font color="purple">[ῠῠ]</font> agile au combat, ANTH. <i>6, 132</i>.<p><b>Étym</b>. ὠ. μάχομαι.`

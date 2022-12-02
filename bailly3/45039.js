@@ -1,0 +1,1 @@
+lar[45039]=`<b>ἡδύ·φωνος, ος, ον</b> <font color="purple">[ῠ]</font> à la voix agréable, SAPPH. <i>66</i> ; PRATIN. (ATH. <i>392f</i>).<p><b>Étym</b>. ἡ. φωνή.`

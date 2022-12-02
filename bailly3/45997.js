@@ -1,0 +1,1 @@
+lar[45997]=`<b>ἡσυχόω-ῶ</b> <font color="purple">[ῠ]</font> rendre calme, silencieux, SPT. <i>Amos 4, 10</i>.<p><b>Étym</b>. ἥσυχος.`

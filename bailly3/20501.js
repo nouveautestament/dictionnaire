@@ -1,0 +1,1 @@
+lar[20501]=`<b>βου·πλάστας (ὁ)</b> <i>dor</i>. qui modèle des bœufs, <i>ép. du sculpteur Myron,</i> ANTH. <i>9, 734</i>.<p><b>Étym</b>. βοῦς, πλάσσω.`

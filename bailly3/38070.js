@@ -1,0 +1,1 @@
+lar[38070]=`<b>ἐπι·κλονέω-ῶ</b>, agiter violemment contre : ἐπ. δῆριν, Q. SM. <i>8, 426,</i> susciter une violente querelle ; ἐπ. τινα, A.RH. <i>3, 687,</i> presser vivement qqn ; <i>d’où au pass</i>. s’élancer avec violence, A.RH. <i>1, 783</i>.`

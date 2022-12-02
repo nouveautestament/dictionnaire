@@ -1,0 +1,1 @@
+lar[84456]=`<b>προ·καταδύω</b>, <i>seul. moy</i>. <b>προ·καταδύομαι</b>, s’enfoncer, <i>d’où</i> baisser <i>ou</i> se coucher auparavant, <i>en parl. des astres,</i> GAL. <i>8, 496</i>.`

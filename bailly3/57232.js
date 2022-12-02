@@ -1,0 +1,1 @@
+lar[57232]=`<b>ή, όν :<br>      1</b> recourbé ; τὸ κορωνόν, HPC. <i>Art. 797,</i> la courbe du bras, le coude.<br><b>      2</b> aux cornes recourbées, ARCHIL. <i>39</i>.<p><b>Étym</b>. <i>cf</i>. κορώνη.`

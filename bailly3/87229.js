@@ -1,0 +1,1 @@
+lar[87229]=`<b>πρωτό·μορος, ος, ον</b>, mort auparavant <i>ou</i> le premier, ESCHL. <i>Pers. 568</i>.<p><b>Étym</b>. πρ. μόρος.`

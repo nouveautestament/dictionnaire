@@ -1,0 +1,1 @@
+lar[107011]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., en fuite, <i>avec mouv</i>. IL. <i>8, 157, 257 ; 11, 446 ; 16, 697, etc</i>.<p><b>Étym</b>. φυγή, -δε.`

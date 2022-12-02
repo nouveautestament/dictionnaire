@@ -1,0 +1,1 @@
+lar[85888]=`<b>προσ·ικνέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. -ίξομαι, <i>ao.2</i> -ικόμην, <i>etc</i>.)</font> aller vers, s’approcher, <i>avec un suj. de chose,</i> ESCHL. <i>Ag. 792 ; particul</i>. s’approcher comme suppliant vers, <i>acc</i>. ESCHL. <i>Ch. 1035 ; gén</i>. AR. <i>Eq. 761</i>.`

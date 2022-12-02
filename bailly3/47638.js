@@ -1,0 +1,1 @@
+lar[47638]=`<b>θρεμματο·τροφέω-ῶ</b> <font color="purple">[ᾰ]</font> nourrir des bestiaux, DS. <i>2, 54</i> ; STR. <i>704</i>.<p><b>Étym</b>. θρέμμα, -τροφος <i>de</i> τρέφω.`

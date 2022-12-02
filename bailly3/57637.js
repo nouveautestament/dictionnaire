@@ -1,0 +1,1 @@
+lar[57637]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>dim. de</i> κρατήρ, HPC. <i>576, 16</i>.`

@@ -1,0 +1,1 @@
+lar[61440]=`<b>ου (τὸ)</b> = <i>lat</i>. lituus, le bâton des augures, PLUT. <i>Rom. 22</i>.`

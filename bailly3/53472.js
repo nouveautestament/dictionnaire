@@ -1,0 +1,1 @@
+lar[53472]=`<b>κατα·στοχάζομαι :<br>      1</b> viser à, <i>d’où</i> chercher à atteindre, poursuivre, rechercher, <i>gén</i>. BAS.<br><b>      2</b> conjecturer, deviner, <i>acc</i>. POL. <i>12, 13, 4</i> ; DS. <i>19, 5 et 39 ; gén</i>. ATH. <i>391b</i>.`

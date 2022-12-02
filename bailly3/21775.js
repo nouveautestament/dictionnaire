@@ -1,0 +1,1 @@
+lar[21775]=`<b>ων (οἱ)</b> <font color="purple">[ῑ]</font> <i>c</i>. Γεργίθιοι, HDT. <i>7, 43</i> ; ORACL. (ATH. <i>524b</i>).`

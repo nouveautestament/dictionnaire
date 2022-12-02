@@ -1,0 +1,1 @@
+lar[72028]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> fente du sabot des animaux à pied fourchu, SPT. <i>Deut. 14, 6, 7, 8 ; Lev. 11, 3, 26</i>.<p><b>Étym</b>. ὀνυχίζω.`

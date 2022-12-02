@@ -1,0 +1,1 @@
+lar[6018]=`<b>ἀμφ·ερκής, ής, ές</b>, clos tout autour, ACHÆ. (HSCH.).<p><b>Étym</b>. ἀ. ἕρκος.`

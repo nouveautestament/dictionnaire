@@ -1,0 +1,1 @@
+lar[4685]=`<i>ou</i> <b>Ἀλκυονεύς, έως (ὁ)</b> Halkyonée <i>ou</i> Alkyonée, <i>h</i>. PLUT. <i>Pyrrh. 34</i>.<p>➳ <i>Gén. épq</i>. -ῆος, NONN. <i>D. 48, 22 ; acc</i>. -ῆα, NONN. <i>D. 25, 90, d’où</i> -ῆ, PD. <i>N. 4, 44</i>.<p><b>Étym</b>. ἁλκυών.`

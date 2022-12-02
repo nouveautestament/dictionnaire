@@ -1,0 +1,1 @@
+lar[29626]=`<b>ατος (τὸ)</b> exhortation, encouragement, XÉN. <i>Cyn. 6, 24</i> ; CIC. <i>Att. 6, 1, 8</i>.<p><b>Étym</b>. ἐγκελεύω.`

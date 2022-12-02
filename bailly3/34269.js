@@ -1,0 +1,1 @@
+lar[34269]=`<b>ἐν·δυστυχέω-ῶ</b> <font color="purple">[τῠ]</font> être malheureux dans <i>ou</i> au sujet de, <i>dat</i>. EUR. <i>Ph. 727, Bacch. 508</i> ; PLUT. <i>Per. c. Fab. 3</i>.`

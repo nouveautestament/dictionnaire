@@ -1,0 +1,1 @@
+lar[59764]=`<b>ης (ἡ)</b> Lampsakè, <i>f</i>. PLUT. <i>Mul. virt. 18</i>.`

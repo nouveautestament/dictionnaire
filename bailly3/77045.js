@@ -1,0 +1,1 @@
+lar[77045]=`<b>παρ·οιστράω-ῶ :<br>      1 <i>tr.</i></b> aiguillonner et mettre hors de soi, BAS.<br><b>      2 <i>intr.</i></b> être agité de transports furieux, SPT. <i>Hos. 4, 16 ; Ezech. 2, 6, etc</i>.`

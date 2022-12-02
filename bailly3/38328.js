@@ -1,0 +1,1 @@
+lar[38328]=`<b>ου (ὁ) :<br>      1</b> conclusion, HDT. <i>1, 27</i> ; HPC. <i>224, 11</i>.<br><b>      2</b> épilogue <i>ou</i> péroraison d’un discours, <i>p. opp. à</i> πρόλογος, ARSTT. <i>Rhet. 3, 13, 3, etc.</i><br><b>      3</b> proposition qu’en ajoute pour expliquer qqe ch. ARSTT. <i>Rhet. 2, 21, 6</i>.<p><b>Étym</b>. ἐπιλέγω.`

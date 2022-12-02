@@ -1,0 +1,1 @@
+lar[51539]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite corbeille, petit panier, AR. (<i>Com. fr. 2, 1010, 13</i>) ; PTOL. (ATH. <i>229d</i>) ; BABR. <i>11</i>.<p><b>Étym</b>. <i>dim. de</i> κάνεον.`

@@ -1,0 +1,1 @@
+lar[59930]=`<b>ου (ὁ)</b> Lasos, <i>poète lyrique,</i> HDT. <i>7, 6</i> ; AR. <i>Vesp. 1410</i>.`

@@ -1,0 +1,1 @@
+lar[32678]=`<b>ης (ἡ)</b> Hélène, <i>fille de Zeus et de Lèda, femme de Menélas,</i> IL. <i>2, 161, etc.</i> ; OD. <i>4, 12, etc.</i> ; HÉS. <i>O. 164</i> ; HDT. <i>1, 3 ; etc</i>.<p>➳ <i>Dor</i>. Ἑλένα, PD. <i>O. 13, 82</i> ; ESCHL. <i>Ag. 686, 1455</i> ; EUR. <i>Hec. 635, etc.</i> ; THCR. <i>Idyl. 18, 18, etc</i>.`

@@ -1,0 +1,1 @@
+lar[69475]=`<b>Ξενό·κριτος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Xénokritos :<br><b>      1</b> <i>statuaire,</i> PAUS. <i>9, 11, 14</i>.<br><b>      2</b> <i>musicien,</i> PLUT. <i>M. 1131b</i>.<p><b>Étym</b>. ξένος, κρίνω.`

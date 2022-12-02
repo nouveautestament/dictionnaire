@@ -1,0 +1,1 @@
+lar[67646]=`<b>ναρδίτης οἶνος (ὁ)</b> vin parfumé de nard, DIOSC. <i>5, 67</i>.<p><b>Étym</b>. νάρδος.`

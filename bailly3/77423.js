@@ -1,0 +1,1 @@
+lar[77423]=`<b>ης (ἡ)</b> Paula, <i>n. de f. rom</i>. ANTH. <i>7, 70</i>.<p><b>Étym</b>. <i>fém. de</i> Παῦλος.`

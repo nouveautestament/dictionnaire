@@ -1,0 +1,1 @@
+lar[94912]=`<b>συν·απορρύπτομαι</b>, laver <i>ou</i> nettoyer avec <i>ou</i> en même temps, PHILSTR. <i>676</i>.`

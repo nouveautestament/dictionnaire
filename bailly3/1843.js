@@ -1,0 +1,1 @@
+lar[1843]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> de la nature de l’aigle, comme l’aigle, EL. <i>N.A. 4, 27</i> ; ἀετῶδες βλέπειν, LUC. <i>Ic. 14,</i> avoir un regard d’aigle.<p><b>Étym</b>. ἀ. -ωδης.`

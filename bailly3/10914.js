@@ -1,0 +1,1 @@
+lar[10914]=`<b>ἀξιο·θριάμβευτος, ος, ον</b>, digne de figurer au triomphe, SUÉT. <i>Calig. 47</i>.<p><b>Étym</b>. ἄ. θριαμβεύω.`

@@ -1,0 +1,1 @@
+lar[6349]=`<b>οῦς (ἡ)</b> <font color="purple">[ῐ]</font> Amphirhô, <i>Océanide,</i> HÉS. <i>Th. 360</i>.<p><b>Étym</b>. ἀ. ῥέω.`

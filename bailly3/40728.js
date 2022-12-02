@@ -1,0 +1,1 @@
+lar[40728]=`<i>adv</i>., en cadence, ATH. <i>179f</i>.`

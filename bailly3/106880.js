@@ -1,0 +1,1 @@
+lar[106880]=`<b>ου (ὁ)</b> <font color="purple">[ῑκ]</font> Phrikias, <i>h</i>. PD. <i>P. 10, 16</i>.`

@@ -1,0 +1,1 @@
+lar[91647]=`<b>ου (τὸ)</b> lis, <i>fleur</i>, ATH. <i>513f</i>.<p><b>Étym</b>. <i>cf. hébr</i>. Shûshan ; <i>v</i>. Σοῦσα.`

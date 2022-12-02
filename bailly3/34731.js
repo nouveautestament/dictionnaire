@@ -1,0 +1,1 @@
+lar[34731]=`<b>ἐννεα·πνεύμονος, ος, ον</b>, à neuf souffles, <i>càd</i>. dont le souffle est inépuisable <i>ou</i> se ranime sans cesse, <i>en parl. d’une tempête (cf</i>. τρικυμία) SECUND. <i>Sent. 8, p. 513 Müllach. Fr. philos</i>.<p><b>Étym</b>. ἐ. πνεύμων.`

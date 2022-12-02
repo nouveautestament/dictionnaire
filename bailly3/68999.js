@@ -1,0 +1,1 @@
+lar[68999]=`<b>νοσοκομέω-ῶ</b>, soigner un malade <i>ou</i> des malades, DL. <i>4, 54,</i> JAMBL. <i>V. Pyth. c. 30, p. 384</i>.<br><b><i>Moy.</i></b> se faire traiter <i>ou</i> soigner, DS. <i>Exc. p. 613, 62</i> ; SYN. <i>Ep. 67</i>.<p><b>Étym</b>. νοσοκόμος.`

@@ -1,0 +1,1 @@
+lar[39285]=`<b>ἐπι·σφύζω</b>, battre encore, <i>en parl. du pouls,</i> GAL. <i>4, 783</i>.`

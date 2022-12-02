@@ -1,0 +1,1 @@
+lar[57246]=`<b>κοσμ·αγός, οῦ (ὁ)</b> qui gouverne (<i>propr</i>. qui conduit) le monde, SYN. <i>324b</i>.<p><b>Étym</b>. κόσμος, ἡγέομαι.`

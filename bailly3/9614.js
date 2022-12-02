@@ -1,0 +1,1 @@
+lar[9614]=`<b>ἀντ·εξανίσταμαι</b> <font color="darkgreen">(<i>ao.2</i> -εξανέστην)</font> se lever contre, HLD. <i>7, 15</i>.`

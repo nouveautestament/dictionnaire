@@ -1,0 +1,1 @@
+lar[54126]=`<b>κατ·ομβρέω-ῶ</b>, mouiller de pluie, POL. (STR. <i>97) ; p. ext</i>. mouiller, ANTH. <i>7, 389</i>.<p><b>Étym</b>. κ. ὄμβρος.`

@@ -1,0 +1,1 @@
+lar[47939]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> thym, EUP. <i>2-1, 426 Meineke</i> ; ANTIPH. (<i>Com. fr. 3, 98</i>) ; ARSTT. <i>H.A. 9, 40, 48 ; Probl. 20, 20</i> ; TH. <i>H.P. 6, 2, 3</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. θύμος.`

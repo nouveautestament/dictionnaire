@@ -1,0 +1,1 @@
+lar[12263]=`<b>εως (ἡ)</b> action de lier, ligature, ARSTT. <i>H.A. 7, 10, 1</i> ; JAMBL. <i>V. Pyth. p. 256 Kiessl</i>.<p><b>Étym</b>. ἀποδέω.`

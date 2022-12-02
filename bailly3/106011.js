@@ -1,0 +1,1 @@
+lar[106011]=`<b>φιλο·ποιητής, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> qui aime les poètes, PLAT. <i>Rsp. 607d</i>.`

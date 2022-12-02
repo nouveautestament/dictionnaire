@@ -1,0 +1,1 @@
+lar[94385]=`<b>συμ·πρύτανις, εως (ὁ)</b> <font color="purple">[ῠᾰ]</font> collègue comme prytane, DIN. (POLL. <i>6, 159</i>).`

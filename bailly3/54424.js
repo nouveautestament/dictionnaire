@@ -1,0 +1,1 @@
+lar[54424]=`<i>ou</i> <b>Κεγχρέαι, ῶν (αἱ)</b> Kenkhrées (<i>auj</i>. près de Skafiđáki) <i>port de Corinthe sur le golfe Saronique,</i> XÉN. <i>Hell. 4, 5, 1, etc</i>.`

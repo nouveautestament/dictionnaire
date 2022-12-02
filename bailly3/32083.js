@@ -1,0 +1,1 @@
+lar[32083]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> étendu, <i>d’où</i> :<br><b>      1</b> allongé, long, <i>en parl. d’agrès,</i> ORPH. <i>Arg. 357 ; de montagnes,</i> DP. <i>643</i>.<br><b>      2</b> ample (vêtement) IL. <i>10, 134</i>.<p>➳ <i>Fém</i>. -ος, OPP. <i>C. 3, 276</i>.`

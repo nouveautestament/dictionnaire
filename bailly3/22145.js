@@ -1,0 +1,1 @@
+lar[22145]=`<b>ου (ἡ)</b> <font color="purple">[ῠ]</font> Glykérion, <i>f</i>. LUC. <i>Cat. 12 ; D. mer. 1</i> ; MACH. (ATH. <i>528d</i>, e).<p><b>Étym</b>. <i>dim. de</i> Γλυκέρα.`

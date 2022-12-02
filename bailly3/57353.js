@@ -1,0 +1,1 @@
+lar[57353]=`<b>κοτυλ·ήρυτος, ος, ον</b> <font color="purple">[ῠῠ]</font><br><b>      1</b> que l’on peut puiser <i>ou</i> recueillir avec une coupe, <i>p. suite,</i> qui coule en abondance, à flots, IL. <i>23, 34</i>.<br><b>      2</b> qui peut tenir dans un cotyle, NIC. <i>Th. 539</i>.<p><b>Étym</b>. κοτύλη, ἀρύω¹.`

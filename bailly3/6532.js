@@ -1,0 +1,1 @@
+lar[6532]=`<b>ἀνα·βιβρώσκω</b> <font color="darkgreen">(<i>f</i>. ἀναβρώσομαι, <i>ao</i>. ἀνέβρωσα, <i>ao. pass</i>. ἀνεβρώθην)</font> dévorer, NIC. <i>Th. 134 ; au pass</i>. PHILSTR. <i>836</i>.`

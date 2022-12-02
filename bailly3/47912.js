@@ -1,0 +1,1 @@
+lar[47912]=`<b>(ἡ)</b> <font color="purple">[ῡᾱ]</font> autre n. de la plante πεντάφυλλον, DIOSC. <i>4, 42</i>.<p><b>Étym</b>. θυμιάω.`

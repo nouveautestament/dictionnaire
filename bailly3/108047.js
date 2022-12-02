@@ -1,0 +1,1 @@
+lar[108047]=`<b>χεζητιάω-ῶ</b> (<i>seul. prés</i>.) avoir envie d’aller à la selle, AR. <i>Nub. 1387, Ran. 8, etc.</i> ; EUB. <i>3, 230 Meineke</i>.<p><b>Étym</b>. χέζω.`

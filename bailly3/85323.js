@@ -1,0 +1,1 @@
+lar[85323]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> contact, attouchement, DIOSC. <i>4</i>.<p><b>Étym</b>. προσάπτω.`

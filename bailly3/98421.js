@@ -1,0 +1,1 @@
+lar[98421]=`<b>ας (ἡ)</b> = <i>lat</i>. Tertia, <i>n. de f. rom</i>. PLUT. <i>Æmil. 10, etc</i>.`

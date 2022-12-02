@@ -1,0 +1,1 @@
+lar[96494]=`<b>ης (ἡ)</b> bruit, tumulte, AR. BYZ. <i>p. 241 Nauck</i>.`

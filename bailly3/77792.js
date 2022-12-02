@@ -1,0 +1,1 @@
+lar[77792]=`<b>ητος (ἡ)</b> couleur livide, lividité, ARÉT. <i>Caus. m. acut. 1, 5</i>.<p><b>Étym</b>. πελιδνός.`

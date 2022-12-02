@@ -1,0 +1,1 @@
+lar[8566]=`<i>adv</i>., sans rougir, CHRYS. <i>5, 868</i>.`

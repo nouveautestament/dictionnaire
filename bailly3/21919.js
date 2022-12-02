@@ -1,0 +1,1 @@
+lar[21919]=`<b>η, ον :<br>      1</b> fait de terre, <i>en parl. de briques,</i> XÉN. <i>An. 7, 8, 14 ; de murs,</i> PLAT. <i>Leg. 778d.</i><br><b>      2</b> fait d’éléments terreux, qui tire son origine de la terre, ARSTT. <i>Metaph. 8, 7, 5</i>.<br><b>      3</b> <i>p. suite,</i> terrestre, périssable, PLAT. <i>Pol. 272d ; Phædr. 246c</i>.<p><b>Étym</b>. γῆ.`

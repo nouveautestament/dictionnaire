@@ -1,0 +1,1 @@
+lar[86142]=`<b>προσ·μισέω-ῶ</b> <font color="purple">[ῑ]</font> haïr en même temps, DÉM. <i>1001, 16, etc</i>.`

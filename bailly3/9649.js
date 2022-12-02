@@ -1,0 +1,1 @@
+lar[9649]=`<b>ἀντ·επιβουλεύω</b>, tendre une embuscade à son tour, THC. <i>1, 33 ; 3, 12, etc</i>.`

@@ -1,0 +1,1 @@
+lar[21814]=`<b>γερρο·χελώνη, ης (ἡ)</b> tortue-abri, <i>abri formé par les boucliers dans la manœuvre de la tortue,</i> PHIL. BYZ. <i>96, 99, 100</i>.<p><b>Étym</b>. γέρρον, χ.`

@@ -1,0 +1,1 @@
+lar[63090]=`<b>μαστιγο·νόμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> inspecteur de police armé d’un fouet, PLUT. <i>M. 553a</i>.<p><b>Étym</b>. μάστιξ, νέμω.`

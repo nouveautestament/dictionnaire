@@ -1,0 +1,1 @@
+lar[105620]=`<b>φιλ·ήνιος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime le frein, docile, ESCHL. <i>Pr. 465</i>.<p><b>Étym</b>. φ. ἡνία.`

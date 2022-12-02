@@ -1,0 +1,1 @@
+lar[107621]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de la v. de Khalkèdôn (Chalcédoine) <i>ou</i> du territoire de Chalcédoine, STR. <i>493</i>.<p><b>Étym</b>. Χαλκηδονία.`

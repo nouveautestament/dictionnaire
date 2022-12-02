@@ -1,0 +1,1 @@
+lar[76612]=`<b>ῆς (ἡ)</b> interprétation fausse <i>ou</i> différente, PHIL. BYBL. (EUS. <i>3, 77 Migne).</i><p><b>Étym</b>. παρεκδέχομαι.`

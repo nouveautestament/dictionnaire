@@ -1,0 +1,1 @@
+lar[84155]=`<b>προ·ενεργέω-ῶ</b>, accomplir d’avance <i>ou</i> auparavant, ARSTT. <i>Metaph. 8, 5, 1</i> ; CLÉM. <i>634</i>.`

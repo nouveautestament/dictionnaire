@@ -1,0 +1,1 @@
+lar[19988]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> écoulement d’un liquide bouillonnant, <i>d’où</i> bouillonnement, ANTH. <i>9, 819</i>.<p><b>Étym</b>. βλύζω.`

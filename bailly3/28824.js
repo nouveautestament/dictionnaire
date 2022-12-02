@@ -1,0 +1,1 @@
+lar[28824]=`<b>δυσπνόητος, ος, ον</b>, qui respire avec peine, HPC. <i>54, 49</i>.<p><b>Étym</b>. δυσπνοέω.`

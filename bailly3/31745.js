@@ -1,0 +1,1 @@
+lar[31745]=`<i>adv. c</i>. ἑκοντί, ARR. (SUID.).<p><b>Étym</b>. <i>acc. de</i> ἑκοντής.`

@@ -1,0 +1,1 @@
+lar[80984]=`<i>adv</i>., contre la règle, à tort, <i>p. opp. à</i> ἐμμελῶς, PLAT. <i>Leg. 816a ; à</i> ἀτάκτως, PLAT. <i>Tim. 30a ; cf</i>. STR. <i>459</i> ; PLUT. <i>M. 158d</i>.<p><b>Étym</b>. πλημμελής.`

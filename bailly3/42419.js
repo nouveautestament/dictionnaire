@@ -1,0 +1,1 @@
+lar[42419]=`<b>ως, ων</b>, aux belles cornes, SOPH. <i>Aj. 64, 298 (acc. sg</i>. -ων) ; GEOP. <i>18, 1, 3 (acc. pl</i>. -ωτας).<p>➳ <i>Épq</i>. ἠΰκερως, MAN. <i>6, 29</i>.<p><b>Étym</b>. εὖ, κέρας.`

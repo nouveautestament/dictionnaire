@@ -1,0 +1,1 @@
+lar[39455]=`<b>ος, ον</b>, écourté, raccourci, TH. <i>C.P. 5, 1, 12</i> ; ὁδὸς ἐπ. SYN. <i>Ep. 35 ; ou simpl</i>. ἡ ἐπ. LUC. <i>D. mort. 7, 2</i> ; D. CHR. <i>1, 474,</i> chemin le plus court <i>ou</i> direct.<p>•<i> Sup</i>. -ώτατος, SYN. <i>l. c</i>.<p><b>Étym</b>. ἐπιτέμνω.`

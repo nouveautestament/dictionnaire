@@ -1,0 +1,1 @@
+lar[30449]=`<b>εως (ἡ)</b> action de la chaleur du soleil, PLAT. <i>Rsp. 380e, 404b ;</i> ARSTT. <i>Phys. 2, 5, 7</i>.<p><b>Étym</b>. εἱλέω.`

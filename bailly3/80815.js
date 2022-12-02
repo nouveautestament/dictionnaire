@@ -1,0 +1,1 @@
+lar[80815]=`<b>ου (τὸ) :<br>      1</b> partie d’un gymnase chez les Éléens, PAUS. <i>6, 23, 3</i>.<br><b>      2</b> <i>p. suite,</i> gymnase, LUC. <i>Per. 31</i>.<p><b>Étym</b>. πλέθρον.`

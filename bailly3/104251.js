@@ -1,0 +1,1 @@
+lar[104251]=`<i>ion</i>. <b>Ὑρίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> Hyria :<br><b>      1</b> <i>v. de Béotie,</i> IL. <i>2, 496</i> ; HÉS. <i>fr. 4 Gaisford</i>.<br><b>      2</b> <i>v. d’Iapygie (auj</i>. Oria) HDT. <i>7, 170</i>.`

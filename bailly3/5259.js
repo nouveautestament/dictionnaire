@@ -1,0 +1,1 @@
+lar[5259]=`<font color="purple">[ᾰμ]</font> <i>adv</i>., avec disposition à faillir, à pécher, CLÉM. <i>1, 1324 ; 2, 268 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[1835]=`<b>ἀεσί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui a l’esprit troublé, insensé, IL. <i>20, 183</i> ; OD. <i>21, 302</i> ; HÉS. <i>O. 333</i>.<p><b>Étym</b>. ἀάω, φρήν.`

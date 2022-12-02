@@ -1,0 +1,1 @@
+lar[84117]=`<b>προ·εκφεύγω</b> <font color="darkgreen">(<i>f</i>. -εκφεύξομαι, <i>ao.2</i> -εξέφυγον, <i>etc</i>.)</font> s’enfuir auparavant de, <i>gén</i>. DS. <i>38, 50 ; abs</i>. PLUT. <i>M. 250d ;</i> DC. <i>Exc. 83</i>.`

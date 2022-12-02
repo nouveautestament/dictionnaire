@@ -1,0 +1,1 @@
+lar[46941]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de lupin, LUC. <i>V.H. 1, 27</i> ; DIOSC. <i>2, 135</i>.<p><b>Étym</b>. θέρμος.`

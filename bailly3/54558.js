@@ -1,0 +1,1 @@
+lar[54558]=`<font color="purple">[ᾱ]</font> <i>adv.</i> :<br><b>      1</b> avec mesure, PROCL. <i>Plat. 1 Alc. 1, 102</i>.<br><b>      2</b> <i>p. suite,</i> avec un art parfait, PLUT. <i>M. 335a</i>.<p><b>Étym</b>. κεράννυμι.`

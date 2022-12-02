@@ -1,0 +1,1 @@
+lar[4564]=`<b>ἁλι·στέφανος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> entouré comme d’une couronne par la mer, HH. <i>Ap. 412</i> ; NONN. <i>D. 28, 89, etc</i>.<p><b>Étym</b>. ἅ. στέφανος.`

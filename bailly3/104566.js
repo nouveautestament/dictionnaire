@@ -1,0 +1,1 @@
+lar[104566]=`<b>ας (ἡ)</b> grossièreté, stupidité, ATH. <i>96f</i>.<p><b>Étym</b>. ὑώδης.`

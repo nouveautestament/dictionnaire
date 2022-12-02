@@ -1,0 +1,1 @@
+lar[1678]=`<b>ἄ·ειλος, ος, ον</b>, privé de soleil, ESCHL. <i>fr. 334 Nauck</i>.<p><b>Étym</b>. ἀ, εἵλη.`

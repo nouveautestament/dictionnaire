@@ -1,0 +1,1 @@
+lar[100074]=`<b>τριακοντά·ζυγος, ος, ον</b> <font color="purple">[ᾱκῠ]</font> à trente bancs de rameurs, THCR. <i>Idyl. 13, 74</i>.<p><b>Étym</b>. τρ. ζυγόν.`

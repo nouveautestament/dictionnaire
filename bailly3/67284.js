@@ -1,0 +1,1 @@
+lar[67284]=`<b>μυρι·ωπός, ός, όν</b> <font color="purple">[ῡ]</font> aux yeux innombrables, ESCHL. <i>Pr. 569</i>.<p><b>Étym</b>. μυρίος, ὤψ.`

@@ -1,0 +1,1 @@
+lar[81488]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> toison, <i>d’où</i> chevelure, AR. <i>Th. 567 au pl</i>.<p><b>Étym</b>. πέκω.`

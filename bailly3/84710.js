@@ -1,0 +1,1 @@
+lar[84710]=`<b>προμένειος σίδη (ἡ)</b> sorte de grenade, NIC. <i>Al. 490</i>.`

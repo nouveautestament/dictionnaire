@@ -1,0 +1,1 @@
+lar[91169]=`<b>α, ον</b>, de scorpion, MAN. <i>1, 35</i>.<p>➳ <i>Ion</i>. -ήϊος, ORPH. <i>Lith. 504, 616</i>.<p><b>Étym</b>. σκορπίος.`

@@ -1,0 +1,1 @@
+lar[89703]=`<b>σελαη·γενέτης, ου (ὁ)</b> qui fait naître la lumière, <i>ép. d’Apollon,</i> ANTH. <i>9, 525, 19</i>.<p><b>Étym</b>. σέλας, γενέτης.`

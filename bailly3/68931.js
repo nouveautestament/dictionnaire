@@ -1,0 +1,1 @@
+lar[68931]=`<b>νομο·δείκτης, ου (ὁ)</b> qui explique les lois, jurisconsulte, PLUT. <i>T. Gracch. 9</i>.<p><b>Étym</b>. ν. δείκνυμι.`

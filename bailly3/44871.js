@@ -1,0 +1,1 @@
+lar[44871]=`<b>ἡβυλλιάω-ῶ</b>, être toute jeunette, AR. <i>Ran. 516</i> ; PHÉRÉCR. (ATH. <i>269b</i>).<p><b>Étym</b>. ἥβη.`

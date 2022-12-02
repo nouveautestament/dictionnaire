@@ -1,0 +1,1 @@
+lar[43930]=`<b>εως (ἡ)</b> action d’être assis sur <i>ou</i> auprès, AQU. <i>Job 3, 73</i>.`

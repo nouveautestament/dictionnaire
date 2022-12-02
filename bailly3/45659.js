@@ -1,0 +1,1 @@
+lar[45659]=`<b>ἠν·ίδε</b> <font color="purple">[ῐ]</font> <i>interj</i>. voici, voilà, THCR. <i>Idyl. 1, 149 ; 2, 38 ; 3, 10</i> ; CALL. <i>Del. 132</i>.<p><b>Étym</b>. ἤν, ἴδε.`

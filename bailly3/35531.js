@@ -1,0 +1,1 @@
+lar[35531]=`<b>ἑξά·πεζος, ος, ον</b>, qui repose sur six pieds, LYC. <i>176</i>.<p><b>Étym</b>. ἕξ, πέζα.`

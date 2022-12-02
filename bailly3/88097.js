@@ -1,0 +1,1 @@
+lar[88097]=`<b>ου (τὸ) :<br>      1</b> endroit pour vendre, halle, marché, XÉN. <i>Vect. 3, 13</i> ; APP. <i>Civ. 3, 231, etc. ; fig</i>. SYN. <i>30, 35</i>.<br><b>      2</b> endroit où se réunissaient les πωληταί (<i>v</i>. πωλητής) DÉM. <i>787, 27</i>.<p><b>Étym</b>. πωλέω.`

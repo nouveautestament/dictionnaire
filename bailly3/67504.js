@@ -1,0 +1,1 @@
+lar[67504]=`<font color="darkgreen">(<i>ao.1</i> ἐμωλύνθην, <i>pf</i>. μεμώλυσμαι)</font> être affaibli, s’affaiblir, SOPH. <i>fr. 631 Nauck</i> (HSCH.) ; <i>p. suite, en parl. d’un abcès,</i> se résorber, disparaître, HPC. <i>675, 41 ; 1208a, etc</i>.<p><b>Étym</b>. μῶλυς.`

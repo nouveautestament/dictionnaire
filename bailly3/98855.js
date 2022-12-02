@@ -1,0 +1,1 @@
+lar[98855]=`<i>ou</i> <b>τεχνίον, ου (τὸ)</b> <i>dim. de</i> τέχνη, PLAT. <i>Rsp. 495d ;</i> DIPH. <i>et</i> ANTIDOT. (ATH. <i>55d et 240c</i>).`

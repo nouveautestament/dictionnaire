@@ -1,0 +1,1 @@
+lar[72887]=`<b>ᾶς (ἡ)</b> <font color="purple">[ῑ]</font> ligne pour pêcher, ARSTT. <i>H.A. 9, 37, etc.</i> ; THCR. <i>Idyl. 21, 11</i> ; LUC. <i>D. mort. 27, 9</i> ; OPP. <i>H. 3, 75, etc</i>.<p><b>Étym</b>. ὅρμος.`

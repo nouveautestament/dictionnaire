@@ -1,0 +1,1 @@
+lar[36570]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰν]</font> nécessité, contrainte, NÉMÉS. <i>N.H. p. 53</i>.<p><b>Étym</b>. ἐπαναγκάζω.`

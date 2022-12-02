@@ -1,0 +1,1 @@
+lar[38910]=`<b>ῆς (ἡ)</b> jonc, tige flexible, CHRYS. <i>1, 45 Migne</i>.<p><b>Étym</b>. ἐπιρρέπω.`

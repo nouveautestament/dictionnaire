@@ -1,0 +1,1 @@
+lar[26822]=`<b>διο·πετής, ής, ές</b>, <i>propr</i>. tombé de Zeus, <i>càd</i>. du ciel, <i>en parl. d’une statue,</i> EUR. <i>I.T. 977 ; du Palladium,</i> DH. <i>2, 66 ; du bouclier romain</i> « ancile » DH. <i>2, 71</i> ; PLUT. <i>Num. 13 ; d’une pierre,</i> HDN <i>5, 3, 11</i>.<p><b>Étym</b>. Διός, πετ- <i>de</i> πίπτω.`

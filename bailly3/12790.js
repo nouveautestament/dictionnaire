@@ -1,0 +1,1 @@
+lar[12790]=`<b>Ἀπολλό·δωρος, ου (ὁ)</b> Apollodôros (Apollodore) :<br><b>      1</b> <i>n. de deux poètes de la nouvelle comédie</i>.<br><b>      2</b> <i>polygraphe, auteur d’ouvrages de mythologie</i>.<br><b>      3</b> <i>autres,</i> THC. <i>7, 20</i> ; XÉN. <i>Mem. 3, 11, 7, etc</i>.<p><b>Étym</b>. Ἀπόλλων, δῶρον.`

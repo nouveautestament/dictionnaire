@@ -1,0 +1,1 @@
+lar[90332]=`<b>όεντος (ὁ)</b> <font color="purple">[ῐ]</font> le Simoïs (<i>auj</i>. Dumrek) <i>fl. de Troade,</i> IL. <i>4, 475, etc.</i> ; ESCHL. <i>Ag. 696</i> ; EUR. <i>I.A. 751, etc</i>.<p>➳ <i>Par contr</i>. Σιμοῦς, οῦντος, HÉS. <i>Th. 342</i> ; CALL. <i>L. Pall. 19</i>.`

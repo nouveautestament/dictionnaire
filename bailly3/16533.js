@@ -1,0 +1,1 @@
+lar[16533]=`<b>ἀ·συντόνως</b> (<i>seul</i>. <i>• Sup</i>. -ώτατα) <i>adv</i>., sans énergie, mollement, XÉN. <i>Cyr. 4, 2, 31</i>.<p><b>Étym</b>. ἀ, σύντονος.`

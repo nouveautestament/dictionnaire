@@ -1,0 +1,1 @@
+lar[9461]=`<b>ἀντ·αναστρέφομαι</b>, revenir au devant de, CLÉM. <i>160</i>.`

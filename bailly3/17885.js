@@ -1,0 +1,1 @@
+lar[17885]=`<font color="purple">[ᾰᾰ]</font> <i>adv</i>., d’une manière obscure <i>ou</i> cachée, en secret, THC. <i>3, 43, etc.</i> ; PLAT. <i>etc</i>.<p>•<i> Sup</i>. ἀφανέστατα, XÉN. <i>Hell. 5, 1, 27</i>.<p><b>Étym</b>. ἀφανής.`

@@ -1,0 +1,1 @@
+lar[52177]=`<b>κατα·βροντάω-ῶ</b>, foudroyer, frapper d’un coup de foudre, THÉM. <i>337 ; fig</i>. LGN <i>34, 4</i>.`

@@ -1,0 +1,1 @@
+lar[88815]=`<b>Ῥουφίνιον ἄλσος (τὸ)</b> <font color="purple">[ῑν]</font> le bois sacré de Rufinius, ANTH. <i>9, 656</i>.<p><b>Étym</b>. <i>cf</i>. Ῥουφίνιος.`

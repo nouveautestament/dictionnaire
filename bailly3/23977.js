@@ -1,0 +1,1 @@
+lar[23977]=`<b>ου (τὸ) :<br>      1</b> membrane qui recouvre les intestins, épiploon, OD. <i>11, 579</i> ; HPC. <i>1149e.</i><br><b>      2</b> bec des oiseaux de proie, LYC. <i>880</i>.<p><b>Étym</b>. δέρω.`

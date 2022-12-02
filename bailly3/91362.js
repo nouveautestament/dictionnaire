@@ -1,0 +1,1 @@
+lar[91362]=`<font color="purple">[ῡ]</font> travailler le cuir, <i>particul</i>. être cordonnier, XÉN. <i>Mem. 1, 2, 22</i>.<p><b>Étym</b>. σκῦτος.`

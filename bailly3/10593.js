@@ -1,0 +1,1 @@
+lar[10593]=`<b>ἀντι·χαλεπαίνω</b> <font color="purple">[χᾰ]</font> se fâcher <i>ou</i> être fâché contre, <i>dat</i>. PLUT. <i>M. 468b</i>.`

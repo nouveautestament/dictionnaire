@@ -1,0 +1,1 @@
+lar[8785]=`<b>ός, όν</b>, qui exploite les fleurs (abeille) ESCHL. <i>Pers. 612</i>.<p><b>Étym</b>. ἄ. ἔργον.`

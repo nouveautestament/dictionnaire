@@ -1,0 +1,1 @@
+lar[66650]=`<b>ας (ἡ)</b> portée d’un seul petit, ARSTT. <i>G.A. 4, 4, 18</i>.<p><b>Étym</b>. μονοτόκος.`

@@ -1,0 +1,1 @@
+lar[83512]=`<b>προ·αίρω</b> <font color="darkgreen">(<i>f</i>. -αρῶ, <i>ao</i>. προῆρα, <i>etc</i>.)</font> prendre les devants, PLUT. <i>M. 211d</i>.`

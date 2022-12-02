@@ -1,0 +1,1 @@
+lar[55975]=`<b>οῦ (ὁ)</b> action d’observer un présage, de présager, d’augurer, SPT. <i>Deut. 18, 14 ; Esaï. 2, 6</i>.<p><b>Étym</b>. κληδονίζω.`

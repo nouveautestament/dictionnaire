@@ -1,0 +1,1 @@
+lar[60678]=`<i>adv</i>., au lit, <i>avec mouv</i>. IL. <i>3, 447</i> ; OD. <i>23, 294</i>.<p><b>Étym</b>. λέχος, -δε.`

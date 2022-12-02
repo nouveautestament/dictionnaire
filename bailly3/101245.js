@@ -1,0 +1,1 @@
+lar[101245]=`<i>nom. et acc. duel de</i> ὅδε.`

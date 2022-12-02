@@ -1,0 +1,1 @@
+lar[50765]=`<i>vb. de</i> κακολογέω ARSTT. <i>Rhet. Al. t. 1, p. 229 Rhetores græci, Spengel</i>.`

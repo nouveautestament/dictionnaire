@@ -1,0 +1,1 @@
+lar[69571]=`<b>ας (ἡ)</b> <font color="purple">[ξῐ]</font> action de porter une épée, PHIL. <i>1, 282</i> ; HDN <i>7, 11, 7</i>.<p><b>Étym</b>. ξιφηφόρος.`

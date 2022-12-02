@@ -1,0 +1,1 @@
+lar[64083]=`<b>μελισσό·τευκτος, ος, ον</b>, travaillé par les abeilles, PD. <i>fr. 266</i>.<p><b>Étym</b>. μ. τεύχω.`

@@ -1,0 +1,1 @@
+lar[99811]=`<i>adv</i>., d’ici, THCR. <i>Idyl. 4, 10</i>.<p><b>Étym</b>. τοῦτο, -θε.`

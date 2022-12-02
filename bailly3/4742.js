@@ -1,0 +1,1 @@
+lar[4742]=`<b>ἀλληλο·τρόφος, ος, ον</b>, qui se nourrissent mutuellement, GEOP. <i>20, 6, 1 (var</i>. ἀλληλόφιλοι).<p><b>Étym</b>. ἀ. τρέφω.`

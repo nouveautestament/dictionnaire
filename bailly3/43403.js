@@ -1,0 +1,1 @@
+lar[43403]=`<b>ας (ἡ)</b> <i>c</i>. εὐσέβεια, PD. <i>O. 8, 8</i> ; SOPH. <i>Ant. 943, O.C. 189</i>.<p>➳ <i>Ion</i>. -ίη, THGN. <i>1138</i> ; CRITIAS (ATH. <i>433a</i>).`

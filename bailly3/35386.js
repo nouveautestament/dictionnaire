@@ -1,0 +1,1 @@
+lar[35386]=`<b>ἐξ·αλεύομαι</b> <font color="purple">[ᾰ]</font> (<i>sbj. ao</i>. -εύσωμαι) <i>c</i>. ἐξαλέομαι, <i>acc</i>. SOPH. <i>Aj. 656</i>.`

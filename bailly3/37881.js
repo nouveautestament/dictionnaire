@@ -1,0 +1,1 @@
+lar[37881]=`<b>ἐπι·καιρία, ας (ἡ)</b> occasion favorable, HPC. <i>271, 10</i> ; DÉMOCR. (DL. <i>9, 48).</i><p><b>Étym</b>. ἐπίκαιρος.`

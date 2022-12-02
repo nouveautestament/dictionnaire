@@ -1,0 +1,1 @@
+lar[24347]=`<b>*δημώματα</b>, <i>seul. dor</i>. <b>δαμώματα, ων (τὰ)</b> <font color="purple">[δᾱ]</font> chansons populaires, AR. <i>Pax 798</i>.<p><b>Étym</b>. δημόω.`

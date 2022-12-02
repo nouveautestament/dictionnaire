@@ -1,0 +1,1 @@
+lar[96817]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière peu sûre <i>ou</i> dangereuse, EUR. <i>I.A. 601</i> ; ISOCR. <i>104a</i>.<p><b>Étym</b>. σφαλερός.`

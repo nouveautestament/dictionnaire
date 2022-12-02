@@ -1,0 +1,1 @@
+lar[29883]=`<b>ατος (τὸ)</b> entreprise contre, attaque, SOPH. <i>O.R. 540</i> ; PLAT. <i>Pol. 590d ;</i> DÉM. <i>824, 12</i> ; PLUT. <i>Cleom. 25, etc</i>.<p><b>Étym</b>. ἐγχειρέω.`

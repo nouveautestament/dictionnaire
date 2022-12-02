@@ -1,0 +1,1 @@
+lar[9010]=`<b>ἀνθ·υπερφρονέω-ῶ</b>, rendre orgueil pour orgueil, AUG. (SUÉT. <i>Hor. § 8).</i><p><b>Étym</b>. ἀντί, ὑ.`

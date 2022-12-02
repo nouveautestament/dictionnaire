@@ -1,0 +1,1 @@
+lar[50140]=`<i>gén</i>. <b>Ἴωνος</b>, <i>adj. m</i>. d’Ionie, ionien, HDT. <i>4, 98, etc.</i> ; οἱ Ἴωνες, HDT. <i>1, 143, etc.</i> ; THC. <i>1, 12, etc</i>. les Ioniens, <i>l’une des quatre tribus principales des Hellènes ; particul</i>. les Ioniens, <i>en Asie Mineure</i>.<p><b>Étym</b>. <i>cf</i>. Ἰάονες.`

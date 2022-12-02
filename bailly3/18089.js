@@ -1,0 +1,1 @@
+lar[18089]=`<i>ion</i>. <b>ἀφιλαργυρίη, ης (ἡ)</b> <font color="purple">[ῐῠ]</font> absence de cupidité <i>ou</i> d’avarice, désintéressement, HPC. <i>23, 35</i>.<p><b>Étym</b>. ἀφιλάργυρος.`

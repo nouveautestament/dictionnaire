@@ -1,0 +1,1 @@
+lar[29868]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰᾰ]</font> incision, APD. POL. <i>43, 20</i>.<p><b>Étym</b>. ἐγχαράσσω.`

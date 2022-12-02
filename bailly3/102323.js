@@ -1,0 +1,1 @@
+lar[102323]=`<b>ὑπερ·άχθομαι</b> <font color="darkgreen">(<i>ao</i>. ὑπερηχθέσθην)</font> être extrêmement affligé <i>ou</i> mécontent de, <i>dat</i>. HDT. <i>6, 21</i> ; SOPH. <i>El. 177</i>.<p>➳ <i>Prés. impér. 2 sg. poét</i>. ὑπεράχθεο, SOPH. <i>l. c</i>.`

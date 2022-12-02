@@ -1,0 +1,1 @@
+lar[73624]=`<b>ου (ὁ)</b> chant en l’honneur d’Artémis, ATH. <i>619b</i>.<p><b>Étym</b>. Οὖπις.`

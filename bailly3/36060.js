@@ -1,0 +1,1 @@
+lar[36060]=`<b>ας (ἡ)</b> départ, <i>particul</i>. départ d’une expédition, HDT. <i>6, 56</i> ; POL. <i>5, 54, 3 ; 8, 26, 1</i> ; SPT. <i>Deut. 16, 3 ; 2Reg. 11, 1</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>l. c</i>.<p><b>Étym</b>. ἔξοδος.`

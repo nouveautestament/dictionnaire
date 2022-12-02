@@ -1,0 +1,1 @@
+lar[100690]=`<b>Τρομιλικὸς τυρός</b>, DÉMÉTR. SCEPS. (ATH. <i>658b</i>), <i>ou</i> Τρομίλιος τυρός, SIM. AM. <i>fr. 21 (26</i>) fromage de Tromileia, <i>v. d’Achaïe, renommée pour ses fromages</i>.`

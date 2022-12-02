@@ -1,0 +1,1 @@
+lar[32715]=`<b>ἐλευθερο·πραξία, ας (ἡ)</b> <font color="purple">[ρᾱ]</font> liberté d’agir, SIB. <i>2, p. 190</i>.<p><b>Étym</b>. ἐ. πράσσω.`

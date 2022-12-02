@@ -1,0 +1,1 @@
+lar[81189]=`<b>πνευματό·ρροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> agité par un courant de vent, PLAT. <i>Crat. 410b</i>.<p><b>Étym</b>. πν. ῥέω.`

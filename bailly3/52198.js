@@ -1,0 +1,1 @@
+lar[52198]=`<b>ου (ὁ)</b> myrte sauvage, DIOSC. <i>4, 146</i>.<p><b>Étym</b>. καταγγέλλω.`

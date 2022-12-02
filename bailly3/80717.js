@@ -1,0 +1,1 @@
+lar[80717]=`<b>ῶνος (ὁ)</b> lieu couvert de platanes, ARCAD. <i>p. 14, 13</i>.<p><b>Étym</b>. πλάτανος.`

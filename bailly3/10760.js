@@ -1,0 +1,1 @@
+lar[10760]=`<i>adv</i>., sans feinte, sincèrement, M. ANT. <i>8, 3</i>.`

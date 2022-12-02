@@ -1,0 +1,1 @@
+lar[51953]=`<b>οῦ (τὸ)</b> poireau, <i>légume,</i> GEOP. <i>2, 6, 32</i>.<p><b>Étym</b>. <i>neutre de</i> καρτός.`

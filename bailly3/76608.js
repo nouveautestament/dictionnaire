@@ -1,0 +1,1 @@
+lar[76608]=`<b>ή, όν</b> <font color="purple">[βᾰ]</font> qui s’écarte du sujet, A. APHR. <i>Febr. 18, 1</i> ; NAZ. <i>2, 429 Migne</i>.<p><b>Étym</b>. παρεκβαίνω.`

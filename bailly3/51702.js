@@ -1,0 +1,1 @@
+lar[51702]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρᾱ]</font> attente impatiente, observation attentive, AQU. <i>Prov. 10, 28, etc</i>.<p><b>Étym</b>. καραδοκέω.`

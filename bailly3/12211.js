@@ -1,0 +1,1 @@
+lar[12211]=`<b>έως (ὁ)</b> <font color="purple">[ᾰφ]</font> délateur, espion, SYN. <i>122d</i>.<p><b>Étym</b>. ἀπογράφω.`

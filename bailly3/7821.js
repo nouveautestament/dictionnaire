@@ -1,0 +1,1 @@
+lar[7821]=`<b>*ἀναυδία</b>, <i>ion</i>. <b>ἀναυδίη, ης (ἡ)</b> impuissance à parler, mutisme, HPC. <i>122d, 174b</i>.<p><b>Étym</b>. ἄναυδος.`

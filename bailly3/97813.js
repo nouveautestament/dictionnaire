@@ -1,0 +1,1 @@
+lar[97813]=`<b>ταυρ·ωπός, ός, όν</b>, qui a l’aspect <i>ou</i> le regard d’un taureau, ION (ATH. <i>35e</i>) ; ORPH. <i>H. 29, 4</i>.<p><b>Étym</b>. τ. ὤψ.`

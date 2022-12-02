@@ -1,0 +1,1 @@
+lar[20133]=`<b>ης, ες</b>, en forme d’oignon, bulbeux, TH. <i>H.P. 7, 13, 9</i> ; DIOSC. <i>2, 174</i>.<p><b>Étym</b>. βολβός, -ωδης.`

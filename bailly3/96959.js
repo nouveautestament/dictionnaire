@@ -1,0 +1,1 @@
+lar[96959]=`<b>σφυροκοπέω-ῶ</b> <font color="purple">[ῡ]</font> battre avec le marteau, PHILOD. <i>1, p. 4 Gomperz</i> ; SPT. <i>Jud. 5, 26</i>.<p><b>Étym</b>. σφυροκόπος.`

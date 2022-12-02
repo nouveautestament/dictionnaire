@@ -1,0 +1,1 @@
+lar[71748]=`<b>ὁμοφρονέω-ῶ</b>, être du même avis, du même sentiment, OD. <i>6, 183 ; 9, 456</i> ; HDT. <i>7, 229</i> ; τινι, HDT. <i>8, 75,</i> être uni de sentiments avec qqn ; <i>en parl. de conjurés,</i> XÉN. <i>Hell. 7, 5, 7 ; avec un n. de chose</i> : πόλεμος ὁμοφρονέων, HDT. <i>8, 3,</i> guerre décidée <i>ou</i> entreprise d’un sentiment unanime.<p><b>Étym</b>. ὁμόφρων.`

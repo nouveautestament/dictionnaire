@@ -1,0 +1,1 @@
+lar[87772]=`<b>πυρ·βόλος, ος, ον</b>, qui lance des flammes, MAN. <i>5, 93</i>.<p><b>Étym</b>. π. βάλλω.`

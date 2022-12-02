@@ -1,0 +1,1 @@
+lar[49075]=`<b>ου (ὁ)</b> atractylis gommifère, <i>plante vénéneuse,</i> DIOSC. <i>Alex. 21</i>.<p><b>Étym</b>. <i>cf</i>. ἰξία 4.`

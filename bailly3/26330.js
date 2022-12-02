@@ -1,0 +1,1 @@
+lar[26330]=`<b>δι·ευτυχέω-ῶ</b> <font color="purple">[ῠ]</font> être constamment heureux : τινι, DÉM. <i>1040, 5</i> ; τινος, EL. <i>N.A. 17, 27</i> ; περί τι, THPP. (ATH. <i>531d</i>) en qqe ch. ; <i>abs</i>. MÉN. <i>531 Kock</i>.`

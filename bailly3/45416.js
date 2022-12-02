@@ -1,0 +1,1 @@
+lar[45416]=`<b>ἡμί·δουλος, ος, ον</b> <font color="purple">[ῐ]</font> à moitié esclave, EUR. <i>Andr. 942</i>.<p><b>Étym</b>. ἡμι-, δοῦλος.`

@@ -1,0 +1,1 @@
+lar[38929]=`<b>ἐπι·σαλεύω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> être à l’ancre <i>ou</i> être ballotté par les flots auprès de, <i>dat</i>. PHILSTR. <i>740</i>.<br><b>      2</b> <i>p. ext</i>. être flottant, flotter sur, <i>en parl. de cheveux, dat</i>. PHILSTR. <i>798</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. 2, LUC. <i>Am. 40</i>.`

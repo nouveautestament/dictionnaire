@@ -1,0 +1,1 @@
+lar[75868]=`<b>ατος (τὸ) :<br>      1</b> succession, échange de choses qui se succèdent, HPC. <i>Art. 792</i> ; PLUT. <i>Num. 18</i>.<br><b>      2</b> changement, différence, STR. <i>87</i>.<p><b>Étym</b>. παραλλάσσω.`

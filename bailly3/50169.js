@@ -1,0 +1,1 @@
+lar[50169]=`<font color="purple">[ᾱ]</font> <i>v</i>. κέ.`

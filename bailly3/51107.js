@@ -1,0 +1,1 @@
+lar[51107]=`<i>voc</i>. <b>-η (ὁ)</b> <font color="purple">[λῐ]</font> Kallidèmidès, <i>h</i>. LUC. <i>D. mort. 7</i>.<p><b>Étym</b>. <i>patr. de</i> *Καλλίδημος, <i>de</i> κ. δῆμος.`

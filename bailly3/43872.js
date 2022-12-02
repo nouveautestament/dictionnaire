@@ -1,0 +1,1 @@
+lar[43872]=`négliger, SOPH. <i>fr. 505</i>.`

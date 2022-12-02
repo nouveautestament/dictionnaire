@@ -1,0 +1,1 @@
+lar[61829]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> Lykænis (<i>propr</i>. petite louve) <i>f</i>. CALL. <i>Ep. 54, 1</i> ; ANTH. <i>5, 187</i>.<p><b>Étym</b>. λύκαινα.`

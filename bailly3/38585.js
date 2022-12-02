@@ -1,0 +1,1 @@
+lar[38585]=`<b>ἐπι·οίνιος, ος, ον</b>, qui concerne le vin ; ἐπ. ἆθλον, THGN. <i>971,</i> prix décerné au meilleur buveur.<p><b>Étym</b>. ἐπί, οἶνος.`

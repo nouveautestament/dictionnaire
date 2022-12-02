@@ -1,0 +1,1 @@
+lar[77306]=`<b>πατάν·εψις, εως (ἡ)</b> anguille <i>cuite,</i> EPICH. (POLL. <i>6, 90).</i><p><b>Étym</b>. πατάνη, ἕψω.`

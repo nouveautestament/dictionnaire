@@ -1,0 +1,1 @@
+lar[80375]=`<font color="purple">[ῐ]</font> (<i>seul. prés</i>.) inspirer, <i>acc</i>. ESCHL. <i>Pers. 830</i> ; CALL. <i>Dian. 152</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

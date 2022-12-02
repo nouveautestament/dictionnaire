@@ -1,0 +1,1 @@
+lar[5989]=`<b>ἀμφ·αλλάσσω</b>, changer entièrement, OPP. <i>C. 3, 13</i>.`

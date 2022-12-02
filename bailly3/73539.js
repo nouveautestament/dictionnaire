@@ -1,0 +1,1 @@
+lar[73539]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> besace, ANTH. <i>7, 413 conj. Lob</i>.`

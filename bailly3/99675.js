@@ -1,0 +1,1 @@
+lar[99675]=`<b>ή, όν :<br>      1</b> fait au tour, MÉN. (ATH. <i>781e</i>).<br><b>      2</b> qu’on peut façonner au tour, TH. <i>Lap. 5</i>.<p><b>Étym</b>. τορνεύω.`

@@ -1,0 +1,1 @@
+lar[49391]=`<b>ἱππό·μητις, ιος (ὁ, ἡ)</b> habile à manier les chevaux, PD. <i>I. 7, 13</i>.<p><b>Étym</b>. ἵ. μῆτις.`

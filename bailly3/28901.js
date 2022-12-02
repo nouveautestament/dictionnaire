@@ -1,0 +1,1 @@
+lar[28901]=`<b>δυσ·σύνακτος, ος, ον</b>, difficile à rassembler, à réunir, JOS. <i>B.J. 4, 4, 6</i>.<p><b>Étym</b>. δ. συνάγω.`

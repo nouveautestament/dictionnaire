@@ -1,0 +1,1 @@
+lar[61688]=`<i>vb. de</i> λούω, MOSCHION <i>Mul. pass. 87</i> ; CLÉM. <i>1, 617 Migne</i>.`

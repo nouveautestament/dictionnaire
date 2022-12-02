@@ -1,0 +1,1 @@
+lar[34861]=`<b>ατος (τὸ)</b> mouillage, rade, port, APP. <i>Civ. 4, 106</i>.<p><b>Étym</b>. ἐνορμίζω.`

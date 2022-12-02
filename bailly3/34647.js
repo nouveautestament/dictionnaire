@@ -1,0 +1,1 @@
+lar[34647]=`<b>ἐν·ιππομαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre à cheval dans, DH. <i>2, 13 dout</i>.`

@@ -1,0 +1,1 @@
+lar[12629]=`<b>ἀπο·κομάω-ῶ</b>, perdre ses cheveux, LUC. <i>Lex. 5</i>.`

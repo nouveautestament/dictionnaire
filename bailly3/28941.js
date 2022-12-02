@@ -1,0 +1,1 @@
+lar[28941]=`<b>δύσ·τριπτος, ος, ον</b>, difficile à broyer, ARTÉM. <i>1, 70</i> ; HIPPIATR. <i>p. 5</i>.<p><b>Étym</b>. δ. τρίβω.`

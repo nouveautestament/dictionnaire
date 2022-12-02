@@ -1,0 +1,1 @@
+lar[67186]=`<b>μυοσ·ωτίς, ίδος (ἡ)</b> myosotis, <i>propr</i>. « oreille de souris », DIOSC. <i>2, 214</i>.<p><b>Étym</b>. μῦς, οὖς.`

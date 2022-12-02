@@ -1,0 +1,1 @@
+lar[13203]=`<b>ἀ·πόρθητος, ος, ον :<br>      1</b> non dévasté, IL. <i>12, 11</i> ; ESCHL. <i>Pers. 348</i> ; HDT. <i>6, 28, etc.</i><br><b>      2</b> qu’on ne peut dévaster, inexpugnable, ANTIPH. (ATH. <i>681c</i>) ; DS. <i>36, 5, 3</i>.<p>➳ <i>Fém</i>. -ήτη, EUR. <i>Med. 826 (vulg</i>. -ητος).<p><b>Étym</b>. ἀ, πορθέω.`

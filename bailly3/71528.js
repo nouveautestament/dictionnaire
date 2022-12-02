@@ -1,0 +1,1 @@
+lar[71528]=`<b>ὁμοιό·κριθος, ος, ον</b> <font color="purple">[ῑ]</font> qui ressemble à de l’orge, TH. <i>H.P. 8, 1, 1</i>.<p><b>Étym</b>. ὅμ. κριθή.`

@@ -1,0 +1,1 @@
+lar[82513]=`<b>πολυ·φιλάνθρωπος, ος, ον</b> <font color="purple">[ῠῐ]</font> plein d’humanité, CHRYS.`

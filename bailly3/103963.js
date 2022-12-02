@@ -1,0 +1,1 @@
+lar[103963]=`<b>οῦ (τὸ)</b> herbe que l’on coupe pour la préparation des breuvages magiques, HH. <i>Cer. 228 dout</i>.<p><b>Étym</b>. ὑποτέμνω.`

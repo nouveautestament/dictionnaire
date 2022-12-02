@@ -1,0 +1,1 @@
+lar[72166]=`<i>adv</i>., avec un caractère irascible, GR. THAUM. <i>p. 996a</i>.`

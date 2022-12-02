@@ -1,0 +1,1 @@
+lar[98285]=`(<i>seul. prés</i>.) ronger, HÉS. <i>O. 522</i>.<p><b>Étym</b>. <i>R. indo-europ.</i> *tend-, fendre, couper ; <i>cf. lat</i>. tondeō ; <i>autrement p.-ê. pré-grec, cf</i>. τένθης.`

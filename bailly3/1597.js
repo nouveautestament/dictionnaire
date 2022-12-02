@@ -1,0 +1,1 @@
+lar[1597]=`<b>ἀ·δώμητος, ος, ον</b>, sans constructions, NONN. <i>D. 17, 40</i>.<p><b>Étym</b>. ἀ, δωμάω.`

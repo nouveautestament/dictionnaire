@@ -1,0 +1,1 @@
+lar[35985]=`<b>εως (ἡ)</b> dévidage (d’un fil) EN. TACT. <i>Pol. 31, 1</i>.<p><b>Étym</b>. ἐξίημι.`

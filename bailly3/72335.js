@@ -1,0 +1,1 @@
+lar[72335]=`<b>ου (ὁ)</b> Hoplitès, <i>fl. d’Haliartos,</i> PLUT. <i>Lys. 29</i>.`

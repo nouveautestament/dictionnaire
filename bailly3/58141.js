@@ -1,0 +1,1 @@
+lar[58141]=`<font color="purple">[ᾰ]</font> <i>adv. et prép</i>. secrètement, en cachette, ESCHL. <i>Ch. 177</i> ; κρ. τινός, IL. <i>18, 168,</i> à l’insu de qqn.<p><b>Étym</b>. <i>cf</i>. κρύβδαν.`

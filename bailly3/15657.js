@@ -1,0 +1,1 @@
+lar[15657]=`<b>ἀρχι·σωματοφύλαξ, ακος (ὁ)</b> <font color="purple">[ῐμᾰῠᾰκ]</font> chef des gardes du corps, SPT. <i>Esth. 2, 21</i> ; JOS. <i>A.J. 12, 2, 5</i>.`

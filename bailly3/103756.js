@@ -1,0 +1,1 @@
+lar[103756]=`<b>ὑπο·πυρεταίνω</b> <font color="purple">[πῠ]</font> (<i>seul. prés</i>.) avoir un peu de fièvre, HPC. <i>1217c</i>.`

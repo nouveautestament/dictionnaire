@@ -1,0 +1,1 @@
+lar[47031]=`<b>ου</b>, <i>adj. m</i>. de Thespies, A. PL. <i>4, 167</i>.<p><b>Étym</b>. Θεσπιαί.`

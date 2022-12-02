@@ -1,0 +1,1 @@
+lar[61105]=`<b>α, ον</b>, qui protège les vanneurs, <i>ép. de Dèmèter,</i> ANTH. <i>6, 98</i>.<p><b>Étym</b>. λικμός.`

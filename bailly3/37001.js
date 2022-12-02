@@ -1,0 +1,1 @@
+lar[37001]=`<b>ἐπ·εισπέμπω</b>, <i>anc. att</i>. <b>ἐπ·εσπέμπω</b>, envoyer en outre contre, DC. <i>67, 17</i>.`

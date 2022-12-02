@@ -1,0 +1,1 @@
+lar[21828]=`<b>(ὁ)</b> Geudis, <i>fl. d’Asie Mineure,</i> NONN. <i>D. 11, 37, etc</i>.`

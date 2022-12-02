@@ -1,0 +1,1 @@
+lar[55830]=`<b>ας (ἡ)</b> trou de la serrure, <i>ou sel. d’autres,</i> grillage, sorte de judas, LUC. <i>Nic. 23</i>.<p><b>Étym</b>. κλεῖθρον, <i>cf</i>. κληϊθρίη.`

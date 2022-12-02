@@ -1,0 +1,1 @@
+lar[61569]=`<b>ου (τὸ)</b> vase pour les libations, PLUT. <i>Æmil. 33, etc</i>.<p><b>Étym</b>. λοιβή.`

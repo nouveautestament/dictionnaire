@@ -1,0 +1,1 @@
+lar[65462]=`<b>Μηνο·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Mènophanès, <i>h</i>. ANTH. <i>11, 116</i>.<p><b>Étym</b>. μήν, φαίνω.`

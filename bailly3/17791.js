@@ -1,0 +1,1 @@
+lar[17791]=`<b>αὐτ·οψεί</b>, <i>adv</i>., de ses propres yeux, JUL. <i>Ep. 204</i>.<p><b>Étym</b>. αὐ. ὄψομαι.`

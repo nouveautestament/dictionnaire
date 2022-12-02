@@ -1,0 +1,1 @@
+lar[57996]=`<b>ων (οἱ)</b> les Krobyzes, <i>pple thrace,</i> HDT. <i>4, 49</i>.`

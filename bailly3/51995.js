@@ -1,0 +1,1 @@
+lar[51995]=`<b>ης (ἡ)</b> foin léger et sec, fourrage sec, XÉN. <i>An. 1, 5, 10</i>.<p><b>Étym</b>. <i>cf</i>. κάρφος.`

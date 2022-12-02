@@ -1,0 +1,1 @@
+lar[71854]=`<b>οῦ (ὁ)</b> injure, outrage, <i>ou simpl</i>. reproche, PLUT. <i>Artax. 22</i>.<p><b>Étym</b>. ὀνειδίζω.`

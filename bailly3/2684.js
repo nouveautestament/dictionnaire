@@ -1,0 +1,1 @@
+lar[2684]=`<b>αἰνο·γένεθλος, ος, ον</b>, né sous de tristes auspices, MAN. <i>1, 145</i>.<p><b>Étym</b>. αἰν. γενέθλη.`

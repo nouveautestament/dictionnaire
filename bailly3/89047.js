@@ -1,0 +1,1 @@
+lar[89047]=`<i>dat</i>. <b>-ι (ὁ)</b> Sabaunis, <i>h</i>. HIPPON. <i>fr. 49</i>.`

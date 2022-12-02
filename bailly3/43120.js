@@ -1,0 +1,1 @@
+lar[43120]=`<b>εὐ·πρόσοδος, ος, ον :<br>   I</b> <i>pass</i>. accessible, <i>en parl. de places,</i> XÉN. <i>Hell. 6, 5, 24, etc. ; en parl. de pers</i>. THC. <i>6, 57</i> ; XÉN. <i>Ages. 9, 2</i> ; PLUT. <i>Popl. 4</i>.<br><b>   II</b> <i>act</i>. qui approche facilement (navire) PHIL. BYZ. <i>Bel. 104</i>.<p>•<i> Sup</i>. -ώτατος, XÉN. <i>Cyr. 6, 1, 23 ; Hell. 6, 5, 24</i>.`

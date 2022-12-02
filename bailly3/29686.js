@@ -1,0 +1,1 @@
+lar[29686]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> fluctuation intérieure, DIOCLÈS (GAL. <i>7, 441).</i><p><b>Étym</b>. ἐγκλυδάζομαι.`

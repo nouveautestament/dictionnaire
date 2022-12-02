@@ -1,0 +1,1 @@
+lar[55840]=`<b>Κλεινό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Kleinomakhos, <i>h</i>. XÉN. <i>Hell. 2, 3, 10, etc</i>.<p><b>Étym</b>. κλ. μάχη.`

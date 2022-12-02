@@ -1,0 +1,1 @@
+lar[58455]=`<b>κυδο·σκόπος, ος, ον</b> <font color="purple">[ῡ]</font> qui annonce la gloire, MAN. <i>4, 35</i>.<p><b>Étym</b>. κῦδος, σκοπέω.`

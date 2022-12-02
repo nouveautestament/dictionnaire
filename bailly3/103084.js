@@ -1,0 +1,1 @@
+lar[103084]=`<b>ὑπό·γλωσσον, ου (τὸ)</b> fragon (<i>Ruscus hypoglossum</i> L.) <i>plante dont les fleurs sont cachées sous une tige en forme de langue,</i> DIOSC. <i>4, 132, 147</i> ; GAL. <i>12, 148</i>.<p><b>Étym</b>. ὑ. γλῶσσα.`

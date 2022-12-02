@@ -1,0 +1,1 @@
+lar[17301]=`<b>ου</b>, <i>adj. m</i>. d’Ausonie, LYC. <i>593</i>.`

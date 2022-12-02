@@ -1,0 +1,1 @@
+lar[11728]=`<i>adv</i>., sans bornes, à l’infini, ARSTT. <i>Phys. 3, 5, 9, etc</i>.`

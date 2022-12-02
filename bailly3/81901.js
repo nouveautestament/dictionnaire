@@ -1,0 +1,1 @@
+lar[81901]=`<b>πολύ·ζῳος, ος, ον</b>, qui se compose de beaucoup d’animaux, MAN. <i>4, 516</i>.<p><b>Étym</b>. π. ζῷον.`

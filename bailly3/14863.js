@@ -1,0 +1,1 @@
+lar[14863]=`<b>ας (ἡ)</b> <font color="purple">[μᾰλᾰ]</font> action de conduire un char, XÉN. <i>Cyr. 6, 1, 27</i> ; LUC. <i>Dem. enc. 23</i>.<p><b>Étym</b>. ἁρματηλάτης.`

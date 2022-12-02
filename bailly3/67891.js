@@ -1,0 +1,1 @@
+lar[67891]=`<b>νεαρο·ηχής, ής, ές</b> <font color="purple">[ᾱ]</font> qui résonne nouvellement, PHILSTR. <i>579</i>.<p><b>Étym</b>. νεαρός, ἦχος.`

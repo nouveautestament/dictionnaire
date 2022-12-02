@@ -1,0 +1,1 @@
+lar[16611]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> manque de forme, ARSTT. <i>Phys. 1, 7, 8</i>.<br><b>      2</b> difformité, laideur, PLAT. <i>Conv. 196a ;</i> ARSTT. <i>Pol. 8, 6, 14</i>.<br><b>      3</b> <i>fig</i>. inconvenance, indécence, PLAT. <i>Rsp. 401a</i>.<p><b>Étym</b>. ἀσχήμων.`

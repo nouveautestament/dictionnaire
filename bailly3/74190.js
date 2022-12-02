@@ -1,0 +1,1 @@
+lar[74190]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> affection physique <i>ou</i> morale, ARSTT. <i>Phys. 3, 3, 2, etc</i>.<p><b>Étym</b>. πάσχω.`

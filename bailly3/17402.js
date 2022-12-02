@@ -1,0 +1,1 @@
+lar[17402]=`<b>αὐτό·βουλος, ος, ον</b>, qui agit de sa propre volonté, de son plein gré, ESCHL. <i>Sept. 1053</i>.<p><b>Étym</b>. αὐ. βουλή.`

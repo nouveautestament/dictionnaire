@@ -1,0 +1,1 @@
+lar[97672]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰῑ]</font> qui sale <i>ou</i> embaume, HDT. <i>2, 89</i> ; DS. <i>1, 91</i>.<p><b>Étym</b>. ταριχεύω.`

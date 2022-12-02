@@ -1,0 +1,1 @@
+lar[93010]=`<b>στροφέω-ῶ :<br>      1 <i>intr.</i></b> tourner, rouler, AR. <i>Pax 175 dout.</i><br><b>      2</b> avoir des coliques, des tranchées, A. TR.<p><b>Étym</b>. στροφή.`

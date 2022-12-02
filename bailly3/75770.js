@@ -1,0 +1,1 @@
+lar[75770]=`<b>ατος (τὸ)</b> tout objet collé <i>ou</i> soudé avec un autre, TH. <i>H.P. 5, 7, 6</i>.<p><b>Étym</b>. παρακολλάω.`

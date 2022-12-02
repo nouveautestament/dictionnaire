@@ -1,0 +1,1 @@
+lar[32177]=`<i>adv. et prép.</i> :<br><b>      1</b> au dehors, A.RH. <i>3, 255</i>.<br><b>      2</b> hors de, <i>gén</i>. IL. <i>15, 391 ; 22, 439</i> ; A.RH. <i>1, 1291</i>.<p><b>Étym</b>. ἐκτός, -θι.`

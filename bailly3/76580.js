@@ -1,0 +1,1 @@
+lar[76580]=`<b>ου (ὁ)</b> chef militaire dans la Chersonèse Taurique, DÉM. <i>34, 8 et 36 Baiter-Sauppe</i>.`

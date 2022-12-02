@@ -1,0 +1,1 @@
+lar[85798]=`<b>ου (τὸ)</b> lieu pour prier, oratoire, PHIL. <i>2, 168</i>.<p><b>Étym</b>. προσεύχομαι.`

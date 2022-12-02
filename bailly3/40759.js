@@ -1,0 +1,1 @@
+lar[40759]=`<b>ΐδος (ἡ)</b> <font color="purple">[ῠ]</font> Érythèis, <i>nymphe,</i> A.RH. <i>4, 1425</i>.<p><b>Étym</b>. ἐρεύθω.`

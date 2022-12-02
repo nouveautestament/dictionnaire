@@ -1,0 +1,1 @@
+lar[54909]=`<b>κεράω-ῶ</b> (<i>seul. prés. ; impér</i>. κέρα, COM. <i>dans</i> ATH. <i>48a ; part</i>. κερῶν, OD. <i>24, 364, et impf. poét</i>. κέρων, A.RH. <i>1, 1185) c</i>. κεράννυμι.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. 3 pl. épq</i>. κερόωντο)</font> <i>m. sign</i>. IL. <i>8, 470</i>.`

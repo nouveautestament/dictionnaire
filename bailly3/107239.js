@@ -1,0 +1,1 @@
+lar[107239]=`<b>α, ον</b> <font color="purple">[ῡ]</font> <i>vb. de</i> φυσάω, HPC. <i>Art. 837 ; au neutre,</i> AR. <i>Lys. 293</i>.`

@@ -1,0 +1,1 @@
+lar[83634]=`<b>προ·απογεύομαι</b>, goûter auparavant, <i>gén</i>. JOS. <i>B.J. 7, 5, 4</i>.`

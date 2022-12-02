@@ -1,0 +1,1 @@
+lar[97890]=`<b>ταχυδρομέω-ῶ</b> <font color="purple">[ᾰ]</font> courir vite, NAZ.<p><b>Étym</b>. ταχυδρόμος.`

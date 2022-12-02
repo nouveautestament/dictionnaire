@@ -1,0 +1,1 @@
+lar[36190]=`<b>οῦ (ὁ)</b> exorciste, <i>t. eccl</i>. ANTH. <i>11, 427</i> ; NT. <i>Ap. 19, 13</i> ; PTOL. <i>Tetr. 182</i>.<p><b>Étym</b>. ἐξορκίζω.`

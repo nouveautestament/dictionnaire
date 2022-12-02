@@ -1,0 +1,1 @@
+lar[65215]=`<b>ατος (τὸ) :<br>      1</b> distance mesurée, EUR. <i>Ion 1138</i>.<br><b>      2</b> part mesurée <i>ou</i> attribuée, EUR. <i>I.T. 954 ; particul</i>. ration de soldat, POL. <i>6, 38, 3 ; ou</i> solde, POL. <i>9, 27, 11</i>.<p><b>Étym</b>. μετρέω.`

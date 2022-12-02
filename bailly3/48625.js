@@ -1,0 +1,1 @@
+lar[48625]=`<b>ἱερο·σκόπος, ου (ὁ)</b> qui consulte l’avenir dans les entrailles des victimes, aruspice, DH. <i>2, 22 ; p. ext. au fém</i>. prophétesse, ORPH. <i>H. 1, 23</i>.`

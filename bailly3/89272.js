@@ -1,0 +1,1 @@
+lar[89272]=`<b>έως (ὁ)</b> de Samosate, ANTH. <i>9, 367, etc</i>.<p><b>Étym</b>. <i>v</i>. Σαμόσατα.`

@@ -1,0 +1,1 @@
+lar[74935]=`<b>Πάν·δια, ων (τὰ)</b> <i>s.e</i>. ἱερά, fête en l’honneur de Zeus, <i>à Athènes,</i> DÉM. <i>517, 10</i>.<p><b>Étym</b>. π. <i>th</i>. Δι- <i>de</i> Ζεύς.`

@@ -1,0 +1,1 @@
+lar[93446]=`<b>ή, όν</b> <font color="purple">[κῑ]</font> moteur, CASS. <i>Probl. 16</i>.<p><b>Étym</b>. συγκινέω.`

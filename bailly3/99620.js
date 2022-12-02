@@ -1,0 +1,1 @@
+lar[99620]=`<b>τοξοφορέω-ῶ</b>, porter un arc, ANTH. <i>12, 162 conj</i>.<p><b>Étym</b>. τοξοφόρος.`

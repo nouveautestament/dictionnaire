@@ -1,0 +1,1 @@
+lar[57945]=`<b>ᾶς (ἡ)</b> <font color="purple">[ῐν]</font> jardin rempli de lis, plantation de lis, TH. <i>H.P. 2, 2, 1</i>.<p><b>Étym</b>. κρίνον.`

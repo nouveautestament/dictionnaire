@@ -1,0 +1,1 @@
+lar[18543]=`<b>ας (ἡ)</b> absence de coloration, pâleur, HPC. <i>Prorrh. 107</i> ; ARSTT. <i>Probl. 38, 4</i>.<p><b>Étym</b>. ἄχροος.`

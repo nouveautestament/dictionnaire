@@ -1,0 +1,1 @@
+lar[38054]=`<i>adv.</i> :<br><b>      1</b> par surnom : ἐ. ἔχειν, PLAT. <i>Tim. 38c ;</i> λέγεσθαι, PLAT. <i>Phil. 48c ;</i> LUC. <i>Conv. 6</i> ; DC. <i>75, 16</i> ; καλεῖσθαι, PLAT. <i>Tim. 58d</i>, être surnommé, désigné par le nom de.<br><b>      2</b> nominalement, nommément, APD. <i>3, 14, 4</i>.<p><b>Étym</b>. ἐπικαλέω.`

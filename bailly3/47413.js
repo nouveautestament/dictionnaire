@@ -1,0 +1,1 @@
+lar[47413]=`<b>ατος (τὸ)</b> contusion, meurtrissure, ARSTT. <i>Mir. 117</i> ; DIOSC. <i>1, 147 ; 2, 82, 200</i> ; GAL. <i>14, 320,</i> SOR. <i>Fract. p. 47 Cocch.</i> ; HIPPIATR. <i>p. 240, 241, 253 ; joint à</i> κάταγαα, PHIL. <i>2, 488</i>.<p><b>Étym</b>. θλάω.`

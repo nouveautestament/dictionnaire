@@ -1,0 +1,1 @@
+lar[36467]=`<b>ἐπ·ακριβόω-ῶ</b> <font color="purple">[ῑ]</font> faire avec soin, s’occuper avec un soin scrupuleux, EPIC. (DL. <i>10, 5</i>).<br><b><i>Moy.</i></b> <i>m. sign</i>. DS. <i>Exc. p. 611, 75</i>.`

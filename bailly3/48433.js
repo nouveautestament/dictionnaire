@@ -1,0 +1,1 @@
+lar[48433]=`<b>εως (ἡ)</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἰδιοσυγκρασία PTOL. <i>Tetr. p. 42, 6</i>.`

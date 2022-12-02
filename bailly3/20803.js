@@ -1,0 +1,1 @@
+lar[20803]=`<b>βριθύ·νοος, ος, ον</b> <font color="purple">[ῑῠ]</font> à l’esprit grave <i>ou</i> prudent (Apollon), ANTH. <i>9, 525</i>.<p><b>Étym</b>. βριθύς, νόος.`

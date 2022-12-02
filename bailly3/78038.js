@@ -1,0 +1,1 @@
+lar[78038]=`<b>πεντά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> à cinq signes <i>ou</i> temps, <i>t. de pros. et de mus</i>. A. QUINT. <i>p. 35</i>.<p><b>Étym</b>. π. σῆμα.`

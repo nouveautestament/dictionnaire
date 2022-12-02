@@ -1,0 +1,1 @@
+lar[58684]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui tombe <i>ou</i> se précipite la tête la première, IL. <i>5, 586</i>.<br><b>      2</b> <i>subst</i>. ὁ κ. IL. <i>15, 536,</i> cimier d’un casque.<p><b>Étym</b>. <i>pré-grec</i>.`

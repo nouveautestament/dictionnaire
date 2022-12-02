@@ -1,0 +1,1 @@
+lar[60232]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> bassin, baquet, AR. <i>Av. 1442, Nub. 907</i> ; PLUT. <i>M. 801b, etc</i>.<p><b>Étym</b>. λέκος.`

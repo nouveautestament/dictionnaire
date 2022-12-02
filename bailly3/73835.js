@@ -1,0 +1,1 @@
+lar[73835]=`<b>ὀφιο·βόρος, ος, ον</b>, qui dévore des serpents, <i>ép. de la Pythie à Sparte,</i> ORACL. (PLUT. <i>M. 406e</i>).<p><b>Étym</b>. ὄφις, βιβρώσκω.`

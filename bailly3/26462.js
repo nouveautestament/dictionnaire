@@ -1,0 +1,1 @@
+lar[26462]=`<b>Δικαί·αρχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Dikæarkhos (Dicéarque) <i>géographe,</i> POL. <i>17, 10 ; 34, 5, etc.</i> ; PLUT. <i>Thes. 21</i> ; ATH. <i>641f</i>.<p><b>Étym</b>. δίκαιος, ἄρχω.`

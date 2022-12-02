@@ -1,0 +1,1 @@
+lar[45582]=`<b>*ἡμι·τετράγωνος</b>, <i>seul. dor</i>. <b>ἁμιτετράγωνος, ος, ον</b> <font color="purple">[ᾱᾰ]</font> qui est la moitié d’un carré, T. LOCR. <i>98a</i>.`

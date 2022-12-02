@@ -1,0 +1,1 @@
+lar[38789]=`<b>ἐπι·ποτάμιος, α, ον</b> <font color="purple">[ᾰ]</font> situé <i>ou</i> qui réside sur un fleuve, HELLANIC. <i>150</i> ; SYN. <i>Provid. 16, 1252b Migne</i>.<p><b>Étym</b>. ἐπί, ποταμός.`

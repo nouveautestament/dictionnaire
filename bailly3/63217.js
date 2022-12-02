@@ -1,0 +1,1 @@
+lar[63217]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> en forme de coutelas, de couteau, P. ÉG. <i>6, 62</i>.<p><b>Étym</b>. μαχαίριον.`

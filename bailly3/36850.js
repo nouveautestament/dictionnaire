@@ -1,0 +1,1 @@
+lar[36850]=`<b>ής, ές</b>, qui s’accroît, HPC. <i>1185d ;</i> ARÉT. <i>Caus. m. acut. 2, 7</i>.<p><b>Étym</b>. ἐπαυξάνω.`

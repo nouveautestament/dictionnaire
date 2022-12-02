@@ -1,0 +1,1 @@
+lar[21323]=`<i>adv</i>., en forme de gamma, NICOM. <i>Theol. p. 28</i>.`

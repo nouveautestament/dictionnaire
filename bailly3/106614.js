@@ -1,0 +1,1 @@
+lar[106614]=`<b>ου (ὁ)</b> agitation incessante, <i>d’où</i> égarement de l’esprit, ESCHL. <i>Sept. 661</i>.<p><b>Étym</b>. φοιτάω.`

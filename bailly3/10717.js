@@ -1,0 +1,1 @@
+lar[10717]=`<b>ας (ἡ)</b> manque d’eau, THC. <i>3, 88</i> ; XÉN. <i>Cyr. 8, 6, 21</i> ; PLAT. <i>Leg. 844a</i> (<i>var</i>. ἀϋδρία).<p>➳ <i>Ion</i>. -ίη, HPC. <i>Aër. 288</i>.<p><b>Étym</b>. ἄνυδρος.`

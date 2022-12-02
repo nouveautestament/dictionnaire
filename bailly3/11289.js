@@ -1,0 +1,1 @@
+lar[11289]=`<b>ας (ἡ)</b> incompatibilité, ARR. <i>Epict. 1, 2, 10</i> ; SEXT. <i>M. 11, 62</i>.<p><b>Étym</b>. ἀπάξιος.`

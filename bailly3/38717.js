@@ -1,0 +1,1 @@
+lar[38717]=`<i>adv</i>., avec blâme, avec répression, DS. <i>17, 114</i>.`

@@ -1,0 +1,1 @@
+lar[57244]=`<b>ου (ὁ)</b> Koskyntos, <i>fl. d’Eubée,</i> LYC. <i>1035</i>.`

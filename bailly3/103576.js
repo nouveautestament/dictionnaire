@@ -1,0 +1,1 @@
+lar[103576]=`<b>ὑπο·μυκτηρίζω</b>, ricaner, se moquer, NICOL. COM. (STOB. <i>Fl. 14, 7</i>).`

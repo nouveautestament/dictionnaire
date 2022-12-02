@@ -1,0 +1,1 @@
+lar[49513]=`<b>Ἰσ·αγόρας</b>, <i>ion</i>. <b>Ἰσ·αγόρης (ὁ)</b> Isagoras, <i>h</i>. HDT. <i>5, 66, etc.</i> ; PLUT. <i>Herod. mal. 23</i>.<p><b>Étym</b>. ἴ. ἀγορεύω.`

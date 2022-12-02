@@ -1,0 +1,1 @@
+lar[42420]=`<b>εὐ·κέφαλος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a une bonne tête, ARR. <i>Cyn. 4, 4</i>.<p><b>Étym</b>. εὖ, κεφαλή.`

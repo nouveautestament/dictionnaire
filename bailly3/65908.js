@@ -1,0 +1,1 @@
+lar[65908]=`<b>μινυ·ώριος, ος, ον</b> <font color="purple">[ῐν]</font> qui est de courte durée, qui vit peu de temps, ANTH. <i>9, 362</i> ; NONN. <i>Jo. 4, 62</i>.<p><b>Étym</b>. μινύθω, ὥρα.`

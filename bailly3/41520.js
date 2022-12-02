@@ -1,0 +1,1 @@
+lar[41520]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> bonne éducation, ESCHN. <i>48, 20</i> ; PLUT. <i>M. 10c.</i><br><b>      2</b> facilité à se laisser conduire, docilité, PLAT. <i>Def. 413b ;</i> ARSTT. <i>Virt. et vit. 5, 5</i>.<p><b>Étym</b>. εὐάγωγος.`

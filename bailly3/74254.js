@@ -1,0 +1,1 @@
+lar[74254]=`<b>οῦ (ὁ) :<br>      1</b> maître, précepteur, PLAT. <i>Rsp. 439c, etc.</i><br><b>      2</b> celui qui châtie, NT. <i>Hebr. 12, 9</i>.<p><b>Étym</b>. παιδεύω.`

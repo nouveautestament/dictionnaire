@@ -1,0 +1,1 @@
+lar[43916]=`<b>ορος</b>, <i>adj. m.</i> :<br><b>      1</b> qui saisit <i>ou</i> cherche à saisir, <i>gén</i>. ESCHL. <i>Suppl. 728</i>.<br><b>      2</b> qui tâte, qui palpe, ESCHL. <i>Suppl. 312, 535</i> ; ORPH. <i>H. 50, 7 ; 52, 9</i>.<p><b>Étym</b>. ἐφάπτω¹.`

@@ -1,0 +1,1 @@
+lar[68769]=`<b>(τὸ)</b> <i>mot crétois,</i> sorte de figue, HERMON. (ATH. <i>76f</i>) ; <i>cf</i>. ATH. <i>652a</i>.`

@@ -1,0 +1,1 @@
+lar[20981]=`<b>ου (τὸ)</b> <i>att. c</i>. βιβλίον, <i>à partir du 1<sup>er</sup> siècle av. J.-C., v. Meisterh. p. 22 ; v</i>. βιβλίον.`

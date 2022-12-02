@@ -1,0 +1,1 @@
+lar[26181]=`<b>δι·εμπίπλημι</b> (<i>part. prés. pass</i>. διεμπιπλαμένων) remplir entièrement, gonfler, SPT. <i>2Macc. 4, 40</i>.`

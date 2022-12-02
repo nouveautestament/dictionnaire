@@ -1,0 +1,1 @@
+lar[20978]=`<b>η, ον</b>, de Byblos, <i>en Égypte,</i> ESCHL. <i>Pr. 811 ; ou en Phénicie,</i> LUC. <i>Syr. 7, etc</i>.<p><b>Étym</b>. βύβλος 1.`

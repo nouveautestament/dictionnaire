@@ -1,0 +1,1 @@
+lar[21016]=`<b>ου :<br>      1</b> <i>adj. m</i>. mugissant (vent), OD. <i>10, 20</i> ; ORPH. <i>Arg. 123, 1101</i>.<br><b>      2</b> <i>subst</i>. ὁ β. ouragan, LYC. <i>738, 757</i>.<p>➳ <i>Gén. pl. épq</i>. βυκτάων <font color="purple">[ᾱ]</font> OD. <i>l. c.</i> ; ORPH. <i>Arg. 1101, dat</i>. βύκτῃσι, ORPH. <i>Arg. 123</i>.<p><b>Étym</b>. βύζω².`

@@ -1,0 +1,1 @@
+lar[40777]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> rouget, <i>poisson de mer,</i> ARSTT. <i>H.A. 4, 11 ; 6, 13 ; 8, 13 ; G.A. 2, 5 ; 3, 1</i>.<p><b>Étym</b>. ἐρυθρός.`

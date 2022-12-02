@@ -1,0 +1,1 @@
+lar[103134]=`<b>ος, ον :<br>      1</b> propre à recevoir, à contenir, spacieux, HDT. <i>7, 49, 1</i>.<br><b>      2</b> propre à faire bon accueil, EUR. <i>Rhes. 364</i>.<p>➳ <i>Fém</i>. -ία, EUR. <i>l. c</i>.<p><b>Étym</b>. ὑποδέχομαι.`

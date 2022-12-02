@@ -1,0 +1,1 @@
+lar[21421]=`<b>ας (ἡ)</b> <font color="purple">[ῐμ]</font> gloutonnerie, PLAT. <i>Phæd. 81e ;</i> LUC. <i>Am. 42 ; joint à</i> λαιμαργία, ATH. <i>307c ; etc</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>534, 20</i>.`

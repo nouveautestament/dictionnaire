@@ -1,0 +1,1 @@
+lar[57673]=`<b>(ὁ)</b> Kraubis, <i>Arcadien,</i> ANTH. <i>App. 870</i> (<i>var</i>).`

@@ -1,0 +1,1 @@
+lar[106487]=`<b>ητος (ἡ)</b> frayeur qu’inspire une pers. <i>ou</i> une ch. ARSTT. <i>Rhet. 1, 5, 11</i> ; JOS. <i>B.J. 7, 8, 3</i>.<p><b>Étym</b>. φοβερός.`

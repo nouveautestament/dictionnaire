@@ -1,0 +1,1 @@
+lar[73011]=`<b>(ὁ)</b> <i>indécl</i>. Orotal, <i>n. de Dionysos en Arabie,</i> HDT. <i>3, 8</i>.`

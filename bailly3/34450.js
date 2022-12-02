@@ -1,0 +1,1 @@
+lar[34450]=`<b>ἐν·ζωνίζομαι</b> (<i>part. pf. fém</i>. ἐνζωνισμένη), tourner autour d’(un pivot), tourner sur un axe, PLUT. <i>M. 896a, dout. (conj</i>. ἐναξονίζω).<p><b>Étym</b>. ἐν, ζώνη.`

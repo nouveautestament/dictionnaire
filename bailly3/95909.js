@@ -1,0 +1,1 @@
+lar[95909]=`<i>2 pl. impf. de</i> σύνειμι <i>ou sbj. ao.2 de</i> συνίημι.`

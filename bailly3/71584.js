@@ -1,0 +1,1 @@
+lar[71584]=`<b>ὁμοκλάω-ῶ</b> (<i>seul. impf. 3 sg</i>. ὁμόκλα <font color="purple">[ᾱ]</font>) <i>c</i>. ὁμοκλέω IL. <i>18, 156 ; 24, 248</i> ; Q. SM. <i>3, 67</i>.`

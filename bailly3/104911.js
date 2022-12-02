@@ -1,0 +1,1 @@
+lar[104911]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> confection de drogues (médicaments, poisons, <i>etc</i>.) DL. <i>7, 117</i>.<p><b>Étym</b>. φαρμακοποιός.`

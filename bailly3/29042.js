@@ -1,0 +1,1 @@
+lar[29042]=`<b>δυσ·ώνης, ου (ὁ)</b> <font color="purple">[ῠ]</font> mauvais acheteur, qui marchande, LYNC. (ATH. <i>228c</i>).<p><b>Étym</b>. δ. ὠνέομαι.`

@@ -1,0 +1,1 @@
+lar[16545]=`<b>ἀσυστατέω-ῶ</b> <font color="purple">[τᾰ]</font> n’avoir pas de cohésion, DYSC. <i>Conj. 494, 29</i>.<p><b>Étym</b>. ἀσύστατος.`

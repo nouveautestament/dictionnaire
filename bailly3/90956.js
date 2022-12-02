@@ -1,0 +1,1 @@
+lar[90956]=`<b>άδος (ἡ)</b> <font color="purple">[ῐᾰδ]</font> Skiras :<br><b>      1</b> <i>anc. n. de l’î. de Salamine, ainsi nommée de</i> Σκίρων, STR. <i>393</i>.<br><b>      2</b> <i>surn. d’Athèna, à Athènes,</i> PAUS. <i>1, 1, 4 ; 1, 36, 4</i> ; STR. <i>393 ; v</i>. σκίρον, Σκιροφόρια.<p><b>Étym</b>. Σκίρων.`

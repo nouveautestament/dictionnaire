@@ -1,0 +1,1 @@
+lar[23329]=`<b>δασυ·χαίτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. au poil touffu (bouc), ANTH. <i>6, 32</i>.<p><b>Étym</b>. δ. χαίτη.`

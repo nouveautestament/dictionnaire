@@ -1,0 +1,1 @@
+lar[42326]=`<b>εὐθυ·φυής, ής, ές</b> <font color="purple">[ῠ]</font> qui pousse droit, TH. <i>H.P. 4, 2, 6</i>.<p><b>Étym</b>. εὐ. φύω.`

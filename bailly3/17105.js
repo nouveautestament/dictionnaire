@@ -1,0 +1,1 @@
+lar[17105]=`<b>ου (τὸ)</b> temple d’Auguste, DC. <i>57, 10</i>.`

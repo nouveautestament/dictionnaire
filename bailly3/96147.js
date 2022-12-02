@@ -1,0 +1,1 @@
+lar[96147]=`<b>συν·οίχομαι</b>, s’en aller <i>ou</i> mourir ensemble, EUM. <i>p. 377</i>.`

@@ -1,0 +1,1 @@
+lar[9754]=`<b>ου (ὁ)</b> habitant <i>ou</i> originaire d’Antium, PLUT. <i>Cor. 9</i>.<p><b>Étym</b>. Ἄντιον.`

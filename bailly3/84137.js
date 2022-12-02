@@ -1,0 +1,1 @@
+lar[84137]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui monte le premier à l’abordage, HLD. <i>5, 30</i>.<p><b>Étym</b>. προεμβαίνω.`

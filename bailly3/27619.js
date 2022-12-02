@@ -1,0 +1,1 @@
+lar[27619]=`<b>ίδος (ἡ)</b> Dorkis (<i>litt</i>. jeune gazelle) <i>titre d’une comédie d’Alexis,</i> ATH. <i>104c</i>.<p><b>Étym</b>. δόρξ.`

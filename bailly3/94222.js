@@ -1,0 +1,1 @@
+lar[94222]=`<b>συμ·περιφθείρομαι</b>, périr avec, <i>dat</i>. LUC. <i>Pseud. 18</i> ; ATH. <i>289c</i>.`

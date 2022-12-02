@@ -1,0 +1,1 @@
+lar[56247]=`<b>κνηκό·πυρος, ος, ον</b> <font color="purple">[ῡ]</font> d’un jaune doré, <i>ou p.-ê</i>. parfumé de carthame, SOPATR. (ATH. <i>649a</i>).<p><b>Étym</b>. κνῆκος, πυρός.`

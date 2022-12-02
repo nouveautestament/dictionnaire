@@ -1,0 +1,1 @@
+lar[78657]=`<b>περι·θλίβω</b> <font color="purple">[ῑβ]</font> presser tout autour, comprimer, NONN. <i>D. 10, 370</i>.`

@@ -1,0 +1,1 @@
+lar[19741]=`<b>ου (ὁ) :<br>      1</b> amphore pour le vin, HDT. <i>4, 494</i> ; XÉN. <i>An. 1, 9, 25</i>.<br><b>      2</b> vase pour boire, ATH. <i>784d</i>.<p><b>Étym</b>. <i>p.-ê. orig. égyptienne ou sémitique</i>.`

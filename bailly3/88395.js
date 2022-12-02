@@ -1,0 +1,1 @@
+lar[88395]=`<b>ή, όν</b>, qui incline vers, ORIG. <i>1, 440d Migne</i>.<p><b>Étym</b>. ῥέπω.`

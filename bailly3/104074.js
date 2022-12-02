@@ -1,0 +1,1 @@
+lar[104074]=`<b>ὑπ·ουράνιος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui est sous le ciel, IL. <i>17, 675</i> ; T. LOCR. <i>104d</i> (<i>var</i>. ἐπουρανία).<br><b>      2</b> qui s’élève jusqu’au ciel, IL. <i>10, 212</i> ; OD. <i>9, 264</i>.<p>➳ <i>Fém</i>. -α, <i>ion</i>. -η, ARAT. <i>134</i>.<p><b>Étym</b>. ὑ. οὐρανός.`

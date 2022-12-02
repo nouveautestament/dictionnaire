@@ -1,0 +1,1 @@
+lar[8096]=`<b>Ἀνδρο·μέδης</b>, <i>acc</i>. <b>-ην (ὁ)</b> Andromédès, <i>h</i>. THC. <i>5, 42 (qqf. corrigé en</i> Ἀνδρομένης, <i>mais vraisembl. correct, Rev. de phil. IV, 263).</i><p><b>Étym</b>. <i>cf</i>. Ἀνδρομέδα.`

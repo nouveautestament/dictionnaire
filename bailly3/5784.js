@@ -1,0 +1,1 @@
+lar[5784]=`<i>par sync. et assimil. poét. p</i>. ἀναπ- : <i>v</i>. ἀμπάλλω, <i>etc</i>.`

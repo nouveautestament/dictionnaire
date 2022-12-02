@@ -1,0 +1,1 @@
+lar[38563]=`<b>ἐπινώτιος, ος, ον</b>, qui est sur le dos, BATR. <i>77</i> ; LUC. <i>Am. 26</i> ; ALCIPHR. <i>3, 68</i>.<p><b>Étym</b>. ἐπί, νῶτον.`

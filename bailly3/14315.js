@@ -1,0 +1,1 @@
+lar[14315]=`<font color="darkgreen">(<i>f</i>. ίσομαι, <i>att</i>. ιοῦμαι, <i>ao</i>. ἠργυρισάμην)</font> <font color="purple">[ῠ]</font> se procurer de l’argent, DIN. <i>95, 21</i> ; ἀ. τινα, JOS. <i>A.J. 14, 14, 6,</i> tirer de l’argent de qqn.<p><b>Étym</b>. ἄργυρος.`

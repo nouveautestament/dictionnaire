@@ -1,0 +1,1 @@
+lar[24510]=`<b>έως (ὁ)</b> <font color="purple">[ᾰφ]</font> celui qui décrit, MARCELL. <i>V. Thuc. 51</i>.<p><b>Étym</b>. διαγράφω.`

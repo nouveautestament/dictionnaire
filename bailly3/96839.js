@@ -1,0 +1,1 @@
+lar[96839]=`<b>(τὸ)</b> (<i>seul. aux cas suiv. : dat</i>. σφέλαϊ, A.RH. <i>3, 1166 ou</i> σφέλᾳ, NIC. <i>Th. 644 ; acc</i>. σφέλας, OD. <i>18, 394 ; pl. acc</i>. σφέλα, OD. <i>17, 231</i>) :<br><b>      1</b> escabeau, banc, OD. A.RH. <i>ll. cc.</i><br><b>      2</b> bloc de bois creux, NIC. <i>l. c</i>.`

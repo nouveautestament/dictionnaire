@@ -1,0 +1,1 @@
+lar[64719]=`<font color="purple">[μᾰ]</font> <i>adv</i>., en courant après, IL. <i>5, 80</i> ; OPP. <i>H. 4, 508</i>.<p><b>Étym</b>. μετάδρομος, -δην.`

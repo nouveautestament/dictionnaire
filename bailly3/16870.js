@@ -1,0 +1,1 @@
+lar[16870]=`<i>adv</i>., sans intérêts <i>ou</i> sans usure, DC. <i>58, 21 (var</i>. ἀτοκί).<p><b>Étym</b>. ἄτοκος.`

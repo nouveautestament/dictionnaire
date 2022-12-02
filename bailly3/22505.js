@@ -1,0 +1,1 @@
+lar[22505]=`<b>Γοργ·ώπα (ἡ)</b> la déesse au regard terrifiant (Pallas), EUR. <i>Hel. 1316, conj. (Cf</i>. γοργῶπις.).`

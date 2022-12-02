@@ -1,0 +1,1 @@
+lar[61671]=`<b>ου (ὁ)</b> = <i>lat</i>. lucuntulus, <i>sorte de gâteaux,</i> CHRYSIPP. (ATH. <i>647d</i>).`

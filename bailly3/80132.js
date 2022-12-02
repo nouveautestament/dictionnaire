@@ -1,0 +1,1 @@
+lar[80132]=`<b>οῦ (ὁ)</b> parent par mariage (beau-frère, <i>etc.) propr</i>. parent acquis (= ἐπίκτητος συγγενής), CALLICRAT. (STOB. <i>Fl. 85, 16, etc</i>.) ; IL. <i>3, 163</i> ; OD. <i>8, 581 ; 10, 441 ; 23, 120</i> ; HÉS. <i>O. 343</i>.<p>➳ <i>Dor</i>. παός <font color="purple">[ᾱ]</font>.<p><b>Étym</b>. <i>inconnue</i>.`

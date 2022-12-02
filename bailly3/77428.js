@@ -1,0 +1,1 @@
+lar[77428]=`<i>indécl</i>. Payni, <i>n. d’un mois égyptien,</i> ANTH. <i>9, 383</i> ; PLUT. <i>Is. et Os. 30</i>.`

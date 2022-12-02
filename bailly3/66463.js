@@ -1,0 +1,1 @@
+lar[66463]=`<b>ας (ἡ)</b> état d’une femme qui n’a <i>ou</i> n’a eu qu’un mari, CHRYS. <i>1, 349 Migne</i>.<p><b>Étym</b>. μόνανδρος.`

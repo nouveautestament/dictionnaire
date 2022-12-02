@@ -1,0 +1,1 @@
+lar[31782]=`<b>ἐκ·πείθω</b>, persuader tout à fait, SOPH. <i>O.R. 1024, Tr. 1141</i> ; EUR. <i>H.f. 469</i>.`

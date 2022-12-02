@@ -1,0 +1,1 @@
+lar[45543]=`<b>α, ον</b>, de la forme <i>ou</i> de la grosseur du bandage ἡμιρρόμβιον, GAL. <i>12, 477</i>.`

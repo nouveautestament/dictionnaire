@@ -1,0 +1,1 @@
+lar[70482]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> feuille de vigne, pampre, XÉN. <i>Œc. 19, 18</i> ; TH. <i>H.P. 9, 13, 5, etc.</i><br><b>      2</b> vigne, ALCIPHR. <i>3, 22</i>.<p><b>Étym</b>. οἶνος.`

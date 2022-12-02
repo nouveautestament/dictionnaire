@@ -1,0 +1,1 @@
+lar[98096]=`<b>τεκτόν·αρχος, ος, ον</b>, qui préside aux travaux du charpentier <i>ou</i> du menuisier, SOPH. <i>fr. 170</i>.<p><b>Étym</b>. τέκτων, ἄρχω.`

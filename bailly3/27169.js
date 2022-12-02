@@ -1,0 +1,1 @@
+lar[27169]=`<font color="purple">[ῐ]</font><br><b>      1</b> partager (une chose) en deux, PLAT. <i>Pol. 264d.</i><br><b>      2</b> séparer (deux personnes <i>ou</i> deux choses) ; <i>particul</i>. diviser (un nombre) NICOM. <i>Theol. 75, 78</i> ; τινὰ κατά τινος, NT. <i>Matth. 10, 35,</i> séparer une personne d’une autre.<p><b>Étym</b>. δίχα.`

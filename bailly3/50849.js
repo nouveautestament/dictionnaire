@@ -1,0 +1,1 @@
+lar[50849]=`<b>ου (ὁ)</b> Kakos (Cacus) <i>brigand tué par Hèraklès,</i> PLUT. <i>M. 762f</i>.`

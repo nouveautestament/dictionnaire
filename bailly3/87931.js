@@ -1,0 +1,1 @@
+lar[87931]=`<b>πυρο·βόλος, ος, ον</b> <font color="purple">[ῠ]</font> qui lance du feu ; οἱ πυροβόλοι, PLUT. <i>Dio. 44, ou</i> τὰ πυροβόλα, PLUT. <i>Syll. 9, etc</i>. machine pour lancer des projectiles incendiaires.<p><b>Étym</b>. π. βάλλω.`

@@ -1,0 +1,1 @@
+lar[32384]=`<b>ἐκ·χαρυβδίζω</b> <font color="purple">[ᾰ]</font> (<i>inf. ao</i>. -ίσαι) engloutir comme Charybde, PHÉRÉCR. (ATH. <i>485d</i>).`

@@ -1,0 +1,1 @@
+lar[42699]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> habileté inventive, industrie, PLUT. <i>Tim. 16</i> ; LUC. <i>Phal. 1, 12</i>.<p>➳ <i>Dor</i>. εὐμαχ- <font color="purple">[ᾱ]</font> PD. <i>I. 3, 20</i>.<p><b>Étym</b>. εὐμήχανος.`

@@ -1,0 +1,1 @@
+lar[40004]=`<b>ἑπτα·πλάσιος, α, ον</b> <font color="purple">[ᾰσ]</font> septuple, PLAT. <i>Ep. 332a</i>.<p><b>Étym</b>. ἑ. -πλάσιος.`

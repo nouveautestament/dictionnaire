@@ -1,0 +1,1 @@
+lar[107823]=`<b>ῶν (οἱ)</b> crocodiles, HDT. <i>2, 69</i>.<p><b>Étym</b>. <i>mot égyptien ; cf. copte</i> empsah, arabe temsâh.`

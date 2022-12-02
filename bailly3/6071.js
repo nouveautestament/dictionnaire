@@ -1,0 +1,1 @@
+lar[6071]=`<b>ἀμφί·βουλος, ος, ον</b>, qui balance entre deux avis, incertain, ESCHL. <i>Eum. 733</i>.<p><b>Étym</b>. ἀ. βουλή.`

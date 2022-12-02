@@ -1,0 +1,1 @@
+lar[68538]=`<b>-ποδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. νήλιπος SOPH. <i>O.C. 349</i>.`

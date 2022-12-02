@@ -1,0 +1,1 @@
+lar[77042]=`<b>ος, ον :<br>      1</b> d’ivrogne, ATH. <i>629e.</i><br><b>      2</b> ivre, PRATIN. <i>1, 10</i> ; ANTIPH. (ATH. <i>445c</i>) ; LYS. <i>101, 20</i> ; LUC. <i>Tim. 55</i> ; DL. <i>1, 92</i>.<p><b>Étym</b>. π. οἶνος.`

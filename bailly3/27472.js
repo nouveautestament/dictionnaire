@@ -1,0 +1,1 @@
+lar[27472]=`<b>οῦ (ὁ, ἡ)</b> qui agit par fraude, BAS. <i>3, 637 Migne</i>.<p><b>Étym</b>. δόλος, ἔργον.`

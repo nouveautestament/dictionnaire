@@ -1,0 +1,1 @@
+lar[96026]=`<b>συν·ιστάω-ῶ</b> <font color="darkgreen">(<i>impf. 3 sg</i>. συνίστα, POL. <i>3, 43, 11</i> ; DH. <i>8, 18)</font> c</i>. συνίστημι, ARSTT. <i>G.A. 4, 8, 12 ; Probl. 21, 11</i> ; CONON (PHOT. <i>Bibl. p. 141, 26</i>) ; NT. <i>2Cor. 6, 4</i>.`

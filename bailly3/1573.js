@@ -1,0 +1,1 @@
+lar[1573]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἡδυλόγος.`

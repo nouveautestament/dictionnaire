@@ -1,0 +1,1 @@
+lar[47048]=`<i>fém</i>. <b>Θεσπρωτίς</b>, <i>neut</i>. <b>όν</b>, de Thesprôtie, <i>région du Sud-Ouest de l’Épire,</i> ESCHL. <i>Pr. 831</i> ; EUR. <i>Ph. 989</i> ; οἱ Θ. les Thesprôtes, THC. <i>2, 80</i>.`

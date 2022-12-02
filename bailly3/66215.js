@@ -1,0 +1,1 @@
+lar[66215]=`<b>Μνησι·νόη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Mnèsinoè, <i>anc. n. de Lèda,</i> PLUT. <i>M. 401b</i>.<p><b>Étym</b>. μν. νόος.`

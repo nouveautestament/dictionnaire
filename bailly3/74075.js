@@ -1,0 +1,1 @@
+lar[74075]=`<b>ΐδος</b> <font color="purple">[ᾰᾰῐδ]</font> <i>adj. f. c</i>. Παγασαῖος ORPH. <i>Arg. 113</i> ; A.RH. <i>1, 318</i>.`

@@ -1,0 +1,1 @@
+lar[26754]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Dioclētiānus, Dioclétien, <i>empereur romain,</i> LIB. <i>1, 644</i> ; ZOS. <i>2, 7</i>.`

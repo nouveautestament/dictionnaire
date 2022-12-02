@@ -1,0 +1,1 @@
+lar[80126]=`<b>ατος (τὸ)</b> trame de tisserand, <i>d’où</i> tissu, EUR. (AR. <i>Ran. 1315</i>) ; ANTH. <i>6, 283</i>.<p><b>Étym</b>. πηνίζομαι.`

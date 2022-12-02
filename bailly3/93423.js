@@ -1,0 +1,1 @@
+lar[93423]=`<b>συγ·κελαρύζω</b> <font color="purple">[ᾰ]</font> résonner <i>ou</i> murmurer en même temps, POÈT.<p><b>Étym</b>. <i>Cram. 4, 323</i>.`

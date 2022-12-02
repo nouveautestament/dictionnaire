@@ -1,0 +1,1 @@
+lar[6324]=`<b>ἀμφι·πλύνω</b> <font color="darkgreen">(<i>ao. part</i>. -πλύνας)</font> laver tout autour, HPC. <i>649, 31</i>.`

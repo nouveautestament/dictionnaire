@@ -1,0 +1,1 @@
+lar[42365]=`<b>ου (ὁ)</b> <font color="purple">[δᾱ]</font> Eukampidas, <i>h</i>. DÉM. <i>324, 9</i> ; POL. <i>17, 14, 2 et 12</i>.<p><b>Étym</b>. εὐκαμπής.`

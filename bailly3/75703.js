@@ -1,0 +1,1 @@
+lar[75703]=`<b>παρα·καυλίζω</b>, pousser des tiges latérales, TH. <i>H.P. 6, 2, 8</i>.`

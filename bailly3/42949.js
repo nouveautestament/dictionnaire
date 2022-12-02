@@ -1,0 +1,1 @@
+lar[42949]=`<b>εὐ·πάροχος, ος, ον</b>, qui se prête aisément à, docile, HIPPIATR.<p><b>Étym</b>. εὖ, παρέχω.`

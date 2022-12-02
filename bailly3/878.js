@@ -1,0 +1,1 @@
+lar[878]=`<b>ου (τὸ)</b> gibier, butin, ANTH. <i>6, 224</i>.<p><b>Étym</b>. ἀγρέω.`

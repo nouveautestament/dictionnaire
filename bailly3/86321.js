@@ -1,0 +1,1 @@
+lar[86321]=`<b>προσ·πιπίσκω</b> <font color="purple">[ῐπ]</font> faire boire en outre, HPC. <i>477, 43 ; 484, 37</i>.`

@@ -1,0 +1,1 @@
+lar[461]=`<b>ῆς (ἡ)</b> <i>s.-e</i>. τέχνη, l’art d’élever les troupeaux, PLAT. <i>Pol. 267b</i>.`

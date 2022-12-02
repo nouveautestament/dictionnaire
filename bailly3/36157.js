@@ -1,0 +1,1 @@
+lar[36157]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> celui qui lime <i>ou</i> polit avec l’ongle, HÉRON <i>p. 200 Wescher, Poliorcétique des Grecs</i>.<p><b>Étym</b>. ἐξονυχίζω.`

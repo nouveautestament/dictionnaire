@@ -1,0 +1,1 @@
+lar[20077]=`<b>βο·ΐδης, ου</b>, <i>adj. m</i>. semblable à un bœuf, <i>càd</i>. indolent, stupide, MÉN. (EUST. <i>962, 18).</i><p><b>Étym</b>. βοῦς, ἰδεῖν.`

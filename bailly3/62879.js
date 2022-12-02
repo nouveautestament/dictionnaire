@@ -1,0 +1,1 @@
+lar[62879]=`<b>ῶνος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> champ de fenouil, STR. <i>160</i>.<p><b>Étym</b>. μάραθον.`

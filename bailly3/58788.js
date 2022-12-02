@@ -1,0 +1,1 @@
+lar[58788]=`<b>κυνο·γάμια, ων (τὰ)</b> <font color="purple">[ῠγᾰ]</font><br><b>      1</b> union cynique, CLÉM. <i>619</i>.<br><b>      2</b> mariage d’un philosophe cynique, TAT. <i>Or. ad Græc. 3, c. 812a Migne</i>.<p><b>Étym</b>. κύων, γάμος.`

@@ -1,0 +1,1 @@
+lar[39714]=`<b>ἐπι·χρεμέθω</b> (<i>seul. prés</i>.) hennir vers <i>ou</i> à l’approche de, <i>dat</i>. A.RH. <i>3, 1260</i> ; Q. SM. <i>11, 328</i>.`

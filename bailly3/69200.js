@@ -1,0 +1,1 @@
+lar[69200]=`<b>α, ον</b>, qui concerne les nymphes, consacré aux nymphes, EUR. <i>El. 447</i> ; ANTH. <i>14, 71</i>.<p><b>Étym</b>. νύμφη.`

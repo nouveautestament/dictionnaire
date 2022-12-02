@@ -1,0 +1,1 @@
+lar[32725]=`<b>εως (ἡ) :<br>      1</b> libération, affranchissement, HDT. <i>9, 45</i> ; ARSTT. <i>Pol. 5, 11, 32</i> ; ἀπό τινος, THC. <i>3, 10,</i> de qqe ch.<br><b>      2</b> licence, PLAT. <i>Rsp. 561a</i>.<p><b>Étym</b>. ἐλευθερόω.`

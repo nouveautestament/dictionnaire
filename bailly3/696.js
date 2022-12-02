@@ -1,0 +1,1 @@
+lar[696]=`<b>ἀγλαό·βοτρυς, υς, υ</b>, <i>gén</i>. <b>υος</b>, aux grappes splendides, NONN. <i>D. 18, 4</i>.<p><b>Étym</b>. ἀγλαός, βότρυς.`

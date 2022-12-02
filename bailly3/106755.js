@@ -1,0 +1,1 @@
+lar[106755]=`<b>ων (τὰ)</b> = <i>lat</i>. Fornicalia, <i>n. d’une fête rom</i>. PLUT. <i>Qu. rom. 89</i>.`

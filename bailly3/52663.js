@@ -1,0 +1,1 @@
+lar[52663]=`<b>κατα·κυκάω-ῶ</b> <font color="purple">[ῠ]</font><br><b>      1</b> mélanger, mêler, HPC. <i>497, 15</i>.<br><b>      2</b> brouiller, troubler, EUM. <i>p. 417</i>.`

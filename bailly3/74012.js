@@ -1,0 +1,1 @@
+lar[74012]=`<b>ὀψί·μορος, ος, ον</b> <font color="purple">[ῐ]</font> lent à mourir, OPP. <i>H. 1, 142</i> ; NONN. <i>Jo. 19, 165</i>.<p><b>Étym</b>. ὀψέ, μόρος.`

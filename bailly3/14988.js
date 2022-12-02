@@ -1,0 +1,1 @@
+lar[14988]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> arable, <i>d’où</i> fertile, SIB. <i>14, 115</i>.<p><b>Étym</b>. ἀρόω.`

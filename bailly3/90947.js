@@ -1,0 +1,1 @@
+lar[90947]=`<b>ου (ὁ)</b> Skios, <i>affluent de l’Ister,</i> HDT. <i>4, 49</i>.`

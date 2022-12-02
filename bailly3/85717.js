@@ -1,0 +1,1 @@
+lar[85717]=`<b>προσ·επισιτίζομαι</b> <font color="purple">[σῑ]</font> se procurer un surcroît de blé <i>ou</i> de vivres, POL. <i>1, 29, 1</i>.`

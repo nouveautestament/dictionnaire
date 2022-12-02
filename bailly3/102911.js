@@ -1,0 +1,1 @@
+lar[102911]=`<b>ὑπερ·ψύχω</b> <font color="purple">[ψῡ]</font> refroidir excessivement, glacer, HPC. <i>446, 37, etc. ; au pass</i>. HPC. <i>516, 17</i> ; ARSTT. <i>Eud. 7, 5, 6</i>.`

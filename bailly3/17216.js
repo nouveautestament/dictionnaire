@@ -1,0 +1,1 @@
+lar[17216]=`<b>αὐλομανέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) être passionné pour jouer de l’aulos, DS. <i>fr. lib. 36</i>.<p><b>Étym</b>. αὐλομανής.`

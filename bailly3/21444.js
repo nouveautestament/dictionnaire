@@ -1,0 +1,1 @@
+lar[21444]=`<b>(ὁ)</b> <i>autre n. de la plante</i> ἀστράγαλος, DIOSC. <i>4, 62</i>.`

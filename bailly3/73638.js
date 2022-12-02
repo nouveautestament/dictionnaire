@@ -1,0 +1,1 @@
+lar[73638]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petite queue, GEOP. <i>20, 27</i>.<p><b>Étym</b>. οὐρά.`

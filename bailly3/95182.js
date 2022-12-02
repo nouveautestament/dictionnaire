@@ -1,0 +1,1 @@
+lar[95182]=`<b>συν·διερευνάω-ῶ</b>, rechercher avec <i>ou</i> en même temps, LIB. <i>1, 516</i>.`

@@ -1,0 +1,1 @@
+lar[30764]=`<b>ή, όν</b>, qui introduit, <i>gén</i>. CLÉM. <i>22</i>.<p><b>Étym</b>. εἰσηγέομαι.`

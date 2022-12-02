@@ -1,0 +1,1 @@
+lar[91244]=`<b>(ὁ)</b> = <i>lat</i>. Scrofa, <i>n. d’h. rom</i>. PLUT. <i>Crass. 11</i>.`

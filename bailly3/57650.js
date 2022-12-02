@@ -1,0 +1,1 @@
+lar[57650]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> qui s’empare de, qui retient fermement, PROCL. <i>Ptol. p. 228, 22</i>.<p><b>Étym</b>. κρατέω.`

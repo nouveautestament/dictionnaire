@@ -1,0 +1,1 @@
+lar[49787]=`<b>ἰσό·χνοος, οος, οον</b> <font color="purple">[ῑ̆]</font> aussi laineux que, <i>dat</i>. ANTH. <i>6, 252</i>.<p><b>Étym</b>. ἴ. χνόος.`

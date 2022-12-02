@@ -1,0 +1,1 @@
+lar[22581]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> <i>dim. de</i> γράμμα, ANT. <i>135, 33</i> ; LUC. <i>M. cond. 36, etc</i>.<p><b>Étym</b>. <i>Cf</i>. γραμματεῖον.`

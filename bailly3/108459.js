@@ -1,0 +1,1 @@
+lar[108459]=`<b>χιλιο·τάλαντος, ος, ον</b> <font color="purple">[χῑτᾰ]</font> qui pèse <i>ou</i> vaut mille talents, ALEX. (ATH. <i>237c</i>) ; PLUT. <i>Per. 12, M. 924a</i>.<p><b>Étym</b>. χ. τάλαντον.`

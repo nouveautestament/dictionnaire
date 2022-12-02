@@ -1,0 +1,1 @@
+lar[38904]=`<b>ας (ἡ)</b> écoulement, flux, TH. <i>fr. 9, 20</i> ; EL. <i>N.A. 10, 36 ; fig</i>. DS. <i>Exc. 597, 98</i>.<p><b>Étym</b>. ἐπιρρέω.`

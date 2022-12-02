@@ -1,0 +1,1 @@
+lar[21474]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> = <i>lat</i>. gausăpa, étoffe de laine grossière, STR. <i>218 ; cf</i>. γαυνάκαι.`

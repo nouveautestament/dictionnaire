@@ -1,0 +1,1 @@
+lar[86480]=`<b>προσ·τεχνάομαι-ῶμαι</b>, imaginer de plus, PLUT. <i>Sert. 11</i>.`

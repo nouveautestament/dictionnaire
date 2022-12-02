@@ -1,0 +1,1 @@
+lar[62787]=`<b>ή, όν</b>, qui concerne Manis, PLUT. <i>Is. et Os. 24</i>.<p><b>Étym</b>. Μάνις.`

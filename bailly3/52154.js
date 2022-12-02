@@ -1,0 +1,1 @@
+lar[52154]=`<b>κατα·βλέπω</b> <font color="darkgreen">(<i>ao</i>. κατέβλεψα)</font> regarder d’en haut, <i>d’où</i> fixer ses yeux sur, examiner : εἴς τινα, PLUT. <i>Arat. 32,</i> qqn, <i>ou avec l’acc. seul,</i> PLUT. <i>M. 469b, 680d</i>.`

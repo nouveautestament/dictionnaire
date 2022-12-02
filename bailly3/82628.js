@@ -1,0 +1,1 @@
+lar[82628]=`<b>εως (ἡ)</b> pompe solennelle, procession, PLAT. <i>Leg. 949c au pl</i>.<p><b>Étym</b>. πομπεύω.`

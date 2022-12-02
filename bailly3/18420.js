@@ -1,0 +1,1 @@
+lar[18420]=`<i>ion</i>. <b>ἀχειρίη, ης (ἡ)</b> inhabileté des mains, maladresse, HPC. <i>446, 22</i>.<p><b>Étym</b>. ἄχειρ.`

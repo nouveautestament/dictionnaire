@@ -1,0 +1,1 @@
+lar[99315]=`<b>Τισαίη ἄκρη (ἡ)</b> <font color="purple">[ῑ]</font> le mont Tisæè <i>en Thessalie,</i> A.RH. <i>1, 568, etc</i>.`

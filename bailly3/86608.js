@@ -1,0 +1,1 @@
+lar[86608]=`<b>προ·σφίγγω</b>, attacher <i>ou</i> étreindre auparavant, CLÉM. <i>7</i> ; GAL. <i>18, 1, 350, 13</i>.`

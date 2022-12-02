@@ -1,0 +1,1 @@
+lar[37565]=`<b>ἐπι·δεύω</b>, mouiller ; <i>au pass</i>. ἐπ. αἵματι, ORPH. <i>Arg. 1076,</i> être inondé de sang.`

@@ -1,0 +1,1 @@
+lar[35781]=`<b>ἐξ·εμπολάω-ῶ</b> (<i>pf. pass</i>. ἐξημπόλημαι) :<br><b>      1</b> vendre au dehors, exporter, HDT. <i>1, 1</i> ; DH. <i>3, 46 ; fig</i>. SOPH. <i>Ant. 1036</i>.<br><b>      2</b> <i>p. suite,</i> se procurer en vendant au dehors, SOPH. <i>Ph. 303</i>.<p>➳ <i>Ion</i>. ἐξεμπολέω, HDT. <i>1, 1</i>.`

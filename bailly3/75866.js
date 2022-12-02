@@ -1,0 +1,1 @@
+lar[75866]=`<b>παρ·αλιταίνω</b> <font color="darkgreen">(<i>f</i>. παραλιτήσω, <i>ao.2</i> παρήλιτον)</font> <font color="purple">[ᾰλ]</font> commettre une faute, A.RH. <i>3, 891</i> ; Q. SM. <i>13, 400</i> ; τινά, A.RH. <i>2, 246,</i> envers qqn.`

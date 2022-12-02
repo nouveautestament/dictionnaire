@@ -1,0 +1,1 @@
+lar[32895]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Helladios, <i>h</i>. ANTH. <i>8, 151, etc</i>.<p><b>Étym</b>. Ἑλλάς.`

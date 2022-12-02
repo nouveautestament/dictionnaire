@@ -1,0 +1,1 @@
+lar[95467]=`<b>συν·εμπλέκω</b>, impliquer aussi, <i>fig</i>. PLUT. <i>M. 71f ;</i> JOS. <i>B.J. 7, 11, 2</i>.`

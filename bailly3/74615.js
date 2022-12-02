@@ -1,0 +1,1 @@
+lar[74615]=`<b>ου (ὁ, ἡ)</b> paliure (<i>Rhamnus paliurus</i> L.) <i>arbrisseau,</i> EUR. <i>Cycl. 394</i> ; THCR. <i>Idyl. 24, 87, etc</i>.<p>➳ ὁ π. TH. <i>H.P. 1, 3, 2</i> ; ATH. <i>649d ;</i> ἡ π. ANTH. <i>9, 414</i>.`

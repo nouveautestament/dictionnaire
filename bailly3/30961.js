@@ -1,0 +1,1 @@
+lar[30961]=`<i>adv</i>., en chaque endroit, partout, PLUT. <i>Lys. 19, Cato mi. 19</i> ; DC. <i>41, 9</i>.<p><b>Étym</b>. ἑκασταχο- <i>de</i> ἕκαστος, -θι.`

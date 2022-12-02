@@ -1,0 +1,1 @@
+lar[43993]=`<b>ῶν</b> (<i>genre inconnu</i>) Éphestiades, <i>n. de lieu inconnu,</i> PLAT. <i>Ep. 14</i>.`

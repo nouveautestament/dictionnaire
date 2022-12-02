@@ -1,0 +1,1 @@
+lar[85724]=`<b>προσ·επίσταμαι</b>, savoir en outre, PLAT. <i>Phædr. 268b, Charm. 170b</i>.`

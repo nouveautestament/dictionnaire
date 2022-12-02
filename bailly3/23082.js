@@ -1,0 +1,1 @@
+lar[23082]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> garni d’anses en forme de doigts (coupe), ION (ATH. <i>468c</i>).<p><b>Étym</b>. *δακτυλόω, <i>de</i> δάκτυλος.`

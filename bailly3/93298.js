@@ -1,0 +1,1 @@
+lar[93298]=`<b>συγ·καταθέω</b>, faire ensemble <i>ou</i> en même temps une incursion, XÉN. <i>Cyr. 5, 3, 1</i>.`

@@ -1,0 +1,1 @@
+lar[90430]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. σιπύη, LYS. (HARP. <i>v°</i> σιπύα) ; EUP. <i>2-1, 545 Meineke</i>.`

@@ -1,0 +1,1 @@
+lar[6809]=`<b>ἀν·αθρέω-ῶ</b>, examiner avec attention, EUR. <i>Hec. 808</i> ; PLAT. <i>Crat. 399c ; au pass</i>. ἔργα ἐκ τῶν λόγων ἀναθρούμενα, THC. <i>4, 86,</i> actes que l’on met en regard des paroles.`

@@ -1,0 +1,1 @@
+lar[75471]=`<b>εως (ἡ)</b> action de mettre à nu, CLÉM. <i>Pæd. p. 169c</i>.<p><b>Étym</b>. παραγυμνόω.`

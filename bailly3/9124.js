@@ -1,0 +1,1 @@
+lar[9124]=`<b>ἀνισο·ταχής, ής, ές</b> <font color="purple">[ᾰῐᾰ]</font> de vitesse inégale, PHIL. <i>2, 637</i>.<p><b>Étym</b>. ἄν. τάχος.`

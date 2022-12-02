@@ -1,0 +1,1 @@
+lar[5954]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de déchirer, d’égratigner, ORPH. <i>Arg. 24</i>.<br><b>      2</b> scarification, ANTYLL. <i>139</i>.<p><b>Étym</b>. ἀμύσσω.`

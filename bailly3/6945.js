@@ -1,0 +1,1 @@
+lar[6945]=`<b>εως (ἡ) :<br>   I</b> invocation, THC. <i>7, 71</i>.<br><b>   II</b> salut, PLUT. <i>M. 35a.</i><br><b>   III</b> rappel :<br><b>      1</b> signal de retraite d’une troupe, PLUT. <i>Fab. 12</i>.<br><b>      2</b> action de rappeler (le souffle), de ramener (la chaleur) ARÉT. <i>Cur. m. diut. 2, 7, etc</i>.<p><b>Étym</b>. ἀνακαλέω.`

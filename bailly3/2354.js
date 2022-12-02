@@ -1,0 +1,1 @@
+lar[2354]=`<b>ἀ·ϊδής, ής, ές :<br>      1</b> invisible, HÉS. <i>Sc. 477</i>.<br><b>      2</b> qui ne voit pas, BACCHYL. <i>46</i>.<p><b>Étym</b>. ἀ, ἰδεῖν.`

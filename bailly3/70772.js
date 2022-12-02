@@ -1,0 +1,1 @@
+lar[70772]=`<b>ή, όν</b>, qui concerne l’observation des oiseaux, MAN. <i>4, 212</i> ; ἡ οἰωνοσκοπική (<i>s.-e</i>. τέχνη) DH. <i>3, 70,</i> la science des augures.<p><b>Étym</b>. οἰωνοσκόπος.`

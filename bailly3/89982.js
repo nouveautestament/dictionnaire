@@ -1,0 +1,1 @@
+lar[89982]=`<b>ης, ες</b>, de la nature de la seiche, NAZ. <i>3, 1111, Migne</i>.<p><b>Étym</b>. σηπία, -ωδης.`

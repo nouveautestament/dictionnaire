@@ -1,0 +1,1 @@
+lar[109599]=`<b>ψεδνο·κάρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a la tête chauve, ORPH. <i>Lith. 250</i>.<p><b>Étym</b>. ψεδνός, κάρηνον.`

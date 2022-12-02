@@ -1,0 +1,1 @@
+lar[58074]=`<b>ῶν (αἱ)</b> pierres saillantes <i>ou</i> corbeaux formant comme un escalier le long d’une construction, IL. <i>12, 258, 444</i> ; HDT. <i>2, 125</i>.<p><b>Étym</b>. <i>apparenté avec</i> κόρση, tête ; <i>cf</i>. κάρα.`

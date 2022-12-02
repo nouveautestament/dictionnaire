@@ -1,0 +1,1 @@
+lar[67772]=`<b>ου (τὸ)</b> chantier de constructions navales, AR. <i>Av. 1157</i> ; DS. <i>19, 58</i>.<p><b>Étym</b>. ναυπηγός.`

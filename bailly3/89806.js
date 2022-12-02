@@ -1,0 +1,1 @@
+lar[89806]=`<b>σεμνό·στομος, ος, ον</b>, à la parole (<i>litt</i>. à la bouche) grave, ESCHL. <i>Pr. 953</i>.<p><b>Étym</b>. σεμνός, στόμα.`

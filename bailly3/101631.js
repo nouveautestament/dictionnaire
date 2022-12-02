@@ -1,0 +1,1 @@
+lar[101631]=`<b>όεσσα, όεν</b> <font color="purple">[ῡ]</font> de pluie, pluvieux, ANTH. <i>9, 525, 21</i>.<p><b>Étym</b>. ὑετός.`

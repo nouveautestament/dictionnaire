@@ -1,0 +1,1 @@
+lar[52948]=`<b>κατ·αντιπέρας</b> <font color="purple">[ᾱς]</font> <i>adv</i>., en face de, <i>gén</i>. XÉN. <i>An. 1, 1, 9</i>.`

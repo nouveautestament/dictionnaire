@@ -1,0 +1,1 @@
+lar[6960]=`<b>ἀνα·κνάπτω</b>, recarder <i>ou</i> remettre en état (un vêtement) LYSIPP. (POLL. <i>6, 37 ; 41</i>).`

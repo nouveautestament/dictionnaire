@@ -1,0 +1,1 @@
+lar[5179]=`<font color="darkgreen">(<i>seul. ao</i>. ἠμάλαψα)</font> <font color="purple">[μᾰ]</font> <i>c</i>. ἀμαλδύνω SOPH. <i>fr. 413</i> ; LYC. <i>34</i>.`

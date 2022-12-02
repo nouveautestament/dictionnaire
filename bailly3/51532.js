@@ -1,0 +1,1 @@
+lar[51532]=`<b>οῦ (ὁ) :<br>      1</b> le coin de l’œil où se forment les larmes, ARSTT. <i>H.A. 1, 9 ; p. ext</i>. l’œil, CALL. <i>fr. 150</i> ; OPP. <i>C. 4, 118, etc.</i><br><b>      2</b> cercle de fer qui entoure une roue, jante, SCH.-IL. <i>5, 724</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[103258]=`<b>ὑπο·θεωρέω-ῶ</b>, regarder de dessous <i>ou</i> d’en bas, PLUT. <i>M. 42c</i>.`

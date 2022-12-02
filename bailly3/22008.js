@@ -1,0 +1,1 @@
+lar[22008]=`<b>ου (ὁ)</b> <i>c</i>. γίγγρας ANTIPH. <i>et</i> AMPHIS (ATH. <i>174f</i>).`

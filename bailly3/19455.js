@@ -1,0 +1,1 @@
+lar[19455]=`<b>βεβηλόω-ῶ</b>, <i>f</i>. ώσω :<br><b>      1</b> profaner, <i>acc</i>. (un temple, <i>etc</i>.) HLD. <i>2, 25 ; 10, 36</i> ; SPT. <i>Ex. 31, 14</i> ; NT. <i>Matth. 12, 5</i>.<br><b>      2</b> souiller, <i>acc</i>. SPT. <i>Lev. 21, 4</i>.<br><b>      3</b> exclure (d’un lieu saint) comme profane, <i>au pass</i>. BAS. <i>2, 15</i>.<p><b>Étym</b>. βέβηλος.`

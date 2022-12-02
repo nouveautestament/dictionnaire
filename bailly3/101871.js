@@ -1,0 +1,1 @@
+lar[101871]=`<b>ὑπ·άγροικος, ος, ον</b> <font color="purple">[ῠ]</font> quelque peu rustique <i>ou</i> grossier, SEXT. <i>M. 6, 50, p. 266 ; d’ord. au cp</i>. ὑπαγροικότερος, AR. <i>fr. 552</i> ; PLUT. <i>M. 710d ;</i> ARR. <i>An. 4, 10, 1</i> ; SEXT. <i>M. 6, 50</i>.`

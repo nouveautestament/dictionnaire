@@ -1,0 +1,1 @@
+lar[28806]=`<b>ατος (τὸ)</b> malchance, malheur, SPT. <i>2Macc. 5, 20</i>.<p><b>Étym</b>. <i>cf</i>. δυσπετής.`

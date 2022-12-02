@@ -1,0 +1,1 @@
+lar[80703]=`<b>α (ὁ)</b> <font color="purple">[ᾰᾰῑᾱ]</font> habitant de Platæes, <i>dème de Sicyone,</i> ANTH. <i>13, 21</i>.`

@@ -1,0 +1,1 @@
+lar[51439]=`<b>ου (τὸ)</b> sorte de narcotique préparé avec l’aconit, HPC. <i>418, 24</i> ; NIC. <i>Al. 40</i> ; DIOSC. <i>4, 77</i>.`

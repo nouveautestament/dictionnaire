@@ -1,0 +1,1 @@
+lar[19053]=`<b>(ὁ)</b> Barak, <i>autre forme du n</i>. βαραχίας, NT. <i>Hebr. 11, 32</i>.`

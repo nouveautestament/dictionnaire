@@ -1,0 +1,1 @@
+lar[70893]=`<b>ῆς (ἡ)</b> support, CALL. <i>fr. 484</i>.<p><b>Étym</b>. <i>cf</i>. ὀχή.`

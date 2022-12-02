@@ -1,0 +1,1 @@
+lar[68431]=`<b>νεφρο·μήτρα, ας (ἡ)</b> muscles des reins, CLÉARQ. (ATH. <i>399 au pl</i>.).<p><b>Étym</b>. ν. μήτρα.`

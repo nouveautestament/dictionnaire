@@ -1,0 +1,1 @@
+lar[24185]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> petite Dèmô, <i>n. de f</i>. ANTH. <i>12, 173</i>.<p><b>Étym</b>. <i>dim. de</i> Δημώ.`

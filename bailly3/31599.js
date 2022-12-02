@@ -1,0 +1,1 @@
+lar[31599]=`<b>ἐκ·λιθολογέω-ῶ</b> (<i>part. ao</i>. -ήσας) <font color="purple">[ῐ]</font> ôter les pierres, TH. <i>C.P. 3, 20, 5</i>.`

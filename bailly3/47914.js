@@ -1,0 +1,1 @@
+lar[47914]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> <i>c</i>. θυμιατήριον, DAMASC. (PHOT. <i>Bibl. 347, 35</i>).<br><b>      2</b> celle qui brûle des parfums, qui encense, NYSS. <i>2, 743</i>.`

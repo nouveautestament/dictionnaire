@@ -1,0 +1,1 @@
+lar[70061]=`(<i>seul. prés</i>.) se gonfler, s’enorgueillir, AR. <i>Pax 465</i> ; ἐπί τινι, ATH. <i>382b ;</i> CLÉM. <i>854,</i> de qqe ch.<p><b>Étym</b>. ὄγκος.`

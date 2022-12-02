@@ -1,0 +1,1 @@
+lar[75350]=`<b>ου (ὁ)</b> Pappos, <i>h</i>. PLUT. <i>Dem. 30, etc</i>.<p><b>Étym</b>. <i>v</i>. πάππος.`

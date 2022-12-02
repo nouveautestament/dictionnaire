@@ -1,0 +1,1 @@
+lar[101759]=`<b>ὑλο·φάγος, ος, ον</b> <font color="purple">[ῡᾰ]</font><br><b>      1</b> qui se nourrit <i>ou</i> vit dans les bois, HÉS. <i>O. 589</i>.<br><b>      2</b> qui mange <i>ou</i> ronge le bois, AGATHARCH. (PHOT. <i>Bibl. 452</i>).`

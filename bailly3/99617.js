@@ -1,0 +1,1 @@
+lar[99617]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. qui tire de l’arc, qui lance des flèches, CALL. <i>Dian. 223</i> ; ORPH. <i>H. 35, 2</i> ; LUC. <i>Lex. 12</i> ; ANTH. <i>6, 188</i> ; αἱ Τοξότιδες, les Lanceuses de flèches, <i>tragédie d’Eschyle</i>.<p><b>Étym</b>. <i>fém. de</i> τοξότης.`

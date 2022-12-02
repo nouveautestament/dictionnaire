@@ -1,0 +1,1 @@
+lar[99430]=`<font color="purple">[σῐ]</font> <i>adv</i>., avec courage, NAZ.`

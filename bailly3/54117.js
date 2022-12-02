@@ -1,0 +1,1 @@
+lar[54117]=`<b>κατ·οκνέω-ῶ :<br>      1</b> hésiter, craindre, <i>abs</i>. ESCHL. <i>Pr. 67</i> ; THC. <i>2, 94 ; avec un inf</i>. hésiter à, craindre de, SOPH. <i>El. 956</i> ; THC. <i>2, 94</i> ; ISOCR. <i>6a ;</i> DÉM. <i>142, 7</i>.<br><b>      2</b> négliger par paresse, <i>acc</i>. ISOCR. <i>131c</i>.`

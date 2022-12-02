@@ -1,0 +1,1 @@
+lar[53468]=`<b>κατα·στοναχέω-ῶ</b> <font color="purple">[νᾰ]</font> déplorer, ANTH. <i>7, 574</i>.`

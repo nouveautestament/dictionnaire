@@ -1,0 +1,1 @@
+lar[14894]=`<b>ου (τὸ)</b> <i>seul. plur.</i> :<br><b>      1</b> agrès d’un navire, HÉS. <i>O. 806</i> ; THCR. <i>Idyl. 22, 13</i>.<br><b>      2</b> instruments de travail, outils, ANTH. <i>6, 205, etc.</i><br><b>      3</b> appareil de chirurgie, HPC. <i>Off. 740, etc</i>.<p><b>Étym</b>. <i>neutre de</i> ἄρμενος, <i>v</i>. ἀραρίσκω.`

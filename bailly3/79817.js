@@ -1,0 +1,1 @@
+lar[79817]=`<i>att</i>. <b>πεττεία, ας (ἡ)</b> sorte de jeu de trictrac, SOPH. <i>fr. 381 Dind.</i> ; PLAT. <i>Phædr. 274d, etc</i>.<p><b>Étym</b>. πεττεύω.`

@@ -1,0 +1,1 @@
+lar[10864]=`<b>ή, όν :<br>      1</b> qui agit par en haut, HPC. <i>264, 11</i>.<br><b>      2</b> situé dans l’intérieur des terres, NT. <i>Ap. 19, 1</i>.<p><b>Étym</b>. ἀνώτερος.`

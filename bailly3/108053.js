@@ -1,0 +1,1 @@
+lar[108053]=`<b>χειλο·στρόφιον, ου (τὸ)</b> <i>litt</i>. un « tord-lèvres » <i>instrument de torture,</i> SYN. <i>201c</i>.<p><b>Étym</b>. χεῖλος, στρέφω.`

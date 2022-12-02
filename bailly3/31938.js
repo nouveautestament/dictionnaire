@@ -1,0 +1,1 @@
+lar[31938]=`<b>εως (ἡ)</b> embrasement, PLUT. <i>Lys. 12</i>.<p><b>Étym</b>. ἐκπίμπρημι.`

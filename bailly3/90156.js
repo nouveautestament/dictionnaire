@@ -1,0 +1,1 @@
+lar[90156]=`<b>σιδηρό·δετος, ος, ον</b> <font color="purple">[ῐ]</font> attaché avec des liens de fer, BACCHYL. <i>4, 69</i> ; HDT. <i>9, 37</i> ; ANTH. <i>6, 233 ; App. 270</i>.<p>➳ <i>Dor</i>. σιδαρόδετος <font color="purple">[ᾱ]</font> ANTH. <i>ll. cc</i>.<p><b>Étym</b>. σ. δέω.`

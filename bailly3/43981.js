@@ -1,0 +1,1 @@
+lar[43981]=`<b>ων (τὰ)</b> fêtes d’Éphèse, <i>en l’honneur d’Artémis,</i> THC. <i>3, 104</i>.<p><b>Étym</b>. Ἐφέσιος.`

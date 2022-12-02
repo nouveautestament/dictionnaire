@@ -1,0 +1,1 @@
+lar[13038]=`<font color="purple">[ρᾱ]</font> <i>vb. de</i> ἀποπειράω ISOCR. <i>191b</i>.`

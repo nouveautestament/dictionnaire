@@ -1,0 +1,1 @@
+lar[513]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἄγερσις, OPP. <i>C. 4, 251</i>.`

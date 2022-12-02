@@ -1,0 +1,1 @@
+lar[41318]=`<b>ἑτερό·θροος-ους, οος-ους, οον-ουν</b>, qui parle une autre langue, NONN. <i>D. 2, 172</i>.<p><b>Étym</b>. ἕ. θρέω.`

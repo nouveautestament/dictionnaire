@@ -1,0 +1,1 @@
+lar[27709]=`<b>δουλο·πρεπής, ής, ές :<br>      1</b> qui convient à des esclaves, HDT. <i>1, 126</i>.<br><b>      2</b> <i>fig</i>. servile, bas, XÉN. <i>Mem. 2, 8, 4</i> ; PLAT. <i>Gorg. 485b ;</i> LUC. <i>Nec. 14, etc</i>.<p>•<i> Cp</i>. -έστερος, XÉN. <i>l. c</i>.<p><b>Étym</b>. δοῦλος, πρέπω.`

@@ -1,0 +1,1 @@
+lar[15672]=`<b>ἀρχι·χιλίαρχος, ου (ὁ)</b> <font color="purple">[ῐχῑ]</font> chef des chiliarques, ORIG. <i>2, 19c</i>.`

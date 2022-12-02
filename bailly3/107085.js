@@ -1,0 +1,1 @@
+lar[107085]=`<b>ας (ἡ)</b> Phylakia, <i>lieu d’Attique,</i> PLUT. <i>Arat. 34</i>.<p><b>Étym</b>. φύλαξ.`

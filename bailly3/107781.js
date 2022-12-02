@@ -1,0 +1,1 @@
+lar[107781]=`<b>χαμαι·παγής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> fixé à la terre, P. SIL. <i>Ecphr. ag. Soph. 542</i>.<p><b>Étym</b>. χ. πήγνυμι.`

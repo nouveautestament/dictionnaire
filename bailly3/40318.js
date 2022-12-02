@@ -1,0 +1,1 @@
+lar[40318]=`<b>ή, όν</b>, d’Érétrie, en Eubée, HDT. <i>6, 101</i> ; PLAT. (DL. <i>3, 23</i>) ; PLUT. <i>Them. 27, etc</i>.<p><b>Étym</b>. Ἐρέτρια.`

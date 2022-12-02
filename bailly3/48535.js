@@ -1,0 +1,1 @@
+lar[48535]=`<b>ἱερακο·βοσκός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> qui nourrit <i>ou</i> élève des éperviers, fauconnier, EL. <i>N.A. 7, 9</i>.<p><b>Étym</b>. ἱέραξ, βόσκω.`

@@ -1,0 +1,1 @@
+lar[27042]=`<b>δισσ·άρχαι, ῶν (οἱ)</b> les deux chefs commandant ensemble, le couple de chefs (Agamemnon et Ménélas) SOPH. <i>Aj. 390</i>.<p><b>Étym</b>. δισσός, ἄρχω.`

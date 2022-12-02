@@ -1,0 +1,1 @@
+lar[5600]=`<b>ας (ἡ)</b> Aminæa, <i>anc. n. de la Peucétie, sur le territ. de Falerne, d’où</i> ἡ ἀμιναία, sorte de myrrhe, DIOSC. <i>5, 6</i>.`

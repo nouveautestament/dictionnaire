@@ -1,0 +1,1 @@
+lar[21306]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> épouse, femme, ANTH. <i>5, 180</i>.<p><b>Étym</b>. γαμέω.`

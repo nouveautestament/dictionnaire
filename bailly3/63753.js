@@ -1,0 +1,1 @@
+lar[63753]=`<b>ή, όν</b>, qui peut être diminué, HERM. (STOB. <i>Ecl. 1, 306).</i><p><b>Étym</b>. μειόω.`

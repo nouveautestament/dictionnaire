@@ -1,0 +1,1 @@
+lar[87581]=`<b>Πυθο·κτόνος, ος, ον</b> <font color="purple">[ῡ]</font> qui a tué le serpent Python, <i>ép. d’Apollon,</i> ORPH. <i>H. 33, 4</i>.<p><b>Étym</b>. Πύθων, κτείνω.`

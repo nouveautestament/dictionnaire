@@ -1,0 +1,1 @@
+lar[53079]=`<b>εως (ἡ)</b> garantie, caution, ARSTT. <i>fr. 92</i> ; PLUT. <i>M. 287d ; au plur</i>. PLUT. <i>Pel. 18</i>.<p><b>Étym</b>. καταπιστόομαι.`

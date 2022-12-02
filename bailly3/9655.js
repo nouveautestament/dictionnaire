@@ -1,0 +1,1 @@
+lar[9655]=`<b>ἀντ·επικουρέω-ῶ</b>, aller en avant pour secourir, XÉN. <i>Hell. 4, 6, 3</i>.`

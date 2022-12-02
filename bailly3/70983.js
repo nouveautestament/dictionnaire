@@ -1,0 +1,1 @@
+lar[70983]=`<font color="purple">[ῐγ]</font> avec des sentiments oligarchiques, PLAT. <i>Rsp. 555a ;</i> DÉM. <i>200, 15</i>.`

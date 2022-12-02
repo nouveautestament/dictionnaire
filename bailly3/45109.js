@@ -1,0 +1,1 @@
+lar[45109]=`<b>ἠθο·λόγος, ου (ὁ)</b> qui imite les mœurs <i>ou</i> le caractère, mime, DS. <i>20, 63</i> ; PLUT. <i>M. 673b</i>.<p><b>Étym</b>. ἦθος, λέγω.`

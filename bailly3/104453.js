@@ -1,0 +1,1 @@
+lar[104453]=`<b>ὑψηλο·ποιός, ός, όν</b>, qui produit le sublime, LGN <i>28, 1 ; 32, 6</i>.<p><b>Étym</b>. ὑ. ποιέω.`

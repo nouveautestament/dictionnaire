@@ -1,0 +1,1 @@
+lar[46860]=`<b>θεο·χόλωτος, ος, ον</b>, objet de la colère <i>ou</i> des malédictions de Dieu, ARR. <i>Epict. 2, 8, 14, etc</i>.<p><b>Étym</b>. θ. χολόω.`

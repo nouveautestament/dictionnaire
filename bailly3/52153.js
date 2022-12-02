@@ -1,0 +1,1 @@
+lar[52153]=`<b>κατα·βλάπτω</b>, nuire à, léser, <i>acc</i>. HH. <i>Merc. 93</i> ; PLAT. <i>Leg. 877b, etc.</i> ; DÉM. <i>629, 33, etc</i>.`

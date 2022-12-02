@@ -1,0 +1,1 @@
+lar[51015]=`<b>ων (οἱ)</b> les Kalasiries, <i>l’une des divisions de la caste des Guerriers en Égypte,</i> HDT. <i>2, 164 ; 7, 89 ; 9, 32</i>.<p><b>Étym</b>. <i>cf</i>. καλάσιρις.`

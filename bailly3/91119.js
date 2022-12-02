@@ -1,0 +1,1 @@
+lar[91119]=`<b>έως (ὁ)</b> <i>litt</i>. vent qui souffle des rochers, <i>synon. de</i> Εὖρος <i>chez les</i> Αἰγαί <i>de Syrie,</i> ARSTT. <i>Vent. p. 973, b, 3 Bkk</i>.<p><b>Étym</b>. σκόπελος.`

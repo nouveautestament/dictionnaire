@@ -1,0 +1,1 @@
+lar[17342]=`<i>adv. dor. c</i>. αὐτοῦ, DYSC. <i>Synt. 335</i> ; GR. COR. <i>351</i>.`

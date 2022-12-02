@@ -1,0 +1,1 @@
+lar[26000]=`<b>ας (ἡ)</b> <font color="purple">[δῐ]</font> qui enseigne, maîtresse, CHRYS. <i>7, 244 ; 259</i>.<p><b>Étym</b>. διδάσκω.`

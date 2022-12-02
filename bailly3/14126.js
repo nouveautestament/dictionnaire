@@ -1,0 +1,1 @@
+lar[14126]=`<b>ἀραιο·σύγκριτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> au tissu lâche, GAL. <i>6, 171</i>.<p><b>Étym</b>. ἀ. συγκρίνω.`

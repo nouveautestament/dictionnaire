@@ -1,0 +1,1 @@
+lar[28542]=`<i>adv</i>., d’une manière insupportable, PORPH. <i>ad Marcell. 8, p. 17</i>.`

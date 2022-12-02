@@ -1,0 +1,1 @@
+lar[55084]=`<font color="purple">[ᾰ]</font> <i>adv</i>., comme une tête, OPP. <i>C. 3, 437</i>.<p><b>Étym</b>. κεφαλή, -δον.`

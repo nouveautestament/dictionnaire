@@ -1,0 +1,1 @@
+lar[98457]=`<b>τεσσαρεσκαιδεκα·έτης, ου (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> âgé de quatorze ans, PLUT. <i>Æmil. 35</i>.<p><b>Étym</b>. τ. ἔτος.`

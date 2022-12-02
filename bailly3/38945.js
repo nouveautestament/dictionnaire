@@ -1,0 +1,1 @@
+lar[38945]=`<b>ἐπι·σήθω</b>, arroser au moyen d’un tamis <i>ou</i> d’un engin percé de trous, JOS. <i>A.J. 8, 7, 3</i>.`

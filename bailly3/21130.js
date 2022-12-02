@@ -1,0 +1,1 @@
+lar[21130]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> jais (<i>litt</i>. pierre de Gagas, Γάγας, <i>v. et fl. de Lycie), pierre dure et noire,</i> ORPH. <i>Lith. 468</i> ; DIOSC. <i>5, 146</i> ; GAL. <i>13, 257 ; etc</i>.`

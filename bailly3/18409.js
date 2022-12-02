@@ -1,0 +1,1 @@
+lar[18409]=`<b>ἀ·χείλωτος, ος, ον</b>, sans lèvres, sans ouverture ; ἀ. βέλη, PHIL. BYZ. flèches sans encoche.<p><b>Étym</b>. ἀ. χειλόω.`

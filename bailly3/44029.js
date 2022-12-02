@@ -1,0 +1,1 @@
+lar[44029]=`<b>ἐφ·ῆλιξ, ικος (ὁ, ἡ)</b> <font color="purple">[ῐκ]</font> qui est dans l’adolescence, jeune, ANTH. <i>7, 427</i>.<p><b>Étym</b>. ἐπί, ἧ.`

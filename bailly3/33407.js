@@ -1,0 +1,1 @@
+lar[33407]=`<b>ἐμ·περιέχω</b> <font color="darkgreen">(<i>f</i>. -έξω)</font> embrasser, renfermer, contenir, ARSTT. <i>M. mor. 1, 8, 7 ; Mund. 2, 7</i> ; TH. <i>H.P. 1, 11, 1 ; au pass</i>. être enveloppé : τινι, DH. <i>10, 31,</i> par qqe ch. ; ἔν τινι, POL. <i>9, 32, 4</i> ; κατά τι, LGN <i>8, 1,</i> être contenu dans qqe ch.<p><b>Étym</b>. ἐν. π.`

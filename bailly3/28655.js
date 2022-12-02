@@ -1,0 +1,1 @@
+lar[28655]=`<b>δυσ·μετάβλητος, ος, ον :<br>      1</b> difficile à changer, HPC. <i>383, 14</i> ; PLUT. <i>952b.</i><br><b>      2</b> <i>particul</i>. difficile à digérer, A. TR. <i>324, 343, etc</i>.<p><b>Étym</b>. δ. μεταβάλλω.`

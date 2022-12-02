@@ -1,0 +1,1 @@
+lar[21502]=`<font color="darkgreen">(<i>seul. prés. et impf</i>. ἐγεγώνισκον)</font> crier, THC. <i>7, 76 ; impf</i>. DC. <i>56, 14 ; avec un acc</i>. annoncer à haute voix, proclamer, ESCHL. <i>Pr. 627</i> ; EUR. <i>El. 809</i>.<p><b>Étym</b>. γέγωνα.`

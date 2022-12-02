@@ -1,0 +1,1 @@
+lar[40149]=`<b>ου (ὁ)</b> Érastos, <i>h</i>. PLAT. <i>Ep. 362b ;</i> STR. <i>608</i>.<p><b>Étym</b>. <i>v</i>. ἐραστός.`

@@ -1,0 +1,1 @@
+lar[16584]=`<b>ου (ὁ)</b> <font color="purple">[φᾰᾰ]</font> gosier, gorge, IL. <i>22, 328</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

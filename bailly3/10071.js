@@ -1,0 +1,1 @@
+lar[10071]=`<b>ἀντι·μελίζω</b> <font color="darkgreen">(<i>impf</i>. ἀντεμέλιζον)</font> répondre, en modulant, à, <i>dat</i>. ANTH. <i>5, 222</i>.`

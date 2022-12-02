@@ -1,0 +1,1 @@
+lar[84884]=`<b>ας (ἡ)</b> <font color="purple">[πᾰ]</font> propension, tendance, SEXT. <i>M. 8, 219</i>.<p><b>Étym</b>. προπαλής.`

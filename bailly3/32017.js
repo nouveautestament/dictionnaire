@@ -1,0 +1,1 @@
+lar[32017]=`<b>ἐκ·ροφέω-ῶ</b>, avaler, absorber, AR. <i>Eq. 701</i> ; PLAT. COM. (POLL. <i>6, 17</i>) ; ANTH. <i>11, 409 ; fig</i>. AR. <i>Vesp. 1118</i>.`

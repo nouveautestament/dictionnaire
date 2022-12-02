@@ -1,0 +1,1 @@
+lar[102416]=`<b>ὑπερ·εκδικέω-ῶ</b> <font color="purple">[ῐ]</font> tirer une vengeance excessive de, <i>acc</i>. JOS. <i>A.J. 6, 1, 2</i>.`

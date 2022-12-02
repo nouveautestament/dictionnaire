@@ -1,0 +1,1 @@
+lar[28326]=`<b>δύσ·εδρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> au séjour funeste, <i>ép. d’Érinys,</i> ESCHL. <i>Ag. 746</i>.<br><b>      2</b> mal assis, mal établi, <i>en parl. de constructions,</i> DH. <i>Comp. 6, p. 40, 10 Reiske</i>.<p><b>Étym</b>. δ. ἕδρα.`

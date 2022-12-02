@@ -1,0 +1,1 @@
+lar[26266]=`<b>ή, όν</b>, propre à fouiller avec soin, à scruter, <i>gén</i>. NYSS. <i>1, 54d</i>.<p><b>Étym</b>. διερευνάω.`

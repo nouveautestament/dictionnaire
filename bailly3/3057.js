@@ -1,0 +1,1 @@
+lar[3057]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰκᾰκ]</font> Akakallis, <i>f</i>. A.RH. <i>4, 1491</i>.<p><b>Étym</b>. <i>cf</i>. ἀκακαλίς.`

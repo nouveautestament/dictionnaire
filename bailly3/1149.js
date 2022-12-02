@@ -1,0 +1,1 @@
+lar[1149]=`<b>ἀ·δαήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, ignorant, sans expérience de, <i>gén</i>. IL. <i>5, 634</i> ; OD. <i>12, 208</i> ; HDT. <i>8, 65 ; abs</i>. Ps.-PHOCYL. <i>86</i>.`

@@ -1,0 +1,1 @@
+lar[84728]=`<i>adv</i>., prudemment, AR. <i>Av. 1511</i>.<p><b>Étym</b>. προμηθής.`

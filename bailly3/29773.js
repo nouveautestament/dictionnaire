@@ -1,0 +1,1 @@
+lar[29773]=`<b>εως (ἡ)</b> action de cacher dans, de recouvrir, ARSTT. <i>Juv. 5</i>.<p><b>Étym</b>. ἐγκρύπτω.`

@@ -1,0 +1,1 @@
+lar[97484]=`<i>crase att. avec assimilat. p</i>. τἀν μέσῳ <i>de</i> τὰ ἐν μέσῳ, DÉM. <i>995, 27</i>.`

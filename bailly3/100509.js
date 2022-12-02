@@ -1,0 +1,1 @@
+lar[100509]=`<b>τρί·στοιχος, ος, ον :<br>      1</b> qui est sur trois rangs, à triple rangée, OD. <i>12, 91</i> ; CTÉS. (ARSTT. <i>H.A. 2, 1, 53</i>) ; TH. <i>H.P. 8, 4, 2</i> ; PLUT. <i>M. 906b, etc.</i><br><b>      2</b> <i>p. ext</i>. triple, HERMÉS. <i>3, 12</i> ; OPP. <i>C. 3, 413</i>.<p><b>Étym</b>. τρ. στείχω.`

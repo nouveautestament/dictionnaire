@@ -1,0 +1,1 @@
+lar[53264]=`<b>εως (ἡ)</b> action de rejeter, ORIG. <i>c. Cels. p. 179</i>.<p><b>Étym</b>. καταρρίπτω.`

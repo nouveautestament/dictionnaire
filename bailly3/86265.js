@@ -1,0 +1,1 @@
+lar[86265]=`<b>προσ·παραγράφω</b> <font color="purple">[ᾰφ]</font> écrire <i>ou</i> inscrire en outre, PLAT. <i>Phædr. 257e ;</i> DÉM. <i>997, 6 ; 1237, 5</i>.`

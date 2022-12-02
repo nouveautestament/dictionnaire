@@ -1,0 +1,1 @@
+lar[97329]=`<b>ης (ἡ)</b> jeu de dés, ANTH. <i>11, 373</i>.<p><b>Étym</b>. τάβλα, <i>mot comique sur le modèle de</i> Καλλιόπη.`

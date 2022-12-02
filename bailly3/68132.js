@@ -1,0 +1,1 @@
+lar[68132]=`<b>νεο·ζυγής, ής, ές</b> <font color="purple">[ῠ]</font><br><b>      1</b> nouvellement mis sous le joug, nouvellement attelé, ESCHL. <i>Pr. 1009</i>.<br><b>      2</b> <i>fig</i>. nouvellement marié, NONN. <i>D. 48, 237</i>.<p><b>Étym</b>. ν. ζεύγνυμι.`

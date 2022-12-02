@@ -1,0 +1,1 @@
+lar[50703]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> malheur, HIPPODAM. (STOB. <i>Fl. 43, 94).</i><p><b>Étym</b>. κακοδαίμων.`

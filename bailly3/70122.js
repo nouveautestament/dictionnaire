@@ -1,0 +1,1 @@
+lar[70122]=`<b>ου (τὸ)</b> prix du transport, OD. <i>15, 506</i>.<p><b>Étym</b>. ὁδοιπόρος.`

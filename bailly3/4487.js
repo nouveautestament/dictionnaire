@@ -1,0 +1,1 @@
+lar[4487]=`<b>ἁλί·κτυπος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> qui résonne du bruit de la mer, battu des flots (navire) SOPH. <i>Ant. 953</i>.<br><b>      2</b> qui résonne sur la mer (vent) ANACR. <i>39, 7</i> ; ἁλίκτυπον κῦμα, EUR. <i>Hipp. 754,</i> les flots retentissants de la mer.<p><b>Étym</b>. ἅ. κτυπέω.`

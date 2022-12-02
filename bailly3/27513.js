@@ -1,0 +1,1 @@
+lar[27513]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en forme de roseau, DYSC. <i>(Bkk. 611, 8).</i><p><b>Étym</b>. δόναξ, -δον.`

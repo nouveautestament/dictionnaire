@@ -1,0 +1,1 @@
+lar[16364]=`<b>Ἀστυ·δάμας, αντος (ὁ)</b> <font color="purple">[ῠδᾰ]</font> Astydamas, <i>h</i>. ARSTT. DS. ATH. <i>etc</i>.<p><b>Étym</b>. ἄστυ, δαμάω.`

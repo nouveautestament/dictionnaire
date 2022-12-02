@@ -1,0 +1,1 @@
+lar[97267]=`<b>α, ον</b>, <i>vb. de</i> σῴζω, EUR. <i>H.f. 1385</i> ; AR. <i>Lys. 301</i> ; ARSTD. <i>t. 1, 566 ; au neutre,</i> EUR. <i>H.f. 1385</i> ; AR. <i>Lys. 601</i>.`

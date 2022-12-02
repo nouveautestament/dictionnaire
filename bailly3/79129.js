@@ -1,0 +1,1 @@
+lar[79129]=`<b>περι·πλίσσομαι</b> <font color="darkgreen">(<i>pf. part</i>. περιπεπλιγμένα)</font> enlacer de ses jambes, STRATT. (<i>Com. fr. 2, 788) ; cf</i>. περίπλεκτος.`

@@ -1,0 +1,1 @@
+lar[16892]=`<b>ἄ·τοξος, ος, ον</b>, sans arc et sans flèches, LUC. <i>D. deor. 19, 1</i>.<p><b>Étym</b>. ἀ, τόξον.`

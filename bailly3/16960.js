@@ -1,0 +1,1 @@
+lar[16960]=`<b>ἀ·τρίακτος, ος, ον</b>, invaincu, invincible, ESCHL. <i>Ch. 338</i>.<p><b>Étym</b>. ἀ, τριάζω.`

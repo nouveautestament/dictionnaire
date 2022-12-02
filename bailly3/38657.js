@@ -1,0 +1,1 @@
+lar[38657]=`<b>ἐπι·πεντ·ένατος, ος, ον</b> <font color="purple">[ᾰ]</font> qui contient un entier et ⁵⁄₉ (<i>comme 14 par rapport à 9</i>) NICOM. <i>Arithm. 108</i>.<p><b>Étym</b>. ἐπί, πέντε, ἔνατος.`

@@ -1,0 +1,1 @@
+lar[77950]=`<i>adv</i>., pauvrement, ARSTT. <i>Pol. 1, 2, 3</i>.<p><b>Étym</b>. πενιχρός.`

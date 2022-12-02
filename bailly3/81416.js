@@ -1,0 +1,1 @@
+lar[81416]=`<b>ποικιλό·τραυλος, ος, ον</b> <font color="purple">[ῐ]</font> aux accents variés, ANTH. <i>9, 437, 10</i>.<p><b>Étym</b>. π. τραυλός.`

@@ -1,0 +1,1 @@
+lar[1549]=`<b>ἁδρο·βατικός, ή, όν</b> <font color="purple">[βᾰ]</font> qui marche sur un sol ferme, ATH. <i>99b</i>.<p><b>Étym</b>. ἁδρός, βαίνω.`

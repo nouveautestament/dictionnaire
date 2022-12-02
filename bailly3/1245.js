@@ -1,0 +1,1 @@
+lar[1245]=`<b>ἀ·δέμνιος, ος, ον</b>, sans couche, sans époux, OPP. <i>C. 3, 358</i>.<p><b>Étym</b>. ἀ, δέμνιον.`

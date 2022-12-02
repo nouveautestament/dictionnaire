@@ -1,0 +1,1 @@
+lar[39191]=`<i>adv</i>., avec soin, EPHIPP. (ATH. <i>370d</i>).<p><b>Étym</b>. ἐπίστροφος.`

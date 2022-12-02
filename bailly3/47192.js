@@ -1,0 +1,1 @@
+lar[47192]=`<b>θηλυ·μίτρης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. au turban <i>ou</i> à la coiffure de femme, LUC. <i>D. deor. 18, 1</i>.<p><b>Étym</b>. θ. μίτρα.`

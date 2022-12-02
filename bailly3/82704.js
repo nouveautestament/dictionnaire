@@ -1,0 +1,1 @@
+lar[82704]=`<b>ποντο·κύκη, ης</b> <font color="purple">[ῠ]</font> <i>adj. f.</i> : γυνή, femme remuante, turbulente, <i>propr</i>. « agitée comme la mer », ANON. (<i>Com. fr. 4, 667).</i><p><b>Étym</b>. π. κυκάω.`

@@ -1,0 +1,1 @@
+lar[2221]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. αἰγιάλειος, ANTH. <i>10, 10</i>.`

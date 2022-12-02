@@ -1,0 +1,1 @@
+lar[86427]=`<b>*προσ·συνοικέω</b>, <i>anc. att</i>. <b>προσ·ξυνοικέω-ῶ</b>, habiter en outre avec, <i>dat</i>. THC. <i>6, 2</i>.`

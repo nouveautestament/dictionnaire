@@ -1,0 +1,1 @@
+lar[101521]=`<b>ή, όν</b>, qui concerne l’action de puiser de l’eau, AL. POLYH. (EUS. <i>P.E. 432).</i><p><b>Étym</b>. ὑδρεύω.`

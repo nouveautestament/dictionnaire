@@ -1,0 +1,1 @@
+lar[4755]=`<b>ἀλληλο·φόνος, ος, ον :<br>      1</b> qui s’entre-tuent, XÉN. <i>Hier. 3, 8</i>.<br><b>      2</b> qui sert à s’entre-tuer, PD. <i>fr. 137</i> ; ESCHL. <i>Sept. 931</i>.<p>➳ <i>Dor</i>. ἀλλαλ- <font color="purple">[λᾱ]</font> PD. ESCHL. <i>ll. cc</i>.<p><b>Étym</b>. ἀ. πεφνεῖν.`

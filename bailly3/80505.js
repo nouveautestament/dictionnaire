@@ -1,0 +1,1 @@
+lar[80505]=`<b>ης (ἡ)</b> <font color="purple">[ῑᾰ]</font> Pitanè :<br><b>      1</b> <i>v. de Mysie,</i> HDT. <i>1, 149</i> ; PLUT. <i>Luc. 3, etc.</i><br><b>      2</b> <i>bg de Laconie,</i> HDT. <i>3, 55, etc</i>.<p>➳ <i>Dor</i>. Πιτάνα, PD. <i>O. 6, 46</i> ; EUR. <i>Tr. 1112, etc</i>.`

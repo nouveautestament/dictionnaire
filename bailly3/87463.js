@@ -1,0 +1,1 @@
+lar[87463]=`<b>ου (τὸ)</b> Ptôon, <i>mt de Béotie,</i> PD. <i>fr. 69</i> ; HDT. <i>8, 135</i> ; POÈT. (STR. <i>413, etc</i>.).<p>➳ <i>Ion</i>. Πτώϊον, POÈT. (STR. <i>l. c</i>.).`

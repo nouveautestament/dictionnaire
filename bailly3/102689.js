@@ -1,0 +1,1 @@
+lar[102689]=`<b>ὑπέρ·οινος, ος, ον</b>, qui aime le vin à l’excès <i>ou</i> passionnément, POLYEN <i>8, 25, 1</i>.<p><b>Étym</b>. ὑ. οἶνος.`

@@ -1,0 +1,1 @@
+lar[32634]=`<b>ἐλεγχο·ειδής, ής, ές</b>, qui a l’apparence <i>ou</i> le caractère d’une réfutation, ARSTT. <i>Soph. el. 15, 6 ; 17, 2</i>.<p><b>Étym</b>. ἔλεγχος, εἶδος.`

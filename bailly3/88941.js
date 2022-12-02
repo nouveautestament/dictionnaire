@@ -1,0 +1,1 @@
+lar[88941]=`<b>ου (ὁ)</b> libérateur, LUC. <i>Philopatr. 6</i> ; SPT. <i>Ps. 17, 3 ; 69, 6</i>.<p><b>Étym</b>. ῥύομαι.`

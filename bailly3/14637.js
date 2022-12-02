@@ -1,0 +1,1 @@
+lar[14637]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., d’une manière remarquable, HLD. <i>6, 14</i>.`

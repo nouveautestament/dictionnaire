@@ -1,0 +1,1 @@
+lar[98980]=`<b>ας (ἡ)</b> soin, attention, HIÉROCL. (STOB. <i>477, 50</i>) ; HLD. <i>p. 190Cor</i>.<p>➳ <i>ion</i>. τημελίη, HPC.`

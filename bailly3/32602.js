@@ -1,0 +1,1 @@
+lar[32602]=`<b>(ὁ)</b> NT. <i>Matth. 1, 13, et</i> <b>Ἐλεάζαρος, ου (ὁ)</b> JOS. <i>A.J. 2, 13, 1, etc</i>. Éléazar, <i>n. d’h. hébreu</i>.`

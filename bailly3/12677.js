@@ -1,0 +1,1 @@
+lar[12677]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ἀποκρυφή, SPT. <i>Esaï. 16, 4</i> ; SYMM. <i>Esaï. 32, 2</i>.`

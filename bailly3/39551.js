@@ -1,0 +1,1 @@
+lar[39551]=`<b>ἐπι·φαρμάττω</b>, appliquer de nouveaux remèdes à, <i>acc</i>. A. TAT. <i>4, 16</i>.`

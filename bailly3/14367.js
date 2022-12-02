@@ -1,0 +1,1 @@
+lar[14367]=`<b>ἀργυρο·φεγγής, ής, ές</b> <font color="purple">[ῠ]</font> qui a l’éclat de l’argent, ANTH. <i>11, 313</i>.<p><b>Étym</b>. ἄ. φέγγος.`

@@ -1,0 +1,1 @@
+lar[27696]=`<b>ου (τὸ)</b> <font color="purple">[ῐχ]</font> Doulikhion (<i>litt</i>. terre allongée), <i>l’une des îles Ékhinades,</i> STR. <i>335, etc</i>.<p>➳ <i>Gén</i>. -ου, OD. <i>16, 396 ; épq</i>. -οιο, IL. <i>2, 625</i> ; Q. SM. <i>1, 275</i>.<p><b>Étym</b>. δολιχός.`

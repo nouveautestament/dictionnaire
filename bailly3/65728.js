@@ -1,0 +1,1 @@
+lar[65728]=`<b>ίτιδος</b> <font color="purple">[ῑῑῐδ]</font> <i>adj. f. de</i> μικροπολίτης, SYN. <i>203</i>.`

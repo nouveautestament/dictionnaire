@@ -1,0 +1,1 @@
+lar[89838]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱᾰ]</font> Sérapiakos, <i>h</i>. ANTH. <i>App. 345</i>.<p><b>Étym</b>. Σέραπις.`

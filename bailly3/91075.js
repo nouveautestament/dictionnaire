@@ -1,0 +1,1 @@
+lar[91075]=`<b>σκολιό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> à la chevelure bouclée, NONN. <i>D. 15, 137 ; fig</i>. ANTH. <i>4, 1, 37</i>.<p><b>Étym</b>. σκ. θρίξ.`

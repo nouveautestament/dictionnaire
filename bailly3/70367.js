@@ -1,0 +1,1 @@
+lar[70367]=`<b>οῦ (ὁ)</b> fondation <i>ou</i> colonisation, SOL. (PLUT. <i>Sol. 26</i>) ; PLAT. <i>Leg. 708d</i>.<p><b>Étym</b>. οἰκίζω.`

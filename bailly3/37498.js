@@ -1,0 +1,1 @@
+lar[37498]=`<b>ἐπι·δαίομαι</b>, donner en partage, attribuer ; ἐπ. ὅρκον, HH. <i>Merc. 383,</i> confirmer par un serment.<p><b>Étym</b>. <i>litt</i>. ajouter un serment à ce que l’on dit.`

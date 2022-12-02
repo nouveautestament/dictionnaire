@@ -1,0 +1,1 @@
+lar[82865]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> poule d’eau à bec et à jambes rouges (<i>Fulica porphyris</i> L.) AR. <i>Av. 707, etc.</i> ; ARSTT. <i>H.A. 2, 17, 32, etc.</i> ; SPT. <i>Lev. 11, 18</i>.<br><b>      2</b> sorte de polype, ARTÉM. <i>2, 14</i>.<p><b>Étym</b>. πορφύρα.`

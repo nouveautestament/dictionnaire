@@ -1,0 +1,1 @@
+lar[38394]=`<i>vb. de</i> ἐπιμελέομαι, XÉN. <i>Mem. 2, 1, 28</i> ; PLAT. <i>Rsp. 618b ;</i> ARSTT. <i>Pol. 7, 16, 1</i>.`

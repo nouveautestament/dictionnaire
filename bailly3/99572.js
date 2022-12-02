@@ -1,0 +1,1 @@
+lar[99572]=`<b>α, ον</b>, comprenant un intervalle d’un ton, ARSTT. <i>Probl. 19, 47</i> ; PLUT. <i>M. 1018f, etc</i>.<p><b>Étym</b>. τόνος.`

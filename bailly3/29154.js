@@ -1,0 +1,1 @@
+lar[29154]=`<b>άδος (ἡ)</b> Dorias (la Dorienne) <i>f</i>. ANTIPH. (ATH. <i>338e</i>).<p><b>Étym</b>. Δώριος.`

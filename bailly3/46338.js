@@ -1,0 +1,1 @@
+lar[46338]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Thasos, HDT. <i>6, 44, 46</i> ; AR. <i>Eccl. 1119</i> ; PLUT. <i>M. 1097d ;</i> Θ. λίθος, PLUT. <i>Cato mi. 11,</i> la pierre de Thasos, <i>càd</i>. le marbre ; <i>subst</i>. ἡ Θασία (<i>s.-e</i>. ἅλμη) AR. <i>Ach. 671, sorte de sauce</i>.<p><b>Étym</b>. Θάσος.`

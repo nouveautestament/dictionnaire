@@ -1,0 +1,1 @@
+lar[28719]=`<b>δύσ·ομβρος, ος, ον</b> <font color="purple">[ῠ]</font> (les atteintes) d’une pluie importune, SOPH. <i>Ant. 358</i>.<p><b>Étym</b>. δ. ὄμβρος.`

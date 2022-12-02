@@ -1,0 +1,1 @@
+lar[14677]=`<b>οῦ</b>, <i>ion</i>. <b>έω (ὁ)</b> <font color="purple">[ᾱ]</font> grand dîneur, <i>càd</i>. grand mangeur, HPC. <i>Aër. 280</i>.<p><b>Étym</b>. ἀριστάω.`

@@ -1,0 +1,1 @@
+lar[78543]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui fait le tour, qui entoure, ANTH. <i>5, 13</i>.<p><b>Étym</b>. περιδραμεῖν.`

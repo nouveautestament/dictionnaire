@@ -1,0 +1,1 @@
+lar[84209]=`<b>προ·εξηγέομαι-οῦμαι</b>, exposer auparavant, DH. <i>Rhet. 10</i>.`

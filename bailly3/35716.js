@@ -1,0 +1,1 @@
+lar[35716]=`<b>ἐξ·εικονίζω :<br>      1</b> faire une copie exacte, <i>d’où au pass</i>. ressembler tout à fait : τινι, ARISTÉN. <i>1, 19,</i> à qqn.<br><b>      2</b> représenter à l’aide d’une image, PLUT. <i>M. 445c</i>.`

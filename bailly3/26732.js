@@ -1,0 +1,1 @@
+lar[26732]=`<b>ή, όν :<br>      1</b> qui concerne l’administration, PLUT. <i>M. 885b ;</i> CLÉM. <i>817</i>.<br><b>      2</b> <i>t. de méd</i>. propre à faire digérer, ORIB. <i>p. 64 Mai</i>.<p><b>Étym</b>. διοικέω.`

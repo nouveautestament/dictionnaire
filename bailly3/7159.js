@@ -1,0 +1,1 @@
+lar[7159]=`<b>ας (ἡ)</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> infaillibilité, APP. <i>Lib. 52</i>.<br><b>      2</b> impeccabilité, innocence, CLÉM. <i>Str. p. 443</i>.`

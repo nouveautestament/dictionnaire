@@ -1,0 +1,1 @@
+lar[54930]=`<b>κερδο·γαμέω-ῶ</b> <font color="purple">[ᾰ]</font> épouser par intérêt, DIOG. <i>Prov. 6, 22</i>.<p><b>Étym</b>. κέρδος, γαμέω.`

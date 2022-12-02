@@ -1,0 +1,1 @@
+lar[108503]=`<b>χιονοβολέω-ῶ</b>, lancer de la neige, <i>d’où</i> couvrir de neige, DS. <i>5, 39 ; 17, 82 ; 18, 25</i> ; STR. <i>725</i>.<p><b>Étym</b>. χιονοβόλος.`

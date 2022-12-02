@@ -1,0 +1,1 @@
+lar[58623]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. κύλισις, THÉODOT. <i>Prov. 2, 18</i> ; HIPPIATR. <i>p. 204, 4</i>.`

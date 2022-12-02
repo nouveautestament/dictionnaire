@@ -1,0 +1,1 @@
+lar[12121]=`<b>ἀπο·βδελύττομαι</b>, détester, maudire, NICÉPH. <i>1, 492 W</i>.`

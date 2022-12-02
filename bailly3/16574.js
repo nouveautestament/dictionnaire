@@ -1,0 +1,1 @@
+lar[16574]=`<b>ιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f</i>. de bitume, STR. <i>316</i> ; Ἀ. λίμνη, DS. <i>19, 98,</i> le lac Asphaltite <i>ou</i> mer Morte.<p>➳ <i>Acc</i>. -ῖτιν, JOS. <i>B.J. 1, 35, 5 ; 3, 10, 7 ; A.J. 4, 5, 1</i>.<p><b>Étym</b>. ἄσφαλτος.`

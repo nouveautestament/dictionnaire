@@ -1,0 +1,1 @@
+lar[55883]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> pris furtivement, dérobé, volé, PLAT. <i>Leg. 955b</i>.<p><b>Étym</b>. κλέμμα.`

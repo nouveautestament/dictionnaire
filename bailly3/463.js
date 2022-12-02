@@ -1,0 +1,1 @@
+lar[463]=`<b>Ἀγέ·λαος, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Agélaos, <i>h</i>. IL. <i>8, 257, etc</i>.<p>➳ <i>Épq. et ion</i>. Ἀγέλεως, OD. <i>22, 131, 247</i>.<p><b>Étym</b>. ἄγω, λαός.`

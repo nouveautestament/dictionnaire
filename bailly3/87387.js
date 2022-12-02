@@ -1,0 +1,1 @@
+lar[87387]=`<font color="purple">[ῐ]</font> perdre <i>ou</i> avoir perdu ses cils, ARCHYT. (SIMPL. <i>Arstt. Cat</i>.).<p><b>Étym</b>. πτιλός.`

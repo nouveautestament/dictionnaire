@@ -1,0 +1,1 @@
+lar[87219]=`<b>πρωτο·λεχής, ής, ές</b>, qui enfante pour la première fois, ORPH. <i>H. 4, 197</i>.<p><b>Étym</b>. πρ. λέχος.`

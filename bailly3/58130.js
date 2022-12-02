@@ -1,0 +1,1 @@
+lar[58130]=`<b>Κρουσὶς γῆ (ἡ)</b> la contrée de Krousis, <i>en Macédoine,</i> THC. <i>2, 79</i>.`

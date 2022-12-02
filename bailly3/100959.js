@@ -1,0 +1,1 @@
+lar[100959]=`<b>οῦ (ὁ)</b> avortement, HPC. <i>206d, etc</i>.<p><b>Étym</b>. τρώω.`

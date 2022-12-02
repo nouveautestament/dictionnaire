@@ -1,0 +1,1 @@
+lar[11229]=`<b>ἀπ·αμπλακίσκω</b> <font color="darkgreen">(<i>ao.2</i> ἀπήμπλακον)</font> <font color="purple">[ᾰκ]</font> s’écarter de, s’égarer, SOPH. <i>Tr. 1139</i>.`

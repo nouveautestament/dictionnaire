@@ -1,0 +1,1 @@
+lar[25693]=`<b>δια·σωφρονίζομαι</b>, rivaliser de tempérance <i>ou</i> de sagesse avec, <i>dat</i>. SYN. <i>De regn. 18, 1101c Migne</i>.`

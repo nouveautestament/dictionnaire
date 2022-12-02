@@ -1,0 +1,1 @@
+lar[15237]=`<b>ων (οἱ)</b> les Arsôpes, <i>pple du Nord dans le voisinage des Arimaspes,</i> ORPH. <i>Arg. 1067</i>.`

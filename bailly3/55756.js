@@ -1,0 +1,1 @@
+lar[55756]=`<b>ου (ἡ)</b> Klaros (<i>auj</i>. ruines près de Ahmetbeyli) <i>v. d’Ionie,</i> HH. <i>Ap. 40</i> ; THC. <i>3, 33</i> ; NIC. <i>Th. 958, etc</i>.`

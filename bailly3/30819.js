@@ -1,0 +1,1 @@
+lar[30819]=`<b>εἰσ·νέω</b>, <i>anc. att</i>. <b>ἐσ·νέω</b> (<i>seul. prés. et impf</i>.) traverser à la nage, THC. <i>4, 26 (impf</i>. ἐσένεον) ; EL. <i>N.A. 13, 6</i> (<i>part. pr</i>. εἰσνέων).`

@@ -1,0 +1,1 @@
+lar[104280]=`<b>ατος (τὸ)</b> pluie, HPC. <i>Epid. 1, 938, au plur</i>.<p><b>Étym</b>. ὕω.`

@@ -1,0 +1,1 @@
+lar[47933]=`<b>θυμο·λέαινα, ης</b> <font color="purple">[ῡ]</font> <i>adj. f</i>. au cœur de lionne, ANTH. <i>5, 300</i>.<p><b>Étym</b>. θ. λέαινα.`

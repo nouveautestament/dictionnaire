@@ -1,0 +1,1 @@
+lar[47322]=`<b>θηρο·νόμος, ος, ον</b> :<br><b>      1</b> qui nourrit des bêtes sauvages, ANTH. <i>6, 111</i>.<br><b>      2</b> qui fait paître des bêtes sauvages, CASTOR. (ATH. <i>455a</i>) ; <i>p. ext</i>. qui fait marcher les animaux, NONN. <i>D. 11, 122</i>.<p><b>Étym</b>. θ. νέμω.`

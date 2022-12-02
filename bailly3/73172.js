@@ -1,0 +1,1 @@
+lar[73172]=`être du parti des habitants d’Orchomène, HELLANIC. (E. BYZ. <i>v°</i> Χαιρώνεια).<p><b>Étym</b>. Ὀρχομενός.`

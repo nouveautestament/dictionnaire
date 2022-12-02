@@ -1,0 +1,1 @@
+lar[52332]=`<b>κατα·διφθερόω-ῶ</b>, couvrir entièrement de parchemin, PLUT. <i>M. 664c</i>.<p><b>Étym</b>. κ. διφθέρα.`

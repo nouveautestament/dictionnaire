@@ -1,0 +1,1 @@
+lar[55861]=`<b>Κλειτ·αρέτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Kleitarétè, <i>f</i>. IS. <i>3, 30 et 33 Baiter-Sauppe</i>.<p><b>Étym</b>. κλ. ἀρετή.`

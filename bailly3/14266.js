@@ -1,0 +1,1 @@
+lar[14266]=`<b>όεσσα, όεν</b> <font color="purple">[ῐ]</font> éclatant de blancheur, blanc, <i>en parl. de terrains calcaires et crayeux (cf</i>. ἀργής <i>et</i> ἀργείλοφος), IL. <i>2, 647, 656</i>.`

@@ -1,0 +1,1 @@
+lar[6221]=`<b>ἀμφί·κυρτος, ος, ον :<br>      1</b> à deux cornes (lune au premier quartier) ARSTT. <i>Cæl. 2, 11, 2</i> ; TH. <i>Sign. 4, 7</i> ; PLUT. <i>M. 381d ;</i> LUC. <i>Ic. 20</i>.<br><b>      2</b> à deux anses, ATH. <i>482e</i>.<p><b>Étym</b>. ἀ. κυρτός.`

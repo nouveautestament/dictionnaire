@@ -1,0 +1,1 @@
+lar[79037]=`<b>περι·όστεος, ος, ον</b>, qui entoure les os, GAL. <i>2, 241, etc.</i> ; τὸ περιόστεον, GAL. <i>13, 657,</i> le périoste, <i>t. d’anat</i>.<p><b>Étym</b>. π. ὀστέον.`

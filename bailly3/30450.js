@@ -1,0 +1,1 @@
+lar[30450]=`<b>ή, όν</b>, qui se roule, ARSTT. <i>H.A. 1, 1, 20</i>.<p><b>Étym</b>. εἰλητός.`

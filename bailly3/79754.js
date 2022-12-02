@@ -1,0 +1,1 @@
+lar[79754]=`être léger, frivole, étourdi, NT. <i>1Cor. 13, 4</i> ; M. ANT. <i>5, 5</i>.<p><b>Étym</b>. πέρπερος.`

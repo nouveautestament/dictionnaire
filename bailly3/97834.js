@@ -1,0 +1,1 @@
+lar[97834]=`<b>ταὐτο·συλλαβέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir le même nombre de syllabes, EM. <i>193, 52</i>.<p><b>Étym</b>. ταὐτό, συλλαβή.`

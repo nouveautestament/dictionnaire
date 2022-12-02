@@ -1,0 +1,1 @@
+lar[78491]=`<b>περί·γλυκυς, εια, υ</b> <font color="purple">[ῠκ]</font> <i>seul</i>. <i>• Sup</i>. -γλύκιστος, très doux, EL. <i>N.A. 15, 7</i>.<p><b>Étym</b>. π. γλυκύς.`

@@ -1,0 +1,1 @@
+lar[11117]=`<b>ἀ·παιδευτέω-ῶ</b>, être ignorant <i>ou</i> grossier, DYSC. <i>p. 501, 18 Bekker, Anecdota græca</i> ; JAMBL. <i>Nicom. ar. 9</i>.<p><b>Étym</b>. ἀπαίδευτος.`

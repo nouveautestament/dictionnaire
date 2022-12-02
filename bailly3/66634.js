@@ -1,0 +1,1 @@
+lar[66634]=`<b>μονό·στιχος, ος, ον</b> <font color="purple">[ῐ]</font> qui se compose d’un seul vers, ANTH. <i>11, 312</i> ; PLUT. <i>Pomp. 27</i>.<p><b>Étym</b>. μ. στίχος.`

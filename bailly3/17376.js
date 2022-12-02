@@ -1,0 +1,1 @@
+lar[17376]=`<b>αὐτο·άγαθον, ου (τὸ)</b> le bien en soi, le bien absolu <i>ou</i> idéal, ARSTT. <i>Top. 6, 8, 6, etc</i>.<p><b>Étym</b>. αὐτός, ἀγαθός ; <i>sel. Bkk. en deux mots</i>.`

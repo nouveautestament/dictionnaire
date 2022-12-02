@@ -1,0 +1,1 @@
+lar[81921]=`<b>πολυ·θεάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> qui a beaucoup vu, <i>gén</i>. PLAT. <i>Phædr. 251a</i>.<p><b>Étym</b>. π. θεάομαι.`

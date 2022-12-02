@@ -1,0 +1,1 @@
+lar[77254]=`<b>Πασι·φῶν, ῶντος (ὁ)</b> <font color="purple">[ᾱῐ]</font> Pasiphôn :<br><b>      1</b> <i>médecin,</i> DÉM. <i>30, 34 Baiter-Sauppe, etc.</i><br><b>      2</b> <i>philosophe,</i> DL. <i>2, 7</i> ; PLUT. <i>Nic. 4</i>.<p><b>Étym</b>. π. *φάω.`

@@ -1,0 +1,1 @@
+lar[71008]=`<b>ὀλιγό·δουλος, ος, ον</b> <font color="purple">[ῐ]</font> qui a peu d’esclaves, STR. <i>783</i>.<p><b>Étym</b>. ὀλ. δοῦλος.`

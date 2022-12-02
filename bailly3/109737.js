@@ -1,0 +1,1 @@
+lar[109737]=`<b>ψευδο·στιγματίας, ου (ὁ)</b> <font color="purple">[μᾰᾱ]</font> l’homme aux faux stigmates, <i>titre d’une comédie de Nikostratos,</i> ATH. <i>685c</i>.`

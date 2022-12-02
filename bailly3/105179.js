@@ -1,0 +1,1 @@
+lar[105179]=`<b>ης (ἡ)</b> Phérousa, <i>Néréide,</i> IL. <i>18, 43</i> ; HÉS. <i>Th. 248</i>.<p><b>Étym</b>. <i>part. prés. fém. de</i> φέρω.`

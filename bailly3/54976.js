@@ -1,0 +1,1 @@
+lar[54976]=`<b>όνος (ὁ)</b> Kerkyôn, <i>fils de Poséidon, brigand tué par Thésée,</i> PLUT. <i>Thes. 11</i> ; LUC. <i>J. tr. 21</i>.`

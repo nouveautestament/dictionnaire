@@ -1,0 +1,1 @@
+lar[20435]=`<b>ατος (τὸ) :<br>      1</b> résultat d’une délibération, résolution, dessein arrêté, HDT. <i>3, 80, etc.</i> ; ESCHL. <i>Pr. 170, etc.</i> ; PLAT. <i>Rsp. 334a, etc. ; au plur</i>. PD. <i>N. 5, 28</i> ; TRAG.<br><b>      2</b> <i>rar</i>. conseil, avis, SOPH. <i>El. 967</i>.<p><b>Étym</b>. βουλεύω.`

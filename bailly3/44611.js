@@ -1,0 +1,1 @@
+lar[44611]=`<b>ης, ες :<br>      1</b> obscur, trouble, HPC. <i>213c ;</i> ARSTT. <i>Probl. 26, 37, 53</i> ; PLUT. <i>M. 892a.</i><br><b>      2</b> opaque, CLÉOM. <i>14, 1</i>.<p>➳ <i>• Sup</i>. -έστατος, ARSTT. <i>Probl. 16, 53</i>.<p><b>Étym</b>. ζόφος, -ωδης.`

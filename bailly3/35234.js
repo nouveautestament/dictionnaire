@@ -1,0 +1,1 @@
+lar[35234]=`<b>ου (ὁ)</b> Énoch, <i>fils de Caïn,</i> SPT. <i>Jud. 14</i> ; NT. <i>Luc. 3, 37 ; Hebr. 11, 5</i> ; ANTH. <i>8, 49</i>.`

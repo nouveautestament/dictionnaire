@@ -1,0 +1,1 @@
+lar[90893]=`<b>οῦ (ὁ) :<br>      1</b> qui donne de l’ombre, <i>ép. d’Apollon à Lacédémone,</i> LYC. <i>562</i>.<br><b>      2</b> serviteur qui porte un parasol, NAZ. <i>t. 2, p. 222b</i>.<p><b>Étym</b>. σκιάζω.`

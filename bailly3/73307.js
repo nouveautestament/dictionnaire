@@ -1,0 +1,1 @@
+lar[73307]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐ]</font> petite coquille, coquillage, écaille, ARSTT. <i>H.A. 4, 4</i> ; STR. <i>823</i>.<p><b>Étym</b>. ὄστρακον.`

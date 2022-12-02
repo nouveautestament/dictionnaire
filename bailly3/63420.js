@@ -1,0 +1,1 @@
+lar[63420]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> vantardise, POL. <i>39, 3, 1</i> ; SPT. <i>1Reg. 2, 3</i>.<p><b>Étym</b>. μεγαλορρήμων.`

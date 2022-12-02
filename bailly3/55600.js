@@ -1,0 +1,1 @@
+lar[55600]=`<i>att</i>. <b>κίττα, ης (ἡ) :<br>      1</b> pie, <i>oiseau,</i> AR. <i>Av. 302, 1297</i> ; PLUT. <i>M. 973c ;</i> LYC. <i>1319</i>.<br><b>      2</b> dégoût des aliments ordinaires pendant la grossesse, DIOSC. <i>1, 167</i> ; A. APHR. <i>Probl. 2, 73</i>.`

@@ -1,0 +1,1 @@
+lar[14232]=`<b>ατος (τὸ)</b> tache sur le blanc de l’œil, TH. <i>H.P. 9, 9, 5</i>.<p><b>Étym</b>. ἀργός¹.`

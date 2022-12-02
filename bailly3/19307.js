@@ -1,0 +1,1 @@
+lar[19307]=`<b>βασσαρέω-ῶ</b> (<i>seul. f</i>. ήσω) <font color="purple">[σᾰ]</font> célébrer les mystères de Bacchus, ANACR. <i>64</i>.<p><b>Étym</b>. βασσάρα.`

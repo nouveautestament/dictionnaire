@@ -1,0 +1,1 @@
+lar[87864]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐδ]</font> petit feu, étincelle de feu, PLUT. <i>M. 889f, 890a ;</i> STOB. <i>Ecl. 1, 522</i>.<p><b>Étym</b>. πῦρ.`

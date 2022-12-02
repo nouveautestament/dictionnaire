@@ -1,0 +1,1 @@
+lar[100445]=`<b>τρί·σημος, ος, ον</b> <font color="purple">[ῐ]</font> de trois temps, <i>càd</i>. de trois brèves <i>ou</i> d’une brève et d’une longue <i>ou</i> d’une longue et d’une brève, ARISTOX. <i>Rhythm. p. 280 Mor.</i> ; A. QUINT. <i>1, p. 34</i>.<p><b>Étym</b>. τρ. σῆμα.`

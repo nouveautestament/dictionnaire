@@ -1,0 +1,1 @@
+lar[32970]=`<b>ἐλλοβο·σπέρματος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la semence est dans une cosse, TH. <i>H.P. 7, 3, 2</i>.<p><b>Étym</b>. ἔλλοβος, σπέρμα.`

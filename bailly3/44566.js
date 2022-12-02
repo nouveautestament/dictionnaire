@@ -1,0 +1,1 @@
+lar[44566]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> question peu importante, ARR. <i>Epict. 2, 16, 20</i> ; LIB. <i>4, 639</i>.<p><b>Étym</b>. ζήτημα.`

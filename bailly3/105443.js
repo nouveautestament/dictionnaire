@@ -1,0 +1,1 @@
+lar[105443]=`<b>φιλ·αίματος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime le sang, sanguinaire, ESCHL. <i>Sept. 45</i> ; EUR. <i>Rhes. 932, Ph. 174</i> ; ANTH. <i>7, 226</i>.<p><b>Étym</b>. φίλος, αἷμα.`

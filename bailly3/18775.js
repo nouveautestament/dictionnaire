@@ -1,0 +1,1 @@
+lar[18775]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Bathyllos, <i>h</i>. DÉM. ANACR. ANTH. <i>etc</i>.`

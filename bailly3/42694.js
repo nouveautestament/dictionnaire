@@ -1,0 +1,1 @@
+lar[42694]=`<b>Εὔ·μηλος, ου (ὁ)</b> Eumèlos :<br><b>      1</b> <i>fils d’Admète,</i> IL. <i>2, 714, etc.</i> ; OD. <i>4, 798</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>7, 156 et 211</i>.<p>➳ <i>Gén. épq</i>. Εὐμήλοιο, IL. <i>23, 380</i>.<p><b>Étym</b>. <i>cf</i>. εὔμηλος.`

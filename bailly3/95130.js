@@ -1,0 +1,1 @@
+lar[95130]=`<b>συν·διανοέομαι-οοῦμαι</b> <font color="darkgreen">(<i>f</i>. -νοήσομαι, <i>ao</i>. -διενοήθην)</font> délibérer avec : τινι περί τινος, POL. <i>2, 54, 14,</i> avec qqn sur qqe ch. ; <i>avec</i> πῶς ἄν, POL. <i>31, 20, 7</i>.`

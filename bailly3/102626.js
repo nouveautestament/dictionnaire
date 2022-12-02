@@ -1,0 +1,1 @@
+lar[102626]=`<b>ὑπέρ·λαμπρος, ος, ον :<br>      1</b> très brillant, AR. <i>Nub. 571</i>.<br><b>      2</b> <i>en parl. de la voix, adv</i>. ὑπέρλαμπρον, DÉM. <i>313, 22,</i> avec de trop grands éclats de voix.<p><b>Étym</b>. ὑ. λαμπρός.`

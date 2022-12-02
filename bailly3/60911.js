@@ -1,0 +1,1 @@
+lar[60911]=`<b>λιβανο·ειδής, ής, ές</b> <font color="purple">[ῐᾰ]</font> qui ressemble à de l’encens, DIOSC. <i>3, 97</i>.<p><b>Étym</b>. λίβανος, εἶδος.`

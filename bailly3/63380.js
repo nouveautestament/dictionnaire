@@ -1,0 +1,1 @@
+lar[63380]=`<b>μεγαλο·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῡ]</font> aux grosses vagues, ARSTT. <i>Probl. 26, 17</i>.<p><b>Étym</b>. μ. κῦμα.`

@@ -1,0 +1,1 @@
+lar[97190]=`<b>σωματο·τροφεῖον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> lieu où l’on entretient des esclaves, DS. <i>Exc. 525, 78 ; 598, 75</i>.<p><b>Étym</b>. σῶμα, τρέφω.`

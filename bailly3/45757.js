@@ -1,0 +1,1 @@
+lar[45757]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> de la nature des fièvres continues, HPC. <i>1127a</i>.<p><b>Étym</b>. ἠπίαλος, -ωδης.`

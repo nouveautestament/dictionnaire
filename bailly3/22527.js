@@ -1,0 +1,1 @@
+lar[22527]=`<b>ιος (ἡ)</b> <font color="purple">[ῠ]</font> Goryandis, <i>v. de l’Inde,</i> NONN. <i>D. 26, 294</i>.`

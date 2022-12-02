@@ -1,0 +1,1 @@
+lar[53337]=`<b>κατα·σκελετεύω</b>, réduire à l’état de squelette, dessécher entièrement, ISOCR. <i>Antid. p. 486 Bkk.</i> ; ARSTT. <i>H.A. 10, 3</i> ; PLUT. <i>M. 7d ; fig</i>. LGN <i>2, 1</i>.`

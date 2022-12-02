@@ -1,0 +1,1 @@
+lar[51113]=`<b>Καλλί·δρομον, ου (τὸ)</b> Kallidromon, <i>un des sommets de l’Œta</i>. PLUT. <i>Cato ma. 13</i>.<p><b>Étym</b>. κ. δραμεῖν.`

@@ -1,0 +1,1 @@
+lar[57836]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑ]</font> cordonnier, DIN. (POLL. <i>7, 183).</i><p><b>Étym</b>. κρηπίς, ἔργον.`

@@ -1,0 +1,1 @@
+lar[34780]=`<b>ἐννομο·λέσχης, ου (ὁ)</b> qui parle sans cesse des lois, TIMON (DL. <i>2, 19).</i><p><b>Étym</b>. ἔννομος, λέσχη.`

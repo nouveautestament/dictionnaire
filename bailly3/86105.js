@@ -1,0 +1,1 @@
+lar[86105]=`<b>προσ·λεύσσω</b> (<i>seul. prés</i>.) regarder, considérer, <i>acc</i>. SOPH. <i>Aj. 546, etc. ; abs</i>. SOPH. <i>Ph. 1068</i>.`

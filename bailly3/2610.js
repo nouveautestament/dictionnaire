@@ -1,0 +1,1 @@
+lar[2610]=`<b>ου (ὁ)</b> Hæmos :<br><b>      1</b> <i>mt de Thrace (auj</i>. mts Balkans) HDT. <i>4, 49</i> ; THC. <i>2, 9</i>.<br><b>      2</b> <i>roi de Thrace,</i> Ps.-PLUT. <i>Fluv. 11</i> ; LUC. <i>Salt. 51, etc</i>.`

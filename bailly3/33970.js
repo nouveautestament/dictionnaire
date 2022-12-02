@@ -1,0 +1,1 @@
+lar[33970]=`<b>ἐν·απονίπτω</b>, laver dans, POLYZ. <i>fr. 4</i>.<br><b><i>Moy.</i></b> (<i>inf. ao</i>. -νίψασθαι) laver (une souillure) dans, <i>dat</i>. PAUS. <i>9, 30, 8</i>.`

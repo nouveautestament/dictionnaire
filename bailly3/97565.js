@@ -1,0 +1,1 @@
+lar[97565]=`<b>τανύ·ρριζος, ος, ον</b> <font color="purple">[ᾰ]</font> aux longues racines, HÉS. <i>Sc. 377</i>.<p><b>Étym</b>. τανυ-, ῥίζα.`

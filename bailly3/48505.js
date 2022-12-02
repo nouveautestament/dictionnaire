@@ -1,0 +1,1 @@
+lar[48505]=`<b>ἰδρωτο·ποιός, ός, όν</b>, qui fait suer, sudorifique, ARSTT. <i>Probl. 2 fin</i> ; DIOSC. <i>3, 79</i>.<p><b>Étym</b>. ἱδρώς, ποιέω.`

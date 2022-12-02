@@ -1,0 +1,1 @@
+lar[8451]=`<font color="purple">[ῐτ]</font> <i>adv</i>., sans qu’on puisse décider, SEXT. <i>M. 11, 230</i>.`

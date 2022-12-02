@@ -1,0 +1,1 @@
+lar[62809]=`<b>μανοσπορέω-ῶ</b> <font color="purple">[ᾱ]</font> répandre une semence rare, semer clair, TH. <i>H.P. 8, 6, 2</i>.<p><b>Étym</b>. μανόσπορος.`

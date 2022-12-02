@@ -1,0 +1,1 @@
+lar[56822]=`<b>ου (τὸ)</b> aiguille à coiffer, AR. (<i>Com. fr. 2, 1079).</i><p><b>Étym</b>. κομμόω.`

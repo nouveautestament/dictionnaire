@@ -1,0 +1,1 @@
+lar[21473]=`<b>ου (ὁ)</b> <i>c</i>. γαύσαπος CHARIS. <i>104, 16</i> ; PRISC. <i>Gr. lat. 7, 55, p. 759 Putsch</i>.`

@@ -1,0 +1,1 @@
+lar[37955]=`<b>ἐπι·κατατρέχω</b>, s’élancer sur <i>ou</i> contre, <i>dat</i>. DH. <i>9, 21</i> ; DC. <i>36, 32</i>.`

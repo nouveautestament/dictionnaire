@@ -1,0 +1,1 @@
+lar[47387]=`<b>θιασ·άρχης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> chef d’un thiase, qui organise et dirige un thiase, LUC. <i>Per. 11</i>.<p><b>Étym</b>. θίασος, ἄρχω.`

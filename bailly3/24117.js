@@ -1,0 +1,1 @@
+lar[24117]=`<b>(ὁ)</b> le fils de Dèïonée, <i>càd</i>. Képhalos, CALL. <i>Dian. 209, au gén</i>. -αο <font color="purple">[ᾱ]</font>.<p><b>Étym</b>. Δηϊονεύς.`

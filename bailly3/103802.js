@@ -1,0 +1,1 @@
+lar[103802]=`<b>ὑπο·σαλπίζω</b>, sonner un peu <i>ou</i> faiblement de la trompette, ANTH. <i>App. 372</i>.`

@@ -1,0 +1,1 @@
+lar[24980]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> propre à dissoudre <i>gén</i>. PLAT. <i>Tim. 60b, etc.</i><br><b>      2</b> propre à relâcher, HPC. <i>Aph. 1247a</i>.`

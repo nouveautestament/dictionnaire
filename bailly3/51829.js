@@ -1,0 +1,1 @@
+lar[51829]=`<b>(ἡ)</b> = <i>lat</i>. Carmenta, <i>f</i>. PLUT. <i>Rom. 21</i>.`

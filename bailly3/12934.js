@@ -1,0 +1,1 @@
+lar[12934]=`<b>ἀπο·ναρκάω-ῶ</b>, être engourdi <i>ou</i> inerte : πρὸς τοὺς πόνους, PLUT. <i>M. 8f</i>, contre la fatigue.`

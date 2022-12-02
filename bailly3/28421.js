@@ -1,0 +1,1 @@
+lar[28421]=`<b>δυσ·επιβούλευτος, ος, ον</b> <font color="purple">[ῠῐ]</font> contre qui <i>ou</i> contre quoi il est difficile de prendre des mesures, qu’il est difficile de neutraliser, <i>en parl. d’une machine de siège,</i> APD. POL. <i>14</i>.<p>•<i> Cp</i>. -ότερος, XÉN. <i>Hipp. 4, 11 ; • Sup</i>. -ότατος, XÉN. <i>Ages. 6, 7</i>.<p><b>Étym</b>. δ. ἐπιβουλεύω.`

@@ -1,0 +1,1 @@
+lar[70300]=`<i>adv</i>., du dème att. Œè, DÉM. <i>33, 14 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Οἴη, -θεν.`

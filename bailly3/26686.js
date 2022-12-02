@@ -1,0 +1,1 @@
+lar[26686]=`<b>ᾶντος (ὁ)</b> monnaie sicilienne valant 2 χαλκοῦς, ARSTT. (POLL. <i>9, 81).</i><p><b>Étym</b>. διξός.`

@@ -1,0 +1,1 @@
+lar[9760]=`<b>ἀντι·βάκχειος, ου (ὁ)</b> antibacchius, <i>pied de deux longues et d’une brève, qqf. d’une brève et de deux longues,</i> DIOM. <i>513</i>.<p><b>Étym</b>. ἀντί, βακχεῖος.`

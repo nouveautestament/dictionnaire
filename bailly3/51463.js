@@ -1,0 +1,1 @@
+lar[51463]=`<b>Καμπύλινος ποταμός (ὁ)</b> le fleuve Kampylinos (<i>litt</i>. sinueux) <i>en Étolie,</i> EL. <i>N.A. 3, 4</i>.<p><b>Étym</b>. καμπύλος.`

@@ -1,0 +1,1 @@
+lar[64732]=`<b>μετ·αΐσσω</b> (<i>part. ao</i>. μεταΐξας) :<br><b>      1</b> s’élancer à la poursuite de (<i>touj. au part. prés. ou ao. accompagnant un verbe</i>) IL. <i>16, 398</i> ; OD. <i>17, 236, etc.</i><br><b>      2</b> suivre de près, PD. <i>N. 5, 54</i>.`

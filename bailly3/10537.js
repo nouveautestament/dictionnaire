@@ -1,0 +1,1 @@
+lar[10537]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> réflexion d’une image, DAMIAN. <i>Opt. 12</i>.<p><b>Étym</b>. *ἀντιφανής, <i>de</i> ἀντιφαίνω.`

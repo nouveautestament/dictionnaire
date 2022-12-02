@@ -1,0 +1,1 @@
+lar[104802]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> les dehors, l’apparence, PHIL. (EUS. <i>P.E. 392a</i>).<p><b>Étym</b>. φανερός.`

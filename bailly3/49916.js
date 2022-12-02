@@ -1,0 +1,1 @@
+lar[49916]=`<font color="purple">[ῡ]</font> (<i>seul. prés</i>.) avoir envie <i>ou</i> se proposer de soutenir, d’affirmer, GAL. <i>12, 290</i>.<p><b>Étym</b>. ἰσχυρίζομαι.`

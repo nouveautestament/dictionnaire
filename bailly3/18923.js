@@ -1,0 +1,1 @@
+lar[18923]=`<b>ης, ες</b>, animé d’un transport de fureur bachique, <i>d’où</i> inspiré, ARR. <i>Ind. 8, 1, au</i> <i>• Sup</i>. βακχωδέστατος.<p><b>Étym</b>. βάκχος, -ωδης.`

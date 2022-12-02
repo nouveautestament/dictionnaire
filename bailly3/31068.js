@@ -1,0 +1,1 @@
+lar[31068]=`<b>ἐκ·βάζω</b> <font color="darkgreen">(<i>f</i>. -βάξει)</font>, parler, exprimer, ESCHL. <i>Ag. 498</i>.`

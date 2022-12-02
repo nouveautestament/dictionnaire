@@ -1,0 +1,1 @@
+lar[38660]=`<b>ἐπι·περιτρέπω</b>, faire tourner <i>ou</i> convertir un dessein, M. ANT. <i>8, 35</i>.`

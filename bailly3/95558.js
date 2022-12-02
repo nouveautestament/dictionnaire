@@ -1,0 +1,1 @@
+lar[95558]=`<b>συν·επάγω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> conduire <i>ou</i> exciter ensemble <i>ou</i> en même temps contre, THC. <i>3, 11</i>.<br><b>      2</b> appeler à son aide contre, THC. <i>4, 1, 79, 84</i>.<br><b><i>Moy.</i></b> conduire avec soi, PLUT. <i>Cato ma. 17</i> ; DC. <i>41, 7</i>.`

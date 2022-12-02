@@ -1,0 +1,1 @@
+lar[60650]=`<b>ου (τὸ)</b> Leuktron, <i>autre n. de</i> Λεῦκτρα, <i>v. de Laconie,</i> PLUT. <i>Pel. 20 ; ou d’Arcadie,</i> XÉN. <i>Hell. 6, 5, 24</i>.`

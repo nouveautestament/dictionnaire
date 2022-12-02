@@ -1,0 +1,1 @@
+lar[101741]=`<b>ὑλό·κομος, ος, ον</b> <font color="purple">[ῡ]</font> couronné de bois (<i>litt</i>. à la chevelure de forêts) EUR. <i>Andr. 283</i>.<p><b>Étym</b>. ὕλη, κόμη.`

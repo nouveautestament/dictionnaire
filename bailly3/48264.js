@@ -1,0 +1,1 @@
+lar[48264]=`<b>α, ον</b> <font color="purple">[ῐδᾰ]</font> du roi Iardanos, MUS. <i>151</i>.<p><b>Étym</b>. Ἰάρδανος².`

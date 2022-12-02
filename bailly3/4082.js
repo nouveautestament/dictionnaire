@@ -1,0 +1,1 @@
+lar[4082]=`<b>ἀ·λάμπετος, ος, ον</b>, sans lumière, sombre, HH. <i>32, 5</i> <font color="purple">[ᾱ <i>par lic</i>.]</font> ; ANTH. <i>9, 540</i>.<p><b>Étym</b>. ἀ, λάμπω.`

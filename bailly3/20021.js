@@ -1,0 +1,1 @@
+lar[20021]=`<b>ή, όν</b>, de bœuf ; ζεύγη βοεικά, THC. <i>4, 128</i> ; XÉN. <i>An. 7, 5, 2,</i> attelages de bœufs.<p><b>Étym</b>. βοῦς.`

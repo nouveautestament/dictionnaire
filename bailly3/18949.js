@@ -1,0 +1,1 @@
+lar[18949]=`<b>βαλανο·δόκη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> gâche (pratiquée dans un verrou) pour recevoir le pêne, EN. TACT. <i>Pol. 18</i>.<p><b>Étym</b>. βάλανος, δέκομαι, <i>p</i>. δέχομαι.`

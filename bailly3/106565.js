@@ -1,0 +1,1 @@
+lar[106565]=`<b>όεσσα, όεν</b> <font color="purple">[ῑ, -οει- <i>et</i> -οε- <i>forment synizèse</i>]</font> <i>c</i>. φοινίκεος, IL. <i>10, 133 ; 23, 717</i> ; OD. <i>14, 500 ; 21, 118</i> ; HÉS. <i>Sc. 95, 196</i>.`

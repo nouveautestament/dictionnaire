@@ -1,0 +1,1 @@
+lar[109344]=`<b>ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> répandu en foule, abondant, nombreux, SPT. <i>Ex. 1, 7</i>.<br><b>      2</b> <i>p. suite, fig</i>. commun, ordinaire, PLUT. <i>M. 85f ;</i> DIOSC. <i>5, 40 ; en mauv. part,</i> commun, vulgaire, grossier, POL. <i>14, 7, 8</i> ; ATH. <i>686d</i>.<p><b>Étym</b>. χύδην.`

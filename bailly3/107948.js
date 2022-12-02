@@ -1,0 +1,1 @@
+lar[107948]=`<b>χαριτο·βλέφαρος, ος, ον</b> <font color="purple">[ᾰῐᾰ]</font> aux paupières gracieuses, <i>càd</i>. aux beaux yeux, ANTH. <i>App. 209</i> ; DL. <i>p. 307 ; comiq.</i> : χ. μᾶζα, EUB. (ATH. <i>685e</i>) pâte aux beaux yeux, <i>càd</i>. alléchante.<p><b>Étym</b>. χάρις, βλέφαρον.`

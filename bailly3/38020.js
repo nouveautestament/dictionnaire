@@ -1,0 +1,1 @@
+lar[38020]=`<b>ἐπι·κηρόω-ῶ</b>, enduire de cire, POLYEN <i>2, 20</i>.`

@@ -1,0 +1,1 @@
+lar[9674]=`<b>ἀντ·επιτειχίζομαι</b> <font color="darkgreen">(<i>part. pf. pass</i>. -τετειχισμένος)</font> se construire des fortifications contre, <i>d’où, au pf.,</i> avoir ses moyens de défense tout prêts, THC. <i>1, 142</i>.`

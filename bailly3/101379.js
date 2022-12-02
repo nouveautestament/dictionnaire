@@ -1,0 +1,1 @@
+lar[101379]=`<b>ὑγιόω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. ὑγιάζω, HPC. <i>V. med. 11</i>.`

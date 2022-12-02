@@ -1,0 +1,1 @@
+lar[56935]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. coupée, taillée, TH. <i>H.P. 1, 3, 3</i>.<p><b>Étym</b>. κόπτω.`

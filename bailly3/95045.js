@@ -1,0 +1,1 @@
+lar[95045]=`<b>συν·δαΐζω</b>, égorger (<i>litt</i>. déchirer) avec <i>ou</i> en même temps, SOPH. <i>Aj. 361</i>.`

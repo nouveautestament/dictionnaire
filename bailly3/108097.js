@@ -1,0 +1,1 @@
+lar[108097]=`<b>χειρ·απτάζω</b> (<i>seul. prés</i>.) toucher avec la main, tâter, palper, HDT. <i>2, 90</i>.<p><b>Étym</b>. χ. ἅπτομαι.`

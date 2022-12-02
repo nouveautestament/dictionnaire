@@ -1,0 +1,1 @@
+lar[97838]=`<i>part. ao.2 pass. de</i> θάπτω.`

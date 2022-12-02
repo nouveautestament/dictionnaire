@@ -1,0 +1,1 @@
+lar[43266]=`<b>εὐρυ·έδης, ης, ες</b> <font color="purple">[ῠ]</font> largement assis, vaste, <i>en parl. de la terre,</i> SIM. (PLAT. <i>Prot. 345c</i>).<p><b>Étym</b>. εὐ. ἕδος.`

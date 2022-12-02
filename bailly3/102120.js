@@ -1,0 +1,1 @@
+lar[102120]=`<b>ὑπ·εκκλίνω</b> <font color="purple">[ῑ]</font> esquiver en se détournant un peu, éviter, AR. <i>Eq. 273 ; acc</i>. PLUT. <i>Cam. 18</i>.`

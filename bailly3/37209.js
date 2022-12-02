@@ -1,0 +1,1 @@
+lar[37209]=`<b>ἐπ·ευκλεΐζω</b> (<i>part. ao</i>. -εΐσας) glorifier, SIM. <i>Epigr. fr. 128 Bgk</i> ; ANTH. <i>App. 308</i>.`

@@ -1,0 +1,1 @@
+lar[27488]=`<b>δολ·ῶπις</b>, <i>gén</i>. <b>ιδος</b>, <i>adj. f</i>. à l’œil rusé <i>ou</i> perfide, SOPH. <i>Tr. 1050</i>.<p><b>Étym</b>. δόλος, ὤψ.`

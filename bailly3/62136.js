@@ -1,0 +1,1 @@
+lar[62136]=`<b>λυχνο·καυτέω-ῶ</b>, allumer les lampes, illuminer, DC. <i>63, 20</i>.<p><b>Étym</b>. λ. <i>vb. de</i> καίω.`

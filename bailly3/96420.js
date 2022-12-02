@@ -1,0 +1,1 @@
+lar[96420]=`<b>συν·υπόκειμαι</b>, être couché <i>ou</i> placé dessous ensemble, LIB. <i>4, 38</i>.`

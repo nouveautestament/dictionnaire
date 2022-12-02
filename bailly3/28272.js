@@ -1,0 +1,1 @@
+lar[28272]=`<b>δυσ·γεφύρωτος, ος, ον</b> <font color="purple">[φῡ]</font> où il est difficile de jeter un pont, STR. <i>193</i>.<p><b>Étym</b>. δ. γεφυρόω.`

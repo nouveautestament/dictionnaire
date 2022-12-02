@@ -1,0 +1,1 @@
+lar[99013]=`<b>τηξί·ποθος, ος, ον</b> <font color="purple">[ῐ]</font> qui consume de désir, CRATÈS (CLÉM. <i>Str. 2, 20, p. 121).</i><p><b>Étym</b>. τήκω, πόθος.`

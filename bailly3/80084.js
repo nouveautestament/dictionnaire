@@ -1,0 +1,1 @@
+lar[80084]=`<b>πηλο·πλάθος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui façonne l’argile, statuaire de terre cuite, LUC. <i>Prom. 1</i>.<p><b>Étym</b>. π. πλάσσω.`

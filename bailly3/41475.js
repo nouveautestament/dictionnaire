@@ -1,0 +1,1 @@
+lar[41475]=`<b>ἐτυμο·λόγος, ου (ὁ)</b> <font color="purple">[ῠ]</font> étymologiste, GRAMM.<p><b>Étym</b>. ἔτυμος, λέγω.`

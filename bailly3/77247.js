@@ -1,0 +1,1 @@
+lar[77247]=`<b>ιδος</b> <i>ou</i> <b>ιος (ὁ)</b> le Pasitigris (<i>auj</i>. Karoun) <i>formé par la réunion du Tigre et de l’Euphrate,</i> PLUT. <i>Eum. 14</i>.`

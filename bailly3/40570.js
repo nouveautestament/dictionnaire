@@ -1,0 +1,1 @@
+lar[40570]=`<b>ου (ὁ)</b> Hermaïskos, <i>h</i>. ALEX. (ATH. <i>473d</i>).<p><b>Étym</b>. <i>dim. de</i> Ἑρμῆς.`

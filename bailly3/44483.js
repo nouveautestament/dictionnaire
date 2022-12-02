@@ -1,0 +1,1 @@
+lar[44483]=`<b>ή, όν :<br>      1</b> attelé, PLUT. <i>M. 278b.</i><br><b>      2</b> accouplé, apparié, ANTH. <i>7, 9</i>.<br><b>      3</b> <i>p. ext</i>. joint, uni, STR. <i>452</i>.<p><b>Étym</b>. <i>vb. de</i> ζεύγνυμι.`

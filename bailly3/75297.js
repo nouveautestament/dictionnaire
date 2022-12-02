@@ -1,0 +1,1 @@
+lar[75297]=`<b>παντ·όφθαλμος, ος, ον</b>, qui a des yeux partout, qui est tout yeux, AR. <i>fr. 525 Dind</i>.<p><b>Étym</b>. π. ὀφθαλμός.`

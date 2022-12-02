@@ -1,0 +1,1 @@
+lar[14593]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰι]</font> compte, ESCHL. <i>Eum. 753</i>.<p><b>Étym</b>. ἀριθμέω.`

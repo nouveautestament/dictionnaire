@@ -1,0 +1,1 @@
+lar[109744]=`<b>ός, όν</b>, charlatan, PLAT. <i>Soph. 241b</i>.<p><b>Étym</b>. ψ. ἔργον.`

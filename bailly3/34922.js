@@ -1,0 +1,1 @@
+lar[34922]=`<b>ἐν·σήθω</b>, filtrer dans, ARÉT. <i>Cur. m. acut. 1, 1</i>.`

@@ -1,0 +1,1 @@
+lar[19322]=`<b>ῶν (οἱ)</b> les Bastarnes, <i>pple germanique du Danube,</i> POL. STR. <i>etc. ; au sg</i>. βαστάρνης, ATH. <i>213b</i>.`

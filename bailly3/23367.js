@@ -1,0 +1,1 @@
+lar[23367]=`<b>δαφνη·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui mâche du laurier comme les sibylles avant de rendre les oracles, <i>d’où</i> inspiré, LYC. <i>6</i>.<p><b>Étym</b>. δάφνη, φαγεῖν.`

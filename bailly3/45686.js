@@ -1,0 +1,1 @@
+lar[45686]=`<b>(ὁ)</b> <font color="purple">[ῐ]</font> le fils d’Énops, <i>Troyen,</i> IL. <i>14, 444</i>.<p><b>Étym</b>. <i>patr. de</i> Ἦνοψ.`

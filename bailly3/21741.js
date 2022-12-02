@@ -1,0 +1,1 @@
+lar[21741]=`<b>α (ὁ)</b> Géradas, <i>Spartiate,</i> PLUT. <i>Lyc. 15</i>.`

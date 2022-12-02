@@ -1,0 +1,1 @@
+lar[57074]=`<b>ου</b> (ἡ, <i>qqf</i>. ὁ) Corinthe, <i>v. et territoire d’Achaïe,</i> IL. <i>2, 570</i> ; HDT. <i>3, 52</i> ; SOPH. <i>O.R. 1394, etc</i>.<p>➳ ὁ Κ. ORACL. (HDT. <i>5, 92</i>) ; DH. <i>4, 29</i> ; STR. <i>378, etc</i>.`

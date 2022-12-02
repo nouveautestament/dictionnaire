@@ -1,0 +1,1 @@
+lar[26431]=`<b>ος, ον</b>, de Zeus, PLAT. <i>Phædr. 252e ;</i> PLUT. <i>M. 421e ;</i> THÉM. <i>165b</i>.<p><b>Étym</b>. <i>v</i>. Ζεύς.`

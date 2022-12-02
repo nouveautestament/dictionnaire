@@ -1,0 +1,1 @@
+lar[68554]=`<b>νηο·βάτης, εω (ὁ)</b> <font color="purple">[ᾰ]</font> <i>ion. c</i>. ναυβάτης, ANTH. <i>7, 668</i>.`

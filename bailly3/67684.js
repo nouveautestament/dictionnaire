@@ -1,0 +1,1 @@
+lar[67684]=`<b>α, ον</b> <font color="purple">[ᾱῠ]</font> de Naryx, <i>v. de Locride,</i> LYC. <i>1148</i>.`

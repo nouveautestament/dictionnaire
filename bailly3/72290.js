@@ -1,0 +1,1 @@
+lar[72290]=`<b>ὀπισθο·σφενδόνη, ης (ἡ)</b> le derrière du réseau dont les femmes enveloppaient leur chevelure, AR. <i>fr. 309, 4</i>.<p><b>Étym</b>. ὄπισθε, σφενδόνη.`

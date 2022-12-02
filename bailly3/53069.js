@@ -1,0 +1,1 @@
+lar[53069]=`<b>κατα·πίμελος, ος, ον</b> <font color="purple">[ῑ]</font> très gras, GAL. <i>19, 451</i> ; P. ÉG. <i>p. 122, 7 et 29, etc</i>.<p><b>Étym</b>. κ. πιμελή.`

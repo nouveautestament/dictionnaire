@@ -1,0 +1,1 @@
+lar[97135]=`<b>ης (ἡ)</b> armoise, <i>plante,</i> DIOSC. <i>Noth. 3, 117</i>.<p><b>Étym</b>. <i>fém. de</i> σῴζων, <i>part. prés. de</i> σῴζω.`

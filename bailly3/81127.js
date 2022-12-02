@@ -1,0 +1,1 @@
+lar[81127]=`<b>πλουτοδοτέω-ῶ</b>, donner des richesses, ORPH. <i>H. 17, 5</i>.<p><b>Étym</b>. πλουτοδότης.`

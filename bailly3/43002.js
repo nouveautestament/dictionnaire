@@ -1,0 +1,1 @@
+lar[43002]=`<b>Εὐ·πέταλος, ου (ὁ)</b> Eupétalos, <i>n. de paysan,</i> ALCIPHR.<p><b>Étym</b>. <i>v</i>. εὐπέταλος.`

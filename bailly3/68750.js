@@ -1,0 +1,1 @@
+lar[68750]=`<b>Νικ·ιππίς, ίδος (ἡ)</b> <font color="purple">[νῑῐδ]</font> Nikippis, <i>f</i>. ANTH. <i>7, 186</i>.<p><b>Étym</b>. <i>fém. de</i> Νίκιππος.`

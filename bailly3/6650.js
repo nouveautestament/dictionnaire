@@ -1,0 +1,1 @@
+lar[6650]=`<b>ου (ὁ)</b> du dème Anagyrunte, PLAT. <i>Theag. 127e ;</i> DÉM. <i>841, 4, etc</i>.<p><b>Étym</b>. Ἀναγυροῦς.`

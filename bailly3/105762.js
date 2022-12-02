@@ -1,0 +1,1 @@
+lar[105762]=`<b>φιλοδοξέω-ῶ</b> <font color="purple">[ῐ]</font> aimer la gloire, rechercher la renommée : ἐπί τινι, ARSTT. <i>Rhet. 2, 10, 4</i> ; τινι, POL. <i>33, 14, 10,</i> en qqe ch. ; πρός τι, PLUT. <i>M. 125d</i>, en vue de qqe ch. ; εἰς τοὺς Ἕλληνας, POL. <i>1, 16, 10,</i> par sa conduite envers les Grecs ; <i>abs</i>. POL. <i>35, 4, 12</i>.<p><b>Étym</b>. φιλόδοξος.`

@@ -1,0 +1,1 @@
+lar[34957]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἔνστασις HPC. <i>1289, 10</i>.`

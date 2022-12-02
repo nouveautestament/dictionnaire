@@ -1,0 +1,1 @@
+lar[21898]=`<b>γεω·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à de la terre, ARCHIG. (ORIB. <i>2, 156 B.-Dar</i>.) ; τὰ γεωφανῆ, TH. <i>Lap. 61,</i> terre jaune <i>ou</i> sorte d’ocre, qu’on trouvait à Samos.<p><b>Étym</b>. γῆ, φαίνω.`

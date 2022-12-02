@@ -1,0 +1,1 @@
+lar[97199]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠᾰ]</font> lieu où l’on garde un corps, caveau funéraire, LUC. <i>Char. 22</i>.<p><b>Étym</b>. σῶμα, φυλακή.`

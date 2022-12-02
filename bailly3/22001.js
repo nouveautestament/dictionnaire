@@ -1,0 +1,1 @@
+lar[22001]=`<b>ου</b>, <i>mieux que</i> γιγγλυμός, οῦ (ὁ) :<br><b>   I</b> charnière, HÉRON <i>Aut. 263</i>.<br><b>   II</b> <i>p. anal.</i> :<br><b>      1</b> articulation des membres, HPC. <i>411, 12</i> ; ARSTT. <i>An. 3, 10, 9</i>.<br><b>      2</b> emboîture d’une cuirasse, XÉN. <i>Eq. 12, 6</i>.`

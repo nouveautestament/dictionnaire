@@ -1,0 +1,1 @@
+lar[22576]=`<b>ου (τὸ)</b> <font color="purple">[μᾰῐδ]</font> <i>c</i>. γραμματείδιον, ANT. <i>135, 32</i> ; PLUT. <i>Artax. 22</i> ; ATH. <i>49d, etc</i>.`

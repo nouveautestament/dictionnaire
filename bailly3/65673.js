@@ -1,0 +1,1 @@
+lar[65673]=`<b>(ἡ)</b> Mika, <i>f</i>. AR. <i>Th. 767</i>.<p>➳ <i>Forme att. p. Μικρά conservée dans une inscr. att</i>. CIA. <i>2, 836, c-k, 13 (270/262 av. J.-C.) ; v. Meisterh. p. 63, 6 ; cf</i>. μικρός.`

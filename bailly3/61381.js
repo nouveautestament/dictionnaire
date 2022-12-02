@@ -1,0 +1,1 @@
+lar[61381]=`<i>ion</i>. <b>-ίη, ης</b>, <i>mieux que</i> <b>λειπυρία (ἡ)</b> <font color="purple">[λῐ]</font> fièvre intermittente, HPC. <i>53, 15 ; 467, 10</i>.<p><b>Étym</b>. <i>p. dissimil. pour</i> *λιποπυρία, <i>de</i> λείπω, πῦρ.`

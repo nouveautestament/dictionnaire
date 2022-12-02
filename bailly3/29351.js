@@ -1,0 +1,1 @@
+lar[29351]=`<b>ατος (τὸ)</b> <font color="purple">[ρᾱ]</font> occupation où l’on a vieilli, amusement de vieillard, CIC. <i>Att. 12, 25 et 44</i> ; PLUT. <i>Cato ma. 24</i>.<p><b>Étym</b>. ἐγγηράσκω.`

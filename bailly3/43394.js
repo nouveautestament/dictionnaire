@@ -1,0 +1,1 @@
+lar[43394]=`<b>εὐσαρκόω-ῶ</b>, rendre charnu, donner de l’embonpoint, GAL. <i>Ther. 14</i>.<p><b>Étym</b>. εὔσαρκος.`

@@ -1,0 +1,1 @@
+lar[42287]=`<b>εὐθύ·πνοος-ους, οος-ους, οον-ουν :<br>      1</b> qui souffle en ligne droite, <i>d’où</i> propice, PD. <i>N. 7, 29</i> ; ARSTT. <i>Mund. 4, 14</i>.<br><b>      2</b> qui respire librement, HPC. <i>1170e</i>.<p><b>Étym</b>. εὐ. πνέω.`

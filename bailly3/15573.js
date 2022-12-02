@@ -1,0 +1,1 @@
+lar[15573]=`<b>Ἀρχι·άναξ, ακτος (ὁ)</b> <font color="purple">[ᾰν]</font> Arkhianax, <i>h</i>. ANTH. <i>7, 170</i>.<p><b>Étym</b>. ἄρχω, ἄναξ.`

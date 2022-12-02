@@ -1,0 +1,1 @@
+lar[7245]=`<b>ἀνα·νέω</b> <font color="darkgreen">(<i>ao</i>. ἀνένευσα) :</font><br><b>      1</b> remonter sur l’eau, EL. <i>N.A. 5, 20</i>.<br><b>      2</b> <i>p. ext. fig</i>. se tirer de, <i>avec</i> ἀπό <i>et le gén</i>. D. CHR. ; <i>abs</i>. reprendre haleine, BATR. <i>223</i>.`

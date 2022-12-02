@@ -1,0 +1,1 @@
+lar[45776]=`avec douceur, calme, modération, HDT. <i>7, 103, etc.</i> ; SOPH. <i>El. 1439</i>.<p>•<i> Cp</i>. -ωτέρως, DÉM. <i>1296, 8</i>.<p><b>Étym</b>. ἤπιος.`

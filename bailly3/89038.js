@@ -1,0 +1,1 @@
+lar[89038]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Σαβάζιος, <i>ép. de Dionysos,</i> ESCHL. <i>fr. 411</i>.<p><b>Étym</b>. <i>cf</i>. Σάβος, Σαβοῖ.`

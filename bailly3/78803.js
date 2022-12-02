@@ -1,0 +1,1 @@
+lar[78803]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> transport, GEOP. <i>14, 9</i>.<p><b>Étym</b>. περικομίζω.`

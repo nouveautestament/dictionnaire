@@ -1,0 +1,1 @@
+lar[78573]=`<b>περι·ενίσταμαι</b> (<i>seul. prés</i>.) être à portée, être proche, TH. <i>H.P. 3, 4, 2</i>.`

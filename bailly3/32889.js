@@ -1,0 +1,1 @@
+lar[32889]=`<b>εως (ἡ)</b> ulcération, HPC. <i>Aph. 1248</i> ; THC. <i>2, 49</i> ; PLUT. <i>M. 769e ; en parl. des plantes,</i> TH. <i>C.P. 1, 14, 2 ; 5, 12, 8 ; H.P. 4, 16, 1</i>.<p><b>Étym</b>. ἑλκόω.`

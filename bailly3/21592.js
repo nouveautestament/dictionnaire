@@ -1,0 +1,1 @@
+lar[21592]=`<b>οῦ (ὁ)</b> qui fait le plaisant, bouffon, ATH. <i>246c ;</i> NAZ. BAS. <i>etc</i>.<p><b>Étym</b>. γελοιάζω.`

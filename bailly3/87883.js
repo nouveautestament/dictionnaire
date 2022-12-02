@@ -1,0 +1,1 @@
+lar[87883]=`<b>πυρί·ληπτος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui renferme <i>ou</i> entretient du feu dans son sein, volcanique, STR. <i>538, 764</i>.<p><b>Étym</b>. π. <i>vb. de</i> λαμβάνω.`

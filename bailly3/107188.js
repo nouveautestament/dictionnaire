@@ -1,0 +1,1 @@
+lar[107188]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰᾱ]</font> atteint d’une excroissance <i>ou</i> d’une tumeur, HPC. <i>Art. 807</i>.<p><b>Étym</b>. φῦμα.`

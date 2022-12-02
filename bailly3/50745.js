@@ -1,0 +1,1 @@
+lar[50745]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> désordre, trouble, HÉS. <i>O. 470</i>.<p><b>Étym</b>. *κακοθήμων <i>de</i> κακός, τίθημι ; <i>cf</i>. εὐθημοσύνη.`

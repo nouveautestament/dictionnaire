@@ -1,0 +1,1 @@
+lar[84572]=`<b>ης (ἡ)</b> Proknè, <i>fille de Pandion, femme de Térée,</i> THC. <i>2, 29</i> ; EUR. <i>H.f. 1022</i> ; AR. <i>Av. 565, etc</i>.<p><b>Étym</b>. περκνός.`

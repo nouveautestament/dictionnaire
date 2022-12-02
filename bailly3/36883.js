@@ -1,0 +1,1 @@
+lar[36883]=`<b>ας (ἡ)</b> <font color="purple">[ῑσ]</font> beauté attrayante, charme, ATH. <i>242c ;</i> APP. <i>3, 14 Schweigh.</i> ; D. CHR. <i>2, 118</i>.<p><b>Étym</b>. ἐπαφρόδιτος.`

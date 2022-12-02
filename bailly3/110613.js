@@ -1,0 +1,1 @@
+lar[110613]=`<b>ὠχράω-ῶ</b>, devenir jaune <i>ou</i> pâle, OD. <i>11, 529 ; en parl. de la lune,</i> ARAT. <i>851</i>.<p><b>Étym</b>. ὠχρός.`

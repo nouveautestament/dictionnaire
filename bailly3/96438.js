@@ -1,0 +1,1 @@
+lar[96438]=`<b>ῶν (αἱ)</b> <font color="purple">[ῠῠ]</font> tissu des alvéoles d’un rayon de miel, ARSTT. <i>H.A. 9, 40, 9</i>.`

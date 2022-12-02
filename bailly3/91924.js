@@ -1,0 +1,1 @@
+lar[91924]=`<b>      1</b> manger les entrailles de la victime après le sacrifice, AR. <i>Av. 984</i> ; DOROTH. (ATH. <i>410b</i>) ; DC. <i>37, 30 ; au pass</i>. DH. <i>1, 40</i>.<br><b>      2</b> prédire par l’inspection des entrailles, STR. <i>294</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 2, STR. <i>154</i>.<p><b>Étym</b>. σπλάγχνον.`

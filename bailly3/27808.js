@@ -1,0 +1,1 @@
+lar[27808]=`<b>δρακοντο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> semblable à un dragon, ORIG. <i>1, 1341a Migne</i>.<p><b>Étym</b>. δράκων, εἶδος.`

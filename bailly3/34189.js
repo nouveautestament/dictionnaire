@@ -1,0 +1,1 @@
+lar[34189]=`<b>ἐν·διαχειμάζω</b>, passer l’hiver dans, <i>dat</i>. STR. <i>100</i>.`

@@ -1,0 +1,1 @@
+lar[96927]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῑδ]</font> <i>dim. de</i> σφραγίς, AR. <i>Th. 427</i> ; TH. <i>Lap. 8, 18, 23</i> ; PLUT. <i>M. 462d</i>.`

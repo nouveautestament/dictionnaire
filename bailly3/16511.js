@@ -1,0 +1,1 @@
+lar[16511]=`<b>ἀ·συνεχής, ής, ές</b>, non continu, variable, TH. <i>fr. 5, 11</i>.`

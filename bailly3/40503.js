@@ -1,0 +1,1 @@
+lar[40503]=`<i>adv</i>., avec une grande force, MAX. <i>π. κατ. 540</i>.<p><b>Étym</b>. ἐρισθενής.`

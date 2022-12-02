@@ -1,0 +1,1 @@
+lar[96910]=`<b>(ὁ)</b> Sphodrias, <i>h</i>. XÉN. <i>Hell. 5, 4, 15, etc</i>.<p>➳ <i>Gén</i>. -ου, XÉN. <i>Hell. 5, 4, 63</i>.<p><b>Étym</b>. σφοδρός.`

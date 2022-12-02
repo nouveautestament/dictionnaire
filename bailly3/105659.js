@@ -1,0 +1,1 @@
+lar[105659]=`<b>φιλιόω-ῶ</b> <font color="purple">[φῐ]</font> lier amitié, <i>d’où au pass</i>. devenir ami, ES. <i>298 Halm</i>.<p><b>Étym</b>. φιλία.`

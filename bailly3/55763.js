@@ -1,0 +1,1 @@
+lar[55763]=`<b>εως (ἡ)</b> = <i>lat</i>. classis, DH. <i>2, 682 Reiske</i>.`

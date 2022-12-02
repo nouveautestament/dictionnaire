@@ -1,0 +1,1 @@
+lar[42161]=`<b>ας (ἡ)</b> bon courage, APP. <i>Civ. 3, 91</i>.<p><b>Étym</b>. εὐθαρσής.`

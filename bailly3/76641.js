@@ -1,0 +1,1 @@
+lar[76641]=`<b>παρ·εκφαίνομαι</b>, se montrer auprès, de côté, GAL. <i>19, 354</i>.`

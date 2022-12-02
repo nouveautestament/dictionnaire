@@ -1,0 +1,1 @@
+lar[17200]=`<b>ου (τὸ)</b> Aulion, <i>grotte près du Phase,</i> A.RH.<p><b>Étym</b>. <i>v</i>. αὔλιον.`

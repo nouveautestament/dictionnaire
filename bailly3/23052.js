@@ -1,0 +1,1 @@
+lar[23052]=`<b>ός, όν</b> <font color="purple">[αῡ]</font><br><b>      1</b> pleuré, ESCHL. <i>Ch. 236</i>.<br><b>      2</b> qu’il faut pleurer, déplorable, EUR. <i>El. 1182</i> ; ANTH. <i>7, 490</i>.<p><b>Étym</b>. <i>vb. de</i> δακρύω.`

@@ -1,0 +1,1 @@
+lar[40894]=`<i>adv</i>., comme un homme amoureux, THC. <i>6, 54</i> ; ἐρ. διατίθεσθαι, PLAT. <i>Conv. 207b, ou</i> διακεῖσθαι, PLAT. <i>Conv. 216d</i>, être amoureux ; ἐρ. ἔχειν τινός, être amoureux de qqn, PLAT. <i>Conv. 222c ; ou</i> être passionné pour qqe ch. XÉN. <i>Cyr. 3, 3, 12</i>.<p>•<i> Sup</i>. -ώτατα, XÉN. <i>Hier. 1, 21</i>.`

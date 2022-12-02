@@ -1,0 +1,1 @@
+lar[26563]=`<b>δικο·ρράφος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> chicaneur, procédurier, ARISTÉN. <i>2, 5</i>.<p><b>Étym</b>. δίκη, ῥάπτω.`

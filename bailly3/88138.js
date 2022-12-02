@@ -1,0 +1,1 @@
+lar[88138]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de tuf : π. λίθος, HDT. <i>5, 62</i> ; AR. <i>fr. 429,</i> pierre de l’espèce du tuf.<p><b>Étym</b>. πῶρος.`

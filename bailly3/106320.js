@@ -1,0 +1,1 @@
+lar[106320]=`<i>onomatopée comique pour imiter un bredouillement emphatique</i>, AR. <i>Ran</i>. 1286.`

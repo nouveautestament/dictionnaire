@@ -1,0 +1,1 @@
+lar[93546]=`<b>ή, όν :<br>      1</b> frotté l’un contre l’autre : σ. λίθοι, PHIL. BYZ. <i>Bel. p. 87b</i>, pierres dressées par frottement mutuel.<br><b>      2</b> cardé, recardé : συγκρουστὸν ἱμάτιον, DIOSC. <i>3, 40,</i> vêtement grossier, d’étoffe recardée.<p><b>Étym</b>. <i>vb. de</i> συγκρούω.`

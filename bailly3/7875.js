@@ -1,0 +1,1 @@
+lar[7875]=`<b>ἀνα·φοινίττομαι</b> <font color="darkgreen">(<i>part. ao</i>. -φοινιχθείς)</font> rougir (<i>litt</i>. d’une rougeur qui monte au visage) LIB. <i>2, p. 346 Wolf, Anecdota græca, sacra et profana</i>.`

@@ -1,0 +1,1 @@
+lar[63923]=`<font color="purple">[ᾰ]</font> (<i>seul. prés. 3 sg</i>.) devenir noir <i>ou</i> sombre, IL. <i>7, 64</i>.<p><b>Étym</b>. μέλας.`

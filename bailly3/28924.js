@@ -1,0 +1,1 @@
+lar[28924]=`<b>δύσ·τλητος, ος, ον</b>, difficile à supporter, ESCHL. <i>Ag. 1571</i> ; EUR. <i>Ph. 1447</i> ; EMPÉD. (PLUT. <i>M. 745b</i>).<p><b>Étym</b>. δ. τλάω.`

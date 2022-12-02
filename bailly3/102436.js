@@ -1,0 +1,1 @@
+lar[102436]=`<b>ὑπερ·έλαφρος, ος, ον</b>, extrêmement agile <i>ou</i> léger, XÉN. <i>Cyn. 5, 31</i>.<p><b>Étym</b>. ὑ. ἐλαφρός.`

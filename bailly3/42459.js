@@ -1,0 +1,1 @@
+lar[42459]=`<b>εὔ·κνημος, ος, ον</b>, aux belles jambes, ANTH. <i>5, 203</i> ; ἡ εὔ. NIC. <i>Th. 648,</i> polycnème, <i>plante (litt</i>. aux pieds nombreux).<p>➳ <i>Épq</i>. ἐΰκνημος, NONN. <i>D. 18, 60</i>.<p><b>Étym</b>. εὖ, κνήμη.`

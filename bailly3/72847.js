@@ -1,0 +1,1 @@
+lar[72847]=`<b>οῦ (ὁ)</b> l’action de faire prêter serment, POL. <i>6, 33, 1</i> ; PLUT. <i>Cato ma. 17</i>.<p><b>Étym</b>. ὁρκίζω.`

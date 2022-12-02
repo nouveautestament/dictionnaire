@@ -1,0 +1,1 @@
+lar[86983]=`<font color="purple">[ῠ]</font> <i>vb. de</i> προφυλάσσω, PLUT. <i>M. 127 c et d</i>.`

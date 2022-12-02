@@ -1,0 +1,1 @@
+lar[68848]=`<b>νιφο·στιβής, ής, ές</b> <font color="purple">[ῐῐ]</font> où l’on foule la neige sous les pieds, SOPH. <i>Aj. 670</i>.<p><b>Étym</b>. *νίψ, στείβω.`

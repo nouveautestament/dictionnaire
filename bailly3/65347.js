@@ -1,0 +1,1 @@
+lar[65347]=`<b>ης (ἡ)</b> Mèkônè, <i>anc. n. de Sicyone,</i> HÉS. <i>Th. 536</i>.`

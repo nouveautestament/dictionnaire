@@ -1,0 +1,1 @@
+lar[54501]=`(<i>seul. prés</i>.) fendre, OD. <i>14, 425</i>.<p><b>Étym</b>. <i>cf</i>. κεάζω ; R. <i>sscr</i>. K'hâ, couper.`

@@ -1,0 +1,1 @@
+lar[59125]=`<b>ας (ἡ)</b> ANAXIPP. <i>fr. 1, 38</i> ; SPT. <i>Sam. 1, 9, 24 ; d’ord. par contr</i>. <b>κωλῆ, ῆς (ἡ) :<br>      1</b> cuisse d’un animal, AR. <i>Nub. 989</i> ; XÉN. <i>Cyn. 5, 30, etc.</i><br><b>      2</b> membre viril, AR. <i>Nub. 1018</i>.<p>➳ κωλῆ, CIA. <i>2, 610, 5, 6 (4<sup>e</sup> siècle av. J.-C.) ; v. Meisterh. p. 97, 20</i>.<p><b>Étym</b>. κῶλον.`

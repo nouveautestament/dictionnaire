@@ -1,0 +1,1 @@
+lar[15937]=`<b>ίδος (ἡ)</b> ellébore blanc, DIOSC. <i>4, 148</i>.`

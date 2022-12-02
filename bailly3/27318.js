@@ -1,0 +1,1 @@
+lar[27318]=`<b>δι·ωχής, ής, ές</b>, qui peut voiturer deux personnes, PHÉRÉCR. (<i>Com. fr. 2, 254</i>) ; PAUS. (EUST. <i>882, 13).</i><p><b>Étym</b>. δίς, ὄχος.`

@@ -1,0 +1,1 @@
+lar[82987]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Potamos :<br><b>      1</b> <i>le dieu Fleuve,</i> IL. <i>20, 7, 73, etc.</i><br><b>      2</b> Potamos, <i>n. d’un dème attique de la tribu Léontide (auj. dans le voisinage du</i> village Kératia, STR. <i>398</i> ; PAUS. <i>1, 13, 3, etc</i>.).<p><b>Étym</b>. <i>v</i>. ποταμός.`

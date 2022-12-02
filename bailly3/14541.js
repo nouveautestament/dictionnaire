@@ -1,0 +1,1 @@
+lar[14541]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite articulation, M. ANT. <i>4, 3</i>.<p><b>Étym</b>. ἄρθρον.`

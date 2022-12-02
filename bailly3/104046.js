@@ -1,0 +1,1 @@
+lar[104046]=`<b>ὑπο·τρόπιος, α, ον</b>, qui se trouve sous la quille d’un navire, ORPH. <i>Arg. 269</i> ; OPP. <i>H. 1, 224</i>.<p><b>Étym</b>. ὑ. τρόπις.`

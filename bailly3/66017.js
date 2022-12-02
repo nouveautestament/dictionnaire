@@ -1,0 +1,1 @@
+lar[66017]=`<b>ιδος (ἡ)</b> <font color="purple">[μῐ]</font> Misis, <i>f</i>. ANTH. <i>App. 240</i>.<p><b>Étym</b>. μισέω.`

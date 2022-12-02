@@ -1,0 +1,1 @@
+lar[67569]=`<b>ατος (τὸ)</b> mur de pierres, <i>propr</i>. « masse foulée, compacte », JOS. <i>B.J. 1, 21, 7</i>.<p><b>Étym</b>. νάσσω.`

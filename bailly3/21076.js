@@ -1,0 +1,1 @@
+lar[21076]=`<b>βωλητῖνος ἄρτος (ὁ)</b> pain en forme de champignon, ATH. <i>113c</i>.<p><b>Étym</b>. βωλήτης.`

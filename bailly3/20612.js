@@ -1,0 +1,1 @@
+lar[20612]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> lenteur, XÉN. <i>Eq. 11, 12</i>.<p><b>Étym</b>. <i>Cf</i>. βραδύς.`

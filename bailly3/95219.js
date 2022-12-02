@@ -1,0 +1,1 @@
+lar[95219]=`<b>συν·δουλογραφέω-ῶ</b> <font color="purple">[ᾰ]</font> inscrire comme compagnon d’esclavage, EUM. <i>11, p. 413</i>.`

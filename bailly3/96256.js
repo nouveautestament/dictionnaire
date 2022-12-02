@@ -1,0 +1,1 @@
+lar[96256]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> arrangement, disposition, <i>d’où</i> ordonnance de médecin, ARTÉM. <i>2, 44</i>.<br><b>      2</b> <i>au pl</i>. conventions, dispositions d’un traité, JAMBL. <i>V. Pyth. 185</i>.<p><b>Étym</b>. συντάσσω.`

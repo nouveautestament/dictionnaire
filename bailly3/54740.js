@@ -1,0 +1,1 @@
+lar[54740]=`<b>ατος (τὸ) :<br>      1</b> aiguillon, ESCHL. <i>fr. 165</i>.<br><b>      2</b> pointe, <i>en gén</i>. POL. <i>2, 33, 5</i>.<p><b>Étym</b>. κεντέω.`

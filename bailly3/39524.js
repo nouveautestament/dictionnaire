@@ -1,0 +1,1 @@
+lar[39524]=`<b>ἐπι·τρυγάω-ῶ</b> <font color="purple">[ῠ]</font> grappiller après la vendange, ORIG. <i>t. 3, p. 65</i>.`

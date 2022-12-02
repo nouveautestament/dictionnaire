@@ -1,0 +1,1 @@
+lar[35040]=`<i>adv</i>., complètement, ARSTT. <i>Rhet. Al. 29, 2</i> ; POL. <i>10, 30, 3</i>.<p>•<i> Sup</i>. ἐντελέστατα, DÉM. <i>219, 20</i>.`

@@ -1,0 +1,1 @@
+lar[67544]=`<b>μωρο·λόγος, ος, ον</b>, qui tient un langage insensé, ARSTT. <i>Physiogn. p. 148, 10</i> ; MAN. <i>4, 446</i>.<p><b>Étym</b>. μωρός, λέγω.`

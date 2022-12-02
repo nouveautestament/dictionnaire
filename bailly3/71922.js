@@ -1,0 +1,1 @@
+lar[71922]=`<b>*ὀνήτωρ</b>, <i>dor</i>. <b>ὀνάτωρ, ορος (ὁ)</b> <font color="purple">[ᾱ]</font> bienfaisant, bienfaiteur, PD. <i>O. 11, 9</i>.<p><b>Étym</b>. ὀνίνημι.`

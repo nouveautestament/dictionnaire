@@ -1,0 +1,1 @@
+lar[34726]=`<b>ἐννεά·μυκλος, ος, ον</b>, à neuf raies, <i>càd</i>. âgé de neuf ans (<i>âne</i>) ANTIM. <i>16 Bgk</i>.<p><b>Étym</b>. ἐ. μύκλος.`

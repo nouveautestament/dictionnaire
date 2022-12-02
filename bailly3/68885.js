@@ -1,0 +1,1 @@
+lar[68885]=`<b>ας (ἡ)</b> la Numidie, <i>contrée d’Afrique,</i> POL.`

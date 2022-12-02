@@ -1,0 +1,1 @@
+lar[63286]=`<b>μεγα·θαμβής, ής, ές</b> <font color="purple">[γᾰ]</font> grandement étonné, stupéfait, OPP. <i>C. 2, 488</i>.<p><b>Étym</b>. μ. θάμβος.`

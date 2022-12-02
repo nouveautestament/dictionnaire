@@ -1,0 +1,1 @@
+lar[82690]=`plonger dans la mer, ESCHL. <i>Ag. 1014 ; au pass</i>. SOPH. <i>El. 508</i>.<p><b>Étym</b>. πόντος.`

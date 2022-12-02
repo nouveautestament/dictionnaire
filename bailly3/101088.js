@@ -1,0 +1,1 @@
+lar[101088]=`<b>ου (ὁ)</b> <font color="purple">[ῡᾰῐᾱ]</font> (<i>s.-e</i>. πλακοῦς) <i>sorte de pâtisserie,</i> PHILOX. <i>fr. 3, 17 Bgk</i>.<p><b>Étym</b>. τυρός.`

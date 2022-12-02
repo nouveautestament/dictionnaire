@@ -1,0 +1,1 @@
+lar[100620]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐχῐδ]</font> sardine dont les arêtes sont fines comme des cheveux, AR. <i>Ach. 551, Eq. 662</i> ; EUP. (ATH. <i>328e</i>) ; ARSTT. <i>H.A. 6, 15, 9</i>.<p><b>Étym</b>. θρίξ.`

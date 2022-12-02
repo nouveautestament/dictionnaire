@@ -1,0 +1,1 @@
+lar[109870]=`faire psitt pour appeler, PAUS. (EUST. <i>1631, 5).</i><p><b>Étym</b>. ψίττα, <i>cf</i>. σίττα.`

@@ -1,0 +1,1 @@
+lar[60276]=`<i>adv</i>., sans qu’on s’en aperçoive, secrètement, PLAT. <i>Ax. 365c ;</i> DH. <i>Comp. p. 165, 6</i> ; CIC. <i>Fam. 9, 2, etc</i>.<p><b>Étym</b>. λεληθώς.`

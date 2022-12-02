@@ -1,0 +1,1 @@
+lar[87464]=`<b>ου (ὁ)</b> Ptôos :<br><b>      1</b> <i>fils d’Athamas,</i> NONN. <i>D. 9, 318</i>.<br><b>      2</b> <i>surn. d’Apollon,</i> HDT. <i>8, 135</i>.<p>➳ <i>Ion</i>. Πτώϊος, HDT. <i>l. c</i>.`

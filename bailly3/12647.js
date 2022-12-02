@@ -1,0 +1,1 @@
+lar[12647]=`<b>ἀπο·κραδίζω</b> (<i>opt. ao. 2 sg</i>. -κραδίσειας) <font color="purple">[ᾰδ]</font> cueillir à un figuier, NIC. <i>Al. 319</i>.<p><b>Étym</b>. ἀ. κράδη.`

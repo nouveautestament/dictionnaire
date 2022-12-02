@@ -1,0 +1,1 @@
+lar[52528]=`<b>κατα·κηλέω-ῶ :<br>      1</b> fasciner, charmer par des sortilèges, <i>acc</i>. PLAT. <i>Crat. 403d.</i><br><b>      2</b> <i>p. suite,</i> charmer, adoucir, <i>acc</i>. SOPH. <i>Tr. 1003</i> ; ATH. <i>174b</i>.`

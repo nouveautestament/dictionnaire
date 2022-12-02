@@ -1,0 +1,1 @@
+lar[28142]=`<b>δυσ·άθλιος, ος, ον</b> <font color="purple">[ῠᾱ]</font> cruellement malheureux, SOPH. <i>O.C. 330 (sel. d’autres,</i> δὶς ἄθλ.).<p><b>Étym</b>. δ. ἄθλιος.`

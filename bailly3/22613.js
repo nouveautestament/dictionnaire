@@ -1,0 +1,1 @@
+lar[22613]=`<b>ύος (ἡ)</b> égratignure, déchirure, OD. <i>24, 229 (acc. pl</i>. γραπτῦς).<p><b>Étym</b>. γράφω.`

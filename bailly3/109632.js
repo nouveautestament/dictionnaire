@@ -1,0 +1,1 @@
+lar[109632]=`<b>ψευδ·αμάμαξυς, υος (ὁ)</b> <font color="purple">[ᾰμᾰ]</font> fausse vigne, <i>càd</i>. menteur, charlatan, AR. <i>Vesp. 326 ; cf</i>. ψευδατράφαξυς.`

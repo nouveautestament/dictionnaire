@@ -1,0 +1,1 @@
+lar[93994]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., confusément, pêle-mêle avec, <i>dat</i>. HDT. <i>6, 58</i>.<p><b>Étym</b>. συμμίγνυμι.`

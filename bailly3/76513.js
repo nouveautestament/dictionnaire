@@ -1,0 +1,1 @@
+lar[76513]=`<b>ης, ες</b> <font color="purple">[δᾰ]</font> qui ressemble à une panthère <i>ou</i> à un léopard, ATH. <i>38e</i>.<p><b>Étym</b>. πάρδαλος, -ωδης.`

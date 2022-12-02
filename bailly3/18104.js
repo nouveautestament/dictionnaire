@@ -1,0 +1,1 @@
+lar[18104]=`<b>ἀ·φιλόκαλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> indifférent au beau <i>ou</i> au bien, PLUT. <i>M. 672e</i>.`

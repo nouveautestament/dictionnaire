@@ -1,0 +1,1 @@
+lar[56146]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de laver au moyen d’un clystère, HPC. <i>385, 10</i>.<p><b>Étym</b>. κλύζω.`

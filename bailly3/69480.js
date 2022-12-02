@@ -1,0 +1,1 @@
+lar[69480]=`<b>ξενολογέω-ῶ :<br>      1</b> rassembler des troupes étrangères, recruter des mercenaires, ISOCR. <i>101d ;</i> DÉM. <i>1019, 12</i> ; POL. <i>1, 9, 6, etc.</i><br><b>      2</b> <i>p. ext</i>. recueillir, <i>en gén. ; fig</i>. ξ. ἔλεον, DS. <i>Exc. 600, 71,</i> recueillir la pitié d’autrui.<p><b>Étym</b>. ξενολόγος.`

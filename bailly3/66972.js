@@ -1,0 +1,1 @@
+lar[66972]=`<b>μυ·ακάνθα, ης (ἡ)</b> <font color="purple">[ᾰκ]</font> <i>c</i>. μυάκανθος, NONN. TH. <i>Cur. morb. 148</i>.`

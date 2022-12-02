@@ -1,0 +1,1 @@
+lar[9230]=`<b>εως (ἡ)</b> ouverture, THC. <i>4, 67, 68</i> ; PLUT. <i>M. 738c, etc</i>.<p><b>Étym</b>. ἀνοίγω.`

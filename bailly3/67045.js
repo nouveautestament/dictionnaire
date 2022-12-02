@@ -1,0 +1,1 @@
+lar[67045]=`<font color="purple">[ῡ]</font><br><b>      1</b> raconter mot pour mot, en détail, OD. <i>12, 450, 453</i> ; ARCHESTR. (ATH. <i>278b</i>).<br><b>      2</b> raconter, <i>en gén</i>. Ps.-PHOCYL. <i>68</i>.<p><b>Étym</b>. μυθολόγος.`

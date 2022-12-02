@@ -1,0 +1,1 @@
+lar[106828]=`<b>ης, ες</b> <font color="purple">[ᾱ]</font> en forme de puits, SCH.-AR. <i>Pl. 431</i>.<p><b>Étym</b>. φρέαρ, -ωδης.`

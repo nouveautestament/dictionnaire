@@ -1,0 +1,1 @@
+lar[28503]=`<b>*δυσθεσία</b>, <i>ion</i>. <b>δυσθεσίη, ης (ἡ)</b> mauvaise disposition, HPC. <i>774f</i>.<p><b>Étym</b>. δύσθετος.`

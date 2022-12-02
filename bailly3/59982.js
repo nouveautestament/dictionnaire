@@ -1,0 +1,1 @@
+lar[59982]=`<i>postér</i>. <b>Λαυριωτικός, ή, όν</b>, de Laurion, <i>en Attique,</i> AR. <i>Av. 1106</i> ; ἡ Λαυριωτική, PLUT. <i>Nic. 4,</i> le territoire de Laurion.<p><b>Étym</b>. Λαύριον.`

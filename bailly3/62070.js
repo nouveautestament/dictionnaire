@@ -1,0 +1,1 @@
+lar[62070]=`<b>λυσι·φάρμακον, ου (τὸ)</b> <font color="purple">[ῡῐμᾰ]</font> antidote, A. ÉTOL. <i>569</i>.<p><b>Étym</b>. λύω, φ.`

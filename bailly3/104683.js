@@ -1,0 +1,1 @@
+lar[104683]=`<b>φαιο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> vêtu d’une robe sombre, ESCHL. <i>Ch. 1049</i>.<p><b>Étym</b>. φαιός, χιτών.`

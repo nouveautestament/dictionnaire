@@ -1,0 +1,1 @@
+lar[61851]=`<b>ου</b>, <i>ou</i> <b>Λυκαστός, οῦ (ἡ)</b> <font color="purple">[ῠ]</font> Lykastos :<br><b>   I</b> <i>n. de lieu</i> :<br><b>      1</b> <i>v. au S. de la Crète,</i> IL. <i>2, 647</i>.<br><b>      2</b> <i>v. du Pont,</i> E. BYZ. <i>v° Χαδισία</i>.<br><b>   II</b> <i>n. d’h</i>. ZOPYR. (PLUT. <i>Parall. min. 36</i>).`

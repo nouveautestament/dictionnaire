@@ -1,0 +1,1 @@
+lar[15844]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰᾱ]</font> <i>fém. de</i> Ἀσιάτης, EUR. <i>Tr. 1219</i> ; E. BYZ.<p>➳ <i>Ion</i>. Ἀσιῆτις, EUR. <i>I.T. 396</i>.`

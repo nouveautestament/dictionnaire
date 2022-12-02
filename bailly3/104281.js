@@ -1,0 +1,1 @@
+lar[104281]=`<b>ῶν (αἱ)</b> <font color="purple">[ῑ]</font> les Déesses du combat, HÉS. <i>Th. 228, etc</i>.<p><b>Étym</b>. <i>plur. de</i> ὑσμίνη.`

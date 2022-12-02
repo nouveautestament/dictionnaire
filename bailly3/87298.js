@@ -1,0 +1,1 @@
+lar[87298]=`<b>ας (ἡ)</b> orme (<i>Ulmus campestris</i> L.) <i>arbre,</i> IL. <i>6, 419 ; 21, 242, 350</i> ; HÉS. <i>O. 433</i> ; AR. <i>Nub. 1008</i>.<p>➳ <i>Ion</i>. -έη, IL. HÉS. <i>ll. cc</i>.`

@@ -1,0 +1,1 @@
+lar[21463]=`<b>ου (τὸ)</b> Gaureion (<i>auj</i>. Gávrio), <i>port d’Andros,</i> XÉN. <i>Hell. 1, 4, 22</i>.`

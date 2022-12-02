@@ -1,0 +1,1 @@
+lar[16031]=`<b>α, ον</b>, d’Aspendos, XÉN. POL. <i>etc</i>.<p><b>Étym</b>. <i>v</i>. Ἄσπενδος.`

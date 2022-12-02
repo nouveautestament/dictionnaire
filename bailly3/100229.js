@@ -1,0 +1,1 @@
+lar[100229]=`<b>ή, όν</b>, qui concerne le commandement <i>ou</i> l’équipement des trirèmes, DÉM. <i>329, 18</i> ; LUC. <i>Dem. enc. 11, 36, 45</i>.<p><b>Étym</b>. τριηραρχία.`

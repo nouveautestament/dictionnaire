@@ -1,0 +1,1 @@
+lar[24448]=`<b>δια·βουκολέω-ῶ</b> (<i>seul. prés</i>.) repaître (de vaines espérances) <i>acc</i>. LUC. <i>D. mort. 5, 2 ; au pass</i>. se repaître de, se délecter de, <i>dat</i>. THÉM. <i>255d</i>.`

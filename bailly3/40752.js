@@ -1,0 +1,1 @@
+lar[40752]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui provoque <i>ou</i> accompagne l’éructation, HPC. <i>485, 27</i>.<p><b>Étym</b>. ἔρυγμα, -ωδης.`

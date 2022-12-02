@@ -1,0 +1,1 @@
+lar[14621]=`<b>ων (οἱ)</b> les Aries, <i>habitants de l’Arie,</i> HDT. <i>3, 93, etc.,</i> Ἄριος κομμός, ESCHL. <i>Ch. 423,</i> lamentations violentes des Aries.`

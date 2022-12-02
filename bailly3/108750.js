@@ -1,0 +1,1 @@
+lar[108750]=`<b>η, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. χονδρίτης ARCHESTR. (ATH. <i>112b</i>).`

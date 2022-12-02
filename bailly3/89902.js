@@ -1,0 +1,1 @@
+lar[89902]=`<b>ίδος (ἡ)</b> <i>n. d’une plante potagère,</i> ATH. <i>371a</i>.`

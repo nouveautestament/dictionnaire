@@ -1,0 +1,1 @@
+lar[68452]=`<b>ῶνος (ἡ)</b> Néôn (<i>postér</i>. Tithorea) <i>anc. v. de Phocide, près du Parnasse,</i> HDT. <i>8, 32, 33</i>.`

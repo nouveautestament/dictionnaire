@@ -1,0 +1,1 @@
+lar[109008]=`<b>χρηστό·καρπος, ος, ον</b>, qui produit de bons fruits, STR. <i>282</i>.<p><b>Étym</b>. ρ. καρπός.`

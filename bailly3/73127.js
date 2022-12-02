@@ -1,0 +1,1 @@
+lar[73127]=`<i>adv</i>., à la manière d’Orphée, DAMASC. <i>Plat. Phil. 251, 2</i>.`

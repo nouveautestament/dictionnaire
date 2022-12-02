@@ -1,0 +1,1 @@
+lar[46478]=`<font color="purple">[ᾱ]</font> <i>adv. béot</i>. à Thèbes, AR. <i>Ach. 868</i>.<p><b>Étym</b>. <i>cf</i>. Θήβῃσι.`

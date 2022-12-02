@@ -1,0 +1,1 @@
+lar[53301]=`<b>κατά·σαρκος, ος, ον</b>, très charnu, gros et gras, ATH. <i>550c ;</i> ALCIPHR. <i>fr. 5, 3</i>.<p><b>Étym</b>. κ. σάρξ.`

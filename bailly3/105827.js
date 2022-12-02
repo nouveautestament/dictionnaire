@@ -1,0 +1,1 @@
+lar[105827]=`<b>φιλο·καρποφόρος, ος, ον</b> <font color="purple">[ῐ]</font> très fécond, très fertile, ANTH. <i>6, 42</i>.`

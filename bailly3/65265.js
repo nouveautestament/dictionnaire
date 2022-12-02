@@ -1,0 +1,1 @@
+lar[65265]=`<font color="purple">[ᾰ]</font> <i>adv</i>., nulle part, <i>sans mouv</i>. PLUT. <i>M. 360a ;</i> LUC. <i>Herm. 31</i>.<p><b>Étym</b>. μηδαμός, -θι.`

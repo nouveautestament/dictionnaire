@@ -1,0 +1,1 @@
+lar[105619]=`<b>φιλ·ήνεμος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui aime le vent, exposé au vent, venté, <i>en parl. d’un arbre,</i> PLUT. <i>M. 676a.</i><br><b>      2</b> qui aime le vent <i>ou</i> le souffle de l’air, <i>en parl. d’une flûte,</i> ANTH. <i>6, 92</i>.<p><b>Étym</b>. φ. ἄνεμος.`

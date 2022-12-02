@@ -1,0 +1,1 @@
+lar[16046]=`<b>ἀσπιδό·δηκτος, ος, ον</b> <font color="purple">[ῐ]</font> mordu par un aspic, DIOSC. <i>2, 36</i>.<p><b>Étym</b>. ἀσπίς, δάκνω.`

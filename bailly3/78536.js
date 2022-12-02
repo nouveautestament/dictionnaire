@@ -1,0 +1,1 @@
+lar[78536]=`<b>περι·διώκω</b>, poursuivre de tous côtés, STR. <i>259</i> ; SEXT. <i>M. 1, 227</i>.`

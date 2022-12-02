@@ -1,0 +1,1 @@
+lar[39212]=`<b>ἐπι·συλλέγω</b>, rassembler en outre <i>ou</i> ensuite, HPC. <i>Off. 744</i> ; JOS. <i>A.J. 3, 5, 7</i> ; DIOSC. <i>4, 157</i>.`

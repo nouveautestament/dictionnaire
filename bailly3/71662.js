@@ -1,0 +1,1 @@
+lar[71662]=`<b>ατος (τὸ)</b> tache, souillure, SYN. <i>182d</i>.<p><b>Étym</b>. ὀμόργνυμι.`

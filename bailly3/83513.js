@@ -1,0 +1,1 @@
+lar[83513]=`<b>προ·αισθάνομαι</b> <font color="darkgreen">(<i>f</i>. -αισθήσομαι, <i>ao.2</i> προῃσθόμην, <i>etc</i>.)</font> pressentir, comprendre <i>ou</i> être informé d’avance, avoir vent de, <i>acc</i>. THC. <i>3, 38 ; 5, 28</i> ; XÉN. <i>An. 1, 1, 7, etc. ; gén</i>. THC. <i>3, 102</i>.`

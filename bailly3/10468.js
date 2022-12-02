@@ -1,0 +1,1 @@
+lar[10468]=`<b>ἀντι·σφήν, ῆνος (ὁ)</b> coin en sens contraire, contre-coin, PHIL. BYZ. <i>Bel. 67</i>.`

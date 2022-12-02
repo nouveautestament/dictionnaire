@@ -1,0 +1,1 @@
+lar[28366]=`<b>δυσ·εκφύκτως</b>, <i>adv</i>., de manière à échapper difficilement, à ne pouvoir s’échapper, A. PL. <i>4, 198</i>.<p><b>Étym</b>. <i>cf</i>. δυσέκφευκτος.`

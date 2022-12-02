@@ -1,0 +1,1 @@
+lar[77817]=`<b>ίδος</b>, <i>adj. f</i>. de Pellènè, ANTH. <i>App. 68</i>.<p><b>Étym</b>. Πελλήνη.`

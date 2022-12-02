@@ -1,0 +1,1 @@
+lar[86889]=`<b>προ·ϋποστρώννυμι</b>, étendre auparavant dessous, GEOP. <i>4, 15, 5</i>.`

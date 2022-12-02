@@ -1,0 +1,1 @@
+lar[76461]=`<b>παρα·χειμάζω</b>, passer l’hiver qqe part, hiverner, DÉM. <i>909, 14 ; 1293, 4</i> ; HYPÉR. (PHOT.) ; PLUT. <i>Sert. 3, etc</i>.`

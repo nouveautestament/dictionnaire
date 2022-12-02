@@ -1,0 +1,1 @@
+lar[35952]=`<b>ἑξ·ῆμαρ</b>, <i>adv</i>., pendant six jours, OD. <i>10, 80 ; 14, 249</i>.<p><b>Étym</b>. ἕξ, ἦμαρ.`

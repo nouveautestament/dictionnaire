@@ -1,0 +1,1 @@
+lar[58395]=`<font color="purple">[ῠ]</font> <i>adv</i>., comme un pilote, D. CHR. <i>v. 1, p. 150</i>.`

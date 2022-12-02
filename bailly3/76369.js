@@ -1,0 +1,1 @@
+lar[76369]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> reproduction grossière <i>ou</i> imparfaite d’une image, PLUT. <i>M. 404c</i>.<p><b>Étym</b>. παρατυπόω.`

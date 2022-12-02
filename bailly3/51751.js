@@ -1,0 +1,1 @@
+lar[51751]=`<b>καρδιο·γνώστης, ου</b>, <i>adj. m</i>. qui connaît le fond des cœurs, NT. <i>Ap. 1, 24</i> ; CLÉM. <i>Str. 2, 13, § 56</i>.<p><b>Étym</b>. κ. γιγνώσκω.`

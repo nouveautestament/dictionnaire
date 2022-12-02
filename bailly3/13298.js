@@ -1,0 +1,1 @@
+lar[13298]=`<b>ἀπό·σιτος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui n’a rien mangé, PHILONID. (ATH. <i>247e</i>).<br><b>      2</b> qui s’abstient de manger, LUC. <i>H. conscr. 21, etc.</i><br><b>      3</b> qui a le dégoût des aliments, HPC. <i>940h ;</i> EL. <i>N.A. 6, 12</i>.<p><b>Étym</b>. ἀ. σῖτος.`

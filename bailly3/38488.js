@@ -1,0 +1,1 @@
+lar[38488]=`<b>ἐπι·μυρίζω</b> <font color="purple">[ῠ]</font> oindre de parfums, <i>dat</i>. TH. <i>Od. 45</i>.`

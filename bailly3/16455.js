@@ -1,0 +1,1 @@
+lar[16455]=`<b>ἀ·σύμμικτος, ος, ον</b>, qui ne peut être mêlé, incompatible, DH. <i>Comp. 22</i>.<p><b>Étym</b>. ἀ, συμμίγνυμι.`

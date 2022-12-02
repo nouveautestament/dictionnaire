@@ -1,0 +1,1 @@
+lar[26588]=`<i>ou</i> <b>δικτατορεία, ας (ἡ)</b> <font color="purple">[τᾱ]</font> dictature, <i>à Rome,</i> DH. <i>2, 1022, 1091 Reiske</i> ; PLUT. <i>M. 318c ;</i> DC. <i>43, 14</i>.<p><b>Étym</b>. δικτάτωρ.`

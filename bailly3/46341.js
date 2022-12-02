@@ -1,0 +1,1 @@
+lar[46341]=`<b>ου (ἡ)</b> <font color="purple">[ά]</font> Thasos (<i>auj</i>. Thásos) <i>î. et v. de la mer Égée,</i> HDT. <i>2, 44 ; 6, 47</i>.`

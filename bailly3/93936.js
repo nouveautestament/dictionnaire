@@ -1,0 +1,1 @@
+lar[93936]=`<b>συμ·μελαίνω</b>, rendre complètement noir, PLUT. <i>M. 587c ; fig</i>. NAZ. <i>1, 1006 Migne</i>.`

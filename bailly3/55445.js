@@ -1,0 +1,1 @@
+lar[55445]=`<b>*κίκω</b> (<i>seul. ao.1</i> ἔκιξα) mettre en route, faire aller, ANTH. <i>15, 27</i>.<p><b>Étym</b>. <i>cf</i>. ἀποκίκω.`

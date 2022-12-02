@@ -1,0 +1,1 @@
+lar[108772]=`<b>χορ·αύλης, ου (ὁ)</b> joueur de flûte qui accompagne un chœur de danse, PLUT. <i>Ant. 24</i> ; ANTH. <i>11, 11, etc</i>.<p><b>Étym</b>. χορός, αὐλέω.`

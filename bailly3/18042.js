@@ -1,0 +1,1 @@
+lar[18042]=`<b>ἀφθάω-ῶ</b>, <i>f</i>. ήσω, souffrir d’aphthes, avoir des aphthes, HPC. <i>478, 25 ; 581, 31 ; 584, 43, etc.</i> ; GAL. <i>13, 624</i>.<p><b>Étym</b>. ἄφθα.`

@@ -1,0 +1,1 @@
+lar[91046]=`<b>(ἡ)</b> <i>mot érétrien, c</i>. σκληρότης PLAT. <i>Crat. 434c</i>.`

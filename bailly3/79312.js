@@ -1,0 +1,1 @@
+lar[79312]=`<i>att</i>. <b>περιττάκις</b> <font color="purple">[ᾰ]</font> <i>adv</i>., un nombre de fois impair, PLAT. <i>Parm. 144a ;</i> PLUT. <i>M. 744a, etc</i>.<p><b>Étym</b>. περισσός.`

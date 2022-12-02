@@ -1,0 +1,1 @@
+lar[43967]=`<b>εως (ἡ)</b> <i>litt</i>. action d’arrêter, <i>d’où</i> :<br><b>      1</b> prétexte, excuse, AR. <i>Vesp. 338</i>.<br><b>      2</b> <i>c</i>. ἐποχή, dans la doctrine des sceptiques, NAZ. <i>2, 201c Migne</i>.<p><b>Étym</b>. ἐπέχω.`

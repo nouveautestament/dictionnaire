@@ -1,0 +1,1 @@
+lar[74065]=`<b>ου (τὸ)</b> approvisionnement de vivres <i>ou</i> d’argent, MÉN. <i>4, 320 Meineke ; particul</i>. solde en nature <i>ou</i> en argent à une armée, POL. <i>1, 67, 1, etc. ; au pl</i>. POL. <i>3, 25, 4 ; fig</i>. NT. <i>Rom. 6, 24</i>.<p><b>Étym</b>. ὀψωνία.`

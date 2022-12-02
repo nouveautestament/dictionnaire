@@ -1,0 +1,1 @@
+lar[102112]=`<b>ὑπ·εκκαίω</b>, <i>att</i>. <b>ὑπ·εκκάω</b>, allumer par-dessous <i>ou</i> tout doucement, TH. <i>Ign. 63 ; fig</i>. PLUT. <i>Dio. 22, M. 616e ;</i> LUC. <i>Per. 26 ; au pass</i>. LUC. <i>Dips. 9</i>.`

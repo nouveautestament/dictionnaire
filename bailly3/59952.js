@@ -1,0 +1,1 @@
+lar[59952]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> taillé dans la pierre, STR. <i>670, 763</i>.<br><b>      2</b> taillé, <i>en parl. de pierres,</i> SPT. <i>4Reg. 12, 12</i>.<p><b>Étym</b>. λατομέω.`

@@ -1,0 +1,1 @@
+lar[29011]=`<b>ή, όν</b>, d’un caractère difficile, irascible, M. ANT. <i>1, 8</i>.<p><b>Étym</b>. δυσχεραίνω.`

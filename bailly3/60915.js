@@ -1,0 +1,1 @@
+lar[60915]=`<b>λιβανο·φόρος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui produit (<i>propr</i>. qui porte) de l’encens, ATH. <i>517b ;</i> DIOSC. <i>1, 81</i>.<p><b>Étym</b>. λίβανος, φέρω.`

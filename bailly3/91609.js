@@ -1,0 +1,1 @@
+lar[91609]=`<b>1</b> <i>gén. de</i> σύ <i>et de</i> σός ; <i>comme gén. de</i> σύ, <i>il est enclitique et peut s’écrire sans accent.</i><br><b>2</b> <i>v</i>. σεύω.<br><b>3</b> <i>v</i>. σόος².`

@@ -1,0 +1,1 @@
+lar[66583]=`<b>ας (ἡ)</b> ensemble unique, non formé de parties, CHRYS. <i>5, 791</i>.<p><b>Étym</b>. μονομερής.`

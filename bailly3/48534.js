@@ -1,0 +1,1 @@
+lar[48534]=`<b>ου (ὁ)</b> <font color="purple">[ῑτ]</font> <i>s.-e</i>. λίθος, pierre précieuse de la couleur de l’épervier, PLIN. <i>H.N. 37, 60</i>.<p><b>Étym</b>. ἱέραξ.`

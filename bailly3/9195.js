@@ -1,0 +1,1 @@
+lar[9195]=`<b>ατος (τὸ)</b> ouverture, porte, SPT. <i>3Reg. 14, 6</i>.<p><b>Étym</b>. ἀνοίγω.`

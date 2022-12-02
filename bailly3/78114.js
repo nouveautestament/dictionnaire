@@ -1,0 +1,1 @@
+lar[78114]=`<b>πεντέ·χαλκον, ου (τὸ)</b> pièce de cinq χαλκοῖ, ARISTOPHONT. (<i>Com. fr. 3, 356</i>).`

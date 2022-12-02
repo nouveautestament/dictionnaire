@@ -1,0 +1,1 @@
+lar[24418]=`<font color="purple">[μᾰ]</font> (<i>seul. ao. 3 pl</i>. διεβημάτισαν) marcher, AQU. <i>2Reg. 6, 13</i>.<p><b>Étym</b>. διάβημα.`

@@ -1,0 +1,1 @@
+lar[19143]=`<b>βαρύ·ζηλος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la jalousie est terrible (<i>litt</i>. pèse lourdement) LYC. <i>57</i> ; ANTH. <i>5, 243 ; etc</i>.<p><b>Étym</b>. β. ζῆλος.`

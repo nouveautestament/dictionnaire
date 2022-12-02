@@ -1,0 +1,1 @@
+lar[43754]=`<b>ης (ἡ)</b> la bienveillante, la bienfaisante, <i>càd</i>. la nuit, HÉS. <i>O. 558</i> ; PD. <i>N. 7, 4</i> ; HDT. <i>7, 12</i> ; HPC. <i>588, 42</i> ; ἄστρων εὐφρόνη, SOPH. <i>El. 19,</i> la nuit étoilée ; εὐφρόνης, ANAXIM. (DL. <i>2, 4</i>) ; κατ' εὐφρόνην, ESCHL. <i>Pers. 221</i> ; SOPH. <i>El. 259,</i> pendant la nuit.<p><b>Étym</b>. εὔφρων.`

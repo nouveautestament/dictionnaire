@@ -1,0 +1,1 @@
+lar[69067]=`<b>ος, ον</b>, de la nouvelle lune, du premier jour du mois, LUC. <i>Lex. 6</i>.<p><b>Étym</b>. νουμηνία.`

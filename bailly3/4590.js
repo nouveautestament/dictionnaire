@@ -1,0 +1,1 @@
+lar[4590]=`<b>ἀλί·τροπος, ος, ον</b> <font color="purple">[ᾰ]</font> errant, incertain, Ps.-PHOCYL. <i>141 conj</i>.<p><b>Étym</b>. ἀλάομαι, τρέπω.`

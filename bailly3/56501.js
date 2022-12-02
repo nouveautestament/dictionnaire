@@ -1,0 +1,1 @@
+lar[56501]=`<b>ου (ὁ)</b> = <i>lat</i>. Quintus, <i>n. d’h. rom</i>. PLUT. <i>Pyrrh. 21, etc</i>.`

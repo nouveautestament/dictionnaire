@@ -1,0 +1,1 @@
+lar[50344]=`<b>εως (ἡ)</b> action d’arrêter, <i>d’où</i> :<br><b>      1</b> action de retenir, de conserver (le pouvoir, le souvenir de qqe ch. <i>etc</i>.) THC. <i>3, 47</i> ; PLUT. <i>M. 968c.</i><br><b>      2</b> action d’intercepter, ARSTT. <i>Somn. 2, 17 ; ou</i> de contenir, de réprimer, ARSTT. <i>Eud. 2, 7, 8</i>.<p><b>Étym</b>. κατέχω.`

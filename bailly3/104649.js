@@ -1,0 +1,1 @@
+lar[104649]=`<b>ης (ἡ)</b> Phædymè, <i>fille de Cambyse,</i> HDT. <i>3, 68, 69</i>.`

@@ -1,0 +1,1 @@
+lar[79578]=`<b>περιφερό·γραμμος, ος, ον</b>, entouré d’une ligne circulaire, ARSTT. <i>Cæl. 2, 4, 1</i> ; STR. <i>210</i>.<p><b>Étym</b>. περιφερής, γραμμή.`

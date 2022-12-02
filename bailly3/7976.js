@@ -1,0 +1,1 @@
+lar[7976]=`<font color="purple">[ρᾰᾰθ]</font> <i>c</i>. ἀνδραγαθέω (<i>seul. prés</i>. THC. <i>2, 63 ; 3, 40, et inf. ao</i>. -ίσασθαι, APP. <i>Civ. 5, 101</i>).`

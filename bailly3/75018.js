@@ -1,0 +1,1 @@
+lar[75018]=`<b>παν·ευφυῶς</b> <font color="purple">[ᾰ]</font> <i>adv</i>., avec une beauté parfaite, EUM. <i>2, 6</i>.<p><b>Étym</b>. π. εὐφυής.`

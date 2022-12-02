@@ -1,0 +1,1 @@
+lar[17608]=`<b>Αὐτο·νόη, ης (ἡ)</b> Autonoè :<br><b>      1</b> <i>servante de Pénélope,</i> OD. <i>18, 182</i>.<br><b>      2</b> <i>n. de f. myth</i>. HÉS. <i>Th. 258, 977</i> ; ANTH. <i>etc</i>.<p>➳ <i>Dor</i>. Αὐτονόα, THCR. <i>Idyl. 26, 1, (par crase</i> καὐτονόα).<p><b>Étym</b>. <i>fém. de</i> Αὐτόνοος.`

@@ -1,0 +1,1 @@
+lar[77213]=`<b>παρ·ώρειος, ος, ον</b>, situé le long d’une montagne <i>ou</i> d’une chaîne de montagnes, STR. <i>576</i>.<p><b>Étym</b>. π. ὄρος.`

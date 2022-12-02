@@ -1,0 +1,1 @@
+lar[57158]=`<b>ιδος (ἡ)</b> <font color="purple">[ῠῠ]</font> <i>c</i>. κορυδαλλίς, NUMÉN. (ATH. <i>304e</i>).`

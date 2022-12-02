@@ -1,0 +1,1 @@
+lar[56186]=`(<i>prés. et impf</i>. ἔκλωζον) :<br><b>      1</b> glousser, CLÉM. <i>83</i>.<br><b>      2</b> <i>p. anal. en mauv. part,</i> huer qqn, DÉM. <i>586, 17</i> ; ALCIPHR. <i>3, 71, etc</i>.<p><b>Étym</b>. <i>onomatopée, cf</i>. κλάζω.`

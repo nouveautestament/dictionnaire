@@ -1,0 +1,1 @@
+lar[96957]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> petit marteau, maillet, TH. <i>H.P. 5, 7, 8</i> ; PHIL. BYZ. <i>Bel. 65d ;</i> ORIB. <i>p. 94, 18 Cocch</i>.<p><b>Étym</b>. σφῦρα.`

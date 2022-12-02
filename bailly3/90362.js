@@ -1,0 +1,1 @@
+lar[90362]=`<b>σιναπ·έλαιον, ου (τὸ)</b> <font color="purple">[ῐᾱ]</font> huile de sénevé, DIOSC. <i>1, 47</i>.<p><b>Étym</b>. σίναπι, ἔ.`

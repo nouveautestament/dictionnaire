@@ -1,0 +1,1 @@
+lar[74786]=`<b>α, ον</b> <font color="purple">[ῡ]</font> de Pamphylie, ARSTT. <i>Mund. 3</i> ; STR. <i>670, etc.</i> ; οἱ Παμφύλιοι, DP. <i>127, etc</i>. les Pamphyliens.<p>➳ <font color="purple">[ῠ]</font> THCR. <i>Idyl. 17, 88</i>.<p><b>Étym</b>. Παμφυλία.`

@@ -1,0 +1,1 @@
+lar[32200]=`<i>adv</i>., d’une manière étrange, extraordinaire, ARSTT. <i>Mir. 37</i> ; POL. <i>32, 7, 8, etc</i>.`

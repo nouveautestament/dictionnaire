@@ -1,0 +1,1 @@
+lar[88840]=`<b>ου (τὸ)</b> <i>dim. de</i> ῥύγχος AR. <i>Ach. 774</i> ; THÉOPHILE COM. <i>3, 629</i>.`

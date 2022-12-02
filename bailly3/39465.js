@@ -1,0 +1,1 @@
+lar[39465]=`<b>ἐπι·τραγία, ας (ἡ)</b> <font color="purple">[ᾰγ]</font> <i>adj. f</i>. la déesse au bouc, <i>surnom d’Aphrodite, pour avoir changé une chèvre en bouc,</i> PLUT. <i>Thes. 18</i>.<p><b>Étym</b>. ἐπί, τράγος.`

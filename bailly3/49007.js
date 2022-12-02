@@ -1,0 +1,1 @@
+lar[49007]=`<b>ἱμονιο·στρόφος, ος, ον</b> <font color="purple">[ῐμ]</font> qui tire la corde du puits, AR. <i>Ran. 1297</i>.<p><b>Étym</b>. ἱμονιά, στρέφω.`

@@ -1,0 +1,1 @@
+lar[110289]=`<b>ας (ἡ)</b> accouchement avant terme, <i>d’où</i> avortement, PTOL. <i>Tetr. 149</i>.<p><b>Étym</b>. ὠμοτόκος.`

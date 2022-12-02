@@ -1,0 +1,1 @@
+lar[20575]=`<i>gén. pl. de</i> βοῦς <i>et part. prés. de</i> βοάω.`

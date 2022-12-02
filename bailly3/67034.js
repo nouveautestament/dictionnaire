@@ -1,0 +1,1 @@
+lar[67034]=`(<i>act. seul. prés. et ao., et moy. seul. prés.) c</i>. μυθέομαι.<p>➳ <i>Prés. part. fém. dor</i>. μυθίζοισα, THCR. <i>Idyl. 20, 11 ; inf</i>. μυθίσδεν, THCR. <i>Idyl. 10, 58 ; lacon. prés. ind</i>. μυσίδδω, AR. <i>Lys. 94, 1076 ; ao. inf</i>. μυσίξαι, AR. <i>Lys. 981</i>.`

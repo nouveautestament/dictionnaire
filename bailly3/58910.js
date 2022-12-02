@@ -1,0 +1,1 @@
+lar[58910]=`être dans sa fleur, <i>en parl. de l’olive et de la vigne,</i> SPT. <i>Cant. 2, 13, etc</i>.<p><b>Étym</b>. Κύπρις.`

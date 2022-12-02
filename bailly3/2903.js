@@ -1,0 +1,1 @@
+lar[2903]=`<b>αἰσχρό·μητις, ιος (ὁ, ἡ)</b> qui donne de honteux conseils, ESCHL. <i>Ag. 215</i>.<p><b>Étym</b>. αἰ. μῆτις.`

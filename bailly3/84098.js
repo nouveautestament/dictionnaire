@@ -1,0 +1,1 @@
+lar[84098]=`<b>προ·εκπληρόω-ῶ</b>, accomplir auparavant, BAS.`

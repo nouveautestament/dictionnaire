@@ -1,0 +1,1 @@
+lar[34469]=`<b>ἐν·ῆμαι</b> (<i>sans autres temps</i>) être assis <i>ou</i> établi dans <i>ou</i> sur, <i>abs</i>. OD. <i>4, 272</i> ; THCR. <i>Idyl. 22, 44 ; avec le dat</i>. EUR. <i>fr. 793</i>.`

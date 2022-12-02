@@ -1,0 +1,1 @@
+lar[22939]=`<b>ων (τὰ)</b> les Dædales, <i>fête à Platées,</i> PAUS. <i>9, 3, 2 et 3 ; etc</i>.`

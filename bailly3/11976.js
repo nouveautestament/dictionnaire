@@ -1,0 +1,1 @@
+lar[11976]=`<b>ἀ·πίμελος, ος, ον</b> <font color="purple">[ῑ]</font> sans graisse, DIOCL. (ATH. <i>116e</i>).<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>P.A. 3, 9, 14, etc. ; • Sup</i>. -ώτατος, ARSTT. <i>H.A. 3, 17, 3</i>.<p><b>Étym</b>. ἀ, πιμελή.`

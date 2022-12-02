@@ -1,0 +1,1 @@
+lar[2187]=`<b>ω (ὁ)</b> HDT. <i>8, 80, ou</i> τὸ Αἰγάλεων ὄρος, THC. <i>2, 19,</i> l’Ægalée, <i>colline entre Athènes et Éleusis</i>.`

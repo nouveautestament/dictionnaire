@@ -1,0 +1,1 @@
+lar[16476]=`<b>ας (ἡ)</b> manque d’accord, dissonance, PLAT. <i>Leg. 861a ;</i> PLUT.<p><b>Étym</b>. ἀσύμφωνος.`

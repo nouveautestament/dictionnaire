@@ -1,0 +1,1 @@
+lar[72200]=`<b>ὀξυωπέω-ῶ</b>, avoir la vue perçante, TH. <i>Sens. 8</i> ; CLÉM. <i>113</i>.<p><b>Étym</b>. ὀξυωπής.`

@@ -1,0 +1,1 @@
+lar[464]=`<b>ἀγελαρχέω-ῶ</b> <font color="purple">[ᾰγ]</font> être la première des maîtresses (de l’empereur) PLUT. <i>Galb. 17</i>.<p><b>Étym</b>. ἀγελάρχης.`

@@ -1,0 +1,1 @@
+lar[34217]=`<font color="purple">[ᾰ]</font> <i>adv</i>., ἐ. ἔχειν περί τινος, JOS. <i>A.J. 16, 10, 4,</i> être en doute sur qqe ch.`

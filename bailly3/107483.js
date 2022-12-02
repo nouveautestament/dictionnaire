@@ -1,0 +1,1 @@
+lar[107483]=`<b>ιδος (ὁ)</b> <font color="purple">[ῐδ]</font> Khæris :<br><b>      1</b> <i>mauvais joueur de flûte,</i> AR. <i>Ach. 16, Pax 951, Av. 858</i>.<br><b>      2</b> <i>autre,</i> ANTH. <i>7, 435</i>.<p><b>Étym</b>. χαίρω.`

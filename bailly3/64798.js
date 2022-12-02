@@ -1,0 +1,1 @@
+lar[64798]=`<b>ας (ἡ)</b> <i>c</i>. Μετέλλα, fille de Métellus, PYTHOCL. (PLUT. <i>Parall. min. 14</i>).`

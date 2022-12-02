@@ -1,0 +1,1 @@
+lar[63767]=`<b>μελαγ·κρήδεμνος, ος, ον</b>, à bandeau noir, P. SIL. <i>Ecphr. ag. Soph. 905</i> ; NONN. <i>Jo. 6, 17</i>.<p><b>Étym</b>. μ. κρήδεμνον.`

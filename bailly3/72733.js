@@ -1,0 +1,1 @@
+lar[72733]=`<b>ὀρθο·πλήξ, ῆγος (ὁ, ἡ)</b> qui se cabre, qui se redresse, AR. <i>fr. 136</i>.<p><b>Étym</b>. ὀ. πλήσσω.`

@@ -1,0 +1,1 @@
+lar[4004]=`<b>ἀ·κώμαστος, ος, ον</b>, qui ne fait pas d’orgies, LIB. <i>4, 158</i>.<p><b>Étym</b>. ἀ, κωμάζω.`

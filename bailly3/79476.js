@@ -1,0 +1,1 @@
+lar[79476]=`<b>περι·τελέω-ῶ</b>, achever, accomplir, HÉS. <i>Th. 59</i>.`

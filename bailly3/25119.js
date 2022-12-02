@@ -1,0 +1,1 @@
+lar[25119]=`<b>δια·νάττω</b>, bonder (des navires) STR. <i>195</i>.`

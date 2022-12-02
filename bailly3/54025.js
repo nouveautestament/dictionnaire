@@ -1,0 +1,1 @@
+lar[54025]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de descendre, descente, ANTH. <i>10, 3</i>.<br><b>      2</b> retour, DS. <i>12, 75</i>.<p><b>Étym</b>. κατελεύσομαι.`

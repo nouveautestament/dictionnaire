@@ -1,0 +1,1 @@
+lar[62581]=`<b>μακρό·χειρ, -χειρος (ὁ, ἡ)</b> aux longues mains, <i>surn. d’un Artaxerxès,</i> STR. <i>735</i> ; PLUT. <i>Artax. commenc</i>.<p><b>Étym</b>. μ. χείρ.`

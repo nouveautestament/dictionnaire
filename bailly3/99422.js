@@ -1,0 +1,1 @@
+lar[99422]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> adversité, malheur, vie misérable, HH. <i>Ap. 191 au plur.</i><br><b>      2</b> patience dans l’adversité, courage, résignation, ARCHIL. <i>8, 6</i> ; PLUT. <i>Crass. 26 etc</i>.<p><b>Étym</b>. τλήμων.`

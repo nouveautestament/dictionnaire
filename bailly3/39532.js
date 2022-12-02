@@ -1,0 +1,1 @@
+lar[39532]=`<b>ἐπι·τύμβιος, ος, ον</b>, qui est <i>ou</i> se fait sur un tombeau, ESCHL. <i>Ch. 335, etc.</i> ; SOPH. <i>Ant. 901</i> ; ANTH. <i>7, 604, 657</i> ; A. PL. <i>5, 368</i> ; Ἀφροδίτη Ἐπιτυμβία, (<i>au lieu de</i> -ιος) PLUT. <i>M. 269b</i> = <i>lat</i>. Venus Libitina, <i>à Rome</i>.<p><b>Étym</b>. ἐπί, τύμβος.`

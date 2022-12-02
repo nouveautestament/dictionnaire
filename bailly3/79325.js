@@ -1,0 +1,1 @@
+lar[79325]=`<b>περισσό·κομος, ος, ον</b>, à la chevelure abondante, OPP. <i>C. 3, 317</i>.<p><b>Étym</b>. π. κόμη.`

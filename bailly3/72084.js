@@ -1,0 +1,1 @@
+lar[72084]=`<b>ὀξύ·δουπος, ος, ον</b> <font color="purple">[ῠ]</font> au bruit aigu, ANTH. <i>6, 94</i>.<p><b>Étym</b>. ὀ. δοῦπος.`

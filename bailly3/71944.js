@@ -1,0 +1,1 @@
+lar[71944]=`<b>ὀνό·βρυχις, ιδος (ἡ)</b> <font color="purple">[ῠ]</font> sainfoin, <i>plante,</i> DIOSC. <i>3, 170</i> ; GAL. <i>13, 215</i>.<p><b>Étym</b>. ὄνος, βρύχω.`

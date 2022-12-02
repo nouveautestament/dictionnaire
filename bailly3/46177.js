@@ -1,0 +1,1 @@
+lar[46177]=`<b>θαλασσό·τοκος, ος, ον</b> <font color="purple">[θᾰ]</font> né dans la mer <i>ou</i> de la mer, NONN. <i>D. 39, 341</i>.<p><b>Étym</b>. θ. τίκτω.`

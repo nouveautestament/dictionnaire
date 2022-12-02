@@ -1,0 +1,1 @@
+lar[29925]=`<b>ἐγ·χραύω</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐνέχραυε)</font> asséner sur, <i>avec</i> ἐς <i>et l’acc</i>. HDT. <i>6, 75</i>.<p><b>Étym</b>. ἐν, χρ.`

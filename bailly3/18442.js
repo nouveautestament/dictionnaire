@@ -1,0 +1,1 @@
+lar[18442]=`<font color="purple">[ᾰ]</font> (<i>seul. part. prés</i>.) être affligé, IL. <i>2, 724</i> ; OD. <i>15, 362</i> ; κῆρ ἀχέων, IL. <i>5, 399,</i> affligé dans son cœur ; ἀ. τινός, IL. <i>2, 694, etc.,</i> au sujet de qqn ; ἐπί τινι, A.RH. <i>3, 643,</i> au sujet de qqe ch.<p><b>Étym</b>. ἄχος ; <i>cf</i>. ἀχεύω.`

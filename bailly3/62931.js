@@ -1,0 +1,1 @@
+lar[62931]=`<b>(ὁ)</b> Marès :<br><b>      1</b> <i>sorte de Centaure italiote, demi-homme, demi-cheval,</i> EL. <i>V.H. 9, 16</i>.<br><b>      2</b> <i>autre,</i> EL. <i>N.A. 6, 7</i>.`

@@ -1,0 +1,1 @@
+lar[67180]=`<b>μυό·κοπρος, ου (ὁ)</b> crotte de rat, de souris, GAL. <i>14, 413</i>.<p><b>Étym</b>. μῦς, κόπρος.`

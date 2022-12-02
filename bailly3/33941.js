@@ -1,0 +1,1 @@
+lar[33941]=`<b>ἐν·αποθραύω</b>, briser dans, <i>dat</i>. PLUT. <i>Crass. 25</i>.`

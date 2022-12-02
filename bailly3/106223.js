@@ -1,0 +1,1 @@
+lar[106223]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Philtatos, <i>litt</i>. « bien-aimé », <i>h</i>. ANTH. <i>App. 287</i>.<p><b>Étym</b>. <i>v</i>. φίλτατος.`

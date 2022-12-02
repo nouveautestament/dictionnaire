@@ -1,0 +1,1 @@
+lar[49060]=`<b>οῦς, οῖ, ώ (ἡ)</b> Inô, <i>fille de Kadmos, divinité de la mer,</i> OD. <i>5, 333</i> ; HÉS. <i>Th. 976, etc</i>.`

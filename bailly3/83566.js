@@ -1,0 +1,1 @@
+lar[83566]=`<b>προ·αναπίπτω</b> <font color="darkgreen">(<i>f</i>. -αναπεσοῦμαι, <i>ao.2</i> -ανέπεσον, <i>etc</i>.)</font> tomber <i>ou</i> succomber auparavant, PHIL. <i>1, 154</i>.`

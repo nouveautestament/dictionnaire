@@ -1,0 +1,1 @@
+lar[15107]=`<b>ή, όν :<br>      1</b> masculin, mâle, LUC. <i>D. deor. 16, 1</i>.<br><b>      2</b> <i>t. de gr</i>. masculin, PLUT. <i>M. 1011c ;</i> PHIL. <i>1, 294, etc</i>.<p>➳ <i>Non att</i>. ἀρσενικός, CALL. <i>Epigr. 26</i> ; ANTH. <i>5, 116</i>.<p><b>Étym</b>. ἄρρην.`

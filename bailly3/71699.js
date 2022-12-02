@@ -1,0 +1,1 @@
+lar[71699]=`<b>ὁμο·στιχής, ής, ές</b> <font color="purple">[ῐ]</font> qui va avec, NONN. <i>Jo. 11, 41</i>.<p><b>Étym</b>. ὁμ. στίχος.`

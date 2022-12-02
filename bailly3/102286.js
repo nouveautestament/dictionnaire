@@ -1,0 +1,1 @@
+lar[102286]=`<b>ὑπερ·αποθνῄσκω</b>, mourir pour : τινός, XÉN. <i>Cyn. 1, 14, ou</i> ὑπέρ τινος, PLAT. <i>Conv. 208d</i>, pour qqn ; <i>abs</i>. PLAT. <i>Conv. 179b, 180a ;</i> ARSTT. <i>Pol. 9, 8, etc</i>.`

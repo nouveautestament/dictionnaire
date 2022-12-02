@@ -1,0 +1,1 @@
+lar[57788]=`<b>ος, ον :<br>      1</b> bon, utile, <i>en parl. de choses,</i> IL. <i>1, 106</i> ; HPC. <i>121g ; en parl. de pers</i>. PLAT. <i>1 Alc. 111e.</i><br><b>      2</b> vrai : τὸ κρ. la vérité, THCR. <i>Idyl. 20, 19 ; adv</i>. en vérité, ANTH. <i>5, 58</i>.<p>➳ <i>Fém</i>. -η, HÉRODAS <i>fr. 4</i>.<p><b>Étym</b>. <i>inconnue</i>.`

@@ -1,0 +1,1 @@
+lar[31459]=`<b>ἐκ·κναίω</b> (<i>3 pl. fut. dor</i>. ἐκκναισεῦντι) écorcher les oreilles (par un roucoulement continu) THCR. <i>Idyl. 15, 88</i>.`

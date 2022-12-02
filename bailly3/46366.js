@@ -1,0 +1,1 @@
+lar[46366]=`<i>adv</i>., avec un sentiment d’admiration, PHIL. <i>2, 95</i> ; θ. ἔχειν, PHIL. <i>1, 640 ; ou</i> διάκεισθαι, JOS. <i>A.J. 8, 9, 5,</i> être dans l’admiration de, <i>gén</i>.`

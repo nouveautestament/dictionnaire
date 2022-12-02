@@ -1,0 +1,1 @@
+lar[26236]=`<b>δι·εξοδεύω :<br>   I</b> s’ouvrir un passage à travers, s’échapper, HPC. <i>1027d.</i><br><b>   II <i>tr</i>.<br>      1</b> s’avancer à travers, poursuivre (un discours), <i>d’où</i> discuter, traiter, SEXT. <i>45, 15, etc. Bkk.</i> ; ORIG. <i>1, 941c, 1009a Migne</i>.<br><b>      2</b> suivre jusqu’au bout, <i>acc</i>. SIMPL. <i>Arstt. Phys. 118, 44</i>.`

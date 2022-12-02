@@ -1,0 +1,1 @@
+lar[70526]=`<b>ης (ἡ)</b> Œnoè :<br><b>   I</b> <i>n. de deux dèmes att.</i> :<br><b>      1</b> <i>dans la tribu Hippothoontide (auj</i>. Inói) HDT. <i>5, 74</i> ; THC. <i>2, 18, etc.</i><br><b>      2</b> <i>dans la tribu Æantide,</i> LUC. <i>Ic. 18</i>.<br><b>   II</b> <i>v. de Corinthie,</i> XÉN. <i>Hell. 4, 5, 5 et 19</i>.<p><b>Étym</b>. οἶνος.`

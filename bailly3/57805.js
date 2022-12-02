@@ -1,0 +1,1 @@
+lar[57805]=`(<i>seul. prés. et impf</i>. ἐκρημνάμην) être suspendu, ESCHL. <i>Sept. 229</i> ; EUR. <i>El. 1217</i> ; ATH. <i>585e ;</i> APP. <i>Civ. 1, 66</i>.<p>➳ <i>Part. dor. gén. pl. fém</i>. κρημναμέναν <font color="purple">[ᾰᾱ]</font> ESCHL. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. κρημνάω.`

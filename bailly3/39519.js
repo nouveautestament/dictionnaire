@@ -1,0 +1,1 @@
+lar[39519]=`<b>οῦ (ὁ)</b> flux de paroles brèves et précipitées, ALEXANDR. π. σχημ. <i>579</i>.<p><b>Étym</b>. ἐπιτροχάζω.`

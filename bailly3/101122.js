@@ -1,0 +1,1 @@
+lar[101122]=`<b>τυρέω-ῶ</b> <font color="purple">[ῡ]</font> faire du fromage, ALCM. <i>34, 6</i>.<p><b>Étym</b>. τυρός.`

@@ -1,0 +1,1 @@
+lar[88719]=`<b>Ῥοδο·χάρης (ὁ)</b> <font color="purple">[ᾰ]</font> Rhodokharès, <i>litt</i>. « qui aime les roses, » LUC. <i>Cat. 17</i>.<p><b>Étym</b>. ῥόδον, χαίρω.`

@@ -1,0 +1,1 @@
+lar[42847]=`<b>εὐ·οίκητος, ος, ον</b>, bon <i>ou</i> agréable à habiter, PHILOCH. <i>76</i> (HARP.).<p><b>Étym</b>. εὖ, οἰκέω.`

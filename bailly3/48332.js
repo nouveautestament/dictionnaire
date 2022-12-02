@@ -1,0 +1,1 @@
+lar[48332]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> Iakhè, <i>nymphe,</i> HH. <i>Cer. 419</i>.<p><b>Étym</b>. <i>pour</i> *Ϝιϝάχη, <i>cf</i>. ἰαχή.`

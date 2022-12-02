@@ -1,0 +1,1 @@
+lar[66529]=`<b>μονό·δουπος, ος, ον</b>, qui résonne seul <i>ou</i> qui n’a qu’un son, ANTH. <i>15, 27</i>.<p><b>Étym</b>. μ. δουπέω.`

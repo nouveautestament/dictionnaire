@@ -1,0 +1,1 @@
+lar[32490]=`<b>ῶνος (ὁ)</b> la Montagne des Oliviers, <i>près de Jérusalem,</i> NT. <i>Ap. 1, 12</i> ; JOS. <i>A.J. 7, 9, 2</i>.<p><b>Étym</b>. ἐλαία.`

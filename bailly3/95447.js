@@ -1,0 +1,1 @@
+lar[95447]=`<b>συν·ελέγχω</b>, <i>anc. att</i>. <b>ξυν·ελέγχω :<br>      1</b> convaincre en même temps, ARR. <i>An. 6, 29, 11</i>.<br><b>      2</b> démontrer en outre, DYSC. <i>Synt. p. 206, 7, etc</i>.`

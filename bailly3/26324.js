@@ -1,0 +1,1 @@
+lar[26324]=`<b>δι·ευρύνω</b>, dilater, élargir, HPC. <i>510, 6</i> ; ARSTT. <i>H.A. 8, 17 ; An. 2, 9, 13 ; etc.</i> ; GAL. <i>4, 515, etc</i>.`

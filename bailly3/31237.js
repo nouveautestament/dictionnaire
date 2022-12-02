@@ -1,0 +1,1 @@
+lar[31237]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action d’échapper, sortie, évasion, HDT. <i>3, 109</i>.<br><b>      2</b> endroit pour s’échapper, issue, sortie, HDT. <i>2, 121 ; fig</i>. moyen d’échapper, HDT. <i>8, 100, etc.</i> ; PLAT. <i>Crat. 426a</i>.<p>➳ <i>Nom. pl. ion</i>. ἐκδύσιες, MAN. <i>4, 331</i>.`

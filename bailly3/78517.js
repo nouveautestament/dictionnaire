@@ -1,0 +1,1 @@
+lar[78517]=`<b>περι·δέρκομαι</b>, jeter les yeux tout autour, de tous côtés, ANTH. <i>5, 289</i> ; NONN. <i>D. 22, 58</i>.`

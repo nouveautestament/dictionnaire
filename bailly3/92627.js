@@ -1,0 +1,1 @@
+lar[92627]=`<b>ου (τὸ)</b> cosmétique pour faire briller le teint, DIOSC. <i>1, 33</i>.<p><b>Étym</b>. στιλβόω.`

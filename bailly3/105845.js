@@ -1,0 +1,1 @@
+lar[105845]=`<b>φιλό·κνισος, ος, ον</b> <font color="purple">[ῐῐ]</font> qui aime à être frotté, chatouillé, ANTH. <i>11, 7</i>.<p><b>Étym</b>. φ. κνίζω.`

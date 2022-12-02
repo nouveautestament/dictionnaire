@@ -1,0 +1,1 @@
+lar[101391]=`<b>ὑγρο·βατέω-ῶ</b> <font color="purple">[ᾰ]</font> marcher dans l’humidité, vivre dans l’eau, ANTH. <i>9, 709 dout</i>.<p><b>Étym</b>. ὑγρός, βαίνω.`

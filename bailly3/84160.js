@@ -1,0 +1,1 @@
+lar[84160]=`<b>προ·ενίσταμαι</b>, placer d’avance sous les yeux, produire auparavant, ARSTT. <i>Soph. el. 15, 8</i>.`

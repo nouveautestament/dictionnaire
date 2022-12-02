@@ -1,0 +1,1 @@
+lar[51887]=`<b>καρπο·λόγος, ος, ον</b>, qui récolte des fruits, POLYEN <i>3, 10, 9</i>.<p><b>Étym</b>. κ. λέγω.`

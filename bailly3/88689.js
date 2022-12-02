@@ -1,0 +1,1 @@
+lar[88689]=`<b>ῥοδίτης οἶνος (ὁ)</b> <font color="purple">[ῑ]</font> vin parfumé de roses, DIOSC. <i>5, 35</i>.<p><b>Étym</b>. ῥόδον.`

@@ -1,0 +1,1 @@
+lar[65199]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> de la fin de l’automne, THC. <i>7, 87</i> ; XÉN. <i>Œc. 17, 2</i> ; ARSTT. <i>H.A. 5, 22 ; neutre adv</i>. μετοπωρινόν, HÉS. <i>O. 413,</i> vers la fin de l’automne.<p><b>Étym</b>. μετόπωρον.`

@@ -1,0 +1,1 @@
+lar[101530]=`<b>ὑδρια·φόρος, ος, ον</b> <font color="purple">[ᾱ]</font> qui porte des aiguières, AR. <i>Eccl. 738</i>.<p><b>Étym</b>. ὑδρία, φέρω.`

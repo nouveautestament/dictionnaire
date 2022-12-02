@@ -1,0 +1,1 @@
+lar[74861]=`<b>παν·άμμορος, ος, ον</b> <font color="purple">[ᾰν]</font> qui n’a aucune part à, tout à fait privé de, <i>gén</i>. ANTH. <i>14, 125</i>.<p><b>Étym</b>. π. ἄμμορος.`

@@ -1,0 +1,1 @@
+lar[4097]=`<b>(ὁ)</b> <font color="purple">[ᾰλῐ]</font> le fils d’Alastôr (Iros) IL. <i>20, 463</i>.<p><b>Étym</b>. Ἀλάστωρ.`

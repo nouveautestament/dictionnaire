@@ -1,0 +1,1 @@
+lar[10938]=`<b>ἀξιό·ποινος, ος, ον</b>, qui châtie justement, PAUS. <i>3, 15, 6</i>.<p><b>Étym</b>. ἄ. ποινή.`

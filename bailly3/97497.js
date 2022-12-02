@@ -1,0 +1,1 @@
+lar[97497]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> Tanagra, <i>v. de Béotie,</i> HDT. <i>9, 15, etc.</i> ; THC. <i>3, 91, etc.</i> ; XÉN. <i>Hell. 5, 4, 49, etc</i>.<p>➳ <i>Gén. ion</i>. -ης, HDT. <i>9, 43, etc. ; dat. ion</i>. -ῃ, HDT. <i>9, 15 et 35 ; mais acc</i>. -αν HDT. <i>9, 15</i>.`

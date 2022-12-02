@@ -1,0 +1,1 @@
+lar[94337]=`<b>ή, όν</b>, qui vient au secours de, qui aide, PTOL. <i>Tetr. p. 51</i>.<p><b>Étym</b>. συμπράσσω.`

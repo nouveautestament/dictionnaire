@@ -1,0 +1,1 @@
+lar[38911]=`<b>ἐπι·ρροφάνω</b> <font color="purple">[ᾰ]</font> <i>(seul. prés.) c</i>. ἐπιρροφέω HPC. <i>534, 51</i>.<p><b>Étym</b>. ἐπί, ῥοφέω.`

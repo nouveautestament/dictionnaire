@@ -1,0 +1,1 @@
+lar[17606]=`<b>αὐτό·μορφος, ος, ον</b>, qui s’est formé soi-même, naturel, EUR. <i>fr. 124</i>.<p><b>Étym</b>. αὐ. μορφή.`

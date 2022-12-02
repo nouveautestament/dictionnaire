@@ -1,0 +1,1 @@
+lar[86907]=`<b>ης (ἡ)</b> Prousa (Pruse) <i>v. de Bithynie,</i> ANTH. <i>9, 676, etc</i>.`

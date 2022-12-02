@@ -1,0 +1,1 @@
+lar[50829]=`<b>κακο·πραγία, ας (ἡ)</b> <font color="purple">[ᾰᾱγ]</font><br><b>      1</b> <i>pass</i>. mauvais succès, malheur, THC. <i>2, 60</i> ; ARSTT. <i>Pol. 4, 11</i> ; ARSTT. <i>Rhet. 2, 9, 1</i>.<br><b>      2</b> <i>act</i>. malfaisance, méchanceté, <i>joint à</i> πανουργία, ARTÉM. <i>4, 63</i>.<p><b>Étym</b>. κ. πράσσω.`

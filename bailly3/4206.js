@@ -1,0 +1,1 @@
+lar[4206]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> poule, AR. <i>Nub. 667</i>.<p><b>Étym</b>. <i>fém. de</i> ἀλεκτρυών, <i>p. anal. avec</i> λέαινα, ὕαινα, <i>etc</i>.`

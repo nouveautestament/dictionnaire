@@ -1,0 +1,1 @@
+lar[896]=`<b>άδος :<br>      1</b> <i>adj. f</i>. sauvage, A.RH. <i>1, 28</i> ; ANTH. <i>9, 561, etc.</i><br><b>      2</b> <i>subst. (s.-e</i>. ἄμπελος) vigne sauvage, OPP. <i>C. 3, 139</i>.<p><b>Étym</b>. ἄγριος.`

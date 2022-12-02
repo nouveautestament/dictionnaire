@@ -1,0 +1,1 @@
+lar[92201]=`<b>ατος (τὸ)</b> clôture de pieux, palissade, THC. <i>5, 10 ; 6, 64, 74</i> ; XÉN. <i>Hell. 3, 2, 3, etc</i>.<p><b>Étym</b>. σταυρόω.`

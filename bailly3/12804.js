@@ -1,0 +1,1 @@
+lar[12804]=`<b>ου (ὁ)</b> Apollônios (Apollonius) <i>h. ; particul</i>. A. de Rhodes, <i>poète épique</i> ; A. de Tyane, <i>philosophe pythagoricien</i> ; A. Dyscole, <i>grammairien</i> ; A. de Pergé, <i>mathématicien, auteur d’un Traité des coniques</i>.<p><b>Étym</b>. Ἀπόλλων.`

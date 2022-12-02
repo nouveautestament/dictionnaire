@@ -1,0 +1,1 @@
+lar[91835]=`<b>ου</b>, <i>ion</i>. <b>εω (ὁ)</b> Sperthiès, <i>Spartiate,</i> HDT. <i>7, 134, 137</i>.<p><b>Étym</b>. <i>ion. p</i>. *Σπερθίας.`

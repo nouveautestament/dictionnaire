@@ -1,0 +1,1 @@
+lar[40450]=`<b>ἐρί·κλαυτος, ος, ον</b>, qui verse beaucoup de larmes, ANTH. <i>7, 560</i>.<p><b>Étym</b>. ἐρι-, κλαίω, <i>cf</i>. ἐρίκλαυστος.`

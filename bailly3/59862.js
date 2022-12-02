@@ -1,0 +1,1 @@
+lar[59862]=`<b>ων (τὰ)</b> sorte de figue, ATH. <i>78a</i>.`

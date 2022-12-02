@@ -1,0 +1,1 @@
+lar[86012]=`<b>προ·σκήνιον, ου (τὸ) :<br>      1</b> entrée d’une tente, SPT. <i>Judith 10, 22</i>.<br><b>      2</b> avant-scène, devant d’un théâtre, POL. <i>30, 13, 4</i> ; PLUT. <i>Lyc. 6, M. 1096b ;</i> DURIS (ATH. <i>536a, 557b</i>), <i>etc</i>.<p><b>Étym</b>. π. σκηνή.`

@@ -1,0 +1,1 @@
+lar[47520]=`<b>άδος</b>, <i>adj. f</i>. de Thurium, THC. <i>7, 35</i>.<p><b>Étym</b>. Θούριον.`

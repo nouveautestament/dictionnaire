@@ -1,0 +1,1 @@
+lar[26391]=`<font color="purple">[ῐν]</font> <i>adv</i>., tout à fait à fond, avec une entière exactitude, DS. <i>1, 93</i>.<p><b>Étym</b>. διευκρινέω.`

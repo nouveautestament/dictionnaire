@@ -1,0 +1,1 @@
+lar[52006]=`tirer, contracter, <i>d’où</i> dessécher, flétrir : χρόα, OD. <i>13, 398, 430,</i> la peau, la fraîcheur de la peau ; <i>cf</i>. ARCHIL. (HÉPH. <i>p. 19, 22 et 50</i>) ; γυῖα, NIC. <i>Al. 383,</i> flétrir les membres ; <i>fig</i>. ἀγήνορα, HÉS. <i>O. 7,</i> flétrir le cœur orgueilleux.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

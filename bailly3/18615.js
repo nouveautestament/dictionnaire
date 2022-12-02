@@ -1,0 +1,1 @@
+lar[18615]=`<b>ἁψιμαχέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ῐμᾰ]</font> escarmoucher, DS. <i>11, 52</i> ; PLUT. <i>Crass. 10</i> ; POLYEN <i>1, 18 ; fig</i>. engager une dispute, POL. <i>17, 8, 4</i>.<p><b>Étym</b>. *ἁψίμαχος, <i>v</i>. ἁψιμάχως.`

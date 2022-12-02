@@ -1,0 +1,1 @@
+lar[56213]=`<b>ῶνος (ὁ)</b> Knakiôn, <i>fl. de Laconie,</i> PLUT. <i>Lyc. 6, Pel. 17</i>.`

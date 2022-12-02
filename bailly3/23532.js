@@ -1,0 +1,1 @@
+lar[23532]=`<b>δειλό·φθονος, ος, ον</b>, qui hait bassement, POLÉM. <i>Physiogn. p. 210</i>.<p><b>Étym</b>. δειλός, φθόνος.`

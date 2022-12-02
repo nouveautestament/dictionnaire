@@ -1,0 +1,1 @@
+lar[54797]=`<b>έων (οἱ)</b> <font color="purple">[ᾰ]</font> les Kéramées, <i>dème attique de la tribu Akamantide,</i> PLAT. <i>Prot. 315d ;</i> ESCHN. <i>78, 14</i>.`

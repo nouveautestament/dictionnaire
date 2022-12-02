@@ -1,0 +1,1 @@
+lar[17465]=`<b>αὐτο·έκαστος, ος, ον</b>, chacun en soi, ARSTT. <i>Top. 8, 11, 14</i> ; τὸ αὐτοέκαστον, ARSTT. <i>Nic. 1, 6, 5,</i> l’idée de chaque chose en soi.`

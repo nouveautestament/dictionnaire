@@ -1,0 +1,1 @@
+lar[66121]=`<b>υος (ἡ)</b> sorte de terre glaise qui sert aux abeilles pour boucher les jointures de leurs cellules, propolis ? ARSTT. <i>H.A. 9, 40, 10</i>.`

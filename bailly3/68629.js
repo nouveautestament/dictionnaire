@@ -1,0 +1,1 @@
+lar[68629]=`<b>εως (ἡ)</b> action d’entasser, HPC. <i>416, 34</i>.<p><b>Étym</b>. νέω⁴.`

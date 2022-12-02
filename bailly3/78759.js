@@ -1,0 +1,1 @@
+lar[78759]=`<b>περι·κλαδής, ής, ές</b> <font color="purple">[ᾰ]</font> entouré d’ombrages (<i>propr</i>. de rameaux), A.RH. <i>4, 216</i>.<p><b>Étym</b>. π. κλάδος.`

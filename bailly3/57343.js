@@ -1,0 +1,1 @@
+lar[57343]=`<b>ου (ὁ)</b> Kottos, <i>l’un des Géants à cent mains,</i> HÉS. <i>Th. 149</i>.`

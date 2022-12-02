@@ -1,0 +1,1 @@
+lar[92964]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> corps rond, SPT. <i>1Reg. 13, 16</i>.<p><b>Étym</b>. στρογγυλόω.`

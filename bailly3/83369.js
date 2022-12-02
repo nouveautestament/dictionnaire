@@ -1,0 +1,1 @@
+lar[83369]=`<i>ou</i> <b>πρηγορών, ῶνος (ὁ)</b> jabot des oiseaux, AR. <i>Eq. 374, Av. 1113</i>.<p><b>Étym</b>. πρό, ἀγείρω.`

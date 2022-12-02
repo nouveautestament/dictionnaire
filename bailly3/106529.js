@@ -1,0 +1,1 @@
+lar[106529]=`<b>(ὁ)</b> Phœdas, <i>h</i>. PLUT. <i>Am. narr. 4</i>.`

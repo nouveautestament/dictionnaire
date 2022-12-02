@@ -1,0 +1,1 @@
+lar[90241]=`<b>οῦ (ὁ)</b> <font color="purple">[σῐ]</font> qui danse la σίκιννις, ARISTON. <i>et</i> ARISTOCL. (ATH. <i>20e, 630b</i>).`

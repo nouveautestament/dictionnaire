@@ -1,0 +1,1 @@
+lar[61699]=`<b>λουτροχοέω-ῶ</b>, verser l’eau du bain, ANTH. <i>9, 627</i>.<p><b>Étym</b>. λουτροχόος.`

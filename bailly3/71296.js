@@ -1,0 +1,1 @@
+lar[71296]=`<i>adv.</i> :<br><b>      1</b> en entier, complètement, tout à fait, ATT. ; οὐχ ὅλως, ATT. absolument pas.<br><b>      2</b> en général, en bloc, <i>d’où</i> en un mot, pour le dire en un mot, bref, PLAT. <i>Crat. 406a, Rsp. 437b, etc</i>.<p><b>Étym</b>. ὅλος.`

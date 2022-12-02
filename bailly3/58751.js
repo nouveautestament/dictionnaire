@@ -1,0 +1,1 @@
+lar[58751]=`<b>κυν·ηγέτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui mène des chiens (à la chasse), chasseur, OD. <i>9, 120</i> ; EUR. <i>Rhes. 325, etc.</i> ; XÉN. <i>Cyn. 6, 11, etc. ; fig</i>. PD. <i>N. 6, 26</i>.<p>➳ <i>Dor</i>. κυναγέτας <font color="purple">[ᾱᾱ]</font> PD. <i>l. c.</i> ; EUR. <i>Bacch. 869, 1187</i>.<p><b>Étym</b>. κύων, ἄγω.`

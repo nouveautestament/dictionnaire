@@ -1,0 +1,1 @@
+lar[6155]=`<b>ἀμφι·θέατρος, ος, ον</b> <font color="purple">[εᾱ]</font> disposé en amphithéâtre, DH. <i>4, 44</i>.<p><b>Étym</b>. ἀ. θέατρον.`

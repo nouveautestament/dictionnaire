@@ -1,0 +1,1 @@
+lar[39101]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> ἐπιστατέω, <i>avec le gén</i>. XÉN. <i>Œc. 7, 35 ; avec le dat</i>. PLAT. <i>Rsp. 377b, 401b</i>.`

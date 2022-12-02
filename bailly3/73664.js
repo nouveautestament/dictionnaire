@@ -1,0 +1,1 @@
+lar[73664]=`<b>οὐρανό·νικος, ος, ον</b> <font color="purple">[ᾰῑ]</font> qui triomphe du ciel, ESCHL. <i>Suppl. 165</i>.<p><b>Étym</b>. οὐρ. νικάω.`

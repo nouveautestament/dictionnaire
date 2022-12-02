@@ -1,0 +1,1 @@
+lar[77424]=`<b>ης (ἡ) :<br>      1 <i>intr</i></b>. cessation, repos, <i>d’où</i> fin, <i>abs</i>. THC. <i>6, 60</i> ; SOPH. <i>O.C. 88 ; avec un gén</i>. SOPH. <i>Ph. 1329, etc.</i> ; PLAT. <i>Phædr. 245c, etc.</i> ; ARSTT. <i>H.A. 7, 5, 2, etc.</i><br><b>      2 <i>tr</i></b>. action <i>ou</i> moyen de faire cesser, <i>gén</i>. XÉN. <i>An. 5, 7, 32</i>.<p><b>Étym</b>. παύω.`

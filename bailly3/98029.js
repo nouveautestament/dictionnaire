@@ -1,0 +1,1 @@
+lar[98029]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat sur les remparts <i>ou</i> autour des remparts, assaut à une ville, PLAT. <i>Ion 539b</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>9, 70</i>.<p><b>Étym</b>. τειχομάχος.`

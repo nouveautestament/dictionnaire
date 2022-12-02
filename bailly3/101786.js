@@ -1,0 +1,1 @@
+lar[101786]=`<b>ης, ες</b> <font color="purple">[ῠ]</font><br><b>      1</b> membraneux, <i>c</i>. ὑμενοειδής, ARSTT. <i>H.A. 3, 1, 23 ; 3, 4, 2 ; 3, 6, 7, etc.</i><br><b>      2</b> plein de substances membraneuses, de fibres, <i>en parl. de l’urine,</i> HPC. <i>Coac. 213</i>.<p><b>Étym</b>. ὑμήν, -ωδης.`

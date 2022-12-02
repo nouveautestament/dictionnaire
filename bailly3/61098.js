@@ -1,0 +1,1 @@
+lar[61098]=`<b>λιθ·ῶπις, ιδος</b> <font color="purple">[ῐῐδ]</font> <i>adj. f</i>. dont le regard pétrifie, NONN. <i>D. 30, 265</i>.<p><b>Étym</b>. <i>fém. de</i> λιθώπης.`

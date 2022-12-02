@@ -1,0 +1,1 @@
+lar[67191]=`<b>οῦντος (ἡ)</b> Myunte (<i>auj</i>. ruines de Myonte près d’Avşar), <i>v. ionienne de Carie,</i> HDT. <i>1, 142</i>.<p><b>Étym</b>. <i>contr. de</i> *μυόεις, -όεντος, plein de rats, <i>de</i> μῦς.`

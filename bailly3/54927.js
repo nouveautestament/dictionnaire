@@ -1,0 +1,1 @@
+lar[54927]=`<b>κερδ·έμπορος, ου</b>, <i>adj. m</i>. qui procure du gain aux marchands, <i>ép. d’Hermès,</i> ORPH. <i>H. 27, 6</i>.<p><b>Étym</b>. κέρδος, ἔμπορος.`

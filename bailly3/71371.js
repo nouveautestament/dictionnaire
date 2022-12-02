@@ -1,0 +1,1 @@
+lar[71371]=`<b>ας (ἡ)</b> action d’habiter <i>ou</i> de vivre ensemble, intimité, OPP. <i>C. 4, 2 ; au pl</i>. MAN. <i>6, 188</i>.<p>➳ <i>Ion</i>. -είη, MAN. <i>l. c</i>.<p><b>Étym</b>. ὁμήθης.`

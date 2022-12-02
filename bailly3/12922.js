@@ -1,0 +1,1 @@
+lar[12922]=`<b>οῦ (ὁ)</b> raillerie, moquerie, CLÉM. <i>198</i>.<p><b>Étym</b>. ἀπομυκτίζω.`

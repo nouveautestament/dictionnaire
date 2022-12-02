@@ -1,0 +1,1 @@
+lar[77598]=`<b>πειθ·άνωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ᾱ]</font> homme obéissant, ESCHL. <i>Ag. 1639</i>.<p><b>Étym</b>. π. ἀνήρ.`

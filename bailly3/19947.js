@@ -1,0 +1,1 @@
+lar[19947]=`<b>ή, όν :<br>      1</b> <i>pass</i>. frappé, CALL. <i>Cer. 102, etc. ; part</i>. frappé d’apoplexie, HPC. <i>Acut. 386, etc.</i><br><b>      2</b> <i>act</i>. βλητόν, οῦ (τὸ) <i>s.-e</i>. ζῷον, EL. <i>N.A. 3, 32,</i> animal qui blesse en frappant <i>ou</i> avec ses défenses, <i>p. opp. à</i> δακετόν.<p><b>Étym</b>. <i>vb. de</i> βάλλω.`

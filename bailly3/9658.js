@@ -1,0 +1,1 @@
+lar[9658]=`<b>ἀντ·επιλαμβάνομαι</b>, s’attacher en retour à, <i>gén</i>. LUC. <i>Conv. 43</i>.`

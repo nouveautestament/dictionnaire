@@ -1,0 +1,1 @@
+lar[92492]=`<b>στεφανό·πωλις, ιδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> bouquetière, ARSTT. <i>Ath. 14, 4</i> ; PLUT. <i>M. 646e, 972e</i>.<p><b>Étym</b>. στ. πωλέω.`

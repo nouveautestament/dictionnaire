@@ -1,0 +1,1 @@
+lar[24731]=`<b>δια·κάρδιος, ος, ον</b>, qui pénètre au fond du cœur, qui déchire le cœur (douleur) JOS. <i>A.J. 19, 8, 2</i>.<p><b>Étym</b>. διά, καρδία.`

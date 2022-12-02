@@ -1,0 +1,1 @@
+lar[16925]=`<b>ἀ·τραυμάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font> qui n’entraîne pas de blessure (travail), LUC. <i>Oc. 36</i>.<p><b>Étym</b>. ἀ, τραυματίζω.`

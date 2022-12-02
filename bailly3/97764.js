@@ -1,0 +1,1 @@
+lar[97764]=`<b>ου (ὁ)</b> Tauréas, <i>h</i>. PLAT. <i>Charm. 153a ;</i> AND. <i>1, 47 Baiter-Sauppe, etc.</i> ; DÉM. <i>21, 147 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. ταῦρος.`

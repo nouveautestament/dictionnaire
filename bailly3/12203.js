@@ -1,0 +1,1 @@
+lar[12203]=`<b>ἀπο·γλύφω</b> <font color="purple">[ῠ]</font> racler, ALCIPHR. <i>3, 60, 4</i> ; ARÉT. <i>p. 116, 24</i>.`

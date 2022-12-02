@@ -1,0 +1,1 @@
+lar[44263]=`<b>α, ον</b>, de vipère, CALL. <i>fr. 161</i> ; ANTH. <i>7, 71</i>.<p><b>Étym</b>. ἔχιδνα.`

@@ -1,0 +1,1 @@
+lar[89012]=`<b>ου (τὸ)</b> lieu couvert de buissons, de broussailles, IL. <i>13, 199 ; 21, 559 ; 23, 122, etc</i>.<p><b>Étym</b>. <i>ion. c</i>. *ῥωπεῖον, <i>de</i> ῥώψ.`

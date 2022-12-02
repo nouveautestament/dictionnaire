@@ -1,0 +1,1 @@
+lar[102703]=`<b>ή, όν</b>, méprisant, dédaigneux de, <i>gén</i>. PLAT. <i>Def. 416a ; abs</i>. ISOCR. <i>8d, 283b ;</i> LUC. <i>Nigr. 1, D. mar. 13, 1, etc. ; joint à</i> ἀπίθανος, LUC. <i>D. deor. 21, 1</i>.<p>•<i> Sup</i>. -ώτατος, DÉM. <i>218 fin</i>.<p><b>Étym</b>. ὑπερόψομαι.`

@@ -1,0 +1,1 @@
+lar[110014]=`<b>ψυχρο·κοίλιος, ος, ον</b>, qui a le ventre <i>ou</i> l’estomac froid, PROCL. <i>Ptol. p. 214</i>.<p><b>Étym</b>. ψ. κοιλία.`

@@ -1,0 +1,1 @@
+lar[107389]=`<i>adv</i>., en homme qui sait exercer <i>ou</i> entretenir la voix, ARR. <i>Epict. 1, 4, 20</i>.`

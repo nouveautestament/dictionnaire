@@ -1,0 +1,1 @@
+lar[42732]=`<b>ης (ἡ)</b> le Repos personnifié, EMPÉD. <i>fr. 15</i>.<p><b>Étym</b>. <i>ion. c</i>. εὐναία, <i>f. de</i> εὐναῖος.`

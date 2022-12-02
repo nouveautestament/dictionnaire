@@ -1,0 +1,1 @@
+lar[63478]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> sur un grand espace, IL. <i>16, 776</i> ; OD. <i>24, 40</i>.<br><b>      2</b> grandement, HDT. <i>2, 161, etc.</i><br><b>      3</b> avec grandeur, avec magnificence, HDT. <i>6, 70</i> ; POL. <i>28, 11, 5</i> ; LUC. <i>Zeux. 8</i>.<p><b>Étym</b>. μέγας.`

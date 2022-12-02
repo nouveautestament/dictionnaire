@@ -1,0 +1,1 @@
+lar[17052]=`<b>ἀ·τύπωτος, ος, ον</b> <font color="purple">[ῠ]</font> non modelé d’après un type, informe, EL. <i>N.A. 2, 19</i> ; PLUT. <i>M. 636c ;</i> PHIL. <i>etc</i>.<p><b>Étym</b>. ἀ, τυπόω.`

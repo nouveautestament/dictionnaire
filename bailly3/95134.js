@@ -1,0 +1,1 @@
+lar[95134]=`<b>συν·διαπήγνυμι</b>, assembler solidement, affermir, SOR. <i>Obst. 199</i>.`

@@ -1,0 +1,1 @@
+lar[45559]=`<b>ἡμι·σπάθιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> demi-spatule, <i>instr. de chir</i>. ANTYLL. (ORIB. <i>3, 631 B.-Dar</i>.) ; P. ÉG. <i>294 Briau</i>.<p><b>Étym</b>. ἡμι-, σπάθη.`

@@ -1,0 +1,1 @@
+lar[17525]=`<font color="purple">[ῑ]</font> <i>adv</i>., par un mouvement spontané, JAMBL.`

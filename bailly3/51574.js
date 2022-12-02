@@ -1,0 +1,1 @@
+lar[51574]=`<b>ιος</b>, <i>acc</i>. <b>ιν (ὁ)</b> Kantibaris, <i>Perse,</i> EL. <i>V.H. 1, 27</i>.`

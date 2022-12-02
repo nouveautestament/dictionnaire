@@ -1,0 +1,1 @@
+lar[97689]=`<b>ου (ὁ)</b> Tarkondèmos, <i>h</i>. PLUT. <i>Ant. 61</i>.`

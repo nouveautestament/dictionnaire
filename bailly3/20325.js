@@ -1,0 +1,1 @@
+lar[20325]=`<b>ας (ἡ)</b> Bottie, <i>contrée de Macédoine,</i> THC. <i>2, 99</i> ; POL. <i>5, 97</i>.`

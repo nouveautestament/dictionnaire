@@ -1,0 +1,1 @@
+lar[57566]=`<b>α, ον</b>, de Krannôn ; Κραννώνιον πεδίον, THCR. <i>Idyl. 16, 38</i> ; CALL. <i>H. 4, 138,</i> la plaine de Krannôn, οἱ Κραννώνιοι, HDT. <i>6, 127</i> ; THC. <i>2, 22,</i> habitants de Krannôn.<p><b>Étym</b>. Κραννών.`

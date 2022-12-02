@@ -1,0 +1,1 @@
+lar[51720]=`<b>ου (ὁ)</b> vent d’est soufflant du pays des Karbanes, <i>chez les Cyrénéens,</i> ARSTT. <i>Vent. 973b Bkk.</i> ; TH. <i>Vent. 62</i>.<p><b>Étym</b>. <i>v</i>. Καρβανοί.`

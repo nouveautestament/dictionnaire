@@ -1,0 +1,1 @@
+lar[45093]=`<b>ἠθέω-ῶ</b> (<i>prés. et part. pf. pass</i>. ἠθημένος) filtrer, clarifier, PLAT. <i>Crat. 402c, Tim. 59e ;</i> ATH. <i>28e.</i><br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao</i>. ἠθησάμην)</font> <i>m. sign</i>. NIC. <i>Al. 324</i>.`

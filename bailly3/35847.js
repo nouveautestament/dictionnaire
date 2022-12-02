@@ -1,0 +1,1 @@
+lar[35847]=`<b>ἐξ·έρρω</b> (<i>seul. impér. prés</i>.) s’en aller, disparaître de, <i>gén</i>. EUR. <i>Hipp. 973</i>.`

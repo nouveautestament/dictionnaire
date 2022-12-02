@@ -1,0 +1,1 @@
+lar[62199]=`<b>α, ον</b>, propre à apaiser, expiatoire, A.RH. <i>2, 485</i>.<p><b>Étym</b>. λωφάω.`

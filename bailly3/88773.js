@@ -1,0 +1,1 @@
+lar[88773]=`<i>adv</i>., comme une toupie, MAN. <i>4, 108</i>.<p><b>Étym</b>. ῥόμβος, -δον.`

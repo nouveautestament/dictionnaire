@@ -1,0 +1,1 @@
+lar[22982]=`<b>δαιμονο·βλάβεια, ας (ἡ)</b> <font color="purple">[ᾰβ]</font> démence envoyée par les dieux, POL. <i>28, 9, 4</i>.<p><b>Étym</b>. δαίμων, βλάπτω.`

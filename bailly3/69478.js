@@ -1,0 +1,1 @@
+lar[69478]=`<b>ξενο·κτόνος, ος, ον</b>, qui tue des hôtes <i>ou</i> des étrangers, EUR. <i>I.T. 53</i> ; ESCHN. <i>85, 42</i> ; PLUT. <i>Mar. 8, etc</i>.<p><b>Étym</b>. ξ. κτείνω.`

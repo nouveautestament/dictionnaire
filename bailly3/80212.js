@@ -1,0 +1,1 @@
+lar[80212]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐᾰ]</font> Petit-tonneau, <i>n. de parasite,</i> ALCIPHR. <i>3, 18, 46</i>.<p><b>Étym</b>. πίθος.`

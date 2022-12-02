@@ -1,0 +1,1 @@
+lar[78819]=`<b>περι·κράνιος, α, ον</b> <font color="purple">[ᾱ]</font> qui enveloppe le crâne, PLUT. <i>Num. 7</i> ; περικράνιος χιτών, RUF. <i>p. 34,</i> membrane <i>ou</i> tunique qui enveloppe le crâne, péricrâne.<p><b>Étym</b>. π. κρανίον.`

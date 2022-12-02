@@ -1,0 +1,1 @@
+lar[71402]=`<b>ου (ὁ)</b> Homère, <i>poète épique, auteur supposé de l’Iliade et de l’Odyssée</i>.<p><b>Étym</b>. <i>v</i>. ὅμηρος².`

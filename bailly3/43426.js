@@ -1,0 +1,1 @@
+lar[43426]=`<b>εὔ·σιτος, ος, ον</b> <font color="purple">[ῑ]</font> qui mange de bon appétit, HPC. <i>Coac. 135</i> ; τινος, ARÉT. <i>Caus. m. diut. 1, 16,</i> qqe ch.<p>•<i> Cp</i>. -ότερος, AÉT. <i>3, 8, 41 • Sup</i>. -ότατος, RUF. (ORIB. <i>5, 11).</i><p><b>Étym</b>. εὖ, σῖτος.`

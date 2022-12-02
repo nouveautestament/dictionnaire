@@ -1,0 +1,1 @@
+lar[17346]=`<b>αὐτ·εξουσία, ας (ἡ)</b> pouvoir absolu, ARR. <i>Epict. 4, 1, 59</i>.<p><b>Étym</b>. αὐτός, ἐ.`

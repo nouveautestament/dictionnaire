@@ -1,0 +1,1 @@
+lar[41492]=`<b>ος, ον</b>, qui concerne une bonne nouvelle, CLÉM. <i>140</i>.<p><b>Étym</b>. εὐάγγελος.`

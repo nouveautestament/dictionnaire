@@ -1,0 +1,1 @@
+lar[4290]=`<b>ἀ·λέπιστος, ος, ον :<br>      1</b> non écaillé, ARCHESTR. (ATH. <i>311b</i>).<br><b>      2</b> non pelé, GEOP. <i>10, 11, 1</i>.<p><b>Étym</b>. ἀ, λεπίζω.`

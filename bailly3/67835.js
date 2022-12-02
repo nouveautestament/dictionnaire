@@ -1,0 +1,1 @@
+lar[67835]=`<i>adv</i>., avec des nausées, HÉRODOTUS (ORIB. <i>1, 412 B.-Dar</i>.).<p><b>Étym</b>. ναυτιώδης.`

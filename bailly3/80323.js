@@ -1,0 +1,1 @@
+lar[80323]=`<b>πιμπλάω-ῶ</b> (<i>seul. prés. et impf</i>. ἐπίμπλων) <i>c</i>. πίμπλημι, HPC. <i>1199f ;</i> PD. <i>fr. 182</i> ; POÈT. (PLUT. <i>M. 409</i>) ; HIPPIATR. <i>p. 238</i>.`

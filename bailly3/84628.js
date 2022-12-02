@@ -1,0 +1,1 @@
+lar[84628]=`<b>προ·κώλυμα, ατος (τὸ)</b> <font color="purple">[ῡ]</font> obstacle, barrière, HLD. <i>9, 17</i>.<p><b>Étym</b>. π. κωλύω.`

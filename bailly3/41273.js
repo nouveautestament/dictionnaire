@@ -1,0 +1,1 @@
+lar[41273]=`<b>α, ον</b>, d’Étéocle, <i>fils d’Œdipe,</i> IL. <i>4, 386 (fém. ion</i>. -είη).<p><b>Étym</b>. Ἐτεοκλῆς.`

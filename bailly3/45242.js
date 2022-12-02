@@ -1,0 +1,1 @@
+lar[45242]=`<b>ἡλιο·στερής, ής, ές</b>, qui protège contre le soleil (<i>propr</i>. qui prive du soleil) SOPH. <i>O.C. 313</i>.<p><b>Étym</b>. ἥ. στερέω.`

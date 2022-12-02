@@ -1,0 +1,1 @@
+lar[78284]=`<b>α, ον</b>, qui va au delà de, <i>gén</i>. PD. <i>O. 9, 159 ; adv</i>. περαίτερον, plus au delà de, plus que, PD. <i>O. 8, 82</i>.`

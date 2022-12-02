@@ -1,0 +1,1 @@
+lar[16684]=`<b>ἀ·τάραχος, ος, ον</b> <font color="purple">[τᾰᾰ]</font> non troublé, calme, tranquille, ARSTT. <i>Nic. 3, 14, etc.</i> ; ATH. <i>26a ;</i> DS. <i>etc</i>.<p><b>Étym</b>. ἀ, ταραχή.`

@@ -1,0 +1,1 @@
+lar[99431]=`<b>Τλησί·μαχος, ου (ὁ)</b> Tlèsimakhos, <i>h</i>. PLUT. <i>Parall. min. 32</i>.<p><b>Étym</b>. *τλάω, μάχη.`

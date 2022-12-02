@@ -1,0 +1,1 @@
+lar[47255]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> instrument de chasse <i>ou</i> de pêche, XÉN. <i>Mem. 2, 1, 4</i> ; EL. <i>N.A. 12, 46 ; fig</i>. XÉN. <i>Mem. 3, 11, 7</i>.<p><b>Étym</b>. θηράω.`

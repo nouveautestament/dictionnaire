@@ -1,0 +1,1 @@
+lar[90671]=`<b>οῦ (ὁ)</b> <font color="purple">[δᾰ]</font> qui a les yeux clignotants, ARSTT. <i>Physiogn. 6, 47</i>.<p><b>Étym</b>. σκαρδαμύσσω.`

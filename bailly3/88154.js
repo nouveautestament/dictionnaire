@@ -1,0 +1,1 @@
+lar[88154]=`<b>ατος (τὸ)</b> vol, essor, ESCHL. <i>Eum. 250 au plur</i>.<p><b>Étym</b>. πωτάομαι.`

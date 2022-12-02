@@ -1,0 +1,1 @@
+lar[19666]=`<b>ης, ες :<br>      1</b> qui tousse, HPC. <i>Epid. 1, 941</i>.<br><b>      2</b> semblable à la toux, HPC. <i>Aph. 1248</i>.<p><b>Étym</b>. βήξ, -ωδης.`

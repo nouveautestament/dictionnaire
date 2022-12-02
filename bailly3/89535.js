@@ -1,0 +1,1 @@
+lar[89535]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῠᾱ]</font><br><b>      1</b> déformation des os des tempes qui deviennent saillants comme des cornes de satyres, GAL. <i>2, 265</i>.<br><b>      2</b> priapisme, ARÉT. <i>Caus. m. acut. 2, 12</i>.<br><b>      3</b> enflure des glandes derrière les oreilles, maladie des oreillons, HPC. <i>Aph. 1248</i>.<p><b>Étym</b>. σατυριάω.`

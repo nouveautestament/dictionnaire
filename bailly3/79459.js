@@ -1,0 +1,1 @@
+lar[79459]=`<b>ατος (τὸ)</b> enceinte réservée entourée d’une corde, PLUT. <i>M. 847a ;</i> APP. <i>Lib. 78</i>.<p><b>Étym</b>. περισχοινίζω.`

@@ -1,0 +1,1 @@
+lar[74818]=`<b>παν·άθεσμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> tout à fait injuste, criminel, OPP. <i>C. 2, 438, etc</i>.<p><b>Étym</b>. π. ἄθεσμος.`

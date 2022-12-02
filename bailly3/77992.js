@@ -1,0 +1,1 @@
+lar[77992]=`<b>πεντακοσιο·μέδιμνος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a un revenu de 500 médimnes de céréales ; οἱ πεντακοσιομέδιμνοι, THC. <i>3, 16</i> ; ARSTT. <i>Pol. 2, 12, 6</i> ; PLUT. <i>Sol. 18, etc</i>. Athéniens qui avaient ce revenu et constituaient la 1<sup>re</sup> classe des citoyens.<p><b>Étym</b>. πεντακόσιοι, μ.`

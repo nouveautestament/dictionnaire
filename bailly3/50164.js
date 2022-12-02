@@ -1,0 +1,1 @@
+lar[50164]=`<b>οῦ (ὁ) :<br>      1</b> prononciation trop forte de l’iôta, QUINT. <i>1, 5, 32</i> ; DIOMÈD. <i>453, 3</i>.<br><b>      2</b> répétition de l’ι, M. CAP. <i>§ 514</i>.<p><b>Étym</b>. *ἰωτακίζω, <i>p. anal. avec</i> ἀττικίζω, <i>de</i> ἰῶτα.`

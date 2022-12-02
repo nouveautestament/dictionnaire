@@ -1,0 +1,1 @@
+lar[14804]=`<i>adv</i>., suffisamment, THEOL. <i>p. 38b</i>.`

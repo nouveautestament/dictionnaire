@@ -1,0 +1,1 @@
+lar[105525]=`<b>φιλ·αυθόμαιμος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime son propre sang, <i>càd</i>. ses frères <i>ou</i> sœurs, LYC. <i>566</i>.`

@@ -1,0 +1,1 @@
+lar[57487]=`<b>*κράας (τὸ)</b> <i>seul. gén</i>. <b>κράατος</b>, <i>dat</i>. κράατι ; <i>acc. pl</i>. κράατα <font color="purple">[ᾱᾰτ]</font> tête (<i>v</i>. κράς) IL. <i>19, 93</i> ; A.RH. <i>1, 222 ; 2, 1013</i>.<p><b>Étym</b>. <i>cf</i>. κάρα.`

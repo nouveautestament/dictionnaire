@@ -1,0 +1,1 @@
+lar[66789]=`<b>ου (τὸ)</b> sorte de cannelier, <i>arbre,</i> DIOSC. <i>1, 13</i>.`

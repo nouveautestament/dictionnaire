@@ -1,0 +1,1 @@
+lar[102700]=`<i>sert d’adj. vb. à</i> ὑπεροράω, ISOCR. <i>Ep. 9, 21, etc.</i> ; CLÉM. <i>570</i>.`

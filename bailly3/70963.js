@@ -1,0 +1,1 @@
+lar[70963]=`<b>(οἱ)</b> <font color="purple">[ῐῐ]</font> les Oligæthides, <i>ou</i> descendants d’Oligæthos, <i>famille de Corinthe,</i> PD. <i>O. 13, 93</i>.<p><b>Étym</b>. <i>patr. de</i> Ὀλίγαιθος, <i>de</i> ὀλίγος, αἴθω.`

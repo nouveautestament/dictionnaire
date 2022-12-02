@@ -1,0 +1,1 @@
+lar[74243]=`<i>ou mieux</i> <b>παιδεῖος, ος, ον</b>, qui concerne les enfants, qui convient aux enfants, PD. <i>I. 2, 5</i> ; ESCHL. <i>Ag. 1242, 1593</i> ; SOPH. <i>Ant. 918</i> ; PLAT. <i>Leg. 643b, etc</i>.<p>➳ <i>Ion</i>. παιδήϊος, NONN.<p><b>Étym</b>. παῖς.`

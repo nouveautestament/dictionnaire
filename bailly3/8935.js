@@ -1,0 +1,1 @@
+lar[8935]=`<b>ου (ὁ)</b> <i>c</i>. ἀνθρώπιον EUR. <i>Cycl. 316</i> ; PLAT. <i>Rsp. 495c, Phædr. 243a, etc</i>.`

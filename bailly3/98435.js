@@ -1,0 +1,1 @@
+lar[98435]=`<b>τεσσαρά·βοιος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> du prix de quatre bœufs, IL. <i>23, 705</i>.<p><b>Étym</b>. τέσσαρες, βοῦς.`

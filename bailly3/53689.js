@@ -1,0 +1,1 @@
+lar[53689]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>dim. de</i> καταφυγή DC. <i>Exc. Vat. p. 529 Mai</i>.`

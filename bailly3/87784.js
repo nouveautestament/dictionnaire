@@ -1,0 +1,1 @@
+lar[87784]=`<b>πυργο·ειδής, ής, ές</b>, qui ressemble à une tour, JOS. <i>B.J. 5, 5, 8</i> ; DC. <i>74, 5</i>.<p><b>Étym</b>. π. εἶδος.`

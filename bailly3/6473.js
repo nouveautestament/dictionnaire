@@ -1,0 +1,1 @@
+lar[6473]=`<b>ἀμφ·ώβολος, ος, ον</b>, à deux pointes : ὁ ἀ. EUR. <i>Andr. 1133,</i> sorte de javelot à deux pointes ; τὰ ἀμφώβολα, SOPH. <i>fr. 907 Nauck,</i> divination par les entrailles des victimes (percées de part en part par la broche).<p><b>Étym</b>. ἀμφί, ὀβολός.`

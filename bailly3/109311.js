@@ -1,0 +1,1 @@
+lar[109311]=`<b>χρυσόω-ῶ</b> <font color="purple">[ῡ]</font> revêtir d’or, dorer, DS. <i>1, 23</i> ; LUC. <i>Ind. 15, etc. ; au pass</i>. HDT. <i>2, 132</i> ; AR. <i>Ach. 547</i> ; PLAT. <i>Euthyd. 299e ;</i> PLUT. <i>Phil. 9</i>.<p><b>Étym</b>. χρυσός.`

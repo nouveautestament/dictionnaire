@@ -1,0 +1,1 @@
+lar[41979]=`<b>εὐ·έμβολος, ος, ον :<br>      1</b> facile à envahir, ARSTT. <i>Pol. 7, 11, 10</i>.<br><b>      2</b> <i>act</i>. que l’on insère facilement, HPC. <i>Fract. 777</i>.<p><b>Étym</b>. εὖ, ἐμβάλλω.`

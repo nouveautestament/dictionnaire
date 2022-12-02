@@ -1,0 +1,1 @@
+lar[25597]=`<b>ατος (τὸ)</b> distinction, définition exacte, CLÉM. <i>677</i>.`

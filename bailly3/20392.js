@@ -1,0 +1,1 @@
+lar[20392]=`<b>βού·κερως, ως, ων</b>, <i>gén</i>. <b>ω :<br>      1</b> aux cornes de bœuf, HDT. <i>2, 41</i> ; ESCHL. <i>Pr. 588</i>.<br><b>      2</b> <i>subst</i>. ὁ β. <i>c</i>. βούκερας, DIOSC. <i>2, 124</i>.<p><b>Étym</b>. βοῦς, κέρας.`

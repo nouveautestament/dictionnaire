@@ -1,0 +1,1 @@
+lar[43631]=`<b>οῦ (ὁ)</b> préparation, BAS. <i>1, 401 Migne</i>.<p><b>Étym</b>. εὐτρεπίζω.`

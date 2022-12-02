@@ -1,0 +1,1 @@
+lar[52397]=`<b>εως (ἡ)</b> action de charmer, de fasciner, LUC. <i>Philops. 9</i>.<p><b>Étym</b>. καταθέλγω.`

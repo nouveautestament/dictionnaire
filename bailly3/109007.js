@@ -1,0 +1,1 @@
+lar[109007]=`<b>ας (ἡ)</b> production de bons fruits, STR. <i>286</i>.<p><b>Étym</b>. χρηστόκαρπος.`

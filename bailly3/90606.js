@@ -1,0 +1,1 @@
+lar[90606]=`<b>σκαιουργέω-ῶ</b>, agir d’une manière déplacée : περί τινα, AR. <i>Nub. 994,</i> avec qqn.<p><b>Étym</b>. σκαιός, ἔργον.`

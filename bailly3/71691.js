@@ -1,0 +1,1 @@
+lar[71691]=`<b>ὁμό·σπονδος, ος, ον</b> : qui fait des libations avec, compagnon de table, HDT. <i>9, 16 ; avec un rég.</i> : τινι, commensal de qqn, DÉM. <i>321, 14</i>.<p><b>Étym</b>. ὁμ. σπονδή.`

@@ -1,0 +1,1 @@
+lar[22712]=`<b>ή, όν</b>, de Gythion, LUC. <i>D. mer. 14, 4</i>.<p><b>Étym</b>. Γύθιον.`

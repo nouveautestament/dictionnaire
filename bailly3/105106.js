@@ -1,0 +1,1 @@
+lar[105106]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> tromperie, fraude, DÉM. <i>760 fin ; d’ord. au pl</i>. AR. <i>Eq. 633</i> ; DÉM. <i>59, 18</i> ; DIN. <i>102, 1</i>.<p><b>Étym</b>. φενακίζω.`

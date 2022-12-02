@@ -1,0 +1,1 @@
+lar[30696]=`<b>*εἰσ·αρύομαι</b>, <i>ion</i>. <b>ἐσ·αρύομαι</b> <font color="purple">[ᾰ]</font> puiser dans, HPC. <i>de Gland. 4 dout</i>.`

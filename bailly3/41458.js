@@ -1,0 +1,1 @@
+lar[41458]=`<i>adv. seul. dans la locut</i>. οὐκ ἐτός, PLAT. <i>Rsp. 414e, 568a ;</i> AR. <i>Pl. 1166, Av. 915, etc</i>. non sans raison ; <i>particul. dans les interr</i>. οὐκ ἐτὸς ἀρ' … ; <i>etc</i>. AR. <i>Pl. 404, etc</i>. alors c’était donc pour rien que, <i>etc</i>. ?<p><b>Étym</b>. <i>cf</i>. ἐτώσιος.`

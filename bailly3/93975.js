@@ -1,0 +1,1 @@
+lar[93975]=`<b>συμ·μετοικέω-ῶ</b>, émigrer avec, <i>dat</i>. PLUT. <i>Num. 21</i>.`

@@ -1,0 +1,1 @@
+lar[80780]=`<b>πλατύ·ρροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ᾰ]</font> au large courant, ESCHL. <i>Pr. 852</i>.<p><b>Étym</b>. πλ. ῥέω.`

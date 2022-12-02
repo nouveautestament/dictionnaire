@@ -1,0 +1,1 @@
+lar[99756]=`<i>crase att. et poét. p</i>. τὸ ἐμφανές.`

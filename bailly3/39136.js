@@ -1,0 +1,1 @@
+lar[39136]=`<b>ή, όν</b>, qu’on peut apprendre <i>ou</i> savoir, PLAT. <i>Theæt. 201d ;</i> ARSTT. <i>Metaph. 1, 2 ; 9, 7</i> ; τὸ ἐπιστητόν, ARSTT. <i>Nic. 6, 3, 3,</i> l’objet de la science.<p><b>Étym</b>. <i>vb. de</i> ἐπίσταμαι.`

@@ -1,0 +1,1 @@
+lar[91575]=`<b>όεντος</b>, <i>p. contr</i>. Σολοῦς, <b>οῦντος (ὁ)</b> Solunte :<br><b>   I</b> <i>n. géogr.</i> :<br><b>      1</b> <i>promont. de Libye,</i> HDT. <i>2, 32 ; 4, 43, etc.</i><br><b>      2</b> <i>v. de Sicile (auj</i>. Solanto) THC. <i>6, 2, etc.</i><br><b>   II</b> Solœis, <i>compagnon de Thésée,</i> MÉNÉCR. NYSS. (PLUT. <i>Thes. 26</i>).`

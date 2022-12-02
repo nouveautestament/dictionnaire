@@ -1,0 +1,1 @@
+lar[72393]=`<b>ὁποσακισ·οῦν</b>, <i>adv</i>., aussi souvent que cela soit, ARSTT. <i>Cæl. 1, 6, 4</i>.<p><b>Étym</b>. ὁποσάκις, οὖν.`

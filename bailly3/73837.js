@@ -1,0 +1,1 @@
+lar[73837]=`<b>ὀφιό·δειρος, ος, ον</b>, au cou de serpent, ORACL. (ARSTT. <i>Mir. 24).</i><p><b>Étym</b>. ὄφις, δειρή.`

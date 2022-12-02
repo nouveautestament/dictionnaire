@@ -1,0 +1,1 @@
+lar[34226]=`<b>ἐνδο·μενία</b> <i>ou</i> <b>ἐνδυ·μενία, ας (ἡ)</b> <i>mot macédonien,</i> mobilier d’une maison (meubles, vêtements, <i>etc</i>.) POL. <i>4, 72, 1 ; 5, 81, 3</i> ; CHARIS. <i>550, 8</i>.<p>➳ ἐνδυμενία, POL. <i>4, 72, 1 (var</i>. ἐνδυμένεια) ; ἐνδομένεια, CORN. <i>48</i>.<p><b>Étym</b>. ἔνδον, μένω.`

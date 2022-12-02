@@ -1,0 +1,1 @@
+lar[24820]=`<b>ή, όν</b>, propre à couper <i>ou</i> à supprimer, <i>gén</i>. CLÉM. <i>365a, 744a Migne</i>.`

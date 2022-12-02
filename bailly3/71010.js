@@ -1,0 +1,1 @@
+lar[71010]=`<b>ὀλιγο·δρανής, ής, ές</b> <font color="purple">[ῐᾰ]</font> faible, épuisé, exténué, AR. <i>Av. 686</i>.<p><b>Étym</b>. ὀλ. δράω.`

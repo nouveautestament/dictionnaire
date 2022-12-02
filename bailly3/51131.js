@@ -1,0 +1,1 @@
+lar[51131]=`<b>καλλικαρπέω-ῶ</b> <font color="purple">[ῐ]</font> produire de beaux fruits, TH. <i>H.P. 3, 15, 2</i>.<p><b>Étym</b>. καλλίκαρπος.`

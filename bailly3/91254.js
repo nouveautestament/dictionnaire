@@ -1,0 +1,1 @@
+lar[91254]=`<b>σκυζάω-ῶ</b>, être en rut, ARSTT. <i>H.A. 6, 18, 8, etc</i>.<p><b>Étym</b>. σκύζα.`

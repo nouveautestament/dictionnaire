@@ -1,0 +1,1 @@
+lar[88320]=`<b>η, ον</b> <font color="purple">[ᾰᾰῐ]</font> fait de rave, DIOSC. <i>1, 45</i>.<p><b>Étym</b>. ῥάφανος.`

@@ -1,0 +1,1 @@
+lar[29340]=`<b>ἐγγειό·τοκος</b> <i>ou</i> <b>ἐγγεό·τοκος, ος, ον</b>, qui naît dans le sein de la terre, TH. <i>H.P. 1, 6, 9</i>.<p><b>Étym</b>. ἔγγειος, τίκτω.`

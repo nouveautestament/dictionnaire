@@ -1,0 +1,1 @@
+lar[54]=`<font color="purple">[βᾰ]</font> <i>adv</i>., sans peine, SIMPL. <i>Epict. 331 Schweigh</i>.<p><b>Étym</b>. ἀβαρής.`

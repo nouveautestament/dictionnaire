@@ -1,0 +1,1 @@
+lar[61465]=`<b>(ὁ)</b> vent du S. O., <i>propr</i>. « le pluvieux », HDT. <i>2, 25</i> ; ARSTT. <i>Mund. 4</i> ; STR. <i>29</i> ; THCR. <i>Idyl. 9, 11 ; au plur</i>. POL. <i>10, 10, 3</i> ; DS. <i>3, 29, etc</i>.<p><b>Étym</b>. λείβω.`

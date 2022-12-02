@@ -1,0 +1,1 @@
+lar[3448]=`<b>ἄ·κλωστος, ος, ον</b>, non tissé, non filé, PLAT. COM. (POLL. <i>7, 31).</i><p><b>Étym</b>. ἀ, κλώθω.`

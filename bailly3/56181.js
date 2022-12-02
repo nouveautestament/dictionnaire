@@ -1,0 +1,1 @@
+lar[56181]=`<b>οῦ (ὁ)</b> cage d’oiseau, ANTH. <i>6, 109</i>.<p><b>Étym</b>. <i>cf</i>. κλείω <i>et</i> κλοιός.`

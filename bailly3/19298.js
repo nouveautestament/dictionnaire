@@ -1,0 +1,1 @@
+lar[19298]=`<font color="purple">[κᾰ]</font> <i>adv</i>., avec malignité, <i>joint à</i> ἀπεχθῶς, JOS. <i>A.J. 11, 4, 9</i>.`

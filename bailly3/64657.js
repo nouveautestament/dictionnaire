@@ -1,0 +1,1 @@
+lar[64657]=`<font color="purple">[ῐ]</font> <i>vb. de</i> μεταβιβάζω ORIG. <i>1, 1505 Migne</i>.`

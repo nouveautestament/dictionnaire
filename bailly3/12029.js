@@ -1,0 +1,1 @@
+lar[12029]=`<b>ος, ον</b> <font color="purple">[ᾰν]</font> <i>c</i>. ἀπλανής, BABR. <i>50, 20</i> ; SYMM. <i>Job 12, 20</i>.`

@@ -1,0 +1,1 @@
+lar[21826]=`<b>ου (ὁ)</b> <i>plur</i>. οἱ Γέται, les Gètes, <i>pple thrace, voisin de l’Ister,</i> HDT. <i>4, 93</i> ; THC. <i>2, 96, etc. ; au sg</i>. THÉM. <i>Or. 11, 146b ; 13, 166c</i>.<p>➳ <i>Gén. épq. et ion</i>. ANTH. <i>6, 332</i> ; HDT. <i>5, 3. Dat. pl. ion</i>. Γέτῃσι, HDT. <i>4, 96</i>.`

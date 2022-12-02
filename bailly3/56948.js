@@ -1,0 +1,1 @@
+lar[56948]=`<b>ης, ες</b>, fatigant, HPC. <i>Epid. 1, 982</i>.<p>•<i> Cp</i>. -έστερος, ARSTT. <i>Probl. 5, 40, 1</i>.<p><b>Étym</b>. κοπιάω ; <i>cf</i>. κοπώδης.`

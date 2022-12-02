@@ -1,0 +1,1 @@
+lar[82768]=`<b>έως (ὁ)</b> Porthée, <i>roi de Calydon,</i> IL. <i>14, 115</i>.`

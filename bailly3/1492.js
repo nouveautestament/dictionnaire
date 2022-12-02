@@ -1,0 +1,1 @@
+lar[1492]=`<b>ἀ·δοξοποίητος, ος, ον</b>, non façonné <i>ou</i> dirigé par l’opinion, POL. <i>6, 5, 8</i>.<p><b>Étym</b>. ἀ, δοξοποιέω.`

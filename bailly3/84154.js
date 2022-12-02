@@ -1,0 +1,1 @@
+lar[84154]=`<b>προ·ενείρω</b>, insérer d’avance <i>ou</i> auparavant, EN. TACT. <i>Pol. 31</i>.`

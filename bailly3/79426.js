@@ -1,0 +1,1 @@
+lar[79426]=`<b>περιστροφέω-ῶ</b>, se mouvoir autour de, <i>d’où</i> se trouver parmi, <i>dat</i>. Q. SM. <i>6, 504 vulg. ; conj</i>. -στρωφάω.<p><b>Étym</b>. περιστροφή.`

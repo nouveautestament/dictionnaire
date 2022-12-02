@@ -1,0 +1,1 @@
+lar[107538]=`<b>ης</b> <font color="purple">[βᾰ]</font> galbanum, <i>résine d’une plante ombellifère (Ferulago L.) de Crète</i>, TH. <i>H.P. 9, 1, 2 ; 9, 7, 2</i> ; DIOSC. <i>3, 97</i> ; PLUT. <i>M. 1009f</i>.<p><b>Étym</b>. <i>hébr</i>. chelbenah.`

@@ -1,0 +1,1 @@
+lar[3298]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> cure, guérison, HDT. <i>4, 90 ; 109</i> ; HPC. <i>Præc. 25, 41, etc.</i> ; PLUT. <i>Num. 13,</i> LYC. <i>12</i>.<br><b>      2</b> sorte d’emplâtre, GAL. <i>13, 666</i>.<p><b>Étym</b>. ἀκέομαι.`

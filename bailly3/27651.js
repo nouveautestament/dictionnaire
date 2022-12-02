@@ -1,0 +1,1 @@
+lar[27651]=`<b>δορυ·ξόος-οῦς, όος-οῦς, όον-οῦν</b>, qui façonne (<i>litt</i>. qui racle) des bois de lance, PLUT. <i>Pel. 12 ; subst</i>. fabricant de bois de lances, AR. <i>Pax 548, 1213, 1260</i>.<p>➳ <i>Gén. sg. contr</i>. δορυξοῦ, AR. <i>Pax 1213</i>.<p><b>Étym</b>. δόρυ, ξέω.`

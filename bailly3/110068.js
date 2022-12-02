@@ -1,0 +1,1 @@
+lar[110068]=`<b>α, ον</b> <font color="purple">[ῑδ]</font> de Psôphis, <i>v. d’Arcadie,</i> ANTH. <i>9, 341</i>.<p><b>Étym</b>. <i>v</i>. ψώχω.`

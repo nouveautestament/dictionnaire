@@ -1,0 +1,1 @@
+lar[18191]=`<b>οῦ (ὁ)</b> délimitation, <i>d’où</i> :<br><b>      1</b> séparation, distinction, TH. <i>H.P. 9, 2, 1</i>.<br><b>      2</b> définition, ARSTT. <i>Categ. 5, 31 ; d’où</i> brève définition, sentence, aphorisme, HPC. GAL.<br><b>      3</b> exclusion, <i>part</i>. excommunication, BAS. <i>3, 1109d, etc.</i> ; NYSS. <i>312d, etc</i>.<p><b>Étym</b>. ἀφορίζω.`

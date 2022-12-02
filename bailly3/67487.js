@@ -1,0 +1,1 @@
+lar[67487]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. μυωπία¹, GAL. <i>2, 270</i>.`

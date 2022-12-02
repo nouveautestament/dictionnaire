@@ -1,0 +1,1 @@
+lar[102737]=`<b>ὑπερ·παίω</b> (<i>d’ord. au prés. et surt. au pf</i>. ὑπερπέπαικα) l’emporter sur (<i>litt</i>. frapper sur) <i>gén</i>. AR. <i>Eccl. 1118</i> ; τινί τινα, DÉM. <i>1217, 18,</i> sur qqn en qqch. ; <i>cf</i>. POL. <i>14, 5, 14</i> ; LUC. <i>Im. 9, etc</i>.`

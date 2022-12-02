@@ -1,0 +1,1 @@
+lar[109093]=`<b>χρυσ·αυγής, ής, ές</b> <font color="purple">[ῡ]</font> qui a l’éclat de l’or, SOPH. <i>O.C. 685</i> ; AR. <i>Av. 1710</i> ; ANTH. <i>9, 154 ; fig</i>. PHIL. <i>1, 57</i> ; HIM. <i>p. 598</i>.<p><b>Étym</b>. χρ. αὐγή.`

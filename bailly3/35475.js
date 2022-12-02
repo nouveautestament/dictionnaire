@@ -1,0 +1,1 @@
+lar[35475]=`<b>ἐξ·αναφαίνω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐξανέφηνε)</font> faire paraître au grand jour, MAN. <i>2, 153</i>.`

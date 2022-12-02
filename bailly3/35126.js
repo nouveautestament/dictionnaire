@@ -1,0 +1,1 @@
+lar[35126]=`<i>adv</i>., avec diligence, habilement, JAMBL. <i>Protr. 64, etc</i>.<p>•<i> Cp</i>. ἐντρεχέστερον, M. ANT. <i>7, 66</i>.<p><b>Étym</b>. ἐντρεχής.`

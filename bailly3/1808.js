@@ -1,0 +1,1 @@
+lar[1808]=`<b>*ἀερο·φαής</b>, <i>seul. ion</i>. <b>ἠεροφαής, ής, ές</b>, qui brille dans l’air <i>ou</i> dans le ciel, THÉANO (PORPH. <i>V. Pyth. 22).</i><p><b>Étym</b>. ἀήρ, φάος.`

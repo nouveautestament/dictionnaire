@@ -1,0 +1,1 @@
+lar[77765]=`<b>ατος (τὸ)</b> éclat de bois enlevé avec la hache, copeau, GAL. <i>2, 613</i> ; AÉT. <i>8, 3</i>.<p><b>Étym</b>. πελεκάω.`

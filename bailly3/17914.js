@@ -1,0 +1,1 @@
+lar[17914]=`<b>εως (ἡ)</b> action d’endurcir, GAL. <i>2, 241</i>.<p><b>Étym</b>. ἀφάπτω.`

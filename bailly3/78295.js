@@ -1,0 +1,1 @@
+lar[78295]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> trajet : βίου πέρασις, SOPH. <i>O.C. 103,</i> passage de la vie à la mort.<p><b>Étym</b>. περάω.`

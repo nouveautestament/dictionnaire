@@ -1,0 +1,1 @@
+lar[60518]=`<i>ion</i>. <b>λευκανίη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> gorge, IL. <i>22, 325</i> ; ANTH. <i>11, 382</i>.<p><b>Étym</b>. <i>ion. c</i>. λαυκανία.`

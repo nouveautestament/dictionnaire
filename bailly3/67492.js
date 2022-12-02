@@ -1,0 +1,1 @@
+lar[67492]=`<b>μύ·ωψ, ωπος (ὁ, ἡ)</b> qui cligne les yeux pour mieux voir, myope, ARSTT. <i>Probl. 31, 16</i> ; A. APHR. <i>Probl. 1, 74</i>.<p><b>Étym</b>. μύω, ὤψ.`

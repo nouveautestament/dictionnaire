@@ -1,0 +1,1 @@
+lar[83518]=`<b>προ·αιτιάομαι-ῶμαι</b>, accuser auparavant, NT. <i>Rom. 3, 9</i>.`

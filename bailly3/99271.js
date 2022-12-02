@@ -1,0 +1,1 @@
+lar[99271]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de Timon, PLUT. <i>Ant. 71</i>.<p><b>Étym</b>. Τίμων.`

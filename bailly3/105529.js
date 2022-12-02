@@ -1,0 +1,1 @@
+lar[105529]=`<b>φιλαυτέω-ῶ</b> <font color="purple">[ῐ]</font> s’aimer soi-même, être égoïste, PHIL. <i>2, 558</i>.<p><b>Étym</b>. φίλαυτος.`

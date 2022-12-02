@@ -1,0 +1,1 @@
+lar[81480]=`<b>ης, ες</b>, herbeux, couvert de pâturages, HDT. <i>4, 47</i>.<p><b>Étym</b>. ποία, -ωδης.`

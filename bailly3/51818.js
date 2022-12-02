@@ -1,0 +1,1 @@
+lar[51818]=`<b>καρκινο·βάτης</b> <font color="purple">[ῐᾰ]</font> <i>ou</i> <b>καρκινοβήτης, ου</b>, <i>adj. m</i>. qui marche comme une écrevisse, ARISTON (ATH. <i>287d</i>).<p><b>Étym</b>. κ. βαίνω.`

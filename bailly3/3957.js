@@ -1,0 +1,1 @@
+lar[3957]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> descendant d’Aktôr (Ekheklès, <i>etc</i>.) IL. <i>16, 189</i> ; A.RH. <i>2, 913</i>.<p><b>Étym</b>. Ἄκτωρ.`

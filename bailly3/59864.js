@@ -1,0 +1,1 @@
+lar[59864]=`<b>έως (ὁ)</b> habitant de la v. Larandes (<i>auj</i>. Karaman) <i>v. de Lycaonie,</i> ANTH. <i>9, 364</i>.`

@@ -1,0 +1,1 @@
+lar[24057]=`<b>δευτερο·γενής, ής, ές</b>, né d’une seconde pousse, <i>ou simpl</i>. plus tard, A. CAR. <i>118</i>.<p><b>Étym</b>. δεύτερος, γεν- <i>de</i> γίγνομαι.`

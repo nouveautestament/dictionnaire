@@ -1,0 +1,1 @@
+lar[18691]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> territoire de Babylone, <i>d’où</i> Babylonie, <i>contrée d’Assyrie entre la Mésopotamie, le Tigre et le g. Persique,</i> XÉN. DS.<br><b>      2</b> Babylonie, <i>v. de la Basse-Égypte,</i> DS. STR. <i>etc</i>.<p>➳ <i>Ion</i>. βαβυλωνίη, ARR. <i>Ind. 43, 1</i>.<p><b>Étym</b>. <i>fém. de</i> βαβυλώνιος.`

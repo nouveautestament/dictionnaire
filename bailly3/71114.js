@@ -1,0 +1,1 @@
+lar[71114]=`<b>ατος (τὸ) :<br>      1</b> glissement, chute, PLAT. <i>Tim. 43c ; fig</i>. PLUT. <i>M. 49c.</i><br><b>      2</b> luxation, HPC. <i>572, 46</i>.<p><b>Étym</b>. ὀλισθάνω.`

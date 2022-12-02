@@ -1,0 +1,1 @@
+lar[15547]=`<b>ἀρχεσί·μολπος, ος, ον</b> <font color="purple">[ῐ]</font> qui commence le chant, STÉSICH. (ATH. <i>180e</i>).<p><b>Étym</b>. ἄρχω, μολπή.`

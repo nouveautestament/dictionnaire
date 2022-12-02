@@ -1,0 +1,1 @@
+lar[82304]=`<b>Πολυ·πρέπων (ὁ)</b> Polyprépôn, <i>propr</i>. « très beau <i>ou</i> très remarquable », <i>joueur de flûte,</i> LUC. <i>Conv. 20</i>.<p><b>Étym</b>. π. πρέπω.`

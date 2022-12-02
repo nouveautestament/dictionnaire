@@ -1,0 +1,1 @@
+lar[63769]=`<b>ου (ὁ)</b> Mélankridas, <i>h</i>. THC. <i>8, 6</i>.`

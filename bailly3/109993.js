@@ -1,0 +1,1 @@
+lar[109993]=`<b>ψυχοτροφέω-ῶ</b> <font color="purple">[ῡ]</font> entretenir la vie, vivifier, SIB. <i>Proœm. 46</i>.<p><b>Étym</b>. ψυχοτρόφος.`

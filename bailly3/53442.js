@@ -1,0 +1,1 @@
+lar[53442]=`<b>κατα·στενάζω</b>, gémir sur, <i>d’où au pass</i>. être pleuré, déploré, ALCIPHR. <i>3, 36, 2</i>.`

@@ -1,0 +1,1 @@
+lar[44695]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῐδ]</font> <i>c</i>. ζῳδάριον HÉRON <i>Spir. 225</i>.`

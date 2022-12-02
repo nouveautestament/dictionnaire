@@ -1,0 +1,1 @@
+lar[70831]=`<i>adv</i>., huit fois, LUC. <i>Ind. 4</i> ; A. PL. <i>82, 1</i>.<p><b>Étym</b>. ὀκτώ, -άκις.`

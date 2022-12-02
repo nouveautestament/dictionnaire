@@ -1,0 +1,1 @@
+lar[8977]=`<b>ἀνθρωπο·ρραίστης, ου (ὁ)</b> fléau des hommes, <i>titre d’une comédie de Strattis</i>.<p><b>Étym</b>. ἄ. ῥαίω.`

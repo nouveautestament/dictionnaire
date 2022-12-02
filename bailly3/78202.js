@@ -1,0 +1,1 @@
+lar[78202]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> arbre à poivre, poivrier, PHILSTR. <i>97</i>.<p><b>Étym</b>. πέπερι.`

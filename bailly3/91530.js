@@ -1,0 +1,1 @@
+lar[91530]=`<b>ή, όν</b>, de Smyrne <i>en Ionie,</i> LUC. <i>Im. 2</i> ; DURIS (ATH. <i>319d</i>).<p><b>Étym</b>. Σμύρνα.`

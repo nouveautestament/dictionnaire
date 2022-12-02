@@ -1,0 +1,1 @@
+lar[13365]=`<b>ἀπο·σπάραγμα, ατος (τὸ)</b> <font color="purple">[πᾰ]</font> fragment, lambeau, ANTH. <i>13, 21</i>.<p><b>Étym</b>. ἀποσπαράσσω.`

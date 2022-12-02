@@ -1,0 +1,1 @@
+lar[60990]=`<b>λιγύ·πνοιος, ος, ον</b> <font color="purple">[ῐ]</font> au souffle harmonieux <i>ou</i> strident, HH. <i>Ap. 28</i>.<p><b>Étym</b>. λ. πνοιή.`

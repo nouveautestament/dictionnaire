@@ -1,0 +1,1 @@
+lar[77709]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. πελάγιος, PAUS. <i>7, 21, 7</i>.`

@@ -1,0 +1,1 @@
+lar[4617]=`<b>ου (ὁ)</b> Alkæos (Alcée) :<br><b>      1</b> <i>fils de Persée,</i> HÉS. <i>Sc. 26, etc.</i><br><b>      2</b> <i>poète lyrique,</i> HDT. <i>5, 95</i> ; ARSTT. <i>Pol. 3, 9</i>.<br><b>      3</b> <i>autres,</i> HDT. DS. <i>etc</i>.<p>➳ <i>Gén. dor</i>. -αίω, MOSCH. <i>3, 89 Dor</i>. Ἀλκάος, ALC. <i>24</i>.<p><b>Étym</b>. ἀλκαῖος.`

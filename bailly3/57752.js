@@ -1,0 +1,1 @@
+lar[57752]=`<b>κρεο·κοπέω-ῶ</b>, couper de la chair <i>ou</i> de la viande en morceaux, dépecer, ESCHL. <i>Pers. 463</i> ; EUR. <i>Cycl. 358</i>.<p><b>Étym</b>. κρέας, -κοπος <i>de</i> κόπτω.`

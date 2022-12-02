@@ -1,0 +1,1 @@
+lar[52932]=`<b>κατα·νοσφίζομαι</b>, détourner à son profit, s’approprier par un vol, DH. <i>4, 11</i>.`

@@ -1,0 +1,1 @@
+lar[92427]=`<b>ή, όν</b>, propre à affermir, <i>gén</i>. ANTYLL. <i>123</i>.<p><b>Étym</b>. στερεόω.`

@@ -1,0 +1,1 @@
+lar[88323]=`<b>ου (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> chou, AR. <i>fr. 163 Dind.</i> ; ARSTT. <i>H.A. 5 ; 19, 5, etc.</i><br><b>      2</b> rave, ARSTT. <i>Probl. 20, 13, 2</i> ; COM. (POLL. <i>1, 247).</i><p><b>Étym</b>. <i>pré-grec ; cf</i>. ῥαφανίς, ῥάπυς, ῥάφυς.`

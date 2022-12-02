@@ -1,0 +1,1 @@
+lar[91989]=`<b>οῦ (ὁ) :<br>      1</b> emploi du spondée, PLUT. <i>M. 1135</i>.<br><b>      2</b> <i>t. de mus</i>. intervalle qui élève le ton de trois quarts, A. QUINT. <i>p. 28</i>.<p><b>Étym</b>. σπονδειάζω.`

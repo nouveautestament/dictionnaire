@@ -1,0 +1,1 @@
+lar[39382]=`<i>adv</i>., avec attention, avec soin, BAS. <i>1, 649 ; 2, 480, 542, 611</i>.<p><b>Étym</b>. ἐπιτηρέω.`

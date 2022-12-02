@@ -1,0 +1,1 @@
+lar[33390]=`<font color="purple">[ᾰ]</font> <i>adv</i>., auprès de, <i>dat</i>. HÉS. <i>O. 732</i>.<p><b>Étym</b>. ἐμπελάζω, -δον.`

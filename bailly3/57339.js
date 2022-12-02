@@ -1,0 +1,1 @@
+lar[57339]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> sorte d’engin de pêche, EL. <i>N.A. 12, 43</i>.`

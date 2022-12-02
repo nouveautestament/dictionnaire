@@ -1,0 +1,1 @@
+lar[65532]=`<b>μητρ·αλοίας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> meurtrier de sa mère, ESCHL. <i>Eum. 153, 210</i> ; PLAT. <i>Leg. 881a, etc</i>.<p><b>Étym</b>. μ. ἀλοιάω.`

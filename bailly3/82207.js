@@ -1,0 +1,1 @@
+lar[82207]=`<b>πολυοχλέω-ῶ</b>, être très nombreux, DH. <i>6, 64</i>.<br><b><i>Moy.</i></b> être très populeux, très peuplé, STR. <i>378</i> ; DH. <i>14, 95</i>.<p><b>Étym</b>. πολύοχλος.`

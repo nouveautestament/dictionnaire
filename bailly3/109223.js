@@ -1,0 +1,1 @@
+lar[109223]=`<b>χρυσό·παστος, ος, ον :<br>      1</b> saupoudré d’or, TH. <i>Lap. 23</i>.<br><b>      2</b> parsemé, constellé, tacheté <i>ou</i> brodé d’or, HDT. <i>8, 120</i> ; ESCHL. <i>Ag. 760</i> ; DÉM. <i>1217, 20,</i> PLUT. <i>M. 672a ;</i> LUC. <i>Ind. 8, etc</i>.<p><b>Étym</b>. χρ. πάσσω.`

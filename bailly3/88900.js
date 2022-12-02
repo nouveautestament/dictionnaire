@@ -1,0 +1,1 @@
+lar[88900]=`<b>ων, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. ῥυπαρός, CÆSAR. <i>Qu. 19, p. 104</i>.`

@@ -1,0 +1,1 @@
+lar[33935]=`<b>ἐν·αποδύομαι</b> <font color="darkgreen">(<i>f</i>. -δύσομαι)</font> <font color="purple">[ᾰ]</font> se déshabiller pour la lutte dans, <i>d’où</i> s’exercer à, <i>dat</i>. HIM. <i>Or. 17, 2</i>.`

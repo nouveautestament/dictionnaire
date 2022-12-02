@@ -1,0 +1,1 @@
+lar[91544]=`<b>ή, όν</b>, propre à guérir les contusions, GAL. <i>Lex. Hipp. 19, 139</i>.<p><b>Étym</b>. σμῶδιξ.`

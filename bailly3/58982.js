@@ -1,0 +1,1 @@
+lar[58982]=`<b>ῆς (ἡ)</b> la Kyrrhèstique, <i>contrée entre la plaine d’Antioche et la Commagène,</i> PLUT. <i>Demetr. 48, Ant. 34</i>.`

@@ -1,0 +1,1 @@
+lar[20860]=`<b>βροτο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> qui marche à travers les rochers <i>ou</i> les montagnes (<i>sel. Fritzsche,</i> à travers les pierres, dont Deucalion fit des hommes), THCR. <i>Syr. 13</i>.<p><b>Étym</b>. βροτός, βαίνω.`

@@ -1,0 +1,1 @@
+lar[83736]=`<b>προ·αφαιρέω-ῶ</b> <font color="darkgreen">(<i>f</i>. ήσω, <i>ao.2</i> προαφεῖλον, <i>etc</i>.)</font> enlever avant, <i>gén. de temps,</i> APP. <i>Civ. 2, 26</i>.<br><b><i>Moy.</i></b> enlever d’avance <i>ou</i> auparavant, <i>acc</i>. DS. <i>5, 29</i>.`

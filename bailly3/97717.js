@@ -1,0 +1,1 @@
+lar[97717]=`<b>έως (ὁ)</b> habitant de Tarse, PLUT. <i>Mar. 46</i> ; LUC. <i>Macr. 21, etc</i>.<p><b>Étym</b>. Ταρσός.`

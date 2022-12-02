@@ -1,0 +1,1 @@
+lar[61880]=`<b>(ὁ)</b> <font color="purple">[ῠ]</font> Lykis, <i>poète comique,</i> AR. <i>Ran. 14</i>.<p><b>Étym</b>. λύκος.`

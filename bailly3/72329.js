@@ -1,0 +1,1 @@
+lar[72329]=`<b>*ὁπλιστής</b>, <i>dor</i>. <b>ὁπλιστάς, ᾶ</b>, <i>adj. m</i>. qui sert d’équipement <i>ou</i> d’armure, ANTH. <i>7, 230</i>.<p><b>Étym</b>. ὁπλίζω.`

@@ -1,0 +1,1 @@
+lar[74676]=`<b>ή, όν</b>, lancé : παλτὸν πῦρ, SOPH. <i>Ant. 131,</i> l’éclair <i>ou</i> la foudre.<p><b>Étym</b>. <i>vb. de</i> πάλλω.`

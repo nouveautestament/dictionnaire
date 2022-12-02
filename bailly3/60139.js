@@ -1,0 +1,1 @@
+lar[60139]=`<b>λειοτριβέω-ῶ</b> <font color="purple">[ῐ]</font> réduire en poudre fine, A. TR. <i>2, 50</i> ; DIOSC. <i>1, 6</i>.<p><b>Étym</b>. λειοτριβής.`

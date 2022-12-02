@@ -1,0 +1,1 @@
+lar[62160]=`<b>ῆρος</b>, <i>adj. m.</i> :<br><b>      1</b> qui outrage, insulteur, IL. <i>2, 275 ; 11, 385</i>.<br><b>      2</b> qui fait périr, qui ruine <i>ou</i> détruit, SOPH. <i>Ant. 1074</i>.<br><b>      3</b> être malfaisant, scélérat, misérable, IL. <i>24, 239</i> ; A.RH. <i>3, 372</i>.<p><b>Étym</b>. λωβάομαι.`

@@ -1,0 +1,1 @@
+lar[1457]=`<i>adv</i>., sans soif, HPC. <i>Epid. 3, 1089</i>.`

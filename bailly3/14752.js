@@ -1,0 +1,1 @@
+lar[14752]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> d’Aristote, aristotélique, LUC. <i>2, 393 Reitz</i> ; οἱ Ἀ. SEXT. <i>261, 6 Bkk</i>. les disciples d’Aristote.<p><b>Étym</b>. Ἀριστοτέλης.`

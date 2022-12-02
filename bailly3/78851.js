@@ -1,0 +1,1 @@
+lar[78851]=`<b>περι·κυλίω</b> <font color="purple">[ῠ]</font><br><b>      1</b> faire rouler autour, AR. <i>Pax 7 ; au pass</i>. rouler, GAL. <i>18, 327</i>.<br><b>      2</b> faire rouler en arrière, <i>avec</i> εἰς <i>et l’acc</i>. DS. <i>18, 34</i> ; DH. <i>9, 21</i>.`

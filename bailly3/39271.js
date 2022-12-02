@@ -1,0 +1,1 @@
+lar[39271]=`<b>ἐπι·σφάλλω</b>, faire tomber, renverser, JOS. <i>B.J. 3, 7, 29</i>.`

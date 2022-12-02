@@ -1,0 +1,1 @@
+lar[5895]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἄμυγμα ESCHL. <i>Ch. 24 conj</i>.`

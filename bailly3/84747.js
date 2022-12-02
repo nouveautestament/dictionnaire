@@ -1,0 +1,1 @@
+lar[84747]=`<b>προ·μοιχεύω</b>, servir d’entremetteur, PLUT. <i>Galb. 19</i>.`

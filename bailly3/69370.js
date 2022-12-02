@@ -1,0 +1,1 @@
+lar[69370]=`<b>ων (οἱ)</b> les Xanthies, <i>habitants de la ville de Xanthos, en Lycie,</i> HDT. <i>1, 176</i>.`

@@ -1,0 +1,1 @@
+lar[91922]=`<i>ou</i> <b>σπῖνος, ου (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> <i>petit oiseau,</i> serin <i>sel. les uns, sel. d’autres</i> pinson, AR. <i>Av. 1079, Pax 1149</i> ; TH. <i>Sign. 19, 23 ; 39, 40</i> ; EL. <i>N.A. 4, 60</i>.<br><b>      2</b> sorte d’alun, ARSTT. <i>Mir. 41</i> ; TH. <i>Lap. 13</i>.<p>➳ σπῖνος, TH. <i>Lap. 13</i>.`

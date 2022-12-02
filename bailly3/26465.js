@@ -1,0 +1,1 @@
+lar[26465]=`<b>Δικαιο·γένης, ους (ὁ)</b> <font color="purple">[ῐ]</font> Dikæogénès :<br><b>      1</b> <i>poète,</i> ARSTT. <i>Poet. 16, etc.</i><br><b>      2</b> <i>autres,</i> IS. <i>5, 5, etc. Baiter-Sauppe</i>.<p>➳ <i>Voc</i>. Δικαιόγενες, IS. <i>5, 43 ; acc</i>. -ην, IS. <i>5, 1, etc. ; ou</i> -η, IS. <i>5, 12</i>.<p><b>Étym</b>. δίκαιος, γίγνομαι.`

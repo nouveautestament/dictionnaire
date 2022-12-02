@@ -1,0 +1,1 @@
+lar[87511]=`<b>πυγ·μάχος, ος, ον</b> <font color="purple">[ᾰ]</font> qui lutte à coups de poing, <i>particul. subst</i>. ὁ π. athlète qui lutte au pugilat, OD. <i>8, 246</i> ; PD. <i>I. 8, 135</i> ; LUC. <i>J. tr. 33</i>.<p><b>Étym</b>. πύξ, μάχομαι.`

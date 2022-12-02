@@ -1,0 +1,1 @@
+lar[11414]=`<b>ἀπάρτιον προγράφειν</b>, PLUT. <i>Cic. 27, M. 205c</i>, afficher une vente aux enchères.<p><b>Étym</b>. ἀπαίρω ; <i>cf</i>. ἁπαρτία.`

@@ -1,0 +1,1 @@
+lar[65818]=`<b>μιλτόω-ῶ</b>, enduire de vermillon, AR. <i>Ach. 22</i>.<br><b><i>Moy.</i></b> se farder avec du vermillon, HDT. <i>4, 194</i>.<p><b>Étym</b>. μίλτος.`

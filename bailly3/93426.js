@@ -1,0 +1,1 @@
+lar[93426]=`<b>συγ·κενόω-ῶ</b>, vider <i>ou</i> évacuer à la fois, A. TR. <i>1, p. 102</i>.`

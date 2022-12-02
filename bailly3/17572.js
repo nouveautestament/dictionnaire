@@ -1,0 +1,1 @@
+lar[17572]=`<b>αὐτο·μαθής, ής, ές</b> <font color="purple">[μᾰ]</font> qui s’est instruit par lui-même, PLUT. <i>M. 992a ;</i> τινος, ANTH. <i>6, 218,</i> en qqe ch.<p><b>Étym</b>. αὐ. μανθάνω.`

@@ -1,0 +1,1 @@
+lar[47050]=`<i>att</i>. <b>Θετταλίζω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> imiter les Thessaliens, EL. <i>V.H. 4, 15</i>.<br><b>      2</b> parler la langue des Thessaliens, D. CHR. <i>1, 315</i>.<p><b>Étym</b>. Θεσσαλός.`

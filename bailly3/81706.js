@@ -1,0 +1,1 @@
+lar[81706]=`<b>πολύ·ανδρος, ος, ον :<br>      1</b> abondant en hommes, populeux, <i>en parl. de villes, de pays,</i> ESCHL. <i>Pers. 73, 899 ; en parl. de pers</i>. nombreux, ESCHL. <i>Pers. 533, etc.</i><br><b>      2</b> qui a eu <i>ou</i> qui a plusieurs époux, NONN. <i>Jo. 4, 16</i>.<p><b>Étym</b>. π. ἀνήρ.`

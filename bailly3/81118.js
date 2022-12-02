@@ -1,0 +1,1 @@
+lar[81118]=`<b>ά, όν</b>, qui procure la richesse, XÉN. <i>Œc. 2, 10</i>.<p><b>Étym</b>. πλοῦτος.`

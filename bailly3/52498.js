@@ -1,0 +1,1 @@
+lar[52498]=`<b>κατα·καχρύω</b>, broyer de l’orge, PAUS. (EUST. <i>p. 1835, 42).</i><p><b>Étym</b>. κ. κάχρυς.`

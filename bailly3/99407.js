@@ -1,0 +1,1 @@
+lar[99407]=`<b>υος (ὁ)</b> <font color="purple">[ῑ]</font> Tiphys, <i>pilote du vaisseau Argo,</i> A.RH. <i>1, 105, etc.</i> ; APD. <i>1, 9, 16, etc</i>.<p>➳ <i>Voc</i>. Τῖφυ, A.RH. <i>2, 622</i> ; ORPH. <i>Arg. 545</i>.`

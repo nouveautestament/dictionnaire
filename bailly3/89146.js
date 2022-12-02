@@ -1,0 +1,1 @@
+lar[89146]=`<b>ορος (ὁ)</b> celui qui remplit, qui entasse : σ. ᾍδου, ESCHL. <i>Pers. 924,</i> pourvoyeur des Enfers.<p><b>Étym</b>. σάττω.`

@@ -1,0 +1,1 @@
+lar[25771]=`<b>δια·τρέφω</b>, <i>litt</i>. nourrir jusqu’au bout, <i>càd</i>. avec sollicitude, soutenir, THC. <i>4, 39</i> ; XÉN. <i>Mem. 2, 7, 6</i>.`

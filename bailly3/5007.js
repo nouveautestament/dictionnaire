@@ -1,0 +1,1 @@
+lar[5007]=`<font color="darkgreen">(<i>seul. impf</i>. ἀλύκταζον)</font> être agité, inquiet, HDT. <i>9, 70</i>.`

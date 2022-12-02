@@ -1,0 +1,1 @@
+lar[109236]=`<b>χρυσο·ποίκιλτος, ος, ον</b> <font color="purple">[ῡ]</font> plaqué d’or, DS. <i>18, 26</i> ; CLÉM. <i>216</i>.<p><b>Étym</b>. χρ. ποικίλλω.`

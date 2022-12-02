@@ -1,0 +1,1 @@
+lar[12419]=`<b>οῦ (ὁ)</b> oppression, AQU. <i>Ex. 3, 9</i>.<p><b>Étym</b>. ἀποθλίβω.`

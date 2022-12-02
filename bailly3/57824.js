@@ -1,0 +1,1 @@
+lar[57824]=`<i>adv</i>., de la fontaine, ANTH. <i>15, 25</i>.<p><b>Étym</b>. κρήνη, -θεν.`

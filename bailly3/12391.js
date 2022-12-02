@@ -1,0 +1,1 @@
+lar[12391]=`<b>ή, όν</b> <font color="purple">[ρᾰ]</font> qui concerne le soin du corps après les exercices gymnastiques, ANTYLL. <i>107</i> ; P. ÉG. <i>p. 6, 41 Matthäi etc</i>.<p><b>Étym</b>. ἀποθεραπεύω.`

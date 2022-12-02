@@ -1,0 +1,1 @@
+lar[107764]=`<b>χαμαι·κέρασος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> cerisier nain, ASCLÉP. (ATH. <i>50d</i>).<br><b>      2</b> plante basse, à baies rouges comme les cerises, DIOSC. <i>1, 157</i>.`

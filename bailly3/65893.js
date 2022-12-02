@@ -1,0 +1,1 @@
+lar[65893]=`<b>μινυθέω-ῶ</b> <font color="purple">[ῐῠ]</font> <i>Ion. c</i>. μινύθω, HPC. <i>746, 850a, 866b</i>.`

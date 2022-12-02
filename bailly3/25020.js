@@ -1,0 +1,1 @@
+lar[25020]=`<b>δι·άμειπτος, ος, ον</b> <font color="purple">[ᾰ]</font> changeant, SAPPH. (DYSC. <i>Pron. 384c</i>).<p><b>Étym</b>. διαμείβω.`

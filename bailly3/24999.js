@@ -1,0 +1,1 @@
+lar[24999]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> instruction préliminaire, <i>à peu près au sens de</i> ἀνάκρισις, DÉM. <i>1097, 20</i>.<br><b>      2</b> opposition préjudicielle du défendeur, soutenant que la cause n’est pas recevable, ISOCR. <i>373c</i>.`

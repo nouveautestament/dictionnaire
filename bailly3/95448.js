@@ -1,0 +1,1 @@
+lar[95448]=`<b>συν·ελευθερόω-ῶ</b>, aider à s’affranchir de, <i>gén</i>. HDT. <i>5, 46 ; avec</i> ἀπό <i>et le gén</i>. PLUT. <i>Phil. 8 ; abs</i>. aider à affranchir, <i>acc</i>. HDT. <i>7, 51, 157</i> ; THC. <i>2, 72</i>.`

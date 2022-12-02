@@ -1,0 +1,1 @@
+lar[77692]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰ]</font> les Pisistratides <i>ou</i> fils de Pisistrate, HDT. <i>5, 62, etc.</i> ; THC. <i>1, 20, etc.</i> ; PLAT. <i>Hipparch. 228b, etc</i>.<p>➳ <i>Gén. ion</i>. -έων, HDT. <i>5, 65 ; 8, 52 ; dat. ion</i>. -ῃσι, HDT. <i>5, 62</i>.<p><b>Étym</b>. <i>patr. de</i> Πεισίστρατος.`

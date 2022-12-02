@@ -1,0 +1,1 @@
+lar[50875]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> fraude, intrigue, ŒNOM. (EUS. <i>3, 373 Migne).</i><p><b>Étym</b>. κακοτεχνέω.`

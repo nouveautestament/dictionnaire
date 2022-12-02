@@ -1,0 +1,1 @@
+lar[109773]=`<b>ας (ἡ)</b> étrille pour les chevaux, SOPH. <i>fr. 422</i> ; AR. <i>fr. 138</i> ; ANTH. <i>6, 233, 246, etc</i>.<p><b>Étym</b>. ψήχω.`

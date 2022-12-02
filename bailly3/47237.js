@@ -1,0 +1,1 @@
+lar[47237]=`<b>Θήρ·αγρος, ου (ὁ)</b> le Chasseur, <i>n. de chien,</i> ANTH. <i>7, 304</i>.<p><b>Étym</b>. <i>v</i>. θήραγρος.`

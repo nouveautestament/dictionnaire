@@ -1,0 +1,1 @@
+lar[90990]=`<b>οῦ (ὁ)</b> qui bondit, sauteur, <i>en parl. des Bacchants,</i> CORN. <i>N.D. 30</i>.<p><b>Étym</b>. σκιρτάω.`

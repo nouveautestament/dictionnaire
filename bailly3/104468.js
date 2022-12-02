@@ -1,0 +1,1 @@
+lar[104468]=`<b>ὑψ·ήνωρ, ορος (ὁ, ἡ)</b> qui exalte les hommes, qui les rend fiers, NONN. <i>D. 17, 169</i>.<p><b>Étym</b>. ὕψι, ἀνήρ.`

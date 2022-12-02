@@ -1,0 +1,1 @@
+lar[76864]=`<b>πάρ·ημαι</b> <font color="darkgreen">(<i>inf</i>. παρῆσθαι, <i>impf</i>. παρήμην)</font> être assis auprès de, <i>dat</i>. IL. <i>1, 421, etc.</i> ; OD. <i>17, 456, etc.</i> ; EUR. <i>Suppl. 290 ; p. ext</i>. rester auprès de, à côté de, <i>dat</i>. OD. <i>13, 407 ; abs</i>. IL. <i>9, 311</i> ; OD. <i>11, 578 ; 19, 209</i>.<p><b>Étym</b>. παρά, ἧμαι.`

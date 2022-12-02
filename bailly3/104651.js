@@ -1,0 +1,1 @@
+lar[104651]=`<b>ου (ὁ)</b> Phædôndès, <i>disciple de Socrate,</i> XÉN. <i>Mem. 1, 2, 48</i>.<p><b>Étym</b>. <i>patr. de</i> Φαίδων.`

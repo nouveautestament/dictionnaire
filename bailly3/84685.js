@@ -1,0 +1,1 @@
+lar[84685]=`PLUT. <i>Cato ma. 23, d’ord</i>. προμαντεύομαι, annoncer d’avance, prédire, <i>acc</i>. HDT. <i>3, 125</i> ; EUR. <i>fr. 485 ; avec</i> ὡς, LUC. <i>D. deor. 16, 1 ; avec une prop. inf</i>. LUC. <i>D. mort. 11, 2, etc</i>.<p><b>Étym</b>. π. μαντεύομαι.`

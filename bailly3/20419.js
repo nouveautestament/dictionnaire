@@ -1,0 +1,1 @@
+lar[20419]=`<b>βου·κράνιον, ου (τὸ)</b> <font color="purple">[ᾱ]</font> tête de bœuf :<br><b>      1</b> <i>sorte de plante,</i> DIOSC. <i>4, 185</i> ; GAL. <i>2, 85c.</i><br><b>      2</b> instrument de chirurgie, ORIB. <i>729 Mai</i>.<p><b>Étym</b>. βοῦς, κρ.`

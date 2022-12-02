@@ -1,0 +1,1 @@
+lar[78575]=`<b>περι·εξανθέω-ῶ</b>, être couvert tout autour de boutons, GAL. <i>3, 169</i>.`

@@ -1,0 +1,1 @@
+lar[18132]=`<i>forme réc. dér. de</i> ἀφίστημι, <i>m. sign</i>. DIOSC. <i>3, 101</i>.`

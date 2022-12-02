@@ -1,0 +1,1 @@
+lar[34409]=`<b>ἐν·ευδοκιμέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1</b> acquérir de la considération dans <i>ou</i> au milieu de, DÉM. <i>294, 13 ; dat</i>. PLUT. <i>M. 71a.</i><br><b>      2</b> avoir bonne réputation auprès de, <i>dat</i>. EL. <i>V.H. 8, 12</i>.`

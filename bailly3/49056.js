@@ -1,0 +1,1 @@
+lar[49056]=`<b>ου (ὁ)</b> endive, <i>sorte de chicorée (Cichorium endivia</i> L.) GAL. <i>6, 360</i> ; AÉT. <i>1, p. 11b, 51</i>.<p><b>Étym</b>. <i>lat</i>. intubus, intiba.`

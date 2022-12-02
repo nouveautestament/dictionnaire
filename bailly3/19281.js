@@ -1,0 +1,1 @@
+lar[19281]=`<b>ου (ὁ)</b> <font color="purple">[ᾰσῐ]</font> Basiliskos, <i>h</i>. ANTH. <i>1, 11</i>.<p><b>Étym</b>. βασιλίσκος.`

@@ -1,0 +1,1 @@
+lar[23871]=`<b>δενδρόω-ῶ</b> (<i>seul. prés</i>.) faire pousser en arbre, NONN. <i>D. 43, 234 ; au pass</i>. pousser en arbre, devenir arbre, TH. <i>H.P. 1, 9, 4 ; C.P. 2, 15, 5 ; 2, 18, 2</i>.<br><b><i>Moy.</i></b> (<i>seul. ao. 3 sg. poét</i>. δενδρώσατο) faire pousser en arbre, <i>acc</i>. NONN. <i>D. 12, 190</i>.<p><b>Étym</b>. δένδρον.`

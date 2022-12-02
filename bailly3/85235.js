@@ -1,0 +1,1 @@
+lar[85235]=`<b>προσ·απογράφω</b> <font color="purple">[ᾰφ]</font> accuser <i>ou</i> dénoncer en outre, LYS. <i>132, 34 ; 135, 6, etc</i>.`

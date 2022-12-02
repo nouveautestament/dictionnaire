@@ -1,0 +1,1 @@
+lar[64557]=`<b>*μεσο·πύλη</b>, <i>seul</i>. <b>μεσσο·πύλη, ης (ἡ)</b> <font color="purple">[ῠ]</font> porte du milieu, ANTH. <i>5, 203</i>.<p><b>Étym</b>. μέσος, πύλη.`

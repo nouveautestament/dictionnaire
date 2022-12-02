@@ -1,0 +1,1 @@
+lar[100833]=`<b>ης, ες</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui dépose de la lie ; <i>subst</i>. τὸ τρυγῶδες, ARSTT. <i>Probl. 20, 35, 1</i> ; PLUT. <i>M. 693e, 935b</i>, la lie du vin.<br><b>      2</b> qui forme un dépôt, HPC. <i>207c ;</i> ARÉT. <i>Caus. m. diut. 1, 12</i>.<p><b>Étym</b>. τρύξ, -ωδης.`

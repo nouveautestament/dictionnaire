@@ -1,0 +1,1 @@
+lar[62262]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> de magicien, magique, enchanteur, PHILSTR. <i>4</i>.<p>•<i> Cp</i>. -ώτερος, ANTH. <i>5, 121</i>.<p><b>Étym</b>. μάγος.`

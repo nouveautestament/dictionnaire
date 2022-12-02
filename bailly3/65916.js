@@ -1,0 +1,1 @@
+lar[65916]=`<i>adv</i>., pêle-mêle, confusément, NIC. <i>Th. 615</i>.<p><b>Étym</b>. μίγνυμι.`

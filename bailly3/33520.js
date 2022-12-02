@@ -1,0 +1,1 @@
+lar[33520]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> action de gonfler, PLUT. <i>M. 905c ;</i> ATH. <i>53c.</i><br><b>      2</b> action de donner des vents, GAL. <i>2, 52</i> ; DIOSC. <i>1, 19 ; 2, 26</i>.<p><b>Étym</b>. ἐμπνευματόω.`

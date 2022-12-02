@@ -1,0 +1,1 @@
+lar[3733]=`<font color="purple">[ᾱτ]</font> <i>vb. de</i> ἀκροάομαι, AR. <i>Av. 1228</i>.`

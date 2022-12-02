@@ -1,0 +1,1 @@
+lar[75317]=`<b>ας (ἡ)</b> destruction générale, massacre général, THC. <i>7, 87</i> ; DC. <i>56, 4 ; au plur</i>. PLUT. <i>M. 1049b</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>2, 120</i>.<p><b>Étym</b>. πανώλεθρος.`

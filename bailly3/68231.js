@@ -1,0 +1,1 @@
+lar[68231]=`<b>νεό·ρρυτος, ος, ον</b> <font color="purple">[ῡ]</font> encore dégouttant (du sang versé) ESCHL. <i>Ag. 1351</i>.<p><b>Étym</b>. ν. ῥύω.`

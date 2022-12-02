@@ -1,0 +1,1 @@
+lar[54823]=`<b>Κεραμῶν ἀγορά (ἡ)</b> le Marché aux potiers, <i>n. d’une v. de Mysie,</i> XÉN. <i>An. 1, 2, 10</i>.<p><b>Étym</b>. <i>contr. p</i>. κεραμέων.`

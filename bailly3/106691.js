@@ -1,0 +1,1 @@
+lar[106691]=`<i>adv</i>., en forme de natte, par entre-croisement, <i>càd</i>. alternativement en long et en large, THC. <i>2, 75 ; 4, 48</i> ; PHIL. <i>2, 530</i> ; ARSTD. <i>t. 2, 312, etc</i>.<p><b>Étym</b>. φορμός, -δην.`

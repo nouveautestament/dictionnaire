@@ -1,0 +1,1 @@
+lar[81494]=`<i>ion</i>. <b>Πόλη (ἡ)</b> Pola, <i>v. d’Istrie,</i> ANTH. <i>7, 302</i>.`

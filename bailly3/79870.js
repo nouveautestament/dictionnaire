@@ -1,0 +1,1 @@
+lar[79870]=`<b>ου (ὁ)</b> = <i>lat</i>. Peticius, <i>n. d’h. rom</i>. PLUT. <i>Pomp. 72</i>.`

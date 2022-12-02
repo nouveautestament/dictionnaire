@@ -1,0 +1,1 @@
+lar[3915]=`<b>ωνος (ὁ)</b> Aktæôn (Actéon) :<br><b>      1</b> <i>chasseur dévoré par les chiens d’Artémis,</i> EUR. <i>Bacch. 337</i> ; LUC. <i>D. deor. 16, 2, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Sert. 1, etc</i>.<p>➳ <i>Voc</i>. -αίων, NONN. <i>D. 5, 316 ; gén. poét</i>. -ονος, EUR. <i>l. c</i>.`

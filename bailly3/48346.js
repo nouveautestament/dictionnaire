@@ -1,0 +1,1 @@
+lar[48346]=`<b>Ἰβηρο·βοσκός, ός, όν</b> <font color="purple">[ῐ]</font> qui nourrit les Ibères, LYC. <i>643</i>.<p><b>Étym</b>. Ἴβηρ, βόσκω.`

@@ -1,0 +1,1 @@
+lar[74720]=`<b>πάμ·μικρος, ος, ον</b> <font color="purple">[ῑ]</font> tout petit, ARSTT. <i>P.A. 3, 4, 2, etc</i>.<p><b>Étym</b>. π. μικρός.`

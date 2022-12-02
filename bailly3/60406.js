@@ -1,0 +1,1 @@
+lar[60406]=`<b>λεπτό·δομος, ος, ον</b>, bâti légèrement, fragile, ESCHL. <i>Pers. 112</i>.<p><b>Étym</b>. λ. δέμω.`

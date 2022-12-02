@@ -1,0 +1,1 @@
+lar[29287]=`recevoir son nom le septième jour, <i>en parl. d’un enfant,</i> LYS. (HARP.).<p><b>Étym</b>. ἕβδομος.`

@@ -1,0 +1,1 @@
+lar[184]=`<b>ἄ·βρομος, ος, ον,<br>      1</b> (ἀ <i>augm</i>.) frémissant, grondant, IL. <i>13, 41</i>.<br><b>      2</b> (ἀ <i>priv</i>.) sans bruit, silencieux, A.RH. <i>4, 153</i>.<p><b>Étym</b>. ἀ <i>augm. ou priv</i>., βρέμω.`

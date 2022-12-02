@@ -1,0 +1,1 @@
+lar[18556]=`<b>ἄ·χρωστος, ος, ον :<br>      1</b> qui ne sent pas le contact de la peau, non touché : χερῶν ἐμῶν, EUR. <i>Hel. 831,</i> par mes mains.<br><b>      2</b> non coloré, sans couleur, DÉMOCR. (PLUT. <i>M. 1111a</i>).<p><b>Étym</b>. ἀ, χρώζω.`

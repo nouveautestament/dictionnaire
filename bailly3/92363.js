@@ -1,0 +1,1 @@
+lar[92363]=`<b>στενο·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> souffrir d’une oppression, d’un étouffement, CASS. <i>Probl. 70</i>.<p><b>Étym</b>. στ. πάθος.`

@@ -1,0 +1,1 @@
+lar[76970]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> accessible, CALL. <i>L. Pall. 90</i>.<p><b>Étym</b>. <i>vb. de</i> πάρειμι².`

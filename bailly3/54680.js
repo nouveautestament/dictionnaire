@@ -1,0 +1,1 @@
+lar[54680]=`<b>ή, όν</b>, qui concerne l’épuisement <i>ou</i> l’inanition, HPC. <i>374, 5 ; 425 fin</i>.<p><b>Étym</b>. κενεαγγίη.`

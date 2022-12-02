@@ -1,0 +1,1 @@
+lar[78966]=`<b>περι·νοέω-οῶ :<br>      1</b> rouler dans son esprit, méditer, <i>acc</i>. AR. <i>Ran. 958</i> ; PLUT. <i>Phoc. 14</i>.<br><b>      2</b> considérer sous toutes ses faces, PLUT. <i>Brut. 13, etc</i>.`

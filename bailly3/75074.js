@@ -1,0 +1,1 @@
+lar[75074]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> terreur panique, PLUT. <i>M. 1152d</i>.<p><b>Étym</b>. Πάν.`

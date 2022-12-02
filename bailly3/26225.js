@@ -1,0 +1,1 @@
+lar[26225]=`<b>δι·εξηγέομαι-οῦμαι</b> (<i>inf. ao</i>. -ήσασθαι) raconter <i>ou</i> exposer en détail, XÉN. <i>Mem. 4, 2, 12</i>.`

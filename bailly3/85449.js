@@ -1,0 +1,1 @@
+lar[85449]=`<b>ατος (τὸ)</b> attente, PLAT. <i>Phil. 32b</i>.<p><b>Étym</b>. προσδοκάω.`

@@ -1,0 +1,1 @@
+lar[16102]=`<b>α, ον</b>, plus proche, ARAT. (STOB. <i>Ecl. 1, 546</i>) ; OPP. <i>C. 4, 121</i>.<p><b>Étym</b>. <i>Cp. formé de</i> ἆσσον.`

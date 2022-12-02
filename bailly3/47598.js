@@ -1,0 +1,1 @@
+lar[47598]=`<b>Θρασύ·μηλος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Thrasymèlos, <i>h</i>. IL. <i>16, 463, var. p</i>. Θρασύδημος.<p><b>Étym</b>. θρ. μῆλον.`

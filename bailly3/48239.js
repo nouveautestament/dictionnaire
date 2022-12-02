@@ -1,0 +1,1 @@
+lar[48239]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> Ianeira :<br><b>      1</b> <i>Néréïde,</i> IL. <i>18, 47</i>.<br><b>      2</b> <i>Océanide,</i> HH. <i>Cer. 421</i> ; HÉS. <i>Th. 356</i>.<p><b>Étym</b>. <i>pour</i> *Ϝιϝάνειρα, <i>de</i> ἀνήρ, <i>avec redoubl</i>.`

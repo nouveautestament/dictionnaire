@@ -1,0 +1,1 @@
+lar[73658]=`<b>οὐρανο·δρομέω-ῶ</b> <font color="purple">[ᾰ]</font> courir à travers les cieux, CLÉM. <i>289</i>.<p><b>Étym</b>. οὐρανός, δρόμος.`

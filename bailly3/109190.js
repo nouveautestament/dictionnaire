@@ -1,0 +1,1 @@
+lar[109190]=`<b>χρυσο·κόλλητος, ος, ον</b> <font color="purple">[ῡ]</font> soudé avec de l’or, plaqué d’or, enrichi d’or, EUR. <i>Ph. 2</i> ; ANTIPH. (ATH. <i>781e</i>) ; LUC. <i>Ind. 29</i>.<p><b>Étym</b>. χρ. κολλάω.`

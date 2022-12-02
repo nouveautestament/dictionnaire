@@ -1,0 +1,1 @@
+lar[58790]=`<b>κυνό·γλωσσος, ου (ὁ) :<br>      1</b> cynoglosse, <i>plante,</i> NIC. (ATH. <i>371c</i>).<br><b>      2</b> <i>sorte de poisson,</i> EPICH. (ATH. <i>288b, 308e</i>).<p><b>Étym</b>. <i>cf</i>. κυνόγλωσσον.`

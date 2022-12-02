@@ -1,0 +1,1 @@
+lar[34985]=`<b>ἐν·σφίγγω</b>, attacher fortement à, <i>dat</i>. JOS. <i>A.J. 12, 2, 9</i>.`

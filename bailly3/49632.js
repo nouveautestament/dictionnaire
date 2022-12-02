@@ -1,0 +1,1 @@
+lar[49632]=`<b>ἰσο·επίπεδος, ος, ον</b> <font color="purple">[ῑ̆ῐ]</font> d’une surface égale, JAMBL. <i>Nicom. ar. 131b</i>.<p><b>Étym</b>. ἴ. ἐπίπεδον.`

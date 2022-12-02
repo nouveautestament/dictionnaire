@@ -1,0 +1,1 @@
+lar[35370]=`<b>εως (ἡ)</b> <font color="purple">[ῑβ]</font> exacte observance (de la loi) JOS. <i>A.J. 17, 2, 4</i>.<p><b>Étym</b>. ἐξακριβόω.`

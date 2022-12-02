@@ -1,0 +1,1 @@
+lar[77573]=`<b>ίδος (ἡ)</b> frange, bordure, AR. <i>Pax 409</i>.<p><b>Étym</b>. πέζα.`

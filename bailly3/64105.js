@@ -1,0 +1,1 @@
+lar[64105]=`<b>έως</b>, <i>adj. m</i>. du dème Mélitè, DÉM. <i>27, 56 ; 29, 48, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. Μελίτη.`

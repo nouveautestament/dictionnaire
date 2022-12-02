@@ -1,0 +1,1 @@
+lar[22793]=`<b>εως (ἡ)</b> <font color="purple">[ῠῐσ]</font> action de se déguiser en femme, travestissement de femme, AR. <i>Th. 863</i>.<p><b>Étym</b>. γυναικίζω.`

@@ -1,0 +1,1 @@
+lar[81359]=`<b>α, ον</b>, <i>vb. de</i> ποιέω, HDT. <i>1, 191 ; 7, 15</i> ; THC. <i>4, 99</i> ; PLAT. <i>Rsp. 361c, etc. ; au neutre,</i> AND. <i>25, 29</i>.`

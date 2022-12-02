@@ -1,0 +1,1 @@
+lar[60616]=`<b>λευκο·τριχέω-ῶ</b> <font color="purple">[ῐ]</font> avoir les cheveux blancs <i>ou</i> des cheveux blancs, STR. <i>263</i>.<p><b>Étym</b>. λευκόθριξ.`

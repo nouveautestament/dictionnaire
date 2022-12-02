@@ -1,0 +1,1 @@
+lar[25165]=`<b>δια·νοσφίζω</b>, diviser (la terre) DP. <i>19</i>.<br><b><i>Moy.</i></b> (<i>part. prés</i>.) mettre de côté pour soi, détourner à son profit, DS. <i>19, 71</i>.`

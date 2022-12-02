@@ -1,0 +1,1 @@
+lar[7988]=`<b>ου (τὸ)</b> <font color="purple">[ᾰπ]</font> petit esclave, HYPÉR. (POLL. <i>3, 77).</i><p><b>Étym</b>. ἀνδράποδον.`

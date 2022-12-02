@@ -1,0 +1,1 @@
+lar[99023]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui veille sur, gardien, SIB. <i>5, 399</i>.<p><b>Étym</b>. τηρέω.`

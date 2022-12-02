@@ -1,0 +1,1 @@
+lar[5177]=`<b>ἀ·μαλακιστία, ας (ἡ)</b> <font color="purple">[μᾰλᾰ]</font> fermeté, force, DS. <i>4, 35</i>.<p><b>Étym</b>. ἀ, μαλακίζω.`

@@ -1,0 +1,1 @@
+lar[104189]=`<b>ῆρος (ὁ)</b> <font color="purple">[χῠ]</font> vase à bec pour verser l’huile dans une lampe, SPT. <i>Jer. 52, 19</i>.<p><b>Étym</b>. ὑποχέω.`

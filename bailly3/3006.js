@@ -1,0 +1,1 @@
+lar[3006]=`<b>α, ον</b>, belliqueux, LYC. <i>454</i>.`

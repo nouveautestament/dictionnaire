@@ -1,0 +1,1 @@
+lar[14826]=`<b>ῆς</b>, <i>contr. p</i>. <b>ἀρκτέα, έας (ἡ)</b> <i>s.-e</i>. δορά, peau d’ours, ANAXANDR. (POLL. <i>5, 6).</i><p><b>Étym</b>. ἄρκτος.`

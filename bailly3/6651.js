@@ -1,0 +1,1 @@
+lar[6651]=`<b>εως (ὁ)</b> <font color="purple">[ῡ]</font> anagyre (<i>Anagyris fœtida</i> L.) <i>arbrisseau d’une odeur désagréable,</i> DIOSC. <i>3, 167</i>.`

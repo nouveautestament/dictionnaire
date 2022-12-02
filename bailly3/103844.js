@@ -1,0 +1,1 @@
+lar[103844]=`<b>ὑπο·σμαραγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> résonner sourdement, Q. SM. <i>12, 97</i>.`

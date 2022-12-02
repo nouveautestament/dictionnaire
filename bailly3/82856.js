@@ -1,0 +1,1 @@
+lar[82856]=`<b>πορφυρέω-ῶ</b> <font color="purple">[ῠ]</font> <i>c</i>. πορφύρω, DP. <i>1122</i> ; OPP. <i>C. 2, 697</i> ; NONN. <i>Jo. 1, 44</i>.<p>➳ <font color="purple">[ῡ]</font> NONN. <i>D. l. c</i>.`

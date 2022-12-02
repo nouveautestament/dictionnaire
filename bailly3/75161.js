@@ -1,0 +1,1 @@
+lar[75161]=`<i>adv</i>., avec toutes sortes de graines <i>ou</i> de semences, NIC. (ATH. <i>372f</i>).<p><b>Étym</b>. πάνσπερμος, -δον.`

@@ -1,0 +1,1 @@
+lar[69896]=`<b>ξυνό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῡ]</font> qui a les mêmes sentiments pour tous, <i>ép. d’Apollon,</i> ANTH. <i>9, 525, 15</i>.<p><b>Étym</b>. ξυνός, φρήν.`

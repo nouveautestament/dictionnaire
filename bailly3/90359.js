@@ -1,0 +1,1 @@
+lar[90359]=`<b>σιναμωρέω-ῶ</b> <font color="purple">[ῐᾰ]</font><br><b>      1</b> gâter, <i>d’où</i> piller, dévaster, <i>acc</i>. HDT. <i>1, 152 ; 8, 35</i>.<br><b>      2</b> mâchonner par gourmandise : ἔς τι, PAUS. <i>2, 32, 3,</i> qqe ch. ; <i>au pass. avec sens obscène,</i> AR. <i>Nub. 1070</i>.<p><b>Étym</b>. σινάμωρος.`

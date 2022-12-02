@@ -1,0 +1,1 @@
+lar[2145]=`<b>ου (ὁ)</b> de l’Athôs, LUC. <i>Macr. 5</i>.<p><b>Étym</b>. <i>p</i>. *Ἀθωΐτης, <i>de</i> Ἄθως.`

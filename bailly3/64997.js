@@ -1,0 +1,1 @@
+lar[64997]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. μετασχημάτισις STR. <i>1, 3, 3 Kram.</i> ; PLUT. <i>M. 687b ;</i> DYSC. <i>Synt. 230, 3</i>.`

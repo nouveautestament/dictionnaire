@@ -1,0 +1,1 @@
+lar[48197]=`<b>ου (ὁ) :<br>      1</b> cri, lamentation, EUR. <i>Tr. 1229 ; fr. 589 Nauck</i>.<br><b>      2</b> <i>particul</i>. hymne en l’honneur d’Iakkhos, HDT. <i>8, 65</i> ; ATHÉNION (ATH. <i>213d</i>) <i>etc</i>.<p><b>Étym</b>. ἰακχή.`

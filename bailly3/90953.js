@@ -1,0 +1,1 @@
+lar[90953]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑ]</font> bâton, HDT. <i>4, 172</i> ; HPC. <i>Art. 820</i> ; EUR. <i>Hec. 65</i> ; AR. <i>Vesp. 727</i> ; PLUT. <i>Cam. 22</i> ; LUC. <i>Philops. 13, etc</i>.<p><b>Étym</b>. <i>p.-ê. rapprochement avec</i> σκίμπτομαι, <i>avec</i> σκήπτω, <i>avec lat</i>. scīpiō.`

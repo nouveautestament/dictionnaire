@@ -1,0 +1,1 @@
+lar[2245]=`<b>Αἰγί·κορος, ου (ὁ)</b> <font color="purple">[ῐ]</font> le Chevrier, <i>ép. de Pan,</i> NONN. <i>D. 14, 75</i>.<p><b>Étym</b>. <i>v</i>. Αἰγικορεύς.`

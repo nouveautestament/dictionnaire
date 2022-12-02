@@ -1,0 +1,1 @@
+lar[103304]=`<b>ὑπο·καθαίρω</b> <font color="purple">[κᾰ]</font> purger par le bas, HPC. <i>Aph. 1261</i> ; TH. <i>H.P. 7, 12, 3</i> ; PLUT. <i>M. 127c ;</i> GAL. <i>19, 614</i>.`

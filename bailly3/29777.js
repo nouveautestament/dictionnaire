@@ -1,0 +1,1 @@
+lar[29777]=`<b>ατος (τὸ)</b> propriété en biens-fonds dans un pays étranger, DÉM. <i>87, 6</i>.<p><b>Étym</b>. ἐγκτάομαι.`

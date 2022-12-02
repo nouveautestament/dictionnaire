@@ -1,0 +1,1 @@
+lar[104813]=`<b>φανητιάω-ῶ</b>, avoir le désir de se montrer, BAS.<p><b>Étym</b>. φανητίας.`

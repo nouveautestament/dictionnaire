@@ -1,0 +1,1 @@
+lar[103031]=`<b>ὑπο·βλαστάνω</b> <font color="darkgreen">(<i>f</i>. -βλαστήσω, <i>ao.2</i> ὑπέβλαστον, <i>etc</i>.)</font> commencer à germer <i>ou</i> à croître, croître peu à peu, JOS. <i>B.J. 1, 1, 3</i>.`

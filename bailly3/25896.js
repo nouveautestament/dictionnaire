@@ -1,0 +1,1 @@
+lar[25896]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> pousse, germe, TH. <i>H.P. 8, 1, 6</i>.<br><b>      2</b> séparation naturelle, fente, interstice, HPC. <i>842d, etc.</i> ; ARSTT. <i>H.A. 1, 16, 13, etc.</i> ; TH. <i>H.P. 4, 8, 7 ; particul</i>. point d’attache de la queue d’un fruit, HPC. <i>259, 29</i>.<p><b>Étym</b>. διαφύω.`

@@ -1,0 +1,1 @@
+lar[105938]=`<b>φιλο·μήτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui aime sa mère, PLUT. <i>Sol. 27 ; surn. d’Attale,</i> PLUT. <i>T. Gracch. 14, etc</i>.<p><b>Étym</b>. φ. μήτηρ.`

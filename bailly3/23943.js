@@ -1,0 +1,1 @@
+lar[23943]=`<b>ατος (τὸ)</b> regard, ESCHL. <i>Pers. 83</i> ; EUR. <i>Med. 187, etc</i>.<p><b>Étym</b>. δέρκομαι.`

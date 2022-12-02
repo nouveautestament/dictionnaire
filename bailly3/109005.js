@@ -1,0 +1,1 @@
+lar[109005]=`<b>χρηστο·ήθης, ης, όηθες</b>, d’un caractère bon et honnête, ARSTT. <i>Rhet. 2, 21, 16</i>.<p><b>Étym</b>. χρηστός, ἦθος.`

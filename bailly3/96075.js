@@ -1,0 +1,1 @@
+lar[96075]=`<b>ή, όν</b>, qui réfléchit <i>ou</i> qui a conscience de, PLOT. <i>Enn. 1, 200</i>.<p><b>Étym</b>. συννοέω.`

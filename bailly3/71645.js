@@ -1,0 +1,1 @@
+lar[71645]=`<b>ὁμο·πληθής, ής, ές</b>, aussi populeux, EUCL. <i>Elem. 12, 12</i>.<p><b>Étym</b>. ὁμ. πλῆθος.`

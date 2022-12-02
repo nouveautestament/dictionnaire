@@ -1,0 +1,1 @@
+lar[39905]=`<b>ας (ἡ)</b> surplus, PTOL. (<i>Fabricii bibliotheca græca 3 p. 429).</i><p><b>Étym</b>. ἐπί, οὐσία, <i>cf</i>. ἔπειμι.`

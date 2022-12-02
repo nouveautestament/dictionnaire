@@ -1,0 +1,1 @@
+lar[108796]=`<b>ατος (τὸ)</b> frais d’équipement d’un chœur, <i>p. ext</i>. frais, dépenses, <i>en gén</i>. PLUT. <i>Oth. 9</i>.<p><b>Étym</b>. χορηγέω.`

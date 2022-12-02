@@ -1,0 +1,1 @@
+lar[104031]=`<b>ατος (τὸ)</b> jus d’herbes pilées d’une saveur âcre, HPC. <i>361, 50 ; 373, 26</i> ; COM. (PLUT. <i>M. 126a</i>) ; NICOSTR. <i>et</i> ANTIPH. (ATH. <i>133c, 662b</i>) ; PLUT. <i>M. 68b, 644b ; fig</i>. ὑπότριμμα βλέπειν, AR. <i>Eccl. 291,</i> regarder d’un air dur, farouche.<p><b>Étym</b>. ὑποτρίβω.`

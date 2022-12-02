@@ -1,0 +1,1 @@
+lar[12301]=`<b>ἀπο·δικέω-ῶ</b> <font color="purple">[ῐ]</font> se défendre en justice, XÉN. <i>Hell. 1, 7, 21</i> ; ANTIPH. <i>(Bkk. 427).</i><p><b>Étym</b>. ἀπό, δίκη.`

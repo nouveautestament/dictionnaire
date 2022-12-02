@@ -1,0 +1,1 @@
+lar[45477]=`<b>ἡμι·λόχιον, ου (τὸ)</b> <font color="purple">[μῐ]</font> demi-cohorte, EL. TACT. <i>5, 2</i>.<p><b>Étym</b>. ἡμι-, λόχος.`

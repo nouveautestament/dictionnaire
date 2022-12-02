@@ -1,0 +1,1 @@
+lar[109101]=`<b>χρυσ·έμβολος, ος, ον</b> <font color="purple">[ῡ]</font> armé d’un éperon d’or, <i>en parl. d’un navire,</i> APP. <i>Pr. 10</i>.`

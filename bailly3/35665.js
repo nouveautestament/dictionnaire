@@ -1,0 +1,1 @@
+lar[35665]=`<b>ἐξ·αύω :<br>      1</b> tirer de, PLAT. COM. <i>2-2, 627, 9 Mein.</i><br><b>      2</b> montrer le chemin à, <i>dat</i>. PLAT. <i>Leg. 891d</i>.`

@@ -1,0 +1,1 @@
+lar[60826]=`<b>ληνοβατέω-ῶ</b> <font color="purple">[ᾰ]</font> fouler le raisin, CHRYS. <i>1, 610</i>.<p><b>Étym</b>. ληνοβάτης.`

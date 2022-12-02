@@ -1,0 +1,1 @@
+lar[78571]=`<b>οῦ (ὁ)</b> action de tirer autour <i>ou</i> en tous sens, <i>fig</i>. de distraire, PLOT. <i>418b</i>.<p><b>Étym</b>. περιέλκω.`

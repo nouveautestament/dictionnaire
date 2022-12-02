@@ -1,0 +1,1 @@
+lar[100919]=`<b>τρωγλο·δύτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. qui habite dans des trous, ARSTT. <i>H.A. 9, 1, 28, etc. ; particul</i>. troglodyte, <i>autre n. du</i> τροχίλος <i>ou</i> roitelet, <i>oiseau,</i> AÉT.<p><b>Étym</b>. τρώγλη, δύνω.`

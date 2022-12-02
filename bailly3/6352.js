@@ -1,0 +1,1 @@
+lar[6352]=`<b>ἀμφι·σαλεύομαι</b> <font color="purple">[σᾰ]</font> s’agiter autour, ANTH. <i>5, 55</i>.`

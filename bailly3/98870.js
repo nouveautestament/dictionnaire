@@ -1,0 +1,1 @@
+lar[98870]=`<b>τεχνο·παίγνιον, ου (τὸ)</b> jeu d’art, <i>titre d’un poème d’Ausone</i>.<p><b>Étym</b>. τέχνη, παίγνιον.`

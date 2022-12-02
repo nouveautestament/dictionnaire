@@ -1,0 +1,1 @@
+lar[35642]=`<b>ἐξ·ατμιδόω-ῶ</b> <font color="purple">[ῐδ]</font> <i>c</i>. ἐξατμιάω OLYMPIOD. <i>(Bkk. 1371</i>).`

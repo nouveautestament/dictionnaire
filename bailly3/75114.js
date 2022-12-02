@@ -1,0 +1,1 @@
+lar[75114]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec une entière ressemblance, HPC. <i>21, 28</i>.`

@@ -1,0 +1,1 @@
+lar[47831]=`<b>ή, όν</b>, qui concerne un sacrifice, ZOS. <i>4, 59</i> ; JAMBL. <i>Myst. 215, 3</i>.<p><b>Étym</b>. θυηπόλος.`

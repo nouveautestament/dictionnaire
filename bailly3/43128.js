@@ -1,0 +1,1 @@
+lar[43128]=`<i>adv</i>., d’une manière spécieuse, PHILSTR. <i>510</i>.`

@@ -1,0 +1,1 @@
+lar[69252]=`<b>άδος</b> <font color="purple">[ῡ]</font> <i>adj. f. c</i>. Νύσιος NONN. <i>D. 20, 147, etc</i>.`

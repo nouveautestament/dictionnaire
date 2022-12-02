@@ -1,0 +1,1 @@
+lar[11185]=`<b>εως</b>, <i>ion</i>. <b>-ιος (ἡ)</b> moyen de se retirer, possibilité de retraite, HDT. <i>9, 13</i>.`

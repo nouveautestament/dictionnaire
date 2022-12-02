@@ -1,0 +1,1 @@
+lar[49872]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite figue sèche, AR. <i>Pl. 798</i>.<p><b>Étym</b>. <i>dim. de</i> ἰσχάς.`

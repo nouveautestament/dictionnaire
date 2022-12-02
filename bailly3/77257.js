@@ -1,0 +1,1 @@
+lar[77257]=`<b>ατος (τὸ) :<br>      1</b> liquide avec lequel on arrose, AXION. (ATH. <i>342b</i>).<br><b>      2</b> emplâtre, A. TR. <i>11, 629</i>.`

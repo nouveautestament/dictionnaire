@@ -1,0 +1,1 @@
+lar[10203]=`<b>ἀντι·παρεισαγωγή, ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> action d’introduire à son tour, PLOT. <i>Enn. 1, 366</i>.<p><b>Étym</b>. ἀ. παρεισάγω.`

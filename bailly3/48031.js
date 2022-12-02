@@ -1,0 +1,1 @@
+lar[48031]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de frapper à la porte, DIPH. <i>(Bkk. p. 99, 17).</i><p><b>Étym</b>. θυροκόπος.`

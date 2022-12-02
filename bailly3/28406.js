@@ -1,0 +1,1 @@
+lar[28406]=`<b>δυσ·εξεύρετος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à trouver, ARSTT. <i>H.A. 9, 5</i> ; PLUT. <i>M. 407f</i>.<p><b>Étym</b>. δ. ἐξευρίσκω.`

@@ -1,0 +1,1 @@
+lar[2013]=`<i>adv</i>., sans la volonté des dieux, ATT. ; sans aide des dieux, SOPH. <i>O.R. 254</i>.<p>•<i> Cp</i>. -ώτερον, DL. <i>4, 54 ; • Sup</i>. -ώτατα, SOPH. <i>El. 123</i>.<p><b>Étym</b>. ἄθεος.`

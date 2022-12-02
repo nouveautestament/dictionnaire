@@ -1,0 +1,1 @@
+lar[13614]=`<b>ἀπο·τίνυμαι</b> <font color="purple">[ῑῠ]</font> faire payer, <i>d’où</i> faire expier, tirer vengeance de : τινος, HDT. <i>6, 101,</i> de qqe ch. ; πολέων ἀπ. ποινήν, IL. <i>16, 398,</i> tirer vengeance de la mort d’un grand nombre (de Grecs tués par les Troyens) ; <i>avec l’acc. de pers</i>. ἀπ. τινά τινος, OD. <i>2, 73,</i> punir qqn de qqe ch.`

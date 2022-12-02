@@ -1,0 +1,1 @@
+lar[73258]=`<b>ου (ὁ)</b> Ostanès, <i>Perse,</i> PLUT. <i>Artax. 1</i>.`

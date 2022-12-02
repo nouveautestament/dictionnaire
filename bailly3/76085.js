@@ -1,0 +1,1 @@
+lar[76085]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> explétif, D. PHAL. <i>55</i> ; DYSC. <i>Pron. 323a, etc</i>.<p><b>Étym</b>. παραπλήρωμα.`

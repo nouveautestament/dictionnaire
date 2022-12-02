@@ -1,0 +1,1 @@
+lar[102919]=`<b>ὑπερ·ωκεάνιος, ος, ον</b> <font color="purple">[ᾰ]</font> plus vaste que l’Océan, immense, PHIL. <i>2, 547 ; fig</i>. PHIL. <i>1, 425, 675</i>.<p><b>Étym</b>. ὑ. Ὠκεανός.`

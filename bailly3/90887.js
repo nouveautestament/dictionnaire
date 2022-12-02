@@ -1,0 +1,1 @@
+lar[90887]=`<b>Σκιά·ποδες, ων (οἱ)</b> <font color="purple">[ᾱ]</font> <i>litt</i>. qui se font de l’ombre avec leurs pieds, <i>habitants fabuleux de Libye aux pieds énormes et qui s’abritaient du soleil en tenant une jambe levée,</i> AR. <i>Av. 1553</i> ; ANT. <i>et</i> CTÉS. (PHOT. <i>p. 519, 25).</i><p><b>Étym</b>. σκιά, πούς.`

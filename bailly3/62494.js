@@ -1,0 +1,1 @@
+lar[62494]=`<b>μακρό·βιος, ος, ον</b>, qui vit longtemps, HPC. <i>Aër. 282</i> ; ARSTT. <i>Rhet. 1, 5</i> ; TH. <i>H.P. 4, 13, 1, etc</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>H.A. 4, 11 ; • Sup</i>. -ώτατος, HDT. <i>3, 114</i> ; LUC. <i>Musc. enc. 12</i>.<p><b>Étym</b>. μακρός, βίος.`

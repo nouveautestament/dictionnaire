@@ -1,0 +1,1 @@
+lar[83583]=`<b>προ·ανατρίβω</b> <font color="purple">[ῑ]</font> frotter auparavant, DIOSC. <i>2, 140</i>.`

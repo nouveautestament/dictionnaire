@@ -1,0 +1,1 @@
+lar[104846]=`<b>ης, ες</b> <font color="purple">[τᾰ]</font><br><b>      1</b> créé par l’imagination, PHILSTR. <i>295</i>.<br><b>      2</b> tourmenté par des visions <i>ou</i> des imaginations, GAL. <i>6, 259 ; 15, 247</i>.<p><b>Étym</b>. φαντασία, -ωδης.`

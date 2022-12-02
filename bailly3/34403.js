@@ -1,0 +1,1 @@
+lar[34403]=`<b>ῆρος (ὁ)</b> injecteur, <i>càd.</i> :<br><b>      1</b> seringue, <i>d’où</i> lavement, A. TR.<br><b>      2</b> pompe pour lancer un liquide sur les assiégeants, PHIL. BYZ. <i>Bel. 91</i>.<p><b>Étym</b>. ἐνίημι.`

@@ -1,0 +1,1 @@
+lar[73477]=`<i>adv</i>., ni vers l’un ni vers l’autre des deux côtés, IL. <i>14, 18</i> ; THGN. <i>939</i> ; STR. <i>71</i>.<p><b>Étym</b>. οὐδέτερος.`

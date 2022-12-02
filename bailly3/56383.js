@@ -1,0 +1,1 @@
+lar[56383]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> petit coquillage, <i>d’où</i> coquille <i>ou</i> coquillage, <i>en gén</i>. HDT. <i>2, 12</i> ; SOPHR. (ATH. <i>86e</i>).<br><b>      2</b> <i>particul</i>. coquillage d’où l’on tire la pourpre, ARSTT. <i>H.A. 5, 15, 13, etc. ; d’où</i> pourpre, GAL. <i>14, 140</i>.<p><b>Étym</b>. κογχύλη.`

@@ -1,0 +1,1 @@
+lar[82723]=`<b>ποντο·φάρυξ, υγος (ἡ)</b> <font color="purple">[ᾰῠγ]</font> gosier vorace, <i>propr</i>. « gosier qui est une mer, un gouffre », ANON.<p><b>Étym</b>. <i>Com. att. fr. t. 3, p. 593 Kock</i>.`

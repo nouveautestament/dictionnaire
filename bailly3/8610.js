@@ -1,0 +1,1 @@
+lar[8610]=`<b>εως (ἡ)</b> découverte, EUR. <i>Ion 569</i> ; DH. <i>11, 27</i> ; PLUT. <i>Thes. 12</i>.<p><b>Étym</b>. ἀνευρίσκω.`

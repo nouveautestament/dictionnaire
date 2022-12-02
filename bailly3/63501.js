@@ -1,0 +1,1 @@
+lar[63501]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à Mégare, <i>sans mouv</i>. AR. <i>Ach. 758</i> ; PLAT. <i>Theæt. 142c, etc</i>.<p><b>Étym</b>. Μέγαρα, -οι.`

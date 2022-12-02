@@ -1,0 +1,1 @@
+lar[11974]=`<b>ἀ·πίλητος, ος, ον</b> <font color="purple">[ῑ]</font> non foulé, ARSTT. <i>Meteor. 4, 9, 23</i>.<p><b>Étym</b>. ἀ, πιλέω.`

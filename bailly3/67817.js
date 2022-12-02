@@ -1,0 +1,1 @@
+lar[67817]=`<b>ναύ·στολος, ος, ον</b>, qui va par mer, maritime, ESCHL. <i>Sept. 858</i>.<p><b>Étym</b>. ναῦς, στέλλω.`

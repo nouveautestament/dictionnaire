@@ -1,0 +1,1 @@
+lar[11371]=`<b>ἀ·παρέμφατος, ος, ον</b> <font color="purple">[φᾰ]</font> qui ne définit pas clairement, <i>gén</i>. DYSC. <i>Pron. 10a ;</i> CLÉM. <i>635, 14</i> ; ἡ ἀ. (<i>s.-e</i>. ἔγκλισις) DH. <i>Comp. 37, 14</i> ; DYSC. <i>Synt. 3, p. 226, etc</i>. le mode indéfini, <i>càd</i>. l’infinitif.<p><b>Étym</b>. ἀ, παρεμφαίνω.`

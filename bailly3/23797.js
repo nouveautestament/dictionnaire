@@ -1,0 +1,1 @@
+lar[23797]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. δέλφαξ, EPICH. (ATH. <i>277f</i>) <i>dout</i>.`

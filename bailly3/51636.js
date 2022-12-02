@@ -1,0 +1,1 @@
+lar[51636]=`<b>ή, όν</b>, fumé, enfumé, ATH. <i>153c</i>.<p><b>Étym</b>. <i>vb. de</i> καπνίζω.`

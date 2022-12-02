@@ -1,0 +1,1 @@
+lar[104409]=`<b>εως (ἡ)</b> sédiment, dépôt laissé par une inondation, STR. <i>51</i>.<p><b>Étym</b>. ὑφιζάνω.`

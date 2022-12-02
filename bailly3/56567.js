@@ -1,0 +1,1 @@
+lar[56567]=`<b>ας (ἡ)</b> <i>poisson inconnu,</i> A. TR. <i>9, p. 163</i>.`

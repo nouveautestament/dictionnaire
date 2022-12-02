@@ -1,0 +1,1 @@
+lar[95194]=`<b>συν·διογκόομαι-οῦμαι</b>, se gonfler en même temps, SOR. <i>Obst. 12, 6 Dietz</i>.`

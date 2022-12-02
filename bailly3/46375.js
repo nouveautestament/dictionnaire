@@ -1,0 +1,1 @@
+lar[46375]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne l’art de faire des tours ; τὸ θαυματοποιϊκόν, PLAT. <i>Soph. 268d ;</i> ἡ θαυματοποιϊκή, PLAT. <i>Soph. 224a</i>, art du jongleur.<p><b>Étym</b>. θαυματοποιός.`

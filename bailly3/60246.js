@@ -1,0 +1,1 @@
+lar[60246]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> cœur de légume, HPC. <i>637, 14, etc.</i><br><b>      2</b> purée de légumes, AR. <i>Lys. 562</i> ; PHÉRÉCR. (<i>Com. fr. 2, 263</i>).`

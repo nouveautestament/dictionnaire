@@ -1,0 +1,1 @@
+lar[93562]=`<b>συγ·κυλινδέομαι-οῦμαι</b> <font color="purple">[κῠ]</font> rouler dans, <i>d’où au pass</i>. se vautrer dans, <i>dat</i>. XÉN. <i>Conv. 8, 32 vulg</i>.`

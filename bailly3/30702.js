@@ -1,0 +1,1 @@
+lar[30702]=`<b>εἰσ·αυτίκα</b>, <i>adv</i>., sur-le-champ, AR. <i>Pax 367</i>.`

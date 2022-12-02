@@ -1,0 +1,1 @@
+lar[62871]=`<b>ου (ὁ)</b> <i>c</i>. μάραθον PYTHON (ATH. <i>596a</i>) ; <i>au plur</i>. EPICH. (ATH. <i>70f</i>).`

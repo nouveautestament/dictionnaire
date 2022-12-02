@@ -1,0 +1,1 @@
+lar[59516]=`<b>α, ον</b> <font color="purple">[λᾱ]</font> de Laïus, SOPH. <i>O.R. 451, 1216</i>.<p><b>Étym</b>. Λάϊος.`

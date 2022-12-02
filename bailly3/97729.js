@@ -1,0 +1,1 @@
+lar[97729]=`<b>Ταρταρό·παις</b>, <i>gén</i>. <b>-παιδος (ὁ, ἡ)</b> <font color="purple">[ᾰρο]</font> enfant du Tartare, ORPH. <i>Arg. 975</i>.<p><b>Étym</b>. Τάρταρος, παῖς.`

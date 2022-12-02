@@ -1,0 +1,1 @@
+lar[46228]=`<b>ωνος (ὁ)</b> Thallôn, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. θάλλω.`

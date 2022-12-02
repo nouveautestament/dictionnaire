@@ -1,0 +1,1 @@
+lar[65103]=`<b>μετ·εννέπω</b> (<i>seul. prés</i>.) parler à, <i>dat</i>. A.RH. <i>3, 1168</i> ; MOSCH. <i>2, 101</i>.`

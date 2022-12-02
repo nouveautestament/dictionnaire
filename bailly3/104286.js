@@ -1,0 +1,1 @@
+lar[104286]=`<b>(ὁ)</b> Hyspasinès, <i>roi de Kharax,</i> LUC. <i>Macr. 16</i>.`

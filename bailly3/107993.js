@@ -1,0 +1,1 @@
+lar[107993]=`<b>ου (τὸ)</b> <font color="purple">[τᾰ]</font> <i>dim. de</i> χάρτης, ANTH. <i>12, 208</i>.`

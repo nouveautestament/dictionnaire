@@ -1,0 +1,1 @@
+lar[57334]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> prix du vainqueur au jeu du cottabe, PLAT. COM. (ATH. <i>666b</i>) ; ARSTT. <i>Rhet. 1, 12, 30</i> ; COM. (<i>Com. fr. 5, 116).</i><p><b>Étym</b>. κότταβος.`

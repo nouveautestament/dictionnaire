@@ -1,0 +1,1 @@
+lar[24119]=`<b>ου (ὁ)</b> <font color="purple">[ῐῑ]</font> Dèïopitès, <i>h</i>. IL. <i>11, 420</i> ; Q. SM. <i>13, 212</i>.`

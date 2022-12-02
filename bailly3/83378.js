@@ -1,0 +1,1 @@
+lar[83378]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. πρημάς NICOCH. (ATH. <i>328e</i>).`

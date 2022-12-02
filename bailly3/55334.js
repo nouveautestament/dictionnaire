@@ -1,0 +1,1 @@
+lar[55334]=`<b>κητόομαι-οῦμαι</b>, devenir gros comme une baleine, EL. <i>N.A. 14, 23</i>.<p><b>Étym</b>. κῆτος.`

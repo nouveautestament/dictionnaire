@@ -1,0 +1,1 @@
+lar[75629]=`<b>ῆρος (ὁ)</b> qui donne des conseils <i>ou</i> des encouragements, ATH. <i>14b</i>.<p><b>Étym</b>. παραινέω.`

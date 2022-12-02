@@ -1,0 +1,1 @@
+lar[2085]=`<b>ης (ἡ)</b> <i>sorte de clématite (Clematis cirrhosa</i> L.) TH. <i>H.P. 5, 9, 6</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[81185]=`<b>πνευματο·μάχος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui conteste la divinité du Saint-Esprit, BAS. <i>3, 613, etc. Migne</i>.<p><b>Étym</b>. πν. μάχομαι.`

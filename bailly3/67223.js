@@ -1,0 +1,1 @@
+lar[67223]=`<b>Μυρί·ανδρος, ου (ἡ)</b> <font color="purple">[ῡ]</font> Myriandros, <i>v. de Syrie,</i> XÉN. <i>An. 1, 4, 6</i>.<p><b>Étym</b>. <i>cf</i>. μυρίανδρος.`

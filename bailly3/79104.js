@@ -1,0 +1,1 @@
+lar[79104]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> qui erre de tous côtés, vagabond, PLUT. <i>M. 1001d, e</i>.<p><b>Étym</b>. περιπλανάω.`

@@ -1,0 +1,1 @@
+lar[37913]=`<i>adv</i>., obliquement, ANTYLL. (ORIB. <i>1 Mai</i>).`

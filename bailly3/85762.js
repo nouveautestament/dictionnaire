@@ -1,0 +1,1 @@
+lar[85762]=`<b>προσ·επόπτομαι</b>, contempler en outre, RHÉT. <i>1, 513 W</i>.`

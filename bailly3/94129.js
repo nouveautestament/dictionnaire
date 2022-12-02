@@ -1,0 +1,1 @@
+lar[94129]=`<b>συμ·παρίπταμαι</b> <font color="purple">[τᾰ]</font> passer ensemble <i>ou</i> en même temps en volant, LUC. <i>D. deor. 20, 6</i>.`

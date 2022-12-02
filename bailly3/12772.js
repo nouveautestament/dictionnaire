@@ -1,0 +1,1 @@
+lar[12772]=`<b>εως (ἡ)</b> <font color="purple">[λῐ]</font> pétrification, TH. <i>Lap. 50 ; fig</i>. ARR. <i>Epict. 1, 5, 3</i>.<p><b>Étym</b>. ἀπολιθόω.`

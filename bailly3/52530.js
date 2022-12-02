@@ -1,0 +1,1 @@
+lar[52530]=`<b>ή, όν</b>, propre à séduire, à charmer, EL. <i>N.A. 17, 19</i>.<p><b>Étym</b>. κατακηλέω.`

@@ -1,0 +1,1 @@
+lar[49475]=`<i>seul. moy</i>. ἴπτομαι <font color="darkgreen">(<i>f</i>. ἴψομαι, <i>ao</i>. ἰψάμην) :</font><br><b>      1</b> presser, accabler, IL. <i>1, 454, etc.</i><br><b>      2</b> <i>p. suite,</i> blesser, endommager, THCR. <i>Idyl. 30, 19</i>.<p><b>Étym</b>. <i>cf</i>. ἰπόω.`

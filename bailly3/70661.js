@@ -1,0 +1,1 @@
+lar[70661]=`<b>οἰο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> vêtu d’une simple tunique, légèrement vêtu, OD. <i>14, 489</i> ; NONN. <i>D. 8, 16</i>.<p><b>Étym</b>. οἶος, χιτών.`

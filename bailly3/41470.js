@@ -1,0 +1,1 @@
+lar[41470]=`<b>ἐτυμολογέω-ῶ</b> <font color="purple">[ῠ]</font> donner une étymologie, STR. <i>1, 2, 34 ; 8, 3, 31 ; 10, 3, 8 ; 13, 1, 52 Kram</i>.<p><b>Étym</b>. ἐτυμολόγος.`

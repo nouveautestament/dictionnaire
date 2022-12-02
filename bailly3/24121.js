@@ -1,0 +1,1 @@
+lar[24121]=`<b>ου (ὁ)</b> = <i>lat</i>. Dejotarus, <i>h</i>. PLUT. <i>Crass. 17, Ant. 63</i>.`

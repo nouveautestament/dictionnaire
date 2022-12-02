@@ -1,0 +1,1 @@
+lar[95854]=`<b>συν·ηβάω-ῶ</b>, passer le temps de la jeunesse avec, <i>dat</i>. ANACR. <i>24</i> ; OPP. <i>H. 5, 471 ; fig</i>. PLUT. <i>M. 409a</i>.<p>➳ <i>Part. prés. ion. acc. pl</i>. συνηβώοντας, OPP. <i>l. c</i>.`

@@ -1,0 +1,1 @@
+lar[81846]=`<b>πολύ·δηρις, ιος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> qui donne lieu à beaucoup de disputes, très controversé, PARMÉN. (DL. <i>9, 22).</i><p><b>Étym</b>. π. δῆρις.`

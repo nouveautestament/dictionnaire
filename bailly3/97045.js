@@ -1,0 +1,1 @@
+lar[97045]=`<b>ακος (ὁ)</b> <font color="purple">[ῐᾰκ]</font> éclat de bois, copeau, ANTH. <i>6, 231</i> ; DS. <i>13, 84</i> ; DIOSC. <i>1, 130</i> ; SPT. <i>1Reg. 18, 38</i>.<p><b>Étym</b>. σχίζω.`

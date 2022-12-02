@@ -1,0 +1,1 @@
+lar[13311]=`<b>ἀπο·σκέπτω</b>, mettre à l’abri de, <i>acc</i>. ARR. <i>Epict. 3, 22, 65</i>.`

@@ -1,0 +1,1 @@
+lar[56611]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> soufflet, coup sur la joue, CHRYS. <i>3, 302</i>.<p><b>Étym</b>. κολαφίζω.`

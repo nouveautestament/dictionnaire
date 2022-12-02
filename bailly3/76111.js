@@ -1,0 +1,1 @@
+lar[76111]=`<b>παρα·πορεύομαι :<br>      1</b> marcher à côté de, ARSTT. <i>H.A. 6, 24, 3</i> ; DH. <i>7, 9 ; avec</i> παρά <i>et l’acc</i>. POL. <i>6, 40, 7 ; fig</i>. accompagner, PHILARQ. (ATH. <i>142f</i>).<br><b>      2</b> passer le long de : παρά τι, POL. <i>3, 14, 6</i> ; τι, POL. <i>3, 99, 5,</i> passer le long de qqe ch.`

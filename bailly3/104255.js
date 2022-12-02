@@ -1,0 +1,1 @@
+lar[104255]=`<b>ας (ἡ)</b> <font color="purple">[κᾰ]</font> Hyrcanie, <i>contrée entre la Médie, la Parthiène et la mer Caspienne,</i> PLUT. <i>Pomp. 34, etc</i>.`

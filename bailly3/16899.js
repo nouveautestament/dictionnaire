@@ -1,0 +1,1 @@
+lar[16899]=`<b>ἀ·τόρυτος, ος, ον</b> <font color="purple">[ῡ]</font> non remué avec une cuiller, ORIB. <i>1, 298</i>.<p><b>Étym</b>. ἀ, τορύνω.`

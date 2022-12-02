@@ -1,0 +1,1 @@
+lar[30579]=`<b>(αἱ)</b> Eirésiæ, <i>v. de Thessalie,</i> HH. <i>Ap. 32</i>.<p><b>Étym</b>. εἰρεσία.`

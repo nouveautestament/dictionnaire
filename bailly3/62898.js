@@ -1,0 +1,1 @@
+lar[62898]=`<b>ων (οἱ)</b> les Maraphies, <i>pple persan,</i> HDT. <i>1, 125 ; 4, 167</i>.`

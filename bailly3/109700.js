@@ -1,0 +1,1 @@
+lar[109700]=`<b>ψευδο·λόγος, ος, ον</b>, qui parle faussement, menteur, AR. <i>Ran. 1521</i> ; POL. <i>32, 8, 9, etc. ; avec un gén</i>. ANTH. <i>9, 80</i>.<p><b>Étym</b>. ψ. λέγω.`

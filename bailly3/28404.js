@@ -1,0 +1,1 @@
+lar[28404]=`<b>δυσ·εξέλικτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à dérouler, à développer, <i>d’où</i> à expliquer, DH. <i>Amm. 2, p. 792, 9</i> ; PLUT. <i>Brut. 13, M. 968c</i>.<p><b>Étym</b>. δ. ἐξελίσσω.`

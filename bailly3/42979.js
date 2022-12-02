@@ -1,0 +1,1 @@
+lar[42979]=`<b>εὐ·περιαίρετος, ος, ον</b>, facile à enlever tout autour, TH. <i>H.P. 5, 1, 1</i>.<p><b>Étym</b>. εὖ, περιαιρέω.`

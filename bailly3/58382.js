@@ -1,0 +1,1 @@
+lar[58382]=`<b>ου (τὸ)</b> violette noire, DIOSC. <i>4, 122</i>.`

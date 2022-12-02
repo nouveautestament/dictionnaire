@@ -1,0 +1,1 @@
+lar[85607]=`<b>προσ·εξανίσταμαι</b> <font color="darkgreen">(<i>f</i>. -αναστήσομαι, <i>ao.2</i> -ανέστην, <i>etc</i>.)</font> se lever, PLUT. <i>Pyrrh. 3</i> ; DC. <i>60, 6</i>.`

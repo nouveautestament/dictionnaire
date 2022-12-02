@@ -1,0 +1,1 @@
+lar[29764]=`<b>ἐγ·κρύβω</b> (<i>seul. moy</i>. ἐγκρύβομαι) se cacher, <i>avec</i> εἰς <i>et l’acc</i>. DS. <i>1, 80</i> ; GAL. <i>6, 357c</i>.<p><b>Étym</b>. ἐν, κρύπτω, <i>cf</i>. ἐγκρύπτω.`

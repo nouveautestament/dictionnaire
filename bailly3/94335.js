@@ -1,0 +1,1 @@
+lar[94335]=`<b>σύμ·πους, -ποδος (ὁ, ἡ)</b> qui a les pieds joints, AR. (POLL. <i>6, 159</i>) ; STR. <i>703</i>.<p><b>Étym</b>. σ. πούς.`

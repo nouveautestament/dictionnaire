@@ -1,0 +1,1 @@
+lar[27828]=`<b>δραματοποιέω-ῶ</b> <font color="purple">[ᾱᾰ]</font> (<i>part. ao</i>. -ήσας) exposer d’une manière dramatique, <i>acc</i>. ARSTT. <i>Poet. 4, 12</i>.<p><b>Étym</b>. δραματοποιός.`

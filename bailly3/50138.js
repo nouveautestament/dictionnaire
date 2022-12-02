@@ -1,0 +1,1 @@
+lar[50138]=`<i>1 pl. sbj. prés. de</i> εἶμι, aller.`

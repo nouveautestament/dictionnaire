@@ -1,0 +1,1 @@
+lar[53184]=`<b>κατα·πτωχεύω</b>, réduire à la mendicité, PLUT. <i>Cato mi. 25 ; d’où au pass</i>. être réduit à mendier, DH. <i>9, 51</i> ; PLUT. <i>Cic. 10</i>.`

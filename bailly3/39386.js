@@ -1,0 +1,1 @@
+lar[39386]=`<b>ἐπι·τετρά·πεμπτος, ος, ον</b>, qui comprend un entier plus ¹⁄₄, NICOM. <i>Arithm. 107</i>.<p><b>Étym</b>. ἐπί, τέτταρες, πέμπτος.`

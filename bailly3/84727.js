@@ -1,0 +1,1 @@
+lar[84727]=`<b>ας (ἡ)</b> <i>c</i>. προμήθεια, ESCHL. <i>Suppl. 177</i> ; SOPH. <i>El. 990, etc.</i> ; EUR. <i>Hec. 795</i> ; THC. <i>4, 62, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>1, 88, etc</i>.<p><b>Étym</b>. προμηθής.`

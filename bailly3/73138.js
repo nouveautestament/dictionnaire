@@ -1,0 +1,1 @@
+lar[73138]=`<b>ης, ες</b>, d’apparence sombre, HPC. <i>Progn. p. 161, 41, etc</i>.<p><b>Étym</b>. ὀρφνός, -ωδης.`

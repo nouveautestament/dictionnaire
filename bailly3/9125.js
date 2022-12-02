@@ -1,0 +1,1 @@
+lar[9125]=`<b>ἀνισό·ταχος, ος, ον</b> <font color="purple">[ᾰῐᾰ]</font> <i>c</i>. ἀνισοταχής PROCL. <i>Plat. Parm. 568</i>.`

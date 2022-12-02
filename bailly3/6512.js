@@ -1,0 +1,1 @@
+lar[6512]=`<b>οῦ (ὁ)</b> nouveau baptême, BAS. <i>4, 732 Migne</i>.<p><b>Étym</b>. ἀναβαπτίζω.`

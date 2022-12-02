@@ -1,0 +1,1 @@
+lar[71454]=`<b>ης (ἡ)</b> communauté d’opinion, JOS. <i>c. Ap. 2, 37</i> ; CLÉM. <i>51</i>.<p><b>Étym</b>. ὁμογνώμων.`

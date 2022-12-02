@@ -1,0 +1,1 @@
+lar[90450]=`<b>(ὁ)</b> Sisamakès, <i>Perse,</i> HDT. <i>5, 121</i>.`

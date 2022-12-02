@@ -1,0 +1,1 @@
+lar[20426]=`<b>βουλ·απτε·ροῦν</b> = τὸ βουλόμενον ἅπτειν ῥοῦν, <i>litt</i>. ce qui veut former (<i>litt</i>. nouer) un courant (contre), <i>mot imaginé par</i> PLAT. <i>Crat. 417e, pour expliquer l’étymologie de</i> βλαβερός.`

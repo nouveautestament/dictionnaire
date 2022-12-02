@@ -1,0 +1,1 @@
+lar[93336]=`<b>συγ·καταμένω</b>, rester ensemble <i>ou</i> en même temps, SYN. <i>149d</i>.`

@@ -1,0 +1,1 @@
+lar[85823]=`<b>ή, όν</b>, dont on se sert pour nommer : πρ. ὄνομα :<br><b>      1</b> nom commun, DH. <i>Comp. 2, etc.</i><br><b>      2</b> prénom, <i>p. opp. au nom</i> (τὸ συγγενικόν) DH. <i>3, 65, 70 ; 4, 1</i>.<br><b>      3</b> surnom, PLUT. <i>Mar. 1</i>.<p><b>Étym</b>. προσήγορος.`

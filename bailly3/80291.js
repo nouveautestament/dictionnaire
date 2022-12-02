@@ -1,0 +1,1 @@
+lar[80291]=`<b>(ὁ)</b> = <i>lat</i>. Pictor, <i>n. d’h. rom</i>. PLUT. <i>Rom. 3, etc</i>.`

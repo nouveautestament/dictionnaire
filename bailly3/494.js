@@ -1,0 +1,1 @@
+lar[494]=`<b>ἀ·γένειος, ος, ον :<br>      1</b> imberbe, AR. <i>Eq. 1373, etc.</i> ; PLAT. <i>Leg. 833c, etc.</i> ; τὸ ἀγένειον, LUC. <i>Eun. 9,</i> le manque de barbe.<br><b>      2</b> digne d’un imberbe, juvénile, LUC. <i>J. tr. 29</i>.<p><b>Étym</b>. ἀ, γένειον.`

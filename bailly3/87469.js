@@ -1,0 +1,1 @@
+lar[87469]=`<b>ή, όν :<br>      1</b> qui concerne les cas, <i>t. de gr</i>. SEXT. <i>M. 8, 84</i> ; DL. <i>7, 58</i>.<br><b>      2</b> qui a des cas, <i>p. opp. à</i> ἄπτωτος, D. THR. <i>634, 11</i> ; TRIPHIOD. <i>32</i> ; DYSC. <i>Pron. 269c, 293a, etc</i>.<p><b>Étym</b>. πτωτός.`

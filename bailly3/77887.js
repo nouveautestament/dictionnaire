@@ -1,0 +1,1 @@
+lar[77887]=`<b>ου (ὁ)</b> Pemptidès, <i>h</i>. PLUT. <i>Amat. 12, etc</i>.<p><b>Étym</b>. πέμπτος.`

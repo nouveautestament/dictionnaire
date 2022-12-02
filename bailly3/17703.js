@@ -1,0 +1,1 @@
+lar[17703]=`<b>αὐτό·στονος, ος, ον</b>, qui gémit sur soi-même, ESCHL. <i>Sept. 916</i>.<p><b>Étym</b>. αὐ. στένω.`

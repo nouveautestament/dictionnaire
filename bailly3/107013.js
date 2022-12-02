@@ -1,0 +1,1 @@
+lar[107013]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> lieu de refuge, lieu d’asile, SPT. <i>Num. 35, 15</i>.<p><b>Étym</b>. φυγαδεύω.`

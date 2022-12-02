@@ -1,0 +1,1 @@
+lar[72521]=`<font color="darkgreen">(<i>seul. prés. ao</i>. ὤργασα <i>et pf. pass</i>. ὤργασμαι) :</font><br><b>      1</b> amollir, masser, pétrir, AR. <i>Av. 839</i> ; NIC. <i>Al. 154 ; Th. 652</i> ; PLAT. <i>Theæt. 194c.</i><br><b>      2</b> corroyer, tanner, HDT. <i>4, 64</i>.<p><b>Étym</b>. ὀργάς.`

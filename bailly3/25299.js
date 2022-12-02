@@ -1,0 +1,1 @@
+lar[25299]=`<b>διάπλοος-ους, οος-ους, οον-ουν</b>, qui navigue à travers, <i>ou</i> qui navigue sans cesse, ESCHL. <i>Pers. 382</i>.<p><b>Étym</b>. διαπλέω.`

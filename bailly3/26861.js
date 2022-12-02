@@ -1,0 +1,1 @@
+lar[26861]=`<b>δι·ορμάομαι-ῶμαι</b> <font color="darkgreen">(<i>part. pf</i>. διωρμημένος)</font> s’élancer à travers, M. TYR. <i>164, 16 Dübn</i>.`

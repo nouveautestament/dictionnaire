@@ -1,0 +1,1 @@
+lar[51411]=`<b>καμηλο·τροφέω-ῶ</b> <font color="purple">[ᾰ]</font> nourrir des chameaux, DS. <i>3, 44</i>.<p><b>Étym</b>. κ. -τροφος <i>de</i> τρέφω.`

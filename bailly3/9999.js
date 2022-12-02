@@ -1,0 +1,1 @@
+lar[9999]=`<b>ἀντι·κτόνος, ος, ον</b>, qui tue en échange <i>ou</i> en représaille de, ESCHL. <i>Eum. 464</i>.<p><b>Étym</b>. ἀ. κτείνω.`

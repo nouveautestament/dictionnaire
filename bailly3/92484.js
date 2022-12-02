@@ -1,0 +1,1 @@
+lar[92484]=`<b>α, ον</b> <font color="purple">[ᾰῐ]</font> qui concerne une couronne, DS. <i>2, 59 ; particul</i>. qui concerne la couronne du crâne, GAL. <i>2, 375</i> ; ANTYLL. (ORIB. <i>2, 55 B.-Dar</i>.).<p><b>Étym</b>. στέφανος.`

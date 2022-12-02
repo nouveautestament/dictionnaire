@@ -1,0 +1,1 @@
+lar[65026]=`<b>ός, όν</b>, transportable, ARSTT. <i>Phys. 4, 2</i>.<p><b>Étym</b>. μεταφορέω.`

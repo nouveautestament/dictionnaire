@@ -1,0 +1,1 @@
+lar[107652]=`<b>χαλκό·γενυς, υς, υ</b>, <i>gén</i>. <b>υος</b>, aux mâchoires (<i>litt</i>. aux joues) d’airain, <i>ép. d’une ancre,</i> PD. <i>P. 4, 42</i>.<p><b>Étym</b>. χ. γένυς.`

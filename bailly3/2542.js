@@ -1,0 +1,1 @@
+lar[2542]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> un peu de sang, <i>d’où</i> sang, M. ANT. <i>5, 4</i> ; ARR. <i>Epict. 1, 9, 33</i> ; DIOSC. <i>Iob. 17</i>.<p><b>Étym</b>. αἷμα.`

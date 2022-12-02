@@ -1,0 +1,1 @@
+lar[35185]=`<b>ἐν·υπάρχω</b> <font color="purple">[ῠ]</font> exister dans, ARSTT. <i>H.A. 6, 22, 18, etc</i>.`

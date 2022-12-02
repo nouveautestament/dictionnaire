@@ -1,0 +1,1 @@
+lar[105739]=`<b>φιλο·δάκρυος, ος, ον</b> <font color="purple">[ῐ]</font> qui pleure volontiers, NONN. <i>Jo. 11, 107</i>.<p><b>Étym</b>. φ. δάκρυ.`

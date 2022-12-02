@@ -1,0 +1,1 @@
+lar[107390]=`<b>φων·ασκός, οῦ (ὁ)</b> maître de chant <i>ou</i> de déclamation, <i>litt</i>. celui qui exerce la voix, ARR. <i>Epict. 1, 4, 20</i> ; A. APHR. <i>Probl. 1, etc</i>.<p><b>Étym</b>. φωνή, ἀσκέω.`

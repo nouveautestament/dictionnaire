@@ -1,0 +1,1 @@
+lar[94404]=`<b>συμ·φαής, ής, ές</b>, qui brille avec, <i>dat</i>. NAZ. <i>3, 1326 Migne</i>.<p><b>Étym</b>. σ. φάος.`

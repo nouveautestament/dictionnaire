@@ -1,0 +1,1 @@
+lar[10048]=`<b>Ἀντί·λοχος, ου (ὁ)</b> Antilokhos :<br><b>      1</b> <i>fils de Nestor,</i> IL. <i>23, 301, etc.</i> ; OD. <i>3, 112, etc.</i><br><b>      2</b> <i>poète,</i> DURIS (PLUT. <i>Lys. 18).</i><p><b>Étym</b>. ἀ. λόχος.`

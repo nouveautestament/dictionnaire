@@ -1,0 +1,1 @@
+lar[109630]=`<b>ψευδ·αλέξανδρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> faux Alexandre, LUC. <i>Ind. 20</i> ; JOS. <i>A.J. 17, 12, 2</i>.`

@@ -1,0 +1,1 @@
+lar[80230]=`<b>πιθείας κομήτης (ὁ)</b> <font color="purple">[ῐ]</font> comète en forme de jarre, de tonneau, PROCL. <i>Ptol. p. 131</i>.<p><b>Étym</b>. πίθος.`

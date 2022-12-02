@@ -1,0 +1,1 @@
+lar[100199]=`<b>ῶντος (ὁ)</b> Triéphôn, <i>h</i>. LUC. <i>Philopatr. 1</i>.`

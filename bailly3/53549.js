@@ -1,0 +1,1 @@
+lar[53549]=`<i>adv</i>., en ordre, DS. <i>Exc. Vat. p. 18 Mai</i>.<p><b>Étym</b>. κατατάσσω.`

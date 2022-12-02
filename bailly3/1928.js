@@ -1,0 +1,1 @@
+lar[1928]=`<b>ας (ἡ)</b> <font color="purple">[θᾰ]</font> inexpérience de la mer, SECUND. <i>Sent. 16</i>.<p><b>Étym</b>. ἀθάλασσος.`

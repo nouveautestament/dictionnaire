@@ -1,0 +1,1 @@
+lar[105782]=`<b>φιλό·ζῳος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les animaux, XÉN. <i>Mem. 1, 4, 7</i>.<p><b>Étym</b>. φ. ζῷον.`

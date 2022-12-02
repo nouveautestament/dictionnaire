@@ -1,0 +1,1 @@
+lar[93496]=`<b>συγκόλλησις, εως (ἡ)</b> assemblage de choses collées <i>ou</i> soudées, CLÉARQ. (ATH. <i>393a</i>) ; <i>fig</i>. attachement, THÉM. <i>268a</i>.<p><b>Étym</b>. συγκολλάω.`

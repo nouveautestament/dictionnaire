@@ -1,0 +1,1 @@
+lar[85633]=`<b>προσ·επαίρω</b>, élever en outre <i>ou</i> davantage, CLÉM. <i>171 ; fig</i>. exciter <i>ou</i> encourager encore plus, ARR. <i>An. 4, 5</i> ; DC. <i>48, 21 au pass</i>.`

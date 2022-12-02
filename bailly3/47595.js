@@ -1,0 +1,1 @@
+lar[47595]=`<b>θρασυ·μήδης, εος-ους (ὁ, ἡ)</b> <font color="purple">[ᾰῠ]</font> aux projets hardis, à l’esprit audacieux, PD. <i>P. 4, 254 ; N. 9, 31</i>.<p><b>Étym</b>. θρ. μῆδος.`

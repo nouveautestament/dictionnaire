@@ -1,0 +1,1 @@
+lar[100885]=`<font color="purple">[ῠ]</font> <i>adv</i>., délicatement, avec mollesse <i>ou</i> sensualité, ARSTT. <i>Pol. 2, 9, 6, joint à</i> ἀκολάστως.<p>•<i> Cp</i>. -ώτερον, DC. <i>60, 31 ; 79, 6</i>.<p><b>Étym</b>. τρυφερός.`

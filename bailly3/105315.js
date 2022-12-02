@@ -1,0 +1,1 @@
+lar[105315]=`<b>φθινό·κωλος, ος, ον</b> <font color="purple">[ῐ]</font> aux membres épuisés <i>ou</i> languissants, MAN. <i>4, 500</i>.<p><b>Étym</b>. φθίνω, κῶλον.`

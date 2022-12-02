@@ -1,0 +1,1 @@
+lar[60981]=`<b>λιγουρο·κώτιλος, η, ον</b> <font color="purple">[ῐῐ]</font> qui babille d’une voix perçante <i>ou</i> mélodieuse, COR. <i>20</i>.<p><b>Étym</b>. <i>béot. c</i>. *λιγυροκώτιλος, <i>de</i> λιγυρός, κωτίλλω.`

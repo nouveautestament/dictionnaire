@@ -1,0 +1,1 @@
+lar[102701]=`<b>ου (ὁ)</b> homme méprisant <i>ou</i> dédaigneux de, SOPH. <i>Ant. 130</i> ; THC. <i>3, 38</i> ; PLUT. <i>Pyrrh. 4</i> ; HLD. <i>6, 13 ; abs</i>. THCR. <i>Idyl. 22, 58</i> ; ARSTT. <i>Nic. 4, 3, 19</i> ; LUC. <i>Nec. 14, D. mar. 13, 2, Nec. 14</i> ; DL. <i>7, 485</i>.<p>➳.<p><b>Étym</b>. ὑπερόψομαι.`

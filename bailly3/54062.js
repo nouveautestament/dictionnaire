@@ -1,0 +1,1 @@
+lar[54062]=`<b>κατ·ικμάζω</b>, amollir en humectant, NIC. <i>Al. 595</i>.`

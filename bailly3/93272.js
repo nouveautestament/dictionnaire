@@ -1,0 +1,1 @@
+lar[93272]=`<font color="purple">[ᾰᾰᾰ]</font> <i>adv</i>., avec condescendance, avec indulgence, ORIG. <i>2, 992</i> ; CHRYS. <i>3, 597 Migne</i>.`

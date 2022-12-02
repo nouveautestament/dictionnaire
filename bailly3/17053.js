@@ -1,0 +1,1 @@
+lar[17053]=`<b>ἀ·τυράννευτος, ος, ον</b> <font color="purple">[ῠ]</font> non gouverné par des tyrans, THC. <i>1, 18</i> ; DC. <i>37, 22, etc</i>.<p><b>Étym</b>. ἀ, τυραννεύω.`

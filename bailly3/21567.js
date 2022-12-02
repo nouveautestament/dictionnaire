@@ -1,0 +1,1 @@
+lar[21567]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> risible, ridicule, LUC. <i>Somn. 5</i> ; STRATT. (PHRYN. GR. <i>226 ; sel</i>. PHRYN. <i>forme non attique).</i><p><b>Étym</b>. γελάω.`

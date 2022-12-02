@@ -1,0 +1,1 @@
+lar[39612]=`<b>ή, όν</b>, hérissé, à la surface, de, <i>dat</i>. NIC. <i>Th. 157</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπιφρίσσω.`

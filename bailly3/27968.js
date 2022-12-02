@@ -1,0 +1,1 @@
+lar[27968]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> Dryade, nymphe dont la vie était liée à celle d’un arbre (<i>avec ou sans</i> νύμφη) PAUS. <i>8, 4, 2,</i> PLUT. <i>Cæs. 9 ; au plur</i>. PAUS. <i>8, 39, 2</i> ; PLUT. <i>M. 757e ;</i> LGS <i>2, 38 ; 3, 23</i>.<p>➳ <i>Voc</i>. Δρυάς, NONN. <i>D. 5, 440</i>.<p><b>Étym</b>. δρῦς.`

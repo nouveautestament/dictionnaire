@@ -1,0 +1,1 @@
+lar[97922]=`<b>ταχυ·τόκος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui enfante <i>ou</i> met bas promptement <i>ou</i> facilement, ARSTT. <i>Probl. 10, 9</i>.<p><b>Étym</b>. τ. τίκτω.`

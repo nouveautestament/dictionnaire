@@ -1,0 +1,1 @@
+lar[84919]=`<b>ος, ον</b>, qui concerne un convoi <i>ou</i> une cérémonie funèbre, PHILSTR. <i>135</i>.<p><b>Étym</b>. προπέμπω.`

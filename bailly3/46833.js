@@ -1,0 +1,1 @@
+lar[46833]=`<b>Θεό·φημος, ου (ὁ)</b> Théophèmos, <i>h</i>. DÉM. <i>47, 5, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>v</i>. θέοφημος.`

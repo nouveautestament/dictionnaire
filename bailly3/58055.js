@@ -1,0 +1,1 @@
+lar[58055]=`<b>κρομμυ·οξυρεγμία</b>, <i>ou p.-ê</i>. <b>κρομμυ·οξερυγμία, ας (ἡ)</b> <font color="purple">[ξῠ]</font> rot d’un homme qui a mangé de l’oignon, AR. <i>Pax 529</i>.<p><b>Étym</b>. κρόμμυον, ὀξύς, ἐρεύγομαι.`

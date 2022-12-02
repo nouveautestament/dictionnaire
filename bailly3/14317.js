@@ -1,0 +1,1 @@
+lar[14317]=`<b>ων (οἱ)</b> les Argyrins, <i>pple d’Épire,</i> LYC. <i>1017</i>.`

@@ -1,0 +1,1 @@
+lar[102538]=`<b>ὑπερ·θρασύνομαι</b> <font color="purple">[ᾰ]</font> être audacieux à l’excès, DC. <i>41, 28</i>.`

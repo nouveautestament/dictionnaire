@@ -1,0 +1,1 @@
+lar[13763]=`(<i>seul. prés</i>.) être absous en justice, DÉM. <i>644, 25</i>.<p><b>Étym</b>. ἀποφεύγω.`

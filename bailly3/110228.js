@@ -1,0 +1,1 @@
+lar[110228]=`<b>ὠλεσί·οικος, ος, ον :<br>      1</b> qui perd les maisons, les familles, ESCHL. <i>Sept. 720</i>.<br><b>      2</b> <i>part</i>. qui ruine une maison par ses dépenses, LIB. <i>4, 143</i>.<p><b>Étym</b>. ὄλλυμι, οἶκος.`

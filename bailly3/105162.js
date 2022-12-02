@@ -1,0 +1,1 @@
+lar[105162]=`<b>ου (ὁ)</b> = <i>lat</i>. Feretrius, <i>n. de Jupiter Feretrius, chez les Romains,</i> PLUT. <i>Rom. 16, Marc. 6, etc</i>.`

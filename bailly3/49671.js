@@ -1,0 +1,1 @@
+lar[49671]=`<b>ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> <i>c</i>. ἰσηγορία, POL. <i>26, 3, 9, etc</i>.<p><b>Étym</b>. ἴ. λόγος.`

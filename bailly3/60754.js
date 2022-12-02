@@ -1,0 +1,1 @@
+lar[60754]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. femme emmenée comme butin, <i>càd</i>. captive, IL. <i>20, 193</i>.<p>➳ <i>Dat. pl. épq</i>. ληϊάδεσσι, A.RH. <i>1, 612</i>.<p><b>Étym</b>. ληΐη.`

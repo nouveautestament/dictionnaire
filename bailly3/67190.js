@@ -1,0 +1,1 @@
+lar[67190]=`<b>μύ·ουρος, ος, ον</b>, en forme de queue de rat, mince, effilé, ARSTT. <i>P.A. 3, 1 ; 4, 13 ; Poet. 27</i> ; NIC. <i>Th. 287</i> ; APD. POL. <i>36a ;</i> ἡ μ. A. TR. <i>10, p. 573 ; 11, p. 648,</i> queue de rat, <i>plante</i>.<p><b>Étym</b>. μῦς, οὐρά.`

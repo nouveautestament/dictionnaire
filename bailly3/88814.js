@@ -1,0 +1,1 @@
+lar[88814]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑνᾱ]</font> = <i>lat</i>. Rŭfiniānus, <i>n. d’h. rom</i>. ANTH. <i>11, 358</i>.`

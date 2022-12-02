@@ -1,0 +1,1 @@
+lar[70863]=`<b>ὀκτά·τομος, ος, ον</b> <font color="purple">[ᾰ]</font> divisé en huit parties, A. TR. <i>7, p. 122</i>.<p><b>Étym</b>. ὀ. τέμνω.`

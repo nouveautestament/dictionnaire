@@ -1,0 +1,1 @@
+lar[78582]=`<b>περι·έργω</b>, <i>att</i>. <b>περι·είργω</b>, enfermer de tous côtés, HDT. <i>2, 148</i> ; THC. <i>1, 106 ; 5, 11 ; au pass</i>. XÉN. <i>Hell. 4, 1, 15, etc</i>.`

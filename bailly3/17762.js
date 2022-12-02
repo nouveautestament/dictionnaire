@@ -1,0 +1,1 @@
+lar[17762]=`<b>ας (ἡ)</b> action de naître de soi-même, LIB. <i>4, 70</i>.<p><b>Étym</b>. αὐτοφυής.`

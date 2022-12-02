@@ -1,0 +1,1 @@
+lar[90563]=`<b>σιτό·χροος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῑ]</font> de la couleur du blé, <i>càd</i>. d’un jaune brun, OPP. <i>C. 1, 435</i>.<p><b>Étym</b>. σ. χρόα.`

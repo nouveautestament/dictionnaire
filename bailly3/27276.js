@@ -1,0 +1,1 @@
+lar[27276]=`<b>οῦ (ὁ)</b> action de se pousser mutuellement, PLUT. <i>Cam. 29 au plur</i>.`

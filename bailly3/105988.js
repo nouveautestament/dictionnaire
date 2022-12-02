@@ -1,0 +1,1 @@
+lar[105988]=`<b>φιλό·πατρις, ιδος, ιν (ὁ, ἡ)</b> <font color="purple">[φῐ]</font> qui aime son pays, DS. <i>Ep. 11</i> ; PLUT. <i>Cic. 49</i> ; ANTH. <i>7, 235</i> ; CIC. <i>Att. 9, 10</i> ; τὸ φιλόπατρι, PLUT. <i>M. 119c</i>, l’amour de son pays.<p>➳ <i>Acc</i>. -ιν, POL. <i>1, 14, 4</i> ; LUC. <i>Per. 15, etc</i>.<p><b>Étym</b>. φ. πατρίς.`

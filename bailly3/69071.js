@@ -1,0 +1,1 @@
+lar[69071]=`<b>ας (ἡ)</b> prudence, sagesse, POL. <i>4, 82, 3</i>.<p><b>Étym</b>. νουνεχής.`

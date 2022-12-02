@@ -1,0 +1,1 @@
+lar[33779]=`<b>ἐν·αγκυλάω-ῶ</b> <font color="purple">[ῠ]</font> lancer avec la courroie ἀγκύλη, XÉN. <i>An. 4, 2, 28</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. EL. <i>N.A. 5, 3</i>.<p><b>Étym</b>. ἐν, ἀγκύλη.`

@@ -1,0 +1,1 @@
+lar[77946]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. πενιχρός, ANTH. <i>6, 190</i>.`

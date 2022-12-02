@@ -1,0 +1,1 @@
+lar[16016]=`<b>ἄ·σπαρτος, ος, ον :<br>      1</b> non ensemencé, OD. <i>9, 123</i>.<br><b>      2</b> non semé, non planté, qui pousse sans culture, OD. <i>9, 109,</i> NUMÉN. (ATH. <i>371b</i>).<p><b>Étym</b>. ἀ, σπείρω.`

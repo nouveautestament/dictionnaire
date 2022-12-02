@@ -1,0 +1,1 @@
+lar[91018]=`<b>σκληρ·αύχην, χενος (ὁ, ἡ)</b> au cou dur, <i>d’où fig</i>. rétif, indocile, PLUT. <i>M. 2f ;</i> PHIL. <i>1, 528</i> ; CLÉM. <i>73</i>.<p><b>Étym</b>. σκ. αὐχήν.`

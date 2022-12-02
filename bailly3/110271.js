@@ -1,0 +1,1 @@
+lar[110271]=`<b>ὠμό·δροπος, ος, ον</b>, cueilli encore vert, <i>càd</i>. avant l’âge, <i>en parl. de la virginité,</i> ESCHL. <i>Sept. 333</i>.<p><b>Étym</b>. ὠ. δρέπω.`

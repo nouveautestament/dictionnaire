@@ -1,0 +1,1 @@
+lar[80003]=`<b>πηγανό·σπερμον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> graine de rue, GEOP. <i>8, 30</i>.<p><b>Étym</b>. πήγανον, σπέρμα.`

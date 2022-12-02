@@ -1,0 +1,1 @@
+lar[100584]=`<b>α, ον</b> <font color="purple">[ῐᾰ]</font> triple, HDT. <i>5, 1 ; au pl</i>. trois, HDT. <i>1, 95 ; 2, 17, etc</i>.<p><b>Étym</b>. <i>cf</i>. διφάσιος <i>et lat</i>. trifarius.`

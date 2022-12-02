@@ -1,0 +1,1 @@
+lar[39061]=`<b>έως (ὁ)</b> celui qui ensemence, <i>fig</i>. BAS. <i>3, 637 Migne</i>.<p><b>Étym</b>. ἐπισπείρω.`

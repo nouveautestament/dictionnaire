@@ -1,0 +1,1 @@
+lar[29051]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> plongeur, HDT. <i>8, 8</i>.<p><b>Étym</b>. δύω.`

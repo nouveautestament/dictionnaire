@@ -1,0 +1,1 @@
+lar[30131]=`(<i>seul. part. pr</i>.) être chevelu, THCR. <i>Idyl. 1, 34</i>.<p><b>Étym</b>. ἔθειρα.`

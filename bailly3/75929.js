@@ -1,0 +1,1 @@
+lar[75929]=`<b>παρα·μηχανάομαι-ῶμαι</b> <font color="purple">[χᾰ]</font> comploter en rivalité avec, ORIG. <i>1, 873 Migne</i>.`

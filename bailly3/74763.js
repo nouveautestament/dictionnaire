@@ -1,0 +1,1 @@
+lar[74763]=`<b>(ὁ)</b> Pamylès, <i>dieu égyptien,</i> PLUT. <i>Is. et Os. 12</i>.`

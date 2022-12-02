@@ -1,0 +1,1 @@
+lar[23556]=`<b>ου (ὁ)</b> Deinias, <i>h</i>. THC. <i>3, 3</i> ; DÉM. PLUT. <i>etc</i>.<p><b>Étym</b>. δεινός.`

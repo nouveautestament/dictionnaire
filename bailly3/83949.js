@@ -1,0 +1,1 @@
+lar[83949]=`<b>προ·διαστροφή, ῆς (ἡ)</b> perversion antérieure, CLÉM. <i>487</i>.`

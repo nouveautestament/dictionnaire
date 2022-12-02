@@ -1,0 +1,1 @@
+lar[55391]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> action de remuer les hanches, HPC. <i>833d</i>.<p><b>Étym</b>. κιγκλίζω.`

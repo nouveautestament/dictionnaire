@@ -1,0 +1,1 @@
+lar[54904]=`<b>ος, ον</b>, qui tient <i>ou</i> qui dirige la foudre, PHIL. PARADOX. <i>VII mir. 3</i>.<p><b>Étym</b>. κεραυνός, ἔχω.`

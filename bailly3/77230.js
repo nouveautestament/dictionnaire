@@ -1,0 +1,1 @@
+lar[77230]=`<b>ου (ὁ)</b> Paséas, <i>h</i>. DÉM. <i>54, 32 Baiter-Sauppe, etc</i>.`

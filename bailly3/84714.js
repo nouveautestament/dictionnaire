@@ -1,0 +1,1 @@
+lar[84714]=`<b>προ·μετρέω-ῶ :<br>      1</b> mesurer d’avance, IS. (POLL. <i>4, 166</i>).<br><b>      2</b> <i>p. suite,</i> accorder <i>ou</i> distribuer d’avance, STOB. <i>Ecl. 2, 64</i>.`

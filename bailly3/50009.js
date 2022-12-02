@@ -1,0 +1,1 @@
+lar[50009]=`<b>άδος (ἡ)</b> <font color="purple">[ῑφᾰδ]</font> Iphias, <i>prêtresse d’Artémis,</i> A.RH. <i>1, 312</i>.`

@@ -1,0 +1,1 @@
+lar[52592]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> transport de l’intérieur au pays vers la côte, THC. <i>1, 120</i>.<br><b>      2</b> transport, DS. <i>18, 3</i>.<p><b>Étym</b>. <i>cf</i>. κατακομίζω.`

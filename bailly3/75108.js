@@ -1,0 +1,1 @@
+lar[75108]=`<b>πάν·ολβος, ος, ον</b> <font color="purple">[ᾰ]</font> ESCHL. <i>Suppl. 582, au</i> <i>• Sup</i>. πανόλβιστος, SIB. <i>3, 347, c</i>. πανόλβιος.`

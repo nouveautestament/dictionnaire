@@ -1,0 +1,1 @@
+lar[21023]=`<b>ης (ἡ) :<br>   I</b> peau apprêtée, cuir, BATR. <i>127</i> ; HDT. <i>3, 110</i> ; ARSTT. <i>H.A. 4, 6, 1</i> ; AR. <i>Eq. 892, etc. d’où</i> :<br><b>      1</b> outre pour le vin, LUC. <i>Lex. 6</i>.<br><b>      2</b> tambour, EUR. <i>Bacch. 513</i>.<br><b>   II</b> <i>postér</i>. peau d’un animal vivant, THCR. <i>Idyl. 25, 238, 272</i>.`

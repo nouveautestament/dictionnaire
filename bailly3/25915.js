@@ -1,0 +1,1 @@
+lar[25915]=`<b>δια·χαυνόω-ῶ</b> <font color="darkgreen">(<i>ao. sbj. 3 sg</i>. -ώσῃ)</font> relâcher, amollir, CHRYS. <i>3, 835</i>.`

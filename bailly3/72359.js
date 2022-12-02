@@ -1,0 +1,1 @@
+lar[72359]=`<b>η, ον</b>, OD. <i>3, 465 ; 7, 58, etc.</i> ; HÉS. <i>Th. 137, 333, 940</i> ; PD. <i>I. 5, 5 ; 7, 18,</i> le plus jeune, <i>litt</i>. le mieux armé par les bras, les mains, à cause de la vigueur de la jeunesse.<p><b>Étym</b>. <i>sup. dérivé de</i> ὅπλον.`

@@ -1,0 +1,1 @@
+lar[37657]=`<b>ατος (τὸ)</b> contribution, écot, ATH. <i>364f ;</i> AQU. <i>Lev. 13, 7</i>.<p><b>Étym</b>. ἐπιδίδωμι.`

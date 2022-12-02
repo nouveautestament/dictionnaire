@@ -1,0 +1,1 @@
+lar[63833]=`<b>μελάν·αιγις, ιδος (ὁ, ἡ)</b> <font color="purple">[ᾰῐδ]</font><br><b>      1</b> à la noire égide, <i>ép. d’Érinys,</i> ESCHL. <i>Sept. 699 ; de Bacchus,</i> PAUS. <i>2, 35, 1</i>.<br><b>      2</b> <i>fig</i>. qui soulève de noirs tourbillons, <i>en parl. du vin,</i> PLUT. <i>M. 692e</i>.<p><b>Étym</b>. μ. αἰγίς.`

@@ -1,0 +1,1 @@
+lar[46875]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec empressement <i>ou</i> obligeance, PLUT. <i>Artax. 4, etc</i>.`

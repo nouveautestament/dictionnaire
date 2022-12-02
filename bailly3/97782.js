@@ -1,0 +1,1 @@
+lar[97782]=`<b>ων (οἱ)</b> les Taures, <i>pple au sud de la Crimée,</i> HDT. <i>4, 99, 100, etc. ; v</i>. Ταυρικός.`

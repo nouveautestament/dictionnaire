@@ -1,0 +1,1 @@
+lar[107316]=`<b>φυτο·ειδῶς</b> <font color="purple">[ῠ]</font> <i>adv</i>., comme une plante, ZÉNON (DL. <i>7, 86).</i><p><b>Étym</b>. φυτόν, εἶδος.`

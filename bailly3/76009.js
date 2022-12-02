@@ -1,0 +1,1 @@
+lar[76009]=`<b>παρά·ξενος, ος, ον :<br>      1</b> à demi étranger, AR. <i>Ach. 518</i> ; THÉM. <i>255d.</i><br><b>      2</b> étrange, extraordinaire, PALÆPH. <i>52</i>.<p><b>Étym</b>. π. ξένος.`

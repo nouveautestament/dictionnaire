@@ -1,0 +1,1 @@
+lar[56287]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> ortie, ARSTT. <i>H.A. 3, 20, 9</i> ; THCR. <i>Idyl. 7, 109</i> ; DIOSC. <i>4, 94</i> ; ANTH. <i>12, 124</i>.<br><b>      2</b> ortie de mer, <i>mollusque,</i> ARSTT. <i>H.A. 5, 16, etc.</i> ; ARCHESTR. (ATH. <i>285c</i>).<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

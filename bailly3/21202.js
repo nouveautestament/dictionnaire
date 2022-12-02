@@ -1,0 +1,1 @@
+lar[21202]=`<i>seul. ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[γᾰ]</font> régime de laitage, HPC. <i>540, 39</i>.<p><b>Étym</b>. <i>v</i>. γαλακτοποτέω.`

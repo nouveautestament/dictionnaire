@@ -1,0 +1,1 @@
+lar[8036]=`<b>ἀνδριαντουργέω-ῶ</b>, travailler <i>ou</i> faire des statues, CLÉM. <i>296</i>.<p><b>Étym</b>. ἀνδριαντουργός.`

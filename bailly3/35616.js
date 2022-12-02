@@ -1,0 +1,1 @@
+lar[35616]=`<b>ατος (τὸ) :<br>   I</b> objet suspendu, <i>d’où</i> :<br><b>      1</b> poids suspendu à une corde, NICOM. <i>Harm. 1, p. 11</i> ; JAMBL. <i>V. Pyth. 117</i>.<br><b>      2</b> appendice, TAT. <i>Or. ad Græc. 17, c. 844a</i> ; SCH.-AR. <i>Eq. 762</i>.<br><b>   II</b> suspension (d’amulettes) TAT. <i>Or. ad Græc. 844a Migne</i>.<p><b>Étym</b>. ἐξαρτάω.`

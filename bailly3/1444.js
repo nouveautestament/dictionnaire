@@ -1,0 +1,1 @@
+lar[1444]=`<b>ἀ·διοργάνωτος, ος, ον</b> <font color="purple">[γᾰ]</font> muni d’organes insuffisants, JAMBL. <i>V. Pyth. 17</i>.<p><b>Étym</b>. ἀ, διοργανόω.`

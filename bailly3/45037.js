@@ -1,0 +1,1 @@
+lar[45037]=`<b>ἡδύ·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, bienveillant, propice, <i>ép. d’Apollon,</i> ANTH. <i>9, 525</i>.<p><b>Étym</b>. ἡ. φρήν.`

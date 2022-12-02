@@ -1,0 +1,1 @@
+lar[44613]=`<i>poét. c</i>. ζάω, <i>seul. prés. inf</i>. ζόειν, SIM. AM. <i>fr. 1, 17 Bgk, et impf. 3 sg</i>. ζόεν, ANTH. <i>13, 21</i>.`

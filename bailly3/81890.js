@@ -1,0 +1,1 @@
+lar[81890]=`<b>ας (ἡ)</b> durée de longues années, DL. <i>1, 72</i>.<p><b>Étym</b>. πολυετής.`

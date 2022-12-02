@@ -1,0 +1,1 @@
+lar[42486]=`<b>εὐκοσμέω-ῶ</b>, mettre en bon ordre, en bon état, SPT. <i>1Macc. 8, 15</i>.<p><b>Étym</b>. εὔκοσμος.`

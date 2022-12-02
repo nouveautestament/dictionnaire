@@ -1,0 +1,1 @@
+lar[26669]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> mouvement circulaire, XÉN. <i>Eq. 3, 11</i> ; ORPH. <i>H. 7, 7 ; d’où</i> danse circulaire, ronde ; AR. <i>Th. 122</i>.<p><b>Étym</b>. δινεύω.`

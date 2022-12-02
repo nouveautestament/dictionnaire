@@ -1,0 +1,1 @@
+lar[61375]=`<b>λιπό·φθογγος</b>, <i>mieux que</i> <b>λειπό·φθογγος, ος, ον</b> <font color="purple">[ῐ]</font> privé de voix, muet, NONN. <i>D. 26, 288</i>.<p><b>Étym</b>. λ. φθέγγω.`

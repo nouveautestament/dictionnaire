@@ -1,0 +1,1 @@
+lar[97626]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> action de troubler, trouble, agitation, ESCHL. <i>Ch. 1058</i> ; EUR. <i>Hec. 857, H.f. 353, Ph. 196</i>.<p><b>Étym</b>. ταράσσω.`

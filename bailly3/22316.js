@@ -1,0 +1,1 @@
+lar[22316]=`<b>ας (ἡ) :<br>      1</b> action de parler par sentences, PLAT. <i>Phædr. 267c ;</i> ARSTT. <i>Rhet. 2, 21, 1</i>.<br><b>      2</b> recueil de sentences, PLUT. <i>Thes. 3 ; Cato ma. 2</i>.<p><b>Étym</b>. *γνωμολόγος, <i>de</i> γνώμη, λέγω.`

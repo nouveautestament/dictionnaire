@@ -1,0 +1,1 @@
+lar[74129]=`<b>παγ·κοίτης</b>, <i>dor</i>. <b>παγ·κοίτας, α</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. qui endort toute chose, SOPH. <i>Ant. 805, 811</i>.<p><b>Étym</b>. π. κοίτη.`

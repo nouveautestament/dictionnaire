@@ -1,0 +1,1 @@
+lar[108207]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Kheirôn : Χειρωνίδες ἄκραι, CALL. <i>Del. 104,</i> les hauteurs de Cirôn, <i>càd</i>. le Pélion ; Χειρωνὶς βίβλος, ANTH. <i>7, 158,</i> livre de Chirôn, <i>càd</i>. livre de médecine.<p><b>Étym</b>. Χείρων.`

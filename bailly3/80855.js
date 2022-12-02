@@ -1,0 +1,1 @@
+lar[80855]=`<b>1</b> <i>contr. p</i>. πλείονα, <i>acc. m. ou pl. neutre de</i> πλείων.<br><b>2</b> <i>v</i>. πλέω.`

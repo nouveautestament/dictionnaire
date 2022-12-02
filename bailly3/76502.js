@@ -1,0 +1,1 @@
+lar[76502]=`<b>(ὁ)</b> Pardalas, <i>h</i>. PLUT. <i>Præc. reip. ger. 17</i>.`

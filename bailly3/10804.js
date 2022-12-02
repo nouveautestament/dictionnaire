@@ -1,0 +1,1 @@
+lar[10804]=`<b>ἀν·υψόω-ῶ</b>, élever :<br><b>      1</b> <i>au propre,</i> SPT. <i>2Esdr. 4, 12 ; Sir. 20, 28 ; 38, 3 ; 46, 23</i>.<br><b>      2</b> <i>fig</i>. exalter, NONN. <i>Jo. 16, 43</i>.<br><b><i>Moy.</i></b> élever, <i>au propre,</i> ANTH. <i>7, 748</i>.<p><b>Étym</b>. ἀνά, ὑ.`

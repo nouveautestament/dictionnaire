@@ -1,0 +1,1 @@
+lar[34495]=`<b>ἐν·θαλάσσιος, ος, ον</b> <font color="purple">[θᾰ]</font> qui est sur mer, SOPH. <i>fr. 379</i>.<p><b>Étym</b>. ἐν, θάλασσα.`

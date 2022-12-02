@@ -1,0 +1,1 @@
+lar[5255]=`<b>ἁμ·αρτῆ</b> <i>ou</i> <b>ἁμ·αρτῇ</b>, <i>adv</i>., ensemble, en même temps, IL. <i>5, 656</i> ; OD. <i>22, 81</i>.<p><b>Étym</b>. ἅμα, ἀραρίσκω, <i>var</i>. ὁμ-.`

@@ -1,0 +1,1 @@
+lar[12158]=`<b>εως (ἡ)</b> action d’humecter, de mouiller, AQU. <i>et</i> SYMM. <i>Num. 6, 3</i>.<p><b>Étym</b>. ἀποβρέχω.`

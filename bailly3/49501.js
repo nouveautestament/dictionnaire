@@ -1,0 +1,1 @@
+lar[49501]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Iros :<br><b>      1</b> <i>n. d’h. mendiant d’Ithaque,</i> OD. <i>18, 5, etc. ; d’où</i> un mendiant <i>en gén</i>. LIB. <i>1, 568 ; au plur</i>. Ἶροι, LUC. <i>Nav. 24,</i> des Iros.<br><b>      2</b> <i>n. d’une v. de Thessalie,</i> LYC. <i>905</i>.`

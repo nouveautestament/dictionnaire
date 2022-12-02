@@ -1,0 +1,1 @@
+lar[84594]=`<b>προ·κόσμημα, ατος (τὸ)</b> ornement sur le front, DL. <i>Proœm. 7</i> ; LGN <i>43, etc</i>.`

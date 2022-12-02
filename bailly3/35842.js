@@ -1,0 +1,1 @@
+lar[35842]=`<b>ή, όν :<br>      1</b> irritable, DL. <i>10, 143 Cobet</i>.<br><b>      2</b> qui a tendance à s’irriter, à s’agiter, <i>en parl. du pouls,</i> GAL. <i>8, 159 (sel. d’autres,</i> ἐξερειστικός).<p><b>Étym</b>. ἐξερίζω.`

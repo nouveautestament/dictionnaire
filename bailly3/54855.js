@@ -1,0 +1,1 @@
+lar[54855]=`<b>ων (τὰ)</b> les Cornes (<i>auj</i>. Kandíli) <i>chaîne de mt. servant de frontière entre l’Attique et la Mégaride,</i> PLUT. <i>Them. 13</i>.<p><b>Étym</b>. <i>v</i>. κέρας <i>et</i> Κέρας.`

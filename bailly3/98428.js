@@ -1,0 +1,1 @@
+lar[98428]=`<b>ιδος (ἡ)</b> Terpsis, <i>f</i>. ANTH. <i>App. 53</i>.<p><b>Étym</b>. <i>v</i>. τέρψις.`

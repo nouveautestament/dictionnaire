@@ -1,0 +1,1 @@
+lar[55703]=`<b>κιχράω-ῶ</b>, <i>c</i>. κίχρημι (<i>seul. prés</i>. LIB. <i>4, p. 831, et inf. prés. pass</i>. κιχρᾶσθαι, TH. <i>Char. 17</i>).`

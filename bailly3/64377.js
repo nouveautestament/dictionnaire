@@ -1,0 +1,1 @@
+lar[64377]=`<i>adv</i>., partiellement <i>ou</i> particulièrement, DYSC. <i>(Bkk. p. 533, 2).</i><p>•<i> Cp</i>. -ώτερον, DYSC. <i>(Bkk. p. 538, 27 ; 548, 23</i>).`

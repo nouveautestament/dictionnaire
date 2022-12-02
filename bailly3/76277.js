@@ -1,0 +1,1 @@
+lar[76277]=`<b>παρα·σύνεσις</b>, <i>ion</i>. <b>παραξύνεσις, ιος (ἡ)</b> méprise, malentendu, HPC. <i>Art. 787c</i>, d.`

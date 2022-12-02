@@ -1,0 +1,1 @@
+lar[60888]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> la fille de Latone, <i>càd</i>. Artémis, CALL. <i>H. 3, 83</i>.<p><b>Étym</b>. Λητώ.`

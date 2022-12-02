@@ -1,0 +1,1 @@
+lar[21240]=`<b>(ὁ)</b> Galatôn, peintre alexandrin, EL. <i>V.H. 13, 22</i>.`

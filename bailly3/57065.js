@@ -1,0 +1,1 @@
+lar[57065]=`vivre, comme les Corinthiens, dans la débauche, AR. <i>fr. 133</i>.<p><b>Étym</b>. Κορίνθιοι.`

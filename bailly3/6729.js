@@ -1,0 +1,1 @@
+lar[6729]=`<b>ου (ὁ, ἡ)</b> caution, répondant, MÉN. (SUID.) ; DH. <i>6, 84</i> ; PLUT. <i>Dio. 18, 20</i>.<p><b>Étym</b>. ἀναδέχομαι.`

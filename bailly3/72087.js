@@ -1,0 +1,1 @@
+lar[72087]=`<b>ὀξυ·έθειρος, ος, ον</b>, aux cheveux <i>ou</i> aux poils hérissés, NONN. <i>Jo. 19, 5</i>.<p><b>Étym</b>. ὀ. ἔθειρα.`

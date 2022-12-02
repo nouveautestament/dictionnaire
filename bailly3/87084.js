@@ -1,0 +1,1 @@
+lar[87084]=`<i>adv.</i> :<br><b>      1</b> du côté de la poupe, A.RH. <i>4, 911</i> ; ARAT. <i>343, etc.</i><br><b>      2</b> de fond en comble, ESCHL. <i>Sept. 71</i>.<p><b>Étym</b>. πρυμνός, -θεν.`

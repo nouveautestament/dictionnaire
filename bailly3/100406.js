@@ -1,0 +1,1 @@
+lar[100406]=`<b>τρί·πτερος, ος, ον</b>, à trois pennons : τρίπτερα βέλη, PHIL. BYZ. <i>Bel. 51,</i> flèches à triple pennon.<p><b>Étym</b>. τρ. πτερόν.`

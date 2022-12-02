@@ -1,0 +1,1 @@
+lar[90371]=`<b>ά, όν</b> <font color="purple">[ῐᾰ]</font> endommagé, abîmé, HPC. <i>781f, 800d, etc.</i> ; τὸ σιναρόν, HPC. <i>p. 774b, 819a</i>, mauvais état d’un organe.<p><b>Étym</b>. σίνομαι.`

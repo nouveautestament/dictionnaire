@@ -1,0 +1,1 @@
+lar[103873]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>   I</b> ce qui supporte, <i>d’où</i> :<br><b>      1</b> fourche, PLUT. <i>Cor. 24</i>.<br><b>      2</b> support d’un vase, PAUS. <i>10, 26, 9</i>.<br><b>   II</b> celui qui donne l’existence, créateur, PROCL. <i>Theol. Plat. 3, 7, p. 132</i>.<p><b>Étym</b>. ὑφίστημι.`

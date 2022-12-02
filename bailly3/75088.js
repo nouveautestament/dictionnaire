@@ -1,0 +1,1 @@
+lar[75088]=`<b>ή, όν</b>, de Pannonie, PLUT. <i>Oth. 4</i>.<p><b>Étym</b>. <i>v</i>. Παννονία.`

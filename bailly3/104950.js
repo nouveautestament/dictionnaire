@@ -1,0 +1,1 @@
+lar[104950]=`<b>εος-ους (τὸ)</b> morceau, portion, fragment, <i>en parl. d’une grappe de raisin,</i> ANTH. <i>6, 299 ; d’un vêtement,</i> JOS. <i>A.J. 8, 77</i> ; φάρσεα πόλιος, HDT. <i>1, 180,</i> quartiers d’une ville.<p><b>Étym</b>. φάρω, diviser, EM. <i>175, 39 ; cf</i>. φάρος¹.`

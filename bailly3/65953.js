@@ -1,0 +1,1 @@
+lar[65953]=`<b>μισ·αλάζων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῑᾰλ]</font> qui hait les vantards, LUC. <i>Pisc. 20</i>.<p><b>Étym</b>. μ. ἀλαζών.`

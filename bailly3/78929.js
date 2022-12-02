@@ -1,0 +1,1 @@
+lar[78929]=`<b>περί·μητρος, ος, ον</b>, qui entoure le cœur (d’un arbre) : ξύλα περίμητρα, TH. <i>H.P. 3, 9, 6,</i> bois de cœur.<p><b>Étym</b>. π. μήτρα.`

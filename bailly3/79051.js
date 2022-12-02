@@ -1,0 +1,1 @@
+lar[79051]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec une vive affection de l’âme, LUC. <i>Tim. 46</i>.<p><b>Étym</b>. περιπαθής.`

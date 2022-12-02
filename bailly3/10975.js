@@ -1,0 +1,1 @@
+lar[10975]=`<b>(ὁ)</b> Axourtas, <i>fils d’Euphrate,</i> Ps.-PLUT. <i>Fluv. 20, 1</i>.`

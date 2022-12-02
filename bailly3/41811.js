@@ -1,0 +1,1 @@
+lar[41811]=`<b>εὔ·γυρος, ος, ον</b> <font color="purple">[ῡ]</font> à courbe régulière, A. PL. <i>3, 25, 3</i>.<p><b>Étym</b>. εὖ, γυρός.`

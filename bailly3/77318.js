@@ -1,0 +1,1 @@
+lar[77318]=`<font color="purple">[ᾰ]</font> appeler son père, AR. <i>Vesp. 652</i>.<p><b>Étym</b>. πατήρ.`

@@ -1,0 +1,1 @@
+lar[83452]=`<b>εως (ἡ) :<br>      1</b> action de scier, ARSTT. <i>P.A. 1, 5, 12, d’où</i> trépanation, HPC. <i>V.C. 900</i>.<br><b>      2</b> <i>p. anal</i>. action de faire grincer : ὀδόντων, HPC. <i>Prorrh. 71</i> ; PLUT. <i>M. 458c</i>, grincement de dents.<p><b>Étym</b>. πρίω.`

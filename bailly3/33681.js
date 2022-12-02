@@ -1,0 +1,1 @@
+lar[33681]=`<b>ἐμ·φιληδονέω-ῶ</b> <font color="purple">[ῐ]</font> se plaire à <i>ou</i> dans, <i>dat</i>. M. ANT. <i>5, 5</i> ; PORPH. <i>Abst. 2, 47</i>.<p><b>Étym</b>. ἐν, φ.`

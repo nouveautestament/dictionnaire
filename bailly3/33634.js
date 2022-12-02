@@ -1,0 +1,1 @@
+lar[33634]=`<b>ἐμπυόω-ῶ</b> <font color="purple">[ῠ]</font> remplir de pus, <i>d’où au pass</i>. se remplir de pus, HPC. <i>459, 30</i>.<p><b>Étym</b>. ἔμπυος.`

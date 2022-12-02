@@ -1,0 +1,1 @@
+lar[57647]=`<b>κρατήσ·ιππος, ος, ον</b> <font color="purple">[ᾰ]</font> qui l’emporte par les chevaux, <i>càd</i>. dans les courses de chars, PD. <i>N. 9, 8</i>.<p><b>Étym</b>. κρατέω, ἵππος.`

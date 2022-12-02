@@ -1,0 +1,1 @@
+lar[14490]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> secours, ANTH. <i>9, 788</i>.<p><b>Étym</b>. ἀρηγών.`

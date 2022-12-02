@@ -1,0 +1,1 @@
+lar[99994]=`<b>τραχυστομέω-ῶ</b> <font color="purple">[ᾱ]</font> avoir la bouche dure, la prononciation rude, STR. <i>662</i>.<p><b>Étym</b>. τραχύστομος.`

@@ -1,0 +1,1 @@
+lar[26485]=`<b>ατος (τὸ)</b> <font color="purple">[ῐᾱγ]</font> action juste, ARSTT. <i>Nic. 5, 7, 7</i> ; PLUT. <i>M. 1041a</i>.<p><b>Étym</b>. δικαιοπραγέω.`

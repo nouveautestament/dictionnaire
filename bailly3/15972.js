@@ -1,0 +1,1 @@
+lar[15972]=`<b>ων (τὰ)</b> fête en l’honneur de Dionysos, <i>pendant laquelle on sautait à cloche-pied sur des outres graissées,</i> SCH.-AR. <i>Pl. 1129</i>.<p><b>Étym</b>. <i>cf. ἀσκωλιάζω, et, par suite d’une confusion d’idées, rattaché à</i> ἀσκός.`

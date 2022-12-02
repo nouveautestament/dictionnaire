@@ -1,0 +1,1 @@
+lar[105894]=`<b>φιλό·λιχνος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime à lécher, friand, ANTH. <i>2, 295, 302</i>.<p><b>Étym</b>. φ. λίχνος.`

@@ -1,0 +1,1 @@
+lar[7461]=`<i>adv</i>., sans pouvoir être séparé, SIMPL. <i>Epict. p. 12</i>.`

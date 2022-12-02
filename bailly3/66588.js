@@ -1,0 +1,1 @@
+lar[66588]=`<b>μονο·μοιρία, ας (ἡ) :<br>      1</b> lot unique, lot particulier, SEXT. <i>Astr. 5, 15</i>.<br><b>      2</b> espace d’un degré dans le cercle, P. ALEX. <i>Apot. 5, p. 17, l. 1 Boer</i>.<p><b>Étym</b>. μ. μοῖρα.`

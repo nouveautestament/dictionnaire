@@ -1,0 +1,1 @@
+lar[61858]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> le Lycée, <i>gymnase au N. E. d’Athènes où enseigna Aristote,</i> AR. <i>Pax 355</i> ; XÉN. <i>Hell. 1, 1, 33 ; 2, 4, 27</i> ; PLAT. <i>Euthyphr. 2a, etc</i>.<p><b>Étym</b>. λύκος.`

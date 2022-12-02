@@ -1,0 +1,1 @@
+lar[77263]=`<i>néo-att</i>. <b>παττάλιον, ου (τὸ)</b> <font color="purple">[ᾰλ]</font> petit clou, petite cheville, GAL. <i>Lex. Hipp. 19, 128</i>.<p><b>Étym</b>. <i>dim. de</i> πάσσαλος.`

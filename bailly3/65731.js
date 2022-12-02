@@ -1,0 +1,1 @@
+lar[65731]=`<font color="purple">[ῑ]</font> avoir un petit esprit, être mesquin, pointilleux <i>ou</i> sordide, SYN. <i>Ep. 134, 138</i>.<p><b>Étym</b>. μικροπρεπής.`

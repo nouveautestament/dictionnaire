@@ -1,0 +1,1 @@
+lar[105531]=`<b>φίλ·αυτος, ος, ον</b> <font color="purple">[ῐ]</font> amoureux de soi, égoïste, ARSTT. <i>Nic. 9, 8, 4, etc. ; M. mor. 2, 14, 3 ; Rhet. 1, 11, 26</i> ; τὸ φ. PLUT. <i>M. 40f, etc. c</i>. φιλαυτία.<p><b>Étym</b>. φ. αὐτός.`

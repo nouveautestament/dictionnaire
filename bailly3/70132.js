@@ -1,0 +1,1 @@
+lar[70132]=`<b>εως (ἡ)</b> dentition, DIOSC. <i>2, 21</i>.<p><b>Étym</b>. ὀδούς.`

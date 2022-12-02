@@ -1,0 +1,1 @@
+lar[50106]=`<b>ἰχνο·σκοπία, ας (ἡ)</b> action d’observer <i>ou</i> de suivre la trace, PLUT. <i>M. 917f</i>.<p><b>Étym</b>. <i>cf</i>. ἰχνοσκοπέω.`

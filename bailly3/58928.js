@@ -1,0 +1,1 @@
+lar[58928]=`<i>ou</i> <b>Κύρα, ων (τὰ)</b> <font color="purple">[ῡ]</font> Kyres, <i>v. de Sogdiane,</i> NONN. <i>D. 26, 48</i>.`

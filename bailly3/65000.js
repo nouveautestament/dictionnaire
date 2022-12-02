@@ -1,0 +1,1 @@
+lar[65000]=`<b>μετα·τάσσω</b>, <i>att</i>. <b>-τάττω</b>, ranger autrement, transposer, ARSTT. <i>Metaph. 6, 12, 12</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> se ranger dans un autre ordre de bataille, XÉN. <i>Cyr. 6, 1, 43</i>.<br><b>      2</b> passer des rangs d’un parti : παρά τινα, THC. <i>1, 95,</i> dans ceux d’un autre.`

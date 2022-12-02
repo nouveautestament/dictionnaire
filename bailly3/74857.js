@@ -1,0 +1,1 @@
+lar[74857]=`<b>παν·αμείδητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui ne sourit jamais, morose, OPP. <i>C. 3, 141</i>.<p><b>Étym</b>. π. ἀμείδητος.`

@@ -1,0 +1,1 @@
+lar[20754]=`<b>οντος (ὁ)</b> Brémôn, <i>litt</i>. le Grondant :<br><b>      1</b> <i>n. d’h</i>. Q. SM. <i>11, 41</i>.<br><b>      2</b> <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. βρέμω.`

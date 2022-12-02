@@ -1,0 +1,1 @@
+lar[84588]=`<b>προ·κόμιον, ου (τὸ) :<br>      1</b> touffe de crins qui tombe sur le front d’un cheval, <i>etc</i>. XÉN. <i>Eq. 5, 6</i> ; ARSTT. <i>H.A. 9, 45, 5</i>.<br><b>      2</b> perruque posée sur les cheveux, AR. <i>fr. 309, 2 Dind.</i> ; ARSTT. <i>Œc. 2, 15, 3</i> ; ATH. <i>523a</i>.<p><b>Étym</b>. π. κόμη.`

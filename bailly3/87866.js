@@ -1,0 +1,1 @@
+lar[87866]=`<b>πυρί·δρομος, ος, ον</b> <font color="purple">[ῠ]</font> qui court comme la flamme, ORPH. <i>H. 7, 11, etc</i>.<p><b>Étym</b>. πῦρ, δραμεῖν.`

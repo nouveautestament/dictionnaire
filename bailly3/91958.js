@@ -1,0 +1,1 @@
+lar[91958]=`<b>σπογγο·κολυμβητής, οῦ (ὁ)</b> plongeur pour la pêche des éponges, LYCURG. (POLL. <i>7, 137).</i><p><b>Étym</b>. σπόγγος, κολυμβάω.`

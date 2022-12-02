@@ -1,0 +1,1 @@
+lar[15616]=`<b>ἀρχι·κέραυνος, ος, ον</b> <font color="purple">[ῐ]</font> qui commande à la foudre, CLÉANTH. <i>H. Jov. 31</i> ; ORPH. <i>fr. 6, 9</i> (<i>var</i>. ἀργικ-).`

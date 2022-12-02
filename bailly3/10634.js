@@ -1,0 +1,1 @@
+lar[10634]=`<b>ἀντ·οικέω-ῶ</b>, habiter une région opposée, PTOL. <i>Geogr. 1, 8, 1</i>.<p><b>Étym</b>. ἄντοικος.`

@@ -1,0 +1,1 @@
+lar[62447]=`<b>όνος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> Macédonien, HDT. <i>5, 20, etc.</i> ; XÉN. <i>Hell. 5, 2, 12, etc.</i> ; γῆ Μακεδών, ANTH. <i>7, 45,</i> la terre de Macédoine ; οἱ Μακεδόνες, ESCHL. <i>Pers. 492, etc</i>. les Macédoniens.<p><b>Étym</b>. <i>v</i>. Μακεδονία.`

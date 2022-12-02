@@ -1,0 +1,1 @@
+lar[7161]=`<font color="purple">[ᾰμ]</font> <i>adv.</i> :<br><b>      1</b> sans se tromper, XÉN. <i>Mem. 2, 8, 5</i>.<br><b>      2</b> sans faire de mal, DÉM. <i>1407, 18</i>.`

@@ -1,0 +1,1 @@
+lar[84001]=`<b>ας (ἡ)</b> trahison, <i>càd.</i> :<br><b>      1</b> abandon de qqn dans le besoin, EUR. <i>Hel. 1633, etc.</i><br><b>      2</b> action de trahir, PLAT. <i>Rsp. 443a ;</i> DÉM. <i>740, 14, etc</i>.<p>➳ <i>Ion</i>. προδοσίη, HDT. <i>6, 88, etc.</i> ; EUR. <i>Hel. 1633</i>.<p><b>Étym</b>. προδότης.`

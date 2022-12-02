@@ -1,0 +1,1 @@
+lar[26397]=`<b>ου (ὁ)</b> dithéïte, qui admet deux divinités, NAZ. <i>2, 148c Migne</i>.<p><b>Étym</b>. διθεΐα.`

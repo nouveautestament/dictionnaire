@@ -1,0 +1,1 @@
+lar[10307]=`<b>ἀντί·πονον, ου (τὸ)</b> rémunération, salaire, JAMBL. <i>V. Pyth. 22</i>.<p><b>Étym</b>. ἀ. πόνος.`

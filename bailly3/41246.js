@@ -1,0 +1,1 @@
+lar[41246]=`<b>ας (ἡ)</b> courtisane, PLAT. <i>Conv. 191e ;</i> LUC. <i>D. mer. 5, 2</i>.<p><b>Étym</b>. ἑταιρίζω.`

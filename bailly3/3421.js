@@ -1,0 +1,1 @@
+lar[3421]=`<i>adv</i>., sans gloire, HDT. <i>5, 77</i> ; ANT. <i>113, 38</i> ; ISOCR. <i>57d, etc</i>.<p>➳ <i>Épq</i>. -είως, IL. <i>22, 304</i>.<p><b>Étym</b>. ἀκλεής.`

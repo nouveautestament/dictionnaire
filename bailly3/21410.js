@@ -1,0 +1,1 @@
+lar[21410]=`<b>γαστερό·χειρ, χειρος (ὁ, ἡ)</b> qui vit du travail de ses mains, STR. <i>373</i>.<p><b>Étym</b>. γαστήρ, χείρ ; <i>cf</i>. γαστρόχειρ.`

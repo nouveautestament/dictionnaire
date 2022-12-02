@@ -1,0 +1,1 @@
+lar[15373]=`<b>ἀρτιστομέω-ῶ</b> (<i>seul. prés</i>.) parler en articulant nettement, STR. <i>662</i>.<p><b>Étym</b>. ἀρτίστομος.`

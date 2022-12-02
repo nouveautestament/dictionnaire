@@ -1,0 +1,1 @@
+lar[98345]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> chose prestigieuse, miracle, APOLL. PAR. <i>Hist. mir. p. 6</i>.<p><b>Étym</b>. τερατοποιός.`

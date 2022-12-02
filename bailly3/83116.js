@@ -1,0 +1,1 @@
+lar[83116]=`<b>οῦ (ὁ)</b> prière, invocation, STR. <i>297</i>.<p><b>Étym</b>. ποτνιάομαι.`

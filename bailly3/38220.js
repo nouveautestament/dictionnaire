@@ -1,0 +1,1 @@
+lar[38220]=`<b>ἐπι·κυλίνδω</b> <font color="purple">[ῠ]</font> <i>(seul. prés.) c</i>. ἐπικυλινδέω¹, ORACL. (PLUT. <i>M. 699c</i>).`

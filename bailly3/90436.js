@@ -1,0 +1,1 @@
+lar[90436]=`<b>ου (ἡ)</b> <font color="purple">[ῐῠ]</font> Sipylos, <i>v. près du mt Sipylos,</i> PD. <i>O. 1, 62</i> ; EUR. <i>I.A. 952</i>.`

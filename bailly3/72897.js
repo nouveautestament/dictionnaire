@@ -1,0 +1,1 @@
+lar[72897]=`<b>ας (ἡ)</b> chaîne <i>ou</i> câble pour soulever un fardeau <i>ou</i> le tenir en suspens, DS. <i>17, 44</i> ; PHIL. BYZ. <i>Bel. p. 91b</i>.<p><b>Étym</b>. ὅρμος.`

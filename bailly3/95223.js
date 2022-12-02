@@ -1,0 +1,1 @@
+lar[95223]=`<b>συν·δράω</b>, <i>anc. att</i>. <b>ξυν·δράω-ῶ</b>, faire avec, aider à faire, <i>dat</i>. THC. <i>6, 64</i> ; SOPH. <i>El. 498, etc.</i> ; τι, EUR. <i>Or. 406,</i> aider à accomplir qqe ch. (un meurtre) ; σ. τινί τι, EUR. <i>Andr. 40,</i> aider qqn en qqe ch.`

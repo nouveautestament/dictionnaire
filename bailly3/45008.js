@@ -1,0 +1,1 @@
+lar[45008]=`<b>ας (ἡ)</b> qualité d’un bon vin, GEOP. <i>5, 2, 19</i>.<p><b>Étym</b>. ἡδύοινος.`

@@ -1,0 +1,1 @@
+lar[62055]=`<b>Λύσ·ιππος, ου (ὁ)</b> <font color="purple">[ῡ]</font> Lysippos (Lysippe) :<br><b>      1</b> <i>sculpteur célèbre,</i> PAUS. <i>1, 43, 6, etc.</i> ; STR. <i>278, etc.</i><br><b>      2</b> <i>autres,</i> XÉN. <i>Hell. 3, 2, 29</i> ; DÉM. <i>1083, 11, etc</i>.<p><b>Étym</b>. λύω, ἵππος ; <i>cf</i>. Ἱππόλυτος.`

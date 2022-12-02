@@ -1,0 +1,1 @@
+lar[82112]=`<b>Πολυ·μήστωρ, ορος (ὁ)</b> <font color="purple">[ῠ]</font> Polymèstôr :<br><b>      1</b> <i>roi de Thrace,</i> EUR. <i>Hec. 7, etc.</i><br><b>      2</b> <i>devin troyen,</i> Q. SM. <i>11, 135</i>.<p>➳ <i>Voc</i>. Πολυμῆστορ, EUR. <i>Hec. 969, 1117, etc</i>.<p><b>Étym</b>. π. μήδομαι.`

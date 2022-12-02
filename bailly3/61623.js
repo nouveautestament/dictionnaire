@@ -1,0 +1,1 @@
+lar[61623]=`<b>λοξο·τενής, ής, ές</b>, qui se dirige obliquement, P. SIL. <i>Ecphr. ag. Soph. 632</i>.<p><b>Étym</b>. λ. τείνω.`

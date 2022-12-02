@@ -1,0 +1,1 @@
+lar[26714]=`<b>Διό·δοτος, ου (ὁ)</b> Diodotos, <i>h</i>. PD. <i>I. 7, 44</i> ; THC. <i>3, 41</i> ; LYS. STR. <i>etc., particul. philos. stoïcien, maître de Cicéron,</i> CIC. <i>Brut. 90, Fam. 13, 16 ; d’où plur</i>. Διόδοτοι, PLUT. <i>Adv. Epic. 13,</i> des Diodotes, des philosophes comme Diodotos.<p><b>Étym</b>. Διός, δοτός.`

@@ -1,0 +1,1 @@
+lar[10001]=`<b>ἀντί·κτυπος, ος, ον</b> <font color="purple">[ῠ]</font> qui renvoie le bruit, retentissant, NONN. <i>D. 20, 70 dout</i>.<p><b>Étym</b>. ἀ. κτυπέω.`

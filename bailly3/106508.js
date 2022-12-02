@@ -1,0 +1,1 @@
+lar[106508]=`<b>      1</b> animer d’un transport prophétique, inspirer ; τοὺς λόγους, LGN <i>8, 4,</i> inspirer les discours ; <i>au pass</i>. HLD. <i>2, 22</i>.<br><b>      2 <i>intr.</i></b> être inspiré, prononcer des paroles prophétiques, <i>abs</i>. ANTH. <i>9, 525 ; avec un acc.</i> : φ. ὄπα, LYC. <i>6,</i> parler comme un oracle inspiré.<p><b>Étym</b>. Φοῖβος.`

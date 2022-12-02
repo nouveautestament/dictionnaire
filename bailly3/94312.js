@@ -1,0 +1,1 @@
+lar[94312]=`<b>ίτιδος (ἡ)</b> <font color="purple">[ῑτῐδ]</font> concitoyenne, DS. <i>Exc. 528, 97</i>.<p><b>Étym</b>. <i>fém. de</i> συμπολίτης.`

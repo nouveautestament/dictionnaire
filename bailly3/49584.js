@@ -1,0 +1,1 @@
+lar[49584]=`<b>(ὁ)</b> Isidas, <i>Lacédémonien,</i> PLUT. <i>Ages. 34</i>.`

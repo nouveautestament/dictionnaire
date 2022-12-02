@@ -1,0 +1,1 @@
+lar[72879]=`<i>adv</i>., d’un élan impétueux, HERMÈS (STOB. <i>Ecl. phys. p. 1050).</i><p><b>Étym</b>. ὁρμή, -δόν.`

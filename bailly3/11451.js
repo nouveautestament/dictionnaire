@@ -1,0 +1,1 @@
+lar[11451]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἀπάτη, SPT. <i>Judith 10, 4</i>.<p><b>Étym</b>. ἀπατάω.`

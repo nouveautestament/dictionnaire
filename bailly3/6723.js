@@ -1,0 +1,1 @@
+lar[6723]=`<b>ᾶς (ἡ)</b> excoriation, ulcération, ARÉT. <i>Caus. m. diut. 2, 3 et 9</i>.<p><b>Étym</b>. ἀναδέρω.`

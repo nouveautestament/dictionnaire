@@ -1,0 +1,1 @@
+lar[22345]=`<b>Γνωσί·δικος, ου (ὁ)</b> Gnôsidikos, <i>père d’Hippocrate,</i> HPC. <i>1271, 32</i> ; GAL. <i>11, 15</i>.<p><b>Étym</b>. γιγνώσκω, δίκη.`

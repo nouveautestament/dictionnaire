@@ -1,0 +1,1 @@
+lar[2044]=`<b>ἀθηρό·βρωτος, ος, ον</b>, qui dévore les épis (van <i>ou</i> fléau) SOPH. <i>fr. 404</i>.<p><b>Étym</b>. ἀθήρ, βιβρώσκω.`

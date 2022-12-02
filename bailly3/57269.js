@@ -1,0 +1,1 @@
+lar[57269]=`<b>κοσμό·βιος, ου</b>, <i>adj. m</i>. qui vit dans le monde, mondain, NAZ. <i>2, 152c</i>.<p><b>Étym</b>. κόσμος, βίος.`

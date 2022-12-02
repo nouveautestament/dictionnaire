@@ -1,0 +1,1 @@
+lar[105426]=`<b>ας (ἡ)</b> amitié pour un frère <i>ou</i> une sœur, LUC. <i>D. deor. 26, 2</i> ; BABR. <i>47, 15, etc</i>.<p><b>Étym</b>. φιλάδελφος.`

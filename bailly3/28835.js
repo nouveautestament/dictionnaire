@@ -1,0 +1,1 @@
+lar[28835]=`<b>δυσ·πόνητος, ος, ον :<br>      1</b> qui coûte de la peine, laborieux, SOPH. <i>O.C. 1614</i>.<br><b>      2</b> qui cause du mal, funeste, ESCHL. <i>Pers. 515</i>.<p><b>Étym</b>. δ. πονέω.`

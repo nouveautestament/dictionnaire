@@ -1,0 +1,1 @@
+lar[97604]=`<b>ταπεινοφρονέω-ῶ</b> <font color="purple">[ᾰ]</font> avoir des sentiments humbles <i>ou</i> bas, ARR. <i>Epict. 1, 9, 10</i> ; SPT. <i>Ps. 130, 2, etc</i>.<p><b>Étym</b>. ταπεινόφρων.`

@@ -1,0 +1,1 @@
+lar[108677]=`<b>ῶν (οἱ)</b> « les porchers », <i>n. d’une tribu de Sicyone,</i> HDT. <i>5, 68</i>.<p><b>Étym</b>. χοῖρος.`

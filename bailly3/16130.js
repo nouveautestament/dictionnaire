@@ -1,0 +1,1 @@
+lar[16130]=`<b>ου (ὁ)</b> courrier, PLUT. <i>Alex. 18</i>.<p><b>Étym</b>. <i>mot persan</i>.`

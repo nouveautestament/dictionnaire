@@ -1,0 +1,1 @@
+lar[103542]=`<b>ὑπο·μηνύω</b>, indiquer secrètement, MOSCHION <i>Mul. pass. p. 16</i>.`

@@ -1,0 +1,1 @@
+lar[49629]=`<b>ας</b> <font color="purple">[ῑ̆ῠᾰμ]</font> égalité de puissance, de force <i>ou</i> de valeur, T. LOCR. <i>95b</i>.<p><b>Étym</b>. ἰσοδύναμος.`

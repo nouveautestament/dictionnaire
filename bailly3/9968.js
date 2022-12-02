@@ -1,0 +1,1 @@
+lar[9968]=`<b>ου (ὁ)</b> Antikleidès, <i>h</i>. PLUT. <i>Alex. 46, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀντικλῆς.`

@@ -1,0 +1,1 @@
+lar[24767]=`<b>δια·κιγκλίζω :<br>      1</b> détirer, détendre, HPC. <i>Art. 838</i>.<br><b>      2</b> <i>en gén</i>. agiter, remuer, AR. <i>fr. 94</i>.`

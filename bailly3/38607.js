@@ -1,0 +1,1 @@
+lar[38607]=`<b>ἐπί·παγος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> crème <i>ou</i> croûte à la surface d’un liquide, DIOSC. <i>1, 133, 180 ; 4, 83 ; 5, 137</i> ; PLUT. <i>M. 627f, 641e, etc.</i> ; GAL. <i>2, 103, etc</i>.<p><b>Étym</b>. ἐπί, πάγος.`

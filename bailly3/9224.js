@@ -1,0 +1,1 @@
+lar[9224]=`<b>ἀν·οίκτρως</b>, <i>adv</i>., sans inspirer de pitié, A. LIB. <i>29</i>.<p><b>Étym</b>. ἀν-, οἰκτρός.`

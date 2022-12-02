@@ -1,0 +1,1 @@
+lar[47212]=`<b>θηλυ·φανής, ής, ές</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> qui a l’air d’une femme, PLUT. <i>Thes. 23</i>.<br><b>      2</b> de femme, féminin, ANTH. <i>11, 285</i>.<p><b>Étym</b>. θ. φαίνω.`

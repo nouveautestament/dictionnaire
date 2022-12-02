@@ -1,0 +1,1 @@
+lar[47877]=`<b>θυμ·αρής, ής, ές</b> <font color="purple">[ῡᾱ]</font> qui charme le cœur, charmant, agréable, <i>en parl. de pers</i>. IL. <i>9, 336</i> ; OD. <i>23, 232 ; ou</i> de choses, OD. <i>17, 199, etc.</i> ; LUC. <i>Am. 43</i>.<p><b>Étym</b>. θυμός, ἀραρίσκω, <i>cf</i>. θυμάρμενος <i>et</i> θυμήρης.`

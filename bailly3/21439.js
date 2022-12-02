@@ -1,0 +1,1 @@
+lar[21439]=`<b>γαστρό·φιλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> ami de son ventre, glouton, NAZ. <i>3, 1532a Migne</i>.<p><b>Étym</b>. γαστήρ, φίλος.`

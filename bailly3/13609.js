@@ -1,0 +1,1 @@
+lar[13609]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> ce qu’on fait tomber en secouant <i>ou</i> en peignant (du chanvre), <i>d’où</i> objet de rebut, SYMM. <i>Esaï. 1, 31</i>.<p><b>Étym</b>. ἀποτινάσσω.`

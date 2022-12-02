@@ -1,0 +1,1 @@
+lar[107373]=`<b>ας (ἡ) :<br>      1</b> habitation dans une caverne, dans une tanière, ARSTT. <i>H.A. 8, 13, 14</i> ; EL. <i>N.A. 6, 3 ; ou en gén</i>. dans une cavité, <i>en parl. de poissons,</i> TH. <i>fr. 171, 7</i>.<br><b>      2</b> sorte de maladie des ours, EL. <i>N.A. 5, 36</i>.<p><b>Étym</b>. φωλεύω.`

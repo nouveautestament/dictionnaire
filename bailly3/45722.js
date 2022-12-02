@@ -1,0 +1,1 @@
+lar[45722]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> <i>s.-e</i>. τέχνη, <i>c</i>. ἡπατοσκοπία PHLÉG. TR. <i>de Longæv. 4</i>.`

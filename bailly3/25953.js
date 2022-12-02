@@ -1,0 +1,1 @@
+lar[25953]=`<b>ατος (τὸ)</b> intervalle dans le récitatif d’un chant <i>ou</i> changement de ton, SPT. <i>Ps. 3, 3 ; etc</i>.<p><b>Étym</b>. διαψάλλω.`

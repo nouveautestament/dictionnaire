@@ -1,0 +1,1 @@
+lar[50340]=`<b>καθ·έλκω</b> <font color="darkgreen">(<i>impf</i>. καθεῖλκον, <i>fut</i>. καθέλξω ; <i>pour l’ao., le pf. et le pl.q.pf. on emploie</i> καθελκύω)</font> <i>c</i>. καθελκύω THC. <i>2, 93</i> ; AR. <i>Ran. 1398, etc</i>.`

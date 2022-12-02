@@ -1,0 +1,1 @@
+lar[17321]=`<b>αὔτ·ανδρος, ος, ον</b>, pris <i>ou</i> détruit avec tous ses hommes, <i>en parl. d’un navire,</i> A.RH. <i>3, 582</i> ; POL. <i>1, 23, 7, etc.</i> ; DH. PLUT. LUC. <i>etc. ; ou</i> avec tous ses habitants, <i>en parl. d’une ville, etc</i>. DH. <i>7, 40</i> ; CLÉM. <i>etc</i>.<p><b>Étym</b>. αὐτός, ἀνήρ.`

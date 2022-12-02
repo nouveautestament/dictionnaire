@@ -1,0 +1,1 @@
+lar[15213]=`<b>(ὁ)</b> Arsaphès, <i>n. égyptien de Dionysos,</i> PLUT. <i>Is. et Os. 37</i>.`

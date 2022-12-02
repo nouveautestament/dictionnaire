@@ -1,0 +1,1 @@
+lar[88878]=`<b>ῥυμο·τομία, ας (ἡ)</b> <font color="purple">[ῡ]</font> division d’une ville <i>ou</i> d’un camp en rues, en quartiers, POL. <i>6, 31, 10</i> ; STR. <i>646</i> ; DS. <i>17, 52</i>.<p><b>Étym</b>. <i>cf</i>. ῥυμοτομέω.`

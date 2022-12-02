@@ -1,0 +1,1 @@
+lar[51836]=`<b>ου (ὁ)</b> Karnéadès (Carnéade), <i>philosophe de Cyrène, fondateur de la nouvelle Académie,</i> DL. <i>4, 62, etc</i>.`

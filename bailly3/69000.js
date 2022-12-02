@@ -1,0 +1,1 @@
+lar[69000]=`<b>ας (ἡ)</b> soins qu’on donne à un malade, ARR. <i>Epict. 3, 22, 70</i>.<p><b>Étym</b>. νοσοκόμος.`

@@ -1,0 +1,1 @@
+lar[33825]=`<b>ἐν·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> épineux, TH. <i>H.P. 3, 10, 1</i>.<p><b>Étym</b>. ἐν, ἄκανθα.`

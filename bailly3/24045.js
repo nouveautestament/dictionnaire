@@ -1,0 +1,1 @@
+lar[24045]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> <i>litt</i>. tout à fait le second, <i>càd</i>. le dernier, IL. <i>19, 51</i> ; OD. <i>1, 286 ; 23, 342</i> ; MOSCH. <i>4, 65</i>.<p><b>Étym</b>. <i>sup. de</i> δεύτερος.`

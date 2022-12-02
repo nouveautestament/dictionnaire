@@ -1,0 +1,1 @@
+lar[5695]=`<b>ος, ον</b> <font color="purple">[ῐᾰ]</font> dont on ne conserve pas de ressentiment, POL. <i>40, 12, 5</i>.<p><b>Étym</b>. ἀμνησικακέω.`

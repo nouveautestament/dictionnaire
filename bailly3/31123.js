@@ -1,0 +1,1 @@
+lar[31123]=`<b>ἐκ·βροντάω-ῶ</b>, foudroyer, ESCHL. <i>Pr. 362</i>.<p><b>Étym</b>. <i>ao. pass. avec crase</i> κἀξεβροντήθη.`

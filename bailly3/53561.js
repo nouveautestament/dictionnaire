@@ -1,0 +1,1 @@
+lar[53561]=`<b>κατα·τιτρώσκω</b> <font color="darkgreen">(<i>ao</i>. κατέτρωσα)</font> couvrir de blessures, XÉN. <i>An. 3, 4, 26 ; 4, 1, 10</i> ; POL. <i>33, 7, 6, etc. ; fig</i>. PHIL. <i>2, 25</i>.`

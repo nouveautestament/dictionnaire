@@ -1,0 +1,1 @@
+lar[54720]=`<b>κενό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, d’esprit vain, frivole, ESCHL. <i>Pr. 762</i>.<p><b>Étym</b>. κ. φρήν.`

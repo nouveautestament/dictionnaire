@@ -1,0 +1,1 @@
+lar[65237]=`<b>μετρο·ειδής, ής, ές</b>, qui a une mesure, <i>comme un vers, une syllabe,</i> D. PHAL. <i>184</i>.<p><b>Étym</b>. μέτρον, εἶδος.`

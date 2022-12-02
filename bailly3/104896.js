@@ -1,0 +1,1 @@
+lar[104896]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> <i>au pl. c</i>. φαρμακεία, HPC. <i>Prorrh. 87</i> ; PLAT. <i>Leg. 845d</i>.`

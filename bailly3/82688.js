@@ -1,0 +1,1 @@
+lar[82688]=`<b>(ὁ)</b> Pontée, <i>propr</i>. « le marin », <i>Phéacien,</i> OD. <i>8, 113</i>.<p><b>Étym</b>. πόντος.`

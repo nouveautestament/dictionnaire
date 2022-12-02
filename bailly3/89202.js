@@ -1,0 +1,1 @@
+lar[89202]=`<b>ιδος</b> <font color="purple">[ῡῐδ]</font> <i>adj. m. et f</i>. de Salmyka, <i>v. d’Espagne,</i> OPP. <i>C. 4, 222</i>.`

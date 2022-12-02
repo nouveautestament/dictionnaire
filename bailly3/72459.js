@@ -1,0 +1,1 @@
+lar[72459]=`<b>ή, όν</b>, qui concerne la vue, A. APHR. <i>Probl. 1, 74</i> ; ἡ ὀπτική (<i>s.-e</i>. τέχνη) ARSTT. <i>Metaph. 2, 2, 2,</i> l’art de voir, la science de la vision, l’optique ; τὰ ὀπτικά, ARSTT. <i>Metaph. 12, 2, 9, etc. m. sign</i>.<p><b>Étym</b>. ὀπτός².`

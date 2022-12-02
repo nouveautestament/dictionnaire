@@ -1,0 +1,1 @@
+lar[83947]=`<b>προ·διασπείρω</b>, répandre auparavant, ARSTT. <i>Ath. 14, 4</i>.`

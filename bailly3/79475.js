@@ -1,0 +1,1 @@
+lar[79475]=`<b>περί·τειχος, εος-ους (τὸ)</b> enceinte de fortifications, SPT. <i>4Reg. 25, 1, etc</i>.<p><b>Étym</b>. π. τεῖχος.`

@@ -1,0 +1,1 @@
+lar[55347]=`<i>crase dor. p</i>. καὶ ἐφῆπτο, <i>3 sg. ao.2 de</i> ἐφάπτομαι, THCR. <i>Idyl. 14, 23</i>.`

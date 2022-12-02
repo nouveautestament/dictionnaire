@@ -1,0 +1,1 @@
+lar[52473]=`<b>κατα·καίνω</b>, tuer.<p>➳ <i>Prés. réc</i>. PARTH. <i>7, 24 ; ao.2</i> κατέκανον <font color="purple">[ᾰν]</font> SOPH. <i>Ant. 1340 ; inf. dor</i>. κακκανῆν, <i>p</i>. κατακανεῖν, PLUT. <i>Cleom. 2 ; part. pf</i>. κατακεκονότες, XÉN. <i>An. 7, 6, 36</i>.`

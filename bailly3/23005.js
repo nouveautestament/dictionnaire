@@ -1,0 +1,1 @@
+lar[23005]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> préparatifs d’un repas, LYC. <i>199</i>.<p><b>Étym</b>. <i>Cf</i>. δαιταλάομαι, δαιταλεύς.`

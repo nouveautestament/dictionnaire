@@ -1,0 +1,1 @@
+lar[75386]=`<b>*παραβάτις</b>, <i>poét</i>. <b>παραιβάτις, ιδος (ἡ)</b> <font color="purple">[βᾰῐδ]</font><br><b>      1</b> femme qui se tient sur le char à côté d’un combattant, A.RH. <i>1, 754</i>.<br><b>      2</b> femme qui suit les moissonneurs, THCR. <i>Idyl. 3, 32 (sel. Fritzsche,</i> Παραιβάτις, Paræbatis, <i>n. de f</i>.).<p><b>Étym</b>. <i>fém. de</i> παραβάτης.`

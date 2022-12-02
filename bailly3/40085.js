@@ -1,0 +1,1 @@
+lar[40085]=`prendre sur ses épaules, <i>acc</i>. LUC. <i>Philopatr. 4</i>.<p><b>Étym</b>. ἐπωμίς.`

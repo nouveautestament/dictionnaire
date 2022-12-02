@@ -1,0 +1,1 @@
+lar[52344]=`<b>καταδουπέω-ῶ</b> <font color="darkgreen">(<i>ao.2</i> κατέδουπον)</font> tomber avec un bruit sourd, <i>d’où en gén</i>. tomber, ANTH. <i>7, 637</i>.<p><b>Étym</b>. κατάδουπος.`

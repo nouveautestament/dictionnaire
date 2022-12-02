@@ -1,0 +1,1 @@
+lar[61930]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> <i>c</i>. λυκοειδής, ARSTT. <i>H.A. 6, 32, 1</i>.<p><b>Étym</b>. λύκος, -ωδης.`

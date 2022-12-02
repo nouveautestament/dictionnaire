@@ -1,0 +1,1 @@
+lar[84972]=`<b>*προ·πνιγεῖον (τὸ)</b> <font color="purple">[νῐ]</font> <i>seul. en lat</i>. propnigeon, PLIN. MIN. <i>Ep. 2, 17 (41), ou</i> propnigeum, VITR. <i>5, 11,</i> salle précédant l’étuve.<p><b>Étym</b>. π. πνιγεύς.`

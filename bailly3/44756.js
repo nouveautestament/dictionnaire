@@ -1,0 +1,1 @@
+lar[44756]=`<b>ζῳο·κτόνος, ου</b>, <i>adj. m</i>. qui tue un animal <i>ou</i> des animaux, PHILSTR. <i>V. Ap. 2, 66</i> ; ANTH. <i>2, 66</i>.<p><b>Étym</b>. ζῷον, κτείνω.`

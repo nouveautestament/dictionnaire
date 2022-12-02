@@ -1,0 +1,1 @@
+lar[86278]=`<b>προσ·παρατίθημι</b> <font color="darkgreen">(<i>f</i>. -παραθήσω, <i>ao</i>. -παρέθηκα, <i>etc</i>.)</font> <font color="purple">[τῐ]</font><br><b>      1</b> mettre sous les yeux, POL. <i>3, 99, 7</i>.<br><b>      2</b> ajouter encore, ATH. <i>137e, etc</i>.`

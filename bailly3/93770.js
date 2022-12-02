@@ -1,0 +1,1 @@
+lar[93770]=`<b>σύλ·λεκτρος, ος, ον</b>, qui partage la couche de, <i>gén</i>. EUR. <i>H.f. 1 ; dat</i>. LUC. <i>D. deor. 6, 5 ; abs</i>. époux, épouse, EUR. <i>H.f. 1268</i> ; ANTH. <i>9, 657, 3</i>.<p><b>Étym</b>. σ. λέκτρον.`

@@ -1,0 +1,1 @@
+lar[13255]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> écoulement, POL. <i>4, 39, 10</i> ; STR. <i>380 ; au plur</i>. ORIB. <i>3, 131 B.-Dar. etc</i>.<p><b>Étym</b>. ἀπορρέω.`

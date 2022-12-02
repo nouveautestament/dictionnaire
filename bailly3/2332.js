@@ -1,0 +1,1 @@
+lar[2332]=`<b>οῦ (ὁ)</b> effraie <i>ou</i> fresaie, <i>oiseau de nuit,</i> ARSTT. <i>H.A. 8, 3, 3</i>.`

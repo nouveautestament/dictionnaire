@@ -1,0 +1,1 @@
+lar[20319]=`<b>βοτρυο·χαίτης, ου (ὁ)</b> aux cheveux ornés de grappes (de raisin), <i>ép. de Dionysos,</i> ANTH. <i>9, 524</i>.<p><b>Étym</b>. β. χαίτη.`

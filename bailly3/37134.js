@@ -1,0 +1,1 @@
+lar[37134]=`<b>ος, ον</b>, qui concerne le départ d’une armée : τὰ ἐπεξόδια (<i>s.-e</i>. ἱερά) XÉN. <i>An. 6, 5, 2,</i> sacrifice avant de marcher à l’ennemi.<p><b>Étym</b>. ἐπέξοδος.`

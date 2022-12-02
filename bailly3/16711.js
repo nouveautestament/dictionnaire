@@ -1,0 +1,1 @@
+lar[16711]=`<b>ἀτάω-ῶ</b> <font color="purple">[ᾱτ]</font> (<i>seul. pass. prés. ind. 1 pl</i>. ἀτώμεσθα, SOPH. <i>Aj. 268, et part</i>. ἀτώμενος SOPH. <i>Aj. 384 ; Ant. 17, 314</i> ; EUR. <i>Suppl. 182</i>) être dans l’affliction <i>ou</i> le malheur.<p><b>Étym</b>. ἄτη.`

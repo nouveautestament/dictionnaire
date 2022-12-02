@@ -1,0 +1,1 @@
+lar[27170]=`<i>fausse étymologie de</i> δίκαιος (<i>litt</i>. qui tranche les contestations) ARSTT. <i>Nic. 5, 7</i>.<p><b>Étym</b>. δίχα.`

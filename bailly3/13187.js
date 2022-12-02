@@ -1,0 +1,1 @@
+lar[13187]=`<b>ἀπο·πωματίζω</b> <font color="purple">[μᾰ]</font> ôter le couvercle, déboucher, GAL. <i>Ther. 14, 268</i>.`

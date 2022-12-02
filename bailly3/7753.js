@@ -1,0 +1,1 @@
+lar[7753]=`<b>ἀνα·τειχίζω</b>, relever des murs, XÉN. <i>Hell. 4, 4, 18</i>.`

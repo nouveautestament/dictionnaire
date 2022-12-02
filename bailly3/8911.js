@@ -1,0 +1,1 @@
+lar[8911]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰκ]</font> charbon, DIOSC. <i>Parab. 1, 48</i>.<p><b>Étym</b>. ἀνθρακόω.`

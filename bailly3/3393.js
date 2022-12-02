@@ -1,0 +1,1 @@
+lar[3393]=`<b>ου (ἡ)</b> sorte de basilic, <i>plante,</i> DIOSC. <i>3, 50</i>.`

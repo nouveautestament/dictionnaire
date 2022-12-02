@@ -1,0 +1,1 @@
+lar[56149]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> clystère, HPC. <i>1098</i>.<p><b>Étym</b>. <i>dim. de</i> κλύσμα.`

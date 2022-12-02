@@ -1,0 +1,1 @@
+lar[78906]=`<b>ας (ἡ)</b> magicienne qui purifie en frottant de drogues, PLUT. <i>M. 166a</i>.<p><b>Étym</b>. περιμάσσω.`

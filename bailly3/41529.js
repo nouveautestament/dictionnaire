@@ -1,0 +1,1 @@
+lar[41529]=`<b>ας (ἡ)</b> <font color="purple">[ᾱε]</font> air sain et pur, ATH. <i>205b</i>.`

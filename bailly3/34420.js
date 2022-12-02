@@ -1,0 +1,1 @@
+lar[34420]=`<b>ἐν·ευσχημονέω-ῶ</b>, se bien conduire dans, <i>dat</i>. HIÉROCL. <i>C. aur. p. 427 Mullach</i>.`

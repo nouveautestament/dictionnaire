@@ -1,0 +1,1 @@
+lar[22717]=`<b>γυιο·βαρής, ής, ές</b> <font color="purple">[ᾰ]</font> qui alourdit les membres, ESCHL. <i>Ag. 63</i> ; ANTH. <i>10, 12</i>.<p><b>Étym</b>. γ. βάρος.`

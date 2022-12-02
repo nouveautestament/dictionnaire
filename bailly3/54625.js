@@ -1,0 +1,1 @@
+lar[54625]=`<b>ερος (ὁ)</b> = <i>lat</i>. Celer, <i>n. d’h. rom</i>. PLUT. <i>Rom. 10, Cic. 29, etc</i>.`

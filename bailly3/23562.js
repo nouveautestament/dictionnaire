@@ -1,0 +1,1 @@
+lar[23562]=`<b>Δεινο·κράτης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Deinokratès, <i>h</i>. PLUT. <i>Phil. 18, etc</i>.<p>➳ <i>Voc</i>. -η, POL. <i>24, 5</i>.<p><b>Étym</b>. δ. κράτος.`

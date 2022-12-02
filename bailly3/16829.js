@@ -1,0 +1,1 @@
+lar[16829]=`<b>ων (οἱ)</b> les Atintanes, <i>pple d’Épire,</i> THC.`

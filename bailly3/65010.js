@@ -1,0 +1,1 @@
+lar[65010]=`<b>ος, ον :<br>      1</b> retourné, changé, ESCHL. <i>Pers. 942</i> ; EUR. <i>El. 1148</i> ; AR. <i>Pax 945</i> ; CALL. <i>Del. 99</i> ; ἔργα μετάτροπα, HÉS. <i>Th. 89,</i> représailles, <i>propr</i>. « actions réciproques ».<br><b>      2</b> changeant, inconstant, NONN. <i>Jo. 3, 83</i>.<p><b>Étym</b>. μετατρέπω.`

@@ -1,0 +1,1 @@
+lar[57096]=`<b>οῦ (ὁ)</b> morceau, <i>particul</i>. morceau de bois, <i>d’où</i> :<br><b>      1</b> tronc d’arbre, OD. <i>23, 196</i> ; EUR. <i>Hec. 575, H.f. 242 ; en prose,</i> HDT. <i>7, 36</i>.<br><b>      2</b> rame, EUR. <i>Hel. 1601</i>.<p><b>Étym</b>. κείρω.`

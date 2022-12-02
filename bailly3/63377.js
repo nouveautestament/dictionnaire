@@ -1,0 +1,1 @@
+lar[63377]=`<b>μεγαλο·κόρυφος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux sommets élevés, ARSTT. <i>Rhet. 3, 3, 1</i>.<p><b>Étym</b>. μ. κορυφή.`

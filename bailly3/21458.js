@@ -1,0 +1,1 @@
+lar[21458]=`<b>οἱ)</b> tapis, matelas, CLÉM. <i>Pæd</i>. 2.77.<p><b>Étym</b>. <i>conj</i>. γαυσάπαι.`

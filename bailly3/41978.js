@@ -1,0 +1,1 @@
+lar[41978]=`<b>εὐ·έμβλητος, ος, ον</b>, que l’on introduit facilement, HPC. <i>Art. 833</i>.<p><b>Étym</b>. εὖ, ἐμβάλλω.`

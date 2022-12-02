@@ -1,0 +1,1 @@
+lar[30981]=`<b>οῦ (ὁ)</b> Hékatéros, <i>h</i>. PLUT. <i>Reg. apophth. v°</i> Φίλιππος <i>10</i>.`

@@ -1,0 +1,1 @@
+lar[36156]=`<b>ἐξ·ονυχίζω</b> <font color="purple">[ῠ]</font><br><b>      1</b> limer, polir avec l’ongle, ATH. <i>97d ;</i> ARTÉM. <i>1, 16 ; p. ext</i>. être minutieux, faire des distinctions subtiles, HDN GR. <i>Philet. p. 402 Pierson</i>.<br><b>      2</b> ôter les épines (<i>v</i>. ὄνυξ) à une rose, ORIB. <i>1, 431 B.-Dar</i>.<p><b>Étym</b>. ἐξ, ὄνυξ.`

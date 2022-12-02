@@ -1,0 +1,1 @@
+lar[62792]=`<b>μανιό·κηπος, ος, ον</b> <font color="purple">[ᾰ]</font> hystérique, ANACR. <i>142</i>.<p><b>Étym</b>. μανία, κῆπος.`

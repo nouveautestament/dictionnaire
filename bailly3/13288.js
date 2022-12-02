@@ -1,0 +1,1 @@
+lar[13288]=`<b>ἀπο·σιγάω-ῶ</b> <font color="purple">[ῐ]</font> passer sous silence, CHRYS. <i>3, 706</i>.`

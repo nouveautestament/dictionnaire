@@ -1,0 +1,1 @@
+lar[30188]=`<b>ος, ον</b>, accoutumé, habituel, DC. <i>Exc. 577, 43</i> ; ATH. <i>151e ;</i> τὸ ἔθιμον, DYSC. <i>Synt. 77, 26,</i> l’usage.<p><b>Étym</b>. ἔθος.`

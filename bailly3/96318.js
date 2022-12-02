@@ -1,0 +1,1 @@
+lar[96318]=`<i>adv</i>., complètement, PHILOD. <i>De ira p. 68</i>.`

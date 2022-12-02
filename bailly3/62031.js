@@ -1,0 +1,1 @@
+lar[62031]=`<b>ος, ον</b> <font color="purple">[ῡῐᾰ]</font> de Lysimaque : βοτάνη, GAL. <i>13, 204, autre n. de la plante</i> λυσιμάχιον.<p><b>Étym</b>. Λυσίμαχος.`

@@ -1,0 +1,1 @@
+lar[48906]=`<b>ου (ὁ)</b> <font color="purple">[ῑλᾰ]</font><br><b>      1</b> <i>adj. m</i>. descendant d’Ilos, <i>d’où au pl</i>. Ἰλιάδαι, Troyens, EUR. <i>Andr. 1023 ; subst</i>. οἱ Ἰ. ANTH. <i>9, 77,</i> les Troyens.<br><b>      2</b> ὁ Ἰ. PD. <i>O. 9, 120, c</i>. Οἰλιάδης.<p>➳ <i>Dor</i>. Ἰλιάδας, PD. <i>l. c</i>.`

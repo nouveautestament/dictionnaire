@@ -1,0 +1,1 @@
+lar[54198]=`<b>κατ·οχεύω</b>, faire saillir, SPT. <i>Lev. 19, 19</i>.`

@@ -1,0 +1,1 @@
+lar[34610]=`<b>ἐν·ιζάνω</b> (<i>seul. prés</i>.) s’asseoir dans <i>ou</i> sur, <i>dat</i>. ALCIPHR. <i>1, 22</i>.`

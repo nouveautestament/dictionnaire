@@ -1,0 +1,1 @@
+lar[59260]=`<b>κωπ·ήρης, ης, ες :<br>      1</b> garni de rames, ESCHL. <i>Pers. 416</i> ; THC. <i>4, 118</i> ; τὸ κωπῆρες, PLUT. <i>Ant. 66,</i> barque garnie de rames.<br><b>      2</b> qui s’ajuste à la rame <i>ou</i> à quoi l’on adapte la rame : χεὶρ κ. EUR. <i>Tr. 161,</i> main qui gouverne les rames.<p><b>Étym</b>. κώπη, ἀραρίσκω.`

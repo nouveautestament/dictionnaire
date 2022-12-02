@@ -1,0 +1,1 @@
+lar[764]=`<b>α (ὁ)</b> Agnitas, <i>surn. d’Asklèpios, à qui était consacré l’agnus-castus, à Sparte,</i> PAUS. <i>3, 14, 7</i>.<p><b>Étym</b>. ἄγνος.`

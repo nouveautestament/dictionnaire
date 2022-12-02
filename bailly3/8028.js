@@ -1,0 +1,1 @@
+lar[8028]=`<b>ου (ὁ)</b> statuette, PLUT. <i>Thes. 20</i>.<p><b>Étym</b>. ἀνδριάς.`

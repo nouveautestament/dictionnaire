@@ -1,0 +1,1 @@
+lar[62204]=`<b>      1</b> <i>éol. et dor. c</i>. μᾶτερ, μῆτερ, <i>seul. au voc. dans l’invocation μᾶ γᾶ,</i> ESCHL. <i>Suppl. 890, 899,</i> ô terre notre mère.<br><b>      2</b> expression de mauvaise humeur, THCR. <i>Idyl. 15, 89</i>.<p><b>Étym</b>. <i>mot enfantin onomatopéique indo-europ. ; cf</i>. μαῖα, <i>sscr</i>. mā, mère.`

@@ -1,0 +1,1 @@
+lar[86400]=`<b>προσ·σκοπέω-ῶ</b>, considérer en outre, STR. <i>337</i>.`

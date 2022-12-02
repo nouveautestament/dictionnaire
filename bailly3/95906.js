@@ -1,0 +1,1 @@
+lar[95906]=`<i>adv</i>., en un parfait accord, M. ANT. <i>4, 45</i>.<p><b>Étym</b>. συναρμόζω.`

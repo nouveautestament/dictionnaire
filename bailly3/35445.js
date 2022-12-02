@@ -1,0 +1,1 @@
+lar[35445]=`<b>ἐξ·αναβαίνω</b>, gravir jusqu’au bout, ARTÉM. <i>2, 28</i>.`

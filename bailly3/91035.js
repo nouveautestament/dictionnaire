@@ -1,0 +1,1 @@
+lar[91035]=`<b>σκληρό·κοκκος, ος, ον</b>, aux grains durs, ANTIPH. (<i>Com. fr. 3, 34).</i><p><b>Étym</b>. σκλ. κόκκος.`

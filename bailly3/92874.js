@@ -1,0 +1,1 @@
+lar[92874]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Stratos, <i>Thrace,</i> Q. SM. <i>8, 99</i>.`

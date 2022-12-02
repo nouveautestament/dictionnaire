@@ -1,0 +1,1 @@
+lar[34431]=`<b>ας (ἡ)</b> <font color="purple">[ῠρᾰ]</font> action de prendre un gage, un nantissement, PLAT. <i>Leg. 949d ;</i> DÉM. <i>1162, 12 ; 1163, 25</i>.<p><b>Étym</b>. ἐνεχυράζω.`

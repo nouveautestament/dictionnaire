@@ -1,0 +1,1 @@
+lar[37733]=`<b>ἐπι·ζευγνύω</b> <font color="darkgreen">(<i>impf</i>. ἐπεζεύγνυον)</font> <i>c</i>. ἐπιζεύγνυμι HDT. <i>7, 36</i>.`

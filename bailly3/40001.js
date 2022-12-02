@@ -1,0 +1,1 @@
+lar[40001]=`<b>ἑπτά·πεκτος, ος, ον</b> <font color="purple">[ᾰ]</font> tondu sept fois, PROCL.<p><b>Étym</b>. ἑ. πέκω.`

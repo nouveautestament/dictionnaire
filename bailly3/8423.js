@@ -1,0 +1,1 @@
+lar[8423]=`<b>ἀν·επι·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, inconscient, ignorant de, <i>gén</i>. PORPH. <i>Abst. 1, 45</i>.<p><b>Étym</b>. ἀν-, ἐπί, γνώμη.`

@@ -1,0 +1,1 @@
+lar[36371]=`<b>ή, όν :<br>      1</b> qui promet beaucoup, <i>en mauv. part,</i> PLUT. <i>Æmil. 8</i>.<br><b>      2</b> <i>p. suite,</i> présomptueux, ARSTT. <i>Rhet. 2, 23, 12</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>l. c</i>.<p><b>Étym</b>. ἐπαγγέλλω.`

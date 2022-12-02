@@ -1,0 +1,1 @@
+lar[93798]=`<b>συλ·λούω</b>, baigner avec, <i>d’où au moy</i>. se baigner avec, PLUT. <i>Cato ma. 20</i> ; LUC. <i>D. mer. 3, 2</i>.`

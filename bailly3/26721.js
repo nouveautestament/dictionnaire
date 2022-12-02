@@ -1,0 +1,1 @@
+lar[26721]=`<b>ων (οἱ)</b> les Dies, <i>pple de Thrace,</i> THC. <i>2, 96</i>.`

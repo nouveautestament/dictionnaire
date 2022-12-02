@@ -1,0 +1,1 @@
+lar[76280]=`<i>adv</i>., en formant des composés ou des dérivés à l’aide de composés, GRAMM.`

@@ -1,0 +1,1 @@
+lar[37943]=`<b>ἐπι·καταρρήγνυμαι</b>, éclater et tomber sur, PLUT. <i>Mar. 21</i> ; tomber en se brisant sur, DH. <i>10, 16</i>.`

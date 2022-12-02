@@ -1,0 +1,1 @@
+lar[94240]=`<b>συμ·πιέζω :<br>      1</b> presser ensemble, comprimer, PLAT. <i>Soph. 247c, Phæd. 89b, etc.</i> ; ARSTT. <i>Probl. 21, 26 ; au pass</i>. XÉN. <i>Mem. 3, 10, 7</i> ; ARSTT. <i>Probl. 11, 44, etc.</i><br><b>      2</b> <i>fig</i>. resserrer, réduire, HPC. <i>1228, 5</i>.<p>➳ <i>Ion</i>. συμπιάζω, HPC. <i>l. c</i>.`

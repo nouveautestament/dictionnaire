@@ -1,0 +1,1 @@
+lar[94662]=`<b>συν·αλλοτριόω-ῶ</b>, aliéner en même temps, NYSS.`

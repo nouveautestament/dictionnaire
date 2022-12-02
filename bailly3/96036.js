@@ -1,0 +1,1 @@
+lar[96036]=`<i>c</i>. συνίημι, comprendre, SPT. <i>2Par. 26, 5</i>.`

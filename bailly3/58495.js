@@ -1,0 +1,1 @@
+lar[58495]=`<font color="purple">[ῠ]</font> <i>adv</i>., vers le dème Kythèros, DÉM. <i>42, 5 Baiter-Sauppe</i>.<p><b>Étym</b>. Κύθηρος, -δε.`

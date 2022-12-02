@@ -1,0 +1,1 @@
+lar[53142]=`<b>εως (ἡ) :<br>      1</b> déglutition et absorption des aliments, PLAT. <i>Tim. 80a ;</i> ARSTT. <i>P.A. 4, 11</i>.<br><b>      2</b> canal de la déglutition, gosier, MUSON. (STOB. <i>17, 43</i>) ; ARR. <i>Epict. 1, 16</i> ; ARÉT. <i>p. 33, 54</i>.<p><b>Étym</b>. καταπίνω.`

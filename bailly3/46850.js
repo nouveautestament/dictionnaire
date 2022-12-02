@@ -1,0 +1,1 @@
+lar[46850]=`<b>θεο·φραδής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. qui prononce des paroles divines, qui annonce la volonté des dieux, ORPH. <i>fr. 37</i> ; ANTH. <i>1, 10</i>.<br><b>      2</b> <i>pass</i>. prononcé par la divinité, NONN. <i>Jo. 12, 26</i>.<p><b>Étym</b>. θ. φράζω.`

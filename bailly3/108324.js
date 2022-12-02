@@ -1,0 +1,1 @@
+lar[108324]=`<b>χέρσ·υδρος, ου (ὁ)</b> sorte de serpent amphibie, NIC. <i>Th. 359</i>.<p><b>Étym</b>. χέρσος, ὕδωρ.`

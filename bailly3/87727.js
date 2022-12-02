@@ -1,0 +1,1 @@
+lar[87727]=`<b>πυοποιέω-ῶ</b> <font color="purple">[ῡ]</font> faire suppurer, DIOSC. <i>2, 185</i>.<p><b>Étym</b>. πυοποιός.`

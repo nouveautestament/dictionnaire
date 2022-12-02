@@ -1,0 +1,1 @@
+lar[88124]=`fermer avec un couvercle, boucher, ARSTT. <i>H.A. 9, 40, 56, Probl. 11, 8</i> ; BABR. <i>58, 2</i> ; DIOSC. <i>1, 7 ; 2, 91</i>.<p><b>Étym</b>. πῶμα¹.`

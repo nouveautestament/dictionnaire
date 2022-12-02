@@ -1,0 +1,1 @@
+lar[9300]=`<b>ἄν·οπλος, ος, ον :<br>      1</b> sans armes, PLAT. <i>Euthyd. 299b ; particul</i>. sans bouclier, HDT. <i>9, 62</i>.<br><b>      2</b> non gréé, POL. <i>2, 12, 3</i>.<p><b>Étym</b>. ἀν-, ὅπλον ; <i>cf</i>. ἄοπλος.`

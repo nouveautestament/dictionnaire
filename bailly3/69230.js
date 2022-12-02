@@ -1,0 +1,1 @@
+lar[69230]=`<b>νυμφο·πόνος, ος, ον</b>, qui prend soin de la jeune épouse, <i>d’où</i> ἡ ν. femme de chambre, <i>titre dune pièce de Sôphrôn,</i> ATH. <i>362c</i>.<p><b>Étym</b>. ν. πένομαι.`

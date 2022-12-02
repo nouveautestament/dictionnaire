@@ -1,0 +1,1 @@
+lar[40309]=`<b>ου (τὸ)</b> <i>dim. de</i> ἐρετμόν, COM. ANON. <i>fr. 445, conj</i>.`

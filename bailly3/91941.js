@@ -1,0 +1,1 @@
+lar[91941]=`<b>ή, όν :<br>      1</b> qui concerne la rate, de la rate, DIOSC. <i>2, 116</i> ; PTOL. <i>Tetr. 198</i> ; CLÉM. <i>2, 597 Migne</i>.<br><b>      2</b> malade de la rate, hypocondriaque, MACH. (ATH. <i>348e</i>) ; <i>subst</i>. ARISTON (STOB. <i>Fl. 13, 39</i>) ; GEOP. <i>11, 30, 4 ; 12, 17, 9</i>.<p><b>Étym</b>. σπλήν.`

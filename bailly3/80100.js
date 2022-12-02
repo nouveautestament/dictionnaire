@@ -1,0 +1,1 @@
+lar[80100]=`<b>πηλοφορέω-ῶ</b>, porter du mortier, être manœuvre, AR. <i>Av. 1142, etc</i>. (πηλοφόρος, qui porte du mortier, POLL. <i>7, 130, de</i> πηλός, φέρω).`

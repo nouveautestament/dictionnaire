@@ -1,0 +1,1 @@
+lar[36362]=`<b>ἐπ·αβελτερόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre sot <i>ou</i> stupide, MÉN. <i>fr. 385</i>.<p><b>Étym</b>. ἐπί, ἀβέλτερος.`

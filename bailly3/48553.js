@@ -1,0 +1,1 @@
+lar[48553]=`<b>ας (ἡ)</b> <font color="purple">[ᾱφ]</font> transport des objets sacrés, DH. <i>16, 7</i>.<p><b>Étym</b>. ἱεραφόρος.`

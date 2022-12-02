@@ -1,0 +1,1 @@
+lar[32512]=`<b>ου (τὸ)</b> <font color="purple">[μᾰ]</font> petite lame métallique, DIOSC. <i>Par. 2, 164</i> ; GAL. <i>2, 105a</i>.<p><b>Étym</b>. <i>dim. de</i> ἔλασμα.`

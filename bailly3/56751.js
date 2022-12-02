@@ -1,0 +1,1 @@
+lar[56751]=`<b>ΐδος (ἡ)</b> la Colchidienne (Médée) NIC. <i>Al. 249</i>.<p><b>Étym</b>. Κόλχος.`

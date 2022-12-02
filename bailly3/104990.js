@@ -1,0 +1,1 @@
+lar[104990]=`<i>att</i>. <b>φάττα, ης (ἡ)</b> pigeon ramier, colombe, tourterelle, AR. <i>Av. 303, Pax 1004</i> ; PLAT. <i>Theæt. 199b ;</i> ARSTT. <i>H.A. 5, 13, 4</i> ; THCR. <i>Idyl. 5, 96, 133</i>.`

@@ -1,0 +1,1 @@
+lar[50643]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> disposition mauvaise, <i>d’où</i> :<br><b>      1</b> lâcheté, ESCHL. <i>Sept. 192, etc.</i> ; PLAT. <i>Menex. 246b ; joint à</i> δειλία, EUR. <i>I.T. 676</i>.<br><b>      2</b> méchanceté, EUR. <i>Hipp. 1335</i> ; AR. <i>Av. 541 ; en parl. d’un cheval,</i> PLAT. <i>Phædr. 247b</i>.<p><b>Étym</b>. κακός.`

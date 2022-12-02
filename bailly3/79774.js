@@ -1,0 +1,1 @@
+lar[79774]=`<b>εως (ἡ)</b> Persépolis (<i>auj</i>. ruines de Marvdasht) <i>capitale de la Perse,</i> STR. <i>729, etc.</i> ; ARR. <i>An. 7, 1</i> ; EL. <i>N.A. 1, 59</i>.`

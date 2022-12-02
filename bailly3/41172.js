@@ -1,0 +1,1 @@
+lar[41172]=`<b>όος-οῦς (ἡ)</b> <i>c</i>. οὐσία, substance, <i>p. opp. à</i> μορφή, ARCHYT. (STOB. <i>Ecl. phys. p. 714</i>).`

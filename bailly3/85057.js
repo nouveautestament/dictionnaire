@@ -1,0 +1,1 @@
+lar[85057]=`<b>πρό·ρρητος, ος, ον</b>, prescrit, ordonné, SOPH. <i>Tr. 684</i>.<p><b>Étym</b>. <i>vb. de</i> *προέρω.`

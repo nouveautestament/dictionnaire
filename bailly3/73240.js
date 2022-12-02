@@ -1,0 +1,1 @@
+lar[73240]=`<b>ης (ἡ)</b> Ossa (<i>auj</i>. Óssa <i>ou</i> Kíssavos) <i>mt de Thessalie,</i> OD. <i>11, 314, etc</i>.<p>➳ <i>Gén. dor</i>. -ας, EUR. <i>El. 446</i>.`

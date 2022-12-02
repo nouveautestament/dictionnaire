@@ -1,0 +1,1 @@
+lar[10643]=`<b>ης</b>, <i>adj. f. ion</i>. orientale, NONN. <i>D. 25, 28</i>.<p><b>Étym</b>. ἀντολή.`

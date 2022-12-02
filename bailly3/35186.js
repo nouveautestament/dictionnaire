@@ -1,0 +1,1 @@
+lar[35186]=`<b>ἐν·υπατεύω</b> <font color="purple">[ῠᾰ]</font> être consul dans, PLUT. <i>M. 797d</i>.`

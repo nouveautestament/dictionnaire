@@ -1,0 +1,1 @@
+lar[59692]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> qui porte un flambeau, ORPH. <i>H. 39, 11</i>.<p><b>Étym</b>. λαμπάς.`

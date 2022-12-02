@@ -1,0 +1,1 @@
+lar[25618]=`<i>adv</i>., dans la langue de Zeus <i>ou en gén</i>. des dieux, D. CHR. <i>1, p. 315</i>.<p><b>Étym</b>. Διός.`

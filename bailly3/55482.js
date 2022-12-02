@@ -1,0 +1,1 @@
+lar[55482]=`<b>κιναιδολογέω-ῶ</b> <font color="purple">[ῐ]</font> parler de choses obscènes, STR. <i>648</i>.<p><b>Étym</b>. κιναιδολόγος.`

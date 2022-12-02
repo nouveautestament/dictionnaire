@@ -1,0 +1,1 @@
+lar[97304]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> <i>c</i>. σωφρόνισμα, APP. <i>Lib. 78</i>.`

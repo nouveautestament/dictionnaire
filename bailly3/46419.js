@@ -1,0 +1,1 @@
+lar[46419]=`<b>α, ον</b> <font color="purple">[ᾱ]</font> <i>vb. de</i> θεάομαι, PLAT. <i>Phæd. 66d ; au neutre,</i> PLAT. <i>Rsp. 390d</i>.`

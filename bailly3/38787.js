@@ -1,0 +1,1 @@
+lar[38787]=`<b>ἐπι·πορφυρίζω</b> <font color="purple">[ῠ]</font> tirer sur la couleur pourpre, ARSTT. <i>Col. 5, 26</i> ; TH. <i>H.P. 3, 18, 2</i>.<p><b>Étym</b>. ἐπιπόρφυρος.`

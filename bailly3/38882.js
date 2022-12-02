@@ -1,0 +1,1 @@
+lar[38882]=`<b>ἐπι·ρρήγνυμι</b>, briser en frappant sur, ALCIPHR. <i>3, 51</i>.<p><b>Étym</b>. ἐπί, ῥήγνυμι.`

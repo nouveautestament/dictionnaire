@@ -1,0 +1,1 @@
+lar[18530]=`<b>ἀχρημονέω-ῶ</b> (<i>seul. prés</i>.) être sans argent, être pauvre, PLAT. COM. (POLL. <i>6, 196).</i><p><b>Étym</b>. ἀχρήμων.`

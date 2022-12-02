@@ -1,0 +1,1 @@
+lar[108793]=`<b>ου (τὸ) :<br>      1</b> lieu <i>ou</i> le chœur s’habillait et s’exerçait, DÉM. <i>403, 22</i>.<br><b>      2</b> magasin d’habillement et de décors, POLYARCH. (ATH. <i>546a</i>).<br><b>      3</b> approvisionnements pour une armée, <i>au pl</i>. POL. <i>1, 17, 5 ; 1, 18, 5, etc</i>.<p><b>Étym</b>. χορηγός.`

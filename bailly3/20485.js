@@ -1,0 +1,1 @@
+lar[20485]=`<b>βουνο·ειδής, ής, ές</b>, semblable à une colline, montueux, DS. <i>5, 40</i> ; PLUT. <i>Thes. 36</i>.<p><b>Étym</b>. βουνός, εἶδος.`

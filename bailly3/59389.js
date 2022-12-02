@@ -1,0 +1,1 @@
+lar[59389]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. λαγῷος, ORIB. <i>1, 200 B.-Dar</i>.`

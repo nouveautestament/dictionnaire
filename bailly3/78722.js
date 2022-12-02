@@ -1,0 +1,1 @@
+lar[78722]=`<b>περι·κάρπιον, ου (τὸ)</b> enveloppe d’un fruit <i>ou</i> d’une graine, ARSTT. <i>An. 2, 1, 6, etc.</i> ; TH. <i>H.P. 1, 2, 1, etc</i>.<p><b>Étym</b>. π. καρπός.`

@@ -1,0 +1,1 @@
+lar[103931]=`<b>ὑπο·συμμιγής, ής, ές</b> <font color="purple">[ῐ]</font> un peu mêlé, un peu confus, GAL. <i>6, 71, 84</i> ; HIÉROCL. <i>C. aur. p. 425 Mullach</i>.`

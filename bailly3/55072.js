@@ -1,0 +1,1 @@
+lar[55072]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> principal, LUC. <i>D. mort. 20, 1</i> ; τὸ κεφαλαιῶδες, ARR. <i>Epict. 2, 12, 9,</i> caractère général d’une chose résumé dans une définition.<p>•<i> Cp</i>. -έστερος, LUC. <i>Salt. 61</i>.<p><b>Étym</b>. κεφάλαιος, -ωδης.`

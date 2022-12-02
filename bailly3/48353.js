@@ -1,0 +1,1 @@
+lar[48353]=`<b>ης (ἡ)</b> mortier à piler, HPC. <i>635, 34</i> ; GEOP. <i>9, 26, 4</i>.`

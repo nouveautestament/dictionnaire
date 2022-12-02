@@ -1,0 +1,1 @@
+lar[80207]=`<b>ῆρος (ὁ)</b> presse, pressoir, DIOSC. <i>4, 76</i>.<p><b>Étym</b>. πιέζω.`

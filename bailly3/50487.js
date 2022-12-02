@@ -1,0 +1,1 @@
+lar[50487]=`<b>καθ·υπερηφανία, ας (ἡ)</b> <font color="purple">[ᾰῠᾰν]</font> orgueil, PHILOD. π. κακιῶν, <i>4, 29 Sauppe</i>.`

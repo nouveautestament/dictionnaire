@@ -1,0 +1,1 @@
+lar[54321]=`<b>ου (ὁ)</b> chaleur excessive, <i>d’où</i> :<br><b>      1</b> fièvre ardente, HPC. <i>Aph. 6, 25, etc.</i> ; ARSTT. <i>Probl. 1, 20, etc.</i><br><b>      2</b> serpent dont la morsure cause une soif ardente, NIC. <i>Th. 338 (cf</i>. διψάς).<p><b>Étym</b>. καίω.`

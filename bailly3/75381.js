@@ -1,0 +1,1 @@
+lar[75381]=`<b>παρα·βάσκω</b> (<i>seul. 3 sg. impf. itér</i>. παρέβασκε) s’avancer auprès de <i>ou</i> se tenir, sur un char qui s’avance, auprès de, <i>dat</i>. IL. <i>11, 104</i>.<p><b>Étym</b>. <i>cf</i>. παραβαίνω.`

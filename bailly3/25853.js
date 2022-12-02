@@ -1,0 +1,1 @@
+lar[25853]=`<b>δια·φλέγω :<br>      1</b> brûler à travers, <i>d’où au pass</i>. être traversé par la flamme, PLUT. <i>Alc. 39</i>.<br><b>      2</b> enflammer, <i>fig</i>. PLUT. <i>Mar. 16 ; au pass</i>. être enflammé, PLUT. <i>M. 335a</i>.`

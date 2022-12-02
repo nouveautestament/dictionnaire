@@ -1,0 +1,1 @@
+lar[19808]=`<b>ονος</b> <i>ou</i> <b>βιστών, όνος</b>, <i>adj. m.,</i> de Bistonie, NONN. <i>D. 3, 243</i>.`

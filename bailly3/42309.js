@@ -1,0 +1,1 @@
+lar[42309]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> incision en droite ligne, ORIB. <i>2, 4 Mai</i>.<p><b>Étym</b>. εὐθύτομος.`

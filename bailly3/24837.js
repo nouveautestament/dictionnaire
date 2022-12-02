@@ -1,0 +1,1 @@
+lar[24837]=`<b>ή, όν</b>, propre à mettre en ordre, à régler, JAMBL. <i>Myst. 292</i>.<p><b>Étym</b>. διακοσμέω.`

@@ -1,0 +1,1 @@
+lar[104680]=`<b>ά, όν</b>, brun, sombre, PLAT. <i>Tim. 64d, 68c ;</i> POL. <i>30, 4, 5</i> ; PLUT. <i>Æmil. 34, Ant. 80, Demetr. 44</i> ; DC. <i>56, 31</i> ; ἄρτοι φαιοί, ALEX. (ATH. <i>114d</i>) pain bis ; <i>p. anal. en parl. de la voix,</i> sombre, sourd, ARSTT. <i>Aud. 27</i> ; SEXT. <i>M. 6, 41</i>.<p><b>Étym</b>. φάος.`

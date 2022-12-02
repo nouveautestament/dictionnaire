@@ -1,0 +1,1 @@
+lar[109820]=`<b>(τὸ)</b> <i>indécl</i>. la lettre ψ, psi, PLAT. <i>Crat. 427a</i>.`

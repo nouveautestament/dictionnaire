@@ -1,0 +1,1 @@
+lar[80259]=`<b>ου (ὁ)</b> Pithyllos, <i>h</i>. CLÉARQ. (ATH. <i>6c</i>).`

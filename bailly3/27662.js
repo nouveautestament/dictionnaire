@@ -1,0 +1,1 @@
+lar[27662]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> service des gardes du corps, <i>d’où</i> gardes du corps, M. ANT. <i>1, 17</i>.<p><b>Étym</b>. δορυφορέω.`

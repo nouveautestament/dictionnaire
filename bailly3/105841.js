@@ -1,0 +1,1 @@
+lar[105841]=`<b>φιλό·κλαυτος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime à pleurer, NONN. <i>D. 19, 186</i>.<p><b>Étym</b>. φ. κλαίω.`

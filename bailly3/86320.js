@@ -1,0 +1,1 @@
+lar[86320]=`<b>προσ·πίνω</b> <font color="purple">[ῑ]</font> boire auprès, DC. <i>75, 2</i>.`

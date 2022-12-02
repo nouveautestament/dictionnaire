@@ -1,0 +1,1 @@
+lar[45505]=`<b>α, ον :<br>   I</b> de mulet, <i>càd.</i> :<br><b>      1</b> propre à des mulets, qui convient à des mulets (joug) IL. <i>24, 189, 268</i>.<br><b>      2</b> qui provient de mulets, PAMPHOS (PHILSTR. <i>693</i>).<br><b>   II</b> traîné par des mules (char, voiture, <i>etc</i>.) OD. <i>6, 72</i> ; HDT. <i>1, 188</i>.<p><b>Étym</b>. ἡμίονος.`

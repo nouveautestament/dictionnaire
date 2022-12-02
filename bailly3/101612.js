@@ -1,0 +1,1 @@
+lar[101612]=`<b>ὑδρωπο·ειδής, ής, ές</b>, qui tient de l’hydropisie, hydropique, HPC. <i>537, 32</i> ; τὰ ὑδρωποειδῆ, HPC. <i>602, 2,</i> écoulement d’hydropisie.<p><b>Étym</b>. ὕδρωψ, εἶδος.`

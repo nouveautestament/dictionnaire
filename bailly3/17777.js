@@ -1,0 +1,1 @@
+lar[17777]=`<font color="darkgreen">(<i>part. ao. pl</i>. -χειρίσαντες)</font> commettre un meurtre de sa main, PHILIST. (POLL. <i>2, 154, mot blâmé).</i><p><b>Étym</b>. αὐτόχειρ.`

@@ -1,0 +1,1 @@
+lar[72681]=`<i>adv</i>., vers les hauteurs, en haut, <i>avec mouv</i>. XÉN. <i>Lac. 2, 3</i>.<p><b>Étym</b>. ὄρθιος, -δε.`

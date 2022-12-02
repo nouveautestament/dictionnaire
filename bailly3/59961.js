@@ -1,0 +1,1 @@
+lar[59961]=`<b>έως (ὁ)</b> serviteur à gages, LYC. <i>393</i>.<p><b>Étym</b>. λάτρον.`

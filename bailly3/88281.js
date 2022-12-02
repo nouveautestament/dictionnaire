@@ -1,0 +1,1 @@
+lar[88281]=`<b>οῦ (ὁ)</b> aspersion, SPT. <i>Num. 19, 9</i> ; NT. <i>Hebr. 12, 24 ; 1Petr. 1, 2</i>.<p><b>Étym</b>. ῥαντίζω.`

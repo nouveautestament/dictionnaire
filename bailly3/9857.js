@@ -1,0 +1,1 @@
+lar[9857]=`<b>ἀντί·δοξος, ος, ον</b>, qui est d’opinion contraire, LUC. <i>Herm. 17, Par. 29</i> ; ARISTÉN. <i>1, 10</i>.<p><b>Étym</b>. ἀ. δόξα.`

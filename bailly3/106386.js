@@ -1,0 +1,1 @@
+lar[106386]=`<b>αντος (ὁ)</b> <font color="purple">[ῑ]</font> Phliante, <i>fils de Dionysos,</i> A.RH. <i>1, 115</i> ; ORPH. <i>Arg. 195</i>.`

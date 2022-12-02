@@ -1,0 +1,1 @@
+lar[92869]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne le campement <i>ou</i> le camp, POL. <i>6, 30, 3</i>.<p><b>Étym</b>. στρατοπεδεύω.`

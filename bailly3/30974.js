@@ -1,0 +1,1 @@
+lar[30974]=`<b>ου (ὁ)</b> Hékatæos (Hécatée) :<br><b>      1</b> Hécatée (de Milet) <i>historien,</i> HDT. <i>2, 143</i> ; DS. <i>1, 37, etc.</i><br><b>      2</b> <i>autres,</i> DS. <i>17, 5</i>.<p><b>Étym</b>. Ἑκάτη.`

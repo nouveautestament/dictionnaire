@@ -1,0 +1,1 @@
+lar[42367]=`<b>*εὐκαμπῶς</b>, <i>adv</i>., avec flexibilité, <i>au</i> <i>• Sup</i>. εὐκαμπέστατα, DEXIPP. (SUID. <i>v°</i> ἵππος).<p><b>Étym</b>. εὐκαμπής.`

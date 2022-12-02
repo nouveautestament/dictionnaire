@@ -1,0 +1,1 @@
+lar[14648]=`<b>ου (τὸ)</b> <font color="purple">[ᾰρι]</font> l’Aristarkhéion, <i>sanctuaire d’Artémis, en Élide,</i> PLUT. <i>Qu. gr. 47</i>.<p><b>Étym</b>. ἀρίσταρχος.`

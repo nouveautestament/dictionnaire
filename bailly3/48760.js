@@ -1,0 +1,1 @@
+lar[48760]=`<b>ας (ἡ)</b> <font color="purple">[ῑῠ]</font> direction en droite ligne, PTOL. <i>Geogr. p. 9, 29</i>.<p><b>Étym</b>. ἰθυτενής.`

@@ -1,0 +1,1 @@
+lar[59046]=`<b>ῶν (αἱ)</b> sorte de crevettes, MATR. (ATH. <i>136a</i>) ; ARSTT. <i>H.A. 4, 2 ; 5, 17</i>.<p><b>Étym</b>. <i>plur. fém. de</i> κυφός.`

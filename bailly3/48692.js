@@ -1,0 +1,1 @@
+lar[48692]=`<b>ου (ἡ)</b> Iènysos, <i>v. de Syrie,</i> HDT. <i>3, 5</i>.`

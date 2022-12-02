@@ -1,0 +1,1 @@
+lar[80619]=`<i>mieux</i> <b>πλοκερός, ά, όν</b>, tressé, roulé, THCR. <i>Idyl. 7, 18</i>.<p><b>Étym</b>. πλόκος.`

@@ -1,0 +1,1 @@
+lar[101772]=`<b>(ὁ)</b> Hyméès, <i>gendre de Darius,</i> HDT. <i>5, 116, 122</i>.`

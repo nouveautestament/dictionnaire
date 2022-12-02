@@ -1,0 +1,1 @@
+lar[34092]=`<b>ἐν·δαίω</b>, allumer dans, <i>dat. fig</i>. PD. <i>P. 4, 328</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐνεδαίετο)</font> s’allumer <i>ou</i> brûler dans, A.RH. <i>3, 286</i>.`

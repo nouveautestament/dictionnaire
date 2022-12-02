@@ -1,0 +1,1 @@
+lar[24988]=`<b>δια·μαγεύω</b> <font color="purple">[μᾰ]</font> (<i>seul. ao. pass. sbj. 3 sg</i>. -ευθῇ) fasciner <i>ou</i> charmer par des sortilèges, LUC. <i>Am. 41</i>.`

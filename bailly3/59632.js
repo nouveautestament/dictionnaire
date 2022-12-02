@@ -1,0 +1,1 @@
+lar[59632]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> attachement au parti de Lacédémone, XÉN. <i>Hell. 4, 4, 15</i>.<br><b>      2</b> imitation des manières <i>ou</i> du langage des Lacédémoniens, CIC. <i>Fam. 11, 25, 2</i>.<p><b>Étym</b>. λακωνίζω.`

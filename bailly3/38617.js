@@ -1,0 +1,1 @@
+lar[38617]=`<b>ἐπι·παμφαλάω-ῶ</b> <font color="purple">[ᾰλ]</font> briller sur, A.RH. <i>2, 127</i>.`

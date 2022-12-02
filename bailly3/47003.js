@@ -1,0 +1,1 @@
+lar[47003]=`<b>ας (ἡ)</b> action de faire des lois, PLUT. <i>M. 573f</i>.<p><b>Étym</b>. θεσμοθέτης.`

@@ -1,0 +1,1 @@
+lar[75257]=`<b>ή, όν</b> <font color="purple">[ᾰτ]</font> qui concerne la toute puissance, CLÉM. <i>1, 1216, 1316 Migne, etc</i>.`

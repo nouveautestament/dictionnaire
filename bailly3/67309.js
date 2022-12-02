@@ -1,0 +1,1 @@
+lar[67309]=`<b>μυρο·βαφής, ής, ές</b> <font color="purple">[ῠᾰ]</font> imprégné de parfums, CLÉM. <i>235</i>.<p><b>Étym</b>. μ. βάπτω.`

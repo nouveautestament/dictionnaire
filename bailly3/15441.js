@@ -1,0 +1,1 @@
+lar[15441]=`<b>ης, ες</b> <font color="purple">[ῡᾰ]</font> propre à servir d’assaisonnement, DIOSC. <i>3, 36</i>.<p><b>Étym</b>. ἄρτυμα, -ωδης.`

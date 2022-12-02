@@ -1,0 +1,1 @@
+lar[63742]=`(<i>seul. part. prés. fém</i>.) être privé de, <i>gén</i>. ARAT. <i>657</i>.<p><b>Étym</b>. <i>cf</i>. ἀμείρομαι.`

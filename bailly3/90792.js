@@ -1,0 +1,1 @@
+lar[90792]=`<b>ᾶ (ὁ)</b> = Scæva, <i>n. d’h. rom</i>. PLUT. <i>Cæs. 16, etc</i>.`

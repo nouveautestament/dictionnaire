@@ -1,0 +1,1 @@
+lar[71902]=`<b>ας (ἡ)</b> <font color="purple">[ᾰσ]</font> action de conduire un âne <i>ou</i> des ânes, D. CHR. <i>1, 302</i>.<p><b>Étym</b>. ὀνηλάτης.`

@@ -1,0 +1,1 @@
+lar[39448]=`<b>ἐπί·τοκος, ος, ον :<br>      1</b> qui est sur le point d’enfanter <i>ou</i> de mettre bas, ANTIPH. (PHRYN. <i>p. 333</i>) ; ARSTT. <i>H.A. 6, 18 ; p. suite,</i> fécond, HPC. <i>1202h.</i><br><b>      2</b> qui produit des intérêts, PLAT. <i>Leg. 842d</i>.<p><b>Étym</b>. ἐπί, τίκτω.`

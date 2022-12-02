@@ -1,0 +1,1 @@
+lar[67879]=`<b>ητος (ἡ)</b> <font color="purple">[ᾱ]</font> jeunesse, SPT. <i>Ps. 9, 1</i>.<p><b>Étym</b>. νεανικός.`

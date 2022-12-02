@@ -1,0 +1,1 @@
+lar[67966]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. Νειλῷος ANTH. <i>9, 710</i>.`

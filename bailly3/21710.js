@@ -1,0 +1,1 @@
+lar[21710]=`<font color="purple">[ᾰ]</font> produire des rejetons, se multiplier, AQU. <i>Ps. 91, 15</i> ; NYSS.<p><b>Étym</b>. γέννημα.`

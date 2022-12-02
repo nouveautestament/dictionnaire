@@ -1,0 +1,1 @@
+lar[50133]=`<b>ῆς (ἡ) :<br>      1</b> poursuite dans la bataille, IL. <i>5, 521, au pl.</i><br><b>      2</b> la mêlée d’un combat <i>personnifiée,</i> IL. <i>5, 740</i>.<p><b>Étym</b>. <i>p</i>. *ϝιωκή, <i>cf</i>. ἰῶκα ; <i>p.-ê. pré-grec</i>.`

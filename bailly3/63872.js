@@ -1,0 +1,1 @@
+lar[63872]=`<b>ου (ὁ)</b> Mélanippidès, <i>poète dithyrambique,</i> XÉN. <i>Mem. 1, 4, 3</i> ; ARSTT. <i>Rhet. 3, 9, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Μελάνιππος.`

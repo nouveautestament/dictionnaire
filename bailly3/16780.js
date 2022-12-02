@@ -1,0 +1,1 @@
+lar[16780]=`<i>adv</i>., sans art, au hasard <i>ou</i> grossièrement, XÉN. <i>Mem. 3, 11, 7</i> ; PLAT. <i>Gorg. 501a ;</i> PHIL. BABR. <i>etc</i>.<p><b>Étym</b>. ἄτεχνος.`

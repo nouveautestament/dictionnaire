@@ -1,0 +1,1 @@
+lar[60792]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> chassieux, <i>d’où en gén</i>. qui a les yeux faibles <i>ou</i> malades, LUC. <i>Lex. 4</i>.<p><b>Étym</b>. λήμη.`

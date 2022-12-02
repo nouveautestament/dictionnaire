@@ -1,0 +1,1 @@
+lar[79761]=`<b>ῶν (οἱ)</b> les Perrhæbes, <i>habitants de la Perrhæbie,</i> HH. <i>Ap. 218</i> ; ESCHL. (ATH. <i>476c</i>) ; SOPH. (STR. <i>271</i>) ; HDT. <i>7, 128, etc</i>. (<i>v</i>. Περραιβία, Περραιβίς).<p>➳ <i>Dans une inscr. att</i>. CIA. <i>2, 184, 11 (323 av. J.-C.) ; v. Meisterh. p. 74, 11</i>.`

@@ -1,0 +1,1 @@
+lar[21686]=`<b>ορος (ὁ) :<br>   I</b> <i>subst.</i> :<br><b>      1</b> père, EUR. <i>Or. 986</i> ; ARSTT. <i>Mund. 6, 4 et 22</i>.<br><b>      2</b> aïeul, ancêtre, HDT. <i>8, 137</i>.<br><b>   II</b> <i>adj</i>. qui procrée, <i>joint à</i> πατήρ, EUR. <i>Ion 136</i>.<p><b>Étym</b>. γίγνομαι ; <i>cf</i>. γενετήρ, <i>lat</i>. gĕnĭtor, <i>sscr</i>. jánitar-.`

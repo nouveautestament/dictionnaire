@@ -1,0 +1,1 @@
+lar[59176]=`<i>adv</i>., comme dans un village, STR. <i>151, etc</i>.<p><b>Étym</b>. κώμη, -δον.`

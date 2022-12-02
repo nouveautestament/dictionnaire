@@ -1,0 +1,1 @@
+lar[12788]=`<i>transcript. du lat</i>. apollināris = ὑοσκύαμος, DIOSC. <i>4, 69, etc</i>.`

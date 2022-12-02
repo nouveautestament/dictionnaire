@@ -1,0 +1,1 @@
+lar[58357]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> d’un bleu sombre, noirâtre, APP. <i>Civ. 5, 100</i>.<p>•<i> Cp</i>. -ώτερος, ANACR. <i>29 ; • Sup</i>. -ώτατος, PHILSTR. <i>772</i>.<p><b>Étym</b>. κύανος.`

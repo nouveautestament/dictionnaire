@@ -1,0 +1,1 @@
+lar[108983]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> manque, besoin, indigence, TYRT. <i>1, 8</i> ; HÉRACLITE ÉPH. <i>fr. 65</i> ; A.RH. <i>1, 837</i> ; PLUT. <i>M. 389b.</i><br><b>      2</b> désir d’acquérir, désir, HDT. <i>9, 33</i>.<p><b>Étym</b>. χρησμός.`

@@ -1,0 +1,1 @@
+lar[56351]=`<font color="purple">[ᾱ]</font> faire tourner sur un axe, sur un pivot, HÉRON <i>Spir. p. 197, 198</i>.<p><b>Étym</b>. κνώδαξ.`

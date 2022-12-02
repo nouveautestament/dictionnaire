@@ -1,0 +1,1 @@
+lar[59248]=`<b>ῶν (αἱ)</b> Kôpes (<i>auj</i>. Kástro) <i>v. de Béotie,</i> IL. <i>2, 502, etc</i>.`

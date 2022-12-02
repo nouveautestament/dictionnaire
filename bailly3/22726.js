@@ -1,0 +1,1 @@
+lar[22726]=`<b>γυιο·τακής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> <i>act</i>. qui épuise (<i>litt</i>. qui fait fondre) les membres, ANTH. <i>6, 30</i>.<br><b>      2</b> <i>pass</i>. aux membres épuisés, <i>ibid. 71</i>.<p><b>Étym</b>. γ. τήκω.`

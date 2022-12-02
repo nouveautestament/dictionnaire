@@ -1,0 +1,1 @@
+lar[73579]=`<b>οὐλοχυτέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> répandre l’orge sacrée sur la tête de la victime et sur l’autel, PORPH. <i>Abst. 2, 6</i>.<p><b>Étym</b>. οὐλόχυται.`

@@ -1,0 +1,1 @@
+lar[47189]=`<b>θηλυμανέω-ῶ</b> <font color="purple">[ῠᾰ]</font> être passionné pour les femmes, MAN. <i>4, 164</i>.<p><b>Étym</b>. θηλυμανής.`

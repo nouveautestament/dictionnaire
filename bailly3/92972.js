@@ -1,0 +1,1 @@
+lar[92972]=`<b>στρομβο·ειδής, ής, ές</b>, qui est en spirale, de forme cylindrique <i>ou</i> conique, ARSTT. <i>H.A. 4, 4, 5</i> ; τὰ στρομβοειδῆ, ARSTT. <i>H.A. 4, 4, 18, etc</i>. les animaux de forme cylindrique (limaçon, <i>etc</i>.).<p><b>Étym</b>. στρόμβος, εἶδος.`

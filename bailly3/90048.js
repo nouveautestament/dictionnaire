@@ -1,0 +1,1 @@
+lar[90048]=`<b>άδος (ἡ)</b> Sthénias, <i>litt</i>. « la Forte », <i>surn. d’Athèna,</i> PAUS. <i>2, 30, 6 ; cf</i>. Σθένεια.`

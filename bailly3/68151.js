@@ -1,0 +1,1 @@
+lar[68151]=`<b>νεό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> à la chevelure naissante, au duvet naissant, NONN. <i>D. 3, 413</i>.<p><b>Étym</b>. ν. θρίξ.`

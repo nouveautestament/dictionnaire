@@ -1,0 +1,1 @@
+lar[77823]=`<b>η, ον</b> <i>ou mieux</i> <b>πελλός, ή, όν</b> <i>ou</i> <b>πελός, ή, όν</b>, de couleur sombre, noirâtre, noir, SOPH. <i>fr. 122</i> ; ARSTT. <i>H.A. 9, 1, 23</i> ; THCR. <i>Idyl. 5, 99</i>.<p><b>Étym</b>. πελιδνός.`

@@ -1,0 +1,1 @@
+lar[11148]=`<b>ἀ·παίων, ωνος (ὁ, ἡ)</b> qui ne retentit pas de chants, triste, SOPH. <i>fr. 469</i>.<p><b>Étym</b>. ἀ, παίων.`

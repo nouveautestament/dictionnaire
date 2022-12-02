@@ -1,0 +1,1 @@
+lar[84240]=`<b>προ·επιλογίζομαι</b>, calculer auparavant, SEXT. <i>M. 2, 110 ; au sens pass</i>. PHIL. <i>2, 497</i>.`

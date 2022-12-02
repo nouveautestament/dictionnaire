@@ -1,0 +1,1 @@
+lar[47063]=`<font color="darkgreen">(<i>seul. aux formes suiv. : ao. ind. 3 pl</i>. θέσσαντο, PD. <i>N. 5, 10 ; part</i>. θεσσάμενος, HÉS. <i>fr. 9 Göttling</i> ; ARCHIL. <i>11</i> ; θεσσάμενοι, A.RH. <i>1, 824</i>)</font> demander par des prières, implorer.<p><b>Étym</b>. <i>R. indo-europ</i>. *g<sup>wh</sup>ed<sup>h</sup>-, prier ; <i>cf</i>. ποθέω, <i>p.-ê. all</i>. bitten.`

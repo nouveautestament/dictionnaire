@@ -1,0 +1,1 @@
+lar[107056]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> petit poisson qui vit dans les algues, au bord de la mer, ARSTT. <i>H.A. 6, 13, 8</i>.<p><b>Étym</b>. φῦκος.`

@@ -1,0 +1,1 @@
+lar[103076]=`<b>ὑπο·γλαύσσω</b> (<i>seul. part. prés</i>. CALL. <i>Dian. 54, et impf. itér. 3 sg</i>. ὑπεγλαύσσεσκε, MOSCH. <i>2, 86</i>) briller <i>ou</i> regarder en dessous.`

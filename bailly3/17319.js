@@ -1,0 +1,1 @@
+lar[17319]=`<b>αὐτ·ακολούθησις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de suivre de soi-même, SYN. <i>Dion. 8, 1137b Migne</i>.<p><b>Étym</b>. αὐτός, ἀκολουθέω.`

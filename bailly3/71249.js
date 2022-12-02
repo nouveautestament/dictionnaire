@@ -1,0 +1,1 @@
+lar[71249]=`<b>ὁλό·φωνος, ος, ον</b>, qui parle <i>ou</i> crie à pleine voix, CRAT. (ATH. <i>374d</i>).<p><b>Étym</b>. ὅλος, φωνή.`

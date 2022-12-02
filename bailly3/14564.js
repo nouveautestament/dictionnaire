@@ -1,0 +1,1 @@
+lar[14564]=`<b>(ὁ)</b> Ariantas, <i>roi des Scythes,</i> HDT. <i>4, 81</i>.`

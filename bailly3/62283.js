@@ -1,0 +1,1 @@
+lar[62283]=`<font color="purple">[ᾰ]</font> perdre ses cheveux, HPC. <i>667, 2 dout</i>.`

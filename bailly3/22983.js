@@ -1,0 +1,1 @@
+lar[22983]=`<b>ονος (ὁ, ἡ)</b> qui sait, qui connaît, habile dans, <i>gén</i>. ARCHIL. <i>4</i>.<p><b>Étym</b>. <i>Cf</i>. δαήμων.`

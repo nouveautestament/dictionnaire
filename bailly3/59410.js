@@ -1,0 +1,1 @@
+lar[59410]=`<b>λαγο·θήρας</b>, <i>voc</i>. <b>ᾰ (ὁ)</b> <font color="purple">[ᾰᾱ]</font> chasseur de lièvres, ANTH. <i>9, 337</i>.<p><b>Étym</b>. λαγώς, θηράω.`

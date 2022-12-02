@@ -1,0 +1,1 @@
+lar[105696]=`<b>φιλό·βακχος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime Bacchus, <i>càd</i>. le vin, ANTH. <i>7, 222</i>.`

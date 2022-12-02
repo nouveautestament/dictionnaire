@@ -1,0 +1,1 @@
+lar[64045]=`<b>μελί·πηκτον, ου (τὸ)</b> gâteau au miel, <i>sorte de pain d’épice,</i> MÉN. <i>4, 223 Meineke</i> ; ANTIPH. (<i>Com. fr. 3, 44</i>) ; PLUT. <i>M. 200d</i>.<p><b>Étym</b>. μ. πήγνυμι.`

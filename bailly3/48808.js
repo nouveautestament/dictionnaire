@@ -1,0 +1,1 @@
+lar[48808]=`<b>ίδος</b> <font color="purple">[ῐκ]</font> <i>adj. f</i>. suppliante, SPT. <i>Job 40, 22</i> ; ORPH. <i>H. 2, 13 ; 33, 27</i>.<p><b>Étym</b>. ἱκέτης.`

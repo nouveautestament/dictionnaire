@@ -1,0 +1,1 @@
+lar[67205]=`<b>μυρ·αλοιφέω-ῶ</b> <font color="purple">[ῠᾰ]</font> parfumer d’huile <i>ou</i> d’essence aromatique, CLÉM. <i>210</i> ; SYN. <i>83c</i>.<p><b>Étym</b>. μύρον, ἀλοιφή.`

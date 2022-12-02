@@ -1,0 +1,1 @@
+lar[10404]=`<b>ἀντι·σπάω-ῶ :<br>      1</b> tirer en sens contraire, repousser, ESCHL. <i>Pr. 337</i> ; AR. <i>Pax 492</i> ; XÉN. <i>Cyn. 5, 1, etc.</i><br><b>      2</b> se retenir à, <i>gén</i>. A.RH. <i>2, 598</i>.<br><b><i>Moy.</i></b> tirer à soi, attirer, <i>acc</i>. POL. <i>23, 10, 14</i>.`

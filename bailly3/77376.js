@@ -1,0 +1,1 @@
+lar[77376]=`<b>ας (ἡ)</b> la mort de Patrocle, <i>titre du 16<sup>e</sup> chant de l’Iliade,</i> EL. <i>V.H. 13, 14</i>.<p><b>Étym</b>. Πατροκλῆς.`

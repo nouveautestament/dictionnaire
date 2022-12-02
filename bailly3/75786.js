@@ -1,0 +1,1 @@
+lar[75786]=`<b>ῆς (ἡ)</b> état d’un esprit frappé, démence, ESCHL. <i>Ag. 223, etc. ; au pl</i>. PLUT. <i>M. 1132b</i>.<p><b>Étym</b>. παρακόπτω.`

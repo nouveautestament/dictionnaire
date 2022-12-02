@@ -1,0 +1,1 @@
+lar[92714]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action de vêtir, PHIL. <i>2, 157</i>.<p><b>Étym</b>. στολίζω.`

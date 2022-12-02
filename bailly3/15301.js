@@ -1,0 +1,1 @@
+lar[15301]=`<b>Ἀρτ·επίβουλος, ου (ὁ)</b> <font color="purple">[ῐ]</font> Guette-pain, <i>n. d’une souris,</i> BATR. <i>263</i>.<p><b>Étym</b>. ἄρτος, ἐπιβουλεύω.`

@@ -1,0 +1,1 @@
+lar[18099]=`<b>ἀ·φίλητος, ος, ον</b> <font color="purple">[ῐ]</font> non aimé, SOPH. <i>O.C. 1702</i>.`

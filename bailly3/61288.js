@@ -1,0 +1,1 @@
+lar[61288]=`<b>λιπαρό·ζωνος, ος, ον</b> <font color="purple">[ῐᾰ]</font> à la brillante ceinture, EUR. <i>Ph. 175</i>.<p><b>Étym</b>. λ. ζώνη.`

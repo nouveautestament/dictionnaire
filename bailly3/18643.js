@@ -1,0 +1,1 @@
+lar[18643]=`<b>Ἀψυρτίδες νῆσοι (αἱ)</b> les î. d’Apsyrte <i>ou</i> Absyrte, <i>n. de deux î. de la mer Adriatique sur la côte d’Illyrie,</i> STR. ORPH. SCYMN. <i>etc</i>.`

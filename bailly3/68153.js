@@ -1,0 +1,1 @@
+lar[68153]=`<b>νέ·οικος, ος, ον :<br>      1</b> <i>pass</i>. récemment construit <i>ou</i> établi, PD. <i>O. 5, 8</i>.<br><b>      2</b> <i>act</i>. nouvel habitant, EPICH. (POLL. <i>9, 26).</i><p><b>Étym</b>. ν. οἶκος.`

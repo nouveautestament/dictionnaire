@@ -1,0 +1,1 @@
+lar[13392]=`<font color="purple">[τᾰᾰ]</font> OD. <i>6, 143 et</i> <b>ἀποσταδόν</b> <font color="purple">[τᾰ]</font> IL. <i>15, 556, adv</i>. en se tenant au loin, de loin.<p><b>Étym</b>. ἀφίστημι.`

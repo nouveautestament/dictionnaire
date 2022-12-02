@@ -1,0 +1,1 @@
+lar[48667]=`<b>*ἱερωστί</b>, <i>ion</i>. <b>ἱρωστί</b>, <i>adv</i>., saintement, pieusement, ANACR. <i>146</i>.<p><b>Étym</b>. ἱερός.`

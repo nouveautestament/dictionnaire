@@ -1,0 +1,1 @@
+lar[73942]=`<b>ὀχλο·αρέσκης, ου (ὁ)</b> qui cherche à plaire au peuple, TIMON (DL. <i>4, 42).</i><p><b>Étym</b>. ὄχλος, ἀρέσκω.`

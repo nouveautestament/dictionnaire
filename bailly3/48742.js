@@ -1,0 +1,1 @@
+lar[48742]=`<b>ἰθύ·λορδος, η, ον</b> <font color="purple">[ῑῠ]</font> qui est d’abord droit, puis concave, HPC. <i>810, 842, etc</i>. (<i>v</i>. ἰθυκυφής).<p><b>Étym</b>. ἰ. λορδός.`

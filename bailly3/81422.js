@@ -1,0 +1,1 @@
+lar[81422]=`<b>ποικιλόω-ῶ</b> <font color="purple">[ῐ]</font> <i>c</i>. ποικίλλω ; ESCHL. <i>fr. 305 Dind</i>.`

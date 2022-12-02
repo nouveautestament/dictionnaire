@@ -1,0 +1,1 @@
+lar[100518]=`<b>τρι·σχιδής, ής, ές</b> <font color="purple">[χῐ]</font> fendu en trois, ORIB. <i>p. 42, 53 Mai</i>.<p><b>Étym</b>. τρ. σχίζω.`

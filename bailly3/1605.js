@@ -1,0 +1,1 @@
+lar[1605]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰδ]</font> cérémonie funèbre en l’honneur d’Adonis, AR. <i>Lys. 390</i>.<p><b>Étym</b>. Ἀδωνιάζω.`

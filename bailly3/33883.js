@@ -1,0 +1,1 @@
+lar[33883]=`<b>ἐναντιό·βουλος, ος, ον</b>, qui a une volonté contradictoire <i>ou</i> changeante, POLÉM. <i>Physiogn. 2, 12</i>.<p><b>Étym</b>. ἐναντίος, βουλή.`

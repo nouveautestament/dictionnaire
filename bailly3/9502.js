@@ -1,0 +1,1 @@
+lar[9502]=`<b>ἀντ·απολαμβάνω</b>, recevoir en retour, PLAT. <i>Tim. 27b ;</i> DÉM. <i>471, 2</i>.`

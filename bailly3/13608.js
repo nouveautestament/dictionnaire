@@ -1,0 +1,1 @@
+lar[13608]=`<b>ἀπό·τιμος, ος, ον</b> <font color="purple">[ῑ]</font> non honoré, non estimé, HDT. <i>2, 167</i> ; SOPH. <i>O.R. 215</i>.<p><b>Étym</b>. ἀ. τιμή.`

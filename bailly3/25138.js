@@ -1,0 +1,1 @@
+lar[25138]=`<b>δια·νηστεύω</b> (<i>seul. prés</i>.) observer une diète absolue, HPC. <i>523, 27</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. JOS. <i>A.J. 3, 10, 3</i>.`

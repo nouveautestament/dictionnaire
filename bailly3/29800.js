@@ -1,0 +1,1 @@
+lar[29800]=`<b>ἐγκυμονέω-ῶ</b> <font color="purple">[ῡ]</font> être grosse, GEOP. <i>14, 26, 2</i> ; τινα, APD. <i>1, 2, 6,</i> porter un enfant dans son sein ; <i>au pass</i>. τὸ ἐγκυμονούμενον, DH. <i>1, 60,</i> l’enfant que la mère porte dans son sein.<p><b>Étym</b>. ἐγκύμων.`

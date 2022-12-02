@@ -1,0 +1,1 @@
+lar[110124]=`(<i>seul. prés</i>.) crier oh ! <i>d’où</i> pousser des exclamations, ESCHL. <i>Eum. 124</i> ; AR. <i>Vesp. 1527</i>.<p><b>Étym</b>. ὤ ; <i>pour la format. cf</i>. οἴζω <i>de</i> οἴ, οἰμώζω <i>de</i> οἴμοι.`

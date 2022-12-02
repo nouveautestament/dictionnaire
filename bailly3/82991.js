@@ -1,0 +1,1 @@
+lar[82991]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Potamôn :<br><b>      1</b> <i>rhéteur sous Tibère, à Rome,</i> PLUT. <i>Alex. 61</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>6, 21 ; 11, 131</i>.`

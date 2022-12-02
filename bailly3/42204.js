@@ -1,0 +1,1 @@
+lar[42204]=`<b>εὔ·θικτος, ος, ον :<br>      1</b> qui touche juste, qui porte coup, PHIL. <i>1, 286</i> ; POL. <i>17, 4, 4 ; cf</i>. ANTH. <i>6, 322</i>.<br><b>      2</b> <i>p. suite,</i> prompt <i>ou</i> adroit à la riposte, d’esprit fin et vif, ARSTT. <i>H.A. 9, 17, 1</i> ; ATH. <i>523d</i>.<p><b>Étym</b>. εὖ, θιγγάνω.`

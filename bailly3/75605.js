@@ -1,0 +1,1 @@
+lar[75605]=`<b>εως (ἡ)</b> pression de côté, compression, GAL. <i>18, 1, p. 69, 3</i>.<p><b>Étym</b>. παραθλίβω.`

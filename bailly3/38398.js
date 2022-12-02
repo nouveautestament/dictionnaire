@@ -1,0 +1,1 @@
+lar[38398]=`<b>ἐπι·μέλομαι</b> <font color="darkgreen">(<i>seul. prés. et impf</i>. ἐπεμελόμην)</font> <i>c</i>. ἐπιμελέομαι, HDT. <i>1, 98, etc.</i> ; THC. <i>6, 54 ; 7, 39</i> ; PLAT. <i>Gorg. 516b, etc</i>.`

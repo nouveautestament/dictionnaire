@@ -1,0 +1,1 @@
+lar[64156]=`<b>μελλ·έφηβος, ος, ον</b>, qui est sur le point d’atteindre l’âge de puberté, CENSOR. <i>De die nat. 5</i>.<p><b>Étym</b>. μέλλω, ἔφηβος.`

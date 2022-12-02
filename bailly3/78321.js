@@ -1,0 +1,1 @@
+lar[78321]=`<b>ου (τὸ)</b> <font color="purple">[ῑκ]</font><br><b>      1</b> petite perdrix, perdreau, EUB. <i>et</i> EPHIPP. (<i>Com. fr. 3, 268 ; 334</i>).<br><b>      2</b> pariétaire (<i>d’ord</i>. ἑλξίνη) <i>plante,</i> TH. <i>H.P. 1, 6, 11</i>.<p><b>Étym</b>. πέρδιξ.`

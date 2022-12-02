@@ -1,0 +1,1 @@
+lar[86063]=`<b>προσ·κρεμάννυμι</b>, suspendre à, <i>dat</i>. GEOP. <i>10, 5 ; au pass</i>. être suspendu à, AR. <i>fr. 187 Dind</i>.`

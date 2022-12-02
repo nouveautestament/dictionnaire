@@ -1,0 +1,1 @@
+lar[3577]=`<b>ης (ἡ)</b> sorte de chardon, TH. <i>H.P. 1, 10, 6</i>.`

@@ -1,0 +1,1 @@
+lar[8016]=`<b>ἀνδρ·εράστρια, ας (ἡ)</b> femme passionnée pour les hommes, AR. <i>Th. 392</i>.<p><b>Étym</b>. ἀνήρ, ἐ.`

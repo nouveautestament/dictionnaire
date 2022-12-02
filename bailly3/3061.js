@@ -1,0 +1,1 @@
+lar[3061]=`<b>(ὁ)</b> <font color="purple">[κᾰᾰ]</font> <i>nom. épq</i>. qui ne fait pas de mal, bienfaisant, <i>ép. d’Hermès,</i> IL. <i>16, 185</i> ; OD. <i>24, 10, et de Prométhée,</i> HÉS. <i>Th. 614</i>.<p><b>Étym</b>. ἄκακος.`

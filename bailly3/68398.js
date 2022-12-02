@@ -1,0 +1,1 @@
+lar[68398]=`<b>εως (ἡ)</b> inclinaison vers la terre, T. LOCR. <i>100d ;</i> PLUT. <i>M. 1122c, etc</i>.<p><b>Étym</b>. νεύω.`

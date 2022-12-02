@@ -1,0 +1,1 @@
+lar[97022]=`<b>ή, όν :<br>      1</b> qui maintient, PLUT. <i>M. 1085a.</i><br><b>      2</b> qui retient, <i>gén</i>. PLUT. <i>M. 428e, 725a ; abs</i>. astringent, PLUT. <i>M. 952b, etc</i>.<p><b>Étym</b>. σχεῖν.`

@@ -1,0 +1,1 @@
+lar[46988]=`<b>ου (τὸ)</b> le Thersilion, <i>édifice pour les réunions de certaines assemblées en Arcadie, ainsi nommé de son fondateur,</i> PAUS. <i>8, 32, 1</i>.<p><b>Étym</b>. *Θέρσιλος.`

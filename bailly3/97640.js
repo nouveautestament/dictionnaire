@@ -1,0 +1,1 @@
+lar[97640]=`<b>ταραξ·ιππό·στρατος, ος, ον</b> <font color="purple">[τᾰᾰτ]</font> qui met les Chevaliers en déroute, <i>ép. de Cleon,</i> AR. <i>Eq. 247</i>.<p><b>Étym</b>. ταράσσω, ἵππος, στρατός.`

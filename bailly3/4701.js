@@ -1,0 +1,1 @@
+lar[4701]=`<b>ατος (τὸ) :<br>      1</b> changement, ANTH. <i>12, 132</i>.<br><b>      2</b> échange, denrée échangée, SPT. <i>Deut. 23, 18 ; Lev. 27, 10 ; Esaï. 43, 3, etc.</i><br><b>      3</b> prix d’un achat, CLÉM. <i>Str. 1, p. 321</i>.<p><b>Étym</b>. ἀλλάσσω.`

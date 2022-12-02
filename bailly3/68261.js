@@ -1,0 +1,1 @@
+lar[68261]=`<b>νεο·σύλλεκτος, ος, ον</b>, nouvellement rassemblé, DH. <i>8, 13</i> ; JOS. <i>B.J. 1, 17, 1</i>.<p><b>Étym</b>. ν. συλλέγω.`

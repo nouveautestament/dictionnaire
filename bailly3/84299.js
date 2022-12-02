@@ -1,0 +1,1 @@
+lar[84299]=`<b>προ·έψω</b>, faire cuire d’avance <i>ou</i> auparavant, HPC. <i>497, 24</i> ; ATH. <i>381b</i>.`

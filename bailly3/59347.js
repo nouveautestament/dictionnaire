@@ -1,0 +1,1 @@
+lar[59347]=`<b>ου (τὸ)</b> <font color="purple">[αᾱ]</font> <i>dim. de</i> λάβραξ, ANTIPH. <i>et</i> AMPH. (ATH. <i>295f</i>).`

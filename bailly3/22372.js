@@ -1,0 +1,1 @@
+lar[22372]=`<b>(ὁ)</b> <font color="purple">[ῠᾱ]</font> qui fait tournoyer la foudre (Zeus), LYC. <i>435</i>.<p><b>Étym</b>. γογγύλος.`

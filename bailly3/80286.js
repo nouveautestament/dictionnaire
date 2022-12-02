@@ -1,0 +1,1 @@
+lar[80286]=`<b>*πικροχολία</b>, <i>ion</i>. <b>πικροχολίη, ης (ἡ)</b> tempérament bilieux, HPC. <i>Acut. 394</i>.<p><b>Étym</b>. πικρόχολος.`

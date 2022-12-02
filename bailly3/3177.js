@@ -1,0 +1,1 @@
+lar[3177]=`<b>ἀ·κατάκλυστος, ος, ον</b>, non submersible, qui est à l’abri des flots, NYSS.<p><b>Étym</b>. ἀ, κατακλύζω.`

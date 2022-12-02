@@ -1,0 +1,1 @@
+lar[2146]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> impunité, CTÉS. <i>Pers. 61</i>.<p><b>Étym</b>. ἀθῳόω.`

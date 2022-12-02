@@ -1,0 +1,1 @@
+lar[30056]=`<b>ἑδρο·στρόφος, ου (ὁ)</b> qui tourne vivement les reins, <i>en parl. de lutteurs,</i> THCR. <i>Idyl. 24, 110</i>.<p><b>Étym</b>. ἕδρα, στρέφω.`

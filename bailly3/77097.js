@@ -1,0 +1,1 @@
+lar[77097]=`<b>παρ·ορίνω</b> <font color="purple">[ῑ]</font> exciter, ALC. <i>99</i>.`

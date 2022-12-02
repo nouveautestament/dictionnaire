@@ -1,0 +1,1 @@
+lar[99480]=`<b>τοιουτό·τροπος, ος, ον</b>, de telle sorte <i>ou</i> de la même sorte, HDT. <i>7, 226</i> ; HPC. <i>Progn. 46, etc.</i> ; THC. <i>2, 8, 13, etc</i>.<p><b>Étym</b>. τ. τρόπος.`

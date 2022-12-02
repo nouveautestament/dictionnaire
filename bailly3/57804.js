@@ -1,0 +1,1 @@
+lar[57804]=`<b>ου (τὸ)</b> sorte de gâteau, PHILÉT. (ATH. <i>645d</i>).`

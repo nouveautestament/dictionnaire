@@ -1,0 +1,1 @@
+lar[43675]=`<b>εὐυδρέω-ῶ</b>, avoir de l’eau en abondance, STR. <i>371</i>.<p><b>Étym</b>. εὔυδρος.`

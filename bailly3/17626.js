@@ -1,0 +1,1 @@
+lar[17626]=`<b>αὐτο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>t. de gr</i>. réfléchi <i>ou</i> intransitif, <i>p. opp. à</i> ἀλλοπαθής <i>ou à</i> μεταβατικός, DYSC. <i>Pron. 56a</i>.<p><b>Étym</b>. αὐ. πάθος.`

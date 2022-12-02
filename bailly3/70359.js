@@ -1,0 +1,1 @@
+lar[70359]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> de la maison, domestique, privé, OPP. <i>C. 1, 473</i>.<p><b>Étym</b>. οἶκος.`

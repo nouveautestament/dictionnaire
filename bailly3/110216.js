@@ -1,0 +1,1 @@
+lar[110216]=`<font color="purple">[ᾱ]</font> pousser du coude, COM. (POLL. <i>2, 140).</i><p><b>Étym</b>. ὠλέκρανον.`

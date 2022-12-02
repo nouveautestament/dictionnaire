@@ -1,0 +1,1 @@
+lar[74646]=`<b>έως (ὁ)</b> habitant de Pallantion, XÉN. <i>Hell. 7, 5, 5</i>.<p><b>Étym</b>. Παλλάντιον.`

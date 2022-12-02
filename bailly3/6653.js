@@ -1,0 +1,1 @@
+lar[6653]=`<i>adv</i>., en venant du dème Anagyrunte, AR. <i>Lys. 67</i>.<p><b>Étym</b>. Ἀναγυροῦς, -θεν.`

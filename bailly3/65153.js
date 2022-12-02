@@ -1,0 +1,1 @@
+lar[65153]=`<b>μετεωρο·σοφιστής, οῦ (ὁ)</b> sophiste qui se perd dans les nues, <i>propr</i>. « dans la contemplation des choses célestes », AR. <i>Nub. 360</i>.`

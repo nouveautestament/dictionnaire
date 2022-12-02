@@ -1,0 +1,1 @@
+lar[77820]=`<b>ῆρος (ὁ)</b> <i>mot thessal. et éol. c</i>. πελλαντήρ, CLITARQ. (ATH. <i>495e</i>).`

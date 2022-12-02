@@ -1,0 +1,1 @@
+lar[91440]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῑ]</font> <i>c</i>. μαρίλη, ARSTT. <i>Mir. 41</i>.`

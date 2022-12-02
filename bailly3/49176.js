@@ -1,0 +1,1 @@
+lar[49176]=`<b>α, ον</b> = <i>lat</i>. Julius, a, um, de juillet, PLUT. <i>M. 269e, etc. ; subst</i>. ὁ Ἰ. (<i>s.-e</i>. μήν) le mois de juillet, APP. <i>2, 231 Schweigh</i>.`

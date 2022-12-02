@@ -1,0 +1,1 @@
+lar[35240]=`<b>ἑξά·βραχυς, εια, υ</b>, consistant en six syllabes brèves, SCH.-AR. <i>Av. 737</i>.<p><b>Étym</b>. ἕξ, βραχύς.`

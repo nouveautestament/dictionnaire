@@ -1,0 +1,1 @@
+lar[19855]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> mou, indolent, lâche, XÉN. <i>Œc. 8, 17</i> ; PLAT. <i>Rsp. 432d ;</i> ARSTT. <i>H.A. 9, 30, 2 ; joint à</i> δειλός, PLAT. <i>Pol. 307c</i>.<p>•<i> Cp</i>. -ώτερος, PLAT. <i>Leg. 637b</i>.<p><b>Étym</b>. βλάξ.`

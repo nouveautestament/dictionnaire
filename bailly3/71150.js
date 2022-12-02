@@ -1,0 +1,1 @@
+lar[71150]=`<b>ὁλό·γυρος, ος, ον</b> <font color="purple">[ῡ]</font> tout rond, MÉLÉT. <i>3, 74 Cramer</i>.<p><b>Étym</b>. ὅλ. γυρός.`

@@ -1,0 +1,1 @@
+lar[29959]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> versé dans, infusé, HPC. <i>603, 25</i> ; ARÉT. <i>Cur. m. acut. 2, 10 ; Cur. m. diut. 1, 3</i> ; ἔγχυτος πλακοῦς, MÉN. (ATH. <i>644d</i>) <i>d’où</i> ὁ ἔγχυτος, CHRYSIPP. (ATH. <i>647d</i>) ; ANTH. <i>9, 395,</i> gâteau fait au moule.<p><b>Étym</b>. ἐγχέω.`

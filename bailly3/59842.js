@@ -1,0 +1,1 @@
+lar[59842]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> patience, <i>sorte d’oseille laxative,</i> TH. <i>H.P. 7, 1, 2</i>.`

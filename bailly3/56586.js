@@ -1,0 +1,1 @@
+lar[56586]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> flatterie, adulation, PLAT. <i>Gorg. 466a ;</i> ESCHN. <i>76, 42</i> ; DÉM. <i>127 fin</i>.<p><b>Étym</b>. κόλαξ.`

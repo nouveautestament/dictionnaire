@@ -1,0 +1,1 @@
+lar[108296]=`<b>α, ον</b>, de la Chersonèse de Thrace, EUR. <i>Hec. 8, 33, etc</i>.<p><b>Étym</b>. Χερρόνησος.`

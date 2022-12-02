@@ -1,0 +1,1 @@
+lar[11123]=`<b>ἀπ·αιθερόω-ῶ</b>, rendre pur <i>ou</i> subtil comme l’air, SYN. <i>137a</i>.`

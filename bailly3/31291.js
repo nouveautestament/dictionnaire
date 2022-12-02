@@ -1,0 +1,1 @@
+lar[31291]=`<b>ἐκ·θαυμάζω</b>, regarder avec étonnement, admirer, <i>acc</i>. DH. <i>Thuc. 34</i> ; LGN <i>44, 8</i>.`

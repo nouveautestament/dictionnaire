@@ -1,0 +1,1 @@
+lar[81904]=`<b>πολυ·ήγορος, ος, ον</b>, aux longs discours, ANTH. <i>App. 96</i> ; ORPH. <i>Arg. 487</i>.<p><b>Étym</b>. π. ἀγορεύω.`

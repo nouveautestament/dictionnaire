@@ -1,0 +1,1 @@
+lar[51138]=`<b>Καλλι·κολώνη, ης (ἡ)</b> <font color="purple">[ῐ]</font> Kallikolônè (<i>propr</i>. la belle colline) <i>près de Troie,</i> IL. <i>20, 53, 151</i>.<p><b>Étym</b>. <i>cf</i>. καλλικόλωνος.`

@@ -1,0 +1,1 @@
+lar[31904]=`<b>ἐκ·πολεμόω-ῶ</b>, exciter à la guerre : τινα, HDT. <i>4, 120,</i> qqn ; τινά τινι, DÉM. <i>10 fin</i> ; DC. <i>46, 2, ou</i> τινα πρός τινα, THC. <i>6, 77</i> ; POL. <i>20, 4, 4,</i> qqn contre un autre ; <i>d’où pass</i>. être en guerre, devenir ennemi, HDT. <i>3, 66 ; 5, 73</i>.<p>➳ <i>Fut. moy. au sens pass</i>. ἐκπολεμώσομαι, JOS. <i>B.J. 7, 10, 2</i>.`

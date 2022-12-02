@@ -1,0 +1,1 @@
+lar[83953]=`<b>προ·διαττάω-ῶ</b>, faire passer d’avance au crible, GAL. <i>12, 357</i>.`

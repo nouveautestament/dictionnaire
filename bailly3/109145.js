@@ -1,0 +1,1 @@
+lar[109145]=`<b>η, ον</b> <font color="purple">[ῡῐ]</font> d’or ; <i>subst</i>. ὁ χρ. DS. <i>Exc. 2, p. 629, 24 Wessel.</i> ; ALCIPHR. <i>3, 3, etc.</i> ; SYN. <i>Ep. 129,</i> monnaie d’or.<p><b>Étym</b>. χρυσός.`

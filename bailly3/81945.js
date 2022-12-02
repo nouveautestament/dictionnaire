@@ -1,0 +1,1 @@
+lar[81945]=`<b>πολυ·ΐδμων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui sait beaucoup, ORPH. <i>Lith. 691</i>.`

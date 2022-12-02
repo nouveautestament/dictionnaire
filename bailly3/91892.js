@@ -1,0 +1,1 @@
+lar[91892]=`<b>ης (ἡ)</b> pinson, <i>oiseau,</i> SOPH. <i>fr. 382 Dind.</i> ; ARSTT. <i>H.A. 8, 3, 4, etc.</i> ; TIMON (DL. <i>4, 42).</i><p><b>Étym</b>. σπίζω.`

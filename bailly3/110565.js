@@ -1,0 +1,1 @@
+lar[110565]=`<b>ὠτο·θλαδίας, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> athlète dont les oreilles sont écrasées par les coups, DL. <i>5, 61</i>.<p><b>Étym</b>. οὖς, θλάω.`

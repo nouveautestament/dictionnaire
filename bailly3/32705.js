@@ -1,0 +1,1 @@
+lar[32705]=`<b>ή, όν</b>, habitué à la liberté, libre, PLAT. <i>Leg. 701e</i> (<i>au</i> <i>• Sup</i>. -ώτατος) ; τὸ ἐλευθερικόν, PLAT. <i>Leg. 919e</i>, l’habitude de la liberté.<p><b>Étym</b>. ἐλεύθερος.`

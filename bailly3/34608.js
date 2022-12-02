@@ -1,0 +1,1 @@
+lar[34608]=`<b>ἐν·ιδρόω-ῶ</b> <font color="purple">[ῑ]</font> suer <i>ou</i> se fatiguer à, <i>dat</i>. XÉN. <i>Conv. 2, 18</i>.`

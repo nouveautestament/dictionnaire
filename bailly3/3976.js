@@ -1,0 +1,1 @@
+lar[3976]=`<b>ου (ὁ)</b> = <i>lat</i>. Aquilinus, <i>n. d’h. rom</i>. ANTH. <i>App. 306</i>.`

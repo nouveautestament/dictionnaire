@@ -1,0 +1,1 @@
+lar[54983]=`<b>ατος (τὸ) :<br>      1</b> petite coupure, <i>particul</i>. petite pièce de monnaie, THPP. <i>et</i> EUB. (ATH. <i>533a, 568f</i>), <i>etc. ; surt. au pl</i>. AR. <i>Pl. 379</i> ; DÉM. <i>549, 27, etc.</i><br><b>      2</b> <i>au pl</i>. marchandises, ANTH. <i>5, 45</i>.<p><b>Étym</b>. κείρω.`

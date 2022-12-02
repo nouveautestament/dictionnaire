@@ -1,0 +1,1 @@
+lar[36809]=`<b>ῆρος (ὁ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἐπαρυστρίς SPT. <i>Ex. 25, 38</i>.`

@@ -1,0 +1,1 @@
+lar[96479]=`<b>συο·τρόφος, ος, ον</b>, qui nourrit des porcs, JOS. <i>B.J. 1, 21, 13</i>.<p><b>Étym</b>. σῦς, τρέφω.`

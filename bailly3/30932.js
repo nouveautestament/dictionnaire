@@ -1,0 +1,1 @@
+lar[30932]=`<i>adv</i>., selon la coutume, SOPH. <i>El. 1456</i> ; PLAT. <i>Conv. 218d</i>.<p><b>Étym</b>. εἰωθώς, <i>part. de</i> εἴωθα.`

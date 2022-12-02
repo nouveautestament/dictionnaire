@@ -1,0 +1,1 @@
+lar[84699]=`<b>προ·μαχίζω</b> <font color="purple">[ᾰ]</font> combattre en avant : Τρωσί, IL. <i>3, 16,</i> combattre (comme champion) devant les Troyens ; Ἀχιλῆϊ, IL. <i>20, 376,</i> combattre contre Achille ; τινός, NONN. <i>D. 27, 265,</i> combattre en avant pour qqn.<p><b>Étym</b>. πρόμαχος.`

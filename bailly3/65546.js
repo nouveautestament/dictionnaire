@@ -1,0 +1,1 @@
+lar[65546]=`<b>*μητρό·δοκος</b>, <i>seul. dor</i>. <b>ματρόδοκος, ος, ον</b> <font color="purple">[ᾱ]</font> reçu <i>ou</i> conçu par une mère, PD. <i>N. 7, 124</i>.`

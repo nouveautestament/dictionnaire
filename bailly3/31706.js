@@ -1,0 +1,1 @@
+lar[31706]=`<b>οῦ (ὁ)</b> rajeunissement, SIMPL. (STOB. <i>7, 204 Schow).</i><p><b>Étym</b>. ἐκνεάζω.`

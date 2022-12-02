@@ -1,0 +1,1 @@
+lar[75844]=`<b>εως (ἡ) :<br>      1</b> action de négliger, d’omettre, PLUT. <i>M. 33a ;</i> ATH. <i>490f.</i><br><b>      2</b> <i>t. de rhét</i>. action de passer sous silence, prétérition, ARSTT. <i>Rhet. Al. 22, 2, etc.</i> ; RHÉT. <i>3, 408 W., etc</i>.<p><b>Étym</b>. παραλείπω.`

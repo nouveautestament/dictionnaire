@@ -1,0 +1,1 @@
+lar[99176]=`<b>Τιμ·αιθώ, οῦς (ἡ)</b> <font color="purple">[ῑ]</font> Timæthô, <i>f</i>. ANTH. <i>7, 463</i>.<p><b>Étym</b>. τιμή, αἴθω.`

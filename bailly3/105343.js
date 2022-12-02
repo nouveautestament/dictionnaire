@@ -1,0 +1,1 @@
+lar[105343]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit tube vocal, HÉRON <i>Spir. p. 227</i>.<p><b>Étym</b>. <i>dim. de</i> φθογγή.`

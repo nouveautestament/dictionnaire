@@ -1,0 +1,1 @@
+lar[20693]=`<b>βραχυ·κατάληκτος, ος, ον</b> <font color="purple">[ᾰῠᾰᾰ]</font> qui se termine par une syllabe brève, DYSC. <i>Pron. 324a ;</i> ARC. <i>192, 20</i> ; μέτρον βρ. HÉPH. <i>4, 4</i> ; A. QUINT. <i>p. 50,</i> mètre brachycatalecte, <i>càd</i>. auquel manque un pied.<p><b>Étym</b>. βρ. καταλήγω.`

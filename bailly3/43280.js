@@ -1,0 +1,1 @@
+lar[43280]=`<b>ου (ὁ)</b> Eurykleidès (<i>litt</i>. descendant d’Euryklès) HDT. <i>8, 42</i>.<p>➳ <i>Voc</i>. -η, DL. <i>2, 8 ; gén. ion</i>. -εω, HDT. <i>l. c. Dor</i>. Εὐρυκλείδας, PLUT. <i>Cleom. 8</i>.<p><b>Étym</b>. <i>patr. de</i> Εὐρυκλῆς.`

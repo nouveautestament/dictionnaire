@@ -1,0 +1,1 @@
+lar[77725]=`<font color="purple">[ᾰ]</font> (<i>seul. prés. et impf</i>.) s’approcher, ESCHL. <i>fr. 125 Dind.</i> ; EUR. <i>Rhes. 556, El. 1293</i> ; AR. <i>Th. 58</i>.<p><b>Étym</b>. πέλας.`

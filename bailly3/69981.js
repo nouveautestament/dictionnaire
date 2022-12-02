@@ -1,0 +1,1 @@
+lar[69981]=`<i>neutre du pron. relat</i>. ὅς, ἥ, ὅ.`

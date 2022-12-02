@@ -1,0 +1,1 @@
+lar[103472]=`<b>ίδος (ἡ)</b> auge (en forme de cuve) pour les bestiaux, CALL. <i>Dian. 166</i>.<p><b>Étym</b>. <i>cf</i>. ὑπολήνιον.`

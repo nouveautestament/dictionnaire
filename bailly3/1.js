@@ -1,0 +1,1 @@
+lar[1]=`<b>Α, , , α</b> (ἄλφα) <i>indécl</i>. <font color="brown">alpha</font>, <i>1<sup>re</sup> lettre de l’alphabet grec.<br>comme chiffre</i> αʹ = 1 – ͵α = 1 000.<p><b>Étym</b>. <i>cf. hébr</i>. aleph.`

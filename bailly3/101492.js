@@ -1,0 +1,1 @@
+lar[101492]=`<b>ὑδνό·φυλλον, ου (τὸ)</b> plante qu’on disait croître au-dessus des gisements de truffes et qui en indiquait l’existence, PAMPHIL. (ATH. <i>62d</i>).<p><b>Étym</b>. ὕδνον, φύλλον.`

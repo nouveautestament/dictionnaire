@@ -1,0 +1,1 @@
+lar[83562]=`<b>προ·αναμαλάσσω</b> <font color="purple">[μᾰ]</font> assouplir d’abord par des émollients, HPC. <i>Art. 838 (corr. p</i>. προσανα-, <i>v</i>. HPC. <i>4, 316 Littré</i>).`

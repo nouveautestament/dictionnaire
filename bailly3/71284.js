@@ -1,0 +1,1 @@
+lar[71284]=`<b>ή, όν</b>, qui concerne Olynthe, ARSTT. <i>Rhet. 3, 10, etc.</i> ; λόγος, <i>titre des discours de Démosthène sur les affaires d’Olynthe,</i> les Olynthiennes.<p><b>Étym</b>. Ὄλυνθος.`

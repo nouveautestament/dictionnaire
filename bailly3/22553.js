@@ -1,0 +1,1 @@
+lar[22553]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῐδ]</font> petite vieille, XÉN. <i>An. 6, 1, 22</i> ; AR. <i>Pl. 536 ; p. contr</i>. γρᾴδιον, AR. <i>Pl. 674, 688, 1095</i> ; DÉM. <i>313, 29</i> ; PHILYLL. (ATH. <i>485b</i>).<p><b>Étym</b>. <i>dim. de</i> γραΐς.`

@@ -1,0 +1,1 @@
+lar[57656]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> Kratinos (Cratinus) :<br><b>      1</b> <i>poète de l’ancienne comédie,</i> AR. <i>Eq. 400, etc.</i><br><b>      2</b> <i>autres,</i> DÉM. <i>558, 6, etc</i>.`

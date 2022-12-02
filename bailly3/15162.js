@@ -1,0 +1,1 @@
+lar[15162]=`<b>οῦ (ὁ)</b> Arrhianos (Arrien) :<br><b>      1</b> <i>philosophe et historien de Nicomédie</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>App. 143, etc</i>.`

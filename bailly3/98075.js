@@ -1,0 +1,1 @@
+lar[98075]=`<b>ας (ἡ)</b> procréation d’enfants, génération, ANTH. <i>7, 568</i>.<p><b>Étym</b>. τεκνοσπόρος.`

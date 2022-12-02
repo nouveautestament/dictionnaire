@@ -1,0 +1,1 @@
+lar[35757]=`<b>ἐξ·ελευθεροστομέω-ῶ</b>, parler librement, SOPH. <i>Aj. 1258</i>.`

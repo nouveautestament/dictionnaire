@@ -1,0 +1,1 @@
+lar[7278]=`<b>Ἀναξ·αγόρας, ου (ὁ)</b> Anaxagoras (Anaxagore) :<br><b>      1</b> <i>philosophe célèbre,</i> XÉN. <i>Mem. 4, 7, 6</i> ; PLAT. <i>Phædr. 270a, etc.</i><br><b>      2</b> <i>autres,</i> DS. <i>4, 68, etc</i>.<p>➳ <i>Gén</i>. -α, P. SIL. <i>Ep. 6, 71, 4 Anthologia græca. Nom. ion</i>. -όρης, A. PL. <i>4, 239</i>.<p><b>Étym</b>. ἄναξ, ἀγορά.`

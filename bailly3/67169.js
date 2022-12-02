@@ -1,0 +1,1 @@
+lar[67169]=`<b>ου (ὁ)</b> poisson à peau visqueuse, <i>p.-ê</i>. lamproie, ATH. <i>306e</i>, f.<p><b>Étym</b>. <i>cf</i>. μύξα.`

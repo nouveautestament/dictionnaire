@@ -1,0 +1,1 @@
+lar[36836]=`<b>ἐπ·ατρεμέω-ῶ</b> (<i>sbj. ao</i>. -ήσῃ) rester immobile, en repos, HPC. <i>Art. 800</i>.`

@@ -1,0 +1,1 @@
+lar[66456]=`<b>      1 <i>intr.</i></b> être seul, vivre seul, ANTH. <i>5, 66 ; t. eccl</i>. ὁ μονάζων, BAS. <i>4, 293 Migne, c</i>. μοναχός.<br><b>      2 <i>tr.</i></b> multiplier par un, <i>acc</i>. JAMBL. <i>Nicom. ar. p. 86a</i>.<p><b>Étym</b>. μονάς.`

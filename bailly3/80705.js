@@ -1,0 +1,1 @@
+lar[80705]=`<b>ή, όν</b> <font color="purple">[ᾰτ]</font> de Platée, platéen, HDT. <i>9, 25, etc.</i> ; ἡ Πλαταιϊκή (<i>s.-e</i>. χώρα) PLUT. <i>Arist. 11</i>, le territoire de Platée ; τὰ Πλαταιϊκά, HDT. <i>9, 38, 126</i>, le temps de la guerre de Platée.<p>➳ <i>Dans les inscr. att</i>. Πλαταιϊκός (<i>non</i> Πλαταϊκός), <i>v. Meisterh. p. 26, 8</i>.<p><b>Étym</b>. Πλάταια.`

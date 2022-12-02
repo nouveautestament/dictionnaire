@@ -1,0 +1,1 @@
+lar[106801]=`<b>ης (ἡ)</b> Phratagounè, <i>femme de Darius I<sup>er</sup>, le fils d’Hystaspe,</i> HDT. <i>7, 224</i>.`

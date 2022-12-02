@@ -1,0 +1,1 @@
+lar[23302]=`<i>gén</i>. <b>ιδος</b>, <i>adj. f</i>. terrible, <i>en parl. des Érinyes,</i> OD. <i>15, 234 ; d’Hékatè,</i> THCR. <i>Idyl. 2, 14 ; etc</i>.<p><b>Étym</b>. <i>Orig. inconnue</i>.`

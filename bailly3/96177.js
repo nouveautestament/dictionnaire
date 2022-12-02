@@ -1,0 +1,1 @@
+lar[96177]=`<b>συν·ομοιόω-ῶ</b>, rendre entièrement semblable, DH. <i>4, 3</i> ; PLUT. <i>M. 1003a</i>.`

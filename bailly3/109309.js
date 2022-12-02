@@ -1,0 +1,1 @@
+lar[109309]=`<b>χρυσο·χόος, όου (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> celui qui dore les cornes des victimes, OD. <i>3, 425</i>.<br><b>      2</b> fondeur d’or, PLUT. <i>M. 658d.</i><br><b>      3</b> orfèvre, AR. <i>Lys. 408</i> ; DÉM. <i>520, 3, etc</i>.<p><b>Étym</b>. χρ. χέω.`

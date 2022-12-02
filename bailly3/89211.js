@@ -1,0 +1,1 @@
+lar[89211]=`<b>ης (ἡ)</b> saupe, <i>poisson de mer,</i> EPICH. (ATH. <i>321d</i>).`

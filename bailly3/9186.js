@@ -1,0 +1,1 @@
+lar[9186]=`être irréfléchi <i>ou</i> insensé, HÉNIOCH. (STOB. <i>Fl. 43, 27</i>) ; PLAT. <i>Phil. 12d</i>.<p><b>Étym</b>. ἀνόητος.`

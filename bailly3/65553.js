@@ -1,0 +1,1 @@
+lar[65553]=`<b>μητροκτονέω-ῶ</b>, tuer sa mère, ESCHL. <i>Eum. 202</i> ; EUR. <i>Or. 887</i> ; ARSTT. <i>Nic. 3, 1</i>.<p><b>Étym</b>. μητροκτόνος.`

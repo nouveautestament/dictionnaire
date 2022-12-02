@@ -1,0 +1,1 @@
+lar[11616]=`<b>ἀπειρ·ωδίν, ῖνος</b> <font color="purple">[ᾰῑ]</font> <i>adj. f</i>. qui ne connaît pas les douleurs de l’enfantement, NONN. <i>D. 16, 152</i>.<p><b>Étym</b>. ἄ. ὠδίς.`

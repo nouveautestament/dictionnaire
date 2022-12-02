@@ -1,0 +1,1 @@
+lar[65715]=`<b>μικρό·λυπος, ος, ον</b> <font color="purple">[ῑῡ]</font> qui s’afflige pour des riens, PLUT. <i>M. 129c</i>.<p><b>Étym</b>. μ. λύπη.`

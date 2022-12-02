@@ -1,0 +1,1 @@
+lar[20547]=`<b>ου</b>, <i>adj. m</i>. qui concerne les bœufs, de bœuf, EUR. <i>Hipp. 537</i> ; ὁ β. ESCHL. <i>Pr. 569 ; Ag. 719</i> ; EUR. <i>Andr. 280, etc</i>. bouvier.<p>➳ <i>Dor</i>. βούτας, <i>gén</i>. -α, THCR. <i>Idyl. 1, 80</i>.<p><b>Étym</b>. βοῦς.`

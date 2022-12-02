@@ -1,0 +1,1 @@
+lar[31719]=`<b>ἐκ·νήφω</b>, se dégriser, LYNC. (ATH. <i>130b</i>) ; ANTH. <i>5, 135 ; fig</i>. venir à résipiscence, PLUT. <i>Dem. 20</i> ; SPT. <i>Gen. 9, 24 ; 1Reg. 25, 37 ; Sir. 34, 2 ; Joel 1, 5</i> ; NT. <i>1Cor. 15, 34</i>.`

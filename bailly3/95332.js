@@ -1,0 +1,1 @@
+lar[95332]=`<b>συν·εκβοηθέω-ῶ</b>, porter secours ensemble <i>ou</i> en même temps, DS. <i>Exc. 511, 70</i>.`

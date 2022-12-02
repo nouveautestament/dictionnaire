@@ -1,0 +1,1 @@
+lar[19769]=`<b>βιο·πλανής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui cherche sa vie en errant, vagabond, mendiant, CALL. <i>(Bkk. 1253, au plur. nomin</i>. βιοπλανές <i>poét. p</i>. -πλανέες).<br><b>      2</b> dont la vie est agitée, inconstant, NONN. <i>Jo. 195, 7</i>.<p><b>Étym</b>. β. πλανάομαι.`

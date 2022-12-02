@@ -1,0 +1,1 @@
+lar[42153]=`<b>εὐ·θαλής, ής, ές</b> <font color="purple">[ᾰ]</font> qui pousse bien, dont la végétation est florissante, ESCHL. <i>fr. 304</i> ; ORPH. <i>Arg. 910</i> ; ANTH. <i>9, 3</i> ; PLUT. <i>M. 409a</i>.<p>•<i> Cp</i>. -έστερος, SABIN. <i>p. 240 Matthäi</i>.<p><b>Étym</b>. εὖ, θάλλω ; <i>cf</i>. εὐθαλής².`

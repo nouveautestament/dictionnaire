@@ -1,0 +1,1 @@
+lar[10030]=`<b>οντος (ὁ)</b> semblable à un lion, AR. <i>Eq. 1044</i>.`

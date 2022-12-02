@@ -1,0 +1,1 @@
+lar[505]=`<font color="purple">[ᾰ]</font> agir bassement, TÉLÈS (STOB. <i>Fl. 68, 6).</i><p><b>Étym</b>. ἀγεννής.`

@@ -1,0 +1,1 @@
+lar[86767]=`<i>adv</i>., auparavant, JOS.<p><b>Étym</b>. πρότερος.`

@@ -1,0 +1,1 @@
+lar[3907]=`<b>ας (ἡ) :<br>      1</b> vêtement léger des Perses, DÉMOCR. (ATH. <i>525d</i>).<br><b>      2</b> pilier de marbre, CLÉARQ. (ATH. <i>648f</i>).<p><b>Étym</b>. <i>fém. de</i> ἀκταῖος.`

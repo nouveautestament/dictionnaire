@@ -1,0 +1,1 @@
+lar[56800]=`<b>ου (τὸ)</b> <i>touj. au pl.</i> :<br><b>      1</b> salaire d’un porteur, d’un messager, EUR. <i>H.f. 1387</i>.<br><b>      2</b> récompense à celui qui a sauvé <i>ou</i> protégé, ESCHL. <i>Ag. 965</i>.<p><b>Étym</b>. κομίζω.`

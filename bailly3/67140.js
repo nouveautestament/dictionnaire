@@ -1,0 +1,1 @@
+lar[67140]=`<b>μυλο·ειδής, ής, ές</b> <font color="purple">[ῠ]</font> qui ressemble à une meule, IL. <i>7, 270</i> ; BATR. <i>217</i>.<p><b>Étym</b>. μύλη, εἶδος.`

@@ -1,0 +1,1 @@
+lar[839]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font> qui concerne le commerce, PLAT. <i>Crat. 408a ;</i> ἡ ἀγοραστική (<i>s.-e</i>. τέχνη) PLAT. <i>Soph. 223c</i>, le commerce.`

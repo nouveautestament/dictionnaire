@@ -1,0 +1,1 @@
+lar[90363]=`<b>εως (τὸ)</b> <font color="purple">[ῐᾱῐ]</font> sénevé, <i>d’où</i> moutarde, ANAXIPP. (<i>Com. fr. 4, 460</i>) ; NT. <i>Matth. 13, 31 ; Marc. 4, 31, etc</i>.<p>➳ <i>Les Att. emploient de préférence</i> νᾶπυ, <i>v</i>. ATH. <i>367a</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. σίναπυ, σίνηπι, σίνηπυ.`

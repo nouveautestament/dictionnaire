@@ -1,0 +1,1 @@
+lar[24829]=`<b>ή, όν</b> <font color="purple">[ῑ]</font> des Dies, THC. <i>7, 27</i>.<p><b>Étym</b>. Δῖοι.`

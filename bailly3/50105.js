@@ -1,0 +1,1 @@
+lar[50105]=`<b>ἰχνο·σκοπέω-ῶ</b>, observer ou suivre la trace, ESCHL. <i>Ch. 228 ; fig</i>. PLUT. <i>M. 399a</i>.<p><b>Étym</b>. ἴχνος, σκοπέω.`

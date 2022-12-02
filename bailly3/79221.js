@@ -1,0 +1,1 @@
+lar[79221]=`<b>ῆς (ἡ)</b> écoulement (d’un fleuve, <i>etc</i>.) vers un point déterminé, PLAT. <i>Phæd. 111e</i>.<p><b>Étym</b>. περιρρέω.`

@@ -1,0 +1,1 @@
+lar[13584]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> détermination, PROCL. <i>Sph. 27, p. 48</i>.`

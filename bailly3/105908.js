@@ -1,0 +1,1 @@
+lar[105908]=`<b>ας (ἡ)</b> <font color="purple">[ῐμᾰ]</font> désir d’apprendre, PLAT. <i>Rsp. 499e, Tim. 90b ;</i> ARSTT. <i>Nic. 3, 10, 2</i>.<p><b>Étym</b>. φιλομαθής.`

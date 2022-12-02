@@ -1,0 +1,1 @@
+lar[50861]=`<b>κακοστομαχέω-ῶ</b> <font color="purple">[ᾰᾰ]</font> souffrir de l’estomac, SEXT. <i>196, 729</i>.<p><b>Étym</b>. κακοστόμαχος.`

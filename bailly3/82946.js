@@ -1,0 +1,1 @@
+lar[82946]=`<b>η, ον</b>, en quel nombre ? πόστον δὴ ἔτος ἐστὶν ὅτε ; OD. <i>24, 288,</i> combien y a-t-il d’années depuis que ? <i>etc.</i> ; XÉN. <i>Cyr. 4, 1, 16, etc.</i> ; πόστη (<i>s.-e</i>. ὥρα) ; AR. <i>fr. 210 Dind</i>. à quelle heure ?<p><b>Étym</b>. πόσος.`

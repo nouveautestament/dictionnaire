@@ -1,0 +1,1 @@
+lar[100470]=`<b>τρισ·μακάριος, α, ον</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. τρίσμακαρ AR. <i>Ach. 400, Vesp. 1293, etc.</i> ; PHILÉM. (STOB. <i>Fl. 98, 14</i>).`

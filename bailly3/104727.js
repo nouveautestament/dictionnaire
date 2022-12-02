@@ -1,0 +1,1 @@
+lar[104727]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font> Phalakra (<i>litt</i>. Chauve) :<br><b>      1</b> <i>cime de l’Ida,</i> COL. <i>14</i>.<br><b>      2</b> <i>contrée de l’Inde,</i> EL. <i>N.A. 8, 15</i>.<p><b>Étym</b>. φαλακρός.`

@@ -1,0 +1,1 @@
+lar[33389]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en s’approchant, NIC. <i>Al. 215</i>.<p><b>Étym</b>. ἐμπελάζω, -δην ; <i>cf</i>. ἐμπελαδόν.`

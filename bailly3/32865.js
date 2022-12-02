@@ -1,0 +1,1 @@
+lar[32865]=`<b>ατος (τὸ)</b> ce qu’on traîne, proie livrée en pâture, EUR. <i>H.f. 568</i>.<p><b>Étym</b>. ἑλκέω.`

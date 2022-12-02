@@ -1,0 +1,1 @@
+lar[80686]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>fém. de</i> πλάστης, EL. <i>N.A. 5, 42</i>.`

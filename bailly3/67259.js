@@ -1,0 +1,1 @@
+lar[67259]=`<b>μυριο·πλάσιος, ος, ον</b> <font color="purple">[ῡᾰ]</font> dix mille fois aussi grand <i>ou</i> qui se renouvelle une infinité de fois, XÉN. <i>Œc. 8, 22</i> ; SPT. <i>Ps. 67, 18</i>.<p><b>Étym</b>. μ. -πλάσιος.`

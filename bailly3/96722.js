@@ -1,0 +1,1 @@
+lar[96722]=`<b>συ·στυγνάζω</b>, s’attrister ensemble, SIMPL. <i>Epict. p. 366 Schweigh</i>.`

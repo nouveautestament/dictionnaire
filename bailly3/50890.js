@@ -1,0 +1,1 @@
+lar[50890]=`<b>κακοτυχέω-ῶ</b> <font color="purple">[ᾰῠ]</font> être malheureux, THC. <i>2, 60</i>.<p><b>Étym</b>. κακοτυχής.`

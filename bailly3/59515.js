@@ -1,0 +1,1 @@
+lar[59515]=`<b>ά, όν</b>, impudent, effronté, NIC. <i>Th. 689, Al. 576</i>.<p>•<i> Cp</i>. -ότερος, MAX. <i>π. κατ. 438</i>.`

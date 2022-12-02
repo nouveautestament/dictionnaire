@@ -1,0 +1,1 @@
+lar[103892]=`<b>ὑπο·στηρίζω</b>, soutenir, étayer, appuyer, SPT. <i>Ps. 36, 17, etc.</i> ; LUC. <i>H. conscr. 3, V.H. 1, 32</i>.`

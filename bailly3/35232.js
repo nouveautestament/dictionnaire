@@ -1,0 +1,1 @@
+lar[35232]=`<b>ἐν·ωτο·κοῖται, ῶν</b>, <i>ou</i> <b>-κοιτοι, ων (οἱ)</b> qui ont des oreilles assez larges pour leur servir de lit, <i>nom d’un peuple fabuleux,</i> STR. <i>70, 711</i>.<p><b>Étym</b>. ἐν, οὖς, κοίτη.`

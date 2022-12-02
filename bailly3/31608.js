@@ -1,0 +1,1 @@
+lar[31608]=`<b>ἐκ·λιπαίνω</b> <font color="purple">[ῑ]</font><br><b>      1</b> engraisser, <i>d’où au pass</i>. devenir gras, PLUT. <i>Mar. 21</i>.<br><b>      2</b> rendre uni comme une surface huileuse, POSIDIPP. (ATH. <i>318d</i>).`

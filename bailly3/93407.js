@@ -1,0 +1,1 @@
+lar[93407]=`<b>συγ·κατηρεφής, ής, ές</b>, entièrement couvert de, <i>dat</i>. LYC. <i>1280</i>.`

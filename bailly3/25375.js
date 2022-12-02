@@ -1,0 +1,1 @@
+lar[25375]=`<b>ή, όν</b> <font color="purple">[ρῑ]</font> scié en deux, scié, HPC. <i>V.C. 912</i>.<p><b>Étym</b>. *διαπριόω, <i>c</i>. διαπρίω.`

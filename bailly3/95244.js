@@ -1,0 +1,1 @@
+lar[95244]=`<b>συν·εγγράφω</b> <font color="purple">[ᾰ]</font> inscrire ensemble, DH. <i>6, 84</i> ; PLUT. <i>M. 763e</i>.<p>➳ <i>Fut 2 pass. 3 pl</i>. συνεγγραφήσονται, DH. <i>l. c</i>.`

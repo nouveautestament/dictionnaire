@@ -1,0 +1,1 @@
+lar[41880]=`<b>εὐ·διάφθαρτος, ος, ον</b>, qui se corrompt facilement, PLAT. <i>Leg. 845d</i>.<p><b>Étym</b>. εὖ, διαφθείρω.`

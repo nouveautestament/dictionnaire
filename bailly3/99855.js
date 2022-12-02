@@ -1,0 +1,1 @@
+lar[99855]=`<b>τραγο·κουρικός, ή, όν</b> <font color="purple">[ᾰ]</font> qui sert à tondre les boucs, LUC. <i>Pisc. 46</i>.<p><b>Étym</b>. τρ. κουρά.`

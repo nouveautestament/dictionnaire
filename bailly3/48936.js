@@ -1,0 +1,1 @@
+lar[48936]=`<b>ίδος</b> <font color="purple">[ῠ]</font> <i>adj. f</i>. d’Illyrie, SOPH. (HSCH.) ; PLUT. <i>M. 14b ; subst</i>. ἡ Ἰ. (<i>s.-e</i>. χώρα) ARSTT. <i>H.A. 8, 28, etc</i>. l’Illyrie.<p><b>Étym</b>. Ἰλλυρία.`

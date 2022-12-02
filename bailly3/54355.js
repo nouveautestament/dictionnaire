@@ -1,0 +1,1 @@
+lar[54355]=`<b>εως (ἡ)</b> action de se vanter, de se glorifier, PHILOD. <i>V. Herc. v. 1, p. 16</i> ; SPT. <i>1Par. 29, 13, etc.</i> ; NT. <i>Rom. 3, 27</i>.<p><b>Étym</b>. καυχάομαι.`

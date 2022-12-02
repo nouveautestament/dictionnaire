@@ -1,0 +1,1 @@
+lar[66231]=`<b>ατος (τὸ)</b> seul. <i>plur</i>. recherche en mariage, EUR. <i>Hel. 1514, etc. ; d’où</i> fiançailles, EUR. <i>Ph. 583</i>.<p><b>Étym</b>. μνηστεύω.`

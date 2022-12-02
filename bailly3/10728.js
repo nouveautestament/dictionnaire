@@ -1,0 +1,1 @@
+lar[10728]=`<i>adv</i>., sans reproche, PHIL. <i>1, 206</i>.`

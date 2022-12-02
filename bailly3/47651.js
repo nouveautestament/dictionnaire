@@ -1,0 +1,1 @@
+lar[47651]=`<b>(τὸ)</b> <i>indécl</i>. hardiesse, AR. <i>Eq. 17</i>.<p><b>Étym</b>. <i>cf</i>. θρασύς.`

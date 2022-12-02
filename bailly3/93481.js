@@ -1,0 +1,1 @@
+lar[93481]=`<b>εως (ἡ)</b> trame d’une destinée <i>ou</i> des événements, M. ANT. <i>2, 3 ; 3, 11</i>.<p><b>Étym</b>. συγκλώθω.`

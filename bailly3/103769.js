@@ -1,0 +1,1 @@
+lar[103769]=`<b>ὑπο·ρραπίζω</b> <font color="purple">[ᾰ]</font> frapper doucement, DH. <i>Comp. v. 14</i>.<p><b>Étym</b>. ὑ. ῥαπίζω.`

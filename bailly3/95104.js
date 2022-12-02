@@ -1,0 +1,1 @@
+lar[95104]=`<b>συν·διακαίω</b>, consumer avec <i>ou</i> en même temps, PLUT. <i>M. 752d</i>.`

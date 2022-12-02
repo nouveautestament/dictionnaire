@@ -1,0 +1,1 @@
+lar[38644]=`<b>εως (ἡ)</b> action de faire une surface plane, JAMBL. <i>Nicom. ar. p. 83</i>.<p><b>Étym</b>. ἐπιπεδόω.`

@@ -1,0 +1,1 @@
+lar[60323]=`<b>ή, όν</b>, de lion, PORPH. <i>Abst. 4, 16, p. 351</i>.<p><b>Étym</b>. λέων.`

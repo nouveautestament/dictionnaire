@@ -1,0 +1,1 @@
+lar[65650]=`<b>ου (ὁ)</b> insecte qui ronge les grains, TH. <i>C.P. 4, 15, 4</i>.`

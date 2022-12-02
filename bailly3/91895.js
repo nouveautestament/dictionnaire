@@ -1,0 +1,1 @@
+lar[91895]=`(<i>seul. prés</i>.) gazouiller, ARAT. <i>1024</i> ; TH. <i>Sign. 39</i>.`

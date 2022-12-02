@@ -1,0 +1,1 @@
+lar[16777]=`<b>ἀ·τεχνίτευτος, ος, ον</b> <font color="purple">[ῑ]</font> travaillé sans art, DH. <i>Lys. 8</i>.<p><b>Étym</b>. ἀ, τεχνιτεύω.`

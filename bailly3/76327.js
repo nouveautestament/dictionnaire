@@ -1,0 +1,1 @@
+lar[76327]=`<b>εως (ἡ) :<br>      1</b> observation des astres, des augures, etc. DS. <i>1, 28, etc.</i> ; contemplation, NT. <i>Luc. 17, 20</i>.<br><b>      2</b> action d’épier, surveillance, POL. <i>16, 22, 8</i> ; PLUT. <i>M. 266a.</i><br><b>      3</b> <i>t. de gr</i>. observation, remarque, LGN <i>23</i>.<p><b>Étym</b>. παρατηρέω.`

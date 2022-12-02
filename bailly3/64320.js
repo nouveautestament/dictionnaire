@@ -1,0 +1,1 @@
+lar[64320]=`<b>ου</b>, <i>acc</i>. ην (ὁ) Ménesthès, <i>h</i>. IL. <i>5, 609</i> ; ATH. (PLUT. <i>Thes. 17</i>).`

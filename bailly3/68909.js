@@ -1,0 +1,1 @@
+lar[68909]=`<b>ορος (ὁ)</b> = <i>lat</i>. Numitor, <i>n. d’h. rom</i>. PLUT. <i>Rom. 3</i> ; ANTH. <i>3, 19</i>.`

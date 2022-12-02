@@ -1,0 +1,1 @@
+lar[82279]=`<b>(ὁ)</b> <font color="purple">[ῠ]</font> Polypœtès, <i>fils de Pirithoüs, prétendant d’Hélène,</i> IL. <i>6, 29, etc</i>.<p>➳ <i>Gén. épq</i>. -αο <font color="purple">[ᾱ]</font> IL. <i>23, 848</i>.`

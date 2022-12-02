@@ -1,0 +1,1 @@
+lar[65727]=`<b>ή, όν</b> <font color="purple">[ῑῑτ]</font> de petite ville : τὸ μικροπολιτικόν, AR. <i>fr. 649,</i> condition de petite ville.<p><b>Étym</b>. μικροπολίτης.`

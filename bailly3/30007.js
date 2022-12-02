@@ -1,0 +1,1 @@
+lar[30007]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> un peu de nourriture, PROCL. <i>Hes. O. 41</i>.<p><b>Étym</b>. ἔδεσμα.`

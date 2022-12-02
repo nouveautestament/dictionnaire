@@ -1,0 +1,1 @@
+lar[17814]=`<b>ατος (τὸ) :<br>      1</b> sujet d’orgueil, SOPH. <i>O.C. 70 ; d’où</i> réputation, gloire, SOPH. <i>O.C. 713</i> ; THC. <i>7, 75 ; etc.</i><br><b>      2</b> présomption, jactance, orgueil, THC. <i>2, 62 ; 7, 66</i> ; PLAT. <i>etc</i>.<p><b>Étym</b>. αὐχέω.`

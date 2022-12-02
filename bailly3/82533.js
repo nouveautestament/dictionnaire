@@ -1,0 +1,1 @@
+lar[82533]=`<b>πολυ·φράστος, ος, ον</b>, très réfléchi, très prudent, très habile, PARMÉN. (<i>Fragm. philos. 1, 114 Mullach</i>) ; OPP. <i>C. 4, 6</i> ; NONN. <i>D. 4, 275</i>.<p><b>Étym</b>. π. φράζω.`

@@ -1,0 +1,1 @@
+lar[54159]=`<b>ή, όν</b>, qui concerne les miroirs, de miroir, PLUT. <i>M. 892f, etc</i>.<p><b>Étym</b>. κάτοπτρον.`

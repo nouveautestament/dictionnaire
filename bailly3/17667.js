@@ -1,0 +1,1 @@
+lar[17667]=`<b>ή, όν</b>, qui dépend du témoignage des yeux, SCYMN. <i>128</i>.<p><b>Étym</b>. αὐτόπτης.`

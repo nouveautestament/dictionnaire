@@ -1,0 +1,1 @@
+lar[37107]=`<b>ἐπ·εντύνω</b> <font color="purple">[ῡ]</font> équiper pour <i>ou</i> contre, <i>d’où</i> : préparer contre, armer contre : χεῖρα ἐπί τινι, SOPH. <i>Aj. 451 (conj</i>. ἐπευθύνοντα) armer son bras contre qqn.<br><b><i>Moy.</i></b> se préparer : ἄεθλα, OD. <i>24, 89,</i> pour remporter le prix de la lutte ; <i>avec l’inf</i>. A.RH. <i>1, 720</i>.`

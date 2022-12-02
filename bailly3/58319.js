@@ -1,0 +1,1 @@
+lar[58319]=`<font color="purple">[ᾰ]</font> désigner <i>ou</i> décider par le sort au moyen de fèves, DÉM. <i>747, 3</i>.<p><b>Étym</b>. κύαμος.`

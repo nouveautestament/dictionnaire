@@ -1,0 +1,1 @@
+lar[74751]=`<b>παμ·πολυτελής, ής, ές</b>, tout à fait magnifique, JOS. <i>A.J. 17, 8, 1</i>.`

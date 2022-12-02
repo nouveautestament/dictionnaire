@@ -1,0 +1,1 @@
+lar[97023]=`se plaindre, être mécontent <i>ou</i> s’irriter, AR. <i>Pl. 477</i> ; PLAT. <i>Gorg. 519b ;</i> ANT. <i>124, 17, etc.</i> ; ἐπί τινι, DÉM. <i>913, 9 ; ou</i> τι, PLUT. <i>Cam. 31</i> ; ARISTÉN. <i>1, 6,</i> de qqe ch.<p><b>Étym</b>. σχέτλιος.`

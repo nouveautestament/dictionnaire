@@ -1,0 +1,1 @@
+lar[101178]=`<b>τυφλ·άγκιστρον, ου (τὸ)</b> crochet <i>ou</i> pince de chirurgien pour explorer les parties cachées de certains organes, P. ÉG. <i>6, 5, 62</i>.<p><b>Étym</b>. τυφλός, ἄγκ.`

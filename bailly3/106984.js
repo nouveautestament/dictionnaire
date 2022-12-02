@@ -1,0 +1,1 @@
+lar[106984]=`<font color="purple">[ῠ]</font> <i>adv.</i> :<br><b>      1</b> dans la langue phrygienne, en phrygien, HDN GR.<br><b>      2</b> selon le mode phrygien, PLAT. <i>Lach. 188d, Rsp. 399a ;</i> ARSTT. <i>Pol. 4, 3, 7 ; 8, 5, 22, etc</i>.<p><b>Étym</b>. Φρύξ.`

@@ -1,0 +1,1 @@
+lar[29114]=`<b>δωδεκά·φυλλος, ος, ον</b> <font color="purple">[ᾰ]</font> à douze feuilles, TH. <i>H.P. 6, 6, 4</i>.<p><b>Étym</b>. δ. φύλλον.`

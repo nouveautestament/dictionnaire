@@ -1,0 +1,1 @@
+lar[78406]=`<b>περι·ασθμαίνω :<br>      1</b> caresser de son souffle, <i>acc</i>. A. TAT. <i>4, 4</i>.<br><b>      2</b> souffler avec force, HLD. <i>8, 9</i>.`

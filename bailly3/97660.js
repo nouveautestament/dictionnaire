@@ -1,0 +1,1 @@
+lar[97660]=`<b>ου (τὸ)</b> <font color="purple">[γᾰ]</font> vin sur <i>ou</i> vin éventé, PHŒN. COL. (ATH. <i>495e</i>).`

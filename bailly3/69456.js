@@ -1,0 +1,1 @@
+lar[69456]=`<b>Ξενό·δημος, ου (ὁ)</b> Xénodèmos, <i>h</i>. ATH. <i>15d</i>.<p>➳ <i>Dor</i>. Ξενόδαμος <font color="purple">[ᾱ]</font> PLUT. <i>M. 1134b</i>.<p><b>Étym</b>. ξ. δῆμος.`

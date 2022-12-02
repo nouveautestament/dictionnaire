@@ -1,0 +1,1 @@
+lar[69105]=`<i>c</i>. νυκτερήσιος, <i>avec jeu de mot sur</i> ἐρείδω, AR. <i>Th. 204</i>.`

@@ -1,0 +1,1 @@
+lar[100360]=`<b>τριπλασι·επίπεμπτος, ος, ον</b> <font color="purple">[ᾰπῐ]</font> trois fois un cinquième aussi grand, NICOM. <i>Arithm. 1, 22</i>.<p><b>Étym</b>. τρ. ἐπίπεμπτος.`

@@ -1,0 +1,1 @@
+lar[71481]=`<b>ὁμο·εθνής, ής, ές :<br>      1</b> du même peuple <i>ou</i> de la même race, HDT. <i>1, 91</i> ; ARSTT. <i>Rhet. 2, 6</i> ; POL. <i>30, 6, 7, etc.</i><br><b>      2</b> de la même espèce, ARSTT. <i>Nic. 8, 1, 3</i> ; EL. <i>N.A. 13, 3</i>.<p><b>Étym</b>. ὁμ. ἔθνος.`

@@ -1,0 +1,1 @@
+lar[60185]=`<i>vb. de</i> λείπω, EUR. <i>H.f. 1385</i> ; PLAT. <i>Rsp. 400b, etc</i>.`

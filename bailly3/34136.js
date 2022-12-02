@@ -1,0 +1,1 @@
+lar[34136]=`<b>ἐν·δέμω :<br>      1</b> bâtir dans, <i>dat</i>. THCR. <i>Idyl. 17, 82</i>.<br><b>      2</b> fortifier, munir de constructions, <i>acc</i>. HDT. <i>3, 117</i>.<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐνεδείματο)</font> bâtir pour soi, NIC. <i>Th. 419</i>.<p>➳ <i>Pf. pass. 3 pl</i>. ἐνδέδμηνται, THCR. <i>Idyl. l. c</i>.`

@@ -1,0 +1,1 @@
+lar[29666]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui accuse, ANTH. <i>5, 188, dout</i>.<p><b>Étym</b>. ἐγκαλέω.`

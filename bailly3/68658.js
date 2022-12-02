@@ -1,0 +1,1 @@
+lar[68658]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui concerne le jeûne, SYN. <i>172c</i>.<p><b>Étym</b>. νῆστις.`

@@ -1,0 +1,1 @@
+lar[94630]=`<b>ή, όν</b>, amassé, recueilli, PORPH. <i>Abst. 1, 42</i>.<p><b>Étym</b>. <i>vb. de</i> συνάγω.`

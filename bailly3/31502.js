@@ -1,0 +1,1 @@
+lar[31502]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> ce qu’on sépare <i>ou</i> ce qui se sépare, TH. <i>Ign. 76</i>.<p><b>Étym</b>. ἐκκρίνω.`

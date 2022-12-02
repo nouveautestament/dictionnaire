@@ -1,0 +1,1 @@
+lar[12081]=`<b>ας (ἡ)</b> incision simple, ANTYLL. (ORIB. <i>3, 572 B.-Dar</i>.).<p><b>Étym</b>. <i>v</i>. ἁπλοτομέω.`

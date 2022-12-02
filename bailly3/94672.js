@@ -1,0 +1,1 @@
+lar[94672]=`<b>συν·αμαρτάνω</b> <font color="purple">[ᾰμ]</font> se tromper ensemble, être complice d’une faute, PLUT. <i>M. 53c</i>.<p><b>Étym</b>. σ. ἁμαρτάνω.`

@@ -1,0 +1,1 @@
+lar[1510]=`<b>ᾁδο·φοίτης, ου (ὁ)</b> <font color="purple">[ᾱ]</font> qui va chez Hadès (aux enfers) AR. <i>fr. 1</i>.<p><b>Étym</b>. ᾅδης, φοιτάω.`

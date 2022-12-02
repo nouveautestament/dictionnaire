@@ -1,0 +1,1 @@
+lar[8704]=`<b>ἀν·ηλιάζω</b>, exposer au soleil, PROTAGORID. (ATH. <i>124e</i>).<p><b>Étym</b>. ἀνά, ἡλ.`

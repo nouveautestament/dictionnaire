@@ -1,0 +1,1 @@
+lar[31161]=`<b>ἐκ·δεινόω-ῶ</b> (<i>part. prés</i>.) grossir, exagérer, JOS. <i>A.J. 17, 5, 5</i>.`

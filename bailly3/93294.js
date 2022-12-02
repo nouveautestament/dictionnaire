@@ -1,0 +1,1 @@
+lar[93294]=`<b>εως (ἡ) :<br>      1</b> assentiment, approbation, POL. <i>2, 58, 11 ; particul. t. stoïc</i>. accord de l’esprit avec les perceptions, PLUT. <i>M. 1055b, 1056c, etc.</i><br><b>      2</b> concorde, NT. <i>2Cor. 6, 16</i>.<br><b>      3</b> soumission, PLUT. <i>Ant. 24</i>.<p><b>Étym</b>. συγκατατίθημι.`

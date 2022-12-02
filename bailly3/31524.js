@@ -1,0 +1,1 @@
+lar[31524]=`<b>ἐκ·κυμαίνω</b> <font color="purple">[ῡ]</font><br><b>      1 <i>intr.</i></b> déborder comme un flot montant, <i>en parl. d’une ligne de soldats,</i> XÉN. <i>An. 1, 8, 18</i>.<br><b>      2 <i>tr.</i></b> rejeter avec la vague, <i>d’où au pass</i>. être rejeté par les flots, DH. <i>10, 53</i> ; ATH. <i>283c</i>.`

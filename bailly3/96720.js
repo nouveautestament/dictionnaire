@@ -1,0 +1,1 @@
+lar[96720]=`<b>ας (ἡ) :<br>      1</b> adresse à se retourner, finesse, ruse, POL. <i>24, 2, 2</i>.<br><b>      2</b> relations habituelles, liaison, DH. <i>Din. 7</i>.<p><b>Étym</b>. συστροφή.`

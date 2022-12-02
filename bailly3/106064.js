@@ -1,0 +1,1 @@
+lar[106064]=`<b>φιλο·ρρήτωρ, ορος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui aime les orateurs <i>ou</i> l’éloquence, CIC. <i>Att. 1, 13</i>.<p><b>Étym</b>. φ. ῥήτωρ <i>de</i> *ϝρήτωρ.`

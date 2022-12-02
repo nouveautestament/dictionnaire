@@ -1,0 +1,1 @@
+lar[17541]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> (<i>s.-e</i>. οἰκία) résidence d’un souverain absolu, résidence impériale, JOS. <i>A.J. 18, 2, 1</i>.`

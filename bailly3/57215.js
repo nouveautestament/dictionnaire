@@ -1,0 +1,1 @@
+lar[57215]=`<b>ων (οἱ)</b> habitants de Korôneia, HDT. <i>5, 79</i> ; THC. <i>4, 93</i>.<p><b>Étym</b>. <i>v</i>. Κορώνεια.`

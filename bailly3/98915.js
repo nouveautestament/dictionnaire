@@ -1,0 +1,1 @@
+lar[98915]=`<b>ατος (τὸ)</b> blancheur éclatante de la peau, <i>signe de lèpre,</i> SPT. <i>Lev. 13, 23</i>.<p><b>Étym</b>. τηλαυγής.`

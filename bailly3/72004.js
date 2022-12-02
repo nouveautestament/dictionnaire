@@ -1,0 +1,1 @@
+lar[72004]=`<b>ή, όν</b>, méprisable, IL. <i>9, 164</i> ; LYC. <i>1235</i>.<p><b>Étym</b>. <i>vb. de</i> ὄνομαι.`

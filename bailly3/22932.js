@@ -1,0 +1,1 @@
+lar[22932]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> connaissance, science, expérience, A.RH. <i>4, 1273 ; au pl. 2, 175</i>.<p><b>Étym</b>. δαήμων.`

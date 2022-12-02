@@ -1,0 +1,1 @@
+lar[77483]=`<b>παχυ·μερής, ής, ές</b> <font color="purple">[ᾰῠ]</font> formé de parties épaisses, gros, épais, ARSTT. <i>Probl. 3, 14</i> ; τὸ παχυμερές, DL. <i>7, 142,</i> partie dense.<p>•<i> Cp</i>. -έστερος, T. LOCR. <i>100e ;</i> ARSTT. <i>Cæl. 3, 5, 8 ; • Sup</i>. -έστατος, PLUT. <i>M. 877</i>.<p><b>Étym</b>. π. μέρος.`

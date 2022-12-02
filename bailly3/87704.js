@@ -1,0 +1,1 @@
+lar[87704]=`<b>πυλωρέω-ῶ</b> <font color="purple">[ῠ]</font> garder la porte, LUC. <i>D. mort. 20, 1 ; avec un acc</i>. PLUT. <i>M. 980b ; fig</i>. HPC. <i>Ep. 1289, 20</i>.<p><b>Étym</b>. πυλωρός.`

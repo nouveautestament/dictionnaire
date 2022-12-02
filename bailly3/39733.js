@@ -1,0 +1,1 @@
+lar[39733]=`<b>εως (ἡ)</b> coloration superficielle, teinture <i>ou</i> tache qui reste à la surface, PLUT. <i>M. 382c</i>.<p><b>Étym</b>. ἐπιχρώννυμι.`

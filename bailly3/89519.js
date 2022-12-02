@@ -1,0 +1,1 @@
+lar[89519]=`<b>ῶν (οἱ)</b> les Satres, <i>pple thrace,</i> HDT. <i>7, 110</i>.<p>➳ <i>Gén. ion</i>. Σατρέων, HDT. <i>7, 111</i>.`

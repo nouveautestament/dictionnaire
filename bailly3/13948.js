@@ -1,0 +1,1 @@
+lar[13948]=`<b>ἀ·προσεξία, ας (ἡ)</b> inattention, négligence, ARR. <i>Epict. 4, 12, 5</i> ; ORIG. <i>3, 327e, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀπροσεκτέω.`

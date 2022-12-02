@@ -1,0 +1,1 @@
+lar[21774]=`<b>ος, ον</b>, qui tombe de soi-même, <i>en parl. de fruits mûrs (olives,</i> CALL. <i>fr. 50, cf</i>. δρυπετής ; <i>figues,</i> ATH. <i>56d</i>).`

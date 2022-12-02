@@ -1,0 +1,1 @@
+lar[33643]=`<font color="purple">[ῠ]</font> <i>adv</i>., dans le feu <i>ou</i> par le feu, PROCL. <i>Plat. Parm. 631 Stallb</i>.<p><b>Étym</b>. ἐμπύριος.`

@@ -1,0 +1,1 @@
+lar[92276]=`<b>στεγνο·παθέω-ῶ</b> <font color="purple">[ᾰ]</font> souffrir de constipation, SOR. <i>Obst. 213 Dietz</i>.<p><b>Étym</b>. στεγνός, πάθος.`

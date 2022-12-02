@@ -1,0 +1,1 @@
+lar[37430]=`<font color="purple">[ᾰῠ]</font> (<i>seul. prés</i>.) éprouver une grande joie de, <i>dat</i>. NYSS. <i>1, 782</i>.`

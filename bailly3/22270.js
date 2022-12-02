@@ -1,0 +1,1 @@
+lar[22270]=`<b>ου (τὸ)</b> cotonnière, <i>sorte de plante dont on remplissait les matelas,</i> DIOSC. <i>3, 132</i>.`

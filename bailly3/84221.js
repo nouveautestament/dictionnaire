@@ -1,0 +1,1 @@
+lar[84221]=`<b>εως (ἡ)</b> déclaration faite d’avance, DC. <i>38, 41</i>.<p><b>Étym</b>. προεπαγγέλλω.`

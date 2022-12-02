@@ -1,0 +1,1 @@
+lar[53139]=`<b>κατα·πορθμίας, ου</b>, <i>adj. m. (s.-e</i>. ἄνεμος) vent qui souffle du détroit, <i>en Sicile,</i> ARSTT. <i>Vent. 5</i>.<p><b>Étym</b>. κ. πορθμός.`

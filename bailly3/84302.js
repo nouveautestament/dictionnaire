@@ -1,0 +1,1 @@
+lar[84302]=`<b>προ·ζητέω-ῶ</b>, chercher d’avance <i>ou</i> auparavant, ARSTT. <i>Mem. 2, 9</i> ; SEXT. <i>P. 2, 9</i>.`

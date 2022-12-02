@@ -1,0 +1,1 @@
+lar[74548]=`<b>παλιμ·προδότης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui trahit tour à tour chaque parti, DIN. (POLL. <i>6, 164</i>) ; DS. <i>15, 91, etc</i>.<p><b>Étym</b>. π. προδότης.`

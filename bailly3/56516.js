@@ -1,0 +1,1 @@
+lar[56516]=`<b>α, ον</b>, qu’il faut <i>ou</i> qu’on peut communiquer, THÉM. <i>p. 23</i>.<p><b>Étym</b>. <i>vb. de</i> κοινόω.`

@@ -1,0 +1,1 @@
+lar[70315]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la maison, dans les foyers, dans sa patrie, <i>avec mouv</i>. OD. <i>5, 220, etc.</i> ; XÉN. <i>Hell. 7, 2, 19</i> ; PLAT. <i>Rsp. 328b, etc.</i> ; DÉM. <i>583, etc.</i> ; τὰ οἴκαδε ποθεῖν, XÉN. <i>Cyr. 1, 3, 4,</i> regretter son pays (<i>avec idée de tendance</i>), désirer d’y retourner.<p><b>Étym</b>. οἶκος, -δε.`

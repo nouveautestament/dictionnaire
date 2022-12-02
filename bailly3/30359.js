@@ -1,0 +1,1 @@
+lar[30359]=`<b>άδος (ἡ)</b> vingtaine, le nombre vingt, LUC. <i>Alex. 11</i> ; SEXT. <i>M. 4, 32</i>.<p><b>Étym</b>. εἴκοσι.`

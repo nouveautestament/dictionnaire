@@ -1,0 +1,1 @@
+lar[110599]=`<i>élis. poét. p</i>. ὦκα <i>dev. une aspirée</i>.`

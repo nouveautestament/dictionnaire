@@ -1,0 +1,1 @@
+lar[13887]=`<b>(ὁ)</b> Apriès, <i>roi d’Égypte,</i> HDT. <i>2, 161, etc</i>.<p>➳ <i>Gén. ion</i>. Ἀπρίεω, HDT. <i>2, 169, etc</i>.`

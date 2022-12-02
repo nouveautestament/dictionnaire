@@ -1,0 +1,1 @@
+lar[106834]=`<b>φρεν·απάτης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui abuse l’esprit, séducteur, NT. <i>Tit. 1, 10</i>.<p><b>Étym</b>. φρήν, ἀπατάω.`

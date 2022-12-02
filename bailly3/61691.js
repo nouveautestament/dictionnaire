@@ -1,0 +1,1 @@
+lar[61691]=`<b>ου (τὸ) :<br>      1</b> petite baignoire, ANTIPH. (POLL. <i>10, 46</i>).<br><b>      2</b> sorte de coupe, EPIGEN. (ATH. <i>486c</i>).<br><b>      3</b> bain, ESCHL. <i>fr. 332</i>.<p><b>Étym</b>. λουτήρ.`

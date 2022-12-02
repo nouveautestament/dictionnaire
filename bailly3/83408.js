@@ -1,0 +1,1 @@
+lar[83408]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Priam, comme de Priam, ARSTT. <i>Nic. 1, 10, 14</i>.<p><b>Étym</b>. Πρίαμος.`

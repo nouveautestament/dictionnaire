@@ -1,0 +1,1 @@
+lar[78496]=`<b>περι·γογγύζω</b>, murmurer <i>ou</i> bourdonner tout autour, PHOCYL. <i>fr. 6 Bgk</i>.`

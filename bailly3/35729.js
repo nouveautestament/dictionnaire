@@ -1,0 +1,1 @@
+lar[35729]=`<b>ἐξ·είργω</b>, contraindre, forcer, <i>seul. au pass</i>. être contraint : ἀναγκαίῃ, HDT. <i>7, 96,</i> par la nécessité ; νόμῳ, THC. <i>3, 70</i> ; ὑπὸ τοῦ νόμου, HDT. <i>9, 111,</i> par la loi ; <i>avec l’inf</i>. HDT. <i>7, 139,</i> être contraint de, <i>etc</i>.<p><b>Étym</b>. ἐξ, εἵργω.`

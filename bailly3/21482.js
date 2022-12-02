@@ -1,0 +1,1 @@
+lar[21482]=`<i>acc</i>. <b>-ιν (ὁ)</b> Gébéléïzis, <i>dieu des Gètes,</i> HDT. <i>4, 94</i>.`

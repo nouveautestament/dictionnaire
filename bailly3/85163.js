@@ -1,0 +1,1 @@
+lar[85163]=`<b>προσ·αναμιμνῄσκω</b>, faire ressouvenir : τινά τινος, POL. <i>4, 28, 6,</i> qqn de qqe ch.`

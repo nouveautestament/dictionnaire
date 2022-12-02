@@ -1,0 +1,1 @@
+lar[17520]=`<b>αὐτο·κερκίς, ίδος (ἡ)</b> la navette en soi, PROCL.`

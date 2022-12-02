@@ -1,0 +1,1 @@
+lar[24474]=`<b>δια·γελάω-ῶ :<br>      1</b> rire de, se moquer de, <i>acc</i>. EUR. <i>Bacch. 272, 322</i> ; XÉN. <i>An. 2, 6, 26</i> ; PLUT. <i>M. 1118c ;</i> LUC. <i>Nigr. 33, etc.</i><br><b>      2</b> prendre un air riant, <i>en parl. du temps,</i> TH. <i>H.P. 8, 2, 4 ; C.P. 4, 5, 1 ; du jour,</i> TH. <i>C.P. 1, 12, 8 ; 2, 1, 4 ; de la mer,</i> PLUT. <i>Cæs. 4, etc</i>.`

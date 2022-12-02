@@ -1,0 +1,1 @@
+lar[35103]=`<b>ος, ον</b>, local, du pays : ἐντόπιοι θεοί, PLAT. <i>Phædr. 262d</i>, dieux indigètes ; ἐ. πόλεμοι, DH. <i>8, 83,</i> guerres civiles.<p><b>Étym</b>. ἔντοπος.`

@@ -1,0 +1,1 @@
+lar[38997]=`<b>εως (ἡ) :<br>      1</b> recommandation, adjuration, IS. <i>78, 34 ; cf</i>. PLUT. <i>Dio. 11</i>.<br><b>      2</b> accusation de faux témoignage, PLAT. <i>Leg. 937b ;</i> DÉM. <i>1154, 22 ; 1161, 11</i>.<p><b>Étym</b>. ἐπισκήπτω.`

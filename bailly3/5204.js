@@ -1,0 +1,1 @@
+lar[5204]=`<b>ἄ·μαντις μαντική (ἡ)</b> divination qui n’en est pas une, ŒNOM. (EUS. <i>P.E. 213b</i>).<p><b>Étym</b>. ἀ, μάντις.`

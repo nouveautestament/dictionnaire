@@ -1,0 +1,1 @@
+lar[107093]=`<b>ης (ἡ)</b> <font color="purple">[ῠλᾰ]</font> gardienne, SPT. <i>Cant. 1, 6, etc</i>.<p><b>Étym</b>. φύλαξ.`

@@ -1,0 +1,1 @@
+lar[92459]=`<b>(ὁ)</b> Stéropès, <i>Cyclope,</i> HÉS. <i>Th. 140</i> ; CALL. <i>H. 3, 68, etc</i>.<p><b>Étym</b>. στεροπή.`

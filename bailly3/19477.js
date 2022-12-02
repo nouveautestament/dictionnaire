@@ -1,0 +1,1 @@
+lar[19477]=`<b>(τὸ)</b> <i>indécl.</i> :<br><b>      1</b> eau, ORPH. <i>fr. 19, 9</i>.<br><b>      2</b> air, PHILYLL. (CLÉM. <i>Str. 5, 47).</i><p><b>Étym</b>. <i>Mot phrygien d’orig. inconnue</i>.`

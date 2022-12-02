@@ -1,0 +1,1 @@
+lar[79309]=`<i>adv</i>., avec l’accent circonflexe, ATH. <i>400a</i>.<p><b>Étym</b>. περισπάω.`

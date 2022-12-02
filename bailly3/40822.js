@@ -1,0 +1,1 @@
+lar[40822]=`<b>Ἐρυξί·μαχος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Éryximakhos, <i>h</i>. PLAT. <i>Phædr. 268a, etc.</i> ; DÉM. <i>1016, 1</i>.<p><b>Étym</b>. ἔρυξις, μάχη.`

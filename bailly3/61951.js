@@ -1,0 +1,1 @@
+lar[61951]=`<b>ου (ὁ)</b> Lyxès, <i>père d’Hérodote,</i> LUC. <i>Dom. 20</i>.`

@@ -1,0 +1,1 @@
+lar[53379]=`<b>κατα·σκυθρωπάζω</b>, être de mauvaise humeur, en colère contre, <i>gén</i>. JOS. <i>A.J. 11, 5, 6</i>.`

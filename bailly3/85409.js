@@ -1,0 +1,1 @@
+lar[85409]=`<b>προσ·διαμαρτυρέω-ῶ</b> <font color="purple">[ῠ]</font> attester de plus, ESCHN. <i>46, 5</i> ; IS. <i>56, 9</i>.`

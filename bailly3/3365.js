@@ -1,0 +1,1 @@
+lar[3365]=`<i>adv</i>., sans héraut, THC. <i>1, 146</i>.`

@@ -1,0 +1,1 @@
+lar[91179]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> σίκυς ἄγριος, DIOSC. <i>4, 152</i>.<p><b>Étym</b>. σκορπίος.`

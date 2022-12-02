@@ -1,0 +1,1 @@
+lar[70023]=`<b>ὀβριμο·πάτρα</b>, <i>ion</i>. <b>ὀβριμο·πάτρη, ης</b> <font color="purple">[ῐ]</font> <i>adj. f</i>. au père robuste <i>ou</i> puissant, IL. <i>5, 747</i> ; OD. <i>3, 135</i> ; HÉS. <i>Th. 587</i> ; SOL. (DÉM. <i>421, 27) ; subst</i>. AR. <i>Eq. 1178</i>.<p><b>Étym</b>. ὄβριμος, πατήρ.`

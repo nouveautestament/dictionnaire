@@ -1,0 +1,1 @@
+lar[108990]=`<b>ή, όν</b>, qui concerne les oracles (<i>particul</i>. les oracles en vers), prophétique, LUC. <i>Alex. 22</i>.<p><b>Étym</b>. χρησμῳδός.`

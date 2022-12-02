@@ -1,0 +1,1 @@
+lar[13482]=`<b>ἀπο·συμβουλεύω</b>, déconseiller : τινὶ ποεῖν τι, ARR. <i>Epict. 1, 23, 3,</i> déconseiller à qqn de faire qqe ch.`

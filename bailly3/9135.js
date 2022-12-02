@@ -1,0 +1,1 @@
+lar[9135]=`<b>ἀν·ιστορέω-ῶ</b>, adresser une question, interroger : τινα, ESCHL. <i>Pr. 965</i> ; SOPH. <i>O.C. 991,</i> qqn ; τινα περί τινος, EUR. <i>Hipp. 92,</i> qqn sur qqe ch. ; τι, TH. <i>C.P. 1, 5, 5,</i> demander qqe ch.<p><b>Étym</b>. ἀνά, ἱ.`

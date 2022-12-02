@@ -1,0 +1,1 @@
+lar[105729]=`<b>φιλο·γυμναστέω-ῶ</b> <font color="purple">[ῐ]</font> avoir du goût pour les exercices du corps, PLAT. <i>Prot. 342c et e, Rsp. 452b ;</i> PLUT. <i>Lyc. 20</i>.<p><b>Étym</b>. φιλογυμναστής.`

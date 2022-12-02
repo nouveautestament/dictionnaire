@@ -1,0 +1,1 @@
+lar[51179]=`<b>καλλιόω-ῶ</b>, rendre plus beau, embellir, SPT. <i>Cant. 5, 10 ; 6, 10</i>.<p><b>Étym</b>. καλλίων.`

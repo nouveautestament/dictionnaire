@@ -1,0 +1,1 @@
+lar[18499]=`<b>ας (ἡ)</b> manque de ressources en vivres <i>ou</i> en argent, POL. <i>28, 8, 6</i>.<p><b>Étym</b>. ἀχορήγητος.`

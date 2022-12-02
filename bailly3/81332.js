@@ -1,0 +1,1 @@
+lar[81332]=`<font color="purple">[ῐ]</font> <i>adv. interr.</i> :<br><b>      1</b> où ? <i>sans mouv</i>. OD. <i>1, 170 ; 10, 325 ; 14, 187, etc.</i> ; SOPH. <i>Tr. 98</i> ; EUR. <i>Ph. 1718, etc. ; avec le gén</i>. EUR. <i>Bacch. 556 ; fig</i>. PD. <i>O. 10 (11) 2</i>.<br><b>      2</b> où, <i>avec mouv</i>. A.RH. <i>1, 242</i> ; ANTH. <i>7, 566</i>.<p><b>Étym</b>. *πός, -θι.`

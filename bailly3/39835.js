@@ -1,0 +1,1 @@
+lar[39835]=`<b>ἐπ·ολοφύρομαι</b> <font color="purple">[ῡ]</font> se lamenter sur, gémir sur, JOS. <i>B.J. 6, 4, 8 ; Proœm. 4</i>.`

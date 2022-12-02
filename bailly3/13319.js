@@ -1,0 +1,1 @@
+lar[13319]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> déplacement, <i>d’où</i> concentration (d’un mal) en qqe partie du corps, HPC. <i>1258e ;</i> ARÉT. <i>p. 37, 50, etc</i>.<p><b>Étym</b>. ἀποσκήπτω.`

@@ -1,0 +1,1 @@
+lar[26867]=`<b>διόρρωσις, εως (ἡ)</b> diorrhose, maladie du sang qui se tourne en sérosités, HPC. <i>460, 49</i>.<p><b>Étym</b>. διορρόω.`

@@ -1,0 +1,1 @@
+lar[42741]=`<b>ου (τὸ) :<br>      1</b> chambre à coucher, chambre conjugale, ESCHL. <i>Pers. 160</i> ; SOPH. <i>Tr. 920 (au plur</i>.).<br><b>      2</b> chambre nuptiale, EUR. <i>Or. 590</i>.<p><b>Étym</b>. εὐνάζω.`

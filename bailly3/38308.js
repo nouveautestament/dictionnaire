@@ -1,0 +1,1 @@
+lar[38308]=`<b>ἐπι·λίζω</b> (<i>inf. ao</i>. ἐπιλίξαι) raser à la surface, effleurer, NIC. (EM. <i>712, 41</i>).`

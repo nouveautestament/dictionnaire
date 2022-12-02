@@ -1,0 +1,1 @@
+lar[103709]=`<b>ὑπο·πόλιος, ος, ον</b>, grisonnant, ANACR. <i>23</i> ; LUC. <i>Herc. 8</i>.<p><b>Étym</b>. ὑ. πολιός.`

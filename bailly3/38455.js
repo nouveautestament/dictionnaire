@@ -1,0 +1,1 @@
+lar[38455]=`<b>ἐπι·μισθίς, ίδος</b>, <i>adj. f</i>. qu’on possède pour de l’argent (courtisane) ANTH. <i>7, 403</i>.<p><b>Étym</b>. ἐπί, μισθός.`

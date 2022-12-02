@@ -1,0 +1,1 @@
+lar[107254]=`<b>φυσί·ζοος, ος, ον</b> <font color="purple">[ῠ]</font> qui donne la vie, nourricier, fécond, IL. <i>3, 243 ; 21, 63</i> ; OD. <i>11, 301</i> ; ORACL. (HDT. <i>1, 67</i>) ; ESCHL. <i>Suppl. 585</i> ; ANTH. <i>9, 383</i> ; LUC. <i>Epigr. 22, etc</i>.<p><b>Étym</b>. φύω, ζωή.`

@@ -1,0 +1,1 @@
+lar[81457]=`<b>ποινηλατέω-ῶ</b> <font color="purple">[ᾱ]</font> poursuivre en punition d’une faute, SEXT. <i>M. 11, 117 ; au pass</i>. être poursuivi par les Furies vengeresses, SEXT. <i>P. 1, 27 ; 3, 237</i>.<p><b>Étym</b>. ποινήλατος.`

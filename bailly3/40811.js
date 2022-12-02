@@ -1,0 +1,1 @@
+lar[40811]=`<b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> du mt Érymanthos, SOPH. <i>Tr. 1099</i>.<br><b>      2</b> du fleuve Érymanthos, ANTH. <i>6, 111</i> ; A.RH. <i>1, 127</i>.<p><b>Étym</b>. Ἐρύμανθος.`

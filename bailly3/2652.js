@@ -1,0 +1,1 @@
+lar[2652]=`<b>ου (ὁ)</b> Ænèthos, <i>mt</i>. ESCHL. (E. BYZ.).`

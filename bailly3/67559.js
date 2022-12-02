@@ -1,0 +1,1 @@
+lar[67559]=`<b>Ν, ν</b> (νῦ) (τὸ) <i>indécl</i>. nu, <i>13<sup>e</sup> lettre de l’alphabet grec. Comme chiffre νʹ = 50, ͵ν = 50 000. Pour le ν ἐφελκυστικόν, v. ce dernier mot</i>.`

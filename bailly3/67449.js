@@ -1,0 +1,1 @@
+lar[67449]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Mysôn, <i>un des sept sages de la Grèce,</i> PLAT. <i>Prot. 343a</i>.`

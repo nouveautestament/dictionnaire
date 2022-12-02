@@ -1,0 +1,1 @@
+lar[47288]=`<b>θηριομαχέω-ῶ</b> <font color="purple">[ᾰ]</font> combattre les bêtes féroces, DS. <i>3, 42</i> ; NT. <i>1Cor. 15, 32</i> ; ARTÉM. <i>2, 54</i>.<p><b>Étym</b>. θηριομάχος.`

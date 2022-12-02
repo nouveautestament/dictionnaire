@@ -1,0 +1,1 @@
+lar[89473]=`<b>ατος (τὸ)</b> excroissance de chair, DIOSC. <i>3, 94</i> ; GAL. <i>2, 271</i>.<p><b>Étym</b>. σαρκόω.`

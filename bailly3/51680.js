@@ -1,0 +1,1 @@
+lar[51680]=`<b>ων (τὰ)</b> <font color="purple">[ᾰῠῐδ]</font> sorte de gâteaux, ATH. <i>113d</i>.<p><b>Étym</b>. καπυρός.`

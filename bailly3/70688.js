@@ -1,0 +1,1 @@
+lar[70688]=`<b>ῆρος (ὁ)</b> qui lance un trait <i>ou</i> des traits, archer, ANTH. <i>6, 118</i> ; NONN. <i>D. 7, 271</i>.<p><b>Étym</b>. ὀϊστεύω.`

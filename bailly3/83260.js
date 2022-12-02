@@ -1,0 +1,1 @@
+lar[83260]=`<b>ῶν (αἱ)</b> Prasies :<br><b>      1</b> <i>dème attique de la tribu Pandionide (auj. ruines près de</i> Porto Rhaphti) THC. <i>8, 95</i>.<br><b>      2</b> <i>port de Laconie,</i> THC. <i>2, 56 ; 6, 105 ; 7, 18</i> ; AR. <i>Pax 242, etc</i>.`

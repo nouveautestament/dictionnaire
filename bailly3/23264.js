@@ -1,0 +1,1 @@
+lar[23264]=`<b>Δαρειο·γενής, ής, ές</b> <font color="purple">[ᾱ]</font> descendant de Darius, ESCHL. <i>Pers. 6</i>.<p><b>Étym</b>. Δαρεῖος, γεν- <i>de</i> γίγνομαι.`

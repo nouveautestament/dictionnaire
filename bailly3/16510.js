@@ -1,0 +1,1 @@
+lar[16510]=`<i>adv</i>., sans intelligence, PLUT. <i>M. 141b ; avec le gén</i>. sans intelligence de, NYSS. <i>1, 287c</i>.`

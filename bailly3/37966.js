@@ -1,0 +1,1 @@
+lar[37966]=`<b>ἐπι·κατέχω</b>, retenir encore, DH. <i>9, 60</i> ; LUC. <i>Herm. 23</i> ; D. CHR. <i>1, 111 Reiske</i>.`

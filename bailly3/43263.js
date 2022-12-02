@@ -1,0 +1,1 @@
+lar[43263]=`<b>ας (ἡ)</b> <font color="purple">[ῠῐ]</font> Eurydikeia, <i>f</i>. MOSCH. <i>8, 129</i>.`

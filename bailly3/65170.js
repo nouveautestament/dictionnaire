@@ -1,0 +1,1 @@
+lar[65170]=`<font color="purple">[ῐ]</font> <i>vb. de</i> μέτειμι², ALCIPHR. <i>3, 13</i> ; DL. <i>6, 105</i>.`

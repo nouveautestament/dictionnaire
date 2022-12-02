@@ -1,0 +1,1 @@
+lar[58012]=`<b>η, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> de safran, TH. <i>H.P. 1, 13, 1, etc.</i><br><b>      2</b> fait avec du safran, DIOSC. <i>1, 65</i> ; ANTH. <i>11, 34 ; subst</i>. τὸ κρόκινον (<i>s.-e</i>. μύρον) SPT. <i>Prov. 7, 17,</i> essence de safran.<br><b>      3</b> teint avec du safran, DÉMOCR. ÉPH. (ATH. <i>525c</i>).<p><b>Étym</b>. κρόκος.`

@@ -1,0 +1,1 @@
+lar[68801]=`<b>νικ·ωφέλης, ους (ὁ)</b> <i>propr</i>. « qui aide à la victoire », <i>en parl. des joueurs de flûte ou musiciens d’armée,</i> POLL. <i>4, 77</i>.<p><b>Étym</b>. νίκη, ὠφελέω.`

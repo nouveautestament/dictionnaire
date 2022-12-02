@@ -1,0 +1,1 @@
+lar[96483]=`<b>συο·φορβός, ός, όν</b>, qui nourrit <i>ou</i> garde des porcs, POL. <i>12, 4, 6</i> ; DH. <i>1, 84</i>.<p><b>Étym</b>. σῦς, φέρβω.`

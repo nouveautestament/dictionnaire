@@ -1,0 +1,1 @@
+lar[109868]=`<i>gén</i>. <b>ψιχός (ἡ)</b> <font color="purple">[ῑ]</font> mie, miette, PLUT. <i>M. 77e ;</i> ARÉT. <i>Cur. m. acut. 2, 11</i> ; A. APHR. <i>Probl. 1, 40, etc</i>.<p><b>Étym</b>. ψίω.`

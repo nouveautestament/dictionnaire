@@ -1,0 +1,1 @@
+lar[92860]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῑ]</font> Stratonikeios, <i>h</i>. ANTH. <i>11, 97</i>.<p><b>Étym</b>. Στρατόνικος.`

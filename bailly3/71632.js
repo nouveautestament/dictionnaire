@@ -1,0 +1,1 @@
+lar[71632]=`<i>adv</i>., avec un même sentiment, d’accord, XÉN. <i>Cyr. 6, 4, 15 ; Ages. 1, 37</i>.`

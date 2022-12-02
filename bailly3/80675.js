@@ -1,0 +1,1 @@
+lar[80675]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font><br><b>      1</b> théâtral, dramatique, RHÉT. <i>1, 17 W.</i><br><b>      2</b> feint, fictif, SEXT. <i>P. 1, 103</i>.<p><b>Étym</b>. πλάσμα.`

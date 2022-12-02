@@ -1,0 +1,1 @@
+lar[41522]=`<font color="purple">[ᾰ]</font> docilement, CIC. <i>Att. 13, 23, 3</i>.`

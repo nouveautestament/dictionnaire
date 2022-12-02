@@ -1,0 +1,1 @@
+lar[64329]=`<b>ή, όν :<br>      1</b> qui demeure, qui attend : οἱ καιροὶ οὐ μενετοί, THC. <i>1, 142,</i> l’occasion n’attend pas.<br><b>      2</b> patient, qui a de la longanimité, AR. <i>Av. 1620</i>.<p><b>Étym</b>. <i>vb. de</i> μένω.`

@@ -1,0 +1,1 @@
+lar[67601]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> dont on a tondu la laine, CRAT. (<i>Com. fr. 2, 41).</i><p><b>Étym</b>. νάκος, τίλλω.`

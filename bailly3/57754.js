@@ -1,0 +1,1 @@
+lar[57754]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. Κρειοντίς, ANTH. <i>5, 288</i>.`

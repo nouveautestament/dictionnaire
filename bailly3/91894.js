@@ -1,0 +1,1 @@
+lar[91894]=`<b>ου (ὁ)</b> <font color="purple">[ζῑ]</font> sorte de mésange (<i>Parus major</i> L.) <i>oiseau de la grosseur du pinson,</i> ARSTT. <i>H.A. 8, 3, 4</i>.<p><b>Étym</b>. σπίζα.`

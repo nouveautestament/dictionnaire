@@ -1,0 +1,1 @@
+lar[6522]=`<b>ός, όν</b> <font color="purple">[βᾰ]</font> où l’on peut monter, IL. <i>6, 434</i> ; JOS. <i>B.J. 5, 5, 2</i> ; OD. <i>11, 316</i>.<p>➳ <i>Poét</i>. ἀμβατός, HOM. <i>ll. cc</i>., ἄμβατος HÉS. <i>Op. 681</i>.<p><b>Étym</b>. ἀναβαίνω.`

@@ -1,0 +1,1 @@
+lar[89608]=`<b>ου (ὁ)</b> le sauveur, <i>ép. de Zeus et de Dionysos,</i> PAUS. <i>2, 37, 2</i> ; ANTH. <i>9, 603</i>.<p><b>Étym</b>. σαόω.`

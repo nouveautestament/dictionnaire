@@ -1,0 +1,1 @@
+lar[65974]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> objet de haine, <i>en parl. de pers</i>. SOPH. <i>El. 289</i> ; EUR. <i>Hipp. 407 ; au plur</i>. ESCHL. <i>Eum. 72, etc</i>.<p><b>Étym</b>. μισέω.`

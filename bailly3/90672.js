@@ -1,0 +1,1 @@
+lar[90672]=`<b>ή, όν</b> <font color="purple">[δᾰ]</font> dont les yeux clignotent sans cesse, ARSTT. <i>H.A. 1, 10, 3</i>.<p><b>Étym</b>. σκαρδαμύσσω.`

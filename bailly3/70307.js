@@ -1,0 +1,1 @@
+lar[70307]=`<b>ας (ἡ)</b> <font color="purple">[σῐ]</font> haute opinion qu’on a de sa sagesse, CHRYS. <i>10, 35 Migne</i>.<p><b>Étym</b>. οἰησίσοφος.`

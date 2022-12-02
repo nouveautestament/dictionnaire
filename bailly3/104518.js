@@ -1,0 +1,1 @@
+lar[104518]=`<b>ὑψι·πέταλος, ος, ον</b> <font color="purple">[ῐᾰ]</font> aux hautes feuilles, POLYZ. (ATH. <i>370f</i>).<p><b>Étym</b>. ὕ. πέταλον.`

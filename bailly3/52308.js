@@ -1,0 +1,1 @@
+lar[52308]=`<b>κατα·δεύω</b>, mouiller, tremper, arroser, IL. <i>9, 490</i> ; HÉS. <i>O. 556</i> ; EUR. <i>Ph. 834</i>.`

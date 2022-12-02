@@ -1,0 +1,1 @@
+lar[26475]=`<b>δικαιο·λόγος, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui plaide, avocat, ARC. <i>89, 19</i>.<p><b>Étym</b>. δίκαιος, λέγω.`

@@ -1,0 +1,1 @@
+lar[73029]=`<b>ὀρρό·πισσα, ης (ἡ)</b> partie séreuse de la poix, P. ÉG. <i>3, 74</i>.<p><b>Étym</b>. ὀρρός, πίσσα.`

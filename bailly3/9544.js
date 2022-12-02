@@ -1,0 +1,1 @@
+lar[9544]=`<b>ατος (τὸ)</b> accusation en retour, récrimination, HERMOG. (<i>W. 4, 647).</i><p><b>Étym</b>. ἀντεγκαλέω.`

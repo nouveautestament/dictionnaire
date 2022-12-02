@@ -1,0 +1,1 @@
+lar[23665]=`<b>δεκα·κότυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui contient dix cotyles, STR. <i>145</i>.<p><b>Étym</b>. δ. κοτύλη.`

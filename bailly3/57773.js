@@ -1,0 +1,1 @@
+lar[57773]=`<b>ου (τὸ)</b> petit morceau de viande, SYN. <i>268c</i>.<p><b>Étym</b>. κρέας.`

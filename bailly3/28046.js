@@ -1,0 +1,1 @@
+lar[28046]=`<font color="darkgreen">(<i>3 sg. ao. pass</i>. ἐδυάσθη)</font> <font color="purple">[ῠ]</font><br><b>      1</b> partager en deux, THEOL. <i>12</i>.<br><b>      2</b> avoir l’impression qu’une chose est double, voir double, SEXT. <i>233, 4 Bkk</i>.<p><b>Étym</b>. δυάς.`

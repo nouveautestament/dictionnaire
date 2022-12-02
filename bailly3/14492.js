@@ -1,0 +1,1 @@
+lar[14492]=`<b>όνος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> auxiliaire, IL. <i>4, 7 ; 5, 511</i> ; BATR. <i>281</i> ; OPP. <i>H. 5, 108</i>.<p><b>Étym</b>. ἀρήγω.`

@@ -1,0 +1,1 @@
+lar[7831]=`<b>ας (ἡ)</b> omission de l’augment, EUST. <i>Il. 42, 46</i> ; GR. COR. <i>p. 180</i>.<p><b>Étym</b>. ἀναύξητος.`

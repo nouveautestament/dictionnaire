@@ -1,0 +1,1 @@
+lar[79604]=`<b>περί·φοβος, ος, ον</b>, très effrayé, ESCHL. <i>Suppl. 736</i> ; THC. <i>6, 36, etc.</i> ; τινος, PLAT. <i>Phædr. 239b ; ou</i> περί τινος, POL. <i>5, 74, 3 ; ou</i> πρός τι, ARSTT. <i>Eud. 3, 1, 19,</i> de qqe ch.`

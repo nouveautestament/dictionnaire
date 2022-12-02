@@ -1,0 +1,1 @@
+lar[11254]=`<b>ἀπ·ανθρακίζω</b> <font color="darkgreen">(<i>impf</i>. ἀπηνθράκιζον, <i>ao</i>. ἀπηνθράκισα)</font> <font color="purple">[ᾰκ]</font> faire rôtir <i>ou</i> faire griller sur des charbons, AR. <i>Ran. 506, Av. 1546</i> ; ATH. <i>329b</i>.`

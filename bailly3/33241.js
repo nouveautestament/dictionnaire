@@ -1,0 +1,1 @@
+lar[33241]=`<b>ἐμμελετάω-ῶ :<br>      1</b> exercer à : τινά τινι, PLUT. <i>Cim. 18,</i> qqn à qqe ch. ; <i>particul</i>. donner des leçons, PLUT. <i>932d.</i><br><b>      2 <i>intr.</i></b> s’exercer sur, aux dépens de, <i>dat</i>. PLAT. <i>Phædr. 228e</i>.<p><b>Étym</b>. ἐν, μ.`

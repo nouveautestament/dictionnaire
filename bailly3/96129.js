@@ -1,0 +1,1 @@
+lar[96129]=`<b>οῦ (ὁ) :<br>      1</b> colonisation, POL. <i>4, 33, 7</i> ; PLUT. <i>Rom. 9, etc.</i><br><b>      2</b> cohabitation, mariage, DS. <i>18, 23</i> ; PLUT. <i>Sol. 20</i>.<p><b>Étym</b>. συνοικίζω.`

@@ -1,0 +1,1 @@
+lar[98310]=`<b>εως (ἡ)</b> enfantement, SEXT.<p><b>Étym</b>. τίκτω.`

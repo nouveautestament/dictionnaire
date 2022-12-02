@@ -1,0 +1,1 @@
+lar[85764]=`<b>προσ·εποφλισκάνω</b>, être en outre convaincu de, <i>acc</i>. DC. <i>43, 20</i>.`

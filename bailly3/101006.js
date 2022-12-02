@@ -1,0 +1,1 @@
+lar[101006]=`<b>   I <i>tr</i>.<br>      1</b> ensevelir, enterrer, SOPH. <i>Aj. 1063</i> ; EUR. <i>Hel. 1245 ; au pass</i>. EUR. (AR. <i>Th. 885</i>).<br><b>      2</b> répandre sur une tombe : χοάς τινι, SOPH. <i>El. 406,</i> des libations en l’honneur d’un mort.<br><b>   II <i>intr.</i></b> être couché dans la tombe, SOPH. <i>Ant. 888</i>.<p><b>Étym</b>. τύμβος.`

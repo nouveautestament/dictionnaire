@@ -1,0 +1,1 @@
+lar[104762]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à Phalère, <i>avec mouv</i>. THC. <i>1, 107</i>.<p><b>Étym</b>. Φάληρον, -δε.`

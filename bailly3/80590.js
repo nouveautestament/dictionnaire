@@ -1,0 +1,1 @@
+lar[80590]=`<font color="purple">[ᾰ]</font> <i>adv</i>., obliquement, de côté, ARSTT. <i>Mech. 5, 2</i> ; LUC. <i>Conv. 47 ; fig</i>. d’une manière équivoque, PLUT. <i>M. 856</i>.<p><b>Étym</b>. πλάγιος.`

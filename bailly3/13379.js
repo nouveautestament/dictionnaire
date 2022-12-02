@@ -1,0 +1,1 @@
+lar[13379]=`<b>ἀπο·σπεύδω</b>, dissuader fortement : τι, HDT. <i>6, 109</i> ; DH. <i>6, 51,</i> qqe ch. ; τινά <i>avec l’inf</i>. HDT. <i>7, 17,</i> qqn de faire qqe ch. ; <i>abs</i>. HDT. <i>7, 18, p. opp. à</i> ἐπισπεύδω, THC. <i>6, 29</i>.`

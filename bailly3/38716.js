@@ -1,0 +1,1 @@
+lar[38716]=`<b>ή, όν</b>, enclin à blâmer, à punir, DL. <i>4, 63</i> ; CLÉM. <i>144</i>.<p><b>Étym</b>. ἐπιπλήσσω.`

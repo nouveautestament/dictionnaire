@@ -1,0 +1,1 @@
+lar[92027]=`<b>ου (ὁ)</b> <i>patron. com. de</i> σπουδάρχης, fils d’intrigant, AR. <i>Ach. 595</i>.`

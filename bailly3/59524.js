@@ -1,0 +1,1 @@
+lar[59524]=`<font color="purple">[ᾰπ]</font> emporter par un ouragan, AQU. <i>Ps. 57, 9</i>.<p><b>Étym</b>. λαῖλαψ.`

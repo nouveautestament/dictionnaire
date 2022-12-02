@@ -1,0 +1,1 @@
+lar[74167]=`<b>παγ·χρύσεος, εος, εον</b> <font color="purple">[ῡ]</font> tout en or <i>ou</i> tout doré, IL. <i>2, 448</i> ; HH. <i>27, 5</i> ; HÉS. <i>Th. 335</i>.<p><b>Étym</b>. π. χρύσεος.`

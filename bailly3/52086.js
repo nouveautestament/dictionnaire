@@ -1,0 +1,1 @@
+lar[52086]=`<b>ας (ἡ)</b> Aphrodite du mt Kastnion, <i>en Pamphylie,</i> LYC. <i>403, 1234</i>.`

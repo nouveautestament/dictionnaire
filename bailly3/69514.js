@@ -1,0 +1,1 @@
+lar[69514]=`<i>adv</i>., en étranger : ἔχειν τινός, PLAT. <i>Ap. 17d</i>, être étranger à qqe ch.<p><b>Étym</b>. ξένος.`

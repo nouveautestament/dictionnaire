@@ -1,0 +1,1 @@
+lar[52988]=`<b>κατα·παλαίω</b> <font color="purple">[πᾰ]</font><br><b>      1</b> vaincre dans la lutte, <i>acc</i>. AR. <i>Ach. 710</i> ; PLUT. <i>M. 186d ;</i> LUC. <i>D. deor. 7, 3</i>.<br><b>      2</b> vaincre, triompher de, <i>en gén., acc</i>. EUR. <i>I.A. 1013</i> ; PLAT. <i>Rsp. 362d ;</i> LUC. <i>Char. 8</i>.`

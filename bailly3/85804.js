@@ -1,0 +1,1 @@
+lar[85804]=`<b>προσ·ευρίσκω</b> <font color="darkgreen">(<i>ao.2</i> -εῦρον, <i>etc</i>.)</font> trouver <i>ou</i> imaginer en outre, SOPH. <i>El. 1352,</i> POL. <i>1, 59, 6, etc</i>.`

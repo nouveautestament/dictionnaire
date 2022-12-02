@@ -1,0 +1,1 @@
+lar[82499]=`<b>πολυ·φασία, ας (ἡ)</b> <font color="purple">[ῠφᾰ]</font> loquacité, GAL. <i>8, 668</i>.<p><b>Étym</b>. π. φημί.`

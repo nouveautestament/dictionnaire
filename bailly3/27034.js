@@ -1,0 +1,1 @@
+lar[27034]=`<b>δισ·μύριοι, αι, α</b> <font color="purple">[ῡ]</font> vingt mille, HDT. <i>1, 32</i> ; PLAT. <i>Ion 535d ;</i> ἵππος δισμυρία, LUC. <i>Zeux. 8,</i> corps de 20 000 cavaliers.`

@@ -1,0 +1,1 @@
+lar[100370]=`<font color="purple">[ᾰ]</font> <i>adv</i>., au triple, <i>d’où</i> tout à fait, extrêmement, SPT. <i>Sir. 43, 4</i>.<p><b>Étym</b>. τριπλάσιος.`

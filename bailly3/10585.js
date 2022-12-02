@@ -1,0 +1,1 @@
+lar[10585]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> souffle en sens contraire, NYSS. <i>193</i>.<p><b>Étym</b>. ἀντιφυσάω.`

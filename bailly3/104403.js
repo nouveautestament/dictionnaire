@@ -1,0 +1,1 @@
+lar[104403]=`<b>ὑφ·ημιόλιος, ος, ον</b>, qui contient un nombre entier plus la moitié de ce nombre, <i>p. ex</i>. 3 = 2 + 1, NICOM. <i>Arithm. 1, 19</i>.`

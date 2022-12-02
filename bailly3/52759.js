@@ -1,0 +1,1 @@
+lar[52759]=`<b>οῦ (ὁ)</b> calcul, supputation, SPT. <i>1Par. 4, 33, etc. ; 1Esdr. 5, 39</i>.<p><b>Étym</b>. καταλογίζομαι.`

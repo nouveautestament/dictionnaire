@@ -1,0 +1,1 @@
+lar[7048]=`<b>ἀνα·κυπόω-ῶ</b> <font color="purple">[ῠ]</font> jeter à la renverse, LYC. <i>137</i> ; NIC. <i>Th. 705</i>.`

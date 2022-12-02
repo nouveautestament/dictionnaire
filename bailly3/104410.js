@@ -1,0 +1,1 @@
+lar[104410]=`<b>ὑφ·ίζω</b> (<i>à l’act. seul. ion</i>. *ὑπίζω, <i>d’où part. ao</i>. ὑπίσας, HDT. <i>3, 126 conj. p</i>. ὑπείσας) s’embusquer.<br><b><i>Moy</i>. ὑφίζομαι</b>, former un dépôt, <i>en parl. d’un liquide,</i> OPP. <i>H. 4, 246</i>.`

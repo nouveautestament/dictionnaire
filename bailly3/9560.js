@@ -1,0 +1,1 @@
+lar[9560]=`<b>ἀντ·εισέρχομαι</b> <font color="darkgreen">(<i>ao.2</i> ἀντεισῆλθον)</font> entrer à son tour, ARSTD. <i>2, 16</i>.`

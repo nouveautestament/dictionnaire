@@ -1,0 +1,1 @@
+lar[43270]=`<b>εὐρυ·θέμειλος, ος, ον</b> <font color="purple">[ῠ]</font> <i>c</i>. εὐρυθέμεθλος P. SIL. <i>Ecphr. ag. Soph. 620</i>.`

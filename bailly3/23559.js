@@ -1,0 +1,1 @@
+lar[23559]=`<b>δεινο·βίης, ου</b>, <i>adj. m</i>. d’une force <i>ou</i> d’une violence terrible, ORPH. <i>Arg. 64</i>.<p><b>Étym</b>. δεινός, βία.`

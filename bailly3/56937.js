@@ -1,0 +1,1 @@
+lar[56937]=`<b>οῦ (ὁ)</b> coup dont on se frappe la poitrine en signe de douleur, PLUT. <i>Fab. 17</i> ; ANTH. <i>11, 122</i> ; NT. <i>Ap. 8, 2</i>.<p><b>Étym</b>. κόπτω.`

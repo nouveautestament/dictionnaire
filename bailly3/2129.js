@@ -1,0 +1,1 @@
+lar[2129]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> bavardage sans retenue, PLUT. <i>M. 11c ;</i> ANTH. <i>5, 252</i>.`

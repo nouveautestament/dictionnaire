@@ -1,0 +1,1 @@
+lar[70101]=`<b>ος, ον</b>, qui concerne le voyage, ESCHL. <i>Ag. 104, 157</i>.<p><b>Étym</b>. ὁδός.`

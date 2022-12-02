@@ -1,0 +1,1 @@
+lar[66144]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. μνήμων.`

@@ -1,0 +1,1 @@
+lar[11287]=`<b>ἁπαξ·άπας, ασα, αν</b> <font color="purple">[ᾰπᾰπ]</font> tout entier, HERMIPP. STRATT. <i>etc. (Com. fr. 2, 380, 775, etc.) ; au plur</i>. tous en une fois, tous ensemble, AR. <i>Pl. 111, 206, etc</i>.<p><b>Étym</b>. ἅπαξ, ἅπας.`

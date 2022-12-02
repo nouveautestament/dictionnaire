@@ -1,0 +1,1 @@
+lar[37263]=`<b>ος, ον</b>, qui se dresse sur, <i>dat</i>. A.RH. <i>3, 856 ; abs</i>. A.RH. <i>2, 1066, etc</i>.<p><b>Étym</b>. ἐπαείρω.`

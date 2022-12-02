@@ -1,0 +1,1 @@
+lar[91446]=`<b>ιος (ὁ)</b> Smerdis :<br><b>      1</b> <i>Perse, fils de Cyrus, frère de Cambyse,</i> HDT. <i>3, 30, etc.</i><br><b>      2</b> <i>mage, roi de Perse,</i> HDT. <i>3, 61, etc.</i><br><b>      3</b> <i>autres,</i> ARSTT. <i>Pol. 5, 8, 13, etc.</i><br><b>      4</b> <i>c</i>. Σμερδίης, ANTH. <i>7, 29</i>.`

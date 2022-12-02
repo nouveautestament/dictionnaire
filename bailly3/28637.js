@@ -1,0 +1,1 @@
+lar[28637]=`<b>δυσ·μάσητος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à mâcher, GAL. <i>8, 782</i>.<p><b>Étym</b>. δ. μασάομαι.`

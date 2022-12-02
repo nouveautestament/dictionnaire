@@ -1,0 +1,1 @@
+lar[64733]=`<b>μετ·αιτέω-ῶ :<br>      1</b> demander une part : τινος, HDT. <i>4, 146 ; ou</i> μέρος τινός, AR. <i>Vesp. 972,</i> de qqe ch. ; παρά τινος ἀπό τινος, DÉM. <i>410, 12,</i> réclamer de qqn une part de qqe ch. ; <i>p. suite,</i> mendier, <i>acc</i>. LUC. <i>Cyn. 2</i>.<br><b>      2</b> supplier, implorer : τινα, AR. <i>Eq. 775,</i> qqn.`

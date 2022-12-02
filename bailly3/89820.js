@@ -1,0 +1,1 @@
+lar[89820]=`<b>α, ον</b>, du mois Sextilis, PLUT. <i>Rom. 24, M. 287e</i>.<p><b>Étym</b>. <i>v</i>. Σεξτίλιος.`

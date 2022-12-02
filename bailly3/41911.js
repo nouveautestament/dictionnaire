@@ -1,0 +1,1 @@
+lar[41911]=`<b>εως (ἡ)</b> approbation, consentement, POL. <i>16, 20, 4</i> ; DH. <i>1, 443 Reiske</i> ; DS. <i>15, 6</i>.<p><b>Étym</b>. εὐδοκέω.`

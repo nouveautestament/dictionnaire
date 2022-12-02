@@ -1,0 +1,1 @@
+lar[100454]=`<b>τρισκαιδεκα·στάσιος, ος, ον</b> <font color="purple">[τᾰ]</font> treize fois aussi lourd, HDT. <i>3, 95</i>.<p><b>Étym</b>. τρ. ἵστημι.`

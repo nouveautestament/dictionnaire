@@ -1,0 +1,1 @@
+lar[79078]=`<b>ατος (τὸ)</b> voile <i>ou</i> tenture qu’on déploie autour, JOS. <i>A.J. 12, 7, 6</i>.<p><b>Étym</b>. περιπετάννυμι.`

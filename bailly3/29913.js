@@ -1,0 +1,1 @@
+lar[29913]=`<b>ἐγ·χλίω</b> <font color="purple">[ῐ]</font> (<i>seul. prés</i>.) se glorifier devant, insulter, <i>dat</i>. ESCHL. <i>Suppl. 914</i>.<p><b>Étym</b>. ἐν, χλ.`

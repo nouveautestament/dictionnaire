@@ -1,0 +1,1 @@
+lar[57019]=`<b>ῶν (οἱ)</b> les Koraxes, <i>pple scythe de Colchide,</i> ARSTT. <i>Meteor. 1, 13 ; au sg</i>. PHŒN. COL. (ATH. <i>530f</i>).`

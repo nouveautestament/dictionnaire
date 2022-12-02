@@ -1,0 +1,1 @@
+lar[72095]=`<b>ὀξυθυμέω-ῶ</b> <font color="purple">[ῠῡ]</font> être vif, irascible, EUR. <i>Andr. 689</i>.<br><b><i>Moy.</i></b> (<i>part. ao. pass</i>. ὀξυθυμηθείς) s’emporter : τινι, contre qqn, AR. <i>Vesp. 501</i>.<p><b>Étym</b>. ὀξύθυμος.`

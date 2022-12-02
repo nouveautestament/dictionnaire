@@ -1,0 +1,1 @@
+lar[46425]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> qui concerne le théâtre, qui convient au théâtre, ARSTT. <i>Pol. 8, 7, 6</i> ; PLUT. <i>Alex. 19</i>.<br><b>      2</b> <i>p. suite,</i> théâtral, pompeux, PLUT. <i>M. 7a, 802e</i>.<p>➳ <i>Ion</i>. θεητρ. HPC. <i>20, 12</i>.<p><b>Étym</b>. θέατρον.`

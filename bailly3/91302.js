@@ -1,0 +1,1 @@
+lar[91302]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> <i>c</i>. σκυλεία, SYMM.`

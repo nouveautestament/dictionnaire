@@ -1,0 +1,1 @@
+lar[1664]=`<i>adv</i>., d’une façon lamentable, OD. <i>8, 231, etc</i>.`

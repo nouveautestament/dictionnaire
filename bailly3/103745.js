@@ -1,0 +1,1 @@
+lar[103745]=`<b>εως (ἡ) :<br>      1</b> soumission, PHIL. <i>1, 127</i>.<br><b>      2</b> action de se glisser sous, de s’introduire peu à peu, SEXT. <i>M. 7, 85</i>.<p><b>Étym</b>. ὑποπίπτω.`

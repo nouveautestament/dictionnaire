@@ -1,0 +1,1 @@
+lar[63172]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> recherche, HPC. (GAL. <i>Lex. Hipp. 19, 120).</i><p><b>Étym</b>. μάω.`

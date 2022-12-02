@@ -1,0 +1,1 @@
+lar[585]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> sanctification, consécration, DH. <i>1, 54, 16 Reiske</i> ; SPT. <i>Jud. 17, 3, etc.</i> ; NT. <i>Rom. 6, 19, 22, etc.</i><br><b>      2</b> lieu consacré, sanctuaire, SPT. <i>2Macc. 2, 17, etc</i>.<p><b>Étym</b>. ἁγιάζω.`

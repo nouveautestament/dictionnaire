@@ -1,0 +1,1 @@
+lar[73622]=`<b>οὔ·πη</b>, <i>adv.</i> :<br><b>      1</b> nulle part, IL. <i>17, 643, etc.</i> ; OD. <i>5, 410</i>.<br><b>      2</b> en aucune façon, IL. <i>13, 191</i> ; OD. <i>5, 140</i>.<p>➳ <i>Ion</i>. οὔκη, HDT. <i>5, 13 ; dor</i>. οὔπα <font color="purple">[ᾱ]</font> AR. <i>Lys. 1157</i>.<p><b>Étym</b>. οὐ, πῆ.`

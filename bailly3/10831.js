@@ -1,0 +1,1 @@
+lar[10831]=`<b>ἀν·ώϊστος, ος, ον</b>, rapporté, au sujet de qui <i>ou</i> de quoi on en réfère à, on recourt à, HDT. <i>6, 66</i>.<p><b>Étym</b>. <i>ion. c</i>. ἀνοιστός <i>vb. de</i> ἀναφέρω.`

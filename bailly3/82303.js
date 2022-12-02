@@ -1,0 +1,1 @@
+lar[82303]=`<b>πολυ·πρεπής, ής, ές</b>, très remarquable, PHILSTR. <i>605</i>.<p><b>Étym</b>. π. πρέπω.`

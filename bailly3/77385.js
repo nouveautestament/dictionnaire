@@ -1,0 +1,1 @@
+lar[77385]=`<b>πατρο·μήτωρ, ορος :<br>      1 (ὁ)</b> grand-père maternel, LUC. <i>Alex. 18</i>.<br><b>      2 (ἡ)</b> grand-mère, aïeule, LYC. <i>502</i>.<p><b>Étym</b>. π. μήτηρ.`

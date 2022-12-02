@@ -1,0 +1,1 @@
+lar[65365]=`<b>μηλ·ιαυθμός, οῦ (ὁ)</b> étable à moutons, bergerie, LYC. <i>96</i>.<p><b>Étym</b>. μῆλον, ἰαύω.`

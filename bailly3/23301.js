@@ -1,0 +1,1 @@
+lar[23301]=`<i>gén</i>. <b>ῆτος (ὁ, ἡ)</b> <i>c</i>. δασπλῆτις, <i>en parl. des Euménides,</i> EUPH. (SCH.-SOPH. <i>O.C. 681</i>) ; <i>d’une arme (hache, épée, etc.)</i> NONN. <i>D. 21.63, 22.219, etc</i>.`

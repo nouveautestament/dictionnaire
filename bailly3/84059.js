@@ -1,0 +1,1 @@
+lar[84059]=`<b>προ·εισφέρω</b> <font color="darkgreen">(<i>f</i>. -εισοίσω, <i>ao</i>. -εισήνεγκα, <i>etc</i>.)</font> faire l’avance d’une somme pour les impôts de qqn, DÉM. <i>1046, 24</i> ; ὑπὲρ ἑαυτοῦ, DÉM. <i>1208, 25,</i> payer d’avance ses propres impôts.`

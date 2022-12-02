@@ -1,0 +1,1 @@
+lar[67126]=`<b>μυλή·κορον, ου (τὸ)</b> <font color="purple">[ῠ]</font> balai pour nettoyer la farine, ARCHIPP. (<i>Com. fr. 2, 723).</i><p><b>Étym</b>. μ. κόρος.`

@@ -1,0 +1,1 @@
+lar[78494]=`<b>ίδος (ἡ)</b> action d’envelopper <i>ou</i> de couvrir la langue, ATH. <i>6c</i>.<p><b>Étym</b>. π. γλῶττα.`

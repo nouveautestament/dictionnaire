@@ -1,0 +1,1 @@
+lar[38765]=`<b>ή, όν</b>, qui reste à la surface, qui flotte sur l’estomac, <i>en parl. d’aliments non digérés,</i> HPC. <i>Acut. 394</i> ; ARSTT. <i>Probl. 3, 18, 21</i>.<p><b>Étym</b>. ἐπιπολάζω.`

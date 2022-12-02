@@ -1,0 +1,1 @@
+lar[33411]=`<b>εως (ἡ)</b> action d’embrasser, de comprendre, ARSTT. <i>Meteor. 2, 8, 10</i> ; DH. <i>Dem. 38</i>.<p><b>Étym</b>. ἐμπεριλαμβάνω.`

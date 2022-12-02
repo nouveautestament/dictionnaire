@@ -1,0 +1,1 @@
+lar[73045]=`<b>*ὀρσι·γύναιξ</b> <font color="purple">[ῐῠ]</font> (<i>seul. acc</i>. ὀρσιγύναικα) qui excite <i>ou</i> agite les femmes, <i>ép. de Bacchus,</i> POÈT. (PLUT. <i>M. 607c, 671c</i>).<p><b>Étym</b>. ὄρνυμι, γυνή.`

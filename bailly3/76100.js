@@ -1,0 +1,1 @@
+lar[76100]=`<b>οῦ (ὁ)</b> entrave, empêchement, ARTÉM. <i>286 Reiff</i> ; GAL. <i>2, 248</i>.<p><b>Étym</b>. παραποδίζω.`

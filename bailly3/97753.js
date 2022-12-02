@@ -1,0 +1,1 @@
+lar[97753]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qu’on peut tendre, ARSTT. <i>H.A. 3, 13, 1</i>.<p><b>Étym</b>. <i>vb. de</i> τείνω.`

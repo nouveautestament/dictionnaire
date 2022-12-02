@@ -1,0 +1,1 @@
+lar[96107]=`<b>συν·όδους, -όδοντος (ὁ, ἡ)</b> qui a les dents serrées et comme soudées, ARSTT. <i>H.A. 8, 6, 1 ; subst</i>. ὁ σ. (<i>qqf</i>. ἡ σ. NUMÉN. <i>dans</i> ATH. <i>322b</i>) spare denté, <i>sorte de poisson,</i> EPICH. <i>fr. 47 Ahrens</i> ; OPP. <i>H. 1, 170</i> ; ARTÉM. <i>2, 14</i> ; ARCHESTR. (ATH. <i>322b</i>).<p><b>Étym</b>. σύν, ὀδούς.`

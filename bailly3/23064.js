@@ -1,0 +1,1 @@
+lar[23064]=`<b>ας (ἡ)</b> <font color="purple">[ῠῠ]</font> gravure <i>ou</i> ciselure sur bagues, PLAT. <i>1 Alc. 128c</i>.<p><b>Étym</b>. δακτυλιογλύφος.`

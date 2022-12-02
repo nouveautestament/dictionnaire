@@ -1,0 +1,1 @@
+lar[62903]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> HLD. <i>2, 30 ou</i> λίθος μαργαρίς, PHILSTR. <i>137,</i> perle ; <i>cf</i>. μαργαρίτης.`

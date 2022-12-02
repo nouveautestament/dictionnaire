@@ -1,0 +1,1 @@
+lar[15506]=`<b>      1</b> tenir une assemblée pour l’élection des magistrats, IS. (POLL. <i>8, 82</i>) ; PLUT. <i>Cam. 9, etc. ; d’où</i> élire un magistrat dans une assemblée, DH. <i>2, 14</i> ; PLUT. <i>Cam. 42</i>.<br><b>      2</b> briguer les suffrages dans une élection, POL. <i>26, 10, 6</i> ; PLUT. <i>Galb. 23</i>.<p><b>Étym</b>. ἀρχαιρέσια.`

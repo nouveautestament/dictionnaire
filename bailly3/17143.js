@@ -1,0 +1,1 @@
+lar[17143]=`<i>adv</i>., avec rigidité <i>ou</i> sévérité, PLUT. <i>Lys. 22</i>.`

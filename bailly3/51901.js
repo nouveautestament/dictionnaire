@@ -1,0 +1,1 @@
+lar[51901]=`<b>καρπο·φθόρος, ος, ον</b>, qui détruit les fruits, les biens de la terre, ORPH. <i>fr. T. mot. 55</i> ; ANTH. <i>9, 256</i>.<p><b>Étym</b>. κ. φθείρω.`

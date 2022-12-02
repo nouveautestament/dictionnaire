@@ -1,0 +1,1 @@
+lar[1434]=`<b>ἀδικο·χρήματος, ος, ον</b> <font color="purple">[ᾰῐᾰ]</font> enrichi par l’injustice <i>ou</i> le mal, CRATÈS <i>(Bkk. 343, 10).</i><p><b>Étym</b>. ἄδ. χρῆμα.`

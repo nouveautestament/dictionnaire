@@ -1,0 +1,1 @@
+lar[80157]=`<b>α, ον</b> <font color="purple">[ῠ]</font> long, large, <i>etc</i>. d’une coudée, HDT. <i>2, 48, 78</i> ; HPC. <i>Fract. 757</i> ; PLAT. <i>Phæd. 96e, etc</i>.<p><b>Étym</b>. πῆχυς.`

@@ -1,0 +1,1 @@
+lar[52321]=`<b>κατα·διαιρέω-ῶ</b> <font color="darkgreen">(<i>f</i>. -αιρήσω, <i>ao.2</i> καταδιεῖλον, <i>etc</i>.)</font> diviser, partager, <i>avec</i> εἰς <i>et l’acc</i>. DH. <i>4, 19</i> ; SPT. <i>Ps. 54, 9</i>.<br><b><i>Moy.</i></b> se partager (un butin) POL. <i>2, 45, 1</i> ; SPT. <i>Joel 3, 2</i>.`

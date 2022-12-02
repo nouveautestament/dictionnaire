@@ -1,0 +1,1 @@
+lar[70730]=`<b>α, ον</b>, de l’Œta, SOPH. <i>Ph. 444, etc.</i> ; οἱ Οἰταῖοι, THC. <i>3, 92,</i> les habitants de la région de l’Œta.<p><b>Étym</b>. Οἴτη.`

@@ -1,0 +1,1 @@
+lar[65910]=`<b>ας (ἡ)</b> Minôa :<br><b>      1</b> <i>v. de Sicile, postér</i>. Ἡράκλεια (<i>auj. près de</i> Torre di Capo Bianco) HDT. <i>5, 46</i> ; PLUT. <i>Dio. 25</i>.<br><b>      2</b> <i>î. sur la côte de Mégaride,</i> THC. <i>3, 51 ; 4, 67, 118</i> ; PLUT. <i>Nic. 6, etc</i>.<p>➳ <i>Ion</i>. Μινῴη, HDT. <i>l. c</i>.<p><b>Étym</b>. <i>fém. de</i> Μινώϊος.`

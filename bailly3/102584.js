@@ -1,0 +1,1 @@
+lar[102584]=`<b>ὑπερ·καρπέω-ῶ</b>, produire trop de fruits, TH. <i>C.P. 2, 11, 2</i>.<p><b>Étym</b>. ὑ. καρπός.`

@@ -1,0 +1,1 @@
+lar[3334]=`<b>ας (ἡ)</b> négligence, indifférence, EMPÉD. <i>441 Mullach</i>.<p>➳ <i>Ion</i>. -είη, A.RH. <i>3, 298</i>.<p><b>Étym</b>. ἀκηδής.`

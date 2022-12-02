@@ -1,0 +1,1 @@
+lar[68163]=`<b>νεο·κηδής, ής, ές</b>, qui souffre d’une douleur récente, HÉS. <i>Th. 98</i>.<p><b>Étym</b>. ν. κῆδος.`

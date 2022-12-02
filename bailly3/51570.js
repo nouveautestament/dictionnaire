@@ -1,0 +1,1 @@
+lar[51570]=`<b>ας (ἡ)</b> = <i>lat</i>. Canulia, <i>n. de f. rom</i>. CHRYSIPP. (PLUT. <i>Parall. min. 28</i>).`

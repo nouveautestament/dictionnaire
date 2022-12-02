@@ -1,0 +1,1 @@
+lar[87959]=`<b>-ῶ</b> <font color="purple">[ᾰᾰμ]</font> <font color="darkgreen">(<i>ao. 3 sg</i>. πυρπαλάμησεν)</font> forger des ruses, mettre en œuvre des artifices, HH. <i>Merc</i>. 357.<p><b>Étym</b>. πυρπάλαμος.`

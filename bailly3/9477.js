@@ -1,0 +1,1 @@
+lar[9477]=`<b>ἀντ·ανοίγω</b> (<i>inf. ao</i>. -οῖξαι) ouvrir en face de : τὰ ὄμματά τινι, LGN <i>34, 4,</i> ouvrir <i>ou</i> fixer les yeux sur qqe ch.`

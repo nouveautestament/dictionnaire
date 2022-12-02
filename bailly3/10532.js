@@ -1,0 +1,1 @@
+lar[10532]=`<b>ἀντι·τύπτω</b>, frapper en retour, AR. <i>Nub. 1424</i> ; PLAT. <i>Crit. 51a</i>.`

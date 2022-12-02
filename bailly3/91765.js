@@ -1,0 +1,1 @@
+lar[91765]=`<b>ου (ὁ)</b> = <i>lat</i>. Spartacus, <i>gladiateur célèbre,</i> PLUT. <i>Crass. 9, etc</i>.`

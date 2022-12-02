@@ -1,0 +1,1 @@
+lar[66770]=`<b>μορφο·ειδής, ής, ές</b>, qui a une forme, formel, <i>t. de philos</i>. PLUT. <i>M. 335d, 735a, 921f</i>.<p><b>Étym</b>. μορφή, εἶδος.`

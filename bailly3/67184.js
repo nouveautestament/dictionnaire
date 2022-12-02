@@ -1,0 +1,1 @@
+lar[67184]=`<b>Μυό·ννησος, ου (ἡ)</b> Myonnèsos :<br><b>      1</b> <i>pointe de terre d’Ionie avec une v. du m. nom (auj</i>. Seferihisar) THC. <i>3, 32</i>.<br><b>      2</b> <i>petite î. sur la côte de Thessalie,</i> ESCHN. <i>2, 72 Baiter-Sauppe</i>.<p><b>Étym</b>. μῦς, νῆσος.`

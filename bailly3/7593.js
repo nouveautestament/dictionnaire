@@ -1,0 +1,1 @@
+lar[7593]=`<b>ἀν·αρχαΐζω</b>, ramener aux vieux usages, ANTH. <i>7, 707</i>.<p><b>Étym</b>. ἀνά, ἀ.`

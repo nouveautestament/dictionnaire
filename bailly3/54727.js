@@ -1,0 +1,1 @@
+lar[54727]=`<b>ου</b> <font color="purple">[ῐ]</font> <i>adj. m. c</i>. Κενταύρειος LUC. <i>Ind. 5</i>.`

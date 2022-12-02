@@ -1,0 +1,1 @@
+lar[33318]=`<b>ἐμ·παιδοτροφέω-ῶ</b>, élever dès l’enfance dans, <i>dat</i>. DÉM. <i>1087, 22</i>.<p><b>Étym</b>. ἐν, π.`

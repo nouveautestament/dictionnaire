@@ -1,0 +1,1 @@
+lar[47401]=`<b>ου (ἡ)</b> Thigros, <i>v. de Carie,</i> LYC. <i>1390</i>.`

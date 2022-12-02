@@ -1,0 +1,1 @@
+lar[61859]=`<b>ος</b> <i>ou</i> <b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> comme un loup, ESCHL. <i>Sept. 146, etc.</i><br><b>      2</b> de loup, EUR. <i>Rhes. 208</i> ; ἡ λυκεία, POL. <i>6, 22, 3,</i> casque en peau de loup.<p><b>Étym</b>. λύκος.`

@@ -1,0 +1,1 @@
+lar[36813]=`<b>ή, όν :<br>      1</b> qui concerne l’éparque <i>ou</i> gouverneur, DC. <i>75, 14</i>.<br><b>      2</b> qui concerne la province, de la province, provincial, PLUT. <i>Cic. 36</i>.<p><b>Étym</b>. ἔπαρχος.`

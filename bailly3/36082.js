@@ -1,0 +1,1 @@
+lar[36082]=`<b>ος, ον</b>, habitable, SOPH. <i>O.C. 27</i>.<p><b>Étym</b>. ἐξοικέω.`

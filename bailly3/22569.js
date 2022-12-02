@@ -1,0 +1,1 @@
+lar[22569]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> fonction de scribe, PLUT. <i>Sert. c. Eum. 1</i>.<br><b>      2</b> instruction, science, SPT. <i>Sir. 44, 4</i>.<p><b>Étym</b>. γραμματεύς.`

@@ -1,0 +1,1 @@
+lar[78533]=`<b>εως (ἡ)</b> <font color="purple">[δῑ]</font> tournoiement, PLUT. <i>Flam. 10, M. 888d ;</i> PHILSTR. <i>880, etc</i>.<p><b>Étym</b>. περιδινέω.`

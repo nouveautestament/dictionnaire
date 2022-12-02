@@ -1,0 +1,1 @@
+lar[27672]=`<b>α, ον</b>, qu’il faut donner, HDT. <i>8, 111 ; neutre</i> δοτέον, il faut donner, PLAT. <i>Leg. 715c, Rsp. 452e, Euthyphr. 8c ;</i> ARSTT. <i>Nic. 5, 10</i>.<p><b>Étym</b>. <i>vb. de</i> δίδωμι.`

@@ -1,0 +1,1 @@
+lar[41322]=`<b>ἑτεροιόω-ῶ</b>, rendre différent, changer, HPC. <i>Acut. 389</i> ; PLUT. <i>M. 559c ;</i> ἑτ. εἴς τι, ARÉT. <i>Caus. m. diut. 2, 1,</i> changer en qqe ch. ; <i>au pass</i>. être changé <i>ou</i> altéré, HDT. <i>2, 142 ; 7, 225</i> ; HPC. <i>V. med. 13, Fract. 762</i>.<p><b>Étym</b>. ἑτεροῖος.`

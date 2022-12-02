@@ -1,0 +1,1 @@
+lar[23618]=`<b>α, ον</b>, rempli de cols, montueux, LYC. <i>994</i>.<p><b>Étym</b>. δειρή.`

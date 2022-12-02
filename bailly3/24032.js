@@ -1,0 +1,1 @@
+lar[24032]=`<b>ής, ές</b>, doux, NIC. <i>Al. 328</i>.<p><b>Étym</b>. <i>présuppose un nom</i> *δεῦκος, <i>étymol. inconnue, cf</i>. ἀδευκής.`

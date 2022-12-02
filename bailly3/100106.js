@@ -1,0 +1,1 @@
+lar[100106]=`<b>ων (οἱ)</b> = <i>lat</i>. triarii, les triaires romains, POL. <i>6, 23, 16</i>.`

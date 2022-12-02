@@ -1,0 +1,1 @@
+lar[27233]=`<b>ας (ἡ)</b> double temps, <i>nom du nombre</i> six, THEOL. <i>p. 37</i>.<p><b>Étym</b>. δίχρονος.`

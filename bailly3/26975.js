@@ -1,0 +1,1 @@
+lar[26975]=`<b>ας (ἡ)</b> <font color="purple">[ῐπ]</font><br><b>      1</b> conformation avec deux pieds, ARSTT. <i>P.A. 1, 3, 4 ; t. de pros</i>. combinaison de deux pieds, A. QUINT. <i>p. 52</i> ; LGN <i>fr. 3, 7</i>.<br><b>      2</b> dipodie, sorte de danse lacédémonienne, CRAT. (<i>Com. fr. 2, 109).</i><p><b>Étym</b>. δίπους.`

@@ -1,0 +1,1 @@
+lar[71151]=`<b>ὁλο·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> tout en dactyles, EUST. <i>Il. p. 1086, 18, etc</i>.<p><b>Étym</b>. ὅλ. δάκτυλος.`

@@ -1,0 +1,1 @@
+lar[24915]=`<b>δι·αλγής, ής, ές :<br>      1</b> qui cause une profonde douleur, ESCHL. <i>Ch. 68</i>.<br><b>      2</b> qui éprouve une profonde douleur, PLUT. <i>Alex. 75</i>.<p><b>Étym</b>. διά, ἄλγος.`

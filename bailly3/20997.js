@@ -1,0 +1,1 @@
+lar[20997]=`<b>ου</b>, <i>épq</i>. <b>εω (ὁ)</b> Byzès, <i>h</i>. ANTH. <i>App. 254</i> ; PAUS. <i>etc</i>.`

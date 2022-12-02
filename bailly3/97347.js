@@ -1,0 +1,1 @@
+lar[97347]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰ]</font> les Rôtisseurs, <i>titre d’une comédie perdue d’Aristophane</i>.<p><b>Étym</b>. ταγηνίζω.`

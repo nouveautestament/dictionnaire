@@ -1,0 +1,1 @@
+lar[107960]=`<b>χαριτ·ῶπις, ιδος</b> <font color="purple">[ᾰῐῐδ]</font> <i>fém. de</i> χαριτώπης ANTH. <i>App. 209</i>.`

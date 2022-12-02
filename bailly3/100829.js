@@ -1,0 +1,1 @@
+lar[100829]=`<b>α, ον</b> <font color="purple">[ῠ]</font> de pastenague, OPP. <i>H. 2, 480</i>.<p><b>Étym</b>. τρυγών.`

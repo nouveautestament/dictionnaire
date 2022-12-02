@@ -1,0 +1,1 @@
+lar[24332]=`<b>Δημό·φαντος, ου (ὁ)</b> Dèmophantos, <i>h</i>. AND. <i>13</i> ; DÉM. <i>505, 27, etc</i>.<p>➳ <i>Dor</i>. Δαμό- <font color="purple">[ᾱ]</font> PLUT. <i>Phil. 7</i>.<p><b>Étym</b>. δ. φαίνω.`

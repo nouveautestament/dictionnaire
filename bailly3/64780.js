@@ -1,0 +1,1 @@
+lar[64780]=`<i>vb. de</i> μετάγω, SOR. <i>Fract. p. 51 Cocch</i>.).`

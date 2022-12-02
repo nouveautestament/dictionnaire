@@ -1,0 +1,1 @@
+lar[51758]=`<b>καρδιόω-ῶ</b>, ravir le cœur de, <i>acc</i>. SPT. <i>Cant. 4, 9</i>.<p><b>Étym</b>. καρδία.`

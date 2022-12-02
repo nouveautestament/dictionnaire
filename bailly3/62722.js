@@ -1,0 +1,1 @@
+lar[62722]=`<b>μαλο·γενής, ής, ές</b> <font color="purple">[ᾱ]</font> né d’une brebis, PHILOX. (ATH. <i>643 conj. p</i>. μολογενής).<p><b>Étym</b>. μᾶλον¹, γένος.`

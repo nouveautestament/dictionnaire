@@ -1,0 +1,1 @@
+lar[20730]=`<b>*βραχυσυλλαβία</b>, <i>seul. ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ᾰῠσᾰ]</font> petit nombre de syllabes, mot de peu de syllabes, ANTH. <i>9, 566</i>.<p><b>Étym</b>. βραχυσύλλαβος.`

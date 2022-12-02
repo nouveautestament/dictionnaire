@@ -1,0 +1,1 @@
+lar[80862]=`<b>πλεκτανό·στολος, ος, ον</b> <font color="purple">[ᾰ]</font> tiré au moyen de cordages, LYC. <i>230</i>.<p><b>Étym</b>. πλεκτάνη, στέλλω.`

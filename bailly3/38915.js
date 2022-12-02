@@ -1,0 +1,1 @@
+lar[38915]=`<b>ἐπι·ρρυθμίζω :<br>      1</b> arranger selon un rythme meilleur, PLAT. <i>Leg. 802b.</i><br><b>      2</b> arranger, ajuster avec grâce, LUC. <i>Pisc. 12</i>.<p><b>Étym</b>. ἐπί, ῥυθμίζω.`

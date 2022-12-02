@@ -1,0 +1,1 @@
+lar[10097]=`<b>ἀντι·μέτωπος, ος, ον</b>, opposés front contre front, de front, XÉN. <i>Hell. 4, 3, 19 ; Ages. 2, 12 ; Hipp. 3, 11</i> ; DC. <i>71, 7, etc</i>.<p><b>Étym</b>. ἀ. μέτωπον.`

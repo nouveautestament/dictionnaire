@@ -1,0 +1,1 @@
+lar[83474]=`<b>προ·αγκτηριάζω</b>, agrafer d’abord, GAL. <i>Comp. med. sec. loc. 2</i>.`

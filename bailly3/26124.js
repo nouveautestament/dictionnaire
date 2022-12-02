@@ -1,0 +1,1 @@
+lar[26124]=`<b>δι·εκδύω</b> <font color="darkgreen">(<i>f</i>. διεκδύσω, <i>ao.2</i> διεξέδυν)</font> s’échapper à travers, se glisser hors de, HPC. <i>305, 52</i> ; PLUT. <i>Tim. 10</i> ; LUC. <i>Herm. 65</i> ; N. DAM. (ATH. <i>249c</i>).<p>➳ <i>Inf</i>. διεκδῦναι, HPC. LUC. <i>ll. cc. ; part</i>. διεκδύς, PLUT. <i>l. c. ; acc</i>. -ύντα, N. DAM. <i>l. c</i>.`

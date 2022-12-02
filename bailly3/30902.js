@@ -1,0 +1,1 @@
+lar[30902]=`<b>εἰσ·φαίνω</b> (<i>part. pr</i>. -φαίνοντας), mettre au jour, dénoncer, PHILOMN. (ATH. <i>75a</i>).`

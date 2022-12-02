@@ -1,0 +1,1 @@
+lar[44805]=`<b>Ζώ·πυρος, ου (ὁ)</b> <font color="purple">[ῠ]</font> Zôpyros, <i>h</i>. HDT. <i>3, 153, 160</i> ; PLAT. <i>1 Alc. 122a</i>.`

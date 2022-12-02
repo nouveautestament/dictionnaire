@@ -1,0 +1,1 @@
+lar[78404]=`<b>περι·αρόω-ῶ</b> <font color="purple">[ᾰ]</font> labourer tout autour, DH. <i>5, 25</i> ; PLUT. <i>M. 820e</i>.`

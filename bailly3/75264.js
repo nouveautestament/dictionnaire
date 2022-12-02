@@ -1,0 +1,1 @@
+lar[75264]=`<b>ου (ὁ)</b> homme d’une audace prête à tout, ADAM. <i>Physiogn. 1, 10, p. 351</i>.<p><b>Étym</b>. πάντολμος.`

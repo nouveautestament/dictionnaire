@@ -1,0 +1,1 @@
+lar[49194]=`<b>ης (ἡ)</b> grimpereau, <i>oiseau,</i> A. LIB. <i>21</i>.`

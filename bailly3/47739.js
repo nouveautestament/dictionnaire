@@ -1,0 +1,1 @@
+lar[47739]=`<b>θρομβο·ειδής, ής, ές</b>, semblable à des grumeaux, en grumeaux, HPC. <i>595, 39 ; 606, 37</i>.<p><b>Étym</b>. θρόμβος, εἶδος.`

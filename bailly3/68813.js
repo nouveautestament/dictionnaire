@@ -1,0 +1,1 @@
+lar[68813]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Niros, <i>h</i>. ANTH. <i>App. 396</i>.`

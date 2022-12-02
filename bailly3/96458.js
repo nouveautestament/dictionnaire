@@ -1,0 +1,1 @@
+lar[96458]=`<b>συνωνυμέω-ῶ</b> <font color="purple">[νῠ]</font> avoir la même signification que, être synonyme de, <i>dat</i>. ATH. <i>11e ;</i> PHIL. <i>1, 304</i> ; CLÉM. <i>Pæd. 3, p. 304</i>.<p><b>Étym</b>. συνώνυμος.`

@@ -1,0 +1,1 @@
+lar[99706]=`<b>τοσηδί, τοσονδί</b> <font color="purple">[ῑ]</font> <i>att. c</i>. τοσόσδε, PLAT. <i>Men. 83d ;</i> ARSTT. <i>Cæl. 1, 8, 6, etc</i>.`

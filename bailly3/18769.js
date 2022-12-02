@@ -1,0 +1,1 @@
+lar[18769]=`<b>βαθυ·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῠῡ]</font> aux flots profonds, MUS. <i>189</i> ; NONN. <i>D. 21, 169, 176 ; etc</i>.<p><b>Étym</b>. β. κῦμα.`

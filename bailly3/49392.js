@@ -1,0 +1,1 @@
+lar[49392]=`<b>ἱππο·μιγής, ής, ές</b> <font color="purple">[ῐγ]</font> moitié cheval, moitié homme, EL. <i>V.H. 9, 16</i>.<p><b>Étym</b>. ἵ. μίγνυμι.`

@@ -1,0 +1,1 @@
+lar[79092]=`<b>περι·πήττω</b>, <i>seul. prés. moy</i>. περιπήττομαι, se cristalliser <i>ou</i> se solidifier autour de, <i>dat</i>. STR. <i>568</i>.`

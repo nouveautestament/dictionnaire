@@ -1,0 +1,1 @@
+lar[27137]=`<b>διφορέω-ῶ</b> (<i>seul. prés</i>.) :<br><b>      1</b> produire (<i>litt</i>. porter) des fruits deux fois par an, TH. <i>C.P. 1, 14, 1 ; 2, 9, 13</i>.<br><b>      2</b> <i>au pass</i>. s’écrire <i>ou</i> se prononcer de deux manières, DRAC. <i>15, 12 ; 16, 12</i>.<p><b>Étym</b>. δίφορος.`

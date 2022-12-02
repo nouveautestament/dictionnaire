@@ -1,0 +1,1 @@
+lar[3210]=`<b>ἀ·κατασκεύαστος, ος, ον :<br>   I</b> non préparé :<br><b>      1</b> non travaillé, naturel, TH. <i>H.P. 9, 16, 6</i> ; SPT. <i>Gen. 1, 2</i>.<br><b>      2</b> non cherché, improvisé, SYN.<br><b>   II</b> qui n’admet aucune préparation, aucun art, Ps.-PLUT. <i>V. Hom. 218</i>.<p><b>Étym</b>. ἀ, κατασκευάζω.`

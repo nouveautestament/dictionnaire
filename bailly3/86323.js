@@ -1,0 +1,1 @@
+lar[86323]=`<b>προσ·πιστεύω</b>, avoir foi <i>ou</i> croire en outre, ARSTD. <i>t. 2, 332</i>.`

@@ -1,0 +1,1 @@
+lar[44633]=`<font color="purple">[ῠῑτ]</font> (<i>seul. nom.) adj. f</i>. qui préside aux unions (Aphrodite) NICOM. (PHOT. <i>Bibl. 144, 6) (cf</i>. ζύγιος).<p><b>Étym</b>. <i>fém. de</i> ζυγίτης.`

@@ -1,0 +1,1 @@
+lar[13029]=`<b>ατος (τὸ)</b> <font color="purple">[πᾰ]</font> déjection, excrément, EUP. <i>284 Kock ; 433, 11 Bekker, Anecdota græca, vol. 1</i> ; EL. <i>N.A. 3, 26</i>.<p><b>Étym</b>. ἀποπατέω.`

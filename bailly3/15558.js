@@ -1,0 +1,1 @@
+lar[15558]=`commander à, régner sur, <i>dat</i>. IL. <i>5, 200 ; gén</i>. A.RH. <i>1, 347</i>.<p><b>Étym</b>. ἀρχή.`

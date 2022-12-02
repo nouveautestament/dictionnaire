@@ -1,0 +1,1 @@
+lar[110270]=`<b>Ὠμό·δαμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Ômodamos, <i>litt</i>. « dompteur <i>ou</i> maître cruel », <i>n. d’une divinité,</i> HOM. <i>Ep. 14</i>.<p><b>Étym</b>. ὠ. δάμνημι.`

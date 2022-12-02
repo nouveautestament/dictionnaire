@@ -1,0 +1,1 @@
+lar[42542]=`<i>adv.</i> :<br><b>      1</b> par un souhait, par une prière, NAZ. <i>3, 160 f Migne</i> ; THÉON <i>Prog. 100, 6</i>.<br><b>      2</b> à l’optatif, SUID. <i>v°</i> ἀγαπῴην.`

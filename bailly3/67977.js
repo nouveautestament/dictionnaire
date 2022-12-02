@@ -1,0 +1,1 @@
+lar[67977]=`<b>νειο·τομεύς, έως (ὁ)</b> charrue, <i>propr</i>. « qui fend une jachère », ANTH. <i>6, 41</i>.<p><b>Étym</b>. νειός, τέμνω.`

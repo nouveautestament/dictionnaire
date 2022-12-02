@@ -1,0 +1,1 @@
+lar[6076]=`<b>ἀμφι·βώμιος, ος, ον</b>, qui se fait autour de l’autel, EUR. <i>Tr. 562 conj</i>.<p><b>Étym</b>. ἀ. βωμός.`

@@ -1,0 +1,1 @@
+lar[81261]=`<b>(ὁ)</b> Podarkès, <i>h</i>. Q. SM. <i>1, 233, etc</i>.<p>➳ <i>Gén. épq</i>. -εος, Q. SM. <i>1, 815 ; dat. épq</i>. -εϊ, Q. SM. <i>1, 233 ; acc. épq</i>. -εα, Q. SM. <i>1, 238</i>.<p><b>Étym</b>. <i>cf</i>. ποδαρκής.`

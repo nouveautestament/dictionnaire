@@ -1,0 +1,1 @@
+lar[37517]=`<b>ής, ές</b>, qui manque de, <i>gén</i>. XÉN. <i>Cyr. 8, 7, 12</i> ; PLAT. <i>Tim. 33c, etc</i>.<p>•<i> Cp</i>. -έστερος, PLAT. <i>Pol. 311b ; sup</i>. -έστατος, PLAT. <i>Rsp. 579e</i>.<p><b>Étym</b>. ἐπιδέω².`

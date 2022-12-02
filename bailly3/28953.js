@@ -1,0 +1,1 @@
+lar[28953]=`<b>ας (ἡ)</b> <font color="purple">[τῠ]</font> malheur, mauvaise fortune, EUR. <i>Bacch. 387</i> ; THC. <i>6, 55</i> ; XÉN. <i>Hell. 4, 5, 19</i> ; PLAT. <i>Ap. 25a, etc. ; au plur</i>. EUR. <i>Ion 1505</i>.<p><b>Étym</b>. δυστυχής.`

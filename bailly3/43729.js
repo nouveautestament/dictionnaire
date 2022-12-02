@@ -1,0 +1,1 @@
+lar[43729]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Euphoridès, <i>h</i>. AR. <i>Ach. 612</i>.<p><b>Étym</b>. εὔφορος.`

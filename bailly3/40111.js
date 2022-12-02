@@ -1,0 +1,1 @@
+lar[40111]=`<b>ατος (τὸ)</b> secours, utilité, SOPH. <i>Ph. 275</i>.<p><b>Étym</b>. ἐπωφελέω.`

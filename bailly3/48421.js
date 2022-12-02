@@ -1,0 +1,1 @@
+lar[48421]=`<b>ἰδιό·πλαστος, ος, ον</b>, formé par soi-même, SECUND. <i>Sent. 14</i>.<p><b>Étym</b>. ἴδ. πλάσσω.`

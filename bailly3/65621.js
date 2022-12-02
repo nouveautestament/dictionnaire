@@ -1,0 +1,1 @@
+lar[65621]=`<b>εως (ἡ)</b> souillure, profanation, SPT. <i>Lev. 13, 44</i> ; PORPH. <i>Abst. 4, p. 367</i>.<p><b>Étym</b>. μιαίνω.`

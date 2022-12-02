@@ -1,0 +1,1 @@
+lar[19191]=`<b>βαρυ·πεσής, ής, ές</b>, qui tombe lourdement, ESCHL. <i>Eum. 369</i>.<p><b>Étym</b>. β. πίπτω.`

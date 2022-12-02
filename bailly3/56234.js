@@ -1,0 +1,1 @@
+lar[56234]=`obscurcir, <i>acc</i>. ESCHL. <i>Ag. 134</i>.<p><b>Étym</b>. κνέφας.`

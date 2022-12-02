@@ -1,0 +1,1 @@
+lar[34797]=`<b>ἔν·νυχος, ος, ον</b> <font color="purple">[ῠ]</font> qui vit <i>ou</i> agit dans les ténèbres, IL. <i>11, 716</i> ; ESCHL. <i>Pr. 645 ; adv</i>. ἔννυχον, ES. <i>110 Halm.</i> ; NT. <i>Marc. 1, 35</i> (ἔννυχα <i>Lachm</i>.) pendant la nuit.<p>•<i> Cp</i>. ώτερον, ES. NT. <i>ll. cc</i>.<p><b>Étym</b>. ἐν, νύξ.`

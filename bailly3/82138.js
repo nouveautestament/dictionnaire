@@ -1,0 +1,1 @@
+lar[82138]=`<b>πολύ·μνιος, ος, ον</b>, couvert de mousse <i>ou</i> d’algue, NIC. <i>Th. 950</i>.<p><b>Étym</b>. π. μνίον.`

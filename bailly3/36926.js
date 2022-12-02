@@ -1,0 +1,1 @@
+lar[36926]=`<b>ἐπ·εγχαλάω-ῶ</b> (<i>prés. 3 pl. poét</i>. -χαλάουσι) <font color="purple">[χᾰ]</font> relâcher, NIC. <i>Al. 439</i>.`

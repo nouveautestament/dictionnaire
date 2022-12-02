@@ -1,0 +1,1 @@
+lar[77357]=`<b>ου (ὁ)</b> <font color="purple">[ῐκ]</font> Patricius, <i>h</i>. ANT. <i>1, 119, etc</i>.<p><b>Étym</b>. <i>v</i>. πατρίκιος.`

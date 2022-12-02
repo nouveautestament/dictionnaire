@@ -1,0 +1,1 @@
+lar[2168]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> éternel, ESCHL. <i>Eum. 572</i>.<p><b>Étym</b>. <i>rapprochement avec</i> αἰεί <i>par étym. populaire</i>.`

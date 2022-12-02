@@ -1,0 +1,1 @@
+lar[82376]=`<b>πολυ·σπερής, ής, ές :<br>   I</b> <i>pass.</i> :<br><b>      1</b> dispersé en plusieurs peuplades <i>ou</i> tribus, IL. <i>2, 804</i> ; OD. <i>11, 365</i>.<br><b>      2</b> <i>p. suite,</i> très nombreux, HÉS. <i>Th. 365</i>.<br><b>   II</b> <i>act</i>. qui produit de nombreux rejetons, EMPÉD. <i>256 Mullach</i>.<p><b>Étym</b>. π. σπείρω.`

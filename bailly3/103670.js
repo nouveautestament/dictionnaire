@@ -1,0 +1,1 @@
+lar[103670]=`<b>ατος (τὸ)</b> ce qu’on étend dessous, <i>particul</i>. tapis, PLAT. <i>Pol. 279d</i>.<p><b>Étym</b>. ὑποπετάννυμι.`

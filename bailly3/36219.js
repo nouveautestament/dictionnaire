@@ -1,0 +1,1 @@
+lar[36219]=`<b>ἐξ·ουδενίζω</b>, ne faire aucun cas de, considérer comme rien, mépriser, PLUT. <i>M. 308e, 310c</i>.<p><b>Étym</b>. ἐξ, οὐδείς.`

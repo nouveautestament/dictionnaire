@@ -1,0 +1,1 @@
+lar[84927]=`<b>προ·περιειλέω-ῶ</b>, enrouler auparavant, ORIB. <i>4, 138 Mai</i>.`

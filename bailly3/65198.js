@@ -1,0 +1,1 @@
+lar[65198]=`ressembler à la fin de l’automne, PHIL. <i>1, 13</i>.<p><b>Étym</b>. μετόπωρον.`

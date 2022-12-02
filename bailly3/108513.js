@@ -1,0 +1,1 @@
+lar[108513]=`<b>χιονό·χροος-ους, οος-ους, οον-ουν</b>, de la couleur, <i>càd</i>. de la blancheur de la neige, PHILOX. (ATH. <i>147a</i>).<p><b>Étym</b>. χ. χρόα.`

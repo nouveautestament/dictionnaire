@@ -1,0 +1,1 @@
+lar[48647]=`<b>ας (ἡ)</b> ministère de l’hiérophante, PLUT. <i>Alc. 34</i> ; CLÉM. <i>564, etc</i>.<p><b>Étym</b>. ἱεροφάντης.`

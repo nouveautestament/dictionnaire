@@ -1,0 +1,1 @@
+lar[106569]=`<b>φοινικο·πάρῃος, ος, ον</b> <font color="purple">[ῑᾰ]</font> aux flancs (<i>litt</i>. aux joues) écarlates, <i>ép. d’un navire,</i> OD. <i>11, 124 ; 23, 271</i>.<p><b>Étym</b>. <i>ion. p</i>. *φοινικοπάρειος <i>de</i> φ. παρειά.`

@@ -1,0 +1,1 @@
+lar[107616]=`<b>ῶνος (ὁ)</b> <font color="purple">[εω <i>monosyll</i>.]</font> endroit où l’on travaille l’airain, le cuivre <i>ou</i> le fer, forge, fonderie, OD. <i>8, 273</i> ; A.RH. <i>3, 41</i>.<p><b>Étym</b>. χαλκεύς.`

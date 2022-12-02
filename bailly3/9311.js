@@ -1,0 +1,1 @@
+lar[9311]=`<b>ας (ἡ) :<br>      1</b> manque d’appétit, ARÉT. <i>101, 33</i> ; GEOP. <i>12, 32, 3</i>.<br><b>      2</b> <i>fig</i>. manque de désir, T. LOCR. <i>102e</i>.<p>➳ <i>Ion</i>. -ίη, T. LOCR. ARÉT. <i>ll. cc</i>.<p><b>Étym</b>. ἀνόρεκτος.`

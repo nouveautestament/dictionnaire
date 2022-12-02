@@ -1,0 +1,1 @@
+lar[56529]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de chef, de maître, de roi, MÉLINNO (STOB. <i>Fl. 7, 13).</i><p><b>Étym</b>. <i>contr. p</i>. *κοιρανήϊος, <i>de</i> κοίρανος.`

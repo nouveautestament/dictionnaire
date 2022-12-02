@@ -1,0 +1,1 @@
+lar[62890]=`<b>ων (τὰ)</b> Marakandes (<i>auj</i>. Samarcande) <i>cap. de la Sogdiane,</i> PLUT. <i>Alex. fort. 2, 10</i>.`

@@ -1,0 +1,1 @@
+lar[87006]=`<b>πρό·χειλος, ος, ον :<br>      1</b> aux lèvres saillantes, STR. <i>96</i> ; LUC. <i>Philops. 34</i>.<br><b>      2</b> <i>subst</i>. τὰ πρόχειλα, RUF. (ORIB. <i>3, 384 B.-Dar</i>.) le bord des lèvres.<p><b>Étym</b>. π. χεῖλος.`

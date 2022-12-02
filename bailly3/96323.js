@@ -1,0 +1,1 @@
+lar[96323]=`<b>συν·τεχνάομαι-ῶμαι</b>, aider de son talent, <i>acc</i>. PLUT. <i>Demetr. 43</i>.`

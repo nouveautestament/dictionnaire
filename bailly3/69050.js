@@ -1,0 +1,1 @@
+lar[69050]=`<b>ου (τὸ)</b> Noudion, <i>v. d’Élide,</i> HDT. <i>4, 148</i>.`

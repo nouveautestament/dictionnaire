@@ -1,0 +1,1 @@
+lar[49850]=`<b>ἱστοριο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> historien, POL. <i>2, 62, 2, etc.</i> ; DS. <i>1, 3 ; 2, 32</i> ; PLUT. <i>M. 898a</i>.<p><b>Étym</b>. ἱστορία, γράφω.`

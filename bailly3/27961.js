@@ -1,0 +1,1 @@
+lar[27961]=`<b>ης, ες :<br>      1</b> semblable à de la rosée, PHÉRÉCR. (ATH. <i>685a</i>) ; PLUT. <i>M. 695c, 913e.</i><br><b>      2</b> <i>fig</i>. tendre, délicat, ANACR. <i>16, 9</i>.<p><b>Étym</b>. δρόσος, -ωδης.`

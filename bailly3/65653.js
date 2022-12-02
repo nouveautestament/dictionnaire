@@ -1,0 +1,1 @@
+lar[65653]=`<b>ιδος</b> <font color="purple">[ᾱῐδ]</font> <i>adj. f</i>. femme originaire de Midéa (Alkménè) THCR. <i>Idyl. 13, 20</i>.<p><b>Étym</b>. Μιδέα.`

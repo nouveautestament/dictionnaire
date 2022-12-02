@@ -1,0 +1,1 @@
+lar[14906]=`<b>ης (ἡ)</b> Harmothoè, <i>Amazone,</i> Q. SM. <i>1, 44 et 533</i>.<p><b>Étym</b>. ἁρμός, θοός.`

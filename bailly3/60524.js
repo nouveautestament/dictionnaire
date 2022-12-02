@@ -1,0 +1,1 @@
+lar[60524]=`<b>ή, όν</b>, qui tend à devenir blanc, SCH.-PLAT. <i>Theæt. 360</i>.<p><b>Étym</b>. λευκαίνω.`

@@ -1,0 +1,1 @@
+lar[27288]=`<b>ος, ον</b>, lié par un serment, qui a juré, <i>avec l’inf</i>. SOPH. <i>Ph. 593</i>.<p><b>Étym</b>. διόμνυμι.`

@@ -1,0 +1,1 @@
+lar[16570]=`<b>ατος (τὸ)</b> <font color="purple">[φᾰ]</font> moyen de sécurité, <i>d’où</i> fortification, BAS. CHRYS.<p><b>Étym</b>. ἀσφαλίζω.`

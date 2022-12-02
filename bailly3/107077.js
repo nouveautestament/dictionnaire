@@ -1,0 +1,1 @@
+lar[107077]=`<i>ou</i> <b>φυλακεῖον, ου (τὸ)</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> lieu où se tiennent les hommes de garde, corps de garde, poste, POL. <i>5, 75, 10 ; 5, 76, 3</i> ; DS. <i>13, 84</i>.<br><b>      2</b> troupe de garde (de quatre hommes) POL. <i>6, 33, 6</i>.<p><b>Étym</b>. φυλακή.`

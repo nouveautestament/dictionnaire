@@ -1,0 +1,1 @@
+lar[12842]=`<b>ἀπο·λωβάω-ῶ</b>, injurier, maltraiter, PHOCYL. ; <i>au pass</i>. SOPH. <i>Aj. 217</i>.`

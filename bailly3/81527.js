@@ -1,0 +1,1 @@
+lar[81527]=`<b>Πολεμο·λαμαχαϊκός, ή, όν</b> <font color="purple">[ᾱᾰᾱῐ]</font> qui concerne la guerre de Lamakhos, AR. <i>Ach. 1082</i>.<p><b>Étym</b>. π. Λάμαχος.`

@@ -1,0 +1,1 @@
+lar[52205]=`<b>οῦ (ὁ)</b> qui tourne en dérision, moqueur, CHRYS. <i>4, 245</i>.<p><b>Étym</b>. καταγελάω.`

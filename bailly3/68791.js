@@ -1,0 +1,1 @@
+lar[68791]=`<b>Νικο·φάνης, ους (ὁ)</b> <font color="purple">[ῑᾰ]</font> Nikophanès, <i>h</i>. DIN. <i>43, 16</i>.<p>➳ <i>Acc</i>. -η, POLÉM. (ATH. <i>567b</i>) POL. <i>2, 48, ou</i> -ην, DIN. <i>l. c</i>.<p><b>Étym</b>. νίκη, φαίνω.`

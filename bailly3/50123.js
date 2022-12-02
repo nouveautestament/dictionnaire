@@ -1,0 +1,1 @@
+lar[50123]=`<i>gén</i>. <b>Ἰοῦς (ἡ)</b> Iô, <i>fille d’Inakhos, changée en vache,</i> HDT. <i>1, 1, etc.</i> ; ESCHL. <i>Pr. 635 ; etc</i>.`

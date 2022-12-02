@@ -1,0 +1,1 @@
+lar[93229]=`<b>συγ·καθέζομαι</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>f</i>. -εδοῦμαι) :</font><br><b>      1</b> siéger avec <i>ou</i> ensemble, PLAT. <i>Theæt. 162d, Prot. 317e ;</i> ISOCR. <i>236d ;</i> PLUT. <i>Marc. 23, Popl. 17, M. 795e.</i><br><b>      2</b> se tapir, PLUT. <i>M. 970e</i>.`

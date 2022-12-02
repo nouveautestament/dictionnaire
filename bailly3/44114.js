@@ -1,0 +1,1 @@
+lar[44114]=`<b>ίδος</b> (ή) :<br><b>      1</b> navire remorqué, EUR. <i>H.f. 631</i>.<br><b>      2</b> bagage, embarras, EUR. <i>Andr. 200</i>.<p><b>Étym</b>. ἐφέλκω.`

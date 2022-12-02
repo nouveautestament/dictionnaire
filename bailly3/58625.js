@@ -1,0 +1,1 @@
+lar[58625]=`<b>κυλιστὴς στέφανος (ὁ)</b> grosse couronne fortement tressée, ALEX. (ATH. <i>49f, var</i>. κυλιστός).<p><b>Étym</b>. κυλίνδω.`

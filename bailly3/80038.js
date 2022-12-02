@@ -1,0 +1,1 @@
+lar[80038]=`<b>ή, όν</b>, qui bondit, ARSTT. <i>H.A. 4, 7, 9 ; p. suite,</i> fougueux, lascif, LUC. <i>Bis acc. 10</i>.<p>•<i> Sup</i>. -ώτατος, LUC. <i>l. c</i>.<p><b>Étym</b>. πηδάω.`

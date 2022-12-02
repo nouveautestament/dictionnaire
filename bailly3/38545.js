@@ -1,0 +1,1 @@
+lar[38545]=`<b>ἐπι·νοσέω-ῶ</b>, redevenir malade, HPC. <i>Epid. 1, 953</i>.`

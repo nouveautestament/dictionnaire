@@ -1,0 +1,1 @@
+lar[31930]=`<b>ἐκ·πραΰνω</b>, adoucir, apaiser, PLUT. <i>M. 76d, 244a ;</i> P. SIL. <i>Th. Pyth. 154</i>.`

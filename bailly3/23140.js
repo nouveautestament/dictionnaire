@@ -1,0 +1,1 @@
+lar[23140]=`<b>δαμάω-ῶ</b> <font color="purple">[δᾰ]</font> <i>c</i>. δαμάζω <font color="darkgreen">(<i>seul. prés. ind. 3 pl. épq</i>. δαμόωσι, Q. SM. <i>5, 247, et pass. prés. ind. 3 pl. épq</i>. δαμόωνται, <i>ibid. 249) ; sur</i> δαμάᾳ, δαμόωσι, <i>v</i>. δαμάζω, <i>fin</i>.</font>`

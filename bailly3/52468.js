@@ -1,0 +1,1 @@
+lar[52468]=`<b>κατ·αιχμάζω</b>, abattre de sa javeline, tuer, NONN. <i>D. 21, 6</i>.`

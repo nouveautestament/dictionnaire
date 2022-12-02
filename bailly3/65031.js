@@ -1,0 +1,1 @@
+lar[65031]=`<b>μετά·φρενον, ου (τὸ)</b> partie supérieure du dos entre les épaules, dos, IL. <i>2, 265, etc.</i> ; HÉS. <i>Sc. 223</i> ; PLAT. <i>Prot. 352a ; au plur</i>. ARCHIL. (SYN. <i>75b</i>) ; HLD. <i>103, 1</i>.<p><b>Étym</b>. μ. φρήν.`

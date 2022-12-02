@@ -1,0 +1,1 @@
+lar[14143]=`<i>part. ao. moy. de</i> αἴρω.`

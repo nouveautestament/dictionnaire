@@ -1,0 +1,1 @@
+lar[20747]=`<b>βραχύ·ωτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à oreilles, <i>càd</i>. à anses courtes, HÉNIOCH. (ATH. <i>483e</i>).<p><b>Étym</b>. βρ. οὖς.`

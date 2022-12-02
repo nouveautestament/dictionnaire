@@ -1,0 +1,1 @@
+lar[56649]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>au pl</i>. τὰ κόλλυβα, sorte de gâteaux <i>ou</i> de bonbons, AR. <i>Pl. 768</i>.<p><b>Étym</b>. <i>cf</i>. κόλλυβος.`

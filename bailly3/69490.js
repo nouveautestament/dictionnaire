@@ -1,0 +1,1 @@
+lar[69490]=`<b>ξενό·στασις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> lieu où l’on reçoit les hôtes <i>ou</i> les étrangers, SOPH. <i>O.C. 90</i>.<p><b>Étym</b>. ξ. στάσις.`

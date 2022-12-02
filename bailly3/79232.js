@@ -1,0 +1,1 @@
+lar[79232]=`<b>περι·σαλεύω</b> <font color="purple">[ᾰ]</font> dilater, MOSCHION <i>Mul. pass. p. 23, etc</i>.`

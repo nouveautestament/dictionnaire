@@ -1,0 +1,1 @@
+lar[21324]=`<b>γαμο·δαίσια, ων (τὰ)</b> <font color="purple">[γᾰ]</font> <i>s.-e</i>. ἱερά, cérémonie nuptiale, EL. <i>N.A. 12, 34</i>.<p><b>Étym</b>. γάμος, δαίω.`

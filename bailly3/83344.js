@@ -1,0 +1,1 @@
+lar[83344]=`<i>seul. à l’acc. dans la locut</i>. κατὰ πρέσβιν, HH. <i>Merc. 431</i> ; PLAT. <i>Leg. 855d, etc</i>. par droit d’ancienneté, selon l’ancienneté, selon l’âge.<p><b>Étym</b>. πρέσβυς.`

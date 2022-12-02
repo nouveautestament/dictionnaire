@@ -1,0 +1,1 @@
+lar[20137]=`<b>ης (ἡ)</b> servante, <i>mot crétois,</i> SÉLEUC. (ATH. <i>267c</i>).`

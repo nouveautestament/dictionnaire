@@ -1,0 +1,1 @@
+lar[14563]=`<b>(ὁ)</b> Arianthidas, <i>h</i>. THC. <i>4, 91</i>.`

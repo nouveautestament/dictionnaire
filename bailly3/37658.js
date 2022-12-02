@@ -1,0 +1,1 @@
+lar[37658]=`<b>ἐπι·δομέω-ῶ</b>, bâtir sur, PHIL. PARADOX. <i>VII mir. 2, 4, 5</i>.`

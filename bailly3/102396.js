@@ -1,0 +1,1 @@
+lar[102396]=`<b>ὑπέρ·διψος, ος, ον</b>, qui a une soif extrême, HIPPIATR. <i>p. 177, 6</i>.<p><b>Étym</b>. ὑ. δίψα.`

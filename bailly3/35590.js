@@ -1,0 +1,1 @@
+lar[35590]=`<b>ἐξ·αρέσκομαι</b> <font color="darkgreen">(<i>f</i>. -αρέσομαι)</font> <font color="purple">[ᾰ]</font> chercher à plaire à : τοῖς θεοῖς, XÉN. <i>Œc. 5, 3,</i> aux dieux, se les rendre favorables ; τινα δώροις, DÉM. <i>1396, 26,</i> se rendre qqn favorable au moyen de présents.`

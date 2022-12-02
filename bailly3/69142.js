@@ -1,0 +1,1 @@
+lar[69142]=`<b>νυκτί·νομος, ος, ον</b> <font color="purple">[ῐ]</font> qui cherche sa pâture la nuit, ARSTT. <i>H.A. 9, 17</i> ; PLUT. <i>M. 626d</i>.<p><b>Étym</b>. ν. νέμω.`

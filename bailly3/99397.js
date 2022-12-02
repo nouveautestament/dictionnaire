@@ -1,0 +1,1 @@
+lar[99397]=`<b>οῦ (ὁ)</b> <font color="purple">[τῑῠ]</font> joueur de chalumeau, APP. <i>Lib. 66</i>.<p><b>Étym</b>. τίτυρος.`

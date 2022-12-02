@@ -1,0 +1,1 @@
+lar[58658]=`<b>Κυμ·αίθα, ης (ἡ)</b> <font color="purple">[ῡ]</font> Kymætha, <i>n. d’une vache,</i> THCR. <i>Idyl. 4, 46</i>.<p><b>Étym</b>. κῦμα <i>p</i>. κύημα, αἴθω, <i>litt</i>. la grosse-rousse.`

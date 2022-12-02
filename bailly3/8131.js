@@ -1,0 +1,1 @@
+lar[8131]=`<b>ἀνδρό·φρων, ων, ον</b>, <i>gén</i>. ονος, aux sentiments virils, SOPH. <i>fr. 680</i>.<p><b>Étym</b>. ἀνήρ, φρήν.`

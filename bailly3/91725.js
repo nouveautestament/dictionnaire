@@ -1,0 +1,1 @@
+lar[91725]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> d’Espagne, Espagnol, PLUT. <i>Sert. 11</i>.`

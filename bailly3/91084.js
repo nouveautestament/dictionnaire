@@ -1,0 +1,1 @@
+lar[91084]=`<b>σκολιόω-ῶ</b>, rendre oblique <i>ou</i> tortu, courber, HPC. <i>Art. 807</i> ; TH. <i>H.P. 1, 6, 4</i>.<p><b>Étym</b>. σκολιός.`

@@ -1,0 +1,1 @@
+lar[24196]=`<b>ή, όν</b>, disposé à être un ardent ami du peuple, PROCL. <i>Plat. 1 Alc. 1, p. 306</i>.<p><b>Étym</b>. δημεραστής.`

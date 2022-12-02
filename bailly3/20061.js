@@ -1,0 +1,1 @@
+lar[20061]=`<b>ή, όν</b>, criard, bruyant, A. QUINT. <i>p. 96</i>.<p><b>Étym</b>. βοάω.`

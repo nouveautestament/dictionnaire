@@ -1,0 +1,1 @@
+lar[19563]=`<b>ου (ὁ)</b> vent des Bérécyntes, <i>càd</i>. de Phrygie, TH. <i>Vent. 62</i>.<p><b>Étym</b>. *βερέκυς.`

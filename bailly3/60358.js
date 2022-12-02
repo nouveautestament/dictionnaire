@@ -1,0 +1,1 @@
+lar[60358]=`<b>(ἡ)</b> = <i>lat</i>. Lepida, <i>n. de f. rom</i>. PLUT. <i>Cato mi. 7</i>.<p><b>Étym</b>. <i>cf</i>. Λέπιδος.`

@@ -1,0 +1,1 @@
+lar[35535]=`<font color="purple">[ᾰῐ]</font> <i>adv. c</i>. ἐξαπίνης, SPT. <i>Lev. 21, 4 ; Num. 4, 20 ; 6, 9, etc.</i> ; NT. <i>Marc. 9, 8</i>.`

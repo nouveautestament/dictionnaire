@@ -1,0 +1,1 @@
+lar[63032]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰσ]</font> ce qu’on mâche <i>ou</i> ce qu’on a mâché, bouchée, ANTIPH. (ATH. <i>8d</i>) ; TH. <i>H.P. 4, 8, 4</i>.<p><b>Étym</b>. μασάομαι.`

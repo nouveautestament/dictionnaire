@@ -1,0 +1,1 @@
+lar[46107]=`(<i>seul. prés. et impf</i>.) être assis, accroupi, HH. <i>Merc. 468</i>.<p>➳ <i>Inf</i>. θαασσέμεν, OD. <i>3, 336</i> ; HH. <i>Merc. 172 ; impf</i>. θάασσεν, IL. <i>9, 194 ; 15, 424</i>.<p><b>Étym</b>. <i>épq. p</i>. θάσσω.`

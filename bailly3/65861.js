@@ -1,0 +1,1 @@
+lar[65861]=`<b>μιμο·λογέω-ῶ</b> <font color="purple">[ῑ]</font> jouer des mimes, STR. <i>233</i>.<p><b>Étym</b>. μιμολόγος.`

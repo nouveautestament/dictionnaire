@@ -1,0 +1,1 @@
+lar[85619]=`<b>εως (ἡ)</b> invention nouvelle <i>ou</i> postérieure, PLUT. <i>M. 1135d</i>.<p><b>Étym</b>. προσεξευρίσκω.`

@@ -1,0 +1,1 @@
+lar[81438]=`<b>ή, όν</b>, de berger, pastoral, NAZ. <i>3, 208 Migne</i> ; ἡ ποιμαντική (<i>s.-e</i>. τέχνη) NAZ. <i>1, 825 C Migne</i>, l’art de faire paître.<p><b>Étym</b>. ποιμαίνω.`

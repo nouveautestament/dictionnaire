@@ -1,0 +1,1 @@
+lar[87810]=`<font color="purple">[ῠ]</font> <i>c</i>. πυρέσσω HPC. <i>V. med. 15, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. HPC. <i>Fract. 760</i>.`

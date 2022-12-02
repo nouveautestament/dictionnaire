@@ -1,0 +1,1 @@
+lar[81339]=`<i>adv. enclit.,</i> vers quelque endroit, quelque part, <i>avec mouv</i>. SOPH. <i>O.C. 26</i> ; AR. <i>Pl. 447</i> ; PLAT. <i>Rsp. 420a, etc</i>.<p><b>Étym</b>. *πός, <i>cf. corrél</i>. οἷ, ὅποι.`

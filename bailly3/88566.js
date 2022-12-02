@@ -1,0 +1,1 @@
+lar[88566]=`<b>ατος (τὸ) :<br>      1</b> ce qui est enraciné, touffe de racines, racines, TH. <i>C.P. 3, 3, 4</i>.<br><b>      2</b> <i>fig</i>. fondement, <i>càd</i>. principe, élément, EMPÉD. <i>59 Mullach</i> ; PYTHAG. (PLUT. <i>M. 877a</i>) ; souche, race, ESCHL. <i>Sept. 413</i>.<p><b>Étym</b>. ῥιζόω.`

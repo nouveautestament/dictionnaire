@@ -1,0 +1,1 @@
+lar[97695]=`<b>ης (ἡ)</b> Tarnè :<br><b>      1</b> <i>v. de Lydie (postér</i>. Sardes) IL. <i>5, 44</i>.<br><b>      2</b> <i>v. de Béotie,</i> IL. <i>2, 507</i> (<i>var. p</i>. Ἄρνη).`

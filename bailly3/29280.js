@@ -1,0 +1,1 @@
+lar[29280]=`célébrer le sabbat, SPT. <i>Ezech. 21, 23</i>.<p><b>Étym</b>. ἑβδομάς.`

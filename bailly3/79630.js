@@ -1,0 +1,1 @@
+lar[79630]=`<b>περι·φρίσσω</b> <font color="darkgreen">(<i>f</i>. -φρίξω, <i>pf. au sens du prés</i>. περιπέφρικα) :</font><br><b>      1</b> se hérisser autour de, <i>acc</i>. NICÉPH. <i>1, 487 W.</i><br><b>      2</b> frissonner de tous ses membres devant, <i>acc</i>. Q. SM. <i>3, 184</i>.`

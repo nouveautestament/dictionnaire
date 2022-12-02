@@ -1,0 +1,1 @@
+lar[100058]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> triple, ternaire, <i>en parl. de la Trinité,</i> DAMASC. <i>Plat. Phil. 66, 7</i>.<p><b>Étym</b>. τριάς.`

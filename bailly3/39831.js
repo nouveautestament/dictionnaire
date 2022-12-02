@@ -1,0 +1,1 @@
+lar[39831]=`<b>ἐπ·ολβίζω</b> (<i>seul. prés</i>.) estimer heureux, NONN. <i>D. 46, 325</i>.<p><b>Étym</b>. ἐπί, ὄλβιος.`

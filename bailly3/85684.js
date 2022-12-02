@@ -1,0 +1,1 @@
+lar[85684]=`<b>προσ·επίκειμαι</b>, insister encore plus, DÉM. <i>834, 19</i>.`

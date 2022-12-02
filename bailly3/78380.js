@@ -1,0 +1,1 @@
+lar[78380]=`<b>περι·αμπέχω</b>, revêtir tout autour, envelopper : τι μετά τινος, PLAT. <i>Phæd. 98d</i>, une chose d’une autre ; τινά τι, AR. <i>Eq. 893</i> (<i>v</i>. περιαμπίσχω) qqn de qqe ch. ; <i>fig</i>. τί τινι, PLUT. <i>M. 931f</i>, une chose d’une autre.<br><b><i>Moy.</i></b> s’envelopper de, <i>acc</i>. PLAT. <i>Conv. 221e</i>.`

@@ -1,0 +1,1 @@
+lar[2093]=`<b>ἀ·θριπ·ήδεστος, ος, ον</b> <font color="purple">[ῑ]</font> non rongé des vers, THÉM. <i>293</i>.<p>•<i> Sup</i>. -έστατος, TH. <i>H.P. 5, 1, 2</i>.<p><b>Étym</b>. ἀ, θρίψ, ἐδεστός.`

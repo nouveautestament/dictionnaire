@@ -1,0 +1,1 @@
+lar[48043]=`<b>θυρσ·εγχής, ής, ές</b>, à la lance en forme de thyrse, <i>conj. p</i>. θυρσαχθής.<p><b>Étym</b>. θ. ἔγχος.`

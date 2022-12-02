@@ -1,0 +1,1 @@
+lar[23742]=`<b>ή, όν</b>, de Décélie ; ὁ Δ. πόλεμος, ISOCR. <i>166d, etc</i>. la guerre de Décélie, <i>dernière partie de la guerre du Péloponnèse</i>.`

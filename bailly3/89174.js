@@ -1,0 +1,1 @@
+lar[89174]=`<b>ου (ὁ)</b> Salaros, <i>h</i>. ARSTT. (DL. <i>2, 5</i>).`

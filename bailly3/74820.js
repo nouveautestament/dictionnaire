@@ -1,0 +1,1 @@
+lar[74820]=`<b>Παν·αθηναϊκός, ή, όν</b> <font color="purple">[ᾰνᾰ]</font> des Panathénées, THC. <i>1, 20</i> ; POSIDON. (ATH. <i>495a</i>) ; ὁ π. (<i>s.e</i>. λόγος) Discours sur les Panathénées, <i>titre d’un ouvrage d’Isocrate</i>.<p><b>Étym</b>. Παναθήναια.`

@@ -1,0 +1,1 @@
+lar[105806]=`<b>φιλ·οίκειος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les siens (sa famille, ses proches, <i>etc</i>.) ARSTT. (STOB. <i>1, 18 fin</i>) ; POL. <i>32, 14, 9, etc</i>.<p><b>Étym</b>. φ. οἰκεῖος.`

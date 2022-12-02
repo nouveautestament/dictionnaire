@@ -1,0 +1,1 @@
+lar[11885]=`<b>ατος (τὸ)</b> défense, justification, PLAT. <i>Leg. 765b</i>.<p><b>Étym</b>. ἀπηγορέομαι.`

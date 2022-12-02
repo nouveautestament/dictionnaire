@@ -1,0 +1,1 @@
+lar[5755]=`<b>ου (ἡ)</b> Amorgos (<i>auj</i>. Amorgós) <i>une des Cyclades,</i> PLUT. <i>Demetr. 11, etc</i>.`

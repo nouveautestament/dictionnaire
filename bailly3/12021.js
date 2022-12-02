@@ -1,0 +1,1 @@
+lar[12021]=`<b>ωνος (ὁ)</b> Apion, <i>grammairien d’Alexandrie</i>.`

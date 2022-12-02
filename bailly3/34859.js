@@ -1,0 +1,1 @@
+lar[34859]=`<b>ἐν·ορμέω-ῶ</b>, mouiller dans, être à l’ancre dans, <i>dat</i>. POL. <i>16, 29, 13</i> ; PHIL. <i>1, 523</i> ; JOS. <i>A.J. 15, 9, 6</i>.`

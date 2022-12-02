@@ -1,0 +1,1 @@
+lar[94494]=`<b>ου (τὸ)</b> <font color="purple">[φῠ]</font> grande consoude (<i>Symphytum officinale</i> L.) <i>plante qui a la vertu de rapprocher les chairs,</i> ARSTT. <i>H.A. 9, 13, 4</i> ; ARÉT. <i>p. 97, 12 ; 133, 40</i> ; LUC. <i>Trag. 153</i> ; APSYRT. (HIPPIATR. <i>p. 181</i>) ; DIOSC. <i>4, 10, etc</i>.<p><b>Étym</b>. συμφύω.`

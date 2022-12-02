@@ -1,0 +1,1 @@
+lar[31931]=`<b>ἐκ·πρεμνίζω</b> <font color="darkgreen">(<i>ao</i>. ἐξεπρέμνισα)</font> déraciner, arracher, DÉM. <i>1073, 27</i> ; PHILSTR. <i>869</i>.<p><b>Étym</b>. ἐκ, πρέμνον.`

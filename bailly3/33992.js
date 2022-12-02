@@ -1,0 +1,1 @@
+lar[33992]=`<b>ἐν·αποτήκω</b>, faire fondre dans, <i>dat</i>. GAL. <i>13, 40</i>.`

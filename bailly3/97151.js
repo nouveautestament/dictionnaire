@@ -1,0 +1,1 @@
+lar[97151]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Socrate, PLAT. <i>Ep. 363a</i>.<p><b>Étym</b>. Σωκράτης.`

@@ -1,0 +1,1 @@
+lar[94328]=`<b>συμποσιαρχέω-ῶ</b>, être président d’un banquet, ARSTT. <i>Pol. 2, 12</i> ; PLUT. <i>M. 620c</i>.<p><b>Étym</b>. συμποσίαρχος.`

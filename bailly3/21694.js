@@ -1,0 +1,1 @@
+lar[21694]=`<b>α, ον</b> de Génète :<br><b>      1 ἡ Γενηταίη</b> (<i>ion</i>.) ἄκρη, A.RH. <i>2, 378,</i> le promont. de Génète.<br><b>      2 ὁ Γενηταῖος</b>, A.RH. <i>2, 1011,</i> Zeus de Génète.<p><b>Étym</b>. Γένης.`

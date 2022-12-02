@@ -1,0 +1,1 @@
+lar[10755]=`<b>ἀν·υπόδικος, ος, ον</b> <font color="purple">[ῐ]</font> non exposé à un procès : τὸ ἀνυπόδικον, PLUT. <i>Cato mi. 11,</i> l’impunité.<p><b>Étym</b>. ἀν-, ὑ.`

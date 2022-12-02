@@ -1,0 +1,1 @@
+lar[11045]=`<b>ἀοριστόω-ῶ :<br>      1 <i>intr.</i></b> être indéfini, DYSC. <i>Synt. p. 12, 20 ; 26, 1, etc.</i><br><b>      2</b> désigner par l’aoriste, EUS. <i>p. 1755</i>.`

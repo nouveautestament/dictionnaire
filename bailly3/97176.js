@@ -1,0 +1,1 @@
+lar[97176]=`<b>σωματ·έμπορος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> marchand d’esclaves, ARTÉM. <i>3, 17</i>.<p><b>Étym</b>. σῶμα, ἔμπορος.`

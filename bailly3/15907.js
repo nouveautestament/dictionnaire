@@ -1,0 +1,1 @@
+lar[15907]=`<b>ἀ·σκέπαρνος, ος, ον</b>, non équarri, grossier, SOPH. <i>O.C. 101</i>.<p><b>Étym</b>. ἀ, σκέπαρνον.`

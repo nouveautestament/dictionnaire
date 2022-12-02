@@ -1,0 +1,1 @@
+lar[102789]=`<font color="purple">[ῠ]</font> <i>3 sg. ao.2 pass. de</i> ὑπορρήγνυμι.`

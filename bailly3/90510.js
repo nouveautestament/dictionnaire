@@ -1,0 +1,1 @@
+lar[90510]=`<b>η, ον</b> <font color="purple">[ῑῐ]</font> <i>c</i>. σιτικός GEOP. <i>2, 23, 9</i>.`

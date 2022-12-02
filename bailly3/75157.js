@@ -1,0 +1,1 @@
+lar[75157]=`<b>πάν·σκιος, ος, ον</b>, tout à fait couvert d’ombre, GEOP. <i>3, 11, 8</i>.<p><b>Étym</b>. π. σκιά.`

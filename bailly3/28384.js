@@ -1,0 +1,1 @@
+lar[28384]=`<b>δυσ·έμπτωτος, ος, ον</b> <font color="purple">[ῠ]</font> peu enclin à, <i>avec</i> εἰς <i>et l’acc</i>. GAL. <i>5, 157</i> ; NICOM. <i>Harm. 20</i>.<p><b>Étym</b>. δ. ἐμπίπτω.`

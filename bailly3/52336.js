@@ -1,0 +1,1 @@
+lar[52336]=`<b>εως (ἡ)</b> poursuite, persécution, CHRYS. <i>1, 450</i>.<p><b>Étym</b>. καταδιώκω.`

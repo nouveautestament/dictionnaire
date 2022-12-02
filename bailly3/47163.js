@@ -1,0 +1,1 @@
+lar[47163]=`<b>ή, όν</b>, aiguisé, ESCHL. <i>Sept. 944</i> ; EUR. <i>Med. 40</i> ; ANTH. <i>6, 110</i>.<p><b>Étym</b>. <i>vb. de</i> θήγω.`

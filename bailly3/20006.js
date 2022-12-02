@@ -1,0 +1,1 @@
+lar[20006]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰμ]</font><br><b>      1</b> cri, ESCHL. <i>Ag. 920</i>.<br><b>      2</b> accords sonores de la lyre, CYD. (AR. <i>Nub. 967).</i><p><b>Étym</b>. βοάω.`

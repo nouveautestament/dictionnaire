@@ -1,0 +1,1 @@
+lar[98652]=`<font color="purple">[ᾰ]</font> aller à quatre pattes, sur quatre pieds, ARSTT. <i>H.A. 2, 1, 48</i>.<p><b>Étym</b>. τετράπους.`

@@ -1,0 +1,1 @@
+lar[54843]=`<b>ων (οἱ)</b> habitants de Kérasunte, XÉN. <i>An. 5, 7, 13</i>.<p><b>Étym</b>. Κερασοῦς.`

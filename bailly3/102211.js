@@ -1,0 +1,1 @@
+lar[102211]=`<b>ὑπ·έξοδος, ου (ἡ)</b> flux de ventre, HPC. <i>Prorrh. 106</i>.`

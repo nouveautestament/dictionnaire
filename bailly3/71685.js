@@ -1,0 +1,1 @@
+lar[71685]=`<b>ὁμό·σκευος, ος, ον</b>, équipé <i>ou</i> vêtu de la même manière, THC. <i>2, 96 ; 3, 95</i> ; DH. <i>Rhet. 8, 11, p. 302, 8</i>.<p><b>Étym</b>. ὁμ. σκευή.`

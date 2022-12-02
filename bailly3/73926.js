@@ -1,0 +1,1 @@
+lar[73926]=`<b>ὀχλαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> attrouper, <i>d’où</i> soulever le peuple, POL. <i>25, 8, 2</i> ; STR. <i>652</i>.<p><b>Étym</b>. ὀχλαγωγός.`

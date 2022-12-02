@@ -1,0 +1,1 @@
+lar[34337]=`<b>ἐν·εξορκίζω</b> <font color="darkgreen">(<i>ao</i>. ἐνεξώρκισα)</font> <i>dans la loc</i>. ἐνεξώρκισε τὸν ὅρκον = <i>lat</i>. præivit juramentum, il dicta la formule du serment, POL. <i>fr. (Müll. Fr. hist. gr. vol. 2, p. XXVIII, 4)</i>.`

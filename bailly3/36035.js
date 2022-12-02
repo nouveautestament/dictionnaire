@@ -1,0 +1,1 @@
+lar[36035]=`<b>ος, ον</b> <font color="purple">[ῐτ]</font> qui concerne le départ, CIA. <i>2, 481, 33 et 58 (52/42 av. J.-C.) v. Meisterh. p. 92, 15</i>.<p><b>Étym</b>. ἐξιτητός.`

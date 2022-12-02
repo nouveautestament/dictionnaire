@@ -1,0 +1,1 @@
+lar[75314]=`<b>α, ον</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. πανύστατος CALL. <i>L. Pall. 54</i> ; ANTH. <i>App. 339</i>.`

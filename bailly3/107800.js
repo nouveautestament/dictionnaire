@@ -1,0 +1,1 @@
+lar[107800]=`<b>χαμαι·τύπη, ης (ἡ)</b> <font color="purple">[ᾰῠ]</font> prostituée, TIMOCL. (ATH. <i>570f</i>) ; THPP. COM. (ATH. <i>260f</i>) ; PLUT. <i>Ant. 9 ; M. 5b</i>.<p><b>Étym</b>. <i>cf</i>. χαμαιτυπής.`

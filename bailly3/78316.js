@@ -1,0 +1,1 @@
+lar[78316]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῐ]</font> fils de Pergasos, IL. <i>5, 535</i>.<p><b>Étym</b>. <i>patr. de</i> *Πέργασος.`

@@ -1,0 +1,1 @@
+lar[36869]=`<b>ἐπ·αφαιρέω-ῶ</b>, retrancher encore, GAL. <i>6, 136b ;</i> ARÉT. <i>Cur. m. acut. 2, 10</i>.`

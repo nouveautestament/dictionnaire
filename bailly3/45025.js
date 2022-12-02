@@ -1,0 +1,1 @@
+lar[45025]=`<b>ἡδύ·ποτος, ος, ον</b> <font color="purple">[ῠ]</font> agréable à boire, OD. <i>2, 340, etc</i>.<p><b>Étym</b>. ἡ. ποτός.`

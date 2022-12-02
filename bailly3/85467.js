@@ -1,0 +1,1 @@
+lar[85467]=`<b>προσ·εγγράφω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> graver en outre, HDT. <i>2, 102</i>.<br><b>      2</b> inscrire en outre, ESCHN. <i>83, 5</i>.`

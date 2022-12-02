@@ -1,0 +1,1 @@
+lar[106643]=`<b>φονό·ρρυτος</b>, <i>poét</i>. <b>φονό·ρυτος, ος, ον</b> <font color="purple">[ῠ]</font> inondé de sang, ESCHL. <i>Sept. 939</i>.<p><b>Étym</b>. φόνος, ῥέω.`

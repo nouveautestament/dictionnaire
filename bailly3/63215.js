@@ -1,0 +1,1 @@
+lar[63215]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> rasoir, AR. <i>Eq. 413</i> ; PLUT. <i>Artax. 19</i> ; LUC. <i>Ind. 29</i>.<p><b>Étym</b>. μάχαιρα.`

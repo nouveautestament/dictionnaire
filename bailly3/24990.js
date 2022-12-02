@@ -1,0 +1,1 @@
+lar[24990]=`<b>εως (ἡ)</b> <font color="purple">[μᾰ]</font> macération, amollissement, GAL. <i>13, 116</i>.<p><b>Étym</b>. διαμαλάττω.`

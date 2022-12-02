@@ -1,0 +1,1 @@
+lar[7735]=`<b>ἀνα·σχηματίζω</b> <font color="purple">[μᾰ]</font> transformer, PHIL. <i>1, 665</i>.`

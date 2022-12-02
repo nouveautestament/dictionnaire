@@ -1,0 +1,1 @@
+lar[8631]=`<b>ἀν·εχέγγυος, ος, ον</b>, qui ne sait où se lier, irrésolu, THC. <i>4, 55</i>.<p><b>Étym</b>. ἀν-, ἐχ.`

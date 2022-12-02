@@ -1,0 +1,1 @@
+lar[78956]=`<b>περινέω-ῶ</b>, nager <i>ou</i> flotter autour, GAL. <i>Lex. Hipp. 19, 130</i> ; ARSTT. <i>H.A. 9, 37, 10</i>.`

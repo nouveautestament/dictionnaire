@@ -1,0 +1,1 @@
+lar[28536]=`<b>δυσ·κάθεκτος, ος, ον</b> <font color="purple">[ᾰ]</font> difficile à contenir, fougueux, effréné, PLUT. <i>Num. 4</i> ; LUC. <i>Tim. 29</i>.<p>•<i> Sup</i>. -ότατος, XÉN. <i>Mem. 4, 1, 3</i>.<p><b>Étym</b>. δ. κατέχω.`

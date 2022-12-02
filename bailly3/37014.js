@@ -1,0 +1,1 @@
+lar[37014]=`<b>ἐπ·εισχέω</b> (<i>seul. prés. et impf</i>. ἐπεισέχεον) répandre en outre dans, PHIL. <i>1, 72, etc.</i> ; CLÉM. <i>152, 157</i>.<br><b><i>Moy.</i></b> se répandre à flots pressés, <i>en parl. d’une foule,</i> JOS. <i>B.J. 4, 3, 3</i>.`

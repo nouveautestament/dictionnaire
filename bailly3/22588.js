@@ -1,0 +1,1 @@
+lar[22588]=`<b>γραμματο·κύφων, ωνος (ὁ)</b> <font color="purple">[μᾰῡ]</font> misérable scribe (<i>litt</i>. courbé sur son écriture), DÉM. <i>297, 27</i> ; PHIL. <i>2, 536</i>.<p><b>Étym</b>. γράμμα, κύπτω.`

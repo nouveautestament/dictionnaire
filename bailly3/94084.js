@@ -1,0 +1,1 @@
+lar[94084]=`<b>συμ·παρανεύω</b>, donner son assentiment ensemble, ARSTT. <i>Rhet. 3, 5, 4</i> ; ARSTD. <i>t. 1, 354</i>.`

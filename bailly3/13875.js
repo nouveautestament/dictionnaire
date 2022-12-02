@@ -1,0 +1,1 @@
+lar[13875]=`<b>ἄ·πρατος, ος, ον</b> <font color="purple">[ᾱτ]</font><br><b>      1</b> non vendu, LYS. <i>108, 44 (corr</i>. ἄπρακτος <i>Scheibe) ; en mauv. part en parl. de pers</i>. ESCHN. <i>31, 19</i>.<br><b>      2</b> qui ne peut se vendre, DÉM. <i>910, 1</i>.<p><b>Étym</b>. ἀ, πιπράσκω.`

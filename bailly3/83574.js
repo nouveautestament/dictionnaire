@@ -1,0 +1,1 @@
+lar[83574]=`<b>προ·ανασκοπέομαι-οῦμαι</b>, examiner d’avance, <i>d’où</i> pourvoir à, JOS. <i>A.J. 17, 5, 6</i>.`

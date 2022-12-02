@@ -1,0 +1,1 @@
+lar[43534]=`<b>ας (ἡ)</b> pouls régulier, ARÉT. <i>Cur. m. acut. 1, 4</i> ; CLÉM. <i>286</i>.<p><b>Étym</b>. εὔσφυκτος.`

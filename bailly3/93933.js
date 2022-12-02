@@ -1,0 +1,1 @@
+lar[93933]=`<b>συμ·μεθύω</b> (<i>seul. prés</i>.) être ivre <i>ou</i> s’enivrer avec, <i>dat</i>. Phanias (ATH. <i>6f</i>) ; CLÉM. <i>Pæd. 2, 71</i>.`

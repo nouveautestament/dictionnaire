@@ -1,0 +1,1 @@
+lar[41072]=`<i>adv</i>., du couchant, ARAT. <i>734, 891</i>.<p><b>Étym</b>. ἕσπερος, -θεν.`

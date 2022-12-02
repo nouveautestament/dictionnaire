@@ -1,0 +1,1 @@
+lar[7429]=`<b>ἀν·απόγραφος, ος, ον</b> <font color="purple">[ᾰφ]</font> non enregistré, HYPÉR. <i>Eux. 43</i>.<p><b>Étym</b>. ἀν-, ἀπογράφω.`

@@ -1,0 +1,1 @@
+lar[29844]=`<font color="darkgreen">(<i>seul. part. prés. épq</i>. ἐγρηγορόων)</font> <i>c</i>. ἐγρηγορέω, OD. <i>20, 6</i>.`

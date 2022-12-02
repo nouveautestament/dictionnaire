@@ -1,0 +1,1 @@
+lar[35829]=`<b>ἐξ·ερευνάω-ῶ</b>, rechercher avec soin, chercher à savoir exactement, SOPH. <i>O.R. 258, El. 1100,</i> EUR. <i>Hel. 429</i> ; POL. <i>14, 1, 13</i> ; PLUT. <i>Luc. 19</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. DC. <i>52, 6</i>.`

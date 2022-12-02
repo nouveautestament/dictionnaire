@@ -1,0 +1,1 @@
+lar[68270]=`<b>νεο·τελής, ής, ές</b>, nouvellement initié, PLAT. <i>Phædr. 250e ; ou</i> achevé, LUC. <i>D. mer. 11, 2</i>.<p><b>Étym</b>. ν. τέλος.`

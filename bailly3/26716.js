@@ -1,0 +1,1 @@
+lar[26716]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> du poète Diodôros, ANTH. <i>6, 348</i>.`

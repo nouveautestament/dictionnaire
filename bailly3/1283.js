@@ -1,0 +1,1 @@
+lar[1283]=`<b>ας (ἡ)</b> inquiétude, tourment ; PLUT. <i>Num. 4, M. 78a ;</i> PHIL. <i>2, 99, etc</i>.<p><b>Étym</b>. ἀδημονέω.`

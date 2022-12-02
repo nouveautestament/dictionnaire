@@ -1,0 +1,1 @@
+lar[48967]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰῐδ]</font> petit vêtement, AR. <i>Pl. 985</i> ; LYS. (POLL. <i>7, 42).</i><p>➳ <i>Crase</i> θαἰματίδια, <i>p</i>. τὰ ἱμ. AR. <i>Lys. 401</i>.<p><b>Étym</b>. <i>dim. de</i> ἱμάτιον.`

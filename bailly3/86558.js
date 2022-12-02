@@ -1,0 +1,1 @@
+lar[86558]=`<b>προσ·υπερβάλλω</b>, surpasser en outre <i>ou</i> encore, PHIL. <i>1, 243, etc.</i> ; PLUT. <i>M. 814e</i>.`

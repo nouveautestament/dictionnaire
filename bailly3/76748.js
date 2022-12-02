@@ -1,0 +1,1 @@
+lar[76748]=`<b>παρ·έξοδος, ου (ἡ) :<br>      1</b> action de se détourner de sa route, <i>d’où</i> chemin détourné <i>ou</i> de traverse, NAZ. <i>3, 1107 Migne</i>.<br><b>      2</b> <i>p. ext</i>. appareil de tournée, trousse de médecin, HPC. <i>24, 20</i>.<p><b>Étym</b>. π. ἔξοδος.`

@@ -1,0 +1,1 @@
+lar[588]=`<b>ἀ·γίγαρτος, ος, ον</b> <font color="purple">[ᾰῑ]</font> sans pépins <i>ou</i> sans noyau, TH. <i>C.P. 5, 5, 1</i>.<p><b>Étym</b>. ἀ, γίγαρτον.`

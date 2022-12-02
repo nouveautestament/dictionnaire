@@ -1,0 +1,1 @@
+lar[26850]=`<i>vb. de</i> διορθόω, ANTYLL. (ORIB. <i>3, 97 B.-Dar</i>.) ; NYSS. <i>2, 590d</i>.`

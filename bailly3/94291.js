@@ -1,0 +1,1 @@
+lar[94291]=`<b>ος, ον</b>, entrelacé, uni, ANTH. <i>5, 255</i> ; NONN. <i>Jo. 6, 32</i>.<p><b>Étym</b>. συμπλέκω.`

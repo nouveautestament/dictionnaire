@@ -1,0 +1,1 @@
+lar[25007]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font> flagellation dure <i>ou</i> prolongée, <i>épreuve à laquelle étaient soumis les jeunes Spartiates,</i> PLUT. <i>M. 239d</i>.<p><b>Étym</b>. διαμαστιγόω.`

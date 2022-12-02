@@ -1,0 +1,1 @@
+lar[10115]=`<b>ἀντι·μυκάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> répondre par des mugissements, DH. <i>1, 39</i>.`

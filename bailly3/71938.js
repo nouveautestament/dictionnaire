@@ -1,0 +1,1 @@
+lar[71938]=`<b>(ὁ)</b> <font color="purple">[ῑ]</font> Onitès, <i>compagnon de Bacchus,</i> NONN. <i>D. 28, 112</i>.<p><b>Étym</b>. <i>v</i>. ὀνίτης.`

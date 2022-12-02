@@ -1,0 +1,1 @@
+lar[81472]=`<b>ποιο·τρόφος, ος, ον</b>, qui nourrit les plantes, OPP. <i>C. 1, 460</i>.<p><b>Étym</b>. ποία, τρέφω.`

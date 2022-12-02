@@ -1,0 +1,1 @@
+lar[77090]=`<b>παρ·οργίζω</b> <font color="darkgreen">(<i>f. att</i>. ιῶ)</font> irriter, SPT. <i>3Reg. 16, 33, etc.</i> ; NT. <i>Rom. 10, 19, etc. ; au pass</i>. être irrité <i>ou</i> s’irriter, TH. <i>H.P. 9, 16, 6</i> ; STR. <i>923</i> ; πρός τινα, DÉM. <i>805, 19,</i> contre qqn.`

@@ -1,0 +1,1 @@
+lar[32716]=`<b>ἐλευθερο·πρασία, ας (ἡ)</b> <font color="purple">[ᾰσ]</font> vente d’un homme libre, SIB. <i>2, 13</i>.<p><b>Étym</b>. ἐ. πιπράσκω.`

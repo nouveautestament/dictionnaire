@@ -1,0 +1,1 @@
+lar[754]=`<b>ῶνος (ὁ)</b> lieu chaste, <i>par antiphr. p</i>. harem, CLÉARQ. (ATH. <i>515f</i>).<p><b>Étym</b>. ἁγνός.`

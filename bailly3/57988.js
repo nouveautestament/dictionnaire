@@ -1,0 +1,1 @@
+lar[57988]=`<b>ης (ἡ)</b> Kritylla, <i>f</i>. AR. <i>Lys. 323, Th. 898</i>.`

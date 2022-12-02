@@ -1,0 +1,1 @@
+lar[93079]=`<b>στυλο·ειδής, ής, ές</b> <font color="purple">[ῡ]</font> qui ressemble à une colonne, GAL. <i>4, 43</i>.<p><b>Étym</b>. στ. εἶδος.`

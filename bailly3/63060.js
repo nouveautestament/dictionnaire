@@ -1,0 +1,1 @@
+lar[63060]=`<b>ου</b> <font color="purple">[σᾰ]</font> <i>adj. m. c</i>. Μασσαλιήτης DÉM. <i>884, 15</i> ; TH. <i>H.P. 9, 10, 3</i>.`

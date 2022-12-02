@@ -1,0 +1,1 @@
+lar[36631]=`<b>ἐπ·αναπλάττω</b> (<i>part. prés</i>.) façonner de nouveau, AXION. (ATH. <i>95c</i>).`

@@ -1,0 +1,1 @@
+lar[47712]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. de</i> θρίδαξ, PLUT. <i>M. 349a</i>.`

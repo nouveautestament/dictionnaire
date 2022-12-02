@@ -1,0 +1,1 @@
+lar[91269]=`être sombre, triste, EUR. <i>El. 830</i>.<p><b>Étym</b>. σκυθρός.`

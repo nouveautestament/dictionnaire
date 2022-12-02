@@ -1,0 +1,1 @@
+lar[12569]=`<b>ἀπό·κινος, ου (ὁ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> fuite, évasion, AR. <i>Eq. 20</i>.<br><b>      2</b> sorte de danse comique, ATH. <i>629c</i>.<p><b>Étym</b>. ἀπό, κινέω.`

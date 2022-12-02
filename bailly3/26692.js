@@ -1,0 +1,1 @@
+lar[26692]=`<b>Διό·βολος, ος, ον</b> <font color="purple">[ῑ]</font> lancé par Zeus, SOPH. <i>O.C. 1464</i> ; EUR. <i>Alc. 128</i>.<p><b>Étym</b>. Διός, βάλλω.`

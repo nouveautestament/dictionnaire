@@ -1,0 +1,1 @@
+lar[94190]=`<b>συμ·περιζώννυμι</b> <font color="purple">[νῡ]</font> ceindre ensemble, <i>d’où au moy</i>. s’envelopper de, <i>acc</i>. ATH. <i>551d</i>.`

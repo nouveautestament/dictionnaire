@@ -1,0 +1,1 @@
+lar[77933]=`<i>adv</i>., avec deuil, avec tristesse, PLUT. <i>M. 113d</i>.<p><b>Étym</b>. *πενθητικός, <i>de</i> πενθέω.`

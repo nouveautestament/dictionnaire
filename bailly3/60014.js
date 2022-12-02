@@ -1,0 +1,1 @@
+lar[60014]=`<font color="purple">[ᾰᾰ]</font><br><b>      1</b> planter des légumes, semer des graines potagères, STR. <i>242</i> ; APP. <i>Lib. 117</i>.<br><b>      2</b> manger des légumes, DIOSC. <i>2, 145</i>.<br><b><i>Moy.</i></b> se nourrir de légumes, LUC. <i>Lex. 2</i>.<p><b>Étym</b>. λάχανον.`

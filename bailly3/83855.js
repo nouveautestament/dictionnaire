@@ -1,0 +1,1 @@
+lar[83855]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>fém. de</i> προγεύστης PHIL. <i>1, 170, 603</i>.`

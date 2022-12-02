@@ -1,0 +1,1 @@
+lar[77078]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de marquer la pénultième d’un accent aigu, EUST. <i>1409, 54, etc</i>.<p><b>Étym</b>. παροξυτονέω.`

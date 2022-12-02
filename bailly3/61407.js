@@ -1,0 +1,1 @@
+lar[61407]=`<b>ατος (τὸ)</b> sommet de la tête chauve et lisse, ARSTT. <i>H.A. 1, 7, 4</i>.<p><b>Étym</b>. λισσός.`

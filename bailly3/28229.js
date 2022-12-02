@@ -1,0 +1,1 @@
+lar[28229]=`<b>ατος (τὸ)</b> <font color="purple">[ῠᾰρ]</font> désagrément, incommodité, ANTYLL. (STOB. <i>Fl. 101, 15).</i><p><b>Étym</b>. δυσαρεστέω.`

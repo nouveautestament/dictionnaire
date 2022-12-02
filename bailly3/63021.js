@@ -1,0 +1,1 @@
+lar[63021]=`<b>(ὁ)</b> Marphadatès, <i>Cappadocien,</i> PLUT. <i>Cato mi. 73</i>.`

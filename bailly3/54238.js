@@ -1,0 +1,1 @@
+lar[54238]=`<b>κάτ·ωμος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a les épaules basses, HIPPIATR. <i>p. 262</i>.<p><b>Étym</b>. κ. ὦμος.`

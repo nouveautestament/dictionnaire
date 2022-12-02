@@ -1,0 +1,1 @@
+lar[16263]=`<b>ου (ὁ)</b> <font color="purple">[ᾰγᾰ]</font> chardonneret, <i>oiseau,</i> OPP. <i>Ix. 3, 2</i>.`

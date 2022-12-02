@@ -1,0 +1,1 @@
+lar[24634]=`<b>δια·θειόω-ῶ</b> (<i>seul. ao. 3 sg</i>. διεθείωσεν) répandre une vapeur de soufre à travers (une maison) <i>acc</i>. OD. <i>22, 494</i>.`

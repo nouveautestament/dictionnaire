@@ -1,0 +1,1 @@
+lar[37675]=`<b>ἐπι·δουπέω-ῶ</b>, faire du bruit en frappant sur, PLUT. <i>Eum. 14</i>.<p><b>Étym</b>. <i>cf</i>. ἐπιγδουπέω.`

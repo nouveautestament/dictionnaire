@@ -1,0 +1,1 @@
+lar[90983]=`<b>ατος (τὸ)</b> bond, danse, ESCHL. <i>Pr. 600, 675</i> ; EUR. <i>H.f. 836, etc.</i> ; PLUT. <i>M. 759a ;</i> LUC. <i>Bacch. 5</i>.<p><b>Étym</b>. σκιρτάω.`

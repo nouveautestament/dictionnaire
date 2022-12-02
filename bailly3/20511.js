@@ -1,0 +1,1 @@
+lar[20511]=`<b>βού·πρηστις, ιδος (ἡ)</b> <i>litt</i>. qui brûle les bœufs :<br><b>      1</b> insecte que les bœufs trouvent dans le fourrage, et qui les fait enfler et mourir, HPC. <i>573, 14</i> ; NIC. <i>Al. 346, etc.</i><br><b>      2</b> sorte de plante (<i>p.-ê. Bupleurum rotundifolium</i> L.) TH. <i>H.P. 7, 7, 3</i>.<p><b>Étym</b>. βοῦς, πρήθω.`

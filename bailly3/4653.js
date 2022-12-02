@@ -1,0 +1,1 @@
+lar[4653]=`<b>Ἀλκι·μέδων, οντος (ὁ)</b> <font color="purple">[ῐ]</font> Alkimédôn, <i>h</i>. IL. <i>16, 197, etc</i>.<p>➳ <i>Voc</i>. -ον, IL. <i>17, 475</i>.<p><b>Étym</b>. ἀλκή, μέδω.`

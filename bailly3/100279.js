@@ -1,0 +1,1 @@
+lar[100279]=`<b>ας (ἡ)</b> <font color="purple">[ρῐ]</font><br><b>      1</b> triple aigrette, AR. <i>Av. 94</i> ; STR. <i>154, 476</i>.<br><b>      2</b> casque à triple aigrette, PLUT. <i>Arat. 32</i>.<p><b>Étym</b>. τρίλοφος.`

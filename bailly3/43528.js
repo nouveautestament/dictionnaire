@@ -1,0 +1,1 @@
+lar[43528]=`<b>εὐ·σύνοπτος, ος, ον :<br>      1</b> facile à embrasser d’un coup d’œil, ISOCR. <i>Antid. § 172</i> ; ESCHN. <i>70, 821</i> ; ARSTT. <i>Poet. 7, 10 ; p. ext</i>. facile à voir, ARSTT. <i>Sens. 4, 4</i>.<br><b>      2</b> <i>fig</i>. facile à comprendre, clair, ARSTT. <i>Poet. 23, 5</i>.<p><b>Étym</b>. εὖ, συνόψομαι.`

@@ -1,0 +1,1 @@
+lar[6328]=`<b>*ἀμφί·πολις</b>, <i>poét</i>. <b>ἀμφί·πτολις</b>, <i>acc</i>. <b>-ιν</b>, <i>adj. f</i>. qui est hors (<i>litt</i>. autour) de la ville, ESCHL. <i>Ch. 72</i>.<p><b>Étym</b>. ἀ. πόλις.`

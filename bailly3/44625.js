@@ -1,0 +1,1 @@
+lar[44625]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> né sous le signe de la Balance, BAS. <i>1, 55</i>.<p><b>Étym</b>. ζύγιον.`

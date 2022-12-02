@@ -1,0 +1,1 @@
+lar[1062]=`<i>adv</i>., avec intelligence, ARSTT. <i>Virt. et vit. 4, 1</i>.<p><b>Étym</b>. ἀγχίνοος.`

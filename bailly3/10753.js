@@ -1,0 +1,1 @@
+lar[10753]=`<b>ἀνυποδητέω-ῶ</b>, aller pieds nus, ARSTT. <i>fr. 64</i> ; LUC. <i>Cyn. 1</i>.<p><b>Étym</b>. ἀνυπόδητος.`

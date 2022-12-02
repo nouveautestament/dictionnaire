@@ -1,0 +1,1 @@
+lar[96300]=`<b>ατος (τὸ) :<br>      1</b> contribution, SPT. <i>1Esdr. 4, 13</i>.<br><b>      2</b> accomplissement, BRUT. <i>Epist. præf</i>.<p><b>Étym</b>. συντελέω.`

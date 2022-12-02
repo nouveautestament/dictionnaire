@@ -1,0 +1,1 @@
+lar[102723]=`<b>ὑπέρ·οφρυς, υς, υ</b>, <i>gén</i>. <b>υος</b>, qui lève les sourcils, <i>p. suite,</i> qui regarde d’un air hautain, HYPÉR. (SUID.).<p><b>Étym</b>. ὑ. ὀφρύς.`

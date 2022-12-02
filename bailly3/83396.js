@@ -1,0 +1,1 @@
+lar[83396]=`<b>πρηστηρο·κράτωρ, ορος (ὁ)</b> <font color="purple">[ᾰ]</font> maître de la foudre, SYN. <i>Hymn. 3, 161</i>.<p><b>Étym</b>. πρηστήρ, κρατέω.`

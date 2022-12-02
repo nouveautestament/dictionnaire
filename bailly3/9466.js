@@ -1,0 +1,1 @@
+lar[9466]=`<b>ας (ἡ)</b> le territoire d’Antandros, ARSTT. <i>H.A. 3, 12, etc</i>.<p><b>Étym</b>. Ἄντανδρος.`

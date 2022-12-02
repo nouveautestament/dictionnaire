@@ -1,0 +1,1 @@
+lar[16540]=`<b>ἀ·σύρρηκτος, ος, ον</b>, non brisé en même temps, P. ÉG.`

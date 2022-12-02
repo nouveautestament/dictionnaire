@@ -1,0 +1,1 @@
+lar[23733]=`<b>δεκά·χορδος, ος, ον</b> <font color="purple">[ᾰ]</font> à dix cordes (lyre, ION <i>fr. 3</i> ; harpe, SPT. <i>Ps. 32, 2).</i><p><b>Étym</b>. δ. χορδή.`

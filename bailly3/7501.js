@@ -1,0 +1,1 @@
+lar[7501]=`<b>ἀνα·πυρίζω</b> <font color="purple">[ῠ]</font> <i>c</i>. ἀναπυρόω CHRYS. <i>8, 2</i>.`

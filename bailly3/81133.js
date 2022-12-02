@@ -1,0 +1,1 @@
+lar[81133]=`<b>πλουτο·ποιός, ός, όν</b>, qui enrichit, PLUT. <i>Num. 16, etc</i>.<p><b>Étym</b>. πλ. ποιέω.`

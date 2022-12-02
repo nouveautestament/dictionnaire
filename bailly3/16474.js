@@ -1,0 +1,1 @@
+lar[16474]=`<b>ἀ·σύμφυτος, ος, ον</b> <font color="purple">[φῠ]</font> qui n’a pas poussé avec, HPC. <i>6, 22</i> ; ARÉT.<p><b>Étym</b>. ἀ, συμφύω.`

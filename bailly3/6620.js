@@ -1,0 +1,1 @@
+lar[6620]=`<b>ἀνα·γλυκαίνω</b> <font color="purple">[ῠ]</font> rendre doux, TH. <i>C.P. 3, 22, 3</i>.`

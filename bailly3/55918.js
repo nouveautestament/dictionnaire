@@ -1,0 +1,1 @@
+lar[55918]=`<b>Κλεό·τιμος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Kléotimos, <i>h</i>. DÉM. <i>324, 11</i> ; ARSTT. <i>Pol. 5, 6</i>.<p><b>Étym</b>. κλ. τιμή, <i>cf</i>. Τιμοκλῆς.`

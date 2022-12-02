@@ -1,0 +1,1 @@
+lar[40621]=`<b>Ἑρμο·γλύφης (ὁ)</b> <font color="purple">[ῠ]</font> <i>seul. pl</i>. οἱ Ἑρμογλύφαι, PLUT. <i>M. 580e</i>, la rue des statuaires, <i>à Athènes</i>.`

@@ -1,0 +1,1 @@
+lar[8487]=`<b>ἀνεπιστασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> inattention, PLAT. <i>Ax. 365d</i>.<p><b>Étym</b>. ἀνεπίστατος.`

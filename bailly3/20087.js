@@ -1,0 +1,1 @@
+lar[20087]=`<b>ου (ὁ)</b> Boïskos, <i>h</i>. XÉN. POLYEN.`

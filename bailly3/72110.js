@@ -1,0 +1,1 @@
+lar[72110]=`<b>ὀξυ·κόρακος, ος, ον</b> <font color="purple">[ῠᾰ]</font> muni de crocs aigus, P. ÉG. <i>6, 87</i>.<p><b>Étym</b>. ὀ. κόραξ.`

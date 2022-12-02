@@ -1,0 +1,1 @@
+lar[34199]=`<b>ἔνδινα, ων (τὰ)</b> <font color="purple">[ῑ]</font> intestins, IL. <i>23, 806</i>.<p><b>Étym</b>. ἔνδον.`

@@ -1,0 +1,1 @@
+lar[8326]=`<b>ας (ἡ)</b> dommage causé par le vent, SPT. <i>Deut. 28, 12 ; 2Par. 6, 28, etc</i>.<p><b>Étym</b>. ἀνεμόφθορος.`

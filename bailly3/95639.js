@@ -1,0 +1,1 @@
+lar[95639]=`<b>συν·επικραδαίνω</b> <font color="purple">[ᾰ]</font> secouer en même temps (tout son corps), XÉN. <i>Cyn. 6, 16</i>.`

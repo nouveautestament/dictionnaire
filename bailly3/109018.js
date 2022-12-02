@@ -1,0 +1,1 @@
+lar[109018]=`<b>χρηστό·φιλος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime les gens de bien, ARSTT. <i>Rhet. 1, 5, 16</i>.<p><b>Étym</b>. χρηστός, φιλέω.`

@@ -1,0 +1,1 @@
+lar[45751]=`<b>ΐδος</b>, <i>adj. f.</i> : τέχνη, POÈT. (STR. <i>17</i>) l’art de tromper.<p><b>Étym</b>. ἠπεροπεύς.`

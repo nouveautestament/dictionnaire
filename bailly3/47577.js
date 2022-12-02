@@ -1,0 +1,1 @@
+lar[47577]=`<b>Θρασύ·δημος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Thrasydèmos, <i>cocher de Sarpédon,</i> IL. <i>16, 463</i>.<p><b>Étym</b>. θρ. δῆμος ; <i>v</i>. Θρασύμηλος.`

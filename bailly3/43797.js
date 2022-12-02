@@ -1,0 +1,1 @@
+lar[43797]=`<b>εὐ·χάροπος, ος, ον</b> <font color="purple">[ᾰ]</font> aux yeux agréables, GEOP. <i>14, 16, 2</i>.<p><b>Étym</b>. εὖ, χαροπός.`

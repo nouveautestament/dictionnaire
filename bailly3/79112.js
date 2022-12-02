@@ -1,0 +1,1 @@
+lar[79112]=`<i>adv</i>., en enveloppant de ses replis, en enlaçant, LUC. <i>Am. 12</i> ; OPP. <i>H. 2, 376</i> ; ANTH. <i>5, 259</i>.<p><b>Étym</b>. περιπλέκω.`

@@ -1,0 +1,1 @@
+lar[74658]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. du dème Pallènè, <i>ép. d’Athèna,</i> HDT. <i>1, 62, etc</i>.<p><b>Étym</b>. Παλλήνη.`

@@ -1,0 +1,1 @@
+lar[85427]=`<b>προσ·διαταράσσω</b> <font color="purple">[τᾰ]</font> troubler encore plus <i>ou</i> en outre, DC. <i>35, 10</i>.`

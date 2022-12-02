@@ -1,0 +1,1 @@
+lar[42660]=`<b>εὐμελιτέω-ῶ</b> <font color="purple">[ῐ]</font> avoir de bon miel <i>ou</i> beaucoup de miel, ARSTT. <i>H.A. 9, 40, 26</i> ; TH. <i>H.P. 6, 2, 3</i>.<p><b>Étym</b>. εὖ, μέλι.`

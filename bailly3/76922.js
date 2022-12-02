@@ -1,0 +1,1 @@
+lar[76922]=`<b>ή, όν</b>, des Parthes, PLUT. <i>Ant. 28, etc.</i> ; ἡ Παρθική, PLUT. <i>Alex. 45,</i> la Parthiène ; τὰ Παρθικά, l’empire des Parthes, PLUT. <i>Ant. 53 ; ou</i> la guerre des Parthes, PLUT. <i>Pomp. 56 ; ou</i> l’histoire des Parthes, STR. <i>118, etc</i>.<p><b>Étym</b>. Πάρθοι.`

@@ -1,0 +1,1 @@
+lar[57789]=`<i>adv</i>., utilement, bien comme il faut, PÉRICT. (STOB. <i>Fl. 83, 19</i>).`

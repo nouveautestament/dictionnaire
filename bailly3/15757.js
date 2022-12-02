@@ -1,0 +1,1 @@
+lar[15757]=`<b>ἀσβολάω-ῶ</b>, noircir de suie <i>ou</i> de fumée, PLUT. <i>Cim. 1</i>.<p><b>Étym</b>. ἀσβόλη.`

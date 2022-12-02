@@ -1,0 +1,1 @@
+lar[22533]=`<b>ατος (τὸ)</b> supplication en touchant les genoux, LYC. <i>1243</i>.<p><b>Étym</b>. γουνάζομαι.`

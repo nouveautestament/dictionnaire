@@ -1,0 +1,1 @@
+lar[52389]=`<b>κατα·θαρσύνω</b> <i>ou</i> <b>κατα·θαρρύνω</b>, encourager contre, PLUT. <i>Luc. 29</i>.<br><b><i>Moy.</i></b> <i>sous la forme</i> <b>καταθρασύνομαι</b>, LUC. <i>D. mort. 21, 2</i> ; DL. <i>2, 197 ; avec le gén</i>. THÉM. <i>p. 464, c</i>. καταθαρρέω.`

@@ -1,0 +1,1 @@
+lar[77484]=`<font color="purple">[ᾰῠ]</font> <i>adv</i>., grossièrement, STR. <i>66 au cp</i>. -έστερον.<p><b>Étym</b>. παχυμερής.`

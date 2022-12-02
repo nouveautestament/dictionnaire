@@ -1,0 +1,1 @@
+lar[4215]=`<b>ορος (ὁ)</b> <font color="purple">[ᾰ]</font> coq, BATR. <i>191</i> ; PD. <i>O. 12, 20</i> ; ESCHL. <i>Ag. 1671, Eum. 861</i> ; AR. <i>Nub. 666</i> ; ARSTT. <i>fr. 271</i> ; THCR. <i>Idyl. 7, 123, etc</i>.<p><b>Étym</b>. <i>cf</i>. ἀλεκτρυών.`

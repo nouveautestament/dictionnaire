@@ -1,0 +1,1 @@
+lar[38866]=`<b>*ἐπιρράπισις</b>, <i>seul. ion</i>. <b>ἐπιρράπιξις, ιος (ἡ)</b> <font color="purple">[ᾰ]</font> action de fustiger ; <i>fig</i>. reproche, ION (ATH. <i>604b</i>).<p><b>Étym</b>. ἐπιρραπίζω.`

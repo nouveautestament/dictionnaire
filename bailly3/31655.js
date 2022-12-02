@@ -1,0 +1,1 @@
+lar[31655]=`<b>ἐκ·μασάομαι-ῶμαι</b> <font color="purple">[μᾰ]</font> (<i>part. ao</i>. -ηθεῖσαν) mâcher complètement, PHIL. <i>1, 334</i>.`

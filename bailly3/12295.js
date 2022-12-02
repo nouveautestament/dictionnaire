@@ -1,0 +1,1 @@
+lar[12295]=`<b>ἀπο·διδύσκω</b> <font color="purple">[ῐ]</font> <i>c</i>. ἀποδύω, ARTÉM. <i>2, 74</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PARTH. <i>15</i>.<p><b>Étym</b>. ἀπό, *διδύσκω, <i>dér. de</i> δύω <i>avec redoubl</i>.`

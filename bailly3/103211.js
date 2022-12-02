@@ -1,0 +1,1 @@
+lar[103211]=`<b>ὑπο·δύσκολος, ος, ον</b>, de caractère un peu difficile, morose, HPC. <i>Coac. 148</i>.`

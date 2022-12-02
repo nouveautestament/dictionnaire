@@ -1,0 +1,1 @@
+lar[88345]=`<b>ή, όν</b>, qui concerne les rhapsodes, de rhapsode, PLAT. <i>Ion 538b 540a, etc</i>.<p><b>Étym</b>. ῥαψῳδός.`

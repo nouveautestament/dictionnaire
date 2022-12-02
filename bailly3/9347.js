@@ -1,0 +1,1 @@
+lar[9347]=`<i>adv</i>., sans maladie, HPC. <i>Epid. 1, 939</i> ; ARSTT. <i>H.A. 20, 3</i>.<p><b>Étym</b>. ἄνοσος.`

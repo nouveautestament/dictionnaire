@@ -1,0 +1,1 @@
+lar[70740]=`<b>έως</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. habitant <i>ou</i> originaire d’Œkhalia, <i>en Étolie,</i> IL. <i>2, 596, 730</i> ; PLUT. <i>Thes. 9</i>.<p><b>Étym</b>. <i>c</i>. Οἰχαλία.`

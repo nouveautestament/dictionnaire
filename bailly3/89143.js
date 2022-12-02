@@ -1,0 +1,1 @@
+lar[89143]=`<b>α (ὁ)</b> <font color="purple">[τᾱ]</font> médecin, <i>mot béotien,</i> STRATT. (<i>Com. fr. 2, 781</i>).`

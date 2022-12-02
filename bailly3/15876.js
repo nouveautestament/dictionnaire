@@ -1,0 +1,1 @@
+lar[15876]=`<font color="purple">[σῑ]</font> <i>adv</i>., sans manger, SPT. <i>Job 24, 6</i>.<p><b>Étym</b>. ἄσιτος.`

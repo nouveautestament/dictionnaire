@@ -1,0 +1,1 @@
+lar[105197]=`<i>ion</i>. <b>φερωνυμίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> dénomination qui convient à qqn <i>ou</i> à qqe ch., nom significatif, OPP. <i>H. 1, 243</i>.<p><b>Étym</b>. φερώνυμος.`

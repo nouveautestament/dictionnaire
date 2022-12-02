@@ -1,0 +1,1 @@
+lar[4876]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> salure, HPC. <i>1200a ;</i> ARSTT. <i>Meteor. 2, 3, 13</i>.<p><b>Étym</b>. ἁλμυρός.`

@@ -1,0 +1,1 @@
+lar[54296]=`<b>καυλο·φορέω-ῶ</b>, avoir (<i>litt</i>. porter) une tige, GAL. <i>6, 371</i>.<p><b>Étym</b>. καυλός, -φόρος <i>de</i> φέρω.`

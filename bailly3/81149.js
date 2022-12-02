@@ -1,0 +1,1 @@
+lar[81149]=`<b>ων (τὰ)</b> (<i>s.-e</i>. ἱερά) les Plyntèries, <i>fête du 25 Thargélion où l’on lavait les ornements des statues d’Athèna, à Athènes,</i> XÉN. <i>Hell. 1, 4, 12</i> ; LYCURG. (HARP.) ; PLUT. <i>Alc. 34</i>.<p><b>Étym</b>. πλύνω.`

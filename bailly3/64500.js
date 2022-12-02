@@ -1,0 +1,1 @@
+lar[64500]=`<b>ου (ὁ)</b> Mésitès, <i>surn. de Mithras,</i> PLUT. <i>Is. et Os. 46</i>.`

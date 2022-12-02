@@ -1,0 +1,1 @@
+lar[106241]=`<b>φιλ·υπόδοχος, ος, ον</b> <font color="purple">[ῐῠ]</font> qui donne volontiers l’hospitalité, DL. <i>2, 133</i>.<p><b>Étym</b>. φ. ὑποδέχομαι.`

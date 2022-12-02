@@ -1,0 +1,1 @@
+lar[58800]=`<b>κυνο·θαρσής, ής, ές</b> <font color="purple">[ῠ]</font> d’une impudence cynique, THCR. <i>Idyl. 15, 53</i>.<p><b>Étym</b>. κύων, θάρσος.`

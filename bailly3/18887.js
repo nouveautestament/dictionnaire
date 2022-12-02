@@ -1,0 +1,1 @@
+lar[18887]=`<b>ή, όν</b>, bacchiaque, qui concerne le pied bacchius (<i>v</i>. βακχεῖος) DRAC. <i>166, 27</i> ; β. μέτρον, HÉPH. <i>13, 12, 1,</i> le vers bacchiaque.`

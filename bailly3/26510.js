@@ -1,0 +1,1 @@
+lar[26510]=`<b>ος, ον</b> <font color="purple">[ῐᾰ]</font> qui concerne les procès, PLAT. <i>Leg. 958b ;</i> δ. ἡμέρα, MÉN. <i>fr. inc. 397 Meineke,</i> jour où siègent les tribunaux.<p><b>Étym</b>. δικάζω.`

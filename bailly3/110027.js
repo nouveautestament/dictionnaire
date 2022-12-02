@@ -1,0 +1,1 @@
+lar[110027]=`<b>ψυχρο·πότης, ου (ὁ)</b> qui boit de l’eau fraîche <i>ou</i> froide, PLUT. <i>M. 690b ;</i> ANTH. <i>12, 81</i> ; A. TR. <i>12, p. 235</i>.<p><b>Étym</b>. ψ. πίνω.`

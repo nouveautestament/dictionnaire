@@ -1,0 +1,1 @@
+lar[101899]=`<b>ὑπ·αισθάνομαι</b> <font color="purple">[ῠ]</font> commencer à s’apercevoir de, <i>gén</i>. THÉM. <i>89d ;</i> ARISTÉN. <i>2, 5</i>.`

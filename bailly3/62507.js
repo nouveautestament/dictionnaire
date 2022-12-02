@@ -1,0 +1,1 @@
+lar[62507]=`<b>μακρο·δρόμος, ος, ον</b>, qui court loin <i>ou</i> longtemps, XÉN. <i>Cyn. 5, 51 au</i> <i>• Sup</i>. -ώτατος.<p><b>Étym</b>. μ. δραμεῖν.`

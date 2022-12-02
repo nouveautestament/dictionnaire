@@ -1,0 +1,1 @@
+lar[91828]=`<b>ορος (ὁ)</b> = <i>lat</i>. speculator, <i>soldat chargé de la garde des prisonniers,</i> NT. <i>Marc. 6, 27</i>.`

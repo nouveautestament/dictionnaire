@@ -1,0 +1,1 @@
+lar[68990]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>maladie,</i> légère, indisposition, AR. <i>fr. 64</i> ; ARSTT. <i>Rhet. 3, 2</i>.<p><b>Étym</b>. νόσημα.`

@@ -1,0 +1,1 @@
+lar[34560]=`<b>ἐν·θριόω-ῶ</b>, envelopper d’une feuille de figuier, AR. <i>Lys. 664</i>.<p><b>Étym</b>. ἐν, θρῖον.`

@@ -1,0 +1,1 @@
+lar[5983]=`<font color="purple">[φᾰ]</font> <i>adv</i>., ouvertement, publiquement, IL. <i>7, 243 ; 9, 370</i> ; OD. <i>1, 296</i> ; A.RH. <i>2, 983, etc. ; p. opp. à</i> κρυφηδόν, OD. <i>14, 330, etc</i>.<p><b>Étym</b>. <i>p</i>. *ἀναφαδόν, <i>de</i> *ἀναφάω, <i>cf</i>. ἀναφαίνω.`

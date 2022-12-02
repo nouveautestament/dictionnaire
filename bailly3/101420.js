@@ -1,0 +1,1 @@
+lar[101420]=`<b>ὑγρό·σαρκος, ος, ον</b>, aux chairs molles, ARSTT. <i>H.A. 8, 21, 4</i>.<p>•<i> Cp</i>. -ότερος, ARSTT. <i>H.A. 4, 11, 12</i>.<p><b>Étym</b>. ὑ. σάρξ.`

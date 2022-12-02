@@ -1,0 +1,1 @@
+lar[67759]=`<font color="purple">[ᾰ]</font> <i>vb. de</i> ναυμαχέω, ARSTT. <i>Rhet. 1, 15, 14</i>.`

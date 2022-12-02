@@ -1,0 +1,1 @@
+lar[29894]=`<b>ἐγ·χειρο·γάστωρ</b>, <i>gén</i>. <b>ορος</b>, qui vit du travail de ses mains, ATH. <i>4d</i>.<p><b>Étym</b>. ἐν, χείρ, γαστήρ.`

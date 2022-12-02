@@ -1,0 +1,1 @@
+lar[61821]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠᾰ]</font> Lykabèttos (<i>auj</i>. Lykavittós) <i>mt. au nord d’Athènes,</i> AR. <i>Ran. 1057</i> ; XÉN. <i>Œc. 19, 6, etc</i>.`

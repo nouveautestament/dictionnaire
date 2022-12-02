@@ -1,0 +1,1 @@
+lar[63195]=`<b>ωνος (ὁ)</b> Mattôn, <i>héros spartiate, patron des cuisiniers,</i> ATH. <i>39c</i>.<p><b>Étym</b>. μάττω.`

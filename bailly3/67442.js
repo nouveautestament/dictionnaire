@@ -1,0 +1,1 @@
+lar[67442]=`<b>ιδος (ἡ)</b> <font color="purple">[ῐδ]</font> Mystis :<br><b>      1</b> <i>f</i>. NONN. <i>D. 9, 98, 99, 111</i>.<br><b>      2</b> <i>titre de deux comédies de Philémon et d’Antiphane</i>.`

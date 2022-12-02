@@ -1,0 +1,1 @@
+lar[82971]=`<b>ποταμη·πόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui traverse un fleuve <i>ou</i> les fleuves, OPP. <i>C. 2, 178, etc</i>.<p><b>Étym</b>. ποταμός, πείρω.`

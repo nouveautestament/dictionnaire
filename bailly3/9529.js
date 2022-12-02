@@ -1,0 +1,1 @@
+lar[9529]=`<b>ἀντ·ατιμάζω</b> <font color="purple">[ῑ]</font> rendre mépris pour mépris, SOPH. <i>Aj. 1339 dout</i>.`

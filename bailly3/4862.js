@@ -1,0 +1,1 @@
+lar[4862]=`<b>ἁλμάω-ῶ</b> (<i>seul. part. prés</i>.) être salé, TH. <i>H.P. 8, 10, 1 ; C.P. 6, 10, 5</i> ; NYSS. <i>1, 898</i>.<p><b>Étym</b>. ἅλμη.`

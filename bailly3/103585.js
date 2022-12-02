@@ -1,0 +1,1 @@
+lar[103585]=`<b>ὑπ·ονείδιστος, ος, ον</b>, quelque peu blâmable <i>ou</i> honteux, PHIL. <i>2, 409 dout</i>.<p><b>Étym</b>. ὑ. ὀνειδίζω.`

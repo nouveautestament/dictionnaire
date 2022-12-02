@@ -1,0 +1,1 @@
+lar[15324]=`<b>ἀρτι·γενής, ής, ές</b> <font color="purple">[ῐ]</font> nouveau-né, NIC. <i>Al. 357</i> ; EL. <i>N.A. 4, 34</i>.<p><b>Étym</b>. ἄ. γένος.`

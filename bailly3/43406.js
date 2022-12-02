@@ -1,0 +1,1 @@
+lar[43406]=`<b>εὔ·σειστος, ος, ον</b>, facile à ébranler, <i>particul</i>. exposé aux tremblements de terre, STR. <i>447</i>.<p><b>Étym</b>. εὖ, σείω.`

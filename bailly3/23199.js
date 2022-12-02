@@ -1,0 +1,1 @@
+lar[23199]=`<b>ῶν (οἱ)</b> <font color="purple">[ᾰᾰ]</font> les descendants de Danaos, <i>càd</i>. les Argiens, <i>d’où</i> les Grecs, <i>en gén., particul. au temps de la guerre de Troie,</i> IL. <i>1, 42, etc.</i> ; OD. <i>5, 306, etc.</i> ; PD. TRAG. <i>etc</i>.<p><b>Étym</b>. Δαναός.`

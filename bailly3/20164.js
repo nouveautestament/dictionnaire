@@ -1,0 +1,1 @@
+lar[20164]=`<b>ου (ὁ)</b> bruit sourd, PLAT. <i>Prot. 316a ;</i> ARSTT. <i>Respir. 9, 5 ; part</i>. grondement du tonnerre, EPIC. (DL. <i>10, 102</i>) ; mugissement du vent, HLD. <i>5, 27</i> ; bourdonnement d’oreilles, HPC. <i>Coac. 149</i> ; borborygme, GAL. <i>7, 241 ; p. anal</i>. chant grave, ANTH. <i>5, 222</i>.<p><b>Étym</b>. <i>Onomatopée</i>.`

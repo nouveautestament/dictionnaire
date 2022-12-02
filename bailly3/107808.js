@@ -1,0 +1,1 @@
+lar[107808]=`<b>χαμελαΐτης οἶνος (ὁ)</b> vin aromatisé de camelée, DIOSC. <i>5, 79</i>.<p><b>Étym</b>. χαμελαία.`

@@ -1,0 +1,1 @@
+lar[82652]=`<b>ά, όν</b> <font color="purple">[ῠ]</font> qui fait sortir des pustules ; <i>subst</i>. τὸ πομφολυγηρόν, P. ÉG. <i>7, 17,</i> sorte d’emplâtre.<p><b>Étym</b>. πομφολυγέω.`

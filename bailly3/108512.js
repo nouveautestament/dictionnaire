@@ -1,0 +1,1 @@
+lar[108512]=`<b>χιονο·τρόφος, ος, ον</b>, qui nourrit <i>ou</i> entretient la neige, EUR. <i>Ph. 803</i>.<p><b>Étym</b>. χ. τρέφω.`

@@ -1,0 +1,1 @@
+lar[50797]=`<b>κακό·νυμφος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> causé par un hymen funeste, EUR. <i>Hipp. 757</i>.<br><b>      2</b> qui est un mauvais époux, EUR. <i>Med. 206, ou</i> un époux funeste, EUR. <i>Med. 990</i>.<p>•<i> Sup</i>. -ότατος, EUR. <i>Hipp. 757</i>.<p><b>Étym</b>. κ. νύμφη.`

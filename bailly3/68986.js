@@ -1,0 +1,1 @@
+lar[68986]=`<i>adv</i>., d’une façon maladive, CLÉM. <i>1, 604 Migne</i>.`

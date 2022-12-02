@@ -1,0 +1,1 @@
+lar[36228]=`<b>ή, όν</b>, enclin à ne faire aucun cas de, à mépriser, <i>gén</i>. DL. <i>7, 119</i>.<p><b>Étym</b>. ἐξουθενέω.`

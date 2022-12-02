@@ -1,0 +1,1 @@
+lar[60585]=`<b>λευκ·ομφάλιος, ος, ον</b> <font color="purple">[ᾰ]</font> au cœur (<i>propr</i>. au nombril) blanc, <i>en parl. d’une sorte de figue,</i> TH. <i>C.P. 5, 1, 8</i>.<p><b>Étym</b>. λ. ὀμφαλός.`

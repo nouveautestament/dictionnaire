@@ -1,0 +1,1 @@
+lar[50530]=`<b>άεσσα, άεν :<br>      1</b> aux vallées profondes, OD. <i>4, 1 (d’après Zénodote</i>).<br><b>      2</b> profondément encaissé, CALL. <i>fr. 224</i>.<p><b>Étym</b>. <i>cf</i>. καιέτας, καιετός.`

@@ -1,0 +1,1 @@
+lar[110036]=`<i>adv</i>., froidement, <i>fig</i>. AR. <i>Th. 17c ;</i> PLAT. <i>Euthyd. 284e ; joint à</i> ἀκαίρως, DH. <i>Vet. script. cens. 3, 3 ; ou à</i> οὐκ εὐκαίρως, PLUT. <i>M. 853b</i>.<p><b>Étym</b>. ψυχρός.`

@@ -1,0 +1,1 @@
+lar[58817]=`<b>κυνό·μορφος, ου (ὁ)</b> <font color="purple">[ῠ]</font> safran, DIOSC. <i>1, 25</i>.<p><b>Étym</b>. κύων, μορφή.`

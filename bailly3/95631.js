@@ -1,0 +1,1 @@
+lar[95631]=`<b>συν·επικιρνάω-ῶ</b>, mêler en outre avec, PROCL. <i>Ptol. 3, 16</i>.`

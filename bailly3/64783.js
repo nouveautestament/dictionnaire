@@ -1,0 +1,1 @@
+lar[64783]=`<b>μετα·κυλινδέω-ῶ</b> <font color="purple">[ῠ]</font> faire rouler dans un autre sens, d’un autre côté, AR. <i>Ran. 536</i>.`

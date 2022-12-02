@@ -1,0 +1,1 @@
+lar[78377]=`<b>περι·αλουργός, ός, όν</b> <font color="purple">[ᾰ]</font> teint de pourpre tout autour ; <i>p. ext</i>. imprégné de : κακοῖς, AR. <i>Ach. 856,</i> imbu de méchanceté.<p><b>Étym</b>. π. ἁλουργός.`

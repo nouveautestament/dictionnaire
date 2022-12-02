@@ -1,0 +1,1 @@
+lar[63644]=`<b>μεθυ·πῖδαξ, ακος (ὁ, ἡ)</b> <font color="purple">[ῠῑᾰ]</font> d’où le vin jaillit comme d’une source, ANTH. <i>6, 22</i>.<p><b>Étym</b>. μέθυ, πῖδαξ.`

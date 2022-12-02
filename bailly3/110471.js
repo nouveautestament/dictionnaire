@@ -1,0 +1,1 @@
+lar[110471]=`<b>ὡροσκοπέω-ῶ</b>, observer l’heure de la naissance de qqn, tirer l’horoscope de qqn, SEXT. <i>M. 5, 70</i>.<p><b>Étym</b>. ὡροσκόπος.`

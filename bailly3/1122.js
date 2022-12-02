@@ -1,0 +1,1 @@
+lar[1122]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> prompt à se troubler, à s’inquiéter, DL. <i>2, 131</i>.<p><b>Étym</b>. ἀγωνιάω.`

@@ -1,0 +1,1 @@
+lar[12482]=`<font color="purple">[κᾰ]</font> <i>vb. de</i> ἀποκαθαίρω, ARSTD. <i>t. 1, 25</i>.`

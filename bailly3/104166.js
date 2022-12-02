@@ -1,0 +1,1 @@
+lar[104166]=`commencer à avoir du duvet au menton, NYSS. (<i>d’après Mein. Com. fr. t. 2, p. 751).</i><p><b>Étym</b>. ὑπόχνοος.`

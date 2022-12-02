@@ -1,0 +1,1 @@
+lar[5741]=`<b>ας (ἡ)</b> gâteau au miel, PHILÉT. (ATH. <i>646d</i>).`

@@ -1,0 +1,1 @@
+lar[58064]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> δελφίνιον, DIOSC. <i>3, 84</i>.`

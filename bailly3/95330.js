@@ -1,0 +1,1 @@
+lar[95330]=`<b>συν·εκβιβάζω</b> <font color="purple">[ῐ]</font> faire sortir <i>ou</i> tirer en même temps de, XÉN. <i>An. 1, 5, 7</i>.`

@@ -1,0 +1,1 @@
+lar[13557]=`<b>ἀπο·ταφρεύω</b> <font color="purple">[τᾰ]</font> faire un retranchement au moyen d’un fossé, XÉN. <i>An. 6, 5, 1 ; Hell. 5, 4, 38</i> ; DH. <i>5, 58</i>.`

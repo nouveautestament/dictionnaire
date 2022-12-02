@@ -1,0 +1,1 @@
+lar[102432]=`<b>ὑπερ·εκχέω</b>, répandre par-dessus, <i>d’où au pass</i>. déborder et se répandre, DS. <i>11, 89</i> ; EL. <i>N.A. 12, 41</i> ; ARTÉM. <i>2, 27</i>.`

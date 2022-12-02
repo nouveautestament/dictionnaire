@@ -1,0 +1,1 @@
+lar[91096]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f.</i> ; σκ. μοῖρα, MAN. <i>4, 198,</i> le supplice du pal.<p><b>Étym</b>. σκόλοψ.`

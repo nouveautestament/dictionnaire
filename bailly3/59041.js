@@ -1,0 +1,1 @@
+lar[59041]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Kytôn, <i>h</i>. ANTH. <i>6, 212</i>.`

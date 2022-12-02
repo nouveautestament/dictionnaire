@@ -1,0 +1,1 @@
+lar[106504]=`<b>ου (ὁ)</b> le dieu de l’épouvante, <i>càd</i>. le dieu qui terrifie, IL. <i>4, 440 ; 11, 37 ; 13, 299 ; 15, 119</i> ; HÉS. <i>Th. 934</i> ; ESCHL. <i>Sept. 45</i> ; PLUT. <i>Thes. 27</i>.<p><b>Étym</b>. <i>cf</i>. φόβος.`

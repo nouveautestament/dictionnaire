@@ -1,0 +1,1 @@
+lar[56007]=`<b>κληρο·δότης, ου (ὁ)</b> celui qui laisse en héritage, testateur, CHRYS. <i>5, 829</i>.<p><b>Étym</b>. κλῆρος, δίδωμι.`

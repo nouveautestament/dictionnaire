@@ -1,0 +1,1 @@
+lar[72581]=`<b>ων (τὰ)</b> <font color="purple">[ᾰσ]</font> procession religieuse par les montagnes, STR. <i>564</i>.<p><b>Étym</b>. ὀρειβάτης.`

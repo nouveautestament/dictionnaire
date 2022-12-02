@@ -1,0 +1,1 @@
+lar[109168]=`<b>χρυσό·δετος, ος, ον</b> <font color="purple">[ῡ]</font> attaché <i>ou</i> fixé avec de l’or, HDT. <i>3, 41</i> ; SOPH. <i>El. 837</i> ; couvert d’une armure d’or, EUR. <i>Rhes. 383</i>.<p>➳ <i>Fém</i>. -η, ALC. <i>33</i>.<p><b>Étym</b>. χρ. δέω.`

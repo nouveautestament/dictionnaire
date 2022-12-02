@@ -1,0 +1,1 @@
+lar[52888]=`<b>κατ·αναισχυντέω-ῶ</b> <font color="purple">[ᾰν]</font> traiter sans égards, avec mépris, <i>gén</i>. BAS. <i>1, 488, etc</i>.`

@@ -1,0 +1,1 @@
+lar[100144]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. τριτογένεια, LYC. <i>519</i>.`

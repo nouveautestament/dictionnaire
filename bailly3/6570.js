@@ -1,0 +1,1 @@
+lar[6570]=`<b>ἀνα·βροχίζω</b>, extraire avec un lacet, <i>t. de chir</i>. GAL. <i>14, 784</i>.`

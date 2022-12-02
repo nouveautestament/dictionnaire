@@ -1,0 +1,1 @@
+lar[108428]=`<b>ου</b>, <i>adj. m.</i> : πυρός, froment dont on mange les épis grillés, AR. <i>fr. 548</i>.<p><b>Étym</b>. χῖδρον.`

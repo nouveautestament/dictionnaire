@@ -1,0 +1,1 @@
+lar[84336]=`<b>προ·θειλοπεδεύω</b>, exposer d’abord au soleil, DIOSC. <i>5, 36</i>.<p><b>Étym</b>. π. θειλόπεδον.`

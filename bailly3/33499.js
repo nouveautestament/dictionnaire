@@ -1,0 +1,1 @@
+lar[33499]=`<i>adv. et prép</i>. tout auprès, HÉS. <i>Sc. 372 ; avec le gén. après le rég</i>. IL. <i>2, 526 ; avant le rég</i>. LYC. <i>1029,</i> tout près de.<p><b>Étym</b>. ἐμπελάζω.`

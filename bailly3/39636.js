@@ -1,0 +1,1 @@
+lar[39636]=`<b>εως (ἡ)</b> acclamation, PLUT. <i>Pomp. 4</i> ; DYSC. <i>Adv. 531, 9</i>.<p><b>Étym</b>. ἐπιφωνέω.`

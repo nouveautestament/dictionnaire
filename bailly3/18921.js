@@ -1,0 +1,1 @@
+lar[18921]=`<b>ίδος (ἡ)</b> Bakkhylis, <i>f</i>. ANTH. <i>6, 174 et 291</i>.`

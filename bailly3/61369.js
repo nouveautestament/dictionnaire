@@ -1,0 +1,1 @@
+lar[61369]=`<b>λιπο·τονέω</b>, <i>mieux que</i> <b>λειπο·τονέω-ῶ</b>, avoir moins d’intensité <i>ou</i> une tonalité moindre, NICOM. <i>Harm. 9</i>.<p><b>Étym</b>. λ. τόνος.`

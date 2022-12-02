@@ -1,0 +1,1 @@
+lar[104110]=`<b>ὑπο·φιλέω-ῶ</b> <font color="purple">[ῐ]</font> embrasser, ARISTÉN. <i>1, 25</i>.`

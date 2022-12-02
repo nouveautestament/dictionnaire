@@ -1,0 +1,1 @@
+lar[69646]=`<b>έως (ὁ)</b> <font color="purple">[ῠ]</font> qui ramasse du bois, bûcheron, PAUS. <i>5, 12, 2 et 3</i>.<p><b>Étym</b>. ξύλον.`

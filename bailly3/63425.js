@@ -1,0 +1,1 @@
+lar[63425]=`<b>μεγαλό·σαρκος, ος, ον</b> <font color="purple">[γᾰ]</font> très charnu, très gros, SPT. <i>Ezech. 16, 26</i>.<p><b>Étym</b>. μ. σάρξ.`

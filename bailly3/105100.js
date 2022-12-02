@@ -1,0 +1,1 @@
+lar[105100]=`<b>Φελλό·ποδες, ων (οἱ)</b> les hommes aux pieds de liège, <i>n. d’un pple fictif,</i> LUC. <i>V.H. 2, 4</i>.<p><b>Étym</b>. φελλός, πούς.`

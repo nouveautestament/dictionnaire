@@ -1,0 +1,1 @@
+lar[51930]=`<i>vb. de</i> κείρω, MUSON. (STOB. <i>Fl. 6, 62</i>).`

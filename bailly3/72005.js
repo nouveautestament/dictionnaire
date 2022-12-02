@@ -1,0 +1,1 @@
+lar[72005]=`<b>ὀνο·σφαγία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> sacrifice d’un âne <i>ou</i> d’ânes, CALL. <i>fr. 188</i>.<p><b>Étym</b>. ὄν. σφάζω.`

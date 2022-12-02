@@ -1,0 +1,1 @@
+lar[70163]=`<b>ὀδυνή·φατος, ος, ον</b> <font color="purple">[ῠᾰ]</font> qui supprime la douleur, IL. <i>5, 401 ; 11, 846, etc</i>.<p><b>Étym</b>. ὀδύνη, <i>th</i>. φα- ; <i>cf</i>. πέφαμαι, <i>de</i> πεφνεῖν.`

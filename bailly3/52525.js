@@ -1,0 +1,1 @@
+lar[52525]=`<b>κατα·κερτομέω-ῶ</b>, accabler d’injures, <i>acc</i>. HDT. <i>1, 129 ; gén</i>. POLYEN <i>1, 34, 2</i> ; LGS <i>2, 20</i>.`

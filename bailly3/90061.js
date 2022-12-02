@@ -1,0 +1,1 @@
+lar[90061]=`<b>σιαγονίτης μῦς (ὁ)</b> <font color="purple">[ᾱῑ]</font> muscle de la mâchoire, A. TR. <i>1, 197</i>.<p><b>Étym</b>. σιαγών.`

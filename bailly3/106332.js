@@ -1,0 +1,1 @@
+lar[106332]=`<b>φλεβο·ρραγία</b>, <i>ion</i>. <b>φλεβο·ρραγίη, ης (ἡ)</b> <font color="purple">[ρᾰ]</font> rupture d’une veine <i>ou</i> des veines, HPC. <i>403, 26</i>.<p><b>Étym</b>. φλέψ, ῥήγνυμι.`

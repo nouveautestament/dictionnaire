@@ -1,0 +1,1 @@
+lar[94564]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> pique-nique, MÉN. <i>4, 115 Meineke</i>.<br><b>      2</b> synagogue, PHIL. <i>1, 675</i>.<p><b>Étym</b>. συναγωγός.`

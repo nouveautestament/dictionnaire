@@ -1,0 +1,1 @@
+lar[13624]=`<b>ἄ·ποτμος, ος, ον</b>, infortuné, <i>en parl. de pers</i>. IL. <i>24, 388</i> ; OD. <i>1, 219 ; 20, 140 ; en parl. de choses,</i> ESCHL. <i>Pers. 280</i> ; EUR. <i>Hipp. 1144</i>.<p>•<i> Cp</i>. -ότερος, MOSCH. <i>4, 11 ; • Sup</i>. -ότατος, OD. <i>1, 219</i>.<p><b>Étym</b>. ἀ, πότμος.`

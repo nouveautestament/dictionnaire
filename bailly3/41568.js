@@ -1,0 +1,1 @@
+lar[41568]=`<b>Εὔ·αλκος, ου (ὁ)</b> Eualkos, <i>Lacédémonien,</i> PLUT. <i>Pyrrh. 30</i>.<p><b>Étym</b>. <i>cf</i>. Εὐάλκης.`

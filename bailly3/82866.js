@@ -1,0 +1,1 @@
+lar[82866]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Porphyriôn :<br><b>      1</b> <i>Géant,</i> PD. <i>P. 8, 15</i> ; NONN. <i>D. 25, 89, etc.</i><br><b>      2</b> <i>autres,</i> NONN. <i>D. 9, 317, etc</i>.<p><b>Étym</b>. <i>v</i>. πορφυρίων.`

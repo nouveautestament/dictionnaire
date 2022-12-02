@@ -1,0 +1,1 @@
+lar[43638]=`<b>ων (οἱ)</b> les Eutrèsies, <i>pple d’Arcadie,</i> XÉN. <i>Hell. 7, 1, 29</i>.`

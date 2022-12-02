@@ -1,0 +1,1 @@
+lar[90628]=`<b>      1</b> fouir, sarcler, HDT. <i>2, 14</i> ; ARSTT. <i>Mir. 91</i> ; TH. <i>H.P. 2, 7, 5</i>.<br><b>      2</b> <i>fig</i>. fouiller, rechercher avec soin, éprouver, <i>acc</i>. SPT. <i>Ps. 76, 7</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *skelh₂/h₃-, fendre, déchirer ; <i>cf</i>. σκαλίς, σκαληνός.`

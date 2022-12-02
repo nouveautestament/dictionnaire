@@ -1,0 +1,1 @@
+lar[82434]=`<b>πολυ·τάλαντος, ος, ον</b> <font color="purple">[ῠτᾰ]</font><br><b>      1</b> qui pèse <i>ou</i> vaut beaucoup de talents, PLUT. <i>M. 814d ;</i> LUC. <i>D. mer. 7, 4, etc.</i> ; ATH. <i>398e.</i><br><b>      2</b> qui possède beaucoup de talents, opulent, LUC. <i>Tox. 14</i>.<p><b>Étym</b>. π. τάλαντον.`

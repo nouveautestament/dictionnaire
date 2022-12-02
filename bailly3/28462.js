@@ -1,0 +1,1 @@
+lar[28462]=`<b>δυσ·έψητος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à cuire, GAL. <i>6, 329</i> ; ORIB. <i>1, 298 B.-Dar</i>.<p><b>Étym</b>. δ. ἕψω.`

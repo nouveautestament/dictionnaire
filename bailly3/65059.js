@@ -1,0 +1,1 @@
+lar[65059]=`<b>μετα·χρώννυμι</b> <font color="purple">[ῡ]</font> teindre d’une autre couleur, <i>d’où</i> revêtir d’une autre apparence, EUM. <i>p. 121</i>.`

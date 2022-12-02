@@ -1,0 +1,1 @@
+lar[38578]=`<b>ἐπί·ξηρος, ος, ον :<br>      1</b> sec à la surface, HPC. <i>Epid. 1, 969</i>.<br><b>      2</b> quelque peu sec, ARÉT. <i>Caus. m. diut. 1, 15</i>.`

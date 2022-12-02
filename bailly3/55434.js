@@ -1,0 +1,1 @@
+lar[55434]=`<font color="purple">[ᾰ]</font> <i>onomatopée pour imiter le cri du chat-huant,</i> AR. <i>Av. 261</i>.`

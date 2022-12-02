@@ -1,0 +1,1 @@
+lar[102405]=`<b>ὑπερ·εγείρω</b> (<i>seul. pf</i>. ὑπερεγρήγορα <i>au sens intr</i>.) veiller pour <i>ou</i> sur, <i>gén</i>. PHILSTR. <i>V. Ap. 8, 12</i>.`

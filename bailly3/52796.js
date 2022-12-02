@@ -1,0 +1,1 @@
+lar[52796]=`<b>κατα·μαραίνω</b> <font color="purple">[μᾰ]</font><br><b>      1</b> faner, flétrir, TH. <i>Ign. 10, d’où au pass</i>. se faner, se flétrir, <i>fig</i>. PLUT. <i>M. 804e.</i><br><b>      2</b> exténuer, LUC. <i>Tim. 17, d’où au pass</i>. s’affaisser, s’amortir, <i>en parl. d’ulcères,</i> HPC. <i>89g ; en parl. du feu,</i> ARSTT. <i>Respir. 17, 6, etc</i>.`

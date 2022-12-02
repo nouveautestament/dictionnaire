@@ -1,0 +1,1 @@
+lar[101580]=`<b>ὑδρο·σεληνίτης, ου (ὁ)</b> hydrosélénite, <i>pierre qui laisse voir une demi-lune en devenant transparente dans l’eau,</i> DAMASC. (PHOT. <i>Bibl. 349).</i><p><b>Étym</b>. ὕδ. σελήνη.`

@@ -1,0 +1,1 @@
+lar[98891]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de faire frire dans la poêle, MÉN. (POLL. <i>10, 98).</i><p><b>Étym</b>. τηγανίζω.`

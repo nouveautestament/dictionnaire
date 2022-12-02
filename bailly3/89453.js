@@ -1,0 +1,1 @@
+lar[89453]=`<b>σαρκό·πυον, ου (τὸ)</b> <font color="purple">[ῡ]</font> pustule, HPC. <i>220c</i>.<p><b>Étym</b>. σ. πῦον.`

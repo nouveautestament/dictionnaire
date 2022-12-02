@@ -1,0 +1,1 @@
+lar[27813]=`<b>δρακοντό·μιμος, ος, ον</b> <font color="purple">[ᾰῑ]</font> qui imite la flexibilité d’un serpent, SOPATR. (ATH. <i>230e</i>).<p><b>Étym</b>. δράκων, μιμέομαι.`

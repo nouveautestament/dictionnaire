@@ -1,0 +1,1 @@
+lar[91171]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit scorpion, <i>machine à lancer des flèches de petite dimension,</i> POL. <i>8, 7, 6</i> ; SPT. <i>1Macc. 6, 51</i>.<p><b>Étym</b>. <i>dim. de</i> σκορπίος.`

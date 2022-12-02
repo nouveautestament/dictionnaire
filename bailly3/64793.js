@@ -1,0 +1,1 @@
+lar[64793]=`<i>vb. de</i> μεταλαμβάνω, PLAT. <i>Parm. 163d ;</i> HLD. <i>1, 14, etc</i>.`

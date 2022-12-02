@@ -1,0 +1,1 @@
+lar[99538]=`<b>ου (ὁ)</b> Tolmidès, <i>général athénien,</i> THC. <i>1, 108, 113</i> ; XÉN. <i>Mem. 3, 5, 4, etc</i>.<p>➳ <i>Dor. acc</i>. -αν <font color="purple">[ᾱ]</font> PLUT. <i>Glor. Ath. 1</i>.<p><b>Étym</b>. τόλμα.`

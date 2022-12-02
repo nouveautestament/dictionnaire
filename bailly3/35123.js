@@ -1,0 +1,1 @@
+lar[35123]=`<b>ας (ἡ)</b> diligence, habileté, STR. <i>800</i> ; M. ANT. <i>1, 8</i> ; SEXT. <i>632, 5 Bkk.</i> ; DIOSC. <i>Job. p. 44</i>.<p><b>Étym</b>. ἐντρεχής.`

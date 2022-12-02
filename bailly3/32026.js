@@ -1,0 +1,1 @@
+lar[32026]=`<b>ἐκ·σαόω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἐξεσάωσα)</font> sauver de : τινα θαλάσσης, OD. <i>4, 501,</i> arracher qqn à la mer ; <i>abs</i>. sauver de la mort, <i>acc</i>. IL. <i>4, 12</i>.`

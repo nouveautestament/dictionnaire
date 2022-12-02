@@ -1,0 +1,1 @@
+lar[163]=`Abradatas, <i>roi de Suse</i>.<p>➳ <i>Gén</i>. -ου, XÉN. <i>Cyr. 5, 1, 2</i> ; -α, LUC. <i>Im. 20</i>.`

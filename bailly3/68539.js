@@ -1,0 +1,1 @@
+lar[68539]=`<b>ής, ές</b> <font color="purple">[ῑ]</font> <i>fém</i>. <b>-τις, -τιδος</b>, irréprochable, OD. <i>16, 317 ; 19, 498, etc</i>.<p><b>Étym</b>. νη-, ἀλιταίνω.`

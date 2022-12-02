@@ -1,0 +1,1 @@
+lar[10359]=`<b>ἀντί·πυργος, ος, ον</b>, semblable à une tour, EUR. <i>Bacch. 1097</i>.<p><b>Étym</b>. ἀ. πύργος.`

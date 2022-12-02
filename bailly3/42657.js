@@ -1,0 +1,1 @@
+lar[42657]=`<b>εὐ·μελής, ής, ές</b>, harmonieux, mélodieux, SOPATR. (ATH. <i>175c</i>) ; ARSTT. <i>Pol. 8, 7, 1</i> ; DH. <i>Comp. 11</i>.<p><b>Étym</b>. εὖ, μέλος ΙΙ.`

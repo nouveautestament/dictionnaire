@@ -1,0 +1,1 @@
+lar[46582]=`<b>Θεμιστο·δίκη, ης (ἡ)</b> <font color="purple">[δῐ]</font> Thémistodikè, <i>f</i>. ANTH. <i>6, 271</i>.<p><b>Étym</b>. θέμις, δίκη.`

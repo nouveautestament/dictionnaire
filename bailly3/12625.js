@@ -1,0 +1,1 @@
+lar[12625]=`<b>ἀπο·κολλάω-ῶ</b>, décoller, ORIB. <i>p. 82, 22 Cocch. etc</i>.`

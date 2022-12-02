@@ -1,0 +1,1 @@
+lar[89108]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui cherche à séduire par des présents, ÉPIC. (DL. 10.8).<p><b>Étym</b>. σαίνω, δῶρον.`

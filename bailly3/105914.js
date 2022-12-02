@@ -1,0 +1,1 @@
+lar[105914]=`<b>φιλο·μάλακος, ος, ον</b> <font color="purple">[ῐᾰᾰ]</font> qui aime la mollesse, mou, PTOL. <i>Tetr. 162</i>.<p><b>Étym</b>. φ. μαλακός.`

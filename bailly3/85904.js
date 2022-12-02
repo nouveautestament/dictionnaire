@@ -1,0 +1,1 @@
+lar[85904]=`<b>προσ·καθάπτομαι</b>, attaquer en outre, <i>gén</i>. ARSTD. <i>t. 2, 158</i>.`

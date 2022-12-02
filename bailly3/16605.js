@@ -1,0 +1,1 @@
+lar[16605]=`<b>ἀ·σχημάτιστος, ος, ον</b> <font color="purple">[μᾰ]</font><br><b>      1</b> sans forme, sans figure, PLAT. <i>Phædr. 247c ;</i> ARSTT. <i>Phys. 1, 7, 12</i>.<br><b>      2</b> sans figures de rhétorique, D. PHAL. <i>67</i>.<p><b>Étym</b>. ἀ, σχηματίζω.`

@@ -1,0 +1,1 @@
+lar[86682]=`<b>προσ·ψαύω</b>, <i>dor. et poét</i>. <b>ποτι·ψαύω</b>, toucher à, <i>dat</i>. PD. <i>fr. 86, 2 ; abs</i>. toucher, SOPH. <i>O.C. 330, Tr. 1214, Ph. 1054</i>.`

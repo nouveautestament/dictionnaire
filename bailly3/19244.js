@@ -1,0 +1,1 @@
+lar[19244]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui met à la question, bourreau, ANT. <i>112, 19</i> ; DÉM. <i>978, 11</i> ; PLUT. <i>M. 498d, etc</i>.<p><b>Étym</b>. βασανίζω.`

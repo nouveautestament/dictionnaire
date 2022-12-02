@@ -1,0 +1,1 @@
+lar[66350]=`<b>ου (τὸ)</b> tube de plomb, HPC. <i>597, 16</i>.<p><b>Étym</b>. <i>dim. de</i> μόλιβδος.`

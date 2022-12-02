@@ -1,0 +1,1 @@
+lar[63456]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec orgueil, XÉN. <i>Hell. 4, 5, 6</i> ; PLAT. <i>Euthyd. 293a</i>.<p><b>Étym</b>. μεγαλόφρων.`

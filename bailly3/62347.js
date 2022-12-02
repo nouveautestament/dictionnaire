@@ -1,0 +1,1 @@
+lar[62347]=`<b>ας (ἡ)</b> profession de sage-femme, PLAT. <i>Theæt. 150b, 210c, etc</i>.<p><b>Étym</b>. μαιεύω.`

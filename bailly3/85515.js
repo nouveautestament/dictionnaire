@@ -1,0 +1,1 @@
+lar[85515]=`<b>προσ·εκβοάω-οῶ</b>, pousser des cris en même temps <i>ou</i> ensemble, DC. <i>44, 20</i>.`

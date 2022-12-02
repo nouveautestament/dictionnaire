@@ -1,0 +1,1 @@
+lar[34993]=`<b>ἐν·σωματόω-ῶ</b> <font color="purple">[ᾰ]</font> revêtir d’un corps, incarner, CLÉM. <i>1, 1116 Migne</i>.<p><b>Étym</b>. ἐν, σῶμα.`

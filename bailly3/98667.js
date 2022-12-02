@@ -1,0 +1,1 @@
+lar[98667]=`<b>τετρα·πυργία, ας (ἡ)</b> <font color="purple">[ρᾰ]</font> ville, fort <i>ou</i> château avec quatre tours, POL. <i>31, 26, 11</i> ; STR. <i>838</i> ; PLUT. <i>Eum. 8</i>.<p><b>Étym</b>. τ. πύργος.`

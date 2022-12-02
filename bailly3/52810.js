@@ -1,0 +1,1 @@
+lar[52810]=`<b>κατα·μεγαλύνομαι</b> <font color="purple">[ᾰῡ]</font> <font color="darkgreen">(<i>ao</i>. κατεμεγαλύνθην)</font> s’élever contre, <i>gén</i>. SYMM. <i>Ps. 37, 17</i>.`

@@ -1,0 +1,1 @@
+lar[11814]=`<b>ἀπ·ερυσιβόω-ῶ</b> <font color="purple">[ῠῑ]</font> nieller, tacher de rouille, perdre par la rouille, TH. <i>C.P. 5, 10, 3 ; 5, 11, 3</i>.<p><b>Étym</b>. ἀπό, ἐρυσίβη.`

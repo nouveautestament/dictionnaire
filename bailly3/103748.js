@@ -1,0 +1,1 @@
+lar[103748]=`<b>ὑπο·πυθμένιος, α, ον</b>, qui se trouve au fond, ATH. <i>492a</i>.<p><b>Étym</b>. ὑ. πυθμήν.`

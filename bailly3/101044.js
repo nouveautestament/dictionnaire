@@ -1,0 +1,1 @@
+lar[101044]=`<b>τυμπανο·τερπής, ής, ές</b> <font color="purple">[ᾰ]</font> qui aime le bruit du tambour, ORPH. <i>H. 26, 11</i>.<p><b>Étym</b>. τύμπανον, τέρπω.`

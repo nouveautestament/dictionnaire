@@ -1,0 +1,1 @@
+lar[62300]=`<b>ου (τὸ)</b> <i>dim. de</i> μᾶζα, PHRYN. COM. (ATH. <i>59c</i>) ; HPC. <i>625, 1</i> ; ATH. <i>646c</i>.`

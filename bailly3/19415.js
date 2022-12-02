@@ -1,0 +1,1 @@
+lar[19415]=`<b>ης (ἡ) :<br>   I</b> <i>n. d’animaux suceurs</i> :<br><b>      1</b> sangsue, HDT. <i>2, 68</i> ; THCR. <i>Idyl. 2, 56</i> ; ANTH. <i>6, 193, etc.</i><br><b>      2</b> lamproie, STR. <i>826</i>.<br><b>   II</b> sorte de gomme, <i>c</i>. βδέλλιον, M. RUBR. <i>39</i>.<p>➳ <i>Gén. pl. ion</i>. βδελλέων, HDT. <i>l. c</i>.<p><b>Étym</b>. βδάλλω.`

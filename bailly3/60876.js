@@ -1,0 +1,1 @@
+lar[60876]=`<i>adv</i>., comme des brigands, STR. <i>126, 575</i> ; PLUT. <i>M. 330d</i>.`

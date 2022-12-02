@@ -1,0 +1,1 @@
+lar[95478]=`<b>συν·ενδίδωμι</b> <font color="purple">[δῐ]</font> s’abandonner, se laisser aller à, céder complètement à, <i>dat</i>. PLUT. <i>Per. 15 ; abs</i>. DS. <i>17, 43</i> ; STR. <i>51</i> ; PLUT. <i>Cæs. 31</i>.`

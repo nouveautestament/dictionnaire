@@ -1,0 +1,1 @@
+lar[30342]=`<b>εἰκονό·μορφος, ου (ὁ)</b> qui façonne des images, statuaire, MAN. <i>4, 343</i>.<p><b>Étym</b>. εἰκών, μορφή.`

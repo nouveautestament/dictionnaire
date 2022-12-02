@@ -1,0 +1,1 @@
+lar[42932]=`<b>εὐ·παραλόγιστος, ος, ον</b>, facile à tromper par de faux raisonnements, POL. <i>11, 29, 9</i>.<p>•<i> Sup</i>. -ότατος, POL. <i>5, 75, 2</i>.<p><b>Étym</b>. εὖ, παραλογίζομαι.`

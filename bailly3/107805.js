@@ -1,0 +1,1 @@
+lar[107805]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. χαμηλός, STR. <i>454</i>.`

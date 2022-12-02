@@ -1,0 +1,1 @@
+lar[61743]=`<b>οῦ (ὁ)</b> action de mettre <i>ou</i> de se mettre en embuscade, PLUT. <i>Phil. 13</i>.<p><b>Étym</b>. λοχίζω.`

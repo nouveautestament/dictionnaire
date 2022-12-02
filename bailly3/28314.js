@@ -1,0 +1,1 @@
+lar[28314]=`<b>δυσ·διήγητος, ος, ον</b>, difficile à raconter en détail, SPT. <i>Sap. 17, 1</i>.<p><b>Étym</b>. δ. διηγέομαι.`

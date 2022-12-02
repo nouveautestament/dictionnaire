@@ -1,0 +1,1 @@
+lar[53590]=`<b>κατα·τυραννέω-ῶ</b> <font color="purple">[ῠ]</font> exercer un pouvoir tyrannique sur, <i>gén</i>. STR. <i>658 ; abs</i>. SPT. <i>Num. 16, 13</i>.`

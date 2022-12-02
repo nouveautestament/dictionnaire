@@ -1,0 +1,1 @@
+lar[82890]=`<font color="purple">[ᾰῐ]</font> <i>adv. interr</i>. combien de fois ? PLAT. <i>Ep. 353d ;</i> οἱ ποσάκις πόσοι ἀριθμοί, ARSTT. <i>Metaph. 4, 14, 2,</i> les nombres carrés ; οἱ ποσάκις ποσάκις πόσοι, ARSTT. <i>Metaph. 4, 14, 2,</i> les nombre cubes.<p><b>Étym</b>. πόσος, -άκις.`

@@ -1,0 +1,1 @@
+lar[74440]=`<b>παλαι·σταγὴς οἶνος (ὁ)</b> vin qui dégoutte depuis longtemps, <i>càd</i>. vieux, NIC. <i>Th. 591</i>.<p><b>Étym</b>. πάλαι, στάζω.`

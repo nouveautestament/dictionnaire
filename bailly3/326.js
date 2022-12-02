@@ -1,0 +1,1 @@
+lar[326]=`<b>ἀ·γάμητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἄγαμος, SOPH. <i>fr. (Bkk. 336</i>) ; COM. (POLL. <i>3, 47).</i><p><b>Étym</b>. ἀ. γαμέω.`

@@ -1,0 +1,1 @@
+lar[97522]=`<b>τανη·λυγής, ής, ές</b> <font color="purple">[ᾰῠ]</font> qui répand les ténèbres au loin, OD. <i>11, 398 (var. p</i>. τανηλεγής).<p><b>Étym</b>. ταναός, ἠλύγη.`

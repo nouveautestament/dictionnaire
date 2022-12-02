@@ -1,0 +1,1 @@
+lar[81732]=`<b>Πολυ·αρχίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Polyarkhis, <i>propr</i>. « qui commande à beaucoup », <i>n. de f</i>. ANTH. <i>9, 332</i>.<p><b>Étym</b>. π. ἄρχω.`

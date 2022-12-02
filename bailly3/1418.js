@@ -1,0 +1,1 @@
+lar[1418]=`<b>ή, όν</b> <font color="purple">[ᾰδῐ]</font> enclin à l’injustice <i>ou</i> au mal, PLUT. <i>M. 562d</i>.`

@@ -1,0 +1,1 @@
+lar[36842]=`<b>ἐπ·αυλέω-ῶ</b> <font color="darkgreen">(<i>impf</i>. ἐπηύλουν, <i>ao</i>. ἐπηύλησα)</font> accompagner avec la flûte, <i>dat</i>. LUC. <i>Sacr. 12</i> ; ἐπ. τινι τὸ ἐνόπλιον, ATH. <i>184f</i>, accompagner de la flûte la pyrrhique ; <i>abs</i>. LUC. <i>Salt. 10 ; au pass</i>. EUR. <i>H.f. 895</i>.`

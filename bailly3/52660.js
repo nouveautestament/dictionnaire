@@ -1,0 +1,1 @@
+lar[52660]=`<b>κατα·κτυπέω-ῶ</b> <font color="purple">[ῠ]</font> frapper avec bruit, CHRYS. <i>1, 963</i> ; BAS. <i>3, 489 ; 4, 992 Migne</i> ; τινος, ALCIPHR. <i>1, 23,</i> qqn.`

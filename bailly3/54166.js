@@ -1,0 +1,1 @@
+lar[54166]=`<b>κατ·οργάς, άδος</b>, <i>adj. f</i>. qui célèbre les mystères orgiaques, ANTH. <i>4, 3, 80</i>.<p><b>Étym</b>. κ. ὀργάς.`

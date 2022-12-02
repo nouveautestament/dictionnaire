@@ -1,0 +1,1 @@
+lar[39567]=`<b>ατος (τὸ) :<br>      1</b> cri lancé vers, <i>d’où</i> interjection, ATH. <i>696e ;</i> DYSC. <i>Adv. 537, 10 ; Synt. 52, 26</i>.<br><b>      2</b> cri <i>ou</i> chant ajouté, sorte de refrain qu’on ajoute à une strophe, <i>v</i>. ἐπιφθεγματικός.<p><b>Étym</b>. ἐπιφθέγγομαι.`

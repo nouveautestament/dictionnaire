@@ -1,0 +1,1 @@
+lar[21845]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> railleur injurieux <i>ou</i> grossier, PLUT. <i>Syll. 2</i>.<p><b>Étym</b>. γεφυρίζω.`

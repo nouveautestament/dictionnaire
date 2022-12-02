@@ -1,0 +1,1 @@
+lar[39280]=`<b>ἐπι·σφοδρύνω</b>, rendre plus fort, renforcer, PLUT. <i>Cleom. 10</i>.`

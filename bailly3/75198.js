@@ -1,0 +1,1 @@
+lar[75198]=`<font color="purple">[τᾰ]</font> <i>adv.</i> :<br><b>      1</b> de toute part, de tous côtés, HDT. <i>7, 25, etc.</i> ; AR. <i>Lys. 1007</i> ; PLAT. <i>Conv. 190e, etc.</i><br><b>      2</b> de toute façon, THC. <i>1, 17, etc.</i> ; XÉN. <i>Mem. 2, 1, 25, etc</i>.<p><b>Étym</b>. π. -χοθεν.`

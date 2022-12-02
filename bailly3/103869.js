@@ -1,0 +1,1 @@
+lar[103869]=`<b>ὑπο·στάζω</b>, couler goutte à goutte, HPC. <i>Coac. 151</i>.`

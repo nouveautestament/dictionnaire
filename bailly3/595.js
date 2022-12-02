@@ -1,0 +1,1 @@
+lar[595]=`<b>ας (ἡ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> coutume sacrée, cérémonie religieuse, PLAT. <i>Ax. 371d ;</i> ISOCR. <i>227a, etc.</i><br><b>      2</b> culte, dévotion, STR. <i>477</i>.<p><b>Étym</b>. ἁγιστεύω.`

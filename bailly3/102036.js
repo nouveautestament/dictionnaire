@@ -1,0 +1,1 @@
+lar[102036]=`<b>ΐδος</b> <font color="purple">[ῠᾰῐδ]</font> <i>fém. c</i>. ὑπατήϊος ANTH. <i>1, 4</i>.`

@@ -1,0 +1,1 @@
+lar[49678]=`<b>ἰσο·μεγέθης, ης, ες</b> <font color="purple">[ῑ̆]</font> égal en grandeur, XÉN. <i>Cyn. 5, 29</i> ; POL. <i>10, 44, 2, etc</i>.<p><b>Étym</b>. ἴ. μέγεθος.`

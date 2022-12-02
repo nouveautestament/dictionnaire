@@ -1,0 +1,1 @@
+lar[50003]=`<b>έως (ὁ)</b> <font color="purple">[ῑ]</font> Iphée, <i>Lycien,</i> IL. <i>16, 417</i>.`

@@ -1,0 +1,1 @@
+lar[87520]=`<b>ου</b>, <i>adj. m</i>. de Pydna, DÉM. <i>1, 5 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. Πύδνα.`

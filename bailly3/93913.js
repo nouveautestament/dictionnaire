@@ -1,0 +1,1 @@
+lar[93913]=`<b>σύμ·μαρτυς, υρος (ὁ, ἡ)</b> <font color="purple">[τῠ]</font> témoin avec d’autres, SOPH. <i>Ant. 846 ; avec un gén</i>. PLAT. <i>Phil. 12b</i>.`

@@ -1,0 +1,1 @@
+lar[35402]=`<b>ατος (τὸ) :<br>      1</b> bond <i>ou</i> élan à partir de <i>ou</i> hors de, <i>d’où</i> distance, DYSC. <i>Adv. 624, 7</i>.<br><b>      2</b> <i>fig</i>. exultation, NAZ. <i>2, 516c Migne</i>.<p><b>Étym</b>. ἐξάλλομαι.`

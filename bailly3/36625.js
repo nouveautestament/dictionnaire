@@ -1,0 +1,1 @@
+lar[36625]=`<b>ἐπ·ανανεόομαι-εοῦμαι</b>, renouveler, recommencer, PLAT. <i>Rsp. 358b</i>.`

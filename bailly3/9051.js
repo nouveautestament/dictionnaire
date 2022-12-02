@@ -1,0 +1,1 @@
+lar[9051]=`<b>ἀν·ιδίω</b> (<i>seul. prés</i>.) transpirer, suer, PLAT. <i>Tim. 74c</i>.<p><b>Étym</b>. ἀνά, ἰδίω.`

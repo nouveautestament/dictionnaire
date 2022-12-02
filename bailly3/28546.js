@@ -1,0 +1,1 @@
+lar[28546]=`<b>δυσ·κάτακτος, ος, ον</b> <font color="purple">[κᾰ]</font> difficile à briser, TH. <i>H.P. 3, 7, 4</i>.<p><b>Étym</b>. δ. κατάγνυμι.`

@@ -1,0 +1,1 @@
+lar[58496]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> <i>c</i>. Κυθέρεια, ANACR. <i>6, 14, etc</i>.<p>➳ <i>Dor</i>. Κυθήρα, THCR. <i>Idyl. 30, 1, etc.</i> ; BION <i>1, 35, etc</i>.`

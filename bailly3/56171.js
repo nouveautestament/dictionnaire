@@ -1,0 +1,1 @@
+lar[56171]=`<b>κλυτό·παις, αιδος (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> illustre par ses enfants, ANTH. <i>9, 262</i>.<p><b>Étym</b>. κλ. παῖς.`

@@ -1,0 +1,1 @@
+lar[66729]=`<i>ou</i> <b>μορμολύκειον, ου (τὸ)</b> <font color="purple">[ῠ]</font> mannequin pour faire peur aux enfants, épouvantail, PLAT. <i>Phæd. 77e ;</i> LUC. <i>Tox. 24, etc</i>.<p><b>Étym</b>. μορμολύττω.`

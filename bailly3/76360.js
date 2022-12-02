@@ -1,0 +1,1 @@
+lar[76360]=`<b>παρα·τροχάζω :<br>      1</b> courir auprès <i>ou</i> le long de, APP. <i>Civ. 3, 70</i> ; τινί, APP. <i>Syr. 64,</i> auprès de qqn ; <i>fig</i>. passer le long de, négliger, A. PL. <i>169</i>.<br><b>      2</b> dépasser à la course, <i>acc</i>. ANTH. <i>9, 372 ; 11, 163</i>.<p><b>Étym</b>. π. τροχός.`

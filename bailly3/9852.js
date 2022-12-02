@@ -1,0 +1,1 @@
+lar[9852]=`<b>ἀντι·διορύττω</b>, creuser une contre-mine, STR. <i>576</i>.`

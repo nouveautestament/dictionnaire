@@ -1,0 +1,1 @@
+lar[15895]=`<b>ου (ὁ) :<br>      1</b> grabat, AR. <i>Nub. 633,</i> LUC. <i>Lex. 6</i>.<br><b>      2</b> bière, ANTH. <i>7, 634</i>.`

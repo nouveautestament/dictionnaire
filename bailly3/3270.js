@@ -1,0 +1,1 @@
+lar[3270]=`<b>ητος (ἡ) :<br>      1</b> état d’une chose non entamée <i>ou</i> non affaiblie, intégrité, vigueur, POL. <i>3, 73, 6, etc.</i><br><b>      2</b> pureté, BAS. <i>1, 144</i>.<p><b>Étym</b>. ἀκέραιος.`

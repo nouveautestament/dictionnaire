@@ -1,0 +1,1 @@
+lar[25318]=`<b>δια·ποιμαίνω</b> (<i>seul. prés. part</i>. -αίνοντες) diriger (comme on dirige un troupeau) <i>acc</i>. MAN. <i>4, 419</i>.`

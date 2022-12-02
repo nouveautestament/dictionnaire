@@ -1,0 +1,1 @@
+lar[31687]=`<b>ἐκ·μορφόω-ῶ :<br>      1</b> achever de donner une forme à, EL. <i>N.A. 2, 19</i>.<br><b>      2</b> figurer, représenter, PLUT. <i>M. 537d</i>.`

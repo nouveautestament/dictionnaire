@@ -1,0 +1,1 @@
+lar[12166]=`<b>*ἀπο·βρόχω</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἀπέβροξεν)</font> engloutir, ANTH. <i>7, 506 (var</i>. ἀπέβρυξεν, <i>v</i>. ἀποβρύκω).<p><b>Étym</b>. <i>cf</i>. ἀναβρόχω.`

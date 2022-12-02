@@ -1,0 +1,1 @@
+lar[43889]=`<b>ἐφ·αιρέομαι-οῦμαι</b>, élire à la place d’un autre, DC. <i>49, 43</i>.<br><i>Pass. (part. pf</i>. ἐφῃρημένος) être élu en remplacement d’un autre, THC. <i>4, 38</i>.<p><b>Étym</b>. ἐπί, αἱ.`

@@ -1,0 +1,1 @@
+lar[14086]=`<b>ή, όν</b>, propre à repousser, répulsif, GAL. <i>5, 65</i>.<p><b>Étym</b>. ἀπωθέω.`

@@ -1,0 +1,1 @@
+lar[28735]=`<b>δύσ·ορμος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> où il est difficile d’aborder (île, côte) ESCHL. <i>Pers. 448</i> ; PLUT. <i>Fab. 6 ; p. ext</i>. où il est difficile de se diriger, XÉN. <i>Cyn. 10, 7</i>.<br><b>      2</b> qui rend le mouillage périlleux, ESCHL. <i>Ag. 194</i>.<p><b>Étym</b>. δ. ὅρμος.`

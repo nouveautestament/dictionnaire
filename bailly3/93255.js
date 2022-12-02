@@ -1,0 +1,1 @@
+lar[93255]=`<b>ατος (τὸ)</b> <font color="purple">[κᾰ]</font> enveloppe, SPT. <i>Deut. 22, 30 ; 27, 20</i>.<p><b>Étym</b>. συγκαλύπτω.`

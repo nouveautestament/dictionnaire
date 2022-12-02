@@ -1,0 +1,1 @@
+lar[13958]=`<b>ἀ·πρόσκλητος, ος, ον</b>, non précédé d’une assignation en justice, DÉM. <i>544, 3 ; 1251, 12</i>.<p><b>Étym</b>. ἀ, προσκαλέω.`

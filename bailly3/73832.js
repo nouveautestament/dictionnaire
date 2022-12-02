@@ -1,0 +1,1 @@
+lar[73832]=`<b>εως (ἡ)</b> ophiasis, <i>maladie qui fait tomber les cheveux et rend le crâne lisse,</i> GAL. <i>2, 267, etc</i>.<p><b>Étym</b>. *ὀφιάζω <i>de</i> ὄφις.`

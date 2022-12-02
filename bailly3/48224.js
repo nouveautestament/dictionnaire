@@ -1,0 +1,1 @@
+lar[48224]=`<b>ἰαμβοποιέω-ῶ</b>, faire des ïambes, ARSTT. <i>Poet. 22, 9</i>.<p><b>Étym</b>. ἰαμβοποιός.`

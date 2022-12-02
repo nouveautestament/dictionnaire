@@ -1,0 +1,1 @@
+lar[88491]=`<b>ῥητινίτης οἶνος (ὁ)</b> <font color="purple">[ῑῑ]</font> vin mélangé <i>ou</i> parfumé de résine, DIOSC. <i>5, 43</i>.<p><b>Étym</b>. ῥητίνη.`

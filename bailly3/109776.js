@@ -1,0 +1,1 @@
+lar[109776]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰφ]</font> attouchement, XÉN. <i>Conv. 8, 23</i>.<p><b>Étym</b>. ψηλαφάω.`

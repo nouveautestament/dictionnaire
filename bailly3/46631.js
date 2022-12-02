@@ -1,0 +1,1 @@
+lar[46631]=`<b>θεο·δινής, ής, ές</b> <font color="purple">[ῑ]</font> lancé comme un tourbillon par les dieux, NONN. <i>Jo. 1, 93</i>.<p><b>Étym</b>. θ. δινέω.`

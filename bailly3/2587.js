@@ -1,0 +1,1 @@
+lar[2587]=`<i>adv</i>., d’Hémonie, CALL. <i>fr. 124</i>.<p><b>Étym</b>. Αἱμονία, -θεν.`

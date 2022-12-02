@@ -1,0 +1,1 @@
+lar[50609]=`<b>ή, όν</b> <font color="purple">[ᾰρ]</font> affranchi <i>ou</i> partisan de César, ARR. <i>Epict. 1, 19, 19 ; 3, 24, 117</i> ; APP. <i>Civ. 3, 91</i>.<p><b>Étym</b>. Καῖσαρ.`

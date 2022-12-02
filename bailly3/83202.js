@@ -1,0 +1,1 @@
+lar[83202]=`<b>ας (ἡ)</b> = <i>lat</i>. Præcia, <i>n. de f. rom</i>. PLUT. <i>Luc. 6</i>.`

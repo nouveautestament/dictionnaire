@@ -1,0 +1,1 @@
+lar[66509]=`<b>μονογαμίου ἐπιτίμιον</b> <i>ou</i> <b>μονογαμίου δίκη</b>, amende <i>ou</i> action judiciaire contre celui qui n’a qu’une femme, CLÉM. <i>433</i>.<p><b>Étym</b>. μονόγαμος.`

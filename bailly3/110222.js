@@ -1,0 +1,1 @@
+lar[110222]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. qui concerne le coude, du coude, LYC. <i>155</i>.<p><b>Étym</b>. ὠλένη.`

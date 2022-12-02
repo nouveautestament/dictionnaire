@@ -1,0 +1,1 @@
+lar[58341]=`<b>ῆς (ἡ)</b> Kyanè, <i>fontaine près de Syracuse,</i> EL. <i>V.H. 2, 33</i>.<p><b>Étym</b>. <i>fém. de</i> κυάνεος.`

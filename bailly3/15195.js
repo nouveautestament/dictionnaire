@@ -1,0 +1,1 @@
+lar[15195]=`<b>οντος (ὁ)</b> Aruns, <i>n. d’h. étrusque,</i> PLUT. <i>Popl. 9, 18, 19 ; Cam. 15, etc</i>.<p>➳ <i>Gén</i>. -ωνος, PLUT. <i>Cam. 15</i> ; -οντος, DH. <i>5, 30</i> ; PLUT. <i>Popl. 18</i>.<p><b>Étym</b>. <i>lat</i>. Aruns.`

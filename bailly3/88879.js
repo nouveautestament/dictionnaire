@@ -1,0 +1,1 @@
+lar[88879]=`<b>ῥυμουλκέω-ῶ</b> <font color="purple">[ῡ]</font> tirer avec un câble, remorquer, POL. <i>1, 27, 9</i> ; STR. <i>233, etc</i>.<p><b>Étym</b>. ῥῦμα, ὁλκός.`

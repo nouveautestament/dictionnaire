@@ -1,0 +1,1 @@
+lar[90683]=`<b>ης (ἡ)</b> ellébore noir, GEOP. <i>c. 144, 179</i>.`

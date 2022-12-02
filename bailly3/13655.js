@@ -1,0 +1,1 @@
+lar[13655]=`<font color="purple">[ᾰδ]</font> <i>adv</i>., en se détournant, OPP. <i>H. 3, 612</i>.<p><b>Étym</b>. ἀποτρέπω.`

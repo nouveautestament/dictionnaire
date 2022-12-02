@@ -1,0 +1,1 @@
+lar[58821]=`<b>κύν·οπλον, ου (τὸ)</b> <font color="purple">[ῠ]</font> couronne de poils au sabot d’un cheval, HIPPIATR. <i>p. 227, 9 ; 263, 29</i>.<p><b>Étym</b>. κ. ὅπλον.`

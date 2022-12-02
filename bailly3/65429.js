@@ -1,0 +1,1 @@
+lar[65429]=`<b>ῆς (ἡ) :<br>      1</b> peau de mouton, PHILÉM. (POLL. <i>10, 176</i>) ; SPT. <i>3Reg. 19, 13 ; 4, 2, 13</i> ; DYSC. <i>Synt. 191, 9</i>.<br><b>      2</b> sonde de chirurgien, <i>c</i>. μηλωτρίς, EROT. <i>234</i> ; DIOSC. <i>1, 140</i>.<p><b>Étym</b>. μῆλον¹.`

@@ -1,0 +1,1 @@
+lar[44285]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐ]</font> le fils d’Ekhiôn, <i>càd</i>. Penthée, OPP. <i>C. 4, 243</i>.<p><b>Étym</b>. Ἐχίων.`

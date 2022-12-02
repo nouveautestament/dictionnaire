@@ -1,0 +1,1 @@
+lar[16186]=`<b>ωνος (ὁ)</b> Astériôn, <i>h</i>. A.RH. ORPH. NONN. <i>etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἀστέριος.`

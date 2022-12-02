@@ -1,0 +1,1 @@
+lar[88684]=`<b>ου (ὁ)</b> Rhodios, <i>fl. de Troade,</i> IL. <i>12, 20</i> ; HÉS. <i>Th. 341, etc</i>.`

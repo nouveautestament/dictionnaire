@@ -1,0 +1,1 @@
+lar[14108]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰρ]</font> <i>c</i>. ἄραγμα <i>en parl. du cliquetis d’un mors de cheval et des rênes,</i> EUR. <i>Rhes. 569 ; de pierres qu’on lance,</i> EUR. <i>Ph. 1143 ; de coups sur la poitrine en signe de deuil,</i> SOPH. <i>O.C. 1609</i>.`

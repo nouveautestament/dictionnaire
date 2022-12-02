@@ -1,0 +1,1 @@
+lar[61846]=`<b>ου (ὁ)</b> Lykarios, <i>h</i>. XÉN. <i>Hell. 2, 3, 9</i>.`

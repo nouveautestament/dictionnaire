@@ -1,0 +1,1 @@
+lar[91542]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> <i>c</i>. μῦρος <i>ou</i> μύραινα, ARSTT. <i>H.A. 5, 10, 3</i>.`

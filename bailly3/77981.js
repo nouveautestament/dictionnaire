@@ -1,0 +1,1 @@
+lar[77981]=`<font color="purple">[ᾰῐ]</font> <i>c</i>. πεντάκις OPP. <i>C. 3, 56</i> ; ANTH. <i>13, 15</i>.`

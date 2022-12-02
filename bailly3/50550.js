@@ -1,0 +1,1 @@
+lar[50550]=`<b>καινο·ειδής, ής, ές</b>, de forme <i>ou</i> d’espèce nouvelle, ORIG. <i>1, 1540 Migne</i>.<p><b>Étym</b>. κ. εἶδος.`

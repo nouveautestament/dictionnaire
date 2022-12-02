@@ -1,0 +1,1 @@
+lar[58271]=`<b>ου (ὁ)</b> Ktèsias (Ctésias) :<br><b>      1</b> historien, <i>médecin d’Artaxerxès Mnémon,</i> XÉN. <i>An. 1, 8, 26, etc.</i><br><b>      2</b> <i>autres,</i> AR. <i>Ach. 839</i> ; DÉM. <i>35, 20 Baiter-Sauppe</i>.<p><b>Étym</b>. κτάομαι.`

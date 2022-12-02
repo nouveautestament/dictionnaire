@@ -1,0 +1,1 @@
+lar[90352]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> forme d’un objet qui se recourbe en se retroussant, PLUT. <i>Per. 26</i>.<p><b>Étym</b>. σιμόω.`

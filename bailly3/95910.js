@@ -1,0 +1,1 @@
+lar[95910]=`<b>συν·ηττάομαι-ῶμαι</b>, être vaincu ensemble, XÉN. <i>Cyr. 6, 4, 14</i>.`

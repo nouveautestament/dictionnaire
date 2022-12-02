@@ -1,0 +1,1 @@
+lar[107996]=`<b>ου (τὸ)</b> <font color="purple">[τῐ]</font> <i>dim. de</i> χάρτης ALCIPHR. <i>1, 26</i>.`

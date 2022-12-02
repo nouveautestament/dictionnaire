@@ -1,0 +1,1 @@
+lar[27703]=`<b>δουλο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[ῐκᾰ]</font> Le précepteur d’esclaves, <i>comédie de Phérécrate,</i> ATH. <i>262c</i>.<p><b>Étym</b>. δοῦλος, διδάσκαλος.`

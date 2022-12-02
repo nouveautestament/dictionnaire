@@ -1,0 +1,1 @@
+lar[37964]=`<b>ἐπι·κατεράω-ῶ</b>, transvaser et verser sur, GAL. <i>13, 681</i>.`

@@ -1,0 +1,1 @@
+lar[32811]=`<b>ἑλικο·βόστρυχος, ος, ον</b> <font color="purple">[ῐῠ]</font> aux cheveux bouclés, AR. <i>fr. 314</i>.<p><b>Étym</b>. ἑ. βόστρυχος.`

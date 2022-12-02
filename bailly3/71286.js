@@ -1,0 +1,1 @@
+lar[71286]=`<b>ου (ἡ)</b> Olynthos (<i>auj</i>. Ólynthos) <i>v. de Chalcidique,</i> HDT. <i>7, 122, etc.</i> ; THC. <i>1, 58, etc</i>.`

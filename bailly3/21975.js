@@ -1,0 +1,1 @@
+lar[21975]=`<b>γηφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> manger de la terre, ARSTT. (EM. <i>222, 9).</i><p><b>Étym</b>. γηφάγος.`

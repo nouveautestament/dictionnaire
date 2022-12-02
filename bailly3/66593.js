@@ -1,0 +1,1 @@
+lar[66593]=`<b>*μονο·νυχί</b>, <i>ion</i>. <b>μουνο·νυχί</b>, <i>adv</i>., dans une seule nuit, A. PL. <i>92</i>.<p><b>Étym</b>. μ. νύξ.`

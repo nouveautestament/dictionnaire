@@ -1,0 +1,1 @@
+lar[10148]=`<b>ίδος (ἡ)</b> <i>s.-e</i>. φυλή, la tribu Antiokhide, <i>à Athènes,</i> PLAT. <i>Ap. 32b ;</i> PLUT. <i>Arist. 1, 5, etc</i>.<p><b>Étym</b>. Ἀντίοχος.`

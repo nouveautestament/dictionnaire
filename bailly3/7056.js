@@ -1,0 +1,1 @@
+lar[7056]=`<b>ατος (τὸ)</b> pays, contrée, <i>mot pythag</i>. PHILOL. <i>B 21, p. 418, 2</i>.`

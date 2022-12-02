@@ -1,0 +1,1 @@
+lar[745]=`<b>οῦ (ὁ) :<br>      1</b> fracture, HPC. περὶ ἀγμῶν.<br><b>      2</b> lieux abrupts, escarpés, <i>au pl</i>. EUR. <i>Bacch. 1094</i> ; NIC. <i>Al. 391 ; au sg</i>. EUR. <i>I.T. 263</i>.<p><b>Étym</b>. ἄγνυμι.`

@@ -1,0 +1,1 @@
+lar[3076]=`<b>ἀ·καλλής, ής, ές</b>, sans beauté, sans charme, LUC. <i>H. conscr. 48</i>.<p>•<i> Cp</i>. -έστερος, PLUT. <i>M. 757e</i>.<p><b>Étym</b>. ἀ, κάλλος.`

@@ -1,0 +1,1 @@
+lar[22232]=`<b>γλωσσο·τέχνης, ου (ὁ)</b> habile à se servir de sa langue, D. CHR. <i>1, 265</i>.<p><b>Étym</b>. γλῶσσα, τέχνη.`

@@ -1,0 +1,1 @@
+lar[28298]=`<b>δυσ·διάπλαστος, ος, ον</b>, difficile à modeler, à façonner ; τὸ δ. CHRYS. <i>6, 284,</i> laideur irréparable.<p><b>Étym</b>. δ. διαπλάσσω.`

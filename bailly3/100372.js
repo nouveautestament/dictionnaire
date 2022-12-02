@@ -1,0 +1,1 @@
+lar[100372]=`<b>τρι·πλεκής, ής, ές</b> ; plié en trois, <i>d’où</i> triple, SOR. <i>Obst. p. 212, 5</i>.<p><b>Étym</b>. τρ. πλέκω.`

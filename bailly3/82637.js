@@ -1,0 +1,1 @@
+lar[82637]=`<b>ου (ὁ)</b> = <i>lat</i>. Pompeius (Pompée) <i>n. d’h. rom</i>. PLUT. <i>Pomp. 1, etc. ; plur</i>. Πομπήϊοι, PLUT. <i>Mar. 1</i>.`

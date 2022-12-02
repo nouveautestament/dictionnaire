@@ -1,0 +1,1 @@
+lar[105111]=`<b>οῦ (ἡ)</b> Phénéos (<i>auj</i>. ruines près d’Archéa Feneós) <i>anc. v. d’Arcadie, près d’un lac du même nom,</i> IL. <i>2, 605</i> ; HDT. <i>6, 74, etc</i>.`

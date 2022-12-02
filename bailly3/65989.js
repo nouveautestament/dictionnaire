@@ -1,0 +1,1 @@
+lar[65989]=`<b>ή, όν</b>, qui concerne les mercenaires <i>ou</i> le travail des mercenaires (<i>cf</i>. μισθαρνευτικός) PLAT. <i>Rsp. 346b</i>, d.<p><b>Étym</b>. μισθαρνέω.`

@@ -1,0 +1,1 @@
+lar[98596]=`<b>τετρά·κυκλος, ος, ον</b> <font color="purple">[ᾰ]</font> à quatre cercles <i>ou</i> roues, IL. <i>24, 324</i> ; HDT. <i>1, 188 ; 2, 63</i> ; HPC. <i>Aër. 291</i>.<p>➳ <font color="purple">[ᾱ]</font> OD. <i>9, 242</i>.<p><b>Étym</b>. τ. κύκλος.`

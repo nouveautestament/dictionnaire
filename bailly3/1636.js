@@ -1,0 +1,1 @@
+lar[1636]=`<b>ἀει·βρυής, ής, ές</b>, qui pousse <i>ou</i> pullule toujours, NIC. <i>Th. 846</i>.<p><b>Étym</b>. ἀ. βρύω.`

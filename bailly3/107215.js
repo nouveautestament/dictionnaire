@@ -1,0 +1,1 @@
+lar[107215]=`<b>ατος (τὸ)</b> saleté, ordure, NIC. <i>Al. 485</i> ; OPP. <i>H. 1, 782</i>.<p><b>Étym</b>. φύρω.`

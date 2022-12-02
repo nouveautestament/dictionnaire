@@ -1,0 +1,1 @@
+lar[1350]=`<i>slmt ion</i>. <b>ης (ἡ)</b> infaillibilité, HPC. 1282.56.<p><b>Étym</b>. ἀδιάπτωτος.`

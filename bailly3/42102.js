@@ -1,0 +1,1 @@
+lar[42102]=`<i>adv</i>., bonnement, naïvement, AR. <i>Nub. 1258</i> ; PLAT. <i>Hipp. ma. 301d</i>.`

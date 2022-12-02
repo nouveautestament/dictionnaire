@@ -1,0 +1,1 @@
+lar[25952]=`<b>δια·ψάλλω</b>, jouer d’un instrument à cordes, <i>dat</i>. EUP. <i>77 Kock (prés</i>. -ψάλλει) ; HIM. <i>694</i>.<p><b>Étym</b>. <i>opt. ao</i>. -ψήλαι.`

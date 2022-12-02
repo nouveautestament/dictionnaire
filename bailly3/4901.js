@@ -1,0 +1,1 @@
+lar[4901]=`<b>ης (ἡ)</b> aloès, <i>plante,</i> DIOSC. <i>3, 25</i> ; PLUT. <i>M. 141f, 693c</i>.`

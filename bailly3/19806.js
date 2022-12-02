@@ -1,0 +1,1 @@
+lar[19806]=`<b>α, ον</b>, des Bistones, A.RH. MOSCH. NONN. <i>etc.</i> ; ἡ βιστονία (<i>s.-e</i>. χώρα), <i>ion. et épq</i>. ἡ βιστονίη, ORPH. <i>Arg. 78,</i> le pays des Bistones.`

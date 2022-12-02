@@ -1,0 +1,1 @@
+lar[26628]=`<b>δί·λογχος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> à deux lances, <i>ép. de Bendis ou Artémis,</i> la déesse chasseresse (<i>sel. d’autres,</i> qui reçoit des honneurs doubles, <i>càd</i>. célestes et terrestres) CRAT. (<i>Com. fr. 2, 66</i>).<br><b>      2</b> <i>p. ext</i>., double, ESCHL. <i>Ag. 643</i>.<p><b>Étym</b>. δίς, λόγχη.`

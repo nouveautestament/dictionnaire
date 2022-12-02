@@ -1,0 +1,1 @@
+lar[64865]=`<b>μετα·νάστης, ου</b>, <i>adj. m.</i> :<br><b>      1</b> qui change de demeure <i>ou</i> de pays, émigré, exilé, IL. <i>9, 648</i> ; HDT. <i>7, 161</i> ; πάτρης, MAN. <i>2, 420,</i> exilé de sa patrie.<br><b>      2</b> qui se déplace, <i>en gén.,</i> errant, <i>en parl. des astres,</i> ARAT. <i>457</i>.<p><b>Étym</b>. μ. ναίω.`

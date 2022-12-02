@@ -1,0 +1,1 @@
+lar[43466]=`<b>Εὔ·σταχυς (ὁ)</b> Eustakhys (<i>litt</i>. l’homme aux beaux épis) ALCIPHR. <i>3, 18, 19</i>.`

@@ -1,0 +1,1 @@
+lar[73631]=`<b>οὐ·πώποτε</b>, <i>adv</i>., jamais encore, <i>d’ord. avec un temps passé,</i> IL. <i>1, 106, 154, etc.</i> ; OD. <i>21, 123, etc. ; rar. avec un prés</i>. OD. <i>12, 98 ; postér. avec un fut</i>. LIB. <i>530a ; on intercale qqf. d’autres mots</i> : οὐ γὰρ πώποτε, IL. <i>3, 442 ; 14, 315,</i> jamais en effet jusqu’à présent.<p><b>Étym</b>. οὐ, πώποτε.`

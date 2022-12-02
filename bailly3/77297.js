@@ -1,0 +1,1 @@
+lar[77297]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> bruyant, CLÉM. <i>1, 500 Migne</i>.<p><b>Étym</b>. παταγέω.`

@@ -1,0 +1,1 @@
+lar[2169]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> <i>c</i>. αἰανής², SOPH. <i>El. 506</i>.`

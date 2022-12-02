@@ -1,0 +1,1 @@
+lar[2010]=`<b>ας (ἡ)</b> défaut d’observation, DS. <i>1, 37</i>.<p><b>Étym</b>. ἀθεώρητος.`

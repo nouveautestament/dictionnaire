@@ -1,0 +1,1 @@
+lar[59360]=`<b>ητος (ἡ)</b> <font color="purple">[α]</font> voracité, avidité, intempérance, MUSON. (STOB. <i>166, 20</i>) ; ATH. <i>310f, etc</i>.<p><b>Étym</b>. λάβρος.`

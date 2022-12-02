@@ -1,0 +1,1 @@
+lar[8788]=`<b>εως (ἡ)</b> action de se tenir mutuellement, embrassement, PLAT. <i>Ep. 323b</i>.<p><b>Étym</b>. ἀντέχω.`

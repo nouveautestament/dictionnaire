@@ -1,0 +1,1 @@
+lar[41068]=`<b>ατος (τὸ)</b> repas du soir, PHILÉM. GR. (ATH. <i>11d</i>).<p><b>Étym</b>. *ἑσπερίζω, <i>de</i> ἕσπερος.`

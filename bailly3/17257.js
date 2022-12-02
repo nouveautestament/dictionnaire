@@ -1,0 +1,1 @@
+lar[17257]=`<b>ίδος (ἡ)</b> ARSTT. <i>H.A. 6, 17, 13</i> ; NIC. <i>Al. 469, et</i> <b>αὖξις, ιδος (ἡ)</b> PHRYN. COM. <i>2-1, 600, 7 Mein., sorte de thon</i>.<p><b>Étym</b>. αὔξω.`

@@ -1,0 +1,1 @@
+lar[71860]=`<i>adv</i>., honteusement, ZOS. <i>1, 11</i>.<p><b>Étym</b>. ὀνειδίζομαι.`

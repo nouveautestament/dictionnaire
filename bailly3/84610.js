@@ -1,0 +1,1 @@
+lar[84610]=`<b>ου (ὁ)</b> Prokroustès (Procuste) :<br><b>      1</b> <i>propr</i>. « qui tiraille », <i>surn. du brigand Polypèmon,</i> XÉN. <i>Mem. 2, 1, 14, etc.</i><br><b>      2</b> « qui heurte » <i>en un sens obscène (cf</i>. προκρούω) AR. <i>Eccl. 1021</i>.<p><b>Étym</b>. προκρούω.`

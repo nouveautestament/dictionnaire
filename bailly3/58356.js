@@ -1,0 +1,1 @@
+lar[58356]=`<b>κυανό·πτερος, ος, ον</b> <font color="purple">[ῠᾰ]</font> aux ailes d’un bleu sombre, HÉS. <i>Sc. 393</i> ; EUR. <i>Andr. 862</i>.<p><b>Étym</b>. κ. πτερόν.`

@@ -1,0 +1,1 @@
+lar[25995]=`<font color="purple">[ῐ]</font> <i>vb. de</i> διδάσκω, PLAT. <i>Rsp. 452a ;</i> DS. <i>1, 89</i>.`

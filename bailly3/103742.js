@@ -1,0 +1,1 @@
+lar[103742]=`<b>ὑπο·πτύσσω</b>, replier un peu, HPC. <i>652, 1 ; au pass</i>. HPC. <i>565, 27</i>.`

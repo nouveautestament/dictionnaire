@@ -1,0 +1,1 @@
+lar[89284]=`<font color="purple">[ᾰ]</font> <i>n. dorien du</i> sigma, HDT. <i>1, 139</i> ; ATH. <i>454f, 467a</i>.`

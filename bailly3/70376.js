@@ -1,0 +1,1 @@
+lar[70376]=`<b>οἰκο·γενής, ής, ές</b>, né dans la maison, <i>en parl. d’esclaves,</i> PLAT. <i>Men. 82b ;</i> POL. <i>40, 2, 3</i> ; οἱ οἰκογενεῖς, PLUT. <i>M. 277b</i>, les esclaves nés dans la maison ; <i>en parl. d’animaux,</i> AR. <i>Pax 789</i> ; ARSTT. <i>H.A. 6, 1</i> ; PLUT. <i>M. 480b ; fig</i>. PLUT. <i>M. 758e</i>.<p><b>Étym</b>. οἶκ. γένος.`

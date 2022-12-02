@@ -1,0 +1,1 @@
+lar[42701]=`<font color="purple">[ᾰ]</font> <i>adv</i>., industrieusement, habilement, PLUT. <i>Per. 31, Ant. 63</i> ; ARISTÉN. <i>2, 15</i>.`

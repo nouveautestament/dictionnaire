@@ -1,0 +1,1 @@
+lar[50809]=`<font color="purple">[κᾰ]</font> <i>adv</i>., misérablement, ARSTT. <i>Pol. 2, 9, 4</i>.<p><b>Étym</b>. κακοπαθής.`

@@ -1,0 +1,1 @@
+lar[17176]=`<b>ας (ἡ)</b> charge de chef du palais, SPT. <i>3Reg. 3, 46</i>.<p><b>Étym</b>. αὐλάρχης.`

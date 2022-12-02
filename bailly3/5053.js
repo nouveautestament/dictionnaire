@@ -1,0 +1,1 @@
+lar[5053]=`<b>ἄ·λυχνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> sans lampe, sans lumière, ALC. (DL. <i>1, 81</i>) ; EUR. <i>fr. 425 Nauck</i>.<p><b>Étym</b>. ἀ, λύχνος.`

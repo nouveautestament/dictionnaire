@@ -1,0 +1,1 @@
+lar[6788]=`<i>vb. de</i> ἀνατίθημι :<br><b>      1</b> il faut attribuer, HPC. <i>5, 52</i> ; ATH. <i>701f.</i><br><b>      2</b> il faut différer, PLAT. <i>Leg. 935e ;</i> PLUT. <i>M. 817c</i>.`

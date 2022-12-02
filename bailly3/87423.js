@@ -1,0 +1,1 @@
+lar[87423]=`<b>πτορθ·άκανθος, ος, ον</b> <font color="purple">[ᾰκ]</font> aux pousses épineuses, TH. <i>H.P. 6, 1, 3, etc</i>.<p><b>Étym</b>. πτόρθος, ἄκανθα.`

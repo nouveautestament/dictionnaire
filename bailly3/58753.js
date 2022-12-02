@@ -1,0 +1,1 @@
+lar[58753]=`<b>ιδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f</i>. chasseresse, A. TAT. <i>8, 12</i>.<p>➳ <i>Dor</i>. κυναγέτις <font color="purple">[ᾱ]</font> ANTH. <i>6, 115</i>.<p><b>Étym</b>. <i>fém. de</i> κυνηγέτης.`

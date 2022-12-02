@@ -1,0 +1,1 @@
+lar[86262]=`<i>adv</i>., dans le dème Prospaltes, IS. <i>11, 44 et 49 Baiter-Sauppe</i>.`

@@ -1,0 +1,1 @@
+lar[22309]=`<i>adv</i>., en votant l’un après l’autre, DH. <i>9, 43</i>.<p><b>Étym</b>. γνώμη, -δον.`

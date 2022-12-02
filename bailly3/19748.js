@@ -1,0 +1,1 @@
+lar[19748]=`<b>ῶν (αἱ)</b> Binæ, <i>v. fondée par Philippe de Macédoine,</i> TH. <i>Lap. 12</i>.`

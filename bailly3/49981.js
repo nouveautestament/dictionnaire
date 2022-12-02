@@ -1,0 +1,1 @@
+lar[49981]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> où l’on peut aller, accessible, ANTH. <i>7, 480</i>.<p><b>Étym</b>. <i>vb. de</i> εἶμι.`

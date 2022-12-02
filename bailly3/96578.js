@@ -1,0 +1,1 @@
+lar[96578]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> tas d’immondices, <i>fig</i>. ramassis de gens, populace, AR. <i>Vesp. 673</i> ; LUC. <i>Lex. 4</i>.<p><b>Étym</b>. σύρω.`

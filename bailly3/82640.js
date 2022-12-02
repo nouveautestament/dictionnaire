@@ -1,0 +1,1 @@
+lar[82640]=`<i>adv</i>., pompeusement, LGN <i>32</i>.`

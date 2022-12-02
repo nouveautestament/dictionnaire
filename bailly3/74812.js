@@ -1,0 +1,1 @@
+lar[74812]=`<b>πάν·αγρον, ου (τὸ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> sorte de grand filet, OPP. <i>C. 1, 151 ; H. 3, 83</i> ; TRIPHIOD. <i>674</i>.<br><b>      2</b> sorte de grande volière, ATH. <i>22d</i>.<p><b>Étym</b>. <i>neutre de</i> πάναγρος.`

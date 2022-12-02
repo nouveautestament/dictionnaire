@@ -1,0 +1,1 @@
+lar[83279]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> poireau, <i>plante potagère,</i> BATR. <i>54</i> ; AR. <i>Ran. 621</i> ; TH. <i>H.P. 7, 1, 2, etc.</i> ; DIOSC. <i>2, 179, etc.</i><br><b>      2</b> sorte d’algue maritime <i>semblable au poireau,</i> TH. <i>H.P. 4, 6, 2</i>.<p><b>Étym</b>. <i>cf. lat</i>. porrum.`

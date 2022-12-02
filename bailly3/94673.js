@@ -1,0 +1,1 @@
+lar[94673]=`<b>συν·αμείβω</b> <font color="purple">[ᾰ]</font> échanger en même temps, NYSS.`

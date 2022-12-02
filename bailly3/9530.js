@@ -1,0 +1,1 @@
+lar[9530]=`<b>ἀντ·αυγάζω :<br>      1</b> réfléchir la lumière, HLD. <i>1, 2</i>.<br><b>      2</b> illuminer, éclairer, PHIL. <i>2, 260</i>.`

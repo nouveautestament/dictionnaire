@@ -1,0 +1,1 @@
+lar[44662]=`<b>ης, ες</b> <font color="purple">[ῡ]</font> de la nature du levain, ARSTT. <i>G.A. 3, 4</i>.<p><b>Étym</b>. ζύμη, -ωδης.`

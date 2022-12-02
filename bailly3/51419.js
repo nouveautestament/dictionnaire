@@ -1,0 +1,1 @@
+lar[51419]=`<b>ῆρος</b> <font color="purple">[ᾰῑ]</font> <i>adj. m</i>. qui attise le feu du fourneau, ANTH. <i>6, 92</i>.<p><b>Étym</b>. καμινεύω.`

@@ -1,0 +1,1 @@
+lar[68111]=`<b>νεο·γνός, ός, όν</b>, nouveau-né, HH. <i>Cer. 141, Merc. 406</i> ; ESCHL. <i>Ag. 1163</i> ; EUR. <i>Ion 31</i> ; HDT. <i>2, 2</i> ; XÉN. <i>Œc. 7, 21 et 24 ; Cyn. 5, 14, etc.</i> ; ARSTT. <i>P.A. 3, 4</i> ; PLUT. <i>M. 149d</i>.<p><b>Étym</b>. ν. γίγνομαι.`

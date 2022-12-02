@@ -1,0 +1,1 @@
+lar[73170]=`<b>ιος (ἡ)</b> sorte d’olive, COLUM. <i>5, 8</i>.<p><b>Étym</b>. <i>cf</i>. ὄρχις.`

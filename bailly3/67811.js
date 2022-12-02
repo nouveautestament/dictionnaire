@@ -1,0 +1,1 @@
+lar[67811]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> nausée avec effusion de sang, <i>d’où</i> effusion de sang, HPC. <i>759h</i>.<p><b>Étym</b>. ναυσία.`

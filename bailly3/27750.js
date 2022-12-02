@@ -1,0 +1,1 @@
+lar[27750]=`<b>δουρί·πληκτος, ος, ον</b>, frappé de la lance, ESCHL. <i>Sept. 278 dout</i>.<p><b>Étym</b>. δόρυ, πλήσσω.`

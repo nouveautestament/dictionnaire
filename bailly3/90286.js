@@ -1,0 +1,1 @@
+lar[90286]=`<b>ῶν (αἱ)</b> <font color="purple">[σῑ]</font> Silènies, <i>côte de Salamine, près du promont</i>. Τροπαῖον, ESCHL. <i>Pers. 303</i>.`

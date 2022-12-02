@@ -1,0 +1,1 @@
+lar[57833]=`<b>ου (τὸ)</b> <font color="purple">[ῑ]</font> fondement d’une maison, LYS. (POLL. <i>7, 120).</i><p><b>Étym</b>. κρηπίς.`

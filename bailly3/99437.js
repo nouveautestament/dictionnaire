@@ -1,0 +1,1 @@
+lar[99437]=`<b>(οἱ)</b> les Tlôes, <i>pple de Lycie,</i> ANTH. <i>App. 156</i>.`

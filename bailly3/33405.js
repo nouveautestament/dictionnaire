@@ -1,0 +1,1 @@
+lar[33405]=`<b>ή, όν</b>, qui embrasse dans son développement, DYSC. <i>Pron. 262b, 369a ; Synt. 40, 9 ; 231, 3 ; 297, 23 ; 298, 5</i> ; CLÉM. <i>2, 584a Migne</i>.<p><b>Étym</b>. ἐμπεριέχω.`

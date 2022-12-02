@@ -1,0 +1,1 @@
+lar[25829]=`<b>δια·φαρμακεύω</b> (<i>part. prés</i>.) <font color="purple">[ᾰκ]</font> soulager avec des remèdes, PLUT. <i>M. 157c</i>.`

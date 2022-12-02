@@ -1,0 +1,1 @@
+lar[55020]=`<b>ος, ον</b>, injurieux, outrageant, SOPH. <i>Ant. 956, 962</i> ; κερτομίοις ἐπέεσσιν ἐρεθίζειν, IL. <i>5, 419,</i> exciter par des paroles injurieuses ; κερτομίοις ἐπέεσσι πειρηθῆναι, OD. <i>24, 240,</i> éprouver par des paroles injurieuses, <i>ou simpl</i>. κερτομίοισι προσαυδᾶν, IL. <i>1, 539,</i> adresser des paroles de reproche.<p><b>Étym</b>. κέρτομος.`

@@ -1,0 +1,1 @@
+lar[108432]=`<b>χιλή·γονος, ος, ον</b> <font color="purple">[ῑ]</font> né pour servir de fourrage, <i>par ext</i>. de nourriture, NIC. <i>Al. 424</i>.<p><b>Étym</b>. χιλός, γίγνομαι.`

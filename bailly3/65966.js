@@ -1,0 +1,1 @@
+lar[65966]=`<b>Μισγό·λας, α (ὁ)</b> <font color="purple">[ᾱ]</font> Misgolas, <i>h</i>. ANTIPH. (ATH. <i>339b</i>) ; ESCHN. <i>1, 41 Baiter-Sauppe</i>.<p><b>Étym</b>. μίσγω, λαός.`

@@ -1,0 +1,1 @@
+lar[109536]=`<b>ψαλμῳδέω-ῶ</b>, chanter des psaumes, NYSS.<p><b>Étym</b>. ψαλμῳδός.`

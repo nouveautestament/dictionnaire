@@ -1,0 +1,1 @@
+lar[43748]=`<b>ορος (ὁ)</b> Euphranôr, <i>h</i>. DÉM. <i>59, 61 Baiter-Sauppe</i> ; PLUT. <i>Arat. 6</i> ; LUC. <i>M. cond. 42, etc</i>.<p><b>Étym</b>. εὐφραίνω.`

@@ -1,0 +1,1 @@
+lar[58803]=`<b>κυνό·καυμα, ατος (τὸ)</b> <font color="purple">[ῠ]</font> chaleur caniculaire, DIOSC. <i>2, 98</i>.<p><b>Étym</b>. κ. καῦμα.`

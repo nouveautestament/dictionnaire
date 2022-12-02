@@ -1,0 +1,1 @@
+lar[96339]=`<b>συν·τιμωρέω-ῶ</b> <font color="purple">[ῑ]</font> venir en aide à, contribuer à améliorer, <i>dat</i>. HPC. <i>Art. 815</i> ; ARÉT. <i>Cur. m. acut. 2, 7, etc</i>.`

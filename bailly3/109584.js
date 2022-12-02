@@ -1,0 +1,1 @@
+lar[109584]=`<b>εως (ἡ) :<br>      1</b> action de toucher, de tâter, SEXT. <i>M. 7, 139</i> ; PLUT. <i>M. 683c.</i><br><b>      2</b> <i>particul</i>. action de caresser, caresse, <i>au plur</i>. PLUT. <i>Alc. 4</i>.<p><b>Étym</b>. ψαύω.`

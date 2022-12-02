@@ -1,0 +1,1 @@
+lar[34179]=`<b>ἐν·διασπείρω</b>, disperser <i>ou</i> répandre dans, <i>dat</i>. ARSTT. <i>fr. 209</i> ; PLUT. <i>M. 99c, 1109c</i>.`

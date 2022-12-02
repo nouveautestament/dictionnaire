@@ -1,0 +1,1 @@
+lar[17220]=`<b>αὐλο·ποιός, οῦ (ὁ)</b> fabricant d’aulos, PLAT. <i>Rsp. 399d ; 601d</i>.<p><b>Étym</b>. αὐλός, ποιέω.`

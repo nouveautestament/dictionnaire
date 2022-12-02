@@ -1,0 +1,1 @@
+lar[108988]=`<b>ης, ες</b>, qui ressemble à un oracle, PHILSTR. <i>711, etc</i>.<p><b>Étym</b>. χρησμός, -ωδης.`

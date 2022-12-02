@@ -1,0 +1,1 @@
+lar[96141]=`<b>συν·οικτίζω</b>, s’apitoyer sur, <i>acc</i>. XÉN. <i>Cyr. 4, 6, 5</i>.`

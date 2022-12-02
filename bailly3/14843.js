@@ -1,0 +1,1 @@
+lar[14843]=`<b>υος (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> rets, filet de chasse, HDT. <i>7, 85</i> ; PLAT. <i>Leg. 844e ;</i> ἄρκυς ἱστάναι, XÉN. <i>Cyn. 6, 5,</i> tendre des filets ; εἰς τὰς ἄρκυς ἐμπίπτειν, XÉN. <i>Cyn. 6, 24,</i> tomber dans les filets.<br><b>      2</b> <i>fig</i>. piège, embûche, <i>au plur</i>. EUR. <i>Med. 1278</i>.`

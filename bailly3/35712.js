@@ -1,0 +1,1 @@
+lar[35712]=`<i>3 sg. opt. prés. de</i> ἔξεστι, <i>ou opt. ao. de</i> ἐξίημι.`

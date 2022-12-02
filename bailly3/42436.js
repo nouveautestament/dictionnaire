@@ -1,0 +1,1 @@
+lar[42436]=`<b>ων (τὰ)</b> fête d’Artémis, <i>à Thèbes et à Corinthe,</i> XÉN. <i>Hell. 4, 4, 2</i>.<p><b>Étym</b>. Εὔκλεια¹.`

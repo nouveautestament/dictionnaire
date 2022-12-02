@@ -1,0 +1,1 @@
+lar[10373]=`<b>ἀντί·ρροπος, ος, ον</b>, qui penche du côté opposé, qui fait contrepoids, qui contrebalance : τινος, DÉM. <i>12, 6</i> ; τινι, XÉN. <i>Œc. 3, 15</i> ; πρός τι, PLAT. <i>Def. 412a</i>, qui contrebalance qqe ch. ; <i>abs</i>. qui fait contrepoids, SOPH. <i>El. 119</i>.<p><b>Étym</b>. ἀντιρρέπω.`

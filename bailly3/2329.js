@@ -1,0 +1,1 @@
+lar[2329]=`<b>Αἰγυπτο·γενής, ής, ές</b>, né en Égypte, ESCHL. <i>Pers. 35 ; ou</i> d’Ægyptos, ESCHL. <i>Suppl. 32</i>.<p><b>Étym</b>. Αἴγυπτος, γίγνομαι.`

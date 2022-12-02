@@ -1,0 +1,1 @@
+lar[26243]=`<b>δι·εξυφαίνω</b> <font color="purple">[ῠ]</font> (<i>sbj. ao. 3 pl</i>. διεξυφήνωσι) achever de tisser, PLUT. <i>Rom. 2</i>.`

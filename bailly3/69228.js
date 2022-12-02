@@ -1,0 +1,1 @@
+lar[69228]=`<b>νυμφο·κόμος, ος, ον</b>, qui pare la jeune épouse, EUR. <i>I.A. 1087</i> ; NONN. <i>D. 48, 183</i>.<p><b>Étym</b>. νύμφη, κομέω.`

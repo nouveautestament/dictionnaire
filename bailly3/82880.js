@@ -1,0 +1,1 @@
+lar[82880]=`<b>η, ον</b> <font color="purple">[ῠ]</font> <i>éol. c</i>. πορφύρεος, SAPPH. <i>fr. 44 (25) Bgk</i>.<p><b>Étym</b>. <i>sel. Bgk, fém</i>. πορφυρᾶ.`

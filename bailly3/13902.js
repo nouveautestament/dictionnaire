@@ -1,0 +1,1 @@
+lar[13902]=`<b>ἀ·πρόεδρος, ος, ον</b>, sans président, <i>càd</i>. sans évêque, EUN. <i>p. 249 Mai</i>.`

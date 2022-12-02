@@ -1,0 +1,1 @@
+lar[97144]=`<b>Σω·κλῆς, έους (ὁ)</b> Sôklès, <i>h</i>. DÉM. <i>36, 29 Baiter-Sauppe</i> ; PLUT. <i>Thes. 14</i>.<p><b>Étym</b>. σῶς, κλέος.`

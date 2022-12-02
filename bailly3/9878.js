@@ -1,0 +1,1 @@
+lar[9878]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> contrepoids, THEOL. <i>57</i>.<p><b>Étym</b>. ἀντίζυγος.`

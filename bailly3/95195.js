@@ -1,0 +1,1 @@
+lar[95195]=`<b>συν·διοικέω-ῶ</b>, administrer avec <i>ou</i> ensemble, <i>dat</i>. DÉM. <i>750, 11 ; abs</i>. IS. <i>64, 15</i> ; POL. <i>6, 2, 14</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. TH. <i>Char. 21</i>.`

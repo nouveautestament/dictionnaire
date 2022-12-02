@@ -1,0 +1,1 @@
+lar[93946]=`<b>οῦ (ὁ)</b> qui partage avec un autre, BAS. <i>3, 276</i> ; NAZ. <i>1, 1032 Migne</i>.<p><b>Étym</b>. συμμερίζω.`

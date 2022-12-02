@@ -1,0 +1,1 @@
+lar[39062]=`<b>ας (ἡ)</b> nouvelles semailles, HÉS. <i>O. 444</i>.<p><b>Étym</b>. ἐπίσπορος.`

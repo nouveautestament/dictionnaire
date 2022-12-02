@@ -1,0 +1,1 @@
+lar[77006]=`<b>ή, όν :<br>      1</b> qui concerne l’entrée : παροδικὸν μέλος, ESCHL. <i>Pers. arg</i>. vers que chantait le chœur à son arrivée sur la scène.<br><b>      2</b> qui se fait en passant, transitoire, BAS. <i>1, 252 Migne</i>.<p><b>Étym</b>. πάροδος.`

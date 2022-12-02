@@ -1,0 +1,1 @@
+lar[28164]=`<b>δυσ·άμμορος, ος, ον</b> <font color="purple">[ῠ]</font> très malheureux, IL. <i>19, 315 ; 22, 428, 485</i> ; A.RH. <i>2, 218</i>.<p><b>Étym</b>. δ. ἄμμορος.`

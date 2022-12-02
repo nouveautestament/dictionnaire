@@ -1,0 +1,1 @@
+lar[58180]=`<font color="purple">[ῠᾰ]</font> <i>adv. et prép</i>. secrètement, en cachette, PLUT. <i>M. 1125e ;</i> τινός, THC. <i>1, 101,</i> de qqn.<p><b>Étym</b>. κρύπτω.`

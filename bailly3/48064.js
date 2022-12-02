@@ -1,0 +1,1 @@
+lar[48064]=`<b>θυρ·ωρός, οῦ (ὁ</b> <i>ou</i> <b>ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> portier, portière, HDT. <i>1, 120</i> ; ESCHL. <i>Ch. 565</i> ; PLAT. <i>Phil. 62c, etc.</i><br><b>      2</b> ami du marié, qui gardait la porte de la chambre nuptiale, SAPPH. <i>99</i>.<p><b>Étym</b>. θύρα, ὁράω.`

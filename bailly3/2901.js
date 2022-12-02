@@ -1,0 +1,1 @@
+lar[2901]=`<b>αἰσχρο·λογέω-ῶ</b>, tenir des propos honteux <i>ou</i> obscènes, PLAT. <i>Rsp. 395e, etc</i>.<p><b>Étym</b>. αἰ. λόγος.`

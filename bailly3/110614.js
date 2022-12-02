@@ -1,0 +1,1 @@
+lar[110614]=`<b>ου</b>, <i>adj. m</i>. qui a le teint jaune <i>ou</i> pâle, ARSTT. <i>Categ. 8, 15</i>.<p><b>Étym</b>. ὠχρός.`

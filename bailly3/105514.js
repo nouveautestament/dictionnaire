@@ -1,0 +1,1 @@
+lar[105514]=`<b>φιλαρχιάω-ῶ</b> <font color="purple">[φῐ]</font> <i>c</i>. φιλαρχέω, CELS. (ORIG. <i>1, 706</i>).`

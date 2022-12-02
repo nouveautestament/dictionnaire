@@ -1,0 +1,1 @@
+lar[26552]=`<b>δικολογέω-ῶ</b> <font color="purple">[ῐ]</font> prononcer des plaidoyers, plaider, ARSTT. <i>Rhet. 1, 1, 11</i>.<p><b>Étym</b>. δικολόγος.`

@@ -1,0 +1,1 @@
+lar[1020]=`<font color="purple">[ᾰ]</font> quêter, mendier. STR. <i>7, fr. 18, p. 78 Kram.</i> ; NYSS. <i>2, 261 Migne</i>.<p><b>Étym</b>. ἀγύρτης.`

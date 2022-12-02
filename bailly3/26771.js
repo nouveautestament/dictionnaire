@@ -1,0 +1,1 @@
+lar[26771]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> uniformité, égalité de caractère, HÉRODOTUS (ORIB. <i>2, 44, 4 B.-Dar</i>.) ; SEXT. <i>P. 3, 244</i>.<p><b>Étym</b>. διομαλίζω.`

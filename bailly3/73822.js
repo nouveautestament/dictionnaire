@@ -1,0 +1,1 @@
+lar[73822]=`<b>ὀφθαλμο·δουλεία, ας (ἡ)</b> action de servir (au doigt et) à l’œil, NT. <i>Eph. 6 ; au pl</i>. NT. <i>Col. 3, 22</i>.`

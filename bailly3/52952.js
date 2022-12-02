@@ -1,0 +1,1 @@
+lar[52952]=`<b>ατος (τὸ)</b> eau pour bassiner, lotion, DIOSC. <i>1, 136</i>.<p><b>Étym</b>. καταντλέω.`

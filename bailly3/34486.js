@@ -1,0 +1,1 @@
+lar[34486]=`<b>εως (ἡ)</b> action de résonner, de faire du bruit, CHRYS. <i>5, 129</i>.<p><b>Étym</b>. ἐνηχέω.`

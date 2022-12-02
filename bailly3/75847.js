@@ -1,0 +1,1 @@
+lar[75847]=`<b>παρα·λήγω</b>, être à l’avant-dernière place, être pénultième, HDN GR. <i>π. μ. λ. 20, 39, etc.</i> ; ἡ παραλήγουσα (<i>s.-e</i>. συλλαβή) DYSC. <i>Synt. 252, etc</i>. la syllabe pénultième.`

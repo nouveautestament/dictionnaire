@@ -1,0 +1,1 @@
+lar[56315]=`<i>mieux que</i> <b>κνισσολοιχία, ας (ἡ)</b> <font color="purple">[ῑσ]</font> gourmandise (<i>propr</i>. action de lécher le rôti) SOPHIL. (ATH. <i>386f</i>).<p><b>Étym</b>. κνισολοιχός.`

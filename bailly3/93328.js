@@ -1,0 +1,1 @@
+lar[93328]=`<b>συγ·κατακτείνω</b>, <i>anc. att</i>. <b>ξυγ·κατακτείνω</b>, tuer avec, massacrer, SOPH. <i>Aj. 230 (ao.2 part</i>. ξυγκατακτάς) ; EUR. <i>Or. 1089</i>.<p><b>Étym</b>. <i>ao.2</i> ξυγκατέκτανον <font color="purple">[τᾰ]</font>.`

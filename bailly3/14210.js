@@ -1,0 +1,1 @@
+lar[14210]=`être blanc, EUR. <i>fr. 74</i> ; OPP. <i>C. 3, 299</i>.<p><b>Étym</b>. ἀργός.`

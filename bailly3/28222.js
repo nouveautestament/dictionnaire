@@ -1,0 +1,1 @@
+lar[28222]=`<b>δυσ·απόσπαστος, ος, ον</b> <font color="purple">[ῠᾰπ]</font><br><b>      1</b> difficile à arracher, POSIDON. (ATH. <i>152a</i>) ; PHIL. <i>2, 11 et 14</i>.<br><b>      2</b> dont on ne peut s’arracher <i>ou</i> se détacher, CHARIT. <i>5, 8</i>.<p><b>Étym</b>. δ. ἀποσπάω.`

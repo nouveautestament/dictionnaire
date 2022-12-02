@@ -1,0 +1,1 @@
+lar[13554]=`<b>ἀπο·ταυρόω-ῶ</b>, changer en taureau, <i>d’où au pass</i>. être semblable à un taureau : δέργμα ἀποταυροῦσθαί τινι, EUR. <i>Med. 188,</i> lancer à qqn un regard de taureau, <i>càd</i>. farouche.<p><b>Étym</b>. ἀ. ταῦρος.`

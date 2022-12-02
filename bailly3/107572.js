@@ -1,0 +1,1 @@
+lar[107572]=`<b>ικος (ὁ, ἡ)</b> <font color="purple">[ᾰῐκ]</font><br><b>      1</b> petite pierre, caillou, PLUT. <i>M. 690e ;</i> LUC. <i>Trag. 226 ; au pl</i>. ARSTT. <i>fr. 205</i>.<br><b>      2</b> moellon, AR. <i>Av. 839</i>.<br><b>      3</b> chaux, pierre à chaux, THC. <i>1, 93</i>.`

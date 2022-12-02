@@ -1,0 +1,1 @@
+lar[4259]=`<b>Ἀλεξί·δημος, ου (ὁ)</b> Alexidèmos, <i>h</i>. PLAT. <i>Men. 76e, etc</i>.<p>➳ <i>Dor</i>. -δαμος <font color="purple">[ᾱ]</font> PD. <i>P. 9, 214</i>.<p><b>Étym</b>. ἀλέξω, δῆμος.`

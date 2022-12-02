@@ -1,0 +1,1 @@
+lar[107879]=`<b>ων (οἱ)</b> les Kharandæes, <i>pple d’Asie,</i> ORPH. <i>Arg. 756, 1050, 1309</i>.`

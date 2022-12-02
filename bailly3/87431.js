@@ -1,0 +1,1 @@
+lar[87431]=`<b>ατος (τὸ) :<br>      1</b> pli, repli d’une étoffe, IL. <i>5, 315</i> ; ANTH. <i>6, 271</i>.<br><b>      2</b> <i>particul</i>. linge plié, compresse, ORIB. <i>302 Matthäi</i>.<p><b>Étym</b>. πτύσσω.`

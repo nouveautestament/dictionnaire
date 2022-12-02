@@ -1,0 +1,1 @@
+lar[38010]=`<b>ἐπι·κεφαλαιόομαι,-οῦμαι</b> <font color="purple">[ᾰλ]</font><br><b>      1</b> <i>moy</i>. traiter un sujet sommairement, POL. <i>2, 40, 4</i>.<br><b>      2</b> <i>pass. (ao</i>. ἐπεκεφαλαιώθην) être récapitulé, DC. <i>52, 28</i>.`

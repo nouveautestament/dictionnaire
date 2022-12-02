@@ -1,0 +1,1 @@
+lar[9600]=`<b>εως (ἡ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> apparence différente, STR. <i>109</i>.<br><b>      2</b> opposition, antithèse, SEXT. <i>M. 1, 57</i>.<p><b>Étym</b>. ἀντεμφαίνω.`

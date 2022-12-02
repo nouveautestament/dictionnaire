@@ -1,0 +1,1 @@
+lar[56141]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Klyménè (Clymène) :<br><b>      1</b> <i>Néréide,</i> IL. <i>18, 47</i>.<br><b>      2</b> <i>Océanide,</i> HÉS. <i>Th. 351</i>.<br><b>      3</b> <i>autre,</i> OD. <i>11, 326, etc</i>.<p><b>Étym</b>. κλύω.`

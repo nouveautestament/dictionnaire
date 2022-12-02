@@ -1,0 +1,1 @@
+lar[108094]=`<b>χειρ·αλειπτέω-ῶ</b> <font color="purple">[ᾰ]</font> se frotter les bras d’huile, <i>t. de lutte,</i> DS. <i>Exc. 513, 86</i>.<p><b>Étym</b>. χ. ἀλείφω.`

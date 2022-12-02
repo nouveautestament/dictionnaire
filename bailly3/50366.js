@@ -1,0 +1,1 @@
+lar[50366]=`<b>καθ·ευρίσκω</b> <font color="purple">[ᾰ]</font> découvrir, LUC. <i>Oc. 68 ; au pass</i>. καθευρέθη τάφον κοσμοῦσα, SOPH. <i>Ant. 395 (vulg., conj</i>. καθῃρέθη) on l’a trouvée préparant la sépulture.`

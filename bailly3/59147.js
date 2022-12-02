@@ -1,0 +1,1 @@
+lar[59147]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> obstacle, empêchement, DIOSC. <i>1, 134</i>.<p><b>Étym</b>. <i>neutre de</i> κωλυτήριος.`

@@ -1,0 +1,1 @@
+lar[63292]=`<b>ας (ἡ)</b> Mégæra (Mégère) <i>une des Furies,</i> ORPH. <i>Arg. 966, etc.</i> ; LUC. <i>Trag. 4</i>.<p><b>Étym</b>. μεγαίρω.`

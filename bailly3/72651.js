@@ -1,0 +1,1 @@
+lar[72651]=`<b>α, ον</b>, qui concerne Oreste, SOPH. <i>El. 1117</i> ; EUR. <i>Andr. 1242</i>.<p><b>Étym</b>. Ὀρέστης.`

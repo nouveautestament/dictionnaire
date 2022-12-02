@@ -1,0 +1,1 @@
+lar[103220]=`<b>ὑπο·δώριος, ος, ον</b>, hypodorien, <i>càd</i>. qui se rapproche du mode dorien, <i>t. de mus</i>. ARISTOX. <i>Harm. p. 37</i> ; HÉRACLIDE DU PONT (ATH. <i>625a</i>) ; PLUT. <i>M. 1142f, etc</i>.`

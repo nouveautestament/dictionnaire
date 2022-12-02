@@ -1,0 +1,1 @@
+lar[103885]=`<b>ὑπο·στεναχίζω</b> <font color="purple">[ᾰ]</font> gémir <i>ou</i> retentir sous (les coups), IL. <i>2, 781</i> ; HÉS. <i>Th. 843</i>.`

@@ -1,0 +1,1 @@
+lar[24445]=`<b>ος, ον</b>, qui ronge (mal, ulcère, <i>etc</i>.) SOPH. <i>Ph. 7 ; Tr. 1084</i>.<p><b>Étym</b>. διαβιβρώσκω.`

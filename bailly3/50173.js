@@ -1,0 +1,1 @@
+lar[50173]=`<b>ων (οἱ)</b> les Kabalies, <i>pple d’Asie Mineure entre la Lycie, la Carie, la Phrygie et la Pisidie,</i> HDT. <i>3, 90</i>.`

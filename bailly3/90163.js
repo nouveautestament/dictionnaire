@@ -1,0 +1,1 @@
+lar[90163]=`<b>σιδηρό·πλαστος, ος, ον</b> <font color="purple">[ῐ]</font> fabriqué en fer, LUC. <i>Oc. 164</i>.<p><b>Étym</b>. σ. πλάσσω.`

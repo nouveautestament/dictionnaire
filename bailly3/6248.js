@@ -1,0 +1,1 @@
+lar[6248]=`<b>ἀμφί·μακρος, ου (ὁ)</b> <i>s.-e</i>. πούς, amphimacre, pied d’une brève entre deux longues, <i>autre n. du pied appelé</i> κρητικός, DRAC. <i>129, 2</i> ; HÉPH. <i>3, 2</i> ; A. QUINT. <i>p. 48</i>.<p><b>Étym</b>. ἀ. μακρός.`

@@ -1,0 +1,1 @@
+lar[77256]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾱ]</font> Pasiôn :<br><b>      1</b> <i>Mégarien,</i> XÉN. <i>An. 1, 2, 3, etc.</i><br><b>      2</b> <i>banquier,</i> DÉM. <i>27, 11, etc. Baiter-Sauppe</i>.<br><b>      3</b> <i>autres,</i> LUC. <i>D. mer. 12, 1, etc</i>.`

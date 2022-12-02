@@ -1,0 +1,1 @@
+lar[77265]=`<b>πασσαλο·κοπία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font> action d’enfoncer des piquets, des chevilles <i>ou</i> des clous, ATH. (<i>Math. vet. p. 15).</i><p><b>Étym</b>. πάσσαλος, κόπτω.`

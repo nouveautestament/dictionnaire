@@ -1,0 +1,1 @@
+lar[93106]=`<i>mieux que</i> <b>στύπη, ης (ἡ)</b> filasse, étoupe, JOS. (SUID. <i>v°</i> στύππη).<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

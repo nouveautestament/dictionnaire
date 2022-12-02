@@ -1,0 +1,1 @@
+lar[60699]=`<b>οντος (ὁ)</b> Léôn (Léon) :<br><b>      1</b> <i>n. d’h</i>. HDT. <i>1, 65, etc.</i> ; THC. <i>3, 92, etc.</i> ; PLAT. <i>Ap. 32c, etc.</i><br><b>      2</b> <i>brg près de Syracuse,</i> THC. <i>6, 97</i>.<p>➳ <i>Voc</i>. Λέον, EL. <i>V.H. 13, 34</i>.<p><b>Étym</b>. <i>cf</i>. λέων.`

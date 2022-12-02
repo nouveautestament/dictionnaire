@@ -1,0 +1,1 @@
+lar[90656]=`<b>ικος (ὁ)</b> <font color="purple">[ῑκ]</font> cerfeuil, AR. <i>Ach. 478</i> ; AND. (SUID.) ; TH. <i>H.P. 7, 8, 1</i>.`

@@ -1,0 +1,1 @@
+lar[14791]=`<i>gén. épq</i>. <b>-δαο (ὁ)</b> <font color="purple">[ᾰῐᾱ]</font> le fils d’Arkas (Iasos), CALL. <i>Dian. 216</i>.`

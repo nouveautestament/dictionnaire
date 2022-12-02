@@ -1,0 +1,1 @@
+lar[43788]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’actions de grâces, DH. <i>10, 17</i> ; θύειν εὐχαριστήρια, POL. <i>5, 14, 8,</i> offrir un sacrifice d’actions de grâces.<p><b>Étym</b>. εὐχαριστέω.`

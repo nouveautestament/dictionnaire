@@ -1,0 +1,1 @@
+lar[5081]=`<b>ἀλφιτο·φάγος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui mange de la farine, EL. <i>N.A. 17, 31</i>.<p><b>Étym</b>. ἄ. φαγεῖν.`

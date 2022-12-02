@@ -1,0 +1,1 @@
+lar[11744]=`<b>εως (ἡ) :<br>      1</b> action de s’appuyer sur, PLAT. <i>Crat. 427a ;</i> ARSTT. <i>Inc. an. 3, 3 ; Probl. 5, 40, 6, etc.</i><br><b>      2</b> action d’infliger un châtiment, PLUT. <i>M. 1130d</i>.<p><b>Étym</b>. ἀπερείδω.`

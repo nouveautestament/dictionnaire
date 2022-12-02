@@ -1,0 +1,1 @@
+lar[79304]=`<b>περι·σπογγίζω</b>, essuyer tout autour avec une éponge, HPC. <i>465, 55</i> ; TH. <i>Char. 25</i>.`

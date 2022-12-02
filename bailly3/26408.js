@@ -1,0 +1,1 @@
+lar[26408]=`<b>διθυραμβο·ποιητική, ῆς (ἡ)</b> <font color="purple">[ῑῠ]</font> <i>s.-e</i>. τέχνη, art du poète dithyrambique, ARSTT. <i>Poet. 1, 2</i>.<p><b>Étym</b>. δ. ποιητικός.`

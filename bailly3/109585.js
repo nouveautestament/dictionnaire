@@ -1,0 +1,1 @@
+lar[109585]=`<b>ατος (τὸ)</b> léger attouchement, X. ÉPH. <i>3, 2</i>.<p><b>Étym</b>. ψαύω.`

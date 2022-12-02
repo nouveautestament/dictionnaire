@@ -1,0 +1,1 @@
+lar[76480]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> garçon de bains, <i>propr</i>. qui se tient auprès des baigneurs pour verser de l’eau, PLUT. <i>M. 538a ;</i> CLÉARQ. (ATH. <i>518c</i>).<p><b>Étym</b>. παραχέω.`

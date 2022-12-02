@@ -1,0 +1,1 @@
+lar[92040]=`<b>ου (ἡ)</b> <font color="purple">[ῠᾰ]</font> crotte de chèvre <i>ou</i> de brebis, HPC. <i>571, 18 ; 575, 48</i> ; DIOSC. <i>2, 98</i>.`

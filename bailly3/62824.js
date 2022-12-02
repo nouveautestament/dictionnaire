@@ -1,0 +1,1 @@
+lar[62824]=`<b>ή, όν :<br>      1</b> annoncé par l’oracle, prédit, EUR. <i>Ion 1209</i>.<br><b>      2</b> ordonné par l’oracle, XÉN. <i>An. 5, 9, 22</i>.<p><b>Étym</b>. <i>vb. de</i> μαντεύομαι.`

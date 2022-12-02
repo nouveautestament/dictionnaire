@@ -1,0 +1,1 @@
+lar[55560]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> le vent qui souffle de Circæum, <i>en Italie, le même que le Θρᾳκίας en Grèce,</i> ARSTT. <i>Vent. p. 973b</i>.<p><b>Étym</b>. Κιρκαῖον.`

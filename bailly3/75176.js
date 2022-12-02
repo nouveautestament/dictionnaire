@@ -1,0 +1,1 @@
+lar[75176]=`<b>Παντ·άγαθος, ου (ὁ)</b> <font color="purple">[ᾰγᾰ]</font> Pantagathos, <i>h</i>. ANTH. <i>11, 340</i>.<p><b>Étym</b>. π. ἀγαθός.`

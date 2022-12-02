@@ -1,0 +1,1 @@
+lar[43114]=`<b>εὐ·πρόσθετος, ος, ον</b>, facile à approcher, à placer auprès, HPC. <i>383, 9</i>.<p><b>Étym</b>. εὖ, προστίθημι.`

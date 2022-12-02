@@ -1,0 +1,1 @@
+lar[80772]=`<b>πλατύ·πιλος, ος, ον</b> <font color="purple">[ᾰῠῑ]</font> au large feutre, <i>en parl. d’un casque,</i> SCH.-SOPH. <i>O.C. 313</i>.<p><b>Étym</b>. πλ. πῖλος.`

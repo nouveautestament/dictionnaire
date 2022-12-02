@@ -1,0 +1,1 @@
+lar[9709]=`<b>ἀντ·εύκρατος ζώνη (ἡ)</b> la zone tempérée opposée à (la nôtre) CLÉOM. <i>1, 3, etc.</i> ; DL. <i>7, 156</i>.`

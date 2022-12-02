@@ -1,0 +1,1 @@
+lar[93715]=`<b>συκοτραγέω-ῶ</b> <font color="purple">[ῡᾰ]</font> manger des figues, TH. <i>Char. 10</i>.<p><b>Étym</b>. συκοτράγος.`

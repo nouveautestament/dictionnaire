@@ -1,0 +1,1 @@
+lar[71522]=`<b>ὁμοιο·ειδής, ής, ές</b>, de même apparence, de même espèce, ARSTT. <i>Phys. 1, 4, 13, etc.</i> ; DH. <i>5, 213, 8 ; 429, 7 Reiske</i>.<p><b>Étym</b>. ὅμ. εἶδος.`

@@ -1,0 +1,1 @@
+lar[81848]=`<b>πολυδικέω-ῶ</b> <font color="purple">[ῠῐ]</font> plaider beaucoup, être sans cesse en procès, PLAT. <i>Leg. 938b</i>.<p><b>Étym</b>. πολύδικος.`

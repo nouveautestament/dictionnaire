@@ -1,0 +1,1 @@
+lar[32485]=`<b>ἐλαιο·χυτέω-ῶ</b> <font color="purple">[ῠ]</font> arroser d’huile, oindre, P. ÉG. <i>302 Briau</i>.<p><b>Étym</b>. ἔ. χυτός.`

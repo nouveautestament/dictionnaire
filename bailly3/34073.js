@@ -1,0 +1,1 @@
+lar[34073]=`<b>ἐν·αυξάνω</b>, faire croître dans, XÉN. <i>Cyn. 12, 9 ; d’où au pass</i>. croître dans, HDN <i>2, 10</i>.`

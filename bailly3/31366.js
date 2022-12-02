@@ -1,0 +1,1 @@
+lar[31366]=`<b>ἑκκαιδεκα·δάκτυλος, ος, ον</b> <font color="purple">[κᾰῠ]</font> long de seize doigts, ATHÉNÉE MÉC. <i>35, 1</i>.<p><b>Étym</b>. ἑ. δάκτυλος.`

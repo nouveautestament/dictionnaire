@@ -1,0 +1,1 @@
+lar[106023]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> goût pour les méchancetés <i>ou</i> les méchantes gens, TH. <i>Char. 29</i>.<p><b>Étym</b>. φιλοπόνηρος.`

@@ -1,0 +1,1 @@
+lar[54862]=`<font color="purple">[ᾰ]</font> frapper de ses cornes, SPT. <i>Ezech. 32, 2 ; Ps. 43, 7</i> ; PHIL. <i>1, 57</i>.<p><b>Étym</b>. κέρας.`

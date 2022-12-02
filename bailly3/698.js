@@ -1,0 +1,1 @@
+lar[698]=`<b>ἀγλαό·δενδρος, ος, ον</b>, aux arbres splendides, <i>càd</i>. vigoureux, PD. <i>O. 9, 22</i>.<p><b>Étym</b>. ἀ. δένδρον.`

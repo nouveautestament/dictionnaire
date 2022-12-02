@@ -1,0 +1,1 @@
+lar[42369]=`<b>εὐ·κάρδιος, ος, ον :<br>      1</b> qui a un cœur ferme, courageux, SOPH. <i>Aj. 364, Ph. 535 ; en parl. d’un cheval,</i> ardent, courageux, XÉN. <i>Eq. 6, 14</i>.<br><b>      2</b> bon pour l’estomac, cordial, <i>t. de méd</i>. XÉNOCR. <i>Al. 8</i> ; SUID. <i>v°</i> καρδιώττειν.<p>•<i> Sup</i>. -ώτατος, RUF. <i>p. 198 Matthäi</i>.<p><b>Étym</b>. εὖ, καρδία.`

@@ -1,0 +1,1 @@
+lar[68825]=`<b>ιδος</b> <font color="purple">[ῑῡῑῐδ ; <i>p. except</i>. ῐῠ]</font> <i>adj. f</i>. de Nisyros, ANTH. <i>9, 21</i>.<p><b>Étym</b>. Νίσυρος.`

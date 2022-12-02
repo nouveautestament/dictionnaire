@@ -1,0 +1,1 @@
+lar[78997]=`<b>περί·οδος, ου (ὁ)</b> officier <i>ou</i> soldat de ronde, EN. TACT. <i>Pol. 22, 26</i>.<p><b>Étym</b>. π. ὁδός.`

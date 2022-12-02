@@ -1,0 +1,1 @@
+lar[51897]=`<b>καρπο·τόκος, ος, ον</b>, qui produit des fruits, ANTH. <i>12, 225</i> ; PHIL. <i>1, 53, etc</i>.<p><b>Étym</b>. κ. τίκτω.`

@@ -1,0 +1,1 @@
+lar[57243]=`<b>ων (τὰ)</b> <font color="purple">[μᾰ]</font> rognures de cuir, <i>d’où</i> vétilles, niaiseries, AR. <i>Eq. 49</i>.<p><b>Étym</b>. σκύλλω <i>avec redoubl</i>.`

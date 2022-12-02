@@ -1,0 +1,1 @@
+lar[15752]=`<font color="purple">[σᾰ]</font> <i>adv</i>., obscurément, sans qu’on puisse discerner, THC. <i>4, 20</i> ; PLAT. <i>Crat. 427d</i>.<p>➳ <i>Ion</i>. ἀσαφέως, HPC. <i>1194d</i>.`

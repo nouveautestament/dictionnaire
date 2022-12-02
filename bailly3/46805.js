@@ -1,0 +1,1 @@
+lar[46805]=`<b>θεο·σφαγία, ας (ἡ)</b> <font color="purple">[φᾰ]</font> sacrifice d’un Dieu (de J.-C.) <i>en parl. de l’Eucharistie,</i> CHRYS. <i>6, 908</i>.<p><b>Étym</b>. θ. σφάττω.`

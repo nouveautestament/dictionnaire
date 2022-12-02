@@ -1,0 +1,1 @@
+lar[77473]=`<b>παχύ·δενδρος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux arbres serrés <i>ou</i> aux gros arbres touffus, HIM. <i>23, 17</i>.<p><b>Étym</b>. π. δένδρον.`

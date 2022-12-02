@@ -1,0 +1,1 @@
+lar[53476]=`<b>κατα·στραγγίζω</b>, pressurer, exprimer, SPT. <i>Lev. 5, 9</i>.`

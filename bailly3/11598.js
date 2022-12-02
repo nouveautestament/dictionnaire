@@ -1,0 +1,1 @@
+lar[11598]=`<b>ἀπειρό·μοθος, ος, ον</b>, sans expérience des combats, NONN. <i>D. 20, 260</i>.<p><b>Étym</b>. ἄ. μόθος.`

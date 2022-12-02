@@ -1,0 +1,1 @@
+lar[102005]=`<font color="purple">[ῠ]</font> s’argenter, être argenté, <i>càd</i>. grisonnant <i>ou</i> blanc, <i>en parl. de cheveux,</i> EUN. <i>p. 74</i>.<p><b>Étym</b>. ὑπάργυρος.`

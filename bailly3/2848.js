@@ -1,0 +1,1 @@
+lar[2848]=`<b>ου (ὁ)</b> Æsimidès, <i>Corcyréen,</i> THC. <i>1, 47</i>.<p>➳ <i>Voc</i>. -ίδη, ARCHIL. <i>8 ; dor</i>. ίδα, ALC. <i>93</i>.<p><b>Étym</b>. Αἴσιμος.`

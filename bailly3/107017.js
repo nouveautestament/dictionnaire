@@ -1,0 +1,1 @@
+lar[107017]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> qui bannit, CLÉM. <i>197</i> ; HLD. <i>8, 11</i>.<p><b>Étym</b>. φυγαδεύω.`

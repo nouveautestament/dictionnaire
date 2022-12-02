@@ -1,0 +1,1 @@
+lar[57922]=`<b>εως (ἡ)</b> <font color="purple">[ῐκ]</font> forme arrondie, rotondité, HÉLIOD. (ORIB. <i>p. 189 Mai).</i><p><b>Étym</b>. κρικόω.`

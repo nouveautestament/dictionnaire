@@ -1,0 +1,1 @@
+lar[77100]=`<b>οῦ (ὁ)</b> qui empiète sur le terrain d’autrui, ANTH. <i>11, 209</i>.<p><b>Étym</b>. παρορίζω.`

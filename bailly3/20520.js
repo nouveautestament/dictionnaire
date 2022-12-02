@@ -1,0 +1,1 @@
+lar[20520]=`<b>ου (ὁ)</b> = <i>lat</i>. Burrhus, <i>n. d’h</i>. DC. <i>68, 8</i> ; JOS.`

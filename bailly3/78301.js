@@ -1,0 +1,1 @@
+lar[78301]=`<b>περατο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> d’une nature finie, bornée, PLAT. <i>Phil. 25d</i>.<p><b>Étym</b>. πέρατος, εἶδος.`

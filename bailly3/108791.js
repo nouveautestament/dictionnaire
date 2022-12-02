@@ -1,0 +1,1 @@
+lar[108791]=`<b>ή, όν</b>, qui concerne les chœurs de danse <i>ou</i> les choristes, LUC. <i>Salt. 10</i> ; EL. <i>N.A. 2, 11</i>.<p><b>Étym</b>. χορεύω.`

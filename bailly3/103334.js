@@ -1,0 +1,1 @@
+lar[103334]=`<b>ὑπο·καταλείπω</b>, abandonner <i>ou</i> laisser de côté peu à peu, HPC. <i>Prorrh. 102</i>.`

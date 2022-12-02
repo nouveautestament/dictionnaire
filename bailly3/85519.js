@@ -1,0 +1,1 @@
+lar[85519]=`<b>προσ·εκκαίω</b> <font color="darkgreen">(<i>f</i>. -καύσω, <i>ao</i>. προσεξέκηα <i>ou</i> προσεξέκαυσα, <i>etc</i>.)</font> enflammer en outre, <i>acc</i>. DC. <i>62, 17 ; fig</i>. PLUT. <i>Cleom. 2 ; au pass</i>. SEXT. <i>M. 11, 179, etc</i>.`

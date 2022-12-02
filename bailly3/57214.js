@@ -1,0 +1,1 @@
+lar[57214]=`<b>ου (ὁ)</b> Korôbios, <i>Crétois,</i> HDT. <i>4, 151</i>.`

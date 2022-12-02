@@ -1,0 +1,1 @@
+lar[6019]=`<b>ἀμφ·ερυθαίνω</b> (<i>seul. ao. 3 sg</i>. ἀμφερύθηνε) <font color="purple">[ῠ]</font> se couvrir de rougeur, Q. SM. <i>1, 60</i>.`

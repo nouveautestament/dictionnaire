@@ -1,0 +1,1 @@
+lar[25262]=`<b>δια·πιαίνω</b> <font color="purple">[πῑ]</font> (<i>seul. ao. pass. part</i>. -πιανθεῖσαι) rendre très gras, THCR. <i>Idyl. 16, 91</i>.`

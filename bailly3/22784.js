@@ -1,0 +1,1 @@
+lar[22784]=`<b>γυναικ·άνηρ (ὁ)</b> <font color="purple">[ῠᾰ]</font> <i>seul. dat. pl</i>. -άνδρεσσι, EPICH. (SCH.-IL. <i>8, 527</i>) homme efféminé.<p><b>Étym</b>. γυνή, ἀνήρ.`

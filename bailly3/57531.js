@@ -1,0 +1,1 @@
+lar[57531]=`<b>α, ον</b> <font color="purple">[βᾰ]</font> brûlé, desséché, ATH. <i>376c</i>.<p><b>Étym</b>. κράμβος.`

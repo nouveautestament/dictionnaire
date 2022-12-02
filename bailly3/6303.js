@@ -1,0 +1,1 @@
+lar[6303]=`<b>ἀμφι·περιστέφω</b>, ceindre tout autour ; <i>au pass</i>. οὔ οἱ χάρις ἀμφιπεριστέφεται ἐπέεσσι, OD. <i>8, 175,</i> la grâce n’enveloppe pas son langage.`

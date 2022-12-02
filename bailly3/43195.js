@@ -1,0 +1,1 @@
+lar[43195]=`<b>εὐριπιδ·αριστοφανίζω</b> <font color="purple">[ῑῐᾰᾰ]</font> parler comme Aristophane parodiant Euripide, CRAT. <i>fr. 155</i>.<p><b>Étym</b>. Εὐριπίδης, Ἀριστοφάνης.`

@@ -1,0 +1,1 @@
+lar[44763]=`<b>ζωοποιέω-ῶ :<br>      1</b> rendre vivant, animer, SPT. <i>4Reg. 5, 7 ; Neh. 9, 6 ; Ps. 70, 20</i>.<br><b>      2</b> engendrer des êtres vivants, ARSTT. <i>H.A. 5, 27, 3 ; G.A. 1, 21, 8</i>.<p><b>Étym</b>. ζωοποιός.`

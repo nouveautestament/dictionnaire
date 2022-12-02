@@ -1,0 +1,1 @@
+lar[76929]=`<b>ου (ὁ)</b> Parthos, <i>Perse,</i> ESCHL. <i>Pers. 984</i>.`

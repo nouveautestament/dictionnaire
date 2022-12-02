@@ -1,0 +1,1 @@
+lar[77123]=`<b>πάρ·ουρος, ος, ον</b>, qui se trouve près de la queue, PTOL. <i>2, 62 et 68</i>.<p><b>Étym</b>. π. οὐρά.`

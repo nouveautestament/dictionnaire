@@ -1,0 +1,1 @@
+lar[25893]=`<b>δια·φυσάω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> disperser d’un souffle, dissiper, détruire d’un souffle, PLAT. <i>Phæd. 77d, 80d.</i><br><b>      2</b> souffler à travers, PLUT. <i>M. 950b ;</i> LUC. <i>Herm. 68</i>.`

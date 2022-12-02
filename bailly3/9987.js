@@ -1,0 +1,1 @@
+lar[9987]=`<b>εως (ἡ)</b> choc violent, <i>en parl. de vents, d’ouragans,</i> TH. <i>Vent. 55</i>.<p><b>Étym</b>. ἀντικόπτω.`

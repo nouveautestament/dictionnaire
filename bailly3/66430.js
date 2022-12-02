@@ -1,0 +1,1 @@
+lar[66430]=`<b>ου (τὸ)</b> Molykreion, <i>v. et port d’Étolie, près du cap Antirrhion,</i> THC. <i>2, 84 ; 3, 102</i> (<i>var</i>. Μολύκριον).`

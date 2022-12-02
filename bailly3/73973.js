@@ -1,0 +1,1 @@
+lar[73973]=`<b>ὀψάομαι-ῶμαι</b>, manger un mets (viande, légumes, <i>etc</i>.) avec son pain, PLUT. <i>M. 668b</i>.<p><b>Étym</b>. ὄψον.`

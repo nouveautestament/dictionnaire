@@ -1,0 +1,1 @@
+lar[49285]=`<b>ἱππ·ιατρός, οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> médecin vétérinaire, ARC. <i>86, 18</i>.`

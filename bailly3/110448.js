@@ -1,0 +1,1 @@
+lar[110448]=`<b>ὡρο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui écrit (l’histoire) par ordre d’années, annaliste, <i>particul</i>. annaliste municipal, <i>non au sens littéraire d’annaliste,</i> PLUT. <i>M. 869a</i>.<p><b>Étym</b>. ὥρα, γράφω.`

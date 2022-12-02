@@ -1,0 +1,1 @@
+lar[74685]=`<b>παμ·βίας, ου</b> <font color="purple">[ᾱς]</font> <i>adj. m</i>. d’une force à tout vaincre, irrésistible, PD. <i>N. 9, 58</i>.<p><b>Étym</b>. π. βία.`

@@ -1,0 +1,1 @@
+lar[102681]=`<i>adv</i>., d’un poids excessif, excessivement, PHIL. <i>1, 103</i>.`

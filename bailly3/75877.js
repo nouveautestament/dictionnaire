@@ -1,0 +1,1 @@
+lar[75877]=`<b>παραλληλο·γράμμως</b>, <i>adv</i>., en forme de parallélogramme, JAMBL. <i>Nicom. ar. 37b</i>.`

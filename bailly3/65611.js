@@ -1,0 +1,1 @@
+lar[65611]=`<i>partic. négative, c</i>. μή, EUB. <i>(Bkk. p. 108, 14</i>).`

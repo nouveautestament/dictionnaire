@@ -1,0 +1,1 @@
+lar[66218]=`<b>Μνησι·πτολέμα, ας (ἡ)</b> <font color="purple">[ᾱ]</font> Mnèsiptoléma, <i>f</i>. PLUT. <i>Them. 30, 32</i>.<p><b>Étym</b>. <i>v</i>. Μνησιπτόλεμος.`

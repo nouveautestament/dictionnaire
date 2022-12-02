@@ -1,0 +1,1 @@
+lar[104822]=`<b>ου (ὁ)</b> = <i>lat</i>. Fannius, <i>n. d’h. rom</i>. PLUT. <i>C.Gracch</i>. 8, <i>etc</i>.`

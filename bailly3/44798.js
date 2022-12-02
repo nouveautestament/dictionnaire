@@ -1,0 +1,1 @@
+lar[44798]=`<b>ατος (τὸ)</b> <i>c</i>. ζώπυρον, PHIL. PARADOX. <i>VII mir. p. 1179</i> ; SCH.-AR. <i>Lys. 107</i>.`

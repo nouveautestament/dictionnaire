@@ -1,0 +1,1 @@
+lar[50022]=`<b>α (ὁ)</b> <font color="purple">[ῑῐᾰῐ]</font> Iphikratidas, <i>h</i>. ANTH. <i>7, 345</i>.<p><b>Étym</b>. <i>patr. dor. de</i> Ἰφικράτης.`

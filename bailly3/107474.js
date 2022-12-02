@@ -1,0 +1,1 @@
+lar[107474]=`<b>οῦ (ὁ)</b> Khærèmonianos, <i>h</i>. PLUT. <i>Qu. conv. 2, 7, 1</i>.<p><b>Étym</b>. Χαιρήμων.`

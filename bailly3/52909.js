@@ -1,0 +1,1 @@
+lar[52909]=`<b>κατα·νεφόω-ῶ</b>, couvrir de nuages, obscurcir, PLUT. <i>Tim. 27</i>.`

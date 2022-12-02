@@ -1,0 +1,1 @@
+lar[98015]=`<b>ης (ἡ)</b> Teikhioussa (<i>litt</i>. la région fortifiée) <i>lieu sur le territoire de Milet,</i> THC. <i>8, 26, 28</i>.<p>➳ <i>Dans une inscr. att. : v. Meisterh. p. 75, 12</i>.<p><b>Étym</b>. <i>contr. du fém. de</i> τειχιόεις.`

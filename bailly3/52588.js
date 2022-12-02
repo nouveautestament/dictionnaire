@@ -1,0 +1,1 @@
+lar[52588]=`<b>κατα·κολπίζω</b> <font color="darkgreen">(<i>f. att</i>. -ιῶ, <i>ao</i>. κατεκόλπισα) :</font><br><b>      1</b> suivre les contours d’un golfe, longer un golfe, THC. <i>8, 92</i> ; STR. <i>358</i>.<br><b>      2</b> entrer en rade, EL. <i>N.A. 14, 26</i>.<p><b>Étym</b>. κ. κόλπος.`

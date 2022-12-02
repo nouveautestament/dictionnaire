@@ -1,0 +1,1 @@
+lar[28094]=`<b>δυνατέω-ῶ</b> (<i>seul. prés</i>. -εῖ) <font color="purple">[ῠᾰ]</font> être puissant, NT. <i>2Cor. 13, 3</i>.<p><b>Étym</b>. δυνατός.`

@@ -1,0 +1,1 @@
+lar[53135]=`<b>οῦ (ὁ)</b> qui jette à la mer, <i>d’où</i> pirate, <i>joint à</i> λῃστής, ISOCR. <i>280a ;</i> DÉM. <i>673 fin ; 674, 3</i> ; LUC. <i>M. cond. 24 ; fig</i>. PAUS. <i>8, 52, 5 ; adj</i>. SYN. <i>Ep. 57</i>.<p><b>Étym</b>. καταποντίζω.`

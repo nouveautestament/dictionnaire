@@ -1,0 +1,1 @@
+lar[93854]=`<b>σύμβλημα, ατος (τὸ)</b> jointure, emboîtement, SPT. <i>Esaï. 41, 7</i>.<p><b>Étym</b>. συμβάλλω.`

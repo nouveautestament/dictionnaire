@@ -1,0 +1,1 @@
+lar[89611]=`<b>εως (ἡ)</b> extinction, ARSTT. <i>Respir. 8, 4, etc</i>.<p><b>Étym</b>. σβέννυμι.`

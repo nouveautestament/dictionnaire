@@ -1,0 +1,1 @@
+lar[70284]=`<b>εος-ους (τὸ)</b> gonflement, grosseur, HPC. <i>768d, etc.</i> ; NIC. <i>Th. 188, etc</i>.<p><b>Étym</b>. οἰδέω.`

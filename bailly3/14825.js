@@ -1,0 +1,1 @@
+lar[14825]=`se consacrer à Artémis de Brauronie (<i>ou</i> de Brauron), <i>en parl. de jeunes filles,</i> LYS. (HARP.).<p><b>Étym</b>. ἄρκτος.`

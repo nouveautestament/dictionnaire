@@ -1,0 +1,1 @@
+lar[11958]=`<font color="purple">[ῐᾰ]</font> <i>adv</i>., d’une manière peu persuasive <i>ou</i> peu vraisemblable, ISOCR. <i>87d ;</i> DH. <i>Lys. 17</i>.<p><b>Étym</b>. ἀπίθανος.`

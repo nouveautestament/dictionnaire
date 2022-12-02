@@ -1,0 +1,1 @@
+lar[71075]=`<b>ὀλιγο·φρενία, ας (ἡ)</b> <font color="purple">[ῐγ]</font> petit esprit, intelligence médiocre, NAZ. <i>Carm. 13, 126</i>.<p><b>Étym</b>. ὀλ. φρήν.`

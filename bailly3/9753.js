@@ -1,0 +1,1 @@
+lar[9753]=`<b>ου (ὁ)</b> Antias, <i>h</i>. PLUT. <i>Rom. 14, etc</i>.<p>➳ <i>Gén. dor</i>. -α, PD. <i>N. 10, 74</i>.`

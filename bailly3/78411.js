@@ -1,0 +1,1 @@
+lar[78411]=`<b>περι·αυγάζω</b>, illuminer tout autour, <i>acc</i>. HLD. <i>8, 9</i> ; PHIL. <i>1, 364</i>.`

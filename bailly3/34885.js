@@ -1,0 +1,1 @@
+lar[34885]=`<b>ἔν·ουρος, ος, ον</b>, qui se trouve dans l’urine, HPC. <i>268, 38 dout</i>.<p><b>Étym</b>. ἐν, οὖρον.`

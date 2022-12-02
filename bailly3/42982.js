@@ -1,0 +1,1 @@
+lar[42982]=`<b>εὐ·περίγραφος, ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> bien circonscrit, de grandeur <i>ou</i> de forme convenable, LUC. <i>Am. 14, Dom. 7</i> ; EL. <i>N.A. 10, 13</i>.<br><b>      2</b> facile à circonscrire, STR. <i>78, 210</i>.<p><b>Étym</b>. εὖ, περιγράφω.`

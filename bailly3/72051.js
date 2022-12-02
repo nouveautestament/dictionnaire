@@ -1,0 +1,1 @@
+lar[72051]=`<b>ίδος (ἡ) :<br>      1</b> vase pour le vinaigre, AR. <i>Vesp. 1509, etc.</i> ; DIPH. (ATH. <i>67d</i>).<br><b>      2</b> sorte de mesure <i>c</i>. ὀξύβαφον, AR. <i>fr. 550 Dind</i>.<p><b>Étym</b>. ὀξύς.`

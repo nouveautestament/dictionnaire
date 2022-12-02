@@ -1,0 +1,1 @@
+lar[83534]=`<b>προ·αμέλγω</b> <font color="purple">[ᾰ]</font> traire auparavant, P. ÉG. <i>1, 4</i>.`

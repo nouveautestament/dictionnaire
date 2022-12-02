@@ -1,0 +1,1 @@
+lar[47317]=`<b>θηρο·κτόνος, ος, ον</b>, qui tue les bêtes sauvages, EUR. <i>Hel. 154</i>.<p><b>Étym</b>. θ. κτείνω.`

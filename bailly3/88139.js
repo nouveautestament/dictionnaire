@@ -1,0 +1,1 @@
+lar[88139]=`<b>πωρο·ειδής, ής, ές :<br>      1</b> qui ressemble au tuf, ARÉT. <i>Caus. m. diut. 2, 3</i>.<br><b>      2</b> qui ressemble à une concrétion, GAL. <i>19, 650</i>.<p><b>Étym</b>. πῶρος, εἶδος.`

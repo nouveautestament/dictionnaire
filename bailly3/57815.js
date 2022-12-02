@@ -1,0 +1,1 @@
+lar[57815]=`<i>adv</i>., du haut d’un précipice, ORPH. <i>Arg. 995</i>.<p><b>Étym</b>. κρημνός, -θεν.`

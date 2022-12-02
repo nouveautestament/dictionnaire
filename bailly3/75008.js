@@ -1,0 +1,1 @@
+lar[75008]=`<b>παν·ευδαίμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> tout à fait heureux, PLUT. <i>M. 1063d ;</i> LUC. <i>Char. 14</i>.<p><b>Étym</b>. π. εὐδαίμων.`

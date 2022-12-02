@@ -1,0 +1,1 @@
+lar[73380]=`<b>ὁτι·ή</b>, <i>conj.</i> :<br><b>      1</b> puisque, parce que, EUP. <i>2-1, 551 Meineke</i> ; AR. <i>Eq. 29, 34, 181, etc. ; avec interr.</i> : ὁτιὴ τί <i>ou</i> ὁτιητί, AR. <i>Nub. 784,</i> parce que ? <i>càd</i>. pourquoi ? ὁτιὴ τί δή ; AR. <i>Eq. 756, etc. m. sign.</i><br><b>      2</b> que, AR. <i>Eq. 360, Nub. 331, etc</i>.<p><b>Étym</b>. ὅτι, ἤ.`

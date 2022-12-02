@@ -1,0 +1,1 @@
+lar[81330]=`<b>ορος</b>, <i>adj. m</i>. qui désire, qui souhaite, <i>gén</i>. MAN. <i>4, 120</i>.<p><b>Étym</b>. ποθέω.`

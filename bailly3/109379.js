@@ -1,0 +1,1 @@
+lar[109379]=`<b>α, ον</b>, de pot de terre, de poterie, <i>p. ext</i>. d’argile, AR. <i>Lys. 329</i>.<p><b>Étym</b>. χύτρα.`

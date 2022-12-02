@@ -1,0 +1,1 @@
+lar[25575]=`<b>δια·σπαράσσω</b>, <i>att</i>. <b>-άττω</b> <font color="darkgreen">(<i>f</i>. -άξω, <i>etc</i>.)</font> <font color="purple">[πᾰ]</font> mettre en pièces, déchirer, ESCHL. <i>Pers. 195 ; fig</i>. déchirer en paroles, LUC. <i>Ic. 21</i>.<p>➳ <i>ao.2 pass. inf. réc</i>. διασπαραγῆναι, BAS. <i>1, 172a Migne</i>.`

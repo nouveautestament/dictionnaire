@@ -1,0 +1,1 @@
+lar[24958]=`<b>δι·αλλοιόω-ῶ</b> (<i>part. pf. pass</i>. διηλλοιωμένος) changer complètement, TH. <i>C.P. 5, 6, 12 ; Od. 61</i>.`

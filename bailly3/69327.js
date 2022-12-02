@@ -1,0 +1,1 @@
+lar[69327]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Norbanus, <i>n. d’h. rom. ; au plur</i>. Νωρβανοί, des hommes comme Norbanus, PLUT. <i>Sert. 6</i>.`

@@ -1,0 +1,1 @@
+lar[46891]=`<b>απος (ὁ)</b> <font color="purple">[ᾰπ]</font> <i>(seul. sg. acc</i>. θέραπα, A. PL. <i>306, 10 ; plur. nom</i>. θέραπες, EUR. <i>Ion 94, Suppl. 762</i> ; ION <i>fr. 2, 2</i> ; ANTH. <i>12, 229) c</i>. θεράπων.<p><b>Étym</b>. θεράπων.`

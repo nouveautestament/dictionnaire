@@ -1,0 +1,1 @@
+lar[56934]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petit bistouri, P. ÉG. <i>6, 62</i>.<p><b>Étym</b>. κόπτω.`

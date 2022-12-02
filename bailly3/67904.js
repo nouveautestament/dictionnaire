@@ -1,0 +1,1 @@
+lar[67904]=`<b>νεάω-ῶ</b> (<i>seul. prés. et ao</i>.) donner le premier labour à une terre en jachère, HÉS. <i>O. 460</i> ; TH. <i>C.P. 3, 25 ; avec un acc</i>. AR. <i>Nub. 1117</i>.<p><b>Étym</b>. νέα.`

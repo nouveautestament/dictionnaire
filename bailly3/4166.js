@@ -1,0 +1,1 @@
+lar[4166]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font> <i>dim. de</i> ἄλειμμα DL. <i>6, 52</i>.`

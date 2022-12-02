@@ -1,0 +1,1 @@
+lar[16859]=`<b>ἀτμιάω-ῶ</b> (<i>seul. prés</i>.) exhaler des vapeurs, HPC. <i>173, 14</i>.<p><b>Étym</b>. ἀτμή.`

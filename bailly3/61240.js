@@ -1,0 +1,1 @@
+lar[61240]=`<b>λινό·πληκτος, ος, ον</b> <font color="purple">[ῐ]</font> atteint par le filet, <i>d’où</i> qui redoute le filet, PLUT. <i>M. 642a</i>.<p><b>Étym</b>. λ. πλήσσω.`

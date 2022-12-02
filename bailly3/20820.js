@@ -1,0 +1,1 @@
+lar[20820]=`<b>ίδος (ἡ)</b> <font color="purple">[ῑ]</font> Brisèïs (Briséïs), <i>litt</i>. fille de Brisée, IL. <i>1, 184, etc.</i> ; Q. SM. DH. <i>etc</i>.`

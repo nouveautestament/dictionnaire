@@ -1,0 +1,1 @@
+lar[1076]=`<b>έως (ὁ)</b> proche parent, <i>en parl. de races, de peuples,</i> HDT. <i>5, 80 ; particul</i>. parent au degré successible, SPT. <i>Ruth 3, etc. ; joint à</i> συγγενής, LUC. <i>Tim. 51</i>.<p><b>Étym</b>. ἄγχιστος.`

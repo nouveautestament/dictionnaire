@@ -1,0 +1,1 @@
+lar[103293]=`<b>ὑπ·οιδαλέος, α, ον</b> <font color="purple">[ᾰ]</font> un peu gonflé, bouffe, HPC. <i>479, 33 ; 537, 34</i>.`

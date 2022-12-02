@@ -1,0 +1,1 @@
+lar[91225]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat dans les ténèbres, HERMÈS <i>Poem. 14, 1</i>.<p><b>Étym</b>. <i>v</i>. σκοτομαχέω.`

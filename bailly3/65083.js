@@ -1,0 +1,1 @@
+lar[65083]=`<b>μετ·εκδίδωμι</b> <font color="darkgreen">(<i>f. -εκδώσω au moy</i>.)</font> remettre aux mains d’un second mari, PLUT. <i>Lyc. c. Num. 3</i>.`

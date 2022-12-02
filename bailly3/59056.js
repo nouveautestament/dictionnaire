@@ -1,0 +1,1 @@
+lar[59056]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> convexité, gibbosité, HPC. <i>387, 20</i>.<br><b>      2</b> rotondité, ATH. <i>482e</i>.<p><b>Étym</b>. κυφός.`

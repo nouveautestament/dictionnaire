@@ -1,0 +1,1 @@
+lar[56071]=`<b>κλινο·κοσμέω-ῶ</b> <font color="purple">[ῑ]</font> arranger des lits de table, <i>fig</i>. parler toujours d’en disposer, n’avoir que cela à la bouche, POL. <i>12, 24, 3</i>.<p><b>Étym</b>. κλίνη, κοσμέω.`

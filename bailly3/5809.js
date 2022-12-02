@@ -1,0 +1,1 @@
+lar[5809]=`<b>όεσσα, όεν :<br>      1</b> couvert de vignes, IL. <i>2, 561, etc.</i> ; THGN. <i>784</i> ; PD. <i>I. 7, 49 etc.</i><br><b>      2</b> de vigne, NIC. <i>Al. 142 ; d’où</i> fait d’un cep de vigne, NONN. <i>D. 14, 102</i>.<p>➳ <i>Fém</i>. -όεις, IL. <i>l. c</i>.<p><b>Étym</b>. ἄμπελος.`

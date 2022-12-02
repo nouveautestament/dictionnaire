@@ -1,0 +1,1 @@
+lar[57612]=`<b>κραταιόω-ῶ</b> <font color="purple">[ᾰ]</font> fortifier, affermir, NT. <i>Luc. 1, 80 ; Eph. 3, 16 ; 1Cor. 16, 13</i>.<p><b>Étym</b>. κραταιός.`

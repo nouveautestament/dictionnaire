@@ -1,0 +1,1 @@
+lar[7209]=`<b>ἀνα·μολύνω</b>, souiller entièrement, PHÉRÉCR. (ATH. <i>67c</i>) ; PLUT. <i>M. 580f</i>.`

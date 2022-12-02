@@ -1,0 +1,1 @@
+lar[47136]=`<i>adv</i>., à Thèbes, <i>avec mouv</i>. ARSTT. <i>Phys. 6, 1</i>.<p><b>Étym</b>. Θῆβαι, -ζε.`

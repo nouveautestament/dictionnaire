@@ -1,0 +1,1 @@
+lar[25060]=`<b>δια·μινύρομαι</b> <font color="purple">[μῐῡ]</font> (<i>seul. prés. correct. p</i>. διαμινυρίζεται) faire entendre des accents plaintifs, AR. <i>Th. 100</i>.`

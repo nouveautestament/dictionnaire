@@ -1,0 +1,1 @@
+lar[49473]=`<font color="darkgreen">(<i>impf</i>. ἱπτάμην)</font> MOSCH. <i>3, 43</i> ; BABR. <i>65, 4, réc. c</i>. πέτομαι.`

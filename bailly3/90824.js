@@ -1,0 +1,1 @@
+lar[90824]=`<b>ατος (τὸ) :<br>      1</b> campement, XÉN. <i>Hell. 5, 3, 19</i>.<br><b>      2</b> nid, ESCHL. <i>Ch. 251 au plur</i>.<p><b>Étym</b>. σκηνέω.`

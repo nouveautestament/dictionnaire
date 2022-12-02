@@ -1,0 +1,1 @@
+lar[64537]=`<b>Μεσο·μήδης, ους (ὁ)</b> Mésomèdès, <i>poète lyrique de Crète,</i> ANTH. <i>14, 63</i> ; A. PL. <i>323, etc</i>.<p><b>Étym</b>. μ. μήδομαι.`

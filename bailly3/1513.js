@@ -1,0 +1,1 @@
+lar[1513]=`<b>(ὁ)</b> Adramytès, <i>roi de Lydie,</i> XANTH. (ATH. <i>615e</i>).`

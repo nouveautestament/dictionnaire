@@ -1,0 +1,1 @@
+lar[93114]=`<font color="purple">[ῠᾰ]</font> avoir la saveur du storax, DIOSC. <i>2, 106</i>.<p><b>Étym</b>. στύραξ².`

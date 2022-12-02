@@ -1,0 +1,1 @@
+lar[12412]=`<b>εως (ἡ) :<br>      1</b> action de rendre sauvage, PLUT. <i>M. 1045b.</i><br><b>      2</b> action d’exaspérer, DS. <i>Exc. p. 603, 18</i>.<p><b>Étym</b>. ἀποθηριόω.`

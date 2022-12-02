@@ -1,0 +1,1 @@
+lar[80663]=`<b>πλανο·τρόπος, ος, ον</b> <font color="purple">[ᾰ]</font> qui détourne <i>ou</i> repousse l’erreur, ANTH. <i>1, 106</i>.<p><b>Étym</b>. πλ. τρέπω.`

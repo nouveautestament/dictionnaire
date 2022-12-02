@@ -1,0 +1,1 @@
+lar[61266]=`<b>λινο·φθόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui détruit le lin, <i>càd</i>. qui déchire le tissu, ESCHL. <i>Ch. 27</i>.<p><b>Étym</b>. λ. φθείρω.`

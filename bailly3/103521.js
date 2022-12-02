@@ -1,0 +1,1 @@
+lar[103521]=`<b>ὑπο·μάσσω</b>, pétrir à la dérobée, THCR. <i>Idyl. 5, 59</i>.`

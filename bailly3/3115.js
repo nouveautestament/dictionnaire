@@ -1,0 +1,1 @@
+lar[3115]=`<b>ἀκανθο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰκβᾰ]</font> qui marche sur des épines, <i>fig. c</i>. ἀκανθολόγος, ANTH. <i>11, 322</i>.<p><b>Étym</b>. ἄκανθα, βαίνω.`

@@ -1,0 +1,1 @@
+lar[94639]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. συναλοιφή, EUST. <i>Il. 25, 33</i>.`

@@ -1,0 +1,1 @@
+lar[59522]=`<b>ή, όν</b> <font color="purple">[ᾱῐ]</font><br><b>      1</b> qui concerne le peuple, du peuple, AQU. <i>Ezech. 48, 15</i>.<br><b>      2</b> (<i>p. opp. à</i> κληρικός) laïque, CLÉM. <i>562</i>.<br><b>      3</b> profane, AQU. <i>1Reg. 21, 4</i>.<p><b>Étym</b>. λαός.`

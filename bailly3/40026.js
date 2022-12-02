@@ -1,0 +1,1 @@
+lar[40026]=`<b>ἑπτά·τευχος, ου (ὁ)</b> <i>litt</i>. l’Heptateuque, <i>càd</i>. collection de sept livres, <i>les cinq livres de Moïse ou Pentateuque, avec le livre de Jésus de Navi et le livre des Juges,</i> SID. <i>Ep. 5, 15</i>.<p><b>Étym</b>. <i>formé sur le modèle de</i> πεντάτευχος ; <i>cf</i>. δεκέμβριος <i>et</i> ἐνδεκέμβριος.`

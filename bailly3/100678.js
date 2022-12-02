@@ -1,0 +1,1 @@
+lar[100678]=`<b>ας (ἡ)</b> le territoire de Trœzène, TH. <i>H.P. 9, 18, 11</i>.<p><b>Étym</b>. Τροιζήν.`

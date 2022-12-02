@@ -1,0 +1,1 @@
+lar[43588]=`<b>εὔ·τεχνος, ος, ον</b>, industrieux, habile, HPC. <i>Ep. 1276, 51 ; en parl. de choses,</i> ingénieux, ANTH. <i>6, 206</i>.<p><b>Étym</b>. εὖ, τέχνη.`

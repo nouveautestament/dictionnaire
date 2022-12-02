@@ -1,0 +1,1 @@
+lar[5807]=`<b>ωνος (ὁ)</b> vinette <i>ou</i> gobe-mouches, <i>oiseau,</i> OPP. <i>Ix. 3, 2</i>.<p><b>Étym</b>. ἄμπελος ; <i>cf</i>. ἀμπελίς.`

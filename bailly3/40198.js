@@ -1,0 +1,1 @@
+lar[40198]=`<b>ου (ὁ)</b> Ergiæos, <i>h</i>. PLUT. <i>Qu. gr. 48</i>.`

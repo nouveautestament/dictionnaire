@@ -1,0 +1,1 @@
+lar[61432]=`<b>α, ον</b>, qui pèse <i>ou</i> ne pèse qu’une livre, GAL. <i>13, 657</i> ; ANTH. <i>11, 204</i>.<p><b>Étym</b>. λίτρα.`

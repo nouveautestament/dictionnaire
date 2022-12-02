@@ -1,0 +1,1 @@
+lar[67985]=`<b>νεκρ·αγωγέω-ῶ</b> <font color="purple">[ᾰ]</font> conduire les morts, LUC. <i>Char. 2</i>.<p><b>Étym</b>. ν. ἀγωγός.`

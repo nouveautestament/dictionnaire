@@ -1,0 +1,1 @@
+lar[104454]=`<b>ὑψηλό·πους, ους, ουν</b>, <i>gén</i>. <b>-ποδος</b>, qui a les jambes hautes, ANTYLL. (ORIB. <i>235 Matthäi).</i><p><b>Étym</b>. ὑ. πούς.`

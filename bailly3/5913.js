@@ -1,0 +1,1 @@
+lar[5913]=`<b>ἀ·μύκητος, ος, ον</b> <font color="purple">[ῡ]</font> sans mugissements (étable), <i>càd</i>. désert, ANTH. <i>9, 150</i>.<p><b>Étym</b>. ἀ, μυκάομαι.`

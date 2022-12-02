@@ -1,0 +1,1 @@
+lar[61195]=`<b>λιμο·κτονία, ας (ἡ)</b> <font color="purple">[λῑ]</font><br><b>      1</b> action d’amener la mort par une diète prolongée, PLAT. <i>Prot. 354a au pl.</i><br><b>      2</b> action de traiter par une diète complète, HPC. <i>400, 37 (ion</i>. -ίη).<p><b>Étym</b>. λ. κτείνω.`

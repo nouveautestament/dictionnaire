@@ -1,0 +1,1 @@
+lar[93472]=`<b>εως (ἡ)</b> <font color="purple">[κλῐ]</font> <i>c</i>. συγκλινίαι, PLUT. <i>Cam. 41 conj</i>.`

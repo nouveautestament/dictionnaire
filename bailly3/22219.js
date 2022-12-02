@@ -1,0 +1,1 @@
+lar[22219]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite langue, languette, DIOSC. <i>3, 151 ; 4, 90</i> ; GAL. <i>13, 238e</i>.<p><b>Étym</b>. <i>dim. de</i> γλῶσσα.`

@@ -1,0 +1,1 @@
+lar[92554]=`<b>ονος (ὁ) :<br>      1</b> chaîne de tisserand, HÉS. <i>O. 536</i> ; AR. <i>Lys. 519</i> ; PLAT. <i>Pol. 281a, 282d ; Crat. 388b</i>.<br><b>      2</b> <i>p. suite,</i> trame, BATR. <i>183, etc</i>.<p><b>Étym</b>. ἵστημι, <i>cf. lat</i>. stāmen.`

@@ -1,0 +1,1 @@
+lar[75700]=`<b>παρα·κατοικίζω</b>, faire résider qqn auprès de, <i>dat</i>. ISOCR. <i>121b ; fig</i>. PLUT. <i>Per. 11</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. ISOCR. <i>134a</i>.`

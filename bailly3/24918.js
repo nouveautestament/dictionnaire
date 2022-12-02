@@ -1,0 +1,1 @@
+lar[24918]=`<b>ατος (τὸ)</b> intervalle, PLAT. <i>Tim. 59b ;</i> ARSTT. <i>P.A. 4, 5, 39</i> ; intervalle de temps, POL. <i>1, 66, 2</i> ; ἐκ διαλειμμάτων, PLUT. <i>Per. 7</i>, à intervalles ; <i>particul. en parl. de musique,</i> ARSTT. <i>Probl. 19, 41</i>.<p><b>Étym</b>. διαλείπω.`

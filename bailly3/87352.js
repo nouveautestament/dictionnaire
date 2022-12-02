@@ -1,0 +1,1 @@
+lar[87352]=`<b>πτερυγόω-ῶ</b> <font color="purple">[ῠ]</font> donner des ailes, <i>d’où au pf. pass</i>. πεπτερυγῶσθαι πεδά (<i>éol</i>. = μετά) τινα, SAPPH. <i>fr. 33 Bgk,</i> avoir des ailes pour s’envoler vers qqn, voler vers qqn.<p><b>Étym</b>. πτέρυξ.`

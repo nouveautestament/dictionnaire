@@ -1,0 +1,1 @@
+lar[82515]=`<b>πολύ·φιλος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui a beaucoup d’amis, PD. <i>P. 5, 5</i> ; LYS. <i>112, 43, etc</i>.<p>•<i> Cp</i>. -ώτερος, LYS. <i>l. c. ; • Sup</i>. -ώτατος, ARSTT. <i>Nic. 9, 10, 1</i>.<p><b>Étym</b>. π. φίλος.`

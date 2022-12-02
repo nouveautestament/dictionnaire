@@ -1,0 +1,1 @@
+lar[23087]=`<b>ίδος (ἡ)</b> Dalis, <i>n. de f., titre d’une comédie d’Apollophanès,</i> ATH. <i>467f</i>.`

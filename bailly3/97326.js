@@ -1,0 +1,1 @@
+lar[97326]=`<b>ου (ὁ)</b> <font color="purple">[βᾱ]</font> Tabalos, <i>Perse,</i> HDT. <i>1, 153, etc</i>.`

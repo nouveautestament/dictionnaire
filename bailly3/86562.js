@@ -1,0 +1,1 @@
+lar[86562]=`<b>προσ·υποβάλλω</b>, placer en outre dessous, PLUT. <i>M. 814f</i>.`

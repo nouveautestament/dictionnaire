@@ -1,0 +1,1 @@
+lar[53732]=`<b>οῦ (ὁ)</b> raillerie, RHÉT. <i>t. 3, p. 210, 29 Speng</i>.<p><b>Étym</b>. καταχλευάζω.`

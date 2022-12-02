@@ -1,0 +1,1 @@
+lar[6228]=`<font color="purple">[λᾰ]</font> <i>adv</i>., largement, PLUT. <i>Eum. 6</i>.`

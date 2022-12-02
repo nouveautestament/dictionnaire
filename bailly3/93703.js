@@ -1,0 +1,1 @@
+lar[93703]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> décoction de figues, HPC. <i>470, 50 ; 471, 28</i>.<p><b>Étym</b>. σῦκον.`

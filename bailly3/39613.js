@@ -1,0 +1,1 @@
+lar[39613]=`<b>ἐπι·φρίσσω</b>, <i>att</i>. <b>-φρίττω :<br>      1</b> frissonner <i>ou</i> frémir à la surface, se hérisser, EMPÉD. (PLUT. <i>M. 98d</i>) ; DP. <i>443 ; en parl. de l’eau qui se ride,</i> OPP. <i>C. 1, 384</i>.<br><b>      2</b> frissonner <i>ou</i> frémir légèrement, <i>en parl. de la brise,</i> ORPH. <i>Arg. 1147</i>.`

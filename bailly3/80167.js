@@ -1,0 +1,1 @@
+lar[80167]=`<b>ων (τὰ)</b> <font color="purple">[πῑ]</font> ce qui engraisse, mets substantiel, HPC. <i>418, 26</i>.<p><b>Étym</b>. πιαίνω.`

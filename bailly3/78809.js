@@ -1,0 +1,1 @@
+lar[78809]=`<b>περί·κομψος, ος, ον</b>, très joli, très agréable, AR. <i>Pax 994</i>.<p><b>Étym</b>. π. κομψός.`

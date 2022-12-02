@@ -1,0 +1,1 @@
+lar[4371]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> vie errante, EUR. <i>Ion 576, Hel. 934</i> ; DC. <i>Exc. 34, p. 2</i>.<p>➳ <i>Dor</i>. ἀλατ- <font color="purple">[ᾰᾱ]</font> ESCHL. <i>Pr. 900</i> ; EUR. <i>Hel. 523 ; ion</i>. ἀλητείη, ORPH. <i>Arg. 101</i>.<p><b>Étym</b>. ἀλήτης.`

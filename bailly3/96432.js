@@ -1,0 +1,1 @@
+lar[96432]=`<b>συν·υποτίθεμαι</b> <font color="purple">[ῐ]</font><br><b>      1</b> se charger en même temps de, prendre en même temps pour soi, PLAT. <i>Ax. 370a.</i><br><b>      2</b> aider à composer, PLUT. <i>Cato mi. 66</i>.`

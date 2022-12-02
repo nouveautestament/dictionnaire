@@ -1,0 +1,1 @@
+lar[104509]=`<b>ὑψί·λυχνος, ος, ον</b> <font color="purple">[ῐ]</font> qui brille d’une lampe suspendue, qui brille d’en haut, PHILOX. (ATH. <i>147a</i>).<p><b>Étym</b>. ὕ. λύχνος.`

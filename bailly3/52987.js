@@ -1,0 +1,1 @@
+lar[52987]=`<b>κατα·παλαιόομαι-οῦμαι</b> <font color="purple">[πᾰ]</font> vieillir, s’invétérer, GAL. <i>12, 208</i>.`

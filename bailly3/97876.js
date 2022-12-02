@@ -1,0 +1,1 @@
+lar[97876]=`<b>ταχυ·βάδιστος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> <i>c</i>. ταχυβάμων ADAM. <i>Physiogn. 2, 42</i>.<p><b>Étym</b>. τ. βαδίζω.`

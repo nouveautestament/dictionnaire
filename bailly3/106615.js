@@ -1,0 +1,1 @@
+lar[106615]=`<b>ου</b> <font color="purple">[ῑ]</font> <i>adj. m</i>. de Phocée : Φ. στατήρ, THC. 4.52, monnaie phocéenne.<p><b>Étym</b>. Φώκαια.`

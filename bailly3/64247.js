@@ -1,0 +1,1 @@
+lar[64247]=`<b>ου (ὁ)</b> fils de Memmius, ANTH. <i>6, 86</i>.<p><b>Étym</b>. <i>patr. de</i> Μέμμιος.`

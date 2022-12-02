@@ -1,0 +1,1 @@
+lar[82839]=`<b>      1</b> procurer, offrir, <i>acc</i>. PD. <i>I. 6, 11</i>.<br><b>      2</b> s’occuper de, prendre soin de, <i>acc.</i><br><b>      3</b> <i>p. suite,</i> honorer d’un culte, honorer, <i>acc</i>. A.RH. <i>2, 719, abs</i>. PD. <i>O. 6, 54</i>.<p>➳ <i>Ao. itér</i>. πορσαίνεσκον, A.RH. <i>l. c</i>.<p><b>Étym</b>. <i>cf</i>. πορσύνω.`

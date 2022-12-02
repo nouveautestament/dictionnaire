@@ -1,0 +1,1 @@
+lar[37354]=`<b>ῆτος :<br>      1</b> <i>adj. m</i>. qu’on jette sur, ANTH. <i>7, 479</i>.<br><b>      2</b> <i>subst</i>. ὁ ἐπ. verrou, IL. <i>24, 453</i> ; LYS. (HARP. <i>p. 125, 8 Dind.) ; fig</i>. ANTH. <i>5, 242</i>.<p><b>Étym</b>. ἐπιβάλλω.`

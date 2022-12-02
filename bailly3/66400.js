@@ -1,0 +1,1 @@
+lar[66400]=`<b>α, ον</b>, de chant, <i>d’où</i> harmonieux <i>ou</i> sonore, ANTH. <i>7, 712, 7</i>.<p><b>Étym</b>. μολπή.`

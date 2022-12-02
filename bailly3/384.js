@@ -1,0 +1,1 @@
+lar[384]=`<b>ἀ·γάστωρ, ορος</b>, <i>adj. m</i>. qui est à jeun, qui jeûne, NAZ. <i>3, 1532 Migne</i>.<p><b>Étym</b>. ἀ <i>pr</i>. γαστήρ.`

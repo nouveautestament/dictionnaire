@@ -1,0 +1,1 @@
+lar[66682]=`<b>ου (τὸ)</b> monocorde, <i>instrument de musique à une seule corde,</i> JAMBL. <i>V. Pyth. 256</i>.<p><b>Étym</b>. μ. χορδή.`

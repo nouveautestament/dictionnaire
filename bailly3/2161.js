@@ -1,0 +1,1 @@
+lar[2161]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> d’Éaque, <i>d’où</i> :<br><b>      1</b> ὁ Αἰάκειος, <i>c</i>. Αἰακίδης, SOPH. <i>fr. 434</i>.<br><b>      2</b> τὰ Αἰάκεια, jeux en l’honneur d’Éaque, <i>à Égine,</i> PD. <i>O. 7, 156 ; 13, 109 ; N. 5, 78</i>.<p><b>Étym</b>. Αἴακος.`

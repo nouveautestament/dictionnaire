@@ -1,0 +1,1 @@
+lar[66614]=`<b>μονο·πωλέω-ῶ</b>, avoir le monopole de, <i>acc</i>. POL. <i>34, 10, 14</i> ; STR. <i>208</i>.<p><b>Étym</b>. μόνος, πωλέω.`

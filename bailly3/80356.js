@@ -1,0 +1,1 @@
+lar[80356]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. Πινδάρειος PLUT. <i>M. 602e</i>.`

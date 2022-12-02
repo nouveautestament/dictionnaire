@@ -1,0 +1,1 @@
+lar[92736]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en ce qui regarde l’estomac, GAL. <i>2, 21</i>.`

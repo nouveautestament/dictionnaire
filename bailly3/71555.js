@@ -1,0 +1,1 @@
+lar[71555]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> ressemblance <i>ou</i> conformité extérieure, ARSTT. <i>Soph. el. 1, 6</i>.<p><b>Étym</b>. ὁμοιοσχήμων.`

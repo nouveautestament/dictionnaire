@@ -1,0 +1,1 @@
+lar[89721]=`<b>έως (ὁ)</b> habitant de Séleucie, <i>en Mésopotamie,</i> LUC. <i>Macr. 20</i>.<p><b>Étym</b>. Σελεύκεια.`

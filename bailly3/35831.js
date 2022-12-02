@@ -1,0 +1,1 @@
+lar[35831]=`<b>ἐξ·ερευνητικός, ή, όν</b>, propre aux investigations, aux recherches approfondies, STR. <i>154</i>.<p><b>Étym</b>. ἐξερευνάω.`

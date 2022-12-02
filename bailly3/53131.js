@@ -1,0 +1,1 @@
+lar[53131]=`<b>κατά·πονος, ος, ον :<br>      1</b> fatigué, épuisé, PLUT. <i>Syll. 29</i> ; ὑπό τινος, PLUT. <i>Alc. 25,</i> par qqn.<br><b>      2</b> qui est à charge, importun, SPT. <i>3Macc. 4, 14</i>.<p><b>Étym</b>. κ. πόνος.`

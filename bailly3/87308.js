@@ -1,0 +1,1 @@
+lar[87308]=`<b>ων (οἱ)</b> les habitants de Ptériè, HDT. <i>1, 76</i>.<p><b>Étym</b>. Πτερίη.`

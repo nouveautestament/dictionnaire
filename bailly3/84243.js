@@ -1,0 +1,1 @@
+lar[84243]=`<b>προ·επιξενόω-ῶ</b>, donner depuis longtemps l’hospitalité à qqn, LUC. <i>Bis acc. 7</i>.`

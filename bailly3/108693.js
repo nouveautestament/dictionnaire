@@ -1,0 +1,1 @@
+lar[108693]=`<b>χοιρό·κτονος, ος, ον</b>, qui concerne un cochon tué <i>ou</i> offert en sacrifice, ESCHL. <i>Eum. 283, etc</i>.<p><b>Étym</b>. χ. κτείνω.`

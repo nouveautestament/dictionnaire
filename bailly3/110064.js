@@ -1,0 +1,1 @@
+lar[110064]=`<b>ά, όν</b>, dont la surface est inégale <i>ou</i> raboteuse, LYSIM. (JOS. <i>c. Ap. 1, 34</i>) ; DIOSC. <i>5, 139</i>.<p><b>Étym</b>. ψάω.`

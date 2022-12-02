@@ -1,0 +1,1 @@
+lar[44490]=`<b>ιδος</b>, <i>acc</i>. <b>ῐν (ὁ)</b> Zeuxis, <i>peintre célèbre</i>, PLAT. <i>Gorg. 453c, etc</i>.`

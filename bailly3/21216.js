@@ -1,0 +1,1 @@
+lar[21216]=`<b>γαλακτό·χροα</b>, <i>plur. neutre d’un adj. inus</i>. DIOSC. <i>3, 54, et masc</i>. γαλακτόχροες, OPP. <i>C. 3, 478 (le mètre exigerait</i> γαλατόχρ. <i>ou</i> γλακτόχρ.), <i>c</i>. γαλακτόχρως.<p><b>Étym</b>. γάλα, χρόα.`

@@ -1,0 +1,1 @@
+lar[41857]=`<b>ου</b>, <i>adj. m</i>. qui donne le repos, SOPHR. (ATH. <i>324e</i>).<p><b>Étym</b>. εὐδία.`

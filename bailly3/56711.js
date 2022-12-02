@@ -1,0 +1,1 @@
+lar[56711]=`<b>κολουρο·πυραμίς, ίδος (ἡ)</b> <font color="purple">[ῡᾰῐδ]</font> pyramide tronquée, THÉON SM. <i>42, 4</i>.<p><b>Étym</b>. κόλουρος, πυραμίς.`

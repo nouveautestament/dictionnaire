@@ -1,0 +1,1 @@
+lar[83818]=`<b>ου (τὸ)</b> épieu de chasse, XÉN. <i>Cyn. 10, 1</i> ; PHILSTR. <i>765, 805 ; fig</i>. HYPÉR. (HARP.).<p><b>Étym</b>. πρόβολος.`

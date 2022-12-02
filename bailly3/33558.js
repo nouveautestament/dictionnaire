@@ -1,0 +1,1 @@
+lar[33558]=`<b>ἔμ·πολις, εως (ὁ, ἡ)</b> habitant, habitante d’une cité, SOPH. <i>O.C. 1156</i>.<p><b>Étym</b>. ἐν, π.`

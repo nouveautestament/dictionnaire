@@ -1,0 +1,1 @@
+lar[109970]=`<b>ψυχο·δοτήρ, ῆρος (ὁ)</b> <font color="purple">[ῡ]</font> qui donne l’âme <i>ou</i> la vie, ANTH. <i>9, 525, 24</i>.<p><b>Étym</b>. ψ. δοτήρ.`

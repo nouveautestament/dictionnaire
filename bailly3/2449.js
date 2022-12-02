@@ -1,0 +1,1 @@
+lar[2449]=`<b>έρος (ὁ)</b> Æther :<br><b>      1</b> <i>fils d’Érèbe et de la Nuit,</i> HÉS. <i>Th. 124</i>.<br><b>      2</b> <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

@@ -1,0 +1,1 @@
+lar[70645]=`<b>οἰο·πέδη, ης (ἡ)</b> bande de laine pour un pied malade, ANTH. <i>7, 401</i>.<p><b>Étym</b>. οἶς, πέδη.`

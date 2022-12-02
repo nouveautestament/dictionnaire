@@ -1,0 +1,1 @@
+lar[27165]=`<b>δί·φυιος, ος, ον</b> <font color="purple">[δῐ]</font><br><b>      1</b> de double nature, ANTAGOR. (DL. <i>4, 27</i>).<br><b>      2</b> <i>au plur</i>. deux, ESCHL. <i>Ag. 1468</i>.<p><b>Étym</b>. διφυής.`

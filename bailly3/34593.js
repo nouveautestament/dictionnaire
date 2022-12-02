@@ -1,0 +1,1 @@
+lar[34593]=`<i>adv</i>., d’une façon une, PROCL. <i>Plat. Parm. 589, 634, 663 Stallb</i>.`

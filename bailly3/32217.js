@@ -1,0 +1,1 @@
+lar[32217]=`<b>ἐκτραπελο·γάστωρ</b>, <i>gén</i>. <b>ορος (ὁ, ἡ)</b> <font color="purple">[ρᾰ]</font> au ventre énorme, EPICH. (ATH. <i>327f</i>).<p><b>Étym</b>. ἐ. γαστήρ.`

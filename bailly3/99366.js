@@ -1,0 +1,1 @@
+lar[99366]=`<b>ας (ἡ)</b> allaitement, <i>d’où</i> soins à un enfant, DÉM. <i>1312, 2</i>.<p><b>Étym</b>. τιτθεύω.`

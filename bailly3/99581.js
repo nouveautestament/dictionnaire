@@ -1,0 +1,1 @@
+lar[99581]=`<b>ή, όν</b>, qui peut tendre, donner de la fermeté <i>ou</i> de la force, ANTYLL. <i>124, 4 ; 126, 8</i>.<p>•<i> Cp</i>. -ώτερος, A. TR. <i>7, p. 128</i>.<p><b>Étym</b>. τονόω.`

@@ -1,0 +1,1 @@
+lar[105204]=`<b>φεύγ·υδρος, ος, ον</b> <font color="purple">[ῠ]</font> qui fuit l’eau, hydrophobe, POL. (C. AUR. <i>M. Ac. 3, 9).</i><p><b>Étym</b>. φεύγω, ὕδωρ.`

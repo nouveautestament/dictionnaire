@@ -1,0 +1,1 @@
+lar[55554]=`<b>ου (ἡ)</b> Kios (<i>auj</i>. Gemlik, <i>anc</i>. Kíos) <i>v. de Bithynie,</i> HDT. <i>5, 122</i> ; XÉN. <i>Hell. 1, 4, 7</i> ; A.RH. <i>1, 1178</i>.`

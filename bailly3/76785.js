@@ -1,0 +1,1 @@
+lar[76785]=`<b>παρ·ερπύζω</b> <font color="darkgreen">(<i>ao</i>. παρείρπυσα)</font> se glisser de côté <i>ou</i> furtivement, AR. <i>Eccl. 511</i>.`

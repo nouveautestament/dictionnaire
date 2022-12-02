@@ -1,0 +1,1 @@
+lar[30828]=`<b>εως (ἡ)</b> installation, habitation, SOPH. <i>Ph. 534</i>.<p><b>Étym</b>. εἰσοικέω.`

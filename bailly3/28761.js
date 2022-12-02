@@ -1,0 +1,1 @@
+lar[28761]=`<b>δυσ·παραδέκτως</b>, <i>adv</i>., en admettant difficilement, POL. <i>12, 4, 7</i>.`

@@ -1,0 +1,1 @@
+lar[78791]=`<b>περί·κλυσμα, ατος (τὸ)</b> eau pour arroser <i>ou</i> baigner, GAL. <i>Lex. Hipp. 19, 130</i>.<p><b>Étym</b>. περικλύζω.`

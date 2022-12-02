@@ -1,0 +1,1 @@
+lar[54202]=`retenir fortement, OPP. <i>H. 5, 226</i>.`

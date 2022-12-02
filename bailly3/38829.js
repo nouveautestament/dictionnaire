@@ -1,0 +1,1 @@
+lar[38829]=`<b>ἐπι·πταίρω</b> <font color="darkgreen">(<i>ao.2</i> ἐπέπταρον) :</font><br><b>      1</b> éternuer après : πᾶσιν ἔπεσσιν, OD. <i>17, 545,</i> éternuer à tous les mots (<i>ce qui était un signe de bon augure</i>).<br><b>      2</b> <i>p. suite, en parl. des dieux,</i> être favorable à : τινί, THCR. <i>Idyl. 7, 96,</i> à qqn.`

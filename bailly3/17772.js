@@ -1,0 +1,1 @@
+lar[17772]=`<b>(ὁ)</b> Autokharidas, <i>Lacédémonien,</i> THC.`

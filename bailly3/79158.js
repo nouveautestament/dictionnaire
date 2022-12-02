@@ -1,0 +1,1 @@
+lar[79158]=`<b>περιπόλ·αρχος</b>, <i>mieux que</i> <b>περιπολ·άρχης, ου (ὁ)</b> chef de patrouille, THC. <i>8, 92</i>.<p>➳ <i>Dans une inscr. att</i>. περιπόλαρχος (<i>4<sup>e</sup> siècle av. J.-C.) v. Meisterh. p. 97, § 47</i>.<p><b>Étym</b>. περίπολος, ἄρχω.`

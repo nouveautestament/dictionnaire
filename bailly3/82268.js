@@ -1,0 +1,1 @@
+lar[82268]=`<b>πολύ·πνοος-ους, οος-ους, οον-ουν</b>, qui exhale une odeur forte, OPP. <i>C. 1, 461</i>.<p><b>Étym</b>. π. πνέω.`

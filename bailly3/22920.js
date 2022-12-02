@@ -1,0 +1,1 @@
+lar[22920]=`<b>δᾳδοφορέω-ῶ :<br>      1</b> porter une torche <i>ou</i> des torches, LUC. <i>Per. 36 (3 sg. impf</i>. ἐδᾳδοφόρει).<br><b>      2</b> produire de la résine, TH. <i>H.P. 9, 2, 8</i>.<p><b>Étym</b>. δᾳδοφόρος.`

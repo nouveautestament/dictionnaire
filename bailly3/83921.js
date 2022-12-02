@@ -1,0 +1,1 @@
+lar[83921]=`<b>προ·διακινέω-ῶ</b> <font color="purple">[κῑ]</font> agiter auparavant, JOS. <i>A.J. 15, 5, 2</i>.`

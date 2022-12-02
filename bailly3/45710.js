@@ -1,0 +1,1 @@
+lar[45710]=`<b>ας (ἡ)</b> <font color="purple">[ᾰν]</font> insuffisance, ANTH. <i>5, 239 ; 9, 521 conj</i>.`

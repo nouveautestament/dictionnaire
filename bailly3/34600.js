@@ -1,0 +1,1 @@
+lar[34600]=`<b>ἐνιαυτο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> qui paraît chaque année, PTOL. <i>Appar. 6, p. 9, l. 18</i>.<p><b>Étym</b>. ἐνιαυτός, φαίνω.`

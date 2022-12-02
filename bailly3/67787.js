@@ -1,0 +1,1 @@
+lar[67787]=`<b>ναυσί·δρομος, ος, ον</b>, qui favorise la course des navires, ORPH. <i>H. 73, 10</i>.<p><b>Étym</b>. ν. δραμεῖν.`

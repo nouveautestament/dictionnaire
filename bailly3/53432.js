@@ -1,0 +1,1 @@
+lar[53432]=`<font color="purple">[στᾰ]</font> <i>adv</i>., de façon à remettre en état, à contenir, APSIN.<p><b>Étym</b>. <i>Rhet. gr. t. 1, p. 348, etc. Speng</i>.`

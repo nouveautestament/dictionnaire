@@ -1,0 +1,1 @@
+lar[16662]=`<i>adv.</i> :<br><b>      1</b> en désordre, <i>en parl. de troupes,</i> THC. <i>2, 91 ; 3, 108, etc.</i><br><b>      2</b> d’une façon irrégulière, HPC. <i>945e</i>.<p>•<i> Cp</i>. -ότερον, THC. <i>6, 97</i> ; ISOCR. <i>9a, etc. ; ou</i> -οτέρως, D. PHAL. <i>c. 53</i>.`

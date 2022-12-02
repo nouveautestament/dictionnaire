@@ -1,0 +1,1 @@
+lar[83752]=`<b>*προ·βάκχειος</b>, <i>ion</i>. <b>προ·βακχήϊος, ου (ὁ)</b> qui préside aux Bacchanales, EUR. <i>Bacch. 411</i>.`

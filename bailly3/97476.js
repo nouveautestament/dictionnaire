@@ -1,0 +1,1 @@
+lar[97476]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> répartition, distribution, EL. <i>V.H. 2, 5</i>.<p><b>Étym</b>. ταμιεύω.`

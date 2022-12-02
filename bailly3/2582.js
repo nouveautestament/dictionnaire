@@ -1,0 +1,1 @@
+lar[2582]=`<b>αἱμο·λάπτις, ιδος</b>, <i>adj. f</i>. qui lèche du sang, NAZ. <i>3, 655 Migne</i>.<p><b>Étym</b>. αἷ. λάπτω.`

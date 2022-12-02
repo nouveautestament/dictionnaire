@@ -1,0 +1,1 @@
+lar[61983]=`<b>λυρο·γηθής, ής, ές</b> <font color="purple">[ῠ]</font> qui aime la lyre, ANTH. <i>9, 525, 12</i>.<p><b>Étym</b>. λύρα, γηθέω.`

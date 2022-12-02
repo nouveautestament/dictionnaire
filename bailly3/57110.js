@@ -1,0 +1,1 @@
+lar[57110]=`<b>ων (τὰ)</b> Korontes, <i>v. d’Acarnanie,</i> THC. <i>2, 102</i>.`

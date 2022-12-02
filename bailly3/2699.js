@@ -1,0 +1,1 @@
+lar[2699]=`<b>αἰνο·μανής, ής, ές</b> <font color="purple">[ᾰ]</font> saisi d’une fureur terrible, NONN. <i>D. 20, 152</i>.<p><b>Étym</b>. αἰν. μαίνομαι.`

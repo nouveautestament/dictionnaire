@@ -1,0 +1,1 @@
+lar[14628]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> archet de manœuvre d’une tarière <i>ou</i> d’un trépan, <i>càd</i>. archet à main dont la corde s’enroulait, au milieu de sa longueur, autour de la tige d’une mèche <i>ou</i> foret qui fonctionnait par le va-et-vient de l’archet, CALLIAS (POLL. <i>7, 113</i>) ; ANTH. <i>6, 103, etc</i>.<p><b>Étym</b>. <i>inconnue</i>.`

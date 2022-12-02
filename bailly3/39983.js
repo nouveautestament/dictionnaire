@@ -1,0 +1,1 @@
+lar[39983]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> sept centième, DL. <i>1, 24</i> ; CLÉOM. <i>58, 27</i>.<p><b>Étym</b>. ἑπτακόσιοι.`

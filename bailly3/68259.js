@@ -1,0 +1,1 @@
+lar[68259]=`<b>νεο·στράτευτος, ος, ον</b> <font color="purple">[ᾰ]</font> qui fait sa première campagne, conscrit, APP. <i>Civ. 2, 74</i>.<p><b>Étym</b>. ν. στρατεύω.`

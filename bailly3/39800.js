@@ -1,0 +1,1 @@
+lar[39800]=`<b>ἐπ·οικέω-ῶ :<br>      1</b> s’établir comme colon : ἐν τῇ Ἀσίᾳ, XÉN. <i>Cyr. 6, 2, 10,</i> en Asie ; <i>abs</i>. PLAT. <i>Leg. 752e ; d’où avec un acc.</i> : χώραν, EUR. <i>Ion 1583</i> ; STR. <i>410, etc</i>. coloniser un pays.<br><b>      2</b> occuper un lieu pour en faire une base d’opérations contre le pays d’alentour, THC. <i>6, 86 ; 7, 27</i>.`

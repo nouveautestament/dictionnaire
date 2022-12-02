@@ -1,0 +1,1 @@
+lar[52381]=`<b>κατα·ζωγραφέω-ῶ</b> <font color="purple">[ᾰφ]</font> peindre, dessiner, EUM. <i>4, 8</i>.<p><b>Étym</b>. κ. ζωγραφέω.`

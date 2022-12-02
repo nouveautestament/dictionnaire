@@ -1,0 +1,1 @@
+lar[68587]=`<b>νη·ποινεί</b>, <i>adv</i>., impunément, PLAT. <i>Leg. 874c ;</i> DÉM. <i>639, 64</i>.<p>➳ <i>Dans une inscription d’Amphipolis</i> νηποινεί (<i>non</i> νηποινί), <i>v. Meisterh. p. 116, note 1054</i>.<p><b>Étym</b>. νήποινος.`

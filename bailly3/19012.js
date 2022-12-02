@@ -1,0 +1,1 @@
+lar[19012]=`<b>βαμβακο·ειδής, ής, ές</b> <font color="purple">[ᾰκ]</font> semblable à du coton, DIOSC. <i>3, 18</i>.<p><b>Étym</b>. *βάμβαξ, εἶδος.`

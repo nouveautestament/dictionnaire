@@ -1,0 +1,1 @@
+lar[22935]=`<b>έρος (ὁ)</b> <font color="purple">[ᾱ]</font> beau-frère, frère du mari, IL. <i>3, 180</i>.<p>➳ <i>Voc</i>. δᾶερ, IL. <i>6, 344, 355 ; gén. pl. dissyll</i>. δαέρων, IL. <i>24, 769</i>.<p><b>Étym</b>. <i>p</i>. *δαϝήρ = <i>lat</i>. lēvir, <i>sscr</i>. dêvaras.`

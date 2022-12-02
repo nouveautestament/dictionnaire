@@ -1,0 +1,1 @@
+lar[92849]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en soldat, ISOCR. <i>248e ; en mauv. part, càd</i>. brutalement, POL. <i>22, 21, 6</i>.<p>•<i> Cp</i>. στρατιωτικώτερον, THC. <i>2, 83</i>.`

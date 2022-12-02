@@ -1,0 +1,1 @@
+lar[53633]=`<b>εως (ἡ) :<br>      1</b> action de fuir, fuite, THC. <i>7, 41</i>.<br><b>      2</b> place de refuge, THC. <i>7, 38</i>.<p><b>Étym</b>. καταφεύγω.`

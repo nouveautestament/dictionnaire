@@ -1,0 +1,1 @@
+lar[77753]=`<b>ου (ὁ)</b> excrément, AR. <i>Ach. 1169, Eccl. 595</i>.`

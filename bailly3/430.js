@@ -1,0 +1,1 @@
+lar[430]=`<b>ἀγγελο·ειδής, ής, ές</b>, semblable aux anges, CHRYS. <i>7, 551, etc</i>.<p><b>Étym</b>. ἄγγελος, εἶδος.`

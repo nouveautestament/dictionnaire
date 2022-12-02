@@ -1,0 +1,1 @@
+lar[55107]=`<b>κεφαλο·τρύπανον, ου (τὸ)</b> <font color="purple">[ᾰῡᾰ]</font> trépan, <i>instr. de chirurgie,</i> GAL. <i>2, 399</i>.<p><b>Étym</b>. κεφαλή, τρύπανον.`

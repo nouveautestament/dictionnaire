@@ -1,0 +1,1 @@
+lar[48367]=`<b>ή, όν</b> <font color="purple">[ῐᾰ]</font> qu’on ne voit que par l’intelligence, idéal, T. LOCR. <i>97d</i>.<p><b>Étym</b>. ἰδανός.`

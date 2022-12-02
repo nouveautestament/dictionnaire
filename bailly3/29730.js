@@ -1,0 +1,1 @@
+lar[29730]=`<b>ἐγκοτέω-ῶ</b>, être profondément irrité contre, <i>dat</i>. ESCHL. <i>Ch. 41</i> ; SOPH. <i>fr. 871</i> ; SPT. <i>Ps. 54, 4 (impf</i>. ἐνεκότουν).<p><b>Étym</b>. ἔγκοτος.`

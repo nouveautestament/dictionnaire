@@ -1,0 +1,1 @@
+lar[101760]=`<b>ὑλο·φορβός, ός, όν</b> <font color="purple">[ῡ]</font> qui paît dans les forêts, EUR. <i>I.T. 261</i>.<p><b>Étym</b>. ὕ. φέρβω.`

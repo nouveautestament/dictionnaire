@@ -1,0 +1,1 @@
+lar[34245]=`<b>ή, όν</b>, <i>litt</i>. qui s’offre <i>ou</i> qui se laisse aller, <i>d’où</i> complaisant, RUF. (ORIB. <i>2, 257, 1 B.-Dar</i>.) ; ARISTÉN. <i>1, 4</i>.<p><b>Étym</b>. ἐνδίδωμι.`

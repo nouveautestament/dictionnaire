@@ -1,0 +1,1 @@
+lar[11437]=`<b>ἀπ·ασχολέω-ῶ :<br>      1</b> ne laisser aucun loisir, tenir occupé, LUC. <i>Philops. 14</i> ; HLD. <i>2, 21</i> ; τινα περί τι, HDN <i>1, 5, 1,</i> tenir qqn occupé à qqe ch. ; <i>au pass</i>. être tout occupé : περί τινα, LUC. <i>Char. 19,</i> auprès de qqn.<br><b>      2</b> occuper ailleurs, détourner : βέλη, HDN <i>7, 2, 11,</i> détourner des traits sur soi.`

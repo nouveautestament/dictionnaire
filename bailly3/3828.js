@@ -1,0 +1,1 @@
+lar[3828]=`<b>ας (ἡ)</b> prépuce, ARSTT. <i>H.A. 1, 13, 3</i>.<p>➳ <i>Ion</i>. -ίη, HPC. <i>Aph. 1257</i>.<p><b>Étym</b>. ἄ. πόσθη.`

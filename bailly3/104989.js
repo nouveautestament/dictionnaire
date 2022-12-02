@@ -1,0 +1,1 @@
+lar[104989]=`<b>ης, ες</b> <font color="purple">[μᾰ]</font> qui ressemble à un fantôme, EUM. <i>11, 4</i>.<p><b>Étym</b>. φάσμα, -ωδης.`

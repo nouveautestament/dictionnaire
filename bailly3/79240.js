@@ -1,0 +1,1 @@
+lar[79240]=`<b>εως (ἡ) :<br>      1</b> excroissance <i>ou</i> bourrelet de chair, OLYMPIOD.<br><b>      2</b> cicatrisation, ORIB. <i>90 Cocch</i>.<p><b>Étym</b>. *περισαρκόω <i>de</i> περίσαρκος.`

@@ -1,0 +1,1 @@
+lar[42479]=`<b>ου (ὁ)</b> autre nom du pain πιτυρίτης, AMÉR. <i>et</i> TIMACH. (ATH. <i>114e</i>).`

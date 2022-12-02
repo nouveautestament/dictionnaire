@@ -1,0 +1,1 @@
+lar[52848]=`<b>κατα·μίσγω</b> (<i>seul. prés</i>.) mêler, mélanger, STR. <i>20</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NIC. <i>Al. 353 ; au sens réfléchi,</i> HH. <i>18, 26</i>.`

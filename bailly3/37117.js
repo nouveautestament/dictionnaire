@@ -1,0 +1,1 @@
+lar[37117]=`<b>ἐπ·εξελαύνω</b> (<i>prés</i>.) faire avancer contre, <i>en parl. d’une troupe de cavalerie,</i> XÉN. <i>Hell. 5, 3, 6</i>.`

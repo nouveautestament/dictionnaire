@@ -1,0 +1,1 @@
+lar[5181]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. ἄμαλλα, SEMUS (ATH. <i>618d</i>) ; PHILSTR. <i>Im. 10, p. 879</i>.`

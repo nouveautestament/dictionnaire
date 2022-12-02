@@ -1,0 +1,1 @@
+lar[51278]=`<b>ατος (τὸ)</b> embellissement, ornement, PROCL. <i>Plat. Parm. p. 863 Stallb</i>.<p><b>Étym</b>. *καλλόω <i>de</i> κάλλος.`

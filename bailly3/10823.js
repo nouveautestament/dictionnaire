@@ -1,0 +1,1 @@
+lar[10823]=`<b>ἄν·ῳδος, ος, ον</b>, qui ne chante pas, ARSTT. <i>H.A. 1, 1, 29</i>.<p><b>Étym</b>. ἀν-, ᾠδή.`

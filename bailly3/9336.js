@@ -1,0 +1,1 @@
+lar[9336]=`<b>ός, όν</b>, sacrilège, scélérat, PLAT. <i>Ep. 352c ;</i> ARSTT. <i>Nic. 9, 4, 7, etc</i>.<p><b>Étym</b>. ἀνόσιος, ἔργον.`

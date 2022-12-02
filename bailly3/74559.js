@@ -1,0 +1,1 @@
+lar[74559]=`<b>παλιν·αίρετος, ος, ον</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> réélu, EUP. <i>2-1, 448 Meineke</i> ARCHIPP. (<i>Com. fr. 2, 720</i>).<br><b>      2</b> rebâti, restauré, PD. <i>fr. 54</i> ; PLAT. <i>Tim. 82e</i>.<p><b>Étym</b>. π. αἱρέω.`

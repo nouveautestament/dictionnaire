@@ -1,0 +1,1 @@
+lar[61421]=`<b>ου (τὸ)</b> = <i>lat</i>. Liternum, <i>v. de Campanie,</i> APP. <i>Civ. 1, 42</i>.`

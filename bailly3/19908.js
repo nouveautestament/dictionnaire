@@ -1,0 +1,1 @@
+lar[19908]=`<b>ου (ὁ)</b> Blépæos, <i>h</i>. ALEX. (ATH. <i>241c</i>) ; DÉM. <i>etc</i>.`

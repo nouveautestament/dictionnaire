@@ -1,0 +1,1 @@
+lar[32600]=`<b>ας (ἡ)</b> Éléa (Élée) = <i>lat</i>. Velia (<i>auj</i>. Ascea) <i>v. de Lucanie,</i> PLAT. <i>Soph. 216a ;</i> PLUT. <i>Æmil. 39, Brut. 23, etc</i>.`

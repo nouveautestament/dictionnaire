@@ -1,0 +1,1 @@
+lar[19526]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> semblable à une toupie, ATH. <i>496a</i>.<p><b>Étym</b>. βέμβιξ, -ωδης.`

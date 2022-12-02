@@ -1,0 +1,1 @@
+lar[63964]=`<b>ά, όν :<br>      1</b> qui aime l’exercice <i>ou</i> l’étude, XÉN. <i>An. 1, 9, 5</i>.<br><b>      2</b> μ. συνουσίαι, PHILSTR. <i>527,</i> sociétés où l’on s’exerce.<p>•<i> Sup</i>. -ότατος, XÉN. <i>l. c</i>.<p><b>Étym</b>. μελετάω.`

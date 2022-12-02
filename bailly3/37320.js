@@ -1,0 +1,1 @@
+lar[37320]=`<b>ἐπι·βάσκω</b> (<i>seul. inf. épq</i>. ἐπιβασκέμεν) plonger dans, <i>gén</i>. IL. <i>2, 234</i>.`

@@ -1,0 +1,1 @@
+lar[84978]=`<b>οῦ (ὁ)</b> progression, <i>t. de math. et d’astronomie,</i> NICOM. <i>Arithm. 1, 5</i>.<p><b>Étym</b>. προποδίζω.`

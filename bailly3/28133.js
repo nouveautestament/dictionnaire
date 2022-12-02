@@ -1,0 +1,1 @@
+lar[28133]=`<b>δυσ·άγνος, ος, ον</b> <font color="purple">[ῠ]</font> impur, souillé, ESCHL. <i>Suppl. 751</i> ; LUC. <i>Pseud. 54</i>.<p><b>Étym</b>. δ. ἁγνός.`

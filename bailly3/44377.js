@@ -1,0 +1,1 @@
+lar[44377]=`<b>ζά·δηλος, ος, ον</b>, déchiré, <i>p.-ê</i>. transparent, troué, ALC. <i>18, 7 dout</i>.<p><b>Étym</b>. ζα-, δῆλος, <i>cf</i>. διάδηλος.`

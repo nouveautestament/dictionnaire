@@ -1,0 +1,1 @@
+lar[35274]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> hexagonal, P. ALEX. <i>Apot. 10, p. 24, l. 13 Boer</i>.<p><b>Étym</b>. ἑξάγωνος.`

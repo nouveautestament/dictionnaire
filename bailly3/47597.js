@@ -1,0 +1,1 @@
+lar[47597]=`<b>ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> Thrasymèlidas, <i>Spartiate,</i> THC. <i>4, 11</i>.<p><b>Étym</b>. <i>patr. de</i> Θρασύμηλος.`

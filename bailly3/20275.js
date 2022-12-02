@@ -1,0 +1,1 @@
+lar[20275]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>   I</b> petite boucle de cheveux, ANTH. <i>11, 66</i>.<br><b>   II</b> <i>p. anal.</i> :<br><b>      1</b> vrillon <i>ou</i> surgeon de vigne, ARSTT. <i>H.A. 5, 18, 1</i>.<br><b>      2</b> œuf de poulpe, strié de raies imitant des festons, ARSTT. <i>H.A. 5, 12, 2</i>.<p><b>Étym</b>. βόστρυχος.`

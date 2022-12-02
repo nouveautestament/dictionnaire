@@ -1,0 +1,1 @@
+lar[19501]=`<b>ης (ἡ)</b> pointe, <i>part.</i> :<br><b>      1</b> aiguille, BATR. <i>130</i> ; EUP. (POLL. <i>10, 136</i>) ; ESCHN. ARSTT. <i>etc.</i><br><b>      2</b> <i>p. anal</i>. aiguille de mer, DORION (ATH. <i>319c</i>) ; ARSTT. <i>H.A. 5, 11, 2</i>.<p><b>Étym</b>. <i>obscure</i>.`

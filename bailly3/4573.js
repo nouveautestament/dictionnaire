@@ -1,0 +1,1 @@
+lar[4573]=`<b>ἁλι·τέρμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰῐ]</font> borné par la mer, ANTH. <i>9, 672</i>.<p><b>Étym</b>. ἅ. τέρμα.`

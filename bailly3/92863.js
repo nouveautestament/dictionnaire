@@ -1,0 +1,1 @@
+lar[92863]=`<b>ων (τὰ)</b> <font color="purple">[ᾰτ]</font> les Camps, <i>région près de la bouche Pélusienne du Nil,</i> HDT. <i>2, 154</i>.<p><b>Étym</b>. <i>plur. de</i> στρατόπεδον.`

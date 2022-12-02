@@ -1,0 +1,1 @@
+lar[9232]=`<b>α, ον</b>, <i>vb. de</i> ἀναφέρω, SOPH. <i>Ant. 272</i> ; EUR. <i>H.f. 1221</i> ; PLUT. <i>Phoc. 5, etc</i>.`

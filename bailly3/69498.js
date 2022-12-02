@@ -1,0 +1,1 @@
+lar[69498]=`<b>Ξενό·φαντος, ου (ὁ)</b> Xénophantos, <i>h</i>. AR. <i>Nub. 349</i> ; ARSTT. <i>Nic. 7, 8</i>.<p><b>Étym</b>. ξ. φαίνω.`

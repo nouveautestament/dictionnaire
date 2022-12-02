@@ -1,0 +1,1 @@
+lar[101041]=`<b>όεσσα, όεν</b> <font color="purple">[ᾰ]</font> <i>c</i>. τυμπανίας, NIC. <i>Al. 342</i>.`

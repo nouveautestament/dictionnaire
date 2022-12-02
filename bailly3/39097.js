@@ -1,0 +1,1 @@
+lar[39097]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> charge <i>ou</i> fonction d’épistate, surveillance, JAMBL. <i>V. Pyth. § 174</i>.<p><b>Étym</b>. ἐπιστάτης.`

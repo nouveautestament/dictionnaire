@@ -1,0 +1,1 @@
+lar[95807]=`<b>ων (τὰ)</b> union sexuelle, EUTECN. <i>Metaphr. Opp. p. 13</i>.<p><b>Étym</b>. συνευνάζω.`

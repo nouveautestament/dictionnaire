@@ -1,0 +1,1 @@
+lar[36990]=`<b>ἐπ·εισκρίνομαι</b> <font color="purple">[ῑν]</font> se séparer et s’insinuer dans, HPC. <i>380, 49</i> ; SEXT. <i>P. 3, 82 ; avec l’acc</i>. NYSS. <i>1, 126</i>.`

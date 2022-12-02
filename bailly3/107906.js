@@ -1,0 +1,1 @@
+lar[107906]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰ]</font> bonne grâce, bon ton, grâce <i>ou</i> esprit, PLUT. <i>M. 441b</i>.<p><b>Étym</b>. χαρίεις.`

@@ -1,0 +1,1 @@
+lar[95052]=`<b>συν·δακρύω :<br>      1 <i>intr.</i></b> pleurer avec <i>ou</i> en même temps, EUR. <i>I.A. 1242</i> ; PLUT. <i>M. 599b ;</i> CLÉARQ. (ATH. <i>619d</i>).<br><b>      2 <i>tr.</i></b> déplorer avec <i>ou</i> en même temps, PLUT. <i>Luc. 29</i>.`

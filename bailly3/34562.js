@@ -1,0 +1,1 @@
+lar[34562]=`<b>ἐν·θρονίζω :<br>      1</b> placer sur un trône, DS. <i>Exc. 595, 97 ; au pass</i>. siéger sur un trône, SPT. <i>4Macc. 2, 22</i>.<br><b>      2</b> <i>t. eccl</i>. introniser (un évêque) NAZ. <i>3, 1247 Migne</i>.<p><b>Étym</b>. ἐν, θρόνος.`

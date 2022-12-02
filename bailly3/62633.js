@@ -1,0 +1,1 @@
+lar[62633]=`<b>μαλακό·κισσος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> grand liseron <i>appelé aussi</i> σμῖλαξ λεία, GEOP. <i>2, 6, 31</i>.<p><b>Étym</b>. μ. κισσός.`

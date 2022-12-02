@@ -1,0 +1,1 @@
+lar[95970]=`<b>συν·θολόω</b>, <i>ion. et anc. att</i>. <b>ξυν·θολόω-ῶ</b>, rendre tout à fait trouble, RHÉT. <i>1, 425 W. ; fig</i>. LIB. <i>1, 619</i>.`

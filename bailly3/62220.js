@@ -1,0 +1,1 @@
+lar[62220]=`(<i>nombre et genre inconnus</i>) Magdala, <i>château fort au delà du Jourdain,</i> NT. <i>Matth. 15, 39</i>.`

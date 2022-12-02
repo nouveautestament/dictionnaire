@@ -1,0 +1,1 @@
+lar[110169]=`<b>ὠκυ·δίδακτος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui apprend vite, ANTH. <i>9, 562</i>.<p><b>Étym</b>. ὠ. διδάσκω.`

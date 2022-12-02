@@ -1,0 +1,1 @@
+lar[11467]=`<b>εως (ἡ)</b> abattement, AGATHIN. (ORIB. <i>2, 396 B.-Dar</i>.).<p><b>Étym</b>. ἀπαυδάω.`

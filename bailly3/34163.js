@@ -1,0 +1,1 @@
+lar[34163]=`<font color="purple">[ῐ]</font> faire la sieste (en plein air) PLUT. <i>Rom. 4, M. 726e</i>.<p><b>Étym</b>. ἔνδιος.`

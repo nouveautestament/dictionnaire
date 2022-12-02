@@ -1,0 +1,1 @@
+lar[75136]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰν]</font><br><b>      1</b> <i>c</i>. πανούργημα, SPT. <i>Sir. 1, 6 ; Judith 11, 8, etc.</i><br><b>      2</b> <i>en b. part,</i> sagesse, SPT. <i>Sir. 42, 18</i>.<p><b>Étym</b>. πανουργεύομαι.`

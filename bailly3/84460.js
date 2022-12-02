@@ -1,0 +1,1 @@
+lar[84460]=`<b>προ·καταίρω</b>, aborder auparavant, PHILSTR. <i>Her. 10, 4</i>.`

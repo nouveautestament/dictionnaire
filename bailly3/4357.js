@@ -1,0 +1,1 @@
+lar[4357]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> course errante, DP. <i>716</i> ; MAN. <i>4, 34 ; au pl</i>. A.RH. <i>2, 1264</i>.<p><b>Étym</b>. ἀλήμων.`

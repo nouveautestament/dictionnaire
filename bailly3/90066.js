@@ -1,0 +1,1 @@
+lar[90066]=`<i>ion</i>. <b>σιελισμός, οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> salivation, ARCHIG. (ORIB. <i>2, 156 B.-Dar</i>.) ; RUF. (ORIG. <i>2, 222 Migne).</i><p><b>Étym</b>. σιαλίζω.`

@@ -1,0 +1,1 @@
+lar[53651]=`<b>κατά·φλεξις, εως (ἡ)</b> action de faire brûler, LUC. <i>Salt. 39</i>.<p><b>Étym</b>. καταφλέγω.`

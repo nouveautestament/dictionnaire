@@ -1,0 +1,1 @@
+lar[81652]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> de beaucoup de manières, ISOCR. <i>42c ;</i> DÉM. <i>601, 9, etc.</i><br><b>      2</b> en beaucoup de sens, ARSTT. <i>Pol. 3, 3, 4, etc</i>.<p><b>Étym</b>. *πολλαχός.`

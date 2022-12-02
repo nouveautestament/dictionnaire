@@ -1,0 +1,1 @@
+lar[26612]=`<b>δι·κύμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῐῡ]</font>, battu de deux côtés par les vagues, SIB. <i>5, 32 ; 10, 84</i>.<p><b>Étym</b>. δίς, κῦμα.`

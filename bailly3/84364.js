@@ -1,0 +1,1 @@
+lar[84364]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> offrande avant le sacrifice, cérémonie préliminaire d’un sacrifice, AR. <i>Pl. 660 ; fig</i>. EUR. <i>I.A. 1311, etc</i>.<p><b>Étym</b>. προθύω.`

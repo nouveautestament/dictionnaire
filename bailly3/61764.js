@@ -1,0 +1,1 @@
+lar[61764]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. λύγδινος ANTH. <i>5, 48</i>.`

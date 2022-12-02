@@ -1,0 +1,1 @@
+lar[85324]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> contigu à, <i>dat</i>. HPC. <i>514, 38</i>.<p><b>Étym</b>. προσάπτω.`

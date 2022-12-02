@@ -1,0 +1,1 @@
+lar[76212]=`<b>παρα·σκήπτω</b>, atteindre <i>ou</i> frapper à côté, LUC. <i>Tim. 10</i>.`

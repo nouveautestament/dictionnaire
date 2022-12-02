@@ -1,0 +1,1 @@
+lar[23633]=`<b>δεισιδαιμονέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ῐ]</font> craindre la divinité, <i>d’où</i> éprouver des craintes superstitieuses, POL. <i>9, 19, 1 ; 10, 2, 9</i> ; DS. <i>12, 59 ; 15, 53 ; etc</i>.<p><b>Étym</b>. δεισιδαίμων.`

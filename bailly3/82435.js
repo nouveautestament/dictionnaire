@@ -1,0 +1,1 @@
+lar[82435]=`<b>πολυ·τάρακτος, ος, ον</b> <font color="purple">[ῠτᾰ]</font> tout troublé, A. TAT. <i>1, 13</i>.<p><b>Étym</b>. π. ταράσσω.`

@@ -1,0 +1,1 @@
+lar[26350]=`<b>δί·ζωος, ος, ον</b>, qui vit d’une double manière, amphibie, ANTH. <i>15, 26</i>.<p><b>Étym</b>. δίς, ζωή.`

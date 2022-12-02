@@ -1,0 +1,1 @@
+lar[95371]=`<b>συν·εκμαχέω-ῶ</b> <font color="purple">[ᾰ]</font> aller ensemble combattre au dehors, AR. <i>Lys. 1154</i>.`

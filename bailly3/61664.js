@@ -1,0 +1,1 @@
+lar[61664]=`<b>(ἡ)</b> = <i>lat</i>. Lucina, <i>surn. de Junon, à Rome,</i> PLUT. <i>M. 282c</i>.`

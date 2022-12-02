@@ -1,0 +1,1 @@
+lar[29881]=`<b>ἐγ·χειμάζω</b>, passer l’hiver dans, <i>dat</i>. JUL. <i>Ep. 53</i> ; NYSS. <i>1, 170 ; 2, 956</i>.<p><b>Étym</b>. ἐν, χ.`

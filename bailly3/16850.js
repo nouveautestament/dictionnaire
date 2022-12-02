@@ -1,0 +1,1 @@
+lar[16850]=`<i>adv</i>., d’une façon intolérable, EL. <i>N.A. 16, 28</i>.`

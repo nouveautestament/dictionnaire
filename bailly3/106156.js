@@ -1,0 +1,1 @@
+lar[106156]=`<b>φιλο·τράπεζος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime la table <i>ou</i> les plaisirs de la table, ATH. <i>113e</i>.<p><b>Étym</b>. φ. τράπεζα.`

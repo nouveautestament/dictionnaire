@@ -1,0 +1,1 @@
+lar[39108]=`<b>ἐπι·στέγη, ης (ἡ)</b> étage supérieur (d’une tour), comble, ATHÉNÉE MÉC.`

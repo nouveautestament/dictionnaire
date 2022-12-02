@@ -1,0 +1,1 @@
+lar[79361]=`<b>περιστατέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> être entouré, CHRYS.<p><b>Étym</b>. περίστατος.`

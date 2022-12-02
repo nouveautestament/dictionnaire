@@ -1,0 +1,1 @@
+lar[2126]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> bavardage sans retenue, POL. <i>8, 12, 1</i>.`

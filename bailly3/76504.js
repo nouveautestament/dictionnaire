@@ -1,0 +1,1 @@
+lar[76504]=`<b>α, ον</b> <font color="purple">[δᾰ]</font><br><b>      1</b> de panthère <i>ou</i> de léopard, DIOSC. <i>2, 90</i> ; παρδάλειον φάρμακον, ARSTT. <i>Mir. 6, c</i>. παρδαλιαγχές.<br><b>      2</b> semblable à une panthère <i>ou</i> à un léopard, JOS. <i>Macc. 9, 28</i>.<p><b>Étym</b>. πάρδαλις.`

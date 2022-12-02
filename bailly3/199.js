@@ -1,0 +1,1 @@
+lar[199]=`<b>ου (τὸ)</b> aurone (<i>Artemisia abrotonum</i> L.) <i>plante aromatique,</i> TH. <i>H.P. 6, 7, 3, etc</i>.`

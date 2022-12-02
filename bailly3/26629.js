@@ -1,0 +1,1 @@
+lar[26629]=`<b>δί·λοφος, ος, ον</b> <font color="purple">[ῐ]</font> à deux sommets, SOPH. <i>Ant. 1126</i>.<p><b>Étym</b>. δίς, λόφος.`

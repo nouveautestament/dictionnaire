@@ -1,0 +1,1 @@
+lar[9671]=`<b>ἀντ·επιτάσσω</b>, <i>att</i>. <b>-τάττω</b>, donner ordre à son tour, THC. <i>1, 135</i> ; PLAT. <i>Tim. 20b</i>.`

@@ -1,0 +1,1 @@
+lar[24867]=`<b>ου (ὁ)</b> Diakritos, <i>h</i>. THC. <i>2, 12</i> ; AND. <i>8, 7 ; 9, 36 Baiter-Sauppe</i>.`

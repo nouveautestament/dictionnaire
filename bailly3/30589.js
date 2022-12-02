@@ -1,0 +1,1 @@
+lar[30589]=`<b>ου (τὸ)</b> temple de la Paix, <i>à Rome,</i> DC. <i>72, 24</i>.<p><b>Étym</b>. εἰρηναῖος.`

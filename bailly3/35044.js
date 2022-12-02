@@ -1,0 +1,1 @@
+lar[35044]=`<b>ων (τὰ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> ἔντερα, ALEX. (ATH. <i>326</i>).`

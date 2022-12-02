@@ -1,0 +1,1 @@
+lar[72684]=`<b>*ὀρθίασις</b>, <i>ion</i>. <b>-ίησις, εως (ἡ)</b> <font color="purple">[ᾱ]</font> érection, ARÉT. <i>p. 26, 11</i>.<p><b>Étym</b>. ὀρθιάω.`

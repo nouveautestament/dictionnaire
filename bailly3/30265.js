@@ -1,0 +1,1 @@
+lar[30265]=`<b>εἰδοφορέω-ῶ</b>, offrir l’aspect de, représenter, DH. <i>7, 72</i>.<p><b>Étym</b>. εἶδος, -φορος <i>de</i> φέρω.`

@@ -1,0 +1,1 @@
+lar[27064]=`<b>δί·στεγος, ος, ον :<br>      1</b> à deux étages (<i>litt</i>. à deux toits) STR. <i>730</i> ; GEOP. <i>8, 25</i> ; ZOS. <i>2, 30, 10</i>.<br><b>      2</b> à deux chambres (au même étage) JOS. <i>B.J. 5, 5, 4</i>.<p><b>Étym</b>. δίς, στέγη.`

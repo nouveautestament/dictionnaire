@@ -1,0 +1,1 @@
+lar[106647]=`<b>ου (ὁ)</b> = <i>lat</i>. Fonteius, <i>n. d’h. rom</i>. PLUT. <i>Galb. 15, etc</i>.`

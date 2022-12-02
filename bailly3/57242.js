@@ -1,0 +1,1 @@
+lar[57242]=`<b>κοσκινο·πώλης, ου (ὁ)</b> <font color="purple">[ῐ]</font> marchand de cribles, NICOPH. (ATH. <i>126e</i>).<p><b>Étym</b>. κόσκινον, πωλέω.`

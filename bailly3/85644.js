@@ -1,0 +1,1 @@
+lar[85644]=`<b>προσ·επεισφέρω</b> <font color="darkgreen">(<i>f</i>. -επεισοίσω, <i>ao</i>. -επεισήνεγκα, <i>etc</i>.)</font> apporter <i>ou</i> produire en outre, LGN <i>9, 12</i>.`

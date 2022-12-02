@@ -1,0 +1,1 @@
+lar[19109]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Varro, ōnis, Varron, <i>h</i>. DH. PLUT.`

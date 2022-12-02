@@ -1,0 +1,1 @@
+lar[16297]=`<b>ἀ·στραφής, ής, ές</b> <font color="purple">[ᾰφ]</font><br><b>      1</b> inflexible, SOPH. <i>fr. 367</i>.<br><b>      2</b> d’où l’on ne revient pas, ARSTD.<p><b>Étym</b>. ἀ, στρέφω.`

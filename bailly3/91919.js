@@ -1,0 +1,1 @@
+lar[91919]=`<b>ου (τὸ)</b> <font color="purple">[ῐῐδ]</font> <i>c</i>. σπίνιον AR. <i>fr. 344, 7</i>.`

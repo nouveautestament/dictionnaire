@@ -1,0 +1,1 @@
+lar[76739]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> comparaison, confrontation, NAZ. <i>2, 597 Migne</i>.<p><b>Étym</b>. παρεξετάζω.`

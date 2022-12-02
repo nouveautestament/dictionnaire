@@ -1,0 +1,1 @@
+lar[82859]=`<b>α, ον</b> <font color="purple">[ῠ]</font> <i>éol. c</i>. πορφύρεος, SAPPH. <i>fr. 68 Bgk</i>.`

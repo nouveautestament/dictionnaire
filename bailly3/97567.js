@@ -1,0 +1,1 @@
+lar[97567]=`<b>τανύ·ρροιζος, ος, ον</b> <font color="purple">[ᾰ]</font> qui résonne au loin, OPP. <i>C. 4, 194</i>.<p><b>Étym</b>. τανυ-, ῥοῖζος.`

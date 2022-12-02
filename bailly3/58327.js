@@ -1,0 +1,1 @@
+lar[58327]=`<b>κυαμο·τρώξ, ῶγος (ὁ)</b> <font color="purple">[ᾰ]</font> mangeur de fèves, AR. <i>Eq. 41</i>.<p><b>Étym</b>. κύαμος, τρώγω.`

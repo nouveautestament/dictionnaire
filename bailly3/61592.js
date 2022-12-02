@@ -1,0 +1,1 @@
+lar[61592]=`<b>ου (ὁ)</b> qui apporte la peste, <i>ép. d’Apollon,</i> MACR. <i>Sat. 1, 17</i>.<p><b>Étym</b>. λοιμός.`

@@ -1,0 +1,1 @@
+lar[36259]=`<b>ἐξ·υδαρόω-ῶ</b> <font color="purple">[ῠᾰ]</font><br><b>      1</b> convertir en eau, A. APHR. <i>Probl. 26, 9 ; au pass</i>. se changer en eau, ATH. <i>434</i>.<br><b>      2</b> <i>fig</i>. amollir, dissoudre, SIMPL. <i>Epict. p. 354 Schweigh</i>.<p><b>Étym</b>. ἐξ, ὑδαρής.`

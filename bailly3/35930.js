@@ -1,0 +1,1 @@
+lar[35930]=`<b>ἑξηκοντα·ετία, ας (ἡ)</b> durée de soixante ans, PLUT. <i>Cic. 25</i>.`

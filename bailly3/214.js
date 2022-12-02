@@ -1,0 +1,1 @@
+lar[214]=`<b>ῆς (ἡ)</b> Abrôtè, <i>Béotienne,f</i>. PLUT. <i>Qu. gr. 16</i>.`

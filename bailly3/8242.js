@@ -1,0 +1,1 @@
+lar[8242]=`<b>ἀν·εκλογίστως</b>, <i>adv</i>., sans compter, sans mesure, PHÉRÉCR. (ATH. <i>481c</i>).<p><b>Étym</b>. ἀν-, ἐκλογίζομαι.`

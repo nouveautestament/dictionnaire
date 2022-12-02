@@ -1,0 +1,1 @@
+lar[89227]=`<b>ου (ὁ)</b> = <i>lat</i>. Salōnius, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 24</i>.`

@@ -1,0 +1,1 @@
+lar[99091]=`<b>εως (ἡ)</b> <font color="purple">[ῐᾱ]</font> <i>c</i>. τιθασεία, TH. <i>H.P. 3, 2, 2</i> ; PLUT. <i>M. 441e, 802e</i>.`

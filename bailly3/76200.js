@@ -1,0 +1,1 @@
+lar[76200]=`<b>παρα·σκέπω</b>, couvrir sur le côté, APD. POL. <i>29</i>.`

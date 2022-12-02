@@ -1,0 +1,1 @@
+lar[19408]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> teinturier, PLAT. <i>Rsp. 429d ;</i> DIPH. (HARP.) ; PLUT. ANTH. <i>etc</i>.<p><b>Étym</b>. βάπτω.`

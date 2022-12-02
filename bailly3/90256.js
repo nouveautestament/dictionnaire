@@ -1,0 +1,1 @@
+lar[90256]=`<b>σικυ·ήλατον, ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> couche de concombres, de potirons <i>ou</i> de melons, HPC. <i>234, 44</i>.<p><b>Étym</b>. σικύα <i>ou</i> σίκυος, ἐλαύνω.`

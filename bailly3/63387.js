@@ -1,0 +1,1 @@
+lar[63387]=`<font color="purple">[ᾰ]</font> <i>adv</i>., grandement, magnifiquement.<p>•<i> Cp</i>. -μερέστερον, POL. <i>25, 6, 5 ; • Sup</i>. -μερέστατα, POL. <i>16, 25, 3</i>.<p><b>Étym</b>. μεγαλομερής.`

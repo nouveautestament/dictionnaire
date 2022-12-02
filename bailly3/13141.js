@@ -1,0 +1,1 @@
+lar[13141]=`<b>ἀπο·προαιρέω-ῶ</b> (<i>part. ao.2</i> -προελών) prélever une part de, <i>gén.</i> : ἀπ. σίτου, OD. <i>17, 457,</i> prendre un morceau de pain.`

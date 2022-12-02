@@ -1,0 +1,1 @@
+lar[88779]=`<b>ῥομβόω-ῶ</b>, façonner en forme de losange, HÉRON <i>Bel. 137, 9</i>.<p><b>Étym</b>. ῥόμβος.`

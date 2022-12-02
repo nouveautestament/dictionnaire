@@ -1,0 +1,1 @@
+lar[20927]=`<b>ου (τὸ)</b> sorte de bière, ATH. <i>447c</i>.<p><b>Étym</b>. <i>cf</i>. βρύζω.`

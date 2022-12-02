@@ -1,0 +1,1 @@
+lar[68041]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> semblable à du nectar, GEOP. <i>5, 2, 10</i>.<p><b>Étym</b>. νέκταρ, -ωδης.`

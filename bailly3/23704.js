@@ -1,0 +1,1 @@
+lar[23704]=`<b>δεκα·στάτηρος, ος, ον</b> <font color="purple">[τᾰ]</font> rémunéré de dix statères, ARR. <i>An. 7, 23, 3</i>.<p><b>Étym</b>. δ. στατήρ.`

@@ -1,0 +1,1 @@
+lar[68488]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Nèdimos, <i>h</i>. ANTH. <i>App. 290</i>.`

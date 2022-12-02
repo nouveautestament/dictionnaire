@@ -1,0 +1,1 @@
+lar[38183]=`<b>ἐπί·κροτος, ος, ον :<br>      1</b> frappé avec bruit, fortement battu, <i>en parl. du sol,</i> XÉN. <i>Hipp. 3, 14</i> ; ARSTT. <i>H.A. 5, 32, 2</i>.<br><b>      2</b> <i>fig</i>. retentissant, bruyant, PHILSTR. <i>539</i>.`

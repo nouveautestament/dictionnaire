@@ -1,0 +1,1 @@
+lar[2154]=`<b>ας (ἡ)</b> Æa :<br><b>      1</b> <i>anc. n. de la Colchide,</i> A.RH. <i>2, 419 ; dans</i> HDT. <i>1, 2, 2, etc. accompagné de</i> Κολχίς.<br><b>      2</b> <i>v. de Thessalie,</i> SOPH. <i>fr. 94, 2 et 4</i>.<p>➳ <i>Gén. ion</i>. Αἴης, A.RH. <i>2, 424</i>.`

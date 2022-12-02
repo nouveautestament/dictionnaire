@@ -1,0 +1,1 @@
+lar[91955]=`<b>σπογγο·ειδής, ής, ές</b>, de la nature d’une éponge, spongieux, HPC. <i>V. med. 17, etc</i>.<p><b>Étym</b>. σπόγγος, εἶδος.`

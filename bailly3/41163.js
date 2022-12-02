@@ -1,0 +1,1 @@
+lar[41163]=`<b>ιδος</b>, <i>adj. f</i>. d’Hestiotide, <i>càd</i>. du N. O. (vent), SOPH. <i>Tr. 954</i>.<p><b>Étym</b>. ἑστιόω.`

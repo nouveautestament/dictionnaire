@@ -1,0 +1,1 @@
+lar[4539]=`<b>ἁλι·πλήξ, ῆγος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἁλίπληκτος CALL. <i>Del. 11</i> ; ANTH. <i>6, 193</i>.`

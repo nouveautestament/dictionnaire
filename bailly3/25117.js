@@ -1,0 +1,1 @@
+lar[25117]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> action de se lever, HPC. <i>1212h ;</i> POL. <i>5, 70, 8</i>.<p><b>Étym</b>. διανίστημι.`

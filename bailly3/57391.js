@@ -1,0 +1,1 @@
+lar[57391]=`<b>ων (τὰ)</b> Cunaxa, <i>village près de Babylone,</i> PLUT. <i>Artax. 8</i>.`

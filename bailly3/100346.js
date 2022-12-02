@@ -1,0 +1,1 @@
+lar[100346]=`<b>τρί·πεδος, ος, ον</b> <font color="purple">[ῐ]</font> long de trois pieds, POL. <i>6, 22, 2</i>.<p><b>Étym</b>. τρ. πούς.`

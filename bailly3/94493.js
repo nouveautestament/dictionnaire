@@ -1,0 +1,1 @@
+lar[94493]=`<b>ή, όν</b> <font color="purple">[φῠ]</font> propre à rapprocher, à unir, ARSTT. <i>Probl. 1, 33</i>.<p><b>Étym</b>. συμφύω.`

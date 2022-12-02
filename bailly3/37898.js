@@ -1,0 +1,1 @@
+lar[37898]=`<b>ῆς (ἡ)</b> courbure, courbe, <i>particul.</i> :<br><b>      1</b> retour <i>ou</i> angle d’une construction, HDT. <i>1, 180</i>.<br><b>      2</b> courbe d’une armée déployée en fer à cheval, XÉN. <i>Cyr. 7, 1, 6</i> ; ARR. <i>An. 2, 9, 2 ; 3, 12, 2</i>.<p><b>Étym</b>. ἐπικάμπτω.`

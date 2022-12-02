@@ -1,0 +1,1 @@
+lar[103116]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui se fait au moyen d’exemples, SEXT. <i>M. 4, 23</i>.<p><b>Étym</b>. ὑπόδειγμα.`

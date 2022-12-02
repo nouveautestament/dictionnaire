@@ -1,0 +1,1 @@
+lar[92916]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Strepsiadès, <i>h</i>. PD. <i>I. 7, 31</i> ; AR. <i>Nub. 1206, etc</i>.<p>➳ <i>Voc</i>. Στρεψιάδη, <i>par exc</i>. Στρεψίαδες, AR. <i>l. c. Dor</i>. Στρεψιάδας <font color="purple">[δᾱ]</font> PD. <i>l. c</i>.`

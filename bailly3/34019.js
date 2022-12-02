@@ -1,0 +1,1 @@
+lar[34019]=`<b>εως (ἡ)</b> action d’articuler, GAL. <i>2, 736</i>.<p><b>Étym</b>. ἐναρθρόω.`

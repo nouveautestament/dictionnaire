@@ -1,0 +1,1 @@
+lar[75290]=`<b>ητος (ἡ)</b> universalité, DAMASC. (<i>Wolf. An. 3, 196).</i><p><b>Étym</b>. πᾶς.`

@@ -1,0 +1,1 @@
+lar[31269]=`<b>ἐκ·ζωπυρέω-ῶ</b> <font color="purple">[ῠ]</font> rallumer un feu qui couve, PLUT. <i>Mar. 44 ; fig</i>. ranimer, renouveler, AR. <i>Pax 310</i> ; PLUT. <i>Crass. 10</i>.`

@@ -1,0 +1,1 @@
+lar[101425]=`<b>ή, όν</b>, qui concerne l’élevage des animaux aquatiques, PLAT. <i>Pol. 264d</i>.<p><b>Étym</b>. *ὑγρότροφος, <i>de</i> ὑ. τρέφω.`

@@ -1,0 +1,1 @@
+lar[51854]=`<b>ος, ον</b> <font color="purple">[πᾰ]</font><br><b>      1</b> qui saisit avidement, PD. <i>P. 12, 35</i>.<br><b>      2</b> <i>p. suite,</i> prompt, agile, rapide, IL. <i>16, 342, 809</i> ; AR. <i>Th. 957</i> ; A.RH. <i>3, 280</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

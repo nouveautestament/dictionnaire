@@ -1,0 +1,1 @@
+lar[93185]=`<i>adv</i>., en manière de parenté, DÉM. <i>797, 2</i> ; DL. <i>10, 72</i>.`

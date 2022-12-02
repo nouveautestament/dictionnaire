@@ -1,0 +1,1 @@
+lar[92806]=`<b>ου (ὁ)</b> Stramménos, <i>Argien,</i> DÉM. <i>52, 10 Baiter-Sauppe</i>.`

@@ -1,0 +1,1 @@
+lar[53494]=`<b>κατα·στύφελος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> très dur, très rude, HH. <i>Merc. 124</i>.<br><b>      2</b> très sec, HÉS. <i>Th. 806</i>.<p><b>Étym</b>. κ. στυφελός.`

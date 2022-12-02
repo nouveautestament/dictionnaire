@@ -1,0 +1,1 @@
+lar[88926]=`<b>ῥυσί·πονος, ος, ον</b> <font color="purple">[ῡῐ]</font> qui affranchit des épreuves, ANTH. <i>9, 525</i>.<p><b>Étym</b>. ῥύομαι, πόνος.`

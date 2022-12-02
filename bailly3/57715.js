@@ -1,0 +1,1 @@
+lar[57715]=`<b>κρειττόομαι-οῦμαι</b>, se dessécher, <i>en parl. du raisin,</i> TH. <i>H.P. 4, 14, 6, etc</i>.<p><b>Étym</b>. κρείττων.`

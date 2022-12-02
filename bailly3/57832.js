@@ -1,0 +1,1 @@
+lar[57832]=`<b>ου (ὁ)</b> qui préside aux sources, <i>ép. de Poséidon,</i> CORN. <i>22</i>.<p><b>Étym</b>. κρήνη, ἔχω.`

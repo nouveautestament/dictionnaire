@@ -1,0 +1,1 @@
+lar[19022]=`<b>βαναυσέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰ]</font> exercer un art manuel, être un artisan, SYN. <i>22d</i>.<p><b>Étym</b>. βάναυσος.`

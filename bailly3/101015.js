@@ -1,0 +1,1 @@
+lar[101015]=`<b>τυμβο·ποιός, οῦ (ὁ)</b> entrepreneur de monuments funéraires, ANON. (<i>Gale Op. myth. p. 706).</i><p><b>Étym</b>. τύμβος, ποιέω.`

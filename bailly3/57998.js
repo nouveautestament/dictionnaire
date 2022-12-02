@@ -1,0 +1,1 @@
+lar[57998]=`<b>ου</b>, <i>adj. m</i>. de Crésus, PLUT. <i>M. 823a</i>.<p><b>Étym</b>. Κροῖσος.`

@@ -1,0 +1,1 @@
+lar[103605]=`<b>οῦ (ὁ)</b> homme soupçonneux, POLÉM. <i>Physiogn. 1, 6</i> ; ADAM. <i>Physiogn. 1, 4</i>.<p><b>Étym</b>. ὑπονοέω.`

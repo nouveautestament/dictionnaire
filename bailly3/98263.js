@@ -1,0 +1,1 @@
+lar[98263]=`<b>α, ον</b>, de bois sacré, de l’enceinte d’un temple, SOPH. <i>Tr. 754</i>.<p><b>Étym</b>. τέμενος.`

@@ -1,0 +1,1 @@
+lar[79775]=`<b>περσέ·πολις, εως (ὁ, ἡ)</b> destructeur de villes, <i>ép. de Pallas,</i> LAMPROCL. (AR. <i>Nub. 967</i>) ; ESCHL. <i>Pers. 65, etc. ; de Néoptolème,</i> POÈT. (HLD. <i>3, 2).</i><p>➳ <i>Poét</i>. περσέπτολις, ESCHL. <i>l. c</i>.<p><b>Étym</b>. πέρθω, πόλις.`

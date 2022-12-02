@@ -1,0 +1,1 @@
+lar[58930]=`<font color="purple">[ᾱᾱ]</font> <i>dor. c</i>. Κυρήνη.`

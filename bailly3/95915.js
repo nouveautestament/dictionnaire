@@ -1,0 +1,1 @@
+lar[95915]=`<b>σύν·θακος</b>, <i>anc. att</i>. <b>ξύν·θακος, ος, ον</b> <font color="purple">[ᾱ]</font> qui siège avec, <i>dat</i>. SOPH. <i>O.C. 1267</i> ; EUR. <i>Or. 1637</i>.`

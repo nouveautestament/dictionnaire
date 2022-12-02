@@ -1,0 +1,1 @@
+lar[87319]=`<b>οῦ (ὁ)</b> croc-en-jambe, <i>fig</i>. supercherie, SPT. <i>4Reg. 10, 19 ; Ps. 40, 9</i>.<p><b>Étym</b>. πτερνίζω.`

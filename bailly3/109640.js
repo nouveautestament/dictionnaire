@@ -1,0 +1,1 @@
+lar[109640]=`<b>ψευδ·ατράφαξυς, υος (ἡ)</b> <font color="purple">[ᾰφ]</font> fausse arroche, <i>càd</i>. imposture, AR. <i>Eq. 630 ; cf</i>. ψευδαμάμαξυς.`

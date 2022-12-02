@@ -1,0 +1,1 @@
+lar[90577]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> voile (de navire), ARR. <i>Epict. 3, 2, 18</i>.<p><b>Étym</b>. <i>cf. lat</i>. supparum <i>ou</i> supparus.`

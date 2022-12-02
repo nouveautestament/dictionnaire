@@ -1,0 +1,1 @@
+lar[84950]=`<b>εως (ἡ)</b> action de s’avancer vivement, de s’élancer, POLÉM. <i>Physiogn. 1, 6</i>.<p><b>Étym</b>. προπηδάω.`

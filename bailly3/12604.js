@@ -1,0 +1,1 @@
+lar[12604]=`<b>ής, ές</b> <font color="purple">[ῑ]</font> qui va en pente, MAN. <i>6, 62</i>.<p><b>Étym</b>. ἀποκλίνω.`

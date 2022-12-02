@@ -1,0 +1,1 @@
+lar[22871]=`<b>γυπός (ὁ)</b> <font color="purple">[ῡ]</font> vautour, <i>oiseau de proie</i>, IL. <i>22, 42</i> ; ARSTT. <i>H.A. 6, 5 ; 9, 11</i> ; NIC. <i>Th. 406</i>.<p>➳ <i>Gén. pl. épq</i>. γυπάων <i>p</i>. γυπῶν, OPP. <i>C. 4, 392 ; dat. pl. épq</i>. γύπεσσι, IL. <i>11, 162 ; duel</i> γῦπε, OD. <i>11, 578</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

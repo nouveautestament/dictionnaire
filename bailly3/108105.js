@@ -1,0 +1,1 @@
+lar[108105]=`<b>ου (τὸ)</b> <font color="purple">[ῑδ]</font> <i>dim. de</i> χειρίς, ANTYLL. (ORIB. <i>1, 494</i>).`

@@ -1,0 +1,1 @@
+lar[100294]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> τρίμμα DIPH. <i>et</i> SOTAD. (ATH. <i>231a, 293c</i>).`

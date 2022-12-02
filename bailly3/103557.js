@@ -1,0 +1,1 @@
+lar[103557]=`<b>ὑπομνηματο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> auteur de mémoires, annaliste, JUL. <i>411c ;</i> HERMÈS (STOB. <i>Ecl. 1, 950</i>).<br><b>      2</b> <i>à Alexandrie,</i> le second magistrat municipal, STR. <i>797</i>.<p><b>Étym</b>. ὑπόμνημα, γράφω.`

@@ -1,0 +1,1 @@
+lar[67229]=`<b>μυρι·έλικτος, ος, ον</b> <font color="purple">[ῡ]</font> qui s’enroule une infinité de fois, EUN. (SUID.).<p><b>Étym</b>. μυρίος, ἑλίσσω.`

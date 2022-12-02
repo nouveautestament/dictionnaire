@@ -1,0 +1,1 @@
+lar[94607]=`<b>συν·αισχύνω</b> <font color="purple">[χῡ <i>prés.,</i> χῠ <i>fut</i>.]</font> déshonorer en même temps, M. TYR. <i>18, 9</i>.`

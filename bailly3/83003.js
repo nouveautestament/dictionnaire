@@ -1,0 +1,1 @@
+lar[83003]=`<i>mieux que</i> <b>Ποτίδαια, ας (ἡ)</b> <font color="purple">[ῑ]</font> Potidée (<i>auj</i>. Néa Potíđea) <i>v. de Chalcidique,</i> HDT. <i>7, 123, etc.</i> ; THC. <i>1, 57, etc.</i> ; XÉN. <i>Hell. 7, 2, 15, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Ποτείδαια, CIA. <i>1, 235, 4, etc. ; v. Meisterh. p. 28, § 14 ; cf. p. 41 ; ion</i>. Ποτιδαίη, HDT. <i>l. c</i>.`

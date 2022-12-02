@@ -1,0 +1,1 @@
+lar[63908]=`<b>μελανό·χλωρος, ος, ον</b> <font color="purple">[ᾰ]</font> d’un jaune noir, POLÉM. <i>185</i> ; PROCL. <i>Ptol. p. 204</i>.<p><b>Étym</b>. μ. χλωρός.`

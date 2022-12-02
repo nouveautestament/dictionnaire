@@ -1,0 +1,1 @@
+lar[108275]=`<b>ῆτος</b>, <i>adj. m</i>. qui vit du travail de ses mains, <i>d’où</i> pauvre, misérable, EUR. <i>El. 205</i> ; ANTH. <i>6, 39</i>.<p>➳ <i>Dor</i>. χερνάς, ᾶτος <font color="purple">[ᾱ]</font> ANTH. <i>7, 709</i>.<p><b>Étym</b>. χείρ, <i>cf</i>. χῆρος, χηρεύω.`

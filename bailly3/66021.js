@@ -1,0 +1,1 @@
+lar[66021]=`<b>μισο·γόης, ου (ὁ)</b> <font color="purple">[ῑ]</font> qui hait les charlatans, LUC. <i>Pisc. 20</i>.<p><b>Étym</b>. μ. γόης.`

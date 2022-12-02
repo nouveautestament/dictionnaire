@@ -1,0 +1,1 @@
+lar[68197]=`<b>νεό·ξεστος, ος, ον</b>, nouvellement poli, TRIPHIOD. <i>255</i>.<p><b>Étym</b>. ν. ξέω.`

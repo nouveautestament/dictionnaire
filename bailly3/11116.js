@@ -1,0 +1,1 @@
+lar[11116]=`<b>ας (ἡ) :<br>      1</b> manque d’éducation <i>ou</i> d’instruction, THC. <i>3, 42</i> ; PLAT. <i>Rsp. 514a ;</i> ARSTT. <i>Rhet. 1, 2, etc. ; d’où</i> grossièreté, stupidité, PLAT. <i>Gorg. 527e</i>,<br><b>      2</b> impuissance à maîtriser, THC. <i>3, 84</i>.<p><b>Étym</b>. ἀπαίδευτος.`

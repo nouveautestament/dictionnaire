@@ -1,0 +1,1 @@
+lar[105900]=`<font color="purple">[ῐ]</font> <i>adv</i>., en érudit, en lettré, AR. <i>Ran. arg</i>.<p><b>Étym</b>. φιλόλογος.`

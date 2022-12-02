@@ -1,0 +1,1 @@
+lar[25185]=`<b>ατος (τὸ) :<br>      1</b> raclure, CHRYSIPP. (PLUT. <i>de Nobil. p. 950 Wyttenbach</i>).<br><b>      2</b> cannelure d’une colonne, DS. <i>13, 82</i>.<p><b>Étym</b>. διαξύω.`

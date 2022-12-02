@@ -1,0 +1,1 @@
+lar[44160]=`<b>ἐφ·ύμνιον, ου (τὸ) :<br>      1</b> ce qu’on chante après l’hymne, refrain, ATH. <i>701f.</i><br><b>      2</b> surnom dérivé d’un refrain, A.RH. <i>2, 713 ; cf</i>. CALL. <i>Ap. 97</i>.<p><b>Étym</b>. ἐπί, ὕμνος.`

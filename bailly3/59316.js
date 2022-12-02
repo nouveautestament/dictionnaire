@@ -1,0 +1,1 @@
+lar[59316]=`<b>α (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Labas, <i>h</i>. THCR. <i>Idyl. 14, 24</i>.`

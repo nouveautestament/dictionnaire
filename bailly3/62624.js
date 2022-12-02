@@ -1,0 +1,1 @@
+lar[62624]=`<b>ου (τὸ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> poisson à chair molle, mollusque, ARSTT. <i>H.A. 1, 6, etc.</i> ; ATH. <i>318f, etc.</i><br><b>      2</b> ornement de femme, AR. <i>fr. 309, 10</i>.<p><b>Étym</b>. μαλακός.`

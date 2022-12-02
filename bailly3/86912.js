@@ -1,0 +1,1 @@
+lar[86912]=`<b>προ·ϋφαρπάζω</b>, soustraire auparavant, SEXT. <i>M. 10, 208</i>.`

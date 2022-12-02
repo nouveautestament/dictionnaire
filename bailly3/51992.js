@@ -1,0 +1,1 @@
+lar[51992]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> garni de noix <i>ou</i> de dattes : κ. φοῖνιξ, STR. <i>800</i> ; GAL. <i>6, 352,</i> palmier à dattes, dattier ; καρυωτὴ φιάλη, SEMUS (ATH. <i>502b</i>) vase orné de ciselures ovales en forme de dattes.<p><b>Étym</b>. *καρυόω, <i>de</i> κάρυον.`

@@ -1,0 +1,1 @@
+lar[54588]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰδ]</font> bruit retentissant (du vent, d’un fleuve) EUR. <i>Ph. 221</i> ; AR. <i>Nub. 283</i>.<p><b>Étym</b>. κελαδέω.`

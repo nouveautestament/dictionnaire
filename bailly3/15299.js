@@ -1,0 +1,1 @@
+lar[15299]=`<b>ου (τὸ)</b> sorte de collyre, GAL. <i>13, 449</i>.`

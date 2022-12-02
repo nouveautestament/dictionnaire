@@ -1,0 +1,1 @@
+lar[30171]=`<i>adv</i>., volontairement, XÉN. <i>Hier. 11, 12</i>.`

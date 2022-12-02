@@ -1,0 +1,1 @@
+lar[96317]=`<font color="purple">[ᾰ]</font> <i>adv</i>., avec effort, AR. <i>Pl. 325</i> ; PLAT. <i>Rsp. 499a, Phil. 59a</i>.<p><b>Étym</b>. συντείνω.`

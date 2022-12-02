@@ -1,0 +1,1 @@
+lar[91387]=`<b>σκυφο·κώνακτος, ος, ον</b> <font color="purple">[ῠ]</font> entouré de coupes, EPICH. (HSCH.).`

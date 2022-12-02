@@ -1,0 +1,1 @@
+lar[13539]=`<b>ῶν (οἱ)</b> les Renonciateurs, <i>secte religieuse,</i> JUL. <i>224a</i>.<p><b>Étym</b>. ἀπότακτος.`

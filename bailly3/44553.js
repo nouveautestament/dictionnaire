@@ -1,0 +1,1 @@
+lar[44553]=`<b>ωνος (ὁ)</b> Zènôn (Zénon) :<br><b>      1</b> <i>philosophe de l’école d’Élée</i>, PLAT. <i>Soph. 216a, etc.</i> ; ARSTT. <i>Soph. el. 24, 33</i> ; PLUT. <i>Per. 4, 5</i> ; DL. <i>9, 25</i>.<br><b>      2</b> <i>philosophe stoïcien</i>, PLUT. <i>Cleom. 2</i>.<p>➳ <i>Plur</i>. Ζήνωνες, DL. <i>7, 1 ; 9, 5</i>.`

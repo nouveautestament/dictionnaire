@@ -1,0 +1,1 @@
+lar[87008]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> mauvais temps avant la saison, PLIN. <i>H.N. 18, 25, 57</i> ; VÉG. <i>Mil. 4, 40</i> <font color="purple">[προχειμάζειν <i>dans l’édition de Lang</i>]</font>.<p><b>Étym</b>. προχειμάζω.`

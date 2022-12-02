@@ -1,0 +1,1 @@
+lar[39063]=`<b>ος, ον :<br>      1</b> semé de nouveau : τὰ ἐπίσπορα, TH. <i>H.P. 7, 1, 2,</i> graines semées pour une seconde production.<br><b>      2</b> semé postérieurement : <i>fig</i>. οἱ ἐπίσποροι, ESCHL. <i>Eum. 673,</i> les descendants.<p><b>Étym</b>. ἐπισπείρω.`

@@ -1,0 +1,1 @@
+lar[76772]=`<b>παρ·επιφαίνομαι</b>, apparaître en outre, ORIB. <i>305 Matthäi</i>.`

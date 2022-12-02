@@ -1,0 +1,1 @@
+lar[44085]=`<b>ἐφ·ιππάζομαι :</b> aller à cheval, chevaucher : ἐπὶ δελφῖνος, LUC. <i>D. mar. 6, 2,</i> sur un dauphin ; <i>en un sens obscène,</i> ARTÉM. <i>1, 79 ; fig</i>. CRAT. <i>fr. 131</i>.<p><b>Étym</b>. ἐπί, ἱ.`

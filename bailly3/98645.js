@@ -1,0 +1,1 @@
+lar[98645]=`<i>adv</i>., de quatre façons, au quadruple, IL. <i>1, 128</i> ; LUC. <i>Pseud. 32, etc</i>.<p><b>Étym</b>. <i>fém. de</i> τετραπλόος.`

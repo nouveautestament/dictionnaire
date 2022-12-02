@@ -1,0 +1,1 @@
+lar[53123]=`<b>ας (ἡ)</b> orifice de l’estomac, HIPPIATR. <i>p. 61, 31 ; cf</i>. καταπότρα.<p><b>Étym</b>. καταπίνω.`

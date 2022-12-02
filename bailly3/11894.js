@@ -1,0 +1,1 @@
+lar[11894]=`<b>ἄ·πηκτος, ος, ον</b>, qu’on ne peut solidifier, ARSTT. <i>Meteor. 4, 8, 6, etc</i>.<p><b>Étym</b>. ἀ, πήγνυμι.`

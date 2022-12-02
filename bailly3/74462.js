@@ -1,0 +1,1 @@
+lar[74462]=`<b>παλαί·χθων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> qui habite depuis longtemps un pays, indigène, ESCHL. <i>Sept. 105</i> ; ANTH. <i>App. 362</i>.<p><b>Étym</b>. π. χθών.`

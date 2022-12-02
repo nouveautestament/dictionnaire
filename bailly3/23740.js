@@ -1,0 +1,1 @@
+lar[23740]=`<font color="purple">[ᾱ]</font> <i>adv</i>., à Décélie, <i>sans mouv</i>. ISOCR. <i>175e</i>.`

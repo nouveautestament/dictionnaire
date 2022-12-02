@@ -1,0 +1,1 @@
+lar[34117]=`<b>ἑνδεκά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> de onze mois, HPC. <i>259, 35</i>.<p><b>Étym</b>. ἕ. μήν.`

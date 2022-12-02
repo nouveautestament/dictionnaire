@@ -1,0 +1,1 @@
+lar[10979]=`<b>ου (ὁ)</b> <font color="purple">[ῡ]</font> Axylos, <i>chef Thrace,</i> IL. <i>6, 12</i>.`

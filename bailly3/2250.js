@@ -1,0 +1,1 @@
+lar[2250]=`<b>έως (ὁ)</b> habitant <i>ou</i> originaire du dème Ægilia, DÉM. <i>49, 31, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. Αἰγιλιά.`

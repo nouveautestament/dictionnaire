@@ -1,0 +1,1 @@
+lar[9675]=`<b>ἀντ·επιτίθημι :<br>      1</b> appliquer à son tour <i>ou</i> en échange, CLÉM. <i>932</i>.<br><b>      2</b> remettre en échange <i>ou</i> en réponse, THC. <i>1, 129</i>.<br><b><i>Moy.</i></b> attaquer à son tour, <i>dat</i>. DS. <i>Exc. 533, 61</i>.`

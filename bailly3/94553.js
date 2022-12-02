@@ -1,0 +1,1 @@
+lar[94553]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> action de recueillir, DH. <i>Exc. p. XXXI Didot ; fig</i>. PLAT. <i>Pol. 272c</i>.<p><b>Étym</b>. συναγείρω.`

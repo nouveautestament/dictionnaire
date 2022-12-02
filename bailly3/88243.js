@@ -1,0 +1,1 @@
+lar[88243]=`<b>ας (ἡ)</b> <font color="purple">[ᾰκ]</font> grand bruit, POSIDIPP. (<i>Com. fr. 4, 523 vulg. ; v</i>. ῥαχία).<p><b>Étym</b>. ῥάκος.`

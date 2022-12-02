@@ -1,0 +1,1 @@
+lar[88324]=`<b>Ῥαφανο·χόρτασος, ου (ὁ)</b> <font color="purple">[ᾰᾰᾰ]</font> Mangeur de raves, <i>n. de parasite,</i> ALCIPHR. <i>3, 72</i>.`

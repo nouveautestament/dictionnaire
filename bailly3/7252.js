@@ -1,0 +1,1 @@
+lar[7252]=`<b>ου</b> <i>ou</i> <b>α (ὁ)</b> Ananias, <i>h</i>. NT. <i>Ap. 5, 1, etc</i>.`

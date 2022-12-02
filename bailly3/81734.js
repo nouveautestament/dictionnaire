@@ -1,0 +1,1 @@
+lar[81734]=`<b>Πολύ·αρχος, ου (ὁ)</b> Polyarkhos, <i>h</i>. IS. <i>1, 4, 39 Baiter-Sauppe</i> ; PLUT. <i>Them. 19, etc</i>.<p><b>Étym</b>. <i>v</i>. πολύαρχος.`

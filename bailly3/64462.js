@@ -1,0 +1,1 @@
+lar[64462]=`<b>μεσ·έγγυος, ου (ὁ, ἡ)</b> qui sert d’intermédiaire pour le dépôt d’un gage, médiateur, AR. (POLL. <i>8, 28).</i><p><b>Étym</b>. μ. ἐγγύη.`

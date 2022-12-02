@@ -1,0 +1,1 @@
+lar[19511]=`<b>βελο·σφενδόνη, ης (ἡ)</b> flèche garnie d’une étoupe enflammée (<i>lat</i>. falarica) PLUT. <i>Syll. 18</i>.`

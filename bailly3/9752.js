@@ -1,0 +1,1 @@
+lar[9752]=`<b>άδος (ἡ) :<br>      1</b> glande de la gorge, amygdale, HPC. <i>464, 28 ; 471, 13</i>.<br><b>      2</b> inflammation des glandes de la langue, GAL. <i>6, 247</i>.<p><b>Étym</b>. ἀντίος.`

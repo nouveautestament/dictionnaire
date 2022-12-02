@@ -1,0 +1,1 @@
+lar[47259]=`<b>ος</b> <i>ou</i> <b>α, ον</b>, de bête sauvage, ESCHL. <i>Ch. 232</i> ; SOPH. <i>Tr. 1059 (corr. Bamberg ; ms</i>. θηρίον) ; EUR. <i>Cycl. 325</i> ; XÉN. <i>Cyr. 1, 3, 6</i>.<p>➳ <i>Fém</i>. -α, PLAT. <i>Phædr. 248d ;</i> ANTH. <i>5, 266</i>.<p><b>Étym</b>. θήρ.`

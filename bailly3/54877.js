@@ -1,0 +1,1 @@
+lar[54877]=`<b>κερατόω-ῶ</b> <font color="purple">[ᾰ]</font> rendre aussi dur que la corne, EL. <i>N.A. 12, 8</i>.<p><b>Étym</b>. κέρας.`

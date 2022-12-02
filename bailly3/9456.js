@@ -1,0 +1,1 @@
+lar[9456]=`<b>ἀντ·αναπίμπλημι</b>, remplir en retour, XÉN. <i>Hell. 2, 4, 12</i>.`

@@ -1,0 +1,1 @@
+lar[24090]=`(<i>seul. prés. et part. ao</i>.) amollir, assouplir, OD. <i>12, 48 (part. ao</i>. δεψήσας) ; HDT. <i>4, 64</i>.<p><b>Étym</b>. <i>prés. 3 sg</i>. δέψει.`

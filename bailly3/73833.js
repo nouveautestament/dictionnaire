@@ -1,0 +1,1 @@
+lar[73833]=`<i>mieux que</i> <b>ὀφείδιον, ου (τὸ)</b> petit serpent, ARSTT. <i>H.A. 8, 29</i> ; STR. <i>706</i>.<p>➳ <i>Dans des inscr. att</i>. ὀφίδιον, <i>non</i> ὀφείδιον, CIA. <i>2, 766, 16 (340/337 av. J.-C.), etc. ; v. Meisterh. p. 42</i>.<p><b>Étym</b>. <i>dim. de</i> ὄφις.`

@@ -1,0 +1,1 @@
+lar[13192]=`<b>ἀπο·ρέπω</b> <font color="darkgreen">(<i>ao</i>. ἀπέρεψα)</font> pencher, ANTH. <i>9, 746</i>.<p><b>Étym</b>. <i>p</i>. *ἀπορρέπω, <i>de</i> ἀπό, ῥέπω.`

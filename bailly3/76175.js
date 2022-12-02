@@ -1,0 +1,1 @@
+lar[76175]=`<i>adv</i>., silencieusement, tacitement, ORIG. <i>2, 1181 Migne</i>.<p><b>Étym</b>. π. σιωπάω.`

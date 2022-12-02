@@ -1,0 +1,1 @@
+lar[80560]=`<b>πιτυρόομαι-οῦμαι</b> <font color="purple">[ῐῡ]</font> être malade d’une dartre farineuse, HPC. <i>109c</i>.<p><b>Étym</b>. πίτυρον.`

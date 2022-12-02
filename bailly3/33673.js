@@ -1,0 +1,1 @@
+lar[33673]=`<b>*ἐμ·φέρβομαι</b>, <i>seul. poét</i>. <b>ἐνι·φέρβομαι</b>, paître <i>ou</i> se repaître dans, <i>dat</i>. MOSCH. <i>2, 80</i>.`

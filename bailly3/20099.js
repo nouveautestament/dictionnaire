@@ -1,0 +1,1 @@
+lar[20099]=`<font color="darkgreen">(<i>f</i>. ίσω)</font> être du parti des Béotiens, PLUT. <i>M. 575d</i>.`

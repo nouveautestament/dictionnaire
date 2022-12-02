@@ -1,0 +1,1 @@
+lar[5065]=`<b>(τὸ)</b> <i>indécl</i>. farine d’orge, HH. <i>Cer. 208</i>.<p><b>Étym</b>. <i>p.-ê. indo-europ</i>. *h₂elb<sup>h</sup>i, orge.`

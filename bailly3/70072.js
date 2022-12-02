@@ -1,0 +1,1 @@
+lar[70072]=`<b>Ὀγχηστόν·δε</b>, <i>adj</i>. à Onkhèstos, <i>avec mouv</i>. HH. <i>Merc. 186</i>.<p><b>Étym</b>. Ὀγχηστός, -δε.`

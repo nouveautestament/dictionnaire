@@ -1,0 +1,1 @@
+lar[60495]=`<b>ου (ὁ)</b> qui préside aux entretiens, aux assemblées, <i>ép. d’Apollon,</i> PLUT. <i>M. 385c ;</i> CLÉANTH. (HARP.).<p><b>Étym</b>. λέσχη, ἀνήρ.`

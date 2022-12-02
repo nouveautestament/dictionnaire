@@ -1,0 +1,1 @@
+lar[40510]=`<b>ἐρι·στάφυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> fait avec de grosses grappes de raisin, OD. <i>9, 111, 358</i>.<br><b>      2</b> riche en grappes de raisin, ARCHESTR. (ATH. <i>92e</i>) ; ANTH. <i>9, 580</i>.<p><b>Étym</b>. ἐρι-, σταφυλή.`

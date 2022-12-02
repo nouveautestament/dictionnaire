@@ -1,0 +1,1 @@
+lar[75705]=`<i>adv.</i> :<br><b>      1</b> parallèlement, ATH. <i>489b.</i><br><b>      2</b> <i>p. suite,</i> semblablement, PLUT. <i>M. 904a.</i><br><b>      3</b> de suite, désormais, PLUT. <i>M. 882b.</i><br><b>      4</b> convenablement, ARR. <i>Epict. 3, 22, 90</i>.<p><b>Étym</b>. παράκειμαι.`

@@ -1,0 +1,1 @@
+lar[9588]=`<b>εως (ἡ)</b> <font color="purple">[βᾰ]</font> emboîtement, GAL. <i>2, 737</i>.<p><b>Étym</b>. ἀντεμβαίνω.`

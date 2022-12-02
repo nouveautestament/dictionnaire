@@ -1,0 +1,1 @@
+lar[33922]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰπ]</font> empreinte, CLÉM. <i>1, 1053 Migne</i>.<p><b>Étym</b>. ἐναπειρείδω.`

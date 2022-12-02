@@ -1,0 +1,1 @@
+lar[24398]=`<b>δια·βάθρα, ας (ἡ) :<br>      1</b> échelle, STR. <i>763</i>.<br><b>      2</b> <i>particul</i>. échelle de navire, LUC. <i>Tox. 20</i>.`

@@ -1,0 +1,1 @@
+lar[51382]=`<b>ου (ὁ)</b> dauphinelle, <i>plante,</i> DIOSC. <i>3, 77 ; v</i>. δελφίνιον.`

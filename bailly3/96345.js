@@ -1,0 +1,1 @@
+lar[96345]=`<b>συν·τλάω</b> <font color="darkgreen">(<i>ao. dor</i>. συνέτλαν <font color="purple">[ᾱ]</font>)</font> supporter ensemble, EUR. <i>Alc. 411</i>.`

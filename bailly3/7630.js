@@ -1,0 +1,1 @@
+lar[7630]=`<b>ἀνα·σκιρτάω-ῶ :<br>      1</b> bondir, PLUT. <i>Crass. 25</i> ; LUC. <i>As. 40 ; fig</i>. exulter, être transporté de joie, DS. <i>19, 55</i>.<br><b>      2</b> bondir en arrière, EL. <i>N.A. 12, 29</i>.<br><b><i>Moy.</i></b> bondir, EUP. <i>22 Kock</i>.`

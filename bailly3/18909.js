@@ -1,0 +1,1 @@
+lar[18909]=`<b>ου (ὁ)</b> Bakkhidès, <i>litt</i>. fils <i>ou</i> descendant de Bacchus, <i>h</i>. STR. PLUT. <i>etc</i>.<p><b>Étym</b>. βάκχος.`

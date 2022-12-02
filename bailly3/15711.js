@@ -1,0 +1,1 @@
+lar[15711]=`<font color="purple">[ᾱ]</font> <i>inf. ao. de</i> ἀάω <i>ou de</i> ἄω.`

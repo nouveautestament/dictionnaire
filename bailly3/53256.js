@@ -1,0 +1,1 @@
+lar[53256]=`<b>καταρριζόω-ῶ</b>, enraciner, affermir solidement, <i>acc</i>. ANTH. <i>9, 708 ; fig</i>. PLAT. <i>Tim. 72b ;</i> PLUT. <i>M. 805b ; au pass</i>. prendre racine, PLAT. <i>Tim. 76b, etc</i>.<p><b>Étym</b>. κατάρριζος.`

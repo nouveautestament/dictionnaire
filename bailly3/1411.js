@@ -1,0 +1,1 @@
+lar[1411]=`<font color="purple">[ῐ]</font> <i>part. prés. pass. de</i> *ἀδίκειμι, <i>béot. c</i>. ἀδικέω, AR. <i>Ach. 914</i>.`

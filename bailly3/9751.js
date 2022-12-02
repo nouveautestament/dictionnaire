@@ -1,0 +1,1 @@
+lar[9751]=`<b>Ἀντι·άνειρα, ας (ἡ)</b> <font color="purple">[ιᾰ]</font> Antianeira, <i>f</i>. A.RH. <i>1, 56</i> ; ANTH. <i>6, 286, 287</i>.<p><b>Étym</b>. <i>v</i>. ἀντιάνειρα.`

@@ -1,0 +1,1 @@
+lar[30346]=`<b>εἰκοσά·γωνος, ος, ον</b> <font color="purple">[ᾰ]</font> à vingt angles <i>ou</i> côtés, JAMBL. <i>V. Pyth. 34</i>.<p><b>Étym</b>. εἴκοσι, γωνία.`

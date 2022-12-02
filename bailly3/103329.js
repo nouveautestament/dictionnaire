@@ -1,0 +1,1 @@
+lar[103329]=`<b>ὑπο·καταβάλλω</b> (<i>seul. ao.2 poét. 3 sg</i>. ὑποκάββαλε) renverser sous, jeter sous, <i>dat</i>. Q. SM. <i>10, 484</i>.`

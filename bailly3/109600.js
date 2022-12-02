@@ -1,0 +1,1 @@
+lar[109600]=`<b>ή, όν :<br>      1</b> rare, clairsemé, <i>en parl. de cheveux, de poils,</i> IL. <i>2, 219</i> ; ANTH. <i>9, 430</i>.<br><b>      2</b> <i>p. suite,</i> chauve, LUC. <i>D. mort. 25, 1 ; d’où en parl. de la terre,</i> nu, ARSTD. <i>t. 2, 349</i>.`

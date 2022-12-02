@@ -1,0 +1,1 @@
+lar[91772]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de Sparte <i>ou</i> des Spartiates, HDT. <i>9, 29</i> ; PAUS. <i>6, 4, 10</i> ; LUC. <i>Salt. 46</i>.<p><b>Étym</b>. Σπαρτιάτης.`

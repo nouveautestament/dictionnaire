@@ -1,0 +1,1 @@
+lar[74598]=`<b>παλιν·τοκία, ας (ἡ)</b> <font color="purple">[ᾰλ]</font> réclamation d’intérêts déjà payés, PLUT. <i>M. 295d</i>.<p><b>Étym</b>. π. τόκος.`

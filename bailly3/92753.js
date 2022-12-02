@@ -1,0 +1,1 @@
+lar[92753]=`<font color="purple">[ᾰ]</font> <i>c</i>. στεναχίζω, <i>seul. impf. act. 3 sg</i>. ἐστονάχιζε, MUS. <i>115 et</i> στονάχιζε, Q. SM. <i>7, 393, et impf. moy. 3 sg</i>. στοναχίζετο, HÉS. <i>Th. 159</i>.`

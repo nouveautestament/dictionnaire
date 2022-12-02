@@ -1,0 +1,1 @@
+lar[79205]=`<b>α, ον</b>, qui sert à arroser, NYSS.<p><b>Étym</b>. περιρραίνω.`

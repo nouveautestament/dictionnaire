@@ -1,0 +1,1 @@
+lar[69285]=`<b>ή, όν :<br>      1</b> qui n’a plus de dents, édenté, AR. <i>Pl. 266, Ach. 715</i> ; ARSTT. <i>Categ. 8, 9 et 17</i> ; THCR. <i>Idyl. 9, 21</i>.<br><b>      2</b> <i>fig</i>. émoussé, PLUT. <i>M. 786a</i>.<p><b>Étym</b>. νη-, ὀδούς.`

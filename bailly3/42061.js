@@ -1,0 +1,1 @@
+lar[42061]=`<b>εὐ·έστιος, ος, ον</b>, qui offre une belle <i>ou</i> une bonne résidence, CALL. <i>Del. 325</i>.<p><b>Étym</b>. εὖ, ἑστία.`

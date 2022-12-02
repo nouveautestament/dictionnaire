@@ -1,0 +1,1 @@
+lar[84380]=`<b>προ·ϊάπτω :<br>      1</b> jeter <i>ou</i> envoyer en avant : τινὰ Ἄϊδι, IL. <i>1, 3 ; 6, 487, ou</i> Ἀϊδωνῆϊ, IL. <i>5, 190,</i> envoyer qqn chez Hadès.<br><b>      2</b> attribuer, appliquer : τοὔνομα ἐσθλὸν ἐσθλοῖς, SIB. <i>14, 97,</i> un nom généreux à des actions généreuses.<br><b>      3</b> <i>au pass</i>. se projeter, NIC. <i>Th. 723</i>.`

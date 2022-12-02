@@ -1,0 +1,1 @@
+lar[29474]=`<b>ἐγ·καλινδέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> se rouler dans <i>ou</i> sur, <i>dat</i>. ARÉT. <i>Cur. m. acut. 1, 2 ; fig</i>. ATH. <i>262b ;</i> THÉM. <i>346b</i>.<p><b>Étym</b>. ἐν, κ.`

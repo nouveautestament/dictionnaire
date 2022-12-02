@@ -1,0 +1,1 @@
+lar[20723]=`<b>βραχύ·σημος, ος, ον</b> <font color="purple">[ᾰῠ]</font> <i>seul. cp</i>. βραχυσημότερος, qui marque des temps peu nombreux, <i>t. de pros</i>. A. QUINT. <i>p. 53</i>.<p><b>Étym</b>. βρ. σῆμα.`

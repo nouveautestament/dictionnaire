@@ -1,0 +1,1 @@
+lar[6177]=`<b>ἀμφί·καρπος, ος, ον</b>, qui porte des fruits tout autour, TH. <i>H.P. 1, 6, 12</i>.<p><b>Étym</b>. ἀ. καρπός.`

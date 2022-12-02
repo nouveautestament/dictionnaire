@@ -1,0 +1,1 @@
+lar[104464]=`<b>ὑψηλό·φωνος, ος, ον</b>, à la voix élevée <i>ou</i> retentissante, <i>en parl. d’une trompette,</i> CÆSAR. <i>Dial. 1, 20</i>.<p><b>Étym</b>. ὑ. φωνή.`

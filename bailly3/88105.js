@@ -1,0 +1,1 @@
+lar[88105]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Polliānus, <i>grammairien,</i> ANTH. <i>11, 127</i>.<p><b>Étym</b>. <i>cf</i>. Πωλιανός.`

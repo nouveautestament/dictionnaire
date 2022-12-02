@@ -1,0 +1,1 @@
+lar[110242]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. « qui aime la chair crue », <i>ép. de Dionysos, à qui l’on immolait des victimes humaines à Chios et à Ténédos,</i> ORPH. <i>H. 29, 5</i> ; EUELP. (PORPH. <i>Abst. 2, 55).</i><p><b>Étym</b>. ὠμός.`

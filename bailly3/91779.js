@@ -1,0 +1,1 @@
+lar[91779]=`<b>σπαρτό·δετος, ος, ον</b>, lié avec une corde de genêt, OPP. <i>C. 1, 156, etc</i>.<p><b>Étym</b>. σπάρτη, δέω.`

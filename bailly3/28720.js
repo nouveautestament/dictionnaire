@@ -1,0 +1,1 @@
+lar[28720]=`<b>δυσ·ομίλητος, ος, ον</b> <font color="purple">[ῠῑ]</font> d’un commerce difficile, HIÉROCL. (STOB. <i>Fl. 84, 15).</i><p><b>Étym</b>. δ. ὁμιλέω.`

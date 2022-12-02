@@ -1,0 +1,1 @@
+lar[90269]=`<b>ή, όν</b> <font color="purple">[σῐᾰ]</font> <i>c</i>. Σικυώνιος, ATH. <i>271d</i>.`

@@ -1,0 +1,1 @@
+lar[35460]=`<b>ἐξανάλωσις, εως (ἡ)</b> <font color="purple">[ᾰᾱ]</font> action de perdre, de ruiner complètement, PLUT. <i>Marc. 24</i>.<p><b>Étym</b>. ἐξαναλίσκω.`

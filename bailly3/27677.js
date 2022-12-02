@@ -1,0 +1,1 @@
+lar[27677]=`<b>δουλαγωγέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> réduire en esclavage, asservir, <i>acc</i>. DS. <i>12, 24 ; fig</i>. LGN <i>44, 6</i> ; CHARIT. <i>2, 7</i>.<br><b>      2</b> traiter comme un esclave, <i>càd</i>. durement, mortifier (les passions) <i>acc</i>. NT. <i>1Cor. 9, 27</i>.<p><b>Étym</b>. *δουλαγωγός, <i>de</i> δοῦλος, ἀγωγή.`

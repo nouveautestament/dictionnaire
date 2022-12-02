@@ -1,0 +1,1 @@
+lar[109758]=`<b>ψευσί·στυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font> qui hait le mensonge, ANTH. <i>9, 52</i>.<p><b>Étym</b>. *ψεῦσις <i>de</i> ψεύδω, στυγέω.`

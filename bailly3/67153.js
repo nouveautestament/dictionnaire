@@ -1,0 +1,1 @@
+lar[67153]=`<b>ός, όν</b>, muet, SOPH. <i>fr. 914 Dind.</i> ; CALL. <i>fr. 260</i> ; LYC. <i>1375</i>.`

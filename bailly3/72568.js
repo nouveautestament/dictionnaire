@@ -1,0 +1,1 @@
+lar[72568]=`<b>ου (ὁ)</b> = <i>lat</i>. Hordeonius, <i>n. d’h. rom</i>. PLUT. <i>Galb. 10, 22, etc</i>.`

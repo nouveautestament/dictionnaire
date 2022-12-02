@@ -1,0 +1,1 @@
+lar[50036]=`<b>(τὸ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ἐπιθυμία, ESCHL. <i>Suppl. 850</i>.`

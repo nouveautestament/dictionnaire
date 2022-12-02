@@ -1,0 +1,1 @@
+lar[52152]=`<b>κατα·βλακεύω</b> <font color="purple">[λᾱ]</font> négliger, laisser se perdre <i>ou</i> détériorer par négligence, HPC. <i>820a ;</i> XÉN. <i>An. 7, 6, 16</i>.`

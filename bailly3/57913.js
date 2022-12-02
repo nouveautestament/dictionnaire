@@ -1,0 +1,1 @@
+lar[57913]=`<b>ης, ες</b> <font color="purple">[ῑ]</font> d’orge, préparé avec de l’orge, HPC. <i>Acut. 390,</i> NONN. <i>Jo. 6, 25, 36</i>.<p><b>Étym</b>. κριθή, -ωδης.`

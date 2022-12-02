@@ -1,0 +1,1 @@
+lar[100890]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> sujet de jouissance, délices, EUR. <i>I.A. 1050</i> ; ALCIPHR. <i>1, 27, etc.</i><br><b>      2</b> sorte de parure de femme, AR. <i>fr. 309, 7</i> ; SPT. <i>Sir. 34 (31) 3</i>.<p><b>Étym</b>. τρυφάω.`

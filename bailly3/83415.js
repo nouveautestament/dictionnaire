@@ -1,0 +1,1 @@
+lar[83415]=`<font color="purple">[ᾱ]</font> <i>ion</i>. <b>πριηπίζω</b>, être dissolu, A. PL. <i>237</i>.<p><b>Étym</b>. Πρίαπος.`

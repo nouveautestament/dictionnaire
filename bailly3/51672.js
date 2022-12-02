@@ -1,0 +1,1 @@
+lar[51672]=`<b>ος, ον</b>, de sanglier, <i>càd.</i> :<br><b>      1</b> de la race du sanglier : σῦς κάπριος, IL. <i>11, 293, etc., ou subst</i>. ὁ κάπριος, IL. <i>11, 414, etc</i>. sanglier.<br><b>      2</b> de la forme d’un sanglier : πρῷραι, HDT. <i>3, 59,</i> proues en forme de hure.<p><b>Étym</b>. κάπρος.`

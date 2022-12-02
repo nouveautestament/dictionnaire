@@ -1,0 +1,1 @@
+lar[47999]=`<b>θυρα·μάχος, ος, ον</b> <font color="purple">[ῠᾱᾰ]</font> qui combat devant les portes, PRATIN. (ATH. <i>617d</i>).<p><b>Étym</b>. θύρα, μάχομαι.`

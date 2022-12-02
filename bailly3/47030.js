@@ -1,0 +1,1 @@
+lar[47030]=`<b>ῶν (οἱ)</b> les descendants de Thespios, ARSTT. <i>Mir. 100</i>.<p><b>Étym</b>. *Θέσπιος, <i>cf</i>. θέσπιος.`

@@ -1,0 +1,1 @@
+lar[93131]=`<b>ητος (ἡ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> densité, consistance, PLUT. <i>M. 96f.</i><br><b>      2</b> saveur âcre, SYN. <i>53c</i>.<p><b>Étym</b>. στύφω.`

@@ -1,0 +1,1 @@
+lar[103023]=`<b>ὑπο·βήσσω</b>, <i>att</i>. <b>ὑπο·βήττω</b>, tousser un peu, HPC. <i>Coac. 176, 189d ;</i> GAL. <i>10, 122</i> ; LUC. <i>Gall. 10, etc</i>.`

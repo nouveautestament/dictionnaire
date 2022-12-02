@@ -1,0 +1,1 @@
+lar[102985]=`<b>ή, όν</b>, qui fait dormir, soporifique, HPC. <i>424, 6</i> ; ARÉT. <i>Cur. m. acut. 1, 10</i>.<p><b>Étym</b>. ὕπνος.`

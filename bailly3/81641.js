@@ -1,0 +1,1 @@
+lar[81641]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰσ]</font> <i>c</i>. πολλαπλάσιος, POL. <i>35, 4, 4</i> ; PLUT. <i>M. 215b</i>.`

@@ -1,0 +1,1 @@
+lar[75612]=`<b>παρα·θυμιάω-ῶ</b> <font color="purple">[ῡ]</font> brûler des parfums, de l’asphalte, <i>etc</i>. auprès de, <i>dat</i>. DS. <i>3, 47</i> ; AGATHARCH. (PHOT. <i>Bibl. 458, 33</i>).`

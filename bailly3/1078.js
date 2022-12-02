@@ -1,0 +1,1 @@
+lar[1078]=`<b>ῆρος (ὁ)</b> qui est cause de, <i>gén</i>. SOPH. <i>Tr. 256</i>.<p><b>Étym</b>. ἄγχι.`

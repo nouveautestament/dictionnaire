@@ -1,0 +1,1 @@
+lar[36612]=`<b>εως (ἡ)</b> action de tourner dans le même cercle, PLAT. <i>Tim. 40c</i>.<p><b>Étym</b>. ἐπανακυκλέω.`

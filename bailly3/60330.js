@@ -1,0 +1,1 @@
+lar[60330]=`<b>λεοντο·βάμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾱ]</font> supporté par des pieds de lion (vase) ESCHL. <i>fr. 224</i>.<p><b>Étym</b>. λέων, βαίνω.`

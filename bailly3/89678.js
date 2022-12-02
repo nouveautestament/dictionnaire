@@ -1,0 +1,1 @@
+lar[89678]=`<b>σειρόω-ῶ</b>, dessécher, HPC. <i>49, 21 ; fig</i>. consumer, épuiser, SYMM. <i>Jer. 48, 12 ; cf</i>. σείριος.`

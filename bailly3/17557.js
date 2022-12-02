@@ -1,0 +1,1 @@
+lar[17557]=`<b>αὐτό·κωλος, ος, ον</b>, qui n’a que les membres, <i>càd</i>. la peau sur les os, SIM. AM. <i>Iamb. fr. 6, 20 ; sel. Bgk</i> αὐόκωλος, aux membres desséchés.<p><b>Étym</b>. αὐτός <i>ou</i> αὔω, κῶλον.`

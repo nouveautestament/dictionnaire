@@ -1,0 +1,1 @@
+lar[15356]=`<b>ἀρτί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> à l’esprit juste, DC. <i>69, 20</i>.<p><b>Étym</b>. ἄ. νόος.`

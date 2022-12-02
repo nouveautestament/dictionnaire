@@ -1,0 +1,1 @@
+lar[67119]=`<b>ης (ἡ)</b> <i>ou</i> <b>Μύλασα, ων (τὰ)</b> Mylases (<i>auj</i>. Milas) <i>v. de Carie,</i> HDT. <i>1, 171, etc.</i> ; PLUT. <i>Phoc. 18, etc</i>.<p>➳ <i>Dans les inscr. att. avec un seul</i> σ : Μυλάσα, CIA. <i>1, 233, 17c</i> (<i>447 av. J.-C.) etc. ; v. Meisterh. p. 75, 12</i>.`

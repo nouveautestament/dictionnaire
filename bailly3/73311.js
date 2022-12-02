@@ -1,0 +1,1 @@
+lar[73311]=`<b>ίτιδος</b> <font color="purple">[ᾰῑτ]</font> <i>adj. f</i>. ὀ. λίθος, <i>c</i>. ὀστρακίτης DIOSC. <i>5, 84</i>.`

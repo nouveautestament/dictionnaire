@@ -1,0 +1,1 @@
+lar[40018]=`<b>ἑπτά·σημος, ος, ον</b> <font color="purple">[ᾰ]</font> à sept temps, <i>t. de pros</i>. HÉPH. <i>3, 3 ; 11, 9 ; 12, 1</i> ; A. QUINT. <i>p. 35</i>.<p><b>Étym</b>. ἑ. σῆμα.`

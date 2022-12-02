@@ -1,0 +1,1 @@
+lar[4596]=`<b>(ἡ)</b> Alitta, <i>n. arabe d’Aphrodite,</i> HDT. <i>1, 131</i>.`

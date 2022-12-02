@@ -1,0 +1,1 @@
+lar[87679]=`<b>πυλ·άρτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. aux portes solidement closes, <i>ép. d’Hadès,</i> IL. <i>8, 367 ; 13, 415</i> ; OD. <i>11, 277</i>.<p><b>Étym</b>. πύλη, *ἄρω.`

@@ -1,0 +1,1 @@
+lar[61022]=`<b>α, ον</b> <font color="purple">[ῐ]</font> de pierre, IL. <i>23, 202</i> ; OD. <i>13, 107</i>.<p><b>Étym</b>. λίθος.`

@@ -1,0 +1,1 @@
+lar[66970]=`<b>μύ·αγρος, ου (ὁ) :<br>      1</b> serpent qui fait la chasse aux rats, NIC. <i>Th. 490</i>.<br><b>      2</b> myagrum, <i>plante,</i> DIOSC. <i>4, 117</i>.<p><b>Étym</b>. μ. ἀγρέω.`

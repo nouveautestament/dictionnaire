@@ -1,0 +1,1 @@
+lar[68241]=`<b>νεο·σπάς, άδος (ὁ, ἡ)</b> nouvellement arraché (rameau) SOPH. <i>Ant. 1201 ; cf</i>. SOPH. <i>fr. 445 Dind</i>.<p><b>Étym</b>. ν. σπάω.`

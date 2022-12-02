@@ -1,0 +1,1 @@
+lar[47767]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> dissonance sur la flûte, DH. <i>Comp. 11</i>.<p><b>Étym</b>. θρυλίζω.`

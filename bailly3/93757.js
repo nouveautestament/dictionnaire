@@ -1,0 +1,1 @@
+lar[93757]=`<b>συλ·λάμπω</b>, briller ensemble <i>ou</i> avec, <i>dat</i>. NONN. <i>Jo. 1, 6</i> ; SYN. <i>Hymn. 5, 13</i>.`

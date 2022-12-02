@@ -1,0 +1,1 @@
+lar[50222]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> petite cruche ; ποιμενικόν, SPT. <i>1Reg. 17, 40,</i> panetière de berger.<p><b>Étym</b>. <i>dim. de</i> κάδος.`

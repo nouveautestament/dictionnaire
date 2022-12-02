@@ -1,0 +1,1 @@
+lar[7870]=`<b>εως (ἡ)</b> action d’enflammer, inflammation, PLUT. <i>Lys. 12, M. 681b</i>.`

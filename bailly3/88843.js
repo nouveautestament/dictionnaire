@@ -1,0 +1,1 @@
+lar[88843]=`<font color="purple">[ῠ]</font> <i>adv. c</i>. ῥύδην OD. <i>15, 426</i>.<p><b>Étym</b>. ῥέω, -δον.`

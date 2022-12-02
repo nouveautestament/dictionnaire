@@ -1,0 +1,1 @@
+lar[66627]=`<b>μονο·σκελής, ής, ές</b>, qui se tient sur une seule jambe, STR. <i>15, 1, 61 Kram</i>.<p><b>Étym</b>. μ. σκέλος.`

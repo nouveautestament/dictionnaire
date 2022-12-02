@@ -1,0 +1,1 @@
+lar[59700]=`<b>ας (ἡ)</b> Lampeia (<i>auj</i>. Lámpia, <i>anc</i>. Đívri) <i>mt d’Arcadie,</i> A.RH. <i>1, 127, etc</i>.`

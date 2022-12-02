@@ -1,0 +1,1 @@
+lar[28622]=`<b>δυσ·λέαντος, ος, ον</b>, difficile à broyer, ARCHIG. (AÉT. <i>66, 41).</i><p><b>Étym</b>. δ. λεαίνω.`

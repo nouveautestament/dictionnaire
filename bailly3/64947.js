@@ -1,0 +1,1 @@
+lar[64947]=`<b>μεταρσιο·λέσχης, ου (ὁ)</b> qui bavarde dans les nuages, <i>càd</i>. sur des questions ardues <i>ou</i> inabordables, PLAT. <i>Sis. 359a</i>.<p><b>Étym</b>. μετάρσιος, λέσχη.`

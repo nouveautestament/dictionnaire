@@ -1,0 +1,1 @@
+lar[65808]=`<b>η, ον</b> <font color="purple">[τῐ]</font> de vermillon : τὸ μίλτινον, PLUT. <i>M. 287d</i>, vermillon.<p><b>Étym</b>. μίλτος.`

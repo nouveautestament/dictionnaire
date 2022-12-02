@@ -1,0 +1,1 @@
+lar[21291]=`<b>ου (ὁ) :<br>      1</b> prêtre de Cybèle, ARR. <i>Epict. 2, 20, 17</i> ; LUC. <i>Syr. 22 ; etc.</i><br><b>      2</b> <i>p. ext</i>. eunuque, ANTH. <i>6, 217, 220, 237</i>.`

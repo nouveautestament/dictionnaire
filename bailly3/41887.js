@@ -1,0 +1,1 @@
+lar[41887]=`<font color="darkgreen">(<i>seul. part. prés. épq</i>. εὐδιόων)</font> être calme, tranquille, serein, <i>en parl. du temps,</i> OPP. <i>H. 3, 58</i> ; ARAT. <i>899 ; de la mer,</i> A.RH. <i>2, 371 ; fig. en parl. de pers</i>. A.RH. <i>2, 903</i>.<p><b>Étym</b>. εὐδία.`

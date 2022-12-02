@@ -1,0 +1,1 @@
+lar[108722]=`<b>χολη·δόχος, ος, ον</b>, qui contient la bile : κύστις, GAL. <i>De usu part. 4, 12 ; 4, 102, 142, etc</i>. la vésicule biliaire.<p><b>Étym</b>. χολή, δέχομαι.`

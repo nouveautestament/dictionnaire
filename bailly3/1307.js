@@ -1,0 +1,1 @@
+lar[1307]=`<b>ἀ·διάβλητος, ος, ον :<br>      1</b> inattaquable, irréprochable, ARSTT. <i>Nic. 8, 4, 3</i>.<br><b>      2</b> non atteint par la délation, PLUT. <i>Brut. 8</i>.<p><b>Étym</b>. ἀ, διαβάλλω.`

@@ -1,0 +1,1 @@
+lar[72834]=`<b>ή, όν</b>, qui sert à délimiter, à définir, ARSTT. <i>An. 2, 2, 1, etc.</i> ; PLUT. <i>M. 1026d ; t. de gr</i>. ἡ ὁριστική (<i>s.-e</i>. ἔγκλισις) DYSC. <i>Synt. p. 244, 26,</i> le mode indicatif.<p><b>Étym</b>. ὁριστός.`

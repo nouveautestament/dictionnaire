@@ -1,0 +1,1 @@
+lar[45337]=`<b>ἡμερο·θαλής, ής, ές</b> <font color="purple">[ᾱ]</font> dont la végétation est due à la culture, cultivé, ANTH. <i>9, 374</i>.<p><b>Étym</b>. ἥμερος, θάλλω.`

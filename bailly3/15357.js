@@ -1,0 +1,1 @@
+lar[15357]=`<b>ἀρτιο·δύναμος, ος, ον</b> <font color="purple">[ῠᾰ]</font> dont les facteurs sont des nombres pairs, NICOM. <i>Theol. 76</i>.<p><b>Étym</b>. ἄρτιος, δύναμις.`

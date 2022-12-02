@@ -1,0 +1,1 @@
+lar[84425]=`<b>εως (ἡ)</b> <font color="purple">[ᾰθῐ]</font><br><b>      1</b> action de siéger en avant, JOS. <i>A.J. 17, 9, 5</i>.<br><b>      2</b> action de siéger en public, PLUT. <i>M. 166a</i>.<p><b>Étym</b>. προκαθίζω.`

@@ -1,0 +1,1 @@
+lar[15137]=`<b>ἀρρεν·ωπός, ός, όν</b>, d’apparence mâle <i>ou</i> virile, PLAT. <i>Leg. 802e ;</i> ARSTT. <i>H.A. 8, 2, etc.</i> ; τὸ ἀρρενωπόν, DS. <i>4, 6,</i> virilité, courage.<p>•<i> Cp</i>. -ότερος, SYN. <i>Ep. 56, 140</i>.<p>➳ <i>Fém</i>. -ωπή, LUC. <i>Fug. 27</i>.<p><b>Étym</b>. ἄρρην, ὤψ.`

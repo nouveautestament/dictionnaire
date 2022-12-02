@@ -1,0 +1,1 @@
+lar[46405]=`<font color="purple">[ᾱᾰ]</font> contempler, JOS. RHÉT. <i>(W. 3, 540).</i><p><b>Étym</b>. θέαμα.`

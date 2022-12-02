@@ -1,0 +1,1 @@
+lar[77798]=`<b>ου (τὸ)</b> Pélinnæon :<br><b>      1</b> <i>v. de Thessalie (auj</i>. ruines près de Petróporos) PD. <i>P. 10, 7</i>.<br><b>      2</b> <i>mt. de Chios (auj</i>. Pelinéo) EL. <i>N.A. 16, 39</i>.`

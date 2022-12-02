@@ -1,0 +1,1 @@
+lar[43443]=`<b>εὔ·σοος, οος, οον</b>, heureux, prospère, THCR. <i>Idyl. 24, 8</i>.<p><b>Étym</b>. εὖ, σόος.`

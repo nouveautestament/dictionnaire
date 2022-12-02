@@ -1,0 +1,1 @@
+lar[66059]=`<b>μισο·πονέω-ῶ</b> <font color="purple">[ῑ]</font> haïr le travail, PLAT. <i>Rsp. 535d</i>.<p><b>Étym</b>. μισόπονος.`

@@ -1,0 +1,1 @@
+lar[61703]=`<b>λοφάω-ῶ :<br>      1</b> avoir une huppe, BABR. <i>88, 4</i>.<br><b>      2</b> <i>p. suite,</i> avoir un panache, <i>mot com</i>. AR. <i>Pax 1211</i>.<p><b>Étym</b>. λόφος.`

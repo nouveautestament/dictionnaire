@@ -1,0 +1,1 @@
+lar[82057]=`<b>πολύ·κωλος, ος, ον</b> <font color="purple">[ῠ]</font> à plusieurs membres, D. PHAL. <i>§ 252</i>.<p><b>Étym</b>. π. κῶλον.`

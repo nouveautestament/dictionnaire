@@ -1,0 +1,1 @@
+lar[86452]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> fonction <i>ou</i> dignité de président, XÉN. <i>Mem. 3, 6, 10, Œc. 2, 6</i> ; DC. <i>41, 34, etc</i>.<p><b>Étym</b>. προστατεύω.`

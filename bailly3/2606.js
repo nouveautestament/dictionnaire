@@ -1,0 +1,1 @@
+lar[2606]=`<b>ης, ες</b>, qui concerne les flux de sang, HPC. <i>Coac. 168</i>.<p>•<i> Cp</i>. -έστερος, HPC.<p><b>Étym</b>. αἱμόρροος, -ωδης.`

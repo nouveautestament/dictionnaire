@@ -1,0 +1,1 @@
+lar[45129]=`<b>ου</b>, <i>adj. m</i>. le puissant <i>ou</i> celui qui frappe de loin, <i>ép. de Phœbus,</i> IL. <i>15, 365 ; 20, 152</i> ; HH. <i>Ap. 120</i>.<p><b>Étym</b>. <i>obscure</i>.`

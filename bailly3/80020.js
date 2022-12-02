@@ -1,0 +1,1 @@
+lar[80020]=`<b>ου (τὸ)</b> Pèdæon, <i>lieu de Troade,</i> IL. <i>13, 172</i>.`

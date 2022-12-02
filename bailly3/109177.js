@@ -1,0 +1,1 @@
+lar[109177]=`<b>χρυσό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux d’or, ORPH. <i>Lith. 288</i>.<p><b>Étym</b>. χρ. θρίξ.`

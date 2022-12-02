@@ -1,0 +1,1 @@
+lar[32330]=`<b>ἐκ·φοβέω-ῶ</b>, effrayer, épouvanter, ESCHL. <i>Pers. 606</i> ; PLAT. <i>Gorg. 483a, etc.</i> ; τινά τι, THC. <i>6, 11,</i> qqn avec qqe ch. ; <i>au pass. (avec fut. moy</i>. ἐκφοβήσομαι) être effrayé : τινα, SOPH. <i>El. 276,</i> de qqn, le redouter ; ὑπέρ τινος, SOPH. <i>O.R. 989,</i> de qqe ch.`

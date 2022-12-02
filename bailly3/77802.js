@@ -1,0 +1,1 @@
+lar[77802]=`<b>(ὁ)</b> Pélis, <i>mt de l’Attique,</i> PLUT. <i>Conj. præc. 42</i>.`

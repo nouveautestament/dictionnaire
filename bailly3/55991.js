@@ -1,0 +1,1 @@
+lar[55991]=`(<i>seul. prés</i>.) appeler, nommer, HPC. <i>269, 22</i>.<p><b>Étym</b>. κληΐζω.`

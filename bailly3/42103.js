@@ -1,0 +1,1 @@
+lar[42103]=`<i>adv</i>., bonnement, simplement, PLAT. <i>Phæd. 100d</i>.<p>•<i> Cp</i>. εὐηθέστερα, PLAT. <i>Pol. 276e ; sup</i>. εὐηθέστατα, EUR. <i>Andr. 625</i>.<p><b>Étym</b>. εὐήθης.`

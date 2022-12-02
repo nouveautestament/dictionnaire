@@ -1,0 +1,1 @@
+lar[13896]=`<i>adv</i>., sans choix préalable, involontairement, spontanément, HPC. <i>37, 16</i> ; ARSTT. <i>Nic. 2, 5, 4</i> ; DL. <i>2, 87</i>.`

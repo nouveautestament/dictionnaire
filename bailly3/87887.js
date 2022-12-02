@@ -1,0 +1,1 @@
+lar[87887]=`<b>η, ον</b> <font color="purple">[ῠῐ]</font> de feu, enflammé, ardent, ARSTT. <i>An. 3, 13, 1, etc. ; fig</i>. POL. <i>35, 1, 1</i>.<p><b>Étym</b>. πῦρ.`

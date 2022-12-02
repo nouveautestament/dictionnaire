@@ -1,0 +1,1 @@
+lar[29945]=`<b>ἔγ·χυλος, ος, ον</b> <font color="purple">[ῡ]</font> qui a du suc, succulent, TH. <i>C.P. 4, 12, 11 ; 4, 13, 3, etc.</i> ; ALEX. (ATH. <i>383d</i>).<p><b>Étym</b>. ἐν, χ.`

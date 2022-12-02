@@ -1,0 +1,1 @@
+lar[26792]=`<b>ας (ἡ)</b> convention. IS. <i>86, 4 et 15</i> ; ARSTT. <i>Nic. 9, 1, 7</i>.<p><b>Étym</b>. διομολογέω.`

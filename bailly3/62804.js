@@ -1,0 +1,1 @@
+lar[62804]=`<b>μαννο·δότης, ου</b>, <i>adj. m</i>. qui donne la manne du ciel, SIB. <i>2, 348</i>.<p><b>Étym</b>. μάννα, δίδωμι.`

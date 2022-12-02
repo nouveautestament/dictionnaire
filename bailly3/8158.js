@@ -1,0 +1,1 @@
+lar[8158]=`<b>ἀν·έγκλιτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> sans fléchir, inflexible, PLUT. <i>M. 393a.</i><br><b>      2</b> non enclitique, DYSC. <i>Synt. p. 136, 7</i>.<p><b>Étym</b>. ἀν-, ἐγκλίνω.`

@@ -1,0 +1,1 @@
+lar[37045]=`<b>ἐπ·εκχωρέω-ῶ</b> <font color="darkgreen">(<i>impf. 3 sg</i>. ἐπεξεχώρει)</font> s’avancer ensuite, ESCHL. <i>Pers. 401</i>.`

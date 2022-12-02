@@ -1,0 +1,1 @@
+lar[2434]=`<b>α, ον :<br>      1</b> de nature éthérée <i>ou</i> céleste, EUR. <i>fr. 836 Nauck</i>.<br><b>      2</b> qui s’avance, s’élève <i>ou</i> brille dans les airs, SOPH. <i>O.C. 1082</i> ; EUR. <i>Med. 440, etc.</i> ; αἰθέριον κίνυγμα, ESCHL. <i>Pr. 158,</i> figure suspendue dans les airs.<p>➳ <i>Fém</i>. -ιος, EUR. <i>fr. 836 Nauck</i>.<p><b>Étym</b>. αἰθήρ.`

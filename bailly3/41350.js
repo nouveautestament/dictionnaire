@@ -1,0 +1,1 @@
+lar[41350]=`<b>ἑτερο·μόλιος δίκη (ἡ)</b> procès où ne comparaît qu’une des deux parties, EUST. <i>Il. 999, 63</i>.<p><b>Étym</b>. ἕ. μολεῖν.`

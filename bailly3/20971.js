@@ -1,0 +1,1 @@
+lar[20971]=`<b>ή, όν</b>, mangeable, ARCHESTR. (ATH. <i>321e</i>) ; τὸ βρωτόν, XÉN. <i>Mem. 2, 1, 1 (p. opp. à</i> ποτόν), nourriture solide ; <i>ou</i> τὰ βρωτά, EUR. <i>Suppl. 1110 (p. opp. à</i> ποτά), aliments solides.<p><b>Étym</b>. <i>vb. de</i> βιβρώσκω.`

@@ -1,0 +1,1 @@
+lar[40245]=`<b>ης, ες</b>, de la grosseur <i>ou</i> de la forme d’un pois chiche, TH. <i>H.P. 6, 5, 3</i>.<p><b>Étym</b>. ἐρέβινθος, -ωδης.`

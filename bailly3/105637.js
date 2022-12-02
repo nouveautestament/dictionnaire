@@ -1,0 +1,1 @@
+lar[105637]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> <i>vb. de</i> φιλέω, ARSTT. <i>Nic. 9, 7, 6, etc.</i> ; τὸ φ. ARSTT. <i>Nic. 8, 2, 2,</i> objet d’amour.`

@@ -1,0 +1,1 @@
+lar[14156]=`<b>ότος (ὁ)</b> <font color="purple">[ᾰᾱ]</font> Ararôs, <i>poète de la moyenne comédie, fils d’Aristophane,</i> ATH. <i>123e</i>.<p><b>Étym</b>. <i>v</i>. ἀραρώς.`

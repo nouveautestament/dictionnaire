@@ -1,0 +1,1 @@
+lar[24157]=`<b>δηλο·ποιέω-ῶ</b> (<i>seul. ao. part</i>. -ήσαντος) faire connaître, PLUT. <i>Per. 33</i>.<p><b>Étym</b>. δῆλος, ποιέω.`

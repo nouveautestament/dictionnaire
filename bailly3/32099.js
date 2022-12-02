@@ -1,0 +1,1 @@
+lar[32099]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> propre à troubler, HPC. <i>404, 53</i>.<p><b>Étym</b>. ἐκταράσσω.`

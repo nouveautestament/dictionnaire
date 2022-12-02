@@ -1,0 +1,1 @@
+lar[69114]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> de nuit, nocturne, THC. <i>4, 128</i> ; XÉN. <i>Cyr. 8, 6, 18, etc.</i> ; PLAT. <i>Leg. 909a ;</i> ARSTT. <i>H.A. 8, 3</i> ; νυκτερινώτατόν τι τολμᾶν, LUC. <i>Ic. 21,</i> tenter un coup (d’audace) dans une nuit profonde.<p><b>Étym</b>. νύξ.`

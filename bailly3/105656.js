@@ -1,0 +1,1 @@
+lar[105656]=`<b>ου (ὁ)</b> Philinos, <i>h</i>. DÉM. <i>Or. 21, 161 Baiter-Sauppe, etc</i>.`

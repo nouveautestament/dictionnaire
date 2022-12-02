@@ -1,0 +1,1 @@
+lar[6756]=`<b>ἀνα·ζητέω-ῶ</b>, rechercher : τι, HDT. <i>1, 137</i> ; THC. <i>8, 33</i> ; PLAT. <i>Leg. 693a, Ap. 18b, etc</i>. qqe ch. ; τινα, DÉM. <i>1331, 1,</i> qqn.`

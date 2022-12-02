@@ -1,0 +1,1 @@
+lar[85902]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> accessible, PLUT. <i>Phil. 15</i> ; JOS. <i>B.J. 3, 7, 7</i>.<p><b>Étym</b>. <i>vb. de</i> πρόσειμι².`

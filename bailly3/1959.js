@@ -1,0 +1,1 @@
+lar[1959]=`<b>ας (ἡ)</b> impassibilité, STR. <i>61</i>.<p><b>Étym</b>. ἀθαύμαστος.`

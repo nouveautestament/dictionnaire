@@ -1,0 +1,1 @@
+lar[46427]=`<b>ατος (τὸ)</b> représentation théâtrale, NAZ. <i>3, 293 Migne</i>.<p><b>Étym</b>. θεατρίζω.`

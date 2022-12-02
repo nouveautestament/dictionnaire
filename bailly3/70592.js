@@ -1,0 +1,1 @@
+lar[70592]=`<b>οἰνο·φύτος, ος, ον</b> <font color="purple">[ῠ]</font> qui plante la vigne <i>ou</i> préside aux vignobles, <i>ép. de Lyæos,</i> NONN. <i>D. 21, 172</i>.<p><b>Étym</b>. οἶν. φύω.`

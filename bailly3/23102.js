@@ -1,0 +1,1 @@
+lar[23102]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>act</i>. celui qui dompte, <i>en parl. d’Érôs,</i> ANACR. <i>2</i>.<br><b>      2</b> <i>pass</i>. jeune taureau (<i>litt</i>. l’animal qu’on dompte), ARSTT. <i>H.A. 9, 50, 6</i> ; ANTH. <i>6, 96</i> ; BABR. <i>37, 1</i>.<p><i>cf</i>. δαμάλη <i>et</i> δάμαλις.`

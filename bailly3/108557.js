@@ -1,0 +1,1 @@
+lar[108557]=`<b>οῦ (ὁ)</b> railleur, moqueur, ARSTT. <i>Rhet. 2, 3, 9</i> ; PROCL. <i>Ptol. 230, etc</i>.<p><b>Étym</b>. χλευάζω.`

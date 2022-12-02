@@ -1,0 +1,1 @@
+lar[18116]=`<b>ἀ·φιλοστάχυος, ος, ον</b> <font color="purple">[ῐ]</font> qui n’a pas le goût <i>ou</i> l’habitude de se nourrir d’épis de blé, <i>d’où</i> famélique, <i>en parl. de la pauvreté,</i> ANTH. <i>6, 40</i>.<p><b>Étym</b>. ἀ, στάχυς.`

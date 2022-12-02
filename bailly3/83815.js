@@ -1,0 +1,1 @@
+lar[83815]=`<b>*προ·βοηθέω</b>, <i>ion</i>. <b>προ·βωθέω</b>, envoyer <i>ou</i> porter d’avance du secours, HDT. <i>8, 144</i>.`

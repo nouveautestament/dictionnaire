@@ -1,0 +1,1 @@
+lar[46056]=`<b>ωνος (ὁ)</b> Hèphæstiôn (Héphestion) :<br><b>      1</b> <i>général d’Alexandre le Grand,</i> PLUT. <i>Eum. 7, Alex. 28, etc.</i> ; LUC. <i>D. mort. 14, 4 ; Laps. 8, etc.</i><br><b>      2</b> <i>grammairien d’Alexandrie</i>.`

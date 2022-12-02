@@ -1,0 +1,1 @@
+lar[84976]=`<b>προ·ποδίζω</b>, aller en avant, s’avancer, IL. <i>13, 158, 806 ; en parl. d’un cheval,</i> HLD. <i>p. 111, 24Cor. ; des étoiles,</i> P. ALEX. <i>Apot. 15, p. 31, l. 22 Boer</i>.<p><b>Étym</b>. π. πούς.`

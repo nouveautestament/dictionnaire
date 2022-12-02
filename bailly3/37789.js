@@ -1,0 +1,1 @@
+lar[37789]=`<b>ἐπι·θεραπεύω</b> <font color="purple">[ᾰ]</font><br><b>      1</b> appliquer de nouveaux remèdes, HPC. <i>Mochl. 866</i> ; GEOP. <i>17, 23, 2</i>.<br><b>      2</b> donner tous ses soins à : τι, THC. <i>8, 47,</i> à qqe ch. <i>càd</i>. négocier une affaire avec zèle ; τινά, THC. <i>8, 84,</i> à qqn, le choyer, le courtiser, le ménager.`

@@ -1,0 +1,1 @@
+lar[20456]=`<b>ας (ἡ)</b> <font color="purple">[λῑ]</font> boulimie, faim dévorante, TIMOCL. (ATH. <i>455f</i>) ; ARSTT. <i>Probl. 7, 9</i>.<p><b>Étym</b>. βούλιμος.`

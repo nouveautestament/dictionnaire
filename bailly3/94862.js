@@ -1,0 +1,1 @@
+lar[94862]=`<b>συν·αποδίδωμι</b> <font color="purple">[δῐ]</font> rendre ensemble <i>ou</i> en même temps, SEXT. <i>M. 8, 1</i> ; PTOL. <i>1, 2, 4</i>.<br><b><i>Moy.</i></b> vendre ensemble <i>ou</i> en même temps, DC. <i>59, 21</i>.`

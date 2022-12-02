@@ -1,0 +1,1 @@
+lar[16953]=`<b>(ὁ)</b> Atrestidas, <i>h</i>. DÉM. <i>etc</i>.<p><b>Étym</b>. ἄτρεστος.`

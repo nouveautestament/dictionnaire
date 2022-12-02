@@ -1,0 +1,1 @@
+lar[99070]=`<b>ων (τὰ)</b> Tigranocertes, <i>v. d’Arménie,</i> PLUT. <i>Luc. 25, 27, etc</i>.`

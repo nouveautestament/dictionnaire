@@ -1,0 +1,1 @@
+lar[96593]=`<b>ῆς (ἡ)</b> préparatifs, <i>particul</i>. pour une mise en scène, <i>d’où</i> trompe-l’œil, illusion théâtrale, HDN <i>3, 12</i>.<p><b>Étym</b>. σύν, σκευή.`

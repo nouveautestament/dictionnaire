@@ -1,0 +1,1 @@
+lar[94097]=`<b>συμ·παρασύρω</b> <font color="purple">[ῡ <i>prés. et ao.1,</i> ῠ <i>fut. et ao.2</i>]</font> entraîner <i>ou</i> faire disparaître en même temps, PHILOD. <i>V. Herc. 1, c. 14</i>.`

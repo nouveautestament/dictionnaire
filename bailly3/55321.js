@@ -1,0 +1,1 @@
+lar[55321]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> emplâtre de cérat, DIOSC. <i>Par. 1, 214, etc</i>.<p><b>Étym</b>. κηρωτός.`

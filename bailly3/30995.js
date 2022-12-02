@@ -1,0 +1,1 @@
+lar[30995]=`<b>ἑκατογ·κεφάλας</b>, <i>seul. gén</i>. <b>-α (ὁ)</b> <font color="purple">[ᾰᾰᾱ]</font> <i>dor. c</i>. ἑκατογκέφαλος PD. <i>O. 4, 7</i> ; AR. <i>Nub. 336</i>.`

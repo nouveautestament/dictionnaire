@@ -1,0 +1,1 @@
+lar[80880]=`<b>ή, όν</b>, comblé de biens, SPT. <i>Deut. 30, 5</i>.<p><b>Étym</b>. <i>vb. de</i> πλεονάζω.`

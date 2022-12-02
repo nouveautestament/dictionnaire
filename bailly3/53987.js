@@ -1,0 +1,1 @@
+lar[53987]=`<b>κατ·ευπαθέω-ῶ</b> <font color="purple">[πᾰ]</font> dissiper dans la mollesse, PHRYN. <i>(Bkk. p. 47, 1).</i><p><b>Étym</b>. κ. εὐπαθής.`

@@ -1,0 +1,1 @@
+lar[8900]=`<font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> <font color="purple">[ᾰκ]</font> faire griller sur des charbons, AR. <i>Pax 1136</i>.<p><b>Étym</b>. ἄνθραξ.`

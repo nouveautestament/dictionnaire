@@ -1,0 +1,1 @@
+lar[10474]=`<b>ἀντ·ισχύω</b>, repousser par la force, résister à, <i>gén</i>. SPT. <i>Sap. 7, 30</i> ; DC. <i>48, 11</i>.`

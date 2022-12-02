@@ -1,0 +1,1 @@
+lar[59367]=`<b>ου (ἡ)</b> <i>sorte de plante,</i> DINON (ATH. <i>514a</i>).`

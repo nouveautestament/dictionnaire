@@ -1,0 +1,1 @@
+lar[41760]=`<b>ου (τὸ)</b> sorte de laurier, GEOP. <i>11, 3, 4</i>.<p><b>Étym</b>. εὐγενής.`

@@ -1,0 +1,1 @@
+lar[89722]=`<b>ῶν (οἱ)</b> les Séleucides, <i>dynastie syrienne,</i> APP. <i>Syr. 48, 49, 65, 70</i>.<p><b>Étym</b>. Σέλευκος.`

@@ -1,0 +1,1 @@
+lar[45713]=`<b>α, ον</b> <font color="purple">[πᾰ]</font> <i>c</i>. ἡπατικός, HPC. <i>279, 43</i>.`

@@ -1,0 +1,1 @@
+lar[24500]=`<b>ή, όν</b>, qu’on peut discerner <i>ou</i> reconnaître, BAS. <i>3, 303</i>.<p><b>Étym</b>. <i>vb. de</i> διαγιγνώσκω.`

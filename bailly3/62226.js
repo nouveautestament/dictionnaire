@@ -1,0 +1,1 @@
+lar[62226]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> essuie-mains, LGN <i>32, 5</i>.<p><b>Étym</b>. μάσσω.`

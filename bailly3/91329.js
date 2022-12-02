@@ -1,0 +1,1 @@
+lar[91329]=`<b>σκυλο·φόρος, ος, ον</b> <font color="purple">[ῡ]</font> qui porte <i>ou</i> emporte des dépouilles, ANTH. <i>6, 161 ; particul. à Rome, ép. de Jupiter Feretrius,</i> DH. <i>2, 34</i>.<p><b>Étym</b>. σκῦλον, φέρω.`

@@ -1,0 +1,1 @@
+lar[62290]=`<i>acc</i>. άϊν (ἡ) <i>mot béot</i>. nénuphar, <i>plante,</i> TH. <i>H.P. 9, 13, 1</i>.`

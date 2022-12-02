@@ -1,0 +1,1 @@
+lar[68507]=`<b>Νήϊσται πύλαι (αἱ)</b> la Nouvelle porte, <i>à Thèbes,</i> ESCHL. <i>Sept. 460</i> ; EUR. <i>Ph. 1104</i>.`

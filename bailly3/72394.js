@@ -1,0 +1,1 @@
+lar[72394]=`<b>ὁποσά·μηνος, ος, ον</b> <font color="purple">[ᾰ]</font> âgé de combien de mois, HPC. <i>1120f</i>.<p><b>Étym</b>. ὁπόσος, μήν.`

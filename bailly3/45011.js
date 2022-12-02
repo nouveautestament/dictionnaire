@@ -1,0 +1,1 @@
+lar[45011]=`<b>ἡδύ·οσμος, ος, ον</b>, à l’odeur agréable, AR. <i>fr. 116 ; subst</i>. ὁ ἡδύοσμος, ARSTT. <i>Plant. 1, 7, 1 (cf</i>. STR. <i>344</i>) ; <i>et</i> τὸ ἡδύοσμον, TH. <i>H.P. 7, 7, 1,</i> menthe, <i>plante odoriférante</i>.<p><b>Étym</b>. ἡ. ὀσμή.`

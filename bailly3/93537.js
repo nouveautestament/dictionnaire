@@ -1,0 +1,1 @@
+lar[93537]=`<font color="purple">[ῐτ]</font> <i>adv</i>., par comparaison, DL. <i>9, 75</i>.`

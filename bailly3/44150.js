@@ -1,0 +1,1 @@
+lar[44150]=`<b>ἐφ·υγραίνω</b>, humecter, <i>d’où au pass.</i> :<br><b>      1</b> devenir humide <i>ou</i> moite ; ARSTT. <i>H.A. 10, 3, 12</i>.<br><b>      2</b> être amolli, relâché, <i>en parl. des intestins,</i> HPC. <i>Epid. 1, 948</i>.<p><b>Étym</b>. ἐπί, ὑργ.`

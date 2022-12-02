@@ -1,0 +1,1 @@
+lar[29036]=`<b>δυσωδέω-ῶ</b> <font color="purple">[ῠ]</font> exhaler une mauvaise odeur, PHIL. <i>2, 563 Migne</i>.<p><b>Étym</b>. δυσώδης.`

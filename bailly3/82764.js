@@ -1,0 +1,1 @@
+lar[82764]=`<b>ή, όν :<br>      1</b> qui a la faculté de marcher, ARSTT. <i>H.A. 1, 1, 19, etc.</i><br><b>      2</b> qui concerne la marche, ARSTT. <i>An. 3, 9, 5</i>.<br><b>      3</b> qui concerne une troupe en marche, POL. <i>12, 19, 7, etc</i>.<p><b>Étym</b>. πορεύω.`

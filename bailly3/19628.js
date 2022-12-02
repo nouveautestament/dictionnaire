@@ -1,0 +1,1 @@
+lar[19628]=`<b>βηχός</b> (ἡ <i>ou</i> ὁ) toux.<p>➳ ἡ β. PHRYN. COM. (ATH. <i>53a</i>) ; ARSTT. <i>An. 2, 8, 11</i> ; TH. <i>H.P. 3, 18, 3</i> ; ὁ β. THC. <i>2, 49 ; genre incert</i>. HPC. <i>Progn. 41 ; Aph. 1247</i>.<p><b>Étym</b>. <i>cf</i>. βήσσω.`

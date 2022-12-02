@@ -1,0 +1,1 @@
+lar[99483]=`<b>ης, ες</b>, de telle sorte, de la même sorte, LUC. <i>Pisc. 20</i> ; SEXT. <i>M. 8, 206, etc</i>.<p><b>Étym</b>. τοιοῦτος, -ωδης.`

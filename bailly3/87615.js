@@ -1,0 +1,1 @@
+lar[87615]=`<font color="purple">[ῠῐ]</font> <i>adv</i>., avec consistance, <i>d’où</i> :<br><b>      1</b> fermement, solidement, IL. <i>9, 475</i> ; OD. <i>2, 344</i>.<br><b>      2</b> <i>p. suite,</i> fortement, OD. <i>20, 84 ; 23, 360</i>.<br><b>      3</b> avec prudence (<i>sel. d’autres</i> avec force) IL. <i>21, 293</i> ; OD. <i>1, 279</i>.<p><b>Étym</b>. πυκινός.`

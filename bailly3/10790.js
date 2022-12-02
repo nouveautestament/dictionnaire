@@ -1,0 +1,1 @@
+lar[10790]=`<b>εως</b>, <i>ion</i>. <b>-ιος</b>, Anysis :<br><b>      1 (ὁ)</b> <i>roi d’Égypte,</i> HDT. <i>2, 137</i>.<br><b>      2 (ἡ)</b> <i>v. d’Égypte,</i> HDT. <i>2, 137</i>.`

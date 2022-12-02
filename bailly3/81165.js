@@ -1,0 +1,1 @@
+lar[81165]=`<b>ωτός (ὁ)</b> mulet (<i>litt</i>. le nageur) <i>poisson aussi nommé</i> κεστρεύς, EPICH. (ATH. <i>288b</i>).<p><b>Étym</b>. πλώω.`

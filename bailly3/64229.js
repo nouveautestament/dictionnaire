@@ -1,0 +1,1 @@
+lar[64229]=`<b>άδος (ἡ)</b> sorte de sardine, AR. <i>Vesp. 493</i> ; COM. (ATH. <i>357d</i>) <i>etc</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

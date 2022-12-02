@@ -1,0 +1,1 @@
+lar[52978]=`<b>κατα·ξύω :<br>      1</b> couper la surface, LUC. <i>Nigr. 27</i>.<br><b>      2</b> racler, gratter, polir, <i>acc</i>. TH. <i>H.P. 3, 15, 2 ; d’où</i> tailler, AGATHARCH. (PHOT. <i>Bibl. p. 448, 4 Bkk</i>.).`

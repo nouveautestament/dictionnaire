@@ -1,0 +1,1 @@
+lar[70599]=`<b>ατος (τὸ)</b> distribution de vin, PLUT. <i>Phoc. 6</i>.<p><b>Étym</b>. οἰνοχοέω.`

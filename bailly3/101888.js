@@ -1,0 +1,1 @@
+lar[101888]=`<b>ὑπ·αιδέομαι-οῦμαι</b> <font color="purple">[ῠ]</font> s’incliner avec respect : τινά, XÉN. <i>Hell. 5, 3, 20,</i> devant qqn.`

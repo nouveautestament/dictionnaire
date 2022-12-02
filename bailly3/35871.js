@@ -1,0 +1,1 @@
+lar[35871]=`<i>adv</i>., de manière à vérifier exactement, DÉM. <i>215, 9</i>.`

@@ -1,0 +1,1 @@
+lar[80280]=`<b>πικρό·γλωσσος, ος, ον</b>, au langage amer, ESCHL. <i>Sept. 787</i>.<p><b>Étym</b>. π. γλῶσσα.`

@@ -1,0 +1,1 @@
+lar[26273]=`<b>ή, όν</b>, qui sert à expliquer, PROCL. <i>Plat. 1 Alc. 2, 17, Creuz</i>.`

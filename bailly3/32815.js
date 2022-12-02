@@ -1,0 +1,1 @@
+lar[32815]=`<font color="purple">[ῐ]</font> <i>adv</i>., en spirale, CLÉOM. <i>15, 5</i> ; DIOSC. <i>2, 195</i> ; DL. <i>10, 104</i> ; CLÉM. <i>1, 538a Migne</i>.<p><b>Étym</b>. ἑλικοειδής.`

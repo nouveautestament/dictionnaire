@@ -1,0 +1,1 @@
+lar[89835]=`<b>ή, όν</b>, digne d’être honoré, auguste, ESCHL. <i>Pr. 812</i> ; DC. <i>53, 16</i>.<p><b>Étym</b>. <i>vb. de</i> σέβω.`

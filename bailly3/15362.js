@@ -1,0 +1,1 @@
+lar[15362]=`<b>ἀρτιο·ταγής, ής, ές</b> <font color="purple">[τᾰ]</font> qui occupe la place d’un nombre pair, représenté par un nombre pair, NICOM. <i>Theol. 77</i>.<p><b>Étym</b>. ἄρτιος, τάσσω.`

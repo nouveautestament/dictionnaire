@@ -1,0 +1,1 @@
+lar[82222]=`<b>*πολύ·παταξ</b>, <i>seul. acc</i>. πολυπάταγα <font color="purple">[ῠᾰᾰᾰ]</font> au bruit retentissant, PRATIN. (ATH. <i>617c</i>).<p><b>Étym</b>. π. πάταγος.`

@@ -1,0 +1,1 @@
+lar[76968]=`<font color="purple">[ῐ]</font> <i>vb. de</i> πάρειμι², LUC. <i>M. cond. 42, et</i> παριτητέα, THC. <i>1, 72</i>.`

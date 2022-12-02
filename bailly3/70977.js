@@ -1,0 +1,1 @@
+lar[70977]=`<b>ὀλιγ·αρκής, ής, ές</b> <font color="purple">[ῐ]</font> qui se contente de peu, LUC. <i>Tim. 57</i> ; τὸ ὀλιγαρκές, LUC. <i>Tim. 54,</i> tempérance.<p><b>Étym</b>. ὀ. ἄρκέω.`

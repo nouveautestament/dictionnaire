@@ -1,0 +1,1 @@
+lar[73839]=`<b>ὀφιο·ειδής, ής, ές</b>, semblable à un serpent, DIOSC. <i>2, 196</i>.<p><b>Étym</b>. ὄφις, εἶδος.`

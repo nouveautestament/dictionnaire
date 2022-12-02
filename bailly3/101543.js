@@ -1,0 +1,1 @@
+lar[101543]=`<b>ὑδρο·θήκη, ης (ἡ)</b> réservoir d’eau douce dans la cale d’un navire, ATH. <i>208a</i>.<p><b>Étym</b>. ὕδωρ, θήκη.`

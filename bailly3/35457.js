@@ -1,0 +1,1 @@
+lar[35457]=`<b>ἐξ·ανακρούομαι</b> (<i>seul. part. ao</i>. -ουσάμενοι) ramer en arrière, reculer, HDT. <i>6, 115</i>.`

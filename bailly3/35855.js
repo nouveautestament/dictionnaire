@@ -1,0 +1,1 @@
+lar[35855]=`<b>ἐξ·ερωτάω-ῶ</b>, interroger : τινα, EUR. <i>fr. 583,</i> qqn ; ἐξ. τι, PD. <i>P. 9, 79,</i> chercher à savoir qqe ch.`

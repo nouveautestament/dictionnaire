@@ -1,0 +1,1 @@
+lar[13373]=`<i>vb. de</i> ἀποσπάω PHIL. BYZ. <i>Bel. 92</i>.`

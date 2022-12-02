@@ -1,0 +1,1 @@
+lar[66045]=`<b>μισό·νοθος, ος, ον</b> <font color="purple">[ῑ]</font> qui hait le bâtard (<i>càd</i>. Hèraklès) <i>ép. d’Hèra,</i> A. PL. <i>94</i>.<p><b>Étym</b>. μ. νόθος.`

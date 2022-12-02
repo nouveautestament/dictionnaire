@@ -1,0 +1,1 @@
+lar[32812]=`<b>ἑλικο·γραφέω-ῶ</b> <font color="purple">[ῐᾰ]</font> décrire une ligne sinueuse, AGATHÉM. <i>2, 10</i>.<p><b>Étym</b>. ἑ. -γραφος <i>de</i> γράφω.`

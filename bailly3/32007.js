@@ -1,0 +1,1 @@
+lar[32007]=`<b>ἐκ·ρινέω-ῶ</b> <font color="purple">[ῑ]</font> (<i>inf. ao</i>. ἐκρινῆσαι) ronger, <i>fig. acc</i>. ALCIPHR. <i>3, 33</i>.`

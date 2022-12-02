@@ -1,0 +1,1 @@
+lar[16569]=`<b>εως (ἡ)</b> <font color="purple">[φᾰῐσ]</font> action d’assurer la sécurité, JOS. <i>A.J. 18, 1, 1</i>.<p><b>Étym</b>. ἀσφαλίζω.`

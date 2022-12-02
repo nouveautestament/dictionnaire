@@ -1,0 +1,1 @@
+lar[106609]=`<b>εως (ἡ) :<br>      1</b> action d’aller et de venir, d’aller souvent, de fréquenter, XÉN. <i>Hell. 1, 6, 7</i> ; PLAT. <i>Leg. 764d.</i><br><b>      2</b> <i>particul</i>. fréquentation de l’école, assiduité à des leçons, PLAT. <i>Leg. 764d au plur. ; d’où</i> école : ἐκ φοιτήσεως Περικλύτου, PAUS. <i>5, 17, 4,</i> de l’école de Périklytos.<p><b>Étym</b>. φοιτάω.`

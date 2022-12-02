@@ -1,0 +1,1 @@
+lar[52333]=`<b>κατα·διψάω-ῶ</b>, tourmenter par la soif, altérer, EUM. <i>p. 149</i>.`

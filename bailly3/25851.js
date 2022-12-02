@@ -1,0 +1,1 @@
+lar[25851]=`<b>δια·φιλοσοφέω-ῶ</b> <font color="purple">[φῐ]</font> philosopher avec zèle, H. PONT. <i>p. 166</i>.`

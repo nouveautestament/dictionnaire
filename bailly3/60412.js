@@ -1,0 +1,1 @@
+lar[60412]=`<b>λεπτο·κάρυον, ου (τὸ)</b> noisette (<i>propr</i>. noix mince) DIOSC. <i>1, 179</i> ; GEOP. <i>10, 3, 3</i>.`

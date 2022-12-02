@@ -1,0 +1,1 @@
+lar[22009]=`<b>ιδος, ιν (ἡ)</b> Gigis, <i>f</i>. DIN. (PLUT. <i>Artax. 19</i>).`

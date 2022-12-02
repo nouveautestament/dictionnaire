@@ -1,0 +1,1 @@
+lar[8781]=`<b>Ἀνθεμοεισὶς λίμνη (ἡ)</b> lac d’Anthémoeisis, <i>en Bithynie,</i> A.RH. <i>2, 726</i>.<p><b>Étym</b>. ἀνθεμόεις.`

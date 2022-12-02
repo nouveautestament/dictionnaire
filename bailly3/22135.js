@@ -1,0 +1,1 @@
+lar[22135]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> action de rendre doux, édulcoration, TH. <i>C.P. 4, 4, 5</i>.<p><b>Étym</b>. γλυκαίνω.`

@@ -1,0 +1,1 @@
+lar[41534]=`<b>εὐ·αής, ής, ές</b> <font color="purple">[ᾱ]</font><br><b>      1</b> <i>pass</i>. bien aéré, HÉS. <i>O. 597</i>.<br><b>      2</b> <i>act</i>. au souffle favorable, HDT. <i>2, 117</i> ; EUR. <i>Hel. 1504 ; fig</i>. SOPH. <i>Ph. 828</i>.<p><b>Étym</b>. εὖ, ἄημι.`

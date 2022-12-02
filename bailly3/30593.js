@@ -1,0 +1,1 @@
+lar[30593]=`<b>εως (ἡ)</b> pacification, JAMBL. <i>V. Pyth. c. 16, 69</i>.<p><b>Étym</b>. εἰρηνεύω.`

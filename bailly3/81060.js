@@ -1,0 +1,1 @@
+lar[81060]=`<b>ατος (τὸ)</b> construction en briques, POÈT. (HSCH. <i>v° Τιρύνθιον</i>) ; POÈT. (CLÉM. <i>414</i>).`

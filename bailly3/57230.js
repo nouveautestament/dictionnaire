@@ -1,0 +1,1 @@
+lar[57230]=`<b>ης, ες</b>, semblable à du plantain <i>ou</i> corne de bœuf, TH. <i>H.P. 1, 10, 5, conj. p</i>. σκολοπώδης.<p><b>Étym</b>. κορωνόπους, -ωδης.`

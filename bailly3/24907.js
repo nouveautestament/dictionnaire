@@ -1,0 +1,1 @@
+lar[24907]=`<b>ή, όν</b> <font color="purple">[λᾰ]</font> dont on s’entretient, <i>d’où</i> célébré par tous, NYSS. <i>2, 1047b</i>.<p><b>Étym</b>. <i>vb. de</i> διαλαλέω.`

@@ -1,0 +1,1 @@
+lar[94457]=`<i>gén</i>. <b>ονος (ὁ, ἡ) :<br>      1</b> qui délibère avec, conseiller, IL. <i>2, 372</i> ; NAUMACH. <i>22</i>.<br><b>      2</b> qui est d’accord avec, unanime, ANTH. <i>9, 365</i> ; A.RH. (ATH. <i>283f</i>).<p><b>Étym</b>. συμφράζω.`

@@ -1,0 +1,1 @@
+lar[357]=`<b>Ἀγαπ·ήνωρ, ορος (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Agapènor, <i>h</i>. IL. <i>2, 609</i>.<p><b>Étym</b>. <i>v</i>. ἀγαπήνωρ.`

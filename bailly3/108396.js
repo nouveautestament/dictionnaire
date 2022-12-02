@@ -1,0 +1,1 @@
+lar[108396]=`<b>ῶν (οἱ)</b> collatéraux qui héritent à défaut de plus proche parent, IL. <i>5, 158</i> ; HÉS. <i>Th. 607</i> ; Q. SM. <i>8, 299</i>.<p><b>Étym</b>. χῆρος.`

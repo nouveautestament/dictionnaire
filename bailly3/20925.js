@@ -1,0 +1,1 @@
+lar[20925]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> enivré avec de la bière, ANTIPH. (ATH. <i>485b</i>).<p><b>Étym</b>. βρῦτον.`

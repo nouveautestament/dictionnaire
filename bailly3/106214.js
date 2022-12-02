@@ -1,0 +1,1 @@
+lar[106214]=`<b>φιλοψυχέω-ῶ</b> <font color="purple">[ῐῡ]</font> aimer la vie, tenir à la vie, <i>d’où</i> être lâche, TYRT. <i>1, 18</i> ; EUR. <i>Hec. 315, Her. 518, 533</i> ; DÉM. <i>1397, 27, etc</i>.<p><b>Étym</b>. φιλόψυχος.`

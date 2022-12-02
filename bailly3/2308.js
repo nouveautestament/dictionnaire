@@ -1,0 +1,1 @@
+lar[2308]=`<b>αἰγο·νόμος, ος, ον</b>, où l’on mène paître les chèvres, DH. <i>1, 37</i> ; ANTH. <i>7, 397</i>.`

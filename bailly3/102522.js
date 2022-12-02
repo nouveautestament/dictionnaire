@@ -1,0 +1,1 @@
+lar[102522]=`<b>ὑπερ·θαυμάζω :<br>      1</b> être étonné à l’excès, être frappé d’étonnement, <i>acc</i>. HDT. <i>3, 3</i> ; LUC. <i>V.H. 1, 134 ; avec</i> ὅτι, LUC. <i>Am. 52</i>.<br><b>      2</b> admirer grandement, <i>acc</i>. ATH. <i>523d ;</i> LUC. <i>Zeux. 3</i>.<p>➳ <i>Ion</i>. ὑπερθωμάζω, HDT. <i>l. c</i>.`

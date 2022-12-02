@@ -1,0 +1,1 @@
+lar[95433]=`<b>συν·εκφεύγω</b>, s’enfuir avec, PHILSTR. <i>Im. 2, 2, p. 813</i>.`

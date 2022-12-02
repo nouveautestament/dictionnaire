@@ -1,0 +1,1 @@
+lar[90863]=`<b>ου</b>, <i>adj. m</i>. de Skèpsis, <i>v. de Mysie,</i> XÉN. <i>Hell. 3, 1, 21, etc</i>.<p><b>Étym</b>. Σκῆψις.`

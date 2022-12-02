@@ -1,0 +1,1 @@
+lar[30607]=`<b>εἰρηνο·ποιός, ός, όν :<br>      1</b> pacificateur, XÉN. <i>Hell. 6, 3, 4</i> ; DC. <i>44, 49 ; à Rome,</i> fécial, PLUT. <i>M. 279b.</i><br><b>      2</b> pacifique, NT. <i>Matth. 5, 9</i>.<p><b>Étym</b>. εἰ. ποιέω.`

@@ -1,0 +1,1 @@
+lar[25031]=`<b>δια·μέμφομαι</b>, blâmer fortement : τινά τινος, ISOCR. <i>26a ;</i> τινα ἐπί τινι, DC. <i>46, 51</i>, qqn de qqe ch. ; τινὰ ὅτι, ARSTT. <i>P.A. 3, 2, 10</i>, qqn de ce que, <i>etc.</i> ; δ. τι, THC. <i>8, 89</i>, critiquer qqe ch.`

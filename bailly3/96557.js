@@ -1,0 +1,1 @@
+lar[96557]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> suture, HPC. <i>Off. 743</i> ; ORIB. <i>p. 108, 109, 112 Mai</i>.<p><b>Étym</b>. συρράπτω.`

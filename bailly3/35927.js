@@ -1,0 +1,1 @@
+lar[35927]=`<b>ἑξηκοντα·έξ</b>, <i>n. de n. indécl</i>. soixante-six, SPT. <i>Gen. 46, 26 ; 3Reg. 10, 14</i>.`

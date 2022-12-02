@@ -1,0 +1,1 @@
+lar[104949]=`<b>ος, ον</b> <font color="purple">[σᾱ]</font> <i>c</i>. Φαρσάλιος, EUR. <i>I.A. 812</i>.`

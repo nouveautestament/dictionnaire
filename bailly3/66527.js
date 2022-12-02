@@ -1,0 +1,1 @@
+lar[66527]=`<b>μονο·διαιτησία, ας (ἡ)</b> genre de vie solitaire, CLÉM. <i>423</i>.<p><b>Étym</b>. μ. διαιτάω.`

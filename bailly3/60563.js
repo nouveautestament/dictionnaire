@@ -1,0 +1,1 @@
+lar[60563]=`<b>λευκο·θέα, ας (ἡ)</b> état de celui qui voit blanc, PLUT. <i>M. 440f</i>.<p><b>Étym</b>. λ. θεάομαι.`

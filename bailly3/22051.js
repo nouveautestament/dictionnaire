@@ -1,0 +1,1 @@
+lar[22051]=`<b>ου (τὸ)</b> <font color="purple">[ῑῐδ]</font> petit glaucin, <i>poisson de mer bleuâtre,</i> AMPHIS (ATH. <i>295f</i>).<p><b>Étym</b>. *γλαυκῖνος ; <i>cf</i>. γλαύκινος.`

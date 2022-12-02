@@ -1,0 +1,1 @@
+lar[74940]=`<b>ου</b> <font color="purple">[δῑ]</font> <i>adj. m</i>. de Pandiôn, <i>càd</i>. Athénien, ANTH. <i>App. 192</i>.`

@@ -1,0 +1,1 @@
+lar[89895]=`<b>ου (ὁ)</b> = <i>lat</i>. Sĕvērus, <i>n. d’h. rom</i>. PLUT. <i>Adul. ab am. 18, etc</i>.`

@@ -1,0 +1,1 @@
+lar[9958]=`<b>ἀντι·κελεύω</b>, donner un ordre à son tour, THC. <i>1, 128, 139</i>.`

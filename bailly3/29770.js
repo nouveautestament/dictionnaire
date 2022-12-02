@@ -1,0 +1,1 @@
+lar[29770]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui se cache dans, caché, ANTH. <i>5, 124</i>.<p><b>Étym</b>. ἔγκρυφος.`

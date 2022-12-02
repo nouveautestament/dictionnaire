@@ -1,0 +1,1 @@
+lar[67413]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> action de fermer les yeux, la bouche, ARÉT. <i>Caus. m. diut. 2, 1</i>.<br><b>      2</b> obstruction (des pores, des intestins, <i>etc</i>.) ARÉT. <i>p. 51, 9</i>.<p><b>Étym</b>. μύω.`

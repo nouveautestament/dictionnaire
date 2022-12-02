@@ -1,0 +1,1 @@
+lar[38361]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> furieux, fou, POL. (ATH. <i>45c, 193e, 439a</i>) ; PLUT. <i>Dio. 47</i>.<br><b>      2</b> passionné : πρός τινα, A. TAT. <i>8, 1</i> ; ἔς τινα, PAUS. <i>1, 6, 8,</i> possédé d’une passion furieuse pour qqn.<p><b>Étym</b>. ἐπιμαίνομαι.`

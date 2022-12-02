@@ -1,0 +1,1 @@
+lar[6875]=`<i>adv</i>., sans cause, PLUT. <i>M. 1015b ;</i> SEXT. <i>3, 67</i>.<p><b>Étym</b>. ἀναίτιος.`

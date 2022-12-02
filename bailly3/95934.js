@@ -1,0 +1,1 @@
+lar[95934]=`<b>ή, όν</b>, propre à échauffer ensemble, GAL.<p><b>Étym</b>. συνθερμαίνω.`

@@ -1,0 +1,1 @@
+lar[26609]=`<b>υος (ὁ)</b> Diktys, <i>de Crète, écrivain,</i> GRAMM.`

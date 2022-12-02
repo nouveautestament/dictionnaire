@@ -1,0 +1,1 @@
+lar[76076]=`<b>ή, όν</b>, atteint d’une paralysie partielle <i>ou</i> légère, HPC. <i>Aër. 281, etc</i>.<p><b>Étym</b>. παραπληγία.`

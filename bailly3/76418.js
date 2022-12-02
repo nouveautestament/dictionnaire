@@ -1,0 +1,1 @@
+lar[76418]=`<b>παρα·φράζω :<br>      1</b> paraphraser, PHIL. <i>2, 140, etc.</i><br><b>      2</b> altérer le sens, ORIG. <i>1, 844, etc. Migne</i>.`

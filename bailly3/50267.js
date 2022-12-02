@@ -1,0 +1,1 @@
+lar[50267]=`<b>καθ·αμμίζω</b> <font color="purple">[κᾰ]</font> couvrir <i>ou</i> remplir de sable, ARSTT. <i>H.A. 9, 37, 5</i>.<p><b>Étym</b>. κ. ἅμμος.`

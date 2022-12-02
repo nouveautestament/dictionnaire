@@ -1,0 +1,1 @@
+lar[32230]=`<b>ῆς (ἡ)</b> <font color="purple">[ῑ]</font> <i>c</i>. ἔκτριψις, SPT. <i>Deut. 4, 26</i>.`

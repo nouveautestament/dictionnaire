@@ -1,0 +1,1 @@
+lar[110033]=`<b>ψυχρο·φόβος, ος, ον</b>, qui craint l’eau froide, GAL. <i>Meth. 10, 267</i>.<p><b>Étym</b>. ψ. φέβομαι.`

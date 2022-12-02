@@ -1,0 +1,1 @@
+lar[85115]=`<b>προσ·αλίζομαι</b> <font color="purple">[ᾰ]</font> être rassemblé en outre, EN. TACT. <i>Pol. 17</i>.`

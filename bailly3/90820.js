@@ -1,0 +1,1 @@
+lar[90820]=`<b>ατος (τὸ)</b> <i>mauv. prononciation d’un Scythe pour</i> σχῆμα, AR. <i>Th. 1188</i>.`

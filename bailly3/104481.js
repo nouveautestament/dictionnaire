@@ -1,0 +1,1 @@
+lar[104481]=`<b>ὑψί·γονος, ος, ον</b> <font color="purple">[ῐ]</font> qui naît dans les régions élevées, NONN. <i>D. 27, 98</i> ; NAZ.<p><b>Étym</b>. ὕ. γίγνομαι.`

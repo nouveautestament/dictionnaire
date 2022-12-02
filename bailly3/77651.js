@@ -1,0 +1,1 @@
+lar[77651]=`<b>ας (ἡ)</b> <font color="purple">[ᾱτ]</font> piraterie, ORIG. (EUS. <i>P.E. 282b</i>).<p><b>Étym</b>. πειρατεύω.`

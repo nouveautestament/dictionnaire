@@ -1,0 +1,1 @@
+lar[77305]=`<b>ης (ἡ)</b> la Patalène, <i>pays dans l’Inde,</i> NONN. <i>D. 26, 89 ; 27, 156, etc</i>.`

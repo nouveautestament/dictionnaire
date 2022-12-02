@@ -1,0 +1,1 @@
+lar[92062]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> en se tenant debout, PLAT. COM. <i>2-2, 659 Mein.</i><br><b>      2</b> selon le poids, NIC. <i>Al. 327</i>.<p><b>Étym</b>. ἵστημι, -δην ; <i>cf</i>. στάδιος.`

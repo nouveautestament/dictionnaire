@@ -1,0 +1,1 @@
+lar[54801]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la façon des potiers, ORIG. <i>3, 241b</i>.`

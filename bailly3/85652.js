@@ -1,0 +1,1 @@
+lar[85652]=`<b>προσ·επεύχομαι</b>, ajouter des vœux, des prières <i>ou</i> ajouter à ses vœux, à ses prières, MOSCHION TR. (STOB. <i>Ecl. 1, 242</i>) ; <i>avec une prop. inf</i>. DC. <i>55, 9 ; 73, 4</i>.`

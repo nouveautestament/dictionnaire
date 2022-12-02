@@ -1,0 +1,1 @@
+lar[50076]=`<b>ἰχθυο·φόρος, ος, ον :<br>      1</b> qui produit du poisson, CTÉS. (PHOT. <i>Bibl. 46, 32</i>).<br><b>      2</b> qui porte <i>ou</i> sert à transporter du poisson, SPT. <i>Job 40, 26</i>.<p><b>Étym</b>. ἰ. φέρω.`

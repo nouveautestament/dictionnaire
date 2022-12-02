@@ -1,0 +1,1 @@
+lar[101542]=`<b>όεσσα, όεν</b>, aux rives humides, EUR. <i>Hel. 349</i>.<p><b>Étym</b>. ὕδωρ.`

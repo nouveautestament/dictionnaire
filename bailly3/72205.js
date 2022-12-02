@@ -1,0 +1,1 @@
+lar[72205]=`<b>ης, ες</b>, qui ressemble à du vinaigre, aigre, acide, ARSTT. <i>Probl. 2, 70</i> ; GAL. <i>5, 51</i>.<p><b>Étym</b>. ὄξος, -ωδης.`

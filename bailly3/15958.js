@@ -1,0 +1,1 @@
+lar[15958]=`<b>ἀσκο·πυτίνη, ης (ἡ)</b> <font color="purple">[ῡῑ]</font> sorte de bouteille en cuir, ANTIPH. <i>et</i> MÉN. (POLL. <i>10, 73</i>).`

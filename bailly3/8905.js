@@ -1,0 +1,1 @@
+lar[8905]=`<b>ἀνθρακο·ειδής, ής, ές</b> <font color="purple">[ᾰκ]</font> semblable à du charbon, PHIL. <i>1, 348</i>.<p><b>Étym</b>. ἄνθραξ, εἶδος.`

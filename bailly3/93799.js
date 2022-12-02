@@ -1,0 +1,1 @@
+lar[93799]=`<b>συλ·λοχία, ας (ἡ)</b> groupement, concentration (<i>litt</i>. réunion de compagnies) HPC. <i>259, 34</i>.<p><b>Étym</b>. σ. λόχος.`

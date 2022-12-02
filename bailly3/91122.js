@@ -1,0 +1,1 @@
+lar[91122]=`<b>ου (ὁ) :<br>      1</b> rocher élevé, cime de rocher, PD. <i>fr. 209</i> ; ESCHL. <i>Pr. 142</i> ; EUR. <i>Ion 274, etc.</i> ; PLUT. <i>M. 953e, Marc. 15</i>.<br><b>      2</b> <i>particul</i>. écueil en mer <i>ou</i> sur le bord de la mer, IL. <i>2, 396</i> ; OD. <i>12, 73, 80, 430, etc</i>.<p><b>Étym</b>. <i>cf. p.-ê</i>. σκοπός « tour de guet ».`

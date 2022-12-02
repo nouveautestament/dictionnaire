@@ -1,0 +1,1 @@
+lar[14011]=`<i>adv</i>., sans faux pas, PLAT. <i>Theæt. 144b</i>.<p><b>Étym</b>. ἄπταιστος.`

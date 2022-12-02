@@ -1,0 +1,1 @@
+lar[79200]=`<b>περι·πωματίζω</b> <font color="purple">[ᾰ]</font> <i>c</i>. περιπωμάζω ARSTT. <i>Probl. 22, 4</i> ; TH. <i>Ign. 43</i>.`

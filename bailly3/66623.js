@@ -1,0 +1,1 @@
+lar[66623]=`<b>μονο·σάνδαλος, ος, ον</b> <font color="purple">[δᾰ]</font> qui n’a qu’une sandale, APD. <i>1, 9 ; 16, 3</i>.<p><b>Étym</b>. μ. σάνδαλον.`

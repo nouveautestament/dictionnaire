@@ -1,0 +1,1 @@
+lar[9117]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῑ]</font> anis, <i>plante et graine,</i> ALEX. (ATH. <i>170a</i>) ; DIOSC. <i>3, 65 ; cf</i>. ἄνηθον <i>et</i> ἄνησον.<p><b>Étym</b>. <i>cf. arabe</i> yansun.`

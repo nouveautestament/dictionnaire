@@ -1,0 +1,1 @@
+lar[63564]=`<b>ῆς (ἡ)</b> déplacement, changement, PTOL. <i>Harm. 2, 11, 3, 1</i>.<p><b>Étym</b>. μεθαρμόζω.`

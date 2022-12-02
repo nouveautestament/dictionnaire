@@ -1,0 +1,1 @@
+lar[53493]=`<b>κατά·στυγνος, ος, ον</b>, profondément triste, abattu, ATH. <i>585d</i>.<p><b>Étym</b>. κ. στυγνός.`

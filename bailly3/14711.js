@@ -1,0 +1,1 @@
+lar[14711]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> qui concerne l’aristocratie, aristocratique, PLAT. <i>Rsp. 587d ;</i> ARSTT. <i>Pol. 2, 6, 16, etc</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Pol. 2, 6</i>.<p><b>Étym</b>. ἀριστοκρατία.`

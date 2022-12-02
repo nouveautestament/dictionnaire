@@ -1,0 +1,1 @@
+lar[86440]=`<b>ή, όν</b>, propre au commandement, impératif, PLUT. <i>M. 1537f ; Phoc. 5</i> ; ἡ προστακτικὴ ἔγκλισις, D. THR. <i>638, 7 ; ou subst</i>. ἡ προστακτική (<i>s.-e</i>. ἔγκλισις) GRAMM., <i>ou</i> ἡ πρ. ἐκφορά, DYSC. <i>Synt. 76</i> ; τὸ προστακτικόν, DL. <i>7, 66, 67,</i> le mode impératif.<p><b>Étym</b>. προστάσσω.`

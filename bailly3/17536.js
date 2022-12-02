@@ -1,0 +1,1 @@
+lar[17536]=`<b>Αὐτο·κράτης, ους (ὁ)</b> Autokratès, <i>h</i>. LYS. ; <i>part. poète de l’ancienne comédie,</i> EL. <i>N.A. 12, 9, etc</i>.<p><b>Étym</b>. <i>v</i>. αὐτοκρατής.`

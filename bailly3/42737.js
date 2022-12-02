@@ -1,0 +1,1 @@
+lar[42737]=`<b>ου (ὁ)</b> Eunapios (Eunape) <i>biographe</i>.`

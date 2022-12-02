@@ -1,0 +1,1 @@
+lar[72636]=`vivre dans les montagnes, NIC. <i>Th. 413</i>.<p><b>Étym</b>. ὄρος, κευ- <i>pour</i> κεϝ-; <i>cf</i>. ὀρέσκοος.`

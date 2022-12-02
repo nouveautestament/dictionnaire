@@ -1,0 +1,1 @@
+lar[75846]=`<b>παρά·λευκος, ος, ον</b>, qui tire sur le blanc, mêlé de blanc, ARSTT. <i>H.A. 4, 1, 10</i> ; ATH. <i>319f</i>.<p><b>Étym</b>. π. λευκός.`

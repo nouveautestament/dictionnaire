@@ -1,0 +1,1 @@
+lar[4399]=`<b>ας (ἡ)</b> <font color="purple">[ᾱλ]</font><br><b>      1</b> assemblée du peuple dans les États doriens (<i>à Athènes,</i> ἐκκλησία) DÉM. <i>255, 21 (décr</i>.).<br><b>      2</b> assemblée du peuple, <i>en gén. (à Milet, à Thèbes, en Perse, etc</i>.) HDT. <i>5, 29 et 79 ; 7, 134, etc</i>.<p>➳ <i>Ion</i>. -ίη, HDT. <i>ll. cc</i>.<p><b>Étym</b>. ἁλής.`

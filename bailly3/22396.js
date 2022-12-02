@@ -1,0 +1,1 @@
+lar[22396]=`<b>οῦ (ὁ)</b> <i>seul. gén. pl. dor</i>. γοητῶν <font color="purple">[ᾱ]</font> qui gémit, qui se lamente, ESCHL. <i>Ch. 822 (sel. Herm. adj</i>. γοατάν, <i>acc. sg</i>.).<p><b>Étym</b>. γοάω.`

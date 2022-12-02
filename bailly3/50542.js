@@ -1,0 +1,1 @@
+lar[50542]=`<b>ῶν (αἱ)</b> Kænes (<i>auj</i>. ruines de Kalah Schergat) <i>v. de Mésopotamie,</i> XÉN. <i>An. 2, 4, 28</i>.`

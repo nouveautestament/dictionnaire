@@ -1,0 +1,1 @@
+lar[102263]=`<b>ὑπερ·αμπέχω</b> (<i>seul. part. prés</i>.) envelopper par-dessus, TIMOTH. <i>3 Bgk</i>.`

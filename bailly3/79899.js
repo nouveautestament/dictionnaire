@@ -1,0 +1,1 @@
+lar[79899]=`<b>ή, όν</b>, qui sert à lancer des pierres, POL. <i>5, 99, 7</i>.<p><b>Étym</b>. πετροβόλος.`

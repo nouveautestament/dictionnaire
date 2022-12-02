@@ -1,0 +1,1 @@
+lar[70959]=`<i>2 sg. sbj. ao.2 moy. poét. de</i> ὄλλυμι.`

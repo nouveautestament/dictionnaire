@@ -1,0 +1,1 @@
+lar[102051]=`<b>ὑπ·αυγάζω</b> <font color="purple">[ῠ]</font><br><b>   I <i>intr.</i> :<br>      1</b> briller sous, <i>dat</i>. PHILSTR. <i>564</i>.<br><b>      2</b> commencer à briller, LUC. <i>V.H. 2, 47</i> ; POLYEN <i>1, 39, 1</i>.<br><b>   II <i>tr.</i></b> faire briller, <i>acc</i>. A.RH. <i>3, 1378, etc</i>.`

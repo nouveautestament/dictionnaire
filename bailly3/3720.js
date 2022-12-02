@@ -1,0 +1,1 @@
+lar[3720]=`<font color="purple">[ῐτ]</font> <i>adv</i>., sans jugement, LYS. (STOB. <i>Fl. 46, 110).</i><p><b>Étym</b>. ἄκριτος.`

@@ -1,0 +1,1 @@
+lar[61102]=`<b>ου (ὁ)</b> = <i>lat</i>. Licinius, <i>n. d’h. rom</i>. POL. <i>37, 2</i> ; PLUT. <i>Reg. apophth. v°</i> Λικίνιος, <i>etc</i>.`

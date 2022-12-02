@@ -1,0 +1,1 @@
+lar[31338]=`<b>ἐκ·θρομβόω-ῶ</b>, rendre grumeleux, faire cailler, P. ÉG. <i>6, 60</i>.`

@@ -1,0 +1,1 @@
+lar[20403]=`<b>ων (τὰ)</b> la Région des pâtres, <i>contrée de la Haute-Égypte,</i> HLD. <i>1, 5</i>.<p><b>Étym</b>. βουκόλος.`

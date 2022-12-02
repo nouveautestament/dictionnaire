@@ -1,0 +1,1 @@
+lar[79021]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de regarder autour de soi, CLÉM. <i>821</i>.<p><b>Étym</b>. περιοράω.`

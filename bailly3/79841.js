@@ -1,0 +1,1 @@
+lar[79841]=`<font color="purple">[ᾰ]</font> <i>(seul. prés.) c</i>. πέτομαι, PD. <i>N. 6, 55</i>.<p><b>Étym</b>. <i>48</i>.`

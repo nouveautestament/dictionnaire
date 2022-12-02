@@ -1,0 +1,1 @@
+lar[37083]=`<b>ἐπ·εναρίζω</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>impér. ao</i>. -άριξον)</font> tuer l’un après l’autre, SOPH. <i>O.C. 1733, conj</i>.`

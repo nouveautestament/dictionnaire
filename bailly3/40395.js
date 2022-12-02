@@ -1,0 +1,1 @@
+lar[40395]=`<b>Ἐρί·βοια, ας (ἡ)</b> <font color="purple">[ῐ]</font> Éribœa, <i>f</i>. PD. <i>I. 5, 42</i> ; SOPH. <i>Aj. 569, etc</i>.<p><b>Étym</b>. ἐρι-, βοῦς.`

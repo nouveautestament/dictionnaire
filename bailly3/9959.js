@@ -1,0 +1,1 @@
+lar[9959]=`<b>ἀντί·κεντρον, ου (τὸ)</b> ce qui déchire comme l’aiguillon, ESCHL. <i>Eum. 136, 466</i>.<p><b>Étym</b>. ἀ. κέντρον.`

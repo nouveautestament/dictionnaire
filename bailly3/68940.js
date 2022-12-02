@@ -1,0 +1,1 @@
+lar[68940]=`<b>νομο·θέτης, ου (ὁ)</b> législateur, ATT. ; <i>au pl</i>. les Nomothètes, <i>commission de 501, 1001 ou 1501 membres, selon l’époque, chargés de reviser la législation courante, à Athènes,</i> DÉM. <i>706, 22 ; 708 fin</i> ; AND. <i>11, 30</i> ; ARSTT. <i>Pol. 2, 9, etc</i>.<p><b>Étym</b>. νόμος, τίθημι.`

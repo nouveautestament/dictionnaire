@@ -1,0 +1,1 @@
+lar[80840]=`<b>ου (ὁ)</b> = Plistīnus, <i>n. d’hom. rom</i>. PLUT. <i>Rom. 10</i>.`

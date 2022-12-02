@@ -1,0 +1,1 @@
+lar[96271]=`<b>συν·ταξιαρχία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> compagnie de 16 hommes de front sur 16 de profondeur, ASCLÉPIOD. <i>2, 9 ; 3, 3</i>.`

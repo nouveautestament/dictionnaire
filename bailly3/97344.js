@@ -1,0 +1,1 @@
+lar[97344]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. frit <i>ou</i> grillé dans la poêle, MÉTAG. <i>et</i> NICOCH. (ATH. <i>270a, 645c</i>).<p><b>Étym</b>. τάγηνον.`

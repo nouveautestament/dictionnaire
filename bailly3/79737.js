@@ -1,0 +1,1 @@
+lar[79737]=`<i>ou</i> <b>Περμησσός, οῦ (ὁ)</b> Permessos (<i>auj</i>. Kefalári) <i>fl. de Béotie, près de l’Hélicon,</i> HÉS. <i>Th. 5</i> ; STR. <i>407, etc</i>.`

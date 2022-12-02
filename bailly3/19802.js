@@ -1,0 +1,1 @@
+lar[19802]=`<b>α, ον</b> = <i>lat</i>. viscātus, englué, PLUT. <i>M. 281d</i>.`

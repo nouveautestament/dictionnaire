@@ -1,0 +1,1 @@
+lar[7152]=`<b>ἀνα·μαιμάω</b> (<i>seul. prés. 3 sg</i>.) s’élancer furieusement à travers, <i>acc</i>. IL. <i>20, 490</i>.`

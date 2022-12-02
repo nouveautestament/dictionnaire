@@ -1,0 +1,1 @@
+lar[903]=`<b>α, ον</b>, non apprivoisé, sauvage, POSIDON. (ATH. <i>549f</i>).<p><b>Étym</b>. ἄγριος.`

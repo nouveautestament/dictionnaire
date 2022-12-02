@@ -1,0 +1,1 @@
+lar[11594]=`<b>ἀπειρο·λογία, ας (ἡ)</b> loquacité sans bornes, SEXT. <i>2, 151</i>.<p><b>Étym</b>. ἄ. λόγος.`

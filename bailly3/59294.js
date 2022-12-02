@@ -1,0 +1,1 @@
+lar[59294]=`<b>ου (ὁ)</b> sorte de serpent, EL. <i>N.A. 8, 13</i>.<p><b>Étym</b>. κωφός.`

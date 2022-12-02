@@ -1,0 +1,1 @@
+lar[58651]=`<b>εως (ἡ)</b> action de rendre tortu, HPC. <i>827e</i>.<p><b>Étym</b>. κυλλόω.`

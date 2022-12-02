@@ -1,0 +1,1 @@
+lar[14705]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristokleidès, <i>h</i>. THC. <i>2, 70</i>.<p>➳ <i>Voc</i>. -η, ANTH. <i>13, 4. Dor</i>. Ἀριστοκλείδας, PD. <i>N. 3, 24 et 118</i>.<p><b>Étym</b>. <i>patr. de</i> Ἀριστοκλῆς.`

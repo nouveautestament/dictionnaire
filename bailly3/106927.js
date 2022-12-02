@@ -1,0 +1,1 @@
+lar[106927]=`<b>ατος (τὸ) :<br>      1</b> objet de méditation, sujet de préoccupation <i>ou</i> de sollicitude, AR. <i>Nub. 155</i> ; LUC. <i>Bis acc. 34, etc.</i><br><b>      2</b> fruit de la réflexion, du travail, de l’étude, PHILSTR. <i>482</i>.<p><b>Étym</b>. φροντίζω.`

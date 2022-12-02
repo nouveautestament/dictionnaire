@@ -1,0 +1,1 @@
+lar[43276]=`<b>εὐρυ·κέλευθος, ος, ον</b> <font color="purple">[ῠ]</font> aux larges chemins, P. SIL. <i>Ecphr. ag. Soph. 721</i>.<p><b>Étym</b>. εὐ. κέλευθος.`

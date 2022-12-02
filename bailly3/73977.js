@@ -1,0 +1,1 @@
+lar[73977]=`<b>ὀψ·αρτυσία, ας (ἡ)</b> <font color="purple">[ῡ]</font> art de préparer les mets, PLAT. COM. <i>2-2, 672 Mein.</i> ; ALEX. (<i>Com. fr. 3, 444).</i><p><b>Étym</b>. ὄψον, ἀρτύω.`

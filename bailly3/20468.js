@@ -1,0 +1,1 @@
+lar[20468]=`<b>βουλυτόν·δε</b> <font color="purple">[ῡ]</font> <i>adv</i>., vers l’heure où l’on dételle les bœufs, IL. <i>16, 779</i> ; OD. <i>9, 58</i>.<p><b>Étym</b>. βουλυτός, -δε.`

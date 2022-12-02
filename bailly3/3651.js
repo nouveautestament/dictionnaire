@@ -1,0 +1,1 @@
+lar[3651]=`<b>ἀκρατέω-ῶ</b> <font color="purple">[ᾰτ]</font> être intempérant, HPC. <i>600, 35</i>.<p><b>Étym</b>. ἀκρατής.`

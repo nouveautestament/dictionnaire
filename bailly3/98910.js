@@ -1,0 +1,1 @@
+lar[98910]=`<b>ή, όν :<br>      1</b> fondu, EUR. <i>Andr. 267</i>.<br><b>      2</b> fusible, soluble, PLAT. <i>Soph. 265c ;</i> ARSTT. <i>Metaph. 4, 6, 15</i> ; PLUT. <i>M. 106d ; p. opp. à</i> στερεός, PLAT. <i>Criti. 114e ; à</i> τεγκτός, ARSTT. <i>Meteor. 4, 9, 2, etc</i>.<p><b>Étym</b>. <i>vb. de</i> τήκω.`

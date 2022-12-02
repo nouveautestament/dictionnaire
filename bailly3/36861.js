@@ -1,0 +1,1 @@
+lar[36861]=`<b>ἐπ·αυτοματίζω</b> <font color="purple">[ᾰ]</font> <i>c</i>. αὐτοματίζω, DS. <i>Exc. Vat. 116, 20</i> ; PHIL. <i>1, 36</i>.`

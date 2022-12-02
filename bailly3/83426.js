@@ -1,0 +1,1 @@
+lar[83426]=`<b>έως</b>, <i>adj. m</i>. habitant de Priène, HDT. <i>1, 170</i> ; ARCHIL. <i>95</i> ; οἱ Πριηνεῖς, PLAT. <i>Prot. 343a</i>, les habitants de Priène.<p>➳ <i>Plur. nom. ion</i>. Πριηνέες, HDT. <i>6, 8 ; acc. ion</i>. -έας, HDT. <i>1, 161</i> ; ARCHIL. <i>l. c</i>.<p><b>Étym</b>. Πριήνη.`

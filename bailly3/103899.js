@@ -1,0 +1,1 @@
+lar[103899]=`<font color="darkgreen">(<i>impf. 3 sg</i>. ὑπεστονάχιζε, HÉS. <i>Th. 843, var. p</i>. ὑπεστενάχιζε)</font> <i>v</i>. ὑποστεναχίζω.`

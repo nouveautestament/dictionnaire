@@ -1,0 +1,1 @@
+lar[100853]=`<font color="purple">[ῡᾰ]</font> <i>adv</i>., comme avec une tarière, PROCL. <i>Ptol. p. 19b</i>.<p><b>Étym</b>. τρυπανοειδής.`

@@ -1,0 +1,1 @@
+lar[87691]=`<b>ίδος (ἡ)</b> <font color="purple">[ῠῐδ]</font> petite porte, guichet, poterne, HDT. <i>1, 180, 186</i> ; THC. <i>4, 110</i> ; DÉM. <i>1146 fin, etc</i>.<p><b>Étym</b>. πύλη.`

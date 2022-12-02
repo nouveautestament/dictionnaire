@@ -1,0 +1,1 @@
+lar[54388]=`<b>ου (τὸ)</b> grain d’orge grillée, ARSTT. <i>Probl. 20, 8</i> ; TH. <i>C.P. 5, 6, 3</i>.<p><b>Étym</b>. <i>dim. de</i> κάχρυς.`

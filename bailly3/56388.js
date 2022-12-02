@@ -1,0 +1,1 @@
+lar[56388]=`<b>ου (ὁ)</b> Kodros (Codrus) :<br><b>      1</b> <i>fils de Mélanthos et roi d’Athènes,</i> HDT. <i>1, 147, etc.</i> ; PLAT. <i>Conv. 208d.</i><br><b>      2</b> <i>fondateur de Milet,</i> HDT. <i>9, 97</i>.`

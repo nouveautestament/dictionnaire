@@ -1,0 +1,1 @@
+lar[70357]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne la maison : οἱ οἰκιακοί, NT. <i>Matth. 10, 36,</i> les gens de la maison, parents <i>ou</i> serviteurs.<br><b>      2</b> de l’intérieur, privé, domestique, PLUT. <i>Cic. 20 (vulg</i>. οἰκειακός).<p><b>Étym</b>. οἰκία.`

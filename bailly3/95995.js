@@ -1,0 +1,1 @@
+lar[95995]=`<i>ion. et anc. att</i>. <b>ξυνιεῖ</b>, <i>3 sg. ind. prés. réc. de</i> συνίημι.`

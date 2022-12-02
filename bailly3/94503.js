@@ -1,0 +1,1 @@
+lar[94503]=`<i>adv</i>., d’accord avec, d’accord, PLAT. <i>Epin. 974c ;</i> DS. <i>15, 18, etc</i>.<p><b>Étym</b>. σύμφωνος.`

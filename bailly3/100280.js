@@ -1,0 +1,1 @@
+lar[100280]=`<b>τρί·λοφος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> à trois aigrettes, POLYEN <i>8, 59</i>.<br><b>      2</b> à trois côtes <i>ou</i> collines, NONN. <i>D. 6, 124</i>.<p><b>Étym</b>. τρ. λόφος.`

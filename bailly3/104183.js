@@ -1,0 +1,1 @@
+lar[104183]=`<b>ὑπο·χρίω</b>, enduire par-dessous, HDT. <i>2, 86</i> ; HPC. <i>Fract. 765 ; particul</i>. teindre <i>ou</i> farder le bord des yeux : τινά, XÉN. <i>Cyr. 8, 8, 20,</i> de qqn.<br><b><i>Moy.</i></b> se teindre <i>ou</i> se farder : τοὺς ὀφθαλμούς, XÉN. <i>Cyr. 8, 1, 41,</i> le bord des yeux.`

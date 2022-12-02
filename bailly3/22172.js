@@ -1,0 +1,1 @@
+lar[22172]=`<b>γλυκυμυθέω-ῶ</b> <font color="purple">[ῠῠῡ]</font> parler avec douceur, ANTH. <i>12, 122</i>.<p><b>Étym</b>. γλυκύμυθος.`

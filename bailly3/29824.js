@@ -1,0 +1,1 @@
+lar[29824]=`<b>ἔγ·κωπον, ου (τὸ)</b> partie du navire garnie de rames, ATH. <i>204b</i>.<p><b>Étym</b>. ἐν, κώπη.`

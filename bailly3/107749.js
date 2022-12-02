@@ -1,0 +1,1 @@
+lar[107749]=`<b>χαμαι·βάλανος, ου (ἡ)</b> <font color="purple">[ᾰᾰᾰ]</font> sorte de tithymale (<i>Euphorbia apios</i> L.) <i>plante,</i> DIOSC. <i>4, 177</i>.<p><b>Étym</b>. χ. βάλανος.`

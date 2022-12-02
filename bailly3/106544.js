@@ -1,0 +1,1 @@
+lar[106544]=`<b>ή, όν</b> <font color="purple">[νῑ]</font><br><b>      1</b> de Phénicie, des Phéniciens, HDT. <i>6, 47</i> ; THC. <i>6, 46, etc. ; pour exprimer l’idée d’une haute antiquité,</i> PLAT. <i>Rsp. 414c.</i><br><b>      2</b> punique, <i>pour exprimer l’idée de perfidie,</i> POL. <i>3, 78, 1, etc</i>.<p><b>Étym</b>. Φοῖνιξ.`

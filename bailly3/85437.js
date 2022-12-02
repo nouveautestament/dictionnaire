@@ -1,0 +1,1 @@
+lar[85437]=`<b>προσ·διηγέομαι-οῦμαι</b>, parcourir <i>ou</i> exposer en outre, TH. <i>Char. 7</i> ; LUC. <i>Per. 43</i>.`

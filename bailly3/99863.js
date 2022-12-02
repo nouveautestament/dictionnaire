@@ -1,0 +1,1 @@
+lar[99863]=`<b>τραγ·ορίγανον, ου (τὸ)</b> <font color="purple">[ᾰῑᾰ]</font> sorte de thym, GAL. <i>14, 450</i>.<p><b>Étym</b>. τρ. ὀρίγανον.`

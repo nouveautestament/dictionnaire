@@ -1,0 +1,1 @@
+lar[18524]=`<b>ἀ·χρήεις, εσσα, εν</b>, sans ressources, sans argent, MAN. <i>4, 76</i>.<p><b>Étym</b>. <i>cf</i>. ἀχρεῖος.`

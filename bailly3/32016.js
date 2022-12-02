@@ -1,0 +1,1 @@
+lar[32016]=`<b>ἔκροος-ους, όου-ου (ὁ) :<br>      1</b> écoulement, HDT. <i>7, 129</i>.<br><b>      2</b> estuaire d’un fleuve, issue pour l’écoulement, ARSTT. <i>Meteor. 1, 13, 27 ; fig</i>. moyen d’échapper, HPC. <i>562, 41 ; 1002b</i>.<p><b>Étym</b>. ἐκρέω.`

@@ -1,0 +1,1 @@
+lar[30401]=`<b>εἰκοτο·λογία, ας (ἡ)</b> langage <i>ou</i> explication vraisemblable, ARCHYT. (STOB. <i>Ecl. 1, 724</i>) ; STR. <i>620</i>.<p><b>Étym</b>. εἰκώς, λόγος.`

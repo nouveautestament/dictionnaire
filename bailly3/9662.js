@@ -1,0 +1,1 @@
+lar[9662]=`<b>ἀντ·επιρρέω</b>, affluer à son tour <i>ou</i> du côté opposé, HPC. <i>418, 54</i>.`

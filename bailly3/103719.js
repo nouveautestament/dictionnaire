@@ -1,0 +1,1 @@
+lar[103719]=`<b>ὑπο·πόρφυρος, ος, ον</b> <font color="purple">[φῠ]</font> de la couleur de la pourpre, ANACR. <i>28, 30</i> ; ARSTT. <i>H.A. 9, 14, 1</i> ; ANTH. <i>5, 84</i>.<p><b>Étym</b>. ὑ. πορφύρα.`

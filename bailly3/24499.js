@@ -1,0 +1,1 @@
+lar[24499]=`<b>ή, όν</b>, capable de discerner, de reconnaître, <i>gén</i>. LUC. <i>Salt. 74, à côté de</i> κριτικός ; <i>abs. joint à</i> διακριτικός, LUC. <i>Herm. 69 ; particul. t. de méd</i>. capable de diagnostiquer, <i>gén</i>. GAL. <i>2, 188</i> ; ORIB. <i>1, 3 B.-Dar</i>.<p><b>Étym</b>. διαγιγνώσκω.`

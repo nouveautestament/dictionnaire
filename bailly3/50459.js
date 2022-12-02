@@ -1,0 +1,1 @@
+lar[50459]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> armement, armure, POL. <i>11, 32, 7, etc</i>.<p><b>Étym</b>. καθοπλίζω.`

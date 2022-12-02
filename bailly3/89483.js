@@ -1,0 +1,1 @@
+lar[89483]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> balayure, ordure, <i>iron. en parl. d’une vieille femme,</i> ION (HSCH.).<p><b>Étym</b>. <i>cf</i>. σάρος.`

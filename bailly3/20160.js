@@ -1,0 +1,1 @@
+lar[20160]=`<b>εσσα, εν :<br>      1</b> qui bourdonne (<i>abeille</i>), A. PL. <i>4, 74</i>.<br><b>      2</b> qui gronde (<i>flot</i>), NONN. <i>D. 3, 32</i>.<p><b>Étym</b>. βόμβος.`

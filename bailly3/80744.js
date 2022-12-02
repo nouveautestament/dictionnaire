@@ -1,0 +1,1 @@
+lar[80744]=`<b>πλατύ·γλωττος, ος, ον</b> <font color="purple">[ᾰ]</font> dont la langue est large, ARSTT. <i>H.A. 2, 12</i>.<p>•<i> Cp</i>. πλατυγλωττότερος, ARSTT. <i>P.A. 2, 17</i>.<p><b>Étym</b>. πλατύς, γλῶττα.`

@@ -1,0 +1,1 @@
+lar[37918]=`<b>ἐπι·κατάγνυμι</b>, briser aussi, ARSTT. <i>Probl. 9, 1</i>.`

@@ -1,0 +1,1 @@
+lar[110627]=`<b>ης, ες</b>, qui ressemble à un œuf, ovale, ovoïde, ARSTT. <i>H.A. 6, 10, etc</i>.<p>➳ <i>Dans une inscr. att</i>. ᾠῶδες, CIA. <i>2, 835, 5, c-l, 15 (320/317 av. J.-C.) ; v. Meisterh. p. 52</i>.<p><b>Étym</b>. ᾠόν, -ωδης.`

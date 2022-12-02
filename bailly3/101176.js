@@ -1,0 +1,1 @@
+lar[101176]=`<b>ης (ἡ)</b> typha (<i>Typha latifolia</i> L.) <i>sorte de</i> varech, <i>plante aquatique,</i> TH. <i>H.P. 1, 5, 3, etc.</i> ; DIOSC. <i>3, 133</i> ; STR. <i>226</i>.`

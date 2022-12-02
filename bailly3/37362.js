@@ -1,0 +1,1 @@
+lar[37362]=`<b>ἐπι·βλύω</b> <font color="purple">[ῠ]</font> <i>(seul. prés.) c</i>. ἐπιβλύζω, A.RH. <i>4, 1238</i>.`

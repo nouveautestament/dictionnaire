@@ -1,0 +1,1 @@
+lar[105820]=`<b>φιλό·κακος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui aime le mal <i>ou</i> les méchants, SCH.-PD. <i>P. 4, 507</i>.<p><b>Étym</b>. φ. κακός.`

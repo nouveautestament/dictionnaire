@@ -1,0 +1,1 @@
+lar[31795]=`<b>ἐκ·πέπτω</b> <font color="darkgreen">(<i>f</i>. -πέψω)</font> <i>c</i>. ἐκπέσσω, TH. <i>H.P. 2, 2, 4</i>.`

@@ -1,0 +1,1 @@
+lar[36902]=`<b>ἐπ·εγγελάω-ῶ</b>, rire de, se moquer de, <i>dat</i>. SOPH. <i>Aj. 989</i> ; XÉN. <i>An. 2, 4, 27</i> ; κατά <i>et le gén</i>. SOPH. <i>Aj. 969 ; abs</i>. SOPH. <i>Aj. 454</i> ; ESCHN. <i>52, 28</i>.<p>➳ <i>Part. prés. fém. épq</i>. ἐπεγγελόωσα, OPP. <i>H. 2, 303. Impf. itér. 3 sg</i>. ἐπεγγελάασκε, Q. SM. <i>14, 397</i>.`

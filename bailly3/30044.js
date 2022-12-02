@@ -1,0 +1,1 @@
+lar[30044]=`<i>adv</i>., avec une assiette solide, solidement, HDN <i>3, 14, 10</i> ; ATHÉNÉE MÉC. <i>36, 10</i>.<p><b>Étym</b>. ἑδραῖος.`

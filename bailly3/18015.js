@@ -1,0 +1,1 @@
+lar[18015]=`<b>ἀφ·ηδύνω</b> (<i>seul. prés. act. et pass</i>.) adoucir (la voix), LUC. <i>Am. 3</i> ; (le caractère), PLUT. <i>Dio. 17</i>.<p><b>Étym</b>. ἀπό, ἡδύνω.`

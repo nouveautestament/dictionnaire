@@ -1,0 +1,1 @@
+lar[69193]=`<b>νυμφ·αγέτης, ου (ὁ)</b> <font color="purple">[ᾱ]</font> conducteur des muses, <i>ép. de Neptune, à Rome,</i> CORN. <i>22</i>.<p><b>Étym</b>. ν. ἡγέομαι.`

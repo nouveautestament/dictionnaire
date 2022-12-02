@@ -1,0 +1,1 @@
+lar[93063]=`<b>α, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> du Styx, infernal, ESCHL. <i>Pers. 668</i> ; SOPH. <i>O.C. 1564</i> ; PLAT. <i>Phæd. 113c.</i><br><b>      2</b> <i>p. ext</i>. odieux, horrible, néfaste, EUR. <i>Med. 195, Hel. 1355</i> ; PLUT. <i>M. 828a</i>.<p>➳ <i>Fém</i>. ος, EUR. <i>ll. cc</i>.<p><b>Étym</b>. Στύξ.`

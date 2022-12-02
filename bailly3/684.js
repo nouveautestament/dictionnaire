@@ -1,0 +1,1 @@
+lar[684]=`<b>ας</b>, <i>ion</i>. -ΐη, ης (ἡ) Aglaïa, Aglaïè (Aglaè) :<br><b>      1</b> <i>mère de Nirée,</i> IL. <i>2, 672</i>.<br><b>      2</b> <i>une des trois Grâces,</i> HÉS. <i>Th. 945</i> ; PD. <i>O. 14, 19</i>.<p><b>Étym</b>. ἀγλαός.`

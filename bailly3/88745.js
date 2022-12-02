@@ -1,0 +1,1 @@
+lar[88745]=`<i>att</i>. <b>ῥοίδιον, ου (τὸ)</b> petite grenade, MÉN. <i>4, 112 Meineke</i> ; DS. <i>4, 35</i>.<p><b>Étym</b>. ῥοά.`

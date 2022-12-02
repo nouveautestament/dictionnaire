@@ -1,0 +1,1 @@
+lar[3370]=`<b>ἀ·κίβδηλος, ος, ον</b>, non falsifié, non altéré, de bon aloi, PLAT. <i>Leg. 916d ; joint à</i> δόκιμος, LUC. <i>Herm. 68 ; fig</i>. honnête, HDT. <i>9, 7, 1 ; en parl. de pers</i>. DL. <i>7, 118</i>.`

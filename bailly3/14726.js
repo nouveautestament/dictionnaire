@@ -1,0 +1,1 @@
+lar[14726]=`<b>Ἀριστό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Aristomakhos (Aristomaque) <i>h</i>. HDT. <i>6, 52, etc.</i> ; PLUT. <i>Arat. 5, etc</i>.<p><b>Étym</b>. <i>v</i>. ἀριστόμαχος.`

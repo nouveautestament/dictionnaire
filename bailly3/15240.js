@@ -1,0 +1,1 @@
+lar[15240]=`<b>ου (ὁ)</b> Artabazos :<br><b>      1</b> <i>Perse,</i> HDT. <i>7, 66, etc.</i> ; THC. <i>1, 129, etc.</i><br><b>      2</b> <i>Mède,</i> XÉN. <i>Cyr. 6, 1, etc</i>.`

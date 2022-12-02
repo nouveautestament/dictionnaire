@@ -1,0 +1,1 @@
+lar[69127]=`<b>νυκτ·ηγορία, ας (ἡ) :<br>      1</b> mot d’ordre de nuit, EUR. <i>Rhes. 20</i>.<br><b>      2</b> harangue de nuit, LIB. <i>t. 4, p. 141, 15</i>.<p><b>Étym</b>. <i>v</i>. νυκτηγορέω.`

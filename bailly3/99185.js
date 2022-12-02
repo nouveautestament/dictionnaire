@@ -1,0 +1,1 @@
+lar[99185]=`<b>Τιμ·άνθης, ους (ὁ)</b> <font color="purple">[ῑ]</font> Timanthès, <i>h</i>. THC. <i>1, 29, etc</i>.<p><b>Étym</b>. τιμή, ἄνθος.`

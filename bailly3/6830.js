@@ -1,0 +1,1 @@
+lar[6830]=`<b>ἀν·αιθύσσω</b>, attiser le feu, SOPH. <i>fr. 486</i> ; EUR. <i>Tr. 344</i>.`

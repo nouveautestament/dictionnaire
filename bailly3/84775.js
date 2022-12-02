@@ -1,0 +1,1 @@
+lar[84775]=`<b>προ·νικάω-ῶ</b> <font color="purple">[ῑ]</font> vaincre auparavant, THC. <i>2, 89</i> ; IS. <i>85, 28, etc</i>.`

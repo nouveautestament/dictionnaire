@@ -1,0 +1,1 @@
+lar[31246]=`<b>ος, ον</b>, fait de cette matière, ARSTT. <i>Metaph. 6, 7, 10, t. de philos</i>.<p><b>Étym</b>. ἐκεῖνος.`

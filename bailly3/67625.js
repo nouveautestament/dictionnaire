@@ -1,0 +1,1 @@
+lar[67625]=`<b>ναοποιέω-ῶ</b> <font color="purple">[ᾱ]</font> construire un temple, NAZ. <i>Or. 31, t. 2, p. 168a, 41, t. 2, p. 441c</i>.<p><b>Étym</b>. ναοποιός.`

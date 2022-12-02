@@ -1,0 +1,1 @@
+lar[63913]=`<b>εως (ἡ)</b> action de noircir, ARSTT. <i>Phys. 5, 6, 5</i>.<p><b>Étym</b>. μελαίνω.`

@@ -1,0 +1,1 @@
+lar[80086]=`<b>Πηλο·πλάτων, ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> le Platon fangeux, <i>surn. du sophiste Alexandre,</i> PHILSTR. <i>570</i>.`

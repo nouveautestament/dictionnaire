@@ -1,0 +1,1 @@
+lar[94694]=`<b>εως (ἡ)</b> lecture générale d’un ouvrage <i>ou</i> des ouvrages d’un auteur, PLUT. <i>M. 700b ;</i> NICOM. <i>Arithm. 2, 21</i>.<p><b>Étym</b>. συναναγιγνώσκω.`

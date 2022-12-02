@@ -1,0 +1,1 @@
+lar[49324]=`<b>ἱππο·ζώνη, ης (ἡ)</b> gigot du cheval, HIPPIATR. <i>p. 90, 20</i>.<p><b>Étym</b>. ἵ. ζώνη.`

@@ -1,0 +1,1 @@
+lar[13756]=`<b>ης (ἡ)</b> femme esclave, <i>mot crétois,</i> ATH. <i>267c</i>.`

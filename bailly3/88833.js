@@ -1,0 +1,1 @@
+lar[88833]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> semblable à la diarrhée, P. ÉG. <i>6, 7</i>.<br><b>      2</b> sujet aux écoulements d’humeurs, GAL. <i>2, 396</i>.<p><b>Étym</b>. ῥυάς.`

@@ -1,0 +1,1 @@
+lar[102078]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> qui cède facilement, ARSTT. <i>Gen. et corr. 1, 8, 16</i>.<p><b>Étym</b>. ὑπείκω.`

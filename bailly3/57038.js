@@ -1,0 +1,1 @@
+lar[57038]=`<b>ωνος (ὁ)</b> Kordyliôn, <i>propr</i>. « le bossu, » <i>surn. du Stoïcien Athènodôros,</i> PLUT. <i>Cato mi. 10</i>.<p><b>Étym</b>. κορδύλη.`

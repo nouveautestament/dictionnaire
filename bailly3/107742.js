@@ -1,0 +1,1 @@
+lar[107742]=`<b>υβος (ὁ)</b> <font color="purple">[ᾰῠβ]</font> acier, ESCHL. <i>Pr. 133</i> ; SOPH. <i>Tr. 1260 ; adj</i>. NONN. <i>D. 36, 182</i>.`

@@ -1,0 +1,1 @@
+lar[4784]=`<b>ἀλλό·θροος-ους, οος-ους, οον-ουν</b>, qui parle une autre langue, étranger, OD. <i>1, 183 ; 3, 302, etc.</i> ; HDT. <i>1, 78, etc.</i> ; ESCHL. <i>Ag. 1200</i> ; ἀ. γνώμα, SOPH. <i>Tr. 844,</i> conseil d’autrui.<p>➳ <i>Gén. contr</i>. ἀλλόθρου, SOPH. <i>l. c. etc</i>.<p><b>Étym</b>. ἄ. θρέομαι.`

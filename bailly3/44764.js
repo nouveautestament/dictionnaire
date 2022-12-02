@@ -1,0 +1,1 @@
+lar[44764]=`<b>εως (ἡ)</b> action de faire vivre, SPT. <i>2Esdr. 9, 8</i>.<p><b>Étym</b>. ζωοποιέω.`

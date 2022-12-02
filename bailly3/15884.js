@@ -1,0 +1,1 @@
+lar[15884]=`<b>ου (ὁ)</b> <font color="purple">[κᾰᾰ]</font> sorte de hibou, ARSTT. <i>H.A. 2, 17, 34</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[23233]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> action de dépenser, dépense, ARSTT. (EUS. <i>P.E. 372c</i>).<p><b>Étym</b>. δαπανάω.`

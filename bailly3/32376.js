@@ -1,0 +1,1 @@
+lar[32376]=`<b>εως (ἡ) :<br>      1</b> exclamation, PLUT. <i>M. 111d.</i><br><b>      2</b> prononciation distincte, DYSC. <i>Synt. 9, 4 ; 13, 9 Bkk.</i> ; SEXT. <i>621, 30 Bkk</i>.<p><b>Étym</b>. ἐκφωνέω.`

@@ -1,0 +1,1 @@
+lar[72931]=`<b>ὀρνιθο·θηράω-ῶ</b> <font color="purple">[ῑ]</font> aller à la chasse aux oiseaux, TÉLÉCL. (POLL. <i>7, 135).</i><p><b>Étym</b>. ὄρνις, θηράω.`

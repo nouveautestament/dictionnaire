@@ -1,0 +1,1 @@
+lar[96135]=`<i>ou mieux</i> <b>συνοικοδεσποτεία, ας (ἡ)</b> action de présider à la naissance, <i>t. d’astrol</i>. PTOL.<p><b>Étym</b>. συνοικοδεσπότης.`

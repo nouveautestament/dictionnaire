@@ -1,0 +1,1 @@
+lar[982]=`<b>ας (ἡ)</b> silence profond (<i>litt</i>. absence même de murmure) PD. <i>fr. 253</i>.<p><b>Étym</b>. ἄγρυκτος.`

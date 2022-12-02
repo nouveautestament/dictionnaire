@@ -1,0 +1,1 @@
+lar[62225]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font><br><b>      1</b> religion des mages, PLAT. <i>1 Alc. 122a.</i><br><b>      2</b> magie, sorcellerie, TH. <i>H.P. 9, 15, 7</i>.<p><b>Étym</b>. μάγος.`

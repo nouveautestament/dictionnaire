@@ -1,0 +1,1 @@
+lar[47987]=`<b>θυοσκέω-ῶ</b>, <i>ou mieux</i> <b>θυοσκοέω-οῶ</b>, offrir un sacrifice, sacrifier, ESCHL. <i>Ag. 87 conj. (ms</i>. θυοσκινεῖς).<p><b>Étym</b>. θυοσκόος.`

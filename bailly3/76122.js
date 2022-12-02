@@ -1,0 +1,1 @@
+lar[76122]=`<b>παρα·πρυτανεύω</b> <font color="purple">[ῠᾰ]</font> mal administrer une prytanie, <i>en gén</i>. mal administrer, RHÉT. <i>3, 608 W</i>.`

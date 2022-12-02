@@ -1,0 +1,1 @@
+lar[20482]=`<b>βουνίτης οἶνος (ὁ)</b> <font color="purple">[ῑ]</font> vin parfumé <i>de</i> βούνιον, DIOSC. <i>5, 56</i>.`

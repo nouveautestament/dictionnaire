@@ -1,0 +1,1 @@
+lar[108108]=`<b>εως</b>, <i>ion</i>. <b>ιος (ἡ)</b> <i>mot ion. et dor</i>. traitement, pansement <i>ou</i> opération, HPC. <i>Fract. 756</i>.<p><b>Étym</b>. χειρίζω.`

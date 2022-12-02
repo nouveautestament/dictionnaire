@@ -1,0 +1,1 @@
+lar[17869]=`<b>ας (ἡ)</b> <font color="purple">[φᾰ]</font><br><b>      1</b> obscurité, PD. <i>I. 3, 49 ; fig</i>. obscurité (du rang, du nom, <i>etc</i>.) THC. <i>2, 37</i>.<br><b>      2</b> disparition, ruine, perte, ESCHL. <i>Ag. 384</i>.<p><b>Étym</b>. ἀφανής ; <i>cf</i>. ἀφανία.`

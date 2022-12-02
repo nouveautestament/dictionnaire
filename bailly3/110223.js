@@ -1,0 +1,1 @@
+lar[110223]=`<b>ου (ἡ)</b> Ôlénos :<br><b>      1</b> <i>v. d’Étolie,</i> IL. <i>2, 639</i> ; SOPH. <i>fr. 285</i>.<br><b>      2</b> <i>v. d’Achaïe,</i> HDT. <i>1, 145</i>.`

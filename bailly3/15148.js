@@ -1,0 +1,1 @@
+lar[15148]=`<b>ἀρρητο·λεπτόπνευστος, ος, ον</b>, au souffle d’une délicatesse indicible, P. SIL. <i>Th. Pyth. 175</i>.<p><b>Étym</b>. ἄρρητος, λ.`

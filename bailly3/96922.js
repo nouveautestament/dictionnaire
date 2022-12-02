@@ -1,0 +1,1 @@
+lar[96922]=`<b>σφονδυλο·δίνητος, ος, ον</b> <font color="purple">[ῠῑ]</font> tourné en fuseau, ANTH. <i>6, 247</i>.<p><b>Étym</b>. σφόνδυλος, δινέω.`

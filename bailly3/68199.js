@@ -1,0 +1,1 @@
+lar[68199]=`<b>νεο·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> dont la souffrance est récente, ESCHL. <i>Eum. 514</i>.<p><b>Étym</b>. ν. πάθος.`

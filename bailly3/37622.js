@@ -1,0 +1,1 @@
+lar[37622]=`<b>ἐπι·διηγέομαι-οῦμαι</b>, raconter en outre <i>ou</i> de nouveau, ARSTD. <i>t. 1, 298</i> ; SYN. <i>Ep. 127, p. 262c</i>.`

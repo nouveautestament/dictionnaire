@@ -1,0 +1,1 @@
+lar[39408]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> qui s’occupe de, observateur de, JOS. <i>A.J. 19, 1, 5</i> ; PTOL. <i>Tetr. 163, 17</i>.<p><b>Étym</b>. ἐπιτηδεύω.`

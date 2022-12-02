@@ -1,0 +1,1 @@
+lar[94128]=`<b>συμ·παριππεύω</b>, passer à cheval ensemble, DC. <i>63, 2</i>.`

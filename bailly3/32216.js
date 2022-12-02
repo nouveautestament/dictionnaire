@@ -1,0 +1,1 @@
+lar[32216]=`<b>ἐκ·τράπεζος, ος, ον</b> <font color="purple">[ᾰ]</font> banni de la table (plat, mets) LUC. <i>Gall. 4</i>.<p><b>Étym</b>. ἐκ, τράπεζα.`

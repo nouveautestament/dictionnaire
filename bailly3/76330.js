@@ -1,0 +1,1 @@
+lar[76330]=`<b>ή, όν</b>, qui concerne l’observation <i>ou</i> les observateurs, PTOL. <i>Tetr. 4</i>.<p><b>Étym</b>. παρατηρέω.`

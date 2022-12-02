@@ -1,0 +1,1 @@
+lar[66237]=`<b>μνηστηρο·φονία, ας (ἡ)</b> meurtre des prétendants, <i>titre du 22<sup>e</sup> chant de l’Odyssée,</i> LGN <i>9, 14</i> ; ATH. <i>192d ;</i> PLUT. <i>M. 294c</i>.<p><b>Étym</b>. μν. φόνος.`

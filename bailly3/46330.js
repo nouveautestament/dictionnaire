@@ -1,0 +1,1 @@
+lar[46330]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> plein de confiance en, <i>dat</i>. IL. <i>13, 823 ; abs</i>. IL. <i>16, 70</i>.<p><b>Étym</b>. θάρσος.`

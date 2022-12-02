@@ -1,0 +1,1 @@
+lar[20654]=`<b>ατος (τὸ) :<br>      1</b> bouillonnement, AÉT. <i>142, 5</i>.<br><b>      2</b> pellicule autour d’un grain de poivre, DIOSC. <i>2, 189</i>.<p><b>Étym</b>. βράζω.`

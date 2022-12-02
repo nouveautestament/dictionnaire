@@ -1,0 +1,1 @@
+lar[108135]=`<i>adv</i>., avec les habitudes d’un animal apprivoisé, ZOS. <i>1, 3, p. 7</i>.<p><b>Étym</b>. χειροήθης.`

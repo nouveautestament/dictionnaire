@@ -1,0 +1,1 @@
+lar[48657]=`<b>ἱερό·χθων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, qui appartient à une terre sacrée, ANTH. <i>App. 5, 27</i>.<p><b>Étym</b>. ἱ. χθών.`

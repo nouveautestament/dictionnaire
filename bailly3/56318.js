@@ -1,0 +1,1 @@
+lar[56318]=`<b>κνισο·τηρητής</b>, <i>mieux que</i> <b>κνισσο·τηρητής, οῦ (ὁ)</b> parasite (<i>propr</i>. qui veille au fumet de la viande) COM. ANON. <i>(Bkk. p. 49, 13).</i><p><b>Étym</b>. κνῖσα, τηρέω.`

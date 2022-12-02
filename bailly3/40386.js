@@ -1,0 +1,1 @@
+lar[40386]=`<b>(τὸ)</b> <i>indécl</i>. laine, PHILÉT. <i>18</i>.<p><b>Étym</b>. <i>par apocope de</i> ἔριον.`

@@ -1,0 +1,1 @@
+lar[21328]=`<b>γαμο·λύτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui rompt un mariage, qui brise une union, CHRYS. <i>7, 259</i>.<p><b>Étym</b>. γάμος, λύω.`

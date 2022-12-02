@@ -1,0 +1,1 @@
+lar[106822]=`<b>ας (ἡ)</b> <font color="purple">[ᾱτ]</font><br><b>      1</b> réservoir d’eau, XÉN. <i>Hell. 3, 1, 7</i>.<br><b>      2</b> aqueduc <i>ou</i> conduit d’eau, POL. <i>10, 28, 2 ; au sens de</i> τὸ νειλομέτριον, HLD. <i>9, 122</i>.<p><b>Étym</b>. φρέαρ.`

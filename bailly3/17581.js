@@ -1,0 +1,1 @@
+lar[17581]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> la Déesse du hasard, le Hasard, PLUT. <i>Tim. 36 ; M. 542f, 816d</i>.<p><b>Étym</b>. αὐτόματος.`

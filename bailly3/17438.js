@@ -1,0 +1,1 @@
+lar[17438]=`<b>αὐτο·δεσποτεία, ας (ἡ)</b> libre disposition de soi-même, PROCL.<p><b>Étym</b>. αὐ. δεσπότης.`

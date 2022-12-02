@@ -1,0 +1,1 @@
+lar[49450]=`<b>ἱππο·φαές, αέος (τὸ)</b> hippophaé <i>ou</i> argousier (<i>Euphorbia spinosa</i> Sprengel) <i>arbuste,</i> DIOSC. <i>4, 162</i>.<p>➳ <i>Gén. ion</i>. -αέως, HPC. <i>539, 18 ; 546, 5, etc</i>.<p><b>Étym</b>. ἵ. φάος.`

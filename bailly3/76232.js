@@ -1,0 +1,1 @@
+lar[76232]=`<b>εως (ἡ)</b> action de violer la foi jurée, POL. <i>2, 7, 5, etc.</i> ; STR. <i>7, 1, 4 Kram. etc</i>.<p><b>Étym</b>. παρασπονδέω.`

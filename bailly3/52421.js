@@ -1,0 +1,1 @@
+lar[52421]=`<b>κατ·αθρέω-ῶ</b>, regarder d’en haut, observer, MAN. <i>4, 421</i>.`

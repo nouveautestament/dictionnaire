@@ -1,0 +1,1 @@
+lar[65209]=`<i>adv</i>., avec la valeur d’un participe, APOLL. <i>Lex. p. 766</i>.`

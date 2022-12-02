@@ -1,0 +1,1 @@
+lar[9254]=`<b>ας (ἡ)</b> manque de pluie, sécheresse, ARSTT. <i>H.A. 8, 28, 12</i> ; DS. <i>1, 29</i> ; JOS. <i>A.J. 8, 13, 2</i>.<p><b>Étym</b>. ἄνομβρος.`

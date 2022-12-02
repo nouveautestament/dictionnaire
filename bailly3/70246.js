@@ -1,0 +1,1 @@
+lar[70246]=`<b>οἰακονομέω-ῶ</b> <font color="purple">[ᾱ]</font> diriger le gouvernail, PHIL.<p><b>Étym</b>. οἰακονόμος.`

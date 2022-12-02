@@ -1,0 +1,1 @@
+lar[59374]=`<font color="purple">[ᾰᾰ]</font> être faible, mollir, <i>en parl. du vent du sud,</i> HPC. <i>308, 14</i> ; <i>probabl. mauv. leç. p</i>. γαληνίζει.<p><b>Étym</b>. <i>dout. et p.-ê. de</i> λάγανον.`

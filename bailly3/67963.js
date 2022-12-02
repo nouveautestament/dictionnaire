@@ -1,0 +1,1 @@
+lar[67963]=`<b>ου (ὁ)</b> le Nil, <i>fl. d’Égypte,</i> HÉS. <i>Th. 338</i> ; HDT. <i>4, 45, etc</i>.`

@@ -1,0 +1,1 @@
+lar[24305]=`<b>οῦ (ὁ)</b> celui qui divulgue, qui publie, CHRYS. <i>7, 278</i>.<p><b>Étym</b>. δημοσιεύω.`

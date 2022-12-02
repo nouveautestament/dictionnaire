@@ -1,0 +1,1 @@
+lar[63613]=`<b>μεθ·ίπταμαι</b>, s’envoler <i>ou</i> voler d’un autre côté, APP. <i>Iber. 71</i>.<p><b>Étym</b>. μετά, ἵ.`

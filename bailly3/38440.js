@@ -1,0 +1,1 @@
+lar[38440]=`<b>ἐπι·μητιάω-ῶ</b> (<i>seul. part. prés. fém. épq</i>. ἐπιμητιόωσα) réfléchir sur, méditer, A.RH. <i>3, 668</i>.`

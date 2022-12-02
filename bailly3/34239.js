@@ -1,0 +1,1 @@
+lar[34239]=`<b>εως (ἡ) :<br>      1</b> action de se laisser aller, relâchement, HPC. <i>1271, 8</i> ; POL. <i>5, 100, 2</i>.<br><b>      2</b> action d’entonner (un air), intonation, ARSTT. <i>Mund. 6, 16</i>.<p><b>Étym</b>. ἐνδίδωμι.`

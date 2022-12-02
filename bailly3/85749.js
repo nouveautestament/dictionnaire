@@ -1,0 +1,1 @@
+lar[85749]=`<b>προσ·επιφημίζω</b>, pousser en outre des cris, applaudir en outre, PHIL. <i>2, 630 ; au pass</i>. STR. <i>802</i>.`

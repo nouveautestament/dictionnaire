@@ -1,0 +1,1 @@
+lar[63028]=`<b>ου (ὁ)</b> <i>c</i>. Μασσανάσσης, PLUT. <i>An seni resp. ger. sit 15</i>.<p>➳ <i>Dans une inscr. att</i>. Μασαννάσης, CIA. <i>2, 968, 43 (168/163 av. J.-C.) ; v. Meisterh. p. 12, 5</i>.`

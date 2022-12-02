@@ -1,0 +1,1 @@
+lar[56971]=`<b>ης, ες</b>, qui ressemble à du fumier, HPC. <i>217b ;</i> TH. <i>C.P. 2, 6, 3</i>.<p><b>Étym</b>. κοπρία, -ωδης.`

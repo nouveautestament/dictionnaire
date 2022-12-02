@@ -1,0 +1,1 @@
+lar[60197]=`<b>ης, ες</b>, qui ressemble à un lis, TH. <i>H.P. 3, 13, 6</i>.<p><b>Étym</b>. λείριον, -ωδης.`

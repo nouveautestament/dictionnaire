@@ -1,0 +1,1 @@
+lar[78628]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> circuit, tour, HDT. <i>2, 123</i>.<br><b>      2</b> évolution, PLUT. <i>Cato ma. 13</i>.<p><b>Étym</b>. περιελεύσομαι.`

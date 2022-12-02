@@ -1,0 +1,1 @@
+lar[12484]=`<b>ἀπο·καθεύδω :<br>      1</b> découcher, EUP. (SUID.) ; PHILSTR. <i>V. soph. 2, 15</i>.<br><b>      2</b> dormir auprès de, THÉM.`

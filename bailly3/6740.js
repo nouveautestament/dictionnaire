@@ -1,0 +1,1 @@
+lar[6740]=`<b>ἀνά·εδνος, ος, ον</b>, sans présents de noce (du fiancé) IL. <i>9, 146 ; 13, 366</i>.<p><b>Étym</b>. <i>p</i>. *ἀν-έεδνος, <i>de</i> ἀ- <i>priv.,</i> ἔεδνα.`

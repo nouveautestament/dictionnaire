@@ -1,0 +1,1 @@
+lar[100839]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>c</i>. τρυγόνιον 2, DIOSC. <i>Noth. 4, 60</i>.`

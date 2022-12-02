@@ -1,0 +1,1 @@
+lar[42756]=`<b>ατος (τὸ)</b> union, hymen, EUR. <i>Ion 304, au plur</i>.<p><b>Étym</b>. εὐνάω.`

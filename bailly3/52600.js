@@ -1,0 +1,1 @@
+lar[52600]=`<b>ος, ον</b>, brisé de fatigue, épuisé, DS. <i>13, 18, etc.</i> ; DH. <i>6, 29</i> ; PLUT. <i>Arat. 8, etc</i>.<p><b>Étym</b>. κατακόπτω.`

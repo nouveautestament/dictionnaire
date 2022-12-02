@@ -1,0 +1,1 @@
+lar[39460]=`<b>ἐπι·τοξάζομαι</b> <font color="darkgreen">(<i>seul. prés. et impf</i>. ἐπετοξαζόμην)</font> lancer des traits, IL. <i>3, 79</i> ; τινι, LUC. <i>Cal. 12</i> ; DC. <i>74, 6,</i> contre qqn.`

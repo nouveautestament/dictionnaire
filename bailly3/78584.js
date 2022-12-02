@@ -1,0 +1,1 @@
+lar[78584]=`<b>ος, ον</b>, enclos de tous côtés, PHÉRÉCR. (POLL. <i>10, 183).</i><p><b>Étym</b>. περιέργω.`

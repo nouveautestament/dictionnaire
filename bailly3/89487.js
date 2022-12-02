@@ -1,0 +1,1 @@
+lar[89487]=`<b>α, ον</b>, de Sarpèdon, <i>en Thrace,</i> ESCHL. <i>Suppl. 869</i> ; HDT. <i>7, 58</i>.<p><b>Étym</b>. Σαρπηδών².`

@@ -1,0 +1,1 @@
+lar[101481]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> hydropisie, HIPPIATR. <i>p. 135, 9</i>.<p><b>Étym</b>. ὑδεριάω.`

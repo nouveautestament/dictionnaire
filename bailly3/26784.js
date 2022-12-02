@@ -1,0 +1,1 @@
+lar[26784]=`<b>*Διο·μηνία</b>, <i>seul. ion</i>. <b>Διο·μηνίη, ης (ἡ)</b> colère de Zeus, ORPH. <i>fr. T. mot. (Brunck, Analecta veterum poetarum græcorum vol. 3, p. 2, l. 3 ; sel. Abel p. 143, l. 21</i> διὰ μήνιος).<p><b>Étym</b>. Διός, μῆνις.`

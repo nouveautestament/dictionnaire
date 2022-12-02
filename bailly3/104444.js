@@ -1,0 +1,1 @@
+lar[104444]=`<b>ΐδος (ἡ)</b> la fille d’Hypsée, <i>càd.</i> :<br><b>      1</b> Thémistô, NONN. <i>D. 9, 306</i>.<br><b>      2</b> Kyrènè (Cyrène) CALL. <i>Ap. 92</i>.<p><b>Étym</b>. Ὑψεύς.`

@@ -1,0 +1,1 @@
+lar[90050]=`<b>ιδος (ὁ)</b> Sthénis, <i>sculpteur,</i> PLUT. <i>Luc. 23</i>.<p><b>Étym</b>. σθένος.`

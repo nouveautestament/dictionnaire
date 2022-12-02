@@ -1,0 +1,1 @@
+lar[17056]=`<b>ἀ·τύρωτος, ος, ον</b> <font color="purple">[ῡ]</font> non caillé, DIOSC. <i>3, 41</i>.<p><b>Étym</b>. ἀ, τυρόω.`

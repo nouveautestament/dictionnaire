@@ -1,0 +1,1 @@
+lar[81998]=`<b>πολυ·κλήϊς, ϊδος (ὁ, ἡ)</b> <font color="purple">[ῑδ]</font> aux nombreux rangs de rameurs, IL. <i>2, 74, 175 ; 7, 88, etc.</i> ; OD. <i>20, 382</i> ; HÉS. <i>O. 815</i>.<p><b>Étym</b>. π. κληΐς.`

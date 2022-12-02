@@ -1,0 +1,1 @@
+lar[104311]=`<b>ή, όν</b>, qui est d’ordinaire en retard : τύπος, GAL. fièvre dont les accès s’espacent (<i>litt</i>. se font attendre) de plus en plus.<p><b>Étym</b>. ὑστερέω.`

@@ -1,0 +1,1 @@
+lar[25218]=`<b>δια·παύω :<br>      1</b> faire cesser, DH. <i>Comp. 12</i>.<br><b>      2</b> <i>p. suite,</i> détruire, XÉN. <i>Hell. 4, 4, 14</i>.<br><b><i>Moy.</i></b> cesser pour un temps, se reposer, PLAT. <i>Conv. 191c, Rsp. 336b</i>.`

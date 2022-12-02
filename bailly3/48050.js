@@ -1,0 +1,1 @@
+lar[48050]=`<b>θυρσό·λογχος, ου (ὁ) :<br>      1</b> thyrse en forme de lance, CALLIX. (ATH. <i>200d</i>).<br><b>      2</b> <i>adj</i>. qui consiste en une lance en forme de thyrse, STR. <i>19</i>.<p><b>Étym</b>. θ. λόγχη.`

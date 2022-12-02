@@ -1,0 +1,1 @@
+lar[46365]=`<b>ή, όν :<br>      1</b> porté à admirer, ARSTT. <i>Nic. 4, 3, 30</i> ; PLUT. <i>M. 41a.</i><br><b>      2</b> qui exprime l’admiration (adverbe ou interjection) D. THR. <i>642, 8</i>.<p><b>Étym</b>. θαυμαστός.`

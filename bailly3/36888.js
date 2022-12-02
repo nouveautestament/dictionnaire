@@ -1,0 +1,1 @@
+lar[36888]=`<b>ἐπ·αφύσσω</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>ao. 3 sg</i>. ἐπήφυσε <font color="purple">[ῠ]</font>)</font> verser sur, OD. <i>19, 388</i>.`

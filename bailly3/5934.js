@@ -1,0 +1,1 @@
+lar[5934]=`<b>ης (ἡ)</b> <font color="purple">[ᾰῡ]</font> action de se défendre, PLUT. <i>Cæs. 44, etc</i>.<p><b>Étym</b>. ἀμύνω.`

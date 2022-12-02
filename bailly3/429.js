@@ -1,0 +1,1 @@
+lar[429]=`<b>ατος (τὸ)</b> message, nouvelle, EUR. <i>Or. 876</i> ; THC. <i>7, 74</i>.<p><b>Étym</b>. ἀγγέλλω.`

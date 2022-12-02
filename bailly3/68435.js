@@ -1,0 +1,1 @@
+lar[68435]=`<b>εως (ἡ)</b> action de couvrir de nuages, PHIL. <i>1, 27</i> ; HLD. <i>p. 362</i>.<p><b>Étym</b>. νεφόω.`

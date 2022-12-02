@@ -1,0 +1,1 @@
+lar[86753]=`<b>προ·τεμένισμα, ατος (τὸ)</b> vestibule <i>ou</i> parvis d’un temple, THC. <i>1, 134</i> ; HLD. <i>5, 15, etc</i>.<p><b>Étym</b>. π. τεμενίζω.`

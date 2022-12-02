@@ -1,0 +1,1 @@
+lar[98415]=`<font color="darkgreen">(<i>ao. épq. 3 sg</i>. τέρσηνε)</font> faire sécher, étancher, IL. <i>16, 529 ; au pass. (impf. épq. 3 pl</i>. τερσαίνοντο) se dessécher, A.RH. <i>4, 1405</i>.<p><b>Étym</b>. τέρσω.`

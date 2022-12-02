@@ -1,0 +1,1 @@
+lar[82406]=`<b>Πολύ·στρατος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Polystratos, <i>h</i>. XÉN. <i>An. 3, 3, 20</i> ; DÉM. <i>4, 23 Baiter-Sauppe, etc</i>.<p><b>Étym</b>. π. στρατός.`

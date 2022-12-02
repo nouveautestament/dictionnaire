@@ -1,0 +1,1 @@
+lar[74580]=`<b>παλιν·οδέω-ῶ</b>, <i>moy</i>. <b>παλινοδέομαι-οῦμαι</b> <font color="purple">[ᾰῐ]</font> s’élever de série en série, <i>en parl. des nombres,</i> THEOL. <i>p. 22</i>.<p><b>Étym</b>. π. ὁδός.`

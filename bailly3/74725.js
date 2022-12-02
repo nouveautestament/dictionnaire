@@ -1,0 +1,1 @@
+lar[74725]=`<b>πάμ·μουσος, ος, ον</b>, tout à fait harmonieux, <i>d’où</i> élégant, gracieux, PHIL. <i>1, 526, 625, etc</i>.<p><b>Étym</b>. π. μοῦσα.`

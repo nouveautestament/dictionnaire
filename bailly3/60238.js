@@ -1,0 +1,1 @@
+lar[60238]=`<b>λεκανο·σκοπία, ας (ἡ)</b> <font color="purple">[κᾰ]</font> examen d’un bassin de métal pour prédire l’avenir, MAN. <i>4, 213</i>.<p><b>Étym</b>. λεκάνη, σκοπέω.`

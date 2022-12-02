@@ -1,0 +1,1 @@
+lar[12888]=`<b>ἀπο·μηκύνω :<br>      1</b> allonger, prolonger, PLAT. <i>Soph. 217d ;</i> LUC. <i>Herm. 67, etc.</i><br><b>      2</b> <i>abs</i>. être prolixe, PLAT. <i>Prot. 336c</i>.`

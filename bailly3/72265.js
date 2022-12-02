@@ -1,0 +1,1 @@
+lar[72265]=`<b>α, ον</b> <font color="purple">[ῐδ]</font> <i>c</i>. ὀπίσθιος, CALL. <i>Dian. 151</i> ; ANTH. <i>9, 482</i>.`

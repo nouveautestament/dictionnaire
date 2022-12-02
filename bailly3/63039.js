@@ -1,0 +1,1 @@
+lar[63039]=`<b>η, ον</b> <font color="purple">[ῐ]</font> rouge brun comme du cuir, <i>d’où</i> μασθλητίνη καρίς, EUP. (ATH. <i>106b</i>) sorte de crabe.<p><b>Étym</b>. μάσθλη.`

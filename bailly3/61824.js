@@ -1,0 +1,1 @@
+lar[61824]=`<b>ων (τὰ) :<br>      1</b> (<i>s.-e</i>. ἱερά) fêtes de Zeus Lykæos, XÉN. <i>An. 1, 2, 10</i>.<br><b>      2</b> les Lupercales, <i>à Rome,</i> DH. <i>1, 80</i> ; PLUT. <i>M. 280c, Rom. 21, etc</i>.<p><b>Étym</b>. Λυκαῖος.`

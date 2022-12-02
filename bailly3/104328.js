@@ -1,0 +1,1 @@
+lar[104328]=`<b>ὑστερο·φθόρος, ος, ον</b>, qui fait périr plus tard, SOPH. <i>Ant. 1074</i>.<p><b>Étym</b>. ὕ. φθείρω.`

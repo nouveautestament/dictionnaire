@@ -1,0 +1,1 @@
+lar[9287]=`<b>ἀν·ομόλογος, ος, ον</b>, non d’accord, contradictoire, SEXT. <i>M. 8, 331</i>.<p><b>Étym</b>. ἀν-, ὁ.`

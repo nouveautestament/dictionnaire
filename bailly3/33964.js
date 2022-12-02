@@ -1,0 +1,1 @@
+lar[33964]=`<i>adv</i>., en laissant une empreinte, SEXT. <i>581, 6 Bkk</i>.<p><b>Étym</b>. <i>part. pf. pass. de</i> ἐναπομάσσω.`

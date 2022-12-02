@@ -1,0 +1,1 @@
+lar[82529]=`<b>πολυ·φραδής, ής, ές</b> <font color="purple">[ᾰ]</font> très sage, très avisé, HÉS. <i>Th. 494</i>.<p>•<i> Sup</i>. -έστατος, SIM. AM. <i>fr. 7, 93</i>.<p>➳ <i>Dat. pl. épq</i>. πολυφραδέεσσι, HÉS. <i>l. c</i>.<p><b>Étym</b>. π. φράζομαι.`

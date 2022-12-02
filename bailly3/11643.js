@@ -1,0 +1,1 @@
+lar[11643]=`<b>ἀπ·εκτείνω</b>, étendre d’un point (à un autre) ORIG. <i>3, 803</i>.`

@@ -1,0 +1,1 @@
+lar[106264]=`<b>α</b> <i>et</i> <b>ου (ὁ)</b> Philôtas :<br><b>      1</b> <i>général d’Alexandre le Grand,</i> PLUT. <i>Alex. 10, 11, etc.</i><br><b>      2</b> <i>autres,</i> PLUT. <i>Ant. 28, etc</i>.<p>➳ <i>Voc</i>. Φιλώτα, PLUT. <i>Ant. 28 ; gén</i>. -α, ARR. <i>An. 1, 17, 17, ou</i> -ου, GAL. <i>13, 439</i>.`

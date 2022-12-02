@@ -1,0 +1,1 @@
+lar[28013]=`<b>οπος (ὁ)</b> <font color="purple">[ῠ]</font> Dryope :<br><b>      1</b> <i>fils de Priam,</i> IL. <i>20, 455</i>.<br><b>      2</b> <i>fils d’Apollon,</i> HH. <i>19, 34</i>.`

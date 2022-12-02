@@ -1,0 +1,1 @@
+lar[104119]=`<b>ος, ον :<br>      1</b> tributaire de, <i>dat</i>. PLUT. <i>M. 774c ;</i> M. RUBR. <i>16</i>.<br><b>      2</b> fistuleux (<i>v</i>. ὑποφορά) GAL. <i>14, 681</i>.<p><b>Étym</b>. ὑποφέρω.`

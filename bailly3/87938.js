@@ -1,0 +1,1 @@
+lar[87938]=`<font color="purple">[ῠ]</font> <i>adv</i>., avec l’apparence du feu, PLUT. <i>M. 888e</i>.<p><b>Étym</b>. πυροειδής.`

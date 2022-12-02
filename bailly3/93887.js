@@ -1,0 +1,1 @@
+lar[93887]=`<b>οῦ (ὁ) :<br>      1</b> conseiller, <i>particul</i>. orateur qui conseille une décision, PLAT. <i>Leg. 921a.</i><br><b>      2</b> sénateur, DIN. (POLL. <i>6, 159) ; à Rome,</i> DC. <i>59, 26</i>.<p><b>Étym</b>. συμβουλεύω.`

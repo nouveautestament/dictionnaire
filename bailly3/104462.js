@@ -1,0 +1,1 @@
+lar[104462]=`<b>ὑψηλό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος :<br>      1</b> qui a des sentiments élevés <i>ou</i> de grandes pensées, EUR. <i>I.A. 919</i>.<br><b>      2</b> <i>en mauv. part,</i> qui a une haute opinion de soi, hautain, orgueilleux, PLAT. <i>Rsp. 550b ;</i> THÉM. <i>27d</i>.<p><b>Étym</b>. ὑ. φρήν.`

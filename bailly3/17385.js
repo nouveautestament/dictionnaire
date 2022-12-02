@@ -1,0 +1,1 @@
+lar[17385]=`<b>αὐτο·αλήθεια, ας (ἡ)</b> la vérité en soi, la vérité absolue, <i>en parl. de Dieu,</i> ORIG.`

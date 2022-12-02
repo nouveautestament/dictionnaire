@@ -1,0 +1,1 @@
+lar[15897]=`<font color="purple">[δᾰ]</font> <i>adv</i>., sans cligner les yeux, XÉN. <i>Cyr. 1, 4, 28</i> ; LUC. <i>Tim. 14</i>.<p><b>Étym</b>. ἀσκαρδάμυκτος.`

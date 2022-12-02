@@ -1,0 +1,1 @@
+lar[70074]=`<b>ης (ἡ) :<br>      1</b> poirier, OD. <i>7, 115, etc.</i><br><b>      2</b> poire, OD. <i>7, 120</i>.<p><b>Étym</b>. <i>cf</i>. ὄχνη.`

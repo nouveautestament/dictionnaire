@@ -1,0 +1,1 @@
+lar[81095]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> qui peut être tressé, TH. <i>H.P. 4, 11, 1</i>.<p><b>Étym</b>. πλόκος.`

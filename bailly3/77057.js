@@ -1,0 +1,1 @@
+lar[77057]=`<b>παρ·ομαρτέω-ῶ</b>, accompagner, escorter, <i>dat</i>. PLUT. <i>Ant. 26 ; abs</i>. LUC. <i>Tim. 55, etc</i>.`

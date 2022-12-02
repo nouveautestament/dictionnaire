@@ -1,0 +1,1 @@
+lar[89827]=`<b>άδος (ἡ)</b> <i>c</i>. ἑπτάς, Ps.-JAMBL. <i>Theol. arithm. p. 43</i> ; PHOT. <i>Bibl. 144, 15</i>.`

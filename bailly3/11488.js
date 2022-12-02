@@ -1,0 +1,1 @@
+lar[11488]=`<b>ἀπ·αφίσκω</b> <font color="darkgreen">(<i>f</i>. ἀπαφήσω ; <i>ao.1</i> ἀπάφησα ; <i>ao.2</i> ἤπαφον)</font> <font color="purple">[ᾰᾰφ]</font> tromper, décevoir, OD. <i>11, 217</i> ; A. PL. <i>108, 2</i>.<br><b><i>Moy.</i></b> <i>(seul. opt. ao.2, 3 sg</i>. ἀπάφοιτο, OD. <i>23, 216) m. sign</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec</i>.`

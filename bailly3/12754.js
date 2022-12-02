@@ -1,0 +1,1 @@
+lar[12754]=`<b>ἀπο·λεπτύνω</b>, amincir, amoindrir, ARSTT. <i>H.A. 1, 5, 8 ; fig</i>. PLAT. <i>Tim. 83b</i>.<p>➳ <i>Part. ao. pass</i>. ἀπολεπτυνθείς, PLAT. <i>l. c. ; part. pf. pass</i>. ἀπολελεπτυσμένος, ARSTT. <i>H.A. 1, 5, 8</i>.`

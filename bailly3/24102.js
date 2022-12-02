@@ -1,0 +1,1 @@
+lar[24102]=`<font color="purple">[ᾰῐ]</font> <i>adv</i>., OPP. <i>C. 1, 84 ; 3, 359, 402, et</i> δηθάκις <font color="purple">[ᾰῐ]</font> NIC. <i>Al. 318</i> ; OPP. <i>C. 1, 27, c</i>. δηθά.`

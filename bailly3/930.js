@@ -1,0 +1,1 @@
+lar[930]=`<b>ἀγριο·φανής, ής, ές</b> <font color="purple">[φᾰ]</font> d’aspect sauvage, CORN. <i>27</i>.<p><b>Étym</b>. ἄγρ. φαίνω.`

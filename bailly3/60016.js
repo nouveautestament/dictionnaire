@@ -1,0 +1,1 @@
+lar[60016]=`<b>ά, όν</b> <font color="purple">[ᾰᾰ]</font> de légume <i>ou</i> de potager, TH. <i>H.P. 1, 11, 3, etc</i>.<p><b>Étym</b>. λάχανον.`

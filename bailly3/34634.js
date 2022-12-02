@@ -1,0 +1,1 @@
+lar[34634]=`<b>ἐν·ιοβολέω-ῶ</b> <font color="purple">[ῑ]</font> lancer du venin sur, <i>dat</i>. HPC. <i>1279, 12</i>.`

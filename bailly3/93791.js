@@ -1,0 +1,1 @@
+lar[93791]=`<b>α, ον</b> <font color="purple">[ῐ]</font> rassemblé de toutes parts, ARSTT. <i>Meteor. 2, 1, 6</i> ; LUC. <i>Tox. 19</i>.<p><b>Étym</b>. συλλογή.`

@@ -1,0 +1,1 @@
+lar[109345]=`<b>χυδαιόω-ῶ</b> <font color="purple">[ῠ]</font> répandre, vulgariser, <i>au pass</i>. AQU. <i>Esai. 33, 9, etc</i>.<p><b>Étym</b>. χυδαῖος.`

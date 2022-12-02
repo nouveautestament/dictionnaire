@@ -1,0 +1,1 @@
+lar[97532]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰλῐδ]</font> fille de Tantale, ANTH. <i>7, 530, 743</i> ; A. PL. <i>134</i>.<p>➳ <i>Voc</i>. -ί, A. PL. <i>l. c</i>.<p><b>Étym</b>. Τάνταλος.`

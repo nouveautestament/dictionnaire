@@ -1,0 +1,1 @@
+lar[10941]=`<i>adv</i>., d’une manière digne <i>ou</i> convenable, XÉN.`

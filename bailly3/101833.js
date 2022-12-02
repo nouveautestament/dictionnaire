@@ -1,0 +1,1 @@
+lar[101833]=`<b>ὑμνῳδέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> chanter un hymne, chanter, ESCHL. <i>Ag. 990</i> ; PLAT. <i>Leg. 682a.</i><br><b>      2</b> prononcer des oracles, EUR. <i>Ion 6 ; cf</i>. χρησμῳδέω.<p>➳ <i>Par exc</i>. <font color="purple">[ῠ]</font> ESCHL. <i>l. c</i>.<p><b>Étym</b>. ὑμνῳδός.`

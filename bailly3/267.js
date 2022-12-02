@@ -1,0 +1,1 @@
+lar[267]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> bonté, SPT. <i>Sap. 1, 1</i> ; PHIL. <i>1, 55</i>.<br><b>      2</b> <i>titre d’honneur</i> (sa Bonté, votre Bonté, <i>etc</i>.) NAZ. <i>3, 64</i> ; NYSS. <i>3, 1097 Migne</i>.<p><b>Étym</b>. ἀγαθός.`

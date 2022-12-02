@@ -1,0 +1,1 @@
+lar[82935]=`<b>ητος (ἡ)</b> la quantité, <i>t. de philos</i>. ARSTT. <i>Metaph. 6, 1, 2</i> ; POL. <i>16, 12, 10 ; au pl</i>. SEXT. <i>P. 1, 129</i> ; LGN <i>2, 2</i>.<p><b>Étym</b>. πόσος.`

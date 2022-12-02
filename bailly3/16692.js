@@ -1,0 +1,1 @@
+lar[16692]=`<b>ιος (ἡ)</b> Atarbèkhis, <i>v. du Delta égyptien,</i> HDT.`

@@ -1,0 +1,1 @@
+lar[100700]=`<b>ας (ἡ)</b> port de trophées, PLUT. <i>Pel. c. Marc. 3</i>.<p><b>Étym</b>. τροπαιοφόρος.`

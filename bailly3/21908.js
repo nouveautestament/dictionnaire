@@ -1,0 +1,1 @@
+lar[21908]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> joyeux, ANDROM. (GAL. <i>13, 876).</i><p><b>Étym</b>. γηθέω.`

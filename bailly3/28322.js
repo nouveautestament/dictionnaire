@@ -1,0 +1,1 @@
+lar[28322]=`<b>δυσ·έγερτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à éveiller, P. ÉG. <i>61, 16</i>.<p><b>Étym</b>. δ. ἐγείρω.`

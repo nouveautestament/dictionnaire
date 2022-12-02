@@ -1,0 +1,1 @@
+lar[48033]=`<b>θυρο·κόπος, ος, ον</b> <font color="purple">[ῠ]</font> qui frappe aux portes, mendiant, ESCHL. <i>Ag. 1195</i>.<p><b>Étym</b>. θ. κόπτω.`

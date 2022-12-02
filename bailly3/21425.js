@@ -1,0 +1,1 @@
+lar[21425]=`<b>οῦ (ὁ)</b> gloutonnerie, gourmandise, SOPHIL. (ATH. <i>100a</i>).<p><b>Étym</b>. γαστρίζω.`

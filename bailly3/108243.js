@@ -1,0 +1,1 @@
+lar[108243]=`<b>ατος (τὸ)</b> fausse-quille <i>ou</i> varangue, <i>pièce de la charpente inférieure d’un navire, de forme analogue à une écaille de tortue,</i> TH. <i>H.P. 5, 7, 2</i>.<p><b>Étym</b>. χέλυς.`

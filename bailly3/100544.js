@@ -1,0 +1,1 @@
+lar[100544]=`<b>(αἱ)</b> Tritées, <i>v. de Phocide,</i> HDT. <i>8, 33</i>.`

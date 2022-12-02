@@ -1,0 +1,1 @@
+lar[82018]=`<b>πολυ·κόλλητος, ος, ον</b> <font color="purple">[ῠ]</font> formé de plusieurs pièces collées <i>ou</i> adaptées, NYSS. <i>3, 420 Migne</i>.<p><b>Étym</b>. π. κολλάω.`

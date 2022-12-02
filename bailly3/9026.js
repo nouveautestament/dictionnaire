@@ -1,0 +1,1 @@
+lar[9026]=`<b>ἀνθ·υφαιρέω</b> <font color="darkgreen">(<i>ao. pass</i>. -υφῃρέθην)</font> enlever à son tour, SPT. <i>Lev. 27, 18</i> ; DC. <i>48, 33</i>.`

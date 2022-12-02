@@ -1,0 +1,1 @@
+lar[20188]=`<b>βοό·κτιτος, ος, ον</b> <font color="purple">[ῐ]</font> fondé par une génisse, <i>càd</i>. à l’endroit où se trouvait une génisse, <i>en parl. de Thèbes,</i> NONN. <i>D. 25, 415</i>.<p><b>Étym</b>. βοῦς, κτίζω.`

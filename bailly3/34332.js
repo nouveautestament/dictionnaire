@@ -1,0 +1,1 @@
+lar[34332]=`<b>ή, όν</b>, quatre-vingt-dixième, XÉN. <i>Hell. 1, 2, 1</i>.<p><b>Étym</b>. ἐνενήκοντα.`

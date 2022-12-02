@@ -1,0 +1,1 @@
+lar[44495]=`<b>ΐδος</b> <font color="purple">[ῠ]</font> <i>adj. f. c</i>. ζεφύριος, NONN. <i>D. 37, 335</i>.<p><b>Étym</b>. ζέφυρος.`

@@ -1,0 +1,1 @@
+lar[109652]=`<i>acc. sg. m. et pl. neutre de</i> ψευδής.`

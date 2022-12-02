@@ -1,0 +1,1 @@
+lar[109352]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> suc exprimé d’une plante, TH. <i>H.P. 9, 8, 3</i>.<p><b>Étym</b>. χυλίζω.`

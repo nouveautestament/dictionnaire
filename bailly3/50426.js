@@ -1,0 +1,1 @@
+lar[50426]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῑ]</font> action de faire descendre au moyen d’une corde, PLUT. <i>M. 264e</i>.<p><b>Étym</b>. καθιμάω.`

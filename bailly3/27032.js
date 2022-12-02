@@ -1,0 +1,1 @@
+lar[27032]=`<b>δισμυρί·ανδρος, ος, ον</b> <font color="purple">[ῡ]</font> qui se compose de 20 000 hommes, STR. <i>570</i>.<p><b>Étym</b>. δισμύριοι, ἄνδρες.`

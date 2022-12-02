@@ -1,0 +1,1 @@
+lar[77476]=`<b>παχύ·θριξ</b>, <i>gén</i>. <b>-τριχος (ὁ, ἡ)</b> <font color="purple">[ᾰῐχ]</font> aux cheveux épais <i>ou</i> au poil touffu, ARSTT. <i>G.A. 5, 3, 10, au cp</i>. -τριχώτερος.<p><b>Étym</b>. π. θρίξ.`

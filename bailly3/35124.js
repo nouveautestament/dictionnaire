@@ -1,0 +1,1 @@
+lar[35124]=`<b>ής, ές</b>, diligent, adroit, preste, M. ANT. <i>6, 14</i> ; LGN <i>44</i>.<p>•<i> Sup</i>. -έστατος, PLAT. <i>Rsp. 537a</i>.<p><b>Étym</b>. ἐντρέχω.`

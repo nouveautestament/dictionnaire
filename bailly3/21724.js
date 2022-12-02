@@ -1,0 +1,1 @@
+lar[21724]=`<i>adv</i>., noblement, <i>d’où</i> bravement, courageusement, AR. <i>Lys. 1071</i> ; ANTIPH. (ATH. <i>302f</i>) ; LUC. <i>Char. 14</i>.`

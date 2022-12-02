@@ -1,0 +1,1 @@
+lar[94794]=`<b>συν·ανθέω-ῶ</b>, fleurir avec, <i>dat</i>. POL. <i>6, 44, 2</i> ; ἅμα τινί, TH. <i>Od. 63,</i> avec qqe ch. ; <i>fig. en parl. d’un vêtement,</i> être aussi brodé de couleurs variées, JOS. <i>A.J. 3, 6, 2</i>.`

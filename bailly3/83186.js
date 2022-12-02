@@ -1,0 +1,1 @@
+lar[83186]=`<b>πραγματο·δίφης, ου (ὁ)</b> <font color="purple">[μᾰῑ]</font> chercheur d’affaires, chicaneur, AR. <i>Av. 1424</i>.<p><b>Étym</b>. π. διφάω.`

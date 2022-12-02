@@ -1,0 +1,1 @@
+lar[108953]=`<b>χρηματο·φθορικός, ή, όν</b> <font color="purple">[ᾰ]</font> propre à faire perdre la fortune, ruineux, PLAT. <i>Soph. 225d</i>.<p><b>Étym</b>. χρῆμα, φθείρω.`

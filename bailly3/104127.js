@@ -1,0 +1,1 @@
+lar[104127]=`<b>ὑπο·φρύγιος, ος, ον</b> <font color="purple">[ῠγ]</font> hypophrygien, <i>n. d’un mode de musique voisin du mode phrygien,</i> PLUT. <i>M. 1142f ;</i> ATH. <i>625e</i>.`

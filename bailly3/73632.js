@@ -1,0 +1,1 @@
+lar[73632]=`<b>οὔ·πως</b>, <i>adv</i>., en aucune façon, nullement, IL. <i>4, 320, etc. ; avec μέν intercalé</i> : οὐ μέν πως, IL. <i>2, 203, etc</i>.<p>➳ <i>Ion</i>. οὔκως, HDT. <i>1, 33, 152</i>.<p><b>Étym</b>. οὔ- πῶς.`

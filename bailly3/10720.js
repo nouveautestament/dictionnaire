@@ -1,0 +1,1 @@
+lar[10720]=`<b>ἀν·υμέναιος, ος, ον</b> <font color="purple">[ῠ]</font> sans chant nuptial, sans hyménée, SOPH. <i>Ant. 176, etc.</i> ; EUR. <i>Hec. 416 ; adv</i>. ἀνυμέναια, SOPH. <i>El. 962</i> ; EUR. <i>Ph. 347,</i> sans hyménée.<p><b>Étym</b>. ἀν-, ὑμέναιος.`

@@ -1,0 +1,1 @@
+lar[91120]=`<b>σκοπελο·δρόμος, ος, ον</b>, qui court sur les rochers, ANTH. <i>6, 74</i>.<p><b>Étym</b>. σκόπελος, δραμεῖν.`

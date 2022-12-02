@@ -1,0 +1,1 @@
+lar[91853]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui répand la semence, ARSTT. <i>Probl. 1, 5</i>.<br><b>      2</b> fécond, CHAROND. (STOB. <i>Fl. 44, 40</i>).<br><b>      3</b> qui n’existe qu’en germe, ébauché, ARTÉM. <i>4, Præf</i>.<p>•<i> Cp</i>. -έστερος, ARTÉM. <i>l. c. ; • Sup</i>. -έστατος, CHAROND. <i>l. c</i>.<p><b>Étym</b>. σπέρμα, -ωδης.`

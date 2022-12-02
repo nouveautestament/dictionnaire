@@ -1,0 +1,1 @@
+lar[11307]=`<b>ἀ·παράγωγος, ος, ον</b>, qu’on ne peut détourner, HIÉROCL. <i>C. aur. 450 Mullach</i>.<p><b>Étym</b>. ἀ, παράγω.`

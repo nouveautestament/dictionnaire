@@ -1,0 +1,1 @@
+lar[49881]=`<font color="purple">[ᾰ]</font> retenir, arrêter : τινά, IL. <i>14, 387 ; 17, 747,</i> qqn ; τινός, HÉS. <i>O. 493,</i> écarter qqn de qqe ch.<p>➳ <i>Seul. prés</i>. IL. <i>14, 387</i> ; OD. <i>19, 42, et impf</i>. IL. <i>17, 747</i> ; HH. <i>7, 13</i>.`

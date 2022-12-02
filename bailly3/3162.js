@@ -1,0 +1,1 @@
+lar[3162]=`<b>α, ον</b>, doux, paisible, ESCHL. <i>Ag. 741</i>.<p><b>Étym</b>. ἀκασκᾶ.`

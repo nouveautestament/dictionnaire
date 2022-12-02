@@ -1,0 +1,1 @@
+lar[57020]=`<b>ή, όν</b>, de corbeau, noir comme un corbeau, STR. <i>144</i> ; PLUT. <i>M. 1157a, 1161e</i>.<p><b>Étym</b>. κόραξ.`

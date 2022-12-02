@@ -1,0 +1,1 @@
+lar[80015]=`<i>(seul. prés. et impf.) c</i>. πήγνυμι ; <i>prés. ind. 3 pl</i>. πηγνύουσι, HPC. <i>362, 46 ; inf</i>. πηγνύειν, XÉN. <i>Cyn. 6, 7 ; impf. poét</i>. πήγνυον, ORPH. <i>Lith. 562, etc</i>.`

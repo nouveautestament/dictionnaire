@@ -1,0 +1,1 @@
+lar[73925]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Okhimos, <i>Rhodien,</i> PLUT. <i>M. 297d</i>.`

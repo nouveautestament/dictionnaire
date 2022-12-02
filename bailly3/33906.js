@@ -1,0 +1,1 @@
+lar[33906]=`<i>adv</i>., contrairement à, <i>dat</i>. ESCHL. <i>Eum. 642</i> ; PLAT. <i>Rsp. 361c ; gén</i>. PLAT. <i>Phæd. 84a ; avec</i> ἤ <i>dans le même sens,</i> PLAT. <i>Theæt. 175d ;</i> ἐν. ἔχειν πρός τι, DÉM. <i>10, 14,</i> être opposé à qqe ch. ; <i>abs</i>. PLAT. <i>Euthyd. 278a</i>.<p><b>Étym</b>. ἐναντίος.`

@@ -1,0 +1,1 @@
+lar[14740]=`<b>Ἀριστό·ξενος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristoxénos (Aristoxène), <i>philosophe, disciple d’Aristote,</i> PLUT. <i>Tim. 15</i> ; LUC. <i>Par. 35</i>.<p><b>Étym</b>. ἄ. ξένος.`

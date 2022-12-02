@@ -1,0 +1,1 @@
+lar[19071]=`<b>βαρβαρό·φωνος, ος, ον</b> <font color="purple">[ᾰρο]</font><br><b>      1</b> qui parle une langue étrangère, ORACL. (HDT. <i>8, 20 ; 9, 43) ; p. suite,</i> qui parle comme un étranger, <i>càd</i>. au parler rude, <i>en parl. des Cariens,</i> IL. <i>2, 867</i>.<br><b>      2</b> qui parle mal le grec, STR. <i>663</i>.<p><b>Étym</b>. β. φωνή.`

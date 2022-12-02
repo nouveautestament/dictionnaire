@@ -1,0 +1,1 @@
+lar[106810]=`<b>ή, όν</b> <font color="purple">[ᾱᾰ]</font> qui concerne les curies, <i>à Rome</i> : νόμος φρ. DC. <i>37, 51,</i> loi curiate.<p><b>Étym</b>. φρατρία.`

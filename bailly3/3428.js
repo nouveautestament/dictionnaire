@@ -1,0 +1,1 @@
+lar[3428]=`<b>ας (ἡ)</b> misère, malheur, SOPH. <i>fr. 816</i> ; ANTIPH. <i>(Bkk. 77</i>) ; POL. <i>23, 8, 9</i> ; DS. <i>17, 69</i>.<p><b>Étym</b>. ἄκληρος.`

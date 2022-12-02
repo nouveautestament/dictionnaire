@@ -1,0 +1,1 @@
+lar[75148]=`<b>παν·σαγία, ας (ἡ)</b> <font color="purple">[ᾰγ]</font> armure complète <i>ou</i> troupe entière d’hommes armés, SOPH. <i>Ant. 107</i>.<p><b>Étym</b>. π. σάγη.`

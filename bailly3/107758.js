@@ -1,0 +1,1 @@
+lar[107758]=`<b>χαμαι·ευνάς, άδος</b> <font color="purple">[ᾰ, αι bref, ᾰδ]</font> <i>fém. c</i>. χαμαιεύνης OD. <i>10, 243 ; 14, 15</i> ; NIC. <i>Th. 532</i> ; LYC. <i>848 ; en parl. de parasites,</i> EUB. <i>3, 269 Meineke</i>.`

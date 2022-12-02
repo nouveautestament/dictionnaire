@@ -1,0 +1,1 @@
+lar[18911]=`<i>adv</i>., avec un transport (de délire, d’ivresse, <i>etc</i>.) STR. <i>687</i>.<p>•<i> Cp</i>. -ώτερον, ATH. <i>560f</i>.`

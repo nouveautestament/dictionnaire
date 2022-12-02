@@ -1,0 +1,1 @@
+lar[35856]=`<b>ἐξ·εσθίω</b>, manger complètement, dévorer.<p>➳ <i>Prés. ind. 3 pl</i>. ἐξεσθίουσι, ARSTT. <i>H.A. 5, 22, 13. Fut. 3 sg</i>. ἐξέδεται, AR. <i>Eq. 1032. Ao.2 sbj</i>. ἐκφάγω <font color="purple">[ᾰ]</font> AR. <i>Eq. 698. Pf. 3 sg</i>. ἐξεδήδοκεν, AR. <i>Vesp. 925</i>.`

@@ -1,0 +1,1 @@
+lar[57337]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de douche, P. ÉG. <i>p. 106, 1</i>.<p><b>Étym</b>. κοτταβίζω.`

@@ -1,0 +1,1 @@
+lar[20557]=`<b>οῦς (ἡ)</b> Boutô (Butô) :<br><b>      1</b> <i>v. de la Basse-Égypte,</i> HDT. <i>2, 59 (cf</i>. βούτη).<br><b>      2</b> <i>autre v. d’Égypte près de</i> βούβαστις, HDT. <i>2, 75</i>.`

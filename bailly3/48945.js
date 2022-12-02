@@ -1,0 +1,1 @@
+lar[48945]=`<b>ἰλυσπάομαι-ῶμαι</b> <font color="purple">[ῑ]</font> se rouler <i>ou</i> se tortiller, <i>en parl. d’un ver,</i> PLAT. <i>Tim. 92a ;</i> PLUT. <i>M. 567b ; en parl. de convulsions, de mouvements causés par la douleur,</i> EL. <i>N.A. 8, 14 ; 9, 32</i> ; JOS. <i>A.J. 1, 1, 4 ; B.J. 3, 7, 21 ; cf</i>. εἰλυσπάομαι.`

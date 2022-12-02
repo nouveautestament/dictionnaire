@@ -1,0 +1,1 @@
+lar[59057]=`<b>κυφόω-ῶ</b> <font color="purple">[ῡ]</font> courber, <i>au pass</i>. devenir bossu, HPC. <i>807a, etc</i>.<p><b>Étym</b>. κυφός.`

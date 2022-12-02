@@ -1,0 +1,1 @@
+lar[97538]=`<i>c. premier terme de compos.,</i> mince, étroit, effilé ; <i>v. la plupart des mots suiv</i>. τανύγληνος, τανύγλωσσος, τανυγλώχιν, <i>etc</i>.<p><b>Étym</b>. <i>p. adj</i>. *τανύς, <i>de indo-europ</i>. *tenh₂-u-, mince ; <i>cf</i>. ταναός, <i>sscr</i>. tanú-, <i>lat</i>. tenuis ; <i>le sens parfois influencé par</i> τάνυμαι, <i>cf</i>. τανύπτερος.`

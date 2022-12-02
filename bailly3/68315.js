@@ -1,0 +1,1 @@
+lar[68315]=`<b>νεό·φυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> nouvellement planté, planté de jeunes arbres, SPT. <i>Esaï. 5, 7 ; Job 14, 9 ; Ps. 143, 13, etc.</i><br><b>      2</b> nouveau converti, néophyte, NT. <i>1Tim. 3, 6 ; en parl. de la religion elle-même,</i> nouvellement implanté (dans l’âme) CHRYS. <i>5, 172, 813</i>.<p><b>Étym</b>. ν. φύω.`

@@ -1,0 +1,1 @@
+lar[66008]=`<b>ατος (τὸ) :<br>      1</b> paye, solde, salaire, HDT. <i>2, 180</i> ; ISOCR. <i>145c ;</i> DÉM. <i>379, 20</i> ; MACH. (ATH. <i>581a</i>) ; LUC. <i>D. mer. 6, 3, etc.</i><br><b>      2</b> loyer d’une maison, NT. <i>Ap. 28, 30</i>.<p><b>Étym</b>. μ. μισθόω.`

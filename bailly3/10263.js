@@ -1,0 +1,1 @@
+lar[10263]=`<b>ἀντι·περιστροφή, ῆς (ἡ)</b> conversion <i>ou</i> évolution en sens contraire, PLUT. <i>M. 901c</i>.<p><b>Étym</b>. ἀ. περιστρέφω.`

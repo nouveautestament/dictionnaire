@@ -1,0 +1,1 @@
+lar[10848]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> <font color="purple">[ῠ]</font> manque de nom, défaut de notoriété, ARAT. <i>146</i>.<p><b>Étym</b>. ἀνώνυμος.`

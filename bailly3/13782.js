@@ -1,0 +1,1 @@
+lar[13782]=`<b>ἀπο·χαρακόω-ῶ</b> <font color="purple">[χᾰᾰ]</font> fortifier d’une palissade, DH. <i>5, 58</i> ; PLUT. <i>Pomp. 35</i>.`

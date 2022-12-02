@@ -1,0 +1,1 @@
+lar[56910]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petite hymne, CHRYS. <i>6, 1004</i>.<p><b>Étym</b>. κοντός².`

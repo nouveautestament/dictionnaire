@@ -1,0 +1,1 @@
+lar[48153]=`<b>οῦ (ὁ)</b> guerrier cuirassé, IL. <i>12, 317, etc.</i> ; PLUT. <i>Cim. 7</i>.<p><b>Étym</b>. θωρήσσω.`

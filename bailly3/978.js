@@ -1,0 +1,1 @@
+lar[978]=`<b>ου (ὁ)</b> campagnard, OD. <i>16, 218</i> ; EUR. <i>Or. 1270</i>.<p><b>Étym</b>. ἀγρός.`

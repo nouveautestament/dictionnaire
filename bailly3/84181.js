@@ -1,0 +1,1 @@
+lar[84181]=`<b>προ·εξακοντίζω</b> <font color="purple">[ᾰ]</font> lancer auparavant (un javelot) EL. TACT. <i>1, 2, 13</i>.`

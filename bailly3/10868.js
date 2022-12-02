@@ -1,0 +1,1 @@
+lar[10868]=`<i>adv</i>., d’un lieu plus élevé, HPC. <i>275, 3</i>.<p><b>Étym</b>. ἀνωτέρω, -θεν.`

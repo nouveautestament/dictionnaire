@@ -1,0 +1,1 @@
+lar[63891]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>c</i>. μέλας STR. <i>16, 4, 12 Kram.</i> ; GEOP. <i>7, 15, 6</i>.`

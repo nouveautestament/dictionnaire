@@ -1,0 +1,1 @@
+lar[69539]=`<b>ου (τὸ)</b> AÉT. <i>6, 92, ou</i> <b>ξήριον φάρμακον</b>, P. ÉG. <i>7, 13,</i> médicament de poudres sèches.<p><b>Étym</b>. ξηρός.`

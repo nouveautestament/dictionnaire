@@ -1,0 +1,1 @@
+lar[63534]=`<b>Μεγιστό·νους, ου (ὁ)</b> Mégistonous, <i>Spartiate,</i> PLUT. <i>Cleom. 7, etc</i>.<p><b>Étym</b>. μ. νοῦς.`

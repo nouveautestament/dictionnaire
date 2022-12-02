@@ -1,0 +1,1 @@
+lar[13972]=`<i>adv</i>., sans qu’on puisse se porter auprès <i>ou</i> s’approcher de : ἀ. ἔχειν, ISOCR. <i>198e</i>, être insociable.`

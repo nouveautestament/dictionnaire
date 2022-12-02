@@ -1,0 +1,1 @@
+lar[7998]=`<font color="purple">[ᾰπ]</font> <i>adv</i>., servilement, PLAT. <i>Conv. 215e ;</i> LUC. <i>Bis acc. 20</i>.`

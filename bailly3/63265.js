@@ -1,0 +1,1 @@
+lar[63265]=`<b>ωνος (ὁ)</b> Makhôn (Machon), <i>poète de la nouvelle comédie</i>.`

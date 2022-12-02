@@ -1,0 +1,1 @@
+lar[44884]=`<b>Ἡγέ·λοχος, ου (ὁ)</b> Hègélokhos :<br><b>      1</b> <i>acteur tragique,</i> AR. <i>Ran. 302</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>11, 185, etc</i>.<p><b>Étym</b>. ἡγέομαι, λόχος.`

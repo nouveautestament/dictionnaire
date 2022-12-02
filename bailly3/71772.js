@@ -1,0 +1,1 @@
+lar[71772]=`<b>ὁμό·χωρος, ος, ον</b>, du même pays, de la même contrée, DC. <i>Exc. p. 34, 64, etc</i>.<p><b>Étym</b>. ὁμ. χώρα.`

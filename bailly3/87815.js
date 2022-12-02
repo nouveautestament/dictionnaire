@@ -1,0 +1,1 @@
+lar[87815]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> chaleur ardente, ardeur, IL. <i>22, 31</i>.<br><b>      2</b> fièvre, AR. <i>Vesp. 1038</i> ; PLAT. <i>Tim. 86a ;</i> ARSTT. <i>Probl. 1, 55, 3</i>.<p><b>Étym</b>. πῦρ.`

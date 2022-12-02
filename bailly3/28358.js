@@ -1,0 +1,1 @@
+lar[28358]=`<b>δυσ·έκπλυτος, ος, ον</b> <font color="purple">[ῠῠ]</font> difficile à effacer (<i>litt</i>. à laver) PLUT. <i>M. 488d, 779c ;</i> PHIL. <i>2, 181, etc</i>.<p><b>Étym</b>. δ. ἐκπλύνω.`

@@ -1,0 +1,1 @@
+lar[4916]=`<b>ιδος (ἡ)</b> <font color="purple">[ᾰ]</font> vengeresse du crime (Athèna) LYC. <i>936</i>.<p><b>Étym</b>. <i>fém. de</i> ἀλοίτης.`

@@ -1,0 +1,1 @@
+lar[75827]=`<i>ou mieux att</i>. <b>παροκωχή, ῆς (ἡ)</b> action de fournir, THC. <i>6, 85</i> ; JOS. <i>A.J. 17, 9, 5</i>.<p><b>Étym</b>. παρέχω.`

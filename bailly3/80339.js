@@ -1,0 +1,1 @@
+lar[80339]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰ]</font> <i>dim. de</i> πινακίσκος ANTIPH. (<i>Com. fr. 3, 29</i>).`

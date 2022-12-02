@@ -1,0 +1,1 @@
+lar[83879]=`<b>προ·δανείζω</b> <font color="purple">[ᾰ]</font> prêter d’avance, <i>acc</i>. DC. <i>51, 17 ; fig</i>. LUC. <i>Sacr. 3, au pass</i>. être prêté, être donné à crédit, PLUT. <i>Per. 13</i>.`

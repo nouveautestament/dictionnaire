@@ -1,0 +1,1 @@
+lar[94637]=`<b>συν·αλεαίνω</b> <font color="purple">[ᾰλ]</font> réchauffer ensemble, PLUT. <i>M. 691e</i>.`

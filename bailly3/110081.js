@@ -1,0 +1,1 @@
+lar[110081]=`<b>ὠ·αιαί</b>, <i>interj</i>. hélas ! DYSC. <i>538, 1 Bekker, Anecdota græca</i>.`

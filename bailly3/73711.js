@@ -1,0 +1,1 @@
+lar[73711]=`<b>οὐρί·θρεπτος, ος, ον</b>, nourri dans la montagne, EUR. <i>Hec. 204</i>.<p><b>Étym</b>. οὖρος⁵ <i>poét. c</i>. ὄρος, τρέφω.`

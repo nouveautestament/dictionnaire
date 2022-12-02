@@ -1,0 +1,1 @@
+lar[74485]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> <i>s.e</i>. ὄρνις, oiseau dont on se sert comme d’appeau, ARSTT. <i>H.A. 9, 7, 8 ; fig</i>. EUB. <i>fr. 84 Kock</i>.<p><b>Étym</b>. παλεύω.`

@@ -1,0 +1,1 @@
+lar[79350]=`<b>περισσωνυμέω-ῶ</b> <font color="purple">[ῠ]</font> avoir un dénominateur impair, JAMBL. <i>Nicom. ar. p. 29</i>.<p><b>Étym</b>. περισσώνυμος.`

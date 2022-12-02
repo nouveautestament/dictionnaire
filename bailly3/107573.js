@@ -1,0 +1,1 @@
+lar[107573]=`<b>ιος (ὁ)</b> <font color="purple">[ᾰ]</font> vin pur, HIPPON. <i>fr. 73</i>.`

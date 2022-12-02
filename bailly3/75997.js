@@ -1,0 +1,1 @@
+lar[75997]=`<b>εως (ἡ)</b> prévarication, APP. <i>Iber. 61</i>.<p><b>Étym</b>. παρανομέω.`

@@ -1,0 +1,1 @@
+lar[33175]=`<b>ας (ἡ)</b> extraction d’un fœtus, GAL. <i>2, 92c</i>.<p><b>Étym</b>. ἐμβρυουλκός.`

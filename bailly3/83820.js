@@ -1,0 +1,1 @@
+lar[83820]=`<b>προ·βοσκίς, ίδος (ἡ)</b> <font color="purple">[ῐδ]</font><br><b>      1</b> trompe d’éléphant, ARSTT. <i>P.A. 2, 16, 5</i> ; POL. <i>3, 46, 12 ; ou</i> de mouche, ARSTT. <i>H.A. 4, 4, 15, etc.</i><br><b>      2</b> sorte de tentacule de seiche, ARSTT. <i>H.A. 4, 1, 8 ; P.A. 4, 9, 12</i>.<p><b>Étym</b>. π. βόσκω.`

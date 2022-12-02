@@ -1,0 +1,1 @@
+lar[55349]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. d’Éthiopie, NIC. <i>Al. 100</i> ; LYC. <i>384</i>.<p><b>Étym</b>. Κηφεύς.`

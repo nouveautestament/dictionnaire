@@ -1,0 +1,1 @@
+lar[5748]=`<b>οῦ</b> <font color="purple">[ᾰ]</font><br><b>      1 (ἡ)</b> compagne, suivante, CALL. <i>Dian. 45</i>.<br><b>      2 (ὁ)</b> berger, <i>litt</i>. conducteur (de troupeaux) NIC. <i>Th. 49</i> ; OPP. <i>C. 1, 132</i>.`

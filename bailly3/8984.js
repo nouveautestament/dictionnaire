@@ -1,0 +1,1 @@
+lar[8984]=`<b>ἀνθρωπο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange de la chair humaine, anthropophage, ANTIPH. (ATH. <i>313b</i>) ; ARSTT. <i>H.A. 2, 1, 53, etc</i>.<p><b>Étym</b>. ἄ. φαγεῖν.`

@@ -1,0 +1,1 @@
+lar[8893]=`<b>έως (ὁ)</b> <font color="purple">[ᾰκ]</font> charbonnier, ES. <i>59 Halm</i> ; CIC. <i>Att. 15, 5</i> ; THÉM. <i>245a ;</i> APP. <i>Civ. 4, 40</i>.<p><b>Étym</b>. ἄνθραξ.`

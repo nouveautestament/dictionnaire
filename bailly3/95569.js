@@ -1,0 +1,1 @@
+lar[95569]=`<b>συν·επακολουθέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> suivre ensemble, accompagner, <i>dat</i>. CALLICRAT. (STOB. <i>426, 15) ; abs</i>. PLAT. <i>Phæd. 81e ; en parl. de choses,</i> HPC. <i>274, 40</i>.<br><b>      2</b> suivre ensemble le parti de, <i>dat</i>. STR. <i>380</i>.`

@@ -1,0 +1,1 @@
+lar[14414]=`<b>ἀρειάω-ῶ</b> <font color="purple">[ᾰρ]</font> (<i>seul. prés</i>.) menacer, HIPPON. <i>fr. 65</i>.<p><b>Étym</b>. *ἀρειά.`

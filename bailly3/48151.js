@@ -1,0 +1,1 @@
+lar[48151]=`<b>ακος (ὁ)</b> <font color="purple">[ᾱκ]</font> Thôrax, <i>h</i>. PD. <i>P. 10, 100</i> ; XÉN. <i>Hell. 2, 1, 18, 28, etc</i>.<p>➳ <i>Ion</i>. Θώρηξ, HDT. <i>9, 1, 58</i>.`

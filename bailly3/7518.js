@@ -1,0 +1,1 @@
+lar[7518]=`<b>ἀν·αρθρώτως</b>, <i>adv</i>., sans articulations, sans lien, STR. <i>1, 1 argum</i>.<p><b>Étym</b>. ἀν-, ἀρθρόω.`

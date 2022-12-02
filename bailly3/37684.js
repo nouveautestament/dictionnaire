@@ -1,0 +1,1 @@
+lar[37684]=`<b>ας (ἡ)</b> incursion, A.RH. <i>3, 593 au plur</i>.<p><b>Étym</b>. ἐπίδρομος.`

@@ -1,0 +1,1 @@
+lar[8922]=`<b>ἀνθρωπ·άρεσκος, ος, ον</b> <font color="purple">[ᾰρ]</font> qui veut plaire aux hommes, qui professe le respect humain, NT. <i>Eph. 6, 6 ; Col. 3, 22</i>.<p><b>Étym</b>. ἄνθρωπος, ἀρέσκω.`

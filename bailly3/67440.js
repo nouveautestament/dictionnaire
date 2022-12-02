@@ -1,0 +1,1 @@
+lar[67440]=`<b>μυστι·πόλος, ος, ον</b> <font color="purple">[ῐ]</font> qui concerne la célébration des mystères, ANTH. <i>App. 161, 239 ; d’où</i> initié, prêtre, ANTH. <i>9, 806</i>.<p><b>Étym</b>. μύστης, πολέω.`

@@ -1,0 +1,1 @@
+lar[28473]=`<b>δυσ·ηλεγής, ής, ές</b> <font color="purple">[ῠ]</font> dur, pénible, cruel, <i>en parl. de choses (guerre,</i> IL. <i>20, 154 ; mort,</i> OD. <i>22, 325 ; lieu,</i> HÉS. <i>Th. 652) ; en parl. de pers</i>. THGN. <i>793</i>.<p><b>Étym</b>. δ. ἄλγος ; <i>sel. d’autres,</i> δ. ἀλέγω.`

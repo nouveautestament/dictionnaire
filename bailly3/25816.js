@@ -1,0 +1,1 @@
+lar[25816]=`<b>διαυλο·δρόμης, ου (ὁ)</b> coureur qui exécute la double course, PD. <i>P. 10, 14 (gén. pl. dor</i>. -δρομᾶν).<p><b>Étym</b>. δίαυλος, δραμεῖν.`

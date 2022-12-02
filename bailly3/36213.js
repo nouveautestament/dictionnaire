@@ -1,0 +1,1 @@
+lar[36213]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> bannissement par ostracisme, DS. <i>11, 87</i> ; PLUT. <i>Them. 22</i>.<p><b>Étym</b>. ἐξοστρακίζω.`

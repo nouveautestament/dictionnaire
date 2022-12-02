@@ -1,0 +1,1 @@
+lar[3042]=`<b>ἀ·κάθεκτος, ος, ον</b>, qui ne peut être contenu <i>ou</i> gouverné, Ps.-PHOCYL. <i>193</i>.<p><b>Étym</b>. ἀ, κατέχω.`

@@ -1,0 +1,1 @@
+lar[14366]=`<b>ἀργυρο·φάλαρος, ος, ον</b> <font color="purple">[ῠᾰᾰ]</font> aux harnais d’argent, POL. <i>31, 3, 6</i>.<p><b>Étym</b>. ἄ. φάλαρα.`

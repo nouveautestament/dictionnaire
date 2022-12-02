@@ -1,0 +1,1 @@
+lar[50252]=`<b>καθ·αιμάσσω</b> <font color="purple">[κᾰ]</font> <font color="darkgreen">(<i>ao</i>. καθῄμαξα)</font> ensanglanter, ESCHL. <i>Eum. 450</i> ; EUR. <i>Hec. 1126, etc.</i> ; PLAT. <i>Phædr. 254e</i>.`

@@ -1,0 +1,1 @@
+lar[71802]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>   I</b> petit nombril, NIC. <i>Al. 609</i> ; ARAT. <i>206, 213</i>.<br><b>   II</b> <i>p. anal</i>. bosse <i>ou</i> pointe d’un bouclier, ANTH. <i>7, 506</i> ; EPIGR. (DL. <i>8, 45).</i><p><b>Étym</b>. <i>dim. de</i> ὀμφαλός.`

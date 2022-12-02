@@ -1,0 +1,1 @@
+lar[92759]=`<b>οῦ (ὁ)</b> celui qui abat, qui calme, ANTH. <i>1, 118</i>.<p><b>Étym</b>. στορέννυμι.`

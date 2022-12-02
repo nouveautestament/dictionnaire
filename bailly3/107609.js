@@ -1,0 +1,1 @@
+lar[107609]=`<b>ατος (τὸ)</b> tout ouvrage en airain (chaîne, épée, <i>etc</i>.) ESCHL. <i>Ch. 576, Pr. 19</i>.<p><b>Étym</b>. χαλκεύω.`

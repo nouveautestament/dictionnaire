@@ -1,0 +1,1 @@
+lar[48789]=`<b>η, ον</b> <font color="purple">[ῐ]</font> semblable à, <i>dat</i>. IL. <i>11, 467, etc.</i> ; HÉS. <i>Sc. 198</i> ; HDT. <i>3, 81</i> ; HPC. <i>Epid. 3, 1082 ; gén</i>. PD. <i>P. 2, 141</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *ueik-, ressembler, <i>v</i>. *εἴκω² ; <i>cf</i>. εἴκελος.`

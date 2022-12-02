@@ -1,0 +1,1 @@
+lar[35346]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui guérit, DH. <i>10, 2</i>.<br><b>      2</b> expiatoire, DH. <i>5, 54</i>.<p><b>Étym</b>. ἐξακέομαι.`

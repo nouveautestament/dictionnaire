@@ -1,0 +1,1 @@
+lar[29774]=`<b>ἐγ·κτάομαι-ῶμαι</b>, acquérir une propriété en pays étranger, <i>avec</i> ἐν <i>et le dat</i>. HDT. <i>5, 23</i> ; οἱ ἐγκεκτημένοι, DÉM. <i>1208, 27,</i> ceux qui sont propriétaires en pays étranger ; <i>abs</i>. XÉN. <i>Vect. 2, 6</i>.<p><b>Étym</b>. ἐν, κτ.`

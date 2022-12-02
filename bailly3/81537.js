@@ -1,0 +1,1 @@
+lar[81537]=`<b>ος, ον</b>, de Polémon, CIC. <i>Acad. 4, 43</i>.<p><b>Étym</b>. <i>v</i>. Πολέμων.`

@@ -1,0 +1,1 @@
+lar[15674]=`<i>adv.</i> :<br><b>      1</b> en principe, PROCL. <i>Inst. theol. § 65</i>.<br><b>      2</b> d’abord, MOSCHION <i>Mul. pass. c. 2, p. 2</i>.`

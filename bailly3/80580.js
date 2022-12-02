@@ -1,0 +1,1 @@
+lar[80580]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> action de se placer obliquement, dans une direction transversale, EPIC. <i>p. 18 Orelli</i>.<br><b>      2</b> emploi aux cas obliques, déclinaison, A. TAT. ASTR. <i>Isag. in Arat. 964 Migne</i> ; HERMOG. <i>Rhet. 269, 15</i>.<p><b>Étym</b>. πλαγιάζω.`

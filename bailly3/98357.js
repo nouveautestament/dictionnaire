@@ -1,0 +1,1 @@
+lar[98357]=`<b>τερατ·ωπός, ός, όν</b> <font color="purple">[ᾰ]</font> d’un aspect merveilleux <i>ou</i> prodigieux, HH. <i>18, 36</i>.<p><b>Étym</b>. τέρας, ὤψ.`

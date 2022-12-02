@@ -1,0 +1,1 @@
+lar[63510]=`<b>(ὁ)</b> Mégasidrès, <i>Perse,</i> HDT. <i>7, 72</i>.`

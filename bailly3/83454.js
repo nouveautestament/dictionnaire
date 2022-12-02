@@ -1,0 +1,1 @@
+lar[83454]=`<b>ατος (τὸ) :<br>      1</b> sciure de bois, TH. <i>H.P. 5, 6, 3</i> ; ANTH. <i>11, 207 ; p. anal</i>. poussière de bois vermoulu, DIOSC. <i>1, 79</i>.<br><b>      2</b> prisme, <i>fig. de géométrie,</i> EUCL.<p><b>Étym</b>. πρίζω.`

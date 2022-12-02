@@ -1,0 +1,1 @@
+lar[37375]=`<b>ἐπι·βομβέω-ῶ</b>, bourdonner sur, LUC. <i>D. deor. 12, 1</i> ; NONN. <i>D. 1, 153 ; 8, 7</i>.<p>➳ <i>Impf. 3 sg. poét</i>. ἐπεβόμβεεν, NONN. <i>D. 1, 153</i>.`

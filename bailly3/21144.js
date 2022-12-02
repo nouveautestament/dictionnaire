@@ -1,0 +1,1 @@
+lar[21144]=`<b>ῶν (οἱ)</b> les habitants de Gadares, NT. <i>Matth. 8, 28</i>.<p><b>Étym</b>. Γάδαρα.`

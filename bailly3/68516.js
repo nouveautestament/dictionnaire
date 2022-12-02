@@ -1,0 +1,1 @@
+lar[68516]=`<b>ή, όν</b>, apte <i>ou</i> habile à nager, BAS. <i>1, 63</i>.<p><b>Étym</b>. νήχομαι.`

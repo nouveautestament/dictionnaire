@@ -1,0 +1,1 @@
+lar[4253]=`<b>ἀλεξι·άρη, ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font> qui détourne les imprécations <i>ou</i> les maux, HÉS. <i>O. 462</i> ; NIC. <i>Th. 861</i>.<p><b>Étym</b>. ἀλέξω, ἀρή.`

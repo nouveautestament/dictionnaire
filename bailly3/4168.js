@@ -1,0 +1,1 @@
+lar[4168]=`<b>η, ον</b>, resserré, GAL. <i>Lex. Hipp. 19, 74</i>.<p><b>Étym</b>. ἁλής.`

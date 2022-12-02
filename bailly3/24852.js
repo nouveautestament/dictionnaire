@@ -1,0 +1,1 @@
+lar[24852]=`<b>ας (ἡ)</b> <font color="purple">[ῑβ]</font> exacte observance de la Loi, SPT. <i>3Reg. 11, 33 var</i>.<p><b>Étym</b>. διά, ἀκριβής.`

@@ -1,0 +1,1 @@
+lar[58809]=`<b>κυνο·κοπέω-ῶ</b> <font color="purple">[ῠ]</font> battre comme on fait d’un chien, AR. <i>Eq. 289</i>.<p><b>Étym</b>. κ. κόπτω.`

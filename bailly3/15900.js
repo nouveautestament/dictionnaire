@@ -1,0 +1,1 @@
+lar[15900]=`(<i>seul. prés. et impf</i>.) <font color="purple">[κᾰ]</font> sauter, bondir, CRAT. (PHOT. <i>v°</i> ῥάζειν).<p><b>Étym</b>. <i>incert. ; p.-ê. R. indo-europ</i>. *sker-, sauter ; <i>cf</i>. σκαρίζω, σκαίρω.`

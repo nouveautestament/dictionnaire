@@ -1,0 +1,1 @@
+lar[77634]=`<b>ή, όν</b>, <i>subst. au fém</i>. ἡ Πειραϊκή, la Peiraïque (<i>litt</i>. marche, frontière), <i>contrée de l’Oropie,</i> THC. <i>2, 23 ; 3, 91</i>.`

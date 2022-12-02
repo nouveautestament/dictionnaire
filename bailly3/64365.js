@@ -1,0 +1,1 @@
+lar[64365]=`<b>ῶν (οἱ)</b> les descendants de Ménon, COM. (<i>Com. fr. 4, 645).</i><p><b>Étym</b>. Μένων.`

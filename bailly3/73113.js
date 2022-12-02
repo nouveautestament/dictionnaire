@@ -1,0 +1,1 @@
+lar[73113]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> d’orphelin, qui concerne les orphelins, PLAT. <i>Leg. 922a, etc.</i> ; ARSTT. <i>Pol. 2, 8</i> ; ἦμαρ ὀρφ. IL. <i>22, 490,</i> jour qui fait un orphelin.<br><b>      2</b> orphelin, IL. <i>6, 432 ; 11, 394</i>.<p><b>Étym</b>. ὀρφανός.`

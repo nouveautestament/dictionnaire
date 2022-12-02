@@ -1,0 +1,1 @@
+lar[104722]=`<b>Φαλαίκειον μέτρον (τὸ)</b> le mètre de Phalækos, <i>mètre dactylico-trochaïque hendécasyllabe</i> (‒ ⏑ ‒ ‒ ⏑ ⏑, ‒ ⏑ ‒ ⏑ ‒ ‒) SUID. <i>v°</i> Ἡρακλείδης ; HÉPH. <i>p. 57</i>.<p><b>Étym</b>. Φάλαικος.`

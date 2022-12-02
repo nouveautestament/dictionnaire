@@ -1,0 +1,1 @@
+lar[10368]=`<b>ἀντι·ρρητορεύω</b>, parler en rhéteur contre, <i>càd</i>. déclamer contre, M. TYR. <i>9, 3</i>.`

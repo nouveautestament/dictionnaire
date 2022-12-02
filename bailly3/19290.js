@@ -1,0 +1,1 @@
+lar[19290]=`<b>ος, ον</b> <font color="purple">[ᾰῐ]</font> où l’on peut marcher, accessible, DÉM. <i>763, 5</i> ; DS. <i>13, 27 ; fig</i>. PLUT. <i>Thes. 1</i> ; DS. <i>Exc. 2, 504</i>.<p><b>Étym</b>. βαίνω.`

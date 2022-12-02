@@ -1,0 +1,1 @@
+lar[65106]=`<b>μετ·εντίθεμαι</b>, faire transporter, <i>acc</i>. DÉM. <i>1290, 9</i>.`

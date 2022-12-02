@@ -1,0 +1,1 @@
+lar[8098]=`<b>α, ον</b>, d’homme, humain, <i>en parl. du corps, de la peau,</i> IL. <i>17, 571 ; 20, 100 ; 21, 70 ; de la chair,</i> OD. <i>9, 297, 374 ; du sang,</i> OD. <i>22, 19 ; de la voix,</i> A.RH. <i>1, 258</i> ; ὅμιλος ἀ. IL. <i>11, 538,</i> foule d’hommes.<p><b>Étym</b>. ἀνήρ.`

@@ -1,0 +1,1 @@
+lar[46421]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> qui concerne la vision : δύναμις, ARR. <i>Epict. 1, 6, 3,</i> faculté de voir.<p><b>Étym</b>. θεατός.`

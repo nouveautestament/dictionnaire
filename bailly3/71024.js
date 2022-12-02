@@ -1,0 +1,1 @@
+lar[71024]=`<b>ὀλιγο·κίνητος, ος, ον</b> <font color="purple">[ῐῑ]</font> dont le mouvement est insensible, STOB. <i>Ecl. eth. 2, 202 dout</i>.<p><b>Étym</b>. ὀλ. κινητός.`

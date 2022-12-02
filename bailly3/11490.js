@@ -1,0 +1,1 @@
+lar[11490]=`<b>ἀπ·αχλυόω-ῶ</b>, couvrir de vapeur, obscurcir, ARÉT. <i>p. 54, 9</i>.<p><b>Étym</b>. ἀπό, ἀχλύς.`

@@ -1,0 +1,1 @@
+lar[85736]=`<b>προσ·επιτείνω</b> <font color="darkgreen">(<i>f</i>. -επιτενῶ, <i>ao</i>. -επέτεινα, <i>etc</i>.) :</font><br><b>      1</b> tendre encore, POL. <i>3, 24, 14</i>.<br><b>      2</b> accroître encore (la soif, PLUT. <i>M. 689d ;</i> la colère, JOS. <i>B.J. 7, 3, 3) acc.</i><br><b>      3</b> punir encore plus durement, <i>acc</i>. POL. <i>1, 62, 3</i>.`

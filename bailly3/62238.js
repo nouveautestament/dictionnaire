@@ -1,0 +1,1 @@
+lar[62238]=`<b>έως</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui essuie, ANTH. <i>6, 306</i>.<p><b>Étym</b>. μάσσω.`

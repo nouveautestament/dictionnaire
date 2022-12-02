@@ -1,0 +1,1 @@
+lar[102622]=`<b>ὑπερ·κύδας, αντος</b> <font color="purple">[κῡᾱ]</font> <i>adj. m. (seul. acc. sg</i>. -κύδαντα, HÉS. <i>Th. 510, et acc. pl</i>. -κύδαντας, IL. <i>4, 66, 71</i>) très célèbre, glorieux.<p><b>Étym</b>. ὑ. κῦδος ; <i>p.-ê. dor. p</i>. *ὑπερκύδης, <i>contr. de</i> *ὑπερκυδήεις ; <i>cf</i>. ἀργᾶς = ἀργῆς, ἀργήεις ; τιμᾶς = τιμῆς, τιμήεις.`

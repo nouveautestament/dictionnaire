@@ -1,0 +1,1 @@
+lar[68730]=`<b>*νικήεις</b>, <i>dor</i>. <b>νικάεις, άεσσα, ᾶεν</b> <font color="purple">[ῑκᾱ]</font> victorieux, ANTH. <i>7, 428</i>.<p><b>Étym</b>. νίκη.`

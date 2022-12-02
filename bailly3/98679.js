@@ -1,0 +1,1 @@
+lar[98679]=`<b>ου (τὸ)</b> <font color="purple">[σᾰ]</font> somme de quatre as <i>ou</i> un sesterce, <i>à Rome,</i> ARR. <i>Epict. 4, 5, 17</i>.<p><b>Étym</b>. τ. ἀσσάριον.`

@@ -1,0 +1,1 @@
+lar[18384]=`<font color="purple">[χᾰᾰ]</font> <i>adv</i>., sans palissades, APP. <i>Civ. 3, 70</i>.`

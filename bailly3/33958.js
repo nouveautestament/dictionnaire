@@ -1,0 +1,1 @@
+lar[33958]=`<b>εως (ἡ)</b> action d’intercepter, interception, emprisonnement, ARSTT. <i>Meteor. 2, 8, 15 ; Spir. 4, 5</i> ; TH. <i>C.P. 2, 9, 3</i>.<p><b>Étym</b>. ἐναπολαμβάνω.`

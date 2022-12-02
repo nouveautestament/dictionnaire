@@ -1,0 +1,1 @@
+lar[20210]=`<b>βορβορο·τάραξις, εως (ὁ)</b> <font color="purple">[τᾰ]</font> qui trouble la fange, <i>càd</i>. brouillon importun, AR. <i>Eq. 309</i>.`

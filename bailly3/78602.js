@@ -1,0 +1,1 @@
+lar[78602]=`<b>περί·εφθος, ος, ον</b>, cuit tout autour, bien cuit, LUC. <i>V.H. 2, 21</i>.<p><b>Étym</b>. π. ἑφθός.`

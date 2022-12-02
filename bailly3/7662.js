@@ -1,0 +1,1 @@
+lar[7662]=`<b>ου (ὁ)</b> <font color="purple">[τᾰ]</font> Anastasios (Anastase) <i>h</i>. ANTH. <i>7, 590, etc</i>.<p><b>Étym</b>. ἀνίστημι.`

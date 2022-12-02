@@ -1,0 +1,1 @@
+lar[96109]=`<b>συν·οδύρομαι</b> <font color="purple">[δῡ]</font> se lamenter <i>ou</i> déplorer avec, PLAT. <i>Menex. 247c ;</i> PLUT. <i>M. 56a</i>.`

@@ -1,0 +1,1 @@
+lar[94570]=`<b>συν·άδελφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a des frères <i>ou</i> des sœurs, XÉN. <i>Mem. 2, 3, 4</i>.<p><b>Étym</b>. σ. ἀδελφός.`

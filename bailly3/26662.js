@@ -1,0 +1,1 @@
+lar[26662]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> la déesse de Dindymon, <i>càd</i>. Kybélè (Cybèle), <i>d’ord</i>. μήτηρ Δ. HDT. <i>1, 80</i> ; ARR. <i>An. 5, 6, 4, etc. ; ou</i> Δ. μήτηρ, STR. <i>575</i> ; PAUS. <i>7, 19, 9</i>.<p><b>Étym</b>. Δίνδυμον.`

@@ -1,0 +1,1 @@
+lar[68510]=`<b>νη·κερδής, ής, ές</b>, sans profit, <i>càd.</i> :<br><b>      1</b> inutile, IL. <i>17, 469</i> ; OD. <i>14, 509</i>.<br><b>      2</b> nuisible, funeste, A.RH. <i>2, 482</i>.<p><b>Étym</b>. νη-, κέρδος.`

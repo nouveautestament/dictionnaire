@@ -1,0 +1,1 @@
+lar[87607]=`<b>Πυκι·μήδη, ης (ἡ)</b> <font color="purple">[ῠῐ]</font> Pykimèdè, <i>litt</i>. « à l’esprit ferme <i>ou</i> prudent, » <i>mère d’Hésiode,</i> Ps.-PLUT. <i>V. Hom. 1, 2</i>.<p><b>Étym</b>. <i>v</i>. πυκιμήδης.`

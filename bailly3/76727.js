@@ -1,0 +1,1 @@
+lar[76727]=`<b>παρ·εξαίρω :<br>      1</b> élever auprès, STR. <i>518</i>.<br><b>      2</b> <i>fig</i>. exalter, <i>d’où au pass</i>. être exalté (par l’orgueil, <i>etc</i>.) SCYMN. <i>342</i>.`

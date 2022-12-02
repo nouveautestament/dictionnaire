@@ -1,0 +1,1 @@
+lar[65695]=`<b>μικρογραφέω-ῶ</b>, <i>att</i>. <b>σμικρογραφέω-ῶ</b> <font color="purple">[ῑᾰ]</font> écrire par un omicron, HDN GR. <i>Epim. pp. 200, 202 Boissonade, etc</i>.<p><b>Étym</b>. *μικρογράφος, <i>de</i> μ. γράφω.`

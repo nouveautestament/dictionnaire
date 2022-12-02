@@ -1,0 +1,1 @@
+lar[87038]=`<b>ῶν (αἱ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> grains d’orge <i>ou</i> farine que l’on brûlait sur l’autel (<i>cf</i>. οὐλοχύται) EUR. <i>El. 803 ; I.A. 1112, 1472</i> ; A.RH. <i>1, 425</i>.<br><b>      2</b> feuillage <i>ou</i> fleurs qu’on jette sur le passage de qqn, PLUT. <i>Dio. 29</i>.<p><b>Étym</b>. προχέω.`

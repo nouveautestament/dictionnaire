@@ -1,0 +1,1 @@
+lar[36958]=`<b>εως (ἡ)</b> hâte, empressement, PLUT. <i>Rom. 29</i> ; LUC. <i>D. mer. 10, 3</i> ; APP. <i>Mithr. 79, etc</i>.<p><b>Étym</b>. ἐπείγω.`

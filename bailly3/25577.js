@@ -1,0 +1,1 @@
+lar[25577]=`<b>εως (ἡ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> action de séparer violemment, ARSTT. <i>Cæl. 4, 6, 5 ; Meteor. 3, 3, 5 ; p. opp. à</i> κάταξις <i>et à</i> θλάσις, TH. π. κόπων, <i>18, p. 806</i>.<br><b>      2</b> déchirure, <i>d’où</i> lacune, intervalle, PLUT. <i>M. 721a</i>.<p><b>Étym</b>. διασπάω.`

@@ -1,0 +1,1 @@
+lar[38345]=`<b>(ὁ)</b> Épilytidas, <i>Spartiate,</i> XÉN. <i>Hell. 5, 4, 39</i>.<p><b>Étym</b>. ἐπιλύω.`

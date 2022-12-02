@@ -1,0 +1,1 @@
+lar[39907]=`<b>ἐπ·οφείλω</b> <font color="darkgreen">(<i>ao</i>. ἐπώφλησα)</font> devoir en outre, THC. <i>8, 5</i> ; DC. <i>39, 59 ; au pass</i>. DC. <i>42, 51</i>.`

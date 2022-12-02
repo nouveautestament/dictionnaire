@@ -1,0 +1,1 @@
+lar[91726]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> naturellement dépourvu de barbe, PTOL. <i>Tetr. 144</i> ; POLÉM. <i>Physiogn. 257</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

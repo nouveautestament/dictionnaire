@@ -1,0 +1,1 @@
+lar[26312]=`<b>δι·ευδιάζω</b> (<i>part. prés</i>. -οντες) jouir d’un temps calme et serein (pour une traversée) NYSS. <i>1, 893b</i>.`

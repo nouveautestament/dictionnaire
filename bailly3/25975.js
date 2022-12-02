@@ -1,0 +1,1 @@
+lar[25975]=`<b>δί·βολος, ος, ον</b> <font color="purple">[ῐ]</font> à double pointe, EUR. <i>Rhes. 374</i> ; ANTH. <i>6, 282</i>.<p><b>Étym</b>. δίς, βάλλω.`

@@ -1,0 +1,1 @@
+lar[1764]=`<i>adv</i>., en haut, en l’air, ESCHL. <i>Ag. 234</i>.<p><b>Étym</b>. ἀείρω ; <i>cf</i>. ἄρδην.`

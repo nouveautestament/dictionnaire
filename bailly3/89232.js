@@ -1,0 +1,1 @@
+lar[89232]=`<b>ων (οἱ)</b> habitants de Samè, THC. <i>2, 30, etc</i>.<p><b>Étym</b>. Σάμη.`

@@ -1,0 +1,1 @@
+lar[66326]=`<b>οῦ (ὁ)</b> homme adultère, MAN. <i>4, 305</i>.<p><b>Étym</b>. μοιχεύω.`

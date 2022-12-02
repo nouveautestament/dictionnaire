@@ -1,0 +1,1 @@
+lar[28620]=`<b>ας (ἡ)</b> surdité complète, DIOSC. <i>Eup. 1, 64</i>.<p><b>Étym</b>. δύσκωφος.`

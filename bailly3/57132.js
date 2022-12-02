@@ -1,0 +1,1 @@
+lar[57132]=`<b>έως (ὁ)</b> barbier, CHARON (ATH. <i>520e</i>).<p><b>Étym</b>. κόρση.`

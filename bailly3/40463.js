@@ -1,0 +1,1 @@
+lar[40463]=`<b>άδος (ἡ)</b> <font color="purple">[ῑ]</font><br><b>      1</b> figuier sauvage, NIC. <i>Th. 854</i>.<br><b>      2</b> figue sauvage, AMER. (ATH. <i>76e</i>).<p><b>Étym</b>. ἐρινός.`

@@ -1,0 +1,1 @@
+lar[6306]=`<b>ἀμφι·περιτρύζω</b> (<i>seul. prés</i>.) roucouler alentour, ANTH. <i>5, 237</i>.`

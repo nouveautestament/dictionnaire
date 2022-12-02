@@ -1,0 +1,1 @@
+lar[56536]=`XÉN. <i>Hell. 1, 3, 15, ou</i> <b>Κοιρατάδης (ὁ)</b> XÉN. <i>An. 7, 1, 33,</i> Kœratadas <i>ou</i> Kœratadès, <i>Thébain</i>.`

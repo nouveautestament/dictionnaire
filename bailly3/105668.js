@@ -1,0 +1,1 @@
+lar[105668]=`<b>ων (οἱ)</b> les plaines de Philippes, <i>en Macédoine,</i> PLUT. <i>Brut. 38</i>.`

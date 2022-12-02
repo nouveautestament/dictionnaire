@@ -1,0 +1,1 @@
+lar[103597]=`<b>ὑπο·νήχομαι :<br>      1</b> plonger (<i>litt</i>. nager) sous, <i>dat</i>. PAUS. <i>1, 44, 8 ; abs</i>. PLUT. <i>Ant. 29, Brut. 30</i>.<br><b>      2</b> être inférieur à qqn pour nager, nager moins bien que, <i>dat</i>. EL. <i>N.A. 2, 6</i>.`

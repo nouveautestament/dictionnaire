@@ -1,0 +1,1 @@
+lar[32750]=`<b>α, ον</b> <font color="purple">[ῑ]</font> <i>c</i>. ἐλεφάντινος, ANTH. <i>App. 209</i>.`

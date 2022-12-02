@@ -1,0 +1,1 @@
+lar[14917]=`<i>adv</i>., d’une manière bien réglée, ARISTÉN. <i>1, 13, p. 62, 16</i>.`

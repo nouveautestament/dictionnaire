@@ -1,0 +1,1 @@
+lar[14117]=`<font color="purple">[ᾰῠ]</font> d’Aræthyréè, A.RH. <i>1, 115</i>.<p><b>Étym</b>. Ἀραιθυρέη.`

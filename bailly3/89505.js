@@ -1,0 +1,1 @@
+lar[89505]=`<b>ή, όν</b>, de Satan, satanique, CHRYS. <i>7, 15 ; 9, 491 Migne</i>.<p><b>Étym</b>. Σατᾶν.`

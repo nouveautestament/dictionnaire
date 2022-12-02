@@ -1,0 +1,1 @@
+lar[45512]=`<b>ἡμί·οπος, ος, ον :<br>      1</b> qui n’a que la moitié des trous, <i>en parl. d’une petite flûte à trois trous,</i> ANACR. <i>19</i> ; ATH. <i>177, 182c.</i><br><b>      2</b> <i>p. suite,</i> inférieur, incomplet, ESCHL. <i>fr. 86 Nauck</i>.<p><b>Étym</b>. ἡμι-, ὀπή.`

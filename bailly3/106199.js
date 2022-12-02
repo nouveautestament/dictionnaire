@@ -1,0 +1,1 @@
+lar[106199]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> <i>c</i>. φιλοχρηματία, PHOCYL. <i>42</i> ; PLAT. <i>Leg. 938c ;</i> ANTH. <i>11, 270</i>.<p><b>Étym</b>. φιλοχρήμων.`

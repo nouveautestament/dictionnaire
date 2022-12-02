@@ -1,0 +1,1 @@
+lar[101292]=`<b>ίδος (ἡ)</b> sorte de sole, <i>poisson,</i> EPICH. (ATH. <i>326e</i>).<p><b>Étym</b>. <i>cf</i>. ὕαινα.`

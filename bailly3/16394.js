@@ -1,0 +1,1 @@
+lar[16394]=`<b>ων (τὰ)</b> <font color="purple">[ῠ]</font> Astyres :<br><b>      1</b> <i>v. de Mysie,</i> STR.<br><b>      2</b> <i>v. du Latium,</i> PLUT.`

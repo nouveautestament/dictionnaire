@@ -1,0 +1,1 @@
+lar[28074]=`<b>ης (ἡ)</b> <font color="purple">[ῡᾰ]</font> Dynaménè, <i>Néréide,</i> IL. <i>18, 43</i> ; HÉS. <i>Th. 248</i>.<p><b>Étym</b>. δύναμαι.`

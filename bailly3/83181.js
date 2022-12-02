@@ -1,0 +1,1 @@
+lar[83181]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> qui concerne le commerce, le négoce, PORPH. <i>Abst. 1, 3</i>.<p><b>Étym</b>. πραγματεύομαι.`

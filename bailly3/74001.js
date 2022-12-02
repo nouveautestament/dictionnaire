@@ -1,0 +1,1 @@
+lar[74001]=`faire qqe ch. tard, venir tard, XÉN. <i>An. 4, 5, 5, etc.</i><br><b><i>Pass.-moy.</i></b> (<i>ao</i>. ὠψίσθην) :<br><b>      1</b> s’attarder, LYS. <i>fr. 8</i>.<br><b>      2</b> faire qqe ch. <i>ou</i> venir tard dans la soirée, XÉN. <i>Lac. 6, 4</i>.<p><b>Étym</b>. ὀψέ.`

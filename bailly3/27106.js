@@ -1,0 +1,1 @@
+lar[27106]=`<b>δι·υγιαίνω</b> (<i>inf. ao</i>. -ᾶναι) <font color="purple">[ῠ]</font> être constamment bien portant, PLUT. <i>M. 135c conj.</i> ; JAMBL. <i>V. Pyth. 220 et 456</i>.<p><b>Étym</b>. διά, ὑγιαίνω.`

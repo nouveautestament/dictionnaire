@@ -1,0 +1,1 @@
+lar[105120]=`<b>α (ὁ)</b> Phéraulas, <i>Perse,</i> XÉN. <i>Cyr. 2, 3, 7, etc</i>.<p>➳ <i>Voc</i>. Φεραύλα, XÉN. <i>Cyr. 8, 3, 7 et 36</i>.`

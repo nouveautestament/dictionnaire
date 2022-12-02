@@ -1,0 +1,1 @@
+lar[29942]=`<b>ἐγ·χρῴζω</b> (<i>seul. inf. prés. pass</i>. ἐγχρῴζεσθαι, ARCHYT. <i>dans</i> STOB. <i>Fl. 43, 134, et part. pf. pass</i>. ἐγκεχρῳσμένος, ARSTT. <i>Nic. 2, 3, 8</i>) empreindre sa couleur sur <i>ou</i> dans ; <i>d’où au pass</i>. recevoir l’empreinte (d’une couleur) sur <i>ou</i> dans, <i>dat</i>.<p><b>Étym</b>. ἐν, χρώς.`

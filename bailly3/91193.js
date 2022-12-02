@@ -1,0 +1,1 @@
+lar[91193]=`<b>σκοτάω-ῶ</b> (<i>seul. 3 pl. prés. épq</i>. σκοτόωσι) être ténébreux, obscur, NIC. <i>Al. 35</i>.<p><b>Étym</b>. σκότος.`

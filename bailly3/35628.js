@@ -1,0 +1,1 @@
+lar[35628]=`<b>ἐξ·ασθενέω-ῶ</b>, être tout à fait faible, HPC. <i>504, 9</i> ; ARSTT. <i>M. mor. 2, 6, 45 ; fig. en parl. de raisonnements,</i> DS. <i>20, 78, etc</i>.`

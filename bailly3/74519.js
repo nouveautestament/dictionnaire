@@ -1,0 +1,1 @@
+lar[74519]=`<b>παλίμ·βιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui revient à la vie, SPT.<p><b>Étym</b>. π. βίος.`

@@ -1,0 +1,1 @@
+lar[56621]=`<b>ου (ὁ)</b> <i>sorte de thon,</i> AR. (ATH. <i>118d</i>) ; ARSTT. <i>H.A. 8, 13 ; 9, 2</i>.`

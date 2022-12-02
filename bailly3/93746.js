@@ -1,0 +1,1 @@
+lar[93746]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> <i>fém. c</i>. συλήτωρ, EUR. <i>H.f. 377</i>.`

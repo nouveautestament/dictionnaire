@@ -1,0 +1,1 @@
+lar[108799]=`<b>ή, όν</b>, qui concerne le chorège <i>ou</i> la fonction du chorège, XÉN. <i>Hier. 9, 11</i> ; χορηγικοὶ τρίποδες, PLUT. <i>Arist. 1, Nic. 3,</i> trépieds consacrés par le chorège dont les chœurs avaient obtenu le prix.<p><b>Étym</b>. χορηγός.`

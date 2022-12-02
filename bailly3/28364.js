@@ -1,0 +1,1 @@
+lar[28364]=`<b>δυσ·έκφορος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à émettre, à prononcer, DH. <i>Comp. p. 66, 12 Reiske</i>.<p><b>Étym</b>. δ. ἐκφέρω.`

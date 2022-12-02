@@ -1,0 +1,1 @@
+lar[11358]=`<b>ἀ·παραχώρητος, ος</b>, qui ne se retire pas, <i>d’où</i> :<br><b>      1</b> qui persiste, obstiné, POL. <i>1, 61, 3</i> ; DH. <i>10, 19</i>.<br><b>      2</b> inflexible, PLUT. <i>M. 10a</i>.<p><b>Étym</b>. ἀ, παραχωρέω.`

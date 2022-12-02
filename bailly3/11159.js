@@ -1,0 +1,1 @@
+lar[11159]=`<b>ἀπ·αλαλκεῖν</b> <font color="darkgreen">(<i>inf. ao.2 auquel se rattachent les formes suiv. : 3 sg. indic</i>. ἀπάλαλκε, OD. <i>4, 766 ; 3 sg. opt</i>. ἀπαλάλκοι, IL. <i>22, 348</i> ; PD. <i>O. 8, 85 ; inf. poét</i>. ἀπαλαλκέμεν, THCR. <i>Idyl. 28, 20</i>)</font> écarter, éloigner : κύνας κεφαλῆς, IL. <i>l. c</i>. écarter les chiens de la tête de qqn.`

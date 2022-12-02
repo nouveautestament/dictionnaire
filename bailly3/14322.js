@@ -1,0 +1,1 @@
+lar[14322]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> POL. <i>3, 88, 6 ; 3, 118, 3, ou</i> <b>Ἀργυριππηνός, ή, όν</b>, STR. <i>283,</i> habitant <i>ou</i> originaire d’Argyrippa.<p><b>Étym</b>. Ἀργυρίππα <i>ou</i> Ἀργυρίππη.`

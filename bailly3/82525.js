@@ -1,0 +1,1 @@
+lar[82525]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> grande fertilité, XÉN. <i>Œc. 19, 19</i>.<p><b>Étym</b>. πολυφόρος.`

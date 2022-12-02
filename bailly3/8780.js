@@ -1,0 +1,1 @@
+lar[8780]=`<b>όεσσα, όεν :<br>      1</b> fleuri, IL. <i>2, 467, etc.</i><br><b>      2</b> orné de fleurs sculptées (vase) IL. <i>23, 885</i> ; OD. <i>3, 440 ; 24, 275 ; ou</i> de fleurs brodées (tapis) ANT. <i>6, 272</i>.<p>➳ <i>Fém</i>. -όεις, IL. <i>2, 695</i> ; HÉS. <i>fr. 22 Gaisford ; acc. pl. masc. ion</i>. ἀνθεμεῦντας, ANACR. <i>64, 2</i>.<p><b>Étym</b>. ἄνθεμον.`

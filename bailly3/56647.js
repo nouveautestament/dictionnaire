@@ -1,0 +1,1 @@
+lar[56647]=`<i>ou mieux</i> <b>κουλυβάτεια, ας (ἡ)</b> <font color="purple">[ῠᾰτ]</font> <i>autre nom de la plante</i> ἑλξίνη, NIC. <i>Th. 589</i>.`

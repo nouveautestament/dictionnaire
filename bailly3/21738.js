@@ -1,0 +1,1 @@
+lar[21738]=`<b>γεο·ειδής, ής, ές</b>, semblable à de la terre, T. LOCR. <i>101a ;</i> ARSTT. <i>H.A. 1, 23, fin ; 5, 28, 3</i>.<p><b>Étym</b>. γῆ, εἶδος ; <i>cf</i>. γεώδης.`

@@ -1,0 +1,1 @@
+lar[29968]=`<b>εως (ἡ)</b> amoncellement de terre, <i>particul</i>. ensablement, ARSTT. <i>Meteor. 1, 14, 22</i> ; POL. <i>4, 39, 10 ; 4, 40, 4 ; au plur</i>. STR. <i>235</i>.<p><b>Étym</b>. ἐγχώννυμι.`

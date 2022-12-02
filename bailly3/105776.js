@@ -1,0 +1,1 @@
+lar[105776]=`<b>φιλο·εστιάτωρ, ορος (ὁ)</b> <font color="purple">[ῐᾱ]</font> qui aime à traiter, PHIL. <i>2, 70</i>.<p><b>Étym</b>. φ. ἑστιάω.`

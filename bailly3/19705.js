@@ -1,0 +1,1 @@
+lar[19705]=`<b>βίβλινος οἶνος (ὁ)</b> HÉS. <i>O. 587</i> ; βίβλινον πῶμα, EUR. <i>Ion 1195, ou simpl</i>. τὸ βίβλινον, THCR. <i>Idyl. 14, 15,</i> vin des mts Biblines (βίβλινα ὄρη, EM.), <i>ou</i> de la région de Thrace appelée βιβλίνη, E. BYZ. <i>ou</i> βιβλία, ARMÉN. (ATH. <i>31a</i>) ; βιβλίνη ἄμπελος, A. TAT. <i>2, 2,</i> vignobles de la région des mts Biblines.`

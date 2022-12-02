@@ -1,0 +1,1 @@
+lar[69685]=`<b>ξυλουργέω-ῶ</b> <font color="purple">[ῠ]</font> travailler le bois, HDT. <i>3, 113</i>.<p><b>Étym</b>. ξύλον, ἔργον.`

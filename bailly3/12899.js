@@ -1,0 +1,1 @@
+lar[12899]=`<b>ἀπο·μιτρόω-ῶ</b>, dépouiller de la mitre, SPT. <i>Lev. 21, 10</i>.<p><b>Étym</b>. ἀπό, μίτρα.`

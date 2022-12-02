@@ -1,0 +1,1 @@
+lar[95468]=`<b>συν·εμπνέω</b>, souffler avec : τοῖς ἀγῶσι, LGN <i>9, 11,</i> respirer les combats, être animé d’un souffle guerrier.`

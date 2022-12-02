@@ -1,0 +1,1 @@
+lar[92194]=`<b>σταυρο·ειδής, ής, ές</b>, semblable à une croix, APD. POL. <i>43</i> ; NYSS. <i>3, 1096 Migne</i>.<p><b>Étym</b>. σταυρός, εἶδος.`

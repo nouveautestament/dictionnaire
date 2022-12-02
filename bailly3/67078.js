@@ -1,0 +1,1 @@
+lar[67078]=`<b>Μυκαλησσός</b>, <i>att</i>. <b>Μυκαληττός, οῦ (ἡ)</b> <font color="purple">[ῠᾰ]</font> Mykalèssos <i>ou</i> Mykalèttos, <i>v. de Béotie,</i> IL. <i>2, 498</i> ; HH. <i>Ap. 224</i> ; THC. <i>6, 29, 30 ; 7, 29</i>.<p>➳ Μυκαληττός, STR. <i>404</i>.`

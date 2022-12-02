@@ -1,0 +1,1 @@
+lar[21755]=`<b>γεράν·δρυον, ου (τὸ)</b> vieux tronc d’arbre, TH. <i>H.P. 2, 7, 2, etc.</i> ; A.RH. <i>1, 1118</i> ; PLUT. <i>M. 796a ; fig</i>. vieille femme décrépite, ARISTÉN. <i>2, 1</i>.<p>➳ <font color="purple">[ῠ]</font> ANTH. <i>6, 253 ; 9, 233</i> ; <font color="purple">[ῡ <i>par nécessité prosod</i>.]</font> A.RH. <i>l. c</i>.<p><b>Étym</b>. γεραιός, δρῦς.`

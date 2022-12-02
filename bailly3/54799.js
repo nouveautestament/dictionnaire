@@ -1,0 +1,1 @@
+lar[54799]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> potier, IL. <i>18, 601</i> ; HÉS. <i>O. 25</i> ; PLAT. <i>Hipp. ma. 288d, etc</i>.<p>➳ <i>Plur. nom. att</i>. κεραμῆς, AR. <i>Av. 490</i>.<p><b>Étym</b>. κέραμος.`

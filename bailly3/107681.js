@@ -1,0 +1,1 @@
+lar[107681]=`<b>χαλκο·πλάστης, ου (ὁ)</b> ouvrier qui façonne le cuivre <i>ou</i> l’airain, SPT. <i>Sap. 15, 9</i>.<p><b>Étym</b>. χ. πλάσσω.`

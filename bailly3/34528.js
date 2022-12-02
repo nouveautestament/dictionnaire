@@ -1,0 +1,1 @@
+lar[34528]=`<i>vb. de</i> ἐντίθημι, GEOP. <i>6, 1, 4</i> ; PLOT. <i>Enn. 1, 41, 3 Creuz</i>.`

@@ -1,0 +1,1 @@
+lar[43844]=`<b>εὐ·ψάμαθος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> couvert de sable, ANTH. <i>6, 223</i>.<p><b>Étym</b>. εὖ, ψάμαθος.`

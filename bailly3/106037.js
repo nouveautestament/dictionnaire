@@ -1,0 +1,1 @@
+lar[106037]=`<b>φιλοπραγμονέω-ῶ</b> <font color="purple">[ῐ]</font><br><b>      1 <i>intr.</i></b> se mêler volontiers de tout, être actif, DC. <i>77, 17</i> ; CHRYS. <i>Hom. 134, t. 5, p. 861, 11</i>.<br><b>      2 <i>tr.</i></b> s’occuper activement de, rechercher avec curiosité, <i>acc</i>. NICOSTR. (STOB. <i>Fl. 70, 12).</i><p><b>Étym</b>. φιλοπράγμων.`

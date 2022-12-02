@@ -1,0 +1,1 @@
+lar[68471]=`<b>οῦ (ὁ)</b> novateur, <i>particul</i>. révolutionnaire, DH. <i>5, 75</i> ; PLUT. <i>Phoc. 16, Cim. 17, etc</i>.<p><b>Étym</b>. νεωτερίζω.`

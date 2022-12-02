@@ -1,0 +1,1 @@
+lar[87300]=`<b>Πτελεατικὸς οἶνος (ὁ)</b> <font color="purple">[ᾱ]</font> vin de Ptéléa, <i>à Cos,</i> THCR. <i>Idyl. 7, 65</i>.`

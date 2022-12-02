@@ -1,0 +1,1 @@
+lar[27105]=`<b>δι·υβρίζω</b> <font color="purple">[ῠ]</font> outrager avec violence, violer (une femme) JOS. <i>Hypomn. 73</i>.<p><b>Étym</b>. διά, ὑβρίζω.`

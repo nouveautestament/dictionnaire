@@ -1,0 +1,1 @@
+lar[9673]=`<b>ἀντ·επιτείνω</b>, tendre en sens contraire, PLUT. <i>M. 933c</i>.`

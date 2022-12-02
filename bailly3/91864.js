@@ -1,0 +1,1 @@
+lar[91864]=`<b>σπερμο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se nourrit de graines, SEXT. <i>P. 1, 56, etc</i>.<p><b>Étym</b>. σπέρμα, φαγεῖν.`

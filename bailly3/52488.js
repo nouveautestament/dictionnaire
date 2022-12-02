@@ -1,0 +1,1 @@
+lar[52488]=`<b>κατα·καρυκεύω</b> <font color="purple">[ᾰρῡ]</font> assaisonner avec art, SYN. <i>2b</i>.`

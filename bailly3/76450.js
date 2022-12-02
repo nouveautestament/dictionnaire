@@ -1,0 +1,1 @@
+lar[76450]=`<b>παρα·φωνέω-ῶ</b>, interrompre en criant, PLUT. <i>M. 183b</i>.`

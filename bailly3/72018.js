@@ -1,0 +1,1 @@
+lar[72018]=`<i>adv</i>., en réalité, en fait, EUR. <i>Ion 222</i> ; XÉN. <i>Conv. 9, 5, etc.</i> ; PLAT. <i>Soph. 263d, Phædr. 260a, etc</i>.<p><b>Étym</b>. <i>part. prés. de</i> εἰμί.`

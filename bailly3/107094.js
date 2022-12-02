@@ -1,0 +1,1 @@
+lar[107094]=`<b>ου</b>, <i>épq</i>. <b>οιο (ὁ)</b> <font color="purple">[ῠᾰ]</font> Phylakos, <i>h., particul. héros thessalien,</i> IL. <i>6, 35</i> ; OD. <i>15, 231</i> ; HDT. <i>8, 39, etc</i>.<p><b>Étym</b>. <i>cf</i>. φύλακος.`

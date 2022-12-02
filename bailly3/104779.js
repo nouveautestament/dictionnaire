@@ -1,0 +1,1 @@
+lar[104779]=`<b>ή, όν</b>, qui concerne le phallus : τὸ φαλλικόν (<i>s.-e</i>. μέλος) AR. <i>Ach. 261,</i> le chant du phallus ; <i>cf</i>. ARSTT. <i>Poet. 4, 14</i>.<p><b>Étym</b>. φαλλός.`

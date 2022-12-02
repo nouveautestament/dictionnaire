@@ -1,0 +1,1 @@
+lar[75964]=`<b>παρ·ανακλίνω</b>, faire coucher auprès de, <i>dat</i>. SPT. <i>Sir. 47, 19</i>.`

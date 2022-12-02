@@ -1,0 +1,1 @@
+lar[25366]=`<b>Δια·πρεπής (ὁ)</b> Diaprépès, <i>h</i>. PLAT. <i>Criti. 114c</i>.`

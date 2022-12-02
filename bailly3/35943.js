@@ -1,0 +1,1 @@
+lar[35943]=`<b>α, ον</b>, qui vient, agit <i>ou</i> se fait le soixantième jour, HPC. <i>Art. 832</i>.<p><b>Étym</b>. ἑξηκοστός.`

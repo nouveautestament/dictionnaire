@@ -1,0 +1,1 @@
+lar[8606]=`<b>ἀν·εύθυντος, ος, ον</b>, qui n’est pas bien dirigé, ARSTT. <i>Meteor. 4, 9, 8</i>.<p><b>Étym</b>. ἀν-, εὐθύνω.`

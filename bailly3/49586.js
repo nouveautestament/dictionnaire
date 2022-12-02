@@ -1,0 +1,1 @@
+lar[49586]=`<b>ου (τὸ)</b> <font color="purple">[ῑῐκ]</font> saucisse, ATH. <i>376d ;</i> ANTH. <i>11, 212</i>.<p><b>Étym</b>. <i>lat</i>. insicium.`

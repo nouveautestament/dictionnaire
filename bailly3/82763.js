@@ -1,0 +1,1 @@
+lar[82763]=`<b>α, ον</b>, <i>vb. de</i> πορεύω, SOPH. <i>Ph. 993</i> ; XÉN. <i>An. 2, 5, 18 ; au neutre,</i> SOPH. <i>Aj. 693</i> ; PLAT. <i>Rsp. 452c, etc</i>.`

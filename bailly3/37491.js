@@ -1,0 +1,1 @@
+lar[37491]=`<b>ἐπιγραμματο·ποιός, οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> faiseur d’épigrammes, DL. <i>6, 14</i>.<p><b>Étym</b>. ἐπίγραμμα, ποιέω.`

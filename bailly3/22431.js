@@ -1,0 +1,1 @@
+lar[22431]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> qui forme des nœuds, noueux, <i>en parl. de certaines tiges,</i> TH. <i>H.P. 1, 5, 3</i> ; DIOSC. <i>4, 30</i>.<p><b>Étym</b>. γονατ- <i>rad. de</i> γόνυ, -ωδης.`

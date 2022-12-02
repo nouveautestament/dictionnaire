@@ -1,0 +1,1 @@
+lar[63807]=`<b>μελάμ·βωλος, ος, ον</b>, aux mottes noires, <i>en parl. d’une bonne terre,</i> ANTH. <i>6, 231</i> ; OPP. <i>C. 3, 508</i>.<p><b>Étym</b>. μ. βῶλος.`

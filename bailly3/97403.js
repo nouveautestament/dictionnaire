@@ -1,0 +1,1 @@
+lar[97403]=`<b>ταλαι·παθής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> qui supporte des souffrances, ANTH. <i>1, 32</i>.<p><b>Étym</b>. *τλάω, πάθος ; <i>cf</i>. ταλαπαθής.`

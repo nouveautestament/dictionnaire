@@ -1,0 +1,1 @@
+lar[52171]=`<b>κατα·βόστρυχος, ος, ον</b> <font color="purple">[ῠ]</font> aux boucles pendantes, EUR. <i>Ph. 148</i> ; ARISTÉN. <i>2, 19</i>.<p><b>Étym</b>. κ. βόστρυχος.`

@@ -1,0 +1,1 @@
+lar[14665]=`<b>ἀριστερο·στάτης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui se tient debout à gauche (de la scène) <i>en parl. du chœur,</i> CRAT. <i>(Bkk. 444, 15</i>) ; ARSTD. <i>t. 2, 161</i>.<p><b>Étym</b>. ἀριστερός, ἵστημι.`

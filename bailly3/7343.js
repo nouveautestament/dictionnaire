@@ -1,0 +1,1 @@
+lar[7343]=`<b>ος, ον</b>, propre au repos : θῶκος ἀμπαυστήριος (<i>ion</i>.) HDT. <i>1, 181,</i> siège pour se reposer ; τὸ ἀναπαυστήριον, LUC. <i>Am. 18,</i> place pour se reposer.<p><b>Étym</b>. ἀναπαύω.`

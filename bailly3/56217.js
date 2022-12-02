@@ -1,0 +1,1 @@
+lar[56217]=`<i>c</i>. γνάμπτω, PHILSTR. <i>V. Ap. p. 7, 12 dout</i>.`

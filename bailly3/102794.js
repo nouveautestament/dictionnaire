@@ -1,0 +1,1 @@
+lar[102794]=`<b>ὑπέρ·σεμνος, ος, ον</b>, tout à fait imposant, magnifique, admirable, EL. <i>N.A. 2, 6</i> ; DIOGÉN. <i>2, 91</i> ; SYN. <i>10c</i>.<p><b>Étym</b>. ὑ. σεμνός.`

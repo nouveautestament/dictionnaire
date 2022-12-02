@@ -1,0 +1,1 @@
+lar[23961]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne le métier de tanneur, PLAT. <i>Pol. 280c</i>.<p><b>Étym</b>. *δερματουργός, <i>de</i> δέρμα, ἔργον.`

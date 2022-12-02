@@ -1,0 +1,1 @@
+lar[89117]=`<b>ῶν (οἱ)</b> les Sakes, <i>pple scythe,</i> HDT. <i>1, 153, etc.</i> ; XÉN. <i>Cyr. 5, 2, 25, etc. ; au sg</i>. Σάκας, un Sake, AR. <i>Av. 31, etc</i>.<p>➳ <i>Voc. sg</i>. Σάκα, XÉN. <i>Cyr. 8, 3, 42, etc. ; gén. pl. ion</i>. Σακέων, HDT. <i>7, 64, etc</i>.`

@@ -1,0 +1,1 @@
+lar[43983]=`<b>α, ον</b>, d’Éphèse. HDT. <i>1, 26, etc.</i> ; τὰ Ἐφέσια γράμματα, PLUT. <i>M. 706 d et e</i> ; M. ANT. <i>11, 26, etc</i>. lettres d’Éphèse, <i>sorte de formule magique</i>.<p><b>Étym</b>. Ἔφεσος.`

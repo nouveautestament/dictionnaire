@@ -1,0 +1,1 @@
+lar[15321]=`<b>ἀρτί·γαμος, ος, ον</b> <font color="purple">[ῐγᾰ]</font> nouvellement marié, ANTH. <i>App. 233</i> ; OPP. <i>H. 4, 179</i>.<p><b>Étym</b>. ἄ. γάμος.`

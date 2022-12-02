@@ -1,0 +1,1 @@
+lar[47182]=`<b>ή, όν</b> <font color="purple">[ῠ]</font><br><b>      1</b> du sexe féminin, ARSTT. <i>G.A. 1, 20, 2</i> ; SPT. <i>Num. 5, 3 ; Deut. 4, 16, etc.</i><br><b>      2</b> du genre féminin, D. THR. <i>632, 12</i> ; DYSC. <i>Pron. 265a ;</i> DH. <i>Amm. 2, 11</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>Probl. 22, 7</i>.<p><b>Étym</b>. θῆλυς.`

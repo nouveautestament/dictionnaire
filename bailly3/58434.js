@@ -1,0 +1,1 @@
+lar[58434]=`<b>α, ον</b> <font color="purple">[ῡ]</font> plus glorieux, plus illustre, POL. <i>3, 96, 7 (corr</i>. ἐπικυδεστέρας <i>Ernesti, suivi par Büttner-Wobst).</i><p><b>Étym</b>. κῦδος.`

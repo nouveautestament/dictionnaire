@@ -1,0 +1,1 @@
+lar[71086]=`<b>ητος (ἡ)</b> <font color="purple">[ῐγ]</font> <i>c</i>. ὀλιγοχρονία, PROCL. <i>Ptol. 1, 3, p. 14, etc</i>.`

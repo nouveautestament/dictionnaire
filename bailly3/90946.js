@@ -1,0 +1,1 @@
+lar[90946]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> <i>c</i>. σκιαμαχία, GAL.`

@@ -1,0 +1,1 @@
+lar[25279]=`<b>εως (ἡ)</b> <font color="purple">[ᾰσ]</font><br><b>      1</b> formation, A. APHR. <i>Probl. 2, 72</i>.<br><b>      2</b> réduction d’une luxation, GAL. <i>2, 172d, 174d</i>.<p><b>Étym</b>. διαπλάσσω.`

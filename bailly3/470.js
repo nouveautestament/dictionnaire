@@ -1,0 +1,1 @@
+lar[470]=`<b>ή, όν</b> <font color="purple">[ᾰγ]</font> qui vit en troupe <i>ou</i> en société, sociable, PHIL. <i>2, 202, etc</i>.<p><b>Étym</b>. ἀγελάζω.`

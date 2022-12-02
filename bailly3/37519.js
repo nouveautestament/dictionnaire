@@ -1,0 +1,1 @@
+lar[37519]=`<b>ἐπι·δείελος</b>, <i>seul. pl. neutre adv</i>. ἐπιδείελα, vers le soir, l’après-midi, HÉS. <i>O. 810, 821</i>.<p><b>Étym</b>. <i>sel. la plupart des mss. et des édit</i>. ἐπὶ δείελα.`

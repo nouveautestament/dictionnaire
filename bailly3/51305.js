@@ -1,0 +1,1 @@
+lar[51305]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> <i>dim. de</i> καλόπους, GAL. <i>6, 364</i>.`

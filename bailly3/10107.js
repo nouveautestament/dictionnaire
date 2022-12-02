@@ -1,0 +1,1 @@
+lar[10107]=`<b>ἀντι·μνηστεύω</b>, être prétendant en rivalité avec un autre, DS. <i>Exc. 550, 97</i>.`

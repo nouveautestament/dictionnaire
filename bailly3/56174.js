@@ -1,0 +1,1 @@
+lar[56174]=`<b>Κλυτο·σθένης, ους (ἡ)</b> <font color="purple">[ῠ]</font> Klytosthénès, <i>h</i>. ANTH. <i>6, 94</i>.<p><b>Étym</b>. κλ. σθένος.`

@@ -1,0 +1,1 @@
+lar[71999]=`<b>Ὀνο·σκελίς, ίδος</b>, <i>acc</i>. <b>ιν (ἡ)</b> Onoskélis (<i>litt</i>. aux jambes d’âne), <i>n. de f</i>. ARSTT. (PLUT. <i>M. 312e</i>).<p><b>Étym</b>. ὄ. σκέλος.`

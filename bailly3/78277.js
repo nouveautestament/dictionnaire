@@ -1,0 +1,1 @@
+lar[78277]=`<b>ου (ὁ)</b> muge, <i>poisson,</i> ARSTT. <i>H.A. 8, 2, 26</i>.`

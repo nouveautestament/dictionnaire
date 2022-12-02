@@ -1,0 +1,1 @@
+lar[84880]=`<b>πρό·παλαι</b> <font color="purple">[ᾰ]</font> <i>adv</i>., depuis longtemps, AR. <i>Eq. 1155</i> ; PLUT. <i>M. 674f ;</i> LUC. <i>J. tr. 26</i>.<p><b>Étym</b>. π. πάλαι.`

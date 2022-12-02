@@ -1,0 +1,1 @@
+lar[97149]=`<b>ων (τὰ)</b> <font color="purple">[ρᾰ]</font> fête en l’honneur de Socrate, MARIN. <i>V. Procl. 10, 23</i>.<p><b>Étym</b>. Σωκράτης.`

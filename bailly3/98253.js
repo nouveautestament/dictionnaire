@@ -1,0 +1,1 @@
+lar[98253]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petite tranche de poisson salé, HPC. <i>526, 35</i> ; PLAT. <i>Conv. 191e ;</i> ARCHÉD. (<i>Com. fr. 4, 436), etc.</i><br><b>      2</b> petit morceau, <i>en gén</i>. SYN.<p><b>Étym</b>. τέμαχος.`

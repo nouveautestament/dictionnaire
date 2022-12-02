@@ -1,0 +1,1 @@
+lar[3849]=`<font color="purple">[φᾰ]</font> <i>adv</i>., en chancelant : ἀ. ἔχειν, PLUT. <i>M. 682d</i>, être enclin à tomber ; ἀ. διακεῖσθαι, PHILOD. <i>Œc. 14,</i> faire faillite.<p><b>Étym</b>. ἀκροσφαλής.`

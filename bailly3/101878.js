@@ -1,0 +1,1 @@
+lar[101878]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> <i>dim. de</i> ὑπαγωγεύς 2, PTOL.`

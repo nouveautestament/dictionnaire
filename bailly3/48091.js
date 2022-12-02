@@ -1,0 +1,1 @@
+lar[48091]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῠ]</font> sacrificateur, prêtre, ESCHL. <i>Ag. 225, 240</i> ; SOPH. <i>Tr. 613, 661, 1192</i>.<p><b>Étym</b>. θύω¹.`

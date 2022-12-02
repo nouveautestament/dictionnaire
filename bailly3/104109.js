@@ -1,0 +1,1 @@
+lar[104109]=`<b>ᾶς (ἡ)</b> corruption <i>ou</i> consomption intérieure, ORIB. <i>p. 19 Mai</i>.<p><b>Étym</b>. ὑποφθείρω.`

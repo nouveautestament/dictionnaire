@@ -1,0 +1,1 @@
+lar[68571]=`<b>νη·πευθής, ής, ές</b>, sur qui l’on ne peut se renseigner, mystérieux, ORACL. (MACR. <i>Sat. 1, 18).</i><p><b>Étym</b>. νη-, πυνθάνομαι.`

@@ -1,0 +1,1 @@
+lar[58056]=`<b>ης, ες</b>, qui ressemble à de l’oignon, DIOSC. <i>4, 151</i>.<p><b>Étym</b>. κρόμμυον, -ωδης.`

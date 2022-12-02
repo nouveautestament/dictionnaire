@@ -1,0 +1,1 @@
+lar[55776]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> vagissement, cri plaintif d’enfant, PLUT. <i>Lyc. 16, M. 672f, etc</i>.<p><b>Étym</b>. κλαυθμυρίζω.`

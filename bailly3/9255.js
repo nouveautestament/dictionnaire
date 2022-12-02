@@ -1,0 +1,1 @@
+lar[9255]=`<b>ἄν·ομβρος, ος, ον :<br>      1</b> sans pluie, sec (pays) HDT. <i>2, 22 ; 4, 185</i>.<br><b>      2</b> non alimenté par des pluies (cours d’eau) EUR. <i>Bacch. 406</i>.<p><b>Étym</b>. ἀν-, ὄ.`

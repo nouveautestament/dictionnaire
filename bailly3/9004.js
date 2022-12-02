@@ -1,0 +1,1 @@
+lar[9004]=`<b>ή, όν</b> <font color="purple">[ῠᾰ]</font> proconsulaire, PLUT. <i>M. 277e ;</i> DC. <i>58, 7</i>.`

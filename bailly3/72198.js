@@ -1,0 +1,1 @@
+lar[72198]=`<b>ὀξύ·χολος, ος, ον</b> <font color="purple">[ῠ]</font> irascible (<i>propr</i>. qui a la bile prompte) SOL. (STOB. <i>Fl. 9, 25, 26</i>) ; SOPH. <i>Ant. 955</i> ; ANTH. <i>9, 127</i> ; τὸ ὀξ. LUC. <i>Fug. 19,</i> irascibilité.<p><b>Étym</b>. ὀ. χολή.`

@@ -1,0 +1,1 @@
+lar[16652]=`<b>ἀσωτο·διδάσκαλος, ου (ὁ)</b> <font color="purple">[κᾰ]</font> Le maître de libertinage, <i>titre d’une comédie d’Alexis</i>.<p><b>Étym</b>. ἄσωτος, δ.`

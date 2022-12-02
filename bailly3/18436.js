@@ -1,0 +1,1 @@
+lar[18436]=`<b>άδος</b> <font color="purple">[ᾰᾰδ]</font> <i>adj. f</i>. de l’Achéron, PLAT. <i>Phæd. 113a ;</i> Ἀ. Χερρόνησος, XÉN. <i>An. 5, 10, 2,</i> la Chersonèse de l’Achéron, <i>presqu’î. près d’Héraclée, en Bithynie</i>.<p><b>Étym</b>. Ἀχέρων.`

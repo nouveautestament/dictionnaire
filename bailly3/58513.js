@@ -1,0 +1,1 @@
+lar[58513]=`<b>ου (ὁ)</b> = <i>lat</i>. Quintillus, <i>n. d’h. rom</i>. LUC. <i>Macr. 1</i>.`

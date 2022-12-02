@@ -1,0 +1,1 @@
+lar[77601]=`<b>ας (ἡ)</b> obéissance, ESCHL. <i>Sept. 224</i> ; SOPH. <i>Ant. 676</i> ; PLAT. <i>Rsp. 538e, etc</i>.<p><b>Étym</b>. πείθαρχος.`

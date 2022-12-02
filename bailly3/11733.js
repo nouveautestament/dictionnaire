@@ -1,0 +1,1 @@
+lar[11733]=`<b>ἀπ·εράω-ῶ :<br>      1</b> expulser les sucs <i>ou</i> éléments humides, TH. <i>C.P. 1, 17, 10</i> ; STR. <i>52</i>.<br><b>      2</b> vomir, ALCIPHR. <i>3, 7</i>.<p><b>Étym</b>. ἀπό, ἐράω.`

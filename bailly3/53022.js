@@ -1,0 +1,1 @@
+lar[53022]=`<b>κατα·πειράω-ῶ</b> <font color="darkgreen">(<i>ao. pass</i>. κατεπειράθην)</font> éprouver de manière à abattre, DS. <i>17, 107</i>.`

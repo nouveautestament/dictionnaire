@@ -1,0 +1,1 @@
+lar[9031]=`<b>ἀνθ·ωροσκοπέω-ῶ</b>, tirer un horoscope dans un sens opposé, PTOL. <i>Tetr. 200, 201</i>.<p><b>Étym</b>. ἀντί, ὡρ.`

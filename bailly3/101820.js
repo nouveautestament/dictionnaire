@@ -1,0 +1,1 @@
+lar[101820]=`<b>ὑμνο·γράφος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> écrivain d’hymnes <i>ou</i> de panégyriques, JOS. <i>Macc. 18, 15</i> ; PHIL. <i>2, 605</i>.<p><b>Étym</b>. ὕμνος, γράφω.`

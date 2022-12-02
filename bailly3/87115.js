@@ -1,0 +1,1 @@
+lar[87115]=`<b>ας (ἡ)</b> germination prompte <i>ou</i> précoce, TH. <i>C.P. 1, 21, 3</i>.<p><b>Étym</b>. πρωϊβλαστής.`

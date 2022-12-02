@@ -1,0 +1,1 @@
+lar[100799]=`<b>ου (ὁ) :<br>      1</b> course, HPC. <i>363, 53 et 64 ; 368, 23 et 27</i> ; SOPH. <i>Ant. 1052 ; sel. d’autres</i> τροχός, <i>v</i>. τροχός.<br><b>      2</b> carrière pour la course, EUR. <i>Hipp. 1133, Med. 46, fr. Alop. 6</i>.<br><b>      3</b> <i>sorte d’animal, p.-ê</i>. le blaireau, HÉRODORE (ARSTT. <i>G.A. 6, 6).</i><p><b>Étym</b>. τρέχω.`

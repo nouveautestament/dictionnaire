@@ -1,0 +1,1 @@
+lar[49558]=`<b>ἰσ·ημερία, ας (ἡ)</b> <font color="purple">[ῑ̆σ]</font> équinoxe, PLAT. <i>Ax. 370b ;</i> ARSTT. <i>Meteor. 2, 6, 16 ; H.A. 6, 17, 5 ; etc</i>.<p><b>Étym</b>. ἴ. ἡμέρα.`

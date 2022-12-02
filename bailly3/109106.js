@@ -1,0 +1,1 @@
+lar[109106]=`<b>χρυσεό·καρπος, ος, ον</b> <font color="purple">[ῡ]</font> <i>c</i>. χρυσόκαρπος, POET. LYR., <i>fr. adesp. 122 Bgk</i>.`

@@ -1,0 +1,1 @@
+lar[33054]=`<b>ου (τὸ)</b> butin, proie, A.RH. <i>2, 264 ; au pl</i>. IL. <i>1, 4</i>.<p><b>Étym</b>. ἕλωρ.`

@@ -1,0 +1,1 @@
+lar[26706]=`<b>Διό·γνητος, ου (ὁ)</b> Diognètos, <i>h</i>. AND. <i>1, 14 et</i> DÉM. <i>38, 27 Baiter-Sauppe</i> ; LYS. POL. DH., <i>etc</i>.<p><b>Étym</b>. <i>cf</i>. διόγνητος.`

@@ -1,0 +1,1 @@
+lar[108701]=`<b>χοιρο·φορέω-ῶ</b>, apporter un petit cochon <i>ou</i> un porc pour un sacrifice, ISTER (PHOT. <i>p. 310).</i><p><b>Étym</b>. χ. -φορος <i>de</i> φέρω.`

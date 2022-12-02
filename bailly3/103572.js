@@ -1,0 +1,1 @@
+lar[103572]=`<b>ὑπο·μοχλεύω</b>, servir de levier, HPC. <i>Mochl. 865</i>.`

@@ -1,0 +1,1 @@
+lar[12520]=`<b>ή, όν</b> <font color="purple">[στᾰ]</font> qui ramène à l’état antérieur ; <i>p. suite,</i> qui ramène <i>ou</i> revient au même point, PHIL. <i>1, 24</i> ; SYN. <i>127c ; en parl. des nombres 5 et 6 dont le carré <i>ou</i> le cube se terminent respectivement par 5 et 6,</i> NICOM. <i>Arithm. 131</i> ; THEOL. <i>40, 48</i>.<p><b>Étym</b>. ἀποκαθίστημι.`

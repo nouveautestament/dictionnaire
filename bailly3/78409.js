@@ -1,0 +1,1 @@
+lar[78409]=`<b>περι·αστράπτω</b>, illuminer d’éclairs tout autour, <i>acc</i>. NT. <i>Ap. 9, 3 ; avec</i> περί <i>et l’acc</i>. NT. <i>Ap. 22, 6 ; fig</i>. JUNC. (STOB. <i>Fl. 117, 9</i>).`

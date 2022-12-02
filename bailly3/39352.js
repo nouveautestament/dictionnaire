@@ -1,0 +1,1 @@
+lar[39352]=`<b>οῦ (ὁ)</b> <i>c</i>. ἐπιτείχισμα THC. <i>7, 18</i> ; XÉN. <i>Hell. 5, 1, 2</i> ; ἐπ. τῇ χώρᾳ, THC. <i>1, 122</i> ; κατὰ τῆς πόλεως, DÉM. <i>254, 20,</i> rempart contre le pays, contre la ville.`

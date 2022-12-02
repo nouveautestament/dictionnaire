@@ -1,0 +1,1 @@
+lar[58297]=`<font color="purple">[ῡ]</font> <i>(seul. prés.) c</i>. κτείνω, APP. <i>Civ. 1, 71 ; 4, 35 ; au pass</i>. APP. <i>Civ. 1, 2</i>.`

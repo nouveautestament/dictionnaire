@@ -1,0 +1,1 @@
+lar[99844]=`<b>τραγ·ίαμβος, ου (ὁ)</b> <font color="purple">[ᾰγ]</font> ïambe tragique, SUID. <i>v°</i> Ἀπολλόδωρος.<p><b>Étym</b>. τρ. ἴαμβος.`

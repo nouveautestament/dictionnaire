@@ -1,0 +1,1 @@
+lar[108122]=`<b>χειρο·βολέω-ῶ</b>, lancer avec la main, <i>acc</i>. LUC. <i>Lex. 5</i>.<p><b>Étym</b>. χείρ, -βολος <i>de</i> βάλλω.`

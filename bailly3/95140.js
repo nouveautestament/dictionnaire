@@ -1,0 +1,1 @@
+lar[95140]=`<b>συν·διαπονέω-ῶ :<br>      1</b> achever un travail avec qqn, PLAT. <i>Soph. 218b.</i><br><b>      2</b> travailler <i>ou</i> s’exercer ensemble, PLAT. <i>Leg. 842e</i>.`

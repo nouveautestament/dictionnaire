@@ -1,0 +1,1 @@
+lar[40258]=`<b>ατος (τὸ) :<br>      1</b> excitation, stimulant, AR. <i>Nub. 312</i> ; CRITIAS <i>7</i>.<br><b>      2</b> provocation, APP. (SUID.).<p><b>Étym</b>. ἐρεθίζω.`

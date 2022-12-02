@@ -1,0 +1,1 @@
+lar[102979]=`<b>ὑπ·ίχνιος, ος, ον</b>, qui se trouve sous la plante du pied, Q. SM. <i>9, 383</i>.<p><b>Étym</b>. ὑ. ἴχνος.`

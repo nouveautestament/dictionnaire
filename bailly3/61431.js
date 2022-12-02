@@ -1,0 +1,1 @@
+lar[61431]=`<b>ας (ἡ)</b> <i>poids et monnaie</i> :<br><b>      1</b> livre de douze onces (<i>à Rome,</i> as libralis) POL. <i>22, 26, 19</i> ; ANTH. <i>6, 214</i>.<br><b>      2</b> monnaie d’argent sicilienne de 1 ⅓ d’obole attique <i>ou</i> éginète, COM.`

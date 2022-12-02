@@ -1,0 +1,1 @@
+lar[89822]=`<b>ος, ον</b>, de Sextius : Σέξτια ὕδατα, PLUT. <i>Mar. 18,</i> les eaux de Sextius, <i>à Aix, en Provence</i>.`

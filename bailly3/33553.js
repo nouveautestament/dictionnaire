@@ -1,0 +1,1 @@
+lar[33553]=`<b>ατος (τὸ) :<br>      1</b> marché, <i>au plur</i>. EUR. <i>Cycl. 137</i>.<br><b>      2</b> gain de commerce, TH. <i>Char. 6 ; d’où</i> récompense, SOPH. <i>Tr. 538</i>.<p><b>Étym</b>. ἐμπολάω.`

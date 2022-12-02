@@ -1,0 +1,1 @@
+lar[19873]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> pousse, rejeton, NONN. <i>Jo. 2, 140</i>.<p><b>Étym</b>. βλαστήμων.`

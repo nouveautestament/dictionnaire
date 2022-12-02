@@ -1,0 +1,1 @@
+lar[80854]=`<b>ου (ὁ)</b> Pleistôros, <i>divinité thrace,</i> HDT. <i>9, 119</i>.`

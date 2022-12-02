@@ -1,0 +1,1 @@
+lar[63694]=`<b>α, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. μέλινος, OPP. <i>C. 4, 381</i>.`

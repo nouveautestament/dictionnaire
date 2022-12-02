@@ -1,0 +1,1 @@
+lar[62908]=`<b>ου (ὁ)</b> <font color="purple">[γᾰ]</font> huître d’où l’on extrait les perles, <i>d’où</i> perle, EL. <i>N.A. 15, 8</i>.<p><b>Étym</b>. <i>cf</i>. les précμαργαρίτης, μάργαρον.`

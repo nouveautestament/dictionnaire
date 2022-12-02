@@ -1,0 +1,1 @@
+lar[26200]=`<b>δι·εντέρευμα, ατος (τὸ)</b> recherche jusqu’aux entrailles d’un sujet, <i>jeu de mots,</i> AR. <i>Nub. 167</i>.<p><b>Étym</b>. διά, ἔντερον.`

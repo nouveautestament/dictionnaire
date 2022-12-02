@@ -1,0 +1,1 @@
+lar[25144]=`<b>δι·ανιάω-ῶ</b> <font color="purple">[ᾰνῑ]</font> (<i>seul. part. prés. pass</i>.) affliger profondément, EL. <i>V.H. 1, 24</i>.`

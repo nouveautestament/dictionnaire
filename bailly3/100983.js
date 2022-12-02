@@ -1,0 +1,1 @@
+lar[100983]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petit durillon, ARÉT. <i>Caus. m. diut. 2, 9</i>.<p><b>Étym</b>. τύλος.`

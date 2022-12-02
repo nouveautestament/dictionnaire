@@ -1,0 +1,1 @@
+lar[1003]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> protecteur des rues (Apollon) EUR. <i>Ph. 631 ; cf</i>. DÉM. <i>531, 9</i>.<br><b>      2</b> stèle <i>ou</i> autel à la porte des maisons, <i>en l’honneur d’Apollon</i> ἀγυιεύς, SOPH. <i>fr. 340</i> ; AR. <i>Vesp. 875 (au voc</i>. ἀγυιεῦ).<p><b>Étym</b>. ἀγυιά.`

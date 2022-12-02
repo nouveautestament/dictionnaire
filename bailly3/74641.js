@@ -1,0 +1,1 @@
+lar[74641]=`<b>ου (τὸ)</b> <font color="purple">[λᾰ]</font> <i>dim. de</i> πάλλαξ, ALCM. <i>82</i> ; PLAT. COM. <i>2-2, 693 Mein</i>.`

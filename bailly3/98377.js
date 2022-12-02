@@ -1,0 +1,1 @@
+lar[98377]=`<b>όνος (ἡ) :<br>      1</b> ver qui ronge le bois, <i>surtout des navires,</i> AR. <i>Eq. 1308</i> ; TH. <i>H.P. 5, 4, 4</i>.<br><b>      2</b> ver qui infeste les ruches d’abeilles, ARSTT. <i>H.A. 8, 27, 3</i>.<br><b>      3</b> ver intestinal, ARSTT. <i>fr. 231</i>.<br><b>      4</b> carie des os, HPC. <i>463, 40, etc</i>.<p><b>Étym</b>. τείρω.`

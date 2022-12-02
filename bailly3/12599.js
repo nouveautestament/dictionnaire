@@ -1,0 +1,1 @@
+lar[12599]=`<b>ή, όν</b>, qui parle <i>ou</i> agit à l’aventure, SEXT. <i>P. 3, 79, etc</i>.`

@@ -1,0 +1,1 @@
+lar[8890]=`<b>ἀνθο·φόρος, ος, ον :<br>      1</b> qui produit des fleurs, <i>p. opp. à</i> κάρπιμος, TH. <i>C.P. 1, 5, 5</i>.<br><b>      2</b> couvert de fleurs, fleuri (bois, <i>etc</i>.) AR. <i>Ran. 442 ; fig</i>. florissant, ANTH. <i>12, 256</i>.<br><b>      3</b> <i>trad. du lat</i>. Feronia, DH. <i>3, 32</i>.<p><b>Étym</b>. ἄνθος, φέρω.`

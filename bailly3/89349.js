@@ -1,0 +1,1 @@
+lar[89349]=`<b>ου (ὁ)</b> <i>s.-e</i>. οἶνος, vin pourri, <i>càd</i>. auquel on donnait un goût de vieux vin, en y faisant infuser des fleurs, HERMIPP. (<i>Com. fr. 2, 410).</i><p><b>Étym</b>. σαπρός.`

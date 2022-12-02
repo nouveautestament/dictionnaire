@@ -1,0 +1,1 @@
+lar[74357]=`<b>ατος (τὸ)</b> <font color="purple">[πᾰλ]</font> <i>c</i>. παιπάλη <i>fig</i>. AR. <i>Av. 430</i> ; ESCHN. <i>33, 24</i> ; λόγων, ÆSCHRION (ATH. <i>335d</i>) fine langue.<p><b>Étym</b>. παιπάλη.`

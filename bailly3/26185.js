@@ -1,0 +1,1 @@
+lar[26185]=`<b>δι·εμφανίζω</b> (<i>part. prés</i>. -ουσα) faire briller à travers, faire voir clairemen, ARISTÉN. <i>2, 16</i>.`

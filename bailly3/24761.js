@@ -1,0 +1,1 @@
+lar[24761]=`<b>δια·κερματίζω</b> <font color="purple">[μᾰ]</font> <font color="darkgreen">(<i>impf. 3 sg</i>. διεκερμάτιζεν, <i>var</i>. διεκερματίζετο)</font> changer en menue monnaie, AR. <i>Vesp. 789</i>.`

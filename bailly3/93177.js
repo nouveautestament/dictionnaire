@@ -1,0 +1,1 @@
+lar[93177]=`<b>συγ·γελάω-ῶ</b>, rire avec <i>ou</i> ensemble, EUR. <i>fr. 364, 22</i> ; CALL. <i>Epigr. 32</i> ; ATH. <i>249e ; avec un dat</i>. SPT. <i>Sir. 30, 10, etc</i>.`

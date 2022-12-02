@@ -1,0 +1,1 @@
+lar[13153]=`<b>ἀπό·προσθεν</b>, <i>adv</i>., loin en avant de, <i>gén</i>. PLAT. <i>Epin. 987a ;</i> LUC. <i>Astr. 29</i>.<p><b>Étym</b>. ἀ. πρόσθεν.`

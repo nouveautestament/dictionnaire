@@ -1,0 +1,1 @@
+lar[19342]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> qui sert à saillir, Ps.-PHOCYL. <i>188</i>.<p><b>Étym</b>. βατήρ.`

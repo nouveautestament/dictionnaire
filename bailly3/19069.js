@@ -1,0 +1,1 @@
+lar[19069]=`<b>βαρβαρό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰρο]</font> qui a l’esprit <i>ou</i> les sentiments d’un barbare, SIB. <i>1, 342, etc</i>.<p><b>Étym</b>. β. φρήν.`

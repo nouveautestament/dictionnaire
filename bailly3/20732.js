@@ -1,0 +1,1 @@
+lar[20732]=`<b>βραχυ·σύμβολος, ος, ον</b> <font color="purple">[ᾰῠσ]</font> qui contribue pour peu, ANTH. <i>9, 229</i>.<p><b>Étym</b>. βρ. συμβάλλω.`

@@ -1,0 +1,1 @@
+lar[101594]=`<b>ὑδροφοβιάω-ῶ</b>, être hydrophobe, DIOSC. <i>Ther. 1</i>.<p><b>Étym</b>. ὑδροφοβία.`

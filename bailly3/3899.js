@@ -1,0 +1,1 @@
+lar[3899]=`<b>ων (οἱ) :<br>      1</b> Akrôreies, <i>v. d’Élide,</i> XÉN. <i>Hell. 3, 2, 30 ; 4, 2, 16</i>.<br><b>      2</b> habitants d’Akrôreies, XÉN. <i>Hell. 7, 4, 14</i>.`

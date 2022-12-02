@@ -1,0 +1,1 @@
+lar[64205]=`<b>ωνος (ὁ)</b> Mélôn, <i>Béotien,</i> PLUT. <i>Pel. 8, etc</i>.`

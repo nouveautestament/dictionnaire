@@ -1,0 +1,1 @@
+lar[40758]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Érythéia, <i>î. de l’Océan, près de Gadès,</i> HÉS. <i>Th. 290, 983</i> ; HDT. <i>4, 8</i> ; ISOCR. <i>119d, 212e, etc</i>.<p>➳ <i>Épq. et ion</i>. Ἐρυθείη, HÉS. HDT. <i>ll. cc</i>.<p><b>Étym</b>. ἐρεύθω.`

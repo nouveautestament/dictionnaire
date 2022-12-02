@@ -1,0 +1,1 @@
+lar[8504]=`<b>ἀν·επίσχετος, ος, ον</b>, qu’on ne peut retenir, ARISTÉN. <i>2, 5</i> ; PHIL. <i>1, 187, 305</i>.<p><b>Étym</b>. ἀν-, ἐπίσχω.`

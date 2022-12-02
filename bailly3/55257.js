@@ -1,0 +1,1 @@
+lar[55257]=`<b>(ὁ)</b> Kèrée, <i>fl. d’Eubée,</i> ARSTT. <i>Mir. 184</i>.`

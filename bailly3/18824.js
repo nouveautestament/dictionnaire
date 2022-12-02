@@ -1,0 +1,1 @@
+lar[18824]=`<b>βαθύ·ϋπνος, ος, ον</b> <font color="purple">[ᾰῠυ]</font> plongé dans un sommeil profond, NIC. <i>Th. 394</i>.<p><b>Étym</b>. β. ὕπνος.`

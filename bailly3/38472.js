@@ -1,0 +1,1 @@
+lar[38472]=`<i>adv</i>., sous forme d’un rapport (1 + 1/n), NICOM. <i>Arithm. 136</i>.<p><b>Étym</b>. ἐπιμόριος.`

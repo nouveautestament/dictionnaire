@@ -1,0 +1,1 @@
+lar[97321]=`<b>Τ, τ (ταῦ) (τὸ)</b> <i>indécl</i>. tau, <i>19<sup>e</sup> lettre de l’alphabet grec.<br>Comme signe numéral</i> τʹ= 300, ͵τ = 300 000.<br><i>Dans les inscriptions,</i> Τ = talent (τάλαντον) <i>ou</i> quart.<p><b>Étym</b>. τεταρτημόριον.`

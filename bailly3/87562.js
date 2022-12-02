@@ -1,0 +1,1 @@
+lar[87562]=`<b>Πυθιο·νίκη, ης (ἡ)</b> <font color="purple">[ῡῑ]</font> victoire aux jeux Pythiques, HLD. <i>4, 16</i>.<p><b>Étym</b>. Πύθιος, νίκη.`

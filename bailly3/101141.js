@@ -1,0 +1,1 @@
+lar[101141]=`<b>τυρο·ποιός, οῦ (ὁ)</b> <font color="purple">[ῡ]</font> qui fait des fromages, GAL. <i>4, 632</i> ; JOS. <i>B.J. 5, 4, 1</i>.<p><b>Étym</b>. τυρός, ποιέω.`

@@ -1,0 +1,1 @@
+lar[103439]=`<b>ὑπο·κύω</b> (<i>seul. part. ao. moy. fém</i>. ὑποκυσαμένη) féconder, <i>d’où au moy</i>. devenir <i>ou</i> être grosse, IL. <i>6, 26</i> ; OD. <i>11, 254</i> ; HÉS. <i>Th. 308 ; en parl. d’animaux,</i> devenir <i>ou</i> être pleine, IL. <i>20, 225</i>.`

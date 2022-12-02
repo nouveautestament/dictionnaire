@@ -1,0 +1,1 @@
+lar[59508]=`<i>préf. augmentatif ; v</i>. λαισποδίας.<p><b>Étym</b>. <i>cf</i>. λα-.`

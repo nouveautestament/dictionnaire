@@ -1,0 +1,1 @@
+lar[102133]=`<b>ὑπ·εκ·προ·θρῴσκω</b> (<i>part. ao.2</i> ὑπεκπροθορών) s’élancer en avant du fond de, <i>gén</i>. OPP. <i>C. 4, 160</i>.`

@@ -1,0 +1,1 @@
+lar[109442]=`<b>χωρ·ηγητήρ, ῆρος (ὁ)</b> chef <i>ou</i> maître d’un pays, SIB. <i>7, p. 355</i>.`

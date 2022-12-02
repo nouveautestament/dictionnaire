@@ -1,0 +1,1 @@
+lar[57972]=`<i>vb. de</i> κρίνω, PLAT. <i>Gorg. 523e, etc. ; plur</i>. κριτέα, <i>m. sign</i>. HPC. <i>5, 54, etc</i>.`

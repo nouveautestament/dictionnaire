@@ -1,0 +1,1 @@
+lar[63869]=`<b>ας (ἡ)</b> <font color="purple">[λᾰ]</font><br><b>      1</b> noirceur, ARSTT. <i>Phys. 8, 8, 29</i>.<br><b>      2</b> <i>au plur</i>. taches noires, XÉN. <i>An. 1, 8, 8</i> ; POL. <i>1, 81, 7</i>.<p><b>Étym</b>. μέλας.`

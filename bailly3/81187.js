@@ -1,0 +1,1 @@
+lar[81187]=`<b>πνευματοποιέω-ῶ</b> <font color="purple">[ᾰ]</font> changer en vapeur, vaporiser, ARSTT. <i>Probl. 24, 10</i>.<p><b>Étym</b>. πνευματοποιός.`

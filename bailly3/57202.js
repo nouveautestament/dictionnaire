@@ -1,0 +1,1 @@
+lar[57202]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> Koryphasion (<i>auj</i>. Akrotírio tou Zónklou <i>ou</i> Koryfásio Ákron) <i>cap près de Pylos, p. ext</i>. Pylos, THC. <i>4, 3 ; 5, 18</i> ; XÉN. <i>Hell. 1, 2, 18</i>.`

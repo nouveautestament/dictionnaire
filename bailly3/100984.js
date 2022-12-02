@@ -1,0 +1,1 @@
+lar[100984]=`<b>άδος (ἡ)</b> <font color="purple">[ῠᾰδ]</font> sorte de grive, ATH. <i>65a</i>.`

@@ -1,0 +1,1 @@
+lar[25387]=`<b>εως (ἡ) :<br>      1</b> déploiement, GAL. <i>2, 196</i>.<br><b>      2</b> explication, CLÉM. <i>806</i>.<p><b>Étym</b>. διαπτύσσω.`

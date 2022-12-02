@@ -1,0 +1,1 @@
+lar[73074]=`<b>ὀρτυγο·θήρας, ου (ὁ)</b> <font color="purple">[ῠ]</font> chasseur de cailles, PLAT. <i>Euthyd. 290d</i>.<p><b>Étym</b>. ὄρτυξ, θηράω.`

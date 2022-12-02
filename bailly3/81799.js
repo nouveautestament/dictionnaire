@@ -1,0 +1,1 @@
+lar[81799]=`<b>Πολύ·γνωτος, ου (ὁ) :<br>      1</b> Polygnôtos (Polygnote) <i>peintre célèbre,</i> PLAT. <i>Ion 532c ;</i> ARSTT. <i>Pol. 8, 5 ; Poet. 2, 6, etc.</i><br><b>      2</b> Πολυγνώτου πύργος, la tour de Polygnôtos, <i>lieu entre Argos et Némée,</i> PLUT. <i>Arat. 6, 7</i>.<p><b>Étym</b>. <i>v</i>. πολύγνωτος.`

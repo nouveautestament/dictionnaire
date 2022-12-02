@@ -1,0 +1,1 @@
+lar[24932]=`<b>δια·λεπτολογέομαι-οῦμαι</b> (<i>seul. prés</i>.) discourir subtilement avec, <i>dat</i>. AR. <i>Nub. 1496</i>.`

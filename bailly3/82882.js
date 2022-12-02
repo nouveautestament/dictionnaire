@@ -1,0 +1,1 @@
+lar[82882]=`<b>πορφυρο·σχήμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ῠ]</font> vêtu de pourpre, POLYEN <i>4, 3, 24</i>.<p><b>Étym</b>. π. σχῆμα.`

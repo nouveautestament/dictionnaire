@@ -1,0 +1,1 @@
+lar[91975]=`<b>σποδο·ειδής, ής, ές</b>, de couleur cendrée, HPC. <i>1221b ;</i> ARSTT. <i>H.A. 8, 3, 2</i> ; SPT. <i>Gen. 30, 39 ; 31, 10, etc</i>.<p><b>Étym</b>. σποδός, εἶδος.`

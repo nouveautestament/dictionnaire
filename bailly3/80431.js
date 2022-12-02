@@ -1,0 +1,1 @@
+lar[80431]=`<b>ου</b>, <i>mieux que</i> <b>πισός, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> pois, <i>légume,</i> AR. <i>fr. 88 Dind.</i> ; TH. <i>H.P. 8, 1, 4</i> ; EUP. <i>2-1, 545 Meineke etc</i>.<p><b>Étym</b>. <i>cf</i>. πίσον <i>et lat</i>. pĭsum.`

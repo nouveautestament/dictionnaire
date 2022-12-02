@@ -1,0 +1,1 @@
+lar[62344]=`<b>άδος (ἡ)</b> <font color="purple">[ᾰδ]</font> <i>c</i>. Μαῖα, OD. <i>14, 435</i> ; HH. <i>Merc. 57, etc.</i> ; EUR. <i>Hel. 243, etc</i>.`

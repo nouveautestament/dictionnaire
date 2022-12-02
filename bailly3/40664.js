@@ -1,0 +1,1 @@
+lar[40664]=`<b>ης, ες</b>, semblable à de jeunes pousses, DIOSC. <i>1Proœm. p. 7</i>.<p>•<i> Sup</i>. ἐρνωδέστατος, GEOP. <i>10, 22, 5</i>.<p><b>Étym</b>. ἔρνος, -ωδης.`

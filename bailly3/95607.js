@@ -1,0 +1,1 @@
+lar[95607]=`<b>συν·επιγαυρόω-ῶ</b>, contribuer à inspirer de l’orgueil, PLUT. <i>M. 746d, 796a</i>.`

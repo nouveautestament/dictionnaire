@@ -1,0 +1,1 @@
+lar[36189]=`<b>οῦ (ὁ) :<br>      1</b> action de faire prêter serment, POL. <i>6, 21, 6</i>.<br><b>      2</b> <i>t. eccl</i>. exorcisme, NAZ. <i>Or. 40, t. 2, p. 397a</i>.<p><b>Étym</b>. ἐξορκίζω.`

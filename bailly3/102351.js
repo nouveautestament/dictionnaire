@@ -1,0 +1,1 @@
+lar[102351]=`<b>ὑπερ·βλαστής, ής, ές</b>, qui croît avec trop de force <i>ou</i> d’abondance, TH. <i>C.P. 1, 20, 6</i>.<p><b>Étym</b>. ὑ. βλαστάνω.`

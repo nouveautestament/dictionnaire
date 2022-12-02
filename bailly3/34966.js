@@ -1,0 +1,1 @@
+lar[34966]=`<b>ἐν·στερνίζω</b>, presser sur son sein, embrasser, <i>au moy</i>. CLÉM. <i>1, 301 Migne</i> ; CHRYS. <i>7, 296</i>.<p><b>Étym</b>. ἐν, στέρνον.`

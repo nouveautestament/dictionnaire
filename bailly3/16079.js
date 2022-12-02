@@ -1,0 +1,1 @@
+lar[16079]=`<b>ἄ·σπουδος, ος, ον :<br>      1</b> négligent, sans empressement, EUP. <i>234 Kock</i>.<br><b>      2</b> qu’on peut négliger, méprisable, NYSS.<p><b>Étym</b>. ἀ, σπουδή.`

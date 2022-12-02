@@ -1,0 +1,1 @@
+lar[1042]=`<b>ἀγχί·γαμος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui atteint l’âge de se marier, nubile, NONN. <i>D. 5, 572</i>.<p><b>Étym</b>. ἄ. γάμος.`

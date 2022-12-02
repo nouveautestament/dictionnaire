@@ -1,0 +1,1 @@
+lar[87641]=`<b>*πυκνό·στυλος, ος, ον</b> <font color="purple">[τῡ]</font> <i>seul. lat</i>. pycnostylos, à colonnes rapprochées, <i>t. d’archit</i>. VITR. <i>3, 3</i>.<p><b>Étym</b>. π. στῦλος.`

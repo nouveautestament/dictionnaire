@@ -1,0 +1,1 @@
+lar[99688]=`<b>ης (ἡ)</b> Torynè (<i>auj</i>. Párga) <i>v. d’Épire,</i> PLUT. <i>Ant. 62</i>.`

@@ -1,0 +1,1 @@
+lar[28029]=`<b>ου (τὸ)</b> rognure ; οὐδὲ δρύψελα, PARTH. (EM. <i>288, 58</i>) pas même des rognures, <i>càd</i>. rien.<p><b>Étym</b>. δρύπτω.`

@@ -1,0 +1,1 @@
+lar[4047]=`<b>ἀ·λάθητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> à qui l’on ne cache rien, ES. <i>32 de Furia</i>.<p><b>Étym</b>. ἀ, λανθάνω.`

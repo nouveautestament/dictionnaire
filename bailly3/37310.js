@@ -1,0 +1,1 @@
+lar[37310]=`<i>adv</i>., de façon à se poser sur, à s’adapter convenablement, CORN. <i>c. 15, p. 161</i>.<p><b>Étym</b>. ἐπιβάλλω.`

@@ -1,0 +1,1 @@
+lar[84774]=`<b>προ·νήχομαι</b>, nager en avant de, <i>gén</i>. PLUT. <i>M. 984a ; abs</i>. PLUT. <i>M. 980f</i>.`

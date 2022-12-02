@@ -1,0 +1,1 @@
+lar[20338]=`<b>ου (ὁ)</b> Boubarès, <i>Perse,</i> HDT. <i>5, 21, etc</i>.`

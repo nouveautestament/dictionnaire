@@ -1,0 +1,1 @@
+lar[103832]=`<b>ὑπο·σκέπτομαι :<br>      1</b> voir sous, ARAT. <i>96</i>.<br><b>      2</b> soupçonner, conjecturer, HPC. <i>Progn. 39, 44, etc</i>.`

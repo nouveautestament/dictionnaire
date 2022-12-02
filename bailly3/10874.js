@@ -1,0 +1,1 @@
+lar[10874]=`<b>ας (ἡ)</b> mouvement d’ascension, A. APHR. <i>Probl. 1, 92</i>.<p><b>Étym</b>. ἀνωφερής.`

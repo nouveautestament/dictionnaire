@@ -1,0 +1,1 @@
+lar[222]=`<b>ἄ·βυθος, ος, ον</b> <font color="purple">[ῠ]</font> sans fond, PLAT. <i>Parm. 130d</i>.<p><b>Étym</b>. ἀ, βυθός.`

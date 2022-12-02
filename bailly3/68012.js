@@ -1,0 +1,1 @@
+lar[68012]=`<i>adv</i>., comme il convient pour un mort, NAZ. <i>4, 306a Migne</i>.`

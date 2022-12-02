@@ -1,0 +1,1 @@
+lar[25393]=`<b>δι·άπτω</b> <font color="darkgreen">(<i>ao. pass. inf</i>. διαφθῆναι)</font> allumer, PHALAR. <i>Ep. 68, p. 208 Valckenaer</i>.`

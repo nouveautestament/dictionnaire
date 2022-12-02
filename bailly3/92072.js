@@ -1,0 +1,1 @@
+lar[92072]=`<b>σταδιο·δρόμος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui court dans le stade, qui dispute le prix de la course, PD. <i>O. 13, titre</i> ; PLAT. <i>Leg. 833a ;</i> ESCHN. <i>22, 30, etc</i>.<p><b>Étym</b>. στάδιον, δραμεῖν.`

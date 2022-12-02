@@ -1,0 +1,1 @@
+lar[75249]=`<b>παντο·θαλής, ής, ές</b> <font color="purple">[ᾰλ]</font> qui pousse <i>ou</i> fleurit tout à fait <i>ou</i> de toutes parts, ORPH. <i>H. 33, 16</i>.<p><b>Étym</b>. π. θάλλω.`

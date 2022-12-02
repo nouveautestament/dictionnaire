@@ -1,0 +1,1 @@
+lar[95322]=`<b>συν·εισπράσσω</b>, <i>att</i>. <b>-άττω</b>, aider qqn à exiger d’un autre (<i>acc</i>.) le paiement d’une dette, DÉM. <i>1205, 9 ; fig</i>. aider qqn à, σ. τιμωρίας παρά τινος, DH. <i>10, 11,</i> aider qqn à se venger de qqn <i>ou</i> à punir qqn.`

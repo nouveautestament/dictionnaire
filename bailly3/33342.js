@@ -1,0 +1,1 @@
+lar[33342]=`<b>ἐμ·παρρησιάζομαι</b>, parler avec une entière franchise à <i>ou</i> devant, <i>dat</i>. POL. <i>38, 4, 7</i> ; JOS. <i>A.J. 15, 8, 4</i>.<p><b>Étym</b>. ἐν, παρρησία.`

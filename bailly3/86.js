@@ -1,0 +1,1 @@
+lar[86]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> sotte action <i>ou</i> sot propos, ANAXANDR. <i>12 Kock</i>.`

@@ -1,0 +1,1 @@
+lar[25432]=`<b>δι·αριστεύομαι</b> <font color="purple">[ᾰ]</font> <font color="darkgreen">(<i>impf. 3 sg</i>. διηριστεύετο)</font> disputer la prééminence : πρός τινα, LGN <i>13, 4,</i> à qqn.`

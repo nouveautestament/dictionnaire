@@ -1,0 +1,1 @@
+lar[69506]=`<b>ας (ἡ)</b> expression étrange, étrangeté de langage, RHÉT. <i>8, 778 W</i>.<p><b>Étym</b>. <i>cf</i>. ξενοφωνέω.`

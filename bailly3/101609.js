@@ -1,0 +1,1 @@
+lar[101609]=`<b>ή, όν</b>, hydropique, HPC. <i>Aph. 1246</i> ; ARSTT. <i>Probl. 3, 5, 7</i> ; POL. <i>13, 2, 6 ; fig</i>. ANTH. <i>11, 332</i> ; τὸ ὑδρωπικόν, LGN <i>3, 4,</i> hydropisie.<p><b>Étym</b>. ὕδρωψ.`

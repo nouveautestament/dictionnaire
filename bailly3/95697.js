@@ -1,0 +1,1 @@
+lar[95697]=`<b>συν·επιτροπεύω</b>, prendre soin ensemble <i>ou</i> en même temps. OLYMPIOD. <i>Plat. 1 Alc. p. 60</i>.`

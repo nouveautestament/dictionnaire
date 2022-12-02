@@ -1,0 +1,1 @@
+lar[97500]=`<b>ή, όν</b> <font color="purple">[τᾰ]</font> de Tanagra, HDT. <i>5, 57</i> ; PLUT. <i>Qu. gr. 37</i> ; LUC. <i>Gall. 4, etc.</i> ; SOPHIL. (ATH. <i>640d</i>).<p><b>Étym</b>. Τάναγρα.`

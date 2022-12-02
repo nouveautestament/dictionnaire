@@ -1,0 +1,1 @@
+lar[23597]=`<b>(ἡ)</b> Deipnias, <i>lieu de Thessalie,</i> CALL. <i>fr. 32</i>.`

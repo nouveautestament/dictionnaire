@@ -1,0 +1,1 @@
+lar[66485]=`<font color="purple">[ᾰ]</font> <i>adv</i>., seulement, PLAT. <i>Conv. 184e, 212a ;</i> TH. <i>H.P. 9, 10, 2</i>.<p><b>Étym</b>. μοναχός.`

@@ -1,0 +1,1 @@
+lar[33605]=`<b>ας (ἡ)</b> spasme qui fait raidir le corps en avant, C. AUR. <i>M. ac. 3, 6</i>.<p><b>Étym</b>. ἐμπροσθότονος.`

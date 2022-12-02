@@ -1,0 +1,1 @@
+lar[7689]=`<b>ἀνα·στηλόω-ῶ</b>, élever sur une colonne, <i>acc</i>. LYC. <i>883</i> ; PLUT. <i>M. 1033e</i>.`

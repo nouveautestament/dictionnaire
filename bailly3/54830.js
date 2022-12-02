@@ -1,0 +1,1 @@
+lar[54830]=`<b>ος, ον</b>, orné de cornes (autel) (<i>cf</i>. κεροῦχος) ANTH. <i>6, 10</i>.`

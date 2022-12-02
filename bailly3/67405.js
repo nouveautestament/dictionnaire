@@ -1,0 +1,1 @@
+lar[67405]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> prostituée, ARCHIL. <i>184</i>.<p><b>Étym</b>. μυσάττομαι.`

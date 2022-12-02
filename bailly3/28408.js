@@ -1,0 +1,1 @@
+lar[28408]=`<b>δυσ·εξημέρωτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à apprivoiser, PLUT. <i>Artax. 25</i>.<p><b>Étym</b>. δ. ἐξημερόω.`

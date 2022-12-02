@@ -1,0 +1,1 @@
+lar[108680]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petit cochon, AR. <i>Ach. 806, etc.</i> ; PLAT. <i>Euthyd. 298d ;</i> PLUT. <i>Phoc. 28, etc</i>.<p><b>Étym</b>. <i>dim. de</i> χοῖρος.`

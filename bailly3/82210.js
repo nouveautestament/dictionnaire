@@ -1,0 +1,1 @@
+lar[82210]=`<b>ας (ἡ) :<br>      1</b> abondance de mets, XÉN. <i>Mem. 3, 14, 3</i>.<br><b>      2</b> gourmandise, friandise, PLUT. <i>M. 662a</i>.<p><b>Étym</b>. πολύοψος.`

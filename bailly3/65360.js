@@ -1,0 +1,1 @@
+lar[65360]=`<b>(ὁ)</b> Mèlès, <i>roi de Lydie,</i> HDT. <i>1, 84</i>.`

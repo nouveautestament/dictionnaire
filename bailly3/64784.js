@@ -1,0 +1,1 @@
+lar[64784]=`<b>μετα·κυμία, ας</b> <font color="purple">[ῡ]</font> espace entre les vagues, NUMÉN. (EUS. <i>3, 905 Migne).</i><p><b>Étym</b>. <i>cf</i>. μετακύμιος.`

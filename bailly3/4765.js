@@ -1,0 +1,1 @@
+lar[4765]=`<i>adv</i>., d’autre sorte, NYSS. <i>1, 862</i>.<p><b>Étym</b>. ἀλλογενής.`

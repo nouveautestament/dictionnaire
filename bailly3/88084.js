@@ -1,0 +1,1 @@
+lar[88084]=`<b>ας (ἡ)</b> dressage des jeunes chevaux, XÉN. <i>Eq. 2, 2</i> ; STR. <i>212</i>.<p><b>Étym</b>. πῶλος.`

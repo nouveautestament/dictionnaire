@@ -1,0 +1,1 @@
+lar[69689]=`<b>ξυλο·φανής, ής, ές</b> <font color="purple">[ῠᾰ]</font> qui ressemble à du bois, DS. <i>20, 96</i>.<p><b>Étym</b>. ξ. φαίνω.`

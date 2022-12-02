@@ -1,0 +1,1 @@
+lar[44743]=`<b>ας (ἡ)</b> action <i>ou</i> propriété de produire des êtres vivants, PLAT. <i>Epin. 980c</i>.`

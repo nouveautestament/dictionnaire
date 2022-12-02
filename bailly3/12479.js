@@ -1,0 +1,1 @@
+lar[12479]=`<b>ἀπο·καθαρίζω</b> <font color="purple">[κᾰᾰ]</font> <i>c</i>. ἀποκαθαίρω SPT. <i>Tob. 12:9 (fut. 3 sg</i>. -ιεῖ<i>) ; Job 25:4</i> (<i>ao. inf</i>. -ίσαι).`

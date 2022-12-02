@@ -1,0 +1,1 @@
+lar[28733]=`<b>δυσ·ορεξία, ας (ἡ)</b> <font color="purple">[ῠ]</font> inappétence, GAL. <i>7, 128</i>.<p><b>Étym</b>. δ. ὀρέγομαι.`

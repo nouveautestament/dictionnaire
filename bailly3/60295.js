@@ -1,0 +1,1 @@
+lar[60295]=`<b>ου (ὁ) :<br>      1</b> morve épaisse, LIB. <i>615</i>.<br><b>      2</b> homme morveux, MÉN. (<i>Com. fr. 4, 215</i>).`

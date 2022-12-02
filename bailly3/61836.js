@@ -1,0 +1,1 @@
+lar[61836]=`<b>ίδος</b> <font color="purple">[ῠῐδ]</font> <i>adj. f</i>. de Lykambès : αἱ Λυκαμβίδες, ANTH. <i>7, 352,</i> les filles de Lykambès.<p><b>Étym</b>. Λυκάμβης.`

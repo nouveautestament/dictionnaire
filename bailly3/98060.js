@@ -1,0 +1,1 @@
+lar[98060]=`<b>ας (ἡ)</b> procréation, enfantement, ARSTT. <i>H.A. 7, 1, 18</i> ; NT. <i>1Tim. 2, 15</i>.<p><b>Étym</b>. τεκνογόνος.`

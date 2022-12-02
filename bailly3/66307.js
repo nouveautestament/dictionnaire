@@ -1,0 +1,1 @@
+lar[66307]=`<b>μοιρο·γραφία, ας (ἡ)</b> <font color="purple">[ᾰφ]</font> description des parties, PTOL. <i>Tetr. 47</i>.<p><b>Étym</b>. μοῖρα, γράφω.`

@@ -1,0 +1,1 @@
+lar[25574]=`<b>ή, όν</b> <font color="purple">[πᾰ]</font> mis en lambeaux, déchiré, EUR. <i>Bacch. 1220</i> ; EL. <i>N.A. 12, 7</i>.<p><b>Étym</b>. <i>vb. de</i> διασπαράσσω.`

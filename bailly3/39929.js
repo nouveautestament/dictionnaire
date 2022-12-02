@@ -1,0 +1,1 @@
+lar[39929]=`<b>ἐπ·οψίδιος, ος, ον</b> <font color="purple">[ῐδ]</font> qu’on mange avec le pain, ANTH. <i>7, 386, 736</i>.<p><b>Étym</b>. ἐπί, ὄψον.`

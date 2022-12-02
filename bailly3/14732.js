@@ -1,0 +1,1 @@
+lar[14732]=`<b>Ἀριστο·νίκη, ης (ἡ)</b> <font color="purple">[ᾰνῑ]</font> Aristonikè :<br><b>      1</b> <i>prêtresse de Delphes,</i> HDT. <i>7, 140</i>.<br><b>      2</b> <i>autre,</i> PLUT. <i>Amat. 9</i>.<p>➳ <i>Dor</i>. -νίκα, PLUT. <i>l. c</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀριστόνικος.`

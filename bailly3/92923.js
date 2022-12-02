@@ -1,0 +1,1 @@
+lar[92923]=`<b>ής, ές</b>, aigu, perçant, <i>en parl. du bruit : adv</i>. στρηνές, A.RH. <i>2, 323</i> ; ANTH. <i>6, 350,</i> avec un bruit aigu <i>ou</i> perçant.<p><b>Étym</b>. <i>cf. lat</i>. strenuus.`

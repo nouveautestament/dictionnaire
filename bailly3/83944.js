@@ -1,0 +1,1 @@
+lar[83944]=`<b>προ·διασείω</b>, ébranler auparavant, DAMASC. <i>Princ. p. 75</i>.`

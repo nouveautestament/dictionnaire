@@ -1,0 +1,1 @@
+lar[88767]=`<b>ου (ὁ)</b> petit gland en forme de grenade au bas de la robe du grand-prêtre des Juifs, LYCON (DL. <i>5, 72</i>) ; SPT. <i>Ex. 28, 29</i> ; JOS. <i>A.J. 3, 7, 4, etc</i>.<p><b>Étym</b>. ῥοιά.`

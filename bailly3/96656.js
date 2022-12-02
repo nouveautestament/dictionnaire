@@ -1,0 +1,1 @@
+lar[96656]=`<b>συσ·σωρεύω</b>, réunir en un tas, amonceler, DS. <i>3, 40</i> ; ATH. <i>333b ;</i> JOS. <i>B.J. 5, 13, 7</i>.`

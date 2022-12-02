@@ -1,0 +1,1 @@
+lar[66308]=`<b>μοιρο·δοκέω-ῶ</b>, recevoir une part de, prendre part à, ANT. (HARP.).<p><b>Étym</b>. μοῖρα, -δοκος <i>de</i> δέχομαι.`

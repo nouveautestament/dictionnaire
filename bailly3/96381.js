@@ -1,0 +1,1 @@
+lar[96381]=`<i>ion</i>. <b>ξυντρόφως</b>, <i>adv.</i> : ξ. ἔχειν τινί, HPC. <i>Fract. 773,</i> être naturel à qqn.<p><b>Étym</b>. σύντροφος.`

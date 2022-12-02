@@ -1,0 +1,1 @@
+lar[9361]=`<b>ἀν·οφθαλμίατος, ος, ον</b> <font color="purple">[ᾱτ]</font> non atteint d’ophthalmie, DIOSC. <i>Par. 1, 35</i>.<p><b>Étym</b>. ἀν-, ὀφθαλμιάω.`

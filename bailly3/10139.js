@@ -1,0 +1,1 @@
+lar[10139]=`<b>ἀντιόομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. ώσομαι, <i>ao</i>. ἠντιώθην, <i>pf. inus</i>.)</font> marcher à la rencontre de, résister à, <i>dat</i>. HDT. <i>1, 76, etc.</i> ; ESCHL. <i>Ch. 389 ; acc</i>. HDT. <i>9, 7</i>.<p>➳ <i>Ao. ion</i>. ἀντιώθην, HDT. <i>4, 126, etc. Les Att. emploient plutôt</i> ἐναντιόομαι.`

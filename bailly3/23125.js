@@ -1,0 +1,1 @@
+lar[23125]=`<b>δαμασί·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰᾰῑ̆]</font> qui dompte la fierté (des coursiers), PD. <i>O. 13, 75</i>.<p><b>Étym</b>. δαμάζω, φρήν.`

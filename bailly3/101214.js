@@ -1,0 +1,1 @@
+lar[101214]=`<b>α, ον</b> <font color="purple">[ῠ]</font> fortuit, accidentel, PLUT. <i>Num. 10, M. 878c ;</i> τὰ τυχαῖα, SYN. <i>166b</i>, les hasards.<p><b>Étym</b>. τύχη.`

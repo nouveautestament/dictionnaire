@@ -1,0 +1,1 @@
+lar[53670]=`<b>ου (ὁ)</b> bandage en forme de plastron, GAL. <i>12, 492, etc</i>.<p><b>Étym</b>. καταφράσσω.`

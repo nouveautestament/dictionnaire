@@ -1,0 +1,1 @@
+lar[91037]=`<b>σκληρο·παίκτης, ου (ὁ)</b> sorte de jongleur <i>ou</i> de prestidigitateur, HIPPOLOCH. (ATH. <i>129d</i>).<p><b>Étym</b>. σκλ. παίζω.`

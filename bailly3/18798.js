@@ -1,0 +1,1 @@
+lar[18798]=`<b>βαθύ·ρρηνος, ος, ον</b> <font color="purple">[ᾰ]</font> à la laine épaisse.<p><b>Étym</b>. β. ῥήν.`

@@ -1,0 +1,1 @@
+lar[53031]=`<b>ος, ον</b>, envoyé d’un lieu, ATTIC. (EUS. <i>P.E. p. 510a</i>).<p><b>Étym</b>. καταπέμπω.`

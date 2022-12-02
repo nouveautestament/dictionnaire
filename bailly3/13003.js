@@ -1,0 +1,1 @@
+lar[13003]=`<b>ἀπο·ξυλόομαι-οῦμαι</b> <font color="purple">[ῠ]</font> devenir dur comme du bois, GEOP. <i>17, 2, 1, etc</i>.`

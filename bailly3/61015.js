@@ -1,0 +1,1 @@
+lar[61015]=`<b>ου (τὸ)</b> <font color="purple">[ῐᾰῐδ]</font> <i>dim. de</i> λιθάριον A. TR. <i>3, p. 61</i>.`

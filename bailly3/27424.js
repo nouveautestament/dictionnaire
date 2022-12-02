@@ -1,0 +1,1 @@
+lar[27424]=`<b>δολιχ·αύχην</b>, <i>gén</i>. <b>ενος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> au long cou, EUR. <i>Hel. 1503, I.A. 794</i>.<p><b>Étym</b>. δολιχός, αὐχήν.`

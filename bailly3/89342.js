@@ -1,0 +1,1 @@
+lar[89342]=`<b>ων (οἱ)</b> <font color="purple">[ᾰ]</font> les Sapeires, <i>pple entre la Colchide et la Médie,</i> A.RH. <i>3, 395, etc.</i> ; ORPH. <i>Arg. 758</i>.`

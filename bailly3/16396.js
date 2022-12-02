@@ -1,0 +1,1 @@
+lar[16396]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> petite ville, bourgade, CALL. <i>fr. 19</i> ; NIC. <i>Al. 15</i>.<p><b>Étym</b>. ἄστυ.`

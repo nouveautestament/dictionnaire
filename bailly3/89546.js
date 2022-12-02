@@ -1,0 +1,1 @@
+lar[89546]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰῠ]</font> Satyriôn, <i>h</i>. LUC. <i>Conv. 19</i>.<p><b>Étym</b>. Σάτυρος.`

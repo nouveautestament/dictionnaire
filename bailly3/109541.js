@@ -1,0 +1,1 @@
+lar[109541]=`<b>ου (ὁ)</b> joueur d’un instrument à cordes, <i>particul</i>. joueur de lyre, MACH. (ATH. <i>348f</i>) ; PLUT. <i>M. 67f, 179b, 220a, 223f, 224a, Pomp. 36</i> ; ANTH. <i>9, 525</i>.<p><b>Étym</b>. ψάλλω.`

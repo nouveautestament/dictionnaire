@@ -1,0 +1,1 @@
+lar[26278]=`<b>δι·ερπύζω</b>, ramper <i>ou</i> se traîner à travers, <i>acc</i>. OPP. <i>H. 2, 261</i> ; HLD. <i>6, 1 ; gén</i>. NONN. <i>D. 48, 336</i>.`

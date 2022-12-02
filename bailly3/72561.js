@@ -1,0 +1,1 @@
+lar[72561]=`<b>ονος</b> <font color="purple">[ῑ]</font> HH. <i>Ap. 389, ou</i> <b>ωνος</b>, HERMÉSIAN. (ATH. <i>597d</i>) (ὁ) <font color="purple">[ῑ]</font> prêtre.<p><b>Étym</b>. ὄργιον.`

@@ -1,0 +1,1 @@
+lar[24414]=`<b>εως (ἡ) :<br>      1</b> affirmation énergique, BAS. <i>3, 343</i>.<br><b>      2</b> affirmation, <i>fig. de rhét</i>. HDN RH. <i>Schem. 597, 16</i>.<p><b>Étym</b>. διαβεβαιόομαι.`

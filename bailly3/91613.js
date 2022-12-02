@@ -1,0 +1,1 @@
+lar[91613]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> = <i>lat</i>. sudārium, suaire, NT. <i>Luc. 19, 20 ; Joh. 11, 44</i>.<p>➳ <font color="purple">[ᾱ]</font> NONN. <i>Jo. 11, 173 ; dor</i>. σωδάριον, HERMIPP. (<i>Com. fr. 2, 416</i>).`

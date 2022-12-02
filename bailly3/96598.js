@@ -1,0 +1,1 @@
+lar[96598]=`<b>ας (ἡ)</b> compagne de tente, compagne, AR. <i>Th. 624</i>.<p><b>Étym</b>. συσκηνέω.`

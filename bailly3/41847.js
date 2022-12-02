@@ -1,0 +1,1 @@
+lar[41847]=`<b>εὐ·διάβατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> facile à traverser, XÉN. <i>Hell. 4, 2, 6</i> ; PLUT. <i>M. 1117d</i>.<p><b>Étym</b>. εὖ, διαβαίνω.`

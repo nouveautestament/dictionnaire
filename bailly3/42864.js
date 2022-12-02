@@ -1,0 +1,1 @@
+lar[42864]=`<b>εὐ·όνειρος, ος, ον :<br>      1</b> <i>pass</i>. qui fait des rêves agréables, STR. <i>761</i>.<br><b>      2</b> <i>act</i>. qui procure des rêves agréables, HLD. <i>3, 5</i> ; τὰ εὐόνειρα, PLUT. <i>M. 83d</i>, rêves agréable.<p><b>Étym</b>. εὖ, ὄνειρος.`

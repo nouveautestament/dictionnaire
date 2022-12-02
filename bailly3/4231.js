@@ -1,0 +1,1 @@
+lar[4231]=`<b>(ὁ)</b> Alexandridas, <i>Spartiate,</i> PLUT. <i>Apophth. lac. v°</i> Ἀλεξανδρίδας.<p><b>Étym</b>. <i>dor. c</i>. Ἀλεξανδρίδης.`

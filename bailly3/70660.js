@@ -1,0 +1,1 @@
+lar[70660]=`<b>οἰό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, aux sentiments solitaires, <i>càd</i>. solitaire, sauvage, ESCHL. <i>Suppl. 795 dout</i>.<p><b>Étym</b>. οἶος, φρήν.`

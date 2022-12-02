@@ -1,0 +1,1 @@
+lar[9553]=`<b>ἀντ·εισάγω :<br>      1</b> introduire à la place d’un autre, substituer, PLAT. <i>Ax. 369e ;</i> DÉM. <i>121, 6</i>.<br><b>      2</b> amener tour à tour en fonction, PLUT. <i>Cæs. 14</i>.`

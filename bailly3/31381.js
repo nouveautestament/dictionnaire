@@ -1,0 +1,1 @@
+lar[31381]=`<b>ἐκ·κακέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> perdre courage, céder au découragement, NT. <i>Luc. 18, 1 ; Eph. 3, 13 (var. de</i> ἐγκακέω).<br><b>      2</b> <i>p. suite,</i> agir mollement, mettre peu d’empressement à faire qqe ch. POL. <i>4, 19, 10</i>.<p><b>Étym</b>. ἐκ, κακός.`

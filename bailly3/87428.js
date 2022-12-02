@@ -1,0 +1,1 @@
+lar[87428]=`<i>ou</i> <b>πτύελον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> salive, HPC. <i>Aph. 1243, etc.</i> ; ARSTT. <i>H.A. 8, 29, 4, etc</i>.<p><b>Étym</b>. πτύον.`

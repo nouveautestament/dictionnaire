@@ -1,0 +1,1 @@
+lar[25232]=`<i>adv</i>., avec un travail achevé, ISOCR. <i>419b</i>.<p><b>Étym</b>. διαπονέω.`

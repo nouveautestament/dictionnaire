@@ -1,0 +1,1 @@
+lar[65465]=`<b>ων (οἱ)</b> maîtres de quartier, ANON. BYZ. <i>82, 26, 2</i>.<p><b>Étym</b>. <i>lat</i>. mensores.`

@@ -1,0 +1,1 @@
+lar[102382]=`<b>ὑπερ·δείδω</b> (<i>pf</i>. ὑπερδέδοικα) :<br><b>      1</b> avoir une peur extrême, HDT. <i>8, 94</i> ; τινά, THÉM. <i>138c</i>, de qqn.<br><b>      2</b> craindre pour : τινός, SOPH. <i>Ant. 82,</i> pour qqn ; τινά τινος, ESCHL. <i>Sept. 292,</i> qqn pour qqn.`

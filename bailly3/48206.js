@@ -1,0 +1,1 @@
+lar[48206]=`<b>ή, όν</b>, lancé, jeté, envoyé, ESCHL. <i>Ch. 22</i>.<p><b>Étym</b>. <i>vb. de</i> ἰάλλω.`

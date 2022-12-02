@@ -1,0 +1,1 @@
+lar[79617]=`<b>ου (ἡ)</b> mouvement circulaire, révolution d’un astre, LUC. <i>Astr. 5</i>.<p><b>Étym</b>. περιφέρω.`

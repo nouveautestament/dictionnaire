@@ -1,0 +1,1 @@
+lar[95167]=`<b>συν·διατυπόω-ῶ</b> <font color="purple">[τῠ]</font> façonner en même temps, STOB. <i>Fl. App. 10, 3</i>.`

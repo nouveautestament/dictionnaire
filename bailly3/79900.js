@@ -1,0 +1,1 @@
+lar[79900]=`<b>πετρο·βόλος, ος, ον</b>, qui lance des pierres, XÉN. <i>Hell. 2, 4, 12 ; subst</i>. ὁ πετροβόλος (<i>s.-e</i>. καταπέλτης) SPT. <i>Job 41, 19</i> ; POL. <i>1, 53, 11 ; 5, 4, 6, etc.</i> ; DS. <i>2, 27, etc., ou</i> τὸ πετροβόλον, JOS. <i>A.J. 9, 10, 3,</i> machine à lancer des pierres, pierrier, baliste.<p><b>Étym</b>. πέτρος, βάλλω.`

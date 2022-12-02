@@ -1,0 +1,1 @@
+lar[12044]=`<b>ος, ον</b>, vêtu d’un simple pardessus, <i>fig. c</i>. ἁπλοῦς, simple, naïf, EUP. (SUID.).<p><b>Étym</b>. ἁπληγίς.`

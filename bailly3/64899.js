@@ -1,0 +1,1 @@
+lar[64899]=`<b>μετα·πήγνυμαι :<br>      1</b> fixer en un autre endroit, D. CHR. <i>2, 387</i>.<br><b>      2</b> convertir en une chose solide : εἰς σάρκα, BAS. <i>1, 320 Migne,</i> en chair.`

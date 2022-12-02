@@ -1,0 +1,1 @@
+lar[9437]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰμ]</font> <i>c</i>. ἀντάμειψις, CHRYS. <i>3, 357</i>.`

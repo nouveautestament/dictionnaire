@@ -1,0 +1,1 @@
+lar[53625]=`<b>ή, όν</b> <font color="purple">[φᾰ]</font><br><b>      1</b> affirmatif, PLUT. <i>M. 1047d.</i><br><b>      2</b> emphatique, DYSC. <i>Pron. 322a</i>.<p><b>Étym</b>. κατάφημι.`

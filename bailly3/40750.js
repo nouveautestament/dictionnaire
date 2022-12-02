@@ -1,0 +1,1 @@
+lar[40750]=`<font color="purple">[ῠ]</font> <i>c</i>. ἐρεύγομαι, SOR. <i>Obst. 1, 166 Erm</i>.`

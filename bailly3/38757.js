@@ -1,0 +1,1 @@
+lar[38757]=`<b>ἐπί·ποκος, ος, ον</b>, recouvert d’une toison, SPT. <i>4Reg. 3, 4</i>.`

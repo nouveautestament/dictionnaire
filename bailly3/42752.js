@@ -1,0 +1,1 @@
+lar[42752]=`<b>Εὔ·νεως, ω (ὁ)</b> Euneôs, <i>fils de Jason et d’Hypsipylè,</i> PLUT. <i>Thes. 26</i>.<p>➳ <i>Épq</i>. Εὔνηος, IL. <i>16, 468 ; 23, 747</i>.<p><b>Étym</b>. <i>cf</i>. εὔνεως.`

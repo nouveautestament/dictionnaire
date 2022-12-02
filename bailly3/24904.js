@@ -1,0 +1,1 @@
+lar[24904]=`<b>δια·λακέω-ῶ</b> <font color="purple">[ᾱκ]</font> (<i>seul. part. ao</i>. -ήσαντα) craquer, éclater, AR. <i>Nub. 410</i>.`

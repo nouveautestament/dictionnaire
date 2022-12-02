@@ -1,0 +1,1 @@
+lar[27443]=`<b>δολιχό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, aux profondes pensées, EMPÉD. (PLUT. <i>M. 1113c</i>).<p><b>Étym</b>. δολιχός, φρήν.`

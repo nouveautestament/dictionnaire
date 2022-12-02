@@ -1,0 +1,1 @@
+lar[18718]=`<b>ας (ἡ)</b> Batheia, <i>litt</i>. profonde, enfoncée,<br><b>      1</b> <i>n. d’une rue de Tarente,</i> POL.<br><b>      2</b> <i>v. de Lusitanie (lat</i>. Badia) PLUT.<p><b>Étym</b>. <i>fém. de</i> βαθύς.`

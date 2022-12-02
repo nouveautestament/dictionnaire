@@ -1,0 +1,1 @@
+lar[36417]=`<b>ιδος</b>, <i>adj. f</i>. qui loue, THÉM. <i>267, 29 G. Dind</i>.<p><b>Étym</b>. <i>fém. de</i> ἐπαινέτης.`

@@ -1,0 +1,1 @@
+lar[30663]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière élémentaire, ORIG. <i>1, 549a Migne</i>.`

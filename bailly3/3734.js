@@ -1,0 +1,1 @@
+lar[3734]=`<b>ου (τὸ)</b> <font color="purple">[ᾱτ]</font><br><b>      1</b> salle d’audition, PLUT. <i>M. 45f ; particul</i>. salle d’audience d’un tribunal, NT. <i>Ap. 25, 23</i>.<br><b>      2</b> auditoire, PLUT. <i>Cato ma. 22</i>.<p><b>Étym</b>. ἀκροάομαι.`

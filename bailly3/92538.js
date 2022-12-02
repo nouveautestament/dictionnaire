@@ -1,0 +1,1 @@
+lar[92538]=`<b>στηλο·κόπας, ου (ὁ)</b> <font color="purple">[ᾰ]</font> <i>litt</i>. « le fureteur de colonnes », <i>surn. de Polémon qui collectionnait les inscriptions sur les colonnes et monuments publics,</i> ATH. <i>234d</i>.<p><b>Étym</b>. στήλη, κόπτω.`

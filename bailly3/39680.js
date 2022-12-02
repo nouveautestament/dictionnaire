@@ -1,0 +1,1 @@
+lar[39680]=`<b>εως (ἡ) :<br>      1</b> action d’entreprendre qqe ch., entreprise, THC. <i>1, 70</i> ; PLAT. <i>1 Alc. 115b ; particul</i>. entreprise militaire, attaque, HDT. <i>1, 11</i> ; THC. <i>2, 11, etc.</i><br><b>      2</b> argumentation, ARSTT. <i>Top. 2, 4, 6 ; 6, 3, 1 ; cf</i>. POL. <i>12, 8, 4</i> ; DH. <i>Amm. 1, 8</i>.<p><b>Étym</b>. ἐπιχειρέω.`

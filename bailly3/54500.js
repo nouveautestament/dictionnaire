@@ -1,0 +1,1 @@
+lar[54500]=`(<i>seul. prés</i>.) :<br><b>      1</b> avoir envie de se coucher, de dormir, IL. <i>14, 340</i> ; OD. <i>19, 340, etc.</i><br><b>      2</b> se coucher, dormir, ARAT. <i>1009</i>.<p>➳ <i>Inf. épq</i>. κειέμεν, OD. <i>8, 315</i>.<p><b>Étym</b>. <i>désidér. de</i> κεῖμαι.`

@@ -1,0 +1,1 @@
+lar[86650]=`<b>προσ·χαρίζομαι</b> <font color="purple">[ᾰ]</font> complaire à : τινι, XÉN. <i>Œc. 3, 9,</i> à qqn <i>ou</i> à qqe ch. ; τινί τι, STR. <i>329</i> ; LUC. <i>D. mer. 9, 5,</i> à qqn en qqe ch.`

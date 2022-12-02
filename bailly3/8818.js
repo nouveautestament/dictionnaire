@@ -1,0 +1,1 @@
+lar[8818]=`<b>ης (ἡ)</b> aigrette cotonneuse <i>ou</i> chevelure de certaines plantes, TH. <i>H.P. 4, 10, 4</i> ; DIOSC. <i>1, 114</i>.`

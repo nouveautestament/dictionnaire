@@ -1,0 +1,1 @@
+lar[64891]=`<b>μετα·πειστός, ός, όν</b>, qu’on peut détourner par la persuasion, PLAT. <i>Def. 414c, Tim. 51e</i>.<p><b>Étym</b>. <i>vb. de</i> μεταπείθω.`

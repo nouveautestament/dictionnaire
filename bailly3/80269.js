@@ -1,0 +1,1 @@
+lar[80269]=`<b>      1</b> rendre amer, EPICT. <i>fr. 12</i> ; SEXT. <i>47, 21 Bkk. etc.</i><br><b>      2</b> déplaire par son amertume, EPICT. (STOB. <i>31, 28</i>) ; SEXT. <i>P. 1, 211 ; au pass</i>. avoir un goût amer, SEXT. <i>P. 2, 51</i>.`

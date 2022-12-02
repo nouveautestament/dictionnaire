@@ -1,0 +1,1 @@
+lar[57986]=`<b>ή, όν :<br>      1</b> trié, choisi, IL. <i>7, 434</i> ; OD. <i>8, 258</i>.<br><b>      2</b> choisi, supérieur, PD. <i>P. 4, 89, etc.</i> ; SOPH. <i>Tr. 245, etc</i>.<p><b>Étym</b>. <i>vb. de</i> κρίνω.`

@@ -1,0 +1,1 @@
+lar[44250]=`<b>ας (ἡ)</b> haine contre, <i>dat</i>. DÉM. <i>22, 59</i>.<p><b>Étym</b>. ἐχθρός.`

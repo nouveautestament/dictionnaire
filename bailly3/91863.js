@@ -1,0 +1,1 @@
+lar[91863]=`<b>σπερμο·ποιέω-ῶ</b>, produire de la semence génitale, ARSTT. <i>H.A. 10, 5, 5</i>.<p><b>Étym</b>. σπέρμα, ποιέω.`

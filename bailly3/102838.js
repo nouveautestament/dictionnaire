@@ -1,0 +1,1 @@
+lar[102838]=`<b>ὑπερ·τοξεύω</b>, lancer des traits plus loin qu’un autre, <i>p. ext</i>. surpasser, vaincre, ARR.`

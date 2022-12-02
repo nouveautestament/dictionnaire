@@ -1,0 +1,1 @@
+lar[100992]=`<b>ου (ὁ)</b> = <i>lat</i>. Tullius, <i>n. d’h. rom</i>. ANTH. <i>9, 37, etc</i>.`

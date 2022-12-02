@@ -1,0 +1,1 @@
+lar[51311]=`<b>καλο·σύμβουλος, ος, ον</b> <font color="purple">[ᾰ]</font> de bon conseil, PROCL. <i>Ptol. p. 229</i>.<p><b>Étym</b>. κ. σύμβουλος.`

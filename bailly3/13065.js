@@ -1,0 +1,1 @@
+lar[13065]=`<b>ατος (τὸ)</b> résidu provenant d’une matière exprimée, lie, marc, HPC. <i>772a, etc</i>.<p><b>Étym</b>. ἀποπιέζω.`

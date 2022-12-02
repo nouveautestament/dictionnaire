@@ -1,0 +1,1 @@
+lar[95155]=`<b>συν·διαταλαιπωρέω-ῶ</b>, <i>anc. att</i>. <b>ξυν·διαταλαιπωρέω</b> <font color="purple">[τᾰ]</font> être également malheureux, PLAT. <i>Crit. 45d</i>.`

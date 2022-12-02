@@ -1,0 +1,1 @@
+lar[18073]=`<b>εως (ἡ)</b> évacuation par transpiration, ARSTT. <i>Probl. 2, 8</i>.<p><b>Étym</b>. ἀφιδρόω.`

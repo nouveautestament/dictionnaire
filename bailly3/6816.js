@@ -1,0 +1,1 @@
+lar[6816]=`<b>ἀνα·θύω</b> <font color="darkgreen">(<i>impf</i>. ἀνέθυον) :</font><br><b>      1</b> s’élancer, jaillir avec force, CALL. <i>Cer. 30</i>.<br><b>      2</b> être ardent, impétueux, A.RH. <i>3, 685</i>.`

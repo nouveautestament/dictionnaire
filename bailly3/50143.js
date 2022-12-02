@@ -1,0 +1,1 @@
+lar[50143]=`<i>béot. c</i>. ἐγώ, CORINN. <i>10 Bgk</i>.`

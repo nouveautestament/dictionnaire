@@ -1,0 +1,1 @@
+lar[57953]=`<b>οῦ (ὁ)</b> Krios :<br><b>      1</b> <i>h</i>. HDT. <i>8, 92, etc.</i> ; AR. <i>Nub. 1359</i>.<br><b>      2</b> τὸ Κριοῦ μέτωπον, <i>litt</i>. le Front de bélier (<i>auj</i>. Akrotíri tou Krioú, cap Crio) <i>promont. de Crète,</i> ANTH. <i>14, 129, etc</i>.<p><b>Étym</b>. <i>v</i>. κριός.`

@@ -1,0 +1,1 @@
+lar[52589]=`<b>εως (ἡ)</b> <font color="purple">[ῐσ]</font> action d’entrer en rade, de se réfugier dans un port, ANON. (SUID.).<p><b>Étym</b>. κατακολπίζω.`

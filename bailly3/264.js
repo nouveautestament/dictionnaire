@@ -1,0 +1,1 @@
+lar[264]=`<b>ἀγαθο·ποιός, ός, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> qui fait le bien, SPT. <i>Sir. 42, 14</i> ; NT. <i>1Petr. 2, 14</i>.<br><b>      2</b> qui fait du bien, bienfaisant, PLUT. <i>M. 368b.</i><br><b>      3</b> <i>t. d’astrol</i>. de bon augure, PTOL. <i>Tetr. 19, 48</i> ; ARTÉM. <i>374 Reiff</i>.<p><b>Étym</b>. ἀγαθός, ποιέω.`

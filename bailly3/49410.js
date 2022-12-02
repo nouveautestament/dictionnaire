@@ -1,0 +1,1 @@
+lar[49410]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Hipposthénidas, <i>h</i>. PLUT. <i>Pel. 8</i>.<p><b>Étym</b>. <i>patr. de</i> Ἱπποσθένης.`

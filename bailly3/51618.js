@@ -1,0 +1,1 @@
+lar[51618]=`<b>ίδος</b> <font color="purple">[ᾰῐ]</font> <i>adj. f. c</i>. Καπιτώλιος ANTH. <i>9, 656</i> (<i>var</i>. Καπετωλίς).`

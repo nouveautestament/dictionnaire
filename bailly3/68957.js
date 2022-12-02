@@ -1,0 +1,1 @@
+lar[68957]=`<b>νομ·ῳδός, οῦ (ὁ)</b> interprète (<i>propr</i>. chanteur) des lois, STR. <i>539</i>.<p><b>Étym</b>. νόμος, ᾄδω.`

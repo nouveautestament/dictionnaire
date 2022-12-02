@@ -1,0 +1,1 @@
+lar[72626]=`<b>ὀρεο·πολέω-ῶ</b>, parcourir <i>ou</i> habiter les montagnes, LUC. <i>D. deor. 20, 7</i>.<p><b>Étym</b>. ὄρος, πολέω.`

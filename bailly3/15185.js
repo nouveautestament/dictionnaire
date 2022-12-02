@@ -1,0 +1,1 @@
+lar[15185]=`<i>adv</i>., sans cadence, <i>d’où</i> sans grâce, ALEX. (ATH. <i>21d</i>) ; PLUT. <i>Ant. 29, etc</i>.`

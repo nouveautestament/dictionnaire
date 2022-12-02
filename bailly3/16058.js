@@ -1,0 +1,1 @@
+lar[16058]=`<b>ἄ·σπιλος, ος, ον</b> <font color="purple">[ῐ]</font> sans tache, ANTH. <i>6, 252</i> ; NT. <i>1Tim. 6, 14, etc.</i> ; DIOSC. <i>2, 197</i>.<p><b>Étym</b>. ἀ, σπίλος.`

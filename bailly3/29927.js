@@ -1,0 +1,1 @@
+lar[29927]=`<b>ατος (τὸ)</b> crachat jeté par mépris sur qqn, PLUT. <i>M. 82b</i>.<p><b>Étym</b>. ἐγχρέμπτομαι.`

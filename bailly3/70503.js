@@ -1,0 +1,1 @@
+lar[70503]=`avoir une odeur de vin, APOLL. <i>Mir. 43</i>.<br><b><i>Moy.</i></b> :<br><b>      1</b> apporter du vin, IL. <i>8, 506, 546</i>.<br><b>      2</b> puiser du vin pour soi, LUC. <i>V.H. 1, 9</i>.<p>➳ <i>Moy. seul. prés</i>. IL. <i>8, 506 ; impf</i>. οἰνιζόμην, IL. <i>8, 546 ; part. ao. moy</i>. οἰνισάμενος, LUC. <i>l. c</i>.<p><b>Étym</b>. οἶνος.`

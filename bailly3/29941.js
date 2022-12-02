@@ -1,0 +1,1 @@
+lar[29941]=`<b>ἔγ·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> d’or <i>ou</i> doré, DS. <i>3, 39</i> ; PHILSTR. <i>Im. 1, 22</i>.<p><b>Étym</b>. ἐν, χρυσός.`

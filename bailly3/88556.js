@@ -1,0 +1,1 @@
+lar[88556]=`<b>ος, ον :<br>      1</b> qui tient les racines (de la terre), <i>ép. de Poséidon,</i> CALL. <i>fr. 285</i>.<br><b>      2</b> qui tient aux racines, OPP. <i>H. 5, 680</i>.<p><b>Étym</b>. ῥίζα, ἔχω.`

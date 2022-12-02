@@ -1,0 +1,1 @@
+lar[98644]=`<b>τετρά·πλευρος, ος, ον</b>, qui a quatre côtés, STR. <i>210</i> ; ANTH. <i>9, 682 ; subst</i>. τὸ τ. ARSTT. <i>Mech. 1, 4 ; Probl. 15, 6,</i> figure à quatre côtés.<p><b>Étym</b>. τ. πλευρά.`

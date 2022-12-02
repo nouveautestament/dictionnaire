@@ -1,0 +1,1 @@
+lar[101963]=`<b>ὑπ·άνειμι</b> (<i>part. prés</i>. ὑπανιών) <font color="purple">[ῠᾰ]</font> monter un peu, LUC. <i>M. cond. 39, Ic. 14</i>.`

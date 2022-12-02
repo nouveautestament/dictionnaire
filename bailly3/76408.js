@@ -1,0 +1,1 @@
+lar[76408]=`<b>εως (ἡ)</b> maladie de la verge, GAL. <i>2, 274</i>.<p><b>Étym</b>. *παραφιμόω.`

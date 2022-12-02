@@ -1,0 +1,1 @@
+lar[99318]=`<b>Τίσ·ανδρος, ου (ὁ)</b> <font color="purple">[ῑ]</font> Tisandros <i>h</i>. HDT. <i>5, 66, etc.</i> ; PLAT. <i>Gorg. 487c, etc</i>.<p>➳ <i>Dans les inscr. att</i>. Τείσανδρος, CIA. <i>1, 446, 11 (5<sup>e</sup> siècle av. J.-C.), etc. ; v. Meisterh. p. 144, 6. Sur le rad</i>. τει- <i>du verbe</i> τίνω.<p><b>Étym</b>. τίω, ἀνήρ.`

@@ -1,0 +1,1 @@
+lar[36071]=`<b>ἐξ·όθεν</b>, <i>adv</i>., depuis que, NIC. <i>Th. 318</i>.<p><b>Étym</b>. ἐξ, ὅθεν.`

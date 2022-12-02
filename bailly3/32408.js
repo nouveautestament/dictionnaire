@@ -1,0 +1,1 @@
+lar[32408]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> ce qu’on répand, SIB. <i>3, 320</i>.<p><b>Étym</b>. ἐκχέω.`

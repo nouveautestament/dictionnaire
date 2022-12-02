@@ -1,0 +1,1 @@
+lar[29810]=`<b>ἔγ·κυρτος, ος, ον</b>, courbe, bossu, ARSTT. <i>Physiogn. 47</i>.<p><b>Étym</b>. ἐν, κυρτός.`

@@ -1,0 +1,1 @@
+lar[106174]=`<b>φιλό·φιλος, ος, ον</b> <font color="purple">[ῐῐ]</font> tendrement attaché à ses amis, ARSTT. <i>Rhet. 2, 4, 26</i> ; NIC. <i>8, 8, 4</i> ; POL. <i>1, 14, 4 ; subst</i>. τὸ φ. NICÉPH. <i>1, 441 W.,</i> affection pour ses amis.<p><b>Étym</b>. φ. φίλος.`

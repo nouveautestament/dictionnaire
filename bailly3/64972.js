@@ -1,0 +1,1 @@
+lar[64972]=`<b>μετα·στέλλομαι</b>, envoyer chercher, faire venir, LUC. <i>Alex. 55</i>.`

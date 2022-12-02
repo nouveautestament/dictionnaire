@@ -1,0 +1,1 @@
+lar[76882]=`<b>παρ·ηχέομαι-οῦμαι</b>, être discordant, NYSS.`

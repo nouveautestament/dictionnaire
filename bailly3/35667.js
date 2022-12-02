@@ -1,0 +1,1 @@
+lar[35667]=`<b>ἐξ·αφαιρέω-ῶ</b>, <i>d’ord. au moy</i>. <b>ἐξαφαιρέομαι-οῦμαι</b> <font color="darkgreen">(<i>f</i>. ήσομαι, <i>ao.2</i> ἐξαφελόμην)</font> ôter, enlever, <i>acc</i>. SOPH. <i>El. 1157</i> ; ψυχήν τινος, OD. <i>22, 444,</i> ôter la vie à qqn ; φρενῶν τὸν νοῦν, EUR. (LYCURG. <i>159, 24</i>) priver qqn de sa raison.`

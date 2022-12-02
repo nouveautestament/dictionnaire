@@ -1,0 +1,1 @@
+lar[38116]=`<b>ἐπι·κόπτης, ου (ὁ)</b> censeur, critique sévère, TIMON (DL. <i>9, 18).</i><p><b>Étym</b>. ἐπικόπτω.`

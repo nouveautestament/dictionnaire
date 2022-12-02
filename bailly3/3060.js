@@ -1,0 +1,1 @@
+lar[3060]=`<b>ου (ὁ)</b> <font color="purple">[κᾰ]</font> <i>c</i>. ἀκάκητα, <i>ép. d’Hermès en Arcadie,</i> CALL. <i>Dian. 143</i>.`

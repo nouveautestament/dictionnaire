@@ -1,0 +1,1 @@
+lar[15994]=`<b>ἀ·σόλοικος, ος, ον :<br>      1</b> non barbare, non incorrect, <i>en parl. de langage,</i> SOPH. <i>fr. 555</i> ; DL. <i>7, 18</i>.<br><b>      2</b> <i>fig</i>. non grossier, convenable, EUB. (ATH. <i>63d</i>) ; PLUT. <i>Cleom. 13</i>.`

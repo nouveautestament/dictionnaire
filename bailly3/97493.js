@@ -1,0 +1,1 @@
+lar[97493]=`<font color="purple">[ᾱ]</font> <i>béot. c</i>. τῶν, <i>gén. pl. fém. de l’art</i>. ὁ, ἡ, τό.`

@@ -1,0 +1,1 @@
+lar[39135]=`<b>ή, όν</b>, apte à s’instruire, CLÉM. <i>468</i>.<p><b>Étym</b>. ἐπίσταμαι.`

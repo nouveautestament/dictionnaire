@@ -1,0 +1,1 @@
+lar[92606]=`<b>στιγματο·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte des marques au fer rouge, POLYEN <i>1, 24</i>.<p><b>Étym</b>. στίγμα, φέρω.`

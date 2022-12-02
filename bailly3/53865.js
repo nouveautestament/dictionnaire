@@ -1,0 +1,1 @@
+lar[53865]=`<b>κατ·εμ·ματέω-ῶ</b> <font color="purple">[μᾰ]</font> enfoncer, NIC. <i>Al. 536</i>.<p><b>Étym</b>. κ. ἐν, ματέω.`

@@ -1,0 +1,1 @@
+lar[16091]=`<b>ου (ὁ)</b> <font color="purple">[σᾰᾰ]</font> Assarakos, <i>h</i>. IL. <i>20, 232</i>.<p>➳ <i>Gén. épq</i>. -οιο, Q. SM. <i>6, 145</i>.`

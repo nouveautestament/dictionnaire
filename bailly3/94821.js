@@ -1,0 +1,1 @@
+lar[94821]=`<b>συν·ανύω</b> <font color="purple">[ᾰ]</font> achever <i>ou</i> accomplir ensemble, APP. <i>Lib. 47 ; abs</i>. arriver ensemble, ARSTT. <i>Physiogn. 6, 54</i> ; PLUT. <i>Alc. 27, etc</i>.`

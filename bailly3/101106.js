@@ -1,0 +1,1 @@
+lar[101106]=`<b>τυραννο·κτόνος, ου (ὁ, ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> meurtrier d’un tyran, LUC. <i>Tyr. 1</i> ; LIB. <i>4, 798, etc.</i><br><b>      2</b> qui concerne le meurtre d’un tyran, PHALAR. <i>Ep. 106</i>.<p><b>Étym</b>. τύραννος, κτείνω.`

@@ -1,0 +1,1 @@
+lar[55229]=`<b>ή, όν</b>, cultivé (<i>ou</i> qui pousse) dans un jardin, DIOSC. <i>2, 45</i> ; GEOP. <i>12, 30, 7</i>.<p><b>Étym</b>. <i>vb. de</i> κηπεύω.`

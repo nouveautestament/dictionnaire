@@ -1,0 +1,1 @@
+lar[78838]=`<b>ης (ἡ)</b> Périktionè, <i>mère de Platon,</i> EL. <i>V.H. 10, 21</i> ; DL. <i>3, 1</i>.<p><b>Étym</b>. <i>v</i>. περικτίονες.`

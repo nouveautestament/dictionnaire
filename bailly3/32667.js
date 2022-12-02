@@ -1,0 +1,1 @@
+lar[32667]=`ESCHL. PLUT. <i>et</i> <b>ἐλελελεῦ</b>, AR. :<br><b>      1</b> <i>cri de guerre,</i> AR. <i>Av. 364</i>.<br><b>      2</b> <i>cri de douleur,</i> ESCHL. <i>Pr. 877, ou de joie,</i> PLUT. <i>Thes. 22</i>.<p><b>Étym</b>. <i>formé par onomatopée, cf</i>. ἀλαλά.`

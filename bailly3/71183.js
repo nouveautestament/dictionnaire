@@ -1,0 +1,1 @@
+lar[71183]=`<b>ὁλό·λευκος, ος, ον</b>, entièrement blanc, ANTIPH. (<i>Com. fr. 3, 100).</i><p><b>Étym</b>. ὅλ. λευκός.`

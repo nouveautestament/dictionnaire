@@ -1,0 +1,1 @@
+lar[19702]=`<b>ου (τὸ)</b> <font color="purple">[ῑδᾰ]</font> <i>dim. de</i> βιβλίδιον AR. <i>fr. 596</i>.`

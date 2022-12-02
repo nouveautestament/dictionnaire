@@ -1,0 +1,1 @@
+lar[103483]=`<b>ὑπό·λιθος, ος, ον</b> <font color="purple">[ῐ]</font> qqe peu pierreux, un peu rocailleux, LUC. <i>Tim. 31, Abd. 27</i>.<p><b>Étym</b>. ὑ. λίθος.`

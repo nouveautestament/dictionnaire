@@ -1,0 +1,1 @@
+lar[55319]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>seul. lat</i>. cērōmătĭcus, JUV. <i>3, 68,</i> frotté d’huile et de cire.<p><b>Étym</b>. <i>v</i>. κήρωμα.`

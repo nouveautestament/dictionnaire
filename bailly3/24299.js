@@ -1,0 +1,1 @@
+lar[24299]=`<i>adv</i>., à la façon de Démosthène, DH. <i>Rhet. 10, 19</i>.`

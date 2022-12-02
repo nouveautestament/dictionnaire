@@ -1,0 +1,1 @@
+lar[84241]=`<b>προ·επιμελέομαι-οῦμαι</b>, prendre d’abord soin de, <i>gén</i>. GAL. <i>14, 298</i>.`

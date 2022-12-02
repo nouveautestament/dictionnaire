@@ -1,0 +1,1 @@
+lar[9574]=`<b>ἀντ·εκτείνω</b>, étendre en face de, comparer, AR. <i>Ran. 1042</i>.`

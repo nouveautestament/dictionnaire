@@ -1,0 +1,1 @@
+lar[19378]=`<i>mieux que</i> <b>βάταλος, ου (ὁ)</b> Battalos, <i>joueur de flûte,</i> LUC.<p><b>Étym</b>. βάτταλος.`

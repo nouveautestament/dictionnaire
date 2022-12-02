@@ -1,0 +1,1 @@
+lar[48575]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> hiéroglyphique ; τὰ ἱερογλυφικά (<i>s.-e</i>. γράμματα) PLUT. <i>M. 354f ;</i> LUC. <i>Philops. 21</i> ; CLÉM. <i>657,</i> hiéroglyphes, <i>caractères de l’écriture sacrée des prêtres égyptiens</i>.<p><b>Étym</b>. ἱερογλύφος.`

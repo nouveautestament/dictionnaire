@@ -1,0 +1,1 @@
+lar[44173]=`<b>ἐφ·υστερίζω</b>, arriver en arrière, ensuite <i>ou</i> en retard, THC. <i>3, 82 ; cf</i>. DH. <i>Thuc. 29</i>.<p><b>Étym</b>. ἐπί, ὑ.`

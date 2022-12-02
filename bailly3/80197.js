@@ -1,0 +1,1 @@
+lar[80197]=`<b>ου (τὸ)</b> <font color="purple">[πῑ]</font> le Piérion, <i>chaînes de montagnes de Thessalie,</i> THC. <i>5, 13</i>.`

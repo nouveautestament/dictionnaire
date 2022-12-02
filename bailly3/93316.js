@@ -1,0 +1,1 @@
+lar[93316]=`<b>συγ·κατακληρονομέω-ῶ</b>, hériter en même temps, <i>d’où au pass</i>. devenir en même temps héréditaire, SPT. <i>Num. 32, 30</i>.`

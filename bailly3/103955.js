@@ -1,0 +1,1 @@
+lar[103955]=`<b>ὑπο·σῴζω</b>, ramener sain et sauf, JUL. <i>Or. 1, 25a</i>.`

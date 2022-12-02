@@ -1,0 +1,1 @@
+lar[41807]=`<b>εὔ·γραμμος, ος, ον</b>, bien tracé, bien dessiné, STR. <i>100</i> ; LUC. <i>J. tr. 33 ; fig</i>. bien défini, DH. <i>Comp. 22</i>.<p><b>Étym</b>. εὖ, γραμμή.`

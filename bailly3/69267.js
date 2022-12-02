@@ -1,0 +1,1 @@
+lar[69267]=`<b>νυχ·αυγής, ής, ές</b> <font color="purple">[ῠ]</font> qui brille pendant la nuit, ORPH. <i>H. 2, 7, etc</i>.<p><b>Étym</b>. νύξ, αὐγή.`

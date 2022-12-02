@@ -1,0 +1,1 @@
+lar[56073]=`<b>κλινο·πηγία, ας (ἡ)</b> <font color="purple">[ῑῐᾱ]</font> fabrication de lits, de litières, TH. <i>H.P. 3, 10, 1</i>.<p><b>Étym</b>. κλίνη, πήγνυμι.`

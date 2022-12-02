@@ -1,0 +1,1 @@
+lar[86635]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de souffler vers <i>ou</i> sur, NYSS.<p><b>Étym</b>. προσφυσάω.`

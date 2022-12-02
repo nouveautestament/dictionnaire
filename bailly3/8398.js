@@ -1,0 +1,1 @@
+lar[8398]=`<b>ἀν·επαίσθητος, ος, ον :<br>      1</b> <i>pass</i>. insensible, que l’on ne sent pas, dont on ne s’aperçoit pas, T. LOCR. <i>100b ;</i> PLUT. <i>M. 1062b ;</i> LUC. <i>Sat. 33</i>.<br><b>      2</b> <i>act</i>. qui ne s’aperçoit pas de, <i>gén</i>. LGN <i>4, 1</i>.<p><b>Étym</b>. ἀν-, ἐπαισθάνομαι.`

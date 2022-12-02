@@ -1,0 +1,1 @@
+lar[395]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγᾱμ]</font> insolence, SPT. <i>Bar. 4, 34</i>.<p><b>Étym</b>. ἀγαυρός.`

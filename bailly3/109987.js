@@ -1,0 +1,1 @@
+lar[109987]=`<b>ψυχο·σσόος, ος, ον</b> <font color="purple">[ῡ]</font> qui sauve <i>ou</i> conserve la vie, ANTH. <i>9, 197 ; 15, 12</i> ; NONN. <i>Jo. 7, 144</i>.<p><b>Étym</b>. ψυχή, σόος.`

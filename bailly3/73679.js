@@ -1,0 +1,1 @@
+lar[73679]=`<b>οὐρανό·χροος-ους</b>, <i>acc</i>. <b>ουν (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> de la couleur du ciel, TH. <i>Art. t. 2, p. 334, 17</i>.<p><b>Étym</b>. οὐρ. χρώς.`

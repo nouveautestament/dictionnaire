@@ -1,0 +1,1 @@
+lar[11508]=`<font color="purple">[ᾰμ]</font> <i>pl. de</i> ἀπέδραν, <i>ao.2 de</i> ἀποδιδράσκω.`

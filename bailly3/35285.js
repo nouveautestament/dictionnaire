@@ -1,0 +1,1 @@
+lar[35285]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Exadios, <i>Lapithe,</i> IL. <i>1, 264</i> ; HÉS. <i>Sc. 180</i>.`

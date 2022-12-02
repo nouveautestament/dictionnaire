@@ -1,0 +1,1 @@
+lar[103352]=`<b>ὑπο·κελεύω</b>, donner aux rameurs <i>ou</i> aux matelots le signal de la mesure, LUC. <i>Cat. 19</i>.<p><b>Étym</b>. <i>v</i>. κελευστής.`

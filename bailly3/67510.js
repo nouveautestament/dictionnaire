@@ -1,0 +1,1 @@
+lar[67510]=`<font color="darkgreen">(<i>ao</i>. ἐμωλώπισα, <i>pf. pass. part</i>. μεμωλωπισμένος)</font> meurtrir, DL. <i>7, 23</i> ; PLUT. <i>M. 126c ;</i> AQU. <i>Cant. 5, 8</i>.<p><b>Étym</b>. μώλωψ.`

@@ -1,0 +1,1 @@
+lar[107300]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> ce qui est planté, plant, arbre, <i>etc</i>. PD. <i>O. 3, 32</i> ; SOPH. <i>O.C. 698</i> ; PLAT. <i>Leg. 761b ; p. ext</i>. pépinière, TH. <i>C.P. 3, 5, 2 ; 3, 24, 11</i>.<br><b>      2</b> sorte de réséda (<i>Reseda phyteuma</i> L.) DIOSC. <i>4, 130</i>.<p><b>Étym</b>. φυτεύω.`

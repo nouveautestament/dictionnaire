@@ -1,0 +1,1 @@
+lar[72848]=`<b>ου (ὁ)</b> Horkos, <i>protecteur des serments,</i> HÉS. <i>O. 800, etc.</i> ; Ὅ. Διός, SOPH. <i>O.C. 1767,</i> Horkos, serviteur de Zeus.<p><b>Étym</b>. ὅρκος.`

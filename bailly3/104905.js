@@ -1,0 +1,1 @@
+lar[104905]=`<b>ου</b> <font color="purple">[μᾰῑ]</font><br><b>      1</b> de magicien : δακτύλιος, EUP. <i>2-1, 454 Meineke</i> bague de magicien.<br><b>      2</b> préparé avec une drogue, ATH. <i>30c</i>.<p><b>Étym</b>. φάρμακον.`

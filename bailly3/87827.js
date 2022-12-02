@@ -1,0 +1,1 @@
+lar[87827]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Pyrènè :<br><b>      1</b> <i>v. près de l’Ister,</i> HDT. <i>2, 33</i>.<br><b>      2</b> <i>c</i>. Πυρηναῖα, ARSTT. <i>Meteor. 1, 13</i> ; POL. <i>3, 35, etc.</i> ; PLUT. <i>Sert. 7</i> ; ANTH. <i>9, 419, etc</i>.`

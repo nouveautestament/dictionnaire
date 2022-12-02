@@ -1,0 +1,1 @@
+lar[92527]=`<i>prés. formé du pf</i>. ἕστηκα (<i>v</i>. ἵστημι) se tenir debout, SPT. <i>3Reg. 8, 11</i> ; NT. <i>Rom. 14, 4 ; 1Cor. 16, 13</i> ; A. APHR. <i>Probl. 1, 49</i>.`

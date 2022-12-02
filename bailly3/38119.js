@@ -1,0 +1,1 @@
+lar[38119]=`<b>ἐπι·κορύσσομαι</b> (<i>seul. prés</i>.) s’armer (<i>litt</i>. d’un casque) contre, <i>dat</i>. LUC. <i>Alex. 57</i>.`

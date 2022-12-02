@@ -1,0 +1,1 @@
+lar[5216]=`<b>ἁμαξί·πους, -ποδος (ὁ)</b> <font color="purple">[ᾰμῐ]</font> moyeu <i>ou</i> boîte à essieu, ATHÉNÉE MÉC.<p><b>Étym</b>. ἅμαξα, πούς.`

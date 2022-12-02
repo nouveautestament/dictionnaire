@@ -1,0 +1,1 @@
+lar[21457]=`<i>ou</i> <b>γαυνάκες (οἱ)</b> tapis, matelas, CLÉM. <i>Pæd. 2, 77</i>.<p><b>Étym</b>. <i>conj</i>. γαυσάπαι.`

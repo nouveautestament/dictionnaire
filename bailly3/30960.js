@@ -1,0 +1,1 @@
+lar[30960]=`<i>adv</i>., de tout côté, THC. <i>7, 20 et 21</i> ; XÉN. <i>Hell. 3, 4, 3</i> ; PLUT. <i>Demetr. 31</i>.<p><b>Étym</b>. ἑκασταχο- <i>de</i> ἕκαστος, -θεν.`

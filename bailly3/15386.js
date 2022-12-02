@@ -1,0 +1,1 @@
+lar[15386]=`<b>ἀρτι·ύπωχρος, ος, ον</b>, encore un peu pâle, HPC. <i>556, fin</i>.`

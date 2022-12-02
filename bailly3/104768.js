@@ -1,0 +1,1 @@
+lar[104768]=`<b>ου (τὸ)</b> Phalion, <i>lieu de Bithynie,</i> PLUT. <i>Qu. gr. 49</i>.`

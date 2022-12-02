@@ -1,0 +1,1 @@
+lar[30244]=`<b>εως (ἡ)</b> science, connaissance, ARSTT. <i>An. 1, 1, 1</i> ; SPT. <i>Sir. 42, 18</i> ; SEXT. <i>M. 1, 44</i> ; CLÉM. <i>1, 1013 Migne</i>.<p><b>Étym</b>. *εἴδω.`

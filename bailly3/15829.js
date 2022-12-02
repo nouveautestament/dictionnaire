@@ -1,0 +1,1 @@
+lar[15829]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> asthmatique, ADAM. <i>Physiogn. 2, 28</i>.<p><b>Étym</b>. ἆσθμα.`

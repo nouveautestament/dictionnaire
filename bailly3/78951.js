@@ -1,0 +1,1 @@
+lar[78951]=`<b>ου (ὁ)</b> périnée, région entre l’anus et le scrotum, <i>t. d’anat</i>. ARSTT. <i>H.A. 1, 14, 2, etc</i>.`

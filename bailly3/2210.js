@@ -1,0 +1,1 @@
+lar[2210]=`<b>έως (ὁ)</b> habitant d’Égeste (<i>auj</i>. Ségeste), Égestin (Ségestin), PLUT. <i>Nic. 12, etc</i>.<p><b>Étym</b>. Αἴγεστα.`

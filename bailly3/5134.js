@@ -1,0 +1,1 @@
+lar[5134]=`<b>ου (ὁ)</b> Alôpékos, <i>colline près d’Haliarte,</i> PLUT. <i>Lys. 29</i>.`

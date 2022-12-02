@@ -1,0 +1,1 @@
+lar[23909]=`<b>δεξιόω-ῶ</b> <font color="darkgreen">(<i>ao. pass</i>. ἐδεξιώθην)</font> <i>v</i>. δεξιόομαι.`

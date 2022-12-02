@@ -1,0 +1,1 @@
+lar[105430]=`<b>Φιλ·άδελφος, ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Philadelphos (Philadelphe) <i>h</i>. PLUT. <i>Ant. 61 ; surn. de Ptolémée II, roi d’Égypte,</i> THCR. <i>Idyl. 15 argum., etc</i>.<p><b>Étym</b>. <i>v</i>. φιλάδελφος.`

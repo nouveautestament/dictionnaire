@@ -1,0 +1,1 @@
+lar[77694]=`<b>πεισι·χάλινος, ος, ον</b> <font color="purple">[ῐχᾰῑ]</font> qui obéit au frein, PD. <i>P. 2, 21</i>.<p><b>Étym</b>. πείθω, χαλινός.`

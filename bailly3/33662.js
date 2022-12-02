@@ -1,0 +1,1 @@
+lar[33662]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> propre à faire connaître, à expliquer, PLAT. <i>Def. 414e.</i><br><b>      2</b> expressif, significatif, LGN <i>31, 1 ; au cp</i>. -ώτερος.<p><b>Étym</b>. ἐμφανίζω.`

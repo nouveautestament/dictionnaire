@@ -1,0 +1,1 @@
+lar[104663]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> Phænis, <i>f</i>. ANTH. <i>App. 137</i>.<p><b>Étym</b>. φαίνω.`

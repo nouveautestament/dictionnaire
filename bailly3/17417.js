@@ -1,0 +1,1 @@
+lar[17417]=`<b>αὐτο·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῑ]</font> muni de sa pointe, HLD. <i>9, 19</i>.`

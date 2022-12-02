@@ -1,0 +1,1 @@
+lar[49539]=`<b>ου (ὁ)</b> Isarkhidas, <i>h</i>. THC. <i>1, 29</i>.<p><b>Étym</b>. <i>patr. de</i> Ἴσαρχος.`

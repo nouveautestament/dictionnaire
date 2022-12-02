@@ -1,0 +1,1 @@
+lar[70044]=`<b>ας (ἡ)</b> <font color="purple">[ᾱ]</font> Onka, <i>surn. d’Athèna, à Thèbes,</i> ESCHL. <i>Sept. 162, 487, 501</i>.`

@@ -1,0 +1,1 @@
+lar[36418]=`<b>ή, όν</b>, qu’on peut louer, louable, PLAT. <i>Crat. 416c ; Leg. 637b, 660a, etc.</i> ; ARSTT. <i>Nic. 1, 12, 2</i> ; POL. <i>6, 45, 1</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπαινέω.`

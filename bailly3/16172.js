@@ -1,0 +1,1 @@
+lar[16172]=`<b>ἀ·στεργ·άνωρ, ορος</b> <font color="purple">[ᾱν]</font> <i>adj. f</i>. qui n’aime pas les hommes, ESCHL. <i>Pr. 898</i>.<p><b>Étym</b>. ἀ, στέργω, ἀνήρ.`

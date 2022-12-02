@@ -1,0 +1,1 @@
+lar[4719]=`<font color="purple">[ᾰχ]</font> <i>adv</i>., ailleurs, <i>sans mouv</i>. XÉN. <i>Mem. 4, 3, 8</i>.<p><b>Étym</b>. *ἀλλαχο-, -θι.`

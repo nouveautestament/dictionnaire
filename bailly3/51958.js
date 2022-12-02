@@ -1,0 +1,1 @@
+lar[51958]=`<b>ῶν (αἱ)</b> Karyes, <i>brg de Laconie, avec un temple d’Artémis,</i> THC. <i>5, 55</i>.`

@@ -1,0 +1,1 @@
+lar[2847]=`<b>ας (ἡ)</b> <font color="purple">[σῐ]</font> avantage, jouissance, ESCHL. <i>Eum. 950 dout</i>.<p><b>Étym</b>. αἴσιμος.`

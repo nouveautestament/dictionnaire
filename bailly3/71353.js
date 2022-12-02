@@ -1,0 +1,1 @@
+lar[71353]=`<b>ὀμβρο·φόρος, ος, ον</b>, qui apporte la pluie, ESCHL. <i>Suppl. 35</i> ; AR. <i>Nub. 298, etc</i>.<p><b>Étym</b>. ὄμβρος, φέρω.`

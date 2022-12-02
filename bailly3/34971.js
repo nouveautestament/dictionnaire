@@ -1,0 +1,1 @@
+lar[34971]=`<b>ἐν·στίλβω</b> (<i>seul. prés</i>.) briller dans, <i>dat</i>. NYSS. <i>1, 400</i>.`

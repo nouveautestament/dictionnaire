@@ -1,0 +1,1 @@
+lar[92362]=`<b>στενο·λεσχέω-ῶ</b>, discuter sur des riens, AR. <i>Nub. 320</i>.<p><b>Étym</b>. στενός, λέσχη.`

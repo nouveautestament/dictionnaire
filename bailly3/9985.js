@@ -1,0 +1,1 @@
+lar[9985]=`<b>ἀντι·κορύσσομαι</b>, lutter (<i>litt</i>. se couvrir d’un casque) contre, <i>dat</i>. ANTH. <i>7, 668</i> ; ATH. <i>702b</i>.`

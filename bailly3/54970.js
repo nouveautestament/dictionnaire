@@ -1,0 +1,1 @@
+lar[54970]=`<b>κέρκ·ουρος, ου (ὁ) :<br>      1</b> vaisseau léger des Chypriotes, HDT. <i>7, 97</i> ; DIN. (HARP.) ; ATH. <i>208f, etc.</i><br><b>      2</b> poisson de mer, OPP. <i>H. 1, 41</i>.<p><b>Étym</b>. κέρκος, οὐρά.`

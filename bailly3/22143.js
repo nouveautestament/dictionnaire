@@ -1,0 +1,1 @@
+lar[22143]=`<b>γλυκ·έλαιον, ου (τὸ)</b> <font color="purple">[ῠ]</font> huile douce, GAL. <i>2, 398a</i>, b.<p><b>Étym</b>. γλυκύς, ἔλαιον.`

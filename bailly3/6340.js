@@ -1,0 +1,1 @@
+lar[6340]=`<b>ἀμφι·πτυχή, ῆς (ἡ)</b> <font color="purple">[ῠ]</font> embrassement, EUR. <i>Ion 519</i>.<p><b>Étym</b>. ἀ. πτύσσω.`

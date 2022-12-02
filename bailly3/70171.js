@@ -1,0 +1,1 @@
+lar[70171]=`<b>ή, όν :<br>      1</b> porté à se plaindre, à se lamenter, ARSTT. <i>Rhet. 2, 13, 15</i>.<br><b>      2</b> plaintif, lamentable, PLUT. <i>M. 751a</i>.<p><b>Étym</b>. ὀδυρτός.`

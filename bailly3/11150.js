@@ -1,0 +1,1 @@
+lar[11150]=`<b>ατος (τὸ)</b> objet suspendu, HPC. <i>771h</i>.`

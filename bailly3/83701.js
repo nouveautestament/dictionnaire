@@ -1,0 +1,1 @@
+lar[83701]=`<b>προ·αποχράομαι-ῶμαι</b>, faire périr auparavant, <i>acc</i>. DC. <i>57, 15, etc</i>.`

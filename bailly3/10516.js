@@ -1,0 +1,1 @@
+lar[10516]=`<b>ἀντι·τοξεύω</b>, lancer des flèches contre, XÉN. <i>An. 3, 3, 15</i>.`

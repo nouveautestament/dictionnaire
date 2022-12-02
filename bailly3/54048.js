@@ -1,0 +1,1 @@
+lar[54048]=`<b>εως (ἡ) :<br>      1</b> action d’instruire de vive voix, HPC. <i>18, 25</i> ; DH. <i>Din. 7, etc.</i><br><b>      2</b> <i>particul</i>. action de donner une instruction religieuse, de catéchiser, CLÉM. <i>1, 285, etc. Migne</i>.<p><b>Étym</b>. κατηχέω.`

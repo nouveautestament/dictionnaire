@@ -1,0 +1,1 @@
+lar[68749]=`<b>Νικ·ίππη</b>, <i>dor</i>. <b>-α (ἡ)</b> <font color="purple">[νῑ]</font> Nikippè, <i>f</i>. CALL. <i>Cer. 43</i>.<p><b>Étym</b>. <i>cf</i>. Νικιππίς.`

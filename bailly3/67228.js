@@ -1,0 +1,1 @@
+lar[67228]=`<b>ου (τὸ)</b> <font color="purple">[ῠῐδ]</font> <i>dim. de</i> μύρον, AR. <i>fr. 441 Dind</i>.`

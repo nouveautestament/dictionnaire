@@ -1,0 +1,1 @@
+lar[902]=`<b>α (ὁ)</b> <font color="purple">[ῐ]</font> = <i>lat</i>. Agrĭcŏla, <i>n. d’h. rom</i>. ANTH. <i>9, 549</i>.`

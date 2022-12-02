@@ -1,0 +1,1 @@
+lar[29590]=`<b>ἐγ·καταχωρίζω</b>, placer dans, DH. <i>6, 1109 Reiske</i> ; ORIG. <i>92</i>.<p><b>Étym</b>. ἐν, κ.`

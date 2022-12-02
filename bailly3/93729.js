@@ -1,0 +1,1 @@
+lar[93729]=`<b>συκο·φόρος, ος, ον</b>, qui porte, <i>càd</i>. produit des figues, STR. <i>178</i>.<p><b>Étym</b>. σῦκον, φέρω.`

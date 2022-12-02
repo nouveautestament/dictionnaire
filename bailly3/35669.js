@@ -1,0 +1,1 @@
+lar[35669]=`<b>ἑξα·φάρμακον, ου (τὸ)</b> <font color="purple">[μᾰ]</font> remède composé de six ingrédients, ORIB. <i>4, 608 B.-Dar</i>.<p><b>Étym</b>. ἕξ, φ.`

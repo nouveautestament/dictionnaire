@@ -1,0 +1,1 @@
+lar[45914]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> héroïne, demi-déesse, THCR. <i>Idyl. 13, 20 ; 26, 36</i> ; CALL. <i>Del. 161</i> ; DP. <i>1022</i> ; LUC. <i>Im. 7, Nec. 15</i>.<p>➳ <i>Par contr</i>. ἡρῴνη, AR. <i>Nub. 315</i> ; ANTH. <i>App. 51, 55</i>.<p><b>Étym</b>. <i>fém. de</i> ἥρως.`

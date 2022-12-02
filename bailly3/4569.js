@@ -1,0 +1,1 @@
+lar[4569]=`<b>ἁλί·σχοινος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> jonc marin, ORIB. <i>p. 28 Mai</i>.<p><b>Étym</b>. ἅ. σχοῖνος.`

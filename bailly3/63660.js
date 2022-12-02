@@ -1,0 +1,1 @@
+lar[63660]=`<b>μεθυ·σφαλής, ής, ές</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui dévie par suite de l’ivresse, A. PL. <i>99</i>.<br><b>      2</b> <i>act</i>. qui enivre et fait chanceler, ANTH. <i>6, 248</i>.<p><b>Étym</b>. μέθυ, σφάλλω.`

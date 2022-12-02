@@ -1,0 +1,1 @@
+lar[68450]=`<b>νε·ωλκός, ός, όν</b>, qui tire les vaisseaux à sec, ARSTT. <i>Phys. 7, 5, 4</i>.<p><b>Étym</b>. ναῦς, ἕλκω.`

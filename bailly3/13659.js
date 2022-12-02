@@ -1,0 +1,1 @@
+lar[13659]=`<i>ion</i>. <b>-ίη, ης (ἡ)</b> action <i>ou</i> moyen de détourner, A.RH. <i>4, 1504</i>.<p><b>Étym</b>. ἀπότροπος.`

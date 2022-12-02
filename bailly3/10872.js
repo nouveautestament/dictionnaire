@@ -1,0 +1,1 @@
+lar[10872]=`<b>ἀν·ωφέλητος, ος, ον :<br>      1</b> inutile, qui ne procure aucun profit à, <i>dat</i>. ESCHL. <i>Ch. 752 ; abs</i>. SOPH. <i>Ant. 645, El. 1144</i> ; XÉN. <i>Cyr. 1, 6, 11</i>.<br><b>      2</b> à qui l’on ne peut être utile, EUP. <i>377 Kock</i>.<p><b>Étym</b>. ἀν-, ὠφελέω.`

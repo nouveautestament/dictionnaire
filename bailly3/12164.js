@@ -1,0 +1,1 @@
+lar[12164]=`<b>οῦ (ὁ)</b> ligature (d’un anévrisme) ANTYLL. (ORIB. <i>4, 56 Mai).</i><p><b>Étym</b>. ἀποβροχίζω.`

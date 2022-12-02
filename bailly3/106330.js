@@ -1,0 +1,1 @@
+lar[106330]=`<b>φλεβο·νευρώδης, ης, ες</b>, formé de veines et de nerfs, ARSTT. <i>Respir. 16, 4</i>.<p><b>Étym</b>. φλέψ, ν.`

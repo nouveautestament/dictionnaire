@@ -1,0 +1,1 @@
+lar[106218]=`<b>φιλό·ψυχρος, ος, ον</b> <font color="purple">[ῐ]</font> qui aime le froid <i>ou</i> la fraîcheur, TH. <i>C.P. 2, 3, 3</i> ; PLUT. <i>M. 648d</i>.<p><b>Étym</b>. φ. ψυχρός.`

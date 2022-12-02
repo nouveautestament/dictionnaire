@@ -1,0 +1,1 @@
+lar[8004]=`<b>ἀνδρ·άχνη, ης (ἡ) :<br>      1</b> pourpier, <i>plante,</i> TH. <i>C.P. 1, 10, 4</i> ; DIOSC. <i>2, 150</i> ; LUC. <i>Trag. 151</i>.<br><b>      2</b> fraisier sauvage, TH. <i>H.P. 1, 9, 3</i>.`

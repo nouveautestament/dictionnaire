@@ -1,0 +1,1 @@
+lar[84712]=`<b>προ·μεριμνάω-ῶ</b>, s’inquiéter d’avance <i>ou</i> auparavant, NT. <i>Marc. 13, 11</i> ; CLÉM. <i>595</i>.`

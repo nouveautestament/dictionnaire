@@ -1,0 +1,1 @@
+lar[36654]=`<b>ἐπ·ανατέμνω</b>, couper de nouveau, HPC. <i>V.C. 905</i> ; ARÉT. <i>Cur. m. acut. 1, 4</i>.`

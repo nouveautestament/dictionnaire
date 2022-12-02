@@ -1,0 +1,1 @@
+lar[89376]=`<i>ou</i> <b>σεραπιάς, άδος (ἡ)</b> <i>sorte de plante orchidée,</i> DIOSC. <i>3, 142</i>.`

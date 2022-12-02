@@ -1,0 +1,1 @@
+lar[101480]=`<font color="purple">[ῠ]</font> être atteint d’hydropisie, HPC. <i>563, 41, 41</i>.<p><b>Étym</b>. ὕδερος.`

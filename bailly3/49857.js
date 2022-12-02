@@ -1,0 +1,1 @@
+lar[49857]=`<b>οῦ (ὁ, ἡ)</b> qui tisse, tisserand ; <i>masc</i>. D. ALEX. (EUS. <i>P.E. p. 774, 3</i>) ; <i>fém</i>. JOS. <i>B.J. 1, 24, 3</i>.<p><b>Étym</b>. ἱ. ἔργον.`

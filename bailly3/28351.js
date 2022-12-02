@@ -1,0 +1,1 @@
+lar[28351]=`<b>δυσ·εκμόχλευτος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à déplacer avec un levier, ANTYLL. (ORIB. <i>2, 451 B.-Dar</i>.).<p><b>Étym</b>. δ. ἐκμοχλεύω.`

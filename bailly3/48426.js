@@ -1,0 +1,1 @@
+lar[48426]=`<b>ἰδιοπροσωπέω-ῶ</b> <font color="purple">[ῐδ]</font> avoir un aspect particulier, PROCL. <i>Ptol. p. 74</i>.<p><b>Étym</b>. ἰδιοπρόσωπος.`

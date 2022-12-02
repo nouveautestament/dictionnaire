@@ -1,0 +1,1 @@
+lar[104360]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> femme qui tisse, M. ANT. <i>10, 38</i> ; EL. <i>N.A. 6, 57</i>.<p><b>Étym</b>. ὑφαίνω.`

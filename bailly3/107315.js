@@ -1,0 +1,1 @@
+lar[107315]=`<b>φυτο·βασίλα (ἡ)</b> <i>autre n. de la plante</i> λεοντοπόδιον (leontopodium) DIOSC. <i>Noth. 4, 131</i>.<p><b>Étym</b>. φυτόν, βασιλεύς.`

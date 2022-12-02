@@ -1,0 +1,1 @@
+lar[61993]=`<b>λυρο·φοῖνιξ, ικος (ὁ)</b> <font color="purple">[ῠῑκ]</font> sorte de lyre phénicienne, JUBA (ATH. <i>175d, 183c</i>).<p><b>Étym</b>. λύρα, Φοῖνιξ.`

@@ -1,0 +1,1 @@
+lar[103090]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> fonction de sous-greffier, de greffier adjoint, PLUT. <i>M. 840e</i>.<p><b>Étym</b>. ὑπογραμματεύς.`

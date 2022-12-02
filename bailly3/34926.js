@@ -1,0 +1,1 @@
+lar[34926]=`<b>ἐν·σινής, ής, ές</b> <font color="purple">[ῐ]</font> endommagé, blessé, MAN. <i>2, 445</i>.<p><b>Étym</b>. ἐν, σίνος.`

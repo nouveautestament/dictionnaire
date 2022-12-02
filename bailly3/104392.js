@@ -1,0 +1,1 @@
+lar[104392]=`<b>ῆς (ἡ) :<br>      1</b> tissu, <i>d’ord. au plur</i>. ESCHL. <i>Ag. 949</i> ; EUR. <i>Ion 1146, I.T. 814, etc.</i> ; PLAT. <i>Leg. 956a, etc.</i><br><b>      2</b> toile d’araignée, ARSTT. <i>H.A. 9, 39, 5</i>.<p><b>Étym</b>. <i>cf</i>. ὑφαίνω.`

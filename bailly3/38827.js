@@ -1,0 +1,1 @@
+lar[38827]=`<b>ἐπι·προωθέω-ῶ</b> <font color="darkgreen">(<i>impér. ao</i>. ἐπίπρωσον)</font> pousser encore en avant, LUC. <i>As. 10</i>.`

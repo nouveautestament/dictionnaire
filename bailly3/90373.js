@@ -1,0 +1,1 @@
+lar[90373]=`<b>(ὁ)</b> Sinatroukès, <i>roi parthe,</i> LUC. <i>Macr. 15</i>.`

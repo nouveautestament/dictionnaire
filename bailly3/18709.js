@@ -1,0 +1,1 @@
+lar[18709]=`<font color="purple">[ᾰ]</font> SOPH. <i>El. 1502</i> ; ARSTT. <i>Nic. 10, 9, 16 ; et plur</i>. βαδιστέα, AR. <i>Ach. 394, vb. de</i> βαδίζω.`

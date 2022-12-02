@@ -1,0 +1,1 @@
+lar[12545]=`<b>ἀποκέντησις, εως (ἡ)</b> action de transpercer, SPT. <i>Hos. 9, 15</i>.`

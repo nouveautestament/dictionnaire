@@ -1,0 +1,1 @@
+lar[79249]=`<b>περι·σθενής, ής, ές</b>, qui a une force supérieure, irrésistible, PD. <i>N. 3, 26, etc</i>.<p><b>Étym</b>. π. σθένος.`

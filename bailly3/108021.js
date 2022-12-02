@@ -1,0 +1,1 @@
+lar[108021]=`<b>ης, ες</b>, abondant en hiatus, RHÉT. <i>3, 544 W</i>.<p><b>Étym</b>. χασμωδία, -ωδης.`

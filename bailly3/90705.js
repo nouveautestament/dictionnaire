@@ -1,0 +1,1 @@
+lar[90705]=`<b>σκαφο·ειδής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à un bateau allongé, DS. <i>2, 31</i> ; PLUT. <i>M. 890d, etc</i>.<p><b>Étym</b>. σκάφη, εἶδος.`

@@ -1,0 +1,1 @@
+lar[27463]=`<b>ονος (ὁ)</b> <font color="purple">[ῑ]</font> Dolopiôn, <i>Troyen,</i> IL. <i>5, 77</i>.<p><b>Étym</b>. Δόλοψ.`

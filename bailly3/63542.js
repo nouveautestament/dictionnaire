@@ -1,0 +1,1 @@
+lar[63542]=`<b>ῶνος (ὁ)</b> Médéôn :<br><b>      1</b> <i>v. de Béotie,</i> IL. <i>2, 501</i>.<br><b>      2</b> <i>v. d’Acarnanie (auj</i>. ruines près de Katoúna) THC. <i>3, 106</i>.`

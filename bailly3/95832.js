@@ -1,0 +1,1 @@
+lar[95832]=`<b>συν·έφηβος, ου (ὁ)</b> compagnon de jeunesse, camarade, ESCHN. <i>7, 37 ; 50, 53</i> ; PLUT. <i>M. 482a ;</i> LUC. <i>Tim. 48 ; D. mer. 4, 1</i>.<p><b>Étym</b>. σ. ἔφηβος.`

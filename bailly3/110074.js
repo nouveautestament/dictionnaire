@@ -1,0 +1,1 @@
+lar[110074]=`<b>Ω, ω</b> (ὦ μέγα) oméga (<i>litt</i>. grand ô) <i>24<sup>e</sup> lettre de l’alphabet grec.<br>Comme chiffre</i> ωʹ = 800 ; ͵ω = 800 000.`

@@ -1,0 +1,1 @@
+lar[65086]=`<b>μετ·εκπνέω</b>, exhaler parmi, <i>dat</i>. OPP. <i>H. 2, 164</i>.`

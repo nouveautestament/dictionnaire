@@ -1,0 +1,1 @@
+lar[12863]=`<b>εως (ἡ) :<br>      1</b> action d’essuyer, PLUT. <i>Rom. 21</i>.<br><b>      2</b> action de prendre une empreinte, <i>d’où</i> empreinte, image, JAMBL. <i>Protr. 21</i> ; THEOL. <i>p. 50c</i>.<p><b>Étym</b>. ἀπομάσσω.`

@@ -1,0 +1,1 @@
+lar[21533]=`<b>γεισι·ποδίζω</b> <i>ou</i> <b>γειση·ποδίζω</b> <font color="purple">[σῐ]</font> garnir d’appuis le rebord d’un toit, IS. (HARP.) ; POLL. <i>7, 120</i> (γεισηπ-).<p><b>Étym</b>. γεισίπους.`

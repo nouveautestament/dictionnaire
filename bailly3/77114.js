@@ -1,0 +1,1 @@
+lar[77114]=`<b>ου (ἡ)</b> <font color="purple">[ᾰ]</font> Paros (<i>auj</i>. Páros) <i>une des Cyclades,</i> HH. <i>Ap. 44, Cer. 491</i> ; HDT. <i>5, 31, etc</i>.`

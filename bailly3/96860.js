@@ -1,0 +1,1 @@
+lar[96860]=`<b>ᾶς (ἡ)</b> nid de guêpes, guêpier, SOPH. <i>fr. 856</i> ; EUR. <i>Cycl. 475</i> ; AR. <i>Vesp. 224, etc. ; fig</i>. PLUT. <i>M. 96b</i>.<p><b>Étym</b>. σφήξ.`

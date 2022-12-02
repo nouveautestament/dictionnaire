@@ -1,0 +1,1 @@
+lar[4880]=`<b>ας (ἡ)</b> l’Almôpie, <i>contrée de Macédoine,</i> THC. <i>2, 99</i>.`

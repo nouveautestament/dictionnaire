@@ -1,0 +1,1 @@
+lar[78826]=`<b>περί·κρημνος, ος, ον</b>, escarpé de tous côtés, PLUT. <i>Syll. 16</i> ; APP. <i>Lib. 95</i>.<p><b>Étym</b>. π. κρημνός.`

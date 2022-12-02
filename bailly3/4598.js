@@ -1,0 +1,1 @@
+lar[4598]=`<b>ἁλι·τύπος, ου (ὁ)</b> <font color="purple">[ᾰῐῠ]</font> pêcheur (qui frappe la mer de la rame) EUR. <i>Or. 373</i>.<p><b>Étym</b>. ἅ. τύπτω.`

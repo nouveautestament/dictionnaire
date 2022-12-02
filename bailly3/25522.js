@@ -1,0 +1,1 @@
+lar[25522]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> droit de manger à la table publique, <i>càd</i>. d’être nourri aux frais de l’État, HPC. <i>Ep. 1293</i>.<p><b>Étym</b>. διά, σῖτος.`

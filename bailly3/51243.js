@@ -1,0 +1,1 @@
+lar[51243]=`<b>καλλι·τράπεζος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a une table superbe, bien servie, AMIPS. <i>et</i> CALLIAS (ATH. <i>270f, 524f</i>).<p><b>Étym</b>. κ. τράπεζα.`

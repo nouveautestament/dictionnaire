@@ -1,0 +1,1 @@
+lar[72508]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> spectateur, PLUT. <i>Nic. 19</i>.<p><b>Étym</b>. ὁράω.`

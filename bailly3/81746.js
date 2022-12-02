@@ -1,0 +1,1 @@
+lar[81746]=`<b>πολυ·αχθής, ής, ές</b>, très pénible, funeste, cruel, Q. SM. <i>10, 38</i>.<p><b>Étym</b>. π. ἄχθος.`

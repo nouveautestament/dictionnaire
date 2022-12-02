@@ -1,0 +1,1 @@
+lar[51769]=`<b>α, ον</b>, des Carduques, XÉN. <i>An. 4, 1, 2</i>.<p><b>Étym</b>. <i>v</i>. Καρδοῦχοι.`

@@ -1,0 +1,1 @@
+lar[89559]=`<b>ῶν (οἱ)</b> les Samnites, <i>pple d’Italie,</i> PLUT. <i>Cato ma. 2 ; T. Gracch. 7, etc</i>.`

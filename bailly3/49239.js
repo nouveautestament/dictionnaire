@@ -1,0 +1,1 @@
+lar[49239]=`<b>ή, όν</b>, qui concerne le commandement d’un corps de cavalerie, qui convient à un commandant de cavalerie, XÉN. <i>Hipp. 5, 1</i>.<p><b>Étym</b>. ἵππαρχος.`

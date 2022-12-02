@@ -1,0 +1,1 @@
+lar[63176]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. μητρόθε.`

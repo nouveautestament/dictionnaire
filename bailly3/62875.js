@@ -1,0 +1,1 @@
+lar[62875]=`<b>μαραθρο·ειδής, ής, ές</b> <font color="purple">[μᾰ]</font> semblable à du fenouil, DIOSC. <i>3, 156</i>.<p><b>Étym</b>. μάραθρον, εἶδος.`

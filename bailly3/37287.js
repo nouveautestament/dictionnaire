@@ -1,0 +1,1 @@
+lar[37287]=`<b>οῦ</b>, <i>adj. m</i>. affable, bienveillant, OD. <i>13, 332, etc</i>.<p><b>Étym</b>. ἔπος.`

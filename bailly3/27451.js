@@ -1,0 +1,1 @@
+lar[27451]=`<b>δολο·κτασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> meurtre accompli par la trahison, A.RH. <i>4, 479</i>.<p><b>Étym</b>. δόλος, κτείνω.`

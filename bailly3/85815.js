@@ -1,0 +1,1 @@
+lar[85815]=`<i>adv</i>., avec continuité, <i>d’où</i> immédiatement, PORPH. <i>Isag. 2, 24</i>.<p><b>Étym</b>. προσεχής.`

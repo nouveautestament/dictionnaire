@@ -1,0 +1,1 @@
+lar[85600]=`<b>προσ·ενυβρίζω</b> <font color="purple">[ῠ]</font> insulter encore <i>ou</i> en outre, POL. <i>4, 4, 2</i>.`

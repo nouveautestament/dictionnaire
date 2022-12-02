@@ -1,0 +1,1 @@
+lar[106990]=`<b>ου (τὸ) :<br>      1</b> lieu élevé pour observer <i>ou</i> allumer les signaux de nuit, PLUT. <i>Pomp. 24</i>.<br><b>      2</b> phare, fanal, HDN <i>4, 2, 15</i>.<p><b>Étym</b>. φρυκτωρός.`

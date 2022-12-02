@@ -1,0 +1,1 @@
+lar[14865]=`<b>ἁρματ·ηλάτης, ου (ὁ)</b> <font color="purple">[μᾰᾰ]</font> conducteur d’un char, <i>litt</i>. qui pousse (les chevaux d’) un char, PD. <i>P. 5, 115</i> ; XÉN. <i>Cyr. 6, 1, 15</i> ; SOPH. <i>El. 700</i>.<p><b>Étym</b>. ἅρμα, ἐλαύνω.`

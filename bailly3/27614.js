@@ -1,0 +1,1 @@
+lar[27614]=`<b>άδος (ἡ)</b> Dorkas (<i>litt</i>. Gazelle) <i>n. de f</i>. LUC. <i>D. mer. 9</i> ; ANTH. <i>5, 182, 187</i> ; NT. <i>Ap. 9, 36, 39</i>.<p>➳ <i>Voc</i>. -άς, LUC. <i>D. mer. 9, 3</i>.<p><b>Étym</b>. δορκάς.`

@@ -1,0 +1,1 @@
+lar[41100]=`<b>ῆνος (ὁ) :<br>      1</b> roi, CALL. <i>Jov. 66</i>.<br><b>      2</b> prêtre d’Artémis, <i>à Éphèse,</i> PAUS. <i>8, 13, 1</i>.`

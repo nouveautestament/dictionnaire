@@ -1,0 +1,1 @@
+lar[70663]=`<i>adv</i>., nulle part, <i>IL</i>. 13.309 ; ApRhod. 4.1443.<p><b>Étym</b>. οὐ, πόθι.`

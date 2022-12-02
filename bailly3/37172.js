@@ -1,0 +1,1 @@
+lar[37172]=`<b>ἐπ·έσθω</b> <i>(seul. prés.) c</i>. ἐπεσθίω EPICH. <i>et</i> PHÉRÉCR. (ATH. <i>85d, 645a</i>) ; CALL. <i>Ep. 51</i>.`

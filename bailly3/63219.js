@@ -1,0 +1,1 @@
+lar[63219]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> fabrique de coutelas, de sabres, DÉM. <i>823, 11</i>.<p><b>Étym</b>. μαχαιροποιός.`

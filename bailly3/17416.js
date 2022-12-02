@@ -1,0 +1,1 @@
+lar[17416]=`<b>αὐτό·γλυφος, ος, ον</b> <font color="purple">[ῠ]</font> gravé de soi-même, PLUT. <i>M. 1156b</i>.<p><b>Étym</b>. αὐ. γλύφω.`

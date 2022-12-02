@@ -1,0 +1,1 @@
+lar[74318]=`<b>ας (ἡ)</b> action d’élever (<i>propr</i>. de nourrir) des enfants, PLAT. <i>Rsp. 465c, etc</i>.<p><b>Étym</b>. παιδοτρόφος.`

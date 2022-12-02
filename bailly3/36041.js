@@ -1,0 +1,1 @@
+lar[36041]=`<b>ἐξ·ιχνεύω</b>, suivre à la piste, <i>au pr</i>. POLYEN <i>4, 2, 16 ; fig</i>. rechercher avec soin, dépister, découvrir, <i>acc</i>. ESCHL. <i>Ag. 368</i> ; EUR. <i>Bacch. 352, 817</i> ; PLUT. <i>Pomp. 27</i>.`

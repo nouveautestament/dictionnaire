@@ -1,0 +1,1 @@
+lar[6086]=`<b>ἀμφι·γυήεις (ὁ)</b> muni de deux bras (<i>litt</i>. membres) robustes, <i>ép. d’Hèphæstos,</i> IL. <i>1, 607, etc</i>.<p><b>Étym</b>. ἀ. γυῖον ; <i>sel. d’autres,</i> boiteux des deux jambes, <i>de</i> ἀ. γυιός.`

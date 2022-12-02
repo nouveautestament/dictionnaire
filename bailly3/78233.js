@@ -1,0 +1,1 @@
+lar[78233]=`<i>adv</i>., avec confiance, avec assurance, D. CHR. <i>1, 383</i>.<p><b>Étym</b>. πέποιθα.`

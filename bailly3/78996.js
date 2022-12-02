@@ -1,0 +1,1 @@
+lar[78996]=`<b>περιοδο·νίκης, ου (ὁ)</b> <font color="purple">[νῑ]</font> vainqueur dans les quatre jeux (<i>v</i>. περίοδος) DC. <i>63, 8 ; cf. 10, 20</i> ; PHIL. <i>2, 438, 36</i>.<p><b>Étym</b>. περίοδος, νικάω.`

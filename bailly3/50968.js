@@ -1,0 +1,1 @@
+lar[50968]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> pêcheur à la ligne, ANTH. <i>6, 167</i>.<p><b>Étym</b>. κάλαμος.`

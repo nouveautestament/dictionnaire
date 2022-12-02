@@ -1,0 +1,1 @@
+lar[81738]=`<b>πολυ·αστράγαλος, ος, ον</b> <font color="purple">[ᾰγᾰ]</font> aux nœuds nombreux, ANTH. <i>6, 234</i>.`

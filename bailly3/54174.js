@@ -1,0 +1,1 @@
+lar[54174]=`<b>οῦ (ὁ)</b> qui accomplit, M. TYR. <i>85, 22 Dübn</i>.<p><b>Étym</b>. κατορθόω.`

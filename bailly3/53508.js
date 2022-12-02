@@ -1,0 +1,1 @@
+lar[53508]=`<b>κατα·σχάζω</b>, découper, TH. <i>C.P. 1, 17, 10 ; particul. t. de méd</i>. ouvrir (une veine, <i>etc</i>.) GAL. <i>19, 139</i> ; MOSCHION <i>Mul. pass. 24, p. 66 Dewez</i>.`

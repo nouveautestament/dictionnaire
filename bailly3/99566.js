@@ -1,0 +1,1 @@
+lar[99566]=`<b>ῆς (ἡ)</b> art de filer, <i>càd</i>. de prolonger une note, <i>t. de mus</i>. CLÉONIDE <i>Introd. harm. 14 ; cf</i>. A. QUINT. <i>p. 250, 32</i>.<p><b>Étym</b>. τείνω.`

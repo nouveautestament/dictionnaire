@@ -1,0 +1,1 @@
+lar[75673]=`<b>παρα·καίω</b> <font color="darkgreen">(<i>f</i>. -καύσω, <i>ao</i>. παρέκηα, <i>etc</i>.) :</font><br><b>      1</b> faire brûler à côté, PLUT. <i>M. 383d ; au pass</i>. HDT. <i>2, 130</i>.<br><b>      2</b> faire brûler par les bords <i>ou</i> sur le côté, HPC. <i>688, 33</i>.`

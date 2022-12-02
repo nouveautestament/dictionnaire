@@ -1,0 +1,1 @@
+lar[88947]=`<b>ῆς (ἡ)</b> <font color="purple">[ῡ]</font> rue, <i>plante,</i> NIC. <i>Al. 306 ; Th. 523</i>.<p><b>Étym</b>. <i>mot péloponn. p</i>. πήγανον.`

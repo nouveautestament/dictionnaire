@@ -1,0 +1,1 @@
+lar[15239]=`<b>ου (ὁ)</b> Artabazès, <i>n. de plus. rois d’Arménie,</i> PLUT. <i>Crass. 19, etc</i>.<p><b>Étym</b>. <i>cf</i>. Ἀρταουάσδης.`

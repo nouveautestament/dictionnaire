@@ -1,0 +1,1 @@
+lar[28561]=`<b>δυσ·κατάποτος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> difficile à boire, ARSTT. <i>Sens. 5, 10</i>.<p><b>Étym</b>. δ. καταπίνω.`

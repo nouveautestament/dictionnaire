@@ -1,0 +1,1 @@
+lar[97735]=`<i>ou</i> <b>Ταρτησός, οῦ (ὁ)</b> Tartèssos :<br><b>      1 (églmt. ἡ)</b> <i>anc. v. d’Espagne, à l’embouchure du Bétis,</i> HDT. <i>1, 163, etc.</i><br><b>      2</b> le fl. Bétis, ARSTT. <i>Mir. 135</i> ; STR. <i>148</i>.<p>➳ ἡ Τ. DP. <i>337</i>.`

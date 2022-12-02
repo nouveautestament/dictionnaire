@@ -1,0 +1,1 @@
+lar[63744]=`<b>(ὁ) :<br>      1</b> mois, IL. <i>19, 117</i> ; HÉS. <i>O. 555</i> ; PD. <i>N. 5, 82</i> ; HDT. <i>2, 82</i> ; PLAT. <i>Crat. 409c, etc.</i><br><b>      2</b> phase de la lune, CHRYSIPP. (STOB. <i>Ecl. 1, 556).</i><p><b>Étym</b>. <i>p</i>. *μένς, <i>de indo-europ</i>. *mēns, <i>v</i>. μήν².`

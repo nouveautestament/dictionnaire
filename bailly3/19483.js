@@ -1,0 +1,1 @@
+lar[19483]=`<i>ou</i> <b>βέκος (τὸ)</b> pain, <i>mot cypriote, sel</i>. HIPPON. <i>fr. 82 ; phrygien, sel</i>. HDT. <i>2, 2 ; postér. gén</i>. βέκους, ARSTD. <i>t. 2, 3</i>.<p><b>Étym</b>. <i>p.-ê. R. indo-europ</i>. *b<sup>h</sup>h₁g-, cuire.`

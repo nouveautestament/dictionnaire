@@ -1,0 +1,1 @@
+lar[32798]=`<b>(ὁ)</b> Héliée, <i>h</i>. DIOCL. (PLUT. <i>Qu. gr. 40</i>).`

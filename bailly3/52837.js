@@ -1,0 +1,1 @@
+lar[52837]=`<b>κατα·μήνιος, ος, ον</b>, de chaque mois : τὰ καταμήνια, HPC. <i>423, 53</i> ; ARSTT. <i>H.A. 3, 12, etc</i>. les menstrues.<p><b>Étym</b>. κ. μήν.`

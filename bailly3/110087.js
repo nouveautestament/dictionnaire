@@ -1,0 +1,1 @@
+lar[110087]=`<font color="darkgreen">(<i>inf. ao</i>. ὠβάξαι)</font> diviser en sections, PLUT. <i>Lyc. 6</i>.<p><b>Étym</b>. ὠβή.`

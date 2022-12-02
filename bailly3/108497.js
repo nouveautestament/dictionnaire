@@ -1,0 +1,1 @@
+lar[108497]=`<b>η, ον</b>, de neige, PTOL. (ATH. <i>375d</i>).<p><b>Étym</b>. χιών.`

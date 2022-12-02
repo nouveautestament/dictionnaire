@@ -1,0 +1,1 @@
+lar[1466]=`<i>ou</i> <b>ἄδμωες, ων (οἱ)</b> <i>sorte de soles,</i> OPP. <i>H. 3, 371</i>.`

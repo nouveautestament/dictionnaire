@@ -1,0 +1,1 @@
+lar[43863]=`<b>εὔ·ωνος, ος, ον</b>, à bon marché, à bas prix, DÉM. <i>255, 12 ; fig. en parl. d’amis,</i> XÉN. <i>Mem. 2, 10, 4 ; de la mort,</i> ANTH. <i>11, 169 ; cf</i>. POL. <i>4, 35, 15</i>.<p>•<i> Cp</i>. -ότερος, DÉM. <i>255, 12 ; ou</i> -έστερος, EPICH. (ATH. <i>424d</i>). <i>• Sup</i>. -ότατος, PLAT. <i>Euthyd. 304b</i>.<p><b>Étym</b>. εὖ, ὠνέομαι.`

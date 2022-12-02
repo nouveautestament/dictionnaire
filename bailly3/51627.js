@@ -1,0 +1,1 @@
+lar[51627]=`<b>ός, όν</b>, qui sent la fumée, de fumée, NIC. <i>Th. 54</i>.<p><b>Étym</b>. καπνός.`

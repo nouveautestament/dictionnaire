@@ -1,0 +1,1 @@
+lar[1096]=`<b>ἀγχόσε</b>, <i>adv</i>., près de, <i>avec mouv</i>. DYSC. <i>Adv. 607, 23</i>.<p><b>Étym</b>. <i>th</i>. ἀγχο-, <i>cf</i>. ἀγχοῦ, -σε.`

@@ -1,0 +1,1 @@
+lar[68565]=`<b>νη·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> qui calme <i>ou</i> fait cesser la douleur, OPP. <i>C. 2, 417</i>.<p><b>Étym</b>. νη-, πάθος.`

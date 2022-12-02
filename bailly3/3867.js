@@ -1,0 +1,1 @@
+lar[3867]=`<b>ἀκρο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῠᾰκ]</font> gardien <i>ou</i> commandant d’une citadelle, POL. <i>5, 50, 10</i>.`

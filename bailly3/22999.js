@@ -1,0 +1,1 @@
+lar[22999]=`<b>ου (ὁ)</b> Dæsias, <i>h</i>. ARCHIPP. (ATH. <i>424b</i>).`

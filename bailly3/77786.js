@@ -1,0 +1,1 @@
+lar[77786]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. de Pélias, EUR. <i>Med. 504, etc</i>.<p><b>Étym</b>. Πελίας.`

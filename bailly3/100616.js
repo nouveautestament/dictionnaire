@@ -1,0 +1,1 @@
+lar[100616]=`<b>τριχιάω-ῶ</b> <font color="purple">[ῐχ]</font><br><b>      1</b> souffrir du mal d’yeux appelé τριχίασις, GAL.<br><b>      2</b> avoir un abcès au sein (<i>v</i>. τριχίασις) ARSTT. <i>H.A. 7, 11, 1</i>.<br><b><i>Moy.</i></b> <i>c. à l’act</i>. 2, HPC. <i>p. 666, 31 conj</i>.<p><b>Étym</b>. θρίξ.`

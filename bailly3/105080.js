@@ -1,0 +1,1 @@
+lar[105080]=`<b>ας (ἡ) :<br>      1</b> parcimonie, économie, AR. <i>Nub. 835,</i> PLAT. <i>Rsp. 572c.</i><br><b>      2</b> fruit de l’économie, économies, AR. <i>Eccl. 750</i>.<p>➳ <i>Ion</i>. φειδωλίη, PÉRICT. (STOB.).<p><b>Étym</b>. φείδομαι.`

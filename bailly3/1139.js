@@ -1,0 +1,1 @@
+lar[1139]=`<b>ἀγωνο·θέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> agônothète, organisateur <i>ou</i> président des jeux publics, HDT. <i>6, 127</i> ; DÉM. <i>253 fin (décr</i>.).<br><b>      2</b> arbitre, juge, <i>en gén</i>. ESCHN. <i>79, 30</i>.<p><b>Étym</b>. ἀγών, τίθημι.`

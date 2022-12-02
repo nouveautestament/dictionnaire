@@ -1,0 +1,1 @@
+lar[44575]=`<i>ou</i> <b>ζήτρειον, ου (τὸ)</b> lieu de répression et de travail forcé pour les esclaves, <i>à Chios</i>, EUP. (PHOT. <i>p. 54</i>) ; THPP. COM. (EM. <i>411, 33</i>).`

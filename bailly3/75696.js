@@ -1,0 +1,1 @@
+lar[75696]=`<b>παρα·κατεσθίω</b> <font color="darkgreen">(<i>f</i>. -κατέδομαι, <i>ao.2</i> -κατέφαγον, <i>etc</i>.)</font> manger auprès de <i>ou</i> avec, <i>dat</i>. SOT. COM. (ATH. <i>368a</i>).`

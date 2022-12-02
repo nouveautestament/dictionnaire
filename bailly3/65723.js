@@ -1,0 +1,1 @@
+lar[65723]=`<b>μικροποιέω-ῶ</b> <font color="purple">[ῑ]</font> rendre petit, rapetisser, LGN <i>41</i>.<p><b>Étym</b>. μικροποιός.`

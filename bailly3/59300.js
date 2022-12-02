@@ -1,0 +1,1 @@
+lar[59300]=`<b>εως (ἡ) :<br>      1</b> surdité, HPC. <i>146h, 148h, 149d.</i><br><b>      2</b> hébétement, EROT. <i>p. 230</i>.<p><b>Étym</b>. κωφόω.`

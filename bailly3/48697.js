@@ -1,0 +1,1 @@
+lar[48697]=`<i>3 sg. sbj. prés. de</i> εἶμι, aller.`

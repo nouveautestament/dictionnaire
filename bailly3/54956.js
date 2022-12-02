@@ -1,0 +1,1 @@
+lar[54956]=`<b>κερκιδο·ποιϊκή, ῆς (ἡ)</b> <font color="purple">[ῐδ]</font> (<i>s.-e</i>. τέχνη) ARSTT. <i>Pol. 1, 5,</i> l’art de faire des navettes.<p><b>Étym</b>. κερκίς, ποιέω.`

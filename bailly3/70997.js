@@ -1,0 +1,1 @@
+lar[70997]=`<b>ὀλιγό·αιμος, ος, ον</b> <font color="purple">[ῐ]</font> <i>c</i>. ὀλίγαιμος, A. APHR. <i>Probl. 1, 103</i>.`

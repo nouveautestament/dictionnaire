@@ -1,0 +1,1 @@
+lar[104130]=`<b>ὑπο·φυσάω-ῶ</b> <font color="purple">[φῡ]</font> faire enfler par-dessous <i>ou</i> un peu, HIPPIATR. <i>p. 151, 19 ; au pass</i>. PHIL. <i>1, 339</i>.`

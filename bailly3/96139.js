@@ -1,0 +1,1 @@
+lar[96139]=`<b>συνοικουρέω-ῶ :<br>      1</b> vivre ensemble à la maison, DH. <i>8, 46</i> ; PLUT. <i>M. 769c ;</i> SYN. <i>Insomn. p. 145c.</i><br><b>      2</b> <i>fig</i>. être fixé solidement, PHIL. BYZ. <i>Bel. 23</i>.<p><b>Étym</b>. συνοίκουρος.`

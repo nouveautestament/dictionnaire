@@ -1,0 +1,1 @@
+lar[34455]=`<b>ἐν·ηδύνω</b> <font color="purple">[ῡ]</font> charmer, <i>acc</i>. LUC. <i>Philopatr. 3</i>.`

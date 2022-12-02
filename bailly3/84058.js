@@ -1,0 +1,1 @@
+lar[84058]=`<b>προ·εισπέμπω :<br>      1</b> envoyer en avant, <i>acc</i>. XÉN. <i>Cyr. 5, 2, 6</i>.<br><b>      2</b> introduire auparavant, <i>particul</i>. introduire avec pompe, <i>acc</i>. LUC. <i>Alex. 11</i>.`

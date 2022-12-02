@@ -1,0 +1,1 @@
+lar[57423]=`<i>adv</i>., par les cheveux, OD. <i>22, 188</i> ; A.RH. <i>4, 18</i>.<p><b>Étym</b>. κουρά.`

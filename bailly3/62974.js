@@ -1,0 +1,1 @@
+lar[62974]=`<b>η, ον</b> <font color="purple">[ᾰρῐ]</font> de marbre, THCR. <i>Epigr. 10, 2</i> ; ANTH. <i>7, 649, etc</i>.<p><b>Étym</b>. μάρμαρος.`

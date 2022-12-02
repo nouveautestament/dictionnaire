@@ -1,0 +1,1 @@
+lar[37487]=`<i>adv.</i> :<br><b>      1</b> en effleurant la surface, IL. <i>21, 166</i>.<br><b>      2</b> à la façon de lignes tracées, ORPH. <i>Lith. 399</i>.<p><b>Étym</b>. ἐπιγράφω.`

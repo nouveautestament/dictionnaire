@@ -1,0 +1,1 @@
+lar[19369]=`<b>ῖδος (ἡ)</b> <font color="purple">[ᾰᾰῑ]</font> petite grenouille, rainette, NIC. <i>Th. 416</i>.<p><b>Étym</b>. βάτραχος.`

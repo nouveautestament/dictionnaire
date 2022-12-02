@@ -1,0 +1,1 @@
+lar[60968]=`<font color="darkgreen">(<i>seul. ao. 3 sg. poét</i>. λίγξε)</font> résonner avec force, IL. <i>4, 125</i>.<p><b>Étym</b>. λιγύς.`

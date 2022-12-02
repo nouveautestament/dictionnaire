@@ -1,0 +1,1 @@
+lar[26424]=`<b>ῆρος (ὁ)</b> <font color="purple">[ῑθ]</font> qui dirige, <i>gén</i>. MAN. <i>4, 40</i>.<p><b>Étym</b>. διϊθύνω.`

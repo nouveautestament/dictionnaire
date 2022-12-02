@@ -1,0 +1,1 @@
+lar[32451]=`<font color="purple">[ᾱ]</font> <i>adv</i>., en forme d’olivier, ARR. <i>Epict. 2, 20, 18</i>.<p><b>Étym</b>. ἐλαία.`

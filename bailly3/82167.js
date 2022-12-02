@@ -1,0 +1,1 @@
+lar[82167]=`<b>πολυνοσέω-ῶ</b> <font color="purple">[ῠ]</font> être atteint de beaucoup de maladies, ORIG. <i>2, 1456a Migne</i>.<p><b>Étym</b>. πολύνοσος.`

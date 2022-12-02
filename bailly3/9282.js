@@ -1,0 +1,1 @@
+lar[9282]=`<i>adv</i>., différemment, THC. <i>1, 84</i> ; XÉN. <i>An. 7, 7, 49</i> ; PLAT. <i>Rsp. 388c</i>.`

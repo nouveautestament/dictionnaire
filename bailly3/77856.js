@@ -1,0 +1,1 @@
+lar[77856]=`<b>υκος (ὁ) :<br>      1</b> écuelle <i>ou</i> bassin de bois, ATH. <i>392b.</i><br><b>      2</b> hache, SPT. <i>Jer. 23, 29</i>.<p><b>Étym</b>. <i>cf</i>. πέλεκυς.`

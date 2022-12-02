@@ -1,0 +1,1 @@
+lar[11365]=`<font color="purple">[ῐ]</font> <i>adv</i>., immuablement, GAL. <i>4, 669</i>.`

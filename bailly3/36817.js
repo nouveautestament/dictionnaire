@@ -1,0 +1,1 @@
+lar[36817]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> secours, A.RH. <i>1, 302</i> ; τινος, LUC. <i>Alex. 28,</i> remède contre qqe ch.<p><b>Étym</b>. ἐπαρήγω.`

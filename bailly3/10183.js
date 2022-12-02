@@ -1,0 +1,1 @@
+lar[10183]=`<b>εως (ἡ)</b> exhortation en échange <i>ou</i> exhortation mutuelle, POL. <i>11, 12, 2</i>.<p><b>Étym</b>. ἀντιπαρακαλέω.`

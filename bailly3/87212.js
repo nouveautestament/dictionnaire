@@ -1,0 +1,1 @@
+lar[87212]=`<b>ας (ἡ)</b> première tonsure, SPT. <i>Tob. 1, 6</i>.<p><b>Étym</b>. πρωτόκουρος.`

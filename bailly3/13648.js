@@ -1,0 +1,1 @@
+lar[13648]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> usure par frottement, DÉM. <i>1215, 22</i>.<br><b>      2</b> <i>p. suite,</i> dommage (<i>cf. lat</i>. detrimentum) DC. <i>37, 31</i>.<p><b>Étym</b>. ἀποτρίβω.`

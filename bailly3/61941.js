@@ -1,0 +1,1 @@
+lar[61941]=`<b>α, ον</b> <font color="purple">[ῡ]</font> nuisible, funeste, ESCHL. <i>Pr. 991</i> ; τινος, ESCHL. <i>Ag. 1438,</i> pour qqn <i>ou</i> qqe ch.<p><b>Étym</b>. λυμαντήρ.`

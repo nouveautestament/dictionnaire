@@ -1,0 +1,1 @@
+lar[76273]=`<b>παρα·συνάγχη, ης (ἡ)</b> <font color="purple">[ῠ]</font> sorte d’esquinancie, GAL.`

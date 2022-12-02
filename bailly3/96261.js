@@ -1,0 +1,1 @@
+lar[96261]=`<b>ή, όν</b> <font color="purple">[μᾰ]</font> rangé en bon ordre, méthodique, GRAMM.<p><b>Étym</b>. σύνταγμα.`

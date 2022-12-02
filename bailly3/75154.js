@@ -1,0 +1,1 @@
+lar[75154]=`<i>adv</i>., de toutes ses forces, NAZ. <i>3, 408, 1123 Migne</i>.<p><b>Étym</b>. πανσθενής.`

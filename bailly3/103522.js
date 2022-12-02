@@ -1,0 +1,1 @@
+lar[103522]=`<b>ὕπ·ομβρος, ος, ον :<br>      1</b> quelque peu pluvieux <i>ou</i> humide, PLUT. <i>Cam. 3, M. 438a ;</i> GEOP. <i>1, 12, 21</i>.<br><b>      2</b> humide en dessous, GAL. <i>Lex. Hipp. 19, 149</i>.`

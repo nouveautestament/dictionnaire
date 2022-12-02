@@ -1,0 +1,1 @@
+lar[19849]=`<b>βλαισόομαι-οῦμαι</b> (<i>seul. pf. pass</i>.) avoir les pieds tournés en dehors, ARSTT. <i>H.A. 2, 1, 11 (3 sg</i>. ἐβλαίσωται, <i>var</i>. βεβλ-) ; GAL. <i>12, 433 (part</i>. βεβλαισωμένος).<p><b>Étym</b>. βλαισός.`

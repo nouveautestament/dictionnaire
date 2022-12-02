@@ -1,0 +1,1 @@
+lar[12279]=`<b>ας (ἡ)</b> manque de pieds, ARSTT. <i>P.A. 1, 3, 1, etc</i>.<p><b>Étym</b>. ἄπους.`

@@ -1,0 +1,1 @@
+lar[89516]=`<b>ων (τὰ)</b> <font color="purple">[σᾰνᾱ]</font> = <i>lat</i>. Saturnalia, les fêtes de Saturne, les Saturnales, ARR. <i>Epict. 1, 25, 8</i>.`

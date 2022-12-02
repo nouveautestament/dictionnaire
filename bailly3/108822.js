@@ -1,0 +1,1 @@
+lar[108822]=`<b>χοροι·τύπος, ος, ον</b> <font color="purple">[ῠ]</font> qui frappe (la terre) en chœur, qui danse en chœur, PD. <i>fr. 57</i> ; OPP. <i>H. 3, 250</i> ; NONN. <i>D. 44, 22 ; 45, 24, etc</i>.<p><b>Étym</b>. χ. τύπτω.`

@@ -1,0 +1,1 @@
+lar[56156]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> Klytia, <i>f</i>. THCR. <i>Idyl. 7, 5</i>.<p>➳ <i>Ion</i>. -ίη, HÉS. <i>Th. 352</i>.`

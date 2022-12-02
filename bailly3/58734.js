@@ -1,0 +1,1 @@
+lar[58734]=`<b>ου (τὸ)</b> <font color="purple">[ῠᾰ]</font> petit chien, petite chienne, XÉN. <i>Cyr. 8, 4, 20</i> ; PLAT. <i>Euthyd. 298 d et e ; t. injur</i>. ALC. COM. <i>2, 833</i>.<p><b>Étym</b>. <i>dim. de</i> κύων.`

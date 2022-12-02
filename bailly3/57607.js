@@ -1,0 +1,1 @@
+lar[57607]=`<b>κραταί·λεως, ως, ων</b> <font color="purple">[ᾰ]</font> aux grosses <i>ou</i> fortes pierres, rocailleux, ESCHL. <i>Ag. 666</i> ; EUR. <i>El. 534</i>.<p><b>Étym</b>. κράτος, λᾶς.`

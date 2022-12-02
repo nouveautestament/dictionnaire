@@ -1,0 +1,1 @@
+lar[107005]=`<b>υγός (ὁ)</b> <font color="purple">[ῠγ]</font> « le Phrygien », <i>n. d’esclave,</i> AR. <i>Vesp. 433</i>.<p><b>Étym</b>. <i>v</i>. Φρύξ ; <i>cf</i>. Φρυγία².`

@@ -1,0 +1,1 @@
+lar[104436]=`<b>ὑψ·αύχην, ενος (ὁ, ἡ) :<br>      1</b> qui porte le cou haut, qui redresse la tête, PLAT. <i>Phædr. 253d ; fig</i>. hautain, fier, ANTH. <i>5, 251 ; 9, 641, etc.</i><br><b>      2</b> <i>p. ext</i>. qui se dresse, haut, élevé, EUR. <i>Bacch. 1061</i> ; ANTH. <i>5, 135</i>.<p><b>Étym</b>. ὕ. αὐχήν.`

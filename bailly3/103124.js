@@ -1,0 +1,1 @@
+lar[103124]=`<b>ὑπο·δειμαίνω</b>, redouter un peu, <i>acc</i>. HDT. <i>7, 104 ; avec l’inf</i>. PLUT. <i>M. 986d</i>.`

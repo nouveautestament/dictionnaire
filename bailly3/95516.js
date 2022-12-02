@@ -1,0 +1,1 @@
+lar[95516]=`<b>συν·εξεγείρω</b>, exciter en même temps, POL. <i>4, 47, 3</i>.`

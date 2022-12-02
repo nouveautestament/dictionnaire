@@ -1,0 +1,1 @@
+lar[104499]=`<b>ὑψι·κόλωνος, ος, ον</b> <font color="purple">[ῐ]</font> placé sur une haute colline, OPP. <i>C. 4, 87</i>.<p><b>Étym</b>. ὕ. κολώνη.`

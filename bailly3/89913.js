@@ -1,0 +1,1 @@
+lar[89913]=`<font color="darkgreen">(<i>f</i>. σήσω, <i>ao</i>. ἔσησα, <i>pf</i>. σέσηκα ; <i>pass. ao</i>. ἐσήσθην <i>ou</i> ἐσήθην, <i>pf</i>. σέσησμαι <i>ou</i> σέσημαι)</font> passer au crible, tamiser, HPC. <i>614, 53 ; au pass</i>. HPC. <i>491, 1 ; 533, 44</i> ; ARÉT. <i>Cur. m. acut. 1, 4</i> ; DIOSC. <i>1, 83 ; 2, 208</i>.`

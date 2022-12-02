@@ -1,0 +1,1 @@
+lar[106882]=`<b>φρικιάω-ῶ</b> <font color="purple">[ῑκ]</font> <i>c</i>. φρικάζω, DIOSC. <i>Noth. p. 477</i>.`

@@ -1,0 +1,1 @@
+lar[74996]=`<b>παν·επ·όρφνιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se prolonge toute la nuit, ANTH. <i>5, 206</i>.<p><b>Étym</b>. π. ἐπί, ὄρφνη.`

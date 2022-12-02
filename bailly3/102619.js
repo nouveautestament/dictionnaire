@@ -1,0 +1,1 @@
+lar[102619]=`<b>ὑπερ·κτάομαι-ῶμαι</b>, acquérir en sus : πολύ τι κακῶν ὑπερεκτήσω, SOPH. <i>El. 217,</i> tu t’es attiré par ta faute bien des maux.`

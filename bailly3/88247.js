@@ -1,0 +1,1 @@
+lar[88247]=`<b>ῥακιο·συρραπτάδης, ου (ὁ)</b> <font color="purple">[ᾰκᾰδ]</font> rapetasseur <i>ou</i> ravaudeur de loques, AR. <i>Ran. 842</i>.<p><b>Étym</b>. ῥάκιον, συρράπτω.`

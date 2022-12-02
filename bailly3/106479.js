@@ -1,0 +1,1 @@
+lar[106479]=`<i>ou</i> <b>φνεῖ</b> « phni », <i>onomatopée pour imiter un reniflement,</i> AR. <i>fr. 702</i> ; LUC. <i>Lex. 19</i>.`

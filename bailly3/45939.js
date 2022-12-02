@@ -1,0 +1,1 @@
+lar[45939]=`<b>Ἥσαινον ὄρος (τὸ)</b> le mt Hèsænon, <i>en Péonie,</i> ARSTT. <i>Mir. 1</i>.`

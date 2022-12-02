@@ -1,0 +1,1 @@
+lar[100165]=`<b>τρι·γράμματος, ος, ον</b> <font color="purple">[μᾰ]</font> formé de trois lettres, EUST. <i>p. 1878, 59</i>.<p><b>Étym</b>. τρ. γράμμα.`

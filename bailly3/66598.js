@@ -1,0 +1,1 @@
+lar[66598]=`<b>*μονο·πάλης</b>, <i>ion</i>. <b>μουνο·πάλης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui lutte en combat singulier, EPIGR. (PAUS. <i>6, 4, 7).</i><p><b>Étym</b>. μόνος, πάλη.`

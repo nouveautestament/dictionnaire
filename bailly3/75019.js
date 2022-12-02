@@ -1,0 +1,1 @@
+lar[75019]=`<font color="purple">[ᾱ]</font> traiter comme fait Pan, <i>acc</i>. HÉRACLITE PARADOX. <i>Incred. 25</i>.<p><b>Étym</b>. Πάν.`

@@ -1,0 +1,1 @@
+lar[89420]=`<b>σαρκασμο·πιτυο·κάμπτης, ου (ὁ)</b> hâbleur dont les propos sont tellement extravagants qu’ils font courber les pins, AR. <i>Ran. 966</i>.<p><b>Étym</b>. σαρκασμός, πίτυς, κάμπτω.`

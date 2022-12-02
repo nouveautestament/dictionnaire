@@ -1,0 +1,1 @@
+lar[85506]=`<b>προσ·εισευπορέω-ῶ</b>, faire en outre des largesses de, <i>gén</i>. IS. (DH. <i>Is. 5</i>).`

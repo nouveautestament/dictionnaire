@@ -1,0 +1,1 @@
+lar[48080]=`<b>α, ον</b> <font color="purple">[ῠ]</font> qui concerne les sacrifices, T. TAUR. (SCH.-PD. <i>P. vol. 2, part. 1, p. 312 Böckh).</i><p><b>Étym</b>. θυσιάζω.`

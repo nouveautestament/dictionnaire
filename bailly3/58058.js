@@ -1,0 +1,1 @@
+lar[58058]=`<b>α, ον</b>, de Krommyôn, PLAT. <i>Lach. 106e ;</i> PLUT. <i>Thes. 9, etc</i>.<p><b>Étym</b>. Κρομμύων.`

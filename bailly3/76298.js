@@ -1,0 +1,1 @@
+lar[76298]=`<b>οῦ (ὁ)</b> <font color="purple">[μᾰ]</font> formation (d’un mot) par un léger changement, DYSC. <i>Synt. p. 50</i>.`

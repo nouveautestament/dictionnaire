@@ -1,0 +1,1 @@
+lar[28763]=`<b>δυσ·παραίτητος, ος, ον</b>, inexorable, ESCHL. <i>Pr. 34</i> ; POL. <i>31, 7, 13</i> ; PLUT. <i>Cato mi. 1, Fab. 9</i>.<p><b>Étym</b>. δ. παραιτέω.`

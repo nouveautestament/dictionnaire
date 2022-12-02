@@ -1,0 +1,1 @@
+lar[83648]=`<b>προ·αποκάμνω</b> <font color="darkgreen">(<i>ao.2</i> -απέκαμον, <i>etc</i>.)</font> se décourager d’avance de, <i>gén</i>. PLUT. <i>Mar. 36 ; ou abs</i>. PLAT. <i>Euthyphr. 11e</i>.`

@@ -1,0 +1,1 @@
+lar[69190]=`<font color="purple">[ᾰ]</font> <i>seul. au voc</i>. IL. <i>3, 130</i> ; OD. <i>4, 743, c</i>. νύμφη.`

@@ -1,0 +1,1 @@
+lar[42655]=`<b>εὐ·μέλανος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a beaucoup d’encre <i>ou</i> de l’encre bien noire (encrier) ANTH. <i>6, 295</i>.<p><b>Étym</b>. εὖ, μέλας.`

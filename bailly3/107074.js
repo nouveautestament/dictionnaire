@@ -1,0 +1,1 @@
+lar[107074]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> ce qu’on doit garder <i>ou</i> observer, précepte, commandement, SPT. <i>Leg. 8, 35 ; 22, 9, etc</i>.<p><b>Étym</b>. φυλάσσω.`

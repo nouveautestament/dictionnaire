@@ -1,0 +1,1 @@
+lar[109148]=`<b>α, ον</b> <font color="purple">[ῡ]</font> <i>éol. c</i>. χρύσεος, SAPPH. <i>fr. 1, 8 Bgk ; 5, 2 Bgk, etc</i>.`

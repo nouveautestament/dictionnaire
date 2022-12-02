@@ -1,0 +1,1 @@
+lar[79697]=`<b>περι·ψαύω</b>, tâter tout autour, explorer, <i>gén</i>. NIC. <i>Al. 122</i>.`

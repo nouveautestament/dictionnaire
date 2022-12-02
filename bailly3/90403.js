@@ -1,0 +1,1 @@
+lar[90403]=`<b>σινόω-ῶ</b> (<i>seul. prés. et f</i>. σινώσω) <font color="purple">[ῐ]</font> <i>c</i>. σίνομαι, MAN. <i>6, 552, 608, etc</i>.`

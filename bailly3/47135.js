@@ -1,0 +1,1 @@
+lar[47135]=`<b>Θηβα·γενής, ής, ές</b> <font color="purple">[ᾱ]</font> originaire de Thèbes, HÉS. <i>Th. 530</i> ; EUR. <i>Suppl. 137</i>.<p><b>Étym</b>. Θήβη, γίγνομαι.`

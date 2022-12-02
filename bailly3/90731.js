@@ -1,0 +1,1 @@
+lar[90731]=`<b>ης, ες</b>, semblable à un squelette, LUC. <i>Salt. 75</i>.<p><b>Étym</b>. σκελετός, -ωδης.`

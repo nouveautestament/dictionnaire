@@ -1,0 +1,1 @@
+lar[106991]=`<b>φρυκτ·ωρός, οῦ (ὁ) :<br>      1</b> sentinelle, chargée d’observer <i>ou</i> d’allumer les feux servant de signaux, THC. <i>8, 102</i>.<br><b>      2</b> signal par le feu, fanal. LYC. <i>345</i>.<p><b>Étym</b>. φρυκτός, οὖρος.`

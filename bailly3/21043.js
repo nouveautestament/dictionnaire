@@ -1,0 +1,1 @@
+lar[21043]=`<b>ου (ὁ)</b> (le mois delphien) Bysios = (le mois attique) Ἐλαφηβολιών, PLUT. <i>Qu. gr. 9</i>.`

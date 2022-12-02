@@ -1,0 +1,1 @@
+lar[5300]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰμ]</font> obscurcissement, PLUT. <i>Cæs. 69</i>.<p><b>Étym</b>. ἀμαυρόω.`

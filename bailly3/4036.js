@@ -1,0 +1,1 @@
+lar[4036]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾱ]</font> <i>ion. c</i>. ἀλαζονεία, SIB. <i>8, 32 dout</i>.`

@@ -1,0 +1,1 @@
+lar[85960]=`<b>προσ·καταξαίνω</b>, frotter contre, <i>rég. ind. au dat</i>. LYC. <i>173</i>.`

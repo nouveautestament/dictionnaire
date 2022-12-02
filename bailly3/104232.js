@@ -1,0 +1,1 @@
+lar[104232]=`<i>adv.</i> :<br><b>      1</b> à la renverse, PHILSTR. <i>692</i>.<br><b>      2</b> dans une attitude indolente, <i>fig</i>. avec négligence, PHIL. <i>1, 305</i>.<p><b>Étym</b>. ὕπτιος.`

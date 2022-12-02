@@ -1,0 +1,1 @@
+lar[74529]=`<b>παλίμ·πηξις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> l’action de raccommoder, TH. <i>Char. 22</i>.<p><b>Étym</b>. π. πήγνυμι.`

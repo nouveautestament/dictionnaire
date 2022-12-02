@@ -1,0 +1,1 @@
+lar[45668]=`<b>ας (ἡ) :<br>      1</b> action de tenir les rênes, de conduire un char, PLAT. <i>Gorg. 516e ; au pl</i>. PLAT. <i>Leg. 795a ;</i> HDN <i>1, 13, 17</i>.<br><b>      2</b> <i>fig</i>. action de diriger, PLUT. <i>M. 966f</i>.<p><b>Étym</b>. ἡνιοχεύω.`

@@ -1,0 +1,1 @@
+lar[96366]=`<b>συν·τρέπω</b>, faire tourner ensemble <i>ou</i> en même temps, <i>fig</i>. JAMBL. <i>Myst. 6, 4</i> ; ARÉT. <i>Caus. m. diut. 1, 5 ; d’où au pass</i>. tourner, changer, se modifier avec, M. ANT. <i>10, 24</i> ; ARÉT. <i>Caus. m. diut. 1, 5</i>.`

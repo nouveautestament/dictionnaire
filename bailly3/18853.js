@@ -1,0 +1,1 @@
+lar[18853]=`<b>ου (ὁ)</b> bétyle, pierre tombée du ciel et regardée comme sacrée, DAMASC. (PHOT. <i>Bibl. 348, 28</i>).`

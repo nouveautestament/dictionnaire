@@ -1,0 +1,1 @@
+lar[76489]=`<b>εως (ἡ)</b> action de toucher légèrement, d’effleurer, PLUT. <i>M. 588e</i>.<p><b>Étym</b>. παραψαύω.`

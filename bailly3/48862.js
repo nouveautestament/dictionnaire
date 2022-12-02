@@ -1,0 +1,1 @@
+lar[48862]=`<b>ας</b> <font color="purple">[ῐᾰει, <i>sel. d’autres,</i> ῑᾱει]</font> bienfaisante, <i>ép. de la Lune,</i> EMPÉD. <i>243 Mullach</i> (PLUT. <i>M. 920).</i><p><b>Étym</b>. ἵλαος.`

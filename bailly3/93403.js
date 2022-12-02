@@ -1,0 +1,1 @@
+lar[93403]=`<b>συγ·κατέχω</b> <font color="darkgreen">(<i>f</i>. -καθέξω, <i>ao.2</i> -κατέσχον, <i>etc</i>.)</font> contenir ensemble, embrasser, PLAT. <i>Crat. 404a</i>.`

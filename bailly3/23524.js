@@ -1,0 +1,1 @@
+lar[23524]=`<b>ας (ἡ)</b> lâcheté, pusillanimité, THC. <i>1, 112</i> ; SOPH. <i>O.R. 536 ; p. opp. à</i> ἀνδρία (courage), PLAT. <i>Tim. 87a ; à</i> θρασύτης (hardiesse), PLAT. <i>Leg. 648b</i>.<p><b>Étym</b>. δειλός.`

@@ -1,0 +1,1 @@
+lar[48539]=`<b>ης, ες</b> <font color="purple">[ῐᾱ]</font> semblable à l’épervier, au faucon, EUN. (PHOT. <i>Bibl. 54, 14).</i><p><b>Étym</b>. ἱέραξ, -ωδης.`

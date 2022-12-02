@@ -1,0 +1,1 @@
+lar[10298]=`<b>ἀντι·πολεμέω-ῶ</b>, faire la guerre contre, THC. <i>3, 39 ; dat</i>. XÉN. <i>Cyr. 7, 2, 24</i> ; PLAT. <i>Criti. 112e ; acc</i>. SPT. <i>Esaï. 41, 12</i>.`

@@ -1,0 +1,1 @@
+lar[34166]=`<b>ἐν·διαθρύπτομαι</b> <font color="purple">[ᾰ]</font> faire le dédaigneux envers, <i>dat</i>. THCR. <i>Idyl. 3, 36</i>.`

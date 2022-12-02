@@ -1,0 +1,1 @@
+lar[95352]=`<b>συν·εκκάμνω</b>, élaborer en même temps, THÉM. <i>42b</i>.`

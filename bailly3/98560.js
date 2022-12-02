@@ -1,0 +1,1 @@
+lar[98560]=`<b>τετρα·έλικτος, ος, ον</b> <font color="purple">[ᾰ]</font> roulé quatre fois sur soi-même, ANTH. <i>7, 210</i>.<p><b>Étym</b>. τ. ἑλίσσω.`

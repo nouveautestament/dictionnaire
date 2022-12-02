@@ -1,0 +1,1 @@
+lar[68952]=`<b>ας (ἡ)</b> <font color="purple">[ῠᾰκ]</font> charge de gardien des lois, PLAT. <i>Leg. 961a ;</i> ARSTT. <i>Pol. 6, 8</i>.<p><b>Étym</b>. νομοφύλαξ.`

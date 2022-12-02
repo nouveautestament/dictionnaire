@@ -1,0 +1,1 @@
+lar[75022]=`<b>παν·ηγέμων, ονος (ὁ)</b> <font color="purple">[ᾰ]</font> chef de tous, chef suprême, PHIL. <i>1, 227</i>.`

@@ -1,0 +1,1 @@
+lar[3875]=`<b>οῦ (ὁ)</b> lutte avec les mains (<i>non</i> à bras le corps) LUC. <i>Lex. 5</i>.<p><b>Étym</b>. ἀκροχειρίζω.`

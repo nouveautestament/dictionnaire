@@ -1,0 +1,1 @@
+lar[56293]=`<b>ου (ἡ)</b> <font color="purple">[ῐ]</font> Knidos (Cnide, <i>auj</i>. ruines près de Yazıköy) <i>v. de Carie,</i> HH. <i>Ap. 43</i> ; HDT. <i>1, 144, etc.</i> ; ESCHL. <i>Pers. 891</i> ; THC. <i>8, 36, etc.</i> ; XÉN. <i>Hell. 4, 3, 12, etc</i>.`

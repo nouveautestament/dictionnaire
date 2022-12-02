@@ -1,0 +1,1 @@
+lar[91136]=`<b>ου (ὁ)</b> qui habite les lieux élevés, <i>ép. de Pan,</i> ANTH. <i>6, 16, 34 et 109</i>.<p><b>Étym</b>. σκοπιά.`

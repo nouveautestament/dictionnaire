@@ -1,0 +1,1 @@
+lar[73051]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> sorte de danse crétoise, ATH. <i>629c</i>.<p><b>Étym</b>. ὄρνυμι.`

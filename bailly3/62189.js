@@ -1,0 +1,1 @@
+lar[62189]=`<b>λωτο·ειδής, ής, ές</b>, qui ressemble au lotus, TH. <i>H.P. 4, 2, 12</i>.<p><b>Étym</b>. λωτός, εἶδος.`

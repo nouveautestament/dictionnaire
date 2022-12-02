@@ -1,0 +1,1 @@
+lar[92967]=`<b>ου (ὁ)</b> Strœbos, <i>h</i>. THC. <i>1, 105</i> ; ANTH. <i>6, 144</i> ; HERMIPP. (PLUT. <i>Alex. 54</i>).`

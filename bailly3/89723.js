@@ -1,0 +1,1 @@
+lar[89723]=`être du parti de Séleukos, POLYEN <i>8, 57</i>.<p><b>Étym</b>. Σέλευκος.`

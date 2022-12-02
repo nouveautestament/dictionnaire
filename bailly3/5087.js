@@ -1,0 +1,1 @@
+lar[5087]=`<b>ἀλφό·ρυγχος, ος, ον</b>, au museau blanc, HIPPIATR. <i>53, 15</i>.<p><b>Étym</b>. ἀ. ῥύγχος.`

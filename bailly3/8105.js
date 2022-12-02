@@ -1,0 +1,1 @@
+lar[8105]=`<b>ἀνδρό·παις, αιδος (ὁ)</b> enfant aux sentiments virils, ESCHL. <i>Sept. 533</i> ; SOPH. <i>fr. 551</i>.<p><b>Étym</b>. ἀνήρ, παῖς.`

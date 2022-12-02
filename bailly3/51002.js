@@ -1,0 +1,1 @@
+lar[51002]=`<b>καλαμό·φθογγος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> joué sur le chalumeau, AR. <i>Ran. 230</i>.<p><b>Étym</b>. κ. φθέγγω.`

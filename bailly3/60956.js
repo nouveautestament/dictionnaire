@@ -1,0 +1,1 @@
+lar[60956]=`<b>ου (τὸ)</b> médicament préparé avec la livèche, A. TR. <i>9, 156 ; 18, 566</i>.<p><b>Étym</b>. λιβυστικόν, <i>v</i>. Λιβυστικός.`

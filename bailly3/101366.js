@@ -1,0 +1,1 @@
+lar[101366]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> propre à guérir, ARSTT. <i>Phys. 8, 5, 14, etc</i>.<p><b>Étym</b>. ὑγιαίνω.`

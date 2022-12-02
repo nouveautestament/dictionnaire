@@ -1,0 +1,1 @@
+lar[93682]=`<b>ου</b>, <i>adj. m</i>. de Syènè, PLUT. <i>Is. et Os. 7</i> ; Σ. λίθος, DS. <i>1, 47,</i> pierre de Syènè, <i>sorte de granit rouge</i>.<p><b>Étym</b>. Συήνη.`

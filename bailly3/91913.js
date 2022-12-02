@@ -1,0 +1,1 @@
+lar[91913]=`<b>ηρος (ὁ)</b> Spinther, <i>h</i>. ANTH. <i>6, 306, etc</i>.`

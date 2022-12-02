@@ -1,0 +1,1 @@
+lar[17133]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> présomptueux, arrogant, AR. <i>Lys. 1116</i>.<p><b>Étym</b>. αὐθάδης.`

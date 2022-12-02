@@ -1,0 +1,1 @@
+lar[81972]=`<b>πολυ·κέλαδος, ος, ον</b> <font color="purple">[ῠᾰ]</font> très bruyant, retentissant, LUC. <i>Trag. 118</i>.`

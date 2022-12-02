@@ -1,0 +1,1 @@
+lar[41836]=`<b>εὔ·δειπνος, ος, ον :<br>      1</b> honoré par un repas de funérailles somptueux, ESCHL. <i>Ch. 484</i>.<br><b>      2</b> composé de mets somptueux, EUR. <i>Med. 200</i>.<p><b>Étym</b>. εὖ, δεῖπνον.`

@@ -1,0 +1,1 @@
+lar[33581]=`<b>ἐμ·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> un peu couleur de pourpre, DIOSC. <i>1, 10 et 29 ; 3, 114</i>.<p><b>Étym</b>. ἐν, πορφύρα.`

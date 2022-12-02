@@ -1,0 +1,1 @@
+lar[8403]=`<b>ἀν·επαιτίατος, ος, ον</b> <font color="purple">[ιᾱ]</font> non accusé, sans reproche, JOS. <i>A.J. 4, 8, 38</i>.<p><b>Étym</b>. ἀν-, ἐπαιτιάομαι.`

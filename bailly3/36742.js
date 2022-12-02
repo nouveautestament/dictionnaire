@@ -1,0 +1,1 @@
+lar[36742]=`<b>ἐπ·αοιδή, ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> <i>poét. et ion. c</i>. ἐπῳδή, incantation, OD. <i>19, 457</i> ; PD. <i>P. 3, 51 ; 4, 217</i> ; HDT. <i>1, 132, etc</i>.<p><b>Étym</b>. ἐπί, ἀοιδή, <i>cf</i>. ἐπῳδή.`

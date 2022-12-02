@@ -1,0 +1,1 @@
+lar[97966]=`<b>η, ον</b>, <i>part. pf. pass. ion. de</i> θάλλω.`

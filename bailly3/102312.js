@@ -1,0 +1,1 @@
+lar[102312]=`<i>adv</i>., avec abus <i>ou</i> exagération d’atticisme, LUC. <i>Demon. 26</i>.`

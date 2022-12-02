@@ -1,0 +1,1 @@
+lar[17705]=`<b>αὐτο·σύμμετρος, ος, ον</b>, symétrique en soi, <i>càd</i>. d’une symétrie idéale, ARSTT. <i>fr. 182</i>.`

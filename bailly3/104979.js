@@ -1,0 +1,1 @@
+lar[104979]=`<b>ιδος (ἡ)</b> Phasis, <i>v. à l’embouchure du Phase,</i> ARSTT. <i>H.A. 3, 21, etc</i>.<p><b>Étym</b>. <i>cf</i>. Φᾶσις.`

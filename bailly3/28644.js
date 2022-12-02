@@ -1,0 +1,1 @@
+lar[28644]=`<b>δυσ·μείλικτος, ος, ον</b>, difficile à adoucir (<i>litt</i>. à emmieller) PLUT. <i>Artax. 19, M. 553a</i>.<p><b>Étym</b>. δ. μειλίσσω.`

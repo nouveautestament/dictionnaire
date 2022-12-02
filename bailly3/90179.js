@@ -1,0 +1,1 @@
+lar[90179]=`<b>σιδηρο·φόρος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui produit du fer, A.RH. <i>2, 141</i>.<br><b>      2</b> fait de fer, NONN. <i>Jo. 18, 5 etc.</i><br><b>      3</b> qui porte <i>ou</i> tient du fer, <i>càd</i>. des armes, <i>d’où</i> armé, NONN. <i>D. 46, 2</i> ; ANTH. <i>8, 203</i>.<p><b>Étym</b>. σ. φέρω.`

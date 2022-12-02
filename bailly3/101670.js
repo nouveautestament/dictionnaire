@@ -1,0 +1,1 @@
+lar[101670]=`<b>ων (τὰ)</b> Hykkares (<i>auj</i>. Carini) <i>v. de Sicile,</i> THC. <i>6, 62</i> ; PLUT. <i>Alc. 39, Nic. 15</i>.`

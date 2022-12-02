@@ -1,0 +1,1 @@
+lar[28670]=`<b>δυσμηχανέω-ῶ</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>. -ῶ) être malheureusement empêché de, <i>inf</i>. ESCHL. <i>Ag. 1360</i>.<p><b>Étym</b>. δυσμήχανος.`

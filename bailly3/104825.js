@@ -1,0 +1,1 @@
+lar[104825]=`<b>Φανό·μαχος, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> Phanomakhos, <i>h</i>. THC. <i>2, 70</i> ; LUC. <i>Nav. 27</i>.<p><b>Étym</b>. φ. μάχη.`

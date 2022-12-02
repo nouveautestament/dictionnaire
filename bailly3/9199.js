@@ -1,0 +1,1 @@
+lar[9199]=`<b>ἀν·οιδαίνω :<br>      1 <i>tr.</i></b> gonfler, PLOT. <i>449d.</i><br><b>      2 <i>intr.</i></b> se gonfler, NIC. (ATH. <i>126c</i>).<br><b><i>Moy.</i></b> <font color="darkgreen">(<i>impf. poét</i>. ἀνοιδαινόμην)</font> être gonflé, se gonfler, CHRIST. <i>Ecphr. 234</i>.<p><b>Étym</b>. ἀνά, οἰ.`

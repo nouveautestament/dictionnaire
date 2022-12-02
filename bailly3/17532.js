@@ -1,0 +1,1 @@
+lar[17532]=`<b>αὐτό·κρανος, ος, ον</b> <font color="purple">[ᾱ]</font> qui s’accomplit de soi-même <i>ou</i> naturellement, ESCHL. <i>fr. 429</i>.<p><b>Étym</b>. αὐ. κραίνω.`

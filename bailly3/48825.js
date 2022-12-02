@@ -1,0 +1,1 @@
+lar[48825]=`<b>ης (ἡ)</b> sorte de plante qui croît dans les lieux humides, TH. <i>H.P. 4, 10, 1</i>.<p><b>Étym</b>. ἰκμάς.`

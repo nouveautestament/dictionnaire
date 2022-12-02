@@ -1,0 +1,1 @@
+lar[2289]=`<b>ου</b>, <i>adj. m</i>. resplendissant, <i>ép. d’Apollon,</i> A.RH. <i>4, 1716</i> ; APD. <i>1, 9</i>.<p><b>Étym</b>. αἴγλη.`

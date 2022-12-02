@@ -1,0 +1,1 @@
+lar[51558]=`<font color="darkgreen">(<i>ao</i>. ἐκανόνισα)</font> régler, <i>d’où</i> :<br><b>      1</b> soumettre à une règle, ARSTT. <i>Nic. 2, 3</i> ; LUC. <i>H. conscr. 9</i>.<br><b>      2</b> mesurer <i>ou</i> juger d’après une règle, LGN <i>16, 4</i>.<p><b>Étym</b>. κανών.`

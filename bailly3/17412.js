@@ -1,0 +1,1 @@
+lar[17412]=`<b>αὐτο·γέννητος, ος, ον</b>, né du propre sein (de qqn), <i>seul. dans</i> : αὐτογέννητα κοιμήματα ματρός, SOPH. <i>Ant. 864,</i> commerce d’une mère (Jocaste) avec son propre enfant.<p><b>Étym</b>. αὐ. γεννάω.`

@@ -1,0 +1,1 @@
+lar[42123]=`<b>ας (ἡ)</b> bon vent, vent favorable, LUC. <i>Lex. 15</i>.<p><b>Étym</b>. εὐήνεμος.`

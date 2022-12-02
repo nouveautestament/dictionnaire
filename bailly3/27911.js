@@ -1,0 +1,1 @@
+lar[27911]=`<b>ου (ὁ)</b> Drimylos, <i>h</i>. LUC. <i>Gall. 14</i>.<p><b>Étym</b>. δριμύλος.`

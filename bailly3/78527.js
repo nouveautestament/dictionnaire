@@ -1,0 +1,1 @@
+lar[78527]=`<b>περι·δήριτος, ος, ον</b> <font color="purple">[ρῑ]</font> pour lequel on combat, difficile, ANTH. <i>5, 219</i>.<p><b>Étym</b>. π. δηρέομαι.`

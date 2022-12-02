@@ -1,0 +1,1 @@
+lar[104107]=`<b>ὑπο·φθονέω-ῶ</b> être un peu <i>ou</i> secrètement jaloux de, <i>dat</i>. XÉN. <i>Hell. 3, 2, 13 ; Cyr. 4, 1, 13</i>.`

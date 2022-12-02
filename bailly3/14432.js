@@ -1,0 +1,1 @@
+lar[14432]=`<b>ονος (ὁ)</b> <font color="purple">[ᾰ]</font> Areiôn :<br><b>      1</b> <i>cheval d’Adrastos,</i> IL. <i>23, 346</i>.<br><b>      2</b> <i>cheval d’Hèraklès,</i> HÉS. <i>Sc. 120</i>.<p><b>Étym</b>. ἀρείων.`

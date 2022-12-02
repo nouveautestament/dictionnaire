@@ -1,0 +1,1 @@
+lar[85077]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰγ]</font> parole qu’on adresse à qqn, DH. <i>Rhet. 5, 1</i>.<p><b>Étym</b>. προσαγορεύω.`

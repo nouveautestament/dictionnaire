@@ -1,0 +1,1 @@
+lar[83692]=`<b>προ·αποτέμνω</b>, couper auparavant, DC. <i>59, 10</i>.`

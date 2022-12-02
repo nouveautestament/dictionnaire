@@ -1,0 +1,1 @@
+lar[84756]=`<b>προ·μυλλαίνω</b>, avancer <i>ou</i> allonger les lèvres, HPC. <i>V. med. 17</i>.`

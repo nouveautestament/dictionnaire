@@ -1,0 +1,1 @@
+lar[101559]=`<b>ὑδρο·μέτριον, ου (τὸ)</b> vase rempli d’eau pour mesurer le volume d’un corps, THÉON 2 <i>Ptol. 5, p. 261</i>.<p><b>Étym</b>. ὕδ. μέτρον.`

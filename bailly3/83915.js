@@ -1,0 +1,1 @@
+lar[83915]=`<b>προ·διαθερμαίνω</b>, faire d’abord chauffer à fond, GAL. <i>7, 77</i>.`

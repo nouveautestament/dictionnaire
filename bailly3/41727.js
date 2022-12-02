@@ -1,0 +1,1 @@
+lar[41727]=`<b>ας (ἡ)</b> bon conseil, prudence, ESCHL. <i>Pr. 1035, 1038</i> ; SOPH. <i>Ant. 1050</i> ; THC. <i>1, 78</i> ; PLAT. <i>Prot. 318e, etc</i>.<p><b>Étym</b>. εὔβουλος.`

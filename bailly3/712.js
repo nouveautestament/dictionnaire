@@ -1,0 +1,1 @@
+lar[712]=`<b>ἀγλαό·πηχυς, υς, υ</b>, <i>gén</i>. <b>εος</b>, aux bras splendides, NONN. <i>D. 32, 80</i>.<p><b>Étym</b>. ἀ. πῆχυς.`

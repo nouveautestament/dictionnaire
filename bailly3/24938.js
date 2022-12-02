@@ -1,0 +1,1 @@
+lar[24938]=`<b>      1</b> il faut distinguer, <i>acc</i>. PLAT. <i>Pol. 258b ;</i> δ. ὡς, ARSTT. <i>Pol. 4, 4, 5</i>, il faut distinguer en ce que.<br><b>      2</b> il faut discuter, POL. <i>6, 44, 1</i>.<p><b>Étym</b>. <i>vb. de</i> διαλαμβάνω.`

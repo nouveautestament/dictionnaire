@@ -1,0 +1,1 @@
+lar[6370]=`<b>ἀμφι·στέλλομαι</b> <font color="darkgreen">(<i>part. ao. fém</i>. -στειλαμένη)</font> se revêtir de, <i>acc</i>. THCR. <i>Idyl. 2, 74</i>.`

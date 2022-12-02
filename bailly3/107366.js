@@ -1,0 +1,1 @@
+lar[107366]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Phôkritos, <i>h</i>. DÉM. <i>Or. 83, 14 Baiter-Sauppe, etc.</i> ; ANTH. <i>13, 18</i>.`

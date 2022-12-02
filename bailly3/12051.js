@@ -1,0 +1,1 @@
+lar[12051]=`<b>ἀ·πλήρωτος, ος, ον</b>, insatiable, ANTH. <i>App. 122</i> ; LUC. <i>M. cond. 39 ; avec le gén</i>. PLUT. <i>M. 524b</i>.<p><b>Étym</b>. ἀ, πληρόω.`

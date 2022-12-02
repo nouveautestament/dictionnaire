@@ -1,0 +1,1 @@
+lar[90071]=`<b>σιαλοχοέω-οῶ</b> <font color="purple">[ᾰ]</font> répandre de la salive, HPC. <i>357, 34</i>.<p><b>Étym</b>. σιαλοχόος.`

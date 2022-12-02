@@ -1,0 +1,1 @@
+lar[91052]=`<b>σκληρο·φυής, ής, ές</b>, d’une nature dure, XÉNOCR. <i>Al. 13</i>.<p><b>Étym</b>. σκλ. φύω.`

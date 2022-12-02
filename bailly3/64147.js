@@ -1,0 +1,1 @@
+lar[64147]=`<b>μελί·χρυσος, ος, ον</b> <font color="purple">[ῡ]</font> doré comme le miel, OPP. <i>C. 1, 314</i>.<p><b>Étym</b>. μ. χρυσός.`

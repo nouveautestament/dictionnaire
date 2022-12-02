@@ -1,0 +1,1 @@
+lar[73616]=`<b>ων (οἱ)</b> = <i>lat</i>. Volsci, les Volsques, <i>pple du Latium,</i> PLUT. <i>Cor. 8, etc</i>.`

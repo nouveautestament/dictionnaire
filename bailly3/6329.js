@@ -1,0 +1,1 @@
+lar[6329]=`<b>Ἀμφί·πολις, εως (ἡ)</b> Amphipolis, <i>v. de Thrace,</i> THC. <i>4, 102</i> ; XÉN. <i>Hell. 4, 3, 1, etc</i>.<p><b>Étym</b>. ἀμφίπολις.`

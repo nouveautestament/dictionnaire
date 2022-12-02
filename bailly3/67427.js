@@ -1,0 +1,1 @@
+lar[67427]=`<b>μυσ·τήριον, ου (τὸ)</b> <i>jeu de mots de Denys de Syracuse,</i> chasse aux rats, aux souris, ATH. <i>98c</i>.<p><b>Étym</b>. μῦς, τηρέω.`

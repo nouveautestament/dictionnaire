@@ -1,0 +1,1 @@
+lar[105266]=`<i>adv</i>., de façon à détruire, ARSTT. <i>Top. 7, 3, 7</i>.`

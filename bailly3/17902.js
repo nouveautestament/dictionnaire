@@ -1,0 +1,1 @@
+lar[17902]=`<b>α, ον</b>, plus rapide, plus agile, IL. <i>23, 311</i>.<p><b>Étym</b>. <i>compar. de</i> ἄφαρ.`

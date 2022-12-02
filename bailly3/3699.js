@@ -1,0 +1,1 @@
+lar[3699]=`<b>ἀκριβο·δίκαιος, ος, ον</b> <font color="purple">[ῑῐ]</font> d’une justice rigoureuse, ARSTT. <i>Nic. 5, 10, 8</i>.<p><b>Étym</b>. ἀκριβής, δ.`

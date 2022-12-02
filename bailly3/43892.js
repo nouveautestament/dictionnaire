@@ -1,0 +1,1 @@
+lar[43892]=`<b>ἔφ·αλμος, ος, ον</b>, conservé dans la saumure, PLUT. <i>M. 687d</i>.<p><b>Étym</b>. ἐπί, ἅλμη.`

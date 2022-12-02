@@ -1,0 +1,1 @@
+lar[102748]=`<b>ὑπερ·περκάζω</b>, devenir tout à fait noir <i>ou</i> foncé, <i>en parl. de fruits qui mûrissent,</i> EUM. <i>7, 4</i>.`

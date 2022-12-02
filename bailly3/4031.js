@@ -1,0 +1,1 @@
+lar[4031]=`<i>ou</i> <b>Ἀλαζίρ (ὁ)</b> Alazeir <i>ou</i> Alazir, <i>roi de Libye,</i> HDT. <i>4, 164</i>.`

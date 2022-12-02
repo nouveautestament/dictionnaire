@@ -1,0 +1,1 @@
+lar[1144]=`<b>ἀ·δαγμός, οῦ (ὁ)</b> <font color="purple">[ᾰδ]</font> morsure, déchirure, SOPH. <i>Tr. 767</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

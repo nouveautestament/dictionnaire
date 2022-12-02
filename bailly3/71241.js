@@ -1,0 +1,1 @@
+lar[71241]=`<b>ων (οἱ)</b> habitants d’Olophyxos, AR. <i>Av. 1042</i>.<p><b>Étym</b>. Ὀλόφυξος.`

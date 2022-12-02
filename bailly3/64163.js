@@ -1,0 +1,1 @@
+lar[64163]=`<b>ή, όν</b>, enclin à remettre, à différer, CLÉM. <i>1, 649 Migne</i>.<p><b>Étym</b>. μέλλω.`

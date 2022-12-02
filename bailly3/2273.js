@@ -1,0 +1,1 @@
+lar[2273]=`<b>αἰγι·πόδης, ου (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. αἰγίπους HH. <i>Pan 2</i>.`

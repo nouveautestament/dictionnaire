@@ -1,0 +1,1 @@
+lar[68970]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Norbanus, <i>n. d’h. rom</i>. PLUT. <i>Syll. 27, Brut. 38</i>.`

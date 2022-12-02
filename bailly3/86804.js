@@ -1,0 +1,1 @@
+lar[86804]=`<b>ου (ὁ)</b> étai, câble qui relie le mât à la proue et sert à le maintenir <i>ou</i> à le baisser, ESCHL. <i>Ag. 897</i> ; LUC. <i>Nav. 5 ; au pl</i>. IL. <i>1, 434</i> ; OD. <i>2, 425, etc. ; fig. en parl. des cheveux blancs d’une vieille femme par comparaison avec les cordages d’un vaisseau hors de service,</i> ANTH. <i>5, 204</i>.<p><b>Étym</b>. προτείνω.`

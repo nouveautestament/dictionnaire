@@ -1,0 +1,1 @@
+lar[30643]=`<i>adv</i>., avec une feinte ignorance, PLAT. <i>Conv. 218d, etc.</i> ; AR. <i>Vesp. 174</i>.`

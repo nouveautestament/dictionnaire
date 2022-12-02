@@ -1,0 +1,1 @@
+lar[14616]=`<b>ου (ὁ)</b> Ariobazos, <i>h</i>. POL.`

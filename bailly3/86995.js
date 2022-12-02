@@ -1,0 +1,1 @@
+lar[86995]=`<b>προ·φωνέω-ῶ :<br>      1</b> faire entendre, <i>acc</i>. SOPH. <i>El. 107</i>.<br><b>      2</b> annoncer d’avance, ESCHL. <i>Suppl. 617, etc. ; p. suite,</i> déclarer, faire connaître : τί τινι, ESCHL. <i>Pers. 363</i> ; SOPH. <i>O.R. 223,</i> qqe ch. à qqn ; τινι <i>avec l’inf</i>. SOPH. <i>Aj. 1089,</i> ordonner à qqn de, <i>etc</i>.`

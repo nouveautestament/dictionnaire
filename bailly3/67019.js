@@ -1,0 +1,1 @@
+lar[67019]=`<font color="purple">[ῡᾰ]</font> <i>c</i>. μυθέομαι, DIUS (STOB. <i>Fl. 65, 17</i>).`

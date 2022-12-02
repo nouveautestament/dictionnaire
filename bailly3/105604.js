@@ -1,0 +1,1 @@
+lar[105604]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec le goût du plaisir, CLÉM. <i>525</i>.`

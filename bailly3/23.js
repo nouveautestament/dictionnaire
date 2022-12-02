@@ -1,0 +1,1 @@
+lar[23]=`<b>ος, ον</b> <font color="purple">[ᾰᾱ]</font> <i>c</i>. ἄητος, Q. SM. <i>1, 217</i>.`

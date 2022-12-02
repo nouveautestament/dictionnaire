@@ -1,0 +1,1 @@
+lar[22765]=`<b>(ἡ)</b> Gymnias, <i>v. des Skythines,</i> XÉN. <i>An. 4, 7, 19</i>.`

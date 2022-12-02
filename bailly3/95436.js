@@ -1,0 +1,1 @@
+lar[95436]=`<b>ᾶς (ἡ) :<br>      1</b> convoi funèbre commun, <i>d’où</i> sépulture commune, EN. TACT. <i>Pol. 17, 5</i>.<br><b>      2</b> prononciation simultanée, DH. <i>Comp. 14, p. 166</i>.<p><b>Étym</b>. συνεκφέρω.`

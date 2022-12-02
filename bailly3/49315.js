@@ -1,0 +1,1 @@
+lar[49315]=`<b>ἱππό·δασυς</b> <font color="purple">[ᾰ]</font> (<i>seul. fém</i>. ἱπποδάσεια) garni d’une épaisse crinière de cheval, IL. <i>3, 369</i> ; OD. <i>22, 112</i>.<p><b>Étym</b>. ἵ. δασύς.`

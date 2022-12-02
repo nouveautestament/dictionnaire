@@ -1,0 +1,1 @@
+lar[39311]=`<b>ἐπί·σωτρον</b>, <i>épq</i>. <b>ἐπί·σσωτρον, ου (τὸ)</b> cercle de fer autour de la roue, IL. <i>23, 519 ; surtout au plur</i>. IL. <i>5, 725 ; 11, 537 ; 20, 394 ; 23, 505</i>.<p><b>Étym</b>. ἐπί, σῶτρον.`

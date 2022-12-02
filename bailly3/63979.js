@@ -1,0 +1,1 @@
+lar[63979]=`<b>ου (ὁ)</b> Mélèsias, <i>h</i>. PD. <i>O. 8, 54, etc.</i> ; THC. <i>8, 86</i>.<p>➳ <i>Voc</i>. Μελησία, PLAT. <i>Lach. 180a, etc</i>.`

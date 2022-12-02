@@ -1,0 +1,1 @@
+lar[51946]=`<i>adv</i>., avec courage, avec résolution, avec patience, PLAT. <i>Rsp. 399b ;</i> JAMBL. <i>V. Pyth. p. 220</i>.<p><b>Étym</b>. καρτερέω.`

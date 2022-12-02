@@ -1,0 +1,1 @@
+lar[9521]=`<b>ἀντ·άριθμος, ος, ον</b> <font color="purple">[ᾰρ]</font> qui balance le nombre de, qui compense, EUR. <i>Hec. 1186 dout</i>.<p><b>Étym</b>. ἀντί, ἀριθμός.`

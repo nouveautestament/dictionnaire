@@ -1,0 +1,1 @@
+lar[81765]=`<b>πολύ·βοτος, ος, ον</b> <font color="purple">[ῠ]</font> abondant en pâturages, qui nourrit de nombreux bestiaux, fertile, DH. <i>1, 37</i>.<p><b>Étym</b>. π. βόσκω.`

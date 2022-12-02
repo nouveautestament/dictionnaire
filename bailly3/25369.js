@@ -1,0 +1,1 @@
+lar[25369]=`<b>ας (ἡ)</b> envoi réciproque d’ambassades, POL. <i>5, 67, 11</i>.<p><b>Étym</b>. διαπρεσβεύομαι.`

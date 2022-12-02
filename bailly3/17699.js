@@ -1,0 +1,1 @@
+lar[17699]=`<b>αὐτο·στατέω-ῶ</b> <font color="purple">[ᾰ]</font> s’en tenir à soi-même, se reposer sur soi-même, être indépendant, PHIL. <i>1, 688</i>.<p><b>Étym</b>. αὐ. στατός <i>de</i> ἵστημι.`

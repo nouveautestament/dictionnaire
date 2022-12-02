@@ -1,0 +1,1 @@
+lar[44961]=`<b>ης (ἡ)</b> Hèdistè (<i>propr</i>. la charmante) <i>f</i>. PLUT. <i>X orat. Lyc. 30</i>.<p><b>Étym</b>. <i>fém. de</i> ἥδιστος.`

@@ -1,0 +1,1 @@
+lar[1931]=`<b>ἀ·θαλάττωτος, ος, ον</b> <font color="purple">[θᾰ]</font> sans expérience de la mer, AR. <i>Ran. 204</i>.`

@@ -1,0 +1,1 @@
+lar[11656]=`<b>οῦ (ὁ)</b> celui qui réfute, ŒNOM. (EUS. <i>P.E. 256b</i>).<p><b>Étym</b>. ἀπελέγχω.`

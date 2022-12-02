@@ -1,0 +1,1 @@
+lar[67263]=`<b>μυριο·πληθής, ής, ές</b> <font color="purple">[ῡ]</font> qui se manifeste sous une foule de formes, EUR. <i>I.A. 571</i>.<p><b>Étym</b>. μ. πλῆθος.`

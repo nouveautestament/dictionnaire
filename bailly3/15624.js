@@ -1,0 +1,1 @@
+lar[15624]=`<b>ἀρχι·λῃστής, οῦ (ὁ)</b> <font color="purple">[ῐ]</font> chef de brigands, JOS. <i>B.J. 1, 10, 5</i>.<p><b>Étym</b>. <i>cf</i>. ἀρχίκλωψ et ἀρχιφώρ.`

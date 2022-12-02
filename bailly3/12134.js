@@ -1,0 +1,1 @@
+lar[12134]=`<b>ατος (τὸ)</b> pousse, rejeton, TH. <i>C.P. 1, 20, 1 ; fig</i>. PLAT. <i>Conv. 208b</i>.<p><b>Étym</b>. ἀποβλαστάνω.`

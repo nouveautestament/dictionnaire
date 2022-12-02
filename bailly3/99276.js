@@ -1,0 +1,1 @@
+lar[99276]=`<b>εως (ἡ)</b> <font color="purple">[τῑ]</font> châtiment, PLAT. <i>Leg. 874d</i>.<p><b>Étym</b>. τιμωρέω.`

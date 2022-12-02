@@ -1,0 +1,1 @@
+lar[18029]=`<b>οῦ (ὁ)</b> <i>litt</i>. résistance aux rênes, rébellion, révolte, PLUT. <i>M. 371b</i>.<p><b>Étym</b>. ἀφηνιάζω.`

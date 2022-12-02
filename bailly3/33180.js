@@ -1,0 +1,1 @@
+lar[33180]=`<b>ἐμ·βυθίζω</b> <font color="purple">[ῠ]</font> plonger au fond de l’eau, immerger, PLUT. <i>M. 981a</i>.<p><b>Étym</b>. ἐν, β.`

@@ -1,0 +1,1 @@
+lar[58538]=`(<i>seul. prés</i>.) <font color="purple">[υ]</font> être partagé en zones, AGATHARCH. <i>M. rubr. p. 47</i>.<p><b>Étym</b>. κύκλος.`

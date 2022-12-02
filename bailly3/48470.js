@@ -1,0 +1,1 @@
+lar[48470]=`<b>ων, ον</b>, <i>gén</i>. <b>ονος</b>, instruit de, habile dans, <i>gén</i>. ANTH. <i>7, 575 ; abs</i>. NONN. <i>Jo. 7, 56, etc</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *uid-, <i>v</i>. *εἴδω.`

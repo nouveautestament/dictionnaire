@@ -1,0 +1,1 @@
+lar[81212]=`<font color="purple">[ῑγ]</font> <i>c</i>. πνίγω, ANTH. <i>12, 222</i>.`

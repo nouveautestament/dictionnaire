@@ -1,0 +1,1 @@
+lar[61299]=`<font color="purple">[ῐᾰ]</font> <i>adv.</i> :<br><b>      1</b> avec de la graisse, GAL. <i>6, 677</i> ; HIPPIATR. <i>p. 109, 18</i>.<br><b>      2</b> <i>fig</i>. dans l’abondance, OD. <i>4, 210</i>.<p><b>Étym</b>. λιπαρός.`

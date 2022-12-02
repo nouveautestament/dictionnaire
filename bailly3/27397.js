@@ -1,0 +1,1 @@
+lar[27397]=`<font color="purple">[ῐ]</font> <i>adv.</i> :<br><b>      1</b> comme il convient, ESCHL. <i>Pers. 547</i>.<br><b>      2</b> honnêtement, loyalement, XÉN. <i>Cyr. 1, 6, 7</i>.<p><b>Étym</b>. δόκιμος.`

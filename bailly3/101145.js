@@ -1,0 +1,1 @@
+lar[101145]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> fromage, IL. <i>11, 639</i> ; OD. <i>4, 88</i> ; EUR. <i>Cycl. 136</i> ; AR. <i>Vesp. 896, etc.</i><br><b>      2</b> marché aux fromages, LYS. <i>167, 8</i>.`

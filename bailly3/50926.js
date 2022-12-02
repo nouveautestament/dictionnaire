@@ -1,0 +1,1 @@
+lar[50926]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῡ]</font> mauvaise qualité d’un suc, GAL. <i>10, 300</i> ; RUF. <i>p. 164 Matthäi</i>.<p><b>Étym</b>. κακόχυμος.`

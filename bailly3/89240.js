@@ -1,0 +1,1 @@
+lar[89240]=`<b>ου (τὸ)</b> <font color="purple">[βᾰ]</font> <i>dim. de</i> σάμβαλον HIPPON. <i>fr. 18</i>.`

@@ -1,0 +1,1 @@
+lar[56539]=`mettre au lit, faire coucher (<i>v</i>. κοιταστέον) ; <i>moy</i>. κοιτάζομαι (<i>prés. inf</i>. κοιτάζεσθαι, PLUT. <i>Lys. 16</i> ; POL. <i>10, 15, 9 ; ao. dor. 3 sg</i>. κοιτάζατο, PD. <i>O. 13, 76</i>) se coucher, dormir.<p><b>Étym</b>. κοίτη.`

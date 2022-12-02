@@ -1,0 +1,1 @@
+lar[99924]=`<b>οῦντος (ἡ)</b> <font color="purple">[ᾰ]</font> Trapézonte :<br><b>      1</b> <i>v. d’Arcadie,</i> HDT. <i>6, 127</i>.<br><b>      2</b> <i>v. du Pont (auj</i>. Trabzon, Trébizonte) XÉN. <i>An. 4, 8, 22 ; 5, 1, 1, etc</i>.`

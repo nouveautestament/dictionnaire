@@ -1,0 +1,1 @@
+lar[140]=`<b>ας (ἡ)</b> manteau épais en laine, M. RUBR. <i>6</i>.<p><b>Étym</b>. <i>emprunt à lat</i>. abolla.`

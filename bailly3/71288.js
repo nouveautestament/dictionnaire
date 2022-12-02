@@ -1,0 +1,1 @@
+lar[71288]=`<b>ὀλυνθοφορέω-ῶ</b>, produire des figues tardives, <i>ou</i> qui ne mûrissent pas, <i>fig</i>. avorter, TH. <i>H.P. 3, 7, 3</i>.<p><b>Étym</b>. ὀλυνθοφόρος.`

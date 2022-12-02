@@ -1,0 +1,1 @@
+lar[5883]=`<b>ης (ἡ)</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> amande, COM. (ATH. <i>52c</i>, d, <i>53a, etc</i>.) ; PLUT. <i>M. 233a, etc.</i><br><b>      2</b> amande d’un noyau de pêche, GEOP. <i>10, 14</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

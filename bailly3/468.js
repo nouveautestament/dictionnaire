@@ -1,0 +1,1 @@
+lar[468]=`<b>ἀγελαστέω-ῶ</b> <font color="purple">[ᾰγ]</font> ne pas rire, Ps.-HÉRACLITE ÉPH. <i>Ep. 7, 2 ; 7, 9</i>.<p><b>Étym</b>. ἀγέλαστος.`

@@ -1,0 +1,1 @@
+lar[64340]=`<b>ου (ὁ)</b> Ménippos (Ménippe) <i>h</i>. AR. <i>Av. 1293</i> ; DÉM. <i>126, 4, etc.</i> ; LUC. <i>D. mort. ; au plur</i>. Μένιπποι, DL. <i>6, 8,</i> des personnages comme Ménippe.`

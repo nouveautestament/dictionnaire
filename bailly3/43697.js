@@ -1,0 +1,1 @@
+lar[43697]=`<b>εὐ·φεροσύνη, ης (ἡ)</b> action d’être bien porté pour, <i>mot forgé par</i> PLAT. <i>Crat. 419, pour expliquer</i> εὐφροσύνη.`

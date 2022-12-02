@@ -1,0 +1,1 @@
+lar[79137]=`<b>εως (ἡ)</b> <font color="purple">[ῠ]</font> lavage tout autour, <i>d’où</i> évacuation, déjection, HPC. <i>Coac. 218, etc.</i> ; ARÉT. <i>Caus. m. acut. 1, 5</i>.<p><b>Étym</b>. περιπλύνω.`

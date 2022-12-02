@@ -1,0 +1,1 @@
+lar[71971]=`<i>vb. de</i> ὀνομάζω, PLAT. <i>Crat. 387d ;</i> LUC. <i>Fug. 26</i>.`

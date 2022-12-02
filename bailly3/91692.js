@@ -1,0 +1,1 @@
+lar[91692]=`<b>οντος (ὁ)</b> <font color="purple">[ᾰ]</font> eunuque, PLUT. <i>Demetr. 25</i> ; ARTÉM. <i>2, 69, etc</i>.<p>➳ <i>Gén</i>. -ωνος, DS. <i>Exc. 580, 46</i>.<p><b>Étym</b>. σπάω.`

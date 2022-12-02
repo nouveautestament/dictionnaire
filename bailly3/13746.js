@@ -1,0 +1,1 @@
+lar[13746]=`<b>ἀπό·φονος, ος, ον</b>, qui diffère d’un meurtre (ordinaire) ; ἀπόφονος φόνος, EUR. <i>Or. 163 ou</i> ἀπόφονον αἷμα, EUR. <i>Or. 192,</i> meurtre qui n’est pas ordinaire, meurtre contre nature.`

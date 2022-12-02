@@ -1,0 +1,1 @@
+lar[68946]=`<b>νομο·μαθής, ής, ές</b> <font color="purple">[ᾰ]</font> qui connaît les lois, jurisconsulte, CHRYS. <i>3, 791</i>.<p><b>Étym</b>. νόμος, μανθάνω.`

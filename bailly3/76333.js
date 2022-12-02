@@ -1,0 +1,1 @@
+lar[76333]=`<b>παρα·τίλλω :<br>      1</b> épiler, AR. <i>Eq. 373 ; etc.</i> ; PLAT. COM. <i>2-2, 674 Mein.</i> ; LUC. <i>Ind. 23 ; au pass</i>. AR. <i>Pl. 168, etc.</i><br><b>      2</b> arracher les mauvaises herbes, GEOP. <i>2, 38, 2</i>.`

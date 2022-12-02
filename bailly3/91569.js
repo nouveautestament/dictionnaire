@@ -1,0 +1,1 @@
+lar[91569]=`<b>ου (ὁ)</b> sorte de lasso, OLYMPIOD. (PHOT. <i>Bibl. p. 58, 30 Bkk</i>.).`

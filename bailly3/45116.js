@@ -1,0 +1,1 @@
+lar[45116]=`<font color="darkgreen">(<i>part. ao</i>. ἤσας)</font> <i>c</i>. ἠθέω, HPC. (GAL. <i>Lex. Hipp. 19, 103</i>).`

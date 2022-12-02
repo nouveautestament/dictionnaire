@@ -1,0 +1,1 @@
+lar[107256]=`<b>ου (ὁ)</b> sorte de pain, <i>à Lacédémone,</i> ATH. <i>139a</i>.`

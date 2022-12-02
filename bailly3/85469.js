@@ -1,0 +1,1 @@
+lar[85469]=`<b>προσ·εγείρω</b> <font color="darkgreen">(<i>f</i>. -γερῶ, <i>pf</i>. -εγρήγορα) :</font><br><b>      1</b> exciter en outre, PHILSTR. <i>Gymn. 55</i>.<br><b>      2</b> <i>au pf</i>. empêcher de dormir, ARSTT. <i>Probl. 18, 1, 1</i>.`

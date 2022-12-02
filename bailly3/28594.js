@@ -1,0 +1,1 @@
+lar[28594]=`<b>δυσ·κοινώνητος, ος, ον</b>, insociable, PLAT. <i>Rsp. 486b ;</i> PLUT. <i>Demetr. 3</i>.<p><b>Étym</b>. δ. κοινωνέω.`

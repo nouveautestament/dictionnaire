@@ -1,0 +1,1 @@
+lar[65266]=`<font color="purple">[ᾰ]</font> <i>adv</i>., nulle part, <i>avec mouv</i>. XÉN. <i>Lac. 3, 4</i>.<p><b>Étym</b>. μηδαμός.`

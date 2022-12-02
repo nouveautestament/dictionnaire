@@ -1,0 +1,1 @@
+lar[33972]=`<b>ἐν·αποπατέω-ῶ</b> <font color="purple">[πᾰ]</font> se soulager le ventre, AR. <i>Pax 1228,</i> POLYZ. <i>fr. 4</i>.`

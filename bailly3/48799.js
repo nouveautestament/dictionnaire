@@ -1,0 +1,1 @@
+lar[48799]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾱῐ]</font> le fils d’Hikétaôn, <i>càd</i>. Mélanippos, IL. <i>15, 546</i>.<p><b>Étym</b>. Ἱκετάων.`

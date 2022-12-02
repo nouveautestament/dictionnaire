@@ -1,0 +1,1 @@
+lar[10265]=`<b>ἀντι·περιχωρέω-ῶ</b>, envelopper du côté opposé, PLUT. <i>Ages. 39</i>.`

@@ -1,0 +1,1 @@
+lar[8903]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰκ]</font> <i>seul. plur</i>. petit poisson grillé sur du charbon, PHILYLL. (ATH. <i>86e</i>).<p><b>Étym</b>. ἄνθραξ.`

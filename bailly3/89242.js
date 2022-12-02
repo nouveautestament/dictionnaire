@@ -1,0 +1,1 @@
+lar[89242]=`<b>ου (ὁ)</b> Sambas, <i>joueur de flûte,</i> ALCM. <i>104</i>.`

@@ -1,0 +1,1 @@
+lar[62730]=`<b>ωνος (ὁ)</b> Malkhiôn, <i>Syrien,</i> LUC. <i>H. conscr. 28</i>.`

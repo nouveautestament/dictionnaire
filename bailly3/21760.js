@@ -1,0 +1,1 @@
+lar[21760]=`<b>ιδος (ἡ)</b> <i>s.-e</i>. λίθος, sorte de pierre précieuse, PLIN. <i>H.N. 37, 11</i>.`

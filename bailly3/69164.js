@@ -1,0 +1,1 @@
+lar[69164]=`<b>νυκτι·χόρευτος, ος, ον</b> <font color="purple">[ῐ]</font> accompagné de danses nocturnes, NONN. <i>D. 12, 391</i>.<p><b>Étym</b>. ν. χορεύω.`

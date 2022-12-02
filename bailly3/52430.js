@@ -1,0 +1,1 @@
+lar[52430]=`<b>κατα·θύω :<br>      1</b> sacrifier sur l’autel (des brebis, <i>etc.) acc</i>. HDT. <i>8, 19</i> ; XÉN. <i>An. 4, 5, 36</i>.<br><b>      2</b> offrir sur l’autel (la dîme, <i>etc.) acc</i>. XÉN. <i>An. 5, 3, 13</i> ; DS. <i>4, 21</i>.<br><b><i>Moy.</i></b> capter par des sortilèges, ensorceler, <i>acc</i>. THCR. <i>Idyl. 2, v. 3, 10, 159</i>.`

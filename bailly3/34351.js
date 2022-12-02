@@ -1,0 +1,1 @@
+lar[34351]=`<b>ἐν·επιδείκνυμι</b> (<i>seul. moy</i>.) montrer dans, exposer dans, <i>dat</i>. PLUT. <i>M. 90e ;</i> PHIL. <i>2, 28, etc</i>.`

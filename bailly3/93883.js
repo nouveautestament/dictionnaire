@@ -1,0 +1,1 @@
+lar[93883]=`<b>συμ·βόσκω</b>, faire paître avec, <i>d’où au pass</i>. paître avec, <i>dat</i>. SPT. <i>Esaï. 11, 6</i>.`

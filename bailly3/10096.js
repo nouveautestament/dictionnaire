@@ -1,0 +1,1 @@
+lar[10096]=`<b>εως (ἡ)</b> compensation, BAS. <i>1, 233</i> ; NAZ. <i>2, 465 Migne</i>.<p><b>Étym</b>. ἀντιμετρέω.`

@@ -1,0 +1,1 @@
+lar[46325]=`<b>εως (ἡ)</b> confiance, bon courage, THC. <i>7, 49</i>.<p><b>Étym</b>. θαρσέω.`

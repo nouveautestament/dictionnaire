@@ -1,0 +1,1 @@
+lar[97886]=`<b>ταχύ·γουνος, ος, ον</b> <font color="purple">[ᾰῠ]</font> aux genoux, <i>càd</i>. aux pieds agiles, NONN. <i>Jo. 12, 15, etc</i>.<p><b>Étym</b>. τ. γόνυ.`

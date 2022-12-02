@@ -1,0 +1,1 @@
+lar[21179]=`<b>ου (ὁ)</b> Gæsylos, <i>Spartiate,</i> PLUT. <i>Dio. 49</i>.`

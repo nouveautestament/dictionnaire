@@ -1,0 +1,1 @@
+lar[14336]=`<b>ἀργυρό·θρονος, ος, ον</b> <font color="purple">[ῠ]</font> au trône d’argent, HIM. <i>p. 364</i>.<p><b>Étym</b>. ἄ. θρόνος.`

@@ -1,0 +1,1 @@
+lar[92974]=`<b>στρομβόω-ῶ</b>, faire tournoyer, PHILSTR. <i>815</i>.<p><b>Étym</b>. στρόμβος.`

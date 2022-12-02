@@ -1,0 +1,1 @@
+lar[11889]=`<b>ἀπ·ηθέω-ῶ</b>, tamiser, filtrer, AR. <i>Ran. 943</i> ; TH. <i>H.P. 9, 8, 3</i>.`

@@ -1,0 +1,1 @@
+lar[104260]=`<b>(ὁ)</b> Hyrœadès, <i>Marde,</i> HDT. <i>1, 84</i>.`

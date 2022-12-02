@@ -1,0 +1,1 @@
+lar[39128]=`<i>adv</i>., savamment, PLAT. <i>Theæt. 207b</i>, SOPH. <i>233c</i>.<p>•<i> Cp</i>. -ονέστερον, XÉN. <i>Œc. 3, 14 ; • Sup</i>. -ονέστατα, PLAT. <i>Rsp. 534d</i>.<p><b>Étym</b>. ἐπιστήμων.`

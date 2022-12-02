@@ -1,0 +1,1 @@
+lar[90562]=`<b>σιτο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ῑῠᾰκ]</font> <i>seul. au plur</i>. gardiens du blé, <i>magistrats athéniens et siciliens chargés de surveiller la vente du blé,</i> LYS. <i>165, 35</i> ; DÉM. <i>467, 5</i> ; ARSTT. <i>fr. 411</i>.`

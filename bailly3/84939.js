@@ -1,0 +1,1 @@
+lar[84939]=`<b>ας (ἡ)</b> précipitation, promptitude inconsidérée, témérité, ISOCR. <i>100c ;</i> DÉM. <i>420, 11</i> ; ARSTT. <i>Nic. 7, 8, 8</i> ; POL. <i>10, 6, 2 ; p. opp. à</i> σωφροσύνη, DÉM. <i>420, 11 ; joint à</i> θρασύτης, DÉM. <i>612, 28 ; à</i> ἀπόνοια, DÉM. <i>1097, 29</i>.<p><b>Étym</b>. προπετής.`

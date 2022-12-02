@@ -1,0 +1,1 @@
+lar[16646]=`<b>ἄ·σωστος, ος, ον</b>, qu’on ne peut sauver, EL. <i>N.A. 13, 7</i>.<p><b>Étym</b>. ἀ, σῴζω.`

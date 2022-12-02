@@ -1,0 +1,1 @@
+lar[38508]=`<b>εως (ἡ) :<br>      1</b> inclinaison, GAL. <i>2, 461 ; 4, 33</i>.<br><b>      2</b> <i>particul</i>. inclinaison de tête, signe de tête, ATH. <i>66c ; d’où</i> acquiescement, consentement, JOS. <i>A.J. 17, 9, 1</i>.<p><b>Étym</b>. ἐπινεύω.`

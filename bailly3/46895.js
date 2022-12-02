@@ -1,0 +1,1 @@
+lar[46895]=`<b>θερει·νόμος, ος, ον</b>, qui sert de pâturage (ou de nourriture) l’été, DH. <i>2, 2</i>.<p><b>Étym</b>. θ. νέμω.`

@@ -1,0 +1,1 @@
+lar[91384]=`<b>α, ον</b> <font color="purple">[ῠ, <i>par nécess. prosod</i>. ῡ]</font> en forme de coupe, STÉSICH. <i>fr. 7 Bgk</i>.<p><b>Étym</b>. σκύφος.`

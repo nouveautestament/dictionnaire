@@ -1,0 +1,1 @@
+lar[71750]=`<b>ὁμό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, uni de cœur et de sentiments, IL. <i>22, 263</i> ; HÉS. <i>Th. 60</i> ; PD. <i>O. 7, 6</i> ; AR. <i>Av. 632, etc</i>.<p><b>Étym</b>. ὁμ. φρήν.`

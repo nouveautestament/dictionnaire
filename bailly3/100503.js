@@ -1,0 +1,1 @@
+lar[100503]=`<b>τρι·στάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> personnage puissant, dignitaire, SPT. <i>4Reg. 7, 2</i>.<p><b>Étym</b>. <i>cf</i>. τριτοστάτης.`

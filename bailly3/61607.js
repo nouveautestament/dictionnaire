@@ -1,0 +1,1 @@
+lar[61607]=`<b>ίδος</b> <font color="purple">[ῐδ]</font> <i>adj. f</i>. de Locride, Locrienne, THC. <i>4, 1</i> ; XÉN. <i>Cyn. 10, 1, etc. ; subst</i>. ἡ Λ. AR. <i>Av. 152</i> ; XÉN. <i>Hell. 3, 5, 4, etc</i>. la Locride, <i>en parl. des diverses contrées de ce nom</i>.<p>➳ <i>Voc</i>. Λοκρί, ANTH. <i>App. 6</i>.<p><b>Étym</b>. Λοκρός.`

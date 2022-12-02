@@ -1,0 +1,1 @@
+lar[77656]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font><br><b>      1</b> de pirate, STR. <i>668</i> ; PLUT. <i>Pomp. 30, 45, etc.</i><br><b>      2</b> propre au métier de pirate, A. TAT. <i>2, 17</i>.<p><b>Étym</b>. πειρατής.`

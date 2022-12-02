@@ -1,0 +1,1 @@
+lar[93988]=`<b>εως (ἡ)</b> <font color="purple">[ῡ]</font> action de pelotonner, <i>fig</i>. M. ANT. <i>4, 40</i>.<p><b>Étym</b>. συμμηρύομαι.`

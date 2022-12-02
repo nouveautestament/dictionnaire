@@ -1,0 +1,1 @@
+lar[61780]=`<b>λυγγούριον, λιγκούριον</b> <i>ou</i> <b>λιγγούριον, ου (τὸ)</b> ambre fossile (<i>propr</i>. urine de lynx) TH. <i>Lap. 26</i> ; DIOSC. <i>2, 100</i>.<p><b>Étym</b>. λύγξ², οὐρέω.`

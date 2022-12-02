@@ -1,0 +1,1 @@
+lar[93234]=`<b>συγ·καθέψω</b>, faire cuire avec <i>ou</i> ensemble, DIOSC. <i>2, 129</i>.`

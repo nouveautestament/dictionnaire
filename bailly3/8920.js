@@ -1,0 +1,1 @@
+lar[8920]=`<b>ας (ἡ)</b> <font color="purple">[ᾰρ]</font> désir de plaire aux hommes, respect humain, BAS. <i>2, 825 Migne</i>.<p><b>Étym</b>. ἀνθρωπαρεσκέω.`

@@ -1,0 +1,1 @@
+lar[84339]=`<b>ας (ἡ)</b> <font color="purple">[ρᾰ]</font> précaution oratoire, HERMOG. <i>3, 179 Walz</i>.<p><b>Étym</b>. προθεραπεύω.`

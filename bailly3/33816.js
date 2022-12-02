@@ -1,0 +1,1 @@
+lar[33816]=`<b>ἐν·αιρέω-ῶ</b>, prendre dans, DIOSC. <i>1, 62</i>.`

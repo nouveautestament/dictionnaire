@@ -1,0 +1,1 @@
+lar[82178]=`<b>πολύ·ξεστος, ος, ον</b>, raboté avec soin, <i>d’où</i> poli avec art, SOPH. <i>O.C. 1570 (dout</i>.).<p><b>Étym</b>. π. ξέω.`

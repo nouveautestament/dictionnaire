@@ -1,0 +1,1 @@
+lar[30990]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> statue d’Hékatè, PLUT. <i>M. 193f</i>.<p><b>Étym</b>. Ἑκάτη.`

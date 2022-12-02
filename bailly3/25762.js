@@ -1,0 +1,1 @@
+lar[25762]=`<b>δια·τραγῳδέω-ῶ</b> <font color="purple">[ᾰγ]</font> déclamer avec une emphase tragique, DÉM. <i>232, 22</i>.`

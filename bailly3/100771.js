@@ -1,0 +1,1 @@
+lar[100771]=`<i>ion</i>. <b>τροχηλασίη, ης (ἡ)</b> <font color="purple">[λᾰ]</font> mouvement rapide comme celui d’une roue, <i>fig</i>. HPC. <i>1283, 14</i>.<p><b>Étym</b>. τροχήλατης.`

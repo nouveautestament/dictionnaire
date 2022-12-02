@@ -1,0 +1,1 @@
+lar[4402]=`<b>ας</b>, <i>ion</i>. <b>Ἁλίη, ης (ἡ)</b> <font color="purple">[ᾰλ]</font> Halia <i>ou</i> Haliè, <i>Néréide,</i> IL. <i>18, 40</i> ; HÉS. <i>Th. 245, etc</i>.<p><b>Étym</b>. ἅλιος.`

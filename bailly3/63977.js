@@ -1,0 +1,1 @@
+lar[63977]=`<b>ου (ὁ)</b> Mélèsandros :<br><b>      1</b> <i>général athénien,</i> THC. <i>2, 69</i>.<br><b>      2</b> <i>poète,</i> EL. <i>V.H. 11, 2</i>.`

@@ -1,0 +1,1 @@
+lar[22335]=`<b>οῦ (ὁ)</b> action de faire connaître, ARSTT. <i>An. post. 2, 3, 2</i>.<p><b>Étym</b>. γνωρίζω.`

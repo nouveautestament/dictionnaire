@@ -1,0 +1,1 @@
+lar[5002]=`<b>ου (ὁ)</b> <i>fl. en Sicile</i>, PLUT. <i>Tim</i>. 34.`

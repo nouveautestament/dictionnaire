@@ -1,0 +1,1 @@
+lar[22670]=`<b>οῦ (ὁ)</b> <font color="purple">[ῡ]</font> grognement (d’un porc) ARSTT. <i>H.A. 4, 9, 5</i>.<p><b>Étym</b>. γρυλίζω.`

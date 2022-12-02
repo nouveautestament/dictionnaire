@@ -1,0 +1,1 @@
+lar[25828]=`<font color="purple">[ᾰν]</font> <i>adv</i>., clairement, évidemment, THC. <i>2, 65</i> ; XÉN. <i>An. 6, 1, 24</i> ; STR. <i>443</i>.<p>•<i> Sup</i>. -φανέστατα, DC. <i>37, 46</i>.`

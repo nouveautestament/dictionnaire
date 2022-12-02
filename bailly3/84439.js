@@ -1,0 +1,1 @@
+lar[84439]=`<b>προ·κάμπυλον, ου (τὸ)</b> <font color="purple">[ῠ]</font> <i>autre n. de la plante</i> ἁβρότονον, DIOSC. <i>Noth. 3, 26</i>.`

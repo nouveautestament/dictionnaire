@@ -1,0 +1,1 @@
+lar[85525]=`<b>προσ·εκμαίνομαι</b>, avoir un nouvel accès de fureur, ARÉT. <i>Cur. m. acut. 2, 11</i>.`

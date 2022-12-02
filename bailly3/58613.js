@@ -1,0 +1,1 @@
+lar[58613]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> tout corps cylindrique <i>ou</i> arrondi, <i>d’où</i> :<br><b>      1</b> cylindre, PLUT. <i>Marc. 17, M. 682d.</i><br><b>      2</b> rouleau de transport pour déplacer des fardeaux, ATHÉNÉE MÉC.<br><b>      3</b> objet façonné au tour, HÉRON.<br><b>      4</b> manuscrit roulé, DL. <i>10, 26</i>.<p><b>Étym</b>. κυλίω.`

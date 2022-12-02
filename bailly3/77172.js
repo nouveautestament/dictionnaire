@@ -1,0 +1,1 @@
+lar[77172]=`<b>ιδος (ἡ)</b> Parysatis, <i>f. de Darius Ochus, mère d’Artaxerxès et de Cyrus le jeune,</i> XÉN. <i>An. 1, 1, 1, etc</i>.`

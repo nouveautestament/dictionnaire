@@ -1,0 +1,1 @@
+lar[98078]=`<b>τεκνοτροφέω-ῶ</b>, nourrir, entretenir <i>ou</i> élever ses enfants ; <i>en parl. d’animaux,</i> élever ses petits, ARSTT. <i>H.A. 9, 40, 32</i>.<p><b>Étym</b>. τεκνοτρόφος.`

@@ -1,0 +1,1 @@
+lar[101860]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> dénoncé, ANON. (SUID. <i>v°</i> ὑπάγγελτος).<p><b>Étym</b>. ὑπαγγέλλω.`

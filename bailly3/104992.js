@@ -1,0 +1,1 @@
+lar[104992]=`<b>φασσο·φόνος, ος, ον</b>, qui tue les colombes, IL. <i>15, 238 ; subst</i>. ὁ φ. ARSTT. <i>H.A. 9, 12, 4, etc. n. d’une sorte d’épervier</i>.<p><b>Étym</b>. φάσσα, πεφνεῖν.`

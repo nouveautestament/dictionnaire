@@ -1,0 +1,1 @@
+lar[33707]=`<b>ἔμ·φορτος, ος, ον</b>, qui a sa charge, chargé de, <i>gén</i>. DL. <i>1, 31</i> ; OPP. <i>H. 2, 212</i>.<p><b>Étym</b>. ἐν, φ.`

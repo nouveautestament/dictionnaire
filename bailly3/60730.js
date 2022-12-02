@@ -1,0 +1,1 @@
+lar[60730]=`<b>ου (ὁ)</b> lédum, <i>arbrisseau qui donne le</i> λήδανον, THCR. <i>Idyl. 21, 10</i> ; DIOSC. <i>1, 128</i>.`

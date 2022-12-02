@@ -1,0 +1,1 @@
+lar[35934]=`<b>ἑξηκοντα·οκτώ</b>, <i>n. de n. indécl</i>. soixante-huit, SPT. <i>Neh. 11, 6</i>.`

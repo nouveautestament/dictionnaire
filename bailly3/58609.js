@@ -1,0 +1,1 @@
+lar[58609]=`<b>ή, όν</b> <font color="purple">[ῠ]</font> cylindrique, SYN. <i>Ep. 172d</i>.<p><b>Étym</b>. κύλινδρος.`

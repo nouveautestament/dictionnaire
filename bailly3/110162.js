@@ -1,0 +1,1 @@
+lar[110162]=`<b>ου (ὁ)</b> <font color="purple">[ῐᾰ]</font> Ôkinaros, <i>fl</i>. LYC. <i>729</i>.`

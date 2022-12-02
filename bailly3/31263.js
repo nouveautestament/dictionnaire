@@ -1,0 +1,1 @@
+lar[31263]=`<b>ή, όν</b>, bouilli, DIPH. (ATH. <i>371a</i>).<p><b>Étym</b>. ἐκζέω.`

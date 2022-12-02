@@ -1,0 +1,1 @@
+lar[61554]=`<b>λογχο·φόρος, ος, ον</b>, porteur de lance, EUR. <i>Hec. 1089</i> ; ὁ λ. AR. <i>Pax 1294</i> ; XÉN. <i>Cyr. 2, 1, 5,</i> soldat armé d’une lance.<p><b>Étym</b>. λ. φέρω.`

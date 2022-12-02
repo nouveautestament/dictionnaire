@@ -1,0 +1,1 @@
+lar[9216]=`<b>ἄν·οικος, ος, ον</b>, sans maison, sans résidence, HDT. <i>3, 145</i>.<p><b>Étym</b>. ἀν-, οἶκος.`

@@ -1,0 +1,1 @@
+lar[55300]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> caducée, <i>insigne des hérauts,</i> THC. <i>1, 53</i> ; POL. <i>3, 52, 3</i>.<p>➳ <i>Ion</i>. -κήϊον, HDT. <i>9, 100</i>.<p><b>Étym</b>. <i>propr. neutre de</i> κηρύκειος.`

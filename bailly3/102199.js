@@ -1,0 +1,1 @@
+lar[102199]=`<b>ὑπ·εξαντλέω-ῶ</b>, épuiser peu à peu <i>ou</i> complètement, EUR. <i>Ion 927</i>.`

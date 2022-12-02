@@ -1,0 +1,1 @@
+lar[92282]=`<b>στεγνόω-ῶ :<br>      1</b> couvrir, boucher, GAL. <i>11, 487</i>.<br><b>      2</b> comprimer, resserrer, GAL. <i>11, 489 ; particul</i>. constiper, A. APHR. <i>Probl. 1</i>.<p><b>Étym</b>. στεγνός.`

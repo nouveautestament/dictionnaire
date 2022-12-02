@@ -1,0 +1,1 @@
+lar[67911]=`se vêtir d’une peau de faon aux fêtes de Bacchus, DÉM. <i>313, 16</i>.<p><b>Étym</b>. νεβρίς.`

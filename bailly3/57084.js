@@ -1,0 +1,1 @@
+lar[57084]=`<b>ης (ἡ)</b> jeune fille, fillette, PLAT. COM. (ATH. <i>665d</i>) ; TIMOCL. (<i>Com. fr. 3, 607).</i><p><b>Étym</b>. κόρη.`

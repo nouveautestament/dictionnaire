@@ -1,0 +1,1 @@
+lar[9206]=`<b>ητος (ἡ)</b> manque de familiarité, SYN. <i>Ep. 84</i>.<p><b>Étym</b>. ἀνοίκειος.`

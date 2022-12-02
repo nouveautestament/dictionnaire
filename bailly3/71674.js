@@ -1,0 +1,1 @@
+lar[71674]=`<b>*ὁμορρυθμία</b>, <i>ion</i>. <b>ὁμορρυσμίη, ης (ἡ)</b> égale proportion, exacte ressemblance, HPC. <i>916a</i>.<p><b>Étym</b>. ὁμόρρυσμος.`

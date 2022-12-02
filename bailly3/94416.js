@@ -1,0 +1,1 @@
+lar[94416]=`<b>ή, όν</b>, qui se rassemble en un, condensé : σ. ἀρετή, IL. <i>13, 237,</i> force de plusieurs hommes réunis.<p><b>Étym</b>. συμφέρω.`

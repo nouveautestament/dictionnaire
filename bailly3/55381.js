@@ -1,0 +1,1 @@
+lar[55381]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> Kibyra (<i>auj</i>. ruines près de Gölhisar) <i>v. de Phrygie,</i> ANTH. <i>9, 648</i>.`

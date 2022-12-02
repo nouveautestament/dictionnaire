@@ -1,0 +1,1 @@
+lar[30395]=`<b>εἰκοστό·πεμπτος, η, ον</b>, vingt-cinquième, GEOP. <i>8, 23, 2</i> ; NICOM. <i>Arithm. 1, 12</i>.<p><b>Étym</b>. εἰ. πέμπτος.`

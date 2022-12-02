@@ -1,0 +1,1 @@
+lar[53401]=`<b>ή, όν</b>, propre à tirer en bas, à attirer, <i>gén</i>. DIOSC. <i>2, 165</i>.<p><b>Étym</b>. κατασπάω.`

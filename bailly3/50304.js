@@ -1,0 +1,1 @@
+lar[50304]=`<b>ος, ον</b> <font color="purple">[ᾰᾰ]</font> propret, PLAT. COM. <i>2-2, 644, 1 Mein</i>.<p><b>Étym</b>. <i>dim. de</i> καθαρός.`

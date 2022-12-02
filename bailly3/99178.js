@@ -1,0 +1,1 @@
+lar[99178]=`<b>α, ον</b> <font color="purple">[ῑ]</font> honoré, honorable, DIOCLÈS (PHOT.).<p><b>Étym</b>. τιμή.`

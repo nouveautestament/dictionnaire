@@ -1,0 +1,1 @@
+lar[95560]=`<b>συν·επᾴδω :<br>      1</b> chanter ensemble, TH. <i>H.P. 9, 10, 4</i>.<br><b>      2</b> célébrer ensemble par des chants, EUR. <i>I.A. 1492</i>.<p><b>Étym</b>. <i>poét</i>. -αείδω.`

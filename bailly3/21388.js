@@ -1,0 +1,1 @@
+lar[21388]=`<b>ας (ἡ)</b> Gargarie, <i>anc. n. de l’Italie,</i> ARSTT. <i>Mir. 108</i>.`

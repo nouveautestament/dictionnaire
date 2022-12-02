@@ -1,0 +1,1 @@
+lar[6783]=`<b>ἀνα·θερίζω</b>, moissonner une seconde fois, PHIL. <i>2, 390</i>.`

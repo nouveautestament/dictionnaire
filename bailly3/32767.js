@@ -1,0 +1,1 @@
+lar[32767]=`<b>ἐλεφαντο·φάγος, ος, ον</b> <font color="purple">[φᾰ]</font> qui mange de la chair d’éléphant, STR. <i>771</i>.<p><b>Étym</b>. ἐ. φαγεῖν.`

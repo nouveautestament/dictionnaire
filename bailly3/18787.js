@@ -1,0 +1,1 @@
+lar[18787]=`<b>βαθυ·πλήξ, ῆγος (ὁ, ἡ)</b> <font color="purple">[ᾰυ]</font> qui mord (<i>litt</i>. qui frappe) profondément, NIC. (EL. <i>N.A. 3, 40).</i><p><b>Étym</b>. β. πλήσσω.`

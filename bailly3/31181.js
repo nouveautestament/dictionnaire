@@ -1,0 +1,1 @@
+lar[31181]=`<b>ἐκ·δημοκοπέω-ῶ</b> (<i>sbj. ao</i>. -κοπήσῃ) capter par des menées démagogiques, CHION. <i>Ep. 15</i>.`

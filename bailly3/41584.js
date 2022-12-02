@@ -1,0 +1,1 @@
+lar[41584]=`<b>εὐ·ανάλωτος, ος, ον</b> <font color="purple">[ᾰᾱ]</font> facile à épuiser, à consumer, ARSTT. <i>Plant. 1, 1, 4</i>.<p><b>Étym</b>. εὖ, ἀναλίσκω.`

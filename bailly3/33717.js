@@ -1,0 +1,1 @@
+lar[33717]=`<b>ης, ες</b>, qui paraît intelligent, HPC. <i>1211f</i>.<p><b>Étym</b>. ἔμφρων, -ωδης.`

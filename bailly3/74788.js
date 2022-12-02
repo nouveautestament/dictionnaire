@@ -1,0 +1,1 @@
+lar[74788]=`<b>ων (οἱ)</b> <font color="purple">[ῡ]</font><br><b>      1</b> les Pamphyliens, ESCHL. <i>Suppl. 552</i> ; HDT. <i>1, 28, etc.</i><br><b>      2</b> descendants de Pamphylos, <i>càd. pple de Sicyonie,</i> HDT. <i>5, 68</i>.<p><b>Étym</b>. <i>v</i>. Παμφυλία <i>et</i> Πάμφυλος.`

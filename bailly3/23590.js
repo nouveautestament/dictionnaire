@@ -1,0 +1,1 @@
+lar[23590]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petit souper, collation, DIPH. (ATH. <i>156f</i>) ; ANTH. <i>11, 10</i>.<p><b>Étym</b>. <i>dim. de</i> δεῖπνον.`

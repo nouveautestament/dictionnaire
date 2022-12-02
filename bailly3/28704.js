@@ -1,0 +1,1 @@
+lar[28704]=`<b>δύσ·ογκος, ος, ον</b> <font color="purple">[ῠ]</font> très lourd, PLUT. <i>Æmil. 12</i>.<p><b>Étym</b>. δ. ὄγκος.`

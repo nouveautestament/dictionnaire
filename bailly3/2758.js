@@ -1,0 +1,1 @@
+lar[2758]=`<b>αἰολό·μητις, ιος (ὁ, ἡ)</b> fertile en ruses, HÉS. <i>Th. 511</i> ; ESCHL. <i>Suppl. 1037, etc</i>.<p><b>Étym</b>. αἰ. μῆτις.`

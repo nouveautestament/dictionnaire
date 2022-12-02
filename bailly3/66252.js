@@ -1,0 +1,1 @@
+lar[66252]=`<b>μνόος-οῦς, όου-οῦ (ὁ) :<br>      1</b> duvet des jeunes oies, AR. (<i>Com. fr. 2, 1054</i>) ; ANTH. <i>5, 121</i>.<br><b>      2</b> sorte de pâtisserie, EPHIPP. (<i>Com. fr. 3, 330</i>).`

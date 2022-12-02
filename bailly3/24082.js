@@ -1,0 +1,1 @@
+lar[24082]=`<b>(ἡ)</b> Dékhas :<br><b>      1</b> <i>n. de f</i>. ANTH. <i>App. 331</i>.<br><b>      2</b> <i>lieu à Sparte,</i> PLUT. <i>Ages. 19</i>.`

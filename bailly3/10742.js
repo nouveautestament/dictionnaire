@@ -1,0 +1,1 @@
+lar[10742]=`<b>ἀν·υπεύθυνος, ος, ον</b> <font color="purple">[θῡ]</font> qui n’a pas de comptes à rendre, non responsable, HPC. <i>27, 15</i> ; AR. <i>Vesp. 587</i> ; PLAT. <i>Leg. 761e, 875b ;</i> ARSTT. <i>Pol. 4, 4, 24</i>.<p><b>Étym</b>. ἀν-, ὑ.`

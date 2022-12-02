@@ -1,0 +1,1 @@
+lar[17679]=`<b>αὐτό·ρριζος, ος, ον :<br>      1</b> avec les racines mêmes, DS. <i>4, 12</i>.<br><b>      2</b> qui a ses racines dans le sol, EUR. <i>Rhes. 287</i>.<p>➳ <i>Poét</i>. αὐτόριζος, BABR. <i>36, 1</i>.<p><b>Étym</b>. αὐ. ῥίζα.`

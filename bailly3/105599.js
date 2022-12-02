@@ -1,0 +1,1 @@
+lar[105599]=`<b>φιλ·ηδής, ής, ές</b> <font color="purple">[ῐ]</font> qui aime <i>ou</i> recherche le plaisir, ARSTT. <i>Nic. 8, 4, 4</i>.<p><b>Étym</b>. φ. ἡδύς.`

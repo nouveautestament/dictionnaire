@@ -1,0 +1,1 @@
+lar[68057]=`<b>ῶ (ὁ)</b> Nékhô, <i>père et fils de Psammétikhos, roi d’Égypte,</i> HDT. <i>2, 152</i>.`

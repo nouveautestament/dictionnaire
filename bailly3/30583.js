@@ -1,0 +1,1 @@
+lar[30583]=`<b>ης (ἡ)</b> <i>seul. pl. gén</i>. εἰράων, IL. <i>18, 531 et dat</i>. εἴραις (<i>acc</i>. εἰρέας, <i>sel. Goettling et Koechly</i>) HÉS. <i>Th. 804,</i> lieu d’assemblée, <i>d’où</i> assemblée.<p><b>Étym</b>. εἴρω².`

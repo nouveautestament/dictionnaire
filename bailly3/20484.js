@@ -1,0 +1,1 @@
+lar[20484]=`<b>βουνο·βατέω-ῶ</b>, <i>f</i>. ήσω <font color="purple">[ᾰ]</font> parcourir les collines, ANTH. <i>6, 218</i>.<p><b>Étym</b>. βουνός, βατός.`

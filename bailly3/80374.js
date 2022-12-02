@@ -1,0 +1,1 @@
+lar[80374]=`<b>πινόω-ῶ</b> <font color="purple">[ῐ]</font> encrasser, <i>seul. part. pf. pass</i>. πεπινωμένος, encrassé, sale, PLUT. <i>Alex. 4 ; fig</i>. qui a une teinte de vétusté, <i>en parl. du style,</i> CIC. <i>Att. 14, 7 ; 15, 16</i>.<p><b>Étym</b>. πίνος.`

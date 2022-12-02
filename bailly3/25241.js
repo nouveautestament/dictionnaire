@@ -1,0 +1,1 @@
+lar[25241]=`<b>δια·περονάω-ῶ</b>, agrafer, DS. <i>4, 64 (part. ao</i>. -ήσας) ; <i>au pass</i>. DH. <i>9, 64</i>.<p><b>Étym</b>. <i>part. ao</i>. -ηθείς.`

@@ -1,0 +1,1 @@
+lar[87672]=`<b>Πυλαι·μένης, ους (ὁ)</b> Pylæménès, <i>roi de Paphlagonie,</i> IL. <i>2, 851 ; 5, 576, etc</i>.`

@@ -1,0 +1,1 @@
+lar[91129]=`<b>ῆς (ἡ) :<br>      1</b> lieu d’où l’on observe, observatoire, ESCHL. <i>Suppl. 713 ; au pl</i>. ESCHL. <i>Ag. 289, 309</i> ; XÉN. <i>Cyr. 3, 2, 11, etc.</i><br><b>      2</b> action d’observer, <i>au plur</i>. ESCHL. <i>Suppl. 786</i> ; DS. <i>3, 26</i> ; LUC. <i>H. conscr. 29</i> ; LYC. <i>1311</i>.<p><b>Étym</b>. σκέπτομαι.`

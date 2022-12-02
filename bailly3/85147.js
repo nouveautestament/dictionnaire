@@ -1,0 +1,1 @@
+lar[85147]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> point d’appui, ANTH. <i>7, 407</i>.<p><b>Étym</b>. προσανακλίνομαι.`

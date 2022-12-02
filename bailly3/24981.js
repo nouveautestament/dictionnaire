@@ -1,0 +1,1 @@
+lar[24981]=`<font color="purple">[ῠ]</font> <i>adv</i>., de façon à dissoudre, ARSTT. <i>Top. 7, 3, 7</i>.`

@@ -1,0 +1,1 @@
+lar[22053]=`<b>ου (τὸ) :<br>      1</b> glaucium (<i>Glaucium corniculatum</i> L.), <i>sorte de pavot</i>, DIOSC. <i>3, 100</i> ; GAL. <i>13, 166</i>.<br><b>      2</b> canard sauvage aux yeux d’un gris bleuâtre, HÉGÉSANDRE (ATH. <i>395c</i>).<p><b>Étym</b>. γλαυκός.`

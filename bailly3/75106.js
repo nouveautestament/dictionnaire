@@ -1,0 +1,1 @@
+lar[75106]=`<b>παν·οίμοι</b> <font color="purple">[ᾰ]</font> <i>interj</i>. hélas ! hélas ! ESCHL. <i>Ch. 875</i>.<p><b>Étym</b>. π. οἴμοι.`

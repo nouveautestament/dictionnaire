@@ -1,0 +1,1 @@
+lar[61722]=`<b>ας (ἡ)</b> <font color="purple">[χᾱ]</font> <i>dor. usité chez les Att. c</i>. λοχηγία, commandement d’une compagnie, XÉN. <i>An. 1, 4, 15 ; 3, 1, 30</i> ; ARSTT. <i>Pol. 6, 8</i>.<p><b>Étym</b>. λοχαγός.`

@@ -1,0 +1,1 @@
+lar[13251]=`<b>ἀπο·ρροιβδέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἀπερροίβδησα)</font> faire retentir, NONN. <i>D. 2, 257</i> ; ἀπ. βοάς, SOPH. <i>Ant. 1021,</i> pousser de grands cris.`

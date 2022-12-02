@@ -1,0 +1,1 @@
+lar[47825]=`<b>ου (ὁ)</b> le fils de Thyeste, <i>càd</i>. Égisthe, OD. <i>4, 518</i>.<p><b>Étym</b>. Θυέστης.`

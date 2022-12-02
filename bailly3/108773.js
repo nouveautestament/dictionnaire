@@ -1,0 +1,1 @@
+lar[108773]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> <i>dim. de</i> χορδή, ALEX. (ATH. <i>95a</i>).`

@@ -1,0 +1,1 @@
+lar[1762]=`<b>ἀ·εργία, ας (ἡ) :<br>      1</b> inactivité, paresse, OD. <i>24, 251</i> ; HÉS. <i>O. 301</i>.<br><b>      2</b> stérilité d’un champ en jachère, ESCHN. <i>3, 108</i>.<p>➳ <font color="purple">[ῑ]</font> <i>par exc</i>. HÉS. <i>l. c. ; ion</i>. -ίη, OD. HÉS. <i>ll. cc</i>.<p><b>Étym</b>. ἀεργός.`

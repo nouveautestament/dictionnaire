@@ -1,0 +1,1 @@
+lar[101036]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> celui qui joue du tambour, le tambour, STR. <i>708</i> ; LUC. <i>Alex. 9 ; au pl. titre d’une tragédie de Sophocle, fr. 563-571 Dind</i>.<p><b>Étym</b>. τυμπανίζω.`

@@ -1,0 +1,1 @@
+lar[61146]=`<b>ίτιδος</b> <font color="purple">[ῐῑῐδ]</font> <i>fém. de</i> λιμενίτης ANTH. <i>6, 105</i>.`

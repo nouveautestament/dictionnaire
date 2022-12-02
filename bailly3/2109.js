@@ -1,0 +1,1 @@
+lar[2109]=`<b>ου (ὁ)</b> Athryilatos, <i>médecin de Thasos,</i> PLUT. <i>Qu. conv. 3, 4, 1</i>.`

@@ -1,0 +1,1 @@
+lar[35516]=`<b>ἑξα·πάλαιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> long <i>ou</i> large de six palmes, HDT. <i>1, 50 ; 2, 149</i>.<p><b>Étym</b>. ἕξ, παλαιστή.`

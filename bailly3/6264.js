@@ -1,0 +1,1 @@
+lar[6264]=`<b>ἀμφι·μήτορες</b>, <i>dor</i>. <b>-μάτορες, ων (οἱ, αἱ)</b> <font color="purple">[μᾱ]</font> frères <i>ou</i> sœurs de mères différentes, ESCHL. <i>fr. 70</i> ; EUR. <i>Andr. 465</i>.<p><b>Étym</b>. ἀ. μήτηρ.`

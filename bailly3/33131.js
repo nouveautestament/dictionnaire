@@ -1,0 +1,1 @@
+lar[33131]=`<b>ου (τὸ) :<br>      1</b> épieu ferré, DS. <i>1, 35</i>.<br><b>      2</b> trémie, caisson, PHIL. BYZ.<br><b>      3</b> <i>fig</i>. intermède de théâtre, CIC. <i>ad Qu. fr. 3, 1, 7</i>.<p><b>Étym</b>. ἔμβολος.`

@@ -1,0 +1,1 @@
+lar[34404]=`<b>ου</b>, <i>adj. m</i>. de Vénétie, <i>sur l’Adriatique,</i> EUR. <i>Hipp. 231</i>.<p>➳ <i>Gén. pl. dor</i>. Ἐνετᾶν, <i>Hipp. 1131</i>.<p><b>Étym</b>. Ἐνετοί.`

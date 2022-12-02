@@ -1,0 +1,1 @@
+lar[62746]=`<i>indécl</i>. la manne des Israélites, <i>c</i>. μάννα, SPT. <i>Ex. 16, 31, 33, 35</i>.`

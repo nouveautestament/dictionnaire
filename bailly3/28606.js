@@ -1,0 +1,1 @@
+lar[28606]=`<b>δύσ·κοπος, ος, ον</b>, difficile à écraser, DAMOCR. (GAL. <i>13, 636).</i><p><b>Étym</b>. δ. κόπτω.`

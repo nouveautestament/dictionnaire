@@ -1,0 +1,1 @@
+lar[71247]=`<i>adv</i>., d’une voix plaintive, JOS. <i>B.J. 6, 5, 3</i>.`

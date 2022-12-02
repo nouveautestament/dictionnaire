@@ -1,0 +1,1 @@
+lar[108610]=`<b>ης, ες</b> qui ressemble à de la verdure, d’un vert pâle, jaunâtre, HPC. <i>1129 fin</i> ; TH. <i>H.P. 3, 18, 8 ; 7, 9, 2</i> ; GEOP. <i>10, 74, 1</i>.<p><b>Étym</b>. χλόη, -ωδης.`

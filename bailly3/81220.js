@@ -1,0 +1,1 @@
+lar[81220]=`<b>ης, ες</b> <font color="purple">[ῑ]</font><br><b>      1</b> <i>act</i>. qui étouffe, qui suffoque, DIPH. SIPHN. (ATH. <i>61e</i>) ; PLUT. <i>Alex. fin</i>.<br><b>      2</b> étouffé, suffoqué, HPC. <i>74a, etc</i>.<p><b>Étym</b>. πνῖγος, -ωδης.`

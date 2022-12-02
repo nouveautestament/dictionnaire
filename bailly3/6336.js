@@ -1,0 +1,1 @@
+lar[6336]=`<b>ἀμφι·πρόσωπος, ος, ον :<br>      1</b> à double visage, EMPÉD. <i>214 Sturz ; en parl. de Janus,</i> PLUT. <i>Num. 19</i>.<br><b>      2</b> <i>particul</i>. à double front, <i>en parl. de combattants dont la queue opère un mouvement de conversion en front,</i> ONOS. <i>39, 19</i>.<p><b>Étym</b>. ἀ. πρόσωπον.`

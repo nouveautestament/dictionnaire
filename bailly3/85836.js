@@ -1,0 +1,1 @@
+lar[85836]=`<b>εως (ἡ) :<br>      1</b> action de clouer, APD. POL. <i>22</i>.<br><b>      2</b> crucifiement, ECCL.<p><b>Étym</b>. προσηλόω.`

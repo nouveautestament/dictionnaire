@@ -1,0 +1,1 @@
+lar[105037]=`<b>ου (ὁ)</b> <i>litt</i>. « l’illuminé», <i>ép. de Bacchus, dont les mystères se célébraient à la lueur des flambeaux,</i> LYC. <i>212</i>.<p><b>Étym</b>. φαύω.`

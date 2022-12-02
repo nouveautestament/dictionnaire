@@ -1,0 +1,1 @@
+lar[30741]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de lancer un char dans, irruption, PLUT. <i>Artax. 7</i>.<p><b>Étym</b>. εἰσελαύνω.`

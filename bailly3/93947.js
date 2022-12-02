@@ -1,0 +1,1 @@
+lar[93947]=`<b>συμ·μεσουρανέω-ῶ</b> <font color="purple">[ᾰ]</font> se trouver sous le même méridien, PTOL. <i>Tetr. 79</i>.`

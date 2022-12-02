@@ -1,0 +1,1 @@
+lar[48980]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Imbrasios, <i>h</i>. Q. SM. <i>10, 87</i>.<p><b>Étym</b>. <i>cf</i>. Ἰμβράσιος.`

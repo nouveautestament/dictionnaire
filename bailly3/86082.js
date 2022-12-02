@@ -1,0 +1,1 @@
+lar[86082]=`<b>ος, ον</b> <font color="purple">[ῠῐ]</font> adorable, CHRYS.<p><b>Étym</b>. προσκυνέω.`

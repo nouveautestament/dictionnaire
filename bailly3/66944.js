@@ -1,0 +1,1 @@
+lar[66944]=`<i>vb. de</i> μοχθέω, SOPH. (STOB. <i>Fl. App. p. 34</i>) ; EUR. <i>H.f. 1251</i>.`

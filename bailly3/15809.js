@@ -1,0 +1,1 @@
+lar[15809]=`<b>ά, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui cause du dégoût, qui ôte l’appétit, HPC. <i>Fract. 766, 774</i>.<br><b>      2</b> dédaigneux, SAPPH. <i>fr. 42 Neue au cp. dor</i>. ἀσαρότερος <font color="purple">[ᾰσᾱ]</font>.<p><b>Étym</b>. ἄση.`

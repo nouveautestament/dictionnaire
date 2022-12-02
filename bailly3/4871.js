@@ -1,0 +1,1 @@
+lar[4871]=`<b>ου (ὁ)</b> Halmos, <i>anc. n. de l’Araxe,</i> Ps.-PLUT. <i>Fluv. 33, 1</i>.`

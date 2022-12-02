@@ -1,0 +1,1 @@
+lar[42928]=`<b>εὐ·παρακολούθητος, ος, ον</b> <font color="purple">[ᾰκ]</font> que l’on peut suivre facilement, facile à comprendre, ARSTT. <i>Nic. 2, 7, 11,</i> POL. <i>4, 28, 6</i> ; DH. <i>Pomp. 6</i>.<p><b>Étym</b>. εὖ, παρακολουθέω.`

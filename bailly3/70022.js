@@ -1,0 +1,1 @@
+lar[70022]=`<b>ὀβριμό·παις, αιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> aux robustes enfants, NONN. <i>D. 10, 277</i>.<p><b>Étym</b>. ὄβριμος, παῖς.`

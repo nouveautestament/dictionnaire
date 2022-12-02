@@ -1,0 +1,1 @@
+lar[103525]=`<b>ὑπο·μελαίνω</b>, être <i>ou</i> devenir un peu noir, RUF. <i>p. 11 Matthäi</i> ; GEOP. <i>15, 2, 16, etc</i>.`

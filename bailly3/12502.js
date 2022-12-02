@@ -1,0 +1,1 @@
+lar[12502]=`<b>ἀπο·κάμπτω</b>, faire un détour, XÉN. <i>Eq. 7, 14</i> ; ARSTT. <i>Rhet. 3, 9, 6</i>.`

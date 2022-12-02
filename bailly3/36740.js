@@ -1,0 +1,1 @@
+lar[36740]=`<b>ἐπ·αξόνιος, ος, ον</b>, qui repose sur l’essieu, THCR. <i>Idyl. 25, 249</i>.<p><b>Étym</b>. ἐπί, ἄξων.`

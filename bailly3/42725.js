@@ -1,0 +1,1 @@
+lar[42725]=`<i>adv</i>., avec goût, PLUT. <i>M. 1119d ;</i> CORN. <i>50</i>.`

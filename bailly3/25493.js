@@ -1,0 +1,1 @@
+lar[25493]=`<b>δι·αρτίζω</b> (<i>pf. pass. 2 sg</i>. διήρτισαι) façonner, ajuster, arranger, SPT. <i>Job 33, 6</i>.`

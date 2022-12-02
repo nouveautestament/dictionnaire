@@ -1,0 +1,1 @@
+lar[65757]=`<b>ας (ἡ)</b> <font color="purple">[φῐτῑ]</font> ambition des petites choses, TH. <i>Char. 23</i>.<p><b>Étym</b>. μικροφιλότιμος.`

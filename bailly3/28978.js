@@ -1,0 +1,1 @@
+lar[28978]=`<b>δυσ·φιλής, ής, ές</b> <font color="purple">[ῐ]</font> odieux, ESCHL. <i>Ag. 1232, 1641 ; Eum. 54</i> ; SOPH. <i>O.C. 1258</i>.<p><b>Étym</b>. δ. φιλέω.`

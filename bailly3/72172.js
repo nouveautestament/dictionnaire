@@ -1,0 +1,1 @@
+lar[72172]=`<b>ὀξυ·σιτία, ας (ἡ)</b> <font color="purple">[ῠσῑ]</font> âcreté de l’estomac, où les aliments s’aigrissent et ne se digèrent point, ARSTD. <i>t. 1, 275</i>.<p><b>Étym</b>. ὀ. σῖτος.`

@@ -1,0 +1,1 @@
+lar[103727]=`<b>ὑπο·πρίω</b> <font color="purple">[ῑ]</font> grincer secrètement des dents, LUC. <i>D. mort. 6, 3</i>.`

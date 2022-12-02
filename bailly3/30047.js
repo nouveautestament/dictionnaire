@@ -1,0 +1,1 @@
+lar[30047]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> siège, demeure, HÉS. <i>fr. 18 Gaisford</i> ; ORPH. <i>H. 17, 7 ; d’ord. au plur</i>. ESCHL. <i>Pers. 4, etc.</i> ; SOPH. <i>O.C. 176, 233 ; Aj. 194</i>.<br><b>      2</b> support, soutien, ANTH. <i>6, 28</i>.<p><b>Étym</b>. ἕδρα.`

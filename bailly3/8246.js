@@ -1,0 +1,1 @@
+lar[8246]=`<i>adv</i>., sans crainte, sans se laisser étonner, PLUT. <i>Alex. 12, M. 260c</i>.`

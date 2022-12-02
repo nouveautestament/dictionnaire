@@ -1,0 +1,1 @@
+lar[98471]=`<i>adv</i>., en ordre, régulièrement, XÉN. <i>Œc. 8, 3</i> ; PLAT. <i>Leg. 700c ;</i> ISOCR. <i>169c</i>.<p><b>Étym</b>. τέταγμαι.`

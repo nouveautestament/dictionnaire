@@ -1,0 +1,1 @@
+lar[23702]=`<b>οῦ (ὁ)</b> action de corrompre, corruption (d’un juge, <i>etc</i>.), DH. <i>7, 64</i> ; PLUT. <i>Cato mi. 44</i> ; APP. <i>Civ. 2, 28 et 24 ; au plur</i>. PLUT. <i>Cic. 29</i>.<p><b>Étym</b>. δεκάζω.`

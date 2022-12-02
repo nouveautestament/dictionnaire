@@ -1,0 +1,1 @@
+lar[9083]=`<b>ου (ὁ)</b> = <i>lat</i>. Anicius, <i>n. d’h. rom</i>. PLUT. <i>Æmil. 13</i>.`

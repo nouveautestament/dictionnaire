@@ -1,0 +1,1 @@
+lar[52923]=`<b>ατος (τὸ)</b> remarque, observation, PLAT. <i>Epin. 987d ;</i> ARSTT. <i>Pol. 1, 11</i>.<p><b>Étym</b>. κατανοέω.`

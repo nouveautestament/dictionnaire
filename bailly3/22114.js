@@ -1,0 +1,1 @@
+lar[22114]=`<b>ητος (ἡ) :<br>   I</b> viscosité, nature gluante (d’une chose), ARSTT. <i>H.A. 3, 11, 2, etc.</i><br><b>   II</b> <i>fig.</i> :<br><b>      1</b> habitudes sordides, mesquinerie, ARSTT. <i>Pol. 7, 5, 2</i>.<br><b>      2</b> subtilité, esprit de chicane, PLUT. <i>M. 125e</i>.<p><b>Étym</b>. γλίσχρος.`

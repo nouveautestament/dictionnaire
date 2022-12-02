@@ -1,0 +1,1 @@
+lar[13829]=`<b>ἀπο·χωρίζω</b> <font color="darkgreen">(<i>f</i>. ίσω, <i>att</i>. ιῶ)</font> séparer : τι ἀπό τινος, PLAT. <i>Soph. 226d ou</i> ἔκ τινος, PLAT. <i>Tim. 84a, ou</i> τινος, PLAT. <i>Tim. 59d</i>, une chose d’une autre.`

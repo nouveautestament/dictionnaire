@@ -1,0 +1,1 @@
+lar[101326]=`<b>(ἡ)</b> Hybla, <i>n. de deux v. de Sicile</i> :<br><b>      1</b> Hybla la Grande (ἡ μείζων) (<i>auj</i>. Paternò) STR. <i>268, etc.</i><br><b>      2</b> Hybla la Petite (ἡ μικρά) HDT. <i>7, 155</i> ; THC. <i>6, 62</i>.<p>➳ <i>Ion</i>. -η, HDT. <i>l. c</i>.`

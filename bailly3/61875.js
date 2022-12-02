@@ -1,0 +1,1 @@
+lar[61875]=`<b>λυκιο·εργής</b>, <i>p. contr</i>. <b>λυκιουργής, ής, ές</b>, travaillé en Lycie, <i>ou, sel. d’autres,</i> par Lykios, <i>fils de Myron,</i> DÉM. <i>1193, 11</i> ; ATH. <i>486c</i>.<p><b>Étym</b>. Λύκιος, ἔργον.`

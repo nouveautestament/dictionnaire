@@ -1,0 +1,1 @@
+lar[71935]=`<b>ίδος (ἡ)</b> fiente d’âne, crotte d’âne, HPC. <i>667, 48 ; au pl</i>. AR. <i>Pax 4</i> ; ARSTT. <i>H.A. 5, 19</i>.<p><b>Étym</b>. ὄνος.`

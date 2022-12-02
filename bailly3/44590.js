@@ -1,0 +1,1 @@
+lar[44590]=`<b>ης (ἡ)</b> <i>c</i>. σμύρνα, NT. <i>Matth. 2, 11 var.</i> ; LUC. <i>J. voc. 9</i> ; SEXT. <i>638, 20 Bkk</i>.`

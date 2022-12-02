@@ -1,0 +1,1 @@
+lar[63763]=`<b>μελαγ·κόρυφος, ος, ον</b> <font color="purple">[ῠ]</font> à tête noire ; ὁ μ. AR. <i>Av. 887</i> ; ARSTT. <i>H.A. 8, 3, 5 ; 9, 15, 2,</i> sorte de fauvette (<i>Motacilla atricapilla</i> L.).<p><b>Étym</b>. μ. κορυφή.`

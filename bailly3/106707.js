@@ -1,0 +1,1 @@
+lar[106707]=`<b>φορμο·ρραφίς, ίδος (ἡ)</b> aiguille à coudre des nattes, EN. TACT. <i>Pol. 18</i>.<p><b>Étym</b>. φ. ῥάπτω.`

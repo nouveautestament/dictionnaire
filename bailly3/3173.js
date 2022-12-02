@@ -1,0 +1,1 @@
+lar[3173]=`<b>ἀ·καταίσχυντος, ος, ον</b>, à qui l’on ne peut inspirer de honte, CHRYS.<p><b>Étym</b>. ἀ, καταισχύνω.`

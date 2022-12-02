@@ -1,0 +1,1 @@
+lar[102268]=`<b>ὑπερ·ανατείνω</b>, étendre démesurément en haut, LUC. <i>Im. 13</i>.`

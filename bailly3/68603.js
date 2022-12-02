@@ -1,0 +1,1 @@
+lar[68603]=`<b>ος, ον</b>, innombrable, LYC. <i>415</i> ; THCR. <i>Idyl. 25, 57</i>.<p><b>Étym</b>. νη-, ἀριθμός.`

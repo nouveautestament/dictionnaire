@@ -1,0 +1,1 @@
+lar[1957]=`<b>ἀ·θαρσής, ής, ές</b>, sans courage, lâche, PLUT. <i>Cic. 35, Nic. 4</i>.<p><b>Étym</b>. ἀ, θάρσος.`

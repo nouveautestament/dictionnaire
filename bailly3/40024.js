@@ -1,0 +1,1 @@
+lar[40024]=`<b>ἑπτα·τειχής, ής, ές</b>, garni de sept murailles, ESCHL. <i>Sept. 284</i>.<p><b>Étym</b>. ἑ. τεῖχος.`

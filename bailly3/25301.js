@@ -1,0 +1,1 @@
+lar[25301]=`<b>δι·απλόω-ῶ</b>, déployer, NYSS. <i>3, 420, 1081b Migne</i>.<p><b>Étym</b>. <i>part. pf. pass</i>. διηπλωμένος.`

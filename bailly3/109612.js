@@ -1,0 +1,1 @@
+lar[109612]=`<b>ψελιο·φόρος, ος, ον</b>, qui porte des bracelets, HDT. <i>8, 113</i>.<p><b>Étym</b>. ψέλιον, φέρω.`

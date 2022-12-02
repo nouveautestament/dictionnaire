@@ -1,0 +1,1 @@
+lar[109725]=`<b>ψευδο·προφῆτις, ιδος (ἡ)</b> fausse prophétesse, TERTULL. (<i>fém. de</i> ψευδοπροφήτης).`

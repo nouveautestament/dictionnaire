@@ -1,0 +1,1 @@
+lar[26262]=`<b>δι·ερευνάω-ῶ</b>, chercher partout avec soin, explorer, fouiller soigneusement, PLAT. <i>Theæt. 168e ;</i> POL. <i>14, 3, 7</i> ; APP. <i>Civ. 5, 98</i>.<br><b><i>Moy.</i></b> <i>même sign</i>. PLAT. <i>Menex. 240b, Soph. 236d ;</i> PLUT. <i>Them. 10</i>.`

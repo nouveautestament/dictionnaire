@@ -1,0 +1,1 @@
+lar[61625]=`<b>λοξο·τρόχις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῐδ]</font> à la course tortueuse, <i>càd</i>. aux paroles équivoques <i>ou</i> obscures, ANTH. <i>9, 191</i>.<p><b>Étym</b>. λ. τρέχω.`

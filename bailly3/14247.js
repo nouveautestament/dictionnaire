@@ -1,0 +1,1 @@
+lar[14247]=`<b>οῦ (ὁ)</b> sorte de serpent, HPC. <i>1160 ; sobriquet de Démosthène,</i> ESCHN. <i>41, 15</i> ; PLUT. <i>Dem. 4</i>.<p>➳ <i>Dor</i>. ἀργᾶς, ᾶ, ESCHN. PLUT. <i>ll. cc</i>.`

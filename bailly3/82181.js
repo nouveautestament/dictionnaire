@@ -1,0 +1,1 @@
+lar[82181]=`<b>πολυ·οδία, ας (ἡ)</b> multiplicité de chemins <i>ou</i> longue route, SPT. <i>Esaï. 57, 10</i>.<p><b>Étym</b>. π. ὁδός.`

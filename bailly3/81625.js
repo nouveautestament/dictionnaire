@@ -1,0 +1,1 @@
+lar[81625]=`<b>ης, ες</b>, grisonnant, qui blanchit, LUC. <i>Alex. 60</i>.<p><b>Étym</b>. πολιός, -ωδης.`

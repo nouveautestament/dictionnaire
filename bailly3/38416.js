@@ -1,0 +1,1 @@
+lar[38416]=`<b>ἐπί·μεσος, ος, ον</b>, qui occupe le milieu : ῥῆμα ἐπ. GRAMM. verbe moyen.`

@@ -1,0 +1,1 @@
+lar[1690]=`<b>ἀει·παθής, ής, ές</b> <font color="purple">[πᾰ]</font> toujours souffrant, CRITON (STOB. <i>Fl. 3, 75, vol. 1, p. 84, l. 16 Mein</i>.).<p><b>Étym</b>. ἀ. πάθος.`

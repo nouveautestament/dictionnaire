@@ -1,0 +1,1 @@
+lar[52345]=`<b>κατά·δουπος, ου (ὁ)</b> bruit d’un corps qui tombe de haut, <i>d’où</i> cataracte ; <i>au pl</i>. οἱ Κατάδουποι (<i>lat</i>. Catadupi, PLIN. <i>H.N. 5, 9</i>) TH. <i>Lap. 34</i> ; PHILSTR. <i>p. 264</i> ; HIM. <i>Or. 8, 5 ; et p.-ê</i>. HDT. (<i>v</i>. Κατάδουπα) les Cataractes du Nil.<p><b>Étym</b>. κ. δοῦπος.`

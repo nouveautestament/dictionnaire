@@ -1,0 +1,1 @@
+lar[6412]=`<b>ἀμφι·τρυχής, ής, ές</b> <font color="purple">[ῠ]</font> déchiré autour, EUR. <i>Ph. 328</i>.<p><b>Étym</b>. ἀ. τρύχω.`

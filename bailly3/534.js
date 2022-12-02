@@ -1,0 +1,1 @@
+lar[534]=`<b>ἀ·γεώργητος, ος, ον</b> <font color="purple">[ᾰ]</font> non cultivé, inculte, TH. <i>C.P. 1, 16, 2</i>.<p><b>Étym</b>. ἀ, γεωργέω.`

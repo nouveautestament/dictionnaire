@@ -1,0 +1,1 @@
+lar[88862]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> travail avec le rabot, BITON (<i>Math. vet. p. 109).</i><p><b>Étym</b>. ῥυκάνη.`

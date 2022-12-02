@@ -1,0 +1,1 @@
+lar[53423]=`<b>κατα·σταμνίζω</b>, mettre dans un vase de terre, mettre en pot, <i>en parl. du vin,</i> TH. <i>C.P. 2, 18, 4</i> ; κατεσταμνισμένοι λάγυνοι, NICOSTR. <i>fr. 11,</i> flacons de vin.`

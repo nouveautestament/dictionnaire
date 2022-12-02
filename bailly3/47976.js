@@ -1,0 +1,1 @@
+lar[47976]=`<b>θυννοσκοπέω-ῶ</b>, guetter comme un pêcheur de thons, AR. <i>Eq. 313</i>.`

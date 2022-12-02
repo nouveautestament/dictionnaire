@@ -1,0 +1,1 @@
+lar[78435]=`<b>περι·βιόω-ῶ :<br>      1 <i>intr.</i></b> survivre, PLUT. <i>Cor. 11, Ant. 53</i>.<br><b>      2 <i>tr.</i></b> conserver à la vie, SPT. <i>Ex. 22, 18</i>.`

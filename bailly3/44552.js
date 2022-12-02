@@ -1,0 +1,1 @@
+lar[44552]=`<b>Ζηνό·φρων, ονος (ὁ)</b> qui transmet la pensée de Zeus (Apollon) ANTH. <i>9, 525</i>.<p><b>Étym</b>. Ζήν, φρήν.`

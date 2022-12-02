@@ -1,0 +1,1 @@
+lar[26335]=`<b>ής, ές</b>, interrompu, disjoint, séparé, PLUT. <i>M. 115f, 966e ; p. opp. à</i> συνεχής, PLAT. <i>Leg. 738a</i>.<p><b>Étym</b>. διέχω.`

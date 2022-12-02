@@ -1,0 +1,1 @@
+lar[99770]=`<i>crase att. et poét. p</i>. τοῦ ἐπιόντος, <i>gén. sg. part. prés. de</i> ἔπειμι.`

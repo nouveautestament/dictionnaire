@@ -1,0 +1,1 @@
+lar[13537]=`<font color="purple">[τᾰ]</font> <i>adv.</i> :<br><b>      1</b> avec tension, avec force, LUC. <i>Zeux. 4</i> ; EL. <i>N.A. 4, 21</i>.<br><b>      2</b> tout au long, avec prolixité, PHILSTR. <i>481, etc</i>.<p><b>Étym</b>. ἀποτα- <i>rad. vb. de</i> ἀποτείνω, -δην.`

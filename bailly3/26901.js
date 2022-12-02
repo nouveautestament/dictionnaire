@@ -1,0 +1,1 @@
+lar[26901]=`<b>Διο·τίμα, ης (ἡ)</b> <font color="purple">[τῑ]</font> Diotima, PLAT. <i>Conv. 201d ;</i> LUC. <i>Im. 18, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Διότιμος.`

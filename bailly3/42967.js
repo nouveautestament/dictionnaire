@@ -1,0 +1,1 @@
+lar[42967]=`<b>εὔ·πειστος, ος, ον :<br>      1</b> facile à persuader, ARSTT. <i>Nic. 7, 9</i>.<br><b>      2</b> au sujet de quoi il est facile de persuader, SOPH. <i>Aj. 151 (sel. d’autres,</i> εὔπιστα).<p><b>Étym</b>. εὖ, πείθω.`

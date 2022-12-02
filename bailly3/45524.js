@@ -1,0 +1,1 @@
+lar[45524]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font> demi-coudée, SEXT. <i>M. 7, 105</i>.<p><b>Étym</b>. ἡμίπηχυς.`

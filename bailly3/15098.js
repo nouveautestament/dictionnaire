@@ -1,0 +1,1 @@
+lar[15098]=`<b>ἄ·ρραφος, ος, ον</b> <font color="purple">[ρᾰ]</font> sans couture, JOS. <i>A.J. 3, 7, 4</i> ; NT. <i>Joh. 19, 23</i>.<p><b>Étym</b>. ἀ, ῥάπτω.`

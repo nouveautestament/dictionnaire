@@ -1,0 +1,1 @@
+lar[90484]=`<b>ου (τὸ)</b> <font color="purple">[ῑᾰ]</font><br><b>      1</b> un peu de blé, PHILÉM. (<i>Com. fr. 4, 38</i>) ; PLUT. <i>M. 1097d.</i><br><b>      2</b> un peu de pain, POL. <i>16, 24, 5</i>.<br><b>      3</b> <i>p. ext</i>. un peu de nourriture, HPC. <i>1093g</i>.<p><b>Étym</b>. σῖτος.`

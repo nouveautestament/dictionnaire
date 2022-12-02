@@ -1,0 +1,1 @@
+lar[99355]=`<b>τιτανόω-ῶ</b> <font color="purple">[ῐᾰ]</font> enduire de chaux <i>ou</i> de plâtre, STR. <i>505</i>.<p><b>Étym</b>. τίτανος.`

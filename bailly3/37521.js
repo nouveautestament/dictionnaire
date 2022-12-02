@@ -1,0 +1,1 @@
+lar[37521]=`<b>ἐπι·δεικνύω</b> (<i>seul. prés. part</i>. -ύων, XÉN. <i>Mem. 4, 1, 3</i> ; DÉM. <i>53, 1 Baiter-Sauppe ; et impf. 3 sg</i>. ἐπεδείκνυε, XÉN. <i>Cyr. 1, 4, 10) c</i>. ἐπιδείκνυμι.`

@@ -1,0 +1,1 @@
+lar[6715]=`<b>ἀνα·δινέω-ῶ</b> <font color="purple">[ῑ]</font> <i>intr</i>. rouler, tournoyer, HPC. <i>t. 8, p. 84 Littré</i>.`

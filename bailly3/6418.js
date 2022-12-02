@@ -1,0 +1,1 @@
+lar[6418]=`<b>ἀμφί·φαλος, ος, ον</b> <font color="purple">[φᾰ]</font> à deux cimiers, IL. <i>5, 743 ; 11, 41 (cf</i>. τετραφάληρος).<p><b>Étym</b>. ἀ. φάλος.`

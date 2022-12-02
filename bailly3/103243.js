@@ -1,0 +1,1 @@
+lar[103243]=`<b>ὑπο·θάλπω :<br>      1</b> échauffer sous, <i>d’où au pass</i>. s’échauffer sous, couver sous, <i>dat</i>. ANTH. <i>12, 92</i>.<br><b>      2</b> échauffer doucement <i>ou</i> au fond, ESCHL. <i>Pr. 880</i> ; PHILSTR. <i>43</i>.`

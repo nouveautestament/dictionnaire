@@ -1,0 +1,1 @@
+lar[67647]=`<b>ναρδο·λιπής, ής, ές</b> <font color="purple">[ῐ]</font> graissé d’huile de nard, ANTH. <i>6, 254</i>.<p><b>Étym</b>. νάρδος, λίπος.`

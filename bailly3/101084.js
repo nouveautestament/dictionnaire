@@ -1,0 +1,1 @@
+lar[101084]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> celui qui façonne, qui modèle, ORPH. <i>fr. 2, 8</i>.<p><b>Étym</b>. τυπόω.`

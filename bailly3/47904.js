@@ -1,0 +1,1 @@
+lar[47904]=`<b>ας (ἡ)</b> <font color="purple">[ῡ]</font> joie, satisfaction, EUP. (ATH. <i>286b</i>) ; PLUT. <i>M. 713d ; au pl</i>. LUC. <i>Abd. 5</i>.<p><b>Étym</b>. θυμηδής.`

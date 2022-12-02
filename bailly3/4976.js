@@ -1,0 +1,1 @@
+lar[4976]=`<b>ης (ἡ)</b> alsine (<i>p.-ê. Cerasticum aquaticum</i> L.) <i>plante,</i> TH. <i>H.P. 9, 13, 3</i>.`

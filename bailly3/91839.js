@@ -1,0 +1,1 @@
+lar[91839]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> semence, SYMM. <i>Ps. 64, 10</i>.<p><b>Étym</b>. σπέρμα.`

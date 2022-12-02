@@ -1,0 +1,1 @@
+lar[56023]=`<i>adv</i>., par la voie du sort, SPT. <i>Jos. 21, 4</i>.<p><b>Étym</b>. κληρωτός.`

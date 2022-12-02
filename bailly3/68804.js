@@ -1,0 +1,1 @@
+lar[68804]=`<b>ων (οἱ)</b> les Ninivites, HDT. <i>3, 155</i>.<p><b>Étym</b>. Νίνος.`

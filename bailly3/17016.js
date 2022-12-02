@@ -1,0 +1,1 @@
+lar[17016]=`<b>ου (ὁ)</b> <font color="purple">[τᾰᾰ]</font> miette de pain, APD. <i>et</i> THÉOD. ATH. (ATH. <i>646c</i>) ; οὐδ' ὅσον ἀττάραγόν σε δεδοίκαμες, ANTH. <i>12, 150,</i> nous ne te craignons guère.<p><b>Étym</b>. <i>litt</i>. nous ne te craignons mie.`

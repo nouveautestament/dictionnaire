@@ -1,0 +1,1 @@
+lar[71563]=`<i>adv</i>., de la même manière que, <i>dat</i>. THC. <i>6, 20</i> ; ARSTT. <i>G.A. 3, 5, etc</i>.`

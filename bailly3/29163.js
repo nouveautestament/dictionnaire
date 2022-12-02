@@ -1,0 +1,1 @@
+lar[29163]=`<b>ίδος (ἡ)</b> Dôris (la Dorienne) :<br><b>      1</b> <i>mère des Néréïdes,</i> HÉS. <i>Th. 241, etc.</i><br><b>      2</b> <i>Néréïde,</i> IL. <i>18, 45</i>.<br><b>      3</b> <i>autres,</i> PLAT. <i>Ep. 313a ;</i> PLUT. <i>Dio. 3, etc</i>.`

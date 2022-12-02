@@ -1,0 +1,1 @@
+lar[12222]=`<b>ἀπο·δάκνω</b> <font color="darkgreen">(<i>f</i>. -δήξομαι, <i>ao.2</i> ἀπέδακον, <i>part. pf. pass</i>. ἀποδεδηγμένος, <i>etc</i>.)</font> déchirer avec les dents, mordre dans, XÉN. <i>Conv. 5, 7</i> ; ARISTOM. (ATH. <i>11d</i>) ; LUC. <i>D. mer. 12, 1, etc.</i><br><b><i>Moy.</i></b> <i>m. sign</i>. ARSTT. <i>Probl. 31, 9</i>.`

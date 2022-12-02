@@ -1,0 +1,1 @@
+lar[37475]=`<b>εως (ἡ) :<br>      1</b> action de reconnaître, HDN <i>7, 6</i>.<br><b>      2</b> action de reconnaître, de pratiquer (qqe ch.) PLUT. <i>M. 1145a ; d’où abs</i>. connaissance de qqe ch. : SPT. <i>Prov. 2, 5 ; Hos. 4, 1 ; 8, 6</i> ; NT. <i>Rom. 10, 2, etc.</i><br><b>      3</b> recherche, examen, POL. <i>2, 7, 6, etc</i>.<p><b>Étym</b>. ἐπιγιγνώσκω.`

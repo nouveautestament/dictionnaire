@@ -1,0 +1,1 @@
+lar[72833]=`<b>οῦ (ὁ) :<br>      1</b> celui qui fixe les bornes, les limites, HYPÉR. <i>Eux. p. 9</i>.<br><b>      2</b> <i>fig</i>. celui qui établit des règles, DÉM. <i>199, 17</i>.<p><b>Étym</b>. ὁρίζω.`

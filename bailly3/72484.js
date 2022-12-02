@@ -1,0 +1,1 @@
+lar[72484]=`<b>ὀπωρο·βασιλίς, ίδος (ἡ)</b> <font color="purple">[ᾰσῐ]</font> sorte de figue délicate, <i>propr</i>. « le roi des fruits », ANON. (ATH. <i>75d</i>).<p><b>Étym</b>. ὀπώρα, βασιλεύς.`

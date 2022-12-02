@@ -1,0 +1,1 @@
+lar[76148]=`<b>παρα·ρράπτω</b>, coudre auprès, <i>particul</i>. coudre une bordure, border, HDT. <i>4, 109</i>.<p><b>Étym</b>. π. ῥάπτω.`

@@ -1,0 +1,1 @@
+lar[3630]=`<b>ἀ·κράδαντος, ος, ον</b> <font color="purple">[ᾰδ]</font> non ébranlé, PHIL. <i>1, 231</i>.<p><b>Étym</b>. ἀ, κραδαίνω.`

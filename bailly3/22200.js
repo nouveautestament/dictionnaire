@@ -1,0 +1,1 @@
+lar[22200]=`<b>ου (ὁ)</b> graveur <i>ou</i> sculpteur, A. PL. <i>142, 145</i>.<p><b>Étym</b>. γλύφω.`

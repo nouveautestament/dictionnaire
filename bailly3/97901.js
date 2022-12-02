@@ -1,0 +1,1 @@
+lar[97901]=`<b>ταχυ·μετάβολος, ος, ον</b> <font color="purple">[ᾰῠᾰ]</font> qui change <i>ou</i> peut changer promptement, PTOL. <i>1, 17, 7</i>.<p><b>Étym</b>. τ. μεταβολή.`

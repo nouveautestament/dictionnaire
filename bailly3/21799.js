@@ -1,0 +1,1 @@
+lar[21799]=`<b>ή, όν</b>, de vieillard, PLAT. <i>Leg. 761c ;</i> STR. <i>649</i> ; PLUT. <i>Brut. 12</i> ; τὸ γεροντικόν, POL. <i>6, 51, 2 (var</i>. γερόντιον), l’assemblée des vieillards, le sénat.<p><b>Étym</b>. γέρων.`

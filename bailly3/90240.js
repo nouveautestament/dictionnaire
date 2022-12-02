@@ -1,0 +1,1 @@
+lar[90240]=`<i>ou</i> <b>σίκινις, ιδος</b>, <i>acc</i>. <b>ιν (ἡ)</b> <font color="purple">[σῐ]</font> danse de Satyres, <i>dans le drame satyrique, ainsi nommée de l’inventeur Sikinnos,</i> EUR. <i>Cycl. 37</i> ; DH. <i>7, 72</i> ; LUC. <i>Salt. 22</i>.<p><b>Étym</b>. Σίκιννος.`

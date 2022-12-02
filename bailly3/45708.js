@@ -1,0 +1,1 @@
+lar[45708]=`<b>α, ον</b>, placé sur le rivage, ANTH. <i>7, 383</i>.<p><b>Étym</b>. ἠϊών.`

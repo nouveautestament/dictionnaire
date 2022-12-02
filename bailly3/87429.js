@@ -1,0 +1,1 @@
+lar[87429]=`<i>ion</i>. <b>πτυελώδης, ης, ες</b> <font color="purple">[ᾰ]</font> plein de salive, HPC. <i>213, etc</i>.<p><b>Étym</b>. πτύαλον, -ωδης.`

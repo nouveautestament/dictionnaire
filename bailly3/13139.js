@@ -1,0 +1,1 @@
+lar[13139]=`<b>ἀπο·πρό :<br>      1</b> <i>adv</i>., loin en avant, IL. <i>16, 669</i>.<br><b>      2</b> <i>prép</i>. loin de, <i>gén</i>. IL. <i>7, 334</i> ; EUR. <i>H.f. 1081</i>.`

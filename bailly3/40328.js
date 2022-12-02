@@ -1,0 +1,1 @@
+lar[40328]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> garance, <i>plante qui sert à teindre en rouge,</i> HDT. <i>4, 189</i> ; TH. <i>H.P. 9, 13, 6</i>.<p><b>Étym</b>. <i>cf</i>. ἐρυθρόδανον.`

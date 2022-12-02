@@ -1,0 +1,1 @@
+lar[56895]=`<b>ή, όν</b>, qui aime à se rouler dans la poussière, ARSTT. <i>H.A. 9, 49</i>.<p><b>Étym</b>. κονίζω.`

@@ -1,0 +1,1 @@
+lar[13531]=`<b>ἀπο·σχολέομαι-οῦμαι</b>, être occupé : περί τι, LUC. <i>Charid. 19 conj</i>. à qqe ch.<p><b>Étym</b>. ἀ. σχολή.`

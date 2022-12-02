@@ -1,0 +1,1 @@
+lar[108973]=`<b>χρησμηγορέω-ῶ</b>, prononcer des oracles, prophétiser, LUC. <i>Syr. 10</i>.<p><b>Étym</b>. χρησμηγόρος.`

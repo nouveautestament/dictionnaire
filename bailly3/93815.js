@@ -1,0 +1,1 @@
+lar[93815]=`<b>συμ·βακχεύω</b>, célébrer les bacchanales avec : τινί, PHILSTR. <i>Im. p. 785, 838,</i> avec qqn ; s’enthousiasmer : μετά τινος, PLAT. <i>Phædr. 234d</i>, avec qqn ; <i>abs</i>. EUR. <i>Bacch. 725</i>.`

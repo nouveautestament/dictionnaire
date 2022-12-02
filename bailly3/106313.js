@@ -1,0 +1,1 @@
+lar[106313]=`<b>ου (ὁ)</b> = <i>lat</i>. Flaminius :<br><b>      1</b> <i>n. d’h. rom</i>. PLUT. <i>Fab. 2, Æmil. 8, etc.</i><br><b>      2</b> <i>n. d’un cirque, à Rome,</i> PLUT. <i>Qu. rom. 66, etc</i>.`

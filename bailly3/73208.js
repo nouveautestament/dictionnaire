@@ -1,0 +1,1 @@
+lar[73208]=`<b>ου (ὁ)</b> <i>n. égyptien de la plante Cynocephalia,</i> APION (PLIN. <i>H.N. 30, 6).</i><p><b>Étym</b>. Ὄσιρις.`

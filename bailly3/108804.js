@@ -1,0 +1,1 @@
+lar[108804]=`<b>χορ·ίαμβος, ου (ὁ)</b> choriambe, <i>pied de quatre syllabes (‒ ⏑ ⏑ ‒) formant un chorée ou trochée et un iambe,</i> GRAMM.<p><b>Étym</b>. χορεῖος, ἴ.`

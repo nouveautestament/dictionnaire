@@ -1,0 +1,1 @@
+lar[11789]=`<i>adv</i>., sans se laisser distraire, avec suite, POL. <i>2, 20, 11 ; 4, 18, 16 ; 12, 28, 4</i> ; PLUT. <i>M. 281c ;</i> ARR. <i>Epict. 1, 29, 59</i>.`

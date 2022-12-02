@@ -1,0 +1,1 @@
+lar[64364]=`<b>ωνος (ὁ)</b> Ménon, <i>h</i>. IL. <i>12, 193</i> ; THC. <i>2, 22</i> ; XÉN. <i>Mem. 2, 7, 6, etc. ; titre d’un dialogue de Platon</i>.<p>➳ <i>Voc</i>. Μένων, PLAT. <i>Men. 70a, etc. Gén</i>. -οντος, Q. SM. <i>10, 118 ; 11, 481</i>.`

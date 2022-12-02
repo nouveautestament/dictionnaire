@@ -1,0 +1,1 @@
+lar[24877]=`<b>ας (ἡ)</b> fonction de messager, ANTH. <i>6, 68</i> ; NONN. <i>Jo. 12, 155</i>.<p><b>Étym</b>. διάκτορος.`

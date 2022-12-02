@@ -1,0 +1,1 @@
+lar[107335]=`<b>φυτ·ώνυμος, ος, ον</b> <font color="purple">[ῠῠ]</font> qui tire son nom d’une plante <i>ou</i> d’un arbre, ANTH. <i>14, 34</i> ; A. TAT. <i>2, 14</i>.<p><b>Étym</b>. φυτόν, ὄνομα.`

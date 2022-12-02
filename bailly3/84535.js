@@ -1,0 +1,1 @@
+lar[84535]=`<b>προ·κατηχέω-ῶ</b>, instruire auparavant, donner les premières leçons, initier, HLD. <i>9, 9</i>.`

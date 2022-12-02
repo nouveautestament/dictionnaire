@@ -1,0 +1,1 @@
+lar[37421]=`<b>ας (ἡ)</b> parenté par mariage, par alliance, M. RUBR. <i>16</i>.<p><b>Étym</b>. ἐπιγαμβρεύω.`

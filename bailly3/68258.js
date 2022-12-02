@@ -1,0 +1,1 @@
+lar[68258]=`<b>νεό·στεπτος, ος, ον</b>, nouvellement couronné, OPP. <i>H. 1, 198</i>.<p><b>Étym</b>. ν. στέφω.`

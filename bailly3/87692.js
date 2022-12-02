@@ -1,0 +1,1 @@
+lar[87692]=`<font color="purple">[ῠ]</font> <i>adv</i>., de Pylos, OD. <i>16, 323</i>.<p><b>Étym</b>. Πύλος, -θεν.`

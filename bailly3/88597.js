@@ -1,0 +1,1 @@
+lar[88597]=`<b>ατος (τὸ)</b> <font color="purple">[ῑ]</font> limaille, raclure, HPC. <i>626, 41</i> ; EUR. <i>fr. 725 Nauck, etc</i>.<p><b>Étym</b>. ῥινάω¹.`

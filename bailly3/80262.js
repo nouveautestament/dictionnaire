@@ -1,0 +1,1 @@
+lar[80262]=`<b>ωνος (ὁ)</b> <font color="purple">[ῐ]</font> <i>c</i>. πίθηκος, BABR. <i>56, 4 ; fig</i>. PD. <i>P. 2, 132</i> ; SOSTRAT. (EUST. <i>1665, 53</i>).`

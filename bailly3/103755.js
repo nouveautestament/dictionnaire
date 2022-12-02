@@ -1,0 +1,1 @@
+lar[103755]=`<b>ὑπό·πυος, ος, ον</b> <font color="purple">[πῡ]</font><br><b>      1</b> qui tend à suppurer, HPC. <i>V.C. 908</i> ; ARSTT. <i>H.A. 3, 20</i> ; τὸ ὑπόπυον, GAL. <i>14, 771,</i> sorte d’ulcère.<br><b>      2</b> mêlé de pus, ARSTT. <i>H.A. 3, 20, 9</i>.<p><b>Étym</b>. ὑ. πῦον.`

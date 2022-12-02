@@ -1,0 +1,1 @@
+lar[28329]=`<b>δυσ·είκαστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à conjecturer, obscur, DH. <i>1, 32 ; Lys. 4 ; Thuc. propr. 3 ; Thuc. 29</i>.<p><b>Étym</b>. δ. εἰκάζω.`

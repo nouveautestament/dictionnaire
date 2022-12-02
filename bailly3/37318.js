@@ -1,0 +1,1 @@
+lar[37318]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> attaque, DC. <i>68, 13</i>.<br><b>      2</b> poursuite judiciaire, procès, HYPÉR. (POLL. <i>2, 200</i>).`

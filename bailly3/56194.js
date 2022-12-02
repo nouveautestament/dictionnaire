@@ -1,0 +1,1 @@
+lar[56194]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> rejeton, GEOP. <i>12, 19, 9</i>.`

@@ -1,0 +1,1 @@
+lar[95629]=`<b>συν·επικαλέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> invoquer ensemble <i>ou</i> en même temps, ARR. <i>An. 6, 3</i>.`

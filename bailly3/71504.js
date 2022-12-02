@@ -1,0 +1,1 @@
+lar[71504]=`<b>ὁμο·θάλαμος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui habite la même chambre, la même demeure, PD. <i>P. 11, 4</i>.<p><b>Étym</b>. ὁμ. θάλαμος.`

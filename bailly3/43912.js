@@ -1,0 +1,1 @@
+lar[43912]=`<b>ίδος (ἡ)</b> sorte de manteau de soldat, POL. <i>31, 3, 10 ; ou</i> de femme, STR. <i>294</i>.<p><b>Étym</b>. ἐφάπτω¹.`

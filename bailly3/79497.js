@@ -1,0 +1,1 @@
+lar[79497]=`<b>ατος (τὸ)</b> morceau coupé tout autour, coupure, fragment, <i>fig</i>. PLAT. <i>Hipp. ma. 304a ;</i> M. ANT. <i>8, 50, etc</i>.<p><b>Étym</b>. περιτέμνω.`

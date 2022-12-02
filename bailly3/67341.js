@@ -1,0 +1,1 @@
+lar[67341]=`<b>μυρρινίτης οἶνος (ὁ)</b> vin préparé avec des baies de myrte, EL. <i>V.H. 12, 31</i>.<p><b>Étym</b>. μυρρίνη.`

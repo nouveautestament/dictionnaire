@@ -1,0 +1,1 @@
+lar[68029]=`<b>νεκρόω-ῶ :<br>      1</b> faire mourir, <i>d’où au pass</i>. mourir, ANTH. <i>App. 313, 5</i> ; NT. <i>Rom. 4, 19 ; Hebr. 11, 12</i>.<br><b>      2</b> rendre comme mort, mortifier, paralyser, NT. <i>Col. 3, 5</i>.<p><b>Étym</b>. νεκρός.`

@@ -1,0 +1,1 @@
+lar[10469]=`<b>ἀντι·σφίγγω</b>, serrer l’un contre l’autre, HPC. <i>Art. 781 Littré</i>.`

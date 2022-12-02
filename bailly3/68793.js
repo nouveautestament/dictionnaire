@@ -1,0 +1,1 @@
+lar[68793]=`<b>Νικο·φῶν, ῶντος (ὁ)</b> <font color="purple">[ῑ]</font> Nikophôn :<br><b>      1</b> <i>poète de l’ancienne comédie</i>.<br><b>      2</b> <i>autres,</i> ANTH. <i>6, 256</i>.<p><b>Étym</b>. νίκη, φάω.`

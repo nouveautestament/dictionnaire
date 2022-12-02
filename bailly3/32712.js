@@ -1,0 +1,1 @@
+lar[32712]=`<b>Ἐλευθερο·λάκονες, ων (οἱ)</b> <font color="purple">[ᾰ]</font> populations indépendantes de Laconie, <i>sous les Romains,</i> STR. <i>366</i>.<p><b>Étym</b>. ἐλεύθερος, Λάκων.`

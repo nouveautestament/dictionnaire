@@ -1,0 +1,1 @@
+lar[27281]=`<b>ή, όν :<br>      1</b> poursuivi, chassé, banni, SOPH. <i>fr. 870</i>.<br><b>      2</b> qu’on peut <i>ou</i> doit poursuivre <i>ou</i> rechercher, CHRYS. (ATH. <i>8d</i>) ; ARSTT. <i>Nic. 1, 7, 4 ; An. 3, 7 et 9</i>.<p><b>Étym</b>. διώκω.`

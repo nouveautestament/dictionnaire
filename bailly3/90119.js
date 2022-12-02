@@ -1,0 +1,1 @@
+lar[90119]=`<b>οῦ (ὁ) :<br>      1</b> sifflement, ARSTT. <i>H.A. 4, 9, 9</i> ; PLUT. <i>M. 593b.</i><br><b>      2</b> son sifflant du sigma, D. THR. <i>631, 18</i> ; SEXT. <i>M. 1, 102</i>.<p><b>Étym</b>. σίζω.`

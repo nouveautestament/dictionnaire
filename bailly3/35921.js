@@ -1,0 +1,1 @@
+lar[35921]=`<b>ου (ὁ)</b> Exèkestidès :<br><b>      1</b> <i>père de Solon,</i> PLUT. <i>Sol. 1</i>.<br><b>      2</b> <i>joueur de lyre,</i> AR. <i>Av. 11</i>.<p><b>Étym</b>. <i>patr. de</i> Ἐξήκεστος.`

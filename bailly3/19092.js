@@ -1,0 +1,1 @@
+lar[19092]=`<b>ου (ὁ)</b> Bartholomée, <i>n. d’h. hébr</i>. NT.`

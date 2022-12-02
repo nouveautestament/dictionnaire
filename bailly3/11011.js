@@ -1,0 +1,1 @@
+lar[11011]=`<b>ἀοιδο·τόκος, ος, ον</b> <font color="purple">[ᾰ]</font> qui enfante des chants, ANTH. <i>9, 364</i>.<p><b>Étym</b>. ἀοιδή, τίκτω.`

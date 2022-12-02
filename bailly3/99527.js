@@ -1,0 +1,1 @@
+lar[99527]=`<b>ας (ἡ)</b> hardiesse, audace, NAZ.<p><b>Étym</b>. τολμηρός.`

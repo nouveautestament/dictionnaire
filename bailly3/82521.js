@@ -1,0 +1,1 @@
+lar[82521]=`<b>πολύ·φονος, ος, ον</b> <font color="purple">[ῠ]</font> très meurtrier, EUR. <i>H.f. 420, etc</i>.<p><b>Étym</b>. π. πεφνεῖν.`

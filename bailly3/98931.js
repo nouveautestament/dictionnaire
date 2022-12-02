@@ -1,0 +1,1 @@
+lar[98931]=`<b>τηλε·κλητός, ός, όν</b> (<i>conj. de Wolf p</i>. τηλεκλειτός) appelé de loin au secours, <i>ép. des combattants,</i> IL. <i>5, 491, etc</i>.<p><b>Étym</b>. τ. καλέω.`

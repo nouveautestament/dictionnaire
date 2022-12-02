@@ -1,0 +1,1 @@
+lar[14561]=`<b>ου (ὁ)</b> Ariaménès, <i>fils de Darius,</i> PLUT. <i>Them. 14, etc</i>.`

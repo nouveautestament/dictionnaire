@@ -1,0 +1,1 @@
+lar[47902]=`<b>θυμηδέω-ῶ</b> <font color="purple">[ῡ]</font> être joyeux, SIM. AM. <i>Iamb. fr. 6, 103</i> ; ἐπί τινι, HLD. <i>10, 3,</i> de qqe ch.<p><b>Étym</b>. θυμηδής.`

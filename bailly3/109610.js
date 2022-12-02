@@ -1,0 +1,1 @@
+lar[109610]=`<b>ή, όν</b>, blâmable, PLAT. <i>Crat. 416d ;</i> ARSTT. <i>Nic. 2, 9, 8, etc.</i> ; POL. <i>3, 4, 1 et 7</i>.<p><b>Étym</b>. <i>vb. de</i> ψέγω.`

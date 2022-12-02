@@ -1,0 +1,1 @@
+lar[62329]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font><br><b>      1</b> qui concerne l’instruction, PLAT. <i>Soph. 219c.</i><br><b>      2</b> désireux <i>ou</i> capable d’apprendre, PLAT. <i>Rsp. 475d ;</i> ARSTT. <i>Metaph. 11</i>.<p>•<i> Cp</i>. -ώτερος, ARSTT. <i>H.A. 9, 1</i>.<p><b>Étym</b>. μανθάνω.`

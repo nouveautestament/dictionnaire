@@ -1,0 +1,1 @@
+lar[42323]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> mouvement en droite ligne, ARSTT. <i>Phys. 5, 4, 3</i>.<p><b>Étym</b>. εὐ. -φορος <i>de</i> φέρω.`

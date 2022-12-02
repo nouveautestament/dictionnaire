@@ -1,0 +1,1 @@
+lar[64438]=`<b>μέσ·ακτος, ος, ον</b>, brisé par le milieu, ESCHL. <i>fr. 208</i>.<p><b>Étym</b>. μ. ἄγνυμι.`

@@ -1,0 +1,1 @@
+lar[52382]=`<b>κατα·ζώννυμι</b>, ceindre, entourer, DH. <i>2, 70</i>.<br><b><i>Moy.</i></b> :<br><b>      1 <i>intr.</i></b> se ceindre, EUR. <i>Bacch. 698</i>.<br><b>      2 <i>tr.</i></b> ceindre, entourer, PLUT. <i>Pyrrh. 27</i>.`

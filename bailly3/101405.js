@@ -1,0 +1,1 @@
+lar[101405]=`<b>ὑγρο·μελής, ής, ές</b>, aux membres souples, XÉN. <i>Cyn. 5, 13</i> ; ARR. <i>Cyn. 25, 1</i>.<p><b>Étym</b>. ὑ. μέλος.`

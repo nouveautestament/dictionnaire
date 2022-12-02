@@ -1,0 +1,1 @@
+lar[41755]=`<b>Εὐ·γενής (ὁ)</b> Eugénès, <i>poète de l’Anthologie,</i> A. PL. <i>4, 308</i>.<p><b>Étym</b>. <i>v</i>. εὐγενής.`

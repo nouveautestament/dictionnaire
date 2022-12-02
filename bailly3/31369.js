@@ -1,0 +1,1 @@
+lar[31369]=`<b>ἑκκαιδεκά·λινος, ος, ον</b> <font color="purple">[ᾰ]</font> à seize fils (tissu) XÉN. <i>Cyn. 2, 5, 16</i>.<p><b>Étym</b>. ἑ. λίνον.`

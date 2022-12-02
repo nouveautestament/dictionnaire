@@ -1,0 +1,1 @@
+lar[12651]=`<b>ἀπο·κρατέω-ῶ</b> <font color="purple">[ᾰτ]</font><br><b>      1</b> être assez fort pour écarter, <i>d’où</i> être le plus fort, surpasser, <i>acc</i>. HDT. <i>4, 50</i>.<br><b>      2</b> retenir, empêcher, PLUT. <i>M. 494a</i>.`

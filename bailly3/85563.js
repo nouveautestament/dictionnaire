@@ -1,0 +1,1 @@
+lar[85563]=`<b>προσ·εμβλέπω</b>, regarder en outre, XÉN. <i>Conv. 2, 16</i>.`

@@ -1,0 +1,1 @@
+lar[9976]=`<b>ἀντι·κολάζω</b>, punir en échange <i>ou</i> au contraire, LUC. <i>Tyr. 12</i>.`

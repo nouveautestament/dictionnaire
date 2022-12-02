@@ -1,0 +1,1 @@
+lar[61044]=`<b>λιθο·γλώχιν, ινος (ὁ, ἡ)</b> <font color="purple">[ῐῑ]</font> à pointes de pierre, NONN. <i>D. 40, 354</i>.<p><b>Étym</b>. λ. γλωχίς.`

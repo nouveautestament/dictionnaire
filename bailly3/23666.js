@@ -1,0 +1,1 @@
+lar[23666]=`<b>δεκα·κυμία, ας (ἡ)</b> <font color="purple">[ᾰῡ]</font> la dixième vague, <i>càd</i>. vague énorme (<i>lat</i>. fluctus decumanus), LUC. <i>M. cond. 2</i>.<p><b>Étym</b>. δ. κῦμα ; <i>probabl. latinisme : les Att. disent</i> τρικυμία.`

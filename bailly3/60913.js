@@ -1,0 +1,1 @@
+lar[60913]=`<b>ου (ὁ)</b> le Liban (<i>auj</i>. Djebel el-Libnan) <i>chaîne de mt. de Syrie,</i> EL. <i>N.A. 5, 56</i> ; NONN. <i>D. 4, 82, etc.</i> ; A. PL. <i>202, etc</i>.`

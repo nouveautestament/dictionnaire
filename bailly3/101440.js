@@ -1,0 +1,1 @@
+lar[101440]=`(<i>seul. prés</i>.) être humide, ESCHL. <i>Ag. 1329</i>.<p><b>Étym</b>. ὑγρός.`

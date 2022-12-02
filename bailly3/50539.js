@@ -1,0 +1,1 @@
+lar[50539]=`<b>Καίλιος λόφος (ὁ)</b> DH. <i>2, 36, etc., ou</i> <b>τὸ Καίλιον ὄρος</b>, DH. <i>2, 50, etc</i>. = <i>lat</i>. Cælius, le mt Cælius, <i>une des sept collines de Rome</i>.`

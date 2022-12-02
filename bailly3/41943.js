@@ -1,0 +1,1 @@
+lar[41943]=`<b>εὐ·έγρετος, ος, ον</b>, facile à éveiller, HIÉROCL. <i>C. aur. 432 Mullach</i>.<p><b>Étym</b>. εὖ, ἐγείρω.`

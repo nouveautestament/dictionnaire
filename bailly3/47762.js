@@ -1,0 +1,1 @@
+lar[47762]=`<i>ou</i> <b>τρυγονάω-ῶ</b> <font color="purple">[ῡ]</font> gratter <i>ou</i> frapper à (la porte) AR. <i>Eccl. 34</i>.`

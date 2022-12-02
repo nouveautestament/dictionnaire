@@ -1,0 +1,1 @@
+lar[80311]=`<b>ή, όν</b> <font color="purple">[πῑ]</font> qui a le droit de porter un bonnet de feutre, <i>insigne de certaines dignités chez les Scythes,</i> LUC. <i>Scyth. 1</i>.<p><b>Étym</b>. πιλοφόρος.`

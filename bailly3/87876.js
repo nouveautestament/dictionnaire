@@ -1,0 +1,1 @@
+lar[87876]=`<b>πυρι·καύτωρ, ορος</b> <font color="purple">[ῠῐ]</font> <i>adj. m</i>. qui consume par le feu. TIMON (SEXT. <i>p. 284</i>).`

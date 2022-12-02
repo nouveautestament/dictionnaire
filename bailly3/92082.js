@@ -1,0 +1,1 @@
+lar[92082]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action de brûler, ARSTT. <i>Meteor. 4, 2, 1</i>.<p><b>Étym</b>. σταθεύω.`

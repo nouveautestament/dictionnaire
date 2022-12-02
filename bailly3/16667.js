@@ -1,0 +1,1 @@
+lar[16667]=`<b>ἀταλά·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰτᾰ]</font> à l’esprit enfantin, naïf, IL. <i>6, 400</i>.<p><b>Étym</b>. ἀταλός, φρήν.`

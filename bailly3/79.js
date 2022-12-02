@@ -1,0 +1,1 @@
+lar[79]=`<i>adv</i>., d’Abdère, LUC. <i>V. auct. 13</i>.<p><b>Étym</b>. Ἄβδηρα, -θεν.`

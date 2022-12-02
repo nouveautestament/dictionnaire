@@ -1,0 +1,1 @@
+lar[104642]=`<b>φαιδρόω-ῶ</b>, faire briller de joie, rendre radieux, XÉN. <i>Cyr. 2, 2, 16</i>.<p><b>Étym</b>. φαιδρός.`

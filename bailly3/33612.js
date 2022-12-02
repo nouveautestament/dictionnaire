@@ -1,0 +1,1 @@
+lar[33612]=`<b>ἐμ·πταίω</b>, tomber dans, <i>dat</i>. LYC. <i>105</i>.<p><b>Étym</b>. ἐν, πτ.`

@@ -1,0 +1,1 @@
+lar[85556]=`<b>προσ·ελκύω</b> (<i>seul. ao. moy</i>. προσειλκυσάμην) attirer à soi, <i>acc</i>. EUR. <i>I.A. 1452, Hipp. 1432</i> ; AR. <i>Eccl. 910, etc</i>.`

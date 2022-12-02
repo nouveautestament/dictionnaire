@@ -1,0 +1,1 @@
+lar[96289]=`<b>συν·τεκμαίρομαι</b>, <i>anc. att</i>. <b>ξυντεκμαίρομαι</b> <font color="darkgreen">(<i>ao. part</i>. συντεκμηράμενος)</font> conjecturer d’après plusieurs indices, conclure de diverses indications, HPC. <i>Progn. 37, Aph. 1243</i> ; THC. <i>2, 76</i> ; XÉN. <i>Hell. 7, 1, 15 ; Conv. 2, 8, etc</i>.`

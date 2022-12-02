@@ -1,0 +1,1 @@
+lar[109644]=`<b>ψευδ·εγγραφῆς δίκη (ἡ)</b> <font color="purple">[ᾰφ]</font> <i>litt</i>. « action pour fausse inscription », <i>càd</i>. réclamation d’un citoyen inscrit à tort comme débiteur de l’État, LYCURG. (HARP. <i>v°</i> ψευδεγγραφή) ; ARSTT. <i>fr. 378</i>.<p><b>Étym</b>. ψ. ἐγγράφω.`

@@ -1,0 +1,1 @@
+lar[52427]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> <i>c</i>. καταθύμιος, NYSS. <i>2, 635c</i>.`

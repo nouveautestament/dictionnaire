@@ -1,0 +1,1 @@
+lar[12042]=`<b>ἄ·πλευστος, ος, ον</b>, où l’on n’a pas encore navigué, XÉN. <i>Cyr. 6, 1, 16</i>.<p><b>Étym</b>. ἀ, πλέω.`

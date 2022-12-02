@@ -1,0 +1,1 @@
+lar[17529]=`<b>αὐτό·κλητος, ος, ον</b>, qui s’invite soi-même, qui vient sans être convié, ESCHL. <i>Eum. 170</i> ; SOPH. <i>Tr. 392</i> ; PLAT. <i>Ep. 331b ;</i> PLUT. <i>M. 707e, etc</i>.`

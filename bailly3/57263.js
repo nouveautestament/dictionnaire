@@ -1,0 +1,1 @@
+lar[57263]=`<b>ή, όν :<br>      1</b> qui concerne l’univers, ARSTT. <i>Phys. 2, 4</i> ; PLUT. <i>M. 119f ;</i> LUC. <i>Par. 11</i>.<br><b>      2</b> du monde, mondain, <i>ou</i> séculier, <i>par opp. au clergé,</i> ECCL. ; NT. <i>Hebr. 9, 1</i>.<p><b>Étym</b>. κόσμος.`

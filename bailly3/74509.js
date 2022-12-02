@@ -1,0 +1,1 @@
+lar[74509]=`<b>παλίγ·κυρτος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> nasse <i>ou</i> filet de pêcheur, POL. <i>Fr. gr. 99</i>.<p><b>Étym</b>. π. κυρτός.`

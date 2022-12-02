@@ -1,0 +1,1 @@
+lar[18477]=`<b>ας (ἡ)</b> manque de manteau, EUR. <i>Hel. 1281</i>.<p><b>Étym</b>. ἄχλαινος.`

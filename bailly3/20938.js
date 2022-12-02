@@ -1,0 +1,1 @@
+lar[20938]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> rugissant, mugissant, NYSS. <i>1, 145</i>.<p><b>Étym</b>. βρυχάομαι.`

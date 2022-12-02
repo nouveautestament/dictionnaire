@@ -1,0 +1,1 @@
+lar[90388]=`<b>ιος</b> <i>ou</i> <b>εως (τὸ)</b> <font color="purple">[ῐῐ]</font> <i>c</i>. σίναπι.<p>➳ <i>Gén</i>. σινήπιος, ARSTT. <i>Plant. 1, 5, 5</i> ; σινήπεως, DIOSC. <i>2, 170</i> ; GEOP. <i>2, 934</i>.`

@@ -1,0 +1,1 @@
+lar[54090]=`<b>ων (τὰ)</b> cérémonies de consécration d’une maison, NAZ. <i>2, 360 Migne</i>.<p><b>Étym</b>. κατοικέω.`

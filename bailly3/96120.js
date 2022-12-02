@@ -1,0 +1,1 @@
+lar[96120]=`<b>ατος (τὸ)</b> habitation en commun, <i>d’où collectiv</i>. réunion d’hommes qui vivent en commun, HDT. <i>7, 156</i>.<p><b>Étym</b>. συνοικέω.`

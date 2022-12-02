@@ -1,0 +1,1 @@
+lar[54319]=`<b>ος, ον</b> <font color="purple">[ῐ]</font> combustible, XÉN. <i>An. 6, 3, 9</i> ; PLAT. <i>Leg. 849d ;</i> TH. <i>H.P. 4, 3, 2, etc</i>.<p><b>Étym</b>. καίω.`

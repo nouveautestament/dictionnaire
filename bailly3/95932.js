@@ -1,0 +1,1 @@
+lar[95932]=`<b>συν·θερίζω</b>, moissonner ensemble, AR. <i>Ach. 948</i>.`

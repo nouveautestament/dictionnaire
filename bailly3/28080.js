@@ -1,0 +1,1 @@
+lar[28080]=`<b>ή, όν</b> <font color="purple">[ῠᾰῠ]</font> élevé à la 5<sup>e</sup> puissance, DIOPH. <i>3</i>.<p><b>Étym</b>. *δυναμοκυβόζω <i>de</i> δυναμόκυβος.`

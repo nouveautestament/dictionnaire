@@ -1,0 +1,1 @@
+lar[77556]=`<b>πεδο·στιβής, ής, ές</b> <font color="purple">[ῐ]</font><br><b>      1</b> qui foule le sol, qui marche sur le sol, ESCHL. <i>Suppl. 1000</i> ; EUR. <i>Med. 1123, etc.</i><br><b>      2</b> <i>p. ext</i>. étendu sur le sol, EUR. <i>Rhes. 763</i>.<p><b>Étym</b>. π. στείβω.`

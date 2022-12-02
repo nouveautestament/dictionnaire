@@ -1,0 +1,1 @@
+lar[81592]=`<b>οῦ (ὁ)</b> construction <i>ou</i> fondation d’une ville, DH. <i>1, 57, 59</i>.<p><b>Étym</b>. πολίζω.`

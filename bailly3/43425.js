@@ -1,0 +1,1 @@
+lar[43425]=`<b>ας (ἡ)</b> <font color="purple">[σῑ]</font> bon appétit, ARÉT. <i>p. 47, 21</i>.<p><b>Étym</b>. εὔσιτος.`

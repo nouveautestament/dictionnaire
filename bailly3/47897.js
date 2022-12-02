@@ -1,0 +1,1 @@
+lar[47897]=`<b>θυμελαΐτης οἶνος (ὁ)</b> <font color="purple">[ῠῑ]</font> vin préparé avec des baies de thymélée, DIOSC. <i>5, 78</i>.<p><b>Étym</b>. θυμελαία.`

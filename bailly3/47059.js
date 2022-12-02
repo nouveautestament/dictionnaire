@@ -1,0 +1,1 @@
+lar[47059]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> Thessalos :<br><b>      1</b> <i>fils d’Hèraklès,</i> IL. <i>2, 670</i>.<br><b>      2</b> <i>autres,</i> HDT. <i>5, 46</i> ; THC. <i>1, 20, etc</i>.`

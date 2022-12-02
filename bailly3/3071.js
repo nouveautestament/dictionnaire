@@ -1,0 +1,1 @@
+lar[3071]=`<b>ἀ·κάκωτος, ος, ον</b> <font color="purple">[κᾰ]</font><br><b>      1</b> non endommagé, DC. <i>17, 15</i>.<br><b>      2</b> non vaincu, indompté, M. ANT. <i>5, 18</i>.<p><b>Étym</b>. ἀ, κακόω.`

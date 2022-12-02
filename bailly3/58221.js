@@ -1,0 +1,1 @@
+lar[58221]=`<b>οῦ (ὁ) :<br>      1</b> cruche (pour l’eau, le vin, l’huile, <i>etc.) d’ord. au pl</i>. ESCHL. <i>fr. 91</i> ; SOPH. <i>O.C. 478</i> ; EUR. <i>Cycl. 89 ; au sg</i>. THCR. <i>Idyl. 13, 46</i>.<br><b>      2</b> urne funéraire, MOSCH. <i>4, 34</i> ; ANTH. <i>7, 710, etc</i>.`

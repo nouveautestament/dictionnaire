@@ -1,0 +1,1 @@
+lar[10351]=`<b>ἀντι·προτίθημι</b> <font color="darkgreen">(<i>f</i>. -προθήσω, <i>part. ao.2</i> -προθείς)</font> poster en avant <i>ou</i> en haut à son tour, DC. <i>65, 1, 4</i>.`

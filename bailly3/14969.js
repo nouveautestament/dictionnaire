@@ -1,0 +1,1 @@
+lar[14969]=`<b>ἀρνο·κτασία, ας (ἡ)</b> <font color="purple">[τᾰ]</font> égorgement d’un agneau <i>ou</i> d’agneaux, RHÉT. <i>3, 607 W</i>.<p><b>Étym</b>. ἀρήν, κτείνω.`

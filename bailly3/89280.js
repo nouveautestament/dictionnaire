@@ -1,0 +1,1 @@
+lar[89280]=`<b>η, ον</b> <font color="purple">[ῡῐ]</font> de marjolaine, DIOSC. <i>1, 58</i> ; AÉT. <i>4, 42</i>.<p><b>Étym</b>. σάμψυχον.`

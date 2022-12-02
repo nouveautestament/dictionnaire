@@ -1,0 +1,1 @@
+lar[100887]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font> Tryphè, <i>f</i>. ALEX. (ATH. <i>431b</i>).<p><b>Étym</b>. <i>cf</i>. τρυφή.`

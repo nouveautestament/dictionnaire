@@ -1,0 +1,1 @@
+lar[5537]=`<b>ἀμευσί·πορος, ος, ον</b> <font color="purple">[ᾰῐ]</font> où les routes s’entre-croisent, <i>litt</i>. s’échangent (carrefour) PD. <i>P. 11, 38</i>.<p><b>Étym</b>. *ἀμεύομαι, πόρος.`

@@ -1,0 +1,1 @@
+lar[80834]=`<b>πλείστ·αρχος, ος, ον</b>, qui commande au plus grand nombre, BACCHYL. <i>3, 12</i>.<p><b>Étym</b>. πλ. ἄρχω.`

@@ -1,0 +1,1 @@
+lar[19891]=`<b>ης (ἡ)</b> sorte de sandale <i>ou</i> de pantoufle élégante, HERMIPP. <i>et</i> LYSIPP. (POLL. <i>7, 89) ; d’ord. au plur</i>. PLAT. <i>Conv. 174a ;</i> ANAXIL. (ATH. <i>548c</i>) ; ATH. <i>98a</i>.`

@@ -1,0 +1,1 @@
+lar[65140]=`<b>ή, όν</b>, qui concerne l’étude des corps <i>ou</i> des phénomènes célestes, PLAT. <i>Tim. 91d ;</i> PHIL. <i>2, 588</i>.<p><b>Étym</b>. μετεωρολόγος.`

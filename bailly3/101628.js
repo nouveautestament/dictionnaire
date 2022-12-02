@@ -1,0 +1,1 @@
+lar[101628]=`<font color="purple">[ῡ]</font> faire pleuvoir, SPT. <i>Jer. 14, 22 ; Job 38, 26</i>.<p><b>Étym</b>. ὑετός.`

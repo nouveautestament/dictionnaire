@@ -1,0 +1,1 @@
+lar[105754]=`<b>φιλο·δημοτικός, ή, όν</b> <font color="purple">[φῐ]</font> partisan du peuple, DH. <i>8, 90</i>.<p><b>Étym</b>. φ. δημότης.`

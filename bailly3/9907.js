@@ -1,0 +1,1 @@
+lar[9907]=`<b>ἀντι·κάθημαι</b> <font color="darkgreen">(<i>impf</i>. ἀντεκαθήμην)</font> camper en face, THC. <i>5, 6</i> ; XÉN. <i>Hipp. 8, 20 ; Eq. 8, 12 ; en parl. du camp lui-même,</i> être établi en face, POL. <i>3, 49, 8, etc</i>.<p>➳ <i>Ion</i>. -κάτημαι, HDT. <i>9, 39, etc</i>.`

@@ -1,0 +1,1 @@
+lar[37942]=`<b>ἐπι·καταρρέω</b> (<i>seul. ao. pass</i>. -κατερρύην) découler sur, tomber sur, <i>dat</i>. PLUT. <i>Pel. 4</i>.`

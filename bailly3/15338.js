@@ -1,0 +1,1 @@
+lar[15338]=`<b>ἀρτι·επής, ής, ές</b>, qui parle justement, <i>càd.</i> :<br><b>      1</b> à la langue souple <i>ou</i> affilée, IL. <i>22, 281</i>.<br><b>      2</b> véridique, franc, PD. <i>I. 4, 51 ; O. 6, 61</i>.<p><b>Étym</b>. ἄ. ἔπος.`

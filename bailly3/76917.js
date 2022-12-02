@@ -1,0 +1,1 @@
+lar[76917]=`<b>παρθεν·ωπός, ός, όν</b>, qui a l’air d’une jeune fille, EUR. <i>El. 949 ; fig</i>. DH. <i>Comp. 23</i>.<p><b>Étym</b>. π. ὤψ.`

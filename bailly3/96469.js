@@ -1,0 +1,1 @@
+lar[96469]=`<font color="purple">[ῠᾰ]</font> <i>adv</i>., d’une manière continue, immédiatement, aussitôt, HÉS. <i>Th. 690</i> ; Q. SM. <i>14, 517</i>.<p><b>Étym</b>. <i>épq. c</i>. συνοχηδόν, <i>de</i> συνέχω, -δον.`

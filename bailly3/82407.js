@@ -1,0 +1,1 @@
+lar[82407]=`<b>πολύ·στρεβλος, ος, ον</b>, très contourné, tout contrefait, CHRYS.<p><b>Étym</b>. π. στρεβλός.`

@@ -1,0 +1,1 @@
+lar[64702]=`<b>μετα·διαιτάω-ῶ</b>, changer de genre de vie, LUC. <i>D. mort. 12, 3 ; au pass</i>. JOS. <i>Macc. 8, 7</i>.`

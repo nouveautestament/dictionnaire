@@ -1,0 +1,1 @@
+lar[68705]=`<b>Νικ·αγόρας, ου (ὁ)</b> <font color="purple">[ῑᾰᾱ]</font> Nikagoras, <i>h</i>. PLUT. <i>Them. 10</i> ; ANTH. <i>12, 135</i>.<p>➳ <i>Ion</i>. Νικαγόρης, ANTH. <i>l. c. ; gén</i>. -εω, ANTH. <i>5, 199</i> ; A. PL. <i>1, 11, etc</i>.<p><b>Étym</b>. νίκη, ἀγορεύω.`

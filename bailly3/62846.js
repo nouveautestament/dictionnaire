@@ -1,0 +1,1 @@
+lar[62846]=`<b>η, ον</b> <font color="purple">[ῠ]</font> qui émane d’un oracle, EUR. <i>I.A. 761, Andr. 1031</i>.<p><b>Étym</b>. μάντις.`

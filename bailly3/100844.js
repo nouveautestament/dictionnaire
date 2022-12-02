@@ -1,0 +1,1 @@
+lar[100844]=`<b>ᾶς (ἡ)</b> <font color="purple">[ῡμᾰ]</font> trou, SOTAD. (ATH. <i>621a</i>) ; SPT. <i>Jer. 13, 4, etc. ; en parl. d’un trou d’aiguille,</i> NT. <i>Marc. 10, 25</i> ; LUC. <i>18, 25</i>.<p><b>Étym</b>. τρύω.`

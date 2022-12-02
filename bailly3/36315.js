@@ -1,0 +1,1 @@
+lar[36315]=`<b>ας (ἡ) :<br>      1</b> machine de théâtre, <i>analogue à l’</i>ἐκκύκλημα, <i>fig</i>. POL. <i>11, 6, 8</i>.<br><b>      2</b> balcon, SYMM. <i>4Reg. 1, 2</i>.<p><b>Étym</b>. ἐξωθέω.`

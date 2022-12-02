@@ -1,0 +1,1 @@
+lar[946]=`<b>ἀγρο·βότης, ου (ὁ)</b> qui fait paître aux champs, rustique, EUR. <i>Cycl. 54</i>.<p>➳ <i>Dor</i>. -τας, SOPH. <i>Ph. 214</i>.<p><b>Étym</b>. ἀ. βόσκω ; <i>var</i>. ἀγροβάτας.`

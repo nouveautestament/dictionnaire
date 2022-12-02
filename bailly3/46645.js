@@ -1,0 +1,1 @@
+lar[46645]=`<b>θεό·δοτος, ος, ον</b>, donné par les dieux, PD. <i>I. 5, 29</i> ; τὸ θεόδοτον, A. TR. <i>5, p. 260</i>, remède contre la toux.<p><b>Étym</b>. θ. δοτός.`

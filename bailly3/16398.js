@@ -1,0 +1,1 @@
+lar[16398]=`<b>ἀ·στυτίς, ίδος (ἡ)</b> <font color="purple">[ῡῐδ]</font> sorte de laitue antiaphrodisiaque, IBYC. (ATH. <i>69e</i>).<p><b>Étym</b>. <i>v</i>. ἄστυτος.`

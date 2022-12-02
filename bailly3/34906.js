@@ -1,0 +1,1 @@
+lar[34906]=`<b>ἔν·ριζος, ος, ον</b>, qui a une racine <i>ou</i> des racines, GEOP. <i>3, 4, 6</i>.<p><b>Étym</b>. ἐν, ῥίζα.`

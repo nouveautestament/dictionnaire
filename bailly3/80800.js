@@ -1,0 +1,1 @@
+lar[80800]=`<font color="purple">[ᾰ]</font> imiter Platon, faire le platonicien, ORIG. <i>1, 1157 Migne</i>.<p><b>Étym</b>. Πλάτων.`

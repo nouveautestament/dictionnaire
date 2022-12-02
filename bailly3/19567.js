@@ -1,0 +1,1 @@
+lar[19567]=`<b>α, ον</b> <font color="purple">[ῑ]</font> de Bérénice : βερενικεία θυγάτηρ, THCR. <i>Idyl. 15, 110,</i> la fille de Bérénice, <i>càd</i>. Arsinoè ; τὸ βερενίκειον, ATH. <i>202d</i>, le temple de Bérénice, <i>femme de Ptolémée I</i>.<p><b>Étym</b>. βερενίκη.`

@@ -1,0 +1,1 @@
+lar[3030]=`<i>ou</i> <b>ἀκᾷ</b> <font color="purple">[ᾰᾱ]</font> <i>adv</i>., doucement, légèrement, PD. <i>P. 4, 156</i>.<p><b>Étym</b>. <i>cf</i>. ἀκήν.`

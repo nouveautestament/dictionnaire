@@ -1,0 +1,1 @@
+lar[106538]=`<b>η, ον</b> <font color="purple">[νῑ]</font> de Phénicie, phénicien, HDT. <i>5, 58 ; 8, 90</i>.<p><b>Étym</b>. <i>ion. c</i>. *Φοινίκειος <i>de</i> Φοῖνιξ.`

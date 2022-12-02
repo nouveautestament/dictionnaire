@@ -1,0 +1,1 @@
+lar[71647]=`<b>ας (ἡ)</b> action de naviguer ensemble, CIC. <i>Att. 16, 1, 3 ; 4, 4</i>.<p><b>Étym</b>. ὁμόπλοος.`

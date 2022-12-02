@@ -1,0 +1,1 @@
+lar[57508]=`<b>α, ον</b> <font color="purple">[ᾰδ]</font> qui est en cœur, SYN. <i>Hymn. 2, 29</i>.<p><b>Étym</b>. κραδίη.`

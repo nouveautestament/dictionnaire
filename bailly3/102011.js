@@ -1,0 +1,1 @@
+lar[102011]=`<b>ὑπ·άρκτιος, ος, ον</b> <font color="purple">[ῠ]</font> exposé au nord, PLUT. <i>Mar. 11, Sert. 17</i>.<p><b>Étym</b>. ὑ. ἄρκτος.`

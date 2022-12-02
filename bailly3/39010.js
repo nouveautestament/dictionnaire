@@ -1,0 +1,1 @@
+lar[39010]=`<b>ή, όν</b>, d’évêque, épiscopal, NAZ. <i>3, 169, 288</i> ; NYSS. <i>3, 313 Migne</i>.<p><b>Étym</b>. ἐπίσκοπος.`

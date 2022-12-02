@@ -1,0 +1,1 @@
+lar[37469]=`<b>ή, όν</b>, recourbé, HH. <i>Ven. 87</i>.<p><b>Étym</b>. <i>vb. de</i> ἐπιγνάμπτω.`

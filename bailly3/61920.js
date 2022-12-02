@@ -1,0 +1,1 @@
+lar[61920]=`<b>Λυκό·φρων, ονος (ὁ)</b> <font color="purple">[ῠ]</font> Lycophron :<br><b>      1</b> <i>poète épique</i>.<br><b>      2</b> <i>autres,</i> IL. <i>15, 430</i> ; HDT. <i>3, 50</i> ; THC. <i>4, 33, etc</i>.<p><b>Étym</b>. <i>v</i>. v.`

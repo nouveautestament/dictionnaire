@@ -1,0 +1,1 @@
+lar[29665]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en accusateur, BAS. <i>2, 607c</i>.`

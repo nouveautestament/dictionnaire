@@ -1,0 +1,1 @@
+lar[6063]=`<b>ος, ον</b>, dont on est enveloppé <i>ou</i> vêtu, EUR. <i>fr. 698</i>.<p><b>Étym</b>. ἀμφιβάλλω.`

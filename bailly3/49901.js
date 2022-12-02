@@ -1,0 +1,1 @@
+lar[49901]=`<b>ἰσχνο·πάρειος, ος, ον</b> <font color="purple">[ᾰ]</font> aux joues maigres, ANTH. <i>App. 336</i>.<p><b>Étym</b>. ἰσχνός, παρειά.`

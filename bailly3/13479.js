@@ -1,0 +1,1 @@
+lar[13479]=`<b>ἀπο·συλάω-ῶ</b> <font color="purple">[ῡ]</font> piller, ravir : τί τινος, PD. <i>P. 4, 110,</i> qqe ch. à qqn ; τινά τινος, SOPH. <i>O.C. 1330</i> ; IS. <i>54, 2</i> ; τινά τι, EUR. <i>Alc. 870</i> ; XÉN. <i>An. 1, 4, 8,</i> dépouiller qqn de qqe ch.`

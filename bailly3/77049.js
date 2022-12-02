@@ -1,0 +1,1 @@
+lar[77049]=`<i>adv</i>., plus en avant, A.RH. <i>2, 425</i>.<p><b>Étym</b>. παροίτερος.`

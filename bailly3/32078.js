@@ -1,0 +1,1 @@
+lar[32078]=`<b>ἐκ·σχίζω</b>, séparer, fendre, ARSTT. <i>Mund. 6, 33</i>.`

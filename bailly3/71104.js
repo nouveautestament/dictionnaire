@@ -1,0 +1,1 @@
+lar[71104]=`(<i>seul. prés</i>.) réunir en un tout, OLYMPIOD. <i>Plat. Phæd. (Bkk. p. 1405).</i><p><b>Étym</b>. ὅλος.`

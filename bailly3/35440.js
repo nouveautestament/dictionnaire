@@ -1,0 +1,1 @@
+lar[35440]=`<b>ἐξ·αμυγδαλίζω</b> <font color="purple">[ᾰᾰ]</font> (<i>part. pf. pass</i>. ἐξημυγδαλισμένοι) découper un objet en morceaux ayant forme d’amandes, AQU. <i>Ex. 25, 33</i>.<p><b>Étym</b>. ἐξ, ἀμύγδαλον.`

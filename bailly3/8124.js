@@ -1,0 +1,1 @@
+lar[8124]=`<b>ἀνδρο·φθόρος, ος, ον</b>, funeste aux hommes, PD. <i>fr. 164</i> ; SOPH. <i>Ph. 266</i>.<p><b>Étym</b>. ἀνήρ, φθείρω.`

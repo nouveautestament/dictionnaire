@@ -1,0 +1,1 @@
+lar[97594]=`<b>ταξί·λοχος, ος, ον</b> <font color="purple">[ῐ]</font> qui range <i>ou</i> dirige une troupe, ANTH. <i>App. 9, 5</i>.<p><b>Étym</b>. τάσσω, λόχος.`

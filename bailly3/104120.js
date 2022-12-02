@@ -1,0 +1,1 @@
+lar[104120]=`<b>ης (ἡ)</b> <font color="purple">[σῠ]</font> suggestion, conseil, HÉS. <i>Th. 658 dout</i>.<p><b>Étym</b>. <i>cf</i>. ὑποφράζομαι.`

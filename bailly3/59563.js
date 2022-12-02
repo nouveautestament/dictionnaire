@@ -1,0 +1,1 @@
+lar[59563]=`<i>éol. c</i>. λῇς, SAPPH. <i>1, 19 conj</i>.<p><b>Étym</b>. <i>2 sg. de</i> λῶ.`

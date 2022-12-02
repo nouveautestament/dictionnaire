@@ -1,0 +1,1 @@
+lar[14120]=`<b>ἀραι·όδους, -όδοντος (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font> aux dents rares, ARSTT. <i>H.A. 2, 3, 2</i>.<p><b>Étym</b>. ἀραιός, ὀδούς.`

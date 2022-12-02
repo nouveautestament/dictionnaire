@@ -1,0 +1,1 @@
+lar[51507]=`<b>ιδος (ὁ)</b> <font color="purple">[ῠᾰῐδ]</font> armoire pour les vêtements, DIPH. (POLL. <i>10, 137</i>) ; MÉN. <i>4, 92 Meineke</i>.<p><b>Étym</b>. κάνδυς.`

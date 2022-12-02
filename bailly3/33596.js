@@ -1,0 +1,1 @@
+lar[33596]=`<b>ἐμ·πρό·θεσμος, ος, ον</b>, qui se présente dans le délai fixé, ponctuel, PLUT. <i>M. 501e ;</i> LUC. <i>V.H. 2, 27</i>.<p><b>Étym</b>. ἐν, πρό, θεσμός.`

@@ -1,0 +1,1 @@
+lar[75815]=`<b>παρα·κτάομαι-ῶμαι</b>, acquérir auprès <i>ou</i> en outre ; <i>au pf</i>. avoir acquis, <i>d’où</i> posséder auprès <i>ou</i> en outre, <i>acc</i>. HDT. <i>4, 80</i>.`

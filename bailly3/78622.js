@@ -1,0 +1,1 @@
+lar[78622]=`<b>ή, όν :<br>      1</b> <i>act</i>. descriptif, PLUT. <i>M. 724b ;</i> τὸ περιηγητικόν (<i>s.-e</i>. βιβλίον) ATH. <i>93d</i>, itinéraire descriptif.<br><b>      2</b> <i>pass</i>. répandu de tous côtés, PLUT. <i>M. 386b</i>.<p><b>Étym</b>. περιηγέομαι.`

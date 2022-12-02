@@ -1,0 +1,1 @@
+lar[16295]=`<font color="purple">[ᾰτ]</font> <i>adv</i>., sans général, APP. <i>Civ. 1, 47</i>.`

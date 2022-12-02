@@ -1,0 +1,1 @@
+lar[33708]=`<b>ἐμφορτόω-ῶ</b> (<i>seul. moy</i>.) fréter un navire pour son compte, <i>acc</i>. ES. <i>370 b Halm</i>.<p><b>Étym</b>. ἔμφορτος.`

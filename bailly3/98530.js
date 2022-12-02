@@ -1,0 +1,1 @@
+lar[98530]=`<b>τετρα·βαρής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> quatre fois aussi lourd, ALC. <i>154 Bgk</i>.<p><b>Étym</b>. τ. βάρος.`

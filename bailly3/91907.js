@@ -1,0 +1,1 @@
+lar[91907]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> tache, souillure, SPT. <i>Esaï. 28, 8</i>.<p><b>Étym</b>. σπιλόω.`

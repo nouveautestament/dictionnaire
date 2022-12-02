@@ -1,0 +1,1 @@
+lar[62652]=`<font color="purple">[ᾰᾰ]</font> amollir, HPC. <i>365, 9 ; p. ext</i>. affaiblir, MUSON. (STOB. <i>Fl. 1, 84) ; au pass</i>. se laisser amollir, agir mollement, faiblir, XÉN. <i>Cyr. 3, 2, 5</i> ; DS. <i>17, 10</i>.<p><b>Étym</b>. μαλακός.`

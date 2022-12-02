@@ -1,0 +1,1 @@
+lar[102876]=`<b>ὑπέρ·φλοιος, ος, ον</b>, dont la peau (<i>litt</i>. l’écorce) est très épaisse, EMPÉD. (PLUT. <i>M. 683d</i>).<p><b>Étym</b>. ὑ. φλοιός.`

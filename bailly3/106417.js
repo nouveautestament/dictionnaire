@@ -1,0 +1,1 @@
+lar[106417]=`<b>φλογόω-ῶ</b>, <i>c</i>. φλέγω, SCH.-IL. <i>13, 341 ; au pass</i>. briller, <i>en parl. du feu,</i> TH. <i>Ign. 71 ; d’une pierre,</i> TH. <i>Lap. 20</i>.<p><b>Étym</b>. φλόξ.`

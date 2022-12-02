@@ -1,0 +1,1 @@
+lar[89880]=`<i>part. neutre adv. de</i> σέσηρα, <i>pf. de</i> σαίρω¹ : la bouche grande ouverte.`

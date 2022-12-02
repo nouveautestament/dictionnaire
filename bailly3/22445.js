@@ -1,0 +1,1 @@
+lar[22445]=`<b>(ἡ)</b> Gonoessa, <i>v. d’Achaïe,</i> IL. <i>2, 573</i>.`

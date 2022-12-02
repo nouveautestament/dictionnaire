@@ -1,0 +1,1 @@
+lar[84441]=`<b>προ·καρόω-ῶ</b> <font color="purple">[ᾰ]</font> plonger auparavant dans un sommeil léthargique, HPC. <i>81b, 121a</i>.`

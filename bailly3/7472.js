@@ -1,0 +1,1 @@
+lar[7472]=`<b>ἀνα·πρεσβεύω</b>, envoyer des députés, JOS. <i>A.J. 18, 2, 4</i>.`

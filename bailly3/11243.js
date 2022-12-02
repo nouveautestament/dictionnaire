@@ -1,0 +1,1 @@
+lar[11243]=`<b>εως (ἡ)</b> <font color="purple">[τᾰ]</font> migration, DH. <i>9, 6</i> ; JOS. <i>B.J. 1, 15, 3</i>.<p><b>Étym</b>. ἀπανίστημι.`

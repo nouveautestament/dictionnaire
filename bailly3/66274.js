@@ -1,0 +1,1 @@
+lar[66274]=`<b>ου (ὁ) :<br>      1</b> mesure pour les grains, boisseau de 16 setiers, le tiers d’une amphore (25 litres environ) DIN. <i>95, 37</i> ; JUL. <i>369b.</i><br><b>      2</b> mesure de longueur de 200 ὀργυιαί environ, HÉRON.<p><b>Étym</b>. <i>cf. lat</i>. modius.`

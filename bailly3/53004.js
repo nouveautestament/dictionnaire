@@ -1,0 +1,1 @@
+lar[53004]=`<b>ατος (τὸ)</b> <font color="purple">[πᾰ]</font> ce qu’on foule aux pieds, SPT. <i>Mich. 7, 10 ; Esaï. 5, 5, etc</i>.<p><b>Étym</b>. καταπατέω.`

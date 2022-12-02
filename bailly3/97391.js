@@ -1,0 +1,1 @@
+lar[97391]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en fondant, en liquéfaction, LUC. <i>Am. 3</i> ; ATH. <i>376c ; fig</i>. mollement, en sons doux et harmonieusement fondus, <i>en parl. du chant du rossignol,</i> EL. <i>N.A. 5, 38</i>.<p><b>Étym</b>. τακερός.`

@@ -1,0 +1,1 @@
+lar[4507]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) se rouler, rouler, NIC. <i>Th. 156</i> ; ANTH. <i>7, 736</i>.<p><b>Étym</b>. ἀλίω.`

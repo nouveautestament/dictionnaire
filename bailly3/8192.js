@@ -1,0 +1,1 @@
+lar[8192]=`<b>ατος (τὸ)</b> torsion, <i>d’où</i> colique, HPC. <i>V. med. 18</i>.<p><b>Étym</b>. ἀνειλέω.`

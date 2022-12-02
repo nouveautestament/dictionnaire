@@ -1,0 +1,1 @@
+lar[72612]=`<b>ὀρει·τύπος, ος, ον</b> <font color="purple">[ῠ]</font> qui travaille le bois <i>ou</i> extrait la pierre dans les montagnes, bûcheron <i>ou</i> carrier, GAL. <i>9, 449c</i>.<p><b>Étym</b>. ὄρος, τύπτω.`

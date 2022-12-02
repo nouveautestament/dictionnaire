@@ -1,0 +1,1 @@
+lar[24577]=`<b>δια·δραματίζω</b> <font color="purple">[ρᾱᾰ]</font> achever de jouer une pièce, M. ANT. <i>3, 8 (inf. ao</i>. -ίσαι) ; DL. <i>3, 56</i>.<p><b>Étym</b>. <i>impf. 3 sg</i>. διεδραμάτιζεν.`

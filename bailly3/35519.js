@@ -1,0 +1,1 @@
+lar[35519]=`<b>ἐξ·απαρτάω-ῶ</b>, suspendre, <i>d’où au pass.,</i> être suspendu, ballotté, LUC. <i>V.H. 1, 9 et 77</i>.`

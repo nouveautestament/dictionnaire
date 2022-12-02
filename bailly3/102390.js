@@ -1,0 +1,1 @@
+lar[102390]=`<b>ὑπερ·δικέω-ῶ</b> <font color="purple">[ῐ]</font> défendre en justice, <i>gén</i>. ESCHL. <i>Eum. 652</i> ; PLAT. <i>Phæd. 86e ; avec</i> ὑπέρ <i>et le gén</i>. DC. <i>38, 10 ; abs</i>. PLUT. <i>M. 694e</i>.`

@@ -1,0 +1,1 @@
+lar[33947]=`<b>ἐν·αποκλείω</b>, enfermer dans, <i>dat</i>. A. APHR. <i>Probl. 1, 53</i> ; ARTÉM. <i>130 Reiff</i>.`

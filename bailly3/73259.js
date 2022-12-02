@@ -1,0 +1,1 @@
+lar[73259]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> petit os, ANTH. <i>11, 96</i>.<br><b>      2</b> grain de nèfle, DIOSC. <i>1, 169</i>.<p><b>Étym</b>. <i>dim. de</i> ὀστέον.`

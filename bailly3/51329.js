@@ -1,0 +1,1 @@
+lar[51329]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> petite cabane, petite tente, PLUT. <i>Pomp. 73</i> ; ALCIPHR. <i>1, 4</i>.<p><b>Étym</b>. <i>dim. de</i> καλύβη.`

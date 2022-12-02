@@ -1,0 +1,1 @@
+lar[28396]=`<b>δυσ·εξάγωγος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à emmener, à emporter, ARSTT. <i>Probl. 3, 3</i>.<p>•<i> Cp</i>. -ότερος, HPC. <i>Insomn. p. 107</i> ; ARSTT. <i>l. c</i>.<p><b>Étym</b>. δ. ἐξαγωγή.`

@@ -1,0 +1,1 @@
+lar[55363]=`<b>ίδος</b> <font color="purple">[ῑῐ]</font> <i>adj. f.</i> : Κ. λίμνη, IL. <i>5, 709, ou simpl</i>. ἡ Καφισίς (<i>dor</i>.) <font color="purple">[ᾱ]</font> PD. <i>P. 12, 46,</i> le lac où se jette le Céphise, <i>càd</i>. le Kopaïs.<p><b>Étym</b>. Κήφισος.`

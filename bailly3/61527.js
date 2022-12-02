@@ -1,0 +1,1 @@
+lar[61527]=`<b>ας (ἡ)</b> <font color="purple">[μᾰ]</font> combat en paroles, dispute, querelle, NT. <i>1Tim. 6, 4</i>.<p><b>Étym</b>. <i>cf</i>. λογομαχέω.`

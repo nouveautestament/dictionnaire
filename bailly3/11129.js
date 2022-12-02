@@ -1,0 +1,1 @@
+lar[11129]=`<b>ἀπ·αιόλη, ης</b> <i>ou</i> <b>-ή, ῆς (ἡ)</b> tromperie, ESCHL. <i>fr. 185</i> ; la Fraude <i>personnifiée,</i> AR. <i>Nub. 1150</i>.<p><b>Étym</b>. ἀπαιολάω.`

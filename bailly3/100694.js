@@ -1,0 +1,1 @@
+lar[100694]=`<font color="purple">[ᾰ]</font> <i>adv</i>., à la fossette, <i>en parl. du jeu qui consiste à jeter dans un trou des noix, des cailloux, etc</i>. CRAT. (SCH.-PLAT. <i>Lys. p. 320).</i><p><b>Étym</b>. τρέπω.`

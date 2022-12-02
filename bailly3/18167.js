@@ -1,0 +1,1 @@
+lar[18167]=`<b>ἀ·φοίβαντος, ος, ον</b>, non purifié, <i>d’où</i> souillé, ESCHL. <i>Eum. 237 ; fr. 144</i>.<p><b>Étym</b>. ἀ, φοιβαίνω ; <i>sel. Nauck, p.-ê</i>. ἀφοίβαστος <i>de</i> ἀ, φοιβάζω.`

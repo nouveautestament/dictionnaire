@@ -1,0 +1,1 @@
+lar[1178]=`<b>ου (ὁ)</b> sorte de conferve, plante laineuse qui s’attache aux roseaux, DIOSC. <i>5, 137</i> ; GAL. <i>6, 180</i>.`

@@ -1,0 +1,1 @@
+lar[58884]=`<b>ῶνος (ὁ)</b> <font color="purple">[ῠᾰ]</font> bois de cyprès, STR. <i>738</i>.<p><b>Étym</b>. κυπάρισσος.`

@@ -1,0 +1,1 @@
+lar[105809]=`<b>φιλ·οίκτιστος, ος, ον</b> <font color="purple">[φῐ]</font> qui s’attendrit volontiers, SOPH. <i>Aj. 580</i>.<p><b>Étym</b>. φ. οἰκτίζω.`

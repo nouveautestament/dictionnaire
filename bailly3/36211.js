@@ -1,0 +1,1 @@
+lar[36211]=`<b>ἐξ·οστεΐζω</b>, désosser, <i>d’où</i> ôter le noyau, le pépin, la graine, DIOSC. <i>2, 95 ; 5, 86</i> ; RUF. (ORIB. <i>2, 277 B.-Dar</i>.).<p><b>Étym</b>. ἐξ, ὀστέον.`

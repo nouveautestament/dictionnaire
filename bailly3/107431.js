@@ -1,0 +1,1 @@
+lar[107431]=`<b>φωτ·εμβολέω-ῶ</b>, <i>litt</i>. jeter de la lumière dans, <i>d’où</i> illuminer, CLÉM. <i>666</i>.<p><b>Étym</b>. φῶς, ἐμβολή.`

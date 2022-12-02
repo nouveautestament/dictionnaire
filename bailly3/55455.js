@@ -1,0 +1,1 @@
+lar[55455]=`<b>ων (οἱ)</b> classe d’esclaves, <i>à Syracuse,</i> HDT. <i>7, 155</i>.`

@@ -1,0 +1,1 @@
+lar[84231]=`<b>προ·επιγιγνώσκω</b> <font color="darkgreen">(<i>f</i>. -επιγνώσομαι, <i>ao.2</i> -επέγνων, <i>etc</i>.)</font> apprendre <i>ou</i> connaître d’avance, SEXT. <i>P. 2, 119, 210 ; 3, 22</i>.`

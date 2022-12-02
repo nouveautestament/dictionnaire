@@ -1,0 +1,1 @@
+lar[95662]=`<b>συν·επιπάσχω</b>, s’associer à la douleur <i>ou</i> aux sentiments de, <i>dat</i>. PLUT. <i>M. 1037a</i>.`

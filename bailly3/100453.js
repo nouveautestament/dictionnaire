@@ -1,0 +1,1 @@
+lar[100453]=`<b>τρισκαιδεκα·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰσ]</font> treize fois aussi grand, CLÉOM. <i>Cycl. theor. 2, p. 227</i>.<p><b>Étym</b>. τρ. -πλασίων.`

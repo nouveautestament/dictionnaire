@@ -1,0 +1,1 @@
+lar[13852]=`<b>εως (ἡ)</b> rafraîchissement, refroidissement, TH. <i>fr. 12, 10</i>.<p><b>Étym</b>. ἀποψύχω.`

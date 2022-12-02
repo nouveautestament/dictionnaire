@@ -1,0 +1,1 @@
+lar[101724]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> filtré, clarifié, DIOSC. <i>Parab. 2, 34</i>.<p><b>Étym</b>. ὑλίζω.`

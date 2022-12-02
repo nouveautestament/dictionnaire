@@ -1,0 +1,1 @@
+lar[30677]=`<b>εἰσ·αμείβω</b> (<i>inf. ao</i>. εἰσαμεῖψαι) <font color="purple">[ᾰ]</font> entrer ensuite dans, <i>acc</i>. ESCHL. <i>Sept. 558</i>.`

@@ -1,0 +1,1 @@
+lar[85874]=`<b>προσ·θλίβω</b> <font color="purple">[ῑ]</font> presser contre, serrer, écraser : τι πρός τι, SPT. <i>Num. 22, 26,</i> une chose contre une autre ; <i>au pass</i>. PLUT. <i>M. 878f</i>.`

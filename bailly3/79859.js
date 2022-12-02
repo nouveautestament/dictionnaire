@@ -1,0 +1,1 @@
+lar[79859]=`<b>ή, όν :<br>      1</b> qui peut voler ; τὰ πετεηνά, IL. <i>8, 247, etc</i>. les volatiles, les oiseaux.<br><b>      2</b> qui est déjà en état de voler, OD. <i>16, 218</i>.<p><b>Étym</b>. πέτομαι, <i>avec distension</i>.`

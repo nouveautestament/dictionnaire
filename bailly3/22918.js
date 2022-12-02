@@ -1,0 +1,1 @@
+lar[22918]=`<b>ας (ἡ)</b> action de tenir une torche, PLUT. <i>M. 621c ;</i> LUC. <i>Alex. 38</i> ; SPT. <i>2Macc. 4, 22</i>.<p><b>Étym</b>. δᾳδοῦχος.`

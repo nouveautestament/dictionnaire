@@ -1,0 +1,1 @@
+lar[17029]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐκ]</font><br><b>      1</b> attachement au parti des Athéniens, THC. <i>3, 64 ; 4, 133 ; 8, 38</i>.<br><b>      2</b> emploi de la langue attique, atticisme, CIC. <i>Att. 4, 17, 1</i> ; QUINT. <i>6, 3, 107</i>.<p><b>Étym</b>. ἀττικίζω.`

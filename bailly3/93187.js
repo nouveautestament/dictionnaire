@@ -1,0 +1,1 @@
+lar[93187]=`<b>συγ·γεννάω-ῶ</b>, engendrer avec, ensemble <i>ou</i> en même temps, ARSTT. <i>H.A. 9, 50, 7 ; fig</i>. PLAT. <i>Theæt. 156e</i>.`

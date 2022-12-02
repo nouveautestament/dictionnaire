@@ -1,0 +1,1 @@
+lar[40081]=`<b>ἐπ·ωμαδόν</b> <font color="purple">[ᾰ]</font> <i>adv</i>., sur l’épaule, A.RH. <i>1, 738</i> ; Q. SM. <i>13, 541</i> ; A. PL. <i>4, 279</i>.<p><b>Étym</b>. ἐπί, ὦμος, -δον.`

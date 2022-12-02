@@ -1,0 +1,1 @@
+lar[57592]=`<i>ou</i> <b>κρᾶστις, εως (ἡ)</b> fourrage vert pour les chevaux, AR. <i>fr. 632</i> ; ARSTT. <i>H.A. 8, 8, etc</i>.<p><b>Étym</b>. γράω.`

@@ -1,0 +1,1 @@
+lar[102578]=`<b>ὑπερ·καθίζω</b>, siéger au-dessus, présider, A. CAR. <i>Mir. p. 99</i>.`

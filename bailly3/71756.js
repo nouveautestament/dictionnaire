@@ -1,0 +1,1 @@
+lar[71756]=`<b>ὁμοφωνέω-ῶ :<br>      1</b> parler la même langue que, <i>dat</i>. HDT. <i>1, 142</i>.<br><b>      2</b> résonner ensemble, à l’unisson, être d’accord, DC. <i>41, 58</i>.<br><b>      3</b> avoir le même son que, <i>dat</i>. DYSC. <i>Pron. 140b, etc</i>.<p><b>Étym</b>. ὁμόφωνος.`

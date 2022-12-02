@@ -1,0 +1,1 @@
+lar[4680]=`<b>ῆρος (ὁ)</b> qui repousse, qui écarte, qui protège contre, <i>gén</i>. IL. <i>18, 100</i> ; OD. <i>14, 531</i>.<p><b>Étym</b>. ἀλκαθεῖν.`

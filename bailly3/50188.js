@@ -1,0 +1,1 @@
+lar[50188]=`<b>ου (ὁ)</b> Kabirikhos, <i>h</i>. PLUT. <i>Gen. Socr. 31</i>.`

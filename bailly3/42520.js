@@ -1,0 +1,1 @@
+lar[42520]=`<b>εὔ·κριτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> facile à distinguer, clair, PLAT. <i>Pol. 272c.</i><br><b>      2</b> facile à décider, ESCHL. <i>Suppl. 397</i> ; HPC. <i>Acut. 385</i>.<p><b>Étym</b>. εὖ, κρίνω.`

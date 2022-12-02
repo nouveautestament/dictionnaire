@@ -1,0 +1,1 @@
+lar[76801]=`<b>παρ·έστιος, ος, ον :<br>      1</b> qui est <i>ou</i> se fait près du foyer, SOPH. <i>El. 269</i> ; EUR. <i>Med. 1334</i>.<br><b>      2</b> qui s’assied au foyer de, <i>dat</i>. SOPH. <i>Ant. 373</i>.<p><b>Étym</b>. π. ἑστία.`

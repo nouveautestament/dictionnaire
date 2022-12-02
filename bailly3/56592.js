@@ -1,0 +1,1 @@
+lar[56592]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de flatteur, PLAT. <i>Gorg. 522d, Leg. 633d, etc.</i> ; qui excelle dans l’art de flatter, PLAT. <i>Gorg. 517a</i>.<p>•<i> Cp</i>. -ώτερος, LUC. <i>Im. 22 ; • Sup</i>. -ώτατος, POL. <i>13, 4, 5</i>.<p><b>Étym</b>. κόλαξ.`

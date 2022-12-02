@@ -1,0 +1,1 @@
+lar[101414]=`<b>ὑγρο·ποιός, ός, όν</b>, qui rend humide, qui mouille, PLUT. <i>M. 367d ;</i> PORPH. (EUS. <i>P.E. 113a</i>).<p><b>Étym</b>. ὑ. ποιέω.`

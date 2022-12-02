@@ -1,0 +1,1 @@
+lar[14853]=`<b>(ἡ)</b> <i>n. syrien de la</i> rue sauvage, <i>plante,</i> DIOSC. <i>3, 46</i> ; GAL. <i>13, 605</i>.`

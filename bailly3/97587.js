@@ -1,0 +1,1 @@
+lar[97587]=`<b>(ὁ)</b> Taxakis, <i>roi des Scythes,</i> HDT. <i>4, 120</i>.`

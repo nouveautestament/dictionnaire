@@ -1,0 +1,1 @@
+lar[51859]=`<b>ου (ἡ)</b> <font color="purple">[πᾰ]</font><br><b>      1</b> gaze fine <i>fabriquée en Espagne, d’où</i> vêtement de gaze, DH. <i>2, 68</i>.<br><b>      2</b> <i>sorte de</i> plante vénéneuse, DIOSC. <i>6, 13</i>.`

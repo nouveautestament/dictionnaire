@@ -1,0 +1,1 @@
+lar[16805]=`<b>ου (ὁ)</b> Atilius, <i>n. d’h. romain,</i> POL.`

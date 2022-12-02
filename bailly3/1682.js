@@ -1,0 +1,1 @@
+lar[1682]=`<b>ἀεί·μνηστος, ος, ον</b>, éternellement mémorable, ESCHL. <i>Pers. 760</i> ; SOPH. <i>Aj. 1166</i> ; THC. <i>1, 33, etc</i>.<p>•<i> Cp</i>. -ότερος, LYS. <i>192, 24</i>.<p>➳ <i>Poét</i>. αἰείμν. (<i>var</i>. ἀείμν.) ESCHL. <i>Pers. 760</i>.<p><b>Étym</b>. ἀ. μιμνῄσκομαι.`

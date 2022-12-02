@@ -1,0 +1,1 @@
+lar[22661]=`<b>γροσφο·μάχος, ου (ὁ)</b> qui combat avec le <i>pilum</i> romain ; οἱ γρ. POL. <i>1, 33, 9 ; 6, 21, 7,</i> les Vélites romains.<p><b>Étym</b>. γρόσφος, μάχομαι.`

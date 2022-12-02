@@ -1,0 +1,1 @@
+lar[73103]=`<b>ου (ὁ)</b> Oryssos, <i>h</i>. PLUT. <i>Pyrrh. 30</i>.`

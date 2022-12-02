@@ -1,0 +1,1 @@
+lar[16556]=`<b>ιος (ὁ)</b> Asykhis, <i>roi d’Égypte,</i> HDT. <i>2, 136</i>.`

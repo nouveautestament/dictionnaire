@@ -1,0 +1,1 @@
+lar[61072]=`<b>λιθοποιέω-ῶ</b> <font color="purple">[ῐ]</font> changer en pierre, pétrifier, NYSS. <i>2, 208</i>.<p><b>Étym</b>. λιθοποιός.`

@@ -1,0 +1,1 @@
+lar[53982]=`<b>κατ·ευνάω-ῶ :<br>      1</b> endormir, <i>acc</i>. IL. <i>14, 245 ; au pass</i>. être endormi, dormir, OD. <i>4, 414</i>.<br><b>      2</b> <i>fig</i>. endormir (la douleur), calmer, <i>acc</i>. SOPH. <i>Ph. 699</i>.`

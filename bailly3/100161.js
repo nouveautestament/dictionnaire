@@ -1,0 +1,1 @@
+lar[100161]=`<b>τρί·γομφος, ος, ον</b> <font color="purple">[ῐ]</font> à trois clous, SOPH. <i>fr. 295</i>.<p><b>Étym</b>. τρ. γόμφος.`

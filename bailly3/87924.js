@@ -1,0 +1,1 @@
+lar[87924]=`<font color="purple">[ῠ]</font> <i>adv</i>., dans le feu <i>ou</i> par le feu, JAMBL. <i>Myst. 78, 2</i>.<p><b>Étym</b>. πύριος.`

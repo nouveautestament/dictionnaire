@@ -1,0 +1,1 @@
+lar[102417]=`<b>ὑπερ·έκεινα</b>, <i>adv. et prép</i>. au delà, au delà de, <i>gén</i>. NT. <i>2Cor. 10, 16</i>.<p><b>Étym</b>. ὑ. ἐκεῖνα, <i>pl. neutre de</i> ἐκεῖνος ; <i>cf</i>. ἐπέκεινα.`

@@ -1,0 +1,1 @@
+lar[17472]=`<i>adv</i>., de ses propres mains, DC. <i>58, 24</i>.<p><b>Étym</b>. αὐτοέντης.`

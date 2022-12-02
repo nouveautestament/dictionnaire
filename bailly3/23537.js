@@ -1,0 +1,1 @@
+lar[23537]=`<b>ης (ἡ)</b> Deimænétè, <i>f</i>. LUC. <i>Scyth. 2</i>.`

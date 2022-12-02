@@ -1,0 +1,1 @@
+lar[25394]=`<b>ατος (τὸ)</b> chute, faux pas, <i>fig. càd</i>. faute, PHILÉM. (ATH. <i>516f</i>) ; POL. <i>16, 17, 8</i> ; PLUT. <i>M. 468a, 1047c</i>.<p><b>Étym</b>. διαπίπτω.`

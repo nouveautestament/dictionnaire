@@ -1,0 +1,1 @@
+lar[16067]=`<b>ἄ·, ος, ον :<br>      1</b> sans cœur (<i>litt</i>. sans entrailles), lâche, SOPH. <i>Aj. 472</i>.<br><b>      2</b> qui ne mange pas de tripes, PLAT. COM. (ATH. <i>644a</i>).<p><b>Étym</b>. ἀ, σπλάγχνον.`

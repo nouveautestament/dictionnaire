@@ -1,0 +1,1 @@
+lar[10116]=`<b>ἀντι·μυκτηρίζω</b>, railler à son tour <i>ou</i> en retour, CIC. <i>Fam. 25, 19, 4</i>.`

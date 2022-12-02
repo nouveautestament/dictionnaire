@@ -1,0 +1,1 @@
+lar[22184]=`<b>ατος (τὸ)</b> <font color="purple">[ῠκ]</font> saveur douce, LIB. <i>4, p. 1072, 4</i>.<p><b>Étym</b>. γλυκύς.`

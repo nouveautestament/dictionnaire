@@ -1,0 +1,1 @@
+lar[83188]=`<b>πραγματο·κοπέω-ῶ</b> <font color="purple">[μᾰ]</font> tenter une révolution, être séditieux, POL. <i>29, 8, 10, etc</i>.<p><b>Étym</b>. πρ. κόπτω.`

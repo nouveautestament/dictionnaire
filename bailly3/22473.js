@@ -1,0 +1,1 @@
+lar[22473]=`<b>ης (ἡ)</b> Gorgè, <i>f</i>. ANTH. <i>App. 9, 22</i> ; NONN. <i>D. 35, 84</i> ; LYC. <i>1013, etc</i>.`

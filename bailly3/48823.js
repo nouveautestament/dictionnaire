@@ -1,0 +1,1 @@
+lar[48823]=`<b>ης, ες</b> <font color="purple">[ᾰ]</font> humide, A. TAT. ASTR. <i>Isag. in Arat. 988 Migne</i>.<p><b>Étym</b>. <i>par dissimil. p</i>. *ἰκμαδώδης, <i>de</i> ἰκμάς.`

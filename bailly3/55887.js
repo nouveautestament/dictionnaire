@@ -1,0 +1,1 @@
+lar[55887]=`<b>Κλεο·βούλη, ης (ἡ)</b> Kléoboulè (Cléobule) <i>mère de Démosthène,</i> DÉM. <i>812, 3</i>.<p><b>Étym</b>. <i>cf</i>. Κλεόβουλος.`

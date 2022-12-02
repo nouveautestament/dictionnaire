@@ -1,0 +1,1 @@
+lar[72067]=`<b>ὀξυ·βόης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. aux cris perçants, LUC. <i>J. tr. 31</i>.<p>➳ <i>Dor. acc</i>. -όαν <font color="purple">[ᾱ]</font> ESCHL. <i>Ag. 57</i>.<p><b>Étym</b>. ὀ. βοάω.`

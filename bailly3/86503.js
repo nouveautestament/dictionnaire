@@ -1,0 +1,1 @@
+lar[86503]=`<b>προσ·τραχηλίζω</b> <font color="purple">[ᾰ]</font> saisir par le cou, PLUT. <i>M. 234d</i>.`

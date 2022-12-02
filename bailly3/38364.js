@@ -1,0 +1,1 @@
+lar[38364]=`<font color="purple">[ᾰ]</font> <i>adv</i>., ἐπ. ἔχειν πρός τι, ATH. <i>276e</i>, être fou de qqe ch.<p><b>Étym</b>. ἐπιμανής.`

@@ -1,0 +1,1 @@
+lar[31399]=`<b>*ἐκ·κατεῖδον</b> (<i>seul. part</i>. ἐκκατιδών) IL. <i>4, 508,</i> regarder du haut de, <i>gén</i>. Q. SM. <i>8, 430</i>.`

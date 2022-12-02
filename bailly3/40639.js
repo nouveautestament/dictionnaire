@@ -1,0 +1,1 @@
+lar[40639]=`<b>ἑρμο·λογέω-ῶ</b> <font color="darkgreen">(<i>ao. 3 sg</i>. ἡρμολόγησε)</font> rassembler des pierres, <i>d’où</i> construire avec des pierres rassemblées (un tombeau) <i>acc</i>. ANTH. <i>7, 554</i>.<p><b>Étym</b>. Ἑρμῆς, -λογος <i>de</i> λέγω.`

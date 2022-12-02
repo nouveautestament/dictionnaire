@@ -1,0 +1,1 @@
+lar[65541]=`<b>ου (ὁ)</b> Métrobatès, <i>Perse,</i> XÉN.`

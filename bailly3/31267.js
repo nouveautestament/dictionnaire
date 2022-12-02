@@ -1,0 +1,1 @@
+lar[31267]=`<b>οῦ (ὁ)</b> celui qui recherche, SPT. <i>Bar. 3, 23</i>.<p><b>Étym</b>. ἐκζητέω.`

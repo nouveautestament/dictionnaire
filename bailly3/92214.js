@@ -1,0 +1,1 @@
+lar[92214]=`<b>σταφυλη·κόμος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui prend soin des raisins, NONN. <i>D. 9, 29, etc</i>.<p><b>Étym</b>. στ. κομέω.`

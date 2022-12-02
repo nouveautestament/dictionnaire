@@ -1,0 +1,1 @@
+lar[41448]=`<b>*ἑτοιμο·κοπία</b>, <i>seul. ion</i>. <b>-ίη, ίης (ἡ)</b> travail fait avec précipitation, HPC. <i>28, 19</i>.<p><b>Étym</b>. ἕ. κόπος.`

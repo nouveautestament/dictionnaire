@@ -1,0 +1,1 @@
+lar[81602]=`<font color="purple">[ῑ]</font> <i>vb. de</i> πολιτεύω, CIC. <i>Att. 2, 6, etc</i>.`

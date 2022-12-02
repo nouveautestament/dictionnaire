@@ -1,0 +1,1 @@
+lar[105165]=`<b>ητος (ὁ)</b> Phérès :<br><b>      1</b> <i>fils de Krèthée, fondateur de Phères,</i> OD. <i>11, 259</i> ; PD. <i>P. 4, 125</i> ; ESCHL. <i>Eum. 723</i> ; EUR. <i>Alc. 11, etc.</i><br><b>      2</b> <i>autres,</i> APD. <i>1, 9, 28, etc</i>.`

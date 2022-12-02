@@ -1,0 +1,1 @@
+lar[17334]=`<i>adv.</i> :<br><b>      1</b> de manière à suffire par soi-même, suffisamment, DIOSC. <i>1, 49 ; 2, 84, etc.</i> ; HDN <i>3, 14, 17</i> ; SEXT. GAL.<br><b>      2</b> de manière à se suffire à soi-même, ŒNOM. (EUS. <i>P.E. 5, p. 220d</i>).<p>•<i> Sup</i>. αὐταρκέστατα, XÉN. <i>Mem. 1, 2, 14</i>.<p><b>Étym</b>. αὐτάρκης.`

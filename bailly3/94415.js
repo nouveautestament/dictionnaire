@@ -1,0 +1,1 @@
+lar[94415]=`<i>adv</i>., avantageusement, XÉN. <i>Mem. 1, 2, 50 ; 2, 6, 23</i> ; PLAT. <i>Leg. 662a ;</i> ISOCR. <i>19e, etc</i>.<p><b>Étym</b>. συμφέρω.`

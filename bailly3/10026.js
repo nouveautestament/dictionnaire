@@ -1,0 +1,1 @@
+lar[10026]=`<b>ος, ον</b>, contesté, douteux, THC. <i>4, 92</i>.<p><b>Étym</b>. <i>vb. de</i> ἀντιλέγω.`

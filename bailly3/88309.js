@@ -1,0 +1,1 @@
+lar[88309]=`<b>Ῥατουμένα πύλη (ἡ)</b> la Porte Ratumena, <i>à Rome,</i> PLUT. <i>Popl. 13</i>.`

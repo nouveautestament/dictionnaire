@@ -1,0 +1,1 @@
+lar[56671]=`<b>κολοβο·τράχηλος, ος, ον</b> <font color="purple">[ᾰ]</font> au cou enfoncé, court, ADAM. <i>Physiogn. 2, 16</i>.<p><b>Étym</b>. κολοβός, τράχηλος.`

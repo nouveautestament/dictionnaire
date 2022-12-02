@@ -1,0 +1,1 @@
+lar[40176]=`<font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) avoir envie de faire qqe ch. SOPH. <i>Tr. 1232 ; Ph. 1001</i>.<p><b>Étym</b>. ἐργάζομαι.`

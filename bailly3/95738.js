@@ -1,0 +1,1 @@
+lar[95738]=`<b>συνεργο·λάβος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui se charge d’une entreprise avec un autre, STR. <i>354</i>.<p><b>Étym</b>. συνεργός, λαμβάνω.`

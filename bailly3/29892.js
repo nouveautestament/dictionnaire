@@ -1,0 +1,1 @@
+lar[29892]=`<b>ἐγ·χειρί·θετος, ος, ον</b> <font color="purple">[ῐ]</font> remis aux mains de, HDT. <i>5, 106</i>.<p><b>Étym</b>. ἐν, χείρ, τίθημι.`

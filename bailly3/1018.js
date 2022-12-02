@@ -1,0 +1,1 @@
+lar[1018]=`<b>ου (ὁ)</b> Agyrrhios, <i>h</i>. XÉN. <i>Hell. 4, 8, 31, etc</i>.`

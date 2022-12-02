@@ -1,0 +1,1 @@
+lar[108559]=`<b>Χλευό·χαρμος, ου (ὁ)</b> Kleuokharmos, <i>h</i>. LUC. <i>Philopatr. 21</i>.<p><b>Étym</b>. χλεύη, χαίρω.`

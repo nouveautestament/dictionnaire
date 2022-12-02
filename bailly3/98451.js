@@ -1,0 +1,1 @@
+lar[98451]=`<b>ου (ὁ, ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. τεσσαρακονταετής, LUC. <i>Herm. 13</i>.`

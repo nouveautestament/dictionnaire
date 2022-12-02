@@ -1,0 +1,1 @@
+lar[9270]=`<b>ας (ἡ)</b> différence d’espèce, DYSC. <i>Pron. 389</i>.`

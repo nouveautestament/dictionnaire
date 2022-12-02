@@ -1,0 +1,1 @@
+lar[34884]=`<b>ας (ἡ)</b> vase de nuit, SOPH. <i>fr. 430</i>.<p><b>Étym</b>. ἐνουρέω.`

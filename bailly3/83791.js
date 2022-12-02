@@ -1,0 +1,1 @@
+lar[83791]=`<b>οῦ (ὁ)</b> <font color="purple">[ῐ]</font> action de faire avancer, ARTÉM. <i>2, 12</i>.<p><b>Étym</b>. προβιβάζω.`

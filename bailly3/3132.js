@@ -1,0 +1,1 @@
+lar[3132]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> semblable à la tête épineuse de certaines plantes, TH. <i>H.P. 4, 6, 10</i>.<p><b>Étym</b>. ἄκανος.`

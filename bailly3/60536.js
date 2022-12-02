@@ -1,0 +1,1 @@
+lar[60536]=`<b>λευκ·αχάτης, ου (ὁ)</b> <font color="purple">[ᾰᾱ]</font> agate blanche, <i>pierre précieuse,</i> PLIN. <i>H.N. 37, 54</i>.<p><b>Étym</b>. λ. ἀ.`

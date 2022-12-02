@@ -1,0 +1,1 @@
+lar[23804]=`<b>ης (ἡ)</b> <i>ou</i> <b>Δελφίνης, ου (ὁ)</b> <font color="purple">[ῑ]</font> Delphinè <i>ou</i> Delphinès, dragon gardien de l’oracle de Delphes, A.RH. <i>2, 706 (var</i>. -ύνη <i>ou</i> -ύνης) ; <i>etc</i>.<p><b>Étym</b>. Δελφοί.`

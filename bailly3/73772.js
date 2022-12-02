@@ -1,0 +1,1 @@
+lar[73772]=`<b>Οὔ·τις, ιδος</b>, <i>acc</i>. <b>ιν (ἡ)</b> Personne, <i>argument de sophiste, ainsi appelé de</i> Οὔτις DL. <i>7, 44, 82</i>.`

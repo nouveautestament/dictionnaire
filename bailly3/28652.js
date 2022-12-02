@@ -1,0 +1,1 @@
+lar[28652]=`<i>adv</i>., avec malveillance <i>ou</i> hostilité, POL. <i>8, 10, 1 ; 12, 15, 10, etc</i>.`

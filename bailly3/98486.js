@@ -1,0 +1,1 @@
+lar[98486]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> faisan, PTOL. (ATH. <i>654c</i>) ; <i>cf</i>. τατύρας.`

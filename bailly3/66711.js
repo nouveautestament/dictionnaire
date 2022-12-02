@@ -1,0 +1,1 @@
+lar[66711]=`<font color="darkgreen">(<i>3 pl. ao. moy</i>. μόρξαντο)</font> <i>c</i>. ὀμόργνυμι, Q. SM. <i>4, 270, 314</i>.`

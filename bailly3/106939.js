@@ -1,0 +1,1 @@
+lar[106939]=`<b>ας (ἡ)</b> fonction <i>ou</i> poste d’un commandant de place, XÉN. <i>Mem. 4, 4, 17</i>.<p><b>Étym</b>. φρούραρχος.`

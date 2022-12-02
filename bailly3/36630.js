@@ -1,0 +1,1 @@
+lar[36630]=`<b>ἐπ·αναπίπτω</b> (<i>part. ao.2</i> -αναπεσών) tomber sur, <i>d’où</i> se jeter sur, se coucher sur, <i>dat</i>. EL. <i>V.H. 9, 24</i>.`

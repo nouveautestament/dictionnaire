@@ -1,0 +1,1 @@
+lar[5349]=`<i>att</i>. <b>ἀμβλυώττω</b> (<i>seul. prés</i>.) avoir la vue faible, HPC. <i>108h, 113e ;</i> PLAT. <i>Rsp. 508c, etc.</i> ; τὸ ἀμβλυῶττον, PLUT. <i>M. 13e</i>, faiblesse de la vue.<p><b>Étym</b>. ἀμβλύς, ὤψ.`

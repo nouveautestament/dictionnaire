@@ -1,0 +1,1 @@
+lar[104637]=`<b>φαιδρό·νους, ους, ουν</b>, qui a l’âme sereine <i>ou</i> joyeuse, ESCHL. <i>Ag. 1229</i>.<p><b>Étym</b>. φαιδρός, νοῦς.`

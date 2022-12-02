@@ -1,0 +1,1 @@
+lar[108981]=`<b>χρησμο·ποιός, ός, όν</b>, qui compose des oracles (en vers) LUC. <i>Alex. 23</i>.<p><b>Étym</b>. χρ. ποιέω.`

@@ -1,0 +1,1 @@
+lar[9593]=`<b>ἀντ·εμπείρω</b>, explorer <i>ou</i> tâter dans une direction opposée, P. ÉG. <i>348 Briau</i>.`

@@ -1,0 +1,1 @@
+lar[83582]=`<b>ῆς (ἡ)</b> lever antérieur, <i>en parl. d’un astre,</i> PTOL.<p><b>Étym</b>. προανατέλλω.`

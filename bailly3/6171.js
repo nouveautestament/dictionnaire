@@ -1,0 +1,1 @@
+lar[6171]=`<b>ἀμφί·θυρος, ος, ον</b> <font color="purple">[ῠ]</font> qui a une porte <i>ou</i> une entrée de deux côtés, SOPH. <i>Ph. 159</i> ; LYS. <i>121, 23</i> ; PLUT. <i>Lyc. c. Num. 4, M. 835e ;</i> τὸ ἀμφίθυρον, THCR. <i>Idyl. 14, 42,</i> vaste salle à deux portes.<p><b>Étym</b>. ἀ. θύρα.`

@@ -1,0 +1,1 @@
+lar[84848]=`<b>προ·ονομάζω</b>, nommer d’avance <i>ou</i> auparavant, NYSS.`

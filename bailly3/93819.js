@@ -1,0 +1,1 @@
+lar[93819]=`<b>ή, όν</b> <font color="purple">[ᾰᾰ]</font> accidentel, PTOL. <i>Tetr. 4, p. 203</i>.<p><b>Étym</b>. σύμβαμα.`

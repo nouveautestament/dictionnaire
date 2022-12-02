@@ -1,0 +1,1 @@
+lar[70014]=`<b>ὀβολο·στάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> usurier, AR. <i>Nub. 1155</i> ; ANTIPH. (ATH. <i>108f</i>).<p><b>Étym</b>. ὀβελός, ἵστημι.`

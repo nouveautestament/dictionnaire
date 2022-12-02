@@ -1,0 +1,1 @@
+lar[20307]=`<b>ιδος</b> <font color="purple">[ῑῐδ]</font> <i>adj. f.</i> : β. καδμεία, GAL. <i>13, 263, ou simpl</i>. ἡ β. DIOSC. <i>5, 84,</i> sorte de pierre précieuse en forme de grappe (<i>cf</i>. βοτρυΐτης).`

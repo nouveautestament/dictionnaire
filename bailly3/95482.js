@@ -1,0 +1,1 @@
+lar[95482]=`<b>συν·ενθουσιάω-ῶ</b>, s’enthousiasmer avec, <i>dat</i>. PLUT. <i>Cor. 17 ; abs</i>. POL. <i>38, 4, 7</i> ; STR. <i>147</i>.`

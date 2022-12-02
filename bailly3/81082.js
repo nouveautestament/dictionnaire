@@ -1,0 +1,1 @@
+lar[81082]=`<b>πλοη·τόκος, ος, ον</b>, favorable à la navigation, ANTH. <i>10, 6</i>.<p><b>Étym</b>. πλόος, τίκτω.`

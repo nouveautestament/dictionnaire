@@ -1,0 +1,1 @@
+lar[70107]=`<b>ὀδμάω-ῶ</b> (<i>seul. prés</i>.) GAL. <i>4, 487 ; moy</i>. <b>ὀδμάομαι-ῶμαι</b>, flairer, sentir, DÉMOCR. (SEXT. <i>M. 7, 139</i>) NIC. <i>Th. 47</i>.<p>➳ <i>Pass. seul. sbj. ao. au sens act</i>. ὀδμηθῶ, HPC. <i>7, 292</i>.<p><b>Étym</b>. ὀδμή.`

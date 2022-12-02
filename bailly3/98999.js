@@ -1,0 +1,1 @@
+lar[98999]=`<i>indécl.</i> :<br><b>      1</b> <i>onomatopée pour parodier le son de la lyre,</i> ARCHIL. <i>118</i>.<br><b>      2</b> <i>p. suite,</i> τήνελλα καλλίνικος, AR. <i>Av. 1764, Ach. 1227, sorte de refrain de victoire ou cri d’encouragement dans les jeux sacrés</i>.`

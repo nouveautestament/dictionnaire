@@ -1,0 +1,1 @@
+lar[34581]=`<b>ή, όν</b> <font color="purple">[ῡ]</font> <i>c</i>. ἐνθύμιος HDT. <i>2, 175</i>.<p><b>Étym</b>. <i>vb. de</i> ἐνθυμίζομαι.`

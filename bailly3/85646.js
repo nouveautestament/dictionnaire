@@ -1,0 +1,1 @@
+lar[85646]=`<b>προσ·επεμβαίνω</b>, fouler aux pieds avec d’autres, <i>d’où</i> insulter de concert avec d’autres <i>ou</i> en outre, <i>dat</i>. CHRYS. <i>t. 5, p. 241, 28</i>.`

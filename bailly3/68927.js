@@ -1,0 +1,1 @@
+lar[68927]=`<b>νομο·αίολος, ος, ον</b>, aux modulations variées, TÉLEST. (ATH. <i>617b</i>).<p><b>Étym</b>. νόμος, αἰόλος.`

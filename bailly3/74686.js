@@ -1,0 +1,1 @@
+lar[74686]=`<b>παμ·βλαβής, ής, ές</b> <font color="purple">[ᾰ]</font> entièrement lésé, ruiné, MAN. <i>4, 31</i>.<p><b>Étym</b>. π. βλάπτω.`

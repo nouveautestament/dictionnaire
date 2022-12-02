@@ -1,0 +1,1 @@
+lar[16824]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans honneur, honteusement, ESCHL. <i>Pr. 195, 919, etc.</i> ; sans rendre d’honneurs (à un mort) ESCHL. <i>Ch. 96</i>.<p>•<i> Cp</i>. -ότερον, PLAT. <i>Ep. 309b ;</i> DS. <i>1, 67. • Sup</i>. -ότατα, PLAT. <i>Leg. 728b</i>.`

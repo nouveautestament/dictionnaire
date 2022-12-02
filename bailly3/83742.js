@@ -1,0 +1,1 @@
+lar[83742]=`<b>προ·αφικνέομαι-οῦμαι :<br>      1</b> parvenir auparavant, THC. <i>4, 2</i>.<br><b>      2</b> partir auparavant, DC. <i>42, 32 ; 48, 13</i>.`

@@ -1,0 +1,1 @@
+lar[39624]=`grappiller ; <i>fig</i>. chercher avec un soin minutieux, SPT. <i>Thren. 1, 22 ; 2, 20 ; 3, 51</i>.<p><b>Étym</b>. ἐπιφυλλίς.`

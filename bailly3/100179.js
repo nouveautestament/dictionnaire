@@ -1,0 +1,1 @@
+lar[100179]=`<b>τρί·δειρος, ος, ον</b> <font color="purple">[ῐ]</font> à trois cous, à trois têtes, <i>en parl. de la Sicile,</i> LYC. <i>966</i>.<p><b>Étym</b>. τρ. δειρά.`

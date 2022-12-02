@@ -1,0 +1,1 @@
+lar[33360]=`<b>ἐμπεδό·μητις</b>, <i>gén</i>. <b>ιος (ὁ, ἡ)</b> aux résolutions immuables, NONN. <i>Jo. 10, 63</i>.<p><b>Étym</b>. ἔ. μῆτις.`

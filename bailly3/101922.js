@@ -1,0 +1,1 @@
+lar[101922]=`<b>εως (ἡ)</b> <font color="purple">[ῠᾰ]</font> onction faite en dessous, HPC. <i>689, 41</i> ; TH. <i>Sud. 39</i>.<p><b>Étym</b>. ὑπαλείφω.`

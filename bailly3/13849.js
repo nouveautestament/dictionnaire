@@ -1,0 +1,1 @@
+lar[13849]=`<b>ἀπο·ψοφέω-ῶ</b>, émettre un bruit ronflant, <i>d’où</i> :<br><b>      1</b> roucouler, ARSTT. <i>H.A. 9, 49</i>.<br><b>      2</b> lâcher un rot, MACH. (ATH. <i>349e</i>) <i>ou</i> un vent, HPC. <i>1175</i>.`

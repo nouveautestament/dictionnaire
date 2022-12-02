@@ -1,0 +1,1 @@
+lar[74837]=`<b>ος, ον</b> <font color="purple">[ᾰνᾰ]</font> <i>c</i>. πανακής, NIC. <i>Th. 508</i>.`

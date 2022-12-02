@@ -1,0 +1,1 @@
+lar[108573]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> parure, luxe, EUR. <i>I.A. 74</i>.<p><b>Étym</b>. χλιδάω.`

@@ -1,0 +1,1 @@
+lar[60667]=`<b>ωνος (ὁ)</b> Leusôn, <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.`

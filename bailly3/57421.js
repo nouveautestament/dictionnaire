@@ -1,0 +1,1 @@
+lar[57421]=`<b>ή, όν</b>, qui sert à tondre, à raser, PLUT. <i>Dio. 9</i> ; CLÉM. <i>290</i>.<p><b>Étym</b>. κουρά.`

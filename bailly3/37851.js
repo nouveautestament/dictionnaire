@@ -1,0 +1,1 @@
+lar[37851]=`<b>ἐπι·θυσιάω-ῶ</b> <font color="purple">[ῠ]</font> (<i>seul. prés. dor</i>. κἀπιθυσιῶμες) sacrifier sur <i>ou</i> auprès, SOPHR (EM. <i>443, 53</i>).`

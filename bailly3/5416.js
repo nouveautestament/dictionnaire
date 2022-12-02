@@ -1,0 +1,1 @@
+lar[5416]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> échange (de marchandises, d’argent, <i>etc</i>.) DS. <i>3, 47 ; au plur</i>. POL. <i>10, 1, 5</i> ; DH. <i>1, 37 ; 7, 58, etc.</i><br><b>      2</b> succession, PLUT. <i>Arist. 46, Syll. 7</i>.<br><b>      3</b> réponse, PLUT. <i>M. 803c</i>.<p><b>Étym</b>. ἀμείβω.`

@@ -1,0 +1,1 @@
+lar[76680]=`<b>παρ·εμπολάω-ῶ</b>, glisser frauduleusement dans une vente, <i>d’où p. ext</i>. introduire frauduleusement, <i>acc</i>. EUR. <i>Med. 910</i>.`

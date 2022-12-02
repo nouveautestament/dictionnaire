@@ -1,0 +1,1 @@
+lar[76536]=`<b>παρ·εγκάμπτω</b>, infléchir, ORIB. <i>125 Matthäi</i>.`

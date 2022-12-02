@@ -1,0 +1,1 @@
+lar[10775]=`<b>ἀν·υπόστροφος, ος, ον :<br>      1</b> d’où l’on ne revient pas, ORPH. <i>H. 56, 1</i>.<br><b>      2</b> sans rechute, HPC. <i>1175a</i>.<p><b>Étym</b>. ἀν-, ὑποστρέφω.`

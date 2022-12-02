@@ -1,0 +1,1 @@
+lar[20906]=`<font color="darkgreen">(<i>seul. impf. 3 sg</i>. ἔβρυζε)</font> boire en faisant mousser, <i>acc</i>. ARCHIL. <i>31, dout</i>.<p><b>Étym</b>. βρύω.`

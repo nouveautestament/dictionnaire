@@ -1,0 +1,1 @@
+lar[20270]=`<b>ου (ὁ)</b> Bosporikhos, <i>Byzantin,</i> DÉM.<p><b>Étym</b>. βόσπορος.`

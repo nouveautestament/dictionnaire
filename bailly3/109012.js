@@ -1,0 +1,1 @@
+lar[109012]=`<b>χρηστομαθέω-ῶ</b> <font color="purple">[ᾰ]</font> rechercher une bonne instruction, LGN <i>2, 8</i>.<p><b>Étym</b>. χρηστομαθής.`

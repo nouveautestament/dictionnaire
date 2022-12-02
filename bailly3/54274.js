@@ -1,0 +1,1 @@
+lar[54274]=`<b>ιος (ὁ)</b> <font color="purple">[ᾰ]</font> la chaîne du Caucase, HDT. <i>3, 97</i>.<p><b>Étym</b>. Καύκασος.`

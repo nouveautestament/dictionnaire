@@ -1,0 +1,1 @@
+lar[90113]=`<b>ου (ὁ)</b> XÉN. <i>An. 1, 5, 6</i> ; POLL. <i>9, 82, plus souv</i>. <b>σίκλος, ου (ὁ)</b> sicle :<br><b>      1</b> <i>monnaie persane (de 7 oboles ½</i>) XÉN. <i>l. c. ; éphésienne,</i> A. ÉTOL. (MACR. <i>Sat. 5, 22) ; ou juive,</i> JOS. <i>A.J. 3, 8, 2</i>.<br><b>      2</b> <i>mesure équivalente à un médimne,</i> POL. <i>34, 8, 7</i>.`

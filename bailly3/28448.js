@@ -1,0 +1,1 @@
+lar[28448]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> caractère querelleur, JAMBL. <i>Myst. 6, 3</i> ; PROCL. <i>Plat. Parm. 539 Stallb</i>.<p><b>Étym</b>. δυσέριστος.`

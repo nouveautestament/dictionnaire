@@ -1,0 +1,1 @@
+lar[34867]=`<b>ἐν·ορχέομαι-οῦμαι</b>, danser dans, <i>dat</i>. ALCIPHR. <i>3, 65</i>.`

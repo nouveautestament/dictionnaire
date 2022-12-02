@@ -1,0 +1,1 @@
+lar[2971]=`<b>ης, ες :<br>      1</b> qui concerne <i>ou</i> contient la cause : τὸ αἰτ. M. ANT. <i>4, 21 ; 5, 13,</i> la forme, <i>p. opp. à</i> τὸ ὑλικόν.<br><b>      2</b> <i>t. de gr</i>. qui exprime l’idée de cause, causal, DYSC. <i>Pron. 267</i> ; DL. <i>7, 72</i>.<p><b>Étym</b>. αἰτία, -ωδης.`

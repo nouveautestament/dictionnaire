@@ -1,0 +1,1 @@
+lar[30717]=`<b>εἰσ·βοάω-οῶ</b> (<i>part. prés</i>. -οώντων) pousser un cri, NYSS. <i>2, 782d</i>.`

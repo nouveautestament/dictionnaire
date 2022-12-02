@@ -1,0 +1,1 @@
+lar[42501]=`<b>ου (ὁ)</b> Eukratidès, <i>h</i>. LUC. <i>Philops. 27</i> ; ANTH. <i>7, 470</i>.<p>➳ <i>Gén. épq</i>. -εω, ANTH. <i>7, 470</i>.<p><b>Étym</b>. <i>patr. de</i> Εὐκράτης.`

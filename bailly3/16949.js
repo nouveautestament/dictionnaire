@@ -1,0 +1,1 @@
+lar[16949]=`<b>ας (ἡ) :<br>      1</b> état de celui qui ne tremble pas, intrépidité, PD. <i>N. 11, 12</i>.<br><b>      2</b> <i>p. suite,</i> immobilité, ANTH. <i>9, 555,</i> ἀτρεμίαν ἔχειν, XÉN. <i>Cyr. 6, 3, 13,</i> demeurer immobile.<p>➳ <i>Ion</i>. ἀτρεμίη, HPC. <i>525, 6</i> ; ANTH. <i>l. c</i>.<p><b>Étym</b>. ἀτρεμής.`

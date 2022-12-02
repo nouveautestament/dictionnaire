@@ -1,0 +1,1 @@
+lar[32945]=`<b>οῦ (ὁ) :<br>      1</b> partisan de la langue <i>ou</i> des coutumes grecques, <i>particul</i>. Juif grec, NT. <i>Ap. 6, 1 ; 9, 29</i> ; CHRYS. <i>9, 111d Migne</i>.<br><b>      2</b> partisan de la religion des Grecs ; <i>p. suite,</i> partisan du paganisme, <i>d’où</i> païen, idolâtre, JUL. <i>Ep. 84, 430d</i>.<p><b>Étym</b>. ἑλληνίζω.`

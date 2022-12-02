@@ -1,0 +1,1 @@
+lar[46255]=`<b>ας</b>, <i>adj. f</i>. qui frappe d’effroi, <i>ép. des Érinyes,</i> ORPH. <i>Arg. 971</i>.<p><b>Étym</b>. θαμβέω.`

@@ -1,0 +1,1 @@
+lar[3555]=`<b>ἀκοντο·δόκος, ος, ον</b> <font color="purple">[ᾰ]</font> qui attend les javelots (pour les éviter), ANTH. <i>7, 443</i>.<p><b>Étym</b>. ἄκων¹, δέχομαι.`

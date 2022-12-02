@@ -1,0 +1,1 @@
+lar[20743]=`<b>βραχυ·φεγγίτης, ου</b> <font color="purple">[ᾰῠῑ]</font> <i>adj. m</i>. qui éclaire peu de temps, ANTH. <i>6, 251</i>.<p><b>Étym</b>. βρ. φέγγος.`

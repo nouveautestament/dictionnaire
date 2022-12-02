@@ -1,0 +1,1 @@
+lar[84890]=`<b>προ·παραγγέλλω :<br>      1</b> annoncer auparavant, HLD. <i>9, 10 ; au pass</i>. EN. TACT. <i>Pol. 27</i>.<br><b>      2</b> prescrire d’avance, <i>avec l’inf</i>. DC. <i>46, 41</i>.`

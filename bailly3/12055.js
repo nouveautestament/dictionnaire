@@ -1,0 +1,1 @@
+lar[12055]=`<b>ἀπλήστ·οινος, ος, ον</b>, insatiable de vin, TIMON (ATH. <i>424b</i>).<p><b>Étym</b>. ἄπληστος, οἶνος.`

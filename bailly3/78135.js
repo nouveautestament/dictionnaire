@@ -1,0 +1,1 @@
+lar[78135]=`<b>πεντηκοντα·ταλαντία, ας (ἡ)</b> <font color="purple">[ᾰτᾰ]</font> somme de cinquante talents, DÉM. (POLL. <i>9, 52).</i><p><b>Étym</b>. π. τάλαντον.`

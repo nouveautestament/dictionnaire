@@ -1,0 +1,1 @@
+lar[41681]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> remède qui agit par application externe, topique, collyre, GAL.<p><b>Étym</b>. εὖ, ἅπτω¹.`

@@ -1,0 +1,1 @@
+lar[35079]=`<b>ἐν·τιλάω-ῶ</b> <font color="purple">[ῑ]</font> faire ses ordures sur, <i>dat</i>. AR. <i>Ach. 351</i>.`

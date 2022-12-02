@@ -1,0 +1,1 @@
+lar[71258]=`<b>ης (ἡ) :<br>      1</b> flacon à huile, en cuir, <i>pour le gymnase,</i> THCR. <i>Idyl. 2, 156</i> ; NIC. <i>Th. 80, 97</i> ; ANTH. <i>6, 293, 298</i>.<br><b>      2</b> <i>c</i>. πρόχοος, CLITARQ. (ATH. <i>495b</i>).<p>➳ <i>Dor</i>. ὄλπα, THCR. <i>Idyl. l. c</i>.`

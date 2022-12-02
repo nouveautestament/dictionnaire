@@ -1,0 +1,1 @@
+lar[32802]=`<b>ἑλικ·αυγής, ής, ές</b> <font color="purple">[ῐ]</font> dont le cercle lumineux accomplit son évolution, ORPH. <i>fr. 7, 25</i>.<p><b>Étym</b>. ἑ. αὐγή.`

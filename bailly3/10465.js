@@ -1,0 +1,1 @@
+lar[10465]=`<b>ἀντι·συναντάω-ῶ</b>, rencontrer face à face, ANTH. <i>12, 227</i>.`

@@ -1,0 +1,1 @@
+lar[28137]=`<b>δυσ·άγων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῠᾰ]</font> plein de luttes pénibles, PLUT. <i>Tim. 36</i>.<p><b>Étym</b>. δ. ἀγών.`

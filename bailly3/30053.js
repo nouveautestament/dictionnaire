@@ -1,0 +1,1 @@
+lar[30053]=`<b>ή, όν :<br>      1</b> qui concerne le fondement <i>ou</i> l’anus, de l’anus, P. ÉG. <i>326</i>.<br><b>      2</b> qui a le fondement malade, AÉT. <i>14, 2</i>.<p><b>Étym</b>. ἕδρα.`

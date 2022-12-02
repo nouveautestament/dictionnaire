@@ -1,0 +1,1 @@
+lar[94522]=`<b>συν·αβολέω-ῶ</b> <font color="purple">[ᾰ]</font> se rencontrer avec, BABR. <i>61, 3</i>.`

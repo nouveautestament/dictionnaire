@@ -1,0 +1,1 @@
+lar[70900]=`<b>ας (ἡ)</b> bonheur : εἰς ὀλβίαν (<i>s.-e</i>. βάλλε) COM. ANON. (PHOT. <i>p. 20, 24</i>), va-t’en au bonheur, <i>càd. ironiq</i>. à tous les diables.<p><b>Étym</b>. ὄλβιος.`

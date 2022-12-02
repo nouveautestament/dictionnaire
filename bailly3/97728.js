@@ -1,0 +1,1 @@
+lar[97728]=`<b>α, ον</b> <font color="purple">[ᾰρι]</font> <i>c</i>. Ταρτάρειος, ORPH. <i>H. 18, 2</i> ; ANTH. <i>11, 360, etc</i>.`

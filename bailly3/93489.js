@@ -1,0 +1,1 @@
+lar[93489]=`<b>ατος (τὸ)</b> lien solide, PHIL. BYZ. <i>Bel. 16</i>.<p><b>Étym</b>. συγκοινόω.`

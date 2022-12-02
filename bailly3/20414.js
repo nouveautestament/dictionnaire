@@ -1,0 +1,1 @@
+lar[20414]=`<b>βου·κόλος, ου (ὁ)</b> Boukolos, <i>h</i>. DIOCL. (PLUT. <i>Qu. gr. 40</i>).`

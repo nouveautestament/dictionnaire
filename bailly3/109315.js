@@ -1,0 +1,1 @@
+lar[109315]=`<b>χρυσ·ωνέω-ῶ</b> <font color="purple">[ῡ]</font> acheter de l’or, <i>càd</i>. donner de la monnaie d’argent en échange de monnaie d’or, ISOCR. <i>366e</i>.<p><b>Étym</b>. χρ. ὠνέομαι.`

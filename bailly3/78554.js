@@ -1,0 +1,1 @@
+lar[78554]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f</i>. qui s’enroule autour, qui entoure, ERATOSTH. (A. TAT. ASTR. <i>Isag. in Arat. 63, 7 Maass dout</i>.).<p><b>Étym</b>. περιειλέω.`

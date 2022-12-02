@@ -1,0 +1,1 @@
+lar[1921]=`<b>ἀητό·ρροος-ους, οος-ους, οον-ουν</b>, qui coule apporté par le vent, PLAT. <i>Crat. 410b</i>.<p><b>Étym</b>. ἀήτης, ῥέω.`

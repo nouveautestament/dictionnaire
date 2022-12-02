@@ -1,0 +1,1 @@
+lar[39508]=`<b>ή, όν</b>, propre à exercer une tutelle, habile intendant, XÉN. <i>Œc. 12, 3</i>.`

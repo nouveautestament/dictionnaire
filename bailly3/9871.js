@@ -1,0 +1,1 @@
+lar[9871]=`<b>ἀντι·δωρέομαι-οῦμαι</b>, faire don en échange <i>ou</i> en retour, HDT. <i>2, 30</i> ; XÉN. <i>Cyr. 5, 4, 32</i> ; PLAT. <i>Leg. 938a, etc</i>.<p>➳ <i>Ao. opt. 3 pl. poét</i>. ἀντιδωρησαίατο EUR. <i>Hel. 159</i>.`

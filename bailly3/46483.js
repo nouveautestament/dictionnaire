@@ -1,0 +1,1 @@
+lar[46483]=`<b>θειλό·πεδον, ου (τὸ) :<br>      1</b> endroit où l’on fait sécher (les raisins) au soleil, OD. <i>7, 123</i>.<br><b>      2</b> <i>sorte de claie ou</i> d’appareil, <i>ou, sel. d’autres,</i> aire disposée pour cet usage, DIOSC. <i>1, 38</i>.<p><b>Étym</b>. <i>p.-ê. p</i>. θ' εἱλόπεδον = τὸ εἱλόπεδον, <i>de</i> εἵλη, πέδον.`

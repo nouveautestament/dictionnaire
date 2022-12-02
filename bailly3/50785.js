@@ -1,0 +1,1 @@
+lar[50785]=`<b>κακό·μοιρος, ος, ον</b> <font color="purple">[ᾰ]</font> malheureux, ANTH. <i>7, 375</i>.<p><b>Étym</b>. κ. μοῖρα.`

@@ -1,0 +1,1 @@
+lar[67776]=`<b>ου</b>, <i>adj. m</i>. de Nauplie, EUR. <i>Or. 54</i>.<p><b>Étym</b>. Ναυπλία.`

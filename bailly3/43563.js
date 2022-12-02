@@ -1,0 +1,1 @@
+lar[43563]=`<b>εὐ·τάρακτος, ος, ον</b> <font color="purple">[τᾰ]</font> facile à troubler, PLUT. <i>Arat. 10</i>.<p><b>Étym</b>. εὖ, ταράσσω.`

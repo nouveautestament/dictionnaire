@@ -1,0 +1,1 @@
+lar[46624]=`<b>Θεο·δάμας, αντος (ὁ)</b> <font color="purple">[δᾰ]</font> Théodamas, <i>h</i>. ARSTT. <i>Rhet. 3, 4</i>.<p><b>Étym</b>. θ. δαμάω.`

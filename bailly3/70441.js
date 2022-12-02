@@ -1,0 +1,1 @@
+lar[70441]=`<b>οἰκτρό·βιος, ος, ον</b>, qui vit misérablement, P. ALEX. <i>Apot. 24, p. 67, l. 6 Boer</i>.<p><b>Étym</b>. οἰκτρός, βίος.`

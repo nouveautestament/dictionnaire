@@ -1,0 +1,1 @@
+lar[8278]=`<b>ἀν·ελεήμων, ων, ον</b>, <i>gén</i>. ονος, sans pitié, cruel, ARSTT. <i>Rhet. Al. 37, 3</i> ; NT. <i>Rom. 1, 31</i>.<p><b>Étym</b>. ἀν-, ἐλ.`

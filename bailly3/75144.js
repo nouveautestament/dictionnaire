@@ -1,0 +1,1 @@
+lar[75144]=`<font color="purple">[ᾰ]</font> <i>adv.</i> :<br><b>      1</b> avec industrie <i>ou</i> habileté, ATH. <i>407a.</i><br><b>      2</b> avec fourberie <i>ou</i> méchanceté, AR. <i>Eq. 317</i> ; PLAT. <i>Soph. 239c</i>.<p>•<i> Sup</i>. -ότατα, AR. <i>Eq. 56</i>.`

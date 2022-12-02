@@ -1,0 +1,1 @@
+lar[81164]=`<b>ΐδος</b> <font color="purple">[ῐδ]</font> <i>adj. f. c</i>. πλωϊάς, A.RH. <i>2, 1053</i>.`

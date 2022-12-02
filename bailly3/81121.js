@@ -1,0 +1,1 @@
+lar[81121]=`<i>adv</i>., en choisissant parmi les plus riches, ARSTT. <i>Pol. 2, 11, 8</i> ; POL. <i>6, 20, 9</i> ; PLUT. <i>M. 154c</i>.<p><b>Étym</b>. πλοῦτος, -ινδην.`

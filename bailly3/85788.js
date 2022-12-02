@@ -1,0 +1,1 @@
+lar[85788]=`<b>προσ·έσπερος, ος, ον :<br>      1</b> occidental, E. BYZ. <i>v°</i> Ἀντιγόνεια.<br><b>      2</b> du soir, THCR. <i>Idyl. 4, 3 ; 5, 113</i>.<p>➳ <i>Dor</i>. ποθέσπερος, THCR. <i>Idyl. ll. cc</i>.<p><b>Étym</b>. π. ἕσπερος.`

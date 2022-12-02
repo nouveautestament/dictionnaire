@@ -1,0 +1,1 @@
+lar[63078]=`<b>οῦ (ὁ)</b> qui recherche, qui fait une enquête, XÉN. <i>Œc. 8, 13</i>.<p><b>Étym</b>. μαστεύω.`

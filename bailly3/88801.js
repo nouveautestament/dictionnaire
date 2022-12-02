@@ -1,0 +1,1 @@
+lar[88801]=`<b>ας (ἡ)</b> = <i>lat</i>. Rumina, <i>divinité rom</i>. PLUT. <i>Qu. rom. 57, etc</i>.`

@@ -1,0 +1,1 @@
+lar[92246]=`<b>σταχυο·φορέω-ῶ</b> <font color="purple">[ᾰ]</font> produire (<i>litt</i>. porter) des épis, PHIL. <i>2, 400</i>.<p><b>Étym</b>. στάχυς, φ. ; <i>cf</i>. σταχυφορέω.`

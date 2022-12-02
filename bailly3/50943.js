@@ -1,0 +1,1 @@
+lar[50943]=`<font color="purple">[ᾰᾰ]</font> <i>ou</i> <b>καλλαβίς, ίδος (ἡ)</b> danse lacédémonienne en l’honneur d’Artémis, EUP. <i>163 Kock</i>.`

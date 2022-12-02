@@ -1,0 +1,1 @@
+lar[1982]=`<b>ἀθεμιτο·φάγος, ος, ον</b> <font color="purple">[ῐᾰ]</font> qui vit d’injustice, PTOL. <i>Tetr. 159</i>.<p><b>Étym</b>. ἀθ. φαγεῖν.`

@@ -1,0 +1,1 @@
+lar[3943]=`<b>η, ον</b> <font color="purple">[ῐ]</font> de sureau, TH. <i>H.P. 5, 3, 3</i>.<p><b>Étym</b>. ἀκτέα.`

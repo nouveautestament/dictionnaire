@@ -1,0 +1,1 @@
+lar[95640]=`<b>συν·επικρίνω</b> <font color="purple">[ῑν]</font><br><b>      1</b> aider à juger entre, <i>acc</i>. PLAT. <i>Leg. 792c.</i><br><b>      2</b> aider à décider une question, PLUT. <i>M. 53b ;</i> LGN <i>1, 2</i>.`

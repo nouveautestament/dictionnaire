@@ -1,0 +1,1 @@
+lar[19966]=`<b>ου</b>, <i>adj. m</i>. préparé avec du pouliot, AR. <i>Pax 712</i>.<p><b>Étym</b>. βλήχων.`

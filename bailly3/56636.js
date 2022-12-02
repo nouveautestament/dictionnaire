@@ -1,0 +1,1 @@
+lar[56636]=`<b>α, ον</b> <font color="purple">[ῑκ]</font> semblable à du pain d’orge grossier, ATH. <i>112f</i>.<p><b>Étym</b>. κόλλιξ.`

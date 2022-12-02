@@ -1,0 +1,1 @@
+lar[63586]=`<b>μεθ·έπομαι</b> <font color="darkgreen">(<i>f</i>. μεθέψομαι, <i>ao.2</i> μετεσπόμην) :</font><br><b>      1</b> suivre, poursuivre, <i>acc</i>. IL. <i>13, 567</i>.<br><b>      2</b> suivre, <i>au fig., dat</i>. SOPH. <i>El. 1052</i>.<p><b>Étym</b>. μετά, ἕπομαι.`

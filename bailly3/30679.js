@@ -1,0 +1,1 @@
+lar[30679]=`<b>εἰσ·αναγκάζω</b> <font color="purple">[ᾰν]</font> contraindre : τινά, ESCHL. <i>Pr. 290,</i> qqn ; <i>avec l’inf</i>. PLAT. <i>Tim. 49a</i>, à faire qqe ch.`

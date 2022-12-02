@@ -1,0 +1,1 @@
+lar[84908]=`<b>προ·παροξύτονος, ος, ον</b> <font color="purple">[ῠ]</font> proparoxyton, <i>càd</i>. marqué d’un accent aigu sur l’antépénultième, DYSC.`

@@ -1,0 +1,1 @@
+lar[102478]=`<b>ὑπερ·εύχομαι :<br>      1</b> désirer outre mesure <i>ou</i> passionnément, JOS. <i>A.J. 11, 4, 3</i>.<br><b>      2</b> prier pour, <i>gén</i>. CLÉM. <i>p. 868</i>.`

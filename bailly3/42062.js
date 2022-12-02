@@ -1,0 +1,1 @@
+lar[42062]=`<b>εὐ·εστώ (ἡ)</b> bon état, bonne situation, prospérité, HDT. <i>1, 85</i> ; ESCHL. <i>Sept. 187, Ag. 647, et 929</i> ; DÉMOCR. (DL. <i>9, 45) etc</i>.<p>➳ <i>Seul. dat</i>. εὐεστοῖ, HDT. ESCHL. <i>et acc</i>. εὐεστώ, DÉMOCR. <i>l. c</i>.<p><b>Étym</b>. εὖ, ἐστώ.`

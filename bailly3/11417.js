@@ -1,0 +1,1 @@
+lar[11417]=`<b>οῦ (ὁ) :<br>      1</b> achèvement, perfection, DH. <i>Comp. 24</i> ; NT. <i>Luc. 14, 18</i>.<br><b>      2</b> repos <i>ou</i> suspension, <i>en parl. de la césure,</i> DRAC. <i>126, 3</i>.<p><b>Étym</b>. ἀπαρτίζω.`

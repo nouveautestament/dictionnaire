@@ -1,0 +1,1 @@
+lar[104205]=`<b>ὑπο·ψηφίζω</b>, proposer aux suffrages, <i>particul</i>. proposer pour la dignité épiscopale, NYSS.`

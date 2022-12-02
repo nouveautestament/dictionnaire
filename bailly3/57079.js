@@ -1,0 +1,1 @@
+lar[57079]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Cŏrĭŏlānus, Coriolan, <i>n. d’h. rom</i>. PLUT. <i>Cor. 11, etc</i>.`

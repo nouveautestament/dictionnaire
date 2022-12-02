@@ -1,0 +1,1 @@
+lar[25049]=`<b>οῦ (ὁ)</b> action d’écarter les cuisses, ZÉNON (PLUT. <i>M. 653e</i>).<p><b>Étym</b>. διαμηρίζω.`

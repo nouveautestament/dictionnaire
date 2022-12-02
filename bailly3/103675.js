@@ -1,0 +1,1 @@
+lar[103675]=`<b>ὑπο·πήγνυμι</b> <font color="purple">[νῡ]</font><br><b>      1</b> faire un peu figer <i>ou</i> coaguler, EL. <i>N.A. 3, 30 ; 14, 7</i>.<br><b>      2</b> enfoncer en dessous, HÉRON <i>266</i>.`

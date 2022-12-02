@@ -1,0 +1,1 @@
+lar[75137]=`<font color="purple">[ᾰν]</font> <i>c</i>. πανουργέω SPT. <i>1Reg. 23, 22</i>.`

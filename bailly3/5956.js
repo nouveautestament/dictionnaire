@@ -1,0 +1,1 @@
+lar[5956]=`<b>ων (οἱ)</b> les Amyrgies, <i>pple scythe,</i> HDT. <i>7, 64</i>.`

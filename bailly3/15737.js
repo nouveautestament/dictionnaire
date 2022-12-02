@@ -1,0 +1,1 @@
+lar[15737]=`<b>ας (ἡ)</b> maigreur, ARSTT. <i>H.A. 1, 15, 2</i> ; LUC. <i>Anach. 25</i>.<p><b>Étym</b>. <i>cf</i>. ἄσαρκος.`

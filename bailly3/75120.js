@@ -1,0 +1,1 @@
+lar[75120]=`<b>Παν·όπη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Panopè, <i>Néréïde,</i> IL. <i>18, 45</i> ; HÉS. <i>Th. 250, etc</i>.<p><b>Étym</b>. π. ὄψομαι.`

@@ -1,0 +1,1 @@
+lar[52277]=`<b>κατα·δαίομαι</b> <font color="darkgreen">(<i>inf. ao. pass</i>. καταδασθῆναι)</font> être dévoré, LUC. <i>Demon. 35</i>.`

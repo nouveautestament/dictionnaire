@@ -1,0 +1,1 @@
+lar[83212]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> πραιτώριον ARR. <i>Epict. 3, 22, 47</i>.`

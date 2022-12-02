@@ -1,0 +1,1 @@
+lar[12852]=`<b>ἀπο·μαίνομαι</b> <font color="darkgreen">(<i>ao.2</i> ἀπεμάνην)</font> <font color="purple">[μᾰν]</font> devenir tout à fait fou, LUC. <i>D. deor. 12, 1</i> ; SPT. <i>Dan. 12, 4</i>.`

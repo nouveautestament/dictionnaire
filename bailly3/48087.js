@@ -1,0 +1,1 @@
+lar[48087]=`<b>οῦ</b> <i>ou</i> <b>Θύσσος, ου (ἡ)</b> Thyssos (<i>p.-ê</i>. près de Dhokhiori <i>ou</i> Zografu) <i>v. de Macédoine,</i> HDT. <i>7, 22</i> ; THC. <i>4, 109 ; 5, 35</i>.`

@@ -1,0 +1,1 @@
+lar[19237]=`<b>βασαν·αστραγάλα (ἡ)</b> <font color="purple">[ᾰᾰνᾰγᾰλ]</font> qui torture les articulations, <i>ép. de la</i> goutte, LUC. <i>Trag. 190</i>.<p><b>Étym</b>. βάσανος, ἀστράγαλος.`

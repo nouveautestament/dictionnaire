@@ -1,0 +1,1 @@
+lar[16391]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> séjour dans une ville, HIÉROCL. (STOB. <i>Fl. 85, 21).</i><p><b>Étym</b>. ἀστυπόλος.`

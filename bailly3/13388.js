@@ -1,0 +1,1 @@
+lar[13388]=`<b>ἀπο·σπουδάζω :<br>      1</b> dissuader fortement de, <i>gén</i>. PHILSTR. <i>V. Ap. 1, 5</i>.<br><b>      2 <i>intr.</i></b> se relâcher de, devenir indifférent à, <i>gén</i>. PHILSTR. <i>V. Ap. 4, 2</i>.`

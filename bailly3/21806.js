@@ -1,0 +1,1 @@
+lar[21806]=`<b>Γερόντων λιμήν (ὁ)</b> le port des Vieillards, <i>à Chios,</i> EL. <i>N.A. 12, 30</i>.<p><b>Étym</b>. γέρων.`

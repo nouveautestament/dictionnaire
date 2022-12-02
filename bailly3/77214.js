@@ -1,0 +1,1 @@
+lar[77214]=`<b>ου (ὁ)</b> qui réside près des montagnes, A. PL. <i>235</i>.<p><b>Étym</b>. παρώρεια.`

@@ -1,0 +1,1 @@
+lar[29814]=`<b>ἐγ·κωλύω</b>, entraver, <i>d’où</i> fixer <i>ou</i> caler (une pièce d’un mécanisme) dans (un trou) HÉRON <i>Aut. 265</i>.<p><b>Étym</b>. ἐν, κ.`

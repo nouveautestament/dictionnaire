@@ -1,0 +1,1 @@
+lar[109634]=`<b>ψευδ·απάτης, ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> qui trompe par des mensonges, imposteur, SIB. <i>2, 144</i>.<p><b>Étym</b>. ψ. ἀπατάω.`

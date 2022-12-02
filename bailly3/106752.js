@@ -1,0 +1,1 @@
+lar[106752]=`<b>ου (ὁ)</b> = <i>lat</i>. Fundanus, <i>n. d’h. rom</i>. PLUT. <i>De coh. ira 1</i>.`

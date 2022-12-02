@@ -1,0 +1,1 @@
+lar[94541]=`<b>συν·αγνεύω</b>, être en même temps chaste, PORPH. <i>Abst. 4, 6</i>.`

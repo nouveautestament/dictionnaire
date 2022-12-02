@@ -1,0 +1,1 @@
+lar[22509]=`<b>γοργ·ωπός, ός, όν</b>, au regard terrifiant, ESCHL. <i>Pr. 356</i> ; EUR. <i>H.f. 868,</i> ION <i>210</i>.<p><b>Étym</b>. γοργός, ὤψ.`

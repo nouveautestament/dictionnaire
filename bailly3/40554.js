@@ -1,0 +1,1 @@
+lar[40554]=`<b>ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. hercynien ; Ἑ. δρυμοί, DS. <i>5, 21</i> ; STR. <i>207</i> ; PLUT. <i>Mar. 11,</i> forêt Hercynienne, <i>en Germanie</i> ; σκόπελος Ἑ. A.RH. <i>4, 640,</i> chaîne des monts Hercyniens, <i>en Germanie</i>.`

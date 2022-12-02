@@ -1,0 +1,1 @@
+lar[51344]=`<b>καλυκ·ῶπις, ιδος</b> <font color="purple">[ᾰῠῐδ]</font> <i>adj. f</i>. au teint frais comme un bouton de rose, HH. <i>Cer. 8, 420, etc.</i> ; ORPH. <i>H. 78, 2</i>.<p><b>Étym</b>. κάλυξ, ὤψ.`

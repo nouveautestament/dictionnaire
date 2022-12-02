@@ -1,0 +1,1 @@
+lar[68134]=`<b>νεό·ζυξ, υγος (ὁ, ἡ)</b> <font color="purple">[ῠγ]</font><br><b>      1</b> nouvellement attelé, EUR. <i>fr. 818</i>.<br><b>      2</b> nouvellement marié, A.RH. <i>4, 1191</i>.<p><b>Étym</b>. <i>v</i>. νεοζυγής.`

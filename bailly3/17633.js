@@ -1,0 +1,1 @@
+lar[17633]=`<b>αὐτό·περας (τὸ)</b> le terme en soi, PROCL.`

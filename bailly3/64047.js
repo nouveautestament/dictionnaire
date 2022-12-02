@@ -1,0 +1,1 @@
+lar[64047]=`<b>μελι·πτέρωτος, ος, ον</b>, aux ailes de miel, PRATIN. (ATH. <i>633a</i>).<p><b>Étym</b>. μ. πτερόν.`

@@ -1,0 +1,1 @@
+lar[92960]=`<b>στρογγυλο·πρόσωπος, ος, ον</b> <font color="purple">[ῠ]</font> qui a le visage arrondi, ARSTT. <i>H.A. 1, 6, 4 ; Physiogn. 3, 5</i>.<p><b>Étym</b>. στρ. πρόσωπον.`

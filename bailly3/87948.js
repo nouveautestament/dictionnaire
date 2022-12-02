@@ -1,0 +1,1 @@
+lar[87948]=`<b>πυρο·ρραγής, ής, ές</b> <font color="purple">[ῠᾱ]</font> qui se fend au feu, fêlé, AR. <i>Ach. 933</i> ; CRAT. (<i>Com. fr. 2, 167).</i><p><b>Étym</b>. πῦρ, ῥήγνυμι.`

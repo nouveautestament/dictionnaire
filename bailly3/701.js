@@ -1,0 +1,1 @@
+lar[701]=`<b>ἀγλαό·καρπος, ος, ον :<br>      1</b> aux fruits splendides, <i>en parl. des arbres,</i> OD. <i>7, 115, etc.</i> ; OPP. <i>H. 4, 272</i>.<br><b>      2</b> qui fait naître <i>ou</i> mûrir de beaux fruits, HH. <i>Cer. 4, 23 ; cf</i>. ἀγλαόκολπος.<p><b>Étym</b>. ἀ. καρπός.`

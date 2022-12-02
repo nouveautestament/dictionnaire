@@ -1,0 +1,1 @@
+lar[46530]=`<b>ή, όν</b>, voulu, souhaité, SPT. <i>1Reg. 15, 22 ; Malach. 3, 12</i> ; ARR. <i>Epict. 4, 1, 101</i>.<p><b>Étym</b>. <i>vb. de</i> θέλω.`

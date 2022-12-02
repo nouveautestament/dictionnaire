@@ -1,0 +1,1 @@
+lar[21661]=`<i>(seul. prés.) c</i>. γενειάζω, XÉN. <i>Cyr. 4, 6, 5</i> ; PLAT. <i>Conv. 181d</i>.`

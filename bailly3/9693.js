@@ -1,0 +1,1 @@
+lar[9693]=`<b>ἀντ·έρομαι</b> <font color="darkgreen">(<i>ao.2</i> ἀντηρόμην, XÉN. <i>Cyr. 2, 2, 22 ; ion</i>. ἀντειρόμην, HDT. <i>1, 129 ; 3, 23</i>)</font> interroger à son tour.`

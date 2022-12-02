@@ -1,0 +1,1 @@
+lar[37777]=`<b>ἐπι·θάνατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> près de mourir, DÉM. <i>1225, 1</i>.<br><b>      2</b> <i>act</i>. qui fait mourir, mortel (mal, poison) HPC. <i>Mochl. 861</i> ; TH. <i>C.P. 6, 4, 6</i>.<p><b>Étym</b>. ἐπί, θάνατος.`

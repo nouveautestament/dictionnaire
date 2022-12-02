@@ -1,0 +1,1 @@
+lar[64260]=`<i>adv</i>., isolément, solitairement, CORN. <i>N.D. 16</i>.<p><b>Étym</b>. μονόω.`

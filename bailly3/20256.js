@@ -1,0 +1,1 @@
+lar[20256]=`<b>ῆς (ἡ)</b> <i>c</i>. βόσις, ESCHL. <i>Eum. 266</i> ; ARSTT. <i>H.A. 9, 40, 12 ; au plur</i>. ESCHL. <i>fr. 41</i> ; EUR. <i>Hel. 1331</i>.`

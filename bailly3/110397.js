@@ -1,0 +1,1 @@
+lar[110397]=`<b>ας (ἡ)</b> = <i>lat</i>. Horatia, <i>n. de f. rom</i>. PLUT. <i>Parall. min. 16</i>.`

@@ -1,0 +1,1 @@
+lar[58870]=`<b>κυο·τροφία, ας (ἡ)</b> nourriture du fœtus, HPC. <i>339, 18 au plur</i>.<p><b>Étym</b>. κύος, -τροφος <i>de</i> τρέφω.`

@@ -1,0 +1,1 @@
+lar[16026]=`<b>ή, όν</b>, qui fait bon accueil, affectueux, cordial, POL. <i>28, 3</i>.<p><b>Étym</b>. ἀσπάζομαι.`

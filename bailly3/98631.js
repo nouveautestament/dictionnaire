@@ -1,0 +1,1 @@
+lar[98631]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. τετράπηχυς APD. <i>2, 4, 9</i>.`

@@ -1,0 +1,1 @@
+lar[94877]=`<b>συν·απόκειμαι</b>, <i>anc. att</i>. <b>ξυν·απόκειμαι</b>, être déposé <i>ou</i> mis en réserve avec, SOPH. <i>O.C. 1752 dout</i>.`

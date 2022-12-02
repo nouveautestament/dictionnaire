@@ -1,0 +1,1 @@
+lar[71653]=`<b>ὁμο·πολέω-ῶ</b>, diriger à la fois, PLAT. <i>Crat. 405d</i>.<p><b>Étym</b>. ὁμ. πολέω.`

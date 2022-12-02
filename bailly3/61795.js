@@ -1,0 +1,1 @@
+lar[61795]=`<b>ης (ἡ)</b> <font color="purple">[ῡ]</font> Lydè (<i>propr</i>. la Lydienne) <i>f</i>. HERMÉS. (ATH. <i>598a</i>).<p>➳ <i>Dor</i>. Λύδα, MOSCH. <i>6, 2, 4</i>.`

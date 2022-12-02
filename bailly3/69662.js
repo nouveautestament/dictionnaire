@@ -1,0 +1,1 @@
+lar[69662]=`<b>ξυλο·βάλσαμον, ου (τὸ)</b> <font color="purple">[ῠσᾰ]</font> bois de l’arbre qui produit le baume, DIOSC. <i>1, 18</i> ; STR. <i>763</i>.<p><b>Étym</b>. ξ. βάλσαμον.`

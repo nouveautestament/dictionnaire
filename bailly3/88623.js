@@ -1,0 +1,1 @@
+lar[88623]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> Rhipè, <i>v. d’Arcadie,</i> IL. <i>2, 606</i>.`

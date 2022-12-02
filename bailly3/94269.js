@@ -1,0 +1,1 @@
+lar[94269]=`<i>adv</i>., au moyen d’un copulatif, DYSC. <i>Synt. 1, p. 9, 22</i>.`

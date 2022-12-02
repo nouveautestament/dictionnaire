@@ -1,0 +1,1 @@
+lar[10120]=`<b>ἀντι·νοέω-οῶ</b>, être d’un avis opposé, HPC. <i>184f</i> (<i>var</i>. ἀντίνοος).`

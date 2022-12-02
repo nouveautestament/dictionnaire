@@ -1,0 +1,1 @@
+lar[95025]=`<b>συν·αυχμέω-ῶ</b>, être desséché avec <i>ou</i> en même temps, LIB. <i>4, 1170</i>.`

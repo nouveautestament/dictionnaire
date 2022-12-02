@@ -1,0 +1,1 @@
+lar[91114]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Skopas, <i>statuaire,</i> LUC. <i>Lex. 12</i>.<p><b>Étym</b>. Σκόπας.`

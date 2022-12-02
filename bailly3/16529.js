@@ -1,0 +1,1 @@
+lar[16529]=`<b>ας (ἡ) :<br>      1</b> désordre (d’une troupe) APP.<br><b>      2</b> défaut de coordination, mauvaise construction, DYSC. <i>Pron. 16a</i>.<p><b>Étym</b>. ἀσύντακτος.`

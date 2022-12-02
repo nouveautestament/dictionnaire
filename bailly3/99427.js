@@ -1,0 +1,1 @@
+lar[99427]=`<b>τλη·παθής, ής, ές</b> <font color="purple">[ᾰ]</font> patient dans l’adversité, <i>d’où</i> malheureux, ZOS. <i>4, 50</i> ; SCH.-ESCHL. <i>Pr. 231, Pers. 574, etc</i>.<p><b>Étym</b>. *τλάω, πάθος.`

@@ -1,0 +1,1 @@
+lar[102062]=`<b>ὕπ·αφρος, ος, ον</b> <font color="purple">[ῠᾰ]</font> <i>en parl. des yeux,</i> humide, mouillé de larmes (<i>litt</i>. d’écume) EUR. <i>Rhes. 711</i>.<p><b>Étym</b>. ὑ. ἀφρός.`

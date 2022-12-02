@@ -1,0 +1,1 @@
+lar[39909]=`<b>ἐπ·οφθαλμιάω-ῶ :<br>      1</b> jeter un œil d’envie, un regard de convoitise : τινι, PLUT. <i>Cæs. 2</i> ; πρός τι, PLUT. <i>Dem. 25,</i> sur qqe ch.<br><b>      2</b> adresser un regard amical : τινι, EL. <i>N.A. 3, 44,</i> à qqn.<p><b>Étym</b>. ἐπί, ὀφθαλμός.`

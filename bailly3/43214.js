@@ -1,0 +1,1 @@
+lar[43214]=`<b>εὔ·ροπος, ος, ον</b>, qui penche <i>ou</i> glisse facilement : εὔ. ἅμμα, ANTH. <i>9, 543,</i> nœud facile à serrer.<p><b>Étym</b>. εὖ, ῥοπή.`

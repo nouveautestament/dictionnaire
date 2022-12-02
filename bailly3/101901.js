@@ -1,0 +1,1 @@
+lar[101901]=`<b>ὑπ·αισχύνομαι</b> (<i>seul. prés</i>.) <font color="purple">[ῠῡ]</font> éprouver un peu de honte <i>ou</i> de confusion : τι, PLAT. <i>Lach. 179c</i>, de qqe ch.`

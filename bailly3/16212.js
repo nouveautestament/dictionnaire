@@ -1,0 +1,1 @@
+lar[16212]=`<b>ἀ·στέφανος, ος, ον</b> <font color="purple">[φᾰ]</font> sans couronne, <i>càd</i>. sans succès, EUR. <i>Hipp. 1137 ; Andr. 1020</i>.<p><b>Étym</b>. ἀ. στέφανος.`

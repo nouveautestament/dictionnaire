@@ -1,0 +1,1 @@
+lar[50481]=`<b>καθ·υπάρχω</b> <font color="purple">[κᾰ]</font> <i>c</i>. ὑπάρχω, PLUT. <i>Cic. 23</i>.`

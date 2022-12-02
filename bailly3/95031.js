@@ -1,0 +1,1 @@
+lar[95031]=`<i>ion. et anc. att</i>. <b>ξυναφής, ής, ές</b> <font color="purple">[ᾰ]</font> uni à, joint à, attenant à, ARSTT. <i>P.A. 3, 4, 26, etc.</i> ; DH. <i>9, 24 ; Rhet. 7, 1, etc.</i> ; τὰ ξυναφέα, ARÉT. <i>Caus. m. diut. 1, 7,</i> les parties adhérentes.<p><b>Étym</b>. συνάπτω.`

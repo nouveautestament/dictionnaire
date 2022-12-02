@@ -1,0 +1,1 @@
+lar[5511]=`<i>adv</i>., sans se retourner, XÉN. <i>Conv. 4, 50</i> ; PLAT. <i>Rsp. 620e, Leg. 854c</i>.<p><b>Étym</b>. ἀ, μετάστρεπτος.`

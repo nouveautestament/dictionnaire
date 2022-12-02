@@ -1,0 +1,1 @@
+lar[85150]=`<b>προσ·ανακοινόομαι-οῦμαι</b>, communiquer en outre : τί τινι, DS. <i>1, 16,</i> qqe ch. à qqn.`

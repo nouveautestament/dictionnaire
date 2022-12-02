@@ -1,0 +1,1 @@
+lar[71182]=`<b>ὁλο·λαμπής, ής, ές</b>, qui brille dans toutes ses parties, ARSTT. <i>Mund. 6, 30</i>.<p><b>Étym</b>. ὅλ. λάμπω.`

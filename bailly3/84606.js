@@ -1,0 +1,1 @@
+lar[84606]=`<b>ή, όν</b> <font color="purple">[κρῐ]</font><br><b>      1</b> qui porte à préférer, qui est une cause de préférence, PHILSTR. <i>389</i>.<br><b>      2</b> <i>subst</i>. τὸ πρ. PLUT. <i>M. 1141a</i>, sorte de vers (<i>sel. Ritschl</i> προκρητικόν, vers commençant par un crétique).<p><b>Étym</b>. προκρίνω, <i>ou</i> πρό, κρητικός.`

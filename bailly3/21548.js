@@ -1,0 +1,1 @@
+lar[21548]=`<b>ατος (τὸ)</b> voisinage d’un lieu, lieu voisin, PLAT. <i>Leg. 705a ;</i> EL. <i>Ep. rust. 1 ; etc</i>.<p><b>Étym</b>. γειτονέω.`

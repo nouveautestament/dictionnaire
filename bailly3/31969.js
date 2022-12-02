@@ -1,0 +1,1 @@
+lar[31969]=`<b>ατος (τὸ)</b> luxation, déboîtement, HPC. <i>Art. 796</i>.<p><b>Étym</b>. ἐκπίπτω.`

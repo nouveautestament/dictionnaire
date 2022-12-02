@@ -1,0 +1,1 @@
+lar[99823]=`<i>crase att. et poét. p</i>. τὸ ὄψον, AR. <i>Eq. 1032</i>.`

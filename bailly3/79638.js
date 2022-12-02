@@ -1,0 +1,1 @@
+lar[79638]=`<b>ής, ές</b> <font color="purple">[ῠ]</font> rôti <i>ou</i> brûlé, GAL. <i>7, 686</i>.<p><b>Étym</b>. περιφρύγω.`

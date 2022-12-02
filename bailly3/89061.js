@@ -1,0 +1,1 @@
+lar[89061]=`<b>ων (οἱ)</b> les Sabes, <i>pple de Phrygie,</i> PLUT. <i>M. 671e</i>.`

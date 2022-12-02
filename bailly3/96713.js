@@ -1,0 +1,1 @@
+lar[96713]=`<b>ου (ὁ)</b> <font color="purple">[μᾰ]</font> commandant d’un corps de 1 024 hommes (<i>v</i>. σύστρεμμα) ARR. <i>Tact. 16, 3</i>.<p><b>Étym</b>. σύστρεμμα, ἄρχω.`

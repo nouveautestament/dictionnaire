@@ -1,0 +1,1 @@
+lar[96496]=`<b>σύρ·γαστρος, ου (ὁ) :<br>      1</b> qui traîne son ventre à terre (ver, reptile, serpent) ANTH. <i>15, 26</i>.<br><b>      2</b> qui a le ventre tiré, qui meurt de faim, homme de peine, ALCIPHR. <i>3, 19, 63</i>.<p><b>Étym</b>. σύρω, γαστήρ.`

@@ -1,0 +1,1 @@
+lar[86085]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> adorateur, NT. <i>Joh. 4, 23</i>.<p><b>Étym</b>. προσκυνέω.`

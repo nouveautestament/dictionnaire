@@ -1,0 +1,1 @@
+lar[64316]=`<b>μενε·πτόλεμος, ος, ον</b>, qui attend le combat de pied ferme, vaillant, belliqueux, IL. <i>2, 749 ; 13, 693</i>.<p><b>Étym</b>. μ. πτόλεμος.`

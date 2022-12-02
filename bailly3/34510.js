@@ -1,0 +1,1 @@
+lar[34510]=`<b>ἐν·θεματίζω</b> <font color="purple">[ᾰ]</font> greffer, GEOP. <i>10, 23, 4</i>.<p><b>Étym</b>. ἔνθεμα.`

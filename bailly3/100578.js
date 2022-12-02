@@ -1,0 +1,1 @@
+lar[100578]=`<font color="purple">[ῐ]</font> <i>adv</i>., troisièmement, en troisième lieu, PLAT. <i>Tim. 56b</i>.<p><b>Étym</b>. τρίτος.`

@@ -1,0 +1,1 @@
+lar[42329]=`<b>εὐθυωρέω-ῶ</b>, suivre le droit chemin, ARSTT. <i>Probl. 11, 58</i>.<p><b>Étym</b>. εὐθύωρος.`

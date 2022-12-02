@@ -1,0 +1,1 @@
+lar[97233]=`<b>οῦ (ὁ)</b> Sôrkanos, <i>h</i>. PLUT. <i>philos. c. princ. 1</i>.`

@@ -1,0 +1,1 @@
+lar[64776]=`<b>μετα·κοσμέω-ῶ</b>, arranger <i>ou</i> orner autrement, HPC. <i>Fract. 751</i> ; LUC. <i>Pr. 12, Im. 5, etc. ; joint à</i> μεταπλάττω, LUC. <i>H. conscr. 34</i>.`

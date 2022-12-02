@@ -1,0 +1,1 @@
+lar[65763]=`<b>μικρό·φυλλος, ος, ον</b>, qui a de petites feuilles, DIOSC. <i>2, 214</i>.<p><b>Étym</b>. μ. φύλλον.`

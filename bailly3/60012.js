@@ -1,0 +1,1 @@
+lar[60012]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰχᾰ]</font> légume, PROCL. <i>Ptol. 2, 8, p. 118</i>.<p><b>Étym</b>. λαχανεύω.`

@@ -1,0 +1,1 @@
+lar[50572]=`<b>καινο·τόμος, ος, ον</b>, qui innove, novateur, ARSTT. <i>Pol. 2, 6, 6</i>.<p><b>Étym</b>. κ. τέμνω.`

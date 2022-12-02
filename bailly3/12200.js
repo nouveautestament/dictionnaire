@@ -1,0 +1,1 @@
+lar[12200]=`<b>ἀπο·γλάφομαι</b> <font color="darkgreen">(<i>ao</i>. ἀπεγλαψάμην)</font> raser, mettre à nu, COM.<p><b>Étym</b>. <i>Com. an. fr. 113</i>.`

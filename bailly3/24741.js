@@ -1,0 +1,1 @@
+lar[24741]=`<b>εως (ἡ) :<br>      1</b> cautérisation profonde, HPC. <i>Art. 806</i>.<br><b>      2</b> chaleur ardente, PLUT. <i>M. 892e</i>.`

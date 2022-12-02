@@ -1,0 +1,1 @@
+lar[19979]=`<b>ης, ες</b> <font color="purple">[ῐ]</font> durci, sec, HPC. (HSCH.) ; EUPH. <i>fr. 26</i>.`

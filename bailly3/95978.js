@@ -1,0 +1,1 @@
+lar[95978]=`<b>σύν·θρονος, ος, ον</b>, assis ensemble sur le trône, qui règne avec, <i>dat</i>. DS. <i>16, 92</i> ; ANTH. <i>1, 24</i> ; ORACL. (LUC. <i>Per. 9) ; abs</i>. ANTH. <i>9, 445</i>.<p><b>Étym</b>. σύν, θρόνος.`

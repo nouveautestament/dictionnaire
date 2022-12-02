@@ -1,0 +1,1 @@
+lar[47033]=`<b>άδος</b>, <i>adj. f</i>. de Thespies : ἡ Θ. ANTH. <i>App. 94,</i> contrée de Thespies.<p><b>Étym</b>. Θεσπιαί.`

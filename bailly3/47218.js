@@ -1,0 +1,1 @@
+lar[47218]=`<b>θηλύ·ψυχος, ος, ον</b> <font color="purple">[ψῠ]</font> à l’âme efféminée, PTOL. <i>Tetr. p. 162, 23</i>.<p><b>Étym</b>. θ. ψυχή.`

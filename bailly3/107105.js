@@ -1,0 +1,1 @@
+lar[107105]=`<b>ακος (ὁ)</b> Phylax, <i>litt</i>. « gardien », <i>n. de chien,</i> XÉN. <i>Cyn. 7, 5</i>.<p><b>Étym</b>. <i>v</i>. φύλαξ.`

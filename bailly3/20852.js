@@ -1,0 +1,1 @@
+lar[20852]=`<b>βροντησι·κέραυνος, ος, ον</b> <font color="purple">[ῐ]</font> chargé de foudre et de tonnerre (nuage), AR. <i>Nub. 265</i>.<p><b>Étym</b>. βροντάω, κεραυνός.`

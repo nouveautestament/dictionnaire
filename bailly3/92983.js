@@ -1,0 +1,1 @@
+lar[92983]=`nettoyer avec de la saponaire, DIOSC. <i>2, 84</i>.<p><b>Étym</b>. στρούθιον.`

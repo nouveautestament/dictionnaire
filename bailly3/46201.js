@@ -1,0 +1,1 @@
+lar[46201]=`<font color="purple">[ᾰλ]</font> <i>c</i>. θαλιάζω, PLUT. <i>M. 357e</i>.`

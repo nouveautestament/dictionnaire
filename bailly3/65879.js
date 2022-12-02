@@ -1,0 +1,1 @@
+lar[65879]=`<b>ων (οἱ)</b> les habitants de Minturnes, PLUT. <i>Mar. 39</i>.<p><b>Étym</b>. Μιντοῦρναι.`

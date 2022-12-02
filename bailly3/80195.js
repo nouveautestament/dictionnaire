@@ -1,0 +1,1 @@
+lar[80195]=`<font color="purple">[πῑ]</font> <i>adv</i>., de Piérie, <i>en Macédoine,</i> A.RH. <i>1, 31, etc</i>.<p><b>Étym</b>. Πιερία, -θεν.`

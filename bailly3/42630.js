@@ -1,0 +1,1 @@
+lar[42630]=`<b>εὐ·μάλακτος, ος, ον</b> <font color="purple">[μᾰ]</font> facile à amollir, DIOSC. <i>1, 80</i>.<p><b>Étym</b>. εὖ, μαλάσσω.`

@@ -1,0 +1,1 @@
+lar[76458]=`<b>ου (ὁ)</b> <font color="purple">[χᾰ]</font> falsificateur, BAS. <i>1, 29 Migne</i>.<p><b>Étym</b>. παραχαράσσω.`

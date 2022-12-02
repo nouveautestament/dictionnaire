@@ -1,0 +1,1 @@
+lar[16260]=`<b>ος, ον</b> <font color="purple">[ᾰγᾰ]</font> qui descend jusqu’aux talons, AQU.<p><b>Étym</b>. ἀστράγαλος.`

@@ -1,0 +1,1 @@
+lar[87422]=`<b>ιος (ἡ)</b> <i>poét. c</i>. πόλις, IL. <i>22, 118</i> ; ESCHL. <i>Sept. 6, 114, etc.</i> ; EUR. <i>Tr. 556, etc</i>.`

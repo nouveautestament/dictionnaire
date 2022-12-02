@@ -1,0 +1,1 @@
+lar[93412]=`<b>συγ·κατορθόω-ῶ</b>, bien diriger avec, ISOCR. <i>112e ;</i> STR. <i>617</i> ; DH. <i>6, 86</i>.`

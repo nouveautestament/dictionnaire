@@ -1,0 +1,1 @@
+lar[81613]=`<b>πολιτο·γραφία, ας (ἡ)</b> <font color="purple">[ῑᾰφ]</font> inscription parmi les citoyens, DS. <i>11, 86</i>.<p><b>Étym</b>. <i>v</i>. πολιτογραφέω.`

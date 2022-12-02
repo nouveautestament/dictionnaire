@@ -1,0 +1,1 @@
+lar[47627]=`<b>ίδος (ἡ)</b> petit oiseau qui vit sur les buissons d’épines, ARSTT. <i>H.A. 8, 3, 6</i>.`

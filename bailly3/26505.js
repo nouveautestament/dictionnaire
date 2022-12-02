@@ -1,0 +1,1 @@
+lar[26505]=`<b>δι·κάρδιος, ος, ον</b> <font color="purple">[ῐκ]</font> qui a deux cœurs, EL. <i>N.A. 11, 40</i> ; τὸ δικάρδιον, sorte de laitue à deux cœurs, GEOP. <i>12, 1, 3</i>.<p><b>Étym</b>. δίς, καρδία.`

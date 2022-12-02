@@ -1,0 +1,1 @@
+lar[28325]=`<b>δυσ·έγχωστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à boucher <i>ou</i> à obstruer par un terrassement, STR. <i>740 (vulg.,</i> δυσεύχωστον <i>conj</i>.).<p><b>Étym</b>. δ. ἐγχώννυμι.`

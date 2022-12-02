@@ -1,0 +1,1 @@
+lar[45545]=`<b>ἡμι·ρρόπως</b>, <i>adv</i>., en penchant à moitié, <i>càd</i>. doucement, modérément, HPC. <i>461, 495, 1002</i>.<p><b>Étym</b>. ἡμι-, ῥέπω.`

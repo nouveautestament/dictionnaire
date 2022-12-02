@@ -1,0 +1,1 @@
+lar[71616]=`<b>ου (ὁ)</b> Homolôïkhos, <i>h</i>. PLUT. <i>Syll. 17, 19</i>.`

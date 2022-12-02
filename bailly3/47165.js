@@ -1,0 +1,1 @@
+lar[47165]=`<b>όνος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. qui allaite, SOPHR. (ATH. <i>288a</i>) ; <i>subst</i>. ἡ θ. nourrice, LYC. <i>31</i>.<p><b>Étym</b>. θηλή.`

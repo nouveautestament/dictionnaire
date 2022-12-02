@@ -1,0 +1,1 @@
+lar[63958]=`<b>μελεό·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, dont l’esprit est soucieux, malheureux, EUR. <i>I.T. 854</i>.<p><b>Étym</b>. μέλεος, φρήν.`

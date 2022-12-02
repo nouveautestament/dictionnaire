@@ -1,0 +1,1 @@
+lar[88062]=`<b>ου (ἡ)</b> <font color="purple">[ῠῑ]</font> sorte de poisson, NUMÉN. (ATH. <i>327f</i>).`

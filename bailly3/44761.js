@@ -1,0 +1,1 @@
+lar[44761]=`<b>ζωο·πλάστης, ου (ὁ) :<br>      1</b> artiste qui moule <i>ou</i> sculpte des figures d’êtres animés, PHIL. <i>2, 211</i>.<br><b>      2</b> le créateur, PHIL. <i>1, 184</i>.<p><b>Étym</b>. ζωός, πλάσσω.`

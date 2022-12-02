@@ -1,0 +1,1 @@
+lar[42472]=`<b>Εὐ·κόλυμβος, ου (ὁ)</b> Eukolymbos (<i>litt</i>. l’habile plongeur), ALCIPHR. <i>1, 8</i>.<p><b>Étym</b>. εὖ, κολυμβάω.`

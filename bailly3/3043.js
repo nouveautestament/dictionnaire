@@ -1,0 +1,1 @@
+lar[3043]=`<i>adv</i>., sans pouvoir se contenir, PHIL. <i>2, 48</i>.`

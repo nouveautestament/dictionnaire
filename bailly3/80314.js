@@ -1,0 +1,1 @@
+lar[80314]=`<b>ης, ες</b>, <i>au cp</i>. -έστερος <font color="purple">[ῑ]</font> qui ressemble à du feutre, POLÉM. <i>Physiogn</i>.<p><b>Étym</b>. πῖλος, -ωδης.`

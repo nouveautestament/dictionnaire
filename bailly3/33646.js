@@ -1,0 +1,1 @@
+lar[33646]=`<b>ἐμ·πυρόω-ῶ</b> <font color="purple">[ῠ]</font> embraser, DIOSC. <i>5, 132</i>.<p><b>Étym</b>. ἐν, π.`

@@ -1,0 +1,1 @@
+lar[88972]=`<b>ης, ες</b>, qui coule en abondance, abondant, HPC. <i>Art. 815</i> ; PLAT. <i>Tim. 86 c et d</i> ; GAL. <i>19, 552, 17</i>.<p><b>Étym</b>. ῥυ- <i>de</i> ῥέω, -ωδης.`

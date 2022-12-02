@@ -1,0 +1,1 @@
+lar[87775]=`<b>πυργ·ήρης, ης, ες</b>, muni de tours, de fortifications, ORACL. (PAUS. <i>10, 18, 2).</i><p><b>Étym</b>. πύργος, *ἄρω.`

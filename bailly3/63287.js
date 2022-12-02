@@ -1,0 +1,1 @@
+lar[63287]=`<b>μεγα·θαρσής, ής, ές</b> <font color="purple">[γᾰ]</font> d’un grand courage, HÉS. <i>Sc. 385</i>.<p><b>Étym</b>. μ. θάρσος.`

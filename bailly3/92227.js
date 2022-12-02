@@ -1,0 +1,1 @@
+lar[92227]=`<b>σταφυλοτομέω-ῶ</b> <font color="purple">[ᾰῠ]</font> couper les tumeurs sur la luette, ARTÉM. <i>3, 46</i>.<p><b>Étym</b>. σταφυλοτόμος.`

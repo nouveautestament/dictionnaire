@@ -1,0 +1,1 @@
+lar[83745]=`<b>προ·αφρίζω</b>, jeter de l’écume avant, DIOSC. <i>Par. 2, 31</i>.`

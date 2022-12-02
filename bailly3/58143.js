@@ -1,0 +1,1 @@
+lar[58143]=`<i>adv. et prép</i>. secrètement, en cachette, OD. <i>11, 455, etc.</i> ; HPC. <i>610, 22</i> ; PLAT. <i>Leg. 766b, etc.</i> ; κρ. τινός, PD. <i>P. 3, 25,</i> à l’insu de qqn.<p>➳ <i>Dor</i>. κρύβδαν, PD. <i>l. c</i>.<p><b>Étym</b>. κρύπτω.`

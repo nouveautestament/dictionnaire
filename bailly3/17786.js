@@ -1,0 +1,1 @@
+lar[17786]=`<b>αὐτο·χορήγητος, ος, ον</b> offert spontanément comme une contribution de chorège, PLAT. <i>Ax. 371d</i>.<p><b>Étym</b>. αὐ. χορηγέω.`

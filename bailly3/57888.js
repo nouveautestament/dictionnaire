@@ -1,0 +1,1 @@
+lar[57888]=`<b>ης (ἡ)</b> <font color="purple">[ῑ]</font> sorte de bouillie à l’orge, HOM. <i>Ep. 15, 7</i>.<p><b>Étym</b>. κριθή.`

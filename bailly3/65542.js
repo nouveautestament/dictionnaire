@@ -1,0 +1,1 @@
+lar[65542]=`<b>ου (ὁ)</b> Mètrobios, <i>h</i>. PLAT. <i>Euthyd. 272c, Menex. 235e</i>.`

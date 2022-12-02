@@ -1,0 +1,1 @@
+lar[31927]=`<b>εως (ἡ)</b> perception d’impôts, <i>d’où</i> exaction, DS. <i>1, 79</i>.<p><b>Étym</b>. ἐκπράσσω.`

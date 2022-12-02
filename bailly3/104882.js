@@ -1,0 +1,1 @@
+lar[104882]=`<b>α, ον</b> <font color="purple">[ᾰ]</font> de Pharos, <i>près d’Alexandrie,</i> NONN. <i>D. 43, 77</i> ; ἡ Φαρίη (<i>s.-e</i>. θαλάσση) <i>ion</i>. ANTH. <i>1, 35, etc</i>. la mer de Pharos.<p><b>Étym</b>. Φάρος.`

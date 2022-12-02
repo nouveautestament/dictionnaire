@@ -1,0 +1,1 @@
+lar[4555]=`<b>ἁλί·ρρυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font><br><b>      1</b> baigné par la mer, ANTH. <i>12, 55</i>.<br><b>      2</b> qui baigne de ses flots, ESCHL. <i>Suppl. 868</i>.<p><b>Étym</b>. ἅ. ῥέω.`

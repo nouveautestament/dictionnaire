@@ -1,0 +1,1 @@
+lar[82739]=`<b>(οἱ)</b> les dieux, <i>chez les Dryopes,</i> PLUT. <i>M. 22c ; cf</i>. EM. <i>823, 30</i>.<p>➳ <i>Seul. nom</i>. LYC. <i>943, et dat</i>. πόποις, EUPH. <i>fr. 91 (mot imaginé par les écriv. réc. pour expliquer l’interj</i>. πόποι <i>comme un vocatif, supposition sans fondement).</i><p><b>Étym</b>. <i>v</i>. πόποι.`

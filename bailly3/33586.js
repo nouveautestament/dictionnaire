@@ -1,0 +1,1 @@
+lar[33586]=`<i>adv</i>., activement, PLUT. <i>Sert. 4</i>.`

@@ -1,0 +1,1 @@
+lar[66504]=`<font color="purple">[ῐ]</font> <i>adv</i>., avec stabilité, avec fixité, ARSTT. <i>H.A. 8, 10, 1</i>.<p><b>Étym</b>. μόνιμος.`

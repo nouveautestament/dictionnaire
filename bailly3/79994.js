@@ -1,0 +1,1 @@
+lar[79994]=`<b>πηγαν·έλαιον, ου (τὸ)</b> <font color="purple">[ᾰ]</font> huile <i>ou</i> essence de rue, A. TR. <i>1, 95</i>.<p><b>Étym</b>. πήγανον, ἔλαιον.`

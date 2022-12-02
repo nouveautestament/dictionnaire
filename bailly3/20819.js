@@ -1,0 +1,1 @@
+lar[20819]=`<b>έως</b>, <i>épq</i>. <b>ῆος (ὁ)</b> <font color="purple">[ῑ]</font> Brisée, <i>roi des Lélèges, père de Briséis,</i> IL. <i>1, 392, etc.</i> ; LUC. <i>etc</i>.`

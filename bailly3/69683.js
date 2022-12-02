@@ -1,0 +1,1 @@
+lar[69683]=`<b>ξυλο·σχίστης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui fend du bois, PROCL. <i>Ptol. 3, p. 250</i>.<p><b>Étym</b>. ξ. σχίζω.`

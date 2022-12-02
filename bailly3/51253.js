@@ -1,0 +1,1 @@
+lar[51253]=`<b>καλλί·φυτος, ος, ον</b> <font color="purple">[ῐῠ]</font> aux belles plantes, NONN. <i>D. 47, 38</i>.<p><b>Étym</b>. κ. φύω.`

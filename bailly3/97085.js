@@ -1,0 +1,1 @@
+lar[97085]=`<b>οῦ (ὁ) :<br>      1</b> lot de terre mesuré au cordeau, lot de terre, SPT. <i>Jos. 17, 5</i>.<br><b>      2</b> action de mesurer la terre au cordeau, <i>d’où</i> partage des terres, PLUT. <i>Luc. 20, ou sel. d’autres,</i> supplice de l’estrapade.<p><b>Étym</b>. σχοινίζω.`

@@ -1,0 +1,1 @@
+lar[8812]=`<b>ης (ἡ) :<br>      1</b> floraison, pleine fleur, PLAT. <i>Phædr. 230b ; d’où</i> fleur, NIC. <i>Th. 625</i>.<br><b>      2</b> feuille, EL. <i>N.A. 12, 4</i>.<p><b>Étym</b>. ἄνθος.`

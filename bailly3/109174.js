@@ -1,0 +1,1 @@
+lar[109174]=`<b>χρυσό·ζυγος, ος, ον</b> <font color="purple">[ῡῠγ]</font> au joug d’or, HH. <i>31, 15</i> ; XÉN. <i>Cyr. 8, 3, 12</i>.<p><b>Étym</b>. χρ. ζυγόν.`

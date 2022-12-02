@@ -1,0 +1,1 @@
+lar[14959]=`<b>ος, ον</b>, qu’on peut nier, SOPH. <i>Ph. 74</i>.<p><b>Étym</b>. ἀρνέομαι.`

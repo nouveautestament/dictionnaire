@@ -1,0 +1,1 @@
+lar[29097]=`<b>δωδεκά·πηχυς, υς, υ</b> <font color="purple">[ᾰ]</font> de douze coudées, ANAXANDR. (ATH. <i>131c</i>) ; HÉCAT. (EUS. <i>P.E. 408b</i>) ; PHILSTR. <i>152, etc</i>.<p><b>Étym</b>. δ. πῆχυς.`

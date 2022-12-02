@@ -1,0 +1,1 @@
+lar[4224]=`<b>ας (ἡ)</b> <font color="purple">[ᾰ]</font> <i>surn. d’Aphrodite,</i> LYC. <i>868</i>.`

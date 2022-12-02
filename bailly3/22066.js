@@ -1,0 +1,1 @@
+lar[22066]=`<b>γλαυκό·χρως</b>, <i>acc</i>. <b>-χροα (ὁ, ἡ)</b> de couleur verdâtre (olive), PD. <i>O. 3, 13</i>.<p><b>Étym</b>. γλαυκός, χρόα.`

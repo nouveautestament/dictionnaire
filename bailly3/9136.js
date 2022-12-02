@@ -1,0 +1,1 @@
+lar[9136]=`<b>ας (ἡ)</b> ignorance de l’histoire, CIC. <i>Att. 1, 7</i>.<p><b>Étym</b>. ἀνιστόρητος.`

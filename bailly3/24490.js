@@ -1,0 +1,1 @@
+lar[24490]=`<b>ῆς (ἡ)</b> <font color="purple">[ῠ]</font> incision, ORIB. <i>124 et 125 Mai</i>.<p><b>Étym</b>. διαγλύφω.`

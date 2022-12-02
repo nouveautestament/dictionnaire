@@ -1,0 +1,1 @@
+lar[38934]=`<b>ἐπι·σαρκάζω</b>, railler cruellement, PHIL. <i>1, 587</i>.`

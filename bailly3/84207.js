@@ -1,0 +1,1 @@
+lar[84207]=`<b>προ·εξευρίσκω</b>, trouver <i>ou</i> imaginer auparavant, BAS.`

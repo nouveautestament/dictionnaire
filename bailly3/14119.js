@@ -1,0 +1,1 @@
+lar[14119]=`<b>ου (ὁ)</b> Arænos, <i>fl. et côte de Thrace,</i> PLUT. <i>M. 298a</i>.`

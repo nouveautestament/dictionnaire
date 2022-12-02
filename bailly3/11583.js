@@ -1,0 +1,1 @@
+lar[11583]=`<b>ας (ἡ)</b> <font color="purple">[ᾰῠᾰμ]</font> puissance infinie, PROCL.<p><b>Étym</b>. ἀπειροδύναμος.`

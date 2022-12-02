@@ -1,0 +1,1 @@
+lar[51084]=`<b>καλλι·αστράγαλος, ος, ον</b> <font color="purple">[ᾰγᾰλ]</font> qui a une belle cheville, un beau talon, ARSTT. <i>H.A. 2, 1, 33</i>.<p><b>Étym</b>. κάλλος, ἀστράγαλος.`

@@ -1,0 +1,1 @@
+lar[92731]=`<b>στοματ·ουργός, ός, όν</b> <font color="purple">[ᾰ]</font> artisan de paroles, beau diseur, AR. <i>Ran. 826</i>.<p><b>Étym</b>. στ. ἔργον.`

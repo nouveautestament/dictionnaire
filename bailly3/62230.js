@@ -1,0 +1,1 @@
+lar[62230]=`<font color="darkgreen">(<i>impf</i>. ἐμαγείρευον, <i>ao</i>. ἐμαγείρευσα)</font> <font color="purple">[ᾰ]</font><br><b>      1 <i>intr.</i></b> être cuisinier, TH. <i>Char. 7, 2</i> ; PLUT. <i>M. 284f, etc.</i><br><b>      2 <i>tr.</i></b> faire cuire, apprêter, <i>en parl. d’un cuisinier,</i> ATH. <i>173d</i>.<p><b>Étym</b>. μάγειρος.`

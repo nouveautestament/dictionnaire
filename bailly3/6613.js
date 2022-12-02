@@ -1,0 +1,1 @@
+lar[6613]=`<b>ἀναγκοσιτέω-ῶ</b> <font color="purple">[ᾰνῑ]</font> contraindre à manger, NICOSTR. (ATH. <i>47e</i>).<p><b>Étym</b>. ἀναγκόσιτος.`

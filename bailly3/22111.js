@@ -1,0 +1,1 @@
+lar[22111]=`<b>γλισχρο·λογέομαι-οῦμαι</b> (<i>seul. part. prés</i>.) ergoter avec force subtilités, PHIL. <i>1, 526</i> ; ORIG. <i>1, 565</i>.<p><b>Étym</b>. γλίσχρος, -λογος <i>de</i> λέγω.`

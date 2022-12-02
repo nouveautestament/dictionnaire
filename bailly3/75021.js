@@ -1,0 +1,1 @@
+lar[75021]=`<b>παν·εχθής, ής, ές</b> <font color="purple">[ᾰ]</font> tout à fait odieux, ORPH. <i>H. 60, 11</i>.<p>•<i> Sup</i>. πανέχθιστος, LYC. <i>1057</i>.<p><b>Étym</b>. π. ἔχθος.`

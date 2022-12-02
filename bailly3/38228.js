@@ -1,0 +1,1 @@
+lar[38228]=`<b>ἐπι·κυρίσσω</b> <font color="purple">[ῠ]</font> heurter violemment, TH. <i>Vent. 34</i>.`

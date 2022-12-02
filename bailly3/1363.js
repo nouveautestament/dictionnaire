@@ -1,0 +1,1 @@
+lar[1363]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> continuité, JAMBL. <i>Nicom. ar. 84</i>.<p><b>Étym</b>. ἀδιάστατος.`

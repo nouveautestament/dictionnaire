@@ -1,0 +1,1 @@
+lar[87964]=`<b>ατος (τὸ)</b> ravage <i>ou</i> destruction par le feu, EUR. <i>Hel. 773</i>.<p><b>Étym</b>. πυρπολέω.`

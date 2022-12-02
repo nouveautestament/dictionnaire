@@ -1,0 +1,1 @@
+lar[72685]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰτ]</font> parole <i>ou</i> appel d’une voix criarde, cri aigu, AR. <i>Ach. 1042</i>.<p><b>Étym</b>. ὀρθιάζω.`

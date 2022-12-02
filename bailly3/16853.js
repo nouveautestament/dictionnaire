@@ -1,0 +1,1 @@
+lar[16853]=`<b>ος, ον</b>, servile, <i>d’où</i> pénible, NIC. <i>Al. 178, 242</i>.<p><b>Étym</b>. ἀτμήν.`

@@ -1,0 +1,1 @@
+lar[38633]=`<b>ἐπι·πάσσω</b> <font color="darkgreen">(<i>f</i>. -πάσω, <i>ao</i>. ἐπέπασα)</font> répandre sur : τι ἐπί τι, HDT. <i>2, 172</i> ; MÉN. (ATH. <i>119e</i>) ; τινί τι, ORPH. <i>Lith. 449</i> ; LUC. <i>D. mar. 15, 3,</i> une chose sur une autre ; <i>au pass</i>. PLAT. <i>Rsp. 405e ; fig</i>. LUC. <i>Pisc. 22</i>.`

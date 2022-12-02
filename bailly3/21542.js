@@ -1,0 +1,1 @@
+lar[21542]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> de voisin, de voisinage, JOS. <i>A.J. 2, 14, 6</i>.<p><b>Étym</b>. *γειτνία.`

@@ -1,0 +1,1 @@
+lar[17396]=`<b>αὐτο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> teint de soi-même, NONN. <i>D. 30, 123</i>.<p><b>Étym</b>. αὐ. βάπτω.`

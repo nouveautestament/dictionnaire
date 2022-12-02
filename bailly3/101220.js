@@ -1,0 +1,1 @@
+lar[101220]=`<font color="purple">[ῠ]</font> <i>adv</i>., par chance, heureusement, AR. <i>Ach. 250, Th. 305</i>.<p>•<i> Cp</i>. τυχηρότερον, PHOT. <i>p. 612, 15</i>.`

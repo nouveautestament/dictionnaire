@@ -1,0 +1,1 @@
+lar[93405]=`<b>συγ·κατήγορος, ου (ὁ)</b> conseil qui assiste l’accusateur, HYPÉR. <i>Eux. 27</i>.`

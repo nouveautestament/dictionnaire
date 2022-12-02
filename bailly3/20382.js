@@ -1,0 +1,1 @@
+lar[20382]=`<b>ου (ὁ) :<br>      1</b> bouvier, NIC. <i>Th. 5</i>.<br><b>      2</b> qui laboure avec des bœufs, NIC. <i>fr. 35</i>.<p><b>Étym</b>. βοῦκος.`

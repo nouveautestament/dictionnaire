@@ -1,0 +1,1 @@
+lar[105481]=`<b>ατος (τὸ)</b> <font color="purple">[ῐ]</font> trait d’humanité, de bonté, PLUT. <i>Sol. 15, M. 970a, etc</i>.<p><b>Étym</b>. φιλανθρωπεύομαι.`

@@ -1,0 +1,1 @@
+lar[35971]=`<i>adv</i>., avec soin, exactement, PHIL. <i>1, 238</i> ; M. ANT. <i>1, 16</i>.<p><b>Étym</b>. ἐξετάζω.`

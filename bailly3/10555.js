@@ -1,0 +1,1 @@
+lar[10555]=`<b>εως (ἡ)</b> <font color="purple">[φῐ]</font> affection en retour, ARSTT. <i>Nic. 8, 2, 3</i>.<p><b>Étym</b>. ἀντιφιλέω.`

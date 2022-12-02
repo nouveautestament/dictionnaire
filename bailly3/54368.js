@@ -1,0 +1,1 @@
+lar[54368]=`<b>ῶν (αἱ)</b> Kaphyes (<i>auj</i>. Khotoússa) <i>petite v. d’Arcadie</i>.`

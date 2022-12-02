@@ -1,0 +1,1 @@
+lar[70481]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰῐδ]</font> bourgeon <i>ou</i> pampre de vigne, HPC. <i>673, 47</i>.<p><b>Étym</b>. οἶνος.`

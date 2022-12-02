@@ -1,0 +1,1 @@
+lar[21947]=`<b>ας (ἡ)</b> soins qu’on prend d’un vieillard, <i>particul</i>. de ses parents dans leur vieillesse, ALEX. (POLL. <i>2, 14, ms</i>. γηροβοσκεῖα) ; PLUT. <i>M. 111e</i>.<p><b>Étym</b>. γηροβοσκός.`

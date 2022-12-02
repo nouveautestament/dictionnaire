@@ -1,0 +1,1 @@
+lar[42644]=`<font color="purple">[ᾰ]</font><br><b>      1</b> doucement, PLAT. <i>Criti. 113c.</i><br><b>      2</b> facilement, aisément, PLAT. <i>Leg. 706b ;</i> LUC. <i>Am. 53</i>.<p>➳ <i>Ion</i>. -έως, THGN. <i>463</i>.<p><b>Étym</b>. εὐμαρής.`

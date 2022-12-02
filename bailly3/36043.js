@@ -1,0 +1,1 @@
+lar[36043]=`<b>οῦ (ὁ)</b> action de suivre à la piste, de découvrir, SPT. <i>Jud. 5, 16</i> ; AQU. <i>Job 11, 7 ; 38, 16 ; Ps. 94, 4</i>.<p><b>Étym</b>. ἐξιχνιάζω.`

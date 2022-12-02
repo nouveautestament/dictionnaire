@@ -1,0 +1,1 @@
+lar[69558]=`<b>ητος (ἡ)</b> sécheresse, THC. <i>7, 12</i> ; XÉN. <i>Œc. 19, 11</i> ; PLAT. <i>Rsp. 335d ; au plur</i>. PLUT. <i>M. 687f ; fig. en parl. du style,</i> LGN <i>3, 3</i>.<p><b>Étym</b>. ξηρός.`

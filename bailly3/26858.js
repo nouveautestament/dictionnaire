@@ -1,0 +1,1 @@
+lar[26858]=`<i>vb. de</i> διορίζω, PLAT. <i>Leg. 874d ;</i> ARSTT. <i>Nic. 5, 5 ; 9, 2</i> ; LGN <i>11, 3</i>.`

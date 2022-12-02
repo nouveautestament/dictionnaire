@@ -1,0 +1,1 @@
+lar[46429]=`<font color="purple">[ᾱ]</font> <i>adv</i>., en forme de théâtre, STR. <i>763</i>.<p><b>Étym</b>. θεατροειδής.`

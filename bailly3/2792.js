@@ -1,0 +1,1 @@
+lar[2792]=`<b>εος (τὸ)</b> Æpy, « l’Escarpée », <i>v. du pays de Nestor,</i> IL. <i>2, 592</i>.<p><b>Étym</b>. αἰπύς ; <i>cf</i>. Αἴπεια.`

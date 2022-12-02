@@ -1,0 +1,1 @@
+lar[5551]=`<b>ἄμης, ητος (ὁ)</b> <font color="purple">[ᾰ]</font> sorte de gâteau au lait, AR. <i>Pl. 999</i> ; MÉN. (ATH. <i>644f</i>) <i>etc</i>.`

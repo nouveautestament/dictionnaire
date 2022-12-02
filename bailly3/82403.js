@@ -1,0 +1,1 @@
+lar[82403]=`<b>πολυστομέω-ῶ</b>, parler beaucoup, sans cesse, ESCHL. <i>Suppl. 502</i>.<p><b>Étym</b>. πολύστομος.`

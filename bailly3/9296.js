@@ -1,0 +1,1 @@
+lar[9296]=`<b>ἀν·όξυντος, ος, ον</b>, qui n’a pas l’accent aigu, EUST. <i>930, 57</i>.<p><b>Étym</b>. ἀν-, ὀξύνω.`

@@ -1,0 +1,1 @@
+lar[41618]=`<b>εὐ·απάτητος, ος, ον</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> facile à tromper, PLAT. <i>Phædr. 263b ;</i> BIAS (STOB. <i>221, 46</i>).<br><b>      2</b> <i>act</i>. qui trompe facilement, ARSTT. <i>H.A. 9, 1, 7</i>.<p>•<i> Cp</i>. -ότερος, PLAT. ARSTT. <i>ll. cc</i>.<p><b>Étym</b>. εὖ, ἀπατάω.`

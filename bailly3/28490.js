@@ -1,0 +1,1 @@
+lar[28490]=`<b>δυσ·θαλής, ής, ές</b> <font color="purple">[ᾰ]</font> qui pousse difficilement, chétif, A. MYND. (ATH. <i>393a</i>) ; CRAT. (<i>Com. fr. 2, 197).</i><p><b>Étym</b>. δ. θάλλω.`

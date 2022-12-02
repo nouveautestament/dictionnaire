@@ -1,0 +1,1 @@
+lar[63326]=`<b>ας (ἡ)</b> <font color="purple">[γᾰ]</font><br><b>      1</b> grand dessein, <i>au pl</i>. PD. <i>N. 11, 57 (dor</i>. μεγαλανορία).<br><b>      2</b> orgueil, EUR. <i>Ph. 185, etc</i>.<p><b>Étym</b>. μεγαλήνωρ.`

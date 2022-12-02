@@ -1,0 +1,1 @@
+lar[54789]=`<b>ΐτιδος (ἡ)</b> senegré, <i>plante,</i> DIOSC. <i>2, 124</i>.<p><b>Étym</b>. κέρας.`

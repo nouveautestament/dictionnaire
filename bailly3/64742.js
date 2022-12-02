@@ -1,0 +1,1 @@
+lar[64742]=`<b>μετα·κάρπιον, ου (τὸ)</b> métacarpe, <i>partie de la main entre les doigts et le poignet,</i> ORIB. <i>p. 148 Mai</i>.<p><b>Étym</b>. μ. καρπός.`

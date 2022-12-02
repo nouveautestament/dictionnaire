@@ -1,0 +1,1 @@
+lar[82810]=`<b>ας (ἡ)</b> direction d’une maison de prostitution, ESCHN. <i>84, 32</i>.<p><b>Étym</b>. πορνοβοσκός.`

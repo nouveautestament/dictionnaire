@@ -1,0 +1,1 @@
+lar[100776]=`<b>ατος (τὸ)</b> appareil de treuil, BITON <i>Mach. p. 113, 31</i>.<p><b>Étym</b>. *τροχιάζω, <i>de</i> τροχιός.`

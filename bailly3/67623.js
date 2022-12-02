@@ -1,0 +1,1 @@
+lar[67623]=`<b>ής, ές</b>, fait dans l’î. de Naxos, AR. <i>Pax 143</i>.<p><b>Étym</b>. Νάξιος, ἔργον.`

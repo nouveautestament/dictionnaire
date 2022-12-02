@@ -1,0 +1,1 @@
+lar[90334]=`<b>ος, ον</b> <font color="purple">[σῐμ]</font> du Simoïs, STR. <i>597</i> ; TRIPHIOD. <i>326</i>.<p><b>Étym</b>. Σιμόεις.`

@@ -1,0 +1,1 @@
+lar[69391]=`<b>ξανθο·χολικός, ή, όν</b>, qui concerne la bile jaune, A. TR. <i>1, p. 95</i>.<p><b>Étym</b>. ξ. χόλος.`

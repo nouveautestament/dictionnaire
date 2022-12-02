@@ -1,0 +1,1 @@
+lar[31015]=`<b>ἑκατόμ·πυλος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à cent portes, IL. <i>9, 383</i> ; DP. <i>249, etc</i>.<p><b>Étym</b>. ἑ. πύλη.`

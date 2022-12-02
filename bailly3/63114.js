@@ -1,0 +1,1 @@
+lar[63114]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> fils de Mastôr, <i>càd</i>. Lykophrôn, IL. <i>15, 438 ; ou</i> Halitharsès, OD. <i>2, 158 ; 24, 452</i>.<p><b>Étym</b>. Μάστωρ.`

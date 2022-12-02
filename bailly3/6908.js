@@ -1,0 +1,1 @@
+lar[6908]=`<b>εως (ἡ)</b> action de dévorer, ARSTT. <i>G.A. 3, 5, 15</i>.<p><b>Étym</b>. ἀνακάπτω.`

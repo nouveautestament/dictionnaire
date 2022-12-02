@@ -1,0 +1,1 @@
+lar[110186]=`<b>ας</b> <font color="purple">[ῠ]</font> <i>fém. de</i> ὠκυπέτης, M. SID. <i>17</i>.`

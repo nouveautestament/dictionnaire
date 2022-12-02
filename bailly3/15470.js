@@ -1,0 +1,1 @@
+lar[15470]=`<b>ἀρυταινο·ειδής, ής, ές</b> <font color="purple">[ᾰῠ]</font> en forme d’aiguière, GAL. <i>3, 556</i>.<p><b>Étym</b>. ἀρύταινα, εἶδος.`

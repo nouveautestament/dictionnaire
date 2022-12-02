@@ -1,0 +1,1 @@
+lar[55496]=`<font color="purple">[ῡ]</font> <i>vb. de</i> κινδυνεύω, EUR. <i>Suppl. 572, I.T. 1022</i>.`

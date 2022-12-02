@@ -1,0 +1,1 @@
+lar[89010]=`couper des broussailles, ANTH. <i>6, 226</i>.<p><b>Étym</b>. ῥώψ.`

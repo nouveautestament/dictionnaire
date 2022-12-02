@@ -1,0 +1,1 @@
+lar[82656]=`<b>ης, ες</b> <font color="purple">[ῠ]</font> qui ressemble à une bulle <i>ou</i> à une pustule, DIOSC. <i>4, 59</i> ; GAL. <i>2, 256</i>.<p><b>Étym</b>. πομφόλυξ, -ωδης.`

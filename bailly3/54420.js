@@ -1,0 +1,1 @@
+lar[54420]=`<b>κεγχρ·αλέτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui moud <i>ou</i> égruge du millet, GAL. <i>2, 99</i>.<p><b>Étym</b>. κέγχρος, ἀλέω.`

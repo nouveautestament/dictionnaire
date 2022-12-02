@@ -1,0 +1,1 @@
+lar[60477]=`<b>ου (ἡ)</b> Léros (<i>auj</i>. Léros) <i>une des Sporades,</i> HDT. <i>5, 125</i> ; THC. <i>8, 27</i>.`

@@ -1,0 +1,1 @@
+lar[36103]=`<b>ἐξ·οιστρέω-ῶ :<br>      1</b> <i>c</i>. ἐξοιστράω LUC. <i>D. mar. 10, 2</i>.<br><b>      2 <i>intr.</i></b> entrer en fureur, PALÆPH. <i>Incr. 43, 1</i>.`

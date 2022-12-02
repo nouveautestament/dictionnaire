@@ -1,0 +1,1 @@
+lar[67652]=`<b>ου (τὸ)</b> <font color="purple">[ᾰκ]</font> Narthakion, <i>mt. et v. de Thessalie,</i> XÉN. <i>Hell. 4, 3, 8 et 9 ; Ages. 2, 4 et 5</i>.`

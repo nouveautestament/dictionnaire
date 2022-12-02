@@ -1,0 +1,1 @@
+lar[104399]=`<b>οῦ (ὁ) :<br>      1</b> guide, indicateur, SOPH. <i>O.C. 502 ; O.R. 966, 1260</i>.<br><b>      2</b> maître, précepteur, PLUT. <i>Dem. 5</i>.<p><b>Étym</b>. ὑφηγέομαι.`

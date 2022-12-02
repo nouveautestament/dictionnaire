@@ -1,0 +1,1 @@
+lar[41270]=`<b>Ἐτεο·βουτάδαι, ῶν (οἱ)</b> les véritables descendants de Boutès, <i>famille de prêtres à Athènes,</i> ALEX. (ATH. <i>244e</i>) ; DÉM. <i>573, 10,</i> ESCHN. <i>47, 39</i>.<p><b>Étym</b>. ἐτεός, βούτης.`

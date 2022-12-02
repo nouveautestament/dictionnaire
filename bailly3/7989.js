@@ -1,0 +1,1 @@
+lar[7989]=`<b>εως (ἡ)</b> <font color="purple">[ᾰπ]</font> <i>c</i>. ἀνδραποδισμός XÉN. <i>Ap. 25</i>.`

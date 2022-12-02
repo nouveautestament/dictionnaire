@@ -1,0 +1,1 @@
+lar[5529]=`<b>ἀμετρό·κακος, ος, ον</b> <font color="purple">[κᾰ]</font> d’une méchanceté sans bornes, EUN. (SUID.).<p><b>Étym</b>. ἄ. κακός.`

@@ -1,0 +1,1 @@
+lar[63682]=`<i>adv</i>., plus grandement, <i>d’où</i> plus, davantage, THC. <i>4, 19, etc.</i> ; XÉN. <i>Cyn. 13, 3, etc.</i> ; PLAT. <i>Leg. 693e, etc.</i> ; EUR. <i>Hec. 1121, etc</i>.<p>➳ <i>Ion</i>. μεζόνως, HDT. <i>2, 161 ; 3, 128, etc</i>.<p><b>Étym</b>. μείζων.`

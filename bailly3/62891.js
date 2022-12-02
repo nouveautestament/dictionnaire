@@ -1,0 +1,1 @@
+lar[62891]=`<b>ῶν (οἱ)</b> les Maraques, <i>pple étolien,</i> XÉN. <i>Hell. 6, 1, 7</i>.`

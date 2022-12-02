@@ -1,0 +1,1 @@
+lar[4775]=`<b>ἀλλο·δίκης, ου (ὁ)</b> <font color="purple">[ῐ]</font> qui juge contrairement à la justice, SIB. <i>3, 390</i>.<p><b>Étym</b>. ἄ. δίκη.`

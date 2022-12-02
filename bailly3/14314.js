@@ -1,0 +1,1 @@
+lar[14314]=`<b>ου (τὸ)</b> <font color="purple">[ῠῑδ]</font> petite quantité d’argent, AR. <i>Pl. 147, etc</i>. ISOCR. <i>291e, etc</i>.<p><b>Étym</b>. ἀργυρίς.`

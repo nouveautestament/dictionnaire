@@ -1,0 +1,1 @@
+lar[54011]=`<i>vb. de</i> κατηγορέω, ISOCR. <i>27a ;</i> PLAT. <i>Gorg. 508b</i>.`

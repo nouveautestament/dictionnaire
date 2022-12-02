@@ -1,0 +1,1 @@
+lar[48354]=`<b>ου (τὸ)</b> petit mortier, GEOP. <i>12, 19, 5</i>.<p><b>Étym</b>. <i>dim. de</i> ἴγδη.`

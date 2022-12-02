@@ -1,0 +1,1 @@
+lar[58993]=`<b>ας (ἡ)</b> sorte de bouclier convexe, DS. <i>5, 33</i>.<p><b>Étym</b>. κυρτός.`

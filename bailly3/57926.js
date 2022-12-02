@@ -1,0 +1,1 @@
+lar[57926]=`<i>ou</i> <b>Κρίμισσα, ης (ἡ)</b> Krimisa <i>ou</i> Krimissa (<i>auj</i>. Cirò Marina) <i>v. de Lucanie,</i> LYC. <i>913</i>.`

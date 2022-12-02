@@ -1,0 +1,1 @@
+lar[109293]=`<b>ος, ον</b> <font color="purple">[ῡ]</font> porté en or <i>ou</i> avec de l’or, MAN. <i>5, 309</i>.<p><b>Étym</b>. χρυσοφορέω.`

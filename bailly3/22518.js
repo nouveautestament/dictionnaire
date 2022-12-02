@@ -1,0 +1,1 @@
+lar[22518]=`<b>ῶν (οἱ)</b> les habitants de la Gordyène, PLUT. <i>Luc. 26, 29</i>.`

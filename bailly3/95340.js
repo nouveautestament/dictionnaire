@@ -1,0 +1,1 @@
+lar[95340]=`<i>adv</i>., par synecdoque, <i>càd</i>. implicitement, DS. <i>5, 31</i>.<p><b>Étym</b>. συνεκδοχή.`

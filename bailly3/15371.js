@@ -1,0 +1,1 @@
+lar[15371]=`<b>οῦ (ὁ)</b> Artiskos, <i>affl. de l’Hèbre,</i> HDT. <i>4, 92</i>.`

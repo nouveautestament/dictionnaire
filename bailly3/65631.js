@@ -1,0 +1,1 @@
+lar[65631]=`<b>ορος (ὁ) :<br>      1</b> génie impur et malfaisant, ESCHL. <i>Ch. 944</i> ; EUR. <i>Andr. 615, etc.</i><br><b>      2</b> fléau vengeur, ESCHL. <i>Eum. 177</i> ; SOPH. <i>El. 603, etc</i>.<p>➳ ἡ μ. EUR. <i>Or. 1584</i>.<p><b>Étym</b>. μιαίνω.`

@@ -1,0 +1,1 @@
+lar[84]=`<b>ἀ·βέβηλος, ος, ον</b>, où l’on ne doit pas pénétrer, inviolable, sacré, PLUT. <i>Brut. 20</i>.<p><b>Étym</b>. ἀ, βέβηλος.`

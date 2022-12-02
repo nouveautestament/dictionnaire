@@ -1,0 +1,1 @@
+lar[19532]=`<b>βεμβρ·αφύη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> plat de sardines et d’anchois, ARISTONYM. (ATH. <i>287c</i>).<p><b>Étym</b>. βεμβράς, ἀ.`

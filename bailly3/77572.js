@@ -1,0 +1,1 @@
+lar[77572]=`<b>ή, όν :<br>      1</b> qui concerne l’infanterie, PLAT. <i>Leg. 753b ;</i> POL. <i>1, 20, 4 ; subst</i>. τὸ πεζικόν, XÉN. <i>Cyr. 5, 3, 38,</i> l’infanterie ; τὰ πεζικά, XÉN. <i>Cyr. 1, 3, 15,</i> exercices de l’infanterie.<br><b>      2</b> qui concerne une armée de terre, XÉN. <i>Mem. 3, 6, 9</i> ; POL. <i>1, 38, 1</i>.<p><b>Étym</b>. πεζός.`

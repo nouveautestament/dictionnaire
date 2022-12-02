@@ -1,0 +1,1 @@
+lar[50731]=`<font color="purple">[ᾰ]</font> être de nature maligne, être malin, <i>en parl. d’ulcères,</i> AÉT. <i>1, p. 14, 37</i>.<p><b>Étym</b>. κακοηθής.`

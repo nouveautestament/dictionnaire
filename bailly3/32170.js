@@ -1,0 +1,1 @@
+lar[32170]=`<b>ἐκ·τιτράω-ῶ</b> <font color="purple">[ῐ]</font> (<i>part. prés. pass</i>. -ώμενος) percer, ORIB. <i>p. 105, 29 Cochl</i>.`

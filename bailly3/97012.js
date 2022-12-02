@@ -1,0 +1,1 @@
+lar[97012]=`<b>ου (τὸ)</b> <font color="purple">[ῡ]</font> <i>dim. de</i> σχενδύλη HÉRON <i>Bel. p. 123</i>.`

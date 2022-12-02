@@ -1,0 +1,1 @@
+lar[87733]=`<b>ός, όν</b> <font color="purple">[ῡ]</font> qui sert à tirer le pus, HÉRON <i>208</i>.<p><b>Étym</b>. πῦον, ἕλκω.`

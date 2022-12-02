@@ -1,0 +1,1 @@
+lar[101799]=`<b>ίδος</b> <font color="purple">[ῡῐδ]</font> <i>adj. f</i>. du mt Hymette, NIC. <i>Al. 446</i>.<p><b>Étym</b>. Ὑμηττός.`

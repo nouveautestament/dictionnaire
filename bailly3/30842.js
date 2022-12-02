@@ -1,0 +1,1 @@
+lar[30842]=`<i>anc. att</i>. <b>ἐσοπτρίζω</b>, réfléchir une image, PLUT. <i>M. 696a.</i><br><b><i>Moy.</i></b> se regarder dans un miroir, PLUT. <i>M. 143c</i>.<p>➳ ἐσ- PLUT. <i>l. c</i>.<p><b>Étym</b>. εἴσοπτρον.`

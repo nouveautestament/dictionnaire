@@ -1,0 +1,1 @@
+lar[85385]=`<b>ή, όν</b>, accueilli avec plaisir, <i>d’où</i> agréable (<i>cf. lat</i>. acceptus) SPT. <i>Prov. 11, 20</i> ; CLÉM. <i>849</i>.<p><b>Étym</b>. <i>vb. de</i> προσδέχομαι.`

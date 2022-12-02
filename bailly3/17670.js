@@ -1,0 +1,1 @@
+lar[17670]=`<b>αὐτό·πυρ (τὸ)</b> le feu lui-même, HERM. (STOB. <i>Fl. 11, 23</i>).`

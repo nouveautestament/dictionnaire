@@ -1,0 +1,1 @@
+lar[64991]=`<b>μετα·συνεθίζομαι</b>, prendre de nouvelles habitudes, GAL. <i>5, 146</i>.`

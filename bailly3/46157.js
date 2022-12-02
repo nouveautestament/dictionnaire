@@ -1,0 +1,1 @@
+lar[46157]=`<b>θαλασσο·ειδής, ής, ές</b> <font color="purple">[θᾰ]</font><br><b>      1</b> qui représente <i>ou</i> imite la mer, HÉRON <i>Aut. 151</i>.<br><b>      2</b> qui a la couleur de la mer, DÉMOCR. (ATH. <i>525d</i>) ; STR. <i>17, 1, 35 Kram</i>.<p><b>Étym</b>. θ. εἶδος.`

@@ -1,0 +1,1 @@
+lar[42613]=`<b>εὐ·λοιδόρητος, ος, ον :<br>      1</b> facile à blâmer, PLUT. <i>M. 757a.</i><br><b>      2</b> exposé aux insultes, MÉN. <i>439 Kock</i>.<p><b>Étym</b>. εὖ, λοιδορέω.`

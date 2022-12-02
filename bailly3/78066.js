@@ -1,0 +1,1 @@
+lar[78066]=`<b>πεντε·δάκτυλος, ος, ον</b> <font color="purple">[ῠ]</font> large de cinq doigts, HPC. <i>Art. 783</i>.<p><b>Étym</b>. <i>cf</i>. πενταδάκτυλος.`

@@ -1,0 +1,1 @@
+lar[59089]=`<b>(τὸ)</b> <i>barbarisme d’un Scythe, pour</i> κῴδιον, AR. <i>Th. 1180</i>.`

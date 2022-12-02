@@ -1,0 +1,1 @@
+lar[62014]=`<b>λυσί·γαμος, ος, ον</b> <font color="purple">[ῡῐᾰ]</font> qui rompt <i>ou</i> dissout le mariage, ANTH. <i>5, 302</i>.<p><b>Étym</b>. λύω, γάμος.`

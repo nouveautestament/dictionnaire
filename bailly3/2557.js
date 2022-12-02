@@ -1,0 +1,1 @@
+lar[2557]=`<b>αἱματό·ρρυτος, ος, ον</b> <font color="purple">[ᾰῠ]</font> de sang versé (goutte) EUR. <i>I.A. 1515</i>.<p><b>Étym</b>. αἷ. ῥέω.`

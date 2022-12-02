@@ -1,0 +1,1 @@
+lar[21332]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> Gamos :<br><b>      1</b> <i>fils d’Éros,</i> NONN. <i>D. 40, 402</i>.<br><b>      2</b> <i>n. d’h</i>. ANTH. <i>11, 207</i>.<p><b>Étym</b>. <i>v</i>. γάμος.`

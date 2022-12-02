@@ -1,0 +1,1 @@
+lar[65714]=`<font color="purple">[ῑ]</font> <i>adv</i>., minutieusement, en chicanant, PLUT. <i>M. 730b</i>.`

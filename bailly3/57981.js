@@ -1,0 +1,1 @@
+lar[57981]=`<b>Κριτό·βουλος, ου (ὁ)</b> Kritoboulos (Critobule), XÉN. <i>Mem. 1, 3, 8, etc.</i> ; PLAT. <i>Ap. 33e, etc</i>.<p><b>Étym</b>. κριτός, βουλή.`

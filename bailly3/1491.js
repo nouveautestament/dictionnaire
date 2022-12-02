@@ -1,0 +1,1 @@
+lar[1491]=`<b>ας (ἡ) :<br>   I</b> <i>pass.</i> :<br><b>      1</b> vie sans gloire, vie obscure, PLUT. <i>Agis 2</i>.<br><b>      2</b> déshonneur, THC. <i>1, 76</i> ; PLAT. <i>Phæd. 82c ; au plur</i>. DÉM. <i>1315, 4</i>.<br><b>   II</b> <i>act</i>. dédain : ὑπ' ἀδοξίας, APP. <i>Syr. 41,</i> par dédain.<p><b>Étym</b>. ἄδοξος.`

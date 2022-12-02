@@ -1,0 +1,1 @@
+lar[60717]=`<b>Λεω·φάνης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Léôphanès, <i>h</i>. ARSTT. <i>G.A. 4, 1</i>.<p><b>Étym</b>. λ. φαίνω.`

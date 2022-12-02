@@ -1,0 +1,1 @@
+lar[674]=`<b>ἀγκυρο·βόλιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> ancrage, mouillage, STR. <i>159</i>.<p><b>Étym</b>. <i>v</i>. ἀγκυροβολέω.`

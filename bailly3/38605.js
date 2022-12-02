@@ -1,0 +1,1 @@
+lar[38605]=`<b>ος, ον</b>, du jour suivant, quotidien, NT. <i>Matth. 6, 11 ; Luc. 11, 3</i>.<p><b>Étym</b>. ἐπιοῦσα ἡμέρα, <i>part. prés. de</i> ἔπειμι².`

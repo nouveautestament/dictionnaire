@@ -1,0 +1,1 @@
+lar[66882]=`<b>α</b> <i>et</i> <b>ου (ὁ)</b> = <i>lat</i>. Murena, <i>n. d’h. rom</i>. PLUT. <i>Syll. 17, etc</i>.<p>➳ <i>Gén</i>. -α, PLUT. <i>Syll. 19 ; et</i> -ου, DC. <i>54, 3</i>.`

@@ -1,0 +1,1 @@
+lar[103021]=`<i>adv</i>., peu à peu, OCELL. <i>1, 14, 2</i> ; NICOM. <i>Arithm. p. 135, 32</i>.<p><b>Étym</b>. ὑποβαίνω.`

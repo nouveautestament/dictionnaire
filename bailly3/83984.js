@@ -1,0 +1,1 @@
+lar[83984]=`<b>εως (ἡ)</b> organisation préalable, DH. <i>Rhet. 10, 13</i>.<p><b>Étym</b>. προδιοικέω.`

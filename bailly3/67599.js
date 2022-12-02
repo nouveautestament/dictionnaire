@@ -1,0 +1,1 @@
+lar[67599]=`<b>νακοτιλτέω-ῶ</b> <font color="purple">[ᾰ]</font> tondre (<i>propr</i>. épiler) une toison, ARCHIPP. (<i>Com. fr. 2, 723).</i><p><b>Étym</b>. νακοτίλτης.`

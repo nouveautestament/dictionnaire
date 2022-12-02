@@ -1,0 +1,1 @@
+lar[44474]=`<b>ζευγο·ποιΐα, ας (ἡ)</b> action d’apparier, <i>particul</i>. de faire une double flûte, TH. <i>H.P. 4, 14, 6</i>.<p><b>Étym</b>. ζεῦγος, ποιέω.`

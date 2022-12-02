@@ -1,0 +1,1 @@
+lar[35147]=`<b>ἐν·τρύχομαι</b>, se consumer dans, <i>dat</i>. DC. <i>38, 46</i>.`

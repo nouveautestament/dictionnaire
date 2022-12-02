@@ -1,0 +1,1 @@
+lar[61395]=`<b>ου (ὁ)</b> bêche, hoyau, ARTÉM.<p><b>Étym</b>. <i>cf. lat</i>. ligo.`

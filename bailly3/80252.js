@@ -1,0 +1,1 @@
+lar[80252]=`<b>πιθό·γαστρος, ος, ον</b> <font color="purple">[ῐ]</font> au ventre rond comme un tonneau, EUTHYD. (ATH. <i>116b</i>).<p><b>Étym</b>. πίθος, γαστήρ.`

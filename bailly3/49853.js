@@ -1,0 +1,1 @@
+lar[49853]=`<b>ἱστο·τέλεια, ας (ἡ)</b> ouvrière habile à tisser la toile, NONN. <i>D. 6, 154 ; 37, 312</i>.<p><b>Étym</b>. ἱστός, τελέω.`

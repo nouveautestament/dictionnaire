@@ -1,0 +1,1 @@
+lar[108183]=`<b>χειρο·τόνος, ος, ον</b>, qui se fait <i>ou</i> qu’on offre les mains tendues, ESCHL. <i>Sept. 172</i>.<p><b>Étym</b>. χ. τείνω.`

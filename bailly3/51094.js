@@ -1,0 +1,1 @@
+lar[51094]=`<b>καλλι·γένεθλος, ος, ον</b> <font color="purple">[ῐ]</font> aux beaux rejetons, CORINN. (SCH.-IL. <i>2, 498</i>) ; PROCL. <i>H. 6, 1</i>.<p><b>Étym</b>. κ. γενέθλη.`

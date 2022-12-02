@@ -1,0 +1,1 @@
+lar[40515]=`<b>ή, όν</b>, sur qui <i>ou</i> sur quoi l’on dispute <i>ou</i> l’on peut disputer : τινι, SOPH. <i>El. 220,</i> avec qqn.<p><b>Étym</b>. <i>vb. de</i> ἐρίζω.`

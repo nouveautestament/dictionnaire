@@ -1,0 +1,1 @@
+lar[88557]=`<b>ῥιζοφαγέω-ῶ</b> <font color="purple">[ᾰ]</font> se nourrir de racines, STR. <i>513</i>.<p><b>Étym</b>. ῥιζοφάγος.`

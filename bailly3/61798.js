@@ -1,0 +1,1 @@
+lar[61798]=`<b>α (ὁ)</b> <font color="purple">[ᾰδᾱ]</font> Lydiadas, <i>h</i>. PLUT. <i>Cleom. 6, etc</i>.<p>➳ <i>Ion</i>. -άδης, PLUT. <i>Arat. 30, etc</i>.`

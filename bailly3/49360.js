@@ -1,0 +1,1 @@
+lar[49360]=`<b>ἱπποκρατέω-ῶ</b> <font color="purple">[ᾰ]</font> l’emporter par sa cavalerie, DÉM. <i>387, 13</i> ; POL. <i>3, 66, 2 ; d’où au pass</i>. être inférieur par sa cavalerie, THC. <i>6, 71</i>.<p><b>Étym</b>. ἵ. κρατέω.`

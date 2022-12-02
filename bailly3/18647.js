@@ -1,0 +1,1 @@
+lar[18647]=`<b>ἀψυχέω-ῶ</b> <font color="darkgreen">(<i>ao</i>. ἠψύχησα)</font> <font color="purple">[ῡ]</font> être inanimé, HPC. <i>463, 15 ; 1207a</i>.<p><b>Étym</b>. ἄψυχος.`

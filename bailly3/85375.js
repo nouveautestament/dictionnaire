@@ -1,0 +1,1 @@
+lar[85375]=`<b>προσ·δαπανάω-ῶ</b> <font color="purple">[ᾰᾰ]</font> dépenser en outre, LUC. <i>Ep. sat. 39</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. THÉM. <i>289b</i>.`

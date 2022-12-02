@@ -1,0 +1,1 @@
+lar[76820]=`<b>πάρ·ευνος, ος, ον</b>, compagnon <i>ou</i> compagne de lit ; <i>subst</i>. époux, épouse, ION (ATH. <i>463c</i>) ; <i>fig</i>. ESCHL. <i>Sept. 1004</i>.<p><b>Étym</b>. π. εὐνή.`

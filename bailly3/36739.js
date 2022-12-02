@@ -1,0 +1,1 @@
+lar[36739]=`<b>ἐπ·αξονέω-ῶ</b>, inscrire sur des tables, enregistrer, SPT. <i>Num. 1, 18 (ao. 3 pl. alex</i>. ἐπηξονοῦσαν ; <i>cf</i>. ἐποιοῦσαν, SPT. <i>Job 1, 4</i> ; παρετηροῦσαν, SPT. <i>Sus. 12, etc</i>.).<p><b>Étym</b>. ἐπί, ἄξων.`

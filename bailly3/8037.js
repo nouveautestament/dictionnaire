@@ -1,0 +1,1 @@
+lar[8037]=`<b>οῦ (ὁ)</b> statuaire, sculpteur, GAL. <i>19, 162</i>.<p><b>Étym</b>. ἀνδριάς, ἔργον.`

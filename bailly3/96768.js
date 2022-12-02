@@ -1,0 +1,1 @@
+lar[96768]=`<b>ου (ὁ) :<br>      1</b> mousse qui s’attache aux branches des arbres, DIOSC. <i>3, 40</i> ; PLIN. <i>H.N. 12, 23, 50 ; 24, 6, 17</i>.<br><b>      2</b> <i>c</i>. ἀσπάλαθος, DIOSC. <i>Noth. 1, 19</i>.`

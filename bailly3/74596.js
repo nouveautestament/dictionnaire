@@ -1,0 +1,1 @@
+lar[74596]=`<b>παλίν·στροφος, ος, ον</b> <font color="purple">[ᾰ]</font> qui retourne sur ses pas, <i>fig</i>. changeant, inconstant, OPP. <i>C. 2, 99</i>.<p><b>Étym</b>. π. στρέφω.`

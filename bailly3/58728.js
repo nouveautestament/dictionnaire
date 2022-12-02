@@ -1,0 +1,1 @@
+lar[58728]=`<b>κυν·ακτής, οῦ (ὁ)</b> <font color="purple">[ῠ]</font> laisse de chien, ANTH. <i>6, 34</i>.<p><b>Étym</b>. κύων, ἄγω.`

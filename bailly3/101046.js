@@ -1,0 +1,1 @@
+lar[101046]=`<b>τυμπανο·φορέομαι-οῦμαι</b> <font color="purple">[ᾰ]</font> porter un tambour, CLÉARQ. (ATH. <i>541e</i>).<p><b>Étym</b>. τύμπανον, φορέω.`

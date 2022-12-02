@@ -1,0 +1,1 @@
+lar[37967]=`<b>ἐπι·κατηγορέω-ῶ :<br>      1</b> imputer <i>ou</i> attribuer à : τί τινι, PLUT. <i>M. 1113c</i>, qqe ch. à qqn.<br><b>      2</b> attribuer en outre : τί τινος, SEXT. <i>M. 9, 334,</i> une qualité à qqn <i>ou</i> à qqe ch., donner encore à qqn <i>ou</i> à qqe ch. une qualification ; <i>au pass</i>. ARSTT. <i>An. pr. 2, 38, 2</i>.`

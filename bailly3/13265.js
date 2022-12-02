@@ -1,0 +1,1 @@
+lar[13265]=`<b>(τὸ)</b> (<i>seul. acc. sg</i>.) fatigue, peine, EUR. <i>Ph. 865</i> (<i>var</i>. αἶπος).`

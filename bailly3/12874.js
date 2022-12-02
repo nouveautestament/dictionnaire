@@ -1,0 +1,1 @@
+lar[12874]=`<b>ἀπο·μειλίσσομαι</b>, <i>att</i>. <b>-μειλίττομαι</b>, calmer par la douceur, apaiser, DH. <i>1, 38, etc.</i> ; PHIL. <i>2, 477</i> ; JOS. <i>A.J. 19, 9, 2 ; B.J. 1, 11, 2</i>.`

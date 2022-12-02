@@ -1,0 +1,1 @@
+lar[84797]=`<b>προ·νοτίζω</b>, humecter auparavant, ORIB. <i>159 Matthäi ; au pass</i>. DIOSC. <i>2, 105</i>.`

@@ -1,0 +1,1 @@
+lar[77614]=`<b>όος-οῦς (ἡ)</b> Peithô :<br><b>      1</b> <i>fille d’Okéanos et de Téthys,</i> HÉS. <i>O. 73, etc.</i><br><b>      2</b> <i>déesse de la persuasion ou de l’éloquence,</i> HDT. <i>8, 111</i> ; ESCHL. <i>Suppl. 1040, etc</i>.<p><b>Étym</b>. <i>v</i>. πειθώ.`

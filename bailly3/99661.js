@@ -1,0 +1,1 @@
+lar[99661]=`<b>ου (ὁ)</b> Torèbos, <i>roi de Lydie,</i> Ps.-PLUT. <i>Mus. 15</i>.`

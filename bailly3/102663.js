@@ -1,0 +1,1 @@
+lar[102663]=`<b>ὑπερνεφέω-ῶ</b>, s’élever <i>ou</i> être élevé au-dessus des nuages, NAZ.<p><b>Étym</b>. ὑπερνεφής.`

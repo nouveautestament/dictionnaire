@@ -1,0 +1,1 @@
+lar[35050]=`<b>ἐντερο·κήλη, ης (ἡ)</b> hernie intestinale, GAL. <i>2, 275, 396</i> ; DIOSC. <i>1, 102</i>.<p><b>Étym</b>. ἔ. κήλη.`

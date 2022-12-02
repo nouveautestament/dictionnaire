@@ -1,0 +1,1 @@
+lar[88449]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> <i>t. de gr</i>. du verbe, verbal, D. THR. <i>634, 26</i> ; DS. <i>5, 158, etc. Reiske</i> ; τὸ ῥηματικόν, DH. <i>Comp. 22</i> ; SEXT. <i>M. 1, 195</i> ; GRAMM. le verbe.<p><b>Étym</b>. ῥῆμα.`

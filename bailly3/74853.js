@@ -1,0 +1,1 @@
+lar[74853]=`<b>παν·αλθής, ής, ές</b> <font color="purple">[ᾰν]</font> qui guérit tous les maux, NIC. <i>Th. 939</i>.<p><b>Étym</b>. π. ἀλθαίνω.`

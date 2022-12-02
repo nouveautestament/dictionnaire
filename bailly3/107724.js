@@ -1,0 +1,1 @@
+lar[107724]=`<b>χαλκόω-ῶ :<br>      1</b> forger en airain, ANTH. <i>9, 795</i>.<br><b>      2</b> couvrir <i>ou</i> cuirasser d’airain, PD. <i>O. 13, 123</i>.<p><b>Étym</b>. χαλκός.`

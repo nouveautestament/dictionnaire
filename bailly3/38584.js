@@ -1,0 +1,1 @@
+lar[38584]=`<b>ἐπι·ξύω :<br>      1</b> gratter <i>ou</i> racler à la surface, PLAT. <i>Rsp. 405e ;</i> ARSTT. <i>H.A. 9, 6, 11</i>.<br><b>      2</b> raser, effleurer, <i>acc</i>. ARAT. <i>650</i>.`

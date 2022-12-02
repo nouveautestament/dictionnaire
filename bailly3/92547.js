@@ -1,0 +1,1 @@
+lar[92547]=`tendre la chaîne d’une trame, ARSTT. <i>H.A. 9, 39, 3</i>.<p><b>Étym</b>. στήμων.`

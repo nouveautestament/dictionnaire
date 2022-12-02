@@ -1,0 +1,1 @@
+lar[54241]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Cato, -ōnis, Caton, <i>n. d’h. rom</i>. PLUT. <i>Cato ma. 1, Mar. 1, Flam. 18, etc</i>.`

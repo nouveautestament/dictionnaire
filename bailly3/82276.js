@@ -1,0 +1,1 @@
+lar[82276]=`<b>πολυ·πόθητος, ος, ον</b> <font color="purple">[ῠ]</font> très désiré, très souhaité, STR. <i>370</i>.<p>•<i> Cp</i>. -ότερος, ATH. <i>433</i>.<p><b>Étym</b>. π. ποθέω.`

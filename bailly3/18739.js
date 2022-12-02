@@ -1,0 +1,1 @@
+lar[18739]=`<b>βαθυ·γένειος, ος, ον</b> <font color="purple">[ᾰῠ]</font> à la barbe longue <i>ou</i> épaisse, JUL. <i>349c</i>.<p><b>Étym</b>. β. γένειον.`

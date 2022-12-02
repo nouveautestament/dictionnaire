@@ -1,0 +1,1 @@
+lar[71665]=`<b>ας (ἡ)</b> situation limitrophe, voisinage immédiat, PHILOD. <i>V. Herc. part. 1, p. 20</i>.<p><b>Étym</b>. ὅμορος.`

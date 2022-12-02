@@ -1,0 +1,1 @@
+lar[24827]=`<b>διά·κορος, ος, ον :<br>      1</b> complètement rassasié de, <i>gén</i>. HDT. <i>3, 117</i>.<br><b>      2</b> <i>fig</i>. dégoûté de, <i>gén</i>. XÉN. <i>Lac. 1, 5</i>.<p><b>Étym</b>. δ. κόρος.`

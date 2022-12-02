@@ -1,0 +1,1 @@
+lar[42591]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Euliménè, <i>Néréïde,</i> HÉS. <i>Th. 246</i>.<p><b>Étym</b>. εὐλίμενος.`

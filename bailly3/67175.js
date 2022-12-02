@@ -1,0 +1,1 @@
+lar[67175]=`<b>*μυο·δόχος</b>, <i>ion</i>. <b>μυο·δόκος, ος, ον</b> <font color="purple">[<i>irrég</i>. ῡ]</font> qui donne asile aux rats, NIC. <i>Th. 795</i>.<p><b>Étym</b>. μῦς, δέχομαι.`

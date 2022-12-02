@@ -1,0 +1,1 @@
+lar[79096]=`<b>περι·πιλέω-ῶ</b> <font color="purple">[πῑ]</font> couvrir d’une couche épaisse tout autour, SPT. <i>3Reg. 6, 20</i>.`

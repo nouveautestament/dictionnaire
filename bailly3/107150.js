@@ -1,0 +1,1 @@
+lar[107150]=`<b>ας (ἡ) :<br>      1</b> chute des feuilles, TH. <i>H.P. 1, 9, 6</i>.<br><b>      2</b> action de couvrir d’une pluie de feuilles et de fleurs, ERATOSTH. (SCH.-EUR. <i>Hec. 573).</i><p><b>Étym</b>. φυλλοβόλος.`

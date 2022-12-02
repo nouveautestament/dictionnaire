@@ -1,0 +1,1 @@
+lar[70734]=`<b>ου (ὁ)</b> Œtosyros, <i>n. d’Apollon chez les Scythes,</i> HDT. <i>4, 59</i>.`

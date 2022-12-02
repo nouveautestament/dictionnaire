@@ -1,0 +1,1 @@
+lar[109755]=`<b>ψευδ·ώνυμος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte <i>ou</i> se donne un faux nom, ESCHL. <i>Pr. 717, Sept. 670</i> ; PHIL. <i>2, 161</i> ; NT. <i>1Tim. 6, 25</i> ; PLUT. <i>M. 220c, etc</i>.<p><b>Étym</b>. ψ. ὄνομα.`

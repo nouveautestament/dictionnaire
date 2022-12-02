@@ -1,0 +1,1 @@
+lar[37363]=`<b>ἐπι·βλώσκω</b> <font color="darkgreen">(<i>ao.2, 3 sg</i>. ἐπέμολε)</font> survenir, arriver, SOPH. <i>Tr. 857</i>.`

@@ -1,0 +1,1 @@
+lar[28674]=`<i>adv</i>., de nature à ne se pas mêler facilement, <i>avec</i> πρός <i>et l’acc</i>. PLUT. <i>M. 640c</i>.<p><b>Étym</b>. δύσμικτος.`

@@ -1,0 +1,1 @@
+lar[82152]=`<b>πολυ·ναύτης, ου</b> <font color="purple">[ῠ]</font> <i>adj. m</i>. aux matelots <i>ou</i> aux navires nombreux, ESCHL. <i>Pers. 83</i>.<p><b>Étym</b>. π. ναύτης.`

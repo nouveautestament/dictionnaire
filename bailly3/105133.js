@@ -1,0 +1,1 @@
+lar[105133]=`<b>Φερε·κλῆς, έους (ὁ)</b> Phéréklès, <i>h</i>. AND. <i>1, 17, etc. Baiter-Sauppe, etc</i>.<p><b>Étym</b>. φ. κλέος.`

@@ -1,0 +1,1 @@
+lar[80968]=`<b>ης (ἡ)</b> Plèionè, <i>fille d’Okéanos,</i> PD. <i>fr. 53</i>.`

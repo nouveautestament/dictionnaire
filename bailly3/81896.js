@@ -1,0 +1,1 @@
+lar[81896]=`<b>Πολυζήλειος αὐλή (ἡ)</b> la cour de Polyzèlos, <i>lieu près de Syracuse,</i> PLUT. <i>Nic. 27</i>.<p><b>Étym</b>. Πολύζηλος.`

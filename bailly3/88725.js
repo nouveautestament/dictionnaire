@@ -1,0 +1,1 @@
+lar[88725]=`<b>ᾶς (ἡ) :<br>      1</b> plant de roses, CRAT. (<i>Com. fr. 2, 82</i>) ; DÉM. <i>1251, 27</i>.<br><b>      2</b> buisson de roses, TH. <i>H.P. 2, 2, 1</i> ; EL. <i>N.A. 14, 24</i>.<p><b>Étym</b>. ῥόδον.`

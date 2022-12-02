@@ -1,0 +1,1 @@
+lar[45465]=`<b>ου (τὸ)</b> <font color="purple">[ῐῠ]</font> <i>dim. de</i> ἡμικύλινδρος PORPH. <i>Abst. 4, 7</i>.`

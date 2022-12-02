@@ -1,0 +1,1 @@
+lar[13998]=`<i>adv</i>., impersonnellement, APHTH. (<i>W. 1, 68</i>) ; CHRYS. <i>2, 110, etc</i>.`

@@ -1,0 +1,1 @@
+lar[108727]=`<b>ικος (ἡ)</b> <font color="purple">[ῐκ]</font> boyau, AR. <i>Eq. 1179 ; d’ord. au pl</i>. tripes, AR. <i>Pax 717 ; Ran. 576 ; fr. 52, 547</i> ; PHÉRÉCR. (ATH. <i>269a</i>) ; EUB. <i>3, 234 Meineke</i>.<p><b>Étym</b>. χολάς.`

@@ -1,0 +1,1 @@
+lar[79573]=`<b>ας (ἡ)</b> éclat tout autour, rayonnement, PLUT. <i>M. 894e</i>.<p><b>Étym</b>. περιφεγγής.`

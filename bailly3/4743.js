@@ -1,0 +1,1 @@
+lar[4743]=`<b>ἀλληλο·τυπία, ας (ἡ)</b> <font color="purple">[ῠ]</font> choc mutuel, DÉMOCR. (STOB. <i>Ecl. 1, 348).</i><p><b>Étym</b>. ἀ. τύπτω.`

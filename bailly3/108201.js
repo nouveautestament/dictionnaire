@@ -1,0 +1,1 @@
+lar[108201]=`<b>ή, όν</b>, qui concerne le travail manuel, d’artisan, PLAT. <i>Ax. 368b ; subst</i>. ὁ χ. artisan, GAL. <i>Protr. 1, 38</i> ; D. CHR. <i>p. 214</i>.<p><b>Étym</b>. χειρῶναξ.`

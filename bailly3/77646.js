@@ -1,0 +1,1 @@
+lar[77646]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font><br><b>      1</b> tentative, essai, effort, DC. <i>36, 37</i>.<br><b>      2</b> essai de corruption, THC. <i>6, 56</i>.<p><b>Étym</b>. πειράω.`

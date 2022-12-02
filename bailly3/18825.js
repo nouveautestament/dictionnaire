@@ -1,0 +1,1 @@
+lar[18825]=`<b>βαθύ·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰυ]</font> à l’esprit profond, aux desseins profonds, PD. <i>N. 7, 1</i> ; PLUT. <i>Sol. 14</i>.<p><b>Étym</b>. β. φρήν.`

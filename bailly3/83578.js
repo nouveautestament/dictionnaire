@@ -1,0 +1,1 @@
+lar[83578]=`<b>προ·ανατάσσω</b>, <i>au moy</i>. mettre au premier rang, CHRYS.`

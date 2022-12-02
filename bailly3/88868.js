@@ -1,0 +1,1 @@
+lar[88868]=`<b>ῥυμβονάω-ῶ</b>, lancer avec la fronde, EL. (SUID.).<p><b>Étym</b>. ῥυμβών.`

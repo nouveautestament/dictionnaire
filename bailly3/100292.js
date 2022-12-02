@@ -1,0 +1,1 @@
+lar[100292]=`<b>τρί·μιτος, ος, ον</b> <font color="purple">[ῐῐ]</font> à trois fils, LYSIPP. (POLL. <i>10, 50</i>) ; DC. <i>77, 7</i> ; ὁ τρίμιτος (<i>s.-e</i>. χιτών) CRAT. (POLL. <i>7, 58</i>) vêtement d’un tissu à trois fils.<p><b>Étym</b>. τρ. μίτος.`

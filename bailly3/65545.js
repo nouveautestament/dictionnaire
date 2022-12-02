@@ -1,0 +1,1 @@
+lar[65545]=`<b>μητρο·δίδακτος, ος, ον</b> <font color="purple">[ῐ]</font> instruit par sa mère, DL. <i>2, 83</i>.<p><b>Étym</b>. μ. διδάσκω.`

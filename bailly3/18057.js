@@ -1,0 +1,1 @@
+lar[18057]=`<b>ας (ἡ)</b> incorruptibilité, pureté, NT. <i>Tit. 2, 7</i> ; NYSS. <i>3, 41d, etc</i>.<p><b>Étym</b>. ἄφθορος.`

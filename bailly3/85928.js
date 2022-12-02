@@ -1,0 +1,1 @@
+lar[85928]=`<b>προσ·καταβαίνω</b> <font color="darkgreen">(<i>f</i>. -καταβήσομαι, <i>ao.2</i> -κατέβην, <i>etc</i>.)</font> descendre en outre <i>ou</i> avec, CÉB. <i>Tab. 16</i> ; ANTH. <i>11, 99</i>.`

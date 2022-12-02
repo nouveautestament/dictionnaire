@@ -1,0 +1,1 @@
+lar[33141]=`<b>ἔμ·βραχυ</b> <font color="purple">[ᾰ]</font> <i>adv</i>., en un mot, brièvement, un peu ; AR. <i>Th. 390</i> ; PLAT. <i>Hipp. mi. 365d</i>.<p><b>Étym</b>. ἐν, βραχύ.`

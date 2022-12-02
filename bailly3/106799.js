@@ -1,0 +1,1 @@
+lar[106799]=`<b>ορος (ὁ)</b> Phrastôr, <i>h</i>. PD. <i>O. 11, 71</i> ; DÉM. <i>Or. 59, 50 etc. Baiter-Sauppe</i>.<p><b>Étym</b>. <i>cf</i>. φράστωρ.`

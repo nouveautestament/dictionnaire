@@ -1,0 +1,1 @@
+lar[70368]=`<b>ῆρος (ὁ) :<br>      1</b> qui établit des habitants dans, fondateur, colonisateur, PD. <i>O. 7, 30, etc.</i> ; ORACL. (HDT. <i>4, 155</i>).<br><b>      2</b> habitant, ESCHL. <i>Sept. 19 vulg. corrigé en</i> οἰκήτηρ.<p><b>Étym</b>. οἰκίζω.`

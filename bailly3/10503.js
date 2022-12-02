@@ -1,0 +1,1 @@
+lar[10503]=`<b>ἀντι·τηρέω-ῶ</b>, observer à son tour, ARR. <i>Epict. 2, 20, 14</i>.`

@@ -1,0 +1,1 @@
+lar[91564]=`<b>ης (ἡ)</b> Soè (<i>litt</i>. l’impétueuse) <i>Ménade,</i> NONN. <i>D. 30, 222</i>.<p><b>Étym</b>. σεύω.`

@@ -1,0 +1,1 @@
+lar[108496]=`<b>ή, όν</b>, qui annonce la neige, TH. <i>fr. 6, 3, 5</i>.<p><b>Étym</b>. χιών.`

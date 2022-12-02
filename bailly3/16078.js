@@ -1,0 +1,1 @@
+lar[16078]=`<font color="purple">[ῑ]</font> <i>adv</i>., sans effort, sans lutte, IL. <i>8, 512 ; 15, 476 ; 22, 304</i>.`

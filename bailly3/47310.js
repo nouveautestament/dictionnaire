@@ -1,0 +1,1 @@
+lar[47310]=`<b>θηρό·βοτος, ος, ον</b>, où paissent les bêtes sauvages, ANTH. <i>9, 4 ; subst</i>. ἡ θ. PHALAR. <i>Ep. 13,</i> pays peuplé de bêtes sauvages.<p><b>Étym</b>. θ. βόσκω.`

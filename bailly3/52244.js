@@ -1,0 +1,1 @@
+lar[52244]=`<b>εως (ἡ) :<br>   I</b> mauvaise opinion de, THC. <i>3, 16</i>.<br><b>   II</b> <i>p. suite</i> :<br><b>      1</b> blâme, reproche, POL. <i>6, 6, 8</i>.<br><b>      2</b> condamnation, THC. <i>3, 82</i> ; DÉM. <i>720, 21</i> ; κ. τοῦ θανάτου, XÉN. <i>Mem. 4, 8, 1,</i> condamnation à mort.<p><b>Étym</b>. καταγιγνώσκω.`

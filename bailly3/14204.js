@@ -1,0 +1,1 @@
+lar[14204]=`<b>ης (ἡ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> chaussure forte pour la chasse, la campagne, <i>etc</i>. ESCHL. <i>Ag. 944 ; fr. 255</i> ; EUR. <i>Or. 140</i>.<br><b>      2</b> <i>p. suite au plur</i>. empreintes faites dans le char et destinées à recevoir les pieds du conducteur, EUR. <i>Hipp. 1189</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

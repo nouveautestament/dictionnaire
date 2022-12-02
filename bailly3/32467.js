@@ -1,0 +1,1 @@
+lar[32467]=`<b>ἐλαιό·πρῳρος, ος, ον</b>, dont la partie antérieure ressemble à un olivier, ARSTT. <i>Phys. 2, 8, 12</i>.<p><b>Étym</b>. ἐλαία, πρῷρα.`

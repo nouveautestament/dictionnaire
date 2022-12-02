@@ -1,0 +1,1 @@
+lar[75418]=`<b>ή, όν</b>, propre à servir de terme de comparaison, CLÉM. <i>Str. p. 804</i>.<p><b>Étym</b>. παραβολή.`

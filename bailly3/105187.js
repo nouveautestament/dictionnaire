@@ -1,0 +1,1 @@
+lar[105187]=`<b>Φερσε·φόνη, ης (ἡ)</b> <i>c</i>. Περσεφόνη, SIM. <i>Epigr. 127</i> ; ANTH. <i>7, 58, etc</i>.<p>➳ <i>Dor</i>. Φερσεφόνα <font color="purple">[ᾱ]</font> SAPPH. <i>fr. 119, 2 Bgk</i> ; PD. <i>O. 14, 21, etc</i>.`

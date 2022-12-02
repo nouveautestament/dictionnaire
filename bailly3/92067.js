@@ -1,0 +1,1 @@
+lar[92067]=`<b>έως (ὁ)</b> <font color="purple">[ᾰ]</font> coureur dans le stade, PD. <i>O. 14, titre, etc</i>. POL. <i>40, 1, 1</i> ; ANTH. <i>9, 557, etc</i>.<p><b>Étym</b>. στάδιον.`

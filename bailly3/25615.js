@@ -1,0 +1,1 @@
+lar[25615]=`<font color="purple">[μᾰ]</font> <i>adv</i>., avec intervalles, par intervalle, NYSS. <i>2, 399a</i>.`

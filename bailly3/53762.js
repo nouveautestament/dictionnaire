@@ -1,0 +1,1 @@
+lar[53762]=`<b>κατα·χρώννυμι</b> <font color="purple">[ῡ]</font><br><b>      1</b> noircir, EUM. <i>121</i>.<br><b>      2</b> salir, tacher, EUR. <i>Hec. 911</i>.`

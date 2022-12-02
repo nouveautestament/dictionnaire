@@ -1,0 +1,1 @@
+lar[47851]=`<b>ου (ὁ)</b> <i>s.-e</i>. λίθος, DIOSC. <i>5, 154,</i> thyite, <i>bois fossile d’Éthiopie</i>.`

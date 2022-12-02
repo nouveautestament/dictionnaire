@@ -1,0 +1,1 @@
+lar[56886]=`<b>α, ον :<br>      1</b> poudreux, PD. <i>N. 9, 102</i>.<br><b>      2</b> qui soulève de la poussière, PAUS. <i>1, 40, 6</i>.<p><b>Étym</b>. κόνις.`

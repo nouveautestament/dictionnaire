@@ -1,0 +1,1 @@
+lar[60526]=`<b>(ὁ)</b> Leukanor, <i>roi du Bosphore,</i> LUC. <i>Tox. 44</i>.`

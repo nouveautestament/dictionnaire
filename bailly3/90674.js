@@ -1,0 +1,1 @@
+lar[90674]=`<b>οῦ (ὁ)</b> saut, bond, élan, <i>en parl. d’un cheval,</i> A.RH. <i>3, 1260</i> ; ARAT. <i>281 ; de cerfs,</i> NIC. <i>Th. 139 ; d’un navire,</i> ANTH. <i>7, 215</i>.<p><b>Étym</b>. σκαίρω.`

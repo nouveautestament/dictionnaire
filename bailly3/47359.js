@@ -1,0 +1,1 @@
+lar[47359]=`<b>ας (ἡ)</b> Thèseia, <i>lieu de Delphes,</i> PLUT. <i>Thes. 5</i>.<p><b>Étym</b>. Θησεύς.`

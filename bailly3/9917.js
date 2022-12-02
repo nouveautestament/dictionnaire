@@ -1,0 +1,1 @@
+lar[9917]=`<b>ἀντι·καταβάλλω</b>, déposer à son tour <i>ou</i> en retour, LIB. <i>4, 800</i>.`

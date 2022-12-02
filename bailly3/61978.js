@@ -1,0 +1,1 @@
+lar[61978]=`<b>ου (τὸ)</b> Lyrkeion, <i>partie nord de la chaîne d’Artémision en Argolide, avec une ville du même nom,</i> SOPH. (STR. <i>271</i>).`

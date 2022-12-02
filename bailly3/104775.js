@@ -1,0 +1,1 @@
+lar[104775]=`<b>φαλλ·αγώγια, ων (τὰ)</b> <font color="purple">[ᾰγ]</font> <i>s.-e</i>. ἱερά, fêtes de Priape où l’on portait l’emblème du phallus, CORN. <i>§ 30</i>.<p><b>Étym</b>. φαλλός, ἄγω.`

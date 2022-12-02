@@ -1,0 +1,1 @@
+lar[3339]=`<b>ἀκηδέω-ῶ</b>, négliger, ne pas prendre soin de, <i>gén</i>. IL. <i>14, 427 ; 23, 70</i> ; ESCHL. <i>Pr. 507, etc</i>.<p>➳ <i>Impf. 2 sg</i>. ἀκήδεις, IL. <i>23, 70. Fut. réc</i>. ἀκηδήσω, Q. SM. <i>10, 29. Ao. poét</i>. ἀκήδεσα, IL. <i>14, 427 ; postér</i>. ἀκήδησα, Q. SM. <i>10, 16 ; 12, 376</i>.<p><b>Étym</b>. ἀκηδής.`

@@ -1,0 +1,1 @@
+lar[56589]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> porté à flatter, <i>ou</i> habile à flatter : ἡ κολακευτική (<i>s.-e</i>. τέχνη) PLAT. <i>Gorg. 464c</i>, l’art de la flatterie.<p>•<i> Cp</i>. -ώτερος, LUC. <i>Cal. 10</i>.<p><b>Étym</b>. κολακεύω.`

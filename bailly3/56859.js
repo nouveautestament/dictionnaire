@@ -1,0 +1,1 @@
+lar[56859]=`<font color="purple">[ῠ]</font> donner un coup de poing sur le visage, HYPÉR. (POLL. <i>8, 76</i>) ; ARISTOX. (DL. <i>2, 21</i>) ; τινά, LIB. <i>4, 240,</i> à qqn.<p><b>Étym</b>. κόνδυλος.`

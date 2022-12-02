@@ -1,0 +1,1 @@
+lar[110295]=`<b>ὠμό·ϋπνος, ος, ον</b>, à peine endormi, <i>litt</i>. dont le sommeil n’est pas encore mûr, EUP. (Ps.-ZONAR. <i>605, v°</i> ἐγερθῆναι) ; PHILSTR. <i>371</i>.`

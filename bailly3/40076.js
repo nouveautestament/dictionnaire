@@ -1,0 +1,1 @@
+lar[40076]=`<b>ἐπ·ωθίζω</b> (<i>seul. prés</i>.) se pousser sur, se heurter à, <i>dat</i>. LUC. <i>Philopatr. 3</i>.`

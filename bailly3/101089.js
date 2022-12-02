@@ -1,0 +1,1 @@
+lar[101089]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font> demeure d’un tyran, STR. <i>614, etc.</i> ; PLUT. <i>Dio. 13, M. 783d ; au plur</i>. DS. <i>16, 70</i> ; PLUT. <i>Tim. 13</i>.<p><b>Étym</b>. τύραννος.`

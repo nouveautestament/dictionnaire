@@ -1,0 +1,1 @@
+lar[97089]=`<b>σχοινο·βάτης, ου (ὁ)</b> <font color="purple">[ᾰ]</font> qui marche <i>ou</i> danse sur la corde, MAN. <i>4, 287</i>.<p><b>Étym</b>. σχοῖνος, βαίνω.`

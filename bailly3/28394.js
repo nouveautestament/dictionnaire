@@ -1,0 +1,1 @@
+lar[28394]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> difficulté d’accès, humeur désagréable, DS. <i>19, 9</i> ; CASS. <i>Probl. 80</i>.<p><b>Étym</b>. δυσέντευκτος.`

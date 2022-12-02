@@ -1,0 +1,1 @@
+lar[101014]=`<b>τυμβο·νόμος, ος, ον</b>, qui habite au milieu des tombeaux, SYN. <i>Hymn. 4, 47</i>.<p><b>Étym</b>. τύμβος, νέμω.`

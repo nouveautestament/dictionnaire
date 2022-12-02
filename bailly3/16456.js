@@ -1,0 +1,1 @@
+lar[16456]=`<b>ἀ·συμπαγής, ής, ές</b> <font color="purple">[πᾰ]</font> non compacte, lâche, LUC. <i>Anach. 24</i>.<p><b>Étym</b>. ἀ, συμπήγνυμι.`

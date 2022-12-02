@@ -1,0 +1,1 @@
+lar[62351]=`<b>ας (ἡ)</b> accoucheuse, sage-femme, SOPH. <i>fr. 86</i> ; GAL. <i>5, 56 ; 7, 522</i>.<p><b>Étym</b>. μαιεύω.`

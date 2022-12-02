@@ -1,0 +1,1 @@
+lar[57826]=`<b>άδος</b> <font color="purple">[ᾰδ]</font> <i>adj. f.</i> :<br><b>      1</b> de source, de fontaine, THCR. <i>Idyl. 1, 22</i>.<br><b>      2</b> <i>subst</i>. ἡ κρ. source, fontaine, ANTH. <i>7, 55</i>.<p>➳ <i>Dor. plur. gén</i>. κρανιάδων <font color="purple">[ᾱν]</font> THCR. <i>Idyl. l. c</i>.<p><b>Étym</b>. κρήνη.`

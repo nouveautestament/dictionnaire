@@ -1,0 +1,1 @@
+lar[25382]=`<b>δια·πτερόω-ῶ</b> <font color="darkgreen">(<i>ao. opt. 3 sg</i>. -ώσειε)</font> nettoyer avec une plume <i>ou</i> comme avec une plume, HPC. <i>393, 48</i>.`

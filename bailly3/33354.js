@@ -1,0 +1,1 @@
+lar[33354]=`<b>ου (ὁ)</b> Empédias, <i>Lacédémonien,</i> THC. <i>5, 19 et 24</i>.`

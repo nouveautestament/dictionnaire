@@ -1,0 +1,1 @@
+lar[99351]=`<b>Τιτανό·πανες, ων (οἱ)</b> <font color="purple">[ῑᾱᾱ]</font> les Pans-Titans, <i>titre d’une pièce de Myrtile le comique,</i> SUID. <i>v°</i> Μυρτίλος.<p><b>Étym</b>. Τ. Πάν.`

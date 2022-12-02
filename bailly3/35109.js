@@ -1,0 +1,1 @@
+lar[35109]=`<i>adv</i>., comme au tour, <i>càd</i>. avec une mobilité <i>ou</i> une aisance parfaite, <i>en parl. d’un mécanisme,</i> HÉRON <i>Aut. 267</i>.`

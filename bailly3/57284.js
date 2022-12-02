@@ -1,0 +1,1 @@
+lar[57284]=`<b>κοσμοποιέω-ῶ</b>, créer le monde, PLUT. <i>M. 719c, etc. ; en parl. des hypothèses des philosophes,</i> ARSTT. <i>Cæl. 3, 3, etc.</i> ; PLUT. <i>M. 888f</i>.<p><b>Étym</b>. κοσμοποιός.`

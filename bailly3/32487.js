@@ -1,0 +1,1 @@
+lar[32487]=`<b>ἐλαιόω-ῶ</b> (<i>seul. pass</i>.) :<br><b>      1</b> être huilé, ARSTT. <i>H.A. 8, 27, 3</i>.<br><b>      2</b> briller comme l’huile, PD. <i>fr. 274</i> ; SOPH. <i>fr. 556</i>.<p><b>Étym</b>. ἔλαιον.`

@@ -1,0 +1,1 @@
+lar[39267]=`<b>ἐπι·σφακελίζω</b> <font color="purple">[ᾰ]</font> se gangrener à la surface, HPC. <i>Art. 790</i> ; ARÉT. <i>p. 59</i>.`

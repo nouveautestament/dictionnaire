@@ -1,0 +1,1 @@
+lar[61901]=`<b>λυκο·ρραίστης, ου (ὁ)</b> <font color="purple">[ῠ]</font> tueur de loups, ANTH. <i>7, 44</i>.<p><b>Étym</b>. λύκος, ῥαίω.`

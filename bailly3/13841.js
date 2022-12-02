@@ -1,0 +1,1 @@
+lar[13841]=`<b>εως (ἡ)</b> action d’enlever en frottant <i>ou</i> en essuyant, P. ÉG. <i>p. 137, 49</i>.<p><b>Étym</b>. ἀποψήχω.`

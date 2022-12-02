@@ -1,0 +1,1 @@
+lar[59340]=`<b>ου (ὁ)</b> = <i>lat</i>. Lavinius, <i>n. d’h. rom</i>. PLUT. <i>Pyrrh. 16</i>.`

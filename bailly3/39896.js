@@ -1,0 +1,1 @@
+lar[39896]=`<b>ή, όν</b>, propre à cicatriser, <i>gén</i>. GAL. <i>14, 784</i> ; DIOSC. <i>1, 180</i>.<p><b>Étym</b>. ἐπουλόω.`

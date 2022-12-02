@@ -1,0 +1,1 @@
+lar[55007]=`<b>κερουτιάω-ῶ</b>, dresser ses cornes, <i>d’où</i> être orgueilleux, AR. <i>Eq. 1344</i>.`

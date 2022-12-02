@@ -1,0 +1,1 @@
+lar[60143]=`<b>λειουργέω-ῶ</b>, rendre lisse, lisser, aplanir, CLÉM. <i>261</i>.<p><b>Étym</b>. λεῖος, ἔργον.`

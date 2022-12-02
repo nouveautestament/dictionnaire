@@ -1,0 +1,1 @@
+lar[101479]=`(<i>seul. prés</i>.) <font color="purple">[ῠ]</font> <i>épq. c</i>. ὑδέω, CALL. <i>Jov. 76</i>.`

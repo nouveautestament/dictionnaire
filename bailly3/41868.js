@@ -1,0 +1,1 @@
+lar[41868]=`<i>adv</i>., de manière à se laisser fléchir, avec indulgence, PLUT. <i>Cæs. 54</i>.`

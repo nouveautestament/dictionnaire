@@ -1,0 +1,1 @@
+lar[48276]=`<b>ωνος (ὁ)</b> <font color="purple">[ῑᾰῐ]</font> Iasiôn, <i>h</i>. OD. <i>5, 125</i> ; THCR. <i>Idyl. 3, 50</i>.`

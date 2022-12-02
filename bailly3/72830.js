@@ -1,0 +1,1 @@
+lar[72830]=`<b>ος, ον</b>, délimité, défini, DIOPH. <i>Ar. 1, def. 2</i>.<p><b>Étym</b>. ὅρισμα.`

@@ -1,0 +1,1 @@
+lar[7659]=`<i>ion</i>. <b>Ἀναστασίη, ης (ἡ)</b> <font color="purple">[τᾰ]</font> Anastasiè (Anastasie) <i>f</i>. ANTH. <i>7, 600, etc</i>.<p><b>Étym</b>. <i>fém. de</i> Ἀναστάσιος.`

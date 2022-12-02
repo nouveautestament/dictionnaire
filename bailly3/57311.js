@@ -1,0 +1,1 @@
+lar[57311]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> racine du costus, STR. <i>784</i>.<p><b>Étym</b>. κόστος.`

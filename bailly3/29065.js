@@ -1,0 +1,1 @@
+lar[29065]=`<b>α, ον</b> <font color="purple">[ῠᾰ]</font> <i>poét. c</i>. δωδεκαταῖος, HÉS. <i>O. 749</i>.`

@@ -1,0 +1,1 @@
+lar[46318]=`<i>ion. et anc. att</i>. <b>θαρσούντως</b>, <i>adv</i>., avec confiance <i>ou</i> hardiesse, DC. <i>53, 3</i>.<p>➳ θαρρ. XÉN. <i>Conv. 2, 10</i>.<p><b>Étym</b>. θαρρέω.`

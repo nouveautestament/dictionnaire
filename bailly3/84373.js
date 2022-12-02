@@ -1,0 +1,1 @@
+lar[84373]=`<b>α, ον</b> <font color="purple">[ῠῐδ]</font> <i>c</i>. προθύραιος SEXT. <i>M. 9, 185 vulg</i>.`

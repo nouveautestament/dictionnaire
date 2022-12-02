@@ -1,0 +1,1 @@
+lar[96831]=`<i>encl. pron. de la 3<sup>e</sup> pers. épq. et ion. seul. à l’acc. sg., pl. et duel, v</i>. σφε-.`

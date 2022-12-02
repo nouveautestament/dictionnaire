@@ -1,0 +1,1 @@
+lar[14818]=`<b>ἀρκ·όφθαλμον, ου (τὸ)</b> œil d’ours, <i>autre nom de la plante</i> χρυσόγονον, DIOSC. <i>4, 56</i>.<p><b>Étym</b>. ἄρκος¹, ὀφθαλμός.`

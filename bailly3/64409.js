@@ -1,0 +1,1 @@
+lar[64409]=`<b>οῦ (ὁ)</b> sorte de faucon, EL. <i>N.A. 12, 4</i>.`

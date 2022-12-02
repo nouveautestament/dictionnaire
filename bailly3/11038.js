@@ -1,0 +1,1 @@
+lar[11038]=`<i>adv</i>., sans emportement, ARR. <i>Epict. 3, 18, 6</i>.`

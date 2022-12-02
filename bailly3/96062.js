@@ -1,0 +1,1 @@
+lar[96062]=`<b>συν·νεφής, ής, ές</b>, couvert de nuages, nuageux, sombre (<i>ciel,</i> TH. <i>Vent. 2 ; nuit,</i> POL. <i>9, 15, 12 : 9, 16, 3 ; jour,</i> DS. <i>5, 25, etc.</i> ; PLUT. <i>Syll. 38) ; fig</i>. triste, sombre, EUR. <i>Ph. 1307</i> ; ARSTT. <i>Physiogn. 6, 29</i> ; ANTH. <i>12, 159, etc</i>.<p><b>Étym</b>. σύν, νέφος.`

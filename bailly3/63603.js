@@ -1,0 +1,1 @@
+lar[63603]=`<b>ης (ἡ)</b> négligence, nonchalance, IL. <i>13, 121 ; au pl</i>. IL. <i>13, 108</i>.<p><b>Étym</b>. μεθήμων.`

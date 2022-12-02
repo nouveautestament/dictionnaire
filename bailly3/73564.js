@@ -1,0 +1,1 @@
+lar[73564]=`<b>οὐλο·ποίησις, εως (ἡ)</b> action de faire friser, GAL.<p><b>Étym</b>. οὖλος², ποιέω.`

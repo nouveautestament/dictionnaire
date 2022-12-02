@@ -1,0 +1,1 @@
+lar[28271]=`<b>δυσ·γενής, ής, ές :<br>      1</b> de basse naissance, EUR. <i>Ion 1477</i> ; AR. <i>Ran. 1219</i> ; ARSTT. <i>Nic. 1, 9</i> ; POL. <i>1, 6</i>.<br><b>      2</b> <i>fig</i>. de sentiments bas, EUR. <i>El. 363, Hel. 1275</i>.<p><b>Étym</b>. δ. γένος.`

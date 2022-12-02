@@ -1,0 +1,1 @@
+lar[51085]=`<b>Καλλί·βιος, ου (ὁ)</b> <font color="purple">[ῐβ]</font> Kallibios, <i>h</i>. XÉN. <i>Hell. 2, 3, 14, etc</i>.<p><b>Étym</b>. κ. βίος.`

@@ -1,0 +1,1 @@
+lar[7947]=`<i>adv</i>., en anachorète, NAZ. <i>3, 172 Migne</i>.`

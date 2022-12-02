@@ -1,0 +1,1 @@
+lar[14063]=`<b>(ὁ)</b> <i>seul. acc</i>. ῦν, <i>t. enfantin,</i> papa, THCR. <i>Idyl. 15, 15</i>.`

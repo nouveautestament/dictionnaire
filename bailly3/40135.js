@@ -1,0 +1,1 @@
+lar[40135]=`<b>Ἐρασί·ξενος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Érasixénos, <i>h</i>. ANTH. <i>7, 454</i> ; POLÉM. (ATH. <i>436d</i>) ; EL. <i>V.H. 2, 41</i>.<p><b>Étym</b>. ἐράω, ξένος.`

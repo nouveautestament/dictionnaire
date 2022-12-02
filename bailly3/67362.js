@@ -1,0 +1,1 @@
+lar[67362]=`<b>ου (ὁ)</b> Myrsos :<br><b>      1</b> <i>père de Candaule,</i> HDT. <i>1, 7</i>.<br><b>      2</b> <i>fils de Gygès,</i> HDT. <i>3, 122 ; 5, 121</i>.<br><b>      3</b> <i>autre,</i> NONN. <i>D. 26, 256</i>.`

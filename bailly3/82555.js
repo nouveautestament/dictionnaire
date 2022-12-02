@@ -1,0 +1,1 @@
+lar[82555]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> multitude de bras, <i>càd</i>. d’ouvriers <i>ou</i> de personnes, THC. <i>2, 77</i> ; XÉN. <i>Cyr. 3, 3, 26</i> ; ARSTT. <i>Mund. 6, 14, etc</i>.<p><b>Étym</b>. πολύχειρ.`

@@ -1,0 +1,1 @@
+lar[85450]=`<b>ος, ον</b>, attendu, ESCHL. <i>Pr. 935</i>.<p><b>Étym</b>. <i>vb. de</i> προσδοκάω.`

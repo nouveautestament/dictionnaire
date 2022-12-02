@@ -1,0 +1,1 @@
+lar[96475]=`<b>ας (ἡ)</b> <font color="purple">[τᾰ]</font> <i>c</i>. συοκτονία ANTH. <i>7, 421, 12</i>.`

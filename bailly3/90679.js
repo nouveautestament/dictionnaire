@@ -1,0 +1,1 @@
+lar[90679]=`<b>σκαρο·λάχανον, ου (τὸ)</b> <font color="purple">[ᾰᾰᾰ]</font> mercuriale mâle, <i>plante,</i> GEOP. <i>c. 140, 149</i> ; NICOL. MYREPS. <i>8, 71</i>.`

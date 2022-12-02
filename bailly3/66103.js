@@ -1,0 +1,1 @@
+lar[66103]=`<b>ου (ὁ)</b> Mitradatès, <i>Perse,</i> HDT. <i>1, 110, 121</i>.`

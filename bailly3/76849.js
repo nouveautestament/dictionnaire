@@ -1,0 +1,1 @@
+lar[76849]=`<b>παρ·ηδύνω</b>, rendre légèrement doux, édulcorer, DORION (ATH. <i>309f</i>) ; <i>fig</i>. DH. <i>Dem. 45</i>.`

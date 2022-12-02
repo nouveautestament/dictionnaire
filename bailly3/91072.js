@@ -1,0 +1,1 @@
+lar[91072]=`<b>σκολιό·γραπτος, ος, ον</b>, aux lignes obliques, sinueuses, ARSTT. (ATH. <i>286f</i>).<p><b>Étym</b>. σκ. γράφω.`

@@ -1,0 +1,1 @@
+lar[71052]=`<b>ὀλιγό·σιτος, ος, ον</b> <font color="purple">[ῐῑ]</font> qui mange peu, PHÉRÉCR. (ATH. <i>248c</i>).<p><b>Étym</b>. ὀλ. σῖτος.`

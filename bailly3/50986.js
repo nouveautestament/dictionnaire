@@ -1,0 +1,1 @@
+lar[50986]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰ]</font> petit chalumeau dont on se servait pour infuser un liquide, AR. <i>Ach. 1033</i> ; GAL. <i>5, 359</i> ; GEOP. <i>20, 24</i>.<p><b>Étym</b>. κάλαμος.`

@@ -1,0 +1,1 @@
+lar[78091]=`<b>πεντε·και·τριακοντούτης, ου</b> <font color="purple">[ᾱκ]</font> <i>adj. m</i>. âgé de trente-cinq ans, PLAT. <i>Leg. 774a</i>.<p><b>Étym</b>. π. κ. τριάκοντα, ἔτος.`

@@ -1,0 +1,1 @@
+lar[88581]=`<font color="purple">[ᾰ]</font> <i>adv</i>., rapidement, vivement, IL. <i>6, 511 ; 8, 54 ; 13, 30 ; 22, 163, etc.</i> ; HÉS. <i>Sc. 342</i> ; PD. <i>I. 2, 5</i> ; ESCHL. <i>Ag. 407</i> ; A.RH. <i>1, 137, 1194</i>.<p><b>Étym</b>. <i>incert</i>.`

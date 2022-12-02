@@ -1,0 +1,1 @@
+lar[109258]=`<b>χρυσο·σάνδαλος, ος, ον</b> <font color="purple">[ῡδᾰ]</font> aux sandales d’or, PORPH. (EUS. <i>P.E. 113c</i>).<p><b>Étym</b>. χρ. σάνδαλον.`

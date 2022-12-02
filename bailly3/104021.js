@@ -1,0 +1,1 @@
+lar[104021]=`<b>ὑπο·τρέπομαι</b> <font color="darkgreen">(<i>ao.2</i> ὑπετράπην)</font> retourner, revenir sur ses pas, revenir, PLUT. <i>M. 77e ;</i> OPP. <i>H. 3, 516</i>.<p><b>Étym</b>. ὑ. τρέπω.`

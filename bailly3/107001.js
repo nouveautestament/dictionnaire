@@ -1,0 +1,1 @@
+lar[107001]=`<b>φρυνο·λόχος, ος, ον</b> <font color="purple">[ῡ]</font> qui tend des pièges aux crapauds, ARSTT. <i>H.A. 9, 36, dout. ; sel. Bkk</i>. φρυνολόγος, qui ramasse <i>ou</i> enlève les crapauds.<p><b>Étym</b>. φρῦνος, λόχος <i>ou</i> λέγω.`

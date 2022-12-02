@@ -1,0 +1,1 @@
+lar[69301]=`<i>adv</i>., paresseusement, lentement, <i>seul</i>. <i>• Sup</i>. νωθέστατα, DC. <i>59, 4</i>.<p><b>Étym</b>. νωθής.`

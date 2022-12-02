@@ -1,0 +1,1 @@
+lar[76272]=`<b>ατος (τὸ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> <i>t. de philos. stoïc</i>. accident qui résulte d’un autre, CHRYSIPP. (LUC. <i>V. auct. 21</i>).<br><b>      2</b> <i>t. de gr</i>. construction avec un verbe impersonnel, DYSC. <i>Pron. 406, etc</i>.`

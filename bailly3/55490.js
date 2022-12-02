@@ -1,0 +1,1 @@
+lar[55490]=`<b>ου (ἡ)</b> Kinaros (<i>auj</i>. Kínaros) <i>î. de la mer Égée,</i> PLUT. <i>Exil. 8, etc</i>.`

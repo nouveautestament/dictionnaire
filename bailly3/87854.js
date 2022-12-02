@@ -1,0 +1,1 @@
+lar[87854]=`<b>πυρί·βρομος, ος, ον</b> <font color="purple">[ῠ]</font> au feu frémissant, ORPH. <i>H. 19, 2 ; 57, 2</i>.<p><b>Étym</b>. π. βρέμω.`

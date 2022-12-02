@@ -1,0 +1,1 @@
+lar[104186]=`<b>ὑπο·χρωματίζω</b> <font color="purple">[ᾰ]</font> esquisser avec de la couleur, EUM. <i>2, 6</i>.`

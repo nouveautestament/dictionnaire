@@ -1,0 +1,1 @@
+lar[43953]=`<b>*ἐφ·ελίσσω</b>, <i>seul. ion</i>. <b>ἐπ·ελίσσω</b>, rouler sur, P. SIL. <i>Ecphr. ag. Soph. 368 ; au pass</i>. PAUS. <i>4, 26, 8</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NIC. <i>Th. 220</i>.`

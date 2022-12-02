@@ -1,0 +1,1 @@
+lar[104185]=`<b>ὑπό·χρυσος, ος, ον</b> <font color="purple">[ῡσ]</font><br><b>      1</b> qui contient de l’or, <i>fig</i>. PLAT. <i>Rsp. 415c.</i><br><b>      2</b> couvert d’or, très riche, LUC. <i>Tox. 16</i> ; HLD. <i>2, 8</i>.<br><b>      3</b> qui a la couleur de l’or, PHILSTR. <i>809</i>.<p><b>Étym</b>. ὑ. χρυσός.`

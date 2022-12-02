@@ -1,0 +1,1 @@
+lar[39695]=`<b>ἐπι·χηρεύω</b>, continuer à rester veuve, JOS. <i>A.J. 20, 7, 3</i>.`

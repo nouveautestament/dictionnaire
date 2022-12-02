@@ -1,0 +1,1 @@
+lar[55541]=`(<i>seul. impf. pass</i>. ἐκινυσσόμην) <font color="purple">[ῑ]</font> être agité, ballotté, ESCHL. <i>Ch. 196</i>.<p><b>Étym</b>. κινέω.`

@@ -1,0 +1,1 @@
+lar[84151]=`<b>προ·ενδημέω-ῶ :<br>      1</b> vivre depuis longtemps dans un pays, EN. TACT. <i>Pol. 29</i>.<br><b>      2</b> <i>p. suite,</i> être habitué à, familiarisé avec, <i>dat</i>. POSIDON. (GAL. <i>5, 151</i>).`

@@ -1,0 +1,1 @@
+lar[68388]=`<b>νευρο·σύμφορος, ος, ον</b>, qui affecte les nerfs, CHRYS. <i>7, 498</i>.<p><b>Étym</b>. ν. συμφορά.`

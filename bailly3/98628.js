@@ -1,0 +1,1 @@
+lar[98628]=`<b>τετρά·πεδος, ος, ον</b> <font color="purple">[ᾰ]</font> à quatre faces, carré, DS. <i>20, 95</i> ; ARR. <i>An. 6, 29</i> ; HDN <i>8, 4</i>.<p><b>Étym</b>. τ. πέδον.`

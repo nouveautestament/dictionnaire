@@ -1,0 +1,1 @@
+lar[104441]=`<b>ὑψ·ηγόρος, ος, ον :<br>      1</b> qui a le verbe haut, hautain, fier, ESCHL. <i>Pr. 318</i>.<br><b>      2</b> sublime, PHIL. <i>1, 473</i>.<p><b>Étym</b>. ὕ. ἀγορεύω.`

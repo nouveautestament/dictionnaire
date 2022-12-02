@@ -1,0 +1,1 @@
+lar[105694]=`<b>ας (ἡ)</b> sorte d’arbrisseau, DIOSC. <i>1, 125</i>.`

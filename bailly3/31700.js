@@ -1,0 +1,1 @@
+lar[31700]=`<b>ἐκ·μυκτηρίζω</b>, tourner en dérision, SPT. <i>Ps. 2, 4 ; 34, 16</i> ; NT. <i>Luc. 16, 14 ; 23, 25</i>.`

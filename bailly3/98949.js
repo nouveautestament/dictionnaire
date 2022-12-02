@@ -1,0 +1,1 @@
+lar[98949]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> le fils de Tèléphos, <i>càd</i>. Eurypylos, OD. <i>11, 519, etc</i>.<p>➳ <i>Gén. épq</i>. -αο, Q. SM. <i>6, 406, etc</i>.<p><b>Étym</b>. <i>patr. de</i> Τήλεφος.`

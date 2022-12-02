@@ -1,0 +1,1 @@
+lar[103596]=`<b>ὑπο·νήφω</b>, être presque à jeun, JOS. <i>B.J. 5, 6, 1</i>.`

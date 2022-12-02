@@ -1,0 +1,1 @@
+lar[108649]=`<font color="purple">[ᾰ]</font> fondre un métal, verser un métal en fusion, AR. <i>Th. 57, 62</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. PAUS. <i>8, 14, 8</i>.<p><b>Étym</b>. χόανος.`

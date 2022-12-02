@@ -1,0 +1,1 @@
+lar[64036]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> millet, <i>graine,</i> HDT. <i>3, 117</i> ; SOPH. <i>fr. 534</i>.<br><b>      2</b> <i>au plur</i>. champs de millet, XÉN. <i>An. 2, 4, 13</i> ; DÉM. <i>100, 30</i>.`

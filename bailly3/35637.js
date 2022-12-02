@@ -1,0 +1,1 @@
+lar[35637]=`<b>ἑξα·σύλλαβος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> composé de six syllabes, A. QUINT. <i>p. 49, 55</i> ; SCH.-AR. <i>Av. 737</i>.<p><b>Étym</b>. ἕξ, συλλαβή.`

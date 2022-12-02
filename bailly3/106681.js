@@ -1,0 +1,1 @@
+lar[106681]=`<b>ή, όν</b> <font color="purple">[ῐ]</font> propre à produire, fécond, CLÉM. <i>672</i>.<p><b>Étym</b>. φορά.`

@@ -1,0 +1,1 @@
+lar[38483]=`<b>ἐπι·μύθιον, ου (τὸ)</b> <font color="purple">[ῡ]</font> affabulation, morale d’une fable <i>ou</i> d’un récit, LUC. <i>Bacch. 8</i>.<p><b>Étym</b>. ἐπί, μῦθος.`

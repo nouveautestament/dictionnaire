@@ -1,0 +1,1 @@
+lar[8491]=`<b>ή, όν</b>, non apte à s’instruire, ARSTT. <i>Eud. 2, 3, 1</i>.`

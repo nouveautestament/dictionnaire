@@ -1,0 +1,1 @@
+lar[41686]=`<b>εὐ·βάστακτος, ος, ον :<br>      1</b> facile à porter, HDT. <i>2, 125</i>.<br><b>      2</b> facile à supporter, HPC. <i>Fract. 772 ; fig</i>. ARSTT. <i>Rhet. 1, 12, 34</i> ; POL. <i>1, 9, 8</i>.<p><b>Étym</b>. εὖ, βαστάζω.`

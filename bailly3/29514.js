@@ -1,0 +1,1 @@
+lar[29514]=`<b>ἐγ·καταδαρθάνω</b> (<i>seul. part. prés</i>.) :<br><b>      1</b> dormir dans, <i>dat</i>. PLUT. <i>M. 647f.</i><br><b>      2</b> s’endormir sur, <i>càd</i>. au milieu de <i>ou</i> pendant, <i>dat</i>. PLUT. <i>M. 688e</i>.<p><b>Étym</b>. ἐν, κ.`

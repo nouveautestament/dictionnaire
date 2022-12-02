@@ -1,0 +1,1 @@
+lar[6967]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> gargarisme, ARÉT. <i>87, 53</i> ; P. ÉG. <i>3, 18</i>.`

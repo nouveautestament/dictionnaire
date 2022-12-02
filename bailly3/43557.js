@@ -1,0 +1,1 @@
+lar[43557]=`<b>ατος (τὸ)</b> bonne tenue, STOB. <i>Ecl. 2, 192</i>.<p><b>Étym</b>. εὐτακτέω.`

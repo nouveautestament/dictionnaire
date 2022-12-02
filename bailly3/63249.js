@@ -1,0 +1,1 @@
+lar[63249]=`<b>ου (ἡ)</b> Belliqueuse, <i>n. de v. fabuleux,</i> EL. <i>V.H. 3, 18</i>.<p><b>Étym</b>. <i>v</i>. μάχιμος.`

@@ -1,0 +1,1 @@
+lar[95710]=`<b>συν·εποκέλλω</b>, aborder ensemble, PLUT. <i>M. 161a</i>.`

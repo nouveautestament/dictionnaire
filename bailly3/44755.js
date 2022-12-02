@@ -1,0 +1,1 @@
+lar[44755]=`<b>ζῳο·θυσία, ας (ἡ)</b> <font color="purple">[ῠ]</font> sacrifice d’animaux, BAS. <i>3, 168</i> ; NYSS. <i>3, 1024 Migne</i>.<p><b>Étym</b>. ζῷον, θυσία.`

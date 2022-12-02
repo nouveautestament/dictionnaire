@@ -1,0 +1,1 @@
+lar[104512]=`<b>ὑψι·μέδων, οντος</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. qui domine en haut, <i>càd</i>. dans le ciel <i>ou</i> dans les airs, <i>ép. de Zeus,</i> HÉS. <i>Th. 529</i> ; BACCHYL. <i>15, 51</i> ; AR. <i>Nub. 563 ; et du Parnasse,</i> PD. <i>N. 2, 29</i>.<p><b>Étym</b>. ὕ. μέδων.`

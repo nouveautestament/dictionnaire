@@ -1,0 +1,1 @@
+lar[20619]=`<b>βραδυ·θάνατος, ος, ον</b> <font color="purple">[ᾰῠᾰᾰ]</font> qui meurt lentement, GAL. <i>8, 738</i>.`

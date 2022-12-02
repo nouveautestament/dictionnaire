@@ -1,0 +1,1 @@
+lar[82367]=`<b>πολύ·σκιος, ος, ον</b>, très ombragé, très ombreux, XÉN. <i>Cyn. 5, 9</i> ; HPC. <i>530, 11</i> ; A.RH. <i>4, 166</i>.<p><b>Étym</b>. π. σκιά.`

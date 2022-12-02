@@ -1,0 +1,1 @@
+lar[77848]=`<b>οῦ (ὁ)</b> peltaste, <i>soldat d’infanterie légère armé du bouclier</i> πέλτη, EUR. <i>Rhes. 311</i> ; THC. <i>2, 29</i> ; XÉN. <i>Cyr. 2, 1, 5</i>.<p><b>Étym</b>. πελτάζω.`

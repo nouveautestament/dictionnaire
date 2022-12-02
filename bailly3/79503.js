@@ -1,0 +1,1 @@
+lar[79503]=`<b>ος, ον</b>, recouvert d’une peau tendue, DH. <i>4, 58</i>.<p><b>Étym</b>. περιτείνω.`

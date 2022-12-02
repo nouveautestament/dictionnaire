@@ -1,0 +1,1 @@
+lar[73306]=`<b>η, ον</b> <font color="purple">[ᾰῐ]</font><br><b>      1</b> de terre cuite, HPC. <i>576, 45</i> ; ANTH. <i>7, 645, etc.</i><br><b>      2</b> semblable à de la vaisselle de terre, LUC. <i>Lex. 6</i>.<p><b>Étym</b>. ὄστρακον.`

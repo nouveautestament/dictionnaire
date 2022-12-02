@@ -1,0 +1,1 @@
+lar[40703]=`<b>ή, όν</b>, qui rampe, rampant, ARSTT. <i>H.A. 1, 1, 29 ; P.A. 4, 10, 31</i>.<p><b>Étym</b>. ἑρπύζω.`

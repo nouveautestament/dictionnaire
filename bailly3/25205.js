@@ -1,0 +1,1 @@
+lar[25205]=`<b>δια·παρθένια δῶρα (τὰ)</b> présents de noces à une jeune fille, AMPH. (POLL. <i>3, 36</i>).`

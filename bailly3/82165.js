@@ -1,0 +1,1 @@
+lar[82165]=`<b>πολύ·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῠ]</font> plein d’intelligence, de bon sens, PORPH. <i>V. Plot. 64, 6, etc.</i> ; HIÉROCL. <i>C. aur. 480 Mullach etc</i>.<p><b>Étym</b>. π. νόος.`

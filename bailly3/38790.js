@@ -1,0 +1,1 @@
+lar[38790]=`<b>ἐπι·ποτάομαι-ῶμαι</b>, voler sur, <i>dat</i>. DIOSC. <i>5, 85 ; acc</i>. PHIL. <i>2, 200</i>.`

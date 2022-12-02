@@ -1,0 +1,1 @@
+lar[88317]=`<b>ῥαφανιδόω-ῶ</b> <font color="purple">[ᾰᾰῑ]</font> enfoncer une rave dans le fondement, <i>châtiment des adultères, à Athènes,</i> AR. <i>Nub. 1083</i>.<p><b>Étym</b>. ῥαφανίς.`

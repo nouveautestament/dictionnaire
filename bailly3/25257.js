@@ -1,0 +1,1 @@
+lar[25257]=`<b>δια·πηδάω-ῶ :<br>      1</b> franchir d’un bond, <i>acc</i>. XÉN. <i>Eq. 3, 7</i> ; AR. <i>Ach. 1178</i>.<br><b>      2</b> <i>abs</i>. se précipiter en bondissant, XÉN. <i>Cyr. 1, 4, 8</i>.<br><b>      3</b> pénétrer rapidement à travers, HPC. <i>241, 44</i>.<p><b>Étym</b>. <i>opt. 3 sg</i>. -πηδῴη.`

@@ -1,0 +1,1 @@
+lar[11188]=`<b>ἀπ·αλλότριος, ος, ον</b>, qui passe en d’autres mains, DS. <i>11, 76</i>.<p>•<i> Sup</i>. -ώτατος, ORIG. <i>3, 422 dout</i>.`

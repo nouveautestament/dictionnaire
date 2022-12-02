@@ -1,0 +1,1 @@
+lar[6193]=`<b>ος, ον</b>, baigné tout autour, SOPH. <i>Tr. 752</i>.<p><b>Étym</b>. ἀμφικλύζω.`

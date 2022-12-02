@@ -1,0 +1,1 @@
+lar[16350]=`<b>α, ον</b>, des astres, qui concerne les astres, ANTH. <i>9, 400 et 505</i>.<p><b>Étym</b>. ἄστρον.`

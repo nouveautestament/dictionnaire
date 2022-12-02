@@ -1,0 +1,1 @@
+lar[81659]=`<b>πολλο·δεκάκις</b> <font color="purple">[ᾰ]</font> <i>adv</i>., en multipliant plusieurs fois par dix, <i>càd</i>. un grand nombre de fois, AR. <i>Pax 243</i>.<p><b>Étym</b>. πολύς, δ.`

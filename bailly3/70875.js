@@ -1,0 +1,1 @@
+lar[70875]=`<b>ὀκτω·και·δεκάκις</b>, <i>adv</i>., dix-huit fois, THEOL. <i>p. 64</i>.<p><b>Étym</b>. ὀ. κ. δ.`

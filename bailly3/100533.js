@@ -1,0 +1,1 @@
+lar[100533]=`<b>τριταιο·γενής, ής, ές</b> <font color="purple">[ῐ]</font> engendré par la fièvre tierce <i>ou</i> qui accompagne la fièvre tierce, HPC. <i>Coac. 135</i>.<p><b>Étym</b>. τριταῖος, γένος.`

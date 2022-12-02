@@ -1,0 +1,1 @@
+lar[105459]=`<b>φιλ·αλήθης, ης, ες</b> <font color="purple">[ῐᾰ]</font> ami de la vérité, ARSTT. <i>Nic. 4, 7, 8</i> ; DS. <i>1, 17, 76</i> ; PLUT. <i>Mar. 28, M. 39c ;</i> LUC. <i>Pisc. 20 ; en parl. d’une classe de philosophes,</i> DL. <i>1, 17</i>.<p>•<i> Sup</i>. -έστατος, ATH. <i>588a</i>.<p><b>Étym</b>. φ. ἀληθής.`

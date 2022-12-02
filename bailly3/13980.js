@@ -1,0 +1,1 @@
+lar[13980]=`<b>ἀ·προσποιήτως</b>, <i>adv</i>., sans feinte, DS. <i>Exc. 93</i>.`

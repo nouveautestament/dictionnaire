@@ -1,0 +1,1 @@
+lar[108075]=`<b>ου (τὸ)</b> Kheimérion, <i>promont. et port de Thesprôtie en Épire,</i> THC. <i>1, 30, 46</i>.<p><b>Étym</b>. <i>cf</i>. χειμέριος.`

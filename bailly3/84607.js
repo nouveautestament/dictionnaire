@@ -1,0 +1,1 @@
+lar[84607]=`<b>πρό·κριτος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> préféré, choisi, PLAT. <i>Rsp. 537d, Leg. 945b ;</i> ARSTT. <i>Pol. 4, 14, 10 ; avec</i> ἤ, ANTH. <i>5, 258</i>.<br><b>      2</b> <i>subst</i>. ὁ πρ. τῆς βουλῆς, τῆς γερουσίας = <i>lat</i>. princeps senatus, DC. <i>46, 20 ; 53, 1</i>.<p><b>Étym</b>. προκρίνω.`

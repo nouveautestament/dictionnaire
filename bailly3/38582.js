@@ -1,0 +1,1 @@
+lar[38582]=`<b>ἐπι·ξυνόω-ῶ</b> <font color="purple">[ῡ]</font> mettre en commun, communiquer, NONN. <i>D. 26, 290</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. A.RH. <i>3, 1162 ; 4, 435</i>.`

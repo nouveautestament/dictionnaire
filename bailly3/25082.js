@@ -1,0 +1,1 @@
+lar[25082]=`<b>Δι·αμπερές (τὸ)</b> <i>litt</i>. le Passage, <i>n. d’une porte d’Argos,</i> PLUT. <i>Pyrrh. 32</i>.<p><b>Étym</b>. <i>v</i>. διαμπερής.`

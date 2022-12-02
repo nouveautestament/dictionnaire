@@ -1,0 +1,1 @@
+lar[57648]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> domination, puissance, SPT. <i>Sap. 6, 3</i> ; JOS. <i>c. Ap. 1, 28, p. 461 Hav</i>.<p><b>Étym</b>. κρατέω.`

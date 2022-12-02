@@ -1,0 +1,1 @@
+lar[39803]=`<b>ἐπ·οίκιον, ου (τὸ) :<br>      1</b> cabane, SPT. <i>Lev. 25, 31</i>.<br><b>      2</b> village, bourg, STR. <i>499</i>.<p><b>Étym</b>. ἐπί, οἶκος.`

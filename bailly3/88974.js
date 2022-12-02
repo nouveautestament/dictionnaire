@@ -1,0 +1,1 @@
+lar[88974]=`<b>ή, όν</b> (<i>seul. cp</i>. -ώτερος) : incapable de prononcer le ρ, DL. <i>2, 108 ; cf</i>. ῥωποπερπερήθρα.<p><b>Étym</b>. ῥῶ.`

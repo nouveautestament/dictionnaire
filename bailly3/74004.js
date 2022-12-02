@@ -1,0 +1,1 @@
+lar[74004]=`<b>ὀψί·καρπος, ος, ον</b> <font color="purple">[ῐ]</font> qui donne des fruits tardifs, TH. <i>H.P. 6, 4, 6</i>.<p>•<i> Cp</i>. -ότερος, TH. <i>C.P. 1, 10, 7</i>.<p><b>Étym</b>. ὀψέ, καρπός.`

@@ -1,0 +1,1 @@
+lar[58903]=`<b>έως (ὁ)</b> <font color="purple">[ῡ]</font> Kypée, <i>surn. d’Apollon,</i> LYC. <i>426</i>.`

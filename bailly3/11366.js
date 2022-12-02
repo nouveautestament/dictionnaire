@@ -1,0 +1,1 @@
+lar[11366]=`<b>ἀ·παρεγχείρητος, ος, ον :<br>      1</b> inattaquable, ARR. <i>Epict. 4, 1, 161</i> ; JOS. <i>A.J. 15, 8, 1</i>.<br><b>      2</b> <i>fig</i>. irréprochable, T. LOCR. <i>95a</i>.<p><b>Étym</b>. ἀ, παρεγχειρέω.`

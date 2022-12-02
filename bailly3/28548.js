@@ -1,0 +1,1 @@
+lar[28548]=`<b>ας (ἡ)</b> <font color="purple">[ᾰᾰλ]</font> difficulté de comprendre, ORIG. <i>7, 112 Migne</i>.<p><b>Étym</b>. δυσκατάληπτος.`

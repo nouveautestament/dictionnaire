@@ -1,0 +1,1 @@
+lar[73817]=`<font color="darkgreen">(<i>ao</i>. ὠφθαλμίσθην) :</font><br><b>      1</b> être atteint d’ophtalmie, PLUT. <i>M. 633c.</i><br><b>      2</b> <i>fig</i>. être inoculé <i>ou</i> greffé, TH. <i>C.P. 2, 14, 4</i>.<p><b>Étym</b>. ὀφθαλμός.`

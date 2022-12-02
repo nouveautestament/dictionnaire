@@ -1,0 +1,1 @@
+lar[74793]=`<b>πάμ·φωνος, ος, ον :<br>      1</b> qui fait entendre toute sorte de sons, PD. <i>O. 7, 21, etc.</i> ; PHILOX. (ATH. <i>35d</i>).<br><b>      2</b> <i>fig</i>. tout à fait expressif, <i>en parl. de pantomime,</i> A. PL. <i>290</i>.<p><b>Étym</b>. π. φωνή.`

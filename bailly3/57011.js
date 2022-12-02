@@ -1,0 +1,1 @@
+lar[57011]=`<b>ου (ὁ)</b> sorte de poisson, XÉNOCR. <i>Al. 29 (var</i>. κόραξος) ; SPEUSIPP. (ATH. <i>105b</i>).<p><b>Étym</b>. κόραξ.`

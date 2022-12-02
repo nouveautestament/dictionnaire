@@ -1,0 +1,1 @@
+lar[6297]=`<b>ἀμφι·περιπλάζω</b>, faire errer tout autour, P. SIL. <i>Ecphr. amb. 268</i>.`

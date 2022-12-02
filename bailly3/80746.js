@@ -1,0 +1,1 @@
+lar[80746]=`<b>πλατύ·καρπος, ος, ον</b> <font color="purple">[ᾰῠ]</font> au fruit large, DIOSC. <i>3, 61 dout</i>.<p><b>Étym</b>. πλ. καρπός.`

@@ -1,0 +1,1 @@
+lar[32080]=`<b>ἐκ·σωρεύω</b>, amonceler, entasser, EUR. <i>Ph. 1195</i>.`

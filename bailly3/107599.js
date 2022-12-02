@@ -1,0 +1,1 @@
+lar[107599]=`<b>χαλκεο·μίτρας</b>, <i>ion</i>. <b>χαλκεο·μίτρης</b>, <i>acc</i>. <b>ην</b>, <i>adj. m</i>. à la ceinture, à la cuirasse <i>ou</i> au casque d’airain, Q. SM. <i>1, 274</i>.<p><b>Étym</b>. χ. μίτρα.`

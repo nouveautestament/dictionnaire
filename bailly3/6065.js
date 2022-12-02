@@ -1,0 +1,1 @@
+lar[6065]=`<b>έως (ὁ)</b> qui pêche au filet, SPT. <i>Esaï. 19, 8</i>.`

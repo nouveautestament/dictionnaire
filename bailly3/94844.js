@@ -1,0 +1,1 @@
+lar[94844]=`<b>συν·απεχθάνομαι</b>, se brouiller ensemble, PLUT. <i>M. 96b</i>.`

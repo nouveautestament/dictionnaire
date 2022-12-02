@@ -1,0 +1,1 @@
+lar[98271]=`<b>α, ον</b> <font color="purple">[ῐκ]</font> des Temmikes <i>ou</i> de Béotie, LYC. <i>786</i>.<p><b>Étym</b>. Τέμμικες.`

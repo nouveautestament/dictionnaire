@@ -1,0 +1,1 @@
+lar[110212]=`<b>ου (ὁ)</b> Ôkytos :<br><b>      1</b> <i>père d’Adimantos,</i> HDT. <i>8, 5, 59</i>.<br><b>      2</b> <i>Corinthien,</i> THC. <i>4, 119</i>.`

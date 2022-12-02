@@ -1,0 +1,1 @@
+lar[25193]=`<b>δια·πάλλω :<br>      1</b> agiter pour tirer au sort, <i>d’où</i> assigner par un tirage au sort, ESCHL. <i>Sept. 731</i>.<br><b>      2</b> brandir, ESCHL. <i>fr. 405, 4</i>, OPP. <i>H. 2, 620</i>.`

@@ -1,0 +1,1 @@
+lar[71887]=`<b>ὀνειρό·φαντος, ος, ον</b>, qui apparaît en songe, ESCHL. <i>Ag. 420</i>.<p><b>Étym</b>. ὄ. φαντός.`

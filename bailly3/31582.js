@@ -1,0 +1,1 @@
+lar[31582]=`<font color="purple">[ῠ]</font> <i>adv.</i> :<br><b>      1</b> avec une liberté excessive, ISOCR. <i>419b.</i><br><b>      2</b> avec mollesse, avec relâchement PLUT. <i>Lyc. 18, Eum. 16</i> ; ATH. <i>519f</i>.<p><b>Étym</b>. ἐκλύω.`

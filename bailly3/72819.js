@@ -1,0 +1,1 @@
+lar[72819]=`<b>ὀρίνδης ἄρτος (ὁ)</b> pain à la farine de riz, SOPH. (ATH. <i>110e</i>).<p><b>Étym</b>. <i>cf</i>. ὄρυζα.`

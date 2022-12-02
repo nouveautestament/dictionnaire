@@ -1,0 +1,1 @@
+lar[82511]=`<b>πολυ·φθόρος, ος, ον</b>, qui détruit beaucoup d’êtres <i>ou</i> de choses, très funeste, pernicieux, <i>en parl. de choses</i> (temps, sort, <i>etc</i>.) PD. <i>N. 8, 53 ; I. 5, 62</i> ; ESCHL. <i>Pr. 633, 820 ; en parl. de pers</i>. ESCHL. <i>Sept. 926</i>.<p><b>Étym</b>. π. φθείρω.`

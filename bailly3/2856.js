@@ -1,0 +1,1 @@
+lar[2856]=`<i>adv</i>., d’une manière propice, heureusement, EUR. <i>Ion 410</i>.`

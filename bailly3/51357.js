@@ -1,0 +1,1 @@
+lar[51357]=`<b>οῦς, οῖ, ώ (ἡ)</b> <font color="purple">[ᾰ]</font> Kalypsô (Calypso) :<br><b>      1</b> <i>fille d’Atlas,</i> OD. <i>7, 254, etc.</i><br><b>      2</b> <i>Océanide,</i> HÉS. <i>Th. 359</i>.<p><b>Étym</b>. καλύπτω.`

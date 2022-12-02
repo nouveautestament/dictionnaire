@@ -1,0 +1,1 @@
+lar[86623]=`<b>ατος (τὸ)</b> nourriture, assaisonnement, EUR. <i>El. 423</i> ; LGS <i>3, 12</i>.<p><b>Étym</b>. προσφορέω, <i>v</i>. προσφορά.`

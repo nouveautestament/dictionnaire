@@ -1,0 +1,1 @@
+lar[73316]=`<b>ὀστρακό·νωτος, ος, ον</b> <font color="purple">[ᾰ]</font> dont le dos est couvert d’une écaille, TEUCRUS CYZ. (ATH. <i>455e</i>) ; EL. <i>N.A. 9, 6</i>.<p><b>Étym</b>. ὄστρακον, νῶτος.`

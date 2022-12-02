@@ -1,0 +1,1 @@
+lar[47215]=`<b>θηλύ·φρων, ων, ον</b>, <i>gén</i>. <b>ονος</b>, aux sentiments, <i>càd</i>. au caractère de femme, AR. <i>Eccl. 110</i>.<p><b>Étym</b>. θ. φρήν.`

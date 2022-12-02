@@ -1,0 +1,1 @@
+lar[91795]=`<b>ή, όν</b>, qui a la propriété de tirer <i>ou</i> d’attirer à soi, ARSTT. <i>H.A. 10, 7, 4, etc</i>.<p><b>Étym</b>. σπάω.`

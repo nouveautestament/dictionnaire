@@ -1,0 +1,1 @@
+lar[89700]=`<b>ατος (τὸ)</b> <font color="purple">[λᾰ]</font> éclat, lueur brillante, MAN. <i>4, 189</i>.<p><b>Étym</b>. σελαγίζω.`

@@ -1,0 +1,1 @@
+lar[79996]=`<font color="purple">[ᾰ]</font> être semblable à de la rue, DIOSC. <i>7, 13</i>.<p><b>Étym</b>. πήγανον.`

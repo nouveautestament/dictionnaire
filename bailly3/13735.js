@@ -1,0 +1,1 @@
+lar[13735]=`<b>ἀπο·φιλοτιμία, ας (ἡ)</b> <font color="purple">[ῐτῑ]</font> manque d’ambition, TH. <i>Char. 22</i>.`

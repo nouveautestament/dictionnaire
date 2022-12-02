@@ -1,0 +1,1 @@
+lar[28225]=`<b>δυσ·απότρεπτος, ος, ον</b> <font color="purple">[ῠᾰ]</font> difficile à détourner, à dissuader, XÉN. <i>Mem. 4, 1, 4</i> ; ARISTÉN. <i>1, 28</i>.<p><b>Étym</b>. δ. ἀποτρέπω.`

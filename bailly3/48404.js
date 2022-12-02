@@ -1,0 +1,1 @@
+lar[48404]=`<b>ἰδιο·θανέω-ῶ</b> <font color="purple">[ῐδᾰ]</font> mourir d’une mort particulière, PROCL. <i>Ptol. p. 277</i>.<p><b>Étym</b>. ἴδ. θνῄσκω.`

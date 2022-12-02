@@ -1,0 +1,1 @@
+lar[4021]=`<b>ἀλαβαστρίτης λίθος (ὁ)</b> <font color="purple">[ᾰλᾰ]</font> albâtre, TH. <i>Lap. 6</i>.<p><b>Étym</b>. ἀλάβαστρος.`

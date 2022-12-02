@@ -1,0 +1,1 @@
+lar[1508]=`<b>ου (ὁ)</b> Adouros, <i>anc. n. du fl. Kaïkos,</i> Ps.-PLUT. <i>Fluv. 21, 1</i>.`

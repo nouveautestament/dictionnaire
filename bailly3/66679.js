@@ -1,0 +1,1 @@
+lar[66679]=`<b>*μονό·χηλος</b>, <i>dor</i>. <b>μονό·χαλος, ος, ον</b> <font color="purple">[ᾰ]</font> dont le sabot est un, qui n’a pas le pied fourchu, EUR. <i>I.A. 225</i>.<p><b>Étym</b>. μ. χηλή.`

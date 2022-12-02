@@ -1,0 +1,1 @@
+lar[67516]=`<b>εως (ἡ)</b> Momemphis (<i>auj</i>. Kom el-Hisn) <i>v. de la basse Égypte,</i> HDT. <i>2, 163</i>.`

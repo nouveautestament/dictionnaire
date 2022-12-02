@@ -1,0 +1,1 @@
+lar[70005]=`marquer du signe ὀβελός, CIC. <i>Fam. 9, 10</i>.`

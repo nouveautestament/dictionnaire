@@ -1,0 +1,1 @@
+lar[1914]=`<b>εως (ἡ)</b> souffle, EUR. <i>Rhes. 417</i>.<p><b>Étym</b>. ἄημι.`

@@ -1,0 +1,1 @@
+lar[54765]=`<b>κεντρο·φόρος, ος, ον :<br>      1</b> qui porte un aiguillon, OPP. <i>H. 4, 244</i>.<br><b>      2</b> qui occupe le centre, PORPH. (EUS. <i>P.E. p. 110c</i>).<p><b>Étym</b>. κέντρον, φέρω.`

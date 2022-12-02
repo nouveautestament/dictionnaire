@@ -1,0 +1,1 @@
+lar[105595]=`<b>ης (ἡ)</b> <font color="purple">[ῐ]</font> Philè, <i>f</i>. IS. <i>Or. 3 arg. Baiter-Sauppe, etc</i>.<p><b>Étym</b>. <i>v</i>. φίλη.`

@@ -1,0 +1,1 @@
+lar[50742]=`<b>κακό·θεος, ος, ον</b> <font color="purple">[ᾰ]</font> qui adore des dieux méchants, TH. (PORPH. <i>Abst. 2, 7).</i><p><b>Étym</b>. κ. θεός.`

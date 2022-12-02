@@ -1,0 +1,1 @@
+lar[23322]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰ]</font> rudesse <i>ou</i> dureté (de la voix), DIOSC. <i>1, 77</i>.<p><b>Étym</b>. δασύνω.`

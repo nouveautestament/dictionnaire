@@ -1,0 +1,1 @@
+lar[69215]=`<b>νυμφιάω-ῶ</b>, être transporté de fureur, ARSTT. <i>H.A. 8, 24, 4</i>.<p><b>Étym</b>. νύμφιος.`

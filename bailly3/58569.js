@@ -1,0 +1,1 @@
+lar[58569]=`<b>ος, ον</b>, mû circulairement, P. SIL. <i>Ecphr. ag. Soph. 870</i>.<p><b>Étym</b>. <i>vb. de</i> κυκλοφορέομαι.`

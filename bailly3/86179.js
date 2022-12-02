@@ -1,0 +1,1 @@
+lar[86179]=`<b>προσ·οδοιπορέω-ῶ</b>, faire route vers, ARÉT. <i>Cur. m. diut. 1, 52</i>.`

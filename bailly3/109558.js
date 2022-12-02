@@ -1,0 +1,1 @@
+lar[109558]=`<b>αι, α</b> <font color="purple">[μᾰ]</font> aussi nombreux que les grains de sable de la mer, EUP. <i>286 Kock ; cf</i>. ATH. <i>230c</i>.<p><b>Étym</b>. ψάμμος, -κοσιοι ; <i>cf</i>. πεντακόσιοι, ἑξακόσιοι.`

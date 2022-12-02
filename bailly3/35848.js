@@ -1,0 +1,1 @@
+lar[35848]=`<b>ἐξ·ερυθριάω</b> <font color="purple">[ῠ]</font> être très rouge, HPC. <i>566, 12</i>.`

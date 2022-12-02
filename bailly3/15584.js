@@ -1,0 +1,1 @@
+lar[15584]=`<b>ας (ἡ)</b> <font color="purple">[ῐδᾱ]</font> Arkhidamia, <i>f</i>. PLUT. <i>Pyrrh. 27, etc</i>.<p><b>Étym</b>. <i>v</i>. Ἀρχιδαμίδας, Ἀρχιδάμιος, Ἀρχίδαμος.`

@@ -1,0 +1,1 @@
+lar[93404]=`<b>συγ·κατηγορέω-ῶ</b>, accuser avec : συγκ. τινι, DÉM. <i>302, 25,</i> avec qqn ; τινος μετά τινος, DÉM. <i>434, 22 ; 1232, 24,</i> accuser une personne avec une autre ; <i>abs</i>. HYPÉR. <i>Eux. 26</i>.`

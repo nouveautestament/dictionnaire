@@ -1,0 +1,1 @@
+lar[18196]=`<b>ή, όν</b>, qui éprouve de la répugnance, de l’aversion (<i>p. opp. à</i> ὁρμητικός), <i>t. stoïc</i>. ARR. <i>Epict. 1, 1, 12</i>.<p><b>Étym</b>. ἀφορμάω ; <i>v</i>. ἀφορμή.`

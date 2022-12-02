@@ -1,0 +1,1 @@
+lar[27161]=`<b>διφρο·φόρος, ος, ον :<br>      1</b> qui porte un siège, ATH. <i>514b ; particul. à Athènes,</i> jeunes filles qui portaient un siège pour les Canéphores, AR. <i>Eccl. 734</i> ; HERMIPP. STRATT. NICOPH. (<i>Com. fr. 2, 389, 766, 852</i>).<br><b>      2</b> qui porte dans une litière, PLUT. <i>M. 348e</i>.<p><b>Étym</b>. δίφρος, φέρω.`

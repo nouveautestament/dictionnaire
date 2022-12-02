@@ -1,0 +1,1 @@
+lar[82273]=`<b>ου (τὸ)</b> <font color="purple">[ῠ]</font><br><b>      1</b> petit poulpe, ARSTT. <i>H.A. 5, 18, 3, etc.</i> ; PHILOX. (ATH. <i>147b</i>).<br><b>      2</b> sorte de fougère, <i>plante,</i> TH. <i>H.P. 9, 13, 6</i> ; DIOSC. <i>4, 188, etc</i>.<p><b>Étym</b>. πολύπους.`

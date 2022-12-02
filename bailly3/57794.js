@@ -1,0 +1,1 @@
+lar[57794]=`<i>gén. épq</i>. <b>αο (ὁ)</b> le fils de Krèthée, <i>càd</i>. Æson, A.RH. <i>3, 357 ; ou</i> Nèlée, PD. <i>P. 4, 272</i>.<p>➳ <i>Dor</i>. -θηΐδας, PD. <i>l. c</i>.<p><b>Étym</b>. Κρηθεύς.`

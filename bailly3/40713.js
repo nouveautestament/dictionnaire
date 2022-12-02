@@ -1,0 +1,1 @@
+lar[40713]=`<i>adv</i>., entièrement, absolument, ALC. <i>131</i>.<p><b>Étym</b>. <i>formé du part. éol</i>. ἐρρείς <i>de</i> ἔρρω.`

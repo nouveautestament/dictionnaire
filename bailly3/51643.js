@@ -1,0 +1,1 @@
+lar[51643]=`<i>adv</i>., comme la fumée, NYSS. <i>1, 77</i>.<p><b>Étym</b>. καπνοειδής.`

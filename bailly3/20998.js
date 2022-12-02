@@ -1,0 +1,1 @@
+lar[20998]=`bourrer, presser, <i>d’où au pass. (seul. prés. 3 sg</i>. βύζεται) être dru, serré, fréquent, ARÉT. <i>Cur. m. acut. 2, 2</i>.<p><b>Étym</b>. βύω.`

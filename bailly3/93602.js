@@ -1,0 +1,1 @@
+lar[93602]=`<b>συγ·χειρουργέω-ῶ</b>, accomplir ensemble, IS. <i>70, 28</i> ; PHIL. <i>2, 15</i>.`

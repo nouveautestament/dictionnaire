@@ -1,0 +1,1 @@
+lar[52619]=`<b>κατα·κρεμάννυμι</b> <font color="purple">[ῡ]</font> <font color="darkgreen">(<i>ao</i>. κατεκρέμασα, <i>pf. pass</i>. κατακεκρέμασμαι)</font> suspendre, HH. <i>27, 16</i> ; νέκυν κατὰ τοῦ τείχεος, HDT. <i>2, 121,</i> suspendre un cadavre du haut d’un mur ; <i>au pass</i>. être suspendu, HPC. <i>Fract. 767</i> ; DS. <i>18, 26</i>.`

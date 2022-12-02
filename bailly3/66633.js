@@ -1,0 +1,1 @@
+lar[66633]=`<b>μονο·στιβής, ής, ές</b> <font color="purple">[ῐ]</font> qui marche seul, solitaire, ESCHL. <i>Ch. 768</i>.<p><b>Étym</b>. μ. στείβω.`

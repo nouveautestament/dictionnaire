@@ -1,0 +1,1 @@
+lar[81565]=`<b>ου (ὁ) :<br>      1</b> habitant d’une ville, citoyen, IL. <i>2, 806</i> ; SIM. <i>fr. 137 (194) Bgk ; usuel dans</i> HDT. <i>1, 37, etc. ; deux fois chez les Trag</i>. ESCHL. <i>Pers. 556</i> ; EUR. <i>El. 119</i>.<br><b>      2</b> concitoyen, HDT. <i>1, 37 etc</i>.<p>➳ <i>Dor. gén. pl</i>. πολιατᾶν, PD. <i>I. 1, 74. Ion. et poét. c</i>. πολίτης.`

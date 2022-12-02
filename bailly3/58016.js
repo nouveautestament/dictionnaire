@@ -1,0 +1,1 @@
+lar[58016]=`<b>κροκο·βαφής, ής, ές</b> <font color="purple">[ᾰ]</font> <i>c</i>. κροκόβαπτος PHILSTR. <i>p. 888</i> ; pâle, ESCHL. <i>Ag. 1130</i>.`

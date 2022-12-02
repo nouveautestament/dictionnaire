@@ -1,0 +1,1 @@
+lar[37854]=`<b>ἐπ·ιθύω</b> <font color="purple">[ῡ]</font><br><b>      1</b> s’élancer sur <i>ou</i> contre, <i>abs</i>. OD. <i>16, 297 ; avec l’inf</i>. IL. <i>18, 175,</i> pour faire qqe ch.<br><b>      2</b> <i>fig</i>. désirer vivement, <i>inf</i>. HH. <i>Merc. 475</i> ; A.RH. <i>1, 1238 ; 2, 1154 ; 3, 354</i>.<p><b>Étym</b>. ἐπί, ἰθύς.`

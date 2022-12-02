@@ -1,0 +1,1 @@
+lar[82528]=`(<i>seul. part. prés</i>. πολυφραδέων) <font color="purple">[ᾰ]</font> être très sage, HÉS. <i>fr. 54 Gaisford</i>.<p><b>Étym</b>. πολυφραδής.`

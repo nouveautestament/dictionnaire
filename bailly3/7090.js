@@ -1,0 +1,1 @@
+lar[7090]=`<i>vb. de</i> ἀναλαμβάνω, PLAT. <i>Leg. 864b</i>, POL. <i>261c, etc</i>.`

@@ -1,0 +1,1 @@
+lar[30347]=`<b>εἰκοσά·εδρος, ος, ον</b> <font color="purple">[ᾰ]</font> à vingt faces, PLUT. <i>M. 719</i>.<p><b>Étym</b>. εἴκοσι, ἕδρα.`

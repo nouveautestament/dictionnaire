@@ -1,0 +1,1 @@
+lar[32273]=`<b>ἐκ·τυφόω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> réduire en fumée, DIOSC. <i>1, 81</i>.<br><b>      2</b> obscurcir par les fumées de l’orgueil, POL. <i>16, 21, 12</i> ; PHIL. <i>1, 1 ; 2, 215, 569</i>.`

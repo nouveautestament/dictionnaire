@@ -1,0 +1,1 @@
+lar[65652]=`<font color="purple">[ᾱ]</font> <i>adv</i>., de Midéa, PD. <i>O. 11, 69</i>.<p><b>Étym</b>. Μίδεα, -θεν.`

@@ -1,0 +1,1 @@
+lar[73491]=`<b>ας (ἡ)</b> = <i>lat</i>. Verania, <i>n. de f. rom</i>. PLUT. <i>Galb. 28</i>.`

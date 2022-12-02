@@ -1,0 +1,1 @@
+lar[29675]=`<font color="purple">[ῐ]</font> <i>adv</i>., en se penchant, HH. <i>22, 3</i> ; A.RH. <i>1, 790</i>.<p><b>Étym</b>. ἐγκλίνω, -δον.`

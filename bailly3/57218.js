@@ -1,0 +1,1 @@
+lar[57218]=`<b>έως</b>, <i>acc</i>. <b>έα</b>, habitant <i>ou</i> originaire de Coronée, ALC. <i>9</i>.<p><b>Étym</b>. Κορώνεια.`

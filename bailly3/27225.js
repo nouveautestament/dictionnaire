@@ -1,0 +1,1 @@
+lar[27225]=`<b>ης (ἡ)</b> <font color="purple">[ῐῠ]</font> désaccord, dissentiment, PLUT. <i>Thes. 12, M. 824e</i>.<p><b>Étym</b>. διχόφρων.`

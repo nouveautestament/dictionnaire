@@ -1,0 +1,1 @@
+lar[1060]=`<b>ἀγχί·νοος-ους, οος-ους, οον-ουν</b> <font color="purple">[ῐ]</font> d’esprit vif, intelligent, OD. <i>13, 332</i> ; XÉN. <i>Cyr. 1, 4, 3</i> ; PLAT. <i>Leg. 747b</i>.<p>•<i> Cp</i>. -ούστερος, SEXT. <i>65, 29 Bkk. ; • Sup</i>. -ούστατος, <i>ibid. 66, 16</i>.<p><b>Étym</b>. ἄ. νόος, cf. « présence d’esprit ».`

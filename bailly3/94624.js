@@ -1,0 +1,1 @@
+lar[94624]=`<b>συν·ακρατίζομαι</b> <font color="purple">[ᾰκρᾱ]</font> déjeuner avec <i>ou</i> en même temps, ANTIPH. (<i>Com. fr. 3, 144</i>).`

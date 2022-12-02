@@ -1,0 +1,1 @@
+lar[46913]=`<b>ου (τὸ)</b> tissu fin et léger dont on s’enveloppait l’été comme d’un vêtement <i>ou</i> d’un voile, THCR. <i>Idyl. 15, 69</i> ; ARISTÉN. <i>1, 27</i>.<p><b>Étym</b>. θερίζω.`

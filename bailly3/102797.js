@@ -1,0 +1,1 @@
+lar[102797]=`<b>ὑπερ·σιτίζω</b> <font color="purple">[σῑ]</font> manger abondamment, PHILSTR. <i>Gymn. 48</i>.`

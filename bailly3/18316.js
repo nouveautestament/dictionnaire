@@ -1,0 +1,1 @@
+lar[18316]=`<b>*ἀ·φύρατος</b>, <i>seul. ion</i>. <b>ἀ·φύρητος, ος, ον</b> <font color="purple">[ῡ]</font> non pétri, non mêlé, HPC. <i>V. med. 13</i>.<p><b>Étym</b>. ἀ, φυράω.`

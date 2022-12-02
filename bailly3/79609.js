@@ -1,0 +1,1 @@
+lar[79609]=`<b>ος, ον :<br>      1</b> <i>act</i>. qui va et vient tout autour, qui rôde autour, ANTH. <i>12, 43 ; 13, 24 ; ou simpl</i>. qui tourne autour, PARMÉN. <i>130</i>.<br><b>      2</b> <i>pass</i>. autour de qui l’on rôde, PHIL. <i>2, 248</i>.<p><b>Étym</b>. περιφοιτάω.`

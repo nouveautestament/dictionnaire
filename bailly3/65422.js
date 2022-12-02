@@ -1,0 +1,1 @@
+lar[65422]=`<b>μηλο·φύλαξ</b>, <i>dor</i>. <b>μαλο·φύλαξ, ακος (ὁ)</b> <font color="purple">[ᾱῠᾰκ]</font> gardien de brebis <i>ou</i> de chèvres, berger, chevrier, A. PL. <i>233</i>.<p><b>Étym</b>. μῆλον¹, φύλαξ.`

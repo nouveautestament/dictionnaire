@@ -1,0 +1,1 @@
+lar[89325]=`<b>ου (τὸ)</b> santal, <i>arbre odoriférant de l’Inde,</i> DIOSC. <i>3, 28</i>.`

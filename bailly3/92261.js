@@ -1,0 +1,1 @@
+lar[92261]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> prix du logement dans une hôtellerie, ATH. <i>8d</i>.<p><b>Étym</b>. στεγανόμος.`

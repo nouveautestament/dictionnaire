@@ -1,0 +1,1 @@
+lar[110229]=`<b>ὠλεσί·τεκνος, ος, ον</b> <font color="purple">[ῐ]</font> qui fait périr ses enfants, NONN. <i>D. 44, 91</i>.<p><b>Étym</b>. ὄλλυμι, τέκνον.`

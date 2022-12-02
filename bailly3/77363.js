@@ -1,0 +1,1 @@
+lar[77363]=`<b>ίδος (ἡ)</b> Patris, <i>f</i>. PLUT. <i>Parall. min. 27</i>.`

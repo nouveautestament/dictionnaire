@@ -1,0 +1,1 @@
+lar[80029]=`<b>έων (οἱ)</b> <font color="purple">[ᾰ]</font> habitants de Pèdases, HDT. <i>1, 175 ; 6, 20 ; 8, 104</i>.<p><b>Étym</b>. Πήδασα.`

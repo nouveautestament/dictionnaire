@@ -1,0 +1,1 @@
+lar[22317]=`<b>ή, όν</b>, sentencieux, ARSTT. <i>Rhet. Al. 33, 3</i> ; D. PHAL. <i>9</i>.<p><b>Étym</b>. *γνωμολόγος, <i>v</i>. γνωμολογία.`

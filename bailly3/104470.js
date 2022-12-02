@@ -1,0 +1,1 @@
+lar[104470]=`<b>ὑψ·ηχής, ής, ές</b>, qui résonne haut <i>ou</i> fort, sonore, retentissant, IL. <i>5, 772</i> ; ORPH. <i>H. 14, 4</i> ; τὸ ὑψηχὲς τῶν λόγων, PHILSTR. <i>539,</i> sonorité du style, style ronflant.<p><b>Étym</b>. ὕψι, ἦχος.`

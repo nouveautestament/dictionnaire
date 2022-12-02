@@ -1,0 +1,1 @@
+lar[47619]=`<b>ου (ὁ)</b> Thrasônidès, <i>h</i>. PLUT. <i>Cup. div. 4 ; plur</i>. Θρασωνίδαι, PLUT. <i>Epic. 13,</i> des Thrasônidès.<p>➳ <i>Dor</i>. -ίδας, XÉN. <i>Hell. 7, 4, 15</i>.<p><b>Étym</b>. <i>patr. de</i> Θράσων.`

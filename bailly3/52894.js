@@ -1,0 +1,1 @@
+lar[52894]=`<b>ος, ον</b> <font color="purple">[ᾰνᾱ]</font> qui dépense, <i>d’où</i> qui consume, ORIG. <i>1, 75</i>.<p><b>Étym</b>. καταναλίσκω.`

@@ -1,0 +1,1 @@
+lar[49734]=`<b>ου (ὁ)</b> <font color="purple">[ῑ]</font> Isos, <i>fils de Priam,</i> IL. <i>11, 101, 108</i>.`

@@ -1,0 +1,1 @@
+lar[9707]=`<b>ἀντ·ευεργετέω-ῶ</b>, rendre un bienfait pour un autre, XÉN. <i>Mem. 2, 6, 4</i> ; ARSTT. <i>Rhet. Al. 2, 13</i>.`

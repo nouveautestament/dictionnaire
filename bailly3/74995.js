@@ -1,0 +1,1 @@
+lar[74995]=`<b>παν·επόπτης, ου</b> <font color="purple">[ᾰ]</font> <i>adj. m</i>. qui voit <i>ou</i> observe tout, SPT. <i>2Macc. 9, 5</i> ; SIB. <i>Proœm. 4</i>.<p><b>Étym</b>. π. ἐπόπτης.`

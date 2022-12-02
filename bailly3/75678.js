@@ -1,0 +1,1 @@
+lar[75678]=`<b>παρα·κάμπτω</b>, éviter par un détour, esquiver, <i>acc</i>. DS. <i>5, 60</i>.`

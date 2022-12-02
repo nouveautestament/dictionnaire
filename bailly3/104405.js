@@ -1,0 +1,1 @@
+lar[104405]=`<b>ὑφηνιοχέω-ῶ :<br>      1</b> <i>litt</i>. conduire un char en sous-ordre, <i>p. ext</i>. conduire un char, LUC. <i>Somn. 15</i>.<br><b>      2</b> <i>au pass</i>. être retenu par un cocher, <i>en parl. d’un attelage,</i> DÉM. <i>1409, 24</i>.<p><b>Étym</b>. ὑφηνίοχος.`

@@ -1,0 +1,1 @@
+lar[59929]=`<b>ων (οἱ)</b> les Lasonies, <i>pple de l’Asie Mineure,</i> HDT. <i>3, 90 ; 7, 77</i>.`

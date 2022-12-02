@@ -1,0 +1,1 @@
+lar[2238]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> linotte, <i>oiseau,</i> ARSTT. <i>H.A. 9, 1</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. αἰγίοθος.`

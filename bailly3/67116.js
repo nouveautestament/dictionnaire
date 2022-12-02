@@ -1,0 +1,1 @@
+lar[67116]=`<b>ων (οἱ)</b> <font color="purple">[ῠᾰ]</font> les Mylakes, <i>pple d’Épire,</i> LYC. <i>1021</i>.`

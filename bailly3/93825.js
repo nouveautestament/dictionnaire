@@ -1,0 +1,1 @@
+lar[93825]=`<b>συμ·βασιλεύω</b> <font color="purple">[ᾰῐ]</font> régner ensemble <i>ou</i> avec, <i>dat</i>. POL. <i>30, 2, 4</i> ; PLUT. <i>Lyc. 5</i> ; LUC. <i>D. deor. 16, 2, etc</i>.`

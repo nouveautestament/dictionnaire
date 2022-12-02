@@ -1,0 +1,1 @@
+lar[7006]=`<b>οντος (ὁ)</b> Anacréon, <i>poète célèbre de Téos</i>.<p>➳ <i>Voc</i>. -εον, ANTH. <i>7, 27 et 29. Poét</i>. Ἀνακρείων, POÈT. (ATH. <i>600d</i>) <i>etc.</i> ; Ἀνακρέων, <i>trisyll</i>. HERMÉS. (ATH. <i>598c</i>).`

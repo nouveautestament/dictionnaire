@@ -1,0 +1,1 @@
+lar[74973]=`<b>παν·είδατος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> qui se compose d’aliments de toutes sortes, Q. SM. <i>1, 89</i>.<p><b>Étym</b>. π. εἶδαρ.`

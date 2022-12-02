@@ -1,0 +1,1 @@
+lar[97527]=`<b>ος, ον</b> <font color="purple">[ᾰλ]</font> de Tantale, EUR. <i>Hel. 856, I.T. 988, etc.</i> ; ὁ Τ. EUR. <i>I.T. 1,</i> le fils de Tantale (Pélops) ; τιμωρία Τ. POÈT. (POL. <i>4, 45, 6</i>) ; Τ. δίκαι, LUC. <i>Am. 53,</i> supplice de Tantale ; οἱ Τ. ἔκγονοι, EUR. <i>El. 1176,</i> les descendants de Tantale.<p><b>Étym</b>. Τάνταλος.`

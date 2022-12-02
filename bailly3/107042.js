@@ -1,0 +1,1 @@
+lar[107042]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> éloignement pour le travail <i>ou</i> la fatigue, POL. <i>3, 79, 4</i>.<p><b>Étym</b>. φυγόπονος.`

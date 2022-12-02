@@ -1,0 +1,1 @@
+lar[36561]=`<b>εως (ἡ)</b> <font color="purple">[βᾰ]</font> action de monter sur, ascension, <i>d’où</i> progression, M. ANT. <i>1, 9, 8</i> ; SYN. <i>236a ;</i> CLÉM. <i>1, 992 Migne</i>.<p>➳ <i>Poét</i>. ἐπαμβάσεις, EUR. <i>Ph. 1173</i>.<p><b>Étym</b>. ἐπαναβαίνω.`

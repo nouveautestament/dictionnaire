@@ -1,0 +1,1 @@
+lar[11184]=`(<i>seul. prés</i>.) avoir le désir d’être délivré <i>ou</i> de s’en aller, THC. <i>1, 95 ; 3, 84</i>.<p><b>Étym</b>. ἀπαλλάσσω.`

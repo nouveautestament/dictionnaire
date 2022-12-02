@@ -1,0 +1,1 @@
+lar[105577]=`<b>φιλ·εύϊος, ος, ον</b> <font color="purple">[φῐ]</font> qui aime le cri εὐοῖ, <i>ép. de Bacchus,</i> ANTH. <i>9, 524</i> ; NONN. <i>D. 12, 114</i>.<p><b>Étym</b>. φ. εὐοῖ.`

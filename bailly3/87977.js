@@ -1,0 +1,1 @@
+lar[87977]=`<b>πυρριάω-ῶ</b>, devenir rouge de confusion, A. TAT. <i>2, 11</i> ; HLD. <i>3, 5</i>.<p><b>Étym</b>. πυρρός.`

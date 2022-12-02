@@ -1,0 +1,1 @@
+lar[87355]=`<b>ατος (τὸ)</b> <font color="purple">[ῠ]</font> tout ce qui ressemble à une aile (partie saillante de l’oreille, <i>etc</i>.) GAL. <i>14, 701</i>.<p><b>Étym</b>. πτερυγόω.`

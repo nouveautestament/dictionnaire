@@ -1,0 +1,1 @@
+lar[10512]=`<b>ἀντι·τολμάω-ῶ</b>, être hardi contre, résister hardiment, <i>avec</i> πρός <i>et l’acc</i>. THC. <i>7, 21 ; abs. 2, 89</i>.`

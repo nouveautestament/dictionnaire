@@ -1,0 +1,1 @@
+lar[103662]=`<i>adv</i>., avec soumission, humblement, POL. <i>35, 2, 13</i>.<p><b>Étym</b>. ὑποπέπτωκα, <i>pf. de</i> ὑποπίπτω.`

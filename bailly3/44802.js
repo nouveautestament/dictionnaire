@@ -1,0 +1,1 @@
+lar[44802]=`<b>ωνος (ὁ)</b> <font color="purple">[ῠ]</font> Zôpyriôn, <i>h</i>. THCR. <i>Idyl. 15, 13</i> ; LUC. <i>M. cond. 23</i>.<p><b>Étym</b>. Ζώπυρος.`

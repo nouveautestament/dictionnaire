@@ -1,0 +1,1 @@
+lar[1694]=`<b>ἀει·ρείτη, ης (ἡ)</b> <i>litt</i>. « celle qui coule toujours » <i>mot créé par</i> PLAT. <i>Crat. 415d, pour expliquer l’étymologie de</i> ἀρετή.<p><b>Étym</b>. ἀ. ῥέω ; <i>cf</i>. ἀεισχόρουν.`

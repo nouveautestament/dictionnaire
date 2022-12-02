@@ -1,0 +1,1 @@
+lar[4309]=`<b>α (ὁ)</b> <font color="purple">[ᾰλ]</font> Aleuas, <i>noble Thessalien,</i> PD. <i>P. 10, 8</i>.<p>➳ <i>Gén. ion</i>. Ἀλεύεω, HDT. <i>7, 130 ; 9, 58</i>.`

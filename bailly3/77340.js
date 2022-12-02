@@ -1,0 +1,1 @@
+lar[77340]=`<b>ας (ἡ)</b> <font color="purple">[ᾰδ]</font> enfant de l’oncle <i>ou</i> de la tante paternels, ESCHL. <i>Suppl. 39</i>.<p><b>Étym</b>. πατράδελφος.`

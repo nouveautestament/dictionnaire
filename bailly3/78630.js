@@ -1,0 +1,1 @@
+lar[78630]=`<b>περι·ημεκτέω</b>, être mécontent : τινι, HDT. <i>1, 44, etc</i>. au sujet de qqe ch. ; <i>ou</i> τινος, HDT. <i>8, 109,</i> au sujet de qqn ; <i>abs</i>. HDT. <i>1, 114</i>.`

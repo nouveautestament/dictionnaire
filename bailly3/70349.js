@@ -1,0 +1,1 @@
+lar[70349]=`<b>ου (τὸ)</b> habitation, demeure, EUR. <i>Or. 1114</i> ; PLUT. <i>M. 602d, etc</i>.<p><b>Étym</b>. οἰκέω.`

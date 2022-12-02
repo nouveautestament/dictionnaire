@@ -1,0 +1,1 @@
+lar[76927]=`<b>Παρθ·ολέτης, ου (ὁ)</b> destructeur des Parthes, SIB. <i>12, 42</i>.<p><b>Étym</b>. Πάρθοι, ὄλλυμι.`

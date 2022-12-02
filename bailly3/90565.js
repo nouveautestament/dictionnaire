@@ -1,0 +1,1 @@
+lar[90565]=`<b>ης (ἡ)</b> Sittakè, <i>v. sur le Tigre,</i> XÉN. <i>An. 2, 4, 13, etc</i>.<p><b>Étym</b>. <i>par affaibliss. de</i> ψιττάκη.`

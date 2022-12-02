@@ -1,0 +1,1 @@
+lar[2457]=`<b>ή, όν</b>, d’Éthiopie : λίθος, HDT. <i>2, 86,</i> pierre d’Éthiopie, granit, basalte ; ῥίζα, HPC. racine d’Éthiopie, <i>sorte de silphium</i> ; τὰ Αἰθιοπικά, Géographie de l’Éthiopie, STR. <i>821, 823, ou</i> Histoires d’Éthiopie, <i>titre d’un ouvrage d’Héliodore</i>.<p><b>Étym</b>. Αἰθίοψ.`

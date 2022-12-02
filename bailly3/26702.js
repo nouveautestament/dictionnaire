@@ -1,0 +1,1 @@
+lar[26702]=`<b>δι·ογκόω-ῶ</b>, gonfler, enfler, HERMOG. <i>3, 224 Walz ; pass</i>. se gonfler, s’enfler, HPC. <i>385, 388</i> ; HIPPIATR. <i>p. 140 ; fig</i>. ARTÉM. <i>1, 14</i>.`

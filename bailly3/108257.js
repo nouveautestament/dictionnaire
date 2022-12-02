@@ -1,0 +1,1 @@
+lar[108257]=`<b>(τὸ)</b> <font color="purple">[ᾰ]</font> <i>seul. acc. sg</i>. tas de petites pierres et de sable, gravier, IL. <i>21, 319</i>.<p><b>Étym</b>. <i>pré-grec ; apparenté à</i> χαράδρα.`

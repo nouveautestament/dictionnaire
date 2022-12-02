@@ -1,0 +1,1 @@
+lar[55577]=`<b>κιρρο·κοιλάδια, ων (τὰ)</b> <font color="purple">[ᾰδ]</font> sorte de figue dont la pulpe intérieure est jaune, ATH. <i>78a</i>.<p><b>Étym</b>. κιρρός, κοιλάς.`

@@ -1,0 +1,1 @@
+lar[23658]=`<b>ίδος</b>, <i>adj. f</i>. qui se renouvelle tous les dix ans, DC. <i>57, 24, 1 ; 76, 1, 1</i>.`

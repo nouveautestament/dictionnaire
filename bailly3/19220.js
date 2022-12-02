@@ -1,0 +1,1 @@
+lar[19220]=`<b>βαρύ·φλοισβος, ος, ον</b> <font color="purple">[ᾰ]</font> qui gronde sourdement, PROCL. <i>H. Sol. 20</i>.<p><b>Étym</b>. β. φλοῖσβος.`

@@ -1,0 +1,1 @@
+lar[46261]=`<font color="purple">[ᾰ]</font> <i>(seul. nom</i>. IL. <i>10, 264, etc.</i> ; OD. <i>12, 92 ; dat</i>. θάμεσι, OD. <i>5, 252 ; acc</i>. θαμέας, OD. <i>14, 12) c</i>. θαμειός.<p><b>Étym</b>. <i>plur. de l’inus</i>. *θαμής <i>ou</i> *θαμύς.`

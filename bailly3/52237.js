@@ -1,0 +1,1 @@
+lar[52237]=`<b>ατος (τὸ) :<br>      1</b> peloton de fil qu’on dévide, AR. <i>Lys. 583</i> ; PLAT. <i>Pol. 282e, etc.</i><br><b>      2</b> flocon de laine, SOPH. <i>Tr. 695</i>.<p><b>Étym</b>. κατάγω.`

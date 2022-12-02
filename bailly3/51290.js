@@ -1,0 +1,1 @@
+lar[51290]=`<b>καλό·βιος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a une existence heureuse <i>ou</i> honorable, P. ALEX. <i>Apot. 24, p. 70, l. 2 Boer</i>.<p><b>Étym</b>. κ. βίος.`

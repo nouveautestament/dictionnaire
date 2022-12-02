@@ -1,0 +1,1 @@
+lar[93848]=`<b>ου (τὸ)</b> sorte d’élixir, RUF. (ORIB. <i>2, 278 B.-Dar</i>.).<p><b>Étym</b>. συμβιόω.`

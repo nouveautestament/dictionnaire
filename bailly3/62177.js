@@ -1,0 +1,1 @@
+lar[62177]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> vol de vêtements, JOS. <i>B.J. 4, 3, 4</i> ; CLÉM. <i>2, 648 Migne</i>.<p><b>Étym</b>. λωποδύτης.`

@@ -1,0 +1,1 @@
+lar[103205]=`<b>ου (ὁ)</b> lieu de refuge, port, PHIL. <i>1, 517 ; n. pr</i>. Ὑπόδρομος Αἰθιοπίας, MARCIEN <i>Per. p. 61 Mill.</i> ; PTOL. <i>4, 6, 7,</i> Hypodromos d’Éthiopie, <i>port d’Éthiopie</i>.<p><b>Étym</b>. ὑποδραμεῖν.`

@@ -1,0 +1,1 @@
+lar[57884]=`<b>ῆς (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. γλαύξ, HIPPON. <i>fr. 54</i>.`

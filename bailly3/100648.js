@@ -1,0 +1,1 @@
+lar[100648]=`<b>ας (ἡ)</b> <font color="purple">[ῐχ]</font> croissance des cheveux, HÉLIOD. (CHIR. <i>p. 126, 8 Cocch</i>.).<p><b>Étym</b>. τριχοφυής.`

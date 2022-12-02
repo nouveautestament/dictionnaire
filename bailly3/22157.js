@@ -1,0 +1,1 @@
+lar[22157]=`<b>γλυκο·φόρος, ος, ον</b> <font color="purple">[ῠ]</font> qui porte ou produit de doux fruits (vigne), CHRYS. <i>5, 729</i>.<p><b>Étym</b>. γλυκύς, φέρω.`

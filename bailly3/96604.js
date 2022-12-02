@@ -1,0 +1,1 @@
+lar[96604]=`<b>οῦ (ὁ)</b> lieu couvert d’ombre, AQU. <i>Ps. 59, 8 ; Amos 5, 26</i>.<p><b>Étym</b>. συσκιάζω.`

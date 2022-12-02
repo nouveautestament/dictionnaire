@@ -1,0 +1,1 @@
+lar[60504]=`<b>ου (ὁ)</b> Lévite, NT. <i>Luc. 10, 32 ; Joh. 1, 19 ; Ap. 4, 36</i> ; PLUT. <i>Qu. conv. 4, 6, 2</i>.<p><b>Étym</b>. <i>mot hébr</i>.`

@@ -1,0 +1,1 @@
+lar[35216]=`<b>ἐν·ώμοτος, ος, ον :<br>      1</b> lié par un serment, SOPH. <i>Aj. 1113</i> ; ἐν. θεῶν, EUR. <i>Med. 737,</i> qui a juré par les dieux.<br><b>      2</b> ὁ ἐν. PLUT. <i>Sert. 26,</i> conjuré, conspirateur.<p><b>Étym</b>. ἐν, ὄμνυμι.`

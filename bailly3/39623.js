@@ -1,0 +1,1 @@
+lar[39623]=`<b>ἐπι·φύλιος, ος, ον</b> <font color="purple">[ῡ]</font> partagé en tribus, en nations, EUR. <i>Ion 1577</i>.<p><b>Étym</b>. ἐπί, φυλή.`

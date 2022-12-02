@@ -1,0 +1,1 @@
+lar[15210]=`<b>ους</b>, <i>acc</i>. <b>ην (ὁ)</b> <font color="purple">[σᾰ]</font> Arsamès, <i>Perse,</i> HDT. <i>1, 209 ; 7, 69</i> ; ESCHL. <i>Pers. 37, etc</i>.<p>➳ <font color="purple">[σᾱ]</font> ESCHL. <i>l. c.</i> ; <font color="purple">[σᾰ]</font> ESCHL. <i>Pers. 308</i>.`

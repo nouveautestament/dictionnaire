@@ -1,0 +1,1 @@
+lar[62810]=`<b>μανό·σπορος, ος, ον</b> <font color="purple">[ᾱ]</font> clairsemé, TH. <i>C.P. 3, 21, 5</i>.<p><b>Étym</b>. μανός, σπείρω.`

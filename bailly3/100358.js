@@ -1,0 +1,1 @@
+lar[100358]=`<b>οῦ (ὁ)</b> <font color="purple">[λᾰ]</font> action de tripler, PLUT. <i>M. 1028c</i>.<p><b>Étym</b>. τριπλασιάζω.`

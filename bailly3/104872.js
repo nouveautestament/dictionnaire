@@ -1,0 +1,1 @@
+lar[104872]=`<b>(ὁ)</b> Pharaon, <i>titre des rois d’Égypte,</i> ANTH. <i>1, 59</i>.`

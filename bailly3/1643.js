@@ -1,0 +1,1 @@
+lar[1643]=`<b>ἀ·είδελος, ος, ον :<br>   I</b> invisible, obscur, HÉS. <i>fr. 61 Gaisford</i>.<br><b>   II</b> dont on ne peut supporter la vue :<br><b>      1</b> désagréable à voir, OPP. <i>H. 1, 86, etc.</i><br><b>      2</b> qui éblouit, NIC. <i>Th. 20</i>.<p><b>Étym</b>. ἀ, ἰδεῖν.`

@@ -1,0 +1,1 @@
+lar[50075]=`<b>ἰχθυο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se nourrit de poisson, ATH. <i>345e ;</i> οἱ Ἰχθυοφάγοι, les Ichtyophages, peuples qui vivent de poissons, <i>près du golfe Arabique,</i> HDT. <i>3, 19</i> ; PAUS. <i>1, 33, 4 ; ou du golfe Persique,</i> STR. <i>720</i>.<p><b>Étym</b>. ἰ. φαγέειν.`

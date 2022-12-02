@@ -1,0 +1,1 @@
+lar[76492]=`<b>παρα·ψεύδομαι</b>, mentir, tromper ; <i>part. pf. pass</i>. παρεψευσμένος, falsifié, AGATHARCH. <i>p. 41</i>.`

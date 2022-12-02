@@ -1,0 +1,1 @@
+lar[81988]=`<b>πολύ·κλαγγος, ος, ον</b>, <i>seul. au</i> <i>• Sup</i>. -ότατος, aux cris nombreux <i>ou</i> variés, EL. <i>N.A. 2, 51</i>.<p><b>Étym</b>. π. κλαγγή.`

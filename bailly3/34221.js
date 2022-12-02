@@ -1,0 +1,1 @@
+lar[34221]=`<b>ή, όν</b>, enclin à douter, sujet au doute, HERMOG. <i>p. 302</i>.<p><b>Étym</b>. ἐνδοιάζω.`

@@ -1,0 +1,1 @@
+lar[79405]=`<b>ιχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> rangé autour <i>avec</i> περί <i>et le dat</i>. NONN. <i>D. 2, 270</i>.<p><b>Étym</b>. περιστίχω.`

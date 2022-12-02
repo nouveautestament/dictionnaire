@@ -1,0 +1,1 @@
+lar[37097]=`<b>ἐπ·εννεακαιδέκατος, η, ον</b> <font color="purple">[ᾰᾰ]</font> formé d’un entier et d’un dix-neuvième, A. QUINT. <i>p. 115</i>.`

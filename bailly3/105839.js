@@ -1,0 +1,1 @@
+lar[105839]=`<font color="purple">[ῐῡ]</font> <i>adv</i>., en homme qui aime le danger, hardiment, XÉN. <i>Conv. 4, 33 ; joint à</i> προθύμως, POL. <i>3, 92, 5 ; à</i> φιλοπόνως, XÉN. <i>Hell. 6, 1, 4 ; en mauv. part,</i> témérairement, LUC. <i>D. mort. 19, 2</i>.`

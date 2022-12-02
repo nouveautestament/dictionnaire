@@ -1,0 +1,1 @@
+lar[65977]=`<b>α, ον</b> <font color="purple">[ῑ]</font> <i>vb. de</i> μισέω, XÉN. <i>Conv. 8, 20 ; au neutre,</i> LUC. <i>Fug. 30</i>.`

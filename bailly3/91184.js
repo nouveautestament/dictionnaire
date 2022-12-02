@@ -1,0 +1,1 @@
+lar[91184]=`<b>ίδος (ἡ)</b> <font color="purple">[ῐδ]</font> <i>sorte de poisson,</i> ARSTT. <i>H.A. 5, 10, 5</i>.<p><b>Étym</b>. <i>cf</i>. σκορπίος.`

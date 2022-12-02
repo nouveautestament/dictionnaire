@@ -1,0 +1,1 @@
+lar[44734]=`<b>ίτιδος</b>, <i>adj. f</i>. marqué de bandes, DIOSC. <i>5, 84</i>.`

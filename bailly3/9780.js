@@ -1,0 +1,1 @@
+lar[9780]=`<b>ῆς (ἡ) :<br>      1</b> comparaison, collation de deux textes, STR. <i>790</i>.<br><b>      2</b> discussion, DYSC. <i>Conj. 479, 26</i>.<p><b>Étym</b>. ἀντιβάλλω.`

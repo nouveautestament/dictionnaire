@@ -1,0 +1,1 @@
+lar[74811]=`<b>παν·άγριος, ος, ον</b> <font color="purple">[ᾰν]</font> tout à fait sauvage, très sauvage, OPP. <i>C. 2, 45</i>.<p><b>Étym</b>. π. ἄγριος.`

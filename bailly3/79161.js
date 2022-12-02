@@ -1,0 +1,1 @@
+lar[79161]=`<b>εως (ἡ) :<br>      1</b> action de tourner autour, DL. <i>8, 4</i>.<br><b>      2</b> <i>particul</i>. évolution d’un astre, JAMBL. <i>V. Pyth. 15</i>.<p><b>Étym</b>. περιπολέω.`

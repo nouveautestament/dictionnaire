@@ -1,0 +1,1 @@
+lar[29938]=`<b>ἐγ·χρόνιος, ος, ον</b>, qui a lieu dans le temps, PROCL. <i>Plat. Parm. 638</i>.<p><b>Étym</b>. ἐν, χρόνος.`

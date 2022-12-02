@@ -1,0 +1,1 @@
+lar[39298]=`<b>ή, όν</b>, propre à arrêter, ATH. <i>666a ;</i> GAL. <i>6, 322, 331</i> ; MOSCHION <i>Mul. pass. 32</i>.<p><b>Étym</b>. ἐπισχεῖν.`

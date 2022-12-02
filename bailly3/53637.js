@@ -1,0 +1,1 @@
+lar[53637]=`<b>καταφθατέομαι-οῦμαι</b> (<i>seul. part. prés. pass</i>.) <font color="purple">[θᾰ]</font> occuper d’avance, ESCHL. <i>Eum. 398</i>.<p><b>Étym</b>. καταφθάνω.`

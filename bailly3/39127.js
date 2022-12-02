@@ -1,0 +1,1 @@
+lar[39127]=`<i>adv</i>., conformément à la science, scientifiquement. ARSTT. <i>Top. 2, 9, 4</i> ; GAL. <i>4, 649, 664, 700</i> ; PHIL. <i>2, 417</i> ; CLÉM. <i>Str. 7, 10</i> ; PTOL. <i>Tetr. p. 108</i>.<p><b>Étym</b>. ἐπιστήμων.`

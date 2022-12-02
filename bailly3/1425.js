@@ -1,0 +1,1 @@
+lar[1425]=`<b>ἀδικο·μαχία, ας (ἡ)</b> <font color="purple">[ᾰῐμᾰ]</font> déloyauté dans la manière de combattre, ARSTT. <i>Soph. el. 1, 10</i>.<p><b>Étym</b>. <i>cf</i>. ἀδικομαχέω.`

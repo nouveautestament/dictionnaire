@@ -1,0 +1,1 @@
+lar[35242]=`<b>ας (ἡ) :<br>      1</b> avis secret envoyé (à l’ennemi) XÉN. <i>Cyr. 2, 4, 23, au plur.</i><br><b>      2</b> <i>en parl. du style,</i> expression, LGN <i>fr. 8</i>.<p><b>Étym</b>. ἐξαγγέλλω.`

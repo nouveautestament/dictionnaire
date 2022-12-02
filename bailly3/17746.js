@@ -1,0 +1,1 @@
+lar[17746]=`<b>αὐτουργό·τευκτος, ος, ον</b>, qui s’est fait de soi-même, <i>càd</i>. sans art, LYC. <i>747</i>.<p><b>Étym</b>. αὐτ. τεύχω.`

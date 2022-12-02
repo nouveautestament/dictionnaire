@@ -1,0 +1,1 @@
+lar[48311]=`<b>ας (ἡ)</b> <font color="purple">[ῑᾱ]</font> femme qui exerce la médecine, ALEX. (EUST. <i>p. 859, 51).</i><p><b>Étym</b>. <i>fém. de</i> ἰατήρ.`

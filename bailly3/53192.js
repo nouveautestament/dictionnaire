@@ -1,0 +1,1 @@
+lar[53192]=`<b>εως (ἡ) :<br>      1</b> condensation, NICOM. <i>Harm. p. 24</i>.<br><b>      2</b> <i>p. suite,</i> plénitude absolue, ALCIPHR. <i>3, 55, 8</i>.<p><b>Étym</b>. καταπυκνόω.`

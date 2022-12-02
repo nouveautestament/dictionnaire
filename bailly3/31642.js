@@ -1,0 +1,1 @@
+lar[31642]=`<b>ἐκ·μαίομαι</b> <font color="darkgreen">(<i>seul. ao. épq. 3 sg</i>. ἐκμάσσατο)</font> découvrir, inventer, HH. <i>Merc. 511</i>.`

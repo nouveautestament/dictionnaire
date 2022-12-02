@@ -1,0 +1,1 @@
+lar[94668]=`<b>συν·αλύω</b> <font color="purple">[ᾰ]</font> (<i>seul. prés</i>.) errer ensemble, PLUT. <i>Ant. 29</i>.`

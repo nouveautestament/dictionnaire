@@ -1,0 +1,1 @@
+lar[14180]=`<b>ης (ἡ)</b> <font color="purple">[ᾰα]</font><br><b>      1</b> araignée, ESCHL. <i>Ag. 1492</i> ; ANTH. <i>11, 110, etc.</i><br><b>      2</b> <i>p. ext</i>. toile d’araignée, SOPH. <i>fr. 269</i> ; ANTH. <i>11, 106</i>.<br><b>      3</b> <i>p. anal</i>. araignée de mer, <i>poisson,</i> DIOSC. <i>2, 68</i>.`

@@ -1,0 +1,1 @@
+lar[93618]=`<b>συγ·χρηματίζω</b> <font color="purple">[ᾰ]</font> être appelé avec, avoir un nom en commun avec, <i>dat</i>. PTOL. <i>Tetr. p. 79, 8</i>.`

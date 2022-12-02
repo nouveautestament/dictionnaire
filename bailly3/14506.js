@@ -1,0 +1,1 @@
+lar[14506]=`<font color="purple">[ᾱ]</font> <i>seul. masc</i>. accablé, IL. <i>18, 435</i> ; OD. <i>6, 2, etc</i>.<p><b>Étym</b>. <i>part. pf. pass. d’un verbe inus</i>.`

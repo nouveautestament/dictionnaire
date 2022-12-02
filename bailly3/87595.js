@@ -1,0 +1,1 @@
+lar[87595]=`<font color="purple">[ῡ]</font> <i>adv</i>., vers Pythô, OD. <i>11, 581</i> ; SOPH. <i>O.R. 603, 788</i> ; AR. <i>Av. 189, etc.</i> ; PLAT. <i>Leg. 950e, etc</i>.<p><b>Étym</b>. Πυθώ, -δε.`

@@ -1,0 +1,1 @@
+lar[12416]=`<b>ἀπο·θινόω-ῶ</b> <font color="purple">[ῑ]</font> couvrir de sable, ensabler, POL. <i>1, 75, 8</i>.<p><b>Étym</b>. ἀπό, θίς.`

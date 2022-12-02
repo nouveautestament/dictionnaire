@@ -1,0 +1,1 @@
+lar[77171]=`<b>παρ·υποψύχω</b>, rafraîchir légèrement <i>ou</i> en passant, DIOSC. <i>2, 107</i>.`

@@ -1,0 +1,1 @@
+lar[54252]=`<b>η, ον</b> <font color="purple">[ᾰᾰ]</font> très bas, le plus bas, XÉN. <i>Cyr. 6, 1, 52 ; plur. neutre adv</i>. κατώτατα, HDT. <i>7, 23,</i> tout à fait en bas.<p><b>Étym</b>. κάτω.`

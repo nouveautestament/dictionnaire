@@ -1,0 +1,1 @@
+lar[6164]=`<b>ἀμφι·θλάω</b>, meurtrir <i>ou</i> comprimer tout autour, ARÉT. <i>Cur. m. diut. 2, 6 ; cf</i>. ἀμφιφλάω.`

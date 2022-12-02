@@ -1,0 +1,1 @@
+lar[102594]=`<b>ὑπερ·κεράω-ῶ :<br>      1</b> déborder les ailes <i>ou</i> une aile d’une armée, <i>acc</i>. POL. <i>11, 23, 5</i> ; PLUT. <i>Brut. 41</i> ; POLYEN <i>4, 3, 16</i> ; SPT. <i>1Macc. 7, 46</i>.<br><b>      2</b> déborder en forme de croissant, M. RUBR. <i>38</i>.<p><b>Étym</b>. ὑ. κέρας.`

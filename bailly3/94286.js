@@ -1,0 +1,1 @@
+lar[94286]=`<b>ή, όν</b>, propre à remplir, achever <i>ou</i> compléter, EPIC. (DL. <i>10, 131</i>) ; PLUT. <i>M. 1060c ;</i> PORPH. <i>Abst. 1, 29</i> ; JAMBL. (STOB. <i>Fl. 25, 6), etc</i>.<p><b>Étym</b>. συμπληρόω.`

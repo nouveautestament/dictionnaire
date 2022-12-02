@@ -1,0 +1,1 @@
+lar[49350]=`<b>ἱππό·κομος, ος, ον</b>, garni d’une crinière de cheval, IL. <i>13, 132, etc.</i> ; SOPH. <i>Ant. 116</i>.<p><b>Étym</b>. ἵ. κόμη.`

@@ -1,0 +1,1 @@
+lar[948]=`<b>ἀγρο·δίαιτος, ος, ον</b>, qui vit à la campagne, SYN. <i>De regn. 27b</i>.<p><b>Étym</b>. ἀ. δίαιτα.`

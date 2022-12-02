@@ -1,0 +1,1 @@
+lar[47545]=`<b>ου (τὸ)</b> Thrakion, <i>lieu de Byzance,</i> XÉN. <i>An. 7, 1, 24 ; Hell. 1, 3, 20</i>.<p><b>Étym</b>. <i>neutre de</i> Θρᾴκιος.`

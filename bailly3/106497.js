@@ -1,0 +1,1 @@
+lar[106497]=`<b>α, ον</b>, <i>vb. de</i> φοβέω, PLAT. <i>Leg. 746e ; au neutre,</i> PLAT. <i>Rsp. 452b, Leg. 891a, etc.</i> ; PLUT. <i>M. 131e</i>.`

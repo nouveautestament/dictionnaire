@@ -1,0 +1,1 @@
+lar[803]=`<i>(seul. prés.) c</i>. ἀγνοέω, MUS. <i>249</i> ; COL. <i>8, etc. ; en prose, seul</i>. LUC. <i>Ep. sat. 25</i>.<p><b>Étym</b>. <i>probabl. de</i> ἀγνώσασκε, <i>v</i>. ἀγνοέω.`

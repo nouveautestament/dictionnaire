@@ -1,0 +1,1 @@
+lar[68576]=`<b>ου (ὁ, ἡ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> tout jeune enfant, IL. <i>2, 338 ; 6, 408</i> ; BION <i>3, 2</i> ; Ps.-PHOCYL. <i>150, etc.</i><br><b>      2</b> de petit enfant, puéril, ARÉT. <i>p. 75, 31</i>.<p><b>Étym</b>. νήπιος.`

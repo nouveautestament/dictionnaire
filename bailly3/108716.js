@@ -1,0 +1,1 @@
+lar[108716]=`<b>ή, όν :<br>      1</b> qui concerne le choléra, du choléra, HPC. <i>1230a ;</i> SEXT. <i>P. 1, 131</i>.<br><b>      2</b> malade du choléra, cholérique, DIOSC. <i>4, 4</i> ; PLUT. <i>M. 831a</i>.<p><b>Étym</b>. χολέρα.`

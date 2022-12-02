@@ -1,0 +1,1 @@
+lar[93318]=`<b>εως (ἡ)</b> <font color="purple">[κλῐ]</font> <i>subst. de</i> συγκατακλίνω PLUT. <i>M. 768b</i>.`

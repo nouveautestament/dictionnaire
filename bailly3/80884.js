@@ -1,0 +1,1 @@
+lar[80884]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de plus de façons, de plus de manières, EPIC. (DL. <i>10, 78, etc</i>.) ; ARSTT. <i>An. post. 1, 33, 6, etc</i>.<p><b>Étym</b>. πλεοναχός.`

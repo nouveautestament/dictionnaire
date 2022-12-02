@@ -1,0 +1,1 @@
+lar[68967]=`<b>νοο·ποιός, ός, όν</b>, qui crée l’intelligence, PLOT. <i>Enn. 6, 8, 18, p. 753c</i>.<p><b>Étym</b>. ν. ποιέω.`

@@ -1,0 +1,1 @@
+lar[95381]=`<b>συν·εκπικραίνω</b>, aigrir <i>ou</i> exaspérer en même temps, PLUT. <i>M. 468b</i>.`

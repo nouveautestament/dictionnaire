@@ -1,0 +1,1 @@
+lar[84412]=`<b>προ·καθαιρέω-ῶ</b> <font color="darkgreen">(<i>f</i>. ήσω, <i>ao.2</i> προκαθεῖλον, <i>etc</i>.)</font> renverser <i>ou</i> détruire auparavant, APP. <i>Lib. 126</i>.`

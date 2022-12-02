@@ -1,0 +1,1 @@
+lar[69297]=`<b>ά, όν :<br>      1 <i>intr</i></b>. lent, nonchalant, paresseux, ARSTT. <i>H.A. 5, 22</i> ; languissant, ANTH. <i>9, 597 ; au mor</i>. PLAT. <i>Theæt. 144b.</i><br><b>      2 <i>tr</i></b>. qui rend paresseux <i>ou</i> nonchalant, SEXT. <i>M. 7, 48</i>.<p>•<i> Cp</i>. νωθρότερος, HLD. <i>5, 1 ; • Sup</i>. νωθρότατος, BAS. <i>3, 16e</i>.<p><b>Étym</b>. νωθής.`

@@ -1,0 +1,1 @@
+lar[37899]=`<b>ής, ές</b>, recourbé, PLUT. <i>Cam. 32</i> ; LUC. <i>Gall. 28</i>.<p><b>Étym</b>. ἐπικάμπτω.`

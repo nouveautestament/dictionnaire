@@ -1,0 +1,1 @@
+lar[6344]=`<b>ἀμφι·ρρήγνυμι</b> (<i>seul. part. ao. pass</i>. ἀμφιραγείς <i>p</i>. -ρραγείς) briser tout autour, Q. SM. <i>1, 39</i>.`

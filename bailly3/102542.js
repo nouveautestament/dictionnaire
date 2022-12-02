@@ -1,0 +1,1 @@
+lar[102542]=`<i>ou</i> <b>ὑπερθυμόομαι-οῦμαι</b> <font color="purple">[θῡ]</font> montrer un courage extrême, DC. <i>43, 37</i>.<p><b>Étym</b>. ὑπέρθυμος.`

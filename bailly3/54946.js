@@ -1,0 +1,1 @@
+lar[54946]=`<b>οῦ (ὁ)</b> Kérèssos, <i>fort près de Thespies,</i> PLUT. <i>Cam. 19</i>.`

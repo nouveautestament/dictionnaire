@@ -1,0 +1,1 @@
+lar[41227]=`<font color="darkgreen">(<i>f</i>. ἐτάσω, <i>ao</i>. ἤτασα, <i>pf. inus</i>.)</font> vérifier, rechercher, examiner, contrôler, PLAT. <i>Crat. 410d ;</i> ANTH. <i>7, 17 ; 12, 135 ; au pass</i>. SPT. <i>Sap. 6, 7</i>.<p><b>Étym</b>. ἐτός.`

@@ -1,0 +1,1 @@
+lar[7044]=`<b>οῦ (ὁ)</b> <font color="purple">[ῠ]</font> action de ramener (<i>litt</i>. de faire rouler) en arrière, DS. <i>12, 36 conj</i>.<p><b>Étym</b>. ἀνακυλίω.`

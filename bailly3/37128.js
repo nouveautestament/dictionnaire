@@ -1,0 +1,1 @@
+lar[37128]=`<b>ἐπ·εξευρίσκω :<br>      1</b> inventer en outre, HDT. <i>2, 160</i>.<br><b>      2</b> découvrir en outre, ARSTT. <i>Pol. 7, 11, 11</i>.`

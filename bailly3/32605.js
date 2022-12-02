@@ -1,0 +1,1 @@
+lar[32605]=`<b>(ὁ)</b> sorte de chouette, AR. <i>Av. 304</i>.<p><b>Étym</b>. <i>probabl. pré-grec</i>.`

@@ -1,0 +1,1 @@
+lar[39918]=`<b>εως (ἡ)</b> action de charrier <i>ou</i> de transporter vers, JAMBL. <i>V. Pyth. 136</i>.<p><b>Étym</b>. *ἐποχέω, <i>de</i> ἐπί, ὀχέω.`

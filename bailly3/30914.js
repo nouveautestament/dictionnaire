@@ -1,0 +1,1 @@
+lar[30914]=`<b>εἰσ·χέω</b>, <i>ion. et anc. att</i>. <b>ἐσ·χέω</b>, verser dans, EUR. <i>Cycl. 389 (part. ao</i>. εἰσχέας).<br><b><i>Moy.</i></b> se répandre dans, <i>avec</i> ἐς <i>et l’acc</i>. IL. <i>21, 610 (ao</i>. ἐσέχυντο) ; <i>abs</i>. HDT. <i>9, 70</i>.<p><b>Étym</b>. <i>impf</i>. ἐσεχέοντο.`

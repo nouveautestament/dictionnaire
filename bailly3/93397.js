@@ -1,0 +1,1 @@
+lar[93397]=`<b>συγ·κατεξανίσταμαι</b> <font color="purple">[ᾰν]</font> se lever en même temps, PLUT. <i>Cæs. 8 dout</i>.`

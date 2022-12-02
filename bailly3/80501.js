@@ -1,0 +1,1 @@
+lar[80501]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Piso, Pison, <i>n. rom</i>. ANTH. <i>11, 424</i>.`

@@ -1,0 +1,1 @@
+lar[102056]=`<b>ὑπ·αυστηρός, ά, όν</b> <font color="purple">[ῠ]</font> légèrement âpre <i>ou</i> sur, DIOSC. <i>4, 55</i>.`

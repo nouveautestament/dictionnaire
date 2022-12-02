@@ -1,0 +1,1 @@
+lar[52777]=`<b>α, ον</b> <font color="purple">[ῠ]</font> qu’il faut dissoudre, détruire <i>ou</i> renverser, CHION. <i>Ep. 15</i> ; DS. <i>14, 65</i>.<p><b>Étym</b>. <i>vb. de</i> καταλύω.`

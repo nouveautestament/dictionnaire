@@ -1,0 +1,1 @@
+lar[95187]=`<b>συν·διΐστημι</b>, séparer en même temps avec, SYN. <i>Ep. 137</i>.`

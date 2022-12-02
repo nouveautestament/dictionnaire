@@ -1,0 +1,1 @@
+lar[88195]=`<b>ου (τὸ)</b> <font color="purple">[ᾱ]</font> petit grain de raisin, EM. <i>705, 52 ; p. anal</i>. sorte d’araignée venimeuse, AÉT. <i>13, 20</i>.<p><b>Étym</b>. ῥάξ.`

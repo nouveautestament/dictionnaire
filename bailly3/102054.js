@@ -1,0 +1,1 @@
+lar[102054]=`<b>ὑπ·αυλέω-ῶ</b> <font color="purple">[ῠ]</font> accompagner sur la flûte, LUC. <i>Salt. 83, etc.</i> ; τινι, POSIDON. (ATH. <i>252e</i>) ; LUC. <i>Harm. 1</i> ; DC. <i>Exc. p. 39, 36,</i> qqn ; τινί τι, ALCM. <i>66,</i> qqn pour un air.`

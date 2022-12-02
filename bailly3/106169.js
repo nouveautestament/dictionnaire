@@ -1,0 +1,1 @@
+lar[106169]=`<b>Φιλο·φάνης, ους (ὁ)</b> <font color="purple">[ῐᾰ]</font> Philophanès, <i>sophiste,</i> PLUT. <i>M. 208a</i>.<p><b>Étym</b>. φ. φαίνω.`

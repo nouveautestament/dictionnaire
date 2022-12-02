@@ -1,0 +1,1 @@
+lar[2962]=`<font color="darkgreen">(<i>seul. prés. et part. ao. poét</i>. αἰτίσσας, ANTH. <i>10, 66</i>)</font> demander avec instance, mendier : τι, OD. <i>17, 558</i> ; AR. <i>Pax 120,</i> qqe ch. ; τινά, OD. <i>17, 346,</i> auprès de qqn ; <i>abs</i>. OD. <i>17, 228</i>.<p><b>Étym</b>. αἰτέω.`

@@ -1,0 +1,1 @@
+lar[16436]=`<b>ἀ·σύλληπτος, ου</b>, <i>adj. f</i>. qui ne peut concevoir, stérile, DIOSC. <i>2, 97 ; 4, 19</i>.<p><b>Étym</b>. ἀ, συλλαμβάνω.`

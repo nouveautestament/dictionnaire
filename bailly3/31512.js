@@ -1,0 +1,1 @@
+lar[31512]=`<b>ή, όν</b>, propre à chasser, à repousser, ARSTT. <i>Rhet. 2, 8</i> ; ARR. <i>Epict. 2, 18, 29</i>.<p><b>Étym</b>. ἐκκρούω.`

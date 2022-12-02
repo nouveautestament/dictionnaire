@@ -1,0 +1,1 @@
+lar[16573]=`<b>ου (τὸ)</b> sorte de trèfle à odeur bitumineuse, DIOSC. <i>3, 123</i>.`

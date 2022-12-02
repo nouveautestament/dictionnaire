@@ -1,0 +1,1 @@
+lar[83271]=`<b>ος, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. πράσινος, PLAT. <i>Tim. 68c, etc</i>.<p><b>Étym</b>. πράσον.`

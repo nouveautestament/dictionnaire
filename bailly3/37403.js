@@ -1,0 +1,1 @@
+lar[37403]=`<b>ἐπι·βροχέω-ῶ</b>, serrer avec un ligament, GAL. <i>14, 789</i>.<p><b>Étym</b>. ἐπί, βρόχος.`

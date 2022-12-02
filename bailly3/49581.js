@@ -1,0 +1,1 @@
+lar[49581]=`<b>ή, όν</b> <font color="purple">[ῑσ]</font> d’Isis : ὁ Ἰσιακός, PLUT. <i>M. 352b ;</i> DIOSC. <i>3, 27,</i> prêtre d’Isis.<p><b>Étym</b>. Ἶσις.`

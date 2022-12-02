@@ -1,0 +1,1 @@
+lar[36139]=`<b>ή, όν</b>, qui exprime sa reconnaissance, PHIL. <i>1, 60</i>.<p><b>Étym</b>. ἐξομολογέω.`

@@ -1,0 +1,1 @@
+lar[73225]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> <i>c</i>. ὀσμύλη, OPP. <i>H. 1, 307, 310</i> ; EL. <i>N.A. 5, 44, etc</i>.`

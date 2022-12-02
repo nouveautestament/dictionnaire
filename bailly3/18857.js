@@ -1,0 +1,1 @@
+lar[18857]=`<b>ου (τὸ)</b> graine de rave <i>ou</i> de chou, A. TR. <i>7, 20</i> ; P. ÉG. <i>3, 105, 7</i>.`

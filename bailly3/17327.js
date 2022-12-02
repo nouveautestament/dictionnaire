@@ -1,0 +1,1 @@
+lar[17327]=`<b>αὐτ·άρεσκος, ος, ον</b> <font color="purple">[ᾰ]</font> satisfait de soi-même, suffisant, présomptueux, NYSS. <i>3, 165c ;</i> BAS. <i>etc</i>.<p><b>Étym</b>. αὐτός, ἀρέσκω.`

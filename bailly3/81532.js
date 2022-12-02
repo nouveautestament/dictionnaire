@@ -1,0 +1,1 @@
+lar[81532]=`<b>πολεμο·τροφέω-ῶ</b>, entretenir (<i>propr</i>. nourrir) la guerre, SPT. <i>2Macc. 10, 14</i>.<p><b>Étym</b>. π. -τροφος <i>de</i> τρέφω.`

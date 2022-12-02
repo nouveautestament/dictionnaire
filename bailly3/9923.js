@@ -1,0 +1,1 @@
+lar[9923]=`<b>ἀντι·καταλαμβάνω</b>, s’emparer à son tour de, T. LOCR. <i>102d ;</i> DC. <i>36, 23</i>.`

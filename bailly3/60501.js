@@ -1,0 +1,1 @@
+lar[60501]=`<b>ας (ἡ)</b> Leugæa, <i>n. d’un régiment de cavalerie d’Alexandre le Grand,</i> ARR. <i>An. 2, 9, 3</i>.`

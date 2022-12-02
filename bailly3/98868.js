@@ -1,0 +1,1 @@
+lar[98868]=`<i>adv</i>., selon les règles d’un art, DRAC. <i>147</i>.<p><b>Étym</b>. τεχνολογία.`

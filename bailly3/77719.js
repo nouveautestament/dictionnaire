@@ -1,0 +1,1 @@
+lar[77719]=`<b>εος-ους (τὸ)</b> <font color="purple">[ᾰ]</font> Pélagos, <i>personnification de la mer,</i> HÉS. <i>Th. 131</i>.<p><b>Étym</b>. <i>v</i>. πέλαγος.`

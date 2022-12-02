@@ -1,0 +1,1 @@
+lar[96867]=`<b>ης, ες :<br>      1</b> semblable à une guêpe, <i>d’où</i> élancé, svelte, maigre, AR. <i>Pl. 561</i>.<br><b>      2</b> <i>p. suite,</i> aminci par le milieu : σφηκώδης στίχος, HÉPH. <i>p. 182, 23,</i> vers où manque, au milieu, un temps <i>ou</i> une syllabe.<p><b>Étym</b>. σφήξ, -ωδης.`

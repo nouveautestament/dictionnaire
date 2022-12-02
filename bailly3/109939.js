@@ -1,0 +1,1 @@
+lar[109939]=`<b>ας (ἡ)</b> Psyttaleia, <i>petite î. près de Salamine,</i> HDT. <i>8, 76, 95</i> ; PLUT. <i>Arist. 9, etc</i>.`

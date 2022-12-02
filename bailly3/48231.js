@@ -1,0 +1,1 @@
+lar[48231]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑᾰ]</font> Iaménos, <i>h</i>. IL. <i>12, 139, 193</i>.`

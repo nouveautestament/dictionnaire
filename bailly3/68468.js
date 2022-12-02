@@ -1,0 +1,1 @@
+lar[68468]=`<i>adv</i>., en jeune homme, PLUT. <i>Dio. 4</i>.`

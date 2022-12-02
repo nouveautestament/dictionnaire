@@ -1,0 +1,1 @@
+lar[65612]=`<b>εος-ους (τὸ)</b> moyen, <i>particul</i>. expédient, remède, IL. <i>2, 342</i> ; τινος, OD. <i>12, 392</i> ; HDT. <i>2, 181 ; 4, 151 ; chez les Trag</i>. EUR. <i>Andr. 536,</i> contre qqe ch.<p>➳ <i>Dor</i>. μᾶχος, THCR. <i>Idyl. 2, 95</i>.<p><b>Étym</b>. μηχανή.`

@@ -1,0 +1,1 @@
+lar[79357]=`<b>ή, όν</b>, qui a la propriété de comprimer en se contractant, de se contracter, péristaltique, GAL. <i>5, 57, etc</i>.<p><b>Étym</b>. περιστέλλω.`

@@ -1,0 +1,1 @@
+lar[29897]=`<b>ἐγ·χειρουργέω-ῶ</b>, accomplir un travail manuel, une œuvre d’art en opérant dans <i>ou</i> sur, <i>dat</i>. NYSS. <i>1, 137a</i>.<p><b>Étym</b>. ἐν, χ.`

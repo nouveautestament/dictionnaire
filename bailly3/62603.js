@@ -1,0 +1,1 @@
+lar[62603]=`<b>ου (ὁ)</b> <font color="purple">[ᾱῡ]</font> Makynos, <i>v. d’Étolie,</i> ANTH. <i>9, 518</i>.`

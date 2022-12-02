@@ -1,0 +1,1 @@
+lar[69002]=`<b>*νοσο·λύτης</b>, <i>seul</i>. <b>νουσο·λύτης, ου</b> <font color="purple">[ῡ]</font> <i>adj. m</i>. qui délivre de la maladie, ANON. (<i>Welck. Syll. 135, 1).</i><p><b>Étym</b>. νοῦσος, λύω.`

@@ -1,0 +1,1 @@
+lar[69277]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Nykhios, <i>h</i>. Q. SM. <i>2, 364</i>.`

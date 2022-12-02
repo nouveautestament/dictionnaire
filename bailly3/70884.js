@@ -1,0 +1,1 @@
+lar[70884]=`<b>ὀκτω·και·εικοσα·πλασίων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰσ]</font> 28 fois plus grand, PLUT. <i>M. 889f</i>.<p><b>Étym</b>. ὀ. καί, εἴκοσι, -πλασίων.`

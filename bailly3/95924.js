@@ -1,0 +1,1 @@
+lar[95924]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾱ]</font> spectateur avec d’autres, PLAT. <i>Rsp. 523a, Lach. 179e</i>.<p><b>Étym</b>. συνθεάομαι.`

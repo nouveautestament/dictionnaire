@@ -1,0 +1,1 @@
+lar[1391]=`<b>ἀ·διάχυτος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui ne se dissout pas, DIOSC. <i>5, 91</i>.<br><b>      2</b> non amolli par la cuisson, TH. <i>C.P. 4, 12, 2</i>.<br><b>      3</b> non inondé de sueur, HPC. <i>22, 45</i>.<br><b>      4</b> non diffus, concis, LGN <i>34, 3</i>.<p><b>Étym</b>. ἀ, διαχέω.`

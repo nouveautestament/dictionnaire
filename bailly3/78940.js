@@ -1,0 +1,1 @@
+lar[78940]=`<b>περι·μύρομαι</b> <font color="purple">[ῡ]</font> se plaindre autour de, <i>avec</i> ἀμφί <i>et l’acc</i>. Q. SM. <i>12, 489</i>.`

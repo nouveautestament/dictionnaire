@@ -1,0 +1,1 @@
+lar[92195]=`<i>adv</i>., comme une croix, APD. POL. <i>43</i>.<p><b>Étym</b>. σταυροειδής.`

@@ -1,0 +1,1 @@
+lar[7607]=`<b>ἀνα·σεύομαι</b> <font color="darkgreen">(<i>seul. ao. 3 sg</i>. ἀνέσσυτο <font color="purple">[ῠ]</font>)</font> jaillir, IL. <i>11, 458</i>.<p><b>Étym</b>. ἀνά, σεύω.`

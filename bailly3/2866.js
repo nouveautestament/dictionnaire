@@ -1,0 +1,1 @@
+lar[2866]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> impie, criminel, IL. <i>5, 403, etc.</i> ; injurieux, IL. <i>20, 202</i>.<p><b>Étym</b>. <i>p.-ê. pré-grec ; cf</i>. ἀήσυλος.`

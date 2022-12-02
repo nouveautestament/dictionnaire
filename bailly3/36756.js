@@ -1,0 +1,1 @@
+lar[36756]=`<b>ἐπ·απονίναμαι</b> <font color="darkgreen">(<i>inf. ao</i>. ἐπαπόνασθαι)</font> jouir de, <i>gén</i>. PHIL. <i>1, 327</i>.`

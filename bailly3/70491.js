@@ -1,0 +1,1 @@
+lar[70491]=`<b>έως (ὁ)</b> Œnée (<i>litt</i>. vigneron), <i>roi de Kalydôn, en Étolie, père de Méléagre, Tydée et Déjanire,</i> IL. <i>14, 117</i> ; SOPH. <i>Tr. 6, etc</i>.<p>➳ <i>Gén. épq</i>. -ῆος, IL. <i>2, 641 ; 9, 540, etc. ; poét</i>. -έος, ANTH. <i>7, 421</i>.<p><b>Étym</b>. οἶνος.`

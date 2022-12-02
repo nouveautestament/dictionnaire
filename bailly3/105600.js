@@ -1,0 +1,1 @@
+lar[105600]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> goût <i>ou</i> recherche du plaisir, AR. <i>Pl. 307, 311</i>.<p><b>Étym</b>. φιληδής.`

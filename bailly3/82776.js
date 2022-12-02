@@ -1,0 +1,1 @@
+lar[82776]=`<b>ατος (τὸ)</b> passage d’un fleuve, ESCHL. <i>Ag. 1558</i>.<p><b>Étym</b>. πορθμεύω.`

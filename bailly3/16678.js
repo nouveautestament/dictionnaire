@@ -1,0 +1,1 @@
+lar[16678]=`<b>ἀταρακτέω-ῶ</b> <font color="purple">[τᾰ]</font> être <i>ou</i> rester calme, EPIC. (DL. <i>10, 80</i>) ; M. ANT. <i>9, 41</i>.<p><b>Étym</b>. ἀτάρακτος.`

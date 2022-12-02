@@ -1,0 +1,1 @@
+lar[58050]=`<b>κρομβόω-ῶ</b>, faire rôtir, DIPH. <i>fr. 88 Mein</i>.`

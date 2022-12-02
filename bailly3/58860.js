@@ -1,0 +1,1 @@
+lar[58860]=`<b>η, ον</b> <font color="purple">[ᾰ]</font> <i>c</i>. κύντατος, ARSTT. <i>fr. 69</i>.`

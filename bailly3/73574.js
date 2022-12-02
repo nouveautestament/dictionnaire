@@ -1,0 +1,1 @@
+lar[73574]=`<b>οὐλο·φόρος, ος, ον</b>, qui porte des gerbes, SERV. <i>ad Æn. 11, 858</i>.<p><b>Étym</b>. οὖλος⁴, φέρω.`

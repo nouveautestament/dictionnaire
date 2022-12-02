@@ -1,0 +1,1 @@
+lar[40308]=`<b>έως (ὁ)</b> Éretmée (<i>litt</i>. le rameur) <i>Phéacien,</i> OD. <i>8, 112</i>.<p><b>Étym</b>. ἐρέσσω.`

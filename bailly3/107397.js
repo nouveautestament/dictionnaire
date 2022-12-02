@@ -1,0 +1,1 @@
+lar[107397]=`<b>ή, όν</b>, qu’on peut dire, ANTH. <i>6, 210</i>.<p><b>Étym</b>. <i>vb. de</i> φωνέω.`

@@ -1,0 +1,1 @@
+lar[62221]=`<b>ῆς (ἡ)</b> <i>propr</i>. « originaire de Magdala », <i>n. de Marie-Madeleine,</i> NT. <i>Matth. 27, 56</i>.<p><b>Étym</b>. Μαγδαλά.`

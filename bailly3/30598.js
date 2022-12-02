@@ -1,0 +1,1 @@
+lar[30598]=`<b>ας (ἡ)</b> Eirènia, <i>n. de v</i>. LUC. <i>H. conscr. 31</i>.<p><b>Étym</b>. εἰρήνη.`

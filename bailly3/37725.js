@@ -1,0 +1,1 @@
+lar[37725]=`<font color="purple">[ᾱ]</font> <i>dor. c</i>. ἐπιζήμιος.`

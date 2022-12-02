@@ -1,0 +1,1 @@
+lar[105293]=`<b>ης, ες</b>, plein de poux, pouilleux, <i>au cp</i>. -έστερος, ARSTT. <i>H.A. 5, 31, 4</i>.<p><b>Étym</b>. φθείρ, -ωδης.`

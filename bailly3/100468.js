@@ -1,0 +1,1 @@
+lar[100468]=`<b>τρίσ·λοπος, ος, ον</b>, dont l’écorce se renouvelle trois fois l’an, TH. <i>H.P. 3, 5, 1 dout</i>.<p><b>Étym</b>. τρ. λέπω.`

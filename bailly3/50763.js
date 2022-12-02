@@ -1,0 +1,1 @@
+lar[50763]=`<b>κακό·λεκτρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui a un commerce criminel, incestueux, OPP. <i>C. 1, 261</i>.<p><b>Étym</b>. κ. λέκτρον.`

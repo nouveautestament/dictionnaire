@@ -1,0 +1,1 @@
+lar[95865]=`<b>ή, όν</b>, qui concerne la défense en justice, PHIL. <i>1, 302</i> ; τὸ συνηγορικόν, AR. <i>Vesp. 691,</i> honoraires d’un avocat.<p><b>Étym</b>. συνήγορος.`

@@ -1,0 +1,1 @@
+lar[83632]=`<b>προ·αποβάλλω</b>, rejeter <i>ou</i> perdre auparavant, PAUS. <i>4, 7, 11</i>.`

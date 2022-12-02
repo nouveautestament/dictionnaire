@@ -1,0 +1,1 @@
+lar[82892]=`<i>adv. interr</i>. combien de fois ? SPT. <i>Ps. 62, 1</i>.<p><b>Étym</b>. π. -πλοος.`

@@ -1,0 +1,1 @@
+lar[27653]=`<b>δορυ·παγής, ής, ές</b> <font color="purple">[ῠᾰ]</font> construit en bois, ESCHL. <i>Suppl. 743</i>.<p><b>Étym</b>. δόρυ, πήγνυμι.`

@@ -1,0 +1,1 @@
+lar[70989]=`<font color="purple">[ῐ]</font> (<i>seul. part. prés. masc</i>. -έων, OD. <i>5, 457 et fém</i>. -έουσα, OD. <i>19, 356</i>) être faible, épuisé.<p><b>Étym</b>. ὀλιγηπελής.`

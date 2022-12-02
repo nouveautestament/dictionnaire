@@ -1,0 +1,1 @@
+lar[84428]=`<b>προ·καθοσιόω-ῶ :<br>      1</b> consacrer auparavant, JOS. <i>A.J. 16, 11, 7</i>.<br><b>      2</b> dédier auparavant, HLD. <i>10, 37</i>.`

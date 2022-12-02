@@ -1,0 +1,1 @@
+lar[74002]=`<b>ὀψικαρπέω-ῶ</b> <font color="purple">[ῐ]</font> donner des fruits tardifs, TH. <i>C.P. 1, 17, 9</i>.<p><b>Étym</b>. ὀψίκαρπος.`

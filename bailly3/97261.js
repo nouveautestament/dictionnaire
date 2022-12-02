@@ -1,0 +1,1 @@
+lar[97261]=`<b>ιδος (ὁ)</b> <font color="purple">[ῐδ]</font> Sôsis, <i>h</i>. XÉN. <i>An. 1, 2, 9</i> ; PLUT. <i>Dio. 34</i> ; ANTH. <i>6, 118</i>.<p><b>Étym</b>. σῴζω.`

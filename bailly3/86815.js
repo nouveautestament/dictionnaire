@@ -1,0 +1,1 @@
+lar[86815]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en déroute, en désordre, IL. <i>16, 304, etc.</i> ; en se précipitant en avant, PD. <i>P. 4, 167</i>.<p>➳ <i>Dor</i>. προτροπάδαν <font color="purple">[ᾰᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. προτρέπω.`

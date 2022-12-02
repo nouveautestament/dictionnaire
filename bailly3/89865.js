@@ -1,0 +1,1 @@
+lar[89865]=`<b>ας (ἡ)</b> = <i>lat</i>. Servilia, <i>n. de f. rom</i>. PLUT. <i>Luc. 38 ; cf</i>. Σερβιλία.`

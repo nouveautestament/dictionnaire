@@ -1,0 +1,1 @@
+lar[42505]=`<font color="purple">[ᾱ]</font> <i>adv</i>., d’une manière tempérée, CLÉOM. <i>12, 9</i> ; ARTÉM. <i>1, 64</i>.<p><b>Étym</b>. εὔκρατος.`

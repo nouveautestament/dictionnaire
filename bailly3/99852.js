@@ -1,0 +1,1 @@
+lar[99852]=`<b>ου (ὁ)</b> Tragiskos, <i>h</i>. PLUT. <i>Arat. 29</i>.<p><b>Étym</b>. <i>v</i>. τραγίσκος.`

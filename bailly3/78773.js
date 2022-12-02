@@ -1,0 +1,1 @@
+lar[78773]=`<b>περι·κλειτός, ή, όν</b>, célèbre tout alentour <i>ou</i> très illustre, THCR. <i>Idyl. 17, 34</i> ; Q. SM. <i>3, 305</i>.`

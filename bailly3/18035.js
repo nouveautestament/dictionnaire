@@ -1,0 +1,1 @@
+lar[18035]=`<b>ἀφ·ησυχάζω</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) redevenir tranquille, rentrer dans le repos, HPC. <i>1275, 43</i> ; POL. <i>2, 64, 5</i>.<p><b>Étym</b>. ἀπό, ἡσ.`

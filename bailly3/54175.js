@@ -1,0 +1,1 @@
+lar[54175]=`<b>ή, όν</b>, apte à bien diriger, <i>p. suite,</i> qui a du bonheur, du succès, ARSTT. <i>Nic. 2, 3, 7</i>.<p><b>Étym</b>. κατορθόω.`

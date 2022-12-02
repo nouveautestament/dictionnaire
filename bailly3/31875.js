@@ -1,0 +1,1 @@
+lar[31875]=`<b>ατος (τὸ) :<br>      1</b> action de remplir : ἐκπλ. ποιεῖν τοῦ κοίλου, HPC. <i>Art. 785,</i> remplir la cavité.<br><b>      2</b> ce qui remplit, ce qui comble une cavité, HPC. <i>Mochl. 848</i>.<p><b>Étym</b>. ἐκπληρόω.`

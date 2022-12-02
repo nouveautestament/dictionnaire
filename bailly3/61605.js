@@ -1,0 +1,1 @@
+lar[61605]=`<b>ης (ἡ)</b> sorte de vêtement, <i>c</i>. χλαμύς, ANTH. <i>11, 20</i>.`

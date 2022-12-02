@@ -1,0 +1,1 @@
+lar[83975]=`<b>προ·διΐστημι</b> (<i>seul. à l’ao.2 intr</i>. προδιέστην) avoir commencé à se désunir, être déjà en dissension, JOS. <i>B.J. 4, 3, 2</i>.`

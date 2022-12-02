@@ -1,0 +1,1 @@
+lar[27194]=`<b>δι·χοίνικον, ου (τὸ)</b> <font color="purple">[ῐῐ]</font> double chénice, AR. <i>Nub. 640</i>.<p><b>Étym</b>. δίς, χοῖνιξ.`

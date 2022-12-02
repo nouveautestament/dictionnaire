@@ -1,0 +1,1 @@
+lar[62977]=`<b>μαρμαρο·γλυφία, ας (ἡ)</b> <font color="purple">[ᾰροῠ]</font> action de sculpter un bloc de marbre, STR. <i>487</i>.<p><b>Étym</b>. μάρμαρος, γλύφω.`

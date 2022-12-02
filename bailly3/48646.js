@@ -1,0 +1,1 @@
+lar[48646]=`<b>ἱερο·φάντης, ου (ὁ)</b> hiérophante, prêtre qui explique les mystères sacrés, <i>p. suite,</i> initiateur aux mystères, HDT. <i>7, 153</i> ; LYS. <i>103, 21</i> ; IS. <i>64, 18</i> ; PAUS. <i>2, 14, 1 ; à Rome,</i> le grand pontife, DH. <i>2, 73 ; 3, 36</i> ; PLUT. <i>Num. 9</i>.<p>➳ <i>Ion</i>. ἱρο- HDT. <i>l. c</i>.<p><b>Étym</b>. ἱ. φαίνω.`

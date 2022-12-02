@@ -1,0 +1,1 @@
+lar[49722]=`<b>ἰσο·πολῖτις, ίτιδος</b> <font color="purple">[ῑ̆ῑτ]</font> <i>adj. f</i>. πόλις, APP. <i>Civ. 1, 10,</i> ville dont les citoyens jouissent de droits égaux, municipe <i>sous les Romains</i>.<p><b>Étym</b>. <i>v</i>. ἰσοπολίτης.`

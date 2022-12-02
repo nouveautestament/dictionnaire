@@ -1,0 +1,1 @@
+lar[68486]=`<b>ος, ον</b>, qu’on ne peut réveiller, OD. <i>13, 80</i> ; HH. <i>Ven. 178 ; neutre adv</i>. νήγρετον εὕδειν, OD. <i>13, 74, ou</i> ὑπνοῦν, ANTH. <i>7, 305,</i> dormir d’un profond sommeil.<p><b>Étym</b>. νη-, ἐγείρω.`

@@ -1,0 +1,1 @@
+lar[74999]=`<b>*παν·εργέτης</b>, <i>dor</i>. <b>παν·εργέτας, α</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. qui accomplit tout, ESCHL. <i>Ag. 1486</i>.<p><b>Étym</b>. π. ἔργον.`

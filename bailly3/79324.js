@@ -1,0 +1,1 @@
+lar[79324]=`<b>περισσο·καλλής, ής, ές</b>, d’une beauté remarquable, CRAT. (<i>Com. fr. 2, 145).</i><p><b>Étym</b>. π. κάλλος.`

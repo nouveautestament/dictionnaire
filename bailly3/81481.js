@@ -1,0 +1,1 @@
+lar[81481]=`<i>adv</i>., de quelle façon ? HDN GR. <i>π. μ. λ. p. 19, 19</i>.`

@@ -1,0 +1,1 @@
+lar[81918]=`<b>πολυ·θαλπής, ής, ές</b> <font color="purple">[ῠ]</font> qui réchauffe beaucoup, vivifiant, NONN. <i>D. 14, 424</i>.<p><b>Étym</b>. π. θάλπω.`

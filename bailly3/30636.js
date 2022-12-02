@@ -1,0 +1,1 @@
+lar[30636]=`<b>ωνος (ὁ)</b> qui interroge, <i>et p. ext</i>., qui feint l’ignorance, AR. <i>Nub. 449 ; d’où</i> dissimulé, LUC. <i>Anach. 18 ; en parl. du renard,</i> PHILÉM. (<i>Com. fr. 4, 32) ; p. opp. à</i> ἀληθής, ARSTT. <i>Nic. 4, 7, 3 ; ou à</i> ἀλαζών, <i>Nic. 2, 7, 12</i>.<p><b>Étym</b>. ἔρομαι.`

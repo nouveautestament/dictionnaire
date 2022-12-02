@@ -1,0 +1,1 @@
+lar[48724]=`<b>ά, όν</b> <font color="purple">[ῑᾰ]</font> pur, limpide <i>ou</i> léger, rapide, ANTH. <i>15, 22</i>.<p><b>Étym</b>. ἰθύς.`

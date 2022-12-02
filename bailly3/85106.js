@@ -1,0 +1,1 @@
+lar[85106]=`<b>προσ·αιτιάομαι-ῶμαι</b>, accuser en outre, <i>acc</i>. PLUT. <i>Fab. 7</i>.`

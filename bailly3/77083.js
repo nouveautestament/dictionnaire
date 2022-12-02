@@ -1,0 +1,1 @@
+lar[77083]=`<b>παρ·οπτάω-ῶ</b>, faire rôtir <i>ou</i> cuire légèrement, POL. <i>12, 25, 2</i> ; DS. <i>3, 21</i> ; LUC. <i>Per. 25</i>.`

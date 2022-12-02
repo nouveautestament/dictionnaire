@@ -1,0 +1,1 @@
+lar[83822]=`<b>ατος (τὸ)</b> décret proposé par le Conseil des Cinq cents à la ratification du peuple, <i>à Athènes,</i> DÉM. <i>228, 27 ; 703, 17, etc.</i> ; ESCHN. <i>71, 22 ; à Rome,</i> sénatus-consulte, DH. <i>6, 67 ; 7, 38</i>.<p><b>Étym</b>. προβουλεύω.`

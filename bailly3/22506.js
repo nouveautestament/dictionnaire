@@ -1,0 +1,1 @@
+lar[22506]=`<b>Γοργ·ώπας, α (ὁ)</b> Gorgôpas, <i>Spartiate,</i> XÉN. <i>Hell. 5, 1, 5</i> ; DÉM. <i>etc</i>.<p><b>Étym</b>. <i>Cf</i>. γοργωπός.`

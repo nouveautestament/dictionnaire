@@ -1,0 +1,1 @@
+lar[109228]=`<b>χρυσό·πεπλος, ος, ον</b> <font color="purple">[ῡ]</font> au voile brodé d’or, PD. <i>I. 6 fin</i> ; ANACR. <i>76</i>.<p><b>Étym</b>. χρ. πέπλος.`

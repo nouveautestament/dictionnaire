@@ -1,0 +1,1 @@
+lar[53505]=`<b>κατα·σφηνόω-ῶ</b>, caler avec un coin, <i>d’où</i> fixer, attacher fortement, HPC. <i>243, 38</i>.`

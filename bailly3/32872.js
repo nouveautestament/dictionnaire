@@ -1,0 +1,1 @@
+lar[32872]=`<b>ή, όν</b>, qui a la propriété de tirer, d’attirer : πρός τι, PLAT. <i>Rsp. 523a</i>, vers qqe ch.<p>•<i> Cp</i>. -ώτερος, EL. <i>N.A. 17, 6</i>.<p><b>Étym</b>. ἕλκω.`

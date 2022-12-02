@@ -1,0 +1,1 @@
+lar[79246]=`<b>περί·σημος, ος, ον</b>, très distingué, <i>d’où</i> très connu, célèbre, EUR. <i>H.f. 1018</i> ; MOSCH. <i>1, 6</i>.<p>•<i> Cp</i>. -ότερος, JOS. <i>A.J. 15, 11, 6 ; • Sup</i>. -ότατος, PHIL. <i>2, 330</i>.<p>➳ <i>Sup. dor</i>. περισαμότατος <font color="purple">[σᾱ]</font> EUR. <i>l. c</i>.<p><b>Étym</b>. π. σῆμα.`

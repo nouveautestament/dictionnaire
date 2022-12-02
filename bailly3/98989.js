@@ -1,0 +1,1 @@
+lar[98989]=`<b>ου (ὁ)</b> Tèménos, <i>Héraclide, roi d’Argos,</i> HDT. <i>8, 137</i>.`

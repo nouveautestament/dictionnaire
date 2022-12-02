@@ -1,0 +1,1 @@
+lar[71116]=`<i>adv.</i> : ἔχειν πρός τι, PLUT. <i>M. 31c</i>, glisser vers, être porté à.`

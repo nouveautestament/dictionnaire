@@ -1,0 +1,1 @@
+lar[13899]=`<b>ας (ἡ)</b> manque de réflexion, indiscrétion, PLAT. <i>Leg. 867b</i>.<p><b>Étym</b>. *ἀπρόβουλος, <i>v</i>. ἀπροβούλως.`

@@ -1,0 +1,1 @@
+lar[92807]=`<b>      1</b> éclairer, lancer des éclairs, SOPH. <i>O.C. 1515</i> ; A.RH. <i>1, 544 ; fig</i>. ANTH. <i>8, 23, 125</i>.<br><b>      2</b> lancer sous forme d’éclair, <i>acc</i>. ORPH. <i>H. 19, 2</i> ; OPP. <i>C. 3, 349</i>.<p><b>Étym</b>. <i>cf</i>. ἀστράπτω.`

@@ -1,0 +1,1 @@
+lar[78017]=`<font color="purple">[ᾰσ]</font> être multiplié par cinq, NICOM. <i>Arithm. probl. 4</i>.<p><b>Étym</b>. πενταπλάσιος.`

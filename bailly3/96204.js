@@ -1,0 +1,1 @@
+lar[96204]=`<b>συν·οργίζομαι</b> <font color="darkgreen">(<i>f</i>. -ισθήσομαι, <i>réc</i>. -ιοῦμαι, <i>ao</i>. συνωργίσθην)</font> s’associer à la colère <i>ou</i> à l’indignation de, <i>dat</i>. ISOCR. <i>78e ;</i> DÉM. <i>516, 7 ; 547, 6, etc</i>.<p>➳ <i>Fut</i>. συνοργισθήσομαι, DÉM. <i>547, 6 ; f. réc</i>. συνοργιοῦμαι, LIB. <i>236b</i>.`

@@ -1,0 +1,1 @@
+lar[11939]=`<b>ἀπ·ηχέω-ῶ :<br>      1</b> renvoyer le son, ARSTT. <i>Probl. 11, 6, 1</i>.<br><b>      2</b> énoncer, faire entendre, ARR. <i>Epict. 2, 17, 8</i>.`

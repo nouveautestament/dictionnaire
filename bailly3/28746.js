@@ -1,0 +1,1 @@
+lar[28746]=`<b>δυσ·όφθαλμος, ος, ον</b> <font color="purple">[ῠ]</font> d’aspect hideux, TÉLEST. (ATH. <i>616f</i>).<p><b>Étym</b>. δ. ὀφθαλμός.`

@@ -1,0 +1,1 @@
+lar[87756]=`<font color="purple">[ῡᾰῐδ]</font> <i>adv</i>., en forme de pyramide, Ps.-JAMBL. <i>Theol. arithm. p. 22, 19</i>.`

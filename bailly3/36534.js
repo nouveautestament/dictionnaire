@@ -1,0 +1,1 @@
+lar[36534]=`<b>ἐπ·αμεριμνέω-ῶ</b> <font color="purple">[ᾰ]</font> se reposer dans <i>ou</i> sur, <i>dat</i>. BAS. <i>4, 348 Migne</i>.`

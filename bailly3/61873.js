@@ -1,0 +1,1 @@
+lar[61873]=`<font color="purple">[ῠ]</font> <i>adv</i>., en Lycie, <i>avec mouv</i>. IL. <i>6, 168, 171</i>.<p><b>Étym</b>. Λυκία, -δε.`

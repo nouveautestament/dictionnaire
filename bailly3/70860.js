@@ -1,0 +1,1 @@
+lar[70860]=`<b>ὀκτα·στάδιον, ου (τὸ)</b> <font color="purple">[ᾰδ]</font> longueur de huit stades, POL. <i>34, 12, 4</i> ; STR. <i>246, 322</i>.<p><b>Étym</b>. ὀ. στάδιον.`

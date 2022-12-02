@@ -1,0 +1,1 @@
+lar[56357]=`<b>ου</b> <i>ou</i> <b>Κνωπός, οῦ (ὁ)</b> Knôpos, <i>fl. de Béotie avec une v. du même nom,</i> NIC. <i>Th. 889</i>.`

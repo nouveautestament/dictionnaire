@@ -1,0 +1,1 @@
+lar[62309]=`<b>ας (ἡ)</b> Mazousia, <i>promont. de la Chersonèse de Thrace,</i> LYC. <i>534</i>.`

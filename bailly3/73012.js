@@ -1,0 +1,1 @@
+lar[73012]=`<b>ὀρο·τύπος, ος, ον</b> <font color="purple">[ῡ]</font> qui bat le flanc d’une montagne (torrent) (<i>cf</i>. ὀρειτύπος) ESCHL. <i>Sept. 35</i>.`

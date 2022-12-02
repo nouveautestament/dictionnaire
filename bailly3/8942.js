@@ -1,0 +1,1 @@
+lar[8942]=`<b>ας (ἡ)</b> création d’hommes, JOS. <i>c. Ap. 1, 8</i>.`

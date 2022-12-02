@@ -1,0 +1,1 @@
+lar[82248]=`<b>εως (ἡ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. πολυπλασιασμός NICOM. <i>Arithm. 131</i>.`

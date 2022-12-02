@@ -1,0 +1,1 @@
+lar[91637]=`<b>ωνος (ὁ)</b> <font color="purple">[ᾰ]</font> Sousariôn (Susarion) <i>poète de l’anc. comédie à Mégare</i>.`

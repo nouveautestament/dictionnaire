@@ -1,0 +1,1 @@
+lar[56540]=`<b>(οἱ)</b> les Kœtes, <i>pple du Pont,</i> XÉN. <i>An. 7, 8, 25</i>.`

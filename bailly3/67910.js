@@ -1,0 +1,1 @@
+lar[67910]=`<b>νεβριδό·στολος, ος, ον</b> <font color="purple">[ῐ]</font> dont la robe est une peau de faon, ORPH. <i>H. 51, 10</i>.<p><b>Étym</b>. νεβρίς, στολή.`

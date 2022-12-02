@@ -1,0 +1,1 @@
+lar[9776]=`<b>ἀντι·βοάω-οῶ</b>, répondre par des cris, BION <i>1, 38</i>.`

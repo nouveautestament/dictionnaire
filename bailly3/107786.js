@@ -1,0 +1,1 @@
+lar[107786]=`<b>χαμαι·πεύκη, ης (ἡ)</b> sorte de chardon, DIOSC. <i>4, 125</i> ; PLIN. <i>H.N. 24, 15, 86</i>.`

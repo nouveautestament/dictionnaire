@@ -1,0 +1,1 @@
+lar[100320]=`<b>ου (ὁ)</b> <font color="purple">[ῑῐ]</font> descendant de Triope, CALL. <i>H. 6, 32</i>.<p><b>Étym</b>. Τρίοψ.`

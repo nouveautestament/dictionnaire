@@ -1,0 +1,1 @@
+lar[94126]=`<b>συμ·παρήκω</b>, se présenter ensemble <i>ou</i> en même temps, PLUT. <i>M. 1024c</i>.`

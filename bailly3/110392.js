@@ -1,0 +1,1 @@
+lar[110392]=`<i>adv</i>., en temps convenable, HPC. <i>p. 1247</i>.<p><b>Étym</b>. ὡραῖος.`

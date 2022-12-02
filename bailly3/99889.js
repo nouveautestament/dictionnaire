@@ -1,0 +1,1 @@
+lar[99889]=`<b>ῶν (οἱ)</b> les habitants de Tralles, PLUT. <i>Qu. gr. 46</i>.<p><b>Étym</b>. Τράλλεις.`

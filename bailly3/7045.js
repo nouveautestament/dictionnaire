@@ -1,0 +1,1 @@
+lar[7045]=`<b>ἀνα·κυλίω</b> <font color="purple">[ῠῑ]</font> faire rouler en arrière <i>ou</i> de bas en haut, ALEX. (ATH. <i>237c</i>) ; PLUT. <i>M. 304f ;</i> LUC. <i>Luct. 8</i>.`

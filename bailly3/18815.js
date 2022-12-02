@@ -1,0 +1,1 @@
+lar[18815]=`<b>βαθύ·στολμος, ος, ον</b> <font color="purple">[ᾰ]</font> à la robe longue <i>ou</i> ample, ANTH. <i>7, 413</i>.`

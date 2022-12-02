@@ -1,0 +1,1 @@
+lar[68036]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> de nectar, PD. <i>I. 5, 35</i> ; ANTH. <i>6, 248, etc.</i> ; LUC. <i>Herm. 60</i>.<br><b>      2</b> divin, précieux, IL. <i>3, 385 ; 18, 25</i>.<p><b>Étym</b>. νέκταρ.`

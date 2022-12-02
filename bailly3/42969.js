@@ -1,0 +1,1 @@
+lar[42969]=`<b>εὐ·πελέκητος, ος, ον</b> : aisé à tailler avec la hache, <i>au cp</i>. -ότερος, TH. <i>H.P. 5, 6, 4</i>.<p><b>Étym</b>. εὖ, πέλεκυς.`

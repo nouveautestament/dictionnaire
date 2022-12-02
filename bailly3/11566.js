@@ -1,0 +1,1 @@
+lar[11566]=`<i>adv</i>., d’un nombre infini de manières, PLUT. <i>M. 732e</i>.<p><b>Étym</b>. ἄπειρος, -αχως.`

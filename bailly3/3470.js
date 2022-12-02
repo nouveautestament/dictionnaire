@@ -1,0 +1,1 @@
+lar[3470]=`<b>ἄ·κνηστις, ιος (ἡ) :<br>      1</b> échine d’un animal, OD. <i>10, 161</i> ; A.RH. <i>4, 1402</i> ; GAL. <i>2, 371</i>.<br><b>      2</b> sorte d’ortie, NIC. <i>Th. 52</i>.<p><b>Étym</b>. κατ' ἄκνηστιν, OD. <i>l. c. p</i>. κατὰ κνῆστιν, <i>v</i>. κνῆστις.`

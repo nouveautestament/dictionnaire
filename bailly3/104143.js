@@ -1,0 +1,1 @@
+lar[104143]=`<b>ὑπο·χαλινίδιος, α, ον</b> <font color="purple">[ᾰῑνῐδ]</font> qui tient au frein par-dessous : ἡ ὑποχαλινιδία (<i>s.-e</i>. ἡνία) XÉN. <i>Eq. 7, 1,</i> le bridon.<p><b>Étym</b>. ὑ. χαλινός.`

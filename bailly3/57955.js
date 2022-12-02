@@ -1,0 +1,1 @@
+lar[57955]=`<b>κριο·φόρος, ος, ον</b> <font color="purple">[ῑ]</font><br><b>      1</b> qui porte un bélier, <i>ép. d’Hermès,</i> PAUS. <i>9, 22, 1, etc.</i><br><b>      2</b> qui porte <i>ou</i> supporte un bélier de siège, DS. <i>20, 48</i>.<p><b>Étym</b>. κριός, φέρω.`

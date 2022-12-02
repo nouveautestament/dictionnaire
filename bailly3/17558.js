@@ -1,0 +1,1 @@
+lar[17558]=`<b>αὐτό·κωπος, ος, ον</b>, avec la poignée même (épée), ESCHL. <i>Ch. 163</i>.<p><b>Étym</b>. αὐ. κώπη.`

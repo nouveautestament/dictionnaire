@@ -1,0 +1,1 @@
+lar[95365]=`<b>συν·εκλάμπω</b>, briller avec, PLUT. <i>M. 627c, 922d ;</i> LGN <i>44, 3</i>.`

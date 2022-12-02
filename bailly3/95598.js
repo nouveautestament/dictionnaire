@@ -1,0 +1,1 @@
+lar[95598]=`<b>συν·επεύχομαι :<br>      1</b> prier ensemble, THC. <i>6, 32</i> ; ἅμα τινί, PLUT. <i>M. 708c</i>, avec qqn ; souhaiter en même temps, AR. <i>Th. 952</i>.<br><b>      2</b> faire vœu également de, <i>inf. fut</i>. XÉN. <i>An. 3, 2, 9</i>.`

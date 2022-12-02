@@ -1,0 +1,1 @@
+lar[24014]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> <i>dim. de</i> δεσπότης, ARISTÉN. <i>1, 24</i>.`

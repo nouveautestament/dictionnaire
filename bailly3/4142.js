@@ -1,0 +1,1 @@
+lar[4142]=`(<i>seul. prés</i>.) :<br><b>      1 <i>intr.</i></b> croître, grandir, IL. <i>23, 599</i> ; OPP. <i>C. 1, 318</i>.<br><b>      2 <i>tr.</i></b> faire croître, THCR. <i>Idyl. 17, 78</i>.<p><b>Étym</b>. ἀλδαίνω.`

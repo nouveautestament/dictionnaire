@@ -1,0 +1,1 @@
+lar[40585]=`<b>ου (τὸ) :<br>      1</b> buste d’Hermès, STR. <i>343</i>.<br><b>      2</b> <i>lieu d’Attique,</i> PLUT. <i>Phoc. 22</i>.<p><b>Étym</b>. Ἑρμῆς.`

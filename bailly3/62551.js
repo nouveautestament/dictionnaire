@@ -1,0 +1,1 @@
+lar[62551]=`<b>μακρο·πώγων, ωνος</b>, <i>adj. m</i>. à la longue barbe, STR. <i>492</i>.`

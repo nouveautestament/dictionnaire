@@ -1,0 +1,1 @@
+lar[96240]=`<i>adv</i>., par une union en une seule substance, BAS. <i>3, 468 Migne</i>.<p><b>Étym</b>. συνουσιόω.`

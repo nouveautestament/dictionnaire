@@ -1,0 +1,1 @@
+lar[53046]=`<b>ατος (τὸ)</b> voile abaissé, HLD. <i>10, 28 ; particul</i>. le voile du temple, <i>à Jérusalem,</i> SPT. <i>Ex. 26, 31 ; Lev. 4, 6, etc.</i> ; NT. <i>Matth. 27, 51, etc</i>.<p><b>Étym</b>. καταπετάννυμι.`

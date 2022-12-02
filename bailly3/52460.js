@@ -1,0 +1,1 @@
+lar[52460]=`<b>κατ·αΐσσω</b> <font color="purple">[τᾰ]</font><br><b>      1</b> s’élancer en bas, <i>p. opp. à</i> ἀναΐσσω, HERM. (STOB. <i>Ecl. phys. 1, 1076) ; avec</i> ἐκ <i>et le gén</i>. A.RH. <i>2, 224,</i> s’élancer de.<br><b>      2</b> s’élancer à travers, <i>acc</i>. EMPÉD. (TZETZ. <i>Hist. 13, 84</i>).`

@@ -1,0 +1,1 @@
+lar[83203]=`<b>ου (τὸ)</b> abricot, DIOSC. <i>1, 165</i>.<p><b>Étym</b>. <i>lat</i>. præcox.`

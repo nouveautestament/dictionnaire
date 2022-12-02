@@ -1,0 +1,1 @@
+lar[26870]=`<b>ίδος</b>, <i>adj. f</i>. qui sape <i>ou</i> qui creuse, APD. POL. <i>14</i>.<p><b>Étym</b>. διορύσσω.`

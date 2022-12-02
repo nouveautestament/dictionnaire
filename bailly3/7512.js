@@ -1,0 +1,1 @@
+lar[7512]=`<b>ἀν·άργυρος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui n’a pas d’argent, pauvre, LYS. <i>fr. 19</i> ; PLAT. <i>Leg. 679b.</i><br><b>      2</b> qui ne consiste pas en argent (présent) P. SIL. <i>Th. Pyth. 5</i>.<p><b>Étym</b>. ἀν-, ἄ.`

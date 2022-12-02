@@ -1,0 +1,1 @@
+lar[63500]=`<font color="purple">[ᾰ]</font> <i>adv</i>., de Mégare, AR. <i>Vesp. 57</i> ; PLAT. <i>Phæd. 59c, etc</i>.<p><b>Étym</b>. Μέγαρα, -θεν.`

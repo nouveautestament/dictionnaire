@@ -1,0 +1,1 @@
+lar[102139]=`<b>ὑπ·έκπυρος, ος, ον</b> <font color="purple">[πῠ]</font> légèrement enflammé, ORPH. <i>Lith. 140</i>.`

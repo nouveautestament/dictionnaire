@@ -1,0 +1,1 @@
+lar[102968]=`<b>εως (ἡ) :<br>      1</b> résonnance, NAZ.<br><b>      2</b> action de résonner après, CHRYS.<p><b>Étym</b>. ὑπηχέω.`

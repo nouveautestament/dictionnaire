@@ -1,0 +1,1 @@
+lar[69693]=`<b>ος, ον</b> <font color="purple">[ῠ]</font> qui consiste à porter du bois <i>ou</i> des branches : τὰ ξυλοφόρια (<i>s.-e</i>. ἱερά) SPT. <i>Lev. 23, 40,</i> la fête des Rameaux <i>chez les Juifs</i>.<p><b>Étym</b>. ξυλοφόρος.`

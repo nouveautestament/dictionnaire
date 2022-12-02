@@ -1,0 +1,1 @@
+lar[918]=`<b>ου (τὸ)</b> raifort sauvage, <i>sorte de rave,</i> PLIN. <i>H.N. 19, 5, 26</i>.<p><b>Étym</b>. ἄγριος.`

@@ -1,0 +1,1 @@
+lar[2943]=`<b>ατος (τὸ) :<br>      1</b> demande, PLAT. <i>Rsp. 566b ;</i> SPT. <i>1Reg. 1, 17, etc.</i> ; NT. <i>Luc. 23, 24, etc.</i><br><b>      2</b> <i>t. de dial</i>. principe sans démonstration, postulatum, ARSTT. <i>An. post. 1, 10, 7</i>.<p><b>Étym</b>. αἰτέω.`

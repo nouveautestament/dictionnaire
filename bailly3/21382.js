@@ -1,0 +1,1 @@
+lar[21382]=`<b>οῦ (τὸ)</b> <font color="purple">[ᾰλ]</font> chatouillement, <i>d’où</i> sensation de plaisir <i>ou</i> excitation causée par le chatouillement, HÉGÉSANDRE (ATH. <i>290c</i>) ; PLAT. <i>Phædr. 253e, etc</i>.<p><b>Étym</b>. γαργαλίζω.`

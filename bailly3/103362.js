@@ -1,0 +1,1 @@
+lar[103362]=`<b>ὑπο·κινδαύω</b>, heurter doucement, PHILOD. <i>De sup. 19 conj</i>.<p><b>Étym</b>. ὑ. *κινδαύω = κερατίζω.`

@@ -1,0 +1,1 @@
+lar[51904]=`<b>ας (ἡ)</b> production de fruits, fertilité, ARSTT. <i>Plant. 2, 9, 3</i> ; PHIL. <i>1, 105, etc</i>.<p><b>Étym</b>. καρποφόρος.`

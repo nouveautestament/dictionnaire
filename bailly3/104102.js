@@ -1,0 +1,1 @@
+lar[104102]=`<b>ὑπ·οφθάλμιος, ος, ον</b>, situé sous les yeux : τὰ ὑποφθάλμια, HPC. <i>Coac. 137, etc</i>. la partie creuse des joues, le bas des yeux.<p><b>Étym</b>. ὑ. ὀφθαλμός.`

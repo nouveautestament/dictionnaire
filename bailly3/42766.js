@@ -1,0 +1,1 @@
+lar[42766]=`<b>εὐ·νίκητος, ος, ον</b> <font color="purple">[ῑ]</font> aisé à vaincre, GAL. <i>2, 207, au</i> <i>• Sup</i>. -ότατος.<p><b>Étym</b>. εὖ, νικάω.`

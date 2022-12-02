@@ -1,0 +1,1 @@
+lar[21386]=`<b>έων (οἱ)</b> <font color="purple">[ργᾰ]</font> les habitants de Gargaron, STR. <i>606</i> ; ANTH. <i>11, 437</i>.<p><b>Étym</b>. Γάργαρον.`

@@ -1,0 +1,1 @@
+lar[37547]=`<b>ἐπι·δέρκομαι</b> (<i>seul. prés</i>.) regarder, <i>acc</i>. HÉS. <i>O. 266, etc</i>.`

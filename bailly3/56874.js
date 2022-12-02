@@ -1,0 +1,1 @@
+lar[56874]=`<b>ή, όν</b> <font color="purple">[ᾱ]</font> enduit de chaux, crépi, plâtré, XÉN. <i>An. 4, 2, 22</i>.<p><b>Étym</b>. <i>vb. de</i> κονιάω.`

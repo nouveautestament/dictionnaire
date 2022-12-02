@@ -1,0 +1,1 @@
+lar[44489]=`<b>εως (ἡ) :<br>      1</b> action de joindre par un pont, HDT. <i>4, 88 ; 7, 35</i>.<br><b>      2</b> action d’atteler au joug, HDT. <i>3, 104</i>.<p><b>Étym</b>. ζεύγνυμι.`

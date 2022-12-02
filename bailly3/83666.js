@@ -1,0 +1,1 @@
+lar[83666]=`<b>προ·απομέλγω</b> <i>ou</i> <b>προ·απαμέλγω</b> <font color="purple">[ᾰμ]</font> traire d’avance, ORIB. <i>3, 119 B.-Dar</i>.`

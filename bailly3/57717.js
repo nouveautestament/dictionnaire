@@ -1,0 +1,1 @@
+lar[57717]=`<b>εως (ἡ)</b> maladie du raisin qui se dessèche, TH. <i>C.P. 5, 9, 13</i>.<p><b>Étym</b>. κρειττόομαι.`

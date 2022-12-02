@@ -1,0 +1,1 @@
+lar[75269]=`<b>παντο·μισής, ής, ές</b> <font color="purple">[ῑ]</font> haï de tout le monde, ESCHL. <i>Eum. 644</i>.<p><b>Étym</b>. π. μισέω.`

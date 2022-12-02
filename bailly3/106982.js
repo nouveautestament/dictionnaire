@@ -1,0 +1,1 @@
+lar[106982]=`<b>ου (ὁ)</b> <font color="purple">[ῠ]</font> Phrygios, <i>h. litt</i>. «le Phrygien » (<i>v</i>. Φρυγία²) PLUT. <i>Mul. virt. 16</i>.<p><b>Étym</b>. <i>v</i>. Φρύγιος.`

@@ -1,0 +1,1 @@
+lar[23396]=`<b>Δα·φοινεύς (ὁ)</b> <font color="purple">[ᾰ]</font> Daphœnée, <i>litt</i>. d’un rouge pourpre (Pan), NONN. <i>D. 14, 80</i>.<p><b>Étym</b>. <i>cf</i>. δαφοινήεις, δαφοινός.`

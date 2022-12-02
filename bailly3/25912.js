@@ -1,0 +1,1 @@
+lar[25912]=`<b>δια·χαράσσω</b> <font color="purple">[χᾰ]</font> séparer par un trait, <i>d’où</i> :<br><b>      1</b> séparer, DH. <i>Dem. 43</i>.<br><b>      2</b> graver, tracer en gravant, PLUT. <i>M. 636c</i>.`

@@ -1,0 +1,1 @@
+lar[18484]=`<b>ἀχλυό·πεζα, ης (ἡ)</b> <font color="purple">[ᾱῠ]</font> <i>adj. f</i>. aux pieds enveloppés de brumes, <i>ép. de l’Aurore,</i> TRIPHIOD. <i>210</i>.<p><b>Étym</b>. ἀχλύς, πέζα.`

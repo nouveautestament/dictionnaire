@@ -1,0 +1,1 @@
+lar[29548]=`<b>ἐγ·καταπαίζω</b> (<i>seul. prés</i>.) se jouer de, <i>dat</i>. SPT. <i>Job 40, 14 ; 41, 24</i> ; CHRYS. <i>1, 950</i>.<p><b>Étym</b>. ἐν. κ.`

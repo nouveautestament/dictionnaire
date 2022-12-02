@@ -1,0 +1,1 @@
+lar[2198]=`<b>η, ον</b>, de peuplier noir, A. TR. <i>373</i>.<p><b>Étym</b>. αἴγειρος.`

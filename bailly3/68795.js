@@ -1,0 +1,1 @@
+lar[68795]=`<b>ων (τὰ)</b> sorte de figuier, <i>en Crète,</i> ATH. <i>76f</i>.<p><b>Étym</b>. <i>pré-grec</i>.`

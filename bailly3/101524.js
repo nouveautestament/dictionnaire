@@ -1,0 +1,1 @@
+lar[101524]=`<b>ή, όν :<br>      1</b> humide, baigné d’eau, OD. <i>9, 133</i> ; HH. <i>Ap. 41</i> ; HPC. <i>1278, 39</i> ; ESCHL. <i>Suppl. 793, Pers. 613</i> ; EUR. <i>Suppl. 206</i>.<br><b>      2</b> qui sert à puiser de l’eau, EUR. <i>Cycl. 89</i>.<br><b>      3</b> <i>c</i>. ὑδρευτικός, PHIL. <i>1, 410</i>.<p>➳ <i>Fém</i>. -ος, EUR. <i>Cycl. 89</i>.<p><b>Étym</b>. ὕδωρ.`

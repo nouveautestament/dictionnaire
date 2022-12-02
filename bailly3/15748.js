@@ -1,0 +1,1 @@
+lar[15748]=`<b>ἀ·σαφήνιστος, ος, ον</b> <font color="purple">[ᾰᾰ]</font> non rendu évident, non déclaré, SCH.-EUR. <i>Med. 722</i>.<p><b>Étym</b>. ἀ, σαφηνίζω.`

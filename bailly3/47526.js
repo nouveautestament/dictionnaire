@@ -1,0 +1,1 @@
+lar[47526]=`<b>α, ον</b>, de Thurium, XÉN. <i>Hell. 1, 5, 19</i> ; ἡ Θουρία, (<i>s.-e</i>. χώρα) THC. <i>6, 61, 104 ; 7, 35,</i> le territoire de Thurium.<p>➳ <i>Gén. dor</i>. Θουρίω, THCR. <i>Idyl. 5, 72</i>.<p><b>Étym</b>. <i>v</i>. Θούριοι <i>et</i> Θούριον.`

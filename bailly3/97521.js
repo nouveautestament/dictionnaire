@@ -1,0 +1,1 @@
+lar[97521]=`<b>τανη·λεγής, ής, ές</b> <font color="purple">[ᾰ]</font> qui couche <i>ou</i> abat tout du long, IL. <i>8, 70 ; 22, 210</i> ; OD. <i>2, 100, etc</i>.<p><b>Étym</b>. ταναός, λέγω.`

@@ -1,0 +1,1 @@
+lar[80946]=`<b>οῦ (ὁ)</b> coup de sang, apoplexie, A. TR. <i>11, 654</i>.<p><b>Étym</b>. πλήσσω.`

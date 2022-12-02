@@ -1,0 +1,1 @@
+lar[12781]=`<b>ἀπο·λιταργίζω</b> <font color="purple">[λῐ]</font> déguerpir, AR. <i>Nub. 1253</i>.`

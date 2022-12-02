@@ -1,0 +1,1 @@
+lar[109566]=`<b>οῦ (ὁ)</b> bain de sable, P. ÉG. <i>3, 43</i> ; ORIB. <i>292 Matthäi</i>.<p><b>Étym</b>. ψάμμος.`

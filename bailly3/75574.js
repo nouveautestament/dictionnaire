@@ -1,0 +1,1 @@
+lar[75574]=`<b>ων (τὰ)</b> <font color="purple">[ῐδ]</font> courte épée attachée à la ceinture, POSIDON. (ATH. <i>176b</i>).<p><b>Étym</b>. παραζώνη.`

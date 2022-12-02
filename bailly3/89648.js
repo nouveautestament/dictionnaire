@@ -1,0 +1,1 @@
+lar[89648]=`<b>ων (οἱ)</b> les habitants de Seguntia, <i>en Espagne,</i> PLUT. <i>Sert. 21</i>.`

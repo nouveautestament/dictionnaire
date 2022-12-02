@@ -1,0 +1,1 @@
+lar[46622]=`<b>θεό·γονος, ος, ον</b>, né de Dieu <i>ou</i> d’un dieu, <i>d’où</i> divin, EUR. <i>Or. 346</i>.<p><b>Étym</b>. θ. γίγνομαι.`

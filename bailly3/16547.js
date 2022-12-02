@@ -1,0 +1,1 @@
+lar[16547]=`<b>ἀ·σύστροφος, ος, ον :<br>      1</b> non tassé, HPC. <i>272</i>.<br><b>      2</b> <i>fig. en parl. du style,</i> non condensé, lâche, DH. <i>Din. p. 646</i>.`

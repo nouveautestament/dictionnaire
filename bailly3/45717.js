@@ -1,0 +1,1 @@
+lar[45717]=`<b>ίτιδος</b> <font color="purple">[ᾰτῐδ]</font><br><b>      1</b> <i>adj. f</i>. du foie, qui concerne le foie : φλέψ, HPC. <i>276, 54 ; 1034g ;</i> ARSTT. <i>H.A. 3, 2, 7,</i> veine hépatite, veine cave.<br><b>      2</b> <i>subst</i>. ἡ ἡπ. hépatite, <i>plante,</i> DIOSC. <i>4, 41</i>.<p><b>Étym</b>. ἧπαρ.`

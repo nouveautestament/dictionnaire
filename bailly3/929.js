@@ -1,0 +1,1 @@
+lar[929]=`<b>ἀγριό·φαγρος, ου (ὁ)</b> pagre sauvage, <i>poisson,</i> OPP. <i>H. 1, 140 dout</i>.`

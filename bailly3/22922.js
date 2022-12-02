@@ -1,0 +1,1 @@
+lar[22922]=`<b>δᾳδόω-ῶ</b>, rendre résineux ; <i>au pass</i>. devenir résineux, TH. <i>C.P. 5, 11, 3</i>.<p><b>Étym</b>. δᾴς.`

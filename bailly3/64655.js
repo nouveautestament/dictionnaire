@@ -1,0 +1,1 @@
+lar[64655]=`<b>μετα·βιάζομαι</b>, faire changer de force, faire violence à, <i>acc</i>. ARÉT. <i>p. 123, 37</i>.`

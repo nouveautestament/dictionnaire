@@ -1,0 +1,1 @@
+lar[21300]=`<b>ος, ον</b>, de gendre <i>ou</i> d’époux, nuptial, ATH. <i>30a</i>.<p><b>Étym</b>. γαμβρός.`

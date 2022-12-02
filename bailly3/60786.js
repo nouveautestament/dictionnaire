@@ -1,0 +1,1 @@
+lar[60786]=`<b>ου (ἡ)</b> Lèkythos, <i>château fort près de Torone en Macédoine, à l’ouest du district Sithonia (auj</i>. Líkythos) THC. <i>4, 113, 114, 116</i>.`

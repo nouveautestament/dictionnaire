@@ -1,0 +1,1 @@
+lar[99345]=`<b>οῦ (ὁ)</b> <font color="purple">[ῑᾱ]</font> sorte de chant en l’honneur des Titans, STR.<p><b>Étym</b>. Τιτάν ; <i>cf</i>. παιανισμός.`

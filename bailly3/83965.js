@@ -1,0 +1,1 @@
+lar[83965]=`<b>προ·διέπω</b>, diriger auparavant, JOS. <i>B.J. 2, 14, 3</i>.`

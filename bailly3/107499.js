@@ -1,0 +1,1 @@
+lar[107499]=`<b>α, ον</b> <font color="purple">[χᾰ]</font> dans φηγὸς χαλαζαία, ORPH. <i>Arg. 764,</i> chêne dont les glands tombent comme des grains de grêle.<p><b>Étym</b>. χάλαζα.`

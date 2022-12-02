@@ -1,0 +1,1 @@
+lar[62057]=`<b>ιδος</b>, <i>acc</i>. <b>ιν</b>, <i>voc</i>. <b>ι (ὁ)</b> Lysis, <i>h</i>. PLAT. <i>Lys. 205c ;</i> ANTH. <i>7, 287, 537, etc</i>.`

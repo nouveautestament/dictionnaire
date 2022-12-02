@@ -1,0 +1,1 @@
+lar[51291]=`<b>καλο·γνώμων, ων, ον</b>, <i>gén</i>. <b>ονος</b> <font color="purple">[ᾰ]</font> aux nobles sentiments, PROCL. <i>Ptol. p. 223</i>.`

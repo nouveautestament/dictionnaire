@@ -1,0 +1,1 @@
+lar[70862]=`<b>ὀκτά·στυλος, ος, ον</b> <font color="purple">[ῡ]</font> à huit colonnes, VITR. <i>3, 1</i>.<p><b>Étym</b>. ὀ. στῦλος.`

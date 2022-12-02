@@ -1,0 +1,1 @@
+lar[105136]=`<b>Φερε·κράτης, ους (ὁ)</b> <font color="purple">[ᾰ]</font> Phérékratès (Phérécrate), <i>poète de l’ancienne comédie,</i> PLAT. <i>Prot. 327d, etc</i>.<p>➳ <i>Acc</i>. -ην <i>ou</i> -η, Ps.-PLUT. <i>Mus. 30</i>.<p><b>Étym</b>. φ. κράτος.`

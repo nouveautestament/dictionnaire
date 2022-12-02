@@ -1,0 +1,1 @@
+lar[22323]=`<b>γνωμοτυπέω-ῶ</b> <font color="purple">[ῠ]</font> forger des sentences, AR. <i>Th. 55</i>.<p><b>Étym</b>. γνωμοτύπος.`

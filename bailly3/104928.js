@@ -1,0 +1,1 @@
+lar[104928]=`<b>εως (ἡ) :<br>      1</b> médication, PLAT. <i>Phil. 46a.</i><br><b>      2</b> opération de la trempe du fer, PLUT. <i>M. 395b</i>.<p><b>Étym</b>. φαρμάσσω.`

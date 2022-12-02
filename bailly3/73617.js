@@ -1,0 +1,1 @@
+lar[73617]=`<b>ου (τὸ) :<br>      1</b> fruit du cornouiller, DIOSC. <i>1, 173</i> ; GAL. <i>2, 98 ; 6, 352</i>.<br><b>      2</b> grappe de raisin, A.RH. <i>7, 13</i>.`

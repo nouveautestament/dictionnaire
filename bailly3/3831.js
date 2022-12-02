@@ -1,0 +1,1 @@
+lar[3831]=`<b>ἀκρό·πρῳρον, ου (τὸ)</b> extrémité <i>ou</i> pointe de la proue, STR. <i>99, 101</i>.<p><b>Étym</b>. ἄ. πρῷρα.`

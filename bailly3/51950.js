@@ -1,0 +1,1 @@
+lar[51950]=`<b>καρτερόω-ῶ</b>, fortifier, renforcer, HERM. (STOB. <i>Ecl. p. 1086).</i><p><b>Étym</b>. καρτερός.`

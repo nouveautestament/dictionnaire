@@ -1,0 +1,1 @@
+lar[76514]=`<b>ή, όν</b> <font color="purple">[δᾰ]</font> tacheté comme une panthère <i>ou</i> un léopard, LUC. <i>Bis acc. 8</i>.<p><b>Étym</b>. *παρδαλόω <i>de</i> πάρδαλος.`

@@ -1,0 +1,1 @@
+lar[110160]=`<b>ου (τὸ)</b> <font color="purple">[ῐ]</font><br><b>      1</b> basilic, <i>plante</i>, EUB. (ATH. <i>567c</i>) ; DIOSC. <i>2, 171</i> ; ANTH. <i>11, 413</i>.<br><b>      2</b> <i>autre plante inconnue,</i> TH. <i>H.P. 1, 6, 6, etc. ; C.P. 1, 4, 3, etc</i>.`

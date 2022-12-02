@@ -1,0 +1,1 @@
+lar[81433]=`<b>ας (ἡ)</b> <i>anc. n. de</i> Tanagra, LYC. <i>326</i> ; PLUT. <i>Qu. gr. 37</i>.<p><b>Étym</b>. Ποίμανδρος.`

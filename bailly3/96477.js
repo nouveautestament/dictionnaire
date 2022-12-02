@@ -1,0 +1,1 @@
+lar[96477]=`<b>συο·κτόνος, ος, ον</b>, qui tue un porc, CALL. <i>Dian. 216</i> ; NONN. <i>D. 1, 27</i>.<p><b>Étym</b>. σῦς, κτείνω.`

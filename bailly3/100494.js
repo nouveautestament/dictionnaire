@@ -1,0 +1,1 @@
+lar[100494]=`<b>τρισσο·φαής, ής, ές</b>, au triple éclat, <i>en parl. de la Trinité,</i> NAZ. <i>Carm. t. 2, p. 35, 166</i>.<p><b>Étym</b>. τρ. φάος.`

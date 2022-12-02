@@ -1,0 +1,1 @@
+lar[48597]=`<b>ἱερό·λαμπρος, ος, ον</b>, qui brille d’un caractère sacré, MAN. <i>4, 227</i>.<p><b>Étym</b>. ἱ. λαμπρός.`

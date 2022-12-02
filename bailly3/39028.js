@@ -1,0 +1,1 @@
+lar[39028]=`<b>ἐπι·σμαραγέω-ῶ</b> <font color="purple">[ᾰᾰ]</font><br><b>      1 <i>intr.</i></b> faire un grand bruit, OPP. <i>C. 2, 78</i> ; Q. SM. <i>2, 546</i>.<br><b>      2 <i>tr.</i></b> faire retentir : ὕμνον τινί, NONN. <i>D. 48, 965,</i> un hymne en l’honneur de qqn.`

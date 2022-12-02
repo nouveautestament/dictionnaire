@@ -1,0 +1,1 @@
+lar[89428]=`<font color="purple">[ῐ]</font> <i>adv</i>., en chair, CLÉM. <i>938</i>.`

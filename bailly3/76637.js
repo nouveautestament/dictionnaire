@@ -1,0 +1,1 @@
+lar[76637]=`<b>παρ·εκτρέπω</b>, détourner du droit chemin, faire dévier, EUR. <i>Suppl. 1111</i>.<br><b><i>Moy.</i></b> se détourner du droit chemin, s’égarer, ARSTT. <i>G.A. 4, 4 ; fig</i>. PLUT. <i>M. 114d</i>.`

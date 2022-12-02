@@ -1,0 +1,1 @@
+lar[69261]=`<b>οῦ (ὁ)</b> l’action de s’assoupir, HPC. <i>12, 3 ; 403, 35 ; 1180e ;</i> ARSTT. <i>Plant. 1, 2</i> ; SPT. <i>Ps. 131, 4 ; Prov. 6, 4 ; Sir. 31, 2</i>.<p><b>Étym</b>. νυστάζω.`

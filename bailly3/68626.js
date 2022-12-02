@@ -1,0 +1,1 @@
+lar[68626]=`être <i>ou</i> devenir une île, POL. <i>3, 42, 7, etc</i>.<p><b>Étym</b>. νησίς.`

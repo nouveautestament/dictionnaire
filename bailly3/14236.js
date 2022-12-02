@@ -1,0 +1,1 @@
+lar[14236]=`<b>ή, όν</b>, blanc, brillant, IL. <i>3, 141, etc.</i> ; EUR. <i>I.A. 575</i> ; ANTH. <i>9, 46</i>.<p><b>Étym</b>. ἀργός¹.`

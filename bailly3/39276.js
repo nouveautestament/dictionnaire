@@ -1,0 +1,1 @@
+lar[39276]=`<b>ἐπι·σφηκόω-ῶ</b>, étreindre, enserrer, NONN. <i>D. 9, 123</i>.<br><b><i>Moy.</i></b> <i>m. sign</i>. NONN. <i>D. 2, 111</i>.`

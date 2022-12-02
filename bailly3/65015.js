@@ -1,0 +1,1 @@
+lar[65015]=`<b>μετ·αυδάω-ῶ :<br>      1</b> parler au milieu de, <i>dat., 3 sg. impf</i>. μετηύδα, IL. <i>8, 496 ; 13, 36, etc.</i> ; OD. <i>1, 31, etc. ; 1 sg. μετηύδων, seul</i>. OD. <i>12, 153, 270</i>.<br><b>      2</b> adresser la parole à, <i>acc. (3 sg. impf</i>. μετηύδα) A.RH. <i>2, 54</i> ; MOSCH. <i>4, 61</i>.`

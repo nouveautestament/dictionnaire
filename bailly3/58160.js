@@ -1,0 +1,1 @@
+lar[58160]=`<b>α, ον</b>, propre à servir de refuge, ORACL. (PAUS. <i>8, 42, 4).</i><p><b>Étym</b>. κρύπτω.`

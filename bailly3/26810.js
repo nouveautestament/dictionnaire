@@ -1,0 +1,1 @@
+lar[26810]=`<b>ου (ὁ)</b> <font color="purple">[ῐῡ]</font> bosse à la tempe, <i>par allusion aux cornes (signe de force) avec lesquelles on représentait qqf. Dionysos,</i> HLD. CHIR. (ORIB. <i>125 Cocch</i>.).<p><b>Étym</b>. Διόνυσος.`

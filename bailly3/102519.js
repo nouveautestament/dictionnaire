@@ -1,0 +1,1 @@
+lar[102519]=`<b>ὑπερ·θαλασσίδιος, ος, ον</b> <font color="purple">[θᾰσῐ]</font> d’outre mer, situé de l’autre côté de la mer, HDT. <i>4, 199</i>.<p><b>Étym</b>. ὑ. θάλασσα.`

@@ -1,0 +1,1 @@
+lar[20642]=`<b>βραδυ·τόκος, ος, ον</b> <font color="purple">[ᾰῠ]</font> qui enfante tardivement <i>ou</i> péniblement, ARSTT. <i>Probl. 10, 9</i>.<p><b>Étym</b>. β. τίκτω.`

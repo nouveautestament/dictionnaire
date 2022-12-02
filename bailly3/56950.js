@@ -1,0 +1,1 @@
+lar[56950]=`<b>κοπόω-ῶ</b>, briser de fatigue, D. CHR. <i>1, 344, 476 ; au pass</i>. être brisé de fatigue, BATR. <i>190</i> ; PLUT. <i>M. 312f ;</i> JOS. <i>A.J. 2, 6, 5, etc</i>.<p><b>Étym</b>. κόπος.`

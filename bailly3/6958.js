@@ -1,0 +1,1 @@
+lar[6958]=`<b>ἀνα·κλώθω</b>, dévider à rebours, <i>càd</i>. changer la destinée de qqn, ANTH. <i>App. 154</i> ; LUC. <i>H. conscr. 38</i>.`

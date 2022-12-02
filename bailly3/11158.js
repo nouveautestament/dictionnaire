@@ -1,0 +1,1 @@
+lar[11158]=`<b>ἀ·πάλαιστρος, ος, ον :<br>      1</b> non exercé à la palestre, CIC. <i>Brut. 68</i>.<br><b>      2</b> non conforme aux règles de la palestre, ANTH. <i>5, 214</i>.<p><b>Étym</b>. ἀ, παλαίστρα.`

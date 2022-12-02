@@ -1,0 +1,1 @@
+lar[70970]=`<b>ὀλιγ·ανδρία, ας (ἡ)</b> manque d’hommes, STR. <i>636</i> ; PLUT. <i>M. 413f</i>.<p><b>Étym</b>. <i>cf</i>. ὀλιγανδρέω.`

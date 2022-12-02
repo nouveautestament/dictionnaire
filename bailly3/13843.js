@@ -1,0 +1,1 @@
+lar[13843]=`<b>εως (ἡ)</b> <font color="purple">[φῐ]</font><br><b>      1</b> acquittement par un vote, ANT. <i>130, 20</i>.<br><b>      2</b> exclusion par un vote, DÉM. <i>1299, 18 ; 1300, 12</i>.<p><b>Étym</b>. ἀποψηφίζομαι.`

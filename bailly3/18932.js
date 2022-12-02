@@ -1,0 +1,1 @@
+lar[18932]=`<b>οῦ (ὁ)</b> <font color="purple">[ᾰᾰ]</font> <i>c</i>. βαλανεύς CHRYS. <i>3, 816</i>.<p><b>Étym</b>. βαλανεύω.`

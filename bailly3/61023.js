@@ -1,0 +1,1 @@
+lar[61023]=`<b>λιθη·λογής, ής, ές</b> <font color="purple">[ῐ]</font> fait de pierres amassées, ANTH. <i>6, 253</i>.<p><b>Étym</b>. λίθος, λέγω.`

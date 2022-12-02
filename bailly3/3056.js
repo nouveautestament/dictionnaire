@@ -1,0 +1,1 @@
+lar[3056]=`<i>ou</i> <b>ἀκακαλλίς, ίδος (ἡ) :<br>      1</b> semence du tamaris égyptien, tamaris, DIOSC. <i>1, 118</i>.<br><b>      2</b> fleur du narcisse, EUMACH. (ATH. <i>681f</i>).`

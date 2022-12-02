@@ -1,0 +1,1 @@
+lar[90516]=`<b>σιτο·βόλιον, ου (τὸ)</b> <font color="purple">[σῑ]</font> <i>c</i>. σιτοβολεῖον PLUT. <i>C. Gracch. 6</i>.`

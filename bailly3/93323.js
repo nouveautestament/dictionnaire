@@ -1,0 +1,1 @@
+lar[93323]=`<b>συγ·κατακοσμέω-ῶ</b>, bien arranger ensemble, PLUT. <i>M. 938f</i>.`

@@ -1,0 +1,1 @@
+lar[84603]=`<b>ιδος</b>, <i>acc</i>. <b>-ιν (ἡ)</b> <font color="purple">[ῐδ]</font> Prokris, <i>fille d’Érekhthée, femme de Képhalos,</i> OD. <i>11, 320, etc</i>.`

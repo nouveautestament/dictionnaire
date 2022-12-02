@@ -1,0 +1,1 @@
+lar[13411]=`<b>ἀπο·σταφιδόω-ῶ</b> <font color="purple">[τᾰῐ]</font> transformer en raisin sec, TH. <i>C.P. 2, 8, 3</i>.<p><b>Étym</b>. ἀ. σταφίς.`

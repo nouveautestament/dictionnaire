@@ -1,0 +1,1 @@
+lar[93248]=`<b>συγ·κακουργέω-ῶ</b> <font color="purple">[ᾰ]</font><br><b>      1</b> maltraiter <i>ou</i> léser de concert avec un autre, <i>acc</i>. DH. <i>1, 78</i>.<br><b>      2</b> maltraiter une personne en même temps qu’une autre, DÉM. <i>881, 19</i>.<p><b>Étym</b>. <i>argum</i>.`

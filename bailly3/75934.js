@@ -1,0 +1,1 @@
+lar[75934]=`<b>παρα·μιμέομαι-οῦμαι</b> <font color="purple">[ῑ]</font> imiter, DH. <i>Dem. 23</i>.`

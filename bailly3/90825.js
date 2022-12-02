@@ -1,0 +1,1 @@
+lar[90825]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite tente, hutte, THC. <i>6, 37</i>.<p><b>Étym</b>. <i>dim. de</i> σκηνή.`

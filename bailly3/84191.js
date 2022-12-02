@@ -1,0 +1,1 @@
+lar[84191]=`<b>προ·εξαρπάζω</b>, arracher <i>ou</i> ravir auparavant, CHRYS. <i>2, 585 Migne</i>.`

@@ -1,0 +1,1 @@
+lar[25333]=`<b>ατος (τὸ)</b> travail pénible, exercice laborieux, PLAT. <i>Leg. 813d, Criti. 114e</i>.<p><b>Étym</b>. διαπονέω.`

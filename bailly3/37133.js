@@ -1,0 +1,1 @@
+lar[37133]=`<b>ἐπ·εξ·ιακχάζω</b> (<i>part. ao</i>. -ιακχάσας) chanter en l’honneur d’Iakkhos (Bacchus) ESCHL. <i>Sept. 635</i>.<p><b>Étym</b>. ἐπί, ἐξ, Ἴακχος.`

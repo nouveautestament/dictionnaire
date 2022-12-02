@@ -1,0 +1,1 @@
+lar[64519]=`<i>adv</i>., du milieu, T. LOCR. <i>95d</i>.<p>➳ <i>Poét</i>. μεσσόθεν, PARMÉN. (PLAT. <i>Soph. 244e</i>) ; A.RH. <i>1, 1168 ; avec le gén</i>. ANTH. <i>9, 661</i>.<p><b>Étym</b>. μ. -θεν.`

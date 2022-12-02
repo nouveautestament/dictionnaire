@@ -1,0 +1,1 @@
+lar[47122]=`<b>ή, όν :<br>      1</b> qu’on peut observer, visible, DS. <i>14, 60</i> ; EL. <i>N.A. 9, 6</i>.<br><b>      2</b> qu’on peut contempler, observer par l’intelligence, PLUT. <i>M. 722b ;</i> DL. <i>10, 47</i>.<p><b>Étym</b>. <i>vb. de</i> θεωρέω.`

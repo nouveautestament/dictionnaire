@@ -1,0 +1,1 @@
+lar[27595]=`<b>δορί·μαργος, ος, ον</b> <font color="purple">[ῐ]</font> saisi d’une fureur belliqueuse, ESCHL. <i>Sept. 687</i>.<p><b>Étym</b>. δόρυ, μάργος.`

@@ -1,0 +1,1 @@
+lar[85587]=`<b>προσ·ενεδρεύω</b>, tendre en outre un piège <i>ou</i> une embuscade, EN. TACT. <i>Pol. 4</i>.`

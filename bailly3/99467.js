@@ -1,0 +1,1 @@
+lar[99467]=`<b>τοι·γάρ</b>, <i>particule d’ord. au commenc. d’une phrase,</i> c’est pourquoi, ainsi, eh ! bien donc, IL. <i>1, 76 ; 10, 427</i> ; OD. <i>3, 254, etc.</i> ; ESCHL. <i>Suppl. 309</i> ; SOPH. <i>Ant. 931, etc. ; qqf. au mil. du développ</i>. ESCHL. <i>Sept. 1033, Pers. 607</i> ; SOPH. <i>Aj. 666</i>.<p><b>Étym</b>. τοί, γάρ.`

@@ -1,0 +1,1 @@
+lar[82187]=`<b>ας (ἡ) :<br>      1</b> abondance de vin, GEOP. <i>4, 1, 14</i>.<br><b>      2</b> excès de vin, ivresse, PLAT. <i>Leg. 666b ;</i> PLUT. <i>M. 239a</i>.<p><b>Étym</b>. πολύοινος.`

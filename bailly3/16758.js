@@ -1,0 +1,1 @@
+lar[16758]=`<i>dev. une voy</i>. ἄτερθεν, <i>adv. et prép.</i> :<br><b>      1</b> <i>adv</i>., à l’écart, séparément, PD. <i>P. 5, 96</i>.<br><b>      2</b> <i>prép. avec le gén</i>. à part de, à l’exclusion de, <i>d’où</i> sans, ESCHL. <i>Suppl. 783</i> ; SOPH. <i>Aj. 645 ; après son rég</i>. ESCHL. <i>Suppl. 1011</i>.<p><b>Étym</b>. ἄτερ, -θε.`

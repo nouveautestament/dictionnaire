@@ -1,0 +1,1 @@
+lar[41198]=`<b>ἐσχαρόω-ῶ</b> <font color="purple">[ᾰ]</font> provoquer la formation d’une croûte sur une plaie, ORIB. <i>186 Mai ; au pass</i>. se durcir en forme de croûte, DIOSC. <i>4, 172</i>.<p><b>Étym</b>. ἐσχάρα.`

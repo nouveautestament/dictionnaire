@@ -1,0 +1,1 @@
+lar[55431]=`<b>ου (ὁ)</b> = <i>lat</i>. Cincinnatus, <i>n. d’h. rom</i>. DH. <i>10, 23 ; au plur</i>. Κικιννάτοι, PLUT. <i>Fort. Rom. 3,</i> des hommes semblables à Cincinnatus.`

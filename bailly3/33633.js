@@ -1,0 +1,1 @@
+lar[33633]=`<b>ἔμ·πυος, ος, ον</b> <font color="purple">[ῠ]</font><br><b>      1</b> qui a un abcès intérieur purulent, HPC. <i>Aph. 1253</i> ; DÉM. <i>1260, 26</i> ; ARSTT. <i>H.A. 8, 24, 3</i>.<br><b>      2</b> qui suppure, SOPH. <i>Ph. 1378</i>.<br><b>      3</b> qu’on dépose sur une plaie purulente : ἔ. μοτός, HPC. <i>659, 20,</i> charpie.<p><b>Étym</b>. ἐν, πύον.`

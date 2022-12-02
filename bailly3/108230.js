@@ -1,0 +1,1 @@
+lar[108230]=`<b>(ἡ)</b> Khélidônis, <i>f</i>. PLUT. <i>Pyrrh. 26</i>.<p><b>Étym</b>. χελιδών.`

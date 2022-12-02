@@ -1,0 +1,1 @@
+lar[90355]=`<b>α, ον</b> <font color="purple">[ῐῐ]</font> de Simonide, DH. <i>Comp. 26, p. 428 Schæf.</i> ; PLUT. <i>M. 515a, 1137f</i>.<p><b>Étym</b>. Σιμωνίδης.`

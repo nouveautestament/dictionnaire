@@ -1,0 +1,1 @@
+lar[28491]=`<b>ας (ἡ)</b> <font color="purple">[ᾰλ]</font> misère, infortune, SOPHR. (DYSC. <i>Pron. p. 355).</i><p><b>Étym</b>. δυσθαλής.`

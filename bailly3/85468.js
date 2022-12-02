@@ -1,0 +1,1 @@
+lar[85468]=`<b>προσ·εγγυάομαι-ῶμαι</b>, se porter en outre garant <i>ou</i> caution de, <i>gén</i>. DÉM. <i>879, 2</i>.`

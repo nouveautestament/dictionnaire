@@ -1,0 +1,1 @@
+lar[3323]=`<b>*ἀκεσφορία</b>, <i>seul. ion</i>. <b>ἀκεσφορίη, ης (ἡ)</b> <font color="purple">[ᾰκ]</font> secours, guérison, salut, MAX. <i>π. κατ. 167, etc</i>.<p><b>Étym</b>. ἀκεσφόρος.`

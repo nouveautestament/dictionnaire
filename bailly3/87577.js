@@ -1,0 +1,1 @@
+lar[87577]=`<i>ou</i> <b>Πυθοί</b> <font color="purple">[ῡ]</font> <i>adv</i>., à Delphes, <i>sans mouv</i>. PD. <i>O. 7, 17 ; P. 11, 74</i> ; SIM. <i>fr. 153 (211) Bgk</i> ; PLAT. <i>Lys. 205c, etc. ; avec mouv</i>. PLUT. <i>Demetr. 11</i>.<p>➳ <i>Poét</i>. Πυθόϊ, PD. <i>I. 7 (6), 72</i>.<p><b>Étym</b>. Πυθώ.`

@@ -1,0 +1,1 @@
+lar[20807]=`<b>ῶν (αἱ)</b> Brikinniae (<i>auj</i>. Librizzi), <i>forteresse de Sicile,</i> THC. <i>5, 4</i>.`

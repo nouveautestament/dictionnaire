@@ -1,0 +1,1 @@
+lar[91212]=`<b>σκοτοδινέω-ῶ</b> <font color="purple">[ῑ]</font> avoir le vertige, LUC. <i>Philopatr. 1</i>.<p><b>Étym</b>. σκοτοδίνη.`

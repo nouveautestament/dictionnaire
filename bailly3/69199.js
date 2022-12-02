@@ -1,0 +1,1 @@
+lar[69199]=`<b>ου (τὸ)</b> lieu consacré aux nymphes, STR. <i>216</i> ; PLUT. <i>Syll. 27</i>.<p><b>Étym</b>. νύμφη.`

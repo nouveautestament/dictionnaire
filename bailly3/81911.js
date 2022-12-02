@@ -1,0 +1,1 @@
+lar[81911]=`<b>πολυ·ηχής, ής, ές :<br>      1</b> aux sons variés, OD. <i>19, 521</i>.<br><b>      2</b> très sonore, retentissant, IL. <i>4, 422</i>.<p><b>Étym</b>. π. ἦχος.`

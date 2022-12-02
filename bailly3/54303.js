@@ -1,0 +1,1 @@
+lar[54303]=`<b>ου</b> <font color="purple">[μᾰ]</font> <i>adj. m</i>. brûlant, TH. <i>Sign. 1, 11, etc</i>.<p><b>Étym</b>. καῦμα.`

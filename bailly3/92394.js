@@ -1,0 +1,1 @@
+lar[92394]=`<b>ατος (τὸ)</b> lieu étroit, habitation resserrée, M. RUBR. <i>2</i>.<p><b>Étym</b>. στενόω.`

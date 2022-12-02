@@ -1,0 +1,1 @@
+lar[16401]=`<b>ἀ·στυφέλικτος, ος, ον</b> <font color="purple">[ῠ]</font> inébranlable, XÉN. <i>Lac. 15, 7</i> ; CALL. <i>Del. 28</i> ; ANTH. <i>7, 748</i>.<p><b>Étym</b>. ἀ, στυφελίζω.`

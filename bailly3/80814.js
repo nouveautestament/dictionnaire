@@ -1,0 +1,1 @@
+lar[80814]=`donner la mesure d’un arpent ; <i>fig</i>. discourir longuement, TH. <i>Char. 23</i>.<p><b>Étym</b>. πλέθρον.`

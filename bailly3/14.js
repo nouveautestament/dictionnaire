@@ -1,0 +1,1 @@
+lar[14]=`<b>ἄ·απτος, ος, ον</b>, <i>p.-ê</i>. <font color="brown">qu’on ne peut toucher, redoutable, invincible</font>, IL. <i>1, 567, etc.</i> ; HÉS. <i>O. 147</i> ; OPP. <i>H. 5, 629</i>.<p><b>Étym</b>. <i>inconnue, cf. p.-ê</i>. ἄεπτος.`

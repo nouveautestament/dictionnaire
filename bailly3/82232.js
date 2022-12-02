@@ -1,0 +1,1 @@
+lar[82232]=`<b>(ὁ)</b> <font color="purple">[ῠῐ]</font> fils de Polypèmôn, OD. <i>24, 305</i>.<p><b>Étym</b>. πολυπάμων.`

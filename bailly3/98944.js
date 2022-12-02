@@ -1,0 +1,1 @@
+lar[98944]=`<b>τηλέ·σκοπος, ος, ον</b>, qu’on voit <i>ou</i> qu’on peut voir de loin, HÉS. <i>Th. 566, 569</i> ; SOPH. <i>fr. 319,</i> ANTH. <i>6, 251</i>.<p><b>Étym</b>. τ. σκοπέω.`

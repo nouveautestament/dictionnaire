@@ -1,0 +1,1 @@
+lar[79425]=`<font color="purple">[ᾰ]</font> <i>adv</i>., en tournant tout autour, HPC. <i>Mochl. 852</i> ; OPP. <i>H. 5, 146</i>.<p><b>Étym</b>. περιστρέφω.`

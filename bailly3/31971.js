@@ -1,0 +1,1 @@
+lar[31971]=`<b>ἐκ·πυέω-ῶ</b> <font color="purple">[ῡ]</font><br><b>      1</b> convertir en pus, faire suppurer, HPC.<br><b>      2 <i>intr.</i></b> suppurer, HPC. <i>Epid. 1, 956, etc</i>.`

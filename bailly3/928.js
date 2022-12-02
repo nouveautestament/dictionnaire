@@ -1,0 +1,1 @@
+lar[928]=`<b>ἀγριο·φάγος, ος, ον</b> (φᾰ) qui vit de fruits sauvages <i>ou</i> de viande crue, PTOL. <i>Geogr. 7, 1</i>.<p><b>Étym</b>. ἄγρ. φαγεῖν.`

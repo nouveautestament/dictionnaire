@@ -1,0 +1,1 @@
+lar[5815]=`<b>ου (ὁ)</b> Ampélos :<br><b>      1</b> <i>prom. de Macédoine, etc</i>. HDT. <i>7, 122, etc.</i><br><b>      2</b> <i>h</i>. NONN. <i>D. 10, 178</i>.`

@@ -1,0 +1,1 @@
+lar[96753]=`<b>ας (ἡ)</b> bains fréquents, AÉT. (SOR. <i>Obst. p. 266 Dietz</i>).`

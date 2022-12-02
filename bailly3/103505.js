@@ -1,0 +1,1 @@
+lar[103505]=`<b>ὑπο·λύζω</b>, avoir un peu le hoquet, GAL. <i>Lex. Hipp. 19, 80</i>.`

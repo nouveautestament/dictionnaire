@@ -1,0 +1,1 @@
+lar[95723]=`<b>συν·εράω-ῶ</b>, <i>anc. att</i>. <b>ξυν·εράω</b> <font color="darkgreen">(<i>impf</i>. συνήρων, <i>ao. pass</i>. συνηράσθην)</font> aimer avec, partager l’amour de, <i>dat</i>. EUR. <i>Andr. 223</i> ; PLUT. <i>Ages. 20, Alex. 41</i> ; SCOL. (ATH. <i>695d</i>) ; DC. <i>51, 8</i>.`

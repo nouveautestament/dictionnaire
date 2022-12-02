@@ -1,0 +1,1 @@
+lar[20147]=`<b>ῶν (αἱ)</b> Volæ (<i>auj</i>. Poli), <i>v. des Èques,</i> PLUT. <i>Cor. 29. Cf</i>. βωλανός.`

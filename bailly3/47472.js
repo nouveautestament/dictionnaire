@@ -1,0 +1,1 @@
+lar[47472]=`<b>θολο·μιγής, ής, ές</b> <font color="purple">[ῐ]</font> mêlé de bourbe, ONAT. (STOB. <i>Ecl. p. 98).</i><p><b>Étym</b>. θολός¹, μίγνυμι.`

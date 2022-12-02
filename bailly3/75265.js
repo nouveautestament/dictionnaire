@@ -1,0 +1,1 @@
+lar[75265]=`<b>πάν·τολμος, ος, ον</b>, d’une audace prête à tout, ESCHL. <i>Sept. 671, etc.</i> ; EUR. <i>I.A. 913, etc</i>.<p><b>Étym</b>. π. τόλμα.`

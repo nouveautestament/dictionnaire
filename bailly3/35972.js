@@ -1,0 +1,1 @@
+lar[35972]=`<b>ἐξ·ητριάζω</b>, passer à travers un linge, HPC. (GAL. <i>Lex. Hipp. 19, 98).</i><p><b>Étym</b>. ἐξ, ἤτριον.`

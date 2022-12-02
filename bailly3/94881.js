@@ -1,0 +1,1 @@
+lar[94881]=`<b>συν·αποκλύζω</b>, laver en même temps <i>ou</i> avec, DIOSC. <i>Ther. 2, p. 424d</i>.`

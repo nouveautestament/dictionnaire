@@ -1,0 +1,1 @@
+lar[14946]=`<b>ου (τὸ)</b> <i>autre n. de la plante</i> ἀρνόγλωσσον, DIOSC. <i>2, 152</i>.<p><b>Étym</b>. ἀρήν.`

@@ -1,0 +1,1 @@
+lar[69582]=`<b>ξιφο·κτόνος, ος, ον</b> <font color="purple">[ῐ]</font> qui tue avec l’épée, SOPH. <i>Aj. 10</i> ; EUR. <i>Hel. 354</i>.<p><b>Étym</b>. ξ. κτείνω.`

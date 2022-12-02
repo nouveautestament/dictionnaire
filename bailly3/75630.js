@@ -1,0 +1,1 @@
+lar[75630]=`<b>ή, όν</b>, propre à exhorter, SEXT. <i>M. 7, 12</i>.<p><b>Étym</b>. παραινέω.`

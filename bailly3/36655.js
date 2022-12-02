@@ -1,0 +1,1 @@
+lar[36655]=`<b>ἐπ·ανατίθημι :<br>      1</b> refermer, <i>litt</i>. ramener (le battant d’une porte) sur, IL. <i>21, 535</i>.<br><b>      2</b> ajouter une charge, AR. <i>Vesp. 148</i>.`

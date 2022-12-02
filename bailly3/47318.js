@@ -1,0 +1,1 @@
+lar[47318]=`<b>θηρ·ολέτης, ου (ὁ)</b> destructeur des bêtes sauvages, A. PL. <i>4, 104</i>.<p><b>Étym</b>. θ. ὄλλυμι.`

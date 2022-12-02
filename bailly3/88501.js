@@ -1,0 +1,1 @@
+lar[88501]=`<b>ῥητορο·μάστιξ, ιγος (ὁ)</b> <font color="purple">[ῑγ]</font> fléau des orateurs <i>ou</i> des rhéteurs, DL. <i>2, 64</i>.<p><b>Étym</b>. ῥήτωρ, μάστιξ.`

@@ -1,0 +1,1 @@
+lar[55502]=`<font color="purple">[ῡ]</font> <i>adv</i>., d’une manière périlleuse, DH. <i>7, 6</i>.<p><b>Étym</b>. κινδυνώδης.`

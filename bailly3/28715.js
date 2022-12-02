@@ -1,0 +1,1 @@
+lar[28715]=`<b>δύσ·οιστος, ος, ον</b> <font color="purple">[ῠ]</font> difficile à supporter, intolérable, ESCHL. <i>Pr. 691</i> ; SOPH. <i>Ph. 508, O.C. 1687</i> ; STR. <i>562</i>.<p><b>Étym</b>. δ. οἴσομαι.`

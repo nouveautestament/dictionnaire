@@ -1,0 +1,1 @@
+lar[43419]=`<b>εὐσθενέω-ῶ :<br>      1</b> être vigoureux, robuste, EUR. <i>Cycl. 2</i> ; TH. <i>C.P. 1, 9, 3, etc. ; H.P. 2, 5, 7, etc.</i><br><b>      2</b> <i>p. ext</i>. se trouver bien, DC. <i>53, 8</i>.<p><b>Étym</b>. εὐσθενής.`

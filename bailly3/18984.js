@@ -1,0 +1,1 @@
+lar[18984]=`<b>ου (ὁ)</b> Balissos, <i>fl. de Mésopotamie,</i> PLUT. <i>Crass. 23</i>.`

@@ -1,0 +1,1 @@
+lar[45424]=`<b>ἡμι·εκφανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui se montre à moitié (astre) PTOL. <i>t. 2, p. 4 Halm</i>.<p><b>Étym</b>. ἡμι-, ἐκφαίνω.`

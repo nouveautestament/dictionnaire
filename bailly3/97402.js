@@ -1,0 +1,1 @@
+lar[97402]=`<b>ου (ὁ)</b> <font color="purple">[ᾰᾰῑῐ]</font> le fils de Talaos, <i>càd.</i> :<br><b>      1</b> Mékistée, IL. <i>2, 566 ; 23, 678</i>.<br><b>      2</b> Adrastos, PD. <i>O. 6, 24</i>.<p>➳ <i>Dor</i>. Ταλαϊονίδας <font color="purple">[ᾱς]</font> PD. <i>l. c</i>.<p><b>Étym</b>. <i>poét. p</i>. *Ταλαονίδης <i>de</i> Ταλαός.`

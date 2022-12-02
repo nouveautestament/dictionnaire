@@ -1,0 +1,1 @@
+lar[71309]=`<b>ὅμ·αιχμος, ος, ον</b>, compagnon d’armes (<i>propr</i>. qui unit sa lance à celle d’un autre) THC. <i>3, 58</i>.<p><b>Étym</b>. ὁμός, αἰχμή.`

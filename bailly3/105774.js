@@ -1,0 +1,1 @@
+lar[105774]=`<b>φιλο·εθνής, ής, ές</b> <font color="purple">[ῐ]</font> qui aime la race, PHIL. <i>2, 386</i>.<p><b>Étym</b>. φ. ἔθνος.`

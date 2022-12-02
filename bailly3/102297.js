@@ -1,0 +1,1 @@
+lar[102297]=`<b>ου (ὁ)</b> <font color="purple">[ᾱ]</font> Hypérasios, <i>h</i>. A.RH. <i>1, 176</i>.`

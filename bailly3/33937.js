@@ -1,0 +1,1 @@
+lar[33937]=`<b>εως (ἡ)</b> action de déposer dans, SEXT. <i>165, 30 Bkk</i>.<p><b>Étym</b>. ἐναποτίθημι.`

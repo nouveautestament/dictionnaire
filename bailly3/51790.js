@@ -1,0 +1,1 @@
+lar[51790]=`<b>ου (τὸ)</b> <font color="purple">[ᾱῑᾰ]</font> <i>c</i>. καρίδιον ANAXANDR. (ATH. <i>105f</i>).`

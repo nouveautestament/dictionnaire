@@ -1,0 +1,1 @@
+lar[96495]=`<b>έως (ὁ)</b> tumultueux, désordonné, bruyant, CRAT. (<i>Com. fr. 2, 66</i>) ; ATH. <i>669b, 671c, 697f</i>.<p><b>Étym</b>. σύρβα.`

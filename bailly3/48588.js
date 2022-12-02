@@ -1,0 +1,1 @@
+lar[48588]=`<b>ἱεροθετέω-ῶ</b>, instituer des cérémonies sacrées, ARSTT. <i>fr. 404</i>.<p><b>Étym</b>. *ἱεροθέτης, <i>de</i> ἱ. τίθημι.`

@@ -1,0 +1,1 @@
+lar[89854]=`<b>(ἡ)</b> <font color="purple">[ῑ]</font> <i>dans la locut</i>. γραῦς σερίφη, ZÉNOB. <i>2, 94, sorte de sauterelle, la même que</i> μάντις ; <i>cf</i>. σέριφος².`

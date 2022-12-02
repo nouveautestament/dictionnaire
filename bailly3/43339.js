@@ -1,0 +1,1 @@
+lar[43339]=`<b>ητος (ἡ)</b> <font color="purple">[ῠ]</font> largeur, HPC. <i>397, 30</i>.<p><b>Étym</b>. εὐρύς.`

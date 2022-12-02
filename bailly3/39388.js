@@ -1,0 +1,1 @@
+lar[39388]=`<b>ατος (τὸ)</b> invention, combinaison, DS. <i>1, 27 ; en parl. de poésie,</i> DS. <i>1, 6</i> ; DL. <i>8, 57</i>.<p><b>Étym</b>. ἐπιτυγχάνω.`

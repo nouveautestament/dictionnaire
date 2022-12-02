@@ -1,0 +1,1 @@
+lar[35252]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> balance, GEOP. <i>2, 32</i>.<br><b>      2</b> petit poids d’un sixième d’once, DIOSC. <i>Eup. 2, 63</i>.<p><b>Étym</b>. ἐξάγω.`

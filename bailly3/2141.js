@@ -1,0 +1,1 @@
+lar[2141]=`<b>ἀ·θωράκιστος, ος, ον</b> <font color="purple">[ρᾱ]</font> sans cuirasse, XÉN. <i>Cyr. 4, 2, 31</i>.<p><b>Étym</b>. ἀ, θωρακίζω.`

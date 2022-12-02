@@ -1,0 +1,1 @@
+lar[24011]=`(<i>seul. prés. et ao</i>.) être le maître de, <i>gén</i>. HLD. <i>5, 28 ; 8, 3</i> ; JOS. <i>A.J. 3, 5, 3</i> ; DC. <i>60, 28 (part. ao</i>. -ευσάντων) ; δ. πάντα, SPT. <i>2Macc. 5, 28 (ao. 3 sg</i>. ἐδεσπότευσε), être un maître tout-puissant.<p><b>Étym</b>. δεσπότης.`

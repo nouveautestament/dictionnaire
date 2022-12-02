@@ -1,0 +1,1 @@
+lar[28956]=`<b>δυσ·υπέρβατος, ος, ον</b> <font color="purple">[ῠῠᾰ]</font> difficile à franchir, PHIL. BYZ. <i>82</i>.<p><b>Étym</b>. δ. ὑπερβαίνω.`

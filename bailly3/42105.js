@@ -1,0 +1,1 @@
+lar[42105]=`<b>εὐηκοέω-οῶ</b>, entendre bien, STOB. <i>Fl. 43, 48</i>.<p><b>Étym</b>. εὐήκοος.`

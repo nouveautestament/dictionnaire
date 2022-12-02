@@ -1,0 +1,1 @@
+lar[77689]=`<b>πεισι·θάνατος, ος, ον</b> <font color="purple">[ῐθᾰᾰ]</font> qui persuade de mourir, DL. <i>2, 86</i>.<p><b>Étym</b>. πείθω, θάνατος.`

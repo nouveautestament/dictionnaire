@@ -1,0 +1,1 @@
+lar[107514]=`<b>ης, ες</b> <font color="purple">[χᾰ]</font><br><b>      1</b> qui ressemble à la grêle, grenu, EMPÉD. (PLUT. <i>M. 922c</i>) ; ARSTT. <i>H.A. 7, 1, 19</i>.<br><b>      2</b> qui amène de la grêle, ARSTT. <i>Meteor. 2, 6, 10</i>.<br><b>      3</b> ladre, <i>en parl. des porcs,</i> ARSTT. <i>H.A. 8, 21, 4</i>.<p><b>Étym</b>. χ. -ωδης.`

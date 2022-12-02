@@ -1,0 +1,1 @@
+lar[82621]=`<b>(ὁ)</b> Pomaxathrès, <i>Parthe,</i> PLUT. <i>Crass. 31, 33</i>.`

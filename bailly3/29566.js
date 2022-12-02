@@ -1,0 +1,1 @@
+lar[29566]=`<b>ἐγ·κατασκήπτω :<br>      1 <i>tr.</i></b> lancer contre : ἐγκ. βέλος κεραυνοῦ, SOPH. <i>Tr. 1087,</i> lancer la foudre contre ; κακά τινι ἐγκ. ESCHL. <i>Pers. 514,</i> lancer des maux contre qqn.<br><b>      2 <i>intr.</i></b> tomber sur, s’abattre sur, THC. <i>2, 47</i> ; ἔς τινα, DC. <i>49, 15,</i> sur qqn, <i>en parl. de la foudre</i>.`

@@ -1,0 +1,1 @@
+lar[86602]=`<b>προσ·φθέγγομαι :<br>      1</b> adresser la parole à, saluer, <i>acc</i>. EUR. <i>Alc. 331, Hipp. 1097, etc.</i><br><b>      2</b> dénommer, désigner par un nom, <i>acc</i>. PD. <i>O. 10, 61</i> ; PLAT. <i>Pol. 287e</i>.<p>➳ <i>Dor</i>. ποτιφθέγγομαι, ANTH. <i>7, 656</i>.`

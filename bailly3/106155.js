@@ -1,0 +1,1 @@
+lar[106155]=`<b>φιλο·τραγῳδός, ός, όν</b> <font color="purple">[ῐᾰ]</font> qui aime les poètes <i>ou</i> les pièces tragiques, <i>titre d’une comédie d’Alexis</i>.`

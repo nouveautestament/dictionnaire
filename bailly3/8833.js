@@ -1,0 +1,1 @@
+lar[8833]=`<b>ἀνθ·ησσάομαι</b>, <i>att</i>. <b>ἀνθ·ηττάομαι-ῶμαι</b>, céder à son tour, être à son tour condescendant : τινι, THC. <i>4, 19,</i> envers qqn.<p><b>Étym</b>. ἀντί, ἡσσάομαι.`

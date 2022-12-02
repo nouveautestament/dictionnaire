@@ -1,0 +1,1 @@
+lar[2317]=`<b>αἰγο·φάγος, ος, ον</b> <font color="purple">[ᾰ]</font> qui se nourrit de chèvres, PAUS. <i>3, 15, 7</i>.<p><b>Étym</b>. αἴξ, φαγεῖν.`

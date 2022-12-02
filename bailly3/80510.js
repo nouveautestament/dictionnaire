@@ -1,0 +1,1 @@
+lar[80510]=`<b>έως (ὁ)</b> Pitthée, <i>fils de Pélops,</i> IL. <i>3, 144</i> ; EUR. <i>Her. 207, etc.</i> ; PLUT. <i>Thes. 4, etc</i>.<p>➳ <i>Gén. épq</i>. Πιτθῆος, IL. <i>l. c.</i> ; PLUT. <i>Thes. 34</i>.`

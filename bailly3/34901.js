@@ -1,0 +1,1 @@
+lar[34901]=`<b>ἐν·ράπτω</b> <font color="darkgreen">(<i>ao.2 pass</i>. ἐνερράφην)</font> coudre dans, <i>dat</i>. EUR. <i>Bacch. 286 ; avec</i> εἰς <i>et l’acc</i>. PLUT. <i>Arat. 25</i>.<br><b><i>Moy.</i></b> coudre sur soi : ἐς τὸν μηρόν, HDT. <i>2, 146,</i> dans sa propre cuisse.`

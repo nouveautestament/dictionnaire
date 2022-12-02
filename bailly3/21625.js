@@ -1,0 +1,1 @@
+lar[21625]=`<b>(τὸ)</b> <i>seul. acc. sg</i>. charge, fardeau, ESCHL. <i>Ag. 1232</i>.<p><i>cf</i>. γέμω.`

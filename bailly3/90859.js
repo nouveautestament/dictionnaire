@@ -1,0 +1,1 @@
+lar[90859]=`<b>σκηπτρο·φόρος, ος, ον</b>, qui porte le sceptre, royal, ANTH. <i>7, 428</i>.<p><b>Étym</b>. σκῆπτρον, φέρω.`

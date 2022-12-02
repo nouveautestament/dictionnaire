@@ -1,0 +1,1 @@
+lar[441]=`<b>ἀγγο·θήκη, ης (ἡ)</b> socle <i>ou</i> soucoupe pour recevoir un vase, ATH. <i>210c</i>.<p><b>Étym</b>. ἄγγος, θήκη.`

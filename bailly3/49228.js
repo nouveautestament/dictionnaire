@@ -1,0 +1,1 @@
+lar[49228]=`<b>Ἱππ·αρέτη, ης (ἡ)</b> <font color="purple">[ᾰ]</font> Hipparétè, <i>f</i>. PLUT. <i>Alc. 8</i>.<p><b>Étym</b>. ἵ. ἀρετή.`

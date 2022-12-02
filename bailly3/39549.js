@@ -1,0 +1,1 @@
+lar[39549]=`<font color="purple">[ᾰ]</font> <i>adv</i>., d’une manière apparente, visiblement, THC. <i>1, 91</i>.<p>•<i> Cp</i>. -έστερον, MÉN. (STOB. <i>Fl. 3, p. 369</i>). <i>• Sup</i>. -έστατα, THC. <i>5, 105</i> ; ARSTT. <i>H.A. 8, 15</i>.<p><b>Étym</b>. ἐπιφανής.`

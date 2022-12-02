@@ -1,0 +1,1 @@
+lar[7656]=`<b>ἀνα·σταλύζω</b> <font color="purple">[τᾰ]</font> sangloter, ANACR. <i>60, 7</i>.`

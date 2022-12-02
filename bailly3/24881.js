@@ -1,0 +1,1 @@
+lar[24881]=`<b>δια·κυβερνάω-ῶ</b> <font color="purple">[ῠ]</font> diriger comme un pilote, <i>d’où</i> diriger (sa vie, les affaires, <i>etc.) acc</i>. PLAT. <i>Tim. 42e, Leg. 709b ;</i> ARSTT. <i>Probl. 1, 3</i>.`

@@ -1,0 +1,1 @@
+lar[33715]=`<b>ἐμφρονέω-ῶ</b>, reprendre ses esprits, HPC. <i>1149a</i>.<p><b>Étym</b>. ἔμφρων.`

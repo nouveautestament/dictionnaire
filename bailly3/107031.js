@@ -1,0 +1,1 @@
+lar[107031]=`<b>φύγ·εργος, ος, ον</b> <font color="purple">[ῠ]</font> qui fuit le travail, paresseux, AR. (EM. <i>v°</i> βλάκες).<p><b>Étym</b>. φεύγω, ἔργον.`

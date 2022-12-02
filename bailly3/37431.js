@@ -1,0 +1,1 @@
+lar[37431]=`<b>ἐπι·γάστριος, ος, ον :<br>      1</b> qui est au-dessus du bas-ventre ; τὸ ἐπ. PLUT. <i>M. 559f ;</i> GAL. <i>6, 64, 65, etc</i>. l’épigastre, <i>région de l’estomac</i>.<br><b>      2</b> <i>fig</i>. adonné à son ventre, gourmand, glouton, CLÉM. <i>173</i>.<p><b>Étym</b>. ἐπί, γαστήρ.`

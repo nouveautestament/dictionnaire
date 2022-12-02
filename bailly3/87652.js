@@ -1,0 +1,1 @@
+lar[87652]=`<b>   I.1</b> se battre à coups de poing, DÉM. <i>51, 24</i>.<br><b>      2</b> asséner un coup de poing, EUR. <i>Cycl. 229</i>.<br><b>      3</b> <i>particul. en parl. d’athlètes,</i> lutter au pugilat, XÉN. <i>Lac. 4, 6</i> ; PLAT. <i>Gorg. 456d.</i><br><b>   II</b> <i>p. ext</i>. combattre, <i>en gén</i>. HLD. <i>10, 31</i>.<p><b>Étym</b>. πύκτης.`

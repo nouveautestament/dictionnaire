@@ -1,0 +1,1 @@
+lar[103687]=`<b>ὑπο·πισσόω-ῶ</b>, <i>att</i>. <b>ὑπο·πιττόω-ῶ</b>, enduire légèrement de poix, poisser légèrement, <i>fig</i>. AR. <i>Pl. 1098</i>.`

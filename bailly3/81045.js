@@ -1,0 +1,1 @@
+lar[81045]=`<b>α, ον</b>, qui remplit, qui rassasie, ATH. <i>32f, 298f ;</i> PLUT. <i>Tim. 6</i> ; τὸ πλήσμιον, PLUT. <i>Ant. 24</i>, satiété, dégoût.<p><b>Étym</b>. πλήθω.`

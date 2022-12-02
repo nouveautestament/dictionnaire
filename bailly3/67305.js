@@ -1,0 +1,1 @@
+lar[67305]=`<b>ων (οἱ)</b> <font color="purple">[ῐ]</font> les Myrmidons, <i>pple de la Phthiotide,</i> IL. <i>1, 180, etc.</i> ; HÉS. <i>Sc. 380, etc</i>.<p>➳ <i>Dat. pl</i>. Μυρμιδόσι, <i>épq</i>. Μυρμιδόνεσσιν, IL. <i>1, 180, etc.</i> ; OD. <i>11, 495, etc</i>.`

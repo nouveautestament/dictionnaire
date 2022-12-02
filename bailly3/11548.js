@@ -1,0 +1,1 @@
+lar[11548]=`<b>ἀπειλη·φόρος, ος, ον</b> <font color="purple">[ᾰ]</font> qui porte la menace, menaçant, CHRYS. <i>1, 654</i>.<p><b>Étym</b>. ἀπειλή, φέρω.`

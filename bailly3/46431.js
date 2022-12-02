@@ -1,0 +1,1 @@
+lar[46431]=`<b>ας (ἡ)</b> <font color="purple">[ᾱτ]</font> recherche d’applaudissements sur la scène, ARTÉM. <i>2, 75</i>.<p><b>Étym</b>. θεατροκόπος.`

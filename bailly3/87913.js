@@ -1,0 +1,1 @@
+lar[87913]=`<b>πυρί·φατος, ος, ον</b> <font color="purple">[ῠῐᾰ]</font> consumé par le feu, ESCHL. <i>Suppl. 627</i>.<p><b>Étym</b>. π. πεφνεῖν.`

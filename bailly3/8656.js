@@ -1,0 +1,1 @@
+lar[8656]=`<b>ἀν·ηβάω-ῶ :<br>      1</b> (ἀνά, en haut) arriver à la jeunesse, grandir, CALL. <i>Jov. 55</i>.<br><b>      2</b> (ἀνά, de nouveau) rajeunir, redevenir vigoureux, THGN. <i>1003</i> ; XÉN. <i>Cyr. 4, 6, 7</i> ; EUR. <i>Ion 1465</i> ; PLAT. <i>Leg. 666b ; en parl. de l’intelligence,</i> PLUT. <i>M. 5e</i>.<p><b>Étym</b>. ἀνά, ἡβάω.`

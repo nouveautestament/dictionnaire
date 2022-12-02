@@ -1,0 +1,1 @@
+lar[7419]=`<b>εως (ἡ) :<br>      1</b> action d’inspirer, PLAT. <i>Tim. 92b ; p. opp. à</i> ἔκπνευσις, ARSTT. <i>H.A. 1, 11, 7</i>.<br><b>      2</b> action de reprendre haleine, de se reposer de, <i>gén</i>. IL. <i>11, 801 ; 16, 43</i>.<p>➳ <i>Poét</i>. ἄμπνευσις, Q. SM. <i>11, 438</i>.<p><b>Étym</b>. ἀναπνέω.`

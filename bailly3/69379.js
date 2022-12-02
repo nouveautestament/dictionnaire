@@ -1,0 +1,1 @@
+lar[69379]=`<b>ξανθό·θριξ, -τριχος (ὁ, ἡ)</b> <font color="purple">[ῐχ]</font> aux cheveux blonds <i>ou</i> aux poils jaunes, THCR. <i>Idyl. 18, 1</i>.<p><b>Étym</b>. ξ. θρίξ.`

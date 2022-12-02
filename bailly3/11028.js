@@ -1,0 +1,1 @@
+lar[11028]=`<b>α</b> (<i>ion</i>. <b>-η</b>), <b>ον</b> <font color="purple">[ᾱ]</font> d’Aonie, A.RH. <i>3, 1178, etc.</i> ; NONN. <i>D. 5, 66, etc</i>.`

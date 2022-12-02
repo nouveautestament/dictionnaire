@@ -1,0 +1,1 @@
+lar[28692]=`<b>ας (ἡ)</b> mauvaise législation, SOL. <i>15, 31 ; avec personnification,</i> HÉS. <i>Th. 230</i>.<p><b>Étym</b>. δύσνομος.`

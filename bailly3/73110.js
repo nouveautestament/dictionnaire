@@ -1,0 +1,1 @@
+lar[73110]=`<font color="purple">[ᾰ]</font> élever un orphelin <i>ou</i> des orphelins, EUR. <i>Alc. 165 ; d’où au pass</i>. être élevé comme orphelin, être orphelin, EUR. <i>Alc. 535, etc</i>.<p><b>Étym</b>. ὀρφανός.`

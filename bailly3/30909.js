@@ -1,0 +1,1 @@
+lar[30909]=`<b>εἰσ·φορέω-ῶ</b>, <i>ion. et anc. att</i>. <b>ἐσ·φορέω</b>, porter dans, <i>avec</i> εἰς <i>et l’acc</i>. XÉN. <i>An. 4, 6, 1</i> ; DC. <i>50, 15 ; abs</i>. THC. <i>2, 75</i>.<p>➳ ἐσφ. THC. DC. <i>ll. cc. Ion. impf. 3 pl. poét</i>. ἐσφόρεον, A.RH. <i>4, 1145</i>.`

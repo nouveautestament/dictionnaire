@@ -1,0 +1,1 @@
+lar[25554]=`<b>δια·σκίδνημι</b>, <i>poét. c</i>. διασκεδάννυμι, <i>seul. aux formes suiv. : prés. ind. 3 sg</i>. -σκίδνησι, PLUT. <i>Fab. 12 ; 3 pl</i>. -σκιδνᾶσι, IL. <i>5, 526 ; partic. nom. pl</i>. -σκίδναντες, HDT. <i>2, 25</i>.<br><b><i>Moy.</i></b> <i>seul. prés. ind. 3 sg</i>. -σκίδναται <font color="purple">[νᾰ]</font> LUC. <i>Sacr. 13</i>.`

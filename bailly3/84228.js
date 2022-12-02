@@ -1,0 +1,1 @@
+lar[84228]=`<b>προ·επιβουλεύω</b>, tendre auparavant des embûches à, <i>dat</i>. THC. <i>1, 33 ; au pass</i>. THC. <i>3, 83</i> ; DS. <i>19, 65</i>.`

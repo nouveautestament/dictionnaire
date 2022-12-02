@@ -1,0 +1,1 @@
+lar[2950]=`<b>ή, όν :<br>      1</b> qui aime à demander, ARSTT. <i>Nic. 4, 1, 16</i>.<br><b>      2</b> qui convient pour demander, PLUT.`

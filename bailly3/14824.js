@@ -1,0 +1,1 @@
+lar[14824]=`<b>(ὁ)</b> Arktée, <i>chef lydien,</i> ESCHL. <i>Pers. 43, 312</i>.`

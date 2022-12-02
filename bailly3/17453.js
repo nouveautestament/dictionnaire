@@ -1,0 +1,1 @@
+lar[17453]=`<b>Αὐτό·δικος, ου (ὁ)</b> Autodikos, <i>Platéen,</i> HDT.<p><b>Étym</b>. <i>v</i>. αὐτόδικος.`

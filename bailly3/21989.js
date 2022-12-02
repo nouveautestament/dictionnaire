@@ -1,0 +1,1 @@
+lar[21989]=`<b>γιγαντό·ραιστος, ος, ον</b> <font color="purple">[ῐ]</font> qui terrasse les géants, LYC. <i>63</i>.<p><b>Étym</b>. γίγας, ῥαίω.`

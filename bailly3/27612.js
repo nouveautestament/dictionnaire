@@ -1,0 +1,1 @@
+lar[27612]=`<b>ου (τὸ)</b> <font color="purple">[ᾰ]</font> jeune chevreuil, SPT. <i>Esaï. 13, 14</i>.<p><b>Étym</b>. <i>dim. de</i> δορκάς.`

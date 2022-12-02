@@ -1,0 +1,1 @@
+lar[105638]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Philètos, <i>h</i>. ANTH. <i>App. 380</i>.<p><b>Étym</b>. <i>cf</i>. φιλητός.`

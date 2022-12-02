@@ -1,0 +1,1 @@
+lar[30043]=`<b>ατος (τὸ)</b> base solide, soutien, NT. <i>1Tim. 3, 16</i>.<p><b>Étym</b>. ἑδραιόω.`

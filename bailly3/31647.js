@@ -1,0 +1,1 @@
+lar[31647]=`<b>ής, ές</b> <font color="purple">[ᾰ]</font> transporté d’une folle passion : πρός τι, ATH. <i>437e</i>, pour qqe ch.<p><b>Étym</b>. ἐκμαίνω.`

@@ -1,0 +1,1 @@
+lar[5092]=`<b>ῴων (τὰ)</b> fête en l’honneur de Dèmèter, DÉM. <i>1385, 2</i> ; LUC. <i>D. mer. 7, 3</i>.<p>➳ Ἁλῷα (<i>non</i> Ἁλῶα) CIA. <i>2, add. 834, b, 2, 8 (329 av. J.-C.) etc. v. Meisterh. p. 51, 8</i>.<p><b>Étym</b>. ἅλως.`

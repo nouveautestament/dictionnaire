@@ -1,0 +1,1 @@
+lar[23231]=`<b>ά, όν</b> <font color="purple">[ᾰᾰ]</font><br><b>      1</b> <i>act</i>. dépensier, prodigue, XÉN. <i>Mem. 2, 6, 2</i> ; PLAT. <i>Rsp. 564b ;</i> DÉM. <i>1002, 11</i>.<br><b>      2</b> <i>pass</i>. dispendieux, coûteux, DÉM. <i>58, 6</i> ; ARSTT. <i>Pol. 5, 8, 20, etc</i>.<p><b>Étym</b>. δαπάνη.`

@@ -1,0 +1,1 @@
+lar[100322]=`<b>ου (τὸ)</b> Triopion (<i>auj</i>. Datça, <i>anc</i>. Reşadiye) <i>v. et promont. de Carie près de Cnide,</i> HDT. <i>1, 174, etc.</i> ; THC. <i>8, 35</i>.`

@@ -1,0 +1,1 @@
+lar[28260]=`<b>δυσ·βοήθητος, ος, ον</b>, difficile à secourir, à soulager, DS. <i>3, 47</i> ; P. ÉG. <i>p. 168, 36</i>.<p>•<i> Cp</i>. -ότερος, DIOSC. <i>Par. 2, 159</i>.<p><b>Étym</b>. δ. βοηθέω.`

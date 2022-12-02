@@ -1,0 +1,1 @@
+lar[17891]=`<b>ἀ·φαρής, ής, ές</b> <font color="purple">[ᾰᾰ]</font> sans vêtement, EUPH. <i>fr. 66</i>.<p><b>Étym</b>. ἀ, φᾶρος.`

@@ -1,0 +1,1 @@
+lar[49806]=`<b>ων (οἱ)</b> les Issèdones, <i>pple scythique de la Mer Caspienne,</i> HDT. <i>4, 13, etc</i>.`

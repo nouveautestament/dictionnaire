@@ -1,0 +1,1 @@
+lar[107195]=`(<i>seul. prés</i>.) désirer de fuir, EUR. <i>H.f. 628 dout</i>.<p><b>Étym</b>. φεύγω.`

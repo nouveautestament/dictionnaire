@@ -1,0 +1,1 @@
+lar[93371]=`<b>εως (ἡ)</b> <font color="purple">[στᾰ]</font> engagement, combat, POL. <i>4, 8, 9</i>.<p><b>Étym</b>. συγκαθίστημι.`

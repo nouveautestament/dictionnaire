@@ -1,0 +1,1 @@
+lar[60007]=`<b>α, ον</b> <font color="purple">[ᾰ]</font><br><b>      1</b> dévorant, glouton, vorace, LYC. <i>215</i> ; A. PL. <i>1, 15</i>.<br><b>      2</b> <i>pass</i>. dévoré, LYC. <i>791</i>.<p><b>Étym</b>. λαφύσσω.`

@@ -1,0 +1,1 @@
+lar[71404]=`<font color="purple">[ῑᾰ]</font> <i>adv.</i> :<br><b>      1</b> en troupe, en foule, IL. <i>12, 3 ; 15, 277</i>.<br><b>      2</b> ensemble avec, A.RH. <i>3, 596</i>.<p><b>Étym</b>. ὅμιλος, -δον.`

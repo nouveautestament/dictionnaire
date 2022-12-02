@@ -1,0 +1,1 @@
+lar[40065]=`<b>ή, όν</b>, qui concerne l’épode dans le chœur, HÉPH. <i>8, 3 et 4</i>.<p><b>Étym</b>. ἐπῳδός.`

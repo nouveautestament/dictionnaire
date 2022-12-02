@@ -1,0 +1,1 @@
+lar[12113]=`<b>ἀπο·βαδίζω</b> <font color="darkgreen">(<i>impf</i>. ἀπεβάδιζον)</font> <font color="purple">[βᾰ]</font> s’en aller, AR. <i>fr. 400</i>.`

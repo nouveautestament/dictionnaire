@@ -1,0 +1,1 @@
+lar[45615]=`<b>α, ον :<br>      1</b> qui vaut une demi-obole, AR. <i>Ran. 554</i>.<br><b>      2</b> de la largeur d’une demi-obole, XÉN. <i>Mem. 1, 3, 12</i>.<p><b>Étym</b>. ἡμιωβόλιον.`

@@ -1,0 +1,1 @@
+lar[11943]=`<i>adv</i>., avec hostilité, PHILSTR. <i>315</i>.<p><b>Étym</b>. ἀπεχθάνομαι.`

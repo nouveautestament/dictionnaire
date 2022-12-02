@@ -1,0 +1,1 @@
+lar[75492]=`<font color="purple">[μᾰ]</font> <i>vb. de</i> παραδειγματίζω, POL. <i>35, 2, 10</i>.`

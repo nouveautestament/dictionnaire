@@ -1,0 +1,1 @@
+lar[84849]=`<b>προ·οπτάω-ῶ</b>, faire rôtir auparavant, ALEX. (<i>Com. fr. 3, 452</i>).`

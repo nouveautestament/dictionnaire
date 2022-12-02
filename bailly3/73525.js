@@ -1,0 +1,1 @@
+lar[73525]=`<i>contr. att. pour</i> ὁ ἐκ.`

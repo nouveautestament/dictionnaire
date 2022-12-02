@@ -1,0 +1,1 @@
+lar[41631]=`<b>εὐ·απόπνοος, οος, οον</b> <font color="purple">[ᾰ]</font> qui s’évapore facilement, TH. <i>Od. 42</i>.<p><b>Étym</b>. εὖ, ἀποπνέω.`

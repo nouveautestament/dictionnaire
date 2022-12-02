@@ -1,0 +1,1 @@
+lar[76694]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰγ]</font> changement, altération, GAL. <i>14, 796</i>.<p><b>Étym</b>. παρεναλλάσσω.`

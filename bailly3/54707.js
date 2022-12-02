@@ -1,0 +1,1 @@
+lar[54707]=`<b>κενο·πάθεια, ας (ἡ)</b> <font color="purple">[πᾰ]</font> état d’esprit d’une personne qui éprouve une passion frivole <i>ou</i> sans raison, DÉMOCR. (SEXT. <i>p. 492, 29).</i><p><b>Étym</b>. κ. πάθος.`

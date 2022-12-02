@@ -1,0 +1,1 @@
+lar[101027]=`<font color="purple">[ρῠ]</font> <i>adv</i>., en creusant une tombe, HDN GR. <i>Epim. p. 160 Boissonade</i>.`

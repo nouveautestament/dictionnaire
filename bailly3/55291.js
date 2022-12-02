@@ -1,0 +1,1 @@
+lar[55291]=`<b>κηρο·χίτων, ωνος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> à la robe de cire, recouvert de cire, ANTH. <i>6, 249</i>.<p><b>Étym</b>. κηρός, χιτών.`

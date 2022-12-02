@@ -1,0 +1,1 @@
+lar[10592]=`<b>ἀντι·χαίρω</b> (<i>part. ao. pass. fém</i>. ἀντιχαρεῖσα) <font color="purple">[χᾰ]</font> répondre à la joie de, SOPH. <i>Ant. 149</i>.`

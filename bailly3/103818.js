@@ -1,0 +1,1 @@
+lar[103818]=`<b>ὑπο·σιμόω-ῶ</b> <font color="purple">[ῑ]</font> recourber légèrement, ALCIPHR. <i>1, 39, 5</i>.`

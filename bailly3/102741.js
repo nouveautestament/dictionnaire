@@ -1,0 +1,1 @@
+lar[102741]=`<font color="purple">[ᾰῡ]</font> rendre excessivement épais, <i>d’où, au pass</i>. devenir excessivement épais, TH. <i>C.P. 5, 11, 3</i>.<p><b>Étym</b>. ὑπέρπαχυς.`

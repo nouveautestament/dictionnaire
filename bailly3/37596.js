@@ -1,0 +1,1 @@
+lar[37596]=`<b>ἐπι·διαλύω</b>, faire cesser en outre, ORIB. <i>p. 92 Matthäi</i>.`

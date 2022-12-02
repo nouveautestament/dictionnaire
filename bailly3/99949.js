@@ -1,0 +1,1 @@
+lar[99949]=`<b>ου</b> <font color="purple">[ᾰᾱ]</font> <i>adj. m</i>. blessé, PD. <i>fr. 244</i> ; οἱ τραυματίαι, HDT. <i>3, 79</i> ; THC. <i>7, 75 ; 8, 27,</i> les blessés (d’une armée).<p>➳ <i>Ion</i>. τρωματίης, HDT. <i>l. c</i>.<p><b>Étym</b>. τραῦμα.`

@@ -1,0 +1,1 @@
+lar[17849]=`<b>α, ον :<br>      1</b> qu’il faut écarter, PLAT. <i>Rsp. 398e.</i><br><b>      2</b> <i>neutre</i> ἀφαιρετέον <i>au sens tr</i>. il faut enlever <i>ou</i> exclure, HPC. <i>Aph. 1253</i> ; PLAT. <i>Rsp. 361a, etc</i>.`

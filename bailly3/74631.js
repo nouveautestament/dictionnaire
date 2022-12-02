@@ -1,0 +1,1 @@
+lar[74631]=`<b>εως (ἡ)</b> retour offensif de fuyards, IL. <i>12, 71, etc.</i> ; HÉS. <i>Sc. 154</i>.<p>➳ <font color="purple">[λῑ]</font> <i>à l’arsis,</i> IL. <i>l.c</i>.<p><b>Étym</b>. π. ἰωκή ; <i>cf</i>. παλινδίωξις.`

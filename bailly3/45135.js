@@ -1,0 +1,1 @@
+lar[45135]=`<i>par contr</i>. <b>ᾘών, όνος (ἡ) :<br>      1</b> Èïôn <i>ou</i> Èiôn (<i>auj</i>. ruines près d’Ofrýnio, <i>anc</i>. Komitíssi, Rendína) <i>v. de Macédoine à l’embouchure du Strymon,</i> HDT. <i>7, 25, etc.</i> ; THC. <i>1, 98, etc.</i><br><b>      2</b> <i>v. de Piérie, ou p.-ê. la même que la préc</i>. THC. <i>4, 7</i>.<p>➳ Ἠϊών, SIM. (PLUT. <i>Cim. 7</i>).`

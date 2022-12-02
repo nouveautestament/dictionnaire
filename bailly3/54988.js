@@ -1,0 +1,1 @@
+lar[54988]=`<b>οῦ</b> <font color="purple">[ᾰ]</font> changeur de monnaie, M. TYR. <i>2, p. 13</i> ; NT. <i>Joh. 2, 14</i>.<p><b>Étym</b>. κερματίζω.`

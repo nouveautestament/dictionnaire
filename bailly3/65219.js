@@ -1,0 +1,1 @@
+lar[65219]=`<b>ή, όν</b>, qui concerne le mesurage, PLAT. <i>Leg. 817e, Just. 373c</i>, d ; ἡ μετρητική (<i>s.-e</i>. τέχνη) PLAT. <i>Phil. 55e</i>, l’art de mesurer.<p><b>Étym</b>. μετρέω.`

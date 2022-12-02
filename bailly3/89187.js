@@ -1,0 +1,1 @@
+lar[89187]=`<b>ῶν (αἱ)</b> = <i>lat</i>. Salinæ, les Salines d’Hercule, <i>en Campanie,</i> PLUT. <i>Crass. 9</i>.`

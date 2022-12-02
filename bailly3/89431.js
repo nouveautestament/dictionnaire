@@ -1,0 +1,1 @@
+lar[89431]=`<b>σαρκο·βόρος, ος, ον</b>, qui mange de la chair, carnivore, PHIL. <i>2, 238</i> ; PLUT. <i>M. 971c ;</i> MAN. <i>5, 193</i>.<p><b>Étym</b>. σάρξ, βιβρώσκω.`

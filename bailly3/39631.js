@@ -1,0 +1,1 @@
+lar[39631]=`<b>ἐπι·φωνέω-ῶ</b> (<i>pf</i>. ἐπιπεφώνηκα) :<br><b>      1</b> dédier, consacrer à, <i>dat</i>. PLUT. <i>Pomp. 4</i>.<br><b>      2</b> s’approcher, en parlant, de, invoquer, <i>acc</i>. SOPH. <i>O.C. 1762</i>.<br><b>      3</b> parler sur <i>ou</i> de : τινι, PLUT. <i>Alex. 3</i> ; εἴς τι, PLUT. <i>Luc. 39,</i> de qqe ch.`

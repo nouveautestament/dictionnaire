@@ -1,0 +1,1 @@
+lar[108708]=`<b>έως (ὁ)</b> du dème Kholarges, AR. <i>Ach. 855, etc.</i> ; DÉM. <i>22, 40, 6, etc.</i> ; PLUT. <i>Per. 3, 13, etc</i>.<p><b>Étym</b>. <i>v</i>. Χολαργεῖς.`

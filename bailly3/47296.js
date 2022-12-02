@@ -1,0 +1,1 @@
+lar[47296]=`<b>ου (τὸ)</b> ménagerie, HORTENS. (VARR. <i>R.R. 3, 13).</i><p><b>Étym</b>. θηριοτρόφος.`

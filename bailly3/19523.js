@@ -1,0 +1,1 @@
+lar[19523]=`<b>ή, όν</b>, propre à améliorer, <i>gén</i>. CLÉM. <i>700d ; abs</i>. CLÉM. <i>700a</i>.<p><b>Étym</b>. βελτιόω.`

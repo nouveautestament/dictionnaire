@@ -1,0 +1,1 @@
+lar[12138]=`<b>ος, ον</b>, qui attire les regards, EUR. <i>Hec. 355</i>.<p><b>Étym</b>. ἀποβλέπω.`

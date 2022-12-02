@@ -1,0 +1,1 @@
+lar[89450]=`<b>σαρκοποιέω-ῶ</b>, changer en chair, incarner, PLUT. <i>M. 1096e</i>.<p><b>Étym</b>. σαρκοποιός.`

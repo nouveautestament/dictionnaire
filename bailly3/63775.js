@@ -1,0 +1,1 @@
+lar[63775]=`<b>Μελάγ·χλαινοι, ων (οἱ)</b> les Manteaux noirs, <i>tribu scythe,</i> HDT. <i>4, 20</i>.<p><b>Étym</b>. <i>v</i>. μελάγχλαινος.`

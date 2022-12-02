@@ -1,0 +1,1 @@
+lar[45896]=`<b>ίδος</b>, <i>adj. f</i>. de panicaut, NIC. <i>Al. 577</i>.<p><b>Étym</b>. ἤρυγγος.`

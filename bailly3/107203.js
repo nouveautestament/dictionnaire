@@ -1,0 +1,1 @@
+lar[107203]=`<b>φυξί·πολις, εως (ὁ, ἡ)</b> <font color="purple">[ξῐ]</font> <i>litt</i>. qui fuit sa cité, <i>d’où</i> banni, exilé : πάτρης, OPP. <i>H. 1, 278,</i> de sa patrie.<p><b>Étym</b>. φεύγω, πόλις.`

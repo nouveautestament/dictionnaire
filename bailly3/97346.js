@@ -1,0 +1,1 @@
+lar[97346]=`<b>εως (ἡ)</b> <font color="purple">[ᾰῐσ]</font> action de faire frire <i>ou</i> griller dans la poêle, GAL. <i>6, 787</i>.<p><b>Étym</b>. ταγηνίζω.`

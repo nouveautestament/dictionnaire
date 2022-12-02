@@ -1,0 +1,1 @@
+lar[82397]=`<b>πολύ·στικτος, ος, ον</b>, marqué de nombreux points, fortement tacheté, ORPH. <i>fr. 7, 15</i> ; CLÉM. <i>286</i>.<p><b>Étym</b>. π. στίζω.`

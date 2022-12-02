@@ -1,0 +1,1 @@
+lar[87205]=`<b>πρωτό·θροος-ους, οος-ους, οον-ουν</b>, qui se fait entendre le premier <i>ou</i> pour la première fois, NONN. <i>Jo. 3, 26, etc</i>.<p><b>Étym</b>. πρ. θρέομαι.`

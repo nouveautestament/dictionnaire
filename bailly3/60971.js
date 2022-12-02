@@ -1,0 +1,1 @@
+lar[60971]=`<b>ας (ἡ)</b> <font color="purple">[ῐ]</font> Ligeia (<i>propr</i>. la mélodieuse) <i>n. d’une Sirène,</i> ARSTT. <i>Mir. 103</i> ; LYC. <i>726</i>.<p><b>Étym</b>. <i>v</i>. λίγεια.`

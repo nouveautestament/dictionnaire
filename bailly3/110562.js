@@ -1,0 +1,1 @@
+lar[110562]=`<b>ὠτο·γλυφίς, ίδος (ἡ)</b> <font color="purple">[ῠ]</font> cure-oreilles, PLAT. COM. (POLL. <i>2, 83</i>) ; GEOP. <i>4, 7, 1</i>.<p><b>Étym</b>. οὖς, γλύφω.`

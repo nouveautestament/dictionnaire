@@ -1,0 +1,1 @@
+lar[1996]=`<b>ης, ες</b>, couvert comme de barbes d’épi, GAL. <i>2, 272</i>.<p><b>Étym</b>. ἀθήρ, -ωδης.`

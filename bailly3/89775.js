@@ -1,0 +1,1 @@
+lar[89775]=`<b>ης (ἡ)</b> Sémélè, <i>fille de Kadmos, mère de Dionysos,</i> PD. <i>O. 2, 47 ; P. 11, 1</i> ; HDT. <i>2, 145</i> ; EUR. <i>Bacch. 3</i>.<p>➳ <i>Dor</i>. Σεμέλα <font color="purple">[ᾱ]</font> PD. <i>ll. cc. etc.</i> ; EUR. <i>Bacch. 105, etc</i>.`

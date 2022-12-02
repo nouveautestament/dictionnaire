@@ -1,0 +1,1 @@
+lar[71916]=`<b>ὀνησι·φόρος, ος, ον</b> <font color="purple">[ῐ]</font> qui procure un avantage utile, HPC. <i>28, 50</i> ; PLUT. <i>M. 555e ;</i> LUC. <i>V. auct. 26</i>.<p><b>Étym</b>. ὄνησις, φέρω.`

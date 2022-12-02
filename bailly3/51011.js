@@ -1,0 +1,1 @@
+lar[51011]=`<b>ου (ὁ)</b> <font color="purple">[ᾱν]</font> Brahmane indien, SUID. <i>v°</i> Κάλανος ; οἱ Κάλανοι, JOS. <i>c. Ap. 1, 22,</i> les Brahmanes ; <i>particul</i>. Kalanos (<i>propr</i>. le Brahmane) <i>n. d’un brahmane contemporain d’Alexandre le Grand,</i> ARR. <i>An. 7, 2 et 3</i>.<p>➳ Καλανός, PLUT. <i>Alex. 65</i>.`

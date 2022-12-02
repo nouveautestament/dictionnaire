@@ -1,0 +1,1 @@
+lar[52433]=`<b>ας (ἡ)</b> <font color="purple">[βᾰ]</font><br><b>      1</b> descente, Q. SM. <i>6, 484</i>.<br><b>      2</b> <i>au pl</i>. signes (foudre, éclairs, <i>etc</i>.) qu’on fait descendre du ciel sur la terre par sortilège, PLUT. <i>M. 555a</i>.<p><b>Étym</b>. καταιβατός.`

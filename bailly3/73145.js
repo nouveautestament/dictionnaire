@@ -1,0 +1,1 @@
+lar[73145]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font><br><b>      1</b> enclos d’arbres, IL. <i>14, 123, etc.</i> ; EUR. (ATH. <i>465b</i>) ; ANTH. <i>9, 314</i>.<br><b>      2</b> <i>p. suite,</i> parc, jardin, OD. <i>7, 112, etc</i>.<p><b>Étym</b>. <i>pré-grec ; cf</i>. ὄρχος.`

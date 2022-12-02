@@ -1,0 +1,1 @@
+lar[17553]=`<b>αὐτο·κυβερνήτης, ου (ὁ)</b> <font color="purple">[ῠ]</font> qui est son propre pilote, ANTH. <i>9, 438</i>.`

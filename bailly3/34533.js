@@ -1,0 +1,1 @@
+lar[34533]=`<b>ἐν·θεωρέω-ῶ</b>, observer dans, <i>dat</i>. NICOM. <i>Arithm. 91</i> ; NYSS. <i>3, 1092 Migne</i>.`

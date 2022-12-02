@@ -1,0 +1,1 @@
+lar[76780]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> mauvais artisan, mauvais auxiliaire, EUR. <i>Suppl. 426</i>.<p><b>Étym</b>. π. ἐργάτης.`

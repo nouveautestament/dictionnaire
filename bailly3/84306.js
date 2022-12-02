@@ -1,0 +1,1 @@
+lar[84306]=`marcher en avant de, précéder, <i>gén</i>. NONN. <i>D. 47, 268</i>.<p><b>Étym</b>. προηγεμών.`

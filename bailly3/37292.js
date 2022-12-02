@@ -1,0 +1,1 @@
+lar[37292]=`<b>εως (ἡ)</b> bruit retentissant, E. BYZ. <i>v°</i> Δωδώνη.<p><b>Étym</b>. ἐπηχέω.`

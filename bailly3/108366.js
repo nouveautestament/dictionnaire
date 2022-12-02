@@ -1,0 +1,1 @@
+lar[108366]=`<b>χηνο·βοσκός, οῦ (ὁ, ἡ)</b> qui mène paître <i>ou</i> qui nourrit des oies, CRAT. (ATH. <i>384b</i>) ; DS. <i>1, 74</i>.<p><b>Étym</b>. χ. βόσκω.`

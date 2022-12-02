@@ -1,0 +1,1 @@
+lar[101021]=`<b>τυμβοχοέω-οῶ :<br>      1</b> élever un tertre funéraire, HDT. <i>7, 117</i>.<br><b>      2</b> ensevelir sous un tertre funéraire, IL. <i>21, 323</i>.<p><b>Étym</b>. τυμβοχόος.`

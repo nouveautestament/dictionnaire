@@ -1,0 +1,1 @@
+lar[389]=`<b>ἀγά·συρτος, ου (ὁ)</b> malpropre, <i>épithète obscure appliquée à Pittakos</i> ; ALC. <i>6 ; cf</i>. DL. <i>1, 81</i>.<p><b>Étym</b>. ἀγα-, σύρω.`

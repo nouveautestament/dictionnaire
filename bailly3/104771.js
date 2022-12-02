@@ -1,0 +1,1 @@
+lar[104771]=`<b>ιδος (ὁ)</b> Phalis, <i>Phocéen,</i> PLUT. <i>M. 825b</i>.`

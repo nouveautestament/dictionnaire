@@ -1,0 +1,1 @@
+lar[100350]=`<b>τρι·πέτηλος, ος, ον</b> <font color="purple">[ῐ]</font> à trois feuilles, HH. <i>Merc. 530 ; subst</i>. τὸ τριπέτηλον, NIC. <i>Th. 522</i> ; CALL. <i>Dian. 165, fr. 334,</i> trèfle (<i>c</i>. τρίφυλλον) <i>plante</i>.<p><b>Étym</b>. τρ. πέτηλον.`

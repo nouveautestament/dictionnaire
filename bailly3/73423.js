@@ -1,0 +1,1 @@
+lar[73423]=`<i>ou</i> <b>οὐᾶ</b>, <i>interj</i>. ah ! oh ! <i>cri d’étonnement,</i> DC. <i>63, 20</i> ; ARR. <i>Epict. 3, 22, 34 ; de moquerie,</i> NT. <i>Marc. 15, 29</i>.<p><b>Étym</b>. <i>cf. lat</i>. vah !.`

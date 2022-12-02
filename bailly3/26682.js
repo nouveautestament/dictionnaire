@@ -1,0 +1,1 @@
+lar[26682]=`<font color="purple">[ῑ]</font> <i>seul. inf</i>. δινέμεν, HÉS. <i>O. 598 et part. pr. pass</i>. δινομένην, CALL. <i>fr. 51, c</i>. δινέω.`

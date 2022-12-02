@@ -1,0 +1,1 @@
+lar[20922]=`<b>ων (τὰ)</b> marc de raisin <i>ou</i> d’olives, ATH. <i>56d</i>.<p><b>Étym</b>. <i>Cf. lat</i>. brīsa.`

@@ -1,0 +1,1 @@
+lar[10619]=`<b>ἀντί·ψυχος, ος, ον</b> <font color="purple">[ῡ]</font> donné en échange de la vie, qui sauve la vie, LUC. <i>Lex. 10</i> ; DC. <i>59, 8</i>.<p><b>Étym</b>. ἀ. ψυχή.`

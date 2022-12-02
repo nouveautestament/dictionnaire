@@ -1,0 +1,1 @@
+lar[86160]=`<b>προσ·νέω</b>, entasser devant, <i>rég. ind. au dat</i>. PLUT. <i>M. 775d</i>.`

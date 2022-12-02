@@ -1,0 +1,1 @@
+lar[61033]=`<b>λιθό·βλητος, ος, ον</b> <font color="purple">[ῐ]</font><br><b>      1</b> <i>pass</i>. parsemé de pierreries, ANTH. <i>5, 270</i>.<br><b>      2</b> <i>act</i>. qui attaque à coups de pierres <i>ou</i> qui consiste en un jet de pierres, ANTH. <i>9, 3</i>.<p><b>Étym</b>. λίθος, βάλλω.`

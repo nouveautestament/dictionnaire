@@ -1,0 +1,1 @@
+lar[71123]=`<b>ή, όν</b> <font color="purple">[ᾰ]</font> qui concerne un vaisseau <i>ou</i> des vaisseaux de transport ; ARSTT. <i>Inc. an. 10</i>.<p><b>Étym</b>. ὁλκάς.`

@@ -1,0 +1,1 @@
+lar[10398]=`<b>ατος (τὸ)</b> diversion militaire, POL. <i>2, 18, 3</i> ; DS. <i>20, 86, etc</i>.<p><b>Étym</b>. ἀντισπάω.`

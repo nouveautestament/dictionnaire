@@ -1,0 +1,1 @@
+lar[38788]=`<b>ἐπι·πόρφυρος, ος, ον</b> <font color="purple">[ῠ]</font> qui tire sur la couleur pourpre, TH. <i>H.P. 4, 6, 4</i>.<p><b>Étym</b>. ἐπί, πορφύρα.`

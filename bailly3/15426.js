@@ -1,0 +1,1 @@
+lar[15426]=`<b>ου (ὁ)</b> pain de froment (<i>p. opp. à</i> μᾶζα, HPC. <i>Acut. 389, etc</i>. pain d’orge) ; <i>dans Hom. d’ord. au plur</i>. OD. <i>18, 120 ; rar. au sg. avec sens collectif,</i> OD. <i>17, 343, postér. au sg</i>. HDT. <i>8, 137</i> ; THC. <i>1, 138</i>.<p><b>Étym</b>. <i>inconnue</i>.`

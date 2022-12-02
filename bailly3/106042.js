@@ -1,0 +1,1 @@
+lar[106042]=`<b>ας (ἡ)</b> <font color="purple">[φῐ]</font> affabilité, ISOCR. <i>6b ;</i> DH. <i>Rhet. 5, 1</i>.<p><b>Étym</b>. φιλοπροσήγορος.`

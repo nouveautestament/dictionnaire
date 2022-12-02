@@ -1,0 +1,1 @@
+lar[103934]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰ]</font> sorte d’accord, <i>t. de mus</i>. BACCHYL. <i>Mus. p. 19</i>.<p><b>Étym</b>. ὑποσυνάπτω.`

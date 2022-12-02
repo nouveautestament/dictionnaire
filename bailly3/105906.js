@@ -1,0 +1,1 @@
+lar[105906]=`<b>φιλό·λυρος, ος, ον</b> <font color="purple">[ῐῠ]</font> ami de la lyre, EPICH. (HÉPH. <i>p. 5).</i><p><b>Étym</b>. φ. λύρα.`

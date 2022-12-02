@@ -1,0 +1,1 @@
+lar[10587]=`<b>ἀντι·φυτεύω</b> <font color="purple">[ῠ]</font> planter à son tour ; <i>fig</i>. faire croître à son tour <i>ou</i> en retour, Ps.-PHOCYL. <i>78</i>.`

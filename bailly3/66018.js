@@ -1,0 +1,1 @@
+lar[66018]=`<b>μισο·βάρβαρος, ος, ον</b> <font color="purple">[ῑᾰρο]</font> qui hait les barbares, les étrangers : τὸ μισοβάρβαρον, PLAT. <i>Menex. 245c ;</i> LUC. <i>Dem. enc. 6,</i> haine de l’étranger.<p><b>Étym</b>. μισέω, β.`

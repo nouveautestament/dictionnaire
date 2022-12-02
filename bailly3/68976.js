@@ -1,0 +1,1 @@
+lar[68976]=`<b>ά, όν</b>, maladif, EUR. <i>Hipp. 131 ; d’où</i> chancelant, EUR. <i>Or. 1016,</i> malsain, PLUT. <i>Lyc. 27</i>.<p><b>Étym</b>. νόσος.`

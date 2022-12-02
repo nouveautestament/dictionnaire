@@ -1,0 +1,1 @@
+lar[24808]=`<b>εως (ἡ)</b> <font color="purple">[ᾱ]</font> action de servir, service, PLAT. <i>Leg. 633c</i>.<p><b>Étym</b>. διακονέω.`

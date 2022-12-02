@@ -1,0 +1,1 @@
+lar[21812]=`<b>ου (ὁ)</b> Gerros :<br><b>      1</b> <i>fl. de la Sarmatie d’Europe,</i> HDT. <i>4, 19</i>.<br><b>      2</b> <i>contrée riveraine de ce fleuve,</i> HDT. <i>4, 53</i> ; Γέρροι, HDT. <i>4, 71, m. sign</i>.`

@@ -1,0 +1,1 @@
+lar[90576]=`<b>σιφαῖος ἄρτος (ὁ)</b> <i>sorte de</i> pain, LUC. <i>Lex. 6</i>.`

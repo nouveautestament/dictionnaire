@@ -1,0 +1,1 @@
+lar[87372]=`<b>πτηνο·βόλος, ος, ον</b>, qui frappe les oiseaux, ORPH. <i>H. 12, 16</i>.<p><b>Étym</b>. πτηνός, βάλλω.`

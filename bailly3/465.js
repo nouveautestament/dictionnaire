@@ -1,0 +1,1 @@
+lar[465]=`<b>ἀγελ·άρχης, ου (ὁ)</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> qui est à la tête du troupeau, LUC. <i>Am. 22</i>.<br><b>      2</b> chef <i>ou</i> conducteur d’un troupeau, PLUT. <i>Rom. 6</i>.<p><b>Étym</b>. ἀγέλη, ἄρχω.`

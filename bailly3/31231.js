@@ -1,0 +1,1 @@
+lar[31231]=`<b>ῆς (ἡ) :<br>      1</b> sortie impétueuse, charge, XÉN. <i>Hell. 3, 2, 4 ; etc. d’où, p. ext., au plur</i>. troupe qui charge l’ennemi, THC. <i>4, 127</i>.<br><b>      2</b> <i>fig</i>. digression, ARSTD. <i>t. 1, 92</i>.<br><b>      3</b> pousse, croissance des plantes, TH. <i>C.P. 2, 1, 3</i>.<p><b>Étym</b>. ἔκδρομος.`

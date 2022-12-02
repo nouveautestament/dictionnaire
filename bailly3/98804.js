@@ -1,0 +1,1 @@
+lar[98804]=`<b>ου</b>, <i>épq</i>. <b>αο (ὁ)</b> <font color="purple">[ᾰῐ]</font> fils de Teutamos, IL. <i>2, 843</i>.<p><b>Étym</b>. <i>patr. de</i> Τεύταμος.`

@@ -1,0 +1,1 @@
+lar[49905]=`<b>ητος (ἡ)</b> sécheresse, <i>d’où</i> maigreur, gracilité, ARSTT. <i>H.A. 7, 1</i> ; ARÉT. <i>5, 21 ; particul. t. de rhét</i>. prononciation maigre <i>ou</i> faible, QUINT. <i>1, 5, 32 ; fig. en parl. du style,</i> simplicité, absence d’ornements, DH. <i>Vet. script. cens. 5, 1</i> ; D. PHAL. <i>96, 16</i>.<p><b>Étym</b>. ἰσχνός.`

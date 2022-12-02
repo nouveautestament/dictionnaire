@@ -1,0 +1,1 @@
+lar[71955]=`<b>ὀνο·κόπος, ος, ον</b>, qui taille des pierres meulières, ALEX. (POLL. <i>7, 20).</i><p><b>Étym</b>. ὄν. κόπτω.`

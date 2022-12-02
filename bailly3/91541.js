@@ -1,0 +1,1 @@
+lar[91541]=`<b>σμυρνο·φόρος, ος, ον</b>, qui produit (<i>litt</i>. qui porte) de la myrrhe, DS. <i>2, 45</i> ; STR. <i>769, 782</i> ; PTOL. <i>4, 7, 31 ; 6, 7, 26</i>.<p><b>Étym</b>. σμύρνα, φέρω.`

@@ -1,0 +1,1 @@
+lar[48925]=`<i>mieux que</i> <b>Ἰλισσός, οῦ (ὁ)</b> <font color="purple">[ῑλ]</font> l’Hilisos (Ilissus) <i>cours d’eau de l’Attique,</i> HDT. <i>7, 189</i>.<p>➳ <i>Dans les inscr. att. avec un seul σ et avec l’esprit rude,</i> CIA. <i>1, 210, 2 (429 av. J.-C.) etc. ; v. Meisterh. p. 75, 12</i>.`

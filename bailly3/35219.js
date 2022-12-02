@@ -1,0 +1,1 @@
+lar[35219]=`<font color="purple">[ᾰ]</font> <i>adv. c</i>. ἐνωπαδίως A.RH. <i>4, 1415</i>.`

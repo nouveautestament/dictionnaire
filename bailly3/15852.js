@@ -1,0 +1,1 @@
+lar[15852]=`<b>ου (ὁ)</b> Asidatès, <i>Perse,</i> XÉN.`

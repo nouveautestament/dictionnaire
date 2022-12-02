@@ -1,0 +1,1 @@
+lar[80435]=`<b>πίσσ·ανθος, εος-ους (τὸ)</b> sérosité, <i>propr</i>. fleur de poix, GAL.<p><b>Étym</b>. π. ἄνθος.`

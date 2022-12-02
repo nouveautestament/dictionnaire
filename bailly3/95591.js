@@ -1,0 +1,1 @@
+lar[95591]=`<b>συν·επεμβαίνω</b>, marcher ensemble sur, <i>d’où</i> insulter, humilier, rabaisser : τινί, ARSTD. <i>t. 1, 471,</i> qqn ; τοῖς καιροῖς, ταῖς ἀτυχίαις, POL. <i>20, 11, 7 ; 30, 9, 21,</i> profiter des circonstances, des malheurs pour accabler un adversaire.`

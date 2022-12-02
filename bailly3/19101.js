@@ -1,0 +1,1 @@
+lar[19101]=`<b>ου (ὁ)</b> sorte de luth, ATH. <i>636c</i>.`

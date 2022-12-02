@@ -1,0 +1,1 @@
+lar[75158]=`<b>πάν·σκοπος, ος, ον</b>, qui voit <i>ou</i> observe tout, ANTH. <i>7, 580</i>.<p><b>Étym</b>. π. σκοπέω.`

@@ -1,0 +1,1 @@
+lar[22458]=`<b>γονυ·καμψ·επίκυρτος, ος, ον</b> <font color="purple">[ῠῐ]</font> qui courbe et raccourcit les genoux (la goutte), LUC. <i>Trag. 203</i>.<p><b>Étym</b>. γόνυ, κάμπτω, ἐ.`

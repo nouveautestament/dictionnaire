@@ -1,0 +1,1 @@
+lar[64272]=`<b>ιδος</b>, <i>ion</i>. <b>ιος (ἡ)</b> Memphis, <i>v. de la Moyenne Égypte (auj</i>. ruines <i>près des villages de Mit-Rahineh et de Badrashin</i>) HDT. <i>2, 8, etc.</i> ; ESCHL. <i>Pers. 36, etc.</i> ; THC. <i>1, 104, 109</i>.<p>➳ <i>Gén</i>. Μέμφιδος, ESCHL. THC. <i>ll. cc. etc.</i> ; Μέμφιος, HDT. <i>l. c. etc.</i> ; ARSTT. <i>Meteor. 1, 14, etc</i>.`

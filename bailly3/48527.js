@@ -1,0 +1,1 @@
+lar[48527]=`<i>sg. fém. ou pl. neutre de</i> ἱερός ; ἱερά <i>se joint à divers mots pour des désignations géographiques, p. ex</i>. ἡ ἱερὰ νῆσος, l’île sacrée, <i>l’une des î. Lipari,</i> THC. <i>3, 88</i> ; ARSTT. <i>Meteor. 2, 8 ; ou une î. de la mer Égée,</i> POL. <i>34, 11, 12, etc</i>.`

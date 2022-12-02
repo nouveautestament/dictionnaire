@@ -1,0 +1,1 @@
+lar[54984]=`<b>οῦ (ὁ)</b> = <i>lat</i>. Germalus, <i>mamelon du mt Palatin,</i> DIOCL. (PLUT. <i>Rom. 3</i>).`

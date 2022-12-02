@@ -1,0 +1,1 @@
+lar[23031]=`(<i>seul. part. prés</i>.) mordiller, mordre, ronger, ANTH. <i>7, 504</i>.<br><b><i>Moy.</i></b> (<i>seul. 2 sg. impér. prés</i>. δακνάζου) se ronger le cœur de chagrin, ESCHL. <i>Pers. 571</i>.<p><b>Étym</b>. δάκνω.`

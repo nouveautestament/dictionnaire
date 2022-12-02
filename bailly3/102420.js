@@ -1,0 +1,1 @@
+lar[102420]=`<b>ὑπερ·έκκρισις, εως (ἡ)</b> <font color="purple">[ρῐ]</font> sécrétion excessive, A. TR. <i>3, 204</i>.<p><b>Étym</b>. ὑ. ἐκκρίνω.`

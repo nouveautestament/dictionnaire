@@ -1,0 +1,1 @@
+lar[27784]=`<b>ίδος (ἡ)</b> <font color="purple">[ᾰ]</font> dragon, <i>sorte de poisson,</i> EPHIPP. (ATH. <i>322e</i>).`

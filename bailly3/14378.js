@@ -1,0 +1,1 @@
+lar[14378]=`<b>ἀργύ·φεος, η, ον</b> <font color="purple">[ῠ]</font> éclatant de blancheur, IL. <i>18, 50</i> ; OD. <i>5, 230</i> ; HÉS. <i>Th. 574</i>.<p><b>Étym</b>. <i>R. indo-europ</i>. *h₂erǵ-, blanc ; <i>cf</i>. ἄργυρος.`

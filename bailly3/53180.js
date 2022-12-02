@@ -1,0 +1,1 @@
+lar[53180]=`<b>κατα·πτύω</b>, cracher sur, <i>gén</i>. AR. <i>Ran. 1179 ; fig</i>. conspuer, mépriser, DÉM. <i>295, 8</i> ; ESCHN. <i>31, 21 ; 64, 12</i> ; LUC. <i>Cat. 12, etc</i>.`

@@ -1,0 +1,1 @@
+lar[43546]=`<b>εὐσχολέω-ῶ</b>, avoir du loisir, DS. <i>Exc. Vat. p. 30</i> ; M. ANT. <i>11, 18</i> ; τινος, LUC. <i>Am. 33,</i> pour qqe ch.<p><b>Étym</b>. εὔσχολος.`

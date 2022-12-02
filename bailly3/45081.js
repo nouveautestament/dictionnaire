@@ -1,0 +1,1 @@
+lar[45081]=`<b>ης (ἡ)</b> fille d’Èétiôn (Andromaque) Q. SM. <i>1, 115</i>.<p><b>Étym</b>. Ἠετίων.`

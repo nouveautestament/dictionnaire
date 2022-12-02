@@ -1,0 +1,1 @@
+lar[45311]=`<b>ἡ·μέδιμνον, ου (τὸ)</b> <i>p. dissimil. p</i>. ἡμιμέδιμνον, DIDYM. (PRISC. <i>Fig. 19, vol. 3, p. 412 Keil</i>).`

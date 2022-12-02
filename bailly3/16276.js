@@ -1,0 +1,1 @@
+lar[16276]=`<b>ῆς (ἡ)</b> <font color="purple">[ᾰπ]</font><br><b>      1</b> éclair, HDT. <i>3, 86, etc.</i> ; SOPH. <i>fr. 507</i> ; AR. <i>etc.</i><br><b>      2</b> lueur d’une lampe, ESCHL. <i>fr. 383</i> ; NT. <i>Luc. 11, 36</i>.<p>➳ <i>Dor</i>. -απά, SOPH. <i>El. 1063</i>.<p><b>Étym</b>. <i>cf</i>. ἀστεροπή, στεροπή.`

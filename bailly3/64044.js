@@ -1,0 +1,1 @@
+lar[64044]=`<b>μελί·παις, -παιδος (ὁ, ἡ)</b> <font color="purple">[ῐ]</font> qui produit du miel (ruche) ANTH. <i>12, 249</i>.<p><b>Étym</b>. μέλι, παῖς.`

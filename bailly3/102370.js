@@ -1,0 +1,1 @@
+lar[102370]=`<b>ὑπερ·γάνυμαι</b> (<i>seul. prés</i>.) <font color="purple">[ᾰ]</font> se réjouir extrêmement, PHILSTR. <i>769</i>.`

@@ -1,0 +1,1 @@
+lar[9712]=`<b>ἀντ·ευποιέω-ῶ</b>, <i>ou mieux séparément</i> <b>ἀντ' εὖ ποιέω</b>, obliger à son tour, <i>acc</i>. XÉN. <i>An. 5, 5, 21</i> ; AR. <i>Pl. 1029</i> ; ARSTT. <i>Nic. 10, 9, etc</i>.<p>➳ <i>Pf. 3 sg</i>. ἀντευπεποίηκε, DÉM. <i>476, 21, etc</i>.<p><b>Étym</b>. <i>v</i>. *εὐποιέω.`

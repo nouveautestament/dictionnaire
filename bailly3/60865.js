@@ -1,0 +1,1 @@
+lar[60865]=`<b>ου (τὸ) :<br>      1</b> troupe de brigands, XÉN. <i>Hell. 5, 4, 42</i> ; ESCHN. <i>27, 8</i> ; PLUT. <i>Pomp. 26, Syll. 3, etc.</i><br><b>      2</b> lieu de refuge de brigands, nid de pirates, STR. <i>644</i>.<br><b>      3</b> brigandage, LUC. <i>Char. 11 au plur</i>.<p><b>Étym</b>. λῃστήρ.`

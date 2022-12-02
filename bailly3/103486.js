@@ -1,0 +1,1 @@
+lar[103486]=`<b>ὑπο·λιπαίνω</b> <font color="purple">[ῐ]</font> faire engraisser peu à peu, HPC. <i>426, 24 dout</i>.`

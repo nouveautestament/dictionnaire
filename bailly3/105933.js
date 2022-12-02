@@ -1,0 +1,1 @@
+lar[105933]=`<b>ου (ὁ)</b> <font color="purple">[ῐ]</font> Philomèleidès, <i>h</i>. OD. <i>4, 343 ; 17, 134</i>.<p><b>Étym</b>. <i>patr. de</i> Φιλομήλα.`

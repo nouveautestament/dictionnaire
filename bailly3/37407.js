@@ -1,0 +1,1 @@
+lar[37407]=`<b>ἐπι·βρύω</b>, sourdre <i>ou</i> germer en abondance, THCR. <i>Idyl. 22, 43</i> ; ἐπ. σκώληξι, ALCIPHR. <i>1, 17,</i> pulluler de vers.`

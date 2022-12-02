@@ -1,0 +1,1 @@
+lar[108475]=`<b>χιμαιρο·θύτης, ου (ὁ)</b> <font color="purple">[ῐῠ]</font> qui sacrifie des chèvres, ANTH. <i>6, 300</i>.<p><b>Étym</b>. χίμαιρα, θύω.`

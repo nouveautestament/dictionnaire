@@ -1,0 +1,1 @@
+lar[50480]=`<b>καθ·υμνέω-ῶ</b> <font color="purple">[ᾰ]</font> chanter, <i>abs</i>. CLÉANTH. <i>6 ; avec l’acc</i>. DS. <i>11, 11</i> ; PLUT. <i>M. 1098b, etc</i>.`

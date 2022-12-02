@@ -1,0 +1,1 @@
+lar[73662]=`<b>οὐρανο·κλῖμαξ, ακος (ἡ)</b> <font color="purple">[ᾰῑᾰκ]</font> échelle du ciel, CHRYS. <i>7, 299</i>.`

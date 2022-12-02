@@ -1,0 +1,1 @@
+lar[53876]=`<b>κατ·ενδύω</b>, revêtir de, <i>rég. ind. au dat</i>. NAZ. <i>2, 171a</i>.`

@@ -1,0 +1,1 @@
+lar[87442]=`<b>εως (ἡ)</b> plaque <i>ou</i> lame (de cuirasse) SPT. <i>Job 41, 4</i>.<p><b>Étym</b>. πτύσσω.`

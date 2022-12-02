@@ -1,0 +1,1 @@
+lar[80404]=`<i>ou</i> <b>πίππος, ου (ὁ)</b> petit oiseau qui piaille encore, oisillon, ATH. <i>368f</i>.<p><b>Étym</b>. <i>cf. lat</i>. pĭpĭō.`

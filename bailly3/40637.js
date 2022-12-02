@@ -1,0 +1,1 @@
+lar[40637]=`<b>Ἑρμο·κρέων, οντος (ὁ)</b> Hermokréôn :<br><b>      1</b> <i>sculpteur,</i> STR. <i>588</i>.<br><b>      2</b> <i>poète,</i> ANTH. <i>9, 327</i> ; A. PL. <i>1, 11</i>.`

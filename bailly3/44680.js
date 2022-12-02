@@ -1,0 +1,1 @@
+lar[44680]=`<b>ατος (τὸ)</b> <font color="purple">[ᾰφ]</font> peinture, tableau, PLAT. <i>Phil. 39d, Crat. 430b</i>.<p><b>Étym</b>. ζωγραφέω.`

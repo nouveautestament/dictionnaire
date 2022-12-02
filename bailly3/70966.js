@@ -1,0 +1,1 @@
+lar[70966]=`<b>ητος (ἡ)</b> <font color="purple">[ῐ]</font> <i>c</i>. ὀλιγαιμία, ARSTT. <i>P.A. 4, 11, 22</i>.`

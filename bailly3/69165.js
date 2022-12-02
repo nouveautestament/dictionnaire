@@ -1,0 +1,1 @@
+lar[69165]=`<b>νυκτο·βατία, ας (ἡ)</b> <font color="purple">[βᾰ]</font> marche nocturne, HPC. <i>366 au pl</i>.<p><b>Étym</b>. ν. βατός.`

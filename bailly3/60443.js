@@ -1,0 +1,1 @@
+lar[60443]=`<b>λεπτο·τομέω-ῶ</b>, couper en menus morceaux, STR. <i>727</i>.<p><b>Étym</b>. λ. -τομος <i>de</i> τέμνω.`

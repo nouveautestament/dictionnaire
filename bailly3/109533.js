@@ -1,0 +1,1 @@
+lar[109533]=`<b>ψαλμο·λογέω-ῶ</b>, composer des psaumes, NAZ. <i>Ep. 101, p. 193a Migne</i>.<p><b>Étym</b>. ψαλμός, λόγος.`

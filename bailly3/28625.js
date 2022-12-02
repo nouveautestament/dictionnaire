@@ -1,0 +1,1 @@
+lar[28625]=`<b>δύσ·ληπτος, ος, ον :<br>      1</b> difficile à saisir, LUC. <i>Gymn. 27</i>.<br><b>      2</b> <i>fig</i>. difficile à comprendre, PLUT. <i>M. 17d, 426f</i>.<p><b>Étym</b>. δ. λαμβάνω.`

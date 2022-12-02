@@ -1,0 +1,1 @@
+lar[68260]=`<b>νεό·στροφος, ος, ον</b>, nouvellement tourné <i>ou</i> tordu, IL. <i>15, 469</i>.<p><b>Étym</b>. ν. στρέφω.`

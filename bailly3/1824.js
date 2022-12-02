@@ -1,0 +1,1 @@
+lar[1824]=`<b>ἀερσι·πότης</b> <font color="purple">[ῐ]</font> <i>adj. m</i>. qui vole haut, HÉS. <i>Sc. 316</i> ; ANTH. <i>5, 299</i>.<p><b>Étym</b>. ἀείρω, ποτάομαι.`

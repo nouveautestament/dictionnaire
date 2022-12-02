@@ -1,0 +1,1 @@
+lar[13522]=`<b>εως (ἡ)</b> abstinence, PLUT. <i>M. 123b, 974c, etc</i>.<p><b>Étym</b>. ἀπέχω.`

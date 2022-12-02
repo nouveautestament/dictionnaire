@@ -1,0 +1,1 @@
+lar[70412]=`<b>οἰκό·τριψ, ιβος (ὁ, ἡ)</b> <font color="purple">[ῐβ]</font><br><b>      1</b> esclave né dans la maison, DÉM. <i>173, 16</i>.<br><b>      2</b> qui ruine une maison, AR. <i>Th. 426</i>.<p>➳ <i>Par crase avec l’art</i>. ᾠκότριψ, AR. <i>l. c</i>.<p><b>Étym</b>. οἶκ. τρίβω.`

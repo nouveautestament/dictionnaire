@@ -1,0 +1,1 @@
+lar[79527]=`<i>adv</i>., en tremblant de tous ses membres, PHALAR. <i>Ep. 7</i>.`

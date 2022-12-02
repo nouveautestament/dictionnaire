@@ -1,0 +1,1 @@
+lar[66492]=`<b>μονηῒς ἀρχή (ἡ)</b> gouvernement d’un seul, monarchie, MAN. <i>4, 98 ; cf</i>. μοναρχία.<p><b>Étym</b>. μόνος.`

@@ -1,0 +1,1 @@
+lar[61002]=`<b>ή, όν</b> <font color="purple">[λῐ]</font> de Ligurie, SOPH. (DH. <i>1, 12</i>) ; ἡ Λιγυστική, ARSTT. <i>Meteor. 1, 13,</i> la Ligurie ; τὸ λιγυστικόν, livèche, <i>plante,</i> DIOSC. <i>3, 58</i>.`

@@ -1,0 +1,1 @@
+lar[953]=`<b>ας (ἡ) :<br>      1</b> séjour <i>ou</i> résidence à la campagne, PLUT. <i>M. 519a ; au pl. 311b ; d’où</i> maison de campagne, DS. <i>20, 8 au pl.</i><br><b>      2</b> mœurs rustiques, grossièreté, PLAT. <i>Gorg. 461c ;</i> ARSTT. <i>Nic. 2, 7, 13</i>.<p><b>Étym</b>. ἀγροῖκος.`

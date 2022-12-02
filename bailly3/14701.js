@@ -1,0 +1,1 @@
+lar[14701]=`<b>Ἀριστό·δωρος, ου (ὁ)</b> <font color="purple">[ᾰ]</font> Aristodôros, <i>h</i>. PLAT. <i>Ep. 10</i>.<p><b>Étym</b>. ἄ. δῶρον.`

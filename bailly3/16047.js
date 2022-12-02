@@ -1,0 +1,1 @@
+lar[16047]=`<b>ἀσπιδό·δουπος, ος, ον</b> <font color="purple">[ῐ]</font> qui retentit du bruit du bouclier, PD. <i>I. 1, 23</i>.<p><b>Étym</b>. ἀ. δοῦπος.`

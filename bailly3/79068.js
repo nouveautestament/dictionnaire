@@ -1,0 +1,1 @@
+lar[79068]=`<b>περι·πέζιος, α, ον</b>, qui touche le sol ; <i>fig</i>. bas, humble, SIMPL.<p><b>Étym</b>. π. πέζα.`

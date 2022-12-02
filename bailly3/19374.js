@@ -1,0 +1,1 @@
+lar[19374]=`<b>ου (ὁ)</b> Batrakhos, <i>h</i>. LYS. PLUT.`

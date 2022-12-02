@@ -1,0 +1,1 @@
+lar[74586]=`<b>παλίν·ορτος, ος, ον</b> <font color="purple">[ᾰῐ]</font> qui s’élance de nouveau, ESCHL. <i>Ag. 154</i>.`

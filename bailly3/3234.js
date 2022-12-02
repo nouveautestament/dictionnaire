@@ -1,0 +1,1 @@
+lar[3234]=`<b>ἀ·κατέργαστος, ος, ον :<br>      1</b> non travaillé, sans art, LGN <i>15, 5</i>.<br><b>      2</b> non digéré, ARSTT. <i>P.A. 2, 3, 9</i>.<br><b>      3</b> indigeste, GAL. <i>6, 484</i>.<p><b>Étym</b>. ἀ, κατεργάζομαι.`

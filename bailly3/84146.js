@@ -1,0 +1,1 @@
+lar[84146]=`<b>εως (ἡ)</b> <font color="purple">[ᾰ]</font> action d’exposer devant, DAMASC.<p><b>Étym</b>. προεμφαίνω.`

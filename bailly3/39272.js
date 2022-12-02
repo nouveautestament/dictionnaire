@@ -1,0 +1,1 @@
+lar[39272]=`<b>ατος (τὸ)</b> glissement, chute, JOS. <i>A.J. 19, 1, 11</i>.<p><b>Étym</b>. ἐπισφάλλω.`

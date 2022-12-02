@@ -1,0 +1,1 @@
+lar[27639]=`<b>δορυ·θαρσής, ής, ές</b> <font color="purple">[ῠ]</font> à la lance hardie, <i>ép. de Pallas,</i> A. PL. <i>170</i>.<p><b>Étym</b>. δόρυ, θάρσος ; <i>cf</i>. δορυθρασής.`

@@ -1,0 +1,1 @@
+lar[97805]=`<b>ταυρο·φανής, ής, ές</b> <font color="purple">[ᾰ]</font> qui ressemble à un taureau, DP. <i>642</i>.<p><b>Étym</b>. τ. φαίνω.`

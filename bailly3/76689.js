@@ -1,0 +1,1 @@
+lar[76689]=`<i>adv</i>., de quelque ressemblance avec, ZOS. <i>5, 16</i>.<p><b>Étym</b>. παρεμφερής.`

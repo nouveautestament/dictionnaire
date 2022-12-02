@@ -1,0 +1,1 @@
+lar[97690]=`<b>ων (οἱ)</b> = <i>lat</i>. Tarquinii, Tarquinies, <i>v. d’Étrurie,</i> PLUT. <i>Fort. Rom. 4</i>.`

@@ -1,0 +1,1 @@
+lar[106431]=`<b>φλοιόω-ῶ</b>, changer en écorce, NONN. <i>D. 36, 605</i>.<p><b>Étym</b>. φλοιός.`

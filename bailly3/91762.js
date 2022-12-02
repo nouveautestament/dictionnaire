@@ -1,0 +1,1 @@
+lar[91762]=`<b>ου (ὁ)</b> <font color="purple">[ᾰ]</font> spare, <i>poisson,</i> EPICH. <i>fr. 24 Ahrens</i> ; MATR. (ATH. <i>136c</i>) ; ARSTT. <i>H.A. 2, 17, 26</i>.`

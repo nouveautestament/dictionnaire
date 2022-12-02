@@ -1,0 +1,1 @@
+lar[61835]=`<b>άδος</b> <font color="purple">[ῠᾰδ]</font> <i>c</i>. Λυκαμβίς ANTH. <i>7, 70</i>.`

@@ -1,0 +1,1 @@
+lar[27160]=`<b>διφροφορέω-ῶ :<br>      1</b> porter un siège (<i>v</i>. διφροφόρος) AR. <i>Av. 1552</i>.<br><b>      2</b> porter dans une chaise <i>ou</i> dans une litière, DC. <i>47, 10 ; au pass</i>. se faire porter dans une chaise <i>ou</i> dans une litière, HDT. <i>3, 146</i> ; DC. <i>60, 2</i>.<p><b>Étym</b>. διφροφόρος.`

@@ -1,0 +1,1 @@
+lar[5680]=`<b>ου (ὁ)</b> <font color="purple">[νᾱ]</font> descendant, petit-fils, LYC. <i>144, etc</i>.<p><b>Étym</b>. ἀμνός.`

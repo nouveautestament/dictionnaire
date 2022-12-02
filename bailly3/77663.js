@@ -1,0 +1,1 @@
+lar[77663]=`<b>ης (ἡ)</b> Peirènè (<i>auj</i>. Piríni) <i>fontaine près de Corinthe,</i> HDT. <i>5, 92</i> ; EUR. <i>Med. 69, etc</i>.<p>➳ <i>Dor</i>. Πειρήνα, EUR. <i>Tr. 205 ; ou</i> Πειράνα <font color="purple">[ᾱᾱ]</font> PD. <i>O. 13, 86</i>.`

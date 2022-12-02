@@ -1,0 +1,1 @@
+lar[31603]=`<b>ἐκ·λιμνόω-ῶ</b> <font color="darkgreen">(<i>ao. pass</i>. ἐξελιμνώθη)</font> changer en marais, <i>d’où au pass</i>. être changé en marais, DH. <i>1, 61</i>.<p><b>Étym</b>. ἐκ, λίμνη.`

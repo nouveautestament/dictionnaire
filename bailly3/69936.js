@@ -1,0 +1,1 @@
+lar[69936]=`<b>ξυρ·ήκης, ης, ες</b> <font color="purple">[ῠ]</font><br><b>      1</b> <i>act</i>. tranchant comme un rasoir, XÉN. <i>Cyn. 10, 3</i>.<br><b>      2</b> <i>pass</i>. rasé, tondu avec un rasoir, EUR. <i>Alc. 429, El. 335, Ph. 372</i>.<p><b>Étym</b>. ξυρόν, ἀκή.`

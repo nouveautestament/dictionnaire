@@ -1,0 +1,1 @@
+lar[42925]=`<b>εὐ·παράδεκτος, ος, ον :<br>      1</b> <i>pass</i>. facile à admettre, admissible, croyable, POL. <i>10, 2, 11</i> ; DYSC. <i>Pron. 114a.</i><br><b>      2</b> <i>act</i>. qui reçoit aisément, susceptible de, <i>gén</i>. PHIL. <i>1, 136</i>.<p>•<i> Cp</i>. -ότερος, POL. <i>l. c</i>.<p><b>Étym</b>. εὖ, παραδέχομαι.`

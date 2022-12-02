@@ -1,0 +1,1 @@
+lar[70063]=`<b>ης, ες</b>, qui brait avec force, EL. <i>N.A. 12, 34, au cp</i>. -έστερος.<p><b>Étym</b>. ὀγκάομαι, -ωδης.`

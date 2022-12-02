@@ -1,0 +1,1 @@
+lar[20267]=`<b>ή, όν</b>, du Bosphore ; οἱ β. STR. <i>309</i> ; LUC. <i>Alex. 57, etc</i>. les habitants du Bosphore.`

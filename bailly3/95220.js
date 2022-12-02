@@ -1,0 +1,1 @@
+lar[95220]=`<b>ου (ὁ, ἡ)</b> compagnon d’esclavage, <i>au masc</i>. EUR. <i>Ion 1109</i> ; AR. <i>Pax 745, etc. ; au fém</i>. HDT. <i>1, 110 ; 2, 134</i> ; EUR. <i>Med. 65, etc</i>.<p>➳ <i>Fém</i>. συνδούλη, BABR. <i>f. 3, 6</i>.<p><b>Étym</b>. σ. δοῦλος.`

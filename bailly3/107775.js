@@ -1,0 +1,1 @@
+lar[107775]=`<b>χαμαί·λυκος, ου (ὁ)</b> <font color="purple">[ᾰῠ]</font> <i>litt</i>. « loup nain », <i>sorte de plante,</i> DIOSC. <i>Noth. 4, 61</i>.<p><b>Étym</b>. χ. λύκος.`

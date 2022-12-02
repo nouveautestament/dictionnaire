@@ -1,0 +1,1 @@
+lar[25518]=`<b>ων (τὰ)</b> <font color="purple">[ῑᾰσ]</font> fêtes de Zeus μειλίχιος, <i>à Athènes,</i> THC. <i>1, 126</i> ; AR. <i>Nub. 408 (dat. pl</i>. -ίοισιν), <i>864 (dat. pl</i>. -ίοις).<p><b>Étym</b>. Διός, <i>v</i>. Ζεύς.`

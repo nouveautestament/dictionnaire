@@ -1,0 +1,1 @@
+lar[86952]=`<b>ή, όν</b>, de prophète <i>ou</i> de prophétie, prophétique, LUC. <i>Alex. 60</i> ; NT. <i>2Petr. 1, 19</i>.<p><b>Étym</b>. προφήτης.`

@@ -1,0 +1,1 @@
+lar[61147]=`<b>λιμενο·ειδής, ής, ές</b> <font color="purple">[ῐ]</font> qui ressemble à un port, STR. <i>5, 1, 9 Kram</i>.<p><b>Étym</b>. λ. εἶδος.`

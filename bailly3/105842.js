@@ -1,0 +1,1 @@
+lar[105842]=`<b>φιλο·κλέαρχος, ου (ὁ)</b> <font color="purple">[ῐ]</font> ami de Kléarkhos, PLUT. <i>Artax. 13</i>.`

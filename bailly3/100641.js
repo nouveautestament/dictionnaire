@@ -1,0 +1,1 @@
+lar[100641]=`<b>τριχοτομέω-ῶ</b> <font color="purple">[ῐ]</font> couper les cheveux, DH. <i>7, 72</i>.<p><b>Étym</b>. θρίξ, -τομος <i>de</i> τέμνω.`

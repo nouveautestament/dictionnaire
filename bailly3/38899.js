@@ -1,0 +1,1 @@
+lar[38899]=`<b>ἐπι·ρριπτέω</b> (<i>seul. prés. et impf</i>.) :<br><b>      1 <i>tr.</i></b> jeter sur, XÉN. <i>An. 5, 2, 23</i>.<br><b>      2 <i>intr.</i></b> se jeter sur, XÉN. <i>Cyn. 6, 22</i>.<p><b>Étym</b>. <i>cf</i>. ἐπιρρίπτω.`

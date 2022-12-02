@@ -1,0 +1,1 @@
+lar[110274]=`<b>ὠμό·θυμος, ος, ον</b> <font color="purple">[ῡ]</font> au cœur dur <i>ou</i> cruel, SOPH. <i>Aj. 885</i> ; PHIL. <i>2, 15, etc</i>.<p><b>Étym</b>. ὠ. θυμός.`

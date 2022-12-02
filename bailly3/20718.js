@@ -1,0 +1,1 @@
+lar[20718]=`<b>βραχύ·πτολις, εως (ἡ)</b> <font color="purple">[ᾰ]</font> petite ville, LYC. <i>911</i>.`

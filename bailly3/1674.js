@@ -1,0 +1,1 @@
+lar[1674]=`<b>ἀει·λαμπής, ής, ές</b>, qui brille sans cesse, STOB. <i>Ecl. phys. 1, 494</i>.<p><b>Étym</b>. ἀ. λάμπω.`

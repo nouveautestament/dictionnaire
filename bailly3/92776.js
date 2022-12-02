@@ -1,0 +1,1 @@
+lar[92776]=`<b>ης (ἡ)</b> <font color="purple">[ᾰ]</font> <i>c</i>. ἀστράβη, ANACR. <i>141</i>.`

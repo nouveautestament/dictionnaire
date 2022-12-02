@@ -1,0 +1,1 @@
+lar[104323]=`<b>ὑστερό·ποτμος, ος, ον</b>, qu’on croyait mort et qui revient, PLUT. <i>M. 265 a et b</i>.<p><b>Étym</b>. ὕ. πότμος.`

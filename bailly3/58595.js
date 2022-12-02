@@ -1,0 +1,1 @@
+lar[58595]=`<b>κυκνο·κάνθαρος, ος, ον</b> <font color="purple">[ᾰρ]</font> dont la proue arrondie en coupe se termine en cygne, NICOSTR. (ATH. <i>474b</i>).<p><b>Étym</b>. κύκνος, κάνθαρος.`

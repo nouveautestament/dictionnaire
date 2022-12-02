@@ -1,0 +1,1 @@
+lar[19042]=`<b>οῦ (ὁ)</b> celui qui immerge, qui baptise, NAZ. ; <i>2, 252c ; 393c Migne</i> ; Ἰωάννης ὁ β. NT. JOS. <i>A.J. 18, 5, 2,</i> Jean Baptiste, <i>litt</i>. Jean l’immerseur.<p><b>Étym</b>. βαπτίζω.`

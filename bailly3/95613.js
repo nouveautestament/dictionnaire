@@ -1,0 +1,1 @@
+lar[95613]=`<b>συν·επιδημέω-ῶ :<br>      1</b> voyager ensemble au dehors, STR. <i>685</i>.<br><b>      2</b> <i>fig</i>. être associé à, <i>dat</i>. JOS. <i>A.J. 6, 1, 2</i>.`

@@ -1,0 +1,1 @@
+lar[36498]=`<b>ἐπ·αληθεύω</b> <font color="purple">[ᾰ]</font> affirmer comme vrai, THC. <i>4, 85 ; 8, 52 ; au pass</i>. DH. <i>1, 58</i>.`

@@ -1,0 +1,1 @@
+lar[41718]=`<i>adv</i>., par un heureux coup (de dés) <i>au cp</i>. -ώτερον, ARISTÉN. <i>1, 23</i>.<p><b>Étym</b>. εὔβολος.`

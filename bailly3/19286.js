@@ -1,0 +1,1 @@
+lar[19286]=`<b>(ἡ)</b> <font color="purple">[βᾱ <i>pour</i> βᾰ]</font> Basilla, <i>f</i>. ANTH. <i>3, 970</i>.`

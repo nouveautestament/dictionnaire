@@ -1,0 +1,1 @@
+lar[91537]=`<b>      1 <i>tr.</i></b> préparer avec de la myrrhe, NT. <i>Marc. 15, 23</i>.<br><b>      2 <i>intr.</i></b> être semblable à la myrrhe, DIOSC. <i>1, 79</i>.<p><b>Étym</b>. σμύρνα.`

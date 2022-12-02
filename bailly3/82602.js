@@ -1,0 +1,1 @@
+lar[82602]=`<b>ας (ἡ)</b> <font color="purple">[δῠ]</font> vive souffrance, EUR. <i>Epist. 4</i>.<p><b>Étym</b>. πολυώδυνος.`

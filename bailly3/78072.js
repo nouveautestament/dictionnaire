@@ -1,0 +1,1 @@
+lar[78072]=`<b>πεντεκαιδεκα·ετής, ής, ές :<br>      1</b> âgé de quinze ans, ARSTT. <i>H.A. 5, 12, 10</i>.<br><b>      2</b> d’une durée de quinze ans, DH. <i>4, 85</i> ; PLUT. <i>M. 113d</i>.<p><b>Étym</b>. π. ἔτος.`

@@ -1,0 +1,1 @@
+lar[100512]=`<b>τρι·συλλαβέω-ῶ</b> <font color="purple">[ῐᾰ]</font> être formé de trois syllabes, HDN GR. <i>π. μ. λ. p. 21</i>.<p><b>Étym</b>. τρισύλλαβος.`

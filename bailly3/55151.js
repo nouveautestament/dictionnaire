@@ -1,0 +1,1 @@
+lar[55151]=`<b>ης (ἡ)</b> sollicitude, souci, inquiétude, A.RH. <i>1, 277</i>.<p><b>Étym</b>. κήδω.`

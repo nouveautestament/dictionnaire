@@ -1,0 +1,1 @@
+lar[106937]=`<b>φρουραρχέω-ῶ :<br>      1</b> être commandant d’un poste, d’une troupe de garde, PLUT. <i>Dio. 11</i>.<br><b>      2</b> monter la garde, veiller sur, <i>acc. fig</i>. NYSS.<p><b>Étym</b>. φρούραρχος.`

@@ -1,0 +1,1 @@
+lar[84419]=`<b>ῆρος (ὁ)</b> outil en forme de pince pour ouvrir un passage, PHIL. BYZ. <i>Bel. 67</i>.<p><b>Étym</b>. προκαθηγέομαι.`

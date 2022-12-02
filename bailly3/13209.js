@@ -1,0 +1,1 @@
+lar[13209]=`<b>ἀπ·όρνυμαι</b> <font color="purple">[ῠ]</font> (<i>seul. prés</i>.) s’élancer, partir de, IL. <i>5, 105</i> ; HÉS. <i>Th. 9</i> ; A.RH. <i>1, 800</i>.<p><b>Étym</b>. ἀπό, ὄρνυμι.`

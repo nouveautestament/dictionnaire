@@ -1,0 +1,1 @@
+lar[84064]=`<b>προ·εκδέχομαι</b>, soutenir le premier choc de, <i>acc</i>. STR. <i>15</i> ; JOS. <i>B.J. 7, 6, 4</i>.`

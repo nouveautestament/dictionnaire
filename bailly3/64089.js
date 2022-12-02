@@ -1,0 +1,1 @@
+lar[64089]=`<i>att</i>. <b>μελιττουργός, οῦ (ὁ)</b> éleveur d’abeilles, apiculteur, PLAT. <i>Leg. 842d, etc.</i> ; ARSTT. <i>H.A. 5, 22, 6</i>.<p><b>Étym</b>. μέλισσα, ἔργον.`

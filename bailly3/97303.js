@@ -1,0 +1,1 @@
+lar[97303]=`<i>adv</i>., en homme modéré, sage, AR. <i>Eq. 545</i>.<p>•<i> Cp</i>. -ώτερον, ATH. <i>426c</i>.`

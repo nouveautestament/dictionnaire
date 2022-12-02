@@ -1,0 +1,1 @@
+lar[82611]=`<b>ή, όν</b>, plein d’égards, d’attentions, PLUT. <i>M. 276a</i>.<p><b>Étym</b>. πολυωρέω.`

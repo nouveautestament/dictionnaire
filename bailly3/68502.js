@@ -1,0 +1,1 @@
+lar[68502]=`<b>ου (τὸ)</b> Nèion (<i>auj</i>. Niríto <i>dans la partie N.,</i> Merovígli <i>dans la partie S.) mt. d’Ithaque,</i> OD. <i>1, 186</i>.`

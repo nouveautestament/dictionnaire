@@ -1,0 +1,1 @@
+lar[30440]=`<i>adv</i>., en troupe, ARAT. <i>917</i>.<p><b>Étym</b>. εἰλέω, -δα.`

@@ -1,0 +1,1 @@
+lar[43491]=`<i>att</i>. <b>εὕστρα, ας (ἡ)</b> échaudoir, lieu où l’on échaude les porcs, AR. <i>Eq. 1236</i>.<p><b>Étym</b>. εὔω <i>ou</i> εὕω.`

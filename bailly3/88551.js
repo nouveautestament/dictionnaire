@@ -1,0 +1,1 @@
+lar[88551]=`<b>ῥιζο·παγής, ής, ές</b> <font color="purple">[ᾰ]</font> solidement enraciné, NONN. <i>D. 2, 247</i>.<p><b>Étym</b>. ῥίζα, πήγνυμι.`

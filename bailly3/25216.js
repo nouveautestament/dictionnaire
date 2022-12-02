@@ -1,0 +1,1 @@
+lar[25216]=`<b>ατος (τὸ)</b> repos entre deux périodes de travail, relâche, PLAT. <i>Leg. 824a</i>.<p><b>Étym</b>. διαπαύω.`

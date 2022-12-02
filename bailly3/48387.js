@@ -1,0 +1,1 @@
+lar[48387]=`<i>adv</i>., particulièrement, DS. <i>19, 99</i> ; SEXT. <i>P. 1, 182</i>.<p><b>Étym</b>. ἰδιάζω.`

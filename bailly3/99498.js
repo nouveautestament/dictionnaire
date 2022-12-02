@@ -1,0 +1,1 @@
+lar[99498]=`<b>ας (ἡ)</b> <font color="purple">[ῠ]</font> action de percer un mur pour voler, <i>d’où</i> vol par effraction, XÉN. <i>Ap. 25</i> ; DH. <i>4, 24</i>.<p><b>Étym</b>. τοιχωρύχος.`

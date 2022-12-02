@@ -1,0 +1,1 @@
+lar[83725]=`<b>προ·ασφαλίζω</b> (<i>inf. pf. pass</i>. προησφαλίσθαι) <font color="purple">[φᾰ]</font>, mettre en sûreté auparavant, <i>au pass.,</i> JOS. <i>B.J. 6, 1, 4, etc.</i> ; ARÉT. <i>Cur. m. acut. 2, 3</i>.`

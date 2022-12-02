@@ -1,0 +1,1 @@
+lar[7287]=`<b>ή, όν</b>, propre à dessécher, PLUT. <i>M. 624d ;</i> DIOSC. <i>1, 6</i>.`

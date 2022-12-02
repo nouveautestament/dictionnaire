@@ -1,0 +1,1 @@
+lar[12919]=`<b>ἀπο·μυκάομαι-ῶμαι</b> <font color="purple">[ῡ]</font> pousser un mugissement, ANTH. <i>9, 742</i>.`

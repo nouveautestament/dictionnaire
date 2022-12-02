@@ -1,0 +1,1 @@
+lar[6559]=`<b>(ὁ)</b> Anabous, <i>Libyen,</i> PLUT. <i>Mul. virt. 19</i>.`

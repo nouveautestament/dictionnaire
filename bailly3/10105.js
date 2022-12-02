@@ -1,0 +1,1 @@
+lar[10105]=`<b>ας (ἡ)</b> rémunération, salaire, NT. <i>Rom. 1, 27 ; 2Cor. 6, 13</i>.<p><b>Étym</b>. ἀντίμισθος.`

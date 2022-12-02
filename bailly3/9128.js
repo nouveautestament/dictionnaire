@@ -1,0 +1,1 @@
+lar[9128]=`<b>ἀνισο·τοιχέω-ῶ</b> <font color="purple">[ᾰῐ]</font> n’avoir pas les côtés égaux, <i>d’où</i> pencher d’un côté, SIMPL. <i>Epict. 31</i>.<p><b>Étym</b>. ἄνισος, τοῖχος.`

@@ -1,0 +1,1 @@
+lar[71487]=`<b>ὁμο·ερκής, ής, ές</b>, renfermé dans la même clôture, dans la même enceinte, SOL. (POLL. <i>6, 56).</i><p><b>Étym</b>. ὁμ. ἕρκος.`

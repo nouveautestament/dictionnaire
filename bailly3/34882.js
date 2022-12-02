@@ -1,0 +1,1 @@
+lar[34882]=`<b>ἐν·ουράνιος, ος, ον</b> <font color="purple">[ᾰ]</font> céleste, ANTH. <i>9, 223</i>.<p><b>Étym</b>. ἐν, οὐρανός.`

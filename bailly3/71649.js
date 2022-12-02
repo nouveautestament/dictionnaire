@@ -1,0 +1,1 @@
+lar[71649]=`<b>ὁμό·πλοος-ους, οος-ους, οον-ουν</b>, qui navigue de conserve avec, <i>dat</i>. TRIPHIOD. <i>265 ; abs</i>. ANTH. <i>7, 635</i>.<p><b>Étym</b>. ὁμ. πλόος.`

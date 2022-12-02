@@ -1,0 +1,1 @@
+lar[45297]=`<b>ίδος</b> <font color="purple">[ᾰ]</font> <i>adj. f</i>. d’Émathie, ANTH. <i>6, 335</i>.<p><b>Étym</b>. <i>v</i>. Ἠμαθία, Ἠμαθιῆες.`

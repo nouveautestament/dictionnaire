@@ -1,0 +1,1 @@
+lar[82579]=`<b>ας (ἡ)</b> longue durée, ARSTT. <i>Probl. 10, 47</i>.<p><b>Étym</b>. πολυχρόνιος.`

@@ -1,0 +1,1 @@
+lar[54753]=`<b>ου (ὁ)</b> sorte de poisson, TH. <i>fr. 12, 9 dout</i>.<p><b>Étym</b>. κέντρον.`

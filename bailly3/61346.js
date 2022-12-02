@@ -1,0 +1,1 @@
+lar[61346]=`<b>λιπό·πατρις</b>, <i>mieux que</i> <b>λειπό·πατρις, ιδος (ὁ, ἡ)</b> <font color="purple">[ῐῐδ]</font><br><b>      1</b> qui abandonne sa patrie, sans patrie, NONN. <i>D. 1, 131</i>.<br><b>      2</b> qui fait oublier (<i>propr</i>. abandonner) sa patrie, ANTH. <i>15, 12</i>.<p><b>Étym</b>. λ. πατρίς.`

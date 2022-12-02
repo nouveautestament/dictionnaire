@@ -1,0 +1,1 @@
+lar[33463]=`<b>ἐμ·πλάζω</b> <font color="darkgreen">(<i>f</i>. -πλάγξω) :</font><br><b>      1</b> égarer dans ; <i>au pass</i>. être égaré, <i>ou</i> s’égarer dans, ORPH. <i>Arg. 643</i> ; PLUT. <i>Oth. 12</i>.<br><b>      2 <i>intr.</i></b> s’égarer dans, NIC. <i>Al. 189</i>.<p>➳ <i>Part. ao. pass. poét</i>. ἐνιπλαγχθείς, ORPH. <i>l. c</i>.<p><b>Étym</b>. ἐν, πλ.`

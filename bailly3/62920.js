@@ -1,0 +1,1 @@
+lar[62920]=`<b>ων (οἱ)</b> les Mardes, <i>pple de Perse,</i> HDT. <i>1, 84, 125</i> ; ESCHL. <i>Pers. 994</i>.`

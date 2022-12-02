@@ -1,0 +1,1 @@
+lar[12278]=`<b>ἀπό·δημος, ος, ον</b>, qui voyage hors de son pays, PD. <i>P. 4, 5</i> ; PLUT. <i>M. 799f ;</i> ἀ. στρατεία, LUC. <i>Am. 6,</i> expédition en pays étranger.<p>➳ <i>Dor</i>. -δαμος <font color="purple">[δᾱ]</font> PD. <i>l. c</i>.<p><b>Étym</b>. ἀπό, δῆμος.`

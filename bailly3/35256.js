@@ -1,0 +1,1 @@
+lar[35256]=`<b>ἐξ·αγοράζω</b> <font color="purple">[ᾰγ]</font><br><b>      1</b> acheter, POL. <i>3, 42, 2</i> ; PLUT. <i>Crass. 2</i>.<br><b>      2</b> racheter, DS. <i>36, 1 ; fig</i>. NT. <i>Gal. 3, 13</i>.<br><b><i>Moy.</i></b> chercher à saisir (l’occasion) <i>acc</i>. NT. <i>Col. 4, 5</i>.`

@@ -1,0 +1,1 @@
+lar[56256]=`<b>ας (ἡ)</b> rayon de roue, LYS. (POLL. <i>716, etc</i>.).`

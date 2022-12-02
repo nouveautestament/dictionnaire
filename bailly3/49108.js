@@ -1,0 +1,1 @@
+lar[49108]=`<b>ἰο·βόστρυχος, ος, ον</b> <font color="purple">[ῠ]</font> aux boucles de cheveux aux reflets violets, PD. <i>O. 6, 50 ; I. 7, 33</i>.<p><b>Étym</b>. ἴον, βόστρυχος.`

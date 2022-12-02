@@ -1,0 +1,1 @@
+lar[18012]=`<i>adv</i>., en forme de récit, PROCL. <i>Plat. Parm. 1, 13</i>.`

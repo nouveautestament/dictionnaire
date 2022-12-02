@@ -1,0 +1,1 @@
+lar[44251]=`<b>ή, όν</b>, d’ennemi, hostile, HERMOG. <i>3, 239 Walz</i>.<p><b>Étym</b>. ἐχθρός.`

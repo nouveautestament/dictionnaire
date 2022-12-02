@@ -1,0 +1,1 @@
+lar[51951]=`<i>adv.</i> :<br><b>      1</b> avec force, LUC. <i>Somn. 6</i> ; ARR. <i>An. 2, 23, 7, etc.</i><br><b>      2</b> <i>fig</i>. résolument, courageusement, LUC. <i>Pr. 21, etc.</i> ; A. TAT. <i>8, 17</i>.<p><b>Étym</b>. καρτερός.`

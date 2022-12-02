@@ -1,0 +1,1 @@
+lar[73132]=`<b>ης (ἡ)</b> obscurité, ténèbres, nuit, THGN. <i>1075</i> ; EUR. <i>Ion 955, etc.</i> ; T. LOCR. <i>97c ;</i> XÉN. <i>Lac. 5, 7</i> ; POL. <i>18, 2, 7</i>.<p>➳ <i>Dor</i>. ὄρφνα, PD. <i>O. 1, 71, etc.</i> ; EUR. <i>I.T. 151, etc.</i> ; T. LOCR. <i>l. c</i>.<p><b>Étym</b>. <i>incert</i>.`

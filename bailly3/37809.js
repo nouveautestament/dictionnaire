@@ -1,0 +1,1 @@
+lar[37809]=`<b>ας (ἡ)</b> <font color="purple">[ῐᾰτ]</font> fabrication de couvercles (<i>v. ci-dessus</i> ἐπίθημα) PLAT. <i>Pol. 280d</i>.<p><b>Étym</b>. ἐπίθημα, ἔργον.`

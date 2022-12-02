@@ -1,0 +1,1 @@
+lar[81941]=`<b>πολύ·θροος-ους, οος-ους, οον-ουν</b>, très bruyant, très sonore, ESCHL. <i>Suppl. 820</i>.<p><b>Étym</b>. π. θρόος.`

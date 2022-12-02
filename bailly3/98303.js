@@ -1,0 +1,1 @@
+lar[98303]=`<b>τενοντο·κοπέω-ῶ</b>, couper le cou (<i>litt</i>. le derrière du cou) AQU. <i>Ex. 34, 20</i>.<p><b>Étym</b>. τένων, κόπτω.`

@@ -1,0 +1,1 @@
+lar[38370]=`<b>ἐπι·μάρτυρος, ου (ὁ, ἡ)</b> <font color="purple">[ῠ]</font> <i>au masc</i>. IL. <i>7, 76</i> ; OD. <i>1, 273</i> ; HÉS. <i>Sc. 20 ; au fém</i>. MAN. <i>6, 231</i> ; ORPH. <i>Arg. 349,</i> qui rend témoignage de.<p><b>Étym</b>. ἐπί, μάρτυς.`

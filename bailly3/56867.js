@@ -1,0 +1,1 @@
+lar[56867]=`<b>κονέω-ῶ</b>, soulever de la poussière en courant, <i>d’où</i> courir, se hâter, ANTH. <i>13, 23 conj</i>.<p><b>Étym</b>. κόνις.`

@@ -1,0 +1,1 @@
+lar[89751]=`<b>ου (τὸ)</b> <font color="purple">[ῐδ]</font> petite page, feuille d’un petit livre, POL. <i>5, 33, 3</i> ; PTOL. <i>Geogr. 2, 1, 3</i>.<p><b>Étym</b>. <i>dim. de</i> σελίς.`

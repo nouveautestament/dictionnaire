@@ -1,0 +1,1 @@
+lar[55429]=`<b>ωνος (ὁ)</b> = <i>lat</i>. Cĭcĕro, Cicéron, <i>célèbre orateur romain,</i> PLUT. <i>Cic. 1, etc. ; au plur</i>. Κικέρωνες, PLUT. <i>Crass. 14,</i> des hommes semblables à Cicéron.`

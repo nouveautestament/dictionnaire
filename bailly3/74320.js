@@ -1,0 +1,1 @@
+lar[74320]=`<b>παιδό·τρωτος, ος, ον</b> : πάθος, souffrance que cause une blessure faite par des enfants à leurs parents, ESCHL. <i>Eum. 496</i>.<p><b>Étym</b>. π. τιτρώσκω.`

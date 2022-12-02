@@ -1,0 +1,1 @@
+lar[66968]=`<b>ας (ἡ)</b> sorte de plante, TH. <i>H.P. 5, 7, 7</i>.`

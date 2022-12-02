@@ -1,0 +1,1 @@
+lar[109500]=`<b>ητος (ἡ)</b> <font color="purple">[ᾰῠ]</font> fragilité, friabilité, ARSTT. <i>H.A. 4, 1, 21 ; Probl. 21, 11</i>.<p><b>Étym</b>. ψαθυρός.`

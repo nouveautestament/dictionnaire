@@ -1,0 +1,1 @@
+lar[37543]=`<b>ητος (ἡ)</b> dextérité, adresse, ESCHN. <i>34, 20</i> ; ARSTT. <i>Nic. 4, 8, 5 ; p. ext</i>. souplesse d’esprit, intelligence, PLUT. <i>M. 441b au plur</i>.<p><b>Étym</b>. ἐπιδέξιος.`

@@ -1,0 +1,1 @@
+lar[6817]=`<b>ἀνα·θύω</b> (<i>inf. ao. pass</i>. ἀναθυθῆναι) faire un nouveau sacrifice, DC. <i>37, 46</i>.`

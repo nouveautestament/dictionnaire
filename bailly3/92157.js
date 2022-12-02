@@ -1,0 +1,1 @@
+lar[92157]=`<b>οῦ (ὁ)</b> <font color="purple">[τᾰ]</font> soulèvement, sédition, THC. <i>4, 130 ; 8, 94</i> ; ARSTT. <i>Œc. 2, 18</i>.<p><b>Étym</b>. στασιάζω.`

@@ -1,0 +1,1 @@
+lar[2545]=`<b>ιδος</b> <font color="purple">[ᾰῑῐδ]</font> <i>adj. f</i>. de sang : αἱμ. φλέψ, HPC. <i>1286, 42,</i> vaisseau sanguin ; αἱμ. χορδή, SOPHIL. (ATH. <i>125e</i>) boudin.<p><b>Étym</b>. <i>fém. de</i> αἱματίτης.`

@@ -1,0 +1,1 @@
+lar[51088]=`<b>καλλί·βοτος, ος, ον</b> <font color="purple">[ῐ]</font> aux beaux pâturages, NONN. <i>D. 35, 59</i>.<p><b>Étym</b>. κ. βόσκω.`

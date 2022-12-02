@@ -1,0 +1,1 @@
+lar[26416]=`<b>δί·θυρσον, ου (τὸ)</b> <font color="purple">[ῐ]</font> le double thyrse, ANTH. <i>6, 172</i>.<p><b>Étym</b>. δίς, θύρσος.`

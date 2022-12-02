@@ -1,0 +1,1 @@
+lar[54998]=`<b>κερό·δετος, ος, ον</b>, lié de cercles de corne, <i>ép. d’un arc,</i> EUR. <i>Rhes. 33</i>.<p><b>Étym</b>. κέρας, δέω.`

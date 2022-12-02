@@ -1,0 +1,1 @@
+lar[5033]=`<b>ου (τὸ)</b> <font color="purple">[ᾰῠ]</font> petite chaîne, ALCIPHR. <i>3, 3, etc</i>.<p><b>Étym</b>. ἅλυσις.`

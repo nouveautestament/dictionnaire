@@ -1,0 +1,1 @@
+lar[21836]=`<b>ου (ὁ)</b> qui goûte (à qqe ch.) NAZ. <i>3, 659a Migne</i>.<p><b>Étym</b>. γεύομαι.`

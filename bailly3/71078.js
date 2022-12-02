@@ -1,0 +1,1 @@
+lar[71078]=`<b>ὀλιγό·φωνος, ος, ον</b> <font color="purple">[ῐ]</font> qui a peu de voix, peu de son, A. QUINT. <i>p. 43</i>.<p><b>Étym</b>. ὀλ. φωνή.`

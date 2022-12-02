@@ -1,0 +1,1 @@
+lar[91008]=`<b>ου</b>, <i>adj. m</i>. de Skiônè, HDT. <i>8, 8, 128</i> ; THC. <i>4, 120, etc.</i> ; ISOCR. <i>4, 100, etc. Baiter-Sauppe</i>.<p><b>Étym</b>. Σκιώνη.`

@@ -1,0 +1,1 @@
+lar[43507]=`<b>εὐ·σύμβλητος, ος, ον</b>, facile à conjecturer, à deviner, HDT. <i>7, 57</i>.<p>➳ <i>Anc. att</i>. εὐξύμβλ. ESCHL. <i>Pr. 775</i>.<p><b>Étym</b>. εὖ, συμβάλλω.`

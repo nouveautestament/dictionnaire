@@ -1,0 +1,1 @@
+lar[27008]=`<b>υος (ἡ)</b> Dirphys, <i>mt. d’Eubée,</i> EUR. <i>H.f. 185, etc</i>.`

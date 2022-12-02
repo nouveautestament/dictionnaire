@@ -1,0 +1,1 @@
+lar[107475]=`<b>ονος (ὁ)</b> Khærèmôn (Chærémon) :<br><b>      1</b> poète tragique, ARSTT. <i>Rhet. 2, 23 ; 3, 12 ; Poet. 1, 24, etc.</i><br><b>      2</b> <i>autres,</i> ANTH. <i>4, 1, 51, etc</i>.`

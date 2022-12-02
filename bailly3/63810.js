@@ -1,0 +1,1 @@
+lar[63810]=`<b>μελάμ·πεπλος, ος, ον</b>, à robe noire, EUR. <i>Alc. 844 ; Ion 1150 ; en parl. de la robe elle-même,</i> EUR. <i>Alc. 427</i>.<p><b>Étym</b>. μ. πέπλον.`

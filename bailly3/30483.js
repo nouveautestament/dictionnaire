@@ -1,0 +1,1 @@
+lar[30483]=`<b>ατος (τὸ)</b> <font color="purple">[ῡ]</font> enveloppe, couverture, OD. <i>6, 179</i> ; ANACR. <i>19</i> ; A.RH. <i>2, 1129</i>.<p><b>Étym</b>. εἰλύω.`

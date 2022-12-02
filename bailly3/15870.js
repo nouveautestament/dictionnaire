@@ -1,0 +1,1 @@
+lar[15870]=`<b>ου</b> <font color="purple">[ᾱ]</font> <i>adj. m</i>. d’Asis <i>ou</i> d’Asos, <i>en Lydie,</i> IL. <i>2, 461</i>.`
